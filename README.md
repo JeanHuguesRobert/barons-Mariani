@@ -9,6 +9,8 @@ Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au
 ## Représentants
 La famille des barons Mariani est actuellement représentée par le baron Jean Hugues Noël Mariani et ses deux enfants, le baron Lucas Mariani et la baronne Marie-Louise Mariani.
 
+La famille porte les armes suivantes : D'azur à la tour donjonnée d'or, maçonnée de sable ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.
+
 ## Minesteggio
 Il s'agit de la principale propriété en Corse de la famille des barons Mariani. C'est une propriété agricole située à Corte en Corse. S'y trouve une maison remarquable en cours d'inscription aux monuments historiques.
 
