@@ -18,8 +18,14 @@ Cette association à but non lucratif, crée à Corte fin 1995, a pour objet la 
 ## Institut Mariani
 C'est une émanation de l'association CORSICA au sein de laquelle sont conduits divers travaux à caractère expérimental autour des pratiques démocratiques et des biens communs. Il s'agit de travaux intellectuels et de travaux pratiques.
 
+Le site web de l'institut est à l'adresse https://www.facebook.com/institutmariani.
+
 ## #suvranu
 Il s'agit d'une étiquette, un "hashtag", associée à des publications au sujet de la souveraineté du peuple dans le modèle démocratique promu par l'association CORSICA. Il est utilisé dans des publications sur Twitter, Facebook et ailleurs. C'est aussi le nom du système de gouvernance basé sur l'utilisation des outils d'intelligence artificielle pour la lutte pour l'indépendance en Corse, avec comme maxime : l'indépendance d'esprit d'abord !
+
+Les mentions de cette étiquette sur Twitter sont accessible à l'adresse https://twitter.com/search?q=%23suvranu&src=hashtag_click.
+Celles sur Facebook le sont à l'adresse https://www.facebook.com/hashtag/suvranu.
+Le compte Twitter @suvranu est à l'adresse https://twitter.com/suvranu.
 
 ## Fonds de dotation barons Mariani
 Ce fond en cours d'élaboration a pour objet la création de la Fondation barons Mariani. Il est à ce titre autant d'utilité publique de la future fondation.
@@ -29,6 +35,10 @@ La future fondation aura pour but l'étude, le soutient et la préservation de t
 
 ## Musée Napoléon de la démocratie corse
 Ce projet muséal regroupe un écomusée physique, sis à Minesteggio, un musée virtuel sur Internet, et un centre de recherche et d'expérimentation, l'Institut Mariani.
+
+## Auteur
+Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son compte Facebook est à l'adresse https://www.facebook.com/jeanhuguesrobert. Son compte Twitter @jhr est à l'adresse https://twitter.com/jhr. Le logotype Yangug auquel lui sont associé ses contributions publiques est ![yanug384](https://github.com/JeanHuguesRobert/barons-Mariani/assets/229573/2cfe275a-942d-4471-96db-76e27a7053e3)
+
 
 
 ## Licence CC
