@@ -7,6 +7,11 @@ Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au
 ## Minesteggio
 Il s'agit de la principale propriété en Corse de la famille des barons Mariani. C'est une propriété agricole située à Corte en Corse. S'y trouve une maison remarquable en cours d'inscription aux monuments historiques.
 
+## Les barons Mariani et leurs alliances
+Ce livre édité en 1993 raconte une partie de l'histoire de la famille des barons barons Mariani. Il a été écrit à partir de documents rassemblés principalement par l'un des fils du premier baron, le baron Antoine-Dominique Mariani.
+
+La notice Wikipedia sur ce dernier est à l'adresse https://fr.wikipedia.org/wiki/Antoine_Mariani. Le livre est quand à lui consultable en ligne, on y trouve mentionné l'ancêtre de la famille, Mariano, à l'adresse https://books.google.fr/books?id=9ScbAAAAYAAJ&focus=searchwithinvolume&q=mariano.
+
 ## Association C.O.R.S.I.C.A.
 Cette association à but non lucratif, crée à Corte fin 1995, a pour objet la promotion de la démocratie directe numérique pour la défense des biens communs. Son nom complet est l'association corse organisant la réunion sur internet de compétence autonomes.
 
