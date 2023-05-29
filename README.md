@@ -2,7 +2,7 @@
 Dépôt au sujet des barons Mariani. Le dépôt est organisé sous la forme d'un wiki alimenté de façon collaborative selon les règles fixées par l'association CORSICA dont le créateur du dépôt est le président fondateur.
 
 ## Objet
-Ce dépôt a été créer pour y mettre l'ensemble des informations publiques au sujet des barons Mariani. Tant du point de vue du passé que de celui de l'époque contemporaine et aussi des évolutions envisagées.
+Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au sujet des barons Mariani. Tant du point de vue du passé que de celui de l'époque contemporaine et aussi des évolutions envisagées.
 
 ## Minesteggio
 Il s'agit de la principale propriété en Corse de la famille des barons Mariani. C'est une propriété agricole située à Corte en Corse. S'y trouve une maison remarquable en cours d'inscription aux monuments historiques.
@@ -12,6 +12,9 @@ Cette association à but non lucratif, crée à Corte fin 1995, a pour objet la 
 
 ## Institut Mariani
 C'est une émanation de l'association CORSICA au sein de laquelle sont conduits divers travaux à caractère expérimental autour des pratiques démocratiques et des biens communs. Il s'agit de travaux intellectuels et de travaux pratiques.
+
+## #suvranu
+Il s'agit d'une étiquette, un "hashtag", associée à des publications au sujet de la souveraineté du peuple dans le modèle démocratique promu par l'association CORSICA. Il est utilisé dans des publications sur Twitter, Facebook et ailleurs. C'est aussi le nom du système de gouvernance basé sur l'utilisation des outils d'intelligence artificielle pour la lutte pour l'indépendance en Corse, avec comme maxime : l'indépendance d'esprit d'abord !
 
 ## Fonds de dotation barons Mariani
 Ce fond en cours d'élaboration a pour objet la création de la Fondation barons Mariani. Il est à ce titre autant d'utilité publique de la future fondation.
