@@ -4,6 +4,9 @@ Dépôt au sujet des barons Mariani. Le dépôt est organisé sous la forme d'un
 ## Objet
 Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au sujet des barons Mariani. Tant du point de vue du passé que de celui de l'époque contemporaine et aussi des évolutions envisagées.
 
+## Représentants
+La famille des barons Mariani est actuellement représentée par le baron Jean Hugues Noël Mariani et ses deux enfants, le baron Lucas Mariani et la baronne Marie-Louise Mariani.
+
 ## Minesteggio
 Il s'agit de la principale propriété en Corse de la famille des barons Mariani. C'est une propriété agricole située à Corte en Corse. S'y trouve une maison remarquable en cours d'inscription aux monuments historiques.
 
