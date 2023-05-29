@@ -32,6 +32,7 @@ Parmi les réalisations, dont certaines en cours, chronologiquement :
 - la défense de l'âne corse, en partenariat
 - une ferme à wiki mutualiste, prototype
 - le "tournesol" photovoltaïque, étude & expérimentations
+- le cuiseur solaire, en partenariat avec l'association Solaria
 - le label "plus durable", étude
 - l'eau d'ici, eau locale en bouteille réemployée, étude
 - le café philo de Corte, en partenariat, 3 saisons
