@@ -37,7 +37,7 @@ La future fondation aura pour but l'étude, le soutient et la préservation de t
 Ce projet muséal regroupe un écomusée physique, sis à Minesteggio, un musée virtuel sur Internet, et un centre de recherche et d'expérimentation, l'Institut Mariani.
 
 ## Auteur
-Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son compte Facebook est à l'adresse https://www.facebook.com/jeanhuguesrobert. Son compte Twitter @jhr est à l'adresse https://twitter.com/jhr. Le logotype Yangug auquel lui sont associé ses contributions publiques est ![yanug384](https://github.com/JeanHuguesRobert/barons-Mariani/assets/229573/2cfe275a-942d-4471-96db-76e27a7053e3)
+Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son compte Facebook est à l'adresse https://www.facebook.com/jeanhuguesrobert. Son compte Twitter @jhr est à l'adresse https://twitter.com/jhr. Le logotype Yangug lui est associé. ![yanug384](https://github.com/JeanHuguesRobert/barons-Mariani/assets/229573/2cfe275a-942d-4471-96db-76e27a7053e3)
 
 
 
