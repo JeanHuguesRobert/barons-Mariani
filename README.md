@@ -37,8 +37,10 @@ Parmi les réalisations, dont certaines en cours, chronologiquement :
 - l'eau d'ici, eau locale en bouteille réemployée, étude
 - le café philo de Corte, en partenariat, 3 saisons
 - les premiers jardins partagés de Corte, à Minesteggio, plusieurs années
+- le logiciel de vote Kudocracy, présenté à Bruxelles
 - le petit garage solidaire, éphémère
 - la carte d'électeur électronique "démocratie liquide", prototype
+- les candidatures "de témoignage", législatives, 2 fois, municipales & sénatoriales
 - la conception et la réalisation partielle du sentier botanique "de l'Orta"
 - le palmarès des comptes Twitter corses, prototype
 - l'institut Mariani
