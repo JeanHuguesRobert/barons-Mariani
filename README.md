@@ -49,6 +49,7 @@ Parmi les réalisations, dont certaines en cours, chronologiquement :
 - la cuisine collaborative U Spanu, 2 saisons
 - le paquet de cigarette anti mégots à cendrier intégré, étude
 - le jardin des blés anciens de Minesteggio, un été
+- la promotion pour le retour des feux de la Saint Jean à Corte, 3 feux
 - la résidence éco-responsable Mariani Village, étude + prototypes
 - l'inscription de Minesteggio aux monuments historiques, en cours
 - la monnaie locale Le Don, étude
@@ -69,7 +70,7 @@ Celles sur Facebook le sont à l'adresse https://www.facebook.com/hashtag/suvran
 Le compte Twitter @suvranu est à l'adresse https://twitter.com/suvranu.
 
 ## Fonds de dotation barons Mariani
-Ce fond en cours d'élaboration a pour objet la création de la Fondation barons Mariani. Il est à ce titre autant d'utilité publique de la future fondation.
+Ce fond en cours d'élaboration a pour objet la création de la Fondation barons Mariani. Il est à ce titre autant d'utilité publique que la future fondation.
 
 ## Fondation barons Mariani
 La future fondation aura pour but l'étude, le soutient et la préservation de tout ce qui concerne l'histoire des barons Mariani, en particulier concernant ses évolutions contemporaines au service de la promotion de la démocratie directe numérique et de la défense des biens communs.
