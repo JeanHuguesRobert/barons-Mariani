@@ -18,6 +18,43 @@ La notice Wikipedia sur ce dernier est à l'adresse https://fr.wikipedia.org/wik
 ## Association C.O.R.S.I.C.A.
 Cette association à but non lucratif, crée à Corte fin 1995, a pour objet la promotion de la démocratie directe numérique pour la défense des biens communs. Son nom complet est l'association corse organisant la réunion sur internet de compétence autonomes.
 
+Parmi les réalisations, dont certaines en cours, chronologiquement :
+- le premier annuaire des sites internet corses
+- le premier annuaire des corses sur internet
+- la restauration du château Mariani et de ses abords
+- la restauration du pailler de Minesteggio effondré
+- la restauration du bassin d'irrigation de Minesteggio
+- l'étude des habitats nomades sous Napoléon + prototype
+- la secte humoristique des bouders
+- la promotion du scoutisme en Corse
+- l'acceuil de couch surfers et de helpers
+- la conception de la yourte "corse", prototype
+- la défense de l'âne corse, en partenariat
+- une ferme à wiki mutualiste, prototype
+- le "tournesol" photovoltaïque, étude & expérimentations
+- le label "plus durable", étude
+- l'eau d'ici, eau locale en bouteille réemployée, étude
+- le café philo de Corte, en partenariat, 3 saisons
+- les premiers jardins partagés de Corte, à Minesteggio, plusieurs années
+- le petit garage solidaire, éphémère
+- la carte d'électeur électronique "démocratie liquide", prototype
+- la conception et la réalisation partielle du sentier botanique "de l'Orta"
+- le palmarès des comptes Twitter corses, prototype
+- l'institut Mariani
+- l'hébergement de personnes en difficulté, en cours
+- la charte des biens communs
+- le festival d'été, une année
+- les premières universités de la transition corse, 2 éditions
+- la cuisine collaborative U Spanu, 2 saisons
+- le paquet de cigarette anti mégots à cendrier intégré, étude
+- le jardin des blés anciens de Minesteggio, un été
+- la résidence éco-responsable Mariani Village, étude + prototypes
+- l'inscription de Minesteggio aux monuments historiques, en cours
+- la monnaie locale Le Don, étude
+- la création d'un lieu d'accueil de manifestations ouvert & gratuit
+- la première future fondation de Corse, en cours
+- la première IA open source pour les corses, en cours
+
 ## Institut Mariani
 C'est une émanation de l'association CORSICA au sein de laquelle sont conduits divers travaux à caractère expérimental autour des pratiques démocratiques et des biens communs. Il s'agit de travaux intellectuels et de travaux pratiques.
 
@@ -41,8 +78,6 @@ Ce projet muséal regroupe un écomusée physique, sis à Minesteggio, un musée
 
 ## Auteur
 Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son compte Facebook est à l'adresse https://www.facebook.com/jeanhuguesrobert. Son compte Twitter @jhr est à l'adresse https://twitter.com/jhr. Le logotype Yangug lui est associé. ![yanug384](https://github.com/JeanHuguesRobert/barons-Mariani/assets/229573/2cfe275a-942d-4471-96db-76e27a7053e3)
-
-
 
 ## Licence CC
 L'ensemble des informations ici rassemblées le sont selon les modalités de la dernière version de la licence Creative Common.
