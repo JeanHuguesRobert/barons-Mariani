@@ -87,4 +87,6 @@ Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son 
 
 ## Licence CC
 L'ensemble des informations ici rassemblées le sont selon les modalités de la dernière version de la licence Creative Common.
+Le blason est CC aussi, issu de la page wikipedia suivante : https://fr.m.wikipedia.org/wiki/Armorial_des_familles_de_Corse
+
 
