@@ -31,6 +31,6 @@ La future fondation aura pour but l'étude, le soutient et la préservation de t
 Ce projet muséal regroupe un écomusée physique, sis à Minesteggio, un musée virtuel sur Internet, et un centre de recherche et d'expérimentation, l'Institut Mariani.
 
 
-## License CC
-L'ensemble des informations ici rassemblées le sont selon les modalités de la dernière version de la license Creative Common.
+## Licence CC
+L'ensemble des informations ici rassemblées le sont selon les modalités de la dernière version de la licence Creative Common.
 
