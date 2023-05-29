@@ -1,6 +1,8 @@
 # barons-Mariani
 Dépôt au sujet des barons Mariani. Le dépôt est organisé sous la forme d'un wiki alimenté de façon collaborative selon les règles fixées par l'association CORSICA dont le créateur du dépôt est le président fondateur.
 
+![blason](https://upload.wikimedia.org/wikipedia/commons/4/45/Mariani_blason.png)
+
 ## Objet
 Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au sujet des barons Mariani. Tant du point de vue du passé que de celui de l'époque contemporaine et aussi des évolutions envisagées.
 
