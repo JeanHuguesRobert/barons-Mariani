@@ -86,7 +86,7 @@ Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA
 | Fichier | Description |
 |---|---|
 | [README.md](./README.md) | Ce document |
-| [invidia_mariani.md](./invidia.md) | Article : *Invidia*, envie et désir mimétique |
+| [invidia.md](./invidia.md) | Article : *Invidia*, envie et désir mimétique |
 | [FractaVolta.md](./FractaVolta.md) | Projet FractaVolta |
 | [discret_holography.md](./discret_holography.md) | Holographie discrète |
 | [uchronian_museum.md](./uchronian_museum.md) | Musée uchronique |
