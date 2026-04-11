@@ -1,94 +1,104 @@
-# barons-Mariani
-Dépôt au sujet des barons Mariani. Le dépôt est organisé sous la forme d'un wiki alimenté de façon collaborative selon les règles fixées par l'association CORSICA dont le créateur du dépôt est le président fondateur.
+# Barons Mariani
 
-![blason](https://upload.wikimedia.org/wikipedia/commons/4/45/Mariani_blason.png)
+[![Blason des barons Mariani](https://upload.wikimedia.org/wikipedia/commons/4/45/Mariani_blason.png)](https://fr.wikipedia.org/wiki/Antoine_Mariani)
 
-## Objet
-Ce dépôt a été créé pour y mettre l'ensemble des informations publiques au sujet des barons Mariani. Tant du point de vue du passé que de celui de l'époque contemporaine et aussi des évolutions envisagées.
+> *D'azur à la tour donjonnée d'or, maçonnée de sable ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.*
 
-## Représentants
-La famille des barons Mariani est actuellement représentée par le baron Jean Hugues Noël Mariani et ses deux enfants, le baron Lucas Mariani et la baronne Marie-Louise Mariani.
+---
 
-La famille porte les armes suivantes : D'azur à la tour donjonnée d'or, maçonnée de sable ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.
+## Candidature au Sénat — Haute-Corse, septembre 2026
+
+**Jean Hugues Noël Robert, baron Mariani** est candidat aux élections sénatoriales de Haute-Corse (27 septembre 2026) sous l'identité de **Baron Mariani**, titre porté par sa famille depuis le baron [Antoine Dominique Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani), conseiller d'État et pair de France sous la monarchie de Juillet.
+
+La plateforme de campagne **Plan 2038** — deux mandats de six ans — repose sur un argument central :
+
+> *Le token IA est l'or du XXIe siècle. La Corse en sera le coffre-fort, comme la Suisse le fut pour l'or.*
+
+Ses axes principaux : souveraineté énergétique des communes de montagne (agrivoltaïque, micro-STEP, datacenters souverains containerisés), revenu universel de 500 €/mois financé par un Fonds Souverain Énergétique Corse (FSEC), et positionnement de la Corse comme nœud de compute méditerranéen via le projet [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum).
+
+📧 Contact : jhr@baronsmariani.org
+
+---
+
+## Travaux de recherche
+
+### *Invidia*, envie et désir mimétique
+**Pour une anthropologie de la disqualification de la réussite en contexte méditerranéen**
+
+Cet article, déposé dans ce dépôt, propose le **cycle DRSJ** — modèle interprétatif original articulant quatre cadres analytiques (Klein/Schoeck, Girard, Dunning, Fehr) pour rendre compte de la transformation récurrente d'une réussite observée en problème moral légitimant une sanction informelle. La Corse y est traitée comme laboratoire anthropologique, non comme exception.
+
+→ [Lire l'article](./invidia_mariani.md)
+
+### MareNostrum — Gouvernance IA en Méditerranée
+
+Cadre de souveraineté énergétique et computationnelle à l'échelle méditerranéenne (Corse → Sardaigne → Sicile → Tunisie → Sahara).
+
+→ [github.com/JeanHuguesRobert/marenostrum](https://github.com/JeanHuguesRobert/marenostrum)
+
+---
+
+## La famille des barons Mariani
+
+La famille des barons Mariani est représentée par Jean Hugues Noël Robert, baron Mariani, et ses deux enfants, Lucas et Marie-Louise.
+
+La notice Wikipedia de l'ancêtre Antoine Dominique Mariani (1776–1843), baron de l'Empire, conseiller d'État, pair de France : [fr.wikipedia.org/wiki/Antoine_Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani).
+
+L'ouvrage généalogique *Les barons Mariani et leurs alliances* (1993), constitué à partir des archives du baron Louis-Hugues Mariani, est consultable en ligne : [books.google.fr](https://books.google.fr/books?id=9ScbAAAAYAAJ&focus=searchwithinvolume&q=mariano).
+
+---
 
 ## Minesteggio
-Il s'agit de la principale propriété en Corse de la famille des barons Mariani. C'est une propriété agricole située à Corte en Corse. S'y trouve une maison remarquable en cours d'inscription aux monuments historiques.
 
-## Les barons Mariani et leurs alliances
-Ce livre édité en 1993 raconte une partie de l'histoire de la famille des barons Mariani. Il a été écrit à partir de documents rassemblés principalement par le baron Louis-Hugues Mariani, second fils du baron Antoine-Dominique Mariani.
+Principale propriété corse de la famille, domaine agricole situé à Corte (Haute-Corse). Le site est stratifié en trois niveaux territoriaux : le Castelare sur la hauteur, le système hydraulique de la rivière Orta, et le domaine agricole. Une chapelle San Pancraziu et une maison remarquable sont en cours d'instruction pour inscription aux Monuments Historiques (DRAC Corse).
 
-La notice Wikipedia sur ce dernier est à l'adresse https://fr.wikipedia.org/wiki/Antoine_Mariani. Le livre est quand à lui consultable en ligne, on y trouve mentionné l'ancêtre de la famille, Mariano, à l'adresse https://books.google.fr/books?id=9ScbAAAAYAAJ&focus=searchwithinvolume&q=mariano.
+---
 
 ## Association C.O.R.S.I.C.A.
-Cette association à but non lucratif, crée à Corte fin 1995, a pour objet la promotion de la démocratie directe numérique pour la défense des biens communs. Son nom complet est l'association corse organisant la réunion sur internet de compétence autonomes.
 
-Parmi les réalisations, dont certaines en cours, chronologiquement :
-- le premier annuaire des sites internet corses
-- le premier annuaire des corses sur internet
-- la restauration du château Mariani et de ses abords
-- la restauration du pailler de Minesteggio effondré
-- la restauration du bassin d'irrigation de Minesteggio
-- l'étude des habitats nomades sous Napoléon + prototype
-- la secte humoristique des bouders
-- la promotion du scoutisme en Corse
-- l'acceuil de couch surfers et de helpers
-- la conception de la yourte "corse", prototype
-- la défense de l'âne corse, en partenariat
-- une ferme à wiki mutualiste, prototype
-- le "tournesol" photovoltaïque, étude & expérimentations
-- le cuiseur solaire, en partenariat avec l'association Solaria
-- le label "plus durable", étude
-- l'eau d'ici, eau locale en bouteille réemployée, étude
-- le café philo de Corte, en partenariat, 3 saisons
-- les premiers jardins partagés de Corte, à Minesteggio, plusieurs années
-- le logiciel de vote Kudocracy, présenté à Bruxelles
-- le petit garage solidaire, éphémère
-- la carte d'électeur électronique "démocratie liquide", prototype
-- les candidatures "de témoignage", législatives, 2 fois, municipales & sénatoriales
-- la conception et la réalisation partielle du sentier botanique "de l'Orta"
-- le palmarès des comptes Twitter corses, prototype
-- l'institut Mariani
-- l'hébergement de personnes en difficulté, en cours
-- la charte des biens communs
-- le festival d'été, une année
-- les premières universités de la transition corse, 2 éditions
-- la cuisine collaborative U Spanu, 2 saisons
-- le paquet de cigarette anti mégots à cendrier intégré, étude
-- le jardin des blés anciens de Minesteggio, un été
-- la promotion pour le retour des feux de la Saint Jean à Corte, 3 feux
-- la résidence éco-responsable Mariani Village, étude + prototypes
-- l'inscription de Minesteggio aux monuments historiques, en cours
-- la monnaie locale Le Don, étude
-- la création d'un lieu d'accueil de manifestations ouvert & gratuit
-- la première future fondation de Corse, en cours
-- la première IA open source pour les corses, en cours
+Fondée à Corte en **1995** — antérieure au terme même d'*open source* (apparu en février 1998) — l'association *Corse Organisant la Réunion Sur Internet de Compétences Autonomes* a pour objet la promotion de la démocratie directe numérique et la défense des biens communs.
+
+Réalisations notables : premier annuaire des sites internet corses, logiciel de vote Kudocracy (présenté à Bruxelles), démocratie liquide, jardins partagés de Corte, universités de la transition corse, sentier botanique de l'Orta, et depuis 2023, l'Institut Mariani.
+
+---
 
 ## Institut Mariani
-C'est une émanation de l'association CORSICA au sein de laquelle sont conduits divers travaux à caractère expérimental autour des pratiques démocratiques et des biens communs. Il s'agit de travaux intellectuels et de travaux pratiques.
 
-Le site web de l'institut est à l'adresse https://www.facebook.com/institutmariani.
+Émanation de C.O.R.S.I.C.A., l'Institut conduit des travaux expérimentaux sur les pratiques démocratiques, les biens communs, et la gouvernance de l'intelligence artificielle. Adresse : 1 cours Paoli, F-20250 Corte.
 
-## #suvranu
-Il s'agit d'une étiquette, un "hashtag", associée à des publications au sujet de la souveraineté du peuple dans le modèle démocratique promu par l'association CORSICA. Il est utilisé dans des publications sur Twitter, Facebook et ailleurs. C'est aussi le nom du système de gouvernance basé sur l'utilisation des outils d'intelligence artificielle pour la lutte pour l'indépendance en Corse, avec comme maxime : l'indépendance d'esprit d'abord !
+Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA 4.0), papier DHITL (*Democratic Humans in the Loop*), soumission ICOME'26 (Corte, juin 2026).
 
-Les mentions de cette étiquette sur Twitter sont accessible à l'adresse https://twitter.com/search?q=%23suvranu&src=hashtag_click.
-Celles sur Facebook le sont à l'adresse https://www.facebook.com/hashtag/suvranu.
-Le compte Twitter @suvranu est à l'adresse https://twitter.com/suvranu.
+---
 
-## Fonds de dotation barons Mariani
-Ce fond en cours d'élaboration a pour objet la création de la Fondation barons Mariani. Il est à ce titre autant d'utilité publique que la future fondation.
+## Historique des candidatures
 
-## Fondation barons Mariani
-La future fondation aura pour but l'étude, le soutient et la préservation de tout ce qui concerne l'histoire des barons Mariani, en particulier concernant ses évolutions contemporaines au service de la promotion de la démocratie directe numérique et de la défense des biens communs.
+| Année | Scrutin | Résultat |
+|---|---|---|
+| 2017 | Législatives (Haute-Corse) | Candidature |
+| 2020 | Sénatoriales (Corse du Sud) | Candidature |
+| 2022 | Législatives (Haute-Corse) | Candidature |
+| 2024 | Législatives (Haute-Corse) | Candidature — recours au Conseil constitutionnel (rejeté le 27 septembre 2024) |
+| **2026** | **Sénatoriales (Haute-Corse)** | **Candidature en cours** |
 
-## Musée Napoléon de la démocratie corse
-Ce projet muséal regroupe un écomusée physique, sis à Minesteggio, un musée virtuel sur Internet, et un centre de recherche et d'expérimentation, l'Institut Mariani.
+---
 
-## Auteur
-Jean Hugues Noël Robert est le créateur et l'auteur principal ce dépôt. Son compte Facebook est à l'adresse https://www.facebook.com/jeanhuguesrobert. Son compte Twitter @jhr est à l'adresse https://twitter.com/jhr. Le logotype Yangug lui est associé. ![yanug384](https://github.com/JeanHuguesRobert/barons-Mariani/assets/229573/2cfe275a-942d-4471-96db-76e27a7053e3)
+## Contenu de ce dépôt
 
-## Licence CC
-L'ensemble des informations ici rassemblées le sont selon les modalités de la dernière version de la licence Creative Common.
-Le blason est CC aussi, issu de la page wikipedia suivante : https://fr.m.wikipedia.org/wiki/Armorial_des_familles_de_Corse
+| Fichier | Description |
+|---|---|
+| [README.md](./README.md) | Ce document |
+| [invidia_mariani.md](./invidia_mariani.md) | Article : *Invidia*, envie et désir mimétique |
+| [FractaVolta.md](./FractaVolta.md) | Projet FractaVolta |
+| [discret_holography.md](./discret_holography.md) | Holographie discrète |
+| [uchronian_museum.md](./uchronian_museum.md) | Musée uchronique |
 
+---
 
+## Licence
+
+L'ensemble des contenus de ce dépôt est publié sous licence **Creative Commons CC BY-SA 4.0**, à l'exception des éléments héraldiques issus de Wikimedia Commons (licence propre).
+
+Le blason est issu de l'[Armorial des familles de Corse](https://fr.m.wikipedia.org/wiki/Armorial_des_familles_de_Corse).
+
+---
+
+*Jean Hugues Noël Robert, baron Mariani — Institut Mariani, 1 cours Paoli, F-20250 Corte — jhr@baronsmariani.org*
