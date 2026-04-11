@@ -24,7 +24,7 @@ Le phénomène peut être formulé ainsi : à la suite d'une réussite économiq
 
 La littérature existante traite ces phénomènes de façon fragmentée : l'affect d'un côté (envie, *invidia*), le jugement moral de l'autre, la sanction sociale ailleurs encore. L'ambition de cet article est de proposer un modèle intégré, nommé et formalisé — le cycle DRSJ — articulant ces dimensions dans une séquence cohérente et analytiquement opératoire.
 
-La Corse constitue le terrain principal, non par exotisme, mais parce que ses structures sociales rendent les mécanismes en jeu particulièrement lisibles. L'auteur y est établi depuis 1995, fondateur de C.O.R.S.I.C.A. et de l'Institut Mariani R&D à Corte, à la manière dont Bourdieu a traité son Béarn natal : la proximité n'invalide pas l'analyse, elle en constitue la ressource.
+La Corse constitue le terrain principal, non par exotisme, mais parce que ses structures sociales rendent les mécanismes en jeu particulièrement lisibles. L'auteur y est établi depuis 1995, fondateur de C.O.R.S.I.C.A. et de l'Institut Mariani à Corte, à la manière dont Bourdieu a traité son Béarn natal : la proximité n'invalide pas l'analyse, elle en constitue la ressource.
 
 ---
 
@@ -150,5 +150,5 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 
 ---
 
-*© Jean Hugues Noël Robert, baron Mariani — Institut Mariani R&D, Corte, 2026*  
+*© Jean Hugues Noël Robert, baron Mariani — Institut Mariani, Corte, 2026*  
 *Dépôt : github.com/JeanHuguesRobert/barons-mariani*
