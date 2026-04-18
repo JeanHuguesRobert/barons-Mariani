@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Figures — The Generalized Tocqueville Law</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  :root {
+    --navy:  #1A1A2E;
+    --blue:  #2C3E6B;
+    --mid:   #4A6FA5;
+    --orange:#E07B3F;
+    --red:   #C0392B;
+    --green: #27AE60;
+    --gray:  #6C7A89;
+    --light: #F4F6FA;
+    --border:#D0D8E8;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: "Georgia", serif;
+    font-size: 14px;
+    color: #1a1a1a;
+    background: #fff;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 32px;
+  }
+  h1 {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 2px solid var(--blue);
+    padding-bottom: 10px;
+    margin-bottom: 6px;
+  }
+  .subtitle {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: var(--gray);
+    margin-bottom: 40px;
+    font-style: italic;
+  }
+  .figure-block {
+    margin-bottom: 52px;
+    page-break-inside: avoid;
+  }
+  .figure-label {
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--blue);
+    margin-bottom: 4px;
+  }
+  .figure-title {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--navy);
+    margin-bottom: 14px;
+  }
+  .chart-wrap {
+    background: var(--light);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 20px 20px 16px;
+    position: relative;
+  }
+  canvas { display: block; }
+  .caption {
+    font-size: 12px;
+    line-height: 1.6;
+    color: #444;
+    margin-top: 10px;
+    padding: 0 4px;
+  }
+  .caption strong { color: var(--navy); }
+  .caption em { font-style: italic; }
+  .note {
+    font-size: 11px;
+    color: var(--gray);
+    margin-top: 6px;
+    padding: 0 4px;
+    font-style: italic;
+  }
+  hr.section { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+
+  /* SVG figure 4 */
+  .svg-wrap {
+    background: var(--light);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 24px;
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
+<h1>The Generalized Tocqueville Law</h1>
+<div class="subtitle">Figures 1–5 &nbsp;·&nbsp; Robert, J.H.N. (2026) &nbsp;·&nbsp; Institut Mariani R&D / C.O.R.S.I.C.A.</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FIGURE 1 — AVIATION
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="figure-block">
+  <div class="figure-label">Figure 1</div>
+  <div class="figure-title">Aviation Safety vs. Regulatory Intensity, 1970–2022</div>
+  <div class="chart-wrap">
+    <canvas id="fig1" height="320"></canvas>
+  </div>
+  <p class="caption">
+    <strong>Left axis (navy):</strong> fatal accidents per million flight sectors (IATA Safety Reports; Boeing Statistical Summary 2023).
+    <strong>Right axis (orange):</strong> stylized index of cumulative aviation safety regulation (ICAO SARPs amendment cycles + FAA major final rules; 1970 = 100).
+    As the accident rate declined fortyfold between 1970 and 2022, regulatory output grew approximately tenfold.
+    The two curves move in strictly opposite directions, illustrating the core prediction of the Generalized Tocqueville Law:
+    tolerance thresholds rise as objective quality improves.
+  </p>
+  <p class="note">Note: regulatory index is a stylised composite; exact values vary by measurement choice. The directional relationship is robust across alternative specifications.</p>
+</div>
+
+<hr class="section">
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FIGURE 2 — DIGITAL PLATFORMS
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="figure-block">
+  <div class="figure-label">Figure 2</div>
+  <div class="figure-title">The Double Bind of Content Moderation, 2010–2023</div>
+  <div class="chart-wrap">
+    <canvas id="fig2" height="320"></canvas>
+  </div>
+  <p class="caption">
+    <strong>Left axis (red):</strong> NCMEC CyberTipline reports (millions), driven overwhelmingly by automated platform detection systems (NCMEC Annual Reports 2010–2023).
+    <strong>Right axis (teal):</strong> estimated automated detection rate for policy-violating content — composite index from Meta and YouTube transparency reports.
+    Both series rise together: as detection capability improves, the volume of detected (and therefore reported) harm increases proportionally,
+    generating a progressive intensification of public and regulatory concern
+    <em>caused by</em> — not despite — improving moderation performance.
+    The 160-fold increase in CyberTipline reports between 2010 and 2023 reflects primarily detection improvement, not a corresponding increase in underlying harm.
+  </p>
+</div>
+
+<hr class="section">
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FIGURE 3 — THEORETICAL MODEL
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="figure-block">
+  <div class="figure-label">Figure 3</div>
+  <div class="figure-title">Co-evolution of Objective Quality Q(t) and Tolerance Threshold τ(t)</div>
+  <div class="chart-wrap">
+    <canvas id="fig3" height="340"></canvas>
+  </div>
+  <p class="caption">
+    Stylised theoretical trajectories.
+    <strong>Solid navy:</strong> objective quality Q(t), following a logistic improvement curve.
+    <strong>Dashed orange:</strong> socially constructed tolerance threshold τ(t), which tracks Q(t) upward but adjusts more rapidly as Q approaches its ceiling (convexity condition, Section 3.1).
+    The shaded region is the absolute deficit Δ(t) = τ(t) − Q(t), which narrows slowly in absolute terms.
+    <strong>Dotted red:</strong> perceived severity index S(t) = Δ(t) / (1 − Q(t)), measuring the deficit relative to the remaining distance to perfection.
+    S(t) increases monotonically even as Δ(t) narrows — the core formal property of the law.
+    Even near-perfect systems are perceived as failing because almost all remaining imperfection
+    lies within the zone where improvement is deemed mandatory.
+  </p>
+</div>
+
+<hr class="section">
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FIGURE 4 — MECHANISMS (SVG)
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="figure-block">
+  <div class="figure-label">Figure 4</div>
+  <div class="figure-title">The Four Constitutive Mechanisms and Their Interactions</div>
+  <div class="svg-wrap">
+    <svg viewBox="0 0 760 480" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;font-family:Arial,sans-serif;">
+      <defs>
+        <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#2C3E6B"/>
+        </marker>
+        <marker id="arr-o" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+          <polygon points="0 0, 8 3, 0 6" fill="#E07B3F"/>
+        </marker>
+        <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+          <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#00000022"/>
+        </filter>
+      </defs>
+
+      <!-- Central concept: Perceived Deficit Δ(t) -->
+      <ellipse cx="380" cy="240" rx="72" ry="44" fill="#1A1A2E" filter="url(#shadow)"/>
+      <text x="380" y="234" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Perceived</text>
+      <text x="380" y="251" text-anchor="middle" fill="white" font-size="13" font-weight="bold">Deficit Δ(t)</text>
+      <text x="380" y="268" text-anchor="middle" fill="#A0B4D0" font-size="10">τ(t) − Q(t)</text>
+
+      <!-- M1 — Tolerance Threshold Displacement (top left) -->
+      <rect x="30" y="30" width="180" height="90" rx="6" fill="#2C3E6B" filter="url(#shadow)"/>
+      <text x="120" y="58" text-anchor="middle" fill="white" font-size="12" font-weight="bold">M1 · Threshold</text>
+      <text x="120" y="74" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Displacement</text>
+      <text x="120" y="97" text-anchor="middle" fill="#A0C0E8" font-size="10">The norm of the achievable</text>
+      <text x="120" y="111" text-anchor="middle" fill="#A0C0E8" font-size="10">redefines the intolerable</text>
+
+      <!-- M2 — Normative Horizon Elevation (top right) -->
+      <rect x="550" y="30" width="180" height="90" rx="6" fill="#2C3E6B" filter="url(#shadow)"/>
+      <text x="640" y="58" text-anchor="middle" fill="white" font-size="12" font-weight="bold">M2 · Horizon</text>
+      <text x="640" y="74" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Elevation</text>
+      <text x="640" y="97" text-anchor="middle" fill="#A0C0E8" font-size="10">Each gain shifts the</text>
+      <text x="640" y="111" text-anchor="middle" fill="#A0C0E8" font-size="10">boundary of the possible</text>
+
+      <!-- M3 — Relative Frustration (bottom left) -->
+      <rect x="30" y="360" width="180" height="90" rx="6" fill="#E07B3F" filter="url(#shadow)"/>
+      <text x="120" y="388" text-anchor="middle" fill="white" font-size="12" font-weight="bold">M3 · Relative</text>
+      <text x="120" y="404" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Frustration</text>
+      <text x="120" y="427" text-anchor="middle" fill="#FFD8B8" font-size="10">Gap to attainable ideal</text>
+      <text x="120" y="441" text-anchor="middle" fill="#FFD8B8" font-size="10">outweighs distance traveled</text>
+
+      <!-- M4 — Structural Amnesia (bottom right) -->
+      <rect x="550" y="360" width="180" height="90" rx="6" fill="#E07B3F" filter="url(#shadow)"/>
+      <text x="640" y="388" text-anchor="middle" fill="white" font-size="12" font-weight="bold">M4 · Structural</text>
+      <text x="640" y="404" text-anchor="middle" fill="white" font-size="12" font-weight="bold">Amnesia</text>
+      <text x="640" y="427" text-anchor="middle" fill="#FFD8B8" font-size="10">Gains become invisible;</text>
+      <text x="640" y="441" text-anchor="middle" fill="#FFD8B8" font-size="10">deficits remain conspicuous</text>
+
+      <!-- Progress driver box (right side) -->
+      <rect x="330" y="30" width="100" height="42" rx="5" fill="#27AE60" filter="url(#shadow)"/>
+      <text x="380" y="52" text-anchor="middle" fill="white" font-size="11" font-weight="bold">Progress</text>
+      <text x="380" y="66" text-anchor="middle" fill="#C8F0D8" font-size="10">dQ/dt &gt; 0</text>
+
+      <!-- Output box (left side) -->
+      <rect x="330" y="408" width="100" height="42" rx="5" fill="#C0392B" filter="url(#shadow)"/>
+      <text x="380" y="429" text-anchor="middle" fill="white" font-size="11" font-weight="bold">Crisis</text>
+      <text x="380" y="443" text-anchor="middle" fill="#F8D0CC" font-size="10">perception</text>
+
+      <!-- Arrows: Progress → M1, M2 -->
+      <line x1="350" y1="72" x2="218" y2="75" stroke="#27AE60" stroke-width="2" marker-end="url(#arr)" stroke-dasharray="5,3"/>
+      <line x1="410" y1="72" x2="542" y2="75" stroke="#27AE60" stroke-width="2" marker-end="url(#arr)" stroke-dasharray="5,3"/>
+
+      <!-- Arrows: M1 → Δ (top-left to center) -->
+      <line x1="210" y1="110" x2="318" y2="210" stroke="#2C3E6B" stroke-width="2.5" marker-end="url(#arr)"/>
+
+      <!-- Arrows: M2 → Δ (top-right to center) -->
+      <line x1="550" y1="110" x2="442" y2="210" stroke="#2C3E6B" stroke-width="2.5" marker-end="url(#arr)"/>
+
+      <!-- Arrows: M3 → Δ (bottom-left to center) -->
+      <line x1="210" y1="370" x2="318" y2="270" stroke="#E07B3F" stroke-width="2.5" marker-end="url(#arr-o)"/>
+
+      <!-- Arrows: M4 → Δ (bottom-right to center) -->
+      <line x1="550" y1="370" x2="442" y2="270" stroke="#E07B3F" stroke-width="2.5" marker-end="url(#arr-o)"/>
+
+      <!-- Arrow: Δ → Crisis output -->
+      <line x1="380" y1="284" x2="380" y2="400" stroke="#C0392B" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="4,3"/>
+
+      <!-- Feedback arrows: Δ feeds M3/M4 (dashed) -->
+      <path d="M312 250 Q 180 300 120 352" fill="none" stroke="#E07B3F" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr-o)"/>
+      <path d="M448 250 Q 620 300 640 352" fill="none" stroke="#E07B3F" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr-o)"/>
+
+      <!-- Label on feedback -->
+      <text x="168" y="306" fill="#E07B3F" font-size="9" font-style="italic">reinforces</text>
+      <text x="588" y="306" fill="#E07B3F" font-size="9" font-style="italic">reinforces</text>
+      <text x="352" y="344" fill="#C0392B" font-size="9" font-style="italic">generates</text>
+
+      <!-- M1-M2 interaction arrow at top -->
+      <path d="M210 75 Q 380 10 550 75" fill="none" stroke="#2C3E6B" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+      <text x="380" y="20" text-anchor="middle" fill="#2C3E6B" font-size="9" font-style="italic">mutually elevating</text>
+    </svg>
+  </div>
+  <p class="caption">
+    The four mechanisms of the Generalized Tocqueville Law and their interactions.
+    Mechanisms M1 and M2 (blue) operate at the normative level, shifting the tolerance threshold upward in response to demonstrated progress.
+    Mechanisms M3 and M4 (orange) operate at the cognitive and comparative level, amplifying the experienced significance of the residual deficit.
+    Together they drive the perceived deficit Δ(t) = τ(t) − Q(t) in a direction that is counterintuitive with respect to the direction of objective improvement.
+    Feedback arrows indicate that a widening perceived deficit reinforces relative frustration (M3) and structural amnesia (M4), creating a self-sustaining dynamic.
+  </p>
+</div>
+
+<hr class="section">
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FIGURE 5 — EASTERLIN
+     ═══════════════════════════════════════════════════════════════════ -->
+<div class="figure-block">
+  <div class="figure-label">Figure 5</div>
+  <div class="figure-title">The Easterlin Paradox as Individual-Level Confirmation, United States 1972–2020</div>
+  <div class="chart-wrap">
+    <canvas id="fig5" height="300"></canvas>
+  </div>
+  <p class="caption">
+    <strong>Left axis (navy):</strong> US real GDP per capita, index 1972 = 100 (World Bank / BEA).
+    <strong>Right axis (orange):</strong> mean life satisfaction score, index 1972 = 100 (World Values Survey; General Social Survey; Gallup World Poll).
+    Over nearly five decades, real GDP per capita more than doubled while reported life satisfaction remained essentially flat.
+    This is the individual psychological expression — the hedonic treadmill (Brickman and Campbell, 1971; Easterlin, 1974) — of the same structural mechanism
+    described at the collective normative level by the Generalized Tocqueville Law.
+    The two phenomena are analytically distinct (individual aspiration adjustment vs. collective normative recalibration) but mechanistically homologous.
+  </p>
+</div>
+
+<script>
+// ── colour palette ──────────────────────────────────────────────────
+const NAVY   = '#1A1A2E';
+const BLUE   = '#2C3E6B';
+const MID    = '#4A6FA5';
+const ORANGE = '#E07B3F';
+const RED    = '#C0392B';
+const GREEN  = '#27AE60';
+const TEAL   = '#1ABC9C';
+const GRAY   = '#95A5A6';
+
+const FONT = "'Georgia', serif";
+Chart.defaults.font.family = FONT;
+Chart.defaults.color = '#333';
+
+// ── shared tick/grid style ──────────────────────────────────────────
+const gridStyle = { color: '#E0E6F0', lineWidth: 1 };
+const tickStyle = { color: '#555', font: { size: 11 } };
+
+// ═══════════════════════════════════════════════════════════════════
+// FIGURE 1 — Aviation
+// ═══════════════════════════════════════════════════════════════════
+new Chart(document.getElementById('fig1'), {
+  type: 'line',
+  data: {
+    labels: ['1970','1975','1980','1985','1990','1995','2000','2005','2010','2015','2020','2022'],
+    datasets: [
+      {
+        label: 'Fatal accidents / million sectors',
+        data: [3.0, 2.5, 1.8, 1.5, 1.0, 0.8, 0.5, 0.35, 0.20, 0.15, 0.10, 0.07],
+        yAxisID: 'y',
+        borderColor: NAVY, backgroundColor: NAVY+'22',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: NAVY,
+        fill: true, tension: 0.35,
+      },
+      {
+        label: 'Regulatory intensity index (1970=100)',
+        data: [100,120,155,200,260,340,440,560,680,800,920,980],
+        yAxisID: 'y1',
+        borderColor: ORANGE, backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: ORANGE,
+        fill: false, tension: 0.35, borderDash: [6,3],
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'top', labels: { font: { size: 12 }, padding: 16 } },
+      tooltip: { backgroundColor: '#fff', titleColor: NAVY, bodyColor: '#333',
+                 borderColor: '#D0D8E8', borderWidth: 1 },
+    },
+    scales: {
+      x: { grid: gridStyle, ticks: tickStyle },
+      y: {
+        type: 'linear', position: 'left',
+        title: { display: true, text: 'Fatal accidents / million sectors', color: NAVY, font: { size: 11 } },
+        grid: gridStyle, ticks: { ...tickStyle, color: NAVY },
+        min: 0,
+      },
+      y1: {
+        type: 'linear', position: 'right',
+        title: { display: true, text: 'Regulatory intensity (1970=100)', color: ORANGE, font: { size: 11 } },
+        grid: { drawOnChartArea: false },
+        ticks: { ...tickStyle, color: ORANGE },
+        min: 0,
+      },
+    },
+  },
+});
+
+// ═══════════════════════════════════════════════════════════════════
+// FIGURE 2 — Digital Platforms
+// ═══════════════════════════════════════════════════════════════════
+new Chart(document.getElementById('fig2'), {
+  type: 'line',
+  data: {
+    labels: ['2010','2011','2012','2013','2014','2015','2016','2017','2018','2019','2020','2021','2022','2023'],
+    datasets: [
+      {
+        label: 'NCMEC CyberTipline reports (millions)',
+        data: [0.22, 0.40, 0.46, 0.46, 1.00, 4.40, 8.00, 10.20, 18.50, 18.40, 21.70, 29.40, 32.00, 36.20],
+        yAxisID: 'y',
+        borderColor: RED, backgroundColor: RED+'20',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: RED,
+        fill: true, tension: 0.3,
+      },
+      {
+        label: 'Automated detection rate (%)',
+        data: [20, 28, 38, 50, 62, 72, 80, 85, 89, 92, 94, 95, 96, 97],
+        yAxisID: 'y1',
+        borderColor: TEAL, backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: TEAL,
+        fill: false, tension: 0.3, borderDash: [6,3],
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'top', labels: { font: { size: 12 }, padding: 16 } },
+      tooltip: { backgroundColor: '#fff', titleColor: NAVY, bodyColor: '#333',
+                 borderColor: '#D0D8E8', borderWidth: 1 },
+    },
+    scales: {
+      x: { grid: gridStyle, ticks: tickStyle },
+      y: {
+        type: 'linear', position: 'left',
+        title: { display: true, text: 'Reports (millions)', color: RED, font: { size: 11 } },
+        grid: gridStyle, ticks: { ...tickStyle, color: RED },
+        min: 0,
+      },
+      y1: {
+        type: 'linear', position: 'right',
+        title: { display: true, text: 'Automated detection rate (%)', color: TEAL, font: { size: 11 } },
+        grid: { drawOnChartArea: false },
+        ticks: { ...tickStyle, color: TEAL },
+        min: 0, max: 100,
+      },
+    },
+  },
+});
+
+// ═══════════════════════════════════════════════════════════════════
+// FIGURE 3 — Theoretical Model
+// ═══════════════════════════════════════════════════════════════════
+// Q(t): logistic improvement
+// τ(t): tracks Q but convex at high values
+// S(t) = Δ/(1-Q): perceived severity
+const t50 = Array.from({length: 11}, (_, i) => i * 5);
+
+const Q = t50.map(t => {
+  const k = 0.13, t0 = 22;
+  return +(1 / (1 + Math.exp(-k * (t - t0)))).toFixed(3);
+});
+// τ = 1 - (1-Q)^0.55  — convex transformation, always > Q for Q in (0,1)
+const tau = Q.map(q => +(1 - Math.pow(1 - q, 0.55)).toFixed(3));
+const delta = Q.map((q, i) => +(tau[i] - q).toFixed(3));
+const severity = Q.map((q, i) => q < 0.999 ? +(delta[i] / (1 - q)).toFixed(3) : null);
+
+const tLabels = t50.map(t => `t=${t}`);
+
+new Chart(document.getElementById('fig3'), {
+  type: 'line',
+  data: {
+    labels: tLabels,
+    datasets: [
+      {
+        label: 'Q(t) — Objective quality',
+        data: Q,
+        borderColor: NAVY, backgroundColor: NAVY+'15',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: NAVY,
+        fill: true, tension: 0.4, yAxisID: 'y',
+      },
+      {
+        label: 'τ(t) — Tolerance threshold',
+        data: tau,
+        borderColor: ORANGE, backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: ORANGE,
+        fill: false, tension: 0.4, borderDash: [8, 4], yAxisID: 'y',
+      },
+      {
+        label: 'S(t) = Δ/(1−Q) — Perceived severity',
+        data: severity,
+        borderColor: RED, backgroundColor: 'transparent',
+        borderWidth: 2, pointRadius: 4, pointBackgroundColor: RED,
+        fill: false, tension: 0.4, borderDash: [3, 3], yAxisID: 'y1',
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'top', labels: { font: { size: 12 }, padding: 14 } },
+      tooltip: { backgroundColor: '#fff', titleColor: NAVY, bodyColor: '#333',
+                 borderColor: '#D0D8E8', borderWidth: 1 },
+      annotation: {},
+    },
+    scales: {
+      x: { grid: gridStyle, ticks: tickStyle,
+           title: { display: true, text: 'Time (normalised units)', font: { size: 11 }, color: '#555' } },
+      y: {
+        type: 'linear', position: 'left',
+        title: { display: true, text: 'Q(t), τ(t)  [0 – 1]', font: { size: 11 }, color: '#555' },
+        grid: gridStyle, ticks: tickStyle,
+        min: 0, max: 1.05,
+      },
+      y1: {
+        type: 'linear', position: 'right',
+        title: { display: true, text: 'Perceived severity S(t)', color: RED, font: { size: 11 } },
+        grid: { drawOnChartArea: false },
+        ticks: { ...tickStyle, color: RED },
+        min: 0,
+      },
+    },
+  },
+});
+
+// ═══════════════════════════════════════════════════════════════════
+// FIGURE 5 — Easterlin
+// ═══════════════════════════════════════════════════════════════════
+new Chart(document.getElementById('fig5'), {
+  type: 'line',
+  data: {
+    labels: ['1972','1976','1980','1984','1988','1992','1996','2000','2004','2008','2012','2016','2020'],
+    datasets: [
+      {
+        label: 'Real GDP per capita (index 1972=100)',
+        data: [100, 111, 120, 126, 144, 146, 165, 192, 208, 205, 225, 246, 248],
+        yAxisID: 'y',
+        borderColor: NAVY, backgroundColor: NAVY+'20',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: NAVY,
+        fill: true, tension: 0.35,
+      },
+      {
+        label: 'Mean life satisfaction (index 1972=100)',
+        data: [100, 101, 99, 100, 101, 98, 100, 102, 101, 97, 98, 96, 95],
+        yAxisID: 'y1',
+        borderColor: ORANGE, backgroundColor: 'transparent',
+        borderWidth: 2.5, pointRadius: 4, pointBackgroundColor: ORANGE,
+        fill: false, tension: 0.35, borderDash: [6, 3],
+      },
+    ],
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'top', labels: { font: { size: 12 }, padding: 16 } },
+      tooltip: { backgroundColor: '#fff', titleColor: NAVY, bodyColor: '#333',
+                 borderColor: '#D0D8E8', borderWidth: 1 },
+    },
+    scales: {
+      x: { grid: gridStyle, ticks: tickStyle },
+      y: {
+        type: 'linear', position: 'left',
+        title: { display: true, text: 'GDP per capita index (1972=100)', color: NAVY, font: { size: 11 } },
+        grid: gridStyle, ticks: { ...tickStyle, color: NAVY },
+        min: 80,
+      },
+      y1: {
+        type: 'linear', position: 'right',
+        title: { display: true, text: 'Life satisfaction index (1972=100)', color: ORANGE, font: { size: 11 } },
+        grid: { drawOnChartArea: false },
+        ticks: { ...tickStyle, color: ORANGE },
+        min: 80, max: 125,
+      },
+    },
+  },
+});
+</script>
+</body>
+</html>

@@ -90,6 +90,9 @@ Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA
 | [FractaVolta.md](./FractaVolta.md) | Projet FractaVolta |
 | [discret_holography.md](./discret_holography.md) | Holographie discrète |
 | [uchronian_museum.md](./uchronian_museum.md) | Musée uchronique |
+| [tocqueville_law.md](./tocqueville_law.md) | Article académique : *The Generalized Tocqueville Law* — progrès, attentes croissantes et production structurelle de l'insatisfaction |
+| [tocqueville_figures.html](./tocqueville_figures.html) | Figures interactives (5 graphiques) accompagnant l'article |
+| [tocqueville_cover_letter.md](./tocqueville_cover_letter.md) | Lettre de soumission à *European Journal of Social Theory* |
 
 ---
 
