@@ -22,18 +22,69 @@ Ses axes principaux : souveraineté énergétique des communes de montagne (agri
 
 ## Travaux de recherche
 
-### *Invidia*, envie et désir mimétique
-**Pour une anthropologie de la disqualification de la réussite en contexte méditerranéen**
+### 🇬🇧 *The Generalized Tocqueville Law* — Progrès, attentes croissantes et production structurelle de l'insatisfaction
 
-Cet article, déposé dans ce dépôt, propose le **cycle DRSJ** — modèle interprétatif original articulant quatre cadres analytiques (Klein/Schoeck, Girard, Dunning, Fehr) pour rendre compte de la transformation récurrente d'une réussite observée en problème moral légitimant une sanction informelle. La Corse y est traitée comme laboratoire anthropologique, non comme exception.
+Article académique soumis à l'*European Journal of Social Theory*. Le papier formalise un mécanisme structurel — la **Loi de Tocqueville généralisée** — qui rend compte du paradoxe selon lequel les progrès objectifs s'accompagnent d'une intensification de la perception d'échec. Contribution centrale : un **indice de sévérité perçue** S(t) = Δ(t)/(1 − Q(t)), dont il est démontré que la croissance est monotone même lorsque le déficit absolu se réduit. Trois études de cas : aviation civile, modération de contenu numérique, mobilisation nationaliste corse.
 
-→ [Lire l'article](./invidia_mariani.md)
+→ [Lire le papier](./tocqueville_law.md) · [Figures interactives](./tocqueville_figures.html) · [Lettre de soumission](./tocqueville_cover_letter.md)
 
-### MareNostrum — Gouvernance IA en Méditerranée
+---
 
-Cadre de souveraineté énergétique et computationnelle à l'échelle méditerranéenne (Corse → Sardaigne → Sicile → Tunisie → Sahara).
+### 🇫🇷 *Invidia*, envie et désir mimétique — Pour une anthropologie de la disqualification de la réussite en contexte méditerranéen
 
-→ [github.com/JeanHuguesRobert/marenostrum](https://github.com/JeanHuguesRobert/marenostrum)
+Article proposant le **cycle DRSJ** — modèle interprétatif original articulant quatre cadres analytiques (Klein/Schoeck, Girard, Dunning, Fehr) pour rendre compte de la transformation récurrente d'une réussite observée en problème moral légitimant une sanction informelle. La Corse y est traitée comme laboratoire anthropologique, non comme exception.
+
+→ [Lire l'article](./invidia.md)
+
+---
+
+### 🇫🇷 *Dilution de la responsabilité et continuité de protection* — Vers une obligation de cohérence des parcours de vulnérabilité en droit public français
+
+Article de droit administratif proposant la reconnaissance d'un **principe de continuité de protection** pour les personnes traversant plusieurs régimes de vulnérabilité sans qu'aucune instance n'en assure la cohérence. S'appuie sur le cas de Marie-Louise Robert (Malou) comme point d'appui pour une réflexion normative sur les lacunes du droit positif français.
+
+→ [Lire l'article](./protection_responsable.md)
+
+---
+
+### 🇬🇧 *Literary Works as Navigable Spaces of Counterfactual Semantics* — Toward a Computational Framework for AI-Based Cultural Mediation
+
+Article de digital humanities proposant un cadre en trois couches (corpus immuable → extraction structurelle → médiation générative) traitant les œuvres littéraires non comme des textes statiques mais comme des **espaces de possibilités narratives contraintes**. Illustré par PKDIS (*Philip K. Dick Interactive System*).
+
+→ [Lire le papier](./ai-based-cultural-mediation.md)
+
+---
+
+### 🇬🇧 *Democratic Humans in the Loop* (DHITL) — Why Infrastructure Is All You Need for AI Safety
+
+Article formalisant une architecture en cinq couches pour la gouvernance démocratique de l'IA, avec une unité de compte thermodynamique — la **Compute eXergy Unit (CXU)** — et un *Compute Exergy Concentration Index*. Publié dans le dépôt MareNostrum (CC BY-SA 4.0).
+
+→ [Lire le papier](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+
+---
+
+### 🇫🇷 VIGILIA — Système distribué d'évitement des collisions et de perception territoriale
+
+Architecture de capteurs distribués (balises LoRaWAN, RSSI, GPS) pour la détection d'animaux sur les routes rurales corses. Conçu pour un déploiement léger, non intrusif, sans infrastructure lourde.
+
+→ [Lire le document](./vigilia.md)
+
+---
+
+### 🇫🇷 FractaVolta — Projet de génération d'énergie fractale
+
+→ [Lire le document](./FractaVolta.md)
+
+---
+
+### 🇫🇷 Holographie discrète
+
+→ [Lire le document](./discret_holography.md)
+
+---
+
+### 🇫🇷 Musée uchronique
+
+→ [Lire le document](./uchronian_museum.md)
 
 ---
 
@@ -65,7 +116,7 @@ Réalisations notables : premier annuaire des sites internet corses, logiciel de
 
 Émanation de C.O.R.S.I.C.A., l'Institut conduit des travaux expérimentaux sur les pratiques démocratiques, les biens communs, et la gouvernance de l'intelligence artificielle. Adresse : 1 cours Paoli, F-20250 Corte.
 
-Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA 4.0), papier DHITL (*Democratic Humans in the Loop*), soumission ICOME'26 (Corte, juin 2026).
+Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA 4.0), soumission ICOME'26 (*Constellia*, Corte, juin 2026), article *Democratic Humans in the Loop* (DHITL).
 
 ---
 
@@ -83,16 +134,18 @@ Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA
 
 ## Contenu de ce dépôt
 
-| Fichier | Description |
-|---|---|
-| [README.md](./README.md) | Ce document |
-| [invidia.md](./invidia.md) | Article : *Invidia*, envie et désir mimétique |
-| [FractaVolta.md](./FractaVolta.md) | Projet FractaVolta |
-| [discret_holography.md](./discret_holography.md) | Holographie discrète |
-| [uchronian_museum.md](./uchronian_museum.md) | Musée uchronique |
-| [tocqueville_law.md](./tocqueville_law.md) | Article académique : *The Generalized Tocqueville Law* — progrès, attentes croissantes et production structurelle de l'insatisfaction |
-| [tocqueville_figures.html](./tocqueville_figures.html) | Figures interactives (5 graphiques) accompagnant l'article |
-| [tocqueville_cover_letter.md](./tocqueville_cover_letter.md) | Lettre de soumission à *European Journal of Social Theory* |
+| Fichier | Langue | Description |
+|---|---|---|
+| [invidia.md](./invidia.md) | 🇫🇷 | *Invidia*, envie et désir mimétique — cycle DRSJ |
+| [protection_responsable.md](./protection_responsable.md) | 🇫🇷 | Dilution de la responsabilité et continuité de protection en droit public |
+| [vigilia.md](./vigilia.md) | 🇫🇷 | VIGILIA — système distribué de détection animaux/véhicules |
+| [FractaVolta.md](./FractaVolta.md) | 🇫🇷 | Projet FractaVolta |
+| [discret_holography.md](./discret_holography.md) | 🇫🇷 | Holographie discrète |
+| [uchronian_museum.md](./uchronian_museum.md) | 🇫🇷 | Musée uchronique |
+| [ai-based-cultural-mediation.md](./ai-based-cultural-mediation.md) | 🇬🇧 | Literary works as navigable spaces — AI-based cultural mediation |
+| [tocqueville_law.md](./tocqueville_law.md) | 🇬🇧 | *The Generalized Tocqueville Law* — papier académique avec appendice mathématique |
+| [tocqueville_figures.html](./tocqueville_figures.html) | 🇬🇧 | 5 figures interactives accompagnant l'article Tocqueville |
+| [tocqueville_cover_letter.md](./tocqueville_cover_letter.md) | 🇬🇧 | Lettre de soumission à *European Journal of Social Theory* |
 
 ---
 
