@@ -1,7 +1,7 @@
 # The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction
 
 **Jean Hugues Noël Robert**  
-Institut Mariani R&D / C.O.R.S.I.C.A. — 1 cours Paoli, F-20250 Corte, Corsica  
+Institut Mariani / C.O.R.S.I.C.A. — 1 cours Paoli, F-20250 Corte, Corsica  
 jhr@baronsmariani.org
 
 *Working paper. First posted: Les Carnets du Baron Mariani (Substack), 17 October 2025. This version: April 2026.*
