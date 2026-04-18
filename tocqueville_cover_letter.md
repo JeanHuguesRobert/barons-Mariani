@@ -1,7 +1,7 @@
 # Cover Letter — *European Journal of Social Theory* (in preparation)
 
 Jean Hugues Noël Robert  
-Institut Mariani R&D / C.O.R.S.I.C.A.  
+Institut Mariani / C.O.R.S.I.C.A.  
 1 cours Paoli, F-20250 Corte, Corsica  
 jhr@baronsmariani.org
 
