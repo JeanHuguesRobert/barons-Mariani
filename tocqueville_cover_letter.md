@@ -1,7 +1,4 @@
-# Cover Letter — Draft for future submission to *European Journal of Social Theory*
-
-*This is a draft prepared in advance of submission. The paper has not yet been submitted to any journal.*
----
+# Cover Letter — *European Journal of Social Theory* (in preparation)
 
 Jean Hugues Noël Robert  
 Institut Mariani R&D / C.O.R.S.I.C.A.  
