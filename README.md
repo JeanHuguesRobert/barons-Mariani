@@ -4,6 +4,10 @@
 
 > *D'azur à la tour donjonnée d'or, maçonnée de sable ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.*
 
+Ce dépôt rassemble les travaux de recherche en sciences humaines, droit et politique de Jean Hugues Noël Robert, baron Mariani. Il est le pendant du projet [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) sur le versant diagnostic : comprendre pourquoi les institutions centralisées échouent structurellement, pourquoi la décentralisation devient inévitable, et comment une gouvernance distribuée et anti-capture peut être conçue et mise en œuvre — à Corte, en Corse, en Méditerranée.
+
+Publié en continu selon le principe du *design in the open*. Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com).
+
 ---
 
 ## Candidature au Sénat — Haute-Corse, septembre 2026
