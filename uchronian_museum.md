@@ -6,7 +6,7 @@
 
 Cet article propose la formalisation du concept de **Musée uchronique** comme dispositif muséologique et épistémologique hybride, situé à l’interface de l’histoire contrefactuelle, de la muséographie contemporaine et des modèles d’aide à la décision territoriale. Il s’agit de dépasser la fonction descriptive du musée classique pour introduire un régime d’exploration structurée des bifurcations historiques plausibles.
 
-Une étude de cas est développée à partir d’une hypothèse contrefactuelle : la survie et le retour clandestin de Napoléon Bonaparte en Corse après 1821, avec implantation à Minesteggio (Corte). Cette hypothèse est mobilisée non comme fiction, mais comme opérateur d’analyse des trajectoires socio-économiques alternatives d’un territoire insulaire.
+Une étude de cas est développée à partir d’une hypothèse contrefactuelle : la survie et le retour clandestin de Napoléon Bonaparte en Corse après 1821, avec implantation à Minesteggio (Corte). Cette hypothèse est mobilisée non comme une fiction classique mais comme une fiction contrainte, un opérateur d’analyse des trajectoires socio-économiques alternatives d’un territoire insulaire.
 
 ---
 
@@ -29,7 +29,7 @@ Le Musée uchronique est défini comme un dispositif institutionnel et cognitif 
 3. Comparer les trajectoires historiques advenues et non advenues
 4. Produire des connaissances orientées vers l’analyse des dynamiques contemporaines
 
-Il ne s’agit ni d’un musée au sens classique (ICOM), ni d’un espace d’interprétation patrimoniale, mais d’un **instrument d’inférence historique appliquée**.
+Il ne s’agit ni d’un musée au sens classique (ICOM), ni d’un espace d’interprétation patrimoniale, mais d’un **instrument d’inférence historique appliquée**. La finalité est double, à titre éducatif d'abord, à titre prospectif idéalement.
 
 ---
 
@@ -125,7 +125,7 @@ Il s’agit moins de réécrire l’histoire que de la transformer en espace de 
 ### Auteur
 
 Jean Hugues Noël Robert, baron Mariani
-Corte, Corse
+Institut Mariani, 1 cours Paoli, F-20250, Corte, Corse. jhr@baronsmariani.org
 Projet associé : Musée uchronique / Fondation Barons Mariani / Kudocracy
 
 ### Licence
