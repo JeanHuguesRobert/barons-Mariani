@@ -1,15 +1,17 @@
 # Dilution de la responsabilité et continuité de protection  
 ## Vers une obligation de cohérence des parcours de vulnérabilité en droit public français
 
-**Auteur** : Jean Hugues Noël Robert, baron Mariani. 1 cours Paoli, F-20250 Corte, jhr@baronsmariani.org
-**Date** : 18 avril 2026 
+**Auteur** : Jean Hugues Noël Robert, baron Mariani  
+**Adresse** : 1 cours Paoli, F-20250 Corte  
+**Contact** : [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)  
+**Date** : 19 avril 2026  
 **Licence** : CC BY-NC-SA 4.0
 
 ---
 
 ## Résumé
 
-Le droit public français de la vulnérabilité demeure structuré par une logique sectorielle : santé, enseignement supérieur, handicap, action sociale et protection sociale relèvent d’institutions distinctes, dotées de compétences propres, de procédures autonomes et de temporalités hétérogènes. Cette architecture, rationnelle au regard de la spécialisation administrative, produit néanmoins des effets de discontinuité lorsqu’une même personne traverse plusieurs régimes de protection sans qu’aucune instance n’assure la cohérence de l’ensemble.
+Le droit public français de la vulnérabilité demeure structuré par une logique sectorielle : santé, enseignement supérieur, handicap, action sociale et protection sociale relèvent d’institutions distinctes, dotées de compétences propres, de procédures autonomes et de temporalités hétérogènes. Cette architecture, rationnelle au regard de la spécialisation administrative, produit toutefois des effets de discontinuité lorsqu’une même personne traverse plusieurs régimes de protection sans qu’aucune instance n’assure la cohérence de l’ensemble.
 
 L’article propose d’analyser cette discontinuité comme un mécanisme de dilution de la responsabilité, particulièrement visible dans les situations de désinsertion, de souffrance psychique et de rupture de parcours. À partir d’un cas personnel assumé, celui de Marie-Louise Robert, dite Malou, il met en évidence la manière dont un handicap congénital, une interruption d’études, une vulnérabilité psychique progressive et une demande administrative instruite tardivement peuvent s’articuler sans qu’un cadre général de continuité de protection ne vienne prévenir la rupture.
 
@@ -171,14 +173,23 @@ Reconnaître un principe de continuité de protection, c’est faire évoluer le
 
 ---
 
-## Références indicatives
+## Références
 
-- Code de l’action sociale et des familles.
+### Sources normatives
+- Code de l’action sociale et des familles, art. L. 241-9.
 - Code de l’éducation.
 - Code de la santé publique.
-- Jurisprudence administrative relative à la responsabilité pour faute, à la perte de chance et aux carences dans la protection des personnes vulnérables.
-- Jurisprudence relative aux obligations positives de protection de la vie au titre de l’article 2 de la CEDH.
-- Fédération hospitalière de France, communiqués 2026 sur la santé mentale des jeunes.
-- Observatoire national du suicide, 6e rapport, 2025.
-- INSEE, Bilan démographique 2025.
-- Santé publique France, données sur les hospitalisations pour gestes auto-infligés.
+
+### Jurisprudence
+- Conseil d’État, 9 avril 1993, *Bianchi*.
+- Conseil d’État, 21 décembre 2007, décision relative à la perte de chance.
+- Cour européenne des droits de l’homme, 3 avril 2001, *Keenan c. Royaume-Uni*.
+
+### Rapports et données institutionnelles
+- Fédération hospitalière de France, communiqué sur la santé mentale des jeunes et des femmes, avril 2026.
+- Observatoire national du suicide, *6e rapport*, février 2025.
+- INSEE, *Bilan démographique 2025*, janvier 2026.
+- Santé publique France, données sur les hospitalisations pour gestes auto-infligés, 2023-2025.
+
+### Sources complémentaires
+- Conseil de l’Europe, jurisprudence relative aux obligations positives de protection de la vie au titre de l’article 2 de la Convention européenne des droits de l’homme.
