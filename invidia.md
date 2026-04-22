@@ -151,4 +151,4 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 ---
 
 *© Jean Hugues Noël Robert, baron Mariani — Institut Mariani, Corte, 2026*  
-*Dépôt : github.com/JeanHuguesRobert/barons-mariani*
+*Dépôt : github.com/JeanHuguesRobert/barons-Mariani*
