@@ -30,7 +30,7 @@ Ses axes principaux : souveraineté énergétique des communes de montagne (agri
 
 Article académique possiblement à soumettre à l'*European Journal of Social Theory*. Le papier formalise un mécanisme structurel — la **Loi de Tocqueville généralisée** — qui rend compte du paradoxe selon lequel les progrès objectifs s'accompagnent d'une intensification de la perception d'échec. Contribution centrale : un **indice de sévérité perçue** S(t) = Δ(t)/(1 − Q(t)), dont il est démontré que la croissance est monotone même lorsque le déficit absolu se réduit. Trois études de cas : aviation civile, modération de contenu numérique, mobilisation nationaliste corse.
 
-→ [Lire le papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures interactives](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
+→ [Lire le papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures interactives](https://htmlpreview.github.io/?https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
 
 ---
 
