@@ -1,8 +1,8 @@
 # Barons Mariani
 
-[![Blason des barons Mariani](https://upload.wikimedia.org/wikipedia/commons/4/45/Mariani_blason.png)](https://fr.wikipedia.org/wiki/Antoine_Mariani)
+[![Blason des barons Mariani](https://camo.githubusercontent.com/186c48fc0a0d106f0a5054e5f9ada0b78d492d904b17a0c5a0ec475ff0147c22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f4d617269616e695f626c61736f6e2e706e67)](https://fr.wikipedia.org/wiki/Antoine_Mariani)
 
-> *D'azur à la tour donjonnée d'or, maçonnée de sable ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.*
+> *D'azur à la tour donjonnée d'or, maçonnée de sable, ouverte et ajourée de gueules, au chef d'or, chargé de trois coquilles de gueules.*
 
 Ce dépôt rassemble les travaux de recherche en sciences humaines, droit et politique de Jean Hugues Noël Robert, baron Mariani. Il est le pendant du projet [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) sur le versant diagnostic : comprendre pourquoi les institutions centralisées échouent structurellement, pourquoi la décentralisation devient inévitable, et comment une gouvernance distribuée et anti-capture peut être conçue et mise en œuvre — à Corte, en Corse, en Méditerranée.
 
@@ -20,7 +20,7 @@ La plateforme de campagne **Plan 2038** — deux mandats de six ans — repose s
 
 Ses axes principaux : souveraineté énergétique des communes de montagne (agrivoltaïque, micro-STEP, datacenters souverains containerisés), revenu universel de 500 €/mois financé par un Fonds Souverain Énergétique Corse (FSEC), et positionnement de la Corse comme nœud de compute méditerranéen via le projet [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum).
 
-📧 Contact : jhr@baronsmariani.org
+📧 Contact : [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)
 
 ---
 
@@ -30,7 +30,7 @@ Ses axes principaux : souveraineté énergétique des communes de montagne (agri
 
 Article académique possiblement à soumettre à l'*European Journal of Social Theory*. Le papier formalise un mécanisme structurel — la **Loi de Tocqueville généralisée** — qui rend compte du paradoxe selon lequel les progrès objectifs s'accompagnent d'une intensification de la perception d'échec. Contribution centrale : un **indice de sévérité perçue** S(t) = Δ(t)/(1 − Q(t)), dont il est démontré que la croissance est monotone même lorsque le déficit absolu se réduit. Trois études de cas : aviation civile, modération de contenu numérique, mobilisation nationaliste corse.
 
-→ [Lire le papier](./tocqueville_law.md) · [Figures interactives](./tocqueville_figures.html) · [Lettre de soumission](./tocqueville_cover_letter.md)
+→ [Lire le papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures interactives](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
 
 ---
 
@@ -38,7 +38,7 @@ Article académique possiblement à soumettre à l'*European Journal of Social T
 
 Article proposant le **cycle DRSJ** — modèle interprétatif original articulant quatre cadres analytiques (Klein/Schoeck, Girard, Dunning, Fehr) pour rendre compte de la transformation récurrente d'une réussite observée en problème moral légitimant une sanction informelle. La Corse y est traitée comme laboratoire anthropologique, non comme exception.
 
-→ [Lire l'article](./invidia.md)
+→ [Lire l'article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md)
 
 ---
 
@@ -46,7 +46,7 @@ Article proposant le **cycle DRSJ** — modèle interprétatif original articula
 
 Article de droit administratif proposant la reconnaissance d'un **principe de continuité de protection** pour les personnes traversant plusieurs régimes de vulnérabilité sans qu'aucune instance n'en assure la cohérence. S'appuie sur le cas de Marie-Louise Robert (Malou) comme point d'appui pour une réflexion normative sur les lacunes du droit positif français.
 
-→ [Lire l'article](./protection_responsable.md)
+→ [Lire l'article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md)
 
 ---
 
@@ -54,7 +54,7 @@ Article de droit administratif proposant la reconnaissance d'un **principe de co
 
 Article de digital humanities proposant un cadre en trois couches (corpus immuable → extraction structurelle → médiation générative) traitant les œuvres littéraires non comme des textes statiques mais comme des **espaces de possibilités narratives contraintes**. Illustré par PKDIS (*Philip K. Dick Interactive System*).
 
-→ [Lire le papier](./ai-based-cultural-mediation.md)
+→ [Lire le papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/ai-based-cultural-mediation.md)
 
 ---
 
@@ -70,25 +70,33 @@ Article formalisant une architecture en cinq couches pour la gouvernance démocr
 
 Architecture de capteurs distribués (balises LoRaWAN, RSSI, GPS) pour la détection d'animaux sur les routes rurales corses. Conçu pour un déploiement léger, non intrusif, sans infrastructure lourde.
 
-→ [Lire le document](./vigilia.md)
+→ [Lire le document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md)
+
+---
+
+### 🇬🇧 *Markets of Usage Transitions in Multi-Use Physical Assets* — Toward a Theory of Friction-Based Economic Value
+
+Working paper en économie institutionnelle proposant un cadre théorique pour une classe de systèmes économiques dans lesquels la valeur est générée non par l'usage des actifs, mais par la gestion des **transitions entre états d'usage incompatibles**. Le papier introduit le concept de *spécificité de phase* (cinquième dimension de la spécificité des actifs, absente de Williamson), positionne le cadre par rapport à la TCE, à l'économie des plateformes et à la théorie des biens communs (Ostrom), et soutient que le choix de la structure de gouvernance d'une infrastructure de transition est une **décision politique** qui précède et conditionne les marchés — non un optimum économique. Ancre empirique : petite ville universitaire insulaire à forte saisonnalité touristique.
+
+→ [Lire le papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/transition_markets.md)
 
 ---
 
 ### 🇫🇷 FractaVolta — Projet de génération d'énergie fractale
 
-→ [Lire le document](./FractaVolta.md)
+→ [Lire le document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/FractaVolta.md)
 
 ---
 
-### 🇫🇷 Holographie discrète
+### 🇫🇷 Holographie discrète (ironique)
 
-→ [Lire le document](./discret_holography.md)
+→ [Lire le document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/discret_holography.md)
 
 ---
 
 ### 🇫🇷 Musée uchronique
 
-→ [Lire le document](./uchronian_museum.md)
+→ [Lire le document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/uchronian_museum.md)
 
 ---
 
@@ -96,7 +104,7 @@ Architecture de capteurs distribués (balises LoRaWAN, RSSI, GPS) pour la détec
 
 La famille des barons Mariani est représentée par Jean Hugues Noël Robert, baron Mariani, et ses deux enfants, Lucas et Marie-Louise.
 
-La notice Wikipedia de l'ancêtre Antoine Dominique Mariani (1776–1843), baron de l'Empire, conseiller d'État, pair de France : [fr.wikipedia.org/wiki/Antoine_Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani).
+La notice Wikipedia de l'ancêtre Antoine Dominique Mariani (1776–1843), baron de l'Empire, conseiller d'État, pair de France : [fr.wikipedia.org/wiki/Antoine\_Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani).
 
 L'ouvrage généalogique *Les barons Mariani et leurs alliances* (1993), constitué à partir des archives du baron Louis-Hugues Mariani, est consultable en ligne : [books.google.fr](https://books.google.fr/books?id=9ScbAAAAYAAJ&focus=searchwithinvolume&q=mariano).
 
@@ -127,7 +135,7 @@ Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA
 ## Historique des candidatures
 
 | Année | Scrutin | Résultat |
-|---|---|---|
+| --- | --- | --- |
 | 2017 | Législatives (Haute-Corse) | Candidature |
 | 2020 | Sénatoriales (Corse du Sud) | Candidature |
 | 2022 | Législatives (Haute-Corse) | Candidature |
@@ -139,17 +147,18 @@ Travaux en cours : dossier Minesteggio (DRAC Corse), cadre MareNostrum (CC BY-SA
 ## Contenu de ce dépôt
 
 | Fichier | Langue | Description |
-|---|---|---|
-| [invidia.md](./invidia.md) | 🇫🇷 | *Invidia*, envie et désir mimétique — cycle DRSJ |
-| [protection_responsable.md](./protection_responsable.md) | 🇫🇷 | Dilution de la responsabilité et continuité de protection en droit public |
-| [vigilia.md](./vigilia.md) | 🇫🇷 | VIGILIA — système distribué de détection animaux/véhicules |
-| [FractaVolta.md](./FractaVolta.md) | 🇫🇷 | Projet FractaVolta |
-| [discret_holography.md](./discret_holography.md) | 🇫🇷 | Holographie discrète |
-| [uchronian_museum.md](./uchronian_museum.md) | 🇫🇷 | Musée uchronique |
-| [ai-based-cultural-mediation.md](./ai-based-cultural-mediation.md) | 🇬🇧 | Literary works as navigable spaces — AI-based cultural mediation |
-| [tocqueville_law.md](./tocqueville_law.md) | 🇬🇧 | *The Generalized Tocqueville Law* — papier académique avec appendice mathématique |
-| [tocqueville_figures.html](./tocqueville_figures.html) | 🇬🇧 | 5 figures interactives accompagnant l'article Tocqueville |
-| [tocqueville_cover_letter.md](./tocqueville_cover_letter.md) | 🇬🇧 | Lettre de soumission à *European Journal of Social Theory* |
+| --- | --- | --- |
+| [invidia.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md) | 🇫🇷 | *Invidia*, envie et désir mimétique — cycle DRSJ |
+| [protection\_responsable.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md) | 🇫🇷 | Dilution de la responsabilité et continuité de protection en droit public |
+| [vigilia.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md) | 🇫🇷 | VIGILIA — système distribué de détection animaux/véhicules |
+| [transition\_markets.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/transition_markets.md) | 🇬🇧 | *Markets of Usage Transitions* — théorie des marchés de transition et gouvernance des biens communs |
+| [FractaVolta.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/FractaVolta.md) | 🇫🇷 | Projet FractaVolta |
+| [discret\_holography.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/discret_holography.md) | 🇫🇷 | Holographie discrète |
+| [uchronian\_museum.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/uchronian_museum.md) | 🇫🇷 | Musée uchronique |
+| [ai-based-cultural-mediation.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/ai-based-cultural-mediation.md) | 🇬🇧 | Literary works as navigable spaces — AI-based cultural mediation |
+| [tocqueville\_law.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) | 🇬🇧 | *The Generalized Tocqueville Law* — papier académique avec appendice mathématique |
+| [tocqueville\_figures.html](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) | 🇬🇧 | 5 figures interactives accompagnant l'article Tocqueville |
+| [tocqueville\_cover\_letter.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md) | 🇬🇧 | Lettre de soumission à *European Journal of Social Theory* |
 
 ---
 
@@ -161,4 +170,4 @@ Le blason est issu de l'[Armorial des familles de Corse](https://fr.m.wikipedia.
 
 ---
 
-*Jean Hugues Noël Robert, baron Mariani — Institut Mariani, 1 cours Paoli, F-20250 Corte — jhr@baronsmariani.org*
+*Jean Hugues Noël Robert, baron Mariani — Institut Mariani, 1 cours Paoli, F-20250 Corte — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
