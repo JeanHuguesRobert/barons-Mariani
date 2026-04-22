@@ -305,4 +305,4 @@ Projet open source.
 
 Attribution requise :
 
-**Jean-Hugues Robert — VIGILIA (2026)**
+**Jean Hugues Noël Robert — VIGILIA (2026)**
