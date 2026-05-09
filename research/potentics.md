@@ -1,11 +1,10 @@
 # What is Potentics?
 
-## Toward a Science of Organized Potentials
+## Toward a Science of the Possible
 
 **Jean Hugues Noël Robert, baron Mariani**
 
-Institut Mariani / C.O.R.S.I.C.A.
-1 cours Paoli, F-20250, Corte, Corsica, France
+Institut Mariani / C.O.R.S.I.C.A. - 1 cours Paoli, F-20250 Corte, Corsica, France
 
 jhr@baronsmariani.org
 
@@ -15,509 +14,343 @@ jhr@baronsmariani.org
 
 ## Abstract
 
-Modern civilization increasingly depends on the interaction between energy systems, information systems, computation, and collective intelligence. Yet these domains are still largely studied separately. Energy is treated as a problem of production and storage. Computation is treated as an abstract informational process. Geography is often reduced to logistics. Intelligence is discussed independently from the physical infrastructures sustaining it.
+*Toward a science of potentiality.* Existing scientific frameworks handle the possible poorly. Probability theory treats possibilities as binary — something either belongs to the sample space or does not. Optimization theory assumes knowledge precedes action. Decision theory separates learning from doing. Cybernetics, the most ambitious predecessor, studies how existing systems regulate themselves — but does not ask what those systems could become.
 
-This paper proposes *Potentics* as a tentative transdisciplinary research program studying how distributed potentials — energetic, gravitational, informational, computational, social, and territorial — may be transformed into organized and resilient intelligence under physical constraints.
+*Potentics* is proposed as the rational exploration of the possible: a transdisciplinary research program studying how potentialities — understood as scalar quantities measuring the propensity of a possible to actualize — can be identified, evaluated, and cultivated, and what prevents them from doing so.
 
-Potentics does not claim that all systems obey identical laws, nor that metaphor alone is sufficient to establish scientific validity. Rather, it explores whether recurring structural patterns emerge across scales whenever gradients, storage, networks, and coordination interact. The central hypothesis is that civilization itself may be understood as a process that tends to optimize the transformation of available exergy into persistent cognitive and organizational capacity — a claim that remains to be formalized and empirically tested.
+The distinction between a *possibility* and a *potentiality* is foundational: a possibility is binary (something is either conceivable or not), while a potentiality is a graded quantity capturing both the intrinsic propensity of a possible to actualize and the value of investing resources — including investigative effort — toward its resolution. Failure, when documented, has the same epistemic value as success: both reduce uncertainty about the real magnitude of a potentiality.
 
-This perspective is grounded in thermodynamic principles — particularly the Landauer bound, Prigogine's dissipative structures, and the concept of exergy — and extends them toward a joint treatment of geography, computation, and collective intelligence. A formalization of Cognitive Exergy Density (κ) is proposed as a candidate metric, alongside the Compute eXergy Unit (CXU) as its computational instantiation. Both metrics are first approximations requiring empirical validation.
+Potentics inherits from cybernetics the rigorous treatment of systems and feedback, and extends it toward the question cybernetics did not pose: not how does a system regulate itself, but what could it become, and how?
 
-The framework is illustrated by a reference scenario for Corsica and the MareNostrum architecture, where solar intermittency, gravitational storage potential, territorial constraints, and AI inference capacity interact in ways that existing energy or computation frameworks cannot jointly model.
-
----
-
-## 1. Introduction
-
-The industrial age was fundamentally shaped by concentrated energy. Coal, oil, and centralized electrical grids enabled unprecedented levels of production, mobility, communication, and computation. The digital age then progressively abstracted information from its physical substrate, creating the widespread impression that computation exists independently from geography, infrastructure, or energetic constraints.
-
-This separation is becoming increasingly difficult to sustain.
-
-Training a large language model consumes on the order of 10³–10⁴ MWh of electrical energy (Patterson et al., 2021). Global data center electricity consumption reached approximately 200–250 TWh in 2022 and is projected to double or triple by 2030 (IEA, 2024). The physical footprint of intelligence is no longer negligible — it is geopolitical.
-
-Simultaneously, the renewable transition introduces a structural discontinuity: unlike fossil fuels, which can be stored and dispatched on demand, solar and wind generation is inherently intermittent and geographically distributed. The question of where and when energy exists is no longer separable from the question of where and when computation occurs.
-
-Artificial intelligence, large-scale computation, renewable intermittency, storage systems, distributed networks, and geopolitical fragmentation are together forcing civilization to confront the physical foundations of cognition:
-
-- Computation consumes energy.
-- Networks occupy territory.
-- Intelligence requires infrastructure.
-- Infrastructure depends on gradients.
-
-Yet no unified framework currently attempts to study these relationships as manifestations of a common organizational phenomenon.
-
-*Potentics* is proposed as a tentative name for such an inquiry. The etymology is deliberate: *potens* (Latin: having power, capable) combined with the suffix *-ics* (denoting a field of study). Potentics studies how distributed potentials — physical, informational, social, territorial — are organized into persistent capability.
+This paper establishes the conceptual foundations of Potentics: the potentiality/possibility distinction, the structure of Π (the candidate unified metric), the epistemology of trial and error, a taxonomy of inhibitors (with resistance to change as the archetype), and the primacy of the real as the discipline's methodological commitment. Fields of application and an open research agenda are outlined.
 
 ---
 
-> **Core Contribution**
+## 1. Introduction: The Gap in the Science of the Possible
+
+Modern science handles the actual very well. Physics describes what is. Engineering builds what has been designed. Cybernetics regulates what already functions. Even complexity science — the most dynamic of the systems disciplines — primarily studies patterns that have already emerged.
+
+The possible is handled less well.
+
+Probability theory approaches it through the sample space: a possibility either belongs to the set of conceivable outcomes or it does not. This is a binary treatment. Once admitted to the sample space, possibilities are assigned probabilities — but the question of whether to *cultivate* a possibility, how to increase its propensity to actualize, or how to diagnose what prevents its actualization, lies outside probability theory's scope.
+
+Optimization theory assumes that the space of possibilities is known and fixed, and seeks the best point within it. It does not ask how to expand the space, or what possibilities remain invisible because the conditions for their recognition do not yet exist.
+
+Decision theory, in its classical form, separates knowing from doing: one first acquires information, then acts. The iteration between action and knowledge — the fact that doing generates knowing, which generates new possibilities for doing — is treated as a special case rather than the norm.
+
+The gap is real, though not total. Several existing traditions approach parts of it. Real options theory (Dixit & Pindyck, 1994) treats unexploited possibilities as assets with time-dependent value. Strategic foresight and scenario planning explore the space of futures without claiming to predict it. Innovation studies (Rogers, 1962; Christensen, 1997) analyze why technologies diffuse slowly despite evident potential. Adaptive complexity research (Holland, 1992) studies how systems generate novelty under constraint.
+
+Each of these traditions addresses a fragment of the problem. None addresses it systematically as a unified object of inquiry. No existing discipline jointly treats:
+
+- How to identify possibilities that are *not yet visible* because the conditions for their recognition do not yet exist
+- How to measure the propensity of a possible to actualize — not as a binary probability, but as a cultivable gradient
+- How to increase that propensity through iterative action and learning, treating failure as equal epistemic yield to success
+- What inhibits actualization, structurally and dynamically, across heterogeneous domains
+- How to evaluate whether the effort of investigation is itself worth making, before committing to actualization
+
+Potentics proposes to unify and radicalize these partial approaches under a common framework — not to fill a void, but to provide the integrating structure that the existing traditions lack.
+
+*Potentics* is proposed to fill this gap. Its definition is compact:
+
+> **Potentics is the rational exploration of the possible.**
+
+Each word carries weight. *Rational*: rigorous, tool-assisted, falsifiable, not merely intuitive. *Exploration*: iterative, open-ended, proceeding by trial and error, not by prior optimization. *The possible*: not what is, not what is certain, but what could become real — with a propensity that can be measured, cultivated, and inhibited.
+
+---
+
+## 2. From Possibility to Potentiality
+
+### 2.1 The Binary Trap
+
+Classical frameworks treat possibility as binary. A state of affairs is either possible or impossible; either in the sample space or not; either conceivable or inconceivable. This binary structure has practical advantages — it enables the mathematics of probability and the logic of modal reasoning — but it obscures a fundamental gradient in the real world.
+
+In practice, possibilities differ not only in probability but in *propensity*: in the degree to which the conditions for their actualization are already present, the degree to which they are tending toward realization, and the degree to which deliberate action can accelerate or inhibit that tendency.
+
+### 2.2 Potentiality as Scalar Quantity
+
+Potentics proposes that *potentiality* is distinct from *possibility* in precisely this sense:
+
+> A **possibility** is binary: a state of affairs is either conceivable or not.
 >
-> This paper proposes Potentics as a tentative transdisciplinary framework with:
-> - **Four working hypotheses** (P1–P4) connecting thermodynamics, geography, and collective intelligence;
-> - **Two candidate metrics**: the Compute eXergy Unit (CXU) and Cognitive Exergy Density (κ);
-> - **A reference scenario** for Corsica illustrating how solar exergy might be transformed into sovereign cognitive infrastructure;
-> - **A research agenda** identifying open questions and testable predictions.
->
-> All claims are preliminary. Potentics is proposed as an open research program, not a completed theory.
+> A **potentiality** is scalar: it measures the propensity of a possible to actualize, given current conditions and available effort.
+
+This distinction has philosophical roots. Aristotle distinguished *dunamis* (potency, the capacity for change) from *energeia* (actuality, the realized state). Popper proposed that probabilities in physics are best understood as *propensities* — real dispositional properties of situations, not merely frequencies or degrees of belief. Potentics inherits both intuitions without reducing to either: a potentiality is neither pure logical possibility nor a frequency-based probability, but a real gradient in the conditions of actualization.
+
+### 2.3 The Epistemic Value of Failure
+
+A corollary of treating potentiality as scalar is that **failure, when documented, has equal epistemic value to success**.
+
+In binary frameworks, a failed attempt is simply a realized impossibility — it confirms that the outcome was not in the actual sample path. In Potentics, a documented failure provides information about the real magnitude of a potentiality: it updates our estimate of Π, reduces uncertainty, and may redirect effort more efficiently than a success that simply confirms prior expectations.
+
+This is not a consoling metaphor. It is an operational principle: any investigation of a potentiality — whether it ends in actualization or in demonstrated inutility — generates knowledge that justifies the effort, provided the investigation was designed to do so.
 
 ---
 
-> **Working Hypotheses (overview — developed in Section 3)**
->
-> | Hypothesis | Informal statement | Status |
-> |-----------|-------------------|--------|
-> | P1 | Civilizational intelligence is a dissipative structure maintained by exergy flux | Theoretical, plausible |
-> | P2 | A minimum cognitive exergy density exists below which complex adaptation fails | Speculative, testable |
-> | P3 | Civilizational resilience is partially measurable as cognitive exergetic efficiency | Speculative, operationalizable |
-> | P4 | Optimal cognitive infrastructure exhibits scale-free topology with algebraic connectivity proportional to criticality | Theoretical, to be tested |
+## 3. The Structure of Π
+
+### 3.1 A Multi-Dimensional Quantity
+
+A potentiality Π is provisionally structured along several dimensions:
+
+- **Propensity** (φ): the intrinsic tendency of the possible to actualize under current conditions, absent deliberate intervention. High propensity means the conditions are already largely favorable.
+
+- **Effort** (ε): the resources — time, capital, attention, coordination — required to move the potentiality from its current state toward actualization.
+
+- **Value** (υ): the worth produced if actualization occurs, evaluated across relevant dimensions (economic, social, ecological, epistemic).
+
+- **Reversibility** (ρ): the degree to which the actualization, once achieved, can be undone. Low reversibility increases the stakes of the decision to pursue.
+
+These dimensions are not independent. High propensity may reduce required effort. High reversibility may increase the value of attempting actualization despite low propensity. The relationships between dimensions are themselves objects of Potentic inquiry.
+
+### 3.2 The Ambition of Unification
+
+The long-term ambition of Potentics is to unify these dimensions into a single scalar metric:
+
+> **Π(p) = f(φ, ε, υ, ρ, ...)**
+
+such that potentialities of heterogeneous types — territorial, institutional, technical, biological, social — can be compared on a common scale.
+
+This ambition is analogous to what *exergy* achieves in thermodynamics: a single quantity that unifies heterogeneous forms of energy (thermal, mechanical, chemical) under the common criterion of *capacity to perform useful work*. Potentics seeks an exergy of the possible.
+
+The unification is not yet achieved. It is a research objective, stated explicitly as such.
+
+### 3.3 The Epistemic Metapotentiality
+
+Before pursuing the actualization of a potentiality, Potentics requires evaluating a second-order quantity:
+
+> **Π_e(p)** = the value of *knowing* whether Π(p) is real and of the magnitude hoped for
+
+This *epistemic metapotentiality* answers the question: is it worth investigating before acting? It frames the decision to design an experiment, commission a study, or run a pilot as itself a potentiality to be evaluated.
+
+In practice, Π_e is often the more important quantity: the cost of pursuing a potentiality that turns out to be illusory is typically much higher than the cost of a well-designed investigation that reveals this before significant resources are committed.
 
 ---
 
-This paper is organized as follows. Section 2 establishes formal definitions. Section 3 develops the thermodynamic and information-theoretic foundations, together with the four working hypotheses. Sections 4 and 5 extend the framework from physical potentials to intelligence and geography. Section 6 presents the Corsica reference scenario as a concrete illustration. Section 7 examines fractal organization across scales. Section 8 proposes a candidate measurement framework. Section 9 outlines the Potentics research program. Section 10 concludes.
+## 4. Trial and Error as Fundamental Epistemology
+
+### 4.1 Knowing and Doing as Co-Productive
+
+Classical decision theory separates the phases of knowing and doing: one acquires information (Bayesian updating), then acts optimally given that information. This sequential model is an idealization that rarely matches the actual structure of complex situations.
+
+In Potentics, knowing and doing are *co-productive*. Action generates information about the real state of potentialities; that information shapes subsequent action. The iteration is not a correctable imperfection — it is the normal mode of potentiality exploration.
+
+This has a direct consequence: the design of action must account for its informational yield, not only its direct output. An action that fails but generates precise knowledge about why it failed may be more valuable than an action that succeeds but leaves the underlying potentiality structure opaque.
+
+### 4.2 The Epistemology of the Useful Failure
+
+Potentics proposes that scientific progress in understanding potentialities proceeds primarily through *designed failures* — investigations structured specifically to test whether a potentiality is real and of the expected magnitude.
+
+This is not identical to Popperian falsification, which concerns theoretical propositions. It concerns the empirical reality of specific potentialities: is the renewable energy potential of this territory really what the solar irradiance data suggests? Is the institutional capacity for cooperative governance in this community actually achievable? Is the market for this product as large as preliminary signals indicate?
+
+Designed failures answer these questions efficiently, without requiring full commitment to actualization before the answer is known.
+
+### 4.3 Iteration, Scale, and Learning Rates
+
+A key variable in potentiality exploration is the *learning rate*: how quickly each trial-error cycle updates the estimate of Π. Systems with high learning rates can afford shorter, cheaper trials. Systems with low learning rates — typically those involving slow institutional, ecological, or social processes — require longer investment horizons to generate reliable information.
+
+Potentics treats the learning rate as a property of the potentiality itself, not merely of the investigator. Some potentialities are epistemically accessible; others are deeply obscure. Characterizing this accessibility is part of what Potentic inquiry does.
 
 ---
 
-> **What Potentics is NOT**
->
-> - Not a claim that all complex systems obey identical laws.
-> - Not an assertion that geography determines civilizational outcomes.
-> - Not a projection or financial forecast for any specific territory.
-> - Not a completed scientific theory — it is a research direction.
-> - Not a replacement for thermodynamics, network science, or information theory; it is a proposed unification of insights from these fields.
+## 5. Inhibitors of Actualization
+
+If Potentics is a science of the possible, it is equally a science of the *blocked possible*. Any serious account of potentiality must address why potentialities fail to actualize even when conditions seem favorable. This section develops a provisional taxonomy of inhibitors.
+
+### 5.1 Resistance to Change: The Archetype
+
+The most fundamental and pervasive inhibitor is *resistance to change* — the tendency of existing systems, institutions, habits, and power structures to oppose the actualization of potentialities that would displace them.
+
+Resistance to change is not irrational from the perspective of those who benefit from the status quo. A potentiality that would create large aggregate value may simultaneously threaten the specific interests of those whose cooperation is required to actualize it. This is the classic structure of collective action problems, but Potentics views it through a different lens: not as a market failure to be corrected, but as a fundamental feature of the potentiality landscape to be mapped and accounted for.
+
+The intensity of resistance to change is itself a dimension of the potentiality: high resistance does not eliminate a potentiality, but it increases the effective effort ε required to actualize it and may require different actualization pathways — working around existing structures rather than through them.
+
+### 5.2 Visibility Failures
+
+Many potentialities fail to actualize not because of active resistance but because they are *not seen*. Visibility failures occur when:
+
+- The possibility is genuinely novel and no existing conceptual framework captures it
+- The conditions for recognizing the potentiality require knowledge that is not yet combined in any existing community
+- The signals of the potentiality are present but dispersed across domains that do not communicate
+
+Visibility failures are particularly prevalent at the intersection of disciplines — precisely the domain where Potentics operates. The history of science is partly a history of potentialities that existed for decades before anyone developed the conceptual tools to see them.
+
+### 5.3 Coordination Failures
+
+Many potentialities require the simultaneous commitment of multiple actors, none of whom finds it rational to commit unilaterally. This produces a *coordination failure*: the potentiality is visible to all, its value is understood, and yet it remains unactualized because the problem of synchronizing commitment is not solved.
+
+Coordination failures differ from resistance to change: in the former, all parties would benefit from actualization but cannot coordinate; in the latter, some parties benefit from non-actualization and actively resist. The distinction matters because the appropriate Potentic intervention differs: coordination failures call for focal points, pre-commitment devices, and trusted intermediaries; resistance to change calls for different actualization pathways or for changing the distribution of costs and benefits.
+
+### 5.4 Resource and Timing Mismatches
+
+Potentialities have characteristic resource requirements and temporal windows. A potentiality may be real and visible, with no active inhibitors, and yet fail to actualize because:
+
+- The required resources are available but not at the right time or in the right form
+- The temporal window for actualization is short and the preparation time required exceeds it
+- The actors who possess the resources are not the actors who perceive the potentiality
+
+Resource and timing mismatches are among the most correctable inhibitors — they yield to coordination, financial engineering, and institutional design — but they are also among the most frequently overlooked.
+
+### 5.5 Epistemic Failures
+
+Finally, potentialities fail to actualize because they are incorrectly evaluated — estimated too high (leading to premature commitment and subsequent disappointment) or too low (leading to abandonment of real opportunities).
+
+Epistemic failures are the specific domain where Potentics can contribute most directly: by providing rigorous methods for estimating Π, by designing investigations that efficiently test estimates, and by calibrating learning across domains. The entire apparatus of Π_e — the epistemic metapotentiality — is a response to the systematic problem of epistemic failure.
 
 ---
 
-## 2. Formal Definitions
+## 6. The Primacy of the Real
 
-We begin by establishing working definitions for the core concepts of Potentics. These definitions are intended to be precise enough to generate testable predictions, while remaining open to revision as the framework develops.
+### 6.1 A Methodological Commitment
 
-### 2.1 Potential
+Potentics makes an explicit methodological commitment:
 
-**Definition 1 (Potential).** A *potential* Φ is a scalar field defined over a configuration space S such that a displacement ds along any path in S produces a free energy differential dF = −∇Φ · ds. Potentials are sources of gradients and therefore of directed transformation.
+> **A model of a potentiality is valid only if practice confirms it — and a practice is intelligible only if a model illuminates it.**
 
-This definition encompasses electrical potential (voltage), gravitational potential (Φ_g = gh), chemical potential (μ_i = ∂G/∂n_i at constant T, P), thermal potential (temperature T as the driver of heat flow), and — more tentatively — informational potential, interpreted as Shannon entropy H = −Σ p_i log p_i measuring the capacity for uncertainty reduction.
+This *primacy of the real* is neither pure empiricism (which would reject theoretical modeling) nor pure rationalism (which would accept models on logical grounds alone). It is a commitment to the continuous mutual constraint of theory and practice.
 
-### 2.2 Gradient
+This has consequences for how Potentic claims are validated. A potentiality estimate is not confirmed by logical coherence or by the sophistication of the model that generates it. It is confirmed by whether the predicted propensity to actualize matches what is observed when actualization is attempted — including, crucially, by whether designed failures reveal the mechanism of inhibition that the model predicted.
 
-**Definition 2 (Gradient).** A *gradient* G(Φ) = ∇Φ is the spatial or state-space derivative of a potential. It is the operational quantity driving flows, transformations, and work extraction.
+### 6.2 Against Model Reification
 
-No gradient implies no available work. The basic claim of Potentics is that civilization is the organized exploitation of gradients.
+A specific danger that the primacy of the real guards against is *model reification*: the confusion of a model of a potentiality with the potentiality itself.
 
-### 2.3 Exergy
+Model reification is endemic in planning, economics, and policy: a projected growth rate is treated as a fact; a cost-benefit ratio is treated as a justification rather than an estimate; a scenario becomes a prediction. In each case, the model has displaced the real potentiality it was meant to illuminate.
 
-**Definition 3 (Exergy).** The *exergy* Ξ of a system is the maximum useful work extractable as it reversibly reaches thermodynamic equilibrium with its environment at reference state (T₀, P₀):
+Potentics treats all estimates of Π — including its own — as working hypotheses, permanently subject to revision by contact with reality. The notation of "tentative hypothesis, to be tested" is not a rhetorical hedge: it is an expression of the discipline's core commitment.
 
-> Ξ = (U − U₀) + P₀(V − V₀) − T₀(S − S₀)
+### 6.3 The Productive Tension
 
-Unlike energy, exergy is destroyed — not conserved — by irreversibilities. It is therefore the appropriate measure of useful potential: it answers "how much work can this system still do?"
-
-### 2.4 Cognitive Exergy
-
-**Definition 4 (Cognitive Exergy).** *Cognitive exergy* Ξ_cog is the component of exergy consumed in processes that generate, store, or transmit structured information, adaptive models, or decision capacity.
-
-This connects to Landauer's (1961) result that the erasure of one bit of information dissipates a minimum of:
-
-> E_L = k_B T ln 2 ≈ 2.85 × 10⁻²¹ J at 300 K
-
-Real systems operate far above this bound — current CMOS dissipates approximately 10⁷ × E_L per logical operation. The gap between the Landauer floor and current engineering practice represents the irreversibility margin of contemporary cognitive infrastructure, and a potential domain for efficiency improvement.
-
-### 2.5 Compute eXergy Unit (CXU)
-
-**Definition 5 (CXU).** The *Compute eXergy Unit* is a composite metric for the exergy-efficiency of computational work:
-
-> CXU = E × η_hw × η_sys × η_sla
-
-where:
-- E is total electrical energy consumed (J or kWh)
-- η_hw ∈ [0,1] is hardware efficiency (PUE⁻¹ × compute utilization)
-- η_sys ∈ [0,1] is system-level efficiency (algorithmic efficiency, model sparsity)
-- η_sla ∈ [0,1] is service-level availability (uptime weighted by demand alignment)
-
-CXU operationalizes cognitive exergy at the data center scale. All three efficiency parameters require empirical determination for any specific deployment; the values used in Section 6 are working assumptions, not validated measurements.
-
-### 2.6 Cognitive Exergy Density (κ)
-
-**Definition 6 (κ).** The *Cognitive Exergy Density* of a territory A over a time window τ is:
-
-> κ(A, τ) = CXU(A, τ) / (area(A) × τ)     [W·m⁻²]
-
-This measures the spatial intensity of organized cognitive work per unit territory — analogous to power density in energy geography, but specifically tracking the cognitive component. κ is proposed as a candidate metric for comparing territorial configurations, not as a measure of cognitive quality or societal value.
+The primacy of the real does not mean that theory is subordinate to practice. It means they are in *productive tension*: theory shapes what to look for in practice; practice reveals what theory has missed. The ideal of Potentics is not the triumph of one over the other but their continuous mutual refinement — the cycle that Peirce called *abduction*, Dewey called *inquiry*, and working scientists and engineers call, more simply, learning.
 
 ---
 
-## 3. Thermodynamic and Information-Theoretic Foundations
+## 7. Fields of Application
 
-Having established definitions, we now present the theoretical foundations from which the four working hypotheses are derived. These hypotheses are explicitly labeled as tentative: they are intended to generate testable predictions, not to assert established facts.
+### 7.1 Where Potentics Applies
 
-### 3.1 Dissipative Structures and Organized Complexity
+Potentics applies wherever a potentiality is under-exploited — where the propensity of a real possible to actualize falls short of what conditions would permit, due to some combination of inhibitors identifiable by Potentic analysis.
 
-The second law requires that entropy dS ≥ 0 in isolated systems. Yet organized structures — from crystals to cells to cities — exhibit local reductions in entropy. The resolution: such structures are open systems that maintain internal order by exporting entropy to their environment.
+The practical priority is for domains where Π is at least partially *measurable* — where proxies for propensity, effort, and value exist, allowing the framework to generate testable estimates rather than qualitative stories.
 
-Prigogine and Stengers (1984) formalized this through dissipative structures: systems far from equilibrium can spontaneously develop and maintain organized states, provided they are driven by a continuous flux of exergy through them. For a system with internal entropy production σ_i ≥ 0:
+### 7.2 Domains with Favorable Measurement Conditions
 
-> dS/dt = σ_i + dS_e/dt
+**Energy and territory.** Renewable energy potentials are among the best-characterized potentialities: solar irradiance, wind speed, hydraulic gradient, and storage capacity are measurable with precision. The gap between physical potential and actualized capacity is documented, and inhibitors (regulatory, financial, institutional) are often identifiable. This is why the MareNostrum architecture — Mediterranean solar exergy transformed into sovereign AI compute — serves as an illustrative case: not because energy is the core of Potentics, but because it offers clean measurement and tractable inhibitor analysis.
 
-Organization requires dS/dt < 0, which necessitates dS_e/dt < −σ_i.
+**Biological and ecological systems.** Ecosystem resilience, species recovery potential, soil regeneration, and agricultural yield gaps are all potentialities with empirical measurement traditions. The inhibitors (land use, pollution, market structure) are often well-characterized.
 
-> **Tentative Hypothesis P1 (to be tested):** *Civilizational intelligence is best understood as a dissipative structure maintained by a sustained flux of exergy — primarily solar at geological scales — through geographic and institutional substrates. Disruption of this flux, if sustained, produces organizational collapse.*
->
-> *Testability:* Historical analysis of civilizational collapse episodes correlated with documented exergy supply disruptions (Tainter, 1988); comparative exergy accounting across contemporary states.
+**Markets and innovation.** Technology adoption curves, diffusion of innovations (Rogers, 1962), and market formation processes all represent potentiality trajectories. The gap between an innovation's technical potential and its actualized market presence is a canonical Potentic object.
 
-### 3.2 The Landauer Bound and Physical Computation
+**Urban and territorial development.** Unused land, vacant buildings, underutilized infrastructure, and depopulated territories all represent potentialities whose inhibitors (regulatory, financial, social) are accessible to analysis. The propensity to actualize can be partly measured through demographic and economic data.
 
-Shannon's (1948) theory of communication established that information H = −Σ p_i log₂ p_i measures uncertainty reduction precisely. Landauer (1961) and Bennett (1973) grounded this in thermodynamics: information is not merely mathematical — its acquisition, storage, and erasure have irreducible physical costs.
+### 7.3 Domains with Challenging Measurement
 
-Any physical intelligence requires a minimum exergy flux proportional to its information processing rate:
+**Institutional and governance potentialities.** The potential for institutional reform, cooperative governance, or policy innovation is real but harder to measure. Propensity can be estimated through historical analogies, stakeholder analysis, and political economy models — but with much wider uncertainty bands.
 
-> Ξ_min ≥ k_B T ln 2 × I_rate
+**Individual and collective human potential.** Education, health, and social mobility research has long attempted to measure unrealized human potential. Potentics can frame this tradition more explicitly around the inhibitor/accelerator structure, particularly the role of resistance to change in perpetuating under-actualization.
 
-where I_rate is the rate of irreversible logical operations per second. This bound is far below current engineering practice but establishes a theoretical floor.
-
-> **Tentative Hypothesis P2 (to be tested):** *There exists, for any given temperature and organizational scale, a minimum cognitive exergy density κ_min below which complex adaptive behavior cannot be sustained. Systems operating below κ_min degrade toward lower-complexity equilibria.*
->
-> *Testability:* Empirical determination of κ across functioning and collapsing complex systems; theoretical derivation from Landauer bound and organizational complexity estimates.
-
-### 3.3 Adaptive Systems and Free Energy Minimization
-
-Friston's free energy principle (2010) proposes that adaptive biological systems minimize variational free energy F:
-
-> F = E_q[log q(z) − log p(x, z)]
-
-where q(z) is the system's internal model and p(x, z) is the generative model of the environment. Minimizing F is equivalent to improving model accuracy while limiting model complexity — a form of bounded rationality with thermodynamic grounding.
-
-This framework may extend, with appropriate caution, beyond neuroscience: any system that maintains an internal model of its environment can tentatively be understood as minimizing surprise per unit of exergy consumed.
-
-> **Tentative Hypothesis P3 (to be tested):** *Civilizational resilience can be partially measured by the ratio of adaptive model quality to exergy consumed in maintaining it — a quantity we term cognitive exergetic efficiency (η_cog = I_useful / Ξ_consumed). Higher η_cog implies greater resilience per physical cost.*
->
-> *Testability:* Comparative institutional analysis; AI system benchmarking relative to compute consumed; historical case studies.
-
-> **Tentative Hypothesis P4 (to be tested):** *Optimal cognitive infrastructure networks exhibit scale-free degree distributions (for resilience to random failures), moderate local clustering (for redundancy), and algebraic connectivity λ₂ proportional to the criticality of their supported functions.*
->
-> *Testability:* Network analysis of existing infrastructure topologies (Internet, electrical grids, AI inference networks); stress-testing under simulated failure modes.
+**Ideas and paradigm shifts.** The history of science and technology is partly a history of potentialities that took decades to actualize — not for lack of technical feasibility, but because conceptual, institutional, and social inhibitors prevented earlier realization. Characterizing these inhibitors retrospectively can guide the identification of similar patterns in current unexplored territories.
 
 ---
 
-Having established the thermodynamic and information-theoretic foundations, we now examine how these principles manifest at the scale of physical potentials and their hierarchical coupling.
+## 8. Potentics as a Research Program
+
+### 8.1 Relationship to Predecessor Disciplines
+
+Potentics does not emerge from nowhere. Its most direct intellectual ancestor is cybernetics.
+
+Cybernetics (Wiener, 1948) was the first great attempt at a transdisciplinary science of systems: it unified the study of regulation, control, and communication across biological, mechanical, and social systems. Its central contribution was the concept of *feedback* — the mechanism by which systems use information about their outputs to regulate their inputs.
+
+Cybernetics asks: **how does a system regulate itself?**
+Potentics asks: **what could a system become, and how?**
+
+These are not competing questions. The second presupposes the first: understanding what a system could become requires understanding how it currently regulates itself. Potentics inherits from cybernetics the rigorous treatment of systems, feedback, and information — and extends it toward the question of actualization.
+
+| Discipline | Central question | Limitation for Potentics |
+|-----------|-----------------|--------------------------|
+| Cybernetics | How does a system regulate itself? | Concerned with existing systems, not their potentialities |
+| Complexity science | How do patterns emerge? | Describes emergence, does not guide its cultivation |
+| Probability theory | How likely is each outcome? | Binary sample space; does not model propensity gradients |
+| Decision theory | What is the optimal action given known possibilities? | Separates knowing from doing; assumes fixed possibility space |
+| Optimization | What is the best point in a known space? | Does not expand the space or identify invisible possibilities |
+| Real options theory | What is the value of an unexploited possibility? | Financial framing; does not address inhibitors or cultivation |
+| Strategic foresight | What futures are plausible? | Descriptive; does not generate Π estimates or inhibitor maps |
+| Innovation studies | Why do innovations diffuse slowly? | Domain-specific; no unified metric across heterogeneous potentialities |
+
+Potentics proposes to occupy the position left vacant by all of these: a rigorous, iterative, practically-grounded science of how the possible becomes real.
+
+### 8.2 Open Research Questions
+
+- Can Π be unified into a single comparable metric across heterogeneous domains?
+- What is the relationship between Π and established concepts (expected utility, propensity, exergy, free energy)?
+- How should Π_e be estimated in practice — what proxies are available for the value of investigation?
+- Is there a general theory of inhibitor interaction — how do multiple inhibitors compound or cancel?
+- Does resistance to change exhibit universal structural features across domains, or is it irreducibly domain-specific?
+- What learning rate characterizes different classes of potentialities, and what determines it?
+- Can Potentics be formalized mathematically without losing its commitment to the primacy of the real?
+
+### 8.3 Methodological Commitments
+
+Any Potentic investigation should:
+
+1. **Identify the potentiality precisely** — what possible state of affairs, currently unrealized, is under study?
+2. **Estimate Π with explicit assumptions** — what are the dimensions of the estimate, and how uncertain is each?
+3. **Evaluate Π_e before committing** — is the investigation itself worth making, and how should it be designed to maximize learning?
+4. **Map the inhibitors** — what is preventing actualization, and which inhibitors are addressable?
+5. **Design for failure** — structure the investigation so that non-actualization generates as much learning as actualization would.
+6. **Update and iterate** — revise estimates in light of results; do not treat initial estimates as more reliable than practice.
 
 ---
 
-## 4. Potentials, Gradients, and the Hierarchy of Organization
+## 9. Conclusion
 
-A potential is fundamentally a difference capable of producing transformation. Civilization emerges from the capture, storage, transformation, and coordination of such differences.
+Potentics begins from a simple observation: the possible is poorly served by existing scientific frameworks. Probability theory makes it binary. Optimization assumes it is fixed. Decision theory separates knowing from doing. Cybernetics — the most ambitious predecessor — studies what systems are, not what they could become.
 
-### 4.1 The Hierarchy of Potentials
+The proposal is correspondingly simple: treat the possible as a proper object of scientific inquiry, with its own concepts (potentiality as scalar quantity, Π as candidate unified metric, Π_e as epistemic metapotentiality), its own epistemology (trial and error as co-productive knowing and doing), and its own taxonomy of obstacles (inhibitors, with resistance to change as the archetype).
 
-Different potential types operate at characteristic scales and speeds, and critically, they couple: higher-order potentials depend structurally on lower-order ones.
+The philosophical foundation of this proposal is what the author calls *Possibilism* — the conviction that the rational exploration of what is potentially possible has intrinsic value, independent of whether the potentiality actualizes. Potentics is the attempt to give Possibilism the tools of a research program rather than merely a disposition. Whether it succeeds in being more than philosophy — in generating genuinely useful and empirically testable claims — is itself an open potentiality, appropriately subject to the discipline's own methods.
 
-| Potential Type | Timescale | Spatial Scale | Transformation Product |
-|---------------|-----------|---------------|----------------------|
-| Gravitational | Geological | Continental | Hydraulic exergy |
-| Solar thermal | Daily–seasonal | Regional | Thermal / electrical exergy |
-| Chemical (fossil) | Decadal | Global markets | Industrial exergy |
-| Electrical | Milliseconds | Grid | Mechanical / computational work |
-| Informational | Microseconds | Network | Decision, coordination |
-| Social / institutional | Decades | Political territory | Governance, norms |
-
-Social institutions presuppose informational infrastructure, which presupposes electrical infrastructure, which presupposes primary energy. Disruption at any lower level propagates upward.
-
-### 4.2 Gradient Coupling and Value Multiplication
-
-A central observation, preliminary and based on current market data, is that the value generated by a gradient can be multiplied when coupled to a higher-order transformation rather than dissipated at its natural level.
-
-Consider solar exergy on a typical Mediterranean island (order-of-magnitude estimates only; see Section 6 for full assumptions):
-
-| Transformation Path | Approx. value per MWh solar | Multiplier | Basis |
-|--------------------|----------------------------|------------|-------|
-| Wholesale electricity export | ~50 € | 1× | EU spot market, 2024 |
-| Hydrogen production | ~80–150 € | 1.6–3× | Current electrolyzer economics |
-| Standard GPU cloud compute | ~200–400 € | 4–8× | Current hyperscaler pricing |
-| AI inference (specialized) | ~250–1,000 € | 5–20× | Current LLM API pricing, declining rapidly |
-
-*These multipliers are illustrative and should be treated as order-of-magnitude estimates only, not as revenue projections. They are derived from current market prices, which are declining rapidly — particularly for AI inference. Infrastructure, operational, and capital costs are excluded from this table, and would substantially reduce net value. The structural argument (higher-order transformations tend to command higher value) is more robust than any specific price estimate.*
-
-The apparent value gradient from electricity to inference reflects the thermodynamic hierarchy: higher-order transformations require more organized infrastructure, which commands a premium — for now. This premium may compress as AI inference commoditizes. This is not a financial projection and does not account for capital costs.
-
-### 4.3 Potentials, Constraints, and Organizational Possibility
-
-Potentics does not claim that higher-value transformations are always optimal or achievable. Each step up the hierarchy requires additional infrastructure, institutional capacity, and governance — all of which consume resources and introduce failure modes. The hypothesis is simply that the hierarchy exists and that the possibility space of a territory is shaped by which potentials are accessible to it.
+The framework is explicitly incomplete. Π is not yet unified. The measurement of propensity across heterogeneous domains remains an unsolved problem. The relationship between Potentics and its predecessor traditions — real options theory, strategic foresight, innovation studies, cybernetics — requires further development. These are not objections to publishing a first formulation; they are the research agenda that a first formulation is supposed to open.
 
 ---
 
-## 5. From Energy to Intelligence
-
-### 5.1 The Incompleteness of Current Metrics
-
-Modern societies typically optimize energy systems according to production, efficiency, cost, or carbon emissions. These metrics are essential but incomplete.
-
-A civilization may consume large quantities of energy while producing little resilient intelligence. Conversely, relatively constrained systems may generate extraordinary adaptive capacity through organization, coordination, and knowledge preservation.
-
-This suggests that energy quantity alone is not the primary variable. Exergy quality — the capacity to perform directed work — is more relevant. But exergy, too, is insufficient when the question is the cognitive output of a system.
-
-### 5.2 Cognitive Exergetic Efficiency
-
-We define the cognitive exergetic efficiency η_cog of a system as:
-
-> η_cog = I_useful / Ξ_consumed
-
-where I_useful is the structured information produced (maintained complexity, or task-specific performance), and Ξ_consumed is total exergy consumed. How I_useful should be measured remains an open problem — this is a conceptual proposal, not an operational formula.
-
-Contemporary AI systems illustrate both the challenge and the opportunity: inference queries consuming 10⁻³ kWh may produce responses of significant informational value, but model training consumed 10⁶× more exergy for a proportionally smaller marginal gain in capability. Improving η_cog is a research priority.
-
-### 5.3 The Emergy Tradition
-
-Odum (1988) proposed *transformity* as a measure of the solar energy required, directly and indirectly, to produce one unit of a resource. High-transformity resources (information, organization) embody large prior energy flows. The *emergy* tradition provides a useful precedent for Potentics: it grounds value hierarchies in thermodynamic work. Potentics extends this intuition to explicitly include AI infrastructure as a thermodynamically grounded process, subject to the same accounting discipline.
-
----
-
-## 6. Reference Scenario: Corsica and the MareNostrum Architecture
-
-*This section presents a reference scenario to illustrate the order of magnitude of Cognitive Exergy Density achievable under favorable conditions. It is not a prediction, a project proposal, or a financial analysis. All parameter values are working assumptions.*
-
-### 6.1 Context
-
-The MareNostrum architecture is a proposed framework for transforming Mediterranean solar abundance into distributed sovereign AI compute infrastructure, grounded in the Potentics framework. Corsica (8,680 km², population ~340,000) is used as the primary reference territory.
-
-**Corsica's potential portfolio (physical basis):**
-
-| Potential Type | Quantity | Notes |
-|---------------|----------|-------|
-| Annual solar irradiance | ~14.7 TWh/yr (potential) | 8,680 km² × 1,700 kWh/m² (DNI) |
-| Agrivoltaic potential | ~10.8 GWp | 30,000 ha abandoned vineyards × 360 Wp/m² |
-| Net electricity (agrivoltaic) | ~16 TWh/yr | Bifacial E-W panels, estimated 25% losses |
-| STEP storage potential | ~2–5 GWh | Based on existing hydraulic infrastructure |
-| Current AI compute capacity | ~0 GW | No sovereign AI infrastructure present |
-| Peak export capacity | 600 MW | SARCO interconnection to mainland France |
-
-### 6.2 The Value Multiplication Argument
-
-Under the current configuration, surplus solar energy would be exported via SARCO at wholesale electricity prices. The MareNostrum hypothesis is that converting this exergy into sovereign AI compute tokens would yield significantly higher social and economic value — based on the coupling hierarchy described in Section 4.2.
-
-*Caveat: The value estimates in Section 4.2 reflect current market conditions. AI inference prices have been declining rapidly. The structural argument (higher-order transformations command higher value) is more robust than any specific price estimate.*
-
-### 6.3 The SARCO Bottleneck as Structural Incentive
-
-A counterintuitive feature: the limited capacity of the SARCO interconnection (600 MW peak, frequently constrained) functions as a structural incentive for local exergy transformation. A territory fully connected to a continental grid faces competitive pressure to export commodity electricity. An island constrained by interconnection capacity has a natural incentive to transform energy locally into higher-value forms.
-
-This is an instance of a broader principle: infrastructural constraints shape organizational possibilities. The SARCO limit is not merely a problem to be solved by a larger cable — it is a structural feature that may incentivize the development of sovereign cognitive infrastructure.
-
-### 6.4 Reference Computation of κ
-
-> **Key Assumptions for κ Calculation**
->
-> | Parameter | Value | Justification / Status |
-> |-----------|-------|------------------------|
-> | Installed agrivoltaic capacity | 3 GWp (first phase) | Assumed, not committed |
-> | Effective continuous compute load | 500 MW | Assumed after storage smoothing |
-> | Territory | 8,680 km² | Corsica total area |
-> | η_hw (hardware efficiency) | 0.70 | Typical modern data center PUE ~1.3–1.4 |
-> | η_sys (system efficiency) | 0.60 | Estimated for mixed workloads |
-> | η_sla (service availability) | 0.85 | Assumed with storage backup |
-> | All efficiency values | Working assumptions | Require empirical validation |
-
-Under these assumptions:
-
-> CXU = 500 × 10⁶ W × 0.70 × 0.60 × 0.85 ≈ 179 MW_effective
-
-> κ = 179 × 10⁶ W / (8.68 × 10⁷ m²) ≈ **2.06 W·m⁻²**
-
-For reference: incident solar power averages ~200 W·m⁻² in Corsica. A κ of ~2 W·m⁻² would represent approximately 1% of incident solar power converted to organized compute. This is the combined result of solar panel efficiency (~20%), land coverage (~15% of territory), power conversion and storage losses, and the three efficiency parameters above. The overall solar-to-compute conversion efficiency of ~1% is ambitious — it sits at the high end of efficiencies observed in productive natural ecosystems (C3 photosynthesis: ~0.5–2%) — and assumes all favorable conditions are simultaneously achieved. *Meaningful benchmarks require data from existing compute-dense territories, which we have not yet compiled. This scenario is intended to illustrate the upper bound of what the Potentics framework suggests is physically plausible under favorable conditions, not what is likely or planned.*
-
-### 6.5 Governance Implications (Exploratory — see Appendix A)
-
-The MareNostrum scenario generates institutional questions that exceed the scope of this paper. Three exploratory directions are noted: cooperative exergy accounting across Mediterranean territories (a possible analog to the 1951 CECA for energy commons); municipal participation structures enabling local revenue from compute infrastructure; and the AI compute token as a potential unit of account for regional sovereignty agreements.
-
-These are questions generated by the Potentics framework, not policy proposals. They are developed separately in Appendix A for readers interested in the institutional dimension; they are not necessary to evaluate the scientific content of Sections 2–8.
-
----
-
-Having grounded the framework in a concrete scenario, we now return to the more general question of organizational structure across scales.
-
----
-
-## 7. Fractal Organization Across Scales
-
-### 7.1 Recursive Structures in Complex Systems
-
-Many organized systems exhibit recurring multi-scale patterns: local storage supporting larger networks; distributed redundancy increasing resilience; hierarchical coordination emerging from decentralized interactions; packetized circulation of matter, energy, or information.
-
-These patterns appear in biological systems (vascular trees, neural networks), ecological systems (river basins), infrastructure systems (electrical grids, the Internet), and political systems (federations). Potentics does not claim these systems are identical. It asks whether similar organizational constraints repeatedly emerge whenever distributed potentials must be stabilized and coordinated under physical limits.
-
-### 7.2 Network Science Formalization
-
-Let G = (V, E) be a network where V is the set of nodes (storage or computation units) and E the set of edges (transmission links). Relevant structural metrics include:
-
-- **Degree distribution** P(k): scale-free networks (P(k) ~ k^{−γ}) are robust to random failures but vulnerable to targeted attack.
-- **Clustering coefficient** C_i: measures local interconnection density, correlating with resilience to targeted removal.
-- **Betweenness centrality** g(v): identifies bottleneck nodes whose removal most severely disrupts network flows.
-- **Algebraic connectivity** λ₂(L): the second smallest eigenvalue of the graph Laplacian. λ₂ = 0 implies disconnection; higher values imply greater network robustness.
-
-These metrics, well-established in network science, provide an existing mathematical toolkit that Potentics can adopt without modification.
-
-### 7.3 The Packetization Principle
-
-A convergence is observable across organized systems: they tend to transmit resources in discrete packets rather than continuous flows. Electrical grids use AC cycles; the Internet uses IP packets; capital markets use discrete transactions; neural systems use action potentials; AI inference systems use tokens.
-
-This packetization may reflect a deep organizational principle: discrete units allow error correction, prioritization, routing, and flow control that continuous flows cannot support. Potentics tentatively conjectures that the tokenization of AI inference and the proposed tokenization of compute-backed energy units are instances of this general pattern — but this conjecture is speculative and is noted as such.
-
----
-
-## 8. A Candidate Measurement Framework
-
-### 8.1 The Problem of Measuring Civilizational Intelligence
-
-Current aggregate measures are inadequate for Potentics purposes:
-
-| Existing metric | Limitation for Potentics |
-|-----------------|--------------------------|
-| GDP | Measures economic throughput, not knowledge quality or organizational resilience |
-| HDI | Captures wellbeing proxies, not adaptive capacity |
-| Patent counts | Measures documented novelty, not implemented intelligence |
-| Network connectivity | Measures infrastructure reach, not cognitive output |
-
-Potentics requires metrics that bridge physical infrastructure and cognitive output. The following are candidate metrics — first approximations requiring empirical development.
-
-### 8.2 Candidate Metrics
-
-**Cognitive Exergy Density (κ)** — defined in Section 2.6 [W·m⁻²]:
-
-> κ(A, τ) = CXU(A, τ) / (area(A) × τ)
-
-Measures spatial intensity of organized computation per territory. Useful for territorial comparison.
-
-**Exergetic Intelligence Ratio (EIR)**:
-
-> EIR = I_retained / Ξ_consumed
-
-where I_retained is structured information (models, knowledge, coordination capacity) maintained per unit time. How to measure I_retained is an open research problem; EIR is conceptually useful before it is operationally precise.
-
-**Resilience Depth (RD)**:
-
-> RD = τ_autonomous × κ_mean
-
-where τ_autonomous is the maximum duration of full cognitive function under external supply interruption. RD measures temporal resilience relative to operating level.
-
-**Gradient Coupling Efficiency (GCE)**:
-
-> GCE = Ξ_cognitive / Ξ_primary
-
-the fraction of primary exergy (e.g., solar irradiance on a territory) ultimately converted to cognitive exergy. Current systems achieve GCE ≈ 10⁻⁴ to 10⁻³. Improving GCE is a core engineering challenge.
-
-### 8.3 Measurement Challenges
-
-Operationalizing these metrics requires: standardized exergy accounting at infrastructure scale; information-theoretic measures of organizational output; territorial data at appropriate spatial resolution; and temporal alignment between intermittent energy supply and variable cognitive demand. These requirements are themselves a research agenda.
-
----
-
-## 9. Potentics as a Research Program
-
-Potentics is not proposed as a completed theory. It is proposed as an open research direction.
-
-### 9.1 Working Hypotheses: Summary
-
-| Hypothesis | Statement | Testability | Priority |
-|-----------|-----------|-------------|----------|
-| P1 | Civilizational intelligence is a dissipative structure maintained by exergy flux | Historical analysis, comparative exergy accounting | Medium |
-| P2 | A minimum κ_min exists below which complex adaptation fails | Empirical survey across territories and epochs | High |
-| P3 | Civilizational resilience is measurable as η_cog | Institutional benchmarking, AI efficiency studies | High |
-| P4 | Optimal cognitive networks exhibit scale-free topology with λ₂ ∝ criticality | Network analysis of real infrastructure | Medium |
-
-### 9.2 Open Research Questions
-
-- Can resilient intelligence production be measured relative to available exergy?
-- Does a universal κ_min exist, or is it scale- and technology-dependent?
-- Do certain geographic configurations structurally favor distributed cognitive infrastructure?
-- How should renewable intermittency and distributed AI inference be co-optimized temporally?
-- What governance forms maximize long-term organizational resilience per exergy unit?
-- Is there a meaningful relationship between Friston's free energy minimization and exergy minimization at civilizational scale?
-- Which network topologies best preserve adaptive capacity under cascading failure?
-
-### 9.3 Relationship to Existing Fields
-
-Potentics does not claim novelty in any single discipline. Its proposed contribution is integration:
-
-| Field | Contribution to Potentics | Limitation addressed |
-|-------|--------------------------|---------------------|
-| Thermodynamics | Exergy, entropy, dissipative structures | Does not address territorial or cognitive specifics |
-| Information theory | Shannon entropy, Landauer bound | Largely a-physical in applications |
-| Network science | Topology, robustness, algebraic connectivity | Does not model energy flows jointly with information flows |
-| Emergy analysis (Odum) | Transformity, solar basis of value | Not extended to AI computation |
-| Free energy principle (Friston) | Adaptive model minimization | Not extended to territorial infrastructure |
-| Energy geography | Spatial analysis of energy systems | Does not model cognitive outputs |
-
-### 9.4 Methodological Approaches
-
-Potential methods include: thermodynamic modeling (exergy analysis, entropy accounting); network science (graph theory, spectral methods, robustness analysis); complexity science (criticality, phase transitions); cybernetics (feedback systems, viable system model); infrastructure studies; distributed systems engineering; AI systems analysis; and political economy.
-
----
-
-## 10. Conclusion
-
-The renewable era may be forcing civilization to rediscover a fundamental reality: intelligence is physical.
-
-Thought depends on infrastructure. Infrastructure depends on energy. Energy depends on gradients. Gradients depend on cosmic, geological, biological, and social conditions. The Landauer bound tells us that no intelligence — artificial or biological — is exempt from thermodynamic law. Prigogine tells us that organized complexity requires continuous exergy throughput. Friston tells us that adaptive systems are fundamentally about model maintenance — and model maintenance has a physical cost.
-
-Potentics proposes that these relationships should no longer be studied in isolation. It is an attempt to reconnect exergy, geography, computation, infrastructure, governance, and intelligence within a common framework centered on the organization of distributed potentials.
-
-The formal apparatus proposed here — Cognitive Exergy Density κ, the Compute eXergy Unit CXU, Exergetic Intelligence Ratio EIR, and the four working hypotheses P1–P4 — is explicitly preliminary. The metrics require empirical validation. The hypotheses require testing against real systems. The governance implications require institutional analysis well beyond what a single paper can provide.
-
----
-
-> **Potentics is proposed as an open research program, not a completed theory. The metrics and hypotheses presented here are first approximations. Their value will be determined by whether they prove useful for guiding infrastructure decisions and generating testable predictions. Empirical tests, critiques, and extensions from any discipline are invited. The Mediterranean island of Corsica may serve as one living laboratory among others — but it is neither the only one, nor a predetermined success.**
+> **Potentics is proposed as an open research program. All definitions, metrics, and hypotheses are first approximations, subject to revision by contact with practice. Empirical tests, critiques, and extensions from any discipline are invited. The framework will be validated — or not — by whether it proves useful for guiding the rational exploration of real possibilities.**
 
 ---
 
 ## Acknowledgments
 
-This paper was developed iteratively using what the author terms the *Seconde méthode* — a practice of systematic critical review in which successive drafts are submitted to independent AI reasoning systems for structured evaluation prior to human revision. Specifically, Anthropic's Claude (Sonnet 4.6) contributed to the development and structuring of the expanded draft, and xAI's Grok provided two rounds of critical review, including a quantified "Bullshit Meter" assessment that guided successive rounds of hedging, caveat placement, and sectional reorganization. The governance content was relocated to an appendix and the value multipliers revised downward as a direct result of this process.
+This paper was developed using the *Seconde méthode* — a practice of systematic critical review in which drafts are submitted to independent AI reasoning systems prior to human revision. Anthropic's Claude (Sonnet 4.6) contributed to the structuring and formulation of successive drafts; xAI's Grok provided critical evaluation of earlier versions focused on the MareNostrum architecture, identifying the gap between the disciplinary ambition of Potentics and its thermodynamic instantiation that motivated the present reframing. The author remains solely responsible for all scientific claims.
 
-The author remains solely responsible for all scientific claims, hypotheses, and errors. The AI contributions were editorial and critical, not generative of the underlying scientific content.
+The conceptual roots of Potentics extend further back: in the author's ongoing development of the philosophy of Possibilism, and in the broader intellectual tradition of cybernetics, which first demonstrated that a rigorous transdisciplinary science of systems was possible.
+
+---
 
 ## References
 
-Acemoglu, D., & Robinson, J. A. (2012). *Why Nations Fail: The Origins of Power, Prosperity, and Poverty*. Crown Publishers.
+Aristotle. *Metaphysics*, Book Θ (On Potentiality and Actuality). Trans. W. D. Ross. Oxford: Clarendon Press.
 
-Bennett, C. H. (1973). Logical reversibility of computation. *IBM Journal of Research and Development*, 17(6), 525–532.
+Christensen, C. M. (1997). *The Innovator's Dilemma*. Harvard Business Review Press.
 
-Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W. W. Norton.
+Dewey, J. (1938). *Logic: The Theory of Inquiry*. Henry Holt.
 
-Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
+Dixit, A. K., & Pindyck, R. S. (1994). *Investment under Uncertainty*. Princeton University Press.
 
-Georgescu-Roegen, N. (1971). *The Entropy Law and the Economic Process*. Harvard University Press.
+Holland, J. H. (1992). *Adaptation in Natural and Artificial Systems*. MIT Press.
 
-IEA (2024). *Electricity 2024: Analysis and Forecast to 2026*. International Energy Agency, Paris.
+Peirce, C. S. (1878). How to make our ideas clear. *Popular Science Monthly*, 12, 286–302.
 
-Landauer, R. (1961). Irreversibility and heat generation in the computing process. *IBM Journal of Research and Development*, 5(3), 183–191.
+Popper, K. R. (1990). *A World of Propensities*. Thoemmes.
 
-Odum, H. T. (1988). Self-organization, transformity, and information. *Science*, 242(4882), 1132–1139.
-
-Patterson, D., Gonzalez, J., Le, Q., Liang, C., Munguia, L.-M., Rothchild, D., & Dean, J. (2021). Carbon considerations for large language model training under different constraints. *arXiv preprint arXiv:2104.10350*.
-
-Prigogine, I., & Stengers, I. (1984). *Order Out of Chaos: Man's New Dialogue with Nature*. Bantam Books.
-
-Robert, J. H. (2025). *Cahier des Charges: Safe Compute Exergy (SCE) — Compute eXergy Unit (CXU)*. Institut Mariani, Corte. [github.com/JeanHuguesRobert/marenostrum]
-
-Schrödinger, E. (1944). *What is Life? The Physical Aspect of the Living Cell*. Cambridge University Press.
-
-Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423.
+Rogers, E. M. (1962). *Diffusion of Innovations*. Free Press.
 
 Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482.
 
 Tainter, J. A. (1988). *The Collapse of Complex Societies*. Cambridge University Press.
 
+Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+
+Robert, J. H. (2026). What is Potentics? Toward a science of organized potentials. Institut Mariani / C.O.R.S.I.C.A. [earlier version, superseded by the present paper]
+
 ---
 
-*Released under CC BY-SA 4.0. Comments and contributions: jhr@baronsmariani.org | github.com/JeanHuguesRobert/marenostrum*
-
----
-
-## Appendix A: Exploratory Governance Hypotheses (MareNostrum)
-
-*This appendix is not part of the core scientific argument. It records institutional questions generated by applying the Potentics framework to the Corsica reference scenario. None of the proposals below has been validated, costed, or formally proposed to any institution.*
-
-**A.1 Mediterranean Solar Commons.** If solar radiation is treated as a territorial commons — analogous to maritime commons under UNCLOS — cooperative exergy accounting protocols could enable fair-use and revenue-sharing agreements among Mediterranean island territories (Corsica, Sardinia, Sicily, Cyprus, Malta). The 1951 CECA provides a historical precedent for sectoral resource pooling across sovereign states.
-
-**A.2 Municipal Participation Structures.** A three-tier institutional structure is tentatively proposed: (i) a SCIC SA as operational core, with impartible reserves constituting a sovereign fund; (ii) a Fonds de Dotation for distributing compute revenue to participating municipalities; (iii) an OFS/BRS mechanism for perpetual affordable housing tied to infrastructure revenue. This structure would need to be tested against French cooperative law and EU state-aid rules before implementation.
-
-**A.3 The Compute Token as Unit of Account.** The AI compute token — a unit of scheduled inference capacity — may serve as a non-fiat store of value for territorial sovereignty agreements in a distributed AI economy, in a role analogous to gold in Bretton Woods-era monetary systems. This is a speculative institutional analogy, not a monetary proposal.
-
-*These three directions are included because the Potentics framework, if valid, implies institutional consequences — and intellectual honesty requires making those implications explicit even when they are speculative. They should not be read as advocacy.*
+*Released under CC BY-SA 4.0. Comments and contributions: jhr@baronsmariani.org | github.com/JeanHuguesRobert/barons-Mariani*
