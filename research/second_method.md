@@ -279,13 +279,16 @@ that satisfies all three simultaneously —
 verifiable personhood, privacy preservation,
 and architectural impossibility of circumvention.
 This is a research problem. We name it explicitly.
-The `DHITL.md` document in the `marenostrum` repository
-formalizes the five-layer architecture that frames this problem:
-[`marenostrum/DHITL.md` — Layers 4 and 5](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md).
-Layer 4 is the certified inference layer — open to agents, auditable.
-Layer 5 is democratic deliberation — reserved for living persons,
-requiring verified human signatures in the causal chain.
-The boundary between them is where [Rule 0](#rule-0) lives.
+The [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) document in the `marenostrum` repository
+formalizes the five-layer architecture that frames this problem.
+Layer 3 is democratic governance — reserved for living persons
+under one-person-one-vote, the invariant of the framework.
+Layer 4 is the cognitive infrastructure layer — open to AI agents
+(personal digital twins, Cogentia) with the explicit constraint that
+no twin may vote, hold a mandate, or act as a legal agent.
+The boundary between Layer 3 and Layer 4 — the boundary that prevents
+sovereign authority from migrating from living persons to their instruments —
+is where [Rule 0](#rule-0) lives.
 It is documented. It is not yet fully implemented. Both facts are on the record.
 
 What this means in practice today: any deployment of the second method

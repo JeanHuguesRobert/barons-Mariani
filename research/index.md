@@ -1,5 +1,11 @@
 # Research Index — barons-Mariani
 
+## Foundation
+
+This repository hosts [`research/second_method.md`](second_method.md) — the **methodological doctrine** ("Discours de la seconde méthode") by which the AI Safety anti-capture proposal develops. The architectural axiom lives in [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md). This repository also hosts the philosophical critiques and historical analyses that ground the method (Tocqueville Law, Invidia, Uchronian museology, mimetic constraints).
+
+---
+
 *A map of what is, what is in progress, and what could be.*
 *See sibling indexes in [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md), [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md), [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md).*
 
@@ -10,7 +16,7 @@
 | Title | Location | Date |
 |---|---|---|
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
-| [Indirect Action Under Mimetic Constraints](../indirect_action.md) | this repo | 2026 |
+| [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 
 ---
