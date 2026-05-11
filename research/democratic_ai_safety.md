@@ -3,7 +3,7 @@ title: "Democratic AI Safety"
 description: "Why AI Safety must protect human sovereignty against AI-augmented legal persons"
 layout: default
 nav_order: 7
-version: "draft-0.3"
+version: "draft-0.4"
 last_modified_at: 2026-05-11
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -20,7 +20,7 @@ method: "Second Method compatible draft"
 Institut Mariani / C.O.R.S.I.C.A.  
 Corte, Corsica, France
 
-*Working paper — May 2026 — draft v0.3*
+*Working paper — May 2026 — draft v0.4*
 
 ---
 
@@ -30,21 +30,23 @@ This text is a working paper and a thesis kernel. It does not claim final proof.
 
 The purpose is not to close debate, but to make the debate more navigable.
 
+This draft reduces internal jargon, adds contemporary signals, and engages more directly with existing AI Safety and AI governance frameworks. It does not argue that technical AI Safety is wrong. It argues that technical AI Safety is **layer-incomplete** if it lacks an explicit theory of AI-augmented institutional agency.
+
 ---
 
 ## Abstract
 
-Current AI Safety frameworks primarily focus on technical alignment, model evaluations, frontier capability thresholds, misuse risks, and deployment governance. These approaches are necessary, but incomplete. They tend to underemphasize a political pathway of AI risk: artificial intelligence may not first become sovereign by itself; it may instead amplify existing non-human legal persons — corporations, platforms, funds, bureaucracies, and other institutions — into de facto sovereign actors.
+Current AI Safety frameworks primarily focus on technical alignment, model evaluations, frontier capability thresholds, misuse risks, human oversight, and deployment governance. These approaches are necessary, but incomplete. They tend to underemphasize a political pathway of AI risk: artificial intelligence may not first become sovereign by itself; it may instead amplify existing non-human legal persons — corporations, platforms, funds, bureaucracies, and other institutions — into de facto sovereign actors.
 
-The corporation is the legal precedent. It is already a non-human person capable of owning property, contracting, litigating, lobbying, accumulating capital, and outliving natural persons. AI may add speed, persuasion, optimization, surveillance, legal automation, synthetic media, and agentic execution. The resulting danger is not merely “unsafe AI”, but AI-augmented corporate agency.
+The corporation is the legal precedent. It is already a non-human person capable of owning property, contracting, litigating, lobbying, accumulating capital, and outliving natural persons. AI may add speed, persuasion, optimization, surveillance, legal automation, synthetic media, and agentic execution. The resulting danger is not merely “unsafe AI”, but **AI-augmented corporate agency**.
 
-This paper argues that democratic AI Safety must therefore address the risk of human political obsolescence. The relevant existential question is not only whether machines may replace humans physically, but whether humans may cease to be the effective subjects of collective decision-making.
+This paper argues that democratic AI Safety must therefore address the risk of **human political obsolescence**. The relevant existential question is not only whether machines may replace humans physically, but whether humans may cease to be the effective subjects of collective decision-making.
 
 The refusal of patent offices and courts to recognize AI systems as inventors provides an unintended but useful principle: AI may assist, but legally opposable knowledge still requires human responsibility. If this is true for private patents, it should be considered at least relevant for public knowledge, democratic deliberation, and the Commons.
 
 DHITL — Democratic Human-in-the-Loop — is proposed as a political extension of human oversight. AI may assist citizens, deliberation, memory, critique, and public reasoning. It must not transform non-human legal or digital persons into members of the demos.
 
-Cogentia Commons and PrivAI are proposed as complementary institutional responses: Cogentia Commons preserves accountable public knowledge; PrivAI protects private cognitive sovereignty. Together, they aim to ensure that AI accelerates human collective intelligence without making human citizens politically obsolete.
+Cogentia Commons and PrivAI are proposed as minimal institutional responses: Cogentia Commons preserves accountable public knowledge; PrivAI protects private cognitive sovereignty. Together, they aim to ensure that AI accelerates human collective intelligence without making human citizens politically obsolete.
 
 ---
 
@@ -176,13 +178,15 @@ Dominant AI Safety approaches can be grouped into several families:
 
 These approaches are necessary.
 
-OpenAI's Preparedness Framework focuses on measuring and mitigating severe harm from frontier AI capabilities. Public AI safety institutes and government evaluation programs increasingly test frontier systems before release, including for cyber, biological, and national security risks.
+OpenAI's Preparedness Framework focuses on measuring and mitigating severe harm from frontier AI capabilities. Anthropic's Responsible Scaling Policy is a voluntary framework for managing catastrophic risks from advanced AI systems. Public AI safety institutes and government evaluation programs increasingly test frontier systems before release, including for cyber, biological, and national security risks.
 
 European regulation also emphasizes human oversight. Article 14 of the EU AI Act states that high-risk AI systems must be designed and developed so they can be effectively overseen by natural persons during use, with the aim of preventing or minimizing risks to health, safety, and fundamental rights.
 
-This is valuable, but still insufficient.
+The NIST AI Risk Management Framework organizes risk management around govern, map, measure, and manage functions for AI risks to individuals, organizations, and society.
 
-The dominant paradigm generally asks:
+These frameworks are valuable.
+
+But they generally ask:
 
 > How do we control AI systems?
 
@@ -194,7 +198,87 @@ That is a different question.
 
 ---
 
-## 4. The Legal Person as Precedent
+## 4. Where Existing Frameworks Fall Short
+
+This paper does not claim that existing AI Safety frameworks are wrong. It claims that they are incomplete at the political-agency layer.
+
+| Framework | What it addresses | What remains under-addressed |
+|---|---|---|
+| EU AI Act | Risk classification, high-risk obligations, human oversight, transparency, enforcement duties. | Whether AI-augmented legal persons become de facto political actors. |
+| NIST AI RMF | Organizational AI risk management through govern, map, measure, and manage functions. | Whether the organization itself becomes too powerful when AI-augmented. |
+| Frontier preparedness frameworks | Severe harm risks from model capabilities such as cyber, bio, persuasion, autonomy, or misuse. | Whether safe models can still amplify undemocratic legal persons. |
+| Corporate Responsible AI | Internal accountability, safety processes, model governance, user protection. | Whether corporate alignment can conflict with democratic alignment. |
+| Human oversight rules | Natural-person monitoring, intervention, and risk reduction. | Whether the human is a democratic actor or a subordinate agent of a legal person. |
+
+The missing layer is not technical.
+
+It is constitutional.
+
+A technically controlled AI system may still be politically unsafe if it is controlled by a non-democratic institution whose interests diverge from the demos.
+
+---
+
+## 5. Contemporary Signals of AI-Augmented Institutional Power
+
+This section does not claim to prove human political obsolescence. It identifies contemporary signals that make the risk plausible and worth studying.
+
+### 5.1 AI industry lobbying and political spending
+
+AI companies and large technology firms are increasingly active in policy influence. Public reporting has documented rising lobbying expenditures by OpenAI, Anthropic, and other major AI-related firms, as well as the emergence of AI-related political action efforts.
+
+This matters because AI firms are not only building technical systems. They are also shaping the legal environment in which those systems will be governed.
+
+**Signal:** AI governance is already a field of organized institutional influence, not only a technical field.
+
+---
+
+### 5.2 Pressure to weaken or simplify AI regulation
+
+In May 2026, Reuters reported that CEOs from major European technology companies — including ASML, Airbus, Ericsson, Mistral AI, Nokia, SAP, and Siemens — called for EU AI regulations to be reduced and simplified. The appeal came as the EU prepared to resume talks on AI Act implementation and a broader Tech Sovereignty Package.
+
+This does not prove malign intent. Industrial actors may have legitimate concerns about fragmentation, competitiveness, and administrative burden.
+
+But it illustrates the structural issue: major firms are organized, resourced, and positioned to shape the regulatory terrain.
+
+**Signal:** AI-affected legal persons act collectively to influence AI governance.
+
+---
+
+### 5.3 Big Tech influence over AI standards
+
+Civil-society and transparency organizations have warned that major technology firms have significant influence over AI standards and implementation processes in Europe, including standards related to the AI Act.
+
+Such reports should be read critically, especially when produced by advocacy organizations. But they are relevant as warning signals: standard-setting is a technical process with political consequences.
+
+**Signal:** technical standards may become a site where corporate agency shapes democratic constraints.
+
+---
+
+### 5.4 Platform control over AI access
+
+In 2026, Meta contested potential EU measures requiring it to allow rival AI chatbots access to WhatsApp. The case illustrates a broader issue: dominant platforms may control the channels through which AI agents reach users, businesses, and public discourse.
+
+Whether Meta's position is legally justified is not the point here.
+
+The relevant signal is that platform control and AI agent distribution are converging.
+
+**Signal:** whoever controls communication infrastructure may also control AI-mediated agency.
+
+---
+
+### 5.5 Cloud partnerships and sovereignty concerns
+
+Microsoft's partnership with Mistral AI drew EU scrutiny in 2024 because it raised questions about concentration of power, cloud dependency, and the relationship between European AI sovereignty and American infrastructure.
+
+Again, this does not prove capture. Partnerships may be commercially rational and technically useful.
+
+But it illustrates a recurring structural tension: AI sovereignty may depend on infrastructure controlled by legal persons whose strategic interests are not identical to those of the public.
+
+**Signal:** AI sovereignty is not only about models; it is also about legal persons controlling infrastructure.
+
+---
+
+## 6. The Legal Person as Precedent
 
 The corporation, association, foundation, fund, and similar entities are legal fictions. They are not human beings, yet they can own property, contract, litigate, employ people, lobby governments, accumulate capital, and persist beyond the lifespan of any natural person.
 
@@ -220,7 +304,7 @@ This ambiguity becomes more dangerous if legal persons are augmented by AI.
 
 ---
 
-## 5. AI-Augmented Legal Persons
+## 7. AI-Augmented Legal Persons
 
 AI does not need to become a sovereign subject in order to transform politics.
 
@@ -254,7 +338,7 @@ The danger is that corporations, platforms, and other legal persons become machi
 
 ---
 
-## 6. Human Political Obsolescence
+## 8. Human Political Obsolescence
 
 The classical existential-risk narrative often imagines AI systems physically eliminating or replacing humans.
 
@@ -289,7 +373,7 @@ This is the core democratic AI Safety concern.
 
 ---
 
-## 7. Human Inventorship as an Unintended Democratic Precedent
+## 9. Human Inventorship as an Unintended Democratic Precedent
 
 Patent law provides an important clue.
 
@@ -317,7 +401,7 @@ This does not prove DHITL. But it strengthens its plausibility.
 
 ---
 
-## 8. Digital Personhood as the Escape Route
+## 10. Digital Personhood as the Escape Route
 
 If legal systems continue to require human inventors and human responsibility, a predictable pressure may emerge: the creation of a new category of legal personhood for AI systems.
 
@@ -355,7 +439,7 @@ A digital person must never become a citizen.
 
 ---
 
-## 9. Democratic Human-in-the-Loop
+## 11. Democratic Human-in-the-Loop
 
 Human-in-the-loop is often treated as an operational safeguard: a human supervisor checks, approves, interrupts, or overrides an AI system.
 
@@ -401,99 +485,63 @@ but AI must not turn non-human legal persons into de facto sovereign actors.
 
 ---
 
-## 10. Cogentia Commons: Public Knowledge Under Human Accountability
+## 12. Minimal Institutional Protocols
 
-Cogentia Commons is proposed as one institutional response to democratic AI Safety.
+The institutional proposals in this paper are intentionally minimal. They are not final blueprints.
 
-It is not merely a publication platform.
+### 12.1 Cogentia Commons minimal protocol
 
-It is a human-gated, stigmergic infrastructure for public reasoning.
+Cogentia Commons is a public knowledge infrastructure. Its minimal protocol is:
 
-Its function is to preserve and organize:
+1. a human identity;
+2. a typed contribution;
+3. a target node or declared thesis kernel;
+4. a source trace;
+5. an objection pathway;
+6. a revision pathway;
+7. documented failure as epistemic gain;
+8. no autonomous AI authority;
+9. public export and forkability.
 
-- claims;
-- premises;
-- objections;
-- revisions;
-- supports;
-- continuations;
-- documented failures;
-- forks;
-- citations;
-- and publications.
+The goal is not to automate truth. The goal is to make public reasoning more traceable, criticizable, revisable, and accountable.
 
-AI may assist at every stage, but does not govern the system.
+### 12.2 PrivAI minimal protocol
 
-The model proposes:
+PrivAI is a privacy-first protection layer for personal cognitive data. Its minimal protocol is:
 
-> Agents generate gradients. Humans commit traces.
+1. private cognitive profiles remain private;
+2. public disclosure occurs only through scoped projections;
+3. projections are purpose-specific;
+4. projections are revocable;
+5. full private cognitive memory is never required by the Commons;
+6. AI-use disclosure can occur without exposing private conversations;
+7. the user remains the authority over their own cognitive self-description.
 
-This distinction is essential.
+The goal is not to expose the contributor. The goal is to make contributions interpretable without cognitive surveillance.
 
-A language model can generate plausible formulations, objections, summaries, analogies, or revisions. But plausibility is not public validity.
+### 12.3 Democratic AI Safety protocol
 
-Cogentia Commons converts AI-assisted plausibility into human-accountable traces.
+A democratic AI Safety system should ensure that:
 
-A claim becomes public only when a human accepts responsibility for submitting it.
-
-An objection becomes useful only when attached to a target.
-
-A revision becomes meaningful only when it responds to a traceable issue.
-
-A publication becomes stable only when versioned and open to future critique.
-
-This is a public counterpart to the human-inventor requirement in patent law.
-
-If the private patent system requires a human inventor, the public knowledge system requires human contributors.
-
----
-
-## 11. PrivAI: Protecting the Private Cognitive Person
-
-Cogentia Commons protects the public cognitive terrain.
-
-PrivAI protects the private cognitive person.
-
-AI-assisted reasoning produces sensitive cognitive artifacts:
-
-- personal reasoning patterns;
-- values;
-- doubts;
-- preferences;
-- decision thresholds;
-- research habits;
-- KYS profiles;
-- private conversations with agents;
-- strategic intuitions;
-- and partial identities.
-
-These cannot be treated as raw platform data.
-
-PrivAI is proposed as a non-profit guardian of cognitive privacy, KYS projection, and personal AI alignment.
-
-The principle is:
-
-> Privacy first means projection, not exposure.
-
-The Commons does not need the full private cognitive profile of a contributor. It may only need a purpose-specific projection, such as a KYS Research Cogentigram, describing epistemic posture, AI-use disclosure, method commitments, and research-relevant reasoning preferences.
-
-This projection is not a truth certificate.
-
-It is a context certificate.
-
-It helps make contributions interpretable without exposing the person.
+1. AI systems assist humans;
+2. humans remain accountable;
+3. legal persons do not become de facto sovereign actors;
+4. digital persons never become members of the demos;
+5. public knowledge remains criticizable;
+6. private cognition remains protected;
+7. technical alignment remains subordinate to democratic legitimacy.
 
 ---
 
-## 12. Context of Contribution Disclosure
+## 13. Context of Contribution Disclosure
 
 Traditional conflict-of-interest disclosure asks:
 
 > What external interests may bias this contributor?
 
-Cogentia extends this into a broader question:
+This paper proposes a broader but privacy-preserving extension:
 
-> What cognitive, institutional, financial, methodological, or agentic conditions may shape how this contributor reasons?
+> What financial, institutional, methodological, or agentic conditions may shape how this contributor reasons?
 
 This is not an argument for surveillance.
 
@@ -506,13 +554,13 @@ A contributor may disclose:
 - prior authorship;
 - AI assistance;
 - methodological posture;
-- certified Research Cogentigram projection;
+- certified research profile projection;
 - declared values;
 - and relevant limitations.
 
 But the system must not require:
 
-- full KYS exposure;
+- full private cognitive profile exposure;
 - private biography;
 - family history;
 - health data;
@@ -523,19 +571,15 @@ The doctrine is:
 
 > maximum interpretability, minimum exposure.
 
-Cogentia does not ask contributors to expose themselves.
-
-It asks them to make their contributions interpretable.
-
 ---
 
-## 13. Second Method Compliance
+## 14. Method Compliance
 
 Cogentia should not claim to measure truth directly.
 
 It can, however, measure whether a contribution was produced according to a rigorous method.
 
-Second Method Compliance is a process-quality vector.
+Method Compliance is a process-quality vector.
 
 It may evaluate whether a contribution is:
 
@@ -557,13 +601,13 @@ A contribution that is traceable, criticizable, revisable, and accountable gives
 
 This also answers the AI-proliferation problem.
 
-Cogentia should not maximize publication volume.
+Public knowledge systems should not maximize publication volume.
 
-It should maximize accountable epistemic trace quality.
+They should maximize accountable epistemic trace quality.
 
 ---
 
-## 14. Against AI-Driven Publication Inflation
+## 15. Against AI-Driven Publication Inflation
 
 The current market for AI research tools largely helps researchers publish inside the existing academic system.
 
@@ -592,7 +636,7 @@ Filtering, objection, refutation, duplicate detection, and documented failure mu
 
 ---
 
-## 15. Private Research and Public Commons
+## 16. Private Research and Public Commons
 
 The same underlying method may serve two opposite knowledge regimes.
 
@@ -634,7 +678,7 @@ The Commons must survive the company.
 
 ---
 
-## 16. Objections and Replies
+## 17. Objections and Replies
 
 ### Objection 1 — “This is not AI Safety; it is political philosophy.”
 
@@ -642,43 +686,49 @@ The Commons must survive the company.
 
 ---
 
-### Objection 2 — “Corporations are already regulated.”
+### Objection 2 — “Technical AI Safety is not incomplete; it operates at another layer.”
+
+**Reply.** Correct. This paper does not argue that technical AI Safety is wrong. It argues that it is layer-incomplete. A technically controlled model may still be politically dangerous if it amplifies non-democratic legal persons into de facto sovereign actors.
+
+---
+
+### Objection 3 — “Corporations are already regulated.”
 
 **Reply.** They are regulated, but not necessarily at the speed, scale, and strategic capacity enabled by AI. The argument is not that legal persons are unregulated. It is that AI may create a capability gap between AI-augmented legal persons and democratic institutions.
 
 ---
 
-### Objection 3 — “AI can also empower citizens.”
+### Objection 4 — “AI can also empower citizens.”
 
 **Reply.** Correct. This is why the paper does not reject AI. DHITL, Cogentia Commons, and PrivAI are proposed precisely to make AI strengthen citizens, public reasoning, and collective memory rather than only corporate agency.
 
 ---
 
-### Objection 4 — “Digital personhood is speculative.”
+### Objection 5 — “Digital personhood is speculative.”
 
 **Reply.** Yes. It is treated here as a plausible escape route, not as an established fact. The claim is preventive: if digital personhood is proposed, political exclusion from the demos must be explicit from the beginning.
 
 ---
 
-### Objection 5 — “Human-in-the-loop can be symbolic or ineffective.”
+### Objection 6 — “Human-in-the-loop can be symbolic or ineffective.”
 
 **Reply.** Correct. This is why the paper distinguishes ordinary human oversight from Democratic Human-in-the-Loop. A subordinated human clicking approval inside a corporate process is not the same thing as accountable democratic human contribution.
 
 ---
 
-### Objection 6 — “The Commons may also be captured.”
+### Objection 7 — “The Commons may also be captured.”
 
-**Reply.** Correct. This is why Cogentia Commons must include anti-capture design: open protocols, exportability, forkability, Second Method Compliance, Kudos separated from money, and independent foundation stewardship.
+**Reply.** Correct. This is why Cogentia Commons must include anti-capture design: open protocols, exportability, forkability, method compliance, reputation separated from money, and independent foundation stewardship.
 
 ---
 
-### Objection 7 — “This framework may slow down innovation.”
+### Objection 8 — “This framework may slow down innovation.”
 
 **Reply.** It may slow down some public claims, but that is intentional. Private workflows may remain fast and abundant. Public Commons workflows should be slower because they generate accountable public traces. The aim is not maximum speed, but navigability.
 
 ---
 
-## 17. What Would Weaken This Argument?
+## 18. What Would Weaken This Argument?
 
 This argument would be weakened if:
 
@@ -692,24 +742,23 @@ This argument would be weakened if:
 
 ---
 
-## 18. Research Program
+## 19. Research Program
 
 This working paper opens several research questions:
 
 1. How can AI-augmented legal-person agency be measured?
 2. What indicators reveal human political obsolescence before it becomes irreversible?
-3. Can Second Method Compliance improve filtering of AI-assisted public knowledge?
-4. Can Cogentia Commons reduce AI-generated publication noise?
+3. Can method-compliance indicators improve filtering of AI-assisted public knowledge?
+4. Can public trace systems reduce AI-generated publication noise?
 5. What legal boundary should separate digital legal personality from political personhood?
 6. What governance structure can keep a Commons independent from its commercial layer?
-7. How can PrivAI-certified projections improve trust without exposing private cognition?
+7. How can privacy-preserving projections improve trust without cognitive surveillance?
 8. What empirical cases show AI amplifying corporate political agency?
 9. What institutional designs can make AI empower citizens more than legal persons?
 
 ---
----
 
-## 19. Continuation Clause
+## 20. Continuation Clause
 
 This paper is not intended as a closed doctrine.
 
@@ -717,11 +766,7 @@ It is a resumable thesis kernel.
 
 In Cogentia terms, a continuation is a suspended cognitive state preserving enough context for future resumption. It records what remains unresolved, what evidence is needed, who may resume the inquiry, and under which conditions the argument should be revised, forked, weakened, or strengthened.
 
-This paper therefore declares the following continuation conditions.
-
-### 19.1 Open continuations
-
-The argument should be resumed when:
+This paper should be resumed when:
 
 - new legal decisions address AI inventorship, digital personhood, or electronic personhood;
 - a jurisdiction proposes or adopts a formal status for AI systems as legal persons;
@@ -730,20 +775,6 @@ The argument should be resumed when:
 - Cogentia Commons, PrivAI, or comparable infrastructures produce measurable results in public knowledge governance;
 - major corporations deploy AI agents in ways that substantially alter lobbying, lawmaking, regulation, persuasion, or institutional capture;
 - democratic institutions adopt AI-assisted deliberation systems with explicit human-sovereignty safeguards.
-
-### 19.2 Required future work
-
-Future revisions should attempt to:
-
-1. define measurable indicators of human political obsolescence;
-2. distinguish corporate, bureaucratic, state, and platform forms of AI-augmented legal-person agency;
-3. compare DHITL with existing AI Safety governance frameworks;
-4. formalize the boundary between legal personality and political personhood;
-5. specify how Cogentia Commons could operationalize democratic human contribution;
-6. clarify how PrivAI-certified projections could support trust without cognitive surveillance;
-7. document empirical cases where AI strengthens citizens rather than legal persons.
-
-### 19.3 Resumption rule
 
 The next revision should not merely add rhetorical force. It should improve at least one of the following:
 
@@ -755,18 +786,13 @@ The next revision should not merely add rhetorical force. It should improve at l
 - objection handling;
 - or operational applicability.
 
-If none of these improves, the continuation should remain suspended.
-
-### 19.4 Fork condition
-
 If future evidence shows that the main risk is not AI-augmented legal persons but another dominant pathway to human political obsolescence, the paper should be forked rather than artificially preserved.
-
-The purpose of this continuation is to keep the argument alive without freezing it into doctrine.
 
 To delay well, one must be able to resume well.
 
+---
 
-## 20. No Digital Persons in the Demos
+## 21. No Digital Persons in the Demos
 
 The political boundary must be explicit.
 
@@ -796,7 +822,7 @@ This is the hard line of Democratic AI Safety.
 
 ---
 
-## 21. Conclusion: Democratic AI Safety
+## 22. Conclusion: Democratic AI Safety
 
 AI Safety cannot be reduced to technical alignment.
 
@@ -834,13 +860,18 @@ It is constitutional.
 
 ## References and Source Notes
 
+- Anthropic. *Responsible Scaling Policy, Version 3.0* (2026). Voluntary framework for managing catastrophic risks from advanced AI systems.
+- Corporate Europe Observatory. *EU under heavy Big Tech pressure to weaken rules on advanced AI* (2025). Advocacy report on Big Tech influence over AI Act implementation and standards.
 - European Parliament and Council. *Regulation (EU) 2024/1689 — Artificial Intelligence Act*, Article 14 on human oversight. Article 14 states that high-risk AI systems must be designed to allow effective human oversight to prevent or minimize risks to health, safety, and fundamental rights.
 - European Patent Office, Boards of Appeal. *J 0008/20 — Designation of inventor/DABUS*. The Board held that a machine is not an inventor within the meaning of the European Patent Convention.
 - European Patent Office, Boards of Appeal. *T 0528/25 — Designation of inventor/DABUS*. Appeal dismissed; subsequent DABUS-related decision maintaining the human-inventor framework.
-- United States Patent and Trademark Office. *Revised Inventorship Guidance for AI-Assisted Inventions* (2025). The USPTO states that AI systems are tools used by human inventors and do not qualify as inventors.
-- OpenAI. *Preparedness Framework Version 2* (2025). Frontier AI severe harm risk management framework.
 - NIST. *AI Risk Management Framework*. Framework for managing AI risks to individuals, organizations, and society.
-- OECD. *AI Principles*. Principles for trustworthy AI respecting human rights and democratic values.
+- OpenAI. *Preparedness Framework Version 2* (2025). Frontier AI severe harm risk management framework.
+- Reuters. *Microsoft's deal with Mistral AI faces EU scrutiny* (2024).
+- Reuters. *Top European tech CEOs call for easier AI rules* (2026).
+- Reuters. *Meta seeks to fend off EU order to allow rival AI chatbots on WhatsApp at hearing* (2026).
+- The Guardian. *AI industry pours millions into politics* (2025).
+- United States Patent and Trademark Office. *Revised Inventorship Guidance for AI-Assisted Inventions* (2025). The USPTO states that AI systems are tools used by human inventors and do not qualify as inventors.
 - Jean Hugues Noël Robert. *DHITL — Democratic Humans in the Loop*. Working paper.
 - Jean Hugues Noël Robert. *Cogentia Commons MVP Specification*. Working specification.
 - Jean Hugues Noël Robert. *Cogentia Workflows*. Working paper.
@@ -851,6 +882,8 @@ It is constitutional.
 ## Working Formulas
 
 > Democratic AI Safety means preventing AI from making humans politically obsolete.
+
+> Technical AI Safety is not wrong. It is layer-incomplete without political agency analysis.
 
 > If human inventorship is required for private AI-assisted knowledge, human contribution is required for public AI-assisted knowledge.
 
@@ -864,5 +897,5 @@ It is constitutional.
 
 ---
 
-*Draft v0.3 — Corte, 2026-05-11*  
+*Draft v0.4 — Corte, 2026-05-11*  
 *Institut Mariani — C.O.R.S.I.C.A.*
