@@ -10,6 +10,26 @@ jhr@baronsmariani.org
 
 ---
 
+## Short Version
+
+This paper proposes that complex strategy should not be understood as the execution of a fixed plan, but as adaptive navigation through dynamic cognitive terrains.
+
+A cognitive terrain is the moving topology of perceived opportunities, risks, incentives, narratives, legitimacy gradients, inhibitors, and traces that shapes what agents believe can actually be done.
+
+The framework is situated within *Potentics*, the proposed science of potentialities. Potentics distinguishes between a **possibility**, which is binary, and a **potentiality**, which is scalar: the propensity of a possible state to actualize under given conditions, effort, and inhibitors.
+
+The central mechanism proposed here is **stigmergy**. Agents explore the terrain and leave traces. Successes reinforce possible paths. Failures reveal blocked paths, hidden inhibitors, timing errors, or misread potentialities. Documented failure is therefore not waste: it is a terrain update.
+
+The paper also introduces the **Optimal Delay Principle**: commitment should be delayed until the expected informational gain from further exploration becomes lower than the expected cost of continued delay. This preserves optionality without confusing delay with passivity.
+
+A major obstacle to actualization is **mimetic resistance**: rivalry, status preservation, institutional gatekeeping, envy, and resistance to reclassification. In such environments, direct confrontation often strengthens the blockage.
+
+The proposed strategy is **mimetic desynchronization**: indirect terrain reconfiguration through delayed visibility, interpretive buffering, reversibility, external validation, tangential signaling, and distributed experimentation.
+
+The goal is not to impose a plan, but to increase the probability that real potentialities become actualized by reading, testing, and reshaping the terrain in which they must emerge.
+
+---
+
 ## Note to the Reader
 
 This paper intentionally adopts a partially performative structure. Its organization reflects several of the mechanisms it describes: delayed exposition, triangulation of perspectives, and progressive terrain reconfirmation.
@@ -22,23 +42,20 @@ The reader is invited to focus primarily on the operational usefulness and coher
 
 ## Abstract
 
-This paper proposes a stigmergic cognitive-terrain framework for adaptive exploration in complex environments characterized by uncertainty, incomplete information, institutional inertia, mimetic rivalry, and dynamic reconfiguration.
+This paper proposes a stigmergic cognitive-terrain framework for adaptive exploration under uncertainty and mimetic resistance. It extends *Potentics* — the proposed science of potentialities — by examining how agents may navigate the moving terrains in which possibilities become more or less likely to actualize.
 
-It is positioned as an operational extension of *Potentics*, understood as the rational exploration of the possible and the study of potentialities as graded propensities of possible states to actualize. Within this broader framework, the present paper examines how agents may navigate, cultivate, and actualize potentialities when the terrain itself is unstable, socially contested, and partially hostile.
+A cognitive terrain is defined as the dynamic topology of perceived opportunities, risks, narratives, legitimacy gradients, inhibitors, and traces shaping action. In such terrains, strategy cannot be reduced to the execution of a fixed plan. It requires continuous terrain reconfirmation.
 
-Rather than treating strategy as the execution of a fixed plan over a stable map, the paper models action as navigation through dynamic cognitive terrains: evolving topologies of perceived opportunities, risks, narratives, constraints, incentives, and social gradients.
+The paper identifies stigmergy as the core mechanism of this process. Agents explore, leave traces, learn from success and failure, and progressively update the terrain. Documented failure is treated not as waste, but as epistemic yield: it reveals inhibitors, timing errors, false assumptions, or blocked paths.
 
-The core mechanism is stigmergy. Traces left by prior actions — including both successes and failures — modify future gradients and enable distributed exploration without requiring centralized command. This contrasts with many institutional knowledge systems, including academic ones, which tend to preserve successful results while under-documenting failed explorations, dead ends, and inhibited potentialities.
+The paper further introduces the Optimal Delay Principle, according to which commitment should be delayed until the expected informational gain from further exploration falls below the cost of continued delay. It also analyzes mimetic inhibitors — rivalry, status preservation, institutional gatekeeping, envy, and resistance to reclassification — as major obstacles to actualization.
 
-The paper further introduces the Optimal Delay Principle: commitment should be delayed until the expected marginal informational gain from further exploration becomes lower than the expected cost of continued delay. This principle is linked to real options theory, agile development, active inference, and adaptive navigation.
+Finally, it proposes mimetic desynchronization as an indirect strategy for terrain reconfiguration through delayed visibility, interpretive buffering, reversibility, external validation, tangential signaling, and distributed experimentation.
 
-Finally, the paper identifies mimetic inhibitors — rivalry, envy, status preservation, institutional gatekeeping, and resistance to reclassification — as major obstacles to the actualization of potentialities. Under such conditions, direct confrontation often reinforces resistance. Mimetic desynchronization is therefore proposed as a strategy of indirect terrain reconfiguration through delayed visibility, interpretive buffering, reversibility, tangential signaling, pre-legitimation, and distributed experimentation.
-
-The framework applies to startup strategy, territorial development, distributed infrastructures, adaptive governance, and AI-assisted exploration systems.
-
+Applications include startup strategy, territorial development, distributed infrastructure, governance, and AI-assisted exploration systems.
 ---
 
-## 1. Introduction  
+## Introduction  
 ### Complexity and the Failure of Static Plans
 
 Modern societies increasingly operate under conditions of radical complexity:
@@ -79,7 +96,37 @@ Its purpose is to describe how agents can explore and actualize potentialities w
 
 ---
 
-## 2. Potentics as the General Framework
+## Potentics as the General Framework
+
+### Conceptual Flow
+
+```mermaid
+flowchart TD
+    A[Possibility<br/>Binary: conceivable or not] --> B[Potentiality Pi<br/>Scalar propensity to actualize]
+
+    B --> C[Cognitive Terrain<br/>Dynamic topology of opportunities, risks,<br/>narratives, incentives, inhibitors and traces]
+
+    C --> D[Stigmergic Exploration<br/>Agents probe the terrain and leave traces]
+
+    D --> E{Trace Type}
+
+    E --> F[Success Trace<br/>Reinforces a path]
+    E --> G[Failure Trace<br/>Reveals an inhibitor or blocked path]
+
+    F --> H[Terrain Reconfirmation<br/>Update Pi and terrain model]
+    G --> H
+
+    H --> I{Commit or Delay?}
+
+    I -->|Information gain still valuable| J[Optimal Delay<br/>Continue exploration while preserving optionality]
+    I -->|Delay cost exceeds information gain| K[Commitment / Actualization Attempt]
+
+    J --> D
+    K --> L{Outcome}
+
+    L -->|Actualization| M[Potentiality Partially or Fully Actualized]
+    L -->|Failure| G
+```
 
 This paper builds on *Potentics*, defined as the rational exploration of the possible.
 
@@ -122,7 +169,37 @@ This paper asks:
 
 ---
 
-## 3. The Return of Planning in the Age of Complexity
+## Contributions
+
+This paper makes four main contributions.
+
+First, it introduces the concept of **cognitive terrain** as a dynamic topology of perceived opportunities, risks, legitimacy gradients, narratives, inhibitors, and traces shaping the actualization of potentialities.
+
+Second, it proposes **stigmergy** as the core mechanism through which agents explore such terrains, preserve useful failures, and progressively reconfirm what can actually be done.
+
+Third, it identifies **mimetic inhibitors** — rivalry, status preservation, institutional gatekeeping, and resistance to reclassification — as central forces preventing the actualization of valuable potentialities.
+
+Fourth, it proposes **mimetic desynchronization** as a strategy of indirect terrain reconfiguration, allowing agents to reduce resistance without triggering premature defensive reactions.
+
+Together, these contributions extend Potentics from a general science of potentialities toward an operational theory of adaptive navigation under uncertainty.
+
+---
+
+## Terminology
+
+This paper uses several terms in a specific sense.
+
+- **Possibility**: a conceivable state of affairs.
+- **Potentiality**: the scalar propensity of a possibility to actualize under given conditions, effort, and inhibitors.
+- **Cognitive terrain**: the dynamic topology of perceived opportunities, risks, narratives, legitimacy gradients, constraints, and traces shaping action.
+- **Trace**: any persistent mark left by action that modifies future navigation, including documented failures.
+- **Terrain reconfirmation**: the continuous updating of the perceived terrain through signals, traces, experiments, and feedback.
+- **Mimetic inhibitor**: a social force that blocks actualization because the potentiality threatens status, rivalry structures, or inherited classifications.
+- **Mimetic desynchronization**: indirect terrain reconfiguration designed to reduce resistance without triggering premature defensive reactions.
+
+---
+
+## The Return of Planning in the Age of Complexity
 
 The twentieth century appeared to discredit centralized planning. The collapse of Soviet-style command economies exposed the structural limits of systems attempting to replace distributed adaptation with centralized computation.
 
@@ -153,7 +230,7 @@ The problem is not planning as such. The problem is treating a plan as if it wer
 
 ---
 
-## 4. Cognitive Terrain  
+## Cognitive Terrain  
 ### From Maps to Waves
 
 A cognitive terrain is defined here as:
@@ -201,7 +278,7 @@ Thus strategy becomes recursive:
 
 ---
 
-## 5. Stigmergy as the Core Mechanism  
+## Stigmergy as the Core Mechanism  
 ### Distributed Memory of Successes and Failures
 
 The central operational mechanism of the framework is **stigmergy**.
@@ -245,7 +322,7 @@ It allows agents to learn from the terrain without requiring a complete central 
 
 ---
 
-## 6. The Epistemic Value of Failure
+## The Epistemic Value of Failure
 
 A major weakness of many formal knowledge systems is that they preserve success more effectively than failure.
 
@@ -286,7 +363,7 @@ This is why adaptive systems should not merely celebrate success. They should en
 
 ---
 
-## 7. The Optimal Delay Principle  
+## The Optimal Delay Principle  
 ### Acting at the Last Responsible Moment
 
 In moving terrains, premature commitment can be destructive.
@@ -337,8 +414,36 @@ This distinction matters. A possibility may be structurally strong, yet blocked 
 
 ---
 
-## 8. Mimetic Inhibitors  
+## Mimetic Inhibitors  
 ### When Potentialities Threaten Local Equilibria
+
+```mermaid
+flowchart TD
+    A[Potentiality Π] --> B[Actualization Path]
+
+    B --> C{Inhibitors}
+
+    C --> D[Visibility Failure<br/>The potentiality is not seen]
+    C --> E[Coordination Failure<br/>Actors cannot synchronize commitment]
+    C --> F[Timing Mismatch<br/>The window is not ready]
+    C --> G[Resource Mismatch<br/>Resources exist but are misaligned]
+    C --> H[Epistemic Failure<br/>Π is overestimated or underestimated]
+    C --> I[Mimetic Resistance<br/>Actualization threatens status equilibria]
+
+    D --> J[Blocked Possible]
+    E --> J
+    F --> J
+    G --> J
+    H --> J
+    I --> J
+
+    J --> K[Potentic Inquiry<br/>Map inhibitors and update Π]
+
+    K --> L{Intervention Type}
+
+    L --> M[Direct Action<br/>If resistance is low]
+    L --> N[Mimetic Desynchronization<br/>If resistance is high]
+```
 
 Many potentialities fail not because they lack value, but because their actualization threatens existing equilibria.
 
@@ -381,8 +486,33 @@ It may be a defective topology of cooperation.
 
 ---
 
-## 9. Mimetic Desynchronization  
+## Mimetic Desynchronization  
 ### Indirect Reconfiguration of Hostile Terrains
+
+```mermaid
+flowchart LR
+    A[High Mimetic Resistance] --> B[Direct Confrontation]
+    B --> C[Defensive Reaction<br/>Delegitimation, delay, ridicule,<br/>gatekeeping, coalition defense]
+
+    A --> D[Mimetic Desynchronization]
+
+    D --> E[Delayed Visibility]
+    D --> F[Interpretive Buffering]
+    D --> G[Reversibility]
+    D --> H[External Validation]
+    D --> I[Tangential Signaling]
+    D --> J[Distributed Experimentation]
+
+    E --> K[Terrain Reconfiguration]
+    F --> K
+    G --> K
+    H --> K
+    I --> K
+    J --> K
+
+    K --> L[Reduced Inhibitor Density]
+    L --> M[Higher Actualization Propensity Π]
+```
 
 When terrain resistance is high, direct confrontation often fails.
 
@@ -410,27 +540,27 @@ This paper calls this strategy **mimetic desynchronization**.
 
 It includes several tactics:
 
-### 9.1 Delayed visibility
+### Delayed visibility
 
 Do not reveal the full strategic pattern before the terrain is ready to interpret it productively.
 
-### 9.2 Interpretive buffering
+### Interpretive buffering
 
 Present a project under a low-threat interpretation until its practical value becomes visible.
 
-### 9.3 Reversibility
+### Reversibility
 
 Design actions so that they appear experimental, low-risk, and reversible.
 
-### 9.4 Institutional pre-legitimation
+### Institutional pre-legitimation
 
 Seek recognition from external or higher-level structures before confronting local gatekeepers.
 
-### 9.5 Tangential signaling
+### Tangential signaling
 
 Avoid frontal attacks on dominant narratives; introduce alternative gradients indirectly.
 
-### 9.6 Distributed experimentation
+### Distributed experimentation
 
 Multiply small probes instead of concentrating all effort into one visible decisive confrontation.
 
@@ -442,7 +572,7 @@ In hydrodynamic terms:
 
 ---
 
-## 10. External Validation as Terrain Displacement
+## External Validation as Terrain Displacement
 
 In dense local systems, proximity can inhibit recognition.
 
@@ -484,7 +614,7 @@ Thus, in Potentic terms:
 
 ---
 
-## 11. Triangulation  
+## Triangulation  
 ### Four Perspectives on the Same Terrain
 
 The framework is deliberately triangulated.
@@ -514,7 +644,7 @@ Together, they form a framework for:
 
 ---
 
-## 12. Startup Strategy  
+## Startup Strategy  
 ### Terrain Reading as Competitive Advantage
 
 Startups operate in uncertain terrains.
@@ -557,7 +687,7 @@ This must be handled carefully. A narrative detached from reality becomes hype. 
 
 ---
 
-## 13. Governance and Territorial Development  
+## Governance and Territorial Development  
 ### From Immobilism to Cooperative Gradients
 
 Territorial development often fails despite the existence of resources, competencies, and opportunities.
@@ -613,7 +743,7 @@ In stigmergic terms:
 
 ---
 
-## 14. Distributed Infrastructure and Energy Systems
+## Distributed Infrastructure and Energy Systems
 
 Distributed infrastructures are natural domains for this framework.
 
@@ -655,7 +785,7 @@ Here again, the issue is not merely technical feasibility. It is actualization u
 
 ---
 
-## 15. AI-Assisted Exploration Systems
+## AI-Assisted Exploration Systems
 
 AI systems may become powerful tools for cognitive-terrain navigation.
 
@@ -698,11 +828,11 @@ Not a sovereign planner, but a tool for augmenting adaptive exploration.
 
 ---
 
-## 16. Toward Metrics
+## Toward Metrics
 
 The framework remains exploratory, but several candidate metrics can be proposed.
 
-### 16.1 Terrain Reconfirmation Capacity — TRC
+### Terrain Reconfirmation Capacity — TRC
 
 The capacity of a system to update its representation of the terrain through new signals, traces, and feedback.
 
@@ -714,27 +844,27 @@ High TRC implies:
 - memory of failures;
 - willingness to revise maps.
 
-### 16.2 Exploratory Diversity — ED
+### Exploratory Diversity — ED
 
 The diversity of active probes, hypotheses, pathways, and experimental attempts.
 
 High ED prevents premature convergence.
 
-### 16.3 Reversibility — R
+### Reversibility — R
 
 The degree to which actions can be undone or redirected without catastrophic cost.
 
 High reversibility increases the rationality of experimentation.
 
-### 16.4 Topological Guidance — TG
+### Topological Guidance — TG
 
 The capacity to modify gradients indirectly, making desirable trajectories easier without coercive control.
 
-### 16.5 Potentiality — Π
+### Potentiality — Π
 
 The estimated propensity of a possibility to actualize under given conditions and effort.
 
-### 16.6 Epistemic Metapotentiality — Πₑ
+### Epistemic Metapotentiality — Πₑ
 
 The value of investigating whether Π is real and of the hoped-for magnitude.
 
@@ -742,7 +872,7 @@ These metrics are not yet formalized. They are proposed as scaffolding for futur
 
 ---
 
-## 17. Performative Validation
+## Performative Validation
 
 This text partially performs what it describes.
 
@@ -773,7 +903,7 @@ then it has begun to generate the kind of utility it claims to describe.
 
 ---
 
-## 18. Conclusion
+## Conclusion
 
 The contemporary return of planning reflects a real need: the need for orientation under complexity.
 
@@ -799,7 +929,27 @@ Its validity will depend on whether it proves useful in real terrains: startups,
 
 ---
 
-## 19. Continuation
+## Limits
+
+The framework proposed here is exploratory.
+
+It does not claim that all strategy can be reduced to stigmergy, nor that hydrodynamic metaphors provide scientific proof. The framework is intended as a navigational model: useful if it improves orientation, inhibitor detection, and adaptive exploration in complex terrains.
+
+Several limits remain.
+
+First, the proposed metrics are not yet operationally formalized.
+
+Second, mimetic inhibitors are difficult to measure and may be over-attributed if the framework is applied carelessly.
+
+Third, external validation may reconfigure a terrain, but it can also be ignored, resisted, or reinterpreted by the local system.
+
+Fourth, delayed commitment is useful only if delay is actively used for exploration. Delay without exploration is avoidance.
+
+Finally, the framework must remain subject to the primacy of the real: it should be judged by whether it helps actual agents navigate actual terrains more effectively.
+
+---
+
+## Continuation
 
 Several directions remain open.
 
@@ -865,7 +1015,7 @@ Ostrom, E. (1990). *Governing the Commons*. Cambridge University Press.
 
 Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
 
-Robert, J. H. N. (2026). *What is Potentics? Toward a Science of the Possible*. Institut Mariani / C.O.R.S.I.C.A.
+Robert, J. H. N. (2026). *What is Potentics? Toward a Science of the Possible*. Institut Mariani / C.O.R.S.I.C.A. Preprint, May 2026. [GitHub](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics.md).
 
 Scott, J. C. (1998). *Seeing Like a State*. Yale University Press.
 
