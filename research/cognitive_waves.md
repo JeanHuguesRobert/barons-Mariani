@@ -53,6 +53,7 @@ The paper further introduces the Optimal Delay Principle, according to which com
 Finally, it proposes mimetic desynchronization as an indirect strategy for terrain reconfiguration through delayed visibility, interpretive buffering, reversibility, external validation, tangential signaling, and distributed experimentation.
 
 Applications include startup strategy, territorial development, distributed infrastructure, governance, and AI-assisted exploration systems.
+
 ---
 
 ## Introduction  
@@ -94,6 +95,37 @@ The paper proposes such a framework under the name:
 
 Its purpose is to describe how agents can explore and actualize potentialities when the relevant terrain is uncertain, moving, contested, and resistant.
 
+
+---
+
+## Contributions
+
+This paper makes four main contributions.
+
+First, it introduces the concept of **cognitive terrain** as a dynamic topology of perceived opportunities, risks, legitimacy gradients, narratives, inhibitors, and traces shaping the actualization of potentialities.
+
+Second, it proposes **stigmergy** as the core mechanism through which agents explore such terrains, preserve useful failures, and progressively reconfirm what can actually be done.
+
+Third, it identifies **mimetic inhibitors** — rivalry, status preservation, institutional gatekeeping, and resistance to reclassification — as central forces preventing the actualization of valuable potentialities.
+
+Fourth, it proposes **mimetic desynchronization** as a strategy of indirect terrain reconfiguration, allowing agents to reduce resistance without triggering premature defensive reactions.
+
+Together, these contributions extend Potentics from a general science of potentialities toward an operational theory of adaptive navigation under uncertainty.
+
+---
+
+## Terminology
+
+This paper uses several terms in a specific sense.
+
+- **Possibility**: a conceivable state of affairs.
+- **Potentiality**: the scalar propensity of a possibility to actualize under given conditions, effort, and inhibitors.
+- **Cognitive terrain**: the dynamic topology of perceived opportunities, risks, narratives, legitimacy gradients, constraints, and traces shaping action.
+- **Trace**: any persistent mark left by action that modifies future navigation, including documented failures.
+- **Terrain reconfirmation**: the continuous updating of the perceived terrain through signals, traces, experiments, and feedback.
+- **Mimetic inhibitor**: a social force that blocks actualization because the potentiality threatens status, rivalry structures, or inherited classifications.
+- **Mimetic desynchronization**: indirect terrain reconfiguration designed to reduce resistance without triggering premature defensive reactions.
+
 ---
 
 ## Potentics as the General Framework
@@ -128,7 +160,7 @@ flowchart TD
     L -->|Failure| G
 ```
 
-This paper builds on *Potentics*, defined as the rational exploration of the possible.
+This paper builds on *Potentics*, defined as the rational exploration of the possible. The foundational formulation is available in Robert (2026), *What is Potentics? Toward a Science of the Possible*.
 
 Potentics begins from a distinction between possibility and potentiality:
 
@@ -161,7 +193,7 @@ The present paper can be understood as a dynamic and operational extension of Po
 
 Potentics asks:
 
-> What could become real, and how?
+> What could become real, under what conditions, and through which inhibitors?
 
 This paper asks:
 
@@ -169,37 +201,9 @@ This paper asks:
 
 ---
 
-## Contributions
-
-This paper makes four main contributions.
-
-First, it introduces the concept of **cognitive terrain** as a dynamic topology of perceived opportunities, risks, legitimacy gradients, narratives, inhibitors, and traces shaping the actualization of potentialities.
-
-Second, it proposes **stigmergy** as the core mechanism through which agents explore such terrains, preserve useful failures, and progressively reconfirm what can actually be done.
-
-Third, it identifies **mimetic inhibitors** — rivalry, status preservation, institutional gatekeeping, and resistance to reclassification — as central forces preventing the actualization of valuable potentialities.
-
-Fourth, it proposes **mimetic desynchronization** as a strategy of indirect terrain reconfiguration, allowing agents to reduce resistance without triggering premature defensive reactions.
-
-Together, these contributions extend Potentics from a general science of potentialities toward an operational theory of adaptive navigation under uncertainty.
-
----
-
-## Terminology
-
-This paper uses several terms in a specific sense.
-
-- **Possibility**: a conceivable state of affairs.
-- **Potentiality**: the scalar propensity of a possibility to actualize under given conditions, effort, and inhibitors.
-- **Cognitive terrain**: the dynamic topology of perceived opportunities, risks, narratives, legitimacy gradients, constraints, and traces shaping action.
-- **Trace**: any persistent mark left by action that modifies future navigation, including documented failures.
-- **Terrain reconfirmation**: the continuous updating of the perceived terrain through signals, traces, experiments, and feedback.
-- **Mimetic inhibitor**: a social force that blocks actualization because the potentiality threatens status, rivalry structures, or inherited classifications.
-- **Mimetic desynchronization**: indirect terrain reconfiguration designed to reduce resistance without triggering premature defensive reactions.
-
----
-
 ## The Return of Planning in the Age of Complexity
+
+The need for such a framework becomes clearer when one examines the contemporary return of planning under conditions where planning is least reliable.
 
 The twentieth century appeared to discredit centralized planning. The collapse of Soviet-style command economies exposed the structural limits of systems attempting to replace distributed adaptation with centralized computation.
 
@@ -1030,3 +1034,5 @@ Wald, A. (1947). *Sequential Analysis*. Wiley.
 Weick, K. E. (1995). *Sensemaking in Organizations*. Sage.
 
 Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent systems.
+
+[details for references is to be completed]
