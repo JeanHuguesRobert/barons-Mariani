@@ -1,0 +1,11 @@
+# barons-Mariani — non-research markdown files.
+# Built-in defaults (README, LICENSE, TODO, CHANGELOG, …) are always applied.
+
+# Project-internal status pages.
+research/corpus-status.md
+
+# Cross-fork artefact — canonical version lives in FractaVolta repo.
+FractaVolta.md
+
+# Cover letter, not the paper itself (transition_markets.md is the paper).
+tocqueville_cover_letter.md
