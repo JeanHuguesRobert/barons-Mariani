@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/transition_markets.md
+last_stamped_at: 2026-05-13
+---
 # Markets of Usage Transitions in Multi-Use Physical Assets
 ## Toward a Theory of Friction-Based Economic Value
 

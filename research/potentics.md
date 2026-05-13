@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics.md
+last_stamped_at: 2026-05-13
+---
 # What is Potentics?
 
 ## Toward a Science of the Possible

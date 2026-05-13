@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projet_minesteggio.md
+last_stamped_at: 2026-05-13
+---
 
 # **Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**
 *Un dispositif de convergence entre histoire, mémoire et projection sociale*

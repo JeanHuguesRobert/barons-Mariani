@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/discret_holography.md
+last_stamped_at: 2026-05-13
+---
 # ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D
 
 **Auteur :** Jean-Hugues Noël ROBERT, baron Mariani

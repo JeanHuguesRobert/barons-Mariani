@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/ai-based-cultural-mediation.md
+last_stamped_at: 2026-05-13
+---
 **Literary Works as Navigable Spaces of Counterfactual Semantics: Toward a Computational Framework for AI-Based Cultural Mediation**
 
 **Author**  

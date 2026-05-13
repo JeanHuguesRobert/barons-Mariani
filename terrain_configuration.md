@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/terrain_configuration.md
+last_stamped_at: 2026-05-13
+---
 # Terrain Configuration Theory for Democratic AI Infrastructure
 
 ## A Possibilist Framework for Compute Governance

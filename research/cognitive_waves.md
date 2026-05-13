@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_waves.md
+last_stamped_at: 2026-05-13
+---
 # Sailing the Cognitive Waves  
 ## A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints
 

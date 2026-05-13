@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md
+last_stamped_at: 2026-05-13
+---
 # Indirect Action Under Mimetic Constraints
 ## Toward a General Theory of Structural Change
 

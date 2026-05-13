@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md
+last_stamped_at: 2026-05-13
+---
 
 # *Invidia*, envie et désir mimétique
 ## Pour une anthropologie de la disqualification de la réussite en contexte méditerranéen

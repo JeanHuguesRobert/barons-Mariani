@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md
+last_stamped_at: 2026-05-13
+---
 # The Republic of Donkeys
 ## A Situated Micro-Experiment in Commons Governance
 

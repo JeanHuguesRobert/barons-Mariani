@@ -10,6 +10,8 @@ affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte,
 license: "CC BY-SA 4.0"
 status: "Working paper — thesis kernel, open to falsifiable objections and revisions"
 method: "Second Method compatible draft"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
+last_stamped_at: 2026-05-13
 ---
 
 # Democratic AI Safety
