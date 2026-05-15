@@ -21,6 +21,17 @@ versant diagnostic : comprendre pourquoi les institutions centralisées échouen
 structurellement, et comment une gouvernance distribuée et anti-capture peut
 être conçue à Corte, en Corse, en Méditerranée.
 
+Ce dépôt est également un nœud du **corpus à cinq dépôts** (barons-Mariani,
+[MareNostrum](https://github.com/JeanHuguesRobert/marenostrum),
+[FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta),
+[Cogentia](https://github.com/JeanHuguesRobert/cogentia),
+[inseme](https://github.com/JeanHuguesRobert/inseme)) qui opérationnalise
+ensemble la proposition d'infrastructure souveraine méditerranéenne — pile
+intégrée à quatre couches (énergie, compute, cognition, civique), exploitée par
+FractaVolta. La méthodologie commune — *Discours de la seconde méthode* —
+vit dans ce dépôt :
+[research/second_method.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md).
+
 Publié en continu selon le principe du *design in the open*.
 Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com).
 
@@ -110,9 +121,12 @@ Application prioritaire : la production d'inférences IA *high grade*, où la
 qualité certifiée du compute (au sens de la
 [Compute eXergy Unit](https://github.com/JeanHuguesRobert/marenostrum/blob/main/CXU_SPEC.md))
 dépend directement de la qualité de l'énergie qui l'alimente. FractaVolta est
-la couche physique (Layer 1) dont MareNostrum est la couche de gouvernance.
+désormais l'**opérateur de la pile intégrée** — quatre couches : énergie, compute,
+cognition (via [Cogentia](https://github.com/JeanHuguesRobert/cogentia)) et
+civique (via [inseme](https://github.com/JeanHuguesRobert/inseme)) — dont
+MareNostrum est la couche stratégique.
 
-→ [Document de travail](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/FractaVolta.md)
+→ [Document de travail](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/FractaVolta.md) · [fractavolta.com](https://fractavolta.com)
 
 ---
 
