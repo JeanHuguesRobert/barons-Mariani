@@ -69,7 +69,7 @@ continuation:
 
   spec_reference: "cogentia-commons/spec/session-001.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/toy_story.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 
 # Toy Story, Artificial Intelligence, and Mimetic Desynchronization

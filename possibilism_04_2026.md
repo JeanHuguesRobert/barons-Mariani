@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/possibilism_04_2026.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 # Possibilism: Notes Toward a Research Program on Possibility Exploration
 

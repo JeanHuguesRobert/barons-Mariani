@@ -12,7 +12,7 @@ status: Document de conception ouvert
 repository: github.com/JeanHuguesRobert/barons-Mariani
 predecessor: vigilia.md v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 
 # VIGILIA

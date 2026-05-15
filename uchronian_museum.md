@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/uchronian_museum.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 # Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires
 

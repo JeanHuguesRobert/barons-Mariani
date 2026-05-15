@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 # Dilution de la responsabilité et continuité de protection  
 ## Vers une obligation de cohérence des parcours de vulnérabilité en droit public français

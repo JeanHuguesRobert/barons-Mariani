@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md
-last_stamped_at: 2026-05-13
+last_stamped_at: 2026-05-15
 ---
 # The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction
 
