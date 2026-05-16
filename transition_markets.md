@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/transition_markets.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Markets of Usage Transitions in Multi-Use Physical Assets
 ## Toward a Theory of Friction-Based Economic Value
@@ -374,3 +374,13 @@ Williamson, O. E. (1985). *The Economic Institutions of Capitalism*. Free Press.
 Institut Mariani — 1 cours Paoli, F-20250 Corte, Corse  
 jhr@baronsmariani.org  
 Association C.O.R.S.I.C.A. — fondée à Corte, 1995*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

@@ -11,7 +11,7 @@ license: "CC BY-SA 4.0"
 status: "Working paper — thesis kernel, open to falsifiable objections and revisions"
 method: "Second Method compatible draft"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 
 # Democratic AI Safety

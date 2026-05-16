@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/possibilism_04_2026.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Possibilism: Notes Toward a Research Program on Possibility Exploration
 
@@ -246,3 +246,13 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 *© 2026 Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A.*
 *Working paper. Not for citation without permission.*
 *Contact: jhr@baronsmariani.org*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

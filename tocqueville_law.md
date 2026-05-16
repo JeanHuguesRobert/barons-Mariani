@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction
 
@@ -380,3 +380,13 @@ Tocqueville, A. de (1835/1840). *De la démocratie en Amérique*, 2 vols. Paris:
 Tocqueville, A. de (1856). *L'Ancien Régime et la Révolution*. Paris: Lévy.
 
 YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San Bruno: Google LLC.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

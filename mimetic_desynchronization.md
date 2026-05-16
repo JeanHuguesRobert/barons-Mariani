@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Indirect Action Under Mimetic Constraints
 ## Toward a General Theory of Structural Change
@@ -183,3 +183,13 @@ Mimetic desynchronization is the name for that action.
 ---
 
 *Institut Mariani, 1 cours Paoli, F-20250 Corte*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

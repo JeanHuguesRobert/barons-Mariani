@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/territoires_possibilistes.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Territoires possibilistes
 
@@ -728,3 +728,13 @@ Avant publication forte, je verrouillerais :
 
 
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

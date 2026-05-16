@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # What is Potentics?
 
@@ -358,3 +358,13 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 ---
 
 *Released under CC BY-SA 4.0. Comments and contributions: jhr@baronsmariani.org | github.com/JeanHuguesRobert/barons-Mariani*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

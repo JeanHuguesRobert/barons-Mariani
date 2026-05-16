@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Dilution de la responsabilité et continuité de protection  
 ## Vers une obligation de cohérence des parcours de vulnérabilité en droit public français
@@ -197,3 +197,13 @@ Reconnaître un principe de continuité de protection, c’est faire évoluer le
 
 ### Sources complémentaires
 - Conseil de l’Europe, jurisprudence relative aux obligations positives de protection de la vie au titre de l’article 2 de la Convention européenne des droits de l’homme.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

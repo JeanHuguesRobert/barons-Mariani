@@ -19,10 +19,16 @@ license: "CC BY-SA 4.0"
 
 repository: "github.com/JeanHuguesRobert/barons-Mariani"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 
 # Discours de la seconde méthode
+
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Method to Machine**
+> ➡️ Next: [Cogentia — the framework, in five distinctive moves](../../cogentia/COGENTIA.md)
+
+<!-- END_AUTO: trails -->
 
 **Jean Hugues Noël Robert, baron Mariani**
 
@@ -559,3 +565,13 @@ René, merci. On continue.
 *Premier commit : 2026-05-08 — Jour de la Victoire — v1.0*
 
 *Challenge via issues. Fork to explore alternatives.*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/discret_holography.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D
 
@@ -47,3 +47,13 @@ Ce corpus théorique constitue une unité logique indivisible. La validation exp
 **Signé :** Jean-Hugues Noël ROBERT, baron Mariani
 **Fait le :** 27 Février 2026
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

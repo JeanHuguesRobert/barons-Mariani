@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # The Republic of Donkeys
 ## A Situated Micro-Experiment in Commons Governance
@@ -218,3 +218,13 @@ The experiment is ongoing. Observations are provisional. Participation is open t
 
 *© 2026 — Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A., Corte*
 *CC BY-SA 4.0*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

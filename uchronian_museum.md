@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/uchronian_museum.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires
 
@@ -135,3 +135,13 @@ Projet associé : Musée uchronique / Fondation Barons Mariani / Kudocracy
 ### Licence
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

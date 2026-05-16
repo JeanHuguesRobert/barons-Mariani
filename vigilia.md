@@ -12,7 +12,7 @@ status: Document de conception ouvert
 repository: github.com/JeanHuguesRobert/barons-Mariani
 predecessor: vigilia.md v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 
 # VIGILIA
@@ -963,3 +963,13 @@ Attribution requise :
 * **v1.1** (2026-05-12) — ajout de VIGILIA-SIGNAL (signalement humain multi-canal), passerelle GSM héritée, information locale non commerciale, doctrine de triage.
 * **v1.2** (2026-05-12) — cas d'usage anti-vol ; modèle adversaire explicite ; mode dégradé formalisé ; positionnement dans le corpus (N2N, DHITL, FractaVolta) ; formulation bayésienne minimale ; schéma JSON d'événement ; phasage 5 phases ; license CC BY-SA 4.0 explicite avec SPDX ; harmonisation du nom de l'auteur.
 * **v1.3** (2026-05-12) — remplacement systématique du terme juridique « abigeat » par « vol de bétail » pour accessibilité aux destinataires non-spécialistes (élus, agents communaux, usagers) ; mise à jour du contact courriel.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

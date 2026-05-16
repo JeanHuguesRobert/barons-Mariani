@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_waves.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Sailing the Cognitive Waves  
 ## A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints
@@ -1040,3 +1040,13 @@ Weick, K. E. (1995). *Sensemaking in Organizations*. Sage.
 Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent systems.
 
 [details for references is to be completed]
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

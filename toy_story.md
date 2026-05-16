@@ -69,7 +69,7 @@ continuation:
 
   spec_reference: "cogentia-commons/spec/session-001.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/toy_story.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 
 # Toy Story, Artificial Intelligence, and Mimetic Desynchronization
@@ -592,3 +592,13 @@ This paper is simultaneously a contribution to the understanding of AI adoption 
 *v3.0 — 2026-05-10 — Iteration 3 (Claude / Anthropic)*
 *Challenge via issues at github.com/JeanHuguesRobert/barons-Mariani*
 *Fork to explore alternatives.*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

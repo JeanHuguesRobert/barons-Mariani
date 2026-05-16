@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/terrain_configuration.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 # Terrain Configuration Theory for Democratic AI Infrastructure
 
@@ -238,3 +238,13 @@ Simon, H. A. (1969). *The Sciences of the Artificial*. MIT Press.
 *Working paper. Not for citation without permission.*
 *Website: fractavolta.com · github.com/JeanHuguesRobert/marenostrum*
 *Contact: jhr@baronsmariani.org*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->

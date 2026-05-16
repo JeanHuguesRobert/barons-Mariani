@@ -34,6 +34,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
+| [Concept Index](concepts.md) *(typed concept registry — mapped by `cogentia.js concepts`)* | this repo | refreshable |
 
 ---
 

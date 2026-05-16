@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md
-last_stamped_at: 2026-05-15
+last_stamped_at: 2026-05-16
 ---
 
 # *Invidia*, envie et désir mimétique
@@ -156,3 +156,13 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 
 *© Jean Hugues Noël Robert, baron Mariani — Institut Mariani, Corte, 2026*  
 *Dépôt : github.com/JeanHuguesRobert/barons-Mariani*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Research Index — barons-Mariani](research/index.md)
+
+<!-- END_AUTO: backlinks -->
