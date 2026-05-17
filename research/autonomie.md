@@ -7,7 +7,7 @@ affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte,
 version: "0.11"
 date: "2026-05-16"
 license: "CC BY-SA 4.0"
-status: "working paper — version académique sobre"
+status: "working paper"
 ---
 
 # Autonomie de capacité
