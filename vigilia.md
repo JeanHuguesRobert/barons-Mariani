@@ -1,8 +1,8 @@
 ---
 title: VIGILIA
 subtitle: Système distribué d'évitement des collisions, de signalement et de perception territoriale
-version: 1.3
-date: 2026-05-12
+version: 1.4
+date: 2026-05-17
 author: Jean Hugues Noël Robert, baron Mariani
 address: 1 cours Paoli, F-20250 Corte
 contact: jeanhuguesrobert@gmail.com
@@ -10,20 +10,20 @@ license: CC BY-SA 4.0
 spdx-license-identifier: CC-BY-SA-4.0
 status: Document de conception ouvert
 repository: github.com/JeanHuguesRobert/barons-Mariani
-predecessor: vigilia.md v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
+predecessor: vigilia.md v1.3 (2026-05-12), v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md
-last_stamped_at: 2026-05-16
+last_stamped_at: 2026-05-17
 ---
 
 # VIGILIA
 
 ## Système distribué d'évitement des collisions, de signalement et de perception territoriale
 
-**Version : 1.3**
+**Version : 1.4**
 **Auteur : Jean Hugues Noël Robert**, baron Mariani — 1 cours Paoli, F-20250 Corte
 **Contact :** jeanhuguesrobert@gmail.com
 **Contexte : Déploiement rural — Corse (phase pilote)**
-**Date : 2026-05-12**
+**Date : 2026-05-17**
 
 ---
 
@@ -41,6 +41,8 @@ VIGILIA est un système léger, non intrusif et peu coûteux permettant de rédu
 
 Il transforme la mobilité quotidienne des habitants, des visiteurs et des services publics en réseau de vigilance partagé.
 
+Un territoire devient plus sûr lorsqu'il peut transformer des observations dispersées en vigilance partagée.
+
 La version 1.1 a ajouté une couche de signalement humain : un usager peut signaler un danger lié à la présence d'un animal potentiellement en divagation, demander un renseignement local ou transmettre une observation utile, y compris depuis un téléphone simple ou ancien.
 
 La version 1.2 ajoute :
@@ -50,7 +52,11 @@ La version 1.2 ajoute :
 * un **mode dégradé** garantissant que la panne du système ne dégrade pas le territoire en dessous de son état antérieur ;
 * un positionnement clair vis-à-vis du corpus FractaVolta / MareNostrum / DHITL.
 
+La version 1.4 clarifie l'échelle de maturité de VIGILIA : commencer par un signalement citoyen simple, prouver l'usage, puis seulement ensuite ajouter carte de risque, balises ciblées et inférence FractaTera complète.
+
 VIGILIA ne se substitue ni aux services d'urgence, ni aux pouvoirs de police du maire, ni aux forces de sécurité. Il ajoute une couche de qualification, d'accessibilité et de transmission locale.
+
+Le but n'est pas d'accuser immédiatement un propriétaire. Le but est de produire une information utile, rapide, vérifiable, proportionnée et transmissible au bon acteur.
 
 ---
 
@@ -119,6 +125,42 @@ La balise animale, le téléphone du signaleur, le véhicule récepteur, la born
 * à la doctrine **store-and-forward** des réseaux mesh de crise.
 
 VIGILIA est donc, dans ce corpus, l'instance la plus tangible et la moins théorique : un cas d'usage rural où la coordination sans centre n'est ni un slogan ni un papier, mais un service rendu à des communes confrontées à des problèmes concrets.
+
+## 3.2 Échelle de maturité : VIGILIA 0 à VIGILIA 3
+
+Le déploiement doit rester possibiliste : commencer par le niveau immédiatement utile, puis ajouter de la complexité seulement lorsque l'usage est prouvé.
+
+```text
+VIGILIA 0
+Signalement citoyen simple
+→ utile immédiatement
+→ zéro balise obligatoire
+→ preuve d'usage
+
+VIGILIA 1
+Carte de risque territoriale
+→ zones chaudes
+→ récurrences
+→ base de décision communale
+
+VIGILIA 2
+Balises sur animaux problématiques
+→ bovins récurrents
+→ troupeaux identifiés
+→ prévention ciblée
+
+VIGILIA 3
+FractaTera complet
+→ inférence radio
+→ détection passive
+→ perception territoriale distribuée
+```
+
+Cette échelle évite de confondre le démonstrateur et l'architecture complète. Un simple signalement bien qualifié, bien transmis et bien mémorisé peut déjà produire de la sécurité publique. Les balises et l'inférence radio viennent ensuite, lorsque le territoire a prouvé l'usage.
+
+Formule de croissance :
+
+> un territoire peut devenir plus intelligent sans devenir plus centralisé.
 
 ---
 
@@ -462,6 +504,8 @@ Assurer la visibilité de ressources mobiles critiques :
 ## Objectif
 
 Permettre à tout usager, même sans smartphone ou sans accès Internet, de signaler la présence d'un animal potentiellement en divagation lorsqu'elle crée un danger.
+
+Le but n'est pas d'accuser immédiatement un propriétaire. Le but est de produire une information utile, rapide et vérifiable, puis de l'orienter vers le bon acteur.
 
 ## Catégories de signalement
 
@@ -914,14 +958,14 @@ VIGILIA propose une alternative aux infrastructures lourdes :
 
 > transformer la mobilité quotidienne, les signaux faibles et les observations humaines en réseau de vigilance partagé, capable de réduire les collisions, qualifier les dangers, protéger les éleveurs contre le vol et améliorer la sécurité locale sans contrainte physique généralisée sur le territoire.
 
-La version 1.2 consolide :
+La version 1.4 consolide :
 
 * perception automatique (VIGILIA-AUTO) ;
 * signalement humain (VIGILIA-SIGNAL) ;
 * robustesse territoriale (mode dégradé) ;
 * alliance politique (cas anti-vol) ;
 * sûreté (modèle adversaire explicite) ;
-* phasage clair (MVP sans radio d'abord).
+* phasage clair (VIGILIA 0 à 3, preuve d'usage avant complexité).
 
 Sa force est de combiner six choses rarement réunies :
 
@@ -953,7 +997,7 @@ Document publié sous licence **Creative Commons Attribution — Partage dans le
 
 Attribution requise :
 
-**Jean Hugues Noël Robert — VIGILIA v1.3 (2026)**
+**Jean Hugues Noël Robert — VIGILIA v1.4 (2026)**
 
 ---
 
@@ -963,6 +1007,7 @@ Attribution requise :
 * **v1.1** (2026-05-12) — ajout de VIGILIA-SIGNAL (signalement humain multi-canal), passerelle GSM héritée, information locale non commerciale, doctrine de triage.
 * **v1.2** (2026-05-12) — cas d'usage anti-vol ; modèle adversaire explicite ; mode dégradé formalisé ; positionnement dans le corpus (N2N, DHITL, FractaVolta) ; formulation bayésienne minimale ; schéma JSON d'événement ; phasage 5 phases ; license CC BY-SA 4.0 explicite avec SPDX ; harmonisation du nom de l'auteur.
 * **v1.3** (2026-05-12) — remplacement systématique du terme juridique « abigeat » par « vol de bétail » pour accessibilité aux destinataires non-spécialistes (élus, agents communaux, usagers) ; mise à jour du contact courriel.
+* **v1.4** (2026-05-17) — consolidation avec le doublon FractaVolta ; ajout de l'échelle de maturité VIGILIA 0 à VIGILIA 3 ; clarification de la preuve d'usage, de la non-accusation immédiate du propriétaire et de la formule « un territoire plus intelligent sans devenir plus centralisé ».
 
 
 <!-- BEGIN_AUTO: backlinks -->
