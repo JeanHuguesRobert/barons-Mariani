@@ -109,15 +109,33 @@ Deuxièmement, il montre que les capacités produisent une mémoire institutionn
 
 Cette observation est importante : une capacité construite peut laisser des traces transmissibles même lorsqu’elle n’aboutit pas immédiatement à une stabilisation institutionnelle.
 
-## 2.2. Aléria : foncier, injustice et radicalisation
+## 2.2. Des luttes foncières à la clandestinité nationaliste contemporaine
 
-L’autonomie corse contemporaine ne naît pas d’une abstraction constitutionnelle. Elle s’enracine dans des tensions sociales, agricoles, foncières et culturelles. L’occupation de la cave d’Aléria en août 1975 par l’Action régionaliste corse, conduite par Edmond Simeoni, est généralement considérée comme un moment fondateur du nationalisme corse contemporain.
+L’autonomie corse contemporaine ne naît pas d’une abstraction constitutionnelle. Elle s’enracine dans des tensions sociales, agricoles, foncières et culturelles. Aléria, en août 1975, constitue un moment majeur de cristallisation publique, mais non le point de départ absolu de la violence politique nationaliste contemporaine.
 
-Le conflit portait notamment sur des injustices perçues dans l’accès au foncier agricole et sur les conditions de redistribution de terres. L’intervention des forces de l’ordre et la mort de deux gendarmes ont contribué à la radicalisation du mouvement nationaliste, puis à la création du FLNC en 1976.
+Selon Thierry Dominici, la première action violente contre l’État date de février 1973 et est revendiquée par le Front paysan corse de libération. Ce mouvement, composé d’agriculteurs, de commerçants et d’étudiants, articule déjà reconnaissance de la nation corse, langue, corsisation des emplois, exclusion des colons et rapatriement des Corses de l’extérieur. En 1974 apparaît Ghjustizia Paolina, organisation clandestine constituée principalement de jeunes militants. Le 24 avril 1974, le FPCL annonce sa fusion avec Ghjustizia Paolina ; en mai 1974, un manifeste officialise le passage à une logique de lutte de libération nationale.
 
-La séquence d’Aléria montre que la question corse contemporaine articule dès l’origine plusieurs niveaux : la terre, la reconnaissance politique, l’injustice économique et le rapport de force avec l’État.
+L’occupation de la cave d’Aléria par l’Action régionaliste corse conduite par Edmond Simeoni doit donc être lue comme un événement de cristallisation : elle rend visible, dramatise et politise des tensions déjà présentes. L’intervention des forces de l’ordre et la mort de deux gendarmes accélèrent la radicalisation, mais elles ne créent pas ex nihilo la clandestinité nationaliste.
 
-## 2.3. De la conflictualité à l’institutionnalisation
+C’est dans cette séquence qu’apparaît le FLNC, dans la nuit du 4 au 5 mai 1976, à la suite d’une vague de vingt-deux attentats. Le FLNC se distingue alors de l’autonomisme légal des années 1960-1970, jugé insuffisant parce qu’il revendique des compétences élargies tout en restant dans le cadre français. La nouvelle organisation se situe au contraire dans une grammaire anticoloniale et indépendantiste, fondée sur la lutte armée et l’autodétermination.
+
+Cette distinction est importante pour la suite de l’argument. Dès l’origine contemporaine du nationalisme corse, deux rationalités coexistent et s’opposent : une rationalité autonomiste, institutionnelle, électorale ; et une rationalité indépendantiste, anticoloniale, clandestine. L’autonomie de capacité proposée dans cet article ne se confond avec aucune des deux. Elle demande non seulement qui doit décider, ni seulement contre qui il faut lutter, mais ce que le territoire devient effectivement capable de construire.
+
+## 2.3. Légalisation, interdiction et capital guerrier
+
+La trajectoire du FLNC montre ensuite une difficulté classique des mouvements clandestins : transformer une capacité de rupture en capacité politique durable.
+
+En 1980, le FLNC se dote d’une vitrine publique, la Cunsulta di i Cumitati Nazionalisti, qui joue le rôle de porte-parole de la lutte de libération nationale. Le 5 janvier 1983, le FLNC est dissous par les pouvoirs publics ; le 28 septembre 1983, la CCN est également dissoute. Le 3 octobre 1983 est créé le Mouvement corse pour l’autodétermination, qui cherche à inscrire dans l’espace légal un discours reliant combat anticolonial et action institutionnelle. Le MCA est interdit à son tour en janvier 1986.
+
+La période suivante montre les limites internes de cette trajectoire. Entre 1989 et 1991, le FLNC se fragmente en plusieurs nébuleuses — Canal historique, Canal habituel, Resistenza — engagées dans une guerre fratricide de légitimité. Dominici parle d’un “indépendantisme anthropophage” : la violence ne vise plus seulement l’État, elle devient aussi lutte interne pour le monopole de la légitimité nationaliste.
+
+Cette séquence est importante pour une théorie de l’autonomie de capacité. Une capacité de lutte peut produire une rupture, mais elle peut aussi se dégrader en capital guerrier, en surmarquage territorial ou en ressource de légitimation autonome par rapport au projet politique initial. Lorsque la cloison entre violence politique et logiques criminelles devient trop mince, la capacité de rupture cesse de produire une capacité collective durable.
+
+La démilitarisation du FLNC en 2014 marque donc un tournant. Elle permet le rapprochement entre autonomistes et indépendantistes, puis la victoire nationaliste de 2015. Mais elle laisse subsister un imaginaire politique dans lequel certains acteurs continuent d’associer puissance collective et capital guerrier.
+
+L’autonomie de capacité se situe explicitement ailleurs : elle ne nie pas l’histoire de la lutte nationale corse, mais elle propose de déplacer le critère de puissance. La puissance politique d’un territoire ne se mesure pas seulement à sa capacité de rupture ou de menace. Elle se mesure à sa capacité de produire, loger, transmettre, organiser, protéger, expérimenter et corriger.
+
+## 2.4. De la conflictualité à l’institutionnalisation
 
 La réponse de l’État s’est progressivement déplacée vers l’institution.
 
@@ -125,13 +143,13 @@ La loi du 2 mars 1982 donne à la Corse un statut particulier et crée une Assem
 
 Ces évolutions montrent que la Corse a progressivement obtenu des cadres institutionnels particuliers. Mais l’existence de cadres ne suffit pas à garantir la production de capacités.
 
-## 2.4. Le processus de Beauvau : vers une autonomie constitutionnalisée
+## 2.5. Le processus de Beauvau : vers une autonomie constitutionnalisée
 
 Le processus dit de Beauvau a conduit à un projet d’écriture constitutionnelle visant à reconnaître un statut d’autonomie de la Corse au sein de la République. Le débat porte notamment sur la reconnaissance d’une communauté historique, linguistique et culturelle, sur l’existence d’un pouvoir normatif local et sur les modalités d’une consultation populaire.
 
 Cette séquence déplace le débat : la question n’est plus seulement “autonomie ou non ?”, mais “quelle autonomie, avec quels effets, pour qui, et avec quelles garanties ?”
 
-## 2.5. L’écart entre statut acquis et capacités réelles
+## 2.6. L’écart entre statut acquis et capacités réelles
 
 Il est utile de confronter les acquisitions institutionnelles aux indicateurs territoriaux.
 
@@ -143,7 +161,7 @@ La distinction centrale apparaît ici :
 
 > Le statut crée des possibilités juridiques. La capacité transforme ces possibilités en résultats effectifs.
 
-## 2.6. Premier test contemporain : la reconnaissance internationale de la République corse de 1755
+## 2.7. Premier test contemporain : la reconnaissance internationale de la République corse de 1755
 
 La généalogie qui précède ne s’arrête pas au processus de Beauvau. Un cadre théorique territorial n’a de portée que s’il génère des expérimentations dont les résultats sont vérifiables par des tiers. Le présent article annonce donc une première démarche, conduite à partir de mai 2026, qui prend une forme publique et documentée parallèlement à la circulation de ce working paper, et qui constitue, en pratique, le premier test prospectif de l’autonomie de capacité telle qu’elle est définie ici.
 
