@@ -7,6 +7,12 @@ type: campaign_note
 
 # Traçabilité civique anti-mafieuse
 
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
+
+<!-- END_AUTO: trails -->
+
 **Documenter l’emprise sans créer une société de surveillance**
 
 *Note de campagne — Jean Hugues Noël Robert*

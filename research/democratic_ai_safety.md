@@ -16,6 +16,15 @@ last_stamped_at: 2026-05-18
 
 # Democratic AI Safety
 
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [The Republic of Donkeys](../the_republic_of_donkeys.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](../../marenostrum/DHITL.md)
+
+> 🧭 **Trail: From Method to Machine**
+> ⬅️ Previous: [Cogentia — the framework, in five distinctive moves](../../cogentia/COGENTIA.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](../../marenostrum/DHITL.md)
+
+<!-- END_AUTO: trails -->
+
 ## Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons
 
 **Jean Hugues Noël Robert, baron Mariani**  

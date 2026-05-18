@@ -1,3 +1,9 @@
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [Autonomia](research/autonomia.md) | ➡️ Next: [GR20 : du quota à l'autonomie de capacité](research/gr20_autonomie_de_capacite.md)
+
+<!-- END_AUTO: trails -->
+
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md
 last_stamped_at: 2026-05-16

@@ -14,6 +14,12 @@ last_stamped_at: 2026-05-18
 
 # Autonomia[^titre]
 
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ➡️ Next: [The Generalized Tocqueville Law](../tocqueville_law.md)
+
+<!-- END_AUTO: trails -->
+
 ## Capabilités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
 **Jean Hugues Noël Robert, baron Mariani**  

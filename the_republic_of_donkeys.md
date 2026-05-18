@@ -1,3 +1,9 @@
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [Traçabilité civique anti-mafieuse](research/traceabilite_civique_antimafia.md) | ➡️ Next: [Democratic AI Safety](research/democratic_ai_safety.md)
+
+<!-- END_AUTO: trails -->
+
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md
 last_stamped_at: 2026-05-16
