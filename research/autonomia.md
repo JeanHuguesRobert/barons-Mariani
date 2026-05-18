@@ -38,6 +38,8 @@ Cet article propose la notion d’**autonomie de capacité**. Par cette expressi
 
 L’autonomie de capacité ne se substitue pas à l’autonomie institutionnelle. Elle en constitue le test empirique. Une autonomie statutaire définit ce qu’un territoire a le droit de faire ; une autonomie de capacité mesure ce qu’il est réellement en mesure de faire.
 
+La notion d’autonomie est donc utilisée ici en deux sens distincts. Au sens constitutionnel fort, l’autonomie implique un pouvoir normatif et fiscal propre. À cet égard, la Corse demeure très en deçà des standards observables dans d’autres démocraties multinationales. Au sens opératoire proposé dans cet article, l’autonomie de capacité désigne la faculté d’un territoire à construire des moyens concrets d’action, y compris avant l’obtention d’un statut pleinement autonome.
+
 L’article mobilise l’approche par les capabilités développée par Amartya Sen et prolongée par Martha Nussbaum, ainsi que les analyses du capital territorial, des communs, de la capacité institutionnelle, de la résilience territoriale, de la spécialisation intelligente et de l’économie des coûts de transaction. Il s’inscrit dans la tradition philosophique qui pense la démocratie comme pratique d’auto-institution distribuée — Castoriadis, Arendt, Dewey, Rancière — et en propose une application territoriale. Il introduit également l’idée de **spécificité de phase**, qui désigne la dépendance d’un actif à certaines périodes, saisons ou cycles d’usage. Cette notion permet de comprendre pourquoi des territoires insulaires comme la Corse subissent souvent des pics de demande — touristiques, universitaires, énergétiques, hydriques, fonciers ou administratifs — sans les convertir en valeur durable pour leurs habitants.
 
 L’hypothèse centrale est la suivante : **la Corse augmentera plus sûrement son autonomie réelle par une stratégie d’expérimentations territoriales vérifiables, documentées et transmissibles que par la seule attente d’un transfert institutionnel ou par la seule intensification d’un discours identitaire défensif.**
@@ -142,6 +144,12 @@ La réponse de l’État s’est progressivement déplacée vers l’institution
 La loi du 2 mars 1982 donne à la Corse un statut particulier et crée une Assemblée de Corse élue à la proportionnelle. Le statut de 1991 renforce cette architecture, même si la notion de “peuple corse” est censurée par le Conseil constitutionnel. La loi du 22 janvier 2002 poursuit le mouvement de différenciation. La création de la Collectivité de Corse au 1er janvier 2018 fusionne l’ancienne Collectivité territoriale et les deux départements.
 
 Ces évolutions montrent que la Corse a progressivement obtenu des cadres institutionnels particuliers. Mais l’existence de cadres ne suffit pas à garantir la production de capacités.
+
+Cette distinction doit être précisée. Dans une acception constitutionnelle stricte, la Corse ne dispose pas encore d’une autonomie réelle : l’Assemblée de Corse ne possède ni pouvoir législatif ni pouvoir fiscal propre. André Fazi souligne à juste titre que les évolutions institutionnelles engagées depuis 1982 relèvent d’une différenciation progressive, mais non d’une autonomie politique pleine.
+
+L’autonomie de capacité ne contredit pas ce diagnostic. Elle le complète. Elle ne soutient pas que la Corse serait déjà autonome au sens constitutionnel. Elle affirme que l’absence d’autonomie législative et fiscale ne doit pas empêcher les acteurs corses — communes, associations, coopératives, université, entreprises, collectivité — de construire des capacités concrètes dans les marges disponibles.
+
+Autrement dit, l’autonomie statutaire reste à conquérir ; l’autonomie de capacité peut déjà commencer.
 
 ## 2.5. Le processus de Beauvau : vers une autonomie constitutionnalisée
 
