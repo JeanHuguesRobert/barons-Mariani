@@ -26,7 +26,7 @@ last_stamped_at: 2026-05-16
 
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Method to Machine**
-> ➡️ Next: [Cogentia — the framework, in five distinctive moves](../../cogentia/COGENTIA.md)
+> ➡️ Next: [Cogentia — the framework, in five distinctive moves](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md)
 
 <!-- END_AUTO: trails -->
 

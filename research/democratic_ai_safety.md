@@ -18,10 +18,10 @@ last_stamped_at: 2026-05-18
 
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Republic of Donkeys](../the_republic_of_donkeys.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](../../marenostrum/DHITL.md)
+> ⬅️ Previous: [The Republic of Donkeys](../the_republic_of_donkeys.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 
 > 🧭 **Trail: From Method to Machine**
-> ⬅️ Previous: [Cogentia — the framework, in five distinctive moves](../../cogentia/COGENTIA.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](../../marenostrum/DHITL.md)
+> ⬅️ Previous: [Cogentia — the framework, in five distinctive moves](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 
 <!-- END_AUTO: trails -->
 
