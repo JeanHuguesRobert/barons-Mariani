@@ -7,6 +7,8 @@ date: "2026-05-16"
 status: "draft"
 repository: "JeanHuguesRobert/barons-Mariani"
 path: "research/gr20_autonomie_de_capacite.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/gr20_autonomie_de_capacite.md
+last_stamped_at: 2026-05-18
 ---
 
 # GR20 : du quota à l’autonomie de capacité

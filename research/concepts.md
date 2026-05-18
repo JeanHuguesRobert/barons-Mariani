@@ -180,6 +180,38 @@ Localized geographical or political zones acting as sandboxes for possibilist id
 
 ---
 
+## Autonomie de capacité
+
+**Type:** political framework / operational theory
+**Scope:** project-specific
+**Status:** Defined
+
+**Short definition:**
+The faculty of a territory to convert its territorial capital — natural resources, infrastructures, institutions, savoir-faire, memory, social networks, technical tools and organisational capacities — into effective, verifiable and transmissible collective capabilities, independently of the exact degree of formal sovereignty it holds at a given moment. Distinguished from institutional autonomy (which defines the right to act) as the empirical test of what a territory can actually do.
+
+**Parent concepts:**
+- Possibilism
+- Capabilities approach (Sen, Nussbaum)
+
+**Child concepts:**
+- Spécificité de phase
+- Flexibilité d'usage (redistributive vs. predatory)
+
+**Related concepts:**
+- Territoires Possibilistes
+- Auto-institution démocratique (Castoriadis)
+
+**Reference documents:**
+- `research/autonomia.md` (working paper, v0.12)
+- `research/autonomia/1755.md` (public test journal, §2.6)
+- `research/gr20_autonomie_de_capacite.md`
+
+**Used in:**
+- Test 1755 — international recognition of the Corsican Republic (2026-2030 horizon)
+- senatorial campaign, Haute-Corse, September 2026
+
+---
+
 ## The Second Method
 
 **Type:** epistemological framework

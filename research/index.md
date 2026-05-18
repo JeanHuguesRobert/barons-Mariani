@@ -16,6 +16,11 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | Title | Location | Date |
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
+| [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
+| [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public)* | this repo | 2026-05 → |
+| [GR20 : du quota à l'autonomie de capacité (FR)](gr20_autonomie_de_capacite.md) *(note de campagne — application montagne)* | this repo | 2026-05-16 |
+| [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
+| [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
@@ -45,7 +50,6 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | Title | Location |
 |---|---|
 | [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) | marenostrum |
-| [Radical Democracy as the Best AI Safety Strategy](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/democratic_ai_safety.md) | cogentia |
 | [Cogentia Commons Working Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia_Commons_Working_Paper.md) | cogentia |
 | [Inseme — deployable platform + COP runtime](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md) | inseme |
 

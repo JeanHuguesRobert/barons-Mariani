@@ -3,15 +3,15 @@ title: "Democratic AI Safety"
 description: "Why AI Safety must protect human sovereignty against AI-augmented legal persons"
 layout: default
 nav_order: 7
-version: "draft-0.4"
-last_modified_at: 2026-05-11
+version: "draft-0.5"
+last_modified_at: 2026-05-18
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 status: "Working paper — thesis kernel, open to falsifiable objections and revisions"
 method: "Second Method compatible draft"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
-last_stamped_at: 2026-05-16
+last_stamped_at: 2026-05-18
 ---
 
 # Democratic AI Safety
@@ -22,7 +22,7 @@ last_stamped_at: 2026-05-16
 Institut Mariani / C.O.R.S.I.C.A.  
 Corte, Corsica, France
 
-*Working paper — May 2026 — draft v0.4*
+*Working paper — May 2026 — draft v0.5*
 
 ---
 
@@ -33,6 +33,11 @@ This text is a working paper and a thesis kernel. It does not claim final proof.
 The purpose is not to close debate, but to make the debate more navigable.
 
 This draft reduces internal jargon, adds contemporary signals, and engages more directly with existing AI Safety and AI governance frameworks. It does not argue that technical AI Safety is wrong. It argues that technical AI Safety is **layer-incomplete** if it lacks an explicit theory of AI-augmented institutional agency.
+
+### Changelog
+
+- **v0.5 (2026-05-18)** — Merged in three components previously developed in a parallel Cogentia Commons format draft: a comparative grid of AI safety strategies (new §3.5), operational falsifiability conditions F1–F4 (integrated into §18), and a Coherence Kernel explicating the relationship to DHITL (new §11.5). The earlier parallel draft is now an alias stub pointing to this file.
+- **v0.4 (2026-05-11)** — Initial Corte draft; 22 sections; seven core claims; eight objection kernels.
 
 ---
 
@@ -197,6 +202,34 @@ This paper asks:
 > Who becomes more powerful because AI systems are controlled by them?
 
 That is a different question.
+
+---
+
+## 3.5 A Comparative Grid of AI Safety Strategies
+
+*Epistemic status: design tool for structuring the debate, not a definitive arbitration.*
+
+Before describing what dominant frameworks miss, it is useful to lay out the families of response side by side. The grid below scores four broad strategies against seven criteria. Notations are ordinal (❶ best on this criterion → ❹ worst).
+
+| Criterion | Unregulated acceleration | Strong state control | Centralized safety | **Democratic AI Safety** |
+|---|:---:|:---:|:---:|:---:|
+| Speed of response to threats | ❶ | ❷ | ❸ | ❹ |
+| Structural resistance to capture | ❹ | ❸ | ❸ | ❶ |
+| Preservation of human diversity | ❸ | ❹ | ❸ | ❶ |
+| Resilience to asymmetric shocks | ❹ | ❷ | ❸ | ❶ |
+| Initial implementation cost | ❶ | ❸ | ❹ | ❷ |
+| Falsifiability of stated promises | ❷ | ❸ | ❹ | ❶ |
+| Likely voluntary adoption | ❷ | ❸ | ❹ | ❶ |
+
+### Reading the grid
+
+The democratic strategy is **dominated on one criterion** (speed of response) and **dominant on five**. This profile is characteristic of a robust strategy in the sense of Taleb [2]: it sacrifices peak performance for systemic resilience.
+
+Speed of response is the single criterion where unregulated acceleration leads — but that very speed is what makes the risk of capture so high under that regime. The correlation is not coincidental: speed and concentration are structurally entangled.
+
+An anticipated objection deserves a direct reply. The column "centralized safety" scores poorly on falsifiability (❹). Why? Because the success criteria of closed safety labs are defined by the labs themselves, without an external audit mechanism. This claim is contestable; counter-examples are welcome.
+
+The grid is not an arbitration. It is a layout that exposes the trade space on which the substantive claims of this paper land.
 
 ---
 
@@ -487,6 +520,50 @@ but AI must not turn non-human legal persons into de facto sovereign actors.
 
 ---
 
+## 11.5 Coherence Kernel — DHITL ↔ Democratic AI Safety
+
+*Epistemic status: positive coherence claim — demonstration in progress.*
+
+The DHITL paper [5] makes the strong assertion that *infrastructure is all you need* for AI safety. The present paper argues that AI safety must additionally prevent AI-augmented legal persons from becoming de facto sovereign actors. Are these assertions complementary, redundant, or in tension?
+
+### Two levels of abstraction of one thesis
+
+DHITL and Democratic AI Safety operate at two distinct and complementary levels:
+
+| | DHITL | Democratic AI Safety |
+|---|---|---|
+| **Level** | Infrastructure / technical | Governance / political |
+| **Object** | Compute, energy, data | Institutions, rights, deliberation |
+| **Central claim** | Open infrastructure is technically sufficient | Democratic accountability is politically dominant |
+| **Central mechanism** | Human-in-the-loop via control of the infrastructure | Distribution of cognitive power; exclusion of non-human legal persons from sovereignty |
+
+These two theses compose:
+
+- Democratic governance **without** democratic infrastructure is captured by those who control the compute.
+- Open infrastructure **without** democratic governance remains anarchic or quickly drifts toward oligarchy.
+
+### The unified thesis
+
+> AI safety requires the synchronous co-evolution of infrastructures (DHITL) and institutions (Democratic AI Safety). One without the other is unstable.
+
+### Link to MareNostrum
+
+The MareNostrum project [6] is a concrete instantiation of this unified thesis:
+
+- **Infrastructure layer** — Mediterranean solar energy pooled into sovereign distributed compute (DHITL).
+- **Governance layer** — SCIC cooperative → sovereign communal fund → ascending subsidiarity (Democratic AI Safety).
+- **Economic layer** — compute token as a Mediterranean digital gold, supporting a communal basic income.
+
+The coherence is therefore not only logical; it is being implemented, which gives it a slightly higher epistemic status than a purely theoretical synthesis.
+
+### Residual tension
+
+DHITL asserts that infrastructure is *all you need*. The present paper implies that infrastructure does not suffice without a democratic frame. There is a choice to make: is infrastructure **necessary and sufficient**, or **necessary but not sufficient**?
+
+The proposed resolution: *"all you need"* in DHITL should be read as *"all you need at the infrastructure layer"* — democratic governance is presupposed as a higher layer, not folded into the infrastructure claim. This reading is coherent, but it should be made explicit in DHITL itself.
+
+---
+
 ## 12. Minimal Institutional Protocols
 
 The institutional proposals in this paper are intentionally minimal. They are not final blueprints.
@@ -741,6 +818,19 @@ This argument would be weakened if:
 - digital personhood were legally constrained in ways that permanently exclude political agency;
 - public Commons infrastructures proved more vulnerable to capture than existing democratic institutions;
 - Cogentia-like trace systems failed to improve navigability, criticism, or accountability.
+
+### Operational falsifiability conditions
+
+The general weakening conditions above can be operationalized. The thesis is revisable, or to be abandoned, if any of the following is demonstrated convincingly:
+
+| Condition | Operational criterion |
+|---|---|
+| **F1** | An alternative strategy presents, over a 30-year horizon, a documented safety/human-vitality ratio higher than that of at least two historical experiments in distributed democratic governance. |
+| **F2** | The democratic strategy fails to produce operational emergency mechanisms (response under 72 hours) in at least three realistic test cases. |
+| **F3** | The technical epistemic asymmetry between citizens and experts proves insurmountable even with structured subsidiarity of expertise (cf. §11 and §12). |
+| **F4** | The concentration of cognitive power under formal democracy turns out to be as high as under the other regimes, at comparable infrastructure. |
+
+These are not the only paths to falsification, but they are the ones the present author considers most decisive. Counter-proposals for additional or stricter operational conditions are welcome.
 
 ---
 
