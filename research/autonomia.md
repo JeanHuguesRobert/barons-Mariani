@@ -99,6 +99,8 @@ Si la réponse est non, l’autonomie reste incomplète.
 
 # 2. Généalogie rapide de l’autonomie corse
 
+Cette chronologie reprend notamment les travaux de Thierry Dominici sur le nationalisme corse contemporain et sur la trajectoire du FLNC, qui permettent de distinguer la séquence FPCL-Ghjustizia Paolina-Aléria-FLNC d’une lecture trop linéaire faisant d’Aléria l’unique origine de la clandestinité nationaliste contemporaine.
+
 ## 2.1. Paoli : autonomie exercée avant reconnaissance
 
 L’histoire corse offre un précédent essentiel : avant l’autonomie comme revendication, il y a eu l’autonomie comme exercice. Entre 1755 et 1769, Pasquale Paoli ne dispose pas d’une reconnaissance internationale stable, mais il construit des institutions. La Constitution de 1755, l’Université de Corte fondée en 1765, la monnaie, l’administration fiscale, la marine, les chemins et les outils de communication politique forment un ensemble de capacités institutionnelles, cognitives et matérielles.
@@ -778,11 +780,18 @@ La règle finale peut être formulée simplement :
 - Loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
 - Loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République.
 - Fazi, André. Travaux sur les institutions corses, le nationalisme et la vie politique insulaire.
+- Fazi, André. “Contemporary Corsica and French Constitutional Structures: The Hard Road From Integration to Autonomy.” In Jaime Lluch (ed.), *Constitutional Structures and Politics in Multinational Democracies*, Springer, 2026, pp. 269–295.
 - Crettiez, Xavier. Travaux sur la violence politique corse et le nationalisme insulaire.
 - Simeoni, Edmond, Max Simeoni, Roland Simeoni et al. *Autonomia : pour que vive le peuple corse*. Manifeste de l’Action pour la renaissance de la Corse (ARC), 1974. Version révisée publiée par l’Union du Peuple Corse, juin 1991.
 - Simeoni, Edmond. Textes et interventions sur l’autonomisme corse et l’après-Aléria.
 - INSEE Corse. Analyses démographiques et territoriales récentes.
 - Cour des comptes. Rapports sur l’immobilier universitaire, les universités et les territoires, et la gestion patrimoniale publique.
+
+## Nationalisme corse, violence politique et système partisan
+
+- Dominici, Thierry. « Le nationalisme dans la Corse contemporaine ». *Pôle Sud*, 2004/1, n° 20, p. 97-112. DOI : 10.3917/psud.020.0097.
+- Dominici, Thierry. *Le système partisan nationalitaire corse contemporain : étude d’un phénomène politique*. Working Paper n° 242, Institut de Ciències Polítiques i Socials, Barcelone, 2005.
+- Dominici, Thierry. « Vie et mort du Front de libération nationale corse ». *The Conversation*, 4 mai 2026.
 
 ---
 
