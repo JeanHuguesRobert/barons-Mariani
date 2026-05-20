@@ -4,7 +4,7 @@
 **Auteur :** Jean Hugues Robert  
 **Statut :** brouillon conceptuel, politique, juridique et opérationnel pour revue critique  
 **Écosystème lié :** Inseme, Kudocracy, Cogentia, Paese Capace, FractaVolta, Institut Mariani  
-**Emplacement suggéré :** `research/kudos/kudos.md`  
+**Emplacement :** `research/kudos.md`
 **Licence suggérée :** CC BY 4.0 pour le texte ; licence logicielle ouverte à préciser pour les composants techniques  
 
 > Ce document formalise un travail engagé de longue date. Il ne prétend pas répondre exhaustivement à toutes les questions juridiques, fiscales, techniques ou institutionnelles. Il vise d’abord à déterminer si une expérimentation minimale et sérieuse est possible, ou si elle sera entravée avant même de pouvoir produire une preuve de terrain. Le travail se poursuit à son rythme, selon les priorités disponibles.
