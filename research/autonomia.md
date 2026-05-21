@@ -865,3 +865,14 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - Comment articuler expérimentation locale et égalité territoriale ?
 
 ---
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+
+<!-- END_AUTO: backlinks -->

@@ -250,3 +250,15 @@ Cette note doit être reliée aux autres documents du corpus sur :
 Elle est volontairement incomplète.
 
 Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais construire une capacité démocratique à documenter les actes d’emprise sans basculer dans une société de surveillance.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+- [The Republic of Donkeys](../the_republic_of_donkeys.md)
+- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+
+<!-- END_AUTO: backlinks -->

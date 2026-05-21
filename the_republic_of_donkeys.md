@@ -237,5 +237,7 @@ The experiment is ongoing. Observations are provisional. Participation is open t
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
+- [Democratic AI Safety](research/democratic_ai_safety.md)
+- [Traçabilité civique anti-mafieuse](research/traceabilite_civique_antimafia.md)
 
 <!-- END_AUTO: backlinks -->

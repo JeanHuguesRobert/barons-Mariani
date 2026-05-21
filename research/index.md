@@ -24,6 +24,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [La pathologie du secret — Imputabilité humaine, traçabilité démocratique et refus de l'irresponsabilité artificielle (FR)](pathologie_du_secret.md) *(working paper v0.4 — droit positif français/européen, cas DataJust ; pendant juridique de Democratic AI Safety)* | this repo | 2026-05-20 |
 | [Kudocracy — Recommandation civique traçable, votations et démocratie liquide assistée par agents (FR)](kudocracy.md) *(working paper v0.1)* | this repo | 2026-05-20 |
 | [Kudos — Une monnaie complémentaire maussienne, adossée à l'euro (FR)](kudos.md) *(working paper draft v0.3)* | this repo | 2026-05-20 |
+| [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
@@ -79,3 +80,39 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 *Priority established by first public commit. License: CC BY-SA 4.0.*
 *Fork to explore alternatives. Challenge via issues.*
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Discours de la seconde méthode](second_method.md)
+- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
+- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
+- [VIGILIA](../vigilia.md)
+- [Kudocracy](kudocracy.md)
+- [Autonomia](autonomia.md)
+- [Democratic AI Safety](democratic_ai_safety.md)
+- [La pathologie du secret](pathologie_du_secret.md)
+- [The Republic of Donkeys](../the_republic_of_donkeys.md)
+- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
+- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
+- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+- [ai-based-cultural-mediation.md](../ai-based-cultural-mediation.md)
+- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
+- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
+- [*Invidia*, envie et désir mimétique](../invidia.md)
+- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
+- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
+- [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
+- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
+- [What is Potentics?](potentics.md)
+- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
+- [Sailing the Cognitive Waves](cognitive_waves.md)
+- [Territoires possibilistes](territoires_possibilistes.md)
+- [Concept Index — barons-Mariani](concepts.md)
+
+<!-- END_AUTO: backlinks -->

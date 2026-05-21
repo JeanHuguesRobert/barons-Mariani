@@ -8,8 +8,6 @@ version: "0.1"
 date: "2026-05-20"
 status: "working paper — draft initial"
 license: "CC BY-SA 4.0"
-repository: "github.com/JeanHuguesRobert/barons-Mariani"
-path: "research/kudocracy.md"
 related:
   - "./second_method.md"
   - "./autonomia.md"
@@ -985,3 +983,13 @@ Robert, J. H. N. (2026). *Discours de la seconde méthode*. Institut Mariani / C
 Robert, J. H. N. (2026). *Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse*. Institut Mariani / C.O.R.S.I.C.A. https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
 
 Robert, J. H. N. (2026). *Cognitive Packets*. Cogentia. https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

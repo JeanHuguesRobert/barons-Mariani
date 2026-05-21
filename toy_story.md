@@ -7,8 +7,7 @@ date: 2026-05-10
 iteration: 6
 agent_last: "ChatGPT — distributed_epistemics branch"
 input_version: "article-v5.md"
-status: "living working paper"
-repository: "github.com/JeanHuguesRobert/barons-Mariani"
+status: "working-paper"
 license: "CC BY-SA 4.0"
 
 continuation:

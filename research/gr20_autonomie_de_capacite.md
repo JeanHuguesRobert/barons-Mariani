@@ -5,8 +5,6 @@ author: "Jean Hugues Noël Robert"
 context: "Candidature sénatoriale en Haute-Corse"
 date: "2026-05-16"
 status: "draft"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "research/gr20_autonomie_de_capacite.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/gr20_autonomie_de_capacite.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
@@ -458,3 +456,15 @@ La ligne directrice doit rester stable :
 - ne pas réduire la montagne corse à un produit touristique ;
 - ne pas administrer les pics uniquement par interdiction ;
 - transformer les flux en capacités durables pour le territoire et ses habitants.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+
+<!-- END_AUTO: backlinks -->

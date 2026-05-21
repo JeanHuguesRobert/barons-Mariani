@@ -399,5 +399,7 @@ YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San 
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
+- [GR20 : du quota à l’autonomie de capacité](research/gr20_autonomie_de_capacite.md)
+- [Autonomia](research/autonomia.md)
 
 <!-- END_AUTO: backlinks -->
