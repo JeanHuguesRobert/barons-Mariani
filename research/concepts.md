@@ -341,7 +341,7 @@ A conceptual representation technique acting as half a joke and half a cultural 
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
 
 <!-- END_AUTO: backlinks -->

@@ -256,9 +256,9 @@ Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais c
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [The Republic of Donkeys](../the_republic_of_donkeys.md)
 - [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
 
 <!-- END_AUTO: backlinks -->

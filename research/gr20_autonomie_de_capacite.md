@@ -462,9 +462,9 @@ La ligne directrice doit rester stable :
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
 - [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
 
 <!-- END_AUTO: backlinks -->

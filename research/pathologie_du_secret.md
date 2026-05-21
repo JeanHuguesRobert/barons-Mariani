@@ -969,8 +969,8 @@ Créer trois fichiers compagnons :
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [Democratic AI Safety](democratic_ai_safety.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
 
 <!-- END_AUTO: backlinks -->

@@ -165,7 +165,7 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
+- [Corpus Status — barons-Mariani](research/corpus-status.md)
 
 <!-- END_AUTO: backlinks -->

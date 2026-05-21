@@ -1006,9 +1006,9 @@ It is constitutional.
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [La pathologie du secret](pathologie_du_secret.md)
 - [The Republic of Donkeys](../the_republic_of_donkeys.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
 
 <!-- END_AUTO: backlinks -->
