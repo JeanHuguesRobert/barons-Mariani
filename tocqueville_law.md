@@ -1,3 +1,8 @@
+---
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
+---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [Autonomia](research/autonomia.md) | ➡️ Next: [GR20 : du quota à l'autonomie de capacité](research/gr20_autonomie_de_capacite.md)

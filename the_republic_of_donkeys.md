@@ -1,3 +1,8 @@
+---
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
+---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [Traçabilité civique anti-mafieuse](research/traceabilite_civique_antimafia.md) | ➡️ Next: [Democratic AI Safety](research/democratic_ai_safety.md)

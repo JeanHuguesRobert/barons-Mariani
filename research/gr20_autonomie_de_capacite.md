@@ -8,6 +8,8 @@ status: "draft"
 repository: "JeanHuguesRobert/barons-Mariani"
 path: "research/gr20_autonomie_de_capacite.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/gr20_autonomie_de_capacite.md
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-18
 ---
 
