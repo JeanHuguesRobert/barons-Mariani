@@ -12,13 +12,15 @@ repository: "github.com/JeanHuguesRobert/barons-Mariani"
 path: "research/kudocracy.md"
 related:
   - "./second_method.md"
-  - "./autonomie_de_capacite.md"
+  - "./autonomia.md"
   - "./pathologie_du_secret.md"
   - "https://github.com/JeanHuguesRobert/cogentia"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/cognitive_packet.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
 changelog:
   - "v0.1 (2026-05-20) — premier draft : distinction votation/élection, recommandation/délégation, agents humains et artificiels, agent IA personnel, passage au crible de la seconde méthode, continuation."
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md
+last_stamped_at: 2026-05-20
 ---
 
 # Kudocracy
@@ -980,6 +982,6 @@ Utke, M., & Schmidt-Kraepelin, U. (2023). *Anonymous and Copy-Robust Delegations
 
 Robert, J. H. N. (2026). *Discours de la seconde méthode*. Institut Mariani / C.O.R.S.I.C.A. https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md
 
-Robert, J. H. N. (2026). *Autonomie de capacité*. Institut Mariani / C.O.R.S.I.C.A. https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomie_de_capacite.md
+Robert, J. H. N. (2026). *Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse*. Institut Mariani / C.O.R.S.I.C.A. https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
 
 Robert, J. H. N. (2026). *Cognitive Packets*. Cogentia. https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md

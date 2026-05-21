@@ -212,6 +212,90 @@ The faculty of a territory to convert its territorial capital — natural resour
 
 ---
 
+## Kudocracy
+
+**Type:** political framework / civic recommendation layer
+**Scope:** project-specific
+**Status:** Defined
+
+**Short definition:**
+A traceable civic-recommendation layer for *votations* (issue-level decisions), complementary to liquid democracy and adjacent to representative mandates. Distinguishes votation from election, recommendation from delegation, and human from artificial agents — and locates a personal AI agent (a Cogentia) inside that grid as a contributor rather than a substitute.
+
+**Parent concepts:**
+- Possibilism
+- Auto-institution démocratique (Castoriadis)
+
+**Related concepts:**
+- Autonomie de capacité
+- Kudos
+- Pathologie du secret
+- Cognitive Packet
+
+**Reference documents:**
+- `research/kudocracy.md` (working paper, v0.1)
+- `research/second_method.md`
+
+**Used in:**
+- Kudocracy as an Inseme brique (proposed)
+- senatorial campaign, Haute-Corse, September 2026
+
+---
+
+## Kudos
+
+**Type:** monetary mechanism / commons-economic instrument
+**Scope:** project-specific
+**Status:** Defined
+
+**Short definition:**
+A Maussian complementary currency, euro-backed, designed by superposition rather than substitution: the euro closes the underlying transaction; Kudos opens a public, voluntary, nominative, transparent, traceable, and partially convertible counter-gift layer on top. Aims to reveal — by experiment — what currently obstructs the rational exploration of the possible.
+
+**Parent concepts:**
+- Possibilism
+- Communs (Ostrom)
+
+**Related concepts:**
+- Kudocracy
+- Autonomie de capacité
+- Mauss — gift / counter-gift
+
+**Reference documents:**
+- `research/kudos.md` (working paper, draft v0.3)
+
+**Used in:**
+- Inseme ecosystem (Kudocracy adjacency)
+- prospective Corsican-territorial pilot
+
+---
+
+## Pathologie du secret
+
+**Type:** legal-doctrinal framework
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+The doctrine that human imputability — already required by patent and copyright law for private rights when AI assists — must apply more strongly to public acts, administrative decisions, judicial assistance systems, and digital commons. Algorithmic opacity in public-facing systems is treated not as inconvenience but as a democratic pathology in itself.
+
+**Parent concepts:**
+- Democratic AI Safety (thesis kernel)
+- The Second Method
+
+**Related concepts:**
+- DHITL — Democratic Humans in the Loop
+- Cogentia Commons (auditable knowledge)
+- Traçabilité civique anti-mafieuse
+
+**Reference documents:**
+- `research/pathologie_du_secret.md` (working paper, v0.4)
+- `research/democratic_ai_safety.md`
+
+**Used in:**
+- companion-paper status to *Democratic AI Safety* (French/European positive law anchor)
+- DataJust case study
+
+---
+
 ## The Second Method
 
 **Type:** epistemological framework

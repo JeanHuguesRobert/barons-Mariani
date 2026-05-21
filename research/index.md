@@ -21,6 +21,9 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [GR20 : du quota à l'autonomie de capacité (FR)](gr20_autonomie_de_capacite.md) *(note de campagne — application montagne)* | this repo | 2026-05-16 |
 | [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
 | [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |
+| [La pathologie du secret — Imputabilité humaine, traçabilité démocratique et refus de l'irresponsabilité artificielle (FR)](pathologie_du_secret.md) *(working paper v0.4 — droit positif français/européen, cas DataJust ; pendant juridique de Democratic AI Safety)* | this repo | 2026-05-20 |
+| [Kudocracy — Recommandation civique traçable, votations et démocratie liquide assistée par agents (FR)](kudocracy.md) *(working paper v0.1)* | this repo | 2026-05-20 |
+| [Kudos — Une monnaie complémentaire maussienne, adossée à l'euro (FR)](kudos.md) *(working paper draft v0.3)* | this repo | 2026-05-20 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |

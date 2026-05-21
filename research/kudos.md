@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md
+last_stamped_at: 2026-05-20
+---
 # Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles
 
 **Working paper — draft v0.3**  

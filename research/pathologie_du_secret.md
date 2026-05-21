@@ -1,3 +1,13 @@
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+
+<!-- END_AUTO: trails -->
+
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md
+last_stamped_at: 2026-05-20
+---
 # La pathologie du secret
 ## Imputabilité humaine, traçabilité démocratique et refus de l’irresponsabilité artificielle
 
