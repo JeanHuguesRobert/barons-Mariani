@@ -963,3 +963,14 @@ Créer trois fichiers compagnons :
 > **Une trace qui ne peut pas devenir preuve n’est qu’un bruit administratif.**
 
 > **La protection par le secret peut être une sécurité opérationnelle. L’obscurité structurelle est une irresponsabilité politique.**
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+- [Democratic AI Safety](democratic_ai_safety.md)
+
+<!-- END_AUTO: backlinks -->

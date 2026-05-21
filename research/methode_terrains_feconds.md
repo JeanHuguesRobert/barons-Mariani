@@ -1,11 +1,19 @@
+---
+title: "La méthode des terrains féconds"
+subtitle: "Dépolariser par reconfiguration préalable des oppositions"
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-21"
+version: "0.4"
+status: "working-paper"
+license: "CC BY-SA 4.0"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md
+last_stamped_at: 2026-05-21
+---
+
 # La méthode des terrains féconds
 
 ## Dépolariser par reconfiguration préalable des oppositions
-
-**Version :** v0.4  
-**Statut :** Working paper conceptuel  
-**Auteur :** Jean Hugues Robert  
-**Projet :** Barons Mariani / Institut Mariani  
 
 ---
 
@@ -1235,3 +1243,13 @@ Formule directrice pour la suite :
 
 > Avant de débattre d’une opposition, vérifions si le terrain qui la produit est fécond. Si ce terrain est stérile, ne cherchons pas seulement de meilleurs arguments : redessinons le terrain.
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->
