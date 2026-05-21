@@ -134,6 +134,90 @@ MareNostrum est la couche stratégique.
 
 ---
 
+### 🇫🇷 *Autonomia* — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse
+
+*Working paper v0.12 — concept central de la campagne sénatoriale.*
+
+Propose la notion d'**autonomie de capacité** : la faculté d'un territoire à
+convertir son capital territorial en capabilités collectives effectives,
+indépendamment du degré exact de souveraineté formelle. §2.6 annonce le **test
+1755** (reconnaissance internationale de la République corse), première
+auto-application publique, conduite avec ou sans mandat — condition logique de
+la thèse, non concession tactique.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Journal du test 1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+
+---
+
+### 🇫🇷 *Kudocracy* — Recommandation civique traçable, votations et démocratie liquide assistée par agents
+
+*Working paper v0.1 — couche de recommandation civique pour votations.*
+
+Distingue **votation** (vote sur proposition) d'**élection** (vote sur personne),
+**recommandation** de **délégation**. Citoyens peuvent s'abonner à des
+recommandations traçables émises par agents humains, collectifs ou
+artificiels. Un agent IA personnel peut agir comme gardien civique — comparer
+les recommandations, détecter les incohérences, protéger les intérêts long-terme.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md)
+
+---
+
+### 🇫🇷 *Kudos* — Monnaie complémentaire maussienne, adossée à l'euro
+
+*Working paper draft v0.3 — gift/counter-gift au-dessus de la transaction monétaire.*
+
+Mécanique de **superposition plutôt que substitution** : l'euro clôt la
+transaction marchande ; Kudos ouvre une couche parallèle de contre-don —
+publique, volontaire, nominative, transparente, traçable, partiellement
+convertible. Vise à révéler par expérimentation les entraves à l'exploration
+rationnelle des possibles.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudos.md)
+
+---
+
+### 🇫🇷 *La pathologie du secret* — Imputabilité humaine, traçabilité démocratique, refus de l'irresponsabilité artificielle
+
+*Working paper v0.4 — pendant juridique de Democratic AI Safety, droit positif français et européen.*
+
+Soutient que l'exigence d'imputabilité humaine que les juridictions imposent
+déjà en droit des brevets et du droit d'auteur (lorsque l'IA assiste un droit
+privé) doit s'appliquer **plus fortement encore** aux actes publics,
+administratifs, judiciaires et aux communs numériques. Étude de cas : DataJust.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md)
+
+---
+
+### 🇫🇷 *La méthode des terrains féconds* — Dépolariser par reconfiguration préalable des oppositions
+
+*Working paper v0.4 — protocole pré-délibératif.*
+
+Propose une **méthode des terrains féconds** : avant l'affrontement
+argumentatif, identifier les vérités partielles portées par les positions
+adverses, repérer leurs pathologies d'absolutisation, replacer chaque vérité à
+la couche où elle devient légitime, limitée et composable. Exemple fondateur :
+l'opposition capitalisme/collectivisme reconfigurée comme **protocole commun,
+opérations libres**.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md)
+
+---
+
+### 🇬🇧 *Democratic AI Safety* — Why AI Safety must protect human sovereignty against AI-augmented legal persons
+
+*Working paper draft v0.5 — thèse politique de la couche AI Safety.*
+
+Soutient que l'AI Safety technique est **layer-incomplete** : un modèle
+alignable par son déployeur peut néanmoins accélérer des personnes morales
+augmentées par IA contre le démos. Anti-capture est une préoccupation de
+safety. Pendant juridique : *La pathologie du secret*.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md)
+
+---
+
 ### 🇬🇧 *The Generalized Tocqueville Law* — Progress, rising expectations, and the structural production of dissatisfaction
 
 *A soumettre peut-être  à l'European Journal of Social Theory.*
