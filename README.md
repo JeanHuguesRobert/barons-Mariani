@@ -21,16 +21,20 @@ versant diagnostic : comprendre pourquoi les institutions centralisées échouen
 structurellement, et comment une gouvernance distribuée et anti-capture peut
 être conçue à Corte, en Corse, en Méditerranée.
 
-Ce dépôt est également un nœud du **corpus à cinq dépôts** (barons-Mariani,
-[MareNostrum](https://github.com/JeanHuguesRobert/marenostrum),
-[FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta),
-[Cogentia](https://github.com/JeanHuguesRobert/cogentia),
-[inseme](https://github.com/JeanHuguesRobert/inseme)) qui opérationnalise
+Ce dépôt est également un nœud du **corpus à cinq dépôts** qui opérationnalise
 ensemble la proposition d'infrastructure souveraine méditerranéenne — pile
 intégrée à quatre couches (énergie, compute, cognition, civique), exploitée par
 FractaVolta. La méthodologie commune — *Discours de la seconde méthode* —
 vit dans ce dépôt :
 [research/second_method.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md).
+
+| Dépôt | Rôle |
+|---|---|
+| [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum) | Cadre stratégique. Spécification CXU, axiome DHITL, commun solaire méditerranéen. |
+| [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta) | Bureau d'études + éditeur logiciel + opérateur de la pile intégrée. EPN, nœuds DC-natifs, PGN, IPN, Mariani Village. |
+| [Cogentia](https://github.com/JeanHuguesRobert/cogentia) | Outillage d'infrastructure cognitive. CLI `cogentia.js`, méthodologie Cogentia Commons, protocole de continuation. |
+| [inseme](https://github.com/JeanHuguesRobert/inseme) | Plateforme — runtime COP, briques, Kudocracy.Survey, Inseme Agora, médiateur IA Ophélia, Atlas de la Biodiversité. |
+| **barons-Mariani** | **Cadre politique et institutionnel. Plan 2038, candidature sénatoriale, *Discours de la seconde méthode*.** |
 
 Publié en continu selon le principe du *design in the open*.
 Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com).
@@ -262,5 +266,5 @@ issus de Wikimedia Commons (licence propre). Le blason est issu de l'
 
 ---
 
-*Jean Hugues Noël Robert, baron Mariani — Institut Mariani, 1 cours Paoli,
-F-20250 Corte — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
+*Licence : CC BY-SA 4.0 (textes et données) — sauf éléments héraldiques (licence propre).*
+*Auteur : Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corse — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
