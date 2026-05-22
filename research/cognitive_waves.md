@@ -1049,7 +1049,7 @@ Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent s
 ### Backlinks
 
 *These documents link to this file:*
-- [Research Index — barons-Mariani](index.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 
 <!-- END_AUTO: backlinks -->

@@ -3,7 +3,7 @@ title: "Corpus Status — barons-Mariani"
 description: "Current state of the barons-Mariani knowledge corpus — what is proved, what is open, what remains possible"
 layout: default
 nav_order: 2
-last_modified_at: 2026-05-21
+last_modified_at: 2026-05-22
 repository: "github.com/JeanHuguesRobert/barons-Mariani"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corpus-status.md
 last_stamped_at: 2026-05-16
@@ -24,12 +24,12 @@ last_stamped_at: 2026-05-16
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-05-21 |
-| FractaVolta | ✅ | main | 2026-05-21 |
-| marenostrum | ✅ | main | 2026-05-21 |
+| cogentia | ✅ | main | 2026-05-22 |
+| FractaVolta | ✅ | main | 2026-05-22 |
+| marenostrum | ✅ | main | 2026-05-22 |
 | barons-Mariani | ✅ | main | 2026-05-21 |
 | inseme | ✅ | main | 2026-05-21 |
-| Inox | ✅ | master | 2026-04-19 |
+| Inox | ✅ | master | 2026-05-22 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -265,35 +265,35 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
-- [Research Index — barons-Mariani](index.md)
-- [Autonomia](autonomia.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
-- [La pathologie du secret](pathologie_du_secret.md)
-- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
-- [The Republic of Donkeys](../the_republic_of_donkeys.md)
-- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
-- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
-- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
-- [Discours de la seconde méthode](second_method.md)
-- [Kudocracy](kudocracy.md)
-- [La méthode des terrains féconds](methode_terrains_feconds.md)
-- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
-- [VIGILIA](../vigilia.md)
 - [ai-based-cultural-mediation.md](../ai-based-cultural-mediation.md)
 - [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
-- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
-- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
 - [*Invidia*, envie et désir mimétique](../invidia.md)
-- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
 - [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
 - [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
+- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
+- [Autonomia](autonomia.md)
+- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Democratic AI Safety](democratic_ai_safety.md)
+- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
+- [Research Index — barons-Mariani](index.md)
+- [Kudocracy](kudocracy.md)
+- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
+- [La méthode des terrains féconds](methode_terrains_feconds.md)
+- [La pathologie du secret](pathologie_du_secret.md)
 - [What is Potentics?](potentics.md)
+- [Discours de la seconde méthode](second_method.md)
 - [Territoires possibilistes](territoires_possibilistes.md)
+- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
 - [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
+- [The Republic of Donkeys](../the_republic_of_donkeys.md)
+- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
 - [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
 - [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
+- [VIGILIA](../vigilia.md)
 
 <!-- END_AUTO: backlinks -->
