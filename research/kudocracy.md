@@ -41,13 +41,6 @@ changelog:
 
 ## Suggestions civiques traçables, votations et démocratie liquide assistée par agents
 
-**Jean Hugues Noël Robert**  
-*Institut Mariani — C.O.R.S.I.C.A. / Inseme / Cogentia*  
-
-**Version 0.2 — working paper**  
-**Date : 22 mai 2026**  
-**Emplacement prévu : `barons-Mariani/research/kudocracy.md`**
-
 ---
 
 ## Abstract
