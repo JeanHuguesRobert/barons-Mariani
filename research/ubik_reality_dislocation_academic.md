@@ -2,7 +2,7 @@
 ## Academic Article Outline
 
 **Status:** Academic outline v0.1  
-**Repository target:** `barons-Mariani/research/ubik_reality_dislocation_academic_outline.md`  
+**Repository target:** `barons-Mariani/research/ubik_reality_dislocation_academic.md`  
 **Source corpus:** `barons-Mariani/research/ubik_reality_dislocation.md`  
 **Near-symmetric derived essay:** `barons-Mariani/research/apres_ubik_essai_critique_art.md`  
 **Language:** English, with possible French submission variant  
