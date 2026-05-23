@@ -488,7 +488,7 @@ Une manière pour la réalité de tenir.
 
 ## Note de dérivation
 
-Cet essai est dérivé de `barons-Mariani/research/ubik_reality_dislocation.md`.
+Cet essai est dérivé de [barons-Mariani/research/ubik_reality_dislocation.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ubik_reality_dislocation.md).
 
 Il n’est volontairement pas une version simplifiée de la source. C’est un essai de recherche décliné quasi symétrique : la même architecture conceptuelle apparaît sous la forme d’une critique d’art.
 
