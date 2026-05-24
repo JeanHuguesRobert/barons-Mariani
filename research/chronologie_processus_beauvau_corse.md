@@ -1,7 +1,7 @@
 ---
 title: "Chronologie documentaire du processus de Beauvau"
 subtitle: "De l’agression d’Yvan Colonna, puis de son décès, au projet constitutionnel d’autonomie de la Corse"
-status: documentary_timeline_v0.15
+status: documentary_timeline_v0.16
 repository: barons-Mariani
 path: research/chronologie_processus_beauvau_corse.md
 language: fr
@@ -46,6 +46,11 @@ Mars 2022 : la crise corse conduit Gérald Darmanin à évoquer publiquement une
 17 juillet 2025 : le Conseil d’État rend un avis sur le projet de loi constitutionnelle.
 30 juillet 2025 : le Gouvernement présente le projet en Conseil des ministres et le dépose au Sénat.
 27 avril 2026 : le texte est retiré du Sénat et redéposé à l’Assemblée nationale sous le n° 2697.
+6 mai 2026 : Michel Castellani indique que le texte initial, validé par l’Assemblée de Corse, doit être examiné dans l’hémicycle.
+7 mai 2026 : Florent Boudié est nommé rapporteur du projet n° 2697 et le calendrier parlementaire est précisé.
+21 mai 2026 : Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis sont auditionnés à l’Assemblée nationale par Florent Boudié dans le cadre de l’examen du projet.
+21 mai 2026 : Core in Fronte intervient publiquement sur le lien entre municipales, mouvement national et autonomie.
+27 et 28 mai 2026 : déplacement annoncé de Florent Boudié en Corse, avec rencontres institutionnelles et territoriales.
 2 juin 2026 : l’agenda prévisionnel de la commission des lois prévoit l’audition de Françoise Gatel et l’examen du projet.
 ```
 
@@ -137,6 +142,11 @@ Lorsqu’une source rapporte une citation, celle-ci n’est pas développée lon
 | 24 avril 2026 | Rapport | Françoise Gatel annonce un examen possible mi-juin en commission des lois lors d’un déplacement en Corse. | Alta Frequenza |
 | 27 avril 2026 | Décision | Retrait du texte n° 869 au Sénat et dépôt à l’Assemblée nationale du projet n° 2697. | Sénat / Assemblée nationale |
 | 28 avril 2026 | Article / analyse | Le Parisien documente la relance du texte à l’Assemblée nationale et l’urgence politique avant 2027. | Le Parisien |
+| 6 mai 2026 | Déclaration / article | Michel Castellani indique que le texte initial de la réforme constitutionnelle, validé par l’Assemblée de Corse, doit être examiné dans l’hémicycle. | Corsenetinfos |
+| 7 mai 2026 | Agenda / décision parlementaire | Florent Boudié est nommé rapporteur du projet n° 2697 ; la commission des lois précise un calendrier d’auditions, de déplacement en Corse et d’examen du texte. | Alta Frequenza / Assemblée nationale |
+| 21 mai 2026 | Fait / audition | Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis sont auditionnés par Florent Boudié et rencontrent ensuite Françoise Gatel ; les élus corses qualifient la séquence de positive. | Corsenetinfos |
+| 21 mai 2026 | Déclaration / réaction politique | Core in Fronte relie municipales, autonomie et responsabilité du mouvement national, en appelant à sortir de la gestion routinière des affaires corses. | Alta Frequenza |
+| 27 et 28 mai 2026 | Agenda | Déplacement annoncé de Florent Boudié en Corse : Bastia, Assemblée de Corse, Conseil exécutif, groupes de l’hémicycle, maires, CESEC et société civile. | Corsenetinfos / Alta Frequenza |
 
 *Sources détaillées dans la chronologie complète ci-après.*
 
@@ -1026,6 +1036,110 @@ Source :
 ---
 
 
+### 6 mai 2026 — Michel Castellani indique que le texte initial doit être examiné dans l’hémicycle
+
+**Type d’entrée :** Déclaration / article.
+
+
+Le 6 mai 2026, Corsenetinfos publie un entretien avec Michel Castellani, député de la 1re circonscription de Haute-Corse et membre du groupe LIOT. Il indique que la commission des lois de l’Assemblée nationale s’est saisie du texte et que, selon lui, le texte initial de la réforme constitutionnelle, validé par l’Assemblée de Corse, doit être examiné dans l’hémicycle.
+
+Cet entretien est utile à la chronologie pour trois raisons documentaires :
+
+```text
+1. il confirme que la séquence parlementaire a effectivement repris à l’Assemblée nationale ;
+2. il met en avant la distinction entre le texte initial issu du compromis politique et les corrections ou réserves du Conseil d’État ;
+3. il donne une première cartographie parlementaire prudente : bloc central et LIOT plutôt favorables, réserves chez LR, hostilité du RN, positions plus diverses à gauche.
+```
+
+Michel Castellani y insiste également sur l’importance de la future loi organique, qu’il présente comme le lieu où devront se jouer les effets concrets du statut, notamment sur les plans économique, fiscal, culturel et éducatif.
+
+Source :
+- Corsenetinfos, Nicole Mari, « Michel Castellani : “C’est le texte initial de la réforme constitutionnelle qui sera examiné dans l’hémicycle” », 6 mai 2026 :  
+  https://www.corsenetinfos.corsica/Michel-Castellani-C-est-le-texte-initial-de-la-reforme-constitutionnelle-qui-sera-examine-dans-l-hemicycle_a90540.html
+
+---
+
+### 7 mai 2026 — Florent Boudié nommé rapporteur et calendrier parlementaire précisé
+
+**Type d’entrée :** Agenda / décision parlementaire.
+
+
+Le 7 mai 2026, Alta Frequenza rapporte que la commission des lois de l’Assemblée nationale a précisé le calendrier d’examen du projet de loi constitutionnelle sur l’autonomie de la Corse. Florent Boudié, président de la commission des lois, se nomme lui-même rapporteur du projet de loi.
+
+Selon Alta Frequenza, le calendrier annoncé prévoit :
+
+```text
+- premières auditions à partir du lundi suivant, pour deux semaines ;
+- déplacement de Florent Boudié en Corse les 27 et 28 mai 2026 ;
+- examen en commission la première semaine de juin ;
+- examen en séance publique envisagé à partir du mardi 16 juin 2026.
+```
+
+Ce jalon marque le passage de la relance politique d’avril 2026 à une séquence parlementaire organisée : rapporteur identifié, auditions, déplacement en Corse, examen en commission, puis tentative d’inscription en séance publique.
+
+Sources :
+- Alta Frequenza, Julien Pernici, « Projet de loi constitutionnel sur l’autonomie de la Corse : Florent Boudié nommé rapporteur, le calendrier précisé », 7 mai 2026 :  
+  https://www.alta-frequenza.corsica/index.php/actu/projet_de_loi_constitutionnel_sur_l_autonomie_de_la_corse_florent_boudie_nomme_rapporteur_le_calendrier_precise_128480
+- Assemblée nationale, agenda de la commission des lois :  
+  https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/lois/agenda?limit=5&reunions=futures
+
+---
+
+### 21 mai 2026 — Audition de Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis par Florent Boudié
+
+**Type d’entrée :** Fait / audition.
+
+
+Le 21 mai 2026, Corsenetinfos rapporte que Gilles Simeoni, désormais conseiller exécutif en charge de l’autonomie et maire de Bastia, Gilles Giovannangeli, nouveau président du Conseil exécutif, et Marie-Antoinette Maupertuis, présidente de l’Assemblée de Corse, ont été auditionnés ensemble par Florent Boudié dans le cadre de l’examen du projet de loi à l’Assemblée nationale.
+
+L’article indique que l’audition s’est tenue devant une dizaine de députés de la commission des lois représentant l’ensemble des groupes politiques, en présence de parlementaires corses. Les élus corses qualifient l’audition de positive, tout en soulignant la nécessité d’un effort de pédagogie sur l’histoire du processus et le contenu des écritures constitutionnelles.
+
+Corsenetinfos indique également que les trois élus corses se sont ensuite entretenus avec Françoise Gatel, ministre chargée de la décentralisation, qui aurait réaffirmé son soutien au processus et l’objectif gouvernemental de ne pas remettre en cause l’accord validé par l’Assemblée de Corse en mars 2024 et le compromis de Beauvau.
+
+Ce jalon est important parce qu’il documente l’entrée du dossier dans une phase d’explication parlementaire concrète : les responsables corses ne se contentent plus de défendre un accord politique local ; ils doivent le rendre intelligible et acceptable devant les groupes de l’Assemblée nationale.
+
+Source :
+- Corsenetinfos, Nicole Mari, « Autonomie de la Corse : “Une audition positive” dans le cadre de l’examen du projet de loi à l’Assemblée nationale », 21 mai 2026 :  
+  https://www.corsenetinfos.corsica/Autonomie-de-la-Corse-Une-audition-positive-dans-le-cadre-de-l-examen-du-projet-de-loi-a-l-Assemblee-nationale_a90793.html
+
+---
+
+### 21 mai 2026 — Core in Fronte relie municipales, autonomie et responsabilité du mouvement national
+
+**Type d’entrée :** Déclaration / réaction politique.
+
+
+Le 21 mai 2026, Alta Frequenza rapporte une conférence de presse de Core in Fronte à l’Assemblée de Corse. Le mouvement revient sur les élections municipales et s’exprime également sur le processus d’autonomie.
+
+Core in Fronte affirme que « le Mouvement National doit être le moteur de tout changement politique en Corse » et appelle à sortir de la gestion routinière des affaires corses. L’article signale aussi une critique interne au mouvement national, certains choix municipaux étant présentés par Core in Fronte comme des signes d’« archaïsme pro-français ».
+
+Ce jalon ne concerne pas directement la procédure parlementaire du projet n° 2697, mais il documente la manière dont le calendrier de l’autonomie interagit avec les rapports de force politiques corses, notamment à l’approche des municipales et des échéances territoriales.
+
+Source :
+- Alta Frequenza, Maria Lanfranchi, « Municipales et autonomie : “Le Mouvement National doit être le moteur de tout changement politique en Corse” indique Core in Fronte », 21 mai 2026 :  
+  https://www.alta-frequenza.corsica/index.php/actu/municipales_et_autonomie_le_mouvement_national_doit_etre_le_moteur_de_tout_changement_politique_en_corse_indique_core_in_fronte_128609
+
+---
+
+### 27 et 28 mai 2026 — Déplacement annoncé de Florent Boudié en Corse
+
+**Type d’entrée :** Agenda.
+
+
+À la date de mise à jour du présent document, le déplacement de Florent Boudié en Corse les 27 et 28 mai 2026 est annoncé mais non encore réalisé. Il doit donc être traité comme un jalon d’agenda, non comme un fait accompli.
+
+Selon Corsenetinfos, la séquence doit commencer le 27 mai à Bastia et se poursuivre le 28 mai à l’Assemblée de Corse. Le rapporteur doit être reçu par la présidente de l’Assemblée de Corse, Marie-Antoinette Maupertuis, puis par le président du Conseil exécutif, Gilles Giovannangeli, et son Conseil exécutif, puis par l’ensemble des groupes de l’hémicycle. Des rencontres avec l’association des maires, le CESEC et des personnalités de la société civile sont également annoncées.
+
+Ce déplacement est important car il constitue la dernière séquence territoriale connue avant l’examen du projet en commission des lois le 2 juin 2026.
+
+Sources :
+- Corsenetinfos, Nicole Mari, « Autonomie de la Corse : “Une audition positive” dans le cadre de l’examen du projet de loi à l’Assemblée nationale », 21 mai 2026 :  
+  https://www.corsenetinfos.corsica/Autonomie-de-la-Corse-Une-audition-positive-dans-le-cadre-de-l-examen-du-projet-de-loi-a-l-Assemblee-nationale_a90793.html
+- Alta Frequenza, Julien Pernici, « Projet de loi constitutionnel sur l’autonomie de la Corse : Florent Boudié nommé rapporteur, le calendrier précisé », 7 mai 2026 :  
+  https://www.alta-frequenza.corsica/index.php/actu/projet_de_loi_constitutionnel_sur_l_autonomie_de_la_corse_florent_boudie_nomme_rapporteur_le_calendrier_precise_128480
+
+---
+
 
 ## 3. Calendrier prévisionnel à compter du 24 mai 2026
 
@@ -1061,8 +1175,10 @@ Point de départ : projet de loi constitutionnelle n° 2697 déposé à l’Asse
 
 | Date ou période | Type | Probabilité documentaire | Jalon | Source |
 |---|---|---|---|---|
+| 27 et 28 mai 2026 | Agenda territorial | Très probable | Déplacement annoncé de Florent Boudié en Corse : Bastia, Assemblée de Corse, Conseil exécutif, groupes de l’hémicycle, maires, CESEC et société civile. | Corsenetinfos, 21 mai 2026 ; Alta Frequenza, 7 mai 2026 |
 | 2 juin 2026, 16h30 | Agenda | Très probable | Audition de Françoise Gatel, discussion générale et examen du projet n° 2697 en commission des lois. | Assemblée nationale, agenda de la commission des lois |
 | 2 juin 2026, 21h00 | Agenda | Probable | Suite possible de l’ordre du jour de l’après-midi. | Assemblée nationale, agenda de la commission des lois |
+| À partir du 16 juin 2026 | Agenda parlementaire | Probable mais à confirmer | Examen envisagé en séance publique, selon le calendrier relayé localement. | Alta Frequenza, 7 mai 2026 ; Corsenetinfos, 21 mai 2026 |
 | Juin 2026 | Agenda parlementaire | Probable | Tentative d’examen rapide du texte dans la fenêtre parlementaire disponible. | Le Parisien, 28 avril 2026 ; Alta Frequenza, 7 mai 2026 |
 | Après adoption éventuelle par l’Assemblée nationale | Procédure | Conditionnel | Transmission au Sénat ou navette parlementaire. | Procédure constitutionnelle ordinaire des projets de loi constitutionnelle |
 | Avant 2027 | Issue institutionnelle | Incertaine | Réunion éventuelle du Congrès si les deux assemblées adoptent un texte identique. | Constitution, article 89 ; analyses de presse sur la contrainte de calendrier |
@@ -1078,6 +1194,8 @@ Sources :
   https://www.leparisien.fr/politique/si-ce-nest-pas-avant-2027-cest-plie-le-gouvernement-met-les-bouchees-doubles-sur-lautonomie-de-la-corse-28-04-2026-RAZHB6DMHNEG5HD7ILEHY6RAEE.php
 - Alta Frequenza, Julien Pernici, 7 mai 2026 :  
   https://www.alta-frequenza.corsica/index.php/actu/projet_de_loi_constitutionnel_sur_l_autonomie_de_la_corse_florent_boudie_nomme_rapporteur_le_calendrier_precise_128480
+- Corsenetinfos, Nicole Mari, 21 mai 2026 :  
+  https://www.corsenetinfos.corsica/Autonomie-de-la-Corse-Une-audition-positive-dans-le-cadre-de-l-examen-du-projet-de-loi-a-l-Assemblee-nationale_a90793.html
 
 ---
 
@@ -1159,11 +1277,25 @@ Sources :
 
 Au 24 mai 2026, le texte est en phase d’examen parlementaire à l’Assemblée nationale, sous le numéro 2697, après retrait du projet n° 869 précédemment déposé au Sénat. La première discussion parlementaire effective se déplace donc vers la commission des lois de l’Assemblée nationale, avant une éventuelle navette et, en cas d’accord entre les deux assemblées sur un texte identique, une réunion du Congrès.
 
+Les développements de mai 2026 précisent cette phase :
+
+```text
+- 6 mai 2026 : Michel Castellani confirme publiquement que la commission des lois reprend le travail sur le texte et que l’objectif est de défendre le texte initial validé par l’Assemblée de Corse.
+- 7 mai 2026 : Florent Boudié est identifié comme rapporteur et le calendrier des auditions, du déplacement en Corse et de l’examen en commission est précisé.
+- 21 mai 2026 : Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis sont auditionnés à l’Assemblée nationale.
+- 27 et 28 mai 2026 : déplacement annoncé de Florent Boudié en Corse.
+- 2 juin 2026 : audition de Françoise Gatel, discussion générale et examen du projet en commission des lois.
+```
+
 Sources :
 - Assemblée nationale, dossier du projet de loi constitutionnelle n° 2697 :  
   https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique
+- Assemblée nationale, agenda de la commission des lois :  
+  https://www.assemblee-nationale.fr/dyn/17/organes/commissions-permanentes/lois/agenda?limit=5&reunions=futures
 - Sénat, dossier législatif du projet n° 869 :  
   https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Corsenetinfos, Nicole Mari, 21 mai 2026 :  
+  https://www.corsenetinfos.corsica/Autonomie-de-la-Corse-Une-audition-positive-dans-le-cadre-de-l-examen-du-projet-de-loi-a-l-Assemblee-nationale_a90793.html
 
 ---
 
@@ -2047,6 +2179,7 @@ Impact estimé : structurant / fort / significatif / contextuel / médiatique / 
 | Club des juristes | Plateforme doctrinale | Plateforme de vulgarisation juridique ayant publié une analyse récente sur l’autonomie de la Corse et ses implications constitutionnelles. | Ponctuelle doctrinale | Significatif pour la clarification juridique accessible. |
 | Commission des lois de l'Assemblée nationale | Institution parlementaire | Commission saisie au fond du projet de loi constitutionnelle n° 2697 ; organise l'audition de la ministre, la discussion générale et l'examen du texte. | Forte dans la phase 2026 | Structurant dans la phase parlementaire à l'Assemblée nationale. |
 | Commission des lois du Sénat | Institution parlementaire | Commission sénatoriale ayant conduit les travaux d'information sur l'évolution institutionnelle de la Corse et concernée par le dépôt initial du projet n° 869 avant son retrait. | Forte en 2024-2025 | Structurant pour comprendre les résistances et divergences sénatoriales. |
+| Core in Fronte | Organisation politique corse | Mouvement indépendantiste intervenant dans la séquence de mai 2026 pour relier municipales, autonomie et responsabilité du mouvement national. | Ponctuelle dans le document actuel | Significatif pour documenter les critiques internes au camp nationaliste et le lien entre autonomie et échéances locales. |
 | Congrès du Parlement | Institution constitutionnelle conditionnelle | Réunion des députés et sénateurs à Versailles pouvant approuver un projet de révision constitutionnelle à la majorité des trois cinquièmes, si le Président de la République choisit cette voie plutôt que le référendum. | Future / conditionnelle | Potentiellement décisif pour l'issue finale de la révision. |
 | Conseil constitutionnel | Institution constitutionnelle | Juridiction constitutionnelle dont la décision n° 91-290 DC du 9 mai 1991 constitue un précédent central sur la notion de « peuple corse » ; pourrait être concernée ultérieurement par le contrôle d'une loi organique d'application. | Indirecte à ce stade | Structurant comme précédent juridique et acteur futur possible. |
 | Conseil d’État | Institution consultative et juridiction administrative | Institution saisie du projet de loi constitutionnelle ; rend l’avis du 17 juillet 2025 sur la rédaction et l’encadrement juridique du projet. | Moyenne | Structurant juridiquement : son avis éclaire les points de fragilité constitutionnelle. |
@@ -2058,13 +2191,14 @@ Impact estimé : structurant / fort / significatif / contextuel / médiatique / 
 | Élysée / Présidence de la République | Institution française | Porte la parole présidentielle, notamment l’appel au calme de mars 2022 et le discours d’Emmanuel Macron devant l’Assemblée de Corse le 28 septembre 2023. | Forte | Structurant : donne l’impulsion politique nationale décisive. |
 | Emmanuel Macron | Personne / président de la République | Président de la République pendant le processus ; son discours du 28 septembre 2023 acte l’ouverture vers une autonomie de la Corse dans la République. | Forte | Structurant : légitime politiquement la séquence constitutionnelle. |
 | Euronews | Média européen | Média européen ayant documenté l’ouverture sur l’autonomie en mars 2022 et la proposition présidentielle de septembre 2023. | Moyenne | Médiatique, utile pour la réception européenne. |
-| Florent Boudié | Personne / parlementaire | Député identifié comme rapporteur dans la phase d’examen du projet n° 2697 à l’Assemblée nationale. | Ponctuelle à ce stade | Potentiellement fort dans la phase parlementaire à venir. |
+| Florent Boudié | Personne / parlementaire | Député de Gironde, président de la commission des lois de l’Assemblée nationale ; rapporteur du projet n° 2697, chargé des auditions, du déplacement en Corse et de la conduite de l’examen en commission. | Forte dans la phase 2026 | Structurant dans la phase parlementaire à l’Assemblée nationale. |
 | Fondation Jean-Jaurès | Think tank | Fondation politique ayant publié en décembre 2023 une note de compromis sur l’autonomie de la Corse dans la République. | Ponctuelle doctrinale | Significatif pour comprendre une proposition médiane avant l’accord de mars 2024. |
 | François Rebsamen | Personne / ministre | Ministre intervenant en Corse en février 2025 pour réaffirmer l’engagement gouvernemental dans le processus d’autonomie. | Moyenne | Significatif comme relais gouvernemental dans une phase de relance. |
 | François-Xavier Ceccoli | Personne / parlementaire corse | Député corse mentionné parmi les parlementaires concernés par la phase parlementaire du projet. | Faible dans le document actuel | Impact non encore estimable sans sources supplémentaires sur ses interventions. |
 | Françoise Gatel | Personne / ministre | Ministre associée à la relance parlementaire du texte en 2026 ; son audition et l’examen du projet sont inscrits à l’agenda prévisionnel de la commission des lois. | Moyenne à forte dans la phase récente | Fort dans le calendrier parlementaire 2026. |
 | Gérald Darmanin | Personne / ministre de l’Intérieur | Ministre de l’Intérieur au moment de l’ouverture du processus ; annonce le 15 mars 2022 que le Gouvernement est prêt à aller « jusqu’à l’autonomie ». | Très forte | Structurant : acteur inaugural de l’ouverture gouvernementale. |
 | Gilles Simeoni | Personne / président du Conseil exécutif de Corse | Président du Conseil exécutif de Corse ; demande un véritable dialogue après l’agression d’Yvan Colonna, participe au processus de Beauvau et commente l’accord de mars 2024. | Très forte | Structurant : principal acteur corse institutionnel du processus. |
+| Gilles Giovannangeli | Personne / président du Conseil exécutif de Corse | Nouveau président du Conseil exécutif de Corse en mai 2026 ; participe à l’audition du 21 mai 2026 à l’Assemblée nationale et reçoit Florent Boudié dans le cadre du déplacement annoncé en Corse. | Moyenne à ce stade | Significatif dans la phase institutionnelle récente. |
 | Gouvernement / Conseil des ministres | Institution française | Porte le projet de loi constitutionnelle, le présente en Conseil des ministres le 30 juillet 2025, puis organise sa trajectoire parlementaire. | Forte | Structurant : transforme l’accord politique en projet constitutionnel. |
 | Guy Carcassonne | Personne / constitutionnaliste | Constitutionnaliste associé au rapport de 2013 sur l’évolution institutionnelle de la Corse ; référence doctrinale historique sur le statut constitutionnel. | Historique / indirecte | Fort comme référence antérieure du débat constitutionnel corse. |
 | Jean Castex | Personne / Premier ministre | Premier ministre en mars 2022 ; intervient dans la levée du statut DPS d’Yvan Colonna, puis d’Alain Ferrandi et Pierre Alessandri. | Moyenne, concentrée en mars 2022 | Significatif dans la séquence pénitentiaire initiale. |
@@ -2081,7 +2215,7 @@ Impact estimé : structurant / fort / significatif / contextuel / médiatique / 
 | Maire info | Média / service d’information des maires | Source de synthèse utile, notamment sur les violences de mars 2022 et l’accord de mars 2024. | Moyenne | Contextuel, utile pour une lecture institutionnelle locale. |
 | Matignon / Premier ministre | Institution gouvernementale | Intervient dans la séquence pénitentiaire initiale et dans la procédure de révision constitutionnelle, l’article 89 prévoyant l’initiative présidentielle sur proposition du Premier ministre pour les projets de révision. | Moyenne | Significatif juridiquement et procéduralement. |
 | Mediapart | Média national | Média ayant publié un entretien avec Gilles Simeoni après l’accord de mars 2024. | Ponctuelle | Significatif pour la lecture autonomiste de l’accord. |
-| Michel Castellani | Personne / parlementaire corse | Député corse mentionné parmi les parlementaires concernés par la phase parlementaire. | Faible dans le document actuel | Impact non encore estimable sans sources supplémentaires sur ses interventions. |
+| Michel Castellani | Personne / parlementaire corse | Député nationaliste de la 1re circonscription de Haute-Corse, membre du groupe LIOT ; intervient en mai 2026 sur la reprise du calendrier parlementaire et la défense du texte initial validé par l’Assemblée de Corse. | Moyenne à forte dans la phase récente | Significatif pour documenter le relais parlementaire corse à l’Assemblée nationale. |
 | Ministère de la Justice / Chancellerie | Institution ministérielle | Institution concernée par la radiation DPS, l’administration pénitentiaire et la séquence judiciaire/pénitentiaire initiale de mars 2022. | Moyenne dans la séquence initiale | Significatif pour la qualification administrative et pénitentiaire des premiers jalons. |
 | Nazione | Organisation politique corse | Coalition indépendantiste créée en janvier 2024 ; critique l’accord de Beauvau et défend notamment un corps électoral corse. | Forte | Fort : structure la critique indépendantiste du processus. |
 | Parlement | Institution constitutionnelle | Ensemble formé par l’Assemblée nationale et le Sénat ; doit adopter le texte en termes identiques avant toute approbation finale d’une révision constitutionnelle. | Future / conditionnelle dans sa formation complète | Structurant pour l’issue de la procédure. |
@@ -2183,6 +2317,23 @@ La version v0.15 ajoute des instruments de clarification destinés à faciliter 
 Ces ajouts ne modifient pas la chronologie principale. Ils visent à rendre le document plus vérifiable, plus réutilisable et plus facilement amendable.
 
 
+
+### 14.6. Consolidation v0.16 — développements de mai 2026
+
+La version v0.16 ajoute les développements documentés entre le 6 et le 21 mai 2026, ainsi que les jalons annoncés pour les 27 et 28 mai 2026 :
+
+```text
+- entretien de Michel Castellani du 6 mai 2026 sur la reprise du texte en commission et la défense du texte initial ;
+- nomination de Florent Boudié comme rapporteur et précision du calendrier parlementaire le 7 mai 2026 ;
+- audition du 21 mai 2026 de Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis à l’Assemblée nationale ;
+- entretien des élus corses avec Françoise Gatel le même jour ;
+- prise de position de Core in Fronte du 21 mai 2026 reliant municipales, autonomie et mouvement national ;
+- déplacement annoncé de Florent Boudié en Corse les 27 et 28 mai 2026.
+```
+
+Ces ajouts renforcent la phase la plus récente de la chronologie, jusqu’ici trop centrée sur avril 2026 et sur l’agenda du 2 juin.
+
+
 ## 15. Clause de continuation, ouverture du débat et mode de production
 
 ### 15.1. Non-exhaustivité assumée
@@ -2269,6 +2420,7 @@ Il dit seulement : voici, à ce stade, une chronologie documentaire structurée,
 À compléter au fil de la procédure parlementaire :
 
 ```text
+- Bilan effectif du déplacement de Florent Boudié en Corse les 27 et 28 mai 2026.
 - Examen effectif du projet n° 2697 en commission des lois de l’Assemblée nationale.
 - Audition de Françoise Gatel et discussion générale en commission.
 - Amendements déposés sur l’article 72-5.
