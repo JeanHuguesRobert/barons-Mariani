@@ -9,9 +9,24 @@ created: 2026-05-24
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 function: parliamentary_working_note
 target_scene: parliamentary_staff_review
-related_document:
-  - repository: barons-Mariani
-    path: research/courrier_public_six_parlementaires_corse_v0_6.md
+related_documents:
+  - title: "Courrier public aux six parlementaires corses"
+    role: "document d’envoi de la contribution"
+    path: "research/courrier_public_six_parlementaires_corse.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md"
+    markdown: "[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)"
+
+  - title: "Proposition constitutionnelle — autonomie de capacité"
+    role: "document de fond"
+    path: "research/proposition_constitutionnelle_autonomie_capacite_corse.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md"
+    markdown: "[Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)"
+
+  - title: "Chronologie documentaire du processus de Beauvau"
+    role: "dossier documentaire de contextualisation"
+    path: "research/chronologie_processus_beauvau_corse.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
+    markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
 ---
 
 # Note synthétique pour examen parlementaire
@@ -23,6 +38,12 @@ related_document:
 Cette note propose une formulation permettant de préciser la finalité concrète du futur article 72-5 de la Constitution relatif à la Corse.
 
 Elle ne se substitue pas au texte gouvernemental. Elle vise à l’améliorer en ajoutant une finalité opérationnelle : faire de l’autonomie corse non seulement une capacité d’adaptation normative, mais une capacité effective de réponse aux déséquilibres spécifiques du territoire.
+
+### Documents associés
+
+- [Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)
+- [Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)
+- [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)
 
 ---
 
