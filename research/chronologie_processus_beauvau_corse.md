@@ -24,6 +24,12 @@ Sa priorité est chronologique : les faits, interventions publiques, articles de
 
 Elle ne propose pas d’interprétation politique du processus. Les classements par acteurs, institutions, médias ou lignes politiques ne viennent qu’en seconde partie, comme index documentaire permettant de retrouver les sources déjà situées dans la chronologie.
 
+### Documents associés
+
+- [Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)
+- [Note synthétique sur l’autonomie de capacité](./note_synthetique_autonomie_capacite_corse.md)
+- [Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)
+
 ---
 
 ### Résumé factuel
