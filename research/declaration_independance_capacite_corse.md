@@ -3,7 +3,7 @@ title: "Déclaration d’indépendance de capacité de la Corse"
 subtitle: "Après 1755, à l’âge du cyberespace"
 status: derived_product_v0.1
 repository: barons-Mariani
-path: research/declaration_independance_capacite_corse.md
+path: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/declaration_independance_capacite_corse.md
 language: fr
 created: 2026-05-24
 relation_to_source: asymmetric
@@ -319,11 +319,7 @@ limites qui justifient ses affirmations.
 Sa fonction est performative : déclarer une conclusion politique issue d’un
 corpus plus large.
 
-Sa source principale est :
-
-```text
-[barons-Mariani] research/corsica_stability_extraction.md
-```
+Sa source principale est : [corsica_stability_extraction.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corsica_stability_extraction.md)
 
 Elle dérive également de travaux du corpus sur la dislocation du réel, la
 désynchronisation mimétique, les produits déclinés, l’autonomie de capacité, la
