@@ -1,7 +1,7 @@
 ---
 title: "Chronologie documentaire du processus de Beauvau"
 subtitle: "De l’agression d’Yvan Colonna, puis de son décès, au projet constitutionnel d’autonomie de la Corse"
-status: documentary_timeline_v0.16
+status: documentary_timeline_v0.18
 repository: barons-Mariani
 path: research/chronologie_processus_beauvau_corse.md
 language: fr
@@ -49,7 +49,7 @@ Mars 2022 : la crise corse conduit Gérald Darmanin à évoquer publiquement une
 6 mai 2026 : Michel Castellani indique que le texte initial, validé par l’Assemblée de Corse, doit être examiné dans l’hémicycle.
 7 mai 2026 : Florent Boudié est nommé rapporteur du projet n° 2697 et le calendrier parlementaire est précisé.
 21 mai 2026 : Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis sont auditionnés à l’Assemblée nationale par Florent Boudié dans le cadre de l’examen du projet.
-21 mai 2026 : Core in Fronte intervient publiquement sur le lien entre municipales, mouvement national et autonomie.
+21 mai 2026 : Core in Fronte intervient publiquement sur le lien entre les résultats des municipales de mars 2026, le mouvement national et l’autonomie.
 27 et 28 mai 2026 : déplacement annoncé de Florent Boudié en Corse, avec rencontres institutionnelles et territoriales.
 2 juin 2026 : l’agenda prévisionnel de la commission des lois prévoit l’audition de Françoise Gatel et l’examen du projet.
 ```
@@ -145,7 +145,7 @@ Lorsqu’une source rapporte une citation, celle-ci n’est pas développée lon
 | 6 mai 2026 | Déclaration / article | Michel Castellani indique que le texte initial de la réforme constitutionnelle, validé par l’Assemblée de Corse, doit être examiné dans l’hémicycle. | Corsenetinfos |
 | 7 mai 2026 | Agenda / décision parlementaire | Florent Boudié est nommé rapporteur du projet n° 2697 ; la commission des lois précise un calendrier d’auditions, de déplacement en Corse et d’examen du texte. | Alta Frequenza / Assemblée nationale |
 | 21 mai 2026 | Fait / audition | Gilles Simeoni, Gilles Giovannangeli et Marie-Antoinette Maupertuis sont auditionnés par Florent Boudié et rencontrent ensuite Françoise Gatel ; les élus corses qualifient la séquence de positive. | Corsenetinfos |
-| 21 mai 2026 | Déclaration / réaction politique | Core in Fronte relie municipales, autonomie et responsabilité du mouvement national, en appelant à sortir de la gestion routinière des affaires corses. | Alta Frequenza |
+| 21 mai 2026 | Déclaration / réaction politique | Core in Fronte relie les résultats des municipales de mars 2026, autonomie et responsabilité du mouvement national, en appelant à sortir de la gestion routinière des affaires corses. | Alta Frequenza |
 | 27 et 28 mai 2026 | Agenda | Déplacement annoncé de Florent Boudié en Corse : Bastia, Assemblée de Corse, Conseil exécutif, groupes de l’hémicycle, maires, CESEC et société civile. | Corsenetinfos / Alta Frequenza |
 
 *Sources détaillées dans la chronologie complète ci-après.*
@@ -1104,7 +1104,7 @@ Source :
 
 ---
 
-### 21 mai 2026 — Core in Fronte relie municipales, autonomie et responsabilité du mouvement national
+### 21 mai 2026 — Core in Fronte relie les municipales de mars 2026, autonomie et responsabilité du mouvement national
 
 **Type d’entrée :** Déclaration / réaction politique.
 
@@ -1113,11 +1113,19 @@ Le 21 mai 2026, Alta Frequenza rapporte une conférence de presse de Core in Fro
 
 Core in Fronte affirme que « le Mouvement National doit être le moteur de tout changement politique en Corse » et appelle à sortir de la gestion routinière des affaires corses. L’article signale aussi une critique interne au mouvement national, certains choix municipaux étant présentés par Core in Fronte comme des signes d’« archaïsme pro-français ».
 
-Ce jalon ne concerne pas directement la procédure parlementaire du projet n° 2697, mais il documente la manière dont le calendrier de l’autonomie interagit avec les rapports de force politiques corses, notamment à l’approche des municipales et des échéances territoriales.
+Ce jalon ne concerne pas directement la procédure parlementaire du projet n° 2697, mais il documente la manière dont le calendrier de l’autonomie interagit avec les rapports de force politiques corses après les élections municipales des 15 et 22 mars 2026, et dans la perspective des prochaines échéances régionales / territoriales prévues en 2028.
 
 Source :
 - Alta Frequenza, Maria Lanfranchi, « Municipales et autonomie : “Le Mouvement National doit être le moteur de tout changement politique en Corse” indique Core in Fronte », 21 mai 2026 :  
   https://www.alta-frequenza.corsica/index.php/actu/municipales_et_autonomie_le_mouvement_national_doit_etre_le_moteur_de_tout_changement_politique_en_corse_indique_core_in_fronte_128609
+- Ministère de l’Intérieur, résultats des élections municipales 2026, scrutin des 15 et 22 mars 2026 :  
+  https://www.resultats-elections.interieur.gouv.fr/municipales2026/
+- Le Monde, « Corse : résultats des élections municipales 2026 » :  
+  https://www.lemonde.fr/resultats-municipales-2026/corse/
+- Ministère de l’Intérieur, « Les élections régionales » : prochaines élections régionales prévues en 2028 :  
+  https://www.elections.interieur.gouv.fr/scrutins/elections-regionales
+- Assemblée de Corse, « La Commission permanente, mandature 2021-2028 » :  
+  https://www.isula.corsica/assemblea/La-Commission-permanente-mandature-2021-2028_a731.html
 
 ---
 
@@ -2183,7 +2191,7 @@ Impact estimé : structurant / fort / significatif / contextuel / médiatique / 
 | Congrès du Parlement | Institution constitutionnelle conditionnelle | Réunion des députés et sénateurs à Versailles pouvant approuver un projet de révision constitutionnelle à la majorité des trois cinquièmes, si le Président de la République choisit cette voie plutôt que le référendum. | Future / conditionnelle | Potentiellement décisif pour l'issue finale de la révision. |
 | Conseil constitutionnel | Institution constitutionnelle | Juridiction constitutionnelle dont la décision n° 91-290 DC du 9 mai 1991 constitue un précédent central sur la notion de « peuple corse » ; pourrait être concernée ultérieurement par le contrôle d'une loi organique d'application. | Indirecte à ce stade | Structurant comme précédent juridique et acteur futur possible. |
 | Conseil d’État | Institution consultative et juridiction administrative | Institution saisie du projet de loi constitutionnelle ; rend l’avis du 17 juillet 2025 sur la rédaction et l’encadrement juridique du projet. | Moyenne | Structurant juridiquement : son avis éclaire les points de fragilité constitutionnelle. |
-| Conseil exécutif de Corse | Institution territoriale | Organe exécutif de la Collectivité de Corse, présidé par Gilles Simeoni pendant la période documentée ; participe aux négociations et à la délégation corse. | Forte | Structurant dans la conduite politique territoriale du processus. |
+| Conseil exécutif de Corse | Institution territoriale | Organe exécutif de la Collectivité de Corse ; présidé par Gilles Simeoni durant l’essentiel du processus, puis par Gilles Giovannangeli après son élection du 4 mai 2026. | Forte | Structurant dans la conduite politique territoriale du processus. |
 | Corse-Matin | Média local corse | Quotidien régional central dans la séquence, notamment parce que l’entretien de Gérald Darmanin du 15 mars 2022 y est donné initialement. | Forte, mais encore sous-documentée dans le fichier | Fort : source locale primaire à mieux intégrer. |
 | Corsenetinfos | Média local corse | Média local utilisé notamment pour documenter la création de Nazione et certaines réactions corses. | Moyenne | Significatif pour la chronologie politique insulaire. |
 | Délégation corse au processus de Beauvau | Groupe politique / institutionnel | Ensemble d’élus corses participant aux discussions avec l’État et à la déclaration politique solennelle du 23 février 2024. | Forte | Structurant : acteur collectif de l’accord politique. |
@@ -2197,7 +2205,7 @@ Impact estimé : structurant / fort / significatif / contextuel / médiatique / 
 | François-Xavier Ceccoli | Personne / parlementaire corse | Député corse mentionné parmi les parlementaires concernés par la phase parlementaire du projet. | Faible dans le document actuel | Impact non encore estimable sans sources supplémentaires sur ses interventions. |
 | Françoise Gatel | Personne / ministre | Ministre associée à la relance parlementaire du texte en 2026 ; son audition et l’examen du projet sont inscrits à l’agenda prévisionnel de la commission des lois. | Moyenne à forte dans la phase récente | Fort dans le calendrier parlementaire 2026. |
 | Gérald Darmanin | Personne / ministre de l’Intérieur | Ministre de l’Intérieur au moment de l’ouverture du processus ; annonce le 15 mars 2022 que le Gouvernement est prêt à aller « jusqu’à l’autonomie ». | Très forte | Structurant : acteur inaugural de l’ouverture gouvernementale. |
-| Gilles Simeoni | Personne / président du Conseil exécutif de Corse | Président du Conseil exécutif de Corse ; demande un véritable dialogue après l’agression d’Yvan Colonna, participe au processus de Beauvau et commente l’accord de mars 2024. | Très forte | Structurant : principal acteur corse institutionnel du processus. |
+| Gilles Simeoni | Personne / acteur institutionnel corse | Président du Conseil exécutif de Corse durant l’essentiel du processus, jusqu’à sa démission d’avril 2026 ; redevenu maire de Bastia en mars 2026 et conseiller exécutif en charge de l’autonomie dans la séquence de mai 2026. | Très forte | Structurant : principal acteur corse institutionnel de la phase 2022-2026. |
 | Gilles Giovannangeli | Personne / président du Conseil exécutif de Corse | Nouveau président du Conseil exécutif de Corse en mai 2026 ; participe à l’audition du 21 mai 2026 à l’Assemblée nationale et reçoit Florent Boudié dans le cadre du déplacement annoncé en Corse. | Moyenne à ce stade | Significatif dans la phase institutionnelle récente. |
 | Gouvernement / Conseil des ministres | Institution française | Porte le projet de loi constitutionnelle, le présente en Conseil des ministres le 30 juillet 2025, puis organise sa trajectoire parlementaire. | Forte | Structurant : transforme l’accord politique en projet constitutionnel. |
 | Guy Carcassonne | Personne / constitutionnaliste | Constitutionnaliste associé au rapport de 2013 sur l’évolution institutionnelle de la Corse ; référence doctrinale historique sur le statut constitutionnel. | Historique / indirecte | Fort comme référence antérieure du débat constitutionnel corse. |
@@ -2332,6 +2340,18 @@ La version v0.16 ajoute les développements documentés entre le 6 et le 21 mai 
 ```
 
 Ces ajouts renforcent la phase la plus récente de la chronologie, jusqu’ici trop centrée sur avril 2026 et sur l’agenda du 2 juin.
+
+
+### 14.8. Contrôle v0.18 — corrections de temporalité et de statut institutionnel
+
+La version v0.18 procède à un contrôle ciblé des formulations temporelles introduites dans la v0.16-v0.17. Deux corrections de prudence sont apportées :
+
+```text
+- les municipales de 2026 sont systématiquement traitées comme un scrutin déjà intervenu les 15 et 22 mars 2026 ;
+- le statut de Gilles Simeoni est distingué selon les périodes : président du Conseil exécutif durant l’essentiel du processus, maire de Bastia et conseiller exécutif en charge de l’autonomie dans la séquence de mai 2026, Gilles Giovannangeli étant devenu président du Conseil exécutif le 4 mai 2026.
+```
+
+Le contrôle n’a pas identifié d’autre formulation plaçant à tort les municipales de 2026 dans le futur. Les autres jalons indiqués comme futurs ou conditionnels concernent la procédure parlementaire postérieure au 24 mai 2026 : déplacement annoncé du rapporteur les 27 et 28 mai, examen en commission le 2 juin, séance publique envisagée à partir du 16 juin, puis étapes éventuelles devant le Sénat et/ou le Congrès.
 
 
 ## 15. Clause de continuation, ouverture du débat et mode de production
