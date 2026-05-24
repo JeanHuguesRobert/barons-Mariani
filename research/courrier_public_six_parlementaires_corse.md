@@ -22,6 +22,12 @@ primary_sources:
 
 # Courrier public aux six parlementaires de Corse
 
+### Documents associés
+
+- [Note synthétique sur l’autonomie de capacité](./note_synthetique_autonomie_capacite_corse.md)
+- [Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)
+- [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)
+
 ## Pour une autonomie de capacité réelle et pleinement inscrite dans la République
 
 À Monsieur Jean-Jacques Panunzi, sénateur de la Corse-du-Sud,  
