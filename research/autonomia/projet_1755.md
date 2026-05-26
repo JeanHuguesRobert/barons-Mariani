@@ -57,9 +57,17 @@ related_projects:
 ai_assisted_by:
   - "ChatGPT"
   - "Grok"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md
+last_stamped_at: 2026-05-26
 ---
 
 # Projet #1755
+
+<!-- BEGIN_AUTO: trails -->
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [GR20 : du quota à l'autonomie de capacité](../gr20_autonomie_de_capacite.md) | ➡️ Next: [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
+
+<!-- END_AUTO: trails -->
 
 ## Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne
 
@@ -1503,6 +1511,8 @@ cognitive_packet:
 
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](../corpus-status.md)
+- [GR20 : du quota à l’autonomie de capacité](../gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](../index.md)
+- [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
 
 <!-- END_AUTO: backlinks -->

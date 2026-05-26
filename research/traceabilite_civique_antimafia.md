@@ -12,7 +12,7 @@ type: campaign_note
 
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
+> ⬅️ Previous: [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
 
 <!-- END_AUTO: trails -->
 
@@ -257,6 +257,7 @@ Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais c
 
 *These documents link to this file:*
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Projet #1755](autonomia/projet_1755.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [The Republic of Donkeys](../the_republic_of_donkeys.md)

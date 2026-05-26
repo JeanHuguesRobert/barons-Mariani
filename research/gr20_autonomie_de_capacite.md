@@ -15,7 +15,7 @@ last_stamped_at: 2026-05-18
 
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Generalized Tocqueville Law](../tocqueville_law.md) | ➡️ Next: [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+> ⬅️ Previous: [The Generalized Tocqueville Law](../tocqueville_law.md) | ➡️ Next: [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne](autonomia/projet_1755.md)
 
 <!-- END_AUTO: trails -->
 
@@ -463,6 +463,7 @@ La ligne directrice doit rester stable :
 
 *These documents link to this file:*
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Projet #1755](autonomia/projet_1755.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
