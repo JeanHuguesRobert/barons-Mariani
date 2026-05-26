@@ -2451,3 +2451,14 @@ Il dit seulement : voici, à ce stade, une chronologie documentaire structurée,
 - Position du Sénat et navette parlementaire.
 - Réunion éventuelle du Congrès.
 ```
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Courrier public aux six parlementaires de Corse](courrier_public_six_parlementaires_corse.md)
+- [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
+- [Proposition constitutionnelle — autonomie de capacité de la Corse](proposition_constitutionnelle_autonomie_capacite_corse.md)
+
+<!-- END_AUTO: backlinks -->

@@ -350,3 +350,14 @@ Les améliorations prioritaires pourraient porter sur :
 Le principe directeur reste le suivant :
 
 > L’autonomie ne doit pas seulement reconnaître la singularité de la Corse. Elle doit lui donner la capacité vérifiable de durer.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Chronologie documentaire du processus de Beauvau](chronologie_processus_beauvau_corse.md)
+- [Courrier public aux six parlementaires de Corse](courrier_public_six_parlementaires_corse.md)
+- [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
+
+<!-- END_AUTO: backlinks -->

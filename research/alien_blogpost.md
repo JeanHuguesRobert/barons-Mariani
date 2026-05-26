@@ -400,3 +400,12 @@ cogentia.continuation.v1:
 - [Seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md)
 - [Cogentia as a reactive corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cogentia_reactive_corpus.md)
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+
+<!-- END_AUTO: backlinks -->

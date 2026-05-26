@@ -462,7 +462,7 @@ La ligne directrice doit rester stable :
 ### Backlinks
 
 *These documents link to this file:*
-- [Test 1755 — Reconnaissance internationale de la République corse](autonomia/1755.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)

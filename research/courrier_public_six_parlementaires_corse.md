@@ -408,3 +408,14 @@ Source : https://www.assemblee-nationale.fr/dyn/deputes/PA605782
 
 Paul-André Colombani est député de la deuxième circonscription de Corse-du-Sud.  
 Source : https://www.assemblee-nationale.fr/dyn/deputes/PA719286
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Chronologie documentaire du processus de Beauvau](chronologie_processus_beauvau_corse.md)
+- [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
+- [Proposition constitutionnelle — autonomie de capacité de la Corse](proposition_constitutionnelle_autonomie_capacite_corse.md)
+
+<!-- END_AUTO: backlinks -->

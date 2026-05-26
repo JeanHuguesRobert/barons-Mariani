@@ -145,9 +145,12 @@ convertir son capital territorial en capabilités collectives effectives,
 indépendamment du degré exact de souveraineté formelle. §2.6 annonce le **test
 1755** (reconnaissance internationale de la République corse), première
 auto-application publique, conduite avec ou sans mandat — condition logique de
-la thèse, non concession tactique.
+la thèse, non concession tactique. Le test 1755 dispose désormais d'un couple
+source/dérivé suivant la [méthode Cogentia Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) :
+le document source `research/autonomia/projet_1755.md` (v0.13, dossier
+probatoire ouvert) et son tableau de bord public dérivé `research/autonomia/1755.md`.
 
-→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Journal du test 1755](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+→ [Papier autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Projet #1755 (source)](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) · [Tableau de bord public](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
 
 ---
 

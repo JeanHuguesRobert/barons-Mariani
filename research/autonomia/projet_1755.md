@@ -1496,3 +1496,13 @@ cognitive_packet:
     expected trace, and dashboard entry.
   status: "core safeguard packet"
 ```
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->
