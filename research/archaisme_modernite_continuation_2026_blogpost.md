@@ -4,7 +4,7 @@
 
 ## Chapeau
 
-En 1989, Dumenicu Tognotti publiait un texte remarquable sur **l’archaïsme et la modernité dans la création insulaire**. La revue *Robba* vient d’en republier la trace, et cette trace change tout : sans elle, il n’y aurait pas de continuation possible, seulement une évocation approximative.
+En 1989, Dumenicu Tognotti publiait un texte remarquable sur **l’archaïsme et la modernité dans la création insulaire**. La revue *Robba* vient d’en republier la [trace](https://m.rivistarobba.com/Archaisme-et-Modernite-dans-la-creation-insulaire_a527.html), et cette trace change tout : sans elle, il n’y aurait pas de continuation possible, seulement une évocation approximative.
 
 Le texte qui suit est une **continuation hybride**.
 
