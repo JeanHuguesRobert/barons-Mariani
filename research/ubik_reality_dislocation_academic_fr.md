@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ubik_reality_dislocation_academic_fr.md
+last_stamped_at: 2026-05-26
+---
 # Ubik et la dislocation du réel
 ## Complexité, intelligence artificielle et stabilisation procédurale
 

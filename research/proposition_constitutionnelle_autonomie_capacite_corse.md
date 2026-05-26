@@ -27,6 +27,8 @@ related_documents:
     path: "research/chronologie_processus_beauvau_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
     markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
+last_stamped_at: 2026-05-26
 ---
 
 # Proposition constitutionnelle — autonomie de capacité de la Corse

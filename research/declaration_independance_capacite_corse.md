@@ -20,6 +20,8 @@ primary_sources:
     path: mimetic_desynchronization.md
   - repository: cogentia
     path: research/derived_products.md
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/declaration_independance_capacite_corse.md
+last_stamped_at: 2026-05-26
 ---
 
 # Déclaration d’indépendance de capacité de la Corse

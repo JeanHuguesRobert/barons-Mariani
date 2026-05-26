@@ -30,6 +30,8 @@ related_projects:
   - "Machine à explorer"
   - "Mare Nostrum"
   - "Musée Mariani des Possibles"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md
+last_stamped_at: 2026-05-26
 ---
 
 # Verticalisation de la Chrétienté

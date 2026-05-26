@@ -18,6 +18,8 @@ primary_sources:
     path: research/corsica_stability_extraction.md
   - repository: barons-Mariani
     path: research/declaration_independance_capacite_corse.md
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
+last_stamped_at: 2026-05-26
 ---
 
 # Courrier public aux six parlementaires de Corse

@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/after_ubik_art_criticism_essay.md
+last_stamped_at: 2026-05-26
+---
 # After Ubik: When Reality No Longer Holds
 ## Philip K. Dick, AI, and the Search for a Procedural Stabilizer
 

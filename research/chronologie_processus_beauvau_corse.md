@@ -10,6 +10,8 @@ updated: 2026-05-24
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 function: documentary_context
 target_scene: journalistic_reuse
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
+last_stamped_at: 2026-05-26
 ---
 
 # Chronologie documentaire du processus de Beauvau

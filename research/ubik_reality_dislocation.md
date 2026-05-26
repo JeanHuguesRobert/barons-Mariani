@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ubik_reality_dislocation.md
+last_stamped_at: 2026-05-26
+---
 # Ubik and the Dislocation of Reality
 ## Complexity, AI, Personas, and Procedural Stabilizers
 

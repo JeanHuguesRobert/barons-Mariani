@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/archaisme_modernite_continuation_2026_blogpost.md
+last_stamped_at: 2026-05-26
+---
 # Archaïsme et Modernité dans la création insulaire — Continuation 2026
 
 **Sous-titre :** À partir d’une trace de 1989 : mémoire active, modernité hybride et territoires capables

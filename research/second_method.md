@@ -18,7 +18,7 @@ affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250, Corte
 license: "CC BY-SA 4.0"
 
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md
-last_stamped_at: 2026-05-16
+last_stamped_at: 2026-05-26
 ---
 
 # Discours de la seconde méthode

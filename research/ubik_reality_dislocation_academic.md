@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ubik_reality_dislocation_academic.md
+last_stamped_at: 2026-05-26
+---
 # Ubik and the Dislocation of Reality
 ## Academic Article Outline
 

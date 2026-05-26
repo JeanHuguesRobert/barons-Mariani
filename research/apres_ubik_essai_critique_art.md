@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/apres_ubik_essai_critique_art.md
+last_stamped_at: 2026-05-26
+---
 # Après Ubik : quand la réalité ne tient plus
 ## Philip K. Dick, l’IA et la recherche d’un stabilisateur procédural
 

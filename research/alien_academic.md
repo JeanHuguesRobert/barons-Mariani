@@ -43,6 +43,8 @@ concept_index:
   sovereignty_of_the_living: "only living beings exposed to consequences may vote"
   architectural_dependency: "systemic conditions that orient judgment without implying subjective self-interest"
   post_anthropocentric_ai_safety: "AI Safety that protects humans without taking human categories as the sole measure of intelligence, value, and risk"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md
+last_stamped_at: 2026-05-26
 ---
 
 # Mauvaise calibration métacognitive face aux intelligences xénoformes

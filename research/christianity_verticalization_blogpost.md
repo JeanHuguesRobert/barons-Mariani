@@ -22,6 +22,8 @@ tags:
   - machine-à-explorer
   - verticalisation
   - Substack
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md
+last_stamped_at: 2026-05-26
 ---
 
 # Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement

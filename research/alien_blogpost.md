@@ -25,6 +25,8 @@ related_concepts:
   - "Kudocracy"
 continuation_status: "open"
 revision_note: "v0.2 corrige la continuation et ajoute un renvoi explicite vers la grille académique."
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_blogpost.md
+last_stamped_at: 2026-05-26
 ---
 
 # Alien, l’IA et les intelligences xénoformes

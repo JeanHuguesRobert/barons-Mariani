@@ -31,6 +31,8 @@ expected_derived_products:
     path: social/facebook/stabilite_extractive_corse.md
     relation_to_source: asymmetric
     source_lineage: mono-source_or_multi-source
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corsica_stability_extraction.md
+last_stamped_at: 2026-05-26
 ---
 
 # Stabilité extractive
