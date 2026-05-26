@@ -2,6 +2,8 @@
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md
+last_stamped_at: 2026-05-16
 ---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
@@ -10,9 +12,7 @@ license: "CC BY-SA 4.0"
 <!-- END_AUTO: trails -->
 
 ---
-canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md
-last_stamped_at: 2026-05-16
----
+
 # The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction
 
 **Jean Hugues Noël Robert**  
