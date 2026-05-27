@@ -78,7 +78,7 @@ A cogentigram is a structured, partial, auditable and revisable representation o
 The philosophy and systemic modeling underlying political and algorithmic capability (potence).
 
 **Reference documents:**
-- `research/potentics.md`
+- [`research/potentics.md`](potentics.md)
 
 ---
 
@@ -92,7 +92,7 @@ The philosophy and systemic modeling underlying political and algorithmic capabi
 Large-scale shifts in societal epistemology and shared understanding.
 
 **Reference documents:**
-- `research/cognitive_waves.md`
+- [`research/cognitive_waves.md`](cognitive_waves.md)
 
 ---
 
@@ -106,7 +106,7 @@ Large-scale shifts in societal epistemology and shared understanding.
 The deliberate breaking of viral, generalized imitation inside technological and cultural platforms to prevent runaway mimicry.
 
 **Reference documents:**
-- `mimetic_desynchronization.md`
+- [`mimetic_desynchronization.md`](../mimetic_desynchronization.md)
 
 ---
 
@@ -120,7 +120,7 @@ The deliberate breaking of viral, generalized imitation inside technological and
 The conceptual framing of generalized envy or hostile mimicry within network environments.
 
 **Reference documents:**
-- `invidia.md`
+- [`invidia.md`](../invidia.md)
 
 ---
 
@@ -134,7 +134,7 @@ The conceptual framing of generalized envy or hostile mimicry within network env
 The economic bridge transitioning society from classic topologies to possibilist structures.
 
 **Reference documents:**
-- `transition_markets.md`
+- [`transition_markets.md`](../transition_markets.md)
 
 ---
 
@@ -148,7 +148,7 @@ The economic bridge transitioning society from classic topologies to possibilist
 Conceptual or literal spaces mapping systemic alternatives and counterfactual political history models.
 
 **Reference documents:**
-- `uchronian_museum.md`
+- [`uchronian_museum.md`](../uchronian_museum.md)
 
 ---
 
@@ -162,7 +162,7 @@ Conceptual or literal spaces mapping systemic alternatives and counterfactual po
 The governing political and systemic ideology focusing on alternative institutional arrangements and expanding the horizon of political possibility.
 
 **Reference documents:**
-- `possibilism_04_2026.md`
+- [`possibilism_04_2026.md`](../possibilism_04_2026.md)
 
 ---
 
@@ -176,7 +176,7 @@ The governing political and systemic ideology focusing on alternative institutio
 Localized geographical or political zones acting as sandboxes for possibilist ideologies, of which the "Mare Nostrum" ecosystem serves as the primary local implementation proposal for Corsica.
 
 **Reference documents:**
-- `research/territoires_possibilistes.md`
+- [`research/territoires_possibilistes.md`](territoires_possibilistes.md)
 
 ---
 
@@ -202,9 +202,9 @@ The faculty of a territory to convert its territorial capital — natural resour
 - Auto-institution démocratique (Castoriadis)
 
 **Reference documents:**
-- `research/autonomia.md` (working paper, v0.12)
-- `research/autonomia/1755.md` (public test journal, §2.6)
-- `research/gr20_autonomie_de_capacite.md`
+- [`research/autonomia.md`](autonomia.md) (working paper, v0.12)
+- [`research/autonomia/1755.md`](autonomia/1755.md) (public test journal, §2.6)
+- [`research/gr20_autonomie_de_capacite.md`](gr20_autonomie_de_capacite.md)
 
 **Used in:**
 - Test 1755 — international recognition of the Corsican Republic (2026-2030 horizon)
@@ -232,8 +232,8 @@ A traceable civic-recommendation layer for *votations* (issue-level decisions), 
 - Cognitive Packet
 
 **Reference documents:**
-- `research/kudocracy.md` (working paper, v0.1)
-- `research/second_method.md`
+- [`research/kudocracy.md`](kudocracy.md) (working paper, v0.1)
+- [`research/second_method.md`](second_method.md)
 
 **Used in:**
 - Kudocracy as an Inseme brique (proposed)
@@ -260,7 +260,7 @@ A Maussian complementary currency, euro-backed, designed by superposition rather
 - Mauss — gift / counter-gift
 
 **Reference documents:**
-- `research/kudos.md` (working paper, draft v0.3)
+- [`research/kudos.md`](kudos.md) (working paper, draft v0.3)
 
 **Used in:**
 - Inseme ecosystem (Kudocracy adjacency)
@@ -287,8 +287,8 @@ The doctrine that human imputability — already required by patent and copyrigh
 - Traçabilité civique anti-mafieuse
 
 **Reference documents:**
-- `research/pathologie_du_secret.md` (working paper, v0.4)
-- `research/democratic_ai_safety.md`
+- [`research/pathologie_du_secret.md`](pathologie_du_secret.md) (working paper, v0.4)
+- [`research/democratic_ai_safety.md`](democratic_ai_safety.md)
 
 **Used in:**
 - companion-paper status to *Democratic AI Safety* (French/European positive law anchor)
@@ -306,7 +306,7 @@ The doctrine that human imputability — already required by patent and copyrigh
 The *Discours de la seconde méthode*, providing the epistemological framework and procedural methodology driving the policy formation of the barons-Mariani.
 
 **Reference documents:**
-- `research/second_method.md`
+- [`research/second_method.md`](second_method.md)
 
 ---
 
@@ -320,7 +320,7 @@ The *Discours de la seconde méthode*, providing the epistemological framework a
 A specific local implementation or cultural initiative operating under the possibilist framework in Corsica.
 
 **Reference documents:**
-- `projet_minesteggio.md`
+- [`projet_minesteggio.md`](../projet_minesteggio.md)
 
 ---
 
@@ -334,14 +334,32 @@ A specific local implementation or cultural initiative operating under the possi
 A conceptual representation technique acting as half a joke and half a cultural mediation mechanism.
 
 **Reference documents:**
-- `discret_holography.md`
+- [`discret_holography.md`](../discret_holography.md)
 
 
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
+- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
+- [*Invidia*, envie et désir mimétique](../invidia.md)
+- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
+- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
+- [Autonomia](autonomia.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
+- [Democratic AI Safety](democratic_ai_safety.md)
+- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](index.md)
+- [Kudocracy](kudocracy.md)
+- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
+- [La pathologie du secret](pathologie_du_secret.md)
+- [What is Potentics?](potentics.md)
+- [Discours de la seconde méthode](second_method.md)
+- [Territoires possibilistes](territoires_possibilistes.md)
+- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
+- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
 
 <!-- END_AUTO: backlinks -->

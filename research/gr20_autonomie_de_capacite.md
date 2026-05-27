@@ -464,6 +464,7 @@ La ligne directrice doit rester stable :
 *These documents link to this file:*
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Projet #1755](autonomia/projet_1755.md)
+- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)

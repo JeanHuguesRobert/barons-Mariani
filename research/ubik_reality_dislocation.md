@@ -736,3 +736,15 @@ Cogentia and Ubikia are not Ubik.
 They are attempts to build, patiently and procedurally, what Ubik imagines magically:
 
 a way for reality to hold.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [After Ubik: When Reality No Longer Holds](after_ubik_art_criticism_essay.md)
+- [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Ubik et la dislocation du réel](ubik_reality_dislocation_academic_fr.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation_academic.md)
+
+<!-- END_AUTO: backlinks -->

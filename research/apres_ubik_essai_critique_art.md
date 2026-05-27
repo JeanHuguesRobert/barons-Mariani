@@ -6,7 +6,7 @@ last_stamped_at: 2026-05-26
 ## Philip K. Dick, l’IA et la recherche d’un stabilisateur procédural
 
 **Statut :** essai de recherche décliné v0.2-fr  
-**Corpus source :** `barons-Mariani/research/ubik_reality_dislocation.md`  
+**Corpus source :** [`barons-Mariani/research/ubik_reality_dislocation.md`](ubik_reality_dislocation.md)  
 **Relation à la source :** produit décliné quasi symétrique ; peut aussi servir de source secondaire  
 **Forme :** essai de critique d’art / essai de blog  
 **Plateforme cible :** Substack ou plateforme de blogging équivalente  
@@ -501,3 +501,14 @@ Le texte source stabilise les concepts.
 Cet essai stabilise l’expérience.
 
 Les deux peuvent servir de matériau source pour de futurs produits déclinés.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Ubik et la dislocation du réel](ubik_reality_dislocation_academic_fr.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation_academic.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
+
+<!-- END_AUTO: backlinks -->

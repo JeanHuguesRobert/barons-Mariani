@@ -67,11 +67,11 @@ Le document sert aussi de base conceptuelle à une grammaire politique contempor
 
 Ce texte doit être lu en relation avec les documents et axes suivants du corpus :
 
-- `research/autonomia.md` — Autonomie de Capacité, différenciation et capacités territoriales ;
-- `research/kudocracy.md` — démocratie liquide, mandats traçables, pouvoir horizontal ;
+- [`research/autonomia.md`](autonomia.md) — Autonomie de Capacité, différenciation et capacités territoriales ;
+- [`research/kudocracy.md`](kudocracy.md) — démocratie liquide, mandats traçables, pouvoir horizontal ;
 - `research/cogentia_reactive_corpus.md` — corpus réactif, représentation adaptée, continuité doctrinale ;
-- `mimetic_desynchronization.md` — désynchronisation mimétique et reconfiguration des cadres de perception ;
-- `research/agile.md` — méthodes agiles, exploration et adaptation ;
+- [`mimetic_desynchronization.md`](../mimetic_desynchronization.md) — désynchronisation mimétique et reconfiguration des cadres de perception ;
+- [`research/agile.md`](agile.md) — méthodes agiles, exploration et adaptation ;
 - travaux liés à **Mare Nostrum** — Méditerranée multipolaire, rives, îles, énergie et inférences ;
 - travaux liés au **Petit Parti / Le Petit / Pertitellu** — parti des petits par le pouvoir, des territoires rendus incapables, et des capacités retrouvées.
 
@@ -1197,3 +1197,16 @@ Ce texte relève de la **seconde méthode** :
 
 Il ne doit pas être considéré comme une conclusion définitive, mais comme une **base de travail critique**.
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [La seconde méthode comme généralisation prudente de l’agile](agile.md)
+- [Autonomia](autonomia.md)
+- [Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement](christianity_verticalization_blogpost.md)
+- [Kudocracy](kudocracy.md)
+
+<!-- END_AUTO: backlinks -->

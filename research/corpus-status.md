@@ -3,7 +3,7 @@ title: "Corpus Status — barons-Mariani"
 description: "Current state of the barons-Mariani knowledge corpus — what is proved, what is open, what remains possible"
 layout: default
 nav_order: 2
-last_modified_at: 2026-05-26
+last_modified_at: 2026-05-27
 repository: "github.com/JeanHuguesRobert/barons-Mariani"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corpus-status.md
 last_stamped_at: 2026-05-26
@@ -13,7 +13,7 @@ last_stamped_at: 2026-05-26
 
 *Auto-refreshed by `cogentia.js corpus-status`. The structural sections —*
 *Registered Repositories, Cross-Reference Graph, Published, What Remains Possible —*
-*are regenerated from the registry and from `research/index.md` on every run.*
+*are regenerated from the registry and from [`research/index.md`](index.md) on every run.*
 *The substantive sections — What Is Proved and Open Objections —*
 *are manually curated and preserved across refreshes.*
 
@@ -27,7 +27,7 @@ last_stamped_at: 2026-05-26
 | cogentia | ✅ | main | 2026-05-26 |
 | FractaVolta | ✅ | main | 2026-05-26 |
 | marenostrum | ✅ | main | 2026-05-26 |
-| barons-Mariani | ✅ | main | 2026-05-26 |
+| barons-Mariani | ✅ | main | 2026-05-27 |
 | inseme | ✅ | main | 2026-05-26 |
 | Inox | ✅ | master | 2026-05-26 |
 <!-- END_AUTO: registered_repos -->
@@ -191,8 +191,8 @@ graph LR
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
-| [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans `autonomia/1755.md`)* | this repo | 2026-05-26 |
-| [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de `autonomia/projet_1755.md`)* | this repo | 2026-05 → |
+| [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
+| [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
 | [GR20 : du quota à l'autonomie de capacité (FR)](gr20_autonomie_de_capacite.md) *(note de campagne — application montagne)* | this repo | 2026-05-16 |
 | [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
 | [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |
@@ -229,8 +229,8 @@ graph LR
 
 | Claim | Status | Evidence |
 |---|---|---|
-| Public corpus improves via objection integration | ✅ Demonstrated | v0.1→v1.0 git history of `second_method.md`, multiple public AI reviews integrated |
-| Machine-readable structure does not degrade human readability | 🔄 In progress | `research/index.md` network navigable; `cogentia.js graph` renders Mermaid |
+| Public corpus improves via objection integration | ✅ Demonstrated | v0.1→v1.0 git history of [`second_method.md`](second_method.md), multiple public AI reviews integrated |
+| Machine-readable structure does not degrade human readability | 🔄 In progress | [`research/index.md`](index.md) network navigable; `cogentia.js graph` renders Mermaid |
 | Rule 0 boundary documented | ✅ Documented | [DHITL.md Layer 3 / Layer 4 boundary](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) |
 | Rule 0 boundary implemented | ❌ Open research problem | No complete technical specification yet |
 | Mimetic-desynchronization theory of structural change | ✅ Published | [`mimetic_desynchronization.md`](../mimetic_desynchronization.md) — DRSJ cycle + six mechanisms |

@@ -971,6 +971,7 @@ Créer trois fichiers compagnons :
 ### Backlinks
 
 *These documents link to this file:*
+- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Democratic AI Safety](democratic_ai_safety.md)
 - [Research Index — barons-Mariani](index.md)

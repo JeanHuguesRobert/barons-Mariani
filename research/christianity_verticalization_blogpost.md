@@ -31,7 +31,7 @@ last_stamped_at: 2026-05-26
 ## À partir du working paper “Verticalisation de la Chrétienté”
 
 **Version blog — 25 mai 2026 — lundi de Pentecôte**  
-**Produit décliné de :** `research/christianity_verticalization.md`
+**Produit décliné de :** [`research/christianity_verticalization.md`](christianity_verticalization.md)
 
 ---
 
@@ -451,7 +451,7 @@ Mais accompagner sur les chemins réels.
 
 ## Note de méthode
 
-Ce billet est un **produit décliné** du working paper `research/christianity_verticalization.md`, élaboré dans le cadre de mon corpus de recherche publié sur GitHub.
+Ce billet est un **produit décliné** du working paper [`research/christianity_verticalization.md`](christianity_verticalization.md), élaboré dans le cadre de mon corpus de recherche publié sur GitHub.
 
 Le texte source a été travaillé selon ma **seconde méthode** : hypothèse explicite, niveaux de preuve, objections anticipées, paquets cognitifs, auto-évaluation, critique itérative.
 
@@ -467,7 +467,16 @@ Le document source complet sera publié dans le dépôt :
 
 sous le chemin proposé :
 
-`research/christianity_verticalization.md`
+[`research/christianity_verticalization.md`](christianity_verticalization.md)
 
 Ce billet en est une forme plus narrative. Le fond reste dans le corpus ; la forme se décline selon le public, le média et le moment.
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+
+<!-- END_AUTO: backlinks -->

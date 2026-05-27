@@ -328,6 +328,7 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 ### Backlinks
 
 *These documents link to this file:*
+- [Concept Index — barons-Mariani](research/concepts.md)
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
 

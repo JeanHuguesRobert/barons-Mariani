@@ -6,7 +6,7 @@ last_stamped_at: 2026-05-26
 ## Philip K. Dick, AI, and the Search for a Procedural Stabilizer
 
 **Status:** Derived research essay v0.2  
-**Source corpus:** `barons-Mariani/research/ubik_reality_dislocation.md`  
+**Source corpus:** [`barons-Mariani/research/ubik_reality_dislocation.md`](ubik_reality_dislocation.md)  
 **Relation to source:** near-symmetric derived product; may also serve as secondary source  
 **Form:** art criticism essay / blog essay  
 **Platform target:** Substack or equivalent blogging platform  
@@ -493,7 +493,7 @@ A way for reality to hold.
 
 ## Derivation Note
 
-This essay is derived from `barons-Mariani/research/ubik_reality_dislocation.md`.
+This essay is derived from [`barons-Mariani/research/ubik_reality_dislocation.md`](ubik_reality_dislocation.md).
 
 It is intentionally not a simplified version of the source. It is a near-symmetric derived research essay: the same conceptual architecture appears under the form of art criticism.
 
@@ -502,3 +502,12 @@ The source essay stabilizes the concepts.
 This essay stabilizes the experience.
 
 Both may be used as source material for later derived products.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
+
+<!-- END_AUTO: backlinks -->

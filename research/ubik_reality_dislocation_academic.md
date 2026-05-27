@@ -7,8 +7,8 @@ last_stamped_at: 2026-05-26
 
 **Status:** Academic outline v0.1  
 **Cannonical location:** `barons-Mariani/research/ubik_reality_dislocation_academic.md`  
-**Source corpus:** `barons-Mariani/research/ubik_reality_dislocation.md`  
-**Near-symmetric derived essay:** `barons-Mariani/research/apres_ubik_essai_critique_art.md`  
+**Source corpus:** [`barons-Mariani/research/ubik_reality_dislocation.md`](ubik_reality_dislocation.md)  
+**Near-symmetric derived essay:** [`barons-Mariani/research/apres_ubik_essai_critique_art.md`](apres_ubik_essai_critique_art.md)  
 **Language:** English, with possible French submission variant  
 **Date:** 2026-05-23  
 
@@ -450,3 +450,13 @@ It is a literary machine for perceiving a contemporary condition:
 The task is not to replace uncertainty with authority.
 
 The task is to build procedural stabilizers that make reality traceable, contestable, corrigible, and shareable.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
+
+<!-- END_AUTO: backlinks -->

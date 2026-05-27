@@ -907,10 +907,22 @@ Le cas corse devra être développé dans un article spécifique reliant :
 
 ## Corpus Jean Hugues Robert
 
-- Robert, Jean Hugues Noël. `second_method.md`. Corpus `barons-Mariani`.
+- Robert, Jean Hugues Noël. [`second_method.md`](second_method.md). Corpus `barons-Mariani`.
 - Robert, Jean Hugues Noël. `autonomie_de_capacite.md`. Corpus `barons-Mariani`.
-- Robert, Jean Hugues Noël. `kudocracy.md`. Corpus `barons-Mariani`.
-- Robert, Jean Hugues Noël. `mimetic_desynchronization.md`. Corpus `barons-Mariani`.
-- Robert, Jean Hugues Noël. `DHITL.md`. Corpus `marenostrum`.
+- Robert, Jean Hugues Noël. [`kudocracy.md`](kudocracy.md). Corpus `barons-Mariani`.
+- Robert, Jean Hugues Noël. [`mimetic_desynchronization.md`](../mimetic_desynchronization.md). Corpus `barons-Mariani`.
+- Robert, Jean Hugues Noël. [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md). Corpus `marenostrum`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `cogentia`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `FractaVolta`.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Kudocracy](kudocracy.md)
+- [Discours de la seconde méthode](second_method.md)
+
+<!-- END_AUTO: backlinks -->

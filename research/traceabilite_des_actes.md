@@ -490,3 +490,12 @@ continuation:
     - "verify legal implications of internal invalidity principle"
     - "keep Athenian analogy in separate historical note"
 ```
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [La pathologie du secret](pathologie_du_secret.md)
+
+<!-- END_AUTO: backlinks -->

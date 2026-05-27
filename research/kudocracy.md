@@ -1177,6 +1177,10 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 ### Backlinks
 
 *These documents link to this file:*
+- [La seconde méthode comme généralisation prudente de l’agile](agile.md)
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 

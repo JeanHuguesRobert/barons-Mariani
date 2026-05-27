@@ -858,8 +858,8 @@ Cette bibliographie est provisoire. Elle reprend la consolidation opérée en v0
 À compléter dans le dépôt cible avec des liens relatifs vers les fichiers effectivement publiés :
 
 - `cogentia/` : Cogentia Commons, continuations, cognitive packets ;
-- `barons-Mariani/research/second_method.md` : seconde méthode ;
-- `barons-Mariani/research/kudocracy.md` : démocratie assistée, agents non souverains, suggestion vs recommandation ;
+- [`barons-Mariani/research/second_method.md`](second_method.md) : seconde méthode ;
+- [`barons-Mariani/research/kudocracy.md`](kudocracy.md) : démocratie assistée, agents non souverains, suggestion vs recommandation ;
 - documents DHITL : Democratic Humans in the Loop ;
 - futur `xenoform_intelligence_source.md` : document source souverain.
 
@@ -969,5 +969,7 @@ Ce draft v0.7 est publiable comme **forme académique déclinée provisoire renf
 
 *These documents link to this file:*
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Kudocracy](kudocracy.md)
+- [Discours de la seconde méthode](second_method.md)
 
 <!-- END_AUTO: backlinks -->

@@ -198,7 +198,7 @@ becomes a visible gap — a feeling waiting to be converted.
 **Rule 3 {#rule-3} — Structure for machine readability from the start.**
 Write for human readers and artificial agents simultaneously.
 Standard formats. Stable identifiers. Links that resolve.
-Maintain a `research/index.md` in every repository:
+Maintain a [`research/index.md`](index.md) in every repository:
 a map of what is published, what is in progress, what remains possible.
 Opacity is friction. Friction accumulates into exclusion.
 
@@ -395,7 +395,7 @@ knowledge is not what we feel certain about.
 It is what survives public examination by anyone who wishes to examine it.
 
 The tooling makes this concrete. `cogentia.js scan` flags every markdown file
-not yet referenced in `research/index.md` — every unanchored claim,
+not yet referenced in [`research/index.md`](index.md) — every unanchored claim,
 every undocumented assumption, every feeling that has not yet been
 converted into a falsifiable statement. The gap between what is asserted
 and what is evidenced becomes visible. Visibility is the first step
@@ -440,7 +440,7 @@ A public AI review, integrated within hours, is another.
 **Claim 2 {#claim-2} — Structuring for machine readability does not degrade human readability.**
 Testable by measuring comprehension and navigation speed
 across reader populations on corpora with and without
-`research/index.md`, standard metadata, and stable identifiers.
+[`research/index.md`](index.md), standard metadata, and stable identifiers.
 
 **Claim 3 {#claim-3} — Public peer review produces higher accountability than anonymous review.**
 Testable by comparing retraction rates, error correction latency,
@@ -518,8 +518,8 @@ The corpus is here:
 - `github.com/JeanHuguesRobert/cogentia` — methodology, `cogentia.js` CLI
 - `github.com/JeanHuguesRobert/FractaVolta` — physical infrastructure layer
 
-Each repository has a `research/index.md`.
-Each `research/index.md` links to the others.
+Each repository has a [`research/index.md`](index.md).
+Each [`research/index.md`](index.md) links to the others.
 The graph is navigable from any entry point,
 by any reader — human or artificial.
 
@@ -536,7 +536,7 @@ node scripts/cogentia.js scan
 
 License: CC BY-SA 4.0 for text, MIT for code.
 
-Fork. Criticise in public. Build your own `research/index.md`
+Fork. Criticise in public. Build your own [`research/index.md`](index.md)
 and link it to ours. The graph grows by connection, not by permission.
 
 *This document has reached the limit of what a document can demonstrate.*
@@ -570,6 +570,9 @@ René, merci. On continue.
 ### Backlinks
 
 *These documents link to this file:*
+- [La seconde méthode comme généralisation prudente de l’agile](agile.md)
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 

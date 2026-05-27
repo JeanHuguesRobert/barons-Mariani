@@ -192,6 +192,9 @@ Mimetic desynchronization is the name for that action.
 ### Backlinks
 
 *These documents link to this file:*
+- [La seconde méthode comme généralisation prudente de l’agile](research/agile.md)
+- [Verticalisation de la Chrétienté](research/christianity_verticalization.md)
+- [Concept Index — barons-Mariani](research/concepts.md)
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
 

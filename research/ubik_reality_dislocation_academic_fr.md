@@ -7,8 +7,8 @@ last_stamped_at: 2026-05-26
 
 **Statut :** article académique v0.1  
 **Dépôt cible :** `barons-Mariani/research/ubik_reality_dislocation_academic_fr.md`  
-**Corpus source :** `barons-Mariani/research/ubik_reality_dislocation.md`  
-**Essai critique quasi symétrique :** `barons-Mariani/research/apres_ubik_essai_critique_art.md`  
+**Corpus source :** [`barons-Mariani/research/ubik_reality_dislocation.md`](ubik_reality_dislocation.md)  
+**Essai critique quasi symétrique :** [`barons-Mariani/research/apres_ubik_essai_critique_art.md`](apres_ubik_essai_critique_art.md)  
 **Plan préparatoire :** `barons-Mariani/research/ubik_reality_dislocation_academic_outline.md`  
 **Langue :** français  
 **Date :** 2026-05-24  
@@ -376,3 +376,13 @@ Prochaines étapes :
 4. préciser la notion d’effet Ubik ;
 5. développer la discussion sur Rancière, Goffman et la provenance IA ;
 6. ajouter des citations et notes.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
+
+<!-- END_AUTO: backlinks -->

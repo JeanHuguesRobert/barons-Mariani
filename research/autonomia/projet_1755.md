@@ -95,12 +95,12 @@ La reconnaissance recherchée est volontairement minimale, rigoureuse et fécond
 
 Ce document doit être lu avec :
 
-- `pipeline.md` — méthode Cogentia de transformation des intuitions en documents sources, paquets cognitifs et produits déclinés ;
-- `cogentia_reactive_corpus.md` — théorie du corpus réactif ;
-- `derived_products.md` — typologie des produits déclinés ;
-- `kudocracy.md` — démocratie liquide, délégation traçable et souveraineté capacitaire ;
-- `autonomie_capacite_corse.md` ou documents équivalents — distinction entre autonomie de papier et Autonomie de Capacité ;
-- documents du futur Musée Mariani des Possibles.
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) — méthode Cogentia de transformation des intuitions en documents sources, paquets cognitifs et produits déclinés ;
+- `cogentia_reactive_corpus.md` — théorie du corpus réactif (planifié, pas encore publié) ;
+- [Derived Products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — typologie des produits déclinés ;
+- [Kudocracy](kudocracy.md) — démocratie liquide, délégation traçable et souveraineté capacitaire ;
+- [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse](autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
+- documents du futur Musée Mariani des Possibles (à venir).
 
 ---
 
@@ -1369,9 +1369,9 @@ Le Projet #1755 est articulé à trois documents distincts mais liés :
 
 | Document | Rôle | Chemin prévu |
 |---|---|---|
-| `autonomia.md` | Cadre théorique : Autonomie de Capacité, Territoires Capables, expérimentation vérifiable | `research/autonomia.md` |
+| [`autonomia.md`](../autonomia.md) | Cadre théorique : Autonomie de Capacité, Territoires Capables, expérimentation vérifiable | [`research/autonomia.md`](../autonomia.md) |
 | `projet_1755.md` | Document source du dossier #1755 : hypothèse, méthode, prudence, stratégie de reconnaissance | `research/projet_1755.md` |
-| `1755.md` | Tableau de bord public : démarches, réponses, refus, silences, enseignements | `research/autonomia/1755.md` |
+| [`1755.md`](1755.md) | Tableau de bord public : démarches, réponses, refus, silences, enseignements | [`research/autonomia/1755.md`](1755.md) |
 
 Le “test 1755” n’est donc pas seulement une démarche historique. C’est aussi un **test de capacité** : la Corse, par des acteurs civiques, associatifs, scientifiques, patrimoniaux ou indépendants, est-elle capable de documenter et de faire reconnaître correctement son apport autour de la Constitution de 1755 ?
 
@@ -1440,7 +1440,7 @@ Produire `research/projet_1755_annexe_probatoire.md` avec :
 
 ### Chantier 3 — Tableau de bord
 
-Mettre à jour `research/autonomia/1755.md` à chaque acte réel : publication, sollicitation, réponse, silence prolongé, relance, correction, nouvelle source, nouvelle hypothèse.
+Mettre à jour [`research/autonomia/1755.md`](1755.md) à chaque acte réel : publication, sollicitation, réponse, silence prolongé, relance, correction, nouvelle source, nouvelle hypothèse.
 
 ### Chantier 4 — Brief anglais de deux pages
 
@@ -1510,6 +1510,8 @@ cognitive_packet:
 ### Backlinks
 
 *These documents link to this file:*
+- [Autonomia](../autonomia.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](1755.md)
 - [Corpus Status — barons-Mariani](../corpus-status.md)
 - [GR20 : du quota à l’autonomie de capacité](../gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](../index.md)
