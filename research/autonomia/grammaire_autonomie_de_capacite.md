@@ -712,3 +712,17 @@ Formule de synthèse :
 - produire une version courte “pocket grammar” d’une page ;
 - produire une version machine-readable en YAML ou JSON pour agents conversationnels ;
 - produire des mini-programmes générés par thème : santé, foncier, communes, énergie, langue, jeunesse, handicap, tourisme, anti-capture, mobilité.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Atlas du paysage politique et discursif corse — Une Corse capable](atlas_paysage_politique_corse.md)
+- [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
+- [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
+- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

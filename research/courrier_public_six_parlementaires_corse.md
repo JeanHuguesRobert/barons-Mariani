@@ -2,8 +2,6 @@
 title: "Courrier public aux six parlementaires de Corse"
 subtitle: "Pour une autonomie de capacité réelle et pleinement inscrite dans la République"
 status: public_letter_v0.6
-repository: barons-Mariani
-path: research/courrier_public_six_parlementaires_corse_v0_6.md
 language: fr
 created: 2026-05-24
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
@@ -19,6 +17,8 @@ primary_sources:
   - repository: barons-Mariani
     path: research/declaration_independance_capacite_corse.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 ---
 

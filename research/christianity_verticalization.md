@@ -8,8 +8,6 @@ author: "Jean Hugues Noël Robert"
 ai_assisted_by:
   - "ChatGPT"
   - "Grok"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "research/christianity_verticalization.md"
 license: "CC BY 4.0"
 language: "fr"
 tags:
@@ -31,6 +29,7 @@ related_projects:
   - "Mare Nostrum"
   - "Musée Mariani des Possibles"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-05-26
 ---
 

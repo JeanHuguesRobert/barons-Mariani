@@ -975,5 +975,6 @@ Créer trois fichiers compagnons :
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Democratic AI Safety](democratic_ai_safety.md)
 - [Research Index — barons-Mariani](index.md)
+- [Traçabilité des actes](traceabilite_des_actes.md)
 
 <!-- END_AUTO: backlinks -->

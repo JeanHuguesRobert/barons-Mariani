@@ -5,14 +5,13 @@ author: "Jean Hugues Noël Robert"
 date: "2026-05-27"
 status: "Draft — Substack / Les carnets du baron Mariani"
 version: "0.1-blogpost"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "public/traceabilite_des_actes_blogpost.md"
 source_document: "research/traceabilite_des_actes.md v0.15.1-research"
 license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "ChatGPT — public-facing draft"
 review_context:
   - "Grok — reviewer of research version, not author of this blogpost"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 ---
 
 # Traçabilité des actes : déléguer sans se déposséder
@@ -197,3 +196,13 @@ De donner de l’autonomie sans créer d’impunité.
 Formule courte :
 
 > **Agir sans attendre, mais jamais sans répondre.**
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

@@ -2,8 +2,6 @@
 title: "Proposition constitutionnelle — autonomie de capacité de la Corse"
 subtitle: "Contribution à la rédaction du futur article 72-5 de la Constitution"
 status: constitutional_proposal_v0.1
-repository: barons-Mariani
-path: research/proposition_constitutionnelle_autonomie_capacite_corse.md
 language: fr
 created: 2026-05-24
 updated: 2026-05-24
@@ -28,6 +26,8 @@ related_documents:
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
     markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 ---
 

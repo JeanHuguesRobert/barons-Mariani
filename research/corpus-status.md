@@ -24,12 +24,12 @@ last_stamped_at: 2026-05-26
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-05-26 |
-| FractaVolta | ✅ | main | 2026-05-26 |
-| marenostrum | ✅ | main | 2026-05-26 |
+| cogentia | ✅ | main | 2026-05-27 |
+| FractaVolta | ✅ | main | 2026-05-27 |
+| marenostrum | ✅ | main | 2026-05-27 |
 | barons-Mariani | ✅ | main | 2026-05-27 |
-| inseme | ✅ | main | 2026-05-26 |
-| Inox | ✅ | master | 2026-05-26 |
+| inseme | ✅ | main | 2026-05-27 |
+| Inox | ✅ | master | 2026-05-27 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -193,6 +193,11 @@ graph LR
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
 | [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
+| [Grammaire générative de l'Autonomie de Capacité (FR)](autonomia/grammaire_autonomie_de_capacite.md) *(méthode source v1.0 — produire réponses, programmes, discours et produits déclinés orientés « Une Corse capable »)* | this repo | 2026-05-27 |
+| [Atlas du paysage politique et discursif corse — Une Corse capable (FR)](autonomia/atlas_paysage_politique_corse.md) *(atlas v1.0-atlas — acteurs, terrains rhétoriques, axes de polarisation, formules de reconfiguration)* | this repo | 2026-05-27 |
+| [Stock de formules publiques — Autonomie de Capacité (FR)](autonomia/formules_publiques_autonomie_capacite.md) *(annexe v0.57 — bibliothèque de formules publiques, terrains rhétoriques, contre-formules pour Une Corse capable)* | this repo | 2026-05-27 |
+| [Le Petit Parti — Mode d'emploi de l'Autonomie de Capacité (FR)](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md) *(working draft v0.1 — guide court pour militants, sympathisants, candidats et relais locaux)* | this repo | 2026-05-27 |
+| [Traçabilité des actes : mandat, imputabilité et contrôle des actes engageants (FR)](traceabilite_des_actes.md) *(working paper v0.15.1-research — ChatGPT drafting + Grok review + JHR arbitration ; dérivé blogpost dans [`traceabilite_des_actes_blogpost.md`](traceabilite_des_actes_blogpost.md))* | this repo | 2026-05-27 |
 | [GR20 : du quota à l'autonomie de capacité (FR)](gr20_autonomie_de_capacite.md) *(note de campagne — application montagne)* | this repo | 2026-05-16 |
 | [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
 | [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |

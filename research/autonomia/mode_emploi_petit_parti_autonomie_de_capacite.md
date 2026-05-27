@@ -562,3 +562,17 @@ Formule finale :
 
 > **À chaque débat, à chaque objection, à chaque promesse, poser la même question : qu’est-ce qui rend le territoire plus capable ?**
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Atlas du paysage politique et discursif corse — Une Corse capable](atlas_paysage_politique_corse.md)
+- [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
+- [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
+- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

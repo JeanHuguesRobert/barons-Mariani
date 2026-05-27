@@ -2,8 +2,6 @@
 title: "Déclaration d’indépendance de capacité de la Corse"
 subtitle: "Après 1755, à l’âge du cyberespace"
 status: derived_product_v0.1
-repository: barons-Mariani
-path: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/declaration_independance_capacite_corse.md
 language: fr
 created: 2026-05-24
 relation_to_source: asymmetric
@@ -21,6 +19,9 @@ primary_sources:
   - repository: cogentia
     path: research/derived_products.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/declaration_independance_capacite_corse.md
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 ---
 

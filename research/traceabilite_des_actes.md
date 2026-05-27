@@ -7,8 +7,6 @@ date: "2026-05-27"
 status: "Working paper — operational research version validated after reviewer critique"
 version: "0.15.1-research"
 license: "CC BY-SA 4.0"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "research/traceabilite_des_actes.md"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md"
 ai_assisted_by:
   - "ChatGPT — drafting, restructuring, consolidation"
@@ -496,6 +494,7 @@ continuation:
 ### Backlinks
 
 *These documents link to this file:*
-- [La pathologie du secret](pathologie_du_secret.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 
 <!-- END_AUTO: backlinks -->

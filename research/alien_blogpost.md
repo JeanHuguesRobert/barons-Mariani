@@ -26,6 +26,7 @@ related_concepts:
 continuation_status: "open"
 revision_note: "v0.2 corrige la continuation et ajoute un renvoi explicite vers la grille académique."
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_blogpost.md
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-05-26
 ---
 

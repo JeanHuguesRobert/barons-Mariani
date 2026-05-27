@@ -2,8 +2,6 @@
 title: "Stabilité extractive"
 subtitle: "La Corse comme refuge de réalité dans un monde disloqué"
 status: source_document_v0.1
-repository: barons-Mariani
-path: research/corsica_stability_extraction.md
 language: fr
 created: 2026-05-24
 source_lineage: multi-source
@@ -32,6 +30,9 @@ expected_derived_products:
     relation_to_source: asymmetric
     source_lineage: mono-source_or_multi-source
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corsica_stability_extraction.md
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 ---
 
