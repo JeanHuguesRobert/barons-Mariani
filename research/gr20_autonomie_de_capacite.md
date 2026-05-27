@@ -2,7 +2,7 @@
 title: "GR20 : du quota à l’autonomie de capacité"
 subtitle: "Note de campagne pour une politique corse de la montagne capable"
 author: "Jean Hugues Noël Robert"
-context: "Candidature sénatoriale en Haute-Corse"
+x-context: "Candidature sénatoriale en Haute-Corse"
 date: "2026-05-16"
 status: "draft"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/gr20_autonomie_de_capacite.md

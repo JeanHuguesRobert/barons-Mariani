@@ -1,7 +1,7 @@
 ---
 title: "Proposition constitutionnelle — autonomie de capacité de la Corse"
 subtitle: "Contribution à la rédaction du futur article 72-5 de la Constitution"
-status: constitutional_proposal_v0.1
+status: working-paper — constitutional_proposal_v0.1
 language: fr
 created: 2026-05-24
 updated: 2026-05-24

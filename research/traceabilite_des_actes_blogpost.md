@@ -3,7 +3,7 @@ title: "Traçabilité des actes : déléguer sans se déposséder"
 subtitle: "Mandat, imputabilité et responsabilité dans un monde où humains, institutions et IA agissent ensemble"
 author: "Jean Hugues Noël Robert"
 date: "2026-05-27"
-status: "Draft — Substack / Les carnets du baron Mariani"
+status: working-paper — Substack / Les carnets du baron Mariani (draft)
 version: "0.1-blogpost"
 source_document: "research/traceabilite_des_actes.md v0.15.1-research"
 license: "CC BY-SA 4.0"
@@ -12,6 +12,7 @@ ai_assisted_by:
 review_context:
   - "Grok — reviewer of research version, not author of this blogpost"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes_blogpost.md
 ---
 
 # Traçabilité des actes : déléguer sans se déposséder

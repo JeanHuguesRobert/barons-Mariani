@@ -1,7 +1,7 @@
 ---
 title: "Note synthétique pour examen parlementaire"
 subtitle: "Autonomie de capacité de la Corse — proposition de finalité constitutionnelle"
-status: operational_note_v0.1
+status: working-paper — operational_note_v0.1
 language: fr
 created: 2026-05-24
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"

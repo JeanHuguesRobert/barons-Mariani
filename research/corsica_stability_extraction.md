@@ -1,7 +1,7 @@
 ---
 title: "Stabilité extractive"
 subtitle: "La Corse comme refuge de réalité dans un monde disloqué"
-status: source_document_v0.1
+status: working-paper — source_document_v0.1
 language: fr
 created: 2026-05-24
 source_lineage: multi-source

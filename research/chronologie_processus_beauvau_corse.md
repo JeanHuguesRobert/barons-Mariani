@@ -1,7 +1,7 @@
 ---
 title: "Chronologie documentaire du processus de Beauvau"
 subtitle: "De l’agression d’Yvan Colonna, puis de son décès, au projet constitutionnel d’autonomie de la Corse"
-status: documentary_timeline_v0.18
+status: working-paper — documentary_timeline_v0.18
 language: fr
 created: 2026-05-24
 updated: 2026-05-24

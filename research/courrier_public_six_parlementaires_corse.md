@@ -1,7 +1,7 @@
 ---
 title: "Courrier public aux six parlementaires de Corse"
 subtitle: "Pour une autonomie de capacité réelle et pleinement inscrite dans la République"
-status: public_letter_v0.6
+status: working-paper — public_letter_v0.6
 language: fr
 created: 2026-05-24
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"

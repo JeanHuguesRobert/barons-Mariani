@@ -1,7 +1,7 @@
 ---
 title: "Déclaration d’indépendance de capacité de la Corse"
 subtitle: "Après 1755, à l’âge du cyberespace"
-status: derived_product_v0.1
+status: working-paper — derived_product_v0.1
 language: fr
 created: 2026-05-24
 relation_to_source: asymmetric

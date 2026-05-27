@@ -8,8 +8,8 @@ last_modified_at: 2026-05-18
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-status: "Working paper — thesis kernel, open to falsifiable objections and revisions"
-method: "Second Method compatible draft"
+status: working-paper — thesis kernel, open to falsifiable objections and revisions
+x-method: "Second Method compatible draft"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
 last_stamped_at: 2026-05-26
 ---

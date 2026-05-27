@@ -2,11 +2,10 @@
 title: "Mauvaise calibration métacognitive face aux intelligences xénoformes"
 subtitle: "Pour une AI Safety post-anthropocentrique et une gouvernance démocratique des intelligences hybrides"
 version: "v0.7"
-status: "academic derived form"
+status: working-paper — academic derived form
 document_role: "forme académique déclinée provisoire"
 derived_from: "future source document"
 source_status: "non-source; à consolider ultérieurement dans un document source souverain du corpus"
-repository_candidate:
   - "barons-Mariani"
   - "cogentia"
 author: "Jean Hugues Robert"
@@ -31,7 +30,6 @@ related_concepts:
   - "Cogentia"
   - "Kudocracy"
 continuation_status: "open"
-canonical_slug: "alien_academic"
 document_family: "derived_academic_form"
 source_document_status: "future"
 intended_source_document: "xenoform_intelligence_source.md"

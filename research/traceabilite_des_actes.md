@@ -4,7 +4,7 @@ subtitle: "Mandat, imputabilité et contrôle des actes engageants dans les rég
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-05-27"
-status: "Working paper — operational research version validated after reviewer critique"
+status: working-paper — operational research version validated after reviewer critique
 version: "0.15.1-research"
 license: "CC BY-SA 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md"
@@ -13,7 +13,7 @@ ai_assisted_by:
 reviewed_by:
   - "Grok — external AI reviewer / critic"
 human_arbitration_by: "Jean Hugues Noël Robert"
-method:
+x-method:
   - "seconde méthode"
   - "pipeline Cogentia"
   - "document autoporteur"

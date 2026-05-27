@@ -4,6 +4,11 @@ description: "A map of what is, what is in progress, and what could be."
 layout: default
 nav_order: 1
 last_modified_at: 2026-05-22
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: 2026-05-22
+creator: Jean Hugues Noël Robert, baron Mariani
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md
 ---
 # Research Index — barons-Mariani
 
@@ -109,6 +114,10 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
 - [Autonomia](autonomia.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Atlas du paysage politique et discursif corse — Une Corse capable](autonomia/atlas_paysage_politique_corse.md)
+- [Stock de formules publiques — Autonomie de Capacité](autonomia/formules_publiques_autonomie_capacite.md)
+- [Grammaire générative de l’Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md)
+- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md)
 - [Projet #1755](autonomia/projet_1755.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Concept Index — barons-Mariani](concepts.md)
@@ -123,6 +132,8 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Discours de la seconde méthode](second_method.md)
 - [Territoires possibilistes](territoires_possibilistes.md)
 - [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
+- [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)
+- [Traçabilité des actes](traceabilite_des_actes.md)
 - [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
 - [The Republic of Donkeys](../the_republic_of_donkeys.md)
 - [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)

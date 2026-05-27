@@ -7,8 +7,7 @@ affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte,
 version: "0.5"
 date: "2026-05-23"
 license: "CC BY-SA 4.0"
-repository: "github.com/JeanHuguesRobert/barons-Mariani"
-status: "working paper"
+status: working-paper — working paper
 related:
   - "./second_method.md"
   - "./autonomie_de_capacite.md"

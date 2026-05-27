@@ -6,10 +6,8 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A. / Inseme / Cogentia"
 version: "0.2"
 date: "2026-05-22"
-status: "working paper — révision conceptuelle"
+status: working-paper — révision conceptuelle
 license: "CC BY-SA 4.0"
-repository: "github.com/JeanHuguesRobert/barons-Mariani"
-path: "research/kudocracy.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md
 last_modified_at: "2026-05-22"
 last_stamped_at: 2026-05-26

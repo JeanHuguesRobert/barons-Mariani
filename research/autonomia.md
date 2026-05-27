@@ -7,7 +7,7 @@ affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte,
 version: "0.12"
 date: "2026-05-18"
 license: "CC BY-SA 4.0"
-status: "working paper"
+status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
 last_stamped_at: 2026-05-26
 ---

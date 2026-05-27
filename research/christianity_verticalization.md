@@ -2,7 +2,7 @@
 title: "Verticalisation de la Chrétienté"
 subtitle: "Du Dieu-à-côté au Dieu-au-dessus : esquisse historique, politique et symbolique"
 version: "0.4"
-status: "working paper"
+status: working-paper — working paper
 date: "2026-05-25"
 author: "Jean Hugues Noël Robert"
 ai_assisted_by:

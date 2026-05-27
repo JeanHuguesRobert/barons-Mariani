@@ -2,7 +2,7 @@
 title: "Alien, l’IA et les intelligences xénoformes"
 subtitle: "Pourquoi nous comprenons mal les intelligences qui ne nous ressemblent pas"
 version: "v0.2"
-status: "blog derived form"
+status: working-paper — blog derived form
 document_role: "forme déclinée pour Substack"
 publication_target: "Les carnets du baron Mariani"
 derived_from:
@@ -11,7 +11,6 @@ derived_from:
 author: "Jean Hugues Robert"
 license: "CC BY 4.0"
 language: "fr"
-canonical_slug: "alien_blogpost"
 document_family: "derived_public_blogpost"
 related_concepts:
   - "intelligence xénoforme"

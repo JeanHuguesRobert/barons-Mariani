@@ -1,14 +1,12 @@
 ---
 title: "Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement"
 subtitle: "À partir du working paper “Verticalisation de la Chrétienté”"
-derived_from: "research/christianity_verticalization.md"
+source_document: "research/christianity_verticalization.md"
 derived_product_type: "blogpost"
 platform_target: "Substack — Les carnets du baron Mariani"
 version: "0.1"
 date: "2026-05-25"
 author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "research/christianity_verticalization_blogpost.md"
 license: "CC BY 4.0"
 language: "fr"
 tags:
