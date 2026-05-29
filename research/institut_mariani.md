@@ -1,9 +1,9 @@
 # Institut Mariani — définition, rôle et généalogie documentaire
 
-> Document de travail — v0.8  
+> Document de travail — v0.9  
 > Date : 2026-05-29  
 > Dépôt : `JeanHuguesRobert/barons-Mariani`  
-> Statut : document public provisoire, établi à partir des traces Gmail/Trello/GitHub disponibles et du corpus connu.
+> Statut : document public provisoire, établi à partir des traces Gmail/Yahoo Mail/Trello/GitHub disponibles et du corpus connu.
 
 ---
 
@@ -12,18 +12,35 @@
 Les premières versions de ce document situaient trop tard le début visible de l’Institut Mariani. Les recherches successives ont montré qu’il faut distinguer plusieurs couches :
 
 1. **C.O.R.S.I.C.A. historique** — association créée à Corte fin 1995, dont Jean Hugues Robert est président depuis la création.
-2. **Institut Mariani à l’état latent** — fonction non encore nommée comme telle, mais déjà présente dans la combinaison : mémoire, réseau, coopération, territoire, documentation, logiciels ouverts, accueil, démocratie directe et transmission.
-3. **Socle associatif et territorial documenté dès 2008-2010** — accueil scout, Couchsurfing, Casa Mariani, tentative de domaine `corsica.asso.fr`, dossiers associatifs et culturels cortenais, bilan d’activité et demandes de subvention.
-4. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source, publication publique, suivi de trafic, Basecamp, AWS/EC2, domaines personnalisés.
-5. **Socle territorial Casa Mariani / Minesteggio** — accueil, scouts, hospitalité, patrimoine, jardins, blé, territoire.
-6. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
-7. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
-8. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
-9. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
+2. **Archives numériques antérieures à Gmail** — avant l’activation de `jeanhuguesrobert@gmail.com` le 11 août 2006, Jean Hugues Robert utilisait déjà Yahoo Mail, notamment l’adresse `jean_hugues_robert@yahoo.com`, encore utilisée aujourd’hui.
+3. **Institut Mariani à l’état latent** — fonction non encore nommée comme telle, mais déjà présente dans la combinaison : mémoire, réseau, coopération, territoire, documentation, logiciels ouverts, accueil, démocratie directe et transmission.
+4. **Premier état latent documenté en 2006-2007** — Minesteggio, album Flickr, offre de lieu de camp, page wiki, `virtreal.metawiki.com`, `CampsScouts`, `ChateauMariani`, Casa Mariani.
+5. **Socle associatif et territorial documenté dès 2008-2010** — accueil scout, Couchsurfing, Casa Mariani, tentative de domaine `corsica.asso.fr`, dossiers associatifs et culturels cortenais, bilan d’activité et demandes de subvention.
+6. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source, publication publique, suivi de trafic, Basecamp, AWS/EC2, domaines personnalisés.
+7. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
+8. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
+9. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
+10. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
 
 Ce document ne prétend donc pas que l’Institut Mariani existait formellement sous ce nom dès 1995. Il établit une **généalogie de cohérence** : des travaux techniques, territoriaux, civiques et patrimoniaux convergent progressivement vers l’Institut Mariani.
 
 La formulation la plus juste à ce stade est la suivante : **l’Institut Mariani existait depuis longtemps à l’état latent**, comme fonction associative, documentaire, technique, territoriale et civique portée par C.O.R.S.I.C.A. et les travaux de Jean Hugues Robert ; il a ensuite pris un état mieux structuré, plus visible et plus outillé, d’abord autour de 2017-2018, puis plus explicitement comme couche R&D associative en 2024-2026.
+
+---
+
+## Précision sur les sources mail
+
+La boîte Gmail consultée ne marque pas le début de l’activité numérique de Jean Hugues Robert. Elle marque seulement le début documenté de l’usage de `jeanhuguesrobert@gmail.com` dans cette archive.
+
+Les premières traces Gmail disponibles sont datées du **11 août 2006**, avec les messages automatiques de bienvenue de Gmail et un message de Jean-François Catz intitulé « welcome to gmail ».
+
+Avant cette date, Jean Hugues Robert utilisait déjà **Yahoo Mail**, notamment l’adresse :
+
+- `jean_hugues_robert@yahoo.com`
+
+Cette adresse reste utilisée fréquemment. Elle doit donc être comprise comme une couche d’archive antérieure et parallèle à Gmail. Toute reconstitution fidèle de l’historique devra, dans la mesure du possible, intégrer aussi les archives Yahoo Mail, les exports éventuels, les anciens carnets d’adresses, les domaines Gandi, les sauvegardes locales, les anciennes pages web et les traces papier.
+
+Conséquence méthodologique : les recherches Gmail ne donnent pas une origine absolue. Elles donnent seulement le **plancher actuellement accessible dans Gmail**.
 
 ---
 
@@ -84,6 +101,7 @@ L’Institut Mariani peut donc être défini comme une **infrastructure document
 | Entité | Nature | Rôle principal | Relation avec l’Institut Mariani |
 |---|---|---|---|
 | C.O.R.S.I.C.A. | Association créée fin 1995 à Corte | Cadre associatif historique | L’Institut Mariani y existe d’abord comme fonction latente, puis comme émanation documentaire, gestionnaire et R&D. |
+| Yahoo Mail / Gmail | Archives numériques personnelles et opérationnelles | Courriels, traces, contacts, preuves d’antériorité | Source documentaire majeure, mais incomplète si l’on ne consulte que Gmail. |
 | Casa Mariani / Minesteggio | Socle territorial | Lieu, accueil, patrimoine, jardins, hospitalité | Fournit le terrain matériel et symbolique. |
 | Virteal / SimpliWiki | Socle technique ancien | Wiki, coopération, structures distribuées | Préfigure la couche documentaire, collaborative et cognitive. |
 | Kudocracy / Suvranu | Socle civic-tech | Démocratie liquide, démocratie directe, vote, représentation | Préfigure l’axe démocratique et capacitaire. |
@@ -111,20 +129,61 @@ Son utilité tient à cinq fonctions :
 
 # Généalogie chronologique
 
-## 1995-2007 — Socle C.O.R.S.I.C.A. et préhistoire à documenter
+## 1995-2006 — Socle C.O.R.S.I.C.A. et archives antérieures à Gmail
 
 ### Niveau de preuve
 
 **Trace certaine dans le corpus connu** : C.O.R.S.I.C.A. est créée à Corte fin 1995.  
-**À documenter** : statuts, anciens sites, archives papier, archives Virteal, archives SimpliWiki, captures web, anciens dépôts, sauvegardes locales, traces associatives C.O.R.S.I.C.A. antérieures à Gmail.
+**Trace certaine contextuelle** : avant l’activation du compte Gmail `jeanhuguesrobert@gmail.com` le 11 août 2006, Jean Hugues Robert utilisait déjà l’adresse Yahoo Mail `jean_hugues_robert@yahoo.com`.  
+**À documenter** : statuts, anciens sites, archives Yahoo Mail, archives papier, archives Virteal, archives SimpliWiki, captures web, anciens dépôts, sauvegardes locales, traces associatives C.O.R.S.I.C.A. antérieures à Gmail.
 
 ### Lecture
 
 Cette période constitue le socle profond : internet, compétences autonomes, coopération, réseau, autonomie, territoire. L’Institut Mariani n’existe pas encore comme nom dans les traces retrouvées, mais les fonctions qui le définiront plus tard sont déjà présentes à l’état latent : relier, documenter, transmettre, organiser des compétences autonomes, outiller la coopération et inscrire cette coopération dans un territoire.
 
+Il faut éviter une erreur de méthode : le début de Gmail en août 2006 ne doit pas être confondu avec le début de l’activité numérique. Yahoo Mail constitue une couche antérieure et toujours active de cette histoire.
+
 ---
 
-## 2008-2010 — État latent documenté : accueil, association, wiki, Virteal, SimpliWiki
+## 2006-2007 — Premier état latent documenté : Minesteggio, Flickr, wiki et accueil scout
+
+### Niveau de preuve
+
+**Trace certaine dans Gmail** : messages à partir du 11 août 2006 ; usage de `jeanhuguesrobert@gmail.com` et `jean_hugues_robert@yahoo.com` ; album Flickr Minesteggio 2006 ; premières offres de lieu de camp ; pages wiki `virtreal.metawiki.com/CampsScouts` et `virtreal.metawiki.com/ChateauMariani`.  
+**Trace interprétative** : ces éléments ne constituent pas encore l’Institut Mariani nommé, mais ils documentent déjà ses fonctions essentielles : lieu, mémoire, accueil, wiki, coordination distribuée.
+
+### Activités attestées
+
+- **11 août 2006** : premiers messages Gmail connus, dont deux messages automatiques de bienvenue de Gmail et un message de Jean-François Catz intitulé « welcome to gmail ».
+- **Avant août 2006** : usage déjà établi de Yahoo Mail, notamment `jean_hugues_robert@yahoo.com`, adresse encore utilisée fréquemment.
+- **Septembre 2006** : album Flickr **Minesteggio 2006**, achat d’un compte Flickr Pro, invitations à consulter ou rejoindre l’album.
+- **Octobre 2006** : premières traces `Offre lieu de camp, Corse` ; Jean Hugues Robert décrit une grande propriété à Corte, proche de l’entrée de la ville mais en pleine nature.
+- **Novembre 2006** : plusieurs messages mentionnent une **page Wiki** mise en place pour répondre aux scouts et centraliser les informations.
+- **29 novembre 2006** : formulation très forte : « Merci de consulter la page Wiki que j’ai mise en place. N’hésitez pas à la compléter ».
+- **Mars 2007** : la page est présentée comme une page wiki modifiable par les interlocuteurs ; usage de `virtreal.metawiki.com`.
+- **Mai 2007** : `virtreal.metawiki.com/CampsScouts` est utilisé comme outil de planning.
+- **Juin 2007** : `virtreal.metawiki.com/ChateauMariani` fournit l’adresse et les informations du lieu.
+- **Juillet 2007** : `virteal.com/CampsScouts` commence à apparaître comme point d’accès ou relais.
+- **Août 2007** : message à Philippe Leandri après son passage à Minesteggio et sa rencontre avec les scouts.
+- **Fin 2007** : la saison suivante est déjà organisée ; des demandes arrivent pour 2008.
+
+### Lecture
+
+Cette période constitue le **premier état latent documenté** de l’Institut Mariani. Les fonctions essentielles sont déjà visibles :
+
+- un **lieu** : Minesteggio / Casa Mariani / Corte ;
+- une **mémoire visuelle** : Flickr / Minesteggio 2006 ;
+- une **fonction d’accueil** : groupes scouts, pionniers, compagnons ;
+- une **fonction documentaire** : page wiki, fiche de lieu, planning ;
+- une **fonction de coordination distribuée** : les interlocuteurs peuvent compléter la page ;
+- une **fonction de transmission** : accueillir des jeunes et des groupes dans un lieu patrimonial corse ;
+- une **fonction de publication ouverte** : le lieu est décrit publiquement, accessible par URL, organisé par pages.
+
+La formule prudente est donc : **l’Institut Mariani est déjà latent en 2006-2007**, non comme institution nommée, mais comme architecture de pratiques associant lieu, mémoire, accueil, documentation et outils web.
+
+---
+
+## 2008-2010 — Structuration de l’état latent : accueil, association, wiki, Virteal, SimpliWiki
 
 ### Niveau de preuve
 
@@ -133,7 +192,12 @@ Cette période constitue le socle profond : internet, compétences autonomes, co
 
 ### Activités attestées
 
-- **Juillet 2008** : trace indirecte d’un camp scout accueilli chez Jean Hugues Robert, via un message de mars 2010 évoquant un excellent souvenir du camp de juillet 2008.
+- **Février 2008** : échanges indiquant déjà « beaucoup de demandes » pour des camps scouts.
+- **Mai-juin 2008** : usage stable de `virteal.com/CampsScouts`, `virtreal.metawiki.com/CampsScouts` et `virteal.com/ChateauMariani`.
+- **Juillet 2008** : camp scout accueilli chez Jean Hugues Robert ; trace indirecte confirmée par un message de mars 2010 évoquant un excellent souvenir du camp de juillet 2008.
+- **Juillet 2008** : Virteal dépasse déjà 10 000 visites cumulées selon les rapports Sitemeter.
+- **Août-septembre 2008** : Couchsurfing se met en place autour de Corte ; l’accueil international devient une couche supplémentaire.
+- **Septembre 2008** : `virteal.com/WikiExperiment` apparaît ; Virteal articule déjà expérimentation wiki et publication publique.
 - **2009** : nombreuses traces Couchsurfing à Corte, confirmant une activité d’accueil international et d’hospitalité territoriale.
 - **2009** : trace d’un article ou document autour de **Baron Mariani**, envoyé par Martine Brillais, avec image jointe.
 - **19 novembre 2009** : tentative de création du domaine `corsica.asso.fr` chez OVH.
@@ -153,7 +217,7 @@ Cette période constitue le socle profond : internet, compétences autonomes, co
 
 ### Lecture
 
-Cette période documente fortement l’**état latent** de l’Institut Mariani. Les fonctions essentielles sont déjà là, même sans le nom :
+Cette période documente fortement l’**état latent structuré** de l’Institut Mariani. Les fonctions essentielles sont là, même sans le nom :
 
 - un **lieu** : Casa Mariani / Corte / Minesteggio ;
 - une **hospitalité territoriale** : scouts, Couchsurfing, accueil international ;
@@ -184,7 +248,7 @@ La formule prudente est donc : **l’Institut Mariani est latent dès cette pér
 
 ### Lecture
 
-2011 confirme la matrice de 2008-2010 : un outil numérique, un lieu, un réseau d’accueil, un imaginaire de circulation, une attention au territoire corse et une volonté de relier le local au monde. Cette matrice préfigure directement les futurs thèmes : musée des possibles, territoire capable, Fractanet, Cogentia, Institut Mariani.
+2011 confirme la matrice de 2006-2010 : un outil numérique, un lieu, un réseau d’accueil, un imaginaire de circulation, une attention au territoire corse et une volonté de relier le local au monde. Cette matrice préfigure directement les futurs thèmes : musée des possibles, territoire capable, Fractanet, Cogentia, Institut Mariani.
 
 ---
 
@@ -453,6 +517,7 @@ La cohérence des travaux peut se résumer ainsi :
 Cette logique traverse :
 
 - C.O.R.S.I.C.A. ;
+- Yahoo Mail / Gmail comme archives de continuité ;
 - Casa Mariani / Minesteggio ;
 - accueil scout ;
 - Couchsurfing / voyage immobile ;
@@ -471,14 +536,16 @@ Cette logique traverse :
 
 ## Formule de synthèse
 
-L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se **structure** alors. Avant cela, il existe à l’état latent dans la continuité C.O.R.S.I.C.A. / Casa Mariani / Virteal / SimpliWiki / Kudocracy / Suvranu : une fonction de mémoire, d’organisation, d’accueil, d’expérimentation, de publication ouverte et de transmission.
+L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se **structure** alors. Avant cela, il existe à l’état latent dans la continuité C.O.R.S.I.C.A. / Casa Mariani / Minesteggio / Yahoo Mail / Gmail / Virteal / SimpliWiki / Kudocracy / Suvranu : une fonction de mémoire, d’organisation, d’accueil, d’expérimentation, de publication ouverte et de transmission.
 
-Les traces 2008-2010 renforcent cette lecture : l’état latent est déjà documenté par l’accueil scout, Couchsurfing, les dossiers associatifs et culturels cortenais, le wiki, Virteal, SimpliWiki, les tentatives de domaine associatif corse et les outils de coordination technique.
+Les traces 2006-2007 renforcent cette lecture : l’état latent est déjà documenté par l’album Flickr Minesteggio 2006, l’offre de lieu de camp, la page wiki collaborative, les pages `CampsScouts` et `ChateauMariani`, et l’usage combiné de Yahoo Mail puis Gmail.
+
+Les traces 2008-2010 confirment la structuration : accueil scout récurrent, Couchsurfing, dossiers associatifs et culturels cortenais, wiki, Virteal, SimpliWiki, tentative de domaine associatif corse et outils de coordination technique.
 
 ## Fonctions historiques
 
 1. **Back-office associatif** — comptes, banque, CAF, assurances, Trello, feuilles Google, conventions, subventions, suivi administratif.
-2. **Espace de suivi** — Trello, GitHub, Gmail, Drive, versions, preuves.
+2. **Espace de suivi** — Yahoo Mail, Gmail, Trello, GitHub, Drive, versions, preuves.
 3. **Archive institutionnelle** — démarches associatives, administratives, patrimoniales, juridiques et politiques.
 4. **Patrimoine et transmission** — Minesteggio, Casa Mariani, Barons Mariani, futur Musée Mariani, archives familiales, DRAC.
 5. **Recherche et développement civique** — démocratie directe, civic-tech, Kudocracy, Suvranu, Autonomie de Capacité, #1755, Cogentia.
@@ -491,22 +558,26 @@ Les traces 2008-2010 renforcent cette lecture : l’état latent est déjà docu
 
 # Points à vérifier ou compléter
 
-1. Date exacte de création du compte `institutmariani@gmail.com`.
-2. Date exacte de création du tableau Trello **Institut Mariani**.
-3. Export ou revue complète du tableau Trello **Institut Mariani**.
-4. Identification précise des stagiaires 2018 et statut exact de chacun.
-5. Rôle exact de François Thomas, Philippe-Joseph Ottomani, Dorian Barbero, Anaiz Aguirre, Orfeu-Vittoriu Gregorj et Lancelot Reybel en 2018.
-6. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
-7. Existence éventuelle de documents constitutifs propres à l’Institut.
-8. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
-9. Reconstitution séparée de l’histoire C.O.R.S.I.C.A. 1995-2007.
-10. Reconstitution séparée de la période 2008-2010 : accueil scout, Couchsurfing, Casa Mariani, Nuits d’Été de Corte, `corsica.asso.fr`, wiki ancien, Virteal, SimpliWiki.
-11. Reconstitution séparée de l’histoire Virteal / SimpliWiki / QueryTree / ConnectedSet.
-12. Reconstitution séparée de l’histoire Kudocracy / Suvranu / demucrazia.corsica / Démocratie Directe Corse / civic-tech.
-13. Reconstitution séparée de l’histoire Casa Mariani / Minesteggio / accueil / scouts / voyage immobile.
-14. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
-15. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
-16. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
+1. Archives Yahoo Mail antérieures à août 2006, en particulier `jean_hugues_robert@yahoo.com`.
+2. Date exacte de création du compte Yahoo Mail.
+3. Date exacte de création ou activation du compte Gmail `jeanhuguesrobert@gmail.com` : actuellement, plus ancienne trace disponible le 11 août 2006.
+4. Date exacte de création du compte `institutmariani@gmail.com`.
+5. Date exacte de création du tableau Trello **Institut Mariani**.
+6. Export ou revue complète du tableau Trello **Institut Mariani**.
+7. Identification précise des stagiaires 2018 et statut exact de chacun.
+8. Rôle exact de François Thomas, Philippe-Joseph Ottomani, Dorian Barbero, Anaiz Aguirre, Orfeu-Vittoriu Gregorj et Lancelot Reybel en 2018.
+9. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
+10. Existence éventuelle de documents constitutifs propres à l’Institut.
+11. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
+12. Reconstitution séparée de l’histoire C.O.R.S.I.C.A. 1995-2006.
+13. Reconstitution séparée de la période 2006-2007 : Yahoo Mail, Gmail, Flickr, Minesteggio, offre de lieu de camp, wiki, `CampsScouts`, `ChateauMariani`.
+14. Reconstitution séparée de la période 2008-2010 : accueil scout, Couchsurfing, Casa Mariani, Nuits d’Été de Corte, `corsica.asso.fr`, wiki ancien, Virteal, SimpliWiki.
+15. Reconstitution séparée de l’histoire Virteal / SimpliWiki / QueryTree / ConnectedSet.
+16. Reconstitution séparée de l’histoire Kudocracy / Suvranu / demucrazia.corsica / Démocratie Directe Corse / civic-tech.
+17. Reconstitution séparée de l’histoire Casa Mariani / Minesteggio / accueil / scouts / voyage immobile.
+18. Emplacement final des archives : Yahoo Mail, Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
+19. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
+20. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
 
 ---
 
@@ -514,11 +585,14 @@ Les traces 2008-2010 renforcent cette lecture : l’état latent est déjà docu
 
 Ce document a été établi à partir des traces Gmail consultées le 29 mai 2026, en particulier :
 
+- les premières traces Gmail disponibles, datées du 11 août 2006 ;
+- la mention par Jean Hugues Robert de l’usage antérieur et continu de l’adresse Yahoo Mail `jean_hugues_robert@yahoo.com` ;
 - les messages envoyés ou reçus par `institutmariani@gmail.com` ;
 - les messages où cette adresse figure en copie ;
 - les échanges contenant l’expression « Institut Mariani » ;
 - les notifications Trello mentionnant le tableau **Institut Mariani** ;
 - les échanges C.O.R.S.I.C.A., U Granu Anticu, Mariani Village, Minesteggio et Casa Mariani ;
+- les traces 2006-2007 liées à Yahoo Mail, Gmail, Flickr, Minesteggio, Casa Mariani, offre de lieu de camp, page wiki, `virtreal.metawiki.com/CampsScouts`, `virtreal.metawiki.com/ChateauMariani` et `virteal.com/CampsScouts` ;
 - les traces 2008-2010 liées à l’accueil scout, Couchsurfing, Casa Mariani, `baronmariani.org`, `corsica.asso.fr`, dossiers associatifs, Nuits d’Été de Corte, wiki ancien, Virteal, SimpliWiki, Sitemeter, Disqus, Basecamp, AWS, Pingdom et Gandi ;
 - les traces 2011-2016 liées à Virteal, SimpliWiki, scouts, Casa Mariani, QueryTree, ConnectedSet, CRDTs, Kudocracy, Democracy Earth, Communiti et Suvranu ;
 - les traces 2017 liées à Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate et Facebook Ads ;
@@ -526,4 +600,4 @@ Ce document a été établi à partir des traces Gmail consultées le 29 mai 202
 
 Les liens Gmail privés, identifiants techniques de messages, informations personnelles sensibles, mots de passe, coordonnées bancaires, détails individuels non nécessaires et contenus privés ne sont pas reproduits dans ce document public. Les sujets, dates et catégories d’activité ont été retenus comme traces probatoires minimales.
 
-Le document devra être complété par une revue du tableau Trello **Institut Mariani**, du Drive partagé de l’Institut Mariani, des dépôts GitHub pertinents, et des archives locales détenues hors Gmail.
+Le document devra être complété par une revue des archives Yahoo Mail, du tableau Trello **Institut Mariani**, du Drive partagé de l’Institut Mariani, des dépôts GitHub pertinents, des archives locales détenues hors Gmail et des éventuelles archives papier.
