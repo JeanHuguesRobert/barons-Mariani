@@ -1,6 +1,6 @@
 # Institut Mariani — définition, rôle et rapports d’activité
 
-> Document de travail — v0.4  
+> Document de travail — v0.5  
 > Date : 2026-05-29  
 > Dépôt : `JeanHuguesRobert/barons-Mariani`  
 > Statut : document public provisoire, établi à partir des traces Gmail/Trello disponibles et du corpus connu.
@@ -9,17 +9,29 @@
 
 ## Avertissement de méthode
 
-La première version de ce document situait à tort le début des traces visibles autour de l’Institut Mariani en décembre 2023. Une reprise des recherches Gmail par fenêtres temporelles a fait reculer cette limite successivement à 2021, 2019, octobre 2018, puis au printemps 2018.
+La première version de ce document situait à tort le début des traces visibles autour de l’Institut Mariani en décembre 2023. Une reprise des recherches Gmail par fenêtres temporelles a fait reculer cette limite successivement à 2021, 2019, octobre 2018, printemps 2018, puis à une **préfiguration explicite fin 2017-début 2018**.
+
+Il faut distinguer trois couches :
+
+1. **C.O.R.S.I.C.A. historique** — association créée à Corte fin 1995, antérieure à l’Institut Mariani.
+2. **Préfiguration 2017-début 2018** — montée d’une activité documentée, civic-tech, territoriale, politique, patrimoniale et d’accueil, encore pas toujours nommée « Institut Mariani ».
+3. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage structuré d’archivage.
 
 À ce stade, les plus anciennes traces probantes retrouvées sont :
 
+- **2017** : activité C.O.R.S.I.C.A. / civic-tech / démocratie directe autour de `demucrazia.corsica`, Kudocracy, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate et publications sponsorisées Facebook ;
+- **fin 2017-début 2018** : montée d’une documentation plus systématique autour de Casa Mariani, Minesteggio, accueil, scouts, U Granu Anticu, Terra Madre, blé Alalia, démocratie directe et outils numériques ;
 - **8 mars 2018** : message envoyé à Yvon Ambrosi mentionnant explicitement que « l’Institut Mariani œuvre dans le champ de l’innovation sociale » ;
 - **1er mai 2018** : notifications Trello sur le tableau **Institut Mariani** ;
 - **mai-juin 2018** : activité structurée autour de Trello, des bureaux, de C.O.R.S.I.C.A., de Lancelot Reybel, Orfeu-Vittoriu Gregorj, Anaiz Aguirre, François Thomas, Philippe-Joseph Ottomani, puis Dorian Barbero ;
 - **été 2018** : forte activité Trello et opérationnelle : événements, Jardin/Minesteggio, scouts, assurance, cuisine collective, drone, affiches, partenariats, conventions, bureau, subventions.
 
-Il faut donc retenir une chronologie prudente :
+Chronologie prudente :
 
+- **1995** : création de C.O.R.S.I.C.A., socle associatif historique ;
+- **avant 2017** : activités diverses relevant de C.O.R.S.I.C.A., de Casa Mariani, de l’accueil, du patrimoine, du numérique et du territoire ;
+- **2017** : forte montée civic-tech et démocratie directe : Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate, publicités Facebook ;
+- **fin 2017-début 2018** : passage vers une activité plus documentée, territoriale et expérimentale ;
 - **mars 2018** : première trace écrite actuellement retrouvée du nom Institut Mariani ;
 - **mai 2018** : usage attesté du tableau Trello **Institut Mariani** ;
 - **juin-août 2018** : phase d’équipe opérationnelle, avec collaborateurs, stagiaires probables ou personnes associées ;
@@ -29,7 +41,7 @@ Il faut donc retenir une chronologie prudente :
 - **2023-2024** : consolidation documentaire, patrimoniale, DRAC, C.O.R.S.I.C.A., Minesteggio, puis archivage probatoire en période de crise ;
 - **2025-2026** : montée en puissance R&D : énergie, souveraineté territoriale, Mare Nostrum, FractaVolta, Autonomie de Capacité, #1755.
 
-Les dates antérieures à mars 2018 restent possibles, mais non établies par les traces Gmail actuellement consultées.
+Les dates antérieures à 2017 relèvent actuellement de l’histoire de C.O.R.S.I.C.A. et de Casa Mariani plutôt que de l’Institut Mariani nommé. Elles devront être documentées séparément.
 
 ---
 
@@ -39,7 +51,7 @@ Les dates antérieures à mars 2018 restent possibles, mais non établies par le
 
 L’**Institut Mariani** est l’émanation documentaire, opérationnelle, civique et R&D de l’association **C.O.R.S.I.C.A.** — *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*, association créée à Corte fin 1995.
 
-Il ne doit pas être réduit à un laboratoire théorique récent. Les traces les plus anciennes montrent d’abord une fonction concrète : innovation sociale, archivage, gestion associative, suivi administratif, loyers, conventions, CAF, assurance, comptes, Trello, relations avec partenaires, projets culturels, agricoles, patrimoniaux et de terrain.
+Il ne doit pas être réduit à un laboratoire théorique récent. Les traces les plus anciennes montrent d’abord une fonction concrète : innovation sociale, archivage, gestion associative, suivi administratif, loyers, conventions, CAF, assurance, comptes, Trello, relations avec partenaires, projets culturels, agricoles, patrimoniaux, politiques et de terrain.
 
 Progressivement, cette base pratique devient une infrastructure plus large : patrimoine, territoire, démocratie, énergie, IA, souveraineté de capacité, corpus vivant et transmission.
 
@@ -88,13 +100,83 @@ Son utilité tient à cinq fonctions :
 
 ## Formulation publique courte
 
-L’**Institut Mariani** est l’infrastructure documentaire, civique et patrimoniale de C.O.R.S.I.C.A. Né d’abord comme espace concret de gestion, de suivi, d’innovation sociale et d’archivage, il s’est progressivement affirmé comme laboratoire de recherche appliquée autour de la souveraineté territoriale, de la démocratie directe, de l’autonomie de capacité, de la mémoire familiale, de l’énergie, du patrimoine et de l’innovation ouverte.
+L’**Institut Mariani** est l’infrastructure documentaire, civique et patrimoniale de C.O.R.S.I.C.A. Né d’abord d’une longue activité associative et territoriale, puis d’une préfiguration civic-tech et patrimoniale en 2017-2018, il devient progressivement un espace concret de gestion, de suivi, d’innovation sociale et d’archivage. Il s’affirme ensuite comme laboratoire de recherche appliquée autour de la souveraineté territoriale, de la démocratie directe, de l’autonomie de capacité, de la mémoire familiale, de l’énergie, du patrimoine et de l’innovation ouverte.
 
 Il n’est pas une institution lourde. C’est une machine de continuité : un lieu documentaire, méthodologique et expérimental où les traces deviennent corpus, où les nécessités administratives deviennent apprentissages, où les intuitions deviennent dossiers, et où les projets peuvent être rendus discutables, versionnés et transmissibles.
 
 ---
 
 # Rapports d’activité annuels
+
+## Avant 2017 — Socle C.O.R.S.I.C.A., Casa Mariani, accueil, patrimoine et territoire
+
+### Niveau de preuve
+
+**Trace certaine partielle** : existence de C.O.R.S.I.C.A. depuis 1995 dans le corpus connu ; traces Gmail éparses de Casa Mariani, Minesteggio, accueil, voyages, travaux, personnes hébergées, échanges associatifs et territoriaux.  
+**À compléter** : archives statutaires, anciens sites, courriels antérieurs, documents papier, comptes rendus, captures web, dépôts ou sauvegardes anciennes.
+
+### Activités ou axes attestés / probables
+
+- C.O.R.S.I.C.A. constitue le cadre associatif ancien.
+- Casa Mariani et Minesteggio forment déjà un terrain concret : accueil, patrimoine, travaux, jardins, hospitalité, échanges internationaux, logistique de lieu.
+- La logique de « réunion de compétences autonomes » précède l’Institut Mariani : réseau, entraide, compétences, internet, territoire.
+- Le patrimoine familial et le territoire de Corte constituent déjà le socle matériel et symbolique des développements ultérieurs.
+
+### Lecture
+
+Cette période ne doit pas être présentée comme « Institut Mariani » au sens strict, faute de trace actuellement retrouvée du nom. Elle constitue plutôt le **socle C.O.R.S.I.C.A. / Casa Mariani** dont l’Institut Mariani deviendra l’émanation documentaire et R&D.
+
+---
+
+## 2017 — Préfiguration civic-tech et territoriale : démocratie directe, Kudocracy, demucrazia.corsica, Casa Mariani
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, domaines, reçus Gandi, DemocracyOS, demucrazia.corsica, Démocratie Directe Corse, Baztille, Parti Pirate, publicités Facebook, échanges politiques et associatifs.  
+**Interprétation prudente** : cette période relève de la préfiguration de l’Institut Mariani, mais le nom Institut Mariani n’est pas encore central dans les traces retrouvées.
+
+### Activités attestées
+
+- Activité autour de **Kudocracy** : renouvellement du domaine `kudocracy.com` en novembre 2017 ; usage de l’adresse `suvranu@kudocracy.com`.
+- **DemocracyOS** : inscription à une consultation « Démocratie numérique » en octobre 2017.
+- **demucrazia.corsica** : échanges en octobre-novembre 2017 autour d’une initiative liée à l’Assemblée de la jeunesse et à la démocratie numérique.
+- **Démocratie Directe Corse** : communiqué public et consignes de vote autour de l’élection territoriale de novembre 2017.
+- **Publicités Facebook** : reçus de campagnes en novembre-décembre 2017, vraisemblablement liées à la diffusion politique/civic-tech.
+- **Baztille** : trace d’une proposition approuvée en décembre 2017 : automatisation du vote, démocratie coopérative par Internet, pair-à-pair, sans élus.
+- **Parti Pirate** : discussions en décembre 2017 autour de statuts, démocratie liquide, mandats courts et révocables.
+- **Trello** : compte Trello actif et payé dès septembre-octobre 2017, mais sans trace retrouvée à ce stade d’un tableau nommé Institut Mariani avant mai 2018.
+- **Casa Mariani / Minesteggio / accueil** : activité continue d’accueil, de lieu, de travaux, de relations territoriales et de circulation entre continent et Corse.
+- **U Granu Anticu / Terra Madre / blé Alalia** : participation aux réseaux agricoles et patrimoniaux corses en fin 2017.
+
+### Lecture
+
+2017 est une année pivot. L’activité n’est pas encore stabilisée sous le nom Institut Mariani, mais deux fils deviennent très visibles :
+
+1. **fil civic-tech / démocratie directe** : Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate ;
+2. **fil territorial / patrimonial / accueil** : Casa Mariani, Minesteggio, U Granu Anticu, blé Alalia, Terra Madre, hospitalité, travaux et logistique de lieu.
+
+L’Institut Mariani naîtra de la jonction de ces deux fils : un lieu et un corpus ; un territoire et une méthode ; une maison et une infrastructure documentaire.
+
+---
+
+## Début 2018 — Bascule vers l’Institut nommé : démocratie, accueil, scouts, innovation sociale
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, échanges de janvier-mars 2018.
+
+### Activités attestées
+
+- Janvier-février 2018 : contacts liés à l’accueil de camps scouts et lieux de camp, en lien avec Casa Mariani / Minesteggio.
+- Février 2018 : intérêt explicite pour la « vraie démocratie », démocratie directe, démos/kratos, critique de la délégation à des représentants.
+- Début 2018 : échanges autour de dossiers sociaux, administratifs, familiaux et territoriaux, annonçant la fonction de documentation et de suivi qui sera ensuite prise en charge par Trello et l’Institut.
+- **8 mars 2018** : message à Yvon Ambrosi indiquant que « l’Institut Mariani œuvre dans le champ de l’innovation sociale ».
+
+### Lecture
+
+Le début 2018 est la charnière où la préfiguration devient nommable. L’Institut Mariani est explicitement associé à l’innovation sociale. La matière politique, territoriale, patrimoniale et organisationnelle de 2017 commence à se regrouper sous une bannière identifiable.
+
+---
 
 ## 2018 — Innovation sociale, Trello, équipe de terrain, Minesteggio et premiers projets
 
@@ -137,18 +219,7 @@ Il n’est pas une institution lourde. C’est une machine de continuité : un l
 
 2018 apparaît comme l’année de démarrage opérationnel réel. L’Institut Mariani existe déjà comme nom, comme tableau Trello, comme espace de coordination, comme embryon de laboratoire d’innovation sociale et comme support de projets concrets.
 
-Les sujets déjà présents sont très structurants :
-
-- innovation sociale ;
-- Trello comme système de coordination ;
-- bureau de l’Institut ;
-- C.O.R.S.I.C.A. comme support ;
-- Minesteggio comme terrain ;
-- partenariats associatifs ;
-- événements culturels et patrimoniaux ;
-- liens avec le CPIE / A Rinascita ;
-- assurance, responsabilité, subventions ;
-- expérimentations pratiques : cuisine collective, scouts, drone, jardin, accueil, affiches, conférenciers.
+Les sujets déjà présents sont très structurants : innovation sociale, Trello, bureau de l’Institut, C.O.R.S.I.C.A., Minesteggio, partenariats associatifs, événements culturels et patrimoniaux, CPIE / A Rinascita, assurance, responsabilité, subventions, cuisine collective, scouts, drone, jardin, accueil, affiches et conférenciers.
 
 ---
 
@@ -172,11 +243,7 @@ Les sujets déjà présents sont très structurants :
 
 ### Lecture
 
-2019 est l’année où l’Institut devient clairement un **nom d’usage opérationnel**. La distinction se précise :
-
-- C.O.R.S.I.C.A. demeure le support associatif légal ;
-- Institut Mariani est l’espace de travail, de gestion, d’archive et de coordination ;
-- Mariani Village commence à apparaître comme projet structurant.
+2019 est l’année où l’Institut devient clairement un **nom d’usage opérationnel**. La distinction se précise : C.O.R.S.I.C.A. demeure le support associatif légal ; Institut Mariani est l’espace de travail, de gestion, d’archive et de coordination ; Mariani Village commence à apparaître comme projet structurant.
 
 ---
 
@@ -361,14 +428,16 @@ Il documente Minesteggio, Casa Mariani, Barons Mariani, le futur Musée Mariani,
 Il porte ou accompagne progressivement :
 
 - innovation sociale ;
+- démocratie directe ;
+- civic-tech ;
+- Kudocracy ;
+- demucrazia.corsica ;
 - Autonomie de Capacité ;
 - #1755 ;
 - Mare Nostrum ;
 - FractaVolta ;
-- Kudocracy ;
 - Kudos ;
 - Cogentia ;
-- démocratie directe ;
 - traçabilité ;
 - anti-capture.
 
@@ -388,9 +457,11 @@ Il relie Corte, le Centre Corse, les associations, le CPIE, l’Université de C
 6. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
 7. Existence éventuelle de documents constitutifs propres à l’Institut.
 8. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
-9. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
-10. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
-11. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
+9. Reconstitution séparée de l’histoire C.O.R.S.I.C.A. 1995-2017.
+10. Reconstitution séparée de l’histoire Kudocracy / demucrazia.corsica / Démocratie Directe Corse / civic-tech 2017.
+11. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
+12. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
+13. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
 
 ---
 
@@ -402,7 +473,8 @@ Ce document a été établi à partir des traces Gmail consultées le 29 mai 202
 - les messages où cette adresse figure en copie ;
 - les échanges contenant l’expression « Institut Mariani » ;
 - les notifications Trello mentionnant le tableau **Institut Mariani** ;
-- les échanges C.O.R.S.I.C.A., U Granu Anticu, Mariani Village, Minesteggio et Casa Mariani.
+- les échanges C.O.R.S.I.C.A., U Granu Anticu, Mariani Village, Minesteggio et Casa Mariani ;
+- les traces 2017 liées à Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate et Facebook Ads.
 
 Les liens Gmail privés, identifiants techniques de messages, informations personnelles sensibles, mots de passe, coordonnées bancaires, détails individuels non nécessaires et contenus privés ne sont pas reproduits dans ce document public. Les sujets, dates et catégories d’activité ont été retenus comme traces probatoires minimales.
 
