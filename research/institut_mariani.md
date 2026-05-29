@@ -1,40 +1,48 @@
-# Institut Mariani — définition, rôle et historique tracé
+# Institut Mariani — définition, rôle et rapports d’activité
 
-> Document de travail — v0.2  
+> Document de travail — v0.3  
 > Date : 2026-05-29  
 > Dépôt : `JeanHuguesRobert/barons-Mariani`  
-> Statut : document public provisoire, corrigé après reprise des recherches Gmail par fenêtres temporelles.
+> Statut : document public provisoire, établi à partir des traces Gmail/Trello disponibles et du corpus connu.
 
 ---
 
 ## Avertissement de méthode
 
-Une première version de ce document situait à tort le début des traces visibles autour de l’Institut Mariani en décembre 2023. Cette conclusion était incomplète : elle provenait d’une extraction trop récente des résultats Gmail.
+La première version de ce document situait à tort le début des traces visibles autour de l’Institut Mariani en décembre 2023. Une reprise des recherches Gmail par fenêtres temporelles a fait reculer cette limite successivement à 2021, 2019, puis 2018.
 
-Une reprise des recherches par fenêtres temporelles fait apparaître des traces bien antérieures, au moins dès **novembre 2021**, avec un usage explicite du nom **Institut Mariani** dans Trello, ainsi que l’usage de l’adresse `institutmariani@gmail.com` pour des flux administratifs, associatifs et documentaires de C.O.R.S.I.C.A.
+À ce stade, la plus ancienne trace probante retrouvée est le **30 octobre 2018** : un transfert « Pour archivage » vers `institutmariani@gmail.com`. Le **31 octobre 2018**, une alerte Google montre que `jeanhuguesrobert@gmail.com` est ajouté comme adresse de récupération du compte `institutmariani@gmail.com`. Début novembre 2018, l’adresse reçoit déjà des échanges liés à C.O.R.S.I.C.A. et U Granu Anticu. Fin novembre 2018, le tableau Trello **Institut Mariani** est clairement actif.
 
-La présente version corrige donc la chronologie :
+Il faut donc retenir une chronologie prudente :
 
-- **2021-2022** : Institut Mariani comme espace pratique de gestion, suivi, administration, Trello, AssoConnect, CAF, MAIF, immobilier, comptes et dossiers C.O.R.S.I.C.A. ;
-- **2022-2023** : consolidation de l’usage comme adresse d’archive, de gestion et de coordination ;
-- **2024** : réactivation institutionnelle, patrimoine, DRAC, C.O.R.S.I.C.A., Minesteggio, crise et archivage probatoire ;
-- **2025-2026** : montée en puissance R&D, souveraineté énergétique, Mare Nostrum, FractaVolta, Autonomie de Capacité, #1755 et relations institutionnelles.
+- **fin octobre 2018** : existence attestée de l’adresse `institutmariani@gmail.com` et usage d’archivage ;
+- **novembre 2018** : usage opérationnel autour de C.O.R.S.I.C.A., U Granu Anticu, Trello, gestion, conventions, banque et premiers projets ;
+- **2019** : formalisation plus nette du nom d’usage « Institut Mariani », avec Trello, Solidatech, Mariani Village, réunions aux bureaux de l’Institut ;
+- **2020-2022** : back-office associatif, administratif, social, immobilier et patrimonial ;
+- **2023-2024** : consolidation documentaire, patrimoniale, DRAC, C.O.R.S.I.C.A., Minesteggio, puis archivage probatoire en période de crise ;
+- **2025-2026** : montée en puissance R&D : énergie, souveraineté territoriale, Mare Nostrum, FractaVolta, Autonomie de Capacité, #1755.
+
+Les dates antérieures à octobre 2018 restent possibles, mais non établies par les traces Gmail actuellement consultées.
 
 ---
 
+# Partie principale — Ce qu’est l’Institut Mariani
+
 ## Résumé
 
-L’**Institut Mariani** est l’émanation de recherche, développement, documentation, gestion et expérimentation de l’association **C.O.R.S.I.C.A.** — *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*, association créée à Corte fin 1995.
+L’**Institut Mariani** est l’émanation documentaire, opérationnelle, civique et R&D de l’association **C.O.R.S.I.C.A.** — *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*, association créée à Corte fin 1995.
 
-Il ne faut pas le réduire à un laboratoire théorique récent. Les traces montrent d’abord une fonction concrète : gestion associative, suivi administratif, loyers, CAF, assurance, comptes, documents, Trello, AssoConnect, relation avec les partenaires. Cette base pratique précède et rend possible la fonction plus récente de laboratoire civique, patrimonial, énergétique, politique et cognitif.
+Il ne doit pas être réduit à un laboratoire théorique récent. Les traces les plus anciennes montrent d’abord une fonction concrète : archivage, gestion associative, suivi administratif, loyers, conventions, CAF, assurance, comptes, Trello, relations avec partenaires et projets de terrain.
 
-L’Institut Mariani est donc mieux décrit comme une **infrastructure documentaire et capacitaire** :
+Progressivement, cette base pratique devient une infrastructure plus large : patrimoine, territoire, démocratie, énergie, IA, souveraineté de capacité, corpus vivant et transmission.
 
-- archive des démarches ;
-- espace de suivi ;
+L’Institut Mariani peut donc être défini comme une **infrastructure documentaire et capacitaire** :
+
 - mémoire administrative ;
+- espace de suivi ;
+- archive probatoire ;
 - support de gestion C.O.R.S.I.C.A. ;
-- couche R&D et doctrinale ;
+- couche de recherche appliquée ;
 - preuve d’antériorité ;
 - interface entre patrimoine, territoire, démocratie, énergie, IA et transmission.
 
@@ -71,182 +79,231 @@ Son utilité tient à cinq fonctions :
 
 ---
 
-## Historique tracé des activités
+## Formulation publique courte
 
-### Socle antérieur : C.O.R.S.I.C.A., 1995
+L’**Institut Mariani** est l’infrastructure documentaire, civique et patrimoniale de C.O.R.S.I.C.A. Né d’abord comme espace concret de gestion, de suivi et d’archivage, il s’est progressivement affirmé comme laboratoire de recherche appliquée autour de la souveraineté territoriale, de la démocratie directe, de l’autonomie de capacité, de la mémoire familiale, de l’énergie, du patrimoine et de l’innovation ouverte.
 
-La base institutionnelle est l’association **C.O.R.S.I.C.A.**, créée à Corte fin 1995. L’Institut Mariani apparaît ensuite comme une fonction interne, documentaire et opérationnelle de cet écosystème, plutôt que comme une structure juridique séparée déjà établie.
-
-Les traces plus tardives de 2024 montrent une recherche du numéro RNA et une production des statuts originels de C.O.R.S.I.C.A., confirmant l’importance de l’antériorité associative.
+Il n’est pas une institution lourde. C’est une machine de continuité : un lieu documentaire, méthodologique et expérimental où les traces deviennent corpus, où les nécessités administratives deviennent apprentissages, où les intuitions deviennent dossiers, et où les projets peuvent être rendus discutables, versionnés et transmissibles.
 
 ---
 
-### Novembre-décembre 2021 — traces opérationnelles anciennes
+# Rapports d’activité annuels
 
-Les traces Gmail consultées montrent déjà, fin 2021, l’usage du nom **Institut Mariani** dans des notifications Trello et l’usage de `institutmariani@gmail.com` dans des flux associés à C.O.R.S.I.C.A.
+## 2018 — Mise en place de l’adresse, archivage, Trello et premiers dossiers
 
-Traces significatives :
+### Niveau de preuve
 
-- paiements et relances AssoConnect pour C.O.R.S.I.C.A. ;
-- notifications Trello sur un tableau nommé **Institut Mariani** ;
-- cartes relatives à des frais, à des dossiers personnels ou administratifs, à des APL ;
-- message public ou semi-public du 16 décembre 2021 : « Containers transformé, projet Mariani Village, Association CORSICA - Institut Mariani » ;
-- premiers indices d’une articulation entre C.O.R.S.I.C.A., Mariani Village, gestion administrative et projet patrimonial.
+**Trace certaine** : Gmail et Trello, octobre-décembre 2018.
 
-**Lecture :** l’Institut Mariani existe déjà comme espace de suivi et de coordination. Il n’est pas seulement une idée doctrinale ou un label ultérieur.
+### Activités attestées
 
----
+- **30 octobre 2018** : transfert vers `institutmariani@gmail.com` d’une demande de rendez-vous, avec mention « Pour archivage ».
+- **31 octobre 2018** : configuration du compte Google `institutmariani@gmail.com`, avec `jeanhuguesrobert@gmail.com` comme adresse de récupération.
+- Novembre 2018 : usage actif de `institutmariani@gmail.com` dans des échanges C.O.R.S.I.C.A. / U Granu Anticu.
+- Novembre 2018 : convention de mise à disposition C.O.R.S.I.C.A. / U Granu Anticu.
+- Novembre 2018 : RIB U Granu Anticu, virement d’acompte, projet autour du blé à Minesteggio.
+- Novembre 2018 : premiers usages Trello **Institut Mariani** repérés : tâches liées aux loyers, à l’administration, à la Société Générale, au tribunal, à la communication, aux achats, à la comptabilité, aux chambres à louer, à Minesteggio.
+- Décembre 2018 : densification du tableau Trello **Institut Mariani**.
+- Décembre 2018 : questions de communication autour d’un visuel « Institut Mariani ».
+- Décembre 2018 : échanges avec U Granu Anticu sur l’événement, la labellisation bio et les étiquettes.
 
-### Janvier-février 2022 — DRAC, Casa Mariani, assurance, AssoConnect, Trello
+### Lecture
 
-Janvier 2022 fait apparaître un échange important avec la DRAC Corse autour de **Corte - Casa Mariani - Classement**, avec l’Institut Mariani en copie et Jean-André Cancellieri également impliqué.
+2018 marque le démarrage documenté de l’Institut comme **boîte d’archive, adresse de coordination et tableau de gestion**. La fonction R&D est encore embryonnaire, mais trois axes sont déjà visibles :
 
-Les traces montrent aussi :
-
-- flux AssoConnect C.O.R.S.I.C.A. ;
-- paiements et relances ;
-- assurance MAIF ;
-- notifications Trello ;
-- suivi CAF ;
-- usage explicite de l’Institut comme tableau ou espace de travail.
-
-Le 13 février 2022, une relance à la présidence de l’Université de Corse mentionne le projet Mariani Village, le concours TROPH’énergie, l’association C.O.R.S.I.C.A., et renvoie à un projet de monnaie locale publié sur Facebook par l’Institut Mariani.
-
-**Lecture :** dès début 2022, l’Institut articule trois dimensions : gestion concrète, patrimoine / Casa Mariani, et premières intuitions économiques ou territoriales.
+- C.O.R.S.I.C.A. comme support juridique ;
+- Minesteggio comme terrain patrimonial et agricole ;
+- Trello comme outil de traçabilité et de coordination.
 
 ---
 
-### Mars-avril 2022 — gestion, CAF, loyers, Airbnb, monnaie locale, foncier
+## 2019 — Formalisation opérationnelle, Solidatech, Mariani Village et réunions de coordination
 
-Les traces de mars-avril 2022 montrent :
+### Niveau de preuve
 
-- cartes Trello de suivi des frais, de l’eau, de l’électricité, des comptes ;
-- déclarations CAF et impayés ;
-- AssoConnect ;
-- Airbnb ;
-- veille intellectuelle sur la monnaie locale corse et l’airbnbisation du marché locatif.
+**Trace certaine** : Gmail, Trello, Solidatech, échanges partenaires.
 
-**Lecture :** l’Institut fonctionne comme un centre de gravité documentaire : il reçoit autant les traces de gestion que les matériaux utiles à une réflexion sur le foncier, le logement, l’économie locale et la capacité territoriale.
+### Activités attestées
 
----
+- Janvier 2019 : tableau Trello **Institut Mariani** actif : EDF, règles et usages de Minesteggio, formation Trello, tâches de gestion, achats, entretien.
+- Janvier 2019 : relance de la culture du blé à Corte / Minesteggio, avec photos et communiqué de presse.
+- Février-mars 2019 : compte Google `institutmariani@gmail.com` actif ; échanges avec CPIE, GIP Café Culture, U Granu Anticu ; tâches Trello liées aux loyers, EDF, C.O.R.S.I.C.A.
+- Avril 2019 : Solidatech identifie une ambiguïté entre « Institut mariani » et C.O.R.S.I.C.A. ; réponse indiquant que le nom légal est l’association C.O.R.S.I.C.A.
+- Avril 2019 : Trello **Institut Mariani** très actif : dossier locataires, EDF, banque, loyers, tâches administratives.
+- Mai 2019 : loyers vers Association C.O.R.S.I.C.A., déclarations fiscales, tâches Trello.
+- Septembre 2019 : invitation Trello explicite à rejoindre **Institut Mariani**.
+- Octobre 2019 : échanges autour des structures juridiques liées à **Mariani Village** ; mention d’une réunion de coordination chaque mardi à 17 h « aux bureaux de l’institut » ; usage de Trello pour coordonner.
+- Octobre 2019 : mention d’une équipe Trello **Dilorta**, vraisemblablement liée à une couche de projet ou d’organisation connexe.
 
-### Mai-juillet 2022 — gestion C.O.R.S.I.C.A., Trello, comptes, CAF, dettes, frais
+### Lecture
 
-Cette période est fortement marquée par Trello.
+2019 est l’année où l’Institut devient clairement un **nom d’usage opérationnel**. La distinction se précise :
 
-Traces significatives :
-
-- « EDF relever compteur sur Institut Mariani » ;
-- « Société Générale - Compte bancaire CORSICA sur Institut Mariani » ;
-- « Frais de l’adhérant LR sur Institut Mariani » ;
-- « Déclarer les loyers - caf partenaires sur Institut Mariani » ;
-- « Plan d’apurement de la dette - Guillermo Valdes sur Institut Mariani » ;
-- « Gestion Dossier - Marie-Louise Robert [CAF APL...] » ;
-- « Déclarer les impayés Olivier Lacroix ».
-
-**Lecture :** l’Institut est alors une infrastructure de suivi administratif et social. Cette couche est importante : elle montre que l’Institut naît aussi de la nécessité de gérer des situations réelles, juridico-administratives et humaines, pas seulement de produire des idées.
+- C.O.R.S.I.C.A. demeure le support associatif légal ;
+- Institut Mariani est l’espace de travail, de gestion, d’archive et de coordination ;
+- Mariani Village commence à apparaître comme projet structurant.
 
 ---
 
-### Août-décembre 2022 — compte Google, CAF, MAIF, ANTS, récupération de compte
+## 2020 — Continuité de gestion et back-office associatif
 
-Les traces montrent :
+### Niveau de preuve
 
-- usage actif du compte Google `institutmariani@gmail.com` ;
-- récupérations et alertes de sécurité ;
-- flux CAF ;
-- MAIF ;
-- ANTS ;
-- avis d’échéance 2023 de l’association ou collectivité.
+**Trace certaine** : notifications Trello, principalement.
 
-**Lecture :** la fonction de l’Institut comme adresse administrative et mémoire numérique est consolidée.
+### Activités attestées
 
----
+- Février 2020 : récupération de loyers et suivi administratif via Trello **Institut Mariani**.
+- Juin 2020 : carte CAF Olivier Lacroix sur **Institut Mariani**.
+- Septembre 2020 : suivi des frais d’adhérent, tickets et dépenses.
+- Décembre 2020 : aides sociales, prime d’activité, frais, tâches récurrentes.
 
-### 2023 — consolidation administrative, bancaire et documentaire
+### Lecture
 
-Les traces 2023 montrent :
-
-- flux MAIF et AssoConnect ;
-- échanges bancaires Société Générale pour le compte C.O.R.S.I.C.A. ;
-- pièces jointes administratives : statuts C.O.R.S.I.C.A., identités, PV AG, documents de bureau ;
-- flux CAF ;
-- factures et devis ;
-- compte Twitter / X ;
-- échanges autour de U Granu Anticu et de parcelles à Minesteggio ;
-- échanges DRAC / Casa Mariani / classement.
-
-Un test du 28 mai 2023 vers `InstitutMariani@acorsica.onmicrosoft.com`, avec copie à `institutmariani@gmail.com`, suggère également une tentative ou exploration d’adresse Microsoft / domaine associé.
-
-**Lecture :** 2023 prolonge la fonction de back-office associatif et patrimonial. L’Institut sert d’archive, de copie, de boîte administrative et de point de coordination.
+2020 semble être une année de **back-office** : moins de signaux publics, mais maintien d’une fonction de suivi administratif, social et immobilier.
 
 ---
 
-### 2024 — réactivation institutionnelle, patrimoine, crise et archivage probatoire
+## 2021 — Gestion structurée, Minesteggio, Airbnb, Festa di l’Associi Curtinesi
 
-2024 marque une densification.
+### Niveau de preuve
 
-Traces principales :
+**Trace certaine** : Trello, courriels, transferts d’archives.
 
-- janvier : veille CPIE / MAIF, échange avec U Granu Anticu autour d’une parcelle à Minesteggio ;
-- mai : recherche du numéro RNA de C.O.R.S.I.C.A. auprès de la préfecture et de la sous-préfecture, avec production des statuts de 1995 ;
-- juin : assurance, DRAC, prémices Barons Mariani, compte X ;
-- juillet : préparation Festa di l’Associi Curtinesi, projet eVTOL / mobilité territoriale ;
-- août : tombe Mariani, projet Beaux-Arts de Corse ;
-- septembre : plainte C.O.R.S.I.C.A./Robert vs Lacroix et archivage probatoire ;
-- octobre : transferts de dons HelloAsso ;
-- novembre-décembre : Mariani Village, Minesteggio, Drive Institut Mariani.
+### Activités attestées
 
-Cette période doit être lue avec prudence en raison du suicide de Marie-Louise Robert à La Gaude le 17 septembre 2024. L’Institut joue alors une fonction de conservation, de traçabilité et de continuité institutionnelle dans une période de crise.
+- Janvier 2021 : déclarations Airbnb liées à Minesteggio ; comptabilité caisse ; réparation Toyota ; tâches d’entretien.
+- Mars-avril 2021 : travaux, Toyota, toit, comptabilité, eau, EDF, rangement, classeurs papier et Excel.
+- Juin 2021 : participation à la **Festa di l’Associi Curtinesi 2021**, avec instruction de noter la date dans Trello.
+- Juin 2021 : cartes liées à Airbnb, chambre Minesteggio, aides Thierry Caddy, Cours Paoli.
+- Août-novembre 2021 : APL, aides sociales, loyers, Airbnb, comptes, suivi des occupants, dossiers CAF.
+- Décembre 2021 : message « Containers transformé, projet Mariani Village, Association CORSICA - Institut Mariani ».
 
----
+### Lecture
 
-### 2025 — énergie, mobilité, Web Summit, META-DEST, autoconsommation collective
-
-Les traces de 2025 montrent une continuité de veille et de gestion, mais aussi un déplacement progressif vers des projets stratégiques :
-
-- mobilité territoriale et eVTOL ;
-- projet stratégique d’autoconsommation collective photovoltaïque pilotée ;
-- échanges avec EDF SEI Corse, Collectivité de Corse, Enogrid ;
-- Web Summit 2025 ;
-- META-DEST / Napoléon 1821 ;
-- contacts autour de méthodes de vote participatif ;
-- projets open source et zéro argent.
-
-**Lecture :** l’Institut devient plus explicitement une couche de crédibilité pour des projets mêlant patrimoine, démocratie participative, énergie, tourisme, innovation et open source.
+2021 confirme la fonction de l’Institut comme **bureau d’intendance élargi** : immobilier, social, administratif, associatif, Minesteggio, Cours Paoli, Airbnb, événement associatif. Le projet Mariani Village réapparaît en fin d’année comme couche stratégique.
 
 ---
 
-### 2026 — montée en puissance R&D, Mare Nostrum, FractaVolta, Autonomie de Capacité
+## 2022 — Back-office, DRAC, Casa Mariani, monnaie locale et premiers liens doctrinaux
 
-Début 2026, l’Institut reçoit toujours des informations associatives, environnementales, FDVA, MAIF, CPIE, ADEME et Google Cloud.
+### Niveau de preuve
 
-Mars-avril 2026 marquent une inflexion plus structurée :
+**Trace certaine** : Gmail, Trello, AssoConnect, MAIF, DRAC, Université de Corse.
 
-- compte entreprise Università di Corsica / Alumni ;
-- dossier vélos cargos / mobilité douce ;
-- événement Capenergies « Energia è Innuvazione in Corsica » ;
-- échanges FractaVolta / Corsica2038 / USS Corsica ;
-- note et échanges autour d’« Infrastructure is all you need » ;
-- proposition de session spéciale MareNostrum en lien avec ICOME’26 ;
-- contacts PRIMA autour de la souveraineté solaire et compute méditerranéen ;
-- clinique du droit de l’Université de Corse ;
-- archives de vente d’une chaise à porteur XVIIIe destinée au futur Musée Barons Mariani ;
-- PV d’assemblée générale C.O.R.S.I.C.A. 2025 et ouverture d’un compte bancaire de test sur Qonto ;
-- régularisation foncière Minesteggio / Barons Mariani.
+### Activités attestées
 
-Mai 2026 confirme l’usage de l’Institut comme copie institutionnelle et archive systématique autour de :
+- Janvier 2022 : échanges DRAC autour de **Corte - Casa Mariani - Classement**, avec l’Institut en copie.
+- Janvier-février 2022 : AssoConnect C.O.R.S.I.C.A., assurance MAIF, Trello, CAF, loyers, aides.
+- Février 2022 : relance à l’Université de Corse autour du concours TROPH’énergie, de Mariani Village et d’un projet de monnaie locale publié par l’Institut Mariani.
+- Mars-avril 2022 : CAF, impayés, eau, EDF, comptes, monnaie locale corse, airbnbisation du marché locatif.
+- Mai-juillet 2022 : Société Générale, compte bancaire C.O.R.S.I.C.A., loyers, dettes, CAF, frais, dossiers sociaux.
+- Août-décembre 2022 : compte Google actif, ANTS, CAF, MAIF, avis d’échéance, récupération de compte.
 
-- Autonomie de Capacité ;
-- commission des Lois ;
-- parlementaires corses ;
-- Collectivité de Corse ;
-- Mare Nostrum ;
-- contribution publique et associative.
+### Lecture
+
+2022 articule fortement le quotidien administratif et la réflexion territoriale : foncier, logement, Airbnb, monnaie locale, énergie, patrimoine. L’Institut commence à porter une fonction doctrinale, encore enchâssée dans la gestion concrète.
 
 ---
 
-## Synthèse par fonctions historiques
+## 2023 — Consolidation administrative, bancaire et patrimoniale
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, pièces administratives, Trello, DRAC, U Granu Anticu.
+
+### Activités attestées
+
+- Flux MAIF, AssoConnect, CAF, factures, devis et documents administratifs.
+- Échanges bancaires Société Générale pour le compte C.O.R.S.I.C.A.
+- Pièces jointes administratives : statuts C.O.R.S.I.C.A., identités, PV AG, documents de bureau.
+- Test du 28 mai 2023 vers `InstitutMariani@acorsica.onmicrosoft.com`, avec copie à `institutmariani@gmail.com`, suggérant une exploration d’adresse Microsoft / domaine associé.
+- Suivi de parcelles à Minesteggio avec U Granu Anticu.
+- Échanges DRAC / Casa Mariani / classement.
+
+### Lecture
+
+2023 prolonge la fonction de **back-office associatif et patrimonial**. L’Institut sert d’archive, de copie, de boîte administrative et de point de coordination.
+
+---
+
+## 2024 — Réactivation institutionnelle, patrimoine, crise et archivage probatoire
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, préfecture, DRAC, MAIF, C.O.R.S.I.C.A., Trello/Drive, échanges de crise.
+
+### Activités attestées
+
+- Janvier 2024 : veille CPIE / MAIF ; échange avec U Granu Anticu autour d’une parcelle à Minesteggio.
+- Mai 2024 : recherche du numéro RNA de C.O.R.S.I.C.A. auprès de la préfecture et de la sous-préfecture, avec production des statuts de 1995.
+- Juin 2024 : assurance, DRAC, prémices Barons Mariani, compte X.
+- Juillet 2024 : préparation Festa di l’Associi Curtinesi, projet eVTOL / mobilité territoriale.
+- Août 2024 : tombe Mariani, projet Beaux-Arts de Corse.
+- Septembre 2024 : plainte C.O.R.S.I.C.A./Robert vs Lacroix et archivage probatoire.
+- Octobre 2024 : transferts de dons HelloAsso.
+- Novembre-décembre 2024 : Mariani Village, Minesteggio, Drive Institut Mariani.
+
+### Lecture
+
+2024 est une année de réactivation institutionnelle et de bascule. L’Institut joue à la fois le rôle d’archive patrimoniale, d’appui associatif, de mémoire probatoire et de continuité en période de crise.
+
+Cette période doit être lue avec prudence en raison du suicide de Marie-Louise Robert à La Gaude le 17 septembre 2024. L’Institut sert alors de dispositif de conservation, de traçabilité et de survie institutionnelle.
+
+---
+
+## 2025 — Énergie, mobilité, Web Summit, META-DEST, autoconsommation collective
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, échanges institutionnels, partenaires techniques.
+
+### Activités attestées
+
+- Mobilité territoriale et eVTOL.
+- Projet stratégique d’autoconsommation collective photovoltaïque pilotée.
+- Échanges avec EDF SEI Corse, Collectivité de Corse, Enogrid.
+- Web Summit 2025.
+- META-DEST / Napoléon 1821.
+- Contacts autour de méthodes de vote participatif.
+- Projets open source et zéro argent.
+
+### Lecture
+
+2025 marque le passage vers une fonction plus explicitement stratégique : patrimoine, démocratie participative, énergie, tourisme, innovation et open source deviennent des axes reliés.
+
+---
+
+## 2026 — Montée en puissance R&D : Mare Nostrum, FractaVolta, Autonomie de Capacité
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, échanges universitaires, institutionnels et politiques.
+
+### Activités attestées
+
+- Compte entreprise Università di Corsica / Alumni.
+- Dossier vélos cargos / mobilité douce.
+- Événement Capenergies « Energia è Innuvazione in Corsica ».
+- Échanges FractaVolta / Corsica2038 / USS Corsica.
+- Note et échanges autour d’« Infrastructure is all you need ».
+- Proposition de session spéciale MareNostrum en lien avec ICOME’26.
+- Contacts PRIMA autour de la souveraineté solaire et du compute méditerranéen.
+- Clinique du droit de l’Université de Corse.
+- Archives de vente d’une chaise à porteur XVIIIe destinée au futur Musée Barons Mariani.
+- PV d’assemblée générale C.O.R.S.I.C.A. 2025 et ouverture d’un compte bancaire de test sur Qonto.
+- Régularisation foncière Minesteggio / Barons Mariani.
+- Autonomie de Capacité, commission des Lois, parlementaires corses, Collectivité de Corse, contribution publique et associative.
+
+### Lecture
+
+2026 confirme l’Institut comme couche de mémoire institutionnelle et R&D. L’usage de la copie à `institutmariani@gmail.com` devient une règle de traçabilité pour les démarches publiques et associatives importantes.
+
+---
+
+# Synthèse transversale
+
+## Fonctions historiques
 
 ### 1. Back-office associatif
 
@@ -254,7 +311,7 @@ Fonction ancienne et attestée : AssoConnect, MAIF, Société Générale, CAF, c
 
 ### 2. Espace de suivi
 
-Trello montre un tableau nommé **Institut Mariani** dès au moins 2021-2022. Cette donnée est importante : elle prouve un usage structuré, pas seulement une adresse de réception.
+Trello montre un tableau nommé **Institut Mariani** dès au moins fin 2018. Cette donnée est importante : elle prouve un usage structuré, pas seulement une adresse de réception.
 
 ### 3. Archive institutionnelle
 
@@ -285,30 +342,29 @@ Il relie Corte, le Centre Corse, les associations, le CPIE, l’Université de C
 
 ---
 
-## Formulation publique proposée
-
-L’**Institut Mariani** est l’infrastructure documentaire, civique et patrimoniale de C.O.R.S.I.C.A. Né d’abord comme espace concret de gestion, de suivi et d’archivage, il s’est progressivement affirmé comme laboratoire de recherche appliquée autour de la souveraineté territoriale, de la démocratie directe, de l’autonomie de capacité, de la mémoire familiale, de l’énergie, du patrimoine et de l’innovation ouverte.
-
-Il n’est pas une institution lourde. C’est une machine de continuité : un lieu documentaire, méthodologique et expérimental où les traces deviennent corpus, où les nécessités administratives deviennent apprentissages, où les intuitions deviennent dossiers, et où les projets peuvent être rendus discutables, versionnés et transmissibles.
-
----
-
-## Points à vérifier ou compléter
+# Points à vérifier ou compléter
 
 1. Date exacte de création du compte `institutmariani@gmail.com`.
 2. Date exacte de création du tableau Trello **Institut Mariani**.
-3. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
-4. Existence éventuelle de documents constitutifs propres à l’Institut.
-5. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
-6. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
-7. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
-8. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
+3. Export ou revue complète du tableau Trello **Institut Mariani**.
+4. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
+5. Existence éventuelle de documents constitutifs propres à l’Institut.
+6. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
+7. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
+8. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
+9. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
 
 ---
 
-## Note méthodologique
+# Note méthodologique
 
-Ce document a été établi à partir des traces Gmail consultées le 29 mai 2026, en particulier les messages envoyés ou reçus par `institutmariani@gmail.com`, les messages où cette adresse figure en copie, ainsi que les échanges contenant l’expression « Institut Mariani ».
+Ce document a été établi à partir des traces Gmail consultées le 29 mai 2026, en particulier :
+
+- les messages envoyés ou reçus par `institutmariani@gmail.com` ;
+- les messages où cette adresse figure en copie ;
+- les échanges contenant l’expression « Institut Mariani » ;
+- les notifications Trello mentionnant le tableau **Institut Mariani** ;
+- les échanges C.O.R.S.I.C.A., U Granu Anticu, Mariani Village, Minesteggio et Casa Mariani.
 
 Les liens Gmail privés, identifiants techniques de messages, informations personnelles sensibles et détails individuels non nécessaires ne sont pas reproduits dans ce document public. Les sujets, dates et catégories d’activité ont été retenus comme traces probatoires minimales.
 
