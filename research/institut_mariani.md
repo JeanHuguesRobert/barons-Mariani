@@ -1,6 +1,6 @@
 # Institut Mariani — définition, rôle et généalogie documentaire
 
-> Document de travail — v0.6  
+> Document de travail — v0.7  
 > Date : 2026-05-29  
 > Dépôt : `JeanHuguesRobert/barons-Mariani`  
 > Statut : document public provisoire, établi à partir des traces Gmail/Trello/GitHub disponibles et du corpus connu.
@@ -12,14 +12,17 @@
 Les premières versions de ce document situaient trop tard le début visible de l’Institut Mariani. Les recherches successives ont montré qu’il faut distinguer plusieurs couches :
 
 1. **C.O.R.S.I.C.A. historique** — association créée à Corte fin 1995, dont Jean Hugues Robert est président depuis la création.
-2. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source.
-3. **Socle territorial Casa Mariani / Minesteggio** — accueil, scouts, hospitalité, patrimoine, jardins, blé, territoire.
-4. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
-5. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
-6. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
-7. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
+2. **Institut Mariani à l’état latent** — fonction non encore nommée comme telle, mais déjà présente dans la combinaison : mémoire, réseau, coopération, territoire, documentation, logiciels ouverts, accueil, démocratie directe et transmission.
+3. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source.
+4. **Socle territorial Casa Mariani / Minesteggio** — accueil, scouts, hospitalité, patrimoine, jardins, blé, territoire.
+5. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
+6. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
+7. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
+8. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
 
 Ce document ne prétend donc pas que l’Institut Mariani existait formellement sous ce nom dès 1995. Il établit une **généalogie de cohérence** : des travaux techniques, territoriaux, civiques et patrimoniaux convergent progressivement vers l’Institut Mariani.
+
+La formulation la plus juste à ce stade est la suivante : **l’Institut Mariani existait depuis longtemps à l’état latent**, comme fonction associative, documentaire, technique, territoriale et civique portée par C.O.R.S.I.C.A. et les travaux de Jean Hugues Robert ; il a ensuite pris un état mieux structuré, plus visible et plus outillé, d’abord autour de 2017-2018, puis plus explicitement comme couche R&D associative en 2024-2026.
 
 ---
 
@@ -51,6 +54,11 @@ L’**Institut Mariani** est l’émanation documentaire, opérationnelle, civiq
 
 Il n’est pas d’abord une institution administrative lourde. C’est une infrastructure de continuité : un lieu documentaire et méthodologique où des traces dispersées — courriels, cartes Trello, fichiers, dépôts GitHub, notes de recherche, démarches administratives, projets de terrain, échanges publics — sont progressivement transformées en corpus, dossiers, méthodes et capacités transmissibles.
 
+L’Institut Mariani doit être compris selon deux états complémentaires :
+
+- **état latent** : avant sa nomination explicite, il existe déjà comme combinaison récurrente de fonctions — conserver des traces, relier des compétences, documenter des actions, accueillir, expérimenter, publier, transmettre ;
+- **état structuré** : à partir de 2017-2018, ces fonctions prennent une forme plus visible, mieux outillée et progressivement nommée : Trello, adresse dédiée, archivage, corpus, GitHub, dossiers R&D.
+
 L’Institut Mariani hérite de trois continuités longues :
 
 - une continuité **technique** : Virteal, SimpliWiki, wiki, collaboration distribuée, CRDTs, QueryTree, ConnectedSet, open source ;
@@ -73,7 +81,7 @@ L’Institut Mariani peut donc être défini comme une **infrastructure document
 
 | Entité | Nature | Rôle principal | Relation avec l’Institut Mariani |
 |---|---|---|---|
-| C.O.R.S.I.C.A. | Association créée fin 1995 à Corte | Cadre associatif historique | L’Institut Mariani en est l’émanation documentaire, gestionnaire et R&D. |
+| C.O.R.S.I.C.A. | Association créée fin 1995 à Corte | Cadre associatif historique | L’Institut Mariani y existe d’abord comme fonction latente, puis comme émanation documentaire, gestionnaire et R&D. |
 | Virteal / SimpliWiki | Socle technique ancien | Wiki, coopération, structures distribuées | Préfigure la couche documentaire, collaborative et cognitive. |
 | Casa Mariani / Minesteggio | Socle territorial | Lieu, accueil, patrimoine, jardins, hospitalité | Fournit le terrain matériel et symbolique. |
 | Kudocracy / Suvranu | Socle civic-tech | Démocratie liquide, démocratie directe, vote, représentation | Préfigure l’axe démocratique et capacitaire. |
@@ -101,7 +109,7 @@ Son utilité tient à cinq fonctions :
 
 # Généalogie chronologique
 
-## 1995-2010 — Socle C.O.R.S.I.C.A. et préhistoire technique
+## 1995-2010 — Socle C.O.R.S.I.C.A. et Institut Mariani à l’état latent
 
 ### Niveau de preuve
 
@@ -110,7 +118,7 @@ Son utilité tient à cinq fonctions :
 
 ### Lecture
 
-Cette période constitue le socle profond : internet, compétences autonomes, coopération, réseau, autonomie, territoire. L’Institut Mariani n’existe pas encore comme nom dans les traces retrouvées, mais les composants intellectuels et techniques sont déjà probablement présents.
+Cette période constitue le socle profond : internet, compétences autonomes, coopération, réseau, autonomie, territoire. L’Institut Mariani n’existe pas encore comme nom dans les traces retrouvées, mais les fonctions qui le définiront plus tard sont déjà présentes à l’état latent : relier, documenter, transmettre, organiser des compétences autonomes, outiller la coopération et inscrire cette coopération dans un territoire.
 
 ---
 
@@ -262,7 +270,7 @@ Cette couche technique est capitale. Elle relie des travaux qui pourraient sembl
 1. **fil civic-tech / démocratie directe** : Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate ;
 2. **fil territorial / patrimonial / accueil** : Casa Mariani, Minesteggio, U Granu Anticu, blé Alalia, Terra Madre, hospitalité, travaux et logistique de lieu.
 
-L’Institut Mariani naîtra de la jonction de ces fils : un lieu et un corpus ; un territoire et une méthode ; une maison et une infrastructure documentaire.
+L’Institut Mariani passe alors d’un état latent à un état pré-structuré : les fils techniques, territoriaux, civiques et documentaires commencent à se rassembler dans une même architecture d’action.
 
 ---
 
@@ -412,6 +420,10 @@ Cette logique traverse :
 - FractaVolta ;
 - Autonomie de Capacité ;
 - #1755.
+
+## Formule de synthèse
+
+L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se **structure** alors. Avant cela, il existe à l’état latent dans la continuité C.O.R.S.I.C.A. / Virteal / SimpliWiki / Casa Mariani / Kudocracy / Suvranu : une fonction de mémoire, d’organisation, d’accueil, d’expérimentation, de publication ouverte et de transmission.
 
 ## Fonctions historiques
 
