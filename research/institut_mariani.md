@@ -1,6 +1,6 @@
 # Institut Mariani — définition, rôle et généalogie documentaire
 
-> Document de travail — v0.7  
+> Document de travail — v0.8  
 > Date : 2026-05-29  
 > Dépôt : `JeanHuguesRobert/barons-Mariani`  
 > Statut : document public provisoire, établi à partir des traces Gmail/Trello/GitHub disponibles et du corpus connu.
@@ -13,12 +13,13 @@ Les premières versions de ce document situaient trop tard le début visible de 
 
 1. **C.O.R.S.I.C.A. historique** — association créée à Corte fin 1995, dont Jean Hugues Robert est président depuis la création.
 2. **Institut Mariani à l’état latent** — fonction non encore nommée comme telle, mais déjà présente dans la combinaison : mémoire, réseau, coopération, territoire, documentation, logiciels ouverts, accueil, démocratie directe et transmission.
-3. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source.
-4. **Socle territorial Casa Mariani / Minesteggio** — accueil, scouts, hospitalité, patrimoine, jardins, blé, territoire.
-5. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
-6. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
-7. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
-8. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
+3. **Socle associatif et territorial documenté dès 2008-2010** — accueil scout, Couchsurfing, Casa Mariani, tentative de domaine `corsica.asso.fr`, dossiers associatifs et culturels cortenais, bilan d’activité et demandes de subvention.
+4. **Socle technique Virteal / SimpliWiki** — wiki, coopération, structures distribuées, synchronisation, outils open source, publication publique, suivi de trafic, Basecamp, AWS/EC2, domaines personnalisés.
+5. **Socle territorial Casa Mariani / Minesteggio** — accueil, scouts, hospitalité, patrimoine, jardins, blé, territoire.
+6. **Couche civic-tech Kudocracy / Suvranu** — démocratie liquide, démocratie directe, vote, représentation, assemblées parallèles.
+7. **Préfiguration 2017-début 2018** — activité documentée plus dense, combinant civic-tech, territoire, patrimoine, accueil et démocratie directe.
+8. **Institut Mariani nommé et outillé** — à partir de mars-mai 2018, avec le nom, Trello, puis l’adresse `institutmariani@gmail.com` et l’usage d’archivage.
+9. **Institut Mariani comme R&D associative** — à partir de 2024-2026, l’Institut devient explicitement la couche documentaire et R&D de C.O.R.S.I.C.A., articulée avec Barons Mariani, Cogentia, FractaVolta, Mare Nostrum, Autonomie de Capacité et #1755.
 
 Ce document ne prétend donc pas que l’Institut Mariani existait formellement sous ce nom dès 1995. Il établit une **généalogie de cohérence** : des travaux techniques, territoriaux, civiques et patrimoniaux convergent progressivement vers l’Institut Mariani.
 
@@ -59,11 +60,12 @@ L’Institut Mariani doit être compris selon deux états complémentaires :
 - **état latent** : avant sa nomination explicite, il existe déjà comme combinaison récurrente de fonctions — conserver des traces, relier des compétences, documenter des actions, accueillir, expérimenter, publier, transmettre ;
 - **état structuré** : à partir de 2017-2018, ces fonctions prennent une forme plus visible, mieux outillée et progressivement nommée : Trello, adresse dédiée, archivage, corpus, GitHub, dossiers R&D.
 
-L’Institut Mariani hérite de trois continuités longues :
+L’Institut Mariani hérite de quatre continuités longues :
 
+- une continuité **associative** : C.O.R.S.I.C.A., dossiers culturels, bilans d’activité, subventions, événements, transmission territoriale ;
 - une continuité **technique** : Virteal, SimpliWiki, wiki, collaboration distribuée, CRDTs, QueryTree, ConnectedSet, open source ;
 - une continuité **territoriale** : Casa Mariani, Minesteggio, Corte, accueil, scouts, jardins, blé, patrimoine, hospitalité ;
-- une continuité **civique** : C.O.R.S.I.C.A., démocratie directe, démocratie liquide, Kudocracy, Suvranu, demucrazia.corsica, Autonomie de Capacité.
+- une continuité **civique** : démocratie directe, démocratie liquide, Kudocracy, Suvranu, demucrazia.corsica, Autonomie de Capacité.
 
 L’Institut Mariani peut donc être défini comme une **infrastructure documentaire et capacitaire** :
 
@@ -82,8 +84,8 @@ L’Institut Mariani peut donc être défini comme une **infrastructure document
 | Entité | Nature | Rôle principal | Relation avec l’Institut Mariani |
 |---|---|---|---|
 | C.O.R.S.I.C.A. | Association créée fin 1995 à Corte | Cadre associatif historique | L’Institut Mariani y existe d’abord comme fonction latente, puis comme émanation documentaire, gestionnaire et R&D. |
-| Virteal / SimpliWiki | Socle technique ancien | Wiki, coopération, structures distribuées | Préfigure la couche documentaire, collaborative et cognitive. |
 | Casa Mariani / Minesteggio | Socle territorial | Lieu, accueil, patrimoine, jardins, hospitalité | Fournit le terrain matériel et symbolique. |
+| Virteal / SimpliWiki | Socle technique ancien | Wiki, coopération, structures distribuées | Préfigure la couche documentaire, collaborative et cognitive. |
 | Kudocracy / Suvranu | Socle civic-tech | Démocratie liquide, démocratie directe, vote, représentation | Préfigure l’axe démocratique et capacitaire. |
 | Institut Mariani | Infrastructure documentaire et laboratoire civique | Gérer, archiver, structurer, expérimenter, transmettre | Couche de suivi, mémoire, recherche et traçabilité. |
 | Fonds de dotation Barons Mariani | Institution patrimoniale en constitution | Préserver Minesteggio, archives, patrimoine matériel et immatériel | Bénéficiaire potentiel des corpus, archives et outils. |
@@ -109,16 +111,59 @@ Son utilité tient à cinq fonctions :
 
 # Généalogie chronologique
 
-## 1995-2010 — Socle C.O.R.S.I.C.A. et Institut Mariani à l’état latent
+## 1995-2007 — Socle C.O.R.S.I.C.A. et préhistoire à documenter
 
 ### Niveau de preuve
 
 **Trace certaine dans le corpus connu** : C.O.R.S.I.C.A. est créée à Corte fin 1995.  
-**À documenter** : statuts, anciens sites, archives papier, archives Virteal, archives SimpliWiki, captures web, anciens dépôts, sauvegardes locales.
+**À documenter** : statuts, anciens sites, archives papier, archives Virteal, archives SimpliWiki, captures web, anciens dépôts, sauvegardes locales, traces associatives C.O.R.S.I.C.A. antérieures à Gmail.
 
 ### Lecture
 
 Cette période constitue le socle profond : internet, compétences autonomes, coopération, réseau, autonomie, territoire. L’Institut Mariani n’existe pas encore comme nom dans les traces retrouvées, mais les fonctions qui le définiront plus tard sont déjà présentes à l’état latent : relier, documenter, transmettre, organiser des compétences autonomes, outiller la coopération et inscrire cette coopération dans un territoire.
+
+---
+
+## 2008-2010 — État latent documenté : accueil, association, wiki, Virteal, SimpliWiki
+
+### Niveau de preuve
+
+**Trace certaine** : Gmail, pièces jointes associatives, échanges scouts, Couchsurfing, OVH, Sitemeter, Disqus, Google Buzz/Twitter, Basecamp, Gandi, AWS, échanges techniques.  
+**Trace interprétative** : ces éléments ne constituent pas encore l’Institut Mariani nommé, mais ils documentent clairement ses fonctions latentes.
+
+### Activités attestées
+
+- **Juillet 2008** : trace indirecte d’un camp scout accueilli chez Jean Hugues Robert, via un message de mars 2010 évoquant un excellent souvenir du camp de juillet 2008.
+- **2009** : nombreuses traces Couchsurfing à Corte, confirmant une activité d’accueil international et d’hospitalité territoriale.
+- **2009** : trace d’un article ou document autour de **Baron Mariani**, envoyé par Martine Brillais, avec image jointe.
+- **19 novembre 2009** : tentative de création du domaine `corsica.asso.fr` chez OVH.
+- **30 novembre 2009** : demande de subvention à la Collectivité Territoriale de Corse pour le programme 2010 des **Nuits d’Été de Corte**.
+- **29 janvier 2010** : envoi d’un paquet documentaire associatif comprenant notamment `BILAN Activité 2009.doc`, `Demande subvention CTC 2010.doc`, `Bureau assoc.doc`, devis, budget prévisionnel.
+- **Bilan 2009 des Nuits d’Été de Corte** : festival lyrique, public nombreux, rayonnement au-delà de la microrégion cortenaise, impact économique local, presse locale et nationale, sponsors, ambition d’académie de jeunes chanteurs.
+- **Février 2010** : échange `Pb Wiki`, demande de récupération d’un wiki ancien ; la fonction wiki existe donc avant SimpliWiki structuré.
+- **Mars 2010** : envoi massif `Scoutisme, Corse, Saison 2010`, réseau scout large, accueil territorial, lien entre jeunesse, Corse et lieu.
+- **Mars 2010** : usage de `virtreal.metawiki.com` pour des pages ou sondages liés à la Corse.
+- **Mars-avril 2010** : Virteal fonctionne comme site public commenté via Disqus, avec suivi Sitemeter.
+- **Mars-avril 2010** : `baronmariani.org` est utilisé comme identité de courriel et de signature liée à Casa Mariani.
+- **Mai-juin 2010** : SimpliWiki est en développement actif : pages expérimentales, invitation codes, interwiki links, version française, milliers de lignes de code.
+- **Juillet 2010** : inscription AWS / EC2 / S3 / VPC, marquant une montée vers infrastructure cloud.
+- **Août-septembre 2010** : travail SimpliWiki sur virtual hosting, domaines personnalisés, Twitter login, diff, ownership.
+- **Octobre-novembre 2010** : Basecamp Virteal, Pingdom, Sitemeter, facturation, suivi et gestion de projet.
+- **Décembre 2010** : tests d’infrastructure mail autour de `baronmariani.org`, `simpliwiki.com`, `d2lab.org`, avec signature Casa Mariani.
+
+### Lecture
+
+Cette période documente fortement l’**état latent** de l’Institut Mariani. Les fonctions essentielles sont déjà là, même sans le nom :
+
+- un **lieu** : Casa Mariani / Corte / Minesteggio ;
+- une **hospitalité territoriale** : scouts, Couchsurfing, accueil international ;
+- une **mémoire associative** : bilans, demandes de subvention, budgets, bureau, dossiers culturels ;
+- une **présence web corse** : tentative `corsica.asso.fr`, `baronmariani.org`, pages wiki/metawiki ;
+- une **publication ouverte** : Virteal, Tumblr, Disqus, Google Buzz/Twitter ;
+- une **infrastructure technique** : SimpliWiki, Basecamp, AWS, Pingdom, Sitemeter ;
+- une **méthode documentaire** : wiki, liens, versions, commentaires, pages expérimentales, diff, ownership.
+
+La formule prudente est donc : **l’Institut Mariani est latent dès cette période, parce que ses fonctions constitutives sont déjà observables**. Il ne s’agit pas encore d’une institution nommée, mais d’une architecture de pratiques : accueillir, documenter, relier, publier, expérimenter, transmettre.
 
 ---
 
@@ -139,7 +184,7 @@ Cette période constitue le socle profond : internet, compétences autonomes, co
 
 ### Lecture
 
-2011 montre déjà une matrice forte : un outil numérique, un lieu, un réseau d’accueil, un imaginaire de circulation, une attention au territoire corse et une volonté de relier le local au monde. Cette matrice préfigure directement les futurs thèmes : musée des possibles, territoire capable, Fractanet, Cogentia, Institut Mariani.
+2011 confirme la matrice de 2008-2010 : un outil numérique, un lieu, un réseau d’accueil, un imaginaire de circulation, une attention au territoire corse et une volonté de relier le local au monde. Cette matrice préfigure directement les futurs thèmes : musée des possibles, territoire capable, Fractanet, Cogentia, Institut Mariani.
 
 ---
 
@@ -408,12 +453,15 @@ La cohérence des travaux peut se résumer ainsi :
 Cette logique traverse :
 
 - C.O.R.S.I.C.A. ;
-- SimpliWiki ;
+- Casa Mariani / Minesteggio ;
+- accueil scout ;
+- Couchsurfing / voyage immobile ;
 - Virteal ;
+- SimpliWiki ;
+- wiki / metawiki ;
 - CRDTs / QueryTree / ConnectedSet ;
 - Kudocracy ;
 - Suvranu ;
-- Casa Mariani / Minesteggio ;
 - Institut Mariani ;
 - Cogentia ;
 - Fractanet ;
@@ -423,7 +471,9 @@ Cette logique traverse :
 
 ## Formule de synthèse
 
-L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se **structure** alors. Avant cela, il existe à l’état latent dans la continuité C.O.R.S.I.C.A. / Virteal / SimpliWiki / Casa Mariani / Kudocracy / Suvranu : une fonction de mémoire, d’organisation, d’accueil, d’expérimentation, de publication ouverte et de transmission.
+L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se **structure** alors. Avant cela, il existe à l’état latent dans la continuité C.O.R.S.I.C.A. / Casa Mariani / Virteal / SimpliWiki / Kudocracy / Suvranu : une fonction de mémoire, d’organisation, d’accueil, d’expérimentation, de publication ouverte et de transmission.
+
+Les traces 2008-2010 renforcent cette lecture : l’état latent est déjà documenté par l’accueil scout, Couchsurfing, les dossiers associatifs et culturels cortenais, le wiki, Virteal, SimpliWiki, les tentatives de domaine associatif corse et les outils de coordination technique.
 
 ## Fonctions historiques
 
@@ -434,6 +484,8 @@ L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se
 5. **Recherche et développement civique** — démocratie directe, civic-tech, Kudocracy, Suvranu, Autonomie de Capacité, #1755, Cogentia.
 6. **Interface territoriale** — Corte, Centre Corse, associations, CPIE, Université de Corse, Collectivité de Corse, préfecture, élus, institutions.
 7. **Publication ouverte** — GitHub comme espace de bénévolat, open source, transparence, continuation et réutilisation.
+8. **Hospitalité structurante** — accueil scout, Couchsurfing, voyage immobile, lieu comme interface entre monde extérieur et territoire corse.
+9. **Outillage collaboratif** — wiki, SimpliWiki, Virteal, Basecamp, Sitemeter, Pingdom, AWS, GitHub.
 
 ---
 
@@ -447,13 +499,14 @@ L’Institut Mariani n’apparaît pas seulement en 2018 : il se **nomme** et se
 6. Statut juridique exact de l’Institut Mariani : nom d’usage, organe interne de C.O.R.S.I.C.A., projet d’association séparée ou simple émanation R&D.
 7. Existence éventuelle de documents constitutifs propres à l’Institut.
 8. Articulation formelle avec le futur Fonds de dotation Barons Mariani.
-9. Reconstitution séparée de l’histoire C.O.R.S.I.C.A. 1995-2010.
-10. Reconstitution séparée de l’histoire Virteal / SimpliWiki / QueryTree / ConnectedSet.
-11. Reconstitution séparée de l’histoire Kudocracy / Suvranu / demucrazia.corsica / Démocratie Directe Corse / civic-tech.
-12. Reconstitution séparée de l’histoire Casa Mariani / Minesteggio / accueil / scouts / voyage immobile.
-13. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
-14. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
-15. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
+9. Reconstitution séparée de l’histoire C.O.R.S.I.C.A. 1995-2007.
+10. Reconstitution séparée de la période 2008-2010 : accueil scout, Couchsurfing, Casa Mariani, Nuits d’Été de Corte, `corsica.asso.fr`, wiki ancien, Virteal, SimpliWiki.
+11. Reconstitution séparée de l’histoire Virteal / SimpliWiki / QueryTree / ConnectedSet.
+12. Reconstitution séparée de l’histoire Kudocracy / Suvranu / demucrazia.corsica / Démocratie Directe Corse / civic-tech.
+13. Reconstitution séparée de l’histoire Casa Mariani / Minesteggio / accueil / scouts / voyage immobile.
+14. Emplacement final des archives : Gmail, Google Drive, Trello, GitHub, dépôt `barons-Mariani`, dépôt `cogentia`, dépôt C.O.R.S.I.C.A., autre.
+15. Politique de publication : ce qui doit être public par défaut, ce qui doit rester privé, ce qui doit être anonymisé.
+16. Règle systématique de copie : mettre `institutmariani@gmail.com` en copie ou destinataire d’archive dès qu’un échange concerne C.O.R.S.I.C.A., l’Institut, Barons Mariani, Autonomie de Capacité, #1755, Mare Nostrum, FractaVolta ou une démarche institutionnelle.
 
 ---
 
@@ -466,6 +519,7 @@ Ce document a été établi à partir des traces Gmail consultées le 29 mai 202
 - les échanges contenant l’expression « Institut Mariani » ;
 - les notifications Trello mentionnant le tableau **Institut Mariani** ;
 - les échanges C.O.R.S.I.C.A., U Granu Anticu, Mariani Village, Minesteggio et Casa Mariani ;
+- les traces 2008-2010 liées à l’accueil scout, Couchsurfing, Casa Mariani, `baronmariani.org`, `corsica.asso.fr`, dossiers associatifs, Nuits d’Été de Corte, wiki ancien, Virteal, SimpliWiki, Sitemeter, Disqus, Basecamp, AWS, Pingdom et Gandi ;
 - les traces 2011-2016 liées à Virteal, SimpliWiki, scouts, Casa Mariani, QueryTree, ConnectedSet, CRDTs, Kudocracy, Democracy Earth, Communiti et Suvranu ;
 - les traces 2017 liées à Kudocracy, demucrazia.corsica, DemocracyOS, Démocratie Directe Corse, Baztille, Parti Pirate et Facebook Ads ;
 - les dépôts GitHub publics de Jean Hugues Robert, considérés comme travaux bénévoles, open source et associatifs sauf mention contraire.
