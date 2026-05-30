@@ -3,10 +3,9 @@ title: "Le théâtre des pays imaginaires de Corse"
 subtitle: "Fables sérieuses sur le processus de Beauvau, l’autonomie et les rôles publics de la politique corse"
 author: "Jean Hugues Noël Robert"
 date: "2026-05-28"
-status: "draft_v0.1 — produit décliné satirique et documentaire"
+status: "draft — produit décliné satirique et documentaire v0.1"
 version: "0.1"
 type: "political satire / derived essay / theatrical atlas"
-repository: "JeanHuguesRobert/barons-Mariani"
 branch: "main"
 intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau.md"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/utopia/theatre_pays_imaginaires_corse_beauvau.md"
@@ -25,6 +24,7 @@ related_documents:
   - title: "Proposition constitutionnelle — autonomie de capacité"
     path: "research/proposition_constitutionnelle_autonomie_capacite_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 ---
 
 # Le théâtre des pays imaginaires de Corse

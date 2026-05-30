@@ -3,9 +3,8 @@ title: "Le théâtre des pays imaginaires de Corse"
 subtitle: "Fables sérieuses autour du processus de Beauvau"
 author: "Jean Hugues Noël Robert"
 publication: "Les carnets du baron Mariani"
-status: "blogpost_draft_v0.1"
+status: "draft — blogpost v0.1"
 date: "2026-05-28"
-repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau_blogpost.md"
 source_documents:
   - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
@@ -15,6 +14,7 @@ source_documents:
     path: "research/chronologie_processus_beauvau_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
 license: "CC BY-SA 4.0"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 ---
 
 # Le théâtre des pays imaginaires de Corse

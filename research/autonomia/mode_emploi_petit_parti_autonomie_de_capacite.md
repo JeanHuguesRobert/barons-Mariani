@@ -20,6 +20,7 @@ related_documents:
   - title: "Grammaire générative de l’Autonomie de Capacité"
     path: "research/autonomia/grammaire_autonomie_de_capacite.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 ---
 
 

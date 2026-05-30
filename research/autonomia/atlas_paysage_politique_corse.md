@@ -20,6 +20,7 @@ related_documents:
   - title: "Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité"
     path: "research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 ---
 
 
