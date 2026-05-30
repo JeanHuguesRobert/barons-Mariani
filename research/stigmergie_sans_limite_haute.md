@@ -150,6 +150,10 @@ continuation:
 *These documents link to this file:*
 - [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
+- [Democratic AI Safety](democratic_ai_safety.md)
 - [Research Index — barons-Mariani](index.md)
+- [La méthode des terrains féconds](methode_terrains_feconds.md)
+- [La pathologie du secret](pathologie_du_secret.md)
+- [VIGILIA](../vigilia.md)
 
 <!-- END_AUTO: backlinks -->

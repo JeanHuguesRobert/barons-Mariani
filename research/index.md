@@ -59,6 +59,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](../discret_holography.md) | this repo | 2026-02-27 |
 | [Sailing the Cognitive Waves — Stigmergic Cognitive-Terrain Framework](cognitive_waves.md) | this repo | 2026 |
 | [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.1, 2026-05-30 — pont scale-free entre l'étage chimique et l'étage cognitif)* | this repo | 2026-05-30 |
+| [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
@@ -131,6 +132,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [La pathologie du secret](pathologie_du_secret.md)
 - [What is Potentics?](potentics.md)
 - [Discours de la seconde méthode](second_method.md)
+- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [Territoires possibilistes](territoires_possibilistes.md)
 - [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
 - [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)

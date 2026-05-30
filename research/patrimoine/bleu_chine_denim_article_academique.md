@@ -223,3 +223,13 @@ La prochaine étape doit produire un vrai appareil documentaire :
 4. corpus iconographique corse ;
 5. premier état des contacts institutionnels ;
 6. distinction précise entre usage, réactivation et patrimonialisation.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

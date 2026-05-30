@@ -3,7 +3,7 @@ title: "Bleu de Chine, denim et indigo — Chronologie critique"
 subtitle: "Repères provisoires pour un article académique"
 author: "Jean Hugues Noël Robert"
 date: "2026-05-30"
-status: "working-document — chronology"
+status: "working-note — chronologie critique v0.1"
 version: "0.1"
 x-type: "critical chronology"
 x-branch: "main"
@@ -138,3 +138,13 @@ La chronologie ne doit pas être utilisée comme une généalogie linéaire. Ell
 ## 11. Formule de travail
 
 > La chronologie ne raconte pas la naissance d’un bleu unique ; elle suit des bifurcations par lesquelles des bleus de travail deviennent des bleus de mémoire.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

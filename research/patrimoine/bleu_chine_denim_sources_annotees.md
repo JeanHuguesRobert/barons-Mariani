@@ -3,7 +3,7 @@ title: "Bleu de Chine, denim et indigo — Sources annotées"
 subtitle: "Dossier documentaire pour article académique"
 author: "Jean Hugues Noël Robert"
 date: "2026-05-30"
-status: "working-document — annotated sources"
+status: "working-note — sources annotées v0.1"
 version: "0.1"
 x-type: "annotated bibliography and source dossier"
 x-branch: "main"
@@ -323,3 +323,13 @@ La prochaine version de ce fichier doit intégrer :
 3. premières occurrences Gallica / Retronews ;
 4. premiers résultats d’archives corses ;
 5. fiche de contact pour Musée du Vieux Nîmes et Musée de la Corse.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->
