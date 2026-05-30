@@ -1,7 +1,11 @@
 ---
+title: "Sailing the Cognitive Waves"
+subtitle: "A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_waves.md
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-26"
+status: "working-paper — adaptive exploration under mimetic resistance"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 ---
@@ -44,6 +48,8 @@ This paper intentionally adopts a partially performative structure. Its organiza
 The title *Sailing the Cognitive Waves* is intended as a discreet homage to John Brunner’s *The Shockwave Rider* (1975). Brunner imagined a figure surviving informational turbulence by riding the shockwave rather than stopping it. This paper develops a related intuition: in complex cognitive terrains, adaptive agents must learn to read, ride, and sometimes redirect the waves.
 
 The reader is invited to focus primarily on the operational usefulness and coherence of the framework rather than on strict disciplinary conventions. The present text is proposed as an exploratory synthesis and an open research program rather than a finalized theory.
+
+This paper has acquired (May 2026) a companion at the opposite scale: an empirical amorce on repulsive stigmergy in flies ([*La trace protège*](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)) and a short bridge note ([*Stigmergie sans limite haute*](stigmergie_sans_limite_haute.md)) that proposes the *scale-free* reading of stigmergy unifying the two.
 
 ---
 
@@ -1052,5 +1058,6 @@ Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent s
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
+- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 
 <!-- END_AUTO: backlinks -->

@@ -1251,5 +1251,6 @@ Formule directrice pour la suite :
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
+- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 
 <!-- END_AUTO: backlinks -->

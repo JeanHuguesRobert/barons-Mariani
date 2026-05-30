@@ -58,6 +58,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Literary Works as Navigable Spaces — AI-Based Cultural Mediation](../ai-based-cultural-mediation.md) | this repo | 2026 |
 | [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](../discret_holography.md) | this repo | 2026-02-27 |
 | [Sailing the Cognitive Waves — Stigmergic Cognitive-Terrain Framework](cognitive_waves.md) | this repo | 2026 |
+| [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.1, 2026-05-30 — pont scale-free entre l'étage chimique et l'étage cognitif)* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |

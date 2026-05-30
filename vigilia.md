@@ -1016,5 +1016,6 @@ Attribution requise :
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
+- [Stigmergie sans limite haute](research/stigmergie_sans_limite_haute.md)
 
 <!-- END_AUTO: backlinks -->

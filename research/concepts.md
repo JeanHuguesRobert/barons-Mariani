@@ -28,30 +28,136 @@ This file maps concepts used across the corpus.
 
 ---
 
-## Cogentia
+## Civilizational Stakes
 
-**Type:** abstract concept / agentivity class
-**Scope:** Global
-**Status:** Working
-
-**Short definition:**
-Cogentia designates the actual situated agentivity of an entity — physical person, legal person, or AI agent — combining memory, mandate, capabilities, procedures, acts and traces.
-
-**Parent concepts:**
-- Traceable agency
-
-**Child concepts:**
-- Cogentigram
-- Operational memory
-
-**Reference documents:**
-- `research/concepts.md`
-
-**Used in:**
-- digital twin work
-- AI agent governance
+The paired abstract framework that names the civilizational stakes served by the entire corpus and its two operational declinations (Cogentia Commons manual + Fractanet/COP automated).
 
 ---
+
+## Machine à explorer
+
+**Type:** abstract concept / infrastructure protocol  
+**Scope:** Global  
+**Status:** Seed  
+
+**Short definition:**  
+Système (humain, hybride ou automatisé) conçu pour maximiser la capacité rationnelle et collective à explorer des futurs possibles : association d'idées, capture de sérendipité, traçabilité forte (parentEventIds, continuations), boucles theory-practice, mécanismes anti-Ubik (Stabilisateurs procéduraux), et interconnexion coopérative sans centre capturable. Gabarit abstrait dont dérivent des instances (Cogentia Commons manuel, Fractanet/COP automatisé, etc.) formant un écosystème réactif.
+
+**Parent concepts:**
+- Possibilism
+- Democratic AI Safety
+
+**Child concepts:**
+- Cogentia Commons (déclinaison manuelle)
+- Fractanet / COP (déclinaison automatisée)
+- Stabilisateurs (anti-Ubik)
+
+**Related concepts:**
+- Continuation Protocol
+- Cognitive Packet
+- DHITL (couches 4/5)
+- Effet Ubik (opposé)
+
+**Reference documents:**
+- `barons-Mariani/research/second_method.md` (Rule 0 + Five Rules)
+- `marenostrum/DHITL.md`
+- `cogentia/research/pipeline.md`
+- `cogentia/research/cogentia_workflows.md`
+- `barons-Mariani/research/ubik_reality_dislocation.md`
+- `research/PHASE1_LECTURE_ANALYSE.md` + `PHASE1_VALIDATION.md` (ce corpus, worktree jhr)
+
+**Used in:**
+- Gabarit abstrait "Machine à explorer" (sandbox/cop-continuation-bac-a-sable)
+- Phase 1 validation doctrinale (mai 2026)
+- Future COP Phase 2 (invariants)
+
+---
+
+## Machine à empêcher
+
+**Type:** abstract concept  
+**Scope:** Global  
+**Status:** Seed  
+
+**Short definition:**  
+Cluster de dynamiques (concentration de compute/mémoire/influence, opacité, perte de traçabilité, capture par outer optimizer, effet Ubik de dislocation de la réalité partagée, rigidification procédurale, amnesia institutionnelle) qui réduisent structurellement la capacité d'individus et de collectifs à explorer des futurs possibles. Modèle explicite à neutraliser, pas seulement à déplorer.
+
+**Related concepts:**
+- Effet Ubik
+- Machine à explorer (opposé symétrique)
+- FM-11 (outer optimizer capture)
+- Concentration de compute (85% frontier)
+
+**Reference documents:**
+- `barons-Mariani/research/ubik_reality_dislocation.md`
+- `marenostrum/DHITL.md` (§1.2, FM-11)
+- `barons-Mariani/research/second_method.md` (conditions d'échec + Rule 0)
+- `research/PHASE1_LECTURE_ANALYSE.md`
+
+**Used in:**
+- Phase 1 (modélisation des empêchements à neutraliser)
+- Stratégie d'écosystème de machines à explorer coopératives
+
+---
+
+## Effet Ubik
+
+**Type:** sociological / infrastructural pathology  
+**Scope:** Global  
+**Status:** Working  
+
+**Short definition:**  
+Dislocation opérationnelle de la réalité partagée sous l'effet combiné de complexité, médiation accélérée, incitations plateformes, médias synthétiques et IA. Réalité qui "décroît" (régression d'objets, perte de consistance, demi-vie informationnelle). Pas une disparition de la réalité, mais une destruction des procédures qui permettent de la stabiliser collectivement.
+
+**Parent concepts:**
+- Machine à empêcher
+
+**Related concepts:**
+- Stabilisateurs (anti-Ubik)
+- Pathologie du secret
+- Invidia (densité sociale destructrice)
+
+**Reference documents:**
+- `barons-Mariani/research/ubik_reality_dislocation.md` (source essay v0.1, 23 mai 2026)
+- `cogentia/research/ubik_reality_dislocation_academic.md` et variantes
+
+**Used in:**
+- Phase 1 (modélisation du pôle empêcher)
+- Conception des Stabilisateurs procéduraux (Cogentia, COP, DHITL)
+
+---
+
+## Stabilisateurs (anti-Ubik / procéduraux)
+
+**Type:** mechanism / anti-capture pattern  
+**Scope:** Global  
+**Status:** Working  
+
+**Short definition:**  
+Ensemble de procédures et d'infrastructures (provenance, versioning git, source corpora publics, traçabilité par continuations, objections qualifiées de premier plan, personas explicites, certification contextuelle, retour-au-corpus, event sourcing immutable, scheduler non-mutant) qui permettent à une réalité partagée de "tenir" dans le temps face à l'effet Ubik. Remplace le fantasme d'un Ubik magique par une infrastructure démocratique procédurale.
+
+**Parent concepts:**
+- Machine à explorer
+
+**Related concepts:**
+- Effet Ubik
+- Continuation Protocol
+- Cognitive Packet
+- DHITL (Compute Exergy comme unité traçable)
+
+**Reference documents:**
+- `barons-Mariani/research/ubik_reality_dislocation.md:27` (citation centrale)
+- `cogentia/research/pipeline.md`
+- `marenostrum/DHITL.md`
+
+**Used in:**
+- Conception Cogentia Commons + Fractanet/COP
+- Sandbox de validation à blanc (Phase 1)
+
+---
+
+## Cogentia
+
 
 ## Cogentigram
 

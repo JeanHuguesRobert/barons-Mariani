@@ -27,13 +27,13 @@ creator: Jean Hugues Noël Robert, baron Mariani (généré automatiquement par 
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-05-29 |
-| FractaVolta | ✅ | main | 2026-05-29 |
-| marenostrum | ✅ | main | 2026-05-29 |
-| barons-Mariani | ✅ | main | 2026-05-29 |
+| cogentia | ✅ | main | 2026-05-30 |
+| FractaVolta | ✅ | main | 2026-05-30 |
+| marenostrum | ✅ | main | 2026-05-30 |
+| barons-Mariani | ✅ | main | 2026-05-30 |
 | inseme | ✅ | main | 2026-05-29 |
-| Inox | ✅ | master | 2026-05-29 |
-| JeanHuguesRobert | ✅ | main | 2026-05-29 |
+| Inox | ✅ | master | 2026-05-30 |
+| JeanHuguesRobert | ✅ | main | 2026-05-30 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -109,7 +109,12 @@ graph LR
 <!-- BEGIN_AUTO: concepts -->
 | Concept | Scope | Status | Type |
 |---|---|---|---|
-| [Cogentia](./concepts.md#cogentia) | Global | Working | abstract concept / agentivity class |
+| [Civilizational Stakes](./concepts.md#civilizational-stakes) | — | — | — |
+| [Machine à explorer](./concepts.md#machine-a-explorer) | Global | Seed | abstract concept / infrastructure protocol |
+| [Machine à empêcher](./concepts.md#machine-a-empecher) | Global | Seed | abstract concept |
+| [Effet Ubik](./concepts.md#effet-ubik) | Global | Working | sociological / infrastructural pathology |
+| [Stabilisateurs (anti-Ubik / procéduraux)](./concepts.md#stabilisateurs-anti-ubik-proceduraux) | Global | Working | mechanism / anti-capture pattern |
+| [Cogentia](./concepts.md#cogentia) | — | — | — |
 | [Cogentigram](./concepts.md#cogentigram) | Global | Working | representation / map |
 | [Potentics](./concepts.md#potentics) | Global | Defined | philosophy |
 | [Cognitive Waves](./concepts.md#cognitive-waves) | Global | Working | sociological concept |
@@ -238,6 +243,7 @@ graph LR
 | [Literary Works as Navigable Spaces — AI-Based Cultural Mediation](../ai-based-cultural-mediation.md) | this repo | 2026 |
 | [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](../discret_holography.md) | this repo | 2026-02-27 |
 | [Sailing the Cognitive Waves — Stigmergic Cognitive-Terrain Framework](cognitive_waves.md) | this repo | 2026 |
+| [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.1, 2026-05-30 — pont scale-free entre l'étage chimique et l'étage cognitif)* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
