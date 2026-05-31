@@ -3,13 +3,13 @@ title: "Stigmergie sans limite haute"
 subtitle: "Continuité stigmergique des mouches aux agents cognitifs"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-30"
-status: "draft — amorce de jonction entre deux notes existantes v0.1"
-version: "0.1"
+date: "2026-05-31"
+status: "draft — amorce de jonction, v0.2 (alignement Rossignol)"
+version: "0.2"
 license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "ChatGPT — drafting de l'amorce mouches (2026-05-29)"
-  - "Claude — articulation et jonction (2026-05-30)"
+  - "Claude — articulation et jonction (2026-05-30) ; alignement Rossignol §4.1–4.3 (2026-05-31)"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md"
 ---
 
@@ -93,6 +93,37 @@ L'amorce mouches part de Rossignol — un âne concret, dans une étable concrè
 
 Mettre les deux face à face, c'est rappeler — comme l'a noté l'auteur du corpus à propos du **stabilisateur procédural** (cf travaux *Ubik*) et de **Rossignol comme stabilisateur pratique** — que la théorie et la pratique se vérifient mutuellement à condition de pouvoir les inscrire dans le même cadre. La stigmergie *scale-free* fournit ce cadre minimal : elle a la propriété d'être visible à *toutes* les échelles, donc d'être empiriquement attaquable au bas, et conceptuellement attaquable au haut.
 
+### 4.1 Stabilisateur procédural (versant Ubik)
+
+Le travail [*Ubik — Reality Dislocation*](ubik_reality_dislocation_academic.md) distingue quatre familles de stabilisateurs face à la dislocation du réel : *magiques* (le produit miracle), *autoritaires* (« la vérité d'État », *1984*), *commerciaux / plateformes* (l'attention optimisée), et *procéduraux / démocratiques* — provenance, versioning, sources, traçabilité, personas explicites, objections qualifiées, retour-au-corpus. Le procédural est le seul stabilisateur qui ne demande pas qu'on lui fasse confiance par avance : il *expose ses traces*. C'est précisément un dispositif stigmergique au sens fort : chaque artefact (commit, audit, version) est une trace que d'autres lisent et qui oriente l'action suivante — sans communication directe, sans autorité centrale.
+
+### 4.2 Rossignol Node (versant pratique)
+
+Le [*Rossignol Node*](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/fr/rossignol-node.md) est un prototype FractaVolta minimal : un abreuvoir automatisé pour Rossignol l'âne, colocalisé avec une station météo et alimenté par une chaîne énergétique mesurable. Il ne démontre aucune puissance industrielle ; il démontre **une structure** :
+
+```text
+source locale → stockage local → usage utile → contexte mesuré → action automatisée → journalisation → paquet d'énergie
+```
+
+C'est, à l'échelle d'un âne, exactement la même chaîne stigmergique que l'audit d'un corpus de connaissances : un acte laisse une trace mesurée, journalisée, qui oriente l'action suivante. La « preuve fractale » revendiquée par le nœud — même logique à l'échelle d'un abreuvoir, d'un hangar, d'une commune — est la lecture *scale-free* appliquée au champ énergétique-territorial.
+
+### 4.3 Symétrie point par point
+
+| Ingrédient procédural (Ubik) | Instanciation Rossignol (FractaVolta) |
+|---|---|
+| **provenance** | source locale identifiée (PV, batterie, capteur — chaque paquet d'énergie porte sa marque) |
+| **versioning** | journal local horodaté ; chaque événement (pompe, météo, batterie) reste relisable |
+| **traçabilité** | la chaîne production → stockage → usage est mesurée et inscrite de bout en bout |
+| **sources qualifiées** | capteurs locaux comme témoins matériels — pas de capture publicitaire intercalée |
+| **retour-au-corpus** | le paquet d'énergie remonte vers le réseau Fractanet, observable par d'autres nœuds |
+| **objection qualifiée** | une alerte (défaut, anomalie) est une objection signée par l'infrastructure |
+
+L'alignement n'est pas métaphorique : c'est la même architecture d'attestation, instanciée dans deux matières — la matière documentaire (corpus textuel) et la matière énergétique (eau / kWh / météo). D'où le critère que cette jonction permet de poser :
+
+> *Un dispositif est un stabilisateur procédural valide s'il peut produire son Rossignol* — un point d'incarnation modeste, mesurable, vérifiable, où la chaîne d'attestation se ferme sur du réel.
+
+Sans Rossignol, le stabilisateur reste rhétorique : on parle de traces sans pouvoir en montrer une qui touche le sol. C'est exactement la critique que [*The Republic of Donkeys*](the_republic_of_donkeys.md) adresse aux institutions sans terrain : la dignité procédurale exige un appui matériel quelque part.
+
 > Sans limite haute en théorie ; sans limite basse en pratique : un âne, ses mouches, et leurs traces.
 
 ---
@@ -124,23 +155,27 @@ L'hypothèse *sans limite haute* est donc, à ce stade : une hypothèse structur
 ```yaml
 continuation:
   article: "Stigmergie sans limite haute"
-  version: "0.1"
-  status: "amorce de jonction"
+  version: "0.2"
+  status: "amorce de jonction — alignement Rossignol absorbé en §4"
   parents:
     haut: "barons-Mariani/research/cognitive_waves.md"
     bas:  "cogentia/research/stigmergie_repressive_mouches_trace_protege_v0_1.md"
-  ancrage_pratique: "Rossignol (âne) — cf mémoire ouverte 'stabilisateur procédural ↔ pratique'"
+  ancrage_pratique: "Rossignol (âne) — désormais articulé en §4.2–4.3 ; mémoire ouverte 'stabilisateur procédural ↔ pratique' partiellement adressée"
+
+  done_v0_2:
+    - "Action 3 (v0.1) : alignement avec la mémoire ouverte 'stabilisateur procédural / Rossignol' — articulé point par point en §4.1 (Ubik), §4.2 (Rossignol Node), §4.3 (table de symétrie) ; critère opérationnel posé : 'un dispositif est un stabilisateur procédural valide s'il peut produire son Rossignol'."
+    - "Action 4 (v0.1) : décision de statut — reste un texte court de jonction, pas de working paper distinct (KISS, Occam)."
 
   prochaine_action:
     - "Inventorier les autres traces du corpus relevant du même mécanisme (continuations, backlinks, audit.jsonl, trails)."
     - "Confronter à la littérature : stigmergie classique (Grassé), swarm intelligence, social cognition, evidence-based policy, AI alignment via traces."
-    - "Aligner avec la mémoire ouverte 'stabilisateur procédural / Rossignol' (cf travaux Ubik et FractaVolta rossignol-node)."
-    - "Décider si cette amorce devient un working paper distinct, se réinjecte dans cognitive_waves comme section, ou reste un texte court de jonction."
+    - "Tester empiriquement le critère du §4.3 : passer en revue les autres 'stabilisateurs' évoqués dans le corpus (Cogentia, traçabilité symétrique, FractaVolta, Kudocracy) et vérifier que chacun a — ou peut avoir — son Rossignol."
 
   questions_a_traiter:
     - "Quels critères permettent de distinguer une vraie stigmergie d'une simple coordination par traces (au haut comme au bas) ?"
     - "Le corpus Cogentia, en tant que milieu stigmergique inter-agents (humains + IA), produit-il des effets coordinatifs émergents observables ?"
     - "Comment l'asymétrie de réflexivité (mouche passive / agent humain stratégique) modifie-t-elle la portée normative du mécanisme ?"
+    - "Le critère 'pas de stabilisateur procédural sans Rossignol' tient-il pour des dispositifs purement numériques (sans incarnation matérielle évidente) — un wiki, un protocole, un audit log isolé ?"
 ```
 
 
