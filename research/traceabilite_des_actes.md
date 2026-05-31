@@ -487,6 +487,24 @@ continuation:
     - "produce v0.16 with real Cogentia/Kudocracy/Inseme examples"
     - "verify legal implications of internal invalidity principle"
     - "keep Athenian analogy in separate historical note"
+  downstream_applications:
+    - paper: "cogentia/research/individual_and_collective_digital_twins.md"
+      version: "v0.1, 2026-05-31"
+      relation: >
+        Applies §8 (personnes morales augmentées par l'IA) and §3.5 (chaîne
+        minimale) to the dialectic of sovereign digital twins of natural vs
+        legal persons. The collective-twin branch (C.O.R.S.I.C.A. case)
+        operationalises the imputability doctrine at the entity scale, in
+        the same direction as next_tasks[1]. A future v0.16 of the present
+        paper should pick the institutional examples from the C.O.R.S.I.C.A.
+        and Institut Mariani traces.
+    - paper: "cogentia/research/tracabilite_symetrique_capture_relationnelle.md"
+      version: "v0.5, 2026-05-30"
+      relation: >
+        Extends the doctrine to a specific scene: the asymmetric individual /
+        legal-person interaction over communication channels. Capture
+        relationnelle is a special case of irresponsibility produced by
+        channel architecture, addressable through symmetric traceability.
 ```
 
 
@@ -496,5 +514,6 @@ continuation:
 *These documents link to this file:*
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
+- [La pathologie du secret](pathologie_du_secret.md)
 
 <!-- END_AUTO: backlinks -->

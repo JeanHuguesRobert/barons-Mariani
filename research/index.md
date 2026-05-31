@@ -107,7 +107,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 ### Backlinks
 
 *These documents link to this file:*
-- [ai-based-cultural-mediation.md](../ai-based-cultural-mediation.md)
+- [ai based cultural mediation](../ai-based-cultural-mediation.md)
 - [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
 - [*Invidia*, envie et désir mimétique](../invidia.md)
 - [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
@@ -130,6 +130,9 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
 - [La méthode des terrains féconds](methode_terrains_feconds.md)
 - [La pathologie du secret](pathologie_du_secret.md)
+- [Des bleus de travail aux bleus de mémoire](patrimoine/bleu_chine_denim_article_academique.md)
+- [Bleu de Chine, denim et indigo — Chronologie critique](patrimoine/bleu_chine_denim_chronologie.md)
+- [Bleu de Chine, denim et indigo — Sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md)
 - [What is Potentics?](potentics.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)

@@ -3,7 +3,7 @@ title: "Corpus Status — barons-Mariani"
 description: "Current state of the barons-Mariani knowledge corpus — what is proved, what is open, what remains possible"
 layout: default
 nav_order: 2
-last_modified_at: 2026-05-30
+last_modified_at: 2026-05-31
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corpus-status.md
 last_stamped_at: 2026-05-26
 license: CC BY-SA 4.0
@@ -27,13 +27,13 @@ creator: Jean Hugues Noël Robert, baron Mariani (généré automatiquement par 
 <!-- BEGIN_AUTO: registered_repos -->
 | Repository | research/index.md | Branch | Last commit |
 |---|---|---|---|
-| cogentia | ✅ | main | 2026-05-30 |
-| FractaVolta | ✅ | main | 2026-05-30 |
-| marenostrum | ✅ | main | 2026-05-30 |
-| barons-Mariani | ✅ | main | 2026-05-30 |
-| inseme | ✅ | main | 2026-05-29 |
-| Inox | ✅ | master | 2026-05-30 |
-| JeanHuguesRobert | ✅ | main | 2026-05-30 |
+| cogentia | ✅ | main | 2026-05-31 |
+| FractaVolta | ✅ | main | 2026-05-31 |
+| marenostrum | ✅ | main | 2026-05-31 |
+| barons-Mariani | ✅ | main | 2026-05-31 |
+| inseme | ✅ | main | 2026-05-31 |
+| Inox | ✅ | master | 2026-05-31 |
+| JeanHuguesRobert | ✅ | main | 2026-05-31 |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -301,7 +301,7 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
-- [ai-based-cultural-mediation.md](../ai-based-cultural-mediation.md)
+- [ai based cultural mediation](../ai-based-cultural-mediation.md)
 - [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
 - [*Invidia*, envie et désir mimétique](../invidia.md)
 - [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
@@ -325,6 +325,9 @@ graph LR
 - [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
 - [La méthode des terrains féconds](methode_terrains_feconds.md)
 - [La pathologie du secret](pathologie_du_secret.md)
+- [Des bleus de travail aux bleus de mémoire](patrimoine/bleu_chine_denim_article_academique.md)
+- [Bleu de Chine, denim et indigo — Chronologie critique](patrimoine/bleu_chine_denim_chronologie.md)
+- [Bleu de Chine, denim et indigo — Sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md)
 - [What is Potentics?](potentics.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
