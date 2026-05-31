@@ -58,7 +58,8 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Literary Works as Navigable Spaces — AI-Based Cultural Mediation](../ai-based-cultural-mediation.md) | this repo | 2026 |
 | [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](../discret_holography.md) | this repo | 2026-02-27 |
 | [Sailing the Cognitive Waves — Stigmergic Cognitive-Terrain Framework](cognitive_waves.md) | this repo | 2026 |
-| [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.1, 2026-05-30 — pont scale-free entre l'étage chimique et l'étage cognitif)* | this repo | 2026-05-30 |
+| [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.2, 2026-05-31 — pont scale-free + alignement Rossignol §4)* | this repo | 2026-05-31 |
+| [Test du critère Rossignol — quatre dispositifs au crible (FR)](test_critere_rossignol.md) *(working-note v0.1, 2026-05-31 — applique le critère « pas de stabilisateur sans Rossignol » à Cogentia / traçabilité symétrique / FractaVolta / Kudocracy)* | this repo | 2026-05-31 |
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
