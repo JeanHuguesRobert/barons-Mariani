@@ -4,6 +4,9 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
+title: "Terrain Configuration Theory for Democratic AI Infrastructure"
+date: "2026-04-28"
+status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 # Terrain Configuration Theory for Democratic AI Infrastructure
 

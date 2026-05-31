@@ -4,6 +4,9 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 license: "CC BY-SA 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md
 last_stamped_at: 2026-05-26
+title: "The Republic of Donkeys"
+date: "2026-04-19"
+status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**

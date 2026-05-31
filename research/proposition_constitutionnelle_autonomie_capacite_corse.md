@@ -29,6 +29,7 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
+date: "2026-05-24"
 ---
 
 # Proposition constitutionnelle — autonomie de capacité de la Corse

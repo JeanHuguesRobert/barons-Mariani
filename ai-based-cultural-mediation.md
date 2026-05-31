@@ -4,6 +4,9 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
+title: "ai based cultural mediation"
+date: "2026-04-17"
+status: "draft — auto-filled (frontmatter cleanup)"
 ---
 **Literary Works as Navigable Spaces of Counterfactual Semantics: Toward a Computational Framework for AI-Based Cultural Mediation**
 

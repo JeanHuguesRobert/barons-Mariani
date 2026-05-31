@@ -4,6 +4,9 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
+title: "After Ubik: When Reality No Longer Holds"
+date: "2026-05-23"
+status: "draft — auto-filled (frontmatter cleanup)"
 ---
 # After Ubik: When Reality No Longer Holds
 ## Philip K. Dick, AI, and the Search for a Procedural Stabilizer

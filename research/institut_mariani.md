@@ -2,6 +2,9 @@
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
+title: "Institut Mariani — définition, rôle et généalogie documentaire"
+date: "2026-05-29"
+status: "draft — auto-filled (frontmatter cleanup)"
 ---
 # Institut Mariani — définition, rôle et généalogie documentaire
 

@@ -4,6 +4,9 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
+title: "Markets of Usage Transitions in Multi-Use Physical Assets"
+date: "2026-04-22"
+status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 # Markets of Usage Transitions in Multi-Use Physical Assets
 ## Toward a Theory of Friction-Based Economic Value

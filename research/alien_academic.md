@@ -44,6 +44,7 @@ concept_index:
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-05-26
+date: "2026-05-25"
 ---
 
 # Mauvaise calibration métacognitive face aux intelligences xénoformes

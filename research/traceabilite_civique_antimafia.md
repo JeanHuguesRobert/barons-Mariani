@@ -6,6 +6,8 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-05-26
 x-type: campaign_note
+title: "Traçabilité civique anti-mafieuse"
+date: "2026-05-16"
 ---
 
 # Traçabilité civique anti-mafieuse
