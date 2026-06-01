@@ -150,7 +150,27 @@ source/dérivé suivant la [méthode Cogentia Pipeline](https://github.com/JeanH
 le document source `research/autonomia/projet_1755.md` (v0.13, dossier
 probatoire ouvert) et son tableau de bord public dérivé `research/autonomia/1755.md`.
 
-→ [Papier autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Projet #1755 (source)](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) · [Tableau de bord public](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md)
+L'enquête *Impunité par obscurité* — le cas corse comme révélateur d'un
+déficit d'imputabilité institutionnelle — prolonge le dossier autonomia
+sur le versant académique : working paper v0.5, source symétrique, avec
+couple blogpost dérivé.
+
+→ [Papier autonomia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md) · [Projet #1755 (source)](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md) · [Tableau de bord public](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/1755.md) · [Impunité par obscurité — cas corse](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_cas_corse.md) · [Version blogpost](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_blogpost.md)
+
+---
+
+### 🇫🇷 *PLU de Corte — Riacquistu Data-Driven* — Enquête OSINT politique
+
+*Note d'enquête v0.1 — statut explicitement exploratoire, non stabilisée doctrinalement.*
+
+Enquête OSINT ouverte sur le projet **Riacquistu Data-Driven**, présenté
+publiquement comme un projet industriel mené par des étudiants de Paoli Tech
+avec la Ville de Corte, EONA-X et l'Università di Corsica. Versant
+politique du dossier autonomia : qui décide, qui sait, et qui rend des
+comptes sur les transformations urbaines à Corte. Lecture campagne
+sénatoriale : annexe locale au Plan 2038.
+
+→ [Note d'enquête](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md)
 
 ---
 
@@ -235,6 +255,23 @@ réduit. Trois études de cas : aviation civile, modération de contenu numériq
 mobilisation nationaliste corse.
 
 → [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures interactives](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
+
+---
+
+### 🇫🇷 *Des bleus de travail aux bleus de mémoire* — Bleu de Chine corse, denim nîmois et patrimonialisation méditerranéenne
+
+*Working paper academic draft v0.1 — dossier patrimoine.*
+
+Comparaison prudente entre deux objets textiles bleus associés à des
+territoires méditerranéens : le Bleu de Chine réactivé en Corse comme vêtement
+populaire ou identitaire, et le denim associé au récit textile nîmois par la
+formule *serge de Nîmes*. La méthode n'établit pas une filiation directe ;
+elle interroge la façon dont des vêtements de travail deviennent des supports
+de mémoire territoriale, et propose de penser le patrimoine comme capacité de
+réappropriation plutôt que comme pure origine. Dossier composé d'un article
+académique, d'une chronologie critique et d'un appareil de sources annotées.
+
+→ [Article académique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_article_academique.md) · [Chronologie critique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_chronologie.md) · [Sources annotées](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md)
 
 ---
 
