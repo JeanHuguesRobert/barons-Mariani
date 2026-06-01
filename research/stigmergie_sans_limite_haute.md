@@ -189,6 +189,7 @@ continuation:
 - [Research Index — barons-Mariani](index.md)
 - [La méthode des terrains féconds](methode_terrains_feconds.md)
 - [La pathologie du secret](pathologie_du_secret.md)
+- [Test du critère Rossignol](test_critere_rossignol.md)
 - [VIGILIA](../vigilia.md)
 
 <!-- END_AUTO: backlinks -->

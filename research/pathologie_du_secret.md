@@ -979,5 +979,6 @@ Créer trois fichiers compagnons :
 - [Democratic AI Safety](democratic_ai_safety.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
+- [Traçabilité des actes](traceabilite_des_actes.md)
 
 <!-- END_AUTO: backlinks -->

@@ -1181,5 +1181,6 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
+- [Test du critère Rossignol](test_critere_rossignol.md)
 
 <!-- END_AUTO: backlinks -->
