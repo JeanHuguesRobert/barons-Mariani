@@ -13,6 +13,7 @@ review_context:
   - "Grok — reviewer of research version, not author of this blogpost"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes_blogpost.md
+last_stamped_at: 2026-06-01
 ---
 
 # Traçabilité des actes : déléguer sans se déposséder

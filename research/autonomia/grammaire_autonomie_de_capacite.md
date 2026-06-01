@@ -7,7 +7,7 @@ status: working-paper — methodological / political grammar - source method (au
 version: "1.0"
 x-type: "generative political grammar"
 x-branch: "main"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md
 license: "CC BY-SA 4.0"
 x-source_file: "grammaire_autonomie_de_capacite_v1.0.md"
 related_documents:
@@ -21,6 +21,7 @@ related_documents:
     path: "research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+last_stamped_at: 2026-06-01
 ---
 
 

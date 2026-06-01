@@ -3,7 +3,7 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invi
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 title: "*Invidia*, envie et désir mimétique"
 date: "2026-04-11"
 status: "draft — auto-filled (frontmatter cleanup)"

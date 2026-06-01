@@ -3,7 +3,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 title: "La pathologie du secret"
 date: "2026-05-20"
 status: "working-paper — auto-filled (frontmatter cleanup)"

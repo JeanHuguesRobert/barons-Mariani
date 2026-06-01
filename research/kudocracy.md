@@ -10,7 +10,7 @@ status: working-paper — révision conceptuelle
 license: "CC BY-SA 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md
 last_modified_at: "2026-05-22"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 tags:
   - kudocracy
   - votations

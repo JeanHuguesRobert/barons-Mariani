@@ -7,7 +7,7 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 date: "2026-05-26"
 status: "working-paper — adaptive exploration under mimetic resistance"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 ---
 # Sailing the Cognitive Waves  
 ## A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints

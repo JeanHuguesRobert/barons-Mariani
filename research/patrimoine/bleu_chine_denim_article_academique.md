@@ -7,13 +7,14 @@ status: "working-paper — academic draft"
 version: "0.1"
 x-type: "academic article draft"
 x-branch: "main"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_article_academique.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_article_academique.md
 license: "CC BY-SA 4.0"
 related_documents:
   - title: "Bleu de Chine, denim et indigo — Sources annotées"
     path: "research/patrimoine/bleu_chine_denim_sources_annotees.md"
   - title: "Bleu de Chine, denim et indigo — Chronologie critique"
     path: "research/patrimoine/bleu_chine_denim_chronologie.md"
+last_stamped_at: 2026-06-01
 ---
 
 # Des bleus de travail aux bleus de mémoire

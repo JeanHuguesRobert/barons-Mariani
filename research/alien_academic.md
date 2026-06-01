@@ -43,7 +43,7 @@ concept_index:
   post_anthropocentric_ai_safety: "AI Safety that protects humans without taking human categories as the sole measure of intelligence, value, and risk"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 date: "2026-05-25"
 ---
 

@@ -1,3 +1,7 @@
+---
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md
+last_stamped_at: 2026-06-01
+---
 # PLU de Corte
 
 ## Enquête OSINT ouverte — Riacquistu Data-Driven, nouveau PLU, logement étudiant et bâti ancien

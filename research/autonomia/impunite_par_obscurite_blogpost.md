@@ -27,6 +27,8 @@ source_status:
   source_status: "published working paper — academic symmetric source document"
 ai_assisted_by:
   - "ChatGPT"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_blogpost.md
+last_stamped_at: 2026-06-01
 ---
 
 # L’autonomie ne doit pas devenir un transfert d’opacité

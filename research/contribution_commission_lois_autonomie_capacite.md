@@ -16,6 +16,8 @@ source_corpus:
   - "barons-Mariani/research/autonomia/atlas_paysage_politique_corse.md"
   - "barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md"
   - "cogentia/research/self_contained_documents.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
+last_stamped_at: 2026-06-01
 ---
 
 # Contribution écrite à la commission des Lois

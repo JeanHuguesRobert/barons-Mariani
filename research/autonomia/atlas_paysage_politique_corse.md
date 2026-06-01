@@ -7,7 +7,7 @@ status: working-paper — campaign / public rhetoric atlas - source material for
 version: "1.0-atlas"
 x-type: "political and discursive atlas"
 x-branch: "main"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
 license: "CC BY-SA 4.0"
 x-source_file: "atlas_paysage_politique_corse_v1.0.md"
 related_documents:
@@ -21,6 +21,7 @@ related_documents:
     path: "research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+last_stamped_at: 2026-06-01
 ---
 
 

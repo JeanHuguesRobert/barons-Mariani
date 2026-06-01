@@ -7,7 +7,7 @@ status: "working-note — sources annotées v0.1"
 version: "0.1"
 x-type: "annotated bibliography and source dossier"
 x-branch: "main"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md
 license: "CC BY-SA 4.0"
 related_documents:
   - title: "Bleu de Chine, denim et indigo — Protocole de recherche"
@@ -16,6 +16,7 @@ related_documents:
     path: "research/patrimoine/bleu_chine_denim_chronologie.md"
   - title: "Des bleus de travail aux bleus de mémoire — Brouillon d’article"
     path: "research/patrimoine/bleu_chine_denim_article_academique.md"
+last_stamped_at: 2026-06-01
 ---
 
 # Bleu de Chine, denim et indigo — Sources annotées

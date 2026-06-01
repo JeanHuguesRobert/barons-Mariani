@@ -10,7 +10,8 @@ license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "ChatGPT — drafting de l'amorce mouches (2026-05-29)"
   - "Claude — articulation et jonction (2026-05-30) ; alignement Rossignol §4.1–4.3 (2026-05-31)"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md
+last_stamped_at: 2026-06-01
 ---
 
 # Stigmergie sans limite haute

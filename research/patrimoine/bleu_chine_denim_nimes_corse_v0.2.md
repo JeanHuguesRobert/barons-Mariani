@@ -7,7 +7,7 @@ status: "working-paper — research protocol and evidence matrix"
 version: "0.2"
 x-type: "research protocol"
 x-branch: "main"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md
 license: "CC BY-SA 4.0"
 previous_version: "research/patrimoine/bleu_chine_denim_nimes_corse_v0.1.md"
 related_projects:
@@ -30,6 +30,7 @@ keywords:
   - "Nîmes"
   - "Gênes"
   - "Méditerranée"
+last_stamped_at: 2026-06-01
 ---
 
 # Bleu de Chine, denim et indigo

@@ -15,6 +15,8 @@ source_documents:
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
 license: "CC BY-SA 4.0"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md
+last_stamped_at: 2026-06-01
 ---
 
 # Le théâtre des pays imaginaires de Corse

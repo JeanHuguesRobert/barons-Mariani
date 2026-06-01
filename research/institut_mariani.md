@@ -5,6 +5,8 @@ license: "CC BY-SA 4.0"
 title: "Institut Mariani — définition, rôle et généalogie documentaire"
 date: "2026-05-29"
 status: "draft — auto-filled (frontmatter cleanup)"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/institut_mariani.md
+last_stamped_at: 2026-06-01
 ---
 # Institut Mariani — définition, rôle et généalogie documentaire
 

@@ -31,6 +31,8 @@ ai_assisted_by:
   - "Grok critique, v0.2"
   - "Grok critique, v0.3"
   - "Grok critique, v0.4"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_cas_corse.md
+last_stamped_at: 2026-06-01
 ---
 
 # Impunité par obscurité

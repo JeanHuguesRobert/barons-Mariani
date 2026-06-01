@@ -7,7 +7,7 @@ date: "2026-05-27"
 status: working-paper — operational research version validated after reviewer critique
 version: "0.15.1-research"
 license: "CC BY-SA 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md
 ai_assisted_by:
   - "ChatGPT — drafting, restructuring, consolidation"
 reviewed_by:
@@ -41,6 +41,7 @@ version_history:
   - "v0.14-research — genre separation; campaign formulas moved to separate annex"
   - "v0.15-research — operational revision after Grok review, with clearer thresholds and concrete YAML examples"
   - "v0.15.1-research — micro-amendment: reviewer role clarified, no v0.16-research needed before publication"
+last_stamped_at: 2026-06-01
 ---
 
 # Traçabilité des actes

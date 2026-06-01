@@ -22,7 +22,7 @@ tags:
   - Substack
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 

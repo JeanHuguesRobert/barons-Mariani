@@ -3,7 +3,7 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/poss
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 title: "Possibilism: Notes Toward a Research Program on Possibility Exploration"
 date: "2026-04-28"
 status: "working-paper — auto-filled (frontmatter cleanup)"

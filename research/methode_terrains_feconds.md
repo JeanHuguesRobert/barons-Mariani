@@ -8,7 +8,7 @@ version: "0.4"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 ---
 
 # La méthode des terrains féconds

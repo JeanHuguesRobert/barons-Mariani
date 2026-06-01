@@ -9,7 +9,7 @@ date: "2026-05-18"
 license: "CC BY-SA 4.0"
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 ---
 
 # Autonomia[^titre]

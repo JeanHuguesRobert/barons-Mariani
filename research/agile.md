@@ -22,7 +22,7 @@ changelog:
   - "v0.4 (2026-05-23) — intégration de deux cas externes documentés : FCA Regulatory Sandbox et e-Estonia/X-Road ; ajout d’une section critique sur l’agile washing et les limites des transformations agiles à grande échelle ; resserrement de plusieurs formulations normatives ; maintien assumé de la signature stylistique et du branding, désormais justifiés dans la note de positionnement."
   - "v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout de précautions sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives."
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 ---
 
 # La seconde méthode comme généralisation prudente de l’agile

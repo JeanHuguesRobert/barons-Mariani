@@ -12,7 +12,7 @@ status: working-paper
 predecessor: vigilia.md v1.3 (2026-05-12), v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-05-26
+last_stamped_at: 2026-06-01
 ---
 
 # VIGILIA

@@ -9,7 +9,8 @@ version: "0.1"
 license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "Claude — passage au crible, 2026-05-31"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md
+last_stamped_at: 2026-06-01
 ---
 
 # Test du critère Rossignol

@@ -8,7 +8,7 @@ version: "0.1"
 type: "political satire / derived essay / theatrical atlas"
 branch: "main"
 intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/utopia/theatre_pays_imaginaires_corse_beauvau.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau.md
 license: "CC BY-SA 4.0"
 derived_from:
   - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
@@ -25,6 +25,7 @@ related_documents:
     path: "research/proposition_constitutionnelle_autonomie_capacite_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+last_stamped_at: 2026-06-01
 ---
 
 # Le théâtre des pays imaginaires de Corse
