@@ -230,6 +230,23 @@ opérations libres**.
 
 ---
 
+### 🇫🇷 *La seconde méthode comme généralisation prudente de l'agile* — Régimes d'erreur, expérimentation traçable et apprentissage collectif sous complexité
+
+*Working paper v0.5 — articulation méthodologique avec l'agile.*
+
+Replace l'agile dans une grammaire plus large de méthodes d'action sous
+complexité, en distinguant régimes d'erreur (réversible / coûteux / catastrophique)
+et conditions d'apprentissage collectif. La seconde méthode (cf
+[`second_method.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md))
+n'est pas une rupture avec l'agile : elle en généralise prudemment les invariants
+(expérimentation traçable, itération courte, signal d'échec récupérable) aux
+domaines où l'agile devient incompétent — notamment les actes publics et les
+infrastructures de longue durée.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md)
+
+---
+
 ### 🇬🇧 *Democratic AI Safety* — Why AI Safety must protect human sovereignty against AI-augmented legal persons
 
 *Working paper draft v0.5 — thèse politique de la couche AI Safety.*
@@ -240,6 +257,22 @@ augmentées par IA contre le démos. Anti-capture est une préoccupation de
 safety. Pendant juridique : *La pathologie du secret*.
 
 → [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md)
+
+---
+
+### 🇫🇷 *Mauvaise calibration métacognitive face aux intelligences xénoformes* — Pour une AI Safety post-anthropocentrique
+
+*Working paper v0.7 — academic form ; couple blog dérivé v0.2.*
+
+Soutient que l'AI Safety mainstream calibre mal sa métacognition face aux
+intelligences non-humaines : elle projette des structures anthropomorphes sur des
+systèmes dont la cognition obéit à d'autres lois. Propose un cadre AI Safety
+post-anthropocentrique appuyé sur les figures littéraires des intelligences
+xénoformes (notamment *Alien*), et une gouvernance démocratique des
+intelligences hybrides qui n'évacue pas l'altérité cognitive radicale. Pendant
+politique : *Democratic AI Safety*.
+
+→ [Papier académique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md) · [Version blog](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_blogpost.md)
 
 ---
 
@@ -289,6 +322,24 @@ réappropriation plutôt que comme pure origine. Dossier composé d'un article
 académique, d'une chronologie critique et d'un appareil de sources annotées.
 
 → [Article académique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_article_academique.md) · [Chronologie critique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_chronologie.md) · [Sources annotées](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md)
+
+---
+
+### 🇫🇷 *Verticalisation de la Chrétienté* — Du Dieu-à-côté au Dieu-au-dessus
+
+*Working paper v0.4 — esquisse historique, politique et symbolique ; couple blogpost dérivé v0.1.*
+
+Reconstruit la trajectoire par laquelle la Chrétienté est passée d'un Dieu
+**à-côté** (présence familière, voisinage, monde habité avec et non sous Dieu)
+à un Dieu **au-dessus** (verticalité hiérarchique, abstraction surplombante,
+clôture du commun par la transcendance). Lit cette bascule comme une opération
+politique de capture verticale, avec des effets persistants sur la manière dont
+les institutions modernes pensent l'autorité. La version blogpost — *Dieu
+au-dessus, Dieu à côté : pourquoi l'âne compte politiquement* — articule la
+thèse à la figure de l'âne (cf [the_republic_of_donkeys](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md))
+comme stabilisateur procédural pratique.
+
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md) · [Version blog](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md)
 
 ---
 
