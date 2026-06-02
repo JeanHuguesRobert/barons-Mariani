@@ -1,0 +1,102 @@
+id: "autonomie_capacite_corse"
+type: "autonomy_capacity_packet"
+title: "Autonomie de capacité de la Corse"
+jurisdiction: "France / Corsica"
+territory: "Corse"
+source_documents:
+  - "research/contribution_commission_lois_autonomie_capacite.md"
+  - "research/autonomia/impunite_par_obscurite_cas_corse.md"
+  - "research/legistique_cognitive.md"
+status:
+  packet_status: "draft"
+  institutional_status: "constitutional reform context"
+  corpus_role: "demonstrator case for cognitive legistics"
+core_claim: >
+  The autonomy of Corsica should not be assessed only as a transfer
+  of legal powers or procedural competence. It should be assessed as
+  Autonomie de Capacité: the effective, verifiable and responsible
+  capacity of the territory to respond to its concrete imbalances.
+problem:
+  conventional_question: "La Corse aura-t-elle davantage de compétences ?"
+  capacity_question: "Ces compétences rendront-elles la Corse effectivement plus capable de traiter ses problèmes ?"
+  identified_risk:
+    - "autonomie de papier"
+    - "autonomie procédurale sans capacité effective"
+    - "transfert d’opacité"
+    - "capture institutionnelle"
+    - "impunité par obscurité"
+capacity_definition:
+  short: >
+    Capacity of a territory to convert its resources, institutions,
+    know-how, data, infrastructures, social networks and legal tools
+    into real possibilities of action, production, protection,
+    transmission and decision for its inhabitants.
+  components:
+    - "legal capacity"
+    - "administrative capacity"
+    - "technical capacity"
+    - "financial capacity"
+    - "data capacity"
+    - "democratic capacity"
+    - "audit capacity"
+    - "correction capacity"
+traceability_chain:
+  - "decide"
+  - "instruct"
+  - "justify"
+  - "trace"
+  - "publish"
+  - "control"
+  - "audit"
+  - "correct"
+  - "sanction_if_necessary"
+  - "learn_institutionally"
+normative_proposal:
+  target: "future article 72-5 of the French Constitution or its preparatory works"
+  formulation_candidate: >
+    Le régime d'autonomie de la Corse a pour objet de permettre à la
+    Collectivité de Corse de répondre aux déséquilibres spécifiques qui
+    affectent l'habitation permanente, la transmission culturelle et
+    linguistique, la protection des ressources, la gestion des usages du
+    sol, la transition énergétique locale, la maîtrise publique des données
+    territoriales utiles à l'exercice de ses compétences et la maîtrise des
+    effets de l'attractivité territoriale.
+debt_type:
+  - "institutional_debt"
+  - "procedural_debt"
+  - "representation_debt"
+anti_capture_requirements:
+  - "traceability of public acts"
+  - "public justification of decisions"
+  - "auditability of agencies and offices"
+  - "clear accountability chain"
+  - "proportional transparency"
+  - "register of conflicts of interest and recusals where relevant"
+  - "citizen-readable derived products"
+cognitive_lesson: >
+  A constitutional or statutory reform should not only define competences.
+  It should define the cognitive, procedural and institutional conditions
+  under which these competences become effective, accountable and
+  corrigible capacities.
+machine_to_explore_link:
+  machine_to_prevent: >
+    A legal framework that transfers or accumulates competences without
+    creating effective capacity, transparency and correction mechanisms.
+  machine_to_explore: >
+    An autonomy architecture that enables experimentation, local problem
+    solving, traceability, democratic control and institutional learning.
+evidence_level:
+  A:
+    - "existence of the corpus contribution on Autonomie de Capacité"
+    - "existence of the impunity-by-obscurity working paper"
+  B:
+    - "interpretation of Corsican autonomy as an institutional-debt case if capacity is not made explicit"
+    - "interpretation of traceability as anti-capture condition"
+  C:
+    - "Cogentia Commons hypothesis that autonomy can be represented as a capacity packet"
+related_issue: "JeanHuguesRobert/cogentia#29"
+related_document: "research/legistique_cognitive.md"
+continuation:
+  - "derive minimal autonomy_capacity_packet schema after comparison with other examples"
+  - "produce a public-facing derived note for elected officials and mountain municipalities"
+  - "connect to future constitutional / organic-law amendment tracking"
