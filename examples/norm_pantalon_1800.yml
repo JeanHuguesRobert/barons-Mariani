@@ -1,0 +1,34 @@
+id: "norm_pantalon_1800"
+type: "norm_packet"
+title: "Ordonnance parisienne de 1800 relative au port du pantalon par les femmes"
+jurisdiction: "France / Paris"
+date_original: "1800-11-07"
+historical_date_label: "16 brumaire an IX"
+source_type: "police ordinance"
+status:
+  normative_status: "implicitly_repealed"
+  legal_effect: "none"
+  archival_status: "historical_record"
+reason_for_status:
+  - "incompatibility with contemporary constitutional equality principles"
+  - "desuetude and absence of current legal enforceability"
+  - "ministerial answer recognizing implicit abrogation in 2013"
+values_implicated:
+  - "equality"
+  - "dignity"
+  - "legal clarity"
+  - "gender non-discrimination"
+debt_type:
+  - "dead_normative_debt"
+  - "symbolic_debt"
+cognitive_lesson: >
+  A legal corpus must distinguish active norms, obsolete norms,
+  implicitly repealed norms and archival materials. Historical preservation
+  is legitimate; normative ambiguity is not.
+maintenance_action:
+  recommended:
+    - "mark as archival"
+    - "link to abrogation or incompatibility note"
+    - "separate historical trace from active legal rule"
+evidence_level: "A for existence and 2013 ministerial answer; B for classification as dead normative debt"
+related_document: "research/legistique_cognitive.md"
