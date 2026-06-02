@@ -1,0 +1,127 @@
+id: "continuity_protection_marie_louise"
+type: "continuity_protection_packet"
+title: "Continuité de protection — cas Marie-Louise Robert, dite Malou"
+jurisdiction: "France"
+person_reference:
+  name: "Marie-Louise Robert"
+  public_name: "Malou"
+  relation_to_author: "daughter of Jean Hugues Noël Robert"
+source_documents:
+  - "protection_responsable.md"
+  - "research/legistique_cognitive.md"
+projected_institutional_frame:
+  name: "Les Amis de Malou"
+  type: "fonds de dotation"
+  status: "in creation"
+  caution: >
+    This fund is a projected institutional frame, not yet a constituted
+    legal person at the date of this packet. The packet must not speak
+    in the name of the fund as if it were already operational.
+status:
+  packet_status: "draft"
+  corpus_role: "demonstrator case for protection debt and cognitive legistics"
+  prevention_relevance: "high"
+four_planes:
+  personal_fact:
+    allowed: "Use an assumed, lived and documentable case as a starting point."
+    not_allowed: "Treat the personal case alone as complete legal proof."
+  doctrinal_hypothesis:
+    allowed: "Identify a possible failure of continuity in vulnerability pathways."
+    not_allowed: "Automatically conclude that a determinate legal fault occurred."
+  normative_proposal:
+    allowed: "Formulate a continuity-of-protection principle, pathway referee and prioritization of severe cases."
+    not_allowed: "Transform singular pain into a general rule without critical mediation."
+  projected_institutional_frame:
+    allowed: "Prepare a future work axis for Les Amis de Malou."
+    not_allowed: "Speak as or for a fund not yet legally constituted."
+core_claim: >
+  French public law protects vulnerability through sectoral regimes, but it
+  does not sufficiently protect transitions between regimes. In serious
+  vulnerability pathways, the absence of a continuity mechanism may dilute
+  responsibility and reduce the chance of timely protection.
+problem:
+  structural_fragmentation:
+    - "health"
+    - "higher education"
+    - "disability recognition"
+    - "social action"
+    - "social protection"
+    - "family caregiving"
+  procedural_fragmentation:
+    - "heterogeneous timelines"
+    - "separate admissibility criteria"
+    - "separate assessment standards"
+    - "separate appeal paths"
+    - "lack of unified pathway responsibility"
+  risk: >
+    A person may be known by one institution without this knowledge producing
+    coordinated protective effects across the whole pathway.
+debt_type:
+  - "protection_debt"
+  - "continuity_debt"
+  - "procedural_debt"
+  - "responsibility_dilution"
+conceptual_lesson: >
+  Vulnerability is not only a status. It can become a pathway. A responsible
+  legal corpus should therefore represent and protect transitions, not only
+  categories.
+accountability_problem:
+  name: "dilution of responsibility in vulnerability pathways"
+  mechanism:
+    - "multiple possible causes"
+    - "sectoral competence boundaries"
+    - "ordinary administrative timelines masking concrete urgency"
+    - "no identified lead actor"
+    - "difficulty proving decisive causation"
+  related_concept: "impunity by obscurity"
+normative_proposal:
+  principle: "continuity of protection"
+  possible_mechanisms:
+    - "mandatory pathway referee in serious vulnerability cases"
+    - "prioritization of cases signaled as severe"
+    - "coordination duty between institutions"
+    - "traceability of non-prioritization decisions"
+    - "procedural memory of alerts"
+    - "specific status for family caregiver in education / training pathway"
+    - "review clauses when vulnerability worsens"
+  negative_boundary: >
+    This is not automatic administrative liability for every harm. It is a
+    procedural requirement of coherence, traceability and timely protection.
+minimum_traceability:
+  alert:
+    date: ""
+    source: ""
+    severity: ""
+    receiving_institution: ""
+  pathway:
+    institutions_involved: []
+    transitions: []
+    identified_lead_actor: ""
+  decisions:
+    prioritization_decision: ""
+    non_prioritization_reason: ""
+    referral_or_coordination_actions: []
+  review:
+    next_review_date: ""
+    escalation_trigger: []
+evidence_level:
+  A:
+    - "existence of protection_responsable.md in the corpus"
+    - "the document formulates a sectoral-fragmentation diagnosis"
+    - "the document proposes continuity of protection, pathway referee and prioritization"
+  B:
+    - "interpretation of the case as protection debt"
+    - "interpretation of fragmented vulnerability pathways as responsibility dilution"
+  C:
+    - "Cogentia Commons hypothesis that continuity of protection can be represented as a packet and later schema"
+ethical_constraints:
+  - "maintain dignity and privacy"
+  - "avoid overclaiming legal causation"
+  - "separate grief, evidence, doctrine and institutional action"
+  - "preserve the future fund Les Amis de Malou from premature juridical claims"
+related_issue: "JeanHuguesRobert/cogentia#29"
+related_document: "research/legistique_cognitive.md"
+continuation:
+  - "verify sensitive factual statements before public derived products"
+  - "derive a minimal continuity_protection_packet schema after comparison with other cases"
+  - "prepare a non-sensational public note under the future frame of Les Amis de Malou after legal constitution"
