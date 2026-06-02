@@ -258,6 +258,23 @@ mobilisation nationaliste corse.
 
 ---
 
+### 🇫🇷 *Test du critère Rossignol* — quatre dispositifs au crible
+
+*Working-note v0.1, 2026-05-31 — critère doctrinal appliqué.*
+
+Application du critère « pas de stabilisateur sans Rossignol » à quatre
+dispositifs candidats (Cogentia, traçabilité symétrique, FractaVolta,
+Kudocracy). Le critère, posé en §4.3 de [`stigmergie_sans_limite_haute.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md), formalise la condition opérationnelle d'un stabilisateur procédural :
+produire un **Rossignol** — point d'attestation *exposable hors-cadre*,
+physique de préférence, cryptographique acceptable, métaphorique rejeté.
+Maturité trinaire (natif / attesté / à-produire), composée par couches pour
+les dispositifs composites. Inox au crible dans
+[`Inox/research/test_critere_rossignol_inox.md`](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md).
+
+→ [Test sur quatre dispositifs](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md) · [Critère §4.3](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md) · [Application Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
+
+---
+
 ### 🇫🇷 *Des bleus de travail aux bleus de mémoire* — Bleu de Chine corse, denim nîmois et patrimonialisation méditerranéenne
 
 *Working paper academic draft v0.1 — dossier patrimoine.*

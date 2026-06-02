@@ -63,6 +63,27 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
+| [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |
+| [L'autonomie ne doit pas devenir un transfert d'opacité — À propos de l'impunité par obscurité (FR)](autonomia/impunite_par_obscurite_blogpost.md) *(derived product v0.1 — Substack draft)* | this repo | 2026-06-01 |
+| [PLU de Corte — Rapport OSINT provisoire sur Riacquistu Data-Driven (FR)](autonomia/plu_de_corte.md) *(enquête OSINT politique v0.5 — document source long pour publication ; statut explicitement exploratoire, non stabilisée doctrinalement)* | this repo | 2026-06-01 |
+| [Le théâtre des pays imaginaires de Corse — Fables sérieuses sur le processus de Beauvau (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau.md) *(produit décliné satirique et documentaire v0.1)* | this repo | 2026-05-28 |
+| [Le théâtre des pays imaginaires de Corse — version blogpost (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md) *(blogpost v0.1, dérivé du satirique)* | this repo | 2026-05-28 |
+| [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse (FR)](contribution_commission_lois_autonomie_capacite.md) *(version de travail v0.1, à relire avant envoi — dossier décliné en formats 1/2/4/8/16 pages)* | this repo | 2026-05-28 |
+| [Note synthétique pour examen parlementaire — Autonomie de capacité de la Corse (FR)](note_synthetique_autonomie_capacite_corse.md) *(operational note v0.1 — proposition de finalité constitutionnelle)* | this repo | 2026-05-24 |
+| [Courrier public aux six parlementaires de Corse — Pour une autonomie de capacité réelle (FR)](courrier_public_six_parlementaires_corse.md) *(public letter v0.6)* | this repo | 2026-05-24 |
+| [Proposition constitutionnelle — autonomie de capacité de la Corse (FR)](proposition_constitutionnelle_autonomie_capacite_corse.md) *(constitutional proposal v0.1 — contribution à la rédaction du futur article 72-5)* | this repo | 2026-05-24 |
+| [Déclaration d'indépendance de capacité de la Corse — Après 1755, à l'âge du cyberespace (FR)](declaration_independance_capacite_corse.md) *(derived product v0.1 — produit décliné de la proposition constitutionnelle)* | this repo | 2026-05-24 |
+| [Chronologie documentaire du processus de Beauvau — de l'agression d'Yvan Colonna au projet constitutionnel d'autonomie (FR)](chronologie_processus_beauvau_corse.md) *(documentary timeline v0.18)* | this repo | 2026-05-24 |
+| [Stabilité extractive — La Corse comme refuge de réalité dans un monde disloqué (FR)](corsica_stability_extraction.md) *(source document v0.1)* | this repo | 2026-05-24 |
+| [Bleu de Chine, denim et indigo — Note préliminaire (FR)](patrimoine/bleu_chine_denim_nimes_corse_v0.1.md) *(preliminary research note v0.1 — premier état du dossier patrimoine ; précurseur de l'article académique)* | this repo | 2026-05-30 |
+| [Bleu de Chine, denim et indigo — Protocole de recherche v0.2 (FR)](patrimoine/bleu_chine_denim_nimes_corse_v0.2.md) *(research protocol working-paper v0.2 — evidence matrix pour l'article académique)* | this repo | 2026-05-30 |
+| [Verticalisation de la Chrétienté — Du Dieu-à-côté au Dieu-au-dessus (FR)](christianity_verticalization.md) *(working paper v0.4 — esquisse historique, politique et symbolique)* | this repo | 2026-05-25 |
+| [Dieu au-dessus, Dieu à côté : pourquoi l'âne compte politiquement (FR)](christianity_verticalization_blogpost.md) *(blog derived form v0.1 — dérivé de la Verticalisation de la Chrétienté)* | this repo | 2026-05-25 |
+| [Mauvaise calibration métacognitive face aux intelligences xénoformes (FR)](alien_academic.md) *(working paper v0.7 — academic form ; pour une AI Safety post-anthropocentrique)* | this repo | 2026-05-25 |
+| [Alien, l'IA et les intelligences xénoformes — version blog (FR)](alien_blogpost.md) *(blog derived form v0.2 — dérivé du papier académique alien)* | this repo | 2026-05-25 |
+| [Archaïsme et Modernité dans la création insulaire — Continuation 2026 (FR)](archaisme_modernite_continuation_2026_blogpost.md) *(blogpost continuation v0.1)* | this repo | 2026-05-26 |
+| [La seconde méthode comme généralisation prudente de l'agile (FR)](agile.md) *(working paper v0.5 — régimes d'erreur, expérimentation traçable, apprentissage collectif sous complexité)* | this repo | 2026-05-23 |
+| [Institut Mariani — définition, rôle et généalogie documentaire (FR)](institut_mariani.md) *(working note — institutional definition and lineage)* | this repo | 2026-05-29 |
 | [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
 | [Concept Index](concepts.md) *(typed concept registry — mapped by `cogentia.js concepts`)* | this repo | refreshable |
 
@@ -86,6 +107,11 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - Fonds Souverain Communal (FSC) — three-tier legal structure (SCIC SA + Fonds de Dotation + OFS/BRS)
 - Chaise à porteur — contradictory inventory, DRAC Occitanie and Corse outreach
 - Plan 2038 — senatorial platform full documentation
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md) *(working draft — PKD-anchored AI safety essay)*
+- [Ubik et la dislocation du réel — version académique (FR)](ubik_reality_dislocation_academic_fr.md) *(academic draft, FR)*
+- [Ubik and the Dislocation of Reality — academic form (EN)](ubik_reality_dislocation_academic.md) *(academic draft, EN)*
+- [After Ubik — When Reality No Longer Holds](after_ubik_art_criticism_essay.md) *(art-criticism essay draft, EN)*
+- [Après Ubik — quand la réalité ne tient plus (FR)](apres_ubik_essai_critique_art.md) *(essai critique draft, FR)*
 
 ---
 
