@@ -3,8 +3,8 @@ title: "Le théâtre des pays imaginaires de Corse"
 subtitle: "Fables sérieuses autour du processus de Beauvau"
 author: "Jean Hugues Noël Robert"
 publication: "Les carnets du baron Mariani"
-status: "draft — blogpost v0.1"
-date: "2026-05-28"
+status: "draft — blogpost v0.2"
+date: "2026-06-06"
 intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau_blogpost.md"
 source_documents:
   - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
@@ -13,10 +13,13 @@ source_documents:
   - title: "Chronologie documentaire du processus de Beauvau"
     path: "research/chronologie_processus_beauvau_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
+  - title: "Autonomia — Autonomie de Capacité"
+    path: "research/autonomia.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md"
 license: "CC BY-SA 4.0"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-06-06
 ---
 
 # Le théâtre des pays imaginaires de Corse
@@ -90,6 +93,14 @@ L’atlas donne la carte.
 La chronologie donne la trame.  
 Le théâtre donne la forme.  
 Possibilia donne le critère.
+
+Toute mention publique de l’Autonomie de Capacité doit renvoyer au texte source :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
+
+Hashtags de campagne à associer aux déclinaisons publiques courtes :
+
+#AutonomieDeCapacité #UneCorseCapable #Corsica2038 #Pertitellu #PetitParti #VotezCapable #JeanHuguesNoëlRobert
 
 ---
 
@@ -571,6 +582,147 @@ Possibilia répondit :
 **Réplique finale :**
 
 > L’identité sans capacité devient nostalgie. La capacité sans identité devient gestion. La Corse a besoin des deux.
+
+---
+
+
+## Dans le rôle de Permanenzia
+
+**Distribution :** acteurs identitaires, auteurs du registre défensif, figures parlant de permanence, d’effacement, de terre, de villages, de langue et de transmission.
+
+**Devise :** “Si nous ne nous défendons pas, nous disparaîtrons.”
+
+Permanenzia n’est pas un pays absurde.
+
+Il voit quelque chose que les gestionnaires ne veulent pas toujours voir : une terre peut continuer d’exister sur une carte tout en cessant de transmettre ce qui la faisait vivre.
+
+Un village peut rester debout et devenir décor.  
+Une langue peut rester nommée et cesser d’être parlée.  
+Une identité peut être célébrée dans les discours et perdre ses conditions matérielles d’existence.  
+Une terre peut être admirée par tous et devenir inhabitable pour ceux qui l’ont reçue.
+
+Permanenzia pose donc une vraie question : que restera-t-il demain de la Corse ?
+
+Mais son danger est de croire que la permanence se sauve par la défense seule.
+
+Défendre est nécessaire.  
+Mais défendre sans reconstruire les capacités, c’est tenir une porte pendant que la maison se vide.
+
+La terre, les villages, la langue, l’identité et la transmission ne se sauvent pas seulement par protection. Ils se sauvent par des capacités concrètes : habiter, apprendre, produire, soigner, transmettre, décider, réparer, contrôler.
+
+C’est ici que le registre défensif doit être reconfiguré vers l’Autonomie de Capacité.
+
+Texte de référence :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
+
+**Fable.**
+
+Un gardien se tenait devant une vieille maison corse.
+
+Il disait :
+
+— N’entrez pas. Cette maison est à nous.
+
+Un enfant lui demanda :
+
+— Très bien. Mais qui va réparer le toit ? Qui va rallumer le feu ? Qui va apprendre la langue ? Qui va planter le jardin ? Qui va habiter ici demain ?
+
+Le gardien resta silencieux.
+
+Il avait défendu la porte.
+
+Il n’avait pas encore sauvé la maison.
+
+**Réplique finale :**
+
+> La permanence ne se décrète pas. Elle se construit par des capacités de transmission.
+
+---
+
+## Dans le rôle de Tollinchia
+
+**Distribution :** Maître Alexandre-Guillaume Tollinchi et le registre public annoncé autour de l’ouvrage *Autonomie : Et après ? La permanence ou l’effacement*.
+
+**Devise :** “Et après ?”
+
+Tollinchia entre en scène avec une question juste.
+
+Après le statut, après le vote, après les communiqués, après les amendements, après les postures, que restera-t-il ?
+
+La formule est forte parce qu’elle refuse l’illusion du mot magique. Elle rappelle que l’autonomie ne vaut rien si elle ne protège pas la terre, les villages, la langue, l’identité et la capacité à transmettre.
+
+Mais Tollinchia occupe un terrain politiquement reconnaissable : celui du discours défensif-identitaire.
+
+Ce terrain peut croiser le registre de Nicolas Battini et d’une partie de la droite nationale régionalisée : sauver l’identité, empêcher l’effacement, protéger la continuité corse.
+
+Il ne faut pas le balayer.
+
+Il faut le déplacer.
+
+Car l’identité corse ne disparaîtra pas seulement parce qu’elle serait mal nommée. Elle disparaîtra si elle perd ses conditions concrètes d’existence : la terre accessible, les jeunes logés, la langue transmise, les villages habités, les activités productives, les institutions contrôlables, l’énergie maîtrisée, les décisions traçables.
+
+Le bon test de Tollinchia n’est donc pas : est-il inquiet ?
+
+Il a raison de l’être.
+
+Le bon test est : transforme-t-il l’inquiétude en architecture de capacité ?
+
+**Fable.**
+
+Un avocat présenta au tribunal de l’avenir une plaidoirie intitulée : *La permanence ou l’effacement*.
+
+Le juge lui demanda :
+
+— Que demandez-vous ?
+
+L’avocat répondit :
+
+— Que la Corse demeure.
+
+Le juge demanda encore :
+
+— Par quels moyens ?
+
+Alors entrèrent les témoins : une école sans maître de langue, un jeune sans logement, une terre vendue trop cher, un village sans médecin, une commune sans ingénierie, une rivière sans entretien, un mandat sans contrôle, une décision sans trace.
+
+Le juge conclut :
+
+— La permanence ne sera pas accordée par jugement. Elle devra être organisée.
+
+**Réplique finale :**
+
+> Dire “Et après ?” est nécessaire. Mais la réponse ne peut pas être seulement “préserver”. Elle doit être : rendre la Corse capable de transmettre.
+
+---
+
+## Dans le rôle de Defensivia
+
+**Distribution :** tous les discours qui pensent la Corse d’abord sous le signe de la menace : dilution, dépossession, effacement, perte de langue, perte de terre, perte de souveraineté.
+
+**Devise :** “Tout est en train de nous échapper.”
+
+Defensivia a une puissance immédiate.
+
+Elle parle à la peur réelle de perdre.  
+Elle parle à ceux qui voient les maisons fermées, les terres inaccessibles, les jeunes partir, la langue reculer, les villages vieillir.  
+Elle parle à ceux qui sentent que la Corse peut être aimée, visitée, consommée, photographiée — et pourtant vidée d’elle-même.
+
+Mais Defensivia devient dangereuse lorsqu’elle transforme la politique en forteresse mentale.
+
+Une forteresse protège parfois.
+
+Mais elle ne nourrit pas toujours.  
+Elle ne transmet pas toujours.  
+Elle ne produit pas nécessairement des institutions, des écoles, des fermes, des ateliers, des laboratoires, des réseaux d’énergie, des communs numériques, des mandats contrôlables.
+
+La Corse n’a pas seulement besoin d’être défendue.
+
+Elle a besoin d’être rendue capable.
+
+**Réplique finale :**
+
+> Le contraire de l’effacement n’est pas seulement la défense. C’est la transmission organisée.
 
 ---
 
@@ -1111,6 +1263,9 @@ Sécuritaria croit que la peur de la capture justifie l’empêchement.
 Normativia croit parfois que faire la loi suffit.  
 Nazionea croit parfois que la rupture formelle suffira.  
 Identitaria croit parfois que l’identité se protège plus qu’elle ne se transmet.  
+Permanenzia croit parfois que défendre la porte suffit à sauver la maison.  
+Tollinchia demande justement “Et après ?”, mais doit encore transformer l’inquiétude en architecture de capacité.  
+Defensivia voit souvent juste sur le danger, mais croit parfois que la défense suffit à produire la transmission.  
 Diversitia croit parfois qu’être reconnu suffit.  
 Moderatia croit parfois qu’un texte acceptable est nécessairement un bon texte.  
 Clania croit qu’une idée vaut d’abord par celui qui la porte.  
@@ -1140,3 +1295,10 @@ la Corse sera-t-elle reconnue dans la Constitution ?
 La vraie question est :
 
 la Corse aura-t-elle enfin la capacité d’habiter son propre avenir ?
+
+
+Texte de référence — Autonomie de Capacité :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
+
+#AutonomieDeCapacité #UneCorseCapable #Corsica2038 #Pertitellu #PetitParti #VotezCapable #JeanHuguesNoëlRobert
