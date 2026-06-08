@@ -28,11 +28,13 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | Title | Location | Date |
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
+| [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
 | [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
 | [Grammaire générative de l'Autonomie de Capacité (FR)](autonomia/grammaire_autonomie_de_capacite.md) *(méthode source v1.0 — produire réponses, programmes, discours et produits déclinés orientés « Une Corse capable »)* | this repo | 2026-05-27 |
 | [Atlas du paysage politique et discursif corse — Une Corse capable (FR)](autonomia/atlas_paysage_politique_corse.md) *(atlas v1.0-atlas — acteurs, terrains rhétoriques, axes de polarisation, formules de reconfiguration)* | this repo | 2026-05-27 |
+| [Actualisation de l'atlas du paysage politique corse — séquence parlementaire de juin 2026 (FR)](autonomia/atlas_paysage_politique_corse_actualisation_2026-06.md) *(working paper v0.1 — actualisation à intégrer dans l'atlas principal)* | this repo | 2026-06-06 |
 | [Stock de formules publiques — Autonomie de Capacité (FR)](autonomia/formules_publiques_autonomie_capacite.md) *(annexe v0.57 — bibliothèque de formules publiques, terrains rhétoriques, contre-formules pour Une Corse capable)* | this repo | 2026-05-27 |
 | [Le Petit Parti — Mode d'emploi de l'Autonomie de Capacité (FR)](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md) *(working draft v0.1 — guide court pour militants, sympathisants, candidats et relais locaux)* | this repo | 2026-05-27 |
 | [Traçabilité des actes : mandat, imputabilité et contrôle des actes engageants (FR)](traceabilite_des_actes.md) *(working paper v0.15.1-research — ChatGPT drafting + Grok review + JHR arbitration ; dérivé blogpost dans [`traceabilite_des_actes_blogpost.md`](traceabilite_des_actes_blogpost.md))* | this repo | 2026-05-27 |
@@ -40,9 +42,14 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
 | [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |
 | [La pathologie du secret — Imputabilité humaine, traçabilité démocratique et refus de l'irresponsabilité artificielle (FR)](pathologie_du_secret.md) *(working paper v0.4 — droit positif français/européen, cas DataJust ; pendant juridique de Democratic AI Safety)* | this repo | 2026-05-20 |
+| [Fabriquer la loi comme un corpus vivant (FR)](legistique_cognitive.md) *(working paper v0.2 — légistique cognitive et corpus vivant, source candidate after checkpoint)* | this repo | 2026-06-02 |
+| [DAO, imputabilité et DHITL (FR)](dao_imputabilite_dhitl.md) *(working paper v0.2 — academic source form, media/legal reinforced)* | this repo | 2026-06-03 |
+| [Process note — DAO, imputabilité et DHITL](dao_imputabilite_dhitl_process.md) *(companion process note v0.1)* | this repo | 2026-06-03 |
 | [Kudocracy — Recommandation civique traçable, votations et démocratie liquide assistée par agents (FR)](kudocracy.md) *(working paper v0.1)* | this repo | 2026-05-20 |
 | [Kudos — Une monnaie complémentaire maussienne, adossée à l'euro (FR)](kudos.md) *(working paper draft v0.3)* | this repo | 2026-05-20 |
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
+| [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
+| [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
@@ -62,6 +69,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Test du critère Rossignol — quatre dispositifs au crible (FR)](test_critere_rossignol.md) *(working-note v0.1, 2026-05-31 — applique le critère « pas de stabilisateur sans Rossignol » à Cogentia / traçabilité symétrique / FractaVolta / Kudocracy)* | this repo | 2026-05-31 |
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
+| [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
 | [Protection responsable](../protection_responsable.md) | this repo | 2026 |
 | [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |
 | [L'autonomie ne doit pas devenir un transfert d'opacité — À propos de l'impunité par obscurité (FR)](autonomia/impunite_par_obscurite_blogpost.md) *(derived product v0.1 — Substack draft)* | this repo | 2026-06-01 |
@@ -72,6 +80,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Note synthétique pour examen parlementaire — Autonomie de capacité de la Corse (FR)](note_synthetique_autonomie_capacite_corse.md) *(operational note v0.1 — proposition de finalité constitutionnelle)* | this repo | 2026-05-24 |
 | [Courrier public aux six parlementaires de Corse — Pour une autonomie de capacité réelle (FR)](courrier_public_six_parlementaires_corse.md) *(public letter v0.6)* | this repo | 2026-05-24 |
 | [Proposition constitutionnelle — autonomie de capacité de la Corse (FR)](proposition_constitutionnelle_autonomie_capacite_corse.md) *(constitutional proposal v0.1 — contribution à la rédaction du futur article 72-5)* | this repo | 2026-05-24 |
+| [Simplifier ou rendre capable ? (FR)](exces_de_vitesse_administrative_blocpost.md) *(blog draft — capability-oriented critique of administrative acceleration)* | this repo | 2026-06-03 |
 | [Déclaration d'indépendance de capacité de la Corse — Après 1755, à l'âge du cyberespace (FR)](declaration_independance_capacite_corse.md) *(derived product v0.1 — produit décliné de la proposition constitutionnelle)* | this repo | 2026-05-24 |
 | [Chronologie documentaire du processus de Beauvau — de l'agression d'Yvan Colonna au projet constitutionnel d'autonomie (FR)](chronologie_processus_beauvau_corse.md) *(documentary timeline v0.18)* | this repo | 2026-05-24 |
 | [Stabilité extractive — La Corse comme refuge de réalité dans un monde disloqué (FR)](corsica_stability_extraction.md) *(source document v0.1)* | this repo | 2026-05-24 |
