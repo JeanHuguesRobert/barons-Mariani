@@ -25,6 +25,8 @@ keywords:
   - "Gênes"
   - "Méditerranée"
 last_stamped_at: 2026-06-01
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+corpus_role: "source"
 ---
 
 # Bleu de Chine, denim et indigo
