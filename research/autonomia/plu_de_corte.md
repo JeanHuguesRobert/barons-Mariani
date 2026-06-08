@@ -2551,3 +2551,13 @@ Hypothèse H4 : non démontrée, à instruire
 Hypothèse H6 : Issue constructive possible
 Prochaine étape : publication comme document source long, puis ouverture progressive d’Issues GitHub et, si nécessaire, création d’un sous-répertoire dédié, sous-répertoire éventuel et ouverture d’Issues GitHub comme unités contributives traçables.
 ```
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

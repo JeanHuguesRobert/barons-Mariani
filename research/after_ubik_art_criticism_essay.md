@@ -514,6 +514,7 @@ Both may be used as source material for later derived products.
 ### Backlinks
 
 *These documents link to this file:*
+- [Research Index — barons-Mariani](index.md)
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
 
 <!-- END_AUTO: backlinks -->

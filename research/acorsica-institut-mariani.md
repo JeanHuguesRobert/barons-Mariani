@@ -40,3 +40,14 @@ Les liens entre ce dépôt, C.O.R.S.I.C.A., l’Institut Mariani, PrivAI, Fracta
 Ils ne valent ni fusion institutionnelle, ni transfert de propriété, ni portage juridique automatique, ni financement, ni soutien politique ou électoral.
 
 > L’interconnexion documentaire ne vaut pas confusion institutionnelle.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](../acorsica-institut-mariani.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

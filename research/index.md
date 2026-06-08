@@ -173,6 +173,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Discours de la seconde méthode](second_method.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [Territoires possibilistes](territoires_possibilistes.md)
+- [Test du critère Rossignol](test_critere_rossignol.md)
 - [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
 - [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)
 - [Traçabilité des actes](traceabilite_des_actes.md)

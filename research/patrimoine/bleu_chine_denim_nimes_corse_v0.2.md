@@ -403,3 +403,13 @@ Prochaine étape v0.3 : produire un **dossier de sources annotées**.
 ## 15. Formule de synthèse provisoire
 
 > Le Bleu de Chine corse et le denim nîmois ne prouvent pas une origine commune ; ils révèlent plutôt comment des territoires méditerranéens transforment des bleus de travail en bleus de mémoire.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

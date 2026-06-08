@@ -352,3 +352,13 @@ La question devient : **que pouvons-nous encore continuer à partir de lui ?**
 > 𝗖𝗼𝗺𝗺𝗲𝗻𝘁 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝗻𝘀-𝗻𝗼𝘂𝘀 ?
 >
 > [lien Substack]
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

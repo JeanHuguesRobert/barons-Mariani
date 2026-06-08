@@ -921,6 +921,8 @@ Le cas corse devra être développé dans un article spécifique reliant :
 *These documents link to this file:*
 - [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 - [Kudocracy](kudocracy.md)
 - [Discours de la seconde méthode](second_method.md)
 

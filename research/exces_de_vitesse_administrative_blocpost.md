@@ -221,3 +221,13 @@ C’est ainsi qu’on commence à construire une Corse capable.
 
 [^amendement-ceccoli-expose]: Même amendement, exposé sommaire : conséquences pour les communes corses rurales, nombreuses communes soumises à la loi montagne, difficulté liée au PADDUC non révisé et aspiration des Corses à vivre et demeurer dans leur village.
 
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

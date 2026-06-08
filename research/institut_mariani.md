@@ -611,3 +611,13 @@ Ce document a été établi à partir des traces Gmail consultées le 29 mai 202
 Les liens Gmail privés, identifiants techniques de messages, informations personnelles sensibles, mots de passe, coordonnées bancaires, détails individuels non nécessaires et contenus privés ne sont pas reproduits dans ce document public. Les sujets, dates et catégories d’activité ont été retenus comme traces probatoires minimales.
 
 Le document devra être complété par une revue des archives Yahoo Mail, du tableau Trello **Institut Mariani**, du Drive partagé de l’Institut Mariani, des dépôts GitHub pertinents, des archives locales détenues hors Gmail et des éventuelles archives papier.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

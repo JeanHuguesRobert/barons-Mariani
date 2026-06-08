@@ -478,5 +478,7 @@ Ce billet en est une forme plus narrative. Le fond reste dans le corpus ; la for
 
 *These documents link to this file:*
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 
 <!-- END_AUTO: backlinks -->

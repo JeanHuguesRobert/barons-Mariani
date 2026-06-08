@@ -2460,7 +2460,9 @@ Il dit seulement : voici, à ce stade, une chronologie documentaire structurée,
 ### Backlinks
 
 *These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Courrier public aux six parlementaires de Corse](courrier_public_six_parlementaires_corse.md)
+- [Research Index — barons-Mariani](index.md)
 - [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
 - [Proposition constitutionnelle — autonomie de capacité de la Corse](proposition_constitutionnelle_autonomie_capacite_corse.md)
 

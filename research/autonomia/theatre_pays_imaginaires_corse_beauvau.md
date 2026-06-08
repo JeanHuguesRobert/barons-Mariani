@@ -1496,3 +1496,13 @@ Il peut être développé en essai plus long selon trois directions :
 Règle de continuation :
 
 > **Ne jamais réduire une personne à un personnage. Toujours analyser un rôle public, une scène, une réplique et un terrain discursif.**
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

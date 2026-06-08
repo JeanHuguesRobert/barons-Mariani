@@ -1206,6 +1206,8 @@ Il ne doit pas être considéré comme une conclusion définitive, mais comme un
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Autonomia](autonomia.md)
 - [Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement](christianity_verticalization_blogpost.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 - [Kudocracy](kudocracy.md)
 
 <!-- END_AUTO: backlinks -->

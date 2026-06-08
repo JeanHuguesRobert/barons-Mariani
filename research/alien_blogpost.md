@@ -410,5 +410,7 @@ cogentia.continuation.v1:
 
 *These documents link to this file:*
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 
 <!-- END_AUTO: backlinks -->

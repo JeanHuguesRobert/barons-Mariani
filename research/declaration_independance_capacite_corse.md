@@ -332,3 +332,13 @@ souveraineté numérique et la critique de la captation de valeur.
 La fidélité à ces sources n’implique pas la réversibilité : à partir de cette
 déclaration seule, on ne peut pas reconstruire l’ensemble du corpus dont elle
 est issue.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

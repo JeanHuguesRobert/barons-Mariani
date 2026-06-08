@@ -233,3 +233,13 @@ Travail à mener pour passer de la note v0.1 à un article académique :
 ## 13. Formule de travail
 
 > Ne pas chercher “l’origine vraie” d’un bleu, mais cartographier comment des bleus de travail deviennent des bleus de mémoire.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->

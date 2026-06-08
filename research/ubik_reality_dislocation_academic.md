@@ -463,6 +463,7 @@ The task is to build procedural stabilizers that make reality traceable, contest
 
 *These documents link to this file:*
 - [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
 

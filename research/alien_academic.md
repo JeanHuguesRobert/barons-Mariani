@@ -971,6 +971,8 @@ Ce draft v0.7 est publiable comme **forme académique déclinée provisoire renf
 
 *These documents link to this file:*
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
 - [Kudocracy](kudocracy.md)
 - [Discours de la seconde méthode](second_method.md)
 

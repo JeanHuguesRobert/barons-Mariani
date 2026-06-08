@@ -595,3 +595,13 @@ Président de l'association C.O.R.S.I.C.A.
 - Sénat, projet de loi constitutionnelle pour une Corse autonome au sein de la République, n° 869, déposé le 30 juillet 2025.
 - Conseil d'État, avis du 17 juillet 2025 relatif au projet de loi constitutionnelle pour une Corse autonome au sein de la République.
 - Assemblée nationale, rapport d'information n° 1466 sur l'avenir institutionnel de la Corse, déposé le 28 mai 2025.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Research Index — barons-Mariani](index.md)
+
+<!-- END_AUTO: backlinks -->

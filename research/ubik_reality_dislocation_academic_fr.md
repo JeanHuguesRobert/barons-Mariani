@@ -389,6 +389,7 @@ Prochaines étapes :
 
 *These documents link to this file:*
 - [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Research Index — barons-Mariani](index.md)
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
 
 <!-- END_AUTO: backlinks -->

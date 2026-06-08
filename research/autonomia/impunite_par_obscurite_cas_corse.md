@@ -689,3 +689,13 @@ Cette expérimentation aurait une valeur démonstrative :
 > Sans traçabilité des actes, la responsabilité se dissout.
 >
 > Là où la responsabilité se dissout, l’impunité par obscurité commence.
+
+
+<!-- BEGIN_AUTO: backlinks -->
+### Backlinks
+
+*These documents link to this file:*
+- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Research Index — barons-Mariani](../index.md)
+
+<!-- END_AUTO: backlinks -->
