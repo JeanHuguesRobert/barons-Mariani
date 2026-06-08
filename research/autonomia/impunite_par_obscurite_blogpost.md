@@ -2,10 +2,9 @@
 title: "L’autonomie ne doit pas devenir un transfert d’opacité"
 subtitle: "À propos de l’impunité par obscurité, de la Corse, des agences publiques et de l’Autonomie de Capacité"
 version: "0.1"
-status: "derived product — Substack draft"
+status: "draft"
 date: "2026-06-01"
 author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "research/autonomia/impunite_par_obscurite_blogpost.md"
 language: "fr"
 derived_from:
@@ -29,6 +28,8 @@ ai_assisted_by:
   - "ChatGPT"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_blogpost.md
 last_stamped_at: 2026-06-01
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+corpus_role: "derived"
 ---
 
 # L’autonomie ne doit pas devenir un transfert d’opacité

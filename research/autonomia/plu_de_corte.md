@@ -2,14 +2,16 @@
 title: "PLU de Corte"
 subtitle: "Rapport OSINT provisoire — Riacquistu Data-Driven, logement étudiant, bâti ancien et conditions de transparence d’un outil d’observation territoriale"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-06-01"
-statut: "document source OSINT long — version de publication"
+license: "CC BY-SA 4.0 sauf indication contraire"
+status: "working-paper"
 version: "0.5-document-source-long-pour-publication"
-depot: "JeanHuguesRobert/barons-Mariani"
+corpus_role: "source"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md"
+last_stamped_at: "2026-06-01"
 chemin_prevu: "research/autonomia/plu_de_corte.md"
-licence: "CC BY-SA 4.0 sauf indication contraire"
-canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md
-last_stamped_at: 2026-06-01
+depot: "JeanHuguesRobert/barons-Mariani"
 ---
 
 # PLU de Corte

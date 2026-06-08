@@ -2,10 +2,9 @@
 title: "Impunité par obscurité"
 subtitle: "Le cas corse comme révélateur d’un déficit d’imputabilité institutionnelle"
 version: "0.5"
-status: "published working paper — academic symmetric source document"
+status: "published"
 date: "2026-06-01"
 author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "research/autonomia/impunite_par_obscurite_cas_corse.md"
 license: "CC BY 4.0"
 language: "fr"
@@ -33,6 +32,8 @@ ai_assisted_by:
   - "Grok critique, v0.4"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_cas_corse.md
 last_stamped_at: 2026-06-01
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+corpus_role: "source"
 ---
 
 # Impunité par obscurité

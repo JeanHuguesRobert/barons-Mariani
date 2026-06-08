@@ -3,7 +3,7 @@ title: "Simplifier ou rendre capable ?"
 subtitle: "Loi de simplification, amendement Ceccoli, et méthode des terrains féconds appliquée au cas corse"
 author: "Jean Hugues Noël Robert — Les carnets du baron Mariani"
 date: "2026-06-03"
-status: "produit décliné blog — à relire avant publication"
+status: "draft"
 source_document: "cogentia/research/exces_de_vitesse_administrative.md"
 source_version: "0.3"
 derivation_type: "produit décliné asymétrique"
@@ -15,6 +15,10 @@ methodological_frame:
 repository_target: "cogentia/research/exces_de_vitesse_administrative_blocpost.md"
 publication_target: "Les carnets du baron Mariani — Substack"
 license: "CC BY-SA 4.0"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+corpus_role: "derived"
+derived_from: "cogentia/research/exces_de_vitesse_administrative.md"
+derived_product_type: "blogpost"
 ---
 
 # Simplifier ou rendre capable ?
