@@ -2,12 +2,10 @@
 title: "Mauvaise calibration métacognitive face aux intelligences xénoformes"
 subtitle: "Pour une AI Safety post-anthropocentrique et une gouvernance démocratique des intelligences hybrides"
 version: "v0.7"
-status: working-paper — academic derived form
-document_role: "forme académique déclinée provisoire"
-derived_from: "future source document"
-source_status: "non-source; à consolider ultérieurement dans un document source souverain du corpus"
-  - "barons-Mariani"
-  - "cogentia"
+status: "working-paper"
+document_role: "symmetric-derived-sovereign-provisional"
+derived_from: "xenoform_intelligence_source.md (future source document)"
+source_status: "provisional sovereign source; symmetric derived form standing in for xenoform_intelligence_source.md until that source document is created"
 author: "Jean Hugues Robert"
 license: "CC BY 4.0"
 method: "seconde méthode — conformité renforcée; bibliographie précisée, test de grille approfondi, paquets cognitifs consolidés, liens cliquables exposés hors frontmatter et références de version synchronisées"
@@ -45,6 +43,10 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-06-01
 date: "2026-05-25"
+corpus_role: "source"
+derived_product_type: "symmetric-sovereign-provisional"
+summary: "Academic derived form that provisionally acts as the sovereign source for the xenoform intelligence thesis until xenoform_intelligence_source.md is created."
+keywords: "intelligence xenoforme, AI Safety post-anthropocentrique, mauvaise calibration metacognitive, source souveraine provisoire, derive symetrique"
 ---
 
 # Mauvaise calibration métacognitive face aux intelligences xénoformes
