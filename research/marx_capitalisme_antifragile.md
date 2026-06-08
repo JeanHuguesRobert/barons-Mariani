@@ -10,8 +10,6 @@ date: "2026-06-03"
 status: "working-paper — v0.6.1 — human validated with minor corrections — candidate for source stabilization"
 version: "0.6.1"
 method: "seconde méthode"
-repository: "barons-Mariani"
-path: "research/marx_capitalisme_antifragile.md"
 related_internal_sources:
   - "barons-Mariani/tocqueville_law.md"
   - "barons-Mariani/research/second_method.md"
@@ -41,6 +39,7 @@ x-method:
 human_validation_required: true
 human_validation_status: "validated with minor corrections after checkpoint"
 agent_workflow_status: "candidate for source stabilization — not yet committed"
+corpus_role: "source"
 ---
 
 # Marx, les écrans de télévision et la fragilité des adversaires du capitalisme

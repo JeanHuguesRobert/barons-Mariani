@@ -8,7 +8,6 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 language: "fr"
-repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "research/trace_epistemology.md"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trace_epistemology.md"
 symmetry: "high — source document"
@@ -45,6 +44,7 @@ ai_assisted_by:
   - "Grok — constructive external review, non-decisional"
 human_validation_required: true
 next_action: "publish consolidated source document, then controlled derivation"
+corpus_role: "source"
 ---
 
 # Le passé est aussi imprévisible que le futur

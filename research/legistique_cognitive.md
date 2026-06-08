@@ -4,11 +4,10 @@ subtitle: "Dette normative, traçabilité des actes et transition cognitive de l
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-06-02"
-status: "draft v0.2 révisée — source document candidate after checkpoint"
+status: "draft"
 version: "0.2-revised"
 license: "CC BY-SA 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/legistique_cognitive.md"
-repository: "JeanHuguesRobert/barons-Mariani"
 proposed_path: "research/legistique_cognitive.md"
 language: "fr"
 ai_assisted_by:
@@ -48,6 +47,7 @@ related_projects:
   - "Inseme"
   - "Ubikia"
   - "Barons Mariani"
+corpus_role: "source"
 ---
 
 # Fabriquer la loi comme un corpus vivant
