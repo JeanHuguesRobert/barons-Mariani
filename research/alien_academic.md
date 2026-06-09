@@ -869,7 +869,19 @@ Cette bibliographie est provisoire. Elle reprend la consolidation opérée en v0
 
 ## 25. Continuation
 
-Ce document appelle plusieurs continuations. La plus importante consiste à produire ensuite le document source souverain dont `alien_academic.md` restera une forme académique déclinée. La v0.7 traite une correction éditoriale limitée : synchroniser les références de version après l’ajout des liens cliquables en v0.6.
+Ce document appelle plusieurs continuations. La plus importante consiste à produire ensuite le document source souverain dont `alien_academic.md` restera une forme académique déclinée.
+
+### 25.0. État consolidé au 2026-06-09
+
+Depuis la v0.7, l'arbitrage corpus suivant a été acté : `alien_academic.md` est traité comme **dérivé symétrique souverain provisoire**. Il n'est pas le document source idéal, mais il est actuellement le meilleur porteur structuré de l'hypothèse des intelligences xénoformes. À ce titre, il peut être cité, indexé et interrogé comme source provisoire tant que `xenoform_intelligence_source.md` n'existe pas.
+
+Ce point stabilise une ambiguïté sans fermer la continuation :
+
+- fait accompli : le statut provisoire est explicite dans le frontmatter (`document_role: symmetric-derived-sovereign-provisional`) et dans l'index du corpus ;
+- continuité ouverte : produire `xenoform_intelligence_source.md` comme document source souverain, plus général et moins contraint par la forme académique ;
+- vigilance : ne pas laisser le statut provisoire devenir permanent par inertie documentaire.
+
+La v0.7 elle-même traitait une correction éditoriale limitée : synchroniser les références de version après l'ajout des liens cliquables en v0.6.
 
 ### 25.1. Consolidation scientifique
 
@@ -926,8 +938,12 @@ Titre possible :
 ```yaml
 id: cogentia.continuation.v1.alien_academic_v0_7
 source: alien_academic_v0.6.md
-role: academic_derived_form
+role: symmetric_derived_sovereign_provisional
 status: open
+status_update_2026_06_09: >
+  Corpus arbitration now treats alien_academic.md as a provisional sovereign source
+  because no separate xenoform_intelligence_source.md exists yet. This closes the
+  role ambiguity but keeps the source-document creation continuation open.
 next_actions:
   - produce_source_document: "xenoform_intelligence_source.md"
   - expand_bibliography: "structured bibliography consolidated in v0.5 and preserved in v0.7; convert to BibTeX/CSL later"
