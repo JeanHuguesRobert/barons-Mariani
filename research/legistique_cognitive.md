@@ -1192,16 +1192,24 @@ related_document: "research/legistique_cognitive.md"
 
 ## Continuation
 
-À faire dans une prochaine passe :
+État consolidé au 2026-06-09 : trois artefacts YAML initialement listés comme à créer existent désormais dans `examples/` :
+
+- `examples/norm_pantalon_1800.yml` ;
+- `examples/autonomie_capacite_corse.yml` ;
+- `examples/continuity_protection_marie_louise.yml`.
+
+La continuation n'est donc plus une simple liste de création initiale. Elle devient une liste de stabilisation, de vérification et de dérivation.
+
+Reste à faire dans une prochaine passe :
 
 1. vérifier ligne par ligne la décision n° 2025-891 DC sur le site du Conseil constitutionnel ;
 2. extraire précisément les considérants relatifs à la Charte de l’environnement ;
 3. distinguer ce qui relève de l’article 1er, de l’article 5 et du contrôle de proportionnalité ;
 4. ajouter une section comparative : France / Union européenne / common law administrative review ;
-5. créer physiquement `examples/norm_pantalon_1800.yml` à partir de l’annexe A ;
+5. relire `examples/norm_pantalon_1800.yml` contre l’annexe A et décider si le schéma doit devenir un modèle réutilisable ;
 6. créer `examples/precaution_duplomb_2025.yml` ;
-7. créer `examples/autonomie_capacite_corse.yml` ;
-8. créer `examples/continuity_protection_marie_louise.yml`, en maintenant la distinction entre fait personnel, hypothèse doctrinale, proposition normative et cadre institutionnel projeté du futur fonds Les Amis de Malou ;
+7. relire `examples/autonomie_capacite_corse.yml` contre la contribution sur l'article 72-5 et expliciter les champs stabilisés ;
+8. relire `examples/continuity_protection_marie_louise.yml`, en maintenant la distinction entre fait personnel, hypothèse doctrinale, proposition normative et cadre institutionnel projeté du futur fonds Les Amis de Malou ;
 9. transformer ce document en produit décliné Substack ;
 10. ouvrir une issue Cogentia Commons : “Define minimal schema for norm_packet, public_impact_packet, autonomy_capacity_packet, continuity_protection_packet.”
 

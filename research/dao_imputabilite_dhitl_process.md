@@ -51,11 +51,17 @@ Cette note rend traçable le processus de production du working paper `dao_imput
 
 ## Statut
 
-Le working paper est prêt pour publication publique dans `barons-Mariani/research`, ouverture d’une issue de revue adversariale et préparation de produits déclinés Facebook/Substack.
+Le working paper est désormais publié dans `barons-Mariani/research` sous le nom [`dao_imputabilite_dhitl.md`](dao_imputabilite_dhitl.md), avec cette note comme trace de production associée.
+
+État consolidé au 2026-06-09 :
+
+- fait accompli : le document source et sa note de process sont dans le corpus de recherche ;
+- reste ouvert : ouvrir l'issue de revue adversariale, consolider les références juridiques par juridiction, et produire les dérivés publics ;
+- vigilance : ne pas transformer cette note de process en source doctrinale principale ; la source reste `dao_imputabilite_dhitl.md`.
 
 ## Prochaines étapes
 
-- Ouvrir l’issue GitHub `Revue adversariale — DAO, imputabilité, legal wrappers et DHITL (v0.2)`.
+- Ouvrir l’issue GitHub `Revue adversariale — DAO, imputabilité, legal wrappers et DHITL (v0.2)` si elle n'existe pas encore.
 - Vérifier et stabiliser les références juridiques juridiction par juridiction.
 - Produire une annexe juridique comparative : Wyoming, Marshall Islands, Suisse, UE, France.
 - Préparer les produits déclinés : Facebook, Substack, note Kudocracy/COP.

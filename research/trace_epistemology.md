@@ -755,6 +755,8 @@ Ces produits doivent être dérivés du corpus source, non l'inverse. Aucun prod
 
 Le document source est désormais suffisamment stabilisé pour être lu et annoté humainement avant nouvelle dérivation.
 
+État consolidé au 2026-06-09 : aucune note académique dérivée distincte n'a encore été trouvée dans le corpus. Les mini-cas Dreyfus / Birmingham Six / Richard III restent donc des exemples indicatifs dans le document source, non des démonstrations historiographiques stabilisées. La continuation principale reste la production d'un premier dérivé académique ou juridique qui teste la symétrie du document.
+
 La prochaine étape utile n'est pas une nouvelle critique générale, sauf désaccord substantiel du lecteur humain. Elle consiste plutôt à tester la symétrie du document par un premier produit décliné.
 
 Produit recommandé :

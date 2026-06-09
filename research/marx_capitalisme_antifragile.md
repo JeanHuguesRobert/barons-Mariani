@@ -472,13 +472,24 @@ packet:
     - "La loi de Tocqueville généralisée peut être mal lue comme une psychologisation morale de l’envie."
     - "La critique des formes centralisées peut être confondue avec un rejet de toute institution."
   continuations:
-    - "Comparer explicitement avec Hayek : prix comme système de découverte locale vs paquets cognitifs comme système de jugement enrichi."
-    - "Relier directement à Indirect Action Under Mimetic Constraints : construction de paquets cognitifs et Kudos comme technique de désynchronisation mimétique appliquée à l’anticapitalisme."
+    - "Consolider les références externes à Hayek : la comparaison prix comme système de découverte locale vs paquets cognitifs comme système de jugement enrichi est désormais esquissée dans le corps du texte, mais reste à sourcer."
+    - "Relier plus fortement à Indirect Action Under Mimetic Constraints : construction de paquets cognitifs et Kudos comme technique de désynchronisation mimétique appliquée à l’anticapitalisme."
     - "Développer un protocole minimal de commutation de paquets cognitifs : champs obligatoires, versioning, collision, composition."
     - "Produire une version Substack / grand public centrée sur la formule des écrans de télévision + un exemple territorial corse."
     - "Explorer la limite écologique de l’antifragilité capitaliste : quand les chocs deviennent non internalisables."
-    - "Formaliser la loi de Tocqueville généralisée comme dynamique attentes / équipements / comparaison / insatisfaction."
+    - "Consolider la loi de Tocqueville généralisée : la dynamique attentes / équipements / comparaison / insatisfaction est intégrée au texte, mais l'alignement fin avec le document source reste à vérifier."
 ```
+
+## État consolidé au 2026-06-09
+
+Plusieurs continuations de la v0.6 ont été partiellement absorbées par le texte lui-même :
+
+- le dialogue avec Hayek existe désormais comme distinction entre prix-information et paquets cognitifs comme jugement enrichi ;
+- la loi de Tocqueville généralisée est intégrée au coeur de l'argument ;
+- un exemple minimal de paquet cognitif territorial est présent ;
+- le lien mimétique / DRSJ est nommé, mais il reste à stabiliser plus fortement avec `mimetic_desynchronization.md`.
+
+Les pistes encore ouvertes sont donc plus précises : documenter les références externes, formaliser le protocole minimal des paquets cognitifs, produire le dérivé public, tester la limite écologique de l'antifragilité capitaliste, et vérifier l'alignement fin avec `tocqueville_law.md`.
 
 ## Contrôle d’autoportance v0.6
 
@@ -518,13 +529,13 @@ Cette version corrige un défaut méthodologique de la v0.4 : la loi de Tocquevi
 
 1. Référence exacte chez Marx : *Le Capital*, Livre III, chapitres 13 à 15, baisse tendancielle du taux de profit et contre-tendances.
 2. Schumpeter : destruction créatrice comme forme partielle d’antifragilité orientée par la valorisation.
-3. Hayek : prix comme système d’information distribuée ; limites face aux externalités et aux capacités non monétisables.
+3. Hayek : prix comme système d’information distribuée ; limites face aux externalités et aux capacités non monétisables. Le dialogue est présent, les références restent à fixer.
 4. Polanyi : désencastrement marchand, puis ré-encastrement par les infrastructures de désir et d’équipement.
 5. Taleb : clarification terminologique antifragile / robuste / résilient.
-6. Exemple minimal de paquet cognitif à tester sur un cas territorial réel.
+6. Exemple minimal de paquet cognitif à tester sur un cas territorial réel. Un exemple de vigne solaire communale existe dans le texte ; il reste à le transformer en artefact testable.
 7. Lien mimétique / DRSJ à stabiliser avec `mimetic_desynchronization.md`.
 
-7. Loi de Tocqueville généralisée : vérifier l’alignement fin avec `barons-Mariani/tocqueville_law.md`, notamment la formalisation S(t), les quatre mécanismes, les conditions d’activation et les limites de domaine.
+8. Loi de Tocqueville généralisée : vérifier l’alignement fin avec `barons-Mariani/tocqueville_law.md`, notamment la formalisation S(t), les quatre mécanismes, les conditions d’activation et les limites de domaine.
 
 ---
 
