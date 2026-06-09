@@ -1637,8 +1637,8 @@ Décision : cette version conserve la structure longue du document source, mais 
 - Target document: `barons-Mariani/research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md`
 - Files produced or changed: draft source document only
 - Source or derived product: source document
-- Critiques integrated: none yet
-- Critiques rejected or deferred: none yet
+- Critiques integrated: Grok v0.1, Grok v0.4, selected Mistral operational elements.
+- Critiques rejected or deferred: unsourced statistics, fictional case studies, excessive brochure formatting, unverified numerical commitments, detailed legal drafting, full capital-patient governance.
 - Known risks: breadth, sourcing, legal precision, over-technicality, political readability
 - Human validation needed: title, path, tone, treatment of AI/inference, level of campaign explicitness
 - Next useful action: external review with `cogentia/prompts/reviewer.md`
