@@ -6,6 +6,8 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 date: "2026-06-09"
 version: "0.5-source-candidate"
 status: "working-paper — source document ready for GitHub publication after v0.4 review"
+document_role: source
+source_status: "sovereign source document — source candidate"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_path: "barons-Mariani/research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
@@ -73,6 +75,32 @@ Institut Mariani / C.O.R.S.I.C.A.
 1 cours Paoli, F-20250 Corte, Corsica
 
 ---
+
+## Orientation
+
+Statut : document source souverain en version `0.5-source-candidate`. Il n'est pas un produit dérivé du rapport officiel ; il l'utilise comme terrain de réponse pour formuler une base programmatique autonome.
+
+Fonction dans le corpus : relier l'Autonomie de Capacité, la méthode des terrains féconds, la souveraineté énergétique, l'inférence IA et la campagne sénatoriale de 2026 dans un même document de référence.
+
+À lire avant :
+
+- [Autonomia](../autonomia.md)
+- [Grammaire générative de l'Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
+- [La méthode des terrains féconds](../methode_terrains_feconds.md)
+- [Projet #1755](projet_1755.md)
+
+À lire après :
+
+- [Actualisation de l'atlas du paysage politique corse — séquence parlementaire de juin 2026](atlas_paysage_politique_corse_actualisation_2026-06.md)
+- [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse](../contribution_commission_lois_autonomie_capacite.md)
+- [MareNostrum / DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+- [FractaVolta / PGN](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/PGN.md)
+
+Dépend de : le rapport officiel *Corsica Pruspettiva 2050*, les documents source du dossier Autonomia, et la doctrine anti-capture du corpus.
+
+Continuation : soumettre cette version à revue externe, puis produire des déclinaisons courtes pour élus, communes de montagne, parlementaires, Substack et réseaux sociaux. Les déclinaisons doivent citer ce document comme source.
+
+Dernière consolidation : 2026-06-09 — intégration dans l'index Barons Mariani après revue v0.4, et rattachement à la carte globale du Corpus.
 
 ## Objet
 

@@ -30,6 +30,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
+| [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
 | [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
 | [Grammaire générative de l'Autonomie de Capacité (FR)](autonomia/grammaire_autonomie_de_capacite.md) *(méthode source v1.0 — produire réponses, programmes, discours et produits déclinés orientés « Une Corse capable »)* | this repo | 2026-05-27 |
@@ -115,7 +116,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 - Fonds Souverain Communal (FSC) — three-tier legal structure (SCIC SA + Fonds de Dotation + OFS/BRS)
 - Chaise à porteur — contradictory inventory, DRAC Occitanie and Corse outreach
-- Plan 2038 — senatorial platform full documentation
+- Déclinaisons Corsica2038 — revue externe, notes élus, formats parlementaires, Substack et réseaux sociaux à produire depuis le document source publié
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md) *(working draft — PKD-anchored AI safety essay)*
 - [Ubik et la dislocation du réel — version académique (FR)](ubik_reality_dislocation_academic_fr.md) *(academic draft, FR)*
 - [Ubik and the Dislocation of Reality — academic form (EN)](ubik_reality_dislocation_academic.md) *(academic draft, EN)*

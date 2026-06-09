@@ -31,6 +31,22 @@ status: "draft — auto-filled (frontmatter cleanup)"
 
 <!-- END_AUTO: trails -->
 
+## Orientation
+
+Statut : document source souverain fondateur.
+
+Fonction dans le corpus : formuler la méthode d'exploration rationnelle du possible que le corpus applique ensuite à lui-même.
+
+À lire avant : [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md), si le lecteur découvre l'ensemble.
+
+À lire après : [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md), [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md), [La méthode des terrains féconds](methode_terrains_feconds.md).
+
+Dépend de : le projet de rendre l'incertitude productive, traçable et démocratiquement arbitrable.
+
+Continuation : rester le texte de référence ; les documents ultérieurs doivent l'appliquer, le préciser ou l'objecter explicitement plutôt que le paraphraser.
+
+Dernière consolidation : 2026-06-09 — ajout de la fiche d'orientation.
+
 **Jean Hugues Noël Robert, baron Mariani**
 
 Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250, Corte, Corsica

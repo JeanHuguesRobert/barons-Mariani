@@ -50,48 +50,48 @@ graph LR
   r_inseme["inseme"]
   r_inox["Inox"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|195| r_barons_mariani
-  r_jeanhuguesrobert -->|135| r_cogentia
-  r_cogentia -->|102| r_barons_mariani
-  r_jeanhuguesrobert -->|63| r_marenostrum
-  r_jeanhuguesrobert -->|62| r_fractavolta
-  r_jeanhuguesrobert -->|60| r_inseme
-  r_jeanhuguesrobert -->|55| r_inox
+  r_jeanhuguesrobert -->|149| r_barons_mariani
+  r_cogentia -->|104| r_barons_mariani
+  r_jeanhuguesrobert -->|91| r_cogentia
+  r_jeanhuguesrobert -->|40| r_marenostrum
+  r_jeanhuguesrobert -->|34| r_fractavolta
+  r_fractavolta -->|33| r_marenostrum
+  r_jeanhuguesrobert -->|33| r_inox
   r_fractavolta -->|32| r_cogentia
-  r_fractavolta -->|31| r_marenostrum
+  r_barons_mariani -->|29| r_cogentia
   r_cogentia -->|21| r_inseme
-  r_barons_mariani -->|20| r_cogentia
   r_cogentia -->|20| r_marenostrum
   r_fractavolta -->|18| r_barons_mariani
+  r_jeanhuguesrobert -->|17| r_inseme
   r_inseme -->|14| r_cogentia
-  r_barons_mariani -->|12| r_marenostrum
+  r_barons_mariani -->|13| r_marenostrum
+  r_marenostrum -->|13| r_fractavolta
   r_fractavolta -->|12| r_inseme
-  r_marenostrum -->|12| r_fractavolta
+  r_marenostrum -->|12| r_barons_mariani
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
-  r_marenostrum -->|10| r_barons_mariani
-  r_inox -->|9| r_fractavolta
-  r_marenostrum -->|9| r_cogentia
-  r_inox -->|7| r_marenostrum
+  r_inox -->|10| r_fractavolta
+  r_marenostrum -->|10| r_cogentia
+  r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
+  r_barons_mariani -->|6| r_fractavolta
   r_cogentia -->|6| r_fractavolta
-  r_barons_mariani -->|5| r_fractavolta
+  r_cogentia -->|5| r_jeanhuguesrobert
   r_barons_mariani -->|4| r_inox
+  r_barons_mariani -->|4| r_jeanhuguesrobert
   r_fractavolta -->|4| r_inox
-  r_cogentia -->|3| r_jeanhuguesrobert
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
-  r_barons_mariani -->|2| r_jeanhuguesrobert
   r_barons_mariani -->|2| r_inseme
   r_cogentia -->|2| r_inox
+  r_fractavolta -->|2| r_jeanhuguesrobert
+  r_inox -->|2| r_jeanhuguesrobert
   r_inseme -->|2| r_marenostrum
   r_inseme -->|2| r_fractavolta
+  r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
-  r_fractavolta -->|1| r_jeanhuguesrobert
-  r_inox -->|1| r_jeanhuguesrobert
-  r_marenostrum -->|1| r_jeanhuguesrobert
 ```
 <!-- END_AUTO: graph -->
 
@@ -484,6 +484,7 @@ graph LR
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
+| [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
 | [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
 | [Grammaire générative de l'Autonomie de Capacité (FR)](autonomia/grammaire_autonomie_de_capacite.md) *(méthode source v1.0 — produire réponses, programmes, discours et produits déclinés orientés « Une Corse capable »)* | this repo | 2026-05-27 |

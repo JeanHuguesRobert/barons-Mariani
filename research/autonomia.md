@@ -20,6 +20,22 @@ last_stamped_at: 2026-06-01
 
 <!-- END_AUTO: trails -->
 
+## Orientation
+
+Statut : document source souverain en version de travail.
+
+Fonction dans le corpus : définir l'autonomie de capacité comme test opératoire de l'autonomie territoriale corse.
+
+À lire avant : [Discours de la seconde méthode](second_method.md), puis éventuellement [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md) pour la situation inter-dépôts.
+
+À lire après : [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
+
+Dépend de : l'approche par les capabilités, le capital territorial, les communs et la doctrine de l'expérimentation publique documentée.
+
+Continuation : maintenir le texte comme source de doctrine ; les documents de campagne ou de programme doivent s'y rattacher sans le remplacer.
+
+Dernière consolidation : 2026-06-09 — ajout de la fiche d'orientation.
+
 ## Capabilités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
 **Jean Hugues Noël Robert, baron Mariani**  
