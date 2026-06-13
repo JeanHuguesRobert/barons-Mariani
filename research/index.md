@@ -52,6 +52,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
 | [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md) *(working paper v0.2 — speculative embryonic source; cognitive backtracking, stigmergic traces, probabilistic exploration)* | this repo | 2026-06-13 |
+| [Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels](dongles_proprietaires_et_droit_a_la_remise_en_service.md) *(working paper v0.1 — réparabilité effective, accessoires critiques de fonctionnement, droit à la remise en service)* | this repo | 2026-06-10 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
