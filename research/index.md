@@ -3,10 +3,10 @@ title: "Research Index — barons-Mariani"
 description: "A map of what is, what is in progress, and what could be."
 layout: default
 nav_order: 1
-last_modified_at: 2026-05-22
+last_modified_at: 2026-06-13
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-05-22
+date: 2026-06-13
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md
 ---
@@ -51,6 +51,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
+| [Modèle de corpus transmissible incrémental (FR)](modele_corpus_transmissible_incremental.md) *(working paper v0.1 — source spéculative embryonnaire ; backtracking cognitif, traces stigmergiques, exploration probabiliste)* | this repo | 2026-06-13 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
