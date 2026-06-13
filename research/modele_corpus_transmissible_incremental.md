@@ -1,8 +1,8 @@
 ---
 title: "Incremental Transmissible Corpus Model"
-subtitle: "Cognitive backtracking, stigmergic traces, and probabilistic exploration of possibilities"
-version: "0.2"
-status: "working-paper — source document — speculative embryo"
+subtitle: "Cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities"
+version: "0.3"
+status: "working-paper — source document — speculative embryo — externally reviewed"
 date: "2026-06-13"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -11,8 +11,10 @@ language: "en"
 intended_path: "research/modele_corpus_transmissible_incremental.md"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/modele_corpus_transmissible_incremental.md"
 issue: "JeanHuguesRobert/barons-Mariani#7"
-symmetry: "medium — source candidate, not yet stable"
+symmetry: "medium-high — source-hypothesis, still speculative"
 corpus_role: "source-hypothesis"
+review_status: "Grok constructive review integrated selectively — 2026-06-13"
+review_file: "research/modele_corpus_transmissible_incremental_grok_review_2026-06-13.md"
 corpus_hierarchy:
   level: "speculative-source"
   parent_method: "JeanHuguesRobert/barons-Mariani/research/second_method.md"
@@ -24,8 +26,10 @@ corpus_hierarchy:
 critique_integrated:
   - "ChatGPT drafting pass, 2026-06-13"
   - "English translation and title normalization, 2026-06-13"
+  - "Grok constructive review v0.1, selectively integrated by ChatGPT, pending human arbitration, 2026-06-13"
 critique_pending:
-  - "Grok constructive review — requested next"
+  - "Human arbitration on final naming, prototype scope, and technical derivations"
+  - "Empirical micro-prototype before any stronger claim of acceleration"
 intended_derivatives:
   - "short_academic_note"
   - "substack_article"
@@ -59,21 +63,21 @@ related_documents:
   - "JeanHuguesRobert/inseme/AGENTS.md"
   - "JeanHuguesRobert/inseme/packages/cop-core"
 ai_assisted_by:
-  - "ChatGPT — drafting, state-of-the-art framing, structure, English version"
-  - "Grok — planned external reviewer, non-decisional"
+  - "ChatGPT — drafting, state-of-the-art framing, structure, English version, review integration"
+  - "Grok — constructive external reviewer, non-decisional"
 human_validation_required: true
-next_action: "Submit to Grok reviewer; then integrate only critiques that improve signal/noise and preserve speculative status."
+next_action: "Run a micro-prototype on a small curated corpus before producing stronger claims or technical derivatives."
 ---
 
 # Incremental Transmissible Corpus Model
 
-## Cognitive backtracking, stigmergic traces, and probabilistic exploration of possibilities
+## Cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities
 
 **Jean Hugues Noël Robert**  
 Institut Mariani / C.O.R.S.I.C.A.  
 1 cours Paoli, F-20250 Corte, Corsica
 
-*Working paper — June 13, 2026 — speculative embryonic source document*
+*Working paper — June 13, 2026 — speculative embryonic source document — externally reviewed*
 
 ---
 
@@ -81,7 +85,7 @@ Institut Mariani / C.O.R.S.I.C.A.
 
 This document has a modest but strategic purpose: **to preserve the trace of a research intuition**.
 
-The intuition is the following: current language models can generate, reformulate, approximate, compare, and sometimes explore several possible lines of reasoning. Yet they still lack, or lack sufficiently, a **transmissible corpus represented as an incremental model of exploration**: a versioned source corpus, structured as a graph, annotated by stigmergic traces, exploitable through probabilistic heuristics, and capable of explicitly capitalizing on past explorations.
+The intuition is the following: current language models can generate, reformulate, approximate, compare, and sometimes explore several possible lines of reasoning. Yet they still lack, or lack sufficiently, a **transmissible corpus represented as an incremental model of exploration**: a versioned source corpus, structured as a graph, annotated by qualitative stigmergic traces, navigable through probabilistic heuristics, and capable of explicitly capitalizing on past explorations.
 
 This document does not claim that the problem has been solved. It claims that the problem deserves attention.
 
@@ -91,47 +95,70 @@ The central question can be formulated as follows:
 
 ---
 
-## Associated documents
+## Review integration note
 
-- [`barons-Mariani/research/second_method.md`](second_method.md) — general methodological doctrine.
-- [`barons-Mariani/research/trace_epistemology.md`](trace_epistemology.md) — epistemology of traces and imputability under uncertainty.
-- [`barons-Mariani/research/cognitive_waves.md`](cognitive_waves.md) — stigmergic framework for cognitive terrains.
-- [`barons-Mariani/research/stigmergie_sans_limite_haute.md`](stigmergie_sans_limite_haute.md) — stigmergic continuity from simple agents to cognitive agents.
-- [`cogentia/research/conversation_to_corpus_pipeline.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/conversation_to_corpus_pipeline.md) — conversation-to-corpus pipeline.
-- [`cogentia/research/cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — transmissible cognitive packets.
-- [`inseme/AGENTS.md`](https://github.com/JeanHuguesRobert/inseme/blob/main/AGENTS.md) — bounded mandate, traceability, human validation, agentic continuation.
+Version 0.3 integrates a constructive external review by Grok. The integration is selective and non-decisional: it preserves the speculative status of the paper, strengthens explicit open questions, clarifies the role of the scheduler, adds a first branch-relation taxonomy, adds a trace-validation workflow, and turns the research paths into a prioritized roadmap.
+
+The review is not treated as authority. It is treated as a contribution to the corpus. The human author remains responsible for naming, scope, prototype decisions, and any future stabilization.
 
 ---
 
-## Assisted genesis note
+## Associated documents and corpus role
 
-This document emerged from a conversation on Turbo Prolog, backtracking, neuro-symbolic approaches, and the possibility of representing a living corpus as something more than a documentary archive.
+- [`barons-Mariani/research/second_method.md`](second_method.md) — general methodological doctrine. This paper applies its discipline of signal/noise, explicit objections, evidential levels, self-containment, and human validation.
+- [`barons-Mariani/research/trace_epistemology.md`](trace_epistemology.md) — epistemology of traces and imputability under uncertainty. This paper extends the trace from documentary evidence to exploration memory.
+- [`barons-Mariani/research/cognitive_waves.md`](cognitive_waves.md) — stigmergic framework for cognitive terrains. This paper narrows that framework toward a model of cumulative reasoning.
+- [`barons-Mariani/research/stigmergie_sans_limite_haute.md`](stigmergie_sans_limite_haute.md) — stigmergic continuity from simple agents to cognitive agents. This paper applies that continuity to versioned corpora.
+- [`cogentia/research/conversation_to_corpus_pipeline.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/conversation_to_corpus_pipeline.md) — conversation-to-corpus pipeline. This paper treats exploration traces as candidates for corpus integration.
+- [`cogentia/research/cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — transmissible cognitive packets. Branches, traces, fusions and validations should later become compatible with cognitive packet extraction.
+- [`cogentia/research/derived_products.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — source and derivative-product logic. The proposed model is intended to reduce drift between source corpus and derivative products.
+- [`inseme/AGENTS.md`](https://github.com/JeanHuguesRobert/inseme/blob/main/AGENTS.md) — bounded mandate, traceability, human validation, agentic continuation. The scheduler proposed here is compatible in spirit with bounded agentic mandates.
 
-The logical thread was the following:
+The present document belongs in `barons-Mariani/research` because it is still primarily a speculative and doctrinal source-hypothesis. A later technical derivative may belong in `cogentia` or `inseme`, but only after a micro-prototype has clarified schema, cost, and feasibility.
 
-1. Turbo Prolog recalled an older attempt to industrialize Prolog through typing, compilation, and speed.
-2. Backtracking appeared as a conceptual core: exploring branches, returning, and trying otherwise.
-3. Purely tree-like exploration proved insufficient once two branches merge or cycles appear.
-4. A directed graph therefore appeared as a more accurate technical representation.
-5. Stigmergy provided the central mechanism: leaving traces indicating that a branch has already been explored, and what was found there.
-6. LLMs were repositioned not as authorities of reasoning, but as probabilistic heuristics able to orient exploration.
-7. The transmissible corpus then appeared as a possible class of models: not an additional LLM, but a versioned, exploratory, incremental, and transmissible corpus model.
+---
 
-This document is deliberately speculative. It must not conceal its embryonic status. Its purpose is to preserve the problem, formulate the intuition, locate existing analogues, identify risks, and prepare an external critical review.
+## Methodological alignment
+
+This document attempts to apply the second method rather than merely describe an idea. It therefore follows five constraints.
+
+| Constraint | Application in this document |
+|---|---|
+| Signal/noise | Only stabilizable traces and high-leverage objections should enter the corpus. Raw conversational wandering is not the target. |
+| Evidential levels | The proposal distinguishes established adjacent techniques from speculative claims about corpus models. |
+| Objection conversion | Objections are converted into testable tasks: cost, branch fusion, trace validation, scheduler, prototype metrics. |
+| Self-containment | The core claim should remain understandable without reading the whole surrounding corpus. |
+| Human validation | LLMs and reviewers suggest; the author arbitrates naming, stabilization, and publication. |
 
 ---
 
 ## Abstract
 
-Large language models have made a powerful form of probabilistic linguistic generation practically usable. They can produce answers, reformulate knowledge, suggest hypotheses, write code, translate intent into plans or queries, and sometimes explore several reasoning paths. However, their dominant architecture remains insufficient for a specific form of reasoning: **the cumulative exploration of possibilities**.
+Large language models have made a powerful form of probabilistic linguistic generation practically usable. They can produce answers, reformulate knowledge, suggest hypotheses, write code, translate intent into plans or queries, and sometimes explore several reasoning paths. Their dominant architecture nevertheless remains insufficient for a specific form of reasoning: **the cumulative exploration of possibilities**.
 
-The problem is not only that models hallucinate, lack sources, or sometimes fail to reason. The deeper problem is that they do not possess an external, durable, versioned, and governed space where explorations become transmissible objects. A useful exploration should leave a trace: open branch, suspended branch, refuted branch, branch merged with another one, exploration cost, evidential level, reopening conditions, objections, and sources.
+The deeper problem is not merely hallucination or weak sourcing. The problem is that current systems usually lack an external, durable, versioned, and governed space where explorations become transmissible objects. A useful exploration should leave a trace: open branch, suspended branch, refuted branch, branch merged with another one, exploration cost, evidential level, reopening conditions, objections, provenance, and validation status.
 
-This document provisionally names **Incremental Transmissible Corpus Model** a system in which the source corpus remains sovereign, but is compiled into a directed graph of exploration, stigmergic traces, vector indexes, typed cognitive units, verifiers, and navigation heuristics. The LLM would not be the judge of truth; it would serve as a heuristic function for generation, provisional evaluation, and navigation. Authority would remain distributed among the corpus, sources, tests, rules, human validation, and explicit mandates.
+This document provisionally names **Incremental Transmissible Corpus Model** a system in which the source corpus remains sovereign, but is compiled into a directed exploration graph, qualitative stigmergic traces, typed cognitive units, vector indexes, verifiers, and navigation heuristics. The LLM is not the judge of truth. It is a heuristic function for generation, provisional evaluation, analogy detection, and navigation. Authority remains distributed among the corpus, sources, tests, rules, human validation, and explicit mandates.
 
 The state of the art already offers several adjacent building blocks: Tree of Thoughts, Graph of Thoughts, Language Agent Tree Search, Reflexion, GraphRAG, blackboard systems, truth maintenance systems, tabled Prolog, continual learning for LLMs, ant colony optimization, and stigmergy. Yet none of these lineages, taken in isolation, seems to provide a complete model of a transmissible, incremental, stigmergic, and governed corpus.
 
-The hypothesis is that this class of models could significantly accelerate intellectual, scientific, legal, political, or technical explorations by relying on the accumulated experience of past explorations. It could transform errors, dead ends, and contradictions into resources. But the path is difficult: node granularity, branch equivalence, trace quality, risks of corpus corruption, maintenance cost, update governance, and empirical evaluation remain open.
+The hypothesis is that this class of models could accelerate intellectual, scientific, legal, political, or technical explorations by relying on the accumulated experience of past explorations. It could transform errors, dead ends, and contradictions into resources. But this remains unproven. Node granularity, branch equivalence, trace quality, corpus corruption, maintenance cost, update governance, derivative-product synchronization, and empirical evaluation remain open.
+
+---
+
+## Key open questions deliberately left open
+
+This paper deliberately leaves the following questions unresolved:
+
+1. **Name** — Is "Incremental Transmissible Corpus Model" the right term, or does "model" import misleading machine-learning expectations?
+2. **Node granularity** — What is the smallest useful unit: statement, claim, hypothesis, objection, branch, document section, decision?
+3. **Branch equivalence** — When do two branches truly merge, and when are they merely analogous or partially convergent?
+4. **Trace validation** — Who or what validates a trace, and under which evidential threshold does it become reusable?
+5. **Scheduler** — What is the minimal policy for choosing depth, breadth, suspension, reopening, fusion, or publication?
+6. **Cost** — Can the trace layer accelerate exploration without suffocating it under documentary overhead?
+7. **Governance** — How are validated traces, scheduler policies, forks, merges, and reversals audited over time?
+8. **Derivative products** — How can Substack posts, academic notes, technical schemas or political texts remain linked to graph versions without rigidifying writing?
+9. **Empirical value** — Does the system outperform plain Git + Markdown, Obsidian-like notes, simple RAG, or GraphRAG on real corpus-resumption tasks?
 
 ---
 
@@ -143,12 +170,12 @@ initial intuition
 → it resembles a tree-like exploration of possibilities
 → branches can fail, succeed, merge, cycle, or be suspended
 → the apparent tree technically becomes a directed graph
-→ each passage must leave a stigmergic trace
+→ each passage must leave a qualitative stigmergic trace
 → the trace indicates what was attempted, found, cost, refuted, validated, or suspended
 → the LLM can serve as a probabilistic navigation heuristic
 → the source corpus remains sovereign and versioned
 → the operational model is a compilation of the corpus, not its replacement
-→ exploration becomes incremental: each passage improves the following ones
+→ exploration becomes incremental: each passage can improve following passages
 → possible new class: Incremental Transmissible Corpus Model
 ```
 
@@ -156,7 +183,9 @@ initial intuition
 
 ## 1. Problem: current models answer better than they durably explore
 
-Current LLMs are often evaluated by their ability to produce a correct answer to a given query. Even when a model appears to reason, the visible unit usually remains the final answer, or at most an intermediate sequence of justification. This logic is suitable for many tasks, but it fails to represent a longer intellectual activity: exploring a territory of possibilities, capitalizing on dead ends, reopening an old branch, merging two hypotheses, or transmitting to other agents what has already been attempted.
+Current LLMs are often evaluated by their ability to produce a correct answer to a given query. Even when a model appears to reason, the visible unit usually remains the final answer, or at most an intermediate sequence of justification.
+
+That logic is suitable for many tasks. It is insufficient for longer intellectual work: exploring a territory of possibilities, capitalizing on dead ends, reopening an old branch, merging two hypotheses, preserving a contradiction, or transmitting to another agent what has already been attempted.
 
 The fundamental lack is not memory in the ordinary sense. Long context, RAG, agent memories, vector databases, and knowledge graphs already exist. The lack is rather an **operational memory of explorations**.
 
@@ -179,7 +208,7 @@ reopening_condition:
   - "better fusion criterion with hypothesis Z"
 ```
 
-An ordinary LLM can produce this YAML. But producing a trace is not yet having a system in which such traces are persistent, typed, versioned, reused, corrected, compared, consolidated, and reintegrated into the corpus.
+An ordinary LLM can produce this YAML. Producing a trace is not yet having a system in which such traces are persistent, typed, versioned, reused, corrected, compared, consolidated, and reintegrated into the corpus.
 
 ---
 
@@ -212,70 +241,94 @@ subproblem X → test → contradiction → hypothesis A' versioned
 
 The actual structure is therefore:
 
-> an exploration with a dominant tree-like shape, represented as a directed graph of continuations, annotated by stigmergic traces.
+> an exploration with a dominant tree-like shape, represented as a directed graph of continuations, annotated by qualitative stigmergic traces.
 
-Stigmergy is the mechanism that turns simple exploration into cumulative exploration. A visited branch is not merely traversed; it is marked. The trace modifies future explorations.
+Stigmergy turns simple exploration into cumulative exploration. A visited branch is not merely traversed; it is marked. The trace modifies future explorations.
 
-In the classical biological case, the trace may be a pheromone. In the cognitive case, the trace should be qualitative: status, proof, objection, cost, confidence, provenance, reopening conditions.
+In the classical biological case, the trace may be a pheromone. In ant colony optimization, the trace is often primarily quantitative. In the cognitive-documentary case proposed here, the trace should be qualitative: status, proof, objection, cost, confidence, provenance, validation status, and reopening conditions.
+
+This distinction matters. The proposed trace is not an automatic attractor. It is a governed artifact used by a scheduler and subject to human arbitration.
 
 ---
 
-## 3. Provisional definition: Incremental Transmissible Corpus Model
+## 3. Provisional definition
 
-The following provisional definition can be proposed:
+> An Incremental Transmissible Corpus Model is a system in which a versioned source corpus is compiled into operational representations — exploration graph, qualitative stigmergic traces, typed cognitive units, vector indexes, rules, verifiers, and navigation heuristics — in order to accelerate future explorations through explicit capitalization of past experience, without dissolving knowledge into opaque weights.
 
-> An Incremental Transmissible Corpus Model is a system in which a versioned source corpus is compiled into operational representations — exploration graph, stigmergic traces, typed cognitive units, vector indexes, rules, verifiers, and navigation heuristics — in order to accelerate future explorations through explicit capitalization of past experience, without dissolving knowledge into opaque weights.
+This definition contains four constraints.
 
-This definition contains several constraints.
-
-### 3.1 The source corpus remains sovereign
-
-The model does not absorb the corpus in the way a neural training process absorbs data into weights. It produces an operational representation, but that representation must remain derivable from the corpus.
+| Constraint | Meaning |
+|---|---|
+| Source sovereignty | The corpus remains the auditable, forkable, versioned source. The operational model must remain derivable from it. |
+| Branch-situated knowledge | Claims retain their histories: hypotheses, objections, tests, arbitrations, rejections, reformulations. |
+| Incrementality of search | The system does not merely add documents; it improves how branches are reopened, suspended, fused, or avoided. |
+| Non-sovereign LLM | The LLM suggests, reformulates and estimates. It does not decide truth or stabilization. |
 
 ```text
 source corpus ≠ operational model
 source code ≠ compiled binary
 ```
 
-The source-code analogy is important. A compiled program may be fast, but it does not replace the source if one wants to understand, correct, fork, audit, or transmit it.
-
-### 3.2 Knowledge is not merely stored; it is situated in branches
-
-A stabilized thesis has a history: it comes from hypotheses, proofs, objections, arbitrations, rejections, reformulations. The model should preserve this history in an exploitable form.
-
-### 3.3 Incrementality concerns how to search
-
-Incrementality does not only mean adding documents. The system gradually learns which branches are fertile, which analogies are misleading, which fusion criteria are robust, which paths consume too much cognitive exergy, and which objections recur.
-
-### 3.4 The LLM is heuristic, not sovereign
-
-The LLM can suggest branches, estimate their promise, reformulate nodes, detect analogies, and produce candidate fusions. But it must not decide truth or stabilization in the corpus by itself.
+A compiled program may be fast, but it does not replace the source if one wants to understand, correct, fork, audit, or transmit it. The same distinction should hold for a corpus model.
 
 ---
 
-## 4. State of the art: proximities and gaps
+## 4. Operational core: scheduler and exploration budget
+
+The critical component is not merely the graph. A graph without an exploration policy becomes a complex archive. The operational core is the scheduler.
+
+The scheduler allocates the available **exploration budget**: tokens, computation, human attention, review time, maintenance debt, documentary complexity, and political or institutional risk. In the vocabulary of Autonomy of Capability, this may be called **cognitive exergy**, provided the term remains operational rather than rhetorical.
+
+It should arbitrate between:
+
+- depth and breadth;
+- exploiting a promising branch and exploring a neglected branch;
+- reopening an old hypothesis and opening a new one;
+- merging two nodes and preserving a distinction;
+- temporary abandonment and definitive closure;
+- publishing a result and keeping it in internal research.
+
+Possible criteria:
+
+```yaml
+scheduler_criteria:
+  promise: "probability of producing useful clarification"
+  risk: "risk of error, confusion, capture, or premature closure"
+  cost: "time, tokens, attention, maintenance, review burden"
+  novelty: "degree of real novelty"
+  convergence: "ability to connect or merge several branches"
+  evidence_gap: "gap between thesis and available evidence"
+  derivative_value: "ability to produce useful derivative products"
+  strategic_value: "importance for the corpus or action"
+  reversibility: "ease of rollback"
+  human_validation_need: "need for human arbitration"
+```
+
+This remains a list of criteria, not yet a decision procedure. A minimal prototype should begin with a rule-based scheduler, not with a learned scheduler.
+
+---
+
+## 5. State of the art: proximities and gaps
 
 This document does not start from nothing. Several traditions have already explored fragments of the problem.
 
-### 4.1 Backtracking, Prolog, and tabling
+### 5.1 Backtracking, Prolog, and tabling
 
 Logical backtracking is an obvious matrix: one explores a rule, descends, fails or succeeds, then returns. Prolog made this mechanism programmable.
 
-Tabling in logic programming adds an essential dimension: memorizing already called subgoals and their answers in order to avoid recomputation and better handle recursion. This lineage is important because it already addresses two problems central to this document: branch merging and cycles.
+Tabling in logic programming adds an essential dimension: memorizing already called subgoals and their answers in order to avoid recomputation and better handle recursion. This lineage already addresses two central problems: branch merging and cycles.
 
-Limit: tabling remains defined in a relatively formal logical and computational framework. The model proposed here targets a broader field: hypotheses, objections, texts, partial evidence, dead branches, derivative products, human validation.
+Gap: tabling remains defined in a formal logical and computational framework. The model proposed here targets a broader field: hypotheses, objections, texts, partial evidence, dead branches, derivative products, human validation.
 
-### 4.2 Stigmergy and Ant Colony Optimization
+### 5.2 Stigmergy and ant colony optimization
 
-Stigmergy, introduced by Pierre-Paul Grassé in relation to termites, designates indirect coordination through traces left in the environment. It has since been extended to multi-agent systems, distributed intelligence, and collective organizations.
-
-Marco Dorigo's Ant Colony Optimization transposes this idea into optimization: agents explore paths and leave pheromone-like traces that probabilistically influence future explorations.
+Stigmergy, introduced by Pierre-Paul Grassé in relation to termites, designates indirect coordination through traces left in the environment. Marco Dorigo's Ant Colony Optimization transposes this idea into optimization: agents explore paths and leave pheromone-like traces that probabilistically influence future explorations.
 
 Proximity: probabilistic path selection based on traces.
 
 Gap: in ant colony optimization, the trace is often primarily quantitative. In a transmissible corpus model, the trace should be qualitative, argumentative, sourced, versioned, and governed.
 
-### 4.3 Blackboard systems
+### 5.3 Blackboard systems
 
 Classical AI blackboard systems rely on a shared space updated by different specialized modules. A controller chooses which knowledge sources to activate according to the current state of the blackboard.
 
@@ -283,39 +336,39 @@ Proximity: shared space, partial contributions, opportunistic control.
 
 Gap: the blackboard is not necessarily a versioned, transmissible, auditable, publishable, and forkable corpus. The trace of past explorations is not always a central doctrinal object.
 
-### 4.4 Truth Maintenance Systems
+### 5.4 Truth maintenance systems
 
-Truth Maintenance Systems preserve the dependencies and justifications of beliefs in order to restore coherence when new information contradicts the current state. They are close to the idea that any conclusion must retain its validity conditions.
+Truth Maintenance Systems preserve the dependencies and justifications of beliefs in order to restore coherence when new information contradicts the current state.
 
 Proximity: dependencies, justifications, contradictions, revision.
 
-Gap: the proposed model adds probabilistic exploration, stigmergy, versioned source corpus, and derivative products.
+Gap: the proposed model adds probabilistic exploration, qualitative stigmergy, versioned source corpus, derivative products, and explicit human validation.
 
-### 4.5 Tree of Thoughts, Graph of Thoughts, and LATS
+### 5.5 Tree of Thoughts, Graph of Thoughts, and LATS
 
-Tree of Thoughts proposes to move beyond simple token-by-token generation by exploring multiple reasoning units, with self-evaluation, lookahead, and backtracking. Graph of Thoughts generalizes this logic by representing thought units as graph vertices, enabling combination, aggregation, and feedback loops. Language Agent Tree Search combines LLMs, Monte Carlo Tree Search, value functions, and external feedback for agents capable of reasoning, acting, and planning.
+Tree of Thoughts proposes to move beyond token-by-token generation by exploring multiple reasoning units, with self-evaluation, lookahead, and backtracking. Graph of Thoughts generalizes this logic by representing thought units as graph vertices, enabling combination, aggregation, and feedback loops. Language Agent Tree Search combines LLMs, Monte Carlo Tree Search, value functions, and external feedback for agents capable of reasoning, acting, and planning.
 
 Proximity: multiple-path exploration, heuristic selection, backtracking, tree or graph structure.
 
 Gap: these approaches often remain centered on inference for a task or query. The exploration graph is not necessarily preserved as a durable, governed, and transmissible corpus.
 
-### 4.6 Reflexion and textual agent memory
+### 5.6 Reflexion and textual agent memory
 
-Reflexion proposes that language agents learn from their errors without updating their weights, through a textual memory of experience feedback. This is very close to the principle that an exploration should leave a trace.
+Reflexion proposes that language agents learn from their errors without updating their weights, through a textual memory of experience feedback. This is close to the principle that an exploration should leave a trace.
 
 Proximity: linguistic feedback, episodic memory, improvement without fine-tuning.
 
-Gap: Reflexion memory is mainly oriented toward agentic performance. The model proposed here aims at a corpus memory, with thesis status, evidential levels, possibility of publication, human review, fork, and transmission.
+Gap: Reflexion memory is mainly oriented toward agentic performance. The model proposed here aims at corpus memory, with thesis status, evidential levels, publication possibility, human review, fork, and transmission.
 
-### 4.7 RAG, GraphRAG, and knowledge graphs
+### 5.7 RAG, GraphRAG, and knowledge graphs
 
 RAG allows a model to consult external documents. GraphRAG or knowledge-graph RAG variants seek to structure retrieval further through entities, relations, and multi-hop paths.
 
-Proximity: externalization of part of the knowledge, structured retrieval, documentary support.
+Proximity: externalization of knowledge, structured retrieval, documentary support.
 
 Gap: RAG retrieves content; it does not necessarily preserve explorations as objects. A transmissible corpus model should represent not only documents, but the cognitive acts that transformed those documents into hypotheses, objections, decisions, and derivative products.
 
-### 4.8 Continual learning for LLMs
+### 5.8 Continual learning for LLMs
 
 Continual learning seeks to allow LLMs to adapt to new data, tasks, or preferences without retraining everything and without forgetting previous acquisitions. The major difficulties remain catastrophic forgetting, regression, and update control.
 
@@ -325,7 +378,7 @@ Gap: the proposed model partially bypasses the problem by placing the primary in
 
 ---
 
-## 5. What current models still lack
+## 6. What current models still lack
 
 The lack can be summarized in ten points.
 
@@ -342,11 +395,11 @@ The lack can be summarized in ten points.
 | Non-destructive incremental learning | LLM weights remain difficult to update without drift or forgetting. |
 | Transmission/fork/rollback | A model should be reusable, correctable, forkable, auditable, and replayable. |
 
-This table does not imply that every current system lacks everything. It indicates rather that the complete combination remains rare or unstabilized.
+This table does not imply that every current system lacks everything. It indicates that the complete combination remains rare or unstabilized.
 
 ---
 
-## 6. Speculative minimal architecture
+## 7. Speculative minimal architecture
 
 A minimal architecture could contain the following layers.
 
@@ -360,8 +413,8 @@ A minimal architecture could contain the following layers.
 3. Directed exploration graph
    Nodes, arcs, dependencies, fusions, contradictions, versions, statuses.
 
-4. Stigmergic traces
-   Passage, result, cost, confidence, source, reopening condition.
+4. Qualitative stigmergic traces
+   Passage, result, cost, confidence, source, validation status, reopening condition.
 
 5. Vector indexes and semantic signatures
    Similarities, possible duplicates, analogies, conceptual neighborhoods.
@@ -370,7 +423,7 @@ A minimal architecture could contain the following layers.
    Sources, tests, rules, citations, internal coherence, human validation.
 
 7. Exploration scheduler
-   Allocation of cognitive exergy among branches.
+   Allocation of exploration budget / cognitive exergy among branches.
 
 8. Heuristic LLM
    Generation, reformulation, provisional evaluation, analogies, objections.
@@ -384,11 +437,9 @@ A minimal architecture could contain the following layers.
 
 ---
 
-## 7. Typed cognitive units
+## 8. Typed cognitive units
 
 The model cannot function properly if everything remains undifferentiated text. At least some typed units are required.
-
-### 7.1 Minimal types
 
 ```yaml
 cognitive_unit_types:
@@ -410,157 +461,115 @@ cognitive_unit_types:
   - mandate
 ```
 
-### 7.2 Example branch
-
-```yaml
-branch:
-  id: "itcm.branch.001"
-  title: "Can a transmissible corpus be represented as a model?"
-  parent: "itcm.root"
-  status: "open_speculative"
-  promise: "high"
-  risk: "conceptual_overreach"
-  explored_by:
-    - "JHR"
-    - "ChatGPT"
-  findings:
-    - "Kinship with ToT, GoT, Reflexion, GraphRAG, TMS, ACO."
-    - "Central difference: the graph does not disappear after inference; it becomes corpus."
-  objections:
-    - "Node granularity remains unresolved."
-    - "Equivalence between branches is difficult to establish."
-    - "Risk of documentary overhead."
-  reopening_condition:
-    - "Define a minimal YAML schema."
-    - "Test on a limited Cogentia sub-corpus."
-```
-
-### 7.3 Example stigmergic trace
-
-```yaml
-stigmergic_trace:
-  id: "itcm.trace.2026-06-13.001"
-  branch: "itcm.branch.001"
-  event: "initial_formulation"
-  result: "source_hypothesis_created"
-  status_after_event: "to_review"
-  evidence_level: "conceptual_plausibility"
-  confidence: "low_to_medium"
-  cost:
-    attention: "medium"
-    technical_debt: "high_if_implemented_too_early"
-  next_action:
-    - "Grok review"
-    - "minimal schema"
-    - "micro-prototype on 5 documents"
-  warning:
-    - "Do not present as solved architecture."
-```
+The list is not a final ontology. It is a working vocabulary for a micro-prototype.
 
 ---
 
-## 8. The scheduler: core of the model
+## 9. Branch relations and fusion taxonomy
 
-The critical component is not merely the graph. A graph without an exploration policy becomes a complex archive. The operational core is the scheduler.
+Branch fusion is a core feasibility risk. Two branches may appear identical while resting on different assumptions. Merging them too early may destroy information; refusing every merge may fragment the graph.
 
-It should arbitrate between:
+A first taxonomy can reduce that risk.
 
-- depth and breadth;
-- exploiting a promising branch and exploring a neglected branch;
-- reopening an old hypothesis and opening a new one;
-- merging two nodes and preserving a distinction;
-- temporary abandonment and definitive closure;
-- publishing a result and keeping it in internal research.
+| Relation | Meaning | Default action |
+|---|---|---|
+| `strong_equivalence` | Same claim or state under compatible assumptions. | Candidate merge after validation. |
+| `partial_convergence` | Different paths support overlapping conclusions. | Link, do not merge yet. |
+| `analogy` | Similar structure, different domain or assumptions. | Mark as analogy; no merge. |
+| `neighborhood` | Semantically close but not clearly related. | Keep separate; retrieval hint only. |
+| `apparent_contradiction` | Tension detected, not yet analyzed. | Open contradiction branch. |
+| `real_contradiction` | Incompatibility confirmed under shared assumptions. | Require arbitration, revision, or split. |
+| `supersession` | One branch replaces an earlier version. | Preserve old branch, mark superseded. |
 
-In the logic of Autonomy of Capability, one could say that the scheduler allocates available **cognitive exergy**.
+No LLM-generated fusion should be treated as final. The LLM may propose candidate relations; validation belongs to rules, sources, tests, or human arbitration.
 
-Possible criteria:
+---
 
-```yaml
-scheduler_criteria:
-  promise: "probability of producing useful clarification"
-  risk: "risk of error, confusion, or capture"
-  cost: "time, tokens, attention, maintenance"
-  novelty: "degree of real novelty"
-  convergence: "ability to merge several branches"
-  evidence_gap: "gap between thesis and available evidence"
-  derivative_value: "ability to produce useful derivative products"
-  strategic_value: "importance for the corpus or action"
-  reversibility: "ease of rollback"
-  human_validation_need: "need for human arbitration"
+## 10. Trace validation workflow
+
+A trace should not become reusable merely because it exists. It should pass through explicit statuses.
+
+```text
+proposed_trace
+→ evidence_checked
+→ validated_by_rule_or_human
+→ reusable_trace
 ```
 
+Alternative paths must also exist:
+
+```text
+proposed_trace → rejected_trace
+validated_trace → superseded_trace
+validated_trace → disputed_trace → revised_trace
+```
+
+Minimal fields:
+
+```yaml
+trace_status:
+  - proposed
+  - evidence_checked
+  - validated
+  - reusable
+  - rejected
+  - disputed
+  - superseded
+  - revised
+
+validation_fields:
+  validator: "human | rule | test | source-check | reviewer"
+  validation_date: "YYYY-MM-DD"
+  evidential_level: "speculative | plausible | sourced | tested | validated"
+  provenance: "conversation | document | tool | human review | external review"
+  reopening_condition: "what would justify revision"
+```
+
+This workflow is intentionally minimal. It exists to prevent LLM-generated traces from contaminating the corpus as if they were validated knowledge.
+
 ---
 
-## 9. Possible effects if it worked
-
-### 9.1 Acceleration of explorations
-
-The first effect would be to avoid starting again from zero. Each future exploration would benefit from already opened branches, identified dead ends, recurring objections, and stabilized fusions.
-
-### 9.2 Transformation of errors into resources
-
-A properly traced error becomes a resource. It says: do not restart here without new data; beware of this confusion; this analogy is seductive but false; this branch cost too much for too little gain.
-
-### 9.3 More faithful transmission
-
-A transmissible corpus would transmit not only conclusions. It would transmit paths, hesitations, reasons, statuses, critiques, validations.
-
-### 9.4 Better human / AI articulation
-
-AI would not be charged with deciding; it would contribute to exploration. The human would retain the role of arbitration, mandate, validation, and responsibility.
-
-### 9.5 More coherent derivative products
-
-A Substack article, an academic note, a Facebook response, a technical protocol, or a political proposal could derive from the same source graph without losing the doctrinal core.
-
-### 9.6 Reduction of capture by opacity
-
-A model whose source remains versioned, auditable, and forkable resists capture better than a model whose memory is dissolved into proprietary non-inspectable weights.
-
----
-
-## 10. Strong objections
+## 11. Strong objections converted into research tasks
 
 ### Objection 1 — Documentary cost may suffocate the process
 
 Tracing every exploration may become more costly than the exploration itself.
 
-Provisional response: a signal/noise rule is required. Not everything should enter GitHub. The corpus should preserve stabilizable traces, not every tentative movement.
+Research task: measure person-hours, number of traces produced, number of traces actually reused, and documentary cost per useful clarification during the micro-prototype.
 
-### Objection 2 — Branch fusion is a difficult problem
+### Objection 2 — Branch fusion is hard
 
-Two branches may appear identical while resting on different assumptions. Merging them too early may destroy information.
+Branch equivalence, fusion and contradiction detection are substantially harder than the first sketch may imply.
 
-Provisional response: several statuses should be provided: strong equivalence, partial convergence, analogy, neighborhood, apparent contradiction, real contradiction.
+Research task: test the branch-relation taxonomy above on a small corpus; count false merges, missed contradictions, and human-arbitrated cases.
 
-### Objection 3 — The LLM may contaminate traces
+### Objection 3 — Trace validation is under-specified
 
-If the LLM produces false traces, the system may accumulate toxic memory.
+A graph of validated traces creates a de facto authority surface.
 
-Provisional response: distinguish proposed trace, validated trace, rejected trace. No LLM-generated trace should be sovereign without validation or verification.
+Research task: implement proposed / validated / rejected / disputed / superseded statuses, then test whether later users can identify who or what validated a trace.
 
-### Objection 4 — Incrementality may produce conservative inertia
+### Objection 4 — Governance may dominate the architecture
 
-A system that preserves its traces too well may favor already known paths and reduce radically new exploration.
+Beyond single-author use, mandates, forks, merges, scheduler changes and trace validation require governance.
 
-Provisional response: the scheduler should preserve a quota of low-probability / high-novelty exploration.
+Research task: map each graph-level change to an event, artifact, decision, validator, and rollback path. Assess compatibility with COP invariants.
 
-### Objection 5 — The model metaphor may be misleading
+### Objection 5 — Acceleration remains unproven
 
-A versioned corpus, even augmented, is not necessarily a model in the machine-learning sense.
+The central value claim is testable but not demonstrated.
 
-Provisional response: the term model is justified only if the compiled corpus has inference, navigation, update, validation, and transmission functions. Otherwise, one should speak only of an augmented corpus.
+Research task: compare the prototype against plain Git + Markdown, simple RAG, and GraphRAG-like retrieval on the same resumption task.
 
-### Objection 6 — The risk of self-reference is real
+### Objection 6 — Architectural detail can create premature closure
 
-A living corpus may become circular: citing its own traces as justification.
+YAML schemas, layers and named components can freeze an idea before empirical feedback.
 
-Provisional response: principle of self-containment. The main claims must remain assessable without relying only on internal references.
+Research task: keep schema v0.1 explicitly provisional; move detailed examples to annex or derivative technical files after prototype feedback.
 
 ---
 
-## 11. Current evidential levels
+## 12. Current evidential levels
 
 | Element | Status | Evidential level |
 |---|---|---|
@@ -574,23 +583,11 @@ Provisional response: principle of self-containment. The main claims must remain
 
 ---
 
-## 12. Paths to explore
+## 13. Prioritized roadmap
 
-### 12.1 Minimal YAML schema
+### 13.1 Micro-prototype on a limited corpus — priority 1
 
-Define a minimal schema for:
-
-- branch;
-- trace;
-- fusion;
-- contradiction;
-- continuation;
-- validation;
-- derivative product.
-
-### 12.2 Micro-prototype on a limited corpus
-
-Test on only five documents, for example:
+Test on five documents:
 
 1. `second_method.md`;
 2. `trace_epistemology.md`;
@@ -598,51 +595,100 @@ Test on only five documents, for example:
 4. `conversation_to_corpus_pipeline.md`;
 5. this document.
 
-Objective: determine whether branches, traces, and fusions can be represented without excessive overhead.
+Success criteria:
 
-### 12.3 Detection of neighboring branches
+- at least one populated graph fragment;
+- at least five traces, with different statuses;
+- at least two branch-relation classifications;
+- at least one rejected or disputed trace;
+- at least one branch reopened because of a prior trace;
+- measured documentation time;
+- short lessons-learned note on overhead versus reuse.
 
-Use embeddings and LLMs to propose:
+### 13.2 Minimal YAML schema — priority 2
 
-- duplicates;
-- analogies;
-- contradictions;
-- candidate fusions;
-- reactivable dead branches.
+Define only the fields necessary for:
 
-But every fusion should remain a candidate until human validation or an explicit rule.
+- branch;
+- trace;
+- branch relation;
+- contradiction;
+- validation;
+- derivative product link.
 
-### 12.4 COP scheduler
+Do not attempt a complete ontology before prototype feedback.
 
-Articulate this model with COP: immutable events, durable artifacts, topic-local ordering, deterministic replay, stateless agents, transparency, schema versioning.
+### 13.3 Scheduler stub — priority 3
 
-A working hypothesis: COP could provide the execution and supervision layer for the exploration scheduler.
+Implement a minimal rule-based scheduler. For example:
 
-### 12.5 Efficiency measures
+```text
+if branch.status == "blocked" and no reopening_condition is met:
+    do not reopen
+elif branch.evidence_gap == "high" and derivative_value == "high":
+    request source search or human arbitration
+elif branch.relation == "apparent_contradiction":
+    open contradiction branch
+else:
+    keep as low-priority open branch
+```
 
-Possible indicators:
+This is not meant to be elegant. It is meant to make the scheduler falsifiable.
 
-- time required to resume an old project;
-- number of contradictions detected;
-- number of branches avoided thanks to traces;
-- coherence of derivative products;
-- ratio of validated fusions to rejected fusions;
-- documentary cost per useful clarification;
-- ability to replay an exploration.
+### 13.4 Comparison baseline — priority 4
 
-### 12.6 Comparison with RAG and fine-tuning
+Compare four conditions:
 
-Compare three approaches on the same sub-corpus:
+1. plain Git + Markdown;
+2. simple RAG;
+3. GraphRAG or knowledge-graph retrieval;
+4. corpus model with exploration traces.
 
-1. simple RAG;
-2. GraphRAG or knowledge graph;
-3. corpus model with exploration traces.
+Question: does adding exploration traces improve resumption, coherence, contradiction detection, and avoidance of already-failed branches?
 
-Question: does adding exploration traces actually improve resumption, coherence, and dead-end detection?
+### 13.5 COP articulation — priority 5
+
+Articulate this model with COP only after the micro-prototype clarifies the event and artifact types actually needed. Candidate COP alignment:
+
+- immutable events;
+- durable artifacts;
+- topic-local ordering;
+- deterministic replay;
+- stateless agents;
+- explicit schema versioning;
+- transparency over convenience.
 
 ---
 
-## 13. Positioning within Cogentia
+## 14. Possible effects if it worked
+
+### 14.1 Acceleration of explorations
+
+The first effect would be to avoid starting again from zero. Each future exploration would benefit from already opened branches, identified dead ends, recurring objections, and stabilized fusions.
+
+### 14.2 Transformation of errors into resources
+
+A properly traced error becomes a resource. It says: do not restart here without new data; beware of this confusion; this analogy is seductive but false; this branch cost too much for too little gain.
+
+### 14.3 More faithful transmission
+
+A transmissible corpus would transmit not only conclusions. It would transmit paths, hesitations, reasons, statuses, critiques, validations.
+
+### 14.4 Better human / AI articulation
+
+AI would not be charged with deciding; it would contribute to exploration. The human would retain the role of arbitration, mandate, validation, and responsibility.
+
+### 14.5 More coherent derivative products
+
+A Substack article, an academic note, a Facebook response, a technical protocol, or a political proposal could derive from the same source graph. This remains a hypothesis unless derivative products are explicitly linked to graph versions and source branches.
+
+### 14.6 Reduction of capture by opacity
+
+A model whose source remains versioned, auditable, and forkable resists capture better than a model whose memory is dissolved into proprietary non-inspectable weights.
+
+---
+
+## 15. Positioning within Cogentia
 
 This document probably sits at the intersection of several layers:
 
@@ -658,50 +704,30 @@ The present document belongs to `barons-Mariani` because it still concerns a doc
 
 ---
 
-## 14. Provisional doctrinal formula
+## 16. Possible derived products
 
-> LLMs have shown that a corpus can be absorbed into a statistical model. The complementary path is to make a versioned corpus operational as a model without dissolving it into opaque weights. An Incremental Transmissible Corpus Model does not replace the corpus: it compiles it into an exploration graph, stigmergic traces, cognitive units, and navigation heuristics. Reasoning is no longer a simple chain of text; it becomes a governed exploration of possibilities, accumulating its own passages in order to better orient the next ones.
+The review suggests six derivative products. They should not all be produced at once.
 
----
-
-## 15. Proposed prompt for Grok reviewer
-
-```text
-Role: critical reviewer, non-decisional.
-
-Document to review:
-JeanHuguesRobert/barons-Mariani/research/modele_corpus_transmissible_incremental.md
-
-Review objective:
-Evaluate a speculative embryonic source document on the idea of an Incremental Transmissible Corpus Model.
-
-Criteria:
-1. Is the speculative status clear enough?
-2. Is the thesis sufficiently distinct from RAG, GraphRAG, knowledge graphs, memory agents, and fine-tuning?
-3. Is the state of the art properly located, or are important lineages missing?
-4. Are the strong objections sufficient?
-5. Is the notion of qualitative stigmergic trace defined clearly enough?
-6. Is the role of the LLM as a non-sovereign heuristic coherent?
-7. Does the document follow the second method: signal/noise, evidential levels, objections, self-containment, human validation?
-8. Which passages risk overstatement?
-9. Which three improvements would add the most robustness?
-10. Which elements should remain open instead of being stabilized too early?
-
-Expected output:
-- 10-line synthesis.
-- Strong points.
-- Fragile points.
-- Major objections.
-- Restructuring suggestions.
-- Missing bibliography.
-- Verdict: keep / revise / split / move to cogentia or inseme.
-```
+| Product | Audience | Recommended timing |
+|---|---|---|
+| short academic note | neuro-symbolic AI, agentic systems, digital humanities | after v0.3 review or micro-prototype plan |
+| Substack article | broader audience concerned with AI amnesia and living corpora | after source stabilization |
+| Cogentia architecture note | Cogentia / Inseme contributors | after minimal schema exists |
+| cognitive packet YAML schema | implementers and future corpus contributors | during micro-prototype |
+| COP exploration protocol | COP implementers | after event/artifact needs are observed |
+| research pitch | potential collaborators or funders | after one demonstrable prototype fragment |
 
 ---
 
-## 16. Initial bibliography and documentary paths
+## 17. Provisional doctrinal formula
 
-This bibliography is not stabilized. It serves as a starting point for review.
+> LLMs have shown that a corpus can be absorbed into a statistical model. The complementary path is to make a versioned corpus operational as a model without dissolving it into opaque weights. An Incremental Transmissible Corpus Model does not replace the corpus: it compiles it into an exploration graph, qualitative stigmergic traces, cognitive units, and navigation heuristics. Reasoning is no longer a simple chain of text; it becomes a governed exploration of possibilities, accumulating its own passages in order to better orient the next ones.
+
+---
+
+## 18. Initial bibliography and documentary paths
+
+This bibliography is not stabilized. It serves as a starting point for review and prototype work.
 
 ### Backtracking, Prolog, tabling
 
@@ -739,7 +765,7 @@ This bibliography is not stabilized. It serves as a starting point for review.
 
 ---
 
-## 17. Provisional conclusion
+## 19. Provisional conclusion
 
 The problem deserves attention because it touches a blind spot of current models: not producing a locally plausible answer, but **capitalizing on the experience of exploration**.
 
@@ -747,17 +773,17 @@ The central intuition is that useful reasoning resembles an exploration more tha
 
 If the transmissible corpus can be represented as some models are represented today — but without losing readability, versionability, governance, and transmissibility — then a new class becomes conceivable: not an additional language model, but a living, incremental, exploratory, and transmissible corpus model.
 
-This class remains hypothetical. Its difficulty is high. But its interest is sufficient to justify a source document, a critical review, and a first micro-prototype.
+This class remains hypothetical. Its difficulty is high. Its interest is sufficient to justify a source document, an external review, and a first micro-prototype.
 
 ---
 
-## 18. Minimal completion report
+## 20. Minimal completion report
 
 ```text
 Issue: JeanHuguesRobert/barons-Mariani#7
 Files changed: research/modele_corpus_transmissible_incremental.md
 Tests run: none — research document only
-Known risks: speculative status; bibliography incomplete; architecture not validated; risk of over-formalization
-Next step: submit to Grok reviewer, then integrate selected critique
+Known risks: speculative status; bibliography incomplete; architecture not validated; risk of over-formalization; acceleration claim not demonstrated
+Next step: micro-prototype on a small curated corpus, then lessons-learned note
 Human validation needed: yes
 ```
