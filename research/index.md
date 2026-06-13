@@ -51,7 +51,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
-| [Modèle de corpus transmissible incrémental (FR)](modele_corpus_transmissible_incremental.md) *(working paper v0.1 — source spéculative embryonnaire ; backtracking cognitif, traces stigmergiques, exploration probabiliste)* | this repo | 2026-06-13 |
+| [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md) *(working paper v0.2 — speculative embryonic source; cognitive backtracking, stigmergic traces, probabilistic exploration)* | this repo | 2026-06-13 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
@@ -148,7 +148,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [ai based cultural mediation](../ai-based-cultural-mediation.md)
 - [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
 - [*Invidia*, envie et désir mimétique](../invidia.md)
-- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Indirect Action Under Mimetic Constraints](mimetic_desynchronization.md)
 - [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
 - [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
 - [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
