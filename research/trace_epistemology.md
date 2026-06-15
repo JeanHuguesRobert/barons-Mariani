@@ -824,7 +824,7 @@ Next useful action:
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
 - [Research Index — barons-Mariani](index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

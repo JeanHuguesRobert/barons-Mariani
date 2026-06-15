@@ -588,10 +588,46 @@ René, merci. On continue.
 ### Backlinks
 
 *These documents link to this file:*
-- [La seconde méthode comme généralisation prudente de l’agile](agile.md)
-- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Autonomia](autonomia.md)
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
+- [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [Démocratie capable](democratie_capable.md)
+- [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
+- [La seconde méthode comme généralisation prudente de l’agile](agile.md)
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [Reality Safety](reality_safety_procedural_stabilizers.md)
 - [Research Index — barons-Mariani](index.md)
-
+- [Agent-Resumable CLI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_resumable_cli.md)
+- [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md)
+- Cogentia
+- [Cogentia Commons](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_method_packets.md)
+- [Cogentia Commons — `kernel_extractor` Plugin Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_kernel_extractor.md)
+- [Cogentia Commons — COMMUNITY.md Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_community_manifest.md)
+- [Cogentia Commons — MVP Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_mvp_spec.md)
+- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
+- [Cogentia Commons — Substantive Plugin Sub-Specifications](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_substantive_plugins.md)
+- [Cogentia Commons — Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_workflows.md)
+- [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
+- [cogentia.js — Tutorial and Near-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_js_tutorial.md)
+- [Corpus Status — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/corpus-status.md)
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
+- [The Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
+- [Trail: From Method to Machine](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_method_to_machine.md)
+- For researchers
+- FractaVolta
+- Methodology
+- [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
+- 🗳️ Inseme Monorepo - Citizen Ecosystem & Liquid Democracy
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
+- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- MareNostrum
+- [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
+- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: backlinks -->

@@ -184,14 +184,13 @@ continuation:
 ### Backlinks
 
 *These documents link to this file:*
-- [Sailing the Cognitive Waves](cognitive_waves.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
+- [Barons Mariani](../README.md)
+- [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
 - [Research Index — barons-Mariani](index.md)
-- [La méthode des terrains féconds](methode_terrains_feconds.md)
-- [La pathologie du secret](pathologie_du_secret.md)
+- [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Test du critère Rossignol](test_critere_rossignol.md)
-- [Ubik and the Dislocation of Reality](ubik_reality_dislocation_academic.md)
-- [VIGILIA](../vigilia.md)
-
+- [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
+- [Test du critère Rossignol — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

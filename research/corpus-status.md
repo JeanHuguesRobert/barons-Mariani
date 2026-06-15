@@ -58,19 +58,19 @@ graph LR
   r_cogentia -->|101| r_barons_mariani
   r_jeanhuguesrobert -->|99| r_cogentia
   r_jeanhuguesrobert -->|43| r_marenostrum
-  r_fractavolta -->|40| r_cogentia
+  r_fractavolta -->|41| r_cogentia
   r_fractavolta -->|37| r_marenostrum
   r_jeanhuguesrobert -->|36| r_fractavolta
+  r_barons_mariani -->|33| r_cogentia
   r_jeanhuguesrobert -->|30| r_inox
-  r_barons_mariani -->|27| r_cogentia
   r_cogentia -->|22| r_inseme
   r_cogentia -->|19| r_marenostrum
   r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
   r_jeanhuguesrobert -->|16| r_inseme
   r_inseme -->|14| r_cogentia
+  r_marenostrum -->|13| r_cogentia
   r_marenostrum -->|12| r_fractavolta
-  r_marenostrum -->|12| r_cogentia
   r_barons_mariani -->|11| r_marenostrum
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
@@ -86,9 +86,9 @@ graph LR
   r_barons_mariani -->|4| r_inox
   r_barons_mariani -->|4| r_jeanhuguesrobert
   r_cogentia -->|4| r_jeanhuguesrobert
+  r_barons_mariani -->|3| r_inseme
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
-  r_barons_mariani -->|2| r_inseme
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
   r_inox -->|2| r_jeanhuguesrobert
@@ -97,6 +97,7 @@ graph LR
   r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
+  r_ubikia -->|1| r_cogentia
 ```
 <!-- END_AUTO: graph -->
 
@@ -511,6 +512,11 @@ graph LR
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
+| [Mandats express et démocratie capable de crise](democratie_crise_mandats_express.md) *(document source v0.3 — répondre à l'objection de lenteur démocratique sans ouvrir la voie à l'état d'exception tyrannique)* | this repo | 2026-06-12 |
+| [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md) *(working paper v0.3 — cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities)* | this repo | 2026-06-13 |
+| [Constructive Review: Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental_grok_review_2026-06-13.md) *(archived external review v0.1 — Grok review signal preserved for the incremental corpus model)* | this repo | 2026-06-13 |
+| [Reality Safety](reality_safety_procedural_stabilizers.md) *(source draft v0.9 — AI Safety as revealer of a deeper crisis of shared reality and procedural stabilizers)* | this repo | 2026-06-15 |
+| [Serenia — Assistance à l'autonomie administrative, numérique et cognitive](serenia_autonomie_assistee_ia.md) *(source note v0.1 — administrative, digital and cognitive autonomy support with AI)* | this repo | 2026-06-13 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
@@ -596,8 +602,37 @@ graph LR
 - Casabianca family archive — collateral descent, Battle of Aboukir 1798, WWII submarine
 - Generalized Tocqueville Law — formal treatment beyond the aphorism
 - Invidia × Ostrom: commons governance as antidote to mimetic capture
+- [ai based cultural mediation](../ai-based-cultural-mediation.md)
+- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
+- [*Invidia*, envie et désir mimétique](../invidia.md)
+- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
+- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
+- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
+- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
+- [Autonomia](autonomia.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Atlas du paysage politique et discursif corse — Une Corse capable](autonomia/atlas_paysage_politique_corse.md)
+- [Stock de formules publiques — Autonomie de Capacité](autonomia/formules_publiques_autonomie_capacite.md)
+- [Grammaire générative de l’Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md)
+- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md)
+- [Projet #1755](autonomia/projet_1755.md)
+- [Sailing the Cognitive Waves](cognitive_waves.md)
+- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Discours de la seconde méthode](second_method.md)
+- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
+- [Territoires possibilistes](territoires_possibilistes.md)
+- [Test du critère Rossignol](test_critere_rossignol.md)
+- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
+- [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)
+- [Traçabilité des actes](traceabilite_des_actes.md)
+- [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
+- [The Republic of Donkeys](../the_republic_of_donkeys.md)
+- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
+- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
+- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
+- [VIGILIA](../vigilia.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
 - [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
