@@ -25,15 +25,17 @@ creator: Jean Hugues Noël Robert, baron Mariani (généré automatiquement par 
 ## Registered Repositories
 
 <!-- BEGIN_AUTO: registered_repos -->
-| Repository | research/index.md | Branch | Policy |
-|---|---|---|---|
-| cogentia | yes | main | all |
-| FractaVolta | yes | main | all |
-| marenostrum | yes | main | all |
-| barons-Mariani | yes | main | all |
-| inseme | yes | main | research |
-| Inox | yes | master | all |
-| JeanHuguesRobert | yes | main | all |
+| Repository | research/index.md | Branch | Policy | Visibility | Public presence |
+|---|---|---|---|---|---|
+| cogentia | yes | main | all | public | full |
+| FractaVolta | yes | main | all | public | full |
+| marenostrum | yes | main | all | public | full |
+| barons-Mariani | yes | main | all | public | full |
+| inseme | yes | main | research | public | full |
+| Inox | yes | master | all | public | full |
+| registre-mariani | yes | main | all | private | stub |
+| ubikia | yes | main | all | public | full |
+| JeanHuguesRobert | yes | main | all | public | full |
 <!-- END_AUTO: registered_repos -->
 
 ---
@@ -49,38 +51,41 @@ graph LR
   r_barons_mariani["barons-Mariani"]
   r_inseme["inseme"]
   r_inox["Inox"]
+  r_registre_mariani["registre-mariani"]
+  r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|149| r_barons_mariani
-  r_cogentia -->|104| r_barons_mariani
-  r_jeanhuguesrobert -->|91| r_cogentia
-  r_jeanhuguesrobert -->|40| r_marenostrum
-  r_jeanhuguesrobert -->|34| r_fractavolta
-  r_fractavolta -->|33| r_marenostrum
-  r_jeanhuguesrobert -->|33| r_inox
-  r_fractavolta -->|32| r_cogentia
-  r_barons_mariani -->|29| r_cogentia
-  r_cogentia -->|21| r_inseme
-  r_cogentia -->|20| r_marenostrum
+  r_jeanhuguesrobert -->|143| r_barons_mariani
+  r_cogentia -->|101| r_barons_mariani
+  r_jeanhuguesrobert -->|99| r_cogentia
+  r_jeanhuguesrobert -->|43| r_marenostrum
+  r_fractavolta -->|40| r_cogentia
+  r_fractavolta -->|37| r_marenostrum
+  r_jeanhuguesrobert -->|36| r_fractavolta
+  r_jeanhuguesrobert -->|30| r_inox
+  r_barons_mariani -->|27| r_cogentia
+  r_cogentia -->|22| r_inseme
+  r_cogentia -->|19| r_marenostrum
+  r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
-  r_jeanhuguesrobert -->|17| r_inseme
+  r_jeanhuguesrobert -->|16| r_inseme
   r_inseme -->|14| r_cogentia
-  r_barons_mariani -->|13| r_marenostrum
-  r_marenostrum -->|13| r_fractavolta
-  r_fractavolta -->|12| r_inseme
-  r_marenostrum -->|12| r_barons_mariani
+  r_marenostrum -->|12| r_fractavolta
+  r_marenostrum -->|12| r_cogentia
+  r_barons_mariani -->|11| r_marenostrum
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
+  r_marenostrum -->|11| r_barons_mariani
   r_inox -->|10| r_fractavolta
-  r_marenostrum -->|10| r_cogentia
+  r_fractavolta -->|8| r_inox
   r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
+  r_jeanhuguesrobert -->|7| r_ubikia
   r_barons_mariani -->|6| r_fractavolta
-  r_cogentia -->|6| r_fractavolta
-  r_cogentia -->|5| r_jeanhuguesrobert
+  r_cogentia -->|5| r_fractavolta
   r_barons_mariani -->|4| r_inox
   r_barons_mariani -->|4| r_jeanhuguesrobert
-  r_fractavolta -->|4| r_inox
+  r_cogentia -->|4| r_jeanhuguesrobert
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
   r_barons_mariani -->|2| r_inseme
@@ -497,6 +502,7 @@ graph LR
 | [Traçabilité civique anti-mafieuse — documenter l'emprise sans créer une société de surveillance (FR)](traceabilite_civique_antimafia.md) *(note de campagne)* | this repo | 2026-05-16 |
 | [Democratic AI Safety — Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons](democratic_ai_safety.md) *(working paper, draft v0.5 — merged from prior parallel cogentia draft)* | this repo | 2026-05-18 |
 | [La pathologie du secret — Imputabilité humaine, traçabilité démocratique et refus de l'irresponsabilité artificielle (FR)](pathologie_du_secret.md) *(working paper v0.4 — droit positif français/européen, cas DataJust ; pendant juridique de Democratic AI Safety)* | this repo | 2026-05-20 |
+| [Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels](dongles_proprietaires_et_droit_a_la_remise_en_service.md) *(working paper v0.1 — doctrine juridique et technique de la réparabilité effective)* | this repo | 2026-06-10 |
 | [Fabriquer la loi comme un corpus vivant (FR)](legistique_cognitive.md) *(working paper v0.2 — légistique cognitive et corpus vivant, source candidate after checkpoint)* | this repo | 2026-06-02 |
 | [DAO, imputabilité et DHITL (FR)](dao_imputabilite_dhitl.md) *(working paper v0.2 — academic source form, media/legal reinforced)* | this repo | 2026-06-03 |
 | [Process note — DAO, imputabilité et DHITL](dao_imputabilite_dhitl_process.md) *(companion process note v0.1)* | this repo | 2026-06-03 |
@@ -590,47 +596,15 @@ graph LR
 - Casabianca family archive — collateral descent, Battle of Aboukir 1798, WWII submarine
 - Generalized Tocqueville Law — formal treatment beyond the aphorism
 - Invidia × Ostrom: commons governance as antidote to mimetic capture
-- [ai based cultural mediation](../ai-based-cultural-mediation.md)
-- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
-- [*Invidia*, envie et désir mimétique](../invidia.md)
-- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
-- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
-- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
-- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
-- [Autonomia](autonomia.md)
-- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
-- [Atlas du paysage politique et discursif corse — Une Corse capable](autonomia/atlas_paysage_politique_corse.md)
-- [Stock de formules publiques — Autonomie de Capacité](autonomia/formules_publiques_autonomie_capacite.md)
-- [Grammaire générative de l’Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md)
-- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md)
-- [Projet #1755](autonomia/projet_1755.md)
-- [Sailing the Cognitive Waves](cognitive_waves.md)
-- [Concept Index — barons-Mariani](concepts.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
-- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
-- [Kudocracy](kudocracy.md)
-- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
-- [La méthode des terrains féconds](methode_terrains_feconds.md)
-- [La pathologie du secret](pathologie_du_secret.md)
-- [Des bleus de travail aux bleus de mémoire](patrimoine/bleu_chine_denim_article_academique.md)
-- [Bleu de Chine, denim et indigo — Chronologie critique](patrimoine/bleu_chine_denim_chronologie.md)
-- [Bleu de Chine, denim et indigo — Sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md)
-- [What is Potentics?](potentics.md)
 - [Discours de la seconde méthode](second_method.md)
-- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-- [Territoires possibilistes](territoires_possibilistes.md)
-- [Test du critère Rossignol](test_critere_rossignol.md)
-- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
-- [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)
-- [Traçabilité des actes](traceabilite_des_actes.md)
-- [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
-- [The Republic of Donkeys](../the_republic_of_donkeys.md)
-- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
-- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
-- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
-- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
-- [VIGILIA](../vigilia.md)
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
+- [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md)
+- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: possibilities -->
 
 ---
@@ -643,47 +617,8 @@ graph LR
 ### Backlinks
 
 *These documents link to this file:*
-- [ai based cultural mediation](../ai-based-cultural-mediation.md)
-- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
-- [*Invidia*, envie et désir mimétique](../invidia.md)
-- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
-- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
-- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
-- [Dilution de la responsabilité et continuité de protection](../protection_responsable.md)
-- [Autonomia](autonomia.md)
-- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
-- [Atlas du paysage politique et discursif corse — Une Corse capable](autonomia/atlas_paysage_politique_corse.md)
-- [Stock de formules publiques — Autonomie de Capacité](autonomia/formules_publiques_autonomie_capacite.md)
-- [Grammaire générative de l’Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md)
-- [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md)
-- [Projet #1755](autonomia/projet_1755.md)
-- [Sailing the Cognitive Waves](cognitive_waves.md)
-- [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
-- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
-- [Research Index — barons-Mariani](index.md)
-- [Kudocracy](kudocracy.md)
-- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
-- [La méthode des terrains féconds](methode_terrains_feconds.md)
-- [La pathologie du secret](pathologie_du_secret.md)
-- [Des bleus de travail aux bleus de mémoire](patrimoine/bleu_chine_denim_article_academique.md)
-- [Bleu de Chine, denim et indigo — Chronologie critique](patrimoine/bleu_chine_denim_chronologie.md)
-- [Bleu de Chine, denim et indigo — Sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md)
-- [What is Potentics?](potentics.md)
 - [Discours de la seconde méthode](second_method.md)
-- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-- [Territoires possibilistes](territoires_possibilistes.md)
-- [Test du critère Rossignol](test_critere_rossignol.md)
-- [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md)
-- [Traçabilité des actes : déléguer sans se déposséder](traceabilite_des_actes_blogpost.md)
-- [Traçabilité des actes](traceabilite_des_actes.md)
-- [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md)
-- [The Republic of Donkeys](../the_republic_of_donkeys.md)
-- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
-- [Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition](../toy_story.md)
-- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
-- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
-- [VIGILIA](../vigilia.md)
-
+- [Research Index — barons-Mariani](index.md)
+- [Corpus Status — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/corpus-status.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->
