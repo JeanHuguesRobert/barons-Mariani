@@ -8,7 +8,8 @@ author: "Jean Hugues Noël Robert"
 license: "CC BY 4.0"
 language: "fr"
 repository: "JeanHuguesRobert/barons-Mariani"
-proposed_path: "research/reparabilite/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
+path: "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
 tags:
   - reparabilite
   - droit-a-la-reparation
@@ -36,8 +37,8 @@ ai_assisted_by:
 
 **Version 0.1 — 10 juin 2026**  
 **Statut : document source — à critiquer, compléter, documenter**  
-**Dépôt proposé :** `JeanHuguesRobert/barons-Mariani`  
-**Chemin proposé :** `research/reparabilite/dongles_proprietaires_et_droit_a_la_remise_en_service.md`
+**Dépôt :** `JeanHuguesRobert/barons-Mariani`  
+**Chemin :** `research/dongles_proprietaires_et_droit_a_la_remise_en_service.md`
 
 ---
 
@@ -489,9 +490,9 @@ L’objectif n’est pas de produire une indignation ponctuelle, mais une capaci
 
 ## Rapport minimal de contribution
 
-Issue: à créer — "Documenter les dongles propriétaires comme obstacle à la réparabilité effective"  
-Files changed: aucun à ce stade — proposition de nouveau fichier `research/reparabilite/dongles_proprietaires_et_droit_a_la_remise_en_service.md`  
+Issue: non créée — correction structurelle minimale demandée directement par l’auteur  
+Files changed: `research/dongles_proprietaires_et_droit_a_la_remise_en_service.md`  
 Tests run: aucun — document juridique/doctrinal, non logiciel  
 Known risks: qualification juridique à vérifier ; compatibilité Logitech K235 à documenter expérimentalement ; champ exact du droit applicable à confirmer  
-Next step: créer une issue bornée, déposer le document source v0.1, puis ouvrir une branche dédiée  
+Next step: ajouter le document à `research/index.md`, puis régénérer `corpus-status.md` si nécessaire  
 Human validation needed: yes
