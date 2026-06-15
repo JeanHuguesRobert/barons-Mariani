@@ -98,8 +98,8 @@ Ce document doit être lu avec :
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) — méthode Cogentia de transformation des intuitions en documents sources, paquets cognitifs et produits déclinés ;
 - `cogentia_reactive_corpus.md` — théorie du corpus réactif (planifié, pas encore publié) ;
 - [Derived Products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — typologie des produits déclinés ;
-- [Kudocracy](kudocracy.md) — démocratie liquide, délégation traçable et souveraineté capacitaire ;
-- [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse](autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
+- [Kudocracy](../kudocracy.md) — démocratie liquide, délégation traçable et souveraineté capacitaire ;
+- [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse](../autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
 - documents du futur Musée Mariani des Possibles (à venir).
 
 ---
@@ -1511,10 +1511,16 @@ cognitive_packet:
 
 *These documents link to this file:*
 - [Autonomia](../autonomia.md)
+- [Barons Mariani](../../README.md)
+- [Corsica2038 — De la prospective subie à l’autonomie de capacité](corsica2038_contre_rapport_pruspettiva2050.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](1755.md)
-- [Corpus Status — barons-Mariani](../corpus-status.md)
-- [GR20 : du quota à l’autonomie de capacité](../gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](../index.md)
-- [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
-
+- [Concept Index — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md)
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/master/research/library_packets.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
+- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

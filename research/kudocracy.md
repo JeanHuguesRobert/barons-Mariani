@@ -1175,12 +1175,17 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 ### Backlinks
 
 *These documents link to this file:*
+- [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Barons Mariani](../README.md)
+- [Concept Index — barons-Mariani](concepts.md)
+- [Démocratie capable](democratie_capable.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
-- [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Projet #1755](autonomia/projet_1755.md)
 - [Research Index — barons-Mariani](index.md)
 - [Test du critère Rossignol](test_critere_rossignol.md)
-
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

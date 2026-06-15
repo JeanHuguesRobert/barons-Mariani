@@ -62,8 +62,8 @@ C’est pourquoi il faut penser l’IA non seulement comme une technologie, mais
 - [`second_method.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) — méthode de production du corpus : processus public, objections, continuation, réfutabilité, versionnement.
 - [`kudocracy.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md) — démocratie liquide augmentée, agents auxiliaires, refus du vote IA et souveraineté des vivants.
 - [`democratic_ai_safety.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md) — articulation entre sécurité de l’IA, démocratie et humains démocratiquement équipés dans la boucle.
-- [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
-- [`cogentia_reactive_corpus.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cogentia_reactive_corpus.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
+- [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
+- [`derived_products.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
 - [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour comprendre les mécanismes de capture et d’invisibilisation des rapports de force.
 
 ### Documents à venir
@@ -399,9 +399,9 @@ cogentia.continuation.v1:
 - [Dépôt `cogentia`](https://github.com/JeanHuguesRobert/cogentia)
 - [Kudocracy — démocratie liquide augmentée et souveraineté des vivants](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md)
 - [Democratic AI Safety](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md)
-- [Cognitive packets](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_packets.md)
+- [Cognitive packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md)
 - [Seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md)
-- [Cogentia as a reactive corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cogentia_reactive_corpus.md)
+- [Cogentia as a reactive corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md)
 
 
 
@@ -409,8 +409,8 @@ cogentia.continuation.v1:
 ### Backlinks
 
 *These documents link to this file:*
-- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

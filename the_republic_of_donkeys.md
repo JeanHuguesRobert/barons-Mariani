@@ -240,9 +240,9 @@ The experiment is ongoing. Observations are provisional. Participation is open t
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
-- [Democratic AI Safety](research/democratic_ai_safety.md)
+- [Barons Mariani](README.md)
 - [Research Index — barons-Mariani](research/index.md)
-- [Traçabilité civique anti-mafieuse](research/traceabilite_civique_antimafia.md)
-
+- [Stigmergie sans limite haute](research/stigmergie_sans_limite_haute.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

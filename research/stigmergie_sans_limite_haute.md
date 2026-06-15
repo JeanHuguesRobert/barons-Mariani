@@ -123,7 +123,7 @@ L'alignement n'est pas métaphorique : c'est la même architecture d'attestation
 
 > *Un dispositif est un stabilisateur procédural valide s'il peut produire son Rossignol* — un point d'incarnation modeste, mesurable, vérifiable, où la chaîne d'attestation se ferme sur du réel.
 
-Sans Rossignol, le stabilisateur reste rhétorique : on parle de traces sans pouvoir en montrer une qui touche le sol. C'est exactement la critique que [*The Republic of Donkeys*](the_republic_of_donkeys.md) adresse aux institutions sans terrain : la dignité procédurale exige un appui matériel quelque part.
+Sans Rossignol, le stabilisateur reste rhétorique : on parle de traces sans pouvoir en montrer une qui touche le sol. C'est exactement la critique que [*The Republic of Donkeys*](../the_republic_of_donkeys.md) adresse aux institutions sans terrain : la dignité procédurale exige un appui matériel quelque part.
 
 > Sans limite haute en théorie ; sans limite basse en pratique : un âne, ses mouches, et leurs traces.
 

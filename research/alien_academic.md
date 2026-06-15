@@ -75,9 +75,9 @@ Il ne constitue pas encore le document source souverain du corpus. Sa fonction e
 - [`second_method.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md) — méthode de production du corpus : processus public, objections first-class, continuation, réfutabilité et versionnement.
 - [`kudocracy.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md) — démocratie liquide augmentée, agents auxiliaires, refus du vote IA et souveraineté des vivants.
 - [`democratic_ai_safety.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md) — articulation entre AI Safety, démocratie et humains démocratiquement équipés dans la boucle.
-- [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
+- [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
 - [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour les questions de capture de la valeur, d'alignement apparent et d'invisibilisation des rapports de force.
-- [`cogentia_reactive_corpus.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cogentia_reactive_corpus.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
+- [`derived_products.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
 
 ### Documents à créer ou à dériver
 
@@ -987,9 +987,8 @@ Ce draft v0.7 est publiable comme **forme académique déclinée provisoire renf
 
 *These documents link to this file:*
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-- [Kudocracy](kudocracy.md)
-- [Discours de la seconde méthode](second_method.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->
