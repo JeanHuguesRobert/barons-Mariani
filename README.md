@@ -21,11 +21,11 @@ versant diagnostic : comprendre pourquoi les institutions centralisées échouen
 structurellement, et comment une gouvernance distribuée et anti-capture peut
 être conçue à Corte, en Corse, en Méditerranée.
 
-Ce dépôt est également un nœud du **corpus à six dépôts** qui opérationnalise
+Ce dépôt est également un nœud du **corpus public multi-dépôts** qui opérationnalise
 ensemble la proposition d'infrastructure souveraine méditerranéenne — pile
 intégrée à quatre couches (énergie, compute, cognition, civique), exploitée par
 FractaVolta, avec un substrat linguistique / runtime (Inox) en cours de
-construction. La méthodologie commune — *Discours de la seconde méthode* —
+construction et une couche de dérivation éditoriale (Ubikia). La méthodologie commune — *Discours de la seconde méthode* —
 vit dans ce dépôt :
 [research/second_method.md](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md).
 
@@ -37,6 +37,7 @@ vit dans ce dépôt :
 | [inseme](https://github.com/JeanHuguesRobert/inseme) | Plateforme — runtime COP, briques, Kudocracy.Survey, Inseme Agora, médiateur IA Ophélia, Atlas de la Biodiversité. |
 | **barons-Mariani** | **Cadre politique et institutionnel. Plan 2038, candidature sénatoriale, *Discours de la seconde méthode*.** |
 | [Inox](https://github.com/JeanHuguesRobert/Inox) | Langage et substrat runtime. Machine virtuelle à pile concaténative, séparation stricte plan de contrôle / plan de données. Runtime visé pour les agents et nœuds du futur *Fractanet*. JS aujourd'hui, WASM et C/C++ ensuite, ESP32 bare-metal à terme. |
+| [Ubikia](https://github.com/JeanHuguesRobert/ubikia) | Couche de dérivation éditoriale et de publication : produits dérivés source-first, personas, scènes de publication, registre de provenance. |
 
 Publié en continu selon le principe du *design in the open*.
 Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com).
