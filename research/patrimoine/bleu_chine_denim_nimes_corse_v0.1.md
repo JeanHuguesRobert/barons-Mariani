@@ -239,7 +239,6 @@ Travail à mener pour passer de la note v0.1 à un article académique :
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](../corpus-status.md)
 - [Research Index — barons-Mariani](../index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

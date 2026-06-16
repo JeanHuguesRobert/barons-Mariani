@@ -514,8 +514,7 @@ Les deux peuvent servir de matériau source pour de futurs produits déclinés.
 
 *These documents link to this file:*
 - [Research Index — barons-Mariani](index.md)
-- [Ubik et la dislocation du réel](ubik_reality_dislocation_academic_fr.md)
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation_academic.md)
-- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
-
+- [Ubik et la dislocation du réel](ubik_reality_dislocation_academic_fr.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

@@ -7889,7 +7889,6 @@ La ligne utile est :
 - [Atlas du paysage politique et discursif corse — Une Corse capable](atlas_paysage_politique_corse.md)
 - [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
 - [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
-- [Corpus Status — barons-Mariani](../corpus-status.md)
 - [Research Index — barons-Mariani](../index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

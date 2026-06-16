@@ -209,7 +209,9 @@ Reconnaître un principe de continuité de protection, c’est faire évoluer le
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Barons Mariani](README.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/CONTEXT.md)
 <!-- END_AUTO: backlinks -->

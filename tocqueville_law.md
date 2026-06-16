@@ -400,9 +400,12 @@ YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San 
 ### Backlinks
 
 *These documents link to this file:*
-- [Autonomia](research/autonomia.md)
+- [Barons Mariani](README.md)
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
-- [GR20 : du quota à l’autonomie de capacité](research/gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [The Sovereign Digital Twin: Cogentia, Cogentigram, Cogentiscope](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/CONTEXT.md)
 <!-- END_AUTO: backlinks -->

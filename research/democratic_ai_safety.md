@@ -1007,11 +1007,19 @@ It is constitutional.
 ### Backlinks
 
 *These documents link to this file:*
+- [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [Research Index — barons-Mariani](index.md)
-- [La pathologie du secret](pathologie_du_secret.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-- [The Republic of Donkeys](../the_republic_of_donkeys.md)
-
+- Cogentia
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
+- [Simplicité d'action](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/simplicite_action.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Trail: From Method to Machine](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_method_to_machine.md)
+- For researchers
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 <!-- END_AUTO: backlinks -->

@@ -974,10 +974,14 @@ Créer trois fichiers compagnons :
 ### Backlinks
 
 *These documents link to this file:*
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-
+- [Simplicité d'action](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/simplicite_action.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 <!-- END_AUTO: backlinks -->

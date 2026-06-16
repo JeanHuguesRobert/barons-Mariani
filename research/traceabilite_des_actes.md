@@ -513,8 +513,11 @@ continuation:
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Research Index — barons-Mariani](index.md)
-- [La pathologie du secret](pathologie_du_secret.md)
-
+- [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
+- [Self-Contained Documents in an Interconnected Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/self_contained_documents.md)
+- For researchers
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

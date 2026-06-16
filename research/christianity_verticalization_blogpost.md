@@ -477,8 +477,8 @@ Ce billet en est une forme plus narrative. Le fond reste dans le corpus ; la for
 ### Backlinks
 
 *These documents link to this file:*
-- [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

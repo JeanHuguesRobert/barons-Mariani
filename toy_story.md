@@ -597,7 +597,7 @@ This paper is simultaneously a contribution to the understanding of AI adoption 
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

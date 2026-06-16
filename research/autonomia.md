@@ -887,12 +887,21 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 ### Backlinks
 
 *These documents link to this file:*
-- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
-- [Projet #1755](autonomia/projet_1755.md)
-- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [Démocratie capable](democratie_capable.md)
+- [Projet #1755](autonomia/projet_1755.md)
+- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Research Index — barons-Mariani](index.md)
-- [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
-
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- FractaVolta
+- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md)
+- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
+- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->

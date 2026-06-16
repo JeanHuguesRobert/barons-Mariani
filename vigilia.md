@@ -1014,8 +1014,12 @@ Attribution requise :
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Barons Mariani](README.md)
 - [Research Index — barons-Mariani](research/index.md)
 - [Stigmergie sans limite haute](research/stigmergie_sans_limite_haute.md)
-
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
+- The Iɴᴏx programming language
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
+- [Project Context — Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/CONTEXT.md)
 <!-- END_AUTO: backlinks -->

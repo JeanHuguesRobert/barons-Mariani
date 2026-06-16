@@ -227,7 +227,5 @@ C’est ainsi qu’on commence à construire une Corse capable.
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
-
 <!-- END_AUTO: backlinks -->

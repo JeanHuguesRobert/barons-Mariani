@@ -164,7 +164,7 @@ This work (text, framework, and PKDIS system prompt) is released under the **MIT
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [Barons Mariani](README.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

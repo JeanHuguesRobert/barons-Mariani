@@ -332,7 +332,6 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](research/concepts.md)
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

@@ -152,9 +152,10 @@ continuation:
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-- [Kudocracy](kudocracy.md)
-- [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-
+- For researchers
+- [Test du critère Rossignol — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

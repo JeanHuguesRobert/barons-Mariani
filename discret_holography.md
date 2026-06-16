@@ -59,8 +59,8 @@ Ce corpus théorique constitue une unité logique indivisible. La validation exp
 ### Backlinks
 
 *These documents link to this file:*
+- [Barons Mariani](README.md)
 - [Concept Index — barons-Mariani](research/concepts.md)
-- [Corpus Status — barons-Mariani](research/corpus-status.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

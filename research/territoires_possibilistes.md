@@ -741,7 +741,7 @@ Avant publication forte, je verrouillerais :
 
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
-
+- [Territoires possibilistes](territoires_possibilistes.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

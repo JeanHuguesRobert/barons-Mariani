@@ -195,10 +195,15 @@ Mimetic desynchronization is the name for that action.
 ### Backlinks
 
 *These documents link to this file:*
-- [La seconde méthode comme généralisation prudente de l’agile](research/agile.md)
-- [Verticalisation de la Chrétienté](research/christianity_verticalization.md)
+- [Alien, l’IA et les intelligences xénoformes](research/alien_blogpost.md)
 - [Concept Index — barons-Mariani](research/concepts.md)
 - [Corpus Status — barons-Mariani](research/corpus-status.md)
+- [La seconde méthode comme généralisation prudente de l’agile](research/agile.md)
+- [Mauvaise calibration métacognitive face aux intelligences xénoformes](research/alien_academic.md)
 - [Research Index — barons-Mariani](research/index.md)
-
+- [Verticalisation de la Chrétienté](research/christianity_verticalization.md)
+- [Cogentia Commons — COMMUNITY.md Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_community_manifest.md)
+- [Cogentia Commons — MVP Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_mvp_spec.md)
+- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

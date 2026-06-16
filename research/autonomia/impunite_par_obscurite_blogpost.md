@@ -283,7 +283,8 @@ Le document source contient la version académique complète, les niveaux de pre
 ### Backlinks
 
 *These documents link to this file:*
-- [Corpus Status — barons-Mariani](../corpus-status.md)
+- [Barons Mariani](../../README.md)
 - [Research Index — barons-Mariani](../index.md)
-
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

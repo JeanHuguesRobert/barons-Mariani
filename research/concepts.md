@@ -451,25 +451,6 @@ A conceptual representation technique acting as half a joke and half a cultural 
 ### Backlinks
 
 *These documents link to this file:*
-- [ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D](../discret_holography.md)
-- [*Invidia*, envie et désir mimétique](../invidia.md)
-- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
-- [Possibilism: Notes Toward a Research Program on Possibility Exploration](../possibilism_04_2026.md)
-- [**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**](../projet_minesteggio.md)
-- [Autonomia](autonomia.md)
-- [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
-- [Sailing the Cognitive Waves](cognitive_waves.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
-- [Democratic AI Safety](democratic_ai_safety.md)
-- [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](index.md)
-- [Kudocracy](kudocracy.md)
-- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
-- [La pathologie du secret](pathologie_du_secret.md)
-- [What is Potentics?](potentics.md)
-- [Discours de la seconde méthode](second_method.md)
-- [Territoires possibilistes](territoires_possibilistes.md)
-- [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md)
-- [Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires](../uchronian_museum.md)
-
+- [MareNostrum — Tableau de bord](https://github.com/JeanHuguesRobert/marenostrum/blob/main/dashboard.md)
 <!-- END_AUTO: backlinks -->

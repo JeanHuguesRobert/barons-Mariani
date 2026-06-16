@@ -919,11 +919,11 @@ Le cas corse devra être développé dans un article spécifique reliant :
 ### Backlinks
 
 *These documents link to this file:*
-- [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md)
-- [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
+- [Barons Mariani](../README.md)
+- [Démocratie capable](democratie_capable.md)
 - [Research Index — barons-Mariani](index.md)
-- [Kudocracy](kudocracy.md)
-- [Discours de la seconde méthode](second_method.md)
-
+- [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->
