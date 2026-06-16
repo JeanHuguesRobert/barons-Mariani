@@ -1,8 +1,8 @@
 ---
 title: "Reality Safety"
 subtitle: "AI Safety as a revealer of a deeper crisis of shared reality"
-version: "0.9"
-status: "draft — source document, literary-analytic form, academic grounding pass, Claude selective integration, Ubik calibration pass, claims registry consolidation"
+version: "0.9.1"
+status: "draft — source document, literary-analytic form, academic grounding pass, claims registry consolidation, capability-regimes bridge"
 date: "2026-06-15"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -13,8 +13,8 @@ intended_path: "research/reality_safety_procedural_stabilizers.md"
 canonical_url: "TODO after publication"
 corpus_role: "source"
 annex_policy: "Occam: the academic reference matrix remains integrated as Appendix A. Nihilism / boreout / meaning-loss material is retained inside the source only as a bounded Level-B implication, not split into a companion file at this stage."
-style_note: "Version 0.9 is a pre-publication consolidation pass over version 0.8: it adds a claims registry, removes premature implementation-language, replaces the implementation-oriented envelope with a lighter claim-envelope concept, and preserves the literary-analytic source form, the academic reference matrix as Appendix A, the centering of claim/reasoning provenance, the calibrated Ubik effect, and the bounding of existential claims outside the critical path."
-review_status: "Grok constructive review integrated selectively on 2026-06-15; academic grounding pass added on 2026-06-15; reference matrix integrated as appendix on 2026-06-15; Claude review integrated selectively on 2026-06-15; Grok/Claude Ubik calibration integrated selectively on 2026-06-15; claims registry consolidation added on 2026-06-15; premature implementation-language removed; human validation remains required."
+style_note: "Version 0.9.1 is a light bridge pass over version 0.9: it preserves the pre-publication consolidation, adds a limited connection to Fractanet capability regimes, and keeps Reality Safety focused on provenance, correction and shared-world maintenance rather than expanding into a full infrastructure theory."
+review_status: "Grok constructive review integrated selectively on 2026-06-15; academic grounding pass added on 2026-06-15; reference matrix integrated as appendix on 2026-06-15; Claude review integrated selectively on 2026-06-15; Grok/Claude Ubik calibration integrated selectively on 2026-06-15; claims registry consolidation added on 2026-06-15; premature implementation-language removed; capability-regimes bridge added on 2026-06-15; human validation remains required."
 derived_products_expected:
   - "French public essay"
   - "English academic-style working paper"
@@ -39,6 +39,9 @@ tags:
   - shared-reality
   - democratic-stabilization
   - anti-capture
+  - capability-regimes
+  - decision-under-uncertainty
+  - fractanet
 related_projects:
   - "Barons Mariani"
   - "Cogentia"
@@ -59,7 +62,7 @@ methodological_status:
 
 ## AI Safety as a revealer of a deeper crisis of shared reality
 
-**Version 0.9 — 2026-06-15**  
+**Version 0.9.1 — 2026-06-15**  
 **Repository target:** `JeanHuguesRobert/barons-Mariani`  
 **Proposed path:** `research/reality_safety_procedural_stabilizers.md`  
 **Status:** source document draft  
@@ -80,6 +83,7 @@ This document should be read together with:
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) — operational counterpart of the second method: ideas become cognitive packets, source documents, derived products, public feedback and corpus reintegration.
 - [Ubik and the Dislocation of Reality](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ubik_reality_dislocation.md) — prior source essay defining the Ubik effect and the need for procedural stabilizers.
 - [cogentia.js — Tutorial and Near-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_js_tutorial.md) — historical derived specification of tooling that operationalizes parts of the method.
+- [Capability Regimes](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/capability_regimes.md) — Fractanet companion source document on graded regimes of constraint, uncertainty, deadlines, escalation, fallback and traceability.
 - Future document: `fractanet_homeostatic_raix.md` — to connect Reality Safety with RAIX, stigmergic traces, fractal state, and homeostatic infrastructures.
 - Future document: `procedural_ubik.md` — to formalize procedural stabilizers as design primitives.
 
@@ -104,6 +108,7 @@ VPS cost patterns
 → procedural stabilizers
 → nihilistic temptation
 → Reality Safety
+→ capability regimes as operational bridge toward Fractanet
 ```
 
 The current document follows the Cogentia pipeline:
@@ -289,7 +294,20 @@ A claim is not yet a proof. It is a stabilized proposition that can be sourced, 
 
 **Boundary.** This source document establishes the requirement; a separate Fractanet design note should define the implementation.
 
-### Claim RS-12 — A claim envelope is the first practical instrument
+
+### Claim RS-12 — Capability regimes operationalize Reality Safety under constraint
+
+**Claim.** Reality Safety becomes operationally sharper when decisions are understood as regime-relative: a claim, action, packet or mandate is not evaluated in the abstract, but under constraints of time, uncertainty, stakes, reversibility, resources, mandate, fallback and traceability.
+
+**Evidence level.** Level C — Fractanet bridge hypothesis.
+
+**Rationale.** The same appearance or decision may require different procedures depending on whether the regime is normal, perturbed, degraded, critical, vital or recovery. A casual AI summary, a public accusation, a legal claim, a medical instruction and an emergency infrastructure decision should not carry the same trace, review or responsibility requirements.
+
+**Operational consequence.** Fractanet capability regimes should reinforce Reality Safety by making the decision context explicit: what was known, what was uncertain, what deadline applied, what capacities were mobilized, who or what had the mandate to act, what fallback existed, and what trace was preserved.
+
+**Boundary.** This document does not define the full regime protocol. That belongs in `FractaVolta/research/capability_regimes.md`.
+
+### Claim RS-13 — A claim envelope is the first practical instrument
 
 **Claim.** Before building tooling, the useful next step is to define a claim envelope: a small structure that records the source, claim, reasoning, transformation, objections, responsibility and correction path for one derived product.
 
@@ -630,6 +648,8 @@ Ubikia may be read as a procedural stabilizer of publication. It should preserve
 Ubikia does not produce truth. It prevents publication from dislocating the corpus.
 
 Fractanet carries the same concern outward, from documents to infrastructures. Its relevant primitives are traceable packets, fractal state, locality, ascending subsidiarity, RAIX redundancy, stigmergic coordination, procedural mandates and homeostatic regulation.
+
+Capability regimes add the missing operational bridge: a packet, claim, mandate or action must be routed not only according to origin, destination and rights, but also according to the regime of constraint in which it acts — normal, perturbed, degraded, critical, vital or recovery. As uncertainty and stakes rise, the system should reinforce traceability, clarify fallback, limit preemption by mandate, and preserve responsibility.
 
 A minimal mapping is already discernible. A Fractanet packet should carry more than payload and destination; it should carry enough procedural reality to remain accountable — source references, mandate, the responsible human or institution, a transformation trace, a privacy level, objection hooks, a correction channel, an expiration policy, and escalation rules. RAIX can then avoid any monopoly of stabilization, distributing publication ledgers, caches, verifications and traces across replaceable nodes; and stigmergic traces can render objections, stale claims, verified claims and unresolved contradictions visible without the need for a single central orchestrator. This document does not yet furnish the full technical schema; it establishes only the requirement that any such schema must satisfy.
 
@@ -1047,15 +1067,19 @@ source → draft → critique → revision → derived product → publication �
 
 The system should distinguish cryptographically verifiable facts, socially attested claims and declarative-only metadata. Mixing these categories recreates the Ubik effect inside the stabilizer itself.
 
-### 19.4 First-class objections
+### 19.4 Regime awareness
+
+A system should distinguish ordinary, perturbed, degraded, critical, vital and recovery situations. The same claim or action may require different levels of review, trace, escalation and human responsibility depending on deadline, uncertainty, stakes and reversibility.
+
+### 19.5 First-class objections
 
 Objections must be stored as contributions, not treated as noise.
 
-### 19.5 Human responsibility
+### 19.6 Human responsibility
 
 Artificial agents may contribute epistemically. Living persons remain responsible for consequential publication and governance.
 
-### 19.6 Locality and subsidiarity
+### 19.7 Locality and subsidiarity
 
 Not every trace must become global. Reality Safety should be fractal:
 
@@ -1068,15 +1092,15 @@ local memory
 
 Only what must ascend should ascend.
 
-### 19.7 Correction without erasure
+### 19.8 Correction without erasure
 
 Correction should not silently destroy the history of error.
 
-### 19.8 Anti-monopoly
+### 19.9 Anti-monopoly
 
 No single platform, model, institution or identity layer should become the sovereign stabilizer of reality.
 
-### 19.9 Usability
+### 19.10 Usability
 
 Reality Safety must not impose impossible verification burdens on ordinary people. It must make audit possible, not mandatory for every act.
 
@@ -1164,11 +1188,12 @@ Possible title:
 8. How can Reality Safety avoid becoming bureaucratic, elitist or authoritarian?
 9. How can ordinary citizens benefit from procedural stabilizers without bearing unbearable cognitive cost?
 10. Can Fractanet implement Reality Safety as a native property of packets, traces and mandates?
-11. What are the psychological effects of reality dislocation, and how can claims about boredom, boreout, cynicism and meaning-loss be tested without overclaiming?
-12. How should nihilistic irony and masked cynicism be handled without moralizing?
-13. What would a democratic public institution for Reality Safety look like if it were anti-monopoly, open source and subsidiarity-based?
-14. How should this concept be tested empirically?
-15. What is the first claim envelope to test on a real derived product?
+11. How should Reality Safety change when the same decision occurs under normal, perturbed, degraded, critical, vital or recovery capability regimes?
+12. What are the psychological effects of reality dislocation, and how can claims about boredom, boreout, cynicism and meaning-loss be tested without overclaiming?
+13. How should nihilistic irony and masked cynicism be handled without moralizing?
+14. What would a democratic public institution for Reality Safety look like if it were anti-monopoly, open source and subsidiarity-based?
+15. How should this concept be tested empirically?
+16. What is the first claim envelope to test on a real derived product?
 
 ---
 
@@ -1284,8 +1309,9 @@ Immediate next steps:
 6. Create a French public essay.
 7. Create an English academic-style abstract.
 8. Create a Fractanet design-note continuation.
-9. Define a minimal `cogentia claim-envelope` command or equivalent.
-10. Open GitHub issues for unresolved objections.
+9. Cross-link and review `FractaVolta/research/capability_regimes.md` as the operational bridge between Reality Safety and Fractanet.
+10. Define a minimal `cogentia claim-envelope` command or equivalent.
+11. Open GitHub issues for unresolved objections.
 
 ---
 
