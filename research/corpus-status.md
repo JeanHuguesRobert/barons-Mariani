@@ -57,21 +57,23 @@ graph LR
   r_jeanhuguesrobert -->|153| r_barons_mariani
   r_jeanhuguesrobert -->|110| r_cogentia
   r_cogentia -->|101| r_barons_mariani
+  r_barons_mariani -->|62| r_cogentia
   r_jeanhuguesrobert -->|45| r_marenostrum
   r_fractavolta -->|41| r_cogentia
-  r_barons_mariani -->|39| r_cogentia
   r_fractavolta -->|37| r_marenostrum
   r_jeanhuguesrobert -->|36| r_fractavolta
   r_jeanhuguesrobert -->|24| r_inox
+  r_barons_mariani -->|23| r_marenostrum
   r_cogentia -->|22| r_inseme
   r_cogentia -->|19| r_marenostrum
   r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
+  r_barons_mariani -->|17| r_fractavolta
+  r_barons_mariani -->|16| r_inseme
   r_inseme -->|15| r_cogentia
   r_marenostrum -->|13| r_cogentia
   r_jeanhuguesrobert -->|12| r_inseme
   r_marenostrum -->|12| r_fractavolta
-  r_barons_mariani -->|11| r_marenostrum
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
   r_marenostrum -->|11| r_barons_mariani
@@ -81,14 +83,13 @@ graph LR
   r_inox -->|8| r_marenostrum
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
-  r_barons_mariani -->|6| r_fractavolta
+  r_barons_mariani -->|5| r_inox
+  r_barons_mariani -->|5| r_jeanhuguesrobert
   r_cogentia -->|5| r_fractavolta
-  r_barons_mariani -->|4| r_inox
-  r_barons_mariani -->|4| r_jeanhuguesrobert
   r_cogentia -->|4| r_jeanhuguesrobert
-  r_barons_mariani -->|3| r_inseme
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
+  r_barons_mariani -->|2| r_ubikia
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
   r_inox -->|2| r_jeanhuguesrobert
@@ -489,6 +490,7 @@ graph LR
 | Title | Location | Date |
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
+| [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.4.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
 | [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
