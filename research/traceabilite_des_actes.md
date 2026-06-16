@@ -514,6 +514,7 @@ continuation:
 
 *These documents link to this file:*
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
 - [Self-Contained Documents in an Interconnected Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/self_contained_documents.md)

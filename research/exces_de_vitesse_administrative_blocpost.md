@@ -227,5 +227,6 @@ C’est ainsi qu’on commence à construire une Corse capable.
 ### Backlinks
 
 *These documents link to this file:*
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

@@ -1182,6 +1182,7 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [Projet #1755](autonomia/projet_1755.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Test du critère Rossignol](test_critere_rossignol.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)

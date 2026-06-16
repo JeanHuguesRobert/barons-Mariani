@@ -893,6 +893,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Démocratie capable](democratie_capable.md)
 - [Projet #1755](autonomia/projet_1755.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)

@@ -54,7 +54,7 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|153| r_barons_mariani
+  r_jeanhuguesrobert -->|155| r_barons_mariani
   r_jeanhuguesrobert -->|110| r_cogentia
   r_cogentia -->|101| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
@@ -627,6 +627,7 @@ graph LR
 
 *These documents link to this file:*
 - [Discours de la seconde méthode](second_method.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Corpus Status — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/corpus-status.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)

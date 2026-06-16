@@ -917,6 +917,7 @@ Kudos ne contourne pas la question monétaire.
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - FractaVolta
 - [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md)
