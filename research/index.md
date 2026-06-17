@@ -3,7 +3,7 @@ title: "Research Index — barons-Mariani"
 description: "A map of what is, what is in progress, and what could be."
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-17
+last_modified_at: 2026-06-18
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-06-15
@@ -60,6 +60,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Serenia — Assistance à l'autonomie administrative, numérique et cognitive](serenia_autonomie_assistee_ia.md) *(source note v0.1 — administrative, digital and cognitive autonomy support with AI)* | this repo | 2026-06-13 |
 | [École Mariani de l’Autonomie](ecole_mariani_autonomie.md) *(source note v0.1 — formation de coachs d’autonomie augmentée par IA, articulée à Serenia, FractaVolta et l’autonomie de capacité)* | this repo | 2026-06-17 |
 | [École Mariani de l’Autonomie — terrains pilotes](ecole_mariani_autonomie_terrains_pilotes.md) *(source note v0.1 — quatre terrains pilotes pour éprouver la méthode : eau chaude domestique, Minesteggio, La Maison Blanche et maison individuelle urbaine à Corte)* | this repo | 2026-06-17 |
+| [Maison individuelle urbaine à Corte — cas pilote anonymisé](cas_maison_urbaine_corte_autonomie.md) *(cas pilote anonymisé — application concrète de l’autonomie de capacité à une maison urbaine de Corte)* | this repo | 2026-06-18 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |

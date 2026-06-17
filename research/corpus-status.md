@@ -51,8 +51,8 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|159| r_barons_mariani
-  r_jeanhuguesrobert -->|107| r_cogentia
+  r_jeanhuguesrobert -->|162| r_barons_mariani
+  r_jeanhuguesrobert -->|105| r_cogentia
   r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
   r_jeanhuguesrobert -->|46| r_marenostrum
@@ -513,6 +513,7 @@ graph LR
 | [Serenia — Assistance à l'autonomie administrative, numérique et cognitive](serenia_autonomie_assistee_ia.md) *(source note v0.1 — administrative, digital and cognitive autonomy support with AI)* | this repo | 2026-06-13 |
 | [École Mariani de l’Autonomie](ecole_mariani_autonomie.md) *(source note v0.1 — formation de coachs d’autonomie augmentée par IA, articulée à Serenia, FractaVolta et l’autonomie de capacité)* | this repo | 2026-06-17 |
 | [École Mariani de l’Autonomie — terrains pilotes](ecole_mariani_autonomie_terrains_pilotes.md) *(source note v0.1 — quatre terrains pilotes pour éprouver la méthode : eau chaude domestique, Minesteggio, La Maison Blanche et maison individuelle urbaine à Corte)* | this repo | 2026-06-17 |
+| [Maison individuelle urbaine à Corte — cas pilote anonymisé](cas_maison_urbaine_corte_autonomie.md) *(cas pilote anonymisé — application concrète de l’autonomie de capacité à une maison urbaine de Corte)* | this repo | 2026-06-18 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
