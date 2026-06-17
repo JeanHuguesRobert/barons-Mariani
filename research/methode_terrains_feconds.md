@@ -1252,7 +1252,7 @@ Formule directrice pour la suite :
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - For researchers
-- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

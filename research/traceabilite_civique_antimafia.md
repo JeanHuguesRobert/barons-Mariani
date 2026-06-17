@@ -256,6 +256,6 @@ Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais c
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->
