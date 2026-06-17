@@ -19,7 +19,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 ---
 
 *A map of what is, what is in progress, and what could be.*
-*See sibling indexes in [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md), [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md), [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md), [Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md), [Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md).*
+*See sibling indexes in [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md), [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md), [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md), [Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md), [Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md), and [Ubikia](https://github.com/JeanHuguesRobert/ubikia/blob/main/research/index.md).*
 
 ---
 
@@ -101,7 +101,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Archaïsme et Modernité dans la création insulaire — Continuation 2026 (FR)](archaisme_modernite_continuation_2026_blogpost.md) *(blogpost continuation v0.1)* | this repo | 2026-05-26 |
 | [La seconde méthode comme généralisation prudente de l'agile (FR)](agile.md) *(working paper v0.5 — régimes d'erreur, expérimentation traçable, apprentissage collectif sous complexité)* | this repo | 2026-05-23 |
 | [Institut Mariani — définition, rôle et généalogie documentaire (FR)](institut_mariani.md) *(working note — institutional definition and lineage)* | this repo | 2026-05-29 |
-| [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus-status`)* | this repo | refreshable |
+| [Corpus Status](corpus-status.md) *(living view — auto-refreshed by `cogentia.js corpus plan/apply`)* | this repo | refreshable |
 | [Concept Index](concepts.md) *(typed concept registry — mapped by `cogentia.js concepts`)* | this repo | refreshable |
 
 ---
@@ -116,6 +116,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Cogentia Commons Working Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia_Commons_Working_Paper.md) | cogentia |
 | [Inseme — deployable platform + COP runtime](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md) | inseme |
 | [Inox — language and runtime substrate](https://github.com/JeanHuguesRobert/Inox/blob/master/research/inox-spec.md) *(language-level instance of the corpus anti-capture architecture — concatenative, strict control/data plane separation, no capturable centre)* | Inox |
+| [Ubikia — editorial derivation and publication layer](https://github.com/JeanHuguesRobert/ubikia/blob/main/research/index.md) | ubikia |
 
 ---
 
@@ -153,12 +154,11 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 *Priority established by first public commit. License: CC BY-SA 4.0.*
 *Fork to explore alternatives. Challenge via issues.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
+- [Barons Mariani](../README.md)
 - [Corpus Status — barons-Mariani](corpus-status.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)

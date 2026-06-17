@@ -42,6 +42,13 @@ vit dans ce dépôt :
 Publié en continu selon le principe du *design in the open*.
 Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com).
 
+## Orientation rapide
+
+- [`research/index.md`](research/index.md) — catalogue généré des documents du dépôt
+- [`research/corpus-status.md`](research/corpus-status.md) — état généré du corpus, backlinks et contrôles de navigation
+- [`research/second_method.md`](research/second_method.md) — noyau méthodologique commun du corpus
+- [`vigilia.md`](vigilia.md) — point d'entrée territorial sur l'anti-capture
+
 ---
 
 ## Minesteggio
