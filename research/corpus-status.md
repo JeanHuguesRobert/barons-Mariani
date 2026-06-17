@@ -51,20 +51,21 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|155| r_barons_mariani
-  r_jeanhuguesrobert -->|110| r_cogentia
+  r_jeanhuguesrobert -->|161| r_barons_mariani
+  r_jeanhuguesrobert -->|107| r_cogentia
   r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
   r_jeanhuguesrobert -->|46| r_marenostrum
   r_fractavolta -->|41| r_cogentia
   r_fractavolta -->|37| r_marenostrum
-  r_jeanhuguesrobert -->|36| r_fractavolta
-  r_jeanhuguesrobert -->|24| r_inox
+  r_jeanhuguesrobert -->|33| r_fractavolta
   r_barons_mariani -->|23| r_marenostrum
   r_cogentia -->|22| r_inseme
+  r_jeanhuguesrobert -->|21| r_inox
   r_cogentia -->|19| r_marenostrum
   r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
+  r_jeanhuguesrobert -->|18| r_inseme
   r_barons_mariani -->|17| r_fractavolta
   r_barons_mariani -->|16| r_inseme
   r_inseme -->|15| r_cogentia
@@ -72,7 +73,6 @@ graph LR
   r_marenostrum -->|12| r_fractavolta
   r_inox -->|11| r_barons_mariani
   r_inox -->|11| r_cogentia
-  r_jeanhuguesrobert -->|11| r_inseme
   r_marenostrum -->|11| r_barons_mariani
   r_inox -->|10| r_fractavolta
   r_jeanhuguesrobert -->|9| r_ubikia
@@ -511,6 +511,8 @@ graph LR
 | [Constructive Review: Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental_grok_review_2026-06-13.md) *(archived external review v0.1 — Grok review signal preserved for the incremental corpus model)* | this repo | 2026-06-13 |
 | [Reality Safety](reality_safety_procedural_stabilizers.md) *(source draft v0.9 — AI Safety as revealer of a deeper crisis of shared reality and procedural stabilizers)* | this repo | 2026-06-15 |
 | [Serenia — Assistance à l'autonomie administrative, numérique et cognitive](serenia_autonomie_assistee_ia.md) *(source note v0.1 — administrative, digital and cognitive autonomy support with AI)* | this repo | 2026-06-13 |
+| [École Mariani de l’Autonomie](ecole_mariani_autonomie.md) *(source note v0.1 — formation de coachs d’autonomie augmentée par IA, articulée à Serenia, FractaVolta et l’autonomie de capacité)* | this repo | 2026-06-17 |
+| [École Mariani de l’Autonomie — terrains pilotes](ecole_mariani_autonomie_terrains_pilotes.md) *(source note v0.1 — quatre terrains pilotes pour éprouver la méthode : eau chaude domestique, Minesteggio, La Maison Blanche et maison individuelle urbaine à Corte)* | this repo | 2026-06-17 |
 | [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
 | [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
