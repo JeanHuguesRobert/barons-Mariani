@@ -591,8 +591,6 @@ This paper is simultaneously a contribution to the understanding of AI adoption 
 *v3.0 — 2026-05-10 — Iteration 3 (Claude / Anthropic)*
 *Challenge via issues at github.com/JeanHuguesRobert/barons-Mariani*
 *Fork to explore alternatives.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

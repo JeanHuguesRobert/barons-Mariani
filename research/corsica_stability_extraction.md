@@ -1006,8 +1006,6 @@ sa propre stabilité.
 
 - Nick Couldry and Ulises A. Mejias, *Le colonialisme des données : repenser la relation entre le big data et le sujet contemporain*, Questions de communication, 2022.  
   https://journals.openedition.org/questionsdecommunication/29845
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

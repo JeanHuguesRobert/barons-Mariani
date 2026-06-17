@@ -507,8 +507,6 @@ continuation:
         relationnelle is a special case of irresponsibility produced by
         channel architecture, addressable through symmetric traceability.
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

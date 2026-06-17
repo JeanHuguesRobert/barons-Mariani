@@ -712,8 +712,6 @@ Formule de synthèse :
 - produire une version courte “pocket grammar” d’une page ;
 - produire une version machine-readable en YAML ou JSON pour agents conversationnels ;
 - produire des mini-programmes générés par thème : santé, foncier, communes, énergie, langue, jeunesse, handicap, tourisme, anti-capture, mobilité.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

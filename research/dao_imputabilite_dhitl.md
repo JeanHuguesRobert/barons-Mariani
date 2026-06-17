@@ -674,8 +674,6 @@ Open adversarial review issue and invite DAO practitioners, legal experts, gover
 Human validation needed:
 yes — public doctrine, legal framing, political implications and downstream products.
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

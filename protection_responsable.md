@@ -203,8 +203,6 @@ Reconnaître un principe de continuité de protection, c’est faire évoluer le
 
 ### Sources complémentaires
 - Conseil de l’Europe, jurisprudence relative aux obligations positives de protection de la vie au titre de l’article 2 de la Convention européenne des droits de l’homme.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

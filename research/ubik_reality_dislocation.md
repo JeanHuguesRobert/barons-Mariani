@@ -742,8 +742,6 @@ Cogentia and Ubikia are not Ubik.
 They are attempts to build, patiently and procedurally, what Ubik imagines magically:
 
 a way for reality to hold.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -418,8 +418,6 @@ Points d’insertion recommandés :
 > **La Constitution peut reconnaître. La loi organique peut encadrer. Mais seule la capacité réelle transforme la vie d’un peuple.**
 
 > **On ne doit pas juger l’autonomie à l’émotion qu’elle suscite, mais à ce qu’elle permet effectivement de faire.**
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

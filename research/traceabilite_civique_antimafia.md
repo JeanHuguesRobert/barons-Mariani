@@ -11,13 +11,10 @@ date: "2026-05-16"
 ---
 
 # Traçabilité civique anti-mafieuse
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
-
+> ⬅️ Previous: [Projet #1755](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
 <!-- END_AUTO: trails -->
-
 **Documenter l’emprise sans créer une société de surveillance**
 
 *Note de campagne — Jean Hugues Noël Robert*
@@ -252,8 +249,6 @@ Cette note doit être reliée aux autres documents du corpus sur :
 Elle est volontairement incomplète.
 
 Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais construire une capacité démocratique à documenter les actes d’emprise sans basculer dans une société de surveillance.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

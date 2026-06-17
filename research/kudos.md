@@ -909,8 +909,6 @@ Kudos ne contourne pas la question monétaire.
 - Code monétaire et financier, articles relatifs aux titres de monnaies locales complémentaires.
 - Banque centrale européenne, travaux préparatoires sur l’euro numérique.
 - Euskal Moneta, documentation publique sur l’Eusko numérique, euskokart et euskopay.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

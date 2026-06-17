@@ -326,8 +326,6 @@ La prochaine version de ce fichier doit intégrer :
 3. premières occurrences Gallica / Retronews ;
 4. premiers résultats d’archives corses ;
 5. fiche de contact pour Musée du Vieux Nîmes et Musée de la Corse.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

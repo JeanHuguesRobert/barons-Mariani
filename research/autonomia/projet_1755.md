@@ -62,13 +62,10 @@ last_stamped_at: 2026-06-01
 ---
 
 # Projet #1755
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [GR20 : du quota à l'autonomie de capacité](../gr20_autonomie_de_capacite.md) | ➡️ Next: [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
-
+> ⬅️ Previous: [GR20 : du quota à l’autonomie de capacité](../gr20_autonomie_de_capacite.md) | ➡️ Next: [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
 <!-- END_AUTO: trails -->
-
 ## Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne
 
 **Version 0.13 — document source ouvert, resserré, en phase probatoire initiale, avec tableau de bord public, clause de continuation renforcée et rhétorique resserrée**  
@@ -1504,8 +1501,6 @@ cognitive_packet:
     expected trace, and dashboard entry.
   status: "core safeguard packet"
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -141,8 +141,6 @@ La chronologie ne doit pas être utilisée comme une généalogie linéaire. Ell
 ## 11. Formule de travail
 
 > La chronologie ne raconte pas la naissance d’un bleu unique ; elle suit des bifurcations par lesquelles des bleus de travail deviennent des bleus de mémoire.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

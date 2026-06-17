@@ -178,8 +178,6 @@ continuation:
     - "Comment l'asymétrie de réflexivité (mouche passive / agent humain stratégique) modifie-t-elle la portée normative du mécanisme ?"
     - "Le critère 'pas de stabilisateur procédural sans Rossignol' tient-il pour des dispositifs purement numériques (sans incarnation matérielle évidente) — un wiki, un protocole, un audit log isolé ?"
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

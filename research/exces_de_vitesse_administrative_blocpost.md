@@ -220,9 +220,6 @@ C’est ainsi qu’on commence à construire une Corse capable.
 [^amendement-ceccoli-statut]: Même amendement, statut : rejeté en commission spéciale le 26 mars 2025.
 
 [^amendement-ceccoli-expose]: Même amendement, exposé sommaire : conséquences pour les communes corses rurales, nombreuses communes soumises à la loi montagne, difficulté liée au PADDUC non révisé et aspiration des Corses à vivre et demeurer dans leur village.
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

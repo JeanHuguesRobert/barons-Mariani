@@ -146,8 +146,6 @@ continuation:
     - "Le critère permet-il de juger des dispositifs *non*-procéduraux ? Un stabilisateur magique a-t-il par définition pas de Rossignol — ou un Rossignol falsifié ?"
     - "Y a-t-il une asymétrie temporelle : un dispositif peut-il être stabilisateur valide à un instant T (Rossignol instancié) et invalide à T+n (Rossignol perdu, par ex. infrastructure abandonnée) ?"
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

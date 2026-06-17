@@ -364,8 +364,6 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 ---
 
 *Released under CC BY-SA 4.0. Comments and contributions: jhr@baronsmariani.org | github.com/JeanHuguesRobert/barons-Mariani*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -200,8 +200,6 @@ Cette précision permet d’inscrire l’autonomie dans une logique d’égalit�
 
 - Article 89 de la Constitution :  
   https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240655
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

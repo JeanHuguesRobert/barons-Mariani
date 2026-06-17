@@ -244,8 +244,6 @@ Simon, H. A. (1969). *The Sciences of the Artificial*. MIT Press.
 *Working paper. Not for citation without permission.*
 *Website: fractavolta.com · github.com/JeanHuguesRobert/marenostrum*
 *Contact: jhr@baronsmariani.org*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

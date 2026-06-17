@@ -445,8 +445,6 @@ A conceptual representation technique acting as half a joke and half a cultural 
 
 **Reference documents:**
 - [`discret_holography.md`](../discret_holography.md)
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

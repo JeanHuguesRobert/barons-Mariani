@@ -1170,7 +1170,6 @@ Robert, J. H. N. (2026). *Autonomie de capacité*. Institut Mariani / C.O.R.S.I.
 Robert, J. H. N. (2026). *Cognitive Packets*. Cogentia. https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md
 
 Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, and the Generative Corpus*. Cogentia. https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_method_packets.md
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

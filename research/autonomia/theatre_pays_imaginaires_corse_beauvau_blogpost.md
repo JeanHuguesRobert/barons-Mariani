@@ -1302,8 +1302,6 @@ Texte de référence — Autonomie de Capacité :
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
 
 #AutonomieDeCapacité #UneCorseCapable #Corsica2038 #Pertitellu #PetitParti #VotezCapable #JeanHuguesNoëlRobert
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

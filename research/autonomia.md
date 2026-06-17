@@ -13,13 +13,10 @@ last_stamped_at: 2026-06-01
 ---
 
 # Autonomia[^titre]
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ➡️ Next: [The Generalized Tocqueville Law](../tocqueville_law.md)
-
+> ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
 <!-- END_AUTO: trails -->
-
 ## Orientation
 
 Statut : document source souverain en version de travail.
@@ -881,8 +878,6 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - Comment articuler expérimentation locale et égalité territoriale ?
 
 ---
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -1049,8 +1049,6 @@ Weick, K. E. (1995). *Sensemaking in Organizations*. Sage.
 Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent systems.
 
 [details for references is to be completed]
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

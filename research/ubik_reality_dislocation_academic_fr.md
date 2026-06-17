@@ -382,8 +382,6 @@ Prochaines étapes :
 4. préciser la notion d’effet Ubik ;
 5. développer la discussion sur Rancière, Goffman et la provenance IA ;
 6. ajouter des citations et notes.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

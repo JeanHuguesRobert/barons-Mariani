@@ -1195,9 +1195,6 @@ Ce texte relève de la **seconde méthode** :
 10. transparence sur l’assistance IA dans le processus de rédaction et de critique.
 
 Il ne doit pas être considéré comme une conclusion définitive, mais comme une **base de travail critique**.
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

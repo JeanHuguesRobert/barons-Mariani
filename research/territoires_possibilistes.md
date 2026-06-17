@@ -731,11 +731,6 @@ Avant publication forte, je verrouillerais :
 * R&D en % du PIB ;
 * montant des aides publiques / Bpifrance / fonds européens ;
 * indicateurs de captation ou criminalité organisée, avec prudence juridique.
-
-
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

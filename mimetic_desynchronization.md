@@ -189,8 +189,6 @@ Mimetic desynchronization is the name for that action.
 ---
 
 *Institut Mariani, 1 cours Paoli, F-20250 Corte*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

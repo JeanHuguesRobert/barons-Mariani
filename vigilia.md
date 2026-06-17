@@ -1008,8 +1008,6 @@ Attribution requise :
 * **v1.2** (2026-05-12) — cas d'usage anti-vol ; modèle adversaire explicite ; mode dégradé formalisé ; positionnement dans le corpus (N2N, DHITL, FractaVolta) ; formulation bayésienne minimale ; schéma JSON d'événement ; phasage 5 phases ; license CC BY-SA 4.0 explicite avec SPDX ; harmonisation du nom de l'auteur.
 * **v1.3** (2026-05-12) — remplacement systématique du terme juridique « abigeat » par « vol de bétail » pour accessibilité aux destinataires non-spécialistes (élus, agents communaux, usagers) ; mise à jour du contact courriel.
 * **v1.4** (2026-05-17) — consolidation avec le doublon FractaVolta ; ajout de l'échelle de maturité VIGILIA 0 à VIGILIA 3 ; clarification de la preuve d'usage, de la non-accusation immédiate du propriétaire et de la formule « un territoire plus intelligent sans devenir plus centralisé ».
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

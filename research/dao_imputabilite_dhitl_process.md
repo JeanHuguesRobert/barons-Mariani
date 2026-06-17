@@ -93,8 +93,6 @@ Ouvrir et alimenter l’issue de revue adversariale.
 Human validation needed:
 yes — positionnement public, juridique et politique.
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

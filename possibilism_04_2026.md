@@ -252,8 +252,6 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 *© 2026 Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A.*
 *Working paper. Not for citation without permission.*
 *Contact: jhr@baronsmariani.org*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

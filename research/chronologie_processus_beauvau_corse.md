@@ -2454,8 +2454,6 @@ Il dit seulement : voici, à ce stade, une chronologie documentaire structurée,
 - Position du Sénat et navette parlementaire.
 - Réunion éventuelle du Congrès.
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

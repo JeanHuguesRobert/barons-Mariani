@@ -561,9 +561,6 @@ Parti : Le Petit Parti, générateur de programmes politiques.
 Formule finale :
 
 > **À chaque débat, à chaque objection, à chaque promesse, poser la même question : qu’est-ce qui rend le territoire plus capable ?**
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

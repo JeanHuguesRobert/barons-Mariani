@@ -10,10 +10,8 @@ status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Autonomia](research/autonomia.md) | ➡️ Next: [GR20 : du quota à l'autonomie de capacité](research/gr20_autonomie_de_capacite.md)
-
+> ⬅️ Previous: [Autonomia](research/autonomia.md) | ➡️ Next: [GR20 : du quota à l’autonomie de capacité](research/gr20_autonomie_de_capacite.md)
 <!-- END_AUTO: trails -->
-
 ---
 
 # The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction
@@ -394,8 +392,6 @@ Tocqueville, A. de (1835/1840). *De la démocratie en Amérique*, 2 vols. Paris:
 Tocqueville, A. de (1856). *L'Ancien Régime et la Révolution*. Paris: Lévy.
 
 YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San Bruno: Google LLC.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

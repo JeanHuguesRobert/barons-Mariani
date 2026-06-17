@@ -10,10 +10,8 @@ status: "working-paper — auto-filled (frontmatter cleanup)"
 ---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
-
+> ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 <!-- END_AUTO: trails -->
-
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md
 last_stamped_at: 2026-05-20
@@ -968,8 +966,6 @@ Créer trois fichiers compagnons :
 > **Une trace qui ne peut pas devenir preuve n’est qu’un bruit administratif.**
 
 > **La protection par le secret peut être une sécurité opérationnelle. L’obscurité structurelle est une irresponsabilité politique.**
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

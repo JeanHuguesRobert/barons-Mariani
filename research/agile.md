@@ -913,8 +913,6 @@ Le cas corse devra être développé dans un article spécifique reliant :
 - Robert, Jean Hugues Noël. [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md). Corpus `marenostrum`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `cogentia`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `FractaVolta`.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

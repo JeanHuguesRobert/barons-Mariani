@@ -1242,9 +1242,6 @@ Ce document peut être poursuivi selon plusieurs directions :
 Formule directrice pour la suite :
 
 > Avant de débattre d’une opposition, vérifions si le terrain qui la produit est fécond. Si ce terrain est stérile, ne cherchons pas seulement de meilleurs arguments : redessinons le terrain.
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

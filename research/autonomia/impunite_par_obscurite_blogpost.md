@@ -277,8 +277,6 @@ Le document source contient la version académique complète, les niveaux de pre
 - Paul Ortoli, “Corse : le parquet européen enquête sur des soupçons de fraudes massives aux aides d’après-pandémie de Covid-19”, *Le Monde*, 30 mai 2026, 14h00.
 - Agence française anticorruption / SSMSI, “Publication de l’étude sur les infractions enregistrées par les services de sécurité en 2025”, 30 avril 2026.
 - Cour des comptes, Rapport public annuel 2020, “Les agences et offices de Corse : une réforme nécessaire”, février 2020.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

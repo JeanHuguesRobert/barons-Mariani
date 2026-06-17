@@ -52,9 +52,6 @@ Ce corpus théorique constitue une unité logique indivisible. La validation exp
 
 **Signé :** Jean-Hugues Noël ROBERT, baron Mariani
 **Fait le :** 27 Février 2026
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

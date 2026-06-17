@@ -508,8 +508,6 @@ The source essay stabilizes the concepts.
 This essay stabilizes the experience.
 
 Both may be used as source material for later derived products.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

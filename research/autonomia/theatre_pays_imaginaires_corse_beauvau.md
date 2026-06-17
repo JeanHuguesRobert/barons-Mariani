@@ -1496,8 +1496,6 @@ Il peut être développé en essai plus long selon trois directions :
 Règle de continuation :
 
 > **Ne jamais réduire une personne à un personnage. Toujours analyser un rôle public, une scène, une réplique et un terrain discursif.**
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

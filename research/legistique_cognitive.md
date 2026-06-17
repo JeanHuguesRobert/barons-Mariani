@@ -1212,8 +1212,6 @@ Reste à faire dans une prochaine passe :
 8. relire `examples/continuity_protection_marie_louise.yml`, en maintenant la distinction entre fait personnel, hypothèse doctrinale, proposition normative et cadre institutionnel projeté du futur fonds Les Amis de Malou ;
 9. transformer ce document en produit décliné Substack ;
 10. ouvrir une issue Cogentia Commons : “Define minimal schema for norm_packet, public_impact_packet, autonomy_capacity_packet, continuity_protection_packet.”
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

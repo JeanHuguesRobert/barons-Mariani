@@ -141,8 +141,6 @@ Projet associé : Musée uchronique / Fondation Barons Mariani / Kudocracy
 ### Licence
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

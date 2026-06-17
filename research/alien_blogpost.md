@@ -402,9 +402,6 @@ cogentia.continuation.v1:
 - [Cognitive packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md)
 - [Seconde méthode](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md)
 - [Cogentia as a reactive corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md)
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

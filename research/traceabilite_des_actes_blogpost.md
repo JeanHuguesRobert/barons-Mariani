@@ -198,8 +198,6 @@ De donner de l’autonomie sans créer d’impunité.
 Formule courte :
 
 > **Agir sans attendre, mais jamais sans répondre.**
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

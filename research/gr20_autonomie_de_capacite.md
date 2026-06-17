@@ -12,13 +12,10 @@ last_stamped_at: 2026-06-01
 ---
 
 # GR20 : du quota à l’autonomie de capacité
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Generalized Tocqueville Law](../tocqueville_law.md) | ➡️ Next: [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne](autonomia/projet_1755.md)
-
+> ⬅️ Previous: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md) | ➡️ Next: [Projet #1755](autonomia/projet_1755.md)
 <!-- END_AUTO: trails -->
-
 ## Note de campagne pour une politique corse de la montagne capable
 
 Le GR20 est victime de son succès. Depuis la période postérieure à 2020, sa fréquentation est devenue le symptôme visible d’un problème plus large : la Corse attire fortement, mais elle oriente encore trop faiblement les flux qu’elle attire.
@@ -456,8 +453,6 @@ La ligne directrice doit rester stable :
 - ne pas réduire la montagne corse à un produit touristique ;
 - ne pas administrer les pics uniquement par interdiction ;
 - transformer les flux en capacités durables pour le territoire et ses habitants.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -24,13 +24,10 @@ status: "draft — auto-filled (frontmatter cleanup)"
 ---
 
 # Discours de la seconde méthode
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Method to Machine**
-> ➡️ Next: [Pipeline — From cognitive packets to source documents and derived products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
-
+> ➡️ Next: [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
 <!-- END_AUTO: trails -->
-
 ## Orientation
 
 Statut : document source souverain fondateur.
@@ -582,8 +579,6 @@ René, merci. On continue.
 *Premier commit : 2026-05-08 — Jour de la Victoire — v1.0*
 
 *Challenge via issues. Fork to explore alternatives.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
@@ -611,7 +606,6 @@ René, merci. On continue.
 - [Cogentia Commons — Substantive Plugin Sub-Specifications](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_substantive_plugins.md)
 - [Cogentia Commons — Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_workflows.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
-- [cogentia.js — Tutorial and Near-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_js_tutorial.md)
 - [Corpus Status — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/corpus-status.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)

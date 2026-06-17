@@ -980,8 +980,6 @@ Ce draft v0.7 est publiable comme **forme académique déclinée provisoire renf
 [8]: https://www.researchgate.net/publication/374560943_Anthropocentrism_and_Environmental_Wellbeing_in_AI_Ethics_Standards_A_Scoping_Review_and_Discussion "Anthropocentrism and Environmental Wellbeing in AI ..."
 [9]: https://link.springer.com/article/10.1007/s00146-025-02422-7 "Exploring automation bias in human–AI collaboration"
 [10]: https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/Dietvorst-Simmons-Massey-2014.pdf "People Erroneously Avoid Algorithms After Seeing Them Err"
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -558,9 +558,6 @@ Tests run: non exécutés dans un dépôt local ; contrôle manuel d’autoporta
 Known risks: surcharge conceptuelle ; références externes Marx/Hayek/Polanyi/Taleb/Schumpeter encore à documenter ; formalisation technique des paquets cognitifs encore incomplète ; `canonical_url` à estampiller après dépôt réel dans GitHub  
 Next step: créer ou rattacher l’issue, déposer le fichier cible, ajouter l’entrée `research/index.md`, exécuter `cogentia stamp`, puis ouvrir une PR ou commit borné selon le workflow retenu  
 Human validation needed: completed for this iteration; required again before source stabilization if substantive changes are added
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -158,8 +158,6 @@ Wang, Y., Lin, J., Yu, Z., Hu, W., & Faltings, B. (2023). Open-world story gener
 This work (text, framework, and PKDIS system prompt) is released under the **MIT License** (code-like components) and **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** (textual content).  
 
 © 2026 Jean Hugues Noël Robert, baron Mariani – All rights reversed under open-source terms.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

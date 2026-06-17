@@ -380,8 +380,6 @@ Williamson, O. E. (1985). *The Economic Institutions of Capitalism*. Free Press.
 Institut Mariani — 1 cours Paoli, F-20250 Corte, Corse  
 jhr@baronsmariani.org  
 Association C.O.R.S.I.C.A. — fondée à Corte, 1995*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

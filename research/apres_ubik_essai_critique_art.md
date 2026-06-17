@@ -507,8 +507,6 @@ Le texte source stabilise les concepts.
 Cet essai stabilise l’expérience.
 
 Les deux peuvent servir de matériau source pour de futurs produits déclinés.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -325,8 +325,6 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 - **Partage à l’identique** : Si vous modifiez ou transformez ce document, vous devez le redistribuer sous la même licence.
 
 **Lien vers le dépôt GitHub** : [JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani)
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

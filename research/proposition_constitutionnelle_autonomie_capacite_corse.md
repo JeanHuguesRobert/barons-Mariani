@@ -353,8 +353,6 @@ Les améliorations prioritaires pourraient porter sur :
 Le principe directeur reste le suivant :
 
 > L’autonomie ne doit pas seulement reconnaître la singularité de la Corse. Elle doit lui donner la capacité vérifiable de durer.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

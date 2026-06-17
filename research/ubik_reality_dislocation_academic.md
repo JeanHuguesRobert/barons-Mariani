@@ -456,8 +456,6 @@ It is a literary machine for perceiving a contemporary condition:
 The task is not to replace uncertainty with authority.
 
 The task is to build procedural stabilizers that make reality traceable, contestable, corrigible, and shareable.
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

@@ -7886,9 +7886,6 @@ La ligne utile est :
 ## Formule de synthèse
 
 > **La Corse ne doit pas subir la transition écologique comme une contrainte extérieure. Elle doit la reconfigurer en autonomie de capacité : produire, stocker, se déplacer, réparer, partager, contrôler et transmettre.**
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

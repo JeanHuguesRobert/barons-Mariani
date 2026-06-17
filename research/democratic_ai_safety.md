@@ -16,16 +16,13 @@ date: "2026-05-11"
 ---
 
 # Democratic AI Safety
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [The Republic of Donkeys](../the_republic_of_donkeys.md) | ➡️ Next: [La pathologie du secret](pathologie_du_secret.md)
 
 > 🧭 **Trail: From Method to Machine**
-> ⬅️ Previous: [Cogentia — the framework, in five distinctive moves](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
-
+> ⬅️ Previous: [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
 <!-- END_AUTO: trails -->
-
 ## Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons
 
 **Jean Hugues Noël Robert, baron Mariani**  
@@ -1001,8 +998,6 @@ It is constitutional.
 
 *Draft v0.4 — Corte, 2026-05-11*  
 *Institut Mariani — C.O.R.S.I.C.A.*
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

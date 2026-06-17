@@ -470,9 +470,6 @@ sous le chemin proposé :
 [`research/christianity_verticalization.md`](christianity_verticalization.md)
 
 Ce billet en est une forme plus narrative. Le fond reste dans le corpus ; la forme se décline selon le public, le média et le moment.
-
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

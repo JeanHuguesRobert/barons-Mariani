@@ -818,8 +818,6 @@ Human validation needed:
 Next useful action:
 - publish the consolidated source document, then derive a short academic note
 ```
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

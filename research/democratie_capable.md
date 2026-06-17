@@ -592,8 +592,6 @@ Relire cette v0.3 comme document unique. Si elle est validée, publier dans :
 Commit message possible :
 
 `Add working paper on démocratie capable`
-
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
