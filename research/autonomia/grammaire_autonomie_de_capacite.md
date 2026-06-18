@@ -724,4 +724,5 @@ Formule de synthèse :
 - [Research Index — barons-Mariani](../index.md)
 - [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->
