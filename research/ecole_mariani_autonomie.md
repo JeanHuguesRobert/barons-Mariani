@@ -3,8 +3,8 @@ title: "École Mariani de l’Autonomie"
 subtitle: "Former des coachs d’autonomie augmentée par IA"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.1"
-date: "2026-06-17"
+version: "0.2"
+date: "2026-06-20"
 repository: "barons-Mariani"
 path: "research/ecole_mariani_autonomie.md"
 type: "source_note"
@@ -18,6 +18,8 @@ tags:
   - pédagogie
   - énergie
   - logement
+  - homéostasie de l’habitat
+  - modes dégradés
   - Serenia
   - FractaVolta
   - courant continu
@@ -27,6 +29,7 @@ corpus_hierarchy:
   role: "document de cadrage pédagogique"
   derived_from:
     - "conversation ChatGPT du 2026-06-17 sur chauffe-eau gaz, autonomie énergétique et coaching assisté par IA"
+    - "conversation ChatGPT du 2026-06-20 sur l’homéostasie de l’habitat"
     - "research/serenia_autonomie_assistee_ia.md"
     - "research/noyau_doctrinal_rendre_capable.md"
   may_generate:
@@ -38,6 +41,9 @@ corpus_hierarchy:
     - "page de présentation en anglais : Mariani School of Autonomy"
 related_documents:
   - "research/serenia_autonomie_assistee_ia.md"
+  - "research/homeostasie_habitat.md"
+  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
+  - "research/cas_maison_urbaine_corte_autonomie.md"
   - "research/noyau_doctrinal_rendre_capable.md"
   - "research/autonomia.md"
   - "research/democratie_capable.md"
@@ -71,7 +77,7 @@ La formule centrale est :
 
 L’IA joue un rôle central dans ce programme, non comme autorité qui décide à la place des personnes, mais comme outil d’augmentation de capacité : expliquer, reformuler, calculer, comparer, documenter, simuler, préparer, mémoriser et transmettre. Elle devient désirable lorsqu’elle aide les personnes à redevenir capables dans leur vie matérielle et administrative réelle.
 
-Le premier cas-école identifié est le remplacement d’un cumulus électrique dépendant d’EDF par un système d’eau chaude hybride : mesure des besoins réels, réemploi éventuel d’une cheminée, chauffe-eau gaz d’appoint, réduction des pertes, préparation au solaire thermique, possibilité future de gaz renouvelable, documentation assistée par IA. Ce cas apparemment trivial révèle toute la méthode : partir du réel, comprendre l’existant, distinguer sécurité réelle et précautions historiques, réduire les dépendances, puis transmettre une capacité.
+Depuis l’introduction de la notion d’homéostasie de l’habitat, le programme doit être lu plus précisément : il ne vise pas seulement l’optimisation des équipements, mais la conservation de fonctions importantes dans des conditions réelles, y compris en mode dégradé.
 
 ---
 
@@ -177,7 +183,8 @@ Elle doit aider à :
 - préparer une liste d’achats ;
 - documenter une installation ;
 - simuler une trajectoire de réduction de dépendance ;
-- transformer un cas particulier en module transmissible.
+- transformer un cas particulier en module transmissible ;
+- organiser un diagnostic lorsque les bons signaux sont disponibles.
 
 Mais l’IA ne doit pas :
 
@@ -190,7 +197,7 @@ Mais l’IA ne doit pas :
 
 La formule à retenir est :
 
-> IA = suggestion, éclairage, simulation, reformulation et documentation. Décision = personne informée, accompagnée, responsable.
+> IA = suggestion, éclairage, simulation, reformulation, diagnostic assisté et documentation. Décision = personne informée, accompagnée, responsable.
 
 Le coach d’autonomie apprend donc à la personne à bien utiliser l’IA : poser le bon problème, fournir le contexte utile, vérifier la réponse, demander des alternatives, distinguer les faits des hypothèses, garder les preuves et reprendre la main.
 
@@ -264,11 +271,9 @@ mesurer le besoin réel d’eau chaude
 → prévoir une trajectoire évolutive
 ```
 
-### 6.3 Gaz comme appoint transitoire
+### 6.3 Cumulus, gaz et trajectoire hybride
 
-Dans le cas discuté, l’ancien conduit de cheminée, utilisé ensuite pour une hotte aspirante, peut redevenir un conduit dédié si un diagnostic conclut à sa compatibilité.
-
-Le chauffe-eau gaz n’est alors pas la finalité. Il est un module d’appoint et d’apprentissage.
+Le chauffe-eau gaz n’est pas la finalité. Il est un module d’appoint et d’apprentissage.
 
 L’objectif n’est pas de remplacer une dépendance EDF par une dépendance définitive au butane.
 
@@ -276,6 +281,8 @@ La trajectoire correcte est :
 
 ```text
 cumulus EDF opaque
+→ mesure du besoin réel
+→ réemploi possible du cumulus comme réserve thermique pilotée
 → système gaz d’appoint instrumenté
 → réduction des pertes
 → préchauffage solaire thermique
@@ -283,6 +290,8 @@ cumulus EDF opaque
 → gaz renouvelable possible
 → baisse progressive de la dépendance électrique
 ```
+
+Le document satellite `research/ecole_mariani_autonomie_terrains_pilotes.md` développe cette trajectoire et les quatre premiers terrains pilotes.
 
 ### 6.4 Particularité corse
 
@@ -315,43 +324,52 @@ L’enjeu est de distinguer la sécurité réelle des précautions historiques r
 
 ---
 
-## 7. Maisons individuelles, appartements, copropriétés
+## 7. Habitat homéostatique et modes dégradés
+
+L’École Mariani de l’Autonomie ne vise pas seulement à optimiser des installations ou à remplacer des équipements. Elle vise à rendre les personnes capables de comprendre et maintenir les fonctions importantes de leur milieu domestique.
+
+Cette perspective conduit à penser l’habitat comme un système homéostatique.
+
+Un logement autonome n’est pas un logement qui ne tombe jamais en panne. C’est un logement dont les fonctions importantes restent disponibles autant que possible, dont les écarts deviennent visibles, dont les pannes peuvent être diagnostiquées, et dont les modes dégradés ne rendent pas l’habitant impuissant.
+
+Dans le cas de l’eau chaude, par exemple, le mode dégradé acceptable n’est pas nécessairement l’eau à température parfaite. La fonction primaire est d’abord l’accès à l’eau. Une eau froide ou tiède pendant une panne brève est une perte de confort ; l’absence d’eau est une rupture de fonction.
+
+Cette distinction doit devenir un principe pédagogique de l’École :
+
+- distinguer fonction essentielle, fonction de confort et fonction d’optimisation ;
+- mesurer avant de conclure ;
+- prévoir des capteurs utiles ;
+- prévoir des actionneurs compréhensibles et testables ;
+- conserver un mode manuel ou dégradé ;
+- utiliser l’IA comme aide au diagnostic et non comme autorité opaque.
+
+Document pivot : `research/homeostasie_habitat.md`.
+
+Formule :
+
+> L’autonomie n’est pas l’absence de panne. C’est la capacité à ne pas devenir impuissant quand une panne survient.
+
+---
+
+## 8. Maisons individuelles, appartements, copropriétés
 
 L’autonomie énergétique ne peut pas être pensée de la même manière selon le type d’habitat.
 
-### 7.1 Maison individuelle
+### 8.1 Maison individuelle
 
-En maison individuelle, l’habitant dispose souvent d’un pouvoir direct sur :
-
-- la toiture ;
-- les murs ;
-- les conduits ;
-- le terrain ;
-- les locaux techniques ;
-- les circuits intérieurs ;
-- le stockage ;
-- les choix d’équipements.
+En maison individuelle, l’habitant dispose souvent d’un pouvoir direct sur la toiture, les murs, les conduits, le terrain, les locaux techniques, les circuits intérieurs, le stockage et les choix d’équipements.
 
 La stratégie peut donc commencer par l’infrastructure : eau chaude, solaire thermique, photovoltaïque, stockage, courant continu, récupération d’eau, atelier, réparation, petit outillage.
 
-### 7.2 Appartement
+### 8.2 Appartement
 
 En appartement, l’habitant n’a généralement pas accès à la toiture. Il ne maîtrise pas la façade, les conduits collectifs, les gaines, les parties communes ou les décisions de copropriété.
 
 La seule énergie immédiatement accessible est souvent le soleil qui entre par les fenêtres, avec éventuellement un balcon ou de petits dispositifs réversibles selon les règles applicables.
 
-La stratégie doit donc commencer par la personne :
+La stratégie doit donc commencer par la personne : compréhension des factures, réduction des usages inutiles, gestion de la lumière, de la chaleur, de la ventilation, capteurs simples, petits équipements basse consommation, autonomie administrative et numérique, préparation de propositions au syndic ou à la copropriété, montée en capacité individuelle avant mutualisation.
 
-- compréhension des factures ;
-- réduction des usages inutiles ;
-- gestion de la lumière, de la chaleur, de la ventilation ;
-- capteurs simples ;
-- petits équipements basse consommation ;
-- autonomie administrative et numérique ;
-- préparation de propositions au syndic ou à la copropriété ;
-- montée en capacité individuelle avant mutualisation.
-
-### 7.3 Copropriété
+### 8.3 Copropriété
 
 La copropriété peut ouvrir des possibilités importantes : toiture solaire, eau chaude collective, isolation, ventilation, batteries mutualisées, ateliers partagés, achats groupés.
 
@@ -365,7 +383,7 @@ Formule synthétique :
 
 ---
 
-## 8. Architecture pédagogique provisoire
+## 9. Architecture pédagogique provisoire
 
 L’École Mariani de l’Autonomie peut être structurée en parcours modulaires.
 
@@ -373,131 +391,41 @@ L’École Mariani de l’Autonomie peut être structurée en parcours modulaire
 
 Objectif : donner à la personne les bases pour utiliser l’IA comme outil d’augmentation de capacité.
 
-Contenus :
-
-- formuler une demande ;
-- contextualiser ;
-- demander des hypothèses ;
-- vérifier ;
-- distinguer fait, interprétation, conseil ;
-- produire une synthèse ;
-- conserver des traces ;
-- transformer une conversation utile en document réutilisable.
-
 ### Module 2 — Administration, droits, preuves
 
 Objectif : prolonger Serenia dans une logique d’autonomie administrative, numérique et cognitive.
-
-Contenus :
-
-- courriers ;
-- dossiers ;
-- plateformes ;
-- preuves ;
-- délais ;
-- contestations ;
-- comptes personnels ;
-- mots de passe ;
-- classement documentaire.
 
 ### Module 3 — Budget et pouvoir d’achat
 
 Objectif : rendre visibles les flux financiers qui capturent la personne.
 
-Contenus :
+### Module 4 — Logement, énergie, eau et habitat homéostatique
 
-- dépenses fixes ;
-- abonnements ;
-- dettes ;
-- aides non demandées ;
-- échéances ;
-- arbitrages ;
-- scénarios de réduction de dépenses ;
-- pouvoir d’achat récupérable par compréhension.
+Objectif : transformer le logement en système lisible, capable de maintenir ses fonctions importantes et de rendre ses écarts diagnostiquables.
 
-### Module 4 — Logement, énergie et eau
-
-Objectif : transformer le logement en système lisible.
-
-Contenus :
-
-- lecture du logement ;
-- eau chaude ;
-- chauffage ;
-- ventilation ;
-- humidité ;
-- consommation électrique ;
-- solaire thermique ;
-- stockage thermique ;
-- réduction des pertes ;
-- sécurité gaz, CO, 230 V, batteries.
+Contenus : lecture du logement, eau chaude, chauffage, ventilation, humidité, consommation électrique, solaire thermique, stockage thermique, réduction des pertes, sécurité gaz, CO, 230 V, batteries, capteurs, actionneurs, modes dégradés.
 
 ### Module 5 — Courant continu et énergie en packets
 
 Objectif : préparer la bascule vers des architectures locales sobres, distribuées et gouvernables.
 
-Contenus :
-
-- différence AC / DC ;
-- usages critiques basse tension ;
-- batteries ;
-- petits panneaux ;
-- routeurs, téléphones, éclairage, capteurs ;
-- arbitrage logiciel ;
-- énergie comme ressource mesurable, priorisable, routable ;
-- première introduction à FractaVolta.
+Contenus : différence AC / DC, usages critiques basse tension, batteries, petits panneaux, routeurs, téléphones, éclairage, capteurs, arbitrage logiciel, énergie comme ressource mesurable, priorisable, routable, première introduction à FractaVolta.
 
 ### Module 6 — Alimentation, mobilité, réparation
 
 Objectif : élargir l’autonomie au-delà du logement.
 
-Contenus :
-
-- cuisine simple et économique ;
-- conservation ;
-- anti-gaspillage ;
-- entretien vélo ou VAE ;
-- autopartage ;
-- réparation de petits objets ;
-- réemploi ;
-- choix d’achat ;
-- documentation des pannes.
-
 ### Module 7 — Mutualisation locale et Paese Capace
 
 Objectif : passer de personnes capables à des collectifs capables.
 
-Contenus :
-
-- voisins ;
-- achats groupés ;
-- outils partagés ;
-- ateliers ;
-- stockage ;
-- véhicules partagés ;
-- copropriétés ;
-- gouvernance traçable ;
-- autonomie sans autarcie.
-
 ### Module 8 — Formation des coachs d’autonomie
 
-Objectif : former les personnes capables d’accompagner les autres.
-
-Contenus :
-
-- pédagogie ;
-- posture non directive ;
-- usage prudent de l’IA ;
-- diagnostic situé ;
-- documentation ;
-- limites de compétence ;
-- sécurité réelle ;
-- distinction entre accompagnement et substitution ;
-- transmission.
+Objectif : former les personnes capables d’accompagner les autres : pédagogie, posture non directive, usage prudent de l’IA, diagnostic situé, documentation, limites de compétence, sécurité réelle, distinction entre accompagnement et substitution, transmission.
 
 ---
 
-## 9. Posture du coach d’autonomie
+## 10. Posture du coach d’autonomie
 
 Le coach d’autonomie doit éviter deux dérives.
 
@@ -521,7 +449,7 @@ Cette posture rejoint l’esprit de Serenia : ne pas faire à la place quand la 
 
 ---
 
-## 10. Économie de la capacité
+## 11. Économie de la capacité
 
 Le modèle économique de l’École Mariani de l’Autonomie ne repose pas seulement sur une baisse de coût immédiate.
 
@@ -529,16 +457,7 @@ Il repose sur la transformation du coût en capacité.
 
 Dans un modèle classique, l’usager paie pour une prestation. Dans le meilleur des cas, il reçoit une installation conforme. Mais il reste souvent incapable de comprendre, d’entretenir, de modifier ou de négocier.
 
-Dans un modèle de coaching d’autonomie, l’usager paie pour :
-
-- comprendre son problème ;
-- acquérir une méthode ;
-- réduire ses dépendances ;
-- apprendre à dialoguer avec des professionnels ;
-- éviter les devis opaques ;
-- préparer lui-même ce qui peut l’être ;
-- documenter son logement ou son dossier ;
-- garder une trace transmissible.
+Dans un modèle de coaching d’autonomie, l’usager paie pour comprendre son problème, acquérir une méthode, réduire ses dépendances, apprendre à dialoguer avec des professionnels, éviter les devis opaques, préparer lui-même ce qui peut l’être, documenter son logement ou son dossier, garder une trace transmissible.
 
 Le gain immédiat peut être économique. Mais le gain principal est cumulatif.
 
@@ -550,7 +469,7 @@ Un collectif plus capable devient moins administré par l’opacité.
 
 ---
 
-## 11. Nom et traduction
+## 12. Nom et traduction
 
 Nom français proposé :
 
@@ -574,7 +493,7 @@ La formule courte à retenir :
 
 ---
 
-## 12. Produits déclinés possibles
+## 13. Produits déclinés possibles
 
 Ce document source peut produire plusieurs produits déclinés :
 
@@ -587,43 +506,46 @@ Ce document source peut produire plusieurs produits déclinés :
 7. une version anglaise ;
 8. une note pour C.O.R.S.I.C.A. et l’Institut Mariani ;
 9. une présentation à France Travail, France Services, collectivités ou partenaires associatifs ;
-10. une grille d’évaluation des gains de capacité.
+10. une grille d’évaluation des gains de capacité ;
+11. une fiche “habitat homéostatique”.
 
 ---
 
-## 13. Continuations à explorer
+## 14. Continuations à explorer
 
-Ce document appelle plusieurs continuations.
-
-### 13.1 Programme pédagogique détaillé
+### 14.1 Programme pédagogique détaillé
 
 Produire une version opérationnelle du cursus : durée, modules, compétences, prérequis, exercices, validations, livrables.
 
-### 13.2 Premier module : eau chaude hybride
+### 14.2 Premier module : eau chaude hybride
 
-Formaliser le cas-école : cumulus EDF, chauffe-eau gaz, solaire thermique, gaz renouvelable, instrumentation, sécurité, bilan usager, bilan carbone corse.
+Formaliser le cas-école : cumulus EDF, cumulus comme réserve thermique pilotée, chauffe-eau gaz, solaire thermique, gaz renouvelable, instrumentation, sécurité, bilan usager, bilan carbone corse.
 
-### 13.3 Référentiel du coach d’autonomie
+### 14.3 Référentiel du coach d’autonomie
 
 Définir les compétences, limites, responsabilités, interdictions, méthodes et critères d’évaluation du coach.
 
-### 13.4 Distinction maison / appartement / copropriété
+### 14.4 Distinction maison / appartement / copropriété
 
 Produire trois fiches séparées, car les capacités réelles d’action ne sont pas les mêmes.
 
-### 13.5 IA et corpus personnel
+### 14.5 Habitat homéostatique
+
+Décliner `research/homeostasie_habitat.md` en fiche pédagogique : fonctions essentielles, modes dégradés, capteurs, actionneurs, diagnostic assisté par IA.
+
+### 14.6 IA et corpus personnel
 
 Relier l’École Mariani de l’Autonomie à Cogentia : comment une personne construit progressivement son corpus personnel, ses traces, ses décisions, ses apprentissages et ses continuations.
 
-### 13.6 Modèle économique
+### 14.7 Modèle économique
 
 Définir les modalités possibles : association, atelier, formation, parcours individuel, financement par tiers, contribution libre, modèle hybride, intervention auprès de collectivités ou d’organismes publics.
 
 ---
 
-## 14. Conclusion provisoire
+## 15. Conclusion provisoire
 
-L’École Mariani de l’Autonomie part d’une intuition simple : les personnes ne manquent pas seulement d’équipements. Elles manquent souvent de capacité à comprendre, décider, faire, maintenir, négocier et transmettre.
+L’École Mariani de l’Autonomie part d’une intuition simple : les personnes ne manquent pas seulement d’équipements. Elles manquent souvent de capacité à comprendre, décider, faire, maintenir, diagnostiquer, négocier et transmettre.
 
 L’IA peut aggraver cette dépossession si elle devient une autorité opaque de plus.
 
