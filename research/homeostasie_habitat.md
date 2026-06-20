@@ -3,7 +3,7 @@ title: "Homéostasie de l’habitat"
 subtitle: "Diagnostic, modes dégradés et agents IA pour l’autonomie domestique"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.1"
+version: "0.2"
 date: "2026-06-20"
 repository: "barons-Mariani"
 path: "research/homeostasie_habitat.md"
@@ -21,6 +21,7 @@ tags:
   - mode dégradé
   - autonomie de capacité
   - FractaVolta
+  - Serenia
 corpus_hierarchy:
   level: "source_note"
   role: "note conceptuelle sur l’habitat comme système homéostatique"
@@ -28,20 +29,25 @@ corpus_hierarchy:
     - "research/ecole_mariani_autonomie.md"
     - "research/ecole_mariani_autonomie_terrains_pilotes.md"
     - "conversation ChatGPT du 2026-06-20 sur le cumulus comme inertie thermique pilotée"
+    - "conversation ChatGPT du 2026-06-20 sur le mode dégradé et l’homéostasie de l’habitat"
   may_generate:
     - "fiche technique habitat homéostatique"
     - "module pédagogique diagnostic assisté par IA"
     - "fiche eau chaude en mode dégradé"
+    - "grille des fonctions essentielles de l’habitat"
     - "article Substack sur l’homéostasie de l’habitat"
 related_documents:
   - "research/ecole_mariani_autonomie.md"
   - "research/ecole_mariani_autonomie_terrains_pilotes.md"
+  - "research/cas_maison_urbaine_corte_autonomie.md"
+  - "research/serenia_autonomie_assistee_ia.md"
   - "research/noyau_doctrinal_rendre_capable.md"
 related_projects:
   - "École Mariani de l’Autonomie"
   - "FractaVolta"
   - "Cogentia"
   - "Paese Capace"
+  - "Serenia"
 ---
 
 # Homéostasie de l’habitat
@@ -90,7 +96,7 @@ La bonne question est :
 
 ## 2. Application à l’eau chaude
 
-Dans le cas du circuit d’eau chaude hybride, trois niveaux doivent être distingués :
+Dans le cas du circuit d’eau chaude hybride, trois niveaux doivent être distingués.
 
 ### 2.1 Fonction vitale ou primaire
 
@@ -295,7 +301,33 @@ Formule :
 
 ---
 
-## 8. Lien avec FractaVolta
+## 8. Documents impactés
+
+Cette note doit irriguer plusieurs documents du corpus sans nécessairement les absorber.
+
+### 8.1 École Mariani de l’Autonomie
+
+`research/ecole_mariani_autonomie.md` doit intégrer l’idée que l’autonomie ne vise pas seulement l’optimisation ou l’équipement, mais la conservation de fonctions importantes en mode dégradé. L’école forme donc des coachs capables d’apprendre aux personnes à lire, tester, diagnostiquer et restaurer leurs systèmes domestiques.
+
+### 8.2 Terrains pilotes
+
+`research/ecole_mariani_autonomie_terrains_pilotes.md` doit utiliser l’homéostasie comme grille commune : chaque terrain doit distinguer ses fonctions essentielles, ses fonctions de confort, ses fonctions d’optimisation, ses capteurs, ses actionneurs et ses modes dégradés.
+
+### 8.3 Maison individuelle urbaine à Corte
+
+`research/cas_maison_urbaine_corte_autonomie.md` devient un terrain privilégié pour tester l’homéostasie complète d’un foyer : eau, froid alimentaire, éclairage minimal, communication, chauffage minimal, mobilité, données, capacité de retour à EDF ou à un mode secours.
+
+### 8.4 Serenia
+
+`research/serenia_autonomie_assistee_ia.md` peut être relié à cette note parce qu’il applique déjà la même méthode aux démarches administratives : ne pas faire à la place, mais rendre la personne capable de comprendre, diagnostiquer, préparer, suivre et corriger.
+
+### 8.5 Noyau doctrinal
+
+`research/noyau_doctrinal_rendre_capable.md` doit lire l’homéostasie de l’habitat comme une application concrète de la logique des modes dégradés : maintenir une capacité minimale lorsque le fonctionnement nominal disparaît.
+
+---
+
+## 9. Lien avec FractaVolta
 
 L’homéostasie de l’habitat prépare naturellement FractaVolta.
 
@@ -319,17 +351,17 @@ Un habitat homéostatique peut donc être vu comme un premier nœud FractaVolta 
 
 ---
 
-## 9. Continuations
+## 10. Continuations
 
-### 9.1 Fiche eau chaude homéostatique
+### 10.1 Fiche eau chaude homéostatique
 
 Produire une fiche spécifique sur le circuit eau chaude : capteurs, actionneurs, by-pass, diagnostic IA, modes dégradés.
 
-### 9.2 Référentiel des fonctions essentielles
+### 10.2 Référentiel des fonctions essentielles
 
 Définir, pour un logement, les fonctions à maintenir : eau, lumière, communication, sécurité, froid alimentaire, chauffage minimal, mobilité, données.
 
-### 9.3 Grille des modes dégradés
+### 10.3 Grille des modes dégradés
 
 Créer une grille distinguant :
 
@@ -340,13 +372,13 @@ Créer une grille distinguant :
 - risque sanitaire ;
 - risque vital.
 
-### 9.4 Agents de diagnostic
+### 10.4 Agents de diagnostic
 
 Définir les premiers agents IA spécialisés : agent eau chaude, agent énergie, agent humidité, agent batterie, agent facture, agent maintenance.
 
 ---
 
-## 10. Conclusion
+## 11. Conclusion
 
 L’habitat autonome ne doit pas être conçu comme une machine parfaite.
 
