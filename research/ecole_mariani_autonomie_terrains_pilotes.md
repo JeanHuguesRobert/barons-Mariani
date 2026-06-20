@@ -3,8 +3,8 @@ title: "École Mariani de l’Autonomie — terrains pilotes"
 subtitle: "Quatre cas d’usage pour former des coachs d’autonomie augmentée par IA"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.1"
-date: "2026-06-17"
+version: "0.2"
+date: "2026-06-20"
 repository: "barons-Mariani"
 path: "research/ecole_mariani_autonomie_terrains_pilotes.md"
 type: "source_note"
@@ -25,18 +25,22 @@ tags:
   - courant continu
   - micro-hydro
   - solaire
+  - stockage thermique
+  - inertie thermique
 corpus_hierarchy:
   level: "source_note"
   role: "carte des terrains pilotes expérimentaux"
   derived_from:
     - "research/ecole_mariani_autonomie.md"
     - "conversation ChatGPT du 2026-06-17 sur l’École Mariani de l’Autonomie"
+    - "conversation ChatGPT du 2026-06-20 sur le réemploi du cumulus comme inertie thermique pilotée"
     - "contexte conversationnel récent sur un cas pilote anonymisé de maison individuelle urbaine à Corte"
   may_generate:
     - "fiche terrain pilote eau chaude domestique"
     - "fiche terrain pilote Minesteggio"
     - "fiche terrain pilote La Maison Blanche"
     - "fiche terrain pilote maison individuelle urbaine à Corte"
+    - "fiche technique cumulus comme stockage thermique piloté"
     - "programme pédagogique par cas d’usage"
     - "grille d’audit autonomie énergétique"
     - "article Substack grand public"
@@ -130,6 +134,7 @@ Trajectoire possible :
 cumulus EDF
 → mesure du besoin réel
 → réduction des pertes
+→ réemploi possible du cumulus comme stockage thermique
 → appoint gaz transitoire
 → préchauffage solaire thermique
 → stockage thermique
@@ -156,6 +161,116 @@ Ce cas est idéal pour commencer parce qu’il est simple, parlant et immédiate
 Mais il enseigne une idée plus profonde :
 
 > L’autonomie utile n’est pas le remplacement d’une énergie par une autre. C’est le changement d’architecture, de compréhension et de capacité.
+
+### 2.5 Réemploi du cumulus comme inertie thermique pilotée
+
+Le cumulus ne doit pas être pensé uniquement comme un appareil EDF à supprimer.
+
+Il peut aussi être réemployé comme réserve thermique, c’est-à-dire comme masse d’eau capable d’augmenter l’inertie thermique utile de l’habitation ou du système d’eau chaude.
+
+Dans cette hypothèse, le cumulus cesse d’être une boîte noire commandée uniquement par EDF. Il devient un réservoir instrumenté et pilotable.
+
+L’eau froide venant du réseau d’adduction n’a pas toujours la même température. Cette température varie selon la saison, la profondeur des conduites, l’heure, le climat local et l’histoire récente du réseau.
+
+Il peut donc être rationnel de choisir dynamiquement entre :
+
+- utiliser directement l’eau froide du réseau comme entrée du générateur d’eau chaude ;
+- utiliser l’eau stockée dans le cumulus si elle constitue déjà une réserve plus favorable ;
+- utiliser le cumulus comme ballon tampon préchauffé par le soleil ou par un autre surplus ;
+- éviter de réchauffer inutilement un volume entier lorsque l’usage immédiat ne le justifie pas.
+
+L’idée n’est pas seulement de produire de l’eau chaude. Elle est d’arbitrer entre plusieurs états thermiques disponibles.
+
+#### Circuit expérimental de principe
+
+```text
+Réseau eau froide
+   │
+   ├── sonde T° réseau
+   │
+   ├── électrovanne A ────────────────┐
+   │                                  │
+   │                                  ↓
+   │                           générateur d’appoint
+   │                           gaz / solaire / autre
+   │                                  ↓
+   │                           mitigeur thermostatique
+   │                                  ↓
+   │                           usage eau chaude
+   │
+   └── électrovanne B
+          ↓
+      cumulus réemployé
+      comme réserve thermique
+          │
+          ├── sonde T° haut ballon
+          ├── sonde T° bas ballon
+          ├── capteur pression éventuel
+          ├── capteur débit éventuel
+          │
+          └── électrovanne C ─────────┘
+```
+
+Dans ce schéma, le système peut choisir :
+
+```text
+si T° cumulus utile > T° réseau
+→ puiser dans le cumulus comme préchauffage
+
+si T° réseau suffisante ou meilleure
+→ court-circuiter le cumulus
+
+si surplus solaire ou autre énergie disponible
+→ charger thermiquement le cumulus
+
+si besoin immédiat fort
+→ utiliser générateur d’appoint en complément
+```
+
+#### Capteurs minimaux
+
+- température eau réseau ;
+- température haut du cumulus ;
+- température bas du cumulus ;
+- température sortie vers usage ;
+- débit eau ;
+- éventuellement pression ;
+- éventuellement état de charge thermique estimé du ballon.
+
+#### Actionneurs minimaux
+
+- électrovanne d’entrée réseau directe ;
+- électrovanne d’entrée cumulus ;
+- électrovanne de sortie cumulus ;
+- vanne de by-pass manuel de sécurité ;
+- mitigeur thermostatique mécanique en sortie pour éviter toute eau trop chaude ;
+- clapets anti-retour pour éviter les retours parasites entre circuits.
+
+#### Logique pédagogique
+
+Ce sous-cas est important parce qu’il montre qu’un équipement existant peut être requalifié.
+
+Le cumulus n’est plus seulement :
+
+```text
+résistance EDF + ballon opaque
+```
+
+Il devient :
+
+```text
+réserve thermique mesurée
++ élément d’inertie
++ support de pilotage
++ ressource de préchauffage
++ banc d’apprentissage
+```
+
+Cette idée est très cohérente avec l’École Mariani de l’Autonomie : on ne remplace pas toujours l’ancien par du neuf ; on commence par comprendre ce que l’ancien peut encore faire, autrement.
+
+Formule :
+
+> Réemployer, ce n’est pas conserver l’ancien usage. C’est retrouver une capacité cachée dans un équipement déjà là.
 
 ---
 
@@ -456,7 +571,7 @@ Il est familial, économique et social : une autonomie réussie doit être accep
 
 | Terrain | Type | Ressource principale | Problème central | Enseignement principal |
 |---|---|---|---|---|
-| Eau chaude domestique | foyer ordinaire | gaz, solaire thermique, sobriété | remplacer une boîte noire EDF | autonomie = compréhension + architecture |
+| Eau chaude domestique | foyer ordinaire | gaz, solaire thermique, sobriété, stockage thermique réemployé | remplacer une boîte noire EDF | autonomie = compréhension + architecture |
 | Minesteggio | résidence d’été patrimoniale | soleil, Orta, micro-hydro possible | alimenter un lieu saisonnier | autonomie = rythme du lieu |
 | La Maison Blanche | maison expérimentale | solaire, stockage, DC | tester et documenter | autonomie = méthode reproductible |
 | Maison urbaine à Corte | foyer familial réel | toiture sud, bois, chauffe-eau thermodynamique, garage | réduire EDF en ville | autonomie = arbitrage familial et urbain |
@@ -514,6 +629,23 @@ Chaque terrain pilote doit être documenté avec une grille commune.
 - ce qui doit rester confié à un professionnel ;
 - ce qui doit être documenté.
 
+### 7.5 Données thermiques spécifiques
+
+Pour les cas impliquant eau chaude, cumulus, ballon tampon ou stockage thermique, il faut aussi relever :
+
+- température de l’eau réseau selon saison ;
+- température haut et bas du ballon ;
+- volume utile du ballon ;
+- isolation du ballon ;
+- pertes de maintien ;
+- fréquence réelle des usages ;
+- potentiel de préchauffage solaire ;
+- possibilité de by-pass ;
+- possibilité de pilotage par électrovannes ;
+- sécurité anti-brûlure par mitigeur thermostatique ;
+- présence de clapets anti-retour ;
+- stratégie de secours manuel.
+
 ---
 
 ## 8. Rôle de l’IA dans les terrains pilotes
@@ -558,6 +690,8 @@ Produire une fiche confidentielle complète, puis une fiche publique anonymisée
 ### 9.4 Fiche eau chaude autonome
 
 Formaliser le cas du cumulus EDF comme module pédagogique inaugural : eau chaude, gaz, solaire, sécurité, IA, pouvoir d’achat, bilan carbone corse.
+
+Cette fiche devra inclure le scénario de réemploi du cumulus comme stockage thermique piloté : capteurs de température, éventuels capteurs de pression et de débit, électrovannes, by-pass manuel, mitigeur thermostatique, clapets anti-retour, et logique d’arbitrage entre eau du réseau, réserve du cumulus, préchauffage solaire et appoint.
 
 ### 9.5 Référentiel d’audit
 
