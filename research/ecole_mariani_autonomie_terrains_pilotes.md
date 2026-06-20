@@ -3,7 +3,7 @@ title: "École Mariani de l’Autonomie — terrains pilotes"
 subtitle: "Quatre cas d’usage pour former des coachs d’autonomie augmentée par IA"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.2"
+version: "0.3"
 date: "2026-06-20"
 repository: "barons-Mariani"
 path: "research/ecole_mariani_autonomie_terrains_pilotes.md"
@@ -18,6 +18,8 @@ tags:
   - coaching
   - énergie
   - logement
+  - homéostasie de l’habitat
+  - modes dégradés
   - Minesteggio
   - La Maison Blanche
   - Corte
@@ -32,6 +34,7 @@ corpus_hierarchy:
   role: "carte des terrains pilotes expérimentaux"
   derived_from:
     - "research/ecole_mariani_autonomie.md"
+    - "research/homeostasie_habitat.md"
     - "conversation ChatGPT du 2026-06-17 sur l’École Mariani de l’Autonomie"
     - "conversation ChatGPT du 2026-06-20 sur le réemploi du cumulus comme inertie thermique pilotée"
     - "contexte conversationnel récent sur un cas pilote anonymisé de maison individuelle urbaine à Corte"
@@ -41,11 +44,13 @@ corpus_hierarchy:
     - "fiche terrain pilote La Maison Blanche"
     - "fiche terrain pilote maison individuelle urbaine à Corte"
     - "fiche technique cumulus comme stockage thermique piloté"
-    - "programme pédagogique par cas d’usage"
     - "grille d’audit autonomie énergétique"
+    - "grille homéostatique de l’habitat"
     - "article Substack grand public"
 related_documents:
   - "research/ecole_mariani_autonomie.md"
+  - "research/homeostasie_habitat.md"
+  - "research/cas_maison_urbaine_corte_autonomie.md"
   - "research/serenia_autonomie_assistee_ia.md"
   - "research/noyau_doctrinal_rendre_capable.md"
   - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/EDF.md"
@@ -80,6 +85,8 @@ Ces terrains couvrent quatre situations pédagogiques :
 
 La méthode commune reste la même : partir du réel, mesurer, comprendre, réduire, hybrider, documenter, sécuriser, transmettre.
 
+Depuis l’introduction de l’homéostasie de l’habitat, chaque terrain doit aussi distinguer les fonctions essentielles, les fonctions de confort, les fonctions d’optimisation et les modes dégradés acceptables.
+
 ---
 
 ## 1. Thèse
@@ -106,9 +113,33 @@ Formule :
 
 ---
 
-## 2. Terrain pilote 1 — Eau chaude domestique : du cumulus EDF au système hybride
+## 2. Grille homéostatique commune
 
-### 2.1 Situation
+Chaque terrain pilote doit être lu comme un système homéostatique situé.
+
+Pour chaque cas, le coach d’autonomie doit distinguer :
+
+| Niveau | Question | Exemples |
+|---|---|---|
+| Fonction essentielle | Qu’est-ce qui doit rester disponible ? | eau, lumière minimale, communication, sécurité |
+| Fonction importante | Qu’est-ce qui doit rester possible avec une gêne acceptable ? | eau tiède, chauffage minimal, froid alimentaire |
+| Fonction de confort | Qu’est-ce qui peut être réduit temporairement ? | température idéale, climatisation, recharge rapide |
+| Fonction d’optimisation | Qu’est-ce qui améliore le système mais ne doit pas le rendre fragile ? | routage automatique, arbitrage IA, électrovannes |
+| Mode dégradé | Que se passe-t-il si l’optimisation échoue ? | by-pass, retour manuel, EDF secours, eau froide disponible |
+| Diagnostic | Que peut-on mesurer pour comprendre ? | température, débit, pression, état batterie, production solaire |
+| Retour à stabilité | Comment revient-on à un état compréhensible ? | procédure simple, journal, intervention ciblée |
+
+Cette grille transforme les terrains pilotes en bancs d’apprentissage.
+
+Elle évite de confondre autonomie et confort permanent. Elle met l’accent sur la continuité suffisante, la lisibilité des écarts, le diagnostic et la capacité d’action.
+
+Document pivot : `research/homeostasie_habitat.md`.
+
+---
+
+## 3. Terrain pilote 1 — Eau chaude domestique : du cumulus EDF au système hybride
+
+### 3.1 Situation
 
 Le premier cas identifié est celui d’un foyer disposant d’un cumulus électrique dépendant d’EDF.
 
@@ -124,7 +155,7 @@ Il révèle pourtant plusieurs dépendances :
 - opacité des devis et des installations ;
 - absence de documentation transmissible.
 
-### 2.2 Objectif pédagogique
+### 3.2 Objectif pédagogique
 
 Transformer un appareil opaque en système compréhensible, mesurable et évolutif.
 
@@ -142,27 +173,7 @@ cumulus EDF
 → baisse progressive de la dépendance EDF
 ```
 
-### 2.3 Rôle de l’IA
-
-L’IA aide à :
-
-- calculer l’énergie nécessaire pour un bain ou une douche ;
-- distinguer puissance et énergie ;
-- comparer cumulus, gaz, solaire thermique, stockage ;
-- préparer les questions au vendeur ou au professionnel ;
-- documenter les choix ;
-- identifier les risques ;
-- transformer l’expérience en fiche pédagogique.
-
-### 2.4 Valeur du cas
-
-Ce cas est idéal pour commencer parce qu’il est simple, parlant et immédiatement lié au pouvoir d’achat.
-
-Mais il enseigne une idée plus profonde :
-
-> L’autonomie utile n’est pas le remplacement d’une énergie par une autre. C’est le changement d’architecture, de compréhension et de capacité.
-
-### 2.5 Réemploi du cumulus comme inertie thermique pilotée
+### 3.3 Réemploi du cumulus comme inertie thermique pilotée
 
 Le cumulus ne doit pas être pensé uniquement comme un appareil EDF à supprimer.
 
@@ -181,102 +192,25 @@ Il peut donc être rationnel de choisir dynamiquement entre :
 
 L’idée n’est pas seulement de produire de l’eau chaude. Elle est d’arbitrer entre plusieurs états thermiques disponibles.
 
-#### Circuit expérimental de principe
+### 3.4 Lecture homéostatique
 
-```text
-Réseau eau froide
-   │
-   ├── sonde T° réseau
-   │
-   ├── électrovanne A ────────────────┐
-   │                                  │
-   │                                  ↓
-   │                           générateur d’appoint
-   │                           gaz / solaire / autre
-   │                                  ↓
-   │                           mitigeur thermostatique
-   │                                  ↓
-   │                           usage eau chaude
-   │
-   └── électrovanne B
-          ↓
-      cumulus réemployé
-      comme réserve thermique
-          │
-          ├── sonde T° haut ballon
-          ├── sonde T° bas ballon
-          ├── capteur pression éventuel
-          ├── capteur débit éventuel
-          │
-          └── électrovanne C ─────────┘
-```
+Dans ce cas, la fonction essentielle est d’avoir de l’eau.
 
-Dans ce schéma, le système peut choisir :
+La fonction de confort est d’avoir de l’eau à la bonne température.
 
-```text
-si T° cumulus utile > T° réseau
-→ puiser dans le cumulus comme préchauffage
+La fonction d’optimisation est de choisir intelligemment entre réseau, réserve thermique, préchauffage et appoint.
 
-si T° réseau suffisante ou meilleure
-→ court-circuiter le cumulus
-
-si surplus solaire ou autre énergie disponible
-→ charger thermiquement le cumulus
-
-si besoin immédiat fort
-→ utiliser générateur d’appoint en complément
-```
-
-#### Capteurs minimaux
-
-- température eau réseau ;
-- température haut du cumulus ;
-- température bas du cumulus ;
-- température sortie vers usage ;
-- débit eau ;
-- éventuellement pression ;
-- éventuellement état de charge thermique estimé du ballon.
-
-#### Actionneurs minimaux
-
-- électrovanne d’entrée réseau directe ;
-- électrovanne d’entrée cumulus ;
-- électrovanne de sortie cumulus ;
-- vanne de by-pass manuel de sécurité ;
-- mitigeur thermostatique mécanique en sortie pour éviter toute eau trop chaude ;
-- clapets anti-retour pour éviter les retours parasites entre circuits.
-
-#### Logique pédagogique
-
-Ce sous-cas est important parce qu’il montre qu’un équipement existant peut être requalifié.
-
-Le cumulus n’est plus seulement :
-
-```text
-résistance EDF + ballon opaque
-```
-
-Il devient :
-
-```text
-réserve thermique mesurée
-+ élément d’inertie
-+ support de pilotage
-+ ressource de préchauffage
-+ banc d’apprentissage
-```
-
-Cette idée est très cohérente avec l’École Mariani de l’Autonomie : on ne remplace pas toujours l’ancien par du neuf ; on commence par comprendre ce que l’ancien peut encore faire, autrement.
+Le mode dégradé acceptable est donc un mode où l’eau reste disponible, même si elle n’est pas à température idéale pendant une panne brève.
 
 Formule :
 
-> Réemployer, ce n’est pas conserver l’ancien usage. C’est retrouver une capacité cachée dans un équipement déjà là.
+> Le bon système d’eau chaude ne doit pas rendre l’eau indisponible parce que l’optimisation thermique est en panne.
 
 ---
 
-## 3. Terrain pilote 2 — Minesteggio : autonomie d’une résidence d’été patrimoniale
+## 4. Terrain pilote 2 — Minesteggio : autonomie d’une résidence d’été patrimoniale
 
-### 3.1 Situation
+### 4.1 Situation
 
 Minesteggio est une résidence d’été. Elle n’est pas habitée en hiver.
 
@@ -295,7 +229,7 @@ Il ne s’agit pas nécessairement de couvrir des besoins continus de chauffage 
 - les événements ou visites ;
 - la préparation progressive d’un écomusée sobre.
 
-### 3.2 Ressources disponibles
+### 4.2 Ressources disponibles
 
 Deux ressources locales sont identifiées :
 
@@ -306,7 +240,7 @@ Le soleil est cohérent avec une résidence d’été : les besoins principaux a
 
 L’eau de l’Orta peut constituer une ressource complémentaire, potentiellement plus régulière, mais elle doit être abordée avec prudence : débit réel, saisonnalité, pertes de charge, droits d’usage, impact écologique, sécurité hydraulique, entretien.
 
-### 3.3 Première estimation micro-hydraulique
+### 4.3 Première estimation micro-hydraulique
 
 La puissance hydraulique théorique s’estime par :
 
@@ -333,52 +267,15 @@ Avec 20 m de dénivelé, les ordres de grandeur sont :
 
 Même une puissance faible peut être intéressante si elle est continue.
 
-Exemple :
+### 4.4 Lecture homéostatique
 
-```text
-100 W continus ≈ 2,4 kWh par jour
-```
+Minesteggio doit être lu selon son rythme propre : résidence d’été, lieu patrimonial, possible écomusée, lieu d’événements.
 
-C’est peu pour chauffer, mais significatif pour des usages sobres : capteurs, éclairage, routeur, recharge, contrôle, petits équipements, batteries, surveillance.
+Fonctions essentielles possibles : surveillance, communication, capteurs, éclairage minimal, protection contre certains risques matériels.
 
-### 3.4 Objectif pédagogique
+Fonctions de confort : éclairage abondant, froid alimentaire, outils, confort d’accueil.
 
-Minesteggio peut devenir le terrain pilote de l’autonomie patrimoniale sobre.
-
-Questions à traiter :
-
-- comment alimenter un lieu non occupé en continu ?
-- que faut-il maintenir actif hors présence humaine ?
-- quelles charges sont critiques ?
-- que peut-on couper totalement ?
-- comment stocker l’énergie ?
-- comment combiner solaire, micro-hydro éventuelle, batterie et sobriété ?
-- comment documenter un lieu patrimonial comme système vivant ?
-
-### 3.5 Architecture expérimentale possible
-
-```text
-soleil estival
-→ panneaux solaires / éventuellement solaire thermique
-→ batterie locale
-→ réseau DC sobre
-→ éclairage, capteurs, communication, petits usages
-
-Orta, si débit et droit d’usage confirmés
-→ micro-turbine basse puissance
-→ charge lente batterie
-→ maintien minimal hors présence
-```
-
-Le but n’est pas de reproduire un confort électrique illimité. Le but est de définir les usages essentiels, puis de les rendre autonomes.
-
-### 3.6 Valeur du cas
-
-Minesteggio enseigne que l’autonomie dépend du rythme du lieu.
-
-Une résidence d’été n’a pas les mêmes besoins qu’une résidence principale.
-
-Un lieu patrimonial ne doit pas être traité comme une maison standard.
+Fonctions d’optimisation : combinaison soleil / micro-hydro / batterie / réseau DC.
 
 Formule :
 
@@ -386,9 +283,7 @@ Formule :
 
 ---
 
-## 4. Terrain pilote 3 — La Maison Blanche à La Gaude : maison d’expérimentation
-
-### 4.1 Situation
+## 5. Terrain pilote 3 — La Maison Blanche à La Gaude : maison d’expérimentation
 
 La Maison Blanche à La Gaude constitue un troisième terrain d’expérimentation.
 
@@ -407,45 +302,7 @@ Elle peut servir de banc d’essai pour :
 - comparaison entre solutions commerciales et solutions sobres ;
 - documentation pédagogique.
 
-### 4.2 Objectif pédagogique
-
-La Maison Blanche peut jouer un rôle de laboratoire résidentiel.
-
-Contrairement à Minesteggio, elle n’est pas d’abord un cas patrimonial saisonnier. Elle peut être utilisée pour tester des configurations plus proches de l’habitat individuel ordinaire.
-
-Questions à traiter :
-
-- comment réduire la puissance EDF nécessaire ?
-- quels usages peuvent basculer en basse tension DC ?
-- quelle part de l’eau chaude peut être produite ou préchauffée hors EDF ?
-- quel niveau de batterie est utile sans surinvestir ?
-- comment prioriser les charges ?
-- comment rendre l’ensemble compréhensible par un habitant non spécialiste ?
-
-### 4.3 Architecture expérimentale possible
-
-```text
-mesure fine des usages
-→ réduction des pertes
-→ priorisation des charges
-→ solaire local
-→ batterie modeste
-→ réseau DC critique
-→ eau chaude hybride
-→ supervision IA / Home Assistant / outils FractaVolta
-```
-
-### 4.4 Valeur du cas
-
-La Maison Blanche peut devenir le terrain de traduction entre expérimentation personnelle et méthode transmissible.
-
-Elle permet de tester non seulement des équipements, mais surtout la pédagogie :
-
-- quels schémas sont compris ?
-- quelles mesures sont utiles ?
-- quelles interfaces aident vraiment ?
-- quelles décisions restent difficiles ?
-- comment passer d’une maison particulière à une méthode générale ?
+Lecture homéostatique : La Maison Blanche doit permettre de tester comment une maison expérimentale maintient ses fonctions importantes, rend ses écarts lisibles, et transforme l’expérience personnelle en méthode transmissible.
 
 Formule :
 
@@ -453,9 +310,9 @@ Formule :
 
 ---
 
-## 5. Terrain pilote 4 — Maison individuelle urbaine à Corte : cas anonymisé
+## 6. Terrain pilote 4 — Maison individuelle urbaine à Corte : cas anonymisé
 
-### 5.1 Statut
+### 6.1 Statut
 
 Un quatrième cas d’usage est identifié à Corte : une maison individuelle située en ville, appartenant à une personne avec laquelle une expérimentation de réduction, voire de suppression, de la dépendance à EDF est étudiée.
 
@@ -465,7 +322,7 @@ Dans le corpus public, ce cas doit donc être désigné comme :
 
 > Maison individuelle urbaine à Corte — cas pilote anonymisé.
 
-### 5.2 Situation connue
+### 6.2 Situation connue
 
 Les éléments utiles à l’étude sont :
 
@@ -482,9 +339,9 @@ Les éléments utiles à l’étude sont :
 
 Ces éléments doivent rester anonymisés dans tout produit public tant que l’accord explicite de la personne concernée n’est pas donné.
 
-### 5.3 Pourquoi ce cas est important
+### 6.3 Pourquoi ce cas est important
 
-Ce cas complète les trois autres.
+Ce cas est probablement le plus reproductible socialement.
 
 Il n’est pas un appartement. Il n’est pas une résidence patrimoniale saisonnière. Il n’est pas seulement une maison-laboratoire personnelle.
 
@@ -499,156 +356,60 @@ Il permet de tester :
 - la possibilité réelle de se couper d’EDF ou de réduire EDF au rôle de secours ;
 - la pédagogie du coach auprès d’un foyer non fictif.
 
-### 5.4 Questions à instruire
+### 6.4 Lecture homéostatique
 
-Premières questions :
+La question ne doit pas être seulement : peut-on couper EDF ?
 
-- quelle est la consommation annuelle réelle ?
-- quelle est la puissance maximale appelée ?
-- quelle part est liée à l’eau chaude ?
-- quelle part est liée à la climatisation ?
-- quelle est la saisonnalité des usages ?
-- quelle production solaire réaliste sur la toiture sud ?
-- quels masques solaires existent ?
-- quel stockage serait nécessaire pour réduire EDF au minimum ?
-- quelle place pour le bois dans l’équilibre thermique ?
-- le chauffe-eau thermodynamique existant doit-il être maintenu, piloté, remplacé ou hybridé ?
-- un véhicule électrique devient-il charge flexible, stockage d’appoint, batterie mobile ou contrainte supplémentaire ?
-- quel niveau d’autonomie est réellement désirable pour le foyer ?
+Elle devient : quelles fonctions de la maison restent disponibles si l’optimisation énergétique échoue partiellement ?
 
-### 5.5 Architecture expérimentale possible
+Fonctions à examiner : eau, froid alimentaire, éclairage minimal, communication, sécurité, chauffage minimal, mobilité, données de diagnostic, possibilité de retour à un mode secours.
 
-```text
-audit consommations
-→ mesure puissance appelée
-→ étude toiture solaire sud
-→ pilotage du chauffe-eau thermodynamique existant
-→ autoconsommation solaire
-→ batterie modeste
-→ charges critiques en DC
-→ arbitrage climatisation / confort / sobriété
-→ hypothèse véhicule électrique comme charge flexible ou batterie mobile
-→ scénario EDF secours ou coupure EDF
-```
+Le véhicule électrique, s’il arrive, ne doit pas être pensé seulement comme une consommation supplémentaire. Il peut être étudié comme charge flexible, batterie mobile, élément d’un réseau domestique de résilience, ou cas particulier d’une logique plus générale d’électricité transportable.
 
-### 5.6 Lien avec le courant continu
+Formule :
 
-Ce cas est particulièrement utile pour la transition vers le courant continu.
-
-Une maison familiale urbaine peut permettre de distinguer :
-
-- les charges qui doivent rester en 230 V AC ;
-- les charges critiques pouvant basculer en DC ;
-- les usages qui supportent l’intermittence ;
-- les usages qui peuvent être différés ;
-- les usages qui peuvent être alimentés par batterie mobile ;
-- les charges pouvant recevoir des “packets” d’énergie selon priorité.
-
-Le véhicule électrique, s’il arrive, ne doit pas être pensé seulement comme une consommation supplémentaire. Il peut être étudié comme :
-
-- charge flexible ;
-- batterie mobile ;
-- élément d’un réseau domestique de résilience ;
-- cas particulier d’une logique plus générale d’électricité transportable, en bouteilles, cartouches, batteries ou containers.
-
-Cette logique rejoint FractaVolta : l’énergie n’est pas seulement un flux continu fourni par un réseau central. Elle peut devenir une ressource mesurable, transportable, priorisable, routable et documentée.
-
-### 5.7 Valeur du cas
-
-Ce cas est probablement le plus reproductible socialement.
-
-Il permet de tester l’hypothèse suivante :
-
-> Une maison individuelle urbaine ordinaire, déjà chauffée principalement au bois, disposant d’une toiture solaire exploitable, d’un garage, d’un chauffe-eau thermodynamique et d’une possible voiture électrique, peut devenir un terrain réaliste de réduction forte de dépendance EDF.
-
-Le point pédagogique n’est pas seulement technique.
-
-Il est familial, économique et social : une autonomie réussie doit être acceptable par les habitants, maintenable dans la durée, compatible avec les usages réels, et compréhensible par les non-spécialistes.
+> Une maison autonome n’est pas celle où tout fonctionne toujours. C’est celle où l’habitant sait ce qui fonctionne encore, ce qui est perdu, ce qui peut attendre, et quoi vérifier pour retrouver un état stable.
 
 ---
 
-## 6. Comparaison des quatre terrains
+## 7. Comparaison des quatre terrains
 
 | Terrain | Type | Ressource principale | Problème central | Enseignement principal |
 |---|---|---|---|---|
-| Eau chaude domestique | foyer ordinaire | gaz, solaire thermique, sobriété, stockage thermique réemployé | remplacer une boîte noire EDF | autonomie = compréhension + architecture |
+| Eau chaude domestique | foyer ordinaire | gaz, solaire thermique, sobriété | remplacer une boîte noire EDF | autonomie = compréhension + architecture |
 | Minesteggio | résidence d’été patrimoniale | soleil, Orta, micro-hydro possible | alimenter un lieu saisonnier | autonomie = rythme du lieu |
 | La Maison Blanche | maison expérimentale | solaire, stockage, DC | tester et documenter | autonomie = méthode reproductible |
 | Maison urbaine à Corte | foyer familial réel | toiture sud, bois, chauffe-eau thermodynamique, garage | réduire EDF en ville | autonomie = arbitrage familial et urbain |
 
 ---
 
-## 7. Grille commune d’audit
+## 8. Grille commune d’audit
 
 Chaque terrain pilote doit être documenté avec une grille commune.
 
-### 7.1 Données physiques
+### 8.1 Données physiques
 
-- surface ;
-- orientation ;
-- toiture ;
-- accès au soleil ;
-- eau disponible ;
-- dénivelé éventuel ;
-- conduits ;
-- volumes techniques ;
-- possibilités de stockage.
+Surface, orientation, toiture, accès au soleil, eau disponible, dénivelé éventuel, conduits, volumes techniques, possibilités de stockage.
 
-### 7.2 Données d’usage
+### 8.2 Données d’usage
 
-- occupants ;
-- saisonnalité ;
-- présence / absence ;
-- eau chaude ;
-- chauffage ;
-- climatisation ;
-- cuisson ;
-- mobilité ;
-- outils ;
-- communication ;
-- usages critiques.
+Occupants, saisonnalité, présence / absence, eau chaude, chauffage, climatisation, cuisson, mobilité, outils, communication, usages critiques.
 
-### 7.3 Données énergétiques
+### 8.3 Données énergétiques
 
-- consommation annuelle ;
-- puissance maximale ;
-- puissance de veille ;
-- profils horaires ;
-- coûts ;
-- abonnement ;
-- dépendance EDF ;
-- sources alternatives possibles.
+Consommation annuelle, puissance maximale, puissance de veille, profils horaires, coûts, abonnement, dépendance EDF, sources alternatives possibles.
 
-### 7.4 Données capacitaires
+### 8.4 Données capacitaires
 
-- ce que la personne comprend déjà ;
-- ce qu’elle peut apprendre ;
-- ce qu’elle peut faire ;
-- ce qu’elle peut maintenir ;
-- ce qu’elle doit faire valider ;
-- ce qui doit rester confié à un professionnel ;
-- ce qui doit être documenté.
+Ce que la personne comprend déjà, ce qu’elle peut apprendre, ce qu’elle peut faire, ce qu’elle peut maintenir, ce qu’elle doit faire valider, ce qui doit rester confié à un professionnel, ce qui doit être documenté.
 
-### 7.5 Données thermiques spécifiques
+### 8.5 Données homéostatiques
 
-Pour les cas impliquant eau chaude, cumulus, ballon tampon ou stockage thermique, il faut aussi relever :
-
-- température de l’eau réseau selon saison ;
-- température haut et bas du ballon ;
-- volume utile du ballon ;
-- isolation du ballon ;
-- pertes de maintien ;
-- fréquence réelle des usages ;
-- potentiel de préchauffage solaire ;
-- possibilité de by-pass ;
-- possibilité de pilotage par électrovannes ;
-- sécurité anti-brûlure par mitigeur thermostatique ;
-- présence de clapets anti-retour ;
-- stratégie de secours manuel.
+Fonctions essentielles, fonctions de confort, fonctions d’optimisation, mode dégradé acceptable, mode critique, signaux utiles au diagnostic, procédure de retour à un état stable.
 
 ---
 
-## 8. Rôle de l’IA dans les terrains pilotes
+## 9. Rôle de l’IA dans les terrains pilotes
 
 L’IA doit aider à transformer chaque terrain en objet d’apprentissage.
 
@@ -663,7 +424,8 @@ Elle peut servir à :
 - générer les schémas explicatifs ;
 - préparer les fiches pédagogiques ;
 - documenter les décisions ;
-- conserver les continuations.
+- conserver les continuations ;
+- aider au diagnostic lorsque les capteurs fournissent des signaux exploitables.
 
 Mais elle ne décide pas.
 
@@ -673,37 +435,35 @@ La règle reste :
 
 ---
 
-## 9. Continuations à explorer
+## 10. Continuations à explorer
 
-### 9.1 Fiche terrain Minesteggio
+### 10.1 Fiche terrain Minesteggio
 
 Mesurer réellement le débit de l’Orta, la hauteur nette, les pertes de charge du tuyau agricole de 60 mm, les droits d’usage, et les besoins électriques minimaux hors présence.
 
-### 9.2 Fiche terrain La Maison Blanche
+### 10.2 Fiche terrain La Maison Blanche
 
 Relever les consommations, les usages, la toiture, les possibilités de DC critique et les expériences reproductibles.
 
-### 9.3 Fiche terrain Corte anonymisé
+### 10.3 Fiche terrain Corte anonymisé
 
 Produire une fiche confidentielle complète, puis une fiche publique anonymisée. Ne publier aucun élément permettant l’identification sans accord explicite.
 
-### 9.4 Fiche eau chaude autonome
+### 10.4 Fiche eau chaude autonome
 
 Formaliser le cas du cumulus EDF comme module pédagogique inaugural : eau chaude, gaz, solaire, sécurité, IA, pouvoir d’achat, bilan carbone corse.
 
-Cette fiche devra inclure le scénario de réemploi du cumulus comme stockage thermique piloté : capteurs de température, éventuels capteurs de pression et de débit, électrovannes, by-pass manuel, mitigeur thermostatique, clapets anti-retour, et logique d’arbitrage entre eau du réseau, réserve du cumulus, préchauffage solaire et appoint.
+### 10.5 Fiche habitat homéostatique
 
-### 9.5 Référentiel d’audit
-
-Créer une grille unique utilisable par les coachs d’autonomie pour tous les terrains.
+Décliner `research/homeostasie_habitat.md` en grille pratique utilisable par les coachs.
 
 ---
 
-## 10. Conclusion provisoire
+## 11. Conclusion provisoire
 
 Les terrains pilotes montrent que l’autonomie ne se réduit ni à une technologie, ni à une installation, ni à une coupure spectaculaire avec EDF.
 
-Elle consiste à transformer des lieux réels en systèmes compréhensibles, mesurables, sobres, hybridables, documentés et transmissibles.
+Elle consiste à transformer des lieux réels en systèmes compréhensibles, mesurables, sobres, hybridables, documentés, diagnostiquables et transmissibles.
 
 L’École Mariani de l’Autonomie doit donc partir de ces terrains.
 
@@ -717,7 +477,8 @@ La doctrine générale devient opératoire lorsqu’elle se confronte à :
 - une toiture réelle ;
 - un débit réel ;
 - une facture réelle ;
-- une personne réelle.
+- une personne réelle ;
+- une panne réelle.
 
 Formule finale :
 
