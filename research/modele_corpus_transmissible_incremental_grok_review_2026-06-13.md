@@ -11,6 +11,15 @@ review_date: "2026-06-13"
 human_validation_required: true
 source_upload: "review(16).md"
 corpus_role: "external-review"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_corpus_role: "external-review"
 ---
 
 # Constructive Review: Incremental Transmissible Corpus Model

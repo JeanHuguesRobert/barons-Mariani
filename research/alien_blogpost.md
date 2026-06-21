@@ -3,7 +3,7 @@ title: "Alien, l’IA et les intelligences xénoformes"
 subtitle: "Pourquoi nous comprenons mal les intelligences qui ne nous ressemblent pas"
 version: "v0.2"
 status: working-paper — blog derived form
-document_role: "forme déclinée pour Substack"
+document_role: "source"
 publication_target: "Les carnets du baron Mariani"
 derived_from:
   - "alien_academic_v0.7.md"
@@ -28,6 +28,14 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-06-01
 date: "2026-05-25"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_document_role: "forme déclinée pour Substack"
 ---
 
 # Alien, l’IA et les intelligences xénoformes
@@ -64,7 +72,7 @@ C’est pourquoi il faut penser l’IA non seulement comme une technologie, mais
 - [`democratic_ai_safety.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md) — articulation entre sécurité de l’IA, démocratie et humains démocratiquement équipés dans la boucle.
 - [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
 - [`derived_products.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
-- [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour comprendre les mécanismes de capture et d’invisibilisation des rapports de force.
+- [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour comprendre les mécanismes de capture et d’invisibilisation des rapports de force.
 
 ### Documents à venir
 

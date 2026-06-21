@@ -18,6 +18,14 @@ source_corpus:
   - "cogentia/research/self_contained_documents.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Contribution écrite à la commission des Lois

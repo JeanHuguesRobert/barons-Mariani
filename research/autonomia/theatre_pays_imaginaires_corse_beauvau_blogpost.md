@@ -20,6 +20,14 @@ license: "CC BY-SA 4.0"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md
 last_stamped_at: 2026-06-06
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Le théâtre des pays imaginaires de Corse

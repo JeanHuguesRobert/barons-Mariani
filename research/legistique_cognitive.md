@@ -48,6 +48,14 @@ related_projects:
   - "Ubikia"
   - "Barons Mariani"
 corpus_role: "source"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Fabriquer la loi comme un corpus vivant

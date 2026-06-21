@@ -7,6 +7,14 @@ last_stamped_at: 2026-06-01
 title: "Ubik et la dislocation du réel"
 date: "2026-05-24"
 status: "draft — auto-filled (frontmatter cleanup)"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 # Ubik et la dislocation du réel
 ## Complexité, intelligence artificielle et stabilisation procédurale

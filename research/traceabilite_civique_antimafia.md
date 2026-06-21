@@ -8,12 +8,20 @@ last_stamped_at: 2026-06-01
 x-type: campaign_note
 title: "Traçabilité civique anti-mafieuse"
 date: "2026-05-16"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Traçabilité civique anti-mafieuse
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Projet #1755](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](../the_republic_of_donkeys.md)
+> ⬅️ Previous: [Projet #1755](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](the_republic_of_donkeys.md)
 <!-- END_AUTO: trails -->
 **Documenter l’emprise sans créer une société de surveillance**
 

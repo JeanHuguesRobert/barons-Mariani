@@ -47,7 +47,7 @@ Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com
 - [`research/index.md`](research/index.md) — catalogue généré des documents du dépôt
 - [`research/corpus-status.md`](research/corpus-status.md) — état généré du corpus, backlinks et contrôles de navigation
 - [`research/second_method.md`](research/second_method.md) — noyau méthodologique commun du corpus
-- [`vigilia.md`](vigilia.md) — point d'entrée territorial sur l'anti-capture
+- [`vigilia.md`](research/vigilia.md) — point d'entrée territorial sur l'anti-capture
 
 ---
 
@@ -82,7 +82,7 @@ même qu'un espace muséal physique soit ouvert. L'horizon est un musée uchroni
 — un espace qui donne à voir ce qu'aurait pu être Minesteggio, la Corse, la
 Méditerranée, si certaines bifurcations historiques avaient pris un autre chemin.
 
-→ [Document de travail](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/uchronian_museum.md)
+→ [Document de travail](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/uchronian_museum.md)
 
 ---
 
@@ -133,7 +133,7 @@ est maximale, plutôt que de la distribuer indistinctement.
 
 Application prioritaire : la production d'inférences IA *high grade*, où la
 qualité certifiée du compute (au sens de la
-[Compute eXergy Unit](https://github.com/JeanHuguesRobert/marenostrum/blob/main/CXU_SPEC.md))
+[Compute eXergy Unit](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/CXU_SPEC.md))
 dépend directement de la qualité de l'énergie qui l'alimente. FractaVolta est
 désormais l'**opérateur de la pile intégrée** — quatre couches : énergie, compute,
 cognition (via [Cogentia](https://github.com/JeanHuguesRobert/cogentia)) et
@@ -295,7 +295,7 @@ dont la croissance est démontée monotone même lorsque le déficit absolu se
 réduit. Trois études de cas : aviation civile, modération de contenu numérique,
 mobilisation nationaliste corse.
 
-→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_law.md) · [Figures interactives](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/tocqueville_law.md) · [Figures interactives](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_figures.html) · [Lettre de soumission](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/tocqueville_cover_letter.md)
 
 ---
 
@@ -344,7 +344,7 @@ clôture du commun par la transcendance). Lit cette bascule comme une opération
 politique de capture verticale, avec des effets persistants sur la manière dont
 les institutions modernes pensent l'autorité. La version blogpost — *Dieu
 au-dessus, Dieu à côté : pourquoi l'âne compte politiquement* — articule la
-thèse à la figure de l'âne (cf [the_republic_of_donkeys](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/the_republic_of_donkeys.md))
+thèse à la figure de l'âne (cf [the_republic_of_donkeys](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/the_republic_of_donkeys.md))
 comme stabilisateur procédural pratique.
 
 → [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md) · [Version blog](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md)
@@ -361,7 +361,7 @@ récurrente d'une réussite observée en problème moral légitimant une sanctio
 informelle. La Corse y est traitée comme laboratoire anthropologique, non comme
 exception.
 
-→ [Article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/invidia.md)
+→ [Article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/invidia.md)
 
 ---
 
@@ -375,7 +375,7 @@ instance n'en assure la cohérence. S'appuie sur le cas de Marie-Louise Robert
 comme point d'appui pour une réflexion normative sur les lacunes du droit
 positif français.
 
-→ [Article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/protection_responsable.md)
+→ [Article](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/protection_responsable.md)
 
 ---
 
@@ -387,7 +387,7 @@ Cadre en trois couches (corpus immuable → extraction structurelle → médiati
 générative) traitant les œuvres littéraires comme des **espaces de possibilités
 narratives contraintes**. Illustré par PKDIS (*Philip K. Dick Interactive System*).
 
-→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/ai-based-cultural-mediation.md)
+→ [Papier](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/ai-based-cultural-mediation.md)
 
 ---
 
@@ -397,7 +397,7 @@ Architecture en cinq couches pour la gouvernance démocratique de l'IA, avec
 la Compute eXergy Unit (CXU) comme unité de compte thermodynamique. Publié
 dans le dépôt MareNostrum (CC BY-SA 4.0).
 
-→ [Papier](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+→ [Papier](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 
 ---
 
@@ -409,7 +409,7 @@ Architecture de capteurs distribués (balises LoRaWAN, RSSI, GPS) pour la
 détection d'animaux sur les routes rurales corses. Conçu pour un déploiement
 léger, sans infrastructure lourde.
 
-→ [Document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/vigilia.md)
+→ [Document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/vigilia.md)
 
 ---
 
@@ -417,7 +417,7 @@ léger, sans infrastructure lourde.
 
 *Archive spéculative — non activement développé.*
 
-→ [Document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/discret_holography.md)
+→ [Document](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/discret_holography.md)
 
 ---
 

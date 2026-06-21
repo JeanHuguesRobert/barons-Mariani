@@ -11,6 +11,14 @@ ai_assisted_by:
   - "Claude — passage au crible, 2026-05-31"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "working-note"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
 ---
 
 # Test du critère Rossignol
@@ -29,7 +37,7 @@ Cette note l'applique aux quatre dispositifs principaux du corpus. La méthode :
 
 ## 1. FractaVolta — Rossignol au sens littéral
 
-**Source :** [`fractavolta_paper.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/fractavolta_paper.md), [`docs/fr/rossignol-node.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/fr/rossignol-node.md).
+**Source :** [`fractavolta_paper.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractavolta_paper.md), [`docs/fr/rossignol-node.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/fr/rossignol-node.md).
 
 Le cas trivial — et historiquement, le générateur du critère. FractaVolta a son Rossignol **par construction** : le *Rossignol Node*, abreuvoir automatisé + station météo + chaîne énergétique mesurable autour de l'âne Rossignol à Minesteggio. Le panneau PV, la batterie, les capteurs et le journal local sont tous des éléments concrets, mesurables, situés. La chaîne `source → stockage → usage → contexte → action → journal → paquet d'énergie` se ferme sur de l'eau qui coule réellement dans une auge.
 

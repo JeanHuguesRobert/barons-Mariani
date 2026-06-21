@@ -12,6 +12,14 @@ ai_assisted_by:
   - "Claude — articulation et jonction (2026-05-30) ; alignement Rossignol §4.1–4.3 (2026-05-31)"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/stigmergie_sans_limite_haute.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Stigmergie sans limite haute
@@ -80,7 +88,7 @@ L'idée *scale-free* se laisse vérifier sur les étages que le corpus traverse 
 | Étage | Substrat de la trace | Référence du corpus |
 |---|---|---|
 | Sub-individuelle (insectes) | chimique | [stigmergie répulsive mouches](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md) |
-| Distribuée non-consciente (territoire) | capteurs, flux, infrastructure | [LE_RESEAU_INCONSCIENT (FractaVolta)](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md), [VIGILIA](../vigilia.md) |
+| Distribuée non-consciente (territoire) | capteurs, flux, infrastructure | [LE_RESEAU_INCONSCIENT (FractaVolta)](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md), [VIGILIA](vigilia.md) |
 | Cognitive (humain, IA) | narratifs, documents, échecs publiés | [cognitive_waves](cognitive_waves.md), [méthode des terrains féconds](methode_terrains_feconds.md) |
 | Corpus lui-même (auto-référence) | `audit.jsonl`, backlinks, continuations, trails | Cogentia comme corpus réactif (cf [pipeline §4.14](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)) |
 
@@ -123,7 +131,7 @@ L'alignement n'est pas métaphorique : c'est la même architecture d'attestation
 
 > *Un dispositif est un stabilisateur procédural valide s'il peut produire son Rossignol* — un point d'incarnation modeste, mesurable, vérifiable, où la chaîne d'attestation se ferme sur du réel.
 
-Sans Rossignol, le stabilisateur reste rhétorique : on parle de traces sans pouvoir en montrer une qui touche le sol. C'est exactement la critique que [*The Republic of Donkeys*](../the_republic_of_donkeys.md) adresse aux institutions sans terrain : la dignité procédurale exige un appui matériel quelque part.
+Sans Rossignol, le stabilisateur reste rhétorique : on parle de traces sans pouvoir en montrer une qui touche le sol. C'est exactement la critique que [*The Republic of Donkeys*](the_republic_of_donkeys.md) adresse aux institutions sans terrain : la dignité procédurale exige un appui matériel quelque part.
 
 > Sans limite haute en théorie ; sans limite basse en pratique : un âne, ses mouches, et leurs traces.
 

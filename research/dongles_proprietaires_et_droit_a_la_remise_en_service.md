@@ -29,6 +29,14 @@ related_projects:
   - "Ubikia"
 ai_assisted_by:
   - "ChatGPT"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels

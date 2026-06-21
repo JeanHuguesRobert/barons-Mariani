@@ -9,12 +9,20 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 date: 2026-06-15
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md
+document_role: "index"
+document_kind: "research-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-index"
+classification_confidence: "strong"
 ---
 # Research Index — barons-Mariani
 
 ## Foundation
 
-This repository hosts [`research/second_method.md`](second_method.md) — the **methodological doctrine** ("Discours de la seconde méthode") by which the AI Safety anti-capture proposal develops. The architectural axiom lives in [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md). This repository also hosts the philosophical critiques and historical analyses that ground the method (Tocqueville Law, Invidia, Uchronian museology, mimetic constraints).
+This repository hosts [`research/second_method.md`](second_method.md) — the **methodological doctrine** ("Discours de la seconde méthode") by which the AI Safety anti-capture proposal develops. The architectural axiom lives in [DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md). This repository also hosts the philosophical critiques and historical analyses that ground the method (Tocqueville Law, Invidia, Uchronian museology, mimetic constraints).
 
 ---
 
@@ -66,27 +74,27 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [École Mariani de l’Autonomie](ecole_mariani_autonomie.md) *(source note v0.1 — formation de coachs d’autonomie augmentée par IA, articulée à Serenia, FractaVolta et l’autonomie de capacité)* | this repo | 2026-06-17 |
 | [École Mariani de l’Autonomie — terrains pilotes](ecole_mariani_autonomie_terrains_pilotes.md) *(source note v0.1 — quatre terrains pilotes pour éprouver la méthode : eau chaude domestique, Minesteggio, La Maison Blanche et maison individuelle urbaine à Corte)* | this repo | 2026-06-17 |
 | [Maison individuelle urbaine à Corte — cas pilote anonymisé](cas_maison_urbaine_corte_autonomie.md) *(cas pilote anonymisé — application concrète de l’autonomie de capacité à une maison urbaine de Corte)* | this repo | 2026-06-18 |
-| [Invidia — envie et désir mimétique](../invidia.md) | this repo | 2026 |
-| [Indirect Action Under Mimetic Constraints](../mimetic_desynchronization.md) | this repo | 2026 |
-| [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](../toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
-| [VIGILIA — Distributed avoidance, signalling, and territorial perception (FR)](../vigilia.md) *(v1.3)* | this repo | 2026-05-12 |
-| [The Generalized Tocqueville Law — Progress, Rising Expectations, Structural Dissatisfaction](../tocqueville_law.md) | this repo | 2026 |
-| [The Republic of Donkeys — A Situated Micro-Experiment in Commons Governance](../the_republic_of_donkeys.md) *(v2.0)* | this repo | 2026 |
-| [Markets of Usage Transitions in Multi-Use Physical Assets](../transition_markets.md) | this repo | 2026 |
-| [Terrain Configuration Theory for Democratic AI Infrastructure](../terrain_configuration.md) | this repo | 2026 |
-| [Possibilism — Notes Toward a Research Program](../possibilism_04_2026.md) | this repo | 2026-04 |
+| [Invidia — envie et désir mimétique](invidia.md) | this repo | 2026 |
+| [Indirect Action Under Mimetic Constraints](mimetic_desynchronization.md) | this repo | 2026 |
+| [Toy Story, AI, and Mimetic Desynchronization — Cultural Strategy for Cognitive Transition](toy_story.md) *(v6.0)* | this repo | 2026-05-11 |
+| [VIGILIA — Distributed avoidance, signalling, and territorial perception (FR)](vigilia.md) *(v1.3)* | this repo | 2026-05-12 |
+| [The Generalized Tocqueville Law — Progress, Rising Expectations, Structural Dissatisfaction](tocqueville_law.md) | this repo | 2026 |
+| [The Republic of Donkeys — A Situated Micro-Experiment in Commons Governance](the_republic_of_donkeys.md) *(v2.0)* | this repo | 2026 |
+| [Markets of Usage Transitions in Multi-Use Physical Assets](transition_markets.md) | this repo | 2026 |
+| [Terrain Configuration Theory for Democratic AI Infrastructure](terrain_configuration.md) | this repo | 2026 |
+| [Possibilism — Notes Toward a Research Program](possibilism_04_2026.md) | this repo | 2026-04 |
 | [Territoires possibilistes — Autonomie alimentaire, diversité épistémique et innovation durable (FR)](territoires_possibilistes.md) | this repo | 2026 |
-| [Le Musée uchronique comme dispositif d'inférence historique (FR)](../uchronian_museum.md) | this repo | 2026 |
-| [Projet Minesteggio — Fondation Barons Mariani / Musée Uchronique « Napoléon 1821 » (FR)](../projet_minesteggio.md) | this repo | 2026 |
-| [Literary Works as Navigable Spaces — AI-Based Cultural Mediation](../ai-based-cultural-mediation.md) | this repo | 2026 |
-| [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](../discret_holography.md) | this repo | 2026-02-27 |
+| [Le Musée uchronique comme dispositif d'inférence historique (FR)](uchronian_museum.md) | this repo | 2026 |
+| [Projet Minesteggio — Fondation Barons Mariani / Musée Uchronique « Napoléon 1821 » (FR)](projet_minesteggio.md) | this repo | 2026 |
+| [Literary Works as Navigable Spaces — AI-Based Cultural Mediation](ai-based-cultural-mediation.md) | this repo | 2026 |
+| [Architecture de l'univers-automate — résolution systémique 2D-4D (FR)](discret_holography.md) | this repo | 2026-02-27 |
 | [Sailing the Cognitive Waves — Stigmergic Cognitive-Terrain Framework](cognitive_waves.md) | this repo | 2026 |
 | [Stigmergie sans limite haute — continuité stigmergique des mouches aux agents cognitifs (FR)](stigmergie_sans_limite_haute.md) *(amorce de jonction v0.2, 2026-05-31 — pont scale-free + alignement Rossignol §4)* | this repo | 2026-05-31 |
 | [Test du critère Rossignol — quatre dispositifs au crible (FR)](test_critere_rossignol.md) *(working-note v0.1, 2026-05-31 — applique le critère « pas de stabilisateur sans Rossignol » à Cogentia / traçabilité symétrique / FractaVolta / Kudocracy)* | this repo | 2026-05-31 |
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
-| [Protection responsable](../protection_responsable.md) | this repo | 2026 |
+| [Protection responsable](protection_responsable.md) | this repo | 2026 |
 | [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |
 | [L'autonomie ne doit pas devenir un transfert d'opacité — À propos de l'impunité par obscurité (FR)](autonomia/impunite_par_obscurite_blogpost.md) *(derived product v0.1 — Substack draft)* | this repo | 2026-06-01 |
 | [PLU de Corte — Rapport OSINT provisoire sur Riacquistu Data-Driven (FR)](autonomia/plu_de_corte.md) *(enquête OSINT politique v0.5 — document source long pour publication ; statut explicitement exploratoire, non stabilisée doctrinalement)* | this repo | 2026-06-01 |
@@ -120,7 +128,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 | Title | Location |
 |---|---|
-| [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) | marenostrum |
+| [DHITL — Democratic Humans in the Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md) | marenostrum |
 | [Cogentia Commons Working Paper](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia_Commons_Working_Paper.md) | cogentia |
 | [Inseme — deployable platform + COP runtime](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md) | inseme |
 | [Inox — language and runtime substrate](https://github.com/JeanHuguesRobert/Inox/blob/master/research/inox-spec.md) *(language-level instance of the corpus anti-capture architecture — concatenative, strict control/data plane separation, no capturable centre)* | Inox |

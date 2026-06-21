@@ -63,6 +63,13 @@ tags:
   - anti-capture
   - montagne
   - communes
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Corsica2038 — De la prospective subie à l’autonomie de capacité
@@ -93,8 +100,8 @@ Fonction dans le corpus : relier l'Autonomie de Capacité, la méthode des terra
 
 - [Actualisation de l'atlas du paysage politique corse — séquence parlementaire de juin 2026](atlas_paysage_politique_corse_actualisation_2026-06.md)
 - [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse](../contribution_commission_lois_autonomie_capacite.md)
-- [MareNostrum / DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
-- [FractaVolta / PGN](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/PGN.md)
+- [MareNostrum / DHITL](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
+- [FractaVolta / PGN](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/PGN.md)
 
 Dépend de : le rapport officiel *Corsica Pruspettiva 2050*, les documents source du dossier Autonomia, et la doctrine anti-capture du corpus.
 

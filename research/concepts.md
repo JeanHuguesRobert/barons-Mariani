@@ -10,6 +10,14 @@ license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-16
 creator: Jean Hugues Noël Robert, baron Mariani
+document_role: "index"
+document_kind: "concept-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "concept-index"
+classification_confidence: "strong"
 ---
 
 # Concept Index — barons-Mariani
@@ -216,7 +224,7 @@ Large-scale shifts in societal epistemology and shared understanding.
 The deliberate breaking of viral, generalized imitation inside technological and cultural platforms to prevent runaway mimicry.
 
 **Reference documents:**
-- [`mimetic_desynchronization.md`](../mimetic_desynchronization.md)
+- [`mimetic_desynchronization.md`](mimetic_desynchronization.md)
 
 ---
 
@@ -230,7 +238,7 @@ The deliberate breaking of viral, generalized imitation inside technological and
 The conceptual framing of generalized envy or hostile mimicry within network environments.
 
 **Reference documents:**
-- [`invidia.md`](../invidia.md)
+- [`invidia.md`](invidia.md)
 
 ---
 
@@ -244,7 +252,7 @@ The conceptual framing of generalized envy or hostile mimicry within network env
 The economic bridge transitioning society from classic topologies to possibilist structures.
 
 **Reference documents:**
-- [`transition_markets.md`](../transition_markets.md)
+- [`transition_markets.md`](transition_markets.md)
 
 ---
 
@@ -258,7 +266,7 @@ The economic bridge transitioning society from classic topologies to possibilist
 Conceptual or literal spaces mapping systemic alternatives and counterfactual political history models.
 
 **Reference documents:**
-- [`uchronian_museum.md`](../uchronian_museum.md)
+- [`uchronian_museum.md`](uchronian_museum.md)
 
 ---
 
@@ -272,7 +280,7 @@ Conceptual or literal spaces mapping systemic alternatives and counterfactual po
 The governing political and systemic ideology focusing on alternative institutional arrangements and expanding the horizon of political possibility.
 
 **Reference documents:**
-- [`possibilism_04_2026.md`](../possibilism_04_2026.md)
+- [`possibilism_04_2026.md`](possibilism_04_2026.md)
 
 ---
 
@@ -430,7 +438,7 @@ The *Discours de la seconde méthode*, providing the epistemological framework a
 A specific local implementation or cultural initiative operating under the possibilist framework in Corsica.
 
 **Reference documents:**
-- [`projet_minesteggio.md`](../projet_minesteggio.md)
+- [`projet_minesteggio.md`](projet_minesteggio.md)
 
 ---
 
@@ -444,11 +452,11 @@ A specific local implementation or cultural initiative operating under the possi
 A conceptual representation technique acting as half a joke and half a cultural mediation mechanism.
 
 **Reference documents:**
-- [`discret_holography.md`](../discret_holography.md)
+- [`discret_holography.md`](discret_holography.md)
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
 - [Research Index — barons-Mariani](index.md)
-- [MareNostrum — Tableau de bord](https://github.com/JeanHuguesRobert/marenostrum/blob/main/dashboard.md)
+- [MareNostrum — Tableau de bord](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/dashboard.md)
 <!-- END_AUTO: backlinks -->

@@ -9,12 +9,20 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # GR20 : du quota à l’autonomie de capacité
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md) | ➡️ Next: [Projet #1755](autonomia/projet_1755.md)
+> ⬅️ Previous: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md) | ➡️ Next: [Projet #1755](autonomia/projet_1755.md)
 <!-- END_AUTO: trails -->
 ## Note de campagne pour une politique corse de la montagne capable
 

@@ -45,6 +45,14 @@ ai_assisted_by:
 human_validation_required: true
 next_action: "publish consolidated source document, then controlled derivation"
 corpus_role: "source"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Le passé est aussi imprévisible que le futur

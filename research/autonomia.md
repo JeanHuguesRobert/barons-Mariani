@@ -10,12 +10,20 @@ license: "CC BY-SA 4.0"
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Autonomia[^titre]
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](../tocqueville_law.md)
+> ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md)
 <!-- END_AUTO: trails -->
 ## Orientation
 
@@ -893,8 +901,8 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
 - FractaVolta
-- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md)
-- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md)
+- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
+- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)

@@ -30,6 +30,14 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 last_stamped_at: 2026-06-01
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 corpus_role: "derived"
+document_role: "derived"
+document_kind: "derived-product"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "derived-product"
+classification_confidence: "strong"
 ---
 
 # L’autonomie ne doit pas devenir un transfert d’opacité

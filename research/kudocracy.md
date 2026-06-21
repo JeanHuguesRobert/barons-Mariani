@@ -33,6 +33,14 @@ related:
 changelog:
   - "v0.1 (2026-05-20) — premier draft : distinction votation/élection, recommandation/délégation, agents humains et artificiels, agent IA personnel, passage au crible de la seconde méthode, continuation."
   - "v0.2 (2026-05-22) — révision conceptuelle : distinction suggestion / recommandation / délégation / prescription ; remplacement du mode par défaut de recommandation civique par suggestion civique ; ajout du garde-fou contre la pression algorithmique ; clarification du rôle de l’agent IA personnel comme auxiliaire de jugement non prescriptif."
+document_role: "source"
+document_kind: "concept-note"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "concept-note"
+classification_confidence: "medium"
 ---
 
 # Kudocracy

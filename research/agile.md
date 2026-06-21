@@ -23,6 +23,14 @@ changelog:
   - "v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout de précautions sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives."
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # La seconde méthode comme généralisation prudente de l’agile
@@ -909,8 +917,8 @@ Le cas corse devra être développé dans un article spécifique reliant :
 - Robert, Jean Hugues Noël. [`second_method.md`](second_method.md). Corpus `barons-Mariani`.
 - Robert, Jean Hugues Noël. `autonomie_de_capacite.md`. Corpus `barons-Mariani`.
 - Robert, Jean Hugues Noël. [`kudocracy.md`](kudocracy.md). Corpus `barons-Mariani`.
-- Robert, Jean Hugues Noël. [`mimetic_desynchronization.md`](../mimetic_desynchronization.md). Corpus `barons-Mariani`.
-- Robert, Jean Hugues Noël. [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md). Corpus `marenostrum`.
+- Robert, Jean Hugues Noël. [`mimetic_desynchronization.md`](mimetic_desynchronization.md). Corpus `barons-Mariani`.
+- Robert, Jean Hugues Noël. [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md). Corpus `marenostrum`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `cogentia`.
 - Robert, Jean Hugues Noël. `README.md`. Corpus `FractaVolta`.
 <!-- BEGIN_AUTO: backlinks -->

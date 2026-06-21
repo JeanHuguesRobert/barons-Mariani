@@ -8,6 +8,14 @@ status: "published"
 corpus_role: "source"
 keywords: "Barons Mariani, C.O.R.S.I.C.A., Institut Mariani, fonds de dotation, séparation institutionnelle"
 summary: "Note de clarification institutionnelle sur les liens documentaires entre Barons Mariani, C.O.R.S.I.C.A. et l’Institut Mariani."
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "stable"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 # Lien avec C.O.R.S.I.C.A. et l’Institut Mariani
 

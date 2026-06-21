@@ -42,6 +42,14 @@ version_history:
   - "v0.15-research — operational revision after Grok review, with clearer thresholds and concrete YAML examples"
   - "v0.15.1-research — micro-amendment: reviewer role clarified, no v0.16-research needed before publication"
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Traçabilité des actes

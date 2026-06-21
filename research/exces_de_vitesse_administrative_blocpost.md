@@ -19,6 +19,14 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 corpus_role: "derived"
 derived_from: "cogentia/research/exces_de_vitesse_administrative.md"
 derived_product_type: "blogpost"
+document_role: "derived"
+document_kind: "derived-product"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "derived-product"
+classification_confidence: "strong"
 ---
 
 # Simplifier ou rendre capable ?

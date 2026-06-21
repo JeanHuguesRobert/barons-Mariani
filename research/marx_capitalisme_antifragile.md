@@ -40,6 +40,14 @@ human_validation_required: true
 human_validation_status: "validated with minor corrections after checkpoint"
 agent_workflow_status: "candidate for source stabilization — not yet committed"
 corpus_role: "source"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Marx, les écrans de télévision et la fragilité des adversaires du capitalisme

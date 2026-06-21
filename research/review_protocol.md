@@ -17,6 +17,15 @@ ai_assisted_by:
   - "Grok"
   - "Claude"
 human_validation_required: true
+document_role: "source"
+document_kind: "protocol"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "protocol"
+classification_confidence: "medium"
+legacy_corpus_role: "review protocol"
 ---
 
 # Protocole minimal de revue ciblée

@@ -3,7 +3,7 @@ title: "Mauvaise calibration métacognitive face aux intelligences xénoformes"
 subtitle: "Pour une AI Safety post-anthropocentrique et une gouvernance démocratique des intelligences hybrides"
 version: "v0.7"
 status: "working-paper"
-document_role: "symmetric-derived-sovereign-provisional"
+document_role: "source"
 derived_from: "xenoform_intelligence_source.md (future source document)"
 source_status: "provisional sovereign source; symmetric derived form standing in for xenoform_intelligence_source.md until that source document is created"
 author: "Jean Hugues Robert"
@@ -47,6 +47,14 @@ corpus_role: "source"
 derived_product_type: "symmetric-sovereign-provisional"
 summary: "Academic derived form that provisionally acts as the sovereign source for the xenoform intelligence thesis until xenoform_intelligence_source.md is created."
 keywords: "intelligence xenoforme, AI Safety post-anthropocentrique, mauvaise calibration metacognitive, source souveraine provisoire, derive symetrique"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_document_role: "symmetric-derived-sovereign-provisional"
 ---
 
 # Mauvaise calibration métacognitive face aux intelligences xénoformes
@@ -76,7 +84,7 @@ Il ne constitue pas encore le document source souverain du corpus. Sa fonction e
 - [`kudocracy.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md) — démocratie liquide augmentée, agents auxiliaires, refus du vote IA et souveraineté des vivants.
 - [`democratic_ai_safety.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md) — articulation entre AI Safety, démocratie et humains démocratiquement équipés dans la boucle.
 - [`cognitive_packets.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — formalisation des paquets cognitifs comme unités transmissibles, traçables et réutilisables.
-- [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour les questions de capture de la valeur, d'alignement apparent et d'invisibilisation des rapports de force.
+- [`mimetic_desynchronization.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/mimetic_desynchronization.md) — désynchronisation mimétique, utile pour les questions de capture de la valeur, d'alignement apparent et d'invisibilisation des rapports de force.
 - [`derived_products.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — corpus réactif, produits déclinés et distinction entre document source et formes dérivées.
 
 ### Documents à créer ou à dériver

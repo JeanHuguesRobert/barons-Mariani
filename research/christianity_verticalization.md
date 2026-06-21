@@ -31,6 +31,14 @@ related_projects:
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Verticalisation de la Chrétienté
@@ -69,7 +77,7 @@ Ce texte doit être lu en relation avec les documents et axes suivants du corpus
 - [`research/autonomia.md`](autonomia.md) — Autonomie de Capacité, différenciation et capacités territoriales ;
 - [`research/kudocracy.md`](kudocracy.md) — démocratie liquide, mandats traçables, pouvoir horizontal ;
 - `research/cogentia_reactive_corpus.md` — corpus réactif, représentation adaptée, continuité doctrinale ;
-- [`mimetic_desynchronization.md`](../mimetic_desynchronization.md) — désynchronisation mimétique et reconfiguration des cadres de perception ;
+- [`mimetic_desynchronization.md`](mimetic_desynchronization.md) — désynchronisation mimétique et reconfiguration des cadres de perception ;
 - [`research/agile.md`](agile.md) — méthodes agiles, exploration et adaptation ;
 - travaux liés à **Mare Nostrum** — Méditerranée multipolaire, rives, îles, énergie et inférences ;
 - travaux liés au **Petit Parti / Le Petit / Pertitellu** — parti des petits par le pouvoir, des territoires rendus incapables, et des capacités retrouvées.

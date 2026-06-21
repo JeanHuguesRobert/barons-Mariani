@@ -8,6 +8,14 @@ date: "2026-05-26"
 status: "working-paper — adaptive exploration under mimetic resistance"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-06-01
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 # Sailing the Cognitive Waves  
 ## A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints

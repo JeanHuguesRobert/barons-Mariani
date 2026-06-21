@@ -17,6 +17,14 @@ related_documents:
 last_stamped_at: 2026-06-01
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 corpus_role: "source"
+document_role: "source"
+document_kind: "working-note"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
 ---
 
 # Bleu de Chine, denim et indigo — Chronologie critique

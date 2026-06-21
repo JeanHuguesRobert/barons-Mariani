@@ -3,7 +3,7 @@ title: "DAO, imputabilité et DHITL"
 subtitle: "Pourquoi la blockchain trace l’exécution sans garantir la responsabilité"
 version: "v0.2-media-legal"
 status: "working-paper — academic source form, media/legal reinforced"
-document_role: "document source provisoire du corpus"
+document_role: "source"
 derived_from:
   - "conversation ChatGPT — 2026-06-03"
   - "barons-Mariani/research/traceabilite_des_actes.md"
@@ -56,6 +56,14 @@ related_documents:
 process_visibility: "partial; improved through process companion file and issue-based review"
 continuation_status: "open"
 human_validation_needed: true
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_document_role: "document source provisoire du corpus"
 ---
 
 # DAO, imputabilité et DHITL

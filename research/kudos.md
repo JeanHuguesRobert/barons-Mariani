@@ -7,6 +7,14 @@ last_stamped_at: 2026-06-01
 title: "Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles"
 date: "2026-05-20"
 status: "working-paper — auto-filled (frontmatter cleanup)"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 # Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles
 
@@ -918,8 +926,8 @@ Kudos ne contourne pas la question monétaire.
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - FractaVolta
-- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md)
-- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md)
+- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
+- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
 - [État du corpus](https://github.com/acorsica/gouvernance/blob/main/etat-du-corpus.md)
 - [Initiatives liées à l’Institut Mariani](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)

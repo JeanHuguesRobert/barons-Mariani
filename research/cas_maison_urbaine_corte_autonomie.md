@@ -44,6 +44,14 @@ related_projects:
   - "C.O.R.S.I.C.A."
   - "FractaVolta"
   - "Mariani School of Autonomy"
+document_role: "source"
+document_kind: "case-study"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "case-study"
+classification_confidence: "medium"
 ---
 
 # Maison individuelle urbaine à Corte — cas pilote anonymisé

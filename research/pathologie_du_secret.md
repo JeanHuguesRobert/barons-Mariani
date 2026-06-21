@@ -7,10 +7,18 @@ last_stamped_at: 2026-06-01
 title: "La pathologie du secret"
 date: "2026-05-20"
 status: "working-paper — auto-filled (frontmatter cleanup)"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+> ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 <!-- END_AUTO: trails -->
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pathologie_du_secret.md
@@ -979,5 +987,5 @@ Créer trois fichiers compagnons :
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
-- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 <!-- END_AUTO: backlinks -->

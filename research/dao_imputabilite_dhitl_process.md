@@ -4,7 +4,7 @@ subtitle: "Traçabilité de production du working paper DAO-DHITL"
 version: "v0.1-process-note"
 status: "working-note"
 corpus_role: "operational"
-document_role: "note de process"
+document_role: "operational"
 related_document: "research/dao_imputabilite_dhitl.md"
 author: "Jean Hugues Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -17,6 +17,14 @@ canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/res
 process_visibility: "companion trace for dao_imputabilite_dhitl.md"
 continuation_status: "open"
 human_validation_needed: true
+document_kind: "working-note"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
+legacy_document_role: "note de process"
 ---
 
 # Process note — `dao_imputabilite_dhitl.md` v0.1 → v0.2-media-legal
@@ -98,5 +106,4 @@ yes — positionnement public, juridique et politique.
 
 *These documents link to this file:*
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

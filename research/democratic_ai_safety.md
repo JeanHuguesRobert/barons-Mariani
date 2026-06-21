@@ -13,15 +13,23 @@ x-method: "Second Method compatible draft"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
 last_stamped_at: 2026-06-01
 date: "2026-05-11"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Democratic AI Safety
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Republic of Donkeys](../the_republic_of_donkeys.md) | ➡️ Next: [La pathologie du secret](pathologie_du_secret.md)
+> ⬅️ Previous: [The Republic of Donkeys](the_republic_of_donkeys.md) | ➡️ Next: [La pathologie du secret](pathologie_du_secret.md)
 
 > 🧭 **Trail: From Method to Machine**
-> ⬅️ Previous: [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+> ⬅️ Previous: [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 <!-- END_AUTO: trails -->
 ## Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons
 
@@ -1016,5 +1024,5 @@ It is constitutional.
 - For researchers
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
-- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md)
+- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 <!-- END_AUTO: backlinks -->

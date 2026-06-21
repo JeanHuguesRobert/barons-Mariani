@@ -53,7 +53,7 @@ related_documents:
   - "research/cas_maison_urbaine_corte_autonomie.md"
   - "research/serenia_autonomie_assistee_ia.md"
   - "research/noyau_doctrinal_rendre_capable.md"
-  - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/EDF.md"
+  - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/EDF.md"
 related_projects:
   - "Institut Mariani"
   - "C.O.R.S.I.C.A."
@@ -61,6 +61,14 @@ related_projects:
   - "Cogentia"
   - "Mare Nostrum"
   - "Paese Capace"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # École Mariani de l’Autonomie — terrains pilotes

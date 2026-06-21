@@ -21,6 +21,14 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 last_stamped_at: 2026-06-01
 date: "2026-05-08"
 status: "draft — auto-filled (frontmatter cleanup)"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Discours de la seconde méthode
@@ -300,7 +308,7 @@ that satisfies all three simultaneously —
 verifiable personhood, privacy preservation,
 and architectural impossibility of circumvention.
 This is a research problem. We name it explicitly.
-The [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/DHITL.md) document in the `marenostrum` repository
+The [`DHITL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md) document in the `marenostrum` repository
 formalizes the five-layer architecture that frames this problem.
 Layer 3 is democratic governance — reserved for living persons
 under one-person-one-vote, the invariant of the framework.
@@ -347,8 +355,8 @@ The target: 500€/month basic income funded entirely from Corsican solar assets
 
 These numbers are proposals, documented, versioned, open to challenge.
 Detailed assumptions, sources, and models are in
-[`marenostrum/ARCHITECTURE.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/ARCHITECTURE.md)
-and [`marenostrum/MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/MODEL.md).
+[`marenostrum/ARCHITECTURE.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/ARCHITECTURE.md)
+and [`marenostrum/MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/MODEL.md).
 Fork the repository. Dispute the assumptions. That is the method.
 
 ### Why Infrastructure Is AI Safety

@@ -65,6 +65,14 @@ related_projects:
   - "Ophélia"
   - "Mare Nostrum"
   - "Autonomie de Capacité"
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Rendre capable — noyau doctrinal provisoire
@@ -1381,15 +1389,15 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | Document | Dépôt | Pertinence |
 |---|---|---|
 | [`research/generalized_packet_networks.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/generalized_packet_networks.md) | `FractaVolta` | Théorie générale des réseaux de paquets généralisés : data, énergie, chaleur, inférence, cognition, gouvernance. Source centrale pour la packetisation. |
-| [`UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md) | `FractaVolta` | “The Unconscious Grid” : store-and-forward, énergie, exergie, critique X.25 / Transpac / Minitel comme mauvaise abstraction malgré une brillante implémentation. |
-| [`LE_RESEAU_INCONSCIENT.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md) | `FractaVolta` | Version française de “The Unconscious Grid”. Utile pour les formulations francophones sur X.25, circuit virtuel, datagramme et packetisation incomplète. |
+| [`UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md) | `FractaVolta` | “The Unconscious Grid” : store-and-forward, énergie, exergie, critique X.25 / Transpac / Minitel comme mauvaise abstraction malgré une brillante implémentation. |
+| [`LE_RESEAU_INCONSCIENT.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md) | `FractaVolta` | Version française de “The Unconscious Grid”. Utile pour les formulations francophones sur X.25, circuit virtuel, datagramme et packetisation incomplète. |
 | [`research/inference_packet_network.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/inference_packet_network.md) | `FractaVolta` | Application de la logique de paquets aux inférences IA : continuité utile de l’inférence, contraintes énergétiques, routage, redondance. |
 | [`research/thermal_packet_networks.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/thermal_packet_networks.md) | `FractaVolta` | Extension de la packetisation aux réseaux thermiques. Utile pour éviter de réduire la doctrine aux seules données numériques. |
 | [`docs/energy-packets.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/docs/energy-packets.md) | `FractaVolta` | Définition opérationnelle des paquets d’énergie utile : source, chemin, destination, pertes, incertitude, finalité. |
-| [`MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/MODEL.md) | `marenostrum` | Modèle d’exergie opérationnelle : distinction énergie / énergie utile, rareté, disponibilité sous contrainte. Sert à ancrer la packetisation dans la physique. |
-| [`safe_compute_exergy.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/safe_compute_exergy.md) | `marenostrum` | Calcul sûr, exergie et capacité d’inférence. Pertinent pour la liaison entre énergie décarbonée, compute et souveraineté cognitive. |
-| [`compute-exergy-omitted-variable.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/compute-exergy-omitted-variable.md) | `marenostrum` | L’exergie comme variable souvent omise dans les discours sur compute et IA. Utile pour préciser la critique des modèles abstraits de l’IA. |
-| [`CXU_SPEC.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/CXU_SPEC.md) | `marenostrum` | Spécification liée aux unités compute/exergie. À relier aux paquets d’énergie et d’inférence. |
+| [`MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/MODEL.md) | `marenostrum` | Modèle d’exergie opérationnelle : distinction énergie / énergie utile, rareté, disponibilité sous contrainte. Sert à ancrer la packetisation dans la physique. |
+| [`safe_compute_exergy.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/safe_compute_exergy.md) | `marenostrum` | Calcul sûr, exergie et capacité d’inférence. Pertinent pour la liaison entre énergie décarbonée, compute et souveraineté cognitive. |
+| [`compute-exergy-omitted-variable.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/compute-exergy-omitted-variable.md) | `marenostrum` | L’exergie comme variable souvent omise dans les discours sur compute et IA. Utile pour préciser la critique des modèles abstraits de l’IA. |
+| [`CXU_SPEC.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/CXU_SPEC.md) | `marenostrum` | Spécification liée aux unités compute/exergie. À relier aux paquets d’énergie et d’inférence. |
 
 ## 23.5. Fractanet, COP, Inox et exécution
 
@@ -1469,12 +1477,12 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 
 | Document | Dépôt | Pertinence |
 |---|---|---|
-| [`MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/MODEL.md) | `marenostrum` | Modèle physique minimal : énergie utile, rareté, exergie opérationnelle. Fondement de la doctrine énergie → capacité. |
+| [`MODEL.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/MODEL.md) | `marenostrum` | Modèle physique minimal : énergie utile, rareté, exergie opérationnelle. Fondement de la doctrine énergie → capacité. |
 | [`research/pacte_anti_capture_solaire_inferentielle.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md) | `marenostrum` | Application territoriale et politique : éviter la capture du soleil, du foncier, des réseaux et de l’acceptabilité sociale par des acteurs financiers extérieurs. |
-| [`journal/2026-06-12-post-icome26.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/journal/2026-06-12-post-icome26.md) | `marenostrum` | Journal post-ICOME’26 : utile pour situer Mare Nostrum comme trajectoire publique, scientifique et territoriale. |
-| [`safe_compute_exergy.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/safe_compute_exergy.md) | `marenostrum` | Sécurité, compute et exergie. Utile pour lier les contraintes physiques aux architectures IA. |
-| [`compute-exergy-omitted-variable.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/compute-exergy-omitted-variable.md) | `marenostrum` | Critique de l’oubli de l’exergie dans les modèles économiques et techniques du compute. |
-| [`CXU_SPEC.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/CXU_SPEC.md) | `marenostrum` | Spécification d’unité compute / exergie. Pertinent pour formaliser la valeur de l’inférence sous contrainte énergétique. |
+| [`journal/2026-06-12-post-icome26.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/journal/2026-06-12-post-icome26.md) | `marenostrum` | Journal post-ICOME’26 : utile pour situer Mare Nostrum comme trajectoire publique, scientifique et territoriale. |
+| [`safe_compute_exergy.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/safe_compute_exergy.md) | `marenostrum` | Sécurité, compute et exergie. Utile pour lier les contraintes physiques aux architectures IA. |
+| [`compute-exergy-omitted-variable.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/compute-exergy-omitted-variable.md) | `marenostrum` | Critique de l’oubli de l’exergie dans les modèles économiques et techniques du compute. |
+| [`CXU_SPEC.md`](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/CXU_SPEC.md) | `marenostrum` | Spécification d’unité compute / exergie. Pertinent pour formaliser la valeur de l’inférence sous contrainte énergétique. |
 
 ## 23.13. Documents à lire ou relire en priorité pour une v0.4
 
@@ -1485,7 +1493,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | 3 | [`cogentia/research/second_method.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/second_method.md) | Renforcer la méthode : objections, preuves, continuations, stabilisation. |
 | 4 | [`cogentia/research/methode_terrains_feconds.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/methode_terrains_feconds.md) | Ajouter la reconfiguration des débats comme principe générateur à part entière. |
 | 5 | [`FractaVolta/research/generalized_packet_networks.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/generalized_packet_networks.md) | Formaliser correctement la packetisation généralisée. |
-| 6 | [`FractaVolta/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
+| 6 | [`FractaVolta/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
 | 7 | [`FractaVolta/research/fractanet.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md) | Articuler Fractanet comme instance opérationnelle du noyau. |
 | 8 | [`cogentia/research/cogentia_continuation_packet_routing.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_continuation_packet_routing.md) | Renforcer la notion de continuation routable et de cognition distribuée. |
 | 9 | [`inseme/packages/cop-kernel/docs/task-step-continuation-lineage.md`](https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-kernel/docs/task-step-continuation-lineage.md) | Ancrer techniquement les continuations, événements, tâches, étapes et redondance RAIX. |
