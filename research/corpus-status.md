@@ -35,6 +35,12 @@ creator: Jean Hugues Noël Robert, baron Mariani (généré automatiquement par 
 | registre-mariani | yes | main | all | private | stub |
 | ubikia | yes | main | all | public | full |
 | JeanHuguesRobert | yes | main | all | public | full |
+| privai | yes | main | all | public | full |
+| gouvernance | yes | main | all | public | full |
+| marianivillage | yes | main | all | public | full |
+| institut-mariani | yes | main | all | public | full |
+| Kudos | yes | main | all | public | full |
+| .github | yes | main | all | public | full |
 <!-- END_AUTO: registered_repos -->
 ---
 
@@ -51,8 +57,14 @@ graph LR
   r_registre_mariani["registre-mariani"]
   r_ubikia["ubikia"]
   r_jeanhuguesrobert["JeanHuguesRobert"]
-  r_jeanhuguesrobert -->|163| r_barons_mariani
-  r_jeanhuguesrobert -->|110| r_cogentia
+  r_privai["privai"]
+  r_gouvernance["gouvernance"]
+  r_marianivillage["marianivillage"]
+  r_institut_mariani["institut-mariani"]
+  r_kudos["Kudos"]
+  r_github[".github"]
+  r_jeanhuguesrobert -->|171| r_barons_mariani
+  r_jeanhuguesrobert -->|104| r_cogentia
   r_cogentia -->|98| r_barons_mariani
   r_barons_mariani -->|62| r_cogentia
   r_jeanhuguesrobert -->|45| r_marenostrum
@@ -66,6 +78,7 @@ graph LR
   r_fractavolta -->|18| r_inseme
   r_fractavolta -->|18| r_barons_mariani
   r_jeanhuguesrobert -->|18| r_inseme
+  r_jeanhuguesrobert -->|18| r_kudos
   r_barons_mariani -->|17| r_fractavolta
   r_barons_mariani -->|16| r_inseme
   r_inseme -->|15| r_cogentia
@@ -80,22 +93,51 @@ graph LR
   r_jeanhuguesrobert -->|8| r_ubikia
   r_inox -->|7| r_inseme
   r_inseme -->|7| r_inox
+  r_jeanhuguesrobert -->|7| r_privai
   r_barons_mariani -->|5| r_inox
   r_barons_mariani -->|5| r_jeanhuguesrobert
   r_cogentia -->|5| r_fractavolta
+  r_jeanhuguesrobert -->|5| r_gouvernance
   r_barons_mariani -->|4| r_ubikia
   r_cogentia -->|4| r_jeanhuguesrobert
+  r_marianivillage -->|4| r_fractavolta
+  r_github -->|3| r_gouvernance
   r_inseme -->|3| r_barons_mariani
   r_inseme -->|3| r_jeanhuguesrobert
+  r_kudos -->|3| r_barons_mariani
   r_cogentia -->|2| r_inox
   r_fractavolta -->|2| r_jeanhuguesrobert
+  r_gouvernance -->|2| r_barons_mariani
+  r_gouvernance -->|2| r_fractavolta
   r_inox -->|2| r_jeanhuguesrobert
   r_inseme -->|2| r_marenostrum
   r_inseme -->|2| r_fractavolta
+  r_institut_mariani -->|2| r_barons_mariani
+  r_institut_mariani -->|2| r_fractavolta
+  r_jeanhuguesrobert -->|2| r_institut_mariani
+  r_jeanhuguesrobert -->|2| r_marianivillage
   r_marenostrum -->|2| r_jeanhuguesrobert
   r_marenostrum -->|2| r_inseme
   r_marenostrum -->|2| r_inox
+  r_privai -->|2| r_institut_mariani
+  r_github -->|1| r_institut_mariani
+  r_gouvernance -->|1| r_jeanhuguesrobert
+  r_gouvernance -->|1| r_cogentia
+  r_gouvernance -->|1| r_inseme
+  r_gouvernance -->|1| r_marenostrum
+  r_gouvernance -->|1| r_inox
+  r_gouvernance -->|1| r_kudos
+  r_gouvernance -->|1| r_marianivillage
   r_inseme -->|1| r_ubikia
+  r_institut_mariani -->|1| r_privai
+  r_institut_mariani -->|1| r_kudos
+  r_institut_mariani -->|1| r_marianivillage
+  r_institut_mariani -->|1| r_inseme
+  r_institut_mariani -->|1| r_cogentia
+  r_institut_mariani -->|1| r_marenostrum
+  r_institut_mariani -->|1| r_inox
+  r_kudos -->|1| r_institut_mariani
+  r_marianivillage -->|1| r_institut_mariani
   r_ubikia -->|1| r_cogentia
 ```
 <!-- END_AUTO: graph -->
@@ -503,6 +545,11 @@ graph LR
 | [Process note — DAO, imputabilité et DHITL](dao_imputabilite_dhitl_process.md) *(companion process note v0.1)* | this repo | 2026-06-03 |
 | [Kudocracy — Recommandation civique traçable, votations et démocratie liquide assistée par agents (FR)](kudocracy.md) *(working paper v0.1)* | this repo | 2026-05-20 |
 | [Kudos — Une monnaie complémentaire maussienne, adossée à l'euro (FR)](kudos.md) *(working paper draft v0.3)* | this repo | 2026-05-20 |
+| [Le cas EDF expliqué](cas_edf.md) *(technical source dossier — Calacuccia, Ricanto, storage, continuous prejudice and Autonomie de Capacité)* | this repo | 2026-06-18 |
+| [Note de Campagne numéro 3 : le cas EDF expliqué](cas_edf_blogpost.md) *(public derived note from the EDF technical source dossier)* | this repo | 2026-06-18 |
+| [Note de Campagne numéro 3 : le cas EDF expliqué](../cas_edf.md) *(stabilized campaign note at repository root)* | this repo | 2026-06-18 |
+| [Retour d'expérience pipeline — Note de Campagne n°3 : le cas EDF](case_studies/cas_edf_pipeline_retour_experience.md) *(pipeline case study for source/derived/review routing)* | this repo | 2026-06-18 |
+| [Protocole minimal de revue ciblée](review_protocol.md) *(review routing protocol extracted from the EDF campaign pipeline)* | this repo | 2026-06-18 |
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |

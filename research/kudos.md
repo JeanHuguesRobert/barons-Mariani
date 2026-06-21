@@ -920,6 +920,11 @@ Kudos ne contourne pas la question monétaire.
 - FractaVolta
 - [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/LE_RESEAU_INCONSCIENT.md)
 - [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md)
+- [État du corpus](https://github.com/acorsica/gouvernance/blob/main/etat-du-corpus.md)
+- [Initiatives liées à l’Institut Mariani](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
+- Kudos - l'argent du troc au don
+- [Research Index - Kudos](https://github.com/acorsica/Kudos/blob/main/research/index.md)
+- [Statut du dépôt `acorsica/Kudos`](https://github.com/acorsica/Kudos/blob/main/STATUT.md)
 <!-- END_AUTO: backlinks -->

@@ -50,6 +50,11 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Process note — DAO, imputabilité et DHITL](dao_imputabilite_dhitl_process.md) *(companion process note v0.1)* | this repo | 2026-06-03 |
 | [Kudocracy — Recommandation civique traçable, votations et démocratie liquide assistée par agents (FR)](kudocracy.md) *(working paper v0.1)* | this repo | 2026-05-20 |
 | [Kudos — Une monnaie complémentaire maussienne, adossée à l'euro (FR)](kudos.md) *(working paper draft v0.3)* | this repo | 2026-05-20 |
+| [Le cas EDF expliqué](cas_edf.md) *(technical source dossier — Calacuccia, Ricanto, storage, continuous prejudice and Autonomie de Capacité)* | this repo | 2026-06-18 |
+| [Note de Campagne numéro 3 : le cas EDF expliqué](cas_edf_blogpost.md) *(public derived note from the EDF technical source dossier)* | this repo | 2026-06-18 |
+| [Note de Campagne numéro 3 : le cas EDF expliqué](../cas_edf.md) *(stabilized campaign note at repository root)* | this repo | 2026-06-18 |
+| [Retour d'expérience pipeline — Note de Campagne n°3 : le cas EDF](case_studies/cas_edf_pipeline_retour_experience.md) *(pipeline case study for source/derived/review routing)* | this repo | 2026-06-18 |
+| [Protocole minimal de revue ciblée](review_protocol.md) *(review routing protocol extracted from the EDF campaign pipeline)* | this repo | 2026-06-18 |
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
