@@ -37,6 +37,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.4.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
+| [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
 | [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
@@ -73,6 +74,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Serenia — Assistance à l'autonomie administrative, numérique et cognitive](serenia_autonomie_assistee_ia.md) *(source note v0.1 — administrative, digital and cognitive autonomy support with AI)* | this repo | 2026-06-13 |
 | [École Mariani de l’Autonomie](ecole_mariani_autonomie.md) *(source note v0.1 — formation de coachs d’autonomie augmentée par IA, articulée à Serenia, FractaVolta et l’autonomie de capacité)* | this repo | 2026-06-17 |
 | [École Mariani de l’Autonomie — terrains pilotes](ecole_mariani_autonomie_terrains_pilotes.md) *(source note v0.1 — quatre terrains pilotes pour éprouver la méthode : eau chaude domestique, Minesteggio, La Maison Blanche et maison individuelle urbaine à Corte)* | this repo | 2026-06-17 |
+| [Homéostasie de l’habitat](homeostasie_habitat.md) *(source note v0.1 — diagnostic, modes dégradés et agents IA pour l’autonomie domestique ; terrain pratique de l’École Mariani de l’Autonomie et pont vers FractaVolta)* | this repo | 2026-06-20 |
 | [Maison individuelle urbaine à Corte — cas pilote anonymisé](cas_maison_urbaine_corte_autonomie.md) *(cas pilote anonymisé — application concrète de l’autonomie de capacité à une maison urbaine de Corte)* | this repo | 2026-06-18 |
 | [Invidia — envie et désir mimétique](invidia.md) | this repo | 2026 |
 | [Indirect Action Under Mimetic Constraints](mimetic_desynchronization.md) | this repo | 2026 |
@@ -181,6 +183,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
 - [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: backlinks -->

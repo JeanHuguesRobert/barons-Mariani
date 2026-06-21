@@ -1,3 +1,14 @@
+---
+document_role: "operational"
+document_kind: "identity-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "intent-kernel"
+classification_confidence: "strong"
+---
+
 # INTENT_KERNEL.md
 
 **Titre :** Noyau d’intention opératoire  
