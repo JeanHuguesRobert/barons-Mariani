@@ -144,12 +144,12 @@ MareNostrum est la couche stratégique.
 
 ---
 
-### 🇫🇷 *Autonomia* — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse
+### 🇫🇷 *Autonomia* — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse
 
 *Working paper v0.12 — concept central de la campagne sénatoriale.*
 
 Propose la notion d'**autonomie de capacité** : la faculté d'un territoire à
-convertir son capital territorial en capabilités collectives effectives,
+convertir son capital territorial en capacités collectives effectives,
 indépendamment du degré exact de souveraineté formelle. §2.6 annonce le **test
 1755** (reconnaissance internationale de la République corse), première
 auto-application publique, conduite avec ou sans mandat — condition logique de

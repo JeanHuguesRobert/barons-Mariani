@@ -112,7 +112,7 @@ Elle doit aussi être :
 
 Je propose d'introduire dans le débat constitutionnel la notion d'**autonomie de capacité**.
 
-L'autonomie de capacité désigne la faculté d'un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, mémoire, langue, savoir-faire, réseaux sociaux, outils techniques, données et capacités d'organisation — en capabilités collectives effectives.
+L'autonomie de capacité désigne la faculté d'un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, mémoire, langue, savoir-faire, réseaux sociaux, outils techniques, données et capacités d'organisation — en capacités collectives effectives.
 
 Elle ne remplace pas l'autonomie institutionnelle. Elle en constitue le test empirique. Une autonomie statutaire indique ce qu'un territoire a le droit de faire ; une autonomie de capacité mesure ce qu'il est réellement en mesure de faire.
 
@@ -294,11 +294,11 @@ L'autonomie de capacité propose une troisième voie : augmenter les capacités 
 
 ## C. Définition opératoire de l'autonomie de capacité
 
-L'autonomie de capacité désigne la faculté pour un territoire de convertir son capital territorial en capabilités collectives effectives.
+L'autonomie de capacité désigne la faculté pour un territoire de convertir son capital territorial en capacités collectives effectives.
 
 Le capital territorial inclut les ressources matérielles et immatérielles : eau, soleil, terre, montagne, littoral, infrastructures, communes, institutions, langue, culture, mémoire, savoir-faire, associations, entreprises, université, données, réseaux, outils numériques et capacités d'organisation.
 
-Les capabilités collectives effectives désignent les possibilités réelles d'agir collectivement : habiter, produire, apprendre, transmettre, protéger, expérimenter, coopérer, décider, mesurer, corriger.
+Les capacités collectives effectives désignent les possibilités réelles d'agir collectivement : habiter, produire, apprendre, transmettre, protéger, expérimenter, coopérer, décider, mesurer, corriger.
 
 La notion d'autonomie de capacité ne nie pas l'importance du statut juridique. Elle indique que le statut doit être jugé à ses effets. Une autonomie qui accroît les compétences mais ne transforme pas les conditions réelles d'action resterait incomplète.
 

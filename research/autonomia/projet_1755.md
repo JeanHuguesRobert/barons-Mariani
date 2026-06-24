@@ -104,7 +104,7 @@ Ce document doit être lu avec :
 - `cogentia_reactive_corpus.md` — théorie du corpus réactif (planifié, pas encore publié) ;
 - [Derived Products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — typologie des produits déclinés ;
 - [Kudocracy](../kudocracy.md) — démocratie liquide, délégation traçable et souveraineté capacitaire ;
-- [Autonomia — Capabilités collectives, capital territorial et flexibilité d'usage dans le cas corse](../autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
+- [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse](../autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
 - documents du futur Musée Mariani des Possibles (à venir).
 
 ---

@@ -529,7 +529,7 @@ Sans cela, l’IA ne produit pas une machine à explorer. Elle produit une machi
 
 Les sections précédentes ont volontairement tenu la discussion à distance du cas corse. Il est maintenant possible de l’introduire comme **application située**, non comme preuve privilégiée. Le cas corse n’est pas convoqué parce qu’il serait universel ; il l’est parce qu’il concentre, à une échelle lisible, plusieurs tensions que l’on retrouve ailleurs : insularité, dépendance énergétique, pression foncière, transmission linguistique, fragilité agricole, crise démocratique, dépendance administrative, potentiel d’innovation territoriale.
 
-L’autonomie de capacité désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, savoir-faire, mémoire, institutions, données, réseaux sociaux — en capabilités collectives effectives.
+L’autonomie de capacité désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, savoir-faire, mémoire, institutions, données, réseaux sociaux — en capacités collectives effectives.
 
 Elle distingue deux questions :
 
@@ -721,7 +721,7 @@ Document source définissant la seconde méthode comme pratique de publication d
 
 ## A.2. `autonomie_de_capacite.md`
 
-Application territoriale au cas corse. L’autonomie de capacité y est définie comme conversion du capital territorial en capabilités collectives effectives.
+Application territoriale au cas corse. L’autonomie de capacité y est définie comme conversion du capital territorial en capacités collectives effectives.
 
 ## A.3. `kudocracy.md`
 

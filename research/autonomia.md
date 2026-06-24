@@ -1,6 +1,6 @@
 ---
 title: "Autonomia"
-subtitle: "Capabilités collectives, capital territorial et flexibilité d’usage dans le cas corse"
+subtitle: "Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse"
 description: "Contribution à une théorie opératoire de l’autonomie territoriale"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -41,7 +41,7 @@ Continuation : maintenir le texte comme source de doctrine ; les documents de ca
 
 Dernière consolidation : 2026-06-09 — ajout de la fiche d'orientation.
 
-## Capabilités collectives, capital territorial et flexibilité d’usage dans le cas corse
+## Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
 **Jean Hugues Noël Robert, baron Mariani**  
 Institut Mariani — C.O.R.S.I.C.A.  
@@ -55,7 +55,7 @@ Corte, Corse
 
 Le débat corse sur l’autonomie est généralement structuré par des catégories juridiques, historiques et identitaires : statut particulier, pouvoir normatif, reconnaissance d’une communauté historique, souveraineté, corps électoral, foncier, langue, protection du peuple corse, rapport à l’État. Ces catégories sont nécessaires, mais elles ne suffisent pas à répondre à une question plus élémentaire : que devient concrètement capable de faire un territoire lorsqu’il obtient davantage d’autonomie ?
 
-Cet article propose la notion d’**autonomie de capacité**. Par cette expression, on désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, savoir-faire, mémoire, réseaux sociaux, outils techniques et capacités d’organisation — en **capabilités collectives effectives**, c’est-à-dire en possibilités réelles d’action, de production, de transmission et de décision pour ses habitants.
+Cet article propose la notion d’**autonomie de capacité**. Par cette expression, on désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, savoir-faire, mémoire, réseaux sociaux, outils techniques et capacités d’organisation — en **capacités collectives effectives**, c’est-à-dire en possibilités réelles d’action, de production, de transmission et de décision pour ses habitants.
 
 L’autonomie de capacité ne se substitue pas à l’autonomie institutionnelle. Elle en constitue le test empirique. Une autonomie statutaire définit ce qu’un territoire a le droit de faire ; une autonomie de capacité mesure ce qu’il est réellement en mesure de faire.
 
@@ -300,7 +300,7 @@ Mais un capital territorial non activé reste latent. La présence d’une resso
 
 L’autonomie de capacité peut donc être définie comme :
 
-> la conversion organisée du capital territorial en capabilités collectives effectives.
+> la conversion organisée du capital territorial en capacités collectives effectives.
 
 ## 4.3. Communes, communs et gouvernance polycentrique
 
@@ -385,7 +385,7 @@ Ces quatre apports convergent vers une thèse forte : la démocratie est, par co
 
 On peut désormais proposer une définition plus rigoureuse :
 
-> **L’autonomie de capacité est la faculté d’un territoire à convertir son capital territorial en capabilités collectives effectives, vérifiables et transmissibles, afin d’augmenter la puissance d’agir de ses habitants, indépendamment du degré exact de souveraineté formelle dont il dispose à un moment donné.**
+> **L’autonomie de capacité est la faculté d’un territoire à convertir son capital territorial en capacités collectives effectives, vérifiables et transmissibles, afin d’augmenter la puissance d’agir de ses habitants, indépendamment du degré exact de souveraineté formelle dont il dispose à un moment donné.**
 
 Cette définition distingue cinq niveaux :
 
@@ -662,7 +662,7 @@ Indicateurs : nombre de prototypes, délai de mise en œuvre, coût, taux de ré
 
 Indicateurs : participation, contestations, délais de réponse, lisibilité des décisions, contentieux.
 
-## H4 — La conversion du capital territorial en capabilités collectives réduit la dépendance effective.
+## H4 — La conversion du capital territorial en capacités collectives réduit la dépendance effective.
 
 Indicateurs : part d’énergie locale, part alimentaire locale, logements créés, hectares remis en usage, services maintenus en montagne.
 

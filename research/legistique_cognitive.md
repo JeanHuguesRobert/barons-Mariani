@@ -520,7 +520,7 @@ Elle devient :
 
 ### 6.2 Autonomie de Capacité
 
-L’Autonomie de Capacité désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, mémoire, langue, savoir-faire, réseaux sociaux, outils techniques, données et capacités d’organisation — en capabilités collectives effectives.
+L’Autonomie de Capacité désigne la faculté d’un territoire à convertir son capital territorial — ressources naturelles, infrastructures, institutions, mémoire, langue, savoir-faire, réseaux sociaux, outils techniques, données et capacités d’organisation — en capacités collectives effectives.
 
 Elle ne remplace pas l’autonomie institutionnelle. Elle en constitue le test empirique.
 
