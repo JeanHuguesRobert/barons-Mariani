@@ -1,11 +1,11 @@
 ---
-title: "Théorie des jeux et corpus vivant"
+title: "Théorie des jeux comme grille de lecture du corpus"
 subtitle: "Règles, triche, coopération, capture et Autonomie de Capacité"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-06-25"
-status: "working_draft"
-version: "0.1"
+status: "reviewed_draft"
+version: "0.2"
 license: "CC BY-SA 4.0"
 repository: "barons-Mariani"
 path: "research/theorie_des_jeux_corpus.md"
@@ -14,8 +14,11 @@ document_kind: "research-paper"
 visibility: "public"
 lifecycle_state: "working"
 human_validation_required: true
+review_status: "Grok constructive review integrated 2026-06-25; v0.2 consolidates autoportance, anti-cynicism, examples and annex separation"
 ai_assisted_by:
-  - "ChatGPT — rédaction, structuration, explicitation autoporteuse"
+  - "ChatGPT — rédaction, structuration, explicitation autoporteuse, intégration de revue"
+reviewed_by:
+  - "Grok — constructive external reviewer, non decisionnel, review 2026-06-25"
 review_expected_by:
   - "Grok / Claude / ChatGPT / humain — reviewer critique adverse, non décisionnel"
 related_documents:
@@ -57,7 +60,7 @@ classification_rule: "research-paper"
 classification_confidence: "medium"
 ---
 
-# Théorie des jeux et corpus vivant
+# Théorie des jeux comme grille de lecture du corpus
 
 ## Règles, triche, coopération, capture et Autonomie de Capacité
 
@@ -69,9 +72,13 @@ Il est conçu comme un document **autoporteur**. Cela signifie que ses thèses p
 
 Ce texte n’est pas un traité académique de théorie des jeux. Il utilise la théorie des jeux comme **grille de lecture** : un langage permettant de décrire les règles, les acteurs, les incitations, les asymétries d’information, les stratégies de coopération ou de défection, les captures du système et les conditions permettant de rendre la coopération rationnelle.
 
+Cette version v0.2 consolide la v0.1 après revue constructive externe. Elle renforce l’autoportance, ajoute des exemples concrets, explicite la défense anti-cynique, illustre la distinction entre transparence des actes publics et protection de la vie privée, et déplace les éléments méthodologiques en annexes.
+
 Formule directrice :
 
 > Le corpus peut se lire comme une ingénierie des jeux sociaux : identifier les jeux où la triche devient rationnelle, rendre les coups visibles, réduire la capture du plan de contrôle, augmenter la capacité des joueurs légitimes et transformer progressivement les équilibres toxiques en équilibres coopératifs.
+
+Cette formule ne signifie pas que les acteurs humains seraient naturellement cyniques ou calculateurs. Elle part au contraire d’une hypothèse plus exigeante : beaucoup d’acteurs préfèrent coopérer lorsque les règles rendent la coopération praticable, visible, sûre et rationnelle.
 
 ---
 
@@ -82,6 +89,8 @@ La théorie des jeux étudie des situations où plusieurs acteurs prennent des d
 Ce document propose de relire le corpus à partir d’une hypothèse simple :
 
 > Beaucoup de crises contemporaines ne viennent pas seulement d’un manque de vertu individuelle. Elles viennent de règles du jeu qui donnent une prime au vice et punissent la vertu.
+
+Cette lecture n’est pas cynique. Elle ne dit pas que la triche serait naturelle ou inévitable. Elle dit que des règles mal conçues peuvent rendre la coopération coûteuse, risquée ou invisible, tandis que des règles mieux conçues peuvent rendre la coopération ordinaire, avantageuse et stable.
 
 Dans ce cadre, les projets du corpus ne sont pas dispersés. Ils explorent, chacun à sa couche, une même question :
 
@@ -99,29 +108,50 @@ Cette lecture éclaire notamment :
 
 ---
 
-## 2. Vocabulaire minimal de théorie des jeux
+## 2. Grammaire centrale
+
+Le document peut être lu à partir d’une grammaire simple.
+
+| Élément du jeu | Question | Réponse proposée par le corpus |
+|---|---|---|
+| Règles | Qui définit ce qui est permis, interdit, visible ou sanctionné ? | Rendre le control plane explicite, auditable et anti-capture. |
+| Joueurs | Qui agit et avec quelle responsabilité ? | Distinguer personnes vivantes, mandataires, institutions, personnes morales, systèmes automatisés et agents IA. |
+| Coups | Quels actes produisent des effets ? | Identifier les actes engageants et les relier à un mandat, une justification et une imputabilité. |
+| Information | Qui voit quoi ? Qui sait quoi ? | Réduire les asymétries d’information par la traçabilité utile, sans basculer dans la surveillance. |
+| Incitations | Qu’est-ce qui est récompensé ou coûteux ? | Rendre la coopération plus avantageuse que la triche ; rendre la triche détectable et coûteuse. |
+| Mémoire | Que retient le système ? | Construire un corpus vivant, des registres d’actes, une réputation contextualisée et des continuations traçables. |
+| Correction | Que se passe-t-il en cas d’erreur, d’abus ou de capture ? | Prévoir contestation, révocation, correction, audit, fork ou sortie. |
+| Capacité | Qui devient réellement plus capable ? | Mesurer l’autonomie par les capacités effectives, pas seulement par les titres ou compétences formelles. |
+
+Formule condensée :
+
+> Rendre capable, c’est changer les coups possibles, les informations disponibles, les coûts de la triche et les gains de la coopération.
+
+---
+
+## 3. Vocabulaire minimal de théorie des jeux
 
 Cette section introduit les notions générales nécessaires. Elle ne cherche pas l’exhaustivité.
 
-### 2.1. Jeu
+### 3.1. Jeu
 
 Un **jeu** est une situation structurée où plusieurs acteurs peuvent agir selon certaines règles, avec des conséquences qui dépendent aussi des actions des autres.
 
 Un jeu peut être explicite, comme une partie d’échecs ou un match de football. Il peut aussi être implicite : une élection, un marché, une négociation, une copropriété, une administration, un réseau énergétique, une plateforme numérique ou une relation entre citoyens et mandataires.
 
-### 2.2. Joueurs
+### 3.2. Joueurs
 
 Les **joueurs** sont les acteurs capables de poser des actes dans le jeu. Il peut s’agir de personnes physiques, d’élus, d’entreprises, d’administrations, d’associations, de plateformes, de collectifs, de systèmes automatisés ou d’agents IA utilisés par des humains.
 
 Dans le corpus, un point important est que tous les joueurs ne doivent pas être traités de la même manière. Une personne vivante, une institution, une entreprise, une procédure automatisée et un agent conversationnel ne portent pas les mêmes conséquences, les mêmes droits ni les mêmes responsabilités.
 
-### 2.3. Coup
+### 3.3. Coup
 
 Un **coup** est une action effectuée dans le jeu : voter, déléguer, publier, signer, financer, bloquer, tricher, révéler, corriger, auditer, sanctionner, se retirer, coopérer.
 
 Dans le vocabulaire du corpus, un coup important devient souvent un **acte engageant** : un acte qui produit, prépare ou propage un effet significatif et doit donc pouvoir être relié à un mandat, une justification et une responsabilité.
 
-### 2.4. Gain, coût et incitation
+### 3.4. Gain, coût et incitation
 
 La théorie des jeux parle souvent de **payoff**, c’est-à-dire de gain ou de résultat pour un joueur. En français courant, on peut parler d’intérêt, d’avantage, de coût, de risque, de réputation, de pouvoir, de confort, d’argent, de sécurité ou de temps gagné.
 
@@ -131,13 +161,13 @@ L’idée centrale est simple :
 
 Si mentir rapporte plus que dire la vérité, si tricher rapporte plus que respecter la règle, si opacifier rapporte plus que rendre compte, alors le système produit mécaniquement une sélection adverse : les acteurs vertueux sont pénalisés et les acteurs toxiques sont avantagés.
 
-### 2.5. Information
+### 3.5. Information
 
 Un jeu peut être à information complète ou incomplète, symétrique ou asymétrique. Dans beaucoup de jeux sociaux réels, certains acteurs savent plus que d’autres, voient plus que d’autres, ou contrôlent mieux les canaux par lesquels l’information circule.
 
 L’asymétrie d’information est l’un des grands leviers de la capture. Celui qui sait, mais n’est pas obligé de rendre compte, peut souvent orienter le jeu à son profit.
 
-### 2.6. Équilibre
+### 3.6. Équilibre
 
 Un **équilibre** est une situation relativement stable où les joueurs n’ont pas intérêt, compte tenu des règles et des anticipations, à changer seuls de stratégie.
 
@@ -145,13 +175,13 @@ Un équilibre peut être mauvais. Une société peut rester coincée dans un éq
 
 L’enjeu du corpus n’est donc pas seulement de dénoncer un mauvais équilibre. Il est de créer des chemins praticables vers d’autres équilibres.
 
-### 2.7. Jeux répétés
+### 3.7. Jeux répétés
 
 Un **jeu répété** est une situation où les acteurs interagissent plusieurs fois. Dans un jeu unique, trahir peut être avantageux si la sanction ne revient jamais. Dans un jeu répété, la mémoire, la réputation, la possibilité de réciprocité et la sanction future peuvent rendre la coopération plus rationnelle.
 
 La démocratie, l’économie locale, les communs, la vie associative et les relations territoriales sont des jeux répétés. Le problème est que la répétition ne suffit pas. Encore faut-il une mémoire fiable, des règles claires et des sanctions proportionnées.
 
-### 2.8. Coopération et défection
+### 3.8. Coopération et défection
 
 La **coopération** désigne les comportements qui rendent le jeu meilleur pour plusieurs acteurs ou pour le commun. La **défection** désigne les comportements qui exploitent le système à court terme au détriment des autres ou du commun.
 
@@ -159,23 +189,25 @@ La défection n’est pas toujours illégale. Elle peut prendre la forme de l’
 
 ---
 
-## 3. Ce que la théorie des jeux n’est pas
+## 4. Ce que la théorie des jeux n’est pas
 
 Avant d’appliquer cette grille au corpus, il faut éviter trois contresens.
 
-### 3.1. Ce n’est pas une réduction cynique de l’humain
+### 4.1. Ce n’est pas une réduction cynique de l’humain
 
 Lire une situation comme un jeu ne signifie pas que les humains seraient uniquement calculateurs. Cela signifie que les situations sociales ont une structure. Même une personne morale peut être conduite à mal agir si le système rend coûteux le comportement juste et rentable le comportement toxique.
 
 La théorie des jeux ne remplace donc pas l’éthique. Elle explique pourquoi l’éthique individuelle ne suffit pas lorsque les règles récompensent l’anti-jeu.
 
-### 3.2. Ce n’est pas une justification de la manipulation
+Exemple positif : dans une association, si les décisions importantes sont préparées par écrit, reliées à un mandat, discutées dans un canal accessible, puis consignées dans un registre simple, la coopération devient moins risquée. Les contributeurs savent ce qui a été décidé, pourquoi, par qui et comment corriger une erreur. Le système ne rend pas les personnes meilleures par magie ; il rend la coopération plus praticable.
+
+### 4.2. Ce n’est pas une justification de la manipulation
 
 Comprendre les stratégies ne signifie pas qu’il faille manipuler. Au contraire, l’objectif du corpus est de rendre les stratégies visibles, discutables et gouvernables.
 
 La ruse acceptable, dans cette perspective, est une ruse légale de reconfiguration : changer le terrain, révéler l’anti-jeu, créer des capacités, rendre la capture plus difficile. Elle n’est pas mensonge, tromperie ou prise de contrôle cachée.
 
-### 3.3. Ce n’est pas une substitution de la technique à la politique
+### 4.3. Ce n’est pas une substitution de la technique à la politique
 
 Les protocoles, registres, traces, agents IA, outils logiciels et architectures distribuées ne remplacent pas la décision humaine. Ils doivent aider les personnes à mieux décider, mieux contrôler, mieux transmettre et mieux corriger.
 
@@ -183,17 +215,17 @@ Dans la doctrine du corpus, les agents artificiels peuvent participer à la prod
 
 ---
 
-## 4. Présentation minimale du corpus concerné
+## 5. Présentation minimale du corpus concerné
 
 Cette section introduit les principaux projets et notions internes utilisés dans la suite.
 
-### 4.1. C.O.R.S.I.C.A. et Institut Mariani
+### 5.1. C.O.R.S.I.C.A. et Institut Mariani
 
 **C.O.R.S.I.C.A.** est une association fondée à Corte. Elle porte une ambition non lucrative, open source et territoriale : explorer des formes nouvelles de démocratie, de transmission, d’autonomie, de mémoire et de capacité collective.
 
 L’**Institut Mariani** est pensé comme l’émanation de recherche et développement de cette dynamique. Il sert à structurer des travaux doctrinaux, techniques et expérimentaux autour du corpus.
 
-### 4.2. Corpus vivant
+### 5.2. Corpus vivant
 
 Le **corpus vivant** désigne l’ensemble versionné des textes, idées, projets, protocoles, arguments, objections, corrections, archives et produits déclinés. Il n’est pas seulement une bibliothèque. Il est un système de mémoire active, destiné à être repris, corrigé, transmis et augmenté.
 
@@ -202,25 +234,31 @@ La distinction importante est celle-ci :
 - le **document source** conserve la formulation stable, traçable et révisable ;
 - les **produits déclinés** adaptent ce document à un public ou à une scène : Substack, Facebook, discours, note politique, article académique, courrier, présentation.
 
-### 4.3. Cogentia
+### 5.3. Cogentia
 
 **Cogentia** est la branche du corpus consacrée à la cognition outillée, aux agents IA, aux jumeaux numériques, aux paquets cognitifs, aux continuations et à la transmission. Son principe central est que l’IA doit augmenter la capacité humaine sans capturer la décision.
 
 Dans le vocabulaire du corpus, l’IA doit produire des suggestions, des éclairages, des objections, des synthèses et des continuations. Elle ne doit pas prescrire le vote, se substituer au jugement humain ou devenir une autorité opaque.
 
-### 4.4. Kudocracy
+Exemple concret : un agent Cogentia peut repérer qu’un document contredit une position antérieure du corpus, proposer une correction et signaler les passages concernés. Il ne décide pas seul que la doctrine a changé ; il prépare un arbitrage humain.
+
+### 5.4. Kudocracy
 
 **Kudocracy** désigne une approche de la démocratie outillée fondée sur la participation, la délégation contrôlable, les mandats explicites, la traçabilité et la possibilité de reprendre ou rediriger son pouvoir d’agir.
 
 Sous l’angle de la théorie des jeux, Kudocracy cherche à transformer la démocratie en jeu répété mieux instrumenté : les citoyens ne sont plus seulement appelés à voter ponctuellement, ils peuvent déléguer, contrôler, corriger, révoquer et participer selon leurs capacités.
 
-### 4.5. Kudos
+Exemple concret : un citoyen peut déléguer son mandat sur un dossier énergétique à une personne ou à un collectif compétent, pour un périmètre limité et une durée déterminée. Cette délégation doit être visible pour les personnes concernées, révocable, et reliée aux actes posés au nom du mandat. Le pouvoir d’agir circule, mais ne disparaît pas dans une boîte noire.
+
+### 5.5. Kudos
 
 **Kudos** est une proposition de monnaie complémentaire ou couche de reconnaissance adossée à des transactions réelles. L’euro clôt la transaction ; le Kudos ouvre le contre-don.
 
 Sous l’angle de la théorie des jeux, Kudos cherche à rendre visibles des contributions qui disparaissent dans le paiement marchand ordinaire : reconnaissance, confiance, participation territoriale, don, contre-don, mémoire publique volontaire.
 
-### 4.6. FractaVolta et Fractanet
+Exemple concret : après un achat réglé en euros auprès d’un producteur local, un client peut attribuer publiquement des Kudos à ce producteur ou à un projet territorial associé. Le paiement marchand est clos ; le Kudos ajoute une trace volontaire de reconnaissance et de contribution. Il ne doit pas devenir une note globale de valeur personnelle, ni une obligation automatique.
+
+### 5.6. FractaVolta et Fractanet
 
 **FractaVolta** est la branche énergie / infrastructure du corpus. Elle cherche à packetiser l’énergie, c’est-à-dire à la rendre plus modulable, routable, traçable, partageable et gouvernable.
 
@@ -228,7 +266,9 @@ Sous l’angle de la théorie des jeux, Kudos cherche à rendre visibles des con
 
 Sous l’angle de la théorie des jeux, FractaVolta et Fractanet posent la question des communs : comment coordonner des producteurs, consommateurs, stockeurs, opérateurs et territoires sans recréer une capture centrale ?
 
-### 4.7. Operium et Actarchia
+Exemple concret : plusieurs maisons, batteries, panneaux solaires, ateliers ou véhicules électriques peuvent former un réseau local de flexibilité énergétique. Le protocole commun rend les flux mesurables et compatibles, mais les opérations restent distribuées. Le but n’est pas de remplacer une dépendance centrale par une autre, mais de rendre la coordination vérifiable.
+
+### 5.7. Operium et Actarchia
 
 **Operium** peut être compris comme une approche de documentation et de pilotage opérationnel : comprendre l’état courant d’un système, ses évolutions envisagées et sa santé opérationnelle.
 
@@ -236,13 +276,20 @@ Sous l’angle de la théorie des jeux, FractaVolta et Fractanet posent la quest
 
 Sous l’angle de la théorie des jeux, ces deux branches réduisent l’opacité. Elles transforment des jeux à information faible ou manipulable en jeux où les coups importants laissent une trace exploitable.
 
-### 4.8. Autonomie de Capacité
+Exemples concrets :
+
+- Operium peut décrire l’état d’un environnement de production : quels serveurs existent, quelles versions tournent, quels changements sont prévus, quels risques sont ouverts, quels incidents doivent être traités.
+- Actarchia peut enregistrer un acte engageant : qui a validé une publication, une dépense, une délégation ou une modification de règle ; à quelle date ; au nom de quel mandat ; avec quelle justification ; avec quels effets contestables.
+
+### 5.8. Autonomie de Capacité
 
 L’**Autonomie de Capacité** est une notion politique centrale du corpus. Elle s’oppose à une autonomie purement formelle ou institutionnelle. Elle ne demande pas seulement : « Qui a le pouvoir de décider ? » Elle demande : « Qui a réellement la capacité d’agir, de contrôler, de produire, de vérifier, de corriger et de transmettre ? »
 
 Une autonomie de papier peut renforcer des élus ou institutions sans augmenter la capacité réelle des habitants. Une autonomie de capacité doit au contraire augmenter les moyens effectifs des personnes, des communes, des collectifs et des territoires.
 
-### 4.9. Mare Nostrum et #1755
+Exemple concret : un transfert institutionnel qui donne davantage de pouvoirs à une assemblée sans créer de contrôle citoyen, de traçabilité des actes, de droit réel à l’expérimentation et de capacités énergétiques ou numériques locales peut accroître le pouvoir formel sans accroître l’autonomie réelle.
+
+### 5.9. Mare Nostrum et #1755
 
 **Mare Nostrum** est une projection méditerranéenne articulant énergie décarbonée, inférences IA, souveraineté distribuée et coopération entre territoires, notamment insulaires.
 
@@ -252,7 +299,7 @@ Sous l’angle de la théorie des jeux, #1755 est un jeu de reconnaissance : obt
 
 ---
 
-## 5. Thèse générale : changer les règles du jeu
+## 6. Thèse générale : changer les règles du jeu
 
 La thèse générale de ce document peut se formuler ainsi :
 
@@ -278,7 +325,7 @@ Formule de doctrine :
 
 ---
 
-## 6. Prime au vice et punition de la vertu
+## 7. Prime au vice et punition de la vertu
 
 La formule « prime au vice et punition de la vertu » résume une situation où les règles apparentes ne produisent plus les comportements qu’elles prétendent encourager.
 
@@ -308,7 +355,7 @@ Formule :
 
 ---
 
-## 7. Control plane et data plane
+## 8. Control plane et data plane
 
 La distinction entre **control plane** et **data plane** vient des réseaux informatiques, mais elle peut servir de métaphore générale.
 
@@ -341,11 +388,11 @@ Cette distinction éclaire plusieurs branches du corpus :
 
 ---
 
-## 8. Football, échecs et pédagogie stratégique
+## 9. Football, échecs et pédagogie stratégique
 
 La théorie des jeux peut sembler abstraite. Pourtant, ses intuitions sont déjà présentes dans des pratiques populaires ou largement comprises.
 
-### 8.1. Football
+### 9.1. Football
 
 Le football permet de comprendre :
 
@@ -364,7 +411,7 @@ L’expression « acheter le match » est particulièrement utile. Elle montre i
 
 Dans une démocratie capturée, le problème n’est pas seulement qu’un camp joue mieux. Le problème est que certains acteurs peuvent influencer les règles, l’arbitrage, le calendrier, la visibilité, les sanctions et les récits d’après-match.
 
-### 8.2. Échecs
+### 9.2. Échecs
 
 Les échecs permettent de comprendre :
 
@@ -380,7 +427,7 @@ Les échecs permettent de comprendre :
 
 Beaucoup de situations politiques ou institutionnelles ressemblent à des positions fermées : le joueur faible ne peut pas gagner frontalement, mais il peut changer le rythme, ouvrir une colonne, forcer une clarification, rendre visible une contradiction ou transformer une défense adverse en preuve de capture.
 
-### 8.3. Transfert pédagogique
+### 9.3. Transfert pédagogique
 
 Une hypothèse pédagogique importante pour la Corse est que les compétences stratégiques existent déjà dans la culture ordinaire : analyse du football, goût des échecs, sens du terrain, mémoire des rapports de force, prudence face aux appareils.
 
@@ -392,7 +439,7 @@ Formule :
 
 ---
 
-## 9. Jeux répétés, mémoire et réputation
+## 10. Jeux répétés, mémoire et réputation
 
 La coopération durable suppose généralement trois conditions :
 
@@ -417,7 +464,7 @@ Formule :
 
 ---
 
-## 10. Dilemme du prisonnier et dilemme du citoyen
+## 11. Dilemme du prisonnier et dilemme du citoyen
 
 Le dilemme du prisonnier est un exemple classique : deux acteurs auraient collectivement intérêt à coopérer, mais chacun peut être tenté de trahir si la trahison semble plus rentable individuellement.
 
@@ -452,7 +499,7 @@ Formule :
 
 ---
 
-## 11. Passager clandestin et communs
+## 12. Passager clandestin et communs
 
 Un **passager clandestin** est un acteur qui bénéficie d’un commun sans contribuer équitablement à son entretien.
 
@@ -475,7 +522,7 @@ Formule :
 
 ---
 
-## 12. Transparence, surveillance et asymétrie
+## 13. Transparence, surveillance et asymétrie
 
 La transparence est un levier central du corpus. Mais elle n’est légitime que si elle respecte une asymétrie démocratique : plus un acteur exerce un pouvoir sur autrui, plus ses actes engageants doivent être visibles et imputables.
 
@@ -485,17 +532,19 @@ Principe :
 
 > Transparence renforcée pour les actes publics et les mandataires ; protection renforcée pour les personnes privées.
 
+Exemple concret : un élu doit pouvoir justifier son vote public, les amendements qu’il porte, les mandats qu’il invoque, les intérêts qu’il représente et les actes qui engagent la collectivité. En revanche, ses conversations privées avec son médecin, sa famille ou ses proches, ainsi que ses choix personnels sans effet public, ne relèvent pas d’une traçabilité politique.
+
 Cette distinction permet de répondre à une objection majeure : la traçabilité pourrait devenir surveillance. Oui, si elle est mal conçue. Non, si elle est bornée par des seuils, des finalités, des droits de contestation, des durées, des mandats et une séparation claire entre actes engageants et vie personnelle.
 
 ---
 
-## 13. IA comme révélateur et stabilisateur
+## 14. IA comme révélateur et stabilisateur
 
 L’intelligence artificielle modifie les jeux sociaux parce qu’elle réduit fortement le coût de certaines opérations : lire, résumer, comparer, chercher des incohérences, produire des variantes, simuler des objections, surveiller des changements, documenter des décisions, préparer des courriers, relier des idées éloignées.
 
 Dans le corpus, l’IA doit jouer deux rôles principaux.
 
-### 13.1. Révélateur
+### 14.1. Révélateur
 
 L’IA peut rendre visibles :
 
@@ -510,7 +559,7 @@ L’IA peut rendre visibles :
 
 Elle peut donc modifier les jeux où l’opacité protège les acteurs dominants.
 
-### 13.2. Stabilisateur
+### 14.2. Stabilisateur
 
 L’IA peut aussi produire des stabilisateurs :
 
@@ -526,7 +575,7 @@ L’IA peut aussi produire des stabilisateurs :
 
 Elle aide alors à maintenir le corpus, les projets et les institutions dans un état plus cohérent.
 
-### 13.3. Limite démocratique
+### 14.3. Limite démocratique
 
 L’IA ne doit pas devenir un joueur souverain du jeu démocratique. Elle ne vit pas sous les lois qu’elle peut influencer. Elle ne porte pas les conséquences politiques, existentielles ou matérielles des décisions collectives.
 
@@ -536,7 +585,7 @@ Formule :
 
 ---
 
-## 14. Autonomie de Capacité : changer le jeu corse
+## 15. Autonomie de Capacité : changer le jeu corse
 
 L’autonomie institutionnelle peut être pensée comme un transfert de compétences. L’Autonomie de Capacité demande davantage : les habitants, communes, collectifs et acteurs locaux deviennent-ils réellement plus capables ?
 
@@ -563,7 +612,7 @@ Formule :
 
 ---
 
-## 15. Méthode des terrains féconds comme changement de jeu
+## 16. Méthode des terrains féconds comme changement de jeu
 
 La méthode des terrains féconds consiste à ne pas accepter passivement le terrain imposé par une opposition stérile.
 
@@ -595,7 +644,7 @@ Ce déplacement n’est pas un compromis mou. C’est une reconfiguration du ter
 
 ---
 
-## 16. #1755 comme stratégie de reconnaissance minimale
+## 17. #1755 comme stratégie de reconnaissance minimale
 
 Le projet #1755 cherche à faire reconnaître la place de la Corse dans l’histoire mondiale de la souveraineté populaire, du constitutionnalisme et des révolutions modernes.
 
@@ -615,7 +664,7 @@ Formule :
 
 ---
 
-## 17. Corpus personnel contre profiling sauvage
+## 18. Corpus personnel contre profiling sauvage
 
 Le corpus personnel et le jumeau numérique peuvent aussi être lus comme une réponse stratégique à un jeu déjà en cours.
 
@@ -637,39 +686,39 @@ Formule :
 
 ---
 
-## 18. Risques et objections
+## 19. Risques et objections
 
-### 18.1. Risque de tout transformer en jeu
+### 19.1. Risque de tout transformer en jeu
 
 Objection : cette grille pourrait réduire la vie sociale à des calculs stratégiques.
 
 Réponse : le but n’est pas de nier l’amour, la loyauté, la dignité, la mémoire, le deuil, la beauté ou la gratuité. Le but est de comprendre pourquoi ces valeurs sont souvent détruites lorsque les règles sociales récompensent l’anti-jeu.
 
-### 18.2. Risque de cynisme
+### 19.2. Risque de cynisme
 
 Objection : parler de stratégie, de triche, de capture et d’incitations peut rendre cynique.
 
 Réponse : le cynisme consiste à croire que rien ne peut changer. La théorie des jeux, utilisée correctement, permet au contraire d’identifier ce qu’il faut modifier pour que d’autres comportements deviennent rationnels.
 
-### 18.3. Risque de surveillance
+### 19.3. Risque de surveillance
 
 Objection : la traçabilité peut devenir surveillance.
 
 Réponse : oui. C’est pourquoi le corpus doit maintenir une distinction stricte entre actes engageants et vie privée, entre mandataires et personnes ordinaires, entre transparence démocratique et exposition personnelle.
 
-### 18.4. Risque de réputation punitive
+### 19.4. Risque de réputation punitive
 
 Objection : Kudos, la trace ou la mémoire publique pourraient dériver vers une notation sociale.
 
 Réponse : ce risque doit être traité dès la conception. Une réputation légitime doit être volontaire, contextualisée, reliée à des actes vérifiables, contestable, corrigeable et limitée. Elle ne doit pas devenir une note globale de valeur personnelle.
 
-### 18.5. Risque de technosolutionnisme
+### 19.5. Risque de technosolutionnisme
 
 Objection : les outils techniques ne suffiront pas.
 
 Réponse : exact. Les outils ne suffisent pas. Mais sans outils de mémoire, de vérification, de coordination et de correction, les appels à la vertu restent souvent désarmés face aux jeux capturés.
 
-### 18.6. Risque de capture du dispositif anti-capture
+### 19.6. Risque de capture du dispositif anti-capture
 
 Objection : tout dispositif anti-capture peut être capturé à son tour.
 
@@ -677,11 +726,11 @@ Réponse : c’est une objection forte. Elle impose modularité, redondance, aud
 
 ---
 
-## 19. Conséquences opérationnelles
+## 20. Conséquences opérationnelles
 
 Cette lecture par la théorie des jeux conduit à plusieurs exigences pratiques.
 
-### 19.1. Pour chaque projet
+### 20.1. Pour chaque projet
 
 Demander :
 
@@ -696,9 +745,28 @@ Demander :
 9. Comment la coopération est-elle récompensée ?
 10. Comment éviter que le remède soit capturé ?
 
-### 19.2. Pour chaque document source
+### 20.2. Pour les documents sources
 
-Ajouter si utile une section :
+Une section « Lecture théorie des jeux » peut être ajoutée aux documents sources lorsque le sujet s’y prête. Pour éviter d’alourdir chaque texte, le modèle complet est placé en annexe.
+
+### 20.3. Pour les produits publics
+
+La version publique peut partir de formulations simples :
+
+- « Les règles du jeu sont cassées. »
+- « Quand les tricheurs gagnent, il faut changer les règles. »
+- « Acheter le match n’est pas jouer mieux. »
+- « Pas de pouvoir sans contrôle. »
+- « Rendre capable, c’est changer les coups possibles. »
+- « L’autonomie de papier change les titres ; l’autonomie de capacité change le jeu. »
+
+---
+
+## 21. Annexes méthodologiques
+
+Les annexes ci-dessous sont destinées aux contributeurs du corpus et aux agents IA utilisés dans le pipeline de rédaction / revue. Elles ne portent pas la thèse principale du document ; elles servent à produire des continuations traçables.
+
+### Annexe A — Modèle de section « Lecture théorie des jeux »
 
 ```markdown
 ## Lecture théorie des jeux
@@ -715,20 +783,7 @@ Ajouter si utile une section :
 - Risques résiduels : ...
 ```
 
-### 19.3. Pour les produits publics
-
-La version publique peut partir de formulations simples :
-
-- « Les règles du jeu sont cassées. »
-- « Quand les tricheurs gagnent, il faut changer les règles. »
-- « Acheter le match n’est pas jouer mieux. »
-- « Pas de pouvoir sans contrôle. »
-- « Rendre capable, c’est changer les coups possibles. »
-- « L’autonomie de papier change les titres ; l’autonomie de capacité change le jeu. »
-
----
-
-## 20. Prompt de rédacteur
+### Annexe B — Prompt de rédacteur
 
 Ce prompt sert à demander à un agent IA de produire une version, une section ou une déclinaison du présent document dans le rôle de **rédacteur**. Le rédacteur n’est pas souverain : il propose une formulation structurée, mais l’arbitrage doctrinal appartient à l’auteur humain.
 
@@ -768,15 +823,13 @@ Format attendu :
 7. Développement par couches.
 8. Objections et risques.
 9. Conséquences opérationnelles.
-10. Prompts rédacteur et reviewer.
+10. Annexes rédacteur et reviewer.
 11. Changelog.
 
 Rappel : tu rédiges, tu ne décides pas. Les formulations doctrinales finales doivent rester arbitrables par Jean Hugues Noël Robert.
 ```
 
----
-
-## 21. Prompt de reviewer
+### Annexe C — Prompt de reviewer
 
 Ce prompt sert à faire relire le document par un agent ou un humain dans le rôle de **reviewer critique adverse**. Le reviewer ne réécrit pas tout le texte. Il identifie les objections, les risques, les faiblesses et les corrections actionnables.
 
@@ -786,7 +839,7 @@ Tu es reviewer critique adverse, non décisionnel.
 Document cible :
 - repository: JeanHuguesRobert/barons-Mariani
 - file: research/theorie_des_jeux_corpus.md
-- version: v0.1
+- version: v0.2
 
 Objectif : relire le document comme un lecteur exigeant qui ne connaît pas nécessairement le corpus de Jean Hugues Noël Robert.
 
@@ -838,6 +891,24 @@ Rappel : tu n’es pas l’auteur. Tu aides à rendre les objections visibles et
 ---
 
 ## 22. Changelog
+
+### v0.2 — 2026-06-25
+
+Version de consolidation après revue constructive de Grok.
+
+Intégrations principales :
+
+- titre précisé : « Théorie des jeux comme grille de lecture du corpus » ;
+- statut passé de `working_draft` à `reviewed_draft` ;
+- ajout d’une grammaire centrale ;
+- renforcement de l’anti-cynisme dès le statut et le résumé ;
+- ajout d’un exemple positif de coopération rendue praticable ;
+- ajout d’exemples concrets pour Cogentia, Kudocracy, Kudos, FractaVolta / Fractanet, Operium, Actarchia et Autonomie de Capacité ;
+- illustration de la distinction transparence des mandataires / protection de la vie privée ;
+- déplacement du template et des prompts en annexes méthodologiques ;
+- mise à jour du prompt reviewer pour la v0.2.
+
+Cette version ne modifie pas la thèse centrale. Elle renforce son autoportance, sa lisibilité et sa résistance aux mauvaises lectures.
 
 ### v0.1 — 2026-06-25
 
