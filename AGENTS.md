@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/AGENTS.md
-last_stamped_at: 2026-06-13
+last_stamped_at: 2026-06-26
 document_role: "operational"
 document_kind: "agent-mandate"
 visibility: "public"
@@ -61,7 +61,18 @@ The corpus remains the source of truth.
 Human authorization governs stabilization.
 ```
 
-Reference: [`cogentia/research/agent_configuration_layer.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_configuration_layer.md).
+References:
+
+- [`cogentia/research/agent_configuration_layer.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_configuration_layer.md)
+- [`cogentia/research/optimistic_mainline_governance.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md)
+
+## Direct-main rule
+
+This repository follows **Optimistic Mainline Governance** by reference, not by copying the doctrine here.
+
+Small direct commits to `main` are acceptable only when explicitly authorized, scoped, reversible, inspectable by diff, and reported after completion.
+
+Because this is a high-authority corpus repository, direct-main work must remain more conservative than in implementation repositories. Use an issue, checkpoint, branch, PR, staged patch or human validation when a change touches doctrine, legal/political position, sensitive material, accusations, institutional commitments, or several documents at once.
 
 ## Working discipline
 
@@ -118,6 +129,7 @@ Source/derived status:
 Facts checked:
 Hypotheses marked:
 Known risks:
+Reversibility:
 Next step:
 Human validation needed: yes/no
 ```
