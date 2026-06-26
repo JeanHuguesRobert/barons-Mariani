@@ -728,6 +728,26 @@ Garde-fous :
 
 Le but n’est pas d’éliminer tout abus. C’est de rendre l’abus visible, coûteux et contestable.
 
+### 15.1 Principe anti-achat du match
+
+Kudos ne doit pas seulement empêcher les abus techniques. Il doit empêcher une dérive plus profonde : qu’un acteur puisse acheter la reconnaissance collective en substituant sa puissance financière à une contribution réelle au commun.
+
+Le montant donné est une information. Il n’est pas une légitimité.
+
+Une règle du jeu est défaillante si l’acteur doté du plus gros budget peut acheter le résultat sans produire une contribution proportionnée, traçable et contestable aux conditions de vie des humains affectés.
+
+Dans Kudos, cela signifie :
+
+- un don important ne vaut pas autorité morale ;
+- une forte visibilité ne vaut pas légitimité civique ;
+- une contribution doit rester située, volontaire, vérifiable et contestable ;
+- le montant donné doit être distingué de la qualité de la contribution ;
+- la règle doit empêcher les flux circulaires, la capture réputationnelle et l’achat d’influence.
+
+Formule :
+
+> **Le coût rend l’acte sérieux ; il ne doit jamais permettre d’acheter le résultat.**
+
 ---
 
 ## 16. Risque de crédit social
