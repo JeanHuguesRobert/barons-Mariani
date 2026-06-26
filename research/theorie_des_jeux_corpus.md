@@ -3,9 +3,9 @@ title: "Théorie des jeux comme grille de lecture du corpus"
 subtitle: "Règles, triche, coopération, capture et Autonomie de Capacité"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-25"
-status: "reviewed_draft"
-version: "0.2"
+date: "2026-06-26"
+status: "release_candidate"
+version: "0.2.1"
 license: "CC BY-SA 4.0"
 repository: "barons-Mariani"
 path: "research/theorie_des_jeux_corpus.md"
@@ -14,11 +14,12 @@ document_kind: "research-paper"
 visibility: "public"
 lifecycle_state: "working"
 human_validation_required: true
-review_status: "Grok constructive review integrated 2026-06-25; v0.2 consolidates autoportance, anti-cynicism, examples and annex separation"
+review_status: "Grok constructive review integrated 2026-06-25; Grok confirmation review 2026-06-26; v0.2.1 adds three non-blocking micro-clarifications"
 ai_assisted_by:
   - "ChatGPT — rédaction, structuration, explicitation autoporteuse, intégration de revue"
 reviewed_by:
   - "Grok — constructive external reviewer, non decisionnel, review 2026-06-25"
+  - "Grok — confirmation reviewer, review 2026-06-26"
 review_expected_by:
   - "Grok / Claude / ChatGPT / humain — reviewer critique adverse, non décisionnel"
 related_documents:
@@ -72,13 +73,15 @@ Il est conçu comme un document **autoporteur**. Cela signifie que ses thèses p
 
 Ce texte n’est pas un traité académique de théorie des jeux. Il utilise la théorie des jeux comme **grille de lecture** : un langage permettant de décrire les règles, les acteurs, les incitations, les asymétries d’information, les stratégies de coopération ou de défection, les captures du système et les conditions permettant de rendre la coopération rationnelle.
 
-Cette version v0.2 consolide la v0.1 après revue constructive externe. Elle renforce l’autoportance, ajoute des exemples concrets, explicite la défense anti-cynique, illustre la distinction entre transparence des actes publics et protection de la vie privée, et déplace les éléments méthodologiques en annexes.
+Cette version v0.2.1 consolide la v0.2 après revue de confirmation. Elle ajoute trois micro-clarifications non bloquantes : un exemple bref de jeu reconfiguré, une précision sur Kudos comme reconnaissance volontaire et contextualisée, et un raccord plus explicite entre #1755 et la stratégie de reconnaissance minimale.
 
 Formule directrice :
 
 > Le corpus peut se lire comme une ingénierie des jeux sociaux : identifier les jeux où la triche devient rationnelle, rendre les coups visibles, réduire la capture du plan de contrôle, augmenter la capacité des joueurs légitimes et transformer progressivement les équilibres toxiques en équilibres coopératifs.
 
 Cette formule ne signifie pas que les acteurs humains seraient naturellement cyniques ou calculateurs. Elle part au contraire d’une hypothèse plus exigeante : beaucoup d’acteurs préfèrent coopérer lorsque les règles rendent la coopération praticable, visible, sûre et rationnelle.
+
+Exemple minimal : lorsqu’une collectivité rend publics les mandats, les votes, les critères de décision et les voies de contestation, elle ne transforme pas magiquement les acteurs. Elle change le jeu : l’abus devient plus visible, la coopération devient moins risquée et la correction devient plus praticable.
 
 ---
 
@@ -257,6 +260,8 @@ Exemple concret : un citoyen peut déléguer son mandat sur un dossier énergét
 Sous l’angle de la théorie des jeux, Kudos cherche à rendre visibles des contributions qui disparaissent dans le paiement marchand ordinaire : reconnaissance, confiance, participation territoriale, don, contre-don, mémoire publique volontaire.
 
 Exemple concret : après un achat réglé en euros auprès d’un producteur local, un client peut attribuer publiquement des Kudos à ce producteur ou à un projet territorial associé. Le paiement marchand est clos ; le Kudos ajoute une trace volontaire de reconnaissance et de contribution. Il ne doit pas devenir une note globale de valeur personnelle, ni une obligation automatique.
+
+Chaque émission de Kudos doit rester liée à un contexte identifiable : une transaction, une contribution, un service, un projet ou un acte de reconnaissance. Cette contextualisation est essentielle. Elle distingue une mémoire volontaire des contributions d’une notation sociale générale, punitive ou opaque.
 
 ### 5.6. FractaVolta et Fractanet
 
@@ -458,6 +463,8 @@ Mais une mémoire outillée peut dériver vers la surveillance. La distinction e
 
 Kudos, par exemple, doit être pensé comme une mémoire volontaire de reconnaissance et de contre-don, non comme un crédit social. La traçabilité des actes doit viser les actes ayant un effet sur autrui ou sur un mandat, non les micro-événements privés.
 
+La réputation utile doit donc rester **située** : elle porte sur une contribution, un mandat, un acte, une transaction ou un projet, non sur la valeur globale d’une personne. Elle doit aussi rester contestable et corrigeable.
+
 Formule :
 
 > La mémoire utile n’est pas la surveillance totale. C’est la capacité de retrouver les actes qui engagent, les mandats qui les autorisent, les raisons qui les justifient et les mécanismes qui permettent de les contester ou de les corriger.
@@ -650,6 +657,8 @@ Le projet #1755 cherche à faire reconnaître la place de la Corse dans l’hist
 
 Sous l’angle de la théorie des jeux, il ne faut pas commencer par la revendication maximale. Il faut identifier le plus petit énoncé historiquement rigoureux, difficile à contester, capable d’ouvrir le jeu sans déclencher immédiatement une coalition de blocage.
 
+Cette reconnaissance minimale est un levier de changement de jeu : elle ne gagne pas tout d’un coup, mais elle modifie le terrain de ce qui peut ensuite être dit, enseigné, commémoré, transmis et revendiqué sans paraître excessif.
+
 Cette stratégie relève d’une prudence rationnelle :
 
 - obtenir une première reconnaissance limitée ;
@@ -839,7 +848,7 @@ Tu es reviewer critique adverse, non décisionnel.
 Document cible :
 - repository: JeanHuguesRobert/barons-Mariani
 - file: research/theorie_des_jeux_corpus.md
-- version: v0.2
+- version: v0.2.1
 
 Objectif : relire le document comme un lecteur exigeant qui ne connaît pas nécessairement le corpus de Jean Hugues Noël Robert.
 
@@ -891,6 +900,20 @@ Rappel : tu n’es pas l’auteur. Tu aides à rendre les objections visibles et
 ---
 
 ## 22. Changelog
+
+### v0.2.1 — 2026-06-26
+
+Micro-version de finition après revue de confirmation Grok du 2026-06-26.
+
+Intégrations principales :
+
+- passage au statut `release_candidate` ;
+- ajout d’un micro-exemple de jeu reconfiguré après la formule directrice ;
+- précision sur Kudos comme reconnaissance volontaire, contextualisée et non assimilable à une note globale ;
+- précision sur #1755 comme stratégie de reconnaissance minimale modifiant le terrain des reconnaissances futures ;
+- mise à jour du prompt reviewer vers v0.2.1.
+
+Cette version ne modifie pas la thèse centrale et clôt le cycle de consolidation avant produits déclinés.
 
 ### v0.2 — 2026-06-25
 
