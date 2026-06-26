@@ -865,6 +865,8 @@ v0.3 corrige v0.2 sur plusieurs points :
 - Le pilote Corte sert à tester autant la monnaie que la franchissabilité institutionnelle.
 - Le droit est une contrainte, mais aussi un objet d’enquête.
 - Pas de score global, pas de crédit social, pas de surveillance de la vie privée.
+- Le montant donné ne vaut pas autorité morale, politique ou civique.
+- Kudos doit rendre les abus visibles, coûteux et contestables sans permettre d’acheter le match.
 
 ## Open questions
 - Quel véhicule peut porter la réserve ?
