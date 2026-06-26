@@ -4,13 +4,14 @@ subtitle: "Autonomie, logement, énergie : pourquoi la Corse doit apprendre à l
 author: "Jean Hugues Noël Robert"
 date: "2026-06-26"
 status: "draft — substack"
-version: "0.1"
+version: "0.2"
 license: "CC BY-SA 4.0"
 repository: "barons-Mariani"
 path: "research/theorie_des_jeux_corpus_blogpost.md"
 document_role: "product"
 document_kind: "substack-draft"
 source_document: "research/theorie_des_jeux_corpus.md v0.2.1"
+source_document_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md"
 visibility: "public"
 lifecycle_state: "draft"
 human_validation_required: true
@@ -28,8 +29,13 @@ tags:
   - autonomie de capacité
   - théorie des jeux
   - control plane
+  - football
+  - échecs
   - logement
   - énergie
+  - FractaVolta
+  - Fractanet
+  - déclaration d’intérêts
   - anti-capture
 ---
 
@@ -45,31 +51,35 @@ Une autonomie de papier change les titres.
 
 Une autonomie de capacité change les coups possibles.
 
-C’est cela que je veux mettre au centre de ma campagne sénatoriale : ne pas seulement demander plus de compétences, mais construire les conditions qui rendent les Corses réellement capables d’agir, de contrôler, de produire, de vérifier, de corriger et de transmettre.
+Par **Autonomie de Capacité**, j’entends une autonomie qui ne se contente pas de transférer des compétences à des institutions, mais qui augmente réellement la capacité des habitants, des communes et des acteurs locaux à agir, contrôler, produire, vérifier, corriger et transmettre.
+
+C’est cela que je veux mettre au centre de ma campagne sénatoriale : ne pas seulement demander plus de compétences, mais construire les conditions qui rendent les Corses réellement capables.
 
 Autrement dit : ne pas seulement réclamer une meilleure place dans le jeu existant. Changer les règles du jeu.
 
-## Le Sénat n’est pas un décor : c’est une pièce du control plane
+Pour les lecteurs qui souhaitent la version plus complète, plus abstraite et plus méthodique de cette analyse, le document source souverain est ici : [Théorie des jeux comme grille de lecture du corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md).
 
-Une élection sénatoriale n’est pas une présidentielle miniature. Ce n’est pas une scène faite pour les slogans nationaux ou les effets de manche. C’est une élection indirecte, portée par les grands électeurs, très largement issus des conseils municipaux. En Haute-Corse, il n’y a qu’un siège : cela oblige à penser précisément ce que ce siège peut faire.
+## Ce que j’appelle « théorie des jeux »
 
-Le Sénat compte particulièrement pour la Corse parce que la réforme institutionnelle de l’île ne pourra pas se jouer sans lui. Le débat sur l’autonomie ne se limite pas à Ajaccio, Bastia, Paris ou Corte. Il passe aussi par les commissions, les rapports, les votes conformes, les équilibres parlementaires et, le cas échéant, le Congrès.
+Le mot peut impressionner. Il ne devrait pas.
 
-C’est cela que j’appelle le **control plane** : la couche qui définit les règles du jeu. Qui peut décider ? Selon quelle procédure ? Avec quels mots ? Avec quels verrous ? Avec quelles majorités ? Avec quelle capacité de blocage ?
+La [théorie des jeux](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_jeux) est un domaine des mathématiques, de l’économie et des sciences sociales qui étudie les situations où plusieurs acteurs prennent des décisions en tenant compte des décisions possibles des autres.
 
-La Corse peut gagner un discours et perdre le control plane.
+Un « jeu », ici, n’est pas forcément un divertissement. C’est une situation structurée : il y a des joueurs, des règles, des coups possibles, des informations visibles ou cachées, des gains, des coûts, des risques, des sanctions.
 
-Elle peut obtenir des formules symboliques et rester incapable d’agir.
+Une élection est un jeu.
 
-Elle peut entendre parler d’autonomie tout en voyant les règles effectives rester ailleurs.
+Un marché immobilier est un jeu.
 
-Le Sénat est donc un lieu stratégique non parce qu’il serait prestigieux, mais parce qu’il participe à la définition des règles qui rendront l’autonomie réelle, faible, contrôlable, capturable ou simplement décorative.
+Une négociation avec l’État est un jeu.
 
-## La théorie des jeux n’est pas du cynisme
+Un réseau électrique est un jeu.
 
-Quand je parle de règles du jeu, je ne dis pas que les hommes seraient naturellement mauvais, ni que toute politique serait manipulation.
+Une copropriété est un jeu.
 
-Je dis quelque chose de plus simple : les institutions produisent des comportements.
+Une relation entre citoyens, élus, administrations, opérateurs économiques et médias est un jeu.
+
+Lire la Corse avec cette grille ne signifie pas que les hommes seraient naturellement mauvais, ni que toute politique serait manipulation. Cela signifie que les règles produisent des comportements.
 
 Si le système récompense l’opacité, les opaques montent.
 
@@ -85,7 +95,7 @@ Un bon système ne suppose pas que tous les joueurs soient vertueux. Il limite l
 
 Voilà pourquoi la théorie des jeux est utile pour lire la Corse aujourd’hui.
 
-Elle permet de poser des questions simples :
+Elle oblige à poser des questions simples :
 
 Qui joue ?
 
@@ -98,6 +108,42 @@ Qui peut bloquer ?
 Qui gagne si rien ne change ?
 
 Qui devient vraiment plus capable si l’on réforme ?
+
+## Football, échecs : nous savons déjà lire les jeux
+
+La théorie des jeux peut sembler abstraite. Pourtant, beaucoup de Corses savent déjà raisonner ainsi lorsqu’ils parlent de football ou d’échecs.
+
+Au football, chacun comprend la différence entre bien jouer, faire une faute tactique, pratiquer l’anti-jeu, influencer l’arbitre ou acheter le match.
+
+Acheter le match, ce n’est pas jouer mieux. C’est capturer le jeu.
+
+C’est exactement ce qui se passe dans certaines institutions lorsqu’un acteur ne cherche plus seulement à gagner loyalement, mais à contrôler l’ordre du jour, les critères de recevabilité, les canaux de visibilité, les sanctions, les procédures et le récit final.
+
+Aux échecs, chacun comprend que la position compte autant que l’intention. Un joueur peut être courageux et pourtant perdre parce que toutes ses pièces sont mal placées. Un autre peut ne pas attaquer frontalement, mais contrôler les cases critiques, forcer une clarification, créer un zugzwang, c’est-à-dire une situation où chaque coup adverse aggrave sa position.
+
+La politique corse doit réapprendre cela.
+
+Il ne suffit pas de dire que nous voulons gagner. Il faut regarder le terrain, les règles, les arbitres, les coups forcés, les pièces bloquées, les alliances possibles et les positions qui rendent la victoire impossible avant même que le match commence.
+
+## Le Sénat n’est pas un décor : c’est une pièce du control plane
+
+J’emploie ici une expression empruntée aux réseaux informatiques : **control plane**.
+
+Le data plane, c’est la couche où les choses circulent : argent, énergie, votes, données, services, décisions.
+
+Le control plane, c’est la couche qui fixe les règles de circulation : qui a le droit d’agir, selon quelle procédure, avec quels contrôles, quelles exceptions, quelles sanctions, quelles majorités.
+
+Une élection sénatoriale n’est pas une présidentielle miniature. Ce n’est pas une scène faite pour les slogans nationaux ou les effets de manche. C’est une élection indirecte, portée par les grands électeurs, très largement issus des conseils municipaux. En Haute-Corse, il n’y a qu’un siège : cela oblige à penser précisément ce que ce siège peut faire.
+
+Le Sénat compte particulièrement pour la Corse parce que la réforme institutionnelle de l’île ne pourra pas se jouer sans lui. Le débat sur l’autonomie ne se limite pas à Ajaccio, Bastia, Paris ou Corte. Il passe aussi par les commissions, les rapports, les votes conformes, les équilibres parlementaires et, le cas échéant, le Congrès.
+
+La Corse peut gagner un discours et perdre le control plane.
+
+Elle peut obtenir des formules symboliques et rester incapable d’agir.
+
+Elle peut entendre parler d’autonomie tout en voyant les règles effectives rester ailleurs.
+
+Le Sénat est donc un lieu stratégique non parce qu’il serait prestigieux, mais parce qu’il participe à la définition des règles qui rendront l’autonomie réelle, faible, contrôlable, capturable ou simplement décorative.
 
 ## Autonomie : attention au mauvais jeu
 
@@ -141,7 +187,7 @@ Le problème n’est pas seulement que certains propriétaires soient méchants.
 
 Le problème est que le jeu récompense certains coups.
 
-Heureusement, on voit apparaître des contre-coups. La loi Le Meur de 2024 donne aux communes de nouveaux outils pour réguler les meublés de tourisme. Certaines villes, dont Bonifacio, ont commencé à utiliser la possibilité de réserver des zones aux résidences principales dans les secteurs où les résidences secondaires dépassent un seuil critique.
+Heureusement, on voit apparaître des contre-coups. La loi Le Meur de 2024 donne aux communes de nouveaux outils pour réguler les meublés de tourisme. Certaines communes commencent aussi à utiliser la possibilité de réserver des zones aux résidences principales dans les secteurs où les résidences secondaires dépassent un seuil critique.
 
 C’est exactement une modification des règles du jeu.
 
@@ -177,7 +223,15 @@ Qui peut arbitrer entre usages domestiques, agricoles, touristiques, industriels
 
 Une transition énergétique peut être réelle techniquement et faible démocratiquement. Elle peut remplacer une dépendance carbonée par une dépendance technocratique. Elle peut rendre l’électricité plus verte sans rendre la Corse plus capable.
 
-C’est pourquoi FractaVolta et Fractanet proposent une autre lecture : mettre en commun ce qui permet d’agir, laisser divers ceux qui agissent, rendre vérifiable ce qui a été fait.
+C’est ici que j’introduis deux notions de mon propre corpus : **FractaVolta** et **Fractanet**.
+
+FractaVolta est un projet commercial de startup à impact consacré à l’énergie territoriale : production solaire, stockage, pilotage des usages, seconde vie de batteries, outils de flexibilité et, plus largement, transformation de l’énergie en capacité locale. L’intention est que la société ne soit pas seulement possédée par moi, que ses bénéfices soient partagés, et qu’ils restent majoritairement sur le territoire. Mais cela ne supprime pas le conflit d’intérêts potentiel : FractaVolta peut bénéficier économiquement d’une partie des idées que je défends.
+
+Je dois donc appliquer à moi-même ce que je réclame aux autres : déclaration d’intérêts, gouvernance explicite, traçabilité des actes, séparation entre intérêt général local et intérêt commercial, et contrôle public des règles du jeu.
+
+Fractanet désigne l’architecture plus générale : un réseau distribué où l’énergie, les données, les batteries, les usages, les inférences IA et les capacités locales peuvent être coordonnés sans être absorbés par un centre unique.
+
+La formule est simple : mettre en commun ce qui permet d’agir ; laisser divers ceux qui agissent ; rendre vérifiable ce qui a été fait.
 
 L’énergie n’est pas seulement une marchandise. C’est un jeu de coordination territoriale.
 
@@ -203,6 +257,8 @@ C’est relier un pouvoir à une responsabilité.
 
 ## IA : révélateur, pas gouverneur
 
+Par IA, j’entends ici les outils contemporains capables d’aider à lire, résumer, comparer, relier et critiquer des masses de textes, de décisions, de chiffres ou d’archives.
+
 L’intelligence artificielle change la partie parce qu’elle abaisse le coût de la lecture, de la comparaison, de la synthèse, de la détection des contradictions et du suivi des décisions.
 
 Elle peut aider un citoyen à comprendre un dossier opaque.
@@ -224,6 +280,14 @@ Elle ne porte pas les conséquences d’une décision collective.
 La règle doit rester claire : l’IA éclaire les coups possibles ; elle ne capture pas le joueur.
 
 Dans une campagne sénatoriale, cela veut dire quelque chose de très concret : utiliser les outils modernes pour rendre les dossiers plus lisibles, les actes plus traçables, les contradictions plus visibles, mais laisser le jugement, la décision et la responsabilité aux personnes vivantes.
+
+## #1755 : une reconnaissance minimale peut changer le terrain
+
+#1755 désigne, dans mon corpus, le travail de reconnaissance de la Constitution corse de 1755 et de la place de la Corse dans l’histoire moderne de la souveraineté populaire, du constitutionnalisme et des révolutions.
+
+Là encore, la théorie des jeux aide. Il ne faut pas forcément commencer par la revendication maximale. Il faut identifier le plus petit énoncé historiquement rigoureux, difficile à contester, capable d’ouvrir le jeu.
+
+Une petite reconnaissance juste peut devenir un grand déplacement stratégique si elle modifie durablement ce qui peut ensuite être dit, enseigné, commémoré, transmis et revendiqué sans paraître excessif.
 
 ## Une campagne sénatoriale comme changement de jeu
 
@@ -297,12 +361,37 @@ Puis de le changer.
 
 ---
 
+## Pour aller plus loin
+
+- Document source souverain : [Théorie des jeux comme grille de lecture du corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md).
+- Présentation générale : [théorie des jeux — Wikipédia](https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_jeux).
+
 ## Notes factuelles pour publication
 
-Ces notes sont destinées à vérifier les points d’actualité utilisés dans cette déclinaison. Elles peuvent être réduites ou supprimées avant publication Substack selon le style souhaité.
+Ces notes sont destinées à vérifier les points d’actualité utilisés dans cette déclinaison. Elles peuvent être réduites, sourcées plus proprement ou supprimées avant publication Substack selon le style souhaité.
 
 - Processus institutionnel corse : rejet en mars 2025 d’un rapport de la mission d’information du Sénat sur l’avenir institutionnel de la Corse ; divergences entre groupes politiques sur l’autonomie et les compétences déjà transférées. Source : Le Monde, 5 mars 2025.
 - Projet de loi constitutionnelle : maintien du projet malgré les réserves du Conseil d’État, présentation au conseil des ministres du 30 juillet 2025, reconnaissance d’une communauté historique liée au peuple corse et perspective d’un vote nécessitant le Parlement puis le Congrès. Source : Le Monde, 29 juillet 2025.
-- Logement / résidences secondaires : loi Le Meur de 2024 et usage possible par les communes de zones réservées aux résidences principales ; Bonifacio citée parmi les premières communes concernées. Source : Le Monde, 18 août 2025.
+- Logement / résidences secondaires : loi Le Meur de 2024 et usage possible par les communes de zones réservées aux résidences principales. Source : presse nationale et textes publics relatifs à la loi Le Meur.
 - Énergie : transition électrique corse autour du Ricanto, de Lucciana, des renouvelables, de SACOI3 et de projets de STEP ; enjeu d’autonomie énergétique et de gouvernance des flux. Sources : synthèses publiques sur le système électrique corse et presse économique 2024.
 - Sénatoriales Haute-Corse 2026 : scrutin indirect, un siège, influence majeure des conseils municipaux dans le collège électoral. Source : synthèses électorales publiques.
+
+## Changelog
+
+### v0.2 — 2026-06-26
+
+Révision après critique interne.
+
+Corrections principales :
+
+- introduction pédagogique de la théorie des jeux avant usage ;
+- ajout d’un lien vers Wikipédia sur la théorie des jeux ;
+- réintroduction de l’analogie football / échecs comme passerelle culturelle ;
+- définition préalable de l’Autonomie de Capacité, du control plane, de FractaVolta, de Fractanet, de l’IA et de #1755 ;
+- déclaration explicite d’intérêts concernant FractaVolta ;
+- ajout d’un lien vers le document source souverain en introduction et en fin d’article ;
+- renforcement de la séparation source souveraine / produit Substack.
+
+### v0.1 — 2026-06-26
+
+Première version Substack issue du document source `research/theorie_des_jeux_corpus.md v0.2.1`.
