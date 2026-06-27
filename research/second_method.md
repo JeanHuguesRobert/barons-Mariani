@@ -629,6 +629,7 @@ René, merci. On continue.
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
+- [Public Corpus Navigation](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/public-navigation.md)
 - MareNostrum
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)

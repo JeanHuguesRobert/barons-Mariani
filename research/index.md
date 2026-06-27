@@ -124,6 +124,43 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 ---
 
+## Transversal Corpus Lenses
+
+| Title | Location | Notes |
+|---|---|---|
+| [Théorie des jeux comme grille de lecture du corpus](theorie_des_jeux_corpus.md) | this repo | Source document. |
+| [Les règles du jeu sont cassées](theorie_des_jeux_corpus_blogpost.md) | this repo | Derived public form. |
+
+---
+
+## Musée Mariani
+
+| Title | Location | Notes |
+|---|---|---|
+| [Intention du Musée Mariani](../musee-mariani/intention.md) | this repo | Intention document. |
+| [Plan muséal provisoire du Musée Mariani](../musee-mariani/plan-museal.md) | this repo | Provisional museum plan. |
+| [Exposition 00 — Préfiguration du Musée Mariani](../musee-mariani/expositions/exposition-00-prefiguration.md) | this repo | Exhibition outline. |
+| [Le Musée Mariani des Possibles](../musee-mariani/doctrine_musee_mariani_des_possibles.md) | this repo | Source doctrine. |
+| [Louis-Thomas Mariani et Tahiti — prince en Tahiti ?](../musee-mariani/dossiers/louis-thomas-mariani-tahiti.md) | this repo | Case file. |
+| [Preuves et incertitudes — méthode critique du Musée Mariani](../musee-mariani/notes-critiques/preuves-et-incertitudes.md) | this repo | Critical method note. |
+| [Bibliographie et sources à dépouiller — Musée Mariani](../musee-mariani/sources/bibliographie.md) | this repo | Source bibliography scaffold. |
+| [Atelier : blé et pain](../musee-mariani/ateliers/atelier_ble_pain.md) | this repo | Workshop note. |
+| [Atelier : distillerie](../musee-mariani/ateliers/atelier_distillerie.md) | this repo | Workshop note. |
+| [Atelier : huile d'olive](../musee-mariani/ateliers/atelier_huile_olive.md) | this repo | Workshop note. |
+| [Atelier : huiles essentielles](../musee-mariani/ateliers/atelier_huiles_essentielles.md) | this repo | Workshop note. |
+| [Atelier : miel](../musee-mariani/ateliers/atelier_miel.md) | this repo | Workshop note. |
+| [Atelier : vin et vigne](../musee-mariani/ateliers/atelier_vin.md) | this repo | Workshop note. |
+| [Autorisations et ateliers sous-traités](../musee-mariani/juridique/autorisations_ateliers_sous_traites.md) | this repo | Legal/operational note. |
+| [Conflits normatifs](../musee-mariani/juridique/conflits_normatifs.md) | this repo | Legal/operational note. |
+| [Demander au juge](../musee-mariani/juridique/demander_au_juge.md) | this repo | Legal/operational note. |
+| [Articulation avec le Musée uchronique](../musee-mariani/methodes/articulation_musee_uchronique.md) | this repo | Method note. |
+| [Grille de remise en service](../musee-mariani/methodes/grille_remise_en_service.md) | this repo | Method note. |
+| [Indice de capacité retrouvée](../musee-mariani/methodes/indice_capacite_retrouvee.md) | this repo | Method note. |
+| [Indice de friction administrative](../musee-mariani/methodes/indice_friction_administrative.md) | this repo | Method note. |
+| [Gabarit de fiche de possible](../musee-mariani/methodes/template_fiche_possible.md) | this repo | Template. |
+
+---
+
 ## Referenced
 
 *Hosted elsewhere, intellectually connected here.*

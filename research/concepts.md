@@ -442,6 +442,45 @@ A specific local implementation or cultural initiative operating under the possi
 
 ---
 
+# Musée Mariani des Possibles
+
+**Type:** museum doctrine / capability laboratory / patrimonial protocol  
+**Scope:** Minesteggio / Corsica / transferable  
+**Status:** Working
+
+**Short definition:**  
+Écomusée expérimental qui documente les conditions de possibilité des gestes, savoir-faire, institutions et capacités à travers le temps. Application située de l'approche par les capabilités (Sen, Nussbaum) à la muséologie : il agit comme révélateur (rendre visibles les empêchements) et comme stabilisateur (fixer des chemins praticables), et produit des fiches versionnées de faisabilité technique, juridique, économique et pédagogique selon un gabarit commun. Concept compagnon, sur l'axe présent/futur, du Musée uchronique qui explore les passés non advenus. Terrain initial : Minesteggio.
+
+**Parent concepts:**
+- Possibilism
+- Machine à explorer
+- Autonomie de capacité
+- The Uchronian Museum
+
+**Child concepts:**
+- Muséologie capacitaire
+- Indice de friction administrative
+- Indice de capacité retrouvée
+- Grille de remise en service
+
+**Related concepts:**
+- Machine à empêcher
+- Stabilisateurs (anti-Ubik / procéduraux)
+- Projet Minesteggio
+- The Second Method
+- Kudos
+
+**Reference documents:**
+- [`doctrine_musee_mariani_des_possibles.md`](../musee-mariani/doctrine_musee_mariani_des_possibles.md)
+- [`template_fiche_possible.md`](../musee-mariani/methodes/template_fiche_possible.md)
+- [`preuves-et-incertitudes.md`](../musee-mariani/notes-critiques/preuves-et-incertitudes.md)
+- [`uchronian_museum.md`](uchronian_museum.md)
+
+**Used in:**
+- Minesteggio (terrain initial)
+
+---
+
 ## Discret Holography
 
 **Type:** conceptual joke
