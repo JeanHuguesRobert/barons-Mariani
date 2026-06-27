@@ -432,5 +432,4 @@ Points d’insertion recommandés :
 *These documents link to this file:*
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](corsica2038_contre_rapport_pruspettiva2050.md)
 - [Research Index — barons-Mariani](../index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

@@ -468,5 +468,4 @@ La ligne directrice doit rester stable :
 - [Concept Index — barons-Mariani](concepts.md)
 - [Research Index — barons-Mariani](index.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

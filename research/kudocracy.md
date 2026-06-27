@@ -1194,6 +1194,5 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Test du critère Rossignol](test_critere_rossignol.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

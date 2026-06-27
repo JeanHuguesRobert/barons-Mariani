@@ -68,5 +68,4 @@ Ce corpus théorique constitue une unité logique indivisible. La validation exp
 - [Concept Index — barons-Mariani](concepts.md)
 - [discret holography - moved](../discret_holography.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

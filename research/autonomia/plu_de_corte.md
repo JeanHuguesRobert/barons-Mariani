@@ -2565,5 +2565,4 @@ Prochaine étape : publication comme document source long, puis ouverture progre
 *These documents link to this file:*
 - [Barons Mariani](../../README.md)
 - [Research Index — barons-Mariani](../index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

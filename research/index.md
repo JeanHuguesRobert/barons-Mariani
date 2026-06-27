@@ -214,7 +214,6 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)

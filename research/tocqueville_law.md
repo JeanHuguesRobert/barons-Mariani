@@ -405,10 +405,8 @@ YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San 
 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [Research Index — barons-Mariani](index.md)
 - [tocqueville law - moved](../tocqueville_law.md)
 - [The Sovereign Digital Twin: Cogentia, Cogentigram, Cogentiscope](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

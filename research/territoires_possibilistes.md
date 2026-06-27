@@ -746,5 +746,4 @@ Avant publication forte, je verrouillerais :
 - [Concept Index — barons-Mariani](concepts.md)
 - [Research Index — barons-Mariani](index.md)
 - [Territoires possibilistes](territoires_possibilistes.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

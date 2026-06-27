@@ -258,5 +258,4 @@ Simon, H. A. (1969). *The Sciences of the Artificial*. MIT Press.
 *These documents link to this file:*
 - [Research Index — barons-Mariani](index.md)
 - [terrain configuration - moved](../terrain_configuration.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

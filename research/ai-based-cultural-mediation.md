@@ -173,5 +173,4 @@ This work (text, framework, and PKDIS system prompt) is released under the **MIT
 - [ai based cultural mediation - moved](../ai-based-cultural-mediation.md)
 - [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

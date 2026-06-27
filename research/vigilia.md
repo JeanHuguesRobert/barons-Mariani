@@ -1026,5 +1026,4 @@ Attribution requise :
 - [vigilia - moved](../vigilia.md)
 - [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
 - The Iɴᴏx programming language
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

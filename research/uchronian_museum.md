@@ -158,5 +158,4 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 - [Musée Mariani — préfiguration](../musee-mariani/README.md)
 - [Research Index — barons-Mariani](index.md)
 - [uchronian museum - moved](../uchronian_museum.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

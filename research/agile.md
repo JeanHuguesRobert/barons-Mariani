@@ -931,6 +931,5 @@ Le cas corse devra être développé dans un article spécifique reliant :
 - [Research Index — barons-Mariani](index.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 - Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

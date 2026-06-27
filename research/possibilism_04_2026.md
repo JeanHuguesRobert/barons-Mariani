@@ -265,8 +265,6 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
-- [Corpus Status — barons-Mariani](corpus-status.md)
 - [possibilism 04 2026 - moved](../possibilism_04_2026.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

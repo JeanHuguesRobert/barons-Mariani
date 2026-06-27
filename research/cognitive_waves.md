@@ -1067,5 +1067,4 @@ Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent s
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
 - [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

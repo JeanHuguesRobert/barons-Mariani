@@ -395,5 +395,4 @@ Association C.O.R.S.I.C.A. — fondée à Corte, 1995*
 - [Concept Index — barons-Mariani](concepts.md)
 - [Research Index — barons-Mariani](index.md)
 - [transition markets - moved](../transition_markets.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

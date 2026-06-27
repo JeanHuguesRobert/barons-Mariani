@@ -340,5 +340,4 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 - [Concept Index — barons-Mariani](concepts.md)
 - [projet minesteggio - moved](../projet_minesteggio.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

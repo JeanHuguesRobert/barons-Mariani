@@ -1020,5 +1020,4 @@ sa propre stabilité.
 *These documents link to this file:*
 - [Déclaration d’indépendance de capacité de la Corse](declaration_independance_capacite_corse.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->

@@ -218,5 +218,4 @@ Reconnaître un principe de continuité de protection, c’est faire évoluer le
 - [Barons Mariani](../README.md)
 - [protection responsable - moved](../protection_responsable.md)
 - [Research Index — barons-Mariani](index.md)
-- [Documents - All Tracked Repos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/documents.md)
 <!-- END_AUTO: backlinks -->
