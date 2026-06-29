@@ -23,6 +23,8 @@ related_documents:
   - "research/traceabilite_des_actes.md"
   - "research/mimetic_desynchronization.md"
   - "research/autonomia.md"
+  - "research/pathologie_du_secret.md"
+  - "research/economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md"
 related_projects:
   - "Autonomie de Capacité"
   - "Institut Mariani"
@@ -47,6 +49,12 @@ tags:
 # Économie morale de la dépense visible
 
 ## Suspicion de radinerie, gaspillage ostentatoire, *invidia* et optimisation empêchée en contexte corse
+
+## Note d’enrichissement
+
+Un addendum préparatoire complète ce document source : [`economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md`](economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md).
+
+Il ajoute plusieurs angles à intégrer dans une version ultérieure : Nouveau Testament, fils prodigue, multiplications des pains, parole sur la paix et l’épée, liberté-égalité-fraternité, ruse sous domination, pathologie du secret, transmission des savoir-faire, fromage pastoral, diversité robuste, standardisation minimale capacitaire, subventions et sélection inverse.
 
 ## Résumé
 
