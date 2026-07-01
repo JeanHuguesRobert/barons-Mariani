@@ -114,6 +114,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Bleu de Chine, denim et indigo — Protocole de recherche v0.2 (FR)](patrimoine/bleu_chine_denim_nimes_corse_v0.2.md) *(research protocol working-paper v0.2 — evidence matrix pour l'article académique)* | this repo | 2026-05-30 |
 | [Verticalisation de la Chrétienté — Du Dieu-à-côté au Dieu-au-dessus (FR)](christianity_verticalization.md) *(working paper v0.4 — esquisse historique, politique et symbolique)* | this repo | 2026-05-25 |
 | [Dieu au-dessus, Dieu à côté : pourquoi l'âne compte politiquement (FR)](christianity_verticalization_blogpost.md) *(blog derived form v0.1 — dérivé de la Verticalisation de la Chrétienté)* | this repo | 2026-05-25 |
+| [Justice divine, mandat implicite et anti-capture (FR)](justice_divine_mandat_implicite.md) *(release candidate v0.4 — du bras armé sacralisé au mandataire traçable)* | this repo | 2026-06-27 |
 | [Mauvaise calibration métacognitive face aux intelligences xénoformes (FR)](alien_academic.md) *(working paper v0.7 — academic form ; pour une AI Safety post-anthropocentrique)* | this repo | 2026-05-25 |
 | [Alien, l'IA et les intelligences xénoformes — version blog (FR)](alien_blogpost.md) *(blog derived form v0.2 — dérivé du papier académique alien)* | this repo | 2026-05-25 |
 | [Archaïsme et Modernité dans la création insulaire — Continuation 2026 (FR)](archaisme_modernite_continuation_2026_blogpost.md) *(blogpost continuation v0.1)* | this repo | 2026-05-26 |
