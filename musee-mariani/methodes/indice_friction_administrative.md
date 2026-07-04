@@ -8,7 +8,7 @@ subtitle: "Mesurer le coût et la complexité de la mise en conformité d'un ate
 date: "2026-06-27"
 version: "0.1"
 status: "draft"
-document_role: "method"
+document_role: "source"
 document_kind: "indicator"
 visibility: "public"
 lifecycle_state: "working"

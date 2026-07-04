@@ -8,7 +8,7 @@ subtitle: "Documenter comment des règles légitimes produisent une impossibilit
 date: "2026-06-27"
 version: "0.1"
 status: "draft"
-document_role: "legal-method"
+document_role: "source"
 document_kind: "legal-doctrine"
 visibility: "public"
 lifecycle_state: "working"

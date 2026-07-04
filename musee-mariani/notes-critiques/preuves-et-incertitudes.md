@@ -7,7 +7,7 @@ last_stamped_at: 2026-06-26
 title: "Preuves et incertitudes — méthode critique du Musée Mariani"
 date: "2026-06-26"
 status: "draft"
-document_role: "method"
+document_role: "source"
 document_kind: "critical-note"
 visibility: "public"
 lifecycle_state: "working"

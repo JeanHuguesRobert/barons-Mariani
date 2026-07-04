@@ -7,7 +7,7 @@ last_stamped_at: 2026-06-26
 title: "Exposition 00 — Préfiguration du Musée Mariani"
 date: "2026-06-26"
 status: "draft"
-document_role: "exhibition"
+document_role: "source"
 document_kind: "museum-exhibition-outline"
 visibility: "public"
 lifecycle_state: "working"
