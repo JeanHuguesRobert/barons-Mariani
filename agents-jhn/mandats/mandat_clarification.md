@@ -1,7 +1,7 @@
 ---
 title: "Mandat de clarification — Agents JHN"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
+date: "2026-07-07"
 status: "draft"
 document_role: "template"
 document_kind: "agent-mandate"
@@ -18,12 +18,6 @@ tags:
 ## Objet
 
 Ce mandat autorise un Agent JHN à clarifier un fragment du corpus sans en modifier le sens doctrinal.
-
-Instance de référence :
-
-```text
-agents-jhn/instances/agent-jhn-clarificateur.yaml
-```
 
 ## Périmètre autorisé
 
@@ -52,11 +46,7 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-clarification-example"
 agent_id: "agent-jhn-clarificateur"
-parent_agent_id: "agent-jhn-root"
-human_gatekeeper_id: "jhn-human"
 scope: "clarification"
-external_action_route: "parent_only"
-budget_route: "parent_only"
 source_documents: []
 allowed_actions:
   - "clarify"
