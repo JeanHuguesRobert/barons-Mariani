@@ -1,27 +1,17 @@
 ---
-title: Registre de révocation — Agents JHN
-author: Jean Hugues Noël Robert, baron Mariani
-date: '2026-07-08'
-status: draft
-document_role: register
-document_kind: revocation-register
-visibility: public
-repository: JeanHuguesRobert/barons-Mariani
+title: "Registre de révocation — Agents JHN"
+author: "Jean Hugues Noël Robert, baron Mariani"
+date: "2026-07-08"
+status: "draft"
+document_role: "register"
+document_kind: "revocation-register"
+visibility: "public"
+repository: "JeanHuguesRobert/barons-Mariani"
 tags:
   - agents-jhn
   - revocation
   - mandat
   - controle
-provenance:
-  origin_type: unknown
-  origin_repository: unknown
-  origin_ref: unknown
-  origin_date: unknown
-  derived_from: []
-review:
-  status: unreviewed
-  reviewed_by: []
-update_policy: UP-DEFAULT-REVIEWED
 ---
 
 # Registre de révocation — Agents JHN
@@ -65,19 +55,7 @@ Utiliser le modèle :
 template_revocation.yaml
 ```
 
-## 5. Priorité
-
-En cas de conflit entre un profil d'instance, un mandat et une révocation, la révocation prime.
-
-```text
-révocation
-> interdiction explicite
-> mandat
-> profil d'instance
-> préférence stylistique
-```
-
-## 6. Règle pour les Agents JHN
+## 5. Règle pour les Agents JHN
 
 Un Agent JHN doit vérifier ce registre avant d'exécuter un mandat.
 
