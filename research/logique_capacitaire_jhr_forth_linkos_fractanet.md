@@ -1,15 +1,18 @@
 ---
-title: "Logique capacitaire — de Forth, LinkOS et X.25 à FractaNet"
+title: "Logique capacitaire — de Forth et LinkOS à FractaNet"
+subtitle: "Grille de lecture technique, doctrinale et autobiographique"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-07"
 status: "draft"
-document_role: "source_doctrinale_pivot"
-document_kind: "grille-de-lecture"
+document_role: "doctrine"
+document_kind: "conceptual-lineage"
 visibility: "public"
 repository: "JeanHuguesRobert/barons-Mariani"
-related_documents:
-  - "research/baron_mariani_singulier_pluriel_agents_jhn.md"
-  - "research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml"
+related_repositories:
+  - "JeanHuguesRobert/cogentia"
+  - "JeanHuguesRobert/FractaVolta"
+  - "JeanHuguesRobert/Inox"
+  - "JeanHuguesRobert/marenostrum"
 tags:
   - logique-capacitaire
   - possibilisme-capacitaire
@@ -22,194 +25,203 @@ tags:
   - agents-jhn
 ---
 
-# Logique capacitaire — de Forth, LinkOS et X.25 à FractaNet
+# Logique capacitaire — de Forth et LinkOS à FractaNet
 
-## Statut
+## 1. Statut
 
 Ce document est une grille de lecture prioritaire pour interpréter la trajectoire technique, politique et doctrinale de Jean Hugues Noël Robert, baron Mariani.
 
-Il ne doit pas être lu comme une autobiographie complète, ni comme une revendication de priorité historique. Il fixe une logique récurrente : la transformation de contraintes en capacités par interposition de systèmes programmables, vérifiables et délégables.
+Il ne doit pas être lu comme une autobiographie complète, ni comme une revendication de priorité historique. Il sert à identifier une logique récurrente à l'œuvre dans plusieurs projets successifs.
 
-## Thèse centrale
+## 2. Thèse centrale
 
 Depuis les premières expérimentations autour de Forth, du Kaypro II, du Minitel, de LinkOS, de Star X25, de Sage/X, d'Odisei et jusqu'à FractaNet, une même logique apparaît :
 
 > transformer des contraintes en capacités par l'interposition d'un système programmable, vérifiable et délégable.
 
-Nom proposé : **possibilisme capacitaire**.
+Cette logique peut être nommée :
 
-Cette logique n'est pas seulement informatique. Elle relie logiciel, réseau, souveraineté, contrôle, transmission et autonomie de capacité.
+> possibilisme capacitaire.
 
-## Motif récurrent
+## 3. Motif récurrent
 
-Le schéma récurrent est le suivant :
-
-1. une contrainte matérielle, institutionnelle, territoriale ou cognitive est rencontrée ;
-2. cette contrainte est abstraite sous forme de problème de système ;
-3. un langage, un protocole, un noyau, une passerelle ou une couche d'orchestration est introduit ;
-4. cette couche permet de déléguer des actes à des machines, programmes, agents ou institutions ;
-5. cette délégation doit rester explicite, traçable, révocable, supervisable et corrigible ;
-6. la capacité ainsi produite doit pouvoir être transmise, répliquée et augmentée.
+Le motif récurrent est le suivant :
 
 ```text
 contrainte subie
 → abstraction logicielle ou protocolaire
-→ langage / noyau / passerelle
+→ langage ou noyau
 → délégation contrôlée
 → supervision
 → correction
-→ autonomie accrue
 → transmission
 ```
 
-## Ligne personnelle de la logique capacitaire
+Le but n'est pas seulement d'automatiser. Le but est de rendre capable.
 
-### Forth sur VIC-20
+Le but n'est pas seulement de déléguer. Le but est de déléguer sans perdre le contrôle.
 
-Forth apporte une idée fondatrice : une machine limitée peut devenir extensible si elle reçoit un langage compact, interactif, enrichissable par dictionnaire de mots.
+## 4. Ligne technique personnelle
 
-Le point n'est pas seulement le langage. C'est la possibilité d'augmenter la machine depuis l'intérieur.
-
-### Kaypro II, BIOS et Minitel
-
-Le désassemblage du BIOS du Kaypro II pour rediriger écran et clavier vers la liaison série, elle-même reliée à un Minitel par montage électronique, manifeste une opération fondamentale : découpler l'interface, la machine et le réseau.
+La ligne technique peut être lue ainsi :
 
 ```text
-machine locale
-→ redirection des E/S
-→ liaison série
-→ Minitel
-→ réseau télématique
+Forth sur VIC-20
+→ redirection écran/clavier du Kaypro II vers la liaison série
+→ connexion au Minitel par montage dédié
+→ projet de serveur Minitel multiprocesseur 6809
+→ LinkOS, noyau multitâche personnel
+→ tentative Unix-like avec appels système et fork/exec sur 80286
+→ Star X25, passerelle programmable X.25 avec authentification et call deflection
+→ Sage/X et Emul, supervision programmable d'équipements hétérogènes
+→ DashBoard, transition SNMP/IP/Java/Web
+→ Odisei, téléphonie IP logicielle et services distribués
+→ l8, descendant contemporain de LinkOS
+→ FractaNet, généralisation territoriale de cette logique
 ```
 
-Ce geste annonce une logique de virtualisation de l'interface utilisateur et de détournement capacitaire des machines disponibles.
+## 5. Tableau de correspondance
 
-### Projet serveur Minitel multiprocesseur 6809
+| Épisode | Contrainte | Geste technique | Capacité créée |
+|---|---|---|---|
+| VIC-20 / Forth | machine limitée | langage extensible | programmer l'environnement |
+| Kaypro II / BIOS | E/S figées | redirection écran-clavier | découpler machine et interface |
+| Minitel | terminal supposé passif | usage comme périphérique réseau | transformer un terminal en accès télématique |
+| Serveur 6809 | faibles moyens | multiprocesseur spécialisé | servir plusieurs sessions |
+| LinkOS | machine nue | noyau multitâche | orchestrer des tâches |
+| LinkOS / Unix | OS à reconstruire | fork/exec, appels système | exécuter et déléguer des processus |
+| Star X25 | réseau fermé ou risqué | authentification + call deflection | accès conditionnel contrôlé |
+| Sage/X / Emul | équipements hétérogènes | langage d'émulation et supervision | agir sur des systèmes disparates |
+| DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
+| Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
+| FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
 
-À l'été 1986 environ, le projet mené avec Jean Vincent en Normandie visait un serveur Minitel multiprocesseur à base de 6809 : Jean Vincent au hardware, Jean Hugues au software.
+## 6. LinkOS comme matrice
 
-Même non abouti, ce projet doit être lu comme une tentative précoce de construire une petite infrastructure télématique multi-session spécialisée.
+LinkOS n'est pas seulement un ancien noyau multitâche. Il doit être interprété comme une matrice conceptuelle : petites unités d'exécution, tâches autonomes, communication, langage embarqué, réseau, supervision et contrôle.
 
-### LinkOS
-
-LinkOS constitue le noyau personnel de cette généalogie : tâches légères, multitâche, langage embarqué, système contraint, coopération entre unités d'exécution.
-
-L'étude de Minix en IUT et la tentative d'une version de LinkOS avec appels système de type Unix, sur 80286, avec un souvenir de fork/exec fonctionnel mais arrêt avant mémoire virtuelle, montrent une ambition Unix-like partielle : processus, lancement contrôlé, séparation noyau / utilisateur, orchestration.
-
-### Star X25
-
-Star X25, conçu par Jean Vincent et fortement influencé par Jean Hugues, embarquait un langage de programmation et une version de LinkOS. Il utilisait la call deflection X.25 après identification / authentification de l'utilisateur.
-
-Il ne faut donc pas le réduire à un « firewall X.25 ». Il s'agit plutôt d'une passerelle programmable de sécurité et de routage X.25 : authentification, décision, déflexion, délégation d'accès.
-
-### Sage/X et Emul
-
-Sage/X prolonge la logique vers la supervision de réseaux hétérogènes. Emul, langage inspiré de Smalltalk, permettait d'émuler un utilisateur derrière écran/clavier pour interagir avec les interfaces textuelles d'équipements hétérogènes recevant et émettant alarmes, événements ou états.
-
-Le motif devient : parler aux systèmes tels qu'ils existent déjà, puis les rendre supervisables et actionnables.
-
-### DashBoard
-
-DashBoard marque le passage vers IP, SNMP, Cisco, Internet et Java. Il traduit la logique Sage/X dans un environnement où SNMP apparaît comme standard probable de gestion de réseau.
-
-La continuité est claire : supervision, standardisation, intégration, vue opérationnelle.
-
-### Odisei
-
-Odisei déplace la logique vers la téléphonie IP logicielle : l'appel devient un service programmable, routable, découvrable, orchestrable.
-
-On passe d'un réseau d'équipements administrés à un réseau de services logiciels distribués.
-
-### l8 et FractaNet
-
-l8 est à lire comme un descendant contemporain de LinkOS.
-
-FractaNet est l'extension territoriale de cette même logique : non plus seulement un noyau pour orchestrer des processus sur une machine, mais un noyau distribué pour transformer des ressources locales dispersées en capacité collective vérifiable.
-
-## FractaNet comme généralisation
-
-FractaNet transpose la logique système à l'échelle territoriale :
+La continuité avec l8 et FractaNet n'est donc pas seulement technique. Elle est architecturale.
 
 ```text
-processus
+LinkOS ancien
+→ tâches légères coopérantes
+→ langage embarqué
+→ environnement contraint
+→ réseau
+→ supervision
+→ l8 / agents actuels
+→ FractaNet
+```
+
+## 7. Star X25 et Sage/X
+
+Star X25 ne doit pas être réduit à un simple firewall X.25.
+
+Formulation plus juste :
+
+> Star X25 était une passerelle programmable de sécurité et de routage X.25, construite autour d'une logique d'authentification, de déflexion d'appel et d'exécution embarquée.
+
+Sage/X et Emul prolongent le même motif dans un autre domaine : la supervision et l'action sur des équipements hétérogènes.
+
+Le point commun est la construction d'un médiateur programmable entre un opérateur humain et un monde technique dispersé.
+
+## 8. Odisei comme bifurcation Internet
+
+Odisei marque le passage du réseau transactionnel administré vers l'Internet des services logiciels distribués.
+
+La téléphonie IP, l'IP-PBX, la découverte de serveurs et le routage logiciel d'appels prolongent la logique antérieure : l'appel devient programmable, routable, découvrable et orchestrable.
+
+## 9. FractaNet comme généralisation territoriale
+
+FractaNet n'est pas une rupture. C'est la généralisation territoriale du motif.
+
+Avant :
+
+```text
+machine personnelle
+→ terminal
+→ réseau X.25
+→ serveur
+→ supervision
+→ téléphonie IP
+```
+
+Maintenant :
+
+```text
+territoire
+→ énergie
+→ compute
 → agents
-
-machines
-→ ressources locales
-
-ordonnanceur
-→ orchestration énergétique / computationnelle / civique
-
-appels système
-→ mandats explicites
-
-journaux
-→ traçabilité publique
-
-fork/exec
-→ instanciation contrôlée d'agents
+→ corpus
+→ services
+→ gouvernance
 ```
 
-Les objets orchestrés ne sont plus seulement des programmes :
+FractaNet vise à transformer un territoire dépendant en système capable, en reliant énergie locale, calcul distribué, agents logiciels, corpus versionné et contrôle démocratique dans une infrastructure ouverte, vérifiable et reproductible.
 
-- panneaux solaires ;
-- batteries ;
-- nœuds de compute ;
-- agents logiciels ;
-- données ;
-- mandats ;
-- associations ;
-- institutions ;
-- actes publics ;
-- flux énergétiques ;
-- flux économiques.
+## 10. Formule politique
 
-## Règle d'interprétation pour le jumeau numérique
+Cette logique rejoint directement l'Autonomie de Capacité.
 
-Lorsqu'un projet de Jean Hugues Noël Robert semble dispersé, hybride ou excessivement large, il faut d'abord chercher s'il applique le motif suivant :
+Un système devient émancipateur lorsqu'il permet à des acteurs limités d'agir au-delà de leurs moyens immédiats, sans perdre le contrôle de ce qui agit pour eux.
+
+Donc :
+
+```text
+pas seulement communiquer
+→ agir
+
+pas seulement agir
+→ déléguer
+
+pas seulement déléguer
+→ contrôler
+
+pas seulement contrôler
+→ apprendre
+
+pas seulement apprendre
+→ transmettre
+```
+
+## 11. Règle d'interprétation pour les Agents JHN
+
+Lorsqu'un Agent JHN interprète un projet apparemment disparate, il doit chercher si le motif suivant est actif :
 
 > rendre capable un acteur limité, sans le déposséder du contrôle sur ce qui agit pour lui.
 
-Cette règle vaut pour les projets techniques, politiques, énergétiques, associatifs, documentaires et démocratiques.
+Cette règle doit être prioritaire dans l'interprétation des projets techniques, politiques, énergétiques, associatifs, documentaires et démocratiques.
 
-## Lien avec l'Autonomie de Capacité
+## 12. Risque de reconstruction abusive
 
-L'Autonomie de Capacité est la traduction politique de cette logique.
+Il faut éviter une reconstruction trop linéaire.
 
-Elle ne demande pas seulement davantage de compétences formelles. Elle demande des capacités effectives : énergie, compute, agents, corpus, mandats, outils de contrôle, preuve des actes, infrastructures d'exécution.
+La bonne lecture n'est pas :
 
 ```text
-autonomie de papier
-→ compétence formelle sans puissance garantie
-
-autonomie de capacité
-→ moyens vérifiables d'agir, de contrôler et de transmettre
+un grand plan continu déjà entièrement conçu
 ```
-
-## Point de vigilance
-
-Cette grille ne doit pas être interprétée comme une plainte rétrospective.
 
 La bonne lecture est :
 
-> certaines structures avaient été identifiées tôt ; les conditions actuelles permettent de les reprendre à un niveau plus élevé, plus ouvert, plus transmissible et plus collectif.
+```text
+intuition récurrente
+→ prototypes
+→ bifurcations
+→ contraintes matérielles
+→ contraintes économiques
+→ reprises industrielles partielles
+→ oubli historique
+→ redécouverte conceptuelle actuelle
+```
 
-Il ne s'agit pas de refaire le passé.
+Cette prudence rend la lignée plus crédible.
 
-Il s'agit de faire mieux maintenant.
-
-## Formule canonique
+## 13. Formule canonique
 
 > Depuis Forth, LinkOS, Star X25, Sage/X et Odisei jusqu'à FractaNet, une même logique travaille : prendre des systèmes contraints, fermés ou hétérogènes ; y introduire un langage, un protocole et une couche d'orchestration ; permettre à des agents humains ou logiciels d'agir par délégation contrôlée ; puis rendre ces actes observables, vérifiables et corrigibles. FractaNet est la généralisation territoriale de cette logique : non plus seulement un système d'exploitation pour machines, mais un système d'exploitation pour capacités locales.
 
-## Données à stabiliser
+## 14. Formule personnelle
 
-Les éléments suivants relèvent à ce stade du témoignage personnel et doivent être croisés avec d'éventuelles sources :
-
-- dates exactes du projet serveur Minitel 6809 ;
-- statut et traces de LinkOS ;
-- relation exacte entre LinkOS et l8 ;
-- traces de Star X25 / StarWall ;
-- documentation Emul ;
-- chronologie Perform / DashBoard / Odisei ;
-- rôle précis des personnes citées dans chaque bifurcation.
+> Ce que je n'avais pas encore les moyens industriels de faire en 1986, je l'avais déjà en grande partie formulé techniquement : détourner les machines existantes, les relier au réseau public, leur donner un noyau léger, un langage embarqué, et les faire coopérer. La suite — Perform, Star X25, Sage/X, Emul, Odisei, l8 — n'est pas une série d'accidents professionnels, mais le déploiement progressif d'une même intuition : un système devient puissant lorsqu'il est programmable, relié, supervisable et capable de déléguer des actes sous contrôle.
