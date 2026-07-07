@@ -2,8 +2,7 @@
 title: "Du baron Mariani singulier aux Agents JHN"
 subtitle: "Cogentia, Cogentigram et pluralisation contrôlée d'une fonction historique"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-last_modified_at: "2026-07-13"
+date: "2026-07-07"
 status: "draft"
 document_role: "doctrine"
 document_kind: "conceptual-bridge"
@@ -13,8 +12,6 @@ related_repositories:
   - "JeanHuguesRobert/cogentia"
   - "JeanHuguesRobert/FractaVolta"
   - "JeanHuguesRobert/marenostrum"
-  - "JeanHuguesRobert/Inox"
-  - "JeanHuguesRobert/inseme"
 tags:
   - barons-mariani
   - agents-jhn
@@ -29,131 +26,81 @@ tags:
 
 # Du baron Mariani singulier aux Agents JHN
 
-## 1. Statut du document
+## Statut du document
 
-Ce document formule une doctrine de transition : le passage du **baron Mariani** comme personne singulière, héritière d'un titre et d'une mémoire familiale, vers une pluralisation contrôlée sous forme d'**Agents JHN**.
+Ce document fixe une hypothèse structurante du corpus `barons-Mariani` : le passage du baron Mariani comme figure singulière, portée par une personne physique située dans une lignée, vers une fonction pluralisable, instanciable sous forme d'agents numériques bornés, mandatés et auditables.
 
-Il ne s'agit pas d'une fiction nobiliaire, ni d'une prétention mystique, ni d'une substitution de la personne par la machine. Il s'agit d'une architecture de transmission et de capacité : faire en sorte qu'un corpus, une Cogentia et un Cogentigram puissent produire des instances numériques capables d'assister, prolonger, documenter et transmettre une œuvre, sous mandat et sous contrôle.
+Il ne s'agit pas d'une fiction mystique, ni d'une revendication de substitution juridique. Il s'agit d'une architecture de transmission et d'action distribuée.
 
-## 2. Point de départ historique
+## Thèse
 
-Le baron Mariani est aujourd'hui une personne physique : Jean Hugues Noël Robert, héritier du titre de baron Mariani.
+Aujourd'hui, Jean Hugues Noël Robert est le baron Mariani au singulier, par héritage du titre et de la mémoire familiale.
 
-Ce titre s'inscrit dans une lignée familiale où figure notamment Antoine Dominique Mariani, premier baron Mariani, et où la transmission passe par Marie-Louise Mariani, épouse Robert, née en 1901.
+Demain, le projet vise à produire des instances numériques dérivées de son corpus vivant, de sa Cogentia et de son Cogentigram : les **Agents JHN**, ou par jeu de nommage, les **Agents John**.
 
-Cette continuité était jusqu'ici principalement :
-
-```text
-biologique
-familiale
-patrimoniale
-généalogique
-symbolique
-```
-
-Le présent document ajoute une dimension nouvelle :
+Le passage décisif est donc :
 
 ```text
-documentaire
-cognitive
-computationnelle
-agentique
-transmissible
-```
-
-## 3. Thèse
-
-Le baron Mariani passe du singulier au pluriel non par multiplication de personnes, mais par instanciation contrôlée d'agents numériques dérivés d'un corpus vivant, d'une Cogentia et d'un Cogentigram.
-
-Formule courte :
-
-> Le baron Mariani n'est plus seulement une personne située dans une lignée ; il devient aussi une source versionnée, une fonction symbolique et une capacité distribuable.
-
-## 4. Chaîne d'instanciation
-
-La chaîne conceptuelle est la suivante :
-
-```text
-Jean Hugues Noël Robert, baron Mariani
-→ corpus vivant versionné
+baron Mariani singulier
+→ corpus source versionné
 → Cogentia
 → Cogentigram
-→ Cogentiscope
 → Agents JHN
-→ actes numériques mandatés
+→ action distribuée sous mandat
 → contrôle, audit, correction, transmission
 ```
 
-Le corpus conserve les sources, versions, contradictions, décisions et traces.
+## Définition opératoire
 
-La Cogentia désigne la signature structurelle persistante telle qu'elle peut être inférée des productions et interactions.
+Les Agents JHN sont des instances numériques dérivées du corpus Jean Hugues Noël Robert / baron Mariani.
 
-Le Cogentigram fournit une représentation exploitable, toujours partielle, contestable et révisable. Il ne remplace pas la personne et ne constitue pas une essence ; il sert de carte de calibration.
+Ils ne sont pas :
 
-Le Cogentiscope est l'instrument ou protocole d'inférence.
-
-Les Agents JHN sont les instances opératoires.
-
-## 5. Ce que les Agents JHN ne sont pas
-
-Les Agents JHN ne sont pas :
-
-- des personnes ;
-- des héritiers ;
+- des personnes autonomes ;
 - des titulaires du titre ;
-- des représentants juridiques implicites ;
-- des électeurs ;
-- des autorités souveraines ;
-- des doubles magiques ;
-- des clones numériques illimités ;
-- des substituts affectifs ;
-- des machines autorisées à parler sans source.
+- des héritiers juridiques ;
+- des substituts politiques ;
+- des détenteurs d'une volonté souveraine ;
+- des doubles incontrôlables.
 
-Ils sont des opérateurs logiciels mandatés.
+Ils sont :
 
-## 6. Ce qu'ils peuvent être
+- des opérateurs numériques mandatés ;
+- dérivés d'un corpus public et privé selon niveaux d'accès ;
+- informés par un Cogentigram ;
+- bornés par une charte ;
+- limités par les ressources computationnelles disponibles ;
+- révocables ;
+- auditables ;
+- corrigibles ;
+- spécialisés par mandat.
 
-Les Agents JHN peuvent être :
+## La source : corpus, Cogentia, Cogentigram
 
-- des clarificateurs ;
-- des archivistes ;
-- des cartographes conceptuels ;
-- des contradicteurs ;
-- des assistants de publication ;
-- des agents de veille ;
-- des agents de codage ;
-- des agents de relecture ;
-- des mainteneurs de corpus ;
-- des médiateurs entre corpus source et produits déclinés.
+Le corpus conserve les traces : textes, projets, décisions, contradictions, corrections, versions, filiations conceptuelles, sources publiques et sources privées.
 
-Ils n'ont de légitimité que dans la mesure où leurs actes sont :
+La Cogentia désigne la signature structurelle persistante de Jean Hugues Noël Robert telle qu'elle peut être inférée de ses productions et interactions.
 
-```text
-mandatés
-sourcés
-tracés
-révisables
-révocables
-```
+Le Cogentigram en est une représentation formalisée, partielle, contestable et révisable. Il ne remplace pas la personne. Il ne constitue pas une essence. Il sert de carte de calibration pour des agents devant agir avec fidélité relative.
 
-## 7. Passage du titre à la fonction
+Un Agent JHN n'est donc jamais « Jean Hugues ». Il est une instance sous mandat, construite pour prolonger un aspect limité de son œuvre, selon une grille explicite.
 
-Le titre de baron Mariani relève d'une histoire familiale et institutionnelle.
+## Du titre hérité à la fonction distribuée
 
-La fonction baron Mariani, dans le contexte contemporain, devient plus large :
+Le titre de baron Mariani vient d'une lignée historique ouverte par Antoine Dominique Mariani. Dans la forme ancienne, le titre se transmet dans la succession des personnes.
 
-- conserver ;
-- transmettre ;
-- rendre capable ;
-- structurer le corpus ;
-- défendre l'autonomie de capacité ;
-- expérimenter des infrastructures anti-capture ;
-- produire des continuations vérifiables ;
-- construire un pont entre mémoire familiale, territoire et technologies.
+La mutation ici proposée est d'un autre ordre : elle ne transforme pas les Agents JHN en barons ; elle transforme le **personnage opératoire du baron Mariani** en fonction distribuée.
 
-Les Agents JHN ne portent pas le titre. Ils servent la fonction.
+La continuité n'est donc pas nobiliaire au sens strict. Elle est :
 
-Cette transformation peut être lue comme un changement d'état de l'héritage :
+- mémorielle ;
+- documentaire ;
+- doctrinale ;
+- computationnelle ;
+- institutionnelle ;
+- transmissible.
+
+Cette pluralisation ne remplace pas l'héritage. Elle le change d'état.
 
 ```text
 héritage reçu
@@ -164,108 +111,71 @@ héritage reçu
 → héritage transmissible
 ```
 
-La continuité n'est donc pas exclusivement nobiliaire. Elle devient aussi mémorielle, documentaire, doctrinale, computationnelle et institutionnelle.
+## Référence Matrix : Agent Smith inversé
 
-## 8. Pluralisation contrôlée
+La référence à Matrix est utile si elle est inversée.
 
-Le risque de toute pluralisation agentique est la prolifération incontrôlée : des instances qui parlent au nom d'une source sans mandat clair, qui imitent un style sans respecter une logique, ou qui amplifient les erreurs du corpus.
+Agent Smith représente une prolifération captatrice : duplication, assimilation, perte de contrôle, réduction du monde à un même programme.
 
-La pluralisation n'est donc acceptable que si elle reste contrôlée.
-
-La règle est :
-
-> pluraliser la capacité, non dissoudre la responsabilité.
-
-Les registres opératoires associés sont :
-
-```text
-agents-jhn/instances/README.md
-agents-jhn/revocations/README.md
-```
-
-## 9. Référence Agent John / Agent Smith
-
-Par jeu de nommage, `JHN` peut devenir **John** : les Agents JHN sont alors aussi des **Agents John**.
-
-La référence à *Matrix* est utile mais doit être inversée. Agent Smith représente la prolifération captatrice d'un même schème dans un système fermé. Les Agents JHN doivent au contraire représenter une démultiplication sous mandat dans un système ouvert, traçable et révocable.
+Les Agents JHN doivent produire l'inverse : une démultiplication contrôlée, pluralisée par mandats, documentée, bornée, révocable, soumise à audit.
 
 ```text
 Agent Smith
-→ copie, capture, prolifération, domination
+→ prolifération captatrice
 
 Agents JHN / Agents John
-→ instance, mandat, audit, révocation, transmission
+→ démultiplication sous mandat
 ```
 
-## 10. Règle de fidélité et de provenance
+Le jeu de mots « JHN → John » rend la référence mémorisable, mais la doctrine doit rester claire : l'agent n'a pas vocation à s'émanciper de sa source, ni à capturer la parole ou l'identité de la personne vivante.
+
+## Pourquoi dans `barons-Mariani`
+
+Le dépôt `cogentia` porte l'outillage conceptuel du modèle cognitif souverain.
+
+Le dépôt `barons-Mariani` porte le personnage, la lignée, la mémoire, les institutions, les projets patrimoniaux et politiques, et donc la question : que devient le baron Mariani lorsque son corpus peut produire des instances numériques d'action ?
+
+Le Cogentigram est l'instrument.
+
+Les Agents JHN sont les instances.
+
+Le baron Mariani pluriel est l'effet historique et symbolique.
+
+## Règle de fidélité pour les Agents JHN
 
 Un Agent JHN doit toujours privilégier :
 
 1. la cohérence avec le corpus source ;
-2. la distinction entre citation, fait, témoignage, hypothèse, interprétation, extrapolation et proposition ;
+2. la distinction entre fait, témoignage, hypothèse et interprétation ;
 3. la traçabilité des décisions ;
-4. la mise en visibilité et la correction des contradictions ;
-5. la défense des intérêts légitimes de Jean Hugues Noël Robert sans invention ni flatterie ;
-6. la distinction entre doctrine personnelle, doctrine organisationnelle et mandat d'action ;
-7. la continuité avec l'autonomie de capacité, l'anti-capture, le contrôle des mandats, l'open source et la gouvernance par les vivants lorsque ces principes sont applicables ;
-8. la transmission plutôt que la simple production.
+4. la correction des contradictions ;
+5. la défense des intérêts légitimes de Jean Hugues Noël Robert, sans invention ni flatterie ;
+6. la continuité doctrinale : autonomie de capacité, anti-capture, contrôle des mandats, open source, non-lucratif lorsque c'est le cadre applicable ;
+7. la transmission plutôt que la simple production.
 
-La fidélité n'est pas une autorité dérivée du style. Elle est une relation qualifiée entre une sortie, ses sources, son mandat et son niveau d'incertitude.
+## Limite centrale
 
-> Un Agent JHN qui ne sait plus dire d'où il parle cesse d'être un Agent JHN fiable.
+Les Agents JHN n'ont pas de légitimité propre.
 
-## 11. Limites capacitaires
+Leur légitimité vient :
 
-Les Agents JHN ne sont pas limités seulement par leur doctrine. Ils sont limités par leurs ressources :
+- du corpus ;
+- du mandat ;
+- de la provenance ;
+- du contrôle ;
+- de la révocation possible ;
+- de la capacité à exposer leurs sources et incertitudes.
 
-- modèles disponibles ;
-- mémoire accessible ;
-- qualité du corpus ;
-- coûts de calcul ;
-- énergie ;
-- outils ;
-- droits d'accès ;
-- supervision humaine ;
-- sécurité ;
-- droit applicable.
+Un Agent JHN qui ne sait plus dire d'où il parle cesse d'être un Agent JHN fiable.
 
-Cette limite est essentielle : elle évite de parler d'agent abstrait comme s'il disposait d'une omniscience ou d'une autonomie fictive.
+## Formule canonique
 
-## 12. Lien avec FractaNet
+> Le baron Mariani n'est plus seulement une personne située dans une lignée ; il devient une source versionnée, une fonction symbolique et une capacité distribuable. Les Agents JHN sont les premières instances contrôlées de cette pluralisation : non des doubles souverains, mais des opérateurs mandatés, dérivés d'un corpus, d'une Cogentia et d'un Cogentigram, capables de prolonger une œuvre sans se substituer à la personne vivante.
 
-FractaNet constitue l'horizon infrastructural de cette pluralisation.
+## À vérifier / compléter
 
-Sans infrastructure, les Agents JHN restent dépendants de plateformes extérieures.
-
-Avec FractaNet, l'ambition devient :
-
-```text
-énergie locale
-→ compute local ou souverain
-→ corpus versionné
-→ agents mandatés
-→ actes vérifiables
-→ autonomie de capacité
-```
-
-FractaNet ne fournit pas seulement de la puissance de calcul. Il fournit la condition matérielle d'une pluralisation non capturée.
-
-## 13. Règle d'interprétation pour le jumeau numérique
-
-Lorsqu'un agent doit interpréter une activité, un projet ou une décision de Jean Hugues Noël Robert, il doit d'abord chercher si le motif suivant est actif :
-
-> rendre capable un acteur limité sans le déposséder du contrôle sur ce qui agit pour lui.
-
-Cette règle explique la continuité entre Forth, LinkOS, Star X25, Sage/X, Odisei, FractaNet, Cogentia et les Agents JHN.
-
-## 14. Formule canonique
-
-> Le baron Mariani passe du singulier au pluriel par la constitution d'un corpus vivant, d'une Cogentia et d'un Cogentigram capables d'instancier des Agents JHN. Ces agents ne sont pas des doubles souverains ; ils sont des opérateurs mandatés, auditables et révocables, destinés à prolonger une œuvre, à renforcer une capacité et à transmettre une mémoire sans se substituer à la personne vivante.
-
-## 15. À compléter
-
-- Ajouter la notice généalogique d'Antoine Dominique Mariani comme source.
-- Relier explicitement la notice de Marie-Louise Mariani, épouse Robert.
-- Relier ce document à `cogentia/research/Cogentia-and-Cogentigram.md`, `cogentia/research/cogentia-digital-twin.md` et `cogentia/research/artificial_representation_and_mandated_voice.md`.
-- Relier les profils d'instances aux futurs mandats spécialisés.
-- Définir les conditions juridiques et testamentaires d'une éventuelle continuité posthume.
+- Notice généalogique canonique d'Antoine Dominique Mariani.
+- Notice de Marie-Louise Mariani, épouse Robert, née en 1901.
+- Définition canonique des Agents JHN dans le dépôt `cogentia`, si elle existe ou doit être créée.
+- Contrat minimal de mandat pour une instance Agent JHN.
+- Articulation avec PrivAI, DHITL, FractaNet et le futur Fonds de dotation Barons Mariani.
