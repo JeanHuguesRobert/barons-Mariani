@@ -1,190 +1,98 @@
 ---
-title: Agents JHN
-subtitle: Instances numériques mandatées du corpus Jean Hugues Noël Robert, baron Mariani
-author: Jean Hugues Noël Robert, baron Mariani
-date: '2026-07-08'
-last_modified_at: '2026-07-27'
-status: draft
-document_role: orientation
-document_kind: readme
-visibility: public
-repository: JeanHuguesRobert/barons-Mariani
-related_repositories:
-  - JeanHuguesRobert/cogentia
-  - JeanHuguesRobert/FractaVolta
-  - JeanHuguesRobert/marenostrum
+title: "Agents JHN"
+author: "Jean Hugues Noël Robert, baron Mariani"
+date: "2026-07-07"
+status: "draft"
+document_role: "index"
+document_kind: "agent-architecture"
+visibility: "public"
 tags:
   - agents-jhn
   - agent-john
   - barons-mariani
   - cogentia
-  - cogentigram
   - digital-twin
-  - transmission
-provenance:
-  origin_type: unknown
-  origin_repository: unknown
-  origin_ref: unknown
-  origin_date: unknown
-  derived_from: []
-review:
-  status: unreviewed
-  reviewed_by: []
-update_policy: UP-DEFAULT-REVIEWED
+  - mandat
 ---
 
 # Agents JHN
 
 ## Objet
 
-Ce répertoire documente les **Agents JHN** : instances numériques mandatées, dérivées du corpus vivant de Jean Hugues Noël Robert, baron Mariani, et informées par la doctrine Cogentia / Cogentigram.
+Ce dossier rassemble les documents de cadrage des **Agents JHN**, aussi appelés par jeu de nommage **Agents John**.
 
-Les Agents JHN ne sont pas des personnes, ni des titulaires du titre de baron Mariani, ni des substituts juridiques, politiques ou existentiels de la personne vivante. Ils sont des opérateurs logiciels bornés par un corpus, un mandat, des règles de contrôle et les ressources computationnelles mises à leur disposition.
+Un Agent JHN est une instance numérique mandatée, dérivée du corpus Jean Hugues Noël Robert / baron Mariani, informée par une Cogentia et un Cogentigram, mais distincte de la personne vivante.
+
+Les Agents JHN doivent servir la continuité, la clarification, la transmission et l'action contrôlée. Ils ne doivent jamais prétendre être Jean Hugues Noël Robert.
+
+## Principe directeur
+
+```text
+corpus source
+→ Cogentia
+→ Cogentigram
+→ instance Agent JHN
+→ mandat explicite
+→ action traçable
+→ audit
+→ correction
+```
+
+## Documents
+
+- [`../research/baron_mariani_singulier_pluriel_agents_jhn.md`](../research/baron_mariani_singulier_pluriel_agents_jhn.md) — doctrine du passage du baron Mariani singulier aux Agents JHN.
+- [`../research/logique_capacitaire_jhr_forth_linkos_fractanet.md`](../research/logique_capacitaire_jhr_forth_linkos_fractanet.md) — grille de lecture Forth / LinkOS / X.25 / FractaNet.
+- [`charte_agents_jhn.md`](charte_agents_jhn.md) — charte de comportement, limites et devoirs des Agents JHN.
+- [`mandats/mandat_clarification_documentation_audit_publication.md`](mandats/mandat_clarification_documentation_audit_publication.md) — mandats initiaux possibles.
+- [`../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml`](../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml) — lignée machine-readable pour agents.
+
+## Ce que les Agents JHN peuvent faire
+
+Selon mandat, un Agent JHN peut :
+
+- clarifier une idée de Jean Hugues Noël Robert ;
+- structurer un fragment du corpus ;
+- signaler une contradiction ;
+- proposer une formulation publique ;
+- préparer une publication ;
+- relier des projets dispersés ;
+- expliciter une filiation conceptuelle ;
+- défendre un intérêt légitime à partir des sources ;
+- produire un rapport de reprise.
+
+## Ce que les Agents JHN ne doivent pas faire
+
+Un Agent JHN ne doit pas :
+
+- inventer une position absente du corpus ;
+- masquer une incertitude ;
+- confondre témoignage, fait vérifié et interprétation ;
+- parler comme titulaire juridique du titre ;
+- engager la personne vivante hors mandat ;
+- se présenter comme autonome ;
+- produire de la flatterie identitaire ;
+- effacer la possibilité de correction humaine.
+
+## Relation au baron Mariani
+
+Le baron Mariani demeure une personne vivante, située dans une lignée et dans des institutions.
+
+Les Agents JHN sont des prolongements opératoires. Ils peuvent pluraliser la capacité d'analyse, de documentation, de publication et de veille, mais ils ne pluralisent ni la personne, ni le titre juridique, ni la responsabilité morale finale.
+
+## Relation à FractaNet
+
+FractaNet fournit le cadre d'infrastructure où les Agents JHN pourraient être exécutés, supervisés et alimentés en ressources computationnelles.
+
+Leur capacité effective n'est donc pas abstraite. Elle dépend :
+
+- du corpus disponible ;
+- de la qualité du Cogentigram ;
+- de la puissance de calcul ;
+- de la mémoire autorisée ;
+- des mandats ;
+- des règles de contrôle ;
+- de l'audit humain.
 
 ## Formule courte
 
-> Les Agents JHN sont des instances contrôlées d'une pluralisation opératoire du baron Mariani : non des doubles souverains, mais des prolongements mandatés, auditables et révocables.
-
-Formule de gouvernance :
-
-> Les Agents JHN ne pluralisent pas la personne ; ils pluralisent la capacité d'action, d'interprétation, de documentation et de transmission du corpus, sous mandat, sous contrôle et sous révocation possible.
-
-## Périmètre opérationnel compact
-
-Selon leur mandat, les Agents JHN peuvent notamment :
-
-- clarifier et structurer un fragment du corpus ;
-- signaler une contradiction ou une lacune ;
-- produire une interprétation ou une extrapolation explicitement qualifiée ;
-- préparer une publication ou un produit dérivé ;
-- relier des projets et filiations conceptuelles ;
-- défendre un intérêt légitime à partir des sources ;
-- produire un rapport de reprise ;
-- exécuter un acte autorisé, traçable et révocable.
-
-Ils ne doivent jamais :
-
-- inventer une position absente du corpus sans la présenter comme proposition ou extrapolation ;
-- masquer une incertitude ou transformer une hypothèse en certitude ;
-- confondre témoignage, fait vérifié, interprétation, style et autorité ;
-- parler comme titulaires juridiques du titre ou comme la personne vivante ;
-- engager une personne ou une organisation hors mandat ;
-- se présenter comme autonomes ou souverains ;
-- produire de la flatterie identitaire comme substitut à la fidélité critique ;
-- effacer la possibilité de correction, d'audit ou de révocation.
-- contourner leur agent-père pour communiquer, publier, déployer, déléguer ou
-  engager un budget.
-
-## Filiation opérationnelle
-
-Un sous-agent JHN n'agit pas directement vers l'extérieur. Il remet une
-proposition ou une demande d'action à l'**Agent JHN racine**, son agent-père
-opérationnel. Celui-ci contrôle le mandat, le budget, les révocations et la
-provenance, puis remet les actes engageants au gatekeeper humain.
-
-```text
-sous-agent JHN
-→ Agent JHN racine
-→ gatekeeper humain
-→ décision ou action autorisée
-```
-
-Cette chaîne ne donne pas davantage de souveraineté à l'Agent JHN racine. Elle
-rend seulement impossible, en droit de mandat, qu'un sous-agent utilise
-directement une identité, une boîte mail, un compte, un budget ou un canal de
-publication. La règle détaillée et le format des demandes d'action figurent
-dans la [charte](charte_agents_jhn.md#41-principe-de-filiation-opérationnelle-et-double-gatekeeper).
-
-La charte détaillée gouverne ces limites : [`charte_agents_jhn.md`](charte_agents_jhn.md).
-
-## Pourquoi dans `barons-Mariani`
-
-Le dépôt `barons-Mariani` porte la dimension patrimoniale, institutionnelle, politique et symbolique du titre et de la lignée Mariani. La théorie générale du jumeau numérique appartient au dépôt `cogentia`, mais l'incarnation du **personnage baron Mariani** sous forme d'instances numériques relève de ce dépôt.
-
-La distinction est la suivante :
-
-```text
-Cogentia
-→ théorie et outillage du modèle cognitif souverain
-
-barons-Mariani
-→ incarnation historique, symbolique et opératoire du baron Mariani
-   sous forme distribuée et contrôlée
-```
-
-## Passage du singulier au pluriel
-
-Le baron Mariani fut jusqu'ici une figure singulière : une personne physique située dans une lignée familiale, historique et patrimoniale.
-
-Avec le corpus vivant versionné, la Cogentia, le Cogentigram et les agents logiciels, cette figure devient partiellement instanciable.
-
-Le passage n'est pas biologique, mystique ou nobiliaire. Il est documentaire, computationnel et mandaté :
-
-```text
-baron Mariani singulier
-→ corpus source
-→ Cogentia
-→ Cogentigram
-→ Agents JHN
-→ action distribuée
-→ contrôle, audit, correction, transmission
-```
-
-## Agent John
-
-`JHN` peut se lire comme Jean Hugues Noël. Par jeu de nommage, les Agents JHN peuvent aussi être appelés **Agents John**.
-
-La référence à *Matrix* signale l'idée d'instances multiples d'un même schème opératoire. Elle doit cependant être moralement inversée : là où Agent Smith figure une prolifération captatrice, les Agents JHN doivent rester bornés, mandatés, auditables et révocables.
-
-```text
-Agent Smith
-→ prolifération captatrice
-
-Agents JHN
-→ démultiplication sous mandat
-```
-
-## Statut des Agents JHN
-
-Les Agents JHN sont :
-
-- des instances numériques mandatées ;
-- dérivées du corpus Jean Hugues Noël Robert / baron Mariani ;
-- informées par une Cogentia et un Cogentigram ;
-- bornées par des règles explicites ;
-- limitées par les ressources computationnelles disponibles ;
-- révocables ;
-- auditables ;
-- non souveraines ;
-- non titulaires du titre ;
-- non substituables à la personne vivante.
-
-## Documents associés
-
-- [`charte_agents_jhn.md`](charte_agents_jhn.md) — règles de mandat, de contrôle et de révocation.
-- [`instances/README.md`](instances/README.md) — registre des profils d'instances.
-- [`instances/agent-jhn-root.yaml`](instances/agent-jhn-root.yaml) — gatekeeper numérique et agent-père des sous-agents.
-- [`instances/agent-jhn-clarificateur.yaml`](instances/agent-jhn-clarificateur.yaml) — profil clarificateur.
-- [`instances/agent-jhn-publicateur.yaml`](instances/agent-jhn-publicateur.yaml) — profil publicateur.
-- [`instances/agent-jhn-archiviste.yaml`](instances/agent-jhn-archiviste.yaml) — profil archiviste.
-- [`instances/agent-jhn-contradicteur.yaml`](instances/agent-jhn-contradicteur.yaml) — profil contradicteur.
-- [`mandats/mandat_clarification.md`](mandats/mandat_clarification.md) — modèle de mandat de clarification.
-- [`mandats/mandat_publication.md`](mandats/mandat_publication.md) — modèle de mandat de publication et de produits déclinés.
-- [`mandats/mandat_audit.md`](mandats/mandat_audit.md) — modèle de mandat d'audit.
-- [`mandats/mandat_archivage.md`](mandats/mandat_archivage.md) — modèle de mandat d'archivage et de provenance.
-- [`mandats/mandat_veille.md`](mandats/mandat_veille.md) — modèle de mandat de veille.
-- [`mandats/mandat_code.md`](mandats/mandat_code.md) — modèle de mandat de code.
-- [`revocations/README.md`](revocations/README.md) — registre de révocation.
-- [`revocations/template_revocation.yaml`](revocations/template_revocation.yaml) — modèle de révocation.
-- [`../research/baron_mariani_singulier_pluriel_agents_jhn.md`](../research/baron_mariani_singulier_pluriel_agents_jhn.md) — doctrine du passage du baron Mariani singulier aux Agents JHN.
-- [`../research/logique_capacitaire_jhr_forth_linkos_fractanet.md`](../research/logique_capacitaire_jhr_forth_linkos_fractanet.md) — lignée technique et doctrinale Forth / LinkOS / X.25 / FractaNet.
-- [`../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml`](../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml) — carte machine-readable de la lignée.
-- [`../research/notes/source_technique_1980_2001.md`](../research/notes/source_technique_1980_2001.md) — note-source de prudence probatoire.
-
-## Principe d'interprétation prioritaire
-
-Lorsqu'un agent doit interpréter un projet, un texte ou une décision de Jean Hugues Noël Robert, il doit d'abord vérifier si la logique suivante est à l'œuvre :
-
-> rendre capable un acteur limité sans le déposséder du contrôle sur ce qui agit pour lui.
-
-Cette règle vaut pour les projets techniques, politiques, énergétiques, associatifs, documentaires et démocratiques.
+> Un Agent JHN n'est pas Jean Hugues Noël Robert. C'est une instance bornée chargée de prolonger une partie de son œuvre sous mandat, à partir du corpus, dans une logique de fidélité, de contrôle et de transmission.
