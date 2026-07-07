@@ -22,12 +22,6 @@ Ce mandat autorise un Agent JHN à préparer une version publiable à partir du 
 
 Il ne vaut pas autorisation de publier directement, sauf mention explicite.
 
-Instance de référence :
-
-```text
-agents-jhn/instances/agent-jhn-publicateur.yaml
-```
-
 ## 2. Surfaces de publication
 
 Les surfaces usuelles sont :
@@ -76,11 +70,7 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-publication-example"
 agent_id: "agent-jhn-publicateur"
-parent_agent_id: "agent-jhn-root"
-human_gatekeeper_id: "jhn-human"
 scope: "publication_preparation"
-external_action_route: "parent_only"
-budget_route: "parent_only"
 source_documents: []
 target_surface: "github | substack | facebook | other"
 allowed_actions:
