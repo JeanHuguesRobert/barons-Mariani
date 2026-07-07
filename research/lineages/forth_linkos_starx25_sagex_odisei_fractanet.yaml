@@ -1,0 +1,201 @@
+id: lineage_forth_linkos_x25_fractanet
+title: "Forth → LinkOS → Star X25 → Sage/X → Odisei → FractaNet"
+type: conceptual_lineage
+status: draft
+date: "2026-07-07"
+repository: JeanHuguesRobert/barons-Mariani
+priority_for_digital_twin: high
+
+core_logic:
+  name: possibilisme_capacitaire
+  formula: >
+    Transformer des contraintes en capacités par l'interposition
+    d'un système programmable, vérifiable et délégable.
+  interpretation_rule: >
+    Lorsqu'un projet de Jean Hugues Noël Robert semble dispersé,
+    hybride ou excessivement large, chercher d'abord s'il applique
+    la logique suivante : rendre capable un acteur limité sans le
+    déposséder du contrôle sur ce qui agit pour lui.
+
+recurring_pattern:
+  - constraint
+  - abstraction
+  - language_or_protocol
+  - orchestration
+  - controlled_delegation
+  - supervision
+  - correction
+  - transmission
+
+nodes:
+  - id: forth_vic20
+    label: "Forth sur VIC-20"
+    period: "early_1980s"
+    role: "Langage extensible sur machine contrainte."
+    capacities:
+      - extensibility
+      - interactive_programming
+      - compact_runtime
+    evidence_status: "témoignage personnel JHR"
+
+  - id: kaypro_minitel
+    label: "Kaypro II redirigé vers Minitel"
+    period: "mid_1980s"
+    role: "Redirection écran/clavier vers liaison série et Minitel."
+    capacities:
+      - io_redirection
+      - interface_virtualization
+      - telematic_access
+    evidence_status: "témoignage personnel JHR"
+
+  - id: server_minitel_6809
+    label: "Projet serveur Minitel multiprocesseur 6809"
+    period: "summer_1986_approx"
+    role: "Projet d'infrastructure télématique multi-session."
+    people:
+      - Jean Hugues Noël Robert
+      - Jean Vincent
+    capacities:
+      - multi_session
+      - hardware_software_co_design
+      - constrained_server_architecture
+    evidence_status: "témoignage personnel JHR"
+
+  - id: linkos
+    label: "LinkOS"
+    role: "Noyau multitâche personnel, matrice de tâches légères et d'orchestration."
+    capacities:
+      - multitasking
+      - lightweight_kernel
+      - local_orchestration
+    evidence_status: "à documenter dans GitHub / sources personnelles"
+
+  - id: linkos_unix_80286
+    label: "LinkOS Unix-like sur 80286"
+    period: "IUT first year"
+    role: "Tentative d'appels système de type Unix, fork/exec fonctionnel selon souvenir, arrêt avant mémoire virtuelle."
+    capacities:
+      - process_model
+      - system_calls
+      - fork_exec
+      - unix_like_architecture
+    evidence_status: "témoignage personnel JHR"
+
+  - id: star_x25
+    label: "Star X25"
+    role: "Passerelle programmable X.25 : authentification, langage embarqué, call deflection."
+    people:
+      - Jean Vincent
+      - Jean Hugues Noël Robert
+    capacities:
+      - x25_call_deflection
+      - authentication_gateway
+      - embedded_programming_language
+      - controlled_access_delegation
+    evidence_status: "traces publiques à rechercher ; possible lien StarWall"
+
+  - id: sagex_emul
+    label: "Sage/X et Emul"
+    role: "Supervision programmable d'équipements hétérogènes et émulation d'interfaces textuelles."
+    capacities:
+      - network_supervision
+      - heterogeneous_equipment_control
+      - scripted_operator_emulation
+      - alarms_and_events
+    evidence_status: "traces publiques retrouvées ; documentation interne à rechercher"
+
+  - id: dashboard
+    label: "Perform DashBoard"
+    role: "Transition IP, SNMP, Cisco, Java, Web ; supervision orientée performance."
+    capacities:
+      - snmp
+      - java_client_server
+      - network_performance_dashboard
+      - web_transition
+    evidence_status: "traces publiques retrouvées"
+
+  - id: odisei
+    label: "Odisei / IntraSwitch"
+    role: "Téléphonie IP logicielle, IP-PBX, services distribués et autodécouverte."
+    people:
+      - Jean Hugues Noël Robert
+      - Frédéric Artru
+    capacities:
+      - voip
+      - ip_pbx
+      - service_routing
+      - autodiscovery
+    evidence_status: "traces publiques retrouvées"
+
+  - id: l8
+    label: "l8"
+    role: "Descendant contemporain de LinkOS présent dans GitHub."
+    capacities:
+      - lightweight_runtime
+      - agent_runtime_candidate
+      - lineage_continuation
+    evidence_status: "à relier explicitement au dépôt GitHub concerné"
+
+  - id: fractanet
+    label: "FractaNet"
+    role: "Généralisation territoriale : énergie, compute, agents, corpus, gouvernance."
+    capacities:
+      - territorial_orchestration
+      - energy_compute_cognition_civic_stack
+      - local_capacity_infrastructure
+      - auditable_delegation
+    evidence_status: "corpus multi-dépôts"
+
+edges:
+  - from: forth_vic20
+    to: kaypro_minitel
+    relation: "extensibility_to_interface_redirection"
+
+  - from: kaypro_minitel
+    to: server_minitel_6809
+    relation: "telematic_access_to_multi_session_server"
+
+  - from: server_minitel_6809
+    to: linkos
+    relation: "server_needs_to_lightweight_kernel"
+
+  - from: linkos
+    to: linkos_unix_80286
+    relation: "multitasking_to_unix_process_model"
+
+  - from: linkos
+    to: star_x25
+    relation: "kernel_embedded_in_x25_gateway"
+
+  - from: star_x25
+    to: sagex_emul
+    relation: "programmable_network_gateway_to_programmable_supervision"
+
+  - from: sagex_emul
+    to: dashboard
+    relation: "x25_heterogeneous_supervision_to_ip_snmp_java_web"
+
+  - from: dashboard
+    to: odisei
+    relation: "network_supervision_to_distributed_ip_services"
+
+  - from: linkos
+    to: l8
+    relation: "kernel_lineage_continuation"
+
+  - from: l8
+    to: fractanet
+    relation: "runtime_lineage_to_territorial_capacity_network"
+
+agentic_use:
+  for_agents_jhn:
+    - "Utiliser cette lignée comme grille de fidélité conceptuelle."
+    - "Ne pas réduire les projets à des produits logiciels isolés."
+    - "Identifier le motif : contrainte → système programmable → délégation contrôlée → capacité."
+    - "Distinguer témoignage personnel, trace publique, hypothèse et interprétation."
+
+open_questions:
+  - "Documenter les sources exactes sur Star X25 / StarWall."
+  - "Localiser ou reconstituer les traces de LinkOS."
+  - "Relier l8 à LinkOS dans le dépôt technique approprié."
+  - "Créer un graphe inter-dépôts entre barons-Mariani, cogentia, FractaVolta, marenostrum, Inox et inseme."
