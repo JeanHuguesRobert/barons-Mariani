@@ -2,7 +2,7 @@
 title: "Agents JHN"
 subtitle: "Instances numériques mandatées du corpus Jean Hugues Noël Robert, baron Mariani"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-07"
+date: "2026-07-08"
 status: "draft"
 document_role: "orientation"
 document_kind: "readme"
@@ -33,6 +33,10 @@ Les Agents JHN ne sont pas des personnes, ni des titulaires du titre de baron Ma
 ## Formule courte
 
 > Les Agents JHN sont des instances contrôlées d'une pluralisation opératoire du baron Mariani : non des doubles souverains, mais des prolongements mandatés, auditables et révocables.
+
+Formule de gouvernance :
+
+> Les Agents JHN ne pluralisent pas la personne ; ils pluralisent la capacité d'action, d'interprétation, de documentation et de transmission du corpus, sous mandat, sous contrôle et sous révocation possible.
 
 ## Pourquoi dans `barons-Mariani`
 
@@ -99,9 +103,14 @@ Les Agents JHN sont :
 ## Documents associés
 
 - [`charte_agents_jhn.md`](charte_agents_jhn.md) — règles de mandat, de contrôle et de révocation.
+- [`mandats/mandat_clarification.md`](mandats/mandat_clarification.md) — modèle de mandat de clarification.
+- [`mandats/mandat_publication.md`](mandats/mandat_publication.md) — modèle de mandat de publication et de produits déclinés.
+- [`revocations/README.md`](revocations/README.md) — registre de révocation.
+- [`revocations/template_revocation.yaml`](revocations/template_revocation.yaml) — modèle de révocation.
 - [`../research/baron_mariani_singulier_pluriel_agents_jhn.md`](../research/baron_mariani_singulier_pluriel_agents_jhn.md) — doctrine du passage du baron Mariani singulier aux Agents JHN.
 - [`../research/logique_capacitaire_jhr_forth_linkos_fractanet.md`](../research/logique_capacitaire_jhr_forth_linkos_fractanet.md) — lignée technique et doctrinale Forth / LinkOS / X.25 / FractaNet.
 - [`../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml`](../research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml) — carte machine-readable de la lignée.
+- [`../research/notes/source_technique_1980_2001.md`](../research/notes/source_technique_1980_2001.md) — note-source de prudence probatoire.
 
 ## Principe d'interprétation prioritaire
 
