@@ -2,11 +2,9 @@ id: lineage_forth_linkos_x25_fractanet
 title: "Forth → LinkOS → Star X25 → Sage/X → Odisei → FractaNet"
 type: conceptual_lineage
 status: draft
-date: "2026-07-08"
-last_modified_at: "2026-07-13"
-repository: "JeanHuguesRobert/barons-Mariani"
+date: "2026-07-07"
+repository: JeanHuguesRobert/barons-Mariani
 priority_for_digital_twin: high
-visibility: public
 
 core_logic:
   name: possibilisme_capacitaire
@@ -14,15 +12,10 @@ core_logic:
     Transformer des contraintes en capacités par l'interposition
     d'un système programmable, vérifiable et délégable.
   interpretation_rule: >
-    Vérifier si un projet apparemment disparate applique la logique :
-    rendre capable un acteur limité sans le déposséder du contrôle
-    sur ce qui agit pour lui.
-
-evidence_scale:
-  personal_memory: "souvenir personnel à conserver, à vérifier avant publication historique"
-  repository_trace: "trace présente dans un dépôt ou un corpus source"
-  public_trace: "trace publique externe déjà retrouvée ou vérifiable"
-  to_verify: "élément plausible mais demandant vérification"
+    Lorsqu'un projet de Jean Hugues Noël Robert semble dispersé,
+    hybride ou excessivement large, chercher d'abord s'il applique
+    la logique suivante : rendre capable un acteur limité sans le
+    déposséder du contrôle sur ce qui agit pour lui.
 
 recurring_pattern:
   - constraint
@@ -36,40 +29,29 @@ recurring_pattern:
 
 nodes:
   - id: forth_vic20
-    label: "Forth sur Commodore VIC-20"
+    label: "Forth sur VIC-20"
     period: "early_1980s"
-    role: "langage extensible sur machine contrainte"
-    function: "programmer l'environnement plutôt que le subir"
+    role: "Langage extensible sur machine contrainte."
     capacities:
       - extensibility
       - interactive_programming
       - compact_runtime
-      - self_extension
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: "À documenter par note-source technique ou archive personnelle."
+    evidence_status: "témoignage personnel JHR"
 
   - id: kaypro_minitel
-    label: "Kaypro II vers Minitel"
+    label: "Kaypro II redirigé vers Minitel"
     period: "mid_1980s"
-    role: "redirection écran/clavier vers liaison série et Minitel"
-    function: "découpler machine, interface et réseau"
+    role: "Redirection écran/clavier vers liaison série et Minitel."
     capacities:
       - io_redirection
       - interface_virtualization
-      - serial_connectivity
       - telematic_access
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: "À documenter par note-source technique."
+    evidence_status: "témoignage personnel JHR"
 
   - id: server_minitel_6809
     label: "Projet serveur Minitel multiprocesseur 6809"
     period: "summer_1986_approx"
-    role: "projet d'infrastructure télématique multi-session"
-    function: "servir plusieurs sessions sur matériel spécialisé sobre"
+    role: "Projet d'infrastructure télématique multi-session."
     people:
       - Jean Hugues Noël Robert
       - Jean Vincent
@@ -77,210 +59,64 @@ nodes:
       - multi_session
       - hardware_software_co_design
       - constrained_server_architecture
-      - specialized_parallelism
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: "Projet non abouti ; à conserver comme jalon uchronique personnel."
+    evidence_status: "témoignage personnel JHR"
 
   - id: linkos
     label: "LinkOS"
-    period: "mid_1980s_through_present"
-    role: "noyau multitâche personnel (déjà nommé dans Emul C/C++ ; évolue encore)"
-    function: "orchestrer des tâches sur machine contrainte"
+    role: "Noyau multitâche personnel, matrice de tâches légères et d'orchestration."
     capacities:
       - multitasking
       - lightweight_kernel
       - local_orchestration
-      - embedded_language
-      - task_cooperation
-    evidence:
-      status: personal_memory
-      confidence: high
-      notes: >
-        Named as multitasking kernel in Emul C/C++ phase (after Turbo Prolog Emul).
-        Continues via l8 (JS) and later Inox/COP bridges. See perform §4.1e.
-
-  - id: emul_language
-    label: "Emul — Emulation (opérateur VT100)"
-    period: "perform_period"
-    name_from: "Emulation — automate a human behind a VT100-class screen/keyboard"
-    role: "langage pour émuler un opérateur humain sur terminal texte"
-    function: "automatiser les frappes/lectures écran/clavier type VT100 sur équipements hétérogènes"
-    implementations:
-      - Turbo Prolog (first)
-      - C/C++ (second; LinkOS multitasking kernel already present)
-    capacities:
-      - operator_emulation
-      - text_ui_automation
-      - scripted_equipment_control
-      - embedded_multitasking_via_linkos
-    evidence:
-      status: personal_memory
-      confidence: high
-      notes: "JHR. Archives sources Turbo Prolog / C: to_verify. Lineage to l8 via LinkOS."
-    ambition_successor:
-      - "Cogentia + Inox: scale operator-emulation motif toward digital twins (see perform note §4.1f)"
-      - "Not a claim that twins are fully delivered — ambition / roadmap plane"
+    evidence_status: "à documenter dans GitHub / sources personnelles"
 
   - id: linkos_unix_80286
     label: "LinkOS Unix-like sur 80286"
-    period: "iut_first_year_approx"
-    role: "appels système de type Unix, fork/exec selon souvenir, arrêt avant mémoire virtuelle"
-    function: "transposer le modèle processus Unix sur matériel contraint"
+    period: "IUT first year"
+    role: "Tentative d'appels système de type Unix, fork/exec fonctionnel selon souvenir, arrêt avant mémoire virtuelle."
     capacities:
       - process_model
       - system_calls
       - fork_exec
       - unix_like_architecture
-      - kernel_user_separation
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: "À vérifier par archives personnelles si disponibles."
-
-  - id: perform_company
-    label: "Perform (maison logicielle, Aix-en-Provence)"
-    period: "1987_1997"
-    role: "société d'édition de produits + services (réseau, supervision)"
-    function: "industrialiser les passerelles et la supervision multi-équipements"
-    people:
-      - Jean Hugues Noël Robert
-      # partenaire 50 % — nom à documenter si publication nominative
-    capacities:
-      - product_house
-      - network_management_products
-      - services_around_products
-    commercial_insight:
-      - "indépendance multi-vendeur comme levier de négociation pour le client"
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: >
-        Fondation 1987 Aix-en-Provence ; cession au partenaire 50 % fin 1997.
-        Note historique : research/perform_fixbugsfirst_technical_debt_negotiation_power.md
-
-  - id: fix_bugs_first
-    label: "FixBugsFirst (pratique Perform / c2)"
-    period: "perform_period"
-    role: "gouvernance de projet face à la dette technique avant le nom courant"
-    function: "arrêter les features hors contrôle ; registre Bug/Feature ; réparer d'abord"
-    capacities:
-      - project_control
-      - bug_feature_tracking
-      - quality_before_feature_treadmill
-    evidence:
-      status: public_trace
-      confidence: high
-      notes: >
-        Pages c2 (FixBugsFirst, JeanHuguesRobert, CreepingFeaturitis, …).
-        Pratique Perform : personal_memory. Suite ops : operium/docs/fix-bugs-first.md
+    evidence_status: "témoignage personnel JHR"
 
   - id: star_x25
-    label: "StarX25 (X.25 Firewall)"
-    period: "perform_period"
-    role: "X.25 Firewall — pare-feu / contrôle d'accès sur le plan X.25"
-    function: "sécuriser la frontière du réseau X.25 (auth, call deflection, …)"
-    product_kind: firewall
+    label: "Star X25"
+    role: "Passerelle programmable X.25 : authentification, langage embarqué, call deflection."
     people:
       - Jean Vincent
       - Jean Hugues Noël Robert
     capacities:
-      - x25_firewall
       - x25_call_deflection
       - authentication_gateway
       - embedded_programming_language
       - controlled_access_delegation
-      - programmable_routing
-    evidence:
-      status: personal_memory
-      confidence: high
-      notes: >
-        Nomenclature opérateur : StarX25 = the X.25 Firewall (distinct de SAGE).
-        Mécanismes détaillés / StarWall : to_verify. Voir note Perform.
+    evidence_status: "traces publiques à rechercher ; possible lien StarWall"
 
   - id: sagex_emul
-    label: "SAGE — Système d'Aide à la Gestion d'Equipements hétérogènes"
-    period: "perform_period"
-    role: "network management system (SAGE acronym) + Emul"
-    function: "aider à gérer et piloter des équipements hétérogènes (souvent X.25 privés)"
-    product_kind: management_system
-    acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
-    runtime_early:
-      - DOS
-      - DESQview  # multitasking + IPC under MS-DOS (Quarterdeck)
-    desqview_role: "multitasking layer + Inter-Process Communication"
-    market_scope_memory: "France; private X.25; substantial installed base"
+    label: "Sage/X et Emul"
+    role: "Supervision programmable d'équipements hétérogènes et émulation d'interfaces textuelles."
     capacities:
-      - network_management_system
       - network_supervision
       - heterogeneous_equipment_control
       - scripted_operator_emulation
       - alarms_and_events
-      - legacy_interface_mediation
-      - vendor_independent_operations
-      - dos_desqview_install_base
-      - desqview_multitasking
-      - desqview_ipc
-    commercial_insight:
-      - "vendre au client le pouvoir de négocier face aux constructeurs (hétérogénéité gérable)"
-    standards_context:
-      - "CMIP: good ideas, hard to grasp and implement on period machines"
-      - "installed-base constraint blocked pure CMIP pivot"
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: >
-        SAGE vs StarX25. DOS/DESQview base + CMIP testimony 2026-07-26.
-        Unix line: sage_x. Full write-up: perform note §4.1d.
-
-  - id: sage_x
-    label: "SAGE/X — port Unix de SAGE"
-    period: "mid_1990s"
-    role: "version de SAGE tournant sous Unix ; /X = Unix (pas X.25)"
-    function: "porter le management system sur plateformes Unix (pression NMS type OpenView)"
-    product_kind: management_system_unix
-    slash_x_means: Unix
-    platforms:
-      - Unix (generic mid-1990s)
-      - IBM AIX on RS/6000 (port ; plateforme dispo dès 1990)
-    market_context:
-      - "OpenView already established ~1990 (IBM licensed HP NNM/OpenView tech 1990)"
-      - "mid-1990s = competitive heyday of Unix NMS (OpenView vs SunNet Manager), not first OpenView launch"
-    capacities:
-      - unix_runtime
-      - network_management_system
-      - multi_unix_portability
-      - aix_port
-    evidence:
-      status: personal_memory
-      confidence: medium
-      notes: >
-        /X = Unix, ~mid-1990s (Perform memory). External check 2026-07-26:
-        do not claim OpenView "released" mid-90s; RS/6000+AIX from Feb 1990.
-        See perform note §4.1b verification table.
+    evidence_status: "traces publiques retrouvées ; documentation interne à rechercher"
 
   - id: dashboard
     label: "Perform DashBoard"
-    period: "late_1990s"
-    role: "transition SNMP/IP/Java/Web"
-    function: "adapter la supervision à l'Internet et à la qualité de service"
+    role: "Transition IP, SNMP, Cisco, Java, Web ; supervision orientée performance."
     capacities:
       - snmp
       - java_client_server
       - network_performance_dashboard
       - web_transition
-      - operational_visualization
-    evidence:
-      status: public_trace
-      confidence: high
-      notes: "Traces publiques repérées autour de Perform, BMC et profils d'anciens collaborateurs."
+    evidence_status: "traces publiques retrouvées"
 
   - id: odisei
     label: "Odisei / IntraSwitch"
-    period: "1998_2001"
-    role: "téléphonie IP logicielle, services distribués"
-    function: "transformer l'appel en service programmable"
+    role: "Téléphonie IP logicielle, IP-PBX, services distribués et autodécouverte."
     people:
       - Jean Hugues Noël Robert
       - Frédéric Artru
@@ -289,138 +125,77 @@ nodes:
       - ip_pbx
       - service_routing
       - autodiscovery
-      - distributed_services
-      - software_defined_call_control
-    evidence:
-      status: public_trace
-      confidence: high
-      notes: "Traces publiques repérées autour d'Odisei, 8x8 et documents SEC."
+    evidence_status: "traces publiques retrouvées"
 
   - id: l8
     label: "l8"
-    period: "current"
-    role: "descendant JS attesté de LinkOS (Tasks/Steps coopératifs)"
-    function: "réactiver la logique du noyau léger multitâche en JavaScript"
-    repository: "https://github.com/JeanHuguesRobert/l8"
+    role: "Descendant contemporain de LinkOS présent dans GitHub."
     capacities:
       - lightweight_runtime
-      - cooperative_multitasking
       - agent_runtime_candidate
       - lineage_continuation
-      - constrained_execution
-    evidence:
-      status: repository_trace
-      confidence: high
-      notes: >
-        README documents historical status and successors (Inox l9, COP).
-        Operator lineage: Emul C/C++ LinkOS → l8.
+    evidence_status: "à relier explicitement au dépôt GitHub concerné"
 
   - id: fractanet
     label: "FractaNet"
-    period: "current_future"
-    role: "généralisation territoriale de la logique capacitaire"
-    function: "transformer énergie, compute, agents et corpus en capacité collective vérifiable"
+    role: "Généralisation territoriale : énergie, compute, agents, corpus, gouvernance."
     capacities:
       - territorial_orchestration
       - energy_compute_cognition_civic_stack
       - local_capacity_infrastructure
       - auditable_delegation
-      - mandate_based_execution
-      - distributed_governance
-    evidence:
-      status: repository_trace
-      confidence: high
-      notes: "À relier aux dépôts FractaVolta, Inox, MareNostrum, Inseme et Cogentia."
+    evidence_status: "corpus multi-dépôts"
 
 edges:
   - from: forth_vic20
     to: kaypro_minitel
-    relation: "langage extensible vers détournement d'interface"
+    relation: "extensibility_to_interface_redirection"
 
   - from: kaypro_minitel
     to: server_minitel_6809
-    relation: "terminal détourné vers serveur télématique spécialisé"
+    relation: "telematic_access_to_multi_session_server"
 
   - from: server_minitel_6809
     to: linkos
-    relation: "besoin multi-session vers noyau multitâche"
+    relation: "server_needs_to_lightweight_kernel"
 
   - from: linkos
     to: linkos_unix_80286
-    relation: "noyau multitâche vers modèle Unix-like"
+    relation: "multitasking_to_unix_process_model"
 
   - from: linkos
     to: star_x25
-    relation: "noyau embarqué vers passerelle programmable"
+    relation: "kernel_embedded_in_x25_gateway"
 
   - from: star_x25
     to: sagex_emul
-    relation: "programmabilité réseau vers supervision hétérogène"
+    relation: "programmable_network_gateway_to_programmable_supervision"
 
   - from: sagex_emul
     to: dashboard
-    relation: "supervision hétérogène vers Internet/IP/SNMP"
+    relation: "x25_heterogeneous_supervision_to_ip_snmp_java_web"
 
   - from: dashboard
     to: odisei
-    relation: "réseaux IP vers services logiciels distribués"
+    relation: "network_supervision_to_distributed_ip_services"
 
   - from: linkos
     to: l8
-    relation: "descendance conceptuelle et logicielle"
-
-  - from: odisei
-    to: fractanet
-    relation: "services distribués vers infrastructure territoriale"
+    relation: "kernel_lineage_continuation"
 
   - from: l8
     to: fractanet
-    relation: "runtime léger vers agents et nœuds distribués"
+    relation: "runtime_lineage_to_territorial_capacity_network"
 
-system_analogy:
-  process: agents
-  machines: local_resources
-  scheduler: energy_compute_civic_orchestration
-  system_calls: explicit_mandates
-  logs: governed_traceability
-  fork_exec: controlled_agent_instantiation
-  permissions: capabilities_prohibitions_revocations
-
-agent_guidance:
+agentic_use:
   for_agents_jhn:
-    priority: high
-    instruction: >
-      Utiliser cette lignée comme grille d'interprétation lorsque les projets
-      de Jean Hugues Noël Robert semblent dispersés. Chercher la continuité
-      entre langage, noyau, protocole, mandat, supervision et transmission.
-  caution: >
-    Ne pas présenter cette carte comme une preuve historique complète.
-    Distinguer les traces publiques, les souvenirs personnels, les
-    interprétations doctrinales et les propositions.
-
-related_documents:
-  - path: "agents-jhn/README.md"
-  - path: "agents-jhn/charte_agents_jhn.md"
-  - path: "agents-jhn/instances/README.md"
-  - path: "agents-jhn/instances/agent-jhn-clarificateur.yaml"
-  - path: "agents-jhn/instances/agent-jhn-publicateur.yaml"
-  - path: "agents-jhn/instances/agent-jhn-archiviste.yaml"
-  - path: "agents-jhn/instances/agent-jhn-contradicteur.yaml"
-  - path: "agents-jhn/mandats/mandat_clarification.md"
-  - path: "agents-jhn/mandats/mandat_publication.md"
-  - path: "agents-jhn/revocations/README.md"
-  - path: "agents-jhn/revocations/template_revocation.yaml"
-  - path: "research/baron_mariani_singulier_pluriel_agents_jhn.md"
-  - path: "research/logique_capacitaire_jhr_forth_linkos_fractanet.md"
-  - path: "research/notes/source_technique_1980_2001.md"
+    - "Utiliser cette lignée comme grille de fidélité conceptuelle."
+    - "Ne pas réduire les projets à des produits logiciels isolés."
+    - "Identifier le motif : contrainte → système programmable → délégation contrôlée → capacité."
+    - "Distinguer témoignage personnel, trace publique, hypothèse et interprétation."
 
 open_questions:
   - "Documenter les sources exactes sur Star X25 / StarWall."
   - "Localiser ou reconstituer les traces de LinkOS."
-  - "Vérifier la réalité et l'état du couple fork/exec dans LinkOS sur 80286."
   - "Relier l8 à LinkOS dans le dépôt technique approprié."
-  - "Documenter le rôle et les traces d'Emul."
-  - "Stabiliser la chronologie Perform / Sage-X / DashBoard / Odisei."
-  - "Préciser le rôle de Jean Vincent, Frédéric Artru et des autres personnes citées."
   - "Créer un graphe inter-dépôts entre barons-Mariani, cogentia, FractaVolta, marenostrum, Inox et inseme."
-  - "Distinguer les éléments publiables, privés et soumis à l'accord de tiers."
