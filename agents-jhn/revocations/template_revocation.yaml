@@ -18,6 +18,8 @@ effect:
   ends_at: null
   permanent: false
   blocks_reactivation_without_review: true
+  priority_over_mandate: true
+  priority_over_instance_profile: true
 
 review:
   human_review_required: true
