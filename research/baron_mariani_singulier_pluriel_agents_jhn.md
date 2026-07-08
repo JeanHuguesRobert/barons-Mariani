@@ -235,7 +235,6 @@ Cette règle explique la continuité entre Forth, LinkOS, Star X25, Sage/X, Odis
 
 - Ajouter la notice généalogique d'Antoine Dominique Mariani comme source.
 - Relier explicitement la notice de Marie-Louise Mariani, épouse Robert.
-- Définir les premiers profils d'Agents JHN.
-- Créer un registre de mandats.
-- Créer un registre de révocation.
+- Ajouter les mandats manquants : audit, archivage, veille, code.
 - Relier ce document à `cogentia/research/Cogentia-and-Cogentigram.md` et `cogentia/research/cogentia-digital-twin.md`.
+- Relier les profils d'instances aux futurs mandats spécialisés.
