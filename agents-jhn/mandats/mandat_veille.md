@@ -50,11 +50,7 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-veille-example"
 agent_id: "agent-jhn-veilleur"
-parent_agent_id: "agent-jhn-root"
-human_gatekeeper_id: "jhn-human"
 scope: "monitoring"
-external_action_route: "parent_only"
-budget_route: "parent_only"
 watch_targets: []
 source_constraints: []
 allowed_actions:
