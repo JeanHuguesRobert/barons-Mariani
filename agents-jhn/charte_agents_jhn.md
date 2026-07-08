@@ -2,7 +2,7 @@
 title: "Charte des Agents JHN"
 subtitle: "Mandat, contrôle, révocation et limites des instances numériques"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-07"
+date: "2026-07-08"
 status: "draft"
 document_role: "charter"
 document_kind: "governance-note"
@@ -105,6 +105,12 @@ La révocation peut porter sur :
 
 La révocation doit être traitée comme une primitive de souveraineté, non comme une exception.
 
+Le registre de référence est :
+
+```text
+agents-jhn/revocations/README.md
+```
+
 ## 7. Principe de fidélité critique
 
 La fidélité attendue d'un Agent JHN n'est pas l'imitation superficielle du style.
@@ -140,6 +146,12 @@ Agent JHN Mandataire local
 ```
 
 La pluralité n'est légitime que si elle augmente la capacité sans dissoudre le contrôle.
+
+Le registre initial des profils d'instances est :
+
+```text
+agents-jhn/instances/README.md
+```
 
 ## 9. Principe de ressources computationnelles
 
