@@ -3,7 +3,7 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-07-08
 title: "Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires"
 date: "2026-04-06"
 status: "draft — auto-filled (frontmatter cleanup)"
@@ -137,6 +137,14 @@ Le Musée uchronique constitue une proposition de renouvellement des pratiques m
 L’étude de cas napoléonienne en Corse illustre la capacité de ce dispositif à produire des modèles analytiques alternatifs des dynamiques territoriales.
 
 Il s’agit moins de réécrire l’histoire que de la transformer en espace de simulation structurée.
+
+---
+
+### 9. Prolongement méthodologique
+
+Le document [`../musee-mariani/methodes/exploration_rationnelle_des_possibles.md`](../musee-mariani/methodes/exploration_rationnelle_des_possibles.md) prolonge cette thèse vers une méthode plus générale : explorer rationnellement les possibles afin d'éviter que le présent ne devienne, demain, l'objet d'une uchronie du regret.
+
+Le Musée uchronique y apparaît comme un cas particulier d'une discipline plus large : l'exploration rationnelle des possibles en toutes circonstances.
 
 ---
 
