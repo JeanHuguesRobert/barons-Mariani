@@ -1,26 +1,16 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/README.md
-author: Jean Hugues Noël Robert, baron Mariani
-affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-license: CC BY-SA 4.0
-last_stamped_at: 2026-06-26T00:00:00.000Z
-title: Musée Mariani — préfiguration
-date: '2026-06-26'
-status: draft
-document_role: index
-document_kind: museum-corpus-index
-visibility: public
-lifecycle_state: working
-provenance:
-  origin_type: unknown
-  origin_repository: unknown
-  origin_ref: unknown
-  origin_date: unknown
-  derived_from: []
-review:
-  status: unreviewed
-  reviewed_by: []
-update_policy: UP-DEFAULT-REVIEWED
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
+last_stamped_at: 2026-07-08
+title: "Musée Mariani — préfiguration"
+date: "2026-06-26"
+status: "draft"
+document_role: "index"
+document_kind: "museum-corpus-index"
+visibility: "public"
+lifecycle_state: "working"
 ---
 
 # Musée Mariani — préfiguration
@@ -72,6 +62,7 @@ musee-mariani/
     indice_capacite_retrouvee.md
     grille_remise_en_service.md
     articulation_musee_uchronique.md
+    exploration_rationnelle_des_possibles.md
   juridique/
     demander_au_juge.md
     autorisations_ateliers_sous_traites.md
@@ -90,13 +81,6 @@ musee-mariani/
 - [`intention.md`](intention.md) — intention générale du musée.
 - [`plan-museal.md`](plan-museal.md) — architecture provisoire des parcours.
 - [`doctrine_musee_mariani_des_possibles.md`](doctrine_musee_mariani_des_possibles.md) — **doctrine du Musée Mariani des Possibles** : couche doctrinale du sous-corpus muséal (muséologie capacitaire ; finalité du musée comme exploration des conditions du possible).
-
-## Lien avec le Possibilisme
-
-Le Musée Mariani des Possibles s'inscrit dans le cadre plus large du **Possibilisme** — programme de recherche sur l'exploration des espaces de possibles. Le musée en est l'application muséographique concrète :
-
-- [`../research/possibilism_04_2026.md`](../research/possibilism_04_2026.md) — cadre académique : configuration de terrain, thèse de la corrigibilité, attracteurs pathologiques
-- [`../research/applied_possibilism.md`](../research/applied_possibilism.md) — pratique quotidienne : jumeaux numériques, exploration stigmergique, joy against optimization
 - [`dossiers/louis-thomas-mariani-tahiti.md`](dossiers/louis-thomas-mariani-tahiti.md) — dossier prototype : Louis-Thomas Mariani, Tahiti et la mention fragile de « prince en Tahiti ».
 - [`notes-critiques/preuves-et-incertitudes.md`](notes-critiques/preuves-et-incertitudes.md) — grille de preuve et règles de prudence.
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
@@ -112,6 +96,7 @@ La doctrine est accompagnée d'une première série de documents opérationnels 
 - [`methodes/indice_capacite_retrouvee.md`](methodes/indice_capacite_retrouvee.md) — mesure de ce qu'un atelier rend possible.
 - [`methodes/grille_remise_en_service.md`](methodes/grille_remise_en_service.md) — diagnostic du composant d'accès manquant.
 - [`methodes/articulation_musee_uchronique.md`](methodes/articulation_musee_uchronique.md) — articulation avec le Musée uchronique.
+- [`methodes/exploration_rationnelle_des_possibles.md`](methodes/exploration_rationnelle_des_possibles.md) — méthode générale : explorer les possibles pour éviter que le présent ne devienne une uchronie future.
 
 **Juridique**
 
@@ -135,6 +120,8 @@ Le document source actuellement le plus avancé reste :
 - [`research/uchronian_museum.md`](../research/uchronian_museum.md) — *Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires*.
 
 Le présent sous-corpus ne remplace pas ce document. Il en prépare la déclinaison muséale concrète : cartels, dossiers, parcours, collections, vérifications et médiation publique.
+
+Le document [`methodes/exploration_rationnelle_des_possibles.md`](methodes/exploration_rationnelle_des_possibles.md) précise le pont méthodologique : l'uchronie n'est pas seulement une fiction du passé, mais une méthode de vigilance permettant d'éviter que les possibles du présent ne deviennent les regrets d'une uchronie future.
 
 ## Règle d'Occam
 
