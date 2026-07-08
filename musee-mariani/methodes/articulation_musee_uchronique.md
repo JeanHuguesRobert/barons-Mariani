@@ -14,6 +14,7 @@ visibility: "public"
 lifecycle_state: "working"
 related_documents:
   - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
+  - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
   - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
   - "research/uchronian_museum.md"
 ---
@@ -25,6 +26,8 @@ related_documents:
 > **Statut.** Première version (v0.1). Note d'articulation entre deux dispositifs muséaux du même domaine.
 
 Le Musée des Possibles a un concept compagnon : le Musée uchronique, dispositif d'inférence historique fondé sur l'histoire contrefactuelle appliquée à un territoire (§28). Les deux ne s'opposent pas ; ils explorent le même espace de possibilités selon deux axes de temps. Cette note précise leur articulation et la discipline commune qui les protège tous deux de la fiction non maîtrisée.
+
+Le document [`exploration_rationnelle_des_possibles.md`](exploration_rationnelle_des_possibles.md) généralise cette articulation : l'uchronie y devient une méthode de vigilance destinée à éviter que le présent ne produise les regrets d'une uchronie future.
 
 ## Deux axes, un même espace
 
