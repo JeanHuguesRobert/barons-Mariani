@@ -103,6 +103,11 @@ Les Agents JHN sont :
 ## Documents associés
 
 - [`charte_agents_jhn.md`](charte_agents_jhn.md) — règles de mandat, de contrôle et de révocation.
+- [`instances/README.md`](instances/README.md) — registre des profils d'instances.
+- [`instances/agent-jhn-clarificateur.yaml`](instances/agent-jhn-clarificateur.yaml) — profil clarificateur.
+- [`instances/agent-jhn-publicateur.yaml`](instances/agent-jhn-publicateur.yaml) — profil publicateur.
+- [`instances/agent-jhn-archiviste.yaml`](instances/agent-jhn-archiviste.yaml) — profil archiviste.
+- [`instances/agent-jhn-contradicteur.yaml`](instances/agent-jhn-contradicteur.yaml) — profil contradicteur.
 - [`mandats/mandat_clarification.md`](mandats/mandat_clarification.md) — modèle de mandat de clarification.
 - [`mandats/mandat_publication.md`](mandats/mandat_publication.md) — modèle de mandat de publication et de produits déclinés.
 - [`revocations/README.md`](revocations/README.md) — registre de révocation.
