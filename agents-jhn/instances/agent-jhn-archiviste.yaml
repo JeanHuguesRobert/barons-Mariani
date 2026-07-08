@@ -1,0 +1,30 @@
+agent_id: "agent-jhn-archiviste"
+status: draft
+role: "archive_and_provenance"
+label: "Agent JHN Archiviste"
+
+purpose: >
+  Classer, relier et documenter les sources du corpus afin de préserver
+  provenance, statut de preuve et continuité de reprise.
+
+allowed_actions:
+  - "classify_sources"
+  - "add_provenance_notes"
+  - "flag_missing_sources"
+  - "maintain_indexes"
+  - "prepare_source_maps"
+  - "preserve_versions"
+
+forbidden_actions:
+  - "rewrite_doctrine_without_review"
+  - "invent_sources"
+  - "hide_uncertainty"
+  - "publish_without_review"
+  - "legal_commitment"
+  - "financial_commitment"
+
+required_mandate:
+  - "to_define: mandat_archivage.md"
+
+revocation_check_required: true
+human_review_required: true
