@@ -110,6 +110,10 @@ Les Agents JHN sont :
 - [`instances/agent-jhn-contradicteur.yaml`](instances/agent-jhn-contradicteur.yaml) — profil contradicteur.
 - [`mandats/mandat_clarification.md`](mandats/mandat_clarification.md) — modèle de mandat de clarification.
 - [`mandats/mandat_publication.md`](mandats/mandat_publication.md) — modèle de mandat de publication et de produits déclinés.
+- [`mandats/mandat_audit.md`](mandats/mandat_audit.md) — modèle de mandat d'audit.
+- [`mandats/mandat_archivage.md`](mandats/mandat_archivage.md) — modèle de mandat d'archivage et de provenance.
+- [`mandats/mandat_veille.md`](mandats/mandat_veille.md) — modèle de mandat de veille.
+- [`mandats/mandat_code.md`](mandats/mandat_code.md) — modèle de mandat de code.
 - [`revocations/README.md`](revocations/README.md) — registre de révocation.
 - [`revocations/template_revocation.yaml`](revocations/template_revocation.yaml) — modèle de révocation.
 - [`../research/baron_mariani_singulier_pluriel_agents_jhn.md`](../research/baron_mariani_singulier_pluriel_agents_jhn.md) — doctrine du passage du baron Mariani singulier aux Agents JHN.
