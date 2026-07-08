@@ -53,11 +53,7 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-code-example"
 agent_id: "agent-jhn-codeur"
-parent_agent_id: "agent-jhn-root"
-human_gatekeeper_id: "jhn-human"
 scope: "code"
-external_action_route: "parent_only"
-budget_route: "parent_only"
 repositories: []
 paths: []
 allowed_actions:
