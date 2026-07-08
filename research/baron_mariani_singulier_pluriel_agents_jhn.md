@@ -2,7 +2,7 @@
 title: "Du baron Mariani singulier aux Agents JHN"
 subtitle: "Cogentia, Cogentigram et pluralisation contrôlée d'une fonction historique"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-07"
+date: "2026-07-08"
 status: "draft"
 document_role: "doctrine"
 document_kind: "conceptual-bridge"
@@ -161,6 +161,13 @@ La pluralisation n'est donc acceptable que si elle reste contrôlée.
 La règle est :
 
 > pluraliser la capacité, non dissoudre la responsabilité.
+
+Les registres opératoires associés sont :
+
+```text
+agents-jhn/instances/README.md
+agents-jhn/revocations/README.md
+```
 
 ## 9. Référence Agent John / Agent Smith
 
