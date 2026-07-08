@@ -22,6 +22,12 @@ Ce mandat autorise un Agent JHN à préparer une version publiable à partir du 
 
 Il ne vaut pas autorisation de publier directement, sauf mention explicite.
 
+Instance de référence :
+
+```text
+agents-jhn/instances/agent-jhn-publicateur.yaml
+```
+
 ## 2. Surfaces de publication
 
 Les surfaces usuelles sont :
