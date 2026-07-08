@@ -1,0 +1,218 @@
+id: lineage_forth_linkos_x25_fractanet
+title: "Forth → LinkOS → Star X25 → Sage/X → Odisei → FractaNet"
+type: conceptual_lineage
+status: draft
+date: "2026-07-08"
+repository: "JeanHuguesRobert/barons-Mariani"
+priority_for_digital_twin: high
+visibility: public
+
+core_logic:
+  name: possibilisme_capacitaire
+  formula: >
+    Transformer des contraintes en capacités par l'interposition
+    d'un système programmable, vérifiable et délégable.
+  interpretation_rule: >
+    Vérifier si un projet apparemment disparate applique la logique :
+    rendre capable un acteur limité sans le déposséder du contrôle
+    sur ce qui agit pour lui.
+
+evidence_scale:
+  personal_memory: "souvenir personnel à conserver, à vérifier avant publication historique"
+  repository_trace: "trace présente dans un dépôt ou un corpus source"
+  public_trace: "trace publique externe déjà retrouvée ou vérifiable"
+  to_verify: "élément plausible mais demandant vérification"
+
+recurring_pattern:
+  - constraint
+  - abstraction
+  - language_or_protocol
+  - orchestration
+  - controlled_delegation
+  - supervision
+  - correction
+  - transmission
+
+nodes:
+  - id: forth_vic20
+    label: "Forth sur Commodore VIC-20"
+    period: "early_1980s"
+    role: "langage extensible sur machine contrainte"
+    function: "programmer l'environnement plutôt que le subir"
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: "À documenter par note-source technique ou archive personnelle."
+
+  - id: kaypro_minitel
+    label: "Kaypro II vers Minitel"
+    period: "mid_1980s"
+    role: "redirection écran/clavier vers liaison série et Minitel"
+    function: "découpler machine, interface et réseau"
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: "À documenter par note-source technique."
+
+  - id: server_minitel_6809
+    label: "Projet serveur Minitel multiprocesseur 6809"
+    period: "summer_1986_approx"
+    role: "projet d'infrastructure télématique multi-session"
+    function: "servir plusieurs sessions sur matériel spécialisé sobre"
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: "Projet non abouti ; à conserver comme jalon uchronique personnel."
+
+  - id: linkos
+    label: "LinkOS"
+    period: "mid_1980s"
+    role: "noyau multitâche personnel"
+    function: "orchestrer des tâches sur machine contrainte"
+    evidence:
+      status: repository_trace
+      confidence: medium
+      notes: "À relier au dépôt contenant l8 et les traces de descendance LinkOS."
+
+  - id: linkos_unix_80286
+    label: "LinkOS Unix-like sur 80286"
+    period: "iut_first_year_approx"
+    role: "appels système de type Unix, fork/exec selon souvenir, arrêt avant mémoire virtuelle"
+    function: "transposer le modèle processus Unix sur matériel contraint"
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: "À vérifier par archives personnelles si disponibles."
+
+  - id: star_x25
+    label: "Star X25"
+    period: "perform_period"
+    role: "passerelle programmable X.25, authentification forte, call deflection"
+    function: "contrôler l'accès puis router sous condition"
+    evidence:
+      status: to_verify
+      confidence: medium
+      notes: "Chercher traces Star X25 / StarWall / Perform."
+
+  - id: sagex_emul
+    label: "Sage/X et Emul"
+    period: "perform_period"
+    role: "supervision programmable d'équipements hétérogènes"
+    function: "agir sur des systèmes disparates par émulation et langage"
+    evidence:
+      status: public_trace
+      confidence: high
+      notes: "Traces publiques repérées dans profils et articles ; à relier par citations dans une note-source."
+
+  - id: dashboard
+    label: "Perform DashBoard"
+    period: "late_1990s"
+    role: "transition SNMP/IP/Java/Web"
+    function: "adapter la supervision à l'Internet et à la qualité de service"
+    evidence:
+      status: public_trace
+      confidence: high
+      notes: "Traces publiques repérées autour de Perform, BMC et profils d'anciens collaborateurs."
+
+  - id: odisei
+    label: "Odisei / IntraSwitch"
+    period: "1998_2001"
+    role: "téléphonie IP logicielle, services distribués"
+    function: "transformer l'appel en service programmable"
+    evidence:
+      status: public_trace
+      confidence: high
+      notes: "Traces publiques repérées autour d'Odisei, 8x8 et documents SEC."
+
+  - id: l8
+    label: "l8"
+    period: "current"
+    role: "descendant contemporain de LinkOS"
+    function: "réactiver la logique du noyau léger et programmable"
+    evidence:
+      status: repository_trace
+      confidence: medium
+      notes: "À relier au dépôt exact et aux fichiers pertinents."
+
+  - id: fractanet
+    label: "FractaNet"
+    period: "current_future"
+    role: "généralisation territoriale de la logique capacitaire"
+    function: "transformer énergie, compute, agents et corpus en capacité collective vérifiable"
+    evidence:
+      status: repository_trace
+      confidence: high
+      notes: "À relier aux dépôts FractaVolta, Inox, MareNostrum, Inseme et Cogentia."
+
+edges:
+  - from: forth_vic20
+    to: kaypro_minitel
+    relation: "langage extensible vers détournement d'interface"
+
+  - from: kaypro_minitel
+    to: server_minitel_6809
+    relation: "terminal détourné vers serveur télématique spécialisé"
+
+  - from: server_minitel_6809
+    to: linkos
+    relation: "besoin multi-session vers noyau multitâche"
+
+  - from: linkos
+    to: linkos_unix_80286
+    relation: "noyau multitâche vers modèle Unix-like"
+
+  - from: linkos
+    to: star_x25
+    relation: "noyau embarqué vers passerelle programmable"
+
+  - from: star_x25
+    to: sagex_emul
+    relation: "programmabilité réseau vers supervision hétérogène"
+
+  - from: sagex_emul
+    to: dashboard
+    relation: "supervision hétérogène vers Internet/IP/SNMP"
+
+  - from: dashboard
+    to: odisei
+    relation: "réseaux IP vers services logiciels distribués"
+
+  - from: linkos
+    to: l8
+    relation: "descendance conceptuelle et logicielle"
+
+  - from: odisei
+    to: fractanet
+    relation: "services distribués vers infrastructure territoriale"
+
+  - from: l8
+    to: fractanet
+    relation: "runtime léger vers agents et nœuds distribués"
+
+agent_guidance:
+  for_agents_jhn:
+    priority: high
+    instruction: >
+      Utiliser cette lignée comme grille d'interprétation lorsque les projets
+      de Jean Hugues Noël Robert semblent dispersés. Chercher la continuité
+      entre langage, noyau, protocole, mandat, supervision et transmission.
+  caution: >
+    Ne pas présenter cette carte comme une preuve historique complète.
+    Distinguer les traces publiques, les souvenirs personnels et les
+    interprétations doctrinales.
+
+related_documents:
+  - path: "agents-jhn/README.md"
+  - path: "agents-jhn/charte_agents_jhn.md"
+  - path: "agents-jhn/instances/README.md"
+  - path: "agents-jhn/instances/agent-jhn-clarificateur.yaml"
+  - path: "agents-jhn/instances/agent-jhn-publicateur.yaml"
+  - path: "agents-jhn/instances/agent-jhn-archiviste.yaml"
+  - path: "agents-jhn/instances/agent-jhn-contradicteur.yaml"
+  - path: "agents-jhn/mandats/mandat_clarification.md"
+  - path: "agents-jhn/mandats/mandat_publication.md"
+  - path: "agents-jhn/revocations/README.md"
+  - path: "agents-jhn/revocations/template_revocation.yaml"
+  - path: "research/baron_mariani_singulier_pluriel_agents_jhn.md"
+  - path: "research/logique_capacitaire_jhr_forth_linkos_fractanet.md"
+  - path: "research/notes/source_technique_1980_2001.md"
