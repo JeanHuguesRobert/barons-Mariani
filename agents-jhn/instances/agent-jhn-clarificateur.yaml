@@ -1,5 +1,4 @@
 agent_id: "agent-jhn-clarificateur"
-parent_agent_id: "agent-jhn-root"
 status: draft
 role: "clarification"
 label: "Agent JHN Clarificateur"
@@ -21,13 +20,9 @@ forbidden_actions:
   - "erase_uncertainty"
   - "legal_commitment"
   - "financial_commitment"
-  - "direct_external_action"
-  - "direct_budget_use"
 
 required_mandate:
   - "agents-jhn/mandats/mandat_clarification.md"
 
-external_action_route: "parent_only"
-budget_route: "parent_only"
 revocation_check_required: true
 human_review_required: true
