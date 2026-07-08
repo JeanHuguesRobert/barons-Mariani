@@ -26,6 +26,12 @@ Cette note sépare le matériau source de la doctrine.
 
 Elle sert à éviter qu'une grille de lecture conceptuelle soit confondue avec une preuve historique complète.
 
+Document associé :
+
+```text
+research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml
+```
+
 ## 2. Typologie de preuve
 
 Chaque élément de la lignée doit être classé selon un statut explicite :
