@@ -55,7 +55,19 @@ Utiliser le modèle :
 template_revocation.yaml
 ```
 
-## 5. Règle pour les Agents JHN
+## 5. Priorité
+
+En cas de conflit entre un profil d'instance, un mandat et une révocation, la révocation prime.
+
+```text
+révocation
+> interdiction explicite
+> mandat
+> profil d'instance
+> préférence stylistique
+```
+
+## 6. Règle pour les Agents JHN
 
 Un Agent JHN doit vérifier ce registre avant d'exécuter un mandat.
 
