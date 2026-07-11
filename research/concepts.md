@@ -281,6 +281,47 @@ The governing political and systemic ideology focusing on alternative institutio
 
 **Reference documents:**
 - [`possibilism_04_2026.md`](possibilism_04_2026.md)
+- [`applied_possibilism.md`](applied_possibilism.md) (practice companion)
+
+---
+
+## Applied Possibilism
+
+**Type:** practice framework / exploration method
+**Scope:** Personal → Universal
+**Status:** Working
+
+**Short definition:**
+Practice-oriented companion to the theoretical Possibilism framework. Addresses the daily question: how do I live as a possibilist? Operative principle: joyful exploration of the possible, not grim optimization. Embodied in digital twins that handle chores while freeing mental space for exploration, COP protocol for stigmergic coordination, and the wager that systematic personal exploration generalizes to universal patterns.
+
+**Parent concepts:**
+- Possibilism (academic framework)
+- COP (stigmergic orchestration)
+- DHITL (democratic human-in-the-loop)
+
+**Child concepts:**
+- Digital twins as cognitive liberation
+- Attractor-based exploration
+- Stateless agents for scalable exploration
+- Joy as method (against grim optimization)
+
+**Related concepts:**
+- Musée Mariani des Possibles (muséological application)
+- Applied Possibilism in agile style
+- Continuations as resumable exploration
+
+**Reference documents:**
+- [`applied_possibilism.md`](applied_possibilism.md)
+- [`possibilism_04_2026.md`](possibilism_04_2026.md) (theoretical framework)
+- [`musee-mariani/doctrine_musee_mariani_des_possibles.md`](../musee-mariani/doctrine_musee_mariani_des_possibles.md) (muséological application)
+- [`agile.md`](agile.md) (agile style as exploration method)
+
+**Used in:**
+- Daily practice with digital twins
+- COP protocol design and implementation
+- Personal-to-universal generalization wager
+
+**Key distinction:** Where Possibilism asks "what is the structure of possibility spaces?", Applied Possibilism asks "how do I explore them joyfully?"
 
 ---
 

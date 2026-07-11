@@ -26,6 +26,7 @@ related_documents:
   - "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
   - "research/kudos.md"
   - "research/possibilism_04_2026.md"
+  - "research/applied_possibilism.md"
   - "research/potentics.md"
 ---
 

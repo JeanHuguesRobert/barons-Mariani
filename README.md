@@ -255,6 +255,26 @@ infrastructures de longue durée.
 
 ---
 
+### 🇬🇧 *Possibilism* — Notes Toward a Research Program on Possibility Exploration
+
+*Working paper — April 2026.*
+
+Research framework for modeling biological evolution, cultural emergence, technological creativity, and collective intelligence through a shared analogical lens: the open-ended exploration of adjacent possibility spaces. Core concepts: terrain configuration theory, the correctability thesis, and pathological attractors.
+
+→ [Academic paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/possibilism_04_2026.md) · [Practice companion](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/applied_possibilism.md)
+
+---
+
+### 🇬🇧 *Applied Possibilism* — The Joyful Exploration of the Possible
+
+*Practice note — July 2026.*
+
+Practice-oriented companion to Possibilism. Daily practice, digital twins, and stigmergic coordination. The operative principle: joyful exploration of the possible, not grim optimization. "If it works for me, it will work for others" — from personal digital twins to universal patterns.
+
+→ [Practice paper](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/applied_possibilism.md)
+
+---
+
 ### 🇬🇧 *Democratic AI Safety* — Why AI Safety must protect human sovereignty against AI-augmented legal persons
 
 *Working paper draft v0.5 — thèse politique de la couche AI Safety.*

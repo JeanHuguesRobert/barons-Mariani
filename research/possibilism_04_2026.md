@@ -221,7 +221,22 @@ What would show that Possibilism is false, or useless?
 
 ---
 
-## 9. Conclusion
+## 9. Practice Companion: Applied Possibilism
+
+This document develops the academic framework of Possibilism — the concepts, lineage, and research questions. A separate practice-oriented document, **Applied Possibilism: The Joyful Exploration of the Possible** (`applied_possibilism.md`), addresses the complementary question: *how do I live as a possibilist?*
+
+The practice companion covers:
+
+- **Daily practice:** Digital twins that handle chores while freeing mental space for exploration
+- **COP implementation:** Stigmergic coordination as technical method for possibility exploration
+- **Personal to universal:** The wager that what works for one systematically-thinking explorer generalizes
+- **Joy vs optimization:** Exploration as delight rather than grim efficiency
+
+Where this document asks *what is possibilism?*, the practice companion asks *how does a possibilist live?* Both are necessary — theory without practice remains abstract; practice without theory becomes unreflective habit.
+
+---
+
+## 10. Conclusion
 
 Possibilism is not a theory.
 
@@ -264,7 +279,10 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 ### Backlinks
 
 *These documents link to this file:*
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [Musée Mariani — préfiguration](../musee-mariani/README.md)
 - [possibilism 04 2026 - moved](../possibilism_04_2026.md)
 - [Research Index — barons-Mariani](index.md)
+- [Possibilism](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md)
 <!-- END_AUTO: backlinks -->

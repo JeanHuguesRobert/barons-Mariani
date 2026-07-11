@@ -926,6 +926,7 @@ Le cas corse devra être développé dans un article spécifique reliant :
 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
+- [Concept Index — barons-Mariani](concepts.md)
 - [Démocratie capable](democratie_capable.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)

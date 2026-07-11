@@ -80,6 +80,13 @@ musee-mariani/
 - [`intention.md`](intention.md) — intention générale du musée.
 - [`plan-museal.md`](plan-museal.md) — architecture provisoire des parcours.
 - [`doctrine_musee_mariani_des_possibles.md`](doctrine_musee_mariani_des_possibles.md) — **doctrine du Musée Mariani des Possibles** : couche doctrinale du sous-corpus muséal (muséologie capacitaire ; finalité du musée comme exploration des conditions du possible).
+
+## Lien avec le Possibilisme
+
+Le Musée Mariani des Possibles s'inscrit dans le cadre plus large du **Possibilisme** — programme de recherche sur l'exploration des espaces de possibles. Le musée en est l'application muséographique concrète :
+
+- [`../research/possibilism_04_2026.md`](../research/possibilism_04_2026.md) — cadre académique : configuration de terrain, thèse de la corrigibilité, attracteurs pathologiques
+- [`../research/applied_possibilism.md`](../research/applied_possibilism.md) — pratique quotidienne : jumeaux numériques, exploration stigmergique, joy against optimization
 - [`dossiers/louis-thomas-mariani-tahiti.md`](dossiers/louis-thomas-mariani-tahiti.md) — dossier prototype : Louis-Thomas Mariani, Tahiti et la mention fragile de « prince en Tahiti ».
 - [`notes-critiques/preuves-et-incertitudes.md`](notes-critiques/preuves-et-incertitudes.md) — grille de preuve et règles de prudence.
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
