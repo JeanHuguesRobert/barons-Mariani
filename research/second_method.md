@@ -600,6 +600,7 @@ René, merci. On continue.
 - [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
+- [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](se_demultiplier_pour_explorer_le_possible_blogpost.md)
 - [Reality Safety](reality_safety_procedural_stabilizers.md)
 - [Research Index — barons-Mariani](index.md)
 - [Agent-Resumable CLI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_resumable_cli.md)

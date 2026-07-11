@@ -85,6 +85,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Markets of Usage Transitions in Multi-Use Physical Assets](transition_markets.md) | this repo | 2026 |
 | [Terrain Configuration Theory for Democratic AI Infrastructure](terrain_configuration.md) | this repo | 2026 |
 | [Possibilism — Notes Toward a Research Program](possibilism_04_2026.md) | this repo | 2026-04 |
+| [Applied Possibilism — The Joyful Exploration of the Possible](applied_possibilism.md) | this repo | 2026-07 |
 | [Territoires possibilistes — Autonomie alimentaire, diversité épistémique et innovation durable (FR)](territoires_possibilistes.md) | this repo | 2026 |
 | [Le Musée uchronique comme dispositif d'inférence historique (FR)](uchronian_museum.md) | this repo | 2026 |
 | [Projet Minesteggio — Fondation Barons Mariani / Musée Uchronique « Napoléon 1821 » (FR)](projet_minesteggio.md) | this repo | 2026 |
@@ -223,3 +224,18 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: backlinks -->
+## Newly indexed working corpus (July 2026)
+
+- [Charte des Agents JHN](../agents-jhn/charte_agents_jhn.md)
+- Mandate templates: [archivage](../agents-jhn/mandats/mandat_archivage.md), [audit](../agents-jhn/mandats/mandat_audit.md), [clarification](../agents-jhn/mandats/mandat_clarification.md), [code](../agents-jhn/mandats/mandat_code.md), [publication](../agents-jhn/mandats/mandat_publication.md), and [veille](../agents-jhn/mandats/mandat_veille.md)
+- [Du baron Mariani singulier aux Agents JHN](baron_mariani_singulier_pluriel_agents_jhn.md)
+- [Concept Extension — Rational Odysseys and The Possible](concepts_rational_odysseys_extension.md)
+- [Démocratisation démocratique des réseaux sociaux](democratisation_democratique_reseaux_sociaux.md)
+- [Logique capacitaire — de Forth et LinkOS à FractaNet](logique_capacitaire_jhr_forth_linkos_fractanet.md)
+- [Never complain, never explain — accountability démocratique](never_complain_never_explain_accountability.md)
+- [Note-source technique 1980-2001](notes/source_technique_1980_2001.md)
+- [Pluralisation cognitive sous mandat](pluralisation_cognitive_sous_mandat.md)
+- [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
+- [Never complain, never explain — Facebook publication](publications/2026-07-06_never_complain_never_explain_accountability_facebook.md)
+- [Rational Odysseys into The Possible](rational_odysseys_the_possible.md)
+- [On n’est jamais si bien servi que par soi-même](se_demultiplier_pour_explorer_le_possible_blogpost.md)
