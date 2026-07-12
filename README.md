@@ -94,8 +94,17 @@ porté par sa famille depuis le baron
 [Antoine Dominique Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani),
 conseiller d'État et pair de France sous la monarchie de Juillet.
 
+Cette candidature n'est pas une prédiction de victoire. C'est une exploration
+possibiliste : mettre une proposition conséquente à l'épreuve du débat public,
+la rendre plus précise, plus compréhensible et plus réalisable. Sa valeur ne se
+réduit donc pas au résultat du scrutin.
+
 La plateforme de campagne **Plan 2038** — deux mandats de six ans — repose sur
-un argument central :
+une proposition centrale, **Sun & Inferences** : transformer le soleil corse en
+énergie gouvernée localement, cette énergie en capacité de calcul distribuée,
+et cette capacité en inférences utiles et en valeur partagée par les Corses.
+
+Son image directrice est :
 
 > *Le token IA est l'or du XXIe siècle. La Corse en sera le coffre-fort,
 > comme la Suisse le fut pour l'or.*
@@ -105,6 +114,10 @@ Ses axes principaux : souveraineté énergétique des communes de montagne
 universel de 500 €/mois financé par un Fonds Souverain Énergétique Corse
 (FSEC), et positionnement de la Corse comme nœud de compute méditerranéen
 via le projet [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum).
+
+L'élection donne à cette proposition une occasion démocratique, une échéance et
+un public ; elle ne fixe pas sa durée de vie. Le travail sur Sun & Inferences se
+poursuivra quel que soit le résultat électoral.
 
 | Année | Scrutin | Résultat |
 |---|---|---|
