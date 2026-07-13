@@ -3,6 +3,7 @@ title: "Forth → LinkOS → Star X25 → Sage/X → Odisei → FractaNet"
 type: conceptual_lineage
 status: draft
 date: "2026-07-08"
+last_modified_at: "2026-07-13"
 repository: "JeanHuguesRobert/barons-Mariani"
 priority_for_digital_twin: high
 visibility: public
@@ -39,6 +40,11 @@ nodes:
     period: "early_1980s"
     role: "langage extensible sur machine contrainte"
     function: "programmer l'environnement plutôt que le subir"
+    capacities:
+      - extensibility
+      - interactive_programming
+      - compact_runtime
+      - self_extension
     evidence:
       status: personal_memory
       confidence: medium
@@ -49,6 +55,11 @@ nodes:
     period: "mid_1980s"
     role: "redirection écran/clavier vers liaison série et Minitel"
     function: "découpler machine, interface et réseau"
+    capacities:
+      - io_redirection
+      - interface_virtualization
+      - serial_connectivity
+      - telematic_access
     evidence:
       status: personal_memory
       confidence: medium
@@ -59,6 +70,14 @@ nodes:
     period: "summer_1986_approx"
     role: "projet d'infrastructure télématique multi-session"
     function: "servir plusieurs sessions sur matériel spécialisé sobre"
+    people:
+      - Jean Hugues Noël Robert
+      - Jean Vincent
+    capacities:
+      - multi_session
+      - hardware_software_co_design
+      - constrained_server_architecture
+      - specialized_parallelism
     evidence:
       status: personal_memory
       confidence: medium
@@ -69,6 +88,12 @@ nodes:
     period: "mid_1980s"
     role: "noyau multitâche personnel"
     function: "orchestrer des tâches sur machine contrainte"
+    capacities:
+      - multitasking
+      - lightweight_kernel
+      - local_orchestration
+      - embedded_language
+      - task_cooperation
     evidence:
       status: repository_trace
       confidence: medium
@@ -79,6 +104,12 @@ nodes:
     period: "iut_first_year_approx"
     role: "appels système de type Unix, fork/exec selon souvenir, arrêt avant mémoire virtuelle"
     function: "transposer le modèle processus Unix sur matériel contraint"
+    capacities:
+      - process_model
+      - system_calls
+      - fork_exec
+      - unix_like_architecture
+      - kernel_user_separation
     evidence:
       status: personal_memory
       confidence: medium
@@ -89,6 +120,15 @@ nodes:
     period: "perform_period"
     role: "passerelle programmable X.25, authentification forte, call deflection"
     function: "contrôler l'accès puis router sous condition"
+    people:
+      - Jean Vincent
+      - Jean Hugues Noël Robert
+    capacities:
+      - x25_call_deflection
+      - authentication_gateway
+      - embedded_programming_language
+      - controlled_access_delegation
+      - programmable_routing
     evidence:
       status: to_verify
       confidence: medium
@@ -99,6 +139,12 @@ nodes:
     period: "perform_period"
     role: "supervision programmable d'équipements hétérogènes"
     function: "agir sur des systèmes disparates par émulation et langage"
+    capacities:
+      - network_supervision
+      - heterogeneous_equipment_control
+      - scripted_operator_emulation
+      - alarms_and_events
+      - legacy_interface_mediation
     evidence:
       status: public_trace
       confidence: high
@@ -109,6 +155,12 @@ nodes:
     period: "late_1990s"
     role: "transition SNMP/IP/Java/Web"
     function: "adapter la supervision à l'Internet et à la qualité de service"
+    capacities:
+      - snmp
+      - java_client_server
+      - network_performance_dashboard
+      - web_transition
+      - operational_visualization
     evidence:
       status: public_trace
       confidence: high
@@ -119,6 +171,16 @@ nodes:
     period: "1998_2001"
     role: "téléphonie IP logicielle, services distribués"
     function: "transformer l'appel en service programmable"
+    people:
+      - Jean Hugues Noël Robert
+      - Frédéric Artru
+    capacities:
+      - voip
+      - ip_pbx
+      - service_routing
+      - autodiscovery
+      - distributed_services
+      - software_defined_call_control
     evidence:
       status: public_trace
       confidence: high
@@ -129,6 +191,11 @@ nodes:
     period: "current"
     role: "descendant contemporain de LinkOS"
     function: "réactiver la logique du noyau léger et programmable"
+    capacities:
+      - lightweight_runtime
+      - agent_runtime_candidate
+      - lineage_continuation
+      - constrained_execution
     evidence:
       status: repository_trace
       confidence: medium
@@ -139,6 +206,13 @@ nodes:
     period: "current_future"
     role: "généralisation territoriale de la logique capacitaire"
     function: "transformer énergie, compute, agents et corpus en capacité collective vérifiable"
+    capacities:
+      - territorial_orchestration
+      - energy_compute_cognition_civic_stack
+      - local_capacity_infrastructure
+      - auditable_delegation
+      - mandate_based_execution
+      - distributed_governance
     evidence:
       status: repository_trace
       confidence: high
@@ -189,6 +263,15 @@ edges:
     to: fractanet
     relation: "runtime léger vers agents et nœuds distribués"
 
+system_analogy:
+  process: agents
+  machines: local_resources
+  scheduler: energy_compute_civic_orchestration
+  system_calls: explicit_mandates
+  logs: governed_traceability
+  fork_exec: controlled_agent_instantiation
+  permissions: capabilities_prohibitions_revocations
+
 agent_guidance:
   for_agents_jhn:
     priority: high
@@ -198,8 +281,8 @@ agent_guidance:
       entre langage, noyau, protocole, mandat, supervision et transmission.
   caution: >
     Ne pas présenter cette carte comme une preuve historique complète.
-    Distinguer les traces publiques, les souvenirs personnels et les
-    interprétations doctrinales.
+    Distinguer les traces publiques, les souvenirs personnels, les
+    interprétations doctrinales et les propositions.
 
 related_documents:
   - path: "agents-jhn/README.md"
@@ -216,3 +299,14 @@ related_documents:
   - path: "research/baron_mariani_singulier_pluriel_agents_jhn.md"
   - path: "research/logique_capacitaire_jhr_forth_linkos_fractanet.md"
   - path: "research/notes/source_technique_1980_2001.md"
+
+open_questions:
+  - "Documenter les sources exactes sur Star X25 / StarWall."
+  - "Localiser ou reconstituer les traces de LinkOS."
+  - "Vérifier la réalité et l'état du couple fork/exec dans LinkOS sur 80286."
+  - "Relier l8 à LinkOS dans le dépôt technique approprié."
+  - "Documenter le rôle et les traces d'Emul."
+  - "Stabiliser la chronologie Perform / Sage-X / DashBoard / Odisei."
+  - "Préciser le rôle de Jean Vincent, Frédéric Artru et des autres personnes citées."
+  - "Créer un graphe inter-dépôts entre barons-Mariani, cogentia, FractaVolta, marenostrum, Inox et inseme."
+  - "Distinguer les éléments publiables, privés et soumis à l'accord de tiers."
