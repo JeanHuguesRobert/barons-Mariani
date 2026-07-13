@@ -3,8 +3,8 @@ title: "École Mariani de l’Autonomie"
 subtitle: "Former des coachs d’autonomie augmentée par IA"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.2"
-date: "2026-06-20"
+version: "0.3"
+date: "2026-07-13"
 repository: "barons-Mariani"
 path: "research/ecole_mariani_autonomie.md"
 type: "source_note"
@@ -13,9 +13,14 @@ tags:
   - École Mariani de l’Autonomie
   - Mariani School of Autonomy
   - autonomie de capacité
+  - autonomie cognitive
+  - autonomie agentique
   - IA
   - coaching
   - pédagogie
+  - KYS
+  - Cogentigram
+  - Cogentia
   - énergie
   - logement
   - homéostasie de l’habitat
@@ -30,12 +35,16 @@ corpus_hierarchy:
   derived_from:
     - "conversation ChatGPT du 2026-06-17 sur chauffe-eau gaz, autonomie énergétique et coaching assisté par IA"
     - "conversation ChatGPT du 2026-06-20 sur l’homéostasie de l’habitat"
+    - "conversation ChatGPT du 2026-07-13 sur KYS, Cogentigram et autonomie cognitive"
     - "research/serenia_autonomie_assistee_ia.md"
     - "research/noyau_doctrinal_rendre_capable.md"
+    - "JeanHuguesRobert/cogentia: research/Cogentia-and-Cogentigram.md"
+    - "JeanHuguesRobert/cogentia: research/cogentia_workflows.md"
   may_generate:
     - "fiche courte de présentation de l’École Mariani de l’Autonomie"
     - "programme pédagogique modulaire"
     - "fiche formation coach d’autonomie"
+    - "module KYS d’autonomie cognitive et agentique"
     - "note institutionnelle pour partenaires publics ou associatifs"
     - "article Substack grand public"
     - "page de présentation en anglais : Mariani School of Autonomy"
@@ -49,10 +58,14 @@ related_documents:
   - "research/democratie_capable.md"
   - "research/kudos.md"
   - "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia-and-Cogentigram.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md"
 related_projects:
   - "C.O.R.S.I.C.A."
   - "Institut Mariani"
   - "Serenia"
+  - "KYS"
   - "Cogentia"
   - "FractaVolta"
   - "Fractanet"
@@ -208,6 +221,39 @@ La formule à retenir est :
 > IA = suggestion, éclairage, simulation, reformulation, diagnostic assisté et documentation. Décision = personne informée, accompagnée, responsable.
 
 Le coach d’autonomie apprend donc à la personne à bien utiliser l’IA : poser le bon problème, fournir le contexte utile, vérifier la réponse, demander des alternatives, distinguer les faits des hypothèses, garder les preuves et reprendre la main.
+
+### 4.1 KYS, Cogentigram et autonomie cognitive
+
+The Mariani School of Autonomy ne traite pas seulement des dépendances matérielles, administratives ou énergétiques. Elle traite également d’une dépendance nouvelle : la relation croissante entre une personne et les agents d’intelligence artificielle qu’elle utilise.
+
+Un agent conversationnel fréquemment utilisé apprend progressivement à reconnaître des préférences, des habitudes, des manières de raisonner, des priorités et des récurrences. Cette connaissance peut augmenter fortement la capacité de la personne. Elle peut aussi devenir une source d’opacité, de dépendance, de conformisme ou de dépossession lorsque l’usager ne sait pas ce que l’agent croit savoir de lui, ne peut pas le contester ou ne peut pas transporter ce contexte vers un autre système.
+
+Le dispositif KYS — Know Your Self — propose de rendre cette relation visible. L’usager demande à son agent habituel de produire une représentation explicite et structurée de ce qu’il estime avoir appris à son sujet. Cette représentation n’est ni un diagnostic, ni une vérité psychométrique, ni la personne elle-même. Elle constitue un instantané situé, incertain et contestable du modèle que l’agent est capable de formuler.
+
+Le travail pédagogique commence après la production de cet instantané. La personne apprend à distinguer ce qui relève d’un fait explicitement communiqué, d’une inférence comportementale, d’une hypothèse faible ou d’un inconnu. Elle peut accepter, corriger, nuancer, rejeter, masquer, versionner ou supprimer chaque élément. Elle apprend également à définir ce qu’elle souhaite déléguer, ce qu’elle doit continuer à exercer elle-même et ce qui ne doit pas être mémorisé.
+
+KYS constitue ainsi un premier cas-école d’autonomie cognitive et agentique. Il applique à l’IA le schéma pédagogique général de l’École :
+
+```text
+l’agent propose une représentation
+→ la personne l’examine
+→ elle distingue faits, hypothèses et erreurs
+→ elle corrige et formule ses propres règles
+→ elle produit un contexte portable
+→ elle apprend à comparer plusieurs agents
+→ elle conserve la décision et la maîtrise des traces
+→ elle peut transmettre la méthode
+```
+
+Cogentia fournit l’infrastructure nécessaire à cette démarche : prompts versionnés, passages entre agents, continuations, traces validées, exportations et corpus personnel. KYS en constitue une porte d’entrée accessible. Le futur jumeau numérique souverain représente une continuation possible, mais jamais automatique ni présumée.
+
+Dans The Mariani School of Autonomy, KYS peut servir à la fois d’exercice introductif pour les participants et d’outil de formation pour les coachs d’autonomie. Le coach n’interprète pas la personne à partir de son profil. Il l’aide à lire de manière critique la représentation produite par l’agent, à détecter les inférences abusives, à formuler ses corrections, à protéger ses informations et à reprendre le contrôle de la relation.
+
+Le critère d’évaluation n’est donc pas la précision supposée du portrait. Il est le gain de capacité obtenu par l’usager : mieux questionner, mieux contextualiser, mieux vérifier, mieux contester, mieux déléguer, mieux protéger, mieux transporter et mieux reprendre la main.
+
+KYS matérialise ainsi une thèse centrale de The Mariani School of Autonomy :
+
+> Une personne n’est pas autonome face à l’intelligence artificielle parce qu’elle peut l’utiliser. Elle devient autonome lorsqu’elle peut comprendre, gouverner, contester, quitter et transmettre la relation qu’elle construit avec elle.
 
 ---
 
@@ -395,9 +441,11 @@ Formule synthétique :
 
 L’École Mariani de l’Autonomie peut être structurée en parcours modulaires.
 
-### Module 1 — Apprendre à apprendre avec l’IA
+### Module 1 — Apprendre à apprendre et à agir avec l’IA
 
-Objectif : donner à la personne les bases pour utiliser l’IA comme outil d’augmentation de capacité.
+Objectif : donner à la personne les bases pour utiliser l’IA comme outil d’augmentation de capacité sans lui abandonner son jugement.
+
+Contenus : KYS et Cogentigram d’entrée, inspection de ce que l’agent croit savoir, distinction entre faits, inférences, hypothèses et inconnus, formulation du contexte utile, prudence dans les révélations, correction de la mémoire, vérification, comparaison entre agents, définition des limites de délégation, export d’un contexte portable et reprise en main.
 
 ### Module 2 — Administration, droits, preuves
 
@@ -429,7 +477,7 @@ Objectif : passer de personnes capables à des collectifs capables.
 
 ### Module 8 — Formation des coachs d’autonomie
 
-Objectif : former les personnes capables d’accompagner les autres : pédagogie, posture non directive, usage prudent de l’IA, diagnostic situé, documentation, limites de compétence, sécurité réelle, distinction entre accompagnement et substitution, transmission.
+Objectif : former les personnes capables d’accompagner les autres : pédagogie, posture non directive, usage prudent de l’IA, lecture critique des représentations agentiques, diagnostic situé, documentation, limites de compétence, sécurité réelle, distinction entre accompagnement et substitution, transmission.
 
 ---
 
@@ -454,6 +502,8 @@ Le coach doit savoir dire :
 - voici ce que vous pourrez transmettre.
 
 Cette posture rejoint l’esprit de Serenia : ne pas faire à la place quand la personne peut apprendre ; reformuler sans confisquer ; renforcer la capacité plutôt que créer une dépendance.
+
+Appliquée à KYS, elle impose une limite supplémentaire : le coach n’interprète pas psychologiquement la personne et ne transforme pas le Cogentigram en diagnostic. Il aide l’usager à examiner, contester, corriger et gouverner la représentation produite par son agent.
 
 ---
 
@@ -511,11 +561,13 @@ Ce document source peut produire plusieurs produits déclinés :
 4. un programme pédagogique détaillé ;
 5. une fiche “devenir coach d’autonomie” ;
 6. un module inaugural “eau chaude autonome” ;
-7. une version anglaise ;
-8. une note pour C.O.R.S.I.C.A. et l’Institut Mariani ;
-9. une présentation à France Travail, France Services, collectivités ou partenaires associatifs ;
-10. une grille d’évaluation des gains de capacité ;
-11. une fiche “habitat homéostatique”.
+7. un module d’entrée “KYS — autonomie cognitive et agentique” ;
+8. une version anglaise ;
+9. une note pour C.O.R.S.I.C.A. et l’Institut Mariani ;
+10. une présentation à France Travail, France Services, collectivités ou partenaires associatifs ;
+11. une grille d’évaluation des gains de capacité ;
+12. une grille d’autonomie agentique ;
+13. une fiche “habitat homéostatique”.
 
 ---
 
@@ -541,9 +593,11 @@ Produire trois fiches séparées, car les capacités réelles d’action ne sont
 
 Décliner `research/homeostasie_habitat.md` en fiche pédagogique : fonctions essentielles, modes dégradés, capteurs, actionneurs, diagnostic assisté par IA.
 
-### 14.6 IA et corpus personnel
+### 14.6 KYS, Cogentia et corpus personnel
 
-Relier l’École Mariani de l’Autonomie à Cogentia : comment une personne construit progressivement son corpus personnel, ses traces, ses décisions, ses apprentissages et ses continuations.
+Prolonger le lien désormais explicite entre l’École Mariani de l’Autonomie et Cogentia : préciser comment une personne construit progressivement son corpus personnel, ses traces validées, ses décisions, ses apprentissages, ses continuations et, si elle le souhaite, les prémices d’un jumeau numérique souverain.
+
+Définir le MVP d’entrée KYS comme un produit pédagogique autonome : simple, ludique, non clinique, utilisable sans compte, centré sur la lecture critique de ce que l’agent croit savoir et sur le gain réel de capacité de l’usager.
 
 ### 14.7 Modèle économique
 
@@ -563,7 +617,7 @@ L’École Mariani de l’Autonomie doit donc assumer sa nature profonde :
 
 > une école de l’autonomie de capacité appliquée à la vie concrète.
 
-Elle commence par des cas modestes : un cumulus, une facture, un courrier, une panne, un abonnement, un trajet, une dépense, une pièce à réparer.
+Elle commence par des cas modestes : un cumulus, une facture, un courrier, une panne, un abonnement, un trajet, une dépense, une pièce à réparer — ou la simple question : « Que croit savoir de moi l’agent que j’utilise chaque jour ? »
 
 Mais chaque cas modeste peut devenir un terrain fécond.
 
