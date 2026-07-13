@@ -1,6 +1,6 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/AGENTS.md
-last_stamped_at: 2026-07-12
+last_stamped_at: 2026-07-13
 document_role: "operational"
 document_kind: "agent-mandate"
 visibility: "public"
@@ -16,6 +16,17 @@ classification_confidence: "strong"
 This file gives operational instructions to AI agents and human assistants working in the `JeanHuguesRobert/barons-Mariani` repository.
 
 It is not the full doctrine. It is a compact mandate for acting inside this repository without damaging the corpus.
+
+## Shared baseline and read order
+
+Before acting here:
+
+1. read this repository-local `AGENTS.md`;
+2. read the shared [`cogentia/AGENTS.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/AGENTS.md);
+3. apply this local mandate wherever it is more specific or more restrictive;
+4. consult the linked source doctrine when interpretation is needed.
+
+The shared baseline supplies the default workflow. This high-authority corpus mandate narrows it where doctrine, legal or political positions, patrimony, or sensitive material are involved.
 
 ## Repository role
 
@@ -63,6 +74,7 @@ Human authorization governs stabilization.
 
 References:
 
+- [`cogentia/AGENTS.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/AGENTS.md)
 - [`cogentia/research/agent_configuration_layer.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_configuration_layer.md)
 - [`cogentia/research/optimistic_mainline_governance.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md)
 
@@ -71,6 +83,8 @@ References:
 This repository follows **Optimistic Mainline Governance** by reference, not by copying the doctrine here.
 
 Small direct commits to `main` are acceptable only when explicitly authorized, scoped, reversible, inspectable by diff, and reported after completion.
+
+Do not create a branch or PR by default. Use one only when explicit instruction, collaboration, repository protection, high risk, or genuine isolation value justifies it.
 
 Because this is a high-authority corpus repository, direct-main work must remain more conservative than in implementation repositories. Use an issue, checkpoint, branch, PR, staged patch or human validation when a change touches doctrine, legal/political position, sensitive material, accusations, institutional commitments, or several documents at once.
 
