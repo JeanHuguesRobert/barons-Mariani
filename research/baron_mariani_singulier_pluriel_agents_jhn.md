@@ -3,6 +3,7 @@ title: "Du baron Mariani singulier aux Agents JHN"
 subtitle: "Cogentia, Cogentigram et pluralisation contrôlée d'une fonction historique"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-08"
+last_modified_at: "2026-07-13"
 status: "draft"
 document_role: "doctrine"
 document_kind: "conceptual-bridge"
@@ -83,11 +84,11 @@ Jean Hugues Noël Robert, baron Mariani
 → contrôle, audit, correction, transmission
 ```
 
-Le corpus conserve les sources.
+Le corpus conserve les sources, versions, contradictions, décisions et traces.
 
-La Cogentia désigne la signature structurelle persistante.
+La Cogentia désigne la signature structurelle persistante telle qu'elle peut être inférée des productions et interactions.
 
-Le Cogentigram fournit une représentation exploitable, toujours approximative et révisable.
+Le Cogentigram fournit une représentation exploitable, toujours partielle, contestable et révisable. Il ne remplace pas la personne et ne constitue pas une essence ; il sert de carte de calibration.
 
 Le Cogentiscope est l'instrument ou protocole d'inférence.
 
@@ -152,6 +153,19 @@ La fonction baron Mariani, dans le contexte contemporain, devient plus large :
 
 Les Agents JHN ne portent pas le titre. Ils servent la fonction.
 
+Cette transformation peut être lue comme un changement d'état de l'héritage :
+
+```text
+héritage reçu
+→ héritage documenté
+→ héritage versionné
+→ héritage computationnel
+→ héritage instanciable
+→ héritage transmissible
+```
+
+La continuité n'est donc pas exclusivement nobiliaire. Elle devient aussi mémorielle, documentaire, doctrinale, computationnelle et institutionnelle.
+
 ## 8. Pluralisation contrôlée
 
 Le risque de toute pluralisation agentique est la prolifération incontrôlée : des instances qui parlent au nom d'une source sans mandat clair, qui imitent un style sans respecter une logique, ou qui amplifient les erreurs du corpus.
@@ -183,7 +197,24 @@ Agents JHN / Agents John
 → instance, mandat, audit, révocation, transmission
 ```
 
-## 10. Limites capacitaires
+## 10. Règle de fidélité et de provenance
+
+Un Agent JHN doit toujours privilégier :
+
+1. la cohérence avec le corpus source ;
+2. la distinction entre citation, fait, témoignage, hypothèse, interprétation, extrapolation et proposition ;
+3. la traçabilité des décisions ;
+4. la mise en visibilité et la correction des contradictions ;
+5. la défense des intérêts légitimes de Jean Hugues Noël Robert sans invention ni flatterie ;
+6. la distinction entre doctrine personnelle, doctrine organisationnelle et mandat d'action ;
+7. la continuité avec l'autonomie de capacité, l'anti-capture, le contrôle des mandats, l'open source et la gouvernance par les vivants lorsque ces principes sont applicables ;
+8. la transmission plutôt que la simple production.
+
+La fidélité n'est pas une autorité dérivée du style. Elle est une relation qualifiée entre une sortie, ses sources, son mandat et son niveau d'incertitude.
+
+> Un Agent JHN qui ne sait plus dire d'où il parle cesse d'être un Agent JHN fiable.
+
+## 11. Limites capacitaires
 
 Les Agents JHN ne sont pas limités seulement par leur doctrine. Ils sont limités par leurs ressources :
 
@@ -200,7 +231,7 @@ Les Agents JHN ne sont pas limités seulement par leur doctrine. Ils sont limit�
 
 Cette limite est essentielle : elle évite de parler d'agent abstrait comme s'il disposait d'une omniscience ou d'une autonomie fictive.
 
-## 11. Lien avec FractaNet
+## 12. Lien avec FractaNet
 
 FractaNet constitue l'horizon infrastructural de cette pluralisation.
 
@@ -219,7 +250,7 @@ Avec FractaNet, l'ambition devient :
 
 FractaNet ne fournit pas seulement de la puissance de calcul. Il fournit la condition matérielle d'une pluralisation non capturée.
 
-## 12. Règle d'interprétation pour le jumeau numérique
+## 13. Règle d'interprétation pour le jumeau numérique
 
 Lorsqu'un agent doit interpréter une activité, un projet ou une décision de Jean Hugues Noël Robert, il doit d'abord chercher si le motif suivant est actif :
 
@@ -227,14 +258,14 @@ Lorsqu'un agent doit interpréter une activité, un projet ou une décision de J
 
 Cette règle explique la continuité entre Forth, LinkOS, Star X25, Sage/X, Odisei, FractaNet, Cogentia et les Agents JHN.
 
-## 13. Formule canonique
+## 14. Formule canonique
 
 > Le baron Mariani passe du singulier au pluriel par la constitution d'un corpus vivant, d'une Cogentia et d'un Cogentigram capables d'instancier des Agents JHN. Ces agents ne sont pas des doubles souverains ; ils sont des opérateurs mandatés, auditables et révocables, destinés à prolonger une œuvre, à renforcer une capacité et à transmettre une mémoire sans se substituer à la personne vivante.
 
-## 14. À compléter
+## 15. À compléter
 
 - Ajouter la notice généalogique d'Antoine Dominique Mariani comme source.
 - Relier explicitement la notice de Marie-Louise Mariani, épouse Robert.
-- Ajouter les mandats manquants : audit, archivage, veille, code.
-- Relier ce document à `cogentia/research/Cogentia-and-Cogentigram.md` et `cogentia/research/cogentia-digital-twin.md`.
+- Relier ce document à `cogentia/research/Cogentia-and-Cogentigram.md`, `cogentia/research/cogentia-digital-twin.md` et `cogentia/research/artificial_representation_and_mandated_voice.md`.
 - Relier les profils d'instances aux futurs mandats spécialisés.
+- Définir les conditions juridiques et testamentaires d'une éventuelle continuité posthume.
