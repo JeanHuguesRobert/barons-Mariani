@@ -3,7 +3,7 @@ title: "Research Index — barons-Mariani"
 description: "A map of what is, what is in progress, and what could be."
 layout: default
 nav_order: 1
-last_modified_at: 2026-06-18
+last_modified_at: 2026-07-14
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-06-15
@@ -86,6 +86,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Terrain Configuration Theory for Democratic AI Infrastructure](terrain_configuration.md) | this repo | 2026 |
 | [Possibilism — Notes Toward a Research Program](possibilism_04_2026.md) | this repo | 2026-04 |
 | [Applied Possibilism — The Joyful Exploration of the Possible](applied_possibilism.md) | this repo | 2026-07 |
+| [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md) *(published source v0.3 — fondation réaliste et faillibiliste du Possibilisme ; distinction Réel/Virtuel/Actuel, Almost Real, stabilisation procédurale et pluralisation cognitive sous mandat)* | this repo | 2026-07-14 |
 | [Territoires possibilistes — Autonomie alimentaire, diversité épistémique et innovation durable (FR)](territoires_possibilistes.md) | this repo | 2026 |
 | [Le Musée uchronique comme dispositif d'inférence historique (FR)](uchronian_museum.md) | this repo | 2026 |
 | [Projet Minesteggio — Fondation Barons Mariani / Musée Uchronique « Napoléon 1821 » (FR)](projet_minesteggio.md) | this repo | 2026 |
