@@ -3,7 +3,7 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/muse
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-26
+last_stamped_at: 2026-07-08
 title: "Musée Mariani — préfiguration"
 date: "2026-06-26"
 status: "draft"
@@ -62,6 +62,7 @@ musee-mariani/
     indice_capacite_retrouvee.md
     grille_remise_en_service.md
     articulation_musee_uchronique.md
+    exploration_rationnelle_des_possibles.md
   juridique/
     demander_au_juge.md
     autorisations_ateliers_sous_traites.md
@@ -102,6 +103,7 @@ La doctrine est accompagnée d'une première série de documents opérationnels 
 - [`methodes/indice_capacite_retrouvee.md`](methodes/indice_capacite_retrouvee.md) — mesure de ce qu'un atelier rend possible.
 - [`methodes/grille_remise_en_service.md`](methodes/grille_remise_en_service.md) — diagnostic du composant d'accès manquant.
 - [`methodes/articulation_musee_uchronique.md`](methodes/articulation_musee_uchronique.md) — articulation avec le Musée uchronique.
+- [`methodes/exploration_rationnelle_des_possibles.md`](methodes/exploration_rationnelle_des_possibles.md) — méthode générale : explorer les possibles pour éviter que le présent ne devienne une uchronie future.
 
 **Juridique**
 
@@ -125,6 +127,8 @@ Le document source actuellement le plus avancé reste :
 - [`research/uchronian_museum.md`](../research/uchronian_museum.md) — *Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires*.
 
 Le présent sous-corpus ne remplace pas ce document. Il en prépare la déclinaison muséale concrète : cartels, dossiers, parcours, collections, vérifications et médiation publique.
+
+Le document [`methodes/exploration_rationnelle_des_possibles.md`](methodes/exploration_rationnelle_des_possibles.md) précise le pont méthodologique : l'uchronie n'est pas seulement une fiction du passé, mais une méthode de vigilance permettant d'éviter que les possibles du présent ne deviennent les regrets d'une uchronie future.
 
 ## Règle d'Occam
 
