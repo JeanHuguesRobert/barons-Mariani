@@ -1,9 +1,10 @@
 ---
 title: "Note synthétique pour examen parlementaire"
-subtitle: "Autonomie de capacité de la Corse — proposition de finalité constitutionnelle"
-status: working-paper — operational_note_v0.1
+subtitle: "Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique"
+status: working-paper — operational_note_v0.2
 language: fr
 created: 2026-05-24
+updated: 2026-07-16
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 function: parliamentary_working_note
 target_scene: parliamentary_staff_review
@@ -25,10 +26,22 @@ related_documents:
     path: "research/chronologie_processus_beauvau_corse.md"
     url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
     markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
+
+  - title: "Mise à jour du processus de Beauvau — phase post-Assemblée nationale"
+    role: "addendum postérieur au vote du 23 juin 2026"
+    path: "research/autonomia/mise_a_jour_processus_beauvau_2026-07.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mise_a_jour_processus_beauvau_2026-07.md"
+    markdown: "[Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)"
+
+  - title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
+    role: "registre de suivi de la constitution pratique de l’autonomie"
+    path: "research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
+    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
+    markdown: "[Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-07-16
 date: "2026-05-24"
 document_role: "source"
 document_kind: "research-paper"
@@ -42,19 +55,35 @@ classification_confidence: "medium"
 
 # Note synthétique pour examen parlementaire
 
-## Autonomie de capacité de la Corse — proposition de finalité constitutionnelle
+## Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique
 
 ### Objet
 
-Cette note propose une formulation permettant de préciser la finalité concrète du futur article 72-5 de la Constitution relatif à la Corse.
+Cette note proposait initialement une formulation permettant de préciser la finalité concrète du futur article 72-5 de la Constitution relatif à la Corse.
 
 Elle ne se substitue pas au texte gouvernemental. Elle vise à l’améliorer en ajoutant une finalité opérationnelle : faire de l’autonomie corse non seulement une capacité d’adaptation normative, mais une capacité effective de réponse aux déséquilibres spécifiques du territoire.
+
+### Mise à jour du 16 juillet 2026
+
+Depuis le vote de l’Assemblée nationale du 23 juin 2026 et la transmission du texte au Sénat le 24 juin 2026, cette note doit aussi servir de pont vers la future loi organique.
+
+Le texte constitutionnel adopté en première lecture ouvre des possibilités, mais il renvoie l’essentiel aux conditions, réserves, contrôles et évaluations qui seront définis par la loi organique.
+
+La question n’est donc plus seulement :
+
+> comment inscrire l’autonomie de capacité dans l’article 72-5 ?
+
+Elle devient aussi :
+
+> comment faire de la loi organique un instrument de capacité réelle, de transparence et de contrôle citoyen ?
 
 ### Documents associés
 
 - [Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)
 - [Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)
 - [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)
+- [Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)
+- [Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)
 
 ---
 
@@ -74,6 +103,10 @@ Elle est aussi :
 
 > à quelles finalités concrètes ces compétences devront-elles répondre ?
 
+Depuis le vote de l’Assemblée nationale du 23 juin 2026, une deuxième question devient centrale :
+
+> quels mécanismes garantiront que les pouvoirs nouveaux seront visibles, vérifiables, évaluables et contrôlables par les citoyens ?
+
 ---
 
 ## 2. Proposition
@@ -91,6 +124,8 @@ maîtrise des effets de l’attractivité territoriale
 ```
 
 Cette formulation vise à relier directement l’autonomie aux problèmes concrets que le territoire doit pouvoir traiter.
+
+Après le vote de l’Assemblée nationale, cette proposition doit être prolongée par une exigence organique : chaque compétence, adaptation ou habilitation devrait être accompagnée d’un dispositif de traçabilité, d’évaluation et de contrôle citoyen.
 
 ---
 
@@ -176,44 +211,57 @@ L’objectif n’est pas de préserver une formulation d’origine, mais de gara
 
 ---
 
-## 8. Exposé sommaire possible pour amendement
+## 8. Prolongement organique : transparence, contrôle démocratique et évaluation
 
-Cet amendement vise à préciser la finalité du régime d’autonomie reconnu à la Corse.
+À partir de la phase ouverte par le vote du 23 juin 2026, l’autonomie de capacité ne peut plus être seulement une proposition constitutionnelle. Elle doit devenir une doctrine de loi organique.
 
-L’autonomie ne doit pas seulement permettre l’adaptation ou la fixation de normes. Elle doit être orientée vers la réponse aux déséquilibres spécifiques qui affectent le territoire, notamment l’habitation permanente, la transmission culturelle et linguistique, la protection des ressources, la gestion des usages du sol, la transition énergétique locale, la maîtrise publique des données territoriales utiles aux compétences de la Collectivité de Corse et la maîtrise des effets de l’attractivité territoriale.
+Toute habilitation normative ou adaptation prise au titre du futur statut devrait être :
 
-Cette précision permet d’inscrire l’autonomie dans une logique d’égalité réelle, tout en maintenant son encadrement par la Constitution, la loi organique, les droits et libertés garantis, les engagements européens et internationaux de la France, le Parlement et le juge compétent.
+```text
+inscrite dans un registre public
+datée
+motivée
+sourcée
+versionnée
+évaluable
+contrôlable
+corrigeable
+```
+
+Le contrôle ne doit pas être seulement juridictionnel ou étatique. Il doit aussi être citoyen, documentaire, ouvert et outillable.
+
+### Exigences minimales
+
+La loi organique devrait prévoir :
+
+```text
+registre public des demandes d’habilitation
+publication des réponses, refus et motifs
+publication des avis utiles
+versions consolidées et historisées des normes corses
+études d’impact publiques avant adoption
+traçabilité des bénéficiaires directs et indirects
+droit de saisine citoyenne ou associative
+évaluation indépendante périodique
+clauses de réexamen ou d’extinction
+publication des conflits d’intérêts
+open data exploitable automatiquement
+```
 
 ---
 
-## 9. Formulation ultra-courte
+## 9. Formule de synthèse après le vote de l’Assemblée nationale
 
-> Pour que l’autonomie de la Corse ne soit pas seulement institutionnelle, mais effective, l’article 72-5 doit préciser qu’elle a pour finalité de répondre aux déséquilibres spécifiques qui affectent l’habitation permanente, la transmission, les ressources, les usages du sol, la transition énergétique locale, les données territoriales utiles à l’action publique et les effets de l’attractivité.
+> Le texte constitutionnel crée une promesse d’autonomie. La loi organique dira si cette promesse devient capacité, procédure ou verrou.
+
+> Plus de pouvoir sans plus de contrôle : autonomie d’appareil, non autonomie populaire.
+
+> La loi organique sera la constitution pratique de l’autonomie corse. Sa préparation doit donc être publique, versionnée et contrôlable.
 
 ---
 
-## 10. Sources principales
+## 10. Exposé sommaire possible pour amendement
 
-- Projet de loi constitutionnelle n° 2697 pour une Corse autonome au sein de la République, Assemblée nationale, 27 avril 2026 :  
-  https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique
+L’autonomie de la Corse ne doit pas être conçue comme une simple faculté procédurale d’adaptation normative. Elle doit être orientée vers des finalités concrètes, liées aux déséquilibres spécifiques du territoire : habitation permanente, transmission linguistique et culturelle, protection des ressources, usages du sol, transition énergétique locale, données territoriales et maîtrise des effets de l’attractivité.
 
-- Texte intégral du projet de loi constitutionnelle n° 2697 :  
-  https://www.assemblee-nationale.fr/dyn/17/textes/l17b2697_projet-loi.pdf
-
-- Texte initialement déposé au Sénat, n° 869, session 2024-2025 :  
-  https://www.senat.fr/leg/pjl24-869.html
-
-- Avis du Conseil d’État relatif au projet de loi constitutionnelle pour une Corse autonome au sein de la République :  
-  https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-au-projet-de-loi-constitutionnelle-pour-une-corse-autonome-au-sein-de-la-republique
-
-- Article 89 de la Constitution :  
-  https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240655
-<!-- BEGIN_AUTO: backlinks -->
-### Backlinks
-
-*These documents link to this file:*
-- [Chronologie documentaire du processus de Beauvau](chronologie_processus_beauvau_corse.md)
-- [Courrier public aux six parlementaires de Corse](courrier_public_six_parlementaires_corse.md)
-- [Proposition constitutionnelle — autonomie de capacité de la Corse](proposition_constitutionnelle_autonomie_capacite_corse.md)
-- [Research Index — barons-Mariani](index.md)
-<!-- END_AUTO: backlinks -->
+Le renvoi à la loi organique doit permettre de transformer cette finalité en capacité effective, tout en prévoyant des garanties robustes : registre public des habilitations, publication des motifs, évaluation, traçabilité des effets, droit de saisine et contrôle citoyen. Une autonomie sans contrôle démocratique proportionné risquerait de renforcer les appareils sans augmenter la capacité réelle des Corses.
