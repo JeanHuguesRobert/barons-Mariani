@@ -77,6 +77,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Protocole minimal de revue ciblée](review_protocol.md) *(review routing protocol extracted from the EDF campaign pipeline)* | this repo | 2026-06-18 |
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
+| [La constitution minimale des communs](constitution_minimale_des_communs.md) *(document source v1.0 — noyau constitutionnel en quatre clauses : soin, signalement, gouvernement démocratique et mémoire écrite)* | this repo | 2026-07-17 |
 | [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
 | [Mandats express et démocratie capable de crise](democratie_crise_mandats_express.md) *(document source v0.3 — répondre à l'objection de lenteur démocratique sans ouvrir la voie à l'état d'exception tyrannique)* | this repo | 2026-06-12 |
 | [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md) *(working paper v0.3 — cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities)* | this repo | 2026-06-13 |
