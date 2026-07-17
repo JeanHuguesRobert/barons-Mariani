@@ -1,22 +1,33 @@
 ---
-title: "Research Index — barons-Mariani"
-description: "A map of what is, what is in progress, and what could be."
+title: Research Index — barons-Mariani
+description: A map of what is, what is in progress, and what could be.
 layout: default
 nav_order: 1
-last_modified_at: 2026-07-14
+last_modified_at: 2026-07-14T00:00:00.000Z
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: 2026-06-15
+date: 2026-06-15T00:00:00.000Z
 creator: Jean Hugues Noël Robert, baron Mariani
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/index.md
-document_role: "index"
-document_kind: "research-index"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-index"
-classification_confidence: "strong"
+document_role: index
+document_kind: research-index
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-index
+classification_confidence: strong
+author: unknown
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 ---
 # Research Index — barons-Mariani
 

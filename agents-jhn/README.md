@@ -1,18 +1,18 @@
 ---
-title: "Agents JHN"
-subtitle: "Instances numériques mandatées du corpus Jean Hugues Noël Robert, baron Mariani"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-last_modified_at: "2026-07-13"
-status: "draft"
-document_role: "orientation"
-document_kind: "readme"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Agents JHN
+subtitle: Instances numériques mandatées du corpus Jean Hugues Noël Robert, baron Mariani
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-08'
+last_modified_at: '2026-07-13'
+status: draft
+document_role: orientation
+document_kind: readme
+visibility: public
+repository: JeanHuguesRobert/barons-Mariani
 related_repositories:
-  - "JeanHuguesRobert/cogentia"
-  - "JeanHuguesRobert/FractaVolta"
-  - "JeanHuguesRobert/marenostrum"
+  - JeanHuguesRobert/cogentia
+  - JeanHuguesRobert/FractaVolta
+  - JeanHuguesRobert/marenostrum
 tags:
   - agents-jhn
   - agent-john
@@ -21,6 +21,16 @@ tags:
   - cogentigram
   - digital-twin
   - transmission
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 ---
 
 # Agents JHN

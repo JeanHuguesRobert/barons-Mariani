@@ -1,3 +1,23 @@
+---
+title: Barons Mariani
+author: unknown
+date: '2026-07-12'
+document_role: source
+document_kind: documentation
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: 6b923cc
+  origin_date: '2026-07-12'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Barons Mariani
 
 [![Blason des barons Mariani](https://camo.githubusercontent.com/186c48fc0a0d106f0a5054e5f9ada0b78d492d904b17a0c5a0ec475ff0147c22/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34352f4d617269616e695f626c61736f6e2e706e67)](https://fr.wikipedia.org/wiki/Antoine_Mariani)

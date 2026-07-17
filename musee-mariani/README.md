@@ -1,16 +1,26 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/README.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-26
-title: "Musée Mariani — préfiguration"
-date: "2026-06-26"
-status: "draft"
-document_role: "index"
-document_kind: "museum-corpus-index"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-26T00:00:00.000Z
+title: Musée Mariani — préfiguration
+date: '2026-06-26'
+status: draft
+document_role: index
+document_kind: museum-corpus-index
+visibility: public
+lifecycle_state: working
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 ---
 
 # Musée Mariani — préfiguration

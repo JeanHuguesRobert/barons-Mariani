@@ -1,17 +1,27 @@
 ---
-title: "Registre des instances — Agents JHN"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-status: "draft"
-document_role: "register"
-document_kind: "agent-instance-register"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Registre des instances — Agents JHN
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-08'
+status: draft
+document_role: register
+document_kind: agent-instance-register
+visibility: public
+repository: JeanHuguesRobert/barons-Mariani
 tags:
   - agents-jhn
   - instances
   - registre
   - mandat
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 ---
 
 # Registre des instances — Agents JHN
