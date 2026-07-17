@@ -10,11 +10,19 @@ version: "0.3-blogpost"
 language: "fr"
 license: "CC BY-SA 4.0"
 status: "published — Substack / Les carnets du baron Mariani"
-document_role: "derived_product"
+document_role: "adapted"
+derivation_mode: "directed"
 document_family: "derived_public_blogpost"
 document_kind: "public-essay"
 publication_target: "Les carnets du baron Mariani"
 platform_target: "Substack"
+adapted_products:
+  - repository: JeanHuguesRobert/JeanHuguesRobert
+    paths:
+      - .ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken.draft.md
+      - .ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken.reviewed.md
+      - .ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken/01-ouverture-et-corpus.md
+    target: YouTube
 publication_url: "https://open.substack.com/pub/jeanhugues/p/on-nest-jamais-si-bien-servi-que"
 visibility: "public"
 lifecycle_state: "published"
