@@ -31,7 +31,7 @@ related_projects:
   - "Conversia"
   - "Cellula"
   - "Kudocracy"
-  - "Actarchia"
+  - "Archiac"
   - "Cogentia"
 keywords:
   - "démocratie rapide"
@@ -82,7 +82,7 @@ Il relève prioritairement du dépôt :
 barons-Mariani/research/democratie_crise_mandats_express.md
 ```
 
-Justification : le document porte une thèse politique et doctrinale générale sur l’état d’urgence, l’état d’exception, la tyrannie, l’Autonomie de Capacité et les formes démocratiques de réponse rapide aux crises. Les dépôts et concepts Cogentia, Conversia, Cellula, Kudocracy et Actarchia fournissent une méthode, une architecture et des outils possibles ; ils ne déplacent pas la souveraineté doctrinale du présent texte, qui appartient au corpus politique `barons-Mariani`.
+Justification : le document porte une thèse politique et doctrinale générale sur l’état d’urgence, l’état d’exception, la tyrannie, l’Autonomie de Capacité et les formes démocratiques de réponse rapide aux crises. Les dépôts et concepts Cogentia, Conversia, Cellula, Kudocracy et Archiac fournissent une méthode, une architecture et des outils possibles ; ils ne déplacent pas la souveraineté doctrinale du présent texte, qui appartient au corpus politique `barons-Mariani`.
 
 Les deux autres documents ont un rôle complémentaire :
 
@@ -346,7 +346,7 @@ Dans l’écosystème proposé :
 ```text
 Conversia prépare les conversations et les scénarios.
 Kudocracy légitime les décisions, délégations, votes et révocations.
-Actarchia trace les actes, responsabilités, preuves et audits.
+Archiac trace les actes, responsabilités, preuves et audits.
 Cogentia conserve, compare, apprend et suggère.
 Cellula opère l’unité temporaire de coordination.
 ```
@@ -887,7 +887,7 @@ La crise ne doit pas être pensée comme le moment où la démocratie s’efface
 - Étude spécifique de l’article 16 de la Constitution française et de la loi française sur l’état d’urgence.
 - Typologie juridique des mandats express selon les statuts associatifs, communaux, coopératifs et plateformes numériques.
 - Compatibilité avec le droit des collectivités territoriales, le droit associatif et le RGPD.
-- Conditions de preuve technique pour les journaux Actarchia.
+- Conditions de preuve technique pour les journaux Archiac.
 
 ## 18. Protocole expérimental minimal
 
@@ -999,7 +999,7 @@ Ce document source peut produire plusieurs produits déclinés :
 
 1. note politique courte : « La vitesse ne doit pas appartenir à la dictature » ;
 2. fiche pratique associative : « Préparer des mandats express avant la crise » ;
-3. schéma Inseme : Conversia → Kudocracy → Actarchia → Cogentia ;
+3. schéma Inseme : Conversia → Kudocracy → Archiac → Cogentia ;
 4. modèle YAML de mandat express ;
 5. article Substack académique ;
 6. publication Facebook sans markdown ;
@@ -1075,7 +1075,7 @@ express_institutional_continuity.md
 express_rex.md
 ```
 
-### 22.3 Spécification Actarchia
+### 22.3 Spécification Archiac
 
 Définir le format de trace minimal :
 
