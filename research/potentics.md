@@ -84,6 +84,17 @@ Classical frameworks treat possibility as binary. A state of affairs is either p
 
 In practice, possibilities differ not only in probability but in *propensity*: in the degree to which the conditions for their actualization are already present, the degree to which they are tending toward realization, and the degree to which deliberate action can accelerate or inhibit that tendency.
 
+### 2.1.1 Physical Ground Floor: Constructor Theory
+
+Constructor theory (Deutsch & Marletto, 2015) provides the ultimate physical floor for the binary distinction. It defines physics not by initial conditions and dynamical laws, but by which *transformations* (tasks) are possible or impossible, and which *constructors* (substrates that cause a task and remain ready to perform it again) can exist.
+
+In constructor theory:
+- A task is a substrate-indifferent input $\rightarrow$ output specification.
+- A transformation is binary: either a constructor for it is physically possible, or it is forbidden by physical law.
+- The cognitive packet substitution test (CPsN) is a constructor-theoretic criterion: can processor A be replaced by processor B without altering the continuation output contract?
+
+Potentics operates directly above this binary ground floor: where constructor theory establishes binary physical possibility, Potentics characterizes the graded potentiality $\Pi$ and propensity gradients of those tasks that are physically allowed.
+
 ### 2.2 Potentiality as Scalar Quantity
 
 Potentics proposes that *potentiality* is distinct from *possibility* in precisely this sense:
@@ -100,7 +111,7 @@ A corollary of treating potentiality as scalar is that **failure, when documente
 
 In binary frameworks, a failed attempt is simply a realized impossibility — it confirms that the outcome was not in the actual sample path. In Potentics, a documented failure provides information about the real magnitude of a potentiality: it updates our estimate of Π, reduces uncertainty, and may redirect effort more efficiently than a success that simply confirms prior expectations.
 
-This is not a consoling metaphor. It is an operational principle: any investigation of a potentiality — whether it ends in actualization or in demonstrated inutility — generates knowledge that justifies the effort, provided the investigation was designed to do so.
+This is not a consoling metaphor. It is an operational principle: any investigation of a potentiality — whether it ends in actualization or in demonstrated inutility — generates knowledge that justifies the effort, provided the investigation was designed to do so. This operational principle rhymes directly with the Seconde Méthode ("failure, when documented, has the exact same epistemic value as success") and establishes that conserved negative returns are non-zero information assets.
 
 ---
 
@@ -285,6 +296,7 @@ These are not competing questions. The second presupposes the first: understandi
 
 | Discipline | Central question | Limitation for Potentics |
 |-----------|-----------------|--------------------------|
+| Constructor theory | Which transformations are possible or impossible? | Binary physical layer (possible vs impossible); does not model graded potentiality Π above the binary floor |
 | Cybernetics | How does a system regulate itself? | Concerned with existing systems, not their potentialities |
 | Complexity science | How do patterns emerge? | Describes emergence, does not guide its cultivation |
 | Probability theory | How likely is each outcome? | Binary sample space; does not model propensity gradients |
