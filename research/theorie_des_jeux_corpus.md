@@ -38,7 +38,7 @@ related_projects:
   - "FractaVolta"
   - "Fractanet"
   - "Operium"
-  - "Archiac"
+  - "Archia"
   - "Mare Nostrum"
   - "Autonomie de Capacité"
 tags:
@@ -67,7 +67,7 @@ classification_confidence: "medium"
 
 ## Statut
 
-Ce document est un **document source** du corpus. Il propose une lecture transversale de plusieurs projets, textes et intuitions déjà présents dans l’écosystème de Jean Hugues Noël Robert : C.O.R.S.I.C.A., Institut Mariani, Cogentia, Kudocracy, Kudos, FractaVolta, Fractanet, Operium, Archiac, Mare Nostrum, #1755 et Autonomie de Capacité.
+Ce document est un **document source** du corpus. Il propose une lecture transversale de plusieurs projets, textes et intuitions déjà présents dans l’écosystème de Jean Hugues Noël Robert : C.O.R.S.I.C.A., Institut Mariani, Cogentia, Kudocracy, Kudos, FractaVolta, Fractanet, Operium, Archia, Mare Nostrum, #1755 et Autonomie de Capacité.
 
 Il est conçu comme un document **autoporteur**. Cela signifie que ses thèses principales doivent pouvoir être comprises et critiquées sans lecture préalable des autres documents du corpus. Les notions propres au corpus sont donc introduites avant d’être utilisées.
 
@@ -273,18 +273,18 @@ Sous l’angle de la théorie des jeux, FractaVolta et Fractanet posent la quest
 
 Exemple concret : plusieurs maisons, batteries, panneaux solaires, ateliers ou véhicules électriques peuvent former un réseau local de flexibilité énergétique. Le protocole commun rend les flux mesurables et compatibles, mais les opérations restent distribuées. Le but n’est pas de remplacer une dépendance centrale par une autre, mais de rendre la coordination vérifiable.
 
-### 5.7. Operium et Archiac
+### 5.7. Operium et Archia
 
 **Operium** peut être compris comme une approche de documentation et de pilotage opérationnel : comprendre l’état courant d’un système, ses évolutions envisagées et sa santé opérationnelle.
 
-**Archiac** désigne une logique de registre des actes : rendre les actes engageants visibles, imputables, vérifiables et contestables.
+**Archia** désigne une logique de registre des actes : rendre les actes engageants visibles, imputables, vérifiables et contestables.
 
 Sous l’angle de la théorie des jeux, ces deux branches réduisent l’opacité. Elles transforment des jeux à information faible ou manipulable en jeux où les coups importants laissent une trace exploitable.
 
 Exemples concrets :
 
 - Operium peut décrire l’état d’un environnement de production : quels serveurs existent, quelles versions tournent, quels changements sont prévus, quels risques sont ouverts, quels incidents doivent être traités.
-- Archiac peut enregistrer un acte engageant : qui a validé une publication, une dépense, une délégation ou une modification de règle ; à quelle date ; au nom de quel mandat ; avec quelle justification ; avec quels effets contestables.
+- Archia peut enregistrer un acte engageant : qui a validé une publication, une dépense, une délégation ou une modification de règle ; à quelle date ; au nom de quel mandat ; avec quelle justification ; avec quels effets contestables.
 
 ### 5.8. Autonomie de Capacité
 
@@ -388,7 +388,7 @@ Cette distinction éclaire plusieurs branches du corpus :
 - Kudocracy veut rendre le control plane démocratique plus contrôlable ;
 - Fractanet veut éviter qu’un commun énergétique ou numérique soit capturé par un opérateur central ;
 - Cogentia veut empêcher que les agents IA capturent le jugement humain ;
-- Operium et Archiac veulent documenter les actes qui modifient réellement l’état du système ;
+- Operium et Archia veulent documenter les actes qui modifient réellement l’état du système ;
 - l’Autonomie de Capacité refuse qu’un transfert de pouvoir institutionnel renforce seulement un control plane local non contrôlé.
 
 ---
@@ -805,7 +805,7 @@ Sujet : théorie des jeux comme grille de lecture transversale du corpus.
 
 Contraintes de fond :
 - Ne pas supposer que le lecteur connaît le corpus.
-- Introduire chaque notion spécifique avant de l’utiliser : C.O.R.S.I.C.A., Institut Mariani, Cogentia, Kudocracy, Kudos, FractaVolta, Fractanet, Operium, Archiac, Mare Nostrum, Autonomie de Capacité, #1755.
+- Introduire chaque notion spécifique avant de l’utiliser : C.O.R.S.I.C.A., Institut Mariani, Cogentia, Kudocracy, Kudos, FractaVolta, Fractanet, Operium, Archia, Mare Nostrum, Autonomie de Capacité, #1755.
 - Distinguer clairement les notions générales bien connues de théorie des jeux et les formulations propres au corpus.
 - Ne pas transformer la théorie des jeux en cynisme anthropologique.
 - Montrer que l’enjeu est de rendre la coopération rationnelle, la triche coûteuse, les actes engageants traçables et la capture plus difficile.
@@ -926,7 +926,7 @@ Intégrations principales :
 - ajout d’une grammaire centrale ;
 - renforcement de l’anti-cynisme dès le statut et le résumé ;
 - ajout d’un exemple positif de coopération rendue praticable ;
-- ajout d’exemples concrets pour Cogentia, Kudocracy, Kudos, FractaVolta / Fractanet, Operium, Archiac et Autonomie de Capacité ;
+- ajout d’exemples concrets pour Cogentia, Kudocracy, Kudos, FractaVolta / Fractanet, Operium, Archia et Autonomie de Capacité ;
 - illustration de la distinction transparence des mandataires / protection de la vie privée ;
 - déplacement du template et des prompts en annexes méthodologiques ;
 - mise à jour du prompt reviewer pour la v0.2.
@@ -944,7 +944,7 @@ Ajouts principaux :
 - introduction des notions internes du corpus ;
 - articulation prime au vice / punition de la vertu ;
 - distinction control plane / data plane ;
-- application à Kudocracy, Kudos, FractaVolta, Cogentia, Operium, Archiac, Autonomie de Capacité, #1755 et corpus personnel ;
+- application à Kudocracy, Kudos, FractaVolta, Cogentia, Operium, Archia, Autonomie de Capacité, #1755 et corpus personnel ;
 - intégration de la pédagogie football / échecs ;
 - objections principales ;
 - prompt de rédacteur ;
