@@ -37,7 +37,7 @@ related_documents:
 related_projects:
   - "Cogentia"
   - "Kudocracy"
-  - "Actarchia"
+  - "Archiac"
   - "Inseme"
   - "Autonomie de Capacité"
   - "Institut Mariani"
@@ -303,7 +303,7 @@ On peut objecter encore que rendre toute source supérieure contestable détruit
 
 On peut objecter enfin qu'un jumeau numérique fidèle est, à la limite, impossible. J'accepte cette limite. La carte n'est pas le territoire. L'objectif n'est pas une identité totale mais une approximation contrôlée, traçable, révisable et mandatée, capable de prolonger un corpus sans prétendre abolir l'écart entre le modèle et la personne vivante.
 
-Le programme de recherche ouvert par ce papier comporte plusieurs chantiers. Il faut élaborer une typologie fine des sources supérieures distinguant leurs régimes de vérité, de preuve et de contestation, en prolongeant la première esquisse à quatre régimes proposée en section 9. Il faut documenter des cas concrets de bras armés religieux, révolutionnaires, administratifs, moraux, algorithmiques, mémoriels, identitaires et institutionnels, afin de tester la doctrine sur du matériau réel. Il faut comparer les contrepoids classiques — droit contradictoire, séparation des pouvoirs, procédure, preuve, peer review, presse libre, open source, audit, recours, fork, retour d'expérience — pour en dégager les invariants opératoires. Il faut prototyper, dans le cadre d'Actarchia, de Cogentia et de Kudocracy, des fiches d'acte engageant applicables à la publication politique, à la décision associative, à la contribution au corpus, à l'usage d'un agent IA, à la réponse publique sensible, au mandat express et à l'alerte civique.
+Le programme de recherche ouvert par ce papier comporte plusieurs chantiers. Il faut élaborer une typologie fine des sources supérieures distinguant leurs régimes de vérité, de preuve et de contestation, en prolongeant la première esquisse à quatre régimes proposée en section 9. Il faut documenter des cas concrets de bras armés religieux, révolutionnaires, administratifs, moraux, algorithmiques, mémoriels, identitaires et institutionnels, afin de tester la doctrine sur du matériau réel. Il faut comparer les contrepoids classiques — droit contradictoire, séparation des pouvoirs, procédure, preuve, peer review, presse libre, open source, audit, recours, fork, retour d'expérience — pour en dégager les invariants opératoires. Il faut prototyper, dans le cadre d'Archiac, de Cogentia et de Kudocracy, des fiches d'acte engageant applicables à la publication politique, à la décision associative, à la contribution au corpus, à l'usage d'un agent IA, à la réponse publique sensible, au mandat express et à l'alerte civique.
 
 ## 21. Conclusion
 
