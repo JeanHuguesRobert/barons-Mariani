@@ -57,7 +57,7 @@ related_projects:
   - "Fractanet"
   - "FractaVolta"
   - "Cogentia"
-  - "Archiac"
+  - "Archia"
   - "SérénIA"
   - "Inox"
   - "COP"
@@ -81,7 +81,7 @@ classification_confidence: "medium"
 
 ### Résumé
 
-Ce document tente de formuler, provisoirement, le noyau doctrinal qui traverse plusieurs branches du corpus : possibilisme, autonomie de capacité, packetisation généralisée, Fractanet, FractaVolta, Cogentia, Archiac, Inox, COP, Ubikia, SérénIA, démocratie de capacité et Mare Nostrum.
+Ce document tente de formuler, provisoirement, le noyau doctrinal qui traverse plusieurs branches du corpus : possibilisme, autonomie de capacité, packetisation généralisée, Fractanet, FractaVolta, Cogentia, Archia, Inox, COP, Ubikia, SérénIA, démocratie de capacité et Mare Nostrum.
 
 L’hypothèse centrale est que le corpus ne juxtapose pas des projets dispersés. Il déroule, avec encore beaucoup d’inachèvement, une même grammaire : préserver et étendre l’espace des possibles, puis transformer ces possibles en capacités situées, traçables, transmissibles, mandatables, redirigeables et fédérables.
 
@@ -93,7 +93,7 @@ La packetisation généralisée en fournit une grammaire opérationnelle.
 
 La trace, le mandat et la continuation en donnent les conditions de responsabilité.
 
-Fractanet, FractaVolta, Cogentia, Inox, COP, Archiac, Ubikia et SérénIA en sont des déclinaisons techniques, cognitives, énergétiques, administratives ou démocratiques.
+Fractanet, FractaVolta, Cogentia, Inox, COP, Archia, Ubikia et SérénIA en sont des déclinaisons techniques, cognitives, énergétiques, administratives ou démocratiques.
 
 Ce texte ne prétend pas achever le raisonnement. Il marque un état provisoire de son déroulement, afin que la suite puisse être reprise sans repartir de zéro.
 
@@ -128,7 +128,7 @@ Cette version ajoute :
 
 - une colonne de mitigation au tableau des paquets selon les substrats ;
 - un exemple concret d’application du principe de coût de maintenance au document lui-même ;
-- une priorisation des démonstrateurs, en distinguant Minitel-Fractanet / FractaDIN, energy packets + mandate packets, SérénIA, Cogentia Commons MVP, Ophélia et Archiac.
+- une priorisation des démonstrateurs, en distinguant Minitel-Fractanet / FractaDIN, energy packets + mandate packets, SérénIA, Cogentia Commons MVP, Ophélia et Archia.
 
 Cette version ne modifie pas la doctrine de fond.
 
@@ -186,7 +186,7 @@ Cette version introduit plus clairement :
 - le cas Minitel / X.25 / Transpac comme exemple de packetisation incomplète ;
 - la distinction trace légitime / surveillance ;
 - les notions de mandat, continuation, fédération, modes dégradés et transmission ;
-- les déclinaisons vers Fractanet, FractaVolta, Cogentia, Archiac, SérénIA, démocratie de capacité et Mare Nostrum ;
+- les déclinaisons vers Fractanet, FractaVolta, Cogentia, Archia, SérénIA, démocratie de capacité et Mare Nostrum ;
 - une section de questions ouvertes.
 
 ## v0.1 — 2026-06-15
@@ -977,7 +977,7 @@ FractaVolta applique cette logique à l’énergie et à l’inférence.
 
 Cogentia l’applique à la pensée, au corpus et à la mémoire opératoire.
 
-Archiac l’applique aux actes.
+Archia l’applique aux actes.
 
 SérénIA l’applique à l’autonomie administrative, numérique et cognitive.
 
@@ -1043,15 +1043,15 @@ Ils peuvent être des produits déclinés issus d’un corpus versionné.
 
 La pensée devient ainsi une capacité de reprise, non seulement une production individuelle.
 
-## 18.4. Archiac
+## 18.4. Archia
 
-Archiac applique cette logique aux actes.
+Archia applique cette logique aux actes.
 
 Un acte n’est pas seulement un événement.
 
 C’est une unité d’action située, imputable, éventuellement mandatée, inscrite dans une chaîne de conséquences.
 
-Archiac cherche à rendre les actes traçables sans les réduire à une surveillance.
+Archia cherche à rendre les actes traçables sans les réduire à une surveillance.
 
 La question centrale est :
 
@@ -1201,7 +1201,7 @@ Comment définir les bons niveaux de subsidiarité ascendante ?
 
 ## 20.5. Anti-capture
 
-Comment éviter que Fractanet, Cogentia, Archiac ou SérénIA deviennent eux-mêmes des machines de capture ?
+Comment éviter que Fractanet, Cogentia, Archia ou SérénIA deviennent eux-mêmes des machines de capture ?
 
 Comment inscrire l’anti-capture dans l’architecture, et non seulement dans l’intention ?
 
@@ -1286,7 +1286,7 @@ Ce démonstrateur teste la démocratie de capacité à l’échelle locale : sig
 
 Il est politiquement fort, mais plus exposé institutionnellement.
 
-### Priorité 6 — Archiac
+### Priorité 6 — Archia
 
 Ce démonstrateur teste la traçabilité des actes et l’imputabilité.
 
@@ -1370,7 +1370,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | [`research/mandated_fast_democracy.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/mandated_fast_democracy.md) | `cogentia` | Démocratie rapide mandatée : réponse à l’objection selon laquelle la démocratie serait trop lente en temps de crise. Central pour les mandats express, révocation, périmètre et trace. |
 | [`research/democratie_crise_mandats_express.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratie_crise_mandats_express.md) | `barons-Mariani` | Document souverain associé à la démocratie de crise et aux mandats express. À lire comme source complète lorsque le document Cogentia synthétique renvoie vers lui. |
 | [`research/traceabilite_civique_antimafia.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_civique_antimafia.md) | `barons-Mariani` | Distinction fondamentale entre trace légitime et surveillance : “signaler des faits, oui ; ficher des personnes, non”. Important pour borner la doctrine de traçabilité. |
-| [`research/traceabilite_des_actes.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md) | `barons-Mariani` | Traçabilité des actes, imputabilité, mandat, responsabilité. À relier directement à Archiac et à la démocratie de capacité. |
+| [`research/traceabilite_des_actes.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md) | `barons-Mariani` | Traçabilité des actes, imputabilité, mandat, responsabilité. À relier directement à Archia et à la démocratie de capacité. |
 
 ## 23.3. Méthode, exploration et reconfiguration
 
@@ -1875,7 +1875,7 @@ Exemples de démonstrateurs possibles :
 - SérénIA ;
 - energy packets ;
 - Cogentia Commons MVP ;
-- Archiac ;
+- Archia ;
 - Ophélia / commune capable ;
 - pacte anti-capture solaire et inférentiel.
 
