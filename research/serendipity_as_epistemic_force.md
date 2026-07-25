@@ -89,6 +89,35 @@ Instead of serving strictly hierarchical sitemaps, static projections (`llms.txt
 ### 4.2 High-Signal Un-queried Ingest
 The Sunday Corpus Consolidation Runner (`node scripts/cogentia.js consolidate --weekly`) harvests incoming draft notes and `.yaml` interaction packets from `Downloads` and external channels. It filters out noise (invoices, receipts, raw binaries) and highlights unexpected cross-domain collisions in the Weekly Digest.
 
+### 4.3 Cognitive Packet Serendipity Traces (`serendipity_ledger`)
+When a **Cognitive Packet** travels from a `Home` node toward a destination under a specific *Letter of Mission*, *Mandate*, and *Budget*, it may encounter un-queried paths or orthogonal attractors during its resolution steps.
+
+Instead of discarding these discoveries, the packet appends a **Serendipity Ledger** (`serendipity_ledger`) to its return payload:
+
+```json
+{
+  "packet_id": "CPKT-2026-W30-001",
+  "origin_home": "https://jhn.baronsmariani.org/",
+  "destination": "https://cogentia.fractavolta.com/mcp",
+  "mandate": {
+    "mission": "Resolve S7 Guide concept Potentics under budget",
+    "budget_units": 50
+  },
+  "teleological_result": { "status": "completed", "attractor": "potentics.md" },
+  "serendipity_ledger": [
+    {
+      "timestamp": "2026-07-25T08:12:00Z",
+      "unqueried_attractor": "debord_stabilisateur_procedural.md",
+      "repository": "barons-Mariani",
+      "reason": "Encountered 1-hop cross-link between Procedural Reality Stabilizers and Informational Gravity during S7 traversal",
+      "epistemic_value_score": 0.85
+    }
+  ]
+}
+```
+
+When the packet completes its journey and delivers its mission report back to `Home`, both the primary goal output and the serendipitous discovery log are integrated into the corpus memory.
+
 ---
 
 ## 5. Conclusion & Research Outlook
