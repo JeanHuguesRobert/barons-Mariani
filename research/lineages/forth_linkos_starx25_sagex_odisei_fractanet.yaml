@@ -119,6 +119,9 @@ nodes:
       status: personal_memory
       confidence: high
       notes: "JHR. Archives sources Turbo Prolog / C: to_verify. Lineage to l8 via LinkOS."
+    ambition_successor:
+      - "Cogentia + Inox: scale operator-emulation motif toward digital twins (see perform note §4.1f)"
+      - "Not a claim that twins are fully delivered — ambition / roadmap plane"
 
   - id: linkos_unix_80286
     label: "LinkOS Unix-like sur 80286"

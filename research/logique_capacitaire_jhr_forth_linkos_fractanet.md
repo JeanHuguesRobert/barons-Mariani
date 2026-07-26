@@ -100,7 +100,8 @@ Le projet de serveur Minitel multiprocesseur 6809 fut mené avec Jean Vincent, a
 | LinkOS / Unix | OS à reconstruire | fork/exec, appels système | exécuter et déléguer des processus |
 | StarX25 | frontière X.25 non fiable | pare-feu X.25 (auth, call deflection, …) | accès conditionnel contrôlé |
 | SAGE | équipements hétérogènes | management system (acronyme) | superviser le parc multi-vendeur |
-| Emul | IHM textuelles d'équipements | langage d'émulation (Prolog → C/C++ + LinkOS) | agir comme un opérateur programmable |
+| Emul | IHM textuelles d'équipements | langage d'émulation (Prolog → C/C++ + LinkOS) | agir comme un opérateur programmable (VT100) |
+| Cogentia + Inox | réel multi-échelle (corpus, agents, nœuds) | mémoire + mandat + runtime | s'approcher d'un jumeau numérique (ambition) |
 | DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
 | Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
 | FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
@@ -147,6 +148,13 @@ un **écran/clavier type VT100** — pas une émulation de processeur, une
 **émulation d’opérateur**. Chronologie : **Turbo Prolog**, puis **C/C++** avec
 noyau multitâche **LinkOS** → **[l8](https://github.com/JeanHuguesRobert/l8)**
 et bridges COP / Inox. Voir note Perform §4.1e.
+
+**Saut d’ambition (contemporain) :** avec **Cogentia** et le langage **Inox**,
+l’émulation ne vise plus seulement le geste opérateur VT100, mais
+**s’approcher des jumeaux numériques** (*digital twins*) — mémoire, mandat,
+traces, agents, runtime programmable. Même motif (médiateur programmable entre
+réel et action), **échelle autrement plus large**. Détail et prudence :
+note Perform §4.1f ; feuilles de route dans le dépôt cogentia.
 
 **SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (souvenir :
 milieu des années 1990), puis portée sur **IBM AIX** (RS/6000). Ce « X » n’est

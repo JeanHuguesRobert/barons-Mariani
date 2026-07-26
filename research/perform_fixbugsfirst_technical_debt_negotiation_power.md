@@ -342,6 +342,38 @@ code Emul puis par la lignée l8.
 | Continuité LinkOS → l8 (et au-delà) | `personal_memory` + `repository_trace` (l8 README / lignée COP-Inox) / medium–high |
 | Code source Emul Turbo Prolog / C d’époque | `to_verify` (archives) |
 
+### 4.1f Ambition élargie — d’Emul aux jumeaux numériques (Cogentia + Inox)
+
+**Continuité de motif, saut d’ambition** (lecture doctrinale, pas bilan produit
+« déjà livré ») :
+
+| | **Emul (Perform)** | **Cogentia + Inox (aujourd’hui)** |
+|--|--------------------|-------------------------------------|
+| Objet d’« émulation » | Un **humain** derrière un **VT100** | Un **acteur / système / territoire** plus large — s’approcher de **jumeaux numériques** (*digital twins*) |
+| Portée | Écran/clavier, un équipement ou une classe d’IHM | Mémoire, mandat, traces, agents, runtime programmable |
+| Runtime | DOS/DESQview, LinkOS dans Emul C | **Inox** (substrat ; lignée LinkOS/l8/l9), orchestration cognitive **Cogentia** / COP |
+| But | Faire **comme** l’opérateur sur le terrain | Rendre **capable** un jumeau *trustable* : observer, continuer, déléguer sous contrôle |
+
+```text
+Emul          émuler l'opérateur  (VT100, un geste humain)
+     ↓  même intuition : un médiateur programmable entre réel et action
+Cogentia+Inox s'approcher d'un digital twin
+              (mémoire + mandat + runtime + agents — pas seulement un script clavier)
+```
+
+**Prudence :** « s’approcher de » ≠ « jumeau complet déjà en production ». Les
+feuilles de route et doctrines vivent surtout dans le corpus technique
+(ex. `cogentia/research/cogentia-digital-twin.md`,
+`cogentia/docs/digital-twin-agile-roadmap.md`, Inox). Ici on fixe le **fil
+historique** : Emul est l’ancêtre d’ambition *opérateur programmable* ;
+Cogentia/Inox en sont l’**échelle jumeau**.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| Lecture de continuité Emul → ambition digital twin | `personal_memory` / doctrine / medium |
+| Corpus contemporain jumeau (Cogentia) | `repository_trace` / high pour l’existence des docs |
+| Maturité « twin trustable » livré | `to_verify` / santé produit — hors note historique pure |
+
 ### 4.2 StarX25 — surface technique
 
 **StarX25** : produit **pare-feu X.25** (*X.25 Firewall*). Dans le corpus
