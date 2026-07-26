@@ -69,10 +69,17 @@ cogentia (indépendance multi-modèle / multi-fournisseur)
 | Sortie du capital fondateur | Cession au partenaire à **50 %**, fin **1997** (`personal_memory`) |
 | Nature | Maison d’édition logicielle, services autour des produits |
 
-Produit-phare du fil réseau (parmi d’autres) : le système de gestion de réseau
-souvent désigné **SAGE** / **Sage/X** (voir lignée technique), principalement
-touru pour des **réseaux privés X.25**, avec une promesse d’**indépendance
-vis-à-vis des constructeurs d’équipements**.
+Produits réseau Perform à distinguer (nomenclature opérateur) :
+
+| Produit | Rôle |
+|---------|------|
+| **SAGE** (Sage/X, + Emul) | **Management system** — gestion / supervision de réseaux hétérogènes (souvent privés **X.25**) |
+| **StarX25** | **X.25 Firewall** — pare-feu / contrôle d'accès sur le plan X.25 |
+
+L'insight « indépendance multi-vendeur / pouvoir de négociation » s'attache
+surtout à **SAGE** ; StarX25 est le volet **sécurité frontière** du même
+écosystème (détail §4).
+
 
 ## 3. FixBugsFirst — solution à un problème encore sans nom courant
 
