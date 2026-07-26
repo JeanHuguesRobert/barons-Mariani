@@ -142,9 +142,16 @@ gérer l’**hétérogène**). Emul prolonge ce plan : émuler un opérateur der
 écran et clavier pour interagir avec les interfaces textuelles d’équipements
 (alarmes, événements, états).
 
-**SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (milieu des
-années 1990, période où HP sort OpenView), puis portée sur **IBM AIX**. Ce
-« X » n’est **pas** celui de X.25 (produit distinct : **StarX25**).
+**SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (souvenir :
+milieu des années 1990), puis portée sur **IBM AIX** (RS/6000). Ce « X » n’est
+**pas** celui de X.25 (produit distinct : **StarX25**).
+
+**Vérification 2026-07-26 (calendrier public) :** OpenView / NNM n’est pas une
+« sortie » milieu des années 90 — la techno est déjà en place **vers 1990**
+(licence IBM sur OpenView/NNM HP en 1990 ; NetView/6000 dès ~1992). Le mid-90s
+correspond plutôt à l’**apogée concurrentielle** des NMS Unix. Les stations
+**AIX/RS/6000** existent depuis **février 1990** : un port AIX mid-90s est
+plausible. Détail et sources : note Perform §4.1b.
 
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière

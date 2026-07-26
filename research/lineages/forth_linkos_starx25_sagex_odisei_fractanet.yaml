@@ -204,14 +204,15 @@ nodes:
     label: "SAGE/X — port Unix de SAGE"
     period: "mid_1990s"
     role: "version de SAGE tournant sous Unix ; /X = Unix (pas X.25)"
-    function: "porter le management system sur plateformes Unix concurrentes d'OpenView"
+    function: "porter le management system sur plateformes Unix (pression NMS type OpenView)"
     product_kind: management_system_unix
     slash_x_means: Unix
     platforms:
       - Unix (generic mid-1990s)
-      - IBM AIX (port ultérieur)
+      - IBM AIX on RS/6000 (port ; plateforme dispo dès 1990)
     market_context:
-      - "HP OpenView era — bascule marché vers NMS Unix"
+      - "OpenView already established ~1990 (IBM licensed HP NNM/OpenView tech 1990)"
+      - "mid-1990s = competitive heyday of Unix NMS (OpenView vs SunNet Manager), not first OpenView launch"
     capacities:
       - unix_runtime
       - network_management_system
@@ -221,8 +222,9 @@ nodes:
       status: personal_memory
       confidence: medium
       notes: >
-        /X = Unix, ~milieu des années 90, période OpenView ; puis port AIX.
-        Dates exactes to_verify. Voir note Perform §4.1b.
+        /X = Unix, ~mid-1990s (Perform memory). External check 2026-07-26:
+        do not claim OpenView "released" mid-90s; RS/6000+AIX from Feb 1990.
+        See perform note §4.1b verification table.
 
   - id: dashboard
     label: "Perform DashBoard"

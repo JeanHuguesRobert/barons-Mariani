@@ -151,30 +151,47 @@ capacitaire).
 Le suffixe **/X** dans **SAGE/X** n’est pas décoratif : il marque le passage à
 la version qui **tourne sous Unix**.
 
-| Champ | Élément (statut) |
-|-------|------------------|
-| Signification de **/X** | version **Unix** de SAGE (`personal_memory` / high) |
-| Période approximative | **milieu des années 1990** (`personal_memory` / medium — à croiser archives) |
-| Contexte marché | époque où **HP** sort **OpenView** ; bascule concurrentielle vers les plateformes Unix de gestion de réseau |
-| Port ultérieur | portage sur machines Unix **IBM (AIX)** (`personal_memory` / medium) |
+| Champ | Souvenir opérateur | Vérification externe (public) |
+|-------|--------------------|-------------------------------|
+| Signification de **/X** | version **Unix** de SAGE | — (nomenclature Perform) |
+| Période SAGE/X | **milieu des années 1990** (approx.) | cohérent comme **fenêtre de port** pour une maison produit FR ; dates exactes Perform : `to_verify` |
+| Contexte HP OpenView | « quand HP a sorti OpenView » | **nuance** : OpenView n’est **pas** une « sortie » milieu des années 90. La techno NNM/OpenView est déjà en place **vers 1990** (IBM **licence** la techno HP OpenView / NNM en **1990** et livre son NetView dérivé en **1992**). Le **milieu des années 90** est plutôt l’**apogée concurrentielle** du NMS Unix (OpenView vs SunNet Manager, bascule aussi vers Windows/NT annoncée ~1993–94) — moment où un port Unix de SAGE a du sens **commercialement**, sans coller à un « launch day » OpenView |
+| Stations IBM / AIX | portage sur **AIX** | **RS/6000** + **AIX 3** annoncés **février 1990** (workstations *et* servers). AIX 3.2.x mature **1992–93**. Un port SAGE → AIX **milieu des années 90** est **plausible** (plateforme déjà installée chez les grands comptes) ; ce n’est pas l’année de naissance d’AIX |
 
-Lecture courte :
+Lecture courte (après croisement) :
 
 ```text
-SAGE     → produit de gestion (ligne antérieure / non-« /X »)
-SAGE/X   → même lignée produit, runtime Unix (mid-1990s)
-         → puis porté sur AIX (IBM)
+SAGE     → management system (ligne antérieure / non-« /X »)
+SAGE/X   → runtime Unix (souvenir : ~mid-1990s)
+         → porté ensuite / aussi sur IBM AIX (RS/6000)
+
+Marché : OpenView déjà établi dès ~1990 ;
+         mid-90s = pression concurrentielle NMS Unix + multi-plateforme,
+         pas la date de première sortie OpenView.
 ```
 
 Ne pas confondre **SAGE/X** (management sous Unix) avec **StarX25** (firewall
 X.25) : le « X » de SAGE/X renvoie à **Unix**, pas à X.25.
 
+#### Repères publics (hors Perform)
+
+| Fait | Approx. | Source type |
+|------|---------|-------------|
+| IBM RS/6000 + AIX 3 | **fév. 1990** | encyclopédie / histoire produit IBM |
+| IBM licence HP OpenView (NNM…) | **1990** | doc formation HP OpenView NNM (historique interne cité) |
+| IBM NetView/6000 puis NetView for AIX | **1992** → renommages **1994** | IBM Systems Journal / presse technique |
+| OpenView déjà cadre concurrent NT/Unix | **1993–94** | presse (HP / IBM / DEC vers NT) |
+| OpenView cité comme leader face à SunNet Manager | **~1995** | littérature académique / marché NMS |
+
+#### Statuts de preuve (corrigés)
+
 | Élément | `source_status` |
 |---------|-----------------|
-| /X = Unix | `personal_memory` / high |
-| ~milieu des années 90 ; coïncidence de période OpenView | `personal_memory` / medium |
-| Port AIX | `personal_memory` / medium |
-| Dates exactes, order forms, notes de version | `to_verify` |
+| /X = Unix (nomenclature SAGE/X) | `personal_memory` / high |
+| SAGE/X ~milieu des années 90 (Perform) | `personal_memory` / medium — **non contredit** par le calendrier public |
+| « Sortie » OpenView au milieu des années 90 | **à reformuler** : OpenView est **antérieur** (~1990) ; mid-90s = **dominance / pression marché** (`public_trace` + nuance) |
+| Port AIX sur machines IBM (RS/6000) | `personal_memory` / medium ; **plateforme disponible dès 1990** (`public_trace`) |
+| Dates exactes SAGE/X, notes de version, supports Unix précis (HP-UX ? SunOS/Solaris ? AIX only ?) | `to_verify` |
 
 ### 4.2 StarX25 — surface technique
 

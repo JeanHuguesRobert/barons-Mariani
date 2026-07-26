@@ -210,12 +210,17 @@ product_kind: network_management_system_unix
 slash_x_means: Unix
 platforms:
   - Unix
-  - IBM AIX
-market_context: "HP OpenView era"
+  - IBM AIX  # RS/6000 line available from Feb 1990; port mid-90s still plausible
+market_context: "Unix NMS competitive era (OpenView established ~1990; mid-90s heyday vs SunNet Manager)"
 source_status:
   kind: personal_memory
   confidence: medium
-  comment: "Le /X de SAGE/X désigne la version tournant sous Unix (milieu des années 1990, période OpenView), puis portée sur AIX. Ne pas confondre le X de /X avec X.25 (StarX25). Dates exactes, notes de version, supports Unix précis : to_verify."
+  comment: >
+    /X = Unix (Perform). ~mid-1990s. External check 2026-07-26: OpenView/NNM technology
+    already licensed by IBM from HP in 1990 — not a mid-90s first release. RS/6000+AIX
+    from 1990. Reformulate "when HP released OpenView" as market pressure / dominance era.
+    Exact SAGE/X ship dates and Unix targets (HP-UX, Solaris, AIX…): to_verify.
+    See research/perform_fixbugsfirst_technical_debt_negotiation_power.md §4.1b.
 ```
 
 ### 5.8 Perform DashBoard
