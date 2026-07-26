@@ -77,11 +77,12 @@ Forth sur VIC-20
 → LinkOS, noyau multitâche personnel
 → tentative Unix-like avec appels système et fork/exec sur 80286
 → StarX25, pare-feu X.25 (X.25 Firewall ; mécanismes : auth, call deflection, …)
-→ SAGE (Système d'Aide à la Gestion d'Equipements hétérogènes) / Emul
+→ SAGE (Système d'Aide à la Gestion d'Equipements hétérogènes)
+→ Emul (langage : Turbo Prolog → C/C++ + noyau multitâche LinkOS)
 → SAGE/X (port Unix, mid-1990s ; puis AIX) — le /X = Unix, pas X.25
 → DashBoard, transition SNMP/IP/Java/Web
 → Odisei, téléphonie IP logicielle et services distribués
-→ l8, descendant contemporain de LinkOS
+→ LinkOS → l8 (JS) → bridges COP / Inox (l9)
 → FractaNet, généralisation territoriale de cette logique
 ```
 
@@ -98,7 +99,8 @@ Le projet de serveur Minitel multiprocesseur 6809 fut mené avec Jean Vincent, a
 | LinkOS | machine nue | noyau multitâche | orchestrer des tâches |
 | LinkOS / Unix | OS à reconstruire | fork/exec, appels système | exécuter et déléguer des processus |
 | StarX25 | frontière X.25 non fiable | pare-feu X.25 (auth, call deflection, …) | accès conditionnel contrôlé |
-| SAGE / Emul | équipements hétérogènes | *Système d'Aide à la Gestion d'Equipements hétérogènes* + Emul | superviser et agir sur des systèmes disparates |
+| SAGE | équipements hétérogènes | management system (acronyme) | superviser le parc multi-vendeur |
+| Emul | IHM textuelles d'équipements | langage d'émulation (Prolog → C/C++ + LinkOS) | agir comme un opérateur programmable |
 | DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
 | Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
 | FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
@@ -138,9 +140,13 @@ sécurité — pas une invitation à le renommer « autre chose que firewall ».
 
 **SAGE** est le **Système d’Aide à la Gestion d’Equipements hétérogènes** —
 le *management system*. L’acronyme encode déjà la promesse produit (aide à
-gérer l’**hétérogène**). Emul prolonge ce plan : émuler un opérateur derrière
-écran et clavier pour interagir avec les interfaces textuelles d’équipements
-(alarmes, événements, états).
+gérer l’**hétérogène**).
+
+**Emul** est le **langage** d’émulation d’opérateur (écran/clavier, interfaces
+textuelles). Chronologie opérateur : d’abord **Turbo Prolog**, puis **C/C++**
+avec un **noyau multitâche déjà nommé LinkOS** — le même fil de noyau léger
+qui continue via **[l8](https://github.com/JeanHuguesRobert/l8)** (JS) et les
+bridges contemporains (COP, Inox/l9). Voir note Perform §4.1e.
 
 **SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (souvenir :
 milieu des années 1990), puis portée sur **IBM AIX** (RS/6000). Ce « X » n’est

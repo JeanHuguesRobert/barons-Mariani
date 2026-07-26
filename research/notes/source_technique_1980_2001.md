@@ -232,6 +232,28 @@ source_status:
     See research/perform_fixbugsfirst_technical_debt_negotiation_power.md §4.1b.
 ```
 
+### 5.7d Emul language + LinkOS kernel
+
+```yaml
+id: emul_language
+period: perform_period
+role: "operator-emulation language for heterogeneous equipment UIs"
+implementations:
+  - Turbo Prolog (first)
+  - C/C++ (second; includes multitasking kernel already named LinkOS)
+linkos_role: "multitasking kernel inside Emul C/C++ era; continues evolving"
+contemporary_trace:
+  - "https://github.com/JeanHuguesRobert/l8  # JS cooperative multi-tasker; LinkOS lineage"
+  - "Inox l9 / inseme COP  # later generalizations"
+source_status:
+  kind: personal_memory
+  confidence: high
+  comment: >
+    Emul developed by JHR: Turbo Prolog then C/C++ with LinkOS kernel already
+    present. LinkOS evolved and still does; l8 is the attested JS descendant.
+    Period Emul sources: to_verify in personal archives. See perform note §4.1e.
+```
+
 ### 5.7c Standards context (GDMO / CMIP / SNMP)
 
 ```yaml

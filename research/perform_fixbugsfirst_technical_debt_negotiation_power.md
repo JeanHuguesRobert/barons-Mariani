@@ -302,11 +302,43 @@ lourd n’était pas seulement « conceptuellement compliqué » : il était sou
 
 ```text
 640 Ko MS-DOS   →  contrainte physique / architecture
-DESQview        →  multitâche dans ce plafond (encore plus de pression)
+DESQview        →  multitâche + IPC dans ce plafond
 SAGE FR X.25    →  produit qui doit tourner là, pas sur une station de rêve
 CMIP            →  bonne architecture papier, mauvais rapport coût/bénéfice
                    sur ce parc
 ```
+
+### 4.1e Emul — langage d’émulation d’opérateur (et LinkOS)
+
+**Emul** : langage développé par l’opérateur (JHR) pour **émuler un opérateur**
+devant écran/clavier d’équipements (interfaces textuelles, alarmes, événements)
+— le bras programmable du plan **SAGE** « hétérogène ».
+
+| Phase | Implémentation | Notes |
+|-------|----------------|-------|
+| 1 | **Turbo Prolog** | première version du langage Emul |
+| 2 | **C / C++** | réécriture / production ; **noyau multitâche déjà baptisé LinkOS** |
+| Suite | **LinkOS** évolue | même fil de noyau léger multitâche |
+| Contemporain | dépôt **[l8](https://github.com/JeanHuguesRobert/l8)** | multitâche coopératif JS (Tasks/Steps) — *descendant attesté* de la lignée LinkOS ; suite runtime : Inox / l9, COP (inseme) |
+
+```text
+Emul (Turbo Prolog)
+  → Emul (C/C++) + noyau multitâche LinkOS
+    → LinkOS (évolution continue)
+      → l8 (JS) → bridges COP / Inox (l9)
+```
+
+DESQview (multitâche + IPC sous DOS) et **LinkOS** (noyau multitâche *dans*
+l’écosystème Emul/C) ne se confondent pas : l’un est le **runtime d’hôte**
+du parc client DOS ; l’autre est le **noyau d’orchestration** porté par le
+code Emul puis par la lignée l8.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| Emul d’abord en Turbo Prolog, puis C/C++ | `personal_memory` / high |
+| LinkOS déjà présent comme noyau multitâche dans la phase C/C++ d’Emul | `personal_memory` / high |
+| Continuité LinkOS → l8 (et au-delà) | `personal_memory` + `repository_trace` (l8 README / lignée COP-Inox) / medium–high |
+| Code source Emul Turbo Prolog / C d’époque | `to_verify` (archives) |
 
 ### 4.2 StarX25 — surface technique
 

@@ -85,8 +85,8 @@ nodes:
 
   - id: linkos
     label: "LinkOS"
-    period: "mid_1980s"
-    role: "noyau multitâche personnel"
+    period: "mid_1980s_through_present"
+    role: "noyau multitâche personnel (déjà nommé dans Emul C/C++ ; évolue encore)"
     function: "orchestrer des tâches sur machine contrainte"
     capacities:
       - multitasking
@@ -95,9 +95,29 @@ nodes:
       - embedded_language
       - task_cooperation
     evidence:
-      status: repository_trace
-      confidence: medium
-      notes: "À relier au dépôt contenant l8 et les traces de descendance LinkOS."
+      status: personal_memory
+      confidence: high
+      notes: >
+        Named as multitasking kernel in Emul C/C++ phase (after Turbo Prolog Emul).
+        Continues via l8 (JS) and later Inox/COP bridges. See perform §4.1e.
+
+  - id: emul_language
+    label: "Emul — langage d'émulation d'opérateur"
+    period: "perform_period"
+    role: "langage pour émuler un opérateur sur IHM textuelles d'équipements"
+    function: "automatiser l'interaction écran/clavier avec des équipements hétérogènes"
+    implementations:
+      - Turbo Prolog (first)
+      - C/C++ (second; LinkOS multitasking kernel already present)
+    capacities:
+      - operator_emulation
+      - text_ui_automation
+      - scripted_equipment_control
+      - embedded_multitasking_via_linkos
+    evidence:
+      status: personal_memory
+      confidence: high
+      notes: "JHR. Archives sources Turbo Prolog / C: to_verify. Lineage to l8 via LinkOS."
 
   - id: linkos_unix_80286
     label: "LinkOS Unix-like sur 80286"
@@ -275,17 +295,21 @@ nodes:
   - id: l8
     label: "l8"
     period: "current"
-    role: "descendant contemporain de LinkOS"
-    function: "réactiver la logique du noyau léger et programmable"
+    role: "descendant JS attesté de LinkOS (Tasks/Steps coopératifs)"
+    function: "réactiver la logique du noyau léger multitâche en JavaScript"
+    repository: "https://github.com/JeanHuguesRobert/l8"
     capacities:
       - lightweight_runtime
+      - cooperative_multitasking
       - agent_runtime_candidate
       - lineage_continuation
       - constrained_execution
     evidence:
       status: repository_trace
-      confidence: medium
-      notes: "À relier au dépôt exact et aux fichiers pertinents."
+      confidence: high
+      notes: >
+        README documents historical status and successors (Inox l9, COP).
+        Operator lineage: Emul C/C++ LinkOS → l8.
 
   - id: fractanet
     label: "FractaNet"
