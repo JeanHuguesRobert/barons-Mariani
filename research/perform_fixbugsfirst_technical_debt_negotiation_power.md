@@ -274,6 +274,29 @@ adoption pleine CMIP.
 | Base installée SAGE sous **DOS / DESQview** conséquente (FR, X.25 privés) | `personal_memory` / medium–high |
 | Orthographe / produit : **DESQview** (Quarterdeck) — souvenir orthographié « Deskview » | `public_trace` pour le produit multitâche DOS ; identité exacte des builds SAGE : `to_verify` |
 | Périmètre commercial « France / X.25 privés » (pas Europe entière) | `personal_memory` / medium — à croiser chiffre d’affaires / listes clients |
+| Guerre des **Ko** sous la barre **640 Ko** MS-DOS (mémoire conventionnelle) | `public_trace` / high (architecture PC) + `personal_memory` opérateur SAGE |
+
+#### Mémoire conventionnelle 640 Ko — le climat technique
+
+C’est l’époque où l’on se battait pour **grapiller quelques Ko** de plus sous
+**MS-DOS**, sous la limite de la **mémoire conventionnelle (~640 Ko)** du PC
+IBM-compatible (espace 0–640 Ko réservé au « conventional memory » ; au-delà :
+UMB, HMA, **EMS** / **XMS**, chargeurs hauts, etc.).
+
+Pour un produit comme **SAGE sous DOS/DESQview**, chaque Ko comptait :
+overlays, drivers réseau, stack X.25, multitâche DESQview, buffers — le
+« système d’aide à la gestion » devait **tenir** dans un budget mémoire
+ridicule par les standards d’aujourd’hui. Dans ce climat, un modèle **CMIP/GDMO**
+lourd n’était pas seulement « conceptuellement compliqué » : il était souvent
+**incompatible avec le plafond matériel** du parc client.
+
+```text
+640 Ko MS-DOS   →  contrainte physique / architecture
+DESQview        →  multitâche dans ce plafond (encore plus de pression)
+SAGE FR X.25    →  produit qui doit tourner là, pas sur une station de rêve
+CMIP            →  bonne architecture papier, mauvais rapport coût/bénéfice
+                   sur ce parc
+```
 
 ### 4.2 StarX25 — surface technique
 

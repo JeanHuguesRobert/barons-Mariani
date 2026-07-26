@@ -163,8 +163,9 @@ NMS (SNMP dominant côté IP, GDMO/CMIP côté télécom). Voir note Perform §4
 mais **conceptuellement lourd** et **difficile à implémenter** sur les machines
 d’époque, d’autant qu’une base **SAGE sous DOS/DESQview** était déjà
 **conséquente** (France, réseaux X.25 privés). La contrainte n’était pas
-seulement technique : c’était aussi une **base installée**. Détail §4.1d note
-Perform.
+seulement technique : c’était aussi une **base installée**. Et le climat
+quotidien du développement PC : se battre pour **quelques Ko** sous la limite
+**640 Ko** de la mémoire conventionnelle MS-DOS. Détail §4.1d note Perform.
 
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière
