@@ -195,10 +195,18 @@ id: sagex_emul
 period: perform_period
 product_kind: network_management_system
 acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
+runtime_early:
+  - DOS
+  - DESQview   # Quarterdeck multitasking under DOS; memory may say "Deskview"
+market_scope_memory: "France; private X.25 networks; substantial installed base"
 source_status:
   kind: personal_memory
   confidence: high
-  comment: "Acronyme opérateur : SAGE = Système d'Aide à la Gestion d'Equipements hétérogènes (distinct de StarX25 = X.25 Firewall). Emul = émulation d'opérateur. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
+  comment: >
+    SAGE acronym + distinct from StarX25. Early/mainline installs: DOS/DESQview
+    before/beside SAGE/X Unix. CMIP judged rich but hard to learn and implement
+    on period machines given that installed base (operator testimony 2026-07-26).
+    See perform note §4.1d. Client lists / build IDs: to_verify.
 ```
 
 ### 5.7b SAGE/X (Unix)

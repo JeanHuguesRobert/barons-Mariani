@@ -159,6 +159,13 @@ souvent avec **CMIP/CMIS**). **SNMP** = gestion TCP/IP, RFCs dès **1988–1990*
 — donc déjà là bien avant le mid-90s ; le mid-90s est la **maturité marché**
 NMS (SNMP dominant côté IP, GDMO/CMIP côté télécom). Voir note Perform §4.1c.
 
+**Témoignage opérateur (Perform) :** CMIP = le **protocole** — bonnes idées,
+mais **conceptuellement lourd** et **difficile à implémenter** sur les machines
+d’époque, d’autant qu’une base **SAGE sous DOS/DESQview** était déjà
+**conséquente** (France, réseaux X.25 privés). La contrainte n’était pas
+seulement technique : c’était aussi une **base installée**. Détail §4.1d note
+Perform.
+
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière
 (StarX25) vs pilotage (SAGE).

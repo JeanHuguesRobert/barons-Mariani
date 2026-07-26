@@ -240,6 +240,41 @@ et le **choc SNMP vs CMIP/GDMO** dans les choix d’architecture.
 | Coexistence SNMP / CMIP-GDMO dans les années 90 | `public_trace` / high |
 | Lien exact produit SAGE ↔ GDMO ou SNMP (implémentation) | `to_verify` (archives Perform) |
 
+### 4.1d Témoignage opérateur — CMIP vs réalité SAGE (DOS / DESQview)
+
+Lecture **personnelle** (Perform), non monographie protocolaire :
+
+**CMIP** était bien le **protocole** (avec CMIS le service ; GDMO le formalisme
+des objets). Il y avait de **bonnes idées**, mais :
+
+1. **Conceptuellement lourd** à s’approprier (au moins pour l’opérateur ici) ;
+2. **Difficile à implémenter** sur les machines de l’époque (coût CPU / mémoire /
+   complexité d’agent et de manager) ;
+3. **Incompatible avec la contrainte base installée** : Perform avait une base
+   **SAGE sous DOS / DESQview** (multitâche DOS) **conséquente** — à l’échelle
+   de la **France** et de ses **réseaux X.25 privés** du moins.
+
+```text
+Monde « standards OSI »     CMIP + GDMO  →  riches, lourds, peu réalistes
+                                              sur le parc client SAGE
+Monde « produit Perform »   SAGE (DOS/DESQview) + hétérogène + X.25
+                         →  livrer de la gestion qui tourne déjà chez le client
+```
+
+Cela éclaire pourquoi une maison comme Perform ne bascule pas « par pureté
+architecturale » vers CMIP : la **dette de parc** (DOS/DESQview + X.25 privé
+FR) et la **complexité d’implémentation** pèsent plus que l’élégance du modèle
+OSI. Le passage **SAGE → SAGE/X (Unix)** est une autre réponse à la pression
+marché (NMS Unix type OpenView), **sans** confondre pour autant avec une
+adoption pleine CMIP.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| CMIP = protocole ; bonnes idées mais conceptuel + implémentation lourds | `personal_memory` / high (jugement d’acteur) |
+| Base installée SAGE sous **DOS / DESQview** conséquente (FR, X.25 privés) | `personal_memory` / medium–high |
+| Orthographe / produit : **DESQview** (Quarterdeck) — souvenir orthographié « Deskview » | `public_trace` pour le produit multitâche DOS ; identité exacte des builds SAGE : `to_verify` |
+| Périmètre commercial « France / X.25 privés » (pas Europe entière) | `personal_memory` / medium — à croiser chiffre d’affaires / listes clients |
+
 ### 4.2 StarX25 — surface technique
 
 **StarX25** : produit **pare-feu X.25** (*X.25 Firewall*). Dans le corpus

@@ -182,6 +182,10 @@ nodes:
     function: "aider à gérer et piloter des équipements hétérogènes (souvent X.25 privés)"
     product_kind: management_system
     acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
+    runtime_early:
+      - DOS
+      - DESQview
+    market_scope_memory: "France; private X.25; substantial installed base"
     capacities:
       - network_management_system
       - network_supervision
@@ -190,15 +194,18 @@ nodes:
       - alarms_and_events
       - legacy_interface_mediation
       - vendor_independent_operations
+      - dos_desqview_install_base
     commercial_insight:
       - "vendre au client le pouvoir de négocier face aux constructeurs (hétérogénéité gérable)"
+    standards_context:
+      - "CMIP: good ideas, hard to grasp and implement on period machines"
+      - "installed-base constraint blocked pure CMIP pivot"
     evidence:
-      status: public_trace
-      confidence: high
+      status: personal_memory
+      confidence: medium
       notes: >
-        Nomenclature opérateur : SAGE = management system (distinct de StarX25).
-        Suite Unix : nœud sage_x. Insight négociation :
-        research/perform_fixbugsfirst_technical_debt_negotiation_power.md
+        SAGE vs StarX25. DOS/DESQview base + CMIP testimony 2026-07-26.
+        Unix line: sage_x. Full write-up: perform note §4.1d.
 
   - id: sage_x
     label: "SAGE/X — port Unix de SAGE"
