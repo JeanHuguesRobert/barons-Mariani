@@ -194,10 +194,11 @@ Points à établir :
 id: sagex_emul
 period: perform_period
 product_kind: network_management_system
+acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
 source_status:
-  kind: public_trace
+  kind: personal_memory
   confidence: high
-  comment: "Nomenclature opérateur : SAGE = the management system (distinct de StarX25 = X.25 Firewall). Traces publiques ; Emul = émulation d'opérateur sur interfaces textuelles. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
+  comment: "Acronyme opérateur : SAGE = Système d'Aide à la Gestion d'Equipements hétérogènes (distinct de StarX25 = X.25 Firewall). Traces publiques complémentaires ; Emul = émulation d'opérateur. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
 ```
 
 ### 5.8 Perform DashBoard

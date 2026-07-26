@@ -128,18 +128,23 @@ Jean Hugues Robert, notamment :
 ### 4.0 Distinction produit (autorité opérateur)
 
 ```text
-SAGE     = network management system  (gestion / supervision)
-StarX25  = X.25 Firewall              (pare-feu X.25)
+SAGE     = Système d'Aide à la Gestion d'Equipements hétérogènes
+           (network management system)
+StarX25  = X.25 Firewall
+           (pare-feu X.25)
 ```
 
 Ne pas fusionner les deux sous une seule étiquette « supervision X.25 ».
+L’acronyme **SAGE** porte déjà le cœur de l’offre : **aide à la gestion**
+d’**équipements hétérogènes** (pas un moniteur mono-constructeur).
 
 ### 4.1 SAGE — surface technique
 
-**SAGE** : système de **gestion de réseau** (management system) pour
-environnements **hétérogènes**, en particulier réseaux privés **X.25**, avec
-médiation programmable (voir aussi **Emul** : émulation d’opérateur sur
-interfaces textuelles d’équipements disparates — lignée capacitaire).
+**SAGE** (*Système d’Aide à la Gestion d’Equipements hétérogènes*) : management
+system pour environnements **hétérogènes**, en particulier réseaux privés
+**X.25**, avec médiation programmable (voir aussi **Emul** : émulation
+d’opérateur sur interfaces textuelles d’équipements disparates — lignée
+capacitaire).
 
 ### 4.2 StarX25 — surface technique
 
@@ -150,7 +155,7 @@ possibles du produit firewall, pas un autre produit.
 
 | Élément | `source_status` |
 |---------|-----------------|
-| SAGE = management system ; StarX25 = X.25 Firewall | `personal_memory` (opérateur) / high pour la distinction nominale |
+| SAGE = *Système d'Aide à la Gestion d'Equipements hétérogènes* ; StarX25 = X.25 Firewall | `personal_memory` (opérateur) / high |
 | Mécanismes détaillés StarX25 (call deflection, etc.) | `to_verify` / medium |
 
 ### 4.3 Insight commercial (rétrospectif) — surtout SAGE

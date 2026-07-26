@@ -77,7 +77,7 @@ Forth sur VIC-20
 → LinkOS, noyau multitâche personnel
 → tentative Unix-like avec appels système et fork/exec sur 80286
 → StarX25, pare-feu X.25 (X.25 Firewall ; mécanismes : auth, call deflection, …)
-→ SAGE / Sage/X et Emul, système de gestion / supervision d'équipements hétérogènes
+→ SAGE (Système d'Aide à la Gestion d'Equipements hétérogènes) / Emul
 → DashBoard, transition SNMP/IP/Java/Web
 → Odisei, téléphonie IP logicielle et services distribués
 → l8, descendant contemporain de LinkOS
@@ -97,7 +97,7 @@ Le projet de serveur Minitel multiprocesseur 6809 fut mené avec Jean Vincent, a
 | LinkOS | machine nue | noyau multitâche | orchestrer des tâches |
 | LinkOS / Unix | OS à reconstruire | fork/exec, appels système | exécuter et déléguer des processus |
 | StarX25 | frontière X.25 non fiable | pare-feu X.25 (auth, call deflection, …) | accès conditionnel contrôlé |
-| SAGE / Emul | équipements hétérogènes | management system + émulation | superviser et agir sur des systèmes disparates |
+| SAGE / Emul | équipements hétérogènes | *Système d'Aide à la Gestion d'Equipements hétérogènes* + Emul | superviser et agir sur des systèmes disparates |
 | DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
 | Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
 | FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
@@ -126,8 +126,8 @@ Le souvenir d'une tentative Unix-like sur 80286, avec des appels système de typ
 Distinction d’opérateur (à conserver) :
 
 ```text
-StarX25  = the X.25 Firewall     (pare-feu X.25)
-SAGE     = the management system (gestion / supervision de réseau)
+StarX25  = the X.25 Firewall
+SAGE     = Système d'Aide à la Gestion d'Equipements hétérogènes
 ```
 
 **StarX25** est le produit **pare-feu X.25**. Les mécanismes techniques
@@ -135,10 +135,11 @@ rapportés ailleurs (authentification, call deflection, éventuel langage
 embarqué) sont des **moyens** de ce firewall / de cette passerelle de
 sécurité — pas une invitation à le renommer « autre chose que firewall ».
 
-**SAGE** (Sage/X) est le **système de gestion**. Emul prolonge ce plan
-management : émuler un opérateur derrière écran et clavier pour interagir
-avec les interfaces textuelles d’équipements hétérogènes (alarmes, événements,
-états).
+**SAGE** (Sage/X) est le **Système d’Aide à la Gestion d’Equipements
+hétérogènes** — le *management system*. L’acronyme encode déjà la promesse
+produit (aide à gérer l’**hétérogène**). Emul prolonge ce plan : émuler un
+opérateur derrière écran et clavier pour interagir avec les interfaces
+textuelles d’équipements (alarmes, événements, états).
 
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière

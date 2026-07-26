@@ -176,11 +176,12 @@ nodes:
         Mécanismes détaillés / StarWall : to_verify. Voir note Perform.
 
   - id: sagex_emul
-    label: "SAGE (management system) / Sage/X et Emul"
+    label: "SAGE — Système d'Aide à la Gestion d'Equipements hétérogènes"
     period: "perform_period"
-    role: "network management system — supervision programmable multi-équipements"
-    function: "gérer et piloter des systèmes hétérogènes (souvent X.25 privés)"
+    role: "network management system (SAGE acronym) + Emul"
+    function: "aider à gérer et piloter des équipements hétérogènes (souvent X.25 privés)"
     product_kind: management_system
+    acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
     capacities:
       - network_management_system
       - network_supervision
