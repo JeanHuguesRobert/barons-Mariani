@@ -310,9 +310,11 @@ CMIP            →  bonne architecture papier, mauvais rapport coût/bénéfice
 
 ### 4.1e Emul — langage d’émulation d’opérateur (et LinkOS)
 
-**Emul** : langage développé par l’opérateur (JHR) pour **émuler un opérateur**
-devant écran/clavier d’équipements (interfaces textuelles, alarmes, événements)
-— le bras programmable du plan **SAGE** « hétérogène ».
+**Emul** : nom formé sur **émulation** — automatiser les **actions d’un être
+humain** derrière un **écran/clavier type VT100** (terminal texte), face aux
+équipements hétérogènes (interfaces textuelles, alarmes, événements). Ce n’est
+pas « émuler un CPU » au sens machine virtuelle : c’est **jouer le rôle de
+l’opérateur** — le bras programmable du plan **SAGE**.
 
 | Phase | Implémentation | Notes |
 |-------|----------------|-------|

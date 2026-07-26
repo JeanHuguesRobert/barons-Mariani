@@ -237,7 +237,8 @@ source_status:
 ```yaml
 id: emul_language
 period: perform_period
-role: "operator-emulation language for heterogeneous equipment UIs"
+name_from: "Emulation — automate human actions at a VT100-class screen/keyboard"
+role: "operator-emulation language (not CPU emulator); text terminal automation"
 implementations:
   - Turbo Prolog (first)
   - C/C++ (second; includes multitasking kernel already named LinkOS)

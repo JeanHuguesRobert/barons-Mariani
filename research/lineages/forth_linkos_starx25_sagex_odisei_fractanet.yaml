@@ -102,10 +102,11 @@ nodes:
         Continues via l8 (JS) and later Inox/COP bridges. See perform §4.1e.
 
   - id: emul_language
-    label: "Emul — langage d'émulation d'opérateur"
+    label: "Emul — Emulation (opérateur VT100)"
     period: "perform_period"
-    role: "langage pour émuler un opérateur sur IHM textuelles d'équipements"
-    function: "automatiser l'interaction écran/clavier avec des équipements hétérogènes"
+    name_from: "Emulation — automate a human behind a VT100-class screen/keyboard"
+    role: "langage pour émuler un opérateur humain sur terminal texte"
+    function: "automatiser les frappes/lectures écran/clavier type VT100 sur équipements hétérogènes"
     implementations:
       - Turbo Prolog (first)
       - C/C++ (second; LinkOS multitasking kernel already present)

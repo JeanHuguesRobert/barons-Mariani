@@ -142,11 +142,11 @@ sécurité — pas une invitation à le renommer « autre chose que firewall ».
 le *management system*. L’acronyme encode déjà la promesse produit (aide à
 gérer l’**hétérogène**).
 
-**Emul** est le **langage** d’émulation d’opérateur (écran/clavier, interfaces
-textuelles). Chronologie opérateur : d’abord **Turbo Prolog**, puis **C/C++**
-avec un **noyau multitâche déjà nommé LinkOS** — le même fil de noyau léger
-qui continue via **[l8](https://github.com/JeanHuguesRobert/l8)** (JS) et les
-bridges contemporains (COP, Inox/l9). Voir note Perform §4.1e.
+**Emul** (de **émulation**) : langage pour **automatiser un humain** derrière
+un **écran/clavier type VT100** — pas une émulation de processeur, une
+**émulation d’opérateur**. Chronologie : **Turbo Prolog**, puis **C/C++** avec
+noyau multitâche **LinkOS** → **[l8](https://github.com/JeanHuguesRobert/l8)**
+et bridges COP / Inox. Voir note Perform §4.1e.
 
 **SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (souvenir :
 milieu des années 1990), puis portée sur **IBM AIX** (RS/6000). Ce « X » n’est
