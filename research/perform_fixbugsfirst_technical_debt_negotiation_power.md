@@ -76,6 +76,20 @@ Produits réseau Perform à distinguer (nomenclature opérateur) :
 | **SAGE** (Sage/X, + Emul) | **S**ystème d'**A**ide à la **G**estion d'**É**quipements hétérogènes |
 | **StarX25** | **X.25 Firewall** — pare-feu / contrôle d'accès sur le plan X.25 |
 
+**Double reading of the name *SAGE* (FR + EN):**
+
+| Layer | French | English |
+|-------|--------|---------|
+| **Acronym** | Système d'Aide à la Gestion d'Equipements hétérogènes | System for Aiding the Management of heterogeneous Equipment *(sense translation, not a historical English product name)* |
+| **Ordinary word** | *sage* — wise; related *sagesse* (wisdom) | *sage* — wise person / wise; also the herb, but the moral reading is **wisdom / sound judgment** |
+
+So the brand is not a cold initialism only: in **French** it is already a word (*sage*); in **English** the same spelling still carries *wise / wisdom*. That double charge is why ugly expansions like “SAGCD” fail — they keep the letters and lose the **word**.
+
+```text
+SAGE  =  technical acronym  +  moral promise (be wise: help manage the heterogeneous
+         without becoming captive of a single vendor — and, later, of a single model)
+```
+
 L'insight « indépendance multi-vendeur / pouvoir de négociation » s'attache
 surtout à **SAGE** ; StarX25 est le volet **sécurité frontière** du même
 écosystème (détail §4).

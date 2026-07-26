@@ -141,7 +141,9 @@ sécurité — pas une invitation à le renommer « autre chose que firewall ».
 
 **SAGE** est le **Système d’Aide à la Gestion d’Equipements hétérogènes** —
 le *management system*. L’acronyme encode déjà la promesse produit (aide à
-gérer l’**hétérogène**).
+gérer l’**hétérogène**). En français comme en anglais, **sage** est aussi un
+**mot** (*wise* / wisdom) : double lecture acronyme + sagesse — see Perform note
+(EN table).
 
 **Emul** (de **émulation**) : langage pour **automatiser un humain** derrière
 un **écran/clavier type VT100** — pas une émulation de processeur, une
