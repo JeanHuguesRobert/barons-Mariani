@@ -223,6 +223,25 @@ source_status:
     See research/perform_fixbugsfirst_technical_debt_negotiation_power.md §4.1b.
 ```
 
+### 5.7c Standards context (GDMO / CMIP / SNMP)
+
+```yaml
+id: nms_standards_era
+period: late_1980s_to_mid_1990s
+terms:
+  GDMO: "Guidelines for the Definition of Managed Objects (ISO/IEC 10165-4 / ITU-T X.722)"
+  CMIP_CMIS: "Common Management Information Protocol / Service (OSI)"
+  SNMP: "Simple Network Management Protocol (TCP/IP); first RFCs ~1988–1990"
+source_status:
+  kind: public_trace
+  confidence: high
+  comment: >
+    Memory cue "Guidelines for the Management Of…" ≈ GDMO but exact name is
+    Definition of Managed Objects. SNMP does not "appear" mid-90s — SNMPv1 RFCs
+    1988/1990; mid-90s is NMS product maturity and SNMP vs CMIP/GDMO coexistence.
+    SAGE product binding to either stack: to_verify. See perform note §4.1c.
+```
+
 ### 5.8 Perform DashBoard
 
 ```yaml
@@ -231,7 +250,7 @@ period: late_1990s
 source_status:
   kind: public_trace
   confidence: high
-  comment: "Transition IP, SNMP, Cisco, Java et Web. Stabiliser la chronologie, les fonctionnalités et les sources publiques."
+  comment: "Transition IP, SNMP, Cisco, Java et Web. Stabiliser la chronologie, les fonctionnalités et les sources publiques. SNMP déjà standard IP avant DashBoard."
 ```
 
 ### 5.9 Odisei / IntraSwitch / 8x8

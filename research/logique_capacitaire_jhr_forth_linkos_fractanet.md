@@ -153,6 +153,12 @@ correspond plutôt à l’**apogée concurrentielle** des NMS Unix. Les stations
 **AIX/RS/6000** existent depuis **février 1990** : un port AIX mid-90s est
 plausible. Détail et sources : note Perform §4.1b.
 
+**Normes (même époque, familles distinctes) :** **GDMO** =
+*Guidelines for the Definition of Managed Objects* (objets managés OSI ;
+souvent avec **CMIP/CMIS**). **SNMP** = gestion TCP/IP, RFCs dès **1988–1990**
+— donc déjà là bien avant le mid-90s ; le mid-90s est la **maturité marché**
+NMS (SNMP dominant côté IP, GDMO/CMIP côté télécom). Voir note Perform §4.1c.
+
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière
 (StarX25) vs pilotage (SAGE).

@@ -193,6 +193,53 @@ X.25) : le « X » de SAGE/X renvoie à **Unix**, pas à X.25.
 | Port AIX sur machines IBM (RS/6000) | `personal_memory` / medium ; **plateforme disponible dès 1990** (`public_trace`) |
 | Dates exactes SAGE/X, notes de version, supports Unix précis (HP-UX ? SunOS/Solaris ? AIX only ?) | `to_verify` |
 
+### 4.1c Contexte normes : GDMO, CMIP/CMIS, SNMP
+
+Même « époque » (fin des années 80 → milieu des années 90) : standardisation de la
+**gestion de réseau**, avec **deux familles** qu’il ne faut pas fusionner.
+
+| Sigle | Nom exact (public) | Rôle |
+|-------|--------------------|------|
+| **GDMO** | **Guidelines for the Definition of Managed Objects** (ISO/IEC 10165-4 / ITU-T X.722) | Notations / règles pour **définir des objets managés** (modèle d’information) — surtout monde **OSI / télécom** |
+| **CMIP / CMIS** | Common Management Information Protocol / Service | Protocole / service de gestion **OSI** utilisant ces objets |
+| **SNMP** | Simple Network Management Protocol | Gestion **TCP/IP** « simple » ; MIB, agents ; dominante pratique sur les réseaux IP |
+
+**Nom :** le souvenir « Guidelines for the Management Of… » est **proche** mais
+inexact. Le nom stabilisé est **Guidelines for the Definition of Managed
+Objects** (définition des objets, pas « management of … » au sens titre).
+
+**Chronologie publique (approx.) :**
+
+| Moment | SNMP | GDMO / CMIP |
+|--------|------|-------------|
+| **1988–1990** | Premiers RFC SNMPv1 (**RFC 1065–1067**, 1988 ; suite **RFC 1155/1157**, 1990) | Cadre OSI de gestion d’objets en construction / formalisation (GDMO X.722 dans la famille ISO 10165) |
+| **début → milieu des années 90** | SNMP déjà **déployé** largement ; SNMPv2 en débat / déploiement | GDMO/CMIP **matures** côté télécom ; coexistence concurrentielle avec SNMP dans les grands NMS |
+| **Produits type OpenView / NetView** | Fortement **SNMP** (NNM) | Certaines briques / licences **CMIP** aussi (ex. IBM licence techno HP incluant NNM + CMIP, ~1990) |
+
+**Lecture pour Perform / SAGE :**
+
+```text
+SAGE (hétérogène, X.25, émulation, …)
+  → évolue dans un marché où
+     SNMP  = plan IP « simple » dominant chez beaucoup de clients data
+     GDMO/CMIP = plan objets managés OSI / opérateurs télécom
+SAGE/X (Unix, mid-90s)
+  → coïncide avec la maturité concurrentielle des NMS multi-standards
+    (OpenView, NetView, SunNet Manager…), pas avec « l’invention » de SNMP
+```
+
+**Nuance mémoire :** SNMP n’« apparaît » pas au milieu des années 90 — il
+**apparaît fin des années 80** et est déjà le standard de facto IP au moment du
+port Unix. Le mid-90s, c’est plutôt la **généralisation des plateformes NMS**
+et le **choc SNMP vs CMIP/GDMO** dans les choix d’architecture.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| GDMO = *Guidelines for the Definition of Managed Objects* | `public_trace` / high |
+| SNMP RFCs initiaux ~1988–1990 | `public_trace` / high |
+| Coexistence SNMP / CMIP-GDMO dans les années 90 | `public_trace` / high |
+| Lien exact produit SAGE ↔ GDMO ou SNMP (implémentation) | `to_verify` (archives Perform) |
+
 ### 4.2 StarX25 — surface technique
 
 **StarX25** : produit **pare-feu X.25** (*X.25 Firewall*). Dans le corpus
