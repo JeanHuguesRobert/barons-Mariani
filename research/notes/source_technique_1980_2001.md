@@ -163,18 +163,19 @@ source_status:
   comment: "Pratique de gouvernance de projet (bugs avant features) face à la dette technique avant le nom courant. Traces c2 : FixBugsFirst, JeanHuguesRobert. Suite ops contemporaine : operium/docs/fix-bugs-first.md"
 ```
 
-### 5.6 Star X25 / StarWall
+### 5.6 StarX25 / StarWall (X.25 Firewall)
 
 ```yaml
 id: star_x25
 period: perform_period
+product_kind: x25_firewall
 people:
   - Jean Vincent
   - Jean Hugues Noël Robert
 source_status:
-  kind: to_verify
-  confidence: medium
-  comment: "Passerelle programmable X.25 avec authentification, langage embarqué et call deflection. Rechercher documentation Perform, Star X25, StarWall, brevets, brochures et témoignages."
+  kind: personal_memory
+  confidence: high
+  comment: "Nomenclature opérateur : StarX25 = the X.25 Firewall (distinct de SAGE = management system). Mécanismes (auth, call deflection, langage embarqué, StarWall) et documentation : to_verify."
 ```
 
 Points à établir :
@@ -184,17 +185,19 @@ Points à établir :
 - nature du langage embarqué ;
 - mécanisme précis d'identification et d'authentification ;
 - usage de la call deflection X.25 ;
-- chronologie Star X25 / StarWall.
+- chronologie StarX25 / StarWall ;
+- positionnement commercial « firewall » vs doc technique « gateway ».
 
-### 5.7 Sage/X et Emul
+### 5.7 SAGE / Sage/X et Emul (management system)
 
 ```yaml
 id: sagex_emul
 period: perform_period
+product_kind: network_management_system
 source_status:
   kind: public_trace
   confidence: high
-  comment: "Traces publiques repérées ; documentation interne et citations exactes à relier. Emul aurait permis l'émulation d'un opérateur sur interfaces textuelles d'équipements hétérogènes. Insight commercial (rétrospectif) : vendre le pouvoir de négociation multi-vendeur — voir note Perform/FixBugsFirst."
+  comment: "Nomenclature opérateur : SAGE = the management system (distinct de StarX25 = X.25 Firewall). Traces publiques ; Emul = émulation d'opérateur sur interfaces textuelles. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
 ```
 
 ### 5.8 Perform DashBoard

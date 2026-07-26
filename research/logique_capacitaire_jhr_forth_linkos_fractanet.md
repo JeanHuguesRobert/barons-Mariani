@@ -76,8 +76,8 @@ Forth sur VIC-20
 → projet de serveur Minitel multiprocesseur 6809
 → LinkOS, noyau multitâche personnel
 → tentative Unix-like avec appels système et fork/exec sur 80286
-→ Star X25, passerelle programmable X.25 avec authentification et call deflection
-→ Sage/X et Emul, supervision programmable d'équipements hétérogènes
+→ StarX25, pare-feu X.25 (X.25 Firewall ; mécanismes : auth, call deflection, …)
+→ SAGE / Sage/X et Emul, système de gestion / supervision d'équipements hétérogènes
 → DashBoard, transition SNMP/IP/Java/Web
 → Odisei, téléphonie IP logicielle et services distribués
 → l8, descendant contemporain de LinkOS
@@ -96,8 +96,8 @@ Le projet de serveur Minitel multiprocesseur 6809 fut mené avec Jean Vincent, a
 | Serveur 6809 | faibles moyens | multiprocesseur spécialisé | servir plusieurs sessions |
 | LinkOS | machine nue | noyau multitâche | orchestrer des tâches |
 | LinkOS / Unix | OS à reconstruire | fork/exec, appels système | exécuter et déléguer des processus |
-| Star X25 | réseau fermé ou risqué | authentification + call deflection | accès conditionnel contrôlé |
-| Sage/X / Emul | équipements hétérogènes | langage d'émulation et supervision | agir sur des systèmes disparates |
+| StarX25 | frontière X.25 non fiable | pare-feu X.25 (auth, call deflection, …) | accès conditionnel contrôlé |
+| SAGE / Emul | équipements hétérogènes | management system + émulation | superviser et agir sur des systèmes disparates |
 | DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
 | Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
 | FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
@@ -121,19 +121,28 @@ LinkOS ancien
 
 Le souvenir d'une tentative Unix-like sur 80286, avec des appels système de type Unix et un couple fork/exec possiblement fonctionnel avant l'arrêt du projet au seuil de la mémoire virtuelle, doit être conservé comme témoignage à vérifier, non comme fait externe déjà établi.
 
-## 7. Star X25 et Sage/X
+## 7. StarX25 et SAGE (deux produits)
 
-Star X25 ne doit pas être réduit à un simple firewall X.25.
+Distinction d’opérateur (à conserver) :
 
-Formulation plus juste :
+```text
+StarX25  = the X.25 Firewall     (pare-feu X.25)
+SAGE     = the management system (gestion / supervision de réseau)
+```
 
-> Star X25 était une passerelle programmable de sécurité et de routage X.25, construite autour d'une logique d'authentification, de déflexion d'appel et d'exécution embarquée.
+**StarX25** est le produit **pare-feu X.25**. Les mécanismes techniques
+rapportés ailleurs (authentification, call deflection, éventuel langage
+embarqué) sont des **moyens** de ce firewall / de cette passerelle de
+sécurité — pas une invitation à le renommer « autre chose que firewall ».
 
-Sage/X et Emul prolongent le même motif dans un autre domaine : la supervision et l'action sur des équipements hétérogènes.
+**SAGE** (Sage/X) est le **système de gestion**. Emul prolonge ce plan
+management : émuler un opérateur derrière écran et clavier pour interagir
+avec les interfaces textuelles d’équipements hétérogènes (alarmes, événements,
+états).
 
-Emul permettait, selon le corpus disponible, d'émuler un opérateur derrière écran et clavier afin d'interagir avec les interfaces textuelles d'équipements qui recevaient ou émettaient alarmes, événements et états.
-
-Le point commun est la construction d'un médiateur programmable entre un opérateur humain et un monde technique dispersé.
+Le point commun reste le médiateur programmable entre un opérateur humain et
+un monde technique dispersé — mais **sur deux plans produit** : frontière
+(StarX25) vs pilotage (SAGE).
 
 ### 7.1 Perform, FixBugsFirst, pouvoir de négociation (lecture historique)
 
@@ -144,10 +153,10 @@ Le cadre **Perform** (Aix-en-Provence, 1987–1997) porte deux apports à ne pas
    plus tard *technical debt* : arrêter le treadmill de features, tenir un
    suivi Bug/Feature, réparer d’abord. Traces publiques sur le c2 ; note
    historique dédiée.
-2. **Insight commercial Sage/X** — l’indépendance multi-vendeur n’était pas
-   seulement une prouesse d’intégration : elle vendait au client un **pouvoir
-   de négociation** face aux constructeurs d’équipements (« nous gérons
-   l’hétérogène »).
+2. **Insight commercial SAGE** — l’indépendance multi-vendeur du *management
+   system* n’était pas seulement une prouesse d’intégration : elle vendait au
+   client un **pouvoir de négociation** face aux constructeurs (« nous gérons
+   l’hétérogène »). StarX25 couvre le volet firewall du même écosystème.
 
 La note-source historique (faits, statuts de preuve, prudence) est
 [`perform_fixbugsfirst_technical_debt_negotiation_power.md`](perform_fixbugsfirst_technical_debt_negotiation_power.md).

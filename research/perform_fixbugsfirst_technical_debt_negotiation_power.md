@@ -116,19 +116,40 @@ Jean Hugues Robert, notamment :
 | Pages c2 et formulation publique | `public_trace` / high |
 | Identification exacte des projets « million de lignes » | `to_verify` |
 
-## 4. SAGE / Sage/X — ce qui était vraiment vendu
+## 4. SAGE (management) vs StarX25 (firewall)
 
-### 4.1 Surface technique
+### 4.0 Distinction produit (autorité opérateur)
 
-Supervision / gestion de réseaux **hétérogènes**, en particulier **X.25**
-privés, avec médiation programmable (voir aussi **Emul** : émulation
-d’opérateur sur interfaces textuelles d’équipements disparates — lignée
-capacitaire).
+```text
+SAGE     = network management system  (gestion / supervision)
+StarX25  = X.25 Firewall              (pare-feu X.25)
+```
 
-### 4.2 Insight commercial (rétrospectif)
+Ne pas fusionner les deux sous une seule étiquette « supervision X.25 ».
 
-L’avantage concurrentiel affiché était l’**indépendance multi-vendeur** :
-le client peut gérer un parc **hétérogène**, donc n’est pas captif d’un seul
+### 4.1 SAGE — surface technique
+
+**SAGE** : système de **gestion de réseau** (management system) pour
+environnements **hétérogènes**, en particulier réseaux privés **X.25**, avec
+médiation programmable (voir aussi **Emul** : émulation d’opérateur sur
+interfaces textuelles d’équipements disparates — lignée capacitaire).
+
+### 4.2 StarX25 — surface technique
+
+**StarX25** : produit **pare-feu X.25** (*X.25 Firewall*). Dans le corpus
+capacitaire on le décrit aussi comme passerelle de sécurité (authentification,
+call deflection, éventuel langage embarqué) : ce sont des **mécanismes**
+possibles du produit firewall, pas un autre produit.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| SAGE = management system ; StarX25 = X.25 Firewall | `personal_memory` (opérateur) / high pour la distinction nominale |
+| Mécanismes détaillés StarX25 (call deflection, etc.) | `to_verify` / medium |
+
+### 4.3 Insight commercial (rétrospectif) — surtout SAGE
+
+L’avantage concurrentiel affiché du **management** multi-vendeur : le client
+peut **gérer** un parc **hétérogène**, donc n’est pas captif d’un seul
 constructeur d’équipements.
 
 Formulation plus nette, reconnue **après coup** :
@@ -141,11 +162,14 @@ Formulation plus nette, reconnue **après coup** :
 Autrement dit : le logiciel est le **véhicule** ; le **cargo** est la capacité
 de dire *we don’t care which vendor* — sans perdre la capacité d’opérer.
 
+StarX25 renforce le même écosystème côté **frontière de confiance** (qui entre
+sur le réseau X.25), sans se confondre avec le plan de gestion SAGE.
+
 | Élément | `source_status` |
 |---------|-----------------|
-| Indépendance multi-vendeur comme argument produit Sage/X | `personal_memory` + indices `public_trace` (profils, articles — à citer précisément) / medium–high |
+| Indépendance multi-vendeur comme argument produit SAGE | `personal_memory` + indices `public_trace` / medium–high |
 | Lecture « pouvoir de négociation » comme insight commercial retardé | `personal_memory` / medium (interprétation d’acteur) |
-| Périmètre exact clients / contrats SAGE | `to_verify` |
+| Périmètre exact clients / contrats SAGE vs StarX25 | `to_verify` |
 
 ## 5. Deux moitiés d’une même doctrine
 

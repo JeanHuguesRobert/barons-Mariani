@@ -153,30 +153,36 @@ nodes:
         Pratique Perform : personal_memory. Suite ops : operium/docs/fix-bugs-first.md
 
   - id: star_x25
-    label: "Star X25"
+    label: "StarX25 (X.25 Firewall)"
     period: "perform_period"
-    role: "passerelle programmable X.25, authentification forte, call deflection"
-    function: "contrôler l'accès puis router sous condition"
+    role: "X.25 Firewall — pare-feu / contrôle d'accès sur le plan X.25"
+    function: "sécuriser la frontière du réseau X.25 (auth, call deflection, …)"
+    product_kind: firewall
     people:
       - Jean Vincent
       - Jean Hugues Noël Robert
     capacities:
+      - x25_firewall
       - x25_call_deflection
       - authentication_gateway
       - embedded_programming_language
       - controlled_access_delegation
       - programmable_routing
     evidence:
-      status: to_verify
-      confidence: medium
-      notes: "Chercher traces Star X25 / StarWall / Perform."
+      status: personal_memory
+      confidence: high
+      notes: >
+        Nomenclature opérateur : StarX25 = the X.25 Firewall (distinct de SAGE).
+        Mécanismes détaillés / StarWall : to_verify. Voir note Perform.
 
   - id: sagex_emul
-    label: "Sage/X et Emul"
+    label: "SAGE (management system) / Sage/X et Emul"
     period: "perform_period"
-    role: "supervision programmable d'équipements hétérogènes (réseaux privés X.25)"
-    function: "agir sur des systèmes disparates par émulation et langage"
+    role: "network management system — supervision programmable multi-équipements"
+    function: "gérer et piloter des systèmes hétérogènes (souvent X.25 privés)"
+    product_kind: management_system
     capacities:
+      - network_management_system
       - network_supervision
       - heterogeneous_equipment_control
       - scripted_operator_emulation
@@ -189,8 +195,8 @@ nodes:
       status: public_trace
       confidence: high
       notes: >
+        Nomenclature opérateur : SAGE = the management system (distinct de StarX25).
         Traces publiques (profils, articles). Insight « négociation » :
-        personal_memory documenté dans
         research/perform_fixbugsfirst_technical_debt_negotiation_power.md
 
   - id: dashboard
