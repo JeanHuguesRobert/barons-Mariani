@@ -197,16 +197,17 @@ product_kind: network_management_system
 acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
 runtime_early:
   - DOS
-  - DESQview   # Quarterdeck multitasking under DOS; memory may say "Deskview"
+  - DESQview   # Quarterdeck; multitasking + IPC under DOS; memory may say "Deskview"
+desqview_role: "multitasking layer + Inter-Process Communication (IPC)"
 market_scope_memory: "France; private X.25 networks; substantial installed base"
 source_status:
   kind: personal_memory
   confidence: high
   comment: >
     SAGE acronym + distinct from StarX25. Early/mainline installs: DOS/DESQview
-    before/beside SAGE/X Unix. CMIP judged rich but hard to learn and implement
-    on period machines given that installed base (operator testimony 2026-07-26).
-    See perform note §4.1d. Client lists / build IDs: to_verify.
+    before/beside SAGE/X Unix. DESQview provided multitasking and IPC between
+    processes/tasks — application runtime for SAGE, not mere UI switching.
+    CMIP hard given machines + installed base. See perform note §4.1d.
 ```
 
 ### 5.7b SAGE/X (Unix)

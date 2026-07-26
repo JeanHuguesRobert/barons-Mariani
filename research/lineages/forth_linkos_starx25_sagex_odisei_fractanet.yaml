@@ -184,7 +184,8 @@ nodes:
     acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
     runtime_early:
       - DOS
-      - DESQview
+      - DESQview  # multitasking + IPC under MS-DOS (Quarterdeck)
+    desqview_role: "multitasking layer + Inter-Process Communication"
     market_scope_memory: "France; private X.25; substantial installed base"
     capacities:
       - network_management_system
@@ -195,6 +196,8 @@ nodes:
       - legacy_interface_mediation
       - vendor_independent_operations
       - dos_desqview_install_base
+      - desqview_multitasking
+      - desqview_ipc
     commercial_insight:
       - "vendre au client le pouvoir de négocier face aux constructeurs (hétérogénéité gérable)"
     standards_context:

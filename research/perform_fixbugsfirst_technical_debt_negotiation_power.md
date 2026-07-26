@@ -251,14 +251,24 @@ des objets). Il y avait de **bonnes idées**, mais :
 2. **Difficile à implémenter** sur les machines de l’époque (coût CPU / mémoire /
    complexité d’agent et de manager) ;
 3. **Incompatible avec la contrainte base installée** : Perform avait une base
-   **SAGE sous DOS / DESQview** (multitâche DOS) **conséquente** — à l’échelle
-   de la **France** et de ses **réseaux X.25 privés** du moins.
+   **SAGE sous DOS / DESQview** **conséquente** — à l’échelle de la **France**
+   et de ses **réseaux X.25 privés** du moins.
+
+**DESQview** (souvenir orthographié « Deskview ») : couche **multitâche** sur
+MS-DOS (Quarterdeck), qui permettait aussi de l’**IPC** (*Inter-Process
+Communication*) entre processus/tâches — pas seulement du « time-slicing »
+visuel. Pour un NMS type SAGE, c’était un **runtime applicatif** : plusieurs
+composants (acquisition, IHM, traitements) pouvaient coexister et **échanger**,
+toujours sous la pression des **640 Ko**.
 
 ```text
+MS-DOS 640 Ko
+  + DESQview  →  multitâche + IPC
+  + SAGE      →  gestion d'équipements hétérogènes (souvent X.25)
+
 Monde « standards OSI »     CMIP + GDMO  →  riches, lourds, peu réalistes
-                                              sur le parc client SAGE
-Monde « produit Perform »   SAGE (DOS/DESQview) + hétérogène + X.25
-                         →  livrer de la gestion qui tourne déjà chez le client
+                                              sur ce parc
+Monde « produit Perform »   livrer de la gestion qui tourne déjà chez le client
 ```
 
 Cela éclaire pourquoi une maison comme Perform ne bascule pas « par pureté
@@ -272,7 +282,7 @@ adoption pleine CMIP.
 |---------|-----------------|
 | CMIP = protocole ; bonnes idées mais conceptuel + implémentation lourds | `personal_memory` / high (jugement d’acteur) |
 | Base installée SAGE sous **DOS / DESQview** conséquente (FR, X.25 privés) | `personal_memory` / medium–high |
-| Orthographe / produit : **DESQview** (Quarterdeck) — souvenir orthographié « Deskview » | `public_trace` pour le produit multitâche DOS ; identité exacte des builds SAGE : `to_verify` |
+| **DESQview** = multitâche DOS **+ IPC** (souvenir « Deskview ») | `personal_memory` (rôle pour SAGE) / high ; produit Quarterdeck : `public_trace` |
 | Périmètre commercial « France / X.25 privés » (pas Europe entière) | `personal_memory` / medium — à croiser chiffre d’affaires / listes clients |
 | Guerre des **Ko** sous la barre **640 Ko** MS-DOS (mémoire conventionnelle) | `public_trace` / high (architecture PC) + `personal_memory` opérateur SAGE |
 
