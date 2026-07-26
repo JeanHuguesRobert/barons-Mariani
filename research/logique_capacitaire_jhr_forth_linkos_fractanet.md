@@ -78,6 +78,7 @@ Forth sur VIC-20
 → tentative Unix-like avec appels système et fork/exec sur 80286
 → StarX25, pare-feu X.25 (X.25 Firewall ; mécanismes : auth, call deflection, …)
 → SAGE (Système d'Aide à la Gestion d'Equipements hétérogènes) / Emul
+→ SAGE/X (port Unix, mid-1990s ; puis AIX) — le /X = Unix, pas X.25
 → DashBoard, transition SNMP/IP/Java/Web
 → Odisei, téléphonie IP logicielle et services distribués
 → l8, descendant contemporain de LinkOS
@@ -135,11 +136,15 @@ rapportés ailleurs (authentification, call deflection, éventuel langage
 embarqué) sont des **moyens** de ce firewall / de cette passerelle de
 sécurité — pas une invitation à le renommer « autre chose que firewall ».
 
-**SAGE** (Sage/X) est le **Système d’Aide à la Gestion d’Equipements
-hétérogènes** — le *management system*. L’acronyme encode déjà la promesse
-produit (aide à gérer l’**hétérogène**). Emul prolonge ce plan : émuler un
-opérateur derrière écran et clavier pour interagir avec les interfaces
-textuelles d’équipements (alarmes, événements, états).
+**SAGE** est le **Système d’Aide à la Gestion d’Equipements hétérogènes** —
+le *management system*. L’acronyme encode déjà la promesse produit (aide à
+gérer l’**hétérogène**). Emul prolonge ce plan : émuler un opérateur derrière
+écran et clavier pour interagir avec les interfaces textuelles d’équipements
+(alarmes, événements, états).
+
+**SAGE/X** : le **/X** désigne la version qui **tourne sous Unix** (milieu des
+années 1990, période où HP sort OpenView), puis portée sur **IBM AIX**. Ce
+« X » n’est **pas** celui de X.25 (produit distinct : **StarX25**).
 
 Le point commun reste le médiateur programmable entre un opérateur humain et
 un monde technique dispersé — mais **sur deux plans produit** : frontière

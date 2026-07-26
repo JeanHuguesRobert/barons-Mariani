@@ -188,7 +188,7 @@ Points à établir :
 - chronologie StarX25 / StarWall ;
 - positionnement commercial « firewall » vs doc technique « gateway ».
 
-### 5.7 SAGE / Sage/X et Emul (management system)
+### 5.7 SAGE / Emul (management system)
 
 ```yaml
 id: sagex_emul
@@ -198,7 +198,24 @@ acronym_fr: "Système d'Aide à la Gestion d'Equipements hétérogènes"
 source_status:
   kind: personal_memory
   confidence: high
-  comment: "Acronyme opérateur : SAGE = Système d'Aide à la Gestion d'Equipements hétérogènes (distinct de StarX25 = X.25 Firewall). Traces publiques complémentaires ; Emul = émulation d'opérateur. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
+  comment: "Acronyme opérateur : SAGE = Système d'Aide à la Gestion d'Equipements hétérogènes (distinct de StarX25 = X.25 Firewall). Emul = émulation d'opérateur. Insight négociation multi-vendeur — note Perform/FixBugsFirst."
+```
+
+### 5.7b SAGE/X (Unix)
+
+```yaml
+id: sage_x
+period: mid_1990s_approx
+product_kind: network_management_system_unix
+slash_x_means: Unix
+platforms:
+  - Unix
+  - IBM AIX
+market_context: "HP OpenView era"
+source_status:
+  kind: personal_memory
+  confidence: medium
+  comment: "Le /X de SAGE/X désigne la version tournant sous Unix (milieu des années 1990, période OpenView), puis portée sur AIX. Ne pas confondre le X de /X avec X.25 (StarX25). Dates exactes, notes de version, supports Unix précis : to_verify."
 ```
 
 ### 5.8 Perform DashBoard

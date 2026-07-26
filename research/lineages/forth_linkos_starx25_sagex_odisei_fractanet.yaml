@@ -196,9 +196,33 @@ nodes:
       status: public_trace
       confidence: high
       notes: >
-        Nomenclature opérateur : SAGE = the management system (distinct de StarX25).
-        Traces publiques (profils, articles). Insight « négociation » :
+        Nomenclature opérateur : SAGE = management system (distinct de StarX25).
+        Suite Unix : nœud sage_x. Insight négociation :
         research/perform_fixbugsfirst_technical_debt_negotiation_power.md
+
+  - id: sage_x
+    label: "SAGE/X — port Unix de SAGE"
+    period: "mid_1990s"
+    role: "version de SAGE tournant sous Unix ; /X = Unix (pas X.25)"
+    function: "porter le management system sur plateformes Unix concurrentes d'OpenView"
+    product_kind: management_system_unix
+    slash_x_means: Unix
+    platforms:
+      - Unix (generic mid-1990s)
+      - IBM AIX (port ultérieur)
+    market_context:
+      - "HP OpenView era — bascule marché vers NMS Unix"
+    capacities:
+      - unix_runtime
+      - network_management_system
+      - multi_unix_portability
+      - aix_port
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: >
+        /X = Unix, ~milieu des années 90, période OpenView ; puis port AIX.
+        Dates exactes to_verify. Voir note Perform §4.1b.
 
   - id: dashboard
     label: "Perform DashBoard"

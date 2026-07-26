@@ -146,6 +146,36 @@ system pour environnements **hétérogènes**, en particulier réseaux privés
 d’opérateur sur interfaces textuelles d’équipements disparates — lignée
 capacitaire).
 
+### 4.1b SAGE → SAGE/X (le « /X » = Unix)
+
+Le suffixe **/X** dans **SAGE/X** n’est pas décoratif : il marque le passage à
+la version qui **tourne sous Unix**.
+
+| Champ | Élément (statut) |
+|-------|------------------|
+| Signification de **/X** | version **Unix** de SAGE (`personal_memory` / high) |
+| Période approximative | **milieu des années 1990** (`personal_memory` / medium — à croiser archives) |
+| Contexte marché | époque où **HP** sort **OpenView** ; bascule concurrentielle vers les plateformes Unix de gestion de réseau |
+| Port ultérieur | portage sur machines Unix **IBM (AIX)** (`personal_memory` / medium) |
+
+Lecture courte :
+
+```text
+SAGE     → produit de gestion (ligne antérieure / non-« /X »)
+SAGE/X   → même lignée produit, runtime Unix (mid-1990s)
+         → puis porté sur AIX (IBM)
+```
+
+Ne pas confondre **SAGE/X** (management sous Unix) avec **StarX25** (firewall
+X.25) : le « X » de SAGE/X renvoie à **Unix**, pas à X.25.
+
+| Élément | `source_status` |
+|---------|-----------------|
+| /X = Unix | `personal_memory` / high |
+| ~milieu des années 90 ; coïncidence de période OpenView | `personal_memory` / medium |
+| Port AIX | `personal_memory` / medium |
+| Dates exactes, order forms, notes de version | `to_verify` |
+
 ### 4.2 StarX25 — surface technique
 
 **StarX25** : produit **pare-feu X.25** (*X.25 Firewall*). Dans le corpus
