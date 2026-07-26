@@ -115,6 +115,43 @@ nodes:
       confidence: medium
       notes: "À vérifier par archives personnelles si disponibles."
 
+  - id: perform_company
+    label: "Perform (maison logicielle, Aix-en-Provence)"
+    period: "1987_1997"
+    role: "société d'édition de produits + services (réseau, supervision)"
+    function: "industrialiser les passerelles et la supervision multi-équipements"
+    people:
+      - Jean Hugues Noël Robert
+      # partenaire 50 % — nom à documenter si publication nominative
+    capacities:
+      - product_house
+      - network_management_products
+      - services_around_products
+    commercial_insight:
+      - "indépendance multi-vendeur comme levier de négociation pour le client"
+    evidence:
+      status: personal_memory
+      confidence: medium
+      notes: >
+        Fondation 1987 Aix-en-Provence ; cession au partenaire 50 % fin 1997.
+        Note historique : research/perform_fixbugsfirst_technical_debt_negotiation_power.md
+
+  - id: fix_bugs_first
+    label: "FixBugsFirst (pratique Perform / c2)"
+    period: "perform_period"
+    role: "gouvernance de projet face à la dette technique avant le nom courant"
+    function: "arrêter les features hors contrôle ; registre Bug/Feature ; réparer d'abord"
+    capacities:
+      - project_control
+      - bug_feature_tracking
+      - quality_before_feature_treadmill
+    evidence:
+      status: public_trace
+      confidence: high
+      notes: >
+        Pages c2 (FixBugsFirst, JeanHuguesRobert, CreepingFeaturitis, …).
+        Pratique Perform : personal_memory. Suite ops : operium/docs/fix-bugs-first.md
+
   - id: star_x25
     label: "Star X25"
     period: "perform_period"
@@ -137,7 +174,7 @@ nodes:
   - id: sagex_emul
     label: "Sage/X et Emul"
     period: "perform_period"
-    role: "supervision programmable d'équipements hétérogènes"
+    role: "supervision programmable d'équipements hétérogènes (réseaux privés X.25)"
     function: "agir sur des systèmes disparates par émulation et langage"
     capacities:
       - network_supervision
@@ -145,10 +182,16 @@ nodes:
       - scripted_operator_emulation
       - alarms_and_events
       - legacy_interface_mediation
+      - vendor_independent_operations
+    commercial_insight:
+      - "vendre au client le pouvoir de négocier face aux constructeurs (hétérogénéité gérable)"
     evidence:
       status: public_trace
       confidence: high
-      notes: "Traces publiques repérées dans profils et articles ; à relier par citations dans une note-source."
+      notes: >
+        Traces publiques (profils, articles). Insight « négociation » :
+        personal_memory documenté dans
+        research/perform_fixbugsfirst_technical_debt_negotiation_power.md
 
   - id: dashboard
     label: "Perform DashBoard"

@@ -245,6 +245,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Concept Extension — Rational Odysseys and The Possible](concepts_rational_odysseys_extension.md)
 - [Démocratisation démocratique des réseaux sociaux](democratisation_democratique_reseaux_sociaux.md)
 - [Logique capacitaire — de Forth et LinkOS à FractaNet](logique_capacitaire_jhr_forth_linkos_fractanet.md)
+- [Perform, FixBugsFirst et le pouvoir de négociation (1987–1997)](perform_fixbugsfirst_technical_debt_negotiation_power.md) *(note historique — dette technique avant le nom, SAGE/X, multi-vendeur)*
 - [Never complain, never explain — accountability démocratique](never_complain_never_explain_accountability.md)
 - [Note-source technique 1980-2001](notes/source_technique_1980_2001.md)
 - [Pluralisation cognitive sous mandat](pluralisation_cognitive_sous_mandat.md)

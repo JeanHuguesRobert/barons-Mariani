@@ -135,6 +135,27 @@ Emul permettait, selon le corpus disponible, d'émuler un opérateur derrière �
 
 Le point commun est la construction d'un médiateur programmable entre un opérateur humain et un monde technique dispersé.
 
+### 7.1 Perform, FixBugsFirst, pouvoir de négociation (lecture historique)
+
+Le cadre **Perform** (Aix-en-Provence, 1987–1997) porte deux apports à ne pas
+écraser dans la seule fiche produit :
+
+1. **FixBugsFirst** — pratique de reprise de contrôle face à ce qui s’appellera
+   plus tard *technical debt* : arrêter le treadmill de features, tenir un
+   suivi Bug/Feature, réparer d’abord. Traces publiques sur le c2 ; note
+   historique dédiée.
+2. **Insight commercial Sage/X** — l’indépendance multi-vendeur n’était pas
+   seulement une prouesse d’intégration : elle vendait au client un **pouvoir
+   de négociation** face aux constructeurs d’équipements (« nous gérons
+   l’hétérogène »).
+
+La note-source historique (faits, statuts de preuve, prudence) est
+[`perform_fixbugsfirst_technical_debt_negotiation_power.md`](perform_fixbugsfirst_technical_debt_negotiation_power.md).
+La suite **opérationnelle** contemporaine de Fix Bugs First vit dans Operium
+(`docs/fix-bugs-first.md`, `backlog/`). La lecture de continuité vers
+Cogentia (indépendance multi-fournisseur / multi-agent) est une **interprétation**,
+pas une identité historique.
+
 ## 8. Odisei comme bifurcation Internet
 
 Odisei marque le passage du réseau transactionnel administré vers l'Internet des services logiciels distribués.

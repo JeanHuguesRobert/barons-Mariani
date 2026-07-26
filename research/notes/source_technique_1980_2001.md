@@ -32,6 +32,7 @@ Documents associés :
 ```text
 research/logique_capacitaire_jhr_forth_linkos_fractanet.md
 research/lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml
+research/perform_fixbugsfirst_technical_debt_negotiation_power.md
 ```
 
 ## 2. Typologie de preuve
@@ -140,6 +141,28 @@ source_status:
   comment: "Appels système de type Unix ; fork/exec fonctionnel selon souvenir ; arrêt avant mémoire virtuelle. Vérifier par archives personnelles ou témoignages contemporains."
 ```
 
+### 5.5b Perform (société) et FixBugsFirst
+
+```yaml
+id: perform_company
+period: 1987_1997
+place: Aix-en-Provence
+source_status:
+  kind: personal_memory
+  confidence: medium
+  comment: "Maison logicielle fondée en 1987 ; cession au partenaire 50 % fin 1997. Note historique dédiée."
+  see: research/perform_fixbugsfirst_technical_debt_negotiation_power.md
+```
+
+```yaml
+id: fix_bugs_first
+period: perform_period
+source_status:
+  kind: public_trace
+  confidence: high
+  comment: "Pratique de gouvernance de projet (bugs avant features) face à la dette technique avant le nom courant. Traces c2 : FixBugsFirst, JeanHuguesRobert. Suite ops contemporaine : operium/docs/fix-bugs-first.md"
+```
+
 ### 5.6 Star X25 / StarWall
 
 ```yaml
@@ -171,7 +194,7 @@ period: perform_period
 source_status:
   kind: public_trace
   confidence: high
-  comment: "Traces publiques repérées ; documentation interne et citations exactes à relier. Emul aurait permis l'émulation d'un opérateur sur interfaces textuelles d'équipements hétérogènes."
+  comment: "Traces publiques repérées ; documentation interne et citations exactes à relier. Emul aurait permis l'émulation d'un opérateur sur interfaces textuelles d'équipements hétérogènes. Insight commercial (rétrospectif) : vendre le pouvoir de négociation multi-vendeur — voir note Perform/FixBugsFirst."
 ```
 
 ### 5.8 Perform DashBoard
