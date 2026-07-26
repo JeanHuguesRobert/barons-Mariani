@@ -73,7 +73,7 @@ Produits réseau Perform à distinguer (nomenclature opérateur) :
 
 | Produit | Rôle |
 |---------|------|
-| **SAGE** (Sage/X, + Emul) | **Management system** — gestion / supervision de réseaux hétérogènes (souvent privés **X.25**) |
+| **SAGE** (Sage/X, + Emul) | **S**ystème d'**A**ide à la **G**estion d'**É**quipements hétérogènes |
 | **StarX25** | **X.25 Firewall** — pare-feu / contrôle d'accès sur le plan X.25 |
 
 L'insight « indépendance multi-vendeur / pouvoir de négociation » s'attache
