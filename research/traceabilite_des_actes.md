@@ -140,6 +140,14 @@ Une trace utile doit permettre de répondre à ces questions :
 - qui en répond ?
 - comment l’acte peut-il être contesté, corrigé ou révoqué ?
 
+### 3.1 bis. Trace négative et absence qualifiée
+
+Une **trace négative** ne prouve pas, par elle-même, une faute ni une intention. Elle enregistre un fait procédural utile : demande sans réponse après un délai défini, réponse incomplète, refus explicite, document annoncé mais non publié, ou impossibilité attestée d’obtenir une information.
+
+Sa fonction est de rendre observable l’absence de suite, sans transformer le silence en culpabilité. Elle doit préciser : la demande initiale, son destinataire, la date, le délai raisonnable retenu, les relances éventuelles, la réponse reçue ou son absence, ainsi que la continuation proposée.
+
+La trace négative empêche que l’absence d’acte, d’explication ou de correction soit absorbée sans mémoire dans une chaîne institutionnelle. Elle est donc un instrument de vigilance et d’imputabilité, non un verdict.
+
 ### 3.2 Imputabilité
 
 L’imputabilité est le rattachement de l’acte à un répondant identifiable : personne, organe, personne morale ou chaîne de validation.
