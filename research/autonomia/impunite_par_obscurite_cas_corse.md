@@ -616,6 +616,14 @@ Rationale:
 - `JeanHuguesRobert/cogentia/research/pipeline.md`
 - `JeanHuguesRobert/cogentia/scripts/cogentia.js`
 
+## 14.1. Micro-cas d’application — logement étudiant à Corte
+
+Le logement étudiant à Corte offre un micro-cas non pénal de l’impunité par obscurité. La tension du marché, le nombre limité de logements CROUS, les demandes non satisfaites et le rôle annoncé de l’Observatoire territorial du logement étudiant sont publiquement documentés. En revanche, il reste difficile d’identifier, de façon consolidée et suivie, les objectifs quantifiés, décisions, budgets, arbitrages, résultats et corrections qui relient les différents acteurs compétents.
+
+L’enjeu n’est pas d’inférer une faute de ce manque de traces. Il est de transformer l’écart entre problème connu et réponse mesurable en questions imputables : qui sait quoi, depuis quand, qui décide, avec quels moyens, selon quels critères, pour quel résultat, et avec quelle correction lorsqu’un résultat est insuffisant.
+
+Ce micro-cas doit être poursuivi dans le document source [PLU de Corte](plu_de_corte.md), dans le projet [Corte Logement Capacitaire](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/projects/corte_logement_capacitaire.md) et dans la note [In deserto](in_deserto.md).
+
 ## 15. Continuation
 
 ### 15.1. Sources à consolider
