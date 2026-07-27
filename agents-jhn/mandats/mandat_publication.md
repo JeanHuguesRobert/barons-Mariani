@@ -76,7 +76,11 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-publication-example"
 agent_id: "agent-jhn-publicateur"
+parent_agent_id: "agent-jhn-root"
+human_gatekeeper_id: "jhn-human"
 scope: "publication_preparation"
+external_action_route: "parent_only"
+budget_route: "parent_only"
 source_documents: []
 target_surface: "github | substack | facebook | other"
 allowed_actions:

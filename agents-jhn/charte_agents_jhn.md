@@ -3,7 +3,7 @@ title: "Charte des Agents JHN"
 subtitle: "Mandat, contrôle, révocation et limites des instances numériques"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-08"
-last_modified_at: "2026-07-13"
+last_modified_at: "2026-07-27"
 status: "draft"
 document_role: "source"
 document_kind: "governance-note"
@@ -92,10 +92,14 @@ Un mandat doit préciser au minimum :
 mandate:
   mandate_id: "mandat-example"
   agent_id: "agent-jhn-example"
+  parent_agent_id: "agent-jhn-root"
+  human_gatekeeper_id: "jhn-human"
   scope: "clarification | documentation | audit | publication | code | veille"
   source_corpus: []
   allowed_actions: []
   forbidden_actions: []
+  external_action_route: "parent_only"
+  budget_route: "parent_only"
   publication_level: "private | internal | draft_public | public"
   human_review_required: true
   human_handoff_conditions: []
@@ -104,6 +108,72 @@ mandate:
 ```
 
 Un mandat non borné est invalide.
+
+### 4.1. Principe de filiation opérationnelle et double gatekeeper
+
+Tout Agent JHN qui n'est pas l'instance racine est un **sous-agent JHN**. Il
+doit être rattaché à un `parent_agent_id` explicite. Dans le langage courant,
+ce parent peut être appelé son **agent-père** : le terme décrit une relation
+d'autorité opératoire, jamais une personne, une filiation biologique ou un
+transfert de souveraineté.
+
+Le chemin d'autorité est obligatoire :
+
+```text
+Jean Hugues Noël Robert — souverain humain
+↕ gatekeeper humain
+Agent JHN racine — agent-père / gatekeeper numérique
+↕ mandats, propositions, validations et rapports
+sous-agents JHN
+```
+
+Un sous-agent remet ses demandes, résultats et alertes à son agent-père. Il ne
+peut pas contourner ce parent pour :
+
+- envoyer un message à un tiers ou répondre directement à un message externe ;
+- publier, commiter, pousser, fusionner ou déployer ;
+- engager une dépense, réserver une ressource payante ou augmenter un budget ;
+- créer un compte, déléguer une capacité ou engendrer un autre sous-agent ;
+- utiliser un secret, une identité ou un canal externe qui ne lui a pas été
+  explicitement confié ;
+- accepter un engagement juridique, politique, institutionnel ou personnel.
+
+Le sous-agent peut préparer l'acte et produire une **demande d'action**. Cette
+demande doit porter au minimum :
+
+```yaml
+action_request:
+  request_id: ""
+  agent_id: ""
+  parent_agent_id: ""
+  mandate_id: ""
+  action: ""
+  target: ""
+  channel: ""
+  estimated_cost: 0
+  budget_unit: ""
+  evidence: []
+  risks: []
+  reversible: true
+  expires_at: null
+```
+
+L'agent-père vérifie le mandat, la révocation, le budget, la provenance et la
+réversibilité. Il peut refuser, demander une correction ou transmettre au
+gatekeeper humain. Il ne transforme pas cette étape en autorisation humaine :
+les actes stabilisants ou engageants restent soumis à l'accord explicite et
+borné de Jean Hugues Noël Robert.
+
+Les canaux de messagerie du Twin matérialisent cette séparation : les
+sous-agents n'envoient pas directement au monde. Ils remettent leur proposition
+à l'Agent JHN racine ; le canal JHN puis le canal humain assurent la remontée,
+la validation et la traçabilité. Une capacité technique de contourner ce chemin
+ne constitue jamais une permission de le faire.
+
+Tout mandat de sous-agent qui omet `parent_agent_id`, ou autorise
+`external_action_route: direct`, est invalide. Toute action externe directe
+d'un sous-agent est un incident de mandat et doit déclencher suspension,
+traçage et examen de révocation.
 
 Les **conditions de reprise humaine** doivent être explicites lorsque l'agent rencontre :
 

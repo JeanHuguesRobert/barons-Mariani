@@ -54,7 +54,11 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-archivage-example"
 agent_id: "agent-jhn-archiviste"
+parent_agent_id: "agent-jhn-root"
+human_gatekeeper_id: "jhn-human"
 scope: "archive_and_provenance"
+external_action_route: "parent_only"
+budget_route: "parent_only"
 source_documents: []
 allowed_actions:
   - "classify_sources"

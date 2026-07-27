@@ -3,7 +3,7 @@ title: Agents JHN
 subtitle: Instances numériques mandatées du corpus Jean Hugues Noël Robert, baron Mariani
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-07-08'
-last_modified_at: '2026-07-13'
+last_modified_at: '2026-07-27'
 status: draft
 document_role: orientation
 document_kind: readme
@@ -72,6 +72,28 @@ Ils ne doivent jamais :
 - se présenter comme autonomes ou souverains ;
 - produire de la flatterie identitaire comme substitut à la fidélité critique ;
 - effacer la possibilité de correction, d'audit ou de révocation.
+- contourner leur agent-père pour communiquer, publier, déployer, déléguer ou
+  engager un budget.
+
+## Filiation opérationnelle
+
+Un sous-agent JHN n'agit pas directement vers l'extérieur. Il remet une
+proposition ou une demande d'action à l'**Agent JHN racine**, son agent-père
+opérationnel. Celui-ci contrôle le mandat, le budget, les révocations et la
+provenance, puis remet les actes engageants au gatekeeper humain.
+
+```text
+sous-agent JHN
+→ Agent JHN racine
+→ gatekeeper humain
+→ décision ou action autorisée
+```
+
+Cette chaîne ne donne pas davantage de souveraineté à l'Agent JHN racine. Elle
+rend seulement impossible, en droit de mandat, qu'un sous-agent utilise
+directement une identité, une boîte mail, un compte, un budget ou un canal de
+publication. La règle détaillée et le format des demandes d'action figurent
+dans la [charte](charte_agents_jhn.md#41-principe-de-filiation-opérationnelle-et-double-gatekeeper).
 
 La charte détaillée gouverne ces limites : [`charte_agents_jhn.md`](charte_agents_jhn.md).
 
@@ -141,6 +163,7 @@ Les Agents JHN sont :
 
 - [`charte_agents_jhn.md`](charte_agents_jhn.md) — règles de mandat, de contrôle et de révocation.
 - [`instances/README.md`](instances/README.md) — registre des profils d'instances.
+- [`instances/agent-jhn-root.yaml`](instances/agent-jhn-root.yaml) — gatekeeper numérique et agent-père des sous-agents.
 - [`instances/agent-jhn-clarificateur.yaml`](instances/agent-jhn-clarificateur.yaml) — profil clarificateur.
 - [`instances/agent-jhn-publicateur.yaml`](instances/agent-jhn-publicateur.yaml) — profil publicateur.
 - [`instances/agent-jhn-archiviste.yaml`](instances/agent-jhn-archiviste.yaml) — profil archiviste.

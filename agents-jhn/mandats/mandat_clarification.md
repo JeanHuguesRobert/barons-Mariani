@@ -52,7 +52,11 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-clarification-example"
 agent_id: "agent-jhn-clarificateur"
+parent_agent_id: "agent-jhn-root"
+human_gatekeeper_id: "jhn-human"
 scope: "clarification"
+external_action_route: "parent_only"
+budget_route: "parent_only"
 source_documents: []
 allowed_actions:
   - "clarify"

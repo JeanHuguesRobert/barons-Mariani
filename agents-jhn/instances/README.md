@@ -38,23 +38,35 @@ Une instance n'est pas une personne. C'est un rôle opératoire borné par :
 - des actions permises ;
 - des actions interdites ;
 - une révocabilité.
+- un parent opératoire explicite lorsqu'il s'agit d'un sous-agent.
 
 ## 2. Instances initiales
 
 Instances de base proposées :
 
 ```text
+agent-jhn-root.yaml
 agent-jhn-clarificateur.yaml
 agent-jhn-archiviste.yaml
 agent-jhn-contradicteur.yaml
 agent-jhn-publicateur.yaml
 ```
 
+`agent-jhn-root.yaml` est le gatekeeper numérique et l'agent-père des instances
+initiales. Il route les demandes ; il n'est pas une autorité humaine de
+substitution.
+
 ## 3. Règle commune
 
 Une instance ne devient active qu'avec un mandat.
 
 Le profil d'instance décrit une capacité potentielle. Le mandat autorise une action effective.
+
+Toute instance autre que `agent-jhn-root` doit déclarer
+`parent_agent_id: agent-jhn-root` ou un autre parent déjà mandaté. Elle ne peut
+disposer d'identifiants directs vers un canal externe ou un moyen de paiement.
+Ses demandes d'envoi, publication, déploiement, délégation ou dépense remontent
+obligatoirement au parent.
 
 ```text
 profil d'instance

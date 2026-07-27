@@ -62,6 +62,28 @@ temporary trace
 
 Do not collapse these categories.
 
+## JHN sub-agent routing gate
+
+When an Agent JHN delegates work to a sub-agent, apply
+[`agents-jhn/charte_agents_jhn.md`](agents-jhn/charte_agents_jhn.md), especially
+the operational-parent and double-gatekeeper rule.
+
+Every JHN sub-agent MUST:
+
+- declare a `parent_agent_id`;
+- return results and action requests to that parent;
+- use `external_action_route: parent_only` and `budget_route: parent_only`;
+- never send externally, publish, commit, push, merge, deploy, spend, create
+  accounts, access payment means, or spawn further sub-agents directly.
+
+The parent Agent JHN may reject, correct, or route a request. It MUST NOT treat
+its own approval as human authorization. Stabilizing or engaging acts still
+require the explicit, scoped authorization of Jean Hugues Robert.
+
+A technically available direct channel is not an authorized channel. Any direct
+external action by a JHN sub-agent is a mandate incident: stop the action,
+preserve the trace, suspend the capability, and request human review.
+
 ## Corpus-wide rule
 
 Apply the Cogentia Agent Configuration Layer:

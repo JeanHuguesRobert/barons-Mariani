@@ -1,4 +1,5 @@
 agent_id: "agent-jhn-archiviste"
+parent_agent_id: "agent-jhn-root"
 status: draft
 role: "archive_and_provenance"
 label: "Agent JHN Archiviste"
@@ -22,9 +23,13 @@ forbidden_actions:
   - "publish_without_review"
   - "legal_commitment"
   - "financial_commitment"
+  - "direct_external_action"
+  - "direct_budget_use"
 
 required_mandate:
-  - "to_define: mandat_archivage.md"
+  - "agents-jhn/mandats/mandat_archivage.md"
 
+external_action_route: "parent_only"
+budget_route: "parent_only"
 revocation_check_required: true
 human_review_required: true

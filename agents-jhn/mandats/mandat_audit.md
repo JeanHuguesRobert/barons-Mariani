@@ -54,7 +54,11 @@ L'agent ne doit pas :
 ```yaml
 mandate_id: "mandat-audit-example"
 agent_id: "agent-jhn-contradicteur"
+parent_agent_id: "agent-jhn-root"
+human_gatekeeper_id: "jhn-human"
 scope: "audit"
+external_action_route: "parent_only"
+budget_route: "parent_only"
 source_documents: []
 allowed_actions:
   - "flag_contradictions"
