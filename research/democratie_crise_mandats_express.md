@@ -3,8 +3,8 @@ title: "Mandats express et démocratie capable de crise"
 subtitle: "Répondre à l’objection de lenteur démocratique sans ouvrir la voie à l’état d’exception tyrannique"
 author: "Jean Hugues Noël Robert"
 status: "document source — souverain — doctrinal — politique — académique"
-version: "0.3"
-date: "2026-06-12"
+version: "0.4"
+date: "2026-07-31"
 license: "CC BY-SA 4.0"
 language: "fr"
 repository: "barons-Mariani"
@@ -55,7 +55,7 @@ classification_confidence: "medium"
 
 **Répondre à l’objection de lenteur démocratique sans ouvrir la voie à l’état d’exception tyrannique**
 
-Document source souverain — version 0.3
+Document source souverain — version 0.4
 
 ## Résumé
 
@@ -953,6 +953,49 @@ retour d’expérience
 → mise à jour du corpus
 → produit décliné public éventuel
 ```
+
+
+### Étape 6 — Reprise effective, correction et garde de souveraineté
+
+Une simulation utile prépare l’action ; elle ne prouve pas à elle seule qu’une
+capacité de continuité existe. L’épreuve décisive est la reprise effective,
+dans un scénario proportionné mais réellement contraignant : perte d’un
+fournisseur, indisponibilité d’un site, compromission d’un compte
+d’administration, rupture de réseau ou indisponibilité d’un opérateur.
+
+L’échec d’une procédure supposée fiable ne doit pas être masqué. Il révèle une
+dépendance et impose une correction. Mais il ne doit pas non plus devenir le
+prétexte d’une capture durable des données, des clés, des machines ou du
+pouvoir de décision.
+
+La continuité critique peut donc relever elle-même d’un mandat express
+préparé en temps ordinaire. Ce mandat doit notamment définir :
+
+- le déclencheur objectivable et la preuve requise ;
+- les rôles habilités à activer la reprise ;
+- les actes autorisés : isoler, restaurer, basculer, migrer ou engager une
+  dépense plafonnée ;
+- les actes interdits : extension indue des accès, conservation indue de
+  données, engagement irréversible ou appropriation des moyens de reprise ;
+- la durée, les plafonds, les traces renforcées et la révocation ;
+- la clôture automatique, l’audit, la réparation et le retour d’expérience.
+
+La souveraineté ne réside donc pas dans une promesse d’infaillibilité. Elle se
+mesure par la capacité démontrée de reprendre la main après un échec, sans
+faire de l’urgence une source autonome et permanente de pouvoir.
+
+Formule complémentaire :
+
+```text
+La crise doit être prouvée.
+La reprise doit être éprouvée.
+Le retour au régime ordinaire est automatique.
+```
+
+Cette logique peut être évaluée par des scénarios de continuité documentés :
+non pour distribuer des labels abstraits, mais pour établir quels moyens ont
+réellement été restaurés, dans quel délai, avec quelle perte, quelles
+dépendances révélées et quelles corrections décidées.
 
 ## 19. Formules sources
 
