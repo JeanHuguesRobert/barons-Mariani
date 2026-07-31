@@ -1,13 +1,13 @@
 ---
-title: "Corsica2038 — Capacité territoriale d'expérimentation gouvernée"
-subtitle: "Note-source pour une autonomie de capacité et la double assistance IA"
+title: "Corsica2038 — Territorial Capacity for Governed Experimentation"
+subtitle: "A source note for Autonomy of Capacity and dual AI assistance"
 author: "Jean Hugues Noël Robert"
 date: "2026-07-31"
-version: "0.1-source"
+version: "0.2-source"
 status: "working-paper"
 document_role: "source"
 document_kind: "political-and-implementation-note"
-language: "fr"
+language: "en"
 license: "CC BY-SA 4.0"
 visibility: "public"
 lifecycle_state: "working"
@@ -22,118 +22,126 @@ external_related_documents:
   - "cogentia/research/conversations_gouvernees_effets_durables.md"
 ---
 
-# Corsica2038 — Capacité territoriale d'expérimentation gouvernée
+# Corsica2038 — Territorial Capacity for Governed Experimentation
 
-## Thèse
+## Status and directive
 
-La Corse ne doit pas demander seulement un statut ou un transfert nominal de compétences. Elle doit obtenir et exercer une **capacité territoriale d'expérimentation gouvernée** : la possibilité d'essayer, d'évaluer, de corriger, de transmettre ou d'arrêter des solutions répondant à des besoins corses.
+This is a source note, not a promotional text. Any agent deriving a publication, political brief, software requirement, or pilot charter from it **MUST** preserve the political invariants below. It **MUST NOT** present Corsica as a test-bed for external platforms, or imply that an AI system has political sovereignty.
 
-Cette capacité concrétise l'**Autonomie de Capacité** et refuse deux dérives :
+A derived product **MUST** cite this note and `corsica2038_contre_rapport_pruspettiva2050.md` as its source documents.
 
-- l'**autonomie de papier** : un statut ou des compétences sans moyens réels, sans exécution et sans contrôle ;
-- l'**autonomie capturable** : davantage de pouvoir local sans davantage de traçabilité, d'imputabilité, de recours et de contrôle démocratique.
+## Thesis
 
-Formule de référence :
+Corsica must not ask only for a status or nominal transfer of competences. It must obtain and exercise a **territorial capacity for governed experimentation**: the ability to try, evaluate, correct, transmit, or stop solutions that answer Corsican needs.
 
-> **Pas davantage de pouvoir sans davantage de contrôle. Pas de transfert de compétence sans capacité populaire de comprendre, vérifier et corriger.**
+This makes **Autonomy of Capacity** concrete and rejects two failures:
 
-## 1. Objet de la négociation avec l'État
+- **paper autonomy**: a status or competences without real means, execution, or control;
+- **capturable autonomy**: more local power without more traceability, accountability, remedies, and democratic control.
 
-L'objectif n'est pas de faire de la Corse un terrain d'essai pour des plateformes extérieures.
+Reference formula:
 
-L'objectif est qu'elle puisse organiser, à échelle humaine et sous contrôle démocratique, des expérimentations :
+> **No additional power without additional control. No transfer of competence without the public capacity to understand, verify, and correct its use.**
 
-- utiles aux personnes, communes et collectifs ;
-- réversibles et évaluées ;
-- fondées sur des infrastructures, compétences et données gouvernables localement ;
-- compatibles avec les droits fondamentaux et les garanties nationales ;
-- transférables si elles font leurs preuves, abandonnées si elles échouent.
+## 1. Negotiation objective with the French State
 
-Une révision constitutionnelle et une loi organique ne suffisent pas à produire ces capacités. Elles peuvent cependant créer le cadre durable qui permet à la Corse d'en assumer la gouvernance et d'en rendre compte.
+The objective is not to make Corsica an experimental ground for outside platforms.
 
-## 2. La double assistance
+The objective is to let Corsica govern human-scale, democratically controlled experiments that are:
 
-### Une IA pour tous
+- useful to people, communes, and collectives;
+- reversible and evaluated;
+- based on locally governable infrastructures, skills, and data;
+- compatible with fundamental rights and national guarantees;
+- transferable when proven, abandoned when they fail.
 
-Une assistance commune pour les communes, associations, institutions et communs : comprendre les dossiers, conserver les actes, rendre les informations accessibles, comparer des options, suivre les engagements, préparer des consultations et faciliter le contrôle citoyen.
+A constitutional reform and an organic law cannot by themselves create these capacities. They can nevertheless provide the durable framework in which Corsica governs them and accounts for their use.
 
-### Une IA pour chacun
+## 2. Dual assistance
 
-Une assistance personnelle, sous le contrôle de son principal : mémoire gouvernée, aide à comprendre, à formuler, à agir et à transmettre ; jamais une substitution à sa décision ni une appropriation de sa vie numérique par un fournisseur.
+### AI for all
 
-Les Cogentia Digital Twins sont le support matériel et logiciel de cette double assistance. Dans une présentation publique, ils viennent après la promesse lisible : une aide commune et une aide personnelle, toutes deux sous contrôle humain.
+A common assistance for communes, associations, institutions, and commons: understanding files, retaining acts, making information accessible, comparing options, monitoring commitments, preparing consultations, and enabling citizen oversight.
 
-## 3. Borne démocratique et anti-capture
+### AI for each person
 
-Les expérimentations doivent respecter une charte minimale :
+A personal assistance under the principal's control: governed memory and help to understand, formulate, act, and transmit. It must never substitute the person's decision or let a provider appropriate the person's digital life.
 
-1. participation volontaire lorsque le service touche une personne ;
-2. mandat explicite, périmètre borné et révocation possible ;
-3. agents IA consultatifs, jamais titulaires d'une voix politique ;
-4. décision politique réservée aux êtres humains vivants ;
-5. données minimisées, protégées, exportables et séparées entre sphères personnelle et collective ;
-6. publication des règles, des critères, des marchés, des responsables et des évaluations, sous réserve des protections nécessaires ;
-7. voies de correction, d'objection et de recours ;
-8. droit de sortie pour les usagers et les collectivités ;
-9. évaluation des effets réels, pas seulement des tableaux de bord produits par le système ;
-10. aucune notation sociale, aucun score civique, aucune automatisation d'une décision opposable sans répondant humain compétent.
+Cogentia Digital Twins are the material and software implementation of this dual assistance. In public communication, they come after the readable promise: common assistance and personal assistance, both under human control.
 
-## 4. Premiers pilotes crédibles
+## 3. Democratic and anti-capture boundary
 
-| Pilote | Capacité démontrée | Effet réel à vérifier |
+Every pilot **MUST** comply with this minimum charter:
+
+1. voluntary participation where a service affects a person;
+2. explicit mandate, bounded scope, and revocation path;
+3. AI agents remain consultative and **MUST NOT** hold political votes;
+4. political decisions remain reserved for living human beings;
+5. data is minimised, protected, exportable, and separated between personal and collective spheres;
+6. rules, criteria, procurement, accountable parties, and evaluations are published, subject to necessary protections;
+7. correction, objection, and remedy paths exist before deployment;
+8. users and communes have an exit right;
+9. evaluation measures real effects, not merely system-generated dashboards;
+10. no social scoring, civic score, or automated opposable decision without a competent accountable human.
+
+Any proposal that fails these conditions **MUST NOT** be presented as a Corsica2038 pilot.
+
+## 4. Credible first pilots
+
+| Pilot | Capacity demonstrated | Real effect to verify |
 |---|---|---|
-| Commune capable | lecture et suivi des actes, budgets, marchés et demandes locales | habitants et élus mieux capables de vérifier et de corriger |
-| Assistance personnelle d'autonomie | appui aux démarches, mémoire et compréhension | personne moins seule face à une procédure, sans perte de contrôle |
-| École Mariani de l'autonomie | formation à comprendre, configurer, contester et quitter les outils | compétences effectivement transmises |
-| Rossignol Node / FractaVolta | chaîne locale énergie-eau-usage-trace | mesure d'un service rendu à un vivant et d'une ressource effectivement mobilisée |
-| Consultation traçable | séparation entre contributions, synthèse, décision et suites | avis non décoratifs et traitement publiquement lisible |
+| Capable commune | Reading and tracking acts, budgets, procurement, and local requests | Inhabitants and elected officials are more able to verify and correct |
+| Personal autonomy assistance | Support for procedures, memory, and understanding | A person is less alone before a procedure without losing control |
+| Mariani School of Autonomy | Training to understand, configure, challenge, leave, and transmit tools | Skills are actually transmitted |
+| Rossignol Node / FractaVolta | Local energy-water-use-trace chain | A service to a living being and a resource actually used are measured |
+| Traceable consultation | Separation of contributions, synthesis, decision, and follow-up | Contributions are not decorative and their treatment is publicly legible |
 
-Le critère de réussite n'est pas l'effet de vitrine. Chaque pilote doit produire son « Rossignol » : un point d'incarnation modeste, mesurable et vérifiable où l'on peut constater que la chaîne se ferme sur le réel.
+The success criterion is not a showcase effect. Every pilot **MUST** produce its “Rossignol”: a modest, measurable, verifiable point where the chain closes on reality.
 
-## 5. Séquence politique 2026
+## 5. 2026 political sequence
 
-La séquence constitutionnelle et sénatoriale rend cette proposition immédiatement utile. La campagne ne doit pas promettre que la réforme résoudra à elle seule les problèmes corses.
+The constitutional and senatorial sequence makes this proposal immediately useful. The campaign **MUST NOT** promise that institutional reform alone will solve Corsica's problems.
 
-Elle doit demander un mandat clair :
+It asks for a clear mandate:
 
-> **Donner à la Corse le pouvoir d'expérimenter ce qui la rend capable, et l'obligation de rendre des comptes sur ce qu'elle fait de ce pouvoir.**
+> **Give Corsica the power to experiment with what makes it capable, and the obligation to account for what it does with that power.**
 
-Deux travaux doivent avancer ensemble :
+Two tracks **MUST** proceed together:
 
-- négocier un cadre institutionnel qui protège une capacité d'expérimentation et de gouvernance locale ;
-- lancer dès maintenant, dans le droit commun disponible, des démonstrateurs modestes et vérifiables.
+- negotiate an institutional framework that protects territorial experimentation and local governance;
+- start modest, verifiable demonstrators under available ordinary law.
 
-Ainsi, l'autonomie ne reste pas suspendue à une promesse juridique ; elle se prouve progressivement par des capacités déjà construites.
+Autonomy is therefore not suspended on a legal promise. It is demonstrated progressively through capacities already built.
 
-## 6. Déclinaisons immédiates
+## 6. Immediate public formulations
 
-### Formule grands électeurs
+### Grand electors
 
-> Je ne demande pas que la Corse devienne le laboratoire de plateformes qui lui échapperaient. Je demande qu'elle ait le pouvoir d'expérimenter, sous contrôle, les outils qui rendront ses communes et ses habitants moins dépendants.
+> I do not ask for Corsica to become a laboratory for platforms beyond its control. I ask for it to have the power to experiment, under control, with tools that make its communes and inhabitants less dependent.
 
-### Formule courte
+### Short formula
 
-> **Une autonomie de papier donne le droit de vouloir. Une autonomie de capacité donne les moyens de faire, de contrôler et de corriger.**
+> **Paper autonomy grants the right to wish. Autonomy of Capacity gives the means to act, control, and correct.**
 
-### Formule IA
+### AI formula
 
-> **Une IA pour tous n'est pas une IA sur tous. Une IA pour chacun n'est pas chacun seul devant son écran.**
+> **AI for all is not AI over everyone. AI for each person is not each person alone before a screen.**
 
-## 7. Produits déclinés à produire
+## 7. Required derived products
 
-À partir de cette note et de `corsica2038_contre_rapport_pruspettiva2050.md` :
+From this note and `corsica2038_contre_rapport_pruspettiva2050.md`, agents **MUST** produce the following as separate, audience-specific products:
 
-- fiche recto-verso pour grands électeurs ;
-- note parlementaire sur la capacité territoriale d'expérimentation ;
-- article Substack : « La Corse : laboratoire ou banc d'essai ? » ;
-- discours de terrain de cinq minutes ;
-- charte d'un premier pilote communal ;
-- cahier d'exigences logiciel Cogentia / COP / Inseme ;
-- matrice publique de suivi des pilotes : mandat, coût, responsables, données, effets attendus, effets observés, contestations, décision de poursuite ou d'arrêt.
+- a two-page brief for grand electors;
+- a parliamentary note on territorial capacity for governed, reversible, evaluated experimentation;
+- a Substack article: *Corsica: laboratory or test-bed?*;
+- a five-minute field speech;
+- a first communal-pilot charter;
+- a public pilot monitoring matrix: mandate, cost, accountable parties, data, expected/observed effects, objections, and continue-or-stop decision;
+- a Cogentia / COP / Inseme software requirements brief.
 
 ## Continuation
 
-- vérifier la traduction juridique exacte de chaque levier institutionnel et son articulation avec le texte constitutionnel en cours ;
-- décliner le cahier d'exigences logiciel en issues Cogentia, Inseme et FractaVolta ;
-- choisir un premier pilote de taille modeste et le soumettre à une revue contradictoire ;
-- publier les produits déclinés en citant cette note et le document source Corsica2038.
+- verify the exact legal translation of every institutional lever and its relationship with the constitutional text in progress;
+- derive implementation issues for Cogentia, Inseme, and FractaVolta;
+- select a modest first pilot and submit it to adversarial review;
+- publish derived products with explicit source links.
