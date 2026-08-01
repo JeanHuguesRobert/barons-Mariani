@@ -4,8 +4,8 @@ subtitle: "Personnalité morale, souveraineté humaine et traçabilité des agen
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A. — Corte, Corsica"
 date: "2026-07-27"
-last_modified_at: "2026-07-27"
-version: "0.1.0"
+last_modified_at: "2026-08-01"
+version: "0.1.1"
 status: "working paper — source provisoire à validation humaine"
 document_role: "source"
 document_kind: "research-paper"
@@ -57,9 +57,9 @@ tags:
 
 **Jean Hugues Robert, baron Mariani**  
 Institut Mariani / C.O.R.S.I.C.A. — Corte, Corsica  
-Working paper v0.1.0 — 27 juillet 2026
+Working paper v0.1.1 — 1er août 2026
 
-> **Proposition centrale.** Une Digital Person ne doit pas être conçue comme une personne humaine artificielle, ni comme une simple extension juridiquement indifférenciée de la personne qu’elle représente. Elle doit être organisée comme un mandataire cognitif persistant, juridiquement porté par une personne morale ou agissant explicitement pour son compte, sous l’autorité révocable d’un mandant humain ou collectif.
+> **Proposition centrale.** Une Digital Person ne doit pas être conçue comme une personne humaine artificielle, ni comme une simple extension juridiquement indifférenciée de la personne qu’elle représente. Elle doit être organisée comme un mandataire cognitif persistant sous l’autorité révocable d’un mandant humain ou collectif. Lorsqu’elle produit des effets institutionnels, financiers, contractuels, matériels ou publics engageants, son action doit en outre être rattachée à un porteur juridique identifiable, le plus souvent une personne morale, ou à un mandant habilité.
 
 ## Résumé
 
@@ -69,7 +69,7 @@ Une **Digital Person** est ici une organisation cognitive persistante : corpus, 
 
 L’hypothèse forte proposée est double :
 
-1. une Digital Person durable doit être juridiquement organisée comme, ou par, une **personne morale** ;
+1. toute capacité numérique durable produisant des effets engageants doit être juridiquement rattachable à un **porteur identifiable**, souvent une personne morale ;
 2. seule une **personne physique** peut détenir une voix dans la souveraineté politique.
 
 Le premier axiome réutilise l’appareillage déjà disponible du droit des personnes morales : identité enregistrée, patrimoine distinct, représentants, comptabilité, contrats, déclarations, responsabilité, sanctions, dissolution et transmission. Le second interdit que la puissance de calcul, le capital, les données ou la réplication d’agents soient convertis en voix politiques. Les personnes non physiques peuvent proposer, agir, exécuter, rendre compte, être contrôlées et sanctionnées ; elles ne votent pas.
@@ -80,9 +80,9 @@ Cette proposition ne crée pas une personnalité juridique autonome pour un mod�
 
 ## Abstract
 
-This paper proposes a third path between treating AI as a passive tool and granting autonomous legal personhood to machines. A Digital Person is defined as a persistent cognitive organisation: corpus, memory, addresses, agents, tools, accounts, mandates, traces and resumption procedures. It should be organised as, or act through, a legal person while remaining a revocable mandatary of a living person or a legitimate collective.
+This paper proposes a third path between treating AI as a passive tool and granting autonomous legal personhood to machines. A Digital Person is defined as a persistent cognitive organisation: corpus, memory, addresses, agents, tools, accounts, mandates, traces and resumption procedures. It remains a revocable mandatary of a living person or legitimate collective; consequential institutional, financial, contractual, material or public actions must be tied to an identifiable legal carrier or authorized principal.
 
-The proposal rests on two axioms: durable Digital Persons require a legal-person vehicle; only natural persons may hold political votes. The first reuses established corporate and nonprofit law: registered identity, separate assets, representatives, accounting, contracts, reporting, liability, sanctions, dissolution and succession. The second prevents computational power, capital, data or agent replication from being converted into political sovereignty. COP and DHITL operationalise those constraints through versioned mandates, budgets, ledgers, evidence, revocation and replayable traces.
+The proposal rests on two axioms: consequential durable digital capacities require an identifiable legal carrier or authorized principal; only natural persons may hold political votes. The first reuses established corporate and nonprofit law: registered identity, separate assets, representatives, accounting, contracts, reporting, liability, sanctions, dissolution and succession. The second prevents computational power, capital, data or agent replication from being converted into political sovereignty. COP and DHITL operationalise those constraints through versioned mandates, budgets, ledgers, evidence, revocation and replayable traces.
 
 ## 1. Statut, portée et méthode
 
@@ -93,7 +93,7 @@ Il s’inscrit dans la seconde méthode : rendre les hypothèses explicites, les
 Trois niveaux doivent rester distincts :
 
 - **Droit positif** : les droits et obligations actuellement applicables aux personnes physiques, personnes morales, représentants, fournisseurs et déployeurs de systèmes d’IA.
-- **Hypothèse d’architecture** : organiser une Digital Person à travers une personnalité morale et des mandats vérifiables.
+- **Hypothèse d’architecture** : organiser une Digital Person par des mandats vérifiables et, lorsque ses effets l’exigent, par un porteur juridique identifiable.
 - **Proposition normative** : réserver strictement la souveraineté politique aux personnes physiques.
 
 ## 2. Le problème : capacité sans cadre, ou cadre sans capacité
@@ -122,7 +122,7 @@ Elle peut comporter :
 - des journaux d’actes, preuves et rapports ;
 - des procédures de suspension, hibernation, restauration, remplacement et succession.
 
-Cette organisation peut être personnelle, civique, institutionnelle ou productive. Lorsqu’elle agit durablement dans le monde — détient un actif, conclut un contrat, gère des fonds, publie sous une identité institutionnelle, emploie une infrastructure ou rend un service — elle doit pouvoir être rattachée à une personne morale existante ou créée à cette fin.
+Cette organisation peut être personnelle, civique, institutionnelle ou productive. Une instance personnelle peut assister son mandant dans une sphère privée ou non engageante sous le mandat direct de la personne physique, sans prétendre disposer d’une personnalité juridique distincte. Lorsqu’elle agit durablement dans le monde — détient un actif, conclut un contrat, gère des fonds, publie sous une identité institutionnelle, emploie une infrastructure ou rend un service — elle doit pouvoir être rattachée à une personne morale existante ou créée à cette fin, ou à un mandant légalement habilité.
 
 La formule « Digital Person = personne morale » est une **règle d’organisation**, non une affirmation anthropologique. Elle signifie :
 
@@ -152,11 +152,14 @@ La chaîne de responsabilité proposée est la suivante :
 
 ~~~text
 personne physique ou collectif légitime
-  → mandant
-    → Digital Person / TwinRoot
-      → personne morale et constitution
-        → AgentInstance
-          → AgentExecution, modèle, outil ou humain
+  → mandant et constitution
+    → TwinRoot / Digital Person
+      → AgentInstance
+        → AgentExecution, modèle, outil ou humain
+
+porteur juridique, lorsque l’acte l’exige
+  → personne morale ou mandant habilité
+    → mandat d’action engageante
 ~~~
 
 Les niveaux ne doivent pas être confondus.
@@ -175,7 +178,7 @@ Cette précision préserve les travaux existants sur les instances personnelles 
 
 Le premier axiome peut être formulé ainsi :
 
-> **Toute Digital Person qui agit durablement dans le monde doit être portée par une personne morale ou agir sous le mandat explicite d’une personne morale identifiable.**
+> **Toute capacité numérique qui produit des effets juridiques, financiers, matériels, institutionnels ou publics engageants doit être rattachée à un mandant ou porteur juridique identifiable, avec un mandat explicite, borné et contrôlable.**
 
 Il ne dit pas qu’un modèle de langage possède des droits humains. Il ne dit pas non plus qu’un agent peut signer n’importe quel contrat sans contrôle. Il impose au contraire qu’une capacité durable soit située dans un régime de droits et devoirs préexistants.
 
