@@ -1100,6 +1100,11 @@ local memory
 
 Only what must ascend should ascend.
 
+This is not a rule of isolation. A local memory may be retained, replicated or
+elevated when continuity, correction, care, accountability or collective action
+requires it; the relevant boundary crossing should remain explicit and
+proportionate.
+
 ### 19.8 Correction without erasure
 
 Correction should not silently destroy the history of error.
