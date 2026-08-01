@@ -3,8 +3,8 @@ title: "Pluralisation cognitive sous mandat"
 subtitle: "Du sujet singulier aux capacités agentiques distribuées sans dissolution de la responsabilité"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-07-11"
-version: "0.2"
+date: "2026-08-01"
+version: "0.3"
 license: "CC BY-SA 4.0"
 language: "fr"
 status: "working-source — source souveraine consolidée, soumise à validation humaine"
@@ -28,6 +28,7 @@ related_documents:
   - "research/rational_odysseys_the_possible.md"
   - "inseme/research/cop_mission_stigmergy_exploration.md"
   - "inseme/packages/cop-core/Invariants.md"
+  - "inseme/packages/cop-core/Terminology.md"
 related_derived_products:
   - "research/se_demultiplier_pour_explorer_le_possible_blogpost.md — produit décliné pour Les carnets du baron Mariani"
 tags:
@@ -529,7 +530,94 @@ Une mission peut comporter :
 
 Un même agent peut tenir plusieurs rôles dans une mission simple. Les rôles doivent néanmoins rester conceptuellement distincts.
 
-### 6.3 Mission et tâche
+### 6.3 Les quatre ateliers universels — métaphore publique et discipline opérationnelle
+
+La métaphore du **Père Noël pour adultes** est une explication publique, non une catégorie
+juridique ou protocolaire. Une personne ou un collectif formule un souhait ; son jumeau numérique
+le reçoit, mobilise des lutins dans un atelier, puis rend un résultat, des options, une demande
+d’arbitrage ou, lorsque le mandat le permet, l’effet accompli et sa preuve.
+
+Le Père Noël n’est ni magique, ni souverain, ni une personne substitutive. Il est la face relationnelle
+d’une **instance cognitive** : il accueille, explique, synthétise et rend. Le principal — personne
+vivante ou sujet collectif valablement constitué — conserve l’autorité qui ne lui a pas été
+expressément déléguée.
+
+Un **lutin** est un rôle fonctionnel intelligible. Il n’est pas nécessairement une IA, ni une
+personnalité, ni un processus durable. En vocabulaire technique, il correspond ordinairement à un
+profil de handler ; ses incarnations concrètes peuvent être humaines, logicielles, hybrides,
+multiples, brèves ou remplaçables.
+
+Les rôles se regroupent dans quatre ateliers irréductibles :
+
+| Atelier | Nécessité | Lutins fonctionnels |
+|---|---|---|
+| **Comprendre** | Un souhait est souvent incomplet ; il faut le situer dans un contexte, une mémoire et un monde encore partiellement inconnu. | Intendant, Archiviste, Éclaireur |
+| **Préparer** | Une intention n’est pas un résultat ; il faut composer, transformer, calculer, rédiger, prototyper ou organiser. | Artisan |
+| **Garantir** | La capacité technique ne suffit pas à légitimer une action ; il faut vérifier mandat, limites, preuve, coût, secret et révocation. | Gardien, Greffier |
+| **Agir et rendre** | Le résultat doit parvenir au bon destinataire, et l’acte éventuellement accompli doit être rapporté sans se confondre avec une simple intention. | Messager |
+
+Les sept rôles ont un noyau stable :
+
+| Lutin | Fonction | Équivalent technique indicatif |
+|---|---|---|
+| **Intendant** | Clarifie le souhait, propose une mission, répartit le travail et rassemble les retours. | Mission Orchestrator |
+| **Archiviste** | Retrouve, date, relie et conserve les sources, décisions et versions. | Corpus / Context Handler |
+| **Éclaireur** | Explore le monde extérieur, compare les pistes et signale l’incertitude. | Research Handler |
+| **Artisan** | Produit un artefact ou une préparation concrète. | Production Handler |
+| **Gardien** | Contrôle droits, budget, secret, délai, risque et conditions de révocation. | Mandate / Policy Enforcement Point |
+| **Greffier** | Établit les traces de mandat, délégation, acte, effet, réception et correction. | Trace / Evidence Handler |
+| **Messager** | Transmet, publie, dépose ou exécute l’étape finale autorisée, puis rend compte. | Delivery / Effect Handler |
+
+Cette liste n’est pas une obligation d’instancier sept agents. Dans une mission simple, une même
+incarnation peut exercer plusieurs rôles. En revanche, les rôles de production, de contrôle et de
+preuve doivent rester distinguables chaque fois que l’acte est engageant, contestable, coûteux,
+irréversible ou susceptible d’affecter un tiers.
+
+La chaîne d’imputabilité minimale est :
+
+```text
+principal
+→ mandat
+→ rôle de lutin / profil de handler
+→ incarnation exécutante
+→ capacité invoquée
+→ acte ou proposition d’acte
+→ trace, preuve de réception et imputation
+```
+
+Toute sous-délégation doit rester dans le périmètre du mandat parent :
+
+```text
+périmètre(sous-mandat) ⊆ périmètre(mandat parent)
+```
+
+Un lutin superviseur peut créer ou arrêter des sous-lutins éphémères ; cette supervision ne lui
+donne aucune autorité supplémentaire. Une instance peut disparaître ; les mandats, artefacts,
+traces et responsabilités utiles doivent pouvoir subsister.
+
+### 6.4 Personnel et collectif
+
+Les ateliers sont communs, mais leur constitution diffère.
+
+Pour un **jumeau personnel**, le principal vivant conserve normalement le dernier mot ; les
+automatisations ne sont légitimes que dans le périmètre explicite d’un mandat. Le jumeau protège une
+mémoire incarnée et ne doit jamais prétendre être la personne.
+
+Pour un **jumeau collectif**, l’autorité vient d’une constitution, de statuts, de règles de
+membres, d’éligibilité, de délégation ou de vote. Le jumeau rend imputable une continuité d’actes,
+de mandats et de capacités du collectif ; il ne doit jamais feindre d’être sa volonté sans titre
+valable.
+
+Dans les deux cas, aucun lutin ne reçoit par son seul accès au Corpus :
+
+```text
+droit de lecture
+≠ droit de publication
+≠ pouvoir d’exécution
+≠ pouvoir de représentation
+```
+
+### 6.5 Mission et tâche
 
 Une **tâche** exécute une opération définie. Une **mission** explore une région de problème et porte un mandat, des critères de retour, une politique de traces et une finalité.
 
@@ -540,7 +628,7 @@ Mission : déterminer si une architecture d’ownership distribuée peut être i
 
 La mission doit préciser ce qui constitue une fin, un échec, une suspension ou un retour suffisant.
 
-### 6.4 Traces et stigmergie riche
+### 6.6 Traces et stigmergie riche
 
 Les agents se coordonnent de préférence par des traces examinables plutôt que par des dépendances invisibles.
 
