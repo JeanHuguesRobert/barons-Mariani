@@ -3,7 +3,7 @@ title: "Mariani School of Autonomy — deux sites, un même projet patrimonial e
 subtitle: "Minesteggio / Corte et La Maison Blanche / La Gaude"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.1"
+version: "0.2"
 date: "2026-08-08"
 repository: "barons-Mariani"
 path: "research/mariani_school_sites_minesteggio_la_gaude.md"
@@ -431,7 +431,7 @@ Cette orientation rend au moins **plausible** l’exploration d’un partenariat
 
 ---
 
-## 6.2 Antériorité du contact
+## 6.2 Antériorité du contact et continuité institutionnelle
 
 Jean Hugues Robert indique avoir discuté du projet de La Gaude avec Sylvain Lizon peu avant le départ de celui-ci.
 
@@ -442,6 +442,20 @@ Cette information doit donc être conservée sous la forme :
 > **Contact oral antérieur avec Sylvain Lizon au sujet du projet de La Gaude — témoignage JHR, trace écrite non retrouvée.**
 
 Cette précision est importante : le contact peut établir une continuité de projet, mais ne doit pas être transformé rétrospectivement en soutien institutionnel.
+
+Le changement de direction impose désormais une **resynchronisation explicite**. Le projet ne doit pas être présenté à Ulrika Byttner comme la reprise d’un accord acquis sous la direction précédente, mais comme un projet ancien qui a continué à se structurer et qui peut aujourd’hui être réexaminé dans le nouveau contexte de la Villa Arson.
+
+La bonne séquence est donc :
+
+```text
+contact antérieur avec Sylvain Lizon
+→ continuité autonome du projet pendant la transition
+→ resynchronisation avec Damien Ruvet et l’écosystème alumni
+→ identification des interlocuteurs pertinents auprès de la nouvelle direction
+→ proposition d’un premier objet expérimental limité
+```
+
+Cette continuité sans présomption d’engagement institutionnel est cohérente avec une logique d’**optimisme prudent** : conserver les relations et les possibilités ouvertes sans faire porter au nouveau contexte des engagements qui n’ont jamais été formalisés.
 
 ---
 
@@ -468,6 +482,21 @@ La formulation documentaire doit distinguer :
 - relation précise avec Marie-Louise à la Villa Arson ;
 - connaissance approfondie de La Maison Blanche ;
 - accord actuel de principe pour coopérer.
+
+### 6.3.1 Resynchronisation 2026
+
+Une reprise de contact avec Damien est préparée en août 2026. Elle a deux fonctions distinctes.
+
+La première est de lui confirmer que **le cap n’a pas changé** : La Maison Blanche reste destinée à devenir un lieu d’expérimentation artistique, écologique et technologique ; le projet avance plus lentement qu’espéré parce qu’il dépend de la constitution du futur fonds de dotation et qu’il coexiste avec d’autres priorités, mais son architecture s’est au contraire précisée.
+
+La seconde est de mettre à jour la cartographie relationnelle autour de la Villa Arson après la nomination d’Ulrika Byttner :
+
+- Damien connaît-il directement la nouvelle directrice ?
+- a-t-il déjà travaillé avec elle ou avec son équipe ?
+- quels interlocuteurs lui paraissent aujourd’hui les plus pertinents pour un projet de résidence / expérimentation art, écologie et autonomie ?
+- quelle forme de première coopération lui paraît suffisamment légère pour être testée sans attendre une convention institutionnelle ambitieuse ?
+
+Cette étape ne vise pas à faire de Damien un simple intermédiaire. Son intérêt propre pour le lieu et sa capacité de contribution doivent être considérés indépendamment de sa relation éventuelle avec la direction de la Villa Arson.
 
 ---
 
@@ -610,6 +639,51 @@ comprendre l’obligation
 ```
 
 La Maison Blanche devient ainsi un cas pédagogique presque idéal.
+
+---
+
+## 8.4 Antériorité documentaire de la piste incendie
+
+Une pièce documentaire retrouvée en août 2026 dans Google Drive apporte un élément historique important sur la configuration de La Maison Blanche.
+
+Le **6 juillet 2017**, Jean Hugues Robert a adressé au cabinet du maire de La Gaude un document intitulé *« terrain, désordres, voie incendie, domaine de l’étoile, entrée sud »*. Il y écrivait notamment :
+
+> « Une piste incendie a été ouverte en contre bas de chez moi. »
+
+Le même document signalait des mouvements de terrain et des désordres affectant la terrasse, un mur et l’intérieur de la maison, malgré la présence d’un enrochement protecteur.
+
+Cette source établit avec certitude deux faits limités :
+
+1. dès 2017, le propriétaire identifiait la voie située immédiatement en contrebas comme une **« piste incendie »** ;
+2. l’existence de cette piste et les désordres associés ont été **portés à la connaissance du cabinet du maire par écrit**.
+
+En revanche, cette pièce ne démontre pas à elle seule :
+
+- la qualification juridique exacte de la voie comme ouvrage DFCI ;
+- son propriétaire ;
+- son gestionnaire ;
+- l’existence et l’étendue d’une éventuelle servitude ;
+- la personne responsable de son entretien ou des débroussaillements associés ;
+- le lien de causalité juridique entre l’ouverture de la voie et les désordres constatés.
+
+La distinction est importante : la source constitue une **preuve d’antériorité et de connaissance administrative**, non encore une preuve du statut juridique de l’ouvrage.
+
+### 8.4.1 Conséquence pour le dossier OLD 2026
+
+Le courrier municipal du 30 juillet 2026 référencé `MC-2026/175 — OLD-2026/010` concerne explicitement la parcelle AT0045 et mentionne plusieurs zonages PLUm et PPRIF.
+
+Dans ce contexte, l’existence ancienne et documentée de la piste incendie justifie qu’elle soit intégrée à la compréhension matérielle du risque autour du site. Elle ne supprime aucune obligation légale attachée à AT0045, mais elle rend nécessaire de distinguer :
+
+```text
+obligation réglementaire
+→ configuration physique réelle
+→ ouvrages de défense existants
+→ continuités et ruptures de combustible
+→ interventions réellement utiles
+→ préservation maximale compatible avec la sécurité
+```
+
+Le projet expérimental de La Maison Blanche peut donc traiter le débroussaillement comme un problème de conception vérifiable : **atteindre le niveau de sécurité requis sans confondre réduction du risque et simplification arbitraire du paysage**.
 
 ---
 
@@ -797,12 +871,12 @@ Les continuations prioritaires sont :
 2. finaliser le schéma juridique du fonds de dotation Barons Mariani ;
 3. produire une fiche de deux pages sur la Mariani School of Autonomy et ses deux sites ;
 4. produire une fiche spécifique « La Maison Blanche — station expérimentale art, écologie et autonomie » ;
-5. recueillir une trace explicite de l’intérêt actuel de Damien Ruvet ;
-6. reprendre contact avec la Villa Arson sur un objet concret et limité ;
+5. resynchroniser avec Damien Ruvet et documenter son intérêt actuel ainsi que sa connaissance des interlocuteurs de la nouvelle direction de la Villa Arson ;
+6. selon cette resynchronisation, reprendre contact avec la Villa Arson sur un objet concret et limité ;
 7. créer un dossier photographique et technique daté de La Gaude avant toute transformation significative ;
-8. documenter séparément la question OLD, sans confondre le dossier réglementaire avec le projet culturel ;
-9. intégrer les résultats utiles dans `research/ecole_mariani_autonomie_terrains_pilotes.md` ;
-10. indexer cette note dans `research/index.md` après revue.
+8. établir le statut exact de la piste incendie documentée depuis 2017 : ouvrage DFCI ou autre, propriétaire, gestionnaire, servitudes éventuelles et régime d’entretien ;
+9. documenter séparément la question OLD, sans confondre le dossier réglementaire avec le projet culturel ;
+10. intégrer les résultats utiles dans `research/ecole_mariani_autonomie_terrains_pilotes.md` et indexer cette note dans `research/index.md` après revue.
 
 ---
 
@@ -817,6 +891,8 @@ Les continuations prioritaires sont :
 - `research/uchronian_museum.md`
 - DRAC Corse, référence `DRAC-CRMH / 2024-088`, objet « CORTE (2B) – Château Mariani », 12 juin 2024.
 - Échanges entre Jean Hugues Robert et Eléonore Bozzi / DRAC Corse, 2025-2026, relatifs à la finalisation de l’arrêté d’inscription.
+- Google Drive, document JHR du 6 juillet 2017, *« terrain, désordres, voie incendie, domaine de l’étoile, entrée sud »*, adressé au cabinet du maire de La Gaude.
+- Mairie de La Gaude, courrier du 30 juillet 2026, réf. `MC-2026/175 — OLD-2026/010`, parcelle AT0045.
 - Échanges Gmail Jean Hugues Robert / Damien Ruvet / Marie-Louise Robert, 2022-2024.
 
 ### Sources publiques externes
@@ -840,10 +916,11 @@ Les continuations prioritaires sont :
 
 - date et contenu précis de l’échange oral avec Sylvain Lizon ;
 - statut exact du lien entre Damien Ruvet et Marie-Louise à la Villa Arson ;
-- trace écrite de l’intérêt actuel de Damien pour le projet ;
+- trace écrite de l’intérêt actuel de Damien pour le projet et état de ses relations avec la nouvelle direction de la Villa Arson ;
 - existence éventuelle, depuis mars 2026, de l’arrêté final d’inscription MH de Minesteggio ;
 - périmètre exact des biens qui seront transférés ou affectés au futur fonds ;
 - modalités juridiques et techniques applicables aux résidences à La Gaude ;
+- statut juridique exact de la piste incendie mentionnée en 2017, son gestionnaire et les éventuelles servitudes associées ;
 - articulation précise avec les OLD et autres prescriptions de sécurité incendie.
 
 ---
