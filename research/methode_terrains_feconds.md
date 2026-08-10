@@ -1259,6 +1259,7 @@ Formule directrice pour la suite :
 - [Discours de la seconde méthode](second_method.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
+- [The Booster Principle](booster_principle.md)
 - For researchers
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - Jean Hugues Noël Robert, baron Mariani

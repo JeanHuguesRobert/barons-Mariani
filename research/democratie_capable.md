@@ -604,7 +604,10 @@ Commit message possible :
 ### Backlinks
 
 *These documents link to this file:*
+- [La constitution minimale des communs](constitution_minimale_des_communs.md)
+- [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->

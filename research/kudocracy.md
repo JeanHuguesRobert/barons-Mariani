@@ -1186,6 +1186,7 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [Démocratie capable](democratie_capable.md)
+- [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [Projet #1755](autonomia/projet_1755.md)
@@ -1194,5 +1195,6 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Test du critère Rossignol](test_critere_rossignol.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 - Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

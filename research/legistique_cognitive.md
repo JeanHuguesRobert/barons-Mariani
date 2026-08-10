@@ -1224,5 +1224,6 @@ Reste à faire dans une prochaine passe :
 ### Backlinks
 
 *These documents link to this file:*
+- [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

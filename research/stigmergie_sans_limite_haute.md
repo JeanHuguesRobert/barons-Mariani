@@ -198,4 +198,5 @@ continuation:
 - [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Test du critère Rossignol — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
+- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 <!-- END_AUTO: backlinks -->

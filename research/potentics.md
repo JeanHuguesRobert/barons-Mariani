@@ -428,7 +428,10 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 ### Backlinks
 
 *These documents link to this file:*
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [La démocratie spectaculaire](la_democratie_spectaculaire.md)
+- [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)

@@ -528,12 +528,18 @@ continuation:
 
 *These documents link to this file:*
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [In deserto](in_deserto.md)
+- [La constitution minimale des communs](constitution_minimale_des_communs.md)
+- [La personne numérique mandatée](personne_numerique_mandatee.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
+- [Informational Gravity — Contextual Attraction for Cognitive-Packet Routing](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)
+- [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
 - [Self-Contained Documents in an Interconnected Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/self_contained_documents.md)
 - For researchers
 - [FractaLog — Fractal Append-Only Logs for Agents, Mandates, Custody, Inheritance and Delayed Transparency](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractalog.md)
+- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 - Jean Hugues Noël Robert, baron Mariani
 - [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->

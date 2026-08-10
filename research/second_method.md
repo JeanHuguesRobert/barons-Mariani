@@ -598,7 +598,9 @@ René, merci. On continue.
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Démocratie capable](democratie_capable.md)
 - [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
+- [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
+- [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](se_demultiplier_pour_explorer_le_possible_blogpost.md)
 - [Reality Safety](reality_safety_procedural_stabilizers.md)
@@ -631,4 +633,5 @@ René, merci. On continue.
 - MareNostrum
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
+- [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](https://github.com/JeanHuguesRobert/ubikia/blob/main/artifacts/audible/on-nest-jamais-si-bien-servi/source.md)
 <!-- END_AUTO: backlinks -->

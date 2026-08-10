@@ -947,10 +947,12 @@ Kudos ne contourne pas la question monétaire.
 - [Concept Index — barons-Mariani](concepts.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [Informational Gravity — Contextual Attraction for Cognitive-Packet Routing](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)
 - FractaVolta
 - [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
 - [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
 - [État du corpus](https://github.com/acorsica/gouvernance/blob/main/etat-du-corpus.md)
+- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 - [Initiatives liées à l’Institut Mariani](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 - Jean Hugues Noël Robert, baron Mariani
 - Kudos - l'argent du troc au don

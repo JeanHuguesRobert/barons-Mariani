@@ -2564,5 +2564,6 @@ Prochaine étape : publication comme document source long, puis ouverture progre
 
 *These documents link to this file:*
 - [Barons Mariani](../../README.md)
+- [Impunité par obscurité](impunite_par_obscurite_cas_corse.md)
 - [Research Index — barons-Mariani](../index.md)
 <!-- END_AUTO: backlinks -->

@@ -710,6 +710,7 @@ Cette expérimentation aurait une valeur démonstrative :
 
 *These documents link to this file:*
 - [Barons Mariani](../../README.md)
+- [In deserto](../in_deserto.md)
 - [Research Index — barons-Mariani](../index.md)
 - Jean Hugues Noël Robert, baron Mariani
 <!-- END_AUTO: backlinks -->

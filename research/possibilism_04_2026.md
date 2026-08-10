@@ -281,7 +281,7 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
-- [Musée Mariani — préfiguration](../musee-mariani/README.md)
+- [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
 - [possibilism 04 2026 - moved](../possibilism_04_2026.md)
 - [Research Index — barons-Mariani](index.md)
 - [Possibilism](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md)

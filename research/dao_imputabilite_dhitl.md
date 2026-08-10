@@ -686,6 +686,7 @@ yes — public doctrine, legal framing, political implications and downstream pr
 ### Backlinks
 
 *These documents link to this file:*
+- [La personne numérique mandatée](personne_numerique_mandatee.md)
 - [Process note — DAO, imputabilité et DHITL](dao_imputabilite_dhitl_process.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

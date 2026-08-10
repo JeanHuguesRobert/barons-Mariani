@@ -202,6 +202,7 @@ Mimetic desynchronization is the name for that action.
 
 *These documents link to this file:*
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
+- [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
