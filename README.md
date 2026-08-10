@@ -29,6 +29,7 @@ review:
 ## Travaux Majeurs de Recherche & Signal
 
 - [research/potentics.md](research/potentics.md) — **What is Potentics? — Toward a Science of the Possible**: Systemic modeling underlying political and algorithmic capability (*potence*).
+- [research/presencology.md](research/presencology.md) — **Presencology — Presence Maps for the Rational Exploration of The Possible**: Proposed research programme on presence, potentiality, stigmergy, and distributed cognition.
 - [research/second_method.md](research/second_method.md) — **Discours de la seconde méthode**: Methodology rules, objections as first-class, machine-readable corpus as evidence.
 - [research/mimetic_desynchronization.md](research/mimetic_desynchronization.md) — **Mimetic Desynchronization**: Theory of structural change and DRSJ cycle.
 

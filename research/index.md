@@ -109,6 +109,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Test du critère Rossignol — quatre dispositifs au crible (FR)](test_critere_rossignol.md) *(working-note v0.1, 2026-05-31 — applique le critère « pas de stabilisateur sans Rossignol » à Cogentia / traçabilité symétrique / FractaVolta / Kudocracy)* | this repo | 2026-05-31 |
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
+| [Presencology — Presence Maps for the Rational Exploration of The Possible](presencology.md) *(proposed research programme — presence, potentiality, stigmergy and distributed cognition)* | this repo | 2026-08-10 |
 | [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.3 — RAIX, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-07-30 |
 | [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
 | [Protection responsable](protection_responsable.md) | this repo | 2026 |
