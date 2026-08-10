@@ -199,14 +199,125 @@ A cogentigram is a structured, partial, auditable and revisable representation o
 
 ## Potentics
 
-**Type:** philosophy
+**Type:** proposed transdisciplinary research programme / science of potentiality
 **Scope:** Global
 **Status:** Defined
 
 **Short definition:**
-The philosophy and systemic modeling underlying political and algorithmic capability (potence).
+Potentics is the rational exploration of The Possible: the study of potentialities, their propensity to actualize, their value, effort, reversibility, inhibitors, and the epistemic value of investigating them.
+
+**Related concepts:**
+- Presencology
+- The Possible
+- Rational Odyssey
+- Rational Exploration of The Possible
+- Potentiality Map
 
 **Reference documents:**
+- [`research/potentics.md`](potentics.md)
+- [`research/presencology.md`](presencology.md)
+- [`research/rational_odysseys_the_possible.md`](rational_odysseys_the_possible.md)
+
+---
+
+## Presencology
+
+**Type:** proposed interdisciplinary research programme / cross-domain presence framework
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+Presencology is the proposed systematic study of the representation, observation, estimation, dynamics and forecasting of presence across physical, conceptual and possible spaces. It distinguishes Presence from Observation and Trace, supports past, present, expected, predicted and hypothetical presence, and couples Presence Maps with Potentiality Maps for the Rational Exploration of The Possible.
+
+**Parent / sibling concepts:**
+- Potentics
+- Rational Exploration of The Possible
+
+**Child / related concepts:**
+- Presence
+- Presence Claim
+- Presence Estimate
+- Presence Map
+- Presence Field
+- Latent Functional Map
+- Explicit Supermap
+- Projection of The Possible
+- Rich Stigmergy
+
+**Reference documents:**
+- [`research/presencology.md`](presencology.md)
+- [`research/potentics.md`](potentics.md)
+- [`research/rational_odysseys_the_possible.md`](rational_odysseys_the_possible.md)
+
+---
+
+## Presence
+
+**Type:** spatiotemporal / modal relation
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+A qualified assertion that a subject is, was, will be, or might be present in a specified region of a relevant space during an instant or interval. Presence is distinct from the observation or evidence supporting it and from the trace that may remain after it.
+
+**Reference documents:**
+- [`research/presencology.md`](presencology.md)
+
+---
+
+## Presence Map
+
+**Type:** map / projection
+**Scope:** Global
+**Status:** Working
+
+**Short definition:**
+A purpose-specific projection or representation of qualified Presence claims or estimates over a space and time. A Presence Map is not the underlying space and should preserve resolution, uncertainty, provenance and projection choices.
+
+**Related concepts:**
+- Potentiality Map
+- Projection of The Possible
+- Latent Functional Map
+- Explicit Supermap
+
+**Reference documents:**
+- [`research/presencology.md`](presencology.md)
+
+---
+
+## Latent Functional Map
+
+**Type:** distributed representation / emergent informational structure
+**Scope:** Global
+**Status:** Working
+
+**Short definition:**
+Map-like actionable structure embodied by an evolving distributed information configuration — including presences, traces, local memories, environmental state and interaction rules — whether or not an equivalent explicit map is stored anywhere.
+
+**Related concepts:**
+- Presence Map
+- Rich Stigmergy
+- Flotilla Architecture
+- Cartographer
+- Explicit Supermap
+
+**Reference documents:**
+- [`research/presencology.md`](presencology.md)
+- [`research/rational_odysseys_the_possible.md`](rational_odysseys_the_possible.md)
+
+---
+
+## Projection of The Possible
+
+**Type:** representation / map operation
+**Scope:** Global
+**Status:** Working
+
+**Short definition:**
+A lower-dimensional, purpose-specific representation of the multidimensional space of The Possible. No projection should be confused with The Possible itself; projection metadata should make visible retained dimensions, collapsed dimensions, resolution, distortion and validity domain.
+
+**Reference documents:**
+- [`research/presencology.md`](presencology.md)
 - [`research/potentics.md`](potentics.md)
 
 ---

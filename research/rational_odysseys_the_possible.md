@@ -13,6 +13,7 @@ lifecycle_state: "working"
 language: "en"
 related_documents:
   - "research/potentics.md"
+  - "research/presencology.md"
   - "research/concepts.md"
   - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
   - "cogentia/research/cogentia_workflows.md"
@@ -356,7 +357,52 @@ Rich stigmergy is the transition from insect traces to cognitive traces: proofs,
 
 ---
 
-## 13. Flotilla architecture
+## 13. Presence maps and the explorers' distribution
+
+A stigmergic trace is not the same thing as a presence.
+
+```text
+Presence = where an explorer is, was, is expected to be, or might be
+Trace    = what remains available to influence later exploration
+```
+
+This distinction is developed in [`presencology.md`](presencology.md).
+
+The possible-space of a Mission is multidimensional. The "map" used by a Mission is therefore a projection rather than The Possible itself. Different agents may work through different projections — technical, legal, economic, social, conceptual — while still exploring the same wider Possible.
+
+For every map of potentiality, a corresponding **Presence Map** may ask:
+
+```text
+which regions have been explored?
+by whom?
+how recently?
+under which assumptions?
+where are explorers converging?
+which regions remain almost untouched?
+```
+
+The useful coupling is therefore:
+
+```text
+Potentiality Map
++ Presence Map
++ Trace Map
+-> Rational Exploration Policy
+```
+
+High presence does not prove high potentiality. Low presence does not prove neglect. But the divergence between maps creates a question worth investigating.
+
+The ant-colony analogy goes further. A colony may orient effectively even though no individual ant possesses a global map and no explicit global map exists anywhere. The evolving configuration of local memories, presences, pheromone traces, environmental modifications and interactions can itself embody a **Latent Functional Map**.
+
+Thus the Cartographer's task is not necessarily to create the one true map. It may be to externalize useful projections of a richer distributed map-like configuration while preserving contradictions, provenance and uncertainty.
+
+> **The colony does not need to store a map in order to possess one functionally.**
+
+This reinforces the flotilla principle: collective orientation can emerge from partial agents, shared traces and distributed presence without requiring an omniscient central intelligence.
+
+---
+
+## 14. Flotilla architecture
 
 A large centralized system resembles a great ship: powerful, coherent, impressive, but fragile when the whole structure depends on a single hull.
 
@@ -379,7 +425,7 @@ This is the architectural case for COP, FractaLog, continuations, and base camps
 
 ---
 
-## 14. Return to corpus
+## 15. Return to corpus
 
 Return is not an optional ending. It is what transforms exploration into collective capacity.
 
@@ -402,7 +448,7 @@ A private discovery becomes socially useful only when it is rendered transmissib
 
 ---
 
-## 15. From traces to theory
+## 16. From traces to theory
 
 Darwin matters here not merely as a traveler, but as an explorer who transformed observations into a theory.
 
@@ -436,7 +482,7 @@ traces
 
 ---
 
-## 16. Operational bridge to COP
+## 17. Operational bridge to COP
 
 The mythic grammar corresponds directly to operational primitives.
 
@@ -467,7 +513,7 @@ Theory reconfigures.
 
 ---
 
-## 17. Closing formulation
+## 18. Closing formulation
 
 The rational exploration of The Possible can therefore be presented as a method for organizing Odysseys without romanticizing wandering.
 

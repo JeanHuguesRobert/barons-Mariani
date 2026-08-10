@@ -331,6 +331,46 @@ Any Potentic investigation should:
 
 ---
 
+### Presencology: mapping exploration within The Possible
+
+Potentics maps potentiality: what may actualize, with what propensity, value, effort, reversibility, and inhibitors. A complementary research programme, **Presencology**, studies the presence of entities and explorers within the spaces being considered.
+
+The distinction is structural:
+
+> **Potentics maps what may actualize and with what potentiality.**
+>
+> **Presencology maps what occupies, has occupied, is expected to occupy, or might occupy relevant regions of those spaces.**
+
+A map of The Possible is not The Possible itself. The Possible is multidimensional and may contain physical, technical, legal, institutional, social, economic, epistemic, and other dimensions. Any usable map is therefore a projection:
+
+\[
+\pi_i : \Omega \rightarrow M_i
+\]
+
+A **Potentiality Map** estimates structure in such a projection. A corresponding **Presence Map** records or estimates where relevant entities or exploratory agents are, have been, are expected to be, or could be.
+
+Their divergence is potentially informative but not directly arithmetic:
+
+\[
+\mathrm{PresenceDensity} \not\Rightarrow \mathrm{Potentiality}
+\]
+
+Low presence in a high-potentiality region may indicate under-exploration, but it may also reflect cost, risk, inaccessible dimensions, bad modelling, or rational avoidance. Determining when Potentiality Maps and Presence Maps jointly improve exploration is therefore an explicit research problem.
+
+This yields a sibling relation:
+
+```text
+Potentics       -> maps potentialities in projections of The Possible
+Presencology    -> maps presences in those projections
+Rational Exploration of The Possible
+                -> uses both, together with traces, uncertainty and mandate,
+                   to decide where and how to explore next
+```
+
+The canonical source for this complementary programme is [`presencology.md`](presencology.md).
+
+---
+
 ## 9. Conclusion
 
 Potentics begins from a simple observation: the possible is poorly served by existing scientific frameworks. Probability theory makes it binary. Optimization assumes it is fixed. Decision theory separates knowing from doing. Cybernetics — the most ambitious predecessor — studies what systems are, not what they could become.
