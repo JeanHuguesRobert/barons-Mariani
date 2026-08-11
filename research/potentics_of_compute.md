@@ -1,4 +1,11 @@
 ---
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "Potentics of Compute"
 subtitle: "From Dormant Capacity to Collective Capability"
 description: "A bounded case study applying Potentics to distributed compute: the RAIX declination for compute, the cost of trust as a strong and testable binding-constraint hypothesis, a calibrated Compute Weather, and net delivered value with externalities as first-class constraints."

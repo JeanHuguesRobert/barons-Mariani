@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "Économie morale de la dépense visible"
 subtitle: "Suspicion de radinerie, gaspillage ostentatoire, invidia et optimisation empêchée en contexte corse"
 author: "Jean Hugues Noël Robert"

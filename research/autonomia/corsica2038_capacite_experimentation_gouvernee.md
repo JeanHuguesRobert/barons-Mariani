@@ -20,6 +20,10 @@ related_documents:
 external_related_documents:
   - "cogentia/research/ia_pour_tous_ia_pour_chacun.md"
   - "cogentia/research/conversations_gouvernees_effets_durables.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Corsica2038 — Capacité territoriale d'expérimentation gouvernée

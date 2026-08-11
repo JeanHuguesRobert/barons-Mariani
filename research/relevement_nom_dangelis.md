@@ -8,10 +8,15 @@ creator: Jean Hugues Noël Robert
 license: CC BY-SA 4.0
 visibility: public
 lifecycle_state: active
-document_role: source-dossier
+document_role: "source"
 document_kind: legal-genealogical-research
 status: draft
 legal_verification_date: 2026-08-07
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-dossier"
 ---
 
 # Relèvement du nom d’Angelis

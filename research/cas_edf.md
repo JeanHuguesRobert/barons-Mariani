@@ -1,4 +1,13 @@
 ---
+document_role: "source"
+document_kind: "case-study"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "case-study"
+classification_confidence: "medium"
+---
 title: "Le cas EDF expliqué"
 subtitle: "Version technique — Calacuccia, Ricanto, stockage, rente régulée et Autonomie de Capacité"
 status: "draft_for_review"

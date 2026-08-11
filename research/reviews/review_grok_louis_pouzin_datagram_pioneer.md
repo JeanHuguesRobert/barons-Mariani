@@ -1,4 +1,12 @@
 ---
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 review_target:
   repository: "JeanHuguesRobert/barons-Mariani"
   files:

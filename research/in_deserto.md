@@ -6,13 +6,20 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-07-27"
 status: "working-note"
 corpus_role: "source"
-document_role: "research-note"
+document_role: "source"
 visibility: "public"
 license: "CC BY-SA 4.0"
 source_lineage:
   - "research/traceabilite_des_actes.md"
   - "research/autonomia/impunite_par_obscurite_cas_corse.md"
   - "FractaVolta/projects/corte_logement_capacitaire.md"
+document_kind: "working-note"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
+legacy_document_role: "research-note"
 ---
 
 # In deserto

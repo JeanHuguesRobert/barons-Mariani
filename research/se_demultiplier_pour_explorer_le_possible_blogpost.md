@@ -10,7 +10,7 @@ version: "0.3-blogpost"
 language: "fr"
 license: "CC BY-SA 4.0"
 status: "published — Substack / Les carnets du baron Mariani"
-document_role: "adapted"
+document_role: "source"
 derivation_mode: "directed"
 document_family: "derived_public_blogpost"
 document_kind: "public-essay"
@@ -49,6 +49,11 @@ source_lineage:
   - "research/rational_odysseys_the_possible.md"
   - "inseme/research/cop_mission_stigmergy_exploration.md"
   - "cogentia/research/trusted_boundaries.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "adapted"
 ---
 
 

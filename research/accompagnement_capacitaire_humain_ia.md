@@ -21,6 +21,10 @@ related_documents:
   - "research/traceabilite_des_actes.md"
 related_issues:
   - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/26"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Accompagnement capacitaire humain et IA

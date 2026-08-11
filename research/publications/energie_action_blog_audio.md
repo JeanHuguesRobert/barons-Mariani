@@ -22,6 +22,10 @@ document_role: "derived"
 document_kind: "blogpost-and-audio-script"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # L’énergie d’action

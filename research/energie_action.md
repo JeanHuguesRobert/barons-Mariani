@@ -20,6 +20,10 @@ related_projects:
   - "Cogentia"
   - "Inseme"
   - "Archia"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Énergie d’action

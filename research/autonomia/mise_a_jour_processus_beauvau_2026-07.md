@@ -23,6 +23,10 @@ related_documents:
     path: "../note_synthetique_autonomie_capacite_corse.md"
   - title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
     path: "registre_chantier_loi_organique_autonomie_corse.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Mise à jour du processus de Beauvau — phase post-Assemblée nationale

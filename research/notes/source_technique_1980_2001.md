@@ -16,6 +16,12 @@ tags:
   - x25
   - perform
   - odisei
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-note"
 ---
 
 # Note-source technique 1980-2001

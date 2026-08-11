@@ -1,4 +1,13 @@
 ---
+document_role: "source"
+document_kind: "case-study"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "case-study"
+classification_confidence: "medium"
+---
 title: "Note de Campagne numéro 3 : le cas EDF expliqué"
 subtitle: "Pourquoi EDF appelle “fatale” une manne du ciel"
 status: "release_candidate"

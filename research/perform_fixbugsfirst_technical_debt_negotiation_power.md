@@ -28,6 +28,12 @@ related_documents:
   - "logique_capacitaire_jhr_forth_linkos_fractanet.md"
   - "notes/source_technique_1980_2001.md"
   - "lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-note"
 ---
 
 # Perform, FixBugsFirst et le pouvoir de négociation (1987–1997)

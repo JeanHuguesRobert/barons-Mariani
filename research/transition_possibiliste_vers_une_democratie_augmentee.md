@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "Espérer sans promettre"
 subtitle: "Minimiser la casse pendant la transition vers une démocratie augmentée"
 author: "Jean Hugues Noël Robert"

@@ -19,6 +19,10 @@ related_documents:
   - "../operium/research/model-selector-design.md"
   - "research/agile.md"
   - "research/concepts.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Applied Possibilism: The Joyful Exploration of the Possible

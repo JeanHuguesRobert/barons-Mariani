@@ -21,6 +21,10 @@ related:
   - "research/potentics.md"
   - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/CPKT-2026-001_c11_substitution.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/corpus_navigation_audit.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Sept règles et leurs incidents

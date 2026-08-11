@@ -43,6 +43,10 @@ x-retrofit:
   source_availability_at_import: "original URL unavailable during retrieval attempt"
 ai_assisted_by:
   - "Codex (formatting, routing and provenance metadata only)"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # Backup

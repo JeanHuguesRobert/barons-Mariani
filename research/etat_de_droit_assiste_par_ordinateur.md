@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "État de droit assisté par ordinateur"
 subtitle: "Démocratie assistée, souveraineté, traçabilité des actes et anti-capture"
 author: "Jean Hugues Noël Robert"

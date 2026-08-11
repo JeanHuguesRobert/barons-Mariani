@@ -45,6 +45,10 @@ tags:
   - exploration
   - booster
   - realite-operationnelle
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Joie, jeu et accroissement de capacité

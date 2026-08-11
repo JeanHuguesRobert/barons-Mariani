@@ -25,6 +25,10 @@ derivation_mode: "directed"
 audience: "grand public cultivé, citoyens, acteurs associatifs et territoriaux"
 persona: "auteur public et politique"
 adaptation_note: "Le texte dramatise la question de la régie ; les définitions, limites et références complètes demeurent dans le document source."
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # Qui tient la régie ?

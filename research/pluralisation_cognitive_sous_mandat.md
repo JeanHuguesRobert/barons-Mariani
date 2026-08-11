@@ -42,6 +42,10 @@ tags:
   - digital-twin
   - society-of-mind
   - trusted-boundaries
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Pluralisation cognitive sous mandat

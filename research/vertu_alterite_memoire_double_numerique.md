@@ -53,6 +53,10 @@ tags:
   - annual-archive
   - post-mortem
   - procedural-stabilizer
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Vertu, altérité et mémoire du double numérique

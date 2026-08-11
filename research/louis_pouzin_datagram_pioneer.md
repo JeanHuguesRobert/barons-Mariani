@@ -1,4 +1,13 @@
 ---
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_corpus_role: "doctrinal reference — network taxonomy"
 title: "Louis Pouzin: The Datagram, the Shell, and the Unbroken Legacy of Connectionless Cognition"
 subtitle: "An OSINT Academic Profile, Targeted Review, and Doctrinal Reference"
 status: "release_candidate"

@@ -16,6 +16,10 @@ document_role: "source"
 document_kind: "registry"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Registre du chantier de loi organique pour l’autonomie de la Corse

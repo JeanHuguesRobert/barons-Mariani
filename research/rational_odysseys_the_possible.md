@@ -31,6 +31,10 @@ tags:
   - mythology
   - cop
   - fractalog
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Rational Odysseys into The Possible

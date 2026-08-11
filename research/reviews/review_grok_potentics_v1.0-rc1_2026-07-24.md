@@ -29,6 +29,11 @@ related_documents:
   - "research/review_protocol.md"
   - "research/second_method.md"
   - "cogentia/prompts/reviewer.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "review"
 ---
 
 # External Review: What is Potentics?

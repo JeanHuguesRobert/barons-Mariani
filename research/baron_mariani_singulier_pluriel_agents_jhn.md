@@ -24,6 +24,12 @@ tags:
   - autonomie-de-capacite
   - fractanet
   - transmission
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "doctrine"
 ---
 
 # Du baron Mariani singulier aux Agents JHN

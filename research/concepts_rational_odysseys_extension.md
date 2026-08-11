@@ -22,6 +22,11 @@ tags:
   - stigmergy
   - mission
   - corpus
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "staging"
 ---
 
 # Concept Extension — Rational Odysseys and The Possible

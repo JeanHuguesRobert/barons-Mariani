@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "profile"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "profile"
+classification_confidence: "medium"
+---
+
 # Rapport d'Intégration et Décisions de l'Auteur Humain 📜👑
 **Document Cible** : `barons-Mariani/research/louis_pouzin_datagram_pioneer.md`  
 **Auteur Décisionnel** : Jean-Hugues Robert  

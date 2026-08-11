@@ -48,6 +48,10 @@ tags:
   - leverage
   - experimentation
   - optimistic-locking
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # The Booster Principle

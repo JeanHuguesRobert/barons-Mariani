@@ -129,6 +129,10 @@ title: La démocratie spectaculaire
 update_policy: UP-DEFAULT-REVIEWED
 version: 0.8
 visibility: public
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # La démocratie spectaculaire

@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "Presencology — Presence Maps for the Rational Exploration of The Possible"
 subtitle: "A proposed research programme linking presence, potentiality, stigmergy, distributed cognition, and procedural stabilization"
 author: "Jean Hugues Noël Robert, baron Mariani"

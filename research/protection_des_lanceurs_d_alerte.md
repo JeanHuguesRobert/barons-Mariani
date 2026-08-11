@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "working-note"
+classification_confidence: "medium"
 title: "Protéger les lanceurs d'alerte"
 subtitle: "De la réception de l'information à la préservation durable de la capacité d'agir"
 author: "Jean Hugues Noël Robert"

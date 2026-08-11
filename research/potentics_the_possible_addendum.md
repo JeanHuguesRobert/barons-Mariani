@@ -20,6 +20,11 @@ tags:
   - possibilities
   - potentiality
   - rational-exploration
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "addendum"
 ---
 
 # Potentics Addendum — The Possible versus possibilities

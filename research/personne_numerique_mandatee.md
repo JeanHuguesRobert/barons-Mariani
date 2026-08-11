@@ -1,4 +1,8 @@
 ---
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "La personne numérique mandatée"
 subtitle: "Personnalité morale, souveraineté humaine et traçabilité des agents"
 author: "Jean Hugues Noël Robert, baron Mariani"

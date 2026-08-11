@@ -15,10 +15,15 @@ derived_from:
   - "barons-Mariani/research/never_complain_never_explain_accountability.md"
   - "barons-Mariani/research/democratisation_democratique_reseaux_sociaux.md"
   - "cogentia/research/agents_jhn_democratisation_reseaux_sociaux.md"
-document_role: "derived-product"
+document_role: "derived"
 document_kind: "facebook-post"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
+legacy_document_role: "derived-product"
 ---
 
 # Publication Facebook

@@ -43,6 +43,11 @@ tags:
   - subventions
   - ruse
   - domination
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-addendum"
 ---
 
 # Addendum — Nouveau Testament, secret et pastoralisme

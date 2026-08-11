@@ -1,4 +1,11 @@
 ---
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 title: "Beyond Prophecy: Philip K. Dick as a Theorist of Algorithmic Capture and Democratic Augmentation"
 subtitle: "Working paper"
 description: "Reads nine Philip K. Dick fictions as a distributed theory of algorithmic, infrastructural, and representational capture, and puts it in dialogue with a design hypothesis — democratic augmentation — under which artificial systems remain bound by explicit, bounded, auditable, revocable human mandates."
