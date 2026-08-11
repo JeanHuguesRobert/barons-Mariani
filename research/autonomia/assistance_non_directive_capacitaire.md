@@ -31,6 +31,10 @@ related_documents:
   - "research/serenia_autonomie_assistee_ia.md"
   - "research/presencology.md"
   - "research/pluralisation_cognitive_sous_mandat.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Assistance non directive et Autonomie de Capacité
