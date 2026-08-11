@@ -33,6 +33,7 @@ corpus_hierarchy:
 related_documents:
   - "research/ecole_mariani_autonomie.md"
   - "research/homeostasie_habitat.md"
+  - "research/autonomia/assistance_non_directive_capacitaire.md"
 ---
 
 # Serenia — Assistance à l’autonomie administrative, numérique et cognitive
@@ -189,6 +190,8 @@ Transposée à Serenia, cette approche signifie :
 - montrer par l’exemple ;
 - reformuler sans confisquer ;
 - renforcer la capacité plutôt que créer une dépendance.
+
+Cette méthode constitue une application particulière de l’invariant transversal formalisé dans [`research/autonomia/assistance_non_directive_capacitaire.md`](autonomia/assistance_non_directive_capacitaire.md) : **une capacité assistée reste une capacité de son titulaire**. L’assistance éclaire et suggère par défaut ; toute décision ou action déléguée doit rester bornée par une autorisation ou un mandat explicite, contrôlable et révocable.
 
 ## 9. L’IA dans Serenia
 
