@@ -4,7 +4,7 @@ subtitle: "Mandat, contrôle, révocation et limites des instances numériques"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-08"
 status: "draft"
-document_role: "charter"
+document_role: "source"
 document_kind: "governance-note"
 visibility: "public"
 repository: "JeanHuguesRobert/barons-Mariani"
@@ -15,6 +15,12 @@ tags:
   - revocation
   - cogentia
   - digital-twin
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "charter"
 ---
 
 # Charte des Agents JHN
