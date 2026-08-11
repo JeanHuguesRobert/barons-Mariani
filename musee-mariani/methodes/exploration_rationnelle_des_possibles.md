@@ -7,7 +7,7 @@ title: "Explorer les possibles pour ne pas les regretter"
 subtitle: "Uchronie, Musée des Possibles et méthode rationnelle contre les futurs manqués"
 date: "2026-07-08"
 status: "draft"
-document_role: "method"
+document_role: "source"
 document_kind: "methodological-bridge"
 visibility: "public"
 lifecycle_state: "working"
@@ -25,6 +25,11 @@ tags:
   - possibilisme
   - capacitaire
   - futurs-manques
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
+legacy_document_role: "method"
 ---
 
 # Explorer les possibles pour ne pas les regretter
