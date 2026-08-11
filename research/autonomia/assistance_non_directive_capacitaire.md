@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-11"
 status: "working-paper"
-version: "0.1"
+version: "0.2"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -21,6 +21,7 @@ provenance:
     - "research/autonomia/grammaire_autonomie_de_capacite.md"
     - "research/serenia_autonomie_assistee_ia.md"
     - "research/presencology.md"
+    - "research/pluralisation_cognitive_sous_mandat.md"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -29,6 +30,7 @@ related_documents:
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
   - "research/serenia_autonomie_assistee_ia.md"
   - "research/presencology.md"
+  - "research/pluralisation_cognitive_sous_mandat.md"
 ---
 
 # Assistance non directive et Autonomie de Capacité
@@ -61,6 +63,22 @@ Par défaut, elle ne doit pas :
 - créer une dépendance évitable ;
 - augmenter principalement la capacité du système à connaître, prédire ou orienter l'usager ;
 - transformer une suggestion en décision engageante sans autorisation correspondante.
+
+### 2.1 Capacité propre et ressources externes
+
+Une capacité du titulaire n'implique pas que toutes les ressources mobilisées lui appartiennent ou résident en lui. Une personne, un collectif ou son Digital Twin peut s'appuyer sur des capacités externes — humaines, logicielles, computationnelles, informationnelles ou agentiques — pour augmenter sa capacité effective.
+
+```text
+capacité du principal
+≠
+propriété de toutes les ressources qui la rendent possible
+```
+
+Dans Cogentia, le Digital Twin peut ainsi mobiliser modèles, outils, services, infrastructures ou agents spécialisés externes tout en restant une extension assistée des capacités de son principal, tant que la finalité, l'autorité, les mandats et les traces permettent de préserver ce rattachement.
+
+> **L'assistance peut distribuer les moyens sans déplacer le principal.**
+
+Cette continuité n'est toutefois pas une fiction d'identité : `personne ≠ Corpus ≠ modèle ≠ agent`. Elle décrit un rattachement de capacités et d'actes sous mandat, non une confusion ontologique ou juridique entre le principal et les systèmes qu'il mobilise.
 
 ## 3. Assistance, suggestion et délégation
 
@@ -123,7 +141,7 @@ Serenia exprime déjà directement cet invariant : faire avec la personne, puis 
 
 ### Cogentia
 
-Cogentia augmente les capacités cognitives et opérationnelles de personnes et de collectifs. Ses agents peuvent agir, mais leur capacité d'action est bornée par des mandats explicites, versionnés, contrôlables et révocables.
+Cogentia augmente les capacités cognitives et opérationnelles de personnes et de collectifs. Ses agents peuvent agir, mais leur capacité d'action est bornée par des mandats explicites, versionnés, contrôlables et révocables. Un Digital Twin peut agréger des capacités externes sans que leurs fournisseurs deviennent pour autant titulaires de l'intention ou de l'autorité du principal.
 
 ### Presencology / Presence / Olé Olé
 
