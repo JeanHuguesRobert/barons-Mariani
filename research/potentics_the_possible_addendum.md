@@ -12,6 +12,7 @@ visibility: "public"
 lifecycle_state: "working"
 related_documents:
   - "research/potentics.md"
+  - "research/presencology.md"
   - "research/rational_odysseys_the_possible.md"
   - "research/concepts_rational_odysseys_extension.md"
 tags:
@@ -20,6 +21,9 @@ tags:
   - possibilities
   - potentiality
   - rational-exploration
+  - presencology
+  - capability
+  - recombination
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -29,7 +33,7 @@ legacy_document_role: "addendum"
 
 # Potentics Addendum — The Possible versus possibilities
 
-This addendum clarifies a distinction that should be merged into `research/potentics.md`.
+This addendum clarifies a distinction that should be merged into `research/potentics.md` and records a related mechanism by which new potentialities may emerge through the recombination of previously separate capacities.
 
 ---
 
@@ -157,9 +161,73 @@ A society becomes capable when it learns to distinguish the impossible from the 
 
 ---
 
-## 6. Suggested insertion point in `potentics.md`
+## 6. Presence-driven recombination of capacities
 
-This addendum should eventually be merged after:
+Potentics should treat **co-presence** as one possible mechanism for changing the potentiality landscape.
+
+Two capacities may already exist separately while the possibilities that require their conjunction remain practically absent, invisible, or weak. Bringing their carriers into a relevant form of presence can create a new composite capacity and thereby expose or increase potentialities that neither carrier could actualize alone.
+
+A provisional chain is:
+
+```text
+separate capacities
+→ relevant co-presence
+→ encounter / coordination
+→ recombination of capacities
+→ new composite capability
+→ newly visible or strengthened potentialities
+```
+
+The carriers need not be individual humans. They may be people, teams, associations, firms, institutions, Digital Twins or federations of agents, machines, datasets, compute resources, energy resources, legal powers or mandates, or other entities whose capacities can become jointly actionable.
+
+This does **not** imply that every encounter creates value, nor that co-presence is sufficient for actualization. Trust, compatibility, timing, incentives, authority, communication, resources, and other constraints may inhibit recombination. The empirical question is whether a given configuration of presences changes the set or propensity of actionable possibles.
+
+In Potentics terms, co-presence can act on at least two levels:
+
+1. **visibility** — a possible becomes perceptible because previously separated knowledge or perspectives meet;
+2. **actualization capacity** — a possible's propensity increases because previously separated resources or capabilities become jointly available.
+
+This establishes a direct bridge with **Presencology**: Presencology studies where and when the relevant carriers and capacities are present or may become present; Potentics studies what additional possibles and potentialities become accessible when those presences are combined.
+
+The relation is therefore not merely observational:
+
+```text
+Presence configuration
+→ capability configuration
+→ potentiality landscape
+```
+
+A Presence Map may consequently be useful not only because it describes where entities are, but because it helps identify candidate recombinations of capacity.
+
+The normative constraint remains central: a system may reveal such opportunities, compare them, or help prepare coordination, but it should not prescribe human encounters or objectives by default. The purpose is to enlarge informed capacity for action, not to optimize people toward an operator-selected outcome.
+
+---
+
+## 7. Olé Olé as a deliberately small experiment
+
+The Olé Olé service provides a deliberately modest applied test of this mechanism.
+
+Its visible surface is convivial and geographically local: make human presences and nearby possibilities easier to perceive. Its deeper research question is whether better perception of presence can produce encounters from which **new possibles and new capacities** emerge, for individuals as well as collective organisms.
+
+The intended experimental chain is:
+
+```text
+better perception of presences
+→ previously unlikely encounter
+→ exchange / coordination / recombination
+→ additional individual or collective capacity
+→ enlargement of the effective possible set
+```
+
+The result need not be a durable organization. It may be as small as information that changes a plan, or as large as a collaboration, project, mutual-aid relation, enterprise, association, institution, or other composite actor.
+
+Olé Olé should therefore remain a low-friction application rather than publicly carrying the full doctrinal weight of Potentics. Its scientific value lies precisely in testing a general hypothesis through an ordinary and intelligible human use case.
+
+---
+
+## 8. Suggested insertion point in `potentics.md`
+
+Sections 1–5 of this addendum should eventually be merged after:
 
 ```text
 ## 1. Introduction: The Gap in the Science of the Possible
@@ -171,7 +239,9 @@ or as a new subsection:
 ## 1.1 The Possible versus possibilities
 ```
 
-It should also be reflected in the concept index under:
+Sections 6–7 should be integrated near the treatment of coordination failures, resource/timing mismatches, or as a dedicated subsection on **capability recombination**.
+
+The concept index should also reflect:
 
 ```text
 The Possible
@@ -179,4 +249,8 @@ Potentics
 Possibilism
 Machine à explorer
 Rational Odyssey
+Presence
+Co-presence
+Capability recombination
+Composite capability
 ```
