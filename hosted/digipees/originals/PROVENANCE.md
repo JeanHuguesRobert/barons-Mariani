@@ -27,12 +27,20 @@ ai_assisted_by: [Claude]
 # Digipees — original source provenance
 
 Related issue: [barons-Mariani #33](https://github.com/JeanHuguesRobert/barons-Mariani/issues/33).
+See also `../HISTORY.md` (origin narrative) and
+`../../research/generative_graphic_design_lineage.md` (wider lineage).
 
 ## Files
 
-Both files were recovered from Jean Hugues Robert's personal archive (Google Drive:
-`digipies02.svg` at the Drive root, `images/digipees21-08-2006.svg`) and are stored here
-byte-for-byte, unmodified.
+The Digipees visual family originates in the mid-2000s **d2lab** project (Digital
+People). Per `../../research/generative_graphic_design_lineage.md` §16, the 2006 SVG
+sources were recovered in 2018 from Jean-François Catz. This working copy was located in
+Jean Hugues Robert's Google Drive (`digipies02.svg` at the Drive root,
+`images/digipees21-08-2006.svg`) and Downloads folder — an operational storage location,
+not a separate provenance claim. Both are stored here byte-for-byte, unmodified. Deeper
+provenance, licensing and naming questions are tracked separately in
+[barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34), not
+resolved here.
 
 | File | Illustrator `ModifyDate` (UTC) | Size | Paths | Live `<text>` |
 |---|---|---|---|---|

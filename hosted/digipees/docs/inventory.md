@@ -90,3 +90,9 @@ See `../originals/PROVENANCE.md` for the full provenance write-up. Summary:
   invented device name — left unverified, flagged rather than guessed at (per the
   corpus rule against collapsing hypothesis into fact).
 - Whether earlier/later versions of this sheet exist beyond the two recovered files.
+
+Origin (d2lab project) and recovery path are documented in `../originals/PROVENANCE.md`
+and `../../research/generative_graphic_design_lineage.md`; deeper provenance, licensing
+and naming are tracked in
+[barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34), not
+this inventory.

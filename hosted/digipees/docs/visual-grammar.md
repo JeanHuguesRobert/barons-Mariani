@@ -30,13 +30,18 @@ ai_assisted_by: [Claude]
 
 Related issue: [barons-Mariani #33](https://github.com/JeanHuguesRobert/barons-Mariani/issues/33).
 Source material: `../originals/` (see `PROVENANCE.md`). This document formalizes what is
-observed in the 2006 sources; it does not propose new artwork.
+observed in the 2006 sources; it does not propose new artwork. It is a close, file-level
+read of the two source SVGs; for the wider historical lineage (d2lab origin, semantic and
+kinetic grammar, Digipees Studio direction) see
+`../../research/generative_graphic_design_lineage.md` §7–9, which this document
+complements rather than duplicates.
 
 ## What the set is
 
-A 2006 Adobe Illustrator pictogram sheet for a home-digital-literacy scenario: a generic
-`User` and a `Gram'a` (grandmother) character navigating consumer electronics, files, and
-a living room ("Salon") scene. See `inventory.md` for the full item list. This fits the
+A 2006 Adobe Illustrator pictogram sheet, originating in the mid-2000s **d2lab** project
+("Digital People"), for a home-digital-literacy scenario: a generic `User` and a `Gram'a`
+(grandmother) character navigating consumer electronics, files, and a living room
+("Salon") scene. See `inventory.md` for the full item list. This fits the
 corpus's cultural-mediation / digital-divide concerns (cf. `ai-based-cultural-mediation.md`)
 rather than being a generic clip-art set.
 
