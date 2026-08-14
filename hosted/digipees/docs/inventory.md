@@ -7,7 +7,7 @@ author: "Jean Hugues Noël Robert"
 repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "hosted/digipees/docs/inventory.md"
 theoretical_anchor: "hosted/digipees/docs/visual-grammar.md"
-license: "CC BY 4.0"
+license: "CC BY-SA 4.0"
 open_source: true
 non_profit: true
 commercial_purpose: false
@@ -91,8 +91,7 @@ See `../originals/PROVENANCE.md` for the full provenance write-up. Summary:
   corpus rule against collapsing hypothesis into fact).
 - Whether earlier/later versions of this sheet exist beyond the two recovered files.
 
-Origin (d2lab project) and recovery path are documented in `../originals/PROVENANCE.md`
-and `../../research/generative_graphic_design_lineage.md`; deeper provenance, licensing
-and naming are tracked in
-[barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34), not
-this inventory.
+Origin (d2lab project) and recovery path are documented in `../originals/PROVENANCE.md`;
+rights and licensing are documented in `provenance-and-rights.md`
+([barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34));
+naming/trademark clearance there remains an open checklist.

@@ -6,7 +6,7 @@ date: "2026-08-14"
 author: "Jean Hugues Noël Robert"
 repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "hosted/digipees/originals/PROVENANCE.md"
-license: "CC BY 4.0"
+license: "CC BY-SA 4.0"
 open_source: true
 non_profit: true
 commercial_purpose: false
@@ -37,10 +37,11 @@ People). Per `../../research/generative_graphic_design_lineage.md` §16, the 200
 sources were recovered in 2018 from Jean-François Catz. This working copy was located in
 Jean Hugues Robert's Google Drive (`digipies02.svg` at the Drive root,
 `images/digipees21-08-2006.svg`) and Downloads folder — an operational storage location,
-not a separate provenance claim. Both are stored here byte-for-byte, unmodified. Deeper
-provenance, licensing and naming questions are tracked separately in
-[barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34), not
-resolved here.
+not a separate provenance claim. Both are stored here byte-for-byte, unmodified. Rights
+and the October 2007 release agreement are recorded in
+[`../docs/provenance-and-rights.md`](../docs/provenance-and-rights.md)
+([barons-Mariani #34](https://github.com/JeanHuguesRobert/barons-Mariani/issues/34));
+naming/trademark clearance there remains open.
 
 | File | Illustrator `ModifyDate` (UTC) | Size | Paths | Live `<text>` |
 |---|---|---|---|---|

@@ -8,7 +8,7 @@ author: "Jean Hugues Noël Robert"
 repository: "JeanHuguesRobert/barons-Mariani"
 intended_path: "hosted/digipees/docs/visual-grammar.md"
 theoretical_anchor: "hosted/digipees/originals/PROVENANCE.md"
-license: "CC BY 4.0"
+license: "CC BY-SA 4.0"
 open_source: true
 non_profit: true
 commercial_purpose: false

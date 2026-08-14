@@ -33,8 +33,12 @@ See `docs/hosted-repositories.md` in the host repository for the emerging generi
 ## Contents
 
 - `HISTORY.md` — origin and preservation targets.
+- `LICENSE.md` — CC BY-SA 4.0, per the rights record below.
 - `originals/` — the two recovered SVGs, byte-identical to the recovered files, never
   edited. See `originals/PROVENANCE.md` for dates and the differences between them.
+- `docs/provenance-and-rights.md` — the October 2007 d2lab release agreement (dated,
+  quoted), the "public domain" vs. MPL 1.1 ambiguity, the present CC BY-SA 4.0 decision,
+  recommended attribution, and a naming/trademark clearance checklist (issue #34).
 - `docs/visual-grammar.md` — the graphic invariants (outline weights, palette, shadow and
   caption conventions, layer structure) and a FractaVolta theming-hook convention. See
   also `../../research/generative_graphic_design_lineage.md` §7–9 for the wider
@@ -50,6 +54,7 @@ See `docs/hosted-repositories.md` in the host repository for the emerging generi
 ## Non-goals (issue #33)
 
 No full generator, no application-specific asset kit, and no standalone Digipees
-repository are in scope for this workstream. Provenance depth, licensing and naming are
-tracked separately in issue #34. Building on the normalized asset and hooks above is
-future work.
+repository are in scope for this workstream. Provenance and licensing are now recorded in
+`docs/provenance-and-rights.md` (issue #34); naming/trademark clearance there remains an
+open checklist, not performed. Building on the normalized asset and hooks above is future
+work.
