@@ -4,14 +4,31 @@ subtitle: "Beyond machine-local execution: continuations, capabilities, persiste
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-14"
-status: "working-note"
-version: "0.1"
+last_modified_at: "2026-08-14"
+last_stamped_at: "2026-08-14T00:00:00.000Z"
+status:
+  - "working-paper"
+  - "under-review"
+version: "0.2"
 license: "CC BY-SA 4.0"
 language: "en"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/jhn_architecture.md"
 document_role: "source"
 document_kind: "working-note"
 visibility: "public"
 lifecycle_state: "working"
+ai_assisted_by:
+  - "GPT-5.6 Sol (drafting and structuring)"
+provenance:
+  origin_type: "unknown"
+  origin_repository: "unknown"
+  origin_ref: "unknown"
+  origin_date: "unknown"
+  derived_from: []
+review:
+  status: "unreviewed"
+  reviewed_by: []
+update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "research/potentics.md"
   - "research/potentics_the_possible_addendum.md"
@@ -36,6 +53,9 @@ classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "working-note"
 classification_confidence: "medium"
+changelog:
+  - "v0.1 (2026-08-14) — initial architectural working note."
+  - "v0.2 (2026-08-14) — corrected frontmatter and explicitly marked the document under review and unreviewed under the Redactor/Reviewer contract."
 ---
 
 # JHN Architecture
