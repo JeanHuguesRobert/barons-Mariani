@@ -1,10 +1,10 @@
 ---
 title: "Traceability of Flows and Effects"
-subtitle: "From Follow the Money to a general doctrine of accountable acts, resources, effects, and evidence"
+subtitle: "From Follow the Money to a general doctrine of accountable acts, resources, effects, evidence, and burden"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-14"
-version: "0.1"
+version: "0.2"
 status: "working-note — source doctrine"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -19,7 +19,7 @@ update_policy: "UP-DEFAULT-REVIEWED"
 provenance:
   origin_type: "conversation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R4-R5"
+  origin_ref: "conversation checkpoint R4-R5; extended R47-R52"
   origin_date: "2026-08-14"
   derived_from:
     - "research/concepts.md"
@@ -35,6 +35,7 @@ related_documents:
   - "https://github.com/JeanHuguesRobert/inseme/blob/main/research/cogentia_accounting_architecture.md"
   - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/COP_ACCOUNTING.md"
   - "https://github.com/JeanHuguesRobert/inseme/issues/45"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md"
 methodology:
   - "Second Method"
 ai_assisted_by:
@@ -42,6 +43,7 @@ ai_assisted_by:
 tags:
   - traceability
   - follow-the-money
+  - follow-the-burden
   - accounting
   - acts
   - mandates
@@ -49,6 +51,7 @@ tags:
   - effects
   - evidence
   - reconciliation
+  - administrative-burden
   - cogentia
   - fractanet
 classification_source: "cogentia.js"
@@ -56,6 +59,7 @@ classification_version: "1"
 classification_rule: "explicit-metadata"
 classification_confidence: "medium"
 changelog:
+  - "v0.2 (2026-08-14) — adds Follow the Burden as a first-class flow analysis and connects burden distribution to institutional friction."
   - "v0.1 (2026-08-14) — first crystallization of Follow the Money as a general traceability doctrine; introduces Reality-to-Ledger completeness, Ledger-to-Reality soundness, No Unaccounted Effects, and compensating reconciliation."
 ---
 
@@ -65,16 +69,18 @@ changelog:
 
 "Follow the money" can be understood as one instance of a more general method: **follow the flows that make actions, constraints, incentives, capabilities, and effects materially observable**.
 
-In a computational, organisational, economic, or political system, declared intentions alone are insufficient to describe what the system actually does. A stronger description follows the links between authority, action, resource use, observable effect, beneficiary, and evidence.
+In a computational, organisational, economic, or political system, declared intentions alone are insufficient to describe what the system actually does. A stronger description follows the links between authority, action, resource use, observable effect, beneficiary, burden, and evidence.
 
 A compact formulation is:
 
 ```text
-Follow the Act
+Follow the Intent
+-> Follow the Act
 -> Follow the Mandate
 -> Follow the Resource
 -> Follow the Money
 -> Follow the Beneficiary
+-> Follow the Burden
 -> Follow the Evidence
 ```
 
@@ -95,6 +101,7 @@ Act
  |- execution trace
  |- effects
  |- beneficiaries / affected entities
+ |- burden created or transferred
  |- evidence
  `- accounting projection, when resources are affected
 ```
@@ -118,13 +125,14 @@ The same method applies to other scarce or consequential resources:
 - permissions and mandates;
 - Kudos or other accounting units;
 - physical assets and inventories;
-- information and evidence where their movement is itself consequential.
+- information and evidence where their movement is itself consequential;
+- administrative, cognitive, documentary, and procedural burden.
 
 The relevant question becomes:
 
 > Which flows materially constrain or enable the system, and can they be traced back to attributable acts and forward to observable effects?
 
-This matters for Cogentia and Fractanet because their relevant economy is not limited to currency. A Cognitive Packet may consume compute, invoke providers, reserve budgets, delegate capabilities, traverse nodes, and create downstream effects before a financial invoice exists.
+This matters for Cogentia and Fractanet because their relevant economy is not limited to currency. A Cognitive Packet may consume compute, invoke providers, reserve budgets, delegate capabilities, traverse nodes, create downstream effects, and impose human attention costs before a financial invoice exists.
 
 ## 4. The Reality <-> Ledger objective
 
@@ -228,7 +236,46 @@ The reverse test is equally important:
 
 Together these tests operationalize completeness and soundness.
 
-## 8. Relation to Cogentia and Fractanet
+## 8. Follow the Burden
+
+Burden should be treated as a first-class consequential flow, especially in institutional and human-facing systems.
+
+A requirement can create work without directly transferring money. It may consume:
+
+- human attention;
+- learning time;
+- document preparation;
+- repeated data entry;
+- correction effort;
+- waiting time;
+- emotional or psychological capacity;
+- opportunity cost;
+- professional assistance.
+
+For each significant requirement or procedure, ask:
+
+```text
+Who creates the work?
+Who performs it?
+Who pays for it?
+Who bears the cognitive load?
+Who bears delay and error risk?
+Who must justify the requirement?
+Who saves work because another actor performs it?
+Who benefits from keeping the arrangement unchanged?
+```
+
+This is **Follow the Burden**.
+
+It allows asymmetry to be observed without presuming malicious intent. A procedure may be convenient for the institution precisely because it externalizes cost onto users. Whether that externalization is justified is a separate interpretive question.
+
+A useful normative complement is **Burden Reinternalization**:
+
+> **An entity that imposes a requirement should bear as much as reasonably possible of the informational, explanatory, and justificatory cost created by that requirement.**
+
+This principle is developed further in Cogentia's `administrative_burden_and_exemplar_tests.md`.
+
+## 9. Relation to Cogentia and Fractanet
 
 Cogentia and Fractanet provide a concrete execution substrate on which this doctrine can be tested rather than merely asserted.
 
@@ -248,17 +295,28 @@ mandate
 -> reconciliation
 ```
 
-The implementation-oriented audit is tracked in:
+Human-facing workflows add another projection:
+
+```text
+requirement
+-> burden creation
+-> burden bearer
+-> work performed
+-> observable outcome
+-> justification / challenge
+```
+
+The implementation-oriented accounting audit is tracked in:
 
 - `JeanHuguesRobert/inseme#45` — **Strict Accounting / No Unaccounted Effects — adversarial audit and enforcement**.
 
 This note preserves the broader conceptual invariant while the implementation evolves.
 
-## 9. Broader interpretation
+## 10. Broader interpretation
 
 The doctrine extends beyond bookkeeping.
 
-For governance, it asks whether power can be followed from mandate to act and effect. For distributed computation, it asks whether resource consumption and delegation can be followed across nodes and agents. For epistemic work, it asks whether conclusions can be followed back to observations, transformations, assumptions, and evidence. For institutional analysis, it asks who bears costs, who receives benefits, and which flows reveal the operational structure beneath declared purposes.
+For governance, it asks whether power can be followed from mandate to act and effect. For distributed computation, it asks whether resource consumption and delegation can be followed across nodes and agents. For epistemic work, it asks whether conclusions can be followed back to observations, transformations, assumptions, and evidence. For institutional analysis, it asks who bears costs and burdens, who receives benefits, and which flows reveal the operational structure beneath declared purposes.
 
 The recurring structure is:
 
@@ -267,20 +325,21 @@ claim / mandate
 -> act
 -> flow
 -> effect
--> beneficiary
+-> beneficiary / burden bearer
 -> evidence
 -> correction
 ```
 
-The deeper objective is not exhaustive observation of everything. It is **accountability at the points where acts create consequential effects**.
+The deeper objective is not exhaustive observation of everything. It is **accountability at the points where acts create consequential effects or externalized burdens**.
 
-## 10. Continuation
+## 11. Continuation
 
 Potential later work:
 
-1. connect this doctrine explicitly to the Corpus concepts of mandate, act register, Cognitive Packet, accounting event, and evidence;
+1. connect this doctrine explicitly to the Corpus concepts of mandate, act register, Cognitive Packet, accounting event, burden, and evidence;
 2. formalize the minimum invariant set in machine-checkable form;
 3. distinguish authoritative events from projections, summaries, estimates, and reconciliations;
-4. generalize the Follow-the-Money audit from financial units to heterogeneous resources;
+4. generalize the Follow-the-Money audit from financial units to heterogeneous resources and burdens;
 5. study where strict traceability should deliberately stop for privacy, proportionality, autonomy, and cost reasons;
-6. use implementation failures discovered by audits as case studies for the broader doctrine of verifiable action.
+6. use implementation failures discovered by audits as case studies for the broader doctrine of verifiable action;
+7. compare burden created by existing procedures with burden measured in Exemplar Tests.
