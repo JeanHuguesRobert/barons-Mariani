@@ -50,6 +50,9 @@ See `docs/hosted-repositories.md` in the host repository for the emerging generi
   `--digipee-shade`), each defaulting to the original color so it renders identically to
   canon until themed. Not a generator, not a per-icon extraction — a single demonstration
   file.
+- `normalized/digipees-icon-sheet.fractavolta-theme.svg` — the first actual derived theme:
+  the same sheet with ink/shade baked in toward the FractaVolta palette (blue outlines,
+  yellow shade zones), standalone, no external CSS required.
 
 ## Non-goals (issue #33)
 

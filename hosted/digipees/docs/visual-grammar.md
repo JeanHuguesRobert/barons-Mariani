@@ -135,6 +135,18 @@ Verified: `../normalized/digipees-icon-sheet.svg` rendered with no theme applied
 byte-identical (as a rasterized PNG) to `../originals/digipies02.svg` rendered the same
 way.
 
+### First derived theme
+
+`../normalized/digipees-icon-sheet.fractavolta-theme.svg` is the first actual derived
+theme: the same sheet with an inline `<style>` block setting
+`--digipee-ink: #0046AD` (blue) and `--digipee-shade: #F0C30F` (yellow) directly, so it
+renders themed standalone — no external stylesheet needed, safe to use as a plain `<img>`
+or open directly. `--digipee-surface` is deliberately left at its `#FFFFFF` default:
+white reads as "paper"/background in this grammar (invariant 3), and re-theming it was
+judged to reduce legibility rather than help it — a design choice, not an oversight.
+Verified by rasterized render to match the earlier live CSS-variable test pixel-for-pixel
+in content (outlines blue, shade zones yellow, geometry unchanged).
+
 ## Non-goals (per issue #33)
 
 No generator, no application-specific asset kit, and no standalone Digipees repository are
