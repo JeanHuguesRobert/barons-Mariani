@@ -1,7 +1,7 @@
 ---
 title: "Digipees — provenance and rights"
 subtitle: "The October 2007 d2lab release agreement, the 2018 recovery, and the licensing path for historical and derived work"
-version: "0.1"
+version: "0.2"
 status: source document / rights record
 date: "2026-08-14"
 author: "Jean Hugues Noël Robert"
@@ -112,18 +112,43 @@ For any publication or derived work:
 | Any other d2lab contributors with a possible claim beyond these four? | Open — not ruled out, no evidence found either way |
 | Is Yvan Balsamo aware of / consenting to this specific 2026 relaunch (as opposed to the general 2007 release)? | Open — the 2007 email is standing consent to open release in general; a courtesy notice ahead of any broad relaunch is recommended, not yet sent |
 
-## Naming/trademark clearance checklist (not yet performed)
+## Naming/trademark clearance checklist
 
 Before any trademark filing or broad public relaunch under the name "Digipees" or
 "Digital People":
 
-- [ ] Search French trademark register (INPI) for "Digipees" and "Digital People" in
-      relevant classes (software, design, education).
-- [ ] Search EU trademark register (EUIPO) for the same terms.
-- [ ] Check domain name availability/registration history for digipees.* and related
-      variants.
-- [ ] Check for existing commercial products/services using "Digipees" or "Digital
-      People" as a brand (not just as a generic phrase).
+- [x] Search EU trademark register (EUIPO eSearch plus) for "digipees" — **0 results**
+      across Trade marks, Designs, Owners and Representatives (checked 2026-08-14,
+      direct query against `euipo.europa.eu/eSearch`). No collision found.
+- [x] Search EU trademark register (EUIPO eSearch plus) for "digital people" —
+      **3 registered EUTMs found**, all unrelated to this project, and two of them
+      directly on point:
+      - `017258864` — figurative mark **"Digital People"**, owner name **"Digital
+        People"**, Nice classes **9, 38, 42, 45** (computer software; telecoms; tech/
+        design services; personal/legal services), registered 2019-07-10. A real company
+        trading under this exact name, in overlapping classes.
+      - `W01547378` — word mark **"DIGITAL PEOPLE"**, owner **Soul Machines Limited**,
+        Nice class 42, registered 2020-04-21 (international registration designating
+        the EU).
+      - `018932374` — **"TALEA GROUP DIGITAL PEOPLE ORIENTED"**, a compound mark, lower
+        collision risk but same words present.
+      → **"Digital People" is not clear** for a software/design relaunch in the EU.
+      **"Digipees" is clear** at the EU trademark level.
+- [x] Check domain name availability for `digipees.com`, `digipees.fr`, `digipees.org` —
+      **none resolve** (DNS lookup failure on all three, checked 2026-08-14), consistent
+      with the name being unused/available. `.net` and others not checked.
+- [x] Check for existing commercial products/services using "Digipees" as a brand — no
+      exact match found in general web search; only phonetically close but unrelated
+      names exist (DigiPe — Indian fintech; Digipeeks — YouTube channel; Digipepe — a
+      meme coin), none of which use the "Digipees" spelling or operate in an adjacent
+      field.
+- [ ] Search French trademark register (INPI) for "Digipees" and "Digital People" —
+      **attempted, blocked**: `data.inpi.fr` returns a Cloudflare bot-protection page to
+      automated/headless access (checked 2026-08-14). Needs a manual search by a human
+      with an ordinary browser at
+      [data.inpi.fr](https://data.inpi.fr/search?q=digipees&type=brands) before any
+      French filing decision — the EUIPO result above does not substitute for it (a
+      purely French national mark would not necessarily show up in the EU register).
 - [ ] Confirm with Yvan Balsamo whether "Digipees" was his own naming or d2lab's, and
       whether he has any separate naming preference for a 2026 relaunch.
 - [ ] Decide whether the FractaVolta-themed / Corsica-specific variant should carry a
@@ -131,5 +156,7 @@ Before any trademark filing or broad public relaunch under the name "Digipees" o
       `../../research/generative_graphic_design_lineage.md` §11) to reduce naming-rights
       exposure on the historical name itself.
 
-This checklist is a to-do list, not a clearance report. None of these steps have been
-performed as part of this note.
+**Working conclusion:** nothing found blocks continued use of **"Digipees"** specifically.
+Avoid leaning on the generic label **"Digital People"** as a standalone brand/product name
+in the EU — an unrelated company already holds it in the relevant classes. The two
+remaining items are calls for Jean Hugues Robert / Yvan Balsamo, not further research.
