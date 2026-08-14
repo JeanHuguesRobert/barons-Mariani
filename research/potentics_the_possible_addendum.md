@@ -4,12 +4,31 @@ subtitle: "A doctrinal clarification for Potentics"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
+language: "en"
 date: "2026-07-10"
-status: "addendum — ready to merge into research/potentics.md"
-document_role: "addendum"
+last_modified_at: "2026-08-14"
+last_stamped_at: "2026-08-14T00:00:00.000Z"
+status:
+  - "working-paper"
+  - "under-review"
+version: "0.2"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics_the_possible_addendum.md"
+document_role: "source"
 document_kind: "research-note"
 visibility: "public"
 lifecycle_state: "working"
+ai_assisted_by:
+  - "GPT-5.6 Sol (drafting and structuring)"
+provenance:
+  origin_type: "unknown"
+  origin_repository: "unknown"
+  origin_ref: "unknown"
+  origin_date: "unknown"
+  derived_from: []
+review:
+  status: "unreviewed"
+  reviewed_by: []
+update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "research/potentics.md"
   - "research/rational_odysseys_the_possible.md"
@@ -28,6 +47,9 @@ classification_version: "1"
 classification_rule: "explicit-metadata"
 classification_confidence: "medium"
 legacy_document_role: "addendum"
+changelog:
+  - "v0.1 (2026-07-10) — earlier addendum history not fully recorded."
+  - "v0.2 (2026-08-14) — added the Expanding Realized and Spirit of Synthesis formulation; corrected frontmatter and marked the document under review and unreviewed."
 ---
 
 # Potentics Addendum — The Possible versus possibilities
