@@ -8,7 +8,7 @@ language: "en"
 date: "2026-08-14"
 status: "working-note — source doctrine"
 document_role: "source"
-version: "0.1"
+version: "0.2"
 document_kind: "doctrinal-note"
 visibility: "public"
 repository: "JeanHuguesRobert/barons-Mariani"
@@ -21,7 +21,7 @@ review:
 provenance:
   origin_type: "conversation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R12-R13"
+  origin_ref: "conversation checkpoint R12-R13; extended R47-R52"
   origin_date: "2026-08-14"
   derived_from:
     - "research/traceability_of_flows_and_effects.md"
@@ -38,9 +38,12 @@ related_documents:
   - "research/second_method.md"
   - "research/possibilism_04_2026.md"
   - "research/applied_possibilism.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md"
 tags:
   - exemplarity
   - proof-by-existence
+  - exemplar-test
+  - executable-counterfactual
   - possibilism
   - stabilization
   - traceability
@@ -51,6 +54,7 @@ classification_version: "1"
 classification_rule: "explicit-metadata"
 classification_confidence: "medium"
 changelog:
+  - "v0.2 (2026-08-14) — adds Exemplar Test and executable counterfactual as a comparative form of exemplarity."
   - "v0.1 (2026-08-14) — first explicit formulation of Exemplarity as proof by existence and as a method for making The Possible observable through a working, auditable example."
 ---
 
@@ -147,6 +151,39 @@ This does not remove the need for intelligibility. On the contrary, documentatio
 Exemplarity provides an operational answer to an *In Deserto* condition: when immediate external validation is weak or absent, build a traceable object whose continued existence and observable behaviour do not depend on prior consensus.
 
 The purpose is not isolation for its own sake. It is to leave a sufficiently reliable path for later observers, collaborators or successors to reconstruct what was attempted, what actually happened, and what remains possible.
+
+## Exemplar Test and executable counterfactual
+
+Exemplarity can also be used comparatively.
+
+An **Exemplar Test** constructs the smallest credible alternative implementation of a claimed possible state and measures it against an existing realization.
+
+The exemplar is then an **executable counterfactual**: not merely a statement that things could have been otherwise, but an alternative realized far enough for observers to compare functionality, effort, cost, reliability, traceability, constraints, and effects.
+
+```text
+Declared intent
+   ↙       ↘
+existing   exemplar
+reality    implementation
+   ↘       ↙
+ measurable comparison
+```
+
+The Exemplar Test does not by itself prove that the existing actor could or should adopt the alternative unchanged. It does something narrower and stronger: it can falsify claims of technical impossibility, reveal previously hidden constraints, and make the residual difference observable.
+
+Useful questions include:
+
+```text
+What did the existing system actually deliver?
+What did the exemplar actually deliver?
+At what resource and attention cost?
+Which constraints remain genuinely different?
+What part of the original gap still requires explanation?
+```
+
+This form is especially useful when an institution or organization declares an intent but delivers a capability materially below what a small demonstrator can achieve with the same public information or substantially fewer resources.
+
+The corresponding Cogentia doctrine is developed in `research/administrative_burden_and_exemplar_tests.md`.
 
 ## Research consequence
 
