@@ -6,17 +6,18 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 license: "CC BY-SA 4.0"
 language: "en"
 date: "2026-07-10"
-last_modified_at: "2026-08-14"
+last_modified_at: "2026-08-15"
 last_stamped_at: "2026-08-14T00:00:00.000Z"
 status:
-  - "working-paper"
-  - "under-review"
-version: "0.2"
+  - "integrated"
+lifecycle_state: "superseded"
+integrated_into: "research/potentics.md"
+integrated_at: "2026-08-15"
+version: "0.3"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics_the_possible_addendum.md"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
-lifecycle_state: "working"
 ai_assisted_by:
   - "GPT-5.6 Sol (drafting and structuring)"
 provenance:
@@ -31,6 +32,7 @@ review:
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "research/potentics.md"
+  - "research/concepts.md"
   - "research/rational_odysseys_the_possible.md"
   - "research/concepts_rational_odysseys_extension.md"
   - "research/jhn_architecture.md"
@@ -50,9 +52,19 @@ legacy_document_role: "addendum"
 changelog:
   - "v0.1 (2026-07-10) — earlier addendum history not fully recorded."
   - "v0.2 (2026-08-14) — added the Expanding Realized and Spirit of Synthesis formulation; corrected frontmatter and marked the document under review and unreviewed."
+  - "v0.3 (2026-08-15) — integrated into research/potentics.md (§1.1-1.3, §3.4-3.5, §4.4) and research/concepts.md (The Possible, The Realized, Spirit of Synthesis entries); marked integrated/superseded. Kept as a transient source trace, not an independently maintained document."
 ---
 
 # Potentics Addendum — The Possible versus possibilities
+
+> **Status: integrated (2026-08-15).** This addendum's content has been merged into
+> [`research/potentics.md`](potentics.md) — §1.1–1.3 (The Possible versus possibilities,
+> relation to potentiality, anchoring in reality), §3.4–3.5 (the expanding Realized,
+> Spirit of Synthesis), and §4.4 (Rational Exploration as deliberate acceleration) — and
+> reflected in [`research/concepts.md`](concepts.md) (*The Possible*, *The Realized*,
+> *Spirit of Synthesis*). This file is preserved as a transient source trace of that
+> merge, not as an independently maintained document. Read `potentics.md` for the
+> current, canonical formulation.
 
 This addendum clarifies distinctions that should be merged into `research/potentics.md`.
 

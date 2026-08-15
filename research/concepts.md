@@ -220,6 +220,66 @@ Potentics is the rational exploration of The Possible: the study of potentialiti
 
 ---
 
+## The Possible
+
+**Type:** doctrinal term / domain
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+The Possible, capitalized, is Potentics's doctrinal term for the full field of what reality permits — including what has not yet been seen, named, funded, institutionalized, socially accepted, technically assembled, or cognitively recognized. It is wider than *possibilities* (the local, visible, contingent set of options a situation seems to offer) and is anchored in reality: not fantasy, wish, preference, ideology, or narrative desire, but what is not forbidden by logical, physical, biological, technical, institutional, social, or economic constraints.
+
+**Related concepts:**
+- Potentics
+- The Realized
+- Spirit of Synthesis
+- Projection of The Possible
+- Presencology
+
+**Reference documents:**
+- [`research/potentics.md`](potentics.md#11-the-possible-versus-possibilities)
+
+---
+
+## The Realized
+
+**Type:** formal construct
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+Given The Possible $P$, the Realized $R(t) \subseteq P$ is the cumulative set of possibles that have actualized at least once by time $t$. It is historically monotonic ($t_2 \ge t_1 \Rightarrow R(t_1) \subseteq R(t_2)$), which concerns the cumulative history of actualization, not the instantaneous inventory of what currently exists — a structure may appear, transform, decay, be forgotten, or be dismantled without ceasing to have been realized.
+
+**Related concepts:**
+- The Possible
+- Potentics
+- Spirit of Synthesis
+
+**Reference documents:**
+- [`research/potentics.md`](potentics.md#34-the-expanding-realized)
+
+---
+
+## Spirit of Synthesis
+
+**Type:** hypothesized generative dynamic
+**Scope:** Global
+**Status:** Defined
+
+**Short definition:**
+The hypothesized generative dynamic by which previously separate elements, observations, capabilities, structures, or partial solutions combine so that additional possibles become accessible and, sometimes, actualized. Deliberately non-mystical: it names a research object — the mechanisms by which synthesis creates order, capability, and new reachable states from previously dispersed components. Not limited to selection among existing alternatives: a synthesis may produce a structure or capability contained in none of its inputs taken separately.
+
+**Related concepts:**
+- The Possible
+- The Realized
+- Potentics
+- Rational Exploration of The Possible
+
+**Reference documents:**
+- [`research/potentics.md`](potentics.md#35-spirit-of-synthesis)
+
+---
+
 ## Presencology
 
 **Type:** proposed interdisciplinary research programme / cross-domain presence framework
