@@ -6,7 +6,7 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 license: "CC BY-SA 4.0"
 date: "2026-07-10"
 status: "staging-note — ready to merge into research/concepts.md"
-document_role: "staging"
+document_role: "source"
 document_kind: "concept-index-extension"
 visibility: "public"
 lifecycle_state: "working"

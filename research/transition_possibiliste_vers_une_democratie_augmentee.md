@@ -28,7 +28,6 @@ related_documents:
   - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md"
   - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL-COVENANT.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/ia_pour_tous_ia_pour_chacun.md"
----
 
 # Espérer sans promettre
 
@@ -288,4 +287,3 @@ Ce document doit être repris lorsque :
 - une expérimentation montre que l'une des deux trajectoires décrites ici doit être corrigée ou complétée.
 
 La prochaine version ne devrait pas ajouter de force rhétorique. Elle devrait ajouter une preuve, une objection sérieuse, un résultat expérimental ou une meilleure condition de falsification.
-

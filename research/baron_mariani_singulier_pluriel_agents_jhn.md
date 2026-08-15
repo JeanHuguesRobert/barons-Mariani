@@ -4,7 +4,7 @@ subtitle: "Cogentia, Cogentigram et pluralisation contrôlée d'une fonction his
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-08"
 status: "draft"
-document_role: "doctrine"
+document_role: "source"
 document_kind: "conceptual-bridge"
 visibility: "public"
 repository: "JeanHuguesRobert/barons-Mariani"

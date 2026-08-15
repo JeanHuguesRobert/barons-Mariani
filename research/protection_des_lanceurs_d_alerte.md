@@ -295,4 +295,3 @@ La protection du lanceur d'alerte doit être conçue comme une continuité de ca
 ## Continuation
 
 Ce document doit rester en version de travail tant que la recherche juridique et la revue par des praticiens n'ont pas été réalisées. Toute future version doit distinguer clairement : doctrine proposée, droit positif vérifié, outils existants, hypothèses techniques et mécanismes encore inexistants.
-
