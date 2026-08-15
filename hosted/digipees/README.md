@@ -53,6 +53,10 @@ See `docs/hosted-repositories.md` in the host repository for the emerging generi
 - `normalized/digipees-icon-sheet.fractavolta-theme.svg` — the first actual derived theme:
   the same sheet with ink/shade baked in toward the FractaVolta palette (blue outlines,
   yellow shade zones), standalone, no external CSS required.
+- `docs/character-set.md` / `derived/characters/character-set-v1.svg` — four new
+  characters (`Gramp'a`, `Junior`, `Sis`, `Mate`) extending `User`/`Gram'a` toward
+  demographic variety (age, presenting gender, mobility), not personality. New 2026
+  artwork in the grammar's style, not extracted from the historical originals.
 
 ## Non-goals (issue #33)
 
