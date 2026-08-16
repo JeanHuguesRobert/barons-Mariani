@@ -3,9 +3,9 @@ title: "Assistance non directive et Autonomie de Capacité"
 subtitle: "Invariant transversal pour l'assistance humaine et informatisée"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-11"
+date: "2026-08-16"
 status: "working-paper"
-version: "0.2"
+version: "0.3"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -84,6 +84,31 @@ Dans Cogentia, le Digital Twin peut ainsi mobiliser modèles, outils, services, 
 
 Cette continuité n'est toutefois pas une fiction d'identité : `personne ≠ Corpus ≠ modèle ≠ agent`. Elle décrit un rattachement de capacités et d'actes sous mandat, non une confusion ontologique ou juridique entre le principal et les systèmes qu'il mobilise.
 
+### 2.2 Créer, restaurer, désentraver ou augmenter une capacité
+
+L'effet capacitaire ne consiste pas nécessairement à créer une compétence nouvelle. Une capacité peut déjà exister chez son titulaire tout en étant rendue peu ou pas opérante par l'environnement, l'interface, l'isolement, l'absence d'une ressource technique ou une difficulté cognitive périphérique.
+
+L'assistance peut donc :
+
+- **créer** une capacité qui n'existait pas encore ;
+- **restaurer** une capacité devenue indisponible ;
+- **désentraver** une capacité présente mais empêchée par le milieu ou l'interface ;
+- **augmenter** une capacité déjà effectivement mobilisable.
+
+```text
+capacité potentielle importante
++ environnement empêchant
+= capacité effective faible
+
+capacité potentielle importante
++ environnement capacitant
+= capacité effective restaurée ou désentravée
+```
+
+Un accès réseau fiable, une interface accessible, une prothèse auditive, une mémoire externalisée ou une assistance cognitive peuvent ainsi avoir une valeur capacitaire majeure sans ajouter de savoir propre au titulaire : ils remettent en circulation ce qu'il sait déjà percevoir, comprendre, décider ou faire.
+
+Ce point invite à ne pas évaluer une assistance uniquement par la quantité de travail qu'elle accomplit pour autrui. Il faut aussi observer les capacités préexistantes qu'elle rend de nouveau exerçables.
+
 ## 3. Assistance, suggestion et délégation
 
 La non-directivité ne signifie pas qu'un système informatique ne peut jamais décider ou agir.
@@ -108,8 +133,8 @@ Cette règle raccorde l'assistance non directive à l'architecture Cogentia des 
 
 Pour toute nouvelle fonctionnalité d'assistance, demander au minimum :
 
-1. Quelle capacité nouvelle est créée ?
-2. Qui acquiert réellement cette capacité ?
+1. Quelle capacité est créée, restaurée, désentravée ou augmentée ?
+2. Qui acquiert ou retrouve réellement cette capacité effective ?
 3. Qui décide quand et comment elle est exercée ?
 4. Qui bénéficie principalement de son exercice ?
 5. Quelle capacité asymétrique l'opérateur ou un tiers acquiert-il en retour ?
@@ -165,6 +190,6 @@ Potentics ne suppose pas qu'il existe un futur unique à optimiser. Il aide à e
 
 ## 7. Formule canonique provisoire
 
-> **Cogentia cherche à augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
+> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
 
 Cette formulation est provisoire et doit rester compatible avec la grammaire générale de l'Autonomie de Capacité, dont elle constitue une spécialisation pour les systèmes d'assistance.
