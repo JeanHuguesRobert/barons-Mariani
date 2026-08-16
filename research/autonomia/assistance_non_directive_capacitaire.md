@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-16"
 status: "working-paper"
-version: "0.5"
+version: "0.6"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -119,6 +119,18 @@ Cette priorité ne signifie ni décider à leur place, ni les réduire à leur f
 
 La fragilité peut être temporaire ou durable, physique, cognitive, économique, sociale, administrative, numérique ou relationnelle. Elle ne définit pas la personne. Elle décrit une situation dans laquelle certaines capacités sont plus facilement perdues, empêchées ou capturées.
 
+Mais cette notion ne doit pas être réservée à une catégorie sociale ou médicale. **Toute personne possède des vulnérabilités contextuelles.** La compétence dans un domaine n'immunise pas contre la crédulité, l'urgence, la fatigue, l'émotion, l'asymétrie d'information, la pression sociale, l'autorité apparente, la complexité juridique ou technique, la propagande, la manipulation commerciale ou la tromperie politique.
+
+Il faut donc distinguer :
+
+```text
+fragilité structurelle ou durable
+≠
+vulnérabilité contextuelle
+```
+
+L'une justifie souvent une priorité renforcée ; l'autre rappelle que la protection capacitaire peut être utile à presque tout le monde.
+
 Principe de conception :
 
 ```text
@@ -170,6 +182,48 @@ le pouvoir économique de l'assistant ne doit pas augmenter mécaniquement avec 
 
 L'objectif est au contraire d'aligner l'intérêt du prestataire avec la restauration de capacité : une bonne assistance doit pouvoir réussir même lorsqu'elle rend progressivement une partie de ses propres interventions inutiles.
 
+### 2.5 Protection par observabilité et dissuasion capacitaire
+
+La prévention de la capture ne repose pas uniquement sur la sanction après dommage. Une partie importante de la protection peut provenir d'un mécanisme beaucoup moins coûteux : **augmenter la probabilité réelle et perçue qu'un comportement abusif soit détecté, documenté, expliqué et contesté.**
+
+Une personne assistée par une IA capable d'examiner un contrat, une facture, une promesse, un prélèvement, un message ou une décision n'est plus seule face à l'asymétrie d'information. Même lorsque l'IA n'intervient pas matériellement, la possibilité crédible de son intervention peut modifier le calcul de celui qui envisagerait de profiter d'une faiblesse.
+
+> **La protection peut commencer avant l'alerte : le simple fait qu'un abus puisse devenir visible augmente son coût attendu.**
+
+Cette observabilité doit être orientée vers les interactions qui engagent la personne, non vers une surveillance générale de sa vie.
+
+```text
+surveiller la personne fragile
+≠
+protéger la personne fragile
+
+protection capacitaire
+= rendre observables, avec son consentement,
+  les actes et interactions susceptibles de l'engager ou de lui nuire
+```
+
+Le mécanisme recherché est structurel :
+
+```text
+gain attendu de l'abus
+<
+coût attendu de l'abus
+```
+
+Le coût attendu peut augmenter par la détection, la conservation de preuves, la comparaison, l'explication, la contestation, la restitution, la réputation ou la sanction. L'IA peut contribuer à plusieurs de ces composantes à un coût marginal très faible.
+
+Cette protection devient particulièrement intéressante lorsqu'elle est largement accessible. Si seuls quelques individus disposent d'une forte capacité de contrôle, la prédation peut simplement se déplacer vers des cibles plus faciles. Si une protection minimale devient courante, **la population de personnes perçues comme facilement capturables diminue et l'économie générale de l'abus se dégrade.**
+
+Il s'agit donc aussi d'un effet de réseau :
+
+```text
+protection individuelle peu coûteuse
+× diffusion large
+→ dissuasion collective
+```
+
+Cette logique vaut au-delà de la vieillesse, du handicap ou de la dépendance. Elle peut s'appliquer aux achats, contrats, démarches administratives, crédit, emploi, logement, information publique et choix civiques. Dans le champ démocratique, l'assistance peut aider à retrouver les sources, comparer promesses et actes, distinguer faits et arguments, détecter contradictions ou conflits d'intérêts et conserver la mémoire des engagements. Elle ne doit toutefois jamais devenir un nouveau prescripteur politique : **elle augmente la capacité de jugement du citoyen, elle ne vote ni ne croit à sa place.**
+
 ## 3. Assistance, suggestion et délégation
 
 La non-directivité ne signifie pas qu'un système informatique ne peut jamais décider ou agir.
@@ -203,6 +257,8 @@ Pour toute nouvelle fonctionnalité d'assistance, demander au minimum :
 7. La personne ou le collectif assisté reste-t-il effectivement maître de ses finalités ?
 8. Les personnes les plus fragiles peuvent-elles effectivement accéder à cette capacité, ou l'architecture privilégie-t-elle surtout celles qui sont déjà les mieux dotées ?
 9. Le modèle économique gagne-t-il davantage lorsque la personne reste dépendante, captive, désorientée ou incapable de comparer ?
+10. L'architecture augmente-t-elle la détectabilité et le coût d'un abus sans augmenter inutilement la surveillance de la personne ?
+11. Cette protection est-elle assez accessible et peu coûteuse pour bénéficier aussi à ceux qui seraient autrement les cibles les plus faciles ?
 
 Une fonctionnalité qui augmente surtout la capacité de la plateforme à observer, profiler, prédire ou influencer l'usager échoue au test capacitaire, même si elle améliore certains indicateurs d'usage ou d'engagement.
 
@@ -251,8 +307,12 @@ choisir cette possibilité pour l'usager
 
 Potentics ne suppose pas qu'il existe un futur unique à optimiser. Il aide à explorer des possibilités, contraintes, bifurcations et conséquences afin d'augmenter la capacité de choix et d'action.
 
+### Démocratie et probité publique
+
+La même architecture peut renforcer la capacité civique : mémoire des engagements, accès aux sources primaires, comparaison des décisions, traçabilité des actes publics et détection d'incohérences. Le but n'est pas d'établir une autorité algorithmique sur le jugement politique, mais de réduire le coût cognitif de la vérification et d'augmenter la probabilité qu'un abus de pouvoir ou une atteinte à la probité devienne visible et contestable.
+
 ## 7. Formule canonique provisoire
 
-> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir, avec une priorité éthique pour les personnes dont les capacités effectives sont les plus fragiles ou les plus entravées. Cette priorité exclut la capture marchande de leur vulnérabilité : l'intérêt du système doit être aligné avec l'augmentation de leur capacité et de leur faculté de sortie. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
+> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir, avec une priorité éthique pour les personnes dont les capacités effectives sont les plus fragiles ou les plus entravées. Cette priorité exclut la capture marchande de leur vulnérabilité et cherche à rendre l'abus structurellement moins rentable par la capacité de sortie, la traçabilité et l'observabilité protectrice. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
 
 Cette formulation est provisoire et doit rester compatible avec la grammaire générale de l'Autonomie de Capacité, dont elle constitue une spécialisation pour les systèmes d'assistance.
