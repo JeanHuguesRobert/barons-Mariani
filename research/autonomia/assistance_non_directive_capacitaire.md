@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-16"
 status: "working-paper"
-version: "0.3"
+version: "0.4"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -109,6 +109,32 @@ Un accès réseau fiable, une interface accessible, une prothèse auditive, une 
 
 Ce point invite à ne pas évaluer une assistance uniquement par la quantité de travail qu'elle accomplit pour autrui. Il faut aussi observer les capacités préexistantes qu'elle rend de nouveau exerçables.
 
+### 2.3 Priorité éthique aux personnes les plus fragiles
+
+Une intelligence artificielle qui prétend augmenter les capacités humaines ne devrait pas distribuer son effort uniquement là où les usagers disposent déjà de fortes capacités économiques, cognitives, sociales ou techniques.
+
+> **Une IA qui aide l'humanité doit en priorité aider les personnes les plus fragiles.**
+
+Cette priorité ne signifie ni décider à leur place, ni les réduire à leur fragilité. Elle signifie que, lorsqu'une ressource d'assistance est rare, coûteuse ou doit être priorisée, la diminution la plus forte d'une incapacité évitable et la restauration de marges de choix chez les personnes les plus exposées constituent un critère éthique majeur.
+
+La fragilité peut être temporaire ou durable, physique, cognitive, économique, sociale, administrative, numérique ou relationnelle. Elle ne définit pas la personne. Elle décrit une situation dans laquelle certaines capacités sont plus facilement perdues, empêchées ou capturées.
+
+Principe de conception :
+
+```text
+priorité aux plus fragiles
+≠ substitution paternaliste
+
+priorité aux plus fragiles
+= accessibilité renforcée
++ réduction des obstacles
++ protection contre la capture
++ restauration de capacités effectives
++ maintien maximal du choix
+```
+
+Une assistance capacitaire doit donc être évaluée aussi par une question distributive : **qui bénéficie réellement des capacités nouvelles ou restaurées, et ceux qui en ont le plus besoin peuvent-ils effectivement y accéder ?**
+
 ## 3. Assistance, suggestion et délégation
 
 La non-directivité ne signifie pas qu'un système informatique ne peut jamais décider ou agir.
@@ -140,6 +166,7 @@ Pour toute nouvelle fonctionnalité d'assistance, demander au minimum :
 5. Quelle capacité asymétrique l'opérateur ou un tiers acquiert-il en retour ?
 6. La fonctionnalité peut-elle être refusée, limitée, suspendue ou révoquée ?
 7. La personne ou le collectif assisté reste-t-il effectivement maître de ses finalités ?
+8. Les personnes les plus fragiles peuvent-elles effectivement accéder à cette capacité, ou l'architecture privilégie-t-elle surtout celles qui sont déjà les mieux dotées ?
 
 Une fonctionnalité qui augmente surtout la capacité de la plateforme à observer, profiler, prédire ou influencer l'usager échoue au test capacitaire, même si elle améliore certains indicateurs d'usage ou d'engagement.
 
@@ -190,6 +217,6 @@ Potentics ne suppose pas qu'il existe un futur unique à optimiser. Il aide à e
 
 ## 7. Formule canonique provisoire
 
-> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
+> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir, avec une priorité éthique pour les personnes dont les capacités effectives sont les plus fragiles ou les plus entravées. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
 
 Cette formulation est provisoire et doit rester compatible avec la grammaire générale de l'Autonomie de Capacité, dont elle constitue une spécialisation pour les systèmes d'assistance.
