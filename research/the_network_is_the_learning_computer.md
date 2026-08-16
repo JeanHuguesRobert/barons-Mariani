@@ -2,28 +2,28 @@
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250
   Corte, Corsica, France
 ai_assisted_by:
-- GPT-5.6 Sol --- redaction, corpus integration, living state-of-the-art
+- GPT-5.6 Sol — redaction, corpus integration, living state-of-the-art
   investigation
-- Grok 4.5 (xAI) --- decorrelated external review of v0.3
+- Grok 4.5 (xAI) — decorrelated external review of v0.3
 author: Jean Hugues Noël Robert, baron Mariani
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/the_network_is_the_learning_computer.md"
 changelog:
-- v0.1 (2026-08-15) --- initial formulation under the title The Network
-  is the Computer, Revisited.
-- v0.2 (2026-08-15) --- made the paper self-contained; added internal
-  and external bibliographies; strengthened prior-art comparison.
-- v0.3 (2026-08-15) --- renamed the paper The Network is the Learning
+- v0.1 (2026-08-15) — initial formulation under the title The Network is
+  the Computer, Revisited.
+- v0.2 (2026-08-15) — made the paper self-contained; added internal and
+  external bibliographies; strengthened prior-art comparison.
+- v0.3 (2026-08-15) — renamed the paper The Network is the Learning
   Computer; narrowed the candidate contribution to packetization and
   switching of unfinished cognitive work; added
   Ithaca/return/assimilation/learning semantics, explicit non-claims,
   living state-of-the-art, current COP evidence, and a two-Odyssey
   Reality test.
-- "v0.3-review (2026-08-16) --- Grok 4.5 decorrelated external review:
-  no factual or SOTA corrections; packet-vs-Task identity and
-  assimilation operationalization retained as load-bearing open
-  questions; handler-independent continuability retained as a bounding
-  issue; v0.3 frozen as reviewed experimental baseline pending the
-  two-Odyssey Reality test."
+- "v0.3-review (2026-08-16) — Grok 4.5 decorrelated external review: no
+  factual or SOTA corrections; packet-vs-Task identity and assimilation
+  operationalization retained as load-bearing open questions;
+  handler-independent continuability retained as a bounding issue; v0.3
+  frozen as reviewed experimental baseline pending the two-Odyssey
+  Reality test."
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -65,10 +65,10 @@ related_documents:
 - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-kernel/docs/cognitive-packet-switching-compatibility.md"
 review:
   reviewed_by:
-  - Grok 4.5 (xAI) --- decorrelated external review, 2026-08-16
+  - Grok 4.5 (xAI) — decorrelated external review, 2026-08-16
   status: reviewed
-status: working-paper --- reviewed baseline, pending Reality test
-subtitle: Revisiting Sun's vision through Cognitive Packet Switching
+status: working-paper — reviewed baseline, pending Reality test
+subtitle: Revisiting Sun’s vision through Cognitive Packet Switching
 tags:
 - learning-computer
 - jhn-architecture
@@ -93,12 +93,12 @@ visibility: public
 
 # The Network is the Learning Computer
 
-## Revisiting Sun's vision through Cognitive Packet Switching
+## Revisiting Sun’s vision through Cognitive Packet Switching
 
 ## Abstract
 
-Sun Microsystems popularized the phrase **"The Network is the
-Computer."** The slogan captured an intuition that computing should not
+Sun Microsystems popularized the phrase **“The Network is the
+Computer.”** The slogan captured an intuition that computing should not
 be understood as something confined to one physical machine. Sun pursued
 that intuition through networked workstations, NFS, Java, Jini, and
 other distributed technologies.
@@ -127,9 +127,9 @@ transform the work and emit one or more successor packets.
 The destination of such a packet is not necessarily a processor. A
 processor is a hop.
 
-The semantic destination is **return**: the packet's yield returns to a
-durable semantic environment --- its **Ithaca** --- where experience can
-be assimilated into a corpus or other persistent cognitive substrate.
+The semantic destination is **return**: the packet’s yield returns to a
+durable semantic environment — its **Ithaca** — where experience can be
+assimilated into a corpus or other persistent cognitive substrate.
 
 If this assimilation merely stores the past, the network remembers.
 
@@ -155,7 +155,7 @@ systems.
 
 # 1. Why revisit Sun again?
 
-"The Network is the Computer" was a remarkably durable formulation
+“The Network is the Computer” was a remarkably durable formulation
 because it described a transition that was already beginning and would
 continue for decades.
 
@@ -195,8 +195,8 @@ This paper asks a different question:
 > requests, or an executing agent, but unfinished cognitive work
 > itself?**
 
-That question leads away from the general claim that "the network
-computes" toward a more specific proposition:
+That question leads away from the general claim that “the network
+computes” toward a more specific proposition:
 
 > **the network can become the environment in which cognitive work
 > acquires continuity, travels, changes, returns, and influences what
@@ -233,17 +233,14 @@ None of them alone is proof.
 The research method used here therefore treats theory and artifacts as
 coupled:
 
-\[ Theory_n
-
-ightarrow Artifact_n
-
-ightarrow Reality
-
-ightarrow Observation_n
-
-ightarrow Theory\_{n+1}
-
-ightarrow Artifact\_{n+1} \]
+$$
+Theory_n
+\rightarrow Artifact_n
+\rightarrow Reality
+\rightarrow Observation_n
+\rightarrow Theory_{n+1}
+\rightarrow Artifact_{n+1}
+$$
 
 The aim is not to protect a novelty claim.
 
@@ -374,13 +371,13 @@ research state, and reusable memory across iterations.
 
 Scientific discovery systems now routinely explore loops resembling:
 
-\[ Experience
+$$
+Experience
+\rightarrow PersistentMemory
+\rightarrow ChangedFutureExploration
+$$
 
-ightarrow PersistentMemory
-
-ightarrow ChangedFutureExploration \]
-
-This means that even "the system learns from previous cognitive work" is
+This means that even “the system learns from previous cognitive work” is
 not by itself distinctive.
 
 The candidate difference is the **packet-centric path by which such work
@@ -402,7 +399,7 @@ Their relevance is not that CPS must defeat them. Their relevance is
 that CPS can inherit from them while remaining precise about its own
 primitive.
 
-# 6. Gelenbe's Cognitive Packet Network: the closest conceptual ancestor
+# 6. Gelenbe’s Cognitive Packet Network: the closest conceptual ancestor
 
 Erol Gelenbe and collaborators proposed the **Cognitive Packet Network
 (CPN)** around 2001.
@@ -414,17 +411,16 @@ can then use the resulting route knowledge.
 
 CPN therefore already contains a loop close to:
 
-\[ Packet
-
-ightarrow Experience
-
-ightarrow MemoryUpdate
-
-ightarrow ChangedFutureRouting \]
+$$
+Packet
+\rightarrow Experience
+\rightarrow MemoryUpdate
+\rightarrow ChangedFutureRouting
+$$
 
 This paper must therefore **not** claim:
 
-> "CPS is the first network in which packet journeys cause learning."
+> “CPS is the first network in which packet journeys cause learning.”
 
 That would be false.
 
@@ -432,11 +428,19 @@ The proposed extension is different.
 
 In classical CPN:
 
-\[ Thing being learned = how to route traffic \]
+$$
+Thing\ being\ learned
+=
+how\ to\ route\ traffic
+$$
 
 In CPS:
 
-\[ Thing being advanced = the cognitive work itself \]
+$$
+Thing\ being\ advanced
+=
+the\ cognitive\ work\ itself
+$$
 
 A compact formulation is:
 
@@ -445,7 +449,7 @@ A compact formulation is:
 
 Or:
 
-> **Gelenbe's cognitive packets learn their way through the network. CPS
+> **Gelenbe’s cognitive packets learn their way through the network. CPS
 > asks whether cognitive work itself can travel that way.**
 
 This is a lineage, not an opposition.
@@ -480,8 +484,8 @@ It must be self-contained in the stronger operational sense:
 
 # 8. Cognitive packetization
 
-The proposed definition is deliberately stricter than "turn a task into
-a message."
+The proposed definition is deliberately stricter than “turn a task into
+a message.”
 
 > **Cognitive packetization is the representation of unfinished
 > cognitive work as a bounded, independently continuable,
@@ -493,7 +497,9 @@ handler-independent identity, semantic transformation, and lineage.
 
 A hop can change the cognitive state of the work:
 
-\[ P\_{i+1}=Transform(H_i,P_i) \]
+$$
+P_{i+1}=Transform(H_i,P_i)
+$$
 
 The result may be a refined question, new evidence, a rejected
 hypothesis, a correction, a proof fragment, a new branch, a conflict, a
@@ -504,11 +510,17 @@ synthesis, or a request for another capability.
 Traditional packet switching separates data from the physical circuit
 carrying it:
 
-\[ data eq circuit \]
+$$
+data 
+\neq circuit
+$$
 
 Cognitive Packet Switching attempts another separation:
 
-\[ cognitive work eq cognitive worker \]
+$$
+cognitive\ work 
+\neq cognitive\ worker
+$$
 
 The handler therefore becomes a hop.
 
@@ -534,15 +546,21 @@ evidence quality, judgment, and availability.
 
 Thus:
 
-\[ Capable(h,p)
-
-ot`\Rightarrow`{=tex} Admissible(h,p) \]
+$$
+Capable(h,p)
+\not\Rightarrow Admissible(h,p)
+$$
 
 A provisional relation is:
 
-\[ Admissible(h,p)= Capable(h,p) `\land `{=tex}Authorized(h,p)
-`\land `{=tex}BudgetCompatible(h,p) `\land `{=tex}PolicyCompatible(h,p)
-`\land `{=tex}Traceable(h,p) \]
+$$
+Admissible(h,p)=
+Capable(h,p)
+\land Authorized(h,p)
+\land BudgetCompatible(h,p)
+\land PolicyCompatible(h,p)
+\land Traceable(h,p)
+$$
 
 The architectural requirement is not that these metadata be novel. It is
 that, when they matter, the execution semantics can refuse a technically
@@ -593,7 +611,10 @@ process. It is the durable semantic locus to which the work belongs.
 
 Therefore:
 
-\[ origin_address eq semantic_Ithaca \]
+$$
+origin_address 
+\neq semantic_Ithaca
+$$
 
 # 13. Ulysses returns, but neither Ulysses nor Ithaca is unchanged
 
@@ -601,11 +622,17 @@ A return is not restoration of the original state.
 
 For Cognitive Packet Switching:
 
-\[ P\_{return} eq P\_{departure} \]
+$$
+P_{return}
+\neq P_{departure}
+$$
 
 and:
 
-\[ Ithaca\_{return} eq Ithaca\_{departure} \]
+$$
+Ithaca_{return}
+\neq Ithaca_{departure}
+$$
 
 The second inequality matters because multiple cognitive journeys may
 occur concurrently.
@@ -638,7 +665,11 @@ ASSIMILATED
 
 Thus:
 
-\[ Done eq Returned eq Assimilated \]
+$$
+Done 
+\neq Returned
+\neq Assimilated
+$$
 
 For a Learning Computer, a cognitive journey contributes to collective
 capacity only if its relevant yield becomes reusable.
@@ -662,23 +693,31 @@ A failed mission may still produce valuable memory.
 
 Therefore:
 
-\[ Failure(P) ot`\Rightarrow `{=tex}NoYield(P) \]
+$$
+Failure(P)
+\not\Rightarrow NoYield(P)
+$$
 
 # 16. Remembering is not learning
 
 Memory alone does not justify the word **Learning**.
 
-\[ Memory = preserved experience \]
+$$
+Memory = preserved\ experience
+$$
 
-\[ Learning = preserved experience + consequential behavioral change \]
+$$
+Learning = preserved\ experience + consequential\ behavioral\ change
+$$
 
 A network learns only if prior journeys alter subsequent cognition.
 
 For at least some later work (Q):
 
-\[ Behavior(N\_{t+1},Q)
-
-eq Behavior(N_t,Q) \]
+$$
+Behavior(N_{t+1},Q)
+\neq Behavior(N_t,Q)
+$$
 
 because the network assimilated an earlier journey.
 
@@ -698,7 +737,9 @@ exploration itself.
 
 Thus:
 
-\[ Yield(P)=SemanticYield(P)+OperationalYield(P) \]
+$$
+Yield(P)=SemanticYield(P)+OperationalYield(P)
+$$
 
 The second term is what allows the network to learn about its own
 cognition.
@@ -707,31 +748,29 @@ cognition.
 
 CPS supplies a short loop:
 
-\[ Packet
-
-ightarrow Handler
-
-ightarrow Packet' \]
+$$
+Packet
+\rightarrow Handler
+\rightarrow Packet’
+$$
 
 Ithaca and assimilation create a longer loop:
 
-\[ Corpus_t
-
-ightarrow Packet
-
-ightarrow Exploration
-
-ightarrow Return
-
-ightarrow Assimilation
-
-ightarrow Corpus\_{t+1} \]
+$$
+Corpus_t
+\rightarrow Packet
+\rightarrow Exploration
+\rightarrow Return
+\rightarrow Assimilation
+\rightarrow Corpus_{t+1}
+$$
 
 Then:
 
-\[ Corpus\_{t+1}
-
-ightarrow NewPackets \]
+$$
+Corpus_{t+1}
+\rightarrow NewPackets
+$$
 
 The Corpus is therefore not merely storage. It is the **semantic
 environment whose changed state conditions the next explorations**.
@@ -766,7 +805,7 @@ Thus:
 > **Packets make the network compute. Returns make the network remember.
 > Experience makes the network learn.**
 
-The word "learning" does not mean that the system must contain a neural
+The word “learning” does not mean that the system must contain a neural
 network or LLM.
 
 It means that accumulated experience produces consequential change.
@@ -813,13 +852,12 @@ evolved.
 
 This is the desired loop:
 
-\[ Theory
-
-ightarrow Artifact
-
-ightarrow Reality
-
-ightarrow Correction \]
+$$
+Theory
+\rightarrow Artifact
+\rightarrow Reality
+\rightarrow Correction
+$$
 
 COP is therefore not presented as proof that the Learning Computer
 already exists.
@@ -831,13 +869,13 @@ concretely**.
 
 The programme should distinguish three levels.
 
-**P0 --- Conceptual evidence:** the idea is defined sufficiently to be
+**P0 — Conceptual evidence:** the idea is defined sufficiently to be
 compared, criticized, and falsified.
 
-**P1 --- Construction evidence:** an executable artifact actually
-realizes the claimed property.
+**P1 — Construction evidence:** an executable artifact actually realizes
+the claimed property.
 
-**P2 --- Evolution evidence:** the artifact is used, encounters
+**P2 — Evolution evidence:** the artifact is used, encounters
 unanticipated reality, and produces observations that materially change
 implementation or theory.
 
@@ -885,9 +923,9 @@ The larger Learning Computer hypothesis is:
 
 The short form is:
 
-> **Packetize the cognitive work.\
-> Let it travel.\
-> Make it return.\
+> **Packetize the cognitive work.  
+> Let it travel.  
+> Make it return.  
 > Learn from the journey.**
 
 # 25. Novelty status
@@ -926,9 +964,10 @@ The next experiment should be small enough to fail cleanly.
 
 Thus:
 
-\[ Ithaca_0
-
-ightarrow Ithaca_1 \]
+$$
+Ithaca_0
+\rightarrow Ithaca_1
+$$
 
 ## Odyssey B
 
@@ -943,9 +982,10 @@ differently, or review occurs earlier.
 
 Therefore:
 
-\[ Journey(P_B`\mid `{=tex}Ithaca_1)
-
-eq Journey(P_B`\mid `{=tex}Ithaca_0) \]
+$$
+Journey(P_B \mid Ithaca_1)
+\neq Journey(P_B \mid Ithaca_0)
+$$
 
 because Odyssey A occurred.
 
@@ -953,17 +993,14 @@ because Odyssey A occurred.
 
 The trace must establish:
 
-\[ P_A
-
-ightarrow Experience
-
-ightarrow Return
-
-ightarrow Assimilation
-
-ightarrow ChangedState
-
-ightarrow ChangedBehavior(P_B) \]
+$$
+P_A
+\rightarrow Experience
+\rightarrow Return
+\rightarrow Assimilation
+\rightarrow ChangedState
+\rightarrow ChangedBehavior(P_B)
+$$
 
 If the second journey is unchanged despite relevant memory, the learning
 claim fails.
@@ -1009,22 +1046,19 @@ the map. Later packets depart from a different map.
 
 The resulting loop is:
 
-\[ Possible
-
-ightarrow Exploration
-
-ightarrow Reality
-
-ightarrow Return
-
-ightarrow Assimilation
-
-ightarrow ChangedPossible \]
+$$
+Possible
+\rightarrow Exploration
+\rightarrow Reality
+\rightarrow Return
+\rightarrow Assimilation
+\rightarrow ChangedPossible
+$$
 
 The computational architecture is valuable only if it makes this
 exploration more capable, traceable, and cumulative.
 
-# 29. Why "Learning Computer" rather than merely "Computer"?
+# 29. Why “Learning Computer” rather than merely “Computer”?
 
 A distributed computer can execute the same task forever without
 learning anything.
@@ -1033,11 +1067,11 @@ A stateful network can remember every packet without learning.
 
 A Learning Computer must satisfy:
 
-\[ Experience_t
-
-ightarrow Memory\_{t+1}
-
-ightarrow ChangedBehavior\_{t+1} \]
+$$
+Experience_t
+\rightarrow Memory_{t+1}
+\rightarrow ChangedBehavior_{t+1}
+$$
 
 This makes learning a falsifiable architectural property.
 
@@ -1052,7 +1086,7 @@ cognitive work.
 
 # 30. Conclusion
 
-Sun's phrase remains correct.
+Sun’s phrase remains correct.
 
 The useful computer escaped the box.
 
@@ -1102,7 +1136,7 @@ It is offered to prior art, implementation, failure, and Reality.
 
 The next step is running code.
 
-# Appendix A --- Explicit non-claims
+# Appendix A — Explicit non-claims
 
 The following are not claimed as original contributions: stored-program
 computing; distributed computing; packet switching; adaptive routing;
@@ -1118,124 +1152,124 @@ learning from previous experiments.
 Their existence strengthens rather than weakens the programme: they are
 mechanisms available for composition.
 
-# Appendix B --- Corpus bibliography
+# Appendix B — Corpus bibliography
 
-**\[C1\] Robert, Jean Hugues Noël.** "JHN Architecture --- A
-Packet/Continuation Computational Architecture."
+**\[C1\] Robert, Jean Hugues Noël.** “JHN Architecture — A
+Packet/Continuation Computational Architecture.”
 `barons-Mariani/research/jhn_architecture.md`, 2026.
 
-**\[C2\] Robert, Jean Hugues Noël.** "Cognitive Packets."
+**\[C2\] Robert, Jean Hugues Noël.** “Cognitive Packets.”
 `cogentia/research/cognitive_packets.md`, 2026.
 
-**\[C3\] Robert, Jean Hugues Noël.** "Cognitive Packet Switching --- A
+**\[C3\] Robert, Jean Hugues Noël.** “Cognitive Packet Switching — A
 Protocol Layer for Routable Ideas, Continuations, and Agent
-Orchestration." `cogentia/research/cognitive_packet_switching.md`, 2026.
+Orchestration.” `cogentia/research/cognitive_packet_switching.md`, 2026.
 
-**\[C4\] Robert, Jean Hugues Noël.** "Cogentia Continuation Packet
-Routing." `cogentia/research/cogentia_continuation_packet_routing.md`,
+**\[C4\] Robert, Jean Hugues Noël.** “Cogentia Continuation Packet
+Routing.” `cogentia/research/cogentia_continuation_packet_routing.md`,
 2026.
 
-**\[C5\] Robert, Jean Hugues Noël.** "Rational Odysseys into The
-Possible." `barons-Mariani/research/rational_odysseys_the_possible.md`,
+**\[C5\] Robert, Jean Hugues Noël.** “Rational Odysseys into The
+Possible.” `barons-Mariani/research/rational_odysseys_the_possible.md`,
 2026.
 
-**\[C6\] Robert, Jean Hugues Noël.** "What is Potentics? Toward a
-Science of the Possible." `barons-Mariani/research/potentics.md`, 2026.
+**\[C6\] Robert, Jean Hugues Noël.** “What is Potentics? Toward a
+Science of the Possible.” `barons-Mariani/research/potentics.md`, 2026.
 
-**\[C7\] Robert, Jean Hugues Noël.** "Discours de la seconde méthode."
+**\[C7\] Robert, Jean Hugues Noël.** “Discours de la seconde méthode.”
 `barons-Mariani/research/second_method.md`, 2026.
 
-**\[C8\] Inseme / COP.** "Compatibility Note: Cognitive Packet
-Switching."
+**\[C8\] Inseme / COP.** “Compatibility Note: Cognitive Packet
+Switching.”
 `inseme/packages/cop-kernel/docs/cognitive-packet-switching-compatibility.md`,
 2026.
 
-# Appendix C --- Foundational external bibliography
+# Appendix C — Foundational external bibliography
 
 **\[E1\] von Neumann, John.** *First Draft of a Report on the EDVAC.*
 Moore School of Electrical Engineering, University of Pennsylvania,
 1945.
 
 **\[E2\] Burks, Arthur W.; Goldstine, Herman H.; von Neumann, John.**
-"Preliminary Discussion of the Logical Design of an Electronic Computing
-Instrument." Institute for Advanced Study, 1946.
+“Preliminary Discussion of the Logical Design of an Electronic Computing
+Instrument.” Institute for Advanced Study, 1946.
 
-**\[E3\] Metcalfe, Robert M.; Boggs, David R.** "Ethernet: Distributed
-Packet Switching for Local Computer Networks." *Communications of the
+**\[E3\] Metcalfe, Robert M.; Boggs, David R.** “Ethernet: Distributed
+Packet Switching for Local Computer Networks.” *Communications of the
 ACM*, 19(7), 1976.
 
-**\[E4\] Dennis, Jack B.; Misunas, David P.** "A Preliminary
-Architecture for a Basic Data-Flow Processor." *Proceedings of the 2nd
+**\[E4\] Dennis, Jack B.; Misunas, David P.** “A Preliminary
+Architecture for a Basic Data-Flow Processor.” *Proceedings of the 2nd
 Annual Symposium on Computer Architecture*, 1975.
 
-**\[E5\] Hewitt, Carl; Bishop, Peter; Steiger, Richard.** "A Universal
-Modular ACTOR Formalism for Artificial Intelligence." *IJCAI*, 1973.
+**\[E5\] Hewitt, Carl; Bishop, Peter; Steiger, Richard.** “A Universal
+Modular ACTOR Formalism for Artificial Intelligence.” *IJCAI*, 1973.
 
-**\[E6\] Hoare, C. A. R.** "Communicating Sequential Processes."
+**\[E6\] Hoare, C. A. R.** “Communicating Sequential Processes.”
 *Communications of the ACM*, 21(8), 1978.
 
-**\[E7\] Gelernter, David.** "Generative Communication in Linda." *ACM
+**\[E7\] Gelernter, David.** “Generative Communication in Linda.” *ACM
 TOPLAS*, 7(1), 1985.
 
-**\[E8\] Reynolds, John C.** "Definitional Interpreters for Higher-Order
-Programming Languages." ACM Annual Conference, 1972.
+**\[E8\] Reynolds, John C.** “Definitional Interpreters for Higher-Order
+Programming Languages.” ACM Annual Conference, 1972.
 
 **\[E9\] Sussman, Gerald Jay; Steele, Guy Lewis Jr.** *Scheme: An
 Interpreter for Extended Lambda Calculus.* MIT AI Memo 349, 1975.
 
-**\[E10\] Milner, Robin; Parrow, Joachim; Walker, David.** "A Calculus
-of Mobile Processes, I & II." *Information and Computation*, 100(1),
+**\[E10\] Milner, Robin; Parrow, Joachim; Walker, David.** “A Calculus
+of Mobile Processes, I & II.” *Information and Computation*, 100(1),
 1992.
 
-**\[E11\] Smith, Reid G.** "The Contract Net Protocol: High-Level
-Communication and Control in a Distributed Problem Solver." *IEEE
+**\[E11\] Smith, Reid G.** “The Contract Net Protocol: High-Level
+Communication and Control in a Distributed Problem Solver.” *IEEE
 Transactions on Computers*, 1980.
 
-**\[E12\] Berry, Gérard; Boudol, Gérard.** "The Chemical Abstract
-Machine." *Theoretical Computer Science*, 96(1), 1992.
+**\[E12\] Berry, Gérard; Boudol, Gérard.** “The Chemical Abstract
+Machine.” *Theoretical Computer Science*, 96(1), 1992.
 
-**\[E13\] Gelenbe, Erol; Lent, Ricardo; Xu, Zhiguang.** "Design and
-Performance of Cognitive Packet Networks." *Performance Evaluation*,
-46(2--3), 2001.
+**\[E13\] Gelenbe, Erol; Lent, Ricardo; Xu, Zhiguang.** “Design and
+Performance of Cognitive Packet Networks.” *Performance Evaluation*,
+46(2–3), 2001.
 
-**\[E14\] Gelenbe, Erol; Lent, Ricardo; Xu, Zhiguang.** "Measurement and
-Performance of a Cognitive Packet Network." *Computer Networks*, 37(6),
+**\[E14\] Gelenbe, Erol; Lent, Ricardo; Xu, Zhiguang.** “Measurement and
+Performance of a Cognitive Packet Network.” *Computer Networks*, 37(6),
 2001.
 
 **\[E15\] Sandberg, Russel; Goldberg, David; Kleiman, Steve; Walsh, Dan;
-Lyon, Bob.** "Design and Implementation of the Sun Network Filesystem."
+Lyon, Bob.** “Design and Implementation of the Sun Network Filesystem.”
 USENIX, 1985.
 
 **\[E16\] Gosling, James; McGilton, Henry.** *The Java Language
 Environment: A White Paper.* Sun Microsystems, 1995.
 
-# Appendix D --- Living state-of-the-art references
+# Appendix D — Living state-of-the-art references
 
 This list is intentionally non-exhaustive and should be rechecked
 whenever the paper is materially revised.
 
-**\[L1\] Temporal Technologies.** Temporal Platform documentation ---
+**\[L1\] Temporal Technologies.** Temporal Platform documentation —
 durable execution and workflow resumption. Checked 2026-08-15.
 
-**\[L2\] Cloudflare.** Durable Objects documentation --- globally unique
+**\[L2\] Cloudflare.** Durable Objects documentation — globally unique
 stateful compute objects with persistent storage. Checked 2026-08-15.
 
-**\[L3\] A2A Project.** Agent2Agent protocol specification --- Task as
+**\[L3\] A2A Project.** Agent2Agent protocol specification — Task as
 core unit of action, status, artifacts, and history. Checked 2026-08-15.
 
-**\[L4\] Xie, Xiaohui; Wang, Zian; Hu, Tianshuo; Cui, Yong.** "Agent
-Communication Gateway for Semantic Routing and Working Memory."
+**\[L4\] Xie, Xiaohui; Wang, Zian; Hu, Tianshuo; Cui, Yong.** “Agent
+Communication Gateway for Semantic Routing and Working Memory.”
 Internet-Draft, draft-agent-gw-01, 2026. Work in progress.
 
 **\[L5\]** Restate, DBOS, Azure Durable Functions, Inngest, Trigger.dev,
-LangGraph, and related current systems --- operational prior art for
+LangGraph, and related current systems — operational prior art for
 durable, long-running, dynamic, and human-interruptible execution.
 
-The Living SOTA section is part of the paper's research method: absence
+The Living SOTA section is part of the paper’s research method: absence
 from this list must never be interpreted as absence from the state of
 the art.
 
-# Appendix E --- Redactor completion report
+# Appendix E — Redactor completion report
 
 ## Target document
 
@@ -1256,30 +1290,29 @@ review of v0.2.
 
 ### Dispositions
 
--   `corrected` --- continuation terminology was overloaded; v0.3
-    explicitly separates abstract continuation from implementation
-    representations.
--   `integrated` --- durable execution and contemporary operational
-    systems moved into the central prior-art discussion.
--   `conceded:load-bearing` --- packet primacy remains a claim requiring
-    experimental discrimination from workflow-, actor-, workspace-, and
-    artifact-centric alternatives.
--   `conceded:load-bearing` --- handler-independent work identity
-    remains unproven as a practically superior primitive.
--   `conceded:bounding` --- synthesis is not treated as an independently
-    novel mechanism.
--   `conceded:bounding` --- Packet Attractor / capability attraction is
-    not treated as a novel mechanism.
--   `reformulate` --- humans and institutions are treated as admissible
-    handlers only through explicit transition contracts; internal
-    cognition is not equated with machine execution.
--   `integrated` --- mandate/budget/trace become meaningful only when
-    they can constrain transition admissibility.
--   `integrated` --- Reality testing is reduced to a discriminating
-    two-Odyssey learning experiment.
--   `rejected` --- renaming JHN Architecture solely because the name is
-    personal; naming is kept provisional and secondary to the technical
-    claim.
+- `corrected` — continuation terminology was overloaded; v0.3 explicitly
+  separates abstract continuation from implementation representations.
+- `integrated` — durable execution and contemporary operational systems
+  moved into the central prior-art discussion.
+- `conceded:load-bearing` — packet primacy remains a claim requiring
+  experimental discrimination from workflow-, actor-, workspace-, and
+  artifact-centric alternatives.
+- `conceded:load-bearing` — handler-independent work identity remains
+  unproven as a practically superior primitive.
+- `conceded:bounding` — synthesis is not treated as an independently
+  novel mechanism.
+- `conceded:bounding` — Packet Attractor / capability attraction is not
+  treated as a novel mechanism.
+- `reformulate` — humans and institutions are treated as admissible
+  handlers only through explicit transition contracts; internal
+  cognition is not equated with machine execution.
+- `integrated` — mandate/budget/trace become meaningful only when they
+  can constrain transition admissibility.
+- `integrated` — Reality testing is reduced to a discriminating
+  two-Odyssey learning experiment.
+- `rejected` — renaming JHN Architecture solely because the name is
+  personal; naming is kept provisional and secondary to the technical
+  claim.
 
 ## Metacognitive yield
 
@@ -1296,39 +1329,39 @@ reflexivity was judged already implicit there.
 ## Known risks
 
 1.  The exact composition may already exist under different terminology.
-2.  "Cognitive Packet" has prior uses and must not be presented as an
+2.  “Cognitive Packet” has prior uses and must not be presented as an
     uncontested neologism.
 3.  Packet primacy may prove to be only a modeling preference if no
     operational advantage survives implementation.
 4.  Return and assimilation remain insufficiently implemented.
-5.  "Learning Computer" can be misunderstood as merely machine learning;
+5.  “Learning Computer” can be misunderstood as merely machine learning;
     the document defines the term behaviorally.
 6.  Living SOTA ages quickly and must be rechecked.
 
 ## Human validation needed
 
--   final choice of title;
--   whether "JHN Architecture" remains the umbrella name;
--   whether the paper should eventually be placed in `barons-Mariani`,
-    `cogentia`, or another repository as canonical source;
--   whether the internal Odyssey/Ithaca terminology should remain as
-    prominent as in this v0.3.
+- final choice of title;
+- whether “JHN Architecture” remains the umbrella name;
+- whether the paper should eventually be placed in `barons-Mariani`,
+  `cogentia`, or another repository as canonical source;
+- whether the internal Odyssey/Ithaca terminology should remain as
+  prominent as in this v0.3.
 
 ## Next useful action
 
 Implement and document the two-Odyssey Reality test:
 
-\[ P_A
+$$
+P_A
+\rightarrow Experience
+\rightarrow Return
+\rightarrow Assimilation
+\rightarrow ChangedState
+\rightarrow ChangedBehavior(P_B)
+$$
 
-ightarrow Experience
-
-ightarrow Return
-
-ightarrow Assimilation
-
-ightarrow ChangedState
-
-ightarrow ChangedBehavior(P_B) \]
+Then submit v0.3 and the resulting artifact evidence to decorrelated
+review.
 
 Then submit v0.3 and the resulting artifact evidence to decorrelated
 review.
