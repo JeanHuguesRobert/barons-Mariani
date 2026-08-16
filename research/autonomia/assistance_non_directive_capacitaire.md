@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-16"
 status: "working-paper"
-version: "0.4"
+version: "0.5"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -135,6 +135,41 @@ priorité aux plus fragiles
 
 Une assistance capacitaire doit donc être évaluée aussi par une question distributive : **qui bénéficie réellement des capacités nouvelles ou restaurées, et ceux qui en ont le plus besoin peuvent-ils effectivement y accéder ?**
 
+### 2.4 Anti-capture marchande de la fragilité
+
+La priorité donnée aux personnes fragiles crée elle-même un risque : leur fragilité peut devenir une ressource économique pour celui qui prétend les aider.
+
+Un service rendu à une personne vulnérable peut légitimement avoir un coût et une rémunération. L'interdit éthique n'est pas le revenu. Il est la **captation de valeur rendue possible précisément par la faiblesse, la dépendance, l'ignorance, l'isolement ou la difficulté de sortie de la personne**.
+
+> **La fragilité d'une personne ne doit jamais devenir le principal actif économique de celui qui l'assiste.**
+
+Le risque de capture augmente notamment lorsque le même opérateur contrôle plusieurs éléments à la fois : information, accès au service, prescription de la solution, facturation, moyens de paiement, données personnelles, hébergement, possibilité de sortie ou évaluation de la dépendance.
+
+Une architecture capacitaire doit donc chercher à rendre cette capture structurellement difficile :
+
+- prix et mode de calcul compréhensibles ;
+- séparation autant que possible entre conseil, fourniture et contrôle ;
+- absence de commission ou d'intérêt caché ;
+- droit réel de comparaison et de changement de prestataire ;
+- portabilité des données et du dossier ;
+- consentement révocable ;
+- absence de verrou propriétaire évitable ;
+- traçabilité des actes du prestataire plutôt que surveillance accrue de la personne ;
+- contrôle renforcé des actes financiers ou engageants ;
+- possibilité d'intervention d'un tiers choisi par la personne ;
+- conception qui réduit la dépendance au service lorsqu'elle peut être réduite.
+
+Le droit positif sanctionne certaines formes d'abus de faiblesse ou de vulnérabilité. La doctrine capacitaire vise plus large : **prévenir aussi les formes de capture qui peuvent rester licites en apparence, diffuses, systémiques ou difficiles à prouver individuellement.**
+
+Le test éthique devient donc :
+
+```text
+si la vulnérabilité de la personne augmente,
+le pouvoir économique de l'assistant ne doit pas augmenter mécaniquement avec elle.
+```
+
+L'objectif est au contraire d'aligner l'intérêt du prestataire avec la restauration de capacité : une bonne assistance doit pouvoir réussir même lorsqu'elle rend progressivement une partie de ses propres interventions inutiles.
+
 ## 3. Assistance, suggestion et délégation
 
 La non-directivité ne signifie pas qu'un système informatique ne peut jamais décider ou agir.
@@ -167,6 +202,7 @@ Pour toute nouvelle fonctionnalité d'assistance, demander au minimum :
 6. La fonctionnalité peut-elle être refusée, limitée, suspendue ou révoquée ?
 7. La personne ou le collectif assisté reste-t-il effectivement maître de ses finalités ?
 8. Les personnes les plus fragiles peuvent-elles effectivement accéder à cette capacité, ou l'architecture privilégie-t-elle surtout celles qui sont déjà les mieux dotées ?
+9. Le modèle économique gagne-t-il davantage lorsque la personne reste dépendante, captive, désorientée ou incapable de comparer ?
 
 Une fonctionnalité qui augmente surtout la capacité de la plateforme à observer, profiler, prédire ou influencer l'usager échoue au test capacitaire, même si elle améliore certains indicateurs d'usage ou d'engagement.
 
@@ -217,6 +253,6 @@ Potentics ne suppose pas qu'il existe un futur unique à optimiser. Il aide à e
 
 ## 7. Formule canonique provisoire
 
-> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir, avec une priorité éthique pour les personnes dont les capacités effectives sont les plus fragiles ou les plus entravées. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
+> **Cogentia cherche à créer, restaurer, désentraver ou augmenter la capacité des humains et des collectifs à percevoir, comprendre, explorer, choisir et agir, avec une priorité éthique pour les personnes dont les capacités effectives sont les plus fragiles ou les plus entravées. Cette priorité exclut la capture marchande de leur vulnérabilité : l'intérêt du système doit être aligné avec l'augmentation de leur capacité et de leur faculté de sortie. L'IA éclaire et suggère par défaut ; elle ne prescrit ni ne décide à la place du principal, sauf délégation explicite dans les limites d'un mandat contrôlable et révocable.**
 
 Cette formulation est provisoire et doit rester compatible avec la grammaire générale de l'Autonomie de Capacité, dont elle constitue une spécialisation pour les systèmes d'assistance.
