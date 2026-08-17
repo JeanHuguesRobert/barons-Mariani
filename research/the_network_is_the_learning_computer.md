@@ -24,6 +24,11 @@ changelog:
   handler-independent continuability retained as a bounding issue; v0.3
   frozen as reviewed experimental baseline pending the two-Odyssey
   Reality test."
+- v0.4 (2026-08-17) — small post-review extension: makes handler
+  symmetry explicit, treats reasoners as capability providers rather
+  than privileged centers, and adds Physarum as a bounded biological
+  analogy for routing-as-computation, externalized memory, and
+  distributed problem solving without a central nervous system.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -36,7 +41,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-08-16
+last_modified_at: 2026-08-17
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -66,8 +71,8 @@ related_documents:
 review:
   reviewed_by:
   - Grok 4.5 (xAI) — decorrelated external review, 2026-08-16
-  status: reviewed
-status: working-paper — reviewed baseline, pending Reality test
+  status: v0.3 reviewed baseline; v0.4 pending review
+status: working-paper — v0.3 reviewed baseline; v0.4 pending review
 subtitle: Revisiting Sun’s vision through Cognitive Packet Switching
 tags:
 - learning-computer
@@ -84,10 +89,12 @@ tags:
 - ithaca
 - stigmergy
 - learning
+- physarum
+- distributed-cognition
 - independent-research
 title: The Network is the Learning Computer
 update_policy: UP-DEFAULT-REVIEWED
-version: 0.3
+version: 0.4
 visibility: public
 ---
 
@@ -531,6 +538,14 @@ human, reviewer, institution, physical actuator, or another network.
 These entities are not equivalent. They are unified only by the fact
 that each may provide an admissible transformation.
 
+This symmetry should include the **reasoner itself**. A reasoning model
+is not required to occupy a privileged architectural center. It can be
+one capability provider among others, alongside a calculator, reactive
+dependency engine, Prolog system, optimizer, Monte Carlo process,
+programmable runtime, memory substrate, search system, human, or peer
+network. Which one should process the packet next is a routing question,
+not an ontological hierarchy.
+
 The routing question can therefore become:
 
 > **What capability could legitimately advance this work next?**
@@ -575,6 +590,19 @@ A packet may discover during its journey a missing capability, a new
 hypothesis, a stronger critic, a cheaper processor, a conflicting
 source, a worthwhile branch, a human-decision requirement, or a new
 question that did not exist at departure.
+
+Packet Attractors provide one candidate mechanism for such routing. The
+envelope can progressively accumulate enough information about required
+capabilities, constraints, risk, evidence, cost, locality, legitimacy,
+and return conditions for different available nodes to exert different
+attraction. A hop can therefore enrich not only the payload but also the
+information that conditions the next hop.
+
+This suggests a stronger possibility than ordinary dispatch: **part of
+the reasoning may be realized by the journey itself**. Routing,
+transformation, branching, backtracking, trace accumulation, and
+subsequent route selection need not be cleanly separable from cognitive
+processing.
 
 Thus:
 
@@ -775,7 +803,50 @@ $$
 The Corpus is therefore not merely storage. It is the **semantic
 environment whose changed state conditions the next explorations**.
 
-No broader biological analogy is required.
+No biological analogy is required for this architectural claim.
+Nevertheless, biology offers useful counterexamples to the assumption
+that problem solving requires a central nervous system or a privileged
+reasoning organ.
+
+## 18.1 Physarum: when the network participates in the computation
+
+The plasmodial slime mould **Physarum polycephalum** is a particularly
+useful bounded analogy. It has no brain or neurons, yet experiments have
+shown that its changing tubular body can select a minimum-length path
+between food sources in a maze [E17]. Later work showed that it can use
+extracellular traces as an **externalized spatial memory**, avoiding
+previously explored regions and solving a U-shaped navigation problem
+[E18].
+
+The relevant lesson is not that a Cognitive Packet network should mimic
+slime mould biology. It is narrower:
+
+> **routing, memory, topology, and problem solving need not be cleanly
+> separated into a central reasoner plus passive infrastructure.**
+
+In Physarum, the network that transports internal flows also changes its
+shape as a consequence of experience. Productive paths persist or are
+reinforced; less useful paths regress; traces left in the environment
+condition later exploration. The evolving network is therefore part of
+the mechanism by which the problem is solved.
+
+This supplies a biological existence proof for a weaker proposition
+relevant to CPS: **some nontrivial adaptive problem solving can emerge
+without a central nervous system**. It does not prove that CPS or JHN
+Architecture will work, nor that their mechanisms are biologically
+homologous.
+
+For the Learning Computer hypothesis, however, it motivates a sharper
+question:
+
+> **What if the journey of the Cognitive Packet is itself part of the
+> reasoning, rather than merely transportation between places where
+> reasoning occurs?**
+
+Packet Attractors, route reinforcement, operational yield, stigmergic
+traces, backtracking, and changing capability availability then become
+possible components of computation rather than mere orchestration
+metadata.
 
 # 19. From Computer to Learning Computer
 
@@ -1243,6 +1314,16 @@ USENIX, 1985.
 **\[E16\] Gosling, James; McGilton, Henry.** *The Java Language
 Environment: A White Paper.* Sun Microsystems, 1995.
 
+**\[E17\] Nakagaki, Toshiyuki; Yamada, Hiroyasu; Tóth, Ágota.**
+“Maze-solving by an amoeboid organism.” *Nature* 407, 470, 2000.
+DOI: 10.1038/35035159.
+
+**\[E18\] Reid, Chris R.; Latty, Tanya; Dussutour, Audrey; Beekman,
+Madeleine.** “Slime mold uses an externalized spatial ‘memory’ to
+navigate in complex environments.” *Proceedings of the National Academy
+of Sciences* 109(43), 17490–17494, 2012. DOI:
+10.1073/pnas.1215037109.
+
 # Appendix D — Living state-of-the-art references
 
 This list is intentionally non-exhaustive and should be rechecked
@@ -1365,3 +1446,30 @@ review.
 
 Then submit v0.3 and the resulting artifact evidence to decorrelated
 review.
+
+# Appendix F — v0.4 micro-revision note
+
+This revision intentionally preserves v0.3 as the reviewed baseline and
+adds only a bounded conceptual extension derived from the 2026-08-17
+conversation.
+
+Changes:
+
+- makes explicit that a reasoning model is one capability provider among
+  other admissible handlers rather than a mandatory cognitive center;
+- connects Packet Attractors and enriched packet envelopes to the
+  possibility that routing contributes to reasoning;
+- adds *Physarum polycephalum* as a carefully bounded biological analogy
+  for decentralized problem solving, dynamic network topology, and
+  externalized memory;
+- adds primary references [E17] and [E18].
+
+Non-claim:
+
+> Physarum is evidence that some adaptive problem solving is possible
+> without a central nervous system. It is **not** evidence that CPS uses
+> the same mechanism, nor proof of JHN Architecture or the Learning
+> Computer hypothesis.
+
+Review status: v0.4 awaits decorrelated review. The two-Odyssey Reality
+test remains the primary experimental continuation.
