@@ -61,6 +61,36 @@ Le Musée uchronique repose sur trois postulats :
 
 Ce cadre s’inscrit dans la tradition de l’histoire contrefactuelle tout en s’en distinguant par son ambition opératoire.
 
+#### 3.1 Uchronie contrainte comme expérience de pensée
+
+Le Musée uchronique peut être compris comme un cas particulier d’**expérience de pensée contrainte**. Cette articulation évite de traiter l’uchronie comme une épistémologie isolée : elle mobilise une méthode plus générale consistant à modifier explicitement une condition d’un modèle, propager les conséquences de cette intervention sous contraintes, puis comparer le monde obtenu avec un monde de référence.
+
+Une expérience de pensée uchronique peut ainsi être décrite par :
+
+- un **état initial** historiquement documenté ;
+- un **point de bifurcation** ou intervention contrefactuelle explicite ;
+- des **contraintes préservées**, notamment la continuité causale et les conditions structurelles pertinentes ;
+- des **règles de propagation** suffisamment explicites pour distinguer l’inférence de la fiction libre ;
+- des **observables** : conséquences, contradictions, capacités, dépendances ou trajectoires nouvelles ;
+- une **comparaison** avec la trajectoire advenue ;
+- un **statut épistémique** qui interdit de confondre cohérence du scénario et réalité historique.
+
+Dans cette perspective, le **Counterfactual Forking** désigne seulement un mécanisme général d’exécution : à partir d’un état de référence, plusieurs mondes hypothétiques incompatibles peuvent être développés séparément avant comparaison. L’uchronie contrainte en constitue le cas historique : le fork porte sur un passé non advenu.
+
+```text
+état historique documenté
+-> trajectoire advenue (référence)
+-> trajectoire contrefactuelle A
+-> trajectoire contrefactuelle B
+-> propagation sous contraintes
+-> comparaison
+-> inférences / nouvelles questions / tests documentaires ou empiriques
+```
+
+Le bénéfice attendu n’est donc pas la multiplication narrative des histoires possibles, mais l’augmentation de la capacité d’inférence. Une branche contrefactuelle peut être fausse comme description de ce qui s’est produit tout en restant féconde comme instrument pour identifier une dépendance causale, une hypothèse invisible ou une possibilité négligée.
+
+Cette articulation est également compatible avec l’**Exploration Rationnelle du Possible** : l’expérience de pensée fournit une opération cognitive générale ; le Counterfactual Forking fournit un mécanisme de branchement ; l’uchronie contrainte fournit une spécialisation historique disciplinée.
+
 ---
 
 ### 4. Étude de cas : hypothèse napoléonienne en Corse (Minesteggio, Corte)
