@@ -4,7 +4,7 @@ subtitle: "Small interventions, fertile grounds, and disproportionate openings o
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-10"
-version: "0.1"
+version: "0.2"
 status: "working-note — source doctrine"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -36,6 +36,7 @@ related_documents:
   - "research/rational_odysseys_the_possible.md"
   - "research/potentics.md"
   - "research/le_reel_le_virtuel_et_l_actuel.md"
+  - "research/the_network_is_the_learning_computer.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md"
 tags:
@@ -48,6 +49,8 @@ tags:
   - leverage
   - experimentation
   - optimistic-locking
+  - niche-construction
+  - capability-routing
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -132,6 +135,24 @@ This is not a claim that a Booster always exists. It is an **obligation of searc
 > **Before a large intervention, look for a smaller reversible intervention that might unlock existing capacity.**
 
 If none is found, the larger intervention remains available.
+
+### 3.1. Where a Booster may act
+
+A Booster is not necessarily an addition to the agent itself. It may act at several distinct loci:
+
+```text
+agent       -> change an internal capability
+prosthesis  -> add a small complementary capability
+relation    -> connect capabilities that already exist
+routing     -> make the right capability easier to reach
+terrain     -> reshape the environment so that many future actions become easier
+```
+
+These categories are provisional and may overlap. Their purpose is to prevent the search for leverage from being reduced to "improve the agent".
+
+A **terrain Booster** is particularly important: a small environmental intervention may redirect flows already present in the system and thereby benefit many subsequent agents or journeys. A beaver dam is a useful biological archetype. The animal does not supply the energy of the watershed; it changes constraints so that water, sediment, vegetation, and other organisms reorganize around a modified terrain.
+
+The computational analogue may be equally modest: expose a previously hidden capability, add an attractor, remove a routing barrier, improve an envelope, preserve a useful trace, or lower the cost of a repeatedly successful path.
 
 ---
 
