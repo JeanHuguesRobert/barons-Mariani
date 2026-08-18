@@ -127,6 +127,8 @@ A useful separation is:
 
 `reality -> Cogentiscope probes -> observations -> Cogentigram -> public KYS referential -> certification`.
 
+The corresponding institutional and conformance work belongs in the dedicated [PrivAI repository](https://github.com/acorsica/privai), whose existing KYS profiles, KYS contracts and migration/conformance tests provide the natural certification-side counterpart to this research note.
+
 PrivAI Foundation can act as a guardian of the referential and certification process, while keeping methods, evidence and reproducibility sufficiently open that certification does not require blind trust in the certifier.
 
 A core principle follows:
