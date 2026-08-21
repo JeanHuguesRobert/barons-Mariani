@@ -2,14 +2,26 @@
 title: "Une théorie de sécurité de la démocratie représentative"
 subtitle: "Du principal-agent à la non-auto-élévation des privilèges politiques"
 author: "Jean Hugues Noël Robert"
-status: "document source — recherche — doctrinal"
-version: "0.1"
+status: "document source — recherche — doctrinal — validé pour publication"
+version: "0.3"
 date: "2026-08-21"
 license: "CC BY-SA 4.0"
 language: "fr"
 repository: "barons-Mariani"
 canonical_path: "barons-Mariani/research/security_model_representative_democracy.md"
 source_status: "source souveraine du corpus politique et de recherche"
+review_status: "revue adverse Grok 4.5 intégrée ; stress-test de droit public intégré ; publication explicitement autorisée par Jean Hugues"
+publication_history:
+  - date: "2026-08-21"
+    event: "publication prématurée"
+    human_assessment: "sans conséquence grave"
+    cause: "écriture GitHub avant revue adverse et validation humaine requises"
+  - date: "2026-08-21"
+    event: "revue adverse"
+    reviewer: "Grok 4.5"
+  - date: "2026-08-21"
+    event: "validation humaine et autorisation de publication"
+    validator: "Jean Hugues"
 related_research:
   - "barons-Mariani/research/non_auto_elevation_privileges.md"
   - "barons-Mariani/research/democratie_crise_mandats_express.md"
@@ -36,142 +48,116 @@ keywords:
 
 ## Résumé
 
-La démocratie représentative peut être étudiée comme un système de délégation de capacités entre un **principal**, le peuple souverain, et des **agents**, ses représentants. Cette lecture n'est pas nouvelle : la science politique utilise depuis longtemps les modèles principal-agent pour étudier délégation, asymétrie d'information, contrôle et accountability.
+La démocratie représentative peut être étudiée comme un système de délégation de capacités entre un **principal politique**, le peuple souverain, et des **agents**, ses représentants. La théorie principal-agent fournit depuis longtemps une partie de ce vocabulaire. L'hypothèse étudiée ici consiste à franchir une étape supplémentaire : appliquer à la représentation politique les principes de sécurité employés pour gouverner des agents puissants, notamment les agents d'intelligence artificielle.
 
-L'hypothèse développée ici consiste à franchir une étape supplémentaire : appliquer à la représentation politique les principes de sécurité que l'informatique applique aux agents puissants et que le développement récent des agents d'intelligence artificielle rend désormais particulièrement explicites.
-
-Un système sûr ne suppose pas l'agent vertueux. Il limite ses privilèges, trace ses actes, sépare les pouvoirs, prévoit la révocation et interdit qu'il élargisse lui-même son mandat. Or plusieurs de ces garanties paraissent plus naturelles lorsqu'il s'agit d'un agent logiciel ou d'un syndic de copropriété que lorsqu'il s'agit d'un représentant politique.
-
-La question centrale devient donc :
+Un système sûr ne suppose pas l'agent vertueux. Il borne ses privilèges, trace ses actes, sépare action et autorisation, prévoit la révocation et interdit l'auto-élévation des privilèges. Or ces garanties paraissent plus naturelles pour un agent logiciel ou un syndic de copropriété que pour un représentant politique.
 
 > **Pourquoi accepter d'un agent politique ce que nous considérerions comme une vulnérabilité de sécurité chez un agent artificiel ou un mandataire ordinaire ?**
 
-La thèse n'est pas que les représentants seraient individuellement malveillants. Elle est au contraire systémique : une architecture de pouvoir doit rester sûre lorsque ses agents se trompent, poursuivent leurs intérêts, subissent des conflits d'intérêts ou cherchent à conserver leurs privilèges. La vertu individuelle ne constitue pas un mécanisme de sécurité.
+La thèse est systémique et non morale : une architecture de pouvoir doit rester sûre lorsque ses agents se trompent, poursuivent leurs intérêts, subissent des conflits d'intérêts ou cherchent à conserver leurs privilèges.
 
-## 1. Changement de perspective : de la morale à la sécurité
+La contribution revendiquée reste une **hypothèse d'originalité à falsifier**. Elle porte moins sur chacune des briques — délégation, accountability, recall, checks and balances, least privilege, audit — que sur leur traduction systématique dans un même *security model* et sur quatre objets candidats : **non-auto-élévation**, **Follow the Power**, **test capacitaire du désaccord** et application aux transferts d'autonomie territoriale.
 
-Le débat politique personnalise volontiers les dysfonctionnements : mauvais élus, trahisons, corruption, carriérisme, manque de courage. Ces phénomènes existent, mais leur invocation peut masquer une question plus fondamentale : **que permet l'architecture ?**
+## 1. De la vertu à l'architecture
 
-En sécurité informatique, on ne construit pas un système en supposant que tous les administrateurs, processus ou agents resteront vertueux. On pose au contraire que l'erreur, la compromission et le conflit d'intérêts sont possibles, puis on limite leur portée.
-
-Le même raisonnement peut être appliqué à la démocratie :
+En sécurité, on ne construit pas un système en supposant que tous ses agents resteront vertueux. L'erreur, la compromission et le conflit d'intérêts sont des propriétés à contenir.
 
 ```text
 bons individus + architecture vulnérable != système sûr
 ```
 
-La démocratie représentative doit donc pouvoir rester démocratique même lorsque certains représentants ne le sont pas parfaitement.
+La démocratie représentative devrait satisfaire la même exigence : **rester démocratique même lorsque certains représentants ne le sont pas parfaitement**.
 
-## 2. Le modèle minimal
+Le problème étudié n'est donc pas « les élus sont-ils vertueux ? », mais : **quelles propriétés du système empêchent un agent politique de convertir une délégation temporaire en avantage structurel sur son principal ?**
 
-Le modèle comporte deux acteurs conceptuels :
+## 2. Modèle minimal, puis correction multi-principals
+
+Le modèle heuristique minimal est :
 
 ```text
 PRINCIPAL : le peuple souverain
 AGENT     : le représentant mandaté
 ```
 
-Le principal délègue certaines capacités à l'agent afin que celui-ci puisse agir efficacement en son nom.
-
-Cette délégation ne devrait pas transférer la propriété de la source du pouvoir.
-
-Invariant :
+Le principal délègue des capacités à l'agent pour qu'il agisse en son nom. Cette délégation ne devrait pas transférer la propriété de la source du pouvoir.
 
 > **Un mandat autorise l'exercice d'un pouvoir. Il n'autorise pas l'appropriation de sa source.**
 
-La distinction est essentielle entre :
+Mais le « peuple » n'est pas l'équivalent simple d'un utilisateur unique. La démocratie est un système **multi-principals** : citoyens individuels, majorité politique momentanée, minorités, collectivités, générations présentes et futures peuvent avoir des intérêts divergents. Les droits fondamentaux et les garanties constitutionnelles peuvent alors être compris comme des bornes empêchant un principal momentané de capturer irréversiblement les capacités des autres.
 
-- pouvoir délégué ;
-- pouvoir approprié ;
-- élévation légitime de privilèges autorisée par le principal ;
-- auto-élévation de privilèges décidée par l'agent lui-même.
+Cette correction interdit une transposition naïve de l'informatique au droit constitutionnel. Le modèle principal-agent reste un instrument d'analyse, non une définition exhaustive de la représentation politique.
 
-## 3. Trois mandataires, une seule question
-
-Trois situations rendent le problème immédiatement visible.
+## 3. Trois mandataires, une question
 
 | Principal | Agent | Attente de sécurité ordinaire |
 |---|---|---|
-| utilisateur | agent IA | permissions bornées, traces, arrêt, approbation des actes sensibles |
+| utilisateur | agent IA | permissions bornées, logs, arrêt, approbation des actes sensibles |
 | copropriétaires | syndic | mandat borné, comptes, assemblée, contrôle, révocation |
 | peuple | représentants | élection, publicité institutionnelle, contrôle beaucoup plus indirect |
 
-La question commune est :
-
 > **Le mandataire peut-il augmenter lui-même les pouvoirs que le mandant lui a confiés ?**
 
-Pour un agent IA, une telle capacité est immédiatement identifiée comme un risque d'élévation de privilèges.
+Pour l'agent IA, ce serait un risque d'élévation de privilèges. Pour le syndic, une redéfinition unilatérale de son mandat contre les copropriétaires serait anormale. Pour le représentant politique, les représentants participent pourtant à la définition des pouvoirs de la représentation et des conditions de reprise directe de la décision par le peuple. Cette différence demande justification.
 
-Pour un syndic, l'idée qu'il puisse librement redéfinir ses propres pouvoirs contre les copropriétaires serait manifestement anormale.
+## 4. Trois niveaux à ne pas confondre
 
-Pour le représentant politique, en revanche, l'architecture accepte que les représentants participent directement à la définition des pouvoirs de la représentation et des conditions dans lesquelles le peuple peut reprendre directement la décision.
+La revue adverse a fait apparaître une distinction nécessaire, notamment face au pouvoir constituant dérivé et à l'autonomie normale des institutions.
 
-Cette différence demande justification.
+### A. Exercice du mandat
 
-## 4. Les invariants de sécurité
+L'agent utilise les pouvoirs qui lui ont été conférés. C'est la fonction normale de la délégation.
 
-### 4.1 Non-auto-élévation des privilèges
+### B. Auto-administration du mandat
 
-> **Aucun agent humain, institutionnel ou artificiel ne peut augmenter les pouvoirs qui lui ont été délégués sans autorisation du principal dont ils procèdent.**
+L'institution règle son calendrier, ses procédures internes et son organisation dans les limites de compétences déjà conférées. Une démocratie fonctionnelle ne peut soumettre chaque acte d'administration interne à une autorisation populaire directe.
 
-Ce principe ne signifie pas qu'un mandat ne puisse jamais évoluer. Il signifie que l'agent ne doit pas être l'autorité suffisante pour augmenter ses propres privilèges.
+### C. Modification du rapport de capacité principal/agent
 
-### 4.2 Least privilege
+L'agent modifie les règles qui déterminent son propre pouvoir relativement au principal : durée, révocabilité, conditions de contrôle, capacité de décision directe du principal, étendue substantielle des prérogatives ou barrières à leur reprise.
 
-L'agent ne reçoit que les capacités nécessaires à sa mission, dans le périmètre nécessaire et pour la durée nécessaire.
+C'est ici que le gate doit devenir plus fort.
 
-Transposition politique : subsidiarité et mandat borné.
+> **Un agent peut administrer l'exercice de son mandat ; il ne peut modifier unilatéralement en sa faveur le rapport de capacité qui le lie à son principal.**
 
-### 4.3 Traçabilité des actes
+Cette formulation évite de qualifier abusivement toute évolution institutionnelle d'« élévation de privilèges » tout en isolant le risque de sécurité pertinent.
 
-Tout exercice significatif d'un pouvoir délégué doit produire une trace permettant de répondre au minimum à :
+## 5. Invariants de sécurité
 
-```text
-Qui a fait quoi ?
-Au nom de qui ?
-Avec quel mandat ?
-Sur quelle base ?
-Qui l'a autorisé ?
-Quels pouvoirs ont été modifiés ?
-Qui a voté pour ou contre ?
-Comment l'acte peut-il être contesté ?
-```
+### 5.1 Non-auto-élévation
 
-La publicité brute ne suffit pas. Une masse de documents juridiquement publics mais pratiquement inexploitable ne produit pas nécessairement une capacité de contrôle.
+> **Aucun agent humain, institutionnel ou artificiel ne devrait pouvoir augmenter unilatéralement, en sa faveur, les pouvoirs qui déterminent son rapport de capacité avec le principal dont ils procèdent.**
 
-### 4.4 Révocabilité
+Ce principe est normatif. En droit constitutionnel français positif, le Parlement participe notamment au pouvoir de révision prévu par l'article 89 ; la théorie proposée ici ne prétend pas que cette participation est actuellement illicite. Elle propose un critère de sécurité pour distinguer exercice constitutionnel et modification auto-intéressée du rapport de pouvoir.
 
-Un principal qui ne peut retirer une délégation problématique conserve imparfaitement le contrôle de son agent.
+### 5.2 Least privilege
 
-La traçabilité sans révocabilité permet de constater l'abus mais pas d'interrompre le mandat qui le permet.
+L'agent ne reçoit que les capacités nécessaires à sa mission, dans le périmètre et pour la durée nécessaires. Transposition politique : subsidiarité, compétence attribuée et mandat borné.
 
-Invariant :
+### 5.3 Traçabilité des actes
+
+Tout exercice significatif d'un pouvoir délégué doit permettre de répondre : qui a fait quoi, au nom de qui, avec quel mandat, sur quelle base, avec quelle autorisation, avec quel effet sur la distribution des pouvoirs, et comment l'acte peut être contesté.
+
+La publicité brute n'est pas la traçabilité effective : des milliers de pages publiques mais cognitivement inexploitables ne suffisent pas.
+
+### 5.4 Révocabilité
+
+La traçabilité sans révocabilité permet de constater un abus mais pas d'interrompre le mandat qui le permet.
 
 ```text
 mandater -> tracer -> contrôler -> corriger ou révoquer
 ```
 
-### 4.5 Refus effectif de l'offre
+La révocabilité n'est toutefois pas un bien sans coût : un mécanisme mal conçu peut favoriser harcèlement politique, instabilité permanente ou capture par une minorité fortement mobilisée. Le *recall* doit donc lui-même être sécurisé : seuils, délais, conditions et protections contre les usages abusifs.
 
-Le contrôle du principal ne peut être réduit au choix périodique entre les agents que le système lui propose.
+### 5.5 Refus effectif de l'offre
 
-Un vote blanc reconnu mais sans capacité d'invalider ou de renouveler l'offre illustre un refus enregistré mais dépourvu d'effet décisionnel.
+Le contrôle du principal ne peut se réduire au choix périodique entre les agents proposés par le système. Un vote blanc comptabilisé mais sans effet décisionnel constitue un refus enregistré mais impuissant.
 
-Un peuple effectivement souverain doit donc pouvoir non seulement choisir, mais aussi **refuser l'offre politique** selon des règles déterminées à l'avance.
+### 5.6 Reprise du contrôle
 
-### 4.6 Reprise du contrôle
+Le principal doit conserver une capacité effective de reprise : décision directe, référendum déclenchable, révocation, renouvellement forcé de l'offre électorale ou mécanisme équivalent. La forme est discutable ; l'invariant est la conservation d'une capacité de reprise compatible avec les droits fondamentaux et la pluralité des principals.
 
-Le principal doit conserver une capacité effective de reprise du contrôle.
-
-Dans une démocratie, cela peut prendre plusieurs formes : décision directe, référendum déclenchable par les citoyens, révocation, nouvelle élection provoquée par un seuil de refus, ou autres mécanismes constitutionnels.
-
-La forme est discutable ; l'invariant l'est moins : une délégation irréversible jusqu'à une échéance décidée par le système réduit la capacité effective du principal.
-
-## 5. Le test du désaccord
-
-Le pouvoir est difficile à observer lorsque principal et agent veulent la même chose.
-
-Le test pertinent est donc :
+## 6. Test du désaccord
 
 ```text
 Peuple = OUI ; représentants = NON
@@ -181,41 +167,55 @@ Peuple = NON ; représentants = OUI
 Qui gagne ?
 ```
 
-La souveraineté effective apparaît lorsque les volontés divergent.
+Le pouvoir devient observable lorsque les volontés divergent.
 
-Une formulation opérationnelle est :
+> **Est souverain, au sens capacitaire, celui dont la décision peut effectivement prévaloir sur celle de son agent dans le domaine où il est légitime qu'il décide, sous réserve des droits fondamentaux et des garanties dues aux autres principals.**
 
-> **Est souverain celui dont le refus ne peut être renversé par celui qui prétend agir en son nom, dans le domaine légitime de cette souveraineté et sous réserve des droits fondamentaux.**
+Cette proposition est un test analytique, non une description du droit positif.
 
-Cette définition ne remplace pas le droit constitutionnel positif. Elle constitue un test capacitaire.
+## 7. Stress-test de droit public français
 
-## 6. Souveraineté formelle et souveraineté effective
+Le droit positif français impose plusieurs corrections importantes à l'analogie du mandat.
 
-La Constitution française affirme que la souveraineté nationale appartient au peuple et qu'aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice.
+L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, exercée par ses représentants et par la voie du référendum, et qu'aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice. L'article 27 dispose cependant que **tout mandat impératif est nul**. Le représentant parlementaire n'est donc pas, juridiquement, un mandataire civil soumis aux instructions permanentes de ses électeurs.
 
-Une lecture strictement représentative considère les élus comme représentants de la Nation entière et non comme une simple section exerçant son intérêt particulier.
+Cette objection ne détruit pas le modèle ; elle en fixe le statut. Le vocabulaire principal-agent sert ici à **tester les capacités et les contrôles**, non à prétendre que le mandat représentatif est juridiquement identique à un mandat privé.
 
-La théorie de sécurité proposée ici pose une question différente :
+Deuxième objection : le Parlement participe légitimement à la production de la loi et, selon l'article 89, au pouvoir de révision constitutionnelle. Toute modification des institutions par des représentants ne peut donc être assimilée à une auto-élévation illégitime. Le test pertinent doit porter sur la **variation du rapport de capacité** et sur les gates applicables lorsque l'agent bénéficie lui-même de cette variation.
+
+Troisième objection : une souveraineté populaire sans bornes peut devenir domination majoritaire. Le modèle doit donc être articulé aux droits fondamentaux, au contrôle juridictionnel et aux protections des minorités. Une « reprise du contrôle » n'est pas une permission de supprimer les garanties qui rendent possible l'existence politique des autres principals.
+
+Quatrième objection : indépendance du représentant et accountability sont en tension. Une révocation instantanée à chaque divergence pourrait transformer le représentant en simple terminal de sondage et rendre impossibles compromis, délibération et décision de long terme. Le problème de sécurité n'est donc pas de supprimer toute autonomie de l'agent, mais de **rendre cette autonomie bornée, observable et récupérable**.
+
+Conclusion du stress-test : la théorie survit si elle abandonne l'identification simpliste `élu = mandataire civil` et se présente comme une **couche de sécurité capacitaire complémentaire** de la théorie constitutionnelle classique.
+
+## 8. Souveraineté formelle et souveraineté effective
+
+La question de sécurité devient :
 
 > **Quelles garanties empêchent l'exercice par représentation de devenir progressivement maîtrise de l'exercice par les représentants ?**
 
-La titularité formelle ne suffit pas à répondre à cette question. Il faut mesurer les capacités effectives : initiative, veto, contrôle, révocation, accès à l'information, capacité de déclencher la décision directe.
-
-Le problème devient donc celui de l'écart entre :
+La titularité formelle doit être confrontée aux capacités effectives : initiative, veto, contrôle, révocation, information exploitable et possibilité de décision directe.
 
 ```text
 owner(sovereignty) = people
 ```
 
-et les capacités réellement disponibles pour exercer cette propriété.
+ne renseigne pas à lui seul sur :
 
-## 7. L'urgence comme test de sécurité
+```text
+who_can_trigger()
+who_can_veto()
+who_can_revoke()
+who_can_change_permissions()
+who_can_recover_control()
+```
 
-Les crises constituent un cas particulièrement dangereux parce qu'elles justifient facilement l'augmentation temporaire des pouvoirs de l'agent.
+La théorie de sécurité s'intéresse précisément à cette seconde couche.
 
-Le document `democratie_crise_mandats_express.md` propose les **mandats express** comme stabilisateur : préparer démocratiquement la vitesse avant l'urgence plutôt que laisser l'urgence fabriquer son propre souverain.
+## 9. Urgence et mandats express
 
-La règle de sécurité devient :
+Une crise peut transformer la vitesse nécessaire en concentration de pouvoir. Les **mandats express** proposent l'inversion suivante : préparer démocratiquement la vitesse avant l'urgence.
 
 ```text
 urgence accrue
@@ -226,25 +226,11 @@ urgence accrue
 -> revue obligatoire
 ```
 
-et non :
+L'agent bénéficiaire de pouvoirs d'urgence ne doit pas pouvoir, seul, créer, prolonger ou élargir l'état qui les justifie.
 
-```text
-urgence accrue
--> discrétion accrue
--> contrôle réduit
-```
+## 10. Capture sans complot : stigmergie institutionnelle
 
-L'agent qui bénéficie des pouvoirs d'urgence ne doit pas pouvoir, seul, créer, prolonger ou élargir l'état qui justifie ces pouvoirs.
-
-## 8. Capture sans complot : stigmergie institutionnelle
-
-Une architecture capturante ne suppose pas une conspiration.
-
-Chaque génération de représentants hérite de règles, procédures et pouvoirs créés par les générations précédentes. Elle rencontre des dispositifs qui augmentent ou diminuent sa propre capacité d'action.
-
-Une hypothèse simple est qu'une règle avantageuse pour l'appareil rencontre moins d'incitations internes à sa suppression qu'une règle réduisant fortement les pouvoirs de cet appareil n'en rencontre pour son adoption.
-
-On peut appeler **stigmergie institutionnelle** cette accumulation : les traces institutionnelles laissées par les acteurs précédents modifient l'environnement des suivants et orientent leurs décisions sans qu'aucun acteur n'ait besoin de concevoir le résultat global.
+Une architecture capturante ne suppose pas une conspiration. Chaque génération hérite de règles et de privilèges. Les dispositifs favorables à l'appareil peuvent rencontrer moins d'incitations internes à leur suppression que les dispositifs réduisant sa latitude n'en rencontrent pour leur adoption.
 
 ```text
 optimisations locales répétées
@@ -252,47 +238,31 @@ optimisations locales répétées
 -> concentration émergente de capacité
 ```
 
-Cette hypothèse doit être testée empiriquement. Elle a cependant une conséquence méthodologique immédiate : changer les personnes ne suffit pas nécessairement à changer le système.
+Cette **stigmergie institutionnelle** reste une hypothèse à tester empiriquement. Elle ne doit pas être confondue avec un fait démontré. Sa conséquence méthodologique est déjà utile : changer les personnes ne suffit pas nécessairement à changer les incitations du système.
 
-## 9. Pourquoi l'IA change la situation
+## 11. Pourquoi l'IA change la situation
 
-La représentation politique historique répond en partie à un problème de capacité : aucun citoyen ne peut matériellement lire tous les textes, suivre tous les amendements, contrôler tous les budgets et vérifier tous les actes publics.
+Une justification historique de la délégation massive est capacitaire : aucun citoyen ne peut lire tous les textes, suivre tous les amendements, contrôler tous les budgets et vérifier tous les actes. L'IA réduit ce coût cognitif.
 
-L'IA réduit progressivement ce coût cognitif.
+Un agent personnel peut surveiller les actes pertinents, relier votes et mandats, détecter les transferts de pouvoir, comparer engagements et actes, conserver les traces et aider le citoyen à exercer ses droits.
 
-Un agent personnel peut, en principe :
-
-- surveiller les actes publics pertinents ;
-- relier un vote à un mandat et à ses conséquences ;
-- signaler une augmentation de privilèges institutionnels ;
-- comparer engagements et actes ;
-- résumer les alternatives ;
-- conserver les traces ;
-- aider le citoyen à exercer ses droits.
-
-Le progrès agentique produit donc un paradoxe historique : au moment même où nous apprenons à empêcher les machines de s'auto-attribuer des privilèges, nous découvrons que nous avons insuffisamment appliqué cette règle aux agents politiques humains.
-
-Formule :
+Le paradoxe devient alors :
 
 > **Ce que nous apprenons à interdire aux agents IA, nous devrons finir par l'interdire aux agents politiques.**
 
-L'enjeu n'est pas de supprimer la représentation. Il est de transformer le modèle de confiance :
+Cette formule désigne une direction normative, non l'identité juridique des deux catégories d'agents.
 
-```text
-trust me
-```
+Le modèle de représentation peut passer de `trust me` à `verify me`.
 
-vers :
+### 11.1 Le Twin doit subir son propre test
 
-```text
-verify me
-```
+Le Personal Digital Twin qui augmente la capacité du citoyen ne doit pas devenir son nouveau gatekeeper. Il doit donc lui-même satisfaire les invariants : least privilege, mandat explicite, traçabilité, révocation, possibilité d'arrêt ou de bypass humain, et absence d'auto-élévation de privilèges.
 
-## 10. Traçabilité des transferts de capacité : Follow the Power
+La théorie est réflexive : **l'outil de contrôle doit être contrôlable**.
 
-La traçabilité des actes peut être étendue à une comptabilité des capacités politiques.
+## 12. Follow the Power
 
-Pour chaque réforme :
+La Traçabilité des actes peut devenir une comptabilité des capacités politiques :
 
 ```text
 Qui possédait la capacité ?
@@ -301,70 +271,68 @@ Qui la transfère ?
 Pour combien de temps ?
 Sous quelles conditions ?
 Qui peut la reprendre ?
-Qui a approuvé le transfert ?
+Qui a autorisé le transfert ?
+Qui gagne une capacité de veto, d'initiative ou de contrainte ?
+Qui la perd ?
 ```
 
-Cette approche peut être résumée par : **Follow the Power**.
+**Follow the Power** complète ainsi *Follow the Money*.
 
-Elle complète `Follow the Money` : il ne s'agit plus seulement de suivre les ressources mais les transformations de capacité.
+Une réforme qui augmente les capacités de l'appareil sans augmenter celles des citoyens modifie leur rapport de pouvoir même sans suppression formelle d'un droit.
 
-Une réforme qui augmente les capacités de l'appareil sans augmenter celles des citoyens peut alors être détectée comme une modification du rapport de pouvoir, même si aucun droit formel n'est explicitement retiré.
+### 12.1 Instrument minimal
 
-## 11. Application : autonomie institutionnelle et autonomie des habitants
+Pour éviter que `Follow the Power` reste une simple formule, tout audit doit au minimum produire :
 
-Le débat sur l'autonomie de la Corse fournit un cas d'étude naturel.
+| Champ | Avant | Après | Delta |
+|---|---|---|---|
+| capacité de l'appareil | ? | ? | ? |
+| capacité de l'habitant | ? | ? | ? |
+| capacité de contrôle/reprise | ? | ? | ? |
+| trace exploitable | ? | ? | ? |
 
-Un transfert de compétences de l'État vers la Collectivité augmente les capacités de cette dernière. Il ne suffit donc pas de demander :
+Le prochain Reality Test consiste à remplir ce tableau sur **une compétence réelle** du projet d'autonomie corse à partir des textes applicables.
 
-```text
-Combien de pouvoir passe de Paris à Ajaccio ?
-```
+## 13. Cas d'étude : autonomie de la Corse
 
-Il faut également demander :
+Un transfert de compétences de l'État vers la Collectivité de Corse augmente les capacités institutionnelles de cette dernière. Il faut donc poser une seconde question après « combien de pouvoir passe de Paris à Ajaccio ? » :
 
-```text
-Comment évolue le rapport de capacité
-entre les habitants et les institutions
-qui exerceront ces nouveaux pouvoirs ?
-```
+> **Comment évolue le rapport de capacité entre les habitants et les institutions qui exerceront ces nouveaux pouvoirs ?**
 
-Si les capacités institutionnelles augmentent sans garantie d'augmentation correspondante des capacités des habitants, l'autonomie relative de l'appareil augmente par rapport à eux.
-
-Formule populaire :
+Si les capacités de l'appareil augmentent sans garantie d'augmentation correspondante des capacités des habitants, l'autonomie relative de l'appareil augmente par rapport à eux.
 
 > **Plus de pouvoir sur nous n'est pas plus de pouvoir pour nous.**
 
-Cette analyse ne dépend d'aucune hypothèse sur la vertu ou les intentions des élus. Elle porte sur l'architecture du pouvoir.
+Cette conclusion ne suppose aucune hypothèse sur la vertu ou les intentions individuelles des élus.
 
-## 12. État de l'art : briques existantes, synthèse à tester
+## 14. État de l'art et positionnement
 
-Plusieurs traditions préexistent à cette proposition :
+Les briques sont anciennes ou établies : théorie principal-agent, accountability, représentation comme autorisation et sanction, recall, checks and balances, democratic backsliding, least privilege, contrôle d'accès, audit et sécurité agentique.
 
-- théorie principal-agent et délégation politique ;
-- accountability démocratique ;
-- recall et contrôle continu des représentants ;
-- travaux sur democratic backsliding et capture institutionnelle ;
-- séparation des pouvoirs et checks and balances ;
-- least privilege et privilege escalation en sécurité informatique ;
-- identité, autorisation, confinement et audit des agents IA.
+La littérature principal-agent sur les démocraties parlementaires décrit depuis longtemps les pertes d'agence possibles entre électeurs et représentants et traite l'accountability comme une question de design institutionnel. Les travaux contemporains sur la représentation rappellent toutefois que le modèle principal-agent n'épuise pas la notion de représentation : sélection, jugement autonome, délibération et pluralité des principals compliquent la métaphore.
 
-L'hypothèse d'originalité ne porte donc pas sur chacune de ces briques.
+Du côté agentique, les travaux NIST 2026 sur l'identité et l'autorisation des agents posent explicitement les questions de least privilege, délégation « on behalf of », révocation, preuve d'autorité, audit et non-répudiation. Cette convergence fournit un vocabulaire technique particulièrement utile pour réexaminer les délégations politiques.
 
-Elle porte sur leur **traduction systématique dans une théorie commune de sécurité de la représentation**, applicable indifféremment à des agents humains, institutionnels ou artificiels.
+### Hypothèse d'originalité à falsifier
 
-Cette revendication d'originalité doit rester falsifiable : une revue bibliographique approfondie devra rechercher des travaux antérieurs ayant déjà proposé explicitement cette unification.
+La contribution candidate n'est pas chacune de ces briques mais leur **traduction systématique dans une théorie commune de sécurité de la représentation**, notamment :
 
-## 13. Spécification minimale d'une démocratie représentative sûre
+1. `NO SELF-ESCALATION` appliqué au rapport de capacité représentant/représenté ;
+2. `Follow the Power` comme comptabilité des transferts de capacités politiques ;
+3. le **test du désaccord** comme mesure de souveraineté effective ;
+4. l'audit simultané de l'autonomie de l'appareil et de l'**Autonomie de Capacité** des habitants.
 
-Une première spécification peut tenir en cinq invariants :
+Cette revendication doit rester falsifiable par la bibliographie et par des contre-exemples.
 
-1. **Pouvoir minimal nécessaire** — aucun agent ne reçoit plus de capacité que nécessaire à son mandat.
-2. **Non-auto-élévation** — aucun agent ne peut augmenter seul les privilèges reçus du principal.
-3. **Traçabilité** — tout exercice significatif du pouvoir délégué laisse une trace exploitable.
-4. **Révocabilité** — le principal dispose d'un mécanisme effectif de retrait de la délégation.
-5. **Reprise du contrôle** — le principal conserve la capacité de décider directement et de refuser l'offre des agents lorsque les conditions prévues sont réunies.
+## 15. Spécification minimale
 
-Sous forme compacte :
+1. **Pouvoir minimal nécessaire** — aucun agent ne reçoit plus de capacité que nécessaire.
+2. **Non-auto-élévation** — aucun agent ne modifie unilatéralement en sa faveur le rapport de capacité avec son principal.
+3. **Traçabilité** — tout exercice significatif laisse une trace exploitable.
+4. **Révocabilité sécurisée** — le principal peut retirer la délégation selon une procédure qui évite elle-même la capture.
+5. **Refus effectif** — le principal peut refuser l'offre des agents.
+6. **Reprise du contrôle** — le principal conserve une voie de décision directe compatible avec les droits fondamentaux.
+7. **Réflexivité** — les outils de contrôle, y compris IA, sont eux-mêmes contrôlables.
 
 ```text
 MANDATER
@@ -373,55 +341,69 @@ MANDATER
 -> CONTRÔLER
 -> RÉVOQUER
 -> REPRENDRE
-```
 
-avec l'invariant transversal :
-
-```text
 NO SELF-ESCALATION
 ```
 
-## 14. Programme de recherche
+## 16. Programme de recherche
 
-Cette théorie demande maintenant à être attaquée plutôt que simplement défendue.
+1. Rechercher une antériorité formulant explicitement la démocratie représentative comme *security model* transposant least privilege, privilege escalation, revocation et audit.
+2. Formaliser la frontière entre exercice, auto-administration et modification du rapport de capacité.
+3. Construire un modèle multi-principals compatible avec droits fondamentaux, minorités et générations futures.
+4. Tester une procédure de révocation résistante au harcèlement et à la capture minoritaire.
+5. Exécuter un premier `Follow the Power` sur une compétence réelle du projet d'autonomie corse.
+6. Construire un registre public `Follow the Power` à partir des votes, amendements, actes et compétences.
+7. Spécifier les invariants de sécurité d'un Personal Digital Twin chargé d'assister le citoyen.
+8. Tester historiquement l'hypothèse de stigmergie institutionnelle.
+9. Rechercher des contre-exemples où une extension des pouvoirs représentatifs a effectivement accru les capacités de contrôle du peuple.
 
-Questions prioritaires :
+## 17. Bibliographie de travail
 
-1. Quels travaux ont déjà formalisé la démocratie représentative comme système de sécurité plutôt que seulement comme relation de délégation ?
-2. Où l'analogie entre agent logiciel et représentant politique cesse-t-elle d'être valide ?
-3. Comment concilier révocabilité et nécessité pour un représentant de résister parfois à une opinion momentanée ?
-4. Comment empêcher qu'un mécanisme de révocation devienne lui-même une arme de capture ou de harcèlement politique ?
-5. Quels droits fondamentaux doivent demeurer hors de portée d'une majorité instantanée ?
-6. Comment mesurer quantitativement les transferts de capacité politique ?
-7. Peut-on construire un registre public `Follow the Power` à partir des votes, amendements, actes et compétences ?
-8. Comment un Personal Digital Twin peut-il augmenter la capacité de contrôle sans devenir lui-même un nouveau gardien capturant l'autonomie de son utilisateur ?
-9. Quels mécanismes constitutionnels implémentent le mieux la non-auto-élévation des privilèges ?
-10. L'hypothèse de stigmergie institutionnelle est-elle observable historiquement et comparativement ?
+### Délégation, représentation, contrôle
+
+- Strøm, Kaare, Wolfgang C. Müller & Torbjörn Bergman (dir.). **Delegation and Accountability in Parliamentary Democracies.** Oxford University Press, 2003.
+- Gailmard, Sean. **“Accountability and Principal–Agent Theory.”** In *The Oxford Handbook of Public Accountability*, Oxford University Press, 2014, pp. 90–105.
+- Pitkin, Hanna Fenichel. **The Concept of Representation.** University of California Press, 1967.
+- Manin, Bernard. **The Principles of Representative Government.** Cambridge University Press, 1997.
+- Mansbridge, Jane. **“A ‘Selection Model’ of Political Representation.”** Working Paper RWP08-010, Harvard Kennedy School, 2008 ; version publiée ultérieurement dans *Journal of Political Philosophy*.
+
+### Droit constitutionnel français
+
+- **Constitution du 4 octobre 1958**, notamment articles 2, 3, 27 et 89.
+- **Déclaration des droits de l'homme et du citoyen de 1789**, notamment article 6.
+- Conseil constitutionnel, jurisprudence relative à la souveraineté nationale, à la représentation et au mandat parlementaire — à approfondir dans une version juridique dédiée.
+
+### Sécurité et gouvernance des agents IA
+
+- NIST / NCCoE. **Accelerating the Adoption of Software and Artificial Intelligence Agent Identity and Authorization.** Concept Paper, 5 février 2026.
+- OpenAI. **Running Codex safely at OpenAI.** 8 mai 2026.
+- Anthropic. **How we contain Claude across products.** 25 mai 2026.
+- Google Cloud. Documentation IAM relative aux identités et autorisations des agents, 2026.
+
+## 18. Statut épistémique et éditorial
+
+Le texte a connu une première publication GitHub prématurée avant revue adverse et validation humaine. L'incident est conservé dans l'historique et qualifié, par appréciation humaine, de **« publication prématurée, sans conséquence grave »**.
+
+La v0.3 intègre :
+
+- la revue adverse indépendante de Grok 4.5 ;
+- l'arbitrage des objections N1–N6 ;
+- un stress-test de droit public portant notamment sur les articles 3, 27 et 89 de la Constitution ;
+- la distinction exercice / auto-administration / modification du rapport de capacité ;
+- la correction multi-principals ;
+- un instrument minimal `Follow the Power` ;
+- l'application réflexive des invariants au Personal Digital Twin.
+
+Sa publication a été explicitement autorisée par Jean Hugues le 21 août 2026.
+
+Le prochain test n'est pas une nouvelle couche doctrinale : **c'est l'exécution d'un premier Follow the Power sur un cas réel.**
 
 ## Conclusion
 
-La démocratie représentative est habituellement étudiée comme un régime politique, une théorie de la légitimité ou un système de délégation. Elle peut également être étudiée comme un **système de sécurité**.
+La démocratie représentative peut être étudiée comme un système de sécurité. La question « les représentants sont-ils vertueux ? » devient secondaire devant : **le système reste-t-il sûr lorsqu'ils ne le sont pas ?**
 
-Cette perspective déplace la question :
+Un principal réellement souverain doit disposer de capacités effectives pour mandater, observer, contrôler, refuser, révoquer et reprendre la décision, tout en respectant les droits fondamentaux et la pluralité des principals. Ses agents doivent conserver l'autonomie nécessaire à la délibération et à l'action sans pouvoir convertir cette autonomie en propriété autonome du pouvoir.
 
-```text
-Les représentants sont-ils vertueux ?
-```
+> **Aucun agent ne devrait pouvoir modifier unilatéralement en sa faveur le rapport de pouvoir qui le lie à son principal.**
 
-vers :
-
-```text
-Le système reste-t-il sûr lorsqu'ils ne le sont pas ?
-```
-
-La réponse ne peut reposer uniquement sur des élections périodiques et la confiance.
-
-Un principal réellement souverain doit pouvoir mandater, observer, contrôler, refuser, révoquer et reprendre la décision. Ses agents doivent disposer des capacités nécessaires à leur mission sans pouvoir transformer ces capacités en propriété autonome du pouvoir.
-
-Le principe central est donc :
-
-> **Aucun agent ne doit pouvoir s'attribuer lui-même davantage de pouvoir sur son principal.**
-
-Ce principe vaut pour une intelligence artificielle, pour un syndic, pour une administration et pour un représentant politique.
-
-Si nous savons désormais qu'il constitue une condition élémentaire de sécurité pour les machines puissantes, il devient difficile d'expliquer pourquoi il ne devrait pas constituer également une condition élémentaire de sécurité de la démocratie.
+Si cette propriété devient élémentaire pour la sécurité des machines puissantes, son application aux institutions représentatives mérite au minimum d'être testée avec la même rigueur.
