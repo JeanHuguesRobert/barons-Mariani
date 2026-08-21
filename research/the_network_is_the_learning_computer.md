@@ -29,6 +29,12 @@ changelog:
   than privileged centers, and adds Physarum as a bounded biological
   analogy for routing-as-computation, externalized memory, and
   distributed problem solving without a central nervous system.
+- v0.5 (2026-08-21) — updates the living state of the art with emerging
+  intent-routing, intent-description, capability-matching and delegation
+  work; separates persistent principal intent from Cognitive Packet
+  identity; treats intent as a possible routing constraint/attractor;
+  and adds a sovereignty guardrail distinguishing learning how to serve
+  an intent from silently becoming the source of that intent.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -41,7 +47,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-08-17
+last_modified_at: 2026-08-21
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -71,8 +77,8 @@ related_documents:
 review:
   reviewed_by:
   - Grok 4.5 (xAI) — decorrelated external review, 2026-08-16
-  status: v0.3 reviewed baseline; v0.4 pending review
-status: working-paper — v0.3 reviewed baseline; v0.4 pending review
+  status: v0.3 reviewed baseline; v0.5 pending review
+status: working-paper — v0.3 reviewed baseline; v0.5 pending review
 subtitle: Revisiting Sun’s vision through Cognitive Packet Switching
 tags:
 - learning-computer
@@ -85,6 +91,8 @@ tags:
 - durable-execution
 - cognitive-packet-network
 - capability-routing
+- intent-routing
+- delegated-authority
 - corpus
 - ithaca
 - stigmergy
@@ -94,7 +102,7 @@ tags:
 - independent-research
 title: The Network is the Learning Computer
 update_policy: UP-DEFAULT-REVIEWED
-version: 0.4
+version: 0.5
 visibility: public
 ---
 
@@ -263,10 +271,10 @@ This paper does **not** claim to have invented distributed computation,
 packet switching, persistent state, event sourcing, durable execution,
 workflow replay, actors, dataflow, continuations, mobile agents, task
 tokens, data-bearing tokens, dynamic task allocation, semantic routing,
-capability discovery, human-in-the-loop systems, heterogeneous
-processors, blackboards, tuple spaces, stigmergy, branching, synthesis,
-adaptive routing, learning from previous execution, or long-running
-agents.
+capability discovery, intent routing, intent description, delegated
+authority, human-in-the-loop systems, heterogeneous processors,
+blackboards, tuple spaces, stigmergy, branching, synthesis, adaptive
+routing, learning from previous execution, or long-running agents.
 
 It does not claim that the term **Cognitive Packet** has never been used
 elsewhere.
@@ -291,7 +299,7 @@ Foundational work remains essential, but contemporary systems have
 already operationalized many ideas that earlier research could only
 partially explore.
 
-> **Living state of the art checked: 2026-08-15**
+> **Living state of the art checked: 2026-08-21**
 
 It must remain revisable.
 
@@ -389,6 +397,55 @@ not by itself distinctive.
 
 The candidate difference is the **packet-centric path by which such work
 moves and accumulates transformation before returning**.
+
+## 4.6 Intent routing, description, and delegated authority
+
+The state of the art moved materially during July and August 2026.
+Several individual Internet-Drafts now make **intent** an explicit
+architectural object in agent coordination. These are works in progress,
+not established Internet standards, but they are relevant prior art.
+
+The **Agentic Intent Network (AIN)** proposes an architecture in which an
+originator expresses an intent and a coordination substrate resolves it
+toward heterogeneous handlers according to advertised capabilities. The
+more recent **Intent Routing Requirements** draft deliberately narrows
+that problem to the path from intent expression to reaching an entity
+able to contribute an appropriate capability.
+
+The **Intent Description Language (IDL)** draft goes further on the
+semantic side: it proposes a protocol-independent model for describing
+what an autonomous participant can contribute to an intent, under which
+constraints, autonomy boundaries, context requirements, and governance
+interfaces.
+
+In parallel, work such as the **Human Delegation Provenance Protocol
+(HDP)** addresses another orthogonal problem: proving the chain by which
+a human principal delegated bounded authority through one or more agent
+hops.
+
+These developments remove several possible claims from CPS:
+
+``` text
+intent-based routing        ≠ new
+capability matching         ≠ new
+heterogeneous intent handler ≠ new
+intent description          ≠ new
+delegation provenance       ≠ new
+```
+
+They also clarify the remaining architectural distinction. Intent
+routing primarily asks:
+
+> **Which participant can contribute to this intent?**
+
+Cognitive Packet Switching asks a different downstream question:
+
+> **What is the continuable identity of the unfinished cognitive work as
+> it is transformed, branched, handed off, returned, and assimilated?**
+
+The overlap is substantial but incomplete. Emerging intent architectures
+make it increasingly natural to treat the handler as a hop rather than
+as the semantic owner or final destination of the work.
 
 # 5. Foundational lineage
 
@@ -489,6 +546,51 @@ It must be self-contained in the stronger operational sense:
 > how to continue it without access to the private cognitive state of
 > the previous handler.**
 
+## 7.1 Intent is not the packet
+
+The appearance of explicit intent layers in contemporary agent
+architectures suggests a useful correction to any interpretation in
+which `intent` is merely one more packet field.
+
+A principal's intent can be persistent, broader, and longer-lived than
+any particular unit of cognitive work. One intent may generate several
+packets:
+
+$$
+Intent(I)
+\rightarrow
+\{P_1,P_2,\ldots,P_n\}
+$$
+
+For example, the persistent intent *remain autonomous at home* may cause
+separate packets concerning connectivity, administrative rights,
+finances, equipment, assistance, or safety. Those packets may travel
+independently while remaining semantically related to the same intent.
+
+Conversely, returned evidence may clarify, refine, or expose ambiguity
+in the represented intent:
+
+$$
+P_i
+\rightarrow Evidence
+\rightarrow IntentClarification
+$$
+
+This does **not** imply that the system owns the principal's intention.
+It means that the representation of an intention can be incomplete,
+ambiguous, contextual, or revised by the principal in light of Reality.
+
+The resulting distinctions should remain explicit:
+
+``` text
+Principal ≠ Intent ≠ Cognitive Packet ≠ Handler
+Intent    ≠ Mandate ≠ Capability ≠ Authorization
+```
+
+An intent can motivate work without authorizing every possible action
+that might advance it. A mandate can authorize bounded action without
+making the agent the sovereign source of the principal's intent.
+
 # 8. Cognitive packetization
 
 The proposed definition is deliberately stricter than “turn a task into
@@ -518,14 +620,14 @@ Traditional packet switching separates data from the physical circuit
 carrying it:
 
 $$
-data 
+data
 \neq circuit
 $$
 
 Cognitive Packet Switching attempts another separation:
 
 $$
-cognitive\ work 
+cognitive\ work
 \neq cognitive\ worker
 $$
 
@@ -598,6 +700,20 @@ and return conditions for different available nodes to exert different
 attraction. A hop can therefore enrich not only the payload but also the
 information that conditions the next hop.
 
+A persistent principal intent may contribute to this attraction without
+being collapsed into the packet. A provisional routing relation can be
+written as:
+
+$$
+Attraction(P,H)=f(Intent,Packet,Capabilities(H),Context,Mandate,Cost,Risk)
+$$
+
+This is not a claim that intent-based routing is novel. The emerging AIN
+and intent-routing work makes the opposite clear. The narrower CPS
+question is whether intent can condition a journey whose **continuable
+work identity** remains packet-centric and whose route can continue to
+change after the first handler has been selected.
+
 This suggests a stronger possibility than ordinary dispatch: **part of
 the reasoning may be realized by the journey itself**. Routing,
 transformation, branching, backtracking, trace accumulation, and
@@ -640,7 +756,7 @@ process. It is the durable semantic locus to which the work belongs.
 Therefore:
 
 $$
-origin_address 
+origin_address
 \neq semantic_Ithaca
 $$
 
@@ -694,7 +810,7 @@ ASSIMILATED
 Thus:
 
 $$
-Done 
+Done
 \neq Returned
 \neq Assimilated
 $$
@@ -749,10 +865,28 @@ $$
 
 because the network assimilated an earlier journey.
 
-The changed behavior may concern packetization, routing, handler
-selection, budget allocation, trust, exploration order, branching,
-termination, synthesis, rejection of known dead ends, or generation of
-new questions.
+The changed behavior may concern interpretation of a represented intent,
+packetization, routing, handler selection, budget allocation, trust,
+exploration order, branching, termination, synthesis, rejection of known
+dead ends, or generation of new questions.
+
+A sovereignty boundary is required here. A network may learn which
+packetization, decomposition, route, explanation, or handler better
+serves a principal's intent. It must not silently turn that adaptive
+capacity into authority to decide which intent the principal ought to
+have.
+
+Thus:
+
+$$
+LearnHowToServe(Intent)
+\neq BecomeSourceOf(Intent)
+$$
+
+For a personal or collective cognitive system, this distinction is not
+only ethical. It is architectural: principal, intent representation,
+mandate, packet, handler, and learned routing state must remain separable
+enough that adaptation does not silently become capture.
 
 # 17. Two kinds of yield
 
@@ -862,7 +996,8 @@ Computer
 The loop is:
 
 ``` text
-packetize
+intent / situation
+→ packetize
 → switch
 → transform
 → return
@@ -891,6 +1026,7 @@ A useful hierarchy is:
 ``` text
 JHN Architecture
     │
+    ├── Principal / Intent layer
     ├── Cognitive Packets
     ├── Cognitive Packet Switching
     ├── Cognitive Packet Switching Network
@@ -972,10 +1108,17 @@ After prior-art elimination, the following remain candidates:
 7.  system-level completion includes assimilation of relevant journey
     yield;
 8.  accumulated journey yield can modify later packetization, routing,
-    processing, or exploration.
+    processing, or exploration;
+9.  persistent principal intent can remain distinct from packet identity
+    while constraining or generating multiple cognitive journeys;
+10. learned adaptation can modify how an intent is served without
+    requiring the network to become the sovereign source of that intent.
 
 These claims define the architecture to be tested. They are not
-equivalent to a strong historical novelty claim.
+equivalent to a strong historical novelty claim. Claims 9 and 10 are
+architectural integration claims, not claims that intent representation,
+intent routing, delegation, or sovereignty concerns are historically
+novel.
 
 # 24. Candidate contribution
 
@@ -991,6 +1134,13 @@ The larger Learning Computer hypothesis is:
 > **When the yield of those journeys returns to a durable semantic
 > environment, is assimilated, and changes subsequent cognitive
 > journeys, the network becomes a Learning Computer.**
+
+The intent-layer refinement adds:
+
+> **A principal's intent may generate and condition several such journeys
+> without becoming identical to any packet, handler, mandate, or learned
+> routing state. The network may learn how to serve the intent without
+> silently taking ownership of it.**
 
 The short form is:
 
@@ -1084,6 +1234,11 @@ than an event bus:
 
 > **the network learned from a cognitive journey.**
 
+A later extension should test the new intent-layer boundary: two packets
+arising from a stable principal intent should benefit from learned
+operational yield while preserving an inspectable distinction between
+principal intent, packet state, mandate, and learned routing state.
+
 # 27. What failure would teach us
 
 If packet identity cannot survive handler substitution, packet primacy
@@ -1097,6 +1252,10 @@ overstated.
 
 If learned state cannot alter future behavior without ad hoc rules, the
 network remembers but does not learn.
+
+If intent, mandate, packet state, and learned routing state cannot remain
+meaningfully separable, the sovereignty boundary is rhetorical rather
+than architectural.
 
 If existing workflow or actor systems implement the same semantics more
 simply, CPS may be an unnecessary abstraction.
@@ -1179,6 +1338,8 @@ advance it.
 
 Do not confuse the handler with the work.
 
+Do not confuse the packet with the principal's intent.
+
 Preserve the journey.
 
 Make the yield return.
@@ -1216,9 +1377,10 @@ Linda/tuple spaces; continuations; continuation-passing style; mobile
 processes; mobile agents; process migration; task tokens; Petri-net
 tokens; blackboard systems; durable execution; event sourcing;
 persistent state; workflow replay; semantic routing; capability
-discovery; human-in-the-loop systems; heterogeneous execution;
-persistent agent memory; branching; synthesis; stigmergic memory;
-learning from previous experiments.
+discovery; intent routing; intent description; capability matching;
+delegation provenance; human-in-the-loop systems; heterogeneous
+execution; persistent agent memory; branching; synthesis; stigmergic
+memory; learning from previous experiments.
 
 Their existence strengthens rather than weakens the programme: they are
 mechanisms available for composition.
@@ -1345,6 +1507,26 @@ Internet-Draft, draft-agent-gw-01, 2026. Work in progress.
 **\[L5\]** Restate, DBOS, Azure Durable Functions, Inngest, Trigger.dev,
 LangGraph, and related current systems — operational prior art for
 durable, long-running, dynamic, and human-interruptible execution.
+
+**\[L6\] Feng, Chong.** “Agentic Intent Network (AIN): A Routing-Based
+Architecture for AI Agent Coordination at Scale.” Internet-Draft,
+draft-feng-nmrg-ain-architecture-01, 20 July 2026. Work in progress.
+Checked 2026-08-21.
+
+**\[L7\] Feng, Chong.** “IDL: A Semantic Information Model for Agent
+Communication.” Internet-Draft,
+draft-feng-agentproto-idl-info-model-00, 28 July 2026. Work in progress.
+Checked 2026-08-21.
+
+**\[L8\] Feng, Chong.** “Requirements for Intent Routing in Multi-Agent
+Systems at Internet Scale.” Internet-Draft,
+draft-feng-dmsc-intent-routing-requirements-00, 14 August 2026. Work in
+progress. Checked 2026-08-21.
+
+**\[L9\] Helixar.** “Human Delegation Provenance Protocol (HDP):
+Cryptographic Chain-of-Custody for Agentic AI Systems.” Internet-Draft,
+draft-helixar-hdp-agentic-delegation-01, 3 August 2026. Work in progress.
+Checked 2026-08-21.
 
 The Living SOTA section is part of the paper’s research method: absence
 from this list must never be interpreted as absence from the state of
@@ -1473,3 +1655,34 @@ Non-claim:
 
 Review status: v0.4 awaits decorrelated review. The two-Odyssey Reality
 test remains the primary experimental continuation.
+
+# Appendix G — v0.5 intent-layer revision note
+
+This revision updates the living state of the art after the appearance
+of several July-August 2026 Internet-Drafts that make intent routing,
+intent description, capability matching, heterogeneous handlers, and
+delegation provenance explicit architectural concerns.
+
+Changes:
+
+- adds AIN, IDL, Intent Routing Requirements, and HDP to the living SOTA;
+- explicitly concedes intent routing, intent description, capability
+  matching, and delegation provenance as existing/emerging prior art;
+- separates persistent principal intent from Cognitive Packet identity;
+- allows one intent to generate several independent but related packets;
+- treats intent as one possible input to Packet Attractor routing without
+  claiming intent-based routing as novel;
+- adds the sovereignty invariant `LearnHowToServe(Intent) ≠
+  BecomeSourceOf(Intent)`;
+- extends the surviving claims and Reality-test agenda accordingly.
+
+Open question:
+
+> Can a Learning Computer materially improve how a persistent principal
+> intent is realized across successive packet journeys while keeping
+> principal intent, mandate, packet state, handler state, and learned
+> routing state inspectably distinct?
+
+Review status: v0.5 awaits decorrelated review. The two-Odyssey Reality
+test remains the primary experimental continuation; an intent-boundary
+test is now a natural follow-up.
