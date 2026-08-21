@@ -24,7 +24,7 @@ changelog:
   handler-independent continuability retained as a bounding issue; v0.3
   frozen as reviewed experimental baseline pending the two-Odyssey
   Reality test."
-- v0.4 (2026-08-17) — small post-review extension: makes handler
+- v0.4 (2026-08-17) — small post-review extension — makes handler
   symmetry explicit, treats reasoners as capability providers rather
   than privileged centers, and adds Physarum as a bounded biological
   analogy for routing-as-computation, externalized memory, and
