@@ -3,7 +3,7 @@ title: "Soliari — Corte Ski Station and Infrastructure-Light Mountain Access"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-22"
-version: "0.1"
+version: "0.2"
 status: "working-note"
 document_role: "source"
 document_kind: "project-research-note"
@@ -21,11 +21,15 @@ related_documents:
   - "research/potentics_interdependencies.md"
   - "research/rational_odysseys_the_possible.md"
   - "research/the_network_is_the_learning_computer.md"
+  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/capability_regimes.md"
 tags:
   - soliari
   - corte
+  - lattiniccia
+  - punta-latiniccia
   - skiing
   - drones
+  - raix
   - rational-exploration
   - potentics
   - explorer-machine
@@ -45,44 +49,83 @@ A public historical record exists at:
 
 - https://soliari.wordpress.com/
 
-The present document does not replace that archive. It creates a durable entry point in the current Corpus and connects the project to more recent work on Potentics, Rational Exploration of Possibilities, and the Explorer Machine.
+The present document does not replace that archive. It creates a durable entry point in the current Corpus and connects the project to more recent work on Potentics, Rational Exploration of Possibilities, RAIX, and the Explorer Machine.
 
-## 2. Historical trace
+The project should be understood as a **continuation and transformation of an older Corte / Lattiniccia ski-station idea**, not as an isolated proposal originating with drones.
 
-The public Soliari archive documents the project at least from the early 2010s.
+## 2. Pre-Soliari lineage: the older Lattiniccia project
 
-It records an earlier **Lattiniccia** ski-station concept and describes Soliari's initial major innovation as linking the ski area to Corte through a cable-car system that could also function as a major summer attraction.
+The idea of a ski station above Corte substantially predates Soliari.
 
-By 2016, the project was explicitly exploring drones as an alternative to conventional fixed mountain transport infrastructure.
+The Soliari archive itself states in January 2012 that a centre-Corsica ski station had been discussed for a very long time under the name **Projet Lattiniccia**, after the mountain dominating the proposed area. That post also points to an older piste layout placed online by **Franck Rinaldi**.
+
+Independent web traces support an older lineage, although some of them are forum testimony rather than archival primary sources. A 2006 discussion on Skipass refers to a **regional committee project around 2001–2002** and treats the Punta/Lattiniccia project as already established prior art. The same discussion contains a 2008 message from a student in Corte stating that a university group had been asked to prepare an impact notice/study for the Lattiniccia station project.
+
+These traces are useful but must be weighted by source quality:
+
+```text
+Soliari dated archive
+→ primary evidence for the Soliari continuation
+
+older public forum discussions
+→ corroborating evidence for pre-existing Lattiniccia activity
+→ not sufficient alone to establish formal institutional history
+```
+
+A future historical pass should seek surviving documents from the Comité Corse du Ski, university work, municipal or territorial archives, and any original maps or studies.
+
+## 3. The Soliari continuation: change the access architecture
+
+The January 2012 Soliari note identifies its principal innovation relative to the older Lattiniccia project as a **cable-car connection between Corte and the ski area**, conceived not only as winter infrastructure but as a major panoramic attraction usable in summer.
+
+This is important: Soliari was already a **four-season territorial-development project**, not merely a proposal to install ski lifts.
+
+The underlying strategic hypothesis was that Corte and inland Corsica could benefit from a second tourism season, using infrastructure and accommodation that otherwise serve mainly summer activity.
+
+The public archive also records contemporaneous attention to:
+
+- snow reliability and seasonality;
+- comparison with existing Corsican ski areas;
+- winter tourism demand among Corsican residents;
+- possible visitors from Sardinia and mainland Europe;
+- possible attractiveness for university students;
+- rebalancing tourism away from the coast and toward inland Corsica;
+- reuse of tourism infrastructure across two seasons rather than one.
+
+These historical arguments should now be re-examined rather than repeated unchanged. Climate evolution, tourism economics, mobility, environmental constraints, and technology have all changed.
+
+## 4. Dated drone turn: 2016–2018
+
+By 2016, Soliari was explicitly exploring drones as an alternative to conventional fixed mountain transport infrastructure.
 
 A 9 May 2016 note, **“Des drones de skieurs”**, identifies two major blockers of the conventional design:
 
-- the cost of a cable car from Corte toward the lower ski area;
-- the environmental impact of that cable car and of conventional ski lifts toward Punta Latiniccia.
+- the cost and environmental footprint of a cable-car connection from Corte toward the lower ski area, around 1,800 m;
+- the cost and impact of conventional lifts required to continue toward Punta Latiniccia, around 2,410 m.
 
-The note then proposes using autonomous flying drones to transport skiers toward the upper slopes.
+The post then proposes autonomous drones as skier-transport devices and already anticipates a fleet, batteries, charging infrastructure, and personnel at departure and arrival points.
 
 A January 2018 note, **“Taxi des neiges”**, continues the same exploration and explicitly describes a drone-based connection between Corte and the foot of the slopes around 1,800 m.
 
-These dated traces are relevant to the intellectual history of the project: the drone idea predates the present Potentics vocabulary by many years.
+These dated traces matter because they establish that the drone concept predates the current Potentics and RAIX vocabulary by many years.
 
-## 3. Current conceptual reformulation
+## 5. Current conceptual reformulation
 
-The project should not be reduced to the proposition:
+The project should not be reduced to:
 
 > “Use drones instead of ski lifts.”
 
 The more general functional problem is:
 
-> **How can people repeatedly gain altitude on a mountain while minimizing permanent ground infrastructure, ecological disturbance, and fixed capital?**
+> **How can people repeatedly gain altitude on a mountain while minimizing permanent ground infrastructure, ecological disturbance, fixed capital, and the cost of dependable capacity?**
 
-Once formulated this way, conventional cable cars, chairlifts, surface lifts, walking, autonomous traction systems, aerial systems, and hybrid systems become alternative implementations rather than assumptions embedded in the problem statement.
+Once formulated this way, conventional cable cars, chairlifts, surface lifts, walking, autonomous traction systems, aerial systems, distributed drone arrays, and hybrid systems become alternative implementations rather than assumptions embedded in the problem statement.
 
-## 4. Two distinct drone modes
+## 6. Three distinct drone modes
 
-The current exploration distinguishes at least two modes that should not be conflated.
+The current exploration distinguishes at least three modes that should not be conflated.
 
-### 4.1 Low-altitude carrying
+### 6.1 Low-altitude carrying
 
 A person may be supported by a drone while remaining very close to the ground and following the slope profile.
 
@@ -92,7 +135,7 @@ A system operating tens of centimetres above the terrain has a radically differe
 
 This does not establish safety. It changes the problem that must be analysed.
 
-### 4.2 Drone surface-lift / traction mode
+### 6.2 Drone surface-lift / traction mode
 
 More radically, the skier need not be lifted from the ground at all.
 
@@ -116,17 +159,66 @@ The key architectural property is:
 
 This potentially removes or reduces pylons, continuous haul rope, sheaves, and other linear infrastructure characteristic of conventional lifts.
 
-The relevant comparison is therefore systemic rather than symbolic:
+### 6.3 RAIX cooperative traction
+
+A further architecture follows the **RAIX — Redundant Array of Independent X** principle developed elsewhere in the Corpus.
+
+Instead of requiring one large drone to provide all required force, several smaller independent drones can synchronize and aggregate their individual contributions:
 
 ```text
-conventional surface lift
-→ fixed station + cable + pylons + carriers + linear right-of-way
-
-mobile autonomous traction
-→ mobile powered unit + energy + attachment + navigation + minimal fixed support
+              D1
+            ↙
+D2 → shared traction point → skier
+            ↖
+              D3
 ```
 
-## 5. Mental-schema case study
+Conceptually:
+
+```text
+F_required
+→ discover available traction units
+→ assemble temporary RAIX
+→ distribute load
+→ synchronize
+→ perform ascent
+→ degrade gracefully if one unit fails
+→ dissolve/reassign array after mission
+```
+
+The important property is not simply redundancy. It is **the reduction in the cost of dependable capability**, analogous to the historical economic significance of RAID in storage systems.
+
+A useful system may therefore emerge before any single inexpensive drone can perform the whole task alone.
+
+## 7. Granularity as a practicability variable
+
+Soliari highlights a general Potentics variable: **how many independent units must be assembled to obtain a useful capability?**
+
+```text
+N very large
+→ coordination and economic overhead may dominate
+
+N small enough
+→ aggregation becomes operationally manageable
+```
+
+The important threshold is not necessarily `N = 1`.
+
+A capability can become practical when improvements in elementary units reduce the required array from, for example, dozens or hundreds of units to a small coordinated group.
+
+This is directly analogous to current AI trends: increasingly capable small models may make useful cognitive RAIX configurations practical before one local model can do everything.
+
+The relevant predictive quantities are therefore not only unit capability but also:
+
+```text
+N(C,R,t)       minimum units required for capability C at reliability R
+Cost(C,R,t)    total cost of obtaining dependable capability
+Coord(C,R,t)   coordination overhead
+```
+
+A Possible may cross from theoretical to deployable when these quantities pass a practical threshold.
+
+## 8. Mental-schema case study
 
 Soliari is useful to Potentics because reactions to the project reveal how conceptual schemas can close a possibility before engineering analysis begins.
 
@@ -142,7 +234,7 @@ The case therefore illustrates a broader principle:
 
 > **Inherited categories may silently contain implementation assumptions, and the boundaries of those categories can then be mistaken for boundaries of Reality.**
 
-## 6. Typical possibility closures
+## 9. Typical possibility closures
 
 Soliari has historically elicited several forms of premature closure relevant to the Explorer Machine:
 
@@ -156,7 +248,7 @@ Soliari has historically elicited several forms of premature closure relevant to
 
 These objections are not to be dismissed. Each should be transformed into an investigable proposition whenever possible.
 
-## 7. Potentics interpretation
+## 10. Potentics interpretation
 
 Soliari is a useful longitudinal Potentics case because the proposition can remain relatively stable while its surrounding capability topology changes over time.
 
@@ -167,6 +259,9 @@ Examples of changing enabling conditions include:
 - autonomous flight control;
 - localization and terrain following;
 - perception systems;
+- cooperative multi-drone control;
+- dynamic load sharing;
+- fault-tolerant distributed control;
 - fleet coordination;
 - low-cost computation;
 - renewable electricity;
@@ -178,6 +273,7 @@ Thus:
 ```text
 same imagined function
 + changed surrounding capabilities
++ changed cost of dependable capability
 → changed effective possibility
 ```
 
@@ -190,60 +286,68 @@ conceivable
 → newly enabled
 → integrable
 → experimentally testable
+→ economically practical
 → viable or refuted
 ```
 
 The absence of realization at an earlier date is not sufficient evidence of present impossibility.
 
-## 8. Explorer Machine formulation
+## 11. No central nervous system
 
-The Explorer Machine should not ask first:
+The RAIX variant also connects Soliari to a broader architectural intuition already present in the Corpus through ant colonies, Physarum, Fractanet, and the Learning Computer:
 
-> “Can we build a drone ski lift?”
+> **No component needs to possess the collective capability, and no central nervous system needs to contain the complete solution.**
 
-It should ask:
+Each unit may act from local state, local sensing, shared constraints, communication, mechanical feedback, and limited coordination rules.
 
-> **What function must be achieved, what assumptions are inherited from existing solutions, which capabilities are now available, which blockers remain, and what bounded experiment would allow Reality to answer?**
+The collective capability can reside in the **organization of the units and their relations**.
 
-For Soliari, an initial functional decomposition could include:
+This matters both technically and conceptually. A centralized coordinator would recreate a single point of coordination failure. The stronger RAIX hypothesis is that sufficiently capable local units can form a temporary, fault-tolerant collective whose useful behavior emerges without a unique commanding brain.
 
-- uphill force required as a function of skier mass, slope, snow friction, and speed;
-- traction versus lift ratio;
-- ground clearance;
-- attachment and quick-release geometry;
-- safe shutdown and failure behaviour;
-- skier stability;
-- autonomous terrain following;
-- wind tolerance;
+The image is close to:
+
+- a colony of ants accomplishing work no individual ant can perform alone;
+- a swarm of butterflies collectively moving a sleeper;
+- Physarum solving spatial problems without a central nervous system.
+
+These are analogies, not proofs. Their value is to keep the design space open to architectures in which coordination and capability are properties of the network rather than a central controller.
+
+## 12. Environmental and territorial context
+
+The Corte mountain environment is not an empty technical substrate.
+
+The Restonica valley has been a protected/classified landscape for decades and is managed through a long-running Grand Site approach focused on protection, visitor management, mobility, landscape quality, and sustainable local economic activity.
+
+The municipality's Grand Site material explicitly treats traffic management, alternative mobility, protection of the site, local economic activity, and sustainable tourism as coupled problems.
+
+This strengthens rather than settles the Soliari question. A low-infrastructure architecture is relevant precisely because conventional access and mountain infrastructure have significant physical and landscape consequences.
+
+Any current Soliari exploration must therefore compare complete systems and include:
+
+- permanent land take;
+- structures and foundations;
+- construction and maintenance access;
 - noise;
-- energy per ascent;
-- fleet throughput;
-- charging architecture;
-- lifecycle environmental impact;
-- regulatory classification;
-- user acceptance;
-- accessibility gains;
-- reversibility of physical intervention on the mountain.
+- wildlife disturbance;
+- battery/material lifecycle;
+- energy source;
+- visitor throughput;
+- reversibility;
+- seasonal reuse;
+- emergency and rescue implications;
+- landscape visibility.
 
-## 9. Environmental hypothesis
+## 13. Environmental hypothesis
 
 The ecological claim must remain a hypothesis, not a slogan.
 
-A drone or autonomous-traction system may reduce permanent mountain infrastructure, but may introduce other costs:
-
-- batteries and materials;
-- energy consumption;
-- acoustic disturbance;
-- maintenance;
-- fleet replacement;
-- potential effects on wildlife;
-- increased visitor throughput.
+A drone or autonomous-traction system may reduce permanent mountain infrastructure, but may introduce other costs: batteries and materials, energy consumption, acoustic disturbance, maintenance, fleet replacement, potential effects on wildlife, and increased visitor throughput.
 
 The correct comparison is therefore between **whole systems**, not between the labels “technology” and “nature”.
 
 A Soliari design should be considered ecologically preferable only if comparative measurement supports that conclusion.
 
-## 10. Accessibility and capability
+## 14. Accessibility and capability
 
 Mountain access is also a capability question.
 
@@ -253,13 +357,17 @@ The proposition “the mountain must be earned” therefore contains a normative
 
 Potentics should instead ask which capabilities are opened or closed for different people and at what external cost.
 
-## 11. Why Soliari matters to the current Corpus
+## 15. Why Soliari matters to the current Corpus
 
 Soliari provides a concrete historical example of several concepts that were formalized much later:
 
 - Rational Exploration of Possibilities;
 - changing capability topology;
 - temporal evolution of the Possible;
+- granularity thresholds;
+- cost of dependable capability;
+- RAIX aggregation and graceful degradation;
+- relational/emergent capability;
 - premature Possibility Closure;
 - mental schemas as blockers;
 - Think Against Yourself;
@@ -267,21 +375,43 @@ Soliari provides a concrete historical example of several concepts that were for
 - Explorer Machine versus Prevention Machine;
 - Reality Response through bounded experiments.
 
-It should therefore be treated not merely as an old local ski-station proposal, but as a **longitudinal case study of a Possible whose surrounding Reality has been changing for more than a decade**.
+It should therefore be treated not merely as an old local ski-station proposal, but as a **longitudinal case study of a Possible whose surrounding Reality has been changing for decades**.
 
-## 12. Next investigations
+## 16. Historical evidence levels
+
+### Established from dated Soliari sources
+
+- by January 2012, Soliari explicitly presents itself as a continuation/reformulation of an older Projet Lattiniccia;
+- Soliari's early differentiator was a Corte-to-mountain cable car intended for both winter and summer use;
+- the project monitored snow conditions, tourism economics, and existing Corsican ski stations;
+- by May 2016, drone transport was explicitly proposed as a response to the cost and environmental footprint of conventional infrastructure;
+- by January 2018, the drone concept was still active and described as a Corte-to-1,800 m “snow taxi”.
+
+### Corroborating but not yet archival-grade
+
+- public forum traces place an organized Lattiniccia project around 2001–2002;
+- a 2008 forum post from a student at Corte refers to an assigned impact-study exercise concerning the Lattiniccia station;
+- older web discussions describe substantial conventional-lift layouts for the proposed station.
+
+These claims should be upgraded only if original documents are recovered.
+
+## 17. Next investigations
 
 - recover and index the most relevant historical posts from the WordPress archive;
-- reconstruct a dated timeline of technical assumptions and blockers from 2011 onward;
-- identify existing prior art in drone towing, autonomous traction, personal lift systems, cargo drones, and low-altitude human transport;
+- seek original Lattiniccia documents from roughly 2001–2008;
+- identify Franck Rinaldi's original piste map and preserve it if licensing/provenance allow;
+- search University of Corsica archives for the 2008 impact-study work;
+- reconstruct a dated timeline of technical assumptions and blockers from the pre-Soliari project through 2026;
 - distinguish the “Corte-to-ski-area access” problem from the “on-slope ascent” problem;
-- compare carrying, traction, tethered, ground-powered, and hybrid architectures;
+- compare carrying, single-drone traction, RAIX traction, tethered, ground-powered, and hybrid architectures;
 - perform a first-order force and energy model for a skier on representative slopes;
+- model `N(C,R,t)`, total cost, reserve margin, and graceful degradation for a RAIX traction array;
 - identify current regulatory categories without assuming they map cleanly onto the proposed architecture;
-- define the smallest safe non-human or instrumented field experiment capable of testing traction and terrain-following assumptions;
-- compare lifecycle and land-impact profiles against conventional lift infrastructure.
+- define the smallest safe non-human or instrumented field experiment capable of testing traction, multi-drone load sharing, and terrain following;
+- compare lifecycle and land-impact profiles against conventional lift infrastructure;
+- study winter climate and snow persistence with current data rather than reusing 2012 assumptions.
 
-## 13. Continuation
+## 18. Continuation
 
 ```yaml
 continuation:
@@ -290,20 +420,29 @@ continuation:
   status: "historical project re-entered into active rational exploration"
 
   established:
-    - "The Soliari public archive predates the current Potentics framework."
-    - "Drone-based skier transport was publicly proposed in the project by 2016."
+    - "Soliari continues an older Lattiniccia ski-station project."
+    - "The Soliari public archive documents the continuation from at least January 2012."
+    - "Its early differentiator was a four-season cable-car connection from Corte."
+    - "Drone-based skier transport was publicly proposed by May 2016."
     - "A 2018 post continued the drone-access concept."
-    - "The current exploration distinguishes carrying from ground-contact traction."
-    - "The central design objective is infrastructure-light uphill mobility, not attachment to a particular vehicle category."
+    - "The current exploration distinguishes carrying, ground-contact traction, and RAIX cooperative traction."
+    - "The central design objective is infrastructure-light uphill mobility and dependable capability at acceptable cost, not attachment to a particular vehicle category."
+
+  corroborating_history:
+    - "Public web traces refer to an organized Lattiniccia project around 2001-2002."
+    - "A 2008 public forum post refers to a University of Corsica impact-study exercise on the project."
+    - "These points require archival confirmation."
 
   hypotheses:
     - "Autonomous mobile traction may reduce the need for continuous fixed lift infrastructure."
+    - "A small RAIX of independent drones may provide a cheaper and more resilient traction capability than one large specialized drone."
     - "Mental schemas and symbolic acceptance may be important blockers independent of technical feasibility."
-    - "The capability topology surrounding the original proposal has materially improved since the 2010s."
+    - "The capability topology and cost topology surrounding the original proposal have materially improved since the 2010s."
+    - "Soliari is a useful longitudinal instrument for studying when a Possible crosses practical granularity and economic thresholds."
 
   next:
-    - "Build a dated Soliari project timeline."
-    - "Perform prior-art and state-of-the-art review."
-    - "Develop a simple engineering model of the traction-mode concept."
+    - "Build a pre-2001-to-2026 Soliari/Lattiniccia timeline."
+    - "Recover higher-quality historical sources."
+    - "Develop engineering and economic models of traction and RAIX modes."
     - "Define a bounded Reality test."
 ```
