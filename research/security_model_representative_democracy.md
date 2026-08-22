@@ -3,14 +3,14 @@ title: "Une théorie de sécurité de la démocratie représentative"
 subtitle: "Du principal-agent à la non-auto-élévation des privilèges politiques"
 author: "Jean Hugues Noël Robert"
 status: "document source — recherche — doctrinal — validé pour publication"
-version: "0.3"
-date: "2026-08-21"
+version: "0.4"
+date: "2026-08-22"
 license: "CC BY-SA 4.0"
 language: "fr"
 repository: "barons-Mariani"
 canonical_path: "barons-Mariani/research/security_model_representative_democracy.md"
 source_status: "source souveraine du corpus politique et de recherche"
-review_status: "revue adverse Grok 4.5 intégrée ; stress-test de droit public intégré ; publication explicitement autorisée par Jean Hugues"
+review_status: "revue adverse Grok 4.5 intégrée ; stress-test de droit public intégré ; principe Selection is not security ajouté après contrôle de non-régression sémantique"
 publication_history:
   - date: "2026-08-21"
     event: "publication prématurée"
@@ -22,6 +22,10 @@ publication_history:
   - date: "2026-08-21"
     event: "validation humaine et autorisation de publication"
     validator: "Jean Hugues"
+  - date: "2026-08-22"
+    event: "extension doctrinale"
+    change: "explicitation de la sécurité par sélection, du principe Selection is not security et de la faible opposabilité substantielle du mandat représentatif"
+    preservation: "ajout conservatif ; structure et thèses antérieures préservées"
 related_research:
   - "barons-Mariani/research/non_auto_elevation_privileges.md"
   - "barons-Mariani/research/democratie_crise_mandats_express.md"
@@ -42,6 +46,8 @@ keywords:
   - "capture institutionnelle"
   - "souveraineté effective"
   - "IA agentique"
+  - "selection is not security"
+  - "principe de distinction"
 ---
 
 # Une théorie de sécurité de la démocratie représentative
@@ -70,6 +76,38 @@ La démocratie représentative devrait satisfaire la même exigence : **rester d
 
 Le problème étudié n'est donc pas « les élus sont-ils vertueux ? », mais : **quelles propriétés du système empêchent un agent politique de convertir une délégation temporaire en avantage structurel sur son principal ?**
 
+### 1.1 De la sélection des meilleurs à la sécurité de l'architecture
+
+Le gouvernement représentatif peut être lu comme reposant partiellement sur une **stratégie de confiance par sélection** : choisir périodiquement des représentants jugés suffisamment aptes pour leur reconnaître ensuite une large autonomie de jugement. L'interdiction du mandat impératif est cohérente avec cette architecture : le représentant est sélectionné pour décider, délibérer et exercer son jugement, non pour exécuter continuellement les instructions juridiquement opposables de ses électeurs.
+
+Cette logique partage une intuition avec l'idéal ancien du gouvernement des meilleurs, notamment platonicien, sans s'y identifier historiquement ni institutionnellement. Dans le gouvernement représentatif, l'élection ne démontre pas la sagesse : elle sélectionne les candidats capables de remporter la procédure électorale. Le **principe de distinction** étudié par Bernard Manin et les modèles contemporains de *selection* en représentation permettent de traiter cette propriété sans supposer que les élus seraient objectivement « les meilleurs ».
+
+Le point de sécurité est ailleurs : **la qualité supposée de la sélection ne peut constituer à elle seule une propriété suffisante de sécurité**.
+
+```text
+sélection d'un agent réputé bon
+!=
+système sûr
+```
+
+Un système informatique critique ne supprime pas permissions fines, observabilité, révocation, expiration ou réautorisation au motif que l'agent a été soigneusement sélectionné. De même, un syndic choisi par les copropriétaires reste soumis à un mandat, à des comptes et à des mécanismes de contrôle.
+
+> **Selection is not security. La sélection d'un agent ne remplace pas la sécurité de l'architecture qui gouverne ses capacités.**
+
+Cette proposition déplace la critique. La question n'est pas principalement de savoir si les électeurs choisissent de « bons » représentants, mais **pourquoi la sûreté du système devrait dépendre aussi fortement de la réussite de cette sélection initiale**.
+
+Schématiquement, le régime représentatif classique combine souvent :
+
+```text
+sélection électorale
+-> forte autonomie du représentant
+-> faible opposabilité substantielle du mandat aux électeurs
+-> contrôle surtout indirect et ex post
+-> sanction périodique par renouvellement ou non-renouvellement
+```
+
+Une théorie de sécurité ajoute une seconde ligne de défense : même correctement sélectionné, l'agent reste borné, observable, contrôlable et récupérable par le système dont procèdent ses capacités.
+
 ## 2. Modèle minimal, puis correction multi-principals
 
 Le modèle heuristique minimal est :
@@ -89,11 +127,13 @@ Cette correction interdit une transposition naïve de l'informatique au droit co
 
 ## 3. Trois mandataires, une question
 
-| Principal | Agent | Attente de sécurité ordinaire |
-|---|---|---|
-| utilisateur | agent IA | permissions bornées, logs, arrêt, approbation des actes sensibles |
-| copropriétaires | syndic | mandat borné, comptes, assemblée, contrôle, révocation |
-| peuple | représentants | élection, publicité institutionnelle, contrôle beaucoup plus indirect |
+| Principal | Agent | Mécanisme principal de confiance | Attente de sécurité ordinaire |
+|---|---|---|---|
+| utilisateur | agent IA | sélection/configuration + contrôle continu | permissions bornées, logs, arrêt, approbation des actes sensibles |
+| copropriétaires | syndic | sélection contractuelle + mandat | mandat borné, comptes, assemblée, contrôle, révocation |
+| peuple | représentants | sélection électorale + sanction périodique | élection, publicité institutionnelle, contrôle beaucoup plus indirect |
+
+La comparaison ne prétend pas à l'identité juridique des trois relations. Elle révèle une différence d'architecture : dans les deux premiers cas, la sélection de l'agent n'épuise manifestement pas la question de sa sécurité ; dans le troisième, une part beaucoup plus importante de la confiance est placée dans la sélection et le contrôle périodique.
 
 > **Le mandataire peut-il augmenter lui-même les pouvoirs que le mandant lui a confiés ?**
 
@@ -180,6 +220,10 @@ Le droit positif français impose plusieurs corrections importantes à l'analogi
 L'article 3 de la Constitution dispose que la souveraineté nationale appartient au peuple, exercée par ses représentants et par la voie du référendum, et qu'aucune section du peuple ni aucun individu ne peut s'en attribuer l'exercice. L'article 27 dispose cependant que **tout mandat impératif est nul**. Le représentant parlementaire n'est donc pas, juridiquement, un mandataire civil soumis aux instructions permanentes de ses électeurs.
 
 Cette objection ne détruit pas le modèle ; elle en fixe le statut. Le vocabulaire principal-agent sert ici à **tester les capacités et les contrôles**, non à prétendre que le mandat représentatif est juridiquement identique à un mandat privé.
+
+Elle fait aussi apparaître une propriété remarquable du droit positif : une fois retranchées les obligations générales, les règles de probité, de transparence, d'incompatibilité, de procédure et de fonctionnement institutionnel, **le contenu substantiel du mandat parlementaire est faiblement opposable aux électeurs**. Le représentant n'est juridiquement tenu ni d'exécuter son programme électoral, ni de suivre les instructions de ses électeurs, ni de voter conformément à une volonté populaire ponctuellement mesurée. À l'échéance, l'habilitation expire ou peut être renouvelée ; la sanction du contenu de l'action est principalement politique et périodique.
+
+Cette faible opposabilité n'est pas nécessairement une anomalie : elle protège l'autonomie de jugement, la délibération et la capacité de compromis du représentant. Mais elle rend d'autant plus importante la question architecturale posée ici : **si l'agent dispose volontairement d'une forte autonomie substantielle, quelles autres propriétés garantissent la sécurité de la délégation ?**
 
 Deuxième objection : le Parlement participe légitimement à la production de la loi et, selon l'article 89, au pouvoir de révision constitutionnelle. Toute modification des institutions par des représentants ne peut donc être assimilée à une auto-élévation illégitime. Le test pertinent doit porter sur la **variation du rapport de capacité** et sur les gates applicables lorsque l'agent bénéficie lui-même de cette variation.
 
@@ -309,7 +353,7 @@ Cette conclusion ne suppose aucune hypothèse sur la vertu ou les intentions ind
 
 Les briques sont anciennes ou établies : théorie principal-agent, accountability, représentation comme autorisation et sanction, recall, checks and balances, democratic backsliding, least privilege, contrôle d'accès, audit et sécurité agentique.
 
-La littérature principal-agent sur les démocraties parlementaires décrit depuis longtemps les pertes d'agence possibles entre électeurs et représentants et traite l'accountability comme une question de design institutionnel. Les travaux contemporains sur la représentation rappellent toutefois que le modèle principal-agent n'épuise pas la notion de représentation : sélection, jugement autonome, délibération et pluralité des principals compliquent la métaphore.
+La littérature principal-agent sur les démocraties parlementaires décrit depuis longtemps les pertes d'agence possibles entre électeurs et représentants et traite l'accountability comme une question de design institutionnel. Les travaux contemporains sur la représentation rappellent toutefois que le modèle principal-agent n'épuise pas la notion de représentation : sélection, jugement autonome, délibération et pluralité des principals compliquent la métaphore. Le principe `Selection is not security` proposé ici ne nie pas la fonction démocratique de la sélection ; il affirme seulement que la sélection ne suffit pas, à elle seule, à garantir la sûreté du rapport de capacité.
 
 Du côté agentique, les travaux NIST 2026 sur l'identité et l'autorisation des agents posent explicitement les questions de least privilege, délégation « on behalf of », révocation, preuve d'autorité, audit et non-répudiation. Cette convergence fournit un vocabulaire technique particulièrement utile pour réexaminer les délégations politiques.
 
@@ -320,7 +364,8 @@ La contribution candidate n'est pas chacune de ces briques mais leur **traductio
 1. `NO SELF-ESCALATION` appliqué au rapport de capacité représentant/représenté ;
 2. `Follow the Power` comme comptabilité des transferts de capacités politiques ;
 3. le **test du désaccord** comme mesure de souveraineté effective ;
-4. l'audit simultané de l'autonomie de l'appareil et de l'**Autonomie de Capacité** des habitants.
+4. l'audit simultané de l'autonomie de l'appareil et de l'**Autonomie de Capacité** des habitants ;
+5. `SELECTION IS NOT SECURITY` comme séparation entre qualité supposée de l'agent et sûreté de l'architecture qui gouverne ses capacités.
 
 Cette revendication doit rester falsifiable par la bibliographie et par des contre-exemples.
 
@@ -333,6 +378,7 @@ Cette revendication doit rester falsifiable par la bibliographie et par des cont
 5. **Refus effectif** — le principal peut refuser l'offre des agents.
 6. **Reprise du contrôle** — le principal conserve une voie de décision directe compatible avec les droits fondamentaux.
 7. **Réflexivité** — les outils de contrôle, y compris IA, sont eux-mêmes contrôlables.
+8. **Sélection non suffisante** — la qualité supposée ou observée de l'agent ne dispense jamais de sécuriser les capacités qui lui sont déléguées.
 
 ```text
 MANDATER
@@ -342,6 +388,7 @@ MANDATER
 -> RÉVOQUER
 -> REPRENDRE
 
+SELECTION IS NOT SECURITY
 NO SELF-ESCALATION
 ```
 
@@ -356,6 +403,7 @@ NO SELF-ESCALATION
 7. Spécifier les invariants de sécurité d'un Personal Digital Twin chargé d'assister le citoyen.
 8. Tester historiquement l'hypothèse de stigmergie institutionnelle.
 9. Rechercher des contre-exemples où une extension des pouvoirs représentatifs a effectivement accru les capacités de contrôle du peuple.
+10. Tester historiquement et comparativement l'hypothèse selon laquelle le gouvernement représentatif compense une faible opposabilité substantielle du mandat par la sélection électorale et la sanction périodique.
 
 ## 17. Bibliographie de travail
 
@@ -384,7 +432,7 @@ NO SELF-ESCALATION
 
 Le texte a connu une première publication GitHub prématurée avant revue adverse et validation humaine. L'incident est conservé dans l'historique et qualifié, par appréciation humaine, de **« publication prématurée, sans conséquence grave »**.
 
-La v0.3 intègre :
+La v0.3 intégrait :
 
 - la revue adverse indépendante de Grok 4.5 ;
 - l'arbitrage des objections N1–N6 ;
@@ -394,7 +442,16 @@ La v0.3 intègre :
 - un instrument minimal `Follow the Power` ;
 - l'application réflexive des invariants au Personal Digital Twin.
 
-Sa publication a été explicitement autorisée par Jean Hugues le 21 août 2026.
+La v0.4 ajoute, sans retirer ces éléments :
+
+- l'hypothèse de la **sécurité par sélection** comme explication partielle de la forte autonomie représentative ;
+- le principe `SELECTION IS NOT SECURITY` ;
+- l'explicitation de la faible opposabilité substantielle du mandat parlementaire envers les électeurs ;
+- la distinction entre sélection électorale et sécurité continue des capacités ;
+- l'extension comparative du tableau agent IA / syndic / représentant ;
+- un programme de falsification historique et comparative de cette hypothèse.
+
+La publication initiale a été explicitement autorisée par Jean Hugues le 21 août 2026. La v0.4 constitue une extension conservatrice de la thèse publiée : aucune thèse antérieure n'est supprimée ni inversée.
 
 Le prochain test n'est pas une nouvelle couche doctrinale : **c'est l'exécution d'un premier Follow the Power sur un cas réel.**
 
@@ -402,8 +459,10 @@ Le prochain test n'est pas une nouvelle couche doctrinale : **c'est l'exécution
 
 La démocratie représentative peut être étudiée comme un système de sécurité. La question « les représentants sont-ils vertueux ? » devient secondaire devant : **le système reste-t-il sûr lorsqu'ils ne le sont pas ?**
 
-Un principal réellement souverain doit disposer de capacités effectives pour mandater, observer, contrôler, refuser, révoquer et reprendre la décision, tout en respectant les droits fondamentaux et la pluralité des principals. Ses agents doivent conserver l'autonomie nécessaire à la délibération et à l'action sans pouvoir convertir cette autonomie en propriété autonome du pouvoir.
+La sélection électorale est une composante légitime de la représentation, mais elle ne constitue pas à elle seule une architecture de sécurité. Un principal réellement souverain doit disposer de capacités effectives pour mandater, observer, contrôler, refuser, révoquer et reprendre la décision, tout en respectant les droits fondamentaux et la pluralité des principals. Ses agents doivent conserver l'autonomie nécessaire à la délibération et à l'action sans pouvoir convertir cette autonomie en propriété autonome du pouvoir.
 
 > **Aucun agent ne devrait pouvoir modifier unilatéralement en sa faveur le rapport de pouvoir qui le lie à son principal.**
 
-Si cette propriété devient élémentaire pour la sécurité des machines puissantes, son application aux institutions représentatives mérite au minimum d'être testée avec la même rigueur.
+> **Selection is not security.**
+
+Si ces propriétés deviennent élémentaires pour la sécurité des machines puissantes, leur application aux institutions représentatives mérite au minimum d'être testée avec la même rigueur.
