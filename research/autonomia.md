@@ -4,12 +4,12 @@ subtitle: "Capacités collectives, capital territorial et flexibilité d’usage
 description: "Contribution à une théorie opératoire de l’autonomie territoriale"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.12"
-date: "2026-05-18"
+version: "0.13"
+date: "2026-08-23"
 license: "CC BY-SA 4.0"
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-08-23
 document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
@@ -39,7 +39,7 @@ Dépend de : l'approche par les capabilités, le capital territorial, les commun
 
 Continuation : maintenir le texte comme source de doctrine ; les documents de campagne ou de programme doivent s'y rattacher sans le remplacer.
 
-Dernière consolidation : 2026-06-09 — ajout de la fiche d'orientation.
+Dernière consolidation : 2026-08-23 — ajout de l'autonomie relationnelle de capacité et de la frugalité joyeuse.
 
 ## Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
@@ -396,6 +396,18 @@ Cette définition distingue cinq niveaux :
 | Capacité | Que sait-on réellement faire ? | Produire, stocker, administrer, former, financer, entretenir |
 | Institution | Qui organise et contrôle ? | Commune, coopérative, association, collectivité, office, fonds |
 | Résultat | Quel effet mesurable ? | kWh produits, hectares remis en usage, jeunes logés, services maintenus |
+
+## 5.1. Autonomie relationnelle de capacité
+
+L'autonomie de capacité ne désigne ni l'autarcie ni la possession locale de toutes les ressources nécessaires à l'action. Un territoire, une personne ou une institution peut accroître fortement sa puissance d'agir grâce à des capacités situées ailleurs : compétence rare, partenaire, infrastructure partagée, outil numérique, service externe, réseau de recherche ou ressource de calcul.
+
+La question décisive n'est donc pas seulement : « cette capacité est-elle locale ? » Elle est : « qui peut comprendre, mandater, gouverner, renégocier, remplacer, compenser et transmettre la relation dont dépend cette capacité ? »
+
+Une dépendance n'est pas une capture par nature. Elle devient captatrice lorsqu'elle est opaque, unilatérale, sans voie de recours pratique, ou lorsqu'elle fait d'un fournisseur le seul détenteur de l'identité, du mandat, des données, des traces ou de la possibilité de poursuivre le travail. Elle peut au contraire être productive lorsque sa valeur, son coût, son périmètre, ses alternatives, ses conditions de sortie et ses moyens de reprise restent visibles et gouvernables.
+
+L'autonomie réelle comporte donc une capacité de continuité reconfigurable : si une relation évolue, devient indisponible ou doit être quittée, l'action ne devient pas inintelligible. Les mandats, les traces, les résultats, les compétences de reprise et, lorsque c'est possible, les alternatives permettent de continuer autrement. Le remplacement peut faire perdre un avantage situé ; il ne doit pas faire perdre l'autorité sur l'action ni sa mémoire transmissible.
+
+Cette perspective refuse deux erreurs symétriques. La première est la dépendance aveugle, qui délègue à un tiers le pouvoir de conditionner silencieusement l'action. La seconde est la privation volontaire, qui renonce à une capacité utile au nom d'une indépendance abstraite. La **frugalité joyeuse** désigne la recherche du maximum utile de capacités sous des interdépendances visibles, proportionnées, traçables et gouvernables : moins de gaspillage et de capture, non moins de puissance d'agir.
 
 Cette distinction évite une confusion fréquente.
 
