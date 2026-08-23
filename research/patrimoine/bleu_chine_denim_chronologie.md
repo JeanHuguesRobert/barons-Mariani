@@ -155,5 +155,5 @@ La chronologie ne doit pas être utilisée comme une généalogie linéaire. Ell
 *These documents link to this file:*
 - [Barons Mariani](../../README.md)
 - [Research Index — barons-Mariani](../index.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

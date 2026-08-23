@@ -712,5 +712,5 @@ Cette expérimentation aurait une valeur démonstrative :
 - [Barons Mariani](../../README.md)
 - [In deserto](../in_deserto.md)
 - [Research Index — barons-Mariani](../index.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

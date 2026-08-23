@@ -948,14 +948,15 @@ Kudos ne contourne pas la question monétaire.
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Informational Gravity — Contextual Attraction for Cognitive-Packet Routing](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)
-- FractaVolta
+- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
 - [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
 - [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
 - [État du corpus](https://github.com/acorsica/gouvernance/blob/main/etat-du-corpus.md)
 - COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 - [Initiatives liées à l’Institut Mariani](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
-- Jean Hugues Noël Robert, baron Mariani
-- Kudos - l'argent du troc au don
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
+- [Research Index - Kudos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/Kudos-index.md)
+- [Kudos - l'argent du troc au don](https://github.com/acorsica/Kudos/blob/main/README.md)
 - [Research Index - Kudos](https://github.com/acorsica/Kudos/blob/main/research/index.md)
 - [Statut du dépôt `acorsica/Kudos`](https://github.com/acorsica/Kudos/blob/main/STATUT.md)
 <!-- END_AUTO: backlinks -->

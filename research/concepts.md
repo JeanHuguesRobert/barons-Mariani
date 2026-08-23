@@ -719,6 +719,7 @@ A conceptual representation technique acting as half a joke and half a cultural 
 ### Backlinks
 
 *These documents link to this file:*
+- [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
 - [Research Index — barons-Mariani](index.md)
 - [MareNostrum — Tableau de bord](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/dashboard.md)
 <!-- END_AUTO: backlinks -->

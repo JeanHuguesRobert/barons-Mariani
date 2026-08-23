@@ -416,5 +416,5 @@ Prochaine étape v0.3 : produire un **dossier de sources annotées**.
 
 *These documents link to this file:*
 - [Research Index — barons-Mariani](../index.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

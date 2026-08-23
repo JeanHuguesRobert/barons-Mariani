@@ -199,4 +199,5 @@ continuation:
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Test du critère Rossignol — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
 - COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/cogentia-index.md)
 <!-- END_AUTO: backlinks -->

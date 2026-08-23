@@ -240,5 +240,5 @@ La prochaine étape doit produire un vrai appareil documentaire :
 *These documents link to this file:*
 - [Barons Mariani](../../README.md)
 - [Research Index — barons-Mariani](../index.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

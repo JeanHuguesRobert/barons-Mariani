@@ -607,7 +607,7 @@ René, merci. On continue.
 - [Research Index — barons-Mariani](index.md)
 - [Agent-Resumable CLI](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/agent_resumable_cli.md)
 - [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md)
-- Cogentia
+- [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/README.md)
 - [Cogentia Commons](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_method_packets.md)
 - [Cogentia Commons — `kernel_extractor` Plugin Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_kernel_extractor.md)
 - [Cogentia Commons — COMMUNITY.md Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_community_manifest.md)
@@ -621,7 +621,7 @@ René, merci. On continue.
 - [The Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md)
 - [Trail: From Method to Machine](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_method_to_machine.md)
 - For researchers
-- FractaVolta
+- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
 - Methodology
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
 - [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
@@ -630,7 +630,12 @@ René, merci. On continue.
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Public Corpus Navigation](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/public-navigation.md)
-- MareNostrum
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/cogentia-index.md)
+- [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/FractaVolta-index.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/Inox-index.md)
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/inseme-index.md)
+- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/marenostrum-index.md)
+- [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/README.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 - [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](https://github.com/JeanHuguesRobert/ubikia/blob/main/artifacts/audible/on-nest-jamais-si-bien-servi/source.md)

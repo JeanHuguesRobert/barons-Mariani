@@ -903,11 +903,11 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- FractaVolta
+- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
 - [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
 - [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->

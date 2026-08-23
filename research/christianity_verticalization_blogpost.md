@@ -484,5 +484,5 @@ Ce billet en est une forme plus narrative. Le fond reste dans le corpus ; la for
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
-- Jean Hugues Noël Robert, baron Mariani
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

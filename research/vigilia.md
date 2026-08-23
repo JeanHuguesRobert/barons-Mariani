@@ -1025,5 +1025,6 @@ Attribution requise :
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [vigilia - moved](../vigilia.md)
 - [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
-- The Iɴᴏx programming language
+- [The Iɴᴏx programming language](https://github.com/JeanHuguesRobert/Inox/blob/master/README.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/Inox-index.md)
 <!-- END_AUTO: backlinks -->

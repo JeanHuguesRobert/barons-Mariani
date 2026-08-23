@@ -179,5 +179,6 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 - [invidia - moved](../invidia.md)
 - [Research Index — barons-Mariani](index.md)
 - [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
+- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/marenostrum-index.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: backlinks -->
