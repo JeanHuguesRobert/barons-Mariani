@@ -569,6 +569,7 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 - [Concept Index — barons-Mariani](concepts.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
+- [Parked: External review of Potentics v1.0-rc1 received — human arbitration pending](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00024.md)
 - [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)

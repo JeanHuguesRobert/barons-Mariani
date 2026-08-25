@@ -231,6 +231,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
+- [Continuation — Constitution minimale des communs : expérimentations et règlements dérivés](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00016.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)

@@ -156,6 +156,7 @@ graph LR
   r_jeanhuguesrobert -->|1| r_operium
   r_kudos -->|1| r_institut_mariani
   r_marianivillage -->|1| r_institut_mariani
+  r_privai -->|1| r_barons_mariani
   r_privai -->|1| r_institut_mariani
 ```
 <!-- END_AUTO: graph -->
@@ -749,6 +750,7 @@ graph LR
 - Generalized Tocqueville Law — formal treatment beyond the aphorism
 - Invidia × Ostrom: commons governance as antidote to mimetic capture
 - [Barons Mariani](../README.md)
+- [Continuation — Constitution minimale des communs : expérimentations et règlements dérivés](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00016.md)
 - [Discours de la seconde méthode](second_method.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
