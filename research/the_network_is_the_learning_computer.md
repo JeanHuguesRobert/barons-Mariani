@@ -42,13 +42,18 @@ changelog:
   connects Ithaca assimilation to Potentics and capability topology;
   and treats routing not only as capability matching but as a possible
   means of discovering capability-producing interdependencies.
-- v0.8 (2026-08-25) — separates the normative JHN Architecture specification from its rationale; absorbs the former JHN working paper's comparison with machine-local execution, continuation lineage, direct-style compilation, branching and synthesis, persistent-memory model, Side replay, locality, capability attraction, governance, memory lifecycle, Potentics relation and implementation research program.
 - v0.7 (2026-08-25) — introduces Packet Closure as the distributed
   continuation boundary; separates packet identity from Packet Capsules,
   causal history and storage placement; formalizes Event → EffectIntent
   → EffectReceipt → Event as the materialized reactive loop; and
   argues that closure, lineage, placement, return, authority and effects
   are packet-native necessities rather than auxiliary mechanisms.
+- v0.8 (2026-08-25) — separates the normative JHN Architecture specification
+  from its rationale; absorbs the former JHN working paper's comparison with
+  machine-local execution, continuation lineage, direct-style compilation,
+  branching and synthesis, persistent-memory model, Side replay, locality,
+  capability attraction, governance, memory lifecycle, Potentics relation
+  and implementation research program.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -86,6 +91,7 @@ related_documents:
 - research/potentics.md
 - research/the_network_is_the_learning_computer_v0.6_addendum.md
 - research/the_network_is_the_learning_computer_v0.7_packet_semantics_addendum.md
+- research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
@@ -118,8 +124,8 @@ tags:
 - distributed-cognition
 - independent-research
 title: The Network is the Learning Computer
-update_policy: UP-DEFAULT-REVIEWED
-version: 0.5
+update_policy: UP-ARCHAEOLOGY-LIVING
+version: "0.8"
 visibility: public
 ---
 

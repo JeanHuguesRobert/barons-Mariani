@@ -19,7 +19,7 @@ ai_assisted_by:
 review:
   status: "unreviewed"
   reviewed_by: []
-update_policy: "UP-DEFAULT-REVIEWED"
+update_policy: "UP-DESIRED-PRESENT"
 related_documents:
   - "research/the_network_is_the_learning_computer.md"
   - "research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md"
