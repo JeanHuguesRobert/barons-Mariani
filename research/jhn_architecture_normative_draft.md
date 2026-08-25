@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-25"
 last_modified_at: "2026-08-25"
-version: "0.1"
+version: "0.2"
 status: "candidate normative core"
 license: "CC BY-SA 4.0"
 language: "en"
@@ -34,13 +34,13 @@ update_policy: "UP-DEFAULT-REVIEWED"
 
 ## 1. Definition
 
-A **JHN Architecture instance** is a computational system in which independently continuable work is represented by persistent, identifiable **Packets** whose execution may move across replaceable handlers, nodes and storage substrates without losing continuity, causality or applicable authority.
+A **JHN Architecture instance** is a computational system in which independently continuable work is represented by persistent, identifiable **Packets** whose execution may move across replaceable handlers, nodes and storage substrates without losing continuity or causality.
 
 A Packet is the smallest unit of work for which independent identity is useful for one or more of:
 
 ```text
-resumption | routing | authorization | accounting | retry |
-cancellation | branching | return | reuse | persistence
+resumption | routing | accounting | retry | cancellation |
+branching | return | reuse | persistence | authorization
 ```
 
 A conforming implementation MUST satisfy the invariants below.
@@ -50,7 +50,7 @@ A conforming implementation MUST satisfy the invariants below.
 A JHN instance is represented provisionally by:
 
 \[
-\mathcal{J} = (P, H, S, G, T, X)
+\mathcal{J} = (P, H, S, T, G, X)
 \]
 
 where:
@@ -59,10 +59,12 @@ where:
 P  active or durable Packets
 H  available handler capabilities
 S  logical stores, bindings and placements
-G  governance, authority and resource constraints
 T  causal, lineage and execution trace
-X  outstanding or completed external effects
+G  optional governance, authority and resource constraints
+X  optional outstanding or completed external effects
 ```
+
+`G` and `X` MAY be empty in JHN/Core and become constrained by stricter profiles.
 
 Each Packet `p ∈ P` has at least:
 
@@ -112,7 +114,7 @@ Handlers are capability providers, not owners of computational continuity.
 
 A Packet MAY be processed by different admissible handlers over its lifetime.
 
-Handler selection MAY depend on locality, cost, trust, latency, energy, quality, mandate, jurisdiction or other declared constraints.
+Handler selection MAY depend on locality, cost, trust, latency, energy, quality, authority, jurisdiction or other declared constraints.
 
 ## 6. Storage invariant
 
@@ -137,7 +139,7 @@ where:
 ```text
 Y   zero or more results / Artifacts / observations
 P'  zero or more successor or downstream Packets
-I   zero or more EffectIntents
+I   zero or more proposed external EffectIntents
 J'  resulting architectural state
 ```
 
@@ -145,23 +147,57 @@ J'  resulting architectural state
 
 Composition MAY include sequence, fork, join, race, cancellation, selection or synthesis.
 
+JHN/Core MAY leave `I` empty. External consequential effects are governed by JHN/Governed.
+
 ## 8. Causality and lineage invariant
 
 Every durable transition MUST preserve enough information to reconstruct its causal relation to prior durable state.
 
-Authority lineage and semantic dependency relations MUST remain distinguishable.
+Authority lineage and semantic dependency relations, when present, MUST remain distinguishable.
 
-A downstream Packet MUST identify the upstream authority path when it inherits delegated authority or budget.
+A downstream Packet MUST identify its upstream Packet relation.
 
-## 9. Authority invariant
+## 9. Packet state and history
 
-For every consequential delegated act, the responsible Principal and applicable authority chain MUST be reconstructible.
+A conforming implementation MAY distinguish:
+
+```text
+Packet Identity
+Historical Events / Artifacts
+Packet Snapshot
+Packet Capsule
+```
+
+A travelling representation MUST NOT be required to embed the complete historical trace if closure and causal integrity remain materializable and verifiable.
+
+## 10. JHN/Core conformance
+
+An implementation conforms to **JHN/Core** iff it satisfies Sections 3–9 for every Packet crossing a durability or mobility boundary that the implementation declares JHN-governed.
+
+Purely local micro-operations MAY remain ordinary machine-local computation and need not become Packets.
+
+A system MUST NOT claim JHN/Core conformance for a boundary across which Packet continuity depends on undocumented hidden state.
+
+## 11. JHN/Governed profile
+
+A JHN/Governed instance is a JHN/Core instance that permits consequential delegated acts.
+
+For every such act:
+
+```text
+Principal
+→ authority source
+→ mandate
+→ actor / handler
+→ capability invocation
+→ effect
+```
+
+MUST be reconstructible to the degree required by the governing policy.
 
 Delegated authority MUST NOT exceed upstream authority.
 
 A handler MUST NOT enlarge its own mandate, budget or capability authorization by its own authority.
-
-## 10. Effect invariant
 
 A consequential external effect MUST be distinguishable from the cognition that proposed it.
 
@@ -176,77 +212,56 @@ Event / Packet state
 → resulting observation/Event
 ```
 
-Authorization MUST be valid at the commit boundary when required by the governing policy.
+Authorization MUST be valid at the commit boundary when required by policy.
 
 Retries MUST NOT silently duplicate effects that require at-most-once or idempotent semantics.
 
-A receipt records executor evidence; it MUST NOT be treated as independent proof that external reality has the expected state.
+An EffectReceipt records executor evidence; it MUST NOT be treated as independent proof that external reality has the expected state.
 
-## 11. Packet state and history
-
-A conforming implementation MAY distinguish:
-
-```text
-Packet Identity
-Historical Events / Artifacts
-Packet Snapshot
-Packet Capsule
-```
-
-A travelling representation MUST NOT be required to embed the complete historical trace if closure and causal integrity remain materializable and verifiable.
-
-## 12. Termination and return
+## 12. Termination and cognitive return
 
 A Packet MAY terminate with no successor Packet.
 
 A Packet MAY declare a return target or continuation destination.
 
-Cognitive profiles MAY define this semantic home as **Ithaca** and MAY distinguish:
+JHN/Cognitive MAY define this semantic home as **Ithaca** and distinguish:
 
 ```text
 solved → returned → assimilated
 ```
 
-These learning semantics are not required by JHN/Core unless the implementation declares a corresponding profile.
+These semantics are not required by JHN/Core.
 
-## 13. Core conformance
-
-An implementation conforms to **JHN/Core** iff it satisfies Sections 3–11 for every Packet crossing a durability, mobility or consequential-effect boundary that the implementation declares JHN-governed.
-
-Purely local micro-operations MAY remain ordinary machine-local computation and need not become Packets.
-
-A system MUST NOT claim JHN/Core conformance for a boundary across which Packet continuity depends on undocumented hidden state.
-
-## 14. Profiles
-
-The architecture MAY define stricter profiles without changing JHN/Core.
+## 13. Profiles
 
 ```text
 JHN/Core
     packetized continuation, closure, mobility, causality
 
 JHN/Governed
-    Principal, mandates, budgets, delegated authority, effect gates
+    JHN/Core + Principal, mandates, budgets, delegated authority, effect gates
 
 JHN/Cognitive
-    Cognitive Packets, COP semantics, semantic return / Ithaca
+    JHN/Core or JHN/Governed + Cognitive Packets, COP semantics, Ithaca
 
 JHN/Learning
-    Reactive Corpus, assimilation, changed future packet generation/routing
+    JHN/Cognitive + Reactive Corpus, assimilation,
+    changed future packet generation/routing/handling
 ```
 
-Profiles MAY strengthen requirements but MUST NOT weaken JHN/Core invariants.
+A profile MAY strengthen requirements but MUST NOT weaken requirements inherited from its base profile.
 
-## 15. Minimal conformance evidence
+## 14. Minimal conformance evidence
 
-A claimed implementation SHOULD be able to demonstrate, for at least one governed Packet:
+A JHN/Core implementation SHOULD be able to demonstrate, for at least one Packet:
 
 ```text
 process restart without loss of durable continuation
 handler substitution
 store/placement change without Packet identity change
 causal reconstruction of a downstream Packet
-and, when external effects are supported, retry-safe governed commitment
 ```
+
+A JHN/Governed implementation SHOULD additionally demonstrate retry-safe governed commitment of at least one external effect.
 
 The specification intentionally contains no historical justification. Rationale, prior art and historical placement belong in *The Network is the Learning Computer* and related research notes.
