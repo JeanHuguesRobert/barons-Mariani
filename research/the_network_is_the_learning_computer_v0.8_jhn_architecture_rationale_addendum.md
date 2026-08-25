@@ -5,11 +5,11 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-25"
 version: "0.1"
-status: "integration-addendum"
-document_role: "source"
+status: "integrated"
+document_role: "derived"
 document_kind: "research-addendum"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "archived-source-note"
 language: "en"
 license: "CC BY-SA 4.0"
 methodology:
@@ -42,21 +42,9 @@ tags:
 
 ## Integration status
 
-This addendum receives the explanatory material removed from `jhn_architecture.md` when that document was refactored into a short normative conformance specification.
+**Integrated into `research/the_network_is_the_learning_computer.md` (Appendix J) in v0.8 (2026-08-25).**
 
-The editorial boundary is now explicit:
-
-```text
-JHN Architecture
-    What is a conforming instance?
-    Definitions, abstract state, invariants, transition semantics,
-    conformance tests and profiles.
-
-The Network is the Learning Computer
-    Why this architecture appears, which earlier systems it inherits from,
-    how its concepts emerged, what it does and does not claim,
-    and how implementation can falsify or refine it.
-```
+This source addendum is retained as an auditable historical trace of the JHN Architecture explanatory rationale migration.
 
 Proposed future changelog entry:
 
