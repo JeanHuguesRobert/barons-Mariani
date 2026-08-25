@@ -5,11 +5,11 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-22"
 version: "0.1"
-status: "integration-addendum"
-document_role: "source"
+status: "integrated"
+document_role: "derived"
 document_kind: "research-addendum"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "archived-source-note"
 language: "en"
 license: "CC BY-SA 4.0"
 methodology:
@@ -38,9 +38,9 @@ tags:
 
 ## Integration status
 
-This source addendum records the conceptual changes intended for **v0.6** of `the_network_is_the_learning_computer.md`.
+**Integrated into `research/the_network_is_the_learning_computer.md` (Appendix H) in v0.7 (2026-08-25).**
 
-It is kept separate until corpus propagation/integration is performed so that the reviewed v0.3 baseline and current v0.5 working paper are not replaced by a partial manual reconstruction.
+This source addendum is retained as an auditable historical trace of the Explorer Machine, Reality Response and capability topology extensions.
 
 Proposed changelog entry:
 

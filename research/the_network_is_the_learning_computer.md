@@ -35,6 +35,19 @@ changelog:
   identity; treats intent as a possible routing constraint/attractor;
   and adds a sovereignty guardrail distinguishing learning how to serve
   an intent from silently becoming the source of that intent.
+- v0.6 (2026-08-22) — connects the Learning Computer explicitly to
+  Rational Exploration of Possibilities and the Explorer Machine;
+  introduces Reality Response / Rossignol as the boundary between
+  endogenous cognitive learning and externally grounded learning;
+  connects Ithaca assimilation to Potentics and capability topology;
+  and treats routing not only as capability matching but as a possible
+  means of discovering capability-producing interdependencies.
+- v0.7 (2026-08-25) — introduces Packet Closure as the distributed
+  continuation boundary; separates packet identity from Packet Capsules,
+  causal history and storage placement; formalizes Event → EffectIntent
+  → EffectReceipt → Event as the materialized reactive loop; and
+  argues that closure, lineage, placement, return, authority and effects
+  are packet-native necessities rather than auxiliary mechanisms.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -47,7 +60,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-08-21
+last_modified_at: 2026-08-25
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -70,6 +83,9 @@ related_documents:
 - research/rational_odysseys_the_possible.md
 - research/second_method.md
 - research/potentics.md
+- research/the_network_is_the_learning_computer_v0.6_addendum.md
+- research/the_network_is_the_learning_computer_v0.7_packet_semantics_addendum.md
+- "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_continuation_packet_routing.md"
@@ -77,8 +93,8 @@ related_documents:
 review:
   reviewed_by:
   - Grok 4.5 (xAI) — decorrelated external review, 2026-08-16
-  status: v0.3 reviewed baseline; v0.5 pending review
-status: working-paper — v0.3 reviewed baseline; v0.5 pending review
+  status: v0.3 reviewed baseline; v0.7 pending review
+status: working-paper — v0.3 reviewed baseline; v0.7 pending review
 subtitle: Revisiting Sun’s vision through Cognitive Packet Switching
 tags:
 - learning-computer
@@ -1686,3 +1702,29 @@ Open question:
 Review status: v0.5 awaits decorrelated review. The two-Odyssey Reality
 test remains the primary experimental continuation; an intent-boundary
 test is now a natural follow-up.
+
+# Appendix H — v0.6 Explorer Machine and Reality Response revision note
+
+This revision connects the Learning Computer explicitly to Rational Exploration of Possibilities, introduces the Reality Response / Rossignol principle, and formalizes Ithaca assimilation through Potentics capability topology.
+
+Changes:
+
+- **Explorer Machine**: Formalizes the relationship between the method (Rational Exploration of Possibilities), the operational function (Explorer Machine), the distributed architecture (Learning Computer), and the transport/continuation mechanism (Cognitive Packet Switching);
+- **Reality Response / Rossignol**: Establishes that internal handler convergence does not constitute truth. A learning loop must provide a path for external reality to independently contradict the exploration via a *Rossignol* (physical test, empirical observation, independent external system);
+- **Ithaca as Possibility-Space Update**: Assimilation is formalized as the topological transformation of accessible possibilities: $\mathcal{P}(G(t)) \rightarrow \mathcal{P}(G(t+1))$;
+- **Routing as Interdependency Discovery**: Packet routing is not only capability-matching; it is a mechanism for discovering capability-producing interdependencies and revealing hidden systemic bottlenecks.
+
+# Appendix I — v0.7 Packet Semantics and Closure revision note
+
+This revision incorporates the consequences of Packet Closure, distributed memory placement, and governed external effects into the Learning Computer.
+
+Changes:
+
+- **Packet Closure as Ontological Boundary**: A continuation packet is closed when all dependencies required for admissible resumption across heterogeneous nodes and time are either embedded, stably referenced, or verifiably materializable;
+- **Separation of Four Packet Entities**:
+  - *Packet Identity*: Stable identity of the cognitive work;
+  - *Historical Truth*: Events and Artifacts establishing what occurred;
+  - *Packet Snapshot*: Materialized current state derived from history;
+  - *Packet Capsule*: Bounded travelling representation carrying a causal frontier for the next hop.
+- **Materialized Effect Loop ($Event \rightarrow EffectIntent \rightarrow EffectReceipt \rightarrow Event$)**: Prevents uncommitted or un-audited side-effects under branching and retries;
+- **Post-von Neumann Computational Continuity**: The canonical locus of computation shifts from machine-local instruction stream + RAM to distributed packetized continuations + materializable closures + persistent memory fields.

@@ -5,11 +5,11 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-25"
 version: "0.1"
-status: "integration-addendum"
-document_role: "source"
+status: "integrated"
+document_role: "derived"
 document_kind: "research-addendum"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "archived-source-note"
 language: "en"
 license: "CC BY-SA 4.0"
 methodology:
@@ -36,7 +36,9 @@ tags:
 
 ## Integration status
 
-This addendum is intended to follow the pending v0.6 integration. It records a new consequence of the packet-centric investigation: several concepts that had appeared separately in COP, the Reactive Corpus and JHN Architecture can now be understood as **requirements induced by packetization itself**.
+**Integrated into `research/the_network_is_the_learning_computer.md` (Appendix I) in v0.7 (2026-08-25).**
+
+This source addendum is retained as an auditable historical trace of the Packet Closure, placement, and event-effect-event reactive loop extensions.
 
 Proposed future changelog entry:
 

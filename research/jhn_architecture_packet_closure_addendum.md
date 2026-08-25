@@ -5,11 +5,11 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-25"
 version: "0.1"
-status: "integration-addendum"
-document_role: "source"
+status: "integrated"
+document_role: "derived"
 document_kind: "research-addendum"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "archived-source-note"
 language: "en"
 license: "CC BY-SA 4.0"
 related_documents:
@@ -34,11 +34,9 @@ tags:
 
 ## Integration status
 
-This addendum records concepts intended for the next revision of `jhn_architecture.md`.
+**Integrated into `research/jhn_architecture.md` v0.3 (2026-08-25).**
 
-The parent paper already makes the decisive move away from machine-local execution: the future of a computation can persist, travel, branch, compete, recombine and resume wherever admissible capability exists.
-
-Packet Closure now sharpens the exact condition under which that proposition is implementable.
+This source addendum is retained as an auditable historical trace of the transition from process-local continuation to distributed Packet Closure.
 
 Proposed future changelog entry:
 
