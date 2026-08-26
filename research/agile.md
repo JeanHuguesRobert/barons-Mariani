@@ -4,7 +4,7 @@ subtitle: "Régimes d’erreur, expérimentation traçable et apprentissage coll
 description: "Working paper sur la généalogie de l’agile, ses conditions de validité, sa diffusion hors du logiciel, et son articulation prudente avec la seconde méthode, l’autonomie de capacité et l’écosystème Barons Mariani"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.5"
+version: "0.6"
 date: "2026-05-23"
 license: "CC BY-SA 4.0"
 status: working-paper — working paper
@@ -12,17 +12,19 @@ related:
   - "./second_method.md"
   - "./autonomie_de_capacite.md"
   - "./kudocracy.md"
+  - "../../cogentia/research/measured_risk.md"
   - "../../cogentia/README.md"
   - "../../marenostrum/DHITL.md"
   - "../../FractaVolta/README.md"
 changelog:
   - "v0.1 (2026-05-23) — première version complète ; généalogie du passage waterfall/agile ; définition de la seconde méthode comme agile généralisé ; diffusion vers startups, design, DevOps, politiques publiques, territoires et IA ; articulation avec autonomie de capacité, Cogentia, DHITL, Kudocracy et question corse ; objections initiales et clause de continuation."
-  - "v0.2 (2026-05-23) — révision critique après évaluation externe : réduction de l’auto-référentialité ; reformulation de la thèse comme généralisation prudente et conditionnelle ; ajout d’une typologie des régimes d’erreur ; distinction plus nette entre agile logiciel et seconde méthode politique ; ajout de cas et familles de cas externes (Lean Startup, design thinking, DevOps/DORA, regulatory sandboxes, innovation publique, gouvernance adaptative) ; déplacement du corpus Barons Mariani en annexe ; renforcement des limites, objections et conditions de validité."
+  - "v0.2 (2026-05-23) — révision critique après évaluation externe : réduction de l’auto-référentialité ; reformulation de la thèse comme généralisation prudente et conditionnelle ; ajout d’une typologie des régimes d’erreur ; distinction plus nette entre agile logiciel et seconde méthode politique ; ajout d’ cas et familles de cas externes (Lean Startup, design thinking, DevOps/DORA, regulatory sandboxes, innovation publique, gouvernance adaptative) ; déplacement du corpus Barons Mariani en annexe ; renforcement des limites, objections et conditions de validité."
   - "v0.3 (2026-05-23) — préservation assumée de la signature stylistique tout en renforçant la défendabilité académique : ajout d’une note de positionnement sur le statut d’auteur et de corpus ; ajout d’une section sur la méthode de généralisation par conditions de validité ; clarification de la section Corse comme terrain situé et non preuve privilégiée ; ajout d’une matrice d’études de cas externes à documenter ; resserrement des formulations les plus prescriptives sans suppression des images structurantes."
   - "v0.4 (2026-05-23) — intégration de deux cas externes documentés : FCA Regulatory Sandbox et e-Estonia/X-Road ; ajout d’une section critique sur l’agile washing et les limites des transformations agiles à grande échelle ; resserrement de plusieurs formulations normatives ; maintien assumé de la signature stylistique et du branding, désormais justifiés dans la note de positionnement."
-  - "v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout de précautions sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives."
+  - "v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout d’une précaution sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives."
+  - "v0.6 (2026-08-26) — intégration de la doctrine du Risque Mesuré (Measured Risk, cogentia#120) : dépassement de l'opposition binaire réversible/irréversible vers l'enveloppe de réversibilité, le contrôle d'exposition, les chemins de compensation/réparation et la préservation du budget d'attention."
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-08-26
 document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
@@ -41,12 +43,11 @@ classification_confidence: "medium"
 Institut Mariani — C.O.R.S.I.C.A.  
 Corte, Corse
 
-*v0.2 — l’historique git sera la preuve. Le processus qui précède ce commit est documenté et accessible.*  
+*v0.6 — l’historique git sera la preuve. Le processus qui précède ce commit est documenté et accessible.*  
 *Ce document s’améliorera par application de la méthode qu’il décrit.*
 
 ---
 
-> *Cogito ergo sum.*  
 > *Cogentia ergo scimus.*  
 > *Faciendo ergo possumus.*
 
@@ -54,11 +55,11 @@ Corte, Corse
 
 ## Abstract
 
-This working paper proposes a cautious generalization of the agile paradigm beyond software engineering. Its central claim is not that all domains should become “agile”, nor that software methods can be directly transferred to public policy, territorial governance or democratic institutions. Rather, the paper argues that the historical success of agile methods in software made visible a broader distinction between two regimes of action: irreversible action, which requires strong ex ante precaution, and reversible action, which can benefit from disciplined, traceable experimentation.
+This working paper proposes a cautious generalization of the agile paradigm beyond software engineering. Its central claim is not that all domains should become “agile”, nor that software methods can be directly transferred to public policy, territorial governance or democratic institutions. Rather, the paper argues that the historical success of agile methods in software made visible a broader distinction between different regimes of risk and action. Instead of a simplistic binary between irreversible and reversible acts, the paper develops the doctrine of **Measured Risk**: bounding exposure, establishing clear reversibility and recovery envelopes (compensation, rectification, repair, accepted residue), and taking the smallest sufficient risk required to generate meaningful value and learning.
 
-The article first reconstructs the historical shift from waterfall-like planning models to iterative approaches in software development, while noting that the canonical opposition between waterfall and agile is partly simplified. It then examines how similar iterative logics appeared in Lean Startup, design thinking, DevOps, regulatory sandboxes, public-sector innovation and adaptive governance. These examples do not prove a universal method; they identify a family resemblance: small-batch experimentation, feedback loops, reversibility, measurement, documented learning and correction.
+The article first reconstructs the historical shift from waterfall-like planning models to iterative approaches in software development, while noting that the canonical opposition between waterfall and agile is partly simplified. It then examines how similar iterative logics appeared in Lean Startup, design thinking, DevOps, regulatory sandboxes, public-sector innovation and adaptive governance. These examples do not prove a universal method; they identify a family resemblance: small-batch experimentation, feedback loops, recovery pathways, measurement, documented learning and correction.
 
-The paper introduces the notion of “qualified objection” as a bridge between precaution and experimentation. In irreversible domains, objections may legitimately function as blocking mechanisms. In reversible domains, objections should be converted into testable constraints, indicators or falsification criteria. The proposed “second method” is therefore defined as a cautious framework for organizing collective trial-and-error under complexity: permissive action when experiments are reversible, and accountable record when actions have effects.
+The paper introduces the notion of “qualified objection” as a bridge between precaution and experimentation. Where recovery costs or externalities are severe, objections may legitimately function as blocking mechanisms. Within a bounded reversibility envelope, objections should be converted into testable constraints, indicators or falsification criteria. The proposed “second method” is therefore defined as a framework for organizing collective trial-and-error under complexity: taking bounded, measured risks when recovery paths exist, and enforcing accountable records when actions have external effects.
 
 The final sections examine the limits of this generalization, especially in democratic and territorial contexts where citizens are not software users and public experimentation can become deregulation if not audited. The paper concludes by relating this framework, as one possible application, to the author’s research on autonomy of capacity in Corsica, understood as the transformation of a territory from a machine that prevents into a system that learns.
 
@@ -68,17 +69,17 @@ The final sections examine the limits of this generalization, especially in demo
 
 Cet article propose une généralisation prudente du paradigme agile au-delà du développement logiciel.
 
-Sa thèse centrale n’est pas que tous les domaines devraient devenir « agiles », ni que les méthodes du logiciel pourraient être transférées directement aux politiques publiques, aux territoires ou aux institutions démocratiques. Elle est plus limitée : le succès historique des méthodes agiles dans le logiciel a rendu visible une distinction plus générale entre deux régimes d’action.
+Sa thèse centrale n’est pas que tous les domaines devraient devenir « agiles », ni que les méthodes du logiciel pourraient être transférées directement aux politiques publiques, aux territoires ou aux institutions démocratiques. Elle est plus limitée : le succès historique des méthodes agiles dans le logiciel a rendu visible une distinction plus fine entre régimes de risque et d’action. Loin d'une opposition binaire simpliste entre réversible et irréversible, l'article développe la doctrine du **Risque Mesuré (*Measured Risk*)** : borner l'exposition, définir des enveloppes de réversibilité et de réparation (annulation, compensation, rectification, résidu accepté), et accepter le plus petit risque suffisant nécessaire à l'apprentissage et à la création de valeur.
 
-D’un côté, les actions irréversibles ou très coûteuses exigent une précaution forte en amont. De l’autre, les actions réversibles, limitées, mesurables et documentables peuvent relever d’une expérimentation disciplinée.
+D’un côté, les actions à forte exposition ou à conséquences irréparables exigent une précaution forte en amont. De l’autre, les actions inscrites dans une enveloppe de réversibilité et de réparation maîtrisée peuvent et doivent relever d’une expérimentation disciplinée sans blocage réflexif.
 
 L’article reconstruit d’abord le passage du modèle en cascade aux approches itératives dans le logiciel, tout en soulignant que l’opposition canonique entre waterfall et agile simplifie l’histoire réelle. Il examine ensuite la diffusion de logiques similaires dans le Lean Startup, le design thinking, DevOps, les bacs à sable réglementaires, l’innovation publique et la gouvernance adaptative.
 
-Ces exemples ne prouvent pas l’existence d’une méthode universelle. Ils identifient une ressemblance de famille : essais en petits lots, boucles de retour, réversibilité, mesure, apprentissage documenté et correction.
+Ces exemples ne prouvent pas l’existence d’une méthode universelle. Ils identifient une ressemblance de famille : essais en petits lots, boucles de retour, chemins de récupération, mesure, apprentissage documenté et correction.
 
-L’article introduit ensuite la notion d’**objection qualifiée** comme articulation entre précaution et expérimentation. Dans les domaines irréversibles, l’objection peut légitimement bloquer. Dans les domaines réversibles, elle devrait être convertie en contrainte testable, indicateur ou critère de réfutation.
+L’article introduit ensuite la notion d’**objection qualifiée** comme articulation entre précaution et expérimentation. Lorsque les conséquences dépassent l'enveloppe de réparation, l’objection peut légitimement bloquer. Lorsque le risque est mesuré et réparable, l'objection doit être convertie en contrainte testable, indicateur ou critère de réfutation.
 
-La **seconde méthode** est ainsi définie comme un cadre prudent d’organisation du tâtonnement collectif sous complexité : action plus permissive lorsque l’essai est réversible, registre plus responsable lorsque l’action produit des effets.
+La **seconde méthode** est ainsi définie comme un cadre prudent d’organisation du tâtonnement collectif sous complexité : agir sous risque mesuré lorsque l’enveloppe de récupération est garantie, tenir un registre responsable lorsque l’action produit des effets extérieurs.
 
 Les dernières sections examinent les limites de cette généralisation, en particulier dans les contextes démocratiques et territoriaux, où les citoyens ne sont pas des utilisateurs de logiciel et où l’expérimentation publique peut devenir dérégulation si elle n’est pas auditée. L’article conclut en reliant ce cadre, comme application possible, à l’autonomie de capacité en Corse : transformer un territoire administré comme risque à contenir en territoire capable d’apprendre.
 
@@ -155,25 +156,24 @@ Dans ces domaines, une logique de type « essayons puis corrigeons » serait irr
 
 La méthode classique n’est donc pas dépassée. Elle reste indispensable. L’erreur consiste à l’appliquer comme méthode universelle.
 
-## 2.2. Erreur réversible : l’expérimentation traçable
+## 2.2. Risque mesuré et enveloppe de récupération (*Measured Risk*)
 
-À l’inverse, lorsque l’essai est limité, réversible et mesurable, le blocage préalable peut devenir plus coûteux que l’erreur elle-même.
+À l’inverse, lorsque l’essai est borné dans son exposition (*blast radius*) et s'inscrit dans une enveloppe de réversibilité et de réparation maîtrisée, le blocage préalable systématique devient plus coûteux que l’erreur elle-même : **il brûle inutilement la ressource la plus rare, le budget d’attention humaine**.
 
-Une idée mauvaise testée proprement produit une information : elle permet de savoir pourquoi elle échoue, dans quelles conditions, avec quels effets et quelles objections pertinentes.
+La doctrine du **Risque Mesuré (*Measured Risk*)** (formalisée dans `cogentia/research/measured_risk.md`) refuse à la fois la témérité aveugle et la minimisation réflexive du risque qui paralyse l'action. Elle repose sur une théorie positive de l'action sous contrainte :
 
-Une idée bloquée sans essai ne produit rien. Elle reste dans le domaine de l’opinion, de l’intuition ou du rapport de force.
+- **Identifier le gain attendu et l'apprentissage visé** ;
+- **Borner l'exposition (*Exposure*)** pour limiter les effets de bord ;
+- **Qualifier l'enveloppe de récupération** : distinguer l'annulation directe, la compensation, la rectification, la restitution, la réparation et le résidu accepté ;
+- **Préserver le budget d'attention** : ne solliciter d'arbitrage humain bloquant que si l'action franchit une frontière d'irréversibilité externe ou viole un mandat ;
+- **Prendre le plus petit risque suffisant** pour discriminer l'hypothèse dans le réel ;
+- **Observer la réalité et réparer de manière autonome** par boucles de rétroaction.
 
-L’expérimentation traçable repose donc sur une autre théorie de la prudence :
+Une idée mauvaise testée proprement dans une enveloppe de récupération produit une information précieuse : elle permet de savoir pourquoi elle échoue, dans quelles conditions, avec quels effets et quelles objections pertinentes.
 
-- limiter la taille de l’essai ;
-- rendre les hypothèses explicites ;
-- définir des indicateurs ;
-- conserver les objections ;
-- attribuer les décisions ;
-- documenter les résultats ;
-- corriger ou abandonner rapidement.
+Une idée bloquée par excès de prudence ne produit rien. Elle maintient le système dans l'illusion et la fatigue des autorisations préalables permanentes.
 
-Il ne s’agit pas d’opposer prudence et expérimentation. Il s’agit de distinguer deux formes de prudence : prudence de l’interdiction lorsque l’irréversible domine ; prudence de l’apprentissage lorsque le réversible domine.
+Il ne s’agit pas d’opposer prudence et expérimentation. Il s’agit de distinguer deux formes de gouvernance : précaution stricte lorsque les conséquences dépassent toute possibilité de réparation ; risque mesuré et apprentissage continu lorsque l'enveloppe de récupération est garantie.
 
 ## 2.3. Cynefin : situer l’action avant de choisir la méthode
 
@@ -183,22 +183,22 @@ Dans les situations simples ou claires, les bonnes pratiques peuvent être appli
 
 Cette distinction est importante pour éviter un contresens. La seconde méthode ne soutient pas que toute situation complexe doit devenir « agile » au sens professionnel du terme. Elle soutient plutôt que, dans les situations où la causalité n’est pas entièrement connaissable à l’avance, la méthode doit inclure des boucles d’essai, d’observation et de correction.
 
-Cynefin apporte donc un garde-fou : avant de choisir la méthode, il faut qualifier le type de situation. Une méthode efficace dans le compliqué peut échouer dans le complexe ; une méthode acceptable dans le réversible peut devenir irresponsable dans l’irréversible.
+Cynefin apporte donc un garde-fou : avant de choisir la méthode, il faut qualifier le type de situation. Une méthode efficace dans le compliqué peut échouer dans le complexe ; une méthode acceptable dans le risque mesuré peut devenir irresponsable si l'exposition n'est pas bornée.
 
-## 2.4. Typologie indicative des régimes d’action
+## 2.4. Typologie indicative des régimes d’action et d'exposition
 
 La typologie suivante n’a pas vocation à être définitive. Elle sert à éviter deux erreurs symétriques : généraliser l’agile partout, ou maintenir la méthode classique partout.
 
-| Régime d’action | Coût de l’erreur | Réversibilité | Exemple | Méthode adaptée |
-|---|---:|---:|---|---|
-| Infrastructure critique | Très élevé | Faible | Pont, barrage, centrale | Méthode classique, certification forte |
-| Acte vital ou judiciaire | Très élevé | Faible à moyenne | Chirurgie, condamnation pénale | Précaution maximale, recours |
-| Logiciel web ou service numérique | Faible à moyen | Élevée | Application, interface, API | Agile, DevOps, tests continus |
-| Innovation entrepreneuriale | Moyen | Moyenne à élevée | Produit minimum viable | Lean Startup, métriques |
-| Politique publique locale | Moyen à élevé | Variable | Logement, mobilité, énergie communale | Expérimentation auditée |
-| Régulation technologique | Variable | Variable | Fintech, IA, santé numérique | Bac à sable réglementaire encadré |
+| Régime d’action | Coût de l’erreur | Enveloppe de récupération | Exemple | Méthode adaptée |
+|---|---:|---|---|---|
+| Infrastructure critique | Très élevé | Nulle à très faible | Pont, barrage, centrale | Méthode classique, certification forte |
+| Acte vital ou judiciaire | Très élevé | Faible (recours, indemnisation) | Chirurgie, condamnation pénale | Précaution maximale, double regard |
+| Logiciel & outillage cognitif | Faible à moyen | Totale (Git revert, tests, sandbox) | Code, scripts, prompts, pipelines | Risque mesuré, autonomie sous mandat, FBF |
+| Innovation entrepreneuriale | Moyen | Élevée (pivot, métriques) | Produit minimum viable | Lean Startup, boucles courtes |
+| Politique publique locale | Moyen à élevé | Variable (pilotes réversibles) | Logement, mobilité, énergie communale | Expérimentation auditée, seuils d'exposition |
+| Régulation technologique | Variable | Encadrée (dérogation bornée) | Fintech, IA, santé numérique | Bac à sable réglementaire |
 | Démocratie et loi | Élevé | Faible à moyenne | Vote, mandat, règle collective | Expérimentation démocratique très encadrée |
-| IA décisionnelle | Potentiellement élevé | Variable | Recommandation, scoring, aide à la décision | Auditabilité, traçabilité, supervision humaine |
+| IA décisionnelle | Potentiellement élevé | Variable selon traçabilité | Recommandation, scoring, aide à la décision | Auditabilité, registres, supervision par continuation |
 
 Cette typologie indique que la seconde méthode n’est pas un remplacement global de la méthode classique. Elle est une méthode de discrimination entre régimes d’action.
 
