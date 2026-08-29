@@ -2,6 +2,8 @@
 
 > **Rossignol est un véritable âne corse. Il est aussi, progressivement, devenu une méthode : lorsqu’une idée risque de rester abstraite, nous construisons un « Rossignol » et nous observons ce que le Réel répond.**
 
+[Read this page in English](./rossignol.md)
+
 ## Un véritable âne à Corte
 
 Rossignol est d’abord un âne bien réel, vivant à Corte et dans ses environs, en Corse. Ce n’est pas une mascotte inventée après coup pour illustrer une théorie. Sa présence, ses besoins, son comportement, ses rencontres et toutes les questions très concrètes que pose la vie avec lui appartiennent au monde matériel.
@@ -91,3 +93,13 @@ Rossignol rappelle particulièrement bien la différence entre les deux.
 ---
 
 **En une phrase :** Rossignol est à la fois un âne corse bien réel et le nom donné à une discipline épistémique pratique : lorsque nous ne savons plus très bien si nous explorons le Réel ou seulement nos propres idées, nous donnons au Réel quelque chose de concret auquel répondre.
+
+## Pour aller plus loin
+
+- **[Rossignol — collection vivante du Musée Mariani des Possibles](../musee-mariani/collections/rossignol.md)** — provenance, chronologie documentée, statut épistémique et expérimentation territoriale concrète autour de l’âne réel.
+- **[Le principe Rossignol](./principe_rossignol.md)** — formulation méthodologique : comment obliger modèles, institutions et systèmes logiciels à rencontrer un Réel observable et contestable.
+- **[Test du critère Rossignol](./test_critere_rossignol.md)** — application du critère à plusieurs dispositifs du Corpus.
+- **[The Republic of Donkeys](./the_republic_of_donkeys.md)** — la fable politique et institutionnelle reliée à Rossignol et à l’expérimentation située.
+- **[La fable expérimentale](./fable_experimentale.md)** — comment une fiction peut produire des hypothèses tout en restant corrigible par le Réel.
+- **[What is Potentics?](./potentics.md)** — le programme de recherche plus large consacré à l’exploration rationnelle du Possible.
+- **[Discours de la seconde méthode](./second_method.md)** — le cadre épistémologique et méthodologique général dans lequel s’inscrit cette exploration.
