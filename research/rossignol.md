@@ -2,6 +2,8 @@
 
 > **Rossignol is a real Corsican donkey. He has also, progressively, become a method: when an idea risks remaining abstract, we build a “Rossignol” and observe how Reality answers.**
 
+[Lire cette page en français](./rossignol.fr.md)
+
 ## A real donkey in Corte
 
 Rossignol is first of all a real donkey, living in and around Corte, Corsica. He is not a mascot invented to illustrate a theory after the fact. His presence, needs, behaviour, encounters and the very practical questions raised by living with him belong to the material world.
@@ -91,3 +93,13 @@ A drawing of a donkey can support almost any theory. A real donkey eventually as
 ---
 
 **In one sentence:** Rossignol is both a Corsican donkey and the name given to a practical epistemic discipline — when we are no longer sure whether we are exploring Reality or merely our own ideas, we give Reality something concrete to answer.
+
+## Go further
+
+- **[Rossignol — living collection of the Musée Mariani des Possibles](../musee-mariani/collections/rossignol.md)** — provenance, documented chronology, epistemic status and the concrete territorial experiment around the real donkey.
+- **[Le principe Rossignol](./principe_rossignol.md)** — the methodological formulation: how to force models, institutions and software systems to encounter observable, contestable Reality.
+- **[Test du critère Rossignol](./test_critere_rossignol.md)** — application of the criterion to several systems in the Corpus.
+- **[The Republic of Donkeys](./the_republic_of_donkeys.md)** — the political and institutional fable connected to Rossignol and to situated experimentation.
+- **[La fable expérimentale](./fable_experimentale.md)** — how a fiction can generate hypotheses while remaining corrigible by Reality.
+- **[What is Potentics?](./potentics.md)** — the wider research programme on the rational exploration of the Possible.
+- **[Discours de la seconde méthode](./second_method.md)** — the broader epistemological and methodological framework in which this exploration is situated.
