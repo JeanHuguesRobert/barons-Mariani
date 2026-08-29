@@ -21,18 +21,8 @@ classification_confidence: "medium"
 > ⬅️ Previous: [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md) | ➡️ Next: [Democratic AI Safety](democratic_ai_safety.md)
 <!-- END_AUTO: trails -->
 ---
-canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/the_republic_of_donkeys.md
-last_stamped_at: 2026-05-16
----
 # The Republic of Donkeys
 ## A Situated Micro-Experiment in Commons Governance
-
-**Working Paper — Version 2.0**
-**Author:** Jean Hugues Noël Robert, baron Mariani
-**Institut Mariani — Association C.O.R.S.I.C.A.**
-**1, cours Paoli, F-20250 Corte, Corsica (France)**
-**April 2026 — institutmariani@gmail.com, jhr@baronsmariani.org**
-*Published under CC BY-SA 4.0*
 
 ---
 
