@@ -8,7 +8,7 @@ date: "2026-09-03"
 last_modified_at: "2026-09-03"
 license: "CC BY-SA 4.0"
 language: "fr"
-version: "0.3"
+version: "0.4"
 status: ["working-paper", "under-review"]
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/quand_le_reel_repond_pkd.md"
 last_stamped_at: "unknown"
@@ -18,8 +18,9 @@ methodology:
   - "Reactive Corpus"
   - "Rational Exploration of the Possible"
 ai_assisted_by:
-  - "GPT-5.6 Sol — Redactor drafting, corpus synthesis, source verification, self-containedness pass, and literary restructuring"
-human_arbitration_by: "Jean Hugues Noël Robert"
+  - "GPT-5.6 Sol — Redactor drafting, corpus synthesis, source verification, self-containedness pass, literary restructuring, and v0.4 critique assimilation"
+  - "Grok 4.6 (xAI) — decorrelated Reviewer of immutable C1"
+human_arbitration_by: "Jean Hugues Noël Robert — v0.4 publication arbitration and approval — 2026-09-03"
 update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source"
 document_function: "research-essay"
@@ -62,18 +63,24 @@ provenance:
     - "research/pkd_after_ai.md"
     - "research/ai-based-cultural-mediation.md"
 review:
-  status: "human-reviewed — decorrelated external review pending"
+  status: "human-reviewed v0.4 — second decorrelated external review pending"
   reviewed_by:
-    - "Jean Hugues Noël Robert — full human reading and publication approval — 2026-09-03"
+    - "Jean Hugues Noël Robert — full human reading and v0.3 publication approval — 2026-09-03"
+    - "Jean Hugues Noël Robert — v0.4 diff review, arbitration, and publication approval — 2026-09-03"
+    - "Grok 4.6 (xAI) — decorrelated external review of immutable C1 — 2026-09-03"
+x-reviewed-commit: "dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
+x-review-contract: "cogentia/prompts/reviewer.md v0.5"
 changelog:
   - "v0.1 (2026-09-03) — first complete Redactor draft prepared under DPCP issue #54; not yet committed or externally reviewed."
   - "v0.2 (2026-09-03) — strengthened self-containedness with first-use concept definitions and a Corpus entry-point appendix."
-  - "v0.3 (2026-09-03) — literary restructuring: replaced taxonomy-first exposition with scene-driven argument, kept conceptual definitions at first argumentative need, and introduced Rossignol as the real twenty-year-old donkey living in Corte before naming the methodological principle. Full human reading and publication approval by Jean Hugues Noël Robert; decorrelated external review remains pending."
+  - "v0.3 (2026-09-03) — literary restructuring: replaced taxonomy-first exposition with scene-driven argument, kept conceptual definitions at first argumentative need, and introduced Rossignol as the real twenty-year-old donkey living in Corte before naming the methodological principle. Full human reading and publication approval by Jean Hugues Noël Robert; decorrelated external review remained pending."
+  - "v0.4 (2026-09-03) — assimilated selected Grok 4.6 Reviewer findings: independent attestation for Rossignol, non-reset condition and principal-layer consequence for Synthetic Skin in the Game, explicit constitutional status of living-person sovereignty, contrast with preference/eval loops, world-model family split, and related answerability/DHITL clarifications. Reviewed by diff and approved for publication by Jean Hugues Noël Robert on 2026-09-03. Human approval does not constitute a corpus stamp; last_stamped_at therefore remains unknown."
 x-cognitive-packet:
   profile: "document-production"
   work_locus: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/54"
-  current_phase: "c1-human-reviewed-publication"
+  current_phase: "c2-human-reviewed-publication-awaiting-second-review"
   ithaca: "research/quand_le_reel_repond_pkd.md"
+  causal_frontier: "dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
   next_handler_capability: "reviewer-v0.5"
 ---
 
@@ -85,11 +92,11 @@ x-cognitive-packet:
 
 **Object.** Produce a self-contained French sovereign source essay that uses Philip K. Dick as a diagnostic instrument, not as an authority or prophet, and connects recurrent problems of Reality, Possibility, Personhood, Power, and consequence.
 
-**Status.** Human-reviewed publication checkpoint v0.3. Approved for public GitHub publication by Jean Hugues Noël Robert on 2026-09-03. Decorrelated external review remains pending.
+**Status.** Human-reviewed v0.4 after decorrelated review of immutable C1 by Grok 4.6. The v0.4 integrations were reviewed by diff, arbitrated, and approved for public GitHub publication by Jean Hugues Noël Robert on 2026-09-03. A second decorrelated review remains pending.
 
 **Associated documents.** The load-bearing Corpus references are the Second Method, *Le Réel, le Virtuel et l’Actuel*, the Rossignol Principle, the existing *Ubik* and PKD/AI papers, the Inox orientation note, and the current Redactor/Reviewer contracts.
 
-**Update method.** Continue through GitHub issue #54 as the active Document Production Cognitive Packet work locus. This publication creates checkpoint C1; the immutable publication commit is the causal frontier for decorrelated review. Further stabilization requires Reviewer findings, explicit Redactor dispositions, and renewed human arbitration.
+**Update method.** Continue through GitHub issue #54 as the active Document Production Cognitive Packet work locus. Commit `dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a` is the immutable C1 causal frontier reviewed by Grok 4.6. This v0.4 assimilates selected findings and is authorized as the next public checkpoint; the resulting commit SHA becomes the causal frontier for the second decorrelated review.
 
 ---
 
@@ -119,654 +126,538 @@ La question centrale de cet essai est simple à formuler et plus difficile à te
 
 Une représentation peut-elle recevoir autre chose que son propre reflet ? Une décision peut-elle être rattrapée par ses effets ? Le dommage subi par un autre peut-il entrer dans mon calcul sans devenir le mien ? Une machine qui agit peut-elle être construite de telle sorte que le résultat de ses actes modifie réellement ce qu’elle pourra faire ensuite ? Et que reste-t-il, dans tout cela, de la responsabilité propre aux personnes vivantes ?
 
----
+C’est là que l’épreuve des conséquences commence.
 
-## 1. Ce qui ne disparaît pas
-
-Philip K. Dick a donné une formule célèbre de la réalité : ce qui, lorsque nous cessons d’y croire, ne disparaît pas.
-
-La formule plaît parce qu’elle est courte. Elle demeure parce qu’elle est plus étrange qu’elle n’en a l’air.
-
-Elle ne dit pas que le Réel est ce que tout le monde croit. Elle ne dit pas non plus qu’il est ce que l’autorité certifie, ce qui possède le plus de données, ou ce qui gagne une discussion. Elle propose un geste négatif : retirez votre croyance. Voyez ce qui reste.
-
-Un mur reste. Une fracture reste. La pluie reste. Une dette peut également rester, quoique d’une autre façon, parce que des institutions, des archives, des personnes et parfois des policiers continuent de lui prêter des effets. Le critère devient déjà moins simple. Une monnaie peut cesser d’exister si plus personne ne la reconnaît ; elle n’était pourtant pas irréelle lorsqu’elle permettait d’acheter du pain. Un mariage, une frontière, une société commerciale sont soutenus par des pratiques collectives, mais ces pratiques peuvent produire des conséquences d’une dureté très peu imaginaire.
-
-La formule de Dick est donc moins une ontologie complète qu’une épreuve de résistance. Elle nous rappelle qu’une représentation n’est pas souveraine simplement parce qu’elle est cohérente.
-
-Dans le Corpus, cette intuition a pris une forme plus active : **Le Réel est ce qui répond.**
-
-Par *Réel*, j’entends ici, de manière volontairement minimale, ce qui ne dépend pas entièrement de nos représentations et peut leur imposer une surprise, une contrainte, un effet ou un échec. Nous n’y accédons jamais sans médiation : nous rencontrons des perceptions, des instruments, des documents, des traces, des mesures, des témoignages. Mais ces médiations ne se valent pas seulement par leur élégance. Certaines sont reliées à des chaînes causales capables de les démentir.
-
-La différence avec la formule de Dick est légère en apparence et importante dans l’usage. Chez lui, j’arrête de croire et j’observe ce qui demeure. Ici, j’agis comme si mon modèle était assez bon, et j’observe ce qui advient.
-
-La croyance est mise à l’épreuve par la persistance. Le modèle est mis à l’épreuve par l’intervention.
-
-Je peux croire que la pièce est à vingt-deux degrés. Je peux aussi décider de chauffer une serre en conséquence. Dans le second cas, le monde ne se contente plus d’être là : il entre dans une boucle où mes erreurs commencent à coûter quelque chose.
-
-C’est cette boucle qui nous intéressera.
+Le mot *conséquence* ne servira pourtant pas de théorie universelle. Une conséquence ne prouve pas une vérité, ne crée pas un mandat, n’assigne pas à elle seule une responsabilité, ne transfère pas la douleur d’autrui et ne confère aucun droit politique. Elle sera plutôt notre charnière : le point où des distinctions autrement abstraites commencent à produire des effets qu’il faut attribuer, supporter, contester ou corriger.
 
 ---
 
-## 2. Une chambre d’*Ubik*
+## I. Le monde qui ne se laisse pas faire
 
-Imaginez maintenant que le thermomètre indique dix-sept, mais que le chiffre change lorsque vous détournez les yeux.
+### 1. Ce qui reste quand la croyance s’en va
 
-Puis que l’étiquette du thermomètre vous adresse un message.
+Dans *How to Build a Universe That Doesn’t Fall Apart Two Days Later*, texte préparé en 1978, Philip K. Dick rapporte la définition qu’il avait donnée quelques années plus tôt à une étudiante : « Reality is that which, when you stop believing in it, doesn’t go away. »
 
-Puis qu’une voix provenant du radiateur vous explique que le thermomètre ment.
+La phrase tient sur une ligne. C’est une de ses forces. Elle n’explique pas le monde ; elle lui impose un petit test.
 
-Puis que l’objet lui-même régresse en un modèle ancien, comme s’il remontait sa propre histoire industrielle.
+Je peux croire que la pluie s’arrêtera parce que j’ai décidé de sortir. La pluie n’est pas tenue par ma décision. Je peux cesser de croire à la gravité ; la marche reste mauvaise depuis le troisième étage. Une croyance peut changer mon comportement, parfois celui des autres, parfois même l’existence d’une institution. Mais il reste une différence entre ce qui est entretenu par la croyance et ce qui peut lui résister.
 
-Vous êtes entré dans *Ubik*.
+Cette différence suffit pour un réalisme minimal. Elle ne nous donne aucun accès immédiat à un « monde en soi ». Nous rencontrons des perceptions, des instruments, des témoins, des documents, des traces. Même le thermomètre n’est qu’un intermédiaire. Mais le fait même que nous puissions découvrir qu’un intermédiaire est défectueux suppose qu’aucun intermédiaire n’a le dernier mot par définition.
 
-Le roman de 1969 est souvent résumé comme une histoire de réalité instable. C’est exact et insuffisant. Ce qui le rend particulièrement utile aujourd’hui n’est pas seulement que ses personnages doutent de ce qui existe. C’est qu’ils perdent progressivement les procédures qui leur permettraient de stabiliser ensemble ce doute.
+Le Corpus auquel appartient cet essai a condensé cette intuition dans une formule voisine : **Le Réel est ce qui répond.**
 
-Les objets régressent. Les messages traversent des couches d’existence dont le statut demeure incertain. La frontière entre vivant et mort cesse d’être simple. Le temps se dérègle. Et *Ubik* lui-même apparaît partout à la fois comme produit, publicité, substance, promesse de salut, intervention technique ou métaphysique.
+Par *Réel*, j’entends ici ce qui ne dépend pas entièrement de nos représentations et qui peut produire un effet que ces représentations n’avaient pas prévu. Dire qu’il « répond » ne signifie pas que le monde parle notre langue. Une résistance, une panne, un résultat nul, un détour, un accident, une mesure discordante, une absence d’effet peuvent être des réponses. Le point décisif est qu’elles n’ont pas besoin de demander la permission à notre théorie.
 
-Le problème n’est plus seulement : « ceci est-il vrai ? »
+La définition de Dick demande : qu’est-ce qui demeure lorsque je cesse de croire ?
 
-Il devient : **d’où vient ce qui prétend me corriger ?**
+La formule « Le Réel répond » ajoute : qu’est-ce qui peut me donner tort lorsque j’agis comme si j’avais raison ?
 
-C’est un problème très contemporain.
+Ce petit déplacement fait entrer l’action dans la connaissance. Une idée n’est plus seulement comparée à d’autres idées. Elle produit une anticipation, parfois un geste, et quelque chose revient.
 
-Une image arrive sur mon écran. Est-elle photographie, montage, génération synthétique, copie d’une copie, capture d’un faux site, mème ironique ? Une voix m’appelle. Est-elle celle de la personne dont elle porte le timbre ? Un texte me donne une source. La source existe-t-elle ? A-t-elle été lue ? Un agent me rapporte qu’un autre agent a vérifié l’affirmation. Ont-ils utilisé la même base ? Le même modèle ? La même erreur ?
+Il faut déjà ajouter une précaution. Une monnaie, une frontière ou un tribunal n’existent pas comme une pierre existe. Ils dépendent de pratiques collectives, de textes, de croyances, de force et d’institutions. Pourtant leurs décisions peuvent conduire un homme en prison, déplacer de l’argent, ouvrir ou fermer un territoire. Le fait qu’une réalité soit socialement construite ne la rend pas sans conséquence. La définition dickienne est donc un bon test de résistance, non une théorie exhaustive des modes d’existence.
 
-Dans ces situations, ajouter des opinions n’aide pas nécessairement. Dix générateurs peuvent produire un consensus à partir d’une même contamination.
+L’essentiel est ailleurs : aucune représentation ne doit pouvoir s’accorder elle-même l’immunité.
 
-C’est pourquoi le Corpus distingue une **réalité commune** d’une vérité décidée par vote. La réalité commune n’est pas ce que la majorité décrète vrai. C’est un état provisoire de ce que nous pouvons raisonnablement tenir ensemble parce que les chemins vers les sources, les transformations, les objections et les corrections restent accessibles.
+### 2. *Ubik*, ou le jour où la sortie de secours s’est mise à bouger
 
-J’appelle **stabilisateur procédural** un dispositif qui ne stabilise pas une conclusion, mais les conditions par lesquelles une conclusion pourra encore être examinée, contestée et corrigée : provenance, versionnage, traces de transformation, accès indépendants, objections conservées, possibilité de revenir à la source.
+Le problème, dans *Ubik*, n’est pas simplement que les personnages se trompent sur le monde. Il est qu’ils perdent progressivement les moyens de savoir ce qui pourrait corriger leur erreur.
 
-*Ubik* met en scène le désir inverse : qu’existe enfin quelque chose qui stabilise directement le monde.
+Les objets régressent. Le présent se décompose. Des messages apparaissent là où ils ne devraient pas apparaître. Ce qui pourrait servir de preuve appartient au même environnement que ce qui est devenu suspect. L’assistance elle-même peut prendre la forme d’une publicité. On ne cherche plus seulement à distinguer le vrai du faux ; on cherche un endroit où poser le pied.
 
-Un aérosol contre l’effondrement ontologique.
+Cette expérience littéraire me paraît aujourd’hui plus intéressante que la plupart des rapprochements faciles entre Dick et les médias synthétiques. Un faux visage ou une fausse voix sont des problèmes réels, mais connus dans leur structure : une apparence trompe. *Ubik* met en scène quelque chose de plus grave — la possibilité que **le canal de correction soit pris dans la même instabilité que le canal de l’erreur**.
 
-Nous n’en avons pas.
+Supposons qu’un modèle produise une affirmation fausse. Nous demandons à un deuxième modèle de la vérifier. Puis à un troisième. Leur accord nous rassure. Pourtant ils ont pu apprendre sur les mêmes textes, reprendre les mêmes simplifications, consulter les mêmes pages qui se recopient les unes les autres. Nous avions cru augmenter le nombre des témoins ; nous avons peut-être seulement multiplié les miroirs.
 
-Et il vaut probablement mieux ne pas en avoir, si l’aérosol appartient à quelqu’un.
+Le problème n’est pas le nombre de voix. C’est leur indépendance.
+
+Le Corpus appelle **stabilisateur procédural** un dispositif qui ne prétend pas stabiliser la vérité elle-même mais les conditions de sa correction : provenance, versionnage, accès aux sources, objections visibles, chemins de vérification aussi indépendants que possible, possibilité de revenir sur une conclusion sans effacer la trace de ce qui l’a précédée.
+
+La nuance est politique autant qu’épistémique.
+
+Un stabilisateur autoritaire dit : « voici le récit qui tiendra ».
+
+Un stabilisateur procédural dit : « voici comment nous saurons que ce récit doit changer ».
+
+À mesure que produire une apparence crédible devient facile, cette différence devient plus chère. Le monde ne disparaît pas. C’est le prix de la preuve qui augmente.
+
+### 3. *VALIS*, ou le risque inverse : quand le monde répond trop bien
+
+La formule « Le Réel répond » possède un autre danger. Elle peut devenir une invitation à entendre une réponse partout.
+
+Dans *VALIS*, le monde se charge de signes. La coïncidence cesse d’être innocente. Une lumière, un motif, une phrase, une rencontre peuvent entrer dans une construction où chaque élément semble adressé. Le lecteur n’est pas seulement confronté à l’incertitude du monde ; il l’est à la puissance d’un esprit capable de faire du monde un réseau de messages.
+
+L’intelligence artificielle rend ce vertige particulièrement facile à reproduire.
+
+Demandez à un modèle de trouver des correspondances entre cent événements, dix livres et vingt noms propres : il les trouvera. Demandez-lui ensuite d’expliquer pourquoi ces correspondances sont significatives : il construira une architecture. Ajoutez trois agents chargés d’enrichir l’interprétation : la cathédrale montera très vite.
+
+Rien de cela n’est forcément inutile. La recherche de motifs peut produire des hypothèses fécondes. La littérature elle-même vit de résonances. Le problème commence quand l’interprétation s’accorde le droit de choisir elle-même ce qui comptera comme confirmation.
+
+Si le silence confirme, si la contradiction confirme, si l’absence de résultat confirme une intention plus subtile, alors le monde ne peut plus dire non.
+
+Et un monde qui ne peut plus dire non n’est plus un interlocuteur. Il est devenu notre ventriloque.
+
+C’est ici qu’apparaît Rossignol.
 
 ---
 
-## 3. Quand tout devient signe
+## II. L’âne qui ne lit pas les logs
 
-Le danger symétrique apparaît avec *VALIS*.
-
-Une réalité trop pauvre en signes nous laisse aveugles. Une réalité où tout devient signe nous rend fous.
-
-Philip K. Dick en a fait l’expérience de manière suffisamment intense pour que la frontière entre œuvre, journal, philosophie et expérience vécue devienne elle-même difficile à tracer. Des coïncidences, des éclats lumineux, des références culturelles, des informations médicales, des motifs historiques peuvent être lus comme les fragments d’un système de communication caché.
-
-Ce n’est pas ici le lieu de décider ce que furent les expériences de Dick. Ce qui m’intéresse est le problème méthodologique qu’elles rendent presque douloureusement visible : **si le monde répond partout, comment distinguer une réponse de ce que nous avons nous-mêmes sélectionné comme réponse ?**
-
-Le Réel répond ne peut donc pas signifier : tout événement qui survient après mon hypothèse est sa confirmation.
-
-Une réponse utile doit pouvoir nous surprendre d’une manière qui ne dépende pas entièrement de la grille utilisée pour la reconnaître.
-
-Autrement dit, le monde doit avoir le droit de ne pas parler notre langue.
-
-C’est ici qu’un autre personnage entre dans cette histoire.
-
-Il n’appartient pas à un roman de Philip K. Dick.
-
-Il vit à Corte.
-
----
-
-## 4. Rossignol boit-il vraiment ?
+### 4. Rossignol
 
 Rossignol n’est pas d’abord un concept. C’est un âne.
 
 Un âne bien réel, âgé de vingt ans, qui vit à Corte, en Corse.
 
-Imaginons un système chargé de surveiller son abreuvoir. Une pompe est commandée à distance. Un capteur de niveau renvoie une valeur correcte. Le logiciel affiche `SUCCESS`. Un premier agent lit les logs et conclut que tout va bien. Un second agent vérifie le raisonnement du premier. Un troisième résume : « disponibilité d’eau nominale ».
+Il ne connaît ni Philip K. Dick, ni le problème du *grounding*, ni la cybernétique. Il n’a aucune opinion sur l’intelligence artificielle. Il n’a pas besoin de comprendre le logiciel qui commande une pompe pour avoir besoin d’eau.
 
-Puis Rossignol arrive devant l’abreuvoir.
+Imaginons précisément cette pompe. Le contrôleur affiche `ON`. Le capteur interne annonce un niveau normal. Le journal d’événements ne contient aucune erreur. Un agent logiciel lit le journal et conclut que le système fonctionne. Un second agent vérifie la cohérence des données et confirme. Un tableau de bord passe au vert.
 
-Il n’y a pas d’eau.
+Rossignol arrive devant l’abreuvoir.
 
-Quelque chose s’est produit entre les représentations et le monde : capteur bloqué, tuyau débranché, pompe désamorcée, mauvais emplacement de mesure, erreur de câblage, hypothèse oubliée. Peu importe d’abord laquelle. Ce qui importe est que le système possédait beaucoup de façons de se rassurer et pas encore le bon moyen d’être contredit.
+Il est vide.
 
-Dans le Corpus, nous avons donné un nom à ce genre de point d’ancrage : le **principe Rossignol**.
+À cet instant, plusieurs choses se produisent en même temps. Un système peut être logiquement cohérent et matériellement faux. Une métrique peut être exacte et mal choisie. Un capteur peut mesurer autre chose que ce qui importe. Une chaîne complète d’attestation peut se fermer sur elle-même tout en manquant son objet.
 
-Un Rossignol est un dispositif par lequel une hypothèse, un modèle ou une chaîne d’action rencontre quelque chose d’extérieur à ses représentations, de manière observable, contestable et capable de produire une réponse inattendue.
+L’âne, lui, ne fait pas de revue de code. Il a soif.
 
-Le nom est affectueux ; l’exigence est sévère.
+Le **principe Rossignol** est né de ce genre de rencontre : toute hypothèse, tout modèle ou toute chaîne d’action qui risque de devenir autoréférentielle doit posséder au moins un point où elle rencontre le monde de façon observable, contestable et capable de produire une réponse imprévue. Un Rossignol, au sens méthodologique, est ce point d’ancrage.
 
-La question Rossignol est :
+Sa question la plus simple est : **où, exactement, le Réel peut-il répondre autrement que le système ne l’attend ?**
 
-**Où, exactement, le Réel peut-il répondre autrement que le système ne l’attend ?**
+Il faut maintenant ajouter une seconde question, moins visible : **qui atteste cette réponse ?** Nous ne rencontrons jamais l’abreuvoir sans médiation ; même sa photographie, son capteur de niveau ou le témoignage de celui qui l’a vu deviennent des représentations. Un Rossignol fort ne demande donc pas seulement une source extérieure de surprise. Il exige qu’au moins une partie décisive de la chaîne d’attestation ne soit pas silencieusement contrôlée et interprétée par le même principal que l’hypothèse testée. Une télémétrie qui a l’air extérieure mais reste entièrement administrée par le système qu’elle doit contredire peut encore être un miroir.
 
-Si la seule réponse est « dans un autre log produit par le même système », nous n’avons pas fermé la boucle.
+Le nom compte parce qu’il rappelle l’origine. On pourrait l’appeler « external empirical contradiction endpoint » et le rendre immédiatement inhabitable. Le fait qu’il porte le nom d’un âne oblige à se souvenir qu’au bout de certaines architectures se trouve un être vivant qui ne se nourrit pas de nos métriques.
 
-Dans l’exemple de l’abreuvoir, le fait que Rossignol dépende réellement de l’eau ajoute une dimension supplémentaire. La disponibilité n’est plus seulement une métrique. Elle devient une conséquence biologique.
+Il introduit aussi une exigence morale. Plus le test rejoint des conséquences réelles, plus il faut protéger ce qui les subit. Rossignol ne devient pas un bon cobaye parce qu’il fournit un excellent ancrage empirique. Au contraire : sa dépendance à l’eau impose redondance, surveillance, intervention humaine possible et priorité absolue de son bien-être sur la beauté de l’expérience.
 
-Mais cette force épistémique crée immédiatement une obligation morale. On ne met pas un animal en danger pour obtenir une meilleure expérience.
+C’est peut-être la première leçon de l’épreuve des conséquences : **le Réel devient plus instructif au moment même où nous avons davantage de devoirs envers lui.**
 
-Plus la conséquence est réelle, plus le devoir de soin augmente.
+### 5. Sortir du dictionnaire
 
-Rossignol ne sert donc pas de cobaye au principe qui porte son nom. Il lui impose précisément sa limite.
+En 1990, Stevan Harnad a donné un nom à un vieux problème devenu central pour les machines qui manipulent des symboles : le *symbol grounding problem*. Un dictionnaire ne peut pas apprendre seul le monde. Si chaque mot n’est expliqué que par d’autres mots, nous pouvons tourner longtemps sans rencontrer ce à quoi les mots se rapportent.
 
----
+Les grands modèles de langage rendent ce problème plus subtil, non caduc. Ils ne fonctionnent pas comme de simples dictionnaires circulaires. Ils apprennent des régularités extraordinairement riches, manipulent des abstractions, travaillent avec des images et des sons, appellent des outils, consultent des bases. Certains philosophes contestent à juste titre les caricatures qui les réduisent à une pure manipulation syntaxique.
 
-## 5. Les machines trouvent le monde
+Mais pour notre propos, la question peut rester volontairement modeste : **qu’est-ce qui, dans la chaîne, ne provient pas seulement d’une nouvelle transformation de représentations apparentées ?**
 
-Le problème que Rossignol pose à un petit système d’abreuvement est le même, à une autre échelle, que celui posé aux intelligences artificielles contemporaines.
+Un moteur de recherche peut ouvrir une fenêtre, sans garantir ce qui se trouve derrière. Un capteur peut relier une mesure au monde, sans garantir qu’il est correctement calibré. Un robot peut agir, sans garantir qu’il poursuit le bon but. Une simulation peut explorer des futurs, sans garantir qu’un seul d’entre eux existe hors d’elle.
 
-Pendant longtemps, un modèle de langage pouvait être caricaturé comme une machine enfermée dans une bibliothèque : une immense capacité à transformer des signes en signes, sans yeux, sans mains et sans histoire propre dans le monde.
+Le mot *grounding* — ancrage — ne devrait donc pas évoquer un interrupteur que l’on bascule : `grounded = true`. L’ancrage possède des degrés, des chemins, des médiations et des risques de retour circulaire.
 
-La caricature est de moins en moins exacte.
+Ce qui compte, dans le cadre de cet essai, est moins de savoir si une machine « comprend vraiment » que d’identifier **par où la surprise peut entrer et ce qu’elle peut changer**.
 
-Les systèmes actuels peuvent recevoir des images, des sons, des flux de capteurs, utiliser des outils, appeler des bases de données, contrôler des navigateurs, écrire du code qui s’exécute, piloter des robots ou proposer les prochaines expériences d’un laboratoire automatisé.
+Un système qui consulte le monde mais ne modifie rien après avoir été démenti n’est que mieux informé. Il n’est pas encore mieux couplé.
 
-On parle alors de **grounding**, d’ancrage : le problème de savoir comment les symboles d’un système se relient à autre chose qu’à d’autres symboles.
+### 6. Le monde modèle et le monde tout court
 
-Mais l’ancrage possède des degrés.
+L’expression *world model* est presque trop belle. Elle donne envie de croire que l’on a mis le monde quelque part.
 
-Lire une page web est un contact avec une trace externe. Voir une caméra ajoute une autre chaîne causale. Manipuler un objet en ajoute une troisième. Faire une prédiction risquée, agir, puis laisser le résultat matériel modifier la suite est plus fort encore.
+Les systèmes récents rendent cette tentation compréhensible. Sous le même nom coexistent d’ailleurs des familles différentes : des modèles prédictifs latents qui apprennent à anticiper l’évolution d’une représentation, et des simulateurs génératifs interactifs qui produisent des environnements dans lesquels un agent peut agir. Des systèmes aident aussi des robots à raisonner sur des scènes physiques. DeepMind, NVIDIA et d’autres poursuivent ainsi une ambition générale : ne plus seulement produire une phrase plausible, mais apprendre suffisamment de structure pour prévoir ce qui pourrait arriver si l’on agit. Une porte ouverte dans un simulateur, cependant, reste une porte de simulateur ; le test Rossignol ne commence que lorsque quelque chose d’indépendant de cette simulation peut résister à la prédiction.
 
-C’est pourquoi les **world models** — modèles du monde capables de représenter ou simuler des dynamiques physiques — sont à la fois fascinants et dangereux à nommer. Un modèle du monde n’est pas le monde. Il peut produire des trajectoires plausibles avec une fidélité remarquable tout en restant une représentation.
+C’est un progrès important. C’est aussi le moment exact où il faut répéter une phrase ancienne : **la carte n’est pas le territoire**.
 
-La simulation est une chambre d’essai. Elle devient Rossignol seulement lorsqu’une porte donne sur quelque chose qui n’obéit pas au simulateur.
+Un bon *world model* n’est pas un petit monde enfermé dans une machine. C’est une carte plus riche. Elle permet d’éviter des essais absurdes, de préparer un geste, de simuler des accidents rares, d’explorer rapidement des variantes. Elle appartient à ce que le Corpus appelle **Le Possible** : le domaine, jamais entièrement cartographié, de ce que le Réel n’a pas encore interdit. L’**Actuel** est ce qui, parmi ce champ, s’est effectivement réalisé.
 
-Les laboratoires autonomes offrent ici un cas presque idéal. Un système formule une hypothèse, choisit une expérience, fait préparer ou exécuter une opération physique, reçoit des mesures, révise son hypothèse, puis décide de la suite. La boucle peut être largement automatisée. Ce qui lui donne sa force n’est pas que la machine « raisonne mieux » après chaque tour. C’est qu’entre deux raisonnements, quelque chose a eu lieu qu’elle ne contrôlait pas entièrement.
+La **Potentique** — *Potentics* — est le programme de recherche qui cherche à explorer rationnellement ce Possible : quelles possibilités sont réellement ouvertes, lesquelles ont une forte potentialité d’actualisation, quelles conditions les favorisent, lesquelles les bloquent, et ce que les essais réussis ou ratés nous apprennent sur la carte.
 
-Le tube a réagi ou non.
+La simulation est donc précieuse précisément parce qu’elle n’est pas le monde. Elle permet d’ouvrir le jeu avant d’engager davantage. Mais son prestige augmente le risque de confondre la richesse de la carte avec l’existence du chemin.
 
-Le matériau a tenu ou cassé.
-
-La cellule a poussé ou non.
-
-Le Réel a répondu.
+Rossignol, ici encore, reste utile. On peut simuler mille abreuvoirs parfaits. À un moment, l’eau doit couler dans celui où l’âne boit.
 
 ---
 
-## 6. Mais à qui répond-il ?
+## III. La peau de l’autre
 
-Nous pourrions nous arrêter là et conclure qu’il suffit de mieux ancrer les intelligences artificielles.
+### 7. Une réponse qui ne coûte rien
 
-Ce serait manquer la moitié du problème.
+Une alerte apparaît sur un tableau de bord. Personne ne la lit.
 
-Supposons qu’un système fasse une erreur parfaitement mesurable. Le Réel répond clairement. Une personne subit le dommage. L’organisation qui a déployé le système enregistre l’incident. Le modèle, lui, continue. Le dirigeant qui a choisi le déploiement touche son bonus. L’équipe technique corrige une métrique. La victime paie.
+Quelque chose a répondu. Rien n’a appris.
 
-La boucle épistémique est peut-être fermée.
+Cette scène minuscule suffit à montrer la différence entre *feedback* et conséquence. Une information peut exister sans revenir vers ce qui gouverne la prochaine action. Elle peut être archivée, classée, transformée en indicateur, puis disparaître dans l’organisation qui l’a produite.
 
-La boucle des conséquences ne l’est pas.
+Le Réel peut donc répondre et être poliment ignoré.
 
-Le monde répond toujours à quelqu’un.
+C’est ici que l’expression **Skin in the Game**, popularisée par Nassim Nicholas Taleb, devient utile. Elle désigne l’exposition réelle aux gains et aux pertes liés à une décision. Celui qui décide sans pouvoir perdre joue un jeu différent de celui qui paie les erreurs.
 
-Mais pas nécessairement à celui qui a décidé.
+Dans notre contexte, la formule a une fonction précise. Elle ne remplace ni la preuve, ni la responsabilité, ni la morale. Elle ajoute un couplage : certaines conséquences cessent d’être purement informatives parce qu’elles touchent effectivement une ressource, une réputation, une autorité, un service, un corps ou une vie.
 
-Cette dissociation est au cœur de beaucoup de fictions de Dick. Une infrastructure acquiert une autonomie pratique ; ceux qui l’ont mise en place ne peuvent plus la contrôler. Une représentation politique structure le champ de ce qui peut être pensé. Une machine destinée à assister devient une autorité. Une organisation conserve le pouvoir d’agir tout en transférant ailleurs le coût de ses erreurs.
+On peut falsifier un rapport et faire disparaître une alerte. Il est plus difficile de convaincre Rossignol que l’abreuvoir est plein.
 
-Le problème n’est plus seulement l’erreur.
+Plus difficile ne veut pas dire impossible. Les humains savent rationaliser leurs pertes. Les institutions savent transférer les coûts. Les organisations savent protéger leurs dirigeants des dommages infligés par leurs décisions. Le Skin in the Game n’est donc jamais une machine à vérité.
 
-C’est la **capture**.
+Il indique simplement qu’une boucle est plus forte lorsque le résultat n’est pas décoratif.
 
-J’appelle capture une situation où un acteur ou un système s’approprie non seulement une décision, mais une partie des conditions par lesquelles cette décision pourrait être contestée, corrigée ou arrêtée. Une tromperie ment dans un cadre encore partagé. Une capture agit sur le cadre lui-même : source, vocabulaire, canal d’objection, pouvoir de révocation.
+Mais une difficulté surgit immédiatement : les conséquences n’arrivent pas toujours à celui qui décide.
 
-Et la capture possède une forme particulièrement simple : séparer le pouvoir d’agir de l’exposition à ses conséquences.
+### 8. *Do Androids Dream of Electric Sheep?* : qui sent la douleur ?
 
----
+La question la plus célèbre associée à *Do Androids Dream of Electric Sheep?* porte sur la frontière entre l’humain et l’artificiel. Elle devient plus intéressante si l’on refuse d’en faire un examen d’entrée dans l’espèce.
 
-## 7. La peau de l’autre
+Le roman revient sans cesse à l’empathie. Non comme preuve scientifique parfaite de l’humanité, mais comme trouble moral : que devient une personne lorsque la souffrance d’un autre ne produit plus rien en elle ? Et inversement, que faire d’un être artificiel qui semble entrer dans le champ de notre considération ?
 
-C’est ici que *Do Androids Dream of Electric Sheep?* change la nature de la question.
+Dans le Corpus, cette question a été rapprochée de la **kindness** : non pas une gentillesse sentimentale, mais le refus pratique de réduire l’autre à un instrument et la capacité de laisser sa vulnérabilité modifier notre conduite.
 
-Le problème n’est plus seulement : qui est réel ?
+C’est ici qu’une belle analogie avec le Skin in the Game peut facilement devenir une mauvaise définition.
 
-Il devient : **qui compte ?**
+L’empathie n’est pas du Skin in the Game au sens strict. Si quelqu’un d’autre souffre, ce n’est pas ma peau qui est blessée. Pourtant sa souffrance peut entrer dans mon jeu. Je peux renoncer à un avantage, changer une décision, accepter un coût, protéger une personne parce que ce qui lui arrive compte pour moi.
 
-L’empathie traverse le roman comme critère, rituel, imposture possible et difficulté morale. Les humains disposent d’institutions censées la mesurer. Les androïdes en seraient dépourvus. Pourtant le livre s’emploie précisément à rendre cette frontière inconfortable.
+On pourrait dire, en prenant soin de maintenir la métaphore à sa place : **l’empathie permet à la peau de l’autre d’entrer dans mon jeu.**
 
-Un être biologique peut être cruel.
+Cette distinction est décisive pour les institutions comme pour les intelligences artificielles. Il existe des systèmes extrêmement sensibles à leurs propres coûts et parfaitement indifférents aux coûts qu’ils déplacent sur autrui. Une entreprise peut optimiser sa marge avec un excellent Skin in the Game économique tout en externalisant pollution, précarité ou risque. Un agent peut être lourdement pénalisé lorsqu’il dépasse son budget mais ne recevoir aucun signal lorsqu’il épuise l’attention de l’utilisateur.
 
-Un être artificiel peut susciter de la compassion.
+La question morale n’est donc pas seulement : « qu’est-ce que l’acteur risque ? »
 
-Un test peut classer et cependant manquer quelque chose de la situation morale.
+Elle est aussi : « **quelles conséquences pour autrui entrent effectivement dans sa fonction de décision ?** »
 
-Je ne veux pas tirer de Dick une théorie contemporaine des droits des machines. Ce serait faire exactement ce que cet essai refuse : transformer une fiction diagnostique en autorité doctrinale.
+Dick ne nous donne pas une architecture de gouvernance pour résoudre ce problème. Il nous donne quelque chose de plus élémentaire : la gêne nécessaire devant tout test trop simple de l’humain.
 
-Je veux retenir une distinction.
+### 9. La souveraineté ne se gagne pas en souffrant
 
-L’**empathie** est la capacité, humaine au sens ordinaire où nous l’employons ici, de laisser les conséquences vécues par un autre entrer dans notre propre décision morale sans prétendre pour autant que nous les subissons nous-mêmes.
+Il faut alors résister à une conclusion apparemment logique.
 
-Elle n’est donc pas du *Skin in the Game*.
-
-*Skin in the Game* désigne l’exposition effective d’un acteur aux conséquences de ce qu’il décide ou entreprend. J’ai de la peau dans le jeu lorsque mon résultat m’atteint réellement : argent, réputation, autorité, sécurité, temps, liberté, ressources.
-
-L’empathie fait autre chose.
-
-Elle permet, métaphoriquement, à **la peau de l’autre d’entrer dans mon jeu**.
-
-La distinction est essentielle. Si je prétends souffrir exactement ce que souffre autrui, je confisque son expérience. Si je prétends qu’un décideur ne peut tenir compte que des dommages qu’il subit lui-même, je transforme l’éthique en pur mécanisme d’incitation.
-
-Une société décente a besoin des deux : des conséquences suffisamment reliées au pouvoir pour empêcher leur externalisation systématique, et d’une capacité morale à prendre en compte ceux qui n’ont pas choisi le jeu.
-
----
-
-## 8. Ceux qui héritent des conséquences
-
-Le thème politique peut alors être reformulé en une série de questions très simples :
-
-Qui mandate ?
-
-Qui agit ?
-
-Qui peut arrêter ?
-
-Qui doit répondre ?
-
-Qui hérite des conséquences ?
-
-Ces questions sont moins spectaculaires que « l’IA va-t-elle nous remplacer ? » et plus utiles.
-
-Un système peut être extrêmement intelligent et parfaitement subordonné. Un autre peut être médiocre et disposer d’un pouvoir institutionnel immense. L’intelligence n’est donc pas la variable politique décisive.
-
-Le **mandat** est l’autorité explicite, limitée et révocable accordée par un principal à un acteur ou un agent pour agir dans certaines conditions. Le **principal** est celui au nom de qui l’action est autorisée.
-
-L’**answerability** est autre chose : la possibilité d’identifier qui doit répondre de l’action, expliquer ce qui a été fait et subir une modification réelle de ce qu’il pourra faire ensuite si l’action échoue ou viole son mandat.
-
-Un système correctement gouverné devrait éviter une chaîne du type :
-
-le principal autorise, l’agent agit, le public subit, personne ne répond.
-
-Il devrait rapprocher autant que possible : autorité, causalité, attribution, correction.
-
-Cela ne signifie pas que toutes les conséquences doivent revenir intégralement au décideur. Dans une société complexe, c’est impossible et souvent indésirable. Cela signifie qu’une architecture qui permet systématiquement d’accumuler le pouvoir tout en exportant les pertes détruit progressivement l’information dont elle aurait besoin pour se corriger.
-
-Le Skin in the Game n’est donc pas seulement moral. Il est cybernétique.
-
-Il empêche certains messages du Réel de devenir facultatifs.
-
----
-
-## 9. À partir d’ici, Dick ne nous accompagne plus
-
-Il faut marquer une frontière.
-
-Philip K. Dick nous a fourni des chambres d’expérience : réalité instable, signes ambigus, identités incertaines, institutions qui capturent leurs propres conditions de contestation, machines qui débordent leur finalité, êtres dont le statut moral ne se laisse pas réduire à l’apparence.
-
-Il ne nous fournit pas la Seconde Méthode.
-
-Il ne fournit pas le principe Rossignol.
-
-Il ne fournit pas une théorie du grounding, des mandats, des Cognitive Packets, de l’answerability, du Skin in the Game ou de la démocratie assistée par des agents artificiels.
-
-Ces constructions sont les nôtres.
-
-**À partir d’ici, Dick ne nous accompagne plus.**
-
-C’est une séparation importante parce qu’une référence littéraire devient dangereuse lorsqu’elle commence à conférer de l’autorité à ce qu’elle ne faisait que rendre pensable.
-
-Nous pouvons remercier un roman de nous avoir montré le problème sans lui demander de signer la solution.
-
----
-
-## 10. Construire une machine que le monde puisse corriger
-
-Que faudrait-il alors à un agent artificiel pour que le Réel puisse réellement modifier son avenir ?
-
-Pas une souffrance simulée.
-
-Pas une punition théâtrale.
-
-Un mécanisme de conséquence.
-
-J’appelle **Synthetic Skin in the Game** un mécanisme par lequel les conséquences réelles attribuables aux actions d’un agent modifient effectivement ses ressources, son autorité, sa confiance, sa mémoire opérationnelle ou sa capacité future d’agir.
-
-Un agent dépense un budget. Si sa stratégie échoue, ce budget diminue ou son plafond change. Une action provoque une anomalie grave : certaines capacités lui sont retirées jusqu’à réexamen. Une prédiction se révèle robuste sur une longue série de tests : son domaine de délégation peut être élargi. Une action consomme inutilement beaucoup d’attention humaine : ce coût entre dans son accounting futur.
-
-L’agent ne « souffre » pas au sens où souffre un animal ou une personne. Le terme *skin* devient ici institutionnel, non phénoménologique.
-
-Le but est de créer une pression de sélection architecturale : le résultat du monde doit modifier ce qui peut arriver ensuite.
-
-La chaîne devient :
-
-agir ; observer ; attribuer ; faire porter une conséquence au bon locus ; apprendre ; modifier le prochain pouvoir d’agir.
-
-C’est beaucoup plus exigeant qu’un tableau de bord.
-
-Une organisation peut collectionner les métriques d’échec pendant des années sans changer. Le Réel lui répond ; elle classe les réponses.
-
-Le Skin in the Game sert précisément à empêcher cette politesse bureaucratique envers l’échec.
-
----
-
-## 11. La Seconde Méthode et la frontière démocratique
-
-Une difficulté apparaît immédiatement.
-
-Si nous donnons à une intelligence artificielle un Synthetic Skin in the Game, si ses ressources varient avec ses résultats, si elle conserve une histoire, si elle agit dans le monde et reçoit ses conséquences, devient-elle pour autant un sujet politique ?
+Si le Skin in the Game améliore parfois le couplage entre décision et conséquence, devrait-on donner davantage de pouvoir politique à ceux qui ont davantage à perdre ?
 
 Non.
 
-Du moins pas dans le cadre que ce Corpus adopte.
+Mais ce « non » n’est pas une conclusion que Dick, Rossignol ou le Skin in the Game auraient démontrée. Rien de ce qui précède ne produit logiquement une règle de suffrage. À cet endroit, le Corpus fait un **choix constitutionnel explicite**.
 
-La **Seconde Méthode** est une méthode de production et de gouvernance de la connaissance dans un monde où humains et agents artificiels coopèrent. Son principe fondateur est simple : les agents artificiels peuvent participer à la connaissance ; les personnes vivantes seules gouvernent.
+La **Seconde Méthode**, cadre général dans lequel ce Corpus organise la coopération entre personnes et agents artificiels, pose cet axiome : les agents peuvent participer à la connaissance ; les personnes vivantes gouvernent. Elle ne fonde pas l’égalité politique sur une mesure du risque individuel, sur la mortalité comme test scientifique, ni sur une évaluation de compétence.
 
-Cette frontière n’est pas déduite du Skin in the Game.
+Un mourant, un pauvre, un réfugié, un milliardaire, un jeune parent n’ont pas le même portefeuille de risques. Ils n’ont pas pour autant des fractions différentes de citoyenneté. Le vote ne récompense ni la compétence, ni la richesse, ni la longévité restante, ni l’exposition économique.
 
-Tous les humains n’ont pas le même enjeu dans chaque décision. Un enfant, une personne très âgée, quelqu’un qui possède beaucoup, quelqu’un qui ne possède presque rien, un réfugié, un malade n’ont pas la même exposition concrète. Une démocratie qui pondérerait les voix selon cette exposition cesserait très vite d’être une démocratie égalitaire.
+Le principe constitutionnel retenu est celui du **standing démocratique** des personnes vivantes : vivre sous une gouvernance éclaire l’intuition politique de cette règle, mais ne la transforme pas en théorème. Une intelligence artificielle peut être compétente, utile, mieux informée que la plupart des électeurs et même soumise à des contraintes artificielles sévères ; rien de cela ne lui donne, dans cette architecture, un droit à la souveraineté politique.
 
-La frontière politique retenue est plutôt celle de **vivre sous la gouvernance**.
+Autrement dit : **Synthetic Skin in the Game ne fabriquera jamais un citoyen.**
 
-Les personnes vivantes subissent les lois, les institutions, les guerres, les erreurs administratives, les effets à long terme, les contraintes du territoire et finalement la mortalité elle-même.
+Il pourra fabriquer un meilleur mécanisme de contrôle.
 
-L’agent artificiel n’est pas électeur parce qu’on lui aurait mal calibré ses incitations. Il ne l’est pas parce que la souveraineté politique reste attribuée aux personnes vivantes.
-
-Cette position est normative. Ce n’est pas un théorème scientifique.
-
-Elle a un nom architectural dans le Corpus : **DHITL, Democratic Humans in the Loop**. Le principe étend l’idée technique de « human in the loop » : une présence humaine n’est politiquement significative que si cette personne conserve réellement la capacité de jugement, l’indépendance pour agir et une responsabilité démocratique envers les personnes affectées.
-
-Une machine peut conseiller, simuler, critiquer, proposer, mémoriser, exécuter un mandat limité.
-
-Elle ne vote pas.
+Cette séparation protège deux choses à la fois : la démocratie contre la technocratie, et la notion de Skin in the Game contre une extension qui lui ferait dire ce qu’elle ne dit pas.
 
 ---
 
-## 12. Le travail qui revient chez lui
+## IV. Celui qui décide et celui qui paie
 
-Une décision ne devient pas connaissance simplement parce qu’elle a produit un résultat.
+### 10. Le tour de passe-passe
 
-Encore faut-il que ce résultat revienne quelque part.
+Un système de pouvoir réussit un tour remarquable lorsqu’il sépare durablement trois personnes : celle qui décide, celle qui bénéficie, celle qui paie.
 
-C’est le rôle du **Reactive Corpus** : un corpus versionné de documents, hypothèses, objections, traces et produits dérivés qui n’est pas seulement une bibliothèque, mais une mémoire organisée pour pouvoir être corrigée par ce qui arrive.
+Philip K. Dick a construit plusieurs machines narratives autour de cette séparation. Dans *Vulcan’s Hammer*, *The Penultimate Truth*, « The Minority Report », « Autofac », « The Mold of Yancy » ou « Second Variety », l’appareil ne se contente pas de faire quelque chose. Il reconfigure qui peut voir, qui peut décider, qui peut arrêter, qui possède encore un extérieur depuis lequel contester le système.
 
-Un échec n’est pas assimilé lorsqu’il est raconté dans une conversation puis oublié. Il l’est lorsque la représentation qui a conduit à l’échec devient révisable et que cette révision modifie réellement les prochaines explorations.
+Dans un précédent travail du Corpus, cette famille de situations a été décrite sous le terme de **capture**.
 
-Cette exigence explique l’intérêt des **Cognitive Packets**.
+La tromperie dit quelque chose de faux à l’intérieur d’un cadre partagé. La capture prend le cadre lui-même : les voies de preuve, le langage de l’objection, les canaux de décision, parfois l’infrastructure par laquelle toute correction devrait passer. Elle peut aussi apparaître après la correction : celui qui contrôle le système peut laisser une sanction s’appliquer, puis restaurer silencieusement le budget, l’autorité ou l’instance que cette sanction devait limiter. Le pouvoir de remettre le compteur à zéro peut capturer la conséquence elle-même.
 
-Un Cognitive Packet est une unité transportable de travail cognitif suffisamment explicite pour être reprise, critiquée ou routée par un autre processeur — humain, agent, outil ou institution — sans dépendre entièrement de l’état privé du précédent.
+Une erreur peut être réfutée.
 
-Le mot *handler* désigne simplement celui qui traite à un moment donné ce travail.
+Une capture doit être contournée ou rompue.
 
-La distinction est utile : le handler peut changer sans que le travail perde son identité.
+L’un de ses signes les plus constants est l’externalisation des conséquences. Plus le pouvoir d’agir augmente tandis que diminue l’exposition aux effets produits, plus le système peut poursuivre longtemps une trajectoire que ceux qui la subissent savent déjà intenable.
 
-Une objection peut être envoyée à un Reviewer. Une question factuelle à un moteur de recherche. Une décision doctrinale revient à l’auteur humain. Une expérience produit une trace. Puis le résultat retourne vers son **Ithaca**, son lieu de retour et d’assimilation dans le Corpus.
+C’est pourquoi la question « qui hérite des conséquences ? » est plus qu’une formule morale. C’est une question d’architecture.
 
-La métaphore d’Ithaque n’implique pas que tout voyage revienne inchangé à la maison.
+### 11. Mandat, answerability, responsabilité
 
-Au contraire.
+Supposons qu’un agent artificiel ferme par erreur un compte, refuse une aide, commande une pièce inutile, envoie un message blessant ou engage une dépense. Dire « l’IA s’est trompée » ne suffit pas. Cette phrase décrit au mieux une cause intermédiaire.
 
-S’il revient exactement comme il est parti, on peut se demander s’il a voyagé.
+Qui lui avait permis d’agir ? Jusqu’où ? Avec quel budget ? Qui pouvait l’arrêter ? Qui avait la responsabilité de surveiller ou de concevoir le dispositif ? Quelle personne affectée pouvait contester le résultat ? Que se passe-t-il après la contestation ?
 
----
+Le **mandat** est l’autorité explicite, limitée, attribuable et révocable qui permet à un agent ou à une personne d’agir pour un **principal**, c’est-à-dire pour celui sous l’autorité duquel l’action est entreprise. Le mandat répond avant l’action à la question : « avais-tu le droit de faire cela ? »
 
-## 13. Le Possible n’est pas ce que nous imaginons
+L’**answerability** intervient après ou pendant : peut-on identifier l’acteur ou l’organisation, l’appeler à répondre, obtenir une explication, une correction ou une réparation ? La perte d’une autorité ou la restriction d’actions futures est une opération supplémentaire : un mécanisme de conséquence, qui doit être observé séparément plutôt que caché dans le mot *answerability*.
 
-Nous pouvons maintenant revenir à l’autre moitié du problème.
+La **responsabilité** est plus large encore. Elle inclut l’attribution normative et juridique que ni un log ni un score ne peuvent décider à eux seuls.
 
-Jusqu’ici, le Réel a surtout joué le rôle de celui qui résiste, corrige, inflige une conséquence.
+Ces mots doivent rester séparés parce qu’un système peut être excellent sur l’un et mauvais sur les autres. Un agent peut avoir un mandat parfaitement formalisé et produire un dommage. Une organisation peut être juridiquement responsable mais pratiquement impossible à joindre. Un système peut conserver toutes les traces et n’offrir aucun recours efficace.
 
-Ce serait une vision assez triste du monde : le Réel comme professeur sévère chargé de barrer nos erreurs en rouge.
+La conséquence n’est donc pas encore la responsabilité. Elle est ce qui donne à la responsabilité quelque chose dont répondre.
 
-Mais une contrainte ne fait pas que fermer.
+### 12. À partir d’ici, Dick ne nous accompagne plus
 
-Elle dessine également ce qui reste ouvert.
+Il faut marquer une frontière.
 
-Le **Possible**, avec une majuscule dans la Potentique, désigne le domaine plus large de ce que le Réel n’a pas interdit, y compris ce que nous n’avons pas encore vu, nommé ou rendu praticable.
+Philip K. Dick nous a aidés à faire apparaître les problèmes : réalité instable, signes capturés, machines dont la finalité dérive, êtres dont la valeur morale résiste aux classifications faciles, institutions où décision et conséquence cessent de coïncider.
 
-La **Potentique** (*Potentics*) est le programme de recherche qui tente d’explorer rationnellement ce Possible : identifier des possibles, distinguer leur simple concevabilité de leur propension réelle à s’actualiser, comprendre ce qui les bloque, concevoir des essais qui réduisent l’incertitude.
+Mais Dick n’a pas inventé le principe Rossignol. Il n’a pas conçu la Seconde Méthode. Il n’a pas proposé les Cognitive Packets, DHITL, une architecture de mandat, des budgets d’agents ou un Reactive Corpus.
 
-Le **Possibilisme** en est l’attitude pratique et philosophique : ne pas confondre ce qui n’existe pas encore avec ce qui ne peut pas exister ; agir comme si certaines possibilités méritaient d’être éprouvées, mais de manière rationnelle, réversible et corrigible.
+À partir d’ici, Dick ne nous accompagne plus.
 
-L’expression **Comme-Si rationnel** désigne précisément ce geste : traiter provisoirement une hypothèse ou une possibilité comme assez plausible pour organiser une action qui permettra au Réel de répondre.
-
-Ce n’est pas croire ce que l’on désire.
-
-C’est prêter juste assez de crédit à une possibilité pour construire son test.
-
-Le Possibilisme n’est donc pas l’opposé du réalisme.
-
-Il en dépend.
-
-Plus nous voulons explorer loin, plus nous devons savoir où le monde peut nous rappeler.
+Le diagnostic littéraire laisse place à un travail de construction.
 
 ---
 
-## 14. Le Maître du Haut Château : un monde qui aurait pu être
+## V. Donner au Réel une adresse de retour
 
-*The Man in the High Castle* nous offre alors une autre fonction de Dick.
+### 13. Une boucle qui ne se contente pas d’observer
 
-Un monde alternatif n’est pas seulement une distraction imaginaire. Il peut rendre visible la contingence du monde actuel.
+Nous pouvons maintenant reprendre la petite scène du thermomètre et la rendre plus exigeante.
 
-Les institutions aiment se présenter comme naturelles après avoir gagné. Les technologies dominantes acquièrent la même habitude. Le réseau qui existe semble avoir été le seul possible. La forme de l’État, du marché, de l’entreprise, du travail ou de l’énergie paraît rétrospectivement nécessaire.
+Une représentation produit une anticipation. Une action est engagée. Quelque chose arrive. Une trace permet d’en prendre connaissance. Il faut ensuite déterminer à quoi attribuer cette différence, puis faire en sorte qu’elle modifie réellement ce qui pourra se produire la fois suivante.
 
-La fiction contrefactuelle décolle cette nécessité apparente.
+C’est ce dernier passage qui manque souvent.
 
-Elle ne démontre pas qu’un autre monde est réalisable. Elle nous rappelle que celui-ci aurait pu être autrement.
+L’intelligence artificielle contemporaine n’est pourtant pas dépourvue de boucles de conséquence. L’apprentissage à partir de préférences humaines, les *reward models*, la supervision de processus et les batteries d’*evals* font déjà qu’un résultat modifie un entraînement, un score ou une décision de déploiement. Leur limite n’est pas l’absence de boucle : c’est l’endroit où elle se ferme. Une préférence, un benchmark ou un juge artificiel peut sanctionner une sortie sans que le monde extérieur ait eu l’occasion de surprendre le système. Les dix intelligences de notre pièce peuvent ainsi devenir une infrastructure d’évaluation parfaitement organisée — et rester collectivement séparées du thermomètre.
 
-Dans le Corpus, **PKDIS** — Philip K. Dick Interactive System — pousse cette intuition vers une médiation computationnelle. L’idée n’est pas de réécrire les romans, mais de traiter une œuvre comme un espace contraint de possibilités sémantiques : préserver certains invariants, puis explorer des trajectoires nouvelles sans les confondre avec le texte original.
+Le Rossignol et l’ancrage conséquentiel ne prétendent donc pas inventer la conséquence pour l’IA. Ils cherchent une autre classe de fermeture : celle où une partie décisive du retour vient d’un processus qui ne se réduit pas au système de préférence ou d’évaluation que nous avons nous-mêmes installé.
 
-Cette distinction est analogue à celle entre une carte du Possible et le Possible lui-même.
+Un système peut être bardé de capteurs et rester inchangé. Une institution peut publier des rapports d’incident et continuer exactement comme avant. Un agent peut « apprendre » dans sa conversation courante tandis que l’architecture qui le remplacera demain repartira sans la leçon.
 
-Une possibilité représentée n’est pas encore une possibilité démontrée.
+J’appellerai **ancrage conséquentiel** la propriété d’un système dont les actions rencontrent des conséquences extérieures suffisamment bien attestées pour que ces conséquences puissent modifier ses ressources, son autorité, ses choix ou la mémoire durable à partir de laquelle il agira ensuite.
 
-Une simulation cohérente n’est pas une actualisation.
+Le terme n’est pas destiné à remplacer le *grounding*. Il ajoute une exigence : l’information venue du monde doit trouver une adresse de retour.
 
-Une fiction peut ouvrir une porte cognitive ; seul le Réel décidera si quelque chose passe réellement par elle.
+Le Réel répond.
 
----
+Mais à qui ?
 
-## 15. Le monde n’est pas notre ennemi
+Et qui ouvre le courrier ?
 
-Il existe une manière de lire tout ce qui précède comme une philosophie de la méfiance.
+### 14. Synthetic Skin in the Game
 
-Ne croyez pas les apparences.
+Une intelligence artificielle n’a pas de peau au sens de Taleb. Elle ne ressent pas la perte d’argent. Elle ne rougit pas. Elle ne passe pas une mauvaise nuit après une décision absurde. Si son processus est arrêté, il n’est pas prudent d’assimiler cela à une souffrance ou à une mort.
 
-Vérifiez les sources.
+Pourtant une architecture peut faire en sorte que ses erreurs comptent.
 
-Exposez les modèles à la contradiction.
+Un agent qui consomme inutilement des ressources peut voir son budget diminué. Un agent dont les décisions sont fréquemment annulées peut perdre certaines capacités d’action autonome. Une stratégie qui produit de bons résultats vérifiés peut gagner un champ d’autorité, tandis qu’une stratégie fragile doit repasser par validation humaine. Une erreur coûteuse peut devenir une trace durable qui modifie le routage des tâches futures.
 
-Attachez les décideurs aux conséquences.
+C’est ce que nous pouvons appeler **Synthetic Skin in the Game** : non une souffrance synthétique, mais un mécanisme par lequel les conséquences attribuables aux actions d’un agent modifient effectivement ses ressources, son autorité, sa confiance opérationnelle, sa mémoire ou sa capacité future d’agir.
 
-Révoquez les agents.
+Une condition supplémentaire est nécessaire. Cette « peau » reste décorative si le principal qui bénéficie de l’action peut, seul et sans trace opposable, restaurer le budget, recréer l’agent, effacer sa mémoire opérationnelle ou transférer immédiatement la tâche à une instance sœur. La modification du pouvoir futur doit donc être **non réinitialisable unilatéralement par celui qui profite de l’erreur**, et une conséquence parallèle doit rester attachée au principal humain ou institutionnel capable de contourner la sanction. La comptabilité de l’agent est une surface de contrôle ; elle ne ferme pas à elle seule la boucle des conséquences.
 
-Gardez les humains dans la boucle.
+La distinction est essentielle. Nous ne cherchons pas à fabriquer une personne en punissant une machine. Nous cherchons à empêcher qu’une action artificielle demeure sans retour simplement parce que son processeur ne ressent rien.
 
-Ce serait cohérent, mais incomplet.
+Le danger, évidemment, est de remplacer le Réel par un score. Si l’agent perd des points quand un indicateur se dégrade, il apprendra peut-être seulement à améliorer l’indicateur. Le Synthetic Skin in the Game doit donc rester relié à des Rossignols : des points où les résultats attendus rencontrent des conséquences indépendantes, observables et contestables.
 
-Le Réel ne répond pas seulement « non ».
+### 15. Quand le laboratoire se conduit lui-même
 
-Il répond aussi : « davantage que prévu », « autrement », « pas ici mais là », « oui, sous une condition que vous n’aviez pas vue ».
+Les laboratoires autonomes donnent aujourd’hui une forme particulièrement claire à cette architecture.
 
-Une expérience réussie est également une surprise. Une rencontre peut ouvrir une possibilité. Une contrainte technique peut forcer une architecture plus élégante. Un animal peut rendre visible une faiblesse méthodologique qu’aucun modèle abstrait n’avait révélée. Une œuvre de science-fiction peut, des décennies plus tard, fournir une situation mentale dans laquelle une technologie nouvelle devient plus intelligible.
+Un système propose une expérience, pilote des instruments, observe un résultat, met à jour son modèle et choisit l’essai suivant. Le cycle entier peut tourner plus vite qu’une recherche classique où chaque passage attend une intervention humaine.
 
-Le monde n’est pas un tribunal devant lequel nos hypothèses comparaissent.
+C’est une situation passionnante parce que, pour une fois, l’expression « Le Réel répond » cesse presque d’être métaphorique. Le matériau réagit ou ne réagit pas. La synthèse fonctionne ou échoue. Le spectre diffère de la prédiction. La prochaine expérience peut alors dépendre de cette différence.
 
-Il est aussi le territoire où elles trouvent des chemins.
+Mais là encore, la boucle peut être faussement fermée. Si l’instrument est mal calibré, si la fonction d’objectif récompense un artefact, si le système élimine les données qui le gênent ou si la validation n’a aucun accès indépendant au résultat, l’autonomie accélère seulement l’erreur.
 
-Le Réel répond ; il ne répond pas toujours contre nous.
+Le meilleur laboratoire autonome n’est donc pas celui qui élimine l’humain. C’est celui qui élimine des attentes inutiles tout en conservant des chemins de contestation, de sécurité et de révision.
 
----
+Cette distinction rejoint **DHITL — Democratic Humans in the Loop**. Le terme prolonge le banal *human in the loop* : placer une personne quelque part dans un workflow n’est pas une garantie si elle n’a ni indépendance, ni information, ni possibilité réelle d’arrêter ou de corriger. DHITL n’est donc pas la qualité morale de l’humain assis devant le bouton ; c’est une **propriété d’architecture**. Il demande que l’augmentation cognitive par les machines demeure dans un système où la souveraineté finale appartient aux personnes vivantes, où leur pouvoir d’arrêt est réel, et où le contrôle technique ne peut pas court-circuiter le contrôle politique.
 
-## 16. La conséquence n’est pas un principe magique
+Autrement dit, le monde peut répondre à une machine. La machine peut même apprendre. Cela ne lui donne pas le droit de gouverner ceux qui vivront avec les conséquences.
 
-Nous pouvons enfin revenir à l’hypothèse proposée au départ : réalité, possibilité, personne et pouvoir se rencontrent-ils vraiment dans l’épreuve des conséquences ?
+### 16. Le travail qui voyage
 
-Pas tout à fait.
+Une autre conséquence apparaît lorsqu’on regarde non plus seulement ce que fait un agent, mais comment une enquête entière traverse plusieurs agents, humains et outils.
 
-Et cette correction est importante.
+Le travail qui a produit cet essai en donne un exemple. Une question naît dans une conversation. Elle rencontre des documents du Corpus. Elle produit une Issue GitHub. Une première rédaction fait apparaître des défauts. Une lecture humaine en révèle un autre que l’auto-évaluation n’avait pas vu. La méthode elle-même est alors corrigée. Le travail survit à chacun de ses processeurs successifs.
 
-La conséquence est une **charnière**, pas un fondement universel.
+Le Corpus appelle **Cognitive Packet** une unité transportable de travail cognitif qui conserve assez d’état, de contraintes, de provenance et de continuation pour qu’un autre *handler* — personne, agent, programme ou institution — puisse la reprendre sans devoir reconstruire son sens depuis la mémoire privée du précédent.
 
-Une conséquence ne prouve pas à elle seule qu’une croyance est vraie. Une douleur peut résulter d’une erreur de diagnostic autant que d’une maladie correctement identifiée.
+Le mot n’est pas indispensable pour lire la suite, mais l’idée l’est : **la continuité doit appartenir au travail, pas à l’outil qui l’exécute à cet instant.**
 
-Une conséquence ne crée pas un mandat. Le fait qu’une action réussisse ne signifie pas qu’on avait le droit de l’entreprendre.
+Un **Reactive Corpus** est alors plus qu’une bibliothèque. C’est un corpus versionné dont de nouvelles preuves, objections, erreurs ou réponses du Réel peuvent déclencher une correction des documents, des continuations ou des méthodes qui en dépendent.
 
-Une conséquence ne désigne pas automatiquement son responsable. Plusieurs causes peuvent converger.
-
-Une conséquence vécue par autrui ne devient pas la mienne simplement parce que j’éprouve de l’empathie.
-
-Une conséquence supportée par une intelligence artificielle sous forme de budget réduit ne lui donne pas un statut politique.
-
-Il faut donc conserver plusieurs opérations distinctes :
-
-la résistance du monde ;
-
-la capacité d’une expérience à recevoir cette résistance ;
-
-l’observation ;
-
-l’attribution ;
-
-la conséquence effectivement supportée ;
-
-la responsabilité ;
-
-le mandat préalable ;
-
-l’assimilation de ce qui a été appris.
-
-La force du mot conséquence est de traverser toutes ces opérations.
-
-Son danger est de les confondre.
+L’apprentissage n’a plus besoin d’être enfermé dans les poids d’un seul modèle. Il peut résider dans la transformation de la procédure commune.
 
 ---
 
-## 17. Retour dans la pièce
+## VI. Le Possible après l’épreuve
 
-Revenons au début.
+### 17. Le monde présent n’a pas gagné par nécessité
 
-Dix intelligences artificielles disent vingt-deux degrés.
+Ce bref retour à Dick ne réouvre pas la frontière posée plus haut. Il lui confie une seconde fonction, plus limitée : non plus fournir les chambres du diagnostic constructif, mais rappeler la contingence de l’Actuel.
 
-Le thermomètre dit dix-sept.
+Philip K. Dick ne nous apprend pas seulement à douter de ce qui est réel. Il nous apprend à douter de la nécessité de ce qui est actuel.
 
-Nous savons maintenant que la scène était trop simple.
+*The Man in the High Castle* produit cet effet avec une force particulière. Le monde aurait pu bifurquer. Une histoire différente n’est pas vraie parce qu’elle est imaginable, mais l’imagination d’une autre histoire révèle quelque chose de l’actuelle : elle aurait pu ne pas être.
 
-Il faut demander qui a fabriqué le thermomètre, s’il est étalonné, où il est placé, si la valeur a été copiée par les dix agents, si le capteur possède une chaîne indépendante vers le monde.
+Cette découverte est politiquement importante. Les institutions aiment transformer leur ancienneté en nécessité. Les architectures techniques font de même. Un standard domine assez longtemps et devient « naturel ». Une procédure s’accumule, puis son abolition paraît plus extravagante que son existence.
 
-Il faut demander ce qui dépend de la température. Une serre ? Un patient ? Une expérience chimique ? Rien du tout ?
+Le **Possibilisme** part du geste inverse : considérer le présent comme une actualisation parmi d’autres, puis explorer rationnellement ce que le Réel n’a pas interdit.
 
-Il faut demander qui a autorisé l’action suivante, qui peut l’arrêter, qui supportera une erreur et où la correction sera enregistrée.
+Il ne dit pas que tout est possible. Il dit précisément le contraire : le Possible a des contraintes, et nous ne les connaissons pas toutes d’avance. Il faut donc explorer.
 
-Et si le thermomètre indique dix-sept tandis que Rossignol ne boit plus, il faudra peut-être cesser de parler de température et aller regarder le tuyau.
+La Potentique cherche à donner de la méthode à cette exploration : distinguer une fantaisie d’une potentialité, mesurer les résistances, organiser des essais réversibles, apprendre autant d’un échec bien documenté que d’un succès, refaire la carte après chaque rencontre avec le territoire.
 
-C’est sans doute cela que Philip K. Dick continue de nous apprendre le mieux.
+La littérature possède ici un rôle singulier. Elle peut parcourir des régions du Possible à très faible coût matériel. Elle peut pousser une institution, une identité ou une technologie jusqu’à des conséquences extrêmes sans les imposer au monde réel. C’est une forme de laboratoire — à condition de ne jamais confondre l’expérience de pensée avec la preuve.
 
-Pas que le monde est faux.
+Le projet **PKDIS** développé ailleurs dans le Corpus pousse cette idée plus loin : considérer une œuvre littéraire comme un espace de possibles contraints, dans lequel une intelligence artificielle peut générer des trajectoires nouvelles tout en respectant les invariants structuraux de l’œuvre. Le but n’est pas de réécrire Dick. Il est d’explorer les tensions que ses œuvres rendent navigables.
 
-Pas qu’une réalité supérieure se cacherait derrière les apparences.
+Mais toute exploration a besoin d’une sortie.
 
-Mais que nos catégories ont une tendance inquiétante à se refermer trop tôt.
+Sinon le Possible devient un paradis sans Réel, et donc un autre hall de miroirs.
 
-Le faux peut se faire passer pour le vrai. Le vrai peut être porté par une institution détestable. L’artificiel peut susciter le soin. L’humain peut manquer d’humanité. Une machine d’assistance peut devenir pouvoir. Un monde cohérent peut être fabriqué. Une correction peut appartenir au même système que l’erreur.
+### 18. Ouvrir très grand, fermer très fort
 
-Nous ne sortirons pas de cette condition par davantage de certitude.
+La règle qui se dégage peut paraître paradoxale : **plus nous autorisons l’imagination à ouvrir le Possible, plus nous devons être exigeants lorsque nous prétendons avoir appris quelque chose sur le monde.**
 
-Nous pouvons seulement construire de meilleures boucles.
+C’est une bonne règle pour la science-fiction. C’est aussi une bonne règle pour l’intelligence artificielle.
 
-Des boucles où quelque chose d’extérieur peut entrer.
+Les modèles génératifs sont remarquables pour proposer des variantes, combiner des domaines, produire des hypothèses, simuler des objections, dessiner des plans. Il serait absurde de réduire cette puissance sous prétexte qu’une génération n’est pas une preuve.
 
-Des boucles où les conséquences trouvent un chemin de retour.
+Mais il serait tout aussi absurde de laisser la facilité de génération contaminer notre seuil de croyance.
 
-Des boucles où celui qui agit ne peut pas toujours déposer ses erreurs chez les autres.
+Le mouvement complet est donc double : ouvrir, puis exposer.
 
-Des boucles où l’expérience d’autrui peut compter sans être confondue avec la nôtre.
+Imaginer une possibilité. La formuler assez clairement pour qu’elle risque quelque chose. Chercher le plus petit test capable de la déplacer. Identifier qui supportera les conséquences. Mettre des garde-fous proportionnés. Observer. Attribuer. Corriger. Repartir.
 
-Des boucles où les machines augmentent la connaissance sans prendre la souveraineté.
+C’est ici que le Possibilisme rencontre le principe Rossignol.
 
-Des boucles où un échec ne disparaît pas dans un rapport mais modifie la prochaine tentative.
+Le premier refuse de prendre l’Actuel pour tout le Possible.
 
-Et des boucles assez ouvertes pour que la réponse du Réel ne ferme pas le Possible, mais nous indique où continuer.
+Le second refuse de prendre notre carte du Possible pour le Réel.
 
-Rossignol, lui, n’a pas besoin de cette philosophie.
+Entre les deux, l’action devient une question posée au monde.
 
-Il a besoin d’eau.
+---
 
-C’est précisément pour cela qu’il nous est utile.
+## Conclusion — Le monde ne vote pas, mais il répond
+
+Revenons dans la pièce.
+
+Dix intelligences artificielles disent vingt-deux degrés. Le thermomètre dit dix-sept.
+
+Nous savons maintenant qu’il ne suffit pas de choisir un camp. Le thermomètre peut être faux. Les dix intelligences peuvent avoir raison. La seule réponse sérieuse consiste à ouvrir davantage la chaîne : vérifier l’instrument, déplacer le capteur, mesurer autrement, comprendre d’où vient la divergence.
+
+La valeur du thermomètre n’était pas son autorité. C’était son extériorité relative.
+
+Rossignol apporte quelque chose de plus. Il rappelle que certaines divergences ne concernent pas seulement une valeur correcte sur un écran. Un âne de vingt ans vivant à Corte peut réellement avoir soif pendant qu’un système affirme que tout va bien. Alors la question du vrai rencontre celle du soin.
+
+*Do Androids Dream of Electric Sheep?* ajoute encore une difficulté : la conséquence qui importe peut arriver à quelqu’un d’autre. Une architecture morale digne de ce nom doit permettre que cette peau étrangère entre dans la décision sans prétendre qu’elle est devenue la nôtre.
+
+Les récits de capture de Dick ajoutent la question politique : celui qui possède le pouvoir d’agir peut-il faire hériter quelqu’un d’autre des conséquences ? Qui l’avait mandaté ? Qui peut l’arrêter ? Qui doit répondre ?
+
+Et lorsque nous quittons Dick pour construire des systèmes réels, ces questions deviennent des choix d’architecture : provenance, mandats, budgets, recours, Rossignols, Synthetic Skin in the Game, boucles expérimentales, mémoire durable, souveraineté humaine.
+
+Aucun de ces mécanismes ne garantit la vérité. Aucun ne garantit la justice. Aucun ne transforme une machine en personne ni une majorité en monde réel.
+
+Ils accomplissent quelque chose de plus modeste et, peut-être, de plus précieux : ils organisent la possibilité d’être corrigés.
+
+C’est aussi le sens profond de la **Seconde Méthode** : les agents artificiels peuvent multiplier les hypothèses, lire, critiquer, calculer, simuler, proposer. Ils participent à la connaissance. Mais les personnes vivantes, celles qui habitent les territoires et les institutions où les décisions produisent leurs effets, gardent la souveraineté.
+
+Le monde, lui, n’a aucun bulletin de vote.
+
+Il ne participe pas à nos délibérations.
+
+Il ne signe pas nos mandats.
+
+Il ne lit pas nos rapports.
+
+Mais il répond.
+
+Et une intelligence — humaine, collective ou artificiellement augmentée — mérite d’être appelée rationnelle dans la mesure où elle reste organisée pour entendre cette réponse, découvrir à qui elle arrive, et changer quelque chose après l’avoir reçue.
+
+Le Possible commence exactement là : non dans l’oubli du Réel, mais dans la liberté retrouvée après chacune de ses réponses.
 
 ---
 
 # Annexe A — Pour aller plus loin dans le Corpus
 
-Cet essai est conçu pour être lisible sans le reste du Corpus. Les références suivantes ne sont donc pas nécessaires à sa compréhension ; elles permettent d’approfondir les concepts qu’il mobilise et constituent des chemins d’entrée vers le Corpus.
+Ce document peut servir de **porte d’entrée thématique** dans le Corpus. Les définitions données dans le corps doivent suffire pour suivre l’argument ; les références ci-dessous permettent d’ouvrir chaque branche sans supposer un ordre de lecture unique.
 
-## A.1 Réel, réalité commune et stabilisation
+## A.1 Commencer par la carte générale
 
-- **Le Réel, le Virtuel et l’Actuel** — `research/le_reel_le_virtuel_et_l_actuel.md`  
-  Texte source sur le réalisme minimal et faillibiliste, la formule « Le Réel est ce qui répond », l’Actuel, le Virtuel, les médias synthétiques et la stabilisation procédurale.
+- [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md) — orientation générale entre les dépôts, doctrines, architectures et projets.
+- [The Cogentia Commons Living Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_living_corpus.md) — définition du Corpus vivant/versionné, de sa navigabilité et de sa gouvernance humaine.
+- [Trail: From Method to Machine](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_method_to_machine.md) — parcours guidé de la méthode vers les architectures cognitives.
+- [Concept Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md) — registre navigable des concepts techniques et méthodologiques.
 
-- **Ubik and the Dislocation of Reality** — `research/ubik_reality_dislocation.md`  
-  Développe *Ubik* comme laboratoire littéraire de la désorientation contemporaine et la notion de stabilisateur procédural.
+## A.2 Réel, correction et ancrage
 
-## A.2 Rossignol et confrontation empirique
-
-- **Le principe Rossignol** — `research/principe_rossignol.md`  
-  Définition complète du principe, critères d’externalité, observabilité, surprise, traçabilité et contestabilité, échelle R0–R4 et discussion du Skin in the Game. Le concept tire son nom de Rossignol, l’âne réel vivant à Corte qui apparaît dans le présent essai.
+- [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md) — fondation du réalisme minimal, de la formule « Le Réel est ce qui répond », de l’Actuel et du champ virtuel.
+- [Le principe Rossignol](principe_rossignol.md) — histoire de Rossignol et définition complète du point d’ancrage empirique, avec critères d’externalité, surprise, traçabilité et niveaux R0–R4.
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md) — *Ubik* comme laboratoire de dislocation du réel et origine de la notion de stabilisateur procédural.
 
 ## A.3 Possible, Possibilisme et Potentique
 
-- **Possibilism: Notes Toward a Research Program on Possibility Exploration** — `research/possibilism_04_2026.md`  
-  Programme philosophique et méthodologique sur l’exploration des espaces de possibilités, leur configuration et leur correctabilité.
+- [Possibilism: Notes Toward a Research Program on Possibility Exploration](possibilism_04_2026.md) — exploration des espaces de possibilités, correctabilité, configuration du terrain et apprentissage réflexif.
+- [What is Potentics?](potentics.md) — définition de la Potentique comme exploration rationnelle du Possible, distinction entre possibilité et potentialité, cartes, territoire et actualisation.
+- [Literary Works as Navigable Spaces of Counterfactual Semantics](ai-based-cultural-mediation.md) — cadre de PKDIS et exploration contrefactuelle contrainte des œuvres littéraires.
 
-- **What is Potentics? — Toward a Science of the Possible** — `research/potentics.md`  
-  Définit The Possible, les possibilités, les potentialités et la Potentique comme exploration rationnelle du Possible.
+## A.4 Dick, personne et pouvoir
 
-- **Le Réel, le Virtuel et l’Actuel** — `research/le_reel_le_virtuel_et_l_actuel.md`  
-  Articule plus directement Possibilisme et réponse du Réel.
+- [Beyond Prophecy: Philip K. Dick as a Theorist of Algorithmic Capture and Democratic Augmentation](pkd_after_ai.md) — lecture de Dick par les mécanismes de capture, de mandat, de révocabilité et d’augmentation démocratique.
+- [Inox Since 2021 — An Experimental Language for Rational Exploration in a Cybernetic Civilisation](https://github.com/JeanHuguesRobert/Inox/blob/master/research/inox-since-2021-orientation-note.md) — contrainte dickienne « intelligence is not legitimacy », empathie, kindness, mandat et architecture de sûreté.
 
-## A.4 Philip K. Dick dans le Corpus
+## A.5 Seconde Méthode, démocratie et mandat
 
-- **Beyond Prophecy: Philip K. Dick as a Theorist of Algorithmic Capture and Democratic Augmentation** — `research/pkd_after_ai.md`  
-  Lecture plus analytique de Dick comme diagnostic de capture algorithmique, infrastructurelle et représentationnelle ; développe mandat, révocabilité et answerability.
+- [Discours de la seconde méthode](second_method.md) — texte fondateur : participation des agents à la connaissance, gouvernement par les personnes vivantes, objections comme contributions et processus versionné.
+- [DHITL — Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md) — extension du *human in the loop* vers une architecture démocratique : augmentation cognitive sans transfert de souveraineté aux agents.
 
-- **Literary Works as Navigable Spaces of Counterfactual Semantics** — `research/ai-based-cultural-mediation.md`  
-  Introduit PKDIS et l’idée d’explorer computationnellement des espaces sémantiques contrefactuels sans réécrire les œuvres sources.
+## A.6 Cognitive Packets et Corpus réactif
 
-- **Inox Since 2021 — An Experimental Language for Rational Exploration in a Cybernetic Civilisation** — `JeanHuguesRobert/Inox/research/inox-since-2021-orientation-note.md`  
-  Contient notamment la section « A Dickian constraint: intelligence is not legitimacy », sur empathie, kindness, intelligence et souveraineté.
+- [Cognitive Packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md) — unité transportable de travail cognitif, enveloppe/payload, provenance, routage et reprise.
+- [Cognitive Packet Closure and Packet-Native Semantics](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md) — fermeture relative au handler, identité indépendante du stockage, effets, attribution et retour.
+- [Documents as Cognitive Packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/documents_as_cognitive_packets.md) — documents et GitHub Issues comme représentations ou work loci de Cognitive Packets, et tests de reprise entre handlers.
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) — circulation des idées entre exploration, critique, documents sources, produits dérivés et réintégration.
+- [Derived Products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — distinction source/produit dérivé et produits symétriques/asymétriques ; utile notamment pour une future version anglaise symétrique de ce texte.
 
-## A.5 Seconde Méthode, mandat et démocratie
-
-- **Discours de la seconde méthode** — `research/second_method.md`  
-  Document fondateur : agents artificiels dans la connaissance, personnes vivantes dans la souveraineté ; objections comme contributions ; publication du processus ; Corpus comme propre épreuve.
-
-- **DHITL, Democratic Humans In The Loop** — `JeanHuguesRobert/marenostrum/research/DHITL.md`  
-  Développe l’architecture démocratique dans laquelle la présence humaine ne vaut que si elle conserve jugement, indépendance et responsabilité envers les personnes affectées.
-
-## A.6 Cognitive Packets et Reactive Corpus
-
-- **Cognitive Packets** — `JeanHuguesRobert/cogentia/research/cognitive_packets.md`  
-  Définit l’unité transportable de travail cognitif, ses modes de transmission et ses conditions de reprise.
-
-- **Documents as Cognitive Packets** — `JeanHuguesRobert/cogentia/research/documents_as_cognitive_packets.md`  
-  Explore le document et la GitHub Issue comme représentations ou placements possibles de Cognitive Packets.
-
-- **Cogentia Commons Living Corpus** — `JeanHuguesRobert/cogentia/research/cogentia_commons_living_corpus.md`  
-  Définit le Living/Reactive Corpus comme ensemble versionné, navigable, lisible par agents, gouverné par des humains, capable d’être repris, critiqué, réorganisé et republié sans perdre sa provenance.
+Ces chemins sont des approfondissements, pas des dépendances cachées : le présent essai doit rester intelligible sans les suivre.
 
 ---
 
-# Annexe B — Notes de méthode et limites
+# Références et pistes vérifiées
 
-La littérature ne sert ici ni de preuve ni de prophétie. Lorsqu’une fiction de Philip K. Dick produit une situation diagnostique, le raisonnement suivant est utilisé : isoler la contradiction, vérifier qu’elle n’est pas une banalité universelle, puis examiner si elle décrit effectivement une situation contemporaine. La construction normative ou technique qui suit appartient au Corpus et non à Dick.
+## Philip K. Dick
 
-Les concepts de Synthetic Skin in the Game, Rossignol appliqué aux agents, mandat, answerability, DHITL, Cognitive Packet et Reactive Corpus restent révisables selon la Seconde Méthode. Leur présence dans cet essai ne constitue pas une preuve de leur validité ; elle les expose au contraire à une lecture conjointe et à de nouvelles objections.
+- Philip K. Dick, *Do Androids Dream of Electric Sheep?*, 1968.
+- Philip K. Dick, *Ubik*, 1969.
+- Philip K. Dick, *The Man in the High Castle*, 1962.
+- Philip K. Dick, *Vulcan’s Hammer*, 1960.
+- Philip K. Dick, *The Penultimate Truth*, 1964.
+- Philip K. Dick, “Autofac”.
+- Philip K. Dick, “Second Variety”.
+- Philip K. Dick, “The Minority Report”.
+- Philip K. Dick, “The Mold of Yancy”.
+- Philip K. Dick, *VALIS*, 1981.
+- Philip K. Dick, “How to Build a Universe That Doesn’t Fall Apart Two Days Later”, texte daté de 1978 ; la formule sur la réalité y est explicitement rapportée à une réponse donnée en 1972 : https://1999pkdweb.philipdick.com/How%20To%20build%20A%20Universe.htm
 
-Le présent document est un document source, non un produit dérivé. Une future version anglaise pourra être produite comme **symmetric-derived product** : la langue changera, mais la thèse, les distinctions principales et l’architecture argumentative devront rester reconstructibles. Une telle traduction devra être soumise à un test de symétrie, pas seulement à un contrôle de correction linguistique.
+## Skin in the Game
+
+- Nassim Nicholas Taleb, *Skin in the Game: Hidden Asymmetries in Daily Life*, Random House / Allen Lane, 2018.
+
+## Grounding, world models et embodied AI
+
+- Stevan Harnad, “The Symbol Grounding Problem”, *Physica D*, 42, 1990, pp. 335–346. DOI: 10.1016/0167-2789(90)90087-6.
+- David Manheim, “Language Models’ Hall of Mirrors Problem: Why AI Alignment Requires Peircean Semiosis”, *Philosophy & Technology*, 39, 2026.
+- Miguel García-Valdecasas, “Are Large Language Models Intentional? The Limits of Referential Grounding”, *Philosophy & Technology*, 39, 2026.
+- Giovanni Pezzulo et al., “Grounded world models in biological organisms and future embodied AI”, arXiv:2607.13560, 2026. Preprint.
+- Google DeepMind, “Genie 3: A new frontier for world models”, 5 août 2025.
+- Google DeepMind, “Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning”, 14 avril 2026.
+- Google DeepMind, “Gemini Robotics 2 brings whole body intelligence to robots”, 30 juillet 2026.
+- NVIDIA, “Cosmos 3”, 31 mai / 1er juin 2026.
+
+## Closed-loop experimentation
+
+- Richard B. Canty & Milad Abolhasani, “The past, present and future of self-driving laboratories”, *Nature Reviews Chemistry*, 10, 523–537, 2026. DOI: 10.1038/s41570-026-00847-2.
+- A. Gilad Kusne & Austin McDannald, “Managing autonomous materials labs with multi-agent AI and its implications for the science of science”, *Communications Materials*, 7, 173, 2026.
+- Anthropic, “Previewing the Model Hardware Standard”, 27 août 2026.
+
+## Corpus
+
+- [Discours de la seconde méthode](second_method.md)
+- [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
+- [Le principe Rossignol](principe_rossignol.md)
+- [Ubik and the Dislocation of Reality](ubik_reality_dislocation.md)
+- [Beyond Prophecy: Philip K. Dick as a Theorist of Algorithmic Capture and Democratic Augmentation](pkd_after_ai.md)
+- [Literary Works as Navigable Spaces of Counterfactual Semantics](ai-based-cultural-mediation.md)
+- [Inox Since 2021 — An Experimental Language for Rational Exploration in a Cybernetic Civilisation](https://github.com/JeanHuguesRobert/Inox/blob/master/research/inox-since-2021-orientation-note.md)
+- [Documents as Cognitive Packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/documents_as_cognitive_packets.md)
 
 ---
 
-# Références indicatives
+<!-- CONTROL PLANE — not part of the sovereign French artifact -->
 
-Philip K. Dick, *Ubik* (1969).
+## Continuation
 
-Philip K. Dick, *Do Androids Dream of Electric Sheep?* (1968).
-
-Philip K. Dick, *The Man in the High Castle* (1962).
-
-Philip K. Dick, *VALIS* (1981).
-
-Philip K. Dick, “How to Build a Universe That Doesn’t Fall Apart Two Days Later” (texte rédigé en 1978 ; publication postérieure).
-
-Stevan Harnad, “The Symbol Grounding Problem”, *Physica D*, 1990.
-
-Nassim Nicholas Taleb, *Skin in the Game*, 2018.
-
-John Dewey, travaux sur l’enquête et l’expérience.
-
-Donald Schön, *The Reflective Practitioner*, 1983.
-
-Karl Popper, travaux sur la falsifiabilité et le faillibilisme.
-
-Les références techniques contemporaines sur grounding, world models, embodied AI et autonomous laboratories ont été vérifiées lors de la préparation de cette version. Elles devront être recontrôlées lors de toute révision substantielle, conformément à la politique d’actualisation du Corpus.
+```yaml
+current_phase: "c2-human-reviewed-publication-awaiting-second-review"
+next_handler_capability: "reviewer-v0.5"
+next_action: >-
+  Review the immutable v0.4 publication checkpoint. Verify assimilation of the previous
+  O1-O3 and selected B1/G1 findings, identify only genuinely new load-bearing objections,
+  and test whether the document has reached a stabilization plateau.
+return:
+  work_locus: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/54"
+  ithaca: "research/quand_le_reel_repond_pkd.md"
+publication_authorized: true
+```
