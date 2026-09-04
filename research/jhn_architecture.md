@@ -24,6 +24,7 @@ related_documents:
   - "research/the_network_is_the_learning_computer.md"
   - "research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md"
   - "research/jhn_architecture_packet_closure_addendum.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
   - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Architecture.md"
@@ -43,6 +44,7 @@ changelog:
   - "v0.1 (2026-08-14) — initial architectural working note."
   - "v0.2 (2026-08-14) — corrected frontmatter and review state."
   - "v0.3 (2026-08-25) — refactored into a short normative conformance specification; historical rationale, prior-art discussion, implementation motivation and research program migrated toward The Network is the Learning Computer."
+  - "v0.4 (2026-09-04) — bidirectional integration with the Learning Computer genesis and architecture essay (Trace-Centric ontology, dynamic reasoning hops, and FractaCognition)."
 ---
 
 # JHN Architecture
@@ -82,6 +84,8 @@ where:
 - \(H\) — available handler capabilities;
 - \(S\) — logical stores, physical bindings and Packet placements;
 - \(T\) — durable causal, lineage and execution trace.
+
+*Note on evolution toward the Learning Computer:* In [`learning_computer_genese_et_architecture.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md), this abstract state is generalized: \(T\) is extended from internal execution traces to the universal evidential primitive of Reality (Trace-Centric paradigm), the state transition relation incorporates dynamic reasoning postures \((P_t, \sigma_{\text{in}}) \xrightarrow{H} (P_{t+1}, \sigma_{\text{out}}, k_{\text{next}}, \Delta c)\), and \(S\) is structured according to the multi-scale hierarchy of FractaCognition.
 
 Each Packet \(p \in P\) has at least:
 

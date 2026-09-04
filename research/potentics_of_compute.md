@@ -12,13 +12,13 @@ description: "A bounded case study applying Potentics to distributed compute: th
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A. / FractaVolta"
 date: "2026-07-30"
-last_modified_at: "2026-07-30"
+last_modified_at: "2026-09-04"
 license: "CC BY-SA 4.0"
 language: "en"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics_of_compute.md"
 last_stamped_at: unknown
-version: "0.3"
-status: "working-paper — published working hypothesis, under human arbitration"
+version: "0.4"
+status: "working-paper — v0.3 reviewed baseline; v0.4 integration under human arbitration"
 methodology:
   - "Seconde méthode"
   - "Cogentia pipeline"
@@ -30,11 +30,16 @@ version_history:
   - "v0.1 — 2026-07-30 — initial draft"
   - "v0.2 — 2026-07-30 — Claude review integrated"
   - "v0.3 — 2026-07-30 — independent source verification and Grok review integrated"
+  - "v0.4 — 2026-09-04 — integrates RAIX collective-capability addendum (resolving issue #36): nominal-vs-realizable collective capacity, experiment-local G_RAIX(T), and candidate bounded experiments"
 document_role: "source"
 tags:
   - potentics
   - distributed-compute
   - raix
+  - collective-capability
+  - capacity-gain
+  - heterogeneous-compute
+  - edge-ai
   - compute-weather
   - capacity-fault
   - verifiable-inference
@@ -42,6 +47,11 @@ tags:
   - fractanet
 related_documents:
   - "JeanHuguesRobert/barons-Mariani/research/potentics.md"
+  - "JeanHuguesRobert/barons-Mariani/research/potentics_of_compute_raix_addendum.md"
+  - "JeanHuguesRobert/barons-Mariani/research/the_network_is_the_learning_computer.md"
+  - "JeanHuguesRobert/barons-Mariani/research/the_network_is_the_learning_computer_raix_addendum.md"
+  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md"
   - "JeanHuguesRobert/FractaVolta/research/capability_regimes.md"
   - "JeanHuguesRobert/FractaVolta/research/assured-capacity-reservations.md"
   - "JeanHuguesRobert/FractaVolta/research/garanteed_inference.md"
@@ -236,6 +246,57 @@ Two instruments are available. The corpus already specifies a dependency and cor
 
 The estimation path is available too. The two-state Markov failure process already implemented in `ipn_sim.js` extends to correlated failures at modest cost, which converts independence from a preference into a hypothesis that a simulator can attack.
 
+### 3.5 Nominal versus realizable collective capacity
+
+RAIX is not only a redundancy mechanism. An organized array may create useful compute capacity unavailable to any individual participating node.
+
+This does not create arithmetic ex nihilo. It changes which workloads become realizable and at what delivered utility.
+
+For a bounded workload class $T$, let nodes expose individual capability profiles $C_i(T)$. The relevant Potentics object is not merely:
+
+\[
+\sum_i \text{nominal compute}_i
+\]
+
+but a deliverable collective capability:
+
+\[
+C_{\text{collective}}(T) = F_T(C_1, \ldots, C_n, \text{network}, \text{state}, \text{coordination}, \text{trust}, \text{energy})
+\]
+
+Depending on the workload:
+
+\[
+C_{\text{collective}}(T) > \max_i C_i(T)
+\]
+
+may hold because memory, throughput, specialized operations or independent subproblems can be composed across nodes.
+
+It may also fail badly. Communication, state transfer, synchronization, verification and trust costs can erase the apparent benefit. The proposition is therefore experimentally falsifiable rather than architectural doctrine.
+
+### 3.6 RAIX gain as an experiment-local instrument
+
+For a declared utility function $U$ and task class $T$, define the empirical array gain:
+
+\[
+G_{\text{RAIX}}(T) = \frac{U(\text{RAIX configuration}, T)}{U(\text{best available individual configuration}, T)}
+\]
+
+$U$ must be declared before measurement. Depending on the experiment it may include:
+
+- delivered throughput;
+- latency;
+- probability of successful completion;
+- maximum executable model or working set;
+- energy per useful result;
+- monetary cost;
+- verification cost;
+- independence from a provider or jurisdiction;
+- reversibility;
+- human attention cost.
+
+$G_{\text{RAIX}}$ is not a universal scalar and should not be added to canonical Potentics as though it were one. It is an experiment-local comparison instrument. A result below one is valuable falsifying evidence.
+
 ---
 
 ## 4. The cost of trust
@@ -312,6 +373,26 @@ A published availability forecast changes the behaviour it forecasts: owners wit
 
 The transposition to information about capacity is direct and should be adopted before any forecast is published: separation between the party that scores the forecast and the party that sells the relief; publication of forecasts and outcomes together; and an audit trail on the trigger that turns a forecast into a reservation. A forecaster who is also an arsonist is not a meteorologist.
 
+### 6.5 Weather as composition-opportunity forecast
+
+Compute Weather can forecast not only isolated resource availability but **composition opportunity**.
+
+A future state estimate may indicate, for instance:
+
+```text
+local solar surplus: high
+three edge NPUs: idle
+home uplink: degraded
+GPU workstation: unavailable
+remote provider: expensive
+```
+
+The meaningful output is not merely a price forecast. It changes which collective RAIX configuration is realizable and desirable for the next packet population.
+
+Thus the capacity forecast should ultimately answer:
+
+> **What useful collective configurations are likely to be realizable during this horizon?**
+
 ---
 
 ## 7. From price to value
@@ -374,6 +455,33 @@ A small simulator and a bounded pilot can produce that knowledge at a fraction o
 
 Failures are informative if they are preserved, which requires a place to preserve them. This corpus has one: the interaction packet registry with its graded disclosure levels, and the claim manifest below, in which a refuted claim is marked refuted rather than quietly removed. A failed routing policy, an unavailable vehicle node, an uneconomic old accelerator, a forecast that will not calibrate — each reduces uncertainty about the true potentiality of the system, and each is worth its cost only if it is written down.
 
+### 9.1 Hardware trend as an experimental opportunity
+
+The rapid 2026 evolution of low-cost MCUs and edge AI devices reduces the economic cost of forming heterogeneous arrays. ESP32-class RISC-V devices, ESP32-P4-like compute nodes, inexpensive NPU boards, SBCs, older PCs and local GPUs increasingly occupy a continuous capability spectrum rather than separate worlds.
+
+This makes small bounded experiments possible without assuming that a globally distributed Fractanet must first exist. A useful first ladder is:
+
+```text
+MCU / smart sensor
+→ AI-capable MCU
+→ small NPU edge node
+→ SBC
+→ desktop / local GPU
+→ remote provider
+```
+
+The research question is not which rung is universally best. It is which composition produces the highest useful capacity under the declared regime and constraints.
+
+### 9.2 Candidate bounded experiments
+
+To test whether $C_{\text{collective}}(T) > \max_i C_i(T)$ and whether $G_{\text{RAIX}}(T) > 1$ in practice, five specific bounded experiments should be executed:
+
+- **E1 — Memory-wall experiment:** Choose a workload that cannot fit on one cheap node but can be partitioned across several. Measure whether the collective configuration crosses the wall at acceptable latency, energy, and coordination cost.
+- **E2 — Throughput experiment:** Use independent inference or transformation packets and compare one stronger node against several weaker nodes at similar purchase cost and energy envelope.
+- **E3 — Heterogeneity experiment:** Route different stages to different comparative advantages: MCU real-time preprocessing, NPU inference, CPU irregular logic, GPU dense operations.
+- **E4 — Trust-cost experiment:** Repeat the same computation across independently governed resources and measure when verification redundancy consumes the economic gain. This directly tests the strong hypothesis of §4 that trust cost is binding.
+- **E5 — Learned composition experiment:** Allow routing/composition policy to use observations from previous runs. Test whether assimilation improves future $G_{\text{RAIX}}$ without creating unacceptable opacity, lock-in, or correlated capture.
+
 ---
 
 ## 10. Failure modes
@@ -381,6 +489,7 @@ Failures are informative if they are preserved, which requires a place to preser
 | Mode | Description | Severity | Detection |
 |---|---|---:|---|
 | Trust collapse | verification overhead exceeds the cheapness advantage | fatal to C5 | measure *r* and cost per admissible result |
+| Collective deficit | communication and coordination overheads make $G_{\text{RAIX}} \le 1$ across in-scope tasks | fatal to C5 / collective claim | benchmark $G_{\text{RAIX}}(T)$ against best individual node |
 | Compatibility wall | resident weights exceed node memory across the fleet | fatal per task class | static admission check |
 | Cold placement | transfer time exceeds deadline | fatal for interactive classes | modelled transfer floor |
 | Externality inversion | pooling raises energy or displaces cost onto owners | fatal to the value claim | measure *X* before and after |
@@ -401,7 +510,7 @@ Failures are informative if they are preserved, which requires a place to preser
 
 ---
 
-## 12. Claim manifest — v0.3
+## 12. Claim manifest — v0.4
 
 | Claim | Status | Description |
 |---|---|---|
@@ -416,8 +525,9 @@ Failures are informative if they are preserved, which requires a place to preser
 | C9 | Observation | Dormancy and obsolescence are distinct; obsolete hardware raises *X* and is an unfavourable limit case, not the paradigm case |
 | C10 | Non-claim | The pooling result is not claimed as new; it is inherited from the literature of §1.2 together with its narrow envelope |
 | C11 | Non-claim | Compute is not claimed to be a packet in the Generalized Packet Networks sense; the boundary rule is deliberately not invoked |
-| C12 | Research programme | The six comparisons of §9, in the stated order, beginning with the verification experiment |
+| C12 | Research programme | The six comparisons of §9 and the five bounded experiments of §9.2 (memory wall, throughput, heterogeneity, trust cost, learned composition) |
 | C13 | Implementation claim | The corpus simulator is extensible to correlated failure and verification overhead at modest cost, and is the intended first instrument |
+| C14 | Metric | Deliverable collective capability $C_{\text{collective}}(T)$ and experiment-local RAIX gain $G_{\text{RAIX}}(T)$ formalize whether an array delivers more utility than isolated nodes (§3.5, §3.6) |
 
 ---
 
@@ -451,6 +561,8 @@ Per `review_protocol.md` §6, integration is recorded rather than silent. This s
 | O18 "Compute Weather" collision check | Claude | Stylistic | Deferred | to be checked before external submission |
 
 **Hop 3 — constructive review and source verification — 2026-07-30.** A subsequent constructive review proposed that recent verifiable-inference systems might render the cost of trust negligible, requested evidence on spot availability forecasting, and restored the reference to Decoupled DiLoCo. The relevant sources were independently checked. `zkGPT` is a USENIX Security 2025 paper; `NANOZK` is an ICLR 2026 workshop submission; `DeepProve` and `VeriLLM` are current preprints. Their results justify the distinction between verifier cost and end-to-end trust cost introduced in §4; they do not yet falsify C6 across the declared frontier. The evidence on spot availability supports a scored forecasting programme, not an unqualified predictability claim. Decoupled DiLoCo is restored with its arXiv identifier in the references.
+
+**v0.4 — 2026-09-04.** Integrates `research/potentics_of_compute_raix_addendum.md`, resolving GitHub issue `JeanHuguesRobert/barons-Mariani#36`. Introduces nominal-vs-realizable collective capacity ($C_{\text{collective}}(T)$ in §3.5), the experiment-local evaluation instrument $G_{\text{RAIX}}(T)$ in §3.6, the low-cost edge AI capability ladder in §9.1, Compute Weather as composition opportunity forecasting (§6.5), the five candidate bounded experiments (E1 to E5 in §9.2), and the Collective Deficit failure mode in §10.
 
 **Residual weaknesses of this version, declared and retained here.**
 

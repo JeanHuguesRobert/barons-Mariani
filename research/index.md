@@ -3,7 +3,7 @@ title: Research Index — barons-Mariani
 description: A map of what is, what is in progress, and what could be.
 layout: default
 nav_order: 1
-last_modified_at: 2026-07-14T00:00:00.000Z
+last_modified_at: 2026-09-04T00:00:00.000Z
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-06-15T00:00:00.000Z
@@ -110,7 +110,8 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Presencology — Presence Maps for the Rational Exploration of The Possible](presencology.md) *(proposed research programme — presence, potentiality, stigmergy and distributed cognition)* | this repo | 2026-08-10 |
-| [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.3 — RAIX, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-07-30 |
+| [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.4 — RAIX collective capability, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-09-04 |
+| [The Network is the Learning Computer](the_network_is_the_learning_computer.md) *(source working paper v0.9 — Cognitive Packet Switching, Ithaca return, RAIX dynamic capability arrays, JHN Architecture)* | this repo | 2026-09-04 |
 | [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
 | [Protection responsable](protection_responsable.md) | this repo | 2026 |
 | [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |

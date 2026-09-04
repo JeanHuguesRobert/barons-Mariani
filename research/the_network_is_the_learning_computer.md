@@ -54,6 +54,7 @@ changelog:
   branching and synthesis, persistent-memory model, Side replay, locality,
   capability attraction, governance, memory lifecycle, Potentics relation
   and implementation research program.
+- v0.9 (2026-09-04) — integrates the RAIX capability-array addendum (resolving issue #36); extends the definition of a hop from a single processor to a temporarily composed capability array; connects Ithaca assimilation to learned future composition policy; and integrates systolic array, CGRA, and collective biological analogies (Physarum) under strict non-claim discipline.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -66,7 +67,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-08-25
+last_modified_at: 2026-09-04
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -89,9 +90,15 @@ related_documents:
 - research/rational_odysseys_the_possible.md
 - research/second_method.md
 - research/potentics.md
+- research/potentics_of_compute.md
+- research/the_network_is_the_learning_computer_raix_addendum.md
+- research/potentics_of_compute_raix_addendum.md
 - research/the_network_is_the_learning_computer_v0.6_addendum.md
 - research/the_network_is_the_learning_computer_v0.7_packet_semantics_addendum.md
 - research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md
+- "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
+- "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md"
+- "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
 - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
@@ -100,8 +107,8 @@ related_documents:
 review:
   reviewed_by:
   - Grok 4.5 (xAI) — decorrelated external review, 2026-08-16
-  status: v0.3 reviewed baseline; v0.8 pending review
-status: working-paper — v0.3 reviewed baseline; v0.8 pending review
+  status: v0.3 reviewed baseline; v0.9 pending review
+status: working-paper — v0.3 reviewed baseline; v0.9 pending review
 subtitle: Revisiting Sun’s vision through Cognitive Packet Switching
 tags:
 - learning-computer
@@ -114,6 +121,10 @@ tags:
 - durable-execution
 - cognitive-packet-network
 - capability-routing
+- raix
+- collective-capability
+- systolic-array
+- cgra
 - intent-routing
 - delegated-authority
 - corpus
@@ -125,7 +136,7 @@ tags:
 - independent-research
 title: The Network is the Learning Computer
 update_policy: UP-ARCHAEOLOGY-LIVING
-version: "0.8"
+version: "0.9"
 visibility: public
 ---
 
@@ -296,6 +307,8 @@ workflow replay, actors, dataflow, continuations, mobile agents, task
 tokens, data-bearing tokens, dynamic task allocation, semantic routing,
 capability discovery, intent routing, intent description, delegated
 authority, human-in-the-loop systems, heterogeneous processors,
+systolic arrays, coarse-grained reconfigurable arrays (CGRAs), distributed inference,
+swarm or neuromorphic systems,
 blackboards, tuple spaces, stigmergy, branching, synthesis, adaptive
 routing, learning from previous execution, or long-running agents.
 
@@ -480,7 +493,12 @@ Several older research traditions remove different parts of the
 classical machine-centered picture: von Neumann architecture, dataflow,
 Actors, CSP, Linda, continuations, mobile processes and mobile agents,
 task tokens, Colored Petri Nets, blackboards, and distributed problem
-solving.
+solving. In computer architecture, systolic arrays (Kung & Leiserson, 1978)
+and Coarse-Grained Reconfigurable Arrays (CGRAs) established that high
+computational power can emerge from the dataflow and spatial organization
+of many relatively simple processing elements, while distributed inference
+extends composition across several machines, and swarm or neuromorphic
+systems illustrate decentralized collective adaptation.
 
 Their relevance is not that CPS must defeat them. Their relevance is
 that CPS can inherit from them while remaining precise about its own
@@ -654,7 +672,15 @@ cognitive\ work
 \neq cognitive\ worker
 $$
 
-The handler therefore becomes a hop.
+The handler therefore becomes a hop:
+
+> **A processor is a hop.**
+
+However, the RAIX capability-array refinement establishes a crucial corollary:
+
+> **A hop need not be a single processor, machine, model or agent. It may be a temporarily composed capability array.**
+
+RAIX must not be reduced to generalized redundancy. Its transferable primitive is the **array**: an organized plurality of capabilities which may provide aggregation, parallelism, redundancy, specialization, diversity or exploration depending on the task and capability regime.
 
 A Cognitive Packet can be processed by a local deterministic function,
 database, search system, symbolic solver, GPU model, LLM, coding agent,
@@ -705,6 +731,47 @@ $$
 The architectural requirement is not that these metadata be novel. It is
 that, when they matter, the execution semantics can refuse a technically
 possible transition.
+
+## 10.1 From routing to composition: capability requirements and dynamic arrays
+
+A Cognitive Packet may expose structural requirements rather than a machine address:
+
+```text
+need:
+  inference: vision
+  latency: bounded
+  privacy: local
+  confidence: high
+  energy_budget: bounded
+  reversibility: high
+```
+
+The network may satisfy those requirements using one handler, a redundant set, a specialized pipeline, or a parallel/aggregated array.
+
+```text
+Cognitive Packet
+    ↓
+requirements + constraints + regime
+    ↓
+capability routing
+    ↓
+RAIX composition
+    ├─ MCU / real-time node
+    ├─ local NPU
+    ├─ GPU or SBC
+    ├─ local model
+    └─ external capability when admissible
+    ↓
+yield + telemetry + failures + costs
+    ↓
+return to Ithaca
+```
+
+This yields the compositional relationship:
+
+$$
+RAIX + CPS \rightarrow dynamically\ composed\ computation
+$$
 
 # 11. The route need not exist before the journey
 
@@ -911,6 +978,35 @@ only ethical. It is architectural: principal, intent representation,
 mandate, packet, handler, and learned routing state must remain separable
 enough that adaptation does not silently become capture.
 
+## 16.1 Learning the composition itself
+
+If Ithaca merely stores which composition was used, the network remembers.
+
+If assimilation changes how subsequent packets are decomposed, routed, replicated, specialized or composed, the network learns.
+
+The Learning Computer can therefore learn not only:
+
+> **Where should this work go?**
+
+but also:
+
+> **What temporary computer should be assembled for this work?**
+
+A possible feedback loop is:
+
+```text
+packet
+→ several capability compositions
+→ execution
+→ measured results
+→ Reality Response when externally testable
+→ return
+→ assimilation
+→ changed future composition policy
+```
+
+RAIX diversity can thus become an **exploration mechanism** rather than solely a reliability mechanism.
+
 # 17. Two kinds of yield
 
 A Cognitive Packet journey can return two distinct forms of value.
@@ -989,9 +1085,28 @@ the mechanism by which the problem is solved.
 
 This supplies a biological existence proof for a weaker proposition
 relevant to CPS: **some nontrivial adaptive problem solving can emerge
-without a central nervous system**. It does not prove that CPS or JHN
-Architecture will work, nor that their mechanisms are biologically
-homologous.
+without a central nervous system**. Natural systems provide multiple
+existence proofs for collective capability emerging from organization:
+neural tissue, immune systems, social insects, multicellular organisms,
+and *Physarum*.
+
+This establishes possibility in the weak but important sense that
+decentralized adaptive organization is physically realizable. It does not
+establish that a particular Fractanet/RAIX implementation is efficient,
+secure, sovereign, or economically useful; those remain empirical questions.
+
+*Physarum* is especially illuminating as a bounded analogy because flow,
+local feedback, and network topology co-evolve:
+
+$$
+flow \rightarrow local\ feedback \rightarrow topology\ change \rightarrow changed\ flow
+$$
+
+The computational analogue in Cognitive Packet Switching is:
+
+$$
+packets \rightarrow telemetry \rightarrow composition/routing\ change \rightarrow changed\ future\ journeys
+$$
 
 For the Learning Computer hypothesis, however, it motivates a sharper
 question:
@@ -1135,13 +1250,17 @@ After prior-art elimination, the following remain candidates:
 9.  persistent principal intent can remain distinct from packet identity
     while constraining or generating multiple cognitive journeys;
 10. learned adaptation can modify how an intent is served without
-    requiring the network to become the sovereign source of that intent.
+    requiring the network to become the sovereign source of that intent;
+11. a hop need not be a single handler but a dynamically composed
+    capability array (RAIX), with future composition policies modulated
+    by Ithaca assimilation.
 
 These claims define the architecture to be tested. They are not
 equivalent to a strong historical novelty claim. Claims 9 and 10 are
 architectural integration claims, not claims that intent representation,
 intent routing, delegation, or sovereignty concerns are historically
-novel.
+novel. Claim 11 is a composition hypothesis linking collective capability
+arrays to packet continuability and assimilation.
 
 # 24. Candidate contribution
 
@@ -1165,7 +1284,17 @@ The intent-layer refinement adds:
 > routing state. The network may learn how to serve the intent without
 > silently taking ownership of it.**
 
-The short form is:
+The architectural short form is now:
+
+> **RAIX provides organized alternatives and collective capability. Cognitive Packet Switching moves continuable work through them. Reality discriminates where possible. Ithaca preserves the yield. Assimilation changes how future capability arrays are composed.**
+
+Or:
+
+$$
+RAIX + CPS + Return + Assimilation \rightarrow Learning\ Computer
+$$
+
+The operational short form is:
 
 > **Packetize the cognitive work.  
 > Let it travel.  
@@ -2454,4 +2583,141 @@ Reality Tests / implementation issues
 This asymmetry is intentional.
 
 As the research progresses, the Learning Computer paper may grow substantially while JHN Architecture should ideally become **smaller, sharper and harder to misinterpret**.
+
+# Appendix K — v0.9 RAIX Capability-Array Integration (Issue #36)
+
+This appendix records the integration of `research/the_network_is_the_learning_computer_raix_addendum.md` into the canonical paper, resolving issue `JeanHuguesRobert/barons-Mariani#36`.
+
+## Integration status
+
+This source addendum was integrated on 2026-09-04 to consolidate the semantic propagation triggered by low-cost MCU/NPU edge nodes and the corrected definition of RAIX.
+
+## 1. Correction inherited from RAIX
+
+RAIX must not be reduced to generalized redundancy.
+
+Its transferable primitive is the **array**: an organized plurality of capabilities which may provide aggregation, parallelism, redundancy, specialization, diversity or exploration depending on the task and capability regime.
+
+This changes one implication of the Learning Computer. The parent paper already separates unfinished cognitive work from its handlers:
+
+> **A processor is a hop.**
+
+The integrated consequence is:
+
+> **A hop need not be a single processor, machine, model or agent. It may be a temporarily composed capability array.**
+
+## 2. From routing to composition
+
+A Cognitive Packet may expose requirements rather than a machine address:
+
+```text
+need:
+  inference: vision
+  latency: bounded
+  privacy: local
+  confidence: high
+  energy_budget: bounded
+  reversibility: high
+```
+
+The network may satisfy those requirements using one handler, a redundant set, a specialized pipeline, or a parallel/aggregated array.
+
+```text
+Cognitive Packet
+    ↓
+requirements + constraints + regime
+    ↓
+capability routing
+    ↓
+RAIX composition
+    ├─ MCU / real-time node
+    ├─ local NPU
+    ├─ GPU or SBC
+    ├─ local model
+    └─ external capability when admissible
+    ↓
+yield + telemetry + failures + costs
+    ↓
+return to Ithaca
+```
+
+This yields:
+
+$$
+RAIX + CPS \rightarrow dynamically\ composed\ computation
+$$
+
+## 3. Learning the composition itself
+
+If Ithaca merely stores which composition was used, the network remembers.
+
+If assimilation changes how subsequent packets are decomposed, routed, replicated, specialized or composed, the network learns.
+
+The Learning Computer can therefore learn not only:
+
+> **Where should this work go?**
+
+but also:
+
+> **What temporary computer should be assembled for this work?**
+
+A possible loop is:
+
+```text
+packet
+→ several capability compositions
+→ execution
+→ measured results
+→ Reality Response when externally testable
+→ return
+→ assimilation
+→ changed future composition policy
+```
+
+RAIX diversity can thus become an exploration mechanism rather than only a reliability mechanism.
+
+## 4. Relation to systolic and reconfigurable arrays
+
+The historical and current lineage matters.
+
+Systolic arrays demonstrate that computational power can emerge from the organization and dataflow of many relatively simple processing elements. CGRAs and spatial/dataflow architectures make that organization reconfigurable. Distributed inference extends composition across several machines. Swarm and neuromorphic systems show other forms of local interaction and collective adaptation.
+
+The Learning Computer proposal should therefore not claim that organized arrays, dynamic graphs, distributed inference or collective learning are new.
+
+The narrower architectural question remains:
+
+> **Can bounded unfinished cognitive work retain continuable identity while a heterogeneous, changing network composes the capabilities needed to continue it, returns the experience to a durable semantic home, and uses that experience to alter future composition and routing?**
+
+## 5. Nature as possibility proof, not engineering proof
+
+Natural systems provide multiple existence proofs for collective capability emerging from organization: neural tissue, immune systems, social insects, multicellular organisms and Physarum.
+
+This establishes possibility in the weak but important sense that decentralized adaptive organization is physically realizable.
+
+It does not establish that a particular Fractanet/RAIX implementation is efficient, secure, sovereign or economically useful. Those remain empirical questions.
+
+Physarum is especially useful as a bounded analogy because flow, local feedback and network topology co-evolve:
+
+$$
+flow \rightarrow local\ feedback \rightarrow topology\ change \rightarrow changed\ flow
+$$
+
+The computational analogue is:
+
+$$
+packets \rightarrow telemetry \rightarrow composition/routing\ change \rightarrow changed\ future\ journeys
+$$
+
+## 6. Architectural short form
+
+A compact synthesis is now:
+
+> **RAIX provides organized alternatives and collective capability. Cognitive Packet Switching moves continuable work through them. Reality discriminates where possible. Ithaca preserves the yield. Assimilation changes how future capability arrays are composed.**
+
+Or:
+
+$$
+RAIX + CPS + Return + Assimilation \rightarrow Learning\ Computer
+$$
+
 

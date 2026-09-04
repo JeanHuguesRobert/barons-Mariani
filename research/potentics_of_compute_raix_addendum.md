@@ -5,9 +5,9 @@ description: "Addendum connecting Potentics of Compute to the corrected RAIX con
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A. / FractaVolta"
 date: "2026-08-22"
-last_modified_at: "2026-08-22"
+last_modified_at: "2026-09-04"
 version: "0.1"
-status: "integration-addendum"
+status: "integrated"
 license: "CC BY-SA 4.0"
 language: "en"
 document_role: "source"
@@ -42,6 +42,8 @@ tags:
 > **RAIX is not only a redundancy mechanism. An organized array may create useful compute capacity unavailable to any individual participating node.**
 
 This does not create arithmetic ex nihilo. It changes which workloads become realizable and at what delivered utility.
+
+On 2026-09-04, this addendum was fully integrated into the canonical paper [`research/potentics_of_compute.md`](potentics_of_compute.md) (v0.4, see Sections 3.5, 3.6, 6.5, 9.1, 9.2, 10, 12, and 13), resolving GitHub issue `JeanHuguesRobert/barons-Mariani#36`. This note is preserved for provenance and historical reference.
 
 ## 2. Nominal versus realizable collective capacity
 

@@ -5,7 +5,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-22"
 version: "0.1"
-status: "integration-addendum"
+status: "integrated"
+last_modified_at: "2026-09-04"
 document_role: "source"
 document_kind: "research-addendum"
 visibility: "public"
@@ -39,7 +40,9 @@ tags:
 
 This source addendum records a semantic propagation discovered on 2026-08-22 while examining the rapid increase in capability of inexpensive MCU/NPU edge nodes.
 
-The parent paper remains canonical. This note exists because the current GitHub editing surface makes non-destructive partial modification of the large parent source safer through an explicit addendum than through manual whole-file reconstruction.
+On 2026-09-04, this addendum was fully integrated into the canonical paper [`research/the_network_is_the_learning_computer.md`](the_network_is_the_learning_computer.md) (v0.9, see Sections 9, 10.1, 16.1, 18.1, 23, 24, and Appendix K), resolving GitHub issue `JeanHuguesRobert/barons-Mariani#36`.
+
+The parent paper remains canonical. This note is preserved as a historical addendum and provenance record.
 
 ## 1. Correction inherited from RAIX
 
