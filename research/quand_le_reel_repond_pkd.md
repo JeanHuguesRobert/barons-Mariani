@@ -5,11 +5,11 @@ description: "French sovereign source essay using Philip K. Dick as a diagnostic
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-03"
-last_modified_at: "2026-09-03"
+last_modified_at: "2026-09-04"
 license: "CC BY-SA 4.0"
 language: "fr"
 version: "0.4"
-status: ["working-paper", "under-review"]
+status: ["stable"]
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/quand_le_reel_repond_pkd.md"
 last_stamped_at: "unknown"
 methodology:
@@ -19,8 +19,8 @@ methodology:
   - "Rational Exploration of the Possible"
 ai_assisted_by:
   - "GPT-5.6 Sol — Redactor drafting, corpus synthesis, source verification, self-containedness pass, literary restructuring, and v0.4 critique assimilation"
-  - "Grok 4.6 (xAI) — decorrelated Reviewer of immutable C1"
-human_arbitration_by: "Jean Hugues Noël Robert — v0.4 publication arbitration and approval — 2026-09-03"
+  - "Grok 4.6 (xAI) — decorrelated Reviewer of immutable C1 and C2"
+human_arbitration_by: "Jean Hugues Noël Robert — final v0.4 stabilization and DPCP closure arbitration — 2026-09-04"
 update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source"
 document_function: "research-essay"
@@ -36,6 +36,7 @@ related_documents:
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/documents_as_cognitive_packets.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/redactor.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/reviewer.md"
+  - "research/reviews/review-quand_le_reel_repond_pkd-d814151.md"
 tags:
   - philip-k-dick
   - reel
@@ -63,25 +64,33 @@ provenance:
     - "research/pkd_after_ai.md"
     - "research/ai-based-cultural-mediation.md"
 review:
-  status: "human-reviewed v0.4 — second decorrelated external review pending"
+  status: "stable — second decorrelated review accepted by human principal"
   reviewed_by:
     - "Jean Hugues Noël Robert — full human reading and v0.3 publication approval — 2026-09-03"
     - "Jean Hugues Noël Robert — v0.4 diff review, arbitration, and publication approval — 2026-09-03"
     - "Grok 4.6 (xAI) — decorrelated external review of immutable C1 — 2026-09-03"
-x-reviewed-commit: "dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
+    - "Grok 4.6 (xAI) — second decorrelated review of immutable C2 d814151ac22120d6a5bf6c5b9e83031205cc9428 — recommendation STABILIZE — 2026-09-03"
+    - "Jean Hugues Noël Robert — accepted second review, stabilized v0.4, and authorized DPCP closure — 2026-09-04"
+x-reviewed-commit: "d814151ac22120d6a5bf6c5b9e83031205cc9428"
+x-review-artifact: "research/reviews/review-quand_le_reel_repond_pkd-d814151.md"
 x-review-contract: "cogentia/prompts/reviewer.md v0.5"
 changelog:
   - "v0.1 (2026-09-03) — first complete Redactor draft prepared under DPCP issue #54; not yet committed or externally reviewed."
   - "v0.2 (2026-09-03) — strengthened self-containedness with first-use concept definitions and a Corpus entry-point appendix."
   - "v0.3 (2026-09-03) — literary restructuring: replaced taxonomy-first exposition with scene-driven argument, kept conceptual definitions at first argumentative need, and introduced Rossignol as the real twenty-year-old donkey living in Corte before naming the methodological principle. Full human reading and publication approval by Jean Hugues Noël Robert; decorrelated external review remained pending."
   - "v0.4 (2026-09-03) — assimilated selected Grok 4.6 Reviewer findings: independent attestation for Rossignol, non-reset condition and principal-layer consequence for Synthetic Skin in the Game, explicit constitutional status of living-person sovereignty, contrast with preference/eval loops, world-model family split, and related answerability/DHITL clarifications. Reviewed by diff and approved for publication by Jean Hugues Noël Robert on 2026-09-03. Human approval does not constitute a corpus stamp; last_stamped_at therefore remains unknown."
+  - "v0.4 stabilization (2026-09-04) — second decorrelated Grok 4.6 review of immutable C2 d814151ac22120d6a5bf6c5b9e83031205cc9428 found no errors, no new load-bearing objection, no material unexplored region, and no state-of-the-art gap requiring reopening; recommendation STABILIZE accepted by Jean Hugues Noël Robert. DPCP #54 practically closed; epistemic revisability remains."
 x-cognitive-packet:
   profile: "document-production"
   work_locus: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/54"
-  current_phase: "c2-human-reviewed-publication-awaiting-second-review"
+  current_phase: "closed-stabilized-v0.4"
   ithaca: "research/quand_le_reel_repond_pkd.md"
-  causal_frontier: "dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
-  next_handler_capability: "reviewer-v0.5"
+  causal_frontier: "d814151ac22120d6a5bf6c5b9e83031205cc9428"
+  review_artifact: "research/reviews/review-quand_le_reel_repond_pkd-d814151.md"
+  closure_date: "2026-09-04"
+  closure_mode: "practical-packet-closure"
+  epistemic_closure: false
+  next_handler_capability: "none"
 ---
 
 # Quand le Réel répond
@@ -92,11 +101,11 @@ x-cognitive-packet:
 
 **Object.** Produce a self-contained French sovereign source essay that uses Philip K. Dick as a diagnostic instrument, not as an authority or prophet, and connects recurrent problems of Reality, Possibility, Personhood, Power, and consequence.
 
-**Status.** Human-reviewed v0.4 after decorrelated review of immutable C1 by Grok 4.6. The v0.4 integrations were reviewed by diff, arbitrated, and approved for public GitHub publication by Jean Hugues Noël Robert on 2026-09-03. A second decorrelated review remains pending.
+**Status.** Stable v0.4. Grok 4.6 completed a second decorrelated review of immutable C2 `d814151ac22120d6a5bf6c5b9e83031205cc9428` and recommended **STABILIZE**. Jean Hugues Noël Robert accepted that review and authorized final stabilization and practical closure of DPCP #54 on 2026-09-04. This is practical packet closure, not epistemic closure.
 
 **Associated documents.** The load-bearing Corpus references are the Second Method, *Le Réel, le Virtuel et l’Actuel*, the Rossignol Principle, the existing *Ubik* and PKD/AI papers, the Inox orientation note, and the current Redactor/Reviewer contracts.
 
-**Update method.** Continue through GitHub issue #54 as the active Document Production Cognitive Packet work locus. Commit `dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a` is the immutable C1 causal frontier reviewed by Grok 4.6. This v0.4 assimilates selected findings and is authorized as the next public checkpoint; the resulting commit SHA becomes the causal frontier for the second decorrelated review.
+**Update method.** DPCP #54 is practically closed after the second review and final human arbitration. Immutable C2 `d814151ac22120d6a5bf6c5b9e83031205cc9428` is the reviewed causal frontier for the stabilized essay. Later evidence may revise the source under a new packet; remaining implementation and derived-product pistes are intentionally routed outside this closed production episode.
 
 ---
 
