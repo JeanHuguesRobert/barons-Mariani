@@ -1,10 +1,10 @@
 ---
 title: "Mise à jour du processus de Beauvau — phase post-Assemblée nationale"
 subtitle: "Du texte constitutionnel transmis au Sénat au chantier de la loi organique"
-status: working-paper — update_v0.1
+status: working-paper — update_v0.2-historical
 language: fr
 created: 2026-07-16
-updated: 2026-07-16
+updated: 2026-09-05
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 function: documentary_update
 target_scene: corpus_update
@@ -15,10 +15,12 @@ date: "2026-07-16"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "historical-layer"
 related_documents:
   - title: "Chronologie documentaire du processus de Beauvau"
     path: "../chronologie_processus_beauvau_corse.md"
+  - title: "Mise à jour du processus de Beauvau — état au 5 septembre 2026"
+    path: "mise_a_jour_processus_beauvau_2026-09.md"
   - title: "Note synthétique sur l’autonomie de capacité"
     path: "../note_synthetique_autonomie_capacite_corse.md"
   - title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
@@ -30,6 +32,8 @@ classification_confidence: "medium"
 ---
 
 # Mise à jour du processus de Beauvau — phase post-Assemblée nationale
+
+> **Statut au 5 septembre 2026 : couche historique.** Cette note photographie l’état du dossier au 16 juillet 2026. Pour l’état courant, voir [Mise à jour du processus de Beauvau — état au 5 septembre 2026](./mise_a_jour_processus_beauvau_2026-09.md).
 
 ## Objet
 
@@ -165,3 +169,9 @@ proposition_constitutionnelle_autonomie_capacite_corse.md
 autonomia.md et index.md
   -> ajouter une entrée vers le registre organique et cette mise à jour
 ```
+
+## Note de consolidation du 5 septembre 2026
+
+Les trois dates d’octobre mentionnées ci-dessus sont désormais précisées par l’ordre du jour du Sénat : commission le 21 octobre matin, dépôt des amendements de séance avant le 23 octobre à 12 h, examen des amendements le 26 octobre en début d’après-midi, puis séance publique à partir de 15 h.
+
+La lecture de juillet selon laquelle le centre de gravité se serait déjà déplacé vers la loi organique doit être nuancée : la préparation organique est substantiellement décisive, mais le **verrou juridique immédiat demeure la révision constitutionnelle au Sénat**.
