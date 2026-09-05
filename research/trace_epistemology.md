@@ -1,9 +1,10 @@
 ---
 title: "Le passé est aussi imprévisible que le futur"
 subtitle: "Épistémologie des traces, certitude subjective et imputabilité sous incertitude"
-version: "0.3"
+version: "0.4"
 status: "working-paper — source document — consolidated"
 date: "2026-06-05"
+last_modified_at: "2026-09-05"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
@@ -14,6 +15,7 @@ symmetry: "high — source document"
 critique_integrated:
   - "Grok constructive review, 2026-06-05, filtered by human/ChatGPT arbitration"
   - "Consolidation pass, 2026-06-05"
+  - "Antigravity — v0.4 propagation Issue #55: Trace-Centric vs Event-Centric, JHN architecture & COP 2.x, 2026-09-05"
 intended_derivatives:
   - "note_academique_courte"
   - "article_public_substack"
@@ -23,6 +25,9 @@ intended_derivatives:
 tags:
   - epistemology
   - traces
+  - trace-centric
+  - learning-computer
+  - cop-2
   - uncertainty
   - judgment
   - imputability
@@ -36,12 +41,16 @@ related_documents:
   - "JeanHuguesRobert/cogentia/research/pipeline.md"
   - "JeanHuguesRobert/cogentia/research/derived_products.md"
   - "JeanHuguesRobert/cogentia/research/cognitive_packets.md"
+  - "JeanHuguesRobert/cogentia/research/learning_computer_genese_et_architecture.md"
+  - "JeanHuguesRobert/barons-Mariani/research/jhn_architecture.md"
+  - "JeanHuguesRobert/barons-Mariani/research/principe_rossignol.md"
   - "JeanHuguesRobert/inseme/AGENTS.md"
   - "JeanHuguesRobert/inseme/packages/cop-core/Invariants.md"
   - "JeanHuguesRobert/inseme/research/concepts.md"
 ai_assisted_by:
   - "ChatGPT — redaction and consolidation"
   - "Grok — constructive external review, non-decisional"
+  - "Antigravity — v0.4 integration"
 human_validation_required: true
 next_action: "publish consolidated source document, then controlled derivation"
 corpus_role: "source"
@@ -52,7 +61,10 @@ lifecycle_state: "working"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "research-paper"
-classification_confidence: "medium"
+classification_confidence: "high"
+changelog:
+  - "2026-06-05 — v0.3: consolidation working-paper et critique externe."
+  - "2026-09-05 — v0.4: propagation Issue #55; formalisation de la rupture ontologique Trace-Centric vs Event-Centric (§3.1.1), ancrage dans l'état abstrait JHN J=(P,H,S,T), statut de COP 2.x et tissage bidirectionnel avec la genèse du Learning Computer."
 ---
 
 # Le passé est aussi imprévisible que le futur
@@ -180,6 +192,21 @@ Une **trace** est un reste, un indice, un enregistrement, un document, une inscr
 Une trace n'est pas encore une preuve.
 
 Elle doit être qualifiée.
+
+#### 3.1.1 La rupture ontologique : Du modèle Event-Centric au modèle Trace-Centric
+
+L'informatique distribuée classique et les premières itérations de nos protocoles d'orchestration cognitive (COP 1.x) avaient hérité d'un biais issu de l'*Event Sourcing* : modéliser le flux du monde sous la forme d'une suite d'« Événements » (`Events`).
+
+Cette approche reposait sur une illusion anthropocentrique et systémique : elle postulait que le système était le témoin omniscient ou le créateur de tout ce qui advenait, consignant des événements pré-formatés, munis d'identifiants propres et ordonnés selon une séquence idéale.
+
+La formalisation du [Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md) et de l'[Architecture JHN](jhn_architecture.md) opère un retournement copernicien :
+- **Le Réel ne produit pas des événements, il produit des Traces.** Une trace est une altération physique, matérielle, thermique, biologique ou cryptographique brute, asynchrone, partielle et située laissée par un processus effectif.
+- **L'« Événement » n'est pas le primitif ontologique premier :** il est une construction interprétative seconde, un index éphémère et local plaqué par un observateur sur un faisceau de traces pour raconter une histoire causale.
+- Dans l'état abstrait de l'architecture JHN :
+  $$\mathcal{J} = (P, H, S, T)$$
+  où $P$ est la Politique, $H$ le Hop (ou le tableau de capacités RAIX), et $S$ le Store interne, la **Trace** $T$ est le centre de gravité exclusif de l'imputabilité, de l'opposabilité et de l'apprentissage. Les états internes ($S$) peuvent être réinitialisés ou reconstruits par rejeu, les processeurs ($H$) peuvent tomber en panne ou être remplacés : seule la Trace matérielle $T$ persiste sans possibilité de réinitialisation unilatérale.
+
+Le protocole COP 2.x consacre ainsi l'abandon du postulat *Event-Centric* au profit d'un socle strictement *Trace-Centric*.
 
 ### 3.2 Preuve
 

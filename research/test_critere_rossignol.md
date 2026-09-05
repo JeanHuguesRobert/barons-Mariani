@@ -4,13 +4,15 @@ subtitle: "Quatre dispositifs du corpus au crible — Cogentia, traçabilité sy
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-05-31"
-status: "working-note — application empirique d'un critère doctrinal v0.1"
-version: "0.1"
+last_modified_at: "2026-09-05"
+status: "working-note — application empirique d'un critère doctrinal v0.2"
+version: "0.2"
 license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "Claude — passage au crible, 2026-05-31"
+  - "Antigravity — v0.2 propagation Issue #55: Synthetic SITG & Échelons d'Incarnation, 2026-09-05"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-09-05
 document_role: "source"
 document_kind: "working-note"
 visibility: "public"
@@ -18,7 +20,15 @@ lifecycle_state: "working"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "working-note"
-classification_confidence: "medium"
+classification_confidence: "high"
+related_documents:
+  - "research/principe_rossignol.md"
+  - "research/quand_le_reel_repond_pkd.md"
+  - "research/jhn_architecture.md"
+  - "cogentia/research/learning_computer_genese_et_architecture.md"
+changelog:
+  - "2026-05-31 — v0.1: passage au crible de 4 dispositifs (FractaVolta, Cogentia, Traçabilité symétrique, Kudocracy)."
+  - "2026-09-05 — v0.2: propagation Issue #55; résolution de la question résiduelle du numérique (§6) par le Synthetic Skin in the Game non réinitialisable unilatéralement, intégration des 4 Échelons d'Incarnation et extension du banc d'essai au Learning Computer (COP 2.x) et à l'Agent JHN (Sénatoriales 2026)."
 ---
 
 # Test du critère Rossignol
@@ -99,34 +109,39 @@ Aucun de ces éléments n'est aujourd'hui instancié. Kudocracy **n'a pas encore
 
 ## 5. Synthèse
 
-| Dispositif | Rossignol | Verdict |
-|---|---|---|
-| **FractaVolta** | Rossignol Node (âne, abreuvoir, capteurs, paquet d'énergie) | ✅ instancié |
-| **Cogentia** | commit individuel (SHA-1 + `audit.jsonl` + push + continuation) | ✅ produit par construction |
-| **Traçabilité symétrique** | dossier d'interaction exportable (cas 2026-05-24-001) | ✅ une instance, à généraliser |
-| **Kudocracy** | votation-pilote signée + chaîne suggestion→décision exportable | ⚠️ à produire — condition de validation |
+| Dispositif | Échelon d'Incarnation | Rossignol | Verdict |
+|---|---|---|---|
+| **FractaVolta** | Échelon 0 (Vital) & Échelon 1 (Matériel) | Rossignol Node (âne, abreuvoir, panneaux, batterie, station météo) | ✅ instancié |
+| **Cogentia** | Échelon 2 (Numérique Opposable) | commit individuel (SHA-1 + `audit.jsonl` + push remote + continuation) | ✅ produit par construction |
+| **Traçabilité symétrique** | Échelon 2 / Échelon 3 | dossier d'interaction exportable (cas 2026-05-24-001) | ✅ une instance, à généraliser |
+| **Learning Computer & COP 2.x** | Échelon 2 (Numérique Opposable) | Trace matérielle $T$, Packet Closures sérialisées, Synthetic SITG, budgets finis | ✅ instancié |
+| **Agent JHN (Sénatoriales 2026)** | Échelon 3 (Institutionnel / Démocratique) | Mandat public, exposition directe aux maires et électeurs, réponses sans fuite | ✅ en déploiement |
+| **Kudocracy** | Échelon 3 (Institutionnel) | votation-pilote signée + chaîne suggestion→décision exportable | ⚠️ à produire — condition de validation |
 
-Le critère **tient** sur les quatre cas — il ne disqualifie aucun. Mais il **distingue** clairement :
+Le critère **tient** et s'affine considérablement :
 
-- les dispositifs où le Rossignol est *natif* (FractaVolta, Cogentia) — leur stabilisation est intrinsèquement procédurale, ils produisent leur trace à chaque action ;
-- les dispositifs où le Rossignol est *attesté* (traçabilité symétrique) — la propriété existe, l'enjeu est sa généralisation ;
-- les dispositifs où le Rossignol est *à produire* (Kudocracy) — le doctrinal devance le pratique, et le critère pointe précisément la prochaine action structurante.
-
-Cette gradation est plus utile que le critère binaire ✅/❌ initial. Elle suggère une reformulation :
-
-> Un dispositif est un stabilisateur procédural **mûr** dès que son Rossignol est instancié et reproductible ; il est un stabilisateur **en attente** tant qu'il reste doctrinal.
+- **Échelon 0 (Vital) :** ancrage biologique absolu (l'abreuvoir vide à Minesteggio) qui commande le devoir éthique de soin le plus strict ;
+- **Échelon 1 (Matériel) :** ancrage cyber-physique où l'erreur se heurte aux lois physiques et aux compteurs de terrain ;
+- **Échelon 2 (Numérique Opposable) :** ancrage sur du *Synthetic Skin in the Game* non réinitialisable unilatéralement ;
+- **Échelon 3 (Institutionnel) :** ancrage sur la responsabilité sociale, juridique et politique opposable.
 
 ---
 
-## 6. Question résiduelle — le cas purement numérique
+## 6. Résolution — le cas purement numérique et le Synthetic Skin in the Game
 
-L'exemple le plus difficile pour le critère n'apparaît pas dans la liste des quatre : un dispositif **purement numérique** (un wiki, un protocole, un audit log isolé) sans incarnation matérielle évidente. Le commit individuel de Cogentia est-il un Rossignol authentique, ou un proxy ? Le hash SHA-1 ferme la chaîne *cryptographiquement* mais pas *sensoriellement* : on ne peut pas pointer un poil de l'âne.
+La version 0.1 laissait une question ouverte : dans un système purement logiciel (un protocole, une chaîne d'agents, un modèle de fondation), le commit ou le log est-il un véritable Rossignol ou un simple proxy ?
 
-Réponse provisoire : le Rossignol doit être *un point fixe vérifiable*, pas nécessairement *physique*. La pierre de touche est : *un tiers étranger au dispositif peut-il, sans dépendre du dispositif lui-même, attester de la trace ?* Pour Cogentia, oui — GitHub, un autre clone du repo, ou même un *git verify-commit* attesté par une clé GPG le permettent. La trace est *exposable hors-cadre*, ce qui est l'essentiel.
+L'avancée théorique formalisée dans la note sur la [Genèse et architecture du Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md) apporte la réponse définitive :
 
-Le critère se reformule donc :
+Dans le monde numérique, un système multi-agents risque en permanence de s'enfermer dans un **hall de miroirs** (des agents qui s'auto-évaluent, se flattent mutuellement ou lissent des poids sans jamais rencontrer le monde, comme les dix IA convergeant à 22°C devant un thermomètre à 17°C). Un hash interne ou un log complaisant ne constitue **pas** un Rossignol s'il peut être régénéré à volonté ou ignoré.
 
-> Un Rossignol est tout point d'attestation **exposable hors-cadre** — physique de préférence, cryptographique acceptable, métaphorique rejeté.
+Pour qu'un dispositif numérique produise un authentique Rossignol d'Échelon 2, il doit impérativement satisfaire la **triple clôture du Synthetic Skin in the Game** :
+
+1. **Consommation réelle de ressources finies :** Chaque action, inférence ou tentative doit consommer un budget mesurable attesté par un tiers extérieur indépendant (quota de tokens d'un fournisseur d'API, kilowattheures mesurés, transaction financière ou enregistrement cryptographique certifié). L'action ne peut être gratuite.
+2. **Révocation et restriction d'autorité :** L'échec ou la détection d'une contradiction ne doit pas se solder par une simple réécriture de message ; elle doit entraîner une dégradation immédiate du niveau de mandat de l'agent, exigeant un arbitrage humain renforcé (DHITL — *Dual Human-in-the-Loop*).
+3. **Non-réinitialisabilité unilatérale :** L'agent fautif ne doit pas pouvoir « faire table rase » en créant un nouveau thread, en redémarrant à froid ou en réinstanciant un contexte vierge. La Trace $T$ de l'écart est scellée dans l'historique causal persistant et opposable.
+
+Dès lors que ces trois conditions sont réunies, le Rossignol numérique n'est plus un proxy métaphorique : il est un **stabilisateur procédural à coût réel**, capable d'infliger un démenti effectif au système.
 
 ---
 
@@ -135,24 +150,25 @@ Le critère se reformule donc :
 ```yaml
 continuation:
   article: "Test du critère Rossignol"
-  version: "0.1"
-  status: "working-note — application empirique"
+  version: "0.2"
+  status: "working-note — application empirique consolidée"
   parent: "barons-Mariani/research/stigmergie_sans_limite_haute.md §4.3"
 
   done_v0_1:
-    - "Critère appliqué aux 4 dispositifs visés."
-    - "Distinction trinaire dégagée (natif / attesté / à produire) plus utile que ✅/❌."
-    - "Critère reformulé : Rossignol = point d'attestation exposable hors-cadre (physique de préférence, cryptographique acceptable)."
+    - "Critère appliqué aux 4 dispositifs initiaux."
+    - "Distinction trinaire dégagée (natif / attesté / à produire)."
+    - "Critère reformulé : Rossignol = point d'attestation exposable hors-cadre."
+
+  done_v0_2:
+    - "Résolution de la question du cas numérique (§6) par la triple clôture du Synthetic Skin in the Game (consommation finie, restriction d'autorité, non-réinitialisabilité unilatérale)."
+    - "Intégration des 4 Échelons d'Incarnation dans la grille d'analyse (§5)."
+    - "Extension du banc d'essai au Learning Computer (COP 2.x) et à l'Agent JHN (campagne Sénatoriales 2026)."
+    - "Tissage avec learning_computer_genese_et_architecture.md et principe_rossignol.md v0.2."
 
   prochaine_action:
+    - "Intégrer les résultats des premières épreuves terrain de l'Agent JHN (Sénatoriales) comme cas d'attestation Échelon 3."
     - "Si Kudocracy avance : désigner une votation-pilote (réelle, signée, exportable) comme premier Rossignol et le tracer ici."
-    - "Inox : sera-t-il jugé au même critère ? Son Rossignol est-il un programme l9.nox qui tourne, ou la self-hostance du compilateur ? À traiter dans une note séparée si le critère se révèle pertinent là aussi."
-    - "Étendre la table de §5 quand de nouveaux dispositifs entrent dans le corpus (mailarch, inseme commons, etc.)."
-
-  questions_a_traiter:
-    - "Un Rossignol partagé entre dispositifs (par ex. un même `audit.jsonl` servant à la fois Cogentia et la traçabilité symétrique) est-il une mutualisation saine ou un couplage indésirable ?"
-    - "Le critère permet-il de juger des dispositifs *non*-procéduraux ? Un stabilisateur magique a-t-il par définition pas de Rossignol — ou un Rossignol falsifié ?"
-    - "Y a-t-il une asymétrie temporelle : un dispositif peut-il être stabilisateur valide à un instant T (Rossignol instancié) et invalide à T+n (Rossignol perdu, par ex. infrastructure abandonnée) ?"
+    - "Évaluer Inox au critère Rossignol (l9.nox en exécution matérielle bare-metal)."
 ```
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks

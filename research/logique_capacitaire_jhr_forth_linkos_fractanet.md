@@ -3,7 +3,9 @@ title: "Logique capacitaire — de Forth et LinkOS à FractaNet"
 subtitle: "Grille de lecture technique, doctrinale et autobiographique"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-07-07"
-status: "draft"
+last_modified_at: "2026-09-05"
+version: "0.2"
+status: "draft v0.2"
 document_role: "source"
 document_kind: "conceptual-lineage"
 visibility: "public"
@@ -13,6 +15,12 @@ related_repositories:
   - "JeanHuguesRobert/FractaVolta"
   - "JeanHuguesRobert/Inox"
   - "JeanHuguesRobert/marenostrum"
+related_documents:
+  - "cogentia/research/learning_computer_genese_et_architecture.md"
+  - "research/principe_rossignol.md"
+  - "research/jhn_architecture.md"
+  - "https://github.com/JeanHuguesRobert/l8"
+  - "https://github.com/JeanHuguesRobert/side"
 tags:
   - logique-capacitaire
   - possibilisme-capacitaire
@@ -21,14 +29,21 @@ tags:
   - star-x25
   - sage-x
   - odisei
+  - l8
+  - side-js
+  - packet-closure
+  - learning-computer
   - fractanet
   - agents-jhn
 lifecycle_state: "working"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_confidence: "high"
 legacy_document_role: "doctrine"
+changelog:
+  - "2026-07-07 — draft v0.1: première cartographie de la logique capacitaire de Forth/LinkOS à FractaNet."
+  - "2026-09-05 — draft v0.2: propagation Issue #55; insertion des jalons pivots majeurs l8 (2014) et side.js (2016) entre Odisei et FractaNet, formalisation du germe du Packet Closure et du non-bloquant synchrone vers le Learning Computer."
 ---
 
 # Logique capacitaire — de Forth et LinkOS à FractaNet
@@ -82,7 +97,8 @@ Forth sur VIC-20
 → Sage/X et Emul, supervision programmable d'équipements hétérogènes
 → DashBoard, transition SNMP/IP/Java/Web
 → Odisei, téléphonie IP logicielle et services distribués
-→ l8, descendant contemporain de LinkOS
+→ l8 (2014), Tasks, Steps, algèbre de Promises avec cancel, et germe du Packet Closure
+→ side.js (2016), non-bloquant en style synchrone, retry from top et cache de slots en RAM
 → FractaNet, généralisation territoriale de cette logique
 ```
 
@@ -100,6 +116,8 @@ Forth sur VIC-20
 | Sage/X / Emul | équipements hétérogènes | langage d'émulation et supervision | agir sur des systèmes disparates |
 | DashBoard | bascule Internet | SNMP, Java, Web | supervision réseau IP orientée performance |
 | Odisei | téléphonie en mutation | IP-PBX logiciel | transformer l'appel en service programmable |
+| l8 (2014) | asynchronisme éclaté et acteurs distribués | Tasks, Steps, algèbre de Promises étendue avec `cancel`, closures sérialisées pour acteurs | composer dynamiquement des graphes de calcul et isoler l'état distribué (germe du *Packet Closure*) |
+| side.js (2016) | latences I/O bloquantes et complexité des callbacks | style synchrone sur non-bloquant, retry from top sur exception, cache de slots en RAM (µs) et delayed writes | persistance ultra-rapide et tolérance aux pannes sans enfer asynchrone |
 | FractaNet | dépendance territoriale | réseau distribué capacitaire | autonomie locale vérifiable |
 
 ## 6. LinkOS comme matrice
@@ -136,6 +154,24 @@ Le point commun est la construction d'un médiateur programmable entre un opéra
 Odisei marque le passage du réseau transactionnel administré vers l'Internet des services logiciels distribués.
 
 La téléphonie IP, l'IP-PBX, la découverte de serveurs et le routage logiciel d'appels prolongent la logique antérieure : l'appel devient programmable, routable, découvrable et orchestrable.
+
+## 8.1 l8 (2014) comme matrice de contrôle et germe du Packet Closure
+
+Développé en 2014, [`l8`](https://github.com/JeanHuguesRobert/l8) représente le chaînon pivot entre les noyaux multitâches locaux (LinkOS) et les protocoles distribués contemporains. 
+
+Face à l'éclatement du code asynchrone en JavaScript, `l8` formalise :
+1. **La dualité Task / Step :** Une `Task` n'est pas un simple thread système, mais une suite structurée d'étapes (`Step`) formant un arbre d'exécution composé dynamiquement.
+2. **L'algèbre des Promises étendue avec `cancel` :** Chaque tâche est aussi une Promise composable, mais augmentée de la capacité fondamentale d'interruption propre (`cancel`), évitant l'emballement des processus orphelins.
+3. **Le germe du *Packet Closure* :** En local, les closures de fonctions sont directement offertes par la VM JavaScript ; mais dès que l'exécution franchit la frontière vers des acteurs distants ou distribués, la closure doit impérativement être sérialisée dans le message lui-même. C'est l'acte de naissance conceptuel de la fermeture de paquet (*Packet Closure*), fondement du *Cognitive Packet Switching*.
+
+## 8.2 side.js (2016) comme dépassement du blocage et réentrance déterministe
+
+En septembre 2016, [`side.js`](https://github.com/JeanHuguesRobert/side) apporte la pièce manquante à la persistance et à l'exécution temps réel sur environnement contraint :
+1. **Le non-bloquant en style synchrone :** L'opérateur programme en apparence de manière séquentielle et fluide, tandis que le moteur sous-jacent orchestre les flux asynchrones sans jamais bloquer la boucle d'événements.
+2. **L'interruption comme exception et le *Retry from top* :** Une coupure ou une attente de ressource n'est pas gérée par un empilement complexe d'états intermédiaires, mais traitée comme une exception rattrapable permettant une relance déterministe depuis le sommet (*retry from top*).
+3. **La hiérarchie mémoire à écriture différée :** Un cache de *slots* en RAM répond en microsecondes aux besoins opérationnels, tandis que les écritures sur disque ou réseau sont différées (*delayed writes*).
+
+Cette structure préfigure directement la hiérarchie mémorielle à quatre niveaux (L0 RAM $\to$ L1 SQLite/FS $\to$ L2 Git/Views $\to$ L3 Doctrine) du [Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md).
 
 ## 9. FractaNet comme généralisation territoriale
 
