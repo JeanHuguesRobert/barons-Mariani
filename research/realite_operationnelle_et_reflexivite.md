@@ -4,7 +4,7 @@ subtitle: "Agir comme si, témoigner, expérimenter et laisser les cartes modifi
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-08-10"
-version: "0.1"
+version: "0.2"
 status: "working-note — source"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -34,6 +34,7 @@ related_documents:
   - "research/possibilism_04_2026.md"
   - "research/potentics.md"
   - "research/theorie_des_jeux_corpus.md"
+  - "research/triangulation_du_reel.md"
 tags:
   - reel
   - realite-operationnelle
@@ -43,6 +44,7 @@ tags:
   - carte-territoire
   - potentics
   - experimentation
+  - triangulation
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -61,6 +63,8 @@ Le noyau tient en trois propositions :
 2. l'acteur possibiliste est à la fois témoin et acteur, souvent expérimentateur ;
 3. une carte observée par un acteur capable d'agir peut modifier le territoire qu'elle décrit.
 
+La version 0.2 explicite en outre un principe déjà latent dans ce cadre : l'accès au Réel étant médié, la robustesse d'une carte dépend du croisement de voies d'observation distinctes. Ce principe est développé dans [*Triangulation du Réel*](triangulation_du_reel.md).
+
 ---
 
 ## 1. Trois registres à distinguer
@@ -78,6 +82,8 @@ Ce registre vise le statut ultime ou au moins indépendant de nos conventions d'
 Question : **qu'est-ce que nous sommes raisonnablement fondés à tenir pour vrai, faux, probable ou indéterminé ?**
 
 Ce registre dépend des traces, instruments, témoignages, modèles, objections et procédures de correction.
+
+La réalité épistémique ne dépend donc pas d'une source souveraine unique. Elle se renforce lorsque plusieurs voies d'accès au même phénomène sont suffisamment distinctes pour se corroborer, se contredire et se corriger mutuellement. Le Corpus nomme explicitement cette discipline **triangulation du Réel**.
 
 ### Réalité opérationnelle
 
@@ -174,6 +180,23 @@ territoire
 Lorsque l'action est choisie précisément pour faire répondre le Réel à une hypothèse, le témoin-acteur devient **expérimentateur**.
 
 > **Le Réel est ce qui répond ; l'action peut être une manière de l'interroger.**
+
+### 4.1 Plusieurs témoins, plusieurs instruments, plusieurs réponses
+
+Un témoin unique, même sincère, ne suffit pas toujours. Un instrument unique peut être mal calibré. Plusieurs publications peuvent dépendre d'une même source originale. Une déclaration peut différer du comportement qu'elle cherche à décrire.
+
+L'exploration rationnelle doit donc, lorsque l'enjeu le justifie, multiplier non seulement les sources mais les **modes d'accès** : observation, mesure, document primaire, comportement, conséquence, reproduction, objection indépendante.
+
+```text
+phénomène
+-> accès A
+-> accès B
+-> accès C
+-> confrontation
+-> carte provisoire
+```
+
+> **La triangulation du Réel ne cherche pas trois confirmations ; elle cherche plusieurs accès capables de se corriger mutuellement.**
 
 ---
 
