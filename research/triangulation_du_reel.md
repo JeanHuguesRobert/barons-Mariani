@@ -3,8 +3,8 @@ title: "Triangulation du Réel"
 subtitle: "Croiser des accès partiels, indépendants et hétérogènes pour construire une connaissance corrigible"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-05"
-version: "0.1"
+date: "2026-09-06"
+version: "0.2"
 status: "working-note — explicititation of latent corpus principle"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -25,6 +25,8 @@ tags:
   - reel
   - epistemologie
   - triangulation
+  - convergence
+  - black-swan
   - recoupement
   - sources
   - traces
@@ -44,6 +46,22 @@ Le principe ne crée donc pas une doctrine nouvelle. Il donne un nom commun à d
 > **Ce qui va sans dire va encore mieux en le disant.**
 
 La formule est couramment attribuée à Talleyrand ; son attribution exacte importe moins ici que le principe méthodologique qu'elle illustre : une règle seulement implicite est plus difficile à transmettre, auditer et appliquer qu'une règle explicitement nommée.
+
+## 0. Antériorité : aucune revendication d'originalité
+
+La **triangulation** est une notion méthodologique ancienne. Sa métaphore vient de la géométrie, de la navigation et de la localisation par plusieurs points de référence. Dans les sciences humaines et sociales, Campbell et Fiske (1959) ont notamment formalisé la validation convergente par plusieurs méthodes de mesure ; Webb et ses coauteurs (1966) ont prolongé cette logique de *multiple operationalism* ; Denzin l'a ensuite systématisée en distinguant notamment triangulation des données, des chercheurs, des théories et des méthodes.
+
+La philosophie contemporaine des sciences poursuit ce chantier sous les notions de **diversité des preuves** (*evidential diversity / variety*) et de triangulation des phénomènes. Kuorikoski et Marchionni soulignent notamment l'intérêt épistémique de sources de preuves multiples et suffisamment indépendantes pour contrôler des erreurs et biais propres aux différents processus qui produisent les données.
+
+Le présent Corpus ne revendique donc **aucune originalité sur le principe de triangulation lui-même**. Son intérêt éventuel réside dans son articulation avec d'autres briques du Corpus : accès indirect au Réel, provenance, généalogie informationnelle, contradiction, Carte/Territoire, expérimentation, *Le Réel répond*, Seconde Méthode, agents cognitifs et correction continue.
+
+Références de départ :
+
+- Campbell, D. T. & Fiske, D. W. (1959), *Convergent and Discriminant Validation by the Multitrait-Multimethod Matrix*, Psychological Bulletin 56, 81–105.
+- Webb, E. J., Campbell, D. T., Schwartz, R. D. & Sechrest, L. (1966), *Unobtrusive Measures: Nonreactive Research in the Social Sciences*.
+- Denzin, N. K. (1970/1978), *The Research Act*.
+- Kuorikoski, J. & Marchionni, C. (2016), *Evidential Diversity and the Triangulation of Phenomena*, Philosophy of Science 83(2), 227–247.
+- Kuorikoski, J. & Marchionni, C. (2023), *Evidential Variety and Mixed-Methods Research in Social Science*, Philosophy of Science 90(5), 1449–1458.
 
 ## 1. Accès indirect au Réel
 
@@ -111,11 +129,11 @@ hypothèse
 
 La triangulation n'est pas distincte de la boucle « Le Réel répond » : elle en est une discipline épistémique.
 
-## 4. Corroboration et contradiction
+## 4. Corroboration, contradiction et convergence
 
 La triangulation n'a pas pour but de fabriquer artificiellement un consensus.
 
-Lorsque plusieurs voies indépendantes convergent, la confiance peut augmenter. Lorsqu'elles divergent, la divergence est elle-même une information.
+Lorsque plusieurs voies suffisamment indépendantes convergent, la confiance peut augmenter. Lorsqu'elles divergent, la divergence est elle-même une information.
 
 Principe :
 
@@ -132,7 +150,54 @@ Elle peut révéler :
 - une différence entre théorie juridique et pratique effective ;
 - une différence entre discours déclaré et comportement réel.
 
-## 5. Application démocratique
+La boucle peut être répétée. Chaque contradiction résolue, nouvelle mesure, nouvelle source réellement indépendante ou expérience informative peut corriger la Carte. De **correction en correction**, une forme de convergence peut alors se matérialiser : non pas nécessairement vers une certitude absolue, mais vers une représentation qui explique davantage d'observations, résiste à davantage de tests et dépend de moins d'hypothèses fragiles.
+
+```text
+Carte_0
+-> triangulation
+-> correction
+-> Carte_1
+-> nouvelle triangulation
+-> correction
+-> Carte_2
+-> ...
+-> convergence éventuelle vers une meilleure connaissance du Réel
+```
+
+Cette convergence est un **processus**, non un certificat de vérité.
+
+## 5. Le gros « mais » : Black Swan et monde ouvert
+
+Une convergence, même remarquable, reste faillible. Les observations passées peuvent toutes être compatibles avec une carte et une observation nouvelle révéler brutalement qu'elle était incomplète ou que son domaine de validité était beaucoup plus étroit qu'on ne le croyait.
+
+Le **Black Swan**, au sens popularisé par Nassim Nicholas Taleb, fournit ici une figure utile : un événement ou une observation rare, extérieure aux anticipations ordinaires, peut avoir des conséquences considérables et conduire rétrospectivement à réviser fortement le modèle qui semblait jusque-là robuste.
+
+La triangulation réduit certaines erreurs ; elle **n'abolit pas l'inconnu**. En particulier :
+
+- plusieurs sources peuvent partager un biais causal encore invisible ;
+- l'échantillon d'observations peut ne jamais avoir rencontré une classe d'événements possible ;
+- un régime jusque-là stable peut changer ;
+- un phénomène peut être non stationnaire ;
+- l'absence répétée d'un événement n'établit pas son impossibilité ;
+- la convergence de nos cartes peut refléter les limites communes de nos instruments plutôt que la structure complète du Réel.
+
+Il faut donc distinguer :
+
+> **convergence des observations disponibles**
+
+et
+
+> **clôture du champ des possibles**.
+
+La première peut être rationnellement très forte. La seconde est généralement inaccessible dans un monde ouvert.
+
+Conséquence pour le Corpus : **plus une carte paraît stabilisée, moins il faut confondre stabilité acquise et immunité à la surprise.** Une bonne architecture cognitive doit conserver la possibilité d'une révision profonde lorsque le Réel produit une réponse que la carte ne savait même pas formuler.
+
+Le Black Swan n'invalide donc pas la triangulation. Il en fixe une limite fondamentale et justifie son caractère permanent :
+
+> **Trianguler pour converger ; rester corrigible parce que le Réel peut encore surprendre.**
+
+## 6. Application démocratique
 
 La démocratie fournit un cas particulièrement clair.
 
@@ -155,7 +220,7 @@ Le processus d'autonomie de la Corse fournit un exemple actuel : distinguer une 
 
 Le même principe vaut pour la crise de la représentation : l'abstention, prise isolément, est ambiguë ; elle devient plus informative lorsqu'elle est confrontée à des enquêtes sur la confiance, à l'attachement déclaré à la démocratie, à la demande de participation directe et aux précédents où le vote populaire a été perçu comme contourné.
 
-## 6. Conséquences pour les agents et le Corpus
+## 7. Conséquences pour les agents et le Corpus
 
 Un agent rationnel ne devrait pas seulement « chercher plusieurs sources ». Il devrait rechercher, lorsque l'enjeu le justifie, **plusieurs modes d'observation**.
 
@@ -167,15 +232,19 @@ Il devrait notamment pouvoir demander :
 4. Existe-t-il une source primaire ?
 5. Quelles conséquences observables permettraient au Réel de répondre ?
 6. Quelle information ferait changer la carte actuelle ?
+7. Qu'est-ce que toutes les observations actuelles pourraient avoir en commun et qui rendrait leur convergence trompeuse ?
+8. Quel événement improbable mais possible invaliderait fortement la carte ?
 
 Cette discipline complète la provenance, le versionnage, la contradiction, la revue externe et l'expérimentation réversible déjà présents dans le Corpus.
 
-## 7. Formule canonique
+## 8. Formule canonique
 
 > **Nous n'accédons au Réel que par des voies partielles et médiées. La robustesse d'une connaissance dépend moins du nombre apparent de sources que de la diversité, de l'indépendance et de la confrontabilité de leurs accès au phénomène observé.**
 
+Forme dynamique :
+
+> **La triangulation successive peut faire converger des cartes de mieux en mieux ajustées au Réel, sans jamais transformer cette convergence en garantie contre une réponse radicalement nouvelle du Réel.**
+
 Forme courte :
 
-> **Trianguler le Réel, c'est croiser des réponses différentes du Réel avant de stabiliser la carte.**
-
-Cette stabilisation reste provisoire : une nouvelle trace, une contradiction mieux fondée ou une nouvelle réponse du Réel peut imposer de corriger la carte.
+> **Trianguler pour converger ; rester corrigible parce que le Réel peut encore surprendre.**
