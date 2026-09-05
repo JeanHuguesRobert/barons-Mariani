@@ -3,7 +3,8 @@ canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/rese
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-09-05
+last_modified_at: "2026-09-05"
 title: "What is Potentics?"
 date: "2026-05-09"
 status: "draft — auto-filled (frontmatter cleanup)"
@@ -14,10 +15,16 @@ lifecycle_state: "working"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "research-paper"
-classification_confidence: "medium"
+classification_confidence: "high"
+related_documents:
+  - "research/potentics_of_compute.md"
+  - "research/the_network_is_the_learning_computer.md"
+  - "cogentia/research/learning_computer_genese_et_architecture.md"
+  - "research/principe_rossignol.md"
 changelog:
   - "2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated."
   - "2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map' exploration loop (§1.4)."
+  - "2026-09-05 — propagation Issue #55: integrated computational potentics (§3.1, §3.3.1, §3.5.1, §7.2): Compute dimension (chi), collective achievable capacity C_collective(T), RAIX array gain G_RAIX(T) as empirical measure of the Spirit of Synthesis, policy learning, and link to potentics_of_compute.md v0.4 and learning_computer_genese_et_architecture.md."
 ---
 # What is Potentics?
 
@@ -234,13 +241,15 @@ A potentiality Π is provisionally structured along several dimensions:
 
 - **Reversibility** (ρ): the degree to which the actualization, once achieved, can be undone. Low reversibility increases the stakes of the decision to pursue.
 
+- **Compute Potentiality** (χ): the computational capability, algorithmic topology, and execution fabric available to simulate, evaluate, or orchestrate the transformation. As formalised in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)), compute is not merely passive energy or fixed tooling; it is the active exploratory medium through which other potentialities are discovered, measured, and synthesized.
+
 These dimensions are not independent. High propensity may reduce required effort. High reversibility may increase the value of attempting actualization despite low propensity. The relationships between dimensions are themselves objects of Potentic inquiry.
 
 ### 3.2 The Ambition of Unification
 
 The long-term ambition of Potentics is to unify these dimensions into a single scalar metric:
 
-> **Π(p) = f(φ, ε, υ, ρ, ...)**
+> **Π(p) = f(φ, ε, υ, ρ, χ, ...)**
 
 such that potentialities of heterogeneous types — territorial, institutional, technical, biological, social — can be compared on a common scale.
 
@@ -257,6 +266,16 @@ Before pursuing the actualization of a potentiality, Potentics requires evaluati
 This *epistemic metapotentiality* answers the question: is it worth investigating before acting? It frames the decision to design an experiment, commission a study, or run a pilot as itself a potentiality to be evaluated.
 
 In practice, Π_e is often the more important quantity: the cost of pursuing a potentiality that turns out to be illusory is typically much higher than the cost of a well-designed investigation that reveals this before significant resources are committed.
+
+### 3.3.1 Compute Potentiality and Epistemic Metapotentiality (χ → Π_e)
+
+The dimension of Compute (χ) maintains a privileged, structural relationship with the Epistemic Metapotentiality (Π_e).
+
+Investigating whether Π(p) is real requires processing information: exploring alternative configurations, running models, cross-checking evidence, and testing boundaries. In contemporary socio-technical systems, this investigation is conducted largely through computational substrates.
+
+When computational capacity (χ) increases or becomes dynamically composable (as in Cognitive Packet Switching and RAIX capability arrays), the *effort* (ε) required to evaluate Π_e(p) drops precipitously, while the epistemic yield increases:
+$$\chi \text{ lowers the entry barrier to } \Pi_e$$
+By making exploratory simulations, adversarial red-teaming, and counter-factual analysis orders of magnitude cheaper, high χ enables an agent or community to evaluate hundreds of candidate possibilities that would previously have been abandoned as too costly to investigate.
 
 ### 3.4 The Expanding Realized
 
@@ -303,6 +322,23 @@ realization changes what becomes accessible next
 ```
 
 > Synthesis can enlarge the accessible possible by creating new combinations and capabilities.
+
+### 3.5.1 Collective Achievable Capacity and the Spirit of Synthesis ($C_{\text{collective}}(T)$ and $G_{\text{RAIX}}$)
+
+The Spirit of Synthesis finds an exact mathematical and empirical formalization in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)) through the concept of **collective achievable capacity**.
+
+Consider $n$ heterogeneous capabilities or processors $C_1, C_2, \ldots, C_n$. When assembled under an interaction and routing topology $T$, their collective capacity is not a scalar addition, but a functional composition:
+$$C_{\text{collective}}(T) = F_T(C_1, C_2, \ldots, C_n)$$
+
+The empirical test of whether the Spirit of Synthesis is actively operating is given by the **RAIX array gain metric** $G_{\text{RAIX}}(T)$:
+$$G_{\text{RAIX}}(T) = \frac{\text{Capability}(C_{\text{collective}}(T))}{\sum_{i=1}^n \text{Capability}(C_i)}$$
+
+Three distinct regimes emerge:
+1. **Super-additivity ($G_{\text{RAIX}} > 1$) :** The Spirit of Synthesis is genuinely achieved. Plural, specialized capabilities (e.g., deterministic real-time MCU, neural NPU, edge SBC, and external reasoning model) cooperate to achieve tasks that no individual processor nor simple parallel replication could ever achieve.
+2. **Strict redundancy ($G_{\text{RAIX}} = 1$) :** Pure replication for fault tolerance without qualitative expansion of accessible possibles.
+3. **Collective deficit ($G_{\text{RAIX}} < 1$) :** The coordination overhead and latency trap dominate, shrinking the accessible possible.
+
+Furthermore, under **policy learning** (as embodied in the Ithaca memory of the [Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md)), the system continuously learns *which* topology $T$ maximizes $G_{\text{RAIX}}(T)$ for each class of task, transforming the Spirit of Synthesis from a static philosophical concept into a trainable, evolutionary computational discipline.
 
 ---
 

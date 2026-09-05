@@ -4,8 +4,8 @@ subtitle: "From traces and trajectories to reusable, non-prescriptive paths of e
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-30"
-last_modified_at: "2026-08-30"
-version: "0.1"
+last_modified_at: "2026-09-05"
+version: "0.2"
 status: "working-note — conceptual consolidation"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -27,6 +27,9 @@ related_documents:
   - "research/rational_odysseys_the_possible.md"
   - "research/potentics.md"
   - "research/shared_semantic_codec_and_proverb_regime.md"
+  - "research/the_network_is_the_learning_computer.md"
+  - "research/the_network_is_the_learning_computer_raix_addendum.md"
+  - "research/potentics_of_compute.md"
 tags:
   - trails
   - traces
@@ -38,6 +41,10 @@ tags:
   - reactive-corpus
   - exploration
   - potentics
+  - physarum
+  - learning-computer
+  - ithaca
+  - cognitive-packets
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -159,6 +166,28 @@ A Trail can therefore be viewed provisionally as **consolidated stigmergy**.
 
 This also explains why Trails should guide rather than prescribe. Stigmergic signals alter the probability of future traversal; they should not erase alternatives.
 
+### 8.1 Flow-topology co-evolution: the Physarum model and Ithaca assimilation
+
+The living, adaptive dynamics of a Trail find a grounded biological existence proof in the plasmodial slime mould *Physarum polycephalum* (see [`the_network_is_the_learning_computer.md`](file:///C:/tweesic/barons-Mariani/research/the_network_is_the_learning_computer.md#L1064-L1110)). In *Physarum*, navigation and path selection do not depend on a central planner holding a global map; rather, flow, local feedback, and network topology co-evolve:
+
+$$
+\text{flow} \longrightarrow \text{local feedback} \longrightarrow \text{topology change} \longrightarrow \text{changed future flow}
+$$
+
+Productive tubular channels are reinforced by fluid flux, less useful channels regress through atrophy, and extracellular slime traces act as an externalized spatial memory preventing redundant traversal of dead ends.
+
+In the architecture of the **Learning Computer** and **Cognitive Packet Switching (CPS)**, trails operate under an isomorphic dynamic:
+
+$$
+\text{cognitive packets} \longrightarrow \text{telemetry / traces} \longrightarrow \text{trail consolidation / routing policy} \longrightarrow \text{changed future packet journeys}
+$$
+
+1. **Packet journeys leave traces:** When cognitive packets traverse nodes and temporary capability arrays (RAIX), their journeys generate telemetry, success/failure signals, and execution residues.
+2. **Ithaca assimilation consolidates trails:** The return of telemetry to the originating authority (e.g. Ithaca / Ithaque) or local stigmergic markers updates the corpus and routing topology.
+3. **Topology shapes future exploration:** A consolidated Trail changes the effective conductance of the epistemic network. Explorers (human or synthetic agents) are guided along viable paths without being blinded to alternative routes ("sortir des sentiers battus").
+
+Thus, a Trail is neither a static dead record nor an imperious rule: it is an active, co-evolving structure where exploration history shapes future computational conductance.
+
 ## 9. Trail and Pattern
 
 A Trail remains historically and territorially grounded. A Pattern abstracts a recurrent form that may transfer elsewhere.
@@ -252,7 +281,14 @@ This relation should be explored without conflating the Trail itself with the ex
 8. How should agents deliberately search outside strong Trails?
 9. What is the exact relationship with Continuation Closure?
 10. When does a Trail become sufficiently abstract to be considered a Pattern?
+11. How does the rate of trail decay or reinforcement in a Reactive Corpus prevent stigmergic lock-in while preserving epistemic stability across autonomous agent dispatches?
 
 ## 14. Status
 
 This is a **working consolidation**, not a canonical redefinition. Before integration into `potentics_exploration_ontology.md`, the concept should undergo an inventory of existing usages and the usual Redactor/Reviewer cycle.
+
+## 15. Changelog
+
+- `v0.2` (2026-09-05) — Integrates flow-topology co-evolution and biological stigmergy (*Physarum polycephalum*), connects trail reinforcement to Ithaca assimilation and routing policy updates in the Learning Computer / CPS architecture (Issue #55).
+- `v0.1` (2026-08-30) — Initial working note on trails as consolidated orientation.
+
