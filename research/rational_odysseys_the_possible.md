@@ -5,6 +5,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 date: "2026-07-10"
+last_modified_at: "2026-09-05"
+version: "0.2"
 status: "working-note"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -20,6 +22,9 @@ related_documents:
   - "inseme/research/cop_mission_stigmergy_exploration.md"
   - "FractaVolta/research/fractalog.md"
   - "FractaVolta/research/ownership_packets_and_cop.md"
+  - "research/the_network_is_the_learning_computer.md"
+  - "cogentia/research/learning_computer_genese_et_architecture.md"
+  - "research/potentics_of_compute.md"
 tags:
   - potentics
   - the-possible
@@ -31,6 +36,9 @@ tags:
   - mythology
   - cop
   - fractalog
+  - two-odysseys
+  - learning-computer
+  - ithaca
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -155,6 +163,26 @@ An exploration has value only if it returns.
 Without return, there is only wandering. Without a logbook, experience disappears. Without a map, those who follow start again from zero. Without a narrative, discovery remains private. Without a corpus, society does not increase its capacity.
 
 > Every mission needs its Ithaca: the place where experience returns and becomes transmissible memory.
+
+### 4.1 The Two-Odyssey Reality Test: operational criterion of the Learning Computer
+
+In *The Network is the Learning Computer* ([`the_network_is_the_learning_computer.md`](the_network_is_the_learning_computer.md#L1323-L1380)), the Odyssey grammar moves from an epistemological metaphor to the **decisive empirical Reality test** of machine learning:
+
+1. **Odyssey A ($P_A$):** An initial cognitive packet is emitted into The Possible. It traverses handlers or dynamic capability arrays (RAIX), encounters operational surprises, reveals friction or capability mismatches, and returns. Its trace residues and operational yields are assimilated into Ithaca:
+   $$
+   \text{Ithaca}_0 \longrightarrow \text{Ithaca}_1
+   $$
+2. **Odyssey B ($P_B$):** A comparable packet is subsequently emitted into The Possible.
+3. **The Pass Condition:** Without any test-specific hard-coded exception, the general learning mechanism must produce an observably different journey:
+   $$
+   \text{Journey}(P_B \mid \text{Ithaca}_1) \neq \text{Journey}(P_B \mid \text{Ithaca}_0)
+   $$
+   because Odyssey A occurred:
+   $$
+   P_A \longrightarrow \text{Experience} \longrightarrow \text{Return} \longrightarrow \text{Assimilation} \longrightarrow \text{ChangedState} \longrightarrow \text{ChangedBehavior}(P_B)
+   $$
+
+If the second voyage repeats identical errors despite relevant memory, the learning claim fails. The rational exploration of The Possible is thus defined operatively: exploration is not passive accumulation of residues, but the continuous, verifiable reconfiguration of future trajectories by past returns.
 
 ---
 
@@ -537,3 +565,11 @@ Sometimes produce a theory.
 A capable society is not one that pretends to foresee everything from a center. It is a society that knows how to send scouts, preserve their traces, compare their accounts, correct its maps, and transform scattered experience into collective capacity.
 
 That is the challenge: no longer merely endure the world as it is, but learn to rationally explore The Possible.
+
+---
+
+## 19. Changelog
+
+- `v0.2` (2026-09-05) — Integrates the Two-Odyssey Reality Test ($P_A \to \text{Experience} \to \text{Return} \to \text{Assimilation} \to \text{ChangedBehavior}(P_B)$) as the operational success criterion of the Learning Computer in the rational exploration of The Possible (Issue #55).
+- `v0.1` (2026-07-10) — Initial working note on mythic grammar, stigmergy, mission, return, and synthesis in the rational exploration of The Possible.
+
