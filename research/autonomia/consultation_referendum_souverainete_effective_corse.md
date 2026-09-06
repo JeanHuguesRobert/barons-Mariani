@@ -1,27 +1,57 @@
 ---
 title: "Consultation, référendum et souveraineté effective"
 subtitle: "Le test démocratique du projet d’autonomie de la Corse"
+description: "Analyse documentaire et doctrinale de la portée démocratique de la consultation des électeurs corses prévue par le projet d'article 72-5, distinguant consultation, référendum, ratification et pouvoir effectif."
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-06"
-version: "0.1"
-status: "working-note — documentary and doctrinal analysis"
-language: fr
+last_modified_at: "2026-09-06"
+version: "0.2"
+status: "working-paper — documentary and doctrinal analysis"
+language: "fr"
 license: "CC BY-SA 4.0"
-document_role: source
-document_kind: research-note
-visibility: public
-lifecycle_state: working
-repository: JeanHuguesRobert/barons-Mariani
-canonical_path: research/autonomia/consultation_referendum_souverainete_effective_corse.md
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/consultation_referendum_souverainete_effective_corse.md"
+last_stamped_at: "2026-09-06"
+ai_assisted_by:
+  - "GPT-5.6 Sol — documentary synthesis, drafting, and frontmatter correction"
+document_role: "source"
+document_kind: "research-note"
+visibility: "public"
+lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
+provenance:
+  origin_type: "conversation"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "unknown"
+  origin_date: "2026-09-06"
+  derived_from:
+    - "research/chronologie_processus_beauvau_corse.md"
+    - "research/autonomia/mise_a_jour_processus_beauvau_2026-09.md"
+    - "research/note_synthetique_autonomie_capacite_corse.md"
+    - "research/democratie_capable.md"
+    - "research/triangulation_du_reel.md"
+    - "research/autonomia/follow_the_power_premier_test.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 related_documents:
-  - ../chronologie_processus_beauvau_corse.md
-  - mise_a_jour_processus_beauvau_2026-09.md
-  - ../note_synthetique_autonomie_capacite_corse.md
-  - ../democratie_capable.md
-  - ../triangulation_du_reel.md
-  - follow_the_power_premier_test.md
-tags: [corse, autonomie, beauvau, consultation, referendum, souverainete, democratie-directe, autonomie-de-capacite, follow-the-power, triangulation]
+  - "../chronologie_processus_beauvau_corse.md"
+  - "mise_a_jour_processus_beauvau_2026-09.md"
+  - "../note_synthetique_autonomie_capacite_corse.md"
+  - "../democratie_capable.md"
+  - "../triangulation_du_reel.md"
+  - "follow_the_power_premier_test.md"
+tags:
+  - corse
+  - autonomie
+  - beauvau
+  - consultation
+  - referendum
+  - souverainete
+  - democratie-directe
+  - autonomie-de-capacite
+  - follow-the-power
+  - triangulation
 ---
 
 # Consultation, référendum et souveraineté effective
