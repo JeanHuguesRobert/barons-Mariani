@@ -77,11 +77,37 @@ Dans les contentieux portant sur des dommages graves, et plus encore dans les hy
 
 Dans un tel contexte, chaque acteur peut soutenir que sa contribution n’a pas été décisive. L’administration invoque ses délais, l’établissement ses procédures, les professionnels de santé les limites de leur intervention, la famille ses propres difficultés, et le juge se trouve en présence d’un enchevêtrement de facteurs difficilement hiérarchisables. La conséquence en est une désindividualisation de la faute et, souvent, une dilution de l’imputation.
 
-### B. La logique de la perte de chance
+### B. La logique de la perte de chance : dilution et préservation de l’imputation
 
-Le contentieux public et médical recourt fréquemment à la notion de perte de chance lorsque le dommage résulte d’une suite d’événements complexes. Cette technique permet de réparer une probabilité d’éviter le dommage, plutôt que le dommage lui-même dans toute son ampleur. Elle est utile, mais elle a aussi pour effet de déplacer le centre de gravité du débat : l’enjeu devient moins de savoir si une institution aurait dû empêcher le dommage que de déterminer si elle a réduit les chances de l’éviter.
+Le contentieux public et médical recourt à la notion de perte de chance dans certaines situations où il n’est pas possible d’affirmer avec certitude qu’un comportement différent aurait évité le dommage. Cette technique permet alors de raisonner sur la disparition ou la diminution d’une possibilité favorable plutôt que d’exiger la preuve d’une causalité totale.
 
-Dans les parcours de vulnérabilité grave, cette logique peut contribuer à une forme de dilution normative. Le dommage ultime demeure, mais sa responsabilité est réduite à une fraction probabiliste, ce qui rend plus difficile la mise en évidence d’une carence institutionnelle d’ensemble.
+Elle peut ainsi jouer deux rôles qu’il convient de distinguer.
+
+D’un côté, la perte de chance peut contribuer à une **dilution normative** : le dommage ultime demeure, mais la responsabilité est ramenée à une fraction probabiliste. Si ce raisonnement est appliqué acteur par acteur sans analyse de la chaîne d’ensemble, il peut rendre moins visible une carence institutionnelle systémique.
+
+D’un autre côté, la perte de chance peut constituer un **outil de préservation de l’imputation** face à la multicausalité. Le fait qu’un acteur ne soit ni la cause unique ni la cause certaine d’un dommage ne signifie pas nécessairement que sa contribution soit nulle. Une décision, une omission, un délai ou une rupture de continuité peuvent avoir supprimé ou diminué une possibilité réelle de protection sans que l’on puisse démontrer que cette possibilité aurait certainement empêché l’issue finale.
+
+La formule de travail est donc :
+
+> **Causalité partielle n’est pas causalité nulle.**
+
+Cette formule ne constitue ni une règle de droit autonome ni une conclusion sur un cas particulier. Elle indique une discipline d’enquête : ne pas déduire de l’incertitude causale l’absence de toute contribution, mais ne pas transformer non plus une contribution plausible en causalité démontrée.
+
+Une analyse rigoureuse peut alors procéder par chaîne contrefactuelle bornée :
+
+```text
+fait / décision / omission documenté
+→ capacité ou comportement effectivement affecté
+→ possibilité favorable compromise, retardée ou rendue moins accessible
+→ alternative réaliste disponible à l'époque
+→ mécanisme causal plausible
+→ perte de chance éventuelle
+→ niveau de preuve, incertitudes et facteurs concurrents
+```
+
+Le contrefactuel n’est pas un récit alternatif libre. Il doit rester contraint par les traces contemporaines, les possibilités réellement disponibles, le droit applicable et les connaissances établies. Dans les situations de suicide en particulier, ce cadre doit préserver explicitement la pluralité des facteurs médicaux, psychiques, sociaux, familiaux, institutionnels et personnels.
+
+Cette double fonction de la perte de chance — éviter la dissolution complète de l’imputation tout en risquant elle-même de fragmenter la responsabilité — constitue une question de recherche à approfondir par une revue juridique et jurisprudentielle contradictoire. Elle est notamment suivie dans l’issue GitHub #47 du projet *Suicide Corse*.
 
 ### C. La normalité administrative comme facteur d’occultation
 
