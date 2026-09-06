@@ -1,25 +1,60 @@
 ---
 title: "Presence Ecology and Management — From Presence Maps to Agentic Presence Strategy"
-author: "Jean Hugues Robert"
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-06"
 version: "0.1"
 license: "CC BY-SA 4.0"
+language: "en"
+status: "working-paper"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/presence_ecology_and_management.md"
+last_stamped_at: "unknown"
+update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source-addendum"
 document_kind: "research-note"
 visibility: "public"
-status: "working"
 lifecycle_state: "working"
+methodology:
+  - "Cogentia Commons"
+  - "Living Frontmatter candidate — Cogentia #159"
+ai_assisted_by:
+  - "GPT-5.6 Sol — research, structuring and drafting assistance"
+provenance:
+  origin_type: "conversation"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "unavailable"
+  origin_date: "2026-09-06"
+  derived_from:
+    - "research/presencology.md"
+    - "research/presencology_digital_social_presence_twins.md"
+  origin:
+    kind: "conversation"
+    ref:
+      status: "unavailable"
+      reason: "No durable conversation identifier is currently materialized in the corpus."
+    date: "2026-09-06"
+  derivation:
+    from:
+      - "research/presencology.md"
+      - "research/presencology_digital_social_presence_twins.md"
+      - "JeanHuguesRobert/inseme:research/interactions_registry_and_multichannel_messaging.md"
+      - "JeanHuguesRobert/inseme:research/discord_edge.md"
+      - "JeanHuguesRobert/cogentia:research/byoc_external_interaction_edges.md"
+  materialization:
+    repository: "JeanHuguesRobert/barons-Mariani"
+    path: "research/presence_ecology_and_management.md"
+    initial_commit: "72a2f9435829fed5a78900ab0b08625383c9d262"
 review:
   status: "unreviewed"
   reviewed_by: []
-update_policy: "review before stabilization"
-related:
-  - research/presencology.md
-  - research/presencology_digital_social_presence_twins.md
+related_documents:
+  - "research/presencology.md"
+  - "research/presencology_digital_social_presence_twins.md"
   - "JeanHuguesRobert/inseme:research/interactions_registry_and_multichannel_messaging.md"
   - "JeanHuguesRobert/inseme:research/discord_edge.md"
   - "JeanHuguesRobert/cogentia:research/byoc_external_interaction_edges.md"
   - "JeanHuguesRobert/barons-Mariani#56"
+  - "JeanHuguesRobert/cogentia#159"
 ---
 
 # Presence Ecology and Management
