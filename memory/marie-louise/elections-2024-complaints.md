@@ -188,6 +188,14 @@ Elle ne permet cependant **aucune conclusion causale automatique**. Ce dossier d
 4. les éléments personnels ultérieurs ;
 5. toute éventuelle analyse causale, qui devrait être étayée par des éléments indépendants.
 
+### Lien avec l'enquête `Suicide Corse`
+
+La présence, dans les pièces de juillet 2024, d'une allégation contemporaine de préjudice moral constitue une **trace pertinente pour une enquête causale ultérieure**, précisément parce qu'elle précède le décès et n'est donc pas une reconstruction postérieure.
+
+Elle ne démontre toutefois ni l'intensité objective de ce préjudice, ni sa persistance, ni son rôle causal éventuel dans le suicide. Ces questions doivent rester dans un conteneur de recherche distinct, contradictoire et explicitement probabiliste.
+
+L'issue [#47 — Suicide Corse — enquêter sur la thèse « la Machine à Empêcher peut tuer »](https://github.com/JeanHuguesRobert/barons-Mariani/issues/47) porte cette enquête et prévoit notamment de distinguer traces, mécanismes généraux, hypothèses d'application, contrefactuels, perte de chance et inconnues.
+
 ## 10. Prochaines recherches documentaires
 
 - retrouver toute preuve du **dépôt physique** au tribunal de Bastia : tampon, récépissé, photo, scan, agenda, témoin ou bordereau ;
