@@ -109,6 +109,88 @@ territoire + sujet + possible + contexte
 
 La comparaison entre territoires devient alors particulièrement instructive : un même possible poursuivi par des sujets comparables peut révéler des gradients territoriaux de potentialité.
 
+## 4 bis. Perte de Possible territoriale
+
+La Potentique territoriale doit pouvoir décrire non seulement l'état présent d'un champ de possibles, mais aussi sa **dégradation dans le temps**.
+
+On appelle provisoirement **perte de Possible territoriale** une réduction documentable, pour un territoire ou pour certains de ses habitants, de la potentialité de futurs auparavant raisonnablement accessibles. Cette réduction n'est pas nécessairement irréversible, totale, intentionnelle ni imputable à une cause unique.
+
+Cette notion est une catégorie de recherche potentique. Elle ne doit pas être confondue automatiquement avec la qualification juridique de **perte de chance**, qui obéit à ses propres conditions de droit positif.
+
+Trois formes doivent être distinguées :
+
+1. **perte de chance** : un futur favorable identifié reste concevable mais sa probabilité d'actualisation est diminuée ;
+2. **perte d'option** : une branche concrète du Possible devient indisponible ou cesse d'être raisonnablement accessible ;
+3. **perte de capacité** : le sujet perd une ressource, une compétence, une infrastructure, une institution ou une faculté générative qui lui permettait d'ouvrir ou d'actualiser d'autres possibles.
+
+La troisième forme peut produire une **perte potentique en cascade** :
+
+```text
+possible p0 non actualisé ou fermé
+→ capacité C non acquise ou dégradée
+→ possibles descendants p1…pn moins accessibles
+→ effets d'apprentissage / réseau / capitalisation non produits
+→ champ des possibles futur plus contraint
+```
+
+Une telle cascade ne doit jamais être reconstruite comme si tous les descendants auraient nécessairement été actualisés. Chaque maillon demande un niveau de preuve et un contrefactuel proportionnés.
+
+### 4 bis.1. Contrefactuel borné
+
+Une perte potentique candidate ne peut pas être établie par la seule affirmation qu'« autre chose aurait pu arriver ». Le contrefactuel doit être borné par des éléments observables :
+
+```text
+possible antérieur documenté
+→ capacités alors disponibles
+→ mécanisme facilitateur ou empêchant observable
+→ alternatives réalistes à l'époque
+→ comparateurs pertinents lorsque disponibles
+→ état effectivement observé
+→ différence de capacité / accessibilité / actualisation
+→ incertitude et explications concurrentes
+```
+
+La comparaison avec d'autres territoires est particulièrement utile lorsqu'elle porte sur des ressources, contraintes et périodes suffisamment comparables. Elle constitue un élément d'enquête, non une preuve automatique de causalité.
+
+### 4 bis.2. Ne pas confondre non-réalisation et perte
+
+Tout possible non actualisé n'est pas une perte. Une branche peut avoir été irréaliste, économiquement mauvaise, incompatible avec d'autres intérêts, remplacée par une meilleure option ou abandonnée rationnellement.
+
+Avant de qualifier une perte potentique candidate, il faut donc demander notamment :
+
+- le possible existait-il réellement dans le champ des options praticables ?
+- était-il techniquement, juridiquement, économiquement et institutionnellement accessible ?
+- quels sujets en auraient porté les coûts, risques et bénéfices ?
+- existe-t-il des traces d'une tentative, d'une proposition, d'un blocage ou d'un arbitrage ?
+- quelles alternatives concurrentes ont été retenues et avec quels résultats ?
+- quels facteurs externes expliquent éventuellement la non-réalisation ?
+
+### 4 bis.3. Premier Reality Case : énergie, flexibilité et compute en Corse
+
+Les travaux MareNostrum et FractaVolta fournissent un premier terrain quantifiable pour tester cette notion.
+
+Le cas ne doit pas être formulé comme « EDF a fait perdre tel futur à la Corse » avant enquête contradictoire. Il permet en revanche d'étudier séparément :
+
+- les coûts énergétiques observables et les coûts de pointe ;
+- la valeur théorique et pratique de davantage de flexibilité et de stockage ;
+- les mécanismes institutionnels, réglementaires et économiques qui facilitent ou retardent ces alternatives ;
+- les possibilités de développement d'une filière renouvelable locale ;
+- le couplage énergie renouvelable / compute flexible / datacenters à faible empreinte carbone ;
+- les capacités descendantes susceptibles d'être créées : compétences, infrastructures, entreprises, revenus, apprentissage et nouvelles options industrielles.
+
+Le Reality Case doit donc séparer au minimum :
+
+```text
+coût actuel observable
+≠ économie contrefactuelle estimée
+≠ perte de chance économique
+≠ perte d'option territoriale
+≠ perte de capacité générative
+≠ descendants potentiels non réalisés
+```
+
+Cette séparation évite de transformer une simulation économique ou une hypothèse stratégique en dommage établi.
+
 ## 5. Protocole minimal d'observation
 
 Une observation devrait, lorsque les données le permettent, conserver au moins :
@@ -133,6 +215,14 @@ observation:
   reality_response: ...
   reopened_possibles: ...
   closed_possibles: ...
+  prior_accessibility: ...
+  counterfactual: ...
+  comparators: ...
+  lost_chance_candidate: ...
+  lost_option_candidate: ...
+  lost_capacity_candidate: ...
+  descendant_possibles: ...
+  competing_explanations: ...
   uncertainty: ...
 ```
 
@@ -192,6 +282,8 @@ Les premiers cas peuvent provenir notamment :
 
 Un cas externe peut également servir à calibrer la méthode. L'exploration 2026 de l'accès EuroHPC, par exemple, fait apparaître des mécanismes possibles d'empêchement par catégories juridiques, affiliation, relation salariale, identité professionnelle, formats documentaires et architecture des canaux. Ces observations ne doivent être qualifiées qu'à partir de traces et de réponses institutionnelles effectivement obtenues : **Le Réel Répond**.
 
+Le cas énergie / flexibilité / compute doit être utilisé comme premier test de la **perte de Possible territoriale**, précisément parce qu'il permet de confronter des coûts observés, des alternatives techniques, des mécanismes institutionnels et des contrefactuels économiques sans supposer que toute branche non réalisée constituait une perte.
+
 ## 9. Programme de recherche
 
 Premières questions ouvertes :
@@ -205,12 +297,18 @@ Premières questions ouvertes :
 7. Comment transformer une observation en Reality Test reproductible ou comparable ?
 8. Comment permettre au CCDT de découvrir des Machines à Explorer, et pas seulement des empêchements ?
 9. Comment relier cette cartographie à l'évaluation empirique d'un futur statut d'autonomie de la Corse ?
+10. Comment distinguer rigoureusement perte de chance, perte d'option et perte de capacité à l'échelle territoriale ?
+11. Comment représenter une cascade de possibles descendants sans surévaluer des futurs spéculatifs ?
+12. Quels comparateurs territoriaux permettent de tester des contrefactuels suffisamment bornés ?
+13. Dans quels cas une perte potentique peut-elle être rouverte, compensée ou transformée par une Machine à Explorer ?
 
 ## 10. Principe de prudence épistémique
 
 La Potentique territoriale ne doit pas partir à la recherche de preuves qu'un territoire « empêche » ou « permet ».
 
 Elle part de possibles effectivement poursuivis, observe les trajectoires, conserve les traces, compare lorsque c'est possible, puis corrige sa Carte.
+
+Elle ne doit pas davantage partir de l'hypothèse qu'une possibilité non réalisée constitue nécessairement une perte. La notion de perte potentique est utile seulement si elle permet de mieux distinguer ce qui était praticable, ce qui a effectivement été compromis, ce qui reste spéculatif et ce qui peut être rouvert.
 
 > **Nous essayons de faire quelque chose. Nous observons ce qui nous aide et ce qui nous en empêche. Le Réel répond ; la Carte apprend.**
 
@@ -221,4 +319,6 @@ Elle part de possibles effectivement poursuivis, observe les trajectoires, conse
 - relier la méthode aux travaux Potentics, Machine à Explorer / Machine à Empêcher, Interaction Packets et traçabilité symétrique ;
 - instrumenter progressivement ces observations dans le Corsica Cogentia Digital Twin ;
 - comparer des possibles identiques entre Corse et autres territoires ;
+- construire le premier Reality Case « énergie / flexibilité / compute » à partir des travaux MareNostrum et FractaVolta ;
+- tester la notion de perte potentique sur d'autres domaines avant toute stabilisation plus forte ;
 - utiliser les résultats publics comme matériau de mesure de l'Autonomie de Capacité, sans transformer le CCDT en outil partisan.
