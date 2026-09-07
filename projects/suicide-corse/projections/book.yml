@@ -1,0 +1,45 @@
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-numero-0
+status: working
+language: fr
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+author: "Jean Hugues Noël Robert"
+source_manifest: ../corpus.yml
+
+chapters:
+  - ../manuscript/00-ouverture.md
+  - ../manuscript/01-marie-louise.md
+  - ../manuscript/02-fermeture-des-possibles.md
+  - ../manuscript/03-machine-a-empecher.md
+  - ../manuscript/04-realiser-impossible.md
+
+outputs:
+  required:
+    - html
+    - pdf
+  optional:
+    - epub
+
+render_contract:
+  canonical_source_format: markdown
+  generated_qmd_is_source: false
+  preserve_frontmatter_provenance: true
+  preserve_epistemic_distinctions: true
+  frozen_release_mutable: false
+
+provenance_manifest:
+  include_build_date: true
+  include_source_commit: true
+  include_renderer_version: true
+  include_projection_contract: true
+
+open_questions:
+  - "Final page format and print geometry."
+  - "Cover asset and rights metadata."
+  - "Citation/bibliography rendering convention."
+  - "License treatment for mixed-rights external assets."
+
+implementation_dependency:
+  repository: JeanHuguesRobert/ubikia
+  issue: 24
