@@ -1,0 +1,19 @@
+schema: suicide-corse.projection.conversational-agent.v0
+id: suicide-corse-agent
+status: placeholder
+language: fr
+source_manifest: ../corpus.yml
+purpose: "Explore the full Suicide Corse corpus while keeping the Marie-Louise documentary Twin distinct."
+modes:
+  - documentary
+  - contradiction
+  - hypotheses
+  - chronology
+  - politics
+  - changes-since-edition
+rules:
+  twin_marie_louise_is_distinct: true
+  invent_marie_louise_voice: false
+  expose_uncertainty: true
+  support_counterarguments: true
+related_issue: 50
