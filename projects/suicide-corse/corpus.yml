@@ -1,0 +1,87 @@
+schema: suicide-corse.corpus.v0
+project: "Suicide Corse"
+status: working
+language: fr
+visibility: public
+updated: "2026-09-07"
+source_of_truth: "repository corpus files; this manifest references them and does not replace them"
+
+sources:
+  - id: marie-louise-map
+    path: memory/marie-louise/carte.md
+    role: documentary-map
+    required: true
+    note: "Current synthesis map; preserve typed uncertainty and source distinctions."
+
+  - id: marie-louise-index
+    path: memory/marie-louise/README.md
+    role: source-index
+    required: true
+
+  - id: elections-2024-complaints
+    path: memory/marie-louise/elections-2024-complaints.md
+    role: source-note
+    required: true
+
+  - id: protection-responsable
+    path: research/protection_responsable.md
+    role: research-source
+    required: true
+    note: "Working research source; do not promote case-specific hypotheses to fact without primary evidence."
+
+  - id: second-method
+    path: research/second_method.md
+    role: methodological-source
+    required: true
+
+  - id: potentics
+    path: research/potentics.md
+    role: methodological-source
+    required: true
+
+  - id: possible
+    path: research/rational_odysseys_the_possible.md
+    role: conceptual-source
+    required: false
+
+  - id: autonomy-capacity-grammar
+    path: research/autonomia/grammaire_autonomie_de_capacite.md
+    role: political-method-source
+    required: false
+
+  - id: territorial-potentics
+    path: research/autonomia/potentique_territoriale.md
+    role: research-source
+    required: false
+
+issues:
+  parent: 42
+  bootstrap: 43
+  snapshot: 44
+  marie_louise_traces: 45
+  social_protection_hypothesis: 46
+  machine_a_empecher_causality: 47
+  twin_marie_louise: 48
+  screenplay: 49
+  conversational_agent: 50
+  reactive_publication: 51
+  protection_legislation: 52
+
+external_dependencies:
+  - repository: JeanHuguesRobert/ubikia
+    issue: 24
+    role: "minimal Markdown -> projection -> render pipeline"
+
+editorial_rules:
+  book_is_source_of_truth: false
+  preserve_epistemic_status: true
+  invent_marie_louise_voice: false
+  frozen_editions_are_immutable: true
+  unknown_is_allowed: true
+
+open_gaps:
+  - "Consolidate Le dieu de l'eau (2008)."
+  - "Consolidate the 2016 exhibition sources and image rights."
+  - "Verify the 2020 electoral sequence on primary documents."
+  - "Reconstruct summer 2024 from primary traces without retrospective filling."
+  - "Add demographic and suicidology datasets after contradictory review."
