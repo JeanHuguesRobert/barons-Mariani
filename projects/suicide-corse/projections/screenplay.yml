@@ -1,0 +1,15 @@
+schema: suicide-corse.projection.screenplay.v0
+id: suicide-corse-screenplay
+status: placeholder
+language: fr
+source_manifest: ../corpus.yml
+scene_types:
+  - DOCUMENTARY_SCENE
+  - RECONSTRUCTED_SCENE
+  - FICTIONAL_SCENE
+  - ML_VOICE
+rules:
+  ml_voice_requires_attested_source: true
+  reconstruction_must_be_labeled: true
+  fiction_must_not_travel_as_fact: true
+related_issue: 49
