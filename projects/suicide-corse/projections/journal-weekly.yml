@@ -1,0 +1,15 @@
+schema: suicide-corse.projection.journal-weekly.v0
+id: suicide-corse-journal-weekly
+status: placeholder
+language: fr
+source_manifest: ../corpus.yml
+purpose: "Produce the Journal de campagne contre l'impossible from changes, traces, contradictions and Reality responses."
+sections:
+  - "Percées"
+  - "Nouvelles pistes"
+  - "Carte corrigée"
+  - "Ce que le réel nous a refusé"
+  - "Outils acquis"
+  - "Fronts ouverts"
+  - "Prochaine campagne"
+related_issue: 44
