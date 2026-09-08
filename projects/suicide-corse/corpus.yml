@@ -81,6 +81,12 @@ sources:
     required: false
     note: "Longitudinal Reality Case for issue #47; preserve the distinction between openings, maintenance, friction, closure, reopening, load and unknown."
 
+  - id: marie-louise-possible-matrix-machine
+    path: memory/marie-louise/possible_matrix.yaml
+    role: machine-readable-projection
+    required: false
+    note: "Working derived projection of the human-readable matrix; schema: JeanHuguesRobert/cogentia/schemas/possible-matrix.v0.schema.json. Do not treat as an independent authority."
+
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source
