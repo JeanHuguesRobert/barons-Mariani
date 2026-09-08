@@ -1,0 +1,311 @@
+Delivered-To: jeanhuguesrobert@gmail.com
+Received: by 10.210.11.2 with SMTP id 2cs35246ebk;
+        Wed, 3 Dec 2008 09:57:32 -0800 (PST)
+Received: by 10.151.100.17 with SMTP id c17mr26426318ybm.64.1228327051319;
+        Wed, 03 Dec 2008 09:57:31 -0800 (PST)
+Return-Path: <marielouiserobert@gmail.com>
+Received: from mta181.mail.ac4.yahoo.com (mta181.mail.ac4.yahoo.com [67.195.168.209])
+        by mx.google.com with SMTP id z26si4983766ele.0.2008.12.03.09.57.24;
+        Wed, 03 Dec 2008 09:57:27 -0800 (PST)
+Received-SPF: neutral (google.com: 67.195.168.209 is neither permitted nor denied by domain of marielouiserobert@gmail.com) client-ip=67.195.168.209;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 67.195.168.209 is neither permitted nor denied by domain of marielouiserobert@gmail.com) smtp.mail=marielouiserobert@gmail.com; dkim=pass (test mode) header.i=@gmail.com
+Return-Path: <marielouiserobert@gmail.com>
+X-RocketTIP: 64.233.182.184: NO_TIP_HEADER_ALLOWED
+X-RocketSRV: s_ip=64.233.182.184;d_t=1228327042;Retro=Y;SgrnP=N
+X-Rocket-Track: cat=UK; info=dkv:GD;ip:NN<ip=64.233.182.184,policy=n-w0,n100,g0,s,wgn=n-w0,n100,g0,s,rep=n-w0,n100,g0>;ipsh:UK<ip=64.233.182.184,policy=P=-1,X=-1,S=-1>;ipst:GD<ip=64.233.182.184>;cmsgbl:UK<s=40,m=1>;cmsgbk:UK<s=40,m=1>;ipsp:GD;stat:GD<label=personal,prob=0.0100>;csubbl:UK;csubbk:UK
+X-YMailISG: wAfv3C8WLDvgwBjfT6nXDEmoolsmZ07JTVkpAIThFvCXr06.dPrvjmfyMNrsYRzxfNolzJ_etBOg0o9v3iNgjvCtUi28W0NG5_sl.SvnOewkGgDr.rfjmDcOpcB261WJ3HOAPV.i4hULvxaLXwjS4YT42Uqzr19bAGc356XmJX84N2.m8zXWN_avNHBVQ33vxttluqJiHJG_8p0k863Ur.heHfywmAVN5sW5ca9lqA9gtmLvWx9Y.ka2zfNzIrTUTMb9xfwXDk4Ik4s6nk_bCs7vqULaI9ODFX9KrrwE4rCujlZN3KlvSw0ufRejPT6EBUjIuItIFNTVGvLZSCT1hI5zkUdb1hsL5NDFWwc6wuesh2yI9kBODQIxhiveJM_aljPNAfeKDhqPNQdTZOd1hesLQcQuh4m4MZhhIQMz2w--
+X-Originating-IP: [64.233.182.184]
+Authentication-Results: mta181.mail.ac4.yahoo.com  from=gmail.com; domainkeys=pass (ok)
+Received: from 64.233.182.184  (EHLO nf-out-0910.google.com) (64.233.182.184)
+  by mta181.mail.ac4.yahoo.com with SMTP; Wed, 03 Dec 2008 09:57:22 -0800
+Received: by nf-out-0910.google.com with SMTP id d3so1906614nfc.21
+        for <jean_hugues_robert@yahoo.com>; Wed, 03 Dec 2008 09:57:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=domainkey-signature:received:received:message-id:date:from:sender
+         :to:subject:mime-version:content-type:x-google-sender-auth;
+        bh=2ztzNUXxY2qntrg/WHnFdnhex9Uy1oOnPo6dV/2v6pk=;
+        b=lqYTDH+DTxEtfjrU+wY1Zq4evS0PdpzvbFT3UkYrUOlypAfCp8VLSYip25U5h3n9l3
+         p7EZeEuVk819kGJUlyPimKh7rqT7wlPuQY6tkPKuIU6+92qrBEgPpttjMBDVbrlMXFJG
+         q9oYEyZix+DNa/RHmf9rPjd5yaI5EdwK23lLg=
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=gmail.com; s=gamma;
+        h=message-id:date:from:sender:to:subject:mime-version:content-type
+         :x-google-sender-auth;
+        b=Zr/Pb+O+h7v4mh446TLjbCKEatuy9YeBRTXCXjgGJ7zIKKM1aaw5PMATQ+LcObMVtR
+         8S/vWP6rW+5dSOCPr897FsdY+8GXz1Kv0gPuG2nnIOLjd2CZOBWTdbPjy/RMhy8fqx5P
+         uww5/X64mZY+ymxX6BoQq3giGjAal7cY5XgVE=
+Received: by 10.86.93.17 with SMTP id q17mr8149036fgb.50.1228327042117;
+        Wed, 03 Dec 2008 09:57:22 -0800 (PST)
+Received: by 10.86.80.10 with HTTP; Wed, 3 Dec 2008 09:57:22 -0800 (PST)
+Message-ID: <c15b56560812030957t308933clf0ee24302aa78c33@mail.gmail.com>
+Date: Wed, 3 Dec 2008 18:57:22 +0100
+From: "Marie-Louise Robert" <marielouiserobert@yahoo.fr>
+Sender: marielouiserobert@gmail.com
+To: Papa <jean_hugues_robert@yahoo.com>
+Subject: jouyeux Noel de lilou
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_23667_19847026.1228327042092"
+X-Google-Sender-Auth: 1e077903ff9d8cf2
+
+------=_Part_23667_19847026.1228327042092
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+ceci est une histoire imagin=E9 par marie-Louise (ta fille) pour son papa
+qu'elle aime de tout son coeur .
+
+
+
+
+                            le dieu de l'eau
+
+
+th=E8me: sauver la Terre
+
+personnages:diana(reine) , lina , le grand sage , la tribu des a=EFzou (les
+d=E9mon de l'eau), les requin, do
+
+h=E9ros:diana
+
+  tous commen=E7a si vite , quand j'=E9tais encore petite , pr=E8s d'une pl=
+age
+,arriva une immense vague ; je la regardais ,s'approcher de moi qui restais
+immobile apr=E8s sa j'ai vu le noir autour de moi. Puis un jour je me suis
+r=E9veiller ; j'=E9tais minuscule et j'y croyais pas mais jetais dans un li=
+t de
+corail, sous l'eau .Puis un petit poisson arriva , il =E9tait vraiment mign=
+on
+et je lui est demander:
+-"Comment t'appelle-tu petit ?"
+il r=E9pondit:
+-"Je m'appelle do,et toi ?"
+-"Moi c'est diana, heureuse de ta voir vue ."
+A penne j'avais finie ma phrase qu'une nouvelle voie dit:
+-"Et moi c'est lina. Je suis la concierge et je viens vous chercher car vou=
+s
+vous =EAtes appelle."
+Sur le cous j'avais =E9t=E9 surprise, mais bon j'ai pris sur moi et j'y sui=
+s
+aller.Elle m'avais amen=E9 a un magnifique et immense palet et comme j'=E9t=
+ais
+fascin=E9 , lina ma pousser en disais :
+-"Aller l'escagot, tu auras tout ton temps apr=E8s."
+Comme j'=E9tais nouvel et je ne savais rien sur cette endroit magnifique j'=
+ai
+ob=E9is. Alors je lui est dis :
+" excuse-moi. "
+Et je l'ai suivie , on passait de couloir =E0 couloir et d'escalier =E0
+escalier, c'=E9tait bon on =E9tait au sommet du palet et la lina partie en =
+me
+disant
+-"IL va arriver , je te laisse ."
+et j'ai repris apr=E8s sa voix :
+-"c'est qui il ? "
+elle ne  me r=E9pondais pas , c'est la que j'ai compris que je devais reste=
+r
+la ; j'avais attendu longtemps .Heureusement quelqu'un avait fini par
+venir,  =E0 peine =E9tait- il arriv=E9 qu'il me disa :
+-"Bienvenue cher reine , je suis le grand sage des mer et des Oc=E9an tu es=
+t
+la pour sauver notre plan=E8te ,tous le monde conte sur toi."
+J'=E9tais surprise et j'=E9tais bien trop jeune alors j'ai dis:
+"Excuse - moi grand sage mais je suis bien trop jeune ."
+il me r=E9pondit:
+"Tu veux rire tu a un coeur de 175 ans et puis Lina viendra avec toi et ton
+ami Do."
+je me suis dis comment peut-il savoir que je me suis fais un ami .
+Que j'=E9tais  b=EAte , si on l'appelle le grand sage c'est qu'il savait to=
+ut.
+Puis j'ai fini par dire oui. C'=E9tait a se moment la que l'aventure commen=
+=E7a
+et le grand sage me parla pour la derni=E8re fois il me disa: "Sois prudent=
+e ,
+tu devras vaincre la tribu des a=EFzou tiens je te passe le pisto filet et =
+le
+bulle d'aire , lina te guidera, a bient=F4t."
+Lina me poussa en me disant :
+-"allons-y! Nous avons le monde a sauv=E9 diana."
+je dis :
+-"Oui oui !"
+c'=E9tait bon on =E9tait parti . Apr=E8s des heures de marche do commen=E7a=
+ a parler
+de sa vie il parlait toute en marchent :
+-"Moi quand j'=E9tais enfant j'avais plein d'amis mais le seul probl=E8me c=
+'est
+que c'=E9tait que des m=E9duses et les m=E9duse c'est farceuse alors ma m=
+=E8re elle
+..."
+A peine avait-il finie sa phrase que la voix du chef des a=EFzou disa :
+-" Et les gamins sont la , on aurais s=FBrement un go=FBter apr=E8s tout."
+C'=E9tait la que nous trois avons pris notre pisto filet et notre bulle d'a=
+ir
+pour les tuer , on avaient r=E9ussi =E0 en tuer que 20 comparer au 50 a=EFz=
+ou mais
+les armes n'=E9taient pas efficace. lorsque que je vis une =E9p=E9e en cris=
+tal je
+me suis d'=E9p=E9cher d'aller le prendre pour nous prot=E9ger , et la je fi=
+s en
+mouvement brusque et j'en avais tuer 24 de plus, lina pour la premi=E8re fo=
+is
+me disas :
+-"Merci !!!"
+Mais do =E9tait rester sur son histoire qu'il voulait raconter. Et je dis:
+-"Se n'ai pas finie il faut continuer!"
+Apr=E8s un demi-heure lina me demanda:
+-"Fais voir ton =E9p=E9e ?"
+-"Oui regarde elle est belle"
+Et la elle me disa :
+-"Ces l'=E9p=E9e de Iana la veille reine sacr=E9e que personne n'a revu dep=
+uis des
+millions d'ann=E9es , tu a de la chance, elle est =E0 toi maintenant, bravo=
+."
+Moi apr=E8s sa j'=E9tais toute contente car c'=E9tait l'=E9p=E9e du pouvoir=
+ l'eau  et
+sa c'=E9tait trop bien. On fini par voire les 6 a=EFzou mais , ils =E9taien=
+t mort
+. Maintenant c'=E9tait de savoir qui les avait tuer et la une voie r=E9pond=
+it :
+-"Ces nous les requins on les a tuer car ils nous avaient trahi , mais vous
+vous =EAtes des amis venez avec nous on va vous offrir quelque chose car vo=
+us
+nous avez aidez a sauver la Terre , tenez ."
+On avait r=E9ussi a avoir un pouster pour revenir rapidement au palet .
+Arriver au palet le grand sage tout heureux et il disa :
+-"Bravo Bravo ."
+Et la il vit l'=E9p=E9e en disais :
+-"tu,tu la retrouv=E9 l'=E9p=E9e de l'eau ,elle est a toi tu est une sainte=
+ qui
+ferait une marque sur l'histoire ,bravo"
+-"Merci"
+Et la il me demanda:
+-"Veux-tu revenir dans ton pays ?"
+C'=E9tait la derni=E8re fois que je l'ai voyaient il allaient s=FBrement me
+manquer car j'avais dit oui .Et j'=E9tais reparti et la pour toujours un jo=
+ur
+petetre je l'ai retrouverai . Un jour qui sais vous me croiserez.
+
+
+de marie-louise
+
+------=_Part_23667_19847026.1228327042092
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<font color=3D"#990000">ceci est une histoire imagin=E9 par marie-Louise (t=
+a fille) pour son papa qu&#39;elle aime de tout son coeur .<br><br><br><br>=
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; <font size=3D"6">le dieu de l&#39;eau<br><br><br>
+
+
+
+
+<font size=3D"4">th=E8me: sauver la Terre<br><br>personnages:diana(reine) ,=
+ lina , le grand sage , la tribu des a=EFzou (les d=E9mon de l&#39;eau), le=
+s requin, do<br><br>h=E9ros:diana <br></font><br>&nbsp; t<font size=3D"4">o=
+us commen=E7a si vite , quand j&#39;=E9tais encore petite , pr=E8s d&#39;un=
+e plage ,arriva une immense vague ; je la regardais ,s&#39;approcher de moi=
+ qui restais immobile apr=E8s sa j&#39;ai vu le noir autour de moi. Puis un=
+ jour je me suis r=E9veiller ; j&#39;=E9tais minuscule et j&#39;y croyais p=
+as mais jetais dans un lit de corail, sous l&#39;eau .Puis un petit poisson=
+ arriva , il =E9tait vraiment mignon et je lui est demander: <br>
+-&quot;Comment t&#39;appelle-tu petit ?&quot; <br>
+
+
+
+il r=E9pondit:<br>-&quot;Je m&#39;appelle do,et toi ?&quot;<br>-&quot;Moi c=
+&#39;est diana, heureuse de ta voir vue .&quot;<br>A penne j&#39;avais fini=
+e ma phrase qu&#39;une nouvelle voie dit:<br>-&quot;Et moi c&#39;est lina. =
+Je suis la concierge et je viens vous chercher car vous vous =EAtes appelle=
+.&quot; <br>
+
+
+Sur le cous j&#39;avais =E9t=E9 surprise, mais bon j&#39;ai pris sur moi et=
+ j&#39;y suis aller.Elle m&#39;avais amen=E9 a un magnifique et immense pal=
+et et comme j&#39;=E9tais fascin=E9 , lina ma pousser en disais :&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+-&quot;Aller l&#39;escagot, tu auras tout ton temps apr=E8s.&quot;<br>
+
+Comme j&#39;=E9tais nouvel et je ne savais rien sur cette endroit magnifiqu=
+e j&#39;ai ob=E9is. Alors je lui est dis :<br>&quot; excuse-moi. &quot; <br=
+>Et je l&#39;ai suivie , on passait de couloir =E0 couloir et d&#39;escalie=
+r =E0 escalier, c&#39;=E9tait bon on =E9tait au sommet du palet et la lina =
+partie en me disant <br>
+
+-&quot;IL va arriver , je te laisse .&quot;<br>et j&#39;ai repris apr=E8s s=
+a voix :<br>-&quot;c&#39;est qui il ? &quot;<br>elle ne&nbsp; me r=E9pondai=
+s pas , c&#39;est la que j&#39;ai compris que je devais rester la ; j&#39;a=
+vais attendu longtemps .Heureusement quelqu&#39;un avait fini par venir,&nb=
+sp; =E0 peine =E9tait- il arriv=E9 qu&#39;il me disa :<br>
+
+-&quot;Bienvenue cher reine , je suis le grand sage des mer et des Oc=E9an =
+tu est la pour sauver notre plan=E8te ,tous le monde conte sur toi.&quot;<b=
+r>J&#39;=E9tais surprise et j&#39;=E9tais bien trop jeune alors j&#39;ai di=
+s:<br>
+&quot;Excuse - moi grand sage mais je suis bien trop jeune .&quot;<br>
+il me r=E9pondit:<br>&quot;Tu veux rire tu a un coeur de 175 ans et puis Li=
+na viendra avec toi et ton ami Do.&quot;<br>je me suis dis comment peut-il =
+savoir que je me suis fais un ami . <br>Que j&#39;=E9tais&nbsp; b=EAte , si=
+ on l&#39;appelle le grand sage c&#39;est qu&#39;il savait tout.<br>
+
+Puis j&#39;ai fini par dire oui. C&#39;=E9tait a se moment la que l&#39;ave=
+nture commen=E7a et le grand sage me parla pour la derni=E8re fois il me di=
+sa: &quot;Sois prudente , tu devras vaincre la tribu des a=EFzou tiens je t=
+e passe le pisto filet et le bulle d&#39;aire , lina te guidera, a bient=F4=
+t.&quot;<br>
+
+Lina me poussa en me disant :<br>-&quot;allons-y! Nous avons le monde a sau=
+v=E9 diana.&quot;<br>je dis :<br>-&quot;Oui oui !&quot;<br>c&#39;=E9tait bo=
+n on =E9tait parti . Apr=E8s des heures de marche do commen=E7a a parler de=
+ sa vie il parlait toute en marchent :<br>
+
+-&quot;Moi quand j&#39;=E9tais enfant j&#39;avais plein d&#39;amis mais le =
+seul probl=E8me c&#39;est que c&#39;=E9tait que des m=E9duses et les m=E9du=
+se c&#39;est farceuse alors ma m=E8re elle ...&quot;<br>A peine avait-il fi=
+nie sa phrase que la voix du chef des a=EFzou disa :<br>
+
+-&quot; Et les gamins sont la , on aurais s=FBrement un go=FBter apr=E8s to=
+ut.&quot;<br>C&#39;=E9tait la que nous trois avons pris notre pisto filet e=
+t notre bulle d&#39;air pour les tuer , on avaient r=E9ussi =E0 en tuer que=
+ 20 comparer au 50 a=EFzou mais les armes n&#39;=E9taient pas efficace. lor=
+sque que je vis une =E9p=E9e en cristal je me suis d&#39;=E9p=E9cher d&#39;=
+aller le prendre pour nous prot=E9ger , et la je fis en mouvement brusque e=
+t j&#39;en avais tuer 24 de plus, lina pour la premi=E8re fois me disas :<b=
+r>
+
+-&quot;Merci !!!&quot;<br>Mais do =E9tait rester sur son histoire qu&#39;il=
+ voulait raconter. Et je dis: <br>-&quot;Se n&#39;ai pas finie il faut cont=
+inuer!&quot;<br>Apr=E8s un demi-heure lina me demanda:<br>-&quot;Fais voir =
+ton =E9p=E9e ?&quot;<br>
+
+-&quot;Oui regarde elle est belle&quot;<br>Et la elle me disa :<br>-&quot;C=
+es l&#39;=E9p=E9e de Iana la veille reine sacr=E9e que personne n&#39;a rev=
+u depuis des millions d&#39;ann=E9es , tu a de la chance, elle est =E0 toi =
+maintenant, bravo.&quot;<br>
+
+Moi apr=E8s sa j&#39;=E9tais toute contente car c&#39;=E9tait l&#39;=E9p=E9=
+e du pouvoir l&#39;eau&nbsp; et sa c&#39;=E9tait trop bien. On fini par voi=
+re les 6 a=EFzou mais , ils =E9taient mort . Maintenant c&#39;=E9tait de sa=
+voir qui les avait tuer et la une voie r=E9pondit :<br>
+
+-&quot;Ces nous les requins on les a tuer car ils nous avaient trahi , mais=
+ vous vous =EAtes des amis venez avec nous on va vous offrir quelque chose =
+car vous nous avez aidez a sauver la Terre , tenez .&quot;<br>On avait r=E9=
+ussi a avoir un pouster pour revenir rapidement au palet . Arriver au palet=
+ le grand sage tout heureux et il disa :<br>
+-&quot;Bravo Bravo .&quot;<br>Et la il vit l&#39;=E9p=E9e en disais :<br>-&=
+quot;tu,tu la retrouv=E9 l&#39;=E9p=E9e de l&#39;eau ,elle est a toi tu est=
+ une sainte qui ferait une marque sur l&#39;histoire ,bravo&quot;<br>-&quot=
+;Merci&quot;<br>
+Et la il me demanda:<br>-&quot;Veux-tu revenir dans ton pays ?&quot;<br>C&#=
+39;=E9tait la derni=E8re fois que je l&#39;ai voyaient il allaient s=FBreme=
+nt me manquer car j&#39;avais dit oui .Et j&#39;=E9tais reparti et la pour =
+toujours un jour petetre je l&#39;ai retrouverai . Un jour qui sais vous me=
+ croiserez.<br>
+<br><br>de marie-louise <br><br></font></font></font>
+
+------=_Part_23667_19847026.1228327042092--
