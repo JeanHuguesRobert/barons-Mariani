@@ -997,7 +997,18 @@ events:
     counterevidence: []
     alternative_explanations: []
     prohibited_inference:
-    - Promouvoir une ligne antérieure unique en cause du suicide.- id: mlp-2024-009
+    - Promouvoir une ligne antérieure unique en cause du suicide.
+  evidence:
+  - ref: memory/marie-louise/carte.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - fact
+    supports:
+    - date et nature du décès
+    visibility: public
+  next_probes: []
+  sequence: 25
+- id: mlp-2024-009
   when:
     value: '2024-09-27'
     precision: day
