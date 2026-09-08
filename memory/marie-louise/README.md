@@ -31,6 +31,7 @@ Ce répertoire rassemble des traces documentaires concernant **Marie-Louise Isab
 
 ## Dossiers
 
+- [`elections/`](elections/) — histoire électorale documentée 2017–2024 : suppléance, candidatures titulaires, sénatoriales 2020, bulletins, noms publics et traces de campagne.
 - [`elections-2024-complaints.md`](elections-2024-complaints.md) — candidature aux législatives de 2024, plaintes du 5 juillet 2024, transmissions institutionnelles et décision n° 2024-6309 AN du Conseil constitutionnel.
 
 ## Articulation institutionnelle
