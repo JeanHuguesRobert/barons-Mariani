@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-07"
+updated: "2026-09-08"
 source_of_truth: "repository corpus files; this manifest references them and does not replace them"
 
 sources:
@@ -22,6 +22,12 @@ sources:
     path: memory/marie-louise/elections-2024-complaints.md
     role: source-note
     required: true
+
+  - id: marie-louise-elections-2017-2024
+    path: memory/marie-louise/elections/README.md
+    role: source-index
+    required: false
+    note: "Consolidated electoral chronology; preserve civil identity / ballot-name / administrative-nuance distinctions."
 
   - id: protection-responsable
     path: research/protection_responsable.md
@@ -82,6 +88,6 @@ editorial_rules:
 open_gaps:
   - "Consolidate Le dieu de l'eau (2008)."
   - "Consolidate the 2016 exhibition sources and image rights."
-  - "Verify the 2020 electoral sequence on primary documents."
+  - "Locate the exact final physical 2020 Senate ballot artifact and any contemporary trace explaining the use of 'Marie-Louise d'Angelis' by Laurence Vernerey."
   - "Reconstruct summer 2024 from primary traces without retrospective filling."
   - "Add demographic and suicidology datasets after contradictory review."
