@@ -75,6 +75,12 @@ sources:
     required: false
     note: "Source-first chronology from Terminale through CPES Sartene and Nantes to the first Villa Arson / Nice traces; preserve admission/enrolment/attendance distinctions."
 
+  - id: marie-louise-possible-matrix
+    path: memory/marie-louise/possible_matrix.md
+    role: research-matrix
+    required: false
+    note: "Longitudinal Reality Case for issue #47; preserve the distinction between openings, maintenance, friction, closure, reopening, load and unknown."
+
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source
