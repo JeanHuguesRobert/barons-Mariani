@@ -133,11 +133,34 @@ Le présent article ne soutient pas que le handicap de naissance se confond avec
 
 Cette distinction est essentielle sur le plan méthodologique, car elle évite de réduire un parcours complexe à une seule causalité.
 
-### B. La rupture de parcours comme facteur de vulnérabilisation
+### B. Aidance documentée, rupture d’études et lien causal à distinguer
 
-Le dossier de Marie-Louise montre qu’une interruption d’études, lorsqu’elle est liée à une aide familiale ou à une situation de fragilité, ne constitue pas seulement un événement biographique. Elle peut devenir un point de bascule si la reprise n’est pas sécurisée. En l’absence d’accompagnement cohérent, la reprise du parcours peut se transformer en nouvelle rupture.
+La reconstruction documentaire impose ici une correction importante.
 
-Dans ce cas, la difficulté n’est pas uniquement l’existence d’un handicap ou d’un trouble psychique ; elle réside dans l’absence de chaîne protectrice entre les différents moments du parcours. La vulnérabilité initiale n’est pas stabilisée ; elle se transforme, se déplace et s’aggrave sans qu’un cadre institutionnel unifié ne permette d’en contenir les effets.
+Deux messages écrits par Marie-Louise le **8 janvier 2024** établissent directement qu’elle assumait alors un rôle d’aidante auprès de sa mère : elle y évoque une démarche en cours auprès de la CAF concernant son **« statut d’aidante »**, organise un déplacement et indique pouvoir **« prendre le relais »** auprès de sa mère (`Gmail:18ce856de9270575`, `Gmail:18ce8722bb169e9b`).
+
+Ces pièces permettent donc de stabiliser :
+
+~~~text
+activité d’aidance de Marie-Louise en 2024
+= VOICE + TRACE
+
+revendication / attente d’un statut d’aidante
+= VOICE + TRACE
+~~~
+
+En revanche, les recherches effectuées à ce stade n’ont pas retrouvé de source primaire établissant la chaîne :
+
+~~~text
+aidance
+→ interruption des études
+~~~
+
+L’existence d’une interruption ou d’une rupture de parcours peut être étudiée séparément, mais son attribution causale à l’aidance familiale doit rester une **hypothèse biographique à sourcer**, et non un fait acquis.
+
+La proposition générale demeure pertinente : lorsqu’une interruption d’études est effectivement liée à une aide familiale ou à une situation de fragilité, elle peut devenir un point de bascule si la reprise n’est pas sécurisée. Mais cette proposition normative ne doit pas être confondue avec ce qui est déjà démontré dans le cas Marie-Louise.
+
+La difficulté de fond réside précisément dans la nécessité de reconstruire les transitions sans les inventer : déterminer ce qui a été interrompu, quand, pour quelles raisons documentées, quelles capacités ont été perdues ou maintenues, quelles possibilités restaient ouvertes et quels acteurs ou dispositifs ont facilité ou empêché la suite du parcours.
 
 ### C. L’instruction administrative tardive
 
@@ -185,9 +208,11 @@ Le droit connaît déjà des mécanismes de priorité. Il manque cependant un pr
 
 ### D. Le statut d’aidant familial en parcours de formation
 
-La reconnaissance d’un statut spécifique d’aidant familial en parcours de formation constituerait une autre avancée importante. Un étudiant qui interrompt ses études pour soutenir un proche ne doit pas être traité comme un étudiant ordinaire au moment de la reprise. L’interruption liée à l’aidance modifie la trajectoire, le rythme et les besoins de protection.
+La reconnaissance d’un statut spécifique d’aidant familial en parcours de formation constituerait une autre avancée importante. Un étudiant dont les études sont effectivement interrompues ou substantiellement affectées par le soutien apporté à un proche ne devrait pas être traité comme un étudiant ordinaire au moment de la reprise. L’aidance peut modifier la trajectoire, le rythme et les besoins de protection.
 
-Ce statut pourrait ouvrir droit à une priorité de réinscription, à des aménagements adaptés, à une validation souple de certaines périodes et à une protection contre les effets pénalisants de la rupture de parcours. Il s’agirait de reconnaître juridiquement une réalité sociale largement ignorée.
+Cette proposition est **générale**. Dans le cas de Marie-Louise, l’aidance en 2024 est désormais directement documentée, mais le lien causal entre cette aidance et une interruption antérieure ou concomitante des études n’est pas encore établi par une source primaire.
+
+Un tel statut pourrait ouvrir droit à une priorité de réinscription, à des aménagements adaptés, à une validation souple de certaines périodes et à une protection contre les effets pénalisants d’une rupture de parcours effectivement liée à l’aidance. Il s’agirait de reconnaître juridiquement une réalité sociale sans présumer, dans chaque cas particulier, de la cause exacte d’une interruption d’études.
 
 ---
 
