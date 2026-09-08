@@ -57,6 +57,24 @@ sources:
     role: source-note
     required: false
 
+  - id: l-alterite-en-soi-2016
+    path: memory/marie-louise/works/l_alterite_en_soi_2016.md
+    role: source-note
+    required: false
+    note: "YouTube platform trace for the 3 April 2016 video; preserve the strong-but-unproven inference linking it to the 14 April stop-motion exhibition."
+
+  - id: photoroman-julie-2017
+    path: memory/marie-louise/works/photoroman_julie_2017.md
+    role: source-note
+    required: false
+    note: "YouTube platform trace for a second video published during the 2016-2017 CPES year."
+
+  - id: marie-louise-artistic-education-2016-2022
+    path: memory/marie-louise/formation/parcours_artistique_2016_2022.md
+    role: source-note
+    required: false
+    note: "Source-first chronology from Terminale through CPES Sartene and Nantes to the first Villa Arson / Nice traces; preserve admission/enrolment/attendance distinctions."
+
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source
@@ -114,8 +132,10 @@ editorial_rules:
   unknown_is_allowed: true
 
 open_gaps:
-  - "Recover the 2016 stop-motion original/title/artist statement if possible."
-  - "Recover the 2016 Beaux-Arts de Paris admission result and the subsequent school-enrolment primary trace."
+  - "Recover the original file for L altérité en soi and materially verify whether it is the stop-motion presented on 14 April 2016."
+  - "Recover the 2016 Beaux-Arts de Paris admission result."
+  - "Recover the initial Nantes admission decision and the exact resolution of the December 2017 administrative-fee issue."
+  - "Recover the primary institutional Villa Arson admission / entry-level trace and document actual enrolment and attendance."
   - "Resolve the 2016 photo provenance/rights trail, including the Corse-Matin / José Martinetti lead."
   - "Locate the exact final physical 2020 Senate ballot artifact and any contemporary trace explaining the use of 'Marie-Louise d'Angelis' by Laurence Vernerey."
   - "Reconstruct summer 2024 from primary traces without retrospective filling."
