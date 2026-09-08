@@ -7,7 +7,7 @@ description: >
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-08"
-version: "0.4"
+version: "0.5"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -253,11 +253,47 @@ Voir :
 - memory/marie-louise/works/l_alterite_en_soi_2016.md ;
 - memory/marie-louise/works/photoroman_julie_2017.md.
 
-# 7. Vie familiale, études et ruptures de parcours
+# 7. Vie familiale, aidance, études et ruptures de parcours
 
-**Statut : corpus de recherche existant, documentation primaire à renforcer.**
+**Statut : aidance directement documentée ; articulation causale avec les ruptures d’études encore à établir.**
 
 `research/protection_responsable.md` utilise le parcours de Marie-Louise comme cas d’étude d’une vulnérabilité susceptible de traverser plusieurs systèmes institutionnels sans qu’un acteur assure nécessairement la continuité de l’ensemble.
+
+## 7.1 Janvier 2024 — aidance directement assumée
+
+**Statut : `VOICE` + `TRACE`.**
+
+Le 8 janvier 2024, Marie-Louise écrit à la tutrice de sa mère et à d’autres interlocuteurs institutionnels pour organiser concrètement un déplacement de sa mère vers Nîmes.
+
+Dans ces échanges, elle :
+
+- évoque une démarche en cours auprès de la CAF concernant son **« statut d’aidante »** ;
+- organise le déplacement et son financement ;
+- indique qu’elle sera présente à l’arrivée ;
+- écrit qu’elle peut **« prendre le relais »** auprès de sa mère.
+
+Références : `Gmail:18ce856de9270575`, `Gmail:18ce8722bb169e9b`.
+
+Ces pièces permettent d’établir l’existence d’une activité d’aidance et la manière dont Marie-Louise la formulait elle-même.
+
+## 7.2 Ce qui reste à démontrer
+
+Les recherches réalisées à ce stade n’ont pas retrouvé de source primaire établissant que l’aidance a causé l’interruption de ses études.
+
+La distinction canonique est donc :
+
+~~~text
+Marie-Louise assume un rôle d’aidante en 2024
+= VOICE + TRACE
+
+Marie-Louise connaît une rupture / interruption de parcours d’études
+= à documenter précisément dans sa chronologie
+
+l’aidance cause cette interruption
+= HYPOTHESE à sourcer
+~~~
+
+Cette distinction corrige une formulation trop affirmative de `research/protection_responsable.md`.
 
 Pour chaque élément biographique important, appliquer :
 
@@ -462,7 +498,7 @@ Elle reste à produire.**
 - 2017 : préparation du bulletin, courriel attestant Marie-Louise d'Angelis comme suppléante, échanges relatifs au traitement de la candidature et requête au Conseil constitutionnel ;
 - 2018 : échanges concernant les études, aides et difficultés de parcours, à traiter comme corpus documentaire et non à résumer à partir de messages isolés ;
 - 2022 : échanges relatifs au « bulletin de vote collector de Malou » et à sa fabrication ;
-- 2024 : échanges électoraux, bulletin, impression, plaintes et suites institutionnelles.
+- 2024 : échanges électoraux, bulletin, impression, plaintes et suites institutionnelles ; messages du 8 janvier documentant directement l’activité d’aidance et la revendication d’un statut d’aidante.
 
 # 15. Carte des lacunes et priorités
 
@@ -479,7 +515,7 @@ Les lacunes sont elles-mêmes des informations.
 - [ ] retrouver le **fichier matériel final du bulletin sénatorial 2020** effectivement imprimé/distribué après substitution de la remplaçante ;
 - [ ] rechercher toute trace contemporaine expliquant le choix par Laurence Vernerey du nom de bulletin `Marie-Louise d'Angelis` ;
 - [ ] construire la chronologie détaillée de l’été 2024 ;
-- [ ] rattacher les affirmations importantes de `research/protection_responsable.md` à leurs sources primaires ;
+- [ ] poursuivre le rattachement des affirmations de `research/protection_responsable.md` à leurs sources primaires ; l’aidance 2024 est désormais documentée, mais le lien causal `aidance → interruption d’études` reste à établir ;
 - [ ] distinguer explicitement les inconnues des informations simplement non encore recherchées.
 
 ## P1 — approfondissement important
@@ -536,7 +572,7 @@ Chaque version doit pouvoir dire :
     voici ce que nous ignorons
     voici ce qui a changé depuis la version précédente
 
-La version 0.4 est donc intentionnellement incomplète.
+La version 0.5 est donc intentionnellement incomplète.
 
 Sa première fonction est de rendre cette incomplétude **visible, structurée et explorable**.
 
