@@ -1,20 +1,35 @@
 ---
 title: "Marie-Louise — matrice longitudinale des possibles"
-subtitle: "Ouvertures, maintiens, frictions, fermetures, réouvertures et charges — v0.1"
+subtitle: "Ouvertures, maintiens, frictions, fermetures, réouvertures et charges — v0.2"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-08"
+last_modified_at: "2026-09-09"
+version: "0.2"
+update_policy: "UP-DEFAULT-REVIEWED"
 language: "fr"
 document_role: "research-matrix"
 document_kind: "longitudinal-reality-case"
 visibility: "public"
 lifecycle_state: "working"
 derived_from:
-  - "memory/marie-louise/carte.md v0.5"
+  - "memory/marie-louise/carte.md v0.6"
   - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
   - "memory/marie-louise/elections/"
   - "memory/marie-louise/elections-2024-complaints.md"
   - "research/protection_responsable.md"
   - "GitHub issue #47"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "a6fb15757b3da4f4c3e20baef157d3561c33b8b6"
+  origin_date: "2026-09-08"
+  derived_from:
+    - "memory/marie-louise/carte.md"
+    - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
+    - "memory/marie-louise/elections/"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Marie-Louise — matrice longitudinale des possibles
@@ -243,9 +258,30 @@ doit être démontrée maillon par maillon.
 6. **Recours 2024** : réponses Arcom, parquet, tribunal et autres suites avant le 17 septembre.
 7. **Ressources/buffers** : documenter non seulement les obstacles mais les soutiens matériels, humains et institutionnels.
 
-## 8. Règle pour la v0.2
+## 8. Projection calculable v0.2
 
-Aucune ligne ne doit passer :
+La v0.2 matérialise désormais une projection machine-readable expérimentale :
+
+- `memory/marie-louise/possible_matrix.yaml` — projection dérivée ;
+- `JeanHuguesRobert/cogentia/schemas/possible-matrix.v0.schema.json` — contrat structurel générique ;
+- `JeanHuguesRobert/cogentia/research/digital_twin_possible_matrix_bootstrap.md` — note de conception.
+
+Le Markdown présent reste la **source documentaire humaine**. Le YAML n'est pas une seconde autorité indépendante : il doit rester une projection traçable jusqu'à ce qu'un aller-retour déterministe ait été validé sur le Réel.
+
+La v0.2 ajoute notamment :
+
+- identifiants stables d'événements ;
+- registre de Possibles ;
+- `counterevidence` ;
+- `alternative_explanations` ;
+- `prohibited_inference` ;
+- `descendant_possible_ids` ;
+- sondes de Réel suivantes ;
+- séparation entre dynamique, portée et qualificateurs.
+
+Aucun **score unique de certitude** n'est introduit. La force documentaire, le statut épistémique et le statut causal restent des dimensions distinctes.
+
+Règle inchangée :
 
 ~~~text
 FRICTION → CLOSE
@@ -254,16 +290,22 @@ correlation → causation
 THIRD-PARTY → VOICE
 ~~~
 
-sans nouvelle pièce ou justification explicite.
+sont des transitions interdites sans nouvelle pièce ou justification explicite.
 
-La prochaine version devrait ajouter pour chaque ligne :
+### 8.1 Rôle dans le bootstrap d'un Digital Twin
 
-- un identifiant stable ;
-- un score de certitude ;
-- un champ `counterevidence` ;
-- un champ `alternative_explanations` ;
-- un champ `descendant_possibles`;
-- éventuellement une représentation machine-readable YAML/JSON pour Cogentia.
+Le travail réalisé ici n'est pas spécifique au caractère posthume du cas Marie-Louise. Sous une forme proportionnée aux sources disponibles et au mandat, il constitue un travail **normal de bootstrap d'un nouveau Cogentia Digital Twin** :
+
+~~~text
+traces
+→ capacités exprimées
+→ graphe des Possibles
+→ ouvertures / maintiens / frictions / fermetures / réouvertures / charges
+→ incertitudes et contre-évidence
+→ prochaines sondes du Réel
+~~~
+
+Cette vue complète — sans les remplacer — les autres couches de bootstrap d'un Twin : identité, Intent, Cogentigram, Relatogram, mandats, droits, niveau de confiance, corpus/mémoire et état opérationnel courant.
 
 ## 9. Audit spécifique de la zone juillet → 17 septembre 2024
 
