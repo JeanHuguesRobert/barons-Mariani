@@ -7,7 +7,7 @@ description: >
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-08"
-version: "0.3"
+version: "0.4"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -29,6 +29,9 @@ provenance:
     - "memory/marie-louise/elections-2024-complaints.md"
     - "memory/marie-louise/elections/README.md"
     - "memory/marie-louise/works/README.md"
+    - "memory/marie-louise/works/l_alterite_en_soi_2016.md"
+    - "memory/marie-louise/works/photoroman_julie_2017.md"
+    - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
     - "research/protection_responsable.md"
     - "GitHub issues #42, #43, #45, #47, #48, #49, #50"
     - "Gmail traces explicitly inspected during research"
@@ -135,41 +138,120 @@ Marie-Louise était porteuse d’une agénésie congénitale de la main et du po
 
 # 5. Formation et création artistique
 
-**Statut : partiellement documenté ; plusieurs sources primaires ou contemporaines sont désormais identifiées.**
+**Statut : parcours 2016–2022 désormais substantiellement documenté ; certaines articulations institutionnelles restent à retrouver.**
 
-Les éléments retrouvés montrent qu'au début de 2016 Marie-Louise prépare activement son orientation artistique.
+Les sources retrouvées permettent désormais de remplacer l'ancienne formule « éventuel parcours à Nantes » par une chronologie beaucoup plus solide.
 
-Un courriel contemporain du 8 février 2016 la décrit comme motivée par le cinéma d'animation, le dessin, l'art et la philosophie (`Gmail:152bf5062d84da28`). Cette formulation vient de Jean Hugues et reste donc une source tierce contemporaine.
+## 5.1 Printemps 2016 — Terminale et orientation artistique
 
-En février 2016, le compte de Marie-Louise partage directement avec son père un **CV**, une **lettre de motivation** et un autre Google Doc. L'existence et le partage de ces documents sont des `TRACE` directement rattachables à Marie-Louise ; leur contenu reste toutefois `UNKNOWN`, les documents historiques n'étant plus accessibles via le Drive connecté en septembre 2026.
+Un courriel contemporain du 8 février 2016 décrit Marie-Louise comme motivée par le cinéma d'animation, le dessin, l'art et la philosophie (Gmail:152bf5062d84da28). Cette formulation vient de Jean Hugues et reste donc une source tierce contemporaine.
 
-Le 24 avril 2016, un PDF `beauxarts.pdf` conservé dans Gmail (`Gmail:15449b60315649e0`) documente le dépôt d'un **dossier artistique n°193 pour l'admission en première année aux Beaux-Arts de Paris**, examiné les 25–26 avril, avec résultats annoncés pour le 28 avril.
+En février 2016, le compte de Marie-Louise partage directement avec son père un CV, une lettre de motivation et un autre Google Doc. L'existence et le partage de ces documents sont des TRACE directement rattachables à Marie-Louise ; leur contenu reste UNKNOWN, les documents historiques n'étant plus accessibles via le Drive connecté en septembre 2026.
 
-Aucune trace retrouvée à ce stade ne permet d'affirmer le résultat de cette candidature.
+Le 24 avril 2016, un PDF beauxarts.pdf conservé dans Gmail (Gmail:15449b60315649e0) documente le dépôt d'un **dossier artistique n°193 pour l'admission en première année aux Beaux-Arts de Paris**, examiné les 25–26 avril, avec résultats annoncés pour le 28 avril.
 
-Pistes restant à documenter : établissement effectivement intégré après le bac, éventuel parcours à Nantes, Villa Arson, Damien Ruvet, Sylvain Lizon, Université de Corse, expositions ultérieures et travaux personnels.
+Le résultat de cette candidature reste UNKNOWN.
 
-# 6. 2016 — Frontières, stop motion et « fragmentation de l’être »
+## 5.2 2016–2017 — CPES 1, lycée Georges-Clemenceau de Sartène
 
-**Statut : `THIRD-PARTY` contemporain + `TRACE` photographique publique.**
+**Statut : FACT / TRACE primaire.**
 
-Le 14 avril 2016, Corse Net Infos publie un article sur une exposition organisée dans l'écosystème lycée Pascal-Paoli / Université de Corse autour de la notion de frontière. Le projet interroge notamment ce qu'est une frontière et l'incidence éventuelle du lieu sur le développement d'une personne.
+Un certificat de scolarité transmis par Marie-Louise et conservé dans Gmail:15901e3906969ef1 établit qu'elle est inscrite et fréquente régulièrement, pour l'année scolaire **2016–2017**, la formation :
 
-L'article identifie Marie-Louise Robert, alors en Terminale, comme auteure d'une réalisation en **stop motion**. Il décrit journalistiquement ce travail comme racontant la **« fragmentation de l’être »** et publie une photographie de Marie-Louise présentant son travail ainsi qu'une photographie du décor miniature.
+- CPES1 CLASSE PREPA, ETUDES SUPERIEURES ;
+- division CPES 1 ;
+- lycée Georges-Clemenceau, Sartène ;
+- qualité : INTERNE DANS L'ETABLISSEMENT.
 
-La provenance de la formule doit rester explicite :
+Le certificat est daté du 16 novembre 2016.
 
-```text
-« fragmentation de l’être »
+L'établissement effectivement intégré après le bac n'est donc plus une inconnue pour cette première année post-bac.
+
+## 5.3 2017–2021 — Beaux-Arts de Nantes
+
+Un message contemporain du 11 mai 2017 rapporte que Marie-Louise est « prise à Nantes ». Cette formulation est une source contemporaine du père, non la décision d'admission elle-même.
+
+Les traces ultérieures établissent cependant la matérialisation du cursus :
+
+- décembre 2017 : message de la coordination pédagogique de l'École supérieure des beaux-arts de Nantes Métropole adressé notamment à marie-louise.robert@beauxartsnantes.fr (Gmail:16012ff6ab50ad78) ;
+- 2018–2019 : notification du Dossier social étudiant indiquant **NANTES Beaux Arts — Arts et architecture — 2ème année**, avec attribution conditionnelle d'une bourse Culture échelon 6 (Gmail:16737e68bc1918ab) ;
+- juin 2019 : Marie-Louise indique elle-même être à Nantes et évoque des camarades des Beaux-Arts (Gmail:16b31d816e8eb42d) ;
+- 14 avril 2021 : une attestation professionnelle la qualifie encore d'« étudiante à l'école nationale des Beaux-Arts de Nantes » (Gmail:178df4383f1868a0).
+
+La résolution exacte de la difficulté administrative de frais signalée en décembre 2017 reste UNKNOWN, mais les pièces 2018–2021 montrent que le parcours nantais s'est poursuivi.
+
+## 5.4 2021–2022 — Villa Arson / Nice
+
+Une notification de calendrier établit un rendez-vous intitulé **Villa Arson** le 8 avril 2021 (Gmail:178ab8f3f69d09c4).
+
+En janvier 2022, Marie-Louise prépare concrètement une installation dans un logement à Nice et indique bénéficier d'une bourse étudiante échelon 7 (Gmail:17e7808badd54b51).
+
+Un mail rétrospectif de Jean Hugues du 26 septembre 2024 affirme qu'elle avait ensuite réussi le concours d'entrée à la Villa Arson.
+
+État documentaire actuel :
+
+~~~text
+Nantes jusqu'en avril 2021
+= fortement documenté par pièces contemporaines
+
+démarche Villa Arson en avril 2021
+= TRACE
+
+installation à Nice en janvier 2022
+= TRACE
+
+réussite du concours Villa Arson
+= fortement corroborée rétrospectivement
+  mais pièce institutionnelle primaire encore recherchée
+~~~
+
+Voir memory/marie-louise/formation/parcours_artistique_2016_2022.md.
+
+# 6. 2016 — Frontières, *L'altérité en soi* et « fragmentation de l'être »
+
+**Statut : TRACE de plateforme + THIRD-PARTY contemporain + INFERENCE forte.**
+
+Le 3 avril 2016, une notification automatique YouTube indique que le compte **Marie-Louise d'Angelis** a mis en ligne une vidéo intitulée :
+
+> **L'altérité en soi**
+
+avec la description :
+
+> **Entre aliénation et construction de soi. Microcosmos.**
+
+Référence : Gmail:153dcd7070142c29. Identifiant vidéo : KCh-pTvaGfg.
+
+Le 14 avril 2016, Corse Net Infos publie un article sur une exposition organisée dans l'écosystème lycée Pascal-Paoli / Université de Corse autour de la notion de frontière. L'article identifie Marie-Louise Robert, alors en Terminale, comme auteure d'une réalisation en **stop motion** et décrit journalistiquement ce travail comme racontant la :
+
+> « fragmentation de l'être »
+
+La proximité temporelle et thématique rend forte l'hypothèse que *L'altérité en soi* est le stop motion présenté lors de l'exposition.
+
+La provenance de chaque formulation doit cependant rester explicite :
+
+~~~text
+L'altérité en soi
+= titre de la vidéo publiée sous le compte de Marie-Louise
+
+Entre aliénation et construction de soi. Microcosmos.
+= description publiée avec cette vidéo
+
+« fragmentation de l'être »
 = formulation de la source journalistique contemporaine
 
-≠ titre de l’œuvre établi
-≠ formulation directe de Marie-Louise établie
-```
+L'altérité en soi = stop motion exposé le 14 avril
+= INFERENCE forte, non encore vérifiée matériellement
+~~~
 
 La source documente donc un travail artistique et intellectuel public en 2016, mais elle ne doit pas être transformée en annonce rétrospective du suicide.
 
-Voir `memory/marie-louise/works/frontieres_stop_motion_2016.md` et `memory/marie-louise/sources/piste_photos_2016.md`.
+Le 28 mars 2017, le même compte YouTube publie une seconde vidéo retrouvée, **photoromanJulie** (identifiant ac1dJAv0iyw), pendant l'année de CPES à Sartène. Le lien éventuel entre cette vidéo et la formation reste UNKNOWN.
+
+Voir :
+
+- memory/marie-louise/works/frontieres_stop_motion_2016.md ;
+- memory/marie-louise/works/l_alterite_en_soi_2016.md ;
+- memory/marie-louise/works/photoroman_julie_2017.md.
 
 # 7. Vie familiale, études et ruptures de parcours
 
@@ -388,8 +470,10 @@ Les lacunes sont elles-mêmes des informations.
 
 ## P0 — prioritaire pour l’enquête en cours
 
-- [ ] retrouver le fichier original du stop motion de 2016, son titre et, si possible, une parole directe de Marie-Louise sur sa signification ;
-- [ ] retrouver le résultat de la candidature aux Beaux-Arts de Paris 2016 et une source primaire sur l'établissement effectivement intégré ;
+- [ ] récupérer le fichier original de *L'altérité en soi* et confirmer matériellement son identité avec le stop motion présenté le 14 avril 2016 ;
+- [ ] retrouver le résultat de la candidature aux Beaux-Arts de Paris 2016 ;
+- [ ] retrouver la décision institutionnelle initiale d'admission aux Beaux-Arts de Nantes et la résolution exacte du dossier administratif de décembre 2017 ;
+- [ ] retrouver la pièce institutionnelle primaire relative à l'admission / au niveau d'entrée à la Villa Arson ;
 - [ ] résoudre la provenance et les droits des photographies 2016, dont la piste Corse-Matin / José Martinetti ;
 - [ ] établir une chronologie suffisamment fiable de la vie de Marie-Louise ;
 - [ ] retrouver le **fichier matériel final du bulletin sénatorial 2020** effectivement imprimé/distribué après substitution de la remplaçante ;
@@ -401,8 +485,8 @@ Les lacunes sont elles-mêmes des informations.
 ## P1 — approfondissement important
 
 - [ ] naissance et enfance documentées ;
-- [ ] chronologie scolaire et universitaire ;
-- [ ] Villa Arson ;
+- [ ] compléter la chronologie scolaire et universitaire au-delà de l'ossature 2016–2022 désormais documentée ;
+- [ ] documenter précisément la Villa Arson : admission, niveau d'entrée, inscription, fréquentation, travaux et interruption éventuelle ;
 - [ ] lieux de vie et activités professionnelles ;
 - [ ] inventaire des œuvres, photographies, textes et archives numériques ;
 - [ ] dossier complet 2017 et requête Conseil constitutionnel ;
@@ -452,7 +536,7 @@ Chaque version doit pouvoir dire :
     voici ce que nous ignorons
     voici ce qui a changé depuis la version précédente
 
-La version 0.3 est donc intentionnellement incomplète.
+La version 0.4 est donc intentionnellement incomplète.
 
 Sa première fonction est de rendre cette incomplétude **visible, structurée et explorable**.
 
