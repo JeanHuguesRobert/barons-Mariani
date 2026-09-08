@@ -7,7 +7,7 @@ description: >
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-08"
-version: "0.2"
+version: "0.3"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -28,6 +28,7 @@ provenance:
     - "memory/marie-louise/README.md"
     - "memory/marie-louise/elections-2024-complaints.md"
     - "memory/marie-louise/elections/README.md"
+    - "memory/marie-louise/works/README.md"
     - "research/protection_responsable.md"
     - "GitHub issues #42, #43, #45, #47, #48, #49, #50"
     - "Gmail traces explicitly inspected during research"
@@ -103,13 +104,24 @@ Marie-Louise apparaît dans les sources sous plusieurs noms et noms d’usage. L
 
 ## 2008 — *Le dieu de l'eau*
 
-**Statut : `VOICE` / source primaire à consolider.**
+**Statut : `VOICE` + `TRACE` — source primaire retrouvée et publiée.**
 
-Une histoire intitulée *Le dieu de l'eau* a été écrite par Marie-Louise à son père en 2008. Cette œuvre constitue une trace directe et doit être conservée comme telle avant toute interprétation.
+Le mail original du **3 décembre 2008 à 18 h 57** (`Gmail:11dfdff512b6c8bf`) conserve directement l'histoire *Le dieu de l'eau*, envoyée par Marie-Louise à son père.
 
-À retrouver ou consolider : texte source intégral, date exacte, message Gmail ou support original, âge de Marie-Louise, éventuels dessins ou pièces accompagnantes, contexte contemporain attestable et droits de reproduction.
+Marie-Louise présente elle-même le texte comme une histoire qu'elle a imaginée et indique pour thème **« sauver la Terre »**. Le récit met en scène Diana, une jeune héroïne transportée dans un monde sous-marin et appelée à contribuer à sauver la planète.
 
-Les thèmes éventuellement identifiables dans le texte pourront être étudiés, mais ils ne doivent pas être transformés en diagnostic psychologique rétrospectif.
+Le 8 septembre 2026, Jean Hugues Noël Robert a explicitement autorisé la publication publique du **texte intégral verbatim** et du **mail RFC822 original** afin qu'ils servent de sources primaires au futur *Suicide Corse*.
+
+Sources publiées :
+
+- `memory/marie-louise/works/le_dieu_de_leau_2008.md`
+- `memory/marie-louise/works/sources/le_dieu_de_leau_2008_verbatim.txt`
+- `memory/marie-louise/works/sources/2008-12-03_jouyeux-Noel-de-lilou_original.eml`
+- `memory/marie-louise/works/sources/SHA256SUMS.txt`
+
+Une interprétation détaillée de l'œuvre par Jean Hugues existe dès janvier-février 2009. Elle constitue une **interprétation tierce contemporaine**, distincte de la voix de Marie-Louise, et contient du contexte familial privé qui n'est pas couvert par l'autorisation de publication du texte et du mail originaux.
+
+L'œuvre peut faire l'objet de lectures ultérieures, mais elle ne doit pas être transformée rétrospectivement en diagnostic psychologique ni en explication certaine du suicide.
 
 # 4. Corps, handicap et capacité
 
@@ -123,19 +135,41 @@ Marie-Louise était porteuse d’une agénésie congénitale de la main et du po
 
 # 5. Formation et création artistique
 
-**Statut : très incomplet.**
+**Statut : partiellement documenté ; plusieurs sources primaires ou contemporaines sont désormais identifiées.**
 
-Les éléments actuellement dispersés indiquent un parcours de formation et de création artistique qui doit être reconstruit indépendamment de la question du suicide.
+Les éléments retrouvés montrent qu'au début de 2016 Marie-Louise prépare activement son orientation artistique.
 
-Pistes connues : Villa Arson, Damien Ruvet, Sylvain Lizon, lycée Pascal-Paoli, Université de Corse, expositions et travaux personnels.
+Un courriel contemporain du 8 février 2016 la décrit comme motivée par le cinéma d'animation, le dessin, l'art et la philosophie (`Gmail:152bf5062d84da28`). Cette formulation vient de Jean Hugues et reste donc une source tierce contemporaine.
 
-# 6. 2016 — Frontières et « fragmentation de l’être »
+En février 2016, le compte de Marie-Louise partage directement avec son père un **CV**, une **lettre de motivation** et un autre Google Doc. L'existence et le partage de ces documents sont des `TRACE` directement rattachables à Marie-Louise ; leur contenu reste toutefois `UNKNOWN`, les documents historiques n'étant plus accessibles via le Drive connecté en septembre 2026.
 
-**Statut : `THIRD-PARTY` + traces photographiques à consolider.**
+Le 24 avril 2016, un PDF `beauxarts.pdf` conservé dans Gmail (`Gmail:15449b60315649e0`) documente le dépôt d'un **dossier artistique n°193 pour l'admission en première année aux Beaux-Arts de Paris**, examiné les 25–26 avril, avec résultats annoncés pour le 28 avril.
 
-En avril 2016, Marie-Louise participe à une exposition autour de la frontière dans l’écosystème lycée Pascal-Paoli / Université de Corse. Une source contemporaine, Corse Net Infos, décrit son travail en employant notamment l’expression « fragmentation de l’être ».
+Aucune trace retrouvée à ce stade ne permet d'affirmer le résultat de cette candidature.
 
-Cette trace documente un travail artistique et intellectuel plusieurs années avant sa mort. Elle peut être mise en relation avec des questions de frontière, d’identité, de fragmentation ou de construction de la personne, à condition de maintenir visible le statut interprétatif de cette mise en relation. Elle ne doit pas être transformée en annonce rétrospective de son suicide.
+Pistes restant à documenter : établissement effectivement intégré après le bac, éventuel parcours à Nantes, Villa Arson, Damien Ruvet, Sylvain Lizon, Université de Corse, expositions ultérieures et travaux personnels.
+
+# 6. 2016 — Frontières, stop motion et « fragmentation de l’être »
+
+**Statut : `THIRD-PARTY` contemporain + `TRACE` photographique publique.**
+
+Le 14 avril 2016, Corse Net Infos publie un article sur une exposition organisée dans l'écosystème lycée Pascal-Paoli / Université de Corse autour de la notion de frontière. Le projet interroge notamment ce qu'est une frontière et l'incidence éventuelle du lieu sur le développement d'une personne.
+
+L'article identifie Marie-Louise Robert, alors en Terminale, comme auteure d'une réalisation en **stop motion**. Il décrit journalistiquement ce travail comme racontant la **« fragmentation de l’être »** et publie une photographie de Marie-Louise présentant son travail ainsi qu'une photographie du décor miniature.
+
+La provenance de la formule doit rester explicite :
+
+```text
+« fragmentation de l’être »
+= formulation de la source journalistique contemporaine
+
+≠ titre de l’œuvre établi
+≠ formulation directe de Marie-Louise établie
+```
+
+La source documente donc un travail artistique et intellectuel public en 2016, mais elle ne doit pas être transformée en annonce rétrospective du suicide.
+
+Voir `memory/marie-louise/works/frontieres_stop_motion_2016.md` et `memory/marie-louise/sources/piste_photos_2016.md`.
 
 # 7. Vie familiale, études et ruptures de parcours
 
@@ -324,6 +358,7 @@ Elle reste à produire.**
 - `memory/marie-louise/README.md`
 - `memory/marie-louise/elections-2024-complaints.md`
 - `memory/marie-louise/elections/README.md`
+- `memory/marie-louise/works/README.md`
 - `research/protection_responsable.md`
 - chantier `projects/suicide-corse/`
 - documents relatifs à la Seconde Méthode ;
@@ -353,8 +388,9 @@ Les lacunes sont elles-mêmes des informations.
 
 ## P0 — prioritaire pour l’enquête en cours
 
-- [ ] retrouver et consolider *Le dieu de l'eau* ;
-- [ ] consolider le dossier artistique de 2016 ;
+- [ ] retrouver le fichier original du stop motion de 2016, son titre et, si possible, une parole directe de Marie-Louise sur sa signification ;
+- [ ] retrouver le résultat de la candidature aux Beaux-Arts de Paris 2016 et une source primaire sur l'établissement effectivement intégré ;
+- [ ] résoudre la provenance et les droits des photographies 2016, dont la piste Corse-Matin / José Martinetti ;
 - [ ] établir une chronologie suffisamment fiable de la vie de Marie-Louise ;
 - [ ] retrouver le **fichier matériel final du bulletin sénatorial 2020** effectivement imprimé/distribué après substitution de la remplaçante ;
 - [ ] rechercher toute trace contemporaine expliquant le choix par Laurence Vernerey du nom de bulletin `Marie-Louise d'Angelis` ;
@@ -416,7 +452,7 @@ Chaque version doit pouvoir dire :
     voici ce que nous ignorons
     voici ce qui a changé depuis la version précédente
 
-La version 0.1 est donc intentionnellement incomplète.
+La version 0.3 est donc intentionnellement incomplète.
 
 Sa première fonction est de rendre cette incomplétude **visible, structurée et explorable**.
 
