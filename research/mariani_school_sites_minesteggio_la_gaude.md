@@ -3,8 +3,9 @@ title: "Mariani School of Autonomy — deux sites, un même projet patrimonial e
 subtitle: "Minesteggio / Corte et La Maison Blanche / La Gaude"
 author: "Jean Hugues Noël Robert"
 status: "draft"
-version: "0.2"
+version: "0.3"
 date: "2026-08-08"
+updated_at: "2026-09-08"
 repository: "barons-Mariani"
 path: "research/mariani_school_sites_minesteggio_la_gaude.md"
 type: "source_note"
@@ -502,11 +503,39 @@ Cette étape ne vise pas à faire de Damien un simple intermédiaire. Son intér
 
 ## 6.4 Marie-Louise et la Villa Arson
 
-Les échanges familiaux et universitaires conservés dans Gmail confirment que Marie-Louise avait poursuivi des études aux Beaux-Arts de Nantes puis réussi le concours d’entrée à la Villa Arson, avant d’interrompre ce parcours.
+Le lien biographique de Marie-Louise avec la Villa Arson est **fortement corroboré**, mais l’état actuel du Corpus ne permet pas encore de présenter comme pièce primaire retrouvée une décision institutionnelle d’admission.
 
-Cette relation biographique donne au projet une continuité particulière.
+La chronologie disponible distingue plusieurs niveaux de preuve :
 
-Elle ne doit cependant pas être utilisée comme argument d’autorité ou comme justification artificielle du projet.
+- jusqu’au **14 avril 2021**, Marie-Louise est encore qualifiée, dans une attestation professionnelle contemporaine, d’étudiante aux Beaux-Arts de Nantes (`Gmail:178df4383f1868a0`) ;
+- le **8 avril 2021**, le calendrier de Jean Hugues contient un rendez-vous intitulé `Villa Arson`, sans description ni participants permettant d’en préciser la fonction (`Gmail:178ab8f3f69d09c4`) ;
+- en **janvier 2022**, Marie-Louise prépare concrètement son installation dans un logement à Nice et indique bénéficier d’une bourse étudiante (`Gmail:17e7808badd54b51`) ;
+- en **mai 2022**, une biographie de campagne rédigée par Martine Brillais situe déjà son parcours « entre la Corse, Villa Arson et Nantes » (`Gmail:180cd1d38f6e85ca`) : il s’agit d’une source tierce contemporaine, antérieure au décès ;
+- en **septembre 2024**, Jean Hugues écrit rétrospectivement qu’elle avait réussi le concours d’entrée à la Villa Arson (`Gmail:1922e3c9dd706501`) ;
+- en **octobre 2024**, Corse Net Infos publie qu’elle avait été admise en quatrième année à la Villa Arson : source publique secondaire, posthume.
+
+La qualification de référence doit donc être :
+
+~~~text
+parcours aux Beaux-Arts de Nantes jusqu’en 2021
+= documenté par pièces contemporaines
+
+démarche Villa Arson en avril 2021
+= TRACE
+
+installation étudiante préparée à Nice début 2022
+= TRACE
+
+admission à la Villa Arson, probablement en quatrième année
+= fortement corroborée
+
+décision institutionnelle primaire d’admission
+= non encore retrouvée
+~~~
+
+Voir aussi `memory/marie-louise/formation/parcours_artistique_2016_2022.md`.
+
+Cette relation biographique donne au projet une continuité particulière, mais ne doit pas être utilisée comme argument d’autorité ni comme justification artificielle du projet.
 
 Elle peut être reconnue pour ce qu’elle est :
 
