@@ -6,8 +6,8 @@ description: >
   contradictions et inconnues concernant Marie-Louise Isabelle Garance Robert.
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-07"
-version: "0.1"
+date: "2026-09-08"
+version: "0.2"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -27,6 +27,7 @@ provenance:
   derived_from:
     - "memory/marie-louise/README.md"
     - "memory/marie-louise/elections-2024-complaints.md"
+    - "memory/marie-louise/elections/README.md"
     - "research/protection_responsable.md"
     - "GitHub issues #42, #43, #45, #47, #48, #49, #50"
     - "Gmail traces explicitly inspected during research"
@@ -153,56 +154,74 @@ Pour chaque élément biographique important, appliquer :
 
 # 8. Engagement politique et électoral : 2017–2024
 
-Le **premier engagement électoral de Marie-Louise actuellement documenté dans cette carte** remonte à 2017. Cette formulation ne signifie pas qu’elle n’avait aucune pensée ou activité politique antérieure : elle indique seulement l’état actuel des traces retrouvées.
+L'histoire électorale de Marie-Louise est désormais suffisamment documentée pour être traitée comme une séquence propre, avec quatre épisodes distincts. Les détails et sources sont consolidés dans `memory/marie-louise/elections/`.
 
-## 8.1 2017 — première candidature documentée
+## 8.1 2017 — suppléante de Baron Mariani
 
-**Statut : `FACT` / `TRACE` — Gmail + document électoral.**
+**Statut : `FACT` / `TRACE`.**
 
-Lors des élections législatives de 2017 dans la deuxième circonscription de Haute-Corse, Jean Hugues Noël Robert se présente sous le nom de **Baron Mariani**. Marie-Louise est sa suppléante sous le nom de **Marie-Louise d'Angelis**.
+Jean Hugues Noël Robert se présente aux législatives dans la deuxième circonscription de Haute-Corse sous le nom `Baron Mariani`. Marie-Louise est sa suppléante sous le nom `Marie-Louise d'Angelis`.
 
-Un courriel contemporain du 24 mai 2017 indique explicitement :
+La candidature est définitivement enregistrée le 23 mai 2017. Un courriel contemporain du 24 mai identifie explicitement ces rôles et noms. Le ministère de l'Intérieur publie 104 voix, soit 0,30 % des exprimés, pour `M. Le BARON MARIANI` au premier tour.
 
-> « Je suis candidat en Corse, sous l'intitulé "Baron Mariani", dans la seconde circonscription de Haute-Corse (2B02), ma suppléante est "Marie-Louise d'Angelis". »
+Une requête au Conseil constitutionnel est ensuite déposée par Jean Hugues le 28 juin ; elle rappelle `Marie-Louise d'Angelis` comme suppléante mais ne permet pas d'attribuer à Marie-Louise un rôle personnel dans le contentieux.
 
-Traces actuellement identifiées :
+Voir `elections/2017-legislatives.md`.
 
-- `Gmail:15c396df0bbee0d6` — 24 mai 2017 : courriel attestant explicitement cette qualité de suppléante ;
-- `Gmail:15ceea7dcc14bef6` — 28 juin 2017 : message intitulé `requete conseil constitutionnel`, avec pièce jointe `requête conseil constitutionnel.pdf`.
+## 8.2 2020 — remplaçante proposée, refusée pour âge, puis bifurcation nominale
 
-Le rôle personnel de Marie-Louise dans le contentieux post-électoral ne doit pas être déduit de sa seule qualité de suppléante. La requête doit être lue intégralement et ses auteurs/signataires identifiés.
+**Statut : `VOICE` / `TRACE` / `FACT`.**
 
-## 8.2 2020 — une place encore à documenter
+Le 7 septembre 2020, Marie-Louise signe elle-même le CERFA de remplaçante de Jean Hugues pour la candidature sénatoriale en Haute-Corse. Son identité civile est `Marie-Louise Isabelle Garance ROBERT` et son nom déclaré pour le bulletin est `Marie-Louise d'Angelis`.
 
-**Statut : `ASSERTION-JHR` / à vérifier sur pièces contemporaines.**
+La préfecture puis le ministère considèrent qu'elle ne satisfait pas à la condition d'âge applicable. La candidature est refusée le 10 septembre.
 
-Selon le souvenir actuellement consigné de Jean Hugues Noël Robert, Marie-Louise ne pouvait pas tenir juridiquement le rôle de remplaçante lors de la candidature sénatoriale de 2020 en raison de son âge. Laurence a donc tenu ce rôle formel.
+Jean Hugues dépose alors une seconde candidature en Corse-du-Sud avec **Laurence Marie VERNEREY** comme remplaçante civile. Le CERFA de Laurence indique cependant, dans le champ `Nom figurant sur le bulletin de vote`, **`Marie-Louise d'Angelis`**.
 
-Cette information doit être vérifiée avant promotion en `FACT`.
+La candidature est définitivement enregistrée. L'arrêté préfectoral publie les identités administratives `ROBERT Jean, Hugues / VERNEREY Laurence`, tandis que le livret définitif du Sénat publie les noms de candidature `Baron MARIANI / Marie-Louise D'ANGELIS`.
 
-Il faut distinguer :
+La motivation de cet usage du nom par Laurence en 2020 reste `UNKNOWN` : elle ne doit pas être reconstruite depuis les usages symboliques envisagés en 2026.
 
-    continuité familiale ou politique éventuelle
-    ≠
-    qualité juridique de remplaçante
-    ≠
-    implication personnelle effectivement documentée
+Voir `elections/2020-senatoriales.md`.
 
-## 8.3 2022 — Marie-Louise devient candidate titulaire
+## 8.3 2022 — première candidature titulaire documentée
 
-**Statut : fortement documenté ; dossier à consolider.**
+**Statut : `FACT` / `TRACE`.**
 
-En 2022, la relation électorale s’inverse : Marie-Louise devient candidate titulaire et Jean Hugues Noël Robert devient son suppléant.
+Marie-Louise devient candidate titulaire dans la deuxième circonscription de Haute-Corse et Jean Hugues devient son suppléant.
 
-C’est également autour de cette candidature qu’est élaboré un langage graphique centré sur une représentation de Marie-Louise. Les échanges Gmail retrouvés montrent l’élaboration d’un « bulletin de vote collector de Malou », avec notamment Jean Hugues Noël Robert et Damien Ruvet. La provenance graphique doit rester précisément décrite.
+Le CERFA donne `Baronne ML Mariani` comme nom de bulletin de la candidate, `Baron JHN Mariani` pour le suppléant, et `REG` comme étiquette politique déclarée. Le ministère publie toutefois la nuance administrative `DIV` dans les résultats.
 
-## 8.4 2024 — seconde candidature comme titulaire
+Plusieurs traces montrent une participation documentaire directe de Marie-Louise, notamment l'envoi depuis son compte d'un fichier de bulletin. Le résultat officiel est de 75 voix, soit 0,24 % des exprimés.
 
-**Statut : fortement documenté.**
+Voir `elections/2022-legislatives.md`.
 
-Marie-Louise Isabelle Garance Robert est candidate titulaire dans la deuxième circonscription de Haute-Corse lors des élections législatives de 2024. Jean Hugues Noël Robert est son suppléant.
+## 8.4 2024 — seconde candidature titulaire et trace directe d'agence
 
-Le bulletin reprend et adapte le langage graphique développé antérieurement autour de Marie-Louise. Cette matérialité graphique devient après sa mort une trace importante, mais sa provenance doit rester précisément décrite.
+**Statut : `FACT` / `TRACE`; `VOICE` privée disponible sous disclosure gate.**
+
+Marie-Louise est à nouveau candidate titulaire dans la deuxième circonscription de Haute-Corse, avec Jean Hugues comme suppléant. Le CERFA donne `baronne Marie-Louise MARIANI`, profession `Artiste`, et l'étiquette déclarée `Suvranu (régionaliste)`.
+
+La candidature reçoit un récépissé définitif le 17 juin 2024. Une correspondance privée contemporaine de Marie-Louise documente directement sa volonté de confier à son père des fonctions de direction et de représentation de campagne ; le texte exact n'est pas reproduit sans autorisation de divulgation spécifique.
+
+Le résultat du premier tour est de 50 voix, soit 0,11 % des exprimés.
+
+Les plaintes et suites institutionnelles sont documentées séparément dans `elections-2024-complaints.md`.
+
+Voir `elections/2024-legislatives.md`.
+
+## 8.5 Lecture minimale de la trajectoire
+
+La chronologie autorise désormais cette description factuelle :
+
+```text
+2017 — suppléante
+2020 — remplaçante proposée et consentante, mais candidature refusée pour âge
+2022 — candidate titulaire
+2024 — candidate titulaire à nouveau
+```
+
+Cette trajectoire montre une évolution objective de sa place électorale. Elle ne suffit pas, à elle seule, à établir ses motivations, son degré d'investissement subjectif ou une causalité quelconque avec les événements ultérieurs.
 
 # 9. Juin–juillet 2024 — campagne, plaintes et préjudice allégué
 
@@ -304,6 +323,7 @@ Elle reste à produire.**
 
 - `memory/marie-louise/README.md`
 - `memory/marie-louise/elections-2024-complaints.md`
+- `memory/marie-louise/elections/README.md`
 - `research/protection_responsable.md`
 - chantier `projects/suicide-corse/`
 - documents relatifs à la Seconde Méthode ;
@@ -336,8 +356,8 @@ Les lacunes sont elles-mêmes des informations.
 - [ ] retrouver et consolider *Le dieu de l'eau* ;
 - [ ] consolider le dossier artistique de 2016 ;
 - [ ] établir une chronologie suffisamment fiable de la vie de Marie-Louise ;
-- [ ] reconstituer précisément la séquence électorale 2017 → 2020 → 2022 → 2024 ;
-- [ ] vérifier sur pièces la situation de 2020 ;
+- [ ] retrouver le **fichier matériel final du bulletin sénatorial 2020** effectivement imprimé/distribué après substitution de la remplaçante ;
+- [ ] rechercher toute trace contemporaine expliquant le choix par Laurence Vernerey du nom de bulletin `Marie-Louise d'Angelis` ;
 - [ ] construire la chronologie détaillée de l’été 2024 ;
 - [ ] rattacher les affirmations importantes de `research/protection_responsable.md` à leurs sources primaires ;
 - [ ] distinguer explicitement les inconnues des informations simplement non encore recherchées.
@@ -350,10 +370,8 @@ Les lacunes sont elles-mêmes des informations.
 - [ ] lieux de vie et activités professionnelles ;
 - [ ] inventaire des œuvres, photographies, textes et archives numériques ;
 - [ ] dossier complet 2017 et requête Conseil constitutionnel ;
-- [ ] place éventuelle de Marie-Louise autour de la campagne 2020 ;
-- [ ] dossier complet 2022 ;
-- [ ] paroles politiques directement attribuables à Marie-Louise ;
-- [ ] dossier complet 2024.
+- [ ] compléter les paroles politiques directement attribuables à Marie-Louise pour 2017 et 2022 ;
+- [ ] documenter plus finement la distribution des rôles de campagne en 2022 et 2024 sans inférence rétrospective ;
 
 ## P2 — enrichissement progressif
 
