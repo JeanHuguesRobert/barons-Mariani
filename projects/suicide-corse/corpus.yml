@@ -29,6 +29,34 @@ sources:
     required: false
     note: "Consolidated electoral chronology; preserve civil identity / ballot-name / administrative-nuance distinctions."
 
+  - id: marie-louise-works
+    path: memory/marie-louise/works/README.md
+    role: source-index
+    required: false
+    note: "Direct creative works and contemporary artistic traces; preserve source / interpretation distinction."
+
+  - id: le-dieu-de-leau-2008
+    path: memory/marie-louise/works/le_dieu_de_leau_2008.md
+    role: source-note
+    required: false
+
+  - id: le-dieu-de-leau-verbatim
+    path: memory/marie-louise/works/sources/le_dieu_de_leau_2008_verbatim.txt
+    role: primary-source
+    required: false
+    note: "Full verbatim text authorized for public publication and intended for full integration in a future Suicide Corse edition."
+
+  - id: le-dieu-de-leau-original-email
+    path: memory/marie-louise/works/sources/2008-12-03_jouyeux-Noel-de-lilou_original.eml
+    role: primary-source
+    required: false
+    note: "Original RFC822 email; provenance anchor for the verbatim text."
+
+  - id: frontieres-stop-motion-2016
+    path: memory/marie-louise/works/frontieres_stop_motion_2016.md
+    role: source-note
+    required: false
+
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source
@@ -86,8 +114,9 @@ editorial_rules:
   unknown_is_allowed: true
 
 open_gaps:
-  - "Consolidate Le dieu de l'eau (2008)."
-  - "Consolidate the 2016 exhibition sources and image rights."
+  - "Recover the 2016 stop-motion original/title/artist statement if possible."
+  - "Recover the 2016 Beaux-Arts de Paris admission result and the subsequent school-enrolment primary trace."
+  - "Resolve the 2016 photo provenance/rights trail, including the Corse-Matin / José Martinetti lead."
   - "Locate the exact final physical 2020 Senate ballot artifact and any contemporary trace explaining the use of 'Marie-Louise d'Angelis' by Laurence Vernerey."
   - "Reconstruct summer 2024 from primary traces without retrospective filling."
   - "Add demographic and suicidology datasets after contradictory review."
