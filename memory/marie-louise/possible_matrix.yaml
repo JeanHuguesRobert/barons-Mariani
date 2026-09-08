@@ -997,4 +997,39 @@ events:
     counterevidence: []
     alternative_explanations: []
     prohibited_inference:
-    - Promouvoir une ligne antérieure unique en cause du suicide.
+    - Promouvoir une ligne antérieure unique en cause du suicide.- id: mlp-2024-009
+  when:
+    value: '2024-09-27'
+    precision: day
+  domain:
+  - politics
+  - law
+  observation: La requête 2024-6309 AN est rejetée comme irrecevable, sans examen au fond.
+  dynamics:
+  - close
+  possible_ids:
+  - p:electoral-remedy
+  actors_or_mechanisms:
+  - règle procédurale du contentieux électoral
+  observed_outcome: La branche procédurale de ce recours est fermée.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Utiliser cette fermeture postérieure au décès comme cause d'un événement antérieur.
+  evidence:
+  - ref: Conseil constitutionnel:2024-6309-AN
+    source_class: public_source
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - irrecevabilité
+    - absence d'examen au fond
+    visibility: public
+  next_probes: []
+  scope_delta: narrow
+  qualifiers:
+  - posthumous
+  sequence: 26
