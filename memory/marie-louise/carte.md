@@ -7,7 +7,7 @@ description: >
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-08"
-version: "0.5"
+version: "0.6"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -32,6 +32,7 @@ provenance:
     - "memory/marie-louise/works/l_alterite_en_soi_2016.md"
     - "memory/marie-louise/works/photoroman_julie_2017.md"
     - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
+    - "memory/marie-louise/possible_matrix.md"
     - "research/protection_responsable.md"
     - "GitHub issues #42, #43, #45, #47, #48, #49, #50"
     - "Gmail traces explicitly inspected during research"
@@ -393,6 +394,8 @@ Suites déjà identifiées : réception ou transmission par certains services ju
 
 La période comprise entre la campagne électorale et le 17 septembre 2024 doit faire l’objet d’une reconstruction documentaire particulièrement rigoureuse. Cette période ne doit pas être remplie par un récit rétrospectif lorsque les traces manquent.
 
+Le premier Reality Case longitudinal est désormais matérialisé dans `memory/marie-louise/possible_matrix.md`. Il distingue `CAPACITY`, `OPEN`, `MAINTAIN`, `FRICTION`, `CLOSE`, `REOPEN`, `LOAD` et `UNKNOWN` afin de ne pas confondre obstacle, charge, fermeture et causalité.
+
 Matrice souhaitée :
 
 | Date | Événement | Source | Type | Possible ouvert/fermé | Réponse | Certitude |
@@ -477,6 +480,7 @@ Elle reste à produire.**
 - `memory/marie-louise/elections-2024-complaints.md`
 - `memory/marie-louise/elections/README.md`
 - `memory/marie-louise/works/README.md`
+- `memory/marie-louise/possible_matrix.md`
 - `research/protection_responsable.md`
 - chantier `projects/suicide-corse/`
 - documents relatifs à la Seconde Méthode ;
@@ -514,7 +518,7 @@ Les lacunes sont elles-mêmes des informations.
 - [ ] établir une chronologie suffisamment fiable de la vie de Marie-Louise ;
 - [ ] retrouver le **fichier matériel final du bulletin sénatorial 2020** effectivement imprimé/distribué après substitution de la remplaçante ;
 - [ ] rechercher toute trace contemporaine expliquant le choix par Laurence Vernerey du nom de bulletin `Marie-Louise d'Angelis` ;
-- [ ] construire la chronologie détaillée de l’été 2024 ;
+- [ ] poursuivre la reconstruction détaillée de l’été 2024 à partir de la matrice longitudinale et de sources diversifiées ;
 - [ ] poursuivre le rattachement des affirmations de `research/protection_responsable.md` à leurs sources primaires ; l’aidance 2024 est désormais documentée, mais le lien causal `aidance → interruption d’études` reste à établir ;
 - [ ] distinguer explicitement les inconnues des informations simplement non encore recherchées.
 
@@ -572,7 +576,7 @@ Chaque version doit pouvoir dire :
     voici ce que nous ignorons
     voici ce qui a changé depuis la version précédente
 
-La version 0.5 est donc intentionnellement incomplète.
+La version 0.6 est donc intentionnellement incomplète.
 
 Sa première fonction est de rendre cette incomplétude **visible, structurée et explorable**.
 
