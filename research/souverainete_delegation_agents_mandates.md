@@ -1,11 +1,12 @@
 ---
 title: "Souveraineté, délégation et Agents Mandatés"
 subtitle: "Grammaire commune du pouvoir politique, de la démocratie capable et des systèmes agentiques"
+description: "Une grammaire bornée de délégation pour les Handlers humains, institutionnels, artificiels ou hybrides."
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A."
-date: "2026-08-24"
-last_modified_at: "2026-08-24"
-version: "0.1"
+date: "2026-09-08"
+last_modified_at: "2026-09-08"
+version: "0.2"
 status: "working-paper — consolidation doctrinale"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -15,11 +16,25 @@ visibility: "public"
 lifecycle_state: "working"
 repository: "JeanHuguesRobert/barons-Mariani"
 canonical_path: "research/souverainete_delegation_agents_mandates.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/souverainete_delegation_agents_mandates.md"
+last_stamped_at: unknown
 human_validation_required: true
 validation:
   status: "approved_for_initial_corpus_integration"
   validator: "Jean Hugues"
   date: "2026-08-24"
+ai_assisted_by:
+  - "Codex (provisional v0.2 consolidation under issue #62)"
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+update_policy: UP-DEFAULT-REVIEWED
 related:
   - "./noyau_doctrinal_rendre_capable.md"
   - "./democratie_capable.md"
@@ -34,6 +49,9 @@ tags:
   - mandat
   - agent-mandate
   - mandated-agent
+  - mandated-handler
+  - handler-mandate
+  - actor-neutral-accountability
   - principal-agent
   - democratie-capable
   - autonomie-de-capacite
@@ -45,6 +63,7 @@ tags:
   - portabilite
 changelog:
   - "v0.1 (2026-08-24) — consolidation des acquis : souveraineté individuelle et populaire effectives, délégation sans aliénation, Agent Mandaté, autonomie opérationnelle sans autonomisation de l'autorité, reddition, révocation, anti-capture, portabilité et pluralité des implémentations."
+  - "v0.2 (2026-09-08) — consolidation provisoire des Handlers Mandatés : grammaire commune de délégation humaine, institutionnelle, artificielle ou hybride ; traçabilité proportionnée, symétrique et contestable ; distinction maintenue entre autonomie opérationnelle et auto-autorisation."
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -193,9 +212,9 @@ L'ordinateur peut rechercher, comparer, simuler, tracer, rappeler, alerter, pré
 
 ---
 
-## 10. Agent Mandaté
+## 10. Agent Mandaté et Handler Mandaté
 
-Le terme **Agent Mandaté** (*Mandated Agent*) est retenu comme terme générique préférable à la seule expression *Agent autonome*.
+Le terme **Agent Mandaté** (*Mandated Agent*) est retenu, pour le cas logiciel, comme terme préférable à la seule expression *Agent autonome*.
 
 Un Agent Mandaté est un agent disposant d'une autonomie opérationnelle dans les limites d'un mandat explicite, traçable et révocable émanant d'un Principal.
 
@@ -207,12 +226,39 @@ Il ne peut pas s'attribuer sa propre finalité, augmenter unilatéralement son a
 
 > **L'Agent Mandaté peut choisir ses moyens ; il ne peut pas s'attribuer son mandat.**
 
+> **Une grammaire commune de délégation n'efface pas les différences entre les Handlers.**
+
+> **La traçabilité proportionnée rend compte ; elle ne surveille ni ne condamne par elle-même.**
+
 La distinction centrale est donc :
 
 ```text
 autonomie opérationnelle : recherchée
 autonomisation de l'autorité : interdite
 ```
+
+La catégorie plus générale est celle du **Handler Mandaté**. Un Handler est une
+personne humaine, une institution, un système artificiel ou une composition
+hybride qui exécute une capacité sous mandat. L'Agent Mandaté est le cas
+logiciel du Handler Mandaté.
+
+```text
+Handler Mandaté
+├─ Handler humain
+├─ Handler institutionnel
+├─ Handler artificiel ou logiciel = Agent Mandaté
+└─ Handler hybride
+```
+
+Cette généralisation ne rend pas ces catégories identiques. Elle ne confère ni
+personnalité juridique, ni souveraineté, ni droits politiques à une machine.
+Elle rend comparables les chaînes de délégation, tout en préservant les droits,
+devoirs, garanties et responsabilités propres à chaque type de Handler.
+
+Une personne ne devient pas pour autant un objet administré dès qu'elle
+participe à une action. Elle est Handler seulement pour une capacité située,
+dans un mandat identifiable, avec les garanties de refus, de contradiction et
+de recours applicables.
 
 ---
 
@@ -223,7 +269,7 @@ La grammaire minimale est :
 ```text
 PRINCIPAL
    -> MANDAT
-   -> AGENT MANDATÉ
+   -> HANDLER MANDATÉ
    -> CAPACITÉS BORNÉES
    -> AUTONOMIE OPÉRATIONNELLE
    -> ACTES / EFFETS
@@ -235,9 +281,33 @@ PRINCIPAL
 Deux invariants gouvernent cette chaîne :
 
 1. **la délégation ne transfère pas la souveraineté ;**
-2. **l'agent ne peut pas augmenter unilatéralement son autorité sur son Principal.**
+2. **aucun Handler ne peut augmenter unilatéralement son autorité sur son Principal.**
 
-Cette grammaire est fractale : un Agent Mandaté peut devenir Principal d'un sous-agent pour une capacité déterminée, sans que cette sous-délégation crée une nouvelle souveraineté indépendante.
+Cette grammaire est fractale : un Handler Mandaté peut devenir Principal d'un
+sous-Handler pour une capacité déterminée, sans que cette sous-délégation crée
+une nouvelle souveraineté indépendante.
+
+### 11.1 Reddition sans bureaucratisation ni surveillance
+
+Une grammaire commune d'imputabilité ne justifie ni le contrôle permanent des
+personnes, ni une procédure pour chaque micro-acte, ni la transformation d'une
+trace en verdict automatique de responsabilité.
+
+La trace doit être proportionnée à l'effet, à l'exposition, à la réversibilité,
+aux droits de tiers et au besoin réel de reprise, de contestation ou de
+réparation. Elle doit minimiser les données personnelles et protéger les
+éléments confidentiels.
+
+Lorsqu'une interaction est significative, la trace doit autant que possible être
+**symétrique** : intelligible, récupérable et contestable par le Principal ou
+la personne affectée selon ses droits. Elle prépare l'analyse d'une
+responsabilité ; elle ne décide pas seule une responsabilité juridique ou
+morale.
+
+Pour un Principal institutionnel, l'imputabilité ne peut pas s'arrêter au mot
+« institution ». La chaîne doit permettre de retrouver l'organe compétent, le
+mandat applicable, les représentants responsables et une voie de recours ou de
+correction.
 
 ---
 
@@ -347,7 +417,12 @@ L'audit d'implémentation devra notamment vérifier :
 
 ## 17. Continuation
 
-La prochaine étape n'est plus principalement doctrinale. Elle consiste à confronter les implémentations du Corpus à ces invariants, en commençant par COP, Magistral, Cognitive Packets, les couches ACP récemment introduites et les mécanismes de provisionnement/sous-agents.
+La prochaine étape est une consolidation progressive : confronter cette
+formulation provisoire aux implémentations du Corpus, en commençant par COP,
+Magistral, Cognitive Packets, les couches ACP récemment introduites et les
+mécanismes de provisionnement/sous-agents. Une revue décorrelée reste utile
+pour chercher les angles morts ; son absence ne transforme pas une expérience
+bornée, explicitement autorisée et marquée comme non revue en impossibilité.
 
 Le principe de travail est :
 
