@@ -1,0 +1,1000 @@
+schema_version: cogentia.possible-matrix.v0
+kind: longitudinal_possible_matrix
+matrix_id: marie-louise.possibles.v0.2
+subject:
+  id: person:marie-louise-robert
+  label: Marie-Louise Isabelle Garance Robert
+source_projection:
+  document: memory/marie-louise/possible_matrix.md
+  blob_sha: 74c1d6119e8d8b6c5ce03c4ff788ac9606697df8
+  projection_status: working_derived_projection
+  note: Machine-readable working projection derived from the human-readable v0.2 matrix; validated against JeanHuguesRobert/cogentia schemas/possible-matrix.v0.schema.json; not authoritative.
+dynamic_vocabulary:
+  dynamics:
+  - capacity
+  - open
+  - maintain
+  - friction
+  - close
+  - reopen
+  - load
+  - unknown
+  scope_delta:
+  - narrow
+  - same
+  - expand
+  - unknown
+possible_registry:
+- id: p:creative-expression
+  label: Produire une œuvre artistique
+- id: p:public-art-visibility
+  label: Présenter ou publier une œuvre
+  parent_ids:
+  - p:creative-expression
+- id: p:higher-art-education
+  label: Accéder et poursuivre des études supérieures d'art
+- id: p:cpes-sartene
+  label: Suivre la CPES artistique de Sartène
+  parent_ids:
+  - p:higher-art-education
+- id: p:beaux-arts-paris
+  label: Intégrer les Beaux-Arts de Paris
+  parent_ids:
+  - p:higher-art-education
+- id: p:beaux-arts-nantes
+  label: Intégrer et poursuivre les Beaux-Arts de Nantes
+  parent_ids:
+  - p:higher-art-education
+- id: p:villa-arson
+  label: Transition vers la Villa Arson / Nice
+  parent_ids:
+  - p:higher-art-education
+- id: p:professional-art
+  label: Accéder à une expérience artistique professionnelle
+  parent_ids:
+  - p:creative-expression
+- id: p:electoral-agency
+  label: Exercer une capacité politique électorale
+- id: p:senate-substitute-2020
+  label: Être remplaçante à la sénatoriale 2020
+  parent_ids:
+  - p:electoral-agency
+- id: p:legislative-candidate
+  label: Être candidate titulaire aux législatives
+  parent_ids:
+  - p:electoral-agency
+- id: p:caregiving
+  label: Exercer une activité d'aidance
+- id: p:electoral-remedy
+  label: Accéder à des voies de recours électorales
+  parent_ids:
+  - p:electoral-agency
+- id: p:election-2024
+  label: Être élue lors des législatives 2024
+  parent_ids:
+  - p:legislative-candidate
+- id: p:summer-2024-life-space
+  label: Possibles personnels, sociaux, médicaux et administratifs de l'été 2024
+events:
+- id: mlp-2008-001
+  when:
+    value: '2008-12-03'
+    precision: day
+  domain:
+  - creation
+  observation: Marie-Louise envoie Le dieu de l'eau à son père.
+  dynamics:
+  - capacity
+  possible_ids:
+  - p:creative-expression
+  actors_or_mechanisms:
+  - capacité créative propre
+  - email
+  observed_outcome: Œuvre produite et conservée.
+  causal:
+    status: not_claimed
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Déduire une causalité institutionnelle de la seule existence de l'œuvre.
+  evidence:
+  - ref: Gmail:11dfdff512b6c8bf
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - existence de l'œuvre
+    - auteur
+    - date
+    visibility: public_reference_private_content
+  next_probes: []
+  descendant_possible_ids:
+  - p:public-art-visibility
+  sequence: 1
+- id: mlp-2016-001
+  when:
+    value: '2016-04-03'
+    precision: day
+  domain:
+  - creation
+  - publication
+  observation: Publication YouTube de L'altérité en soi.
+  dynamics:
+  - capacity
+  - open
+  possible_ids:
+  - p:creative-expression
+  - p:public-art-visibility
+  actors_or_mechanisms:
+  - compte YouTube
+  - capacité artistique
+  observed_outcome: Titre et description publiés ; visibilité publique ouverte.
+  causal:
+    status: not_claimed
+    counterevidence: []
+    alternative_explanations:
+    - La publication peut être personnelle, scolaire ou liée à l'exposition ; le contexte exact reste à préciser.
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:153dcd7070142c29
+    source_class: platform_trace
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - titre
+    - description
+    - publication
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Récupérer la vidéo et vérifier son identité avec le stop motion exposé.
+    target: YouTube / archives
+    expected_discriminant: Même fichier ou œuvre distincte
+    priority: p0
+  descendant_possible_ids:
+  - p:higher-art-education
+  sequence: 2
+- id: mlp-2016-002
+  when:
+    value: '2016-04-14'
+    precision: day
+  domain:
+  - art
+  - network
+  observation: Présentation publique d'un stop motion lors de l'exposition autour des frontières.
+  dynamics:
+  - open
+  possible_ids:
+  - p:public-art-visibility
+  actors_or_mechanisms:
+  - lycée Pascal-Paoli
+  - Université de Corse
+  - exposition
+  observed_outcome: Œuvre exposée, photographiée et couverte par la presse.
+  causal:
+    status: supported
+    counterevidence: []
+    alternative_explanations:
+    - Les conséquences de réseau ou d'orientation ne sont pas directement mesurées.
+    prohibited_inference: []
+  evidence:
+  - ref: Corse Net Infos:2016-04-14
+    source_class: public_source
+    epistemic_status:
+    - third_party
+    - trace
+    - fact
+    supports:
+    - présentation publique
+    - stop motion
+    - contexte exposition
+    visibility: public
+  next_probes: []
+  descendant_possible_ids:
+  - p:higher-art-education
+  - p:professional-art
+  sequence: 3
+- id: mlp-2016-003
+  when:
+    value: '2016-04-24'
+    precision: day
+  domain:
+  - education
+  observation: Dossier artistique n°193 déposé pour l'admission en première année aux Beaux-Arts de Paris.
+  dynamics:
+  - open
+  possible_ids:
+  - p:beaux-arts-paris
+  actors_or_mechanisms:
+  - procédure d'admission
+  observed_outcome: Candidature effectivement déposée ; résultat non retrouvé.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:15449b60315649e0
+    source_class: administrative_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - dépôt de candidature
+    - numéro de dossier
+    - calendrier du jury
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Retrouver le résultat du concours.
+    target: Gmail / archives Beaux-Arts de Paris
+    expected_discriminant: admission / refus / absence
+    priority: p0
+  qualifiers:
+  - attempt
+  sequence: 4
+- id: mlp-2016-004
+  when:
+    value: 2016-2017
+    precision: academic_year
+  domain:
+  - education
+  observation: CPES 1 au lycée Georges-Clemenceau de Sartène, avec internat et fréquentation régulière.
+  dynamics:
+  - open
+  - maintain
+  possible_ids:
+  - p:cpes-sartene
+  - p:higher-art-education
+  actors_or_mechanisms:
+  - CPES
+  - lycée Georges-Clemenceau
+  - internat
+  observed_outcome: Formation post-bac effectivement suivie.
+  causal:
+    status: supported
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:15901e3906969ef1
+    source_class: administrative_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - inscription
+    - formation
+    - internat
+    - fréquentation régulière
+    visibility: public_reference_private_content
+  next_probes: []
+  descendant_possible_ids:
+  - p:beaux-arts-nantes
+  - p:beaux-arts-paris
+  sequence: 5
+- id: mlp-2017-001
+  when:
+    value: '2017-03-28'
+    precision: day
+  domain:
+  - creation
+  observation: Publication YouTube de photoromanJulie.
+  dynamics:
+  - capacity
+  possible_ids:
+  - p:creative-expression
+  actors_or_mechanisms:
+  - capacité propre
+  - plateforme YouTube
+  observed_outcome: Publication datée sous le compte de Marie-Louise.
+  causal:
+    status: not_claimed
+    counterevidence: []
+    alternative_explanations:
+    - Le lien pédagogique avec la CPES n'est pas démontré.
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:15b16527bf97b95e
+    source_class: platform_trace
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - titre
+    - date de publication
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 6
+- id: mlp-2017-002
+  when:
+    value: 2017-05
+    precision: month
+  domain:
+  - education
+  observation: Admission à Nantes rapportée contemporanément puis matérialisée par les traces institutionnelles ultérieures.
+  dynamics:
+  - open
+  possible_ids:
+  - p:beaux-arts-nantes
+  actors_or_mechanisms:
+  - concours/admission
+  - Beaux-Arts de Nantes
+  observed_outcome: Le cursus nantais devient effectivement praticable et se matérialise.
+  causal:
+    status: supported
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:15bf942c756bea24
+    source_class: contemporary_third_party
+    epistemic_status:
+    - third_party
+    supports:
+    - admission rapportée
+    visibility: public_reference_private_content
+  - ref: Gmail:16012ff6ab50ad78
+    source_class: institutional_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - présence dans le processus scolaire nantais
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Retrouver la décision institutionnelle initiale d'admission.
+    target: Gmail / archives Nantes
+    expected_discriminant: preuve primaire d'admission
+    priority: p0
+  descendant_possible_ids:
+  - p:higher-art-education
+  sequence: 7
+- id: mlp-2017-003
+  when:
+    value: '2017-12-01'
+    precision: day
+  domain:
+  - education
+  - administration
+  observation: Des frais de scolarité et de sécurité sociale ne sont pas régularisés ; le statut étudiant et les évaluations
+    sont menacés.
+  dynamics:
+  - friction
+  possible_ids:
+  - p:beaux-arts-nantes
+  actors_or_mechanisms:
+  - exigence administrative
+  - paiement
+  observed_outcome: Menace administrative explicite ; fermeture non démontrée.
+  causal:
+    status: direct
+    counterevidence:
+    - La deuxième année à Nantes est attestée en 2018-2019, montrant que la branche n'a pas été durablement fermée.
+    alternative_explanations: []
+    prohibited_inference:
+    - Coder automatiquement cette friction comme fermeture du cursus.
+  evidence:
+  - ref: Gmail:16012ff6ab50ad78
+    source_class: institutional_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - friction administrative
+    - menace sur le statut étudiant
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Retrouver la régularisation, le paiement ou l'exonération.
+    target: Gmail / archives financières
+    expected_discriminant: mécanisme ayant absorbé la friction
+    priority: p1
+  sequence: 8
+- id: mlp-2018-001
+  when:
+    value: 2018-2019
+    precision: academic_year
+  domain:
+  - education
+  - resources
+  observation: 'DSE : Nantes Beaux Arts, Arts et architecture, 2e année ; bourse Culture échelon 6 conditionnelle.'
+  dynamics:
+  - maintain
+  possible_ids:
+  - p:beaux-arts-nantes
+  actors_or_mechanisms:
+  - école
+  - dispositif de bourse
+  observed_outcome: Deuxième année et soutien matériel attestés.
+  causal:
+    status: supported
+    counterevidence:
+    - La friction de décembre 2017 n'a pas empêché la poursuite documentée du cursus.
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:16737e68bc1918ab
+    source_class: administrative_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - deuxième année
+    - bourse conditionnelle
+    visibility: public_reference_private_content
+  next_probes: []
+  descendant_possible_ids:
+  - p:higher-art-education
+  sequence: 9
+- id: mlp-2019-001
+  when:
+    value: 2019-06
+    precision: month
+  domain:
+  - education
+  - social_network
+  observation: Marie-Louise se décrit à Nantes avec des camarades des Beaux-Arts.
+  dynamics:
+  - maintain
+  possible_ids:
+  - p:beaux-arts-nantes
+  actors_or_mechanisms:
+  - école
+  - pairs
+  - colocation
+  observed_outcome: Continuité géographique et environnement artistique attestés.
+  causal:
+    status: not_claimed
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:16b31d816e8eb42d
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    supports:
+    - présence à Nantes
+    - réseau de pairs
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 10
+- id: mlp-2020-001
+  when:
+    value: '2020-09-07'
+    precision: day
+  domain:
+  - politics
+  observation: Marie-Louise signe comme remplaçante sénatoriale en Haute-Corse.
+  dynamics:
+  - open
+  possible_ids:
+  - p:senate-substitute-2020
+  actors_or_mechanisms:
+  - consentement
+  - dépôt de candidature
+  observed_outcome: Candidature déposée avec consentement direct.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:1746d1838a04eb4c
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - consentement
+    - candidature
+    visibility: public_reference_private_content
+  next_probes: []
+  qualifiers:
+  - attempt
+  sequence: 11
+- id: mlp-2020-002
+  when:
+    value: '2020-09-10'
+    precision: day
+  domain:
+  - politics
+  - law
+  observation: La candidature sénatoriale est refusée en raison de la condition d'âge.
+  dynamics:
+  - close
+  possible_ids:
+  - p:senate-substitute-2020
+  actors_or_mechanisms:
+  - règle légale d'éligibilité
+  - décision préfectorale
+  observed_outcome: La branche électorale précise est fermée.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Déduire de cette fermeture locale une incapacité politique générale.
+  evidence:
+  - ref: Gmail:17478c8b4f7a940d
+    source_class: administrative_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - refus
+    - motif d'âge
+    visibility: public_reference_private_content
+  next_probes: []
+  scope_delta: narrow
+  descendant_possible_ids:
+  - p:electoral-agency
+  sequence: 12
+- id: mlp-2021-001
+  when:
+    value: '2021-04-08'
+    precision: day
+  domain:
+  - education
+  observation: Un événement calendrier intitulé Villa Arson est enregistré.
+  dynamics:
+  - open
+  possible_ids:
+  - p:villa-arson
+  actors_or_mechanisms:
+  - rendez-vous non qualifié
+  observed_outcome: Une démarche Villa Arson est attestée ; sa fonction exacte reste inconnue.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:178ab8f3f69d09c4
+    source_class: calendar_trace
+    epistemic_status:
+    - trace
+    - unknown
+    supports:
+    - existence du rendez-vous
+    - date
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Retrouver la pièce institutionnelle de concours/admission.
+    target: Gmail / Villa Arson
+    expected_discriminant: nature du rendez-vous et résultat
+    priority: p0
+  sequence: 13
+  qualifiers:
+  - function_unknown
+- id: mlp-2021-002
+  when:
+    value: '2021-04-14'
+    precision: day
+  domain:
+  - art
+  - profession
+  - education
+  observation: Une attestation d'embauche pour résidence artistique/tournage qualifie encore Marie-Louise d'étudiante à Nantes.
+  dynamics:
+  - maintain
+  - open
+  possible_ids:
+  - p:beaux-arts-nantes
+  - p:professional-art
+  actors_or_mechanisms:
+  - Hugues Absil
+  - résidence artistique
+  - tournage
+  observed_outcome: Continuité du cursus nantais et opportunité professionnelle documentées.
+  causal:
+    status: supported
+    counterevidence: []
+    alternative_explanations:
+    - La réalisation complète de la mission reste à vérifier.
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:178df4383f1868a0
+    source_class: institutional_record
+    epistemic_status:
+    - trace
+    - third_party
+    - fact
+    supports:
+    - statut d'étudiante à Nantes
+    - opportunité professionnelle
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 14
+- id: mlp-2022-001
+  when:
+    value: 2022-01
+    precision: month
+  domain:
+  - education
+  - housing
+  observation: Marie-Louise prépare une installation étudiante à Nice.
+  dynamics:
+  - open
+  possible_ids:
+  - p:villa-arson
+  actors_or_mechanisms:
+  - logement
+  - ressources étudiantes
+  observed_outcome: Une transition matérielle vers Nice devient praticable.
+  causal:
+    status: supported
+    counterevidence: []
+    alternative_explanations:
+    - Cette pièce ne prouve pas à elle seule l'inscription à la Villa Arson.
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:17e7808badd54b51
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - choix d'une chambre
+    - contrat transmis
+    - bourse étudiante déclarée
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 15
+- id: mlp-2022-002
+  when:
+    value: 2022-05/06
+    precision: range
+  domain:
+  - politics
+  observation: Marie-Louise devient candidate titulaire aux législatives.
+  dynamics:
+  - reopen
+  possible_ids:
+  - p:legislative-candidate
+  - p:electoral-agency
+  actors_or_mechanisms:
+  - dépôt de candidature
+  - rôle titulaire
+  observed_outcome: Candidature enregistrée ; rôle plus large qu'en 2020.
+  causal:
+    status: supported
+    counterevidence:
+    - La fermeture de 2020 portait sur une fonction et un scrutin précis, non sur l'agence politique générale.
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: memory/marie-louise/elections/2022-legislatives.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - candidature titulaire
+    - résultat
+    visibility: public_reference_private_content
+  next_probes: []
+  scope_delta: expand
+  sequence: 16
+- id: mlp-2024-001
+  when:
+    value: '2024-01-08'
+    precision: day
+  domain:
+  - family
+  - resources
+  observation: Marie-Louise organise une prise en charge de sa mère et évoque son statut d'aidante.
+  dynamics:
+  - load
+  - capacity
+  possible_ids:
+  - p:caregiving
+  actors_or_mechanisms:
+  - situation familiale
+  - démarches CAF
+  observed_outcome: Rôle d'aidante directement assumé.
+  causal:
+    status: not_claimed
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Déduire une interruption d'études de l'aidance sans maillon causal documenté.
+  evidence:
+  - ref: Gmail:18ce856de9270575
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - statut d'aidante
+    - organisation concrète
+    visibility: public_reference_private_content
+  - ref: Gmail:18ce8722bb169e9b
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    - fact
+    supports:
+    - prise de relais
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Dater le début et mesurer la charge d'aidance.
+    target: Gmail / CAF / chronologie familiale
+    expected_discriminant: charge réelle et temporalité
+    priority: p0
+  sequence: 17
+- id: mlp-2024-002
+  when:
+    value: '2024-06-17'
+    precision: day
+  domain:
+  - politics
+  observation: La candidature législative 2024 de Marie-Louise comme titulaire est définitivement enregistrée.
+  dynamics:
+  - maintain
+  possible_ids:
+  - p:legislative-candidate
+  - p:electoral-agency
+  actors_or_mechanisms:
+  - dossier électoral
+  - préfecture
+  observed_outcome: Agence politique publique maintenue.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: Gmail:190273efbcfb68d4
+    source_class: administrative_record
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - enregistrement de candidature
+    visibility: public_reference_private_content
+  - ref: Gmail:1902138ea0abe20c
+    source_class: primary_artifact
+    epistemic_status:
+    - voice
+    - trace
+    supports:
+    - agence politique directe
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 18
+- id: mlp-2024-003
+  when:
+    value: '2024-06-21'
+    precision: day
+  domain:
+  - politics
+  - remedy
+  observation: Une alerte Arcom n°807989 est déposée.
+  dynamics:
+  - reopen
+  possible_ids:
+  - p:electoral-remedy
+  actors_or_mechanisms:
+  - mécanisme de signalement Arcom
+  observed_outcome: Une voie de recours est ouverte ; son efficacité reste inconnue.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: memory/marie-louise/elections-2024-complaints.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - alerte Arcom
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Retrouver la réponse Arcom.
+    target: Gmail / Arcom
+    expected_discriminant: traitement / classement / suite
+    priority: p0
+  qualifiers:
+  - attempt
+  sequence: 19
+- id: mlp-2024-004
+  when:
+    value: '2024-06-30'
+    precision: day
+  domain:
+  - politics
+  observation: 'Résultat des législatives : 50 voix, 0,11 %.'
+  dynamics:
+  - close
+  possible_ids:
+  - p:election-2024
+  actors_or_mechanisms:
+  - résultat électoral
+  observed_outcome: La branche élection 2024 se termine au premier tour pour cette candidature.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations:
+    - Le résultat dépend de facteurs multiples ; aucun mécanisme unique ne doit être présumé.
+    prohibited_inference:
+    - Attribuer la défaite à un seul facteur sans analyse contradictoire.
+  evidence:
+  - ref: memory/marie-louise/elections/2024-legislatives.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - résultat électoral
+    visibility: public_reference_private_content
+  next_probes: []
+  scope_delta: narrow
+  sequence: 20
+- id: mlp-2024-005a
+  when:
+    value: '2024-07-05'
+    precision: day
+  domain:
+  - politics
+  - law
+  observation: Le dossier plaintes2024 est diffusé à plusieurs institutions.
+  dynamics:
+  - reopen
+  possible_ids:
+  - p:electoral-remedy
+  actors_or_mechanisms:
+  - recours multiples
+  observed_outcome: Plusieurs voies de recours sont saisies ou tentées.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: memory/marie-louise/elections-2024-complaints.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - diffusion du dossier
+    - destinataires
+    visibility: public_reference_private_content
+  next_probes: []
+  qualifiers:
+  - attempt
+  sequence: 21
+- id: mlp-2024-005b
+  when:
+    value: '2024-07-05'
+    precision: day
+  domain:
+  - politics
+  - law
+  - communication
+  observation: Deux adresses échouent tandis que la cour d'appel relaie le dossier vers d'autres destinataires.
+  dynamics:
+  - friction
+  - maintain
+  possible_ids:
+  - p:electoral-remedy
+  actors_or_mechanisms:
+  - erreurs d'adresse
+  - relayage institutionnel
+  observed_outcome: Certains canaux échouent mais la fonction de transmission est partiellement maintenue.
+  causal:
+    status: direct
+    counterevidence:
+    - Le relayage montre que l'échec de certains canaux n'a pas fermé toute la fonction de recours.
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: memory/marie-louise/elections-2024-complaints.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - échecs de canal
+    - relayage
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 22
+- id: mlp-2024-006
+  when:
+    value: '2024-07-08'
+    precision: day
+  domain:
+  - politics
+  - law
+  observation: Le Conseil constitutionnel enregistre la requête 2024-6309 AN.
+  dynamics:
+  - open
+  - maintain
+  possible_ids:
+  - p:electoral-remedy
+  actors_or_mechanisms:
+  - greffe du Conseil constitutionnel
+  observed_outcome: Une voie contentieuse électorale est effectivement ouverte.
+  causal:
+    status: direct
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference: []
+  evidence:
+  - ref: memory/marie-louise/elections-2024-complaints.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - enregistrement de la requête
+    visibility: public_reference_private_content
+  next_probes: []
+  sequence: 23
+- id: mlp-2024-007
+  when:
+    value: 2024-07-01/2024-09-17
+    precision: range
+  domain:
+  - life
+  - health
+  - institutions
+  observation: La période entre la campagne et le décès reste insuffisamment reconstruite.
+  dynamics:
+  - unknown
+  possible_ids:
+  - p:summer-2024-life-space
+  actors_or_mechanisms: []
+  observed_outcome: Corpus actuellement insuffisant pour qualifier les dynamiques du Possible.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Remplir la zone documentaire noire par narration rétrospective.
+    - Interpréter l'absence de mails envoyés comme retrait social ou absence d'activité.
+  evidence:
+  - ref: memory/marie-louise/possible_matrix.md#9
+    source_class: corpus_derivation
+    epistemic_status:
+    - unknown
+    supports:
+    - audit de lacune documentaire
+    visibility: public
+  next_probes:
+  - objective: Diversifier les sources de l'été 2024.
+    target: autres messageries, agenda, fichiers, documents administratifs, témoignages datés
+    expected_discriminant: événements et transitions réellement observables
+    priority: p0
+  sequence: 24
+- id: mlp-2024-008
+  when:
+    value: '2024-09-17'
+    precision: day
+  domain:
+  - life
+  observation: Décès par suicide.
+  dynamics:
+  - unknown
+  possible_ids:
+  - p:summer-2024-life-space
+  actors_or_mechanisms: []
+  observed_outcome: Issue terminale observée ; causalité à enquêter.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Promouvoir une ligne antérieure unique en cause du suicide.
