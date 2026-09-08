@@ -30,7 +30,13 @@ Il applique la discipline documentaire de `memory/marie-louise/carte.md` :
 ## Notes
 
 - [`le_dieu_de_leau_2008.md`](le_dieu_de_leau_2008.md) — œuvre d'enfance directement conservée par un mail original du 3 décembre 2008.
-- [`frontieres_stop_motion_2016.md`](frontieres_stop_motion_2016.md) — exposition autour des frontières à Corte, stop motion, « fragmentation de l'être », orientation artistique et candidature aux Beaux-Arts de Paris.
+- [`frontieres_stop_motion_2016.md`](frontieres_stop_motion_2016.md) — exposition autour des frontières à Corte, stop motion, trace YouTube et continuation du parcours artistique jusqu'à Nice.
+- [`l_alterite_en_soi_2016.md`](l_alterite_en_soi_2016.md) — publication YouTube du 3 avril 2016, titre *L'altérité en soi*, description « Entre aliénation et construction de soi. Microcosmos. » et rapprochement documenté avec le stop motion exposé.
+- [`photoroman_julie_2017.md`](photoroman_julie_2017.md) — seconde publication vidéo retrouvée, le 28 mars 2017, pendant l'année de CPES à Sartène.
+
+## Parcours de formation
+
+- [`../formation/parcours_artistique_2016_2022.md`](../formation/parcours_artistique_2016_2022.md) — chronologie sourcée Terminale → CPES Sartène → Beaux-Arts de Nantes → premières traces Villa Arson / Nice.
 
 ## Sources verbatim publiées
 
