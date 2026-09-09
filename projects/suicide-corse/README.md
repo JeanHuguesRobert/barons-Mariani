@@ -133,3 +133,17 @@ Ne jamais fabriquer une parole, une volonté ou un consentement posthume de Mari
 - #52 — continuité de protection.
 
 Dépendance générique de rendu : `JeanHuguesRobert/ubikia#24`.
+
+
+## Suspension temporaire — 9 septembre 2026
+
+Le chantier est volontairement suspendu à ce point afin de revenir au dossier de candidature sénatoriale.
+
+Point de reprise :
+
+- architecture courante : [`architecture.md`](architecture.md) ;
+- trois continuations immédiates déjà enregistrées dans cette architecture et dans le présent README ;
+- aucune de ces continuations n'est réputée exécutée ;
+- les cinq fichiers de `manuscript/` restent les artefacts historiques de l'édition bootstrap.
+
+La reprise doit donc partir de l'architecture v2 et non restaurer implicitement l'ancien plan bootstrap.
