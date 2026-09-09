@@ -7,6 +7,12 @@ updated: "2026-09-09"
 source_of_truth: "repository corpus files; this manifest references them and does not replace them"
 
 sources:
+  - id: suicide-corse-architecture-v2
+    path: projects/suicide-corse/architecture.md
+    role: project-architecture
+    required: true
+    note: "Current inquiry architecture; the five manuscript files remain bootstrap artifacts rather than the canonical long-term structure."
+
   - id: marie-louise-map
     path: memory/marie-louise/carte.md
     role: documentary-map
@@ -123,6 +129,12 @@ sources:
     path: research/autonomia/potentique_territoriale.md
     role: research-source
     required: false
+
+  - id: corse-laboratoire
+    path: research/autonomia/corse_laboratoire.md
+    role: research-source
+    required: false
+    note: "Territorial experimental source used by the v2 architecture for bounded Acts, revers, bifurcation, anti-capture and cross-scale reasoning."
 
 issues:
   parent: 42
