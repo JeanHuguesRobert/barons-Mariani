@@ -3,9 +3,9 @@ title: "Rendre capable — noyau doctrinal provisoire"
 subtitle: "Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant"
 author: "Jean Hugues Noël Robert"
 status: "working_draft"
-version: "0.4.1"
-date: "2026-06-16"
-review_status: "Grok constructive reviews completed 2026-06-16; high-signal points integrated into v0.4 and micro-corrections integrated into v0.4.1"
+version: "0.5"
+date: "2026-09-09"
+review_status: "v0.5 integrates the operational definition of freedom and the formal/effective capability gap; constructive review remains welcome"
 repository: "barons-Mariani"
 path: "research/noyau_doctrinal_rendre_capable.md"
 type: "doctrinal_kernel"
@@ -104,7 +104,8 @@ Ce texte ne prétend pas achever le raisonnement. Il marque un état provisoire 
 Le document peut être lu à partir d’une grammaire simple :
 
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
-- **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir.
+- **Liberté effective** : étendre l’espace des actions réellement accessibles, et non seulement celui des actions formellement permises.
+- **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Packetisation** : rendre des flux, actes ou ressources manipulables, routables, transmissibles et recomposables.
 - **Situation** : rattacher les capacités à des lieux, des personnes, des objets, des ressources et des contextes réels.
 - **Trace sans surveillance** : rendre les actes imputables sans basculer dans le fichage des personnes.
@@ -119,6 +120,28 @@ Cette grammaire ne prétend pas tout expliquer. Elle sert à reconnaître les li
 ---
 
 # Changelog
+
+## v0.5 — 2026-09-09
+
+Version de clarification doctrinale de la liberté effective et de l’Autonomie de Capacité.
+
+Cette version stabilise une proposition déjà présente de manière diffuse dans le corpus :
+
+> **La liberté est proportionnelle à l’étendue de la capacité effective à agir.**
+
+Elle ajoute ou explicite :
+
+- la distinction entre liberté formelle et liberté effective ;
+- l’espace des actions effectivement accessibles comme objet opérationnel ;
+- une formalisation minimale de cet espace et de son évolution ;
+- l’Autonomie de Capacité comme maximisation soutenable des capacités effectives d’agir ;
+- l’écart capacitaire entre droits, possibles ou capacités formellement ouverts et capacités réellement accessibles ;
+- la perte de chance capacitaire comme diminution contrefactuelle raisonnablement estimable de cet espace ;
+- la Machine à Empêcher comme hypothèse sur les mécanismes qui réduisent cet espace, et la Machine à Rendre Capable comme symétrique constructif ;
+- une lecture capacitaire de « Liberté, Égalité, Fraternité », explicitement présentée comme une opérationnalisation doctrinale et non comme une définition du droit positif ;
+- la possibilité de mesurer territorialement ces écarts, notamment en Corse, par triangulation d’indicateurs.
+
+Cette évolution ne prétend pas résoudre la question métaphysique du libre arbitre. Elle choisit délibérément un objet observable : ce qu’un agent peut effectivement faire dans une situation donnée.
 
 ## v0.4.1 — 2026-06-16
 
@@ -238,7 +261,7 @@ Sa fonction est de dire :
 - voici les questions ouvertes ;
 - voici les continuations à explorer.
 
-Le document vaut ce que vaut une version 0.4.1 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
+Le document vaut ce que vaut une version 0.5 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
 
 ---
 
@@ -286,7 +309,44 @@ Il consiste à considérer qu’une civilisation, une personne, un territoire ou
 
 La liberté n’est pas seulement l’absence d’entrave.
 
-Elle est la capacité effective de comprendre, choisir, expérimenter, bifurquer, transmettre et réorganiser.
+Dans le présent corpus, on adopte la définition opérationnelle suivante :
+
+> **La liberté est proportionnelle à l’étendue de la capacité effective à agir.**
+
+Autrement dit, la liberté d’un agent dépend de l’étendue de l’ensemble des actions qui lui sont réellement accessibles dans une situation donnée : comprendre, choisir, expérimenter, bifurquer, transmettre, se déplacer, produire, apprendre, coopérer, refuser, réorganiser.
+
+Cette définition est volontairement distincte de la question métaphysique du libre arbitre. Elle ne prétend pas décider si l’univers est déterministe, indéterministe ou compatible avec une volonté libre. Elle choisit un objet plus modeste et plus testable : **quelles actions sont effectivement accessibles à l’agent ?**
+
+On peut noter cet ensemble :
+
+```text
+A_i(t,h) = ensemble des actions effectivement accessibles
+           à l’agent i, au temps t, dans l’horizon h
+```
+
+et représenter sa liberté effective par :
+
+```text
+L_i(t,h) = M(A_i(t,h))
+```
+
+où `M` n’est pas nécessairement une simple cardinalité. La mesure peut intégrer la diversité des actions, leur importance, leur coût, leur robustesse, leur accessibilité temporelle, leur réversibilité et la possibilité réelle de les combiner.
+
+La chaîne générale devient alors :
+
+```text
+ressources
+    ↓
+facteurs de conversion
+    ↓
+capacités effectives
+    ↓
+espace des actions accessibles
+    ↓
+choix et réalisations
+```
+
+Posséder une ressource, disposer d’un droit ou connaître théoriquement une possibilité ne suffit donc pas. Il faut encore pouvoir convertir cette ressource, ce droit ou cette possibilité en action praticable.
 
 Un monde qui réduit l’espace des possibles appauvrit la liberté, même s’il conserve des droits abstraits.
 
@@ -347,6 +407,39 @@ Rendre capable, c’est donc transformer des ressources dispersées, des flux op
 ---
 
 # 5. Autonomie de papier et autonomie de capacité
+
+## 5.1. Du formel à l’effectif
+
+Une distinction devient centrale :
+
+```text
+liberté formelle  = ce qu’un agent a le droit ou la possibilité abstraite de faire
+liberté effective = ce qu’il est réellement capable de faire
+```
+
+Une liberté peut donc être juridiquement intacte et pratiquement presque nulle.
+
+Le même raisonnement vaut pour une autonomie institutionnelle, un droit social, un accès numérique, une possibilité économique ou une ressource énergétique. L’existence formelle ne garantit pas la capacité d’usage.
+
+On peut appeler **écart capacitaire** la distance entre les capacités promises, reconnues ou raisonnablement accessibles et celles qui le sont effectivement :
+
+```text
+écart capacitaire
+    = espace de capacité de référence
+    - espace de capacité effectivement accessible
+```
+
+Le terme « référence » est volontairement plus prudent que « promesse » : selon le cas, le contrefactuel peut provenir d’un droit, d’un engagement, d’une comparaison territoriale, d’un état antérieur, d’une technologie disponible ou d’un scénario raisonnablement atteignable.
+
+L’**Autonomie de Capacité** peut dès lors être formulée comme :
+
+> **la maximisation soutenable de l’étendue des capacités effectives d’agir, sous contraintes réelles et sans transférer simplement l’incapacité ou la dépendance sur autrui.**
+
+Elle n’implique ni autarcie ni indépendance absolue. Elle vise la capacité de gouverner ses interdépendances, de conserver des alternatives et de pouvoir effectivement bifurquer.
+
+Cette définition permet de parler de **gain capacitaire** lorsqu’une intervention agrandit l’espace des actions accessibles, et de **perte de chance capacitaire** lorsqu’un mécanisme évitable réduit, par rapport à un contrefactuel raisonnable, les possibilités qu’un agent ou un territoire aurait pu effectivement exercer.
+
+## 5.2. Autonomie déclarée et autonomie praticable
 
 L’autonomie de papier définit ce qu’un acteur a théoriquement le droit de faire.
 
@@ -1113,6 +1206,49 @@ L’enjeu est de transformer des dépendances géopolitiques en interdépendance
 
 # 19. De la machine à empêcher à la machine à explorer
 
+## 19.1. Prendre la République au mot : une lecture capacitaire de la devise
+
+La Constitution française donne à la République la devise « Liberté, Égalité, Fraternité ».
+
+Le présent corpus ne prétend pas substituer ses propres définitions au droit positif ni à la jurisprudence. Il propose une **opérationnalisation doctrinale** permettant de confronter les principes proclamés à leurs manifestations effectives :
+
+```text
+Liberté
+    = étendue des capacités effectives d’agir
+
+Égalité
+    = distribution et accessibilité comparées
+      de ces capacités effectives
+
+Fraternité
+    = capacité collective à préserver
+      ou accroître les capacités d’autrui
+```
+
+Cette lecture transforme une devise en programme d’enquête.
+
+La question n’est plus seulement :
+
+```text
+le principe est-il proclamé ?
+```
+
+mais aussi :
+
+```text
+dans quelle mesure devient-il effectivement praticable ?
+pour qui ?
+à quel coût ?
+avec quelle robustesse ?
+quels mécanismes agrandissent ou réduisent l’espace d’action ?
+```
+
+« Prendre la République au mot » signifie donc ici ne pas rejeter ses principes, mais demander dans quelle mesure le Réel leur correspond, puis chercher à réduire les écarts évitables.
+
+Cette approche est falsifiable dans ses applications. On peut contester le choix des dimensions, les indicateurs, les pondérations, le contrefactuel, les causalités ou le coût des mesures proposées. La doctrine doit conserver ces objections plutôt que déclarer l’écart évident par principe.
+
+## 19.2. Machine à Empêcher, perte de chance capacitaire et symétrique constructif
+
 Beaucoup de systèmes institutionnels fonctionnent comme des machines à empêcher.
 
 Ils ne disent pas toujours non explicitement.
@@ -1206,6 +1342,36 @@ Comment éviter que Fractanet, Cogentia, Archia ou SérénIA deviennent eux-mêm
 Comment inscrire l’anti-capture dans l’architecture, et non seulement dans l’intention ?
 
 ## 20.6. Mesure de la capacité
+
+La mesure ne doit pas réduire la capacité à un indicateur unique.
+
+Pour un agent, un groupe ou un territoire, il faut plutôt reconstruire un espace multidimensionnel : économique, temporel, énergétique, cognitif, administratif, géographique, social, politique, numérique, sanitaire ou éducatif selon le problème étudié.
+
+La mesure doit autant que possible distinguer :
+
+- les ressources disponibles ;
+- les facteurs permettant ou empêchant leur conversion en action ;
+- les capacités effectivement accessibles ;
+- leur distribution entre personnes et groupes ;
+- leur robustesse dans le temps ;
+- le coût d’exercice ;
+- les possibilités de bifurcation ;
+- les réalisations finalement choisies.
+
+À l’échelle territoriale, une moyenne ne suffit pas. Médiane, quantiles, dispersion, minima, inégalités d’accès et sous-populations contraintes peuvent être plus informatifs.
+
+La méthode privilégiée est la **triangulation** : plusieurs indicateurs imparfaits, plusieurs comparaisons et plusieurs échelles doivent permettre d’approcher une forme du Réel qu’aucun proxy ne suffit à cartographier seul.
+
+Pour une perte de chance capacitaire, le cœur de l’enquête devient contrefactuel :
+
+```text
+perte de chance capacitaire
+    ≈ capacités raisonnablement accessibles dans le scénario de référence
+      - capacités effectivement accessibles
+```
+
+Le scénario de référence doit être explicite et critiquable : territoire comparable, trajectoire historique, changement de politique, technologie disponible, droit effectivement exercé ailleurs ou autre situation pertinente.
+
 
 Comment mesurer une capacité réelle ?
 
@@ -1975,4 +2141,3 @@ Chaque produit dérivé doit respecter la règle de non-trahison :
 - conserver les limites et objections importantes ;
 - ne pas transformer une hypothèse en certitude ;
 - permettre le retour vers le corpus.
-
