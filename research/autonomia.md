@@ -33,7 +33,7 @@ Fonction dans le corpus : définir l'autonomie de capacité comme test opératoi
 
 À lire avant : [Discours de la seconde méthode](second_method.md), puis éventuellement [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md) pour la situation inter-dépôts.
 
-À lire après : [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
+À lire après : [Corse Laboratoire](autonomia/corse_laboratoire.md), [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
 
 Dépend de : l'approche par les capabilités, le capital territorial, les communs et la doctrine de l'expérimentation publique documentée.
 
