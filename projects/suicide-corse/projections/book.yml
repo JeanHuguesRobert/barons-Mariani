@@ -7,6 +7,10 @@ subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
 source_manifest: ../corpus.yml
 
+# Historical bootstrap projection. The successor inquiry architecture is:
+# ../architecture.md
+# Keep these five chapters reproducible until a v2 projection contract is explicitly created.
+
 chapters:
   - ../manuscript/00-ouverture.md
   - ../manuscript/01-marie-louise.md
