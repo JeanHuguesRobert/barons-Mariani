@@ -63,6 +63,7 @@ Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-loui
 
 ## Structure
 
+- [`architecture.md`](architecture.md) — architecture d'enquête v2, invariants multi-échelle et continuations ;
 - [`corpus.yml`](corpus.yml) — manifeste des sources canoniques et chantiers reliés ;
 - [`manuscript/`](manuscript/) — projection narrative minimale de l'édition n°0 ;
 - [`projections/book.yml`](projections/book.yml) — contrat minimal de projection livre ;
@@ -72,9 +73,9 @@ Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-loui
 - [`editions/index.md`](editions/index.md) — registre des éditions figées ;
 - [`journals/README.md`](journals/README.md) — emplacement des journaux de campagne.
 
-## Édition n°0
+## Édition n°0 — bootstrap historique
 
-L'édition n°0 doit rester courte, imparfaite et utile. Son but premier est d'exercer la chaîne complète :
+Les cinq fichiers actuels constituent désormais l'**édition bootstrap historique**. Ils restent utiles et traçables, mais ne définissent plus l'architecture canonique de long terme. Leur but premier était d'exercer la chaîne complète :
 
 ```text
 sources
@@ -86,6 +87,33 @@ sources
 ```
 
 Elle est structurée en cinq fichiers : ouverture, Marie-Louise, fermeture des possibles, Machine à Empêcher, réalisation de l'impossible.
+
+## Architecture d'enquête v2
+
+L'architecture courante est décrite dans [`architecture.md`](architecture.md). Elle privilégie :
+
+```text
+Reality Case
+→ distinction
+→ invariant candidat
+→ changement d'échelle
+→ test du non-invariant
+→ mécanisme
+→ Act
+→ Réel
+→ trace
+→ correction
+```
+
+Elle traite Marie-Louise comme personne et ensemble de traces, Reality Case longitudinal et cas possible d'enquête causale — trois régimes à ne pas confondre. La matière territoriale corse doit être intégrée progressivement comme changement de zoom, en recherchant les invariants sans transférer abusivement les propriétés propres à une échelle.
+
+### Continuations immédiates
+
+- [ ] produire un document source court sur la **grammaire capacitaire multi-échelle et le test d'invariance** ;
+- [ ] spécifier le **Reality Case Marie-Louise v2**, incluant un blind review contre le biais rétrospectif ;
+- [ ] produire une première projection **« Avant de connaître la fin »**, destinée à remplacer progressivement l'actuel chapitre 01 sans effacer le bootstrap historique.
+
+Ces continuations sont enregistrées mais **non exécutées** à ce stade.
 
 ## Règle Marie-Louise
 
