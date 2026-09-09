@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-08"
+updated: "2026-09-09"
 source_of_truth: "repository corpus files; this manifest references them and does not replace them"
 
 sources:
@@ -102,6 +102,12 @@ sources:
     path: research/potentics.md
     role: methodological-source
     required: true
+
+  - id: rendre-capable-kernel
+    path: research/noyau_doctrinal_rendre_capable.md
+    role: doctrinal-source
+    required: true
+    note: "Canonical doctrinal kernel for effective freedom, capability autonomy, capability gaps and capability-loss counterfactuals; derive without replacing source distinctions."
 
   - id: possible
     path: research/rational_odysseys_the_possible.md
