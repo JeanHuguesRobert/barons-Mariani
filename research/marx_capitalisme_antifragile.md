@@ -4,11 +4,12 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-06-03
+last_modified_at: 2026-09-12
 title: "Marx, les écrans de télévision et la fragilité des adversaires du capitalisme"
 description: "Contribution à une critique possibiliste du capitalisme comme système antifragile"
 date: "2026-06-03"
-status: "working-paper — v0.6.1 — human validated with minor corrections — candidate for source stabilization"
-version: "0.6.1"
+status: "working-paper — v0.6.2 — human validated — working source"
+version: "0.6.2"
 method: "seconde méthode"
 related_internal_sources:
   - "barons-Mariani/tocqueville_law.md"
@@ -16,10 +17,13 @@ related_internal_sources:
   - "barons-Mariani/research/legistique_cognitive.md"
   - "barons-Mariani/research/kudos.md"
   - "barons-Mariani/research/territoires_possibilistes.md"
+  - "cogentia/research/measured_risk.md"
 tags:
   - Marx
   - capitalisme
   - antifragilité
+  - antifragilité bornée
+  - risque mesuré
   - autonomie de capacité
   - paquets cognitifs
   - commutation
@@ -37,8 +41,8 @@ x-method:
   - "objections de premier rang"
   - "human checkpoint required"
 human_validation_required: true
-human_validation_status: "validated with minor corrections after checkpoint"
-agent_workflow_status: "candidate for source stabilization — not yet committed"
+human_validation_status: "validated for v0.6.2 bounded-antifragility alignment on 2026-09-12"
+agent_workflow_status: "committed on main — working source; bounded-antifragility alignment 2026-09-12"
 corpus_role: "source"
 document_role: "source"
 document_kind: "research-paper"
@@ -79,7 +83,9 @@ Ce texte est conçu pour être lu sans connaissance préalable du corpus. Les no
 
 Un lecteur extérieur doit pouvoir comprendre la thèse minimale suivante : Marx a correctement décrit la puissance systémique du capitalisme, mais les adversaires du capitalisme échouent lorsqu’ils lui opposent des formes fragiles ; l’alternative doit donc construire une antifragilité supérieure, non marchande, fondée sur des capacités distribuées, traçables et révisables.
 
-## Mandat de travail
+## Mandat de travail historique (archivé)
+
+Ce bloc documente le workflow antérieur à la première publication GitHub ; il ne décrit plus l’état courant du fichier.
 
 Issue: à créer ou rattacher avant commit  
 Fichier cible: `barons-Mariani/research/marx_capitalisme_antifragile.md`  
@@ -89,11 +95,11 @@ Risques: surcharge conceptuelle ; confusion entre critique de Marx et rejet glob
 Condition de clôture: document relu, autoportance vérifiée, frontmatter conforme, sources internes alignées, validation humaine explicite.  
 Prochaine étape agent-resumable: créer ou rattacher l’issue, déposer le fichier cible, générer l’entrée `research/index.md`, puis estampiller le fichier avec `cogentia stamp`.
 
-## Checkpoint humain requis
+## Checkpoint humain historique
+
+Ce bloc documente le checkpoint de la v0.6.1. La v0.6.2 reste un working paper et son alignement sur l’antifragilité bornée a fait l’objet d’une validation humaine explicite le 12 septembre 2026.
 
 Ce document affecte la doctrine publique du corpus : critique de Marx, capitalisme antifragile, loi de Tocqueville généralisée appliquée aux circuits marchands, Autonomie de Capacité, paquets cognitifs et stratégie de désynchronisation mimétique.
-
-Il ne doit donc pas être considéré comme source stabilisée avant validation explicite de Jean Hugues Noël Robert.
 
 ## 1. Ce que Marx a vu
 
@@ -174,7 +180,20 @@ Ces quatre mécanismes rendent le capitalisme particulièrement apte à transfor
 
 Un système fragile se brise sous les chocs. Un système robuste résiste aux chocs. Un système résilient revient approximativement à son état antérieur après le choc. Un système antifragile s’améliore grâce aux chocs.
 
-Le capitalisme est largement antifragile. Les faillites éliminent les acteurs faibles. Les crises créent des opportunités d’acquisition. Les pénuries stimulent des substitutions. Les conflits sociaux forcent des réorganisations productives. Les critiques morales deviennent des segments de marché. Les révoltes esthétiques deviennent des styles vendables. Les alternatives deviennent des niches. Les contraintes juridiques deviennent des marchés de conformité. Les catastrophes deviennent des secteurs d’investissement.
+Dans ce document, **antifragile** doit désormais être lu dans le sens borné défini par la doctrine du **Risque Mesuré** : un système n’est antifragile que relativement à une classe définie de perturbations et à un horizon donné, lorsque ces perturbations peuvent laisser davantage de capacité, d’optionalité, de connaissance ou de capacité de correction qu’avant, sans élargir l’exposition autorisée ni exporter les pertes vers des tiers qui ne les ont pas acceptées.
+
+```text
+perturbation bornée
+→ trace
+→ observation
+→ correction / adaptation
+→ apprentissage réutilisable
+→ capacité_après > capacité_avant
+```
+
+**L’antifragilité n’est donc ni une invitation à rechercher les chocs, ni un droit d’externaliser les pertes de l’apprentissage.**
+
+Le capitalisme présente de nombreux mécanismes antifragiles. Les faillites éliminent les acteurs faibles. Les crises créent des opportunités d’acquisition. Les pénuries stimulent des substitutions. Les conflits sociaux forcent des réorganisations productives. Les critiques morales deviennent des segments de marché. Les révoltes esthétiques deviennent des styles vendables. Les alternatives deviennent des niches. Les contraintes juridiques deviennent des marchés de conformité. Les catastrophes deviennent des secteurs d’investissement.
 
 Mais cette antifragilité n’est ni absolue ni métaphysique. Le capitalisme peut être antifragile localement, sectoriellement ou à moyen terme, tout en devenant fragile face à des externalités systémiques non internalisables. Une crise sanitaire, climatique, énergétique ou écologique peut créer des marchés à court terme tout en détruisant les conditions de possibilité du système à long terme. La notion d’antifragilité ne doit donc pas naturaliser le capitalisme ; elle doit aider à comprendre sa capacité de métabolisation jusqu’au point où cette métabolisation rencontre des limites physiques, sociales ou politiques.
 
@@ -284,6 +303,8 @@ L’Autonomie de Capacité ne signifie pas isolement. Elle signifie capacité ef
 
 Une société autonome n’est pas une société qui prétend tout produire seule. C’est une société qui sait quelles dépendances elle accepte, quelles dépendances elle refuse, quelles dépendances elle compense, quelles dépendances elle rend réversibles et quelles capacités elle juge stratégiques.
 
+L’antifragilité recherchée ici est une **antifragilité bornée** : la capacité d’apprendre de perturbations limitées sous un régime de Risque Mesuré, non la recherche de volatilité pour elle-même.
+
 De ce point de vue, l’adversaire pertinent du capitalisme n’est pas la fermeture. C’est la capacité distribuée.
 
 Un territoire, une communauté ou une institution deviennent antifragiles lorsqu’ils peuvent :
@@ -298,6 +319,8 @@ Un territoire, une communauté ou une institution deviennent antifragiles lorsqu
 8. transmettre les apprentissages ;
 9. empêcher la capture par quelques acteurs ;
 10. recomposer rapidement leurs propres paquets cognitifs.
+
+Cette liste décrit des mécanismes d’apprentissage ; le Risque Mesuré en fixe les bornes de légitimité.
 
 C’est ici que la critique de Marx doit être prolongée. Le capitalisme n’est pas seulement un système d’exploitation ; il est une machine à explorer orientée par la valorisation du capital. Pour le combattre, il ne suffit pas de dénoncer l’exploitation. Il faut construire une machine à explorer orientée par les capacités humaines, territoriales et démocratiques.
 
@@ -423,7 +446,7 @@ La baisse du taux de profit peut bien être tendancielle. Mais tant que la taill
 
 Il faut donc produire mieux que la marchandise : non pas plus séduisant seulement, mais plus libre, plus vérifiable, plus transmissible, plus robuste et, surtout, plus capable d’apprendre.
 
-L’adversaire du capitalisme ne sera pas une nostalgie. Ce sera une antifragilité supérieure.
+L’adversaire du capitalisme ne sera pas une nostalgie. Ce sera une antifragilité supérieure — **bornée par le Risque Mesuré, traçable dans ses apprentissages et incapable de compter l’externalisation du dommage comme un gain propre.**
 
 ## Paquet cognitif associé
 
@@ -433,22 +456,23 @@ packet:
   repository: barons-Mariani
   path: research/marx_capitalisme_antifragile.md
   status: working_paper
-  version: 0.6.1
+  version: 0.6.2
   thesis: >
     Marx a correctement identifié la dynamique systémique du capital,
     mais il a sous-estimé son caractère antifragile : capacité à apprendre des crises,
     à les absorber et à les convertir en nouveaux domaines de valorisation.
     Un adversaire durablement efficace ne peut donc pas être une forme fragile.
-    Il doit lui-même être antifragile : réseau distribué capable de commuter
-    des paquets cognitifs, de tracer les actes, d’empêcher la capture,
-    de désynchroniser les circuits mimétiques, de transformer le régime des attentes
-    et d’apprendre plus justement
-    que les circuits marchands optimisés.
+    Il doit lui-même être antifragile dans un sens borné par le Risque Mesuré :
+    réseau distribué capable de commuter des paquets cognitifs, de tracer les actes,
+    d’empêcher la capture, de désynchroniser les circuits mimétiques,
+    de transformer le régime des attentes et d’apprendre plus justement,
+    sans élargir silencieusement l’exposition ni exporter les pertes.
   key_formulas:
     - "Oui, la baisse du taux de profit est tendancielle, mais la taille des écrans de télévision va plus vite."
     - "Le capitalisme est une machine à explorer orientée par la valorisation du capital."
     - "L’alternative doit être une machine à explorer orientée par les capacités humaines, territoriales et démocratiques."
     - "L’antifragilité supérieure ne se construit pas par confrontation frontale, mais par désynchronisation mimétique et doublement des circuits."
+    - "Antifragilité bornée : apprendre du choc sans élargir l’exposition ni exporter le dommage."
     - "Loi de Tocqueville généralisée : dans une société en progrès, la perception des défauts résiduels croît plus vite que leur réduction objective."
   claims:
     - id: C1
@@ -487,6 +511,20 @@ packet:
     - "Explorer la limite écologique de l’antifragilité capitaliste : quand les chocs deviennent non internalisables."
     - "Consolider la loi de Tocqueville généralisée : la dynamique attentes / équipements / comparaison / insatisfaction est intégrée au texte, mais l'alignement fin avec le document source reste à vérifier."
 ```
+
+## Note de progression v0.6.2 — 2026-09-12
+
+Cette micro-révision aligne l’usage du terme **antifragilité** sur la définition source désormais portée par `cogentia/research/measured_risk.md`.
+
+Elle :
+
+- distingue explicitement fragilité, robustesse/résilience et antifragilité ;
+- borne l’antifragilité par une classe de perturbations, un horizon et une enveloppe de Risque Mesuré ;
+- interdit de compter comme antifragilité un apprentissage financé par l’externalisation de pertes non consenties ;
+- rattache l’Autonomie de Capacité à cette propriété sans faire de l’antifragilité un nouveau mandat d’action ;
+- corrige les métadonnées de workflow devenues obsolètes depuis la publication effective du fichier sur `main`.
+
+Cette révision ne transforme pas le working paper en doctrine définitive. Les références externes et la formalisation technique des paquets cognitifs restent des continuations ouvertes.
 
 ## État consolidé au 2026-06-09
 
@@ -530,6 +568,7 @@ Cette version corrige un défaut méthodologique de la v0.4 : la loi de Tocquevi
 - `barons-Mariani/research/legistique_cognitive.md`
 - `barons-Mariani/research/autonomia/`
 - `barons-Mariani/mimetic_desynchronization.md`
+- `cogentia/research/measured_risk.md`
 - `cogentia/` pour les paquets cognitifs, les continuations et la formalisation technique
 - `FractaVolta/` pour la couche infrastructurelle distribuée
 
@@ -539,10 +578,9 @@ Cette version corrige un défaut méthodologique de la v0.4 : la loi de Tocquevi
 2. Schumpeter : destruction créatrice comme forme partielle d’antifragilité orientée par la valorisation.
 3. Hayek : prix comme système d’information distribuée ; limites face aux externalités et aux capacités non monétisables. Le dialogue est présent, les références restent à fixer.
 4. Polanyi : désencastrement marchand, puis ré-encastrement par les infrastructures de désir et d’équipement.
-5. Taleb : clarification terminologique antifragile / robuste / résilient.
+5. Taleb : documenter précisément la source externe et vérifier les domaines d’application de l’antifragilité bornée par rapport au Risque Mesuré.
 6. Exemple minimal de paquet cognitif à tester sur un cas territorial réel. Un exemple de vigne solaire communale existe dans le texte ; il reste à le transformer en artefact testable.
 7. Lien mimétique / DRSJ à stabiliser avec `mimetic_desynchronization.md`.
-
 8. Loi de Tocqueville généralisée : vérifier l’alignement fin avec `barons-Mariani/tocqueville_law.md`, notamment la formalisation S(t), les quatre mécanismes, les conditions d’activation et les limites de domaine.
 
 ---
@@ -558,13 +596,15 @@ Corrections intégrées dans cette version :
 3. marquage de la note de progression v0.5 comme note archivée ;
 4. passage du statut en candidat validé pour stabilisation source, sans commit automatique.
 
-## Completion report
+## Completion report historique v0.6.1
+
+Ce bloc est conservé comme trace du workflow ayant précédé la présence effective du document sur `main` ; il ne décrit plus l’état courant.
 
 Issue: à créer / à rattacher  
 Files changed: `research/marx_capitalisme_antifragile.md` proposé ; fichier local produit : `marx_capitalisme_antifragile_v0.6.1_validated_candidate.md`  
 Tests run: non exécutés dans un dépôt local ; contrôle manuel d’autoportance, frontmatter, alignement corpus, conformité `AGENTS.md` / `cogentia.js`, et intégration des corrections mineures du checkpoint  
 Known risks: surcharge conceptuelle ; références externes Marx/Hayek/Polanyi/Taleb/Schumpeter encore à documenter ; formalisation technique des paquets cognitifs encore incomplète ; `canonical_url` à estampiller après dépôt réel dans GitHub  
-Next step: créer ou rattacher l’issue, déposer le fichier cible, ajouter l’entrée `research/index.md`, exécuter `cogentia stamp`, puis ouvrir une PR ou commit borné selon le workflow retenu  
+Next step (historical): créer ou rattacher l’issue, déposer le fichier cible, ajouter l’entrée `research/index.md`, exécuter `cogentia stamp`, puis ouvrir une PR ou commit borné selon le workflow retenu  
 Human validation needed: completed for this iteration; required again before source stabilization if substantive changes are added
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
