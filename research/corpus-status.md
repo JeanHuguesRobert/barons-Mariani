@@ -73,24 +73,24 @@ graph LR
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
-  r_cogentia -->|110| r_barons_mariani
+  r_cogentia -->|116| r_barons_mariani
   r_jeanhuguesrobert -->|91| r_barons_mariani
-  r_barons_mariani -->|71| r_cogentia
+  r_barons_mariani -->|84| r_cogentia
   r_jeanhuguesrobert -->|53| r_cogentia
   r_fractavolta -->|52| r_cogentia
-  r_inseme -->|40| r_cogentia
+  r_inseme -->|42| r_cogentia
   r_jeanhuguesrobert -->|39| r_marenostrum
   r_fractavolta -->|37| r_marenostrum
   r_cogentia -->|30| r_inseme
   r_jeanhuguesrobert -->|26| r_fractavolta
   r_jeanhuguesrobert -->|26| r_inseme
-  r_barons_mariani -->|22| r_marenostrum
+  r_barons_mariani -->|23| r_marenostrum
   r_fractavolta -->|22| r_inseme
+  r_fractavolta -->|21| r_barons_mariani
   r_inseme -->|20| r_barons_mariani
   r_jeanhuguesrobert -->|20| r_inox
   r_barons_mariani -->|19| r_fractavolta
   r_cogentia -->|19| r_marenostrum
-  r_fractavolta -->|19| r_barons_mariani
   r_barons_mariani -->|18| r_inseme
   r_inox -->|16| r_cogentia
   r_marenostrum -->|16| r_cogentia
@@ -105,17 +105,18 @@ graph LR
   r_inox -->|8| r_marenostrum
   r_jeanhuguesrobert -->|8| r_ubikia
   r_ubikia -->|8| r_cogentia
+  r_barons_mariani -->|7| r_inox
   r_cogentia -->|7| r_jeanhuguesrobert
   r_inseme -->|7| r_jeanhuguesrobert
+  r_barons_mariani -->|6| r_jeanhuguesrobert
   r_inseme -->|6| r_kudos
-  r_barons_mariani -->|5| r_inox
-  r_barons_mariani -->|5| r_jeanhuguesrobert
+  r_operium -->|6| r_cogentia
   r_cogentia -->|5| r_fractavolta
-  r_operium -->|5| r_cogentia
   r_ubikia -->|5| r_barons_mariani
   r_barons_mariani -->|4| r_ubikia
   r_fractavolta -->|4| r_jeanhuguesrobert
   r_marianivillage -->|4| r_fractavolta
+  r_operium -->|4| r_inseme
   r_operium -->|4| r_marenostrum
   r_ubikia -->|4| r_jeanhuguesrobert
   r_github -->|3| r_gouvernance
@@ -123,7 +124,6 @@ graph LR
   r_jeanhuguesrobert -->|3| r_institut_mariani
   r_kudos -->|3| r_barons_mariani
   r_operium -->|3| r_barons_mariani
-  r_operium -->|3| r_inseme
   r_cogentia -->|2| r_inox
   r_gouvernance -->|2| r_barons_mariani
   r_gouvernance -->|2| r_fractavolta
@@ -660,7 +660,9 @@ graph LR
 | [La méthode des terrains féconds — Dépolariser par reconfiguration préalable des oppositions (FR)](methode_terrains_feconds.md) *(working paper v0.4 — protocole pré-délibératif)* | this repo | 2026-05-21 |
 | [Démocratie capable (FR)](democratie_capable.md) *(working paper v0.4 — open democracy, democratic scaling, and Autonomie de Capacité)* | this repo | 2026-06-06 |
 | [La constitution minimale des communs](constitution_minimale_des_communs.md) *(document source v1.0 — noyau constitutionnel en quatre clauses : soin, signalement, gouvernement démocratique et mémoire écrite)* | this repo | 2026-07-17 |
-| [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.3 — trace epistemology, consolidated source document)* | this repo | 2026-06-05 |
+| [Le passé est aussi imprévisible que le futur (FR)](trace_epistemology.md) *(working paper v0.4 — trace epistemology, rupture Trace-Centric vs Event-Centric, JHN architecture & COP 2.x)* | this repo | 2026-06-05 |
+| [Le principe Rossignol (FR)](principe_rossignol.md) *(working paper v0.2 — ancrage empirique, confrontation au Réel, hall de miroirs et Synthetic Skin in the Game)* | this repo | 2026-08-22 |
+| [Test du critère Rossignol (FR)](test_critere_rossignol.md) *(working note v0.2 — application aux 4 Échelons d'Incarnation, résolution du cas numérique, Learning Computer et Agent JHN)* | this repo | 2026-05-31 |
 | [Mandats express et démocratie capable de crise](democratie_crise_mandats_express.md) *(document source v0.3 — répondre à l'objection de lenteur démocratique sans ouvrir la voie à l'état d'exception tyrannique)* | this repo | 2026-06-12 |
 | [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md) *(working paper v0.3 — cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities)* | this repo | 2026-06-13 |
 | [Constructive Review: Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental_grok_review_2026-06-13.md) *(archived external review v0.1 — Grok review signal preserved for the incremental corpus model)* | this repo | 2026-06-13 |
@@ -692,7 +694,8 @@ graph LR
 | [Des bleus de travail aux bleus de mémoire — Bleu de Chine, denim et patrimonialisation méditerranéenne (FR)](patrimoine/bleu_chine_denim_article_academique.md) *(academic draft v0.1 — dossier patrimoine/ ; companions : [chronologie](patrimoine/bleu_chine_denim_chronologie.md), [sources annotées](patrimoine/bleu_chine_denim_sources_annotees.md))* | this repo | 2026-05-30 |
 | [Potentics — Toward a Science of the Possible](potentics.md) | this repo | 2026 |
 | [Presencology — Presence Maps for the Rational Exploration of The Possible](presencology.md) *(proposed research programme — presence, potentiality, stigmergy and distributed cognition)* | this repo | 2026-08-10 |
-| [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.3 — RAIX, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-07-30 |
+| [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.4 — RAIX collective capability, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-09-04 |
+| [The Network is the Learning Computer](the_network_is_the_learning_computer.md) *(source working paper v0.9 — Cognitive Packet Switching, Ithaca return, RAIX dynamic capability arrays, JHN Architecture)* | this repo | 2026-09-04 |
 | [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
 | [Protection responsable](protection_responsable.md) | this repo | 2026 |
 | [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |
