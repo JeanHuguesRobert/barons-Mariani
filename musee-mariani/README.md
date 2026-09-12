@@ -4,6 +4,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-07-08
+last_modified_at: 2026-09-12
 title: "Musée Mariani — préfiguration"
 date: "2026-06-26"
 status: "draft"
@@ -57,6 +58,7 @@ musee-mariani/
   sources/
     bibliographie.md
   methodes/
+    notices_famille_etendue.md
     template_fiche_possible.md
     indice_friction_administrative.md
     indice_capacite_retrouvee.md
@@ -84,6 +86,7 @@ musee-mariani/
 - [`dossiers/louis-thomas-mariani-tahiti.md`](dossiers/louis-thomas-mariani-tahiti.md) — dossier prototype : Louis-Thomas Mariani, Tahiti et la mention fragile de « prince en Tahiti ».
 - [`notes-critiques/preuves-et-incertitudes.md`](notes-critiques/preuves-et-incertitudes.md) — grille de preuve et règles de prudence.
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
+- [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — méthode de généalogie augmentée et feuille de route pour les notices individuelles Mariani / de Casabianca / d’Angelis.
 
 ## Doctrine des Possibles — méthode, juridique, ateliers
 
@@ -91,6 +94,7 @@ La doctrine est accompagnée d'une première série de documents opérationnels 
 
 **Méthode**
 
+- [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — généalogie augmentée : personnes, trajectoires, territoires, mémoire orale, sources et degrés de preuve.
 - [`methodes/template_fiche_possible.md`](methodes/template_fiche_possible.md) — gabarit commun à toutes les fiches d'atelier (clé de voûte).
 - [`methodes/indice_friction_administrative.md`](methodes/indice_friction_administrative.md) — mesure du coût et de la complexité de mise en conformité.
 - [`methodes/indice_capacite_retrouvee.md`](methodes/indice_capacite_retrouvee.md) — mesure de ce qu'un atelier rend possible.
