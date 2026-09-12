@@ -236,6 +236,8 @@ The experiment is ongoing. Observations are provisional. Participation is open t
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
+- [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
+- [Rossignol — the donkey who questions Reality](rossignol.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [the republic of donkeys - moved](../the_republic_of_donkeys.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)

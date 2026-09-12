@@ -172,5 +172,6 @@ This work (text, framework, and PKDIS system prompt) is released under the **MIT
 *These documents link to this file:*
 - [ai based cultural mediation - moved](../ai-based-cultural-mediation.md)
 - [Barons Mariani](../README.md)
+- [Quand le Réel répond](quand_le_reel_repond_pkd.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

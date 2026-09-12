@@ -389,6 +389,7 @@ The goal is not to maximize anything — it is to explore what's possible, with 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible](lettre_descartes_joie_explorer_possible.md)
 - [Research Index — barons-Mariani](index.md)
 - COP Core — Cognitive Orchestration Protocol
 - [Possibilism](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md)

@@ -641,9 +641,13 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 - [Concept Index — barons-Mariani](concepts.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
+- [Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible](lettre_descartes_joie_explorer_possible.md)
 - [Parked: External review of Potentics v1.0-rc1 received — human arbitration pending](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00024.md)
 - [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
+- [Quand le Réel répond](quand_le_reel_repond_pkd.md)
 - [Research Index — barons-Mariani](index.md)
+- [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
+- [Rossignol — the donkey who questions Reality](rossignol.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
 <!-- END_AUTO: backlinks -->

@@ -365,7 +365,6 @@ Le principe directeur reste le suivant :
 ### Backlinks
 
 *These documents link to this file:*
-- [Chronologie documentaire du processus de Beauvau](chronologie_processus_beauvau_corse.md)
 - [Courrier public aux six parlementaires de Corse](courrier_public_six_parlementaires_corse.md)
 - [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
 - [Research Index — barons-Mariani](index.md)

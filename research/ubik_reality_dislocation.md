@@ -756,6 +756,7 @@ a way for reality to hold.
 *These documents link to this file:*
 - [After Ubik: When Reality No Longer Holds](after_ubik_art_criticism_essay.md)
 - [Après Ubik : quand la réalité ne tient plus](apres_ubik_essai_critique_art.md)
+- [Quand le Réel répond](quand_le_reel_repond_pkd.md)
 - [Reality Safety](reality_safety_procedural_stabilizers.md)
 - [Research Index — barons-Mariani](index.md)
 - [Ubik and the Dislocation of Reality](ubik_reality_dislocation_academic.md)

@@ -908,6 +908,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Démocratie capable](democratie_capable.md)
 - [La constitution minimale des communs](constitution_minimale_des_communs.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
+- [Potentique territoriale](autonomia/potentique_territoriale.md)
 - [Projet #1755](autonomia/projet_1755.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)

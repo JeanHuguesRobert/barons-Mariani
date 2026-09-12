@@ -176,6 +176,8 @@ continuation:
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
+- [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
+- [Rossignol — the donkey who questions Reality](rossignol.md)
 - For researchers
 - [Test du critère Rossignol — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/test_critere_rossignol_inox.md)
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
