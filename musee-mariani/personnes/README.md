@@ -8,7 +8,7 @@ ai_assisted_by:
   - "ChatGPT"
 date: "2026-09-12"
 last_modified_at: "2026-09-12"
-version: "0.2"
+version: "0.3"
 status: "working — canonical persons index"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -75,7 +75,7 @@ Ces codes sont des raccourcis de navigation. Ils ne remplacent pas l’appareil 
 
 | Personne | Dates indicatives | Branche / relation | Lieux principaux actuellement documentés | Rôle / intérêt dans le corpus | Notice / dossier principal | Statut documentaire | Preuve |
 |---|---|---|---|---|---|---|---|
-| **Antoine Dominique Mariani** | 1776–1845 ? | Mariani ; père de Louis-Thomas et Louis-Hugues selon le corpus | Corse ; administrations du Premier Empire / Restauration à documenter finement | Premier baron Mariani dans la tradition documentaire du corpus ; point de départ de plusieurs dossiers historiques | [`notice_baron_mariani_medias`](../../research/notice_baron_mariani_medias.md) ; [`projet_minesteggio`](../../research/projet_minesteggio.md) | Biographie dispersée ; date de décès et certaines fonctions à consolider | **P/D** |
+| **Antoine Dominique Mariani** | 1776–1845 (convergence secondaire) | Mariani ; père de Louis-Thomas et Louis-Hugues selon le corpus | Corse ; administrations du Premier Empire / Restauration à documenter finement | Premier baron Mariani dans la tradition documentaire du corpus ; point de départ de plusieurs dossiers historiques | [`notice_baron_mariani_medias`](../../research/notice_baron_mariani_medias.md) ; [`projet_minesteggio`](../../research/projet_minesteggio.md) | Plusieurs sources secondaires convergent sur 1776–1845 ; l’acte primaire de décès reste à obtenir ; certaines fonctions et la nature exacte du titre restent à consolider | **P/O** |
 | **Louis-Thomas Joseph Maurice Jérôme Mariani** | 1815–1890 | Mariani ; fils d’Antoine Dominique ; frère aîné de Louis-Hugues dans le corpus | Corte / Corse ; Paris ; carrière militaire et politique ; Océanie à vérifier | Député de la Corse ; auteur de la protestation électorale de 1863 ; portrait conservé au musée d’Orsay | [`Louis-Thomas Mariani et Tahiti`](../dossiers/louis-thomas-mariani-tahiti.md) ; [`Protestation électorale de 1863`](../../research/protestation_electorale_1863_mariani_gavini.md) | Plusieurs sources institutionnelles identifiées ; dossier individuel déjà amorcé | **E/P** |
 | **Louis-Hugues Ferdinand Marie Mariani** | 1815–1890 ou 1818–1886 selon sources secondaires | Mariani ; frère de Louis-Thomas ; époux indiqué de Marie Joséphine d’Angelis ; père indiqué de Pierre | Bastia / Corse à documenter par actes | Maillon central de la chaîne d’Angelis → Mariani ; dates actuellement discordantes | [`Relèvement du nom d’Angelis`](../../research/relevement_nom_dangelis.md) | Filiation et dates à fermer par état civil | **D/O** |
 | **Hyacinthe Joseph Louis Mariani** | 1827–1894 (secondaire) | Mariani ; génération étudiée comme possible point de déplacement du centre de gravité familial hors de Corse | Corte ; carrière militaire ; continent / Abbeville à vérifier par actes | Premier cas pilote avec Albert pour étudier migration, alliances et éloignement territorial | [`Méthode des notices`](../methodes/notices_famille_etendue.md) ; [issue #64](https://github.com/JeanHuguesRobert/barons-Mariani/issues/64) | Notice individuelle à créer en phase 2 | **S/O** |
