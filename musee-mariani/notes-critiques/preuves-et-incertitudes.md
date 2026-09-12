@@ -4,6 +4,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-06-26
+last_modified_at: 2026-09-12
 title: "Preuves et incertitudes — méthode critique du Musée Mariani"
 date: "2026-06-26"
 status: "draft"
@@ -11,6 +12,8 @@ document_role: "source"
 document_kind: "critical-note"
 visibility: "public"
 lifecycle_state: "working"
+related_documents:
+  - "musee-mariani/methodes/notices_famille_etendue.md"
 ---
 
 # Preuves et incertitudes — méthode critique du Musée Mariani
@@ -80,3 +83,9 @@ Le dépôt source conserve les preuves, variantes et incertitudes. Le produit mu
 Formule :
 
 > Le cartel simplifie ; le corpus justifie.
+
+## 8. Application aux notices de personnes
+
+La méthode [`Notices — famille étendue Mariani / de Casabianca / d’Angelis`](../methodes/notices_famille_etendue.md) applique cette grille à la généalogie augmentée : chaque élément biographique doit porter implicitement ou explicitement son degré de preuve, sa provenance et les vérifications encore ouvertes.
+
+Le principe est symétrique : la présente note fournit la **grille critique** ; les notices familiales fournissent des **cas individuels structurés** où cette grille devient opérationnelle.
