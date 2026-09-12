@@ -119,7 +119,7 @@ Méditerranée, si certaines bifurcations historiques avaient pris un autre chem
 de Haute-Corse (27 septembre 2026) sous l'identité de **Baron Mariani**, titre
 porté par sa famille depuis le baron
 [Antoine Dominique Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani),
-conseiller d'État et pair de France sous la monarchie de Juillet.
+conseiller d'État sous la monarchie de Juillet.
 
 Cette candidature n'est pas une prédiction de victoire. C'est une exploration
 possibiliste : mettre une proposition conséquente à l'épreuve du débat public,
@@ -483,13 +483,13 @@ léger, sans infrastructure lourde.
 
 ## La famille des barons Mariani
 
-La notice Wikipedia de l'ancêtre Antoine Dominique Mariani (1776–1843), baron
-de l'Empire, conseiller d'État, pair de France :
+Les sources secondaires actuellement retenues donnent Antoine Dominique Mariani
+(1776–1845), baron de l'Empire et conseiller d'État ; l'acte primaire de décès
+reste à obtenir :
 [fr.wikipedia.org/wiki/Antoine\_Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani).
 
-L'ouvrage généalogique *Les barons Mariani et leurs alliances* (1993),
-constitué à partir des archives du baron Louis-Hugues Mariani, est consultable
-en ligne :
+L'ouvrage généalogique *Les barons Mariani et leurs alliances* (1933) est
+consultable en ligne :
 [books.google.fr](https://books.google.fr/books?id=9ScbAAAAYAAJ&focus=searchwithinvolume&q=mariano).
 
 ---
