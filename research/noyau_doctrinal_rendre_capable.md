@@ -44,8 +44,8 @@ related_documents:
   - "cogentia/research/mandated_fast_democracy.md"
   - "cogentia/research/tracabilite_symetrique_capture_relationnelle.md"
   - "cogentia/research/measured_risk.md"
-  - "FractaVolta/UNCONSCIOUS_GRID.md"
-  - "FractaVolta/LE_RESEAU_INCONSCIENT.md"
+  - "FractaVolta/research/UNCONSCIOUS_GRID.md"
+  - "FractaVolta/research/LE_RESEAU_INCONSCIENT.md"
   - "FractaVolta/research/generalized_packet_networks.md"
   - "FractaVolta/research/fractanet.md"
   - "FractaVolta/docs/energy-packets.md"
@@ -1677,7 +1677,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | 3 | [`cogentia/research/second_method.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/second_method.md) | Renforcer la méthode : objections, preuves, continuations, stabilisation. |
 | 4 | [`cogentia/research/methode_terrains_feconds.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/methode_terrains_feconds.md) | Ajouter la reconfiguration des débats comme principe générateur à part entière. |
 | 5 | [`FractaVolta/research/generalized_packet_networks.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/generalized_packet_networks.md) | Formaliser correctement la packetisation généralisée. |
-| 6 | [`FractaVolta/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
+| 6 | [`FractaVolta/research/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
 | 7 | [`FractaVolta/research/fractanet.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md) | Articuler Fractanet comme instance opérationnelle du noyau. |
 | 8 | [`cogentia/research/cogentia_continuation_packet_routing.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_continuation_packet_routing.md) | Renforcer la notion de continuation routable et de cognition distribuée. |
 | 9 | [`inseme/packages/cop-kernel/docs/task-step-continuation-lineage.md`](https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-kernel/docs/task-step-continuation-lineage.md) | Ancrer techniquement les continuations, événements, tâches, étapes et redondance RAIX. |
