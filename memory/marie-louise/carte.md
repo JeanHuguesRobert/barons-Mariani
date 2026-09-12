@@ -6,8 +6,8 @@ description: >
   contradictions et inconnues concernant Marie-Louise Isabelle Garance Robert.
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-08"
-version: "0.6"
+date: "2026-09-12"
+version: "0.7"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -29,6 +29,7 @@ provenance:
     - "memory/marie-louise/elections-2024-complaints.md"
     - "memory/marie-louise/elections/README.md"
     - "memory/marie-louise/works/README.md"
+    - "memory/marie-louise/works/oletta_premier_chantier_artistique.md"
     - "memory/marie-louise/works/l_alterite_en_soi_2016.md"
     - "memory/marie-louise/works/photoroman_julie_2017.md"
     - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
@@ -207,6 +208,20 @@ réussite du concours Villa Arson
 ~~~
 
 Voir memory/marie-louise/formation/parcours_artistique_2016_2022.md.
+
+## 5.5 Oletta — premier chantier artistique professionnel connu
+
+**Statut : `FACT / TRACE candidate` pour l'existence des œuvres ; `ASSERTION-JHR` pour leur place exacte dans la trajectoire professionnelle.**
+
+Jean Hugues Noël Robert rapporte que Marie-Louise a réalisé **deux grandes peintures murales** dans une maison à Oletta lors d'un séjour chez une amie de la famille.
+
+Les œuvres existent matériellement et des photographies sont conservées dans les archives familiales ; elles restent à inventorier et dater précisément.
+
+Jean Hugues considère cet épisode comme le **premier chantier artistique professionnel connu** de Marie-Louise. Cette qualification doit encore être confrontée à d'éventuels travaux professionnels antérieurs.
+
+Les conditions exactes de commande, de réalisation et de contrepartie restent à documenter dans le corpus public. Aucun vécu psychologique ni aucune conséquence causale ne sont déduits ici de cet épisode.
+
+Voir `memory/marie-louise/works/oletta_premier_chantier_artistique.md`.
 
 # 6. 2016 — Frontières, *L'altérité en soi* et « fragmentation de l'être »
 
@@ -480,6 +495,7 @@ Elle reste à produire.**
 - `memory/marie-louise/elections-2024-complaints.md`
 - `memory/marie-louise/elections/README.md`
 - `memory/marie-louise/works/README.md`
+- `memory/marie-louise/works/oletta_premier_chantier_artistique.md`
 - `memory/marie-louise/possible_matrix.md`
 - `research/protection_responsable.md`
 - chantier `projects/suicide-corse/`
@@ -528,6 +544,7 @@ Les lacunes sont elles-mêmes des informations.
 - [ ] compléter la chronologie scolaire et universitaire au-delà de l'ossature 2016–2022 désormais documentée ;
 - [ ] documenter précisément la Villa Arson : admission, niveau d'entrée, inscription, fréquentation, travaux et interruption éventuelle ;
 - [ ] lieux de vie et activités professionnelles ;
+- [ ] inventorier et dater les deux peintures murales d'Oletta et leurs photographies ;
 - [ ] inventaire des œuvres, photographies, textes et archives numériques ;
 - [ ] dossier complet 2017 et requête Conseil constitutionnel ;
 - [ ] compléter les paroles politiques directement attribuables à Marie-Louise pour 2017 et 2022 ;
@@ -576,7 +593,7 @@ Chaque version doit pouvoir dire :
     voici ce que nous ignorons
     voici ce qui a changé depuis la version précédente
 
-La version 0.6 est donc intentionnellement incomplète.
+La version 0.7 est donc intentionnellement incomplète.
 
 Sa première fonction est de rendre cette incomplétude **visible, structurée et explorable**.
 
