@@ -3,9 +3,9 @@ title: "Rendre capable — noyau doctrinal provisoire"
 subtitle: "Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant"
 author: "Jean Hugues Noël Robert"
 status: "working_draft"
-version: "0.5"
-date: "2026-09-09"
-review_status: "v0.5 integrates the operational definition of freedom and the formal/effective capability gap; constructive review remains welcome"
+version: "0.5.1"
+date: "2026-09-12"
+review_status: "v0.5.1 integrates bounded antifragility under Measured Risk as a compact cross-corpus property; constructive review remains welcome"
 repository: "barons-Mariani"
 path: "research/noyau_doctrinal_rendre_capable.md"
 type: "doctrinal_kernel"
@@ -23,6 +23,7 @@ scope:
   - corpus
   - anti-capture
   - maintenance
+  - bounded-antifragility
 related_documents:
   - "JeanHuguesRobert/.cogentia.json"
   - "barons-Mariani/POSSIBILISM.md"
@@ -32,6 +33,7 @@ related_documents:
   - "barons-Mariani/research/traceabilite_des_actes.md"
   - "barons-Mariani/research/kudos.md"
   - "barons-Mariani/research/serenia_autonomie_assistee_ia.md"
+  - "barons-Mariani/research/marx_capitalisme_antifragile.md"
   - "cogentia/research/second_method.md"
   - "cogentia/research/methode_terrains_feconds.md"
   - "cogentia/research/conversation_to_corpus_pipeline.md"
@@ -41,6 +43,7 @@ related_documents:
   - "cogentia/research/democracy_of_capability.md"
   - "cogentia/research/mandated_fast_democracy.md"
   - "cogentia/research/tracabilite_symetrique_capture_relationnelle.md"
+  - "cogentia/research/measured_risk.md"
   - "FractaVolta/UNCONSCIOUS_GRID.md"
   - "FractaVolta/LE_RESEAU_INCONSCIENT.md"
   - "FractaVolta/research/generalized_packet_networks.md"
@@ -113,13 +116,27 @@ Le document peut être lu à partir d’une grammaire simple :
 - **Continuation** : permettre la reprise, la redirection et la transmission sans trahir.
 - **Fédération sans capture** : coordonner sans absorber.
 - **Modes dégradés** : maintenir des capacités minimales lorsque le fonctionnement nominal disparaît.
+- **Antifragilité bornée** : transformer certaines adversités limitées en capacité, optionalité, connaissance ou capacité de correction supplémentaires, sans élargir l’exposition ni exporter le dommage.
 - **Transmission** : rendre le corpus et les capacités reprenables, corrigibles et déclinables.
 
 Cette grammaire ne prétend pas tout expliquer. Elle sert à reconnaître les liens entre les branches du corpus et à produire de nouvelles dérivations sans perdre le fil.
 
+L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle décrit une propriété possible d’un système gouverné : pour une classe définie de perturbations, sous **Risque Mesuré**, l’apprentissage et la correction peuvent laisser davantage de capacité qu’avant la perturbation. La définition source est maintenue dans `cogentia/research/measured_risk.md`.
+
 ---
 
 # Changelog
+
+## v0.5.1 — 2026-09-12
+
+Micro-consolidation doctrinale de l’antifragilité déjà présente dans plusieurs branches du corpus.
+
+Cette version :
+
+- introduit **l’antifragilité bornée** dans la grammaire centrale ;
+- la rattache explicitement au **Risque Mesuré**, qui borne l’exposition, la récupération, les droits et la non-externalisation des pertes ;
+- relie le noyau à `cogentia/research/measured_risk.md` et à `research/marx_capitalisme_antifragile.md` ;
+- évite d’ajouter une doctrine autonome lorsque les mécanismes existent déjà sous forme d’objections contributives, de corrections stigmergiques, de Reality Tests et de continuations.
 
 ## v0.5 — 2026-09-09
 
@@ -261,7 +278,7 @@ Sa fonction est de dire :
 - voici les questions ouvertes ;
 - voici les continuations à explorer.
 
-Le document vaut ce que vaut une version 0.5 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
+Le document vaut ce que vaut une version 0.5.1 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
 
 ---
 
@@ -1545,6 +1562,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | [`research/second_method.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/second_method.md) | `cogentia` | Méthode d’exploration rationnelle des possibles : objections qualifiées, niveaux de preuve, documentation du processus, stabilisation par versions. |
 | [`research/methode_terrains_feconds.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/methode_terrains_feconds.md) | `cogentia` | Méthode de reconfiguration des problèmes : chercher la couche où des vérités partielles deviennent compatibles. Ajoute le principe “reconfigurer avant d’optimiser”. |
 | [`research/agile.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md) | `barons-Mariani` | Généralisation prudente de l’agile : régimes d’erreur, réversibilité, expérimentation traçable, apprentissage collectif sous complexité. |
+| [`research/measured_risk.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/measured_risk.md) | `cogentia` | Doctrine du Risque Mesuré : exposition bornée, récupération, résidu et apprentissage. Définit désormais l’antifragilité bornée comme propriété émergente d’une boucle gouvernée, sans externalisation des pertes. |
 | [`research/generator_production_instillation.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/generator_production_instillation.md) | `cogentia` | Production et instillation de documents générateurs. Utile pour penser la manière dont un noyau doctrinal produit des dérivations. |
 | [`research/conversation_to_corpus_pipeline.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/conversation_to_corpus_pipeline.md) | `cogentia` | Pipeline conversation → corpus → modèle → agent → suggestion → conversation ; et conversation → options → décision candidate → mandat → action → trace → contrôle → retour d’expérience → corpus. |
 | [`research/pipeline.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) | `cogentia` | Pipeline général Cogentia : transformation de conversations, notes et paquets cognitifs en corpus structuré et produits dérivés. |
@@ -1659,7 +1677,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | 3 | [`cogentia/research/second_method.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/second_method.md) | Renforcer la méthode : objections, preuves, continuations, stabilisation. |
 | 4 | [`cogentia/research/methode_terrains_feconds.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/methode_terrains_feconds.md) | Ajouter la reconfiguration des débats comme principe générateur à part entière. |
 | 5 | [`FractaVolta/research/generalized_packet_networks.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/generalized_packet_networks.md) | Formaliser correctement la packetisation généralisée. |
-| 6 | [`FractaVolta/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
+| 6 | [`FractaVolta/UNCONSCIOUS_GRID.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/UNCONSCIOUS_GRID.md) | Ancrer le cas Minitel/X.25/Cyclades dans la doctrine du paquet contre circuit. |
 | 7 | [`FractaVolta/research/fractanet.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md) | Articuler Fractanet comme instance opérationnelle du noyau. |
 | 8 | [`cogentia/research/cogentia_continuation_packet_routing.md`](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_continuation_packet_routing.md) | Renforcer la notion de continuation routable et de cognition distribuée. |
 | 9 | [`inseme/packages/cop-kernel/docs/task-step-continuation-lineage.md`](https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-kernel/docs/task-step-continuation-lineage.md) | Ancrer techniquement les continuations, événements, tâches, étapes et redondance RAIX. |
@@ -1684,6 +1702,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | Runtime / exécution | `fractanet.md`, `inox-spec.md`, `COP_STATE_OF_PLAY.md`, `task-step-continuation-lineage.md` |
 | Territoire / énergie / IA | `MODEL.md`, `safe_compute_exergy.md`, `compute-exergy-omitted-variable.md`, `CXU_SPEC.md`, `FractaVolta` |
 | Démocratie locale | `democratie_capable.md`, `democracy_of_capability.md`, `blueprint_ophelia.md`, `kudocracy.md`, `mandated_fast_democracy.md` |
+| Risque / apprentissage | `measured_risk.md`, `agile.md`, `marx_capitalisme_antifragile.md` |
 
 ## 23.15. Remarque méthodologique
 
@@ -1929,7 +1948,6 @@ mais garder humaine la hiérarchisation.
 ```
 
 ## 24.5. Règle de version
-
 
 Chaque version substantielle doit augmenter le numéro de version.
 
