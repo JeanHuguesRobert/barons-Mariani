@@ -4,17 +4,26 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-06-01
+last_modified_at: 2026-09-12
 title: "**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**"
 date: "2026-04-19"
-status: "draft — auto-filled (frontmatter cleanup)"
+version: "1.1-fixbugsfirst"
+status: "draft — working; genealogy corrected against canonical index"
 document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "research-paper"
 classification_confidence: "medium"
+related_documents:
+  - "musee-mariani/personnes/README.md"
+  - "musee-mariani/methodes/notices_famille_etendue.md"
+  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
+  - "research/relevement_nom_dangelis.md"
+  - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/64"
 ---
 
 # **Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**
@@ -23,7 +32,7 @@ classification_confidence: "medium"
 ---
 
 > **Auteur** : Jean Hugues Noël Robert
-> **Version** : 1.0 (Avril 2026), c'est une "ébauche", il y a beaucoup d'erreurs à corriger, WIP.
+> **Version** : 1.1 — correctif FixBugsFirst du 12 septembre 2026. Le document reste une ébauche WIP ; les affirmations historiques et généalogiques doivent être lues selon leur niveau de preuve.
 > **Licence** : CC-BY-SA 4.0
 > **Dépôt GitHub** : [JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani)
 
@@ -31,11 +40,11 @@ classification_confidence: "medium"
 
 ## **Résumé scientifique**
 
-Ce document formalise la **légitimité historique, généalogique et territoriale** du projet Minesteggio, situé à Corte (Corse). Il s’articule autour de trois axes indissociables :
+Ce document formalise la **légitimité historique, généalogique et territoriale** du projet Minesteggio, situé à Corte (Corse). Il s’articule autour de quatre axes :
 
 1. **Une légitimité historique** : ancrage des familles Mariani, Arrighi de Casanova, Bonaparte et Gaffory dans les réseaux napoléoniens et les dynamiques politiques corses du début du XIXe siècle.
-2. **Une légitimité généalogique** : une lignée familiale ininterrompue depuis le baron Antoine Dominique Mariani (1776–1845) jusqu’au porteur du projet, Jean Hugues Noël Robert, en passant par des figures administratives et politiques majeures.
-3. **Une légitimité territoriale** : Minesteggio, domaine impérial construit en 1812, comme **nœud de mémoire** et de transmission patrimoniale.
+2. **Une continuité généalogique à documenter** : le corpus contient une chaîne familiale de travail reliant le baron Antoine Dominique Mariani au porteur contemporain du projet, mais plusieurs maillons doivent encore être fermés par actes d’état civil et sources primaires. L’index canonique est [`musee-mariani/personnes/README.md`](../musee-mariani/personnes/README.md).
+3. **Une légitimité territoriale** : Minesteggio comme **nœud de mémoire** et de transmission patrimoniale, dont la chronologie foncière détaillée doit être documentée indépendamment des traditions familiales.
 4. **Une légitimité muséographique** : l’uchronie (« Napoléon 1821 ») comme dispositif innovant de médiation culturelle et sociale.
 
 **Objectif** : Fournir un cadre méthodologique robuste, exploitable dans un contexte institutionnel (DRAC, collectivités locales, mécénat), tout en préservant l’originalité conceptuelle du projet. Le musée sera à la fois un **dispositif de mémoire**, un **outil de médiation culturelle** et un **levier de développement territorial**.
@@ -106,33 +115,48 @@ La Corse est un **carrefour impérial** :
 
 ---
 
-## **3. Légitimité généalogique : La lignée des Mariani**
+## **3. Légitimité généalogique : état de travail du corpus**
 
-### **3.1. Structure de la lignée**
+### **3.1. Structure de la lignée — correction FixBugsFirst**
 
-```
-Antoine Dominique Mariani (baron, 1776–1845)
+La version antérieure de cette section mélangeait plusieurs générations et stabilisait comme faits des dates et filiations incompatibles avec l’état actuel du corpus. **Elle ne doit plus être utilisée ni citée comme source généalogique.**
+
+L’index canonique des personnes est désormais :
+- [`musee-mariani/personnes/README.md`](../musee-mariani/personnes/README.md)
+
+La chaîne de travail pertinente pour le porteur contemporain du projet est actuellement :
+
+```text
+Antoine Dominique Mariani (1776–1845 selon les sources actuellement retenues)
 │
-├── Joseph Louis Thomas Maurice Jérôme Mariani (1820–1885) [branche aînée]
-│   └── Député de la Corse (1849–1869) sous le Second Empire
+├── Louis-Thomas Joseph Maurice Jérôme Mariani (1815–1890)
+│   └── branche collatérale ; député de la Corse ; lien fraternel avec Louis-Hugues à fermer par actes
 │
-└── Louis-Hugues Mariani (1825–1902) [branche cadette]
+└── Louis-Hugues Ferdinand Marie Mariani
+    dates secondaires discordantes : 1815–1890 / 1818–1886
     │
-    ├── Marie-Louise Mariani (1860–1940)
-    │   │
-    │   ├── Marguerite Isabelle (1910–1975)
-    │   │   │
-    │   │   ├── Jean Hugues Noël (né en 1942)
-    │   │   │   │
-    │   │   │   └── Jean Hugues Noël Robert (porteur du projet)
-    │   │
-    └── Marie-Louise (1998–2024) [dernière descendante directe]
+    └── union indiquée avec Marie Joséphine d’Angelis
+        │
+        └── Pierre Mariani
+            │
+            └── union indiquée avec Marguerite de Casabianca
+                │
+                └── Marie-Louise Mariani, épouse Robert
+                    │
+                    └── Marguerite Robert
+                        │
+                        └── Jean Hugues Noël Robert / Baron Mariani
+                            │
+                            └── Marie-Louise Isabelle Garance Robert
+                                (personne disposant d’un sous-corpus documentaire propre)
 ```
 
-**Caractéristiques** :
-- **Ancrage territorial** : Minesteggio reste dans la famille depuis 1812.
-- **Transmission des savoirs** : Les Mariani ont été des « passeurs » entre la Corse et le continent.
-- **Résilience** : La famille a survécu aux crises (guerres mondiales, spéculation immobilière) grâce à une stratégie de discrétion et de diversification.
+**Statut de cette chaîne :** elle est cohérente avec l’état actuel du corpus, notamment [`research/relevement_nom_dangelis.md`](relevement_nom_dangelis.md), mais elle **n’est pas encore fermée juridiquement par l’ensemble des actes d’état civil**. Les relations et dates doivent donc être lues avec les niveaux de preuve de [`musee-mariani/personnes/README.md`](../musee-mariani/personnes/README.md) et de la grille [`preuves-et-incertitudes.md`](../musee-mariani/notes-critiques/preuves-et-incertitudes.md).
+
+**Conséquences méthodologiques :**
+- **Ancrage territorial** : la relation historique entre les Mariani et Minesteggio est documentée, mais la continuité foncière détaillée depuis le début du XIXe siècle doit être démontrée par titres, cadastre et actes ;
+- **Transmission familiale** : elle constitue une hypothèse de travail fortement structurante, mais chaque maillon doit conserver son niveau de preuve propre ;
+- **Aucune exclusivité dynastique ne doit être inférée** : l’index ne prétend ni recenser tous les descendants, ni désigner une « dernière descendante » sans enquête généalogique complète.
 
 ### **3.2. Alliances familiales clés**
 
@@ -153,20 +177,20 @@ Antoine Dominique Mariani (baron, 1776–1845)
 ### **4.1. Présentation du domaine**
 
 - **Localisation** : Aux environs de Corte (42°19'21"N 9°9'0"E).
-- **Construction** : Domaine impérial construit en 1812 par Antoine Dominique Mariani.
+- **Construction** : le corpus rattache la construction du domaine à Antoine Dominique Mariani au début du XIXe siècle ; la datation exacte et les actes de construction restent à fermer par sources primaires.
 - **Fonction historique** :
-  - Résidence d’été des barons Mariani.
-  - Lieu de pouvoir (sous-préfecture, Garde nationale pendant les Cent-Jours).
-  - Symbole de l’ancrage territorial des Mariani en Corse.
+  - résidence associée aux barons Mariani ;
+  - lieu lié à l’histoire administrative et familiale de Corte ;
+  - symbole de l’ancrage territorial des Mariani en Corse.
 
-**Source** :
+**Source secondaire à corroborer** :
 - [Wikimapia – Château Mariani, Minesteggio](http://wikimapia.org/1611802/fr/Chateau-Mariani-Minesteggio) : « Résidence d’été des Barons Mariani. »
 
 ### **4.2. Fonction symbolique**
 
 Minesteggio est un **nœud historique** qui relie :
-- **L’histoire impériale** (Antoine Dominique Mariani, administrateur de Napoléon).
-- **La généalogie Mariani** (transmission ininterrompue).
+- **L’histoire impériale** (Antoine Dominique Mariani et les réseaux napoléoniens à documenter source par source).
+- **La généalogie Mariani** (chaîne familiale de travail, avec niveaux de preuve explicites).
 - **Le projet contemporain** (réactivation de la mémoire, création d’un musée).
 
 ---
@@ -178,10 +202,7 @@ Minesteggio est un **nœud historique** qui relie :
 **Hypothèse centrale** :
 *« Si Napoléon n’était pas mort en 1821, mais s’était réfugié en Corse grâce aux réseaux Arrighi-Mariani, comment aurait évolué l’histoire corse ? »*
 
-**Plausibilité structurelle** :
-- **Réseaux familiaux** : Les Mariani et les Arrighi contrôlaient des points clés (ports, routes, villes) en Corse.
-- **Connaissance du terrain** : Napoléon connaissait bien la Corse pour y avoir séjourné enfant.
-- **Capacité de dissimulation** : Les réseaux claniques corses excellaient dans l’art de cacher des fugitifs (ex. : Pascal Paoli en 1769).
+Cette proposition relève explicitement de l’**uchronie**. Les relations historiques utilisées comme points d’appui doivent être vérifiées indépendamment et ne valent pas démonstration de la plausibilité factuelle du scénario.
 
 ### **5.2. Dispositif muséal**
 
@@ -190,16 +211,16 @@ Le musée sera organisé en **trois parcours** :
 | Parcours | Thème | Contenu | Support |
 |----------|-------|---------|---------|
 | **Historique** | « Les Corses et l’Empire » | Archives, cartes, objets, actes notariés | Salle interactive, écrans tactiles |
-| **Familial** | « Les Mariani, une dynastie corse » | Portraits, généalogie interactive, récits familiaux | Tableaux généalogiques, bornes multimédias |
+| **Familial** | « Les Mariani, une dynastie corse » | Portraits, généalogie critique, récits familiaux | Tableaux généalogiques, bornes multimédias |
 | **Uchronique** | « Et si Napoléon avait vécu ? » | Scénographie immersive, reconstitution sonore, jeu de rôle | Réalité virtuelle, projections holographiques |
 
 **Exemple de scénographie** :
-- Une **salle « Les réseaux »** : projection d’une carte interactive des alliances Bonaparte-Arrighi-Mariani.
-- Une **salle « La fuite »** : reconstitution sonore et visuelle de l’arrivée de Napoléon en Corse via un bateau depuis l’Italie, guidé par un membre des Mariani.
-- Une **salle « L’héritage »** : projection des conséquences de cette uchronie (ex. : la Corse comme capitale impériale alternative).
+- Une **salle « Les réseaux »** : projection d’une carte interactive des alliances et relations documentées.
+- Une **salle « La fuite »** : scénario uchronique explicitement signalé comme tel.
+- Une **salle « L’héritage »** : exploration des conséquences possibles de l’uchronie.
 
 **Référence** :
-- [Colonna di Stria – Armorial de Corse](http://www.colonnadistria.net/RegArmoiries/la_noblesse_Corse.htm) : « Jacques Meurgey: Les barons Mariani et leurs alliances, Imprimerie Daupeley-Gouverneur, Nogent-le-Rotrou, 1933 (consacré aux Mariani, mais aussi aux Arrighi de Casanova, Boerio, Caraccioli). »
+- [Colonna di Stria – Armorial de Corse](http://www.colonnadistria.net/RegArmoiries/la_noblesse_Corse.htm) : mention bibliographique de Jacques Meurgey, *Les barons Mariani et leurs alliances*, Nogent-le-Rotrou, 1933.
 
 ---
 
@@ -208,19 +229,25 @@ Le musée sera organisé en **trois parcours** :
 ### **6.1. Méthodologie**
 
 Le projet repose sur une **logique de superposition contrôlée** :
-- **L’histoire** fournit le **cadre de plausibilité** (ex. : les réseaux Arrighi-Bonaparte étaient réels).
-- **La généalogie** fournit la **continuité** (ex. : les Mariani ont bien été administrateurs impériaux à Corte).
-- **L’uchronie** fournit le **dispositif interprétatif** (ex. : Napoléon réfugié en Corse via les réseaux familiaux).
+- **L’histoire** fournit le cadre documentaire et ses incertitudes ;
+- **La généalogie** fournit un graphe de relations dont chaque maillon possède son niveau de preuve ;
+- **L’uchronie** fournit le dispositif interprétatif et doit rester visiblement distincte des deux registres précédents.
+
+Référentiels canoniques pour la généalogie :
+- [`musee-mariani/personnes/README.md`](../musee-mariani/personnes/README.md) — index des personnes et niveaux de preuve ;
+- [`research/relevement_nom_dangelis.md`](relevement_nom_dangelis.md) — chaîne juridique/généalogique d’Angelis → Mariani → Robert et pièces à fermer ;
+- [`musee-mariani/methodes/notices_famille_etendue.md`](../musee-mariani/methodes/notices_famille_etendue.md) — méthode de généalogie augmentée ;
+- [`musee-mariani/notes-critiques/preuves-et-incertitudes.md`](../musee-mariani/notes-critiques/preuves-et-incertitudes.md) — grille critique.
 
 ### **6.2. Sources principales**
 
 | Type | Source | Accès | Utilisation |
 |------|--------|-------|-------------|
-| **Ouvrage** | Meurgey (1933) – *Les barons Mariani et leurs alliances* | Achat (260–300 €), archives | Généalogie, alliances familiales |
-| **Archives** | Archives départementales de la Haute-Corse | Gratuit (numérisé) | Actes notariés, correspondance |
-| **Généalogie** | Geneanet, Corsica Genealugia | Abonnement/gratuit | Arbres familiaux, alliances |
-| **Histoire** | Wikipédia, Tulard (2020), Bertaud (2001) | Gratuit | Contexte historique, réseaux impériaux |
-| **Muséographie** | Colonna di Stria, Armorial de Corse | Gratuit | Scénographie, médiation culturelle |
+| **Ouvrage** | Meurgey (1933) – *Les barons Mariani et leurs alliances* | Bibliothèques / collections | Généalogie, alliances familiales ; à confronter aux actes |
+| **Archives** | Archives de Corse / état civil / archives notariales | Selon fonds | Actes, mutations, correspondances, preuves primaires |
+| **Généalogie** | Geneanet, autres arbres publiés | Abonnement/gratuit | Pistes secondaires ; jamais preuve suffisante seules |
+| **Sources institutionnelles** | Assemblée nationale, Musée d’Orsay, collectivités, archives publiques | Public | Identités, fonctions, œuvres, faits institutionnels |
+| **Corpus** | Index des personnes et dossiers `musee-mariani/` / `research/` | Dépôt | État courant des preuves, hypothèses et corrections |
 
 ---
 
@@ -228,21 +255,21 @@ Le projet repose sur une **logique de superposition contrôlée** :
 
 ### **7.1. Intérêt général**
 
-Le projet répond à plusieurs **critères d’utilité publique** :
+Le projet peut répondre à plusieurs dimensions d’intérêt général, sous réserve de documenter les affirmations patrimoniales et historiques mobilisées :
 
-| Critère | Application concrète |
-|---------|----------------------|
-| **Valorisation du patrimoine corse** | Minesteggio est un exemple rare de domaine impérial encore intact en Corse. |
-| **Innovation muséographique** | L’uchronie permet de **dépasser le musée classique**, pour proposer une expérience immersive et participative. |
-| **Humanités** | Le musée sera un lieu de recherche (archives, généalogie) et d’enseignement (histoire, narratologie). |
-| **Développement territorial** | Création d’emplois locaux, attractivité touristique, et réappropriation de la mémoire corse par les habitants. |
-| **Éducation citoyenne** | Ateliers pour les écoles (ex. : « Napoléon en Corse, mythe ou réalité ? »). |
+| Dimension | Application envisagée |
+|-----------|----------------------|
+| **Valorisation du patrimoine corse** | Documenter, préserver et rendre intelligible le site de Minesteggio et son histoire. |
+| **Innovation muséographique** | L’uchronie permet de **dépasser le musée classique**, à condition de distinguer clairement réel, hypothèse et fiction. |
+| **Humanités** | Le musée peut devenir un lieu de recherche (archives, généalogie) et d’enseignement. |
+| **Développement territorial** | Attractivité culturelle et touristique à évaluer dans le cadre du projet. |
+| **Éducation citoyenne** | Ateliers articulant source, preuve, récit et hypothèse. |
 
 ### **7.2. Perspectives**
 
-- **Local** : Renforcement du lien entre Corte et son histoire impériale.
-- **National** : Reconnaissance de la Corse comme acteur clé de l’histoire napoléonienne.
-- **International** : Attraction de touristes intéressés par l’histoire alternative.
+- **Local** : Renforcement du lien entre Corte et ses histoires documentées.
+- **National** : Mise en contexte de la place de la Corse dans l’histoire napoléonienne.
+- **International** : Médiation autour de l’histoire alternative et de la critique des sources.
 
 ---
 
@@ -253,34 +280,29 @@ Le projet répond à plusieurs **critères d’utilité publique** :
 **Problème** : Certains visiteurs pourraient prendre l’uchronie pour un fait historique.
 
 **Solution** :
-- **Signalétique claire** : utiliser des codes couleurs (vert = fait historique, orange = hypothèse uchronique).
+- **Signalétique claire** : distinguer visuellement fait établi, hypothèse, tradition familiale et fiction uchronique.
 - **Médiation humaine** : former des guides qui expliquent la démarche.
-- **Transparence méthodologique** : afficher clairement dans le musée : *« Les éléments uchroniques sont des hypothèses, fondées sur des faits historiques réels. »*
+- **Transparence méthodologique** : afficher clairement dans le musée : *« Les éléments uchroniques sont des hypothèses narratives ; les éléments historiques sont assortis de leur niveau de preuve. »*
 
-### **8.2. Distinction entre histoire et narration**
+### **8.2. Distinction entre histoire, généalogie et narration**
 
-- **Histoire** : Faits documentés (archives, actes notariés).
-- **Généalogie** : Partiellement documentée (récits familiaux).
-- **Narration uchronique** : Construction contrôlée.
+- **Histoire** : faits documentés et assertions à vérifier, chacun sourcé.
+- **Généalogie** : ensemble de relations de niveaux de preuve variables, allant de l’acte primaire à la mémoire familiale.
+- **Narration uchronique** : construction contrôlée et explicitement présentée comme telle.
 
-**Principe** : Ne pas confondre les registres, mais les articuler pour créer un récit cohérent et mémorable.
+**Principe** : Ne pas confondre les registres, mais les articuler en conservant la provenance et le niveau de preuve.
 
 ---
 
 ## **9. Conclusion**
 
-Le projet Minesteggio repose sur une **cohérence triple** :
+Le projet Minesteggio repose sur une **cohérence à éprouver et documenter** :
 
-1. **Historique** : Les Mariani ont bien été des acteurs des réseaux napoléoniens en Corse.
-2. **Généalogique** : La continuité familiale est attestée, malgré les silences des archives.
-3. **Territoriale** : Minesteggio est un lieu chargé de sens, à la fois patrimonial et symbolique.
+1. **Historique** : plusieurs Mariani sont documentés comme acteurs de l’histoire administrative, militaire ou politique de la Corse ; les relations exactes doivent rester sourcées individuellement.
+2. **Généalogique** : une chaîne familiale de travail relie Antoine Dominique Mariani aux générations contemporaines, mais plusieurs maillons restent à fermer par actes ; elle ne doit plus être présentée comme entièrement attestée.
+3. **Territoriale** : Minesteggio constitue un lieu patrimonial et familial central dont la chronologie foncière et architecturale doit être consolidée par sources primaires.
 
-**Originalité** : En transformant un domaine familial en **musée uchronique**, le projet ne se contente pas de préserver la mémoire : il la **réactive** et la **prolonge**. Il propose une **lecture augmentée de l’histoire corse**, où le passé devient un outil pour penser le présent.
-
-**Perspective** : Le Musée Uchronique « Napoléon 1821 » pourrait devenir :
-- Un **laboratoire d’histoires alternatives** (ex. : « Et si Pasquale Paoli avait vaincu les Français en 1769 ? »).
-- Un **modèle pour d’autres sites patrimoniaux** en Corse (ex. : la maison Bonaparte à Ajaccio).
-- Un **outil de réconciliation mémorielle** (entre Corses, continentaux, et descendants de Napoléon).
+**Originalité** : En transformant un domaine familial en **musée uchronique**, le projet ne se contente pas de préserver la mémoire : il peut aussi montrer **comment une connaissance historique se construit, se corrige et distingue les faits des possibles**.
 
 ---
 
@@ -296,32 +318,40 @@ Le projet Minesteggio repose sur une **cohérence triple** :
 - Casta, François J. *Histoire des diocèses de France : diocèse d’Ajaccio*. Beauchesne, 1974.
 - Istria, Daniel. *Pouvoirs et fortifications dans le nord de la Corse : du XIe siècle au XIVe siècle*. Éditions Alain Piazzola, Ajaccio 2005.
 
-#### **Archives**
-- Archives départementales de la Haute-Corse (série M : Administration impériale).
-- Archives nationales (Fonds Arrighi, BB/30/1234).
-- Archives familiales Mariani (non publiées, conservées à Minesteggio).
+#### **Archives à exploiter**
+- Archives de Corse / état civil et fonds administratifs pertinents.
+- Archives nationales selon les personnes et fonctions étudiées.
+- Archives familiales Mariani : à inventorier, dater et citer pièce par pièce avant usage public.
 
 #### **Sources numériques**
-- Geneanet : [Arbre généalogique des Mariani](https://www.geneanet.org/nom-de-famille/MARIANI).
-- Wikipédia : [Antoine Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani).
-- Corsica Genealugia : [Généalogies corses](https://www.corsicagenealugia.com/).
-- Blog Patrick Germain : [Généalogie corse](http://blogpatrickgermain.blogspot.com/2017/09/une-genealogie-corse-ancetres-et.html).
+- Geneanet : arbres et pistes généalogiques, à traiter comme sources secondaires.
+- Musée d’Orsay : portrait et identification de Louis-Thomas Mariani.
+- Assemblée nationale : notices parlementaires.
+- Corpus canonique du dépôt : [`musee-mariani/personnes/README.md`](../musee-mariani/personnes/README.md) et [`musee-mariani/sources/bibliographie.md`](../musee-mariani/sources/bibliographie.md).
 
 ---
 
-### **10.2. Extraits d’archives**
+### **10.2. Archives primaires : règle de citation**
 
-#### **Acte notarié de Minesteggio (1812)**
-> *« Le 15 septembre 1812, Antoine Dominique Mariani, baron de l’Empire, fait construire un domaine à Minesteggio, en présence de témoins issus des familles Arrighi et Gaffory. »*
+La version antérieure de ce document contenait deux « extraits d’archives » présentés entre guillemets — un prétendu acte notarié de Minesteggio de 1812 et une prétendue lettre de Saliceti à Mariani de 1806 — **sans référence primaire permettant d’en établir l’authenticité**.
 
-#### **Lettre de Saliceti à Mariani (1806)**
-> *« Cher cousin, je compte sur votre discrétion pour organiser le voyage de Sa Majesté Joseph vers Naples. Les réseaux corses sauront vous guider. »*
+Ils sont supprimés par le présent correctif et **ne doivent pas être cités comme documents historiques**.
 
----
+Règle désormais applicable : aucun extrait d’acte, de lettre ou d’archive familiale ne doit être présenté comme verbatim avant d’avoir au minimum :
+
+1. une cote, un fac-similé ou un fichier source identifiable ;
+2. une transcription rattachée à cette source ;
+3. une provenance et une date explicites ;
+4. si nécessaire, une mention du degré d’incertitude de lecture.
+
+Pistes à fermer séparément :
+- datation et acte(s) relatifs à la construction ou à l’acquisition de Minesteggio ;
+- correspondances éventuelles entre Antoine Dominique Mariani, Saliceti et les réseaux napoléoniens ;
+- chronologie foncière du domaine.
 
 ### **10.3. Tableaux généalogiques**
 
-*(À inclure en annexe sous forme de fichiers PDF ou images dans le dépôt GitHub.)*
+Les futurs tableaux généalogiques devront être dérivés de l’index canonique des personnes et conserver visiblement les niveaux de preuve ; ils ne doivent plus être produits à partir de l’ancienne section 3.1.
 
 ---
 
