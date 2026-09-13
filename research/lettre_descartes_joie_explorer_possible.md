@@ -26,6 +26,10 @@ tags:
   - joy
   - exploration
   - descartes
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Lettre à mon ami d’outre-tombe, René Descartes

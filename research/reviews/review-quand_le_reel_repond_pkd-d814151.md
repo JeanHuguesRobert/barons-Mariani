@@ -9,9 +9,17 @@ prior_review: "C1 review of dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
 review_contract: "cogentia/prompts/reviewer.md v0.5"
 date: "2026-09-03"
 language: "en"
-document_role: "critique"
+document_role: "source"
 status: "review — non-decisional"
 license: "CC BY-SA 4.0"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_document_role: "critique"
 ---
 
 # Review — *Quand le Réel répond* (v0.4)

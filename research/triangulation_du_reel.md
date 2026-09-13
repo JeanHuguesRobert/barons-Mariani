@@ -22,6 +22,10 @@ related_documents:
   - research/democratie_capable.md
   - research/reality_safety_procedural_stabilizers.md
 tags: [reel, epistemologie, triangulation, convergence, black-swan, recoupement, sources, traces, objectivite, faillibilisme, seconde-methode]
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Triangulation du Réel

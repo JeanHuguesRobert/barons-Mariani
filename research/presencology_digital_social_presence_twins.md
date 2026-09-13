@@ -3,7 +3,7 @@ title: "Presencology Addendum — Digital, Social and Institutional Presence of 
 date: "2026-09-06"
 version: "0.1"
 license: "CC BY-SA 4.0"
-document_role: "source-addendum"
+document_role: "source"
 document_kind: "research-note"
 visibility: "public"
 repository: "JeanHuguesRobert/barons-Mariani"
@@ -15,6 +15,11 @@ related:
   - "JeanHuguesRobert/inseme:research/interactions_registry_and_multichannel_messaging.md"
   - "JeanHuguesRobert/inseme:research/activitypub_edge.md"
   - "JeanHuguesRobert/inseme:docs/oleole-mvp-spec.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-addendum"
 ---
 
 # Presencology Addendum — Digital, Social and Institutional Presence of Twins

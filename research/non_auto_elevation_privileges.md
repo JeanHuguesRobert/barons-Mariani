@@ -28,6 +28,10 @@ document_role: "source"
 document_kind: "concept-note"
 visibility: "public"
 lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Principe de non-auto-élévation des privilèges

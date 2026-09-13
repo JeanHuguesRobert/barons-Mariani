@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+---
+
 # Rossignol — the donkey who questions Reality
 
 > **Rossignol is a real Corsican donkey. He has also, progressively, become a method: when an idea risks remaining abstract, we build a “Rossignol” and observe how Reality answers.**

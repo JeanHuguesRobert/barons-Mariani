@@ -46,6 +46,12 @@ changelog:
   - "v0.1 (2026-09-09) — initial atelier source draft."
   - "v0.2 (2026-09-09) — incorporates dispositions from Grok 4.6 first review: non-entailment, bounded Reality Tests, non-scalar capability learning, anti-capture and exit, distributed principals, prior-art contrasts, revers ledger, and separation of doctrine from applications."
   - "v0.3 (2026-09-09) — incorporates second-pass review: prior-art failure modes, constrained reopening, hard C3 anti-capture criterion, Act permission/finance/liability fields, observer independence, temporal affected populations, anti-triviality escalation, and explicit method-only status without a filled Reality Test."
+visibility: "public"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Corse Laboratoire

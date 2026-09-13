@@ -59,6 +59,10 @@ tags:
 changelog:
   - "v0.1 (2026-08-25) — first consolidation of the spatial exploration vocabulary already distributed across the Corpus."
   - "v0.2 (2026-08-25) — residue review: removes the false implication that represented candidates are necessarily inside The Possible; separates core Potentics ontology from operational projections; clarifies Territory versus terrain, semantic trajectory versus network route, and field-domain pluralism."
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Potentics Exploration Ontology

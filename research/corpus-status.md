@@ -74,43 +74,42 @@ graph LR
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
   r_cogentia -->|116| r_barons_mariani
-  r_jeanhuguesrobert -->|91| r_barons_mariani
-  r_barons_mariani -->|84| r_cogentia
-  r_jeanhuguesrobert -->|53| r_cogentia
-  r_fractavolta -->|52| r_cogentia
+  r_barons_mariani -->|85| r_cogentia
+  r_jeanhuguesrobert -->|68| r_barons_mariani
+  r_fractavolta -->|54| r_cogentia
   r_inseme -->|42| r_cogentia
-  r_jeanhuguesrobert -->|39| r_marenostrum
   r_fractavolta -->|37| r_marenostrum
+  r_jeanhuguesrobert -->|36| r_cogentia
   r_cogentia -->|30| r_inseme
-  r_jeanhuguesrobert -->|26| r_fractavolta
-  r_jeanhuguesrobert -->|26| r_inseme
   r_barons_mariani -->|23| r_marenostrum
   r_fractavolta -->|22| r_inseme
   r_fractavolta -->|21| r_barons_mariani
   r_inseme -->|20| r_barons_mariani
-  r_jeanhuguesrobert -->|20| r_inox
   r_barons_mariani -->|19| r_fractavolta
   r_cogentia -->|19| r_marenostrum
+  r_marenostrum -->|19| r_cogentia
   r_barons_mariani -->|18| r_inseme
   r_inox -->|16| r_cogentia
-  r_marenostrum -->|16| r_cogentia
+  r_jeanhuguesrobert -->|16| r_marenostrum
   r_inseme -->|12| r_fractavolta
   r_inseme -->|12| r_inox
   r_marenostrum -->|12| r_fractavolta
   r_inox -->|11| r_barons_mariani
   r_marenostrum -->|11| r_barons_mariani
+  r_operium -->|11| r_cogentia
   r_inox -->|10| r_fractavolta
   r_inox -->|9| r_inseme
+  r_jeanhuguesrobert -->|9| r_fractavolta
   r_fractavolta -->|8| r_inox
   r_inox -->|8| r_marenostrum
-  r_jeanhuguesrobert -->|8| r_ubikia
   r_ubikia -->|8| r_cogentia
   r_barons_mariani -->|7| r_inox
   r_cogentia -->|7| r_jeanhuguesrobert
   r_inseme -->|7| r_jeanhuguesrobert
+  r_jeanhuguesrobert -->|7| r_inseme
   r_barons_mariani -->|6| r_jeanhuguesrobert
   r_inseme -->|6| r_kudos
-  r_operium -->|6| r_cogentia
+  r_jeanhuguesrobert -->|6| r_inox
   r_cogentia -->|5| r_fractavolta
   r_ubikia -->|5| r_barons_mariani
   r_barons_mariani -->|4| r_ubikia
@@ -121,7 +120,7 @@ graph LR
   r_ubikia -->|4| r_jeanhuguesrobert
   r_github -->|3| r_gouvernance
   r_cogentia -->|3| r_operium
-  r_jeanhuguesrobert -->|3| r_institut_mariani
+  r_jeanhuguesrobert -->|3| r_ubikia
   r_kudos -->|3| r_barons_mariani
   r_operium -->|3| r_barons_mariani
   r_cogentia -->|2| r_inox
@@ -629,7 +628,7 @@ graph LR
 | Title | Location | Date |
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
-| [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.4.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
+| [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.5.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
 | [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
@@ -696,7 +695,7 @@ graph LR
 | [Presencology — Presence Maps for the Rational Exploration of The Possible](presencology.md) *(proposed research programme — presence, potentiality, stigmergy and distributed cognition)* | this repo | 2026-08-10 |
 | [Potentics of Compute — From Dormant Capacity to Collective Capability](potentics_of_compute.md) *(source working paper v0.4 — RAIX collective capability, cost of trust, Compute Weather and net delivered value)* | this repo | 2026-09-04 |
 | [The Network is the Learning Computer](the_network_is_the_learning_computer.md) *(source working paper v0.9 — Cognitive Packet Switching, Ithaca return, RAIX dynamic capability arrays, JHN Architecture)* | this repo | 2026-09-04 |
-| [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.1 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
+| [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme (FR)](marx_capitalisme_antifragile.md) *(working paper v0.6.2 — critique possibiliste du capitalisme comme système antifragile)* | this repo | 2026-06-03 |
 | [Protection responsable](protection_responsable.md) | this repo | 2026 |
 | [Impunité par obscurité — Le cas corse comme révélateur d'un déficit d'imputabilité institutionnelle (FR)](autonomia/impunite_par_obscurite_cas_corse.md) *(published working paper v0.5 — academic symmetric source ; couple blogpost dérivé)* | this repo | 2026-06-01 |
 | [L'autonomie ne doit pas devenir un transfert d'opacité — À propos de l'impunité par obscurité (FR)](autonomia/impunite_par_obscurite_blogpost.md) *(derived product v0.1 — Substack draft)* | this repo | 2026-06-01 |

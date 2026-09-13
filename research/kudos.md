@@ -955,7 +955,6 @@ Kudos ne contourne pas la question monétaire.
 - COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
 - [Initiatives liées à l’Institut Mariani](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
-- [Research Index - Kudos](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/Kudos-index.md)
 - [Kudos - l'argent du troc au don](https://github.com/acorsica/Kudos/blob/main/README.md)
 - [Research Index - Kudos](https://github.com/acorsica/Kudos/blob/main/research/index.md)
 - [Statut du dépôt `acorsica/Kudos`](https://github.com/acorsica/Kudos/blob/main/STATUT.md)

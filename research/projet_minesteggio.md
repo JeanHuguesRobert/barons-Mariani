@@ -368,6 +368,7 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
+- [Personnes — index généalogique du Musée Mariani](../musee-mariani/personnes/README.md)
 - [projet minesteggio - moved](../projet_minesteggio.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

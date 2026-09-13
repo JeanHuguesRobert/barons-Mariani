@@ -52,6 +52,10 @@ tags:
   - autonomie-de-capacite
   - follow-the-power
   - triangulation
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Consultation, référendum et souveraineté effective

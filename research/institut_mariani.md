@@ -623,5 +623,6 @@ Le document devra être complété par une revue des archives Yahoo Mail, du tab
 ### Backlinks
 
 *These documents link to this file:*
+- [Personnes — index généalogique du Musée Mariani](../musee-mariani/personnes/README.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

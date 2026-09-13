@@ -7,7 +7,7 @@ version: "0.1"
 status: "working-paper — planned, not executed"
 language: "fr"
 license: "CC BY-SA 4.0"
-document_role: "operational-note"
+document_role: "operational"
 document_kind: "reality-test-act"
 visibility: "public"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/act_1755_01_verification_manuscrit.md"
@@ -24,6 +24,12 @@ provenance:
 review:
   status: "unreviewed"
   reviewed_by: []
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "operational-note"
 ---
 
 # Act #1755-01

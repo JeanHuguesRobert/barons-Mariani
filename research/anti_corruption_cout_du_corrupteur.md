@@ -3,7 +3,7 @@ title: "Principe anti-corruption — faire porter le coût sur le corrupteur"
 author: "Jean Hugues Noël Robert"
 date: "2026-08-13"
 status: "working_note"
-document_role: "source-note"
+document_role: "source"
 visibility: "public"
 related_documents:
   - "research/theorie_des_jeux_corpus.md"
@@ -15,6 +15,13 @@ tags:
   - traçabilité
   - lanceurs d'alerte
   - anti-capture
+document_kind: "research-paper"
+lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+legacy_document_role: "source-note"
 ---
 
 # Principe anti-corruption — faire porter le coût sur le corrupteur

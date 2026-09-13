@@ -10,7 +10,7 @@ status: "working-paper"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/presence_ecology_and_management.md"
 last_stamped_at: "unknown"
 update_policy: "UP-DEFAULT-REVIEWED"
-document_role: "source-addendum"
+document_role: "source"
 document_kind: "research-note"
 visibility: "public"
 lifecycle_state: "working"
@@ -55,6 +55,11 @@ related_documents:
   - "JeanHuguesRobert/cogentia:research/byoc_external_interaction_edges.md"
   - "JeanHuguesRobert/barons-Mariani#56"
   - "JeanHuguesRobert/cogentia#159"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-addendum"
 ---
 
 # Presence Ecology and Management

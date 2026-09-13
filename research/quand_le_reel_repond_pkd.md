@@ -91,6 +91,13 @@ x-cognitive-packet:
   closure_mode: "practical-packet-closure"
   epistemic_closure: false
   next_handler_capability: "none"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "stable"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Quand le Réel répond

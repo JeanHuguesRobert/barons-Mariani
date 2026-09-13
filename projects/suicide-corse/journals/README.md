@@ -5,7 +5,7 @@ date: "2026-09-07"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
-document_role: "source-index"
+document_role: "source"
 document_kind: "journal-index"
 visibility: "public"
 lifecycle_state: "working"
@@ -21,6 +21,11 @@ provenance:
 review:
   status: "unreviewed"
   reviewed_by: []
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "source-index"
 ---
 
 # Journaux de campagne

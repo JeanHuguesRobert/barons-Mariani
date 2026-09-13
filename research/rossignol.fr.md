@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "research-paper"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
+---
+
 # Rossignol — l’âne qui interroge le Réel
 
 > **Rossignol est un véritable âne corse. Il est aussi, progressivement, devenu une méthode : lorsqu’une idée risque de rester abstraite, nous construisons un « Rossignol » et nous observons ce que le Réel répond.**

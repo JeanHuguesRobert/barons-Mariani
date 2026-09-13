@@ -37,6 +37,10 @@ tags:
 review:
   status: "unreviewed"
   reviewed_by: []
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Shared Semantic Codec and Proverb Regime

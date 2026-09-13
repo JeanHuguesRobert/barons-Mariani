@@ -16,6 +16,12 @@ related:
   - "./methode_terrains_feconds.md"
   - "./debord_stabilisateur_procedural.md"
   - "./security_model_representative_democracy.md"
+document_kind: "research-paper"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-paper"
+classification_confidence: "medium"
 ---
 
 # Alignement doctrinal — 24 août 2026

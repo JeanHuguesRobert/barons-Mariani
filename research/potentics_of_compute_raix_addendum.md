@@ -31,6 +31,10 @@ tags:
   - capacity-gain
   - heterogeneous-compute
   - edge-ai
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Potentics of Compute — RAIX Collective-Capability Addendum

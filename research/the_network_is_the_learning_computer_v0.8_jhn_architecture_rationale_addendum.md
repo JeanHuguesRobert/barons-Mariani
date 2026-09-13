@@ -36,6 +36,10 @@ tags:
   - synthesis
   - packet-closure
   - potentics
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # The Network is the Learning Computer — v0.8 JHN Architecture Rationale Addendum

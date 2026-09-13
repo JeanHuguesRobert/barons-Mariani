@@ -38,6 +38,10 @@ tags:
   - cop
   - magistral
   - reproducibility
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # JHN Architecture Experiment — Portable Continuation Across Agents and Nodes

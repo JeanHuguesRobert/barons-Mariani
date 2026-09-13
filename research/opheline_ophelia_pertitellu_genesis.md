@@ -2,7 +2,7 @@
 title: "D’Ophéline à Ophélia — genèse d’une représentation civique artificielle"
 author: "Jean Hugues Noël Robert"
 date: "2026-08-27"
-document_role: "trace"
+document_role: "source"
 document_kind: "historical-note"
 visibility: "public"
 lifecycle_state: "working"
@@ -19,6 +19,11 @@ related_topics:
   - digital twin
   - représentation artificielle
   - autonomie de capacité
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "trace"
 ---
 
 # D’Ophéline à Ophélia — genèse d’une représentation civique artificielle

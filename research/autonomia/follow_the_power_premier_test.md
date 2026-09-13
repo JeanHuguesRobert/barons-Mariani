@@ -5,7 +5,7 @@ status: "working-paper — reality-test-v0.1"
 language: fr
 created: 2026-08-22
 author: "Jean Hugues Noël Robert"
-document_role: "research-test"
+document_role: "source"
 document_kind: "case-study"
 visibility: "public"
 lifecycle_state: "working"
@@ -14,6 +14,11 @@ related:
   - "research/security_model_representative_democracy.md"
   - "research/note_synthetique_autonomie_capacite_corse.md"
   - "research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "research-test"
 ---
 
 # Follow the Power — premier Reality Test

@@ -7,10 +7,15 @@ version: "0.1"
 date: "2026-09-01"
 license: "CC BY-SA 4.0"
 status: "working-paper"
-document_role: "exploration"
+document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
+legacy_document_role: "exploration"
 ---
 
 # Potentique territoriale

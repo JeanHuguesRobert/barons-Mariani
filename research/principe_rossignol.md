@@ -41,6 +41,10 @@ tags:
 changelog:
   - "2026-08-22 — v0.1: formulation initiale du principe Rossignol, échelle R0-R4 et hypothèses de recherche."
   - "2026-09-05 — v0.2: propagation Issue #55; intégration du piège du hall de miroirs multi-agents (§2.1), passage au Synthetic Skin in the Game non réinitialisable unilatéralement (§6.1), formalisation des 4 Échelons d'Incarnation (§5.1) et lien canonique avec la genèse du Learning Computer."
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Le principe Rossignol

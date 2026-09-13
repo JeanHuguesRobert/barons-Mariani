@@ -30,6 +30,10 @@ tags:
   - reactive-corpus
   - call-cc
   - distributed-cognition
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
 ---
 
 # The Network is the Learning Computer — v0.7 Packet Semantics Addendum

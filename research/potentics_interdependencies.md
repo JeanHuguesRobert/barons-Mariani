@@ -33,6 +33,10 @@ tags:
   - rossignol
   - commons
   - cybernetics
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # Potentics — Capabilities, Interdependencies, and the Topology of Possibility

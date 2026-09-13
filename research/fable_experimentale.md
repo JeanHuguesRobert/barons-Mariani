@@ -18,6 +18,10 @@ related_documents:
   - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
   - "musee-mariani/collections/rossignol.md"
   - "research/test_critere_rossignol.md"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 ---
 
 # La fable expérimentale
