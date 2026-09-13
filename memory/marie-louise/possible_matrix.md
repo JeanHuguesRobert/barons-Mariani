@@ -7,7 +7,7 @@ last_modified_at: "2026-09-09"
 version: "0.2"
 update_policy: "UP-DEFAULT-REVIEWED"
 language: "fr"
-document_role: "research-matrix"
+document_role: "derived"
 document_kind: "longitudinal-reality-case"
 visibility: "public"
 lifecycle_state: "working"
@@ -30,6 +30,11 @@ provenance:
 review:
   status: "unreviewed"
   reviewed_by: []
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "strong"
+legacy_document_role: "research-matrix"
 ---
 
 # Marie-Louise — matrice longitudinale des possibles
