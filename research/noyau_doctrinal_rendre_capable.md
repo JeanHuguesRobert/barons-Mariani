@@ -3,9 +3,9 @@ title: "Rendre capable — noyau doctrinal provisoire"
 subtitle: "Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant"
 author: "Jean Hugues Noël Robert"
 status: "working_draft"
-version: "0.5.1"
-date: "2026-09-12"
-review_status: "v0.5.1 integrates bounded antifragility under Measured Risk as a compact cross-corpus property; constructive review remains welcome"
+version: "0.5.2"
+date: "2026-09-15"
+review_status: "v0.5.2 integrates situated capability gaps, accessibility and the Machine à Rendre Capable articulation; constructive review remains welcome"
 repository: "barons-Mariani"
 path: "research/noyau_doctrinal_rendre_capable.md"
 type: "doctrinal_kernel"
@@ -15,6 +15,8 @@ scope:
   - possibilism
   - autonomy
   - capability
+  - accessibility
+  - situated-capability
   - packetization
   - traceability
   - mandates
@@ -33,6 +35,7 @@ related_documents:
   - "barons-Mariani/research/traceabilite_des_actes.md"
   - "barons-Mariani/research/kudos.md"
   - "barons-Mariani/research/serenia_autonomie_assistee_ia.md"
+  - "barons-Mariani/research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md"
   - "barons-Mariani/research/marx_capitalisme_antifragile.md"
   - "cogentia/research/second_method.md"
   - "cogentia/research/methode_terrains_feconds.md"
@@ -109,6 +112,7 @@ Le document peut être lu à partir d’une grammaire simple :
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
 - **Liberté effective** : étendre l’espace des actions réellement accessibles, et non seulement celui des actions formellement permises.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
+- **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
 - **Packetisation** : rendre des flux, actes ou ressources manipulables, routables, transmissibles et recomposables.
 - **Situation** : rattacher les capacités à des lieux, des personnes, des objets, des ressources et des contextes réels.
 - **Trace sans surveillance** : rendre les actes imputables sans basculer dans le fichage des personnes.
@@ -126,6 +130,18 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.2 — 2026-09-15
+
+Micro-consolidation doctrinale issue du Reality Case sénatorial de septembre 2026.
+
+Cette version :
+
+- formule la **situation de handicap comme écart capacitaire situé** sans réduire le handicap à une métrique unique ;
+- distingue explicitement friction observable, situation handicapante et discrimination juridiquement caractérisée ;
+- clarifie l'articulation entre **Machine à Empêcher**, **Machine à Explorer** et **Machine à Rendre Capable** ;
+- introduit l'**accessibilité capacitaire** comme recherche des facteurs de conversion ou aménagements permettant de réduire un écart évitable ;
+- relie le noyau au Reality Case `research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md`.
 
 ## v0.5.1 — 2026-09-12
 
@@ -278,7 +294,7 @@ Sa fonction est de dire :
 - voici les questions ouvertes ;
 - voici les continuations à explorer.
 
-Le document vaut ce que vaut une version 0.5.1 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
+Le document vaut ce que vaut une version 0.5.2 : il existe, il peut être critiqué, il peut être corrigé, il peut être repris.
 
 ---
 
@@ -490,6 +506,38 @@ Elle demande :
 Une autonomie de capacité ne se contente pas de réclamer du pouvoir.
 
 Elle demande les conditions pratiques, cognitives, matérielles et institutionnelles permettant d’exercer ce pouvoir.
+
+## 5.3. Situation de handicap comme écart capacitaire situé
+
+L'expression **« personne en situation de handicap »** met l'accent sur l'interaction entre une personne et un environnement plutôt que sur une caractéristique supposée résumer la personne.
+
+Dans le vocabulaire du présent corpus, cette interaction peut être étudiée comme un **écart capacitaire situé** : l'écart entre les capacités qu'une action exige dans un environnement donné et les capacités que la personne peut effectivement mobiliser avec les outils, aides, aménagements et facteurs de conversion disponibles.
+
+On peut l'exprimer, à titre de schéma d'enquête et non de métrique médicale :
+
+```text
+capacité exigée par l'environnement
+-
+capacité effectivement mobilisable
+=
+écart capacitaire situé
+```
+
+Une même limitation peut ainsi produire des effets très différents selon l'environnement. Une interface, un délai, une formalité manuscrite, une exigence de déplacement, l'absence de trace réutilisable ou l'interdiction d'un outil compensatoire peuvent augmenter l'écart. Une aide humaine, une prothèse, un canal accessible, un mode dégradé ou une meilleure organisation peuvent le réduire.
+
+Une **Machine à Empêcher** peut dès lors créer, maintenir ou aggraver une situation handicapante lorsqu'elle exige une capacité que l'environnement pourrait raisonnablement compenser ou lorsqu'elle neutralise le facteur de conversion disponible.
+
+Une **Machine à Rendre Capable** cherche au contraire le facteur de conversion manquant : outil, prothèse, assistance, accès, temps, trace, délégation, connaissance ou coordination permettant de transformer un droit ou un possible en action effectivement praticable.
+
+Cette grille n'autorise aucune qualification juridique automatique. Elle impose de distinguer :
+
+```text
+friction observable
+≠ situation handicapante
+≠ discrimination juridiquement caractérisée
+```
+
+Le Reality Case `research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md` teste cette articulation à partir d'une procédure électorale et juridictionnelle réelle, notamment la question d'une prothèse cognitive en environnement d'audience.
 
 ---
 
@@ -1286,9 +1334,9 @@ Elle apprend des échecs.
 
 Elle permet les bifurcations.
 
-Elle rend les acteurs progressivement plus capables.
+La **Machine à Rendre Capable** accomplit une opération complémentaire : elle transforme certains possibles identifiés en capacités effectivement praticables en apportant ou réorganisant les facteurs de conversion nécessaires — moyens, connaissances, outils, accès, assistance, ressources, coordination, temps ou marges de manœuvre.
 
-L’Autonomie de Capacité consiste à passer d’une machine à empêcher à une machine à explorer.
+L'Autonomie de Capacité ne consiste donc pas seulement à passer d'une machine à empêcher à une machine à explorer. Elle articule trois opérations : réduire les empêchements évitables, rouvrir le champ des possibles, puis convertir certains de ces possibles en capacités effectives.
 
 Ce passage ne dépend pas seulement d’un changement juridique.
 
@@ -1646,6 +1694,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 |---|---|---|
 | [`research/serenia_autonomie_assistee_ia.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/serenia_autonomie_assistee_ia.md) | `barons-Mariani` | SérénIA : assistance à l’autonomie administrative, numérique et cognitive. Application directe du principe “faire avec, puis permettre de faire soi-même”. |
 | [`research/exces_de_vitesse_administrative_blocpost.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/exces_de_vitesse_administrative_blocpost.md) | `barons-Mariani` | Utile aussi pour SérénIA : interactions avec administration, délais, refus, preuves, capacité pratique de l’usager. |
+| [`research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) | `barons-Mariani` | Reality Case : situation de handicap comme écart capacitaire situé ; composition de frictions administratives et juridictionnelles ; prothèse cognitive comme facteur de conversion candidat. |
 
 ## 23.11. Inseme, Ophélia, commune capable et démocratie locale
 
@@ -1693,7 +1742,7 @@ Le but est pratique : permettre à un lecteur, humain ou agent IA, de retrouver 
 | Thème | Documents principaux |
 |---|---|
 | Possibilisme | `POSSIBILISM.md`, `second_method.md`, `agile.md`, `kudos.md` |
-| Autonomie de capacité | `autonomia.md`, `democratie_capable.md`, `serenia_autonomie_assistee_ia.md`, `pacte_anti_capture_solaire_inferentielle.md` |
+| Autonomie de capacité | `autonomia.md`, `democratie_capable.md`, `serenia_autonomie_assistee_ia.md`, `situation_handicap_ecart_capacitaire_senatoriales_2026.md`, `pacte_anti_capture_solaire_inferentielle.md` |
 | Packetisation | `generalized_packet_networks.md`, `UNCONSCIOUS_GRID.md`, `LE_RESEAU_INCONSCIENT.md`, `inference_packet_network.md`, `thermal_packet_networks.md` |
 | Trace / mandat | `traceabilite_des_actes.md`, `traceabilite_civique_antimafia.md`, `tracabilite_symetrique_capture_relationnelle.md`, `mandated_fast_democracy.md` |
 | Continuations | `cognitive_packets.md`, `cognitive_packet_switching.md`, `cogentia_continuation_packet_routing.md`, `task-step-continuation-lineage.md`, `COP_STATE_OF_PLAY.md` |
