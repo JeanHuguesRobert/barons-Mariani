@@ -3,7 +3,7 @@ title: Concept Index — barons-Mariani
 description: Typed concept registry for humans and AI agents; structure only, not semantic authority.
 layout: default
 nav_order: 3
-last_modified_at: 2026-05-16T00:00:00.000Z
+last_modified_at: 2026-09-15T00:00:00.000Z
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md
 last_stamped_at: 2026-06-01T00:00:00.000Z
 license: CC BY-SA 4.0
@@ -103,7 +103,8 @@ Cluster de dynamiques (concentration de compute/mémoire/influence, opacité, pe
 
 **Related concepts:**
 - Effet Ubik
-- Machine à explorer (opposé symétrique)
+- Machine à explorer (contrepartie exploratoire)
+- Machine à Rendre Capable (symétrique constructif)
 - FM-11 (outer optimizer capture)
 - Concentration de compute (85% frontier)
 
@@ -112,10 +113,42 @@ Cluster de dynamiques (concentration de compute/mémoire/influence, opacité, pe
 - `marenostrum/DHITL.md` (§1.2, FM-11)
 - `barons-Mariani/research/second_method.md` (conditions d'échec + Rule 0)
 - `research/PHASE1_LECTURE_ANALYSE.md`
+- `projects/suicide-corse/manuscript/03-machine-a-empecher.md`
 
 **Used in:**
 - Phase 1 (modélisation des empêchements à neutraliser)
 - Stratégie d'écosystème de machines à explorer coopératives
+
+---
+
+## Machine à Rendre Capable
+
+**Type:** abstract concept / capability architecture  
+**Scope:** Global  
+**Status:** Defined  
+
+**Short definition:**  
+Configuration humaine, institutionnelle, technique ou hybride qui transforme des possibles identifiés en capacités effectivement praticables en apportant ou réorganisant les facteurs de conversion nécessaires : moyens, connaissances, accès, ressources, outils, assistance, coordination, temps ou marges de manœuvre. Elle agrandit l'espace des actions réellement accessibles sans supposer l'indépendance absolue ni transférer simplement l'incapacité ou le risque sur autrui.
+
+**Related concepts:**
+- Machine à empêcher (symétrique critique)
+- Machine à explorer (complément exploratoire)
+- Autonomie de capacité
+- Écart capacitaire
+- Situation de handicap comme écart capacitaire situé
+- Capabilities approach / facteurs de conversion
+
+**Reference documents:**
+- [`research/noyau_doctrinal_rendre_capable.md`](noyau_doctrinal_rendre_capable.md)
+- [`projects/suicide-corse/manuscript/03-machine-a-empecher.md`](../projects/suicide-corse/manuscript/03-machine-a-empecher.md)
+- [`research/autonomia/potentique_territoriale.md`](autonomia/potentique_territoriale.md)
+- [`research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md`](case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md)
+
+**Used in:**
+- Autonomie de Capacité
+- SérénIA et assistance capacitaire
+- prothèses cognitives et outils compensatoires
+- analyse des écarts entre droits formels et capacités effectives
 
 ---
 
