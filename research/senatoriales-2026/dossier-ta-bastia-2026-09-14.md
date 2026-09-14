@@ -1,16 +1,42 @@
 ---
 title: "Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026"
 subtitle: "Instances n° 2601714-1 et 2601715-1 — mémoire en défense, courrier à la préfète et registre public des pièces"
+description: "Dossier public consolidé relatif au contentieux de l'enregistrement de la candidature sénatoriale 2026 en Haute-Corse."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-14"
-version: "1.0"
-status: "published — public dossier"
+last_modified_at: "2026-09-14"
+version: "1.1"
+status: "stable — published public dossier"
 language: "fr"
+license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "legal-dossier"
 visibility: "public"
 lifecycle_state: "active"
+target_audience: "Tribunal administratif, préfecture, médias, public"
+target_scene: "electoral, legal, public"
+document_function: "legal brief and public dossier"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier-ta-bastia-2026-09-14.md"
+update_policy: "UP-DEFAULT-REVIEWED"
+ai_assisted_by:
+  - "OpenAI GPT-5.6 Sol — centralisation and drafting assistance"
+  - "Grok — external adversarial review"
+  - "Claude — stylistic clarity pass"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "833ebcc26d9b86f715c3fb4791b11cc61494e254"
+  origin_date: "2026-09-14"
+  derived_from:
+    - "memoire_defense_TA_Bastia_V6_CENTRALISEE_2026-09-14.md"
+    - "revue_grok_TA_Bastia_L303_2026-09-14.md"
+    - "memoire_defense_TA_Bastia_V5_STYLE_2026-09-14.md"
+review:
+  status: "reviewed"
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
 # Dossier TA Bastia — sénatoriales de Haute-Corse 2026
