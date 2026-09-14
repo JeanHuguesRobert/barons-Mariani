@@ -3,8 +3,8 @@ title: "Sénatoriales 2026 — fiche de vérification de la candidature Baron Ma
 subtitle: "Identité électorale, étiquette Le Petit Parti - A Voce et alliance politique avec Jean-François Baccarelli"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-12"
-last_modified_at: "2026-09-12"
-version: "0.2"
+last_modified_at: "2026-09-14"
+version: "0.3"
 status: "published — public reference notice"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -32,6 +32,9 @@ classification_confidence: "medium"
 
 **Lien canonique :**  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_candidature_senatoriales_2026_medias.md
+
+**Dossier contentieux TA Bastia — 14 septembre 2026 :**  
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier-ta-bastia-2026-09-14.md
 
 ## Objet
 
@@ -257,17 +260,3 @@ Un média reste libre de préciser séparément la nuance administrative attribu
 6. consulter la liste préfectorale des territoriales **2017** avec Laurence Vernerey en quatrième position ;
 7. consulter les résultats officiels de Jean-François Baccarelli aux législatives **2007** et aux municipales de Bastia **2008** ;
 8. pour l’activité militante actuelle, consulter les **publications originales** de Jean-François Baccarelli et leurs métadonnées visibles.
-
-## Corrections et traçabilité
-
-Cette notice est versionnée publiquement. Elle distingue autant que possible :
-
-- les faits établis par sources officielles ;
-- les faits établis par publications journalistiques indépendantes ;
-- les déclarations politiques du candidat ;
-- les éléments contemporains restant à documenter par leurs traces primaires.
-
-Toute erreur factuelle peut être signalée, discutée, corrigée et retracée dans Git.
-
-Lien canonique :  
-https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_candidature_senatoriales_2026_medias.md
