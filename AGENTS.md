@@ -124,6 +124,19 @@ derived text -> public-facing product
 commit       -> durable trace
 ```
 
+**This sequence describes the level and role of stabilization; it is not a boundary of Corpus membership.** A GitHub Issue, and materially relevant comments on it, are integral parts of the Corpus when they carry work, objections, continuations, decisions, observations, provenance, or other relevant traces. They may function as memory in tension, trace-bearing work loci, or Cognitive Packet/Capsule projections while remaining provisional and non-canonical.
+
+Therefore distinguish explicitly:
+
+```text
+belongs to the Corpus
+≠ stabilized source document
+≠ canonical doctrine
+≠ established fact
+```
+
+Creating or updating a public Issue or materially relevant Issue comment changes the Corpus even when no Git-tracked source file changes. When reporting such work, do not say that "the Corpus was not modified"; say instead, for example, **"the Corpus changed at the Issue/trace layer; no stabilized source file was modified."**
+
 When modifying a research document, preserve or add, when useful:
 
 - status;
