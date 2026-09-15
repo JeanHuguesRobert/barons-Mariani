@@ -1,9 +1,9 @@
 ---
 title: "Projet #1755"
 subtitle: "Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne"
-version: "0.13"
-status: working-paper — source document / open evidentiary dossier / capacity test / public dashboard (early-stage)
-date: "2026-05-26"
+version: "0.14"
+status: working-paper — source document / open evidentiary dossier / capacity test (early-stage)
+date: "2026-09-15"
 author: "Jean Hugues Noël Robert"
 institutional_frame: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A."
 association: "C.O.R.S.I.C.A. — Corse Organisant la Réunion Sur Internet de Compétences Autonomes"
@@ -58,14 +58,14 @@ ai_assisted_by:
   - "Grok"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-09-15
 document_role: "source"
-document_kind: "dashboard"
+document_kind: "research-paper"
 visibility: "public"
 lifecycle_state: "working"
 classification_source: "cogentia.js"
 classification_version: "1"
-classification_rule: "dashboard"
+classification_rule: "research-paper"
 classification_confidence: "medium"
 ---
 
@@ -76,7 +76,7 @@ classification_confidence: "medium"
 <!-- END_AUTO: trails -->
 ## Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne
 
-**Version 0.13 — document source ouvert, resserré, en phase probatoire initiale, avec tableau de bord public, clause de continuation renforcée et rhétorique resserrée**  
+**Version 0.14 — document source ouvert, en phase probatoire initiale, réaligné sur le gate épistémique, avec tableau de bord public distinct et stratégie publiquement documentée**  
 **Cadre institutionnel proposé :** Institut Mariani, émanation R&D de l’association C.O.R.S.I.C.A. — *Corse Organisant la Réunion Sur Internet de Compétences Autonomes*  
 **Projet muséal associé :** Musée Mariani des Possibles  
 **Statut :** document de travail préparatoire à la constitution d’un comité scientifique transnational  
@@ -90,11 +90,13 @@ classification_confidence: "medium"
 
 Le Projet #1755 vise à réintégrer la séquence corse ouverte en **1729** et son moment constitutionnel de **1755** dans l’histoire mondiale du constitutionnalisme démocratique moderne.
 
-Il ne s’agit pas d’une revendication politique locale, ni d’une demande mémorielle identitaire, mais d’une proposition de réexamen historiographique documenté : plusieurs faits établis sont insuffisamment articulés dans le récit général des révolutions modernes, de la souveraineté populaire, du droit écrit transformateur et de la crise contemporaine de la représentation.
+Il ne s’agit pas d’une revendication politique locale, ni d’une demande mémorielle identitaire, mais d’une proposition de réexamen historiographique documenté : plusieurs faits établis sont encore insuffisamment articulés, dans le cadre proposé ici, avec le récit général des révolutions modernes, de la souveraineté populaire et du constitutionnalisme écrit.
 
 La reconnaissance recherchée est volontairement minimale, rigoureuse et féconde :
 
-> **La séquence corse 1729–1755 constitue un objet significatif pour l’histoire internationale du constitutionnalisme démocratique moderne et mérite, à ce titre, un programme scientifique transnational.**
+> **La séquence corse 1729–1755 constitue un cas précoce significatif à réexaminer dans la généalogie internationale du constitutionnalisme démocratique moderne.**
+
+Cette formulation est une **thèse historiographique à examiner**, non un fait brut que le Projet pourrait déclarer établi par lui-même.
 
 ### Documents associés
 
@@ -105,7 +107,46 @@ Ce document doit être lu avec :
 - [Derived Products](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md) — typologie des produits déclinés ;
 - [Kudocracy](../kudocracy.md) — démocratie liquide, délégation traçable et souveraineté capacitaire ;
 - [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse](../autonomia.md) — distinction entre autonomie de papier et Autonomie de Capacité ;
+- [Observatoire public du processus d’autonomie de la Corse](observatoire_processus_autonomie_corse.md) — Carte corrigible du processus contemporain, distincte du dossier historique #1755 ;
+- [Tableau de bord public #1755](1755.md) — statut réel des démarches, actes, réponses et enseignements ;
 - documents du futur Musée Mariani des Possibles (à venir).
+
+---
+
+## Discipline épistémique v0.14
+
+Le Projet distingue désormais quatre couches qui ne doivent pas remonter silencieusement les unes dans les autres :
+
+```text
+A. FAITS HISTORIQUES
+traces, événements, textes, acteurs, circulations documentables
+
+B. INTERPRÉTATIONS HISTORIOGRAPHIQUES
+importance constitutionnelle, caractère précoce/significatif,
+place dans les Lumières et le constitutionnalisme moderne
+
+C. HYPOTHÈSES CAUSALES
+influences précises sur d’autres constitutions,
+transmissions conceptuelles, effets atlantiques
+
+D. TEST CONTEMPORAIN #1755
+capacité actuelle des acteurs du projet à documenter,
+faire examiner et éventuellement faire reconnaître A/B/C
+```
+
+Le dossier ne transforme donc pas l’absence actuelle d’une influence démontrée en preuve de non-influence, ni une réception symbolique en influence constitutionnelle directe.
+
+Le Projet applique également la distinction `Carte / Territoire` : même un fait documentaire demeure une proposition de la Carte appuyée sur des traces du Réel ; la Carte doit rester corrigible si de nouvelles sources apparaissent.
+
+### Statut des stratégies publiques
+
+Le Projet rend publiques ses stratégies dès leur stade exploratoire. Cette publicité préalable ne constitue pas une exécution.
+
+```text
+ENVISAGÉ → DÉCIDÉ → PRÉPARÉ → EXÉCUTÉ → RÉSULTAT OBTENU
+```
+
+Aucun passage d'un état au suivant ne doit être inféré sans trace. Cette règle vaut notamment pour les pistes UNESCO, onusiennes, européennes ou relatives aux droits fondamentaux.
 
 ---
 
@@ -131,7 +172,7 @@ Le Projet #1755 s’inscrit donc dans une architecture privée, bénévole, non 
 
 L’ensemble de la démarche est conçu comme **ouvert**, **réutilisable**, **vérifiable** et **améliorable**. Les documents produits ont vocation à être publiés dans un corpus ouvert, sous licence **Creative Commons**, afin de permettre la citation, la critique, la reprise, la traduction, la correction et l’enrichissement par des chercheurs, institutions, citoyens, associations ou partenaires extérieurs.
 
-La logique de fond est celle du **bien commun documentaire ouvert** : le dossier #1755 ne vise pas à privatiser une mémoire, ni à capturer un récit, mais à rendre plus visible, plus transmissible et plus discutable une contribution historique insuffisamment intégrée dans l’histoire mondiale du constitutionnalisme démocratique moderne.
+La logique de fond est celle du **bien commun documentaire ouvert** : le dossier #1755 ne vise pas à privatiser une mémoire, ni à capturer un récit, mais à rendre plus visible, plus transmissible et plus discutable une contribution historique dont la place exacte dans l'histoire internationale du constitutionnalisme démocratique reste à examiner.
 
 La dimension patrimoniale personnelle ne détermine pas la conclusion scientifique du dossier. Elle fournit l’infrastructure privée, bénévole et non lucrative permettant de l’initier, de le documenter, de le publier, de le transmettre et de le soumettre à la critique.
 
@@ -139,9 +180,9 @@ C.O.R.S.I.C.A. et l’Institut Mariani n’ont pas vocation à décréter seuls 
 
 ## Abstract
 
-Le Projet #1755 propose de réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne. Cette séquence commence avec la Révolution corse contre Gênes en 1729, passe par l’épisode souverain du roi Théodore en 1736, atteint un moment constitutionnel majeur avec Pascal Paoli en 1755, puis est interrompue militairement en 1769. Elle s’inscrit dans un espace transnational : italien par la langue, la formation de Paoli et la culture politique ; britannique par Boswell et la publicité européenne de Paoli ; américain par la circulation du nom de Paoli comme symbole de liberté ; français et européen par la trajectoire napoléonienne et le Code civil.
+Le Projet #1755 propose de réexaminer la place de la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne. Cette séquence commence avec la Révolution corse contre Gênes en 1729, passe par l’épisode souverain du roi Théodore en 1736, atteint un moment constitutionnel majeur avec Pascal Paoli en 1755, puis est interrompue militairement en 1769. Elle s’inscrit dans un espace transnational : italien par la langue, la formation de Paoli et la culture politique ; britannique par Boswell et la publicité européenne de Paoli ; américain par la circulation du nom de Paoli comme symbole de liberté ; français et européen par la trajectoire napoléonienne et le Code civil.
 
-La thèse défendue est volontairement prudente : la Corse ne doit pas être présentée comme l’origine unique de la démocratie moderne, mais comme l’un des cas précoces à réexaminer dans cette généalogie. La reconnaissance recherchée porte sur une réalité historique documentable : la contribution de la séquence corse 1729–1755 à la généalogie internationale du constitutionnalisme démocratique, du droit écrit transformateur, de la souveraineté populaire et de la crise contemporaine de la représentation. Le dossier est conçu comme un corpus ouvert, sous licence Creative Commons, sans but lucratif, au service d’un bien commun documentaire ouvert.
+La thèse défendue est volontairement prudente : la Corse ne doit pas être présentée comme l’origine unique de la démocratie moderne, mais comme l’un des cas précoces à réexaminer dans cette généalogie. La reconnaissance recherchée ne présuppose pas la conclusion : elle vise à faire examiner, à partir de faits et de sources documentables, la contribution possible de la séquence corse 1729–1755 à la généalogie internationale du constitutionnalisme démocratique, du droit écrit transformateur et de la souveraineté populaire. Le dossier est conçu comme un corpus ouvert, sous licence Creative Commons, sans but lucratif, au service d’un bien commun documentaire ouvert.
 
 ---
 
@@ -151,13 +192,17 @@ Ce document ne prétend pas clore le dossier #1755. Il ouvre une démarche proba
 
 À ce stade, le texte doit être lu comme un **document source d’orientation** et non comme un dossier probatoire achevé. Son rôle est de formuler correctement la question, de poser les limites méthodologiques, d’identifier les voies de reconnaissance possibles et de définir les prochains chantiers documentaires.
 
-Les critiques externes reçues après les versions précédentes ont signalé deux points justes : le dossier était méthodologiquement cohérent mais encore trop déclaratif, et il pouvait rester trop confiant dans la coopération spontanée des institutions publiques. La v0.6 tient compte de ces objections. Elle ne cherche pas à amplifier le récit ; elle cherche au contraire à déplacer le centre de gravité vers la preuve, en particulier vers le manuscrit de la Constitution corse de 1755, et à expliciter une stratégie institutionnelle non naïve.
+Les critiques externes reçues après les versions précédentes ont signalé deux points justes : le dossier était méthodologiquement cohérent mais encore trop déclaratif, et il pouvait rester trop confiant dans la coopération spontanée des institutions publiques. La v0.14 maintient la réponse apportée à ces objections : elle ne cherche pas à amplifier le récit ; elle déplace le centre de gravité vers la preuve, en particulier vers le manuscrit de la Constitution corse de 1755, et explicite une stratégie institutionnelle non naïve.
 
-Principes directeurs de la v0.6 :
+Principes directeurs hérités de la v0.6 et maintenus en v0.14 :
 
 > **Descendre du récit historiographique vers la preuve documentaire.**
 >
 > **Ne pas dépendre d’un soutien institutionnel spontané ; construire une coalition ouverte d’individus compétents, indépendants et vérifiables.**
+
+La v0.14 ajoute une troisième exigence :
+
+> **Séparer les faits historiques, les interprétations historiographiques, les hypothèses causales et le test contemporain de capacité.**
 
 Cette version maintient donc la thèse générale, mais elle la subordonne plus explicitement à deux chantiers préalables : identifier, décrire, vérifier, contextualiser et rendre si possible accessible le document central de 1755 ; puis construire une capacité de recherche ouverte qui ne présuppose pas l’appui des institutions d’État, universitaires ou territoriales.
 
@@ -183,27 +228,51 @@ intuition initiale : 1755 comme reconnaissance du rôle historique de la Nation 
 → critique externe : Grok signale que le dossier reste trop déclaratif et doit renforcer l’appareil probatoire
 → extension v0.5 : identification du manuscrit de la Constitution de 1755 comme document central potentiel, ajout d’un chantier archivistique prioritaire, baisse de confiance méthodologique et durcissement des objections
 → extension v0.6 : ajout d’un réalisme institutionnel explicite ; les institutions publiques sont des interlocuteurs possibles mais non des moteurs présumés ; priorité aux personnes indépendantes, compétentes, professionnelles ou non, capables d’aider concrètement
+→ réalignement v0.14 : quatre couches épistémiques, test réflexif de capacité, stratégie publique à deux voies indépendantes et convergentes, synchronisation avec Autonomia v0.14 et l’Observatoire
 ```
 
 ---
 
 ## 1. Thèse centrale
 
-Le Projet #1755 vise à faire reconnaître une réalité historique établie mais insuffisamment articulée dans les récits dominants : la séquence corse 1729–1755 appartient à l’histoire mondiale du constitutionnalisme démocratique moderne.
+Le Projet #1755 vise à faire examiner une **thèse historiographique** : la séquence corse 1729–1755 constitue un cas précoce significatif dont la place dans l’histoire internationale du constitutionnalisme démocratique moderne mérite d’être réévaluée à partir d’un dossier documentaire explicite et contradictoire.
 
-Cette thèse ne doit pas être confondue avec une proclamation excessive. Le dossier ne soutient pas que la Corse aurait inventé seule la démocratie moderne. Il soutient que la Corse fut l’un des cas précoces où se sont articulées plusieurs formes qui deviendront centrales dans la modernité politique : souveraineté populaire, constitution écrite, Nation constituée, représentation, droit public transformateur, circulation transnationale des idées révolutionnaires.
+Cette thèse ne doit pas être confondue avec une proclamation excessive. Le dossier ne soutient pas que la Corse aurait inventé seule la démocratie moderne. Il propose d'examiner si la Corse fut l’un des cas précoces où se sont articulées plusieurs formes qui deviendront centrales dans la modernité politique : souveraineté populaire, constitution écrite, Nation constituée, représentation, droit public transformateur et circulations transnationales.
 
 Formule centrale :
 
 > **La Corse ne doit pas être présentée comme l’origine unique de la démocratie moderne, mais comme l’un des cas précoces à réexaminer dans cette généalogie.**
 
+### 1.1. Dimension réflexive : #1755 comme Reality Test
+
+Le Projet #1755 ne teste pas seulement une hypothèse historiographique. Il teste aussi, de manière située, la capacité d’acteurs contemporains à transformer un objet historique insuffisamment stabilisé dans leur Carte en un dossier documentaire vérifiable, examinable par des tiers et éventuellement reconnu au-delà de son espace d’origine.
+
+Cette dimension ne permet pas de généraliser automatiquement à « la capacité de la Corse ». Elle renseigne les capacités des acteurs engagés, avec leurs ressources, dépendances, interlocuteurs et horizons.
+
+Lecture comparative candidate :
+
+```text
+1755–1769
+→ capacités institutionnelles historiquement exercées
+
+2026 / #1755
+→ capacité contemporaine à documenter et faire examiner
+   cette expérience passée
+
+Beauvau 2026
+→ reconnaissance juridique proposée
+   dont les capacités futures restent à observer
+```
+
+Cette comparaison est une grille d’enquête, non une équivalence historique ni une chaîne causale démontrée.
+
 ---
 
 ## 2. Objet exact de la reconnaissance
 
-La reconnaissance demandée porte sur :
+La reconnaissance recherchée porte sur l’examen de la proposition suivante :
 
-> **la contribution de la séquence corse 1729–1755 à l’histoire internationale du constitutionnalisme démocratique moderne.**
+> **la séquence corse 1729–1755 mérite d’être traitée comme un objet significatif de l’histoire internationale du constitutionnalisme démocratique moderne.**
 
 Elle ne porte pas sur :
 
@@ -214,7 +283,7 @@ Elle ne porte pas sur :
 - une accusation d’effacement intentionnel ;
 - une affirmation identitaire autosuffisante.
 
-Le dossier doit rester strictement centré sur des faits documentables.
+Le dossier doit rester strictement centré sur des faits documentables, des interprétations explicitement qualifiées et des hypothèses ouvertes à contradiction.
 
 Formule méthodologique :
 
@@ -226,7 +295,7 @@ Formule méthodologique :
 
 Le Projet #1755 identifie comme pièce documentaire centrale potentielle le manuscrit de la Constitution corse de 1755, décrit par les indications actuellement disponibles comme un texte manuscrit rédigé en italien et signé de la main de **Pasquale Paoli**.
 
-Ce document est probablement **LE document central** du dossier, au sens strict : non parce qu’il résumerait toute la séquence corse 1729–1755, mais parce qu’il fournit le point d’ancrage matériel autour duquel peut être organisée une démarche scientifique, archivistique, patrimoniale et éventuellement internationale.
+Ce document peut devenir un point d’ancrage matériel important du dossier, non parce qu’il résumerait toute la séquence corse 1729–1755 ni parce qu’il constituerait une « preuve reine », mais parce qu’il peut organiser une démarche scientifique, archivistique, patrimoniale et éventuellement internationale autour d’une pièce précisément localisable et contextualisable.
 
 À ce stade, le dossier doit cependant rester extrêmement prudent. Les éléments suivants doivent être vérifiés directement auprès des Archives de Corse ou de l’institution détentrice compétente :
 
@@ -245,7 +314,7 @@ Tant que ces vérifications ne sont pas faites, le manuscrit ne doit pas être u
 
 Formule méthodologique :
 
-> **Le manuscrit de 1755 doit devenir le point fixe autour duquel le dossier cesse d’être seulement interprétatif et devient probatoire.**
+> **Le manuscrit de 1755 peut devenir un point fixe probatoire du dossier à condition que son identification, sa description et son accessibilité soient elles-mêmes établies.**
 
 ### 3.1. Chantier archivistique prioritaire
 
@@ -263,6 +332,8 @@ Actions à mener :
 8. produire une fiche documentaire normalisée ;
 9. intégrer cette fiche au dossier public ;
 10. envisager, seulement ensuite, les voies patrimoniales ou internationales.
+
+L’[`Act #1755-01`](act_1755_01_verification_manuscrit.md) formalise la plus petite sonde documentaire utile. Son statut au 15 septembre 2026 est **planned, not executed**.
 
 ### 3.2. Importance pour les instances de reconnaissance
 
@@ -284,14 +355,14 @@ Le manuscrit peut devenir le noyau probatoire de plusieurs voies :
 |---|---|
 | La Révolution corse commence en 1729 contre la domination génoise. | Fait fortement établi |
 | L’épisode du roi Théodore en 1736 manifeste une tentative pré-paolienne de souveraineté corse. | Fait établi, interprétation prudente nécessaire |
-| 1755 constitue le moment constitutionnel majeur de la séquence corse. | Fait fortement établi |
+| 1755 constitue le moment constitutionnel majeur de la séquence corse. | Fait fortement établi / qualification historique |
 | La Constitution paolienne appartient à l’histoire du constitutionnalisme moderne. | Interprétation largement défendable |
-| Paoli est une figure européenne des Lumières politiques. | Fait fortement établi |
-| Boswell joue un rôle décisif dans la diffusion britannique et européenne de la cause corse. | Fait fortement établi |
+| Paoli peut être étudié comme une figure européenne des Lumières politiques. | Qualification historique robuste à documenter, non fait brut |
+| Boswell joue un rôle majeur dans la diffusion britannique et européenne de la cause corse. | Interprétation historique fortement soutenue par des traces de réception |
 | Rousseau s’intéresse à la Corse comme objet constitutionnel. | Fait fortement établi |
-| Le nom de Paoli circule aux États-Unis comme symbole de liberté. | Fait établi, à documenter localité par localité |
+| Le nom de Paoli circule aux États-Unis comme symbole de liberté. | Fait de réception à documenter localité par localité |
 | Le rapprochement Paoli–Napoléon est pertinent sous l’angle du droit écrit transformateur. | Interprétation forte, non linéaire |
-| La séquence corse est insuffisamment intégrée dans l’histoire mondiale du constitutionnalisme démocratique. | Thèse centrale |
+| La séquence corse est insuffisamment intégrée dans l’histoire mondiale du constitutionnalisme démocratique. | Thèse centrale à tester comparativement |
 
 ---
 
@@ -307,8 +378,10 @@ Il n’affirme pas :
 - que Paoli et Napoléon seraient politiquement équivalents ;
 - que Napoléon serait un simple continuateur politique de Paoli ;
 - que toutes les localités américaines nommées Paoli dérivent directement et consciemment de Pascal Paoli ;
+- que la circulation américaine du nom de Paoli prouverait une influence constitutionnelle directe ;
 - que l’invisibilisation de la Corse résulterait nécessairement d’un projet politique intentionnel ;
-- que la reconnaissance historique impliquerait une conclusion institutionnelle contemporaine.
+- que la reconnaissance historique impliquerait une conclusion institutionnelle contemporaine ;
+- qu’un contentieux contemporain établirait par lui-même une thèse historique sur 1755.
 
 Cette discipline est centrale. Le dossier doit rester sur le terrain scientifique.
 
@@ -336,9 +409,9 @@ Formule prudente :
 
 En 1755, Paoli donne une forme institutionnelle à la Nation corse. La Constitution de 1755 constitue le moment le plus important de la séquence, non parce qu’elle serait démocratique au sens contemporain complet, mais parce qu’elle articule souveraineté, représentation, institutions et loi écrite.
 
-Formule de travail :
+Formule de travail à examiner comparativement :
 
-> **La Constitution corse de 1755 constitue l’une des premières expériences modernes de constitution écrite d’une Nation souveraine, dans un contexte de souveraineté populaire et de guerre d’indépendance.**
+> **La Constitution corse de 1755 peut être étudiée comme l’une des expériences modernes précoces de constitution écrite d’une Nation souveraine, dans un contexte de souveraineté populaire et de guerre d’indépendance.**
 
 ### 6.4. 1769 : interruption militaire
 
@@ -352,7 +425,7 @@ Formule :
 
 ## 7. Dimension transnationale
 
-Le Projet #1755 doit être détaché de l’aspect politique local. La Corse est le lieu-source ; l’enjeu est mondial.
+Le Projet #1755 doit être détaché de l’aspect politique local. La Corse est le lieu-source ; l’enjeu est international et comparatif.
 
 ### 7.1. Italie
 
@@ -364,11 +437,11 @@ Formule :
 
 ### 7.2. Royaume-Uni et Écosse
 
-Boswell joue un rôle décisif dans la publicité européenne et britannique de Paoli. La cause corse circule dans l’espace anglophone grâce à son récit, qui contribue à faire de Paoli une figure européenne de la liberté politique.
+Boswell constitue un relais majeur de la publicité européenne et britannique de Paoli. La cause corse circule dans l’espace anglophone grâce notamment à son récit, qui contribue à faire de Paoli une figure européenne de la liberté politique.
 
-Formule :
+Formule interprétative :
 
-> **Boswell ne crée pas l’importance historique de Paoli ; il en assure une médiation transnationale décisive.**
+> **Boswell ne crée pas l’importance historique de Paoli ; il constitue l’une des médiations transnationales majeures de sa réception.**
 
 ### 7.3. États-Unis
 
@@ -378,24 +451,26 @@ Formule prudente :
 
 > **La présence du nom de Paoli aux États-Unis témoigne au minimum de la circulation transatlantique d’un imaginaire politique de liberté associé à la Corse paolienne.**
 
+Cette réception symbolique ne constitue pas, par elle-même, une preuve d’influence sur un texte constitutionnel américain.
+
 ### 7.4. France et Europe napoléonienne
 
-Napoléon doit être réintégré au fil corse des idées, sans réduction simpliste. Il est l’enfant spirituel et conflictuel de Paoli : non le disciple fidèle, mais l’héritier indirect d’une matrice corse où le droit écrit, la Nation, la guerre et l’État peuvent refonder l’ordre social.
+Napoléon peut être réintégré au fil corse des idées, sans réduction simpliste. La formule qui le présente comme « enfant spirituel et conflictuel » de Paoli est une **hypothèse heuristique**, non une filiation causale établie. Le rapprochement proposé porte sur une question comparative : comment le droit écrit peut-il refonder un ordre politique ou social ?
 
 ---
 
 ## 8. Paoli, Napoléon et le droit écrit transformateur
 
-L’un des axes les plus féconds du dossier consiste à rapprocher la Constitution de 1755 et le Code civil de 1804.
+L’un des axes interprétatifs du dossier consiste à rapprocher la Constitution de 1755 et le Code civil de 1804.
 
-La comparaison doit rester asymétrique.
+La comparaison doit rester asymétrique et explicitement qualifiée comme interprétation.
 
 | Figure corse | Texte associé | Niveau transformé | Question centrale |
 |---|---|---|---|
 | Pascal Paoli | Constitution corse de 1755 | Droit public | Qui détient la souveraineté ? |
 | Napoléon Bonaparte | Code civil de 1804 | Droit privé / société civile | Comment organiser juridiquement la société ? |
 
-Formule centrale :
+Formule interprétative :
 
 > **Paoli écrit la souveraineté ; Napoléon codifie la société civile.**
 
@@ -403,15 +478,15 @@ Ou :
 
 > **1755 donne une forme juridique à la Nation souveraine ; 1804 donne une forme juridique à la société civile moderne.**
 
-Cette comparaison ne signifie pas que l’impact institutionnel de 1755 fut équivalent à celui du Code civil. Elle signifie que les deux relèvent d’un phénomène commun : la capacité d’un texte juridique à transformer durablement la société.
+Cette comparaison ne signifie pas que l’impact institutionnel de 1755 fut équivalent à celui du Code civil, ni que le second dériverait causalement du premier. Elle rapproche deux usages transformateurs du droit écrit dans des contextes différents.
 
 ---
 
 ## 9. Le germe démocratique et la crise contemporaine de la représentation
 
-La Corse paolienne contient en germe plusieurs éléments du socle démocratique moderne : souveraineté populaire, Nation constituée, loi écrite, représentation, organisation institutionnelle, tension entre participation directe et délégation.
+La Corse paolienne peut être étudiée comme contenant en germe plusieurs éléments du socle démocratique moderne : souveraineté populaire, Nation constituée, loi écrite, représentation, organisation institutionnelle, tension entre participation directe et délégation.
 
-La trajectoire historique peut être résumée ainsi :
+La trajectoire suivante est une **grille interprétative**, non une loi historique démontrée :
 
 ```text
 souveraineté populaire
@@ -435,13 +510,15 @@ Cette question relie #1755 aux recherches contemporaines sur :
 - le contrôle des mandataires ;
 - la crise de la représentation.
 
+Ce lien doctrinal ne transforme pas le dossier historique en preuve d’un diagnostic contemporain.
+
 ---
 
 ## 10. Musée Mariani des Possibles
 
 Le Projet #1755 s’inscrit dans le projet de Musée Mariani des Possibles.
 
-La séquence corse 1729–1755 doit être comprise comme un **possible historique réellement advenu** : un peuple dominé refuse l’ordre imposé, cherche une forme souveraine, produit une Constitution, circule dans l’Europe des Lumières et laisse une trace transatlantique.
+La séquence corse 1729–1755 peut être comprise, dans cette médiation muséale, comme un **possible historique réellement advenu** : un peuple dominé refuse l’ordre imposé, cherche une forme souveraine, produit une Constitution, circule dans l’Europe des Lumières et laisse une trace transatlantique.
 
 Formule muséale :
 
@@ -453,13 +530,13 @@ Formule muséale :
 
 ## 11. Reconnaissance minimale féconde
 
-La stratégie recommandée n’est pas de demander d’emblée une reconnaissance maximale. Elle consiste à viser la plus petite reconnaissance scientifiquement incontestable.
+La stratégie recommandée n’est pas de demander d’emblée une reconnaissance maximale. Elle consiste à viser la plus petite reconnaissance scientifiquement défendable.
 
 Formulation cible :
 
-> **La séquence corse 1729–1755 mérite d’être reconnue comme un objet significatif pour l’histoire internationale du constitutionnalisme démocratique moderne et doit faire l’objet d’un programme scientifique transnational.**
+> **La séquence corse 1729–1755 mérite d’être examinée comme un objet significatif pour l’histoire internationale du constitutionnalisme démocratique moderne et comme candidate à un programme scientifique transnational.**
 
-Cette reconnaissance minimale aurait des effets massifs : elle déplacerait le sujet du registre local vers le registre scientifique international. Elle ouvrirait ensuite la voie à des publications, colloques, coopérations, expositions, éditions critiques et reconnaissances patrimoniales.
+Une telle reconnaissance déplacerait le sujet du registre local vers le registre scientifique international. Elle pourrait ensuite ouvrir la voie à des publications, colloques, coopérations, expositions, éditions critiques et reconnaissances patrimoniales.
 
 Formule stratégique :
 
@@ -473,7 +550,7 @@ Le Projet #1755 propose la constitution d’un comité scientifique transnationa
 
 ### Mission
 
-> **Documenter, qualifier et faire reconnaître la place de la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne, en distinguant strictement les faits établis, les interprétations raisonnables, les hypothèses ouvertes et les controverses.**
+> **Documenter, qualifier et examiner la place de la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne, en distinguant strictement les faits établis, les interprétations raisonnables, les hypothèses ouvertes et les controverses.**
 
 ### Profils souhaitables
 
@@ -500,26 +577,25 @@ Le Projet #1755 propose la constitution d’un comité scientifique transnationa
 
 ---
 
-
 ## 13. Réalisme institutionnel et coalition ouverte d’indépendants
 
-Le Projet #1755 doit éviter une naïveté institutionnelle. Le fait que la séquence corse 1729–1755 soit encore insuffisamment promue par les institutions françaises, corses ou universitaires constitue précisément l’un des indices du problème à traiter. Il serait contradictoire de construire la démarche en supposant que ces mêmes institutions deviendront spontanément les moteurs de la reconnaissance.
+Le Projet #1755 doit éviter une naïveté institutionnelle. Le fait que la séquence corse 1729–1755 soit encore insuffisamment promue par les institutions françaises, corses ou universitaires constitue une hypothèse de visibilité à documenter, et non un fait auto-évident permettant d'inférer une intention.
 
-Cette observation doit rester diplomatique et méthodologiquement propre. Le dossier ne doit pas accuser des institutions, ni chercher à démontrer une intention d’effacement. Il doit constater une situation vérifiable : malgré l’importance potentielle de la séquence corse pour l’histoire du constitutionnalisme démocratique moderne, cette séquence n’occupe pas aujourd’hui la place qu’elle mérite dans les récits, programmes, médiations et dispositifs de reconnaissance disponibles.
+Cette observation doit rester diplomatique et méthodologiquement propre. Le dossier ne doit pas accuser des institutions, ni chercher à démontrer une intention d’effacement. Il peut documenter une situation vérifiable : la place effectivement accordée à la séquence corse dans les récits, programmes, médiations et dispositifs de reconnaissance observés.
 
 Formulation prudente :
 
-> **L’absence actuelle d’une promotion institutionnelle forte de la séquence corse 1729–1755 ne doit pas être interprétée comme une preuve d’hostilité intentionnelle. Elle impose simplement de ne pas faire dépendre le projet d’une coopération institutionnelle spontanée.**
+> **Une visibilité institutionnelle jugée insuffisante dans la Carte actuelle ne constitue pas une preuve d’hostilité intentionnelle. Elle justifie en revanche de ne pas faire dépendre le projet d’une coopération institutionnelle spontanée.**
 
 ### 13.1. Institutions : interlocuteurs possibles, non prérequis stratégiques
 
 Les institutions publiques françaises, universitaires, territoriales ou patrimoniales doivent rester des interlocuteurs possibles, notamment pour l’accès aux archives, la vérification documentaire, la conservation, les expositions et les éventuelles reconnaissances patrimoniales.
 
-Mais elles ne doivent pas être considérées comme les moteurs attendus de la première phase. La stratégie doit pouvoir avancer même en cas de silence, lenteur, prudence excessive, indifférence ou absence de coopération active.
+Mais elles ne doivent pas être considérées comme les moteurs attendus de la première phase. La stratégie doit pouvoir avancer même en cas de silence, lenteur, prudence, indifférence ou absence de coopération active.
 
 Principe opérationnel :
 
-> **Solliciter les institutions pour ce qu’elles peuvent objectivement fournir — sources, cotes, accès, conservation, expertise — mais ne pas attendre d’elles l’impulsion initiale, la validation symbolique ou la légitimation politique du projet.**
+> **Solliciter les institutions pour ce qu’elles peuvent objectivement fournir — sources, cotes, accès, conservation, expertise — sans présupposer leur soutien symbolique ou politique.**
 
 ### 13.2. Priorité aux personnes compétentes et indépendantes
 
@@ -558,9 +634,9 @@ Le document ne doit pas dire :
 
 > Les institutions ont occulté la Corse.
 
-Il doit dire :
+Il peut dire :
 
-> **Les institutions disponibles n’ont pas, jusqu’à présent, donné à cette séquence une visibilité proportionnée à son intérêt potentiel pour l’histoire mondiale du constitutionnalisme démocratique. Le Projet #1755 propose donc de construire, de manière ouverte et vérifiable, les conditions documentaires d’un réexamen.**
+> **Le Projet #1755 propose de mesurer et documenter la place effectivement accordée à la séquence corse 1729–1755, puis de construire, de manière ouverte et vérifiable, les conditions documentaires d’un réexamen international.**
 
 Cette formulation évite la polémique tout en conservant le réalisme stratégique.
 
@@ -570,7 +646,7 @@ La première phase doit être conçue comme une phase autonome :
 
 - publier un document source ouvert ;
 - produire une annexe documentaire minimale ;
-- identifier le manuscrit central ;
+- identifier le manuscrit central potentiel ;
 - lancer un appel à contributions ;
 - mobiliser des personnes indépendantes ;
 - constituer une première bibliographie critique ;
@@ -585,19 +661,56 @@ Formule stratégique :
 
 ## 14. Instances de reconnaissance et stratégie institutionnelle
 
-Cette section applique le pipeline à la question stratégique suivante : auprès de quelles instances une reconnaissance peut-elle être demandée, sous quelle forme, dans quel ordre, et avec quel niveau de preuve ?
+Cette section cartographie des **voies envisagées**. Leur présence dans le document ne signifie pas qu'elles sont décidées, préparées ou exécutées. Leur état réel doit être vérifié dans le [tableau de bord #1755](1755.md).
 
-Le principe directeur reste celui de la **reconnaissance minimale féconde** : ne pas demander d’abord une proclamation maximale, mais obtenir une première reconnaissance scientifiquement incontestable, puis l’étendre institution par institution.
+Le principe directeur reste celui de la **reconnaissance minimale féconde** : ne pas demander d’abord une proclamation maximale, mais construire une première reconnaissance scientifiquement défendable, puis l’étendre si le Réel fournit des appuis suffisants.
 
 Formule stratégique :
 
-> **Ne pas demander tout de suite une grande reconnaissance officielle. Construire d’abord les conditions scientifiques d’une petite reconnaissance incontestable, puis l’étendre.**
+> **Ne pas demander tout de suite une grande reconnaissance officielle. Construire d’abord les conditions scientifiques d’une petite reconnaissance défendable, puis l’étendre.**
+
+### 14.0. Stratégie publique à deux voies indépendantes et convergentes
+
+Au 15 septembre 2026, le Corpus rend publique une stratégie **ENVISAGÉE** à deux voies indépendantes :
+
+```text
+VOIE HISTORIQUE / INTERNATIONALE
+#1755
+→ documentation
+→ examen scientifique / patrimonial international
+→ reconnaissance éventuelle
+
+                 ↘
+            convergence possible
+         sur une question de capacité
+                 ↗
+
+VOIE CONTEMPORAINE / DROITS
+faits contemporains
+→ recours internes
+→ qualification juridique
+→ contrôle européen éventuel
+```
+
+La seconde voie ne relève pas du dossier probatoire historique #1755. Elle est suivie dans les documents contemporains et dans l’[Observatoire public du processus d’autonomie](observatoire_processus_autonomie_corse.md).
+
+Les deux voies ne se prouvent pas mutuellement :
+
+```text
+1755 / reconnaissance historique
+≠ preuve d’une violation contemporaine de droits fondamentaux
+
+contentieux contemporain / droits fondamentaux
+≠ preuve historiographique sur 1755
+```
+
+La voie historique peut notamment explorer des mécanismes du système des Nations unies, dont l’UNESCO ; la voie contemporaine peut conduire à étudier la Convention européenne des droits de l'homme et la Cour européenne des droits de l'homme. À ce stade, ces pistes sont **publiquement envisagées** : aucune procédure, recevabilité, grief ou action extérieure n'est présupposé.
 
 ### 14.1. Reconnaissance scientifique transnationale
 
 #### Cadre
 
-C’est la première reconnaissance à viser. Elle ne suppose pas qu’une institution déclare immédiatement que la Corse a été décisive dans l’histoire mondiale de la démocratie moderne. Elle vise seulement à faire reconnaître que la séquence corse 1729–1755 constitue un objet scientifique légitime.
+C’est la première reconnaissance à envisager. Elle ne suppose pas qu’une institution déclare immédiatement que la Corse a été décisive dans l’histoire mondiale de la démocratie moderne. Elle vise seulement à faire reconnaître que la séquence corse 1729–1755 constitue un objet scientifique légitime à examiner.
 
 Formulation minimale :
 
@@ -619,7 +732,7 @@ Une reconnaissance d’objet :
 
 > La séquence corse 1729–1755 mérite un programme scientifique transnational.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Produire une note anglaise de deux pages.
 2. Constituer un comité scientifique transnational embryonnaire.
@@ -630,7 +743,7 @@ Une reconnaissance d’objet :
 
 #### Niveau de priorité
 
-**Priorité maximale.** C’est le chemin le plus facile, car il ne demande pas encore une reconnaissance patrimoniale ou politique ; il demande seulement que l’objet soit étudié sérieusement.
+**Priorité de travail élevée**, sous réserve de la maturation documentaire.
 
 ---
 
@@ -666,9 +779,9 @@ Très forte portée symbolique mondiale.
 
 #### Difficulté
 
-Très exigeant. Il faut identifier précisément les documents, les détenteurs, l’état de conservation, l’authenticité, l’importance mondiale et les conditions d’accessibilité. L’UNESCO a ouvert un cycle de nominations 2026–2027 pour le Registre international, avec dépôt des nominations de juillet à novembre 2025 ; cela confirme que le programme fonctionne par cycles et impose une préparation longue.
+Très exigeant. Il faut identifier précisément les documents, les détenteurs, l’état de conservation, l’authenticité, l’importance mondiale et les conditions d’accessibilité. Le programme fonctionne par cycles et impose une préparation longue ; tout calendrier futur devra être vérifié au moment où une décision de préparation réelle serait prise.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Ne pas commencer par une candidature UNESCO.
 2. Constituer d’abord une annexe documentaire.
@@ -678,7 +791,7 @@ Très exigeant. Il faut identifier précisément les documents, les détenteurs,
 
 #### Niveau de priorité
 
-**Moyen / long terme.** Instance prestigieuse, mais non prioritaire pour la première victoire.
+**Moyen / long terme — ENVISAGÉ.** Instance prestigieuse, mais non prioritaire avant consolidation documentaire.
 
 ---
 
@@ -686,7 +799,7 @@ Très exigeant. Il faut identifier précisément les documents, les détenteurs,
 
 #### Cadre
 
-Le **Label du patrimoine européen** concerne des sites, monuments, lieux de mémoire ou biens culturels ayant une forte valeur symbolique européenne et permettant aux citoyens européens de mieux comprendre leur histoire commune. En France, les candidatures passent par le ministère de la Culture ; un jury national sélectionne la candidature française, ensuite transmise à la Commission européenne, selon un rythme bisannuel.
+Le **Label du patrimoine européen** concerne des sites, monuments, lieux de mémoire ou biens culturels ayant une forte valeur symbolique européenne et permettant aux citoyens européens de mieux comprendre leur histoire commune. En France, les candidatures passent par le ministère de la Culture ; les modalités exactes doivent être revérifiées au moment d'une éventuelle préparation.
 
 #### Ce qui pourrait être demandé
 
@@ -707,7 +820,7 @@ Très cohérent avec l’idée d’une séquence européenne des Lumières, de l
 
 Il faut un portage institutionnel solide, une gouvernance, un site coordinateur, des activités éducatives, une médiation multilingue et un programme d’accès au public.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Définir un intitulé commun : **The Corsican Constitutional Sequence 1729–1755**.
 2. Identifier un site coordinateur.
@@ -718,7 +831,7 @@ Il faut un portage institutionnel solide, une gouvernance, un site coordinateur,
 
 #### Niveau de priorité
 
-**Moyen terme.** Très prometteur, mais seulement après consolidation scientifique.
+**Moyen terme — ENVISAGÉ.** Très prometteur, mais seulement après consolidation scientifique.
 
 ---
 
@@ -726,7 +839,7 @@ Il faut un portage institutionnel solide, une gouvernance, un site coordinateur,
 
 #### Cadre
 
-Les **Itinéraires culturels du Conseil de l’Europe** reposent sur des réseaux légalement constitués, travaillant sur un thème européen commun, avec des activités dans au moins trois États membres du Conseil de l’Europe. Les critères exigent notamment un thème représentatif des valeurs européennes, une recherche scientifique transnationale et pluridisciplinaire, ainsi qu’une contribution à la mémoire, à l’histoire et au patrimoine européens.
+Les **Itinéraires culturels du Conseil de l’Europe** reposent sur des réseaux travaillant sur un thème européen commun. Les critères et conditions précises devront être revérifiés avant toute préparation formelle.
 
 #### Pourquoi c’est adapté
 
@@ -750,10 +863,10 @@ Option plus large :
 
 La seconde est probablement plus robuste, car elle évite de paraître biographique ou strictement corse.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Créer d’abord un réseau de partenaires.
-2. Identifier au moins trois pays européens.
+2. Identifier plusieurs pays européens.
 3. Définir les lieux et activités : Corse, Naples, Genève, Londres / Écosse.
 4. Produire un programme de recherche, d’éducation, de médiation et de tourisme culturel.
 5. Constituer une structure porteuse.
@@ -761,7 +874,7 @@ La seconde est probablement plus robuste, car elle évite de paraître biographi
 
 #### Niveau de priorité
 
-**Moyen / long terme.** Très fort potentiel pour transformer #1755 en réseau vivant.
+**Moyen / long terme — ENVISAGÉ.** Très fort potentiel pour transformer #1755 en réseau vivant.
 
 ---
 
@@ -769,9 +882,9 @@ La seconde est probablement plus robuste, car elle évite de paraître biographi
 
 #### Cadre
 
-L’axe américain ne doit pas être traité d’abord au niveau fédéral. Il doit être construit localement, à partir des villes, sociétés historiques et institutions patrimoniales concernées.
+L’axe américain ne doit pas être traité d’abord au niveau fédéral. Il peut être construit localement, à partir des villes, sociétés historiques et institutions patrimoniales concernées.
 
-Le cas prioritaire est **Paoli, Pennsylvania**, dont le nom est lié à la *General Paoli Tavern*, elle-même nommée en hommage au général corse.
+Le cas prioritaire à vérifier reste **Paoli, Pennsylvania**, dont le nom est lié à la *General Paoli Tavern*, elle-même associée à la réception américaine du général corse.
 
 #### Reconnaissance possible
 
@@ -782,20 +895,17 @@ Le cas prioritaire est **Paoli, Pennsylvania**, dont le nom est lié à la *Gene
 - participation au comité scientifique ;
 - contribution à une cartographie transatlantique de la réception de Paoli.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Établir une liste vérifiée des localités américaines nommées Paoli.
 2. Distinguer les cas directs, indirects et incertains.
-3. Contacter en priorité Paoli, Pennsylvania.
-4. Demander une reconnaissance minimale :
-
-> Pascal Paoli and the Corsican struggle for liberty formed part of the symbolic landscape of American revolutionary culture.
-
+3. Contacter en priorité Paoli, Pennsylvania, si cette priorité est confirmée.
+4. Tester une reconnaissance minimale de la circulation symbolique de Paoli.
 5. Utiliser cette reconnaissance comme preuve de circulation transatlantique, non comme preuve d’influence causale directe.
 
 #### Niveau de priorité
 
-**Prioritaire pour la légitimation transatlantique**, mais à traiter avec prudence documentaire.
+**Prioritaire pour documenter la réception transatlantique**, mais à traiter avec prudence documentaire.
 
 ---
 
@@ -803,7 +913,7 @@ Le cas prioritaire est **Paoli, Pennsylvania**, dont le nom est lié à la *Gene
 
 #### Cadre
 
-James Boswell est un relais majeur de la réception européenne de Paoli grâce à *An Account of Corsica* publié en 1768. L’axe britannique / écossais est probablement le plus prometteur pour obtenir un portage extérieur non corse.
+James Boswell est un relais majeur de la réception européenne de Paoli grâce à *An Account of Corsica* publié en 1768. L’axe britannique / écossais est prometteur pour obtenir un examen extérieur non corse.
 
 #### Reconnaissance possible
 
@@ -813,7 +923,7 @@ James Boswell est un relais majeur de la réception européenne de Paoli grâce 
 - édition critique ou lecture commentée d’*An Account of Corsica* ;
 - exposition ou dossier numérique : **Paoli in the British Enlightenment**.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Produire une note spécifique : **Boswell, Paoli and the British Reception of Corsican Liberty**.
 2. Identifier des spécialistes de Boswell et des Lumières écossaises.
@@ -823,7 +933,7 @@ James Boswell est un relais majeur de la réception européenne de Paoli grâce 
 
 #### Niveau de priorité
 
-**Très prioritaire.** Axe le plus crédible pour faire porter le dossier par un acteur extérieur non corse.
+**Très prioritaire comme axe d'examen extérieur**, sous réserve de la consolidation documentaire.
 
 ---
 
@@ -841,7 +951,7 @@ La Constitution de 1755 est rédigée en italien / toscan. Paoli est formé dans
 - étude de la matrice intellectuelle italienne de Paoli ;
 - partenariat avec historiens du XVIIIe siècle italien.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
 1. Produire une note : **The Italian Matrix of the Corsican Constitution of 1755**.
 2. Identifier partenaires napolitains.
@@ -851,7 +961,7 @@ La Constitution de 1755 est rédigée en italien / toscan. Paoli est formé dans
 
 #### Niveau de priorité
 
-**Prioritaire.** Axe constitutif du dossier, non optionnel.
+**Prioritaire comme axe constitutif du dossier.**
 
 ---
 
@@ -859,9 +969,9 @@ La Constitution de 1755 est rédigée en italien / toscan. Paoli est formé dans
 
 #### Cadre
 
-Les institutions corses et françaises sont nécessaires pour certains accès, certaines vérifications et certaines formes de reconnaissance patrimoniale. Elles ne doivent toutefois pas être placées au centre de la stratégie initiale. Le constat de départ est précisément que ces institutions n’ont pas, jusqu’à présent, donné à la séquence corse 1729–1755 une visibilité proportionnée à son intérêt potentiel pour l’histoire mondiale du constitutionnalisme démocratique.
+Les institutions corses et françaises sont nécessaires pour certains accès, certaines vérifications et certaines formes de reconnaissance patrimoniale. Elles ne doivent toutefois pas être placées au centre de la stratégie initiale.
 
-Elles doivent donc être sollicitées avec précision, diplomatie et réalisme : comme détentrices de sources, partenaires éventuels ou relais possibles, mais non comme moteurs présumés de la démarche.
+Elles doivent être sollicitées avec précision, diplomatie et réalisme : comme détentrices de sources, partenaires éventuels ou relais possibles, mais non comme moteurs présumés de la démarche.
 
 #### Interlocuteurs possibles
 
@@ -884,14 +994,14 @@ Elles doivent donc être sollicitées avec précision, diplomatie et réalisme :
 - soutien à une candidature européenne ;
 - médiation pédagogique.
 
-#### Plan d’action
+#### Plan d’action envisagé
 
-1. Ne pas demander une reconnaissance politique.
+1. Ne pas demander une reconnaissance politique comme préalable documentaire.
 2. Formuler des demandes documentaires précises : cote, consultation, reproduction, bibliographie, fonds associés.
 3. Utiliser les institutions corses comme lieux-source, non comme seules autorités.
 4. Avancer indépendamment en cas de silence ou d’absence de coopération active.
 5. Associer rapidement des partenaires extérieurs et des personnes indépendantes pour éviter l’enfermement local.
-6. Revenir ensuite vers les institutions françaises et corses avec un dossier déjà internationalisé et probatoire.
+6. Revenir ensuite vers les institutions françaises et corses avec un dossier davantage internationalisé et probatoire.
 
 #### Niveau de priorité
 
@@ -901,19 +1011,21 @@ Elles doivent donc être sollicitées avec précision, diplomatie et réalisme :
 
 ### 14.9. Séquençage stratégique recommandé
 
+Ce séquençage est **envisagé**. Il ne constitue pas un registre d'actions déjà réalisées.
+
 #### Phase 1 — Légitimation scientifique minimale
 
 Objectif : faire reconnaître que le sujet mérite étude.
 
-1. `projet_1755.md` v0.6.
+1. `projet_1755.md` v0.14.
 2. Annexe documentaire minimale sur le manuscrit de 1755.
-3. Publication Facebook sobre annonçant l’ouverture du chantier.
+3. Publication publique sobre annonçant l’ouverture du chantier.
 4. Appel à contributions indépendantes.
 5. Note anglaise de deux pages.
 6. Comité scientifique transnational embryonnaire.
 7. Premier contact Royaume-Uni / Écosse.
 8. Premier contact Italie / Naples.
-9. Premier contact Paoli, Pennsylvania.
+9. Premier contact américain à déterminer après vérification documentaire.
 
 #### Phase 2 — Première reconnaissance féconde
 
@@ -932,59 +1044,59 @@ Objectif : transformer le dossier en infrastructure culturelle.
 1. Exposition pilote au Musée Mariani des Possibles.
 2. Dossier pour Musée Paoli / Musée de la Corse.
 3. Réseau de lieux.
-4. Préparation Label du patrimoine européen.
-5. Préparation Itinéraire culturel du Conseil de l’Europe.
+4. Préparation éventuelle Label du patrimoine européen.
+5. Préparation éventuelle Itinéraire culturel du Conseil de l’Europe.
 
 #### Phase 4 — Reconnaissance documentaire internationale
 
-Objectif : viser l’UNESCO seulement lorsque le corpus est mûr.
+Objectif : viser éventuellement l’UNESCO seulement lorsque le corpus est mûr.
 
 1. Inventaire documentaire international.
 2. Identification des détenteurs.
 3. Numérisation / accessibilité.
-4. Dossier *Memory of the World*.
+4. Étude d'un dossier *Memory of the World*.
 5. Candidature multinationale éventuelle.
 
 ### 14.10. Références institutionnelles provisoires
 
+Les liens ci-dessous sont des pistes documentaires historiques du Projet. Ils doivent être revérifiés avant toute action fondée sur une procédure ou un calendrier :
+
 - UNESCO, *Memory of the World Programme* — objectifs : préservation, accès universel et sensibilisation au patrimoine documentaire mondial.  
   https://www.unesco.org/en/memory-world
 
-- UNESCO, *Call for nominations for the Memory of the World International Register: 2026–2027 nomination cycle* — cycle de nomination ouvert de juillet à novembre 2025.  
-  https://www.unesco.org/en/articles/call-nominations-unesco-memory-world-international-register-2026-2027-nomination-cycle
+- UNESCO, informations de cycles de nomination au Registre international.  
+  https://www.unesco.org/en/memory-world
 
-- Commission européenne, *European Heritage Label — Application process* — critères : valeurs européennes intrinsèques et rôle dans l’histoire ou la culture européenne.  
+- Commission européenne, *European Heritage Label — Application process*.  
   https://culture.ec.europa.eu/cultural-heritage/initiatives-and-success-stories/european-heritage-label/application-process
 
-- Ministère français de la Culture, *Label « Patrimoine européen »* — modalités françaises et rôle du ministère dans l’instruction des candidatures.  
+- Ministère français de la Culture, *Label « Patrimoine européen »*.  
   https://www.culture.gouv.fr/aides-demarches/protections-labels-et-appellations/label-patrimoine-europeen
 
-- Conseil de l’Europe, *Cultural Routes — Certification criteria* — thème commun à au moins trois pays européens, recherche transnationale et pluridisciplinaire, contribution à la mémoire européenne.  
-  https://www.coe.int/en/web/cultural-routes/certification-criteria
+- Conseil de l’Europe, *Cultural Routes*.  
+  https://www.coe.int/en/web/cultural-routes
 
-- Conseil de l’Europe, *Becoming a Cultural Route* — certification attribuée à des réseaux légalement constitués travaillant dans au moins trois États membres.  
-  https://www.coe.int/en/web/cultural-routes/becoming-a-cultural-route
-
+---
 
 ## 15. Cognitive packets YAML
 
 ```yaml
 cognitive_packet:
-  id: project_1755.v0.6
+  id: project_1755.v0.14
   title: "Project #1755"
   type: "historiographical recognition project"
   definition: >
-    Project aiming to reintegrate the Corsican sequence 1729–1755 into the
-    global history of modern democratic constitutionalism.
+    Project aiming to reexamine the place of the Corsican sequence 1729–1755
+    in the global history of modern democratic constitutionalism.
   core_claim: >
-    Corsica should be recognized as one of the early laboratories of modern
+    Corsica should be examined as one of the early cases relevant to modern
     democratic constitutionalism, not as its unique origin.
   status: "core project packet"
 ```
 
 ```yaml
 cognitive_packet:
-  id: corsican_sequence_1729_1755.v0.6
+  id: corsican_sequence_1729_1755.v0.14
   title: "Corsican Sequence 1729–1755"
   type: "historical sequence"
   definition: >
@@ -999,11 +1111,11 @@ cognitive_packet:
 
 ```yaml
 cognitive_packet:
-  id: minimal_fecund_recognition.v0.6
+  id: minimal_fecund_recognition.v0.14
   title: "Minimal Fecund Recognition"
   type: "strategic principle"
   definition: >
-    Strategy of seeking the smallest scientifically incontestable recognition
+    Strategy of seeking the smallest scientifically defensible recognition
     capable of opening broader future recognitions.
   related_concept: "generalized Tocqueville law"
   formulation: >
@@ -1013,7 +1125,7 @@ cognitive_packet:
 
 ```yaml
 cognitive_packet:
-  id: paoli_napoleon_transformative_law.v0.6
+  id: paoli_napoleon_transformative_law.v0.14
   title: "Paoli–Napoleon and Transformative Law"
   type: "interpretive packet"
   definition: >
@@ -1024,13 +1136,13 @@ cognitive_packet:
     Paoli writes sovereignty; Napoleon codifies civil society.
   caution: >
     This is a defensible interpretation, not a claim of direct political
-    continuity or equivalence.
+    continuity, causal derivation or equivalence.
   status: "interpretive packet"
 ```
 
 ```yaml
 cognitive_packet:
-  id: museum_of_possibles_1755.v0.6
+  id: museum_of_possibles_1755.v0.14
   title: "#1755 as a Historical Possible"
   type: "museum and heritage packet"
   definition: >
@@ -1042,9 +1154,6 @@ cognitive_packet:
     A historical possible can be interrupted without being sterilized.
   status: "heritage mediation packet"
 ```
-
----
-
 
 ```yaml
 cognitive_packet:
@@ -1066,10 +1175,9 @@ cognitive_packet:
   status: "governance packet"
 ```
 
-
 ```yaml
 cognitive_packet:
-  id: recognition_pathways_1755.v0.1
+  id: recognition_pathways_1755.v0.14
   title: "Recognition Pathways for Project #1755"
   type: "strategic institutional packet"
   definition: >
@@ -1081,24 +1189,23 @@ cognitive_packet:
   priority_order:
     - "scientific transnational recognition"
     - "British/Scottish and Italian external anchors"
-    - "American Paoli recognition"
+    - "American Paoli reception research"
     - "European heritage pathways"
     - "UNESCO documentary pathway"
   caution: >
     Institutional recognition must follow documentary consolidation; prestigious
     labels should not be sought before the corpus, partners and evidence are mature.
-  status: "strategic packet"
+  status: "strategic packet — envisaged"
 ```
 
 ```yaml
 cognitive_packet:
-  id: manuscript_1755_central_document.v0.1
+  id: manuscript_1755_central_document.v0.14
   title: "1755 Manuscript as Central Documentary Object"
   type: "documentary core"
   definition: >
-    The presumed manuscript of the Corsican Constitution of 1755, reportedly
-    written in Italian and signed by Pasquale Paoli, constitutes the potential
-    central documentary object of Project #1755.
+    The presumed manuscript of the Corsican Constitution of 1755 constitutes
+    a potential central documentary object of Project #1755.
   status: "priority verification item"
   evidence_level: "A/B pending archival verification"
   required_actions:
@@ -1116,16 +1223,14 @@ cognitive_packet:
 
 ```yaml
 cognitive_packet:
-  id: institutional_realism_1755.v0.1
+  id: institutional_realism_1755.v0.14
   title: "Institutional realism for Project #1755"
   type: "strategic safeguard"
   definition: >
-    Project #1755 should not assume spontaneous cooperation from French,
-    Corsican, university or territorial institutions, since the limited public
-    promotion of the Corsican sequence 1729–1755 is itself part of the problem
-    to be addressed. Institutions remain possible interlocutors for access,
-    conservation and verification, but the initial strategy must rely on open
-    documentation and independent contributors.
+    Project #1755 should not assume spontaneous cooperation from public or
+    academic institutions. Institutions remain possible interlocutors for access,
+    conservation and verification, while the initial strategy relies on open
+    documentation, contradiction and independent contributors.
   status: "strategic core packet"
   safeguards:
     - "Do not accuse institutions of intentional erasure without evidence"
@@ -1135,6 +1240,31 @@ cognitive_packet:
   related_principle: "C.O.R.S.I.C.A. as reunion of autonomous competences"
 ```
 
+```yaml
+cognitive_packet:
+  id: public_two_path_strategy_1755.v0.1
+  title: "Public Two-Path Strategy"
+  type: "strategic transparency safeguard"
+  definition: >
+    Publicly documented exploration of two independent possible paths: a historical
+    and international path centered on #1755, and a contemporary fundamental-rights
+    path handled in separate legal documents. Their possible convergence concerns a
+    shared capacity question, not evidentiary contamination.
+  status: "envisaged"
+  sequence:
+    - "envisaged"
+    - "decided"
+    - "prepared"
+    - "executed"
+    - "result obtained"
+  safeguards:
+    - "historical recognition is not proof of a contemporary rights violation"
+    - "contemporary litigation is not proof of a historical thesis"
+    - "no status transition without trace"
+```
+
+---
+
 ## 16. Objections and safeguards
 
 ### Objection 1 — « La Corse n’a pas inventé la démocratie moderne »
@@ -1143,7 +1273,7 @@ Réponse : le dossier ne l’affirme pas. Il parle d’un cas précoce à docume
 
 ### Objection 2 — « 1755 n’est pas une démocratie moderne complète »
 
-Réponse : exact. Le dossier parle d’un germe constitutionnel et démocratique, non d’un modèle achevé correspondant aux standards contemporains.
+Réponse : exact. Le dossier parle d’un moment constitutionnel précoce et d'éléments démocratiques à qualifier, non d’un modèle achevé correspondant aux standards contemporains.
 
 ### Objection 3 — « Paoli et Napoléon sont politiquement opposés »
 
@@ -1151,46 +1281,49 @@ Réponse : la filiation proposée est conflictuelle et conceptuelle, non linéai
 
 ### Objection 4 — « Le dossier est politique »
 
-Réponse : le dossier doit précisément être détaché de la politique locale. Il porte sur un réexamen historiographique documenté et sur la constitution d’un programme scientifique transnational.
+Réponse : l’initiative a nécessairement un contexte et des effets publics, mais la thèse de #1755 doit être examinée comme un réexamen historiographique documenté et comme la constitution d’un programme scientifique transnational. Les qualifications politiques ne remplacent pas la preuve historique.
 
 ### Objection 5 — « L’impact américain est exagéré »
 
-Réponse : le dossier doit documenter ville par ville, distinguer influence directe, réception symbolique, toponymie et héritages indirects.
+Réponse : le dossier doit documenter ville par ville, distinguer influence directe, réception symbolique, toponymie et héritages indirects. La réception du nom de Paoli ne prouve pas une influence constitutionnelle directe.
 
 ### Objection 6 — « L’invisibilisation suppose une intention politique »
 
-Réponse : le dossier ne traite pas d’abord des causes de l’invisibilisation. Il établit ce qui est insuffisamment intégré et pourquoi cela compte pour comprendre l’histoire mondiale de la démocratie moderne.
+Réponse : le dossier ne traite pas d’abord des causes de la visibilité observée. Il mesure ce qui est présent ou absent dans les sources et dispositifs étudiés, puis laisse ouvertes les explications concurrentes.
 
 ### Objection 7 — « Une initiative privée ne peut pas porter un objet d’intérêt général »
 
 Réponse : l’initiative est privée dans son origine, mais ouverte dans sa méthode, non lucrative dans son économie, Creative Commons dans sa publication et transnationale dans son objectif. Le rôle de C.O.R.S.I.C.A. et de l’Institut Mariani n’est pas de se substituer aux autorités scientifiques, mais de produire une infrastructure de documentation, de traçabilité et de transmission pouvant être vérifiée, critiquée et reprise par des acteurs extérieurs.
 
-
 ### Objection 8 — « Le dossier reste trop déclaratif »
 
-Réponse : objection recevable. La v0.6 reconnaît explicitement que le document est encore au début d’une démarche longue. Le passage au statut de dossier pleinement probatoire suppose une annexe documentaire, des cotes archivistiques, des citations primaires, une bibliographie critique et des vérifications directes.
+Réponse : objection recevable. La v0.14 reconnaît explicitement que le document est encore au début d’une démarche longue. Le passage au statut de dossier pleinement probatoire suppose une annexe documentaire, des cotes archivistiques, des citations primaires, une bibliographie critique et des vérifications directes.
 
 ### Objection 9 — « Le manuscrit de 1755 risque d’être fétichisé »
 
-Réponse : le manuscrit est central, mais il ne doit pas devenir une relique rhétorique. Il doit être traité comme un objet documentaire : localiser, décrire, citer, comparer, contextualiser. Sa force vient de sa vérifiabilité, non de sa charge symbolique.
+Réponse : le manuscrit est central potentiel, mais il ne doit pas devenir une relique rhétorique. Il doit être traité comme un objet documentaire : localiser, décrire, citer, comparer, contextualiser. Sa force vient de sa vérifiabilité, non de sa charge symbolique.
 
 ### Objection 10 — « La lecture Paoli–Napoléon peut surinterpréter une filiation »
 
-Réponse : la filiation proposée est maintenue au niveau C lorsqu’elle devient hypothèse structurante du corpus. Elle ne doit pas être présentée comme une relation causale démontrée tant qu’un appareil probatoire spécifique n’a pas été constitué. La formule “enfant spirituel” est heuristique ; elle doit être accompagnée de précautions.
-
----
+Réponse : la filiation proposée est maintenue au niveau C lorsqu’elle devient hypothèse structurante du corpus. Elle ne doit pas être présentée comme une relation causale démontrée tant qu’un appareil probatoire spécifique n’a pas été constitué. La formule « enfant spirituel » est heuristique ; elle doit être accompagnée de précautions.
 
 ### Objection 11 — « Les institutions publiques devraient naturellement porter ce travail »
 
-Réponse : ce serait souhaitable, mais la stratégie ne doit pas le présupposer. Le fait que la séquence corse 1729–1755 soit encore peu visible dans les dispositifs institutionnels justifie précisément une démarche ouverte, autonome et probatoire. Les institutions peuvent aider, mais elles ne doivent pas être le point de blocage du projet.
+Réponse : ce serait possible ou souhaitable dans certains cas, mais la stratégie ne doit pas le présupposer. Les institutions peuvent aider ; elles ne doivent pas être le point de blocage du projet.
 
 ### Objection 12 — « Dire que les institutions n’ont pas promu cet épisode rend le dossier politique »
 
-Réponse : cela dépend de la formulation. Le dossier ne doit pas accuser ni expliquer les raisons de cette faible promotion. Il doit constater sobrement un déficit de visibilité et proposer une méthode de correction documentaire. La contrainte institutionnelle devient alors un élément de stratégie, non une accusation.
+Réponse : cela dépend de la formulation et des traces. Le dossier ne doit pas accuser ni expliquer sans preuve les raisons d'une visibilité limitée. Il doit mesurer sobrement la place accordée dans les dispositifs observés et proposer une méthode documentaire de réexamen.
 
 ### Objection 13 — « Des amateurs ou personnes indépendantes ne peuvent pas remplacer les chercheurs »
 
 Réponse : ils ne les remplacent pas. Ils peuvent contribuer à la recherche de sources, au repérage de fonds, à la traduction, à la numérisation, à la vérification, à la critique et à la médiation. Le comité scientifique transnational devra distinguer les contributions, les valider et les hiérarchiser. L’ouverture n’abolit pas l’exigence ; elle augmente la capacité de découverte.
+
+### Objection 14 — « Les deux voies stratégiques sont un dispositif caché »
+
+Réponse : non. Leur caractère **envisagé** est publié avant toute éventuelle exécution, avec leurs limites, leurs incertitudes et l'interdiction d'utiliser l'une comme preuve automatique de l'autre. La publicité préalable est une propriété méthodologique du dispositif.
+
+---
 
 ## 17. Levels of evidence
 
@@ -1201,8 +1334,8 @@ Réponse : ils ne les remplacent pas. Ils peuvent contribuer à la recherche de 
 - Début de la Révolution corse en 1729.
 - Épisode du roi Théodore en 1736.
 - Constitution paolienne de 1755.
-- Rôle de Boswell dans la diffusion britannique de Paoli.
-- Intérêt de Rousseau pour la Corse comme objet constitutionnel.
+- Rôle documentable de Boswell dans la diffusion britannique de Paoli.
+- Intérêt documentable de Rousseau pour la Corse comme objet constitutionnel.
 - Existence de localités américaines portant le nom de Paoli ou dérivées de cette mémoire.
 - Code civil de 1804 comme texte juridique transformateur associé à Napoléon.
 
@@ -1217,11 +1350,11 @@ Réponse : ils ne les remplacent pas. Ils peuvent contribuer à la recherche de 
 
 ### Level B — Interprétations défendables
 
-- Le constat que les institutions publiques disponibles n’ont pas, jusqu’ici, fortement promu la séquence corse 1729–1755 dans les récits généraux du constitutionnalisme démocratique.
 - La séquence corse 1729–1755 comme cas précoce du constitutionnalisme démocratique moderne à documenter comparativement.
-- La Corse comme point aveugle de l’histoire mondiale des révolutions modernes.
 - La Constitution de 1755 comme moment de souveraineté constituante.
 - La réception de Paoli comme élément de circulation transnationale des idées de liberté.
+- La qualification de Paoli comme figure européenne des Lumières politiques.
+- Le rôle majeur de Boswell dans la médiation britannique et européenne de Paoli.
 
 ### Level C — Hypothèses fortes du corpus
 
@@ -1229,6 +1362,7 @@ Réponse : ils ne les remplacent pas. Ils peuvent contribuer à la recherche de 
 - Le fil Paoli–Napoléon comme contribution corse au droit écrit transformateur.
 - #1755 comme origine féconde pour repenser la crise contemporaine de la représentation.
 - Kudocracy et Autonomie de Capacité comme réactivation contemporaine de la question laissée ouverte par 1755.
+- Toute influence causale précise de la Constitution corse sur des constitutions ultérieures tant que la chaîne de transmission n'est pas documentée.
 
 ### Level D — Formulations stratégiques et rhétoriques
 
@@ -1237,32 +1371,43 @@ Réponse : ils ne les remplacent pas. Ils peuvent contribuer à la recherche de 
 - « Paoli écrit la souveraineté ; Napoléon codifie la société civile. »
 - « La petite reconnaissance qui rendra les grandes reconnaissances pensables. »
 - « Un possible historique peut être interrompu sans être stérilisé. »
-- « La Corse n’est pas l’objet du dossier ; elle est le point aveugle d’une histoire mondiale mal racontée. »
+
+### Level S — Stratégies et actions contemporaines
+
+Chaque élément contemporain doit porter un statut temporel explicite :
+
+```text
+ENVISAGÉ / DÉCIDÉ / PRÉPARÉ / EXÉCUTÉ / RÉSULTAT OBTENU
+```
+
+Le tableau de bord `1755.md` fait autorité pour l'état réel des démarches #1755.
 
 ---
 
 ## 18. Self-evaluation according to the second method
 
-| Criterion | Evaluation v0.6 | Commentaire |
+| Criterion | Evaluation v0.14 | Commentaire |
 |---|---|---|
-| Clarté de la thèse | Forte | La reconnaissance minimale est explicitement formulée. |
+| Clarté de la thèse | Forte | La reconnaissance minimale est explicitement formulée comme thèse à examiner. |
 | Prudence historiographique | Forte | Les excès possibles sont exclus. |
-| Distinction faits / interprétations | Forte | Les niveaux de preuve sont explicites. |
+| Distinction faits / interprétations | Forte | Quatre couches épistémiques explicites ; les influences causales ne sont pas présupposées. |
+| Carte / Territoire | Forte | Les lacunes de la Carte ne sont pas transformées en propriétés du Territoire. |
 | Dimension transnationale | Forte | Italie, Royaume-Uni, États-Unis et France napoléonienne sont distingués. |
-| Détachement du politique local | Fort | Le dossier est cadré comme réexamen historiographique documenté. |
-| Fécondité stratégique | Forte | La plus petite reconnaissance féconde est définie. |
-| Intégration au corpus | Forte | Liens avec Cogentia, Kudocracy, Autonomie de Capacité et Musée des Possibles. |
+| Détachement du politique local | Fort | Le dossier historique ne sert pas de preuve automatique pour le contemporain. |
+| Fécondité stratégique | Forte | La reconnaissance minimale féconde est définie. |
+| Transparence stratégique | Forte | Stratégie publique avant action et séquence de statut explicite. |
+| Intégration au corpus | Forte | Liens avec Cogentia, Kudocracy, Autonomie de Capacité, Observatoire et Musée des Possibles. |
 | Machine-readability | Forte | Paquets YAML inclus. |
-| État documentaire | Faible à moyen | Le manuscrit de 1755 est identifié comme document central potentiel, mais la cote, la notice, les conditions de consultation et la numérisation doivent être vérifiées. |
-| Réalisme institutionnel | Fort | Le document ne présuppose plus la coopération spontanée des institutions et prévoit une stratégie autonome fondée sur les personnes indépendantes et les preuves. |
+| État documentaire | Faible à moyen | Le manuscrit reste central potentiel ; cote, notice, consultation et numérisation doivent être vérifiées. |
+| Réalisme institutionnel | Fort | Le document ne présuppose pas la coopération spontanée des institutions. |
 | Gouvernance ouverte | Forte | Le cadre privé, bénévole, non lucratif, Creative Commons et patrimonial commun est explicitement posé. |
-| Maturité | v0.6 publiable comme document source d’ouverture | Ne doit pas être présenté comme dossier probatoire final ; priorité à l’annexe documentaire et à l’appel à contributions indépendantes. |
+| Maturité | v0.14 publiable comme document source d’ouverture | Ne doit pas être présenté comme dossier probatoire final ; priorité à l’Act #1755-01 et à l’annexe documentaire. |
 
 ### Bullshit meter interne
 
 Score provisoire : **1.5/10**.
 
-Raison : la thèse est forte et mieux encadrée, mais l’appareil probatoire reste encore insuffisant. Le dossier est désormais honnête sur son propre état : il est au début d’une démarche longue, et non au terme d’une démonstration. Le principal risque n’est pas le bullshit grossier ; c’est la tentation de laisser une hypothèse historiographique séduisante courir plus vite que ses preuves. La v0.6 réduit ce risque en recentrant le travail sur le manuscrit de 1755, sur l’annexe documentaire à produire et sur une stratégie institutionnelle non naïve : construire d’abord la preuve avec des contributeurs indépendants, puis solliciter les reconnaissances.
+Raison : la thèse est forte et mieux encadrée, mais l’appareil probatoire reste encore insuffisant. Le principal risque est de laisser une hypothèse historiographique séduisante courir plus vite que ses preuves. La v0.14 réduit ce risque en séparant les faits, les interprétations, les hypothèses causales et le test contemporain, et en maintenant le manuscrit au statut de pièce centrale potentielle jusqu'à vérification archivistique.
 
 ---
 
@@ -1274,7 +1419,7 @@ Raison : la thèse est forte et mieux encadrée, mais l’appareil probatoire re
 2. **note d’intention du comité scientifique transnational** ;
 3. **appel à participation scientifique** ;
 4. **article Substack** pour *Les carnets du baron Mariani* ;
-5. **publication Facebook sobre et traçable** ;
+5. **publication publique sobre et traçable** ;
 6. **fiche muséale** pour le Musée Mariani des Possibles ;
 7. **tableau probatoire affirmation par affirmation** ;
 8. **version académique anglaise longue** ;
@@ -1289,7 +1434,7 @@ Raison : la thèse est forte et mieux encadrée, mais l’appareil probatoire re
 
 ### 20.1. Priorité immédiate
 
-Produire en priorité une **annexe documentaire v0.1 sur le manuscrit de la Constitution de 1755**, puis une annexe probatoire générale.
+Exécuter, si décision explicite, l'[`Act #1755-01`](act_1755_01_verification_manuscrit.md), actuellement **planned, not executed**, puis produire une **annexe documentaire v0.1 sur le manuscrit de la Constitution de 1755**, suivie d'une annexe probatoire générale.
 
 Pour le manuscrit :
 
@@ -1326,7 +1471,7 @@ Produire une note courte en anglais :
 Project #1755 — The Corsican Sequence 1729–1755 and the Global History of Democratic Constitutionalism
 ```
 
-Objectif : solliciter un acteur extérieur non corse de premier rang.
+Objectif : solliciter un examen extérieur non corse de premier rang.
 
 ### 20.3. Priorité institutionnelle
 
@@ -1354,7 +1499,13 @@ Project #1755 — Open Commons Governance, Creative Commons and Non-Profit Trans
 
 Objectif : clarifier que l’origine privée et personnelle du projet ne contredit pas son orientation d’intérêt général, parce que la méthode, les sources, les versions et les produits sont ouverts, réutilisables et soumis à critique.
 
-### 20.6. Question ouverte
+### 20.6. Stratégie publique à deux voies
+
+La stratégie à deux voies est actuellement **ENVISAGÉE** et déjà publique. Toute progression devra être consignée dans le tableau de bord avant d'être décrite comme décidée, préparée ou exécutée.
+
+La voie historique/internationale reste portée par #1755. La voie contemporaine/droits fondamentaux relève de documents juridiques séparés et de l'Observatoire ; elle ne doit pas être absorbée dans le dossier historique.
+
+### 20.7. Question ouverte
 
 Faut-il maintenir le nom public **Projet #1755**, alors que le dossier commence en 1729 ?
 
@@ -1364,21 +1515,22 @@ Réponse provisoire : oui, car 1755 reste le moment constitutionnel lisible et m
 
 ## Final formulation
 
-> **Le Projet #1755 vise à réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne. Il ne demande pas une faveur mémorielle, mais un réexamen historiographique documenté : reconnaître que la Corse fut l’un des cas précoces où se sont articulées la souveraineté populaire, la constitution écrite, la représentation et le droit écrit transformateur. La reconnaissance recherchée doit être minimale, rigoureuse et féconde : assez incontestable pour être acceptée, assez structurante pour ouvrir la suite. Le dossier est privé par son initiative, mais commun par sa destination : ouvert, Creative Commons, non lucratif, vérifiable et orienté vers le bien commun documentaire ouvert. À ce stade, son centre de gravité doit devenir probatoire : le manuscrit de 1755, s’il est bien localisé, décrit et accessible, constitue le point fixe autour duquel la démarche peut passer de l’intuition féconde à la reconnaissance scientifique.**
+> **Le Projet #1755 vise à réexaminer la place de la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne. Il ne demande pas une faveur mémorielle, mais un réexamen historiographique documenté : examiner si la Corse constitue l’un des cas précoces où se sont articulées la souveraineté populaire, la constitution écrite, la représentation et le droit écrit transformateur. La reconnaissance recherchée doit être minimale, rigoureuse et féconde : assez solidement documentée pour être examinée par des tiers, assez structurante pour ouvrir la suite. Le dossier est privé par son initiative, mais commun par sa destination : ouvert, Creative Commons, non lucratif, vérifiable et orienté vers le bien commun documentaire ouvert. À ce stade, son centre de gravité doit devenir probatoire : le manuscrit de 1755, s’il est bien localisé, décrit et accessible, peut constituer un point fixe autour duquel la démarche passe de l’intuition féconde à l’examen scientifique.**
 
 ---
 
-## Tableau de bord public, `Autonomia` et test de capacité
+## Tableau de bord public, `Autonomia`, Observatoire et test de capacité
 
-Le Projet #1755 est articulé à trois documents distincts mais liés :
+Le Projet #1755 est articulé à quatre documents distincts mais liés :
 
-| Document | Rôle | Chemin prévu |
+| Document | Rôle | Chemin |
 |---|---|---|
-| [`autonomia.md`](../autonomia.md) | Cadre théorique : Autonomie de Capacité, Territoires Capables, expérimentation vérifiable | [`research/autonomia.md`](../autonomia.md) |
-| `projet_1755.md` | Document source du dossier #1755 : hypothèse, méthode, prudence, stratégie de reconnaissance | `research/projet_1755.md` |
-| [`1755.md`](1755.md) | Tableau de bord public : démarches, réponses, refus, silences, enseignements | [`research/autonomia/1755.md`](1755.md) |
+| [`autonomia.md`](../autonomia.md) | Cadre théorique : Autonomie de Capacité et expérimentation vérifiable | `research/autonomia.md` |
+| `projet_1755.md` | Document source du dossier #1755 : thèse, méthode, prudence, stratégie de reconnaissance | `research/autonomia/projet_1755.md` |
+| [`1755.md`](1755.md) | Tableau de bord public : états, actes, réponses, refus, silences, enseignements | `research/autonomia/1755.md` |
+| [`observatoire_processus_autonomie_corse.md`](observatoire_processus_autonomie_corse.md) | Carte corrigible du processus contemporain et des fenêtres de participation | `research/autonomia/observatoire_processus_autonomie_corse.md` |
 
-Le “test 1755” n’est donc pas seulement une démarche historique. C’est aussi un **test de capacité** : la Corse, par des acteurs civiques, associatifs, scientifiques, patrimoniaux ou indépendants, est-elle capable de documenter et de faire reconnaître correctement son apport autour de la Constitution de 1755 ?
+Le “test 1755” n’est donc pas seulement une démarche historique. C’est aussi un **test de capacité situé** : les acteurs civiques, associatifs, scientifiques, patrimoniaux ou indépendants engagés dans le projet sont-ils capables de documenter et de faire examiner correctement la place de la séquence constitutionnelle de 1755 ?
 
 Cette question relève de l’**Autonomie de Capacité** : il ne suffit pas d’affirmer une souveraineté historique ou une dignité collective ; il faut produire des traces, des preuves, des demandes, des réponses, des corrections, des relais et des continuations. Le tableau de bord ne constitue pas une preuve historique ; il constitue une preuve de processus.
 
@@ -1413,7 +1565,7 @@ Même le post-mortem doit donc comporter une section **Continuation**.
 
 ---
 
-## Continuation détaillée v0.13
+## Continuation détaillée v0.14
 
 La bonne réponse aux manques actuels n’est pas d’inventer les réponses, mais de transformer chaque manque en tâche vérifiable.
 
@@ -1421,9 +1573,9 @@ La bonne réponse aux manques actuels n’est pas d’inventer les réponses, ma
 
 Questions ouvertes :
 
-- Quelle est la cote exacte du manuscrit conservé aux Archives de Corse ?
+- Quelle est la cote exacte du manuscrit conservé par l'institution détentrice ?
 - Existe-t-il une notice officielle publique ?
-- Le manuscrit est-il bien consultable uniquement sur place ?
+- Quelles sont les conditions exactes de consultation ?
 - Existe-t-il une reproduction numérique interne ou publique ?
 - Quelles sont les conditions de reproduction, citation et publication ?
 - Quel est le lien précis entre le manuscrit, l’édition Lamotte/Carrington et les éditions ultérieures ?
@@ -1432,7 +1584,7 @@ Trace attendue : entrée datée dans le tableau de bord + annexe documentaire mi
 
 ### Chantier 2 — Annexe probatoire complète
 
-Produire `research/projet_1755_annexe_probatoire.md` avec :
+Produire `research/autonomia/projet_1755_annexe_probatoire.md` avec :
 
 - sources primaires identifiées ;
 - sources secondaires ;
@@ -1445,7 +1597,7 @@ Produire `research/projet_1755_annexe_probatoire.md` avec :
 
 ### Chantier 3 — Tableau de bord
 
-Mettre à jour [`research/autonomia/1755.md`](1755.md) à chaque acte réel : publication, sollicitation, réponse, silence prolongé, relance, correction, nouvelle source, nouvelle hypothèse.
+Mettre à jour [`research/autonomia/1755.md`](1755.md) à chaque changement réel de statut : stratégie envisagée, décision, préparation, acte exécuté, réponse, silence prolongé, relance, correction, nouvelle source ou nouvelle hypothèse.
 
 ### Chantier 4 — Brief anglais de deux pages
 
@@ -1471,12 +1623,11 @@ Lorsque l’annexe probatoire existera, réduire `projet_1755.md` :
 - formulation plus sobre ;
 - séparation plus nette entre preuve, hypothèse et stratégie.
 
-
 ## Cognitive packets YAML
 
 ```yaml
 cognitive_packet:
-  id: rhetorical_prudence_1755.v0.1
+  id: rhetorical_prudence_1755.v0.14
   title: "Rhetorical Prudence in Project #1755"
   type: "methodological safeguard"
   definition: >
@@ -1484,10 +1635,6 @@ cognitive_packet:
     formulations when evidentiary work remains incomplete. Strong claims
     should be converted into verifiable tasks, comparative questions and
     documented continuations.
-  replaces:
-    - "correction historiographique"
-    - "patrimoine commun de l’humanité"
-    - "laboratoire précoce"
   preferred_terms:
     - "réexamen historiographique documenté"
     - "bien commun documentaire ouvert"
@@ -1497,7 +1644,7 @@ cognitive_packet:
 
 ```yaml
 cognitive_packet:
-  id: continuation_protocol_1755.v0.1
+  id: continuation_protocol_1755.v0.14
   title: "Continuation Protocol for Project #1755"
   type: "methodological safeguard"
   definition: >
