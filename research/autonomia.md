@@ -4,12 +4,12 @@ subtitle: "Capacités collectives, capital territorial et flexibilité d’usage
 description: "Contribution à une théorie opératoire de l’autonomie territoriale"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.13"
-date: "2026-08-23"
+version: "0.14"
+date: "2026-09-15"
 license: "CC BY-SA 4.0"
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
-last_stamped_at: 2026-08-23
+last_stamped_at: 2026-09-15
 document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
@@ -33,13 +33,13 @@ Fonction dans le corpus : définir l'autonomie de capacité comme test opératoi
 
 À lire avant : [Discours de la seconde méthode](second_method.md), puis éventuellement [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md) pour la situation inter-dépôts.
 
-À lire après : [Corse Laboratoire](autonomia/corse_laboratoire.md), [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
+À lire après : [Potentique territoriale](autonomia/potentique_territoriale.md), [Corse Laboratoire](autonomia/corse_laboratoire.md), [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
 
 Dépend de : l'approche par les capabilités, le capital territorial, les communs et la doctrine de l'expérimentation publique documentée.
 
 Continuation : maintenir le texte comme source de doctrine ; les documents de campagne ou de programme doivent s'y rattacher sans le remplacer.
 
-Dernière consolidation : 2026-08-23 — ajout de l'autonomie relationnelle de capacité et de la frugalité joyeuse.
+Dernière consolidation : 2026-09-15 — distribution multi-échelles de la capacité, temps utile, fenêtre d’effectivité et resserrement méthodologique du test #1755.
 
 ## Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
@@ -59,13 +59,15 @@ Cet article propose la notion d’**autonomie de capacité**. Par cette expressi
 
 L’autonomie de capacité ne se substitue pas à l’autonomie institutionnelle. Elle en constitue le test empirique. Une autonomie statutaire définit ce qu’un territoire a le droit de faire ; une autonomie de capacité mesure ce qu’il est réellement en mesure de faire.
 
+Cette mesure doit toutefois être située : capacité de qui, à faire quoi, à quelle échelle et dans quel horizon temporel ? Un gain de capacité institutionnelle ou territoriale n’implique pas automatiquement un gain équivalent pour les habitants, les communes, les organisations ou les autres sujets concernés ; une possibilité qui devient accessible hors du temps utile peut en outre avoir perdu son effectivité pour l’action considérée.
+
 La notion d’autonomie est donc utilisée ici en deux sens distincts. Au sens constitutionnel fort, l’autonomie implique un pouvoir normatif et fiscal propre. À cet égard, la Corse demeure très en deçà des standards observables dans d’autres démocraties multinationales. Au sens opératoire proposé dans cet article, l’autonomie de capacité désigne la faculté d’un territoire à construire des moyens concrets d’action, y compris avant l’obtention d’un statut pleinement autonome.
 
 L’article mobilise l’approche par les capabilités développée par Amartya Sen et prolongée par Martha Nussbaum, ainsi que les analyses du capital territorial, des communs, de la capacité institutionnelle, de la résilience territoriale, de la spécialisation intelligente et de l’économie des coûts de transaction. Il s’inscrit dans la tradition philosophique qui pense la démocratie comme pratique d’auto-institution distribuée — Castoriadis, Arendt, Dewey, Rancière — et en propose une application territoriale. Il introduit également l’idée de **spécificité de phase**, qui désigne la dépendance d’un actif à certaines périodes, saisons ou cycles d’usage. Cette notion permet de comprendre pourquoi des territoires insulaires comme la Corse subissent souvent des pics de demande — touristiques, universitaires, énergétiques, hydriques, fonciers ou administratifs — sans les convertir en valeur durable pour leurs habitants.
 
 L’hypothèse centrale est la suivante : **la Corse augmentera plus sûrement son autonomie réelle par une stratégie d’expérimentations territoriales vérifiables, documentées et transmissibles que par la seule attente d’un transfert institutionnel ou par la seule intensification d’un discours identitaire défensif.**
 
-Cette hypothèse est ouverte à la vérification empirique. Un premier test prospectif, conduit à partir de mai 2026 et annoncé en §2.6, porte sur la reconnaissance internationale du rôle de la République corse de 1755-1769 dans la genèse de la démocratie constitutionnelle moderne. Son issue, partielle ou totale, et l’analyse de ses obstacles fourniront un premier calibrage de la capacité d’une initiative territoriale corse à mobiliser des institutions internationales sans soutien étatique direct. Le journal documenté de cette démarche est tenu publiquement, dans le sous-répertoire `autonomia/` du présent repository, et constitue, dans la logique de cet article, un livrable scientifique au même titre que le présent texte.
+Cette hypothèse est ouverte à la vérification empirique. Un premier test prospectif, conduit à partir de mai 2026 et décrit en §2.7, porte sur la reconnaissance internationale de la place de la séquence constitutionnelle corse de 1755-1769 dans l’histoire du constitutionnalisme démocratique moderne. Ce Reality Test renseigne d’abord la capacité située des acteurs qui le portent — avec leurs ressources, dépendances, interlocuteurs et horizons — et non une grandeur homogène appelée « capacité de la Corse ». Son journal public, tenu dans le sous-répertoire `autonomia/`, constitue un livrable documentaire permettant de confronter les hypothèses aux réponses successives du Réel.
 
 ---
 
@@ -192,25 +194,23 @@ La distinction centrale apparaît ici :
 
 > Le statut crée des possibilités juridiques. La capacité transforme ces possibilités en résultats effectifs.
 
-## 2.7. Premier test contemporain : la reconnaissance internationale de la République corse de 1755
+## 2.7. Premier test contemporain : #1755 comme auto-application documentée
 
-La généalogie qui précède ne s’arrête pas au processus de Beauvau. Un cadre théorique territorial n’a de portée que s’il génère des expérimentations dont les résultats sont vérifiables par des tiers. Le présent article annonce donc une première démarche, conduite à partir de mai 2026, qui prend une forme publique et documentée parallèlement à la circulation de ce working paper, et qui constitue, en pratique, le premier test prospectif de l’autonomie de capacité telle qu’elle est définie ici.
+La généalogie qui précède ne s’arrête pas au processus de Beauvau. Un cadre théorique territorial n’a de portée opératoire que s’il peut être confronté à des démarches dont les résultats, obstacles et bifurcations sont observables par des tiers. Le Projet #1755 constitue une première auto-application documentée de l’Autonomie de Capacité, engagée à partir de mai 2026.
 
-L’objet de ce test est la reconnaissance posthume, par les institutions internationales et académiques compétentes, du rôle de la République corse de 1755-1769 dans la genèse de la démocratie constitutionnelle moderne. La Constitution corse adoptée à Corte en novembre 1755 a précédé de plus de vingt ans la Déclaration d’indépendance américaine et de plus de trente ans la Révolution Française. Rédigée en italien, elle a circulé en Europe par l’intermédiaire de l’*Account of Corsica* de James Boswell paru à Londres en 1768. Elle a été lue par Jean-Jacques Rousseau, qui a accepté d’en rédiger un projet à la demande de Paoli. Elle a inspiré, aux États-Unis, des dénominations toponymiques durables et des références politiques contemporaines des Sons of Liberty. Elle ne figure pourtant que marginalement dans la généalogie usuelle des démocraties modernes.
+Son objet est de soumettre à un réexamen historiographique international la place de la séquence corse ouverte en 1729 et de son moment constitutionnel de 1755 dans l’histoire du constitutionnalisme démocratique moderne. La démarche ne présuppose pas que la Corse aurait inventé seule la démocratie moderne, ni qu’une influence causale déterminée sur des constitutions ultérieures serait déjà établie.
 
-Ce test a été choisi pour des raisons précises. Il porte sur un objet historique entièrement détaché de tout contentieux territorial contemporain. Il n’engage aucun budget public significatif. Il n’impose aucune contrepartie aux institutions sollicitées. Son enjeu est presque exclusivement symbolique. À ce titre, il constitue un test minimal. Si une initiative corse, portée par une association et un institut de recherche privé, ne parvient pas à faire reconnaître un fait historique sans coût ni opposition apparente, alors la capacité d’un territoire de cette taille à mobiliser des institutions internationales sans soutien étatique direct est plus faible que ce que les acteurs corses supposent généralement. À l’inverse, une réussite, même partielle, fournira un calibrage utile pour les démarches ultérieures portant sur des enjeux matériels plus disputés.
+La séquence paolienne bénéficie d’une circulation européenne documentable, notamment à travers Boswell et Rousseau, et le nom de Paoli connaît également des réceptions dans le monde atlantique. L’ampleur et la nature exactes des influences constitutionnelles qui peuvent en être déduites constituent toutefois un objet historique à établir, non un acquis présupposé par le présent article. Le dossier source [`autonomia/projet_1755.md`](autonomia/projet_1755.md) porte cette distinction entre faits établis, interprétations historiographiques et hypothèses d’influence.
 
-Ce test peut aussi être lu, en termes empruntés à Jacques Rancière, comme une opération de redistribution du sensible. La généalogie standard de la démocratie moderne — Athènes, Provinces-Unies, 1776, 1789 — laisse la Corse paolienne dans l’angle mort. La rendre visible n’est pas seulement un acte de mémoire ; c’est un acte politique au sens où Rancière l’entend, parce qu’il modifie ce qui peut être vu, dit et compté lorsqu’on parle de la genèse démocratique. Pour cette raison, la démarche est à la fois historique et politique, sans être polémique.
+Le Reality Test #1755 cherche plus étroitement à déterminer ce qu’une initiative associative et scientifique située en Corse devient effectivement capable d’obtenir en matière de recherche, de documentation, de mobilisation de partenaires et de reconnaissance internationale d’un objet historique. Les démarches, réponses, refus, silences et bifurcations sont documentés séparément dans le [tableau de bord public](autonomia/1755.md).
 
-Ce test ne s’inscrit pas dans la grille des hypothèses H1 à H7 formalisées au chapitre 10. Ces hypothèses portent sur des effets locaux et mesurables de l’autonomie de capacité dans des domaines matériels — logement, énergie, foncier, infrastructure, identité productive, infrastructures saisonnières. Le test 1755 porte d’une autre nature : il ne teste pas un effet local mais la thèse globale de l’article, dont il constitue la première auto-application documentée. Sa structure expérimentale — cibles datées, critères de succès ou d’échec, journal de bord public — est donc portée par le tableau de bord en ligne plutôt que par une hypothèse numérotée dans le texte.
+Ce test ne permet pas, à lui seul, de mesurer « la capacité de la Corse » comme grandeur homogène. Il renseigne la capacité des acteurs engagés, dans un contexte donné, avec des ressources, dépendances, interlocuteurs et horizons déterminés. Les invariants éventuellement dégagés doivent être confrontés à d’autres cas avant toute généralisation territoriale.
 
-La démarche vise trois reconnaissances de nature distincte. Une candidature au Registre Mémoire du Monde de l’UNESCO pour la Constitution de novembre 1755, déposée via la Commission nationale française pour l’UNESCO, dans un horizon de dépôt en 2027 et d’examen en 2028 ou 2029. Une monographie académique commandée à un historien anglo-saxon de premier rang, financée sans contrôle éditorial sur le contenu, dans une presse universitaire de rang international. Une ou plusieurs mentions officielles dans des résolutions parlementaires étrangères, l’horizon le plus immédiat étant le Semiquincentennial américain de juillet 2026, suivi de cibles italiennes — langue de la Constitution —, britanniques — héritage Boswell — et européennes. L’horizon global est 2026-2030.
+**Lecture comparative candidate.** L’expérience paolienne de 1755-1769 peut être étudiée comme un cas dans lequel des capacités institutionnelles ont été effectivement exercées avant qu’existe une reconnaissance internationale stabilisée de l’ordre politique correspondant. Le processus constitutionnel contemporain présente une configuration différente : une évolution juridique vers davantage d’autonomie est actuellement en discussion, tandis que ses effets capacitaires réels ne pourront être appréciés qu’à mesure que seront connus puis appliqués le texte constitutionnel, le statut organique, les mécanismes de consultation et les pratiques institutionnelles qui en résulteront.
 
-Le portage est assuré par l’association C.O.R.S.I.C.A., fondée en 1995, et par l’Institut Mariani de recherche et développement. Un comité international d’historiens et de juristes, à majorité non corse, est constitué dans le courant de l’année 2026. Sa composition est destinée à garantir l’indépendance scientifique du dossier et à éviter qu’il soit perçu comme une initiative militante. Les démarches sont documentées publiquement à mesure de leur engagement, dans un journal de bord versionné et accessible en ligne, à l’adresse [`autonomia/1755.md`](autonomia/1755.md). Chaque sollicitation institutionnelle, chaque réponse, chaque refus et chaque silence prolongé y fait l’objet d’une consignation datée et d’une interprétation explicite quant à ce qu’il enseigne sur la capacité corse à mobiliser des institutions hors de son périmètre habituel. Ce journal n’est pas un sous-produit de communication. Dans la logique propre à cet article, il constitue le principal livrable scientifique de la démarche, parce qu’il rend mesurable, étape par étape, la grandeur que l’article cherche à définir.
+Cette comparaison est une grille d’enquête. Elle ne constitue ni une équivalence entre 1755 et 2026, ni une conclusion sur les effets futurs de la réforme.
 
-Cette démarche n’est pas en rivalité avec d’autres voies de reconnaissance internationale que portent aujourd’hui des acteurs politiques corses, notamment la demande d’inscription de la Corse sur la liste onusienne des territoires non autonomes à décoloniser, portée par le parti Nazione. Ces deux démarches ne s’adressent ni aux mêmes institutions, ni au même objet, ni avec les mêmes instruments juridiques. Elles ne sont pas substituables. La position retenue ici repose sur une conception de la démocratie comme pratique d’autodétermination distribuée sur tous les niveaux où elle s’exerce — citoyen, commune, vallée, coopérative, territoire, nation. La détermination de soi par soi est constitutive de la démocratie, à toutes ses échelles. L’autodétermination nationale est un cas légitime de cette grammaire générale ; elle n’en épuise ni le sens ni les usages. L’autonomie de capacité telle qu’elle est définie ici s’intéresse au principe lui-même, indépendamment du niveau institutionnel auquel il s’applique. Une démarche académique et patrimoniale conduite en 2026-2030 par une association privée et un institut de recherche constitue, à sa propre échelle, un acte d’autodétermination — au sens où elle détermine sans préavis institutionnel ce qu’elle entreprend, ce qu’elle documente et ce qu’elle rend public.
-
-L’auteur du présent texte est candidat aux élections sénatoriales de septembre 2026 en Haute-Corse. Cette information est déclarée ici par souci de transparence, mais elle n’est pas la condition de la démarche. La thèse défendue dans cet article — qu’un territoire augmente plus sûrement son autonomie par expérimentations vérifiables que par attente institutionnelle — implique son application par l’auteur lui-même. La démarche 1755 est conçue pour être conduite avec ou sans mandat. Son indépendance vis-à-vis de l’issue électorale n’est pas une concession de prudence : elle est la condition logique de la thèse. Si la théorie de l’autonomie de capacité ne se vérifiait que par un mandat préalable, alors elle serait fausse, parce qu’elle réintroduirait l’attente institutionnelle qu’elle prétend dépasser.
+Dans les termes de Jacques Rancière, la démarche #1755 peut également être interprétée comme une tentative de redistribution du sensible : rendre visible et discutable un objet historique insuffisamment intégré à certaines généalogies usuelles du constitutionnalisme moderne. Cette qualification relève d’une lecture philosophique ; elle ne remplace pas l’établissement historique des faits.
 
 ---
 
@@ -375,9 +375,9 @@ Hannah Arendt, dans *On Revolution* (1963), identifie ce qu’elle appelle un *t
 
 John Dewey, dans *The Public and Its Problems* (1927), formule une thèse complémentaire : la démocratie n’est pas un régime mais un *mode de vie associé*. Elle se vérifie dans la qualité des relations sociales, dans la disposition des acteurs à enquêter ensemble sur les problèmes communs, dans la circulation des informations et dans la capacité collective à corriger les expérimentations en cours. Cette conception déplace le critère de la démocratie : ce qui compte n’est pas seulement la procédure du suffrage, mais la pratique continue de la délibération informée. Le tableau de bord public des démarches expérimentales, prévu dans la méthode défendue ici, est une application directe de cette intuition deweyenne — rendre l’enquête commune au lieu de la confier à des experts ou à des représentants seuls.
 
-Jacques Rancière, dans *Le Maître ignorant* (1987), *La Mésentente* (1995) et *Le Partage du sensible* (2000), apporte deux contributions décisives pour le cadre proposé ici. La première est le principe d’égalité présupposée : on ne déduit pas l’égalité des intelligences d’une démonstration préalable, on la postule, et la pratique vient confirmer ce postulat. Appliqué à la capacité territoriale, cela signifie qu’on ne demande pas à un territoire de prouver sa compétence avant de lui permettre d’expérimenter ; on présuppose sa capacité, et l’expérimentation elle-même mesure ce qui a été présupposé. La seconde est la notion de *partage du sensible* : ce qui peut être vu, dit, entendu, compté dans un espace politique donné est l’enjeu primordial de toute politique. Une action politique, au sens fort, est une opération qui modifie ce partage — qui fait entrer dans le visible ce qui était ignoré, qui donne la parole à ce qui était silencieux. Rancière fait à ce titre une place centrale à l’art : non comme ornement de la politique, mais comme opération de redistribution du sensible qui rejoint l’opération politique sur son terrain le plus fondamental. La démarche académique et patrimoniale annoncée en §2.6 s’inscrit dans cette grammaire : faire reconnaître la République corse de 1755 dans la généalogie des démocraties modernes est, au-delà de l’acte de mémoire, une opération de redistribution du sensible démocratique.
+Jacques Rancière, dans *Le Maître ignorant* (1987), *La Mésentente* (1995) et *Le Partage du sensible* (2000), apporte deux contributions décisives pour le cadre proposé ici. La première est le principe d’égalité présupposée : on ne déduit pas l’égalité des intelligences d’une démonstration préalable, on la postule, et la pratique vient confirmer ce postulat. Appliqué à la capacité territoriale, cela signifie qu’on ne demande pas à un territoire de prouver sa compétence avant de lui permettre d’expérimenter ; on présuppose sa capacité, et l’expérimentation elle-même mesure ce qui a été présupposé. La seconde est la notion de *partage du sensible* : ce qui peut être vu, dit, entendu, compté dans un espace politique donné est l’enjeu primordial de toute politique. Une action politique, au sens fort, est une opération qui modifie ce partage — qui fait entrer dans le visible ce qui était ignoré, qui donne la parole à ce qui était silencieux. Rancière fait à ce titre une place centrale à l’art : non comme ornement de la politique, mais comme opération de redistribution du sensible qui rejoint l’opération politique sur son terrain le plus fondamental. La démarche académique et patrimoniale annoncée en §2.7 s’inscrit dans cette grammaire : faire reconnaître la République corse de 1755 dans la généalogie des démocraties modernes est, au-delà de l’acte de mémoire, une opération de redistribution du sensible démocratique.
 
-Ces quatre apports convergent vers une thèse forte : la démocratie est, par construction, l’exercice continu de l’autodétermination à toutes les échelles où elle peut être pratiquée. L’autodétermination ne se réduit pas à la souveraineté étatique ; elle est constitutive de la démocratie comme telle. La revendication d’une autodétermination nationale est un cas légitime de cette grammaire générale, qu’elle n’épuise ni ne hiérarchise. L’autonomie de capacité telle qu’elle est définie dans cet article est une application territoriale de cette tradition, à toutes les échelles intermédiaires où une collectivité peut se donner les moyens de pratiquer la détermination de soi par soi, indépendamment d’un préalable institutionnel et d’une autorisation extérieure. Le test prospectif annoncé en §2.6 en constitue la première application explicite et documentée.
+Ces quatre apports convergent vers une thèse forte : la démocratie est, par construction, l’exercice continu de l’autodétermination à toutes les échelles où elle peut être pratiquée. L’autodétermination ne se réduit pas à la souveraineté étatique ; elle est constitutive de la démocratie comme telle. La revendication d’une autodétermination nationale est un cas légitime de cette grammaire générale, qu’elle n’épuise ni ne hiérarchise. L’autonomie de capacité telle qu’elle est définie dans cet article est une application territoriale de cette tradition, à toutes les échelles intermédiaires où une collectivité peut se donner les moyens de pratiquer la détermination de soi par soi, indépendamment d’un préalable institutionnel et d’une autorisation extérieure. Le test prospectif annoncé en §2.7 en constitue la première application explicite et documentée.
 
 ---
 
@@ -417,6 +417,24 @@ Dire que la Corse a une langue n’est pas une capacité. La transmettre, l’en
 
 Dire que la Corse a un patrimoine n’est pas une capacité. Le conserver, le rendre intelligible, le financer, le transmettre et l’inscrire dans une économie locale est une capacité.
 
+## 5.2. Distribution multi-échelles et temps utile
+
+La capacité ne doit pas être attribuée indistinctement à un territoire comme s’il constituait un agent homogène. Toute affirmation capacitaire doit préciser, autant que nécessaire, **qui** devient capable de **faire quoi**, dans **quel contexte** et à **quel horizon**.
+
+Les sujets pertinents peuvent être des personnes, des familles, des associations, des entreprises, des communes, des institutions ou différents collectifs. Le territoire peut rester une unité utile d’analyse, à condition de ne pas masquer cette distribution interne.
+
+Une augmentation de capacité à une échelle ne constitue donc pas nécessairement une augmentation d’autonomie pour les sujets auxquels elle est supposée bénéficier. Un transfert de compétence de l’État vers une institution territoriale peut accroître la capacité de cette institution sans accroître automatiquement celle des communes, des organisations ou des habitants ; inversement, des capacités individuelles importantes peuvent rester difficilement composables dans une architecture collective incapable de les convertir en action commune.
+
+La capacité est également temporelle. Une ressource, un droit, une compétence ou un recours qui devient mobilisable après la fermeture de la période pendant laquelle l’action était encore possible peut conserver une existence formelle tout en ayant perdu son utilité pour le possible considéré.
+
+On appellera ici **fenêtre d’effectivité** l’intervalle pendant lequel une possibilité peut encore être convertie en capacité puis en action pour un sujet donné. Cette notion n’introduit pas une théorie distincte : elle constitue une application temporelle de la [Potentique territoriale](autonomia/potentique_territoriale.md).
+
+La question opératoire devient donc :
+
+> **Capacité de qui, à faire quoi, dans quel contexte, à quel moment, avec quelles dépendances et au prix de quelles éventuelles fermetures de possibles ?**
+
+Dans le présent texte, les formulations telles que « la Corse devient capable » constituent parfois une compression rédactionnelle. Elles doivent être décomposées dès que l’analyse l’exige en sujets effectivement concernés : habitants, communes, associations, entreprises, institutions ou autres collectifs.
+
 ---
 
 # 6. Méthode d’ingénierie territoriale
@@ -434,6 +452,8 @@ Cette cartographie doit distinguer ce qui existe, ce qui est disponible, ce qui 
 La seconde étape consiste à identifier les périodes de surcharge et de sous-utilisation : saison touristique, rentrée universitaire, périodes agricoles, pics d’eau, flux de déchets, pointes d’électricité, tensions de logement, crises administratives ou émotionnelles.
 
 Il ne s’agit pas seulement de constater la saisonnalité. Il faut comprendre qui la subit, qui en capte la valeur et quelles rigidités l’aggravent.
+
+Ces discontinuités doivent aussi être lues comme des **fenêtres d’effectivité** : une possibilité peut exister dans l’absolu mais cesser d’être utile à un sujet si les ressources, droits, décisions ou moyens nécessaires n’arrivent qu’après la fermeture du temps pendant lequel elle pouvait encore être actualisée. L’analyse doit donc conserver l’instant, l’horizon et les pertes d’option éventuelles, plutôt que de traiter la capacité comme une propriété intemporelle.
 
 ## 6.3. Formuler des hypothèses testables
 
@@ -726,6 +746,8 @@ Elle permet aussi de sortir de deux dépendances symétriques :
 - organiser la politique autour de la menace extérieure.
 
 Dans les deux cas, le centre du jeu reste hors du territoire. L’autonomie de capacité propose de commencer par ce qui peut être construit dans les communes, les vallées, les filières, les écoles, les patrimoines, les coopératives, les infrastructures, les services et les institutions locales.
+
+L’analyse inverse peut mobiliser, à titre de **modèle explicatif candidat**, la notion de *Machine à Empêcher* : une configuration dans laquelle des contraintes, parfois raisonnables isolément, se composent de manière à réduire les possibilités effectivement accessibles à certains sujets. Cette qualification ne présuppose ni intention hostile ni responsabilité unique. Elle demande au contraire de préciser quels possibles sont fermés, pour qui, dans quel horizon et avec quelles explications concurrentes. Son analyse détaillée relève de la [Potentique territoriale](autonomia/potentique_territoriale.md).
 
 ---
 
