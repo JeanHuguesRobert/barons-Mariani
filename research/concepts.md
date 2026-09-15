@@ -579,12 +579,13 @@ The faculty of a territory to convert its territorial capital — natural resour
 - Auto-institution démocratique (Castoriadis)
 
 **Reference documents:**
-- [`research/autonomia.md`](autonomia.md) (working paper, v0.12)
-- [`research/autonomia/1755.md`](autonomia/1755.md) (public test journal, §2.6)
+- [`research/autonomia.md`](autonomia.md) (working paper, v0.14)
+- [`research/autonomia/projet_1755.md`](autonomia/projet_1755.md) (source document, v0.14)
+- [`research/autonomia/1755.md`](autonomia/1755.md) (public capacity-test dashboard, v0.8)
 - [`research/gr20_autonomie_de_capacite.md`](gr20_autonomie_de_capacite.md)
 
 **Used in:**
-- Test 1755 — international recognition of the Corsican Republic (2026-2030 horizon)
+- Reality Test #1755 — situated actors document a historical object, seek independent examination and may obtain precisely qualified forms of recognition
 - senatorial campaign, Haute-Corse, September 2026
 
 ---
