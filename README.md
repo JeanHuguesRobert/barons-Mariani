@@ -195,17 +195,19 @@ MareNostrum est la couche stratégique.
 
 ### 🇫🇷 *Autonomia* — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse
 
-*Working paper v0.12 — concept central de la campagne sénatoriale.*
+*Working paper v0.14 — concept central de la campagne sénatoriale.*
 
 Propose la notion d'**autonomie de capacité** : la faculté d'un territoire à
 convertir son capital territorial en capacités collectives effectives,
-indépendamment du degré exact de souveraineté formelle. §2.6 annonce le **test
-1755** (reconnaissance internationale de la République corse), première
-auto-application publique, conduite avec ou sans mandat — condition logique de
-la thèse, non concession tactique. Le test 1755 dispose désormais d'un couple
-source/dérivé suivant la [méthode Cogentia Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md) :
-le document source `research/autonomia/projet_1755.md` (v0.13, dossier
-probatoire ouvert) et son tableau de bord public dérivé `research/autonomia/1755.md`.
+indépendamment du degré exact de souveraineté formelle. Le **Reality Test #1755**,
+décrit en §2.7, prend pour objet la place de la séquence corse 1729–1755 dans
+l'histoire du constitutionnalisme démocratique moderne. Il teste la capacité
+actuelle des acteurs qui le portent à produire un dossier vérifiable, à le faire
+examiner par des tiers et, éventuellement, à obtenir des formes de reconnaissance
+précisément qualifiées. Il ne mesure pas, à lui seul, « la capacité de la Corse »
+comme grandeur homogène. Le Projet #1755 s'appuie sur deux documents
+complémentaires : le document source `research/autonomia/projet_1755.md` (v0.14)
+et le tableau de bord public `research/autonomia/1755.md` (v0.8).
 
 L'enquête *Impunité par obscurité* — le cas corse comme révélateur d'un
 déficit d'imputabilité institutionnelle — prolonge le dossier autonomia
@@ -538,4 +540,3 @@ issus de Wikimedia Commons (licence propre). Le blason est issu de l'
 ---
 
 *Licence : CC BY-SA 4.0 (textes et données) — sauf éléments héraldiques (licence propre).*
-*Auteur : Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corse — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
