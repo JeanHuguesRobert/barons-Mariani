@@ -5,8 +5,8 @@ author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-15"
 updated: "2026-09-15"
-version: "0.1"
-status: "working-paper — observatory_v0.1"
+version: "0.2"
+status: "working-paper — observatory_v0.2"
 language: fr
 license: "CC BY-SA 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md"
@@ -39,6 +39,9 @@ classification_source: "explicit-metadata"
 classification_version: "1"
 classification_rule: "public-process-observatory"
 classification_confidence: "medium"
+changelog:
+  - "v0.1 (2026-09-15) — création de l’Observatoire public."
+  - "v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée."
 ---
 
 # Observatoire public du processus d’autonomie de la Corse
@@ -101,7 +104,14 @@ La [chronologie documentaire canonique](../chronologie_processus_beauvau_corse.m
 |---|---|---|---|
 | 21 octobre 2026 | Réunion de la commission des lois du Sénat pour établir son rapport | programmé | Première cristallisation sénatoriale du texte |
 | 23 octobre 2026, 12 h | Limite annoncée de dépôt des amendements de séance | programmé | Fermeture d’une fenêtre formelle d’amendement |
-| 26 octobre 2026 | Examen des amendements puis discussion en séance publique | programmé | Débat et éventuelle modification du texte transmis par l’Assemblée nationale |
+| 26 octobre 2026 | Examen des amendements de séance par la commission en début d’après-midi, puis discussion en séance publique | programmé | Débat et éventuelle modification du texte transmis par l’Assemblée nationale |
+
+**Vérification du 15 septembre 2026.** Le dossier législatif et l’ordre du jour du Sénat maintiennent cette séquence. Cette vérification constate l’état de l’agenda publié à cette date ; elle ne transforme pas un événement programmé en événement réalisé.
+
+Sources primaires :
+
+- Sénat — dossier législatif du projet de loi constitutionnelle n° 782 ;
+- Sénat — ordre du jour et organisation des travaux relatifs au texte n° 782.
 
 Ces dates doivent être revérifiées à chaque mise à jour : un agenda publié est une trace institutionnelle, non une garantie que l’événement se déroulera exactement comme prévu.
 
@@ -218,6 +228,8 @@ Sources spécialisées :
 
 **État documentaire au 15 septembre 2026.** Le dossier public documente une saisine préfectorale tendant au refus d’enregistrement et une audience du 14 septembre. Le présent Observatoire ne déduit pas de ce dossier, à lui seul, l’issue juridictionnelle du contentieux. Celle-ci doit être intégrée lorsqu’une trace publique ou une source primaire suffisante permet de l’établir.
 
+**Statut épistémique de l’issue du contentieux : `inconnu / non établi` dans la présente Carte.** Une représentation médiatique antérieure de la candidature ne suffit pas à établir son état juridique après l’intervention du juge.
+
 ## 3.3. Participation populaire future
 
 Si la rédaction actuelle survit, les électeurs inscrits en Corse doivent être consultés sur le projet de statut.
@@ -314,6 +326,12 @@ compréhension publique possible
 ```
 
 Le même principe vaut pour les termes `consultation`, `référendum`, `ratification`, `autonomie`, `pouvoir normatif`, `peuple`, `communauté` ou `souveraineté`.
+
+## 6.1. Première entrée du registre
+
+| Date | Média / source | Événement couvert | Formulation employée | Référentiel factuel / juridique | Écart ou limite | Correction / suite |
+|---|---|---|---|---|---|---|
+| 11 septembre 2026 | Alta Frequenza | Sénatoriales en Haute-Corse | Le média indique que « la préfecture a annoncé la présence de trois candidatures », présente Jean-Hugues Robert, « mieux connu sous le pseudonyme de Baron Mariani », comme troisième candidat et mentionne son rapprochement avec A Voce di a Natura Corsa | Situation médiatiquement rapportée au 11 septembre ; dossier spécialisé de candidature et dossier TA pour la suite procédurale | Cette trace établit une représentation publique datée, non l’état juridique définitif de la candidature après le contentieux ultérieur | Conserver la trace telle quelle ; compléter lorsque l’issue juridictionnelle ou l’état définitif d’enregistrement est établi par une source suffisante |
 
 ---
 
