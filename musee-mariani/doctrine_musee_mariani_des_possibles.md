@@ -1,34 +1,46 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/doctrine_musee_mariani_des_possibles.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Le Musée Mariani des Possibles"
-subtitle: "Pour une muséologie capacitaire"
-date: "2026-06-26"
-status: "draft"
-document_role: "source"
-document_kind: "museum-doctrine"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Le Musée Mariani des Possibles
+subtitle: Pour une muséologie capacitaire
+date: '2026-06-26'
+status: draft
+document_role: source
+document_kind: museum-doctrine
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/plan-museal.md"
-  - "musee-mariani/intention.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "research/concepts.md"
-  - "research/autonomia/grammaire_autonomie_de_capacite.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/uchronian_museum.md"
-  - "research/trace_epistemology.md"
-  - "research/second_method.md"
-  - "research/methode_terrains_feconds.md"
-  - "research/ubik_reality_dislocation.md"
-  - "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
-  - "research/kudos.md"
-  - "research/possibilism_04_2026.md"
-  - "research/applied_possibilism.md"
-  - "research/potentics.md"
+  - musee-mariani/plan-museal.md
+  - musee-mariani/intention.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - research/concepts.md
+  - research/autonomia/grammaire_autonomie_de_capacite.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/uchronian_museum.md
+  - research/trace_epistemology.md
+  - research/second_method.md
+  - research/methode_terrains_feconds.md
+  - research/ubik_reality_dislocation.md
+  - research/dongles_proprietaires_et_droit_a_la_remise_en_service.md
+  - research/kudos.md
+  - research/possibilism_04_2026.md
+  - research/applied_possibilism.md
+  - research/potentics.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le Musée Mariani des Possibles
 

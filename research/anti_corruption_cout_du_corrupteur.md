@@ -1,13 +1,13 @@
 ---
-title: "Principe anti-corruption — faire porter le coût sur le corrupteur"
-author: "Jean Hugues Noël Robert"
-date: "2026-08-13"
-status: "working_note"
-document_role: "source"
-visibility: "public"
+title: Principe anti-corruption — faire porter le coût sur le corrupteur
+author: Jean Hugues Noël Robert
+date: '2026-08-13'
+status: working_note
+document_role: source
+visibility: public
 related_documents:
-  - "research/theorie_des_jeux_corpus.md"
-  - "research/traceabilite_des_actes.md"
+  - research/theorie_des_jeux_corpus.md
+  - research/traceabilite_des_actes.md
 tags:
   - corruption
   - théorie des jeux
@@ -15,14 +15,28 @@ tags:
   - traçabilité
   - lanceurs d'alerte
   - anti-capture
-document_kind: "research-paper"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_document_role: "source-note"
+document_kind: research-paper
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_document_role: source-note
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Principe anti-corruption — faire porter le coût sur le corrupteur
 

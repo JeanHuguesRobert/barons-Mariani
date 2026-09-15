@@ -1,36 +1,39 @@
 ---
-title: "Act #1755-01 — Vérification archivistique du manuscrit de la Constitution corse de 1755"
-subtitle: "Premier Reality Test borné au format Corse Laboratoire"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-09"
-version: "0.1"
-status: "working-paper — planned, not executed"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "operational"
-document_kind: "reality-test-act"
-visibility: "public"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/act_1755_01_verification_manuscrit.md"
+title: 'Act #1755-01 — Vérification archivistique du manuscrit de la Constitution corse de 1755'
+subtitle: Premier Reality Test borné au format Corse Laboratoire
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-09-09'
+version: '0.1'
+status: working-paper — planned, not executed
+language: fr
+license: CC BY-SA 4.0
+document_role: operational
+document_kind: reality-test-act
+visibility: public
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/act_1755_01_verification_manuscrit.md
 provenance:
-  origin_type: "conversation"
-  origin_repository: "unknown"
-  origin_ref: "unknown"
-  origin_date: "2026-09-09"
+  origin_type: conversation
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: '2026-09-09'
   derived_from:
-    - "research/autonomia/projet_1755.md"
-    - "research/autonomia/1755.md"
-    - "research/autonomia.md"
-    - "atelier artifact: corse_laboratoire_v0.3_atelier.md (unpublished)"
+    - research/autonomia/projet_1755.md
+    - research/autonomia/1755.md
+    - research/autonomia.md
+    - 'atelier artifact: corse_laboratoire_v0.3_atelier.md (unpublished)'
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "operational-note"
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: operational-note
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
 ---
+
 
 # Act #1755-01
 

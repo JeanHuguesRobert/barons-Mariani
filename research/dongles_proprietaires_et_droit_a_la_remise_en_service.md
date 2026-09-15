@@ -1,15 +1,13 @@
 ---
-title: "Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels"
-subtitle: "Contribution à une doctrine juridique et technique de la réparabilité effective"
-version: "0.1"
-status: "working-paper — source document"
-date: "2026-06-10"
-author: "Jean Hugues Noël Robert"
-license: "CC BY 4.0"
-language: "fr"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
+title: 'Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels'
+subtitle: Contribution à une doctrine juridique et technique de la réparabilité effective
+version: '0.1'
+status: working-paper — source document
+date: '2026-06-10'
+author: Jean Hugues Noël Robert
+license: CC BY 4.0
+language: fr
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dongles_proprietaires_et_droit_a_la_remise_en_service.md
 tags:
   - reparabilite
   - droit-a-la-reparation
@@ -22,22 +20,34 @@ tags:
   - autonomie-de-capacite
   - design-in-the-open
 related_projects:
-  - "Barons Mariani"
-  - "Cogentia"
-  - "Inseme"
-  - "FractaVolta"
-  - "Ubikia"
+  - Barons Mariani
+  - Cogentia
+  - Inseme
+  - FractaVolta
+  - Ubikia
 ai_assisted_by:
-  - "ChatGPT"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - ChatGPT
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Dongles propriétaires perdus : pour un droit à la remise en service des périphériques fonctionnels
 

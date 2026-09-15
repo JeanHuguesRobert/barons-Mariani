@@ -1,70 +1,74 @@
 ---
-title: "DAO, imputabilité et DHITL"
-subtitle: "Pourquoi la blockchain trace l’exécution sans garantir la responsabilité"
-version: "v0.2-media-legal"
-status: "working-paper — academic source form, media/legal reinforced"
-document_role: "source"
+title: DAO, imputabilité et DHITL
+subtitle: Pourquoi la blockchain trace l’exécution sans garantir la responsabilité
+version: v0.2-media-legal
+status: working-paper — academic source form, media/legal reinforced
+document_role: source
 derived_from:
-  - "conversation ChatGPT — 2026-06-03"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "barons-Mariani/research/second_method.md"
-  - "FractaVolta/traceable_governance.md"
-  - "inseme/AGENTS.md"
-  - "inseme/packages/brique-kudocracy/src/governance.js"
-  - "review Grok — focus visibilité médiatique et recours juridiques"
-source_status: "source provisoire; à consolider par revue adversariale et annexe juridique comparative"
-document_family: "academic_source_form"
-author: "Jean Hugues Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY 4.0"
-method: "seconde méthode — objections first-class, claims tracés, continuation explicite, revue adversariale attendue"
-language: "fr"
-abstract_language: "en"
-date: "2026-06-03"
-last_stamped_at: 2026-06-03
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dao_imputabilite_dhitl.md"
-repository_candidate:
-  primary: "barons-Mariani"
-  secondary: "cogentia"
-  operational_links:
-    - "inseme"
-    - "FractaVolta"
-    - "marenostrum"
+  - conversation ChatGPT — 2026-06-03
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - barons-Mariani/research/second_method.md
+  - FractaVolta/traceable_governance.md
+  - inseme/AGENTS.md
+  - inseme/packages/brique-kudocracy/src/governance.js
+  - review Grok — focus visibilité médiatique et recours juridiques
+source_status: source provisoire; à consolider par revue adversariale et annexe juridique comparative
+document_family: academic_source_form
+author: Jean Hugues Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY 4.0
+method: seconde méthode — objections first-class, claims tracés, continuation explicite, revue adversariale attendue
+language: fr
+abstract_language: en
+date: '2026-06-03'
+last_stamped_at: 2026-06-03T00:00:00.000Z
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dao_imputabilite_dhitl.md
 related_concepts:
-  - "DAO"
-  - "blockchain"
-  - "smart contracts"
-  - "imputabilité"
-  - "traçabilité des actes"
-  - "DHITL"
-  - "souveraineté des vivants"
-  - "Kudocracy"
-  - "COP"
-  - "Cogentia"
-  - "legal wrappers"
-  - "revue adversariale"
-  - "gouvernance distribuée"
-  - "fractal traceability"
+  - DAO
+  - blockchain
+  - smart contracts
+  - imputabilité
+  - traçabilité des actes
+  - DHITL
+  - souveraineté des vivants
+  - Kudocracy
+  - COP
+  - Cogentia
+  - legal wrappers
+  - revue adversariale
+  - gouvernance distribuée
+  - fractal traceability
 related_documents:
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "barons-Mariani/research/second_method.md"
-  - "barons-Mariani/research/democratic_ai_safety.md"
-  - "barons-Mariani/research/kudocracy.md"
-  - "FractaVolta/traceable_governance.md"
-  - "inseme/AGENTS.md"
-  - "inseme/packages/brique-kudocracy/src/governance.js"
-process_visibility: "partial; improved through process companion file and issue-based review"
-continuation_status: "open"
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - barons-Mariani/research/second_method.md
+  - barons-Mariani/research/democratic_ai_safety.md
+  - barons-Mariani/research/kudocracy.md
+  - FractaVolta/traceable_governance.md
+  - inseme/AGENTS.md
+  - inseme/packages/brique-kudocracy/src/governance.js
+process_visibility: partial; improved through process companion file and issue-based review
+continuation_status: open
 human_validation_needed: true
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_document_role: "document source provisoire du corpus"
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_document_role: document source provisoire du corpus
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # DAO, imputabilité et DHITL
 

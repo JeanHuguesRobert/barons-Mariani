@@ -1,39 +1,37 @@
 ---
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-title: "État de droit assisté par ordinateur"
-subtitle: "Démocratie assistée, souveraineté, traçabilité des actes et anti-capture"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-09"
-status: "draft — source document, human validation required"
-version: "0.1-draft"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-path: "research/etat_de_droit_assiste_par_ordinateur.md"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+title: État de droit assisté par ordinateur
+subtitle: Démocratie assistée, souveraineté, traçabilité des actes et anti-capture
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-09'
+status: draft — source document, human validation required
+version: 0.1-draft
+license: CC BY-SA 4.0
+language: fr
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
 human_validation_required: true
 related_documents:
-  - "research/justice_divine_mandat_implicite.md"
-  - "research/invidia.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/mandated_fast_democracy.md"
-  - "research/la_democratie_spectaculaire.md"
-  - "FractaVolta/research/fractalog.md"
-  - "FractaVolta/research/traceable_governance.md"
-  - "inseme/research/cop_fractalog_profile.md"
+  - research/justice_divine_mandat_implicite.md
+  - research/invidia.md
+  - research/traceabilite_des_actes.md
+  - research/mandated_fast_democracy.md
+  - research/la_democratie_spectaculaire.md
+  - FractaVolta/research/fractalog.md
+  - FractaVolta/research/traceable_governance.md
+  - inseme/research/cop_fractalog_profile.md
 related_projects:
-  - "Cogentia"
-  - "Kudocracy"
-  - "FractaVolta"
-  - "Inseme"
-  - "Autonomie de Capacité"
+  - Cogentia
+  - Kudocracy
+  - FractaVolta
+  - Inseme
+  - Autonomie de Capacité
 tags:
   - etat-de-droit
   - democratie-assistee
@@ -47,7 +45,18 @@ tags:
   - accountability
   - recours
   - intentions
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # État de droit assisté par ordinateur
 

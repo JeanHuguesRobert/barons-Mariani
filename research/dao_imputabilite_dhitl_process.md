@@ -1,31 +1,42 @@
 ---
-title: "Process note — DAO, imputabilité et DHITL"
-subtitle: "Traçabilité de production du working paper DAO-DHITL"
-version: "v0.1-process-note"
-status: "working-note"
-corpus_role: "operational"
-document_role: "operational"
-related_document: "research/dao_imputabilite_dhitl.md"
-author: "Jean Hugues Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY 4.0"
-method: "seconde méthode — publish the process, objections first-class, continuation explicite"
-language: "fr"
-date: "2026-06-03"
-last_stamped_at: 2026-06-03
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dao_imputabilite_dhitl_process.md"
-process_visibility: "companion trace for dao_imputabilite_dhitl.md"
-continuation_status: "open"
+title: Process note — DAO, imputabilité et DHITL
+subtitle: Traçabilité de production du working paper DAO-DHITL
+version: v0.1-process-note
+status: working-note
+corpus_role: operational
+document_role: operational
+related_document: research/dao_imputabilite_dhitl.md
+author: Jean Hugues Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY 4.0
+method: seconde méthode — publish the process, objections first-class, continuation explicite
+language: fr
+date: '2026-06-03'
+last_stamped_at: 2026-06-03T00:00:00.000Z
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/dao_imputabilite_dhitl_process.md
+process_visibility: companion trace for dao_imputabilite_dhitl.md
+continuation_status: open
 human_validation_needed: true
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
-legacy_document_role: "note de process"
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+legacy_document_role: note de process
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Process note — `dao_imputabilite_dhitl.md` v0.1 → v0.2-media-legal
 

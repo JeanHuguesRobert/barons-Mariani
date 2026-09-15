@@ -1,40 +1,52 @@
 ---
-title: "Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse"
-subtitle: "Dossier décliné en formats 1, 2, 4, 8 et 16 pages"
-version: "0.2"
-author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte"
-date: "2026-05-28"
-updated_at: "2026-09-15"
-status: "transmitted — contribution écrite envoyée le 2026-05-28 et mentionnée dans le rapport n° 2865"
-transmission_status: "executed"
-transmission_date: "2026-05-28"
-parliamentary_status: "listed_as_written_contribution"
-parliamentary_report: "Assemblée nationale, rapport n° 2865, 2026-06-03"
-parliamentary_listing: "Association C.O.R.S.I.C.A. — Contributions écrites"
-causal_influence_on_text: "not established"
-repository_suggere: "JeanHuguesRobert/barons-Mariani"
-path_suggere: "research/autonomia/contribution_commission_lois_autonomie_capacite_v0_1.md"
-license: "CC BY-SA 4.0"
-ai_assistance: "Rédaction, structuration, condensation et déclinaisons préparées avec l'aide de ChatGPT, sous arbitrage humain de Jean Hugues Noël Robert."
+title: Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse
+subtitle: Dossier décliné en formats 1, 2, 4, 8 et 16 pages
+version: '0.2'
+author: Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A.
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte
+date: '2026-05-28'
+updated_at: '2026-09-15'
+status: transmitted — contribution écrite envoyée le 2026-05-28 et mentionnée dans le rapport n° 2865
+transmission_status: executed
+transmission_date: '2026-05-28'
+parliamentary_status: listed_as_written_contribution
+parliamentary_report: Assemblée nationale, rapport n° 2865, 2026-06-03
+parliamentary_listing: Association C.O.R.S.I.C.A. — Contributions écrites
+causal_influence_on_text: not established
+repository_suggere: JeanHuguesRobert/barons-Mariani
+path_suggere: research/autonomia/contribution_commission_lois_autonomie_capacite_v0_1.md
+license: CC BY-SA 4.0
+ai_assistance: Rédaction, structuration, condensation et déclinaisons préparées avec l'aide de ChatGPT, sous arbitrage humain de Jean Hugues Noël Robert.
 source_corpus:
-  - "barons-Mariani/research/autonomia.md"
-  - "barons-Mariani/research/note_synthetique_autonomie_capacite_corse.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "barons-Mariani/research/autonomia/atlas_paysage_politique_corse.md"
-  - "barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md"
-  - "cogentia/research/self_contained_documents.md"
+  - barons-Mariani/research/autonomia.md
+  - barons-Mariani/research/note_synthetique_autonomie_capacite_corse.md
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - barons-Mariani/research/autonomia/atlas_paysage_politique_corse.md
+  - barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md
+  - cogentia/research/self_contained_documents.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
-last_stamped_at: 2026-09-15
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-09-15T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Contribution écrite à la commission des Lois
 

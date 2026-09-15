@@ -1,19 +1,17 @@
 ---
-title: "Triangulation du Réel"
-subtitle: "Croiser des accès partiels, indépendants et hétérogènes pour construire une connaissance corrigible"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-06"
-version: "0.3"
-status: "working-note — explicititation of latent corpus principle"
+title: Triangulation du Réel
+subtitle: Croiser des accès partiels, indépendants et hétérogènes pour construire une connaissance corrigible
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-06'
+version: '0.3'
+status: working-note — explicititation of latent corpus principle
 language: fr
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 document_role: source
 document_kind: research-note
 visibility: public
 lifecycle_state: working
-repository: JeanHuguesRobert/barons-Mariani
-canonical_path: research/triangulation_du_reel.md
 related_documents:
   - research/le_reel_le_virtuel_et_l_actuel.md
   - research/realite_operationnelle_et_reflexivite.md
@@ -21,12 +19,34 @@ related_documents:
   - research/second_method.md
   - research/democratie_capable.md
   - research/reality_safety_procedural_stabilizers.md
-tags: [reel, epistemologie, triangulation, convergence, black-swan, recoupement, sources, traces, objectivite, faillibilisme, seconde-methode]
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+tags:
+  - reel
+  - epistemologie
+  - triangulation
+  - convergence
+  - black-swan
+  - recoupement
+  - sources
+  - traces
+  - objectivite
+  - faillibilisme
+  - seconde-methode
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Triangulation du Réel
 

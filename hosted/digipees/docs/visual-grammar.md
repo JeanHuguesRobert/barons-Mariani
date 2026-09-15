@@ -1,19 +1,17 @@
 ---
-title: "Digipees — visual grammar"
-subtitle: "Formalizing the graphic invariants of the recovered 2006 icon set before building any generator"
-version: "0.1"
+title: Digipees — visual grammar
+subtitle: Formalizing the graphic invariants of the recovered 2006 icon set before building any generator
+version: '0.1'
 status: source document / open working paper
-date: "2026-08-14"
-author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "hosted/digipees/docs/visual-grammar.md"
-theoretical_anchor: "hosted/digipees/originals/PROVENANCE.md"
-license: "CC BY-SA 4.0"
+date: '2026-08-14'
+author: Jean Hugues Noël Robert
+theoretical_anchor: hosted/digipees/originals/PROVENANCE.md
+license: CC BY-SA 4.0
 open_source: true
 non_profit: true
 commercial_purpose: false
-commons_orientation: "bien commun documentaire ouvert"
-language: "en"
+commons_orientation: bien commun documentaire ouvert
+language: en
 tags:
   - digipees
   - svg
@@ -23,8 +21,21 @@ tags:
 related_projects:
   - barons-Mariani
   - FractaVolta
-ai_assisted_by: [Claude]
+ai_assisted_by:
+  - Claude
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Digipees — visual grammar
 

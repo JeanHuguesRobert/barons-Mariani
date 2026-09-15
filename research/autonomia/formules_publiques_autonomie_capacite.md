@@ -1,36 +1,48 @@
 ---
-title: "Stock de formules publiques — Autonomie de Capacité"
-subtitle: "Bibliothèque de formules publiques, terrains rhétoriques et contre-formules pour Une Corse capable"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-27"
+title: Stock de formules publiques — Autonomie de Capacité
+subtitle: Bibliothèque de formules publiques, terrains rhétoriques et contre-formules pour Une Corse capable
+author: Jean Hugues Noël Robert
+date: '2026-05-27'
 status: working-paper — campaign / public rhetoric annex - working stock, not academic text
-version: "0.57-public-annex"
-x-type: "formula stock / campaign rhetoric annex"
-x-branch: "main"
+version: 0.57-public-annex
+x-type: formula stock / campaign rhetoric annex
+x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/formules_publiques_autonomie_capacite.md
-license: "CC BY-SA 4.0"
-x-source_file: "formules_publiques_v0.57-public-annex.md"
+license: CC BY-SA 4.0
+x-source_file: formules_publiques_v0.57-public-annex.md
 related_documents:
-  - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
-    path: "research/autonomia/atlas_paysage_politique_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md"
-  - title: "Grammaire générative de l’Autonomie de Capacité"
-    path: "research/autonomia/grammaire_autonomie_de_capacite.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md"
-  - title: "Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité"
-    path: "research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - title: Atlas du paysage politique et discursif corse — Une Corse capable
+    path: research/autonomia/atlas_paysage_politique_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
+  - title: Grammaire générative de l’Autonomie de Capacité
+    path: research/autonomia/grammaire_autonomie_de_capacite.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md
+  - title: Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité
+    path: research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 
 # Formules publiques — Traçabilité des actes

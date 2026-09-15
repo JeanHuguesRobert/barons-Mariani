@@ -1,19 +1,17 @@
 ---
-title: "Digipees — provenance and rights"
-subtitle: "The October 2007 d2lab release agreement, the 2018 recovery, and the licensing path for historical and derived work"
-version: "0.2"
+title: Digipees — provenance and rights
+subtitle: The October 2007 d2lab release agreement, the 2018 recovery, and the licensing path for historical and derived work
+version: '0.2'
 status: source document / rights record
-date: "2026-08-14"
-author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "hosted/digipees/docs/provenance-and-rights.md"
-theoretical_anchor: "hosted/digipees/originals/PROVENANCE.md"
-license: "CC BY-SA 4.0"
+date: '2026-08-14'
+author: Jean Hugues Noël Robert
+theoretical_anchor: hosted/digipees/originals/PROVENANCE.md
+license: CC BY-SA 4.0
 open_source: true
 non_profit: true
 commercial_purpose: false
-commons_orientation: "bien commun documentaire ouvert"
-language: "en"
+commons_orientation: bien commun documentaire ouvert
+language: en
 tags:
   - digipees
   - provenance
@@ -23,8 +21,21 @@ tags:
 related_projects:
   - barons-Mariani
   - FractaVolta
-ai_assisted_by: [Claude]
+ai_assisted_by:
+  - Claude
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Digipees — provenance and rights
 

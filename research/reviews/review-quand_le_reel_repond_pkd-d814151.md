@@ -1,26 +1,38 @@
 ---
-title: "Review of Quand le Réel répond (v0.4 / d814151)"
-subtitle: "Second decorrelated review under cogentia/prompts/reviewer.md v0.5"
-author: "Grok 4.6 (xAI), acting as Reviewer"
-target: "JeanHuguesRobert/barons-Mariani/research/quand_le_reel_repond_pkd.md"
-target_ref: "d814151ac22120d6a5bf6c5b9e83031205cc9428"
-target_version: "0.4"
-prior_review: "C1 review of dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a"
-review_contract: "cogentia/prompts/reviewer.md v0.5"
-date: "2026-09-03"
-language: "en"
-document_role: "source"
-status: "review — non-decisional"
-license: "CC BY-SA 4.0"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_document_role: "critique"
+title: Review of Quand le Réel répond (v0.4 / d814151)
+subtitle: Second decorrelated review under cogentia/prompts/reviewer.md v0.5
+author: Grok 4.6 (xAI), acting as Reviewer
+target: JeanHuguesRobert/barons-Mariani/research/quand_le_reel_repond_pkd.md
+target_ref: d814151ac22120d6a5bf6c5b9e83031205cc9428
+target_version: '0.4'
+prior_review: C1 review of dbb57ebc9e3d7904d72aa80bb82124cea66dcc1a
+review_contract: cogentia/prompts/reviewer.md v0.5
+date: '2026-09-03'
+language: en
+document_role: source
+status: review — non-decisional
+license: CC BY-SA 4.0
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_document_role: critique
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Review — *Quand le Réel répond* (v0.4)
 

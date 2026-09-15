@@ -1,21 +1,33 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/uchronian_museum.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-07-08
-title: "Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires"
-date: "2026-04-06"
-status: "draft — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-07-08T00:00:00.000Z
+title: Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires
+date: '2026-04-06'
+status: draft — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # Le Musée uchronique comme dispositif d’inférence historique appliqué aux territoires insulaires
 
 ## Étude de cas : hypothèse napoléonienne en Corse (Minesteggio, Corte)

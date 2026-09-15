@@ -1,32 +1,34 @@
 ---
-title: "Suicide Corse — journaux de campagne"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-07"
-status: "working-paper"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "journal-index"
-visibility: "public"
-lifecycle_state: "working"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/journals/README.md"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Suicide Corse — journaux de campagne
+author: Jean Hugues Noël Robert
+date: '2026-09-07'
+status: working-paper
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: journal-index
+visibility: public
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/journals/README.md
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "generated"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "unknown"
-  origin_date: "2026-09-07"
+  origin_type: generated
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-09-07'
   derived_from:
-    - "GitHub issue #44"
+    - 'GitHub issue #44'
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "source-index"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: source-index
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Journaux de campagne
 

@@ -1,44 +1,42 @@
 ---
-title: "The Booster Principle"
-subtitle: "Small interventions, fertile grounds, and disproportionate openings of The Possible"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-10"
-version: "0.2"
-status: "working-note — source doctrine"
-document_role: "source"
-document_kind: "doctrinal-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/booster_principle.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/booster_principle.md"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: The Booster Principle
+subtitle: Small interventions, fertile grounds, and disproportionate openings of The Possible
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-10'
+version: '0.2'
+status: working-note — source doctrine
+document_role: source
+document_kind: doctrinal-note
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/booster_principle.md
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R63"
-  origin_date: "2026-08-10"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R63
+  origin_date: '2026-08-10'
   derived_from:
-    - "research/possibilism_04_2026.md"
-    - "research/applied_possibilism.md"
-    - "research/methode_terrains_feconds.md"
-    - "research/rational_odysseys_the_possible.md"
+    - research/possibilism_04_2026.md
+    - research/applied_possibilism.md
+    - research/methode_terrains_feconds.md
+    - research/rational_odysseys_the_possible.md
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 related_documents:
-  - "research/possibilism_04_2026.md"
-  - "research/applied_possibilism.md"
-  - "research/methode_terrains_feconds.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/potentics.md"
-  - "research/le_reel_le_virtuel_et_l_actuel.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md"
+  - research/possibilism_04_2026.md
+  - research/applied_possibilism.md
+  - research/methode_terrains_feconds.md
+  - research/rational_odysseys_the_possible.md
+  - research/potentics.md
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/the_network_is_the_learning_computer.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md
 tags:
   - booster
   - possibilism
@@ -51,11 +49,12 @@ tags:
   - optimistic-locking
   - niche-construction
   - capability-routing
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # The Booster Principle
 

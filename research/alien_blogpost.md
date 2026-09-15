@@ -1,42 +1,53 @@
 ---
-title: "Alien, l’IA et les intelligences xénoformes"
-subtitle: "Pourquoi nous comprenons mal les intelligences qui ne nous ressemblent pas"
-version: "v0.2"
+title: Alien, l’IA et les intelligences xénoformes
+subtitle: Pourquoi nous comprenons mal les intelligences qui ne nous ressemblent pas
+version: v0.2
 status: working-paper — blog derived form
-document_role: "source"
-publication_target: "Les carnets du baron Mariani"
+document_role: source
+publication_target: Les carnets du baron Mariani
 derived_from:
-  - "alien_academic_v0.7.md"
-  - "future xenoform_intelligence_source.md"
-author: "Jean Hugues Robert"
-license: "CC BY 4.0"
-language: "fr"
-document_family: "derived_public_blogpost"
+  - alien_academic_v0.7.md
+  - future xenoform_intelligence_source.md
+author: Jean Hugues Robert
+license: CC BY 4.0
+language: fr
+document_family: derived_public_blogpost
 related_concepts:
-  - "intelligence xénoforme"
-  - "mauvaise calibration métacognitive"
-  - "AI Safety post-anthropocentrique"
-  - "souveraineté des vivants"
-  - "dépendance architecturale"
-  - "capture cognitive"
-  - "Cogentia"
-  - "DHITL"
-  - "Kudocracy"
-continuation_status: "open"
-revision_note: "v0.2 corrige la continuation et ajoute un renvoi explicite vers la grille académique."
+  - intelligence xénoforme
+  - mauvaise calibration métacognitive
+  - AI Safety post-anthropocentrique
+  - souveraineté des vivants
+  - dépendance architecturale
+  - capture cognitive
+  - Cogentia
+  - DHITL
+  - Kudocracy
+continuation_status: open
+revision_note: v0.2 corrige la continuation et ajoute un renvoi explicite vers la grille académique.
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_blogpost.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-date: "2026-05-25"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_document_role: "forme déclinée pour Substack"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-25'
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_document_role: forme déclinée pour Substack
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Alien, l’IA et les intelligences xénoformes
 

@@ -1,33 +1,33 @@
 ---
-title: "JHN Architecture"
-subtitle: "Normative definition of a packet/continuation computational architecture"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-14"
-last_modified_at: "2026-08-25"
-status: "working architecture specification"
-version: "0.3"
-license: "CC BY-SA 4.0"
-language: "en"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/jhn_architecture.md"
-document_role: "source"
-document_kind: "architecture-specification"
-visibility: "public"
-lifecycle_state: "working"
+title: JHN Architecture
+subtitle: Normative definition of a packet/continuation computational architecture
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-14'
+last_modified_at: '2026-08-25'
+status: working architecture specification
+version: '0.3'
+license: CC BY-SA 4.0
+language: en
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/jhn_architecture.md
+document_role: source
+document_kind: architecture-specification
+visibility: public
+lifecycle_state: working
 ai_assisted_by:
-  - "GPT-5.6 Sol — normative refactoring"
+  - GPT-5.6 Sol — normative refactoring
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-update_policy: "UP-DESIRED-PRESENT"
+update_policy: UP-DESIRED-PRESENT
 related_documents:
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md"
-  - "research/jhn_architecture_packet_closure_addendum.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
-  - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Architecture.md"
+  - research/the_network_is_the_learning_computer.md
+  - research/the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md
+  - research/jhn_architecture_packet_closure_addendum.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md
+  - https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Architecture.md
 tags:
   - jhn-architecture
   - architecture-specification
@@ -36,16 +36,23 @@ tags:
   - continuations
   - packet-closure
   - distributed-computing
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "architecture-specification"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: architecture-specification
+classification_confidence: medium
 changelog:
-  - "v0.1 (2026-08-14) — initial architectural working note."
-  - "v0.2 (2026-08-14) — corrected frontmatter and review state."
-  - "v0.3 (2026-08-25) — refactored into a short normative conformance specification; historical rationale, prior-art discussion, implementation motivation and research program migrated toward The Network is the Learning Computer."
-  - "v0.4 (2026-09-04) — bidirectional integration with the Learning Computer genesis and architecture essay (Trace-Centric ontology, dynamic reasoning hops, and FractaCognition)."
+  - v0.1 (2026-08-14) — initial architectural working note.
+  - v0.2 (2026-08-14) — corrected frontmatter and review state.
+  - v0.3 (2026-08-25) — refactored into a short normative conformance specification; historical rationale, prior-art discussion, implementation motivation and research program migrated toward The Network is the Learning Computer.
+  - v0.4 (2026-09-04) — bidirectional integration with the Learning Computer genesis and architecture essay (Trace-Centric ontology, dynamic reasoning hops, and FractaCognition).
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # JHN Architecture
 

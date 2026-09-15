@@ -1,40 +1,38 @@
 ---
-title: "Réalité opérationnelle et réflexivité"
-subtitle: "Agir comme si, témoigner, expérimenter et laisser les cartes modifier le territoire"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-10"
-version: "0.2"
-status: "working-note — source"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/realite_operationnelle_et_reflexivite.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/realite_operationnelle_et_reflexivite.md"
+title: Réalité opérationnelle et réflexivité
+subtitle: Agir comme si, témoigner, expérimenter et laisser les cartes modifier le territoire
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-10'
+version: '0.2'
+status: working-note — source
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/realite_operationnelle_et_reflexivite.md
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R65"
-  origin_date: "2026-08-10"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R65
+  origin_date: '2026-08-10'
   derived_from:
-    - "research/le_reel_le_virtuel_et_l_actuel.md"
-    - "research/reality_safety_procedural_stabilizers.md"
-    - "research/traceabilite_des_actes.md"
+    - research/le_reel_le_virtuel_et_l_actuel.md
+    - research/reality_safety_procedural_stabilizers.md
+    - research/traceabilite_des_actes.md
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 related_documents:
-  - "research/le_reel_le_virtuel_et_l_actuel.md"
-  - "research/reality_safety_procedural_stabilizers.md"
-  - "research/possibilism_04_2026.md"
-  - "research/potentics.md"
-  - "research/theorie_des_jeux_corpus.md"
-  - "research/triangulation_du_reel.md"
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/reality_safety_procedural_stabilizers.md
+  - research/possibilism_04_2026.md
+  - research/potentics.md
+  - research/theorie_des_jeux_corpus.md
+  - research/triangulation_du_reel.md
 tags:
   - reel
   - realite-operationnelle
@@ -45,11 +43,12 @@ tags:
   - potentics
   - experimentation
   - triangulation
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # Réalité opérationnelle et réflexivité
 

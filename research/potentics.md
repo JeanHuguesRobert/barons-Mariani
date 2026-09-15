@@ -1,32 +1,44 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/potentics.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-09-05
-last_modified_at: "2026-09-15"
-title: "What is Potentics?"
-date: "2026-05-09"
-status: "draft — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "high"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-09-05T00:00:00.000Z
+last_modified_at: '2026-09-15'
+title: What is Potentics?
+date: '2026-05-09'
+status: draft — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: high
 related_documents:
-  - "research/potentics_of_compute.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "cogentia/research/learning_computer_genese_et_architecture.md"
-  - "research/principe_rossignol.md"
+  - research/potentics_of_compute.md
+  - research/the_network_is_the_learning_computer.md
+  - cogentia/research/learning_computer_genese_et_architecture.md
+  - research/principe_rossignol.md
 changelog:
-  - "2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated."
-  - "2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map' exploration loop (§1.4)."
-  - "2026-09-05 — propagation Issue #55: integrated computational potentics (§3.1, §3.3.1, §3.5.1, §7.2): Compute dimension (chi), collective achievable capacity C_collective(T), RAIX array gain G_RAIX(T) as empirical measure of the Spirit of Synthesis, policy learning, and link to potentics_of_compute.md v0.4 and learning_computer_genese_et_architecture.md."
-  - "2026-09-15 — added a bounded exploratory cosmological hypothesis, The Universe is a Networked Learning Computer (§8.2.1), explicitly non-required by Potentics and non-established, with falsifiability as the scientific gate."
+  - '2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated.'
+  - '2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map'' exploration loop (§1.4).'
+  - '2026-09-05 — propagation Issue #55: integrated computational potentics (§3.1, §3.3.1, §3.5.1, §7.2): Compute dimension (chi), collective achievable capacity C_collective(T), RAIX array gain G_RAIX(T) as empirical measure of the Spirit of Synthesis, policy learning, and link to potentics_of_compute.md v0.4 and learning_computer_genese_et_architecture.md.'
+  - 2026-09-15 — added a bounded exploratory cosmological hypothesis, The Universe is a Networked Learning Computer (§8.2.1), explicitly non-required by Potentics and non-established, with falsifiability as the scientific gate.
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # What is Potentics?
 
 ## Toward a Science of the Possible

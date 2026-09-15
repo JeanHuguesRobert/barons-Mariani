@@ -1,23 +1,23 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/exploration_rationnelle_des_possibles.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Explorer les possibles pour ne pas les regretter"
-subtitle: "Uchronie, Musée des Possibles et méthode rationnelle contre les futurs manqués"
-date: "2026-07-08"
-status: "draft"
-document_role: "source"
-document_kind: "methodological-bridge"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Explorer les possibles pour ne pas les regretter
+subtitle: Uchronie, Musée des Possibles et méthode rationnelle contre les futurs manqués
+date: '2026-07-08'
+status: draft
+document_role: source
+document_kind: methodological-bridge
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/articulation_musee_uchronique.md"
-  - "research/uchronian_museum.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "research/logique_capacitaire_jhr_forth_linkos_fractanet.md"
-  - "agents-jhn/README.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/articulation_musee_uchronique.md
+  - research/uchronian_museum.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - research/logique_capacitaire_jhr_forth_linkos_fractanet.md
+  - agents-jhn/README.md
 tags:
   - musee-des-possibles
   - uchronie
@@ -25,12 +25,24 @@ tags:
   - possibilisme
   - capacitaire
   - futurs-manques
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
-legacy_document_role: "method"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+legacy_document_role: method
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Explorer les possibles pour ne pas les regretter
 

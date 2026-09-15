@@ -1,30 +1,39 @@
 ---
-title: "De l’ordre juste à la Traçabilité des actes"
-subtitle: "Généalogie de SimpliWiki, Kudocracy, COP et du Stabilisateur procédural"
-version: "0.1"
-date: "2026-09-15"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-status: "working note — généalogie corrigible"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "derived"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/genealogie_ordre_transparence_traceabilite.md"
+title: De l’ordre juste à la Traçabilité des actes
+subtitle: Généalogie de SimpliWiki, Kudocracy, COP et du Stabilisateur procédural
+version: '0.1'
+date: '2026-09-15'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working note — généalogie corrigible
+language: fr
+license: CC BY-SA 4.0
+document_role: derived
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/traceabilite_des_actes.md"
-  - "research/debord_stabilisateur_procedural.md"
-  - "research/reality_safety_procedural_stabilizers.md"
-  - "research/le_reel_le_virtuel_et_l_actuel.md"
-  - "research/kudocracy.md"
+  - research/traceabilite_des_actes.md
+  - research/debord_stabilisateur_procedural.md
+  - research/reality_safety_procedural_stabilizers.md
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/kudocracy.md
 external_repositories:
-  - "JeanHuguesRobert/simpli"
-  - "virteal/kudocracy"
-  - "JeanHuguesRobert/inseme"
+  - JeanHuguesRobert/simpli
+  - virteal/kudocracy
+  - JeanHuguesRobert/inseme
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # De l’ordre juste à la Traçabilité des actes
 

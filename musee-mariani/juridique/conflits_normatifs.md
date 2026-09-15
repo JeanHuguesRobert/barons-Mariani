@@ -1,22 +1,34 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/juridique/conflits_normatifs.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Conflits normatifs"
-subtitle: "Documenter comment des règles légitimes produisent une impossibilité"
-date: "2026-06-27"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "legal-doctrine"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Conflits normatifs
+subtitle: Documenter comment des règles légitimes produisent une impossibilité
+date: '2026-06-27'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: legal-doctrine
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/juridique/demander_au_juge.md"
-  - "musee-mariani/methodes/indice_friction_administrative.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/juridique/demander_au_juge.md
+  - musee-mariani/methodes/indice_friction_administrative.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Conflits normatifs
 

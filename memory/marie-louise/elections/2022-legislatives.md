@@ -1,30 +1,36 @@
 ---
-title: "Marie-Louise — législatives 2022, première candidature titulaire documentée"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-status: "working"
-language: "fr"
-document_role: "source-note"
-document_kind: "chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — législatives 2022, première candidature titulaire documentée
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+status: working
+language: fr
+document_role: source-note
+document_kind: chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "personal-archive"
+  origin_type: personal-archive
   derived_from:
-    - "Gmail:180d787a0e7c30ed"
-    - "Gmail:180d7f0a3edb97bf"
-    - "Gmail:180e7ca6b82ec663"
-    - "Gmail:180f04b6fe5ca4f6"
-    - "Gmail:180f15fd3f5d1641"
-    - "Gmail:180f64276744097a"
-    - "Gmail:180fa90564f8d27f"
-    - "Gmail:180fab09c8c1c088"
-    - "Ministère de l'Intérieur — résultats législatives 2022, 2B-02"
+    - Gmail:180d787a0e7c30ed
+    - Gmail:180d7f0a3edb97bf
+    - Gmail:180e7ca6b82ec663
+    - Gmail:180f04b6fe5ca4f6
+    - Gmail:180f15fd3f5d1641
+    - Gmail:180f64276744097a
+    - Gmail:180fa90564f8d27f
+    - Gmail:180fab09c8c1c088
+    - Ministère de l'Intérieur — résultats législatives 2022, 2B-02
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Législatives 2022 — Marie-Louise devient candidate titulaire
 

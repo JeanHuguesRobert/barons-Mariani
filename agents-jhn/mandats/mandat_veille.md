@@ -1,18 +1,31 @@
 ---
-title: "Mandat de veille — Agents JHN"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-status: "draft"
-document_role: "template"
-document_kind: "agent-mandate"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Mandat de veille — Agents JHN
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-08'
+status: draft
+document_role: template
+document_kind: agent-mandate
+visibility: public
 tags:
   - agents-jhn
   - mandat
   - veille
   - surveillance
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Mandat de veille — Agents JHN
 

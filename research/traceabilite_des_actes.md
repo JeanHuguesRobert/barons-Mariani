@@ -1,23 +1,23 @@
 ---
-title: "Traçabilité des actes"
-subtitle: "Mandat, imputabilité et contrôle des actes engageants dans les régimes humains, institutionnels et algorithmiques"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-27"
+title: Traçabilité des actes
+subtitle: Mandat, imputabilité et contrôle des actes engageants dans les régimes humains, institutionnels et algorithmiques
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-05-27'
 status: working-paper — operational research version validated after reviewer critique
-version: "0.15.1-research"
-license: "CC BY-SA 4.0"
+version: 0.15.1-research
+license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md
 ai_assisted_by:
-  - "ChatGPT — drafting, restructuring, consolidation"
+  - ChatGPT — drafting, restructuring, consolidation
 reviewed_by:
-  - "Grok — external AI reviewer / critic"
-human_arbitration_by: "Jean Hugues Noël Robert"
+  - Grok — external AI reviewer / critic
+human_arbitration_by: Jean Hugues Noël Robert
 x-method:
-  - "seconde méthode"
-  - "pipeline Cogentia"
-  - "document autoporteur"
-  - "genre separation"
+  - seconde méthode
+  - pipeline Cogentia
+  - document autoporteur
+  - genre separation
 tags:
   - traçabilité
   - imputabilité
@@ -31,26 +31,38 @@ tags:
   - sécurité démocratique de l’IA
   - Autonomie de Capacité
 related_projects:
-  - "Cogentia"
-  - "Kudocracy"
-  - "Inseme / brique-actes"
-  - "Cogentia Commons"
-  - "DHITL"
+  - Cogentia
+  - Kudocracy
+  - Inseme / brique-actes
+  - Cogentia Commons
+  - DHITL
 version_history:
-  - "v0.13 — consolidated version submitted to Grok"
-  - "v0.14-research — genre separation; campaign formulas moved to separate annex"
-  - "v0.15-research — operational revision after Grok review, with clearer thresholds and concrete YAML examples"
-  - "v0.15.1-research — micro-amendment: reviewer role clarified, no v0.16-research needed before publication"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - v0.13 — consolidated version submitted to Grok
+  - v0.14-research — genre separation; campaign formulas moved to separate annex
+  - v0.15-research — operational revision after Grok review, with clearer thresholds and concrete YAML examples
+  - 'v0.15.1-research — micro-amendment: reviewer role clarified, no v0.16-research needed before publication'
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Traçabilité des actes
 

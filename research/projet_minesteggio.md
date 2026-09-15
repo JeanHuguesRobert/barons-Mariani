@@ -1,30 +1,41 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/projet_minesteggio.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-last_modified_at: 2026-09-12
-title: "**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**"
-date: "2026-04-19"
-version: "1.1-fixbugsfirst"
-status: "draft — working; genealogy corrected against canonical index"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+last_modified_at: 2026-09-12T00:00:00.000Z
+title: '**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**'
+date: '2026-04-19'
+version: 1.1-fixbugsfirst
+status: draft — working; genealogy corrected against canonical index
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
 related_documents:
-  - "musee-mariani/personnes/README.md"
-  - "musee-mariani/methodes/notices_famille_etendue.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "research/relevement_nom_dangelis.md"
-  - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/64"
+  - musee-mariani/personnes/README.md
+  - musee-mariani/methodes/notices_famille_etendue.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - research/relevement_nom_dangelis.md
+  - https://github.com/JeanHuguesRobert/barons-Mariani/issues/64
+language: fr
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # **Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**
 *Un dispositif de convergence entre histoire, mémoire et projection sociale*

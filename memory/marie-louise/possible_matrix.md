@@ -1,41 +1,45 @@
 ---
-title: "Marie-Louise — matrice longitudinale des possibles"
-subtitle: "Ouvertures, maintiens, frictions, fermetures, réouvertures et charges — v0.2"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-last_modified_at: "2026-09-09"
-version: "0.2"
-update_policy: "UP-DEFAULT-REVIEWED"
-language: "fr"
-document_role: "derived"
-document_kind: "longitudinal-reality-case"
-visibility: "public"
-lifecycle_state: "working"
+title: Marie-Louise — matrice longitudinale des possibles
+subtitle: Ouvertures, maintiens, frictions, fermetures, réouvertures et charges — v0.2
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+last_modified_at: '2026-09-09'
+version: '0.2'
+update_policy: UP-DEFAULT-REVIEWED
+language: fr
+document_role: derived
+document_kind: longitudinal-reality-case
+visibility: public
+lifecycle_state: working
 derived_from:
-  - "memory/marie-louise/carte.md v0.6"
-  - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
-  - "memory/marie-louise/elections/"
-  - "memory/marie-louise/elections-2024-complaints.md"
-  - "research/protection_responsable.md"
-  - "GitHub issue #47"
+  - memory/marie-louise/carte.md v0.6
+  - memory/marie-louise/formation/parcours_artistique_2016_2022.md
+  - memory/marie-louise/elections/
+  - memory/marie-louise/elections-2024-complaints.md
+  - research/protection_responsable.md
+  - 'GitHub issue #47'
 provenance:
-  origin_type: "repository"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "a6fb15757b3da4f4c3e20baef157d3561c33b8b6"
-  origin_date: "2026-09-08"
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: a6fb15757b3da4f4c3e20baef157d3561c33b8b6
+  origin_date: '2026-09-08'
   derived_from:
-    - "memory/marie-louise/carte.md"
-    - "memory/marie-louise/formation/parcours_artistique_2016_2022.md"
-    - "memory/marie-louise/elections/"
+    - memory/marie-louise/carte.md
+    - memory/marie-louise/formation/parcours_artistique_2016_2022.md
+    - memory/marie-louise/elections/
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
-legacy_document_role: "research-matrix"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+legacy_document_role: research-matrix
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # Marie-Louise — matrice longitudinale des possibles
 

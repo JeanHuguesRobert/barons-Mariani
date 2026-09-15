@@ -1,41 +1,39 @@
 ---
-title: "Joie, jeu et accroissement de capacité"
-subtitle: "Pourquoi l'exploration joyeuse du Possible peut être comprise comme une dynamique d'ouverture"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-10"
-version: "0.1"
-status: "working-note — source"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/joie_jeu_capacite.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/joie_jeu_capacite.md"
+title: Joie, jeu et accroissement de capacité
+subtitle: Pourquoi l'exploration joyeuse du Possible peut être comprise comme une dynamique d'ouverture
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-10'
+version: '0.1'
+status: working-note — source
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/joie_jeu_capacite.md
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R65"
-  origin_date: "2026-08-10"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R65
+  origin_date: '2026-08-10'
   derived_from:
-    - "research/applied_possibilism.md"
-    - "research/theorie_des_jeux_corpus.md"
-    - "research/possibilism_04_2026.md"
-    - "research/noyau_doctrinal_rendre_capable.md"
+    - research/applied_possibilism.md
+    - research/theorie_des_jeux_corpus.md
+    - research/possibilism_04_2026.md
+    - research/noyau_doctrinal_rendre_capable.md
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 related_documents:
-  - "research/applied_possibilism.md"
-  - "research/theorie_des_jeux_corpus.md"
-  - "research/possibilism_04_2026.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/booster_principle.md"
-  - "research/realite_operationnelle_et_reflexivite.md"
+  - research/applied_possibilism.md
+  - research/theorie_des_jeux_corpus.md
+  - research/possibilism_04_2026.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/booster_principle.md
+  - research/realite_operationnelle_et_reflexivite.md
 tags:
   - joie
   - jeu
@@ -45,11 +43,12 @@ tags:
   - exploration
   - booster
   - realite-operationnelle
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # Joie, jeu et accroissement de capacité
 

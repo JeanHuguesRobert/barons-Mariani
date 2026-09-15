@@ -1,13 +1,13 @@
 ---
-title: "D’Ophéline à Ophélia — genèse d’une représentation civique artificielle"
-author: "Jean Hugues Noël Robert"
-date: "2026-08-27"
-document_role: "source"
-document_kind: "historical-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "fr"
-source_status: "mixed-primary-and-retrospective"
+title: D’Ophéline à Ophélia — genèse d’une représentation civique artificielle
+author: Jean Hugues Noël Robert
+date: '2026-08-27'
+document_role: source
+document_kind: historical-note
+visibility: public
+lifecycle_state: working
+language: fr
+source_status: mixed-primary-and-retrospective
 related_repositories:
   - JeanHuguesRobert/pertitellu
   - JeanHuguesRobert/cogentia
@@ -19,12 +19,26 @@ related_topics:
   - digital twin
   - représentation artificielle
   - autonomie de capacité
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "trace"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: trace
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+status: working-paper
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # D’Ophéline à Ophélia — genèse d’une représentation civique artificielle
 

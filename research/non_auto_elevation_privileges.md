@@ -1,38 +1,49 @@
 ---
-title: "Principe de non-auto-élévation des privilèges"
-subtitle: "Sécurité des agents, souveraineté effective et mandats express"
-author: "Jean Hugues Noël Robert"
-status: "document source — doctrinal — politique — sécurité"
-version: "0.1"
-date: "2026-08-21"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
+title: Principe de non-auto-élévation des privilèges
+subtitle: Sécurité des agents, souveraineté effective et mandats express
+author: Jean Hugues Noël Robert
+status: document source — doctrinal — politique — sécurité
+version: '0.1'
+date: '2026-08-21'
+license: CC BY-SA 4.0
+language: fr
 related_research:
-  - "barons-Mariani/research/democratie_crise_mandats_express.md"
-  - "cogentia/research/mandated_fast_democracy.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
+  - barons-Mariani/research/democratie_crise_mandats_express.md
+  - cogentia/research/mandated_fast_democracy.md
+  - barons-Mariani/research/traceabilite_des_actes.md
 related_projects:
-  - "Autonomie de Capacité"
-  - "Cogentia"
-  - "Kudocracy"
-keywords:
-  - "non-auto-élévation"
-  - "privilèges"
-  - "mandat"
-  - "anti-capture"
-  - "état d'urgence"
-  - "souveraineté effective"
-  - "sécurité agentique"
-document_role: "source"
-document_kind: "concept-note"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - Autonomie de Capacité
+  - Cogentia
+  - Kudocracy
+document_role: source
+document_kind: concept-note
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+tags:
+  - non-auto-élévation
+  - privilèges
+  - mandat
+  - anti-capture
+  - état d'urgence
+  - souveraineté effective
+  - sécurité agentique
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Principe de non-auto-élévation des privilèges
 

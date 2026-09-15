@@ -1,28 +1,30 @@
 ---
-title: "Suicide Corse — index des éditions"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-07"
-status: "working-paper"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source-index"
-document_kind: "edition-index"
-visibility: "public"
-lifecycle_state: "working"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/editions/index.md"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Suicide Corse — index des éditions
+author: Jean Hugues Noël Robert
+date: '2026-09-07'
+status: working-paper
+language: fr
+license: CC BY-SA 4.0
+document_role: source-index
+document_kind: edition-index
+visibility: public
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/editions/index.md
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "generated"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "unknown"
-  origin_date: "2026-09-07"
+  origin_type: generated
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-09-07'
   derived_from:
-    - "GitHub issue #43"
-    - "GitHub issue #44"
+    - 'GitHub issue #43'
+    - 'GitHub issue #44'
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Index des éditions
 

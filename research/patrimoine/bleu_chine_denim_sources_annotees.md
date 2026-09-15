@@ -1,33 +1,45 @@
 ---
-title: "Bleu de Chine, denim et indigo — Sources annotées"
-subtitle: "Dossier documentaire pour article académique"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-30"
-status: "working-note — sources annotées v0.1"
-version: "0.1"
-x-type: "annotated bibliography and source dossier"
-x-branch: "main"
+title: Bleu de Chine, denim et indigo — Sources annotées
+subtitle: Dossier documentaire pour article académique
+author: Jean Hugues Noël Robert
+date: '2026-05-30'
+status: working-note — sources annotées v0.1
+version: '0.1'
+x-type: annotated bibliography and source dossier
+x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_sources_annotees.md
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 related_documents:
-  - title: "Bleu de Chine, denim et indigo — Protocole de recherche"
-    path: "research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md"
-  - title: "Bleu de Chine, denim et indigo — Chronologie"
-    path: "research/patrimoine/bleu_chine_denim_chronologie.md"
-  - title: "Des bleus de travail aux bleus de mémoire — Brouillon d’article"
-    path: "research/patrimoine/bleu_chine_denim_article_academique.md"
-last_stamped_at: 2026-06-01
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-corpus_role: "source"
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
+  - title: Bleu de Chine, denim et indigo — Protocole de recherche
+    path: research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md
+  - title: Bleu de Chine, denim et indigo — Chronologie
+    path: research/patrimoine/bleu_chine_denim_chronologie.md
+  - title: Des bleus de travail aux bleus de mémoire — Brouillon d’article
+    path: research/patrimoine/bleu_chine_denim_article_academique.md
+last_stamped_at: 2026-06-01T00:00:00.000Z
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+corpus_role: source
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Bleu de Chine, denim et indigo — Sources annotées
 

@@ -1,61 +1,72 @@
 ---
-title: "Mauvaise calibration métacognitive face aux intelligences xénoformes"
-subtitle: "Pour une AI Safety post-anthropocentrique et une gouvernance démocratique des intelligences hybrides"
-version: "v0.7"
-status: "working-paper"
-document_role: "source"
-derived_from: "xenoform_intelligence_source.md (future source document)"
-source_status: "provisional sovereign source; symmetric derived form standing in for xenoform_intelligence_source.md until that source document is created"
-author: "Jean Hugues Robert"
-license: "CC BY 4.0"
-method: "seconde méthode — conformité renforcée; bibliographie précisée, test de grille approfondi, paquets cognitifs consolidés, liens cliquables exposés hors frontmatter et références de version synchronisées"
-language: "fr"
-abstract_language: "en"
+title: Mauvaise calibration métacognitive face aux intelligences xénoformes
+subtitle: Pour une AI Safety post-anthropocentrique et une gouvernance démocratique des intelligences hybrides
+version: v0.7
+status: working-paper
+document_role: source
+derived_from: xenoform_intelligence_source.md (future source document)
+source_status: provisional sovereign source; symmetric derived form standing in for xenoform_intelligence_source.md until that source document is created
+author: Jean Hugues Robert
+license: CC BY 4.0
+method: seconde méthode — conformité renforcée; bibliographie précisée, test de grille approfondi, paquets cognitifs consolidés, liens cliquables exposés hors frontmatter et références de version synchronisées
+language: fr
+abstract_language: en
 created_from:
-  - "alien_academic.md v0.1"
-  - "évaluation critique Grok au crible de la seconde méthode"
-  - "retour Grok sur v0.3 demandant bibliographie et test de grille approfondi"
-  - "retour Grok sur v0.4 signalant correction de version, bibliographie à préciser et intégration corpus à poursuivre"
-  - "demande d'exposer les hyperliens dans le corps du document, hors frontmatter"
-  - "retour Grok sur v0.6 signalant des références de version résiduelles à corriger"
+  - alien_academic.md v0.1
+  - évaluation critique Grok au crible de la seconde méthode
+  - retour Grok sur v0.3 demandant bibliographie et test de grille approfondi
+  - retour Grok sur v0.4 signalant correction de version, bibliographie à préciser et intégration corpus à poursuivre
+  - demande d'exposer les hyperliens dans le corps du document, hors frontmatter
+  - retour Grok sur v0.6 signalant des références de version résiduelles à corriger
 related_concepts:
-  - "mauvaise calibration métacognitive"
-  - "intelligence xénoforme"
-  - "AI Safety post-anthropocentrique"
-  - "souveraineté des vivants"
-  - "dépendance architecturale"
-  - "DHITL"
-  - "Cogentia"
-  - "Kudocracy"
-continuation_status: "open"
-document_family: "derived_academic_form"
-source_document_status: "future"
-intended_source_document: "xenoform_intelligence_source.md"
-evaluation_status: "self-applied, preliminary"
-process_visibility: "partial; improved in v0.3; further documented in v0.4; bibliographic consolidation in v0.5; clickable corpus links exposed in v0.6; version references synchronized in v0.7"
+  - mauvaise calibration métacognitive
+  - intelligence xénoforme
+  - AI Safety post-anthropocentrique
+  - souveraineté des vivants
+  - dépendance architecturale
+  - DHITL
+  - Cogentia
+  - Kudocracy
+continuation_status: open
+document_family: derived_academic_form
+source_document_status: future
+intended_source_document: xenoform_intelligence_source.md
+evaluation_status: self-applied, preliminary
+process_visibility: partial; improved in v0.3; further documented in v0.4; bibliographic consolidation in v0.5; clickable corpus links exposed in v0.6; version references synchronized in v0.7
 concept_index:
-  metacognitive_miscalibration: "humans are poorly calibrated when evaluating superior, heterogeneous, or xenoform intelligences"
-  xenoform_intelligence: "functionally effective intelligence whose mode of production is cognitively foreign to ordinary human categories"
-  sovereignty_of_the_living: "only living beings exposed to consequences may vote"
-  architectural_dependency: "systemic conditions that orient judgment without implying subjective self-interest"
-  post_anthropocentric_ai_safety: "AI Safety that protects humans without taking human categories as the sole measure of intelligence, value, and risk"
+  metacognitive_miscalibration: humans are poorly calibrated when evaluating superior, heterogeneous, or xenoform intelligences
+  xenoform_intelligence: functionally effective intelligence whose mode of production is cognitively foreign to ordinary human categories
+  sovereignty_of_the_living: only living beings exposed to consequences may vote
+  architectural_dependency: systemic conditions that orient judgment without implying subjective self-interest
+  post_anthropocentric_ai_safety: AI Safety that protects humans without taking human categories as the sole measure of intelligence, value, and risk
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/alien_academic.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-date: "2026-05-25"
-corpus_role: "source"
-derived_product_type: "symmetric-sovereign-provisional"
-summary: "Academic derived form that provisionally acts as the sovereign source for the xenoform intelligence thesis until xenoform_intelligence_source.md is created."
-keywords: "intelligence xenoforme, AI Safety post-anthropocentrique, mauvaise calibration metacognitive, source souveraine provisoire, derive symetrique"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_document_role: "symmetric-derived-sovereign-provisional"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-25'
+corpus_role: source
+derived_product_type: symmetric-sovereign-provisional
+summary: Academic derived form that provisionally acts as the sovereign source for the xenoform intelligence thesis until xenoform_intelligence_source.md is created.
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_document_role: symmetric-derived-sovereign-provisional
+tags: intelligence xenoforme, AI Safety post-anthropocentrique, mauvaise calibration metacognitive, source souveraine provisoire, derive symetrique
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Mauvaise calibration métacognitive face aux intelligences xénoformes
 

@@ -1,30 +1,28 @@
 ---
-title: "Souveraineté, délégation et Agents Mandatés"
-subtitle: "Grammaire commune du pouvoir politique, de la démocratie capable et des systèmes agentiques"
-description: "Une grammaire bornée de délégation pour les Handlers humains, institutionnels, artificiels ou hybrides."
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A."
-date: "2026-09-08"
-last_modified_at: "2026-09-08"
-version: "0.2"
-status: "working-paper — consolidation doctrinale"
-license: "CC BY-SA 4.0"
-language: "fr"
-document_role: "source"
-document_kind: "doctrinal-note"
-visibility: "public"
-lifecycle_state: "working"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/souverainete_delegation_agents_mandates.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/souverainete_delegation_agents_mandates.md"
+title: Souveraineté, délégation et Agents Mandatés
+subtitle: Grammaire commune du pouvoir politique, de la démocratie capable et des systèmes agentiques
+description: Une grammaire bornée de délégation pour les Handlers humains, institutionnels, artificiels ou hybrides.
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani — C.O.R.S.I.C.A.
+date: '2026-09-08'
+last_modified_at: '2026-09-08'
+version: '0.2'
+status: working-paper — consolidation doctrinale
+license: CC BY-SA 4.0
+language: fr
+document_role: source
+document_kind: doctrinal-note
+visibility: public
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/souverainete_delegation_agents_mandates.md
 last_stamped_at: unknown
 human_validation_required: true
 validation:
-  status: "approved_for_initial_corpus_integration"
-  validator: "Jean Hugues"
-  date: "2026-08-24"
+  status: approved_for_initial_corpus_integration
+  validator: Jean Hugues
+  date: '2026-08-24'
 ai_assisted_by:
-  - "Codex (provisional v0.2 consolidation under issue #62)"
+  - 'Codex (provisional v0.2 consolidation under issue #62)'
 provenance:
   origin_type: unknown
   origin_repository: unknown
@@ -36,13 +34,13 @@ review:
   reviewed_by: []
 update_policy: UP-DEFAULT-REVIEWED
 related:
-  - "./noyau_doctrinal_rendre_capable.md"
-  - "./democratie_capable.md"
-  - "./security_model_representative_democracy.md"
-  - "./kudocracy.md"
-  - "./methode_terrains_feconds.md"
-  - "./debord_stabilisateur_procedural.md"
-  - "../agents-jhn/charte_agents_jhn.md"
+  - ./noyau_doctrinal_rendre_capable.md
+  - ./democratie_capable.md
+  - ./security_model_representative_democracy.md
+  - ./kudocracy.md
+  - ./methode_terrains_feconds.md
+  - ./debord_stabilisateur_procedural.md
+  - ../agents-jhn/charte_agents_jhn.md
 tags:
   - souverainete
   - delegation
@@ -62,13 +60,14 @@ tags:
   - anti-capture
   - portabilite
 changelog:
-  - "v0.1 (2026-08-24) — consolidation des acquis : souveraineté individuelle et populaire effectives, délégation sans aliénation, Agent Mandaté, autonomie opérationnelle sans autonomisation de l'autorité, reddition, révocation, anti-capture, portabilité et pluralité des implémentations."
-  - "v0.2 (2026-09-08) — consolidation provisoire des Handlers Mandatés : grammaire commune de délégation humaine, institutionnelle, artificielle ou hybride ; traçabilité proportionnée, symétrique et contestable ; distinction maintenue entre autonomie opérationnelle et auto-autorisation."
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "high"
+  - 'v0.1 (2026-08-24) — consolidation des acquis : souveraineté individuelle et populaire effectives, délégation sans aliénation, Agent Mandaté, autonomie opérationnelle sans autonomisation de l''autorité, reddition, révocation, anti-capture, portabilité et pluralité des implémentations.'
+  - 'v0.2 (2026-09-08) — consolidation provisoire des Handlers Mandatés : grammaire commune de délégation humaine, institutionnelle, artificielle ou hybride ; traçabilité proportionnée, symétrique et contestable ; distinction maintenue entre autonomie opérationnelle et auto-autorisation.'
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: high
 ---
+
 
 # Souveraineté, délégation et Agents Mandatés
 

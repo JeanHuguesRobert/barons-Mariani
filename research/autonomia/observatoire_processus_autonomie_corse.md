@@ -1,48 +1,59 @@
 ---
-title: "Observatoire public du processus d’autonomie de la Corse"
-subtitle: "Carte corrigible du processus institutionnel, de la participation effective et de ses fenêtres d’effectivité"
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-15"
-updated: "2026-09-15"
-version: "0.2"
-status: "working-paper — observatory_v0.2"
+title: Observatoire public du processus d’autonomie de la Corse
+subtitle: Carte corrigible du processus institutionnel, de la participation effective et de ses fenêtres d’effectivité
+author: Jean Hugues Noël Robert, baron Mariani de Corte
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-15'
+version: '0.2'
+status: working-paper — observatory_v0.2
 language: fr
-license: "CC BY-SA 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md"
-function: "public_process_observatory"
-target_scene: "autonomy_watch_and_citizen_control"
-document_role: "source"
-document_kind: "registry"
-visibility: "public"
-lifecycle_state: "working"
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
+function: public_process_observatory
+target_scene: autonomy_watch_and_citizen_control
+document_role: source
+document_kind: registry
+visibility: public
+lifecycle_state: working
 related_documents:
-  - title: "Chronologie documentaire du processus de Beauvau"
-    path: "../chronologie_processus_beauvau_corse.md"
-  - title: "Autonomia"
-    path: "../autonomia.md"
-  - title: "Potentique territoriale"
-    path: "potentique_territoriale.md"
-  - title: "Corse Laboratoire"
-    path: "corse_laboratoire.md"
-  - title: "Registre du chantier de loi organique"
-    path: "registre_chantier_loi_organique_autonomie_corse.md"
-  - title: "Consultation, référendum et souveraineté effective"
-    path: "consultation_referendum_souverainete_effective_corse.md"
-  - title: "Contribution C.O.R.S.I.C.A. à la commission des Lois"
-    path: "../contribution_commission_lois_autonomie_capacite.md"
-  - title: "Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani"
-    path: "../notice_candidature_senatoriales_2026_medias.md"
-  - title: "Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026"
-    path: "../senatoriales-2026/dossier-ta-bastia-2026-09-14.md"
-classification_source: "explicit-metadata"
-classification_version: "1"
-classification_rule: "public-process-observatory"
-classification_confidence: "medium"
+  - title: Chronologie documentaire du processus de Beauvau
+    path: ../chronologie_processus_beauvau_corse.md
+  - title: Autonomia
+    path: ../autonomia.md
+  - title: Potentique territoriale
+    path: potentique_territoriale.md
+  - title: Corse Laboratoire
+    path: corse_laboratoire.md
+  - title: Registre du chantier de loi organique
+    path: registre_chantier_loi_organique_autonomie_corse.md
+  - title: Consultation, référendum et souveraineté effective
+    path: consultation_referendum_souverainete_effective_corse.md
+  - title: Contribution C.O.R.S.I.C.A. à la commission des Lois
+    path: ../contribution_commission_lois_autonomie_capacite.md
+  - title: Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani
+    path: ../notice_candidature_senatoriales_2026_medias.md
+  - title: Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026
+    path: ../senatoriales-2026/dossier-ta-bastia-2026-09-14.md
+classification_source: explicit-metadata
+classification_version: '1'
+classification_rule: public-process-observatory
+classification_confidence: medium
 changelog:
-  - "v0.1 (2026-09-15) — création de l’Observatoire public."
-  - "v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée."
+  - v0.1 (2026-09-15) — création de l’Observatoire public.
+  - 'v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée.'
+last_modified_at: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Observatoire public du processus d’autonomie de la Corse
 

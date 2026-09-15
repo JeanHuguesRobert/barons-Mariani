@@ -1,40 +1,42 @@
 ---
-title: "Vertu, altérité et mémoire du double numérique"
-subtitle: "De la kindness dickienne à la Règle d’Or corrigible, puis à la préservation des traces et aux capsules annuelles"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-07-25"
-version: "0.1"
-status: "working source note — conversation closure snapshot"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "doctrinal-bridge"
-visibility: "public"
-lifecycle_state: "working"
+title: Vertu, altérité et mémoire du double numérique
+subtitle: De la kindness dickienne à la Règle d’Or corrigible, puis à la préservation des traces et aux capsules annuelles
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-07-25'
+version: '0.1'
+status: working source note — conversation closure snapshot
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: doctrinal-bridge
+visibility: public
+lifecycle_state: working
 human_validation_required: true
-canonical_repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/vertu_alterite_memoire_double_numerique.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/vertu_alterite_memoire_double_numerique.md"
-continuation_status: "parked"
-related_issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/27"
+canonical_repository: JeanHuguesRobert/barons-Mariani
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/vertu_alterite_memoire_double_numerique.md
+continuation_status: parked
+related_issue: https://github.com/JeanHuguesRobert/barons-Mariani/issues/27
 provenance:
-  origin_type: "exploratory conversation"
-  origin_date: "2026-07-25"
-  human_source: "Jean Hugues Noël Robert"
+  origin_type: exploratory conversation
+  origin_date: '2026-07-25'
+  human_source: Jean Hugues Noël Robert
   ai_assisted_by:
-    - "ChatGPT — conceptual clarification, drafting and closure consolidation"
-  arbitration: "Jean Hugues Noël Robert"
+    - ChatGPT — conceptual clarification, drafting and closure consolidation
+  arbitration: Jean Hugues Noël Robert
+  origin_repository: unknown
+  origin_ref: unknown
+  derived_from: []
 related_documents:
-  - "research/ubik_reality_dislocation.md"
-  - "research/reality_safety_procedural_stabilizers.md"
-  - "research/debord_stabilisateur_procedural.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/pluralisation_cognitive_sous_mandat.md"
-  - "research/accompagnement_capacitaire_humain_ia.md"
-  - "research/kudos.md"
-  - "cogentia/research/cogentia-digital-twin.md"
-  - "cogentia/research/artificial_representation_and_mandated_voice.md"
+  - research/ubik_reality_dislocation.md
+  - research/reality_safety_procedural_stabilizers.md
+  - research/debord_stabilisateur_procedural.md
+  - research/traceabilite_des_actes.md
+  - research/pluralisation_cognitive_sous_mandat.md
+  - research/accompagnement_capacitaire_humain_ia.md
+  - research/kudos.md
+  - cogentia/research/cogentia-digital-twin.md
+  - cogentia/research/artificial_representation_and_mandated_voice.md
 tags:
   - philip-k-dick
   - ubik
@@ -53,11 +55,16 @@ tags:
   - annual-archive
   - post-mortem
   - procedural-stabilizer
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
+
 
 # Vertu, altérité et mémoire du double numérique
 

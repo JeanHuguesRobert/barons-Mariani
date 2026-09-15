@@ -1,35 +1,46 @@
 ---
-title: "Mise à jour du processus de Beauvau — phase post-Assemblée nationale"
-subtitle: "Du texte constitutionnel transmis au Sénat au chantier de la loi organique"
+title: Mise à jour du processus de Beauvau — phase post-Assemblée nationale
+subtitle: Du texte constitutionnel transmis au Sénat au chantier de la loi organique
 status: working-paper — update_v0.2-historical
 language: fr
-created: 2026-07-16
-updated: 2026-09-05
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+created: 2026-07-16T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani de Corte
 function: documentary_update
 target_scene: corpus_update
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mise_a_jour_processus_beauvau_2026-07.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-date: "2026-07-16"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "historical-layer"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+date: '2026-07-16'
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: historical-layer
 related_documents:
-  - title: "Chronologie documentaire du processus de Beauvau"
-    path: "../chronologie_processus_beauvau_corse.md"
-  - title: "Mise à jour du processus de Beauvau — état au 5 septembre 2026"
-    path: "mise_a_jour_processus_beauvau_2026-09.md"
-  - title: "Note synthétique sur l’autonomie de capacité"
-    path: "../note_synthetique_autonomie_capacite_corse.md"
-  - title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
-    path: "registre_chantier_loi_organique_autonomie_corse.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - title: Chronologie documentaire du processus de Beauvau
+    path: ../chronologie_processus_beauvau_corse.md
+  - title: Mise à jour du processus de Beauvau — état au 5 septembre 2026
+    path: mise_a_jour_processus_beauvau_2026-09.md
+  - title: Note synthétique sur l’autonomie de capacité
+    path: ../note_synthetique_autonomie_capacite_corse.md
+  - title: Registre du chantier de loi organique pour l’autonomie de la Corse
+    path: registre_chantier_loi_organique_autonomie_corse.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+last_modified_at: Sat Sep 05
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Mise à jour du processus de Beauvau — phase post-Assemblée nationale
 

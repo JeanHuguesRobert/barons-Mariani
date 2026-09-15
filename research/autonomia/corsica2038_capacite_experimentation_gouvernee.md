@@ -1,30 +1,41 @@
 ---
-title: "Corsica2038 — Capacité territoriale d'expérimentation gouvernée"
-subtitle: "Note-source pour l'Autonomie de Capacité et la double assistance IA"
-author: "Jean Hugues Noël Robert"
-date: "2026-07-31"
-version: "0.3-source"
-status: "working-paper"
-document_role: "source"
-document_kind: "political-and-implementation-note"
-language: "fr"
-license: "CC BY-SA 4.0"
-visibility: "public"
-lifecycle_state: "working"
-canonical_path: "barons-Mariani/research/autonomia/corsica2038_capacite_experimentation_gouvernee.md"
+title: Corsica2038 — Capacité territoriale d'expérimentation gouvernée
+subtitle: Note-source pour l'Autonomie de Capacité et la double assistance IA
+author: Jean Hugues Noël Robert
+date: '2026-07-31'
+version: 0.3-source
+status: working-paper
+document_role: source
+document_kind: political-and-implementation-note
+language: fr
+license: CC BY-SA 4.0
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "corsica2038_contre_rapport_pruspettiva2050.md"
-  - "grammaire_autonomie_de_capacite.md"
-  - "../traceabilite_des_actes.md"
-  - "mise_a_jour_processus_beauvau_2026-07.md"
+  - corsica2038_contre_rapport_pruspettiva2050.md
+  - grammaire_autonomie_de_capacite.md
+  - ../traceabilite_des_actes.md
+  - mise_a_jour_processus_beauvau_2026-07.md
 external_related_documents:
-  - "cogentia/research/ia_pour_tous_ia_pour_chacun.md"
-  - "cogentia/research/conversations_gouvernees_effets_durables.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - cogentia/research/ia_pour_tous_ia_pour_chacun.md
+  - cogentia/research/conversations_gouvernees_effets_durables.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Corsica2038 — Capacité territoriale d'expérimentation gouvernée
 

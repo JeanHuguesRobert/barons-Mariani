@@ -1,32 +1,44 @@
 ---
-title: "Protocole minimal de revue ciblée"
-subtitle: "Éviter les erreurs d’aiguillage et transformer les objections en décisions"
-status: "method note — protocol"
-version: "0.1"
-date: "2026-06-18"
-author: "Jean Hugues Noël Robert"
-license: "CC BY 4.0"
-language: "fr"
-corpus_role: "review protocol"
+title: Protocole minimal de revue ciblée
+subtitle: Éviter les erreurs d’aiguillage et transformer les objections en décisions
+status: method note — protocol
+version: '0.1'
+date: '2026-06-18'
+author: Jean Hugues Noël Robert
+license: CC BY 4.0
+language: fr
+corpus_role: review protocol
 related_documents:
-  - "research/second_method.md"
-  - "research/case_studies/cas_edf_pipeline_retour_experience.md"
-  - "JeanHuguesRobert/cogentia/research/pipeline.md"
+  - research/second_method.md
+  - research/case_studies/cas_edf_pipeline_retour_experience.md
+  - JeanHuguesRobert/cogentia/research/pipeline.md
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok"
-  - "Claude"
+  - ChatGPT
+  - Grok
+  - Claude
 human_validation_required: true
-document_role: "source"
-document_kind: "protocol"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "protocol"
-classification_confidence: "medium"
-legacy_corpus_role: "review protocol"
+document_role: source
+document_kind: protocol
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: protocol
+classification_confidence: medium
+legacy_corpus_role: review protocol
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Protocole minimal de revue ciblée
 

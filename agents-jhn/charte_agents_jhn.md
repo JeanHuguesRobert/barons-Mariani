@@ -1,15 +1,14 @@
 ---
-title: "Charte des Agents JHN"
-subtitle: "Mandat, contrôle, révocation et limites des instances numériques"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-last_modified_at: "2026-08-24"
-version: "0.2"
-status: "draft"
-document_role: "source"
-document_kind: "governance-note"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Charte des Agents JHN
+subtitle: Mandat, contrôle, révocation et limites des instances numériques
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-08'
+last_modified_at: '2026-08-24'
+version: '0.2'
+status: draft
+document_role: source
+document_kind: governance-note
+visibility: public
 tags:
   - agents-jhn
   - agent-mandate
@@ -20,13 +19,27 @@ tags:
   - non-auto-elevation
   - cogentia
   - digital-twin
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "charter"
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: charter
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Charte des Agents JHN
 

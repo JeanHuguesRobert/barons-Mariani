@@ -1,27 +1,39 @@
 ---
-title: "Democratic AI Safety"
-description: "Why AI Safety must protect human sovereignty against AI-augmented legal persons"
+title: Democratic AI Safety
+description: Why AI Safety must protect human sovereignty against AI-augmented legal persons
 layout: default
 nav_order: 7
-version: "draft-0.5"
-last_modified_at: 2026-05-18
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
+version: draft-0.5
+last_modified_at: 2026-05-18T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
 status: working-paper — thesis kernel, open to falsifiable objections and revisions
-x-method: "Second Method compatible draft"
+x-method: Second Method compatible draft
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratic_ai_safety.md
-last_stamped_at: 2026-06-01
-date: "2026-05-11"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-11'
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Democratic AI Safety
 <!-- BEGIN_AUTO: trails -->

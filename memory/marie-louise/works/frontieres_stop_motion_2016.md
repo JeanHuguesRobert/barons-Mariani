@@ -1,33 +1,41 @@
 ---
-title: "Marie-Louise — Frontières, stop motion et parcours artistique (2016–2022)"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-document_role: "source-note"
-document_kind: "artistic-chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — Frontières, stop motion et parcours artistique (2016–2022)
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+document_role: source-note
+document_kind: artistic-chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "mixed"
+  origin_type: mixed
   derived_from:
-    - "Corse Net Infos, 14 avril 2016"
-    - "Gmail:152bf5062d84da28"
-    - "Gmail:152bbdaeeddfb6a4"
-    - "Gmail:152ea211bb1238f1"
-    - "Gmail:15449b60315649e0"
-    - "Gmail:153dcd7070142c29"
-    - "Gmail:15623cc50810297a"
-    - "Gmail:15901e3906969ef1"
-    - "Gmail:15b16527bf97b95e"
-    - "Gmail:16012ff6ab50ad78"
-    - "Gmail:16737e68bc1918ab"
-    - "Gmail:178df4383f1868a0"
-    - "Gmail:178ab8f3f69d09c4"
-    - "Gmail:17e7808badd54b51"
+    - Corse Net Infos, 14 avril 2016
+    - Gmail:152bf5062d84da28
+    - Gmail:152bbdaeeddfb6a4
+    - Gmail:152ea211bb1238f1
+    - Gmail:15449b60315649e0
+    - Gmail:153dcd7070142c29
+    - Gmail:15623cc50810297a
+    - Gmail:15901e3906969ef1
+    - Gmail:15b16527bf97b95e
+    - Gmail:16012ff6ab50ad78
+    - Gmail:16737e68bc1918ab
+    - Gmail:178df4383f1868a0
+    - Gmail:178ab8f3f69d09c4
+    - Gmail:17e7808badd54b51
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 # 2016 — Frontières, stop motion et orientation artistique
 

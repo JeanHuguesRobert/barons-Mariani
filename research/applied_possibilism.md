@@ -1,29 +1,41 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/applied_possibilism.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-07-09
-title: "Applied Possibilism: The Joyful Exploration of the Possible"
-subtitle: "Daily practice, digital twins, and stigmergic coordination"
-date: "2026-07-09"
-status: "working-paper — practice note"
-document_role: "source"
-document_kind: "practice-note"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-07-09T00:00:00.000Z
+title: 'Applied Possibilism: The Joyful Exploration of the Possible'
+subtitle: Daily practice, digital twins, and stigmergic coordination
+date: '2026-07-09'
+status: working-paper — practice note
+document_role: source
+document_kind: practice-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/possibilism_04_2026.md"
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "../inseme/packages/cop-core/Architecture.md"
-  - "../operium/research/model-selector-design.md"
-  - "research/agile.md"
-  - "research/concepts.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - research/possibilism_04_2026.md
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - ../inseme/packages/cop-core/Architecture.md
+  - ../operium/research/model-selector-design.md
+  - research/agile.md
+  - research/concepts.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Applied Possibilism: The Joyful Exploration of the Possible
 

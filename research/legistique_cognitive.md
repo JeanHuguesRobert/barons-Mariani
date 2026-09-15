@@ -1,26 +1,26 @@
 ---
-title: "Fabriquer la loi comme un corpus vivant"
-subtitle: "Dette normative, traçabilité des actes et transition cognitive de la production juridique"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-02"
-status: "draft"
-version: "0.2-revised"
-license: "CC BY-SA 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/legistique_cognitive.md"
-proposed_path: "research/legistique_cognitive.md"
-language: "fr"
+title: Fabriquer la loi comme un corpus vivant
+subtitle: Dette normative, traçabilité des actes et transition cognitive de la production juridique
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-02'
+status: draft
+version: 0.2-revised
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/legistique_cognitive.md
+proposed_path: research/legistique_cognitive.md
+language: fr
 ai_assisted_by:
-  - "ChatGPT — vérification, structuration, rédaction initiale et révision"
-  - "Grok — critique externe constructive v0.1 et v0.2"
-human_arbitration_by: "Jean Hugues Noël Robert"
+  - ChatGPT — vérification, structuration, rédaction initiale et révision
+  - Grok — critique externe constructive v0.1 et v0.2
+human_arbitration_by: Jean Hugues Noël Robert
 x-method:
-  - "seconde méthode"
-  - "pipeline Cogentia"
-  - "Cogentia Commons"
-  - "document autoporteur"
-  - "traçabilité des actes"
-  - "objections de premier rang"
+  - seconde méthode
+  - pipeline Cogentia
+  - Cogentia Commons
+  - document autoporteur
+  - traçabilité des actes
+  - objections de premier rang
 tags:
   - loi
   - légistique
@@ -39,24 +39,35 @@ tags:
   - machine à explorer
   - machine à empêcher
 related_projects:
-  - "Cogentia"
-  - "Cogentia Commons"
-  - "Kudocracy"
-  - "Autonomie de Capacité"
-  - "Les Amis de Malou"
-  - "Inseme"
-  - "Ubikia"
-  - "Barons Mariani"
-corpus_role: "source"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Cogentia
+  - Cogentia Commons
+  - Kudocracy
+  - Autonomie de Capacité
+  - Les Amis de Malou
+  - Inseme
+  - Ubikia
+  - Barons Mariani
+corpus_role: source
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Fabriquer la loi comme un corpus vivant
 

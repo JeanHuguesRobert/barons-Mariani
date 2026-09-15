@@ -2,7 +2,7 @@
 title: VIGILIA
 subtitle: Système distribué d'évitement des collisions, de signalement et de perception territoriale
 version: 1.4
-date: 2026-05-17
+date: 2026-05-17T00:00:00.000Z
 author: Jean Hugues Noël Robert, baron Mariani
 address: 1 cours Paoli, F-20250 Corte
 contact: jeanhuguesrobert@gmail.com
@@ -11,17 +11,29 @@ spdx-license-identifier: CC-BY-SA-4.0
 status: working-paper
 predecessor: vigilia.md v1.3 (2026-05-12), v1.2 (2026-05-12), v1.1 (2026-05-12), v1.0 (2026-04-17)
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/vigilia.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # VIGILIA
 

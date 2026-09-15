@@ -1,40 +1,53 @@
 ---
 review_target:
-  repository: "JeanHuguesRobert/barons-Mariani"
+  repository: JeanHuguesRobert/barons-Mariani
   files:
-    - "research/potentics.md"
-  reviewed_version: "v1.0-rc1 (July 2026 candidate supplied for review; more advanced than the June 2026 draft currently committed on main)"
-  reviewed_commit: "conversation-supplied candidate (not yet committed as of 2026-07-25)"
-  review_scope: "conceptual / methodological / state-of-the-art / operationality / falsifiability"
-  requested_by: "Jean Hugues Noël Robert, baron Mariani"
-  reviewer: "Grok (xAI) acting under cogentia/prompts/reviewer.md"
-  review_date: "2026-07-24"
+    - research/potentics.md
+  reviewed_version: v1.0-rc1 (July 2026 candidate supplied for review; more advanced than the June 2026 draft currently committed on main)
+  reviewed_commit: conversation-supplied candidate (not yet committed as of 2026-07-25)
+  review_scope: conceptual / methodological / state-of-the-art / operationality / falsifiability
+  requested_by: Jean Hugues Noël Robert, baron Mariani
+  reviewer: Grok (xAI) acting under cogentia/prompts/reviewer.md
+  review_date: '2026-07-24'
   human_validation_required: true
-title: "External Review — What is Potentics? (v1.0-rc1)"
-subtitle: "Constructive external review under the Cogentia reviewer contract"
-author: "Grok (xAI)"
-status: "decorrelated_review_pending_human_arbitration"
-version: "1.0"
-license: "CC BY-SA 4.0"
-language: "en"
-document_role: "source"
-document_kind: "external-review"
-visibility: "public"
-lifecycle_state: "review"
+title: External Review — What is Potentics? (v1.0-rc1)
+subtitle: Constructive external review under the Cogentia reviewer contract
+author: Grok (xAI)
+status: decorrelated_review_pending_human_arbitration
+version: '1.0'
+license: CC BY-SA 4.0
+language: en
+document_role: source
+document_kind: external-review
+visibility: public
+lifecycle_state: review
 related_documents:
-  - "research/potentics.md"
-  - "research/potentics_the_possible_addendum.md"
-  - "research/possibilism_04_2026.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/review_protocol.md"
-  - "research/second_method.md"
-  - "cogentia/prompts/reviewer.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "review"
+  - research/potentics.md
+  - research/potentics_the_possible_addendum.md
+  - research/possibilism_04_2026.md
+  - research/rational_odysseys_the_possible.md
+  - research/review_protocol.md
+  - research/second_method.md
+  - cogentia/prompts/reviewer.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: review
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # External Review: What is Potentics?
 

@@ -1,35 +1,38 @@
 ---
-title: "Discours de la seconde méthode"
-
-description: "On knowledge, artificial agents, and democratic governance"
-
+title: Discours de la seconde méthode
+description: On knowledge, artificial agents, and democratic governance
 layout: default
-
 nav_order: 0
-
-version: "1.0"
-
-last_modified_at: 2026-05-08  # Victory in Europe Day
-
-author: "Jean Hugues Noël Robert, baron Mariani"
-
-affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250, Corte, Corsica"
-
-license: "CC BY-SA 4.0"
-
+version: '1.0'
+last_modified_at: 2026-05-08T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250, Corte, Corsica
+license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md
-last_stamped_at: 2026-06-01
-date: "2026-05-08"
-status: "draft — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-08'
+status: draft — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Discours de la seconde méthode
 <!-- BEGIN_AUTO: trails -->

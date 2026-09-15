@@ -1,24 +1,36 @@
 ---
-title: "Autonomia"
-subtitle: "Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse"
-description: "Contribution à une théorie opératoire de l’autonomie territoriale"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.14"
-date: "2026-09-15"
-license: "CC BY-SA 4.0"
+title: Autonomia
+subtitle: Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse
+description: Contribution à une théorie opératoire de l’autonomie territoriale
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+version: '0.14'
+date: '2026-09-15'
+license: CC BY-SA 4.0
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
-last_stamped_at: 2026-09-15
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-09-15T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Autonomia[^titre]
 <!-- BEGIN_AUTO: trails -->

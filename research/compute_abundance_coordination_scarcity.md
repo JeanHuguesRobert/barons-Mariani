@@ -1,28 +1,28 @@
 ---
-title: "Compute Abundance / Coordination Scarcity"
-subtitle: "A falsifiable transition hypothesis for heterogeneous edge and distributed AI"
-description: "Working hypothesis that as elementary compute becomes cheaper, smaller and more widely distributed, the relative importance of coordination, trust, communication, energy, state and governance increases. The note connects 2026-2027 hardware trends to Potentics of Compute, RAIX, Fractanet and the Learning Computer."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A. / FractaVolta"
-date: "2026-08-22"
-last_modified_at: "2026-08-22"
-version: "0.1"
-status: "working transition hypothesis"
-license: "CC BY-SA 4.0"
-language: "en"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
+title: Compute Abundance / Coordination Scarcity
+subtitle: A falsifiable transition hypothesis for heterogeneous edge and distributed AI
+description: Working hypothesis that as elementary compute becomes cheaper, smaller and more widely distributed, the relative importance of coordination, trust, communication, energy, state and governance increases. The note connects 2026-2027 hardware trends to Potentics of Compute, RAIX, Fractanet and the Learning Computer.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A. / FractaVolta
+date: '2026-08-22'
+last_modified_at: '2026-08-22'
+version: '0.1'
+status: working transition hypothesis
+license: CC BY-SA 4.0
+language: en
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 methodology:
-  - "Second Method"
-  - "Potentics"
+  - Second Method
+  - Potentics
 related_documents:
-  - "research/potentics_of_compute.md"
-  - "research/organization_as_capability.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md"
+  - research/potentics_of_compute.md
+  - research/organization_as_capability.md
+  - research/the_network_is_the_learning_computer.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md
 tags:
   - distributed-compute
   - edge-ai
@@ -33,12 +33,22 @@ tags:
   - fractanet
   - potentics
   - transition-hypothesis
-update_policy: "UP-DEFAULT-REVIEWED"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+update_policy: UP-DEFAULT-REVIEWED
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Compute Abundance / Coordination Scarcity
 

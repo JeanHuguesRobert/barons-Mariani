@@ -1,31 +1,42 @@
 ---
-title: "Accompagnement capacitaire humain et IA"
-subtitle: "Serenia, écrivain public moderne et trajectoire vers l’autonomie progressive"
-author: "Jean Hugues Noël Robert"
-date: "2026-07-25"
-status: "early draft — source note v0.1"
-version: "0.1"
-type: "research_note"
-language: "fr"
-license: "CC BY-SA 4.0"
-intended_path: "research/accompagnement_capacitaire_humain_ia.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/accompagnement_capacitaire_humain_ia.md"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
+title: Accompagnement capacitaire humain et IA
+subtitle: Serenia, écrivain public moderne et trajectoire vers l’autonomie progressive
+author: Jean Hugues Noël Robert
+date: '2026-07-25'
+status: early draft — source note v0.1
+version: '0.1'
+type: research_note
+language: fr
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/accompagnement_capacitaire_humain_ia.md
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/serenia_autonomie_assistee_ia.md"
-  - "research/ecole_mariani_autonomie.md"
-  - "research/energie_action.md"
-  - "research/traceabilite_des_actes.md"
+  - research/serenia_autonomie_assistee_ia.md
+  - research/ecole_mariani_autonomie.md
+  - research/energie_action.md
+  - research/traceabilite_des_actes.md
 related_issues:
-  - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/26"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - https://github.com/JeanHuguesRobert/barons-Mariani/issues/26
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Accompagnement capacitaire humain et IA
 

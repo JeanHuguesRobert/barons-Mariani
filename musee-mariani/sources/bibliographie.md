@@ -1,18 +1,30 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/bibliographie.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-26
-last_modified_at: 2026-09-12
-title: "Bibliographie et sources à dépouiller — Musée Mariani"
-date: "2026-06-26"
-status: "draft — liste de travail"
-document_role: "source-index"
-document_kind: "bibliography"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-26T00:00:00.000Z
+last_modified_at: 2026-09-12T00:00:00.000Z
+title: Bibliographie et sources à dépouiller — Musée Mariani
+date: '2026-06-26'
+status: draft — liste de travail
+document_role: source-index
+document_kind: bibliography
+visibility: public
+lifecycle_state: working
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Bibliographie et sources à dépouiller — Musée Mariani
 

@@ -1,30 +1,41 @@
 ---
-title: "Énergie d’action : proposition d’un cadre capacitaire pour analyser la conversion contrôlée des ressources en actes"
-subtitle: "Note conceptuelle et programme de recherche"
-author: "Jean Hugues Noël Robert"
-date: "2026-07-24"
-status: "draft — research paper v0.1"
-version: "0.1"
-type: "conceptual research paper"
-language: "fr"
-license: "CC BY-SA 4.0"
-intended_path: "research/energie_action.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/energie_action.md"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
+title: 'Énergie d’action : proposition d’un cadre capacitaire pour analyser la conversion contrôlée des ressources en actes'
+subtitle: Note conceptuelle et programme de recherche
+author: Jean Hugues Noël Robert
+date: '2026-07-24'
+status: draft — research paper v0.1
+version: '0.1'
+type: conceptual research paper
+language: fr
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/energie_action.md
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
 related_projects:
-  - "Autonomie de Capacité"
-  - "FractaVolta"
-  - "Cogentia"
-  - "Inseme"
-  - "Archia"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - Autonomie de Capacité
+  - FractaVolta
+  - Cogentia
+  - Inseme
+  - Archia
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Énergie d’action
 

@@ -1,26 +1,26 @@
 ---
-title: "The Network is the Learning Computer — v0.7 Packet Semantics Addendum"
-subtitle: "Packet Closure, placement, effects, and why packetization forces a richer computational ontology"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-25"
-version: "0.1"
-status: "integrated"
-document_role: "derived"
-document_kind: "research-addendum"
-visibility: "public"
-lifecycle_state: "archived-source-note"
-language: "en"
-license: "CC BY-SA 4.0"
+title: The Network is the Learning Computer — v0.7 Packet Semantics Addendum
+subtitle: Packet Closure, placement, effects, and why packetization forces a richer computational ontology
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-25'
+version: '0.1'
+status: integrated
+document_role: derived
+document_kind: research-addendum
+visibility: public
+lifecycle_state: archived-source-note
+language: en
+license: CC BY-SA 4.0
 methodology:
-  - "Second Method"
-  - "Cognitive Packet Switching"
+  - Second Method
+  - Cognitive Packet Switching
 related_documents:
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/the_network_is_the_learning_computer_v0.6_addendum.md"
-  - "research/jhn_architecture.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
+  - research/the_network_is_the_learning_computer.md
+  - research/the_network_is_the_learning_computer_v0.6_addendum.md
+  - research/jhn_architecture.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md
 tags:
   - learning-computer
   - cognitive-packet-switching
@@ -30,11 +30,22 @@ tags:
   - reactive-corpus
   - call-cc
   - distributed-cognition
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # The Network is the Learning Computer — v0.7 Packet Semantics Addendum
 

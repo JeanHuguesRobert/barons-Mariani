@@ -1,22 +1,34 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/juridique/autorisations_ateliers_sous_traites.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Autorisations et ateliers sous-traités"
-subtitle: "Qui exploite, qui répond — modèle contractuel des ateliers réglementés"
-date: "2026-06-27"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "legal-doctrine"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Autorisations et ateliers sous-traités
+subtitle: Qui exploite, qui répond — modèle contractuel des ateliers réglementés
+date: '2026-06-27'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: legal-doctrine
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/juridique/demander_au_juge.md"
-  - "musee-mariani/ateliers/atelier_distillerie.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/juridique/demander_au_juge.md
+  - musee-mariani/ateliers/atelier_distillerie.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Autorisations et ateliers sous-traités
 

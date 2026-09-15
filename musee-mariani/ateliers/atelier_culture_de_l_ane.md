@@ -1,26 +1,38 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/ateliers/atelier_culture_de_l_ane.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Atelier : Culture de l'Âne"
-subtitle: "Dossier source en cours d'instruction — Musée Mariani des Possibles"
-date: "2026-08-22"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "atelier-research-dossier"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: 'Atelier : Culture de l''Âne'
+subtitle: Dossier source en cours d'instruction — Musée Mariani des Possibles
+date: '2026-08-22'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: atelier-research-dossier
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
-  - "musee-mariani/collections/rossignol.md"
-  - "research/the_republic_of_donkeys.md"
-  - "research/fable_experimentale.md"
-  - "research/principe_rossignol.md"
-  - "research/test_critere_rossignol.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/exploration_rationnelle_des_possibles.md
+  - musee-mariani/collections/rossignol.md
+  - research/the_republic_of_donkeys.md
+  - research/fable_experimentale.md
+  - research/principe_rossignol.md
+  - research/test_critere_rossignol.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Atelier : Culture de l'Âne
 

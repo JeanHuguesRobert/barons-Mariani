@@ -1,31 +1,42 @@
 ---
-title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
-subtitle: "Traçabilité publique de la constitution pratique de l’autonomie corse"
+title: Registre du chantier de loi organique pour l’autonomie de la Corse
+subtitle: Traçabilité publique de la constitution pratique de l’autonomie corse
 status: working-paper — registry_v0.2
 language: fr
-created: 2026-07-16
-updated: 2026-09-05
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+created: 2026-07-16T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani de Corte
 function: public_registry
 target_scene: autonomy_watch_and_citizen_control
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-date: "2026-07-16"
-document_role: "source"
-document_kind: "registry"
-visibility: "public"
-lifecycle_state: "working"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+date: '2026-07-16'
+document_role: source
+document_kind: registry
+visibility: public
+lifecycle_state: working
 related_documents:
-  - title: "Chronologie documentaire du processus de Beauvau"
-    path: "../chronologie_processus_beauvau_corse.md"
-  - title: "Mise à jour du processus de Beauvau — état au 5 septembre 2026"
-    path: "mise_a_jour_processus_beauvau_2026-09.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - title: Chronologie documentaire du processus de Beauvau
+    path: ../chronologie_processus_beauvau_corse.md
+  - title: Mise à jour du processus de Beauvau — état au 5 septembre 2026
+    path: mise_a_jour_processus_beauvau_2026-09.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+last_modified_at: Sat Sep 05
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Registre du chantier de loi organique pour l’autonomie de la Corse
 

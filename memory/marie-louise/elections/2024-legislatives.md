@@ -1,28 +1,34 @@
 ---
-title: "Marie-Louise — législatives 2024, seconde candidature titulaire documentée"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-status: "working"
-language: "fr"
-document_role: "source-note"
-document_kind: "chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — législatives 2024, seconde candidature titulaire documentée
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+status: working
+language: fr
+document_role: source-note
+document_kind: chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "personal-archive"
+  origin_type: personal-archive
   derived_from:
-    - "Gmail:19015cfcca9644ff"
-    - "Gmail:19020bfa6f112d28"
-    - "Gmail:190211872298ab04"
-    - "Gmail:190211be33648e47"
-    - "Gmail:1902138ea0abe20c"
-    - "Gmail:190273efbcfb68d4"
-    - "memory/marie-louise/elections-2024-complaints.md"
+    - Gmail:19015cfcca9644ff
+    - Gmail:19020bfa6f112d28
+    - Gmail:190211872298ab04
+    - Gmail:190211be33648e47
+    - Gmail:1902138ea0abe20c
+    - Gmail:190273efbcfb68d4
+    - memory/marie-louise/elections-2024-complaints.md
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Législatives 2024 — seconde candidature titulaire
 

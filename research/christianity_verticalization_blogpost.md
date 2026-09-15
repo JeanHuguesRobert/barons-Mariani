@@ -1,14 +1,14 @@
 ---
-title: "Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement"
-subtitle: "À partir du working paper “Verticalisation de la Chrétienté”"
-source_document: "research/christianity_verticalization.md"
-derived_product_type: "blogpost"
-platform_target: "Substack — Les carnets du baron Mariani"
-version: "0.1"
-date: "2026-05-25"
-author: "Jean Hugues Noël Robert"
-license: "CC BY 4.0"
-language: "fr"
+title: 'Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement'
+subtitle: À partir du working paper “Verticalisation de la Chrétienté”
+source_document: research/christianity_verticalization.md
+derived_product_type: blogpost
+platform_target: Substack — Les carnets du baron Mariani
+version: '0.1'
+date: '2026-05-25'
+author: Jean Hugues Noël Robert
+license: CC BY 4.0
+language: fr
 tags:
   - christianisme
   - Pentecôte
@@ -21,18 +21,29 @@ tags:
   - verticalisation
   - Substack
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization_blogpost.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-status: "working-paper — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+status: working-paper — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Dieu au-dessus, Dieu à côté : pourquoi l’âne compte politiquement
 

@@ -1,21 +1,33 @@
 ---
-title: "Bien Vivre"
-subtitle: "Capacités, temps, œuvre et exploration d'une vie désirable"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.1"
-date: "2026-09-01"
-license: "CC BY-SA 4.0"
-status: "working-paper"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+title: Bien Vivre
+subtitle: Capacités, temps, œuvre et exploration d'une vie désirable
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+version: '0.1'
+date: '2026-09-01'
+license: CC BY-SA 4.0
+status: working-paper
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Bien Vivre
 

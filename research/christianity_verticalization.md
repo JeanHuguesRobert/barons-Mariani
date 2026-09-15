@@ -1,15 +1,15 @@
 ---
-title: "Verticalisation de la Chrétienté"
-subtitle: "Du Dieu-à-côté au Dieu-au-dessus : esquisse historique, politique et symbolique"
-version: "0.4"
+title: Verticalisation de la Chrétienté
+subtitle: 'Du Dieu-à-côté au Dieu-au-dessus : esquisse historique, politique et symbolique'
+version: '0.4'
 status: working-paper — working paper
-date: "2026-05-25"
-author: "Jean Hugues Noël Robert"
+date: '2026-05-25'
+author: Jean Hugues Noël Robert
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok"
-license: "CC BY 4.0"
-language: "fr"
+  - ChatGPT
+  - Grok
+license: CC BY 4.0
+language: fr
 tags:
   - christianisme
   - histoire
@@ -23,23 +23,34 @@ tags:
   - territoires-capables
   - seconde-méthode
 related_projects:
-  - "Le Petit / Petit Parti / Pertitellu"
-  - "Autonomie de Capacité"
-  - "Machine à explorer"
-  - "Mare Nostrum"
-  - "Musée Mariani des Possibles"
+  - Le Petit / Petit Parti / Pertitellu
+  - Autonomie de Capacité
+  - Machine à explorer
+  - Mare Nostrum
+  - Musée Mariani des Possibles
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/christianity_verticalization.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Verticalisation de la Chrétienté
 

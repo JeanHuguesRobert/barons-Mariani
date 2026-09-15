@@ -1,44 +1,55 @@
 ---
-title: "Proposition constitutionnelle — autonomie de capacité de la Corse"
-subtitle: "Contribution à la rédaction du futur article 72-5 de la Constitution"
+title: Proposition constitutionnelle — autonomie de capacité de la Corse
+subtitle: Contribution à la rédaction du futur article 72-5 de la Constitution
 status: working-paper — constitutional_proposal_v0.1
 language: fr
-created: 2026-05-24
-updated: 2026-05-24
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+created: 2026-05-24T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani de Corte
 function: constitutional_working_proposal
 target_scene: parliamentary_review
-use_of_ai: "Document préparé avec l’aide de l’intelligence artificielle comme outil d’organisation documentaire, de formulation, de confrontation critique et de vérification méthodique. L’autorité du document repose sur ses sources, sa cohérence argumentative et les corrections sourcées qui pourront lui être apportées, non sur l’outil utilisé."
+use_of_ai: Document préparé avec l’aide de l’intelligence artificielle comme outil d’organisation documentaire, de formulation, de confrontation critique et de vérification méthodique. L’autorité du document repose sur ses sources, sa cohérence argumentative et les corrections sourcées qui pourront lui être apportées, non sur l’outil utilisé.
 related_documents:
-  - title: "Courrier public aux six parlementaires corses"
-    role: "document d’envoi de la contribution"
-    path: "research/courrier_public_six_parlementaires_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md"
-    markdown: "[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)"
-  - title: "Note synthétique sur l’autonomie de capacité"
-    role: "synthèse courte de la proposition"
-    path: "research/note_synthetique_autonomie_capacite_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md"
-    markdown: "[Note synthétique sur l’autonomie de capacité](./note_synthetique_autonomie_capacite_corse.md)"
-  - title: "Chronologie documentaire du processus de Beauvau"
-    role: "dossier documentaire de contextualisation"
-    path: "research/chronologie_processus_beauvau_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
-    markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
+  - title: Courrier public aux six parlementaires corses
+    role: document d’envoi de la contribution
+    path: research/courrier_public_six_parlementaires_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
+    markdown: '[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)'
+  - title: Note synthétique sur l’autonomie de capacité
+    role: synthèse courte de la proposition
+    path: research/note_synthetique_autonomie_capacite_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
+    markdown: '[Note synthétique sur l’autonomie de capacité](./note_synthetique_autonomie_capacite_corse.md)'
+  - title: Chronologie documentaire du processus de Beauvau
+    role: dossier documentaire de contextualisation
+    path: research/chronologie_processus_beauvau_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
+    markdown: '[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-date: "2026-05-24"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-24'
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+last_modified_at: Sun May 24
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Proposition constitutionnelle — autonomie de capacité de la Corse
 

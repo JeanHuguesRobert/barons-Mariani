@@ -1,23 +1,36 @@
 ---
-title: "Relèvement du nom d’Angelis — dossier de recherche juridique et généalogique"
-description: "État des preuves, hypothèses, pièces à obtenir et procédure de changement de nom par décret en vue d’un éventuel relèvement du nom d’Angelis."
+title: Relèvement du nom d’Angelis — dossier de recherche juridique et généalogique
+description: État des preuves, hypothèses, pièces à obtenir et procédure de changement de nom par décret en vue d’un éventuel relèvement du nom d’Angelis.
 layout: default
-date: 2026-08-07
-last_modified_at: 2026-08-07
+date: 2026-08-07T00:00:00.000Z
+last_modified_at: 2026-08-07T00:00:00.000Z
 creator: Jean Hugues Noël Robert
 license: CC BY-SA 4.0
 visibility: public
 lifecycle_state: active
-document_role: "source"
+document_role: source
 document_kind: legal-genealogical-research
 status: draft
-legal_verification_date: 2026-08-07
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "source-dossier"
+legal_verification_date: 2026-08-07T00:00:00.000Z
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: source-dossier
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Relèvement du nom d’Angelis
 

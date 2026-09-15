@@ -1,21 +1,21 @@
 ---
-title: "Projet #1755"
-subtitle: "Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne"
-version: "0.14"
+title: 'Projet #1755'
+subtitle: Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne
+version: '0.14'
 status: working-paper — source document / open evidentiary dossier / capacity test (early-stage)
-date: "2026-09-15"
-author: "Jean Hugues Noël Robert"
-institutional_frame: "Institut Mariani — émanation R&D de C.O.R.S.I.C.A."
-association: "C.O.R.S.I.C.A. — Corse Organisant la Réunion Sur Internet de Compétences Autonomes"
-associated_museum_project: "Musée Mariani des Possibles"
-public_dashboard: "research/autonomia/1755.md"
-theoretical_anchor: "research/autonomia.md"
-license: "CC BY 4.0"
+date: '2026-09-15'
+author: Jean Hugues Noël Robert
+institutional_frame: Institut Mariani — émanation R&D de C.O.R.S.I.C.A.
+association: C.O.R.S.I.C.A. — Corse Organisant la Réunion Sur Internet de Compétences Autonomes
+associated_museum_project: Musée Mariani des Possibles
+public_dashboard: research/autonomia/1755.md
+theoretical_anchor: research/autonomia.md
+license: CC BY 4.0
 open_source: true
 non_profit: true
 commercial_purpose: false
-commons_orientation: "bien commun documentaire ouvert"
-language: "fr"
+commons_orientation: bien commun documentaire ouvert
+language: fr
 tags:
   - 1755
   - corse
@@ -47,27 +47,38 @@ tags:
   - independent-allies
   - non-naive-strategy
 related_projects:
-  - "Projet #1755"
-  - "Musée Mariani des Possibles"
-  - "Autonomie de Capacité"
-  - "Kudocracy"
-  - "Cogentia"
-  - "Paese Capace"
+  - 'Projet #1755'
+  - Musée Mariani des Possibles
+  - Autonomie de Capacité
+  - Kudocracy
+  - Cogentia
+  - Paese Capace
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok"
+  - ChatGPT
+  - Grok
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/projet_1755.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-09-15
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-09-15T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Projet #1755
 <!-- BEGIN_AUTO: trails -->

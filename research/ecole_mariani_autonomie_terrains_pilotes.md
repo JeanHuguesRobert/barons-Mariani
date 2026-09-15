@@ -1,14 +1,12 @@
 ---
-title: "École Mariani de l’Autonomie — terrains pilotes"
-subtitle: "Quatre cas d’usage pour former des coachs d’autonomie augmentée par IA"
-author: "Jean Hugues Noël Robert"
-status: "draft"
-version: "0.3"
-date: "2026-06-20"
-repository: "barons-Mariani"
-path: "research/ecole_mariani_autonomie_terrains_pilotes.md"
-type: "source_note"
-language: "fr"
+title: École Mariani de l’Autonomie — terrains pilotes
+subtitle: Quatre cas d’usage pour former des coachs d’autonomie augmentée par IA
+author: Jean Hugues Noël Robert
+status: draft
+version: '0.3'
+date: '2026-06-20'
+type: source_note
+language: fr
 tags:
   - École Mariani de l’Autonomie
   - Mariani School of Autonomy
@@ -30,46 +28,59 @@ tags:
   - stockage thermique
   - inertie thermique
 corpus_hierarchy:
-  level: "source_note"
-  role: "carte des terrains pilotes expérimentaux"
+  level: source_note
+  role: carte des terrains pilotes expérimentaux
   derived_from:
-    - "research/ecole_mariani_autonomie.md"
-    - "research/homeostasie_habitat.md"
-    - "conversation ChatGPT du 2026-06-17 sur l’École Mariani de l’Autonomie"
-    - "conversation ChatGPT du 2026-06-20 sur le réemploi du cumulus comme inertie thermique pilotée"
-    - "contexte conversationnel récent sur un cas pilote anonymisé de maison individuelle urbaine à Corte"
+    - research/ecole_mariani_autonomie.md
+    - research/homeostasie_habitat.md
+    - conversation ChatGPT du 2026-06-17 sur l’École Mariani de l’Autonomie
+    - conversation ChatGPT du 2026-06-20 sur le réemploi du cumulus comme inertie thermique pilotée
+    - contexte conversationnel récent sur un cas pilote anonymisé de maison individuelle urbaine à Corte
   may_generate:
-    - "fiche terrain pilote eau chaude domestique"
-    - "fiche terrain pilote Minesteggio"
-    - "fiche terrain pilote La Maison Blanche"
-    - "fiche terrain pilote maison individuelle urbaine à Corte"
-    - "fiche technique cumulus comme stockage thermique piloté"
-    - "grille d’audit autonomie énergétique"
-    - "grille homéostatique de l’habitat"
-    - "article Substack grand public"
+    - fiche terrain pilote eau chaude domestique
+    - fiche terrain pilote Minesteggio
+    - fiche terrain pilote La Maison Blanche
+    - fiche terrain pilote maison individuelle urbaine à Corte
+    - fiche technique cumulus comme stockage thermique piloté
+    - grille d’audit autonomie énergétique
+    - grille homéostatique de l’habitat
+    - article Substack grand public
 related_documents:
-  - "research/ecole_mariani_autonomie.md"
-  - "research/homeostasie_habitat.md"
-  - "research/cas_maison_urbaine_corte_autonomie.md"
-  - "research/serenia_autonomie_assistee_ia.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/EDF.md"
+  - research/ecole_mariani_autonomie.md
+  - research/homeostasie_habitat.md
+  - research/cas_maison_urbaine_corte_autonomie.md
+  - research/serenia_autonomie_assistee_ia.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/EDF.md
 related_projects:
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "FractaVolta"
-  - "Cogentia"
-  - "Mare Nostrum"
-  - "Paese Capace"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - FractaVolta
+  - Cogentia
+  - Mare Nostrum
+  - Paese Capace
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # École Mariani de l’Autonomie — terrains pilotes
 

@@ -1,40 +1,51 @@
 ---
-title: "Le théâtre des pays imaginaires de Corse"
-subtitle: "Fables sérieuses sur le processus de Beauvau, l’autonomie et les rôles publics de la politique corse"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-28"
-status: "draft — produit décliné satirique et documentaire v0.1"
-version: "0.1"
-type: "political satire / derived essay / theatrical atlas"
-branch: "main"
-intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau.md"
+title: Le théâtre des pays imaginaires de Corse
+subtitle: Fables sérieuses sur le processus de Beauvau, l’autonomie et les rôles publics de la politique corse
+author: Jean Hugues Noël Robert
+date: '2026-05-28'
+status: draft — produit décliné satirique et documentaire v0.1
+version: '0.1'
+type: political satire / derived essay / theatrical atlas
+branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau.md
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 derived_from:
-  - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
-    path: "research/autonomia/atlas_paysage_politique_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md"
-  - title: "Chronologie documentaire du processus de Beauvau"
-    path: "research/chronologie_processus_beauvau_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
+  - title: Atlas du paysage politique et discursif corse — Une Corse capable
+    path: research/autonomia/atlas_paysage_politique_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
+  - title: Chronologie documentaire du processus de Beauvau
+    path: research/chronologie_processus_beauvau_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
 related_documents:
-  - title: "Note synthétique sur l’autonomie de capacité"
-    path: "research/note_synthetique_autonomie_capacite_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md"
-  - title: "Proposition constitutionnelle — autonomie de capacité"
-    path: "research/proposition_constitutionnelle_autonomie_capacite_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - title: Note synthétique sur l’autonomie de capacité
+    path: research/note_synthetique_autonomie_capacite_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
+  - title: Proposition constitutionnelle — autonomie de capacité
+    path: research/proposition_constitutionnelle_autonomie_capacite_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le théâtre des pays imaginaires de Corse
 

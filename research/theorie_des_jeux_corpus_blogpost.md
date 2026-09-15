@@ -1,27 +1,25 @@
 ---
-title: "Les règles du jeu sont cassées"
-subtitle: "Autonomie, logement, énergie : pourquoi la Corse doit apprendre à lire les jeux de pouvoir"
-author: "Jean Hugues Noël Robert"
-date: "2026-06-26"
-status: "draft — substack"
-version: "0.2"
-license: "CC BY-SA 4.0"
-repository: "barons-Mariani"
-path: "research/theorie_des_jeux_corpus_blogpost.md"
-document_role: "source"
-document_kind: "substack-draft"
-source_document: "research/theorie_des_jeux_corpus.md v0.2.1"
-source_document_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md"
-visibility: "public"
-lifecycle_state: "draft"
+title: Les règles du jeu sont cassées
+subtitle: 'Autonomie, logement, énergie : pourquoi la Corse doit apprendre à lire les jeux de pouvoir'
+author: Jean Hugues Noël Robert
+date: '2026-06-26'
+status: draft — substack
+version: '0.2'
+license: CC BY-SA 4.0
+document_role: source
+document_kind: substack-draft
+source_document: research/theorie_des_jeux_corpus.md v0.2.1
+source_document_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md
+visibility: public
+lifecycle_state: draft
 human_validation_required: true
-campaign_context: "campagne sénatoriale Haute-Corse 2026"
+campaign_context: campagne sénatoriale Haute-Corse 2026
 related_documents:
-  - "research/theorie_des_jeux_corpus.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/kudos.md"
-  - "research/autonomia/projet_1755.md"
+  - research/theorie_des_jeux_corpus.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/traceabilite_des_actes.md
+  - research/kudos.md
+  - research/autonomia/projet_1755.md
 tags:
   - Substack
   - campagne sénatoriale
@@ -37,12 +35,25 @@ tags:
   - Fractanet
   - déclaration d’intérêts
   - anti-capture
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "product"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: product
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Les règles du jeu sont cassées
 

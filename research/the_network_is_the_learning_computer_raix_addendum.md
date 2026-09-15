@@ -1,27 +1,27 @@
 ---
-title: "The Network is the Learning Computer — RAIX Capability-Array Addendum"
-subtitle: "From replaceable handlers to dynamically composed computers"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-22"
-version: "0.1"
-status: "integrated"
-last_modified_at: "2026-09-04"
-document_role: "source"
-document_kind: "research-addendum"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
+title: The Network is the Learning Computer — RAIX Capability-Array Addendum
+subtitle: From replaceable handlers to dynamically composed computers
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-22'
+version: '0.1'
+status: integrated
+last_modified_at: '2026-09-04'
+document_role: source
+document_kind: research-addendum
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
 methodology:
-  - "Second Method"
-  - "Reactive Corpus semantic propagation"
+  - Second Method
+  - Reactive Corpus semantic propagation
 related_documents:
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/the_network_is_the_learning_computer_v0.6_addendum.md"
-  - "research/potentics_of_compute.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md"
+  - research/the_network_is_the_learning_computer.md
+  - research/the_network_is_the_learning_computer_v0.6_addendum.md
+  - research/potentics_of_compute.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md
 tags:
   - learning-computer
   - raix
@@ -32,11 +32,22 @@ tags:
   - cgra
   - physarum
   - reactive-corpus
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # The Network is the Learning Computer — RAIX Capability-Array Addendum
 

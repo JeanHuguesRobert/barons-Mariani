@@ -1,19 +1,18 @@
 ---
-title: "Du baron Mariani singulier aux Agents JHN"
-subtitle: "Cogentia, Cogentigram et pluralisation contrôlée d'une fonction historique"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-08"
-status: "draft"
-document_role: "source"
-document_kind: "conceptual-bridge"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Du baron Mariani singulier aux Agents JHN
+subtitle: Cogentia, Cogentigram et pluralisation contrôlée d'une fonction historique
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-08'
+status: draft
+document_role: source
+document_kind: conceptual-bridge
+visibility: public
 related_repositories:
-  - "JeanHuguesRobert/cogentia"
-  - "JeanHuguesRobert/FractaVolta"
-  - "JeanHuguesRobert/marenostrum"
-  - "JeanHuguesRobert/Inox"
-  - "JeanHuguesRobert/inseme"
+  - JeanHuguesRobert/cogentia
+  - JeanHuguesRobert/FractaVolta
+  - JeanHuguesRobert/marenostrum
+  - JeanHuguesRobert/Inox
+  - JeanHuguesRobert/inseme
 tags:
   - barons-mariani
   - agents-jhn
@@ -24,13 +23,27 @@ tags:
   - autonomie-de-capacite
   - fractanet
   - transmission
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "doctrine"
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: doctrine
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Du baron Mariani singulier aux Agents JHN
 

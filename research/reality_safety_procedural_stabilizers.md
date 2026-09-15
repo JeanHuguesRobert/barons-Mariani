@@ -1,27 +1,25 @@
 ---
-title: "Reality Safety"
-subtitle: "AI Safety as a revealer of a deeper crisis of shared reality"
-version: "0.9.1"
-status: "draft — source document, literary-analytic form, academic grounding pass, claims registry consolidation, capability-regimes bridge"
-date: "2026-06-15"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-language: "en"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "research/reality_safety_procedural_stabilizers.md"
-canonical_url: "TODO after publication"
-corpus_role: "source"
-annex_policy: "Occam: the academic reference matrix remains integrated as Appendix A. Nihilism / boreout / meaning-loss material is retained inside the source only as a bounded Level-B implication, not split into a companion file at this stage."
-style_note: "Version 0.9.1 is a light bridge pass over version 0.9: it preserves the pre-publication consolidation, adds a limited connection to Fractanet capability regimes, and keeps Reality Safety focused on provenance, correction and shared-world maintenance rather than expanding into a full infrastructure theory."
-review_status: "Grok constructive review integrated selectively on 2026-06-15; academic grounding pass added on 2026-06-15; reference matrix integrated as appendix on 2026-06-15; Claude review integrated selectively on 2026-06-15; Grok/Claude Ubik calibration integrated selectively on 2026-06-15; claims registry consolidation added on 2026-06-15; premature implementation-language removed; capability-regimes bridge added on 2026-06-15; human validation remains required."
+title: Reality Safety
+subtitle: AI Safety as a revealer of a deeper crisis of shared reality
+version: 0.9.1
+status: draft — source document, literary-analytic form, academic grounding pass, claims registry consolidation, capability-regimes bridge
+date: '2026-06-15'
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+language: en
+canonical_url: TODO after publication
+corpus_role: source
+annex_policy: 'Occam: the academic reference matrix remains integrated as Appendix A. Nihilism / boreout / meaning-loss material is retained inside the source only as a bounded Level-B implication, not split into a companion file at this stage.'
+style_note: 'Version 0.9.1 is a light bridge pass over version 0.9: it preserves the pre-publication consolidation, adds a limited connection to Fractanet capability regimes, and keeps Reality Safety focused on provenance, correction and shared-world maintenance rather than expanding into a full infrastructure theory.'
+review_status: Grok constructive review integrated selectively on 2026-06-15; academic grounding pass added on 2026-06-15; reference matrix integrated as appendix on 2026-06-15; Claude review integrated selectively on 2026-06-15; Grok/Claude Ubik calibration integrated selectively on 2026-06-15; claims registry consolidation added on 2026-06-15; premature implementation-language removed; capability-regimes bridge added on 2026-06-15; human validation remains required.
 derived_products_expected:
-  - "French public essay"
-  - "English academic-style working paper"
-  - "Substack article"
-  - "LinkedIn note"
-  - "Facebook post"
-  - "conference abstract"
+  - French public essay
+  - English academic-style working paper
+  - Substack article
+  - LinkedIn note
+  - Facebook post
+  - conference abstract
 tags:
   - reality-safety
   - ai-safety
@@ -43,28 +41,39 @@ tags:
   - decision-under-uncertainty
   - fractanet
 related_projects:
-  - "Barons Mariani"
-  - "Cogentia"
-  - "Ubikia"
-  - "Fractanet"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
+  - Barons Mariani
+  - Cogentia
+  - Ubikia
+  - Fractanet
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
 ai_assisted_by:
-  - "ChatGPT"
+  - ChatGPT
 methodological_status:
-  second_method: "applied"
-  pipeline_stage: "source document draft"
-  evidence_policy: "facts, interpretations, hypotheses, analogies and rhetorical devices must be distinguished"
-  objection_policy: "objections are first-class contributions"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  second_method: applied
+  pipeline_stage: source document draft
+  evidence_policy: facts, interpretations, hypotheses, analogies and rhetorical devices must be distinguished
+  objection_policy: objections are first-class contributions
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Reality Safety
 

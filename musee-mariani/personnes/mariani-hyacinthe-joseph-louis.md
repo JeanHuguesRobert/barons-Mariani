@@ -1,40 +1,42 @@
 ---
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/personnes/mariani-hyacinthe-joseph-louis.md"
-title: "Hyacinthe Joseph Louis Mariani (1827–?) — notice de recherche"
-description: "Notice probatoire provisoire consacrée à Hyacinthe Joseph Louis Mariani, officier de cavalerie né à Corte selon des sources secondaires."
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-14"
-last_modified_at: "2026-09-14"
-status: "working — open biographical research"
-language: "fr"
-license: "CC BY-SA 4.0"
-visibility: "public"
-lifecycle_state: "working"
-document_role: "source"
-document_kind: "genealogical-person-notice"
-update_policy: "UP-DEFAULT-REVIEWED"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "musee-mariani/personnes/mariani-hyacinthe-joseph-louis.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/personnes/mariani-hyacinthe-joseph-louis.md
+title: Hyacinthe Joseph Louis Mariani (1827–?) — notice de recherche
+description: Notice probatoire provisoire consacrée à Hyacinthe Joseph Louis Mariani, officier de cavalerie né à Corte selon des sources secondaires.
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-09-14'
+last_modified_at: '2026-09-14'
+status: working — open biographical research
+language: fr
+license: CC BY-SA 4.0
+visibility: public
+lifecycle_state: working
+document_role: source
+document_kind: genealogical-person-notice
+update_policy: UP-DEFAULT-REVIEWED
 related_documents:
-  - "musee-mariani/personnes/README.md"
-  - "musee-mariani/methodes/notices_famille_etendue.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "musee-mariani/sources/bibliographie.md"
+  - musee-mariani/personnes/README.md
+  - musee-mariani/methodes/notices_famille_etendue.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - musee-mariani/sources/bibliographie.md
 provenance:
-  origin_type: "repository-issue-and-source-review"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_type: repository-issue-and-source-review
+  origin_repository: JeanHuguesRobert/barons-Mariani
   derived_from:
-    - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/66"
-    - "Nobiliaire universel de France, volume 21, 1872–1877"
-    - "sources secondaires et généalogiques consultées le 2026-09-14"
+    - https://github.com/JeanHuguesRobert/barons-Mariani/issues/66
+    - Nobiliaire universel de France, volume 21, 1872–1877
+    - sources secondaires et généalogiques consultées le 2026-09-14
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "manual"
-classification_version: "1"
-classification_rule: "public-genealogical-research"
-classification_confidence: "strong"
+classification_source: manual
+classification_version: '1'
+classification_rule: public-genealogical-research
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Hyacinthe Joseph Louis Mariani (1827–?)
 

@@ -1,10 +1,10 @@
 ---
-title: "Courrier public aux six parlementaires de Corse"
-subtitle: "Pour une autonomie de capacité réelle et pleinement inscrite dans la République"
+title: Courrier public aux six parlementaires de Corse
+subtitle: Pour une autonomie de capacité réelle et pleinement inscrite dans la République
 status: working-paper — public_letter_v0.6
 language: fr
-created: 2026-05-24
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+created: 2026-05-24T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani de Corte
 relation_to_source: asymmetric
 source_lineage: multi-source
 function: public_political_letter
@@ -17,19 +17,30 @@ primary_sources:
   - repository: barons-Mariani
     path: research/declaration_independance_capacite_corse.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-date: "2026-05-24"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+date: '2026-05-24'
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Courrier public aux six parlementaires de Corse
 

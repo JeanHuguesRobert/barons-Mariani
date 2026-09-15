@@ -1,28 +1,41 @@
 ---
-title: "Alignement doctrinal — souveraineté, délégation et Agents Mandatés"
-author: "Jean Hugues Noël Robert"
-date: "2026-08-24"
-version: "1.0"
-status: "source — consolidation"
-license: "CC BY-SA 4.0"
-document_role: "source"
-visibility: "public"
+title: Alignement doctrinal — souveraineté, délégation et Agents Mandatés
+author: Jean Hugues Noël Robert
+date: '2026-08-24'
+version: '1.0'
+status: source — consolidation
+license: CC BY-SA 4.0
+document_role: source
+visibility: public
 human_validation_required: true
 related:
-  - "./souverainete_delegation_agents_mandates.md"
-  - "./noyau_doctrinal_rendre_capable.md"
-  - "./democratie_capable.md"
-  - "./kudocracy.md"
-  - "./methode_terrains_feconds.md"
-  - "./debord_stabilisateur_procedural.md"
-  - "./security_model_representative_democracy.md"
-document_kind: "research-paper"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - ./souverainete_delegation_agents_mandates.md
+  - ./noyau_doctrinal_rendre_capable.md
+  - ./democratie_capable.md
+  - ./kudocracy.md
+  - ./methode_terrains_feconds.md
+  - ./debord_stabilisateur_procedural.md
+  - ./security_model_representative_democracy.md
+document_kind: research-paper
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Alignement doctrinal — 24 août 2026
 

@@ -1,29 +1,31 @@
 ---
-title: "Shared Semantic Codec and Proverb Regime"
-subtitle: "Dense references, shared context and adaptive compression between interlocutors"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-30"
-last_modified_at: "2026-08-30"
-version: "0.1"
-status: "working-note — conversation consolidation"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Shared Semantic Codec and Proverb Regime
+subtitle: Dense references, shared context and adaptive compression between interlocutors
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-30'
+last_modified_at: '2026-08-30'
+version: '0.1'
+status: working-note — conversation consolidation
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_date: "2026-08-30"
-  note: "Consolidates earlier conversations on adaptive semantic compression, speaking by proverbs, antagonistic maxims, Cognitive Packets and Packet Attractors."
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_date: '2026-08-30'
+  note: Consolidates earlier conversations on adaptive semantic compression, speaking by proverbs, antagonistic maxims, Cognitive Packets and Packet Attractors.
+  origin_ref: unknown
+  derived_from: []
 related_documents:
-  - "research/potentics_exploration_ontology.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/potentics.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
+  - research/potentics_exploration_ontology.md
+  - research/rational_odysseys_the_possible.md
+  - research/potentics.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md
 tags:
   - semantic-compression
   - shared-context
@@ -35,13 +37,14 @@ tags:
   - cognitive-exergy
   - patterns
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # Shared Semantic Codec and Proverb Regime
 

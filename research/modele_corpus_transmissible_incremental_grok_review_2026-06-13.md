@@ -1,26 +1,39 @@
 ---
-title: "Constructive Review: Incremental Transmissible Corpus Model"
-subtitle: "External critical review of speculative embryonic source document v0.2"
-author: "Grok — constructive external reviewer, non-decisional"
-status: "review — complete — archived from conversation upload"
-version: "0.1"
-license: "CC BY-SA 4.0"
-language: "en"
-target_document: "JeanHuguesRobert/barons-Mariani/research/modele_corpus_transmissible_incremental.md"
-review_date: "2026-06-13"
+title: 'Constructive Review: Incremental Transmissible Corpus Model'
+subtitle: External critical review of speculative embryonic source document v0.2
+author: Grok — constructive external reviewer, non-decisional
+status: review — complete — archived from conversation upload
+version: '0.1'
+license: CC BY-SA 4.0
+language: en
+target_document: JeanHuguesRobert/barons-Mariani/research/modele_corpus_transmissible_incremental.md
+review_date: '2026-06-13'
 human_validation_required: true
-source_upload: "review(16).md"
-corpus_role: "external-review"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_corpus_role: "external-review"
+source_upload: review(16).md
+corpus_role: external-review
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_corpus_role: external-review
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Constructive Review: Incremental Transmissible Corpus Model
 

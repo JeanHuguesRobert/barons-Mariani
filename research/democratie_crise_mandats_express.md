@@ -1,56 +1,66 @@
 ---
-title: "Mandats express et démocratie capable de crise"
-subtitle: "Répondre à l’objection de lenteur démocratique sans ouvrir la voie à l’état d’exception tyrannique"
-author: "Jean Hugues Noël Robert"
-status: "document source — souverain — doctrinal — politique — académique"
-version: "0.4"
-date: "2026-07-31"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-canonical_path: "barons-Mariani/research/democratie_crise_mandats_express.md"
-source_status: "source souveraine du corpus politique ; non simple produit décliné"
+title: Mandats express et démocratie capable de crise
+subtitle: Répondre à l’objection de lenteur démocratique sans ouvrir la voie à l’état d’exception tyrannique
+author: Jean Hugues Noël Robert
+status: document source — souverain — doctrinal — politique — académique
+version: '0.4'
+date: '2026-07-31'
+license: CC BY-SA 4.0
+language: fr
+source_status: source souveraine du corpus politique ; non simple produit décliné
 corpus_hierarchy:
-  role: "document source souverain principal"
+  role: document source souverain principal
   level: 2
-  scope: "mandats express, démocratie capable de crise, réponse anti-tyrannique à l’objection de lenteur démocratique"
+  scope: mandats express, démocratie capable de crise, réponse anti-tyrannique à l’objection de lenteur démocratique
   upstream_method:
-    - "cogentia/research/conversation_to_corpus_pipeline.md"
+    - cogentia/research/conversation_to_corpus_pipeline.md
   synthetic_companion:
-    - "cogentia/research/mandated_fast_democracy.md"
+    - cogentia/research/mandated_fast_democracy.md
 related_research:
-  - "cogentia/research/conversation_to_corpus_pipeline.md"
-  - "cogentia/research/mandated_fast_democracy.md"
-  - "cogentia/research/pipeline.md"
-  - "cogentia/research/derived_products.md"
-  - "barons-Mariani/research/second_method.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
+  - cogentia/research/conversation_to_corpus_pipeline.md
+  - cogentia/research/mandated_fast_democracy.md
+  - cogentia/research/pipeline.md
+  - cogentia/research/derived_products.md
+  - barons-Mariani/research/second_method.md
+  - barons-Mariani/research/traceabilite_des_actes.md
 related_projects:
-  - "Autonomie de Capacité"
-  - "Inseme"
-  - "Conversia"
-  - "Cellula"
-  - "Kudocracy"
-  - "Archia"
-  - "Cogentia"
-keywords:
-  - "démocratie rapide"
-  - "mandats express"
-  - "mandats conditionnels"
-  - "état d’exception"
-  - "état d’urgence"
-  - "anti-capture"
-  - "Autonomie de Capacité"
-  - "traçabilité démocratique"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Autonomie de Capacité
+  - Inseme
+  - Conversia
+  - Cellula
+  - Kudocracy
+  - Archia
+  - Cogentia
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+tags:
+  - démocratie rapide
+  - mandats express
+  - mandats conditionnels
+  - état d’exception
+  - état d’urgence
+  - anti-capture
+  - Autonomie de Capacité
+  - traçabilité démocratique
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # Mandats express et démocratie capable de crise
 
 **Répondre à l’objection de lenteur démocratique sans ouvrir la voie à l’état d’exception tyrannique**

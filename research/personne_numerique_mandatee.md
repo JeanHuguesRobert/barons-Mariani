@@ -1,59 +1,60 @@
 ---
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-title: "La personne numérique mandatée"
-subtitle: "Personnalité morale, souveraineté humaine et traçabilité des agents"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A. — Corte, Corsica"
-date: "2026-07-27"
-last_modified_at: "2026-08-01"
-version: "0.1.1"
-status: "working paper — source provisoire à validation humaine"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DECISION-REVIEW"
-language: "fr"
-abstract_language: "en"
-canonical_path: "barons-Mariani/research/personne_numerique_mandatee.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/personne_numerique_mandatee.md"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+title: La personne numérique mandatée
+subtitle: Personnalité morale, souveraineté humaine et traçabilité des agents
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A. — Corte, Corsica
+date: '2026-07-27'
+last_modified_at: '2026-08-01'
+version: 0.1.1
+status: working paper — source provisoire à validation humaine
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+update_policy: UP-DECISION-REVIEW
+language: fr
+abstract_language: en
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/personne_numerique_mandatee.md
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R31"
-  origin_date: "2026-07-27"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R31
+  origin_date: '2026-07-27'
   derived_from:
-    - "barons-Mariani/research/dao_imputabilite_dhitl.md"
-    - "barons-Mariani/research/traceabilite_des_actes.md"
-    - "barons-Mariani/research/noyau_doctrinal_rendre_capable.md"
-    - "barons-Mariani/research/justice_divine_mandat_implicite.md"
-    - "inseme/packages/cop-core/COP_ACCOUNTING.md"
-    - "inseme/research/personal_instance_democracy_and_non_capturable_match.md"
+    - barons-Mariani/research/dao_imputabilite_dhitl.md
+    - barons-Mariani/research/traceabilite_des_actes.md
+    - barons-Mariani/research/noyau_doctrinal_rendre_capable.md
+    - barons-Mariani/research/justice_divine_mandat_implicite.md
+    - inseme/packages/cop-core/COP_ACCOUNTING.md
+    - inseme/research/personal_instance_democracy_and_non_capturable_match.md
 review:
-  status: "internal consistency review completed; legal and comparative review pending"
+  status: internal consistency review completed; legal and comparative review pending
   reviewed_by:
-    - "OpenAI Codex — structural and corpus-consistency review"
-  reviewed_at: "2026-07-27"
+    - OpenAI Codex — structural and corpus-consistency review
+  reviewed_at: '2026-07-27'
 human_validation_required: true
 ai_assisted_by:
-  - name: "OpenAI Codex"
-    role: "research, drafting, source comparison, internal consistency review"
-    principal: "Jean Hugues Noël Robert"
-    responsibility: "Human author retains validation and publication authority"
+  - name: OpenAI Codex
+    role: research, drafting, source comparison, internal consistency review
+    principal: Jean Hugues Noël Robert
+    responsibility: Human author retains validation and publication authority
 tags:
-  - "digital twin"
-  - "digital person"
-  - "personne morale"
-  - "mandat"
-  - "DHITL"
-  - "COP"
-  - "accountability"
-  - "AI safety"
-  - "democracy"
+  - digital twin
+  - digital person
+  - personne morale
+  - mandat
+  - DHITL
+  - COP
+  - accountability
+  - AI safety
+  - democracy
+license: CC BY-SA 4.0
 ---
+
 
 # La personne numérique mandatée
 

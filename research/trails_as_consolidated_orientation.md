@@ -1,35 +1,36 @@
 ---
-title: "Trails as Consolidated Orientation"
-subtitle: "From traces and trajectories to reusable, non-prescriptive paths of exploration"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-30"
-last_modified_at: "2026-09-05"
-version: "0.2"
-status: "working-note — conceptual consolidation"
-document_role: "source"
-document_kind: "doctrinal-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Trails as Consolidated Orientation
+subtitle: From traces and trajectories to reusable, non-prescriptive paths of exploration
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-30'
+last_modified_at: '2026-09-05'
+version: '0.2'
+status: working-note — conceptual consolidation
+document_role: source
+document_kind: doctrinal-note
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_date: "2026-08-30"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_date: '2026-08-30'
   derived_from:
-    - "research/potentics_exploration_ontology.md"
-    - "research/rational_odysseys_the_possible.md"
-    - "research/shared_semantic_codec_and_proverb_regime.md"
+    - research/potentics_exploration_ontology.md
+    - research/rational_odysseys_the_possible.md
+    - research/shared_semantic_codec_and_proverb_regime.md
+  origin_ref: unknown
 related_documents:
-  - "research/potentics_exploration_ontology.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/potentics.md"
-  - "research/shared_semantic_codec_and_proverb_regime.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/the_network_is_the_learning_computer_raix_addendum.md"
-  - "research/potentics_of_compute.md"
+  - research/potentics_exploration_ontology.md
+  - research/rational_odysseys_the_possible.md
+  - research/potentics.md
+  - research/shared_semantic_codec_and_proverb_regime.md
+  - research/the_network_is_the_learning_computer.md
+  - research/the_network_is_the_learning_computer_raix_addendum.md
+  - research/potentics_of_compute.md
 tags:
   - trails
   - traces
@@ -46,13 +47,14 @@ tags:
   - ithaca
   - cognitive-packets
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # Trails as Consolidated Orientation
 

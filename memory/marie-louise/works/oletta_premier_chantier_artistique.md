@@ -1,25 +1,30 @@
 ---
-title: "Marie-Louise — Oletta, premier chantier artistique professionnel connu"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-12"
-language: "fr"
-document_role: "source-note"
-document_kind: "artwork-trace"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — Oletta, premier chantier artistique professionnel connu
+author: Jean Hugues Noël Robert
+date: '2026-09-12'
+language: fr
+document_role: source-note
+document_kind: artwork-trace
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation 2026-09-12"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation 2026-09-12
   derived_from:
-    - "ASSERTION-JHR"
-    - "photographies familiales à inventorier"
+    - ASSERTION-JHR
+    - photographies familiales à inventorier
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-x-certainty: "mixed"
+x-certainty: mixed
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # Oletta — deux peintures murales
 

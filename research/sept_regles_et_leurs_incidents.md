@@ -1,31 +1,47 @@
 ---
-title: "Sept règles et leurs incidents"
-subtitle: "Complément opératoire à la Seconde Méthode"
-description: "Règles de travail dégagées lors de la session des 20-22 juillet 2026, chacune rattachée à l'échec documenté qui l'a produite. Conservation du retour négatif appliquée à la méthode elle-même."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A."
-email: "jhr@baronsmariani.org"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/sept_regles_et_leurs_incidents.md"
-version: "0.1"
-status: "note de travail"
-date: "2026-07-22"
-last_modified_at: "2026-07-22"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-tags: [seconde-methode, potentics, methode, retour-negatif]
+title: Sept règles et leurs incidents
+subtitle: Complément opératoire à la Seconde Méthode
+description: Règles de travail dégagées lors de la session des 20-22 juillet 2026, chacune rattachée à l'échec documenté qui l'a produite. Conservation du retour négatif appliquée à la méthode elle-même.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A.
+email: jhr@baronsmariani.org
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/sept_regles_et_leurs_incidents.md
+version: '0.1'
+status: note de travail
+date: '2026-07-22'
+last_modified_at: '2026-07-22'
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+tags:
+  - seconde-methode
+  - potentics
+  - methode
+  - retour-negatif
 related:
-  - "research/second_method.md"
-  - "research/potentics.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/CPKT-2026-001_c11_substitution.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/corpus_navigation_audit.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - research/second_method.md
+  - research/potentics.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/CPKT-2026-001_c11_substitution.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/corpus_navigation_audit.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Sept règles et leurs incidents
 

@@ -1,42 +1,41 @@
 ---
-title: "Incremental Transmissible Corpus Model"
-subtitle: "Cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities"
-version: "0.3"
-status: "working-paper — source document — speculative embryo — externally reviewed"
-date: "2026-06-13"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-language: "en"
-intended_path: "research/modele_corpus_transmissible_incremental.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/modele_corpus_transmissible_incremental.md"
-issue: "JeanHuguesRobert/barons-Mariani#7"
-symmetry: "medium-high — source-hypothesis, still speculative"
-corpus_role: "source-hypothesis"
-review_status: "Grok constructive review integrated selectively — 2026-06-13"
-review_file: "research/modele_corpus_transmissible_incremental_grok_review_2026-06-13.md"
+title: Incremental Transmissible Corpus Model
+subtitle: Cognitive backtracking, qualitative stigmergy, and cumulative exploration of possibilities
+version: '0.3'
+status: working-paper — source document — speculative embryo — externally reviewed
+date: '2026-06-13'
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+language: en
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/modele_corpus_transmissible_incremental.md
+issue: JeanHuguesRobert/barons-Mariani#7
+symmetry: medium-high — source-hypothesis, still speculative
+corpus_role: source-hypothesis
+review_status: Grok constructive review integrated selectively — 2026-06-13
+review_file: research/modele_corpus_transmissible_incremental_grok_review_2026-06-13.md
 corpus_hierarchy:
-  level: "speculative-source"
-  parent_method: "JeanHuguesRobert/barons-Mariani/research/second_method.md"
+  level: speculative-source
+  parent_method: JeanHuguesRobert/barons-Mariani/research/second_method.md
   related_repositories:
-    - "JeanHuguesRobert/cogentia"
-    - "JeanHuguesRobert/inseme"
-    - "JeanHuguesRobert/Inox"
-    - "JeanHuguesRobert/barons-Mariani"
+    - JeanHuguesRobert/cogentia
+    - JeanHuguesRobert/inseme
+    - JeanHuguesRobert/Inox
+    - JeanHuguesRobert/barons-Mariani
 critique_integrated:
-  - "ChatGPT drafting pass, 2026-06-13"
-  - "English translation and title normalization, 2026-06-13"
-  - "Grok constructive review v0.1, selectively integrated by ChatGPT, pending human arbitration, 2026-06-13"
+  - ChatGPT drafting pass, 2026-06-13
+  - English translation and title normalization, 2026-06-13
+  - Grok constructive review v0.1, selectively integrated by ChatGPT, pending human arbitration, 2026-06-13
 critique_pending:
-  - "Human arbitration on final naming, prototype scope, and technical derivations"
-  - "Empirical micro-prototype before any stronger claim of acceleration"
+  - Human arbitration on final naming, prototype scope, and technical derivations
+  - Empirical micro-prototype before any stronger claim of acceleration
 intended_derivatives:
-  - "short_academic_note"
-  - "substack_article"
-  - "cogentia_architecture_note"
-  - "cognitive_packet_yaml_schema"
-  - "COP_exploration_protocol"
-  - "research_pitch"
+  - short_academic_note
+  - substack_article
+  - cogentia_architecture_note
+  - cognitive_packet_yaml_schema
+  - COP_exploration_protocol
+  - research_pitch
 tags:
   - cogentia
   - corpus-source
@@ -53,30 +52,41 @@ tags:
   - speculative
   - human-validation
 related_documents:
-  - "JeanHuguesRobert/barons-Mariani/research/second_method.md"
-  - "JeanHuguesRobert/barons-Mariani/research/trace_epistemology.md"
-  - "JeanHuguesRobert/barons-Mariani/research/cognitive_waves.md"
-  - "JeanHuguesRobert/barons-Mariani/research/stigmergie_sans_limite_haute.md"
-  - "JeanHuguesRobert/cogentia/research/conversation_to_corpus_pipeline.md"
-  - "JeanHuguesRobert/cogentia/research/cognitive_packets.md"
-  - "JeanHuguesRobert/cogentia/research/derived_products.md"
-  - "JeanHuguesRobert/inseme/AGENTS.md"
-  - "JeanHuguesRobert/inseme/packages/cop-core"
+  - JeanHuguesRobert/barons-Mariani/research/second_method.md
+  - JeanHuguesRobert/barons-Mariani/research/trace_epistemology.md
+  - JeanHuguesRobert/barons-Mariani/research/cognitive_waves.md
+  - JeanHuguesRobert/barons-Mariani/research/stigmergie_sans_limite_haute.md
+  - JeanHuguesRobert/cogentia/research/conversation_to_corpus_pipeline.md
+  - JeanHuguesRobert/cogentia/research/cognitive_packets.md
+  - JeanHuguesRobert/cogentia/research/derived_products.md
+  - JeanHuguesRobert/inseme/AGENTS.md
+  - JeanHuguesRobert/inseme/packages/cop-core
 ai_assisted_by:
-  - "ChatGPT — drafting, state-of-the-art framing, structure, English version, review integration"
-  - "Grok — constructive external reviewer, non-decisional"
+  - ChatGPT — drafting, state-of-the-art framing, structure, English version, review integration
+  - Grok — constructive external reviewer, non-decisional
 human_validation_required: true
-next_action: "Run a micro-prototype on a small curated corpus before producing stronger claims or technical derivatives."
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_corpus_role: "source-hypothesis"
+next_action: Run a micro-prototype on a small curated corpus before producing stronger claims or technical derivatives.
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_corpus_role: source-hypothesis
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Incremental Transmissible Corpus Model
 

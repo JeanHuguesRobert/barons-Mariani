@@ -1,23 +1,35 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/ateliers/atelier_distillerie.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Atelier : distillerie"
-subtitle: "Fiche de possible — Musée Mariani des Possibles"
-date: "2026-06-27"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "fiche-possible"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: 'Atelier : distillerie'
+subtitle: Fiche de possible — Musée Mariani des Possibles
+date: '2026-06-27'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: fiche-possible
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/template_fiche_possible.md"
-  - "musee-mariani/juridique/autorisations_ateliers_sous_traites.md"
-  - "musee-mariani/juridique/demander_au_juge.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/template_fiche_possible.md
+  - musee-mariani/juridique/autorisations_ateliers_sous_traites.md
+  - musee-mariani/juridique/demander_au_juge.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Atelier : distillerie
 

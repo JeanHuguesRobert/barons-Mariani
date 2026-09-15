@@ -1,21 +1,21 @@
 ---
-title: "On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde"
-subtitle: "Comment je me démultipie dans l’espace des idées pour explorer rationnellement Le Possible"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-07-11"
-publication_date: "2026-07-12"
-last_stamped_at: "2026-07-13"
-version: "0.3-blogpost"
-language: "fr"
-license: "CC BY-SA 4.0"
-status: "published — Substack / Les carnets du baron Mariani"
-document_role: "source"
-derivation_mode: "directed"
-document_family: "derived_public_blogpost"
-document_kind: "public-essay"
-publication_target: "Les carnets du baron Mariani"
-platform_target: "Substack"
+title: On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde
+subtitle: Comment je me démultipie dans l’espace des idées pour explorer rationnellement Le Possible
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-07-11'
+publication_date: '2026-07-12'
+last_stamped_at: '2026-07-13'
+version: 0.3-blogpost
+language: fr
+license: CC BY-SA 4.0
+status: published — Substack / Les carnets du baron Mariani
+document_role: source
+derivation_mode: directed
+document_family: derived_public_blogpost
+document_kind: public-essay
+publication_target: Les carnets du baron Mariani
+platform_target: Substack
 adapted_products:
   - repository: JeanHuguesRobert/JeanHuguesRobert
     paths:
@@ -23,38 +23,48 @@ adapted_products:
       - .ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken.reviewed.md
       - .ubikia/products/carnets-baron-mariani-audio/on-nest-jamais-si-bien-servi/spoken/01-ouverture-et-corpus.md
     target: YouTube
-publication_url: "https://open.substack.com/pub/jeanhugues/p/on-nest-jamais-si-bien-servi-que"
-visibility: "public"
-lifecycle_state: "published"
+publication_url: https://open.substack.com/pub/jeanhugues/p/on-nest-jamais-si-bien-servi-que
+visibility: public
+lifecycle_state: published
 human_validation_required: false
-continuation_status: "open"
-canonical_path: "research/se_demultiplier_pour_explorer_le_possible_blogpost.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/se_demultiplier_pour_explorer_le_possible_blogpost.md"
-source_document: "research/pluralisation_cognitive_sous_mandat.md"
+continuation_status: open
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/se_demultiplier_pour_explorer_le_possible_blogpost.md
+source_document: research/pluralisation_cognitive_sous_mandat.md
 derived_from:
-  - "research/pluralisation_cognitive_sous_mandat.md"
+  - research/pluralisation_cognitive_sous_mandat.md
 review_lineage:
-  - "cogentia/prompts/redactor.md"
-  - "cogentia/prompts/reviewer.md"
-  - "review externe Grok — 2026-07-11 — première passe"
-  - "review externe Grok — 2026-07-11 — deuxième passe"
+  - cogentia/prompts/redactor.md
+  - cogentia/prompts/reviewer.md
+  - review externe Grok — 2026-07-11 — première passe
+  - review externe Grok — 2026-07-11 — deuxième passe
 source_lineage:
-  - "research/second_method.md"
-  - "research/pluralisation_cognitive_sous_mandat.md"
-  - "cogentia/research/cogentia-digital-twin.md"
-  - "cogentia/research/derived_products.md"
-  - "agents-jhn/README.md"
-  - "agents-jhn/charte_agents_jhn.md"
-  - "research/baron_mariani_singulier_pluriel_agents_jhn.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "inseme/research/cop_mission_stigmergy_exploration.md"
-  - "cogentia/research/trusted_boundaries.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "adapted"
+  - research/second_method.md
+  - research/pluralisation_cognitive_sous_mandat.md
+  - cogentia/research/cogentia-digital-twin.md
+  - cogentia/research/derived_products.md
+  - agents-jhn/README.md
+  - agents-jhn/charte_agents_jhn.md
+  - research/baron_mariani_singulier_pluriel_agents_jhn.md
+  - research/rational_odysseys_the_possible.md
+  - inseme/research/cop_mission_stigmergy_exploration.md
+  - cogentia/research/trusted_boundaries.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: adapted
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 
 # On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde

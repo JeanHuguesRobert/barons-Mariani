@@ -1,39 +1,51 @@
 ---
-title: "La seconde méthode comme généralisation prudente de l’agile"
-subtitle: "Régimes d’erreur, expérimentation traçable et apprentissage collectif sous complexité"
-description: "Working paper sur la généalogie de l’agile, ses conditions de validité, sa diffusion hors du logiciel, et son articulation prudente avec la seconde méthode, l’autonomie de capacité et l’écosystème Barons Mariani"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-version: "0.6"
-date: "2026-05-23"
-license: "CC BY-SA 4.0"
+title: La seconde méthode comme généralisation prudente de l’agile
+subtitle: Régimes d’erreur, expérimentation traçable et apprentissage collectif sous complexité
+description: Working paper sur la généalogie de l’agile, ses conditions de validité, sa diffusion hors du logiciel, et son articulation prudente avec la seconde méthode, l’autonomie de capacité et l’écosystème Barons Mariani
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+version: '0.6'
+date: '2026-05-23'
+license: CC BY-SA 4.0
 status: working-paper — working paper
 related:
-  - "./second_method.md"
-  - "./autonomie_de_capacite.md"
-  - "./kudocracy.md"
-  - "../../cogentia/research/measured_risk.md"
-  - "../../cogentia/README.md"
-  - "../../marenostrum/DHITL.md"
-  - "../../FractaVolta/README.md"
+  - ./second_method.md
+  - ./autonomie_de_capacite.md
+  - ./kudocracy.md
+  - ../../cogentia/research/measured_risk.md
+  - ../../cogentia/README.md
+  - ../../marenostrum/DHITL.md
+  - ../../FractaVolta/README.md
 changelog:
-  - "v0.1 (2026-05-23) — première version complète ; généalogie du passage waterfall/agile ; définition de la seconde méthode comme agile généralisé ; diffusion vers startups, design, DevOps, politiques publiques, territoires et IA ; articulation avec autonomie de capacité, Cogentia, DHITL, Kudocracy et question corse ; objections initiales et clause de continuation."
-  - "v0.2 (2026-05-23) — révision critique après évaluation externe : réduction de l’auto-référentialité ; reformulation de la thèse comme généralisation prudente et conditionnelle ; ajout d’une typologie des régimes d’erreur ; distinction plus nette entre agile logiciel et seconde méthode politique ; ajout d’ cas et familles de cas externes (Lean Startup, design thinking, DevOps/DORA, regulatory sandboxes, innovation publique, gouvernance adaptative) ; déplacement du corpus Barons Mariani en annexe ; renforcement des limites, objections et conditions de validité."
-  - "v0.3 (2026-05-23) — préservation assumée de la signature stylistique tout en renforçant la défendabilité académique : ajout d’une note de positionnement sur le statut d’auteur et de corpus ; ajout d’une section sur la méthode de généralisation par conditions de validité ; clarification de la section Corse comme terrain situé et non preuve privilégiée ; ajout d’une matrice d’études de cas externes à documenter ; resserrement des formulations les plus prescriptives sans suppression des images structurantes."
-  - "v0.4 (2026-05-23) — intégration de deux cas externes documentés : FCA Regulatory Sandbox et e-Estonia/X-Road ; ajout d’une section critique sur l’agile washing et les limites des transformations agiles à grande échelle ; resserrement de plusieurs formulations normatives ; maintien assumé de la signature stylistique et du branding, désormais justifiés dans la note de positionnement."
-  - "v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout d’une précaution sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives."
-  - "v0.6 (2026-08-26) — intégration de la doctrine du Risque Mesuré (Measured Risk, cogentia#120) : dépassement de l'opposition binaire réversible/irréversible vers l'enveloppe de réversibilité, le contrôle d'exposition, les chemins de compensation/réparation et la préservation du budget d'attention."
+  - v0.1 (2026-05-23) — première version complète ; généalogie du passage waterfall/agile ; définition de la seconde méthode comme agile généralisé ; diffusion vers startups, design, DevOps, politiques publiques, territoires et IA ; articulation avec autonomie de capacité, Cogentia, DHITL, Kudocracy et question corse ; objections initiales et clause de continuation.
+  - 'v0.2 (2026-05-23) — révision critique après évaluation externe : réduction de l’auto-référentialité ; reformulation de la thèse comme généralisation prudente et conditionnelle ; ajout d’une typologie des régimes d’erreur ; distinction plus nette entre agile logiciel et seconde méthode politique ; ajout d’ cas et familles de cas externes (Lean Startup, design thinking, DevOps/DORA, regulatory sandboxes, innovation publique, gouvernance adaptative) ; déplacement du corpus Barons Mariani en annexe ; renforcement des limites, objections et conditions de validité.'
+  - 'v0.3 (2026-05-23) — préservation assumée de la signature stylistique tout en renforçant la défendabilité académique : ajout d’une note de positionnement sur le statut d’auteur et de corpus ; ajout d’une section sur la méthode de généralisation par conditions de validité ; clarification de la section Corse comme terrain situé et non preuve privilégiée ; ajout d’une matrice d’études de cas externes à documenter ; resserrement des formulations les plus prescriptives sans suppression des images structurantes.'
+  - 'v0.4 (2026-05-23) — intégration de deux cas externes documentés : FCA Regulatory Sandbox et e-Estonia/X-Road ; ajout d’une section critique sur l’agile washing et les limites des transformations agiles à grande échelle ; resserrement de plusieurs formulations normatives ; maintien assumé de la signature stylistique et du branding, désormais justifiés dans la note de positionnement.'
+  - 'v0.5 (2026-05-23) — dernière passe de consolidation avant publication : ajout de données chiffrées dans les cas FCA Regulatory Sandbox et e-Estonia/X-Road ; intégration explicite du cadre Cynefin et de la gouvernance expérimentale Sabel/Zeitlin ; ajout d’une précaution sur la non-transférabilité directe des cas ; bibliographie externe enrichie ; resserrement final de quelques formulations prescriptives.'
+  - 'v0.6 (2026-08-26) — intégration de la doctrine du Risque Mesuré (Measured Risk, cogentia#120) : dépassement de l''opposition binaire réversible/irréversible vers l''enveloppe de réversibilité, le contrôle d''exposition, les chemins de compensation/réparation et la préservation du budget d''attention.'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/agile.md
-last_stamped_at: 2026-08-26
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-08-26T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # La seconde méthode comme généralisation prudente de l’agile
 

@@ -1,32 +1,43 @@
 ---
-title: "L’énergie d’action : ce qui nous manque quand nous avons pourtant les moyens"
-subtitle: "De l’électricité au dossier administratif, ne plus gaspiller la capacité d’agir"
-author: "Jean Hugues Noël Robert"
-publication: "Les carnets du baron Mariani"
-date: "2026-07-24"
-status: "draft — blogpost and YouTube audio script v0.1"
-version: "0.1"
-type: "public essay / audio script"
-language: "fr"
-license: "CC BY-SA 4.0"
-intended_path: "research/publications/energie_action_blog_audio.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/publications/energie_action_blog_audio.md"
+title: 'L’énergie d’action : ce qui nous manque quand nous avons pourtant les moyens'
+subtitle: De l’électricité au dossier administratif, ne plus gaspiller la capacité d’agir
+author: Jean Hugues Noël Robert
+publication: Les carnets du baron Mariani
+date: '2026-07-24'
+status: draft — blogpost and YouTube audio script v0.1
+version: '0.1'
+type: public essay / audio script
+language: fr
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/publications/energie_action_blog_audio.md
 source_documents:
-  - title: "Énergie d’action : proposition d’un cadre capacitaire"
-    path: "research/energie_action.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/energie_action.md"
-  - title: "Autonomie de Capacité"
-    path: "research/autonomia.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md"
-document_role: "derived"
-document_kind: "blogpost-and-audio-script"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+  - title: 'Énergie d’action : proposition d’un cadre capacitaire'
+    path: research/energie_action.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/energie_action.md
+  - title: Autonomie de Capacité
+    path: research/autonomia.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
+document_role: derived
+document_kind: blogpost-and-audio-script
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # L’énergie d’action
 

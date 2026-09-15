@@ -1,34 +1,45 @@
 ---
-title: "Le théâtre des pays imaginaires de Corse"
-subtitle: "Fables sérieuses autour du processus de Beauvau"
-author: "Jean Hugues Noël Robert"
-publication: "Les carnets du baron Mariani"
-status: "draft — blogpost v0.2"
-date: "2026-06-06"
-intended_path: "research/utopia/theatre_pays_imaginaires_corse_beauvau_blogpost.md"
+title: Le théâtre des pays imaginaires de Corse
+subtitle: Fables sérieuses autour du processus de Beauvau
+author: Jean Hugues Noël Robert
+publication: Les carnets du baron Mariani
+status: draft — blogpost v0.2
+date: '2026-06-06'
 source_documents:
-  - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
-    path: "research/autonomia/atlas_paysage_politique_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md"
-  - title: "Chronologie documentaire du processus de Beauvau"
-    path: "research/chronologie_processus_beauvau_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
-  - title: "Autonomia — Autonomie de Capacité"
-    path: "research/autonomia.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md"
-license: "CC BY-SA 4.0"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+  - title: Atlas du paysage politique et discursif corse — Une Corse capable
+    path: research/autonomia/atlas_paysage_politique_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
+  - title: Chronologie documentaire du processus de Beauvau
+    path: research/chronologie_processus_beauvau_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
+  - title: Autonomia — Autonomie de Capacité
+    path: research/autonomia.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md
-last_stamped_at: 2026-06-06
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-06T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le théâtre des pays imaginaires de Corse
 

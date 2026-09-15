@@ -1,30 +1,30 @@
 ---
-title: "Rational Odysseys into The Possible"
-subtitle: "Mythic grammar, stigmergy, mission, return, and synthesis in the rational exploration of The Possible"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-date: "2026-07-10"
-last_modified_at: "2026-09-05"
-version: "0.2"
-status: "working-note"
-document_role: "source"
-document_kind: "doctrinal-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
+title: Rational Odysseys into The Possible
+subtitle: Mythic grammar, stigmergy, mission, return, and synthesis in the rational exploration of The Possible
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+date: '2026-07-10'
+last_modified_at: '2026-09-05'
+version: '0.2'
+status: working-note
+document_role: source
+document_kind: doctrinal-note
+visibility: public
+lifecycle_state: working
+language: en
 related_documents:
-  - "research/potentics.md"
-  - "research/presencology.md"
-  - "research/concepts.md"
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "cogentia/research/cogentia_workflows.md"
-  - "inseme/research/cop_mission_stigmergy_exploration.md"
-  - "FractaVolta/research/fractalog.md"
-  - "FractaVolta/research/ownership_packets_and_cop.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "cogentia/research/learning_computer_genese_et_architecture.md"
-  - "research/potentics_of_compute.md"
+  - research/potentics.md
+  - research/presencology.md
+  - research/concepts.md
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - cogentia/research/cogentia_workflows.md
+  - inseme/research/cop_mission_stigmergy_exploration.md
+  - FractaVolta/research/fractalog.md
+  - FractaVolta/research/ownership_packets_and_cop.md
+  - research/the_network_is_the_learning_computer.md
+  - cogentia/research/learning_computer_genese_et_architecture.md
+  - research/potentics_of_compute.md
 tags:
   - potentics
   - the-possible
@@ -39,11 +39,22 @@ tags:
   - two-odysseys
   - learning-computer
   - ithaca
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Rational Odysseys into The Possible
 

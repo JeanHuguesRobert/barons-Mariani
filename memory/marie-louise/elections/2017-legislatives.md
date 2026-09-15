@@ -1,26 +1,32 @@
 ---
-title: "Marie-Louise — législatives 2017, suppléante de Baron Mariani"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-status: "working"
-language: "fr"
-document_role: "source-note"
-document_kind: "chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — législatives 2017, suppléante de Baron Mariani
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+status: working
+language: fr
+document_role: source-note
+document_kind: chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "personal-archive"
+  origin_type: personal-archive
   derived_from:
-    - "Gmail:15c35a1e15231544"
-    - "Gmail:15c396df0bbee0d6"
-    - "Gmail:15c2c71846be7b8f"
-    - "Gmail:15ceea7dcc14bef6"
-    - "Ministère de l'Intérieur — résultats législatives 2017, 2B-02"
+    - Gmail:15c35a1e15231544
+    - Gmail:15c396df0bbee0d6
+    - Gmail:15c2c71846be7b8f
+    - Gmail:15ceea7dcc14bef6
+    - Ministère de l'Intérieur — résultats législatives 2017, 2B-02
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Législatives 2017 — suppléante de Baron Mariani
 

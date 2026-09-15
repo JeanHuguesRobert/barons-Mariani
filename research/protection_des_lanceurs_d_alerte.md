@@ -1,28 +1,40 @@
 ---
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
-title: "Protéger les lanceurs d'alerte"
-subtitle: "De la réception de l'information à la préservation durable de la capacité d'agir"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-07-20"
-version: "0.1"
-status: "working-note — reconstruction doctrinale à soumettre à recherche juridique"
-license: "CC BY-SA 4.0"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/protection_des_lanceurs_d_alerte.md"
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-epistemic_status: "reconstruction de propositions antérieures ; état du droit non vérifié dans cette version"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+title: Protéger les lanceurs d'alerte
+subtitle: De la réception de l'information à la préservation durable de la capacité d'agir
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-07-20'
+version: '0.1'
+status: working-note — reconstruction doctrinale à soumettre à recherche juridique
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/protection_des_lanceurs_d_alerte.md
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+epistemic_status: reconstruction de propositions antérieures ; état du droit non vérifié dans cette version
 related_documents:
-  - "research/traceabilite_des_actes.md"
-  - "research/pathologie_du_secret.md"
-  - "research/transition_possibiliste_vers_une_democratie_augmentee.md"
-  - "research/impunite_par_obscurite_cas_corse_v0.2.md"
+  - research/traceabilite_des_actes.md
+  - research/pathologie_du_secret.md
+  - research/transition_possibiliste_vers_une_democratie_augmentee.md
+  - research/impunite_par_obscurite_cas_corse_v0.2.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Protéger les lanceurs d'alerte
 

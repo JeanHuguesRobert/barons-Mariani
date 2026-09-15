@@ -1,56 +1,55 @@
 ---
-title: "Corsica2038 — De la prospective subie à l’autonomie de capacité"
-subtitle: "Base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-09"
-version: "0.5-source-candidate"
-status: "working-paper — source document ready for GitHub publication after v0.4 review"
+title: Corsica2038 — De la prospective subie à l’autonomie de capacité
+subtitle: Base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-09'
+version: 0.5-source-candidate
+status: working-paper — source document ready for GitHub publication after v0.4 review
 document_role: source
-source_status: "sovereign source document — source candidate"
-license: "CC BY-SA 4.0"
-language: "fr"
-canonical_path: "barons-Mariani/research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
+source_status: sovereign source document — source candidate
+license: CC BY-SA 4.0
+language: fr
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/corsica2038_contre_rapport_pruspettiva2050.md
 ai_assisted_by:
-  - "ChatGPT — drafting, structuring, consolidation"
-  - "Mistral / Writing Assistant — alternative revision compared; selected elements integrated by redactor"
+  - ChatGPT — drafting, structuring, consolidation
+  - Mistral / Writing Assistant — alternative revision compared; selected elements integrated by redactor
 reviewed_by:
-  - "Grok — constructive external review of v0.1, 2026-06-09"
-  - "Grok — constructive external review of v0.4-redactor, 2026-06-09"
+  - Grok — constructive external review of v0.1, 2026-06-09
+  - Grok — constructive external review of v0.4-redactor, 2026-06-09
 compared_with:
-  - "corsica2038_contre_rapport_pruspettiva2050_mistral.md — alternative revision; selected elements integrated, unsourced claims and fictional case studies rejected or deferred"
-human_arbitration_by: "Jean Hugues Noël Robert"
+  - corsica2038_contre_rapport_pruspettiva2050_mistral.md — alternative revision; selected elements integrated, unsourced claims and fictional case studies rejected or deferred
+human_arbitration_by: Jean Hugues Noël Robert
 x-method:
-  - "seconde méthode"
-  - "pipeline Cogentia"
-  - "méthode des terrains féconds"
-  - "document autoporteur"
-  - "produits déclinés"
+  - seconde méthode
+  - pipeline Cogentia
+  - méthode des terrains féconds
+  - document autoporteur
+  - produits déclinés
 related_prompts:
-  - "cogentia/prompts/document_conversation_frame.md"
-  - "cogentia/prompts/redactor.md"
-  - "cogentia/prompts/reviewer.md"
-  - "cogentia/prompts/cognitive_packet.md"
-  - "cogentia/prompts/conversation_closure.md"
+  - cogentia/prompts/document_conversation_frame.md
+  - cogentia/prompts/redactor.md
+  - cogentia/prompts/reviewer.md
+  - cogentia/prompts/cognitive_packet.md
+  - cogentia/prompts/conversation_closure.md
 related_research:
-  - "barons-Mariani/research/second_method.md"
-  - "barons-Mariani/research/methode_terrains_feconds.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "cogentia/research/pipeline.md"
-  - "cogentia/research/derived_products.md"
-  - "cogentia/research/cognitive_packets.md"
+  - barons-Mariani/research/second_method.md
+  - barons-Mariani/research/methode_terrains_feconds.md
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - cogentia/research/pipeline.md
+  - cogentia/research/derived_products.md
+  - cogentia/research/cognitive_packets.md
 external_sources:
-  - title: "Corsica Pruspettiva 2050 — 4 scénarios pour le futur de la Corse"
-    publisher: "Assemblée de Corse / Collectivité de Corse"
-    date: "2025-01"
-    url: "https://www.isula.corsica/assemblea/docs/CorsicaPruspettiva/CorsicaPruspettiva2050-Rapport011.pdf"
-    role: "official source report answered by this working paper"
+  - title: Corsica Pruspettiva 2050 — 4 scénarios pour le futur de la Corse
+    publisher: Assemblée de Corse / Collectivité de Corse
+    date: 2025-01
+    url: https://www.isula.corsica/assemblea/docs/CorsicaPruspettiva/CorsicaPruspettiva2050-Rapport011.pdf
+    role: official source report answered by this working paper
 version_history:
-  - "v0.1-draft — initial source document produced by ChatGPT."
-  - "v0.2/v0.3 — reviewer recommendations integrated: inference-capture examples, Senate lever examples, methodological continuity note."
-  - "v0.4-redactor — compared with Mistral alternative draft; retained concise operational synthesis, enhanced terrain table, anti-capture user guide, mountain-elected action items; rejected unsourced statistics, fictional case studies, excessive formatting, and unverified numerical commitments."
-  - "v0.5-source-candidate — integrated v0.4 review: precise page-reference map to the official report, side-by-side scenario mapping, first vehicle-of-trust architecture, minimal demonstrator specs, and publication-ready continuation notes."
+  - v0.1-draft — initial source document produced by ChatGPT.
+  - 'v0.2/v0.3 — reviewer recommendations integrated: inference-capture examples, Senate lever examples, methodological continuity note.'
+  - v0.4-redactor — compared with Mistral alternative draft; retained concise operational synthesis, enhanced terrain table, anti-capture user guide, mountain-elected action items; rejected unsourced statistics, fictional case studies, excessive formatting, and unverified numerical commitments.
+  - 'v0.5-source-candidate — integrated v0.4 review: precise page-reference map to the official report, side-by-side scenario mapping, first vehicle-of-trust architecture, minimal demonstrator specs, and publication-ready continuation notes.'
 tags:
   - Corsica2038
   - autonomie-de-capacite
@@ -63,14 +62,25 @@ tags:
   - anti-capture
   - montagne
   - communes
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Corsica2038 — De la prospective subie à l’autonomie de capacité
 

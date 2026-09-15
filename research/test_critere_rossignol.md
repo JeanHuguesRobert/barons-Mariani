@@ -1,35 +1,47 @@
 ---
-title: "Test du critère Rossignol"
-subtitle: "Quatre dispositifs du corpus au crible — Cogentia, traçabilité symétrique, FractaVolta, Kudocracy"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-31"
-last_modified_at: "2026-09-05"
-status: "working-note — application empirique d'un critère doctrinal v0.2"
-version: "0.2"
-license: "CC BY-SA 4.0"
+title: Test du critère Rossignol
+subtitle: Quatre dispositifs du corpus au crible — Cogentia, traçabilité symétrique, FractaVolta, Kudocracy
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-05-31'
+last_modified_at: '2026-09-05'
+status: working-note — application empirique d'un critère doctrinal v0.2
+version: '0.2'
+license: CC BY-SA 4.0
 ai_assisted_by:
-  - "Claude — passage au crible, 2026-05-31"
-  - "Antigravity — v0.2 propagation Issue #55: Synthetic SITG & Échelons d'Incarnation, 2026-09-05"
+  - Claude — passage au crible, 2026-05-31
+  - 'Antigravity — v0.2 propagation Issue #55: Synthetic SITG & Échelons d''Incarnation, 2026-09-05'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/test_critere_rossignol.md
-last_stamped_at: 2026-09-05
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "high"
+last_stamped_at: 2026-09-05T00:00:00.000Z
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: high
 related_documents:
-  - "research/principe_rossignol.md"
-  - "research/quand_le_reel_repond_pkd.md"
-  - "research/jhn_architecture.md"
-  - "cogentia/research/learning_computer_genese_et_architecture.md"
+  - research/principe_rossignol.md
+  - research/quand_le_reel_repond_pkd.md
+  - research/jhn_architecture.md
+  - cogentia/research/learning_computer_genese_et_architecture.md
 changelog:
-  - "2026-05-31 — v0.1: passage au crible de 4 dispositifs (FractaVolta, Cogentia, Traçabilité symétrique, Kudocracy)."
-  - "2026-09-05 — v0.2: propagation Issue #55; résolution de la question résiduelle du numérique (§6) par le Synthetic Skin in the Game non réinitialisable unilatéralement, intégration des 4 Échelons d'Incarnation et extension du banc d'essai au Learning Computer (COP 2.x) et à l'Agent JHN (Sénatoriales 2026)."
+  - '2026-05-31 — v0.1: passage au crible de 4 dispositifs (FractaVolta, Cogentia, Traçabilité symétrique, Kudocracy).'
+  - '2026-09-05 — v0.2: propagation Issue #55; résolution de la question résiduelle du numérique (§6) par le Synthetic Skin in the Game non réinitialisable unilatéralement, intégration des 4 Échelons d''Incarnation et extension du banc d''essai au Learning Computer (COP 2.x) et à l''Agent JHN (Sénatoriales 2026).'
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Test du critère Rossignol
 

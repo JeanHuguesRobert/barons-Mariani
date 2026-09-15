@@ -1,14 +1,12 @@
 ---
-title: "Homéostasie de l’habitat"
-subtitle: "Diagnostic, modes dégradés et agents IA pour l’autonomie domestique"
-author: "Jean Hugues Noël Robert"
-status: "draft"
-version: "0.2"
-date: "2026-06-20"
-repository: "barons-Mariani"
-path: "research/homeostasie_habitat.md"
-type: "source_note"
-language: "fr"
+title: Homéostasie de l’habitat
+subtitle: Diagnostic, modes dégradés et agents IA pour l’autonomie domestique
+author: Jean Hugues Noël Robert
+status: draft
+version: '0.2'
+date: '2026-06-20'
+type: source_note
+language: fr
 tags:
   - École Mariani de l’Autonomie
   - homéostasie
@@ -23,40 +21,53 @@ tags:
   - FractaVolta
   - Serenia
 corpus_hierarchy:
-  level: "source_note"
-  role: "note conceptuelle sur l’habitat comme système homéostatique"
+  level: source_note
+  role: note conceptuelle sur l’habitat comme système homéostatique
   derived_from:
-    - "research/ecole_mariani_autonomie.md"
-    - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-    - "conversation ChatGPT du 2026-06-20 sur le cumulus comme inertie thermique pilotée"
-    - "conversation ChatGPT du 2026-06-20 sur le mode dégradé et l’homéostasie de l’habitat"
+    - research/ecole_mariani_autonomie.md
+    - research/ecole_mariani_autonomie_terrains_pilotes.md
+    - conversation ChatGPT du 2026-06-20 sur le cumulus comme inertie thermique pilotée
+    - conversation ChatGPT du 2026-06-20 sur le mode dégradé et l’homéostasie de l’habitat
   may_generate:
-    - "fiche technique habitat homéostatique"
-    - "module pédagogique diagnostic assisté par IA"
-    - "fiche eau chaude en mode dégradé"
-    - "grille des fonctions essentielles de l’habitat"
-    - "article Substack sur l’homéostasie de l’habitat"
+    - fiche technique habitat homéostatique
+    - module pédagogique diagnostic assisté par IA
+    - fiche eau chaude en mode dégradé
+    - grille des fonctions essentielles de l’habitat
+    - article Substack sur l’homéostasie de l’habitat
 related_documents:
-  - "research/ecole_mariani_autonomie.md"
-  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-  - "research/cas_maison_urbaine_corte_autonomie.md"
-  - "research/serenia_autonomie_assistee_ia.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
+  - research/ecole_mariani_autonomie.md
+  - research/ecole_mariani_autonomie_terrains_pilotes.md
+  - research/cas_maison_urbaine_corte_autonomie.md
+  - research/serenia_autonomie_assistee_ia.md
+  - research/noyau_doctrinal_rendre_capable.md
 related_projects:
-  - "École Mariani de l’Autonomie"
-  - "FractaVolta"
-  - "Cogentia"
-  - "Paese Capace"
-  - "Serenia"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - École Mariani de l’Autonomie
+  - FractaVolta
+  - Cogentia
+  - Paese Capace
+  - Serenia
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Homéostasie de l’habitat
 

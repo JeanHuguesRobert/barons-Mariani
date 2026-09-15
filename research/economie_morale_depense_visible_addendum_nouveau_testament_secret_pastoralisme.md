@@ -1,34 +1,32 @@
 ---
-title: "Addendum — Nouveau Testament, secret et pastoralisme"
-subtitle: "Angles d’enrichissement pour Économie morale de la dépense visible"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-29"
-status: "draft v0.1 — addendum préparatoire à intégrer au document source principal"
-version: "0.1"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-path: "research/economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
+title: Addendum — Nouveau Testament, secret et pastoralisme
+subtitle: Angles d’enrichissement pour Économie morale de la dépense visible
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-29'
+status: draft v0.1 — addendum préparatoire à intégrer au document source principal
+version: '0.1'
+license: CC BY-SA 4.0
+language: fr
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 human_validation_required: true
 ai_assisted_by:
-  - "ChatGPT — formalisation d’angles proposés par Jean Hugues Noël Robert, structuration et rédaction initiale"
-parent_document: "research/economie_morale_depense_visible.md"
+  - ChatGPT — formalisation d’angles proposés par Jean Hugues Noël Robert, structuration et rédaction initiale
+parent_document: research/economie_morale_depense_visible.md
 related_documents:
-  - "research/economie_morale_depense_visible.md"
-  - "research/invidia.md"
-  - "research/justice_divine_mandat_implicite.md"
-  - "research/pathologie_du_secret.md"
-  - "research/autonomia.md"
+  - research/economie_morale_depense_visible.md
+  - research/invidia.md
+  - research/justice_divine_mandat_implicite.md
+  - research/pathologie_du_secret.md
+  - research/autonomia.md
 related_projects:
-  - "Autonomie de Capacité"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "Cogentia"
+  - Autonomie de Capacité
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - Cogentia
 tags:
   - nouveau-testament
   - fils-prodigue
@@ -43,12 +41,23 @@ tags:
   - subventions
   - ruse
   - domination
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "source-addendum"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: source-addendum
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Addendum — Nouveau Testament, secret et pastoralisme
 

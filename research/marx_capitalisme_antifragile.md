@@ -1,23 +1,23 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/marx_capitalisme_antifragile.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-03
-last_modified_at: 2026-09-12
-title: "Marx, les écrans de télévision et la fragilité des adversaires du capitalisme"
-description: "Contribution à une critique possibiliste du capitalisme comme système antifragile"
-date: "2026-06-03"
-status: "working-paper — v0.6.2 — human validated — working source"
-version: "0.6.2"
-method: "seconde méthode"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-03T00:00:00.000Z
+last_modified_at: 2026-09-12T00:00:00.000Z
+title: Marx, les écrans de télévision et la fragilité des adversaires du capitalisme
+description: Contribution à une critique possibiliste du capitalisme comme système antifragile
+date: '2026-06-03'
+status: working-paper — v0.6.2 — human validated — working source
+version: 0.6.2
+method: seconde méthode
 related_internal_sources:
-  - "barons-Mariani/tocqueville_law.md"
-  - "barons-Mariani/research/second_method.md"
-  - "barons-Mariani/research/legistique_cognitive.md"
-  - "barons-Mariani/research/kudos.md"
-  - "barons-Mariani/research/territoires_possibilistes.md"
-  - "cogentia/research/measured_risk.md"
+  - barons-Mariani/tocqueville_law.md
+  - barons-Mariani/research/second_method.md
+  - barons-Mariani/research/legistique_cognitive.md
+  - barons-Mariani/research/kudos.md
+  - barons-Mariani/research/territoires_possibilistes.md
+  - cogentia/research/measured_risk.md
 tags:
   - Marx
   - capitalisme
@@ -34,25 +34,37 @@ tags:
   - FractaVolta
   - Cogentia
 x-method:
-  - "seconde méthode"
-  - "pipeline Cogentia"
-  - "document autoporteur"
-  - "traçabilité des actes"
-  - "objections de premier rang"
-  - "human checkpoint required"
+  - seconde méthode
+  - pipeline Cogentia
+  - document autoporteur
+  - traçabilité des actes
+  - objections de premier rang
+  - human checkpoint required
 human_validation_required: true
-human_validation_status: "validated for v0.6.2 bounded-antifragility alignment on 2026-09-12"
-agent_workflow_status: "committed on main — working source; bounded-antifragility alignment 2026-09-12"
-corpus_role: "source"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+human_validation_status: validated for v0.6.2 bounded-antifragility alignment on 2026-09-12
+agent_workflow_status: committed on main — working source; bounded-antifragility alignment 2026-09-12
+corpus_role: source
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Marx, les écrans de télévision et la fragilité des adversaires du capitalisme
 

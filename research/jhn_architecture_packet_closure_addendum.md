@@ -1,23 +1,23 @@
 ---
-title: "JHN Architecture — Packet Closure Addendum"
-subtitle: "Distributed continuations, packet-native state, governed effects, and the abstract machine beyond process-local execution"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-25"
-version: "0.1"
-status: "integrated"
-document_role: "derived"
-document_kind: "research-addendum"
-visibility: "public"
-lifecycle_state: "archived-source-note"
-language: "en"
-license: "CC BY-SA 4.0"
+title: JHN Architecture — Packet Closure Addendum
+subtitle: Distributed continuations, packet-native state, governed effects, and the abstract machine beyond process-local execution
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-25'
+version: '0.1'
+status: integrated
+document_role: derived
+document_kind: research-addendum
+visibility: public
+lifecycle_state: archived-source-note
+language: en
+license: CC BY-SA 4.0
 related_documents:
-  - "research/jhn_architecture.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md"
-  - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Architecture.md"
+  - research/jhn_architecture.md
+  - research/the_network_is_the_learning_computer.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_closure_and_packet_native_semantics.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packet_switching.md
+  - https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Architecture.md
 tags:
   - jhn-architecture
   - packet-closure
@@ -28,11 +28,22 @@ tags:
   - effects
   - post-von-neumann
   - cognitive-packet-switching
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # JHN Architecture — Packet Closure Addendum
 

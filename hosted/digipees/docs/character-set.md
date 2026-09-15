@@ -1,19 +1,17 @@
 ---
-title: "Digipees — character set v1"
-subtitle: "New 2026 artwork extending the historical two characters toward demographic variety"
-version: "0.1"
+title: Digipees — character set v1
+subtitle: New 2026 artwork extending the historical two characters toward demographic variety
+version: '0.1'
 status: source document / derived artwork
-date: "2026-08-15"
-author: "Jean Hugues Noël Robert"
-repository: "JeanHuguesRobert/barons-Mariani"
-intended_path: "hosted/digipees/docs/character-set.md"
-theoretical_anchor: "hosted/digipees/docs/visual-grammar.md"
-license: "CC BY-SA 4.0"
+date: '2026-08-15'
+author: Jean Hugues Noël Robert
+theoretical_anchor: hosted/digipees/docs/visual-grammar.md
+license: CC BY-SA 4.0
 open_source: true
 non_profit: true
 commercial_purpose: false
-commons_orientation: "bien commun documentaire ouvert"
-language: "en"
+commons_orientation: bien commun documentaire ouvert
+language: en
 tags:
   - digipees
   - characters
@@ -22,8 +20,21 @@ tags:
 related_projects:
   - barons-Mariani
   - FractaVolta
-ai_assisted_by: [Claude]
+ai_assisted_by:
+  - Claude
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Digipees — character set v1
 

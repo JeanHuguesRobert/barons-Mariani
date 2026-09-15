@@ -1,28 +1,28 @@
 ---
-title: "Organization as Capability"
-subtitle: "When relationships and structure produce capacities absent from isolated components"
-description: "Source note proposing a Potentics-level distinction between component capabilities and capabilities produced by organization itself. It connects RAIX, interdependencies, distributed computation, biological collective systems and institutional design without claiming automatic super-additivity."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A."
-date: "2026-08-22"
-last_modified_at: "2026-08-22"
-version: "0.1"
-status: "working source note"
-license: "CC BY-SA 4.0"
-language: "en"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
+title: Organization as Capability
+subtitle: When relationships and structure produce capacities absent from isolated components
+description: Source note proposing a Potentics-level distinction between component capabilities and capabilities produced by organization itself. It connects RAIX, interdependencies, distributed computation, biological collective systems and institutional design without claiming automatic super-additivity.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A.
+date: '2026-08-22'
+last_modified_at: '2026-08-22'
+version: '0.1'
+status: working source note
+license: CC BY-SA 4.0
+language: en
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 methodology:
-  - "Second Method"
-  - "Potentics"
+  - Second Method
+  - Potentics
 related_documents:
-  - "research/potentics.md"
-  - "research/potentics_interdependencies.md"
-  - "research/potentics_of_compute.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
-  - "research/the_network_is_the_learning_computer.md"
+  - research/potentics.md
+  - research/potentics_interdependencies.md
+  - research/potentics_of_compute.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md
+  - research/the_network_is_the_learning_computer.md
 tags:
   - potentics
   - organization
@@ -32,12 +32,22 @@ tags:
   - raix
   - distributed-compute
   - collective-intelligence
-update_policy: "UP-DEFAULT-REVIEWED"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+update_policy: UP-DEFAULT-REVIEWED
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Organization as Capability
 

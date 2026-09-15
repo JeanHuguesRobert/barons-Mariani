@@ -1,14 +1,12 @@
 ---
-title: "École Mariani de l’Autonomie — terminologie des parcours et des rôles"
-subtitle: "Vocabulaire français, anglais et grec pour nommer celles et ceux qui apprennent, pratiquent, accompagnent et gardent les communs"
-author: "Jean Hugues Noël Robert"
-status: "working"
-version: "0.1"
-date: "2026-07-13"
-repository: "barons-Mariani"
-path: "research/ecole_mariani_autonomie_terminologie.md"
-type: "source_note"
-language: "fr"
+title: École Mariani de l’Autonomie — terminologie des parcours et des rôles
+subtitle: Vocabulaire français, anglais et grec pour nommer celles et ceux qui apprennent, pratiquent, accompagnent et gardent les communs
+author: Jean Hugues Noël Robert
+status: working
+version: '0.1'
+date: '2026-07-13'
+type: source_note
+language: fr
 tags:
   - École Mariani de l’Autonomie
   - Mariani School of Autonomy
@@ -21,36 +19,49 @@ tags:
   - mathētēs
   - autonomie de capacité
 corpus_hierarchy:
-  level: "source_note"
-  role: "note terminologique et pédagogique"
+  level: source_note
+  role: note terminologique et pédagogique
   derived_from:
-    - "conversation ChatGPT du 2026-07-13 sur la terminologie anglaise des participants de l’École"
-    - "research/ecole_mariani_autonomie.md"
+    - conversation ChatGPT du 2026-07-13 sur la terminologie anglaise des participants de l’École
+    - research/ecole_mariani_autonomie.md
   may_generate:
-    - "lexique bilingue de l’École"
-    - "page de présentation en anglais"
-    - "charte des rôles"
-    - "badges ou niveaux de parcours"
+    - lexique bilingue de l’École
+    - page de présentation en anglais
+    - charte des rôles
+    - badges ou niveaux de parcours
 related_documents:
-  - "research/ecole_mariani_autonomie.md"
-  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-  - "research/serenia_autonomie_assistee_ia.md"
+  - research/ecole_mariani_autonomie.md
+  - research/ecole_mariani_autonomie_terrains_pilotes.md
+  - research/serenia_autonomie_assistee_ia.md
 related_projects:
-  - "The Mariani School of Autonomy"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "KYS"
-  - "Cogentia"
-  - "Inseme"
-document_role: "source"
-document_kind: "terminology-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - The Mariani School of Autonomy
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - KYS
+  - Cogentia
+  - Inseme
+document_role: source
+document_kind: terminology-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # École Mariani de l’Autonomie — terminologie des parcours et des rôles
 

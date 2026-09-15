@@ -1,26 +1,38 @@
 ---
-title: "PLU de Corte"
-subtitle: "Rapport OSINT provisoire — Riacquistu Data-Driven, logement étudiant, bâti ancien et conditions de transparence d’un outil d’observation territoriale"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-01"
-license: "CC BY-SA 4.0 sauf indication contraire"
-status: "working-paper"
-version: "0.5-document-source-long-pour-publication"
-corpus_role: "source"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md"
-last_stamped_at: "2026-06-01"
-chemin_prevu: "research/autonomia/plu_de_corte.md"
-depot: "JeanHuguesRobert/barons-Mariani"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+title: PLU de Corte
+subtitle: Rapport OSINT provisoire — Riacquistu Data-Driven, logement étudiant, bâti ancien et conditions de transparence d’un outil d’observation territoriale
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-01'
+license: CC BY-SA 4.0 sauf indication contraire
+status: working-paper
+version: 0.5-document-source-long-pour-publication
+corpus_role: source
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/plu_de_corte.md
+last_stamped_at: '2026-06-01'
+chemin_prevu: research/autonomia/plu_de_corte.md
+depot: JeanHuguesRobert/barons-Mariani
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # PLU de Corte
 

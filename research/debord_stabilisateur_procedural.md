@@ -1,46 +1,50 @@
 ---
-title: "Du spectacle à la régie"
-subtitle: "Guy Debord, l'intelligence artificielle et le Stabilisateur procédural"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., Corte, Corsica"
-date: "2026-07-24"
-status: "early draft — source document for external review"
-version: "0.1"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "political-literary working paper"
-visibility: "public"
-lifecycle_state: "working"
+title: Du spectacle à la régie
+subtitle: Guy Debord, l'intelligence artificielle et le Stabilisateur procédural
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., Corte, Corsica
+date: '2026-07-24'
+status: early draft — source document for external review
+version: '0.1'
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: political-literary working paper
+visibility: public
+lifecycle_state: working
 human_validation_required: true
-canonical_repository: "JeanHuguesRobert/barons-Mariani"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md"
-intended_path: "research/debord_stabilisateur_procedural.md"
-home_of_record: "Jean Hugues Noël Robert — pending integration in JeanHuguesRobert/barons-Mariani"
-acceptance_authority: "Jean Hugues Noël Robert"
+canonical_repository: JeanHuguesRobert/barons-Mariani
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md
+home_of_record: Jean Hugues Noël Robert — pending integration in JeanHuguesRobert/barons-Mariani
+acceptance_authority: Jean Hugues Noël Robert
 continuity_by_substitution:
-  status: "review-ready"
-  purpose: "Permit an admissible external processor to critique and continue the source without transcript or private drafting state."
-  evidence_rule: "Every external review declares whether its findings rely on live research or prior knowledge, and declares its source boundary."
-  return_path: "Selected findings return first to this source; no finding is integrated without human arbitration."
+  status: review-ready
+  purpose: Permit an admissible external processor to critique and continue the source without transcript or private drafting state.
+  evidence_rule: Every external review declares whether its findings rely on live research or prior knowledge, and declares its source boundary.
+  return_path: Selected findings return first to this source; no finding is integrated without human arbitration.
 derived_products:
-  - "qui_tient_la_regie_blogpost.md"
+  - qui_tient_la_regie_blogpost.md
 provenance:
-  origin_type: "authored_with_ai_assistance"
+  origin_type: authored_with_ai_assistance
   derived_from:
-    - "research/se_demultiplier_pour_explorer_le_possible_blogpost.md"
-    - "research/le-pere-noel-revient.md"
-    - "research/reality_safety_procedural_stabilizers.md"
-    - "research/pluralisation_cognitive_sous_mandat.md"
-    - "research/second_method.md"
+    - research/se_demultiplier_pour_explorer_le_possible_blogpost.md
+    - research/le-pere-noel-revient.md
+    - research/reality_safety_procedural_stabilizers.md
+    - research/pluralisation_cognitive_sous_mandat.md
+    - research/second_method.md
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "pending_external_review"
+  status: pending_external_review
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
 ---
+
 
 # Du spectacle à la régie
 

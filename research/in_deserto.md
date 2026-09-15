@@ -1,26 +1,38 @@
 ---
-title: "In deserto"
-subtitle: "Persévérer, élaborer l’outil et rendre l’action cumulative sous faible puissance initiale"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A."
-date: "2026-07-27"
-status: "working-note"
-corpus_role: "source"
-document_role: "source"
-visibility: "public"
-license: "CC BY-SA 4.0"
+title: In deserto
+subtitle: Persévérer, élaborer l’outil et rendre l’action cumulative sous faible puissance initiale
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A.
+date: '2026-07-27'
+status: working-note
+corpus_role: source
+document_role: source
+visibility: public
+license: CC BY-SA 4.0
 source_lineage:
-  - "research/traceabilite_des_actes.md"
-  - "research/autonomia/impunite_par_obscurite_cas_corse.md"
-  - "FractaVolta/projects/corte_logement_capacitaire.md"
-document_kind: "working-note"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
-legacy_document_role: "research-note"
+  - research/traceabilite_des_actes.md
+  - research/autonomia/impunite_par_obscurite_cas_corse.md
+  - FractaVolta/projects/corte_logement_capacitaire.md
+document_kind: working-note
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+legacy_document_role: research-note
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # In deserto
 

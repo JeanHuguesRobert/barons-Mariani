@@ -1,49 +1,50 @@
 ---
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/notices_famille_etendue.md"
-title: "Notices — famille étendue Mariani / de Casabianca / d’Angelis"
-description: "Méthode et feuille de route pour créer des notices généalogiques augmentées, sourcées et évolutives sur la famille étendue."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/notices_famille_etendue.md
+title: Notices — famille étendue Mariani / de Casabianca / d’Angelis
+description: Méthode et feuille de route pour créer des notices généalogiques augmentées, sourcées et évolutives sur la famille étendue.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ai_assisted_by:
-  - "ChatGPT"
-date: "2026-09-12"
-last_modified_at: "2026-09-12"
-version: "0.3"
-status: "working paper — public research roadmap"
-language: "fr"
-license: "CC BY-SA 4.0"
-visibility: "public"
-lifecycle_state: "working"
-document_role: "source"
-document_kind: "genealogical-research-method"
-update_policy: "UP-DEFAULT-REVIEWED"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "musee-mariani/methodes/notices_famille_etendue.md"
+  - ChatGPT
+date: '2026-09-12'
+last_modified_at: '2026-09-12'
+version: '0.3'
+status: working paper — public research roadmap
+language: fr
+license: CC BY-SA 4.0
+visibility: public
+lifecycle_state: working
+document_role: source
+document_kind: genealogical-research-method
+update_policy: UP-DEFAULT-REVIEWED
 source_scope:
-  - "famille Mariani"
-  - "famille de Casabianca"
-  - "famille d’Angelis"
+  - famille Mariani
+  - famille de Casabianca
+  - famille d’Angelis
 related_documents:
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "musee-mariani/sources/bibliographie.md"
-  - "musee-mariani/dossiers/louis-thomas-mariani-tahiti.md"
-  - "research/relevement_nom_dangelis.md"
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - musee-mariani/sources/bibliographie.md
+  - musee-mariani/dossiers/louis-thomas-mariani-tahiti.md
+  - research/relevement_nom_dangelis.md
 provenance:
-  origin_type: "conversation"
-  origin_date: "2026-09-12"
+  origin_type: conversation
+  origin_date: '2026-09-12'
   derived_from:
-    - "échanges Jean Hugues Noël Robert / ChatGPT du 12 septembre 2026"
-    - "note privée de travail /Famille/Mariani/notices_famille_etendue_todo.md"
+    - échanges Jean Hugues Noël Robert / ChatGPT du 12 septembre 2026
+    - note privée de travail /Famille/Mariani/notices_famille_etendue_todo.md
+  origin_repository: unknown
+  origin_ref: unknown
 review:
-  status: "human-directed publication"
+  status: human-directed publication
   reviewed_by:
-    - "Jean Hugues Noël Robert"
-  reviewed_at: "2026-09-12"
-classification_source: "manual"
-classification_version: "1"
-classification_rule: "public-genealogical-research-method"
-classification_confidence: "strong"
+    - Jean Hugues Noël Robert
+  reviewed_at: '2026-09-12'
+classification_source: manual
+classification_version: '1'
+classification_rule: public-genealogical-research-method
+classification_confidence: strong
 ---
+
 
 # Notices — famille étendue Mariani / de Casabianca / d’Angelis
 

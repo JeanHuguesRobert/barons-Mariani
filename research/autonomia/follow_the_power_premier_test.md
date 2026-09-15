@@ -1,25 +1,37 @@
 ---
-title: "Follow the Power — premier Reality Test"
-subtitle: "Projet d’autonomie de la Corse : transfert de capacité normative et capacité des habitants"
-status: "working-paper — reality-test-v0.1"
+title: Follow the Power — premier Reality Test
+subtitle: 'Projet d’autonomie de la Corse : transfert de capacité normative et capacité des habitants'
+status: working-paper — reality-test-v0.1
 language: fr
-created: 2026-08-22
-author: "Jean Hugues Noël Robert"
-document_role: "source"
-document_kind: "case-study"
-visibility: "public"
-lifecycle_state: "working"
-license: "CC BY-SA 4.0"
+author: Jean Hugues Noël Robert
+document_role: source
+document_kind: case-study
+visibility: public
+lifecycle_state: working
+license: CC BY-SA 4.0
 related:
-  - "research/security_model_representative_democracy.md"
-  - "research/note_synthetique_autonomie_capacite_corse.md"
-  - "research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "research-test"
+  - research/security_model_representative_democracy.md
+  - research/note_synthetique_autonomie_capacite_corse.md
+  - research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: research-test
+date: Sat Aug 22
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Follow the Power — premier Reality Test
 

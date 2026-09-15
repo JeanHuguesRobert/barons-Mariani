@@ -1,28 +1,28 @@
 ---
-title: "Potentics of Compute — RAIX Collective-Capability Addendum"
-subtitle: "From nominal node power to realizable collective capability"
-description: "Addendum connecting Potentics of Compute to the corrected RAIX concept: arrays may aggregate useful compute as well as provide redundancy, and their gain should be measured per bounded workload class."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A. / FractaVolta"
-date: "2026-08-22"
-last_modified_at: "2026-09-04"
-version: "0.1"
-status: "integrated"
-license: "CC BY-SA 4.0"
-language: "en"
-document_role: "source"
-document_kind: "research-addendum"
-visibility: "public"
-lifecycle_state: "working"
+title: Potentics of Compute — RAIX Collective-Capability Addendum
+subtitle: From nominal node power to realizable collective capability
+description: 'Addendum connecting Potentics of Compute to the corrected RAIX concept: arrays may aggregate useful compute as well as provide redundancy, and their gain should be measured per bounded workload class.'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A. / FractaVolta
+date: '2026-08-22'
+last_modified_at: '2026-09-04'
+version: '0.1'
+status: integrated
+license: CC BY-SA 4.0
+language: en
+document_role: source
+document_kind: research-addendum
+visibility: public
+lifecycle_state: working
 methodology:
-  - "Second Method"
-  - "Potentics"
-  - "Reactive Corpus semantic propagation"
+  - Second Method
+  - Potentics
+  - Reactive Corpus semantic propagation
 related_documents:
-  - "research/potentics_of_compute.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md"
+  - research/potentics_of_compute.md
+  - research/the_network_is_the_learning_computer.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/raix.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/fractanet.md
 tags:
   - potentics
   - raix
@@ -31,11 +31,22 @@ tags:
   - capacity-gain
   - heterogeneous-compute
   - edge-ai
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Potentics of Compute — RAIX Collective-Capability Addendum
 

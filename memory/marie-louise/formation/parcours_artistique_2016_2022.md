@@ -1,33 +1,40 @@
 ---
-title: "Marie-Louise — parcours artistique et formation (2016–2022)"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-language: "fr"
-document_role: "source-note"
-document_kind: "educational-artistic-chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — parcours artistique et formation (2016–2022)
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+language: fr
+document_role: source-note
+document_kind: educational-artistic-chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "mixed-primary-traces"
+  origin_type: mixed-primary-traces
   derived_from:
-    - "memory/marie-louise/works/frontieres_stop_motion_2016.md"
-    - "Gmail:15449b60315649e0"
-    - "Gmail:15623cc50810297a"
-    - "Gmail:15901e3906969ef1"
-    - "Gmail:15b16527bf97b95e"
-    - "Gmail:15bf942c756bea24"
-    - "Gmail:16012ff6ab50ad78"
-    - "Gmail:16737e68bc1918ab"
-    - "Gmail:16b31d816e8eb42d"
-    - "Gmail:178ab8f3f69d09c4"
-    - "Gmail:178df4383f1868a0"
-    - "Gmail:17e7808badd54b51"
-    - "Gmail:1922e3c9dd706501"
+    - memory/marie-louise/works/frontieres_stop_motion_2016.md
+    - Gmail:15449b60315649e0
+    - Gmail:15623cc50810297a
+    - Gmail:15901e3906969ef1
+    - Gmail:15b16527bf97b95e
+    - Gmail:15bf942c756bea24
+    - Gmail:16012ff6ab50ad78
+    - Gmail:16737e68bc1918ab
+    - Gmail:16b31d816e8eb42d
+    - Gmail:178ab8f3f69d09c4
+    - Gmail:178df4383f1868a0
+    - Gmail:17e7808badd54b51
+    - Gmail:1922e3c9dd706501
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # Parcours artistique et formation — 2016–2022
 

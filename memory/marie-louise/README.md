@@ -12,10 +12,18 @@ provenance:
   derived_from:
     - Gmail
     - public institutional records
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
   status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 # Marie-Louise Robert — mémoire et sources
 

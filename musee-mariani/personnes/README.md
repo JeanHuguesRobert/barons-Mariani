@@ -1,50 +1,51 @@
 ---
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/personnes/README.md"
-title: "Personnes — index généalogique du Musée Mariani"
-description: "Index canonique des personnes du sous-corpus généalogique Mariani / de Casabianca / d’Angelis, avec statut documentaire et niveau de preuve."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/personnes/README.md
+title: Personnes — index généalogique du Musée Mariani
+description: Index canonique des personnes du sous-corpus généalogique Mariani / de Casabianca / d’Angelis, avec statut documentaire et niveau de preuve.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ai_assisted_by:
-  - "ChatGPT"
-date: "2026-09-12"
-last_modified_at: "2026-09-12"
-version: "0.3"
-status: "working — canonical persons index"
-language: "fr"
-license: "CC BY-SA 4.0"
-visibility: "public"
-lifecycle_state: "working"
-document_role: "index"
-document_kind: "genealogical-persons-index"
-update_policy: "UP-DEFAULT-REVIEWED"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "musee-mariani/personnes/README.md"
+  - ChatGPT
+date: '2026-09-12'
+last_modified_at: '2026-09-12'
+version: '0.3'
+status: working — canonical persons index
+language: fr
+license: CC BY-SA 4.0
+visibility: public
+lifecycle_state: working
+document_role: index
+document_kind: genealogical-persons-index
+update_policy: UP-DEFAULT-REVIEWED
 related_documents:
-  - "musee-mariani/methodes/notices_famille_etendue.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "musee-mariani/sources/bibliographie.md"
-  - "research/relevement_nom_dangelis.md"
-  - "research/protestation_electorale_1863_mariani_gavini.md"
-  - "research/notice_baron_mariani_medias.md"
-  - "memory/marie-louise/README.md"
-  - "memory/marie-louise/carte.md"
-  - "projects/suicide-corse/README.md"
+  - musee-mariani/methodes/notices_famille_etendue.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - musee-mariani/sources/bibliographie.md
+  - research/relevement_nom_dangelis.md
+  - research/protestation_electorale_1863_mariani_gavini.md
+  - research/notice_baron_mariani_medias.md
+  - memory/marie-louise/README.md
+  - memory/marie-louise/carte.md
+  - projects/suicide-corse/README.md
 provenance:
-  origin_type: "repository-issue"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_type: repository-issue
+  origin_repository: JeanHuguesRobert/barons-Mariani
   derived_from:
-    - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/64"
-    - "musee-mariani/methodes/notices_famille_etendue.md"
+    - https://github.com/JeanHuguesRobert/barons-Mariani/issues/64
+    - musee-mariani/methodes/notices_famille_etendue.md
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "human-directed publication"
+  status: human-directed publication
   reviewed_by:
-    - "Jean Hugues Noël Robert"
-  reviewed_at: "2026-09-12"
-classification_source: "manual"
-classification_version: "1"
-classification_rule: "genealogical-persons-index"
-classification_confidence: "strong"
+    - Jean Hugues Noël Robert
+  reviewed_at: '2026-09-12'
+classification_source: manual
+classification_version: '1'
+classification_rule: genealogical-persons-index
+classification_confidence: strong
 ---
+
 
 # Personnes — index généalogique du Musée Mariani
 

@@ -1,19 +1,18 @@
 ---
-title: "Perform, FixBugsFirst et le pouvoir de négociation (1987–1997)"
-subtitle: "Note historique — dette technique avant le nom, SAGE/X, indépendance multi-vendeur"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-26"
-last_modified_at: "2026-07-26"
-status: "draft"
-document_role: "source"
-document_kind: "historical-source-note"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
-language: "fr"
+title: Perform, FixBugsFirst et le pouvoir de négociation (1987–1997)
+subtitle: Note historique — dette technique avant le nom, SAGE/X, indépendance multi-vendeur
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-26'
+last_modified_at: '2026-07-26'
+status: draft
+document_role: source
+document_kind: historical-source-note
+visibility: public
+language: fr
 related_repositories:
-  - "JeanHuguesRobert/operium"
-  - "JeanHuguesRobert/cogentia"
-  - "JeanHuguesRobert/FractaVolta"
+  - JeanHuguesRobert/operium
+  - JeanHuguesRobert/cogentia
+  - JeanHuguesRobert/FractaVolta
 tags:
   - perform
   - fix-bugs-first
@@ -25,16 +24,29 @@ tags:
   - logique-capacitaire
   - histoire-technique
 related_documents:
-  - "logique_capacitaire_jhr_forth_linkos_fractanet.md"
-  - "notes/source_technique_1980_2001.md"
-  - "lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "source-note"
+  - logique_capacitaire_jhr_forth_linkos_fractanet.md
+  - notes/source_technique_1980_2001.md
+  - lineages/forth_linkos_starx25_sagex_odisei_fractanet.yaml
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: source-note
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Perform, FixBugsFirst et le pouvoir de négociation (1987–1997)
 

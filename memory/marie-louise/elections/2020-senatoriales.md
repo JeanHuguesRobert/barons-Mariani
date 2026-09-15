@@ -1,31 +1,37 @@
 ---
-title: "Marie-Louise — sénatoriales 2020, candidature refusée puis bifurcation vers Laurence Vernerey"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-status: "working"
-language: "fr"
-document_role: "source-note"
-document_kind: "chronology"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — sénatoriales 2020, candidature refusée puis bifurcation vers Laurence Vernerey
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+status: working
+language: fr
+document_role: source-note
+document_kind: chronology
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "personal-archive"
+  origin_type: personal-archive
   derived_from:
-    - "Gmail:1746d1838a04eb4c"
-    - "Gmail:1746e545c144178d"
-    - "Gmail:17472599be020f1d"
-    - "Gmail:17478c8b4f7a940d"
-    - "Gmail:1747deeb017e3843"
-    - "Gmail:17479514f99dde24"
-    - "Gmail:1747956be5708eed"
-    - "Gmail:17490bf8e3a40e9f"
-    - "Préfecture de Corse-du-Sud — arrêté 2A-2020-09-17-001"
-    - "Sénat — livret définitif des candidats 2020"
+    - Gmail:1746d1838a04eb4c
+    - Gmail:1746e545c144178d
+    - Gmail:17472599be020f1d
+    - Gmail:17478c8b4f7a940d
+    - Gmail:1747deeb017e3843
+    - Gmail:17479514f99dde24
+    - Gmail:1747956be5708eed
+    - Gmail:17490bf8e3a40e9f
+    - Préfecture de Corse-du-Sud — arrêté 2A-2020-09-17-001
+    - Sénat — livret définitif des candidats 2020
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Sénatoriales 2020 — deux candidatures successives et un même nom de bulletin
 

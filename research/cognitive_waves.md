@@ -1,22 +1,34 @@
 ---
-title: "Sailing the Cognitive Waves"
-subtitle: "A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints"
+title: Sailing the Cognitive Waves
+subtitle: A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/cognitive_waves.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-05-26"
-status: "working-paper — adaptive exploration under mimetic resistance"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-05-26'
+status: working-paper — adaptive exploration under mimetic resistance
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # Sailing the Cognitive Waves  
 ## A Stigmergic Cognitive-Terrain Framework for Adaptive Exploration under Mimetic Constraints
 

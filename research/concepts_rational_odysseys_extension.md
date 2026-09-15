@@ -1,20 +1,20 @@
 ---
-title: "Concept Extension — Rational Odysseys and The Possible"
-description: "Concept entries prepared for integration into the barons-Mariani concept index."
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-date: "2026-07-10"
-status: "staging-note — ready to merge into research/concepts.md"
-document_role: "source"
-document_kind: "concept-index-extension"
-visibility: "public"
-lifecycle_state: "working"
+title: Concept Extension — Rational Odysseys and The Possible
+description: Concept entries prepared for integration into the barons-Mariani concept index.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+date: '2026-07-10'
+status: staging-note — ready to merge into research/concepts.md
+document_role: source
+document_kind: concept-index-extension
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/concepts.md"
-  - "research/potentics.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "inseme/research/cop_mission_stigmergy_exploration.md"
+  - research/concepts.md
+  - research/potentics.md
+  - research/rational_odysseys_the_possible.md
+  - inseme/research/cop_mission_stigmergy_exploration.md
 tags:
   - concept-index
   - the-possible
@@ -22,12 +22,24 @@ tags:
   - stigmergy
   - mission
   - corpus
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "staging"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: staging
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Concept Extension — Rational Odysseys and The Possible
 

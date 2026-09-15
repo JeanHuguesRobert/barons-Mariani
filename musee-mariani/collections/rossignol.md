@@ -1,26 +1,38 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/collections/rossignol.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Rossignol — collection vivante du Musée Mariani des Possibles"
-subtitle: "Provenance, chronologie et statut épistémique"
-date: "2026-08-22"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "living-collection-notice"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Rossignol — collection vivante du Musée Mariani des Possibles
+subtitle: Provenance, chronologie et statut épistémique
+date: '2026-08-22'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: living-collection-notice
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/collections/README.md"
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "research/the_republic_of_donkeys.md"
-  - "research/test_critere_rossignol.md"
-  - "research/stigmergie_sans_limite_haute.md"
+  - musee-mariani/collections/README.md
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/exploration_rationnelle_des_possibles.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - research/the_republic_of_donkeys.md
+  - research/test_critere_rossignol.md
+  - research/stigmergie_sans_limite_haute.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Rossignol — collection vivante du Musée Mariani des Possibles
 

@@ -1,24 +1,36 @@
 ---
-title: "Actualisation de l’atlas du paysage politique corse — séquence parlementaire de juin 2026"
-subtitle: "Du consensus apparent au test de l’Autonomie de Capacité"
-author: "Jean Hugues Noël Robert"
-date: "2026-06-06"
+title: Actualisation de l’atlas du paysage politique corse — séquence parlementaire de juin 2026
+subtitle: Du consensus apparent au test de l’Autonomie de Capacité
+author: Jean Hugues Noël Robert
+date: '2026-06-06'
 status: working-paper — actualisation à intégrer dans atlas_paysage_politique_corse.md
-version: "0.1-actualisation-juin-2026"
-x-type: "political and discursive atlas update"
-x-parent_document: "research/autonomia/atlas_paysage_politique_corse.md"
+version: 0.1-actualisation-juin-2026
+x-type: political and discursive atlas update
+x-parent_document: research/autonomia/atlas_paysage_politique_corse.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse_actualisation_2026-06.md
-license: "CC BY-SA 4.0"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Actualisation de l’atlas du paysage politique corse — séquence parlementaire de juin 2026
 

@@ -1,21 +1,33 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/possibilism_04_2026.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-title: "Possibilism: Notes Toward a Research Program on Possibility Exploration"
-date: "2026-04-28"
-status: "working-paper — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "concept-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "concept-note"
-classification_confidence: "medium"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+title: 'Possibilism: Notes Toward a Research Program on Possibility Exploration'
+date: '2026-04-28'
+status: working-paper — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: concept-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: concept-note
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # Possibilism: Notes Toward a Research Program on Possibility Exploration
 
 **Jean Hugues Noël Robert, baron Mariani**

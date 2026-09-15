@@ -1,56 +1,67 @@
 ---
-title: "Note synthétique pour examen parlementaire"
-subtitle: "Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique"
+title: Note synthétique pour examen parlementaire
+subtitle: Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique
 status: working-paper — operational_note_v0.3
 language: fr
-created: 2026-05-24
-updated: 2026-08-22
-author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+created: 2026-05-24T00:00:00.000Z
+author: Jean Hugues Noël Robert, baron Mariani de Corte
 function: parliamentary_working_note
 target_scene: parliamentary_staff_review
 related_documents:
-  - title: "Courrier public aux six parlementaires corses"
-    role: "document d’envoi de la contribution"
-    path: "research/courrier_public_six_parlementaires_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md"
-    markdown: "[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)"
-  - title: "Proposition constitutionnelle — autonomie de capacité"
-    role: "document de fond"
-    path: "research/proposition_constitutionnelle_autonomie_capacite_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md"
-    markdown: "[Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)"
-  - title: "Chronologie documentaire du processus de Beauvau"
-    role: "dossier documentaire de contextualisation"
-    path: "research/chronologie_processus_beauvau_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md"
-    markdown: "[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)"
-  - title: "Mise à jour du processus de Beauvau — phase post-Assemblée nationale"
-    role: "addendum postérieur au vote du 23 juin 2026"
-    path: "research/autonomia/mise_a_jour_processus_beauvau_2026-07.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mise_a_jour_processus_beauvau_2026-07.md"
-    markdown: "[Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)"
-  - title: "Registre du chantier de loi organique pour l’autonomie de la Corse"
-    role: "registre de suivi de la constitution pratique de l’autonomie"
-    path: "research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
-    url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/registre_chantier_loi_organique_autonomie_corse.md"
-    markdown: "[Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)"
-  - title: "Premier Reality Test — Follow the Power"
-    role: "test capacitaire du transfert d’autonomie"
-    path: "research/autonomia/follow_the_power_premier_test.md"
+  - title: Courrier public aux six parlementaires corses
+    role: document d’envoi de la contribution
+    path: research/courrier_public_six_parlementaires_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
+    markdown: '[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)'
+  - title: Proposition constitutionnelle — autonomie de capacité
+    role: document de fond
+    path: research/proposition_constitutionnelle_autonomie_capacite_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
+    markdown: '[Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)'
+  - title: Chronologie documentaire du processus de Beauvau
+    role: dossier documentaire de contextualisation
+    path: research/chronologie_processus_beauvau_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
+    markdown: '[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)'
+  - title: Mise à jour du processus de Beauvau — phase post-Assemblée nationale
+    role: addendum postérieur au vote du 23 juin 2026
+    path: research/autonomia/mise_a_jour_processus_beauvau_2026-07.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mise_a_jour_processus_beauvau_2026-07.md
+    markdown: '[Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)'
+  - title: Registre du chantier de loi organique pour l’autonomie de la Corse
+    role: registre de suivi de la constitution pratique de l’autonomie
+    path: research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
+    markdown: '[Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)'
+  - title: Premier Reality Test — Follow the Power
+    role: test capacitaire du transfert d’autonomie
+    path: research/autonomia/follow_the_power_premier_test.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-08-22
-date: "2026-05-24"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-08-22T00:00:00.000Z
+date: '2026-05-24'
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+last_modified_at: Sat Aug 22
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Note synthétique pour examen parlementaire
 

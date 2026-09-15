@@ -1,24 +1,39 @@
 ---
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
 review_target:
-  repository: "JeanHuguesRobert/barons-Mariani"
+  repository: JeanHuguesRobert/barons-Mariani
   files:
-    - "barons-Mariani/research/louis_pouzin_datagram_pioneer.md"
-  reviewed_version: "v1.0"
-  review_scope: "academic / OSINT / technical"
-  requested_by: "Jean-Hugues Robert"
-  reviewer: "Grok (Adversarial Risk & Symmetry Auditor)"
-  review_date: "2026-07-25"
+    - barons-Mariani/research/louis_pouzin_datagram_pioneer.md
+  reviewed_version: v1.0
+  review_scope: academic / OSINT / technical
+  requested_by: Jean-Hugues Robert
+  reviewer: Grok (Adversarial Risk & Symmetry Auditor)
+  review_date: '2026-07-25'
   human_validation_required: true
-status: "decorrelated_review_pending_human_arbitration"
+status: decorrelated_review_pending_human_arbitration
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Revue Critique Adverse Decorrelée : Grok
 

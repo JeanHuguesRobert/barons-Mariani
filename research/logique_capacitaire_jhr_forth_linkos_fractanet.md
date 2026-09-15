@@ -1,26 +1,25 @@
 ---
-title: "Logique capacitaire — de Forth et LinkOS à FractaNet"
-subtitle: "Grille de lecture technique, doctrinale et autobiographique"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-07"
-last_modified_at: "2026-09-05"
-version: "0.2"
-status: "draft v0.2"
-document_role: "source"
-document_kind: "conceptual-lineage"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
+title: Logique capacitaire — de Forth et LinkOS à FractaNet
+subtitle: Grille de lecture technique, doctrinale et autobiographique
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-07'
+last_modified_at: '2026-09-05'
+version: '0.2'
+status: draft v0.2
+document_role: source
+document_kind: conceptual-lineage
+visibility: public
 related_repositories:
-  - "JeanHuguesRobert/cogentia"
-  - "JeanHuguesRobert/FractaVolta"
-  - "JeanHuguesRobert/Inox"
-  - "JeanHuguesRobert/marenostrum"
+  - JeanHuguesRobert/cogentia
+  - JeanHuguesRobert/FractaVolta
+  - JeanHuguesRobert/Inox
+  - JeanHuguesRobert/marenostrum
 related_documents:
-  - "cogentia/research/learning_computer_genese_et_architecture.md"
-  - "research/principe_rossignol.md"
-  - "research/jhn_architecture.md"
-  - "https://github.com/JeanHuguesRobert/l8"
-  - "https://github.com/JeanHuguesRobert/side"
+  - cogentia/research/learning_computer_genese_et_architecture.md
+  - research/principe_rossignol.md
+  - research/jhn_architecture.md
+  - https://github.com/JeanHuguesRobert/l8
+  - https://github.com/JeanHuguesRobert/side
 tags:
   - logique-capacitaire
   - possibilisme-capacitaire
@@ -35,16 +34,30 @@ tags:
   - learning-computer
   - fractanet
   - agents-jhn
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "high"
-legacy_document_role: "doctrine"
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: high
+legacy_document_role: doctrine
 changelog:
-  - "2026-07-07 — draft v0.1: première cartographie de la logique capacitaire de Forth/LinkOS à FractaNet."
-  - "2026-09-05 — draft v0.2: propagation Issue #55; insertion des jalons pivots majeurs l8 (2014) et side.js (2016) entre Odisei et FractaNet, formalisation du germe du Packet Closure et du non-bloquant synchrone vers le Learning Computer."
+  - '2026-07-07 — draft v0.1: première cartographie de la logique capacitaire de Forth/LinkOS à FractaNet.'
+  - '2026-09-05 — draft v0.2: propagation Issue #55; insertion des jalons pivots majeurs l8 (2014) et side.js (2016) entre Odisei et FractaNet, formalisation du germe du Packet Closure et du non-bloquant synchrone vers le Learning Computer.'
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Logique capacitaire — de Forth et LinkOS à FractaNet
 

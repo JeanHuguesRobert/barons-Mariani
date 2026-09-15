@@ -1,26 +1,26 @@
 ---
-title: "Potentics — Capabilities, Interdependencies, and the Topology of Possibility"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-22"
-version: "0.1"
-status: "working-paper"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
+title: Potentics — Capabilities, Interdependencies, and the Topology of Possibility
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-22'
+version: '0.1'
+status: working-paper
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
 methodology:
-  - "Second Method"
-  - "Rational Exploration of Possibilities"
+  - Second Method
+  - Rational Exploration of Possibilities
 related_documents:
-  - "research/potentics.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/second_method.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/principe_rossignol.md"
-  - "research/test_critere_rossignol.md"
+  - research/potentics.md
+  - research/rational_odysseys_the_possible.md
+  - research/second_method.md
+  - research/the_network_is_the_learning_computer.md
+  - research/principe_rossignol.md
+  - research/test_critere_rossignol.md
 tags:
   - potentics
   - capabilities
@@ -33,11 +33,22 @@ tags:
   - rossignol
   - commons
   - cybernetics
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Potentics — Capabilities, Interdependencies, and the Topology of Possibility
 

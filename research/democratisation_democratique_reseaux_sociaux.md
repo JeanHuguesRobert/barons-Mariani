@@ -1,31 +1,41 @@
 ---
-title: "Démocratisation démocratique des réseaux sociaux"
-subtitle: "Contrôler les plateformes sans les livrer à une nouvelle capture"
-author: "Jean Hugues Noël Robert, assisté par ChatGPT"
-status: "document source — doctrine politique — conclusions provisoires"
-version: "0.1"
-date: "2026-07-06"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-canonical_path: "barons-Mariani/research/democratisation_democratique_reseaux_sociaux.md"
-source_conversation: "ChatGPT — 2026-07-06"
-related_issue: "JeanHuguesRobert/cogentia#45"
+title: Démocratisation démocratique des réseaux sociaux
+subtitle: Contrôler les plateformes sans les livrer à une nouvelle capture
+author: Jean Hugues Noël Robert, assisté par ChatGPT
+status: document source — doctrine politique — conclusions provisoires
+version: '0.1'
+date: '2026-07-06'
+license: CC BY-SA 4.0
+language: fr
+source_conversation: ChatGPT — 2026-07-06
+related_issue: JeanHuguesRobert/cogentia#45
 related_research:
-  - "barons-Mariani/research/never_complain_never_explain_accountability.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "barons-Mariani/research/pathologie_du_secret.md"
-  - "barons-Mariani/research/theorie_des_jeux_corpus.md"
-  - "cogentia/research/agents_jhn_democratisation_reseaux_sociaux.md"
-document_role: "source"
-document_kind: "doctrine-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - barons-Mariani/research/never_complain_never_explain_accountability.md
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - barons-Mariani/research/pathologie_du_secret.md
+  - barons-Mariani/research/theorie_des_jeux_corpus.md
+  - cogentia/research/agents_jhn_democratisation_reseaux_sociaux.md
+document_role: source
+document_kind: doctrine-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Démocratisation démocratique des réseaux sociaux
 

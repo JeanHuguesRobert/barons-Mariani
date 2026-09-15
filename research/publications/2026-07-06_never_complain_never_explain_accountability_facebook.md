@@ -1,30 +1,40 @@
 ---
-title: "Never complain, never explain — remain accountable to those you serve"
-subtitle: "Publication Facebook — accountability, IA, corpus et stabilisateur procédural"
-author: "Jean Hugues Noël Robert, assisté par ChatGPT"
-status: "produit décliné — publication Facebook — version de travail"
-version: "0.1"
-date: "2026-07-06"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-canonical_path: "barons-Mariani/research/publications/2026-07-06_never_complain_never_explain_accountability_facebook.md"
-source_conversation: "ChatGPT — 2026-07-06"
-related_issue: "JeanHuguesRobert/cogentia#45"
+title: Never complain, never explain — remain accountable to those you serve
+subtitle: Publication Facebook — accountability, IA, corpus et stabilisateur procédural
+author: Jean Hugues Noël Robert, assisté par ChatGPT
+status: produit décliné — publication Facebook — version de travail
+version: '0.1'
+date: '2026-07-06'
+license: CC BY-SA 4.0
+language: fr
+source_conversation: ChatGPT — 2026-07-06
+related_issue: JeanHuguesRobert/cogentia#45
 derived_from:
-  - "barons-Mariani/research/never_complain_never_explain_accountability.md"
-  - "barons-Mariani/research/democratisation_democratique_reseaux_sociaux.md"
-  - "cogentia/research/agents_jhn_democratisation_reseaux_sociaux.md"
-document_role: "derived"
-document_kind: "facebook-post"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
-legacy_document_role: "derived-product"
+  - barons-Mariani/research/never_complain_never_explain_accountability.md
+  - barons-Mariani/research/democratisation_democratique_reseaux_sociaux.md
+  - cogentia/research/agents_jhn_democratisation_reseaux_sociaux.md
+document_role: derived
+document_kind: facebook-post
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+legacy_document_role: derived-product
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Publication Facebook
 

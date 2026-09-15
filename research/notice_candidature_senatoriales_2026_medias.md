@@ -1,32 +1,42 @@
 ---
-title: "Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani"
-subtitle: "Identité électorale, étiquette Le Petit Parti - A Voce et alliance politique avec Jean-François Baccarelli"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-12"
-last_modified_at: "2026-09-14"
-version: "0.3"
-status: "published — public reference notice"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "derived"
-document_kind: "public-reference-notice"
-publication_target: "journalistes, médias, institutions, public"
-visibility: "public"
-lifecycle_state: "active"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "research/notice_candidature_senatoriales_2026_medias.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_candidature_senatoriales_2026_medias.md"
-audience: "journalistes, médias, institutions et toute personne souhaitant vérifier la présentation de la candidature"
-purpose: "Rendre vérifiables l’identité électorale déclarée, l’étiquette Le Petit Parti - A Voce et la réalité politique qu’elle renseigne, afin d’éviter leur effacement ou leur requalification en 'sans étiquette'."
+title: Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani
+subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance politique avec Jean-François Baccarelli
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-09-12'
+last_modified_at: '2026-09-14'
+version: '0.3'
+status: published — public reference notice
+language: fr
+license: CC BY-SA 4.0
+document_role: derived
+document_kind: public-reference-notice
+publication_target: journalistes, médias, institutions, public
+visibility: public
+lifecycle_state: active
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_candidature_senatoriales_2026_medias.md
+audience: journalistes, médias, institutions et toute personne souhaitant vérifier la présentation de la candidature
+purpose: Rendre vérifiables l’identité électorale déclarée, l’étiquette Le Petit Parti - A Voce et la réalité politique qu’elle renseigne, afin d’éviter leur effacement ou leur requalification en 'sans étiquette'.
 source_documents:
-  - "research/notice_baron_mariani_medias.md"
-  - "research/opheline_ophelia_pertitellu_genesis.md"
-  - "https://github.com/JeanHuguesRobert/pertitellu"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - research/notice_baron_mariani_medias.md
+  - research/opheline_ophelia_pertitellu_genesis.md
+  - https://github.com/JeanHuguesRobert/pertitellu
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani
 

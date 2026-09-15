@@ -1,14 +1,12 @@
 ---
-title: "École Mariani de l’Autonomie"
-subtitle: "Former des coachs d’autonomie augmentée par IA"
-author: "Jean Hugues Noël Robert"
-status: "draft"
-version: "0.3"
-date: "2026-07-13"
-repository: "barons-Mariani"
-path: "research/ecole_mariani_autonomie.md"
-type: "source_note"
-language: "fr"
+title: École Mariani de l’Autonomie
+subtitle: Former des coachs d’autonomie augmentée par IA
+author: Jean Hugues Noël Robert
+status: draft
+version: '0.3'
+date: '2026-07-13'
+type: source_note
+language: fr
 tags:
   - École Mariani de l’Autonomie
   - Mariani School of Autonomy
@@ -30,57 +28,70 @@ tags:
   - courant continu
   - energy packets
 corpus_hierarchy:
-  level: "source_note"
-  role: "document de cadrage pédagogique"
+  level: source_note
+  role: document de cadrage pédagogique
   derived_from:
-    - "conversation ChatGPT du 2026-06-17 sur chauffe-eau gaz, autonomie énergétique et coaching assisté par IA"
-    - "conversation ChatGPT du 2026-06-20 sur l’homéostasie de l’habitat"
-    - "conversation ChatGPT du 2026-07-13 sur KYS, Cogentigram et autonomie cognitive"
-    - "research/serenia_autonomie_assistee_ia.md"
-    - "research/noyau_doctrinal_rendre_capable.md"
-    - "JeanHuguesRobert/cogentia: research/Cogentia-and-Cogentigram.md"
-    - "JeanHuguesRobert/cogentia: research/cogentia_workflows.md"
+    - conversation ChatGPT du 2026-06-17 sur chauffe-eau gaz, autonomie énergétique et coaching assisté par IA
+    - conversation ChatGPT du 2026-06-20 sur l’homéostasie de l’habitat
+    - conversation ChatGPT du 2026-07-13 sur KYS, Cogentigram et autonomie cognitive
+    - research/serenia_autonomie_assistee_ia.md
+    - research/noyau_doctrinal_rendre_capable.md
+    - 'JeanHuguesRobert/cogentia: research/Cogentia-and-Cogentigram.md'
+    - 'JeanHuguesRobert/cogentia: research/cogentia_workflows.md'
   may_generate:
-    - "fiche courte de présentation de l’École Mariani de l’Autonomie"
-    - "programme pédagogique modulaire"
-    - "fiche formation coach d’autonomie"
-    - "module KYS d’autonomie cognitive et agentique"
-    - "note institutionnelle pour partenaires publics ou associatifs"
-    - "article Substack grand public"
-    - "page de présentation en anglais : Mariani School of Autonomy"
+    - fiche courte de présentation de l’École Mariani de l’Autonomie
+    - programme pédagogique modulaire
+    - fiche formation coach d’autonomie
+    - module KYS d’autonomie cognitive et agentique
+    - note institutionnelle pour partenaires publics ou associatifs
+    - article Substack grand public
+    - 'page de présentation en anglais : Mariani School of Autonomy'
 related_documents:
-  - "research/serenia_autonomie_assistee_ia.md"
-  - "research/homeostasie_habitat.md"
-  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-  - "research/cas_maison_urbaine_corte_autonomie.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/autonomia.md"
-  - "research/democratie_capable.md"
-  - "research/kudos.md"
-  - "research/dongles_proprietaires_et_droit_a_la_remise_en_service.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia-and-Cogentigram.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md"
+  - research/serenia_autonomie_assistee_ia.md
+  - research/homeostasie_habitat.md
+  - research/ecole_mariani_autonomie_terrains_pilotes.md
+  - research/cas_maison_urbaine_corte_autonomie.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/autonomia.md
+  - research/democratie_capable.md
+  - research/kudos.md
+  - research/dongles_proprietaires_et_droit_a_la_remise_en_service.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia-and-Cogentigram.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md
 related_projects:
-  - "C.O.R.S.I.C.A."
-  - "Institut Mariani"
-  - "Serenia"
-  - "KYS"
-  - "Cogentia"
-  - "FractaVolta"
-  - "Fractanet"
-  - "Mare Nostrum"
-  - "Paese Capace"
-  - "Ubikia"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - C.O.R.S.I.C.A.
+  - Institut Mariani
+  - Serenia
+  - KYS
+  - Cogentia
+  - FractaVolta
+  - Fractanet
+  - Mare Nostrum
+  - Paese Capace
+  - Ubikia
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # École Mariani de l’Autonomie
 

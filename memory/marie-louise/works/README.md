@@ -1,16 +1,27 @@
 ---
-title: "Marie-Louise — créations et traces artistiques"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-document_role: "source-index"
-document_kind: "memory"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — créations et traces artistiques
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+document_role: source-index
+document_kind: memory
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Marie-Louise — créations et traces artistiques
 

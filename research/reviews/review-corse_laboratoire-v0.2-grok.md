@@ -1,23 +1,36 @@
 ---
-title: "Review — Corse Laboratoire v0.2 atelier"
-target: "corse_laboratoire_v0.2_atelier.md"
-prior_review: "review-corse_laboratoire_v0.1_atelier.md"
-dispositions: "dispositions-corse_laboratoire-v0.1-grok.md"
-reviewer_contract: "cogentia/prompts/reviewer.md v0.5"
-review_date: "2026-09-09"
-reviewer: "Grok 4.6 (xAI) — decorrelated Reviewer"
-status: "constructive external review — non-decisional"
-language: "en"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+title: Review — Corse Laboratoire v0.2 atelier
+target: corse_laboratoire_v0.2_atelier.md
+prior_review: review-corse_laboratoire_v0.1_atelier.md
+dispositions: dispositions-corse_laboratoire-v0.1-grok.md
+reviewer_contract: cogentia/prompts/reviewer.md v0.5
+review_date: '2026-09-09'
+reviewer: Grok 4.6 (xAI) — decorrelated Reviewer
+status: constructive external review — non-decisional
+language: en
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-15'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Decorrelation declaration
 

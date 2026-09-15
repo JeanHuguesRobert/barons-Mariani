@@ -13,10 +13,18 @@ provenance:
     - Gmail thread 1902138ea0abe20c
     - Gmail attachment "plaintes2024 (1).pdf"
     - Conseil constitutionnel, décision n° 2024-6309 AN
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
   status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 # Législatives 2024 — plaintes et suites institutionnelles
 

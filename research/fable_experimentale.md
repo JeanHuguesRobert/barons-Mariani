@@ -1,28 +1,40 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/fable_experimentale.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "La fable expérimentale"
-subtitle: "De la satire politique à l'expérimentation située"
-date: "2026-08-22"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "methodological-note"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: La fable expérimentale
+subtitle: De la satire politique à l'expérimentation située
+date: '2026-08-22'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: methodological-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/the_republic_of_donkeys.md"
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
-  - "musee-mariani/collections/rossignol.md"
-  - "research/test_critere_rossignol.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - research/the_republic_of_donkeys.md
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/exploration_rationnelle_des_possibles.md
+  - musee-mariani/collections/rossignol.md
+  - research/test_critere_rossignol.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # La fable expérimentale
 

@@ -1,17 +1,16 @@
 ---
-title: "L’autonomie ne doit pas devenir un transfert d’opacité"
-subtitle: "À propos de l’impunité par obscurité, de la Corse, des agences publiques et de l’Autonomie de Capacité"
-version: "0.1"
-status: "draft"
-date: "2026-06-01"
-author: "Jean Hugues Noël Robert"
-intended_path: "research/autonomia/impunite_par_obscurite_blogpost.md"
-language: "fr"
+title: L’autonomie ne doit pas devenir un transfert d’opacité
+subtitle: À propos de l’impunité par obscurité, de la Corse, des agences publiques et de l’Autonomie de Capacité
+version: '0.1'
+status: draft
+date: '2026-06-01'
+author: Jean Hugues Noël Robert
+language: fr
 derived_from:
-  - "JeanHuguesRobert/barons-Mariani/research/autonomia/impunite_par_obscurite_cas_corse.md"
-derived_product_type: "Substack article"
-platform_target: "Les carnets du baron Mariani"
-license: "CC BY 4.0"
+  - JeanHuguesRobert/barons-Mariani/research/autonomia/impunite_par_obscurite_cas_corse.md
+derived_product_type: Substack article
+platform_target: Les carnets du baron Mariani
+license: CC BY 4.0
 tags:
   - autonomia
   - autonomie-de-capacite
@@ -22,23 +21,34 @@ tags:
   - probite
   - substack
 source_status:
-  source_version: "0.5"
-  source_status: "published working paper — academic symmetric source document"
+  source_version: '0.5'
+  source_status: published working paper — academic symmetric source document
 ai_assisted_by:
-  - "ChatGPT"
+  - ChatGPT
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_blogpost.md
-last_stamped_at: 2026-06-01
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-corpus_role: "derived"
-document_role: "derived"
-document_kind: "derived-product"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "derived-product"
-classification_confidence: "strong"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+corpus_role: derived
+document_role: derived
+document_kind: derived-product
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: derived-product
+classification_confidence: strong
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # L’autonomie ne doit pas devenir un transfert d’opacité
 

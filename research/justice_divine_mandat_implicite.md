@@ -1,47 +1,45 @@
 ---
-title: "Justice divine, mandat implicite et anti-capture"
-subtitle: "Du bras armé sacralisé au mandataire traçable"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-27"
-status: "release_candidate v0.4 — version finale, fluidité littéraire conservée, renforcements de fond intégrés"
-version: "0.4"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-path: "research/justice_divine_mandat_implicite.md"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "release_candidate"
+title: Justice divine, mandat implicite et anti-capture
+subtitle: Du bras armé sacralisé au mandataire traçable
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-27'
+status: release_candidate v0.4 — version finale, fluidité littéraire conservée, renforcements de fond intégrés
+version: '0.4'
+license: CC BY-SA 4.0
+language: fr
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: release_candidate
 human_validation_required: true
 ai_assisted_by:
-  - "ChatGPT — rédaction initiale, structuration, enrichissement académique, intégration de la revue Grok"
-  - "Claude — revue critique adverse, réécriture littéraire en v0.3, synthèse finale en v0.4"
+  - ChatGPT — rédaction initiale, structuration, enrichissement académique, intégration de la revue Grok
+  - Claude — revue critique adverse, réécriture littéraire en v0.3, synthèse finale en v0.4
 reviewed_by:
-  - "Claude — revue critique adverse formelle (review.md, 2026-06-27)"
-  - "Grok — revue constructive externe, intégrée par ChatGPT (2026-06-27)"
-review_status: "v0.4 fusionne la fluidité littéraire de la v0.3 Claude et les renforcements de fond intégrés par ChatGPT à partir de la revue Grok : typologie à quatre régimes des sources supérieures, exemples concrets du seuil d'acte engageant, synthèse constructive de la section 16, transition Partie I / Partie II, clarification religieuse en section 0."
+  - Claude — revue critique adverse formelle (review.md, 2026-06-27)
+  - Grok — revue constructive externe, intégrée par ChatGPT (2026-06-27)
+review_status: 'v0.4 fusionne la fluidité littéraire de la v0.3 Claude et les renforcements de fond intégrés par ChatGPT à partir de la revue Grok : typologie à quatre régimes des sources supérieures, exemples concrets du seuil d''acte engageant, synthèse constructive de la section 16, transition Partie I / Partie II, clarification religieuse en section 0.'
 self_review_applied:
-  protocol: "research/review_protocol.md"
-  reviewer_role: "critique adverse externe (Claude, Grok)"
-  redactor_role: "intégration sélective des objections par l'auteur source"
-  arbitration: "humaine — Jean Hugues Noël Robert"
+  protocol: research/review_protocol.md
+  reviewer_role: critique adverse externe (Claude, Grok)
+  redactor_role: intégration sélective des objections par l'auteur source
+  arbitration: humaine — Jean Hugues Noël Robert
 related_documents:
-  - "research/review_protocol.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/mandated_fast_democracy.md"
-  - "research/pathologie_du_secret.md"
-  - "research/theorie_des_jeux_corpus.md"
-  - "identity/INTENT_KERNEL.md"
+  - research/review_protocol.md
+  - research/traceabilite_des_actes.md
+  - research/mandated_fast_democracy.md
+  - research/pathologie_du_secret.md
+  - research/theorie_des_jeux_corpus.md
+  - identity/INTENT_KERNEL.md
 related_projects:
-  - "Cogentia"
-  - "Kudocracy"
-  - "Archia"
-  - "Inseme"
-  - "Autonomie de Capacité"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
+  - Cogentia
+  - Kudocracy
+  - Archia
+  - Inseme
+  - Autonomie de Capacité
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
 tags:
   - justice-divine
   - theodicee
@@ -59,11 +57,22 @@ tags:
   - ia-suggestion-non-prescription
   - jumeau-numerique
   - corpus-vivant
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Justice divine, mandat implicite et anti-capture
 

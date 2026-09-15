@@ -1,28 +1,40 @@
 ---
-title: "Traçabilité des actes : déléguer sans se déposséder"
-subtitle: "Mandat, imputabilité et responsabilité dans un monde où humains, institutions et IA agissent ensemble"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-27"
+title: 'Traçabilité des actes : déléguer sans se déposséder'
+subtitle: Mandat, imputabilité et responsabilité dans un monde où humains, institutions et IA agissent ensemble
+author: Jean Hugues Noël Robert
+date: '2026-05-27'
 status: working-paper — Substack / Les carnets du baron Mariani (draft)
-version: "0.1-blogpost"
-source_document: "research/traceabilite_des_actes.md v0.15.1-research"
-license: "CC BY-SA 4.0"
+version: 0.1-blogpost
+source_document: research/traceabilite_des_actes.md v0.15.1-research
+license: CC BY-SA 4.0
 ai_assisted_by:
-  - "ChatGPT — public-facing draft"
+  - ChatGPT — public-facing draft
 review_context:
-  - "Grok — reviewer of research version, not author of this blogpost"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+  - Grok — reviewer of research version, not author of this blogpost
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes_blogpost.md
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Traçabilité des actes : déléguer sans se déposséder
 

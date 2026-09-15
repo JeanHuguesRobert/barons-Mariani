@@ -1,21 +1,33 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/discret_holography.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-01
-title: "ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D"
-date: "2026-02-27"
-status: "draft — auto-filled (frontmatter cleanup)"
-document_role: "source"
-document_kind: "architecture"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "architecture"
-classification_confidence: "medium"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-01T00:00:00.000Z
+title: 'ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D'
+date: '2026-02-27'
+status: draft — auto-filled (frontmatter cleanup)
+document_role: source
+document_kind: architecture
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: architecture
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 # ARCHITECTURE DE L’UNIVERS-AUTOMATE : RÉSOLUTION SYSTÉMIQUE 2D-4D
 
 **Auteur :** Jean-Hugues Noël ROBERT, baron Mariani

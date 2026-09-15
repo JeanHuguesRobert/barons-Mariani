@@ -1,14 +1,12 @@
 ---
-title: "Rendre capable — noyau doctrinal provisoire"
-subtitle: "Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant"
-author: "Jean Hugues Noël Robert"
-status: "working_draft"
-version: "0.5.2"
-date: "2026-09-15"
-review_status: "v0.5.2 integrates situated capability gaps, accessibility and the Machine à Rendre Capable articulation; constructive review remains welcome"
-repository: "barons-Mariani"
-path: "research/noyau_doctrinal_rendre_capable.md"
-type: "doctrinal_kernel"
+title: Rendre capable — noyau doctrinal provisoire
+subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
+author: Jean Hugues Noël Robert
+status: working_draft
+version: 0.5.2
+date: '2026-09-15'
+review_status: v0.5.2 integrates situated capability gaps, accessibility and the Machine à Rendre Capable articulation; constructive review remains welcome
+type: doctrinal_kernel
 scope:
   - philosophy
   - politics
@@ -27,59 +25,73 @@ scope:
   - maintenance
   - bounded-antifragility
 related_documents:
-  - "JeanHuguesRobert/.cogentia.json"
-  - "barons-Mariani/POSSIBILISM.md"
-  - "barons-Mariani/research/autonomia.md"
-  - "barons-Mariani/research/democratie_capable.md"
-  - "barons-Mariani/research/traceabilite_civique_antimafia.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "barons-Mariani/research/kudos.md"
-  - "barons-Mariani/research/serenia_autonomie_assistee_ia.md"
-  - "barons-Mariani/research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md"
-  - "barons-Mariani/research/marx_capitalisme_antifragile.md"
-  - "cogentia/research/second_method.md"
-  - "cogentia/research/methode_terrains_feconds.md"
-  - "cogentia/research/conversation_to_corpus_pipeline.md"
-  - "cogentia/research/cognitive_packets.md"
-  - "cogentia/research/cognitive_packet_switching.md"
-  - "cogentia/research/cogentia_continuation_packet_routing.md"
-  - "cogentia/research/democracy_of_capability.md"
-  - "cogentia/research/mandated_fast_democracy.md"
-  - "cogentia/research/tracabilite_symetrique_capture_relationnelle.md"
-  - "cogentia/research/measured_risk.md"
-  - "FractaVolta/research/UNCONSCIOUS_GRID.md"
-  - "FractaVolta/research/LE_RESEAU_INCONSCIENT.md"
-  - "FractaVolta/research/generalized_packet_networks.md"
-  - "FractaVolta/research/fractanet.md"
-  - "FractaVolta/docs/energy-packets.md"
-  - "marenostrum/research/pacte_anti_capture_solaire_inferentielle.md"
-  - "marenostrum/MODEL.md"
-  - "Inox/research/inox-spec.md"
-  - "cogentia/COP_STATE_OF_PLAY.md"
-  - "inseme/packages/cop-kernel/docs/task-step-continuation-lineage.md"
-  - "inseme/apps/platform/docs/blueprint_ophelia.md"
-  - "ubikia/README.md"
+  - JeanHuguesRobert/.cogentia.json
+  - barons-Mariani/POSSIBILISM.md
+  - barons-Mariani/research/autonomia.md
+  - barons-Mariani/research/democratie_capable.md
+  - barons-Mariani/research/traceabilite_civique_antimafia.md
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - barons-Mariani/research/kudos.md
+  - barons-Mariani/research/serenia_autonomie_assistee_ia.md
+  - barons-Mariani/research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md
+  - barons-Mariani/research/marx_capitalisme_antifragile.md
+  - cogentia/research/second_method.md
+  - cogentia/research/methode_terrains_feconds.md
+  - cogentia/research/conversation_to_corpus_pipeline.md
+  - cogentia/research/cognitive_packets.md
+  - cogentia/research/cognitive_packet_switching.md
+  - cogentia/research/cogentia_continuation_packet_routing.md
+  - cogentia/research/democracy_of_capability.md
+  - cogentia/research/mandated_fast_democracy.md
+  - cogentia/research/tracabilite_symetrique_capture_relationnelle.md
+  - cogentia/research/measured_risk.md
+  - FractaVolta/research/UNCONSCIOUS_GRID.md
+  - FractaVolta/research/LE_RESEAU_INCONSCIENT.md
+  - FractaVolta/research/generalized_packet_networks.md
+  - FractaVolta/research/fractanet.md
+  - FractaVolta/docs/energy-packets.md
+  - marenostrum/research/pacte_anti_capture_solaire_inferentielle.md
+  - marenostrum/MODEL.md
+  - Inox/research/inox-spec.md
+  - cogentia/COP_STATE_OF_PLAY.md
+  - inseme/packages/cop-kernel/docs/task-step-continuation-lineage.md
+  - inseme/apps/platform/docs/blueprint_ophelia.md
+  - ubikia/README.md
 related_projects:
-  - "Fractanet"
-  - "FractaVolta"
-  - "Cogentia"
-  - "Archia"
-  - "SérénIA"
-  - "Inox"
-  - "COP"
-  - "Ubikia"
-  - "Ophélia"
-  - "Mare Nostrum"
-  - "Autonomie de Capacité"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Fractanet
+  - FractaVolta
+  - Cogentia
+  - Archia
+  - SérénIA
+  - Inox
+  - COP
+  - Ubikia
+  - Ophélia
+  - Mare Nostrum
+  - Autonomie de Capacité
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Rendre capable — noyau doctrinal provisoire
 

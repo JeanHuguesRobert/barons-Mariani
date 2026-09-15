@@ -1,34 +1,46 @@
 ---
-title: "Retour d’expérience pipeline — Note de Campagne n°3 : le cas EDF"
-subtitle: "Double document, revue adverse, arbitrage humain et stabilisation versionnée"
-status: "method note — case study"
-version: "0.1"
-date: "2026-06-18"
-author: "Jean Hugues Noël Robert"
-license: "CC BY 4.0"
-language: "fr"
-corpus_role: "pipeline feedback"
+title: 'Retour d’expérience pipeline — Note de Campagne n°3 : le cas EDF'
+subtitle: Double document, revue adverse, arbitrage humain et stabilisation versionnée
+status: method note — case study
+version: '0.1'
+date: '2026-06-18'
+author: Jean Hugues Noël Robert
+license: CC BY 4.0
+language: fr
+corpus_role: pipeline feedback
 related_documents:
-  - "cas_edf.md"
-  - "cas_edf_blogpost.md"
-  - "research/review_protocol.md"
-  - "research/second_method.md"
-  - "JeanHuguesRobert/cogentia/research/pipeline.md"
+  - cas_edf.md
+  - cas_edf_blogpost.md
+  - research/review_protocol.md
+  - research/second_method.md
+  - JeanHuguesRobert/cogentia/research/pipeline.md
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok"
-  - "Claude"
+  - ChatGPT
+  - Grok
+  - Claude
 human_validation_required: true
-document_role: "source"
-document_kind: "case-study"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "case-study"
-classification_confidence: "medium"
-legacy_corpus_role: "pipeline feedback"
+document_role: source
+document_kind: case-study
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: case-study
+classification_confidence: medium
+legacy_corpus_role: pipeline feedback
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Retour d’expérience pipeline — Note de Campagne n°3 : le cas EDF
 

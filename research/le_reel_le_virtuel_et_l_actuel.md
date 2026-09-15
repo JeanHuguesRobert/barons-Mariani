@@ -1,64 +1,61 @@
 ---
-title: "Le Réel, le Virtuel et l’Actuel"
-subtitle: "Accès indirect au monde, puissance des fictions et Possibilisme à l’âge des intelligences synthétiques"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-07-14"
-version: "0.3"
-language: "fr"
-license: "CC BY-SA 4.0"
-status: "published-source — initial public version"
-document_role: "source"
-source_authority: "human-sovereign — AI-assisted, externally reviewed and validated by the author"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-canonical_path: "research/le_reel_le_virtuel_et_l_actuel.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/le_reel_le_virtuel_et_l_actuel.md"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "research/le_reel_le_virtuel_et_l_actuel.md"
-continuation_status: "open"
+title: Le Réel, le Virtuel et l’Actuel
+subtitle: Accès indirect au monde, puissance des fictions et Possibilisme à l’âge des intelligences synthétiques
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-07-14'
+version: '0.3'
+language: fr
+license: CC BY-SA 4.0
+status: published-source — initial public version
+document_role: source
+source_authority: human-sovereign — AI-assisted, externally reviewed and validated by the author
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/le_reel_le_virtuel_et_l_actuel.md
+continuation_status: open
 human_validation_required: false
-human_validation_status: "completed by Jean Hugues Noël Robert on 2026-07-14"
-publication_readiness: "published at canonical GitHub path"
+human_validation_status: completed by Jean Hugues Noël Robert on 2026-07-14
+publication_readiness: published at canonical GitHub path
 external_review_expected: false
-bibliographic_status: "publication pass completed — direct quotations and technical references checked; continuing correction remains open"
+bibliographic_status: publication pass completed — direct quotations and technical references checked; continuing correction remains open
 methodological_status:
-  second_method: "applied"
-  redactor_prompt: "applied"
-  reviewer_prompt: "internal reflexivity pass applied"
-  pipeline_stage: "published source after two external reviews and human doctrinal arbitration"
-  evidence_policy: "facts, textual attributions, interpretations, hypotheses and normative proposals are distinguished"
-  objection_policy: "strong objections are first-class contributions"
+  second_method: applied
+  redactor_prompt: applied
+  reviewer_prompt: internal reflexivity pass applied
+  pipeline_stage: published source after two external reviews and human doctrinal arbitration
+  evidence_policy: facts, textual attributions, interpretations, hypotheses and normative proposals are distinguished
+  objection_policy: strong objections are first-class contributions
 review_lineage:
-  - "ChatGPT — initial redaction and internal reflexivity pass — 2026-07-14"
-  - "Grok — constructive external review of draft 0.1 — 2026-07-14"
-  - "ChatGPT — selective integration and compression — 2026-07-14"
-  - "Grok — constructive external review of draft 0.2 — 2026-07-14"
-  - "ChatGPT — final consolidation into publication candidate — 2026-07-14"
-  - "Jean Hugues Noël Robert — final doctrinal arbitration: Possibilist approach retained; Virteal preserved only as genealogy; Almost Real reframed as inquiry into the distance to Now — 2026-07-14"
-  - "ChatGPT — publication metadata and canonical-path preparation — 2026-07-14"
-review_status: "two Grok reviews integrated selectively; final doctrinal arbitration and publication validated by the author on 2026-07-14"
-published_at: "2026-07-14"
-last_modified_at: "2026-07-14"
-last_stamped_at: "2026-07-14"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - ChatGPT — initial redaction and internal reflexivity pass — 2026-07-14
+  - Grok — constructive external review of draft 0.1 — 2026-07-14
+  - ChatGPT — selective integration and compression — 2026-07-14
+  - Grok — constructive external review of draft 0.2 — 2026-07-14
+  - ChatGPT — final consolidation into publication candidate — 2026-07-14
+  - 'Jean Hugues Noël Robert — final doctrinal arbitration: Possibilist approach retained; Virteal preserved only as genealogy; Almost Real reframed as inquiry into the distance to Now — 2026-07-14'
+  - ChatGPT — publication metadata and canonical-path preparation — 2026-07-14
+review_status: two Grok reviews integrated selectively; final doctrinal arbitration and publication validated by the author on 2026-07-14
+published_at: '2026-07-14'
+last_modified_at: '2026-07-14'
+last_stamped_at: '2026-07-14'
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok"
+  - ChatGPT
+  - Grok
 related_documents:
-  - "research/second_method.md"
-  - "research/possibilism_04_2026.md"
-  - "research/potentics.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/reality_safety_procedural_stabilizers.md"
-  - "research/ubik_reality_dislocation_academic_fr.md"
-  - "research/pluralisation_cognitive_sous_mandat.md"
-  - "research/se_demultiplier_pour_explorer_le_possible_blogpost.md"
-  - "cogentia/research/pipeline.md"
+  - research/second_method.md
+  - research/possibilism_04_2026.md
+  - research/potentics.md
+  - research/rational_odysseys_the_possible.md
+  - research/reality_safety_procedural_stabilizers.md
+  - research/ubik_reality_dislocation_academic_fr.md
+  - research/pluralisation_cognitive_sous_mandat.md
+  - research/se_demultiplier_pour_explorer_le_possible_blogpost.md
+  - cogentia/research/pipeline.md
 tags:
   - reel
   - realite
@@ -78,7 +75,18 @@ tags:
   - corpus
   - pluralisation-cognitive
   - intelligence-artificielle
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le Réel, le Virtuel et l’Actuel
 

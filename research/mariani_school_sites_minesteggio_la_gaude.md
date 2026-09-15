@@ -1,16 +1,14 @@
 ---
-title: "Mariani School of Autonomy — deux sites, un même projet patrimonial et expérimental"
-subtitle: "Minesteggio / Corte et La Maison Blanche / La Gaude"
-author: "Jean Hugues Noël Robert"
-status: "draft"
-version: "0.3"
-date: "2026-08-08"
-updated_at: "2026-09-08"
-repository: "barons-Mariani"
-path: "research/mariani_school_sites_minesteggio_la_gaude.md"
-type: "source_note"
-language: "fr"
-license: "CC BY-SA 4.0"
+title: Mariani School of Autonomy — deux sites, un même projet patrimonial et expérimental
+subtitle: Minesteggio / Corte et La Maison Blanche / La Gaude
+author: Jean Hugues Noël Robert
+status: draft
+version: '0.3'
+date: '2026-08-08'
+updated_at: '2026-09-08'
+type: source_note
+language: fr
+license: CC BY-SA 4.0
 tags:
   - Mariani School of Autonomy
   - École Mariani de l’Autonomie
@@ -31,48 +29,60 @@ tags:
   - OLD
   - expérimentation territoriale
 corpus_hierarchy:
-  level: "source_note"
-  role: "cadrage patrimonial, institutionnel et expérimental des deux sites"
+  level: source_note
+  role: cadrage patrimonial, institutionnel et expérimental des deux sites
   derived_from:
-    - "research/ecole_mariani_autonomie.md"
-    - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-    - "research/homeostasie_habitat.md"
-    - "research/acorsica-institut-mariani.md"
-    - "research/uchronian_museum.md"
-    - "échanges JHR / DRAC Corse 2024-2026 relatifs au Château Mariani"
-    - "échanges JHR / Damien Ruvet 2022-2024"
-    - "conversation ChatGPT du 2026-08-08 sur La Gaude, Villa Arson et Minesteggio"
+    - research/ecole_mariani_autonomie.md
+    - research/ecole_mariani_autonomie_terrains_pilotes.md
+    - research/homeostasie_habitat.md
+    - research/acorsica-institut-mariani.md
+    - research/uchronian_museum.md
+    - échanges JHR / DRAC Corse 2024-2026 relatifs au Château Mariani
+    - échanges JHR / Damien Ruvet 2022-2024
+    - conversation ChatGPT du 2026-08-08 sur La Gaude, Villa Arson et Minesteggio
   may_generate:
-    - "note institutionnelle de présentation de la Mariani School of Autonomy"
-    - "dossier de partenariat Villa Arson"
-    - "fiche de résidence artiste/chercheur à La Maison Blanche"
-    - "fiche de site Minesteggio"
-    - "note de cadrage Barons Mariani"
-    - "note de contexte pour échanges OLD / sécurité incendie"
+    - note institutionnelle de présentation de la Mariani School of Autonomy
+    - dossier de partenariat Villa Arson
+    - fiche de résidence artiste/chercheur à La Maison Blanche
+    - fiche de site Minesteggio
+    - note de cadrage Barons Mariani
+    - note de contexte pour échanges OLD / sécurité incendie
 related_documents:
-  - "research/ecole_mariani_autonomie.md"
-  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-  - "research/homeostasie_habitat.md"
-  - "research/acorsica-institut-mariani.md"
-  - "research/uchronian_museum.md"
+  - research/ecole_mariani_autonomie.md
+  - research/ecole_mariani_autonomie_terrains_pilotes.md
+  - research/homeostasie_habitat.md
+  - research/acorsica-institut-mariani.md
+  - research/uchronian_museum.md
 related_projects:
-  - "Fonds de dotation Barons Mariani"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "Mariani School of Autonomy"
-  - "Musée Mariani des Possibles"
-  - "Musée uchronique"
-  - "FractaVolta"
-  - "Cogentia"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Fonds de dotation Barons Mariani
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - Mariani School of Autonomy
+  - Musée Mariani des Possibles
+  - Musée uchronique
+  - FractaVolta
+  - Cogentia
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Mariani School of Autonomy — deux sites, un même projet patrimonial et expérimental
 

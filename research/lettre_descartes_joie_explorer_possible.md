@@ -1,22 +1,22 @@
 ---
-title: "Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-30"
-status: "draft"
-document_role: "source"
-document_kind: "doctrinal-letter"
-visibility: "public"
-lifecycle_state: "working"
-language: "fr"
-license: "CC BY-SA 4.0"
+title: Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-30'
+status: draft
+document_role: source
+document_kind: doctrinal-letter
+visibility: public
+lifecycle_state: working
+language: fr
+license: CC BY-SA 4.0
 related_documents:
-  - "research/second_method.md"
-  - "research/rossignol.fr.md"
-  - "research/potentics.md"
-  - "research/applied_possibilism.md"
-  - "research/potentics_exploration_ontology.md"
-  - "research/rational_odysseys_the_possible.md"
+  - research/second_method.md
+  - research/rossignol.fr.md
+  - research/potentics.md
+  - research/applied_possibilism.md
+  - research/potentics_exploration_ontology.md
+  - research/rational_odysseys_the_possible.md
 tags:
   - possibilism
   - potentics
@@ -26,11 +26,22 @@ tags:
   - joy
   - exploration
   - descartes
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Lettre à mon ami d’outre-tombe, René Descartes
 ## De la joie d’explorer le Possible

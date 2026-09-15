@@ -1,23 +1,35 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/articulation_musee_uchronique.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Articulation avec le Musée uchronique"
-subtitle: "Deux régimes d'inférence sur un même domaine"
-date: "2026-06-27"
-version: "0.1"
-status: "draft"
-document_role: "source"
-document_kind: "articulation-note"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Articulation avec le Musée uchronique
+subtitle: Deux régimes d'inférence sur un même domaine
+date: '2026-06-27'
+version: '0.1'
+status: draft
+document_role: source
+document_kind: articulation-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
-  - "musee-mariani/methodes/exploration_rationnelle_des_possibles.md"
-  - "musee-mariani/notes-critiques/preuves-et-incertitudes.md"
-  - "research/uchronian_museum.md"
+  - musee-mariani/doctrine_musee_mariani_des_possibles.md
+  - musee-mariani/methodes/exploration_rationnelle_des_possibles.md
+  - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - research/uchronian_museum.md
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Articulation avec le Musée uchronique
 

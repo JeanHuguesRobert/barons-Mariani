@@ -1,139 +1,81 @@
 ---
-affiliation: Institut Mariani --- C.O.R.S.I.C.A., 1 cours Paoli, F-20250
-  Corte, Corsica
+affiliation: Institut Mariani --- C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ai_assisted_by:
-- Anthropic Claude --- rôle redactor, contrat
-  cogentia/prompts/redactor.md v0.3
+  - Anthropic Claude --- rôle redactor, contrat cogentia/prompts/redactor.md v0.3
 author: Jean Hugues Noël Robert, baron Mariani
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/la_democratie_spectaculaire.md"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/la_democratie_spectaculaire.md
 changelog:
-- "v0.1 (2026-08-07) --- premier brouillon académique : concept de
-  démocratie spectaculaire, test de contrariété, lecture historique, cas
-  suisse, hypothèse d'émancipation cognitive, sept hypothèses de
-  travail."
-- "v0.8 (2026-08-07) --- publication initiale : frontmatter estampillé
-  comme publié, validation humaine acquise par l'acte de publication,
-  lifecycle_state passé à published ; correction des mentions internes
-  encore restées au stade de brouillon et de la consolidation obsolète
-  v0.2. Aucune thèse, règle de codage ni seuil méthodologique modifié."
-- "v0.7 (2026-08-07) --- application du rasoir : le protocole de codage,
-  jusque-là document distinct, est réintégré comme annexe A. Un seul
-  document publié. La garantie de pré-enregistrement, que la séparation
-  portait, repose désormais sur l'historique de version et sur ce
-  journal, où toute retouche de seuil doit apparaître comme telle.
-  Aucune règle de codage modifiée."
-- "v0.6 (2026-08-07) --- ajout d'une clause de continuation opératoire :
-  condition de déclenchement observable plutôt que ressentie, état de
-  reprise, périmètre non rouvrable au titre du plateau, travaux à
-  refaire, et deux conditions d'invalidation. Liens ajoutés vers les
-  documents de démultiplication du corpus. Aucune thèse modifiée."
-- "v0.5 (2026-08-07) --- mise en conformité du texte avec sa destination
-  réelle : document de corpus, sans soumission académique. Les trois
-  mentions d'une soumission externe sont corrigées. La partie 15 déclare
-  explicitement que le programme empirique n'est pas entrepris par
-  l'auteur et que les seuils valent engagement opposable pour quiconque
-  l'entreprendrait ; 15.4 déclare que l'expérimentation cède la place à
-  la construction d'une instance personnelle, laquelle ne teste pas H6.
-  Les points à consolider deviennent des conditions posées à un tiers.
-  Aucune thèse modifiée."
-- "v0.4 (2026-08-07) --- plateau constaté : la seconde passe de revue
-  n'a produit ni erreur ni objection nouvelle, aucune révision
-  doctrinale n'est justifiée. Seule modification permise au plateau :
-  correction de source, le protocole de codage existant désormais comme
-  document distinct, référencé ici et en point 1 des consolidations.
-  Aucune autre ligne du corps du texte n'est touchée."
-- "v0.3 (2026-08-07) --- intégration de la revue externe décorrélée Grok
-  : règle de décision sur la préférence populaire identifiable posée en
-  verrou dur en 15.1 ; cadre d'échantillonnage suisse élargi à une
-  strate non constitutionnelle et à une strate cantonale ; critère de
-  jugement principal pré-engagé pour E en 15.4 ; règles de codage de E
-  et de S explicitées en 6 ; réserve sur la représentativité des
-  initiatives constitutionnelles ajoutée en 7 ; écart de décimales sur
-  les chiffres suisses déclaré ; signalement du champ last_stamped_at
-  rejeté avec motif, le schéma prescrivant unknown jusqu'au premier
-  estampillage humain."
-- v0.2 (2026-08-07) --- réécriture continue en prose littéraire ;
-  suppression des chaînes en pseudo-code au profit de phrases ;
-  frontmatter porté au schéma cogentia v0.1 ; ajout de l'orientation, du
-  statut méthodologique et de la déclaration d'intérêts ; positionnement
-  explicite vis-à-vis de debord_stabilisateur_procedural.md,
-  democratie_capable.md et
-  transition_possibiliste_vers_une_democratie_augmentee.md ; correction
-  du couple IA pour tous / IA pour chacun, désormais IA pour chacun / IA
-  sur chacun, pour cesser de contredire la doctrine du corpus ; cas
-  suisse du 8 mars 2026 documenté avec chiffres officiels ; ajout de la
-  section 14.7 sur le risque de théorie inréfutable et de l'hypothèse H8
-  ; conclusion resserrée pour cesser de répéter le résumé.
-date: 2026-08-07
-description: Document source proposant le concept de démocratie
-  spectaculaire, un test de contrariété destiné à mesurer le pouvoir
-  populaire en situation de conflit ouvert, et l'hypothèse d'une
-  réduction de l'asymétrie cognitive entre citoyens et professionnels de
-  la politique par l'assistance personnelle sous mandat.
+  - 'v0.1 (2026-08-07) --- premier brouillon académique : concept de démocratie spectaculaire, test de contrariété, lecture historique, cas suisse, hypothèse d''émancipation cognitive, sept hypothèses de travail.'
+  - 'v0.8 (2026-08-07) --- publication initiale : frontmatter estampillé comme publié, validation humaine acquise par l''acte de publication, lifecycle_state passé à published ; correction des mentions internes encore restées au stade de brouillon et de la consolidation obsolète v0.2. Aucune thèse, règle de codage ni seuil méthodologique modifié.'
+  - 'v0.7 (2026-08-07) --- application du rasoir : le protocole de codage, jusque-là document distinct, est réintégré comme annexe A. Un seul document publié. La garantie de pré-enregistrement, que la séparation portait, repose désormais sur l''historique de version et sur ce journal, où toute retouche de seuil doit apparaître comme telle. Aucune règle de codage modifiée.'
+  - 'v0.6 (2026-08-07) --- ajout d''une clause de continuation opératoire : condition de déclenchement observable plutôt que ressentie, état de reprise, périmètre non rouvrable au titre du plateau, travaux à refaire, et deux conditions d''invalidation. Liens ajoutés vers les documents de démultiplication du corpus. Aucune thèse modifiée.'
+  - 'v0.5 (2026-08-07) --- mise en conformité du texte avec sa destination réelle : document de corpus, sans soumission académique. Les trois mentions d''une soumission externe sont corrigées. La partie 15 déclare explicitement que le programme empirique n''est pas entrepris par l''auteur et que les seuils valent engagement opposable pour quiconque l''entreprendrait ; 15.4 déclare que l''expérimentation cède la place à la construction d''une instance personnelle, laquelle ne teste pas H6. Les points à consolider deviennent des conditions posées à un tiers. Aucune thèse modifiée.'
+  - 'v0.4 (2026-08-07) --- plateau constaté : la seconde passe de revue n''a produit ni erreur ni objection nouvelle, aucune révision doctrinale n''est justifiée. Seule modification permise au plateau : correction de source, le protocole de codage existant désormais comme document distinct, référencé ici et en point 1 des consolidations. Aucune autre ligne du corps du texte n''est touchée.'
+  - 'v0.3 (2026-08-07) --- intégration de la revue externe décorrélée Grok : règle de décision sur la préférence populaire identifiable posée en verrou dur en 15.1 ; cadre d''échantillonnage suisse élargi à une strate non constitutionnelle et à une strate cantonale ; critère de jugement principal pré-engagé pour E en 15.4 ; règles de codage de E et de S explicitées en 6 ; réserve sur la représentativité des initiatives constitutionnelles ajoutée en 7 ; écart de décimales sur les chiffres suisses déclaré ; signalement du champ last_stamped_at rejeté avec motif, le schéma prescrivant unknown jusqu''au premier estampillage humain.'
+  - v0.2 (2026-08-07) --- réécriture continue en prose littéraire ; suppression des chaînes en pseudo-code au profit de phrases ; frontmatter porté au schéma cogentia v0.1 ; ajout de l'orientation, du statut méthodologique et de la déclaration d'intérêts ; positionnement explicite vis-à-vis de debord_stabilisateur_procedural.md, democratie_capable.md et transition_possibiliste_vers_une_democratie_augmentee.md ; correction du couple IA pour tous / IA pour chacun, désormais IA pour chacun / IA sur chacun, pour cesser de contredire la doctrine du corpus ; cas suisse du 8 mars 2026 documenté avec chiffres officiels ; ajout de la section 14.7 sur le risque de théorie inréfutable et de l'hypothèse H8 ; conclusion resserrée pour cesser de répéter le résumé.
+date: 2026-08-07T00:00:00.000Z
+description: Document source proposant le concept de démocratie spectaculaire, un test de contrariété destiné à mesurer le pouvoir populaire en situation de conflit ouvert, et l'hypothèse d'une réduction de l'asymétrie cognitive entre citoyens et professionnels de la politique par l'assistance personnelle sous mandat.
 document_kind: research-paper
 document_role: source
 human_validation_required: false
 language: fr
-last_stamped_at: 2026-08-07
+last_stamped_at: 2026-08-07T00:00:00.000Z
 license: CC BY-SA 4.0
 lifecycle_state: published
 provenance:
-  origin_date: 2026-08-07
+  origin_date: 2026-08-07T00:00:00.000Z
   origin_ref: main
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_type: conversation
+  derived_from: []
 related_documents:
-- ./se_demultiplier_pour_explorer_le_possible_blogpost.md
-- ./baron_mariani_singulier_pluriel_agents_jhn.md
-- ./debord_stabilisateur_procedural.md
-- ./democratie_capable.md
-- ./autonomia.md
-- ./transition_possibiliste_vers_une_democratie_augmentee.md
-- ./democratie_crise_mandats_express.md
-- ./justice_divine_mandat_implicite.md
-- ./legistique_cognitive.md
-- ./kudocracy.md
-- ./second_method.md
-- ./potentics.md
-- ./pluralisation_cognitive_sous_mandat.md
+  - ./se_demultiplier_pour_explorer_le_possible_blogpost.md
+  - ./baron_mariani_singulier_pluriel_agents_jhn.md
+  - ./debord_stabilisateur_procedural.md
+  - ./democratie_capable.md
+  - ./autonomia.md
+  - ./transition_possibiliste_vers_une_democratie_augmentee.md
+  - ./democratie_crise_mandats_express.md
+  - ./justice_divine_mandat_implicite.md
+  - ./legistique_cognitive.md
+  - ./kudocracy.md
+  - ./second_method.md
+  - ./potentics.md
+  - ./pluralisation_cognitive_sous_mandat.md
 review:
   reviewed_by:
-  - Grok (xAI) --- contrat cogentia/prompts/reviewer.md v0.3, revue
-    décorrélée, 2026-08-07
+    - Grok (xAI) --- contrat cogentia/prompts/reviewer.md v0.3, revue décorrélée, 2026-08-07
   status: reviewed
 review_integrated:
-- "review-la_democratie_spectaculaire.md --- revue externe Grok,
-  2026-08-07 : 0 erreur, 3 objections nouvelles, 4 recommandations à
-  test de complétion, 1 signalement de frontmatter rejeté avec motif"
-status: published working-paper --- appareil de mesure stabilisé ;
-  programme empirique déclaré non entrepris par l'auteur
-subtitle: De l'écart entre souveraineté populaire représentée et pouvoir
-  populaire effectif à l'hypothèse d'une émancipation cognitive
+  - 'review-la_democratie_spectaculaire.md --- revue externe Grok, 2026-08-07 : 0 erreur, 3 objections nouvelles, 4 recommandations à test de complétion, 1 signalement de frontmatter rejeté avec motif'
+status: published working-paper --- appareil de mesure stabilisé ; programme empirique déclaré non entrepris par l'auteur
+subtitle: De l'écart entre souveraineté populaire représentée et pouvoir populaire effectif à l'hypothèse d'une émancipation cognitive
 tags:
-- democratie-spectaculaire
-- gouvernement-representatif
-- souverainete-populaire
-- suffrage-universel
-- tirage-au-sort
-- referendum
-- democratie-directe
-- spectacle
-- debord
-- test-de-contrariete
-- capacite-politique
-- autonomie-de-capacite
-- intelligence-artificielle-personnelle
-- ia-pour-chacun
-- rapport-de-force
+  - democratie-spectaculaire
+  - gouvernement-representatif
+  - souverainete-populaire
+  - suffrage-universel
+  - tirage-au-sort
+  - referendum
+  - democratie-directe
+  - spectacle
+  - debord
+  - test-de-contrariete
+  - capacite-politique
+  - autonomie-de-capacite
+  - intelligence-artificielle-personnelle
+  - ia-pour-chacun
+  - rapport-de-force
 title: La démocratie spectaculaire
 update_policy: UP-DEFAULT-REVIEWED
 version: 0.8
 visibility: public
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # La démocratie spectaculaire
 

@@ -1,62 +1,72 @@
 ---
-title: "Une théorie de sécurité de la démocratie représentative"
-subtitle: "Du principal-agent à la non-auto-élévation des privilèges politiques"
-author: "Jean Hugues Noël Robert"
-status: "document source — recherche — doctrinal — validé pour publication"
-version: "0.4"
-date: "2026-08-22"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-canonical_path: "barons-Mariani/research/security_model_representative_democracy.md"
-source_status: "source souveraine du corpus politique et de recherche"
-review_status: "revue adverse Grok 4.5 intégrée ; stress-test de droit public intégré ; principe Selection is not security ajouté après contrôle de non-régression sémantique"
+title: Une théorie de sécurité de la démocratie représentative
+subtitle: Du principal-agent à la non-auto-élévation des privilèges politiques
+author: Jean Hugues Noël Robert
+status: document source — recherche — doctrinal — validé pour publication
+version: '0.4'
+date: '2026-08-22'
+license: CC BY-SA 4.0
+language: fr
+source_status: source souveraine du corpus politique et de recherche
+review_status: revue adverse Grok 4.5 intégrée ; stress-test de droit public intégré ; principe Selection is not security ajouté après contrôle de non-régression sémantique
 publication_history:
-  - date: "2026-08-21"
-    event: "publication prématurée"
-    human_assessment: "sans conséquence grave"
-    cause: "écriture GitHub avant revue adverse et validation humaine requises"
-  - date: "2026-08-21"
-    event: "revue adverse"
-    reviewer: "Grok 4.5"
-  - date: "2026-08-21"
-    event: "validation humaine et autorisation de publication"
-    validator: "Jean Hugues"
-  - date: "2026-08-22"
-    event: "extension doctrinale"
-    change: "explicitation de la sécurité par sélection, du principe Selection is not security et de la faible opposabilité substantielle du mandat représentatif"
-    preservation: "ajout conservatif ; structure et thèses antérieures préservées"
+  - date: '2026-08-21'
+    event: publication prématurée
+    human_assessment: sans conséquence grave
+    cause: écriture GitHub avant revue adverse et validation humaine requises
+  - date: '2026-08-21'
+    event: revue adverse
+    reviewer: Grok 4.5
+  - date: '2026-08-21'
+    event: validation humaine et autorisation de publication
+    validator: Jean Hugues
+  - date: '2026-08-22'
+    event: extension doctrinale
+    change: explicitation de la sécurité par sélection, du principe Selection is not security et de la faible opposabilité substantielle du mandat représentatif
+    preservation: ajout conservatif ; structure et thèses antérieures préservées
 related_research:
-  - "barons-Mariani/research/non_auto_elevation_privileges.md"
-  - "barons-Mariani/research/democratie_crise_mandats_express.md"
-  - "barons-Mariani/research/traceabilite_des_actes.md"
-  - "cogentia/research/mandated_fast_democracy.md"
+  - barons-Mariani/research/non_auto_elevation_privileges.md
+  - barons-Mariani/research/democratie_crise_mandats_express.md
+  - barons-Mariani/research/traceabilite_des_actes.md
+  - cogentia/research/mandated_fast_democracy.md
 related_projects:
-  - "Autonomie de Capacité"
-  - "Cogentia"
-  - "Kudocracy"
-keywords:
-  - "démocratie représentative"
-  - "sécurité"
-  - "principal-agent"
-  - "least privilege"
-  - "privilege escalation"
-  - "révocabilité"
-  - "traçabilité"
-  - "capture institutionnelle"
-  - "souveraineté effective"
-  - "IA agentique"
-  - "selection is not security"
-  - "principe de distinction"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+  - Autonomie de Capacité
+  - Cogentia
+  - Kudocracy
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+tags:
+  - démocratie représentative
+  - sécurité
+  - principal-agent
+  - least privilege
+  - privilege escalation
+  - révocabilité
+  - traçabilité
+  - capture institutionnelle
+  - souveraineté effective
+  - IA agentique
+  - selection is not security
+  - principe de distinction
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Une théorie de sécurité de la démocratie représentative
 

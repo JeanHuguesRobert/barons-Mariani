@@ -1,47 +1,59 @@
 ---
-title: "Bleu de Chine, denim et indigo — Circulations textiles, vêtements de travail et patrimonialisation méditerranéenne"
-subtitle: "Protocole de recherche v0.2 pour un futur article académique"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-30"
-status: "working-paper — research protocol and evidence matrix"
-version: "0.2"
-x-type: "research protocol"
-x-branch: "main"
+title: Bleu de Chine, denim et indigo — Circulations textiles, vêtements de travail et patrimonialisation méditerranéenne
+subtitle: Protocole de recherche v0.2 pour un futur article académique
+author: Jean Hugues Noël Robert
+date: '2026-05-30'
+status: working-paper — research protocol and evidence matrix
+version: '0.2'
+x-type: research protocol
+x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md
-license: "CC BY-SA 4.0"
-previous_version: "research/patrimoine/bleu_chine_denim_nimes_corse_v0.1.md"
+license: CC BY-SA 4.0
+previous_version: research/patrimoine/bleu_chine_denim_nimes_corse_v0.1.md
 related_projects:
-  - "Barons Mariani"
-  - "Institut Mariani"
-  - "Casa Mariani / Musée Mariani"
-  - "Mare Nostrum"
-keywords:
-  - "bleu de Chine"
-  - "denim"
-  - "serge de Nîmes"
-  - "blue jeans"
-  - "bleu de Gênes"
-  - "indigo"
-  - "guède"
-  - "pastel des teinturiers"
-  - "vêtements de travail"
-  - "patrimonialisation"
-  - "Corse"
-  - "Nîmes"
-  - "Gênes"
-  - "Méditerranée"
-last_stamped_at: 2026-06-01
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-corpus_role: "source"
-document_role: "source"
-document_kind: "protocol"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "protocol"
-classification_confidence: "medium"
+  - Barons Mariani
+  - Institut Mariani
+  - Casa Mariani / Musée Mariani
+  - Mare Nostrum
+last_stamped_at: 2026-06-01T00:00:00.000Z
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+corpus_role: source
+document_role: source
+document_kind: protocol
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: protocol
+classification_confidence: medium
+tags:
+  - bleu de Chine
+  - denim
+  - serge de Nîmes
+  - blue jeans
+  - bleu de Gênes
+  - indigo
+  - guède
+  - pastel des teinturiers
+  - vêtements de travail
+  - patrimonialisation
+  - Corse
+  - Nîmes
+  - Gênes
+  - Méditerranée
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Bleu de Chine, denim et indigo
 

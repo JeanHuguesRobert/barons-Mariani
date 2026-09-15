@@ -1,17 +1,29 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/dossiers/louis-thomas-mariani-tahiti.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-26
-title: "Louis-Thomas Mariani et Tahiti — prince en Tahiti ?"
-date: "2026-06-26"
-status: "draft — enquête ouverte"
-document_role: "source"
-document_kind: "museum-case-file"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-26T00:00:00.000Z
+title: Louis-Thomas Mariani et Tahiti — prince en Tahiti ?
+date: '2026-06-26'
+status: draft — enquête ouverte
+document_role: source
+document_kind: museum-case-file
+visibility: public
+lifecycle_state: working
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Louis-Thomas Mariani et Tahiti — « prince en Tahiti » ?
 

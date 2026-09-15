@@ -1,33 +1,35 @@
 ---
-title: "La Machine à Empêcher"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-09"
-status: "draft"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "derived"
-document_kind: "manuscript-chapter"
-visibility: "public"
-lifecycle_state: "working"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/manuscript/03-machine-a-empecher.md"
-update_policy: "UP-DERIVED-SOURCE-LOCKED"
+title: La Machine à Empêcher
+author: Jean Hugues Noël Robert
+date: '2026-09-09'
+status: draft
+language: fr
+license: CC BY-SA 4.0
+document_role: derived
+document_kind: manuscript-chapter
+visibility: public
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/manuscript/03-machine-a-empecher.md
+update_policy: UP-DERIVED-SOURCE-LOCKED
 provenance:
-  origin_type: "generated"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "unknown"
-  origin_date: "2026-09-07"
+  origin_type: generated
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-09-07'
   derived_from:
-    - "GitHub issue #47"
-    - "research/protection_responsable.md"
-    - "research/noyau_doctrinal_rendre_capable.md"
+    - 'GitHub issue #47'
+    - research/protection_responsable.md
+    - research/noyau_doctrinal_rendre_capable.md
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # La Machine à Empêcher
 

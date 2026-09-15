@@ -1,38 +1,50 @@
 ---
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "active"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-legacy_corpus_role: "doctrinal reference — network taxonomy"
-title: "Louis Pouzin: The Datagram, the Shell, and the Unbroken Legacy of Connectionless Cognition"
-subtitle: "An OSINT Academic Profile, Targeted Review, and Doctrinal Reference"
-status: "release_candidate"
-version: "1.0"
-date: "2026-07-25"
-author: "Jean-Hugues Robert & Antigravity"
-license: "CC BY 4.0"
-language: "en"
-corpus_role: "doctrinal reference — network taxonomy"
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: active
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+legacy_corpus_role: doctrinal reference — network taxonomy
+title: 'Louis Pouzin: The Datagram, the Shell, and the Unbroken Legacy of Connectionless Cognition'
+subtitle: An OSINT Academic Profile, Targeted Review, and Doctrinal Reference
+status: release_candidate
+version: '1.0'
+date: '2026-07-25'
+author: Jean-Hugues Robert & Antigravity
+license: CC BY 4.0
+language: en
+corpus_role: doctrinal reference — network taxonomy
 review_target:
-  repository: "JeanHuguesRobert/barons-Mariani"
-  file: "research/louis_pouzin_datagram_pioneer.md"
-  reviewed_version: "v0.1"
-  review_protocol: "research/review_protocol.md"
-  review_scope: "academic / OSINT / technical / cognitive architecture"
-  requested_by: "Jean-Hugues Robert"
-  reviewer: "Antigravity Pair-Programming Agent"
-  review_date: "2026-07-25"
+  repository: JeanHuguesRobert/barons-Mariani
+  file: research/louis_pouzin_datagram_pioneer.md
+  reviewed_version: v0.1
+  review_protocol: research/review_protocol.md
+  review_scope: academic / OSINT / technical / cognitive architecture
+  requested_by: Jean-Hugues Robert
+  reviewer: Antigravity Pair-Programming Agent
+  review_date: '2026-07-25'
   human_validation_required: true
 related_documents:
-  - "research/serendipity_as_epistemic_force.md"
-  - "research/review_protocol.md"
-  - "research/second_method.md"
-  - "cogentia/docs/cogentia-magistral-boundary.md"
+  - research/serendipity_as_epistemic_force.md
+  - research/review_protocol.md
+  - research/second_method.md
+  - cogentia/docs/cogentia-magistral-boundary.md
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Louis Pouzin: The Datagram, the Shell, and the Unbroken Legacy of Connectionless Cognition 🌐📡
 

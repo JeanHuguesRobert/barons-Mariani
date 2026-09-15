@@ -1,27 +1,26 @@
 ---
-title: "Le passé est aussi imprévisible que le futur"
-subtitle: "Épistémologie des traces, certitude subjective et imputabilité sous incertitude"
-version: "0.4"
-status: "working-paper — source document — consolidated"
-date: "2026-06-05"
-last_modified_at: "2026-09-05"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-language: "fr"
-intended_path: "research/trace_epistemology.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trace_epistemology.md"
-symmetry: "high — source document"
+title: Le passé est aussi imprévisible que le futur
+subtitle: Épistémologie des traces, certitude subjective et imputabilité sous incertitude
+version: '0.4'
+status: working-paper — source document — consolidated
+date: '2026-06-05'
+last_modified_at: '2026-09-05'
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+language: fr
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trace_epistemology.md
+symmetry: high — source document
 critique_integrated:
-  - "Grok constructive review, 2026-06-05, filtered by human/ChatGPT arbitration"
-  - "Consolidation pass, 2026-06-05"
-  - "Antigravity — v0.4 propagation Issue #55: Trace-Centric vs Event-Centric, JHN architecture & COP 2.x, 2026-09-05"
+  - Grok constructive review, 2026-06-05, filtered by human/ChatGPT arbitration
+  - Consolidation pass, 2026-06-05
+  - 'Antigravity — v0.4 propagation Issue #55: Trace-Centric vs Event-Centric, JHN architecture & COP 2.x, 2026-09-05'
 intended_derivatives:
-  - "note_academique_courte"
-  - "article_public_substack"
-  - "post_facebook_oralise"
-  - "note_juridique"
-  - "protocole_agentique"
+  - note_academique_courte
+  - article_public_substack
+  - post_facebook_oralise
+  - note_juridique
+  - protocole_agentique
 tags:
   - epistemology
   - traces
@@ -37,35 +36,46 @@ tags:
   - human-validation
   - corpus-source
 related_documents:
-  - "JeanHuguesRobert/barons-Mariani/research/second_method.md"
-  - "JeanHuguesRobert/cogentia/research/pipeline.md"
-  - "JeanHuguesRobert/cogentia/research/derived_products.md"
-  - "JeanHuguesRobert/cogentia/research/cognitive_packets.md"
-  - "JeanHuguesRobert/cogentia/research/learning_computer_genese_et_architecture.md"
-  - "JeanHuguesRobert/barons-Mariani/research/jhn_architecture.md"
-  - "JeanHuguesRobert/barons-Mariani/research/principe_rossignol.md"
-  - "JeanHuguesRobert/inseme/AGENTS.md"
-  - "JeanHuguesRobert/inseme/packages/cop-core/Invariants.md"
-  - "JeanHuguesRobert/inseme/research/concepts.md"
+  - JeanHuguesRobert/barons-Mariani/research/second_method.md
+  - JeanHuguesRobert/cogentia/research/pipeline.md
+  - JeanHuguesRobert/cogentia/research/derived_products.md
+  - JeanHuguesRobert/cogentia/research/cognitive_packets.md
+  - JeanHuguesRobert/cogentia/research/learning_computer_genese_et_architecture.md
+  - JeanHuguesRobert/barons-Mariani/research/jhn_architecture.md
+  - JeanHuguesRobert/barons-Mariani/research/principe_rossignol.md
+  - JeanHuguesRobert/inseme/AGENTS.md
+  - JeanHuguesRobert/inseme/packages/cop-core/Invariants.md
+  - JeanHuguesRobert/inseme/research/concepts.md
 ai_assisted_by:
-  - "ChatGPT — redaction and consolidation"
-  - "Grok — constructive external review, non-decisional"
-  - "Antigravity — v0.4 integration"
+  - ChatGPT — redaction and consolidation
+  - Grok — constructive external review, non-decisional
+  - Antigravity — v0.4 integration
 human_validation_required: true
-next_action: "publish consolidated source document, then controlled derivation"
-corpus_role: "source"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "high"
+next_action: publish consolidated source document, then controlled derivation
+corpus_role: source
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: high
 changelog:
-  - "2026-06-05 — v0.3: consolidation working-paper et critique externe."
-  - "2026-09-05 — v0.4: propagation Issue #55; formalisation de la rupture ontologique Trace-Centric vs Event-Centric (§3.1.1), ancrage dans l'état abstrait JHN J=(P,H,S,T), statut de COP 2.x et tissage bidirectionnel avec la genèse du Learning Computer."
+  - '2026-06-05 — v0.3: consolidation working-paper et critique externe.'
+  - '2026-09-05 — v0.4: propagation Issue #55; formalisation de la rupture ontologique Trace-Centric vs Event-Centric (§3.1.1), ancrage dans l''état abstrait JHN J=(P,H,S,T), statut de COP 2.x et tissage bidirectionnel avec la genèse du Learning Computer.'
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le passé est aussi imprévisible que le futur
 

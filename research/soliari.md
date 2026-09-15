@@ -1,27 +1,27 @@
 ---
-title: "Soliari — Corte Ski Station and Infrastructure-Light Mountain Access"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-22"
-version: "0.2"
-status: "working-note"
-document_role: "source"
-document_kind: "project-research-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
+title: Soliari — Corte Ski Station and Infrastructure-Light Mountain Access
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-22'
+version: '0.2'
+status: working-note
+document_role: source
+document_kind: project-research-note
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
 external_source:
-  - "https://soliari.wordpress.com/"
+  - https://soliari.wordpress.com/
 methodology:
-  - "Second Method"
-  - "Rational Exploration of Possibilities"
+  - Second Method
+  - Rational Exploration of Possibilities
 related_documents:
-  - "research/potentics.md"
-  - "research/potentics_interdependencies.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/the_network_is_the_learning_computer.md"
-  - "https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/capability_regimes.md"
+  - research/potentics.md
+  - research/potentics_interdependencies.md
+  - research/rational_odysseys_the_possible.md
+  - research/the_network_is_the_learning_computer.md
+  - https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/capability_regimes.md
 tags:
   - soliari
   - corte
@@ -35,11 +35,22 @@ tags:
   - explorer-machine
   - infrastructure-light
   - corsica
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Soliari
 

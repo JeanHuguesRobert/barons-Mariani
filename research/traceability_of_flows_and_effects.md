@@ -1,45 +1,43 @@
 ---
-title: "Traceability of Flows and Effects"
-subtitle: "From Follow the Money to a general doctrine of accountable acts, resources, effects, evidence, and burden"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-14"
-version: "0.2"
-status: "working-note — source doctrine"
-document_role: "source"
-document_kind: "doctrinal-note"
-visibility: "public"
-lifecycle_state: "working"
-language: "en"
-license: "CC BY-SA 4.0"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/traceability_of_flows_and_effects.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceability_of_flows_and_effects.md"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Traceability of Flows and Effects
+subtitle: From Follow the Money to a general doctrine of accountable acts, resources, effects, evidence, and burden
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-14'
+version: '0.2'
+status: working-note — source doctrine
+document_role: source
+document_kind: doctrinal-note
+visibility: public
+lifecycle_state: working
+language: en
+license: CC BY-SA 4.0
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceability_of_flows_and_effects.md
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R4-R5; extended R47-R52"
-  origin_date: "2026-08-14"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R4-R5; extended R47-R52
+  origin_date: '2026-08-14'
   derived_from:
-    - "research/concepts.md"
-    - "research/second_method.md"
-    - "https://github.com/JeanHuguesRobert/inseme/issues/45"
+    - research/concepts.md
+    - research/second_method.md
+    - https://github.com/JeanHuguesRobert/inseme/issues/45
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 related_documents:
-  - "research/concepts.md"
-  - "research/second_method.md"
-  - "research/potentics.md"
-  - "https://github.com/JeanHuguesRobert/inseme/blob/main/research/cogentia_accounting_architecture.md"
-  - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/COP_ACCOUNTING.md"
-  - "https://github.com/JeanHuguesRobert/inseme/issues/45"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md"
+  - research/concepts.md
+  - research/second_method.md
+  - research/potentics.md
+  - https://github.com/JeanHuguesRobert/inseme/blob/main/research/cogentia_accounting_architecture.md
+  - https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/COP_ACCOUNTING.md
+  - https://github.com/JeanHuguesRobert/inseme/issues/45
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md
 methodology:
-  - "Second Method"
+  - Second Method
 ai_assisted_by:
-  - "GPT-5.6 Sol (conceptual synthesis and drafting)"
+  - GPT-5.6 Sol (conceptual synthesis and drafting)
 tags:
   - traceability
   - follow-the-money
@@ -54,14 +52,15 @@ tags:
   - administrative-burden
   - cogentia
   - fractanet
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 changelog:
-  - "v0.2 (2026-08-14) — adds Follow the Burden as a first-class flow analysis and connects burden distribution to institutional friction."
-  - "v0.1 (2026-08-14) — first crystallization of Follow the Money as a general traceability doctrine; introduces Reality-to-Ledger completeness, Ledger-to-Reality soundness, No Unaccounted Effects, and compensating reconciliation."
+  - v0.2 (2026-08-14) — adds Follow the Burden as a first-class flow analysis and connects burden distribution to institutional friction.
+  - v0.1 (2026-08-14) — first crystallization of Follow the Money as a general traceability doctrine; introduces Reality-to-Ledger completeness, Ledger-to-Reality soundness, No Unaccounted Effects, and compensating reconciliation.
 ---
+
 
 # Traceability of Flows and Effects
 

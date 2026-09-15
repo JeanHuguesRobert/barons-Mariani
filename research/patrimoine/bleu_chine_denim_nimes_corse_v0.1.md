@@ -1,41 +1,53 @@
 ---
-title: "Bleu de Chine, denim et indigo — Circulations textiles entre Corse, Nîmes, Chine, Gênes et Méditerranée"
-subtitle: "Note de recherche préliminaire pour un futur article académique"
-author: "Jean Hugues Noël Robert"
-date: "2026-05-30"
-status: "working-note — preliminary research dossier"
-version: "0.1"
-x-type: "research note"
-x-branch: "main"
+title: Bleu de Chine, denim et indigo — Circulations textiles entre Corse, Nîmes, Chine, Gênes et Méditerranée
+subtitle: Note de recherche préliminaire pour un futur article académique
+author: Jean Hugues Noël Robert
+date: '2026-05-30'
+status: working-note — preliminary research dossier
+version: '0.1'
+x-type: research note
+x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/patrimoine/bleu_chine_denim_nimes_corse_v0.1.md
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 related_projects:
-  - "Barons Mariani"
-  - "Institut Mariani"
-  - "Casa Mariani / Musée Mariani"
-  - "Mare Nostrum"
-keywords:
-  - "bleu de Chine"
-  - "denim"
-  - "serge de Nîmes"
-  - "indigo"
-  - "vêtements de travail"
-  - "Corse"
-  - "Nîmes"
-  - "Gênes"
-  - "Méditerranée"
-last_stamped_at: 2026-06-01
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-corpus_role: "source"
-document_role: "source"
-document_kind: "working-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "working-note"
-classification_confidence: "medium"
+  - Barons Mariani
+  - Institut Mariani
+  - Casa Mariani / Musée Mariani
+  - Mare Nostrum
+last_stamped_at: 2026-06-01T00:00:00.000Z
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+corpus_role: source
+document_role: source
+document_kind: working-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: working-note
+classification_confidence: medium
+tags:
+  - bleu de Chine
+  - denim
+  - serge de Nîmes
+  - indigo
+  - vêtements de travail
+  - Corse
+  - Nîmes
+  - Gênes
+  - Méditerranée
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Bleu de Chine, denim et indigo
 

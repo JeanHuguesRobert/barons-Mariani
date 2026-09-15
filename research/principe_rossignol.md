@@ -1,30 +1,30 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/principe_rossignol.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-title: "Le principe Rossignol"
-subtitle: "Ancrage empirique, confrontation au Réel et prévention de la dérive abstraite"
-date: "2026-08-22"
-last_modified_at: "2026-09-05"
-version: "0.2"
-status: "working-paper"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+title: Le principe Rossignol
+subtitle: Ancrage empirique, confrontation au Réel et prévention de la dérive abstraite
+date: '2026-08-22'
+last_modified_at: '2026-09-05'
+version: '0.2'
+status: working-paper
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/le_reel_le_virtuel_et_l_actuel.md"
-  - "research/realite_operationnelle_et_reflexivite.md"
-  - "research/test_critere_rossignol.md"
-  - "research/stigmergie_sans_limite_haute.md"
-  - "research/fable_experimentale.md"
-  - "research/second_method.md"
-  - "musee-mariani/collections/rossignol.md"
-  - "research/the_republic_of_donkeys.md"
-  - "research/quand_le_reel_repond_pkd.md"
-  - "research/jhn_architecture.md"
-  - "cogentia/research/learning_computer_genese_et_architecture.md"
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/realite_operationnelle_et_reflexivite.md
+  - research/test_critere_rossignol.md
+  - research/stigmergie_sans_limite_haute.md
+  - research/fable_experimentale.md
+  - research/second_method.md
+  - musee-mariani/collections/rossignol.md
+  - research/the_republic_of_donkeys.md
+  - research/quand_le_reel_repond_pkd.md
+  - research/jhn_architecture.md
+  - cogentia/research/learning_computer_genese_et_architecture.md
 tags:
   - rossignol
   - reel
@@ -39,13 +39,25 @@ tags:
   - epistemologie
   - ai-safety
 changelog:
-  - "2026-08-22 — v0.1: formulation initiale du principe Rossignol, échelle R0-R4 et hypothèses de recherche."
-  - "2026-09-05 — v0.2: propagation Issue #55; intégration du piège du hall de miroirs multi-agents (§2.1), passage au Synthetic Skin in the Game non réinitialisable unilatéralement (§6.1), formalisation des 4 Échelons d'Incarnation (§5.1) et lien canonique avec la genèse du Learning Computer."
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - '2026-08-22 — v0.1: formulation initiale du principe Rossignol, échelle R0-R4 et hypothèses de recherche.'
+  - '2026-09-05 — v0.2: propagation Issue #55; intégration du piège du hall de miroirs multi-agents (§2.1), passage au Synthetic Skin in the Game non réinitialisable unilatéralement (§6.1), formalisation des 4 Échelons d''Incarnation (§5.1) et lien canonique avec la genèse du Learning Computer.'
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Le principe Rossignol
 

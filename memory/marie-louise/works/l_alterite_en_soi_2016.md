@@ -1,23 +1,30 @@
 ---
-title: "Marie-Louise — L'altérité en soi (2016)"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-language: "fr"
-document_role: "source-note"
-document_kind: "artwork-trace"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — L'altérité en soi (2016)
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+language: fr
+document_role: source-note
+document_kind: artwork-trace
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "mixed"
+  origin_type: mixed
   derived_from:
-    - "Gmail:153dcd7070142c29"
-    - "Corse Net Infos, 14 avril 2016"
-    - "memory/marie-louise/works/frontieres_stop_motion_2016.md"
+    - Gmail:153dcd7070142c29
+    - Corse Net Infos, 14 avril 2016
+    - memory/marie-louise/works/frontieres_stop_motion_2016.md
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper
 ---
+
 
 # *L'altérité en soi* — 2016
 

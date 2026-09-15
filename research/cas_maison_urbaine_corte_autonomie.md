@@ -1,15 +1,13 @@
 ---
-title: "Maison individuelle urbaine à Corte — cas pilote anonymisé"
-subtitle: "Cas-école de coupure EDF réversible dans le cadre de l’École Mariani de l’Autonomie"
-author: "Jean Hugues Noël Robert"
-status: "draft"
-version: "0.1"
-date: "2026-06-18"
-repository: "barons-Mariani"
-path: "research/cas_maison_urbaine_corte_autonomie.md"
-type: "case_study_source_note"
-language: "fr"
-confidentiality: "anonymisé tant que la personne concernée ne s’est pas engagée publiquement"
+title: Maison individuelle urbaine à Corte — cas pilote anonymisé
+subtitle: Cas-école de coupure EDF réversible dans le cadre de l’École Mariani de l’Autonomie
+author: Jean Hugues Noël Robert
+status: draft
+version: '0.1'
+date: '2026-06-18'
+type: case_study_source_note
+language: fr
+confidentiality: anonymisé tant que la personne concernée ne s’est pas engagée publiquement
 tags:
   - École Mariani de l’Autonomie
   - Mariani School of Autonomy
@@ -23,36 +21,49 @@ tags:
   - délestage intelligent
   - coaching d’autonomie
 corpus_hierarchy:
-  level: "case_study_source_note"
-  role: "document concentrateur du cas pilote anonymisé de maison urbaine à Corte"
+  level: case_study_source_note
+  role: document concentrateur du cas pilote anonymisé de maison urbaine à Corte
   derived_from:
-    - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-    - "conversation ChatGPT du 2026-06-18 sur le cas Leonelli anonymisé"
+    - research/ecole_mariani_autonomie_terrains_pilotes.md
+    - conversation ChatGPT du 2026-06-18 sur le cas Leonelli anonymisé
   may_generate:
-    - "fiche pédagogique cas maison urbaine à Corte"
-    - "grille d’audit autonomie domestique"
-    - "protocole de coupure EDF réversible"
-    - "fiche financement à trésorerie minimale"
-    - "article Substack grand public anonymisé"
-    - "checklist coach d’autonomie"
+    - fiche pédagogique cas maison urbaine à Corte
+    - grille d’audit autonomie domestique
+    - protocole de coupure EDF réversible
+    - fiche financement à trésorerie minimale
+    - article Substack grand public anonymisé
+    - checklist coach d’autonomie
 related_documents:
-  - "research/ecole_mariani_autonomie_terrains_pilotes.md"
-  - "research/ecole_mariani_autonomie.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
+  - research/ecole_mariani_autonomie_terrains_pilotes.md
+  - research/ecole_mariani_autonomie.md
+  - research/noyau_doctrinal_rendre_capable.md
 related_projects:
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "FractaVolta"
-  - "Mariani School of Autonomy"
-document_role: "source"
-document_kind: "case-study"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "case-study"
-classification_confidence: "medium"
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - FractaVolta
+  - Mariani School of Autonomy
+document_role: source
+document_kind: case-study
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: case-study
+classification_confidence: medium
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Maison individuelle urbaine à Corte — cas pilote anonymisé
 

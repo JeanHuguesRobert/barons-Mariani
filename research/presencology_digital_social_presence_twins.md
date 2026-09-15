@@ -1,26 +1,37 @@
 ---
-title: "Presencology Addendum — Digital, Social and Institutional Presence of Twins"
-date: "2026-09-06"
-version: "0.1"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "research-note"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/presencology_digital_social_presence_twins.md"
-status: "working"
-lifecycle_state: "working"
+title: Presencology Addendum — Digital, Social and Institutional Presence of Twins
+date: '2026-09-06'
+version: '0.1'
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-note
+visibility: public
+status: working
+lifecycle_state: working
 related:
   - research/presencology.md
-  - "JeanHuguesRobert/inseme:research/interactions_registry_and_multichannel_messaging.md"
-  - "JeanHuguesRobert/inseme:research/activitypub_edge.md"
-  - "JeanHuguesRobert/inseme:docs/oleole-mvp-spec.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
-legacy_document_role: "source-addendum"
+  - JeanHuguesRobert/inseme:research/interactions_registry_and_multichannel_messaging.md
+  - JeanHuguesRobert/inseme:research/activitypub_edge.md
+  - JeanHuguesRobert/inseme:docs/oleole-mvp-spec.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+legacy_document_role: source-addendum
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Presencology Addendum — Digital, Social and Institutional Presence of Twins
 

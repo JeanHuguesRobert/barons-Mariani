@@ -1,36 +1,35 @@
 ---
-title: "Pluralisation cognitive sous mandat"
-subtitle: "Du sujet singulier aux capacités agentiques distribuées sans dissolution de la responsabilité"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-01"
-version: "0.3"
-license: "CC BY-SA 4.0"
-language: "fr"
-status: "working-source — source souveraine consolidée, soumise à validation humaine"
-document_role: "source"
-source_authority: "sovereign"
-document_kind: "doctrinal-note"
-visibility: "public-candidate"
-lifecycle_state: "working"
-canonical_path: "research/pluralisation_cognitive_sous_mandat.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pluralisation_cognitive_sous_mandat.md"
-continuation_status: "open"
+title: Pluralisation cognitive sous mandat
+subtitle: Du sujet singulier aux capacités agentiques distribuées sans dissolution de la responsabilité
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-01'
+version: '0.3'
+license: CC BY-SA 4.0
+language: fr
+status: working-source — source souveraine consolidée, soumise à validation humaine
+document_role: source
+source_authority: sovereign
+document_kind: doctrinal-note
+visibility: public-candidate
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/pluralisation_cognitive_sous_mandat.md
+continuation_status: open
 human_validation_required: true
 related_documents:
-  - "research/second_method.md"
-  - "research/baron_mariani_singulier_pluriel_agents_jhn.md"
-  - "agents-jhn/README.md"
-  - "agents-jhn/charte_agents_jhn.md"
-  - "cogentia/research/cogentia-digital-twin.md"
-  - "cogentia/research/derived_products.md"
-  - "cogentia/research/trusted_boundaries.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "inseme/research/cop_mission_stigmergy_exploration.md"
-  - "inseme/packages/cop-core/Invariants.md"
-  - "inseme/packages/cop-core/Terminology.md"
+  - research/second_method.md
+  - research/baron_mariani_singulier_pluriel_agents_jhn.md
+  - agents-jhn/README.md
+  - agents-jhn/charte_agents_jhn.md
+  - cogentia/research/cogentia-digital-twin.md
+  - cogentia/research/derived_products.md
+  - cogentia/research/trusted_boundaries.md
+  - research/rational_odysseys_the_possible.md
+  - inseme/research/cop_mission_stigmergy_exploration.md
+  - inseme/packages/cop-core/Invariants.md
+  - inseme/packages/cop-core/Terminology.md
 related_derived_products:
-  - "research/se_demultiplier_pour_explorer_le_possible_blogpost.md — produit décliné pour Les carnets du baron Mariani"
+  - research/se_demultiplier_pour_explorer_le_possible_blogpost.md — produit décliné pour Les carnets du baron Mariani
 tags:
   - pluralisation-cognitive
   - agents
@@ -42,11 +41,22 @@ tags:
   - digital-twin
   - society-of-mind
   - trusted-boundaries
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Pluralisation cognitive sous mandat
 

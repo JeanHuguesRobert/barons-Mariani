@@ -1,35 +1,40 @@
 ---
-title: "Ubuesque, kafkaïen et Machine à Empêcher"
-subtitle: "Grille possibiliste de lecture des configurations absurdes"
-version: "0.1"
-date: "2026-09-15"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-status: "working-paper — interprétation personnelle / outil heuristique"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "derived"
-document_kind: "research-note"
-visibility: "public"
-lifecycle_state: "working"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md"
+title: Ubuesque, kafkaïen et Machine à Empêcher
+subtitle: Grille possibiliste de lecture des configurations absurdes
+version: '0.1'
+date: '2026-09-15'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+status: working-paper — interprétation personnelle / outil heuristique
+language: fr
+license: CC BY-SA 4.0
+document_role: derived
+document_kind: research-note
+visibility: public
+lifecycle_state: working
 related_documents:
-  - "research/autonomia.md"
-  - "research/autonomia/observatoire_processus_autonomie_corse.md"
-  - "research/autonomia/corse_laboratoire.md"
-  - "research/autonomia/potentique_territoriale.md"
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/genealogie_ordre_transparence_traceabilite.md"
-  - "research/joie_jeu_capacite.md"
-  - "research/applied_possibilism.md"
-  - "research/le_reel_le_virtuel_et_l_actuel.md"
-  - "research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md"
+  - research/autonomia.md
+  - research/autonomia/observatoire_processus_autonomie_corse.md
+  - research/autonomia/corse_laboratoire.md
+  - research/autonomia/potentique_territoriale.md
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/genealogie_ordre_transparence_traceabilite.md
+  - research/joie_jeu_capacite.md
+  - research/applied_possibilism.md
+  - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md
 provenance:
-  origin_type: "github-issue"
-  origin_ref: "JeanHuguesRobert/barons-Mariani#72"
-  origin_date: "2026-09-15"
+  origin_type: github-issue
+  origin_ref: JeanHuguesRobert/barons-Mariani#72
+  origin_date: '2026-09-15'
+  origin_repository: unknown
+  derived_from: []
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
+
 
 # Ubuesque, kafkaïen et Machine à Empêcher
 

@@ -1,44 +1,42 @@
 ---
-title: "Exemplarity — Proof by Existence"
-subtitle: "Building a sufficiently rigorous example for The Possible to become observable"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-license: "CC BY-SA 4.0"
-language: "en"
-date: "2026-08-14"
-status: "working-note — source doctrine"
-document_role: "source"
-version: "0.2"
-document_kind: "doctrinal-note"
-visibility: "public"
-repository: "JeanHuguesRobert/barons-Mariani"
-canonical_path: "research/exemplarity.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/exemplarity.md"
-lifecycle_state: "working"
+title: Exemplarity — Proof by Existence
+subtitle: Building a sufficiently rigorous example for The Possible to become observable
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+license: CC BY-SA 4.0
+language: en
+date: '2026-08-14'
+status: working-note — source doctrine
+document_role: source
+version: '0.2'
+document_kind: doctrinal-note
+visibility: public
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/exemplarity.md
+lifecycle_state: working
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "conversation checkpoint R12-R13; extended R47-R52"
-  origin_date: "2026-08-14"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: conversation checkpoint R12-R13; extended R47-R52
+  origin_date: '2026-08-14'
   derived_from:
-    - "research/traceability_of_flows_and_effects.md"
-    - "research/second_method.md"
-    - "research/possibilism_04_2026.md"
-    - "research/applied_possibilism.md"
-update_policy: "UP-DEFAULT-REVIEWED"
+    - research/traceability_of_flows_and_effects.md
+    - research/second_method.md
+    - research/possibilism_04_2026.md
+    - research/applied_possibilism.md
+update_policy: UP-DEFAULT-REVIEWED
 methodology:
-  - "Second Method"
+  - Second Method
 ai_assisted_by:
-  - "GPT-5.6 Sol (concept crystallization and drafting)"
+  - GPT-5.6 Sol (concept crystallization and drafting)
 related_documents:
-  - "research/traceability_of_flows_and_effects.md"
-  - "research/second_method.md"
-  - "research/possibilism_04_2026.md"
-  - "research/applied_possibilism.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md"
+  - research/traceability_of_flows_and_effects.md
+  - research/second_method.md
+  - research/possibilism_04_2026.md
+  - research/applied_possibilism.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/administrative_burden_and_exemplar_tests.md
 tags:
   - exemplarity
   - proof-by-existence
@@ -49,14 +47,15 @@ tags:
   - traceability
   - digital-twin
   - in-deserto
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 changelog:
-  - "v0.2 (2026-08-14) — adds Exemplar Test and executable counterfactual as a comparative form of exemplarity."
-  - "v0.1 (2026-08-14) — first explicit formulation of Exemplarity as proof by existence and as a method for making The Possible observable through a working, auditable example."
+  - v0.2 (2026-08-14) — adds Exemplar Test and executable counterfactual as a comparative form of exemplarity.
+  - v0.1 (2026-08-14) — first explicit formulation of Exemplarity as proof by existence and as a method for making The Possible observable through a working, auditable example.
 ---
+
 
 # Exemplarity — Proof by Existence
 

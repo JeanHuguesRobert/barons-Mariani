@@ -1,46 +1,44 @@
 ---
-title: "Théorie des jeux comme grille de lecture du corpus"
-subtitle: "Règles, triche, coopération, capture et Autonomie de Capacité"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-26"
-status: "release_candidate"
-version: "0.2.1"
-license: "CC BY-SA 4.0"
-repository: "barons-Mariani"
-path: "research/theorie_des_jeux_corpus.md"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
+title: Théorie des jeux comme grille de lecture du corpus
+subtitle: Règles, triche, coopération, capture et Autonomie de Capacité
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-26'
+status: release_candidate
+version: 0.2.1
+license: CC BY-SA 4.0
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
 human_validation_required: true
-review_status: "Grok constructive review integrated 2026-06-25; Grok confirmation review 2026-06-26; v0.2.1 adds three non-blocking micro-clarifications"
+review_status: Grok constructive review integrated 2026-06-25; Grok confirmation review 2026-06-26; v0.2.1 adds three non-blocking micro-clarifications
 ai_assisted_by:
-  - "ChatGPT — rédaction, structuration, explicitation autoporteuse, intégration de revue"
+  - ChatGPT — rédaction, structuration, explicitation autoporteuse, intégration de revue
 reviewed_by:
-  - "Grok — constructive external reviewer, non decisionnel, review 2026-06-25"
-  - "Grok — confirmation reviewer, review 2026-06-26"
+  - Grok — constructive external reviewer, non decisionnel, review 2026-06-25
+  - Grok — confirmation reviewer, review 2026-06-26
 review_expected_by:
-  - "Grok / Claude / ChatGPT / humain — reviewer critique adverse, non décisionnel"
+  - Grok / Claude / ChatGPT / humain — reviewer critique adverse, non décisionnel
 related_documents:
-  - "research/noyau_doctrinal_rendre_capable.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/review_protocol.md"
-  - "research/methode_terrains_feconds.md"
-  - "research/kudos.md"
-  - "research/second_method.md"
+  - research/noyau_doctrinal_rendre_capable.md
+  - research/traceabilite_des_actes.md
+  - research/review_protocol.md
+  - research/methode_terrains_feconds.md
+  - research/kudos.md
+  - research/second_method.md
 related_projects:
-  - "C.O.R.S.I.C.A."
-  - "Institut Mariani"
-  - "Cogentia"
-  - "Kudocracy"
-  - "Kudos"
-  - "FractaVolta"
-  - "Fractanet"
-  - "Operium"
-  - "Archia"
-  - "Mare Nostrum"
-  - "Autonomie de Capacité"
+  - C.O.R.S.I.C.A.
+  - Institut Mariani
+  - Cogentia
+  - Kudocracy
+  - Kudos
+  - FractaVolta
+  - Fractanet
+  - Operium
+  - Archia
+  - Mare Nostrum
+  - Autonomie de Capacité
 tags:
   - théorie des jeux
   - game theory
@@ -55,11 +53,23 @@ tags:
   - démocratie
   - autonomie de capacité
   - corpus vivant
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Théorie des jeux comme grille de lecture du corpus
 

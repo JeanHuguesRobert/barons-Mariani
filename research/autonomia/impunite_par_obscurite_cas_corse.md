@@ -1,13 +1,12 @@
 ---
-title: "Impunité par obscurité"
-subtitle: "Le cas corse comme révélateur d’un déficit d’imputabilité institutionnelle"
-version: "0.5"
-status: "published"
-date: "2026-06-01"
-author: "Jean Hugues Noël Robert"
-intended_path: "research/autonomia/impunite_par_obscurite_cas_corse.md"
-license: "CC BY 4.0"
-language: "fr"
+title: Impunité par obscurité
+subtitle: Le cas corse comme révélateur d’un déficit d’imputabilité institutionnelle
+version: '0.5'
+status: published
+date: '2026-06-01'
+author: Jean Hugues Noël Robert
+license: CC BY 4.0
+language: fr
 tags:
   - autonomia
   - autonomie-de-capacite
@@ -20,29 +19,40 @@ tags:
   - corruption
   - fonds-europeens
 related_documents:
-  - "JeanHuguesRobert/barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md"
-  - "JeanHuguesRobert/barons-Mariani/research/autonomia/atlas_paysage_politique_corse.md"
-  - "JeanHuguesRobert/cogentia/research/pipeline.md"
-  - "JeanHuguesRobert/cogentia/scripts/cogentia.js"
+  - JeanHuguesRobert/barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md
+  - JeanHuguesRobert/barons-Mariani/research/autonomia/atlas_paysage_politique_corse.md
+  - JeanHuguesRobert/cogentia/research/pipeline.md
+  - JeanHuguesRobert/cogentia/scripts/cogentia.js
 ai_assisted_by:
-  - "ChatGPT"
-  - "Grok critique, v0.1"
-  - "Grok critique, v0.2"
-  - "Grok critique, v0.3"
-  - "Grok critique, v0.4"
+  - ChatGPT
+  - Grok critique, v0.1
+  - Grok critique, v0.2
+  - Grok critique, v0.3
+  - Grok critique, v0.4
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/impunite_par_obscurite_cas_corse.md
-last_stamped_at: 2026-06-01
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-corpus_role: "source"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "stable"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+corpus_role: source
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: stable
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Impunité par obscurité
 

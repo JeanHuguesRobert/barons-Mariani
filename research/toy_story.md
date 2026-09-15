@@ -1,18 +1,16 @@
 ---
-title: "Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-version: "6.0"
-date: 2026-05-10
+title: 'Toy Story, Artificial Intelligence, and Mimetic Desynchronization: Toward a Cultural Strategy for Cognitive Transition'
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+version: '6.0'
+date: 2026-05-10T00:00:00.000Z
 iteration: 6
-agent_last: "ChatGPT — distributed_epistemics branch"
-input_version: "article-v5.md"
-status: "working-paper"
-license: "CC BY-SA 4.0"
-
+agent_last: ChatGPT — distributed_epistemics branch
+input_version: article-v5.md
+status: working-paper
+license: CC BY-SA 4.0
 continuation:
   consistency_model: eventual
-
   vector_clock:
     chatgpt: v6
     grok: v4
@@ -20,64 +18,69 @@ continuation:
     gemini: v5
     mistral: null
     perplexity: pending
-
   merge_audit:
     - iteration: 6
       agent: chatgpt
       claimed_ops:
-        - "add distributed epistemics section"
-        - "formalize continuation/callcc interpretation"
-        - "consolidate production-method findings"
-        - "preserve v5 argumentative structure"
+        - add distributed epistemics section
+        - formalize continuation/callcc interpretation
+        - consolidate production-method findings
+        - preserve v5 argumentative structure
       verified_ops:
-        - "Section 13 added"
-        - "continuation architecture clarified"
-        - "distributed systems parallels expanded"
+        - Section 13 added
+        - continuation architecture clarified
+        - distributed systems parallels expanded
       ghost_ops: []
       undeclared_ops: []
       arbitration: human
-      merge_decision: "accepted"
-
+      merge_decision: accepted
   branches:
     - id: empirical_literature
       status: closed
-      result: "Empirical references integrated"
-
+      result: Empirical references integrated
     - id: factual_verification
-      description: "Verify all references and factual claims"
+      description: Verify all references and factual claims
       assignee: perplexity
       status: pending
-
     - id: distributed_epistemics
-      description: "Generalize continuation-based production method into a broader epistemic framework"
+      description: Generalize continuation-based production method into a broader epistemic framework
       assignee: chatgpt
       status: merged
-
     - id: external_human_review
-      description: "Cold review by STS / philosophy of technology researcher"
+      description: Cold review by STS / philosophy of technology researcher
       assignee: null
       status: open
-
   decision_stack:
-    - "Toy Story comparative framing retained"
-    - "MTI retained as operational hypothesis"
-    - "Ghost ops accounting retained"
-    - "Continuation block generalized"
-    - "Distributed epistemics introduced as future research program"
-    - "call/cc analogy formalized"
-
-  spec_reference: "cogentia-commons/spec/session-001.md"
+    - Toy Story comparative framing retained
+    - MTI retained as operational hypothesis
+    - Ghost ops accounting retained
+    - Continuation block generalized
+    - Distributed epistemics introduced as future research program
+    - call/cc analogy formalized
+  spec_reference: cogentia-commons/spec/session-001.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/toy_story.md
-last_stamped_at: 2026-06-01
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
+last_stamped_at: 2026-06-01T00:00:00.000Z
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+language: en
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Toy Story, Artificial Intelligence, and Mimetic Desynchronization
 ## Toward a Cultural Strategy for Cognitive Transition

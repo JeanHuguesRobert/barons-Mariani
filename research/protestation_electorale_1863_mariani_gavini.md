@@ -1,30 +1,39 @@
 ---
-title: "1863 — Baron Mariani contre Sampiero Gavini : protestation électorale et permanence des mécanismes"
-subtitle: "Lecture OSINT d’une contestation du Second Empire et rapprochement prudent avec les situations contemporaines"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-12"
-last_modified_at: "2026-09-12"
-version: "0.1"
-status: "working paper — enquête OSINT ouverte"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "source"
-document_kind: "historical-comparative-research"
-visibility: "public"
-lifecycle_state: "working"
-repository: "JeanHuguesRobert/barons-Mariani"
-path: "research/protestation_electorale_1863_mariani_gavini.md"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/protestation_electorale_1863_mariani_gavini.md"
+title: '1863 — Baron Mariani contre Sampiero Gavini : protestation électorale et permanence des mécanismes'
+subtitle: Lecture OSINT d’une contestation du Second Empire et rapprochement prudent avec les situations contemporaines
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-12'
+last_modified_at: '2026-09-12'
+version: '0.1'
+status: working paper — enquête OSINT ouverte
+language: fr
+license: CC BY-SA 4.0
+document_role: source
+document_kind: historical-comparative-research
+visibility: public
+lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/protestation_electorale_1863_mariani_gavini.md
 source_documents:
-  - "musee-mariani/sources/bibliographie.md"
-  - "research/notice_baron_mariani_medias.md"
-  - "research/notice_candidature_senatoriales_2026_medias.md"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+  - musee-mariani/sources/bibliographie.md
+  - research/notice_baron_mariani_medias.md
+  - research/notice_candidature_senatoriales_2026_medias.md
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # 1863 — Baron Mariani contre Sampiero Gavini
 

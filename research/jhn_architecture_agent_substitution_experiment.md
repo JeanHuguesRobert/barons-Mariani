@@ -1,34 +1,35 @@
 ---
-title: "JHN Architecture Experiment — Portable Continuation Across Agents and Nodes"
-subtitle: "A falsifiable test of capability substitution without loss of authority, identity or causal lineage"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-15"
+title: JHN Architecture Experiment — Portable Continuation Across Agents and Nodes
+subtitle: A falsifiable test of capability substitution without loss of authority, identity or causal lineage
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-08-15'
 status:
-  - "working-paper"
-  - "under-review"
-version: "0.1"
-license: "CC BY-SA 4.0"
-language: "en"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/jhn_architecture_agent_substitution_experiment.md"
-document_role: "source"
-document_kind: "experimental-protocol"
-visibility: "public"
-lifecycle_state: "working"
+  - working-paper
+  - under-review
+version: '0.1'
+license: CC BY-SA 4.0
+language: en
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/jhn_architecture_agent_substitution_experiment.md
+document_role: source
+document_kind: experimental-protocol
+visibility: public
+lifecycle_state: working
 ai_assisted_by:
-  - "GPT-5.6 Sol (drafting and structuring)"
+  - GPT-5.6 Sol (drafting and structuring)
 provenance:
-  origin_type: "conversation"
-  origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_date: "2026-08-15"
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_date: '2026-08-15'
   derived_from:
-    - "research/jhn_architecture.md"
-    - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Terminology.md"
-    - "https://github.com/JeanHuguesRobert/inseme/blob/main/packages/magistral/CAPABILITY_RESOLUTION.md"
+    - research/jhn_architecture.md
+    - https://github.com/JeanHuguesRobert/inseme/blob/main/packages/cop-core/Terminology.md
+    - https://github.com/JeanHuguesRobert/inseme/blob/main/packages/magistral/CAPABILITY_RESOLUTION.md
+  origin_ref: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
-update_policy: "UP-DEFAULT-REVIEWED"
+update_policy: UP-DEFAULT-REVIEWED
 tags:
   - jhn-architecture
   - continuation
@@ -38,11 +39,12 @@ tags:
   - cop
   - magistral
   - reproducibility
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "medium"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: medium
 ---
+
 
 # JHN Architecture Experiment — Portable Continuation Across Agents and Nodes
 

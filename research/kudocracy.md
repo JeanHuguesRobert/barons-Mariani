@@ -1,16 +1,16 @@
 ---
-title: "Kudocracy"
-subtitle: "Suggestions civiques traçables, votations et démocratie liquide assistée par agents"
-description: "Working paper sur Kudocracy comme couche de suggestions civiques traçables pour des votations, complémentaire de la démocratie liquide et adjacente aux mandataires représentatifs. La recommandation y est traitée comme une forme plus forte que la suggestion, plus directive et donc plus strictement encadrée."
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani — C.O.R.S.I.C.A. / Inseme / Cogentia"
-version: "0.2"
-date: "2026-05-22"
+title: Kudocracy
+subtitle: Suggestions civiques traçables, votations et démocratie liquide assistée par agents
+description: Working paper sur Kudocracy comme couche de suggestions civiques traçables pour des votations, complémentaire de la démocratie liquide et adjacente aux mandataires représentatifs. La recommandation y est traitée comme une forme plus forte que la suggestion, plus directive et donc plus strictement encadrée.
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani — C.O.R.S.I.C.A. / Inseme / Cogentia
+version: '0.2'
+date: '2026-05-22'
 status: working-paper — révision conceptuelle
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/kudocracy.md
-last_modified_at: "2026-05-22"
-last_stamped_at: 2026-06-01
+last_modified_at: '2026-05-22'
+last_stamped_at: 2026-06-01T00:00:00.000Z
 tags:
   - kudocracy
   - votations
@@ -23,25 +23,37 @@ tags:
   - non-pression-algorithmique
   - seconde-methode
 related:
-  - "./second_method.md"
-  - "./autonomia.md"
-  - "./pathologie_du_secret.md"
-  - "https://github.com/JeanHuguesRobert/cogentia"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/cognitive_packet.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md"
-  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_method_packets.md"
+  - ./second_method.md
+  - ./autonomia.md
+  - ./pathologie_du_secret.md
+  - https://github.com/JeanHuguesRobert/cogentia
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/prompts/cognitive_packet.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md
+  - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_method_packets.md
 changelog:
-  - "v0.1 (2026-05-20) — premier draft : distinction votation/élection, recommandation/délégation, agents humains et artificiels, agent IA personnel, passage au crible de la seconde méthode, continuation."
-  - "v0.2 (2026-05-22) — révision conceptuelle : distinction suggestion / recommandation / délégation / prescription ; remplacement du mode par défaut de recommandation civique par suggestion civique ; ajout du garde-fou contre la pression algorithmique ; clarification du rôle de l’agent IA personnel comme auxiliaire de jugement non prescriptif."
-document_role: "source"
-document_kind: "concept-note"
-visibility: "public"
-lifecycle_state: "working"
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "concept-note"
-classification_confidence: "medium"
+  - 'v0.1 (2026-05-20) — premier draft : distinction votation/élection, recommandation/délégation, agents humains et artificiels, agent IA personnel, passage au crible de la seconde méthode, continuation.'
+  - 'v0.2 (2026-05-22) — révision conceptuelle : distinction suggestion / recommandation / délégation / prescription ; remplacement du mode par défaut de recommandation civique par suggestion civique ; ajout du garde-fou contre la pression algorithmique ; clarification du rôle de l’agent IA personnel comme auxiliaire de jugement non prescriptif.'
+document_role: source
+document_kind: concept-note
+visibility: public
+lifecycle_state: working
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: concept-note
+classification_confidence: medium
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Kudocracy
 

@@ -1,22 +1,30 @@
 ---
-title: "Marie-Louise — Le dieu de l'eau (2008)"
-author: "Jean Hugues Noël Robert"
-date: "2026-09-08"
-document_role: "source-note"
-document_kind: "creative-work-trace"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+title: Marie-Louise — Le dieu de l'eau (2008)
+author: Jean Hugues Noël Robert
+date: '2026-09-08'
+document_role: source-note
+document_kind: creative-work-trace
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "personal-archive"
+  origin_type: personal-archive
   derived_from:
-    - "Gmail:11dfdff512b6c8bf"
-    - "Gmail:11f32f6aba024dfc"
-    - "Gmail:11f319a0f9ed008d"
+    - Gmail:11dfdff512b6c8bf
+    - Gmail:11f32f6aba024dfc
+    - Gmail:11f319a0f9ed008d
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
+license: CC BY-SA 4.0
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+language: fr
+status: working-paper
 ---
+
 
 # 2008 — *Le dieu de l'eau*
 

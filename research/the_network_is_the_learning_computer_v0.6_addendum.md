@@ -1,26 +1,26 @@
 ---
-title: "The Network is the Learning Computer — v0.6 Addendum"
-subtitle: "Explorer Machine, Reality Response, and Capability Topology"
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
-date: "2026-08-22"
-version: "0.1"
-status: "integrated"
-document_role: "derived"
-document_kind: "research-addendum"
-visibility: "public"
-lifecycle_state: "archived-source-note"
-language: "en"
-license: "CC BY-SA 4.0"
+title: The Network is the Learning Computer — v0.6 Addendum
+subtitle: Explorer Machine, Reality Response, and Capability Topology
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France
+date: '2026-08-22'
+version: '0.1'
+status: integrated
+document_role: derived
+document_kind: research-addendum
+visibility: public
+lifecycle_state: archived-source-note
+language: en
+license: CC BY-SA 4.0
 methodology:
-  - "Second Method"
-  - "Rational Exploration of Possibilities"
+  - Second Method
+  - Rational Exploration of Possibilities
 related_documents:
-  - "research/the_network_is_the_learning_computer.md"
-  - "research/potentics_interdependencies.md"
-  - "research/rational_odysseys_the_possible.md"
-  - "research/principe_rossignol.md"
-  - "research/test_critere_rossignol.md"
+  - research/the_network_is_the_learning_computer.md
+  - research/potentics_interdependencies.md
+  - research/rational_odysseys_the_possible.md
+  - research/principe_rossignol.md
+  - research/test_critere_rossignol.md
 tags:
   - learning-computer
   - explorer-machine
@@ -32,11 +32,22 @@ tags:
   - cognitive-packets
   - continuations
   - ithaca
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # The Network is the Learning Computer — v0.6 Addendum
 

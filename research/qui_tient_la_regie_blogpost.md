@@ -1,35 +1,47 @@
 ---
-title: "Qui tient la régie ?"
-subtitle: "Après les lutins, le citoyen reprend le contrôle du spectacle"
-author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-07-24"
-status: "early draft — derived public blogpost"
-version: "0.1"
-language: "fr"
-license: "CC BY-SA 4.0"
-document_role: "derived"
-document_kind: "public essay"
-publication_target: "Les carnets du baron Mariani / Substack"
-visibility: "public"
-lifecycle_state: "working"
+title: Qui tient la régie ?
+subtitle: Après les lutins, le citoyen reprend le contrôle du spectacle
+author: Jean Hugues Noël Robert, baron Mariani
+date: '2026-07-24'
+status: early draft — derived public blogpost
+version: '0.1'
+language: fr
+license: CC BY-SA 4.0
+document_role: derived
+document_kind: public essay
+publication_target: Les carnets du baron Mariani / Substack
+visibility: public
+lifecycle_state: working
 human_validation_required: true
-source_document: "debord_stabilisateur_procedural.md"
-source_intended_path: "barons-Mariani/research/debord_stabilisateur_procedural.md"
+source_document: debord_stabilisateur_procedural.md
+source_intended_path: barons-Mariani/research/debord_stabilisateur_procedural.md
 source_snapshot:
-  file: "debord_stabilisateur_procedural.md"
-  sha256: "0df64b9788d6622e129ed8589e0faac14be3ff0c3c5cefbc274889f69443c8c3"
-  status: "early draft source under external review"
-  canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md"
-derivation_return_path: "Any correction affecting doctrine returns first to the identified source snapshot, then to Jean Hugues Noël Robert for arbitration."
-derivation_mode: "directed"
-audience: "grand public cultivé, citoyens, acteurs associatifs et territoriaux"
-persona: "auteur public et politique"
-adaptation_note: "Le texte dramatise la question de la régie ; les définitions, limites et références complètes demeurent dans le document source."
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "explicit-metadata"
-classification_confidence: "strong"
+  file: debord_stabilisateur_procedural.md
+  sha256: 0df64b9788d6622e129ed8589e0faac14be3ff0c3c5cefbc274889f69443c8c3
+  status: early draft source under external review
+  canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md
+derivation_return_path: Any correction affecting doctrine returns first to the identified source snapshot, then to Jean Hugues Noël Robert for arbitration.
+derivation_mode: directed
+audience: grand public cultivé, citoyens, acteurs associatifs et territoriaux
+persona: auteur public et politique
+adaptation_note: Le texte dramatise la question de la régie ; les définitions, limites et références complètes demeurent dans le document source.
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: explicit-metadata
+classification_confidence: strong
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Qui tient la régie ?
 

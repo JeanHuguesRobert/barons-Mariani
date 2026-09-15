@@ -1,17 +1,29 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/expositions/exposition-00-prefiguration.md
-author: "Jean Hugues Noël Robert, baron Mariani"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-license: "CC BY-SA 4.0"
-last_stamped_at: 2026-06-26
-title: "Exposition 00 — Préfiguration du Musée Mariani"
-date: "2026-06-26"
-status: "draft"
-document_role: "source"
-document_kind: "museum-exhibition-outline"
-visibility: "public"
-lifecycle_state: "working"
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+last_stamped_at: 2026-06-26T00:00:00.000Z
+title: Exposition 00 — Préfiguration du Musée Mariani
+date: '2026-06-26'
+status: draft
+document_role: source
+document_kind: museum-exhibition-outline
+visibility: public
+lifecycle_state: working
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Exposition 00 — Préfiguration du Musée Mariani
 

@@ -1,40 +1,38 @@
 ---
-classification_source: "cogentia.js"
-classification_version: "1"
-classification_rule: "research-paper"
-classification_confidence: "medium"
-title: "Économie morale de la dépense visible"
-subtitle: "Suspicion de radinerie, gaspillage ostentatoire, invidia et optimisation empêchée en contexte corse"
-author: "Jean Hugues Noël Robert"
-affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-06-29"
-status: "draft v0.1 — document source autoporteur, à validation humaine"
-version: "0.1"
-license: "CC BY-SA 4.0"
-language: "fr"
-repository: "barons-Mariani"
-path: "research/economie_morale_depense_visible.md"
-document_role: "source"
-document_kind: "research-paper"
-visibility: "public"
-lifecycle_state: "working"
+classification_source: cogentia.js
+classification_version: '1'
+classification_rule: research-paper
+classification_confidence: medium
+title: Économie morale de la dépense visible
+subtitle: Suspicion de radinerie, gaspillage ostentatoire, invidia et optimisation empêchée en contexte corse
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-06-29'
+status: draft v0.1 — document source autoporteur, à validation humaine
+version: '0.1'
+license: CC BY-SA 4.0
+language: fr
+document_role: source
+document_kind: research-paper
+visibility: public
+lifecycle_state: working
 human_validation_required: true
 ai_assisted_by:
-  - "ChatGPT — recherche préparatoire, structuration, rédaction initiale, état de l’art 2026-06-29"
+  - ChatGPT — recherche préparatoire, structuration, rédaction initiale, état de l’art 2026-06-29
 related_documents:
-  - "research/invidia.md"
-  - "research/justice_divine_mandat_implicite.md"
-  - "research/traceabilite_des_actes.md"
-  - "research/mimetic_desynchronization.md"
-  - "research/autonomia.md"
-  - "research/pathologie_du_secret.md"
-  - "research/economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md"
+  - research/invidia.md
+  - research/justice_divine_mandat_implicite.md
+  - research/traceabilite_des_actes.md
+  - research/mimetic_desynchronization.md
+  - research/autonomia.md
+  - research/pathologie_du_secret.md
+  - research/economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md
 related_projects:
-  - "Autonomie de Capacité"
-  - "Institut Mariani"
-  - "C.O.R.S.I.C.A."
-  - "Kudocracy"
-  - "Cogentia"
+  - Autonomie de Capacité
+  - Institut Mariani
+  - C.O.R.S.I.C.A.
+  - Kudocracy
+  - Cogentia
 tags:
   - corse
   - anthropologie
@@ -48,7 +46,18 @@ tags:
   - mandat-implicite
   - optimisation
   - autonomie-de-capacite
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 ---
+
 
 # Économie morale de la dépense visible
 
