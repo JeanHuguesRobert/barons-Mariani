@@ -7,8 +7,8 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
-last_modified_at: '2026-09-12'
-version: '0.3'
+last_modified_at: '2026-09-14'
+version: '0.4'
 status: working — canonical persons index
 language: fr
 license: CC BY-SA 4.0
