@@ -540,3 +540,4 @@ issus de Wikimedia Commons (licence propre). Le blason est issu de l'
 ---
 
 *Licence : CC BY-SA 4.0 (textes et données) — sauf éléments héraldiques (licence propre).*
+*Auteur : Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corse — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
