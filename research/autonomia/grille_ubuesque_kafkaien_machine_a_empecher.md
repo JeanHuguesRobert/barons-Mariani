@@ -1,7 +1,7 @@
 ---
 title: Ubuesque, kafkaïen et Machine à Empêcher
 subtitle: Grille possibiliste de lecture des configurations absurdes
-version: '0.1'
+version: '0.2'
 date: '2026-09-15'
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
@@ -59,6 +59,34 @@ L’objet du rire est prioritairement la **configuration**, le cérémonial, le 
 La finalité n’est pas de produire un réquisitoire. Elle est de transformer une absurdité éventuellement observée en connaissance, puis en possibilité de correction et, lorsque c’est possible, en capacité durable.
 
 Cette orientation relève de l’**Exploration rationnelle et joyeuse du Possible** : la joie n’est ni une preuve ni un optimisme obligatoire. Elle désigne ici la possibilité de transformer même une absurdité rencontrée en objet de découverte, de compréhension, d’expérimentation et d’accroissement de capacité.
+
+### 0.1. Mini-lexique pour une lecture autonome
+
+Le document peut être lu sans connaissance préalable du reste du Corpus. Les définitions ci-dessous suffisent pour suivre la grille ; les liens servent uniquement à approfondir les concepts.
+
+**Possible / Possibilisme / Potentique.** Le **Possible** désigne ici ce que le Réel n’a pas interdit. Le **Possibilisme** cherche à préserver et explorer cet espace ; la **Potentique** en fait un programme d’exploration rationnelle. Cette exploration doit rester joyeuse, traçable et corrigible, sans confondre désir, hypothèse et réalité.  
+→ [What is Potentics?](../potentics.md) · [Le Réel, le virtuel et l’actuel](../le_reel_le_virtuel_et_l_actuel.md)
+
+**Carte / Territoire / Réel.** La **Carte** est notre représentation provisoire : faits reconstruits, modèles, interprétations et scénarios. Le **Territoire** est le Réel auquel cette représentation tente d’accéder et qui peut répondre autrement que prévu. Une bonne Carte doit donc rester corrigible.  
+→ [Le Réel, le virtuel et l’actuel](../le_reel_le_virtuel_et_l_actuel.md) · [Potentique territoriale](potentique_territoriale.md)
+
+**Capacité / écart capacitaire.** Une possibilité, une ressource ou un droit formel n’est pas encore une capacité : il faut qu’un sujet puisse effectivement accomplir l’action considérée dans une situation et un horizon donnés. L’**écart capacitaire** désigne l’écart entre un espace de référence explicité et ce qui est réellement accessible.  
+→ [Autonomia](../autonomia.md) · [Rendre capable — noyau doctrinal provisoire](../noyau_doctrinal_rendre_capable.md)
+
+**Reality Test.** Un **Reality Test** est une expérience ou une action bornée destinée à confronter une hypothèse au Réel et à observer sa réponse, y compris lorsque cette réponse invalide l’hypothèse, révèle un effet secondaire ou oblige à corriger la Carte.  
+→ [Corse Laboratoire](corse_laboratoire.md)
+
+**Machine à Explorer.** Une **Machine à Explorer** est un dispositif humain, institutionnel ou technique qui cherche des configurations et transformations possibles, formule des hypothèses et organise des essais. Découvrir un chemin ne signifie pas encore être capable de l’emprunter.  
+→ [Corse Laboratoire](corse_laboratoire.md)
+
+**Machine à Rendre Capable.** Une **Machine à Rendre Capable** assemble les facteurs de conversion — information, compétence, outil, accès, ressource, coordination, temps, relation, infrastructure, etc. — nécessaires pour transformer un possible identifié en capacité effective.  
+→ [Rendre capable — noyau doctrinal provisoire](../noyau_doctrinal_rendre_capable.md)
+
+**Révélateur.** Un **Révélateur** est un dispositif, une trace, un événement ou une expérience qui rend reconstructible une dépendance, une anomalie, une fermeture ou un mécanisme jusque-là mal représenté dans la Carte.  
+→ [De l’ordre juste à la Traçabilité des actes](../genealogie_ordre_transparence_traceabilite.md)
+
+**Stabilisateur procédural.** Un **Stabilisateur procédural** rend une capacité normalement praticable et reproductible tout en conservant provenance, trace, responsabilité et moyens de correction. Il stabilise les conditions de l’action, pas une vérité définitive.  
+→ [De l’ordre juste à la Traçabilité des actes](../genealogie_ordre_transparence_traceabilite.md)
 
 ---
 
