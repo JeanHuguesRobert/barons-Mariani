@@ -1,10 +1,18 @@
 ---
 title: "Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse"
 subtitle: "Dossier décliné en formats 1, 2, 4, 8 et 16 pages"
+version: "0.2"
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte"
 date: "2026-05-28"
-status: "draft — version de travail v0.1, à relire avant envoi"
+updated_at: "2026-09-15"
+status: "transmitted — contribution écrite envoyée le 2026-05-28 et mentionnée dans le rapport n° 2865"
+transmission_status: "executed"
+transmission_date: "2026-05-28"
+parliamentary_status: "listed_as_written_contribution"
+parliamentary_report: "Assemblée nationale, rapport n° 2865, 2026-06-03"
+parliamentary_listing: "Association C.O.R.S.I.C.A. — Contributions écrites"
+causal_influence_on_text: "not established"
 repository_suggere: "JeanHuguesRobert/barons-Mariani"
 path_suggere: "research/autonomia/contribution_commission_lois_autonomie_capacite_v0_1.md"
 license: "CC BY-SA 4.0"
@@ -17,7 +25,7 @@ source_corpus:
   - "barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md"
   - "cogentia/research/self_contained_documents.md"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
-last_stamped_at: 2026-06-01
+last_stamped_at: 2026-09-15
 document_role: "source"
 document_kind: "research-paper"
 visibility: "public"
@@ -32,7 +40,13 @@ classification_confidence: "medium"
 
 ## Autonomie de capacité de la Corse — proposition de finalité constitutionnelle
 
-**Destinataires proposés :** M. le président Florent Boudié, commission des Lois de l'Assemblée nationale ; service de la commission des Lois ; personnes en copie utiles.
+> **Statut documentaire — mise à jour du 15 septembre 2026.** Cette contribution a été transmise le **28 mai 2026** au service de la commission des Lois de l'Assemblée nationale, à la suite de la proposition écrite de recevoir une contribution en remplacement d'une audition devenue impossible. Le rapport n° **2865**, enregistré à la Présidence de l'Assemblée nationale le **3 juin 2026**, mentionne ensuite **Association C.O.R.S.I.C.A.** dans la rubrique **« Contributions écrites »**. Cette séquence établit la transmission de la contribution et sa présence documentaire dans le rapport parlementaire. Elle **n'établit pas**, à elle seule, une influence causale précise sur une rédaction, un amendement ou le texte adopté.
+>
+> Le corps ci-dessous est conservé comme **trace historique du dossier préparé et transmis le 28 mai 2026**. Les formulations prospectives qu'il contient (« version recommandée pour transmission », « suite de travail recommandée », etc.) décrivent l'état préparatoire du document à cette date et ne doivent plus être lues comme le statut courant de la transmission.
+
+Document contemporain lié : [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md).
+
+**Destinataires indiqués dans l'état préparatoire :** M. le président Florent Boudié, commission des Lois de l'Assemblée nationale ; service de la commission des Lois ; personnes en copie utiles.
 
 **Objet parlementaire :** projet de loi constitutionnelle pour une Corse autonome au sein de la République, article 72-5 de la Constitution.
 
@@ -52,7 +66,7 @@ Ce document contient plusieurs versions du même argument, afin de faciliter son
 4. **Version 8 pages** : dossier principal, utilisable comme contribution écrite à mentionner dans le rapport.
 5. **Version 16 pages** : matrice d'approfondissement pour annexes, auditions ultérieures, loi organique, amendements ou publications publiques.
 
-La version recommandée pour transmission officielle est la **version 4 pages**, accompagnée en annexe de la version 8 pages si le format accepté le permet.
+**État préparatoire du 28 mai 2026 :** la version recommandée pour transmission officielle était la **version 4 pages**, accompagnée en annexe de la version 8 pages si le format accepté le permettait. La transmission a depuis été exécutée ; voir la note de statut documentaire en tête du fichier.
 
 ---
 
@@ -587,13 +601,17 @@ Président de l'association C.O.R.S.I.C.A.
 - `barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md` — méthode de production de réponses et produits déclinés.
 - `cogentia/research/self_contained_documents.md` — principe de document autoporteur.
 
-## 16. Suite de travail recommandée
+## 16. Suite de travail recommandée — état préparatoire historique
+
+La liste suivante est conservée comme trace de l'état préparatoire du dossier. Elle ne décrit plus à elle seule son état courant.
 
 1. Stabiliser la version 4 pages.
 2. Faire relire la rédaction constitutionnelle par un juriste publiciste.
 3. Produire un PDF propre avec sommaire et note méthodologique IA.
 4. Envoyer une contribution officielle courte, avec annexe plus longue.
 5. Publier ensuite, si souhaité, une version publique transparente sur GitHub et Facebook, en distinguant clairement l'envoi institutionnel de la communication publique.
+
+**État constaté au 15 septembre 2026 :** l'étape 4 a été exécutée le 28 mai 2026 par transmission de la contribution écrite au service de la commission des Lois ; le document était accessible publiquement sur GitHub au moment de cette transmission. Le rapport n° 2865 du 3 juin 2026 classe ensuite Association C.O.R.S.I.C.A. parmi les « Contributions écrites ». Aucune conclusion causale sur le contenu du rapport, un amendement ou le texte adopté n'en est déduite.
 
 ---
 
@@ -603,6 +621,7 @@ Président de l'association C.O.R.S.I.C.A.
 - Sénat, projet de loi constitutionnelle pour une Corse autonome au sein de la République, n° 869, déposé le 30 juillet 2025.
 - Conseil d'État, avis du 17 juillet 2025 relatif au projet de loi constitutionnelle pour une Corse autonome au sein de la République.
 - Assemblée nationale, rapport d'information n° 1466 sur l'avenir institutionnel de la Corse, déposé le 28 mai 2025.
+- Assemblée nationale, rapport n° 2865 de M. Florent Boudié sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République, enregistré le 3 juin 2026 ; rubrique « Contributions écrites » : Association C.O.R.S.I.C.A.
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
