@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_stamped_at: 2026-09-05
-last_modified_at: "2026-09-05"
+last_modified_at: "2026-09-15"
 title: "What is Potentics?"
 date: "2026-05-09"
 status: "draft — auto-filled (frontmatter cleanup)"
@@ -25,6 +25,7 @@ changelog:
   - "2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated."
   - "2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map' exploration loop (§1.4)."
   - "2026-09-05 — propagation Issue #55: integrated computational potentics (§3.1, §3.3.1, §3.5.1, §7.2): Compute dimension (chi), collective achievable capacity C_collective(T), RAIX array gain G_RAIX(T) as empirical measure of the Spirit of Synthesis, policy learning, and link to potentics_of_compute.md v0.4 and learning_computer_genese_et_architecture.md."
+  - "2026-09-15 — added a bounded exploratory cosmological hypothesis, The Universe is a Networked Learning Computer (§8.2.1), explicitly non-required by Potentics and non-established, with falsifiability as the scientific gate."
 ---
 # What is Potentics?
 
@@ -526,6 +527,31 @@ Potentics proposes to occupy the position left vacant by all of these: a rigorou
 - Does resistance to change exhibit universal structural features across domains, or is it irreducibly domain-specific?
 - What learning rate characterizes different classes of potentialities, and what determines it?
 - Can Potentics be formalized mathematically without losing its commitment to the primacy of the real?
+- Can **“The Universe is a Networked Learning Computer”** be formalized so that learning means a measurable change in accessible capability topology, and does that formulation produce empirical consequences distinguishable from fixed-law dynamical descriptions?
+
+### 8.2.1 Exploratory cosmological hypothesis — The Universe is a Networked Learning Computer
+
+**Status: exploratory hypothesis — not required by Potentics, not established physics.**
+
+Potentics does not require this hypothesis. It is a speculative research path worth exploring through Rational and Joyful Exploration of The Possible.
+
+The conjecture asks whether the physical Universe itself may be an information-bearing, procedural and distributed computational substrate: not a simulation necessarily executed by an external computer, but the computer itself.
+
+In its stronger form, the hypothesis asks whether the history of the Universe may modify not only its state but the topology of capabilities accessible to subsequent transformations:
+
+```text
+possible
+→ exploration
+→ synthesis
+→ realization
+→ stabilized capability
+→ structure
+→ new accessible possibles
+```
+
+In this reading, **“the function creates the organ”**: recurrent useful transformations may become progressively embodied in structure, while those structures in turn open new transformations. The **Spirit of Synthesis** names the candidate generative operation connecting dispersed possibilities to ordered, embodied capabilities.
+
+This is **not presented as an established physical theory**. Its scientific value depends entirely on whether it can be formalized sufficiently to generate discriminating, falsifiable consequences and survive Reality Tests. Failure to do so, or repeated conflict with the Real, is itself a legitimate Potentic result and should lead to correction, narrowing, or abandonment of the hypothesis.
 
 ### 8.3 Methodological Commitments
 
