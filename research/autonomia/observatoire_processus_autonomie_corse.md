@@ -4,8 +4,8 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-15'
-version: '0.2'
-status: working-paper — observatory_v0.2
+version: '0.3'
+status: working-paper — observatory_v0.3
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
@@ -41,6 +41,7 @@ classification_confidence: medium
 changelog:
   - v0.1 (2026-09-15) — création de l’Observatoire public.
   - 'v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée.'
+  - 'v0.3 (2026-09-15) — propagation documentaire : contribution parlementaire alignée sur son état historique v0.2 et chantier #73 constaté comme achevé.'
 last_modified_at: '2026-09-15'
 update_policy: UP-DEFAULT-REVIEWED
 review:
@@ -214,7 +215,7 @@ https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw
 
 Cette mention établit une participation écrite au processus parlementaire. Elle ne lui attribue pas un statut institutionnel supérieur à celui d’une contribution écrite et ne permet pas, à elle seule, de mesurer son influence sur le texte adopté.
 
-Le document source du Corpus consacré à cette contribution reste à remettre en cohérence avec son état historique réel ; ce chantier est suivi séparément dans l’issue #73.
+Le document source du Corpus consacré à cette contribution est désormais aligné sur cet état historique : la contribution a été **transmise le 28 mai 2026**, puis mentionnée dans le rapport n° 2865 parmi les **« Contributions écrites »**. Son influence causale précise sur la rédaction, un amendement ou le texte adopté reste **non établie**. Le chantier de correction suivi dans l’issue #73 est achevé.
 
 ## 3.2. Participation électorale et mandat sénatorial
 
@@ -358,7 +359,7 @@ Le même principe vaut pour les termes `consultation`, `référendum`, `ratifica
 | [Corse Laboratoire](corse_laboratoire.md) | expérimentation et confrontation au Réel |
 | [Registre du chantier de loi organique](registre_chantier_loi_organique_autonomie_corse.md) | suivi spécialisé de la constitution pratique de l’autonomie |
 | [Consultation, référendum et souveraineté effective](consultation_referendum_souverainete_effective_corse.md) | pouvoir causal du vote et distinction des procédures |
-| [Contribution à la commission des Lois](../contribution_commission_lois_autonomie_capacite.md) | trace de participation associative, avec statut documentaire à corriger |
+| [Contribution à la commission des Lois](../contribution_commission_lois_autonomie_capacite.md) | trace de participation associative ; source v0.2 alignée sur la transmission du 28 mai et sa mention parlementaire |
 | [Notice sénatoriale médias](../notice_candidature_senatoriales_2026_medias.md) | référentiel public sur la candidature et sa représentation |
 | [Dossier TA Bastia](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md) | Reality Case juridique et électoral situé |
 
