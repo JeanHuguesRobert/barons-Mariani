@@ -73,9 +73,15 @@ Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-loui
 - [`editions/index.md`](editions/index.md) — registre des éditions figées ;
 - [`journals/README.md`](journals/README.md) — emplacement des journaux de campagne.
 
+## Correction de doctrine — le bootstrap est révisable comme le reste, 15 septembre 2026
+
+Une formulation antérieure de ce README présentait la modification de `manuscript/00-ouverture.md` comme une « exception » à un principe de non-réécriture du bootstrap. Cette présentation était elle-même une erreur de doctrine, corrigée ici.
+
+Ni la seconde méthode (`research/agile.md`) ni l'Optimistic Locking (`cogentia/instructions/AGENTS.shared.md`, *Delivery policy*) ne fondent un régime de protection spéciale pour les cinq fichiers bootstrap. L'Optimistic Locking prescrit l'inverse d'une bureaucratie d'exception : des commits directs et atomiques sur la branche canonique, sans branche, geste d'approbation ni cérémonie de révision pour un travail borné et de risque mesuré ; une branche ou un geste de protection doivent se justifier par un bénéfice concret, jamais par une prudence générique ou un état d'âme. Le statut « artefact historique » des fichiers 00-04 décrit leur origine et leur ancienneté relative dans le Corpus ; il ne leur confère aucune immunité éditoriale. Réviser `00-ouverture.md` quand une lecture du Corpus ou une instruction de l'issue le justifie n'est donc pas une entorse ponctuelle à documenter comme telle : c'est le fonctionnement normal du Corpus. Seule reste nécessaire — et elle l'est pour tout fichier, bootstrap ou non — la traçabilité ordinaire : provenance mise à jour, historique git, pas de réécriture silencieuse qui dissimulerait ce qui a changé.
+
 ## Édition n°0 — bootstrap historique
 
-Les cinq fichiers actuels constituent désormais l'**édition bootstrap historique**. Ils restent utiles et traçables, mais ne définissent plus l'architecture canonique de long terme. Leur but premier était d'exercer la chaîne complète :
+Les cinq fichiers actuels constituent l'**édition bootstrap historique** : ce nom décrit leur ancienneté et leur fonction d'origine, pas un statut protégé. Ils ne définissaient déjà plus, avant même la correction de doctrine ci-dessus, l'architecture canonique de long terme — cela ne les rendait pas non plus intouchables, seulement moins structurants pour la suite. Leur but premier était d'exercer la chaîne complète :
 
 ```text
 sources
@@ -87,6 +93,45 @@ sources
 ```
 
 Elle est structurée en cinq fichiers : ouverture, Marie-Louise, fermeture des possibles, Machine à Empêcher, réalisation de l'impossible.
+
+## Chapitres additionnels — édition anniversaire du 17 septembre 2026 (#75)
+
+Quatre chapitres supplémentaires, rédigés pour le contrat minimal de l'édition anniversaire (issue #75), complètent le manuscrit sans renuméroter ni réécrire les cinq fichiers bootstrap :
+
+- [`05-machine-a-rendre-capable-de-vivre.md`](manuscript/05-machine-a-rendre-capable-de-vivre.md) — hypothèse-limite Machine à Empêcher de Vivre / Machine à Rendre Capable de Vivre ;
+- [`06-vivre-transmettre.md`](manuscript/06-vivre-transmettre.md) — changement d'échelle vivre → se projeter → transmettre, fécondité et projection intergénérationnelle ;
+- [`07-corse-capacite-dormante.md`](manuscript/07-corse-capacite-dormante.md) — fatalisme, capacité dormante, seuil et réactivation, réactance et révolte, histoire longue corse, source antique sur les esclaves corses ;
+- [`08-hypotheses-non-resolues.md`](manuscript/08-hypotheses-non-resolues.md) — liste visible des hypothèses non résolues et gate épistémique de l'édition.
+
+Ces chapitres restent `status: draft`, non revus, et doivent encore recevoir une revue contradictoire avant toute clôture d'édition.
+
+Un cinquième chapitre a été ajouté après coup, en cours de rédaction, et non prévu par le sommaire initial de l'issue #75 :
+
+- [`09-test-invariance-echelle.md`](manuscript/09-test-invariance-echelle.md) — première instanciation du test d'invariance capacitaire (`architecture.md`, §14) à partir de cas effectivement documentés dans `memory/marie-louise/possible_matrix.md`, mis en regard de matériau territorial corse.
+
+Cet ajout illustre volontairement la doctrine de [`research/agile.md`](../../research/agile.md) : le sommaire d'une édition est révisable par le Corpus lui-même en cours de rédaction, plutôt que déroulé jusqu'au bout indépendamment de ce que la relecture des sources fait apparaître. Les chapitres 5 et 7 ont été légèrement amendés en conséquence, avec renvoi explicite vers ce nouveau chapitre.
+
+Un sixième chapitre poursuit la même recherche d'invariants dans le matériau territorial contemporain :
+
+- [`10-stabilisateur-et-capacite-distribuee.md`](manuscript/10-stabilisateur-et-capacite-distribuee.md) — introduit la fonction de Stabilisateur procédural (absente des chapitres 3-4), rapproche le test territorial `Follow the Power` de l'écart entre statut électoral formel et influence effective de Marie-Louise, et relie la règle du petit Act borné (chapitre 4) à son instanciation concrète `#1755-01`.
+
+Le chapitre 8 (hypothèses non résolues) a été mis à jour en conséquence.
+
+Un septième chapitre rapproche un mécanisme institutionnel déjà nommé dans le Corpus territorial d'un épisode précis du dossier Marie-Louise :
+
+- [`11-impunite-par-obscurite.md`](manuscript/11-impunite-par-obscurite.md) — met en regard `research/autonomia/impunite_par_obscurite_cas_corse.md` (dilution des responsabilités, fonds européens, agences et offices de Corse) et le rejet procédural du 27 septembre 2024 de la requête électorale 2024-6309 AN, comme deux instances d'un même mécanisme sans auteur unique, en marquant explicitement que ce rejet est postérieur au décès et ne doit jamais entrer dans une reconstruction causale de l'été 2024.
+
+Un huitième chapitre assume une méthode différente : la lecture flottante, non dirigée par une hypothèse préalable.
+
+- [`12-carnet-de-serendipite.md`](manuscript/12-carnet-de-serendipite.md) — consigne deux trouvailles non cherchées : un rapprochement strictement littéraire et onomastique entre l'épisode Ophéline/Ophélia (`research/opheline_ophelia_pertitellu_genesis.md`) et le motif de l'eau déjà présent dans *Le dieu de l'eau* (2008), explicitement délesté de toute portée biographique ; et l'apport de `research/bien_vivre.md` comme définition positive manquante aux chapitres 5 et 6.
+
+## Épigraphes en proverbes corses (issue #75, commentaires du 15 septembre 2026)
+
+Six proverbes corses sourcés sont désormais employés comme épigraphes dans les chapitres 6, 7, 9, 10 et 12, avec un septième réservé à la clôture (chapitre 12, haute sensibilité, encadré explicitement) :
+
+- [`13-proverbes-epigraphes.md`](manuscript/13-proverbes-epigraphes.md) — appareil de sourcing complet (forme corse, traduction, équivalent, source, fonction, niveau de sensibilité), trace du trio structurel prioritaire (Empêcher / Résister / Explorer), et liste explicite des proverbes volontairement non retenus pour cette édition, dont les trois proverbes sur la mort classés à haute sensibilité par l'issue elle-même et non employés faute de revue éditoriale explicite.
+
+La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulurati hè a più bella*) a été renforcée : elle n'appuie plus sur ce seul proverbe, mais sur trois registres indépendants et non concertés — proverbial corse, doctrine possibiliste déjà stabilisée dans le Corpus (`research/le_reel_le_virtuel_et_l_actuel.md`, §9.5 et §14.7, qui répond déjà à l'objection « injonction cruelle »), et tradition chrétienne (Béatitudes, 2 Corinthiens 6, 10 — introduite ici pour la première fois, sans généalogie antérieure dans le Corpus). Objectif explicite : neutraliser toute lecture d'insensibilité par convergence de sources indépendantes plutôt que par un argument unique.
 
 ## Architecture d'enquête v2
 
@@ -144,6 +189,6 @@ Point de reprise :
 - architecture courante : [`architecture.md`](architecture.md) ;
 - trois continuations immédiates déjà enregistrées dans cette architecture et dans le présent README ;
 - aucune de ces continuations n'est réputée exécutée ;
-- les cinq fichiers de `manuscript/` restent les artefacts historiques de l'édition bootstrap.
+- les cinq fichiers de `manuscript/` restent les artefacts historiques de l'édition bootstrap, révisables comme tout autre fichier du Corpus si le travail en cours le justifie (voir la correction de doctrine ci-dessus).
 
 La reprise doit donc partir de l'architecture v2 et non restaurer implicitement l'ancien plan bootstrap.
