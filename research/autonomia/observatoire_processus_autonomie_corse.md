@@ -150,16 +150,20 @@ navette nécessaire jusqu’à adoption d’un texte identique
 [conditionnel]
 aboutissement de la révision constitutionnelle
         ↓
-élaboration / adoption du cadre organique applicable
+élaboration du projet de statut dans le cadre organique
+        ↓
+avis de l’assemblée délibérante
         ↓
 consultation des électeurs si la rédaction correspondante survit
+        ↓
+suite de la procédure organique et contrôles applicables
         ↓
 mise en œuvre
         ↓
 évaluation des capacités effectivement produites
 ```
 
-Cette Carte simplifie nécessairement le droit constitutionnel et les choix politiques futurs. Elle doit toujours être lue avec les textes primaires et les documents spécialisés.
+Cette Carte simplifie nécessairement le droit constitutionnel et les choix politiques futurs. Elle doit toujours être lue avec les textes primaires et les documents spécialisés. En particulier, les modalités exactes et l’ordre procédural du futur statut organique devront être corrigés à mesure que les textes correspondants seront publiés.
 
 ### Point de contrôle central
 
