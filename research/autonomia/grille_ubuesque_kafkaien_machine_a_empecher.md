@@ -1,7 +1,7 @@
 ---
 title: Ubuesque, kafkaïen et Machine à Empêcher
 subtitle: Grille possibiliste de lecture des configurations absurdes
-version: '0.2'
+version: '0.3'
 date: '2026-09-15'
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
@@ -75,6 +75,9 @@ Le document peut être lu sans connaissance préalable du reste du Corpus. Les d
 
 **Reality Test.** Un **Reality Test** est une expérience ou une action bornée destinée à confronter une hypothèse au Réel et à observer sa réponse, y compris lorsque cette réponse invalide l’hypothèse, révèle un effet secondaire ou oblige à corriger la Carte.  
 → [Corse Laboratoire](corse_laboratoire.md)
+
+**Expérience / Projet #1755.** **#1755** est un Reality Test contemporain prenant pour objet la séquence constitutionnelle corse 1729–1755. Il ne cherche pas à décréter une conclusion historique : il teste la capacité actuelle des acteurs du projet à produire un dossier vérifiable, à le faire examiner par des tiers et, éventuellement, à obtenir une reconnaissance précisément qualifiée. Les faits historiques, les interprétations historiographiques, les hypothèses d’influence et les résultats du test contemporain restent séparés. Un tableau de bord public distingue ce qui est seulement envisagé de ce qui est réellement préparé, exécuté et obtenu.  
+→ [Projet #1755 — dossier source](projet_1755.md) · [Tableau de bord public #1755](1755.md) · [Act #1755-01 — vérification archivistique du manuscrit](act_1755_01_verification_manuscrit.md)
 
 **Machine à Explorer.** Une **Machine à Explorer** est un dispositif humain, institutionnel ou technique qui cherche des configurations et transformations possibles, formule des hypothèses et organise des essais. Découvrir un chemin ne signifie pas encore être capable de l’emprunter.  
 → [Corse Laboratoire](corse_laboratoire.md)
@@ -529,6 +532,8 @@ C’est le passage de la satire à l’Exploration rationnelle et joyeuse du Pos
 La comparaison 1755/2026 peut éclairer des différences de capacité, de reconnaissance et d’effectivité.
 
 Elle ne justifie pas d’appliquer rétroactivement les adjectifs ubuesque ou kafkaïen aux acteurs du XVIIIe siècle.
+
+**Dans cette grille, #1755 n’est donc pas utilisé comme preuve historique ni comme satire rétrospective : il fournit un exemple de Reality Test où une hypothèse historiographique et la capacité contemporaine à la documenter sont volontairement distinguées.**
 
 L’usage de la grille est contemporain et interprétatif ; l’histoire fournit des termes de comparaison capacitaire, non des personnages à enrôler dans une satire actuelle.
 
