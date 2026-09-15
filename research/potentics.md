@@ -645,6 +645,7 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 - [Parked: External review of Potentics v1.0-rc1 received — human arbitration pending](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00024.md)
 - [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
 - [Quand le Réel répond](quand_le_reel_repond_pkd.md)
+- [Reactive Corpus semantic propagation: Learning Computer genesis, Trace primitive, and RAIX array cascades](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00055.md)
 - [Research Index — barons-Mariani](index.md)
 - [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
 - [Rossignol — the donkey who questions Reality](rossignol.md)
