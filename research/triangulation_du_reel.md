@@ -4,7 +4,7 @@ subtitle: Croiser des accès partiels, indépendants et hétérogènes pour cons
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-06'
-version: '0.3'
+version: '0.4'
 status: working-note — explicititation of latent corpus principle
 language: fr
 license: CC BY-SA 4.0
@@ -30,6 +30,8 @@ tags:
   - traces
   - objectivite
   - faillibilisme
+  - parcimonie-causale
+  - hypotheses-concurrentes
   - seconde-methode
 classification_source: cogentia.js
 classification_version: '1'
@@ -116,6 +118,41 @@ Carte_0 -> triangulation -> correction -> Carte_1 -> nouvelle triangulation -> .
 
 Cette convergence est un **processus**, non un certificat de vérité.
 
+### 4.1 Parcimonie causale et escalade des hypothèses
+
+La triangulation ne sert pas seulement à établir des faits ; elle sert aussi à départager des **explications concurrentes** d'un même ensemble de traces.
+
+Lorsqu'une observation peut recevoir plusieurs explications causales, la méthode ne doit privilégier ni l'explication la plus rassurante, ni la plus accusatoire, ni celle qui correspond le mieux à une intuition préalable. Elle doit conserver plusieurs hypothèses et rechercher les observations capables de les discriminer.
+
+Le **rasoir de Hanlon** fournit ici un mnémonique utile : ne pas attribuer à la malveillance ce qui peut être suffisamment expliqué par une erreur, une incompréhension ou une défaillance ordinaire. La formule n'est pas une loi du Réel et ne permet jamais d'exclure par principe l'intention, la stratégie ou la coordination. Elle impose seulement de ne pas les postuler lorsque des mécanismes plus simples rendent déjà compte des observations.
+
+Une échelle pratique d'escalade peut être utilisée :
+
+```text
+accident / erreur matérielle / bruit
+-> incompréhension / incompétence locale
+-> désorganisation / cloisonnement / inertie institutionnelle
+-> négligence ou incitation systémique
+-> stratégie délibérée d'un acteur
+-> coordination concertée entre plusieurs acteurs
+```
+
+Cette échelle n'est ni morale ni automatique. Un niveau supérieur peut être établi directement si une trace fiable le démontre. En l'absence d'une telle trace, on ne monte dans l'échelle que lorsque les niveaux plus simples échouent à expliquer de manière satisfaisante les observations disponibles.
+
+Pour chaque hypothèse forte, demander :
+
+- quelles observations explique-t-elle que les hypothèses plus simples n'expliquent pas ?
+- quelle trace spécifique devrait exister si elle était vraie ?
+- quelle observation permettrait de l'affaiblir ou de l'abandonner ?
+- plusieurs anomalies supposées indépendantes partagent-elles en réalité une même cause banale ?
+- la convergence observée vient-elle de voies réellement indépendantes ?
+
+Une absence de réponse, une réponse incomplète, une erreur administrative ou une chronologie surprenante peuvent devenir des **traces à conserver** ; elles ne deviennent pas, par elles-mêmes, la preuve d'une intention cachée.
+
+> **Établir d'abord ce qui s'est produit ; comparer ensuite les explications ; n'escalader vers l'intention que lorsque les traces l'exigent.**
+
+Cette discipline protège simultanément contre deux erreurs symétriques : la paranoïa, qui surinterprète des anomalies ordinaires, et la naïveté, qui refuse d'envisager une action délibérée même lorsque les traces convergent vers elle.
+
 ## 5. Le gros « mais » : Black Swan et monde ouvert
 
 Une convergence, même remarquable, reste faillible. Les observations passées peuvent toutes être compatibles avec une carte et une observation nouvelle révéler brutalement qu'elle était incomplète ou que son domaine de validité était beaucoup plus étroit qu'on ne le croyait.
@@ -161,3 +198,5 @@ Cette discipline complète la provenance, le versionnage, la contradiction, la r
 > **La triangulation successive peut faire converger des cartes de mieux en mieux ajustées au Réel, sans jamais transformer cette convergence en garantie contre une réponse radicalement nouvelle du Réel.**
 
 > **Trianguler pour converger ; rester corrigible parce que le Réel peut encore surprendre.**
+
+> **Établir d'abord ce qui s'est produit ; comparer ensuite les explications ; n'escalader vers l'intention que lorsque les traces l'exigent.**
