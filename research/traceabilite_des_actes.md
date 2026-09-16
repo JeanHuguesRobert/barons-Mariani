@@ -1,11 +1,11 @@
 ---
 title: Traçabilité des actes
 subtitle: Mandat, imputabilité et contrôle des actes engageants dans les régimes humains, institutionnels et algorithmiques
-author: Jean Hugues Noël Robert
+author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-05-27'
 status: working-paper — operational research version validated after reviewer critique
-version: 0.15.1-research
+version: 0.15.2-research
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md
 ai_assisted_by:
@@ -41,6 +41,7 @@ version_history:
   - v0.14-research — genre separation; campaign formulas moved to separate annex
   - v0.15-research — operational revision after Grok review, with clearer thresholds and concrete YAML examples
   - 'v0.15.1-research — micro-amendment: reviewer role clarified, no v0.16-research needed before publication'
+  - 'v0.15.2-research — trace négative reliée à la doctrine de parcimonie causale et d’escalade des hypothèses de Triangulation du Réel (§4.1).'
 last_stamped_at: 2026-06-01T00:00:00.000Z
 document_role: source
 document_kind: research-paper
@@ -159,6 +160,10 @@ Une **trace négative** ne prouve pas, par elle-même, une faute ni une intentio
 Sa fonction est de rendre observable l’absence de suite, sans transformer le silence en culpabilité. Elle doit préciser : la demande initiale, son destinataire, la date, le délai raisonnable retenu, les relances éventuelles, la réponse reçue ou son absence, ainsi que la continuation proposée.
 
 La trace négative empêche que l’absence d’acte, d’explication ou de correction soit absorbée sans mémoire dans une chaîne institutionnelle. Elle est donc un instrument de vigilance et d’imputabilité, non un verdict.
+
+L’interprétation causale d’une trace négative relève de la doctrine de **parcimonie causale et d’escalade des hypothèses** formulée dans [`Triangulation du Réel`, §4.1](triangulation_du_reel.md#41-parcimonie-causale-et-escalade-des-hypothèses). Une absence de réponse, une réponse incomplète ou une anomalie conservée comme trace ne doit donc pas être convertie directement en intention : il faut comparer les explications concurrentes et n’escalader vers une hypothèse intentionnelle ou concertée que lorsque les traces l’exigent.
+
+> **Tracer l’anomalie n’est pas expliquer sa cause.**
 
 ### 3.2 Imputabilité
 
@@ -357,7 +362,6 @@ Ce régime exige un rattachement clair entre le système, le mandat, l’opérat
 Acte résultant d’une chaîne mixte : humain, personne morale, procédure, IA, registre, publication.
 
 Ce régime est probablement le plus courant dans les organisations contemporaines et le plus exposé à la dilution de responsabilité.
-
 ---
 
 ## 10. Schéma minimal de traçabilité
@@ -492,7 +496,7 @@ Le document propose des normes plus qu’il ne démontre des faits.
 ```yaml
 continuation:
   document: "traceabilite_des_actes.md"
-  version: "0.15.1-research"
+  version: "0.15.2-research"
   status: "operational_research_version_validated_after_reviewer_critique"
   roles:
     author_human: "Jean Hugues Noël Robert"
