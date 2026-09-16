@@ -93,6 +93,18 @@ sources:
     required: false
     note: "Working derived projection of the human-readable matrix; schema: JeanHuguesRobert/cogentia/schemas/possible-matrix.v0.schema.json. Do not treat as an independent authority."
 
+  - id: marie-louise-portes-controles-epistemiques
+    path: memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    role: research-matrix
+    required: true
+    note: "2026-09-16 note; anti-certainty rule, contested Nantes-2017 motivation (father vs Ferdinand Pancrazi, unresolved), summer-2024 candidate open doors (godfather, Villa Arson, unpaid commission, all UNKNOWN), and the perceived-reliability-of-a-possible variable. Constrains chapters 5 and 8 of the anniversary edition."
+
+  - id: triangulation-du-reel
+    path: research/triangulation_du_reel.md
+    role: methodological-source
+    required: true
+    note: "Section 4.1 (added 2026-09-16): causal parsimony / Hanlon's razor escalation ladder. Grounds why the Machine à Empêcher framing (ouverture, chapter 11) never escalates to personal accusation without proportionate evidence."
+
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source

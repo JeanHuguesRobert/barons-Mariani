@@ -21,7 +21,6 @@ provenance:
     - research/opheline_ophelia_pertitellu_genesis.md
     - research/bien_vivre.md
     - research/le_reel_le_virtuel_et_l_actuel.md
-    - memory/marie-louise/works/le_dieu_de_leau_2008.md
     - memory/marie-louise/carte.md
     - "Matthieu 5, 4 ; 2 Corinthiens 6, 10"
 review:

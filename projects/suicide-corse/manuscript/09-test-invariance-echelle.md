@@ -89,6 +89,8 @@ friction prolongée et documentée
 
 **Ce qui ne survit pas.** La nature des buffers change radicalement d'échelle : à l'échelle individuelle, ce sont des ressources concrètes et datables (une bourse, un statut). À l'échelle collective, ce sont des structures diffuses (réseaux, mémoire, diaspora) dont l'existence même est plus difficile à dater et à quantifier. Un buffer territorial n'est pas la somme de buffers individuels ; il peut exister alors qu'aucun individu pris isolément n'en dispose.
 
+**Ce cas ne doit pas être confondu avec un autre débat Nantes, distinct.** Ce paragraphe concerne uniquement la friction administrative de décembre 2017 (frais de scolarité). Il ne prend pas parti sur la question, distincte et non tranchée par ce Corpus, de savoir pourquoi Marie-Louise avait rejoint Nantes en premier lieu — le chapitre 8 documente deux hypothèses concurrentes et contemporaines sur ce point, non départagées.
+
 ## Un troisième cas, laissé ouvert : la résilience de canal
 
 > *Per centu strade si và à Roma.* — Tous les chemins mènent à Rome. (source : *Pruverbii di Corsica*, voir chapitre 13)
