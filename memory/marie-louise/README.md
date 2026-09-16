@@ -43,6 +43,7 @@ Ce répertoire rassemble des traces documentaires concernant **Marie-Louise Isab
 - [`elections/`](elections/) — histoire électorale documentée 2017–2024 : suppléance, candidatures titulaires, sénatoriales 2020, bulletins, noms publics et traces de campagne.
 - [`elections-2024-complaints.md`](elections-2024-complaints.md) — candidature aux législatives de 2024, plaintes du 5 juillet 2024, transmissions institutionnelles et décision n° 2024-6309 AN du Conseil constitutionnel.
 - [`possible_matrix.md`](possible_matrix.md) — Reality Case longitudinal : ouvertures, maintiens, frictions, fermetures, réouvertures et charges.
+- [`2024_portes_et_controles_epistemiques.md`](2024_portes_et_controles_epistemiques.md) — note de travail sur les portes ouvertes/fermées/réouvertes, la candidature de mars 2024, les inconnues de l'été 2024 et les contrôles anti-certitude / anti-biais de confirmation.
 
 ## Articulation institutionnelle
 
