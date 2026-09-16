@@ -18,6 +18,7 @@ provenance:
   origin_date: '2026-09-07'
   derived_from:
     - memory/marie-louise/carte.md
+    - memory/marie-louise/2024_portes_et_controles_epistemiques.md
     - 'GitHub issue #42'
     - 'GitHub issue #43'
     - 'GitHub issue #75, commentaire du 2026-09-15T20:44:24Z — contrat de lecture à deux échelles'
@@ -39,6 +40,26 @@ Ce livre commence par une personne et par une absence.
 Marie-Louise Isabelle Garance Robert est morte par suicide le 17 septembre 2024. Ce fait est établi. Ce qui l'a conduite à cet acte ne peut pas être réduit honnêtement à une histoire simple, ni reconstruit à partir de ce que nous savons aujourd'hui comme si tout avait été écrit d'avance.
 
 L'enquête part donc d'une discipline plus modeste : retrouver les traces, distinguer ce qu'elles établissent de ce qu'elles suggèrent, faire apparaître les inconnues et accepter que certaines questions restent ouvertes.
+
+## Pourquoi cette enquête
+
+Cette enquête ne promet ni une explication unique, ni un responsable unique, ni la reconstitution impossible de ce que Marie-Louise pensait ou aurait voulu. Elle cherche plutôt à examiner, à chaque étape documentable, quelles protections, relations, informations, institutions ou possibilités auraient pu maintenir ou rouvrir une capacité de vivre.
+
+Elle applique une règle anti-certitude : plus une conclusion paraît certaine, plus l’enquête doit documenter ce qui pourrait la rendre fausse. Elle recherche donc les portes ouvertes ou réouvertes, les capacités encore exercées, les contre-exemples et les explications concurrentes avec la même énergie que les fermetures et les empêchements. Ni l’existence de causes multiples, ni l’insuffisance actuelle des traces ne permettent de conclure automatiquement à l’absence de toute contribution causale particulière ; inversement, aucune difficulté documentée ne suffit à établir une causalité totale.
+
+Son but est double : comprendre ce qui aurait peut-être permis d’éviter l’issue tragique, et transformer cette recherche en connaissances susceptibles d’aider à prévenir des situations analogues. Enquêter ainsi, c’est refuser que la mort de Marie-Louise soit sans suite pour les vivants — sans lui prêter après coup une mission qu’aucune trace ne lui attribue.
+
+Cette enquête a aussi une portée collective et se veut un travail d’intérêt général : une enquête personnelle et territoriale destinée à produire des connaissances utiles à la prévention, à la capacité de vivre, à la traçabilité des actes engageants et à l’imputabilité des pouvoirs exercés sur autrui.
+
+Cette dernière exigence vise les mandataires — institutions, personnes morales, responsables ou systèmes agissant pour autrui — lorsqu’ils exercent un pouvoir capable d’affecter des vies. Des traces proportionnées doivent relier le mandat, l’acte, ses effets et un répondant identifiable, afin de permettre une contestation, une correction et, si nécessaire, une reddition de comptes. Sans traces suffisantes, un dépassement éventuel de mandat devient difficile à établir ; l’imputabilité s’affaiblit et l’obscurité peut protéger indûment les responsables.
+
+Cette exigence ne justifie aucune surveillance générale des citoyens ni aucune atteinte gratuite à la vie privée. Le corpus personnel qu’une personne choisit de constituer pour sa propre mémoire ou pour son jumeau numérique personnel relève d’un autre régime, sous son contrôle. Ici, les traces recherchées concernent les actes engageants de mandataires, à proportion de leur pouvoir et de leurs effets.
+
+Cette finalité peut imposer d’examiner des faits familiaux, institutionnels ou relationnels que la formule « laver son linge sale en famille » inviterait à taire. Mais elle n’autorise ni le déballage indifférencié, ni l’accusation, ni l’exposition gratuite : ne sont retenus que les éléments nécessaires à l’enquête, avec leur source, leur degré de vérification, leurs hypothèses concurrentes et leurs inconnues.
+
+*Suicide Corse* n’est pas une œuvre figée. C’est une carte provisoire et un appel prudent à contributions : témoignages contextualisés, documents, contradictions et informations susceptibles de compléter ou de corriger ce que le Corpus croit savoir sur la mort de Marie-Louise, les difficultés vécues en Corse et les capacités qui auraient pu être ouvertes. Toute contribution doit être qualifiée, datée, consentie, et distinguée entre trace, témoignage, fait, hypothèse et inconnu ; elle peut aussi contredire l’enquête. Une contribution n’a pas à être rendue publique pour être examinée : son régime de confidentialité et sa publication éventuelle demandent un consentement et une décision distincts.
+
+Les chapitres qui suivent sont déjà une projection de recherche à partir des traces et documents bruts du Corpus ; ils ne sont ni ces sources, ni l’édition définitive. Une pipeline éditoriale distincte les traitera à nouveau lors de l’édition proprement dite. Une nouvelle trace peut donc corriger le Corpus, le Corpus corriger les chapitres, et les chapitres être recomposés dans une édition ultérieure.
 
 ## Le contrat de lecture : une enquête à deux échelles
 

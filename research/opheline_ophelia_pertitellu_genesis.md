@@ -10,6 +10,8 @@ language: fr
 source_status: mixed-primary-and-retrospective
 related_repositories:
   - JeanHuguesRobert/pertitellu
+  - JeanHuguesRobert/survey
+  - JeanHuguesRobert/inseme
   - JeanHuguesRobert/cogentia
   - JeanHuguesRobert/JeanHuguesRobert
 related_topics:
@@ -98,6 +100,12 @@ Ophélia n’est pas Ophéline numérisée, ne parle pas en son nom et ne préte
 Dès le 4 novembre 2025, le wiki du Pertitellu décrit Ophélia comme l’« assistante civique IA » qui utilise le wiki comme sa « mémoire » pour répondre aux citoyens.
 
 Ce qui devait initialement reposer largement sur la disponibilité d’une personne — écouter, expliquer, rendre le projet accessible, aider à interroger la vie municipale — commence alors à devenir une **capacité persistante de l’organisation**.
+
+## Une lignée historique de plateformes, non une migration technique établie
+
+Les dépôts ultérieurs conservent cette continuité sous des formes distinctes : `JeanHuguesRobert/survey` se présente comme la plateforme historique d’Ophélia et des outils de consultation civique ; `JeanHuguesRobert/inseme` porte aujourd’hui une brique Ophélia intégrée à une plateforme plus large. Ces traces permettent de qualifier une lignée historique et fonctionnelle : Pertitellu → Ophélia → Survey/Ophélia → Inseme/Ophélia.
+
+Cette ligne ne démontre pas, à elle seule, une migration technique, un transfert exhaustif de code ou une identité complète entre plateformes. Elle conserve l’origine d’une fonction : rendre une médiation civique, une mémoire explicite et une capacité de participation disponibles sans confondre l’agent avec la personne dont l’indisponibilité avait rendu cette fonction fragile.
 
 ## Ce que cette bifurcation préfigure
 

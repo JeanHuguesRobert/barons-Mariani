@@ -33,6 +33,26 @@ review:
 
 Ce répertoire matérialise le projet éditorial comme une **projection réactive du Corpus**, et non comme une nouvelle source autonome de vérité.
 
+## Objet hybride et chaîne de projections
+
+*Suicide Corse* est un objet éditorial hybride.
+
+- Il est un **livre** : une édition narrative produite par ordinateur à partir d’un corpus de sources, de règles de projection et de traces qualifiées.
+- Il est aussi un **magazine d’enquête** : son *Journal de campagne contre l’impossible* a vocation à paraître selon une cadence hebdomadaire, pour signaler les changements depuis l’édition précédente — nouvelles traces, témoignages, contradictions, corrections, hypothèses abandonnées ou pistes ouvertes.
+
+Le journal hebdomadaire est un contrat de projection en préparation, non une publication déjà tenue. Sa première livraison reste à produire.
+
+Les chapitres présents dans `manuscript/` constituent déjà une projection de recherche : ils sélectionnent, organisent et rendent lisibles les traces et documents bruts du Corpus. Ils ne sont ni les sources elles-mêmes, ni la dernière forme du projet. Lors de l’édition proprement dite, ils seront à leur tour traités par une pipeline de production distincte, avec ses propres règles de sélection, de mise en forme, de rendu et de provenance.
+
+```text
+traces et sources brutes du Corpus
+→ projection de recherche : chapitres actuels
+→ pipeline éditorial distinct
+→ édition proprement dite : livre / magazine / formats rendus
+```
+
+La génération informatique ne délègue pas le jugement à la machine : elle rend reproductible la projection du Corpus. Les sources, leur niveau de preuve, les décisions éditoriales et les révisions restent explicitement traçables et humainement imputables. Une nouvelle trace peut corriger le Corpus, le Corpus corriger les chapitres, et les chapitres être recomposés dans une édition ultérieure.
+
 Le mouvement général est :
 
 ```text
@@ -123,7 +143,7 @@ Un septième chapitre rapproche un mécanisme institutionnel déjà nommé dans 
 
 Un huitième chapitre assume une méthode différente : la lecture flottante, non dirigée par une hypothèse préalable.
 
-- [`12-carnet-de-serendipite.md`](manuscript/12-carnet-de-serendipite.md) — consigne deux trouvailles non cherchées : un rapprochement strictement littéraire et onomastique entre l'épisode Ophéline/Ophélia (`research/opheline_ophelia_pertitellu_genesis.md`) et le motif de l'eau déjà présent dans *Le dieu de l'eau* (2008), explicitement délesté de toute portée biographique ; et l'apport de `research/bien_vivre.md` comme définition positive manquante aux chapitres 5 et 6.
+- [`12-carnet-de-serendipite.md`](manuscript/12-carnet-de-serendipite.md) — consigne deux trouvailles non cherchées : un cas d’écart entre information publiée et information effectivement accessible, issu de `research/opheline_ophelia_pertitellu_genesis.md`, et l’apport de `research/bien_vivre.md` comme définition positive manquante aux chapitres 5 et 6.
 
 ## Épigraphes en proverbes corses (issue #75, commentaires du 15 septembre 2026)
 
