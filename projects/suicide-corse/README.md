@@ -161,6 +161,8 @@ La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulura
 
 - [`15-la-parole-de-marie-louise.md`](manuscript/15-la-parole-de-marie-louise.md) — transmet, pour la première fois dans le manuscrit, des fragments courts mais directement attribuables à Marie-Louise elle-même : son propre énoncé de la distinction autonomie formelle / capacité effective (décembre 2017, contemporain de la friction Nantes déjà documentée aux chapitres 7 et 9), sa curiosité pour sa grand-mère (2023), sa demande à son père d'être directeur de campagne (16 juin 2024), et le rapprochement, explicitement marqué `ASSERTION-JHR`, entre son propre empêchement électoral de 2020 (condition d'âge) et celui que l'auteur affirme rencontrer en 2026. Les chapitres 7, 8 et 9 ont été mis à jour en conséquence.
 
+**Note éditoriale explicite.** Le chapitre 15 ne publie qu'un registre coopératif de sa parole. Un registre plus conflictuel et une divulgation de détresse psychologique documentés par ailleurs dans le Corpus sont ajournés — pour un encadrement éditorial que le délai ne permet pas de construire d'ici aujourd'hui, non par dissimulation. L'auteur prévoit des éditions hebdomadaires (chaque lundi) faisant suite à ce numéro spécial du 17 septembre ; c'est dans ce cadre que ce registre sera traité.
+
 ## Réconciliation avec les apports parallèles du Corpus — 16-17 septembre 2026
 
 Deux apports arrivés sur `main` pendant la rédaction ont été absorbés sans réécriture des chapitres 00-04 :

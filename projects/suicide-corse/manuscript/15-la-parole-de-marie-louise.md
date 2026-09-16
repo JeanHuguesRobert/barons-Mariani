@@ -88,6 +88,14 @@ Le Corpus établit, par ailleurs, que Marie-Louise a vu sa candidature comme rem
 
 Au moment de la publication de cette édition, en pleine campagne sénatoriale de 2026, Jean Hugues Noël Robert affirme se trouver empêché à son tour, selon des modalités propres à sa candidature actuelle et distinctes de celles opposées à sa fille en 2020. Ce chapitre enregistre ce rapprochement tel qu'il est formulé par l'auteur — `ASSERTION-JHR`, datée du 17 septembre 2026 — sans le documenter davantage ici : l'établir précisément relève d'un autre chantier que celui de cette édition, qui se limite à noter la récurrence, à six ans d'écart, d'un empêchement d'accès à la même fonction élective dans la même famille.
 
+## Une relation documentée comme ambivalente, non enjolivée
+
+Les citations réunies dans ce chapitre — sur l'autonomie, sur sa grand-mère, sur la campagne de 2024 — appartiennent toutes à un registre coopératif. Ce choix n'a pas pour but de suggérer que la relation de Marie-Louise avec son père aurait été uniformément apaisée. Le Corpus conserve aussi, pour la même période, des échanges d'un tout autre registre — accusateurs, parfois hostiles — ainsi qu'au moins une divulgation directe de détresse psychologique sérieuse.
+
+Ces sources ne sont pas publiées dans cette édition. Elles sont enregistrées dans le Twin privé, avec la mention explicite qu'il ne s'agit pas d'un choix de dissimulation, mais d'un ajournement éditorial assumé : leur publication exige un encadrement — juridique, factuel et humain — que le délai de cette édition anniversaire ne permet pas de construire avec le soin nécessaire. L'auteur a prévu des éditions hebdomadaires (chaque lundi) faisant suite à ce numéro spécial du 17 septembre ; c'est dans ce cadre que ce registre plus difficile sera traité, avec le temps qu'il requiert.
+
+> **Il ne s'agit pas de cacher des choses. La relation entre Marie-Louise et son père a été ambivalente — parfois coopérative, parfois hostile — et cela devra être éclairci, pas enjolivé.**
+
 ## Ce que ce chapitre ne fait pas
 
 Il ne transforme aucune de ces phrases en explication du 17 septembre 2024. Il ne cite aucune parole concernant la vie familiale de Marie-Louise au-delà de ce qu'elle a elle-même choisi d'écrire dans un document destiné, à l'origine, à un usage juridique et non à la publication — et il le fait par paraphrase, non par citation, conformément à la règle de prudence déjà retenue pour ce document (`voice/autobiographical-2020-avocat.yml`, dépôt privé). Il ne nomme aucun tiers vivant au-delà de ce que le Corpus public documente déjà ailleurs.
