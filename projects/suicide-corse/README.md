@@ -153,6 +153,10 @@ Six proverbes corses sourcés sont désormais employés comme épigraphes dans l
 
 La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulurati hè a più bella*) a été renforcée : elle n'appuie plus sur ce seul proverbe, mais sur trois registres indépendants et non concertés — proverbial corse, doctrine possibiliste déjà stabilisée dans le Corpus (`research/le_reel_le_virtuel_et_l_actuel.md`, §9.5 et §14.7, qui répond déjà à l'objection « injonction cruelle »), et tradition chrétienne (Béatitudes, 2 Corinthiens 6, 10 — introduite ici pour la première fois, sans généalogie antérieure dans le Corpus). Objectif explicite : neutraliser toute lecture d'insensibilité par convergence de sources indépendantes plutôt que par un argument unique.
 
+## Texte intégral d'une œuvre source — 17 septembre 2026
+
+- [`14-le-dieu-de-leau-texte-integral.md`](manuscript/14-le-dieu-de-leau-texte-integral.md) — reproduit intégralement, pour la première fois dans le manuscrit lui-même (et non seulement comme source liée), *Le dieu de l'eau* (2008) et le mail original par lequel Marie-Louise l'a transmis à son père. Publication déjà autorisée le 8 septembre 2026 (`memory/marie-louise/works/le_dieu_de_leau_2008.md`). Le chapitre 01 (bootstrap) ne faisait jusqu'ici que mentionner cette œuvre sans la reproduire.
+
 ## Réconciliation avec les apports parallèles du Corpus — 16-17 septembre 2026
 
 Deux apports arrivés sur `main` pendant la rédaction ont été absorbés sans réécriture des chapitres 00-04 :
