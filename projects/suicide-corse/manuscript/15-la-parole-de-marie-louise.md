@@ -96,6 +96,16 @@ Ces sources ne sont pas publiées dans cette édition. Elles sont enregistrées 
 
 > **Il ne s'agit pas de cacher des choses. La relation entre Marie-Louise et son père a été ambivalente — parfois coopérative, parfois hostile — et cela devra être éclairci, pas enjolivé.**
 
+## Le dernier mot rapporté, et *Les Amis de Malou*
+
+Ce chapitre doit mentionner, avec une prudence maximale, la trace la plus proche d'un dernier mot de Marie-Louise dont ce Corpus dispose.
+
+Jean Hugues Noël Robert rapporte qu'un gendarme, lors de son audition à Corte après la mort de Marie-Louise, lui a montré à l'écran une note retrouvée dans la pièce où elle est morte, dans laquelle elle aurait écrit donner ses œuvres à ceux de ses amis qui les voudraient.
+
+Ce chapitre en dit toute l'incertitude aussi précisément que le fait : à ce stade, **seul l'auteur témoigne de l'existence et du contenu rapporté de cette note.** Elle est détenue par la gendarmerie de Vence, chargée de l'enquête sur la mort de Marie-Louise ; elle n'a pas été récupérée par le Corpus ; son libellé exact, son authenticité et sa portée juridique restent à établir. Ce chapitre ne la restitue donc pas comme parole directe de Marie-Louise — seulement comme témoignage rapporté, daté et attribué à une seule source.
+
+C'est cette note qui a fait naître, dans l'esprit de l'auteur, l'idée d'un fonds de dotation destiné à respecter ce vœu rapporté : **Les Amis de Malou**. Ce fonds est en cours de constitution au moment de cette édition. Il ne doit pas être présenté comme un mécanisme que Marie-Louise aurait elle-même choisi — seule l'intention rapportée (donner ses œuvres à ses amis) lui est attribuée ; le fonds de dotation est une réponse curatoriale de l'auteur à cette intention, à mettre en œuvre sous réserve de faisabilité juridique et de la récupération de la pièce primaire.
+
 ## Ce que ce chapitre ne fait pas
 
 Il ne transforme aucune de ces phrases en explication du 17 septembre 2024. Il ne cite aucune parole concernant la vie familiale de Marie-Louise au-delà de ce qu'elle a elle-même choisi d'écrire dans un document destiné, à l'origine, à un usage juridique et non à la publication — et il le fait par paraphrase, non par citation, conformément à la règle de prudence déjà retenue pour ce document (`voice/autobiographical-2020-avocat.yml`, dépôt privé). Il ne nomme aucun tiers vivant au-delà de ce que le Corpus public documente déjà ailleurs.

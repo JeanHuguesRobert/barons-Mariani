@@ -163,6 +163,12 @@ La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulura
 
 **Note éditoriale explicite.** Le chapitre 15 ne publie qu'un registre coopératif de sa parole. Un registre plus conflictuel et une divulgation de détresse psychologique documentés par ailleurs dans le Corpus sont ajournés — pour un encadrement éditorial que le délai ne permet pas de construire d'ici aujourd'hui, non par dissimulation. L'auteur prévoit des éditions hebdomadaires (chaque lundi) faisant suite à ce numéro spécial du 17 septembre ; c'est dans ce cadre que ce registre sera traité.
 
+Le chapitre 15 mentionne également, avec la prudence maximale que son statut de témoignage unique impose, une note rapportée par l'auteur seul — retrouvée dans la pièce où Marie-Louise est morte, et qui serait à l'origine du fonds de dotation en cours de constitution **Les Amis de Malou**. La pièce primaire elle-même n'a pas été récupérée ; elle est détenue par la gendarmerie de Vence.
+
+Un dernier chapitre rassemble tous les chantiers volontairement laissés ouverts :
+
+- [`16-continuations.md`](manuscript/16-continuations.md) — reprend le concept de Continuation déjà employé ailleurs dans le Corpus (`architecture.md`, `cop-core`) : chaque chantier ouvert y porte sa propre condition de clôture explicite, plutôt qu'un simple « à approfondir ».
+
 ## Réconciliation avec les apports parallèles du Corpus — 16-17 septembre 2026
 
 Deux apports arrivés sur `main` pendant la rédaction ont été absorbés sans réécriture des chapitres 00-04 :
