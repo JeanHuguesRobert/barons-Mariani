@@ -25,6 +25,8 @@ provenance:
     - "Gmail:16026417e4fe45c2"
     - "Gmail:160277c953cf0d69"
     - "Gmail:1873c717b09e0dc8"
+    - "Gmail:16a2feb51857e1ed"
+    - "registre-mariani twin: works/catalog.yml, relationships/artistic-relatogram.md, legacy.md, rights-patrimony-legacy.md"
 review:
   status: unreviewed
   reviewed_by: []
@@ -65,6 +67,18 @@ et, en réponse à une lettre de son père qui appelle au calme :
 Ces trois phrases ne sont pas présentées ici pour établir un verdict sur cet échange précis, dont ce Corpus conserve aussi les réponses de son père. Elles sont transmises parce qu'elles formulent, dans le langage d'une jeune femme de dix-neuf ans en décembre 2017, exactement la distinction que ce livre emploie par ailleurs en langage doctrinal : une autonomie proclamée ne vaut que ce que valent les moyens effectifs de l'exercer. Personne, dans ce Corpus, ne formule cette distinction avec plus de force que Marie-Louise elle-même.
 
 Ce chapitre ne transforme pas cet échange en accusation contre quiconque : la règle de parcimonie causale posée dans l'ouverture s'applique ici comme ailleurs. Il transmet une parole, datée et sourcée, qui appartient à Marie-Louise et qui éclaire, depuis l'intérieur, un mécanisme que le reste du livre décrit depuis l'extérieur.
+
+## Une vie artistique et sociale, quelques repères
+
+L'enquête ne doit pas réduire Marie-Louise à ses difficultés documentées. Le Corpus établit aussi, sobrement, une vie étudiante et créative ordinaire : à Nantes, elle a vécu en colocation avec des camarades des Beaux-Arts, dans un logement dont le bail se transmet d'une étudiante à l'autre entre 2017 et 2019 — une chaîne d'entraide étudiante banale, mais réelle, que ce chapitre ne détaille pas nommément pour préserver la vie privée des personnes concernées, aujourd'hui adultes et non parties à ce livre.
+
+En avril 2021, une attestation professionnelle l'engage pour une résidence artistique et un tournage auprès de l'artiste Hugues Absil, à Saint-Laurent-le-Minier. Le titre du projet et ses productions restent à retrouver (chapitre 16).
+
+Le 18 avril 2019, jour de ses vingt et un ans, elle envoie à son père le lien d'une création vidéo avec ce commentaire :
+
+> **« Comme tu suis et tu me soutiens (pas) dans ce que je fais et deviens. »**
+
+Cette phrase, elle aussi, n'est pas lissée : elle porte une pointe de reproche autant qu'elle affirme une identité en construction — « ce que je fais et deviens » revient, presque mot pour mot, dans la formule déjà citée à propos de sa candidature politique. C'est la même Marie-Louise qui se définit par ce qu'elle fait, en art comme en politique.
 
 ## Une curiosité pour ce qui précède
 
