@@ -1197,6 +1197,7 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [De l’ordre juste à la Traçabilité des actes](genealogie_ordre_transparence_traceabilite.md)
 - [Démocratie capable](democratie_capable.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)

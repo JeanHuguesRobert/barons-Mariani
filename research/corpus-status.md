@@ -87,7 +87,7 @@ graph LR
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
   r_cogentia -->|116| r_barons_mariani
-  r_barons_mariani -->|89| r_cogentia
+  r_barons_mariani -->|88| r_cogentia
   r_jeanhuguesrobert -->|68| r_barons_mariani
   r_fractavolta -->|54| r_cogentia
   r_inseme -->|43| r_cogentia
@@ -654,10 +654,10 @@ graph LR
 | [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.5.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
 | [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
-| [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.12 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
+| [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.14 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
 | [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
-| [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.13 — premier test d'« autonomie de capacité » ; dashboard public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
-| [Autonomia — Journal du test 1755 (reconnaissance internationale de la République corse)](autonomia/1755.md) *(journal de bord public — produit dérivé de [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
+| [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.14 — dossier historique et Reality Test capacitaire ; tableau de bord public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
+| [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md) *(dashboard public v0.8 — actes, réponses, silences et enseignements du Reality Test ; distinct du document source [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
 | [Grammaire générative de l'Autonomie de Capacité (FR)](autonomia/grammaire_autonomie_de_capacite.md) *(méthode source v1.0 — produire réponses, programmes, discours et produits déclinés orientés « Une Corse capable »)* | this repo | 2026-05-27 |
 | [Atlas du paysage politique et discursif corse — Une Corse capable (FR)](autonomia/atlas_paysage_politique_corse.md) *(atlas v1.0-atlas — acteurs, terrains rhétoriques, axes de polarisation, formules de reconfiguration)* | this repo | 2026-05-27 |
 | [Actualisation de l'atlas du paysage politique corse — séquence parlementaire de juin 2026 (FR)](autonomia/atlas_paysage_politique_corse_actualisation_2026-06.md) *(working paper v0.1 — actualisation à intégrer dans l'atlas principal)* | this repo | 2026-06-06 |
@@ -725,7 +725,7 @@ graph LR
 | [PLU de Corte — Rapport OSINT provisoire sur Riacquistu Data-Driven (FR)](autonomia/plu_de_corte.md) *(enquête OSINT politique v0.5 — document source long pour publication ; statut explicitement exploratoire, non stabilisée doctrinalement)* | this repo | 2026-06-01 |
 | [Le théâtre des pays imaginaires de Corse — Fables sérieuses sur le processus de Beauvau (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau.md) *(produit décliné satirique et documentaire v0.1)* | this repo | 2026-05-28 |
 | [Le théâtre des pays imaginaires de Corse — version blogpost (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md) *(blogpost v0.1, dérivé du satirique)* | this repo | 2026-05-28 |
-| [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse (FR)](contribution_commission_lois_autonomie_capacite.md) *(version de travail v0.1, à relire avant envoi — dossier décliné en formats 1/2/4/8/16 pages)* | this repo | 2026-05-28 |
+| [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse (FR)](contribution_commission_lois_autonomie_capacite.md) *(v0.2 — contribution transmise le 28 mai 2026 et mentionnée dans le rapport n° 2865 ; influence causale précise non établie)* | this repo | 2026-05-28 |
 | [Note synthétique pour examen parlementaire — Autonomie de capacité de la Corse (FR)](note_synthetique_autonomie_capacite_corse.md) *(operational note v0.1 — proposition de finalité constitutionnelle)* | this repo | 2026-05-24 |
 | [Courrier public aux six parlementaires de Corse — Pour une autonomie de capacité réelle (FR)](courrier_public_six_parlementaires_corse.md) *(public letter v0.6)* | this repo | 2026-05-24 |
 | [Proposition constitutionnelle — autonomie de capacité de la Corse (FR)](proposition_constitutionnelle_autonomie_capacite_corse.md) *(constitutional proposal v0.1 — contribution à la rédaction du futur article 72-5)* | this repo | 2026-05-24 |

@@ -1673,9 +1673,11 @@ cognitive_packet:
 *These documents link to this file:*
 - [Autonomia](../autonomia.md)
 - [Barons Mariani](../../README.md)
+- [Concept Index — barons-Mariani](../concepts.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](corsica2038_contre_rapport_pruspettiva2050.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](1755.md)
 - [Research Index — barons-Mariani](../index.md)
+- [Ubuesque, kafkaïen et Machine à Empêcher](grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Concept Index — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)

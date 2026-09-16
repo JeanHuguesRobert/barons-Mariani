@@ -544,6 +544,7 @@ continuation:
 
 *These documents link to this file:*
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [De l’ordre juste à la Traçabilité des actes](genealogie_ordre_transparence_traceabilite.md)
 - [In deserto](in_deserto.md)
 - [La constitution minimale des communs](constitution_minimale_des_communs.md)
 - [La personne numérique mandatée](personne_numerique_mandatee.md)

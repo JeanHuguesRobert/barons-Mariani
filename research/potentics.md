@@ -688,5 +688,6 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 - [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
 - [Rossignol — the donkey who questions Reality](rossignol.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
+- [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
 <!-- END_AUTO: backlinks -->

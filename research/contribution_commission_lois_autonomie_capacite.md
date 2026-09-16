@@ -639,6 +639,7 @@ La liste suivante est conservée comme trace de l'état préparatoire du dossier
 
 *These documents link to this file:*
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
 - [Research Index — barons-Mariani](index.md)
 - [Interaction Packets — Tableau de bord (JHR)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md)
 <!-- END_AUTO: backlinks -->
