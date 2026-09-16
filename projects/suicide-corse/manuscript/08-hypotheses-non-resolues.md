@@ -20,6 +20,8 @@ provenance:
     - "GitHub issue #75"
     - projects/suicide-corse/corpus.yml
     - projects/suicide-corse/architecture.md
+    - memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    - research/triangulation_du_reel.md
 review:
   status: unreviewed
   reviewed_by: []
@@ -51,12 +53,16 @@ Aucune des lignes ci-dessous n'a le statut de `FACT`. Chacune reste au mieux une
 
 - **Suicide et causalité institutionnelle.** Que des empêchements institutionnels documentés aient contribué, et dans quelle mesure, à la trajectoire qui a mené au 17 septembre 2024 : non établi. Le chantier #47 porte spécifiquement cette question.
 - **État subjectif de Marie-Louise.** Ce qu'elle percevait comme accessible ou désirable, en particulier durant l'été 2024 : `UNKNOWN`, faute de trace directe suffisante. Aucune parole ni volonté posthume ne doit être fabriquée pour combler ce vide (règle Marie-Louise, voir [`README.md`](../README.md)).
-- **Été 2024.** La période reste un blanc documentaire (voir architecture v2, §4). Sa reconstruction à partir de traces primaires est un chantier ouvert, non un fait acquis.
+- **Été 2024.** La période reste un blanc documentaire (voir architecture v2, §4). Sa reconstruction à partir de traces primaires est un chantier ouvert, non un fait acquis. Une note de recherche du 16 septembre 2026 (`memory/marie-louise/2024_portes_et_controles_epistemiques.md`) identifie trois portes candidates encore non stabilisées durant cette période — un soutien recherché auprès de son parrain Ferdinand Pancrazi, une éventuelle demande de réintégration à la Villa Arson, un paiement de chantier artistique resté en attente — dont le contenu exact, la réponse reçue et l'effet subjectif restent `UNKNOWN`. Le Corpus doit aussi conserver explicitement l'hypothèse de portes ignorées, oubliées ou non reconstituables par le père.
+- **Motivation du choix de Nantes (2017).** Deux explications contemporaines concurrentes coexistent dans le Corpus — la proximité des jeunes sœurs (hypothèse paternelle réitérée) et un conflit récent avec la mère ayant conduit à un refuge à Nantes (hypothèse formulée par Ferdinand Pancrazi) — sans qu'aucune parole directe de Marie-Louise ne permette de départager les deux à ce stade. Cette édition ne tranche pas et traite leur coexistence comme un test de la capacité du Corpus à ne pas fermer prématurément deux cartes concurrentes.
+- **Agence encore exercée début 2024.** La même note documente, avec sources directes, une candidature de formation activement explorée en mars 2024 et une capacité politique et relationnelle encore exercée en juin 2024 (demande à son père d'être directeur de campagne). Ces éléments doivent être conservés comme contrôles contre toute reconstruction d'une fermeture linéaire et continue menant mécaniquement au 17 septembre.
 
 ## Sur les mécanismes proposés
 
 - **Machine à Empêcher de Vivre.** La chaîne complète, des empêchements documentés jusqu'au risque suicidaire, reste une hypothèse-limite. Aucune de ses flèches n'est validée pour le cas de Marie-Louise à ce stade.
+- **Fiabilité perçue d'un possible (chapitre 5).** Cette variable candidate — un possible peut rester objectivement et perceptiblement ouvert sans être investi si sa durabilité paraît douteuse — n'a été confrontée à aucune trace directe concernant Marie-Louise ; elle reste une hypothèse importée de la littérature sur la contrôlabilité, non une observation.
 - **Causalité entre pessimisme collectif et fécondité.** Que la contraction perçue de l'avenir contribue à la baisse de la fécondité, au-delà d'une corrélation de signaux convergents, reste non établi.
+- **Escalade causale et Machine à Empêcher.** L'ouverture applique désormais explicitement la parcimonie causale (`research/triangulation_du_reel.md`, §4.1) : aucune mise en cause d'un acteur, d'une institution ou d'un mécanisme délibéré n'est retenue dans cette édition tant qu'un niveau plus simple de l'échelle d'escalade (erreur, désorganisation, inertie ordinaire) suffit à expliquer les observations disponibles.
 
 ## Sur la Corse
 

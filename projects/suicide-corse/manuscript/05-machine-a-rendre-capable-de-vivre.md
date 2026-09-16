@@ -22,6 +22,7 @@ provenance:
     - projects/suicide-corse/manuscript/03-machine-a-empecher.md
     - projects/suicide-corse/manuscript/04-realiser-impossible.md
     - research/noyau_doctrinal_rendre_capable.md
+    - memory/marie-louise/2024_portes_et_controles_epistemiques.md
 review:
   status: unreviewed
   reviewed_by: []
@@ -61,6 +62,20 @@ Formulation de travail retenue pour ce chapitre :
 > La « Machine à Empêcher de Vivre » désigne le cas-limite où une contraction cumulative des capacités peut contribuer, dans certaines configurations, à réduire l'espace des futurs perçus comme à la fois accessibles et désirables, jusqu'à rendre la continuation de la vie subjectivement insupportable.
 
 Cette formulation ne prétend décrire Marie-Louise. Elle décrit un mécanisme candidat, applicable ou non selon ce que les traces permettent d'établir cas par cas. Il n'existe pas, à ce stade du Corpus, de traces directes suffisantes pour écrire que Marie-Louise « croyait tous les possibles fermés » : cette phrase resterait une inférence, pas un fait.
+
+## Une variable supplémentaire : la fiabilité perçue d'un possible
+
+Une note de recherche du 16 septembre 2026 (`memory/marie-louise/2024_portes_et_controles_epistemiques.md`) affine la chaîne ci-dessus d'une variable candidate qui ne s'y trouvait pas encore : une porte peut rester objectivement ouverte et même perçue comme ouverte, sans être pour autant investie, si le sujet anticipe qu'elle sera retirée, retardée, conditionnée ou rendue impraticable au moment voulu.
+
+```text
+A_eff = ouvert
+A_perçu = ouvert
+A_désirable = oui
+mais
+confiance dans la durabilité / convertibilité du possible = faible
+```
+
+Cette variable — la **fiabilité perçue** d'un possible, distincte de son ouverture et de sa désirabilité — doit être confrontée à la littérature sur la contrôlabilité, le `learned helplessness`, l'entrapment et les attentes futures avant d'être tenue pour autre chose qu'une hypothèse de travail. Elle ne doit pas être attribuée à Marie-Louise en l'absence de traces suffisantes : aucune trace disponible à ce jour n'établit qu'elle ait perçu telle ou telle porte précise comme peu fiable plutôt que simplement fermée ou ouverte.
 
 ## Ne pas confondre l'espace objectif et l'espace perçu
 

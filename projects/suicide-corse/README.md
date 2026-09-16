@@ -153,6 +153,13 @@ Six proverbes corses sourcés sont désormais employés comme épigraphes dans l
 
 La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulurati hè a più bella*) a été renforcée : elle n'appuie plus sur ce seul proverbe, mais sur trois registres indépendants et non concertés — proverbial corse, doctrine possibiliste déjà stabilisée dans le Corpus (`research/le_reel_le_virtuel_et_l_actuel.md`, §9.5 et §14.7, qui répond déjà à l'objection « injonction cruelle »), et tradition chrétienne (Béatitudes, 2 Corinthiens 6, 10 — introduite ici pour la première fois, sans généalogie antérieure dans le Corpus). Objectif explicite : neutraliser toute lecture d'insensibilité par convergence de sources indépendantes plutôt que par un argument unique.
 
+## Réconciliation avec les apports parallèles du Corpus — 16-17 septembre 2026
+
+Deux apports arrivés sur `main` pendant la rédaction ont été absorbés sans réécriture des chapitres 00-04 :
+
+- [`memory/marie-louise/2024_portes_et_controles_epistemiques.md`](../../memory/marie-louise/2024_portes_et_controles_epistemiques.md) (issue #75, commentaire du 2026-09-16T04:48:28Z) — règle anti-certitude, contradiction Nantes 2017 (hypothèse père vs hypothèse Ferdinand Pancrazi), portes candidates non stabilisées de l'été 2024 (parrain, Villa Arson, paiement de chantier), agence encore exercée début 2024, et la variable candidate de **fiabilité perçue d'un possible**. Répercuté dans le chapitre 5 (nouvelle section) et le chapitre 8 (nouvelles entrées).
+- `research/triangulation_du_reel.md` §4.1 (parcimonie causale, rasoir de Hanlon, échelle d'escalade vers l'intention) — répercuté dans l'ouverture (00), pour étayer formellement pourquoi la Machine à Empêcher n'y devient jamais une mise en cause personnelle, et dans le chapitre 8.
+
 ## Architecture d'enquête v2
 
 L'architecture courante est décrite dans [`architecture.md`](architecture.md). Elle privilégie :

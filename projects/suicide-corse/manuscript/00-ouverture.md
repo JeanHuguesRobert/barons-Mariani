@@ -89,6 +89,12 @@ Une telle machine est le plus souvent froide, bureaucratique, technocratique. El
 
 > **Des normes destinées à protéger une capacité peuvent, par accumulation, finir par détruire la capacité effective qu'elles proclament protéger.**
 
+Cette hypothèse impose une discipline précise pour éviter qu'elle ne glisse vers l'accusation : la **parcimonie causale** (`research/triangulation_du_reel.md`, §4.1). Face à une observation qui admet plusieurs explications, l'enquête doit d'abord chercher si un mécanisme simple — erreur, incompréhension, désorganisation, cloisonnement, inertie ordinaire — suffit à en rendre compte, avant d'envisager une négligence systémique, puis seulement, si les traces l'exigent, une stratégie délibérée ou une coordination concertée. On ne monte cette échelle que lorsque les niveaux plus simples échouent à expliquer ce qui est documenté ; jamais parce qu'un niveau supérieur serait plus satisfaisant à raconter.
+
+> **Établir d'abord ce qui s'est produit ; comparer ensuite les explications ; n'escalader vers l'intention que lorsque les traces l'exigent.**
+
+C'est cette discipline, plus qu'une bienveillance de principe envers les institutions, qui interdit à ce livre de transformer une Machine à Empêcher documentée en mise en cause personnelle.
+
 ### Ce que ce contrat interdit au lecteur, et à ce livre
 
 - Marie-Louise ne prouve pas la Machine à Empêcher ; elle est un `Reality Case` qui peut la confirmer, la corriger ou la réfuter.
