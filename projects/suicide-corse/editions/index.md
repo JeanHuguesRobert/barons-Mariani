@@ -36,11 +36,14 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 - **Source canonique de l'appel :** [`manuscript/17-appel-a-temoignages.md`](../manuscript/17-appel-a-temoignages.md).
 - **Lecture du rendu actuellement publié :** [éditions/2026-09-17](https://suicidecorse.baronsmariani.org/editions/2026-09-17/index.html).
 - **PDF du rendu actuellement publié :** [suicide-corse-edition-2026-09-17-anniversaire.pdf](https://suicidecorse.baronsmariani.org/editions/2026-09-17/suicide-corse-edition-2026-09-17-anniversaire.pdf).
+- **EPUB du rendu actuellement publié :** [suicide-corse-edition-2026-09-17-anniversaire.epub](https://suicidecorse.baronsmariani.org/editions/2026-09-17/suicide-corse-edition-2026-09-17-anniversaire.epub).
 - **Manifeste de provenance du rendu :** [manifest.json](https://suicidecorse.baronsmariani.org/editions/2026-09-17/manifest.json) — empreintes SHA-256, commit source, version du renderer.
 - **Date du premier build public :** 17 septembre 2026.
-- **Commit source du rendu actuellement publié :** `17ed8aa4907233e005c840842fc8da95645e066b` (`JeanHuguesRobert/barons-Mariani`).
+- **Commit source du rendu actuellement publié :** `81945d1c378cd2351688dec626f80385c2eac24c` (`JeanHuguesRobert/barons-Mariani`).
+- **Protocole de snapshot candidat :** [`snapshot-candidate-protocol.md`](snapshot-candidate-protocol.md).
+- **Reçu de snapshot candidat :** [`snapshot-candidate-receipt-2026-09-17.md`](snapshot-candidate-receipt-2026-09-17.md).
 - **Contrat de projection courant :** [`projections/book-2026-09-17-anniversaire.yml`](../projections/book-2026-09-17-anniversaire.yml), désormais en statut `preview-open` et incluant le chapitre 17.
-- **Renderer :** Quarto 1.10.18, via [`JeanHuguesRobert/ubikia`](https://github.com/JeanHuguesRobert/ubikia) (correctif [`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe) : rendu de tous les formats en une seule invocation Quarto, un rendu séquentiel par format effaçant le précédent dans un projet-livre Quarto). Exécuté sur `fracta2` (Quarto + TinyTeX).
+- **Renderer :** Quarto 1.10.18, via [`JeanHuguesRobert/ubikia`](https://github.com/JeanHuguesRobert/ubikia) (correctif [`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe) : rendu de tous les formats en une seule invocation Quarto, un rendu séquentiel par format effaçant le précédent dans un projet-livre Quarto ; correctif [`687d673`](https://github.com/JeanHuguesRobert/ubikia/commit/687d673) : support EPUB). Exécuté sur `fracta2` (Quarto + TinyTeX).
 - **Dépôt de publication :** [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse) — contient les projections rendues et les surfaces publiques de publication, jamais la source éditoriale canonique du manuscrit.
 - **Tag / release :** aucun tag Git créé à ce stade.
 - **Statut de revue :** auto-revue contradictoire effectuée par l'agent rédacteur le 17 septembre 2026. **Revue contradictoire indépendante par un tiers non encore effectuée** — chantier ouvert, voir chapitre 16 (« Continuations »).
