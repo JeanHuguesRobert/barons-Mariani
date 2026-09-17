@@ -1,0 +1,165 @@
+---
+title: "Trail — Une Corse capable"
+subtitle: "Parcours public pour comprendre l’Autonomie de Capacité, son contexte corse et ses mises à l’épreuve"
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-09-17"
+version: "1.0"
+status: "public trail — active"
+language: "fr"
+license: "CC BY-SA 4.0"
+visibility: "public"
+document_role: "trail"
+document_kind: "trail"
+lifecycle_state: "active"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trails/une_corse_capable.md"
+related_documents:
+  - title: "Autonomia"
+    path: "../autonomia.md"
+  - title: "Grammaire générative de l’Autonomie de Capacité"
+    path: "../autonomia/grammaire_autonomie_de_capacite.md"
+  - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
+    path: "../autonomia/atlas_paysage_politique_corse.md"
+  - title: "Atlas — addendum septembre 2026"
+    path: "../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
+  - title: "Observatoire public du processus d’autonomie de la Corse"
+    path: "../autonomia/observatoire_processus_autonomie_corse.md"
+  - title: "Corsica2038"
+    path: "../autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
+provenance:
+  origin_type: "curated_navigation"
+  origin_date: "2026-09-17"
+  derived_from:
+    - "research/autonomia.md"
+    - "research/autonomia/grammaire_autonomie_de_capacite.md"
+    - "research/autonomia/atlas_paysage_politique_corse.md"
+    - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
+    - "research/autonomia/observatoire_processus_autonomie_corse.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+update_policy: "UP-DEFAULT-REVIEWED"
+---
+
+# Trail — Une Corse capable
+
+Ce Trail est un **parcours de lecture public** dans le Corpus. Il ne remplace ni les documents sources ni leur appareil de preuve : il indique dans quel ordre les lire selon la question que l’on veut explorer.
+
+La formule **« Une Corse capable »** désigne ici l’horizon auquel se rattache la doctrine d’**Autonomie de Capacité** : examiner non seulement les compétences ou pouvoirs formellement attribués à un territoire, mais ce que ses habitants, communes, organisations et institutions deviennent **effectivement capables de faire**, dans le temps utile et avec des responsabilités identifiables.
+
+> **Question de départ : que devient la Corse capable de faire ?**
+
+---
+
+## Parcours principal — de l’idée au processus réel
+
+### 1. La doctrine : *Autonomia*
+
+➡️ [**Autonomia — Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse**](../autonomia.md)
+
+Le document source. Il définit l’**autonomie de capacité** comme test empirique de l’autonomie territoriale : distinguer ce qu’un territoire a le droit de faire de ce qu’il est réellement en mesure de faire, et préciser **capacité de qui, à faire quoi, à quelle échelle et dans quel horizon temporel**.
+
+**À lire si vous ne devez ouvrir qu’un seul texte de fond.**
+
+### 2. La méthode : produire des propositions à partir de la doctrine
+
+➡️ [**Grammaire générative de l’Autonomie de Capacité**](../autonomia/grammaire_autonomie_de_capacite.md)
+
+La doctrine n’est pas conçue comme un catalogue fermé de mesures. Cette grammaire décrit comment passer d’un problème concret à des réponses, programmes, amendements, objections traitées et produits publics cohérents avec l’Autonomie de Capacité.
+
+### 3. La carte : situer les acteurs, lignes de fracture et angles morts
+
+➡️ [**Atlas du paysage politique et discursif corse — Une Corse capable**](../autonomia/atlas_paysage_politique_corse.md)
+
+L’Atlas cartographie les acteurs, terrains rhétoriques, axes de polarisation et angles morts du débat corse. Il sert de carte de travail, non de programme figé.
+
+### 4. La mise à jour : septembre 2026
+
+➡️ [**Atlas du paysage politique et discursif corse — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md)
+
+Cette couche met l’Atlas à jour après l’adoption du projet de loi constitutionnelle par l’Assemblée nationale et son passage au Sénat. Elle documente notamment le déplacement du centre de gravité institutionnel vers la séquence sénatoriale d’octobre 2026 et rappelle que C.O.R.S.I.C.A. figure parmi les contributions écrites au rapport n° 2865, sans en déduire une influence causale sur le texte.
+
+### 5. La continuité parlementaire : Assemblée nationale → Sénat
+
+➡️ [**Autonomie de la Corse — note de continuité parlementaire**](../autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
+
+Parcours documentaire court entre la contribution C.O.R.S.I.C.A. de mai 2026, le rapport de l’Assemblée nationale, le texte transmis au Sénat et les fenêtres parlementaires d’octobre 2026.
+
+### 6. Le suivi corrigible du Réel
+
+➡️ [**Observatoire public du processus d’autonomie de la Corse**](../autonomia/observatoire_processus_autonomie_corse.md)
+
+L’Observatoire distingue explicitement **trace, fait documenté, interprétation, modèle, hypothèse et inconnu**. Il suit le processus institutionnel et ses fenêtres d’effectivité sans confondre agenda annoncé et événement réalisé.
+
+### 7. L’horizon de plus long terme
+
+➡️ [**Corsica2038 — De la prospective subie à l’Autonomie de Capacité**](../autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+
+Une projection programmatique de plus long terme qui confronte l’Autonomie de Capacité aux scénarios de *Corsica Pruspettiva 2050* et cherche à transformer la prospective en terrain d’action vérifiable.
+
+---
+
+## Branches d’exploration
+
+Le parcours principal peut ensuite bifurquer selon la question du lecteur.
+
+### A. Démocratie et contrôle des pouvoirs
+
+- [**Démocratie capable**](../democratie_capable.md) — participation, contrôle et capacité démocratique effective.
+- [**Consultation, référendum et souveraineté effective**](../autonomia/consultation_referendum_souverainete_effective_corse.md) — distinction entre les formes de consultation et leurs effets.
+- [**Chronologie documentaire du processus de Beauvau**](../chronologie_processus_beauvau_corse.md) — reconstruction temporelle du processus.
+
+### B. Applications concrètes de l’Autonomie de Capacité
+
+- [**GR20 : du quota à l’Autonomie de Capacité**](../gr20_autonomie_de_capacite.md) — application au territoire de montagne et à la gestion des flux.
+- [**Le cas EDF expliqué**](../cas_edf.md) — énergie, infrastructure et capacité territoriale.
+- [**Serenia — Assistance à l’autonomie administrative, numérique et cognitive**](../serenia_autonomie_assistee_ia.md) — capacité individuelle et accompagnement administratif.
+- [**École Mariani de l’Autonomie**](../ecole_mariani_autonomie.md) — transmission et apprentissage des capacités pratiques.
+
+### C. Mise à l’épreuve institutionnelle et électorale en 2026
+
+- [**Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani**](../notice_candidature_senatoriales_2026_medias.md) — dossier documentaire public de la candidature.
+- [**Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026**](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md) — chronologie et questions juridiques relatives au refus d’enregistrement.
+- [**Situation de handicap et écart capacitaire — Reality Case sénatoriales 2026**](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) — lecture capacitaire d’une procédure réelle, distincte du dossier contentieux lui-même.
+
+Ces documents décrivent une situation réelle et évolutive. Ils doivent être lus selon leur statut propre : une pièce contentieuse, une observation documentaire et une interprétation doctrinale ne valent pas la même chose.
+
+### D. De l’Autonomie de Capacité à la gouvernance démocratique de l’IA
+
+➡️ [**Trail — From Autonomia to DHITL**](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+
+Cette bifurcation poursuit l’exploration vers la traçabilité, la prévention de la capture, *Democratic AI Safety*, la pathologie du secret, DHITL et les infrastructures communes.
+
+---
+
+## Lecture courte
+
+Pour une première exploration, trois documents suffisent :
+
+1. [**Autonomia**](../autonomia.md) — la doctrine ;
+2. [**Atlas — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) — l’état actuel de la carte ;
+3. [**Observatoire public**](../autonomia/observatoire_processus_autonomie_corse.md) — le suivi du processus réel.
+
+Pour comprendre **comment la doctrine produit des propositions**, ajouter la [Grammaire générative](../autonomia/grammaire_autonomie_de_capacite.md).
+
+---
+
+## Règle de lecture
+
+Ce Trail organise des sources de statuts différents. Pour toute proposition importante, revenir au document source et conserver la distinction :
+
+```text
+TRACE / source
+    ↓
+FAIT documenté
+    ↓
+INTERPRÉTATION
+    ↓
+MODÈLE / HYPOTHÈSE
+    ↓
+ACTE éventuel
+    ↓
+RÉPONSE DU RÉEL
+```
+
+Un Trail **oriente sans prescrire** : il indique des passages déjà explorés, mais ne prétend ni épuiser le Corpus ni fermer d’autres chemins.
