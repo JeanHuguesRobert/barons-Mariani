@@ -1,0 +1,96 @@
+version: 0.1
+kind: marie-louise-work-catalogue-schema
+scope_document: ../catalogue_raisonne_scope.md
+identifier_policy:
+  pattern: '^MLR-[0-9]{6}$'
+  rule: >-
+    Identifiers are neutral and permanent. They do not encode work type, date,
+    certainty or artistic qualification, because those properties may change.
+required_fields:
+  - id
+  - preferred_title
+  - work_types
+  - existence_status
+  - access_status
+  - evidence
+  - certainty
+fields:
+  id:
+    type: string
+    description: Stable neutral catalogue identifier.
+  preferred_title:
+    type: string
+  alternate_titles:
+    type: array
+  work_types:
+    type: array
+    vocabulary:
+      - artwork
+      - text
+      - audiovisual
+      - performance
+      - situated-intervention
+      - social-action
+      - political-action
+      - project
+      - collective-contribution
+      - work-corpus
+      - process-trace
+  artistic_status:
+    vocabulary: [established, probable, possible, not-claimed, unknown]
+  date:
+    type: object
+    fields: [value, earliest, latest, precision, note]
+  places:
+    type: array
+  creators:
+    type: array
+  collaborators:
+    type: array
+  description_factual:
+    type: string
+  existence_status:
+    vocabulary: [established, strongly-attested, attested, probable, possible, hypothetical, unknown]
+  access_status:
+    vocabulary: [original-accessible, reproduction-accessible, trace-only, witnessed-only, not-located, inaccessible, unknown]
+  evidence:
+    type: array
+    item_fields:
+      - evidence_type
+      - epistemic_status
+      - source_type
+      - source_ref
+      - description
+    vocabularies:
+      evidence_type: [A, B, C, D, E, X]
+      epistemic_status: [VOICE, TRACE, THIRD-PARTY, FACT, INFERENCE, UNKNOWN, ASSERTION-JHR]
+      source_type: [SOURCE-CORPUS, SOURCE-GMAIL, SOURCE-PUBLIC, SOURCE-CONVERSATION, SOURCE-FAMILY-ARCHIVE, SOURCE-INSTITUTION, OTHER]
+  certainty:
+    vocabulary: [high, medium, low, mixed, unknown]
+  parent_or_series:
+    type: array
+  related_entries:
+    type: array
+  source_notes:
+    type: array
+  witnesses:
+    type: array
+    description: References to witness registry entries; avoid publishing private contact details here.
+  rights:
+    type: object
+  privacy:
+    type: object
+    fields: [visibility, contains_private_material, publication_note]
+  open_questions:
+    type: array
+  next_probes:
+    type: array
+  notes:
+    type: array
+rules:
+  - Distinguish the work from documentation of the work.
+  - Distinguish existence_status from access_status.
+  - Do not infer artistic status from the fact that Marie-Louise was an artist.
+  - Preserve uncertainty and contradictory evidence rather than collapsing them.
+  - A lost, inaccessible or only witnessed work may still receive a permanent catalogue identifier.
+  - Do not publish private correspondence verbatim without explicit scoped authorization.
