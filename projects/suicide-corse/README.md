@@ -93,9 +93,9 @@ Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-loui
 - [`editions/index.md`](editions/index.md) — registre des éditions figées ;
 - [`journals/README.md`](journals/README.md) — emplacement des journaux de campagne.
 
-## Édition publiée — 17 septembre 2026
+## Préversion publique — 17 septembre 2026
 
-L'édition anniversaire (17 chapitres, `00` à `16`) est rendue et publiée : **https://suicidecorse.baronsmariani.org**. Le pipeline `ubikia` + Quarto, jusqu'ici non livré (`ubikia#24`), a été testé, corrigé ([`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe)) et exécuté sur `fracta2`. Les artefacts (HTML, PDF, manifeste de provenance) vivent dans le dépôt de publication dédié [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse), séparé du Corpus source pour ne jamais mélanger source et projection rendue. Voir [`editions/index.md`](editions/index.md) pour l'entrée complète et [`projections/book-2026-09-17-anniversaire.yml`](projections/book-2026-09-17-anniversaire.yml) pour le contrat de projection.
+L'édition anniversaire (17 chapitres, `00` à `16`) est rendue et accessible en **préversion publique évolutive** : **https://suicidecorse.baronsmariani.org**. Le pipeline `ubikia` + Quarto, jusqu'ici non livré (`ubikia#24`), a été testé, corrigé ([`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe)) et exécuté sur `fracta2`. Les artefacts (HTML, PDF, manifeste de provenance) vivent dans le dépôt de publication dédié [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse), séparé du Corpus source pour ne jamais mélanger source et projection rendue. Leur accessibilité publique ne clôt pas l'enquête ni la préparation éditoriale : le manifeste conserve donc `publication_status: draft`, et les nouveautés donneront lieu à de nouvelles projections traçables. Voir [`editions/index.md`](editions/index.md) pour l'entrée complète et [`projections/book-2026-09-17-anniversaire.yml`](projections/book-2026-09-17-anniversaire.yml) pour le contrat de projection.
 
 ## Correction de doctrine — le bootstrap est révisable comme le reste, 15 septembre 2026
 

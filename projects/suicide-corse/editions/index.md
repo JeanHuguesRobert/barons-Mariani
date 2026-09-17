@@ -30,7 +30,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 ## Édition 2026-09-17 — numéro spécial anniversaire
 
-**Statut : rendue et publiée.**
+**Statut : préversion rendue, accessible publiquement, et encore en draft évolutif.**
 
 - **Site public :** [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org) — landing page et éditions.
 - **Lecture en ligne :** [éditions/2026-09-17](https://suicidecorse.baronsmariani.org/editions/2026-09-17/index.html).
@@ -46,9 +46,9 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Journal de campagne correspondant : [`journals/2026-09-17-numero-special-anniversaire.md`](../journals/2026-09-17-numero-special-anniversaire.md).
 
-Cette édition répond au critère minimal posé par l'issue #75 : une édition datée, figée et citable, même incomplète au niveau du rendu, plutôt qu'une attente indéfinie d'une chaîne de publication achevée. Le chapitre 16 du manuscrit (« Continuations ») liste explicitement, avec leurs conditions de clôture, tout ce que cette édition laisse volontairement ouvert : le registre conflictuel de la parole de Marie-Louise, le contenu non localisé du décryptage de 2009, la note testamentaire rapportée, les proverbes réservés, et la revue contradictoire indépendante elle-même.
+Cette préversion répond au besoin de rendre le travail consultable et vérifiable sans prétendre que l'enquête ou l'édition sont closes. Le manifeste conserve `publication_status: draft` : l'accès public ne vaut ni clôture éditoriale ni revue contradictoire indépendante. Le chapitre 16 du manuscrit (« Continuations ») liste explicitement, avec leurs conditions de clôture, tout ce que cette édition laisse volontairement ouvert : le registre conflictuel de la parole de Marie-Louise, le contenu non localisé du décryptage de 2009, la note testamentaire rapportée, les proverbes réservés, et la revue contradictoire indépendante elle-même.
 
-Une correction substantielle de cette édition ne doit pas la réécrire silencieusement : elle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
+Tant qu'elle reste en preview, toute projection modifiée doit conserver un manifeste de provenance et une trace de son commit source. Lors de la stabilisation d'une édition figée, une correction substantielle devra produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
 
 ---
 
