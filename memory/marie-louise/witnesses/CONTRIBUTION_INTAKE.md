@@ -40,6 +40,14 @@ Une contribution reçue est conservée dans un espace privé autorisé. Le prés
 document ne permet que d'en conserver publiquement la méthode, jamais le
 contenu ou les métadonnées identifiantes.
 
+## Emplacement privé d'intake (Phase 1)
+
+Le registre privé d'intake vit dans le dépôt privé `JeanHuguesRobert/registre-mariani`,
+sous `twin/marie-louise-robert/intake/` (index `registry.yml` + une fiche par
+contribution dans `fiches/<intake_id>.yml`). L'outil de création assisté est
+`scripts/intake/create-intake.mjs` dans ce même dépôt privé. Ce document
+public ne référence que l'emplacement et la méthode, jamais son contenu.
+
 ## Réception minimale
 
 À l'arrivée d'une contribution, créer dans le registre privé un identifiant
