@@ -35,10 +35,9 @@ chapters:
   - ../manuscript/17-appel-a-temoignages.md
 
 outputs:
-  required: [html, pdf]
-  optional:
-    - epub
-  status_note: "Préversion publique évolutive. Un premier rendu HTML/PDF a été produit le 17 septembre 2026 via JeanHuguesRobert/ubikia (fix b774bfe : rendu de tous les formats en une seule invocation Quarto), exécuté sur fracta2 (Quarto 1.10.18 + TinyTeX). Les artefacts sont publiés sur https://suicidecorse.baronsmariani.org/editions/2026-09-17/ et peuvent être remplacés par de nouveaux rendus traçables jusqu'au gel explicite de l'édition."
+  required: [html, pdf, epub]
+  optional: []
+  status_note: "Préversion publique évolutive. Rendu HTML/PDF/EPUB produit le 17 septembre 2026 via JeanHuguesRobert/ubikia (fix b774bfe : rendu de tous les formats en une seule invocation Quarto ; fix 687d673 : support epub). Exécuté sur fracta2 (Quarto 1.10.18 + TinyTeX ; l'epub ne requiert que Pandoc, inclus dans Quarto). Les artefacts sont publiés sur https://suicidecorse.baronsmariani.org/editions/2026-09-17/ et peuvent être remplacés par de nouveaux rendus traçables jusqu'au gel explicite de l'édition."
 
 render_contract:
   canonical_source_format: markdown
