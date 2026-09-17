@@ -1,7 +1,7 @@
 ---
 title: "Marie-Louise — registre distribué des témoins potentiels"
 status: working-paper
-date: 2026-09-17
+date: 2026-09-18
 document_role: research
 document_kind: witness-directory-index
 visibility: public
@@ -33,7 +33,12 @@ Il peut contenir :
 - des liens vers les sources, sollicitations et contributions ;
 - des lacunes documentaires du futur Digital Twin de Marie-Louise.
 
-Le document existant `nantes_zad_tournage.md` est une étude transversale de ce type. Il n'a pas vocation à devenir la fiche unique de tous les témoins qu'il mentionne.
+Études transversales actuellement disponibles :
+
+- [`nantes_zad_tournage.md`](nantes_zad_tournage.md) : Nantes, ZAD et tournage ;
+- [`research-2009-2016.md`](research-2009-2016.md) : recherche documentaire et témoins de l'adolescence jusqu'à l'entrée en CPES.
+
+Ces études n'ont pas vocation à devenir des fiches uniques de toutes les personnes qu'elles mentionnent.
 
 ## Documents de méthode
 
@@ -55,7 +60,8 @@ Le travail sur les témoins alimente directement la chronologie documentaire de 
 Références principales :
 
 - [`../carte.md`](../carte.md) : synthèse générale, chronologie, traces et inconnues ;
-- [`../formation/parcours_artistique_2016_2022.md`](../formation/parcours_artistique_2016_2022.md) : reconstruction sourcée du parcours de formation et de création entre 2016 et 2022.
+- [`../formation/parcours_artistique_2016_2022.md`](../formation/parcours_artistique_2016_2022.md) : reconstruction sourcée du parcours de formation et de création entre 2016 et 2022 ;
+- [`research-2009-2016.md`](research-2009-2016.md) : couche de recherche détaillée pour la période antérieure.
 
 Principe de circulation :
 
@@ -73,6 +79,17 @@ trace datée
 La date à laquelle une source est retrouvée ou transmise ne doit pas être confondue avec la date de l'événement qu'elle documente. Une source postérieure au décès peut documenter une relation, un événement ou une période antérieurs.
 
 Les résultats négatifs bornés font aussi partie de la chronologie de l'enquête : ils indiquent qu'une recherche déterminée, dans une source et un périmètre donnés, n'a pas permis de résoudre une lacune, sans transformer cette absence de résultat en absence de fait ou de relation.
+
+## Projections éditoriales — Suicide Corse
+
+Le registre et la chronologie documentaire doivent pouvoir alimenter deux chapitres publics de *Suicide Corse* :
+
+- **Chronologie** — vue lisible et sourcée des événements, périodes, transitions, contradictions et zones `UNKNOWN` ;
+- **Annuaire** — vue lisible des témoins potentiels, personnes à identifier, organisations, relais et détenteurs de traces.
+
+Ces chapitres sont des **projections dérivées**. Ils ne doivent pas devenir des sources concurrentes du Corpus. Toute information publiée doit rester reliée à sa provenance et respecter les règles de confidentialité.
+
+Le chapitre « Annuaire » ne doit pas publier automatiquement les coordonnées privées connues. Le chapitre « Chronologie » doit distinguer clairement fait stabilisé, trace, témoignage, hypothèse et résultat négatif borné.
 
 ## Digital Twin
 
