@@ -6,7 +6,7 @@ subject:
   label: Marie-Louise Isabelle Garance Robert
 source_projection:
   document: memory/marie-louise/possible_matrix.md
-  blob_sha: 74c1d6119e8d8b6c5ce03c4ff788ac9606697df8
+  blob_sha: bf84760f62a00fa9a000d1397e96db0103ee20a0
   projection_status: working_derived_projection
   note: Machine-readable working projection derived from the human-readable v0.2 matrix; validated against JeanHuguesRobert/cogentia schemas/possible-matrix.v0.schema.json; not authoritative.
 dynamic_vocabulary:
@@ -65,6 +65,12 @@ possible_registry:
   - p:electoral-agency
 - id: p:caregiving
   label: Exercer une activité d'aidance
+- id: p:family-support
+  label: Solliciter un soutien relationnel ou familial
+- id: p:artistic-remuneration
+  label: Obtenir la contrepartie d'un travail artistique
+  parent_ids:
+  - p:professional-art
 - id: p:electoral-remedy
   label: Accéder à des voies de recours électorales
   parent_ids:
@@ -1044,3 +1050,157 @@ events:
   qualifiers:
   - posthumous
   sequence: 26
+- id: mlp-2024-010
+  when:
+    value: '2024-03-08'
+    precision: day
+  domain:
+  - education
+  observation: Marie-Louise transmet un lien Taïga et un identifiant pour un concours d'entrée en quatrième année.
+  dynamics:
+  - open
+  - capacity
+  possible_ids:
+  - p:higher-art-education
+  actors_or_mechanisms:
+  - démarche de candidature
+  observed_outcome: Une poursuite de formation artistique supérieure est activement explorée ; l'établissement et le résultat restent inconnus.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Déduire l'établissement, le résultat, un lien avec Villa Arson ou une importance subjective de cette candidature.
+  evidence:
+  - ref: Gmail:18e1f184daa7c61c
+    source_class: primary_artifact
+    epistemic_status:
+    - trace
+    - fact
+    supports:
+    - transmission du lien Taïga
+    - identifiant de candidature
+    visibility: public_reference_private_content
+  next_probes:
+  - objective: Identifier le concours Taïga, l'établissement et sa décision.
+    target: pièce de candidature ou réponse de l'établissement
+    expected_discriminant: Distinguer une démarche exploratoire d'une candidature instruite et de son résultat.
+    priority: p0
+  scope_delta: narrow
+  qualifiers:
+  - attempt
+  sequence: 27
+- id: mlp-2024-011
+  when:
+    value: '2023-12/2024-01'
+    precision: range
+  domain:
+  - relationship
+  - support
+  observation: Recherche de soutien auprès du parrain rapportée par le père.
+  dynamics:
+  - unknown
+  possible_ids:
+  - p:family-support
+  actors_or_mechanisms:
+  - ASSERTION-JHR
+  - SOURCE-CONVERSATION
+  observed_outcome: Recherche de soutien rapportée ; contenu, réponse et effet subjectif inconnus.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Qualifier cette piste de fermeture ou attribuer une intention ou un effet à un tiers.
+  evidence:
+  - ref: memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - unknown
+    supports:
+    - recherche de soutien rapportée
+    visibility: public
+  next_probes:
+  - objective: Retrouver un échange direct ou une trace contemporaine hors Gmail paternel.
+    target: correspondance ou témoignage daté
+    expected_discriminant: Établir ou infirmer la démarche, son contenu et sa réponse.
+    priority: p0
+  scope_delta: narrow
+  qualifiers:
+  - candidate
+  sequence: 28
+- id: mlp-2024-012
+  when:
+    value: '2024'
+    precision: year
+  domain:
+  - education
+  observation: Demande de réintégration à la Villa Arson possiblement refusée, selon ASSERTION-JHR.
+  dynamics:
+  - unknown
+  possible_ids:
+  - p:villa-arson
+  actors_or_mechanisms:
+  - ASSERTION-JHR
+  observed_outcome: Refus rapporté, non établi par pièce institutionnelle.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Affirmer qu'une demande, un refus ou une fermeture ont eu lieu avant pièce primaire.
+  evidence:
+  - ref: memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - unknown
+    supports:
+    - refus rapporté
+    visibility: public
+  next_probes:
+  - objective: Retrouver admission, interruption, demande éventuelle et décision Villa Arson.
+    target: dossier ou décision de la Villa Arson
+    expected_discriminant: Établir ou infirmer la demande et toute décision institutionnelle.
+    priority: p0
+  scope_delta: narrow
+  qualifiers:
+  - candidate
+  sequence: 29
+- id: mlp-2024-013
+  when:
+    value: '2024'
+    precision: year
+  domain:
+  - art
+  - resources
+  observation: Paiement d'un chantier artistique attendu mais non obtenu, selon ASSERTION-JHR.
+  dynamics:
+  - unknown
+  possible_ids:
+  - p:artistic-remuneration
+  actors_or_mechanisms:
+  - ASSERTION-JHR
+  observed_outcome: Incident rapporté, non établi ; commande, montant, échéance et échanges inconnus.
+  causal:
+    status: unknown
+    counterevidence: []
+    alternative_explanations: []
+    prohibited_inference:
+    - Affirmer un refus, un impayé ou un effet sur Marie-Louise sans pièce.
+  evidence:
+  - ref: memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    source_class: corpus_derivation
+    epistemic_status:
+    - unknown
+    supports:
+    - incident rapporté
+    visibility: public
+  next_probes:
+  - objective: Retrouver commande, paiement, relances ou témoignage daté.
+    target: pièce comptable, correspondance ou témoignage daté
+    expected_discriminant: Établir ou infirmer l'incident et son calendrier.
+    priority: p0
+  scope_delta: narrow
+  qualifiers:
+  - candidate
+  sequence: 30
