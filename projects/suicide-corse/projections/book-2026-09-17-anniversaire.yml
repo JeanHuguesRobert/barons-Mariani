@@ -1,7 +1,7 @@
 ---
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-edition-2026-09-17-anniversaire
-status: frozen-manuscript
+status: preview-open
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
@@ -11,8 +11,8 @@ source_manifest: ../corpus.yml
 edition_label: "Numéro spécial du 17 septembre 2026 — édition anniversaire"
 
 # Cette projection succède au bootstrap historique (book.yml, chapitres 00-04 seuls).
-# Elle sélectionne l'ensemble du manuscrit produit pour le contrat minimal de l'édition
-# anniversaire défini dans l'issue #75, sans réécrire les cinq chapitres bootstrap.
+# Elle reste en préversion publique évolutive jusqu'au gel éditorial explicite.
+# Des ajouts de dernière minute peuvent encore être intégrés et donner lieu à de nouveaux rendus traçables.
 
 chapters:
   - ../manuscript/00-ouverture.md
@@ -32,19 +32,21 @@ chapters:
   - ../manuscript/14-le-dieu-de-leau-texte-integral.md
   - ../manuscript/15-la-parole-de-marie-louise.md
   - ../manuscript/16-continuations.md
+  - ../manuscript/17-appel-a-temoignages.md
 
 outputs:
   required: [html, pdf]
   optional:
     - epub
-  status_note: "Rendu HTML/PDF produit le 17 septembre 2026 via JeanHuguesRobert/ubikia (fix b774bfe : rendu de tous les formats en une seule invocation Quarto), exécuté sur fracta2 (Quarto 1.10.18 + TinyTeX). Artefacts publiés sur https://suicidecorse.baronsmariani.org/editions/2026-09-17/."
+  status_note: "Préversion publique évolutive. Un premier rendu HTML/PDF a été produit le 17 septembre 2026 via JeanHuguesRobert/ubikia (fix b774bfe : rendu de tous les formats en une seule invocation Quarto), exécuté sur fracta2 (Quarto 1.10.18 + TinyTeX). Les artefacts sont publiés sur https://suicidecorse.baronsmariani.org/editions/2026-09-17/ et peuvent être remplacés par de nouveaux rendus traçables jusqu'au gel explicite de l'édition."
 
 render_contract:
   canonical_source_format: markdown
   generated_qmd_is_source: false
   preserve_frontmatter_provenance: true
   preserve_epistemic_distinctions: true
-  frozen_release_mutable: false
+  frozen_release_mutable: true
+  freeze_condition: "Décision éditoriale explicite de clôture de la preview ; après gel, toute correction substantielle produit une nouvelle édition ou un erratum traçable."
 
 provenance_manifest:
   build_date: "2026-09-17"
@@ -66,6 +68,7 @@ open_questions:
   - "Cover asset and rights metadata."
   - "Citation/bibliography rendering convention."
   - "License treatment for mixed-rights external assets."
+  - "Modalités publiques de réception et de qualification des témoignages."
 
 implementation_dependency:
   repository: JeanHuguesRobert/ubikia
