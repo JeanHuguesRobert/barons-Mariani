@@ -1,7 +1,7 @@
 ---
 title: Marie-Louise — parcours artistique et formation (2016–2022)
 author: Jean Hugues Noël Robert
-date: '2026-09-17'
+date: '2026-09-18'
 language: fr
 document_role: source-note
 document_kind: educational-artistic-chronology
@@ -13,6 +13,10 @@ provenance:
   derived_from:
     - memory/marie-louise/works/frontieres_stop_motion_2016.md
     - memory/marie-louise/witnesses/README.md
+    - memory/marie-louise/witnesses/research-2009-2016.md
+    - Gmail:152bbe471a57a3f0
+    - Gmail:152ea211bb1238f1
+    - Gmail:15314fd4f9780b99
     - Gmail:15449b60315649e0
     - Gmail:15623cc50810297a
     - Gmail:15901e3906969ef1
@@ -76,11 +80,37 @@ Les sources déjà consolidées dans `works/frontieres_stop_motion_2016.md` éta
 - travaille sur une orientation liée notamment au dessin, à l'art et au cinéma d'animation ;
 - publie le 3 avril une vidéo intitulée *L'altérité en soi* ;
 - présente un travail en stop motion lors de l'exposition autour des frontières du 14 avril ;
-- dépose un dossier artistique n° **193** pour l'admission en première année aux Beaux-Arts de Paris.
+- prépare plusieurs candidatures artistiques distinctes.
 
-Référence principale pour Paris : Gmail:15449b60315649e0.
+### Février 2016 — CV, lettre de motivation et animation
 
-Le résultat du concours parisien reste `UNKNOWN`.
+Le 7 février 2016, Marie-Louise partage avec son père un Google Doc intitulé `cv` (Gmail:152bbe471a57a3f0 et messages associés).
+
+Le 16 février, elle partage un document intitulé `lettre de motivation` (Gmail:152ea211bb1238f1).
+
+Les documents eux-mêmes n'ont pas été retrouvés dans le Drive connecté lors de la recherche de septembre 2026. Leur contenu et leur destinataire restent donc `UNKNOWN`.
+
+Une facture datée du **24 février 2016**, transmise par Marie-Louise et conservée dans Gmail:15314fd4f9780b99, porte sur des frais de dossier pour une formation intitulée exactement :
+
+> **Concepteur et réalisateur de films d'animation**
+
+La facture émane de la CCI Paris Île-de-France. La dénomination correspond à une formation aujourd'hui portée par GOBELINS Paris, mais la source conservée ne nomme pas explicitement GOBELINS. L'identification historique est donc **fortement probable mais non encore établie par une pièce primaire**.
+
+### Avril 2016 — Beaux-Arts de Paris
+
+Le fichier `beauxarts.pdf`, conservé dans Gmail:15449b60315649e0, est le récépissé du **dossier artistique n° 193** pour l'admission en **première année aux Beaux-Arts de Paris**.
+
+Le document prévoit :
+
+- présentation du récépissé les **25 ou 26 avril 2016** ;
+- examen du dossier artistique par un jury d'admissibilité ;
+- annonce des résultats le **28 avril 2016**.
+
+Cette pièce établit la candidature et son calendrier, mais pas la présence effective de Marie-Louise devant le jury ni le résultat.
+
+Des voyages vers Paris sont documentés en mars et début avril 2016, mais leurs dates ne permettent pas de les rattacher mécaniquement à la présentation prévue les 25–26 avril.
+
+KnowledgeGap principal : `gap:2016:beaux-arts-paris`.
 
 ## 2. 2016–2017 — CPES 1 à Sartène
 
@@ -89,6 +119,10 @@ Le résultat du concours parisien reste `UNKNOWN`.
 Le 25 juillet 2016, Marie-Louise transmet à son père un PDF intitulé `Dossier d'inscription CPES-.pdf`.
 
 Référence : Gmail:15623cc50810297a.
+
+Le dossier concerne la **CPES du lycée Georges-Clemenceau de Sartène**. Il doit être retourné **à l'attention de Mme Bonne** et indique une rentrée au **12 septembre 2016**.
+
+La formation présentée dans le dossier couvre notamment dessin d'observation, couleur, techniques graphiques, photographie, vidéo, cinéma, culture générale et histoire de l'art. Cette pluridisciplinarité est cohérente avec les candidatures et travaux artistiques du printemps 2016, sans permettre à elle seule d'établir un lien causal entre les différentes démarches.
 
 Un **certificat de scolarité** transmis ensuite par Marie-Louise et conservé dans Gmail:15901e3906969ef1 établit directement :
 
@@ -102,6 +136,16 @@ Un **certificat de scolarité** transmis ensuite par Marie-Louise et conservé d
 
 Le document précise qu'elle est inscrite sur les registres et « fréquente régulièrement » la formation.
 
+En décembre 2016, Marie-Louise écrit avoir interrogé **« la proviseur »** au sujet de démarches d'affiliation universitaire. Cette personne n'est pas encore identifiée.
+
+Le réseau institutionnel à reconstituer comprend donc au minimum :
+
+- **Mme Bonne**, rôle exact à établir ;
+- la **proviseure** encore non identifiée ;
+- les enseignants de la CPES ;
+- les camarades de promotion ;
+- les personnels d'internat.
+
 Cette pièce clôt une ancienne lacune :
 
 ~~~text
@@ -109,6 +153,8 @@ Cette pièce clôt une ancienne lacune :
 =
 CPES 1, lycée Georges-Clemenceau de Sartène
 ~~~
+
+KnowledgeGap principal : `gap:2016-2017:cpes-network`.
 
 ## 3. 28 mars 2017 — *photoromanJulie*
 
@@ -265,16 +311,28 @@ réussite du concours Villa Arson
 ## 11. Chronologie minimale désormais établie
 
 ~~~text
+février 2016
+→ CV + lettre de motivation
+→ frais de dossier « Concepteur et réalisateur de films d'animation »
+
 printemps 2016
 Terminale à Corte
 → L'altérité en soi
 → exposition Frontières
 → candidature Beaux-Arts de Paris
+→ dossier artistique n°193
+→ jury prévu 25–26 avril ; résultat UNKNOWN
+
+été 2016
+→ dossier CPES Sartène
+→ Mme Bonne
 
 2016–2017
 CPES 1
 Lycée Georges-Clemenceau, Sartène
 → interne
+→ fréquentation régulière attestée
+→ réseau enseignants/camarades à reconstituer
 
 28 mars 2017
 photoromanJulie
@@ -318,7 +376,14 @@ installation préparée à Nice
 
 ## 12. Lacunes prioritaires
 
+- contenu et destination du CV et de la lettre de motivation de février 2016 ;
+- établissement exact de la candidature « Concepteur et réalisateur de films d'animation » et résultat ;
+- présence effective devant le jury des Beaux-Arts de Paris les 25 ou 26 avril 2016 ;
 - résultat de la candidature aux Beaux-Arts de Paris en 2016 ;
+- contenu du dossier artistique n°193 ;
+- identité et rôle exact de Mme Bonne à Sartène ;
+- identité de la proviseure mentionnée en décembre 2016 ;
+- enseignants, camarades, internat, travaux et évaluations de la CPES 2016–2017 ;
 - décision institutionnelle d'admission initiale aux Beaux-Arts de Nantes en 2017 ;
 - résolution administrative exacte du dossier de frais de décembre 2017 ;
 - diplômes, ECTS et passages d'année à Nantes ;
