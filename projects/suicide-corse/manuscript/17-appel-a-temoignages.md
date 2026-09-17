@@ -109,6 +109,12 @@ La réception d'une contribution, sa conservation, son utilisation dans l'enquê
 
 Cette séparation est essentielle : l'objectif n'est pas d'accumuler des récits publics, mais de produire une connaissance plus exacte.
 
+## Comment contribuer
+
+**Adresse de contact : `institutmariani@gmail.com`.**
+
+Vous pouvez écrire à cette adresse, en indiquant simplement ce que vous savez, sans avoir besoin de rédiger un témoignage complet ou structuré. Une date approximative, un lieu, un prénom ou une pièce jointe suffisent pour ouvrir une piste. Précisez si vous acceptez que votre contribution soit un jour citée publiquement, même partiellement ou de façon anonymisée ; à défaut, elle sera traitée comme confidentielle par défaut.
+
 ## Un travail de mémoire et de recherche
 
 Ce travail est conduit dans le cadre de l'**Institut Mariani**, organe de recherche et développement de l'association **C.O.R.S.I.C.A.**, dont je suis le président fondateur.
