@@ -43,6 +43,29 @@ Avant ce seuil, aucun snapshot candidat ne doit être présenté comme clôturan
 la fenêtre. Après ce seuil, chaque nouveau fait éditorial substantiel appelle
 un nouveau rendu traçable ou un erratum, même si l'édition demeure `draft`.
 
+## Date d'édition et instants techniques
+
+La date portée par une édition désigne sa **fenêtre de production**, non
+l'instant auquel un fichier devient accessible. L'édition du 17 septembre 2026
+comprend donc les rendus produits entre le lever du soleil du 17 et le seuil de
+clôture du 18 septembre à Corte.
+
+Le reçu distingue obligatoirement :
+
+```text
+edition_date       = date de la fenêtre de production
+production_window  = début et fin conventionnels de cette fenêtre
+rendered_at        = instant technique du rendu
+published_at       = première disponibilité publique de l'artefact
+deployed_at        = bascule de la release effectivement servie
+```
+
+Un rendu, un push ou un déploiement intervenant avant la fin de la fenêtre
+conserve `edition_date: 2026-09-17`, y compris s'il se produit après minuit
+civil. Après le seuil, un changement éditorial substantiel relève d'une édition
+ultérieure ou d'un erratum ; l'accessibilité publique tardive d'un artefact ne
+change pas, à elle seule, la date de son édition.
+
 ## Préconditions
 
 1. Source Corpus et renderer à jour, propres et identifiés par commit.
@@ -60,6 +83,11 @@ Le reçu candidat doit consigner, sans information privée :
 ```text
 observed_at
 closing_threshold
+edition_date
+production_window
+rendered_at
+published_at
+deployed_at
 source_repository + source_commit + source_dirty
 renderer_repository + renderer_commit
 projection path + projection SHA-256
