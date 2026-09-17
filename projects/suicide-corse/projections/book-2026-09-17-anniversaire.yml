@@ -1,0 +1,74 @@
+---
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-edition-2026-09-17-anniversaire
+status: frozen-manuscript
+language: fr
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+subtitle_note: "Sous-titre confirmé délibérément le 17 septembre 2026 après discussion ; un moment de reformulation vers « vaincre l'impossible » a été explicitement écarté comme trop conflictuel pour la thèse de responsabilité diluée du livre."
+author: "Jean Hugues Noël Robert"
+source_manifest: ../corpus.yml
+edition_label: "Numéro spécial du 17 septembre 2026 — édition anniversaire"
+
+# Cette projection succède au bootstrap historique (book.yml, chapitres 00-04 seuls).
+# Elle sélectionne l'ensemble du manuscrit produit pour le contrat minimal de l'édition
+# anniversaire défini dans l'issue #75, sans réécrire les cinq chapitres bootstrap.
+
+chapters:
+  - ../manuscript/00-ouverture.md
+  - ../manuscript/01-marie-louise.md
+  - ../manuscript/02-fermeture-des-possibles.md
+  - ../manuscript/03-machine-a-empecher.md
+  - ../manuscript/04-realiser-impossible.md
+  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+  - ../manuscript/06-vivre-transmettre.md
+  - ../manuscript/07-corse-capacite-dormante.md
+  - ../manuscript/08-hypotheses-non-resolues.md
+  - ../manuscript/09-test-invariance-echelle.md
+  - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+  - ../manuscript/11-impunite-par-obscurite.md
+  - ../manuscript/12-carnet-de-serendipite.md
+  - ../manuscript/13-proverbes-epigraphes.md
+  - ../manuscript/14-le-dieu-de-leau-texte-integral.md
+  - ../manuscript/15-la-parole-de-marie-louise.md
+  - ../manuscript/16-continuations.md
+
+outputs:
+  required: []
+  optional:
+    - html
+    - pdf
+    - epub
+  status_note: "Aucun rendu HTML/PDF n'a été produit pour cette édition : la dépendance de rendu générique (JeanHuguesRobert/ubikia#24) n'est pas encore livrée. Cette édition est donc figée au niveau du manuscrit source Markdown, pas au niveau d'un artefact rendu. Conforme au critère minimal de l'issue #75 : « une édition datée, figée et citable, même courte »."
+
+render_contract:
+  canonical_source_format: markdown
+  generated_qmd_is_source: false
+  preserve_frontmatter_provenance: true
+  preserve_epistemic_distinctions: true
+  frozen_release_mutable: false
+
+provenance_manifest:
+  build_date: "2026-09-17"
+  source_commit: "76c76a245506797a1d3ca8b8a8134536117abd3a"
+  source_repository: "JeanHuguesRobert/barons-Mariani"
+  renderer_version: "none — manuscript-only freeze"
+  review_status: "auto-revue contradictoire effectuée par l'agent rédacteur ; revue contradictoire indépendante par un tiers non encore effectuée (chapitre 16, chantier ouvert)"
+
+editorial_contract_source: "GitHub issue #75, tous commentaires jusqu'au 2026-09-17"
+
+known_deferred_content:
+  - "Registre conflictuel de la parole de Marie-Louise (2018, 2021) — voir chapitre 15, réservé aux éditions hebdomadaires."
+  - "Contenu du décryptage de 2009 — non localisé, voir chapitre 16."
+  - "Note testamentaire rapportée (Les Amis de Malou) — mentionnée chapitre 15 uniquement comme témoignage d'une seule source."
+  - "Trois proverbes sur la mort réservés, non employés — voir chapitre 13."
+
+open_questions:
+  - "Final page format and print geometry."
+  - "Cover asset and rights metadata."
+  - "Citation/bibliography rendering convention."
+  - "License treatment for mixed-rights external assets."
+
+implementation_dependency:
+  repository: JeanHuguesRobert/ubikia
+  issue: 24

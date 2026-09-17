@@ -93,6 +93,10 @@ Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-loui
 - [`editions/index.md`](editions/index.md) — registre des éditions figées ;
 - [`journals/README.md`](journals/README.md) — emplacement des journaux de campagne.
 
+## Édition figée — 17 septembre 2026
+
+L'édition anniversaire est figée au niveau du manuscrit (17 chapitres, `00` à `16`), sans rendu HTML/PDF (dépendance `ubikia#24` non livrée). Voir [`editions/index.md`](editions/index.md) pour l'entrée complète (commit, contrat de projection, statut de revue) et [`projections/book-2026-09-17-anniversaire.yml`](projections/book-2026-09-17-anniversaire.yml) pour la sélection de chapitres.
+
 ## Correction de doctrine — le bootstrap est révisable comme le reste, 15 septembre 2026
 
 Une formulation antérieure de ce README présentait la modification de `manuscript/00-ouverture.md` comme une « exception » à un principe de non-réécriture du bootstrap. Cette présentation était elle-même une erreur de doctrine, corrigée ici.
