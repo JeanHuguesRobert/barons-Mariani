@@ -1,7 +1,7 @@
 ---
-title: Marie-Louise — créations et traces artistiques
+title: Marie-Louise — créations, actions et traces de l’œuvre
 author: Jean Hugues Noël Robert
-date: '2026-09-08'
+date: '2026-09-17'
 document_role: source-index
 document_kind: memory
 visibility: public
@@ -22,14 +22,31 @@ provenance:
   derived_from: []
 ---
 
-
-# Marie-Louise — créations et traces artistiques
+# Marie-Louise — créations, actions et traces de l’œuvre
 
 ## Objet
 
-Ce dossier rassemble des créations directes de Marie-Louise et des traces contemporaines de son parcours artistique.
+Ce dossier rassemble progressivement **l’œuvre de Marie-Louise au sens large** : ce qu’elle a créé, accompli, entrepris, transformé, transmis ou laissé comme trace.
 
-Il applique la discipline documentaire de `memory/marie-louise/carte.md` :
+Il ne se limite donc pas aux œuvres d’art traditionnelles. Il peut inclure des textes, vidéos, performances, interventions situées, actions sociales ou politiques, projets, contributions collectives, œuvres perdues ou seulement attestées.
+
+L’inclusion d’un élément dans l’œuvre de Marie-Louise ne signifie pas qu’il soit automatiquement qualifié d’œuvre d’art.
+
+## Cadre canonique
+
+- [`catalogue_raisonne_scope.md`](catalogue_raisonne_scope.md) — définition du périmètre et doctrine documentaire du **Catalogue raisonné de l’œuvre de Marie-Louise**.
+- [`catalogue/schema.yml`](catalogue/schema.yml) — schéma canonique machine-readable.
+- [`catalogue/entries.yml`](catalogue/entries.yml) — registre initial des entrées avec identifiants stables `MLR-xxxxxx`.
+
+Le registre distingue notamment :
+
+1. ce qui a existé ou a été accompli ;
+2. ce qui est actuellement accessible ou localisé ;
+3. les preuves sur lesquelles repose chaque affirmation.
+
+## Discipline documentaire
+
+Ce dossier applique la discipline de `memory/marie-louise/carte.md` :
 
 - `VOICE` : parole ou œuvre directement attribuable à Marie-Louise ;
 - `TRACE` : pièce primaire contemporaine ;
@@ -38,12 +55,17 @@ Il applique la discipline documentaire de `memory/marie-louise/carte.md` :
 - `INFERENCE` : interprétation ;
 - `UNKNOWN` : lacune ou point non résolu.
 
-## Notes
+La provenance, le degré de preuve, la disponibilité matérielle et la qualification artistique restent des dimensions distinctes.
+
+## Notices existantes
 
 - [`le_dieu_de_leau_2008.md`](le_dieu_de_leau_2008.md) — œuvre d'enfance directement conservée par un mail original du 3 décembre 2008.
-- [`frontieres_stop_motion_2016.md`](frontieres_stop_motion_2016.md) — exposition autour des frontières à Corte, stop motion, trace YouTube et continuation du parcours artistique jusqu'à Nice.
-- [`l_alterite_en_soi_2016.md`](l_alterite_en_soi_2016.md) — publication YouTube du 3 avril 2016, titre *L'altérité en soi*, description « Entre aliénation et construction de soi. Microcosmos. » et rapprochement documenté avec le stop motion exposé.
-- [`photoroman_julie_2017.md`](photoroman_julie_2017.md) — seconde publication vidéo retrouvée, le 28 mars 2017, pendant l'année de CPES à Sartène.
+- [`frontieres_stop_motion_2016.md`](frontieres_stop_motion_2016.md) — exposition autour des frontières à Corte, stop motion et trace audiovisuelle.
+- [`l_alterite_en_soi_2016.md`](l_alterite_en_soi_2016.md) — publication YouTube du 3 avril 2016, titre *L'altérité en soi*, description « Entre aliénation et construction de soi. Microcosmos. ».
+- [`photoroman_julie_2017.md`](photoroman_julie_2017.md) — publication vidéo du 28 mars 2017 pendant l'année de CPES à Sartène.
+- [`oletta_premier_chantier_artistique.md`](oletta_premier_chantier_artistique.md) — deux grandes peintures murales à Oletta, photographies familiales à inventorier.
+- [`zad_nantes_intervention.md`](zad_nantes_intervention.md) — intervention située dans une ZAD proche de Nantes, à identifier et documenter.
+- [`zad_sud_intervention.md`](zad_sud_intervention.md) — intervention située dans une ZAD du sud de la France, à identifier et documenter.
 
 ## Parcours de formation
 
@@ -57,7 +79,7 @@ Pour *Le dieu de l'eau*, Jean Hugues Noël Robert a explicitement autorisé le 8
 - [mail original RFC822](sources/2008-12-03_jouyeux-Noel-de-lilou_original.eml)
 - [empreintes SHA-256](sources/SHA256SUMS.txt)
 
-Cette autorisation est spécifique à ces deux artefacts. Elle ne vaut pas autorisation générale de publier d'autres correspondances privées de Marie-Louise ou de la famille.
+Cette autorisation est spécifique à ces artefacts. Elle ne vaut pas autorisation générale de publier d'autres correspondances privées de Marie-Louise ou de la famille.
 
 ## Règle de publication
 
