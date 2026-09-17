@@ -48,6 +48,32 @@ Le registre doit pouvoir évoluer sous la pression de l'usage réel. Les champs,
 
 Ne pas concevoir prématurément une ontologie relationnelle définitive. Préserver l'information riche et sa provenance, exposer la plus petite structure utile, puis promouvoir de nouveaux champs ou relations lorsque l'usage crée une pression suffisamment claire.
 
+## Chronologie documentaire
+
+Le travail sur les témoins alimente directement la chronologie documentaire de Marie-Louise, sans créer une chronologie canonique concurrente.
+
+Références principales :
+
+- [`../carte.md`](../carte.md) : synthèse générale, chronologie, traces et inconnues ;
+- [`../formation/parcours_artistique_2016_2022.md`](../formation/parcours_artistique_2016_2022.md) : reconstruction sourcée du parcours de formation et de création entre 2016 et 2022.
+
+Principe de circulation :
+
+```text
+trace datée
+→ événement chronologique
+→ témoin / organisation / piste
+→ KnowledgeGap
+→ recherche ou sollicitation
+→ contribution
+→ qualification épistémique
+→ chronologie éventuellement précisée
+```
+
+La date à laquelle une source est retrouvée ou transmise ne doit pas être confondue avec la date de l'événement qu'elle documente. Une source postérieure au décès peut documenter une relation, un événement ou une période antérieurs.
+
+Les résultats négatifs bornés font aussi partie de la chronologie de l'enquête : ils indiquent qu'une recherche déterminée, dans une source et un périmètre donnés, n'a pas permis de résoudre une lacune, sans transformer cette absence de résultat en absence de fait ou de relation.
+
 ## Digital Twin
 
 Ce travail contribue à la complétude du futur Cogentia Digital Twin de Marie-Louise en permettant notamment de :

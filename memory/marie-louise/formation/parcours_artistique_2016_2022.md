@@ -1,7 +1,7 @@
 ---
 title: Marie-Louise — parcours artistique et formation (2016–2022)
 author: Jean Hugues Noël Robert
-date: '2026-09-08'
+date: '2026-09-17'
 language: fr
 document_role: source-note
 document_kind: educational-artistic-chronology
@@ -12,6 +12,7 @@ provenance:
   origin_type: mixed-primary-traces
   derived_from:
     - memory/marie-louise/works/frontieres_stop_motion_2016.md
+    - memory/marie-louise/witnesses/README.md
     - Gmail:15449b60315649e0
     - Gmail:15623cc50810297a
     - Gmail:15901e3906969ef1
@@ -20,12 +21,14 @@ provenance:
     - Gmail:16012ff6ab50ad78
     - Gmail:16737e68bc1918ab
     - Gmail:16b31d816e8eb42d
+    - Gmail:16db9d63bdf3e80c
     - Gmail:178ab8f3f69d09c4
     - Gmail:178df4383f1868a0
+    - Gmail:17e7210907b43588
     - Gmail:17e7808badd54b51
     - Gmail:1922e3c9dd706501
-  origin_repository: unknown
-  origin_ref: unknown
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: main
   origin_date: unknown
 review:
   status: unreviewed
@@ -34,7 +37,6 @@ license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 status: working-paper
 ---
-
 
 # Parcours artistique et formation — 2016–2022
 
@@ -64,9 +66,11 @@ trace contemporaine
 récit rétrospectif
 ~~~
 
+La présente chronologie est désormais articulée au registre distribué des témoins potentiels. Un événement daté peut faire émerger un témoin ; inversement, un témoin ou une trace retrouvée peut préciser la chronologie. Les zones non résolues sont conservées comme `KnowledgeGap` plutôt que remplies par inférence.
+
 ## 1. Printemps 2016 — Terminale, œuvre publique et candidatures
 
-Les sources déjà consolidées dans works/frontieres_stop_motion_2016.md établissent qu'au printemps 2016 Marie-Louise :
+Les sources déjà consolidées dans `works/frontieres_stop_motion_2016.md` établissent qu'au printemps 2016 Marie-Louise :
 
 - est en Terminale à Corte ;
 - travaille sur une orientation liée notamment au dessin, à l'art et au cinéma d'animation ;
@@ -76,13 +80,13 @@ Les sources déjà consolidées dans works/frontieres_stop_motion_2016.md établ
 
 Référence principale pour Paris : Gmail:15449b60315649e0.
 
-Le résultat du concours parisien reste UNKNOWN.
+Le résultat du concours parisien reste `UNKNOWN`.
 
 ## 2. 2016–2017 — CPES 1 à Sartène
 
 **Statut : FACT / TRACE primaire.**
 
-Le 25 juillet 2016, Marie-Louise transmet à son père un PDF intitulé Dossier d'inscription CPES-.pdf.
+Le 25 juillet 2016, Marie-Louise transmet à son père un PDF intitulé `Dossier d'inscription CPES-.pdf`.
 
 Référence : Gmail:15623cc50810297a.
 
@@ -116,7 +120,7 @@ Référence : Gmail:15b16527bf97b95e.
 
 La publication intervient pendant l'année de CPES. Aucun lien pédagogique explicite avec la formation n'est encore établi.
 
-Voir works/photoroman_julie_2017.md.
+Voir `works/photoroman_julie_2017.md`.
 
 ## 4. Mai 2017 — Nantes : admission rapportée, puis traces institutionnelles
 
@@ -157,9 +161,11 @@ régularisation administrative exacte de décembre 2017
 
 Le corpus ne doit pas inventer le chaînon manquant.
 
-## 6. 2018–2019 — deuxième année à Nantes
+Le suivi social est parallèlement documenté par **Chantal Sechet**, assistante sociale en charge du dossier au CROUS de Nantes. Sa présence dans les échanges 2017–2018 en fait un témoin institutionnel potentiel de cette séquence, distinct de la coordination pédagogique.
 
-**Statut : FACT / TRACE administrative primaire.**
+## 6. 2018–2019 — deuxième année à Nantes, hébergement et réseau étudiant
+
+**Statut : FACT / TRACE administrative primaire + VOICE privée dérivée.**
 
 Une notification du **Dossier social étudiant 2018–2019**, transmise par Marie-Louise, indique :
 
@@ -168,33 +174,31 @@ Une notification du **Dossier social étudiant 2018–2019**, transmise par Mari
 - formation : **Arts et architecture — 2ème année** ;
 - bourse sur critères sociaux Culture : **attribution conditionnelle, échelon 6**.
 
-Référence : Gmail:16737e68bc1918ab, pièce Notification.pdf.
+Référence : Gmail:16737e68bc1918ab, pièce `Notification.pdf`.
 
 Cette pièce établit que Nantes n'était pas seulement une admission annoncée en 2017 : le cursus y est documenté au moins jusqu'à la deuxième année.
 
-## 7. Juin 2019 — parole directe depuis Nantes
+Le **23 novembre 2018**, Marie-Louise indique être temporairement hébergée à Nantes par **Alice**, qu'elle décrit comme une camarade. Le même échange mentionne une démarche prévue auprès de « l'assistance sociale ». Le patronyme d'Alice n'est pas établi par Gmail dans les recherches actuelles ; une identification provenant d'une autre source doit conserver cette provenance distincte.
 
-**Statut : VOICE privée utilisée ici uniquement comme trace dérivée, sans publication verbatim intégrale.**
+Le **7 juin 2019**, Marie-Louise indique vivre avec deux de ses camarades, **Camille** et **Juliette**. Les recherches Gmail établissent ces prénoms et leur statut de camarades/cohabitantes, mais pas à elles seules les patronymes actuellement proposés dans d'autres documents du Corpus.
 
-Dans un échange du 7 juin 2019, Marie-Louise indique elle-même qu'elle se trouve alors à Nantes et décrit ses colocataires comme des camarades liées aux Beaux-Arts.
+Le **11 octobre 2019**, le propriétaire **Jacques Laroche** écrit après un échange avec Marie-Louise à propos de « votre amie », que Marie-Louise a le droit d'héberger dans le logement sans que cette amie y ait son domicile officiel (Gmail:16db9d63bdf3e80c). L'identité de cette amie reste `UNKNOWN` : elle ne doit pas être fusionnée sans preuve avec Alice, Juliette ou une autre personne.
 
-Référence : Gmail:16b31d816e8eb42d.
+Ces traces transforment le logement nantais en source de réseau : camarades, hébergement, propriétaire et personnes accueillies constituent autant de témoins ou pistes potentielles.
 
-Cette trace confirme la continuité géographique et sociale du parcours nantais en 2019.
+## 7. Avril 2021 — résidence artistique / tournage avec Hugues Absil
 
-## 8. Avril 2021 — toujours documentée comme étudiante à Nantes
+**Statut : THIRD-PARTY contemporain / TRACE documentaire forte.**
 
-**Statut : THIRD-PARTY contemporain / TRACE documentaire.**
+Une attestation d'embauche établie le **14 avril 2021** par l'artiste plasticien **Hugues Absil** identifie Marie-Louise comme « étudiante à l'école nationale des Beaux-Arts de Nantes » et documente une **résidence artistique pour un tournage du 17 au 26 avril 2021 à Saint-Laurent-le-Minier**.
 
-Une attestation d'embauche établie le **14 avril 2021** par l'artiste plasticien **Hugues Absil**, pour une résidence artistique et un tournage, identifie Marie-Louise comme :
+Référence : Gmail:178df4383f1868a0, pièce `attestation.pdf`.
 
-> « étudiante à l'école nationale des Beaux-Arts de Nantes »
+Marie-Louise transmet l'attestation le 17 avril. Jean Hugues indique alors qu'elle a été « fournie par Anna ». **Anna** doit donc être conservée comme intermédiaire/piste distincte ; son identité complète et son rôle exact restent `UNKNOWN`.
 
-Référence : Gmail:178df4383f1868a0, pièce attestation.pdf.
+À cette date, la continuité documentaire du lien avec Nantes atteint donc au moins avril 2021, tandis que la résidence/tournage ouvre un réseau artistique propre à identifier : Hugues Absil, Anna et les autres participants éventuels.
 
-À cette date, la continuité documentaire du lien avec Nantes atteint donc au moins avril 2021.
-
-## 9. Avril 2021 — première trace « Villa Arson »
+## 8. 8 avril 2021 — première trace « Villa Arson »
 
 **Statut : TRACE, fonction exacte UNKNOWN.**
 
@@ -212,29 +216,31 @@ Elle peut correspondre à une prise de contact, une candidature, un concours, un
 
 Il serait donc incorrect de l'utiliser seule comme preuve d'admission.
 
-## 10. Janvier 2022 — installation préparée à Nice
+## 9. Janvier 2022 — installation préparée à Nice
 
 **Statut : VOICE + TRACE contemporaine.**
 
 En janvier 2022, Marie-Louise échange directement avec un gestionnaire de logement à Nice, visite des chambres, choisit une chambre et demande à pouvoir en prendre possession rapidement.
 
-Elle indique dans cet échange bénéficier d'une bourse étudiante échelon 7.
+Le **19 janvier 2022**, **Wylliam Dell'Anno** lui transmet directement un contrat de résidence temporaire. Le lendemain, Marie-Louise le transfère à son père (Gmail:17e7808badd54b51). Le document concerne une chambre identifiée `CH04` dans un immeuble à Nice, avec cuisine, salle d'eau et salle commune partagées. Il s'agit d'un dispositif de résidence temporaire dans un immeuble vacant, et non d'un bail d'habitation classique.
 
-Le 20 janvier, elle transfère à son père le contrat prérempli reçu du gestionnaire.
+Le même jour, un message de **Sören Maubert / Garantme** indique à Jean Hugues qu'il est le « référent de confiance » de Marie-Louise pour sa garantie et son logement (Gmail:17e7210907b43588).
 
-Référence : Gmail:17e7808badd54b51.
+Ces deux interlocuteurs sont des témoins institutionnels potentiels de l'installation niçoise. Le dispositif implique par ailleurs l'existence d'autres résidents temporaires, dont les identités ne sont pas retrouvées dans Gmail à ce stade.
 
-Cette source établit une **installation matérielle préparée à Nice**.
+Une incohérence documentaire doit être préservée telle quelle : le contrat transmis en janvier 2022 porte une date de début d'occupation au **26/01/2021**. Il peut s'agir d'une erreur de millésime, mais la date réelle d'entrée ne doit pas être corrigée sans autre source.
 
-Elle ne nomme pas la Villa Arson et ne constitue donc pas, à elle seule, la preuve de l'inscription dans cette école.
+Marie-Louise indique dans les échanges liés au logement bénéficier d'une bourse étudiante échelon 7. La source établit une **installation matérielle préparée à Nice**, sans nommer la Villa Arson et sans constituer, à elle seule, la preuve de l'inscription dans cette école.
 
-## 11. Villa Arson — état documentaire actuel
+## 10. Villa Arson — état documentaire actuel
 
 Un mail rétrospectif de Jean Hugues daté du 26 septembre 2024 affirme que Marie-Louise avait poursuivi ses études aux Beaux-Arts de Nantes avant de réussir le concours d'entrée à la Villa Arson.
 
 Référence : Gmail:1922e3c9dd706501.
 
 **Statut : affirmation rétrospective du père, cohérente avec les traces 2021–2022 mais non équivalente à une décision institutionnelle primaire.**
+
+Les recherches Gmail ciblées menées en septembre 2026 n'ont pas retrouvé de correspondance institutionnelle Villa Arson supplémentaire dans la boîte de Jean Hugues. Ce résultat négatif est borné à cette boîte et à ces recherches ; il ne signifie pas absence de correspondance dans les comptes ou archives de Marie-Louise ou de l'établissement.
 
 État actuel :
 
@@ -245,6 +251,9 @@ Nantes jusqu'en avril 2021
 démarche Villa Arson en avril 2021
 = TRACE
 
+résidence / tournage avec Hugues Absil en avril 2021
+= TRACE forte
+
 installation à Nice en janvier 2022
 = TRACE
 
@@ -253,7 +262,7 @@ réussite du concours Villa Arson
   mais pièce institutionnelle primaire encore recherchée
 ~~~
 
-## 12. Chronologie minimale désormais établie
+## 11. Chronologie minimale désormais établie
 
 ~~~text
 printemps 2016
@@ -276,40 +285,80 @@ admission à Nantes rapportée contemporanément
 2017–2018
 Beaux-Arts de Nantes
 → trace institutionnelle directe
+→ accompagnement social CROUS documenté
 
 2018–2019
 Beaux-Arts de Nantes
 → Arts et architecture, 2ème année
+→ Alice héberge temporairement Marie-Louise en novembre 2018
 
-2019
-présence à Nantes confirmée par Marie-Louise
+juin 2019
+Nantes
+→ cohabitation avec Camille et Juliette
 
-14 avril 2021
-toujours qualifiée d'étudiante aux Beaux-Arts de Nantes
-dans une attestation professionnelle
+octobre 2019
+Nantes
+→ une amie hébergée reste à identifier
 
 8 avril 2021
 trace de rendez-vous « Villa Arson »
 
+14–26 avril 2021
+→ Marie-Louise toujours qualifiée d'étudiante aux Beaux-Arts de Nantes
+→ résidence artistique / tournage avec Hugues Absil
+→ Anna, intermédiaire à identifier
+
 janvier 2022
 installation préparée à Nice
+→ Wylliam Dell'Anno / gestionnaire logement
+→ Garantme
+→ résidence temporaire avec espaces communs
+→ réseau des autres résidents encore inconnu
 ~~~
 
-## 13. Lacunes prioritaires
+## 12. Lacunes prioritaires
 
 - résultat de la candidature aux Beaux-Arts de Paris en 2016 ;
 - décision institutionnelle d'admission initiale aux Beaux-Arts de Nantes en 2017 ;
 - résolution administrative exacte du dossier de frais de décembre 2017 ;
 - diplômes, ECTS et passages d'année à Nantes ;
+- identité complète d'Alice à recouper avec une source autre que Gmail ;
+- identité complète de Juliette à recouper avec une source autre que Gmail ;
+- identité de l'amie hébergée à Nantes à l'automne 2019 ;
+- identité et rôle exacts d'Anna dans la résidence/tournage d'avril 2021 ;
+- autres participants et productions de la résidence/tournage avec Hugues Absil ;
 - pièce institutionnelle primaire relative au concours / à l'admission à la Villa Arson ;
 - année et niveau exacts d'entrée à la Villa Arson ;
 - preuve d'inscription et de fréquentation à la Villa Arson ;
+- enseignants, camarades, ateliers et projets de la période Villa Arson ;
+- date réelle d'entrée dans la résidence temporaire niçoise, compte tenu de l'incohérence de millésime du contrat ;
+- identité des autres résidents et du responsable local du site niçois ;
+- date et motif documentés du départ de ce logement ;
 - date et motif documentés de l'interruption éventuelle du cursus ;
 - travaux, ateliers, enseignants, expositions et productions associés à chaque étape.
 
+## 13. Articulation avec les témoins et le Digital Twin
+
+Cette chronologie ne doit pas devenir un récit fermé. Elle est une projection lisible d'un ensemble plus riche de traces, personnes, événements et inconnues.
+
+Cycle de travail :
+
+~~~text
+trace datée
+→ événement chronologique
+→ témoin / organisation / piste
+→ KnowledgeGap
+→ recherche ou sollicitation
+→ nouvelle contribution
+→ qualification épistémique
+→ chronologie éventuellement précisée
+~~~
+
+La date de découverte d'une source ne doit pas être confondue avec la date de l'événement qu'elle documente. Une correspondance transmise après le décès peut, par exemple, documenter un événement antérieur.
+
 ## 14. Principe d'interprétation
 
-Cette chronologie documente une **continuité artistique longue**, faite de candidatures, de formations et de productions.
+Cette chronologie documente une **continuité artistique longue**, faite de candidatures, de formations, de relations et de productions.
 
 Elle ne doit pas être transformée mécaniquement en récit causal du suicide.
 
