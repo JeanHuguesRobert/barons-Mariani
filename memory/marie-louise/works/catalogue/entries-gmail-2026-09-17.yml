@@ -1,0 +1,142 @@
+version: 0.1
+kind: marie-louise-work-catalogue-supplement
+parent_catalogue: entries.yml
+source_campaign: Gmail review 2026-09-17
+entries:
+  - id: MLR-000015
+    preferred_title: Résidence artistique et tournage aux Falguières
+    alternate_titles: []
+    work_types: [project, collective-contribution, audiovisual]
+    artistic_status: established
+    date:
+      earliest: '2021-04-17'
+      latest: '2021-04-26'
+      precision: exact-range
+    places: [Saint-Laurent-le-Minier, Gard]
+    creators: [Marie-Louise Robert]
+    collaborators: [Hugues Absil]
+    description_factual: Marie-Louise est attestée comme participant à une résidence artistique pour un tournage aux Falguières, à Saint-Laurent-le-Minier, du 17 au 26 avril 2021, dans le cadre d'une embauche documentée par l'artiste plasticien Hugues Absil.
+    existence_status: established
+    access_status: trace-only
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:178df4383f1868a0
+        description: Attestation d'embauche du 14 avril 2021, pièce jointe attestation.pdf, indiquant explicitement « résidence artistique » et « tournage ».
+    certainty: high
+    related_entries: [MLR-000011]
+    witnesses:
+      - name: Hugues Absil
+        role: artiste plasticien / employeur attestant la résidence et le tournage
+      - name: Anna
+        role: personne mentionnée dans le fil comme ayant fourni l'attestation; identité à préciser
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+      publication_note: Publier le fait artistique et les références de source sans exposer les coordonnées privées présentes dans l'attestation.
+    open_questions:
+      - Quel était le titre, le sujet et le statut du tournage ?
+      - Quel rôle précis Marie-Louise y tenait-elle ?
+      - Existe-t-il un film, rushes, photographies, générique, dossier de résidence ou autres participants identifiables ?
+      - Cette résidence a-t-elle un lien quelconque avec l'intervention ZAD dans le Sud ? Ne pas les confondre sans preuve.
+    next_probes:
+      - Rechercher Hugues Absil, Falguières, Saint-Laurent-le-Minier, tournage et résidence dans les autres sources du Corpus.
+      - Identifier Anna et les autres participants.
+      - Rechercher fichiers audiovisuels et photographies datés du 17 au 26 avril 2021.
+
+  - id: MLR-000016
+    preferred_title: Candidature / concours artistique de Cergy en 2017
+    alternate_titles: [Concours Cergy 2017]
+    work_types: [project, work-corpus]
+    artistic_status: probable
+    date:
+      value: '2017-05'
+      precision: contemporary-reference
+    places: [Cergy]
+    creators: [Marie-Louise Robert]
+    description_factual: Une correspondance contemporaine du 12 mai 2017 indique que Marie-Louise devait se déplacer pour deux concours artistiques, « Paris et Cergy », alors qu'elle venait d'être annoncée admise à Nantes. La réalisation effective du concours de Cergy et le contenu du dossier restent à établir.
+    existence_status: attested-as-planned
+    access_status: not-located
+    evidence:
+      - evidence_type: C
+        epistemic_status: THIRD-PARTY
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:15bfb6c9f8e87642
+        description: Message contemporain de Jean Hugues Robert indiquant deux concours à venir, Paris et Cergy.
+    certainty: medium
+    related_entries: [MLR-000009, MLR-000010]
+    witnesses: [Ferdinand Pancrazi]
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+    open_questions:
+      - Marie-Louise a-t-elle effectivement présenté le concours de Cergy ?
+      - Quel établissement de Cergy était concerné ?
+      - Existe-t-il un dossier artistique, une convocation, un résultat ou un portfolio associé ?
+    next_probes:
+      - Rechercher Cergy, ENSAPC, concours, convocation, admission, portfolio et transport autour de mai 2017.
+
+  - id: MLR-000017
+    preferred_title: Candidature aux élections législatives de 2022
+    alternate_titles: []
+    work_types: [political-action, project]
+    artistic_status: not-claimed
+    date:
+      value: '2022-05'
+      precision: campaign-period
+    places: [Haute-Corse]
+    creators: [Marie-Louise Robert]
+    description_factual: Marie-Louise participe directement à la production administrative et matérielle de sa candidature aux élections législatives de 2022; Gmail conserve notamment des échanges avec la préfecture et deux fichiers de bulletin transmis depuis ses comptes.
+    existence_status: established
+    access_status: documented
+    evidence:
+      - evidence_type: A
+        epistemic_status: VOICE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:180f59ff7d499f8c
+        description: Messages transférés directement par Marie-Louise concernant la candidature et la création de tiers CHORUS.
+      - evidence_type: A
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:180f63c70c29898f
+        description: Message envoyé depuis malou.dangelis@gmail.com avec le fichier Sans titre-1.pdf sous l'objet BULLETIN.
+      - evidence_type: A
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:180f64276744097a
+        description: Message de Marie-Louise transmettant BULLETINMLJHR.pdf à Jean Hugues Robert et au graphiste Damien Ruvet.
+    certainty: high
+    related_entries: []
+    witnesses:
+      - name: Damien Ruvet
+        role: destinataire graphiste du bulletin; rôle précis à documenter
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+    open_questions:
+      - Quel est le partage exact de conception graphique et éditoriale du bulletin ?
+      - Quels autres textes, visuels ou choix de campagne sont directement attribuables à Marie-Louise ?
+    next_probes:
+      - Comparer les deux PDF de bulletin et les versions publiées.
+      - Rattacher cette entrée au dossier électoral 2022 déjà documenté dans le Corpus.
+
+provenance_leads:
+  - target_entry: MLR-000011
+    type: working-device
+    source_ref: Gmail:16ac6115b80a9fe6
+    fact: Le 17 mai 2019, Marie-Louise indique directement avoir acheté un MacBook Pro pendant sa période nantaise.
+    use: Rechercher cet appareil, ses sauvegardes, comptes synchronisés et disques comme source potentielle du corpus 2019–2021.
+
+research_leads:
+  - target: ZAD proche de Nantes
+    source_ref: Gmail:162cc807820765ac
+    status: contextual-lead-only
+    fact: Le 16 avril 2018, Orfeu Vittoriu écrit à Jean Hugues qu'il quitte Notre-Dame-des-Landes à l'instant.
+    caution: Marie-Louise n'est pas mentionnée dans ce message; il ne prouve donc pas sa présence à la ZAD.
+    next_probe: Interroger/rechercher Orfeu Vittoriu et les échanges connexes pour déterminer s'il a vu Marie-Louise sur place ou connaît les circonstances de son intervention.
+  - target: possible early visual-culture trace
+    source_ref: Gmail:13ac88b6ebf6574b
+    status: weak-lead
+    fact: Une notification Facebook de 2012 indique une photo ajoutée par Marie-Louise avec la mention « Exposition Tim burton. Maquettes ».
+    caution: Cela peut documenter une exposition visitée et non une œuvre de Marie-Louise; ne pas cataloguer comme œuvre sans autre preuve.
