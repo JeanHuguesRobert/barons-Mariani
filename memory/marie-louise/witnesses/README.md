@@ -35,6 +35,7 @@ Il peut contenir :
 
 Études transversales actuellement disponibles :
 
+- [`campaign-01.md`](campaign-01.md) : première campagne de sollicitation, organisée par vagues et Knowledge Gaps ;
 - [`nantes_zad_tournage.md`](nantes_zad_tournage.md) : Nantes, ZAD et tournage ;
 - [`research-2009-2016.md`](research-2009-2016.md) : recherche documentaire et témoins de l'adolescence jusqu'à l'entrée en CPES.
 
