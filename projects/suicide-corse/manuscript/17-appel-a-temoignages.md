@@ -1,5 +1,5 @@
 ---
-title: "L'enquête commence maintenant — appel à témoignages"
+title: "Une nouvelle phase publique de l'enquête — appel à témoignages"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-17"
 status: draft
@@ -31,7 +31,7 @@ classification_confidence: strong
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
 
-# L'enquête commence maintenant
+# Une nouvelle phase publique de l'enquête
 
 ## Appel à témoignages
 
@@ -40,6 +40,12 @@ Le 17 septembre 2024, Marie-Louise est morte.
 À l'occasion du deuxième anniversaire de sa mort, cette édition de *Suicide Corse* rend publique une enquête qui reste ouverte : sur les circonstances de sa mort, sur son parcours, et sur les enseignements que nous pouvons collectivement en tirer.
 
 Cette publication est donc aussi un **appel à témoignages**.
+
+*Suicide Corse* est un objet éditorial hybride : à la fois un livre et un
+magazine d'enquête évolutif. Produit par ordinateur à partir de projections du
+Corpus, il publie aussi un journal d'enquête qui rend visibles les changements
+intervenus depuis l'édition précédente. Cette méthode ne transforme ni une
+projection en fait, ni une hypothèse en conclusion.
 
 Je souhaite recueillir les témoignages de toutes celles et ceux qui, de près ou de loin, ont connu Marie-Louise, l'ont rencontrée, ont échangé avec elle, ont travaillé, étudié, créé, milité ou vécu à ses côtés — mais également de celles et ceux qui détiennent simplement une information, un document, une photographie, un message, un souvenir ou une observation susceptible d'éclairer une partie de son parcours.
 
@@ -72,6 +78,13 @@ Il ne s'agit donc pas seulement de demander :
 Il s'agit aussi de chercher :
 
 > **Que pouvons-nous comprendre de ce qui lui est arrivé, et que pouvons-nous transformer pour rendre d'autres trajectoires possibles ?**
+
+L'enjeu est de déterminer, aussi exactement que les traces le permettront, ce
+qui aurait peut-être permis d'éviter cette issue tragique, afin de prévenir des
+situations comparables et que Marie-Louise ne soit pas morte pour rien. Ce but
+collectif n'autorise ni accusation sans preuve ni tribunal rétrospectif : les
+faits établis, les sources, les hypothèses et les interprétations doivent
+rester distingués.
 
 ## De la Machine à Empêcher à la Machine à Explorer
 
@@ -106,6 +119,11 @@ Elle entre dans l'enquête avec sa provenance et son statut : trace, voix direct
 La réception d'une contribution, sa conservation, son utilisation dans l'enquête et sa publication sont quatre opérations distinctes.
 
 **Transmettre une information n'emporte donc pas automatiquement consentement à sa publication.** Une contribution peut être examinée sans être rendue publique. Toute éventuelle publication doit être décidée séparément, avec le régime de confidentialité approprié.
+
+Ce canal n'est ni un service d'urgence, ni une permanence juridique, et ne
+garantit pas une réponse immédiate ou une publication. En cas de danger
+immédiat pour vous-même ou pour autrui, contactez sans attendre les secours ou
+un service d'urgence compétent.
 
 Cette séparation est essentielle : l'objectif n'est pas d'accumuler des récits publics, mais de produire une connaissance plus exacte.
 
