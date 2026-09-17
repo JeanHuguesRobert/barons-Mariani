@@ -44,8 +44,13 @@ render_contract:
   generated_qmd_is_source: false
   preserve_frontmatter_provenance: true
   preserve_epistemic_distinctions: true
-  frozen_release_mutable: true
-  freeze_condition: "Décision éditoriale explicite de clôture de la preview ; après gel, toute correction substantielle produit une nouvelle édition ou un erratum traçable."
+  frozen_release_mutable: false
+
+# Note technique : `render_contract.frozen_release_mutable` est un invariant fixe côté outillage
+# Ubikia (toujours `false`, indépendant du statut éditorial) ; il ne doit pas être confondu avec
+# la mutabilité éditoriale de cette preview, exprimée par `status: preview-open` ci-dessus et par
+# `freeze_condition` ci-dessous.
+freeze_condition: "Décision éditoriale explicite de clôture de la preview ; après gel, toute correction substantielle produit une nouvelle édition ou un erratum traçable."
 
 provenance_manifest:
   build_date: "2026-09-17"
