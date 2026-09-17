@@ -77,6 +77,14 @@ Un événement peut relier :
 
 La représentation pourra évoluer sous pression de l'usage réel.
 
+## Événements atomiques actuellement indexés
+
+- [2017-03-24 — rencontre CPES avec Marie-Jeanne Tomasi](2017-03-24-cpes-marie-jeanne-tomasi.md)
+- [2017-04-07 — rencontre CPES avec Toni Casalonga](2017-04-07-cpes-toni-casalonga.md)
+- [2017-04-14 — exposition CPES à Scenina, Ajaccio](2017-04-14-scenina-ajaccio.md)
+
+Ces fiches documentent d'abord des **événements de promotion**. Lorsqu'une présence ou participation individuelle de Marie-Louise n'est pas établie, elle reste explicitement UNKNOWN.
+
 ## Sources actuelles
 
 Premières couches de recherche à projeter dans cette chronologie :
