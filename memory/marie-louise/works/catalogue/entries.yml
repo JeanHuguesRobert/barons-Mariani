@@ -1,0 +1,453 @@
+version: 0.1
+kind: marie-louise-work-catalogue
+scope_document: ../catalogue_raisonne_scope.md
+schema: schema.yml
+entries:
+  - id: MLR-000001
+    preferred_title: Le dieu de l'eau
+    alternate_titles: []
+    work_types: [text]
+    artistic_status: established
+    date:
+      value: '2008-12-03'
+      precision: exact
+    places: []
+    creators: [Marie-Louise Robert]
+    description_factual: Histoire envoyée directement par Marie-Louise à son père, avec le thème annoncé « sauver la Terre ».
+    existence_status: established
+    access_status: original-accessible
+    evidence:
+      - evidence_type: A
+        epistemic_status: VOICE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/sources/2008-12-03_jouyeux-Noel-de-lilou_original.eml
+        description: Mail RFC822 original contenant l'œuvre et son attribution directe.
+      - evidence_type: A
+        epistemic_status: VOICE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/sources/le_dieu_de_leau_2008_verbatim.txt
+        description: Texte verbatim conservé et publié.
+    certainty: high
+    related_entries: []
+    source_notes: [memory/marie-louise/works/le_dieu_de_leau_2008.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+      publication_note: Publication verbatim explicitement autorisée pour ces artefacts précis.
+    open_questions: []
+    next_probes: []
+
+  - id: MLR-000002
+    preferred_title: L'altérité en soi
+    alternate_titles: []
+    work_types: [audiovisual]
+    artistic_status: established
+    date:
+      value: '2016-04-03'
+      precision: publication-date
+    places: []
+    creators: [Marie-Louise d'Angelis]
+    description_factual: Vidéo publiée sur YouTube sous le compte Marie-Louise d'Angelis avec la description « Entre aliénation et construction de soi. Microcosmos. »
+    existence_status: established
+    access_status: trace-only
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:153dcd7070142c29
+        description: Notification YouTube contemporaine de mise en ligne.
+    certainty: high
+    related_entries: [MLR-000003]
+    source_notes: [memory/marie-louise/works/l_alterite_en_soi_2016.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Le fichier vidéo original ou une copie complète est-il encore accessible ?
+      - Quelle relation exacte existe avec l'entrée Frontières / stop motion ?
+    next_probes:
+      - Rechercher le fichier vidéo, les captures et anciennes métadonnées YouTube.
+
+  - id: MLR-000003
+    preferred_title: Frontières / stop motion
+    alternate_titles: []
+    work_types: [audiovisual, artwork]
+    artistic_status: established
+    date:
+      value: '2016'
+      precision: year
+    places: [Corte]
+    creators: [Marie-Louise Robert]
+    description_factual: Travail en stop motion documenté dans le contexte d'une exposition autour de la notion de frontière à Corte.
+    existence_status: strongly-attested
+    access_status: trace-only
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/frontieres_stop_motion_2016.md
+        description: Note documentaire consolidant les traces existantes.
+    certainty: medium
+    related_entries: [MLR-000002]
+    source_notes: [memory/marie-louise/works/frontieres_stop_motion_2016.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - S'agit-il d'une œuvre distincte de L'altérité en soi, d'une version ou d'une composante du même travail ?
+    next_probes:
+      - Retrouver documentation d'exposition et éventuels fichiers audiovisuels.
+
+  - id: MLR-000004
+    preferred_title: photoromanJulie
+    alternate_titles: []
+    work_types: [audiovisual]
+    artistic_status: established
+    date:
+      value: '2017-03-28'
+      precision: publication-date
+    places: []
+    creators: [Marie-Louise d'Angelis]
+    description_factual: Vidéo publiée sur YouTube sous le titre photoromanJulie.
+    existence_status: established
+    access_status: trace-only
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:15b16527bf97b95e
+        description: Notification YouTube contemporaine de mise en ligne.
+    certainty: high
+    related_entries: []
+    source_notes: [memory/marie-louise/works/photoroman_julie_2017.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Le fichier vidéo original ou une copie existe-t-il encore ?
+    next_probes:
+      - Rechercher anciennes archives YouTube et supports numériques personnels.
+
+  - id: MLR-000005
+    preferred_title: Peinture murale d'Oletta A
+    alternate_titles: []
+    work_types: [artwork]
+    artistic_status: established
+    date:
+      precision: unknown
+    places: [Oletta]
+    creators: [Marie-Louise Robert]
+    description_factual: Première des deux grandes peintures murales réalisées dans une maison à Oletta.
+    existence_status: attested
+    access_status: not-located
+    evidence:
+      - evidence_type: D
+        epistemic_status: ASSERTION-JHR
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/oletta_premier_chantier_artistique.md
+        description: Existence rapportée et photographies familiales annoncées mais pas encore inventoriées.
+    certainty: medium
+    related_entries: [MLR-000006]
+    source_notes: [memory/marie-louise/works/oletta_premier_chantier_artistique.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Date exacte, propriétaire, dimensions, technique, état actuel et conditions de commande.
+    next_probes:
+      - Retrouver et inventorier les photographies familiales.
+
+  - id: MLR-000006
+    preferred_title: Peinture murale d'Oletta B
+    alternate_titles: []
+    work_types: [artwork]
+    artistic_status: established
+    date:
+      precision: unknown
+    places: [Oletta]
+    creators: [Marie-Louise Robert]
+    description_factual: Seconde des deux grandes peintures murales réalisées dans une maison à Oletta.
+    existence_status: attested
+    access_status: not-located
+    evidence:
+      - evidence_type: D
+        epistemic_status: ASSERTION-JHR
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/oletta_premier_chantier_artistique.md
+        description: Existence rapportée et photographies familiales annoncées mais pas encore inventoriées.
+    certainty: medium
+    related_entries: [MLR-000005]
+    source_notes: [memory/marie-louise/works/oletta_premier_chantier_artistique.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Date exacte, propriétaire, dimensions, technique, état actuel et conditions de commande.
+    next_probes:
+      - Retrouver et inventorier les photographies familiales.
+
+  - id: MLR-000007
+    preferred_title: Dessins attestés en 2014
+    alternate_titles: []
+    work_types: [work-corpus, artwork]
+    artistic_status: established
+    date:
+      value: '2014'
+      precision: terminus-ante-quem-or-contemporary
+    places: []
+    creators: [Marie-Louise Robert]
+    description_factual: Ensemble non individualisé de dessins dont l'existence est attestée par une correspondance familiale contemporaine en 2014.
+    existence_status: attested
+    access_status: not-located
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:146ae7609e546d2d
+        description: Correspondance de juin 2014 faisant explicitement référence aux dessins de Marie-Louise.
+    certainty: high
+    related_entries: [MLR-000008]
+    source_notes: []
+    witnesses: []
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+      publication_note: Ne pas publier la correspondance familiale verbatim sans autorisation dédiée.
+    open_questions:
+      - Nombre, dates, supports, localisation et contenu de ces dessins.
+    next_probes:
+      - Rechercher archives familiales et anciens supports numériques ou photographiques.
+
+  - id: MLR-000008
+    preferred_title: Carnets de croquis attestés en 2018
+    alternate_titles: []
+    work_types: [work-corpus, process-trace, artwork]
+    artistic_status: established
+    date:
+      value: '2018-01-12'
+      precision: attestation-date
+    places: []
+    creators: [Marie-Louise Robert]
+    description_factual: Un ou plusieurs carnets de croquis appartenant à Marie-Louise sont explicitement mentionnés dans une correspondance contemporaine.
+    existence_status: attested
+    access_status: not-located
+    evidence:
+      - evidence_type: C
+        epistemic_status: THIRD-PARTY
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:160e9c3cb28a170e
+        description: Message du 12 janvier 2018 mentionnant les « carnets de croquis » parmi ses affaires.
+    certainty: high
+    related_entries: [MLR-000007]
+    source_notes: []
+    witnesses: []
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+      publication_note: La mention factuelle peut être cataloguée sans reproduire le fil privé.
+    open_questions:
+      - Combien de carnets existaient et où sont-ils aujourd'hui ?
+    next_probes:
+      - Identifier détenteurs successifs et archives familiales susceptibles de les contenir.
+
+  - id: MLR-000009
+    preferred_title: Dossier artistique — candidature aux Beaux-Arts de Paris
+    alternate_titles: [Dossier artistique n°193]
+    work_types: [work-corpus, project]
+    artistic_status: probable
+    date:
+      value: '2016-04'
+      precision: month
+    places: [Paris]
+    creators: [Marie-Louise Robert]
+    description_factual: Dossier artistique déposé pour une candidature en première année aux Beaux-Arts de Paris; son contenu artistique n'est pas encore retrouvé.
+    existence_status: established
+    access_status: trace-only
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:15449b60315649e0
+        description: PDF beauxarts.pdf documentant le dépôt du dossier artistique n°193.
+    certainty: high
+    related_entries: []
+    source_notes: [memory/marie-louise/formation/parcours_artistique_2016_2022.md]
+    witnesses: []
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: false
+    open_questions:
+      - Quelles œuvres composaient ce dossier ?
+      - L'école conserve-t-elle une copie, des images ou métadonnées ?
+    next_probes:
+      - Interroger les archives des Beaux-Arts de Paris et rechercher copies familiales/numériques.
+
+  - id: MLR-000010
+    preferred_title: Corpus CPES Sartène 2016–2017
+    alternate_titles: []
+    work_types: [work-corpus]
+    artistic_status: probable
+    date:
+      earliest: '2016-09'
+      latest: '2017-06'
+      precision: academic-year
+    places: [Sartène]
+    creators: [Marie-Louise Robert]
+    description_factual: Ensemble encore non individualisé de productions susceptibles d'avoir été réalisées pendant la CPES1 au lycée Georges-Clemenceau.
+    existence_status: probable
+    access_status: unknown
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/formation/parcours_artistique_2016_2022.md
+        description: Scolarité en CPES1 documentée par certificat; contenu des productions à inventorier.
+    certainty: medium
+    related_entries: []
+    source_notes: [memory/marie-louise/formation/parcours_artistique_2016_2022.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Quelles productions, évaluations, accrochages ou dossiers subsistent ?
+    next_probes:
+      - Contacter établissement, enseignants et camarades; rechercher archives personnelles.
+
+  - id: MLR-000011
+    preferred_title: Corpus Beaux-Arts de Nantes 2017–2021
+    alternate_titles: []
+    work_types: [work-corpus]
+    artistic_status: probable
+    date:
+      earliest: '2017'
+      latest: '2021'
+      precision: range
+    places: [Nantes]
+    creators: [Marie-Louise Robert]
+    description_factual: Ensemble encore non individualisé des productions réalisées ou présentées pendant le cursus aux Beaux-Arts de Nantes.
+    existence_status: strongly-attested
+    access_status: unknown
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/formation/parcours_artistique_2016_2022.md
+        description: Cursus nantais documenté par plusieurs traces contemporaines 2017–2021.
+    certainty: high
+    related_entries: [MLR-000013]
+    source_notes: [memory/marie-louise/formation/parcours_artistique_2016_2022.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Quels travaux, accrochages, fichiers, évaluations, portfolios et projets subsistent ?
+    next_probes:
+      - Interroger archives de l'école, enseignants, camarades et anciens supports numériques.
+
+  - id: MLR-000012
+    preferred_title: Corpus Villa Arson / Nice 2021–2022
+    alternate_titles: []
+    work_types: [work-corpus]
+    artistic_status: probable
+    date:
+      earliest: '2021'
+      latest: '2022'
+      precision: range
+    places: [Nice]
+    creators: [Marie-Louise Robert]
+    description_factual: Ensemble potentiel de productions lié au passage documenté vers Nice et à la Villa Arson; contenu à établir.
+    existence_status: possible
+    access_status: unknown
+    evidence:
+      - evidence_type: C
+        epistemic_status: TRACE
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/formation/parcours_artistique_2016_2022.md
+        description: Démarche Villa Arson et installation à Nice documentées; productions non encore identifiées.
+    certainty: medium
+    related_entries: []
+    source_notes: [memory/marie-louise/formation/parcours_artistique_2016_2022.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Quels travaux peuvent être directement rattachés à cette période et quel était exactement le statut institutionnel ?
+    next_probes:
+      - Rechercher archives de la Villa Arson, dossiers d'étudiante, enseignants, camarades et fichiers personnels.
+
+  - id: MLR-000013
+    preferred_title: Intervention dans une ZAD proche de Nantes
+    alternate_titles: []
+    work_types: [situated-intervention, collective-contribution]
+    artistic_status: unknown
+    date:
+      precision: unknown
+    places: [région de Nantes]
+    creators: [Marie-Louise Robert]
+    description_factual: Intervention de Marie-Louise dans une ZAD située près de Nantes, actuellement connue par témoignage de Jean Hugues; nature exacte de l'action à documenter.
+    existence_status: attested
+    access_status: witnessed-only
+    evidence:
+      - evidence_type: E
+        epistemic_status: ASSERTION-JHR
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/zad_nantes_intervention.md
+        description: Assertion actuelle à corroborer par traces contemporaines et témoins.
+    certainty: medium
+    related_entries: [MLR-000011, MLR-000014]
+    source_notes: [memory/marie-louise/works/zad_nantes_intervention.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Quelle ZAD exactement ?
+      - Quand et combien de temps ?
+      - Quelle action précise ?
+      - Quelles traces ont été laissées ?
+      - Une intention ou forme artistique peut-elle être établie ?
+    next_probes:
+      - Rechercher Gmail, photos, réseaux sociaux, camarades nantais et archives de la ZAD.
+
+  - id: MLR-000014
+    preferred_title: Intervention dans une ZAD du sud de la France
+    alternate_titles: []
+    work_types: [situated-intervention, collective-contribution]
+    artistic_status: unknown
+    date:
+      precision: unknown
+    places: [sud de la France]
+    creators: [Marie-Louise Robert]
+    description_factual: Intervention de Marie-Louise dans une seconde ZAD située dans le sud de la France, actuellement connue par témoignage de Jean Hugues; lieu et nature exacte à établir.
+    existence_status: attested
+    access_status: witnessed-only
+    evidence:
+      - evidence_type: E
+        epistemic_status: ASSERTION-JHR
+        source_type: SOURCE-CORPUS
+        source_ref: memory/marie-louise/works/zad_sud_intervention.md
+        description: Assertion actuelle à corroborer par traces contemporaines et témoins.
+    certainty: medium
+    related_entries: [MLR-000013]
+    source_notes: [memory/marie-louise/works/zad_sud_intervention.md]
+    witnesses: []
+    privacy:
+      visibility: public
+      contains_private_material: false
+    open_questions:
+      - Quelle ZAD exactement ?
+      - Quand et combien de temps ?
+      - Quelle action précise ?
+      - Quelles traces ont été laissées ?
+      - Une intention ou forme artistique peut-elle être établie ?
+    next_probes:
+      - Rechercher Gmail, photos, réseaux sociaux, témoins et archives militantes.
