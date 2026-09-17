@@ -280,6 +280,10 @@ Une contribution doit pointer vers un objet séparé :
 - identification d'un autre témoin ;
 - correction ou contradiction.
 
+Le protocole de [réception gouvernée](CONTRIBUTION_INTAKE.md) précise la
+frontière entre l'accusé de réception, l'objet source privé, la qualification et
+l'éventuelle projection publique.
+
 ## 16. Résultats négatifs
 
 Conserver également les résultats négatifs utiles :
