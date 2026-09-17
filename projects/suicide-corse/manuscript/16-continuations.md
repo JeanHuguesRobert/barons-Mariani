@@ -51,6 +51,16 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 - [ ] **Résultat de l'Act territorial `#1755-01`.** Planifié mais non exécuté au moment de cette édition (chapitre 10).
 - [ ] **Réponse du rejet du 27 septembre 2024.** Établir si le mécanisme est une dispersion sans auteur ou une application procédurale normale (chapitre 11) — sans jamais l'intégrer à une chaîne causale antérieure au décès.
 
+## Appel à témoignages et collecte structurée
+
+- [ ] **Ouvrir publiquement l'appel à témoignages.** Le chapitre 17 matérialise cet appel dans l'édition anniversaire. Condition de clôture : appel publié sur le site, canal de réponse explicite et utilisable, et possibilité de contribution sans procédure disproportionnée.
+- [ ] **Constituer l'annuaire des témoins potentiels.** Maintenir un ensemble incrémental et révisable de personnes physiques et morales susceptibles de détenir une information, avec provenance de l'identification, relation éventuelle avec Marie-Louise, période, sujets possibles et moyens de contact connus ou à rechercher. Cet annuaire n'est ni une liste d'accusés ni une liste de faits établis.
+- [ ] **Qualifier chaque contribution dès l'entrée.** Distinguer au minimum `trace`, `voix directe`, `trace tierce`, `témoignage`, `fait suffisamment documenté`, `interprétation`, `hypothèse` et `inconnu`, sans promotion automatique d'un niveau à l'autre.
+- [ ] **Séparer réception, conservation, exploitation et publication.** Le fait qu'une personne transmette une information n'emporte pas automatiquement consentement à sa publication. Les régimes de confidentialité, de citation, d'anonymisation et de publication doivent rester distincts et traçables.
+- [ ] **Raccorder les témoignages aux objets documentaires existants.** Une contribution peut concerner simultanément une personne, un événement, une œuvre, un lieu, une institution, une relation, une capacité, une fermeture ou un `UNKNOWN`. Le système de collecte doit permettre ces liens sans imposer un document monolithique.
+- [ ] **Faire contribuer la collecte aux deux jumeaux numériques.** Les nouvelles traces relatives à Marie-Louise alimentent son Twin documentaire ; les traces relatives aux institutions, dispositifs, territoires et mécanismes corses alimentent le Twin territorial. Les deux graphes peuvent être reliés sans jamais être confondus.
+- [ ] **Préserver l'agilité et l'Optimistic Locking.** Le dispositif doit permettre des enrichissements atomiques, révisables et traçables, sans attendre une modélisation SQL complète. Une base structurée pourra être introduite lorsque le volume ou les usages le justifieront.
+
 ## Sur la Corse
 
 - [ ] **Résilience de canal territoriale.** Le chapitre 9 laisse délibérément vide la case du test d'invariance correspondant à la résilience de canal individuelle documentée en juillet 2024 : aucun cas territorial comparable n'est encore identifié.
@@ -60,8 +70,9 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 ## Sur la méthode et l'édition elle-même
 
 - [ ] **Revue contradictoire complète par un tiers.** La revue effectuée avant cette édition était une auto-revue ; une lecture contradictoire indépendante reste à mener, comme le prévoyait le contrat minimal de l'édition anniversaire (issue #75).
+- [ ] **Clôture de la preview anniversaire.** L'édition du 17 septembre reste une préversion publique évolutive jusqu'à décision explicite de gel. Condition de clôture : dernière revue effectuée, ajouts de dernière minute intégrés ou explicitement différés, projection rendue une dernière fois, manifeste mis à jour, puis passage explicite à un statut figé.
 - [ ] **Rythme hebdomadaire.** Établir la première édition « magazine » du lundi suivant ce numéro spécial, avec son propre changelog et son lien depuis le Journal de campagne.
-- [ ] **Entrée dans `editions/index.md` et manifeste de provenance.** À produire au moment de la clôture effective de cette édition datée.
+- [ ] **Entrée dans `editions/index.md` et manifeste de provenance.** Mettre à jour l'entrée au moment de la clôture effective de cette édition datée et conserver la distinction entre rendus de preview et édition finalement gelée.
 - [ ] **Chantier de recherche élargi (issue #76).** Continuer d'y verser ce qui n'est pas encore suffisamment stabilisé pour entrer dans une édition datée.
 
 ## Ce que ce chapitre garantit
