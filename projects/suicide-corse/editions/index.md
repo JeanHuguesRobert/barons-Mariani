@@ -40,6 +40,8 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 - **Tag / release :** aucun tag Git créé à ce stade.
 - **Statut de revue :** auto-revue contradictoire effectuée par l'agent rédacteur le 17 septembre 2026 (quatre corrections mineures). **Revue contradictoire indépendante par un tiers non encore effectuée** — chantier ouvert, voir chapitre 16 (« Continuations »).
 
+Journal de campagne correspondant : [`journals/2026-09-17-numero-special-anniversaire.md`](../journals/2026-09-17-numero-special-anniversaire.md).
+
 Cette édition répond au critère minimal posé par l'issue #75 : une édition datée, figée et citable, même incomplète au niveau du rendu, plutôt qu'une attente indéfinie d'une chaîne de publication achevée. Le chapitre 16 du manuscrit (« Continuations ») liste explicitement, avec leurs conditions de clôture, tout ce que cette édition laisse volontairement ouvert : le registre conflictuel de la parole de Marie-Louise, le contenu non localisé du décryptage de 2009, la note testamentaire rapportée, les proverbes réservés, et la revue contradictoire indépendante elle-même.
 
 Une correction substantielle de cette édition ne doit pas la réécrire silencieusement : elle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
