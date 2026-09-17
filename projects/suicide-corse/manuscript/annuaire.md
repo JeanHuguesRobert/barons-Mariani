@@ -53,8 +53,53 @@ Le chapitre ne publie pas automatiquement :
 
 Un témoignage ultérieur reste une source attribuée et datée ; il n'est pas promu automatiquement au rang de fait.
 
-## État
+Si vous êtes l'une des personnes mentionnées ici, ou si vous pouvez aider à en retrouver une, voir le chapitre 17 (« Appel à témoignages ») : `institutmariani@gmail.com`.
 
-Squelette créé le 18 septembre 2026.
+## Personnes et organisations identifiées
 
-Son contenu sera alimenté depuis memory/marie-louise/witnesses/ et relié à la Chronologie, sans devenir une source concurrente du Corpus.
+### Réseau nantais et tournage 2021
+
+Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestation de résidence artistique. Détail intégral et hiérarchie de sollicitation dans [`witnesses/nantes_zad_tournage.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/memory/marie-louise/witnesses/nantes_zad_tournage.md).
+
+- **Hugues Absil** — artiste plasticien ; témoin direct très fort d'une résidence artistique et d'un tournage engageant Marie-Louise du 17 au 26 avril 2021 aux Falguières (Saint-Laurent-le-Minier, Gard). Moyens de contact professionnels publics disponibles indépendamment de ce Corpus.
+- **Camille Gérard** — colocataire documentée de Marie-Louise à Nantes (bail 2019-2020). Témoin potentiel très fort du quotidien nantais.
+- **Alice Gautier** — camarade ayant hébergé Marie-Louise à Nantes en 2018, selon ses propres mots. À ne pas confondre avec une artiste contemporaine homonyme active à Nantes ; l'identité n'est pas établie.
+- **Juliette Fetaz** — colocataire/camarade à Nantes, documentée par un avenant de bail et par un message de Marie-Louise datant de juin 2019.
+- **Pauline Tomaszewski** — locataire antérieure du même logement nantais ; valeur documentaire directe encore incertaine.
+- **Orfeu Vittoriu-Gregorj** — présence directe documentée à Notre-Dame-des-Landes en 2018 ; son éventuel lien avec une visite de Marie-Louise sur place n'est pas établi.
+- **« Anna »** — personne non identifiée par son nom de famille, désignée comme fournissant l'attestation de résidence de 2021. Piste ouverte prioritaire.
+
+### CPES de Sartène, 2016-2017
+
+Trois rencontres pédagogiques publiques documentées, avec participation individuelle de Marie-Louise `UNKNOWN` dans chaque cas — voir la Chronologie :
+
+- **Marie-Jeanne Tomasi** — cinéaste, intervenante le 24 mars 2017 ; **Jean-Jacques Cangioni** — coordinateur de la CPES, témoin pédagogique potentiel transversal.
+- **Toni Casalonga** — sculpteur-graveur, intervenant le 7 avril 2017 ; **Hervé Quilichini** — graveur associé ; **Idryss Lyons** — élève de la promotion, auteur du compte rendu public.
+- Exposition à **Scenina, Ajaccio**, le 14 avril 2017.
+
+### Corte et adolescence, 2009-2013
+
+Recherche en cours sur le réseau de pairs antérieur à l'entrée en CPES. Détail dans [`witnesses/research-2009-2016.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/memory/marie-louise/witnesses/research-2009-2016.md).
+
+- **Jade le Roux** — interactions documentées dès 2009 par des traces sociales ; statut de témoin encore à qualifier.
+
+### Contexte familial et judiciaire, 2009
+
+Le registre documente l'existence d'une psychologue mandatée dans un contexte de séparation parentale et d'une procédure d'appel associée. Ces personnes relèvent d'un registre privé distinct (`registre-mariani`), non public. Voir le chapitre 8.
+
+## Organisations et institutions
+
+- **Beaux-Arts de Nantes** (2017-2021) et **Villa Arson, Nice** (2021-2022) — détenteurs potentiels de dossiers de scolarité, de travaux et de contacts de promotion.
+- **Lycée Georges-Clemenceau, Sartène** (CPES 1, 2016-2017).
+- **Gendarmerie de Vence** — dépositaire de la procédure d'enquête sur les circonstances du décès et, le cas échéant, de la note manuscrite mentionnée au chapitre 15 ; recouvrement encore en cours.
+- **Conseil constitutionnel** — auteur de la décision procédurale du 27 septembre 2024 évoquée au chapitre 11.
+
+## Ce qu'une mention dans cet annuaire ne signifie pas
+
+Être mentionné ici ne signifie ni qu'un témoignage a déjà été recueilli, ni qu'une relation avec Marie-Louise est confirmée — certaines pistes (Alice Gautier, Orfeu Vittoriu-Gregorj, « Anna », la présence aux rencontres CPES) restent explicitement non confirmées.
+
+Une personne peut demander à être retirée de cet annuaire, ou à ce que sa mention soit reformulée, en écrivant à `institutmariani@gmail.com`.
+
+## Pistes ouvertes
+
+Les lacunes documentaires les plus significatives à ce stade — réseau amical 2009-2016, période estivale 2024, identité de la psychologue et du contexte judiciaire de 2009, identité d'« Anna », présence de Marie-Louise aux rencontres CPES — sont reprises comme continuations explicites au chapitre 16.

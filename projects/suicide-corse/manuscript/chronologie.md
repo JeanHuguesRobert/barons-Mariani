@@ -16,6 +16,9 @@ provenance:
   origin_ref: main
   derived_from:
     - memory/marie-louise/chronology/README.md
+    - memory/marie-louise/chronology/2017-03-24-cpes-marie-jeanne-tomasi.md
+    - memory/marie-louise/chronology/2017-04-07-cpes-toni-casalonga.md
+    - memory/marie-louise/chronology/2017-04-14-scenina-ajaccio.md
     - memory/marie-louise/carte.md
     - memory/marie-louise/formation/parcours_artistique_2016_2022.md
     - memory/marie-louise/witnesses/research-2009-2016.md
@@ -47,8 +50,58 @@ Elle ne transforme pas rétrospectivement la vie de Marie-Louise en préfigurati
 
 > Le suicide ouvre l'enquête ; il ne devient pas la clé de lecture rétroactive de la vie.
 
-## État
+Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronology/` le distingue, son statut épistémique : **FACT**, **TRACE**, **VOICE**, **THIRD-PARTY**, **INFERENCE**, **UNKNOWN**. Une date approximative est signalée comme telle.
 
-Squelette créé le 18 septembre 2026.
+## Repères
 
-La matière sera alimentée depuis les couches sources du Corpus, notamment memory/marie-louise/chronology/, sans copie brute de données privées.
+**2008 — *Le dieu de l'eau*.** `VOICE` / `TRACE`. Premier texte créatif conservé de Marie-Louise, alors enfant. Texte intégral au chapitre 14.
+
+**2009 — janvier-février, contexte familial et judiciaire.** `TRACE` / `UNKNOWN` (partiel). Rendez-vous documenté avec une psychologue désignée dans un contexte de séparation parentale ; un « décryptage » écrit par l'auteur existe, sa version papier reste à retrouver. Voir chapitre 8.
+
+**2009–2013 — Corte, réseau de pairs.** `TRACE` sociale, recherche en cours. Voir l'Annuaire.
+
+**Printemps 2016 — Terminale et orientation artistique.** `FACT` / `TRACE`.
+
+**2016 — *L'altérité en soi*.** `FACT`. Première œuvre documentée sur la fragmentation de l'être et les frontières identitaires.
+
+**2016–2017 — CPES 1, lycée Georges-Clemenceau de Sartène.** `FACT`. Trois rencontres pédagogiques publiques de la promotion sont documentées durant cette année (24 mars, 7 et 14 avril 2017, avec Marie-Jeanne Tomasi, Toni Casalonga et l'exposition Scenina à Ajaccio) ; la participation individuelle de Marie-Louise à chacune reste `UNKNOWN` et ne doit pas être présumée.
+
+**2017 — suppléante de candidature.** `FACT`. Premier engagement électoral documenté, à 19 ans.
+
+**2017–2021 — Beaux-Arts de Nantes.** `FACT` / `TRACE`. Période la mieux documentée par les traces de vie quotidienne. Voir l'Annuaire.
+
+**2017, décembre — friction Nantes.** `TRACE`. Différend autour de frais, résolu par des amortisseurs plutôt qu'une rupture. Analysé au chapitre 9.
+
+**2018 — Oletta, premier chantier artistique professionnel connu.** `FACT`.
+
+**2019 — vie de colocation à Nantes.** `FACT` / `TRACE`. Citation directe d'avril 2019 au chapitre 15.
+
+**2020 — remplaçante proposée, refusée pour âge.** `FACT`. Marie-Louise a 22 ans ; la loi exige 24 ans. Rapprochée au chapitre 15 de l'obstacle rencontré par l'auteur en 2026 (`ASSERTION-JHR` explicite).
+
+**Avril 2021 — résidence artistique et tournage, Falguières (Gard).** `FACT` / `TRACE`. Voir l'Annuaire.
+
+**2021–2022 — Villa Arson, Nice.** `FACT` / `TRACE`. Interruption puis démarche de réintégration, avec une réponse négative rapportée par l'auteur (`THIRD-PARTY`, voir chapitre 16).
+
+**2022 — première candidature titulaire documentée.** `FACT`.
+
+**Janvier 2024 — aidance directement assumée.** `FACT` / `VOICE`. Mobilisée au chapitre 5.
+
+**Juin 2024 — seconde candidature titulaire et demande directe.** `FACT` / `VOICE`. Le 16 juin 2024, Marie-Louise écrit vouloir que l'auteur soit son directeur de campagne. Citée au chapitre 15.
+
+**Juin–juillet 2024 — campagne, plaintes et préjudice allégué.** `TRACE` / `UNKNOWN` (partiel). Voir chapitre 16.
+
+**Été 2024 — séquence précédant le décès.** `TRACE` (partielle). Zone documentaire prioritaire ; questions ouvertes listées au chapitre 16.
+
+**17 septembre 2024 — mort de Marie-Louise.** `FACT`, avec une contradiction de source sur l'heure exacte non résolue (chapitre 16).
+
+**Après le 17 septembre 2024.** `TRACE`. Obstacles administratifs et juridiques rencontrés par l'auteur, point de départ de l'enquête (chapitres 0 et 17).
+
+**27 septembre 2024 — rejet procédural du Conseil constitutionnel.** `FACT`. Postérieur de dix jours à la mort ; **ne doit jamais être causalement rattaché à elle** — voir chapitre 11.
+
+**2025, janvier — autorisation de crémation.** `FACT` rapportée par le conseil.
+
+**2026 — ouverture de l'enquête et candidature sénatoriale de l'auteur.** `FACT`. Élargissement à une lecture territoriale (chapitres 5-11), à la mémoire directe de Marie-Louise (chapitres 14-15) et à un appel public à témoignages (chapitres 17-19), pour le deuxième anniversaire de sa mort.
+
+## Ce que cette chronologie ne fait pas
+
+Elle ne comble aucune lacune par inférence narrative. Là où le Corpus indique `UNKNOWN`, ce chapitre le conserve tel quel. Les lacunes les plus prioritaires — réseau amical 2009-2016, été 2024 — restent des chantiers actifs : voir le chapitre 16 et l'Annuaire.
