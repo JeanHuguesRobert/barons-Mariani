@@ -79,6 +79,7 @@ La représentation pourra évoluer sous pression de l'usage réel.
 
 ## Événements atomiques actuellement indexés
 
+- [2016-03-15 — ENSAD, recours gracieux après concours d'admission](2016-03-15-ensad-recours-gracieux.md)
 - [2017-03-24 — rencontre CPES avec Marie-Jeanne Tomasi](2017-03-24-cpes-marie-jeanne-tomasi.md)
 - [2017-04-07 — rencontre CPES avec Toni Casalonga](2017-04-07-cpes-toni-casalonga.md)
 - [2017-04-14 — exposition CPES à Scenina, Ajaccio](2017-04-14-scenina-ajaccio.md)
