@@ -8,7 +8,7 @@ ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
 last_modified_at: '2026-09-18'
-version: '0.6'
+version: '0.7'
 status: working — canonical persons index
 language: fr
 license: CC BY-SA 4.0
@@ -101,7 +101,7 @@ Les éléments suivants sont conservés comme **mémoire directe JHR à corrobor
 
 - la maison familiale de Venzolasca et les terrains alentour ont été vendus ; le tombeau / caveau familial a été conservé ;
 - l'existence du caveau familial de Venzolasca est indépendamment corroborée par le faire-part de Pierre de Casabianca (2014), qui indique qu'il devait y reposer ;
-- Claire de Casabianca, dite **« Clairette »**, a épousé **Philippe Boisseau** ; ce mariage est indépendamment corroboré par le faire-part de Philippe Boisseau (2019) ;
+- **Claire de Casabianca dite « Clairette »**, sœur de Pierre et de Rose-Marie (« Moussia »), donc tante de Claire fille de Pierre, a épousé **Philippe Boisseau** ; ce mariage est indépendamment corroboré par le faire-part de Philippe Boisseau (2019) ;
 - **Marc Boisseau** est un fils de Claire et Philippe ; le faire-part de Philippe le cite parmi leurs enfants ;
 - selon JHR, Marc Boisseau a déposé discrètement, sans publicité familiale préalable (« en catimini » dans le souvenir rapporté), les cendres de Rose-Marie de Casabianca (« Moussia ») dans le tombeau familial de Venzolasca ; les circonstances précises, la date et une éventuelle trace documentaire restent à rechercher.
 
@@ -129,6 +129,16 @@ personne
 ```
 
 Pour une personne vivante, notamment **Jean Hugues Noël Robert**, la notice publique future devra rester limitée aux éléments publics, pertinents pour le corpus et proportionnés à sa fonction documentaire ; la mémoire privée ne doit pas être aspirée automatiquement dans la publication.
+
+## Programme de dépouillement — *La famille de Casabianca de 1400 à nos jours*
+
+L'ouvrage familial rédigé par **Rose-Marie de Casabianca (« Moussia »)**, *La famille de Casabianca de 1400 à nos jours* (2010), doit devenir une **source secondaire structurante explicitement référencée et dépouillée**, et non rester une simple citation bibliographique.
+
+Priorité de travail : reconstruire de manière continue la branche pertinente **depuis la génération précédant Marguerite de Casabianca (née en 1861, épouse de Pierre Mariani) jusqu'aux générations contemporaines**, en distinguant à chaque maillon : filiation donnée par Moussia, corroboration par état civil / faire-part / archives, mémoire familiale JHR, discordances et inconnues.
+
+Point d'identité désormais fixé par JHR : **Claire, correspondante de Jean Hugues, est la fille de Pierre ; Claire dite « Clairette » est la sœur de Pierre et de Moussia et donc la tante de cette Claire**. Les deux homonymes doivent rester strictement distinctes dans l'index et les futures notices.
+
+Le document de Moussia doit être recherché dans les fonds accessibles (Corpus, bibliothèque/fichiers, Drive et archives familiales). Une fois retrouvé, produire idéalement : (1) une référence bibliographique canonique ; (2) un relevé des pages concernant la branche cible ; (3) un graphe personnes/relations sourcé page par page ; (4) une liste des actes primaires à rechercher pour fermer les filiations ; (5) une projection publique ne contenant, pour les personnes vivantes, que les données proportionnées et pertinentes.
 
 ## Dossiers transversaux liés
 
