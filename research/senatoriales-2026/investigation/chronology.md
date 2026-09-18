@@ -40,13 +40,13 @@ Elle est volontairement factuelle et évolutive.
 
 | Heure CEST | Événement | Statut | Observation |
 |---|---|---|---|
-| avant 15:00 | courriel adressé à la préfecture, avec le greffe en copie, signalant notamment l'absence apparente du courriel vidéo dans le dossier préfectoral | established | établit que l'existence et l'omission apparente de cet élément ont été signalées au TA avant l'audience |
+| 14:09:17 | courriel adressé à la préfecture, avec le greffe en copie, signalant notamment l'absence apparente du courriel vidéo dans le dossier préfectoral | established | établit que l'existence et l'omission apparente de cet élément ont été signalées au TA avant l'audience |
 | 15:00 | ouverture de l'audience publique | established | dossiers n° 2601714-1 et 2601715-1 |
 | ouverture de l'audience | remise en main propre d'observations manuscrites au greffier | reported | témoignage direct de Jean Hugues Noël Robert ; Sagace comporte par ailleurs une entrée distincte « Réception d'une lettre », dont l'identité exacte reste ouverte |
 | 15:15 | clôture de l'instruction à l'issue de l'audience | established | mention du jugement |
 | 15:48:32 | envoi par courriel d'une note en délibéré avec attestation Caf | established | envoi au greffe |
 | 15:49 | enregistrement de la note en délibéré | established | heure mentionnée dans le jugement |
-| après 15:49, heure exacte inconnue | décision | inferred | le greffe a confirmé que la formation de jugement avait pris connaissance de la note en délibéré avant de prendre sa décision ; l'heure exacte reste inconnue |
+| après prise de connaissance de la note enregistrée à 15:49, heure exacte inconnue | décision | inferred | chaîne probatoire : note enregistrée à 15:49 ; le greffe a ensuite confirmé que la formation de jugement en avait pris connaissance avant de décider ; l'heure exacte de cette prise de connaissance et celle de la décision restent inconnues |
 | heure inconnue | mise à disposition / jugement le 14 septembre | established | date établie ; heure non établie |
 
 ## 15–18 septembre 2026 : enquête postérieure
