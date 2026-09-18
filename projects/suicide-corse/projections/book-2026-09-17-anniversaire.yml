@@ -10,9 +10,8 @@ author: "Jean Hugues Noël Robert"
 source_manifest: ../corpus.yml
 edition_label: "Numéro spécial du 17 septembre 2026 — édition anniversaire"
 
-# Cette projection succède au bootstrap historique (book.yml, chapitres 00-04 seuls).
-# Elle reste en préversion publique évolutive jusqu'au gel éditorial explicite.
-# Des ajouts de dernière minute peuvent encore être intégrés et donner lieu à de nouveaux rendus traçables.
+# Dernière preview candidate avant décision humaine de gel.
+# Le gel reste une décision éditoriale explicite et distincte du rendu.
 
 chapters:
   - ../manuscript/00-ouverture.md
@@ -33,13 +32,14 @@ chapters:
   - ../manuscript/15-la-parole-de-marie-louise.md
   - ../manuscript/16-continuations.md
   - ../manuscript/17-appel-a-temoignages.md
+  - ../manuscript/17-genealogie.md
   - ../manuscript/chronologie.md
   - ../manuscript/annuaire.md
 
 outputs:
   required: [html, pdf, epub]
   optional: []
-  status_note: "Préversion publique évolutive. Rendu HTML/PDF/EPUB produit le 17 septembre 2026 via JeanHuguesRobert/ubikia (fix b774bfe : rendu de tous les formats en une seule invocation Quarto ; fix 687d673 : support epub). Exécuté sur fracta2 (Quarto 1.10.18 + TinyTeX ; l'epub ne requiert que Pandoc, inclus dans Quarto). Les artefacts sont publiés sur https://suicidecorse.baronsmariani.org/editions/2026-09-17/ et peuvent être remplacés par de nouveaux rendus traçables jusqu'au gel explicite de l'édition."
+  status_note: "Préversion publique évolutive. Un nouveau rendu doit intégrer le chapitre Généalogie avant le gel explicite de l'édition."
 
 render_contract:
   canonical_source_format: markdown
@@ -48,20 +48,16 @@ render_contract:
   preserve_epistemic_distinctions: true
   frozen_release_mutable: false
 
-# Note technique : `render_contract.frozen_release_mutable` est un invariant fixe côté outillage
-# Ubikia (toujours `false`, indépendant du statut éditorial) ; il ne doit pas être confondu avec
-# la mutabilité éditoriale de cette preview, exprimée par `status: preview-open` ci-dessus et par
-# `freeze_condition` ci-dessous.
 freeze_condition: "Décision éditoriale explicite de clôture de la preview ; après gel, toute correction substantielle produit une nouvelle édition ou un erratum traçable."
 
 provenance_manifest:
   build_date: "2026-09-17"
-  source_commit: "76c76a245506797a1d3ca8b8a8134536117abd3a"
+  source_commit: "TO_BE_SET_BY_NEXT_RENDER"
   source_repository: "JeanHuguesRobert/barons-Mariani"
   renderer_version: "quarto 1.10.18 (see manifest.json for exact build)"
-  review_status: "auto-revue contradictoire effectuée par l'agent rédacteur ; revue contradictoire indépendante par un tiers non encore effectuée (chapitre 16, chantier ouvert)"
+  review_status: "dernière preview candidate avant gel ; revue contradictoire indépendante non encore effectuée"
 
-editorial_contract_source: "GitHub issue #75, tous commentaires jusqu'au 2026-09-17"
+editorial_contract_source: "GitHub issue #75, tous commentaires jusqu'au 2026-09-18"
 
 known_deferred_content:
   - "Registre conflictuel de la parole de Marie-Louise (2018, 2021) — voir chapitre 15, réservé aux éditions hebdomadaires."
@@ -71,7 +67,7 @@ known_deferred_content:
 
 open_questions:
   - "Final page format and print geometry."
-  - "Cover asset and rights metadata."
+  - "Cover asset and rights metadata — candidat souhaité : dernière extraction d'image issue du bulletin de vote ; asset matériel à localiser avant rendu."
   - "Citation/bibliography rendering convention."
   - "License treatment for mixed-rights external assets."
   - "Modalités publiques de réception et de qualification des témoignages."
