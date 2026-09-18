@@ -169,6 +169,10 @@ La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulura
 
 Le chapitre 15 mentionne également, avec la prudence maximale que son statut de témoignage unique impose, une note rapportée par l'auteur seul — retrouvée dans la pièce où Marie-Louise est morte, et qui serait à l'origine du fonds de dotation en cours de constitution **Les Amis de Malou**. La pièce primaire elle-même n'a pas été récupérée ; elle est détenue par la gendarmerie de Vence.
 
+## Généalogie — projection du sous-corpus familial
+
+- [`17-genealogie.md`](manuscript/17-genealogie.md) — nouveau chapitre consacré à l'inscription de Marie-Louise dans la généalogie familiale. Il est explicitement une **projection** du sous-corpus généalogique canonique du Musée Mariani, et non une source autonome. Le chantier prioritaire consiste à dépouiller l'ouvrage de Rose-Marie de Casabianca (« Moussia »), *La famille de Casabianca de 1400 à nos jours* (2010), depuis la génération précédant Marguerite de Casabianca (1861) jusqu'aux générations contemporaines, puis à confronter les filiations aux sources primaires.
+
 Un dernier chapitre rassemble tous les chantiers volontairement laissés ouverts :
 
 - [`16-continuations.md`](manuscript/16-continuations.md) — reprend le concept de Continuation déjà employé ailleurs dans le Corpus (`architecture.md`, `cop-core`) : chaque chantier ouvert y porte sa propre condition de clôture explicite, plutôt qu'un simple « à approfondir ».
