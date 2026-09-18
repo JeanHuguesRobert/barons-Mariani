@@ -8,7 +8,7 @@ ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
 last_modified_at: '2026-09-18'
-version: '0.5'
+version: '0.6'
 status: working — canonical persons index
 language: fr
 license: CC BY-SA 4.0
@@ -94,6 +94,18 @@ Ces codes sont des raccourcis de navigation. Ils ne remplacent pas l’appareil 
 | **Marguerite Robert** | dates à établir ici | Robert ; fille indiquée de Marie-Louise Mariani et Jean Robert ; mère de Jean Hugues Noël Robert selon la chaîne actuelle | Corse / continent à documenter | Maillon explicite entre Marie-Louise Mariani et la génération contemporaine | [`Relèvement du nom d’Angelis`](../../research/relevement_nom_dangelis.md) | La source familiale secondaire décrit la filiation ; acte de naissance encore requis pour fermer juridiquement la chaîne | **S/O** |
 | **Jean Hugues Noël Robert / Baron Mariani** *(usage public et électoral)* | né le 25 décembre 1965 à Nîmes selon le corpus public | Robert / Mariani ; fils de Marguerite Robert dans la chaîne actuelle ; père de Marie-Louise Isabelle Garance Robert | Nîmes ; Corte / Corse ; autres lieux selon dossiers thématiques | Personne-pivot contemporaine : auteur et conservateur du corpus, acteur de la transmission patrimoniale ; usage public et électoral de « Baron Mariani » documenté | [`Baron Mariani — fiche médias`](../../research/notice_baron_mariani_medias.md) ; [`Projet Minesteggio`](../../research/projet_minesteggio.md) ; [`Institut Mariani`](../../research/institut_mariani.md) | Identité publique et usages contemporains largement documentés ; maillons généalogiques historiques encore à fermer par actes | **E/P/O** |
 | **Marie-Louise Isabelle Garance Robert** | décédée le 17 septembre 2024 ; naissance à documenter dans la carte canonique | Robert / Mariani / d’Angelis ; fille de Jean Hugues Noël Robert ; usages publics documentés de Mariani et Marie-Louise d’Angelis | parcours territorial documenté dans son sous-corpus | Nœud documentaire majeur : parcours artistique, œuvres, activités politiques et mémoire familiale ; sujet d’un sous-corpus propre et du projet *Suicide Corse* | [`Mémoire et sources`](../../memory/marie-louise/README.md) ; [`Carte Marie-Louise`](../../memory/marie-louise/carte.md) ; [`Suicide Corse`](../../projects/suicide-corse/README.md) ; [`Élections`](../../memory/marie-louise/elections/README.md) | Sous-corpus structuré et substantiel ; la carte documentaire est la source d’orientation, tandis que *Suicide Corse* est une projection éditoriale/recherche distincte ; notice Musée individuelle à créer | **E/P/O** |
+
+## Branche de Casabianca — mémoire patrimoniale contemporaine
+
+Les éléments suivants sont conservés comme **mémoire directe JHR à corroborer**, sauf indication contraire :
+
+- la maison familiale de Venzolasca et les terrains alentour ont été vendus ; le tombeau / caveau familial a été conservé ;
+- l'existence du caveau familial de Venzolasca est indépendamment corroborée par le faire-part de Pierre de Casabianca (2014), qui indique qu'il devait y reposer ;
+- Claire de Casabianca, dite **« Clairette »**, a épousé **Philippe Boisseau** ; ce mariage est indépendamment corroboré par le faire-part de Philippe Boisseau (2019) ;
+- **Marc Boisseau** est un fils de Claire et Philippe ; le faire-part de Philippe le cite parmi leurs enfants ;
+- selon JHR, Marc Boisseau a déposé discrètement, sans publicité familiale préalable (« en catimini » dans le souvenir rapporté), les cendres de Rose-Marie de Casabianca (« Moussia ») dans le tombeau familial de Venzolasca ; les circonstances précises, la date et une éventuelle trace documentaire restent à rechercher.
+
+Ces éléments distinguent trois niveaux : **patrimoine vendu** (mémoire JHR à documenter), **tombeau familial conservé** (mémoire JHR + trace publique de son existence), et **dépôt des cendres de Moussia par Marc Boisseau** (témoignage JHR à corroborer). Ils ne doivent pas être transformés en faits publics plus précis sans source supplémentaire.
 
 ## Personnes contemporaines et sous-corpus spécialisés
 
