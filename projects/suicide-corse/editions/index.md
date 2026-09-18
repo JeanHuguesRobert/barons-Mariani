@@ -29,7 +29,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 ## Édition 2026-09-17 — numéro spécial anniversaire
 
-**Statut : préversion rendue, accessible publiquement, encore ouverte aux ajouts de dernière minute avant gel explicite.**
+**Statut : édition gelée le 18 septembre 2026 à 07:00:10+02:00.**
 
 - **Site public :** [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org) — landing page, appel à témoignages et éditions.
 - **Appel à témoignages :** [suicidecorse.baronsmariani.org/temoigner.html](https://suicidecorse.baronsmariani.org/temoigner.html).
@@ -39,12 +39,13 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 - **EPUB du rendu actuellement publié :** [suicide-corse-edition-2026-09-17-anniversaire.epub](https://suicidecorse.baronsmariani.org/editions/2026-09-17/suicide-corse-edition-2026-09-17-anniversaire.epub).
 - **Manifeste de provenance du rendu :** [manifest.json](https://suicidecorse.baronsmariani.org/editions/2026-09-17/manifest.json) — empreintes SHA-256, commit source, version du renderer.
 - **Date du premier build public :** 17 septembre 2026.
-- **Commit source du rendu actuellement publié :** `9df6e5a3df1fac88c3f9775ecb68940bf86df447` (`JeanHuguesRobert/barons-Mariani`) — supersède le commit `81945d1` référencé par le reçu de snapshot candidat ci-dessous, désormais partiellement obsolète : ce nouveau rendu ajoute les chapitres 18 (Chronologie) et 19 (Annuaire), promis par [`memory/marie-louise/witnesses/README.md`](../../../memory/marie-louise/witnesses/README.md) mais absents de l'édition initiale du 17 septembre.
-- **Release de publication actuellement servie :** `2026-09-17-3525c33` sur `fracta2` (commit d'artefact [`3525c33`](https://github.com/JeanHuguesRobert/suicide-corse/commit/3525c33) du dépôt de publication), promue selon la procédure documentée dans [`operium/docs/fracta2-github-static-release.md`](https://github.com/JeanHuguesRobert/operium/blob/main/docs/fracta2-github-static-release.md).
-- **Nombre de chapitres :** 20 (`00-ouverture.md` à `annuaire.md`), contre 18 au moment du reçu de snapshot candidat.
+- **Commit source du rendu gelé :** `5ffa320ee7de34a97577ed1db8b87d69ccc1349e` (`JeanHuguesRobert/barons-Mariani`).
+- **Release de publication servie :** `2026-09-17-9f482f5` sur `fracta2` (commit d'artefact [`9f482f5`](https://github.com/JeanHuguesRobert/suicide-corse/commit/9f482f5) du dépôt de publication), promue selon la procédure documentée dans [`operium/docs/fracta2-github-static-release.md`](https://github.com/JeanHuguesRobert/operium/blob/main/docs/fracta2-github-static-release.md).
+- **Nombre de chapitres :** 21 (`00-ouverture.md` à `annuaire.md`).
 - **Protocole de snapshot candidat :** [`snapshot-candidate-protocol.md`](snapshot-candidate-protocol.md).
-- **Reçu de snapshot candidat :** [`snapshot-candidate-receipt-2026-09-17.md`](snapshot-candidate-receipt-2026-09-17.md) — **daté du commit `81945d1` / 18 chapitres, désormais antérieur au rendu actuellement publié.** Un reçu à jour couvrant le commit `9df6e5a` et les 20 chapitres reste à produire avant toute décision de gel.
-- **Contrat de projection courant :** [`projections/book-2026-09-17-anniversaire.yml`](../projections/book-2026-09-17-anniversaire.yml), désormais en statut `preview-open` et incluant les chapitres 17 (appel à témoignages), 18 (Chronologie) et 19 (Annuaire).
+- **Reçu de snapshot candidat :** [`snapshot-candidate-receipt-2026-09-17.md`](snapshot-candidate-receipt-2026-09-17.md) — document historique, antérieur au snapshot gelé.
+- **Déclaration de gel :** [`2026-09-17-freeze.md`](2026-09-17-freeze.md) — snapshot, empreintes et portée du gel explicite.
+- **Contrat de projection gelé :** [`projections/book-2026-09-17-anniversaire.yml`](../projections/book-2026-09-17-anniversaire.yml), dont `preview-open` décrit l'état historique au moment du rendu scellé.
 - **Renderer :** Quarto 1.10.18, via [`JeanHuguesRobert/ubikia`](https://github.com/JeanHuguesRobert/ubikia) (correctif [`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe) : rendu de tous les formats en une seule invocation Quarto, un rendu séquentiel par format effaçant le précédent dans un projet-livre Quarto ; correctif [`687d673`](https://github.com/JeanHuguesRobert/ubikia/commit/687d673) : support EPUB). Exécuté sur `fracta2` (Quarto + TinyTeX).
 - **Dépôt de publication :** [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse) — contient les projections rendues et les surfaces publiques de publication, jamais la source éditoriale canonique du manuscrit.
 - **Tag / release :** aucun tag Git créé à ce stade.
@@ -52,11 +53,14 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Journal de campagne correspondant : [`journals/2026-09-17-numero-special-anniversaire.md`](../journals/2026-09-17-numero-special-anniversaire.md).
 
-Cette préversion répond au besoin de rendre le travail consultable et vérifiable sans prétendre que l'enquête ou l'édition sont closes. L'accès public ne vaut ni clôture éditoriale ni revue contradictoire indépendante. Le chapitre 16 du manuscrit (« Continuations ») liste explicitement les chantiers encore ouverts, désormais notamment l'appel à témoignages et la collecte structurée. Le chapitre 17 transforme cette ouverture documentaire en appel public à contributions.
+Le gel clôt cette édition, sans clôturer l'enquête ni constituer une revue contradictoire indépendante. Le chapitre 16 du manuscrit (« Continuations ») liste les chantiers ouverts ; le chapitre 17 conserve l'appel public à contributions.
 
-Le rendu HTML/PDF actuellement accessible peut temporairement être en retard sur le manuscrit et le contrat de projection pendant cette phase de preview. Tout nouveau rendu doit conserver son manifeste de provenance et la trace exacte de son commit source.
+Le rendu HTML/PDF/EPUB actuellement accessible est le snapshot gelé identifié
+ci-dessus. Tout rendu ultérieur doit être une nouvelle édition ou un erratum et
+conserver son manifeste de provenance ainsi que la trace exacte de son commit
+source.
 
-**Condition de gel :** décision éditoriale explicite après dernière revue et intégration ou report explicite des ajouts de dernière minute. À partir de ce gel, une correction substantielle devra produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
+**Règle post-gel :** toute correction substantielle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
 
 ---
 
