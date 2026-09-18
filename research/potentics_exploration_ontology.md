@@ -4,8 +4,8 @@ subtitle: "The Possible, territory, maps, fields, landscapes, vehicles, trajecto
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-08-25"
-last_modified_at: "2026-08-25"
-version: "0.2"
+last_modified_at: "2026-09-18"
+version: "0.3"
 status: "working-note — Potentics exploration ontology"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -59,6 +59,7 @@ tags:
 changelog:
   - "v0.1 (2026-08-25) — first consolidation of the spatial exploration vocabulary already distributed across the Corpus."
   - "v0.2 (2026-08-25) — residue review: removes the false implication that represented candidates are necessarily inside The Possible; separates core Potentics ontology from operational projections; clarifies Territory versus terrain, semantic trajectory versus network route, and field-domain pluralism."
+  - "v0.3 (2026-09-18) — adds prior-art-friendly exploration: independent convergence is treated first as evidence, reusable capability and an opportunity for interoperability or cooperation rather than as a threat to novelty."
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -211,6 +212,26 @@ These maps can disagree without one automatically subsuming the others.
 A Map need not exist as one centralized artifact. Distributed traces, memories, presences, environmental modifications, routing preferences and interactions may collectively implement a **Latent Functional Map** even when no actor possesses a global representation.
 
 A Cartographer may externalize useful projections of such a distributed configuration without claiming to create the unique true map.
+
+### 3.1 Prior-art-friendly exploration
+
+Independent convergence is evidence and opportunity, not a defect.
+
+When an explored idea is found elsewhere, the explorer SHOULD first ask what can be learned, cited, reused, connected, made interoperable or developed cooperatively. Existing work can reduce duplicated exploration and reveal paths, communities, tools, standards and capabilities that were absent from the current Map.
+
+```text
+encounter with existing work
+→ compare maps and assumptions
+→ identify confirmations, corrections and residue
+→ cite and reuse where permitted
+→ seek interoperability and cooperation
+→ update the Map
+→ expose newly reachable regions of The Possible
+```
+
+Novelty MAY be recorded when it is relevant to understanding a contribution, but it MUST NOT be treated as the default objective of exploration. In an open, Creative Commons, open-source or copyleft context, discovering that others independently reached a similar region of The Possible is normally useful information: it can strengthen orientation and open additional routes.
+
+> **Do not defend unexplored territory as property; use existing trails to explore farther.**
 
 ---
 
