@@ -5,7 +5,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 date: '2026-07-10'
-last_modified_at: '2026-09-05'
+last_modified_at: '2026-09-18'
 version: '0.2'
 status: working-note
 document_role: source
@@ -90,6 +90,8 @@ The central image is simple:
 > Organize rational Odysseys into The Possible.
 
 A mission starts from a question, a need, a mandate, or a blocked capacity. It explores a region of The Possible. It travels light. It leaves traces. It avoids capture. It returns to the corpus. It updates the map. It transmits what was learned. Sometimes, when the exploration is deep enough, it produces a new theory.
+
+When an Odyssey encounters existing work, independent convergence is treated first as orientation and opportunity: compare it, cite it, reuse it where permitted, seek interoperability or cooperation, and use the existing trail to explore farther. This **prior-art-friendly exploration** principle is defined in [`potentics_exploration_ontology.md`](potentics_exploration_ontology.md#31-prior-art-friendly-exploration).
 
 ---
 
@@ -581,6 +583,7 @@ That is the challenge: no longer merely endure the world as it is, but learn to 
 
 ## 19. Changelog
 
+- `v0.2+` (2026-09-18) — Adds a compact bridge to the prior-art-friendly exploration principle defined in the Potentics Exploration Ontology.
 - `v0.2` (2026-09-05) — Integrates the Two-Odyssey Reality Test ($P_A \to \text{Experience} \to \text{Return} \to \text{Assimilation} \to \text{ChangedBehavior}(P_B)$) as the operational success criterion of the Learning Computer in the rational exploration of The Possible (Issue #55).
 - `v0.1` (2026-07-10) — Initial working note on mythic grammar, stigmergy, mission, return, and synthesis in the rational exploration of The Possible.
 
