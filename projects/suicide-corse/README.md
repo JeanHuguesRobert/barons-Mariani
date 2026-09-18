@@ -171,7 +171,7 @@ Le chapitre 15 mentionne également, avec la prudence maximale que son statut de
 
 ## Généalogie — projection du sous-corpus familial
 
-- [`17-genealogie.md`](manuscript/17-genealogie.md) — nouveau chapitre consacré à l'inscription de Marie-Louise dans la généalogie familiale. Il est explicitement une **projection** du sous-corpus généalogique canonique du Musée Mariani, et non une source autonome. Le chantier prioritaire consiste à dépouiller l'ouvrage de Rose-Marie de Casabianca (« Moussia »), *La famille de Casabianca de 1400 à nos jours* (2010), depuis la génération précédant Marguerite de Casabianca (1861) jusqu'aux générations contemporaines, puis à confronter les filiations aux sources primaires.
+- [`17-genealogie.md`](manuscript/17-genealogie.md) — chapitre consacré à l'inscription de Marie-Louise dans la généalogie familiale. Il est une **projection** des dossiers canoniques `musee-mariani/casabianca/`, `musee-mariani/mariani/` et `musee-mariani/dangelis/`. L'ouvrage de Rose-Marie de Casabianca (« Moussia »), *La famille de Casabianca de 1400 à nos jours* (2010), a été retrouvé et son dépouillement structuré a commencé. Pour la phase Casabianca actuelle, la règle est « selon Moussia » : transcription structurée de l'ouvrage, sans corroboration extérieure simultanée ; contradictions et incertitudes restent visibles. Le chapitre est désormais inclus dans la projection de la dernière preview candidate avant gel.
 
 Un dernier chapitre rassemble tous les chantiers volontairement laissés ouverts :
 
