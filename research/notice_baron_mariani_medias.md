@@ -3,8 +3,8 @@ title: Baron Mariani — fiche de vérification pour les médias
 subtitle: Sources publiques permettant de vérifier l’histoire et l’usage de l’appellation Baron Mariani
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
-last_modified_at: '2026-09-12'
-version: '0.2'
+last_modified_at: '2026-09-18'
+version: '0.3'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -119,7 +119,24 @@ https://github.com/JeanHuguesRobert/barons-Mariani
 Bibliographie du Musée Mariani :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/bibliographie.md
 
-## 6. Marie-Louise d’Angelis : usage public documenté
+## 6. Un précédent parlementaire français au XIXe siècle
+
+La continuité documentaire ne s'arrête pas à Antoine Dominique Mariani.
+
+Son fils **Louis-Thomas Joseph Maurice Jérôme Mariani (1815–1890)** a siégé comme député de la Corse au **Corps législatif de 1857 à 1863**. La base Sycomore de l'Assemblée nationale documente ce mandat.
+
+Le Musée d'Orsay conserve en outre un portrait parlementaire intitulé **Baron Mariani**. Son montage historique porte notamment les mentions « Le corps législatif XII », « Mariani, baron » et « Bon Mariani, député de la Corse ».
+
+Une protestation électorale de 1863 conservée par l'Università di Corsica porte enfin la signature « Baron MARIANI, Ancien député ».
+
+L'emploi de **Baron Mariani** dans un contexte électoral et parlementaire français est donc documenté dès le XIXe siècle. Il ne constitue pas une construction électorale contemporaine.
+
+Sources institutionnelles :
+- https://www2.assemblee-nationale.fr/sycomore/
+- https://www.musee-orsay.fr/fr/oeuvres/baron-mariani-70164
+- https://bucullezzione.univ-corse.fr/files/original/32de7f46b24188bb9900caf1e8fc62431150ae5b.pdf
+
+## 7. Marie-Louise d’Angelis : usage public documenté
 
 **Marie-Louise Isabelle Garance Robert** a utilisé publiquement le nom **Marie-Louise d’Angelis**, avec une particule `d’` en minuscule.
 
@@ -134,7 +151,7 @@ https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/memory/marie-louise
 Le choix de `d’Angelis` renvoie à une ascendance familiale étudiée dans le dossier public de relèvement du nom. Ce dossier distingue volontairement les sources secondaires des actes d’état civil encore nécessaires pour fermer juridiquement la chaîne :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/relevement_nom_dangelis.md
 
-## 7. La branche de Casabianca
+## 8. La branche de Casabianca
 
 Le même dossier généalogique documente la présence de **Marguerite de Casabianca**, épouse du baron Pierre Mariani et mère de Marie-Louise Mariani, dans la branche familiale étudiée.
 
@@ -145,7 +162,7 @@ https://www.adecec.net/parutions/el%C3%A9ments-pour-un-dictionnaire-des-noms-pro
 
 Pour les filiations précises, le corpus privilégie les actes et sources généalogiques plutôt que la simple identité des patronymes.
 
-## 8. Minesteggio, patrimoine familial et transmission
+## 9. Minesteggio, patrimoine familial et transmission
 
 La continuité Mariani possède également un support patrimonial à **Minesteggio, Corte**, où se trouve la maison familiale dite **Château Mariani**.
 
