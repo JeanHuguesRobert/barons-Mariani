@@ -16,6 +16,18 @@ Ce fichier ne duplique pas les pièces.
 
 Il indique leur emplacement canonique ou, pour les pièces non publiques, leur existence et leur fonction probatoire.
 
+## Hiérarchie pratique de provenance
+
+Lorsqu'une même interaction existe sous plusieurs projections, privilégier pour établir le fait :
+
+1. la pièce ou trace primaire (courriel Gmail, document reçu, export ou pièce juridictionnelle) ;
+2. l'Interaction Packet structuré, après vérification de sa synchronisation ;
+3. `interaction_packets/mail_trace.md`, registre transactionnel transversal ;
+4. la présente chronologie et la matrice de connaissances, qui sont des projections d'enquête ;
+5. les Reality Cases et autres documents analytiques.
+
+Cette hiérarchie ne signifie pas qu'une projection ancienne doit écraser une trace primaire plus précise. Toute divergence doit être signalée puis synchronisée explicitement.
+
 ## 1. Dossier public du 14 septembre
 
 [`../dossier-ta-bastia-2026-09-14.md`](../dossier-ta-bastia-2026-09-14.md)
