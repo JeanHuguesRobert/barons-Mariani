@@ -12,11 +12,13 @@ epistemic_status:
   ten_original_boards: TRACE
   failure_reported_by_marie_louise: VOICE-REPORTED-BY-FATHER
   institutional_decision: UNKNOWN
+  recovery_of_originals: TESTIMONY
 provenance:
   origin_type: private-drive-trace
   sources:
     - "Google Drive: recours arts déco, document créé le 14 mars 2016 et mis à jour le 15 mars 2016"
     - "référence interne du recours : 2016/1/10762"
+    - "TESTIMONY: Jean Hugues Noël Robert, 18 septembre 2026"
 review:
   status: unreviewed
   reviewed_by: []
@@ -48,6 +50,15 @@ En revanche :
 - l'échec est connu ici par le récit contemporain du père rapportant ce que Marie-Louise lui a dit ;
 - aucune réponse au recours n'a été retrouvée dans Gmail lors des recherches ciblées.
 
+## Témoignage rétrospectif — 18 septembre 2026
+
+Jean Hugues Noël Robert rapporte le souvenir suivant :
+
+- la démarche engagée auprès de l'ENSAD aurait abouti ;
+- les **10 planches originales auraient effectivement été récupérées**.
+
+**Qualification : TESTIMONY.** Ce souvenir est enregistré comme source datée et attribuée. Il n'est pas encore corroboré par une réponse ENSAD, une preuve de retrait, un envoi postal ou une autre trace documentaire retrouvée.
+
 ## Distinction avec les autres candidatures de 2016
 
 Cet événement est distinct :
@@ -61,6 +72,7 @@ Il faut donc conserver séparément ces trois trajectoires de candidature.
 
 - retrouver la décision ENSAD primaire ;
 - retrouver une éventuelle réponse au recours ;
+- corroborer documentairement la restitution rapportée en 2026 ;
 - retrouver ou identifier les 10 planches originales ;
-- déterminer si ces planches ont été restituées, archivées ou détruites ;
+- établir leur chaîne de conservation et leur localisation actuelle ;
 - identifier les enseignants ou accompagnateurs ayant aidé Marie-Louise à préparer ce concours.
