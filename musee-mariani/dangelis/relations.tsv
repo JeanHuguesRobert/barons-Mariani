@@ -1,0 +1,8 @@
+sujet	relation	objet	statut	source	note
+DAN-MARIE-JOSEPHINE	conjoint_de	MAR-LOUIS-HUGUES	rapporte	DANGELIS-RELEVEMENT	mariage indiqué au 12 juin 1853 à Bastia; acte à obtenir
+DAN-MARIE-JOSEPHINE	parent_de	MAR-PIERRE	rapporte	DANGELIS-RELEVEMENT	maillon à fermer par acte
+MAR-LOUIS-HUGUES	parent_de	MAR-PIERRE	rapporte	DANGELIS-RELEVEMENT	maillon à fermer par acte
+CAS-MARIE-LOUISE-1855	conjoint_de	DAN-GASTON	rapporte	CASABIANCA-2010-MOUSSIA	
+CAS-MARIE-LOUISE-1855	parent_de	DAN-FRANCOIS-1882	rapporte	CASABIANCA-2010-MOUSSIA	Tableau 3
+DAN-GASTON	parent_de	DAN-FRANCOIS-1882	rapporte	CASABIANCA-2010-MOUSSIA	Tableau 3
+DAN-FRANCOIS-1882	parent_de	DAN-GASTON-1924	rapporte	CASABIANCA-2010-MOUSSIA	Tableau 3
