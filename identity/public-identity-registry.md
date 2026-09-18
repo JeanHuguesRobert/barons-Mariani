@@ -4,7 +4,7 @@ description: Référentiel factuel évolutif des identités, dénominations et s
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-18'
 last_modified_at: '2026-09-18'
-version: '0.1'
+version: '0.2'
 status: working
 language: fr
 license: CC BY-SA 4.0
@@ -55,13 +55,19 @@ les documents.
 
 **Identité publique documentée :** `Baron Mariani` / `baron Mariani`.
 
-**FACT :**
-- le ministère de l’Intérieur a utilisé `M. Le BARON MARIANI` lors des élections législatives de 2017 ;
-- le Conseil constitutionnel a qualifié en 2024 `baron MARIANI` de nom d’usage de Jean Hugues Robert ;
-- le Sénat publie en 2026 `Baron MARIANI`.
+### Usages institutionnels établis
 
-Ces faits établissent un usage institutionnel contemporain. Ils ne suffisent pas
-à établir séparément le régime juridique du titre historique.
+| Période | Acteur | Forme documentée | État |
+|---|---|---|---|
+| 2017 | Ministère de l’Intérieur | `M. Le BARON MARIANI` | `FACT` |
+| 2024 | Conseil constitutionnel / JORF | `baron MARIANI`, qualifié de `nom d'usage` | `FACT` |
+| 2026 | Sénat | `Baron MARIANI` | `FACT` |
+
+La répétition de cet usage dans plusieurs contextes institutionnels distincts
+établit l’existence d’une identité publique contemporaine documentée.
+
+Elle ne suffit pas, à elle seule, à établir le régime juridique contemporain du
+titre historique ni sa dévolution.
 
 Source spécialisée :
 [`../research/genealogy/title_baron_mariani_evidence_chain.md`](../research/genealogy/title_baron_mariani_evidence_chain.md).
@@ -71,27 +77,55 @@ Source spécialisée :
 **Identité civile documentée dans le Corpus :**
 `Marie-Louise Isabelle Garance Robert`.
 
-**Identités et noms rencontrés :**
-- `Marie-Louise` ;
-- `Malou` ;
-- `Mariani` dans certains contextes publics ;
-- `Marie-Louise d'Angelis` dans des contextes publics ou électoraux documentés.
+### Formes documentées
 
-La chronologie et la fonction de chaque forme doivent être conservées plutôt
-que ramenées à une identité unique.
+- `Marie-Louise` — prénom usuel ;
+- `Malou` — forme familière documentée dans le Corpus ;
+- `Marie-Louise d'Angelis` — identité publique électorale documentée en 2017 ;
+- formes comportant `Mariani` — à qualifier occurrence par occurrence selon leur contexte.
 
-Source canonique :
-[`../memory/marie-louise/carte.md`](../memory/marie-louise/carte.md).
+### 2017 — usage électoral établi
+
+Lors des élections législatives de 2017, Marie-Louise est enregistrée comme
+suppléante de Baron Mariani et utilise publiquement le nom :
+
+> `Marie-Louise d'Angelis`
+
+Le dossier interne relie cet usage à un récépissé définitif de candidature,
+plusieurs courriels contemporains et la documentation électorale.
+
+Source :
+[`../memory/marie-louise/elections/2017-legislatives.md`](../memory/marie-louise/elections/2017-legislatives.md).
+
+### Règle particulière
+
+Les identités de Marie-Louise doivent être traitées temporellement et
+contextuellement. Une forme utilisée dans une campagne, une œuvre, un cercle
+familial ou une publication ne doit pas être automatiquement projetée sur les
+autres contextes.
 
 ## BM-001 — Les Barons Mariani
 
-`Les Barons Mariani` désigne un objet familial et historique documenté
-indépendamment des usages électoraux contemporains.
+`Les Barons Mariani` constitue une dénomination familiale et historique
+documentée indépendamment des usages contemporains.
 
-Le Corpus documente notamment un ouvrage de Jacques Meurgey publié en 1933 sous
-le titre *Les Barons Mariani*.
+### 1933 — attestation bibliographique
 
-Cette entrée ne préjuge pas de la dévolution juridique individuelle du titre.
+Jacques Meurgey publie en 1933 un document intitulé :
+
+> *Les Barons Mariani*
+
+conservé et catalogué par la Médiathèque Culturelle de la Corse et des Corses
+de l’Università di Corsica.
+
+**État : `FACT`.**
+
+Cette attestation établit notamment que la dénomination collective
+`Les Barons Mariani` est très antérieure aux candidatures électorales,
+domaines Internet, comptes sociaux et projets institutionnels contemporains.
+
+Elle ne suffit pas, à elle seule, à établir la chaîne généalogique complète ni
+la dévolution juridique individuelle du titre.
 
 ## BM-002 — Fonds de dotation Barons Mariani
 
