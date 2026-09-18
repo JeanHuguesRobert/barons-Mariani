@@ -1,7 +1,7 @@
 ---
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
-date: '2026-09-07'
+date: '2026-09-18'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -61,6 +61,16 @@ conserver son manifeste de provenance ainsi que la trace exacte de son commit
 source.
 
 **Règle post-gel :** toute correction substantielle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
+
+---
+
+## Édition suivante — Suicide Corse n°2
+
+**Statut : en préparation, non gelée.**
+
+Le chantier est piloté par [l'issue #81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81), avec une cible éditoriale au **21 septembre 2026**.
+
+Le n°2 est une nouvelle projection du Corpus courant. Il n'hérite pas automatiquement du sommaire, de l'ordre ou des chapitres du numéro anniversaire. Son identité stable, son commit source, son contrat de projection et ses artefacts ne seront inscrits ici qu'au moment où ils existeront effectivement.
 
 ---
 

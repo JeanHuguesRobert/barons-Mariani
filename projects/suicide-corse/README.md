@@ -1,9 +1,10 @@
 ---
-title: "Suicide Corse — projet éditorial réactif"
-description: "Point d'entrée canonique du projet Suicide Corse et de ses projections éditoriales."
+title: "Suicide Corse — enquête et publication réactive"
+description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant, enquêtes, projections et éditions datées."
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
-date: "2026-09-07"
+date: "2026-09-18"
+last_modified_at: "2026-09-18"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -16,12 +17,13 @@ update_policy: "UP-DEFAULT-REVIEWED"
 provenance:
   origin_type: "generated"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "unknown"
+  origin_ref: "GitHub issues #42, #75, #80, #81"
   origin_date: "2026-09-07"
   derived_from:
-    - "GitHub issue #42"
-    - "GitHub issue #43"
-    - "memory/marie-louise/carte.md"
+    - "projects/suicide-corse/architecture.md"
+    - "projects/suicide-corse/corpus.yml"
+    - "memory/marie-louise/README.md"
+    - "GitHub issue #81"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -31,215 +33,156 @@ review:
 
 **Titre de travail : _Suicide Corse, ou comment réaliser l'impossible_.**
 
-Ce répertoire matérialise le projet éditorial comme une **projection réactive du Corpus**, et non comme une nouvelle source autonome de vérité.
+*Suicide Corse* est un **processus d'enquête, de mémoire et de publication réactive**. Il ne se confond ni avec un manuscrit particulier, ni avec une édition datée, ni avec le sous-corpus consacré à Marie-Louise.
 
-## Objet hybride et chaîne de projections
-
-*Suicide Corse* est un objet éditorial hybride.
-
-- Il est un **livre** : une édition narrative produite par ordinateur à partir d’un corpus de sources, de règles de projection et de traces qualifiées.
-- Il est aussi un **magazine d’enquête** : son *Journal de campagne contre l’impossible* a vocation à paraître selon une cadence hebdomadaire, pour signaler les changements depuis l’édition précédente — nouvelles traces, témoignages, contradictions, corrections, hypothèses abandonnées ou pistes ouvertes.
-
-Le journal hebdomadaire est un contrat de projection en préparation, non une publication déjà tenue. Sa première livraison reste à produire.
-
-Les chapitres présents dans `manuscript/` constituent déjà une projection de recherche : ils sélectionnent, organisent et rendent lisibles les traces et documents bruts du Corpus. Ils ne sont ni les sources elles-mêmes, ni la dernière forme du projet. Lors de l’édition proprement dite, ils seront à leur tour traités par une pipeline de production distincte, avec ses propres règles de sélection, de mise en forme, de rendu et de provenance.
+La règle structurante est :
 
 ```text
-traces et sources brutes du Corpus
-→ projection de recherche : chapitres actuels
-→ pipeline éditorial distinct
-→ édition proprement dite : livre / magazine / formats rendus
-```
-
-La génération informatique ne délègue pas le jugement à la machine : elle rend reproductible la projection du Corpus. Les sources, leur niveau de preuve, les décisions éditoriales et les révisions restent explicitement traçables et humainement imputables. Une nouvelle trace peut corriger le Corpus, le Corpus corriger les chapitres, et les chapitres être recomposés dans une édition ultérieure.
-
-Le mouvement général est :
-
-```text
-Corpus canonique
-→ carte / sélection des sources
+Corpus vivant
+→ qualification épistémique
+→ enquête / modèles / Reality Cases
 → projection éditoriale
-→ publication / interaction / Act
+→ édition datée / Act
 → réponse du Réel
 → nouvelles traces
 → correction du Corpus
 → nouvelle projection
 ```
 
-## Principe documentaire
+Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-Le livre ne doit pas effacer la distinction entre :
+## État courant — 18 septembre 2026
 
-- trace ;
-- fait suffisamment documenté ;
-- témoignage tiers ;
-- assertion ;
-- interprétation ;
-- reconstruction ;
-- hypothèse ;
-- inconnu.
+### Numéro spécial anniversaire — 17 septembre 2026
 
-Concernant Marie-Louise, la source de synthèse actuelle est [`memory/marie-louise/carte.md`](../../memory/marie-louise/carte.md). Elle reste distincte du manuscrit.
+Le numéro spécial du 17 septembre 2026 est **gelé**. Son identité, son commit source, ses artefacts et son manifeste sont enregistrés dans [`editions/index.md`](editions/index.md) et [`editions/2026-09-17-freeze.md`](editions/2026-09-17-freeze.md).
 
-## Structure
+Le gel protège cette projection historique ; il ne clôt ni l'enquête, ni les Continuations, ni le Corpus.
 
-- [`architecture.md`](architecture.md) — architecture d'enquête v2, invariants multi-échelle et continuations ;
-- [`corpus.yml`](corpus.yml) — manifeste des sources canoniques et chantiers reliés ;
-- [`manuscript/`](manuscript/) — projection narrative minimale de l'édition n°0 ;
-- [`projections/book.yml`](projections/book.yml) — contrat minimal de projection livre ;
-- [`projections/journal-weekly.yml`](projections/journal-weekly.yml) — placeholder gouverné du journal ;
-- [`projections/screenplay.yml`](projections/screenplay.yml) — placeholder de projection scénario ;
-- [`projections/conversational-agent.yml`](projections/conversational-agent.yml) — placeholder de l'agent conversationnel ;
-- [`editions/index.md`](editions/index.md) — registre des éditions figées ;
-- [`journals/README.md`](journals/README.md) — emplacement des journaux de campagne.
+### Suicide Corse n°2 — 21 septembre 2026
 
-## Préversion publique — 17 septembre 2026
+Le chantier éditorial actif est [l'issue #81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81).
 
-L'édition anniversaire (17 chapitres, `00` à `16`) est rendue et accessible en **préversion publique évolutive** : **https://suicidecorse.baronsmariani.org**. Le pipeline `ubikia` + Quarto, jusqu'ici non livré (`ubikia#24`), a été testé, corrigé ([`b774bfe`](https://github.com/JeanHuguesRobert/ubikia/commit/b774bfe)) et exécuté sur `fracta2`. Les artefacts (HTML, PDF, manifeste de provenance) vivent dans le dépôt de publication dédié [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse), séparé du Corpus source pour ne jamais mélanger source et projection rendue. Leur accessibilité publique ne clôt pas l'enquête ni la préparation éditoriale : le manifeste conserve donc `publication_status: draft`, et les nouveautés donneront lieu à de nouvelles projections traçables. Voir [`editions/index.md`](editions/index.md) pour l'entrée complète et [`projections/book-2026-09-17-anniversaire.yml`](projections/book-2026-09-17-anniversaire.yml) pour le contrat de projection.
+Le n°2 est une **nouvelle projection agile du Corpus courant**. Il n'est pas tenu par le plan du numéro précédent. Un chapitre peut apparaître, disparaître, fusionner, changer d'ordre ou de fonction. La continuité porte sur les sources, la provenance, les statuts épistémiques, les décisions et les Continuations — pas sur la forme.
 
-## Correction de doctrine — le bootstrap est révisable comme le reste, 15 septembre 2026
+La cible éditoriale actuelle est le lundi 21 septembre 2026.
 
-Une formulation antérieure de ce README présentait la modification de `manuscript/00-ouverture.md` comme une « exception » à un principe de non-réécriture du bootstrap. Cette présentation était elle-même une erreur de doctrine, corrigée ici.
+### Appel à témoignages
 
-Ni la seconde méthode (`research/agile.md`) ni l'Optimistic Locking (`cogentia/instructions/AGENTS.shared.md`, *Delivery policy*) ne fondent un régime de protection spéciale pour les cinq fichiers bootstrap. L'Optimistic Locking prescrit l'inverse d'une bureaucratie d'exception : des commits directs et atomiques sur la branche canonique, sans branche, geste d'approbation ni cérémonie de révision pour un travail borné et de risque mesuré ; une branche ou un geste de protection doivent se justifier par un bénéfice concret, jamais par une prudence générique ou un état d'âme. Le statut « artefact historique » des fichiers 00-04 décrit leur origine et leur ancienneté relative dans le Corpus ; il ne leur confère aucune immunité éditoriale. Réviser `00-ouverture.md` quand une lecture du Corpus ou une instruction de l'issue le justifie n'est donc pas une entorse ponctuelle à documenter comme telle : c'est le fonctionnement normal du Corpus. Seule reste nécessaire — et elle l'est pour tout fichier, bootstrap ou non — la traçabilité ordinaire : provenance mise à jour, historique git, pas de réécriture silencieuse qui dissimulerait ce qui a changé.
+L'appel public à témoignages est actif sur [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org). Son implémentation documentaire et son pipeline de réception structurée sont suivis par [l'issue #80](https://github.com/JeanHuguesRobert/barons-Mariani/issues/80).
 
-## Édition n°0 — bootstrap historique
+Principe : simplicité pour le témoin, conservation privée de la source, qualification structurée, et décision de publication séparée. Le dépôt public ne doit pas devenir un entrepôt de messages privés ou de données sensibles.
 
-Les cinq fichiers actuels constituent l'**édition bootstrap historique** : ce nom décrit leur ancienneté et leur fonction d'origine, pas un statut protégé. Ils ne définissaient déjà plus, avant même la correction de doctrine ci-dessus, l'architecture canonique de long terme — cela ne les rendait pas non plus intouchables, seulement moins structurants pour la suite. Leur but premier était d'exercer la chaîne complète :
+## Architecture documentaire
 
-```text
-sources
-→ sélection
-→ manuscrit
-→ projection
-→ HTML / PDF
-→ manifeste de provenance
-```
+Le projet distingue trois architectures qui ne doivent plus être confondues :
 
-Elle est structurée en cinq fichiers : ouverture, Marie-Louise, fermeture des possibles, Machine à Empêcher, réalisation de l'impossible.
+1. **architecture d'enquête** — concepts, Reality Cases, invariants candidats, objections, Acts et réponse du Réel ;
+2. **architecture documentaire** — sources, sous-corpus, chronologies, registres, méthodes, Knowledge Gaps et provenance ;
+3. **architecture éditoriale** — sélection temporaire de cette matière pour un numéro, un site, un catalogue, un scénario ou une autre projection.
 
-## Chapitres additionnels — édition anniversaire du 17 septembre 2026 (#75)
+[`architecture.md`](architecture.md) décrit principalement la première. [`corpus.yml`](corpus.yml) sert de manifeste navigable de la seconde. Les contrats de [`projections/`](projections/) et le registre [`editions/`](editions/) décrivent la troisième.
 
-Quatre chapitres supplémentaires, rédigés pour le contrat minimal de l'édition anniversaire (issue #75), complètent le manuscrit sans renuméroter ni réécrire les cinq fichiers bootstrap :
+## Marie-Louise : sous-corpus, non simple chapitre
 
-- [`05-machine-a-rendre-capable-de-vivre.md`](manuscript/05-machine-a-rendre-capable-de-vivre.md) — hypothèse-limite Machine à Empêcher de Vivre / Machine à Rendre Capable de Vivre ;
-- [`06-vivre-transmettre.md`](manuscript/06-vivre-transmettre.md) — changement d'échelle vivre → se projeter → transmettre, fécondité et projection intergénérationnelle ;
-- [`07-corse-capacite-dormante.md`](manuscript/07-corse-capacite-dormante.md) — fatalisme, capacité dormante, seuil et réactivation, réactance et révolte, histoire longue corse, source antique sur les esclaves corses ;
-- [`08-hypotheses-non-resolues.md`](manuscript/08-hypotheses-non-resolues.md) — liste visible des hypothèses non résolues et gate épistémique de l'édition.
+Marie-Louise est à la fois une personne dont les traces ont une valeur propre, un Reality Case longitudinal et un cas possible de l'enquête causale sur le suicide. Ces trois régimes restent séparés.
 
-Ces chapitres restent `status: draft`, non revus, et doivent encore recevoir une revue contradictoire avant toute clôture d'édition.
+Le sous-corpus [`memory/marie-louise/`](../../memory/marie-louise/) comprend notamment :
 
-Un cinquième chapitre a été ajouté après coup, en cours de rédaction, et non prévu par le sommaire initial de l'issue #75 :
+- carte et chronologies ;
+- formation et trajectoire artistique ;
+- œuvres et catalogue raisonné en construction ;
+- élections et représentations publiques ;
+- matrice des possibles et contrôles épistémiques ;
+- enquête sur les pièces et traces détenues ou liées à la gendarmerie ;
+- témoins potentiels, méthode de collecte et réception des contributions.
 
-- [`09-test-invariance-echelle.md`](manuscript/09-test-invariance-echelle.md) — première instanciation du test d'invariance capacitaire (`architecture.md`, §14) à partir de cas effectivement documentés dans `memory/marie-louise/possible_matrix.md`, mis en regard de matériau territorial corse.
+Les recherches généalogiques Mariani / Casabianca / d'Angelis appartiennent au Corpus familial plus large et peuvent être projetées dans *Suicide Corse* lorsqu'elles sont éditorialement pertinentes. Elles ne sont pas créées pour confirmer a posteriori une théorie du suicide.
 
-Cet ajout illustre volontairement la doctrine de [`research/agile.md`](../../research/agile.md) : le sommaire d'une édition est révisable par le Corpus lui-même en cours de rédaction, plutôt que déroulé jusqu'au bout indépendamment de ce que la relecture des sources fait apparaître. Les chapitres 5 et 7 ont été légèrement amendés en conséquence, avec renvoi explicite vers ce nouveau chapitre.
+Les travaux récents sur les identités et représentations imposent une discipline supplémentaire : distinguer personne, compte, adresse technique, nom affiché, signature, nom inscrit dans une pièce, contexte, période, source et statut épistémique. Une coexistence de noms ou d'identités numériques ne constitue pas, par elle-même, une interprétation psychologique.
 
-Un sixième chapitre poursuit la même recherche d'invariants dans le matériau territorial contemporain :
+## Catalogue raisonné et Twin
 
-- [`10-stabilisateur-et-capacite-distribuee.md`](manuscript/10-stabilisateur-et-capacite-distribuee.md) — introduit la fonction de Stabilisateur procédural (absente des chapitres 3-4), rapproche le test territorial `Follow the Power` de l'écart entre statut électoral formel et influence effective de Marie-Louise, et relie la règle du petit Act borné (chapitre 4) à son instanciation concrète `#1755-01`.
+Le catalogue raisonné vise l'**œuvre au sens large** : objets, textes, images, vidéos, performances, interventions, engagements et autres productions lorsque les sources permettent de les documenter comme telles. Une trace de vie n'est pas automatiquement une œuvre ; une œuvre n'est pas automatiquement une preuve causale.
 
-Le chapitre 8 (hypothèses non résolues) a été mis à jour en conséquence.
+Le futur Twin documentaire de Marie-Louise doit être alimenté par les mêmes sources qualifiées. *Suicide Corse*, le catalogue raisonné et le Twin sont donc des **projections différentes d'un Corpus partagé**, et non trois bases concurrentes.
 
-Un septième chapitre rapproche un mécanisme institutionnel déjà nommé dans le Corpus territorial d'un épisode précis du dossier Marie-Louise :
+## Discipline épistémique
 
-- [`11-impunite-par-obscurite.md`](manuscript/11-impunite-par-obscurite.md) — met en regard `research/autonomia/impunite_par_obscurite_cas_corse.md` (dilution des responsabilités, fonds européens, agences et offices de Corse) et le rejet procédural du 27 septembre 2024 de la requête électorale 2024-6309 AN, comme deux instances d'un même mécanisme sans auteur unique, en marquant explicitement que ce rejet est postérieur au décès et ne doit jamais entrer dans une reconstruction causale de l'été 2024.
-
-Un huitième chapitre assume une méthode différente : la lecture flottante, non dirigée par une hypothèse préalable.
-
-- [`12-carnet-de-serendipite.md`](manuscript/12-carnet-de-serendipite.md) — consigne deux trouvailles non cherchées : un cas d’écart entre information publiée et information effectivement accessible, issu de `research/opheline_ophelia_pertitellu_genesis.md`, et l’apport de `research/bien_vivre.md` comme définition positive manquante aux chapitres 5 et 6.
-
-## Épigraphes en proverbes corses (issue #75, commentaires du 15 septembre 2026)
-
-Six proverbes corses sourcés sont désormais employés comme épigraphes dans les chapitres 6, 7, 9, 10 et 12, avec un septième réservé à la clôture (chapitre 12, haute sensibilité, encadré explicitement) :
-
-- [`13-proverbes-epigraphes.md`](manuscript/13-proverbes-epigraphes.md) — appareil de sourcing complet (forme corse, traduction, équivalent, source, fonction, niveau de sensibilité), trace du trio structurel prioritaire (Empêcher / Résister / Explorer), et liste explicite des proverbes volontairement non retenus pour cette édition, dont les trois proverbes sur la mort classés à haute sensibilité par l'issue elle-même et non employés faute de revue éditoriale explicite.
-
-La clôture du chapitre 12 (proverbe à haute sensibilité *A risa di l'addulurati hè a più bella*) a été renforcée : elle n'appuie plus sur ce seul proverbe, mais sur trois registres indépendants et non concertés — proverbial corse, doctrine possibiliste déjà stabilisée dans le Corpus (`research/le_reel_le_virtuel_et_l_actuel.md`, §9.5 et §14.7, qui répond déjà à l'objection « injonction cruelle »), et tradition chrétienne (Béatitudes, 2 Corinthiens 6, 10 — introduite ici pour la première fois, sans généalogie antérieure dans le Corpus). Objectif explicite : neutraliser toute lecture d'insensibilité par convergence de sources indépendantes plutôt que par un argument unique.
-
-## Texte intégral d'une œuvre source — 17 septembre 2026
-
-- [`14-le-dieu-de-leau-texte-integral.md`](manuscript/14-le-dieu-de-leau-texte-integral.md) — reproduit intégralement, pour la première fois dans le manuscrit lui-même (et non seulement comme source liée), *Le dieu de l'eau* (2008) et le mail original par lequel Marie-Louise l'a transmis à son père. Publication déjà autorisée le 8 septembre 2026 (`memory/marie-louise/works/le_dieu_de_leau_2008.md`). Le chapitre 01 (bootstrap) ne faisait jusqu'ici que mentionner cette œuvre sans la reproduire.
-
-## La parole de Marie-Louise — 17 septembre 2026
-
-- [`15-la-parole-de-marie-louise.md`](manuscript/15-la-parole-de-marie-louise.md) — transmet, pour la première fois dans le manuscrit, des fragments courts mais directement attribuables à Marie-Louise elle-même : son propre énoncé de la distinction autonomie formelle / capacité effective (décembre 2017, contemporain de la friction Nantes déjà documentée aux chapitres 7 et 9), sa curiosité pour sa grand-mère (2023), sa demande à son père d'être directeur de campagne (16 juin 2024), et le rapprochement, explicitement marqué `ASSERTION-JHR`, entre son propre empêchement électoral de 2020 (condition d'âge) et celui que l'auteur affirme rencontrer en 2026. Les chapitres 7, 8 et 9 ont été mis à jour en conséquence.
-
-**Note éditoriale explicite.** Le chapitre 15 ne publie qu'un registre coopératif de sa parole. Un registre plus conflictuel et une divulgation de détresse psychologique documentés par ailleurs dans le Corpus sont ajournés — pour un encadrement éditorial que le délai ne permet pas de construire d'ici aujourd'hui, non par dissimulation. L'auteur prévoit des éditions hebdomadaires (chaque lundi) faisant suite à ce numéro spécial du 17 septembre ; c'est dans ce cadre que ce registre sera traité.
-
-Le chapitre 15 mentionne également, avec la prudence maximale que son statut de témoignage unique impose, une note rapportée par l'auteur seul — retrouvée dans la pièce où Marie-Louise est morte, et qui serait à l'origine du fonds de dotation en cours de constitution **Les Amis de Malou**. La pièce primaire elle-même n'a pas été récupérée ; elle est détenue par la gendarmerie de Vence.
-
-## Généalogie — projection du sous-corpus familial
-
-- [`17-genealogie.md`](manuscript/17-genealogie.md) — chapitre consacré à l'inscription de Marie-Louise dans la généalogie familiale. Il est une **projection** des dossiers canoniques `musee-mariani/casabianca/`, `musee-mariani/mariani/` et `musee-mariani/dangelis/`. L'ouvrage de Rose-Marie de Casabianca (« Moussia »), *La famille de Casabianca de 1400 à nos jours* (2010), a été retrouvé et son dépouillement structuré a commencé. Pour la phase Casabianca actuelle, la règle est « selon Moussia » : transcription structurée de l'ouvrage, sans corroboration extérieure simultanée ; contradictions et incertitudes restent visibles. Le chapitre est désormais inclus dans la projection de la dernière preview candidate avant gel.
-
-Un dernier chapitre rassemble tous les chantiers volontairement laissés ouverts :
-
-- [`16-continuations.md`](manuscript/16-continuations.md) — reprend le concept de Continuation déjà employé ailleurs dans le Corpus (`architecture.md`, `cop-core`) : chaque chantier ouvert y porte sa propre condition de clôture explicite, plutôt qu'un simple « à approfondir ».
-
-## Réconciliation avec les apports parallèles du Corpus — 16-17 septembre 2026
-
-Deux apports arrivés sur `main` pendant la rédaction ont été absorbés sans réécriture des chapitres 00-04 :
-
-- [`memory/marie-louise/2024_portes_et_controles_epistemiques.md`](../../memory/marie-louise/2024_portes_et_controles_epistemiques.md) (issue #75, commentaire du 2026-09-16T04:48:28Z) — règle anti-certitude, contradiction Nantes 2017 (hypothèse père vs hypothèse Ferdinand Pancrazi), portes candidates non stabilisées de l'été 2024 (parrain, Villa Arson, paiement de chantier), agence encore exercée début 2024, et la variable candidate de **fiabilité perçue d'un possible**. Répercuté dans le chapitre 5 (nouvelle section) et le chapitre 8 (nouvelles entrées).
-- `research/triangulation_du_reel.md` §4.1 (parcimonie causale, rasoir de Hanlon, échelle d'escalade vers l'intention) — répercuté dans l'ouverture (00), pour étayer formellement pourquoi la Machine à Empêcher n'y devient jamais une mise en cause personnelle, et dans le chapitre 8.
-
-## Architecture d'enquête v2
-
-L'architecture courante est décrite dans [`architecture.md`](architecture.md). Elle privilégie :
+Le projet conserve explicitement les distinctions suivantes :
 
 ```text
-Reality Case
-→ distinction
-→ invariant candidat
-→ changement d'échelle
-→ test du non-invariant
-→ mécanisme
-→ Act
-→ Réel
-→ trace
-→ correction
+trace
+≠ fait établi
+≠ parole directe
+≠ témoignage
+≠ assertion
+≠ inférence
+≠ hypothèse
+≠ UNKNOWN
 ```
 
-Elle traite Marie-Louise comme personne et ensemble de traces, Reality Case longitudinal et cas possible d'enquête causale — trois régimes à ne pas confondre. La matière territoriale corse doit être intégrée progressivement comme changement de zoom, en recherchant les invariants sans transférer abusivement les propriétés propres à une échelle.
+Règles invariantes :
 
-### Continuations immédiates
+- **Agency before outcome** : le suicide ouvre l'enquête ; il ne devient pas la clé rétroactive de toute la vie.
+- **Unknown is part of the evidence** : un blanc documentaire ne doit pas être rempli narrativement.
+- Une trace de vie n'est pas automatiquement une preuve causale.
+- Une récurrence entre échelles n'est pas une identité de mécanisme.
+- Toute fermeture candidate appelle une recherche symétrique des maintiens, contournements et réouvertures.
+- Ne jamais fabriquer une parole, une volonté, une intention ou un consentement posthume de Marie-Louise.
+- Les éditions gelées sont immuables ; les sources vivantes et les projections futures restent corrigibles.
 
-- [ ] produire un document source court sur la **grammaire capacitaire multi-échelle et le test d'invariance** ;
-- [ ] spécifier le **Reality Case Marie-Louise v2**, incluant un blind review contre le biais rétrospectif ;
-- [ ] produire une première projection **« Avant de connaître la fin »**, destinée à remplacer progressivement l'actuel chapitre 01 sans effacer le bootstrap historique.
+## Organisation du répertoire
 
-Ces continuations sont enregistrées mais **non exécutées** à ce stade.
+- [`architecture.md`](architecture.md) — architecture d'enquête v2 ;
+- [`corpus.yml`](corpus.yml) — manifeste courant des sources et chantiers ;
+- [`manuscript/`](manuscript/) — **espace historique et de travail éditorial**, pas table des matières canonique ;
+- [`projections/`](projections/) — contrats de projection ;
+- [`editions/`](editions/) — registre et déclarations des éditions gelées ;
+- [`journals/`](journals/) — journaux de campagne ;
+- [`handoffs/`](handoffs/) — paquets de reprise temporaires et traçables.
 
-## Règle Marie-Louise
+### À propos de `manuscript/`
 
-Ne jamais fabriquer une parole, une volonté ou un consentement posthume de Marie-Louise. Les formulations interprétatives ou causales doivent rester explicitement qualifiées comme telles.
+Le répertoire contient désormais plusieurs sortes d'objets : chapitres d'édition, appel à témoignages, généalogie, annuaire, chronologie et questions ouvertes. Les deux préfixes `17-*` montrent à eux seuls que sa numérotation ne constitue plus une architecture canonique.
 
-## Issues
+Aucun déplacement massif n'est effectué ici : des chemins sont déjà référencés par des éditions, issues et documents. Les futurs déplacements devront préserver les références ou être accompagnés d'une migration explicite. Pour une nouvelle édition, le contrat de projection — et non l'ordre lexical du répertoire — détermine le contenu.
 
-- #42 — chantier parent ;
-- #43 — bootstrap canonique et édition 0 ;
-- #44 — snapshot hebdomadaire et Journal de campagne ;
-- #45 — traces Marie-Louise 2008/2016 ;
-- #47 — Machine à Empêcher et causalité ;
-- #48 — Twin documentaire Marie-Louise ;
-- #49 — scénario ;
-- #50 — agent conversationnel ;
-- #51 — Reactive Publication ;
-- #52 — continuité de protection.
+## Projections
 
-Dépendance générique de rendu : `JeanHuguesRobert/ubikia#24`.
+Le même Corpus peut alimenter, sans les confondre :
 
+```text
+Suicide Corse — éditions successives
+catalogue raisonné de Marie-Louise
+Twin documentaire de Marie-Louise
+agent conversationnel
+scénario
+journaux de campagne
+autres projections à venir
+```
 
-## Suspension temporaire — 9 septembre 2026
+Une projection ne devient jamais automatiquement source de vérité pour les autres.
 
-Le chantier est volontairement suspendu à ce point afin de revenir au dossier de candidature sénatoriale.
+## Issues actives structurantes
 
-Point de reprise :
+- [#42](https://github.com/JeanHuguesRobert/barons-Mariani/issues/42) — chantier parent ;
+- [#75](https://github.com/JeanHuguesRobert/barons-Mariani/issues/75) — édition anniversaire et gel ;
+- [#80](https://github.com/JeanHuguesRobert/barons-Mariani/issues/80) — réception structurée des témoignages ;
+- [#81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81) — centre de gravité éditorial du n°2.
 
-- architecture courante : [`architecture.md`](architecture.md) ;
-- trois continuations immédiates déjà enregistrées dans cette architecture et dans le présent README ;
-- aucune de ces continuations n'est réputée exécutée ;
-- les cinq fichiers de `manuscript/` restent les artefacts historiques de l'édition bootstrap, révisables comme tout autre fichier du Corpus si le travail en cours le justifie (voir la correction de doctrine ci-dessus).
+Les issues spécialisées historiques restent partie du Corpus lorsqu'elles portent des traces, décisions, objections ou Continuations, sans devenir pour autant des sources canoniques stabilisées.
 
-La reprise doit donc partir de l'architecture v2 et non restaurer implicitement l'ancien plan bootstrap.
+## Principe de continuation
+
+Une piste non traitée ne doit ni disparaître ni être artificiellement intégrée au prochain numéro. Elle devient une **Continuation explicite**, avec provenance, état et condition de reprise.
+
+Ainsi :
+
+```text
+ne pas tout publier
+≠ oublier
+≠ fermer
+```
+
+Le projet reste volontairement incomplet, mais l'incomplétude doit être visible, traçable et exploitable.

@@ -3,8 +3,8 @@ title: "Suicide Corse — Architecture d'enquête v2"
 subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publication réactive"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-09"
-last_modified_at: "2026-09-09"
+date: "2026-09-18"
+last_modified_at: "2026-09-18"
 version: "0.1"
 status: "working-paper"
 language: "fr"
@@ -904,6 +904,50 @@ But :
 Ce test ne produit pas une autopsie psychologique.
 
 Il teste la méthode de l'enquête.
+
+---
+
+# 22.1. Architecture d'enquête, architecture documentaire, architecture éditoriale
+
+Depuis l'édition anniversaire, la croissance du Corpus impose de rendre explicite une séparation qui n'était qu'implicite dans la première version de cette note.
+
+Trois architectures coopèrent :
+
+```text
+architecture d'enquête
+= catégories, Reality Cases, invariants candidats, mécanismes, objections, Acts
+
+architecture documentaire
+= sources, sous-corpus, chronologies, registres, provenance, Knowledge Gaps
+
+architecture éditoriale
+= sélection et composition datées pour un numéro ou une autre projection
+```
+
+Elles ne doivent pas être superposées.
+
+En particulier :
+
+- `memory/marie-louise/` peut croître sans qu'un nouveau chapitre soit créé ;
+- une généalogie, un catalogue raisonné, un registre de témoins ou une chronologie possèdent une valeur documentaire indépendante de leur emploi dans *Suicide Corse* ;
+- `manuscript/` est désormais un espace historique et de travail, pas une table des matières canonique ;
+- le contrat de projection détermine le contenu d'une édition ;
+- une édition gelée reste immuable tandis que le Corpus et les projections futures continuent ;
+- le n°2 peut donc être entièrement recomposé à partir du Corpus courant sans reproduire le plan du numéro anniversaire.
+
+Le mouvement complet devient :
+
+```text
+traces / sources
+→ sous-corpus et qualification
+→ architecture d'enquête
+→ projection choisie
+→ édition / Act
+→ réponse du Réel
+→ nouvelles traces
+```
+
+Cette séparation permet également à un même sous-corpus d'alimenter plusieurs projections : *Suicide Corse*, catalogue raisonné, Twin documentaire, agent conversationnel ou scénario, sans qu'aucune de ces projections ne devienne silencieusement la source des autres.
 
 ---
 

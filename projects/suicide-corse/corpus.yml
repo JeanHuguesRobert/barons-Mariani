@@ -3,15 +3,25 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-09"
-source_of_truth: "repository corpus files; this manifest references them and does not replace them"
+updated: "2026-09-18"
+source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
+
+architecture:
+  inquiry: projects/suicide-corse/architecture.md
+  project_index: projects/suicide-corse/README.md
+  editions: projects/suicide-corse/editions/index.md
+  rule: "Corpus, inquiry architecture and edition architecture are distinct."
 
 sources:
   - id: suicide-corse-architecture-v2
     path: projects/suicide-corse/architecture.md
     role: project-architecture
     required: true
-    note: "Current inquiry architecture; the five manuscript files remain bootstrap artifacts rather than the canonical long-term structure."
+
+  - id: marie-louise-index
+    path: memory/marie-louise/README.md
+    role: source-index
+    required: true
 
   - id: marie-louise-map
     path: memory/marie-louise/carte.md
@@ -19,97 +29,83 @@ sources:
     required: true
     note: "Current synthesis map; preserve typed uncertainty and source distinctions."
 
-  - id: marie-louise-index
-    path: memory/marie-louise/README.md
-    role: source-index
+  - id: marie-louise-possible-matrix
+    path: memory/marie-louise/possible_matrix.md
+    role: research-matrix
+    required: false
+
+  - id: marie-louise-possible-matrix-machine
+    path: memory/marie-louise/possible_matrix.yaml
+    role: machine-readable-projection
+    required: false
+    note: "Derived projection; not an independent authority."
+
+  - id: marie-louise-portes-controles-epistemiques
+    path: memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    role: research-matrix
     required: true
+
+  - id: marie-louise-formation
+    path: memory/marie-louise/formation
+    role: source-collection
+    required: false
+
+  - id: marie-louise-works
+    path: memory/marie-louise/works/README.md
+    role: source-index
+    required: false
+    note: "Works and catalogue-raisonne substrate; preserve work / life trace / causal evidence distinctions."
+
+  - id: marie-louise-elections
+    path: memory/marie-louise/elections/README.md
+    role: source-index
+    required: false
 
   - id: elections-2024-complaints
     path: memory/marie-louise/elections-2024-complaints.md
     role: source-note
     required: true
 
-  - id: marie-louise-elections-2017-2024
-    path: memory/marie-louise/elections/README.md
-    role: source-index
-    required: false
-    note: "Consolidated electoral chronology; preserve civil identity / ballot-name / administrative-nuance distinctions."
-
-  - id: marie-louise-works
-    path: memory/marie-louise/works/README.md
-    role: source-index
-    required: false
-    note: "Direct creative works and contemporary artistic traces; preserve source / interpretation distinction."
-
-  - id: le-dieu-de-leau-2008
-    path: memory/marie-louise/works/le_dieu_de_leau_2008.md
-    role: source-note
+  - id: marie-louise-chronology
+    path: memory/marie-louise/chronology
+    role: source-collection
     required: false
 
-  - id: le-dieu-de-leau-verbatim
-    path: memory/marie-louise/works/sources/le_dieu_de_leau_2008_verbatim.txt
-    role: primary-source
+  - id: marie-louise-witnesses
+    path: memory/marie-louise/witnesses
+    role: inquiry-method-and-index
     required: false
-    note: "Full verbatim text authorized for public publication and intended for full integration in a future Suicide Corse edition."
+    note: "Public method and schemas only; private testimony payloads must not be copied into the public repository."
 
-  - id: le-dieu-de-leau-original-email
-    path: memory/marie-louise/works/sources/2008-12-03_jouyeux-Noel-de-lilou_original.eml
-    role: primary-source
-    required: false
-    note: "Original RFC822 email; provenance anchor for the verbatim text."
-
-  - id: frontieres-stop-motion-2016
-    path: memory/marie-louise/works/frontieres_stop_motion_2016.md
-    role: source-note
+  - id: marie-louise-gendarmerie
+    path: memory/marie-louise/enquete-gendarmerie
+    role: inquiry-collection
     required: false
 
-  - id: l-alterite-en-soi-2016
-    path: memory/marie-louise/works/l_alterite_en_soi_2016.md
-    role: source-note
+  - id: genealogy-casabianca
+    path: musee-mariani/casabianca
+    role: family-source-collection
     required: false
-    note: "YouTube platform trace for the 3 April 2016 video; preserve the strong-but-unproven inference linking it to the 14 April stop-motion exhibition."
 
-  - id: photoroman-julie-2017
-    path: memory/marie-louise/works/photoroman_julie_2017.md
-    role: source-note
+  - id: genealogy-mariani
+    path: musee-mariani/mariani
+    role: family-source-collection
     required: false
-    note: "YouTube platform trace for a second video published during the 2016-2017 CPES year."
 
-  - id: marie-louise-artistic-education-2016-2022
-    path: memory/marie-louise/formation/parcours_artistique_2016_2022.md
-    role: source-note
+  - id: genealogy-dangelis
+    path: musee-mariani/dangelis
+    role: family-source-collection
     required: false
-    note: "Source-first chronology from Terminale through CPES Sartene and Nantes to the first Villa Arson / Nice traces; preserve admission/enrolment/attendance distinctions."
-
-  - id: marie-louise-possible-matrix
-    path: memory/marie-louise/possible_matrix.md
-    role: research-matrix
-    required: false
-    note: "Longitudinal Reality Case for issue #47; preserve the distinction between openings, maintenance, friction, closure, reopening, load and unknown."
-
-  - id: marie-louise-possible-matrix-machine
-    path: memory/marie-louise/possible_matrix.yaml
-    role: machine-readable-projection
-    required: false
-    note: "Working derived projection of the human-readable matrix; schema: JeanHuguesRobert/cogentia/schemas/possible-matrix.v0.schema.json. Do not treat as an independent authority."
-
-  - id: marie-louise-portes-controles-epistemiques
-    path: memory/marie-louise/2024_portes_et_controles_epistemiques.md
-    role: research-matrix
-    required: true
-    note: "2026-09-16 note; anti-certainty rule, contested Nantes-2017 motivation (father vs Ferdinand Pancrazi, unresolved), summer-2024 candidate open doors (godfather, Villa Arson, unpaid commission, all UNKNOWN), and the perceived-reliability-of-a-possible variable. Constrains chapters 5 and 8 of the anniversary edition."
 
   - id: triangulation-du-reel
     path: research/triangulation_du_reel.md
     role: methodological-source
     required: true
-    note: "Section 4.1 (added 2026-09-16): causal parsimony / Hanlon's razor escalation ladder. Grounds why the Machine à Empêcher framing (ouverture, chapter 11) never escalates to personal accusation without proportionate evidence."
 
   - id: protection-responsable
     path: research/protection_responsable.md
     role: research-source
     required: true
-    note: "Working research source; do not promote case-specific hypotheses to fact without primary evidence."
 
   - id: second-method
     path: research/second_method.md
@@ -125,7 +121,6 @@ sources:
     path: research/noyau_doctrinal_rendre_capable.md
     role: doctrinal-source
     required: true
-    note: "Canonical doctrinal kernel for effective freedom, capability autonomy, capability gaps and capability-loss counterfactuals; derive without replacing source distinctions."
 
   - id: possible
     path: research/rational_odysseys_the_possible.md
@@ -146,7 +141,23 @@ sources:
     path: research/autonomia/corse_laboratoire.md
     role: research-source
     required: false
-    note: "Territorial experimental source used by the v2 architecture for bounded Acts, revers, bifurcation, anti-capture and cross-scale reasoning."
+
+projections:
+  anniversary_2026_09_17:
+    contract: projects/suicide-corse/projections/book-2026-09-17-anniversaire.yml
+    freeze: projects/suicide-corse/editions/2026-09-17-freeze.md
+    state: frozen
+  numero_2:
+    issue: 81
+    state: working
+    target_date: "2026-09-21"
+    rule: "Reproject the current Corpus; do not inherit the previous edition plan by inertia."
+  screenplay:
+    path: projects/suicide-corse/projections/screenplay.yml
+  conversational_agent:
+    path: projects/suicide-corse/projections/conversational-agent.yml
+  weekly_journal:
+    path: projects/suicide-corse/projections/journal-weekly.yml
 
 issues:
   parent: 42
@@ -160,25 +171,36 @@ issues:
   conversational_agent: 50
   reactive_publication: 51
   protection_legislation: 52
+  anniversary_edition: 75
+  testimony_intake: 80
+  numero_2: 81
 
 external_dependencies:
   - repository: JeanHuguesRobert/ubikia
     issue: 24
-    role: "minimal Markdown -> projection -> render pipeline"
+    role: "Markdown -> projection -> render pipeline"
 
 editorial_rules:
   book_is_source_of_truth: false
+  corpus_and_projection_are_distinct: true
+  edition_plan_is_not_inherited: true
   preserve_epistemic_status: true
+  agency_before_outcome: true
   invent_marie_louise_voice: false
   frozen_editions_are_immutable: true
   unknown_is_allowed: true
+  private_testimony_stays_private_by_default: true
 
 open_gaps:
-  - "Recover the original file for L altérité en soi and materially verify whether it is the stop-motion presented on 14 April 2016."
+  - "Consolidate the identity/name/account chronology from primary traces without psychological inference."
+  - "Recover the original file for L altérité en soi and verify its relation to the April 2016 stop-motion exhibition."
   - "Recover the 2016 Beaux-Arts de Paris admission result."
-  - "Recover the initial Nantes admission decision and the exact resolution of the December 2017 administrative-fee issue."
-  - "Recover the primary institutional Villa Arson admission / entry-level trace and document actual enrolment and attendance."
-  - "Resolve the 2016 photo provenance/rights trail, including the Corse-Matin / José Martinetti lead."
-  - "Locate the exact final physical 2020 Senate ballot artifact and any contemporary trace explaining the use of 'Marie-Louise d'Angelis' by Laurence Vernerey."
+  - "Recover the initial Nantes admission decision and exact resolution of the December 2017 administrative-fee issue."
+  - "Recover primary Villa Arson admission/enrolment/attendance traces."
+  - "Resolve the 2016 photo provenance/rights trail."
+  - "Locate the exact final physical 2020 Senate ballot artifact and contemporary evidence around the name used."
+  - "Materially connect the 2022 electoral graphic object to its 2024 reuse."
   - "Reconstruct summer 2024 from primary traces without retrospective filling."
+  - "Continue the witness directory and structured intake pipeline."
+  - "Continue the catalogue raisonne and genealogy as independent source work before editorial projection."
   - "Add demographic and suicidology datasets after contradictory review."
