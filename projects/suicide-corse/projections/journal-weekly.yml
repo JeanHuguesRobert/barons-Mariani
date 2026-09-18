@@ -1,15 +1,73 @@
-schema: suicide-corse.projection.journal-weekly.v0
+schema: suicide-corse.projection.journal-weekly.v1
 id: suicide-corse-journal-weekly
-status: placeholder
+status: active
 language: fr
 source_manifest: ../corpus.yml
-purpose: "Produce the Journal de campagne contre l'impossible from changes, traces, contradictions and Reality responses."
+related_issues: [44, 81]
+
+purpose: "Produce the Journal de campagne contre l'impossible as the intelligible delta of the Corpus and inquiry between two editorial reference points."
+
+not:
+  - git_changelog
+  - edition_summary
+  - private_writing_diary
+  - independent_source_of_truth
+
+comparison:
+  required: [reference_from, reference_to, covered_window]
+  preferred: [relevant_commits, relevant_issues, new_or_changed_sources, material_events, explicitly_deferred_work]
+  rule: "Compare the movement of the Corpus and inquiry, not merely textual differences between editions."
+
+inputs:
+  - corpus_manifest
+  - canonical_sources_changed_in_window
+  - issue_decisions_and_continuations
+  - previous_frozen_projection_when_available
+  - Reality_responses_and_material_events
+  - contradictory_review_results_when_available
+
+epistemic_rules:
+  preserve_status: [documented_fact, direct_speech, testimony, assertion, inference, hypothesis, UNKNOWN]
+  agency_before_outcome: true
+  unknown_is_evidence: true
+  abandoned_hypothesis_is_result: true
+  projection_is_not_source_of_truth: true
+  invent_marie_louise_voice: false
+
 sections:
-  - "Percées"
-  - "Nouvelles pistes"
-  - "Carte corrigée"
-  - "Ce que le réel nous a refusé"
-  - "Outils acquis"
-  - "Fronts ouverts"
-  - "Prochaine campagne"
-related_issue: 44
+  - {id: starting_point, title: "D'où partions-nous ?", function: "Previous state/projection and questions then open."}
+  - {id: corpus_inflow, title: "Qu'est-ce qui est entré dans le Corpus ?", function: "New traces, documents, testimonies, works and contradictions."}
+  - {id: learned, title: "Qu'avons-nous appris ?", function: "Breakthroughs, useful connections, candidate invariants and distinctions."}
+  - {id: corrected, title: "Qu'avons-nous corrigé ?", function: "Errors, weakened or abandoned hypotheses and map corrections."}
+  - {id: reality_response, title: "Qu'a répondu le Réel ?", function: "Confirmations, refusals, absence of response, events, experiments and Acts."}
+  - {id: unknown, title: "Qu'est-ce qui reste UNKNOWN ?", function: "Documentary blanks, unresolved contradictions and resistant questions."}
+  - {id: newly_possible, title: "Qu'est-ce qui devient possible ?", function: "New research paths, Acts, tools and candidate projections."}
+  - {id: deferred, title: "Qu'avons-nous volontairement différé ?", function: "Explicit Continuations and why they are not current blockers."}
+  - {id: next_campaign, title: "Prochaine campagne", function: "Priority fronts without freezing the next edition plan."}
+
+section_policy:
+  omit_artificially_empty_sections: true
+  reorder_for_readability: true
+  preserve_semantic_functions: true
+
+edition_relation:
+  rendering_form: undecided
+  allowed_forms: [autonomous_linked_artifact, integrated_journal_section]
+  semantic_distinction: "The edition projects selected Corpus content; the Journal projects the movement of the Corpus."
+  numero_2:
+    issue: 81
+    role: "Provide or reference the intelligible delta required by the publication criterion currently described as manifest/changelog."
+    technical_manifest_remains_separate: true
+
+output_requirements:
+  - identify_reference_points
+  - identify_covered_window
+  - preserve_source_provenance
+  - expose_corrections_and_abandoned_hypotheses
+  - expose_UNKNOWN
+  - expose_explicit_continuations
+  - avoid_inheriting_next_editorial_plan
+
+historical_prototype:
+  path: ../journals/2026-09-17-numero-special-anniversaire.md
+  rule: "Do not rewrite retrospectively to conform to v1."
