@@ -10,6 +10,18 @@ author: "Jean Hugues Noël Robert"
 source_manifest: ../corpus.yml
 edition_label: "Numéro spécial du 17 septembre 2026 — édition anniversaire"
 
+cover:
+  title: "Suicide Corse"
+  subtitle: "ou comment réaliser l'impossible"
+  issue: "N° 1"
+  edition: "Édition spéciale du 17 septembre 2026"
+  anniversary: "Second anniversaire"
+  author: "Jean Hugues Noël Robert"
+  author_title: "baron Mariani"
+  image: "../assets/cover/bulletin_senatoriales_2026_baron_mariani_retenu.png"
+  image_role: "élément graphique central"
+  preserve_source_image: true
+
 # Dernière preview candidate avant décision humaine de gel.
 # Le gel reste une décision éditoriale explicite et distincte du rendu.
 
@@ -67,7 +79,6 @@ known_deferred_content:
 
 open_questions:
   - "Final page format and print geometry."
-  - "Cover asset and rights metadata — candidat souhaité : dernière extraction d'image issue du bulletin de vote ; asset matériel à localiser avant rendu."
   - "Citation/bibliography rendering convention."
   - "License treatment for mixed-rights external assets."
   - "Modalités publiques de réception et de qualification des témoignages."
