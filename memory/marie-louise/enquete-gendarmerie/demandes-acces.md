@@ -23,6 +23,21 @@ La demande adressée au tribunal judiciaire de Grasse porte notamment sur :
 
 Gmail : `1a08a8b98d3ce556`.
 
+## 18 septembre 2026 — relance et audition de Martine Brillais
+
+Après vérification de l'absence de réponse identifiable dans Gmail à la demande du 10 septembre, JHR envoie une relance dans le même fil.
+
+La relance :
+- rappelle `PV 03632/2024` et la demande initiale ;
+- redemande le statut procédural, le service détenteur et la voie d'accès ;
+- ajoute une demande ciblée concernant le procès-verbal d'audition de Martine Brillais ;
+- demande subsidiairement confirmation de son existence, sa date, sa référence / numéro de pièce, le service détenteur et la démarche de communication ;
+- demande un accusé de réception.
+
+Gmail : `1a0b24fb0fc809a8`.
+Fil Gmail : `1a05eef4e2944290`.
+État : **envoyée le 2026-09-18 à 04:19 +02:00**, sans pièce jointe.
+
 ### Continuation
 
-Vérifier la réponse éventuelle. À défaut, relancer en ajoutant une demande ciblée concernant le ou les PV d'audition de Martine Brillais et, subsidiairement, leur existence, date, référence et service détenteur.
+Attendre / rechercher une réponse du tribunal judiciaire de Grasse. Toute réponse devra être enregistrée comme interaction distincte et ses effets reportés dans le registre des pièces et les questions ouvertes.
