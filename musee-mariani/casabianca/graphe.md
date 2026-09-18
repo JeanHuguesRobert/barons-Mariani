@@ -22,4 +22,8 @@ Ce dossier sépare les **personnes** des **relations** afin que l'arbre puisse �
 
 La première tranche encode la ligne Rinuccio → Marguerite de Casabianca (1861) → Marie-Louise Mariani, ainsi que la bifurcation Pierre (1859) → François-Marie III → Rose-Marie « Moussia ».
 
-Le graphe sera étendu incrémentalement aux collatéraux et aux générations contemporaines, avec priorité aux relations utiles à l'histoire familiale et aux projections du Corpus.
+## Principe de phase : « selon Moussia »
+
+La phase actuelle est une transcription structurée de l'ouvrage de Moussia. Elle ne cherche pas à corroborer, corriger ou compléter l'ouvrage par des sources extérieures. Les références primaires ou secondaires mentionnées par Moussia sont conservées comme éléments de son appareil documentaire, sans vérification indépendante à ce stade.
+
+Le graphe sera étendu incrémentalement aux collatéraux et aux générations contemporaines tels qu'ils figurent dans l'ouvrage.
