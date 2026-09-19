@@ -55,6 +55,7 @@ changelog:
   capability attraction, governance, memory lifecycle, Potentics relation
   and implementation research program.
 - v0.9 (2026-09-04) — integrates the RAIX capability-array addendum (resolving issue #36); extends the definition of a hop from a single processor to a temporarily composed capability array; connects Ithaca assimilation to learned future composition policy; and integrates systolic array, CGRA, and collective biological analogies (Physarum) under strict non-claim discipline.
+- v0.10 (2026-09-19) — integrates temporal recovery semantics: irreversible effects may move from reversal to compensation, containment, repair and accepted residue; operational cooling is separated from historical erasure; time becomes an explicit transformer of option value, urgency, reparability and action priority.
 classification_confidence: medium
 classification_rule: research-paper
 classification_source: cogentia.js
@@ -67,7 +68,7 @@ description: An independent-research working paper proposing Cognitive
 document_kind: research-paper
 document_role: source
 language: en
-last_modified_at: 2026-09-04
+last_modified_at: 2026-09-19
 last_stamped_at: unknown
 license: CC BY-SA 4.0
 lifecycle_state: working
@@ -136,7 +137,7 @@ tags:
 - independent-research
 title: The Network is the Learning Computer
 update_policy: UP-ARCHAEOLOGY-LIVING
-version: "0.9"
+version: "0.10"
 visibility: public
 ---
 
@@ -2351,6 +2352,40 @@ An executor receipt is evidence that an operation was attempted or committed acc
 
 The Learning Computer therefore needs a path by which Reality can answer independently.
 
+### 11.1 From rollback to repair
+
+Once an external effect has committed, replay safety no longer means pretending the world can be reset.
+
+The recovery regime may evolve with propagation and time:
+
+~~~text
+reversible effect
+→ reverse
+
+committed but counteractable effect
+→ compensate
+
+damage still spreading
+→ contain / damage control
+
+harmed state still improvable
+→ repair
+
+restoration impossible but equivalent remedy possible
+→ restitute / indemnify
+
+remaining disproportionate or irreparable consequence
+→ accepted, attributed residue
+~~~
+
+The governing invariant is:
+
+> **Before commitment, preserve options. After commitment, preserve causality.**
+
+Compensation is not historical erasure. Repair is not proof that the original harm did not occur. Accepted residue is not forgotten history.
+
+A Learning Computer should assimilate not only whether an effect succeeded, but also the cost and limits of reversal, compensation, containment and repair, so future authorization, routing and capability composition can change accordingly.
+
 ---
 
 ## 12. Persistent memory requires forgetting, cooling and resurrection
@@ -2384,7 +2419,30 @@ A large raw trace may be replaceable by a stable summary plus reconstructible so
 
 A packet may be cold for years and become relevant again when a new Event intersects its semantic neighborhood.
 
-This is why Packet Placement and memory temperature belong naturally in the Learning Computer narrative.
+The same applies to unresolved consequences and residual damage. A consequence may move operationally through:
+
+~~~text
+urgent
+→ active
+→ monitored
+→ cooled
+→ historical
+~~~
+
+without ever moving through:
+
+~~~text
+happened
+→ did not happen
+~~~
+
+This yields a temporal distinction:
+
+> **Time does not rewrite history. It changes the value of options, urgency, reparability, proportionality and operational temperature.**
+
+A problem may therefore cease to justify active intervention without being causally “solved”. Cooling is a decision about current action and memory temperature, not a retroactive claim about Reality.
+
+This is why Packet Placement, memory temperature and recovery temperature belong naturally in the Learning Computer narrative.
 
 ---
 
