@@ -83,6 +83,7 @@ La représentation pourra évoluer sous pression de l'usage réel.
 - [2017-03-24 — rencontre CPES avec Marie-Jeanne Tomasi](2017-03-24-cpes-marie-jeanne-tomasi.md)
 - [2017-04-07 — rencontre CPES avec Toni Casalonga](2017-04-07-cpes-toni-casalonga.md)
 - [2017-04-14 — exposition CPES à Scenina, Ajaccio](2017-04-14-scenina-ajaccio.md)
+- [2017-06-21 — transition Paris / Nantes : récits contemporains](2017-06-21-transition-paris-nantes.md)
 
 Ces fiches documentent d'abord des **événements de promotion**. Lorsqu'une présence ou participation individuelle de Marie-Louise n'est pas établie, elle reste explicitement UNKNOWN.
 
