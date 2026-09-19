@@ -48,6 +48,7 @@ Il peut contenir :
 - [`campaign-01.md`](campaign-01.md) : première campagne de sollicitation, organisée par vagues et Knowledge Gaps ;
 - [`nantes_zad_tournage.md`](nantes_zad_tournage.md) : Nantes, ZAD et tournage ;
 - [`research-2009-2016.md`](research-2009-2016.md) : recherche documentaire et témoins de l'adolescence jusqu'à l'entrée en CPES.
+- [`research-2017-transition-nantes.md`](research-2017-transition-nantes.md) : transition CPES → Nantes, concours 2017, récits contemporains et pistes non résolues.
 
 Ces études n'ont pas vocation à devenir des fiches uniques de toutes les personnes qu'elles mentionnent.
 
