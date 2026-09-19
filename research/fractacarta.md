@@ -4,8 +4,8 @@ subtitle: "Recursive, multidimensional and epistemically traceable cartography"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica, France"
 date: "2026-09-18"
-last_modified_at: "2026-09-18"
-version: "0.1"
+last_modified_at: "2026-09-19"
+version: "0.2"
 status: "working-note — FractaCarta working hypothesis"
 document_role: "source"
 document_kind: "doctrinal-note"
@@ -22,6 +22,7 @@ related_documents:
   - "research/rational_odysseys_the_possible.md"
   - "research/presencology.md"
   - "research/the_network_is_the_learning_computer.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/locality_principle.md"
 provenance:
   origin_type: "conversation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -49,6 +50,7 @@ classification_rule: "explicit-metadata"
 classification_confidence: "medium"
 changelog:
   - "v0.1 (2026-09-18) — first stabilization of the FractaCarta working hypothesis, minimal model, transformations and prior-art-friendly lineage."
+  - "v0.2 (2026-09-19) — binds FractaCarta to the Corpus Locality Principle; adds Minimum Sufficient Locality, explicit locality crossing, and map-scope/territory-ownership separation."
 ---
 
 # FractaCarta
@@ -264,7 +266,7 @@ FractaCarta inherits and strengthens several Corpus invariants:
 5. **Projection ≠ truth.** A Map is situated and corrigible.
 6. **Contradictions are cartographable.** A system SHOULD preserve incompatible sourced assertions when the evidence does not justify collapsing them.
 7. **Provenance travels with claims and projections.**
-8. **Locality before duplication.** Information SHOULD remain at the most local level where it stays intelligible; higher-level Maps SHOULD reference rather than unnecessarily copy underlying evidence.
+8. **Locality before duplication.** Information SHOULD remain within the smallest sufficient locality where it stays intelligible, governable and continuable; higher-level Maps SHOULD reference or request bounded projections rather than unnecessarily copy underlying Territory. See the Corpus [Locality Principle](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/locality_principle.md).
 9. **No premature formalization.** Exploration SHOULD NOT require Territory to fit a structure before evidence justifies that structure.
 10. **Multiple Maps are normal.** Different questions, dimensions, scopes and epistemic policies may legitimately produce different Maps of overlapping Territory.
 
@@ -291,6 +293,33 @@ M = resulting Map
 ```
 
 Only Anchor, Projection, Scope and Provenance are currently proposed as minimal structural primitives. The other parameters remain useful modeling candidates rather than frozen ontology.
+
+### 7.1 Locality, Map scope and Minimum Sufficient Locality
+
+FractaCarta inherits the Corpus Locality Principle:
+
+> **Keep state, history, interpretation, authority and computation within the smallest sufficient locality. Cross locality boundaries by explicit reference or bounded projection; centralize or replicate only when a demonstrated invariant requires it.**
+
+A Map may span several localities without absorbing, relocating or owning their Territory.
+
+~~~text
+Map M
+  ├── ref / projection → Locality A
+  ├── ref / projection → Locality B
+  └── ref / projection → Locality C
+~~~
+
+Therefore:
+
+~~~text
+global Map scope ≠ global Territory ownership
+~~~
+
+For a question or action Q, the **Minimum Sufficient Locality** (MSL) is the smallest locality sufficient for Q under its mandate, risk, privacy, cost, freshness and epistemic requirements.
+
+FractaCarta SHOULD prefer a bounded projection of MSL(Q) over indiscriminate context accumulation.
+
+REANCHOR may cross a locality boundary. When it does, the crossing SHOULD remain explicit: the new Map should preserve the referenced locality, provenance, applicable policy and the fact that the underlying Territory was not silently copied merely because it became navigable.
 
 ---
 
@@ -383,7 +412,9 @@ Licensing, governance, interoperability surfaces and active communities SHOULD b
 7. Can FractaCarta map Maps themselves without introducing an infinite regress problem in practice?
 8. Which existing open standards can directly serialize the minimal primitives?
 9. Can a filesystem/Git tree remain merely one documentary projection while graph navigation and computed Maps coexist above it?
-10. What is the smallest useful FractaCarta experiment already achievable with Marie-Louise, Olé Olé or another existing Corpus territory?
+10. What is the smallest useful FractaCarta experiment already achievable with COP/Memory, Marie-Louise, Olé Olé or another existing Corpus territory?
+11. Can a MemoryView approximate a Minimum Sufficient Locality without introducing a new mandatory locality ontology?
+12. Which locality crossings require only reference/projection, and which genuinely justify replication or global correlation?
 
 ---
 
