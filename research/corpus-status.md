@@ -87,7 +87,7 @@ graph LR
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
   r_cogentia -->|116| r_barons_mariani
-  r_barons_mariani -->|88| r_cogentia
+  r_barons_mariani -->|89| r_cogentia
   r_jeanhuguesrobert -->|68| r_barons_mariani
   r_fractavolta -->|54| r_cogentia
   r_inseme -->|43| r_cogentia

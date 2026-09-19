@@ -27,7 +27,6 @@ provenance:
   origin_date: unknown
   derived_from: []
 ---
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [Traçabilité civique anti-mafieuse](traceabilite_civique_antimafia.md) | ➡️ Next: [Democratic AI Safety](democratic_ai_safety.md)

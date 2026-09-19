@@ -7917,4 +7917,5 @@ La ligne utile est :
 - [Le théâtre des pays imaginaires de Corse](theatre_pays_imaginaires_corse_beauvau_blogpost.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
+- [Trail — Une Corse capable](../trails/une_corse_capable.md)
 <!-- END_AUTO: backlinks -->

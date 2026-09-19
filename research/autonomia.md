@@ -936,6 +936,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 ### Backlinks
 
 *These documents link to this file:*
+- [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 - [Barons Mariani](../README.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
@@ -948,6 +949,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [Trail — Une Corse capable](trails/une_corse_capable.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
 - [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)

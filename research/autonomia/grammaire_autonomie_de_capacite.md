@@ -743,5 +743,6 @@ Formule de synthèse :
 - [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
+- [Trail — Une Corse capable](../trails/une_corse_capable.md)
 - [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->

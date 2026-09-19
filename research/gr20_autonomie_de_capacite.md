@@ -479,5 +479,6 @@ La ligne directrice doit rester stable :
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
 - [Research Index — barons-Mariani](index.md)
+- [Trail — Une Corse capable](trails/une_corse_capable.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
 <!-- END_AUTO: backlinks -->

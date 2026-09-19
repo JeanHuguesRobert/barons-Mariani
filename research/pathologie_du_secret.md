@@ -27,7 +27,6 @@ provenance:
   origin_date: unknown
   derived_from: []
 ---
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [Democratic AI Safety](democratic_ai_safety.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)

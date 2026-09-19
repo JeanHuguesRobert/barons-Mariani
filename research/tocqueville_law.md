@@ -27,7 +27,6 @@ provenance:
   origin_date: unknown
   derived_from: []
 ---
-
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ⬅️ Previous: [Autonomia](autonomia.md) | ➡️ Next: [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)

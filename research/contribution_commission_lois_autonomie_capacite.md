@@ -638,6 +638,7 @@ La liste suivante est conservée comme trace de l'état préparatoire du dossier
 ### Backlinks
 
 *These documents link to this file:*
+- [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
 - [Research Index — barons-Mariani](index.md)
