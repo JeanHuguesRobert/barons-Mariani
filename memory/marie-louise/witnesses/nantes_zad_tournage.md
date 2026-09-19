@@ -88,6 +88,20 @@ Les données bancaires, adresses privées complètes et autres informations sens
 
 **À rechercher :** uniquement si les pistes Camille / Alice / Juliette ne suffisent pas ou si d'autres traces la relient directement à Marie-Louise.
 
+## Jacques Laroche
+
+**Statut :** témoin potentiel institutionnel/logistique — logement nantais.
+
+**Faits établis :** Jacques Laroche apparaît comme propriétaire et interlocuteur direct du logement occupé par Marie-Louise à Nantes en 2019. Les échanges portent notamment sur le bail, son avenant, les pièces administratives et la situation d'une amie hébergée dans le logement. Le 11 octobre 2019, il écrit après un échange avec Marie-Louise au sujet de cette amie (Gmail:16db9d63bdf3e80c).
+
+**Pourquoi le solliciter :** il peut potentiellement préciser la chronologie d'occupation du logement, les personnes formellement inscrites au bail, les documents encore conservés et, dans les limites de ce qu'il a personnellement observé, certains éléments logistiques de cette période.
+
+**Précaution :** aucune source actuelle n'en fait un témoin privilégié de la vie artistique ou personnelle de Marie-Louise ; sa pertinence est d'abord documentaire et logistique.
+
+### Amie hébergée à l'automne 2019 — identité inconnue
+
+Une amie de Marie-Louise est mentionnée dans l'échange d'octobre 2019. Son identité reste `UNKNOWN` et ne doit pas être fusionnée sans preuve avec Alice, Juliette ou une autre personne connue du réseau nantais.
+
 ## Orfeu Vittoriu-Gregorj
 
 **Statut :** témoin potentiel de contextualisation — piste Notre-Dame-des-Landes.
