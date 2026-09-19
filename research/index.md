@@ -262,3 +262,283 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 - [Never complain, never explain — Facebook publication](publications/2026-07-06_never_complain_never_explain_accountability_facebook.md)
 - [Rational Odysseys into The Possible](rational_odysseys_the_possible.md)
 - [On n’est jamais si bien servi que par soi-même](se_demultiplier_pour_explorer_le_possible_blogpost.md)
+
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [accidental creation — ignore](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00057.md) | source | unknown |
+| [accidental creation — ignore](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00058.md) | source | unknown |
+| [accidental creation — ignore](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00059.md) | source | unknown |
+| [Continuation Du spectacle à la régie — Debord, IA domestiquée et Stabilisateur procédural](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00021.md) | source | unknown |
+| [DPCP Quand le Réel répond — PKD, AI, consequences, and FractaCognition](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00054.md) | source | unknown |
+| [Idea to explore Que veut dire être vivant à l’heure de l’IA ?](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00004.md) | source | unknown |
+| [Research Dongles propriétaires et droit à la remise en service](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00008.md) | source | unknown |
+| [1863 — Baron Mariani contre Sampiero Gavini : protestation électorale et permanence des mécanismes](protestation_electorale_1863_mariani_gavini.md) | source | 2026-09-12 |
+| [2016 — ENSAD — ensemble des dix planches originales](../memory/marie-louise/works/2016-ensad-dix-planches.md) | unknown | 2026-09-18 |
+| [2016-03-15 — ENSAD — recours gracieux après concours d'admission](../memory/marie-louise/chronology/2016-03-15-ensad-recours-gracieux.md) | unknown | 2026-09-18 |
+| [2017-03-24 — CPES Sartène — rencontre avec Marie-Jeanne Tomasi](../memory/marie-louise/chronology/2017-03-24-cpes-marie-jeanne-tomasi.md) | unknown | 2026-09-17 |
+| [2017-04-07 — CPES Sartène — rencontre avec Toni Casalonga](../memory/marie-louise/chronology/2017-04-07-cpes-toni-casalonga.md) | unknown | 2026-09-17 |
+| [2017-04-14 — CPES Sartène — exposition à Scenina, Ajaccio](../memory/marie-louise/chronology/2017-04-14-scenina-ajaccio.md) | unknown | 2026-09-17 |
+| [Accompagnement capacitaire humain et IA](accompagnement_capacitaire_humain_ia.md) | source | 2026-07-25 |
+| [Act #1755-01 — Vérification archivistique du manuscrit de la Constitution corse de 1755](autonomia/act_1755_01_verification_manuscrit.md) | operational | 2026-09-09 |
+| [Acteurs procéduraux](../memory/marie-louise/enquete-gendarmerie/acteurs.md) | unknown | 2026-09-18 |
+| [Addendum — Nouveau Testament, secret et pastoralisme](economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md) | source | 2026-08-15 |
+| [Agents JHN](../agents-jhn/README.md) | unknown | 2026-07-29 |
+| [Alignement doctrinal — souveraineté, délégation et Agents Mandatés](doctrinal_alignment_2026-08-24.md) | source | 2026-08-24 |
+| [Amendement d’effectivité — proposition de modification minimale de l’article 72-5](autonomia/amendement_effectivite_article_72-5.md) | source | 2026-09-19 |
+| [Annuaire](../projects/suicide-corse/manuscript/annuaire.md) | derived | 2026-09-18 |
+| [Arbre de travail — famille de Casabianca](../musee-mariani/casabianca/arbre-travail.md) | unknown | 2026-09-18 |
+| [Assistance non directive et Autonomie de Capacité](autonomia/assistance_non_directive_capacitaire.md) | source | 2026-08-16 |
+| [Assistance personnelle capacitaire](autonomia/assistance_personnelle_capacitaire.md) | source | 2026-08-21 |
+| [Atelier : Culture de l'Âne](../musee-mariani/ateliers/atelier_culture_de_l_ane.md) | source | 2026-08-22 |
+| [Atlas du paysage politique et discursif corse — addendum septembre 2026](autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) | source | 2026-09-16 |
+| [Auditions — registre de travail](../memory/marie-louise/enquete-gendarmerie/auditions.md) | unknown | 2026-09-18 |
+| [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md) | source | 2026-09-16 |
+| [Backup](backup_blogpost.md) | derived | 2026-07-24 |
+| [Baron Mariani — fiche de vérification pour les médias](notice_baron_mariani_medias.md) | derived | 2026-09-18 |
+| [Baron Mariani — historical title, devolution and institutional identity](genealogy/title_baron_mariani_evidence_chain.md) | source | 2026-09-18 |
+| [Barons Mariani](../README.md) | source | 2026-08-11 |
+| [Beyond Prophecy: Philip K. Dick as a Theorist of Algorithmic Capture and Democratic Augmentation](pkd_after_ai.md) | source | 2026-08-02 |
+| [Bien Vivre](bien_vivre.md) | source | 2026-09-01 |
+| [Carnet de sérendipité](../projects/suicide-corse/manuscript/12-carnet-de-serendipite.md) | derived | 2026-09-17 |
+| [Carte Marie-Louise](../memory/marie-louise/carte.md) | unknown | 2026-09-08 |
+| [Catalogue raisonné de l’œuvre de Marie-Louise — campagne Gmail du 17 septembre 2026](../memory/marie-louise/works/catalogue/gmail_campaign_2026-09-17.md) | derived | 2026-09-17 |
+| [Catalogue raisonné de l’œuvre de Marie-Louise — périmètre canonique](../memory/marie-louise/works/catalogue_raisonne_scope.md) | source | 2026-09-17 |
+| [Catalogue raisonné de l’œuvre de Marie-Louise — registre](../memory/marie-louise/works/catalogue/README.md) | unknown | 2026-09-17 |
+| [Chronologie](../projects/suicide-corse/manuscript/chronologie.md) | derived | 2026-09-18 |
+| [Chronologie procédurale — état initial](../memory/marie-louise/enquete-gendarmerie/chronologie.md) | unknown | 2026-09-18 |
+| [Cognitive Sovereignty Probe](cognitive_sovereignty_probe.md) | source | 2026-08-18 |
+| [Collections — Musée Mariani](../musee-mariani/collections/README.md) | unknown | 2026-06-26 |
+| [Compute Abundance / Coordination Scarcity](compute_abundance_coordination_scarcity.md) | source | 2026-08-22 |
+| [Consolider Bien Vivre — Autonomie de Capacité, Potentique, temps humain et IA comme moyen](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00041.md) | source | unknown |
+| [Consolider la doctrine « Reactive Publication » comme application de la Seconde Méthode et de Potentics](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00051.md) | source | unknown |
+| [Consolider la Potentique territoriale autour d’Autonomia et du Corsica Cogentia Digital Twin](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00040.md) | source | unknown |
+| [Consolider les Handlers Mandatés et l'imputabilité actor-neutral](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00062.md) | source | unknown |
+| [Consultation, référendum et souveraineté effective](autonomia/consultation_referendum_souverainete_effective_corse.md) | source | 2026-09-06 |
+| [Continuation — Accompagnement capacitaire : Serenia, écrivain public moderne et autonomie progressive](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00026.md) | source | unknown |
+| [Continuation — Constitution minimale des communs : expérimentations et règlements dérivés](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00016.md) | source | unknown |
+| [Continuation — Énergie d’action : revue, opérationnalisation et démonstrateurs](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00025.md) | source | unknown |
+| [Continuations — chantiers ouverts de l'édition du 17 septembre 2026](../projects/suicide-corse/manuscript/16-continuations.md) | derived | 2026-09-17 |
+| [Continuité de protection — extraire une proposition législative opératoire et la relier à Autonomie de Capacité](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00052.md) | source | unknown |
+| [Corpus préparatoire autonomie Corse 2024–2026 — campagne de sondes](autonomia/campagne_sondes_corpus_preparatoire_2024_2026.md) | source | 2026-09-19 |
+| [Corse — trianguler statistiquement la capacité de continuité territoriale](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00061.md) | source | unknown |
+| [Corse : fatalisme, capacité dormante, seuil et réactivation](../projects/suicide-corse/manuscript/07-corse-capacite-dormante.md) | derived | 2026-09-17 |
+| [Corse Laboratoire](autonomia/corse_laboratoire.md) | source | 2026-09-09 |
+| [Corsica2038 — Capacité territoriale d'expérimentation gouvernée](autonomia/corsica2038_capacite_experimentation_gouvernee.md) | source | 2026-07-31 |
+| [Cross-link Invidia, justice divine and computer-assisted rule of law](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00029.md) | source | unknown |
+| [D’Ophéline à Ophélia — genèse d’une représentation civique artificielle](opheline_ophelia_pertitellu_genesis.md) | source | 2026-09-16 |
+| [De l’ordre juste à la Traçabilité des actes](genealogie_ordre_transparence_traceabilite.md) | derived | 2026-09-15 |
+| [Déclaration de continuité électorale — 17 septembre 2026](senatoriales-2026/declaration_continuite_electorale_2026-09-17.md) | source | 2026-09-17 |
+| [Décliner Corsica2038 en produits et pilotes d'expérimentation gouvernée](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00028.md) | source | unknown |
+| [Demandes d'accès et de communication](../memory/marie-louise/enquete-gendarmerie/demandes-acces.md) | unknown | 2026-09-18 |
+| [Digipees](../hosted/digipees/README.md) | source | 2026-08-15 |
+| [Digipees — asset and version inventory](../hosted/digipees/docs/inventory.md) | unknown | 2026-08-14 |
+| [Digipees — character set v1](../hosted/digipees/docs/character-set.md) | unknown | 2026-08-15 |
+| [Digipees — history and provenance](../hosted/digipees/HISTORY.md) | source | 2026-08-13 |
+| [Digipees — preserve source SVGs and formalize the visual grammar](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00033.md) | source | unknown |
+| [Digipees — provenance and rights](../hosted/digipees/docs/provenance-and-rights.md) | unknown | 2026-08-14 |
+| [Digipees — provenance des sources originales](../hosted/digipees/originals/PROVENANCE.md) | unknown | 2026-08-14 |
+| [Digipees — reconstruct provenance, licensing and naming rights](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00034.md) | source | unknown |
+| [Digipees — visual grammar](../hosted/digipees/docs/visual-grammar.md) | unknown | 2026-08-14 |
+| [Documenter A Rinascita, les OPAH et la limite des politiques d'amélioration de l'habitat à Corte](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00003.md) | source | unknown |
+| [Dossier Casabianca](../musee-mariani/casabianca/README.md) | unknown | 2026-09-18 |
+| [Dossier d’Angelis](../musee-mariani/dangelis/README.md) | unknown | 2026-09-18 |
+| [Dossier Mariani](../musee-mariani/mariani/README.md) | unknown | 2026-09-18 |
+| [Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026](senatoriales-2026/dossier-ta-bastia-2026-09-14.md) | derived | 2026-09-14 |
+| [Du spectacle à la régie](debord_stabilisateur_procedural.md) | source | 2026-07-25 |
+| [École Mariani de l’Autonomie — terminologie des parcours et des rôles](ecole_mariani_autonomie_terminologie.md) | source | 2026-07-13 |
+| [Économie morale de la dépense visible](economie_morale_depense_visible.md) | source | 2026-07-29 |
+| [Énergie d’action : proposition d’un cadre capacitaire pour analyser la conversion contrôlée des ressources en actes](energie_action.md) | source | 2026-07-25 |
+| [Enquête Corse — logement étudiant, loyers, spéculation et capture des aides publiques](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00060.md) | source | unknown |
+| [Enquête de gendarmerie — décès de Marie-Louise Robert](../memory/marie-louise/enquete-gendarmerie/README.md) | source | 2026-09-18 |
+| [Espérer sans promettre](transition_possibiliste_vers_une_democratie_augmentee.md) | source | 2026-08-15 |
+| [État de droit assisté par ordinateur](etat_de_droit_assiste_par_ordinateur.md) | source | 2026-08-09 |
+| [Exemplarity — Proof by Existence](exemplarity.md) | source | 2026-08-14 |
+| [Explorer les possibles pour ne pas les regretter](../musee-mariani/methodes/exploration_rationnelle_des_possibles.md) | source | 2026-08-11 |
+| [External Review — What is Potentics? (v1.0-rc1)](reviews/review_grok_potentics_v1.0-rc1_2026-07-24.md) | source | 2026-08-15 |
+| [feat(landing): replace legacy survey page on jhn.baronsmariani.org with dedicated personal twin landing page](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00031.md) | source | unknown |
+| [fix(web): prerender static OpenGraph metadata & title for /john route](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00030.md) | source | unknown |
+| [FixBugsFirst — corriger le README racine avant la phase 2 de #64](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00065.md) | source | unknown |
+| [Fluidification de research/pluralisation_cognitive_sous_mandat.md — revue adverse + réécriture (bloqué, à reprendre)](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00022.md) | source | unknown |
+| [Follow the Power — premier Reality Test](autonomia/follow_the_power_premier_test.md) | source | 2026-08-22 |
+| [FractaCarta](fractacarta.md) | source | 2026-09-19 |
+| [Généalogie — Marie-Louise dans une histoire familiale plus longue](../projects/suicide-corse/manuscript/17-genealogie.md) | derived | 2026-09-18 |
+| [Generative Graphic Design Lineage — YanUg, Jana, Digipees](generative_graphic_design_lineage.md) | source | 2026-08-13 |
+| [Graphe généalogique Casabianca](../musee-mariani/casabianca/graphe.md) | unknown | 2026-09-18 |
+| [Hosted repositories](../docs/hosted-repositories.md) | operational | 2026-08-13 |
+| [Hosted repositories — clarify Git autonomy vs institutional incubation](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00032.md) | source | unknown |
+| [Hyacinthe Joseph Louis Mariani (1827–?) — notice de recherche](../musee-mariani/personnes/mariani-hyacinthe-joseph-louis.md) | source | 2026-09-14 |
+| [Hypothèses non résolues — édition du 17 septembre 2026](../projects/suicide-corse/manuscript/08-hypotheses-non-resolues.md) | derived | 2026-09-17 |
+| [Identités Barons Mariani — projections juridiques](../identity/legal/README.md) | unknown | 2026-09-18 |
+| [Impunité par obscurité : un mécanisme sans auteur, à deux échelles](../projects/suicide-corse/manuscript/11-impunite-par-obscurite.md) | derived | 2026-09-17 |
+| [In deserto](in_deserto.md) | source | 2026-07-27 |
+| [Integrate RAIX capability-array addenda into Learning Computer and Potentics](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00036.md) | source | unknown |
+| [Intégrer CPL, DC-PLC et technologies issues du véhicule électrique dans l’École Mariani de l’Autonomie](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00014.md) | source | unknown |
+| [Intégrer le logement capacitaire dans le corpus politique/civique](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00002.md) | source | unknown |
+| [JHN Architecture](jhn_architecture.md) | source | 2026-09-04 |
+| [JHN Architecture — Packet Closure Addendum](jhn_architecture_packet_closure_addendum.md) | derived | 2026-08-25 |
+| [JHN Architecture Experiment — Portable Continuation Across Agents and Nodes](jhn_architecture_agent_substitution_experiment.md) | source | 2026-08-15 |
+| [Joie, jeu et accroissement de capacité](joie_jeu_capacite.md) | source | 2026-08-10 |
+| [Journal de campagne — numéro spécial du 17 septembre 2026](../projects/suicide-corse/journals/2026-09-17-numero-special-anniversaire.md) | source | 2026-09-17 |
+| [L’énergie d’action : ce qui nous manque quand nous avons pourtant les moyens](publications/energie_action_blog_audio.md) | derived | 2026-07-25 |
+| [La démocratie spectaculaire](la_democratie_spectaculaire.md) | source | 2026-08-07 |
+| [La fable expérimentale](fable_experimentale.md) | source | 2026-08-22 |
+| [La Machine à Empêcher](../projects/suicide-corse/manuscript/03-machine-a-empecher.md) | derived | 2026-09-09 |
+| [La parole de Marie-Louise](../projects/suicide-corse/manuscript/15-la-parole-de-marie-louise.md) | derived | 2026-09-17 |
+| [La personne numérique mandatée](personne_numerique_mandatee.md) | source | 2026-08-01 |
+| [Le dieu de l'eau (2008) — texte intégral et mail original](../projects/suicide-corse/manuscript/14-le-dieu-de-leau-texte-integral.md) | derived | 2026-09-17 |
+| [Le Père Noël revient — et cette fois, il aide les adultes](le-pere-noel-revient.md) | source | 2026-07-18 |
+| [Législatives 2024 — plaintes et suites institutionnelles](../memory/marie-louise/elections-2024-complaints.md) | source | 2026-09-06 |
+| [Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible](lettre_descartes_joie_explorer_possible.md) | source | 2026-08-30 |
+| [Link source essays through procedural stabilizers](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00006.md) | source | unknown |
+| [Louis Pouzin: The Datagram, the Shell, and the Unbroken Legacy of Connectionless Cognition](louis_pouzin_datagram_pioneer.md) | source | 2026-07-25 |
+| [Machine à Empêcher de Vivre, Machine à Rendre Capable de Vivre](../projects/suicide-corse/manuscript/05-machine-a-rendre-capable-de-vivre.md) | derived | 2026-09-17 |
+| [Mariani School of Autonomy — deux sites, un même projet patrimonial et expérimental](mariani_school_sites_minesteggio_la_gaude.md) | source | 2026-09-08 |
+| [Marie-Louise — approfondissement ZAD et résidence artistique 2021](../memory/marie-louise/works/catalogue/research_zad_residence_2026-09-17.md) | derived | 2026-09-17 |
+| [Marie-Louise — chronologie documentaire](../memory/marie-louise/chronology/README.md) | unknown | 2026-09-18 |
+| [Marie-Louise — créations, actions et traces de l’œuvre](../memory/marie-louise/works/README.md) | source | 2026-09-17 |
+| [Marie-Louise — formaliser le Twin documentaire posthume et son interface avec Suicide Corse](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00048.md) | source | unknown |
+| [Marie-Louise — Frontières, stop motion et parcours artistique (2016–2022)](../memory/marie-louise/works/frontieres_stop_motion_2016.md) | source | 2026-09-08 |
+| [Marie-Louise — histoire électorale documentée 2017–2024](../memory/marie-louise/elections/README.md) | source | 2026-09-08 |
+| [Marie-Louise — intervention dans une ZAD du sud de la France](../memory/marie-louise/works/zad_sud_intervention.md) | source | 2026-09-17 |
+| [Marie-Louise — intervention dans une ZAD proche de Nantes](../memory/marie-louise/works/zad_nantes_intervention.md) | source | 2026-09-17 |
+| [Marie-Louise — L'altérité en soi (2016)](../memory/marie-louise/works/l_alterite_en_soi_2016.md) | source | 2026-09-08 |
+| [Marie-Louise — Le dieu de l'eau (2008)](../memory/marie-louise/works/le_dieu_de_leau_2008.md) | source | 2026-09-08 |
+| [Marie-Louise — le révélateur](../projects/suicide-corse/manuscript/01-marie-louise.md) | derived | 2026-09-07 |
+| [Marie-Louise — législatives 2017, suppléante de Baron Mariani](../memory/marie-louise/elections/2017-legislatives.md) | source | 2026-09-08 |
+| [Marie-Louise — législatives 2022, première candidature titulaire documentée](../memory/marie-louise/elections/2022-legislatives.md) | source | 2026-09-08 |
+| [Marie-Louise — législatives 2024, seconde candidature titulaire documentée](../memory/marie-louise/elections/2024-legislatives.md) | source | 2026-09-08 |
+| [Marie-Louise — matrice longitudinale des possibles](../memory/marie-louise/possible_matrix.md) | derived | 2026-09-17 |
+| [Marie-Louise — méthode de collecte et de restitution des témoins potentiels](../memory/marie-louise/witnesses/METHOD.md) | source | 2026-09-18 |
+| [Marie-Louise — modèle conceptuel du registre des témoins potentiels](../memory/marie-louise/witnesses/MODEL.md) | source | 2026-09-17 |
+| [Marie-Louise — Oletta, premier chantier artistique professionnel connu](../memory/marie-louise/works/oletta_premier_chantier_artistique.md) | source | 2026-09-15 |
+| [Marie-Louise — parcours artistique et formation (2016–2022)](../memory/marie-louise/formation/parcours_artistique_2016_2022.md) | source | 2026-09-17 |
+| [Marie-Louise — photoromanJulie (2017)](../memory/marie-louise/works/photoroman_julie_2017.md) | source | 2026-09-08 |
+| [Marie-Louise — portes, réouvertures et contrôles épistémiques (2017–2024)](../memory/marie-louise/2024_portes_et_controles_epistemiques.md) | source | 2026-09-16 |
+| [Marie-Louise — première campagne de sollicitation de témoins](../memory/marie-louise/witnesses/campaign-01.md) | operational | 2026-09-17 |
+| [Marie-Louise — réception gouvernée des contributions](../memory/marie-louise/witnesses/CONTRIBUTION_INTAKE.md) | operational | 2026-09-18 |
+| [Marie-Louise — recherche témoins et chronologie 2009–2016](../memory/marie-louise/witnesses/research-2009-2016.md) | source | 2026-09-18 |
+| [Marie-Louise — registre distribué des témoins potentiels](../memory/marie-louise/witnesses/README.md) | unknown | 2026-09-17 |
+| [Marie-Louise — résidence artistique et tournage aux Falguières (2021)](../memory/marie-louise/works/residence_falguieres_2021.md) | source | 2026-09-17 |
+| [Marie-Louise — sénatoriales 2020, candidature refusée puis bifurcation vers Laurence Vernerey](../memory/marie-louise/elections/2020-senatoriales.md) | source | 2026-09-08 |
+| [Marie-Louise — témoins potentiels : Nantes, ZAD et tournage 2021](../memory/marie-louise/witnesses/nantes_zad_tournage.md) | derived | 2026-09-17 |
+| [Marie-Louise Robert — mémoire et sources](../memory/marie-louise/README.md) | source | 2026-09-16 |
+| [Measuring Cognitive Sovereignty: User-Controlled Probes for Conversational AI](measuring_cognitive_sovereignty.md) | source | 2026-08-18 |
+| [Mise à jour du processus de Beauvau — état au 5 septembre 2026](autonomia/mise_a_jour_processus_beauvau_2026-09.md) | source | 2026-09-06 |
+| [Mise à jour du processus de Beauvau — phase post-Assemblée nationale](autonomia/mise_a_jour_processus_beauvau_2026-07.md) | source | 2026-09-05 |
+| [Musée Mariani — préfiguration](../musee-mariani/README.md) | unknown | 2026-09-12 |
+| [Notices — famille étendue Mariani / de Casabianca / d’Angelis](../musee-mariani/methodes/notices_famille_etendue.md) | source | 2026-09-12 |
+| [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md) | source | 2026-09-15 |
+| [Organization as Capability](organization_as_capability.md) | source | 2026-08-22 |
+| [Ou comment réaliser l'impossible](../projects/suicide-corse/manuscript/04-realiser-impossible.md) | derived | 2026-09-09 |
+| [Ouverture](../projects/suicide-corse/manuscript/00-ouverture.md) | derived | 2026-09-17 |
+| [Paquet de reprise — Suicide Corse n°2 — Identités de Marie-Louise](../projects/suicide-corse/handoffs/numero-2-identites-reprise.md) | unknown | 2026-09-18 |
+| [Parked: External review of Potentics v1.0-rc1 received — human arbitration pending](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00024.md) | source | unknown |
+| [Parked: vertu, règle d’or corrigible, doubles numériques et mémoire physique annuelle](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00027.md) | source | unknown |
+| [Personnes — index généalogique du Musée Mariani](../musee-mariani/personnes/README.md) | unknown | 2026-09-18 |
+| [Phase 2A — notice pilote Hyacinthe Joseph Louis Mariani](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00066.md) | source | unknown |
+| [Piste photographique — Marie-Louise, Corte, avril 2016](../memory/marie-louise/sources/piste_photos_2016.md) | unknown | 2026-09-08 |
+| [Potentics — Capabilities, Interdependencies, and the Topology of Possibility](potentics_interdependencies.md) | source | 2026-08-22 |
+| [Potentics Exploration Ontology](potentics_exploration_ontology.md) | source | 2026-09-18 |
+| [Potentics of Compute — RAIX Collective-Capability Addendum](potentics_of_compute_raix_addendum.md) | source | 2026-09-04 |
+| [Potentique territoriale](autonomia/potentique_territoriale.md) | source | 2026-09-06 |
+| [Presence Ecology & Management v0.1 — Redactor/Reviewer cycle and stabilization](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00056.md) | source | unknown |
+| [Presence Ecology and Management — From Presence Maps to Agentic Presence Strategy](presence_ecology_and_management.md) | source | 2026-09-06 |
+| [Presencology Addendum — Digital, Social and Institutional Presence of Twins](presencology_digital_social_presence_twins.md) | source | 2026-09-06 |
+| [Principe anti-corruption — faire porter le coût sur le corrupteur](anti_corruption_cout_du_corrupteur.md) | source | 2026-08-13 |
+| [Principe de non-auto-élévation des privilèges](non_auto_elevation_privileges.md) | source | 2026-08-21 |
+| [Profession de foi — Sénatoriales 2026 — Baron Mariani — Le Petit Parti - A Voce](senatoriales-2026/profession_de_foi_2026.md) | derived | 2026-09-17 |
+| [Propagate niche construction and desire paths into Learning Computer and Fertile Grounds](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00035.md) | source | unknown |
+| [Propagate Organization as Capability and coordination-scarcity hypothesis](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00037.md) | source | unknown |
+| [Protéger les lanceurs d'alerte](protection_des_lanceurs_d_alerte.md) | source | 2026-08-15 |
+| [Proverbes corses — appareil de sourcing des épigraphes](../projects/suicide-corse/manuscript/13-proverbes-epigraphes.md) | derived | 2026-09-15 |
+| [Quand le Réel répond](quand_le_reel_repond_pkd.md) | source | 2026-09-04 |
+| [Quand les possibles se ferment](../projects/suicide-corse/manuscript/02-fermeture-des-possibles.md) | derived | 2026-09-09 |
+| [Questions ouvertes](../memory/marie-louise/enquete-gendarmerie/questions-ouvertes.md) | unknown | 2026-09-18 |
+| [Questions ouvertes — Casabianca](../musee-mariani/casabianca/questions-ouvertes.md) | unknown | 2026-09-18 |
+| [Qui tient la régie ?](qui_tient_la_regie_blogpost.md) | derived | 2026-07-25 |
+| [Rapport d'Intégration et Décisions de l'Auteur Humain 📜👑](reviews/integration_report_louis_pouzin_datagram_pioneer.md) | source | 2026-07-25 |
+| [Reactive Corpus semantic propagation: Learning Computer genesis, Trace primitive, and RAIX array cascades](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00055.md) | source | unknown |
+| [Réalité opérationnelle et réflexivité](realite_operationnelle_et_reflexivite.md) | source | 2026-09-06 |
+| [Reality Case — Renvoi documentaire non résolutif : TA Bastia / Sagace, septembre 2026](case_studies/renvoi_documentaire_non_resolutif_sagace_2026.md) | source | 2026-09-17 |
+| [Reality Case — situation de handicap, écart capacitaire et Machine à Empêcher](case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) | derived | 2026-09-14 |
+| [Recherche ciblée — réseau nantais, Anna, tournage 2021 et NDDL](../memory/marie-louise/works/catalogue/research_nantes_network_2026-09-17.md) | derived | 2026-09-17 |
+| [Référentiel d’identité — Barons Mariani](../identity/README.md) | unknown | 2026-09-18 |
+| [Registre de révocation — Agents JHN](../agents-jhn/revocations/README.md) | unknown | 2026-07-29 |
+| [Registre des identités publiques — Barons Mariani](../identity/public-identity-registry.md) | source | 2026-09-18 |
+| [Registre des instances — Agents JHN](../agents-jhn/instances/README.md) | unknown | 2026-07-29 |
+| [Registre des pièces](../memory/marie-louise/enquete-gendarmerie/pieces.md) | unknown | 2026-09-18 |
+| [Registre des représentations d’identité](../identity/representations/README.md) | unknown | 2026-09-18 |
+| [Registre du chantier de loi organique pour l’autonomie de la Corse](autonomia/registre_chantier_loi_organique_autonomie_corse.md) | source | 2026-09-05 |
+| [Relèvement du nom d’Angelis — dossier de recherche juridique et généalogique](relevement_nom_dangelis.md) | source | 2026-08-07 |
+| [Relier la transition possibiliste au noyau doctrinal du corpus](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00018.md) | source | unknown |
+| [Review — Corse Laboratoire v0.1 atelier](reviews/review-corse_laboratoire-v0.1-grok.md) | source | 2026-09-09 |
+| [Review — Corse Laboratoire v0.2 atelier](reviews/review-corse_laboratoire-v0.2-grok.md) | source | 2026-09-09 |
+| [Review of Quand le Réel répond (v0.4 / d814151)](reviews/review-quand_le_reel_repond_pkd-d814151.md) | source | 2026-09-04 |
+| [Reviewer — Trails, Shared Semantic Codec, and Proverb Regime](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00039.md) | source | unknown |
+| [Revue adversariale — DAO, imputabilité, legal wrappers et DHITL (v0.2)](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00005.md) | source | unknown |
+| [Revue Critique Adverse Decorrelée : ChatGPT](reviews/review_chatgpt_louis_pouzin_datagram_pioneer.md) | source | 2026-07-25 |
+| [Revue Critique Adverse Decorrelée : Claude](reviews/review_claude_louis_pouzin_datagram_pioneer.md) | source | 2026-07-25 |
+| [Revue Critique Adverse Decorrelée : Grok](reviews/review_grok_louis_pouzin_datagram_pioneer.md) | source | 2026-07-25 |
+| [Rossignol — collection vivante du Musée Mariani des Possibles](../musee-mariani/collections/rossignol.md) | source | 2026-08-22 |
+| [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md) | source | 2026-08-29 |
+| [Rossignol — the donkey who questions Reality](rossignol.md) | source | 2026-08-29 |
+| [Safely cross-link the two Descartes letters and consolidate their reading trail](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00038.md) | source | unknown |
+| [Sénatoriales 2026 — chronologie probatoire](senatoriales-2026/investigation/chronology.md) | source | 2026-09-18 |
+| [Sénatoriales 2026 — consolider le dossier bulletin, symbole du bonnet d’âne et précédents de candidature](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00053.md) | source | unknown |
+| [Sénatoriales 2026 — dossier canonique](senatoriales-2026/README.md) | source | 2026-09-18 |
+| [Sénatoriales 2026 — enquête documentaire](senatoriales-2026/investigation/README.md) | source | 2026-09-18 |
+| [Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani](notice_candidature_senatoriales_2026_medias.md) | derived | 2026-09-14 |
+| [Sénatoriales 2026 — index des sources de l'enquête](senatoriales-2026/investigation/sources.md) | source | 2026-09-18 |
+| [Sénatoriales 2026 — matrice des connaissances](senatoriales-2026/investigation/knowledge-matrix.md) | source | 2026-09-18 |
+| [Sept règles et leurs incidents](sept_regles_et_leurs_incidents.md) | source | 2026-07-23 |
+| [Sept règles et leurs incidents : mécanisables ou non ?](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00020.md) | source | unknown |
+| [Serendipity as a Formal Epistemic Force 🎯✨](serendipity_as_epistemic_force.md) | source | 2026-07-25 |
+| [Shared Semantic Codec and Proverb Regime](shared_semantic_codec_and_proverb_regime.md) | source | 2026-08-30 |
+| [Soliari — Corte Ski Station and Infrastructure-Light Mountain Access](soliari.md) | source | 2026-08-22 |
+| [Sources — Casabianca](../musee-mariani/casabianca/sources.md) | unknown | 2026-09-18 |
+| [Souveraineté, délégation et Agents Mandatés](souverainete_delegation_agents_mandates.md) | source | 2026-09-08 |
+| [Stabilisateur, capacité distribuée : deux invariants supplémentaires](../projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md) | derived | 2026-09-15 |
+| [Stabilize a speculative paper on Incremental Transmissible Corpus Models](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00007.md) | source | unknown |
+| [Suicide Corse — Architecture d'enquête v2](../projects/suicide-corse/architecture.md) | unknown | 2026-09-09 |
+| [Suicide Corse — bootstrap canonique et édition 0 courte](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00043.md) | source | unknown |
+| [Suicide Corse — chantier de Reactive Edition et corpus source](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00042.md) | source | unknown |
+| [Suicide Corse — consolider les traces Marie-Louise 2008/2016 et la piste photographique](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00045.md) | source | unknown |
+| [Suicide Corse — déclaration de gel de l'édition 2026-09-17](../projects/suicide-corse/editions/2026-09-17-freeze.md) | unknown | 2026-09-18 |
+| [Suicide Corse — définir la projection Scénario et sa grammaire de fidélité documentaire](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00049.md) | source | unknown |
+| [Suicide Corse — enquête et publication réactive](../projects/suicide-corse/README.md) | source | 2026-09-18 |
+| [Suicide Corse — enquêter sur la thèse « la Machine à Empêcher peut tuer »](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00047.md) | source | unknown |
+| [Suicide Corse — formaliser l’anatomie éditoriale hebdomadaire et les produits périodiques](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00063.md) | source | unknown |
+| [Suicide Corse — index des éditions](../projects/suicide-corse/editions/index.md) | source | 2026-09-18 |
+| [Suicide Corse — journaux de campagne](../projects/suicide-corse/journals/README.md) | source | 2026-09-18 |
+| [Suicide Corse — produire le premier snapshot hebdomadaire et son Journal de campagne](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00044.md) | source | unknown |
+| [Suicide Corse — protocole de snapshot candidat au gel](../projects/suicide-corse/editions/snapshot-candidate-protocol.md) | operational | 2026-09-18 |
+| [Suicide Corse — questions ouvertes de l'enquête](../projects/suicide-corse/manuscript/questions-ouvertes.md) | derived | 2026-09-17 |
+| [Suicide Corse — reçu de snapshot candidat au gel (édition 2026-09-17)](../projects/suicide-corse/editions/snapshot-candidate-receipt-2026-09-17.md) | operational | 2026-09-18 |
+| [Suicide Corse — spécifier l’agent conversationnel comme explorateur du corpus, distinct du Twin ML](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00050.md) | source | unknown |
+| [Suicide Corse — tester empiriquement l’hypothèse de protection sociale corse contre le suicide](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00046.md) | source | unknown |
+| [TA Bastia / Sagace — déplacement non résolutif de la réponse](case_studies/ta_bastia_sagace_response_displacement_2026-09.md) | source | 2026-09-17 |
+| [Test 001 — Appliquer les mandats Agents JHN à la logique capacitaire](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00012.md) | source | unknown |
+| [Test d'invariance : Marie-Louise et la Corse, une même grammaire ?](../projects/suicide-corse/manuscript/09-test-invariance-echelle.md) | derived | 2026-09-17 |
+| [The Booster Principle](booster_principle.md) | source | 2026-09-19 |
+| [The Network is the Learning Computer — RAIX Capability-Array Addendum](the_network_is_the_learning_computer_raix_addendum.md) | source | 2026-09-04 |
+| [The Network is the Learning Computer — v0.6 Addendum](the_network_is_the_learning_computer_v0.6_addendum.md) | derived | 2026-08-25 |
+| [The Network is the Learning Computer — v0.7 Packet Semantics Addendum](the_network_is_the_learning_computer_v0.7_packet_semantics_addendum.md) | derived | 2026-08-25 |
+| [The Network is the Learning Computer — v0.8 JHN Architecture Rationale Addendum](the_network_is_the_learning_computer_v0.8_jhn_architecture_rationale_addendum.md) | derived | 2026-08-25 |
+| [Traceability of Flows and Effects](traceability_of_flows_and_effects.md) | source | 2026-08-14 |
+| [Trail — Une Corse capable](trails/une_corse_capable.md) | trail | 2026-09-17 |
+| [Trails as Consolidated Orientation](trails_as_consolidated_orientation.md) | source | 2026-09-15 |
+| [Triage parked à l'échelle des dépôts de recherche](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00023.md) | source | unknown |
+| [Triangulation du Réel](triangulation_du_reel.md) | source | 2026-09-16 |
+| [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md) | derived | 2026-09-15 |
+| [Une nouvelle phase publique de l'enquête — appel à témoignages](../projects/suicide-corse/manuscript/17-appel-a-temoignages.md) | derived | 2026-09-18 |
+| [Une théorie de sécurité de la démocratie représentative](security_model_representative_democracy.md) | source | 2026-08-22 |
+| [Vérifier juridiquement la doctrine de protection des lanceurs d’alerte](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00019.md) | source | unknown |
+| [Vertu, altérité et mémoire du double numérique](vertu_alterite_memoire_double_numerique.md) | source | 2026-07-25 |
+| [Vivre, se projeter, transmettre](../projects/suicide-corse/manuscript/06-vivre-transmettre.md) | derived | 2026-09-15 |
+
+<!-- END_AUTO: index_catalog -->
