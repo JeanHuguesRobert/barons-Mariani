@@ -116,6 +116,18 @@ This layering is itself a Map. The knowledge substrate is **not** the Territory 
 
 A Trace, assertion, Map, projection recipe or other represented object can become Territory for a subsequent inquiry.
 
+A Map may also change its observer: an encounter with a representation can
+alter what the observer subsequently notices, interprets, or projects, even
+when the represented Territory has not changed.
+
+```text
+Map_n + Observer_n
+        ↓ encounter
+Observer_n+1
+        ↓
+new reading / projection
+```
+
 ---
 
 ## 4. Minimal model
