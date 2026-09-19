@@ -45,11 +45,11 @@ Aucun brouillon de courriel n'est une sonde émise. **drafted ≠ sent**.
 
 ### AUT-2026-P01 — Mission Josende / rapport non adopté
 
-**Prior.** La commission des lois du Sénat a examiné le 5 mars 2025 un rapport d'information de la mission conduite par le sénateur Paul-Joël Josende ; les recommandations et la publication du rapport n'ont pas été adoptées. Les éléments préparatoires indiquent plus de 90 personnes entendues et deux contributions de groupes destinées à être annexées.
+**Prior.** La commission des lois du Sénat a examiné le 5 mars 2025 le rapport d'information présenté par la sénatrice Lauriane Josende au nom de la mission ; les recommandations et la publication du rapport n'ont pas été adoptées. Les éléments préparatoires indiquent plus de 90 personnes entendues et deux contributions de groupes destinées à être annexées.
 
 **Inconnus.** Le texte du projet de rapport examiné est-il conservé et communicable ? Les deux contributions destinées aux annexes sont-elles conservées et communicables ? Existe-t-il une liste documentaire complète des auditions/contributions reçues ?
 
-**Cibles possibles.** Secrétariat de la commission des lois du Sénat ; archives/services documentaires du Sénat ; sénateur Paul-Joël Josende ou son équipe ; auteurs des deux contributions, une fois identifiés avec certitude.
+**Cibles possibles.** Secrétariat de la commission des lois du Sénat ; archives/services documentaires du Sénat ; sénatrice Lauriane Josende ou son équipe ; auteurs des deux contributions, une fois identifiés avec certitude.
 
 **Question minimale.** « Ces documents sont-ils encore conservés et, dans l'affirmative, sous quelle modalité peuvent-ils être consultés ou obtenus ? »
 
@@ -118,3 +118,12 @@ La création d'un draft Gmail est une préparation ; l'envoi constitue un acte e
 ## Prochaine passe
 
 Compléter chaque prior par ses références publiques exactes ; identifier les canaux officiels des détenteurs ; préparer les drafts les plus courts possibles ; privilégier les demandes pouvant produire une pièce directement ; après chaque réponse, créer les observations avant toute interprétation ; utiliser les divergences entre détenteurs comme nouvelles questions de triangulation.
+
+## Correction stigmergique
+
+- **Date :** 2026-09-19
+- **Forme erronée :** « Paul-Joël Josende ».
+- **Forme canonique :** **Lauriane Josende**, sénatrice et rapporteure de la mission d'information de la commission des lois du Sénat sur l'évolution institutionnelle de la Corse.
+- **Périmètre :** sonde AUT-2026-P01.
+- **Motif :** correction après vérification sur la page officielle du Sénat consacrée à la mission et sur le compte rendu de la commission du 5 mars 2025.
+- **Prévention :** pour les fonctions parlementaires nominatives, vérifier le nom et la fonction sur une source institutionnelle primaire avant stabilisation.
