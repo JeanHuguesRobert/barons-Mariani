@@ -143,6 +143,22 @@ Some possibilities have potentiality.
 Potentics evaluates, cultivates, tests, inhibits, or abandons potentialities.
 ```
 
+Actualization is not the same as effective accessibility. A possible may
+become technically, legally, or materially available without becoming an
+effective capability for a situated agent. Potentics therefore connects
+downstream with the Corpus doctrine of capability: exploration asks what
+could become actual; capability asks what an agent can effectively do with
+what has become accessible.
+
+```text
+The Possible
+→ represented possibility
+→ explored potentiality
+→ actualization / accessibility
+→ effective capability
+→ action
+```
+
 ### 1.3 Anchoring The Possible in reality
 
 **The Possible** is not fantasy, wish, preference, ideology, or narrative desire. It includes only what is not forbidden by the relevant constraints of reality, which may include:
