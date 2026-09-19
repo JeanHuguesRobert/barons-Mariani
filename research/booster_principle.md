@@ -155,6 +155,27 @@ The computational analogue may be equally modest: expose a previously hidden cap
 
 ---
 
+### 3.2. Epistemic and documentary Boosters
+
+A Booster may act on representation rather than directly on the represented
+system.
+
+When relevant knowledge already exists, a small change in relation, structure,
+navigation, framing, or salience may unlock more effective capability than
+adding further content.
+
+This is especially relevant to a growing corpus: accumulation can reduce
+effective accessibility even while total knowledge increases.
+
+Therefore:
+
+> **Before adding knowledge, test whether the knowledge is missing or merely
+> insufficiently salient.**
+
+A documentary Booster should increase intelligibility or navigability without
+silently suppressing provenance, objections, uncertainty, contradictions, or
+alternative paths.
+
 ## 4. Fertile Grounds as Booster-rich configurations
 
 The [Fertile Grounds Method](methode_terrains_feconds.md) reconfigures the terrain on which an opposition is posed before adding more argument inside the existing opposition.
