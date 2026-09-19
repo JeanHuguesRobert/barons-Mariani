@@ -180,6 +180,22 @@ Ce message est contemporain mais n'est pas la décision d'admission elle-même. 
 
 En revanche, les traces postérieures établissent sans ambiguïté que le parcours nantais s'est effectivement matérialisé.
 
+## 4 bis. Juin 2017 — transition vers Nantes et concours non résolus
+
+**Statut : TRACE de correspondance / THIRD-PARTY pour les récits / UNKNOWN pour les concours.**
+
+Le 21 juin 2017, Jean Hugues écrit que **Marie-Louise part pour Nantes** (Gmail:15cc8324592da705).
+
+Dans le même fil, Ferdinand Pancrazi rapporte un conflit familial en Bretagne, un hébergement à Nantes chez **le père de son compagnon**, et l'idée qu'elle n'aurait alors plus été en mesure de passer le concours des Beaux-Arts de Paris (Gmail:15cc97ca33457315).
+
+Jean Hugues répond que Marie-Louise l'aurait informé **le 17 avril** et écrit que **Paris n'était pas une option** (Gmail:15cc9ab526f4f0f8).
+
+Ces récits contemporains ne doivent pas être fusionnés en fait unique. Une recherche Gmail ciblée autour du 17 avril et sur d'éventuels déplacements Bretagne/Nantes n'a retrouvé ni message direct de Marie-Louise ni réservation correspondante : **BOUNDED-NEGATIVE**.
+
+Cette séquence doit être mise en regard du 12 mai 2017, où Paris et Cergy étaient encore présentés par Jean Hugues comme deux concours à venir. La présentation effective de Paris, la présentation de Cergy et leurs résultats restent `UNKNOWN`.
+
+KnowledgeGap : `gap:2017:transition-paris-nantes`.
+
 ## 5. 2017–2018 — École supérieure des beaux-arts de Nantes Métropole
 
 **Statut : TRACE institutionnelle forte.**
@@ -340,6 +356,11 @@ photoromanJulie
 mai 2017
 admission à Nantes rapportée contemporanément
 
+21 juin 2017
+→ départ pour Nantes annoncé par le père
+→ récits familiaux contemporains contradictoires/partiels
+→ Paris/Cergy : présentation et résultats UNKNOWN
+
 2017–2018
 Beaux-Arts de Nantes
 → trace institutionnelle directe
@@ -385,6 +406,9 @@ installation préparée à Nice
 - identité de la proviseure mentionnée en décembre 2016 ;
 - enseignants, camarades, internat, travaux et évaluations de la CPES 2016–2017 ;
 - décision institutionnelle d'admission initiale aux Beaux-Arts de Nantes en 2017 ;
+- présentation effective et résultats des concours Paris/Cergy en 2017 ;
+- trace directe du 17 avril 2017 et corroboration éventuelle du déplacement Bretagne/Nantes ;
+- identité du compagnon et de son père évoqués dans le fil de juin 2017 ;
 - résolution administrative exacte du dossier de frais de décembre 2017 ;
 - diplômes, ECTS et passages d'année à Nantes ;
 - identité complète d'Alice à recouper avec une source autre que Gmail ;
