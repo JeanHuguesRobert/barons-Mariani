@@ -415,6 +415,10 @@ Il demande :
 
 Rendre capable est l’opération pratique par laquelle le possibilisme devient architecture.
 
+La Potentique explore ce qui pourrait devenir actuel ; rendre capable demande
+lesquelles de ces ouvertures deviennent effectivement praticables par un agent
+situé.
+
 ---
 
 # 4. Rendre capable
