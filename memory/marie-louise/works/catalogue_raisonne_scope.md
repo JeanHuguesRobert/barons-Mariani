@@ -2,7 +2,7 @@
 title: Catalogue raisonné de l’œuvre de Marie-Louise — périmètre canonique
 author: Jean Hugues Noël Robert
 date: '2026-09-17'
-document_role: doctrine
+document_role: source
 document_kind: catalogue-scope
 visibility: public
 lifecycle_state: working

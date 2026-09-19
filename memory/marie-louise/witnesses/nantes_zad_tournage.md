@@ -1,14 +1,18 @@
 ---
 title: "Marie-Louise — témoins potentiels : Nantes, ZAD et tournage 2021"
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+language: fr
 status: working-paper
 date: 2026-09-17
-document_role: research
+document_role: derived
 document_kind: witness-directory
 visibility: public
 lifecycle_state: active
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: mixed
+  origin_type: unknown
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_ref: conversation + Gmail + Google Contacts + public sources
   origin_date: 2026-09-17

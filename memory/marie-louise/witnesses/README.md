@@ -1,10 +1,20 @@
 ---
 title: "Marie-Louise — registre distribué des témoins potentiels"
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+license: CC BY-SA 4.0
+language: fr
 status: working-paper
 date: 2026-09-18
-document_role: research
+document_role: index
 document_kind: witness-directory-index
 visibility: public
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
 lifecycle_state: active
 update_policy: UP-DEFAULT-REVIEWED
 review:

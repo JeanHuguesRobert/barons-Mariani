@@ -1,3 +1,27 @@
+---
+title: Catalogue raisonné de l’œuvre de Marie-Louise — registre
+author: Jean Hugues Noël Robert
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-09-18'
+license: CC BY-SA 4.0
+language: fr
+document_role: index
+document_kind: catalogue-index
+visibility: public
+lifecycle_state: active
+status: working-paper
+update_policy: UP-DEFAULT-REVIEWED
+review:
+  status: unreviewed
+  reviewed_by: []
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+---
+
 # Catalogue raisonné de l’œuvre de Marie-Louise — registre
 
 Ce dossier contient la représentation machine-readable et les journaux de recherche du catalogue raisonné défini par `../catalogue_raisonne_scope.md`.
