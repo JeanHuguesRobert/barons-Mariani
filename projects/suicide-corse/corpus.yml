@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-18"
+updated: "2026-09-20"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -60,6 +60,13 @@ sources:
     path: memory/marie-louise/elections/README.md
     role: source-index
     required: false
+
+  - id: marie-louise-identities
+    path: memory/marie-louise/identites.md
+    role: identity-record
+    required: true
+    note: "Canonical current consolidation for names/accounts/representations; preserve person/account/display-name/document distinctions."
+
 
   - id: elections-2024-complaints
     path: memory/marie-louise/elections-2024-complaints.md
@@ -122,6 +129,24 @@ sources:
     role: doctrinal-source
     required: true
 
+  - id: democratie-capable
+    path: research/democratie_capable.md
+    role: doctrinal-source
+    required: false
+
+  - id: une-corse-capable-trail
+    path: research/trails/une_corse_capable.md
+    role: trail
+    required: false
+    note: "Public navigation layer for the documented 'Une Corse capable' doctrine; not an independent source of truth."
+
+  - id: electoral-continuity-2026-09-17
+    path: research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md
+    role: dated-declaration
+    required: false
+    note: "Documents declared future electoral intentions and continuity; does not establish future legal candidacies."
+
+
   - id: possible
     path: research/rational_odysseys_the_possible.md
     role: conceptual-source
@@ -150,8 +175,10 @@ projections:
   numero_2:
     issue: 81
     state: working
-    target_date: "2026-09-21"
-    rule: "Reproject the current Corpus; do not inherit the previous edition plan by inertia."
+    editorial_date: "2026-09-20"
+    civil_publication_deadline: "before local sunrise in Corte on 2026-09-21"
+    contract: projects/suicide-corse/projections/book-2026-09-20-n2.yml
+    rule: "Reproject the current Corpus freely; the previous edition constrains provenance and coverage, not form."
   screenplay:
     path: projects/suicide-corse/projections/screenplay.yml
   conversational_agent:
@@ -184,23 +211,32 @@ editorial_rules:
   book_is_source_of_truth: false
   corpus_and_projection_are_distinct: true
   edition_plan_is_not_inherited: true
+  frozen_editions_are_immutable: true
+  future_projection_is_editorially_free: true
+  source_locked_is_not_editorial_locked: true
+  delta_constrains_attention_not_form: true
+  machine_triptych_is_structural_center: true
+  cross_scale_parallelism_requires_invariance_test: true
+  no_collective_psychology_transfer: true
   preserve_epistemic_status: true
   agency_before_outcome: true
   invent_marie_louise_voice: false
-  frozen_editions_are_immutable: true
   unknown_is_allowed: true
   private_testimony_stays_private_by_default: true
 
 open_gaps:
-  - "Consolidate the identity/name/account chronology from primary traces without psychological inference."
+  - "Complete first/last occurrences and direct explanations for Marie-Louise identity/display-name variants without psychological inference."
   - "Recover the original file for L altérité en soi and verify its relation to the April 2016 stop-motion exhibition."
   - "Recover the 2016 Beaux-Arts de Paris admission result."
   - "Recover the initial Nantes admission decision and exact resolution of the December 2017 administrative-fee issue."
   - "Recover primary Villa Arson admission/enrolment/attendance traces."
   - "Resolve the 2016 photo provenance/rights trail."
   - "Locate the exact final physical 2020 Senate ballot artifact and contemporary evidence around the name used."
-  - "Materially connect the 2022 electoral graphic object to its 2024 reuse."
+  - "Decide the minimal editorial projection of the now-documented 2022→2024 electoral graphic continuity."
   - "Reconstruct summer 2024 from primary traces without retrospective filling."
   - "Continue the witness directory and structured intake pipeline."
   - "Continue the catalogue raisonne and genealogy as independent source work before editorial projection."
   - "Add demographic and suicidology datasets after contradictory review."
+  - "Document the conceptual/electoral genealogy from SimpliWiki/Kudocracy through 2017 and 2026 without overstating continuity."
+  - "If retained for future public use, create a dedicated source for the candidate national label 'France Capable'; do not infer an existing party or registered candidacy."
+
