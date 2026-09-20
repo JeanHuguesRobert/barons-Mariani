@@ -4,8 +4,8 @@ subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publ
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-last_modified_at: "2026-09-18"
-version: "0.1"
+last_modified_at: "2026-09-20"
+version: "0.2"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -75,6 +75,46 @@ Le projet doit pouvoir :
 - continuer à évoluer sans devoir reconstruire toute sa structure à chaque découverte.
 
 La v2 est donc une **architecture d'enquête**, non un plan littéraire fermé.
+
+## 0.1. Centre structural : Empêcher → Explorer → Rendre Capable
+
+Le centre structural de *Suicide Corse* est désormais le triptyque :
+
+```text
+Machine à Empêcher
+→ Machine à Explorer
+→ Machine à Rendre Capable
+```
+
+Ce centre n'est pas une explication imposée aux traces. Chacune de ces Machines reste une **construction à éprouver par des Reality Cases**, capable d'être corrigée, bornée ou rejetée lorsque le Réel résiste.
+
+Le projet teste ce triptyque à plusieurs échelles sans confondre leurs substrats :
+
+```text
+échelle individuelle                    échelle collective
+Marie-Louise                            Corse / habitants
+      │                                       │
+      ▼                                       ▼
+Machine à Empêcher                      Machine à Empêcher
+      │                                       │
+frictions / fermetures                  dépendances / frictions
+      │                                       │
+      ▼                                       ▼
+Machine à Explorer                      Machine à Explorer
+      │                                       │
+routes / réouvertures                   alternatives territoriales
+      │                                       │
+facteurs de conversion                  facteurs de conversion
+      │                                       │
+      ▼                                       ▼
+Machine à Rendre Capable                Machine à Rendre Capable
+      │                                       │
+capacité effective d'agir               Une Corse capable
+```
+
+Le parallélisme porte sur les **relations capacitaires qui survivent au changement d'échelle**. Il ne transfère jamais une psychologie individuelle au territoire.
+
+À l'échelle politique et électorale, le Corpus documente une généalogie plus longue que le seul cycle 2026 : expériences de démocratie numérique et de corrigibilité (SimpliWiki / Kudocracy), passage au Reality Test électoral en 2017, continuités électorales ultérieures, puis formalisation de l'Autonomie de Capacité et de l'horizon **« Une Corse capable »**. Une éventuelle projection nationale sous le nom **« France Capable »** est, au 20 septembre 2026, un **nom candidat à documenter**, non une doctrine séparée ni une organisation juridiquement constituée.
 
 ---
 
@@ -680,15 +720,13 @@ Chaque flèche doit pouvoir échouer.
 
 ---
 
-# 18. Les Machines réordonnées
+# 18. Les Machines comme centre structural
 
-Les Machines ne constituent plus le point de départ de la théorie.
-
-Elles apparaissent après la grammaire.
+Les Machines constituent le **centre structural** de la projection éditoriale, mais non un axiome causal. La grammaire capacitaire et les Reality Cases servent précisément à tester ce centre et à empêcher qu'il ne se transforme en métaphore totalisante.
 
 ## 18.1. Machine à Empêcher
 
-Configuration qui dégrade :
+Configuration qui dégrade ou rend plus coûteux :
 
 - facteurs de conversion ;
 - routes ;
@@ -698,20 +736,48 @@ Configuration qui dégrade :
 - temps disponible ;
 - capacité de sortie.
 
+À l'échelle individuelle, elle doit être testée contre les traces de frictions, fermetures locales, charges et réouvertures.
+
+À l'échelle collective, elle doit être testée contre les dépendances, procédures, concentrations, délais, asymétries d'accès et pertes de capacité effectivement documentables.
+
 ## 18.2. Machine à Explorer
 
-Configuration qui rend visibles :
+Configuration qui rend visibles et testables :
 
 - branches ;
 - alternatives ;
 - contrefactuels ;
 - routes ;
 - objections ;
-- expériences bornées.
+- expériences bornées ;
+- conditions de révision.
+
+Elle combat simultanément :
+
+```text
+fermeture du Possible
++
+fermeture de la Carte
+```
 
 ## 18.3. Machine à Rendre Capable
 
-Configuration qui transforme certains possibles identifiés en capacités effectives.
+Configuration qui transforme certains possibles identifiés en capacités effectives par des facteurs de conversion adaptés.
+
+Chaîne générale :
+
+```text
+Machine à Explorer
+→ chemin identifié
+→ facteur de conversion
+→ Machine à Rendre Capable
+→ capacité effective
+→ action
+→ réponse du Réel
+→ mise à jour de la Carte
+```
+
+À l'échelle territoriale corse, **« Une Corse capable »** est la projection politique déjà documentée de ce principe : la question n'est pas seulement quels pouvoirs sont déclarés, mais ce que les habitants, communes, organisations et institutions deviennent effectivement capables de faire.
 
 ## 18.4. Fonction d'objection
 
@@ -725,95 +791,127 @@ Elle recherche :
 - absence de preuve ;
 - branche adverse.
 
----
 
-# 19. Architecture éditoriale v2 candidate
+# 19. Architecture éditoriale v2 candidate — parallélisme des échelles
 
-Cette structure est volontairement modulaire.
+Cette structure reste volontairement modulaire et entièrement recomposable à chaque numéro.
 
-## Mouvement A — Avant de connaître la fin
+## Mouvement A — La Machine à Empêcher
 
-Marie-Louise comme sujet agissant.
+Présenter le mécanisme candidat sans le tenir pour acquis.
 
-- œuvres ;
-- apprentissages ;
-- parcours ;
-- bifurcations ;
-- engagements ;
-- capacités ;
-- frictions ;
-- réouvertures.
+- à l'échelle de Marie-Louise : frictions, charges, fermetures locales, routes fragiles ;
+- à l'échelle de la Corse et de ses habitants : capacités nominales, dépendances, procédures, centralisations et points de capture ;
+- conserver les contre-exemples : `FRICTION ≠ CLOSE`, `LOAD ≠ CLOSE`, `UNKNOWN ≠ CLOSE`.
 
-Terminaison : le blanc de l'été 2024.
+## Mouvement B — Ne pas fermer la Carte
 
-## Mouvement B — Ce que la fin fait à la carte
+La première réponse à l'empêchement n'est pas encore une solution : c'est une meilleure carte.
 
-- biais rétrospectif ;
-- trace / fait / inférence / inconnu ;
-- `A_eff`, `A_perçu`, `A_désirable` ;
-- causalité partielle ;
-- test aveugle contre le hindsight bias.
+- identités, comptes et noms de Marie-Louise comme Reality Case documentaire ;
+- contradictions contemporaines autour de Nantes ;
+- été 2024 explicitement `UNKNOWN` ;
+- pluralité des représentations de la Corse ;
+- discipline de contradiction et conditions de révision.
 
-## Mouvement C — Grammaire des possibles
+## Mouvement C — La Machine à Explorer
+
+À deux échelles :
+
+```text
+personne
+→ autre voie ? autre interlocuteur ? autre route ? réouverture ?
+
+territoire
+→ autre institution ? autre infrastructure ? autre règle ? autre scénario ?
+```
+
+L'exploration doit produire des expériences bornées et des traces, pas seulement des idées.
+
+## Mouvement D — Du possible à la capacité effective
 
 - ressources ;
 - facteurs de conversion ;
 - capacités ;
 - actions ;
-- transitions ;
 - routes ;
-- bifurcations ;
-- charges ;
 - buffers ;
-- capture ;
-- sortie.
+- sortie ;
+- robustesse ;
+- temporalité.
 
-## Mouvement D — Changer d'échelle
+Le même vocabulaire peut être testé à plusieurs échelles seulement lorsque la relation abstraite reste la même.
+
+## Mouvement E — Machine à Rendre Capable
+
+À l'échelle individuelle : transformer un possible pertinent en action effectivement praticable.
+
+À l'échelle collective : transformer ressources, droits et compétences en capacités distribuées entre habitants, communes, associations, entreprises et institutions.
+
+L'horizon territorial documenté est :
+
+> **Une Corse capable.**
+
+## Mouvement F — Reality Tests et continuité électorale
+
+Les élections et procédures publiques sont traitées comme Reality Tests, non comme preuves automatiques de la doctrine.
+
+Généalogie documentaire candidate :
+
+```text
+2010–2011 : transparence / corrigibilité / SimpliWiki
+2014–2016 : Kudocracy / démocratie liquide / votes publics et réversibles
+2017      : passage explicite au Reality Test électoral
+2020–2026 : continuités électorales documentées
+2026      : Autonomie de Capacité / Une Corse capable
+2027      : participation présidentielle envisagée dans une déclaration datée
+```
+
+Cette généalogie doit distinguer traces, continuités documentées et reconstructions rétrospectives.
+
+## Mouvement G — Changer d'échelle sans tricher
 
 - invariance structurale ;
 - composition ascendante ;
 - conversion descendante ;
-- émergence ;
 - changement de rôle selon la résolution ;
 - borne anti-anthropomorphisme ;
-- test d'invariance.
+- test obligatoire de ce qui **ne** se transpose pas.
 
-## Mouvement E — Machines
+Marie-Louise et la Corse sont deux Reality Cases à des échelles différentes ; elles ne sont jamais assimilées ontologiquement ou psychologiquement.
 
-- Empêcher ;
-- Explorer ;
-- Rendre Capable ;
-- Objecter ;
-- anti-capture.
+## Mouvement H — Du laboratoire corse à une projection nationale
 
-## Mouvement F — Suicide Corse
+Le Corpus documente déjà **« Une Corse capable »**.
 
-- phénomènes suicidaires humains ;
-- matière territoriale progressive ;
-- sas de généralisation ;
-- comparateurs ;
-- invariants et non-invariants.
+Le nom **« France Capable »** est, au 20 septembre 2026, une **projection nominale candidate** pour tester à l'échelle nationale la même question capacitaire. Son emploi futur exige une source dédiée et ne doit pas être présenté comme parti constitué, candidature enregistrée ou doctrine nouvelle déjà stabilisée.
 
-## Mouvement G — Réaliser l'impossible
+## Mouvement I — Le Réel répond
 
-- impossibilité réelle / contingente ;
-- facteurs de conversion ;
-- Acts ;
-- Réponse du Réel ;
-- correction ;
-- réversibilité ;
-- rendre capable de rendre capable.
+- œuvres et traces ;
+- témoins ;
+- décisions administratives ;
+- scrutins ;
+- recours ;
+- expériences ;
+- succès ;
+- échecs ;
+- non-réponses ;
+- hypothèses abandonnées.
 
-## Mouvement H — Ce qui reste
+## Mouvement J — Journal de campagne et Continuations
 
-- non-oblitération ;
-- œuvres ;
-- traces ;
-- Twin documentaire ;
-- transmission ;
-- Reactive Publication.
+Le numéro hebdomadaire rend visible :
 
----
+- ce qui est entré dans le Corpus ;
+- ce qui a été appris ;
+- ce qui a été corrigé ou abandonné ;
+- ce qui reste `UNKNOWN` ;
+- ce qui devient possible ;
+- ce qui est volontairement différé.
+
+Le Journal documente le mouvement du Corpus ; il ne commande pas le plan du numéro suivant.
+
 
 # 20. Les cinq chapitres actuels changent de statut
 
@@ -934,6 +1032,31 @@ En particulier :
 - le contrat de projection détermine le contenu d'une édition ;
 - une édition gelée reste immuable tandis que le Corpus et les projections futures continuent ;
 - le n°2 peut donc être entièrement recomposé à partir du Corpus courant sans reproduire le plan du numéro anniversaire.
+
+Règle de gel :
+
+> **Freeze the edition, never the next projection.**
+
+Une édition gelée est un objet historique immuable. Ses fichiers source peuvent rester disponibles comme matériaux ; leur présence dans une édition antérieure n'accorde aucun droit de priorité dans la suivante. Une nouvelle projection peut les reprendre, les réécrire, les découper, les fusionner, les déplacer, changer leur fonction ou ne pas les utiliser.
+
+De même :
+
+```text
+source-locked ≠ editorial-locked
+```
+
+Une politique de dérivation peut protéger les assertions et la provenance sans interdire la réécriture éditoriale du dérivé.
+
+Enfin, le Delta Review contraint **l'attention et la traçabilité**, jamais la forme :
+
+```text
+Corpus courant
+→ intention éditoriale libre
+→ projection candidate
+→ Delta Review / Coverage
+→ révision éventuelle
+→ freeze
+```
 
 Le mouvement complet devient :
 
