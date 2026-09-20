@@ -10,6 +10,8 @@ document_kind: "writing-handoff"
 visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
+editorial_decisions: "book-2026-09-20-n2-editorial-decisions.md"
+current_collective_update: "../../../research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md"
 license: "CC BY-SA 4.0"
 ai_assisted_by:
   - "ChatGPT"
@@ -53,6 +55,12 @@ Règle d'édition :
 Le numéro 2 peut donc avoir un plan, un ordre, des transitions et une prose entièrement différents du numéro 1.
 
 Le Delta Review contrôle la **couverture et l'attention**, jamais la forme.
+
+Décisions éditoriales humaines obligatoires :
+
+`projects/suicide-corse/projections/book-2026-09-20-n2-editorial-decisions.md`
+
+Ces décisions D1–D8 prévalent sur les choix par défaut d'un agent. Un agent peut proposer une divergence, jamais la substituer silencieusement.
 
 ---
 
@@ -118,6 +126,8 @@ Exemples :
 - `memory/marie-louise/witnesses/METHOD.md`
 - `research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md`
 - `research/autonomia/1755.md`
+- `research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md`
+- `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`
 
 Une source-note peut elle-même référencer une pièce privée ou une trace technique. Le texte public doit conserver la qualification factuelle sans recopier automatiquement la donnée privée.
 
@@ -255,51 +265,156 @@ Pour le Reality Case des identités, les libellés conceptuels `compte A / compt
 
 ---
 
-# 6. Architecture narrative recommandée
+# 6. Architecture narrative recommandée — double hélice
 
-Le plan reste révisable pendant la rédaction.
+Le plan reste révisable pendant la rédaction, mais la décision humaine D8 fixe désormais une préférence forte : **deux Reality Cases autonomes de poids comparable, composés en double hélice**.
 
-La chaîne narrative candidate est :
+Le n°2 ne doit donc plus suivre une simple progression :
 
 ```text
-Pourquoi certaines choses qui semblent possibles
-deviennent-elles pratiquement impossibles ?
-                         │
-                         ▼
-                 Machine à Empêcher
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        Marie-Louise               Corse
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-               la Carte peut se fermer
-                         │
-                         ▼
-                 Machine à Explorer
-                         │
-                         ▼
-             découvrir un chemin
-                    ne suffit pas
-                         │
-                         ▼
-                facteur de conversion
-                         │
-                         ▼
-              Machine à Rendre Capable
-                  │                │
-                  ▼                ▼
-           capacité d'agir   Une Corse capable
-                                   │
-                                   ▼
-                        autre changement d'échelle ?
-                                   │
-                                   ▼
-                           France Capable ?
+Marie-Louise
+→ théorie
+→ Corse
 ```
 
+La composition recherchée est plutôt :
+
+```text
+Marie-Louise ───────╲       ╱────── Corse
+                     ╲     ╱
+                 EMPÊCHER
+                     ╱     ╲
+Marie-Louise ───────╱       ╲────── Corse
+                     ╲     ╱
+                  EXPLORER
+                     ╱     ╲
+Marie-Louise ───────╱       ╲────── Corse
+                     ╲     ╱
+              RENDRE CAPABLE
+                     ╱     ╲
+                Reality Tests
+```
+
+Chaque fil doit pouvoir être lu pour lui-même. Les croisements servent à tester des relations capacitaires, jamais à fabriquer une identité entre une personne et un territoire.
+
+## 6.1. Fil collectif renforcé
+
+Le fil Corse dispose désormais d'une matière historique et contemporaine substantielle :
+
+- `research/autonomia.md` — généalogie de l'autonomie et du nationalisme corse contemporain ;
+- `research/autonomia/atlas_paysage_politique_corse.md` ;
+- `research/autonomia/atlas_paysage_politique_corse_addendum_2026-09.md` ;
+- `research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md` ;
+- `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`.
+
+L'arc humainement décidé est :
+
+> **Communauté de destin → communauté de transmission → communauté en déclin ?**
+
+Le troisième terme reste interrogatif.
+
+Le rédacteur doit distinguer population, renouvellement naturel, langue, logement, foncier, reproduction sociale, intégration et capacité politique de transmission.
+
+## 6.2. « Colonisation de peuplement ? » comme question de recherche
+
+La décision D3 autorise et demande l'examen de cette notion, mais interdit de l'utiliser comme conclusion préalable.
+
+Le texte doit demander :
+
+> Les phénomènes contemporains observés en Corse relèvent-ils d'une colonisation de peuplement au sens historique ou théorique, de mécanismes différents produisant certains effets comparables, ou d'une catégorie inadéquate ?
+
+À décomposer :
+
+```text
+politique étatique explicite ?
+migration ordinaire ?
+attractivité / marché ?
+foncier / logement ?
+asymétries de pouvoir ?
+transmission ?
+intégration ?
+substitution ?
+assimilation ?
+intention ?
+effet ?
+```
+
+Aucune équivalence avec des cas coloniaux classiques ne doit être tirée de la seule métaphore.
+
+## 6.3. Deux couches : livre et magazine
+
+### Couche livre
+
+- Machines ;
+- méthodes ;
+- Reality Cases longs ;
+- invariants ;
+- Marie-Louise ;
+- histoire et capacités de la Corse ;
+- communauté de destin / transmission ;
+- Autonomie de Capacité.
+
+### Couche magazine
+
+- état de la semaine ;
+- note de continuité Assemblée nationale → Sénat ;
+- contentieux sénatorial comme Act en cours ;
+- réponses institutionnelles ;
+- recomposition RN / Mossa Palatina / Filoni ;
+- nouvelles traces et changements de statut.
+
+Le magazine assume le **suspense du présent** sans transformer l'incertain en prédiction.
+
+## 6.4. Ours, responsabilité et travail humain / IA
+
+Le numéro 2 doit comporter un ours.
+
+Minimum éditorial :
+
+```text
+titre / numéro / date
+responsabilité éditoriale finale humaine
+organisation / éditeur : à qualifier juridiquement avant rendu définitif
+direction de publication : à vérifier selon le support et l'entité
+snapshot du Corpus
+agents IA effectivement mobilisés et rôle de chacun
+méthode / charte
+canal de correction
+licence
+statut de l'édition
+```
+
+Principe :
+
+> Les agents IA peuvent rechercher, structurer, comparer, proposer et rédiger ; la sélection, la validation, la publication et la responsabilité éditoriale finale restent humaines.
+
+Ne jamais présenter un agent IA comme porteur d'une responsabilité juridique.
+
+## 6.5. Socle déontologique
+
+Le n°2 prend comme références minimales :
+
+- Charte d'éthique professionnelle des journalistes — SNJ, 1918/1938/2011 ;
+- Déclaration des devoirs et des droits des journalistes — Munich, 1971.
+
+Le Corpus cherche à rendre certaines obligations plus auditables :
+
+```text
+vérification
++ contextualisation
++ provenance
++ statuts épistémiques
++ UNKNOWN visible
++ droit de suite
++ rectification versionnée
++ Disclosure Gate
++ traçabilité du travail IA
+```
+
+La dramatisation du titre n'autorise aucune dramatisation factuelle du corps.
+
 ---
+
 
 # 7. Mouvement A — La Machine à Empêcher
 
@@ -329,11 +444,14 @@ Matière candidate :
 
 Matière candidate :
 
+- généalogie contemporaine du nationalisme et de l'autonomie dans `research/autonomia.md` ;
 - capacités juridiquement ouvertes mais difficilement exerçables ;
 - dépendances techniques, institutionnelles ou économiques ;
 - concentration / capture ;
 - délai comme perte de capacité ;
-- autonomie nominale vs autonomie praticable.
+- autonomie nominale vs autonomie praticable ;
+- communauté de destin, transmission et capacités de renouvellement ;
+- question de la « colonisation de peuplement » maintenue au statut d'hypothèse à tester.
 
 ## Canonical / documentary material
 
@@ -652,6 +770,8 @@ Ne pas affirmer qu'un de ces facteurs aurait empêché le suicide de Marie-Louis
 ## Navigation layer
 
 - `research/trails/une_corse_capable.md`
+- `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`
+- `research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md`
 
 ## Collective horizon
 
@@ -737,6 +857,28 @@ Intérêt : capacité juridique nominale vs accessibilité procédurale effectiv
 - `research/autonomia.md` et documents référencés.
 
 Intérêt : distinguer transfert de compétence et capacité réelle des habitants / institutions à agir.
+
+### Continuité parlementaire septembre 2026
+
+- `research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md`
+
+Intérêt : transformer la contribution de mai en Reality Test longitudinal — préparé, transmis, recensé, actualisé — sans inventer d'influence causale.
+
+Avant le freeze, vérifier si la nouvelle transmission annoncée pour le 21 septembre a effectivement été exécutée.
+
+### Recomposition RN / Mossa Palatina / Filoni
+
+- `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`
+
+Intérêt : tester des réponses politiques concurrentes aux questions d'identité, transmission, logement, foncier, immigration et autonomie, sans classement ni prédiction électorale.
+
+### Contentieux sénatorial 2026 — Act en cours
+
+- dossiers sénatoriaux 2026 du Corpus.
+
+Intérêt : couche magazine, fenêtre d'effectivité, recours et réponse du Réel.
+
+La position de l'auteur sur les conséquences juridiques attendues doit rester attribuée ; l'issue demeure `UNKNOWN`.
 
 ## Possible form
 
@@ -1106,10 +1248,10 @@ draft
 
 # 21. Prompt minimal suggéré pour un autre agent
 
-Le présent fichier et le contrat YAML doivent être fournis comme références de départ.
+Le contrat YAML, le présent brief, le registre de décisions éditoriales humaines et la note D4 du 20 septembre doivent être fournis comme références de départ.
 
 Instruction minimale :
 
-> **Rédige et développe une proposition complète de Suicide Corse n°2 à partir du contrat `book-2026-09-20-n2.yml` et du writing brief associé. Utilise le Corpus selon la hiérarchie documentaire du brief. Ne traite jamais une ancienne projection comme preuve indépendante. Préserve les statuts épistémiques, contradictions et UNKNOWN. Tu es libre de recomposer entièrement le plan si la matière le justifie, mais documente les écarts au brief et conserve le centre structural Machine à Empêcher → Machine à Explorer → Machine à Rendre Capable, ainsi que le parallélisme non psychologique Marie-Louise / Corse. Ne publie ni identifiants techniques ni contenu privé non autorisé. Termine par les sources effectivement utilisées, les inférences importantes et les Continuations.**
+> **Produis une seconde passe de Suicide Corse n°2 à partir du contrat `book-2026-09-20-n2.yml`, du writing brief, de `book-2026-09-20-n2-editorial-decisions.md` et de la note `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`. Recompose le draft précédent en double hélice : deux Reality Cases autonomes, Marie-Louise et la Corse, croisés par Machine à Empêcher → Machine à Explorer → Machine à Rendre Capable. Renforce le fil collectif avec `research/autonomia.md`, la continuité parlementaire et l'actualité politique datée. Traite « Communauté de destin → communauté de transmission → communauté en déclin ? » et « colonisation de peuplement ? » comme questions à tester, non conclusions acquises. Distingue la couche livre de la couche magazine. Utilise le Corpus selon sa hiérarchie documentaire, ne traite jamais une ancienne projection comme preuve indépendante, préserve statuts épistémiques, contradictions et UNKNOWN, et respecte le Disclosure Gate. Termine par les sources utilisées, les divergences par rapport à la première passe, les inférences importantes et les Continuations.**
 
 Ce prompt autorise la liberté de rédaction tout en conservant les invariants documentaires nécessaires au test inter-agents.
