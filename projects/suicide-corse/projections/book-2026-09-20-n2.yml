@@ -1,0 +1,226 @@
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-edition-2026-09-20-n2
+status: plan-open
+render_ready: false
+language: fr
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+author: "Jean Hugues Noël Robert"
+
+source_manifest: ../corpus.yml
+related_issue: 81
+
+edition:
+  number: 2
+  editorial_date: "2026-09-20"
+  civil_publication_deadline: "before local sunrise in Corte on 2026-09-21"
+  dating_rule: >
+    The editorial day runs until local sunrise in Corte. Civil ISO timestamps
+    remain unchanged and are recorded separately from the editorial date.
+
+editorial_freedom:
+  inherit_previous_plan: false
+  previous_frozen_edition_is_template: false
+  rule: "Freeze the edition, never the next projection."
+  source_locked_is_editorial_locked: false
+  delta_role: "Coverage and attention control only; Delta Review does not prescribe composition."
+
+structural_center:
+  sequence:
+    - "Machine à Empêcher"
+    - "Machine à Explorer"
+    - "Machine à Rendre Capable"
+  status: "structural hypothesis tested by Reality Cases, not imposed causal explanation"
+  formula: >
+    Detect configurations that reduce effective capacity; keep the Map open
+    by exploring alternatives and objections; identify factors of conversion;
+    then test whether effective capacity is actually restored or created.
+
+scale_parallelism:
+  required: true
+  individual:
+    reality_case: "Marie-Louise"
+    allowed_objects:
+      - capacities
+      - openings
+      - frictions
+      - loads
+      - local closures
+      - reopenings
+      - routes
+      - perceived possibilities when directly sourced
+  collective:
+    reality_case: "Corsica and its inhabitants"
+    allowed_objects:
+      - distributed capacities
+      - institutional and infrastructural conversion factors
+      - routes and alternatives
+      - dependencies
+      - delays
+      - access
+      - concentration
+      - capture
+      - resilience
+  invariance_rule: >
+    Transfer only relations that survive the change of scale without changing
+    meaning; always record what does not transpose.
+  forbidden_transfer:
+    - despair
+    - entrapment as collective psychology
+    - desire to live or die
+    - cognitive constriction as a territorial mental state
+
+political_documentation:
+  status: "documentary context, not electoral recommendation"
+  documented_horizon:
+    label: "Une Corse capable"
+    sources:
+      - ../../research/autonomia.md
+      - ../../research/democratie_capable.md
+      - ../../research/trails/une_corse_capable.md
+      - ../../research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md
+  electoral_genealogy_candidate:
+    rule: "Separate documented traces, dated declarations and retrospective interpretation."
+    milestones:
+      - period: "2010–2011"
+        object: "transparency, corrigibility and SimpliWiki"
+        status: "documentary genealogy candidate"
+      - period: "2014–2016"
+        object: "Kudocracy, liquid democracy, public/reversible voting and decision traces"
+        status: "documented technical-democratic lineage"
+      - period: "2017"
+        object: "explicit electoral Reality Test"
+        status: "documented election participation"
+      - period: "2020–2026"
+        object: "subsequent electoral continuities and A Voce / Le Petit Parti relationships"
+        status: "documented with varying source strength"
+      - period: "2026"
+        object: "Autonomie de Capacité / Une Corse capable"
+        status: "documented doctrine and dated electoral presentation"
+      - period: "2027"
+        object: "presidential participation"
+        status: "declared intention only"
+  national_projection_candidate:
+    name: "France Capable"
+    status: "candidate label introduced for future exploration"
+    not_yet:
+      - "canonical doctrine"
+      - "registered political party"
+      - "registered presidential candidacy"
+    requirement: "Create a dedicated dated source before treating the label as stabilized Corpus state."
+
+editorial_plan:
+  - id: A
+    title: "La Machine à Empêcher"
+    function: >
+      Introduce the candidate mechanism at individual and collective scales,
+      while preserving counterexamples and non-closures.
+    individual_material:
+      - "Marie-Louise: frictions, loads, local closures, reopenings"
+    collective_material:
+      - "Corsica: nominal capacities, dependencies, procedures, capture points"
+
+  - id: B
+    title: "Ne pas fermer la Carte"
+    function: >
+      Show that the first response to blockage is epistemic: preserve
+      contradictions, alternatives and UNKNOWN instead of manufacturing closure.
+    candidate_material:
+      - "Marie-Louise identities/accounts/names"
+      - "Nantes 2017 contradictory contemporary accounts"
+      - "summer 2024 UNKNOWN"
+      - "competing maps of Corsican futures"
+
+  - id: C
+    title: "La Machine à Explorer"
+    function: >
+      Search alternative routes, interlocutors, rules, infrastructures and
+      bounded experiments at both scales.
+    source_candidates:
+      - ../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
+      - ../../research/second_method.md
+      - ../../research/rational_odysseys_the_possible.md
+
+  - id: D
+    title: "Du possible à la capacité effective"
+    function: >
+      Distinguish resources, conversion factors, effective capabilities,
+      accessible actions, buffers, routes, time and exit.
+    source_candidates:
+      - ../../research/potentics.md
+      - ../../research/noyau_doctrinal_rendre_capable.md
+
+  - id: E
+    title: "Machine à Rendre Capable"
+    function: >
+      Test whether identified possibilities can be converted into effective
+      action without merely transferring dependency elsewhere.
+    collective_horizon: "Une Corse capable"
+
+  - id: F
+    title: "Reality Tests"
+    function: >
+      Use works, studies, elections, procedures and public Acts as tests that
+      may confirm, bound or falsify parts of the model.
+    candidate_cases:
+      - "Marie-Louise artistic and educational trajectory"
+      - "elections 2017–2024"
+      - "2022→2024 ballot material continuity"
+      - "Corsican autonomy process"
+      - "senatorial procedure 2026"
+      - "Project #1755 and other bounded Acts"
+
+  - id: G
+    title: "Changer d'échelle sans tricher"
+    function: >
+      Compare relations across individual and collective scales, with an
+      explicit row for non-invariants and a prohibition on collective psychology.
+
+  - id: H
+    title: "Du laboratoire corse à l'échelle nationale"
+    function: >
+      Document the already-established 'Une Corse capable' horizon and expose
+      'France Capable' only as a candidate national projection requiring its
+      own future source and Reality Tests.
+
+  - id: I
+    title: "Le Réel répond"
+    function: >
+      Record successes, failures, refusals, silences, contradictions, witness
+      input, abandoned hypotheses and other Reality responses.
+
+  - id: J
+    title: "Journal de campagne contre l'impossible"
+    function: >
+      Human-readable delta of what the Corpus learned, corrected, opened,
+      abandoned and deferred since the frozen anniversary edition.
+    contract: journal-weekly.yml
+
+identity_case:
+  question_candidate: "Comment s'appelait Marie-Louise ?"
+  role: "bounded documentary Reality Case inside Movement B; not the structural center of the edition"
+  canonical_source: ../../memory/marie-louise/identites.md
+  projection_rule: >
+    Preserve person/account/address/display-name/document-name/context/source
+    distinctions; do not infer psychology from multiplicity of names.
+
+continuations:
+  policy: "Open work remains owned by its smallest sufficient locality."
+  do_not_inherit_automatically: true
+
+chapters: []
+chapters_note: >
+  This plan intentionally does not inherit the anniversary chapter list.
+  Renderable chapter units will be selected, rewritten, split, merged or newly
+  created from current Corpus material after composition review.
+
+outputs:
+  required_when_render_ready: [html, pdf, epub]
+  technical_manifest: required
+  campaign_journal: required
+  coverage_report: required
+
+freeze_condition: >
+  Explicit editorial decision after provenance review, Delta Coverage review,
+  and render verification. Freeze the resulting edition only; do not freeze
+  the next editorial projection.
