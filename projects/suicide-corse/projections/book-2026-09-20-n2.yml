@@ -9,6 +9,8 @@ author: "Jean Hugues Noël Robert"
 
 source_manifest: ../corpus.yml
 writing_brief: book-2026-09-20-n2-writing-brief.md
+editorial_decisions: book-2026-09-20-n2-editorial-decisions.md
+current_collective_update: ../../../research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md
 related_issue: 81
 
 edition:
@@ -25,6 +27,8 @@ editorial_freedom:
   rule: "Freeze the edition, never the next projection."
   source_locked_is_editorial_locked: false
   delta_role: "Coverage and attention control only; Delta Review does not prescribe composition."
+  preferred_composition: "double_helix"
+  human_editorial_decisions_override_agent_defaults: true
 
 structural_center:
   sequence:
@@ -36,6 +40,27 @@ structural_center:
     Detect configurations that reduce effective capacity; keep the Map open
     by exploring alternatives and objections; identify factors of conversion;
     then test whether effective capacity is actually restored or created.
+
+hybrid_layers:
+  book:
+    function: "Longer-lived methods, Reality Cases, invariants, Marie-Louise and Corsican historical/capability material."
+  magazine:
+    function: "Dated current-state layer: parliamentary continuity, senatorial litigation, political recompositions, new traces and status changes."
+    no_prediction_rule: true
+
+editorial_ethics:
+  baseline:
+    - "SNJ Charter of Professional Ethics 1918/1938/2011"
+    - "Munich Declaration of the Duties and Rights of Journalists 1971"
+  extensions:
+    - "explicit epistemic statuses"
+    - "versioned provenance"
+    - "visible UNKNOWN"
+    - "conditions of revision"
+    - "Disclosure Gate"
+    - "versioned corrections"
+    - "AI contribution traceability"
+  dramatic_title_does_not_license_dramatic_factual_claims: true
 
 scale_parallelism:
   required: true
@@ -73,6 +98,19 @@ scale_parallelism:
 
 political_documentation:
   status: "documentary context, not electoral recommendation"
+  current_landscape_update: "../../../research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md"
+  community_arc: "Communauté de destin → communauté de transmission → communauté en déclin ?"
+  settler_colonialism_question:
+    status: "hypothesis/question to test; not an acquired characterization of contemporary Corsica"
+    required_distinctions:
+      - "state policy"
+      - "ordinary migration"
+      - "market and attractiveness effects"
+      - "land and housing"
+      - "language and transmission"
+      - "integration capacity"
+      - "power asymmetries"
+      - "intent versus effect"
   documented_horizon:
     label: "Une Corse capable"
     sources:
@@ -217,6 +255,8 @@ chapters_note: >
 
 outputs:
   required_when_render_ready: [html, pdf, epub]
+  masthead_required: true
+  masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
   technical_manifest: required
   campaign_journal: required
   coverage_report: required
