@@ -1,4 +1,30 @@
+---
+title: Dossier d’Angelis
+author: unknown
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: null
+license: CC BY-SA 4.0
+status: working-paper
+document_role: index
+document_kind: readme
+visibility: public
+lifecycle_state: working
+language: fr
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: unknown
+  origin_repository: unknown
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Dossier d’Angelis
+
+Parent: [Musée Mariani — préfiguration](../README.md).
 
 Sous-corpus canonique consacré à la généalogie et à l'histoire familiale d’Angelis. Il alimente notamment la projection `projects/suicide-corse/manuscript/17-genealogie.md`.
 
