@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 language: fr
 status: working-paper
 date: 2026-09-18
+last_modified_at: 2026-09-21
 document_role: index
 document_kind: witness-directory-index
 visibility: public
@@ -51,6 +52,36 @@ Il peut contenir :
 - [`research-2017-transition-nantes.md`](research-2017-transition-nantes.md) : transition CPES → Nantes, concours 2017, récits contemporains et pistes non résolues.
 
 Ces études n'ont pas vocation à devenir des fiches uniques de toutes les personnes qu'elles mentionnent.
+
+## Ajouts documentaires 2021–2024 — personnes et détenteurs de traces
+
+Les recherches Gmail du 21 septembre 2026 font émerger plusieurs personnes qui doivent désormais être représentées explicitement dans le registre, sans publier leurs coordonnées privées.
+
+### Villa Arson / Nice
+
+- **Sylvain Lizon** — ancien directeur de la Villa Arson. Jean Hugues Robert rapporte un échange direct avec lui au sujet de Marie-Louise et de sa situation pendant la période Villa Arson. Ce souvenir paternel reste à confronter à la mémoire propre de Sylvain Lizon. Statut actuel : `TESTIMONY-JHR` pour l'existence et le contenu de cet échange ; témoin institutionnel potentiel.
+- **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023. En mai 2022, Marie-Louise lui transmet directement un bulletin graphique sur lequel il intervient ; en 2023, un échange de contact le relie encore directement à elle. En 2026, il indique rester en lien avec l'équipe pédagogique de la Villa Arson. Statut : témoin direct + relais potentiel vers d'autres témoins de l'écosystème Villa. Références : `Gmail:180f64276744097a`, `Gmail:180fbd587d9eb034`, `Gmail:187392dde2fff09e`, `Gmail:18895e8d01578bf7`, fil `Gmail:19fe1c26afc9c864`.
+
+### Nantes / parcours artistique
+
+- **Maëva Guillery** — se présente en 2026 comme amie de Marie-Louise connue aux Beaux-Arts de Nantes ; elle décrit des souvenirs communs à Corte et une recherche artistique pour laquelle Marie-Louise l'avait aidée à rencontrer des personnes et à découvrir des lieux. Statut : témoin direct du réseau nantais et de séjours / projets ultérieurs. Référence : `Gmail:19cae28bd6896cd0`.
+- **Maéva Lecoq** — détentrice déclarée de photographies de Marie-Louise prises à différents moments, notamment lors d'un passage à Corte ; elle en a transmis un lot à Jean Hugues en 2025. Statut : témoin direct + détentrice de traces photographiques. Référence : `Gmail:197f4f756475ce1f`.
+
+### Été 2024 et conservation posthume des traces
+
+- **Céline Christmann Brillais** — correspondante directe de Marie-Louise en juillet 2024 ; elle a ensuite retransmis à Jean Hugues, en décembre 2024, plusieurs traces de ces échanges. La nature détaillée de démarches personnelles ou sensibles n'a pas à être reproduite dans ce registre public. Statut : témoin direct de la période + détentrice / relayeuse de traces. Références : `Gmail:193b0ca99b5eaced`, `Gmail:193e3f2a9525a64c`, `Gmail:193e3f3108056439`.
+- **Martine Brillais** — proche de Marie-Louise, aujourd'hui décédée selon le témoignage direct de Jean Hugues Robert communiqué le 21 septembre 2026. Elle ne doit donc plus être traitée comme une personne à solliciter. Son rôle devient celui d'une **source posthume dont les traces doivent être retrouvées et préservées** : correspondances, photographies, textes transmis et, si elle existe, audition de gendarmerie rapportée par JHR. Le décès n'établit ni le contenu ni l'existence de chacune de ces pièces ; chaque trace conserve son propre statut documentaire.
+
+Cette distinction est importante :
+
+~~~text
+personne vivante susceptible de répondre
+    → témoin / relais potentiel
+
+personne décédée
+    → témoignage direct futur impossible
+    → rechercher traces, archives, auditions déjà produites et détenteurs secondaires
+~~~
 
 ## Documents de méthode
 
