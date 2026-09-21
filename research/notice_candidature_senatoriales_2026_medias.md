@@ -4,7 +4,7 @@ subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance 
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
 last_modified_at: '2026-09-21'
-version: '0.6'
+version: '0.7'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -91,7 +91,7 @@ Le dossier conserve également :
 
 - une nouvelle annonce du **12 mars 2026 à 21:07** sur `@suvranu` et `@BaronsMariani`, rapportée dans un brouillon de rectification à Corse-Matin du 16 mai ;
 - un courriel **effectivement envoyé le 24 mai 2026** à Mario Grazi / Corse Net Infos indiquant explicitement : « Je suis par ailleurs candidat sénateur en Haute-Corse » ;
-- une publication **épinglée** sur le profil `@BaronsMariani`, signalée par Jean Hugues Noël Robert comme renvoyant au document public [`Autonomia`](autonomia.md), source doctrinale de l'Autonomie de Capacité.
+- une publication **épinglée** du **20 mai 2026 à 10:17**, établie par capture primaire, intitulée « Autonomia - 1974, 1991, 2026 - autonomie de capacité », renvoyant vers le billet Substack `https://jeanhugues.substack.com/p/autonomia`, avec les hashtags `#suvranu #Corsica2038 #usscorsica` ; la capture affiche **132 vues**, valeur conservée comme instantané ; le billet renvoie doctrinalement au document public [`Autonomia`](autonomia.md), source stable de l'Autonomie de Capacité.
 
 La qualification « candidature pas vraiment annoncée » doit donc être lue avec prudence : l'existence publique de la candidature est documentée dès octobre 2025. Cela ne prouve pas que chaque rédaction en avait effectivement connaissance.
 
