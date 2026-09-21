@@ -18,7 +18,15 @@ editorial_close:
   decision: "human-authorized"
   decided_by: "Jean Hugues Noël Robert"
   decided_at: "2026-09-21T07:00+02:00"
-  effect: "content selection closed; render and technical freeze still require fresh artifact verification"
+  effect: "content selection closed; final source-consistency pass completed; render and technical freeze still require fresh artifact verification"
+  source_consistency_pass:
+    status: "completed"
+    authority: "explicit human close authorization"
+    notes:
+      - "Chronologie and Annuaire promoted after final readability pass"
+      - "Villa Arson open questions aligned with known re-entry application and reported rejection"
+      - "Witness solicitation method aligned with sparse P0 free recall"
+      - "Prepared outreach batch remains ready_to_contact, not yet solicited"
 
 edition:
   number: 2
@@ -59,6 +67,11 @@ closing_updates:
     - ../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
     - ../../memory/marie-louise/possible_matrix.md
     - ../../memory/marie-louise/witnesses/README.md
+    - ../../memory/marie-louise/witnesses/METHOD.md
+    - ../../memory/marie-louise/witnesses/campaign-01.md
+    - ../manuscript/chronologie.md
+    - ../manuscript/annuaire.md
+    - ../manuscript/questions-ouvertes.md
   senatoriales_2026:
     - ../../research/senatoriales-2026/README.md
     - ../../research/senatoriales-2026/investigation/chronology.md
