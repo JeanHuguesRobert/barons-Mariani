@@ -1,0 +1,143 @@
+schema_version: "0.1"
+title: "Sénatoriales 2026 — représentations médiatiques"
+updated_at: "2026-09-21"
+status: "active"
+
+records:
+  - id: "MED-2026-09-11-CNI"
+    medium: "Corse Net Infos"
+    published_at: "2026-09-11T18:55:00+02:00"
+    publication_type: "article"
+    title: "Sénatoriales 2026 : trois candidatures déposées en Haute-Corse, quatre noms attendus en Corse-du-Sud"
+    url: "https://www.corsenetinfos.corsica/Senatoriales-2026-trois-candidatures-deposees-en-Haute-Corse-quatre-noms-attendus-en-Corse-du-Sud_a92593.html"
+    observed:
+      identity_representation: "Jean-Hugues Robert"
+      candidacy_status_representation: "candidature déposée, encore soumise à enregistrement définitif"
+      political_label_representation: null
+      program_content: "non développé dans cet article collectif"
+    exact_phrases:
+      - "Ces trois candidatures restent, à ce stade, soumises à leur enregistrement définitif par les services de l’État."
+    qualification:
+      status: "EXACT_A_LA_DATE"
+    correction_status: "none_required_for_status_as_published"
+    source_verification: "verified_web_2026-09-21"
+
+  - id: "MED-2026-09-11-AF"
+    medium: "Alta Frequenza"
+    author: "Julien Pernici"
+    published_at: "2026-09-11"
+    publication_type: "article"
+    title: "Sénatoriales en Haute-Corse : trois candidats sur la ligne de départ"
+    url: "https://www.alta-frequenza.corsica/senatoriales-en-haute-corse-trois-candidats-sur-la-ligne-de-depart"
+    observed:
+      identity_representation: "Jean-Hugues Robert, « pseudonyme de Baron Mariani »"
+      candidacy_status_representation: "candidat"
+      announcement_representation: "candidature « pas vraiment annoncée »"
+      political_label_representation: "rapprochement avec A Voce mentionné ; étiquette Le Petit Parti - A Voce non expliquée"
+      program_content: "non développé"
+    exact_phrases:
+      - "La troisième, quant à elle, n’était pas vraiment annoncée"
+      - "Mieux connu sous le pseudonyme de Baron Mariani"
+      - "celui-ci s’est rapproché du mouvement A Voce di a Natura Corsa de Jean-François Baccarelli"
+    qualification:
+      identity: "QUALIFICATION_EDITORIALE"
+      announcement: "TENSION_AVEC_TRACE_PRIMAIRE"
+      political_label: "A_DETERMINER"
+    primary_benchmark:
+      - "publication X du 1er octobre 2025 : annonce explicite de candidature sénatoriale 2026"
+      - "courriel envoyé le 24 mai 2026 à Mario Grazi / Corse Net Infos mentionnant explicitement la candidature"
+      - "étiquette déposée : Le Petit Parti - A Voce"
+    limitations:
+      - "L'existence d'une annonce publique antérieure ne démontre pas que la rédaction Alta Frequenza l'avait vue."
+      - "La formule « pas vraiment annoncée » est graduelle et éditoriale."
+    correction_status: "candidate_for_narrow_correction_or_clarification"
+    source_verification: "verified_web_2026-09-21"
+
+  - id: "MED-2026-09-15-RCF"
+    medium: "RCF Corsica"
+    published_at: "2026-09-15T08:00:00+02:00"
+    publication_type: "radio_news"
+    title: "Edition du 15 septembre 2026 8 h"
+    url: "https://www.podscan.fm/podcasts/le-journal-dactualite-corse-8h/episodes/edition-du-15-septembre-2026-8-h"
+    observed:
+      candidacy_status_representation: "présenté comme encore opposé à Nicolas Battini et Paul-Toussaint Parigi"
+      identity_representation: "Jean-Hugues Robert dit le baron Mariani"
+    exact_phrases:
+      - "il sera opposé à Nicolas Batini [...] et à Jean-Hugues Robert dit le baron Mariani"
+    qualification:
+      candidacy_status: "NON_A_JOUR"
+      identity: "QUALIFICATION_EDITORIALE"
+    primary_benchmark:
+      - "jugement du Tribunal administratif de Bastia du 14 septembre 2026 refusant l'enregistrement de la déclaration"
+    correction_status: "candidate_for_status_correction"
+    limitations:
+      - "Le registre documente la formulation diffusée ; il ne préjuge pas du moment auquel la rédaction a reçu ou traité l'information sur le jugement."
+    source_verification: "verified_web_2026-09-21"
+
+  - id: "MED-2026-09-15-PAISNOSTRE"
+    medium: "País Nòstre"
+    published_at: "2026-09-15"
+    publication_type: "article"
+    title: "Le Mouvement Corse aux sénatoriales selon IA"
+    url: "https://pais-nostre.eu/2026/09/15/le-mouvement-corse-aux-senatoriales-selon-ia/"
+    observed:
+      candidacy_status_representation: "« candidat en lice »"
+      replacement_representation: "accompagné de Laurence Vernerey"
+    exact_phrases:
+      - "Jean-Hugues Robert : Candidat en lice, accompagné de Laurence Vernerey."
+    qualification:
+      candidacy_status: "NON_A_JOUR"
+    primary_benchmark:
+      - "jugement du Tribunal administratif de Bastia du 14 septembre 2026 refusant l'enregistrement de la déclaration"
+    correction_status: "candidate_for_status_correction"
+    source_verification: "verified_web_2026-09-21"
+
+  - id: "MED-2026-09-20-NOSPARLEMENTAIRES"
+    medium: "NosParlementaires"
+    observed_at: "2026-09-21"
+    publication_type: "aggregator_candidate_page"
+    url: "https://nosparlementaires.fr/senatoriales-2026/2B"
+    observed:
+      candidacy_status_representation: "« candidature retirée le 19 septembre 2026 »"
+      political_nuance_representation: "Divers"
+    exact_phrases:
+      - "candidature retirée le 19 septembre 2026"
+    qualification:
+      candidacy_status: "TENSION_AVEC_TRACE_PRIMAIRE"
+    primary_benchmark:
+      - "aucun retrait volontaire documenté dans le Corpus"
+      - "jugement du 14 septembre refusant l'enregistrement"
+    correction_status: "candidate_for_narrow_correction"
+    limitations:
+      - "Le registre constate une divergence documentaire ; il n'établit pas encore la provenance exacte de la date du 19 septembre utilisée par l'agrégateur."
+    source_verification: "verified_web_2026-09-21"
+
+comparison_records:
+  - id: "CMP-2026-09-02-CNI-PERES"
+    comparison_case: true
+    person: "René Pérès"
+    medium: "Corse Net Infos"
+    published_at: "2026-09-02"
+    publication_type: "individual_interview"
+    title: "Sénatoriales 2A - René Pérès : « Ma démarche apportera quelque chose de constructif au débat »"
+    url: "https://app.corsenetinfos.corsica/ajaccio/c/0/i/97881902/senatoriales-2a-rene-peres-ma-demarche-apportera-quelque-chose-de-constructif-au-debat"
+    observed:
+      framing: "candidat indépendant issu de la société civile"
+      direct_speech: true
+      program_content: "parcours, autonomie, économie à l'année, accompagnement des élus locaux"
+    purpose: "contrôle documentaire du type et de la profondeur de traitement"
+    source_verification: "verified_web_2026-09-21"
+
+  - id: "CMP-2026-09-12-AF-PERES"
+    comparison_case: true
+    person: "René Pérès"
+    medium: "Alta Frequenza"
+    published_at: "2026-09-12"
+    publication_type: "article"
+    title: "Sénatoriales en Corse-du-Sud : une quadrangulaire au menu"
+    url: "https://www.alta-frequenza.corsica/senatoriales-en-corse-du-sud-une-quadrangulaire-au-menu"
+    observed:
+      framing: "candidature « plus surprenante », puis présentation comme « sexagénaire issu de la société civile »"
+      program_content: "profil contextualisé"
+    purpose: "contrôle documentaire du vocabulaire employé pour une autre candidature atypique"
+    source_verification: "verified_web_2026-09-21"
