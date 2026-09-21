@@ -1,9 +1,9 @@
 ---
 title: "Chronologie"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-18"
+date: "2026-09-21"
 last_modified_at: "2026-09-21"
-status: draft
+status: render-candidate
 language: fr
 license: "CC BY-SA 4.0"
 document_role: derived
@@ -26,8 +26,13 @@ provenance:
     - memory/marie-louise/formation/parcours_artistique_2016_2022.md
     - memory/marie-louise/witnesses/research-2009-2016.md
 review:
-  status: unreviewed
-  reviewed_by: []
+  status: human-authorized-for-n2-close
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+  previous_status: "agent-revised — pending human review"
+ai_assisted_by:
+  - "Claude Opus 5 (Anthropic) — dernière passe de lisibilité grand public, issue #82, 2026-09-21"
+  - "ChatGPT — propagation documentaire et contrôle de cohérence au bouclage, 2026-09-21"
 ---
 
 # Chronologie
@@ -53,13 +58,13 @@ Elle ne transforme pas rétrospectivement la vie de Marie-Louise en préfigurati
 
 > Le suicide ouvre l'enquête ; il ne devient pas la clé de lecture rétroactive de la vie.
 
-Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronology/` le distingue, son statut épistémique : **FACT**, **TRACE**, **VOICE**, **THIRD-PARTY**, **INFERENCE**, **UNKNOWN**. Une date approximative est signalée comme telle.
+Chaque repère porte, quand le fonds documentaire le distingue, son statut épistémique : **FACT**, **TRACE**, **VOICE**, **THIRD-PARTY**, **INFERENCE**, **UNKNOWN**. Une date approximative est signalée comme telle.
 
 ## Repères
 
-**2008 — *Le dieu de l'eau*.** `VOICE` / `TRACE`. Premier texte créatif conservé de Marie-Louise, alors enfant. Texte intégral au chapitre 14.
+**2008 — *Le dieu de l'eau*.** `VOICE` / `TRACE`. Premier texte créatif conservé de Marie-Louise, alors enfant. Texte intégral dans le chapitre « Le dieu de l'eau ».
 
-**2009 — janvier-février, contexte familial et judiciaire.** `TRACE` / `UNKNOWN` (partiel). Rendez-vous documenté avec une psychologue désignée dans un contexte de séparation parentale ; un « décryptage » écrit par l'auteur existe, sa version papier reste à retrouver. Voir chapitre 8.
+**2009 — janvier-février, contexte familial et judiciaire.** `TRACE` / `UNKNOWN` (partiel). Rendez-vous documenté avec une psychologue désignée dans un contexte de séparation parentale ; un « décryptage » écrit par l'auteur existe, sa version papier reste à retrouver. 
 
 **2009–2013 — Corte, réseau de pairs.** `TRACE` sociale, recherche en cours. Voir l'Annuaire.
 
@@ -73,13 +78,13 @@ Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronolog
 
 **2017–2021 — Beaux-Arts de Nantes.** `FACT` / `TRACE`. Période la mieux documentée par les traces de vie quotidienne. Voir l'Annuaire.
 
-**2017, décembre — friction Nantes.** `TRACE`. Différend autour de frais, résolu par des amortisseurs plutôt qu'une rupture. Analysé au chapitre 9.
+**2017, décembre — friction Nantes.** `TRACE`. Différend autour de frais, résolu par des amortisseurs plutôt qu'une rupture. Voir « La Machine à Empêcher » et « Rendre capable de vivre ».
 
 **2018 — Oletta, premier chantier artistique professionnel connu.** `FACT`.
 
-**2019 — vie de colocation à Nantes.** `FACT` / `TRACE`. Citation directe d'avril 2019 au chapitre 15.
+**2019 — vie de colocation à Nantes.** `FACT` / `TRACE`. Citation directe d'avril 2019 dans « La parole de Marie-Louise ».
 
-**2020 — remplaçante proposée, refusée pour âge.** `FACT`. Marie-Louise a 22 ans ; la loi exige 24 ans. Rapprochée au chapitre 15 de l'obstacle rencontré par l'auteur en 2026 (`ASSERTION-JHR` explicite).
+**2020 — remplaçante proposée, refusée pour âge.** `FACT`. Marie-Louise a 22 ans ; la loi exige 24 ans. Rapprochée par l'auteur de l'obstacle qu'il rencontre en 2026 (voir « Le Réel répond »).
 
 **Avril 2021 — résidence artistique et tournage, Falguières (Gard).** `FACT` / `TRACE`. Voir l'Annuaire.
 
@@ -89,28 +94,28 @@ Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronolog
 
 **11 mai 2023 — Marie-Louise indique ne plus être étudiante.** `VOICE` / `TRACE`. Ce message direct date un état déclaré ; il n'établit ni la date exacte, ni la cause, ni la forme administrative de l'interruption du cursus.
 
-**Janvier 2024 — aidance directement assumée.** `FACT` / `VOICE`. Mobilisée au chapitre 5.
+**Janvier 2024 — aidance directement assumée.** `FACT` / `VOICE`. Voir « Rendre capable de vivre ».
 
 **8 mars 2024 — candidature de réintégration en quatrième année à la Villa Arson.** `VOICE` / `TRACE` / `TESTIMONY-JHR`. Marie-Louise transmet un lien Taïga et un identifiant candidat ; l'auteur précise que cette candidature visait bien sa réintégration à la Villa Arson.
 
-**2024, après le 8 mars — candidature rejetée.** `TESTIMONY-JHR`. L'auteur témoigne que cette candidature de réintégration a été rejetée. La date et la décision institutionnelle primaire restent à retrouver. Cette réponse ferme effectivement la branche « retour en quatrième année à la Villa Arson » si le témoignage est corroboré. L'auteur la décrit comme une **fermeture majeure de futurs possibles** ; cette appréciation reste `ASSERTION-JHR` et ne vaut ni mesure de l'effet subjectif sur Marie-Louise ni causalité établie du suicide.
+**2024, après le 8 mars — candidature rejetée.** `TESTIMONY-JHR`. L'auteur témoigne que cette candidature de réintégration a été rejetée. La date et la décision institutionnelle primaire restent à retrouver. Selon ce témoignage, cette réponse ferme effectivement la branche « retour en quatrième année à la Villa Arson ». L'auteur la décrit comme une **fermeture majeure de futurs possibles** ; cette appréciation reste `ASSERTION-JHR`, à étudier et graduer plutôt qu'à neutraliser, sans la transformer pour autant en causalité certaine du suicide.
 
-**Juin 2024 — seconde candidature titulaire et demande directe.** `FACT` / `VOICE`. Le 16 juin 2024, Marie-Louise écrit vouloir que l'auteur soit son directeur de campagne. Citée au chapitre 15.
+**Juin 2024 — seconde candidature titulaire et demande directe.** `FACT` / `VOICE`. Le 16 juin 2024, Marie-Louise écrit vouloir que l'auteur soit son directeur de campagne. Citée dans « La parole de Marie-Louise ».
 
-**Juin–juillet 2024 — campagne, plaintes et préjudice allégué.** `TRACE` / `UNKNOWN` (partiel). Voir chapitre 16.
+**Juin–juillet 2024 — campagne, plaintes et préjudice allégué.** `TRACE` / `UNKNOWN` (partiel). Voir « Impunité par obscurité ».
 
-**Été 2024 — séquence précédant le décès.** `TRACE` (partielle). Zone documentaire prioritaire ; questions ouvertes listées au chapitre 16.
+**Été 2024 — séquence précédant le décès.** `TRACE` (partielle). Zone documentaire prioritaire ; questions ouvertes listées dans « Ce que nous ne savons pas encore » et dans les Continuations.
 
-**17 septembre 2024 — mort de Marie-Louise.** `FACT`, avec une contradiction de source sur l'heure exacte non résolue (chapitre 16).
+**17 septembre 2024 — mort de Marie-Louise.** `FACT`, avec une contradiction de source sur l'heure exacte non résolue (voir les Continuations).
 
-**Après le 17 septembre 2024.** `TRACE`. Obstacles administratifs et juridiques rencontrés par l'auteur, point de départ de l'enquête (chapitres 0 et 17).
+**Après le 17 septembre 2024.** `TRACE`. Obstacles administratifs et juridiques rencontrés par l'auteur, point de départ de l'enquête (voir l'Ouverture et l'Appel à témoignages).
 
-**27 septembre 2024 — rejet procédural du Conseil constitutionnel.** `FACT`. Postérieur de dix jours à la mort ; **ne doit jamais être causalement rattaché à elle** — voir chapitre 11.
+**27 septembre 2024 — rejet procédural du Conseil constitutionnel.** `FACT`. Postérieur de dix jours à la mort ; **ne doit jamais être causalement rattaché à elle** — voir « Impunité par obscurité ».
 
 **2025, janvier — autorisation de crémation.** `FACT` rapportée par le conseil.
 
-**2026 — ouverture de l'enquête et candidature sénatoriale de l'auteur.** `FACT`. Élargissement à une lecture territoriale (chapitres 5-11), à la mémoire directe de Marie-Louise (chapitres 14-15) et à un appel public à témoignages (chapitres 17-19), pour le deuxième anniversaire de sa mort.
+**2026 — ouverture de l'enquête et candidature sénatoriale de l'auteur.** `FACT`. Élargissement à une lecture territoriale, à la mémoire directe de Marie-Louise et à un appel public à témoignages, pour le deuxième anniversaire de sa mort. Le 14 septembre 2026, l'enregistrement de la candidature sénatoriale de l'auteur est refusé (voir « Le Réel répond »).
 
 ## Ce que cette chronologie ne fait pas
 
-Elle ne comble aucune lacune par inférence narrative. Là où le Corpus indique `UNKNOWN`, ce chapitre le conserve tel quel. Les lacunes les plus prioritaires — réseau amical 2009-2016, été 2024 — restent des chantiers actifs : voir le chapitre 16 et l'Annuaire.
+Elle ne comble aucune lacune par inférence narrative. Là où le Corpus indique `UNKNOWN`, ce chapitre le conserve tel quel. Les lacunes les plus prioritaires — réseau amical 2009-2016, été 2024 — restent des chantiers actifs : voir les Continuations et l'Annuaire.
