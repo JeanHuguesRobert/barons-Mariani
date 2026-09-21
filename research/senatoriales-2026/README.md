@@ -62,7 +62,22 @@ Cette couche peut évoluer lorsqu'une nouvelle pièce ou une nouvelle réponse i
 
 Elle ne réécrit pas rétrospectivement les documents historiques.
 
-## 3. Interaction Packets
+## 3. Registre médiatique
+
+Le sous-répertoire [`media/`](media/) documente les représentations médiatiques, les contacts presse, les rectifications et quelques cas de comparaison utilisés comme contrôles documentaires.
+
+Il distingue notamment :
+
+- publication observée ;
+- contact réellement envoyé ou reçu ;
+- brouillon non envoyé ;
+- qualification éditoriale ;
+- divergence avec une trace primaire ;
+- correction demandée et état final.
+
+Cette couche n'attribue pas d'intention aux rédactions et ne transforme pas une absence de reprise en preuve d'hostilité.
+
+## 4. Interaction Packets
 
 Les courriels et autres interactions institutionnelles restent documentés dans le système transversal `interaction_packets`.
 
@@ -72,7 +87,7 @@ Principe :
 
 > **Une interaction possède une trace canonique ; le dossier de cas en projette les conséquences factuelles.**
 
-## 4. Reality Cases et projections doctrinales
+## 5. Reality Cases et projections doctrinales
 
 Certains épisodes de ce dossier alimentent des études plus générales du Corpus, notamment sur :
 
@@ -86,17 +101,17 @@ Ces documents restent des **projections analytiques**.
 
 Ils ne deviennent pas, du seul fait de leur analyse, des sources primaires des faits qu'ils étudient.
 
-## 5. Discipline documentaire
+## 6. Discipline documentaire
 
 Le dossier applique quatre principes.
 
-### 5.1. Ne pas recopier une preuve lorsqu'on peut la référencer
+### 6.1. Ne pas recopier une preuve lorsqu'on peut la référencer
 
 Les documents d'enquête enregistrent des assertions, leur statut et leurs références.
 
 Les pièces sources restent dans leur emplacement canonique.
 
-### 5.2. Séparer date du fait et date de connaissance
+### 6.2. Séparer date du fait et date de connaissance
 
 Un fait peut s'être produit le 11 septembre et n'avoir été établi que le 18 septembre.
 
@@ -106,19 +121,19 @@ La chronologie doit permettre de distinguer :
 - quand une institution pouvait en avoir connaissance ;
 - quand le Corpus a pu l'établir.
 
-### 5.3. Conserver les inconnues
+### 6.3. Conserver les inconnues
 
 Une absence d'information n'est pas une preuve du contraire.
 
 Une question reste `open` jusqu'à l'obtention d'une preuve suffisante ou jusqu'à ce qu'elle soit explicitement abandonnée comme indécidable.
 
-### 5.4. Ne pas attribuer d'intention sans preuve
+### 6.4. Ne pas attribuer d'intention sans preuve
 
 Une omission, une réponse partielle, un silence ou une divergence documentaire peuvent être constatés.
 
 Leur cause ne doit pas être transformée en fait sans élément indépendant permettant de l'établir.
 
-## 6. État actuel
+## 7. État actuel
 
 L'enquête postérieure au jugement cherche notamment à déterminer :
 
