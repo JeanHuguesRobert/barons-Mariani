@@ -1,5 +1,5 @@
 ---
-title: "Continuations — chantiers ouverts de l'édition du 17 septembre 2026"
+title: "Continuations — chantiers ouverts après le numéro 2"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-17"
 status: draft
@@ -32,7 +32,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ---
 
 
-# Continuations — chantiers ouverts de l'édition du 17 septembre 2026
+# Continuations — chantiers ouverts après le numéro 2
 
 Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architecture.md`, « Continuations immédiates » ; `cop-core`, artefact `Continuation` : une exécution différée qui existe tant que sa condition de clôture n'est pas satisfaite), l'ensemble des chantiers que cette édition laisse volontairement ouverts. Une Continuation n'est pas un oubli : c'est un engagement enregistré, avec sa condition de clôture explicite, pour que l'édition suivante puisse être évaluée sur ce qu'elle a effectivement fait avancer.
 
