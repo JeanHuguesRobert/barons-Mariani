@@ -4,6 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-06-01T00:00:00.000Z
+last_modified_at: 2026-09-21
 title: Dilution de la responsabilité et continuité de protection
 date: '2026-04-18'
 status: draft — auto-filled (frontmatter cleanup)
@@ -118,6 +119,48 @@ fait / décision / omission documenté
 ```
 
 Le contrefactuel n’est pas un récit alternatif libre. Il doit rester contraint par les traces contemporaines, les possibilités réellement disponibles, le droit applicable et les connaissances établies. Dans les situations de suicide en particulier, ce cadre doit préserver explicitement la pluralité des facteurs médicaux, psychiques, sociaux, familiaux, institutionnels et personnels.
+
+### B.1. Contrefactuel gradué : non observable ne signifie pas inconnaissable
+
+Un contrefactuel est, par définition, **non directement observable**. Cela ne le rend pas pour autant entièrement inconnaissable ni équivalent à une spéculation libre.
+
+La rigueur consiste à **grader sa plausibilité à partir des contraintes du Réel**, et non à rabattre toute proposition contrefactuelle sur `UNKNOWN`.
+
+Deux règles complémentaires en découlent :
+
+> **Non observable ≠ inconnaissable.**
+
+> **Incertain ≠ toutes les hypothèses se valent.**
+
+Un contrefactuel devient d'autant plus informatif que plusieurs contraintes convergent, par exemple :
+
+- l'agent recherchait explicitement la branche considérée ;
+- l'action suivante aurait été matériellement praticable ;
+- le mécanisme de bifurcation est simple et proche dans le temps ;
+- les comportements antérieurs rendent la continuation cohérente ;
+- les alternatives concurrentes sont identifiables ;
+- la trajectoire contrefactuelle ne demande pas une longue cascade d'événements spéculatifs.
+
+On peut alors distinguer sans fausse précision :
+
+~~~text
+branche effectivement recherchée
++ capacité d'emprunter cette branche
++ bifurcation institutionnelle identifiable
+→ contrefactuel fortement contraint
+
+contrefactuel fortement contraint
+≠ fait observé
+
+mais
+
+contrefactuel fortement contraint
+≠ ignorance totale
+~~~
+
+La confiance doit décroître à mesure que l'on s'éloigne du point de bifurcation. Ainsi, il peut être fortement plausible qu'une admission recherchée aurait conduit à la reprise effective d'un cursus, tout en étant plus incertain d'en déduire les conséquences plus lointaines sur la vie professionnelle, relationnelle ou médicale.
+
+La prudence scientifique ne doit donc pas devenir un **agnosticisme automatique** qui détruit l'information contenue dans des contrefactuels fortement contraints. À l'inverse, une plausibilité élevée ne doit pas être présentée comme certitude.
 
 Cette double fonction de la perte de chance — éviter la dissolution complète de l’imputation tout en risquant elle-même de fragmenter la responsabilité — constitue une question de recherche à approfondir par une revue juridique et jurisprudentielle contradictoire. Elle est notamment suivie dans l’issue GitHub #47 du projet *Suicide Corse*.
 
