@@ -77,7 +77,7 @@ Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestat
 
 - **Sylvain Lizon** — ancien directeur de la Villa Arson ; témoin institutionnel potentiel. Jean Hugues Robert rapporte un échange direct avec lui au sujet de Marie-Louise et de sa situation pendant cette période. Le souvenir propre de M. Lizon reste à recueillir.
 - **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023 autour d'un travail graphique et d'échanges de contact ; également relais potentiel vers l'écosystème pédagogique de la Villa Arson, avec lequel il indique rester lié.
-- **Villa Arson** — détentrice potentielle des dossiers de scolarité, évaluations, correspondances, archives pédagogiques et décisions éventuelles concernant le parcours de Marie-Louise. La recherche doit distinguer admission, inscription, fréquentation, interruption et candidature ultérieure.
+- **Villa Arson** — détentrice potentielle des dossiers de scolarité, évaluations, correspondances, archives pédagogiques et décisions concernant le parcours de Marie-Louise. Le 8 mars 2024, Marie-Louise engage une candidature de réintégration en quatrième année ; Jean Hugues Robert témoigne qu'elle a été rejetée. La décision primaire, sa date et son motif exact restent à retrouver.
 
 ### CPES de Sartène, 2016-2017
 
@@ -106,7 +106,7 @@ Cette dernière situation impose une distinction simple : lorsqu'un témoin pote
 
 ## Organisations et institutions
 
-- **Beaux-Arts de Nantes** (2017-2021) et **Villa Arson, Nice** (2021-2024 pour les traces à rechercher) — détenteurs potentiels de dossiers de scolarité, de travaux, d'évaluations, de décisions et de contacts de promotion. La période 2024 concerne une candidature / réintégration possible encore à documenter, non une scolarité établie.
+- **Beaux-Arts de Nantes** (2017-2021) et **Villa Arson, Nice** (2021-2024 pour les traces à rechercher) — détenteurs potentiels de dossiers de scolarité, de travaux, d'évaluations, de décisions et de contacts de promotion. La période 2024 concerne une candidature de réintégration en quatrième année identifiée et un rejet rapporté par JHR ; la scolarité 2024 n'est pas établie et la décision institutionnelle primaire reste à retrouver.
 - **Lycée Georges-Clemenceau, Sartène** (CPES 1, 2016-2017).
 - **Gendarmerie de Vence** — dépositaire de la procédure d'enquête sur les circonstances du décès et, le cas échéant, de la note manuscrite mentionnée au chapitre 15 ; recouvrement encore en cours.
 - **Conseil constitutionnel** — auteur de la décision procédurale du 27 septembre 2024 évoquée au chapitre 11.
