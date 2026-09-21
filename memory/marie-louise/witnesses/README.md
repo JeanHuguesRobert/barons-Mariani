@@ -49,7 +49,8 @@ Il peut contenir :
 - [`campaign-01.md`](campaign-01.md) : première campagne de sollicitation, organisée par vagues et Knowledge Gaps ;
 - [`nantes_zad_tournage.md`](nantes_zad_tournage.md) : Nantes, ZAD et tournage ;
 - [`research-2009-2016.md`](research-2009-2016.md) : recherche documentaire et témoins de l'adolescence jusqu'à l'entrée en CPES.
-- [`research-2017-transition-nantes.md`](research-2017-transition-nantes.md) : transition CPES → Nantes, concours 2017, récits contemporains et pistes non résolues.
+- [`research-2017-transition-nantes.md`](research-2017-transition-nantes.md) : transition CPES → Nantes, concours 2017, récits contemporains et pistes non résolues ;
+- [`coverage-matrix.md`](coverage-matrix.md) : matrice périodes × témoins, couverture documentaire et angles morts prioritaires.
 
 Ces études n'ont pas vocation à devenir des fiches uniques de toutes les personnes qu'elles mentionnent.
 
@@ -64,12 +65,21 @@ Les recherches Gmail du 21 septembre 2026 font émerger plusieurs personnes qui 
 
 ### Nantes / parcours artistique
 
+- **Camille Gérard** — colocataire documentée de Marie-Louise au 9 rue Michel-Rocher à Nantes en 2019–2020. Statut : témoin direct potentiel de premier rang du quotidien nantais ; moyen de contact privé documenté dans les échanges de bail.
+- **Alice Gautier** — en novembre 2018, Marie-Louise la décrit elle-même comme « la camarade qui m'héberge à Nantes pour l'instant ». Statut : témoin direct potentiel ; identité exacte et moyen de contact actuel à confirmer.
+- **Juliette Fetaz** — colocataire/camarade nantaise documentée par les pièces de logement. Statut : témoin direct potentiel ; moyen de contact actuel à retrouver.
+- **Jade Casteres** — correspondance directe et affectueuse avec Marie-Louise en 2011, autour du collège, d'une fête et d'un groupe de pairs. Statut : témoin direct potentiel de l'adolescence + relais vers le réseau 2011.
+- **Hugues Absil** — témoin direct documenté de la résidence/tournage des Falguières du 17 au 26 avril 2021 ; moyen de contact professionnel public actuel disponible. Statut : témoin artistique de premier rang + relais vers les archives du projet.
+- **« Anna »** — personne ayant fourni une attestation liée à la résidence artistique d'avril 2021. Identité complète inconnue ; ne pas fusionner sans preuve avec Anna Dea Aillaud de la CPES.
+
+
+
 - **Maëva Guillery** — se présente en 2026 comme amie de Marie-Louise connue aux Beaux-Arts de Nantes ; elle décrit des souvenirs communs à Corte et une recherche artistique pour laquelle Marie-Louise l'avait aidée à rencontrer des personnes et à découvrir des lieux. Statut : témoin direct du réseau nantais et de séjours / projets ultérieurs. Référence : `Gmail:19cae28bd6896cd0`.
 - **Maéva Lecoq** — détentrice déclarée de photographies de Marie-Louise prises à différents moments, notamment lors d'un passage à Corte ; elle en a transmis un lot à Jean Hugues en 2025. Statut : témoin direct + détentrice de traces photographiques. Référence : `Gmail:197f4f756475ce1f`.
 
 ### Été 2024 et conservation posthume des traces
 
-- **Céline Christmann Brillais** — correspondante directe de Marie-Louise en juillet 2024 ; elle a ensuite retransmis à Jean Hugues, en décembre 2024, plusieurs traces de ces échanges. La nature détaillée de démarches personnelles ou sensibles n'a pas à être reproduite dans ce registre public. Statut : témoin direct de la période + détentrice / relayeuse de traces. Références : `Gmail:193b0ca99b5eaced`, `Gmail:193e3f2a9525a64c`, `Gmail:193e3f3108056439`.
+- **Céline Christmann** — correspondante directe de Marie-Louise en juillet 2024 ; elle a ensuite retransmis à Jean Hugues, en décembre 2024, plusieurs traces de ces échanges. La nature détaillée de démarches personnelles ou sensibles n'a pas à être reproduite dans ce registre public. Statut : témoin direct de la période + détentrice / relayeuse de traces. Références : `Gmail:193b0ca99b5eaced`, `Gmail:193e3f2a9525a64c`, `Gmail:193e3f3108056439`.
 - **Martine Brillais** — proche de Marie-Louise, aujourd'hui décédée selon le témoignage direct de Jean Hugues Robert communiqué le 21 septembre 2026. Elle ne doit donc plus être traitée comme une personne à solliciter. Son rôle devient celui d'une **source posthume dont les traces doivent être retrouvées et préservées** : correspondances, photographies, textes transmis et, si elle existe, audition de gendarmerie rapportée par JHR. Le décès n'établit ni le contenu ni l'existence de chacune de ces pièces ; chaque trace conserve son propre statut documentaire.
 
 Cette distinction est importante :
@@ -90,7 +100,7 @@ Au **21 septembre 2026**, six premières sondes sont matériellement préparées
 - **Sylvain Lizon** — P0 de rappel libre, contexte minimal ;
 - **Damien Ruvet** — P0 de rappel libre ;
 - **Villa Arson** — demande institutionnelle large sur les documents et catégories de traces conservés ;
-- **Céline Christmann Brillais** — souvenirs directs de juillet 2024 + existence éventuelle de traces conservées ;
+- **Céline Christmann** — souvenirs directs de juillet 2024 + existence éventuelle de traces conservées ;
 - **Maëva Guillery** — P0 sur la période nantaise ;
 - **Maéva Lecoq** — P0 de rappel libre + traces photographiques.
 
