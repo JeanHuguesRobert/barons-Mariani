@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-20"
+updated: "2026-09-21"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -146,6 +146,18 @@ sources:
     required: false
     note: "Documents declared future electoral intentions and continuity; does not establish future legal candidacies."
 
+  - id: senatoriales-2026-case-root
+    path: research/senatoriales-2026/README.md
+    role: inquiry-index
+    required: false
+    note: "Canonical entry point for the September 2026 Haute-Corse senatorial declaration, TA proceedings and evolving post-judgment documentary inquiry. Keep deposit, registration refusal and voluntary withdrawal distinct."
+
+  - id: senatoriales-2026-evidence-chronology
+    path: research/senatoriales-2026/investigation/chronology.md
+    role: evidence-chronology
+    required: false
+    note: "Probative chronology for the 2026 senatorial Reality Case; preserve established/reported/unknown statuses."
+
 
   - id: possible
     path: research/rational_odysseys_the_possible.md
@@ -239,4 +251,5 @@ open_gaps:
   - "Add demographic and suicidology datasets after contradictory review."
   - "Document the conceptual/electoral genealogy from SimpliWiki/Kudocracy through 2017 and 2026 without overstating continuity."
   - "If retained for future public use, create a dedicated source for the candidate national label 'France Capable'; do not infer an existing party or registered candidacy."
+  - "Resolve post-judgment propagation of the 2026 senatorial status across Ministry, Senate and third-party projections; distinguish refusal of registration from any voluntary withdrawal, which is not currently documented."
 
