@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.3"
+version: "1.4"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -27,6 +27,7 @@ source_documents:
   - "projects/suicide-corse/corpus.yml"
   - "research/traceabilite_des_actes.md"
   - "research/autonomia/impunite_par_obscurite_cas_corse.md"
+  - "research/autonomia.md"
 related_documents:
   - title: "Trail — Une Corse capable"
     path: "../trails/une_corse_capable.md"
@@ -62,6 +63,76 @@ Elle n’impose aucune conclusion politique ou juridique générale. Elle renvoi
 Formulation courte recommandée :
 
 > **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre. Aucun retrait volontaire n’est documenté.**
+
+## Antériorité publique de la candidature et disponibilité du fond politique
+
+Le dépôt légal de la déclaration n'est intervenu que le **11 septembre 2026**, mais la candidature existait publiquement bien avant cette date.
+
+### 1er octobre 2025 — annonce publique explicite
+
+Une publication du compte X **@BaronsMariani**, horodatée du **1er octobre 2025 à 12:06**, annonce explicitement :
+
+> **« 2026 : nouvelle candidature sénatoriale ! »**
+
+Elle associe cette annonce à la liste citoyenne **#Pertitellu** à Corte et aux thèmes **culture**, **nature**, **Corse**, **Corte**, **démocratie directe** et **#Sénatoriales2026**.
+
+URL source :
+
+https://x.com/BaronsMariani/status/1973328554323550549
+
+La capture communiquée le 21 septembre 2026 affiche **183 vues**. Cette métrique est conservée comme un **instantané de consultation**, non comme une mesure stable de l'audience finale.
+
+Cette publication constitue une **trace primaire de l'existence publique de la candidature dès le 1er octobre 2025**, soit plusieurs mois avant les annonces médiatiques retrouvées en septembre 2026.
+
+### 12 mars 2026 à 21:07 — nouvelle annonce rapportée
+
+Un brouillon Gmail daté du **16 mai 2026**, destiné à Corse-Matin mais jamais envoyé, indique explicitement :
+
+> « Ma candidature a été annoncée publiquement sur Twitter/X le 12 mars 2026 à 21h07, sur les comptes @suvranu et @BaronsMariani. »
+
+Cette mention constitue une trace secondaire contemporaine de la nouvelle annonce revendiquée. La publication primaire du 12 mars reste à archiver directement.
+
+Le même brouillon préparait une rectification d'un article de Corse-Matin intitulé :
+
+> « Sénatoriales en Haute-Corse : le nationaliste Paulu Santu Parigi attend de connaître ses challengers »
+
+### 24 mai 2026 — information directe d'un journaliste
+
+Le **24 mai 2026 à 16:21**, un courriel effectivement envoyé à **Mario Grazi**, journaliste de Corse Net Infos, indique explicitement :
+
+> « Je suis par ailleurs candidat sénateur en Haute-Corse »
+
+et transmet plusieurs documents publics sur l'**Autonomie de Capacité**.
+
+Cette pièce établit qu'au moins un journaliste régional avait été directement informé de la candidature plusieurs mois avant le dépôt légal.
+
+### Publication épinglée sur @BaronsMariani : `autonomia.md`
+
+Jean Hugues Noël Robert indique que la publication **épinglée** sur le compte X `@BaronsMariani` renvoie au document public :
+
+[`research/autonomia.md`](../autonomia.md)
+
+Ce document, **Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse**, expose le cadre de l'**Autonomie de Capacité** et constitue une source doctrinale stable du Corpus.
+
+L'état « épinglé » du post est conservé comme **observation rapportée du profil**, faute de vérification indépendante par l'interface automatisée utilisée ici. Le document GitHub auquel il renvoie est, lui, public et vérifiable.
+
+La séquence documentaire doit donc distinguer :
+
+```text
+existence publique de la candidature
+1er octobre 2025 — établie par une publication X explicite
+
+→ nouvelle annonce
+12 mars 2026 — rapportée dans un brouillon contemporain
+
+→ information directe d'un journaliste
+24 mai 2026 — établie par courriel envoyé
+
+→ dépôt légal
+11 septembre 2026
+```
+
+Elle rend factuellement inexact de présenter la candidature comme ayant simplement « apparu » le jour du dépôt. Elle ne permet pas, à elle seule, d'établir ce que chaque rédaction avait effectivement vu ou savait avant septembre.
 
 ## Identité publique : Baron Mariani
 
