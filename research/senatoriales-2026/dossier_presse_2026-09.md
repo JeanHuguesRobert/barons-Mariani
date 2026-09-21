@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.4"
+version: "1.5"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -106,15 +106,31 @@ et transmet plusieurs documents publics sur l'**Autonomie de Capacité**.
 
 Cette pièce établit qu'au moins un journaliste régional avait été directement informé de la candidature plusieurs mois avant le dépôt légal.
 
-### Publication épinglée sur @BaronsMariani : `autonomia.md`
+### 20 mai 2026 — publication épinglée « Autonomia »
 
-Jean Hugues Noël Robert indique que la publication **épinglée** sur le compte X `@BaronsMariani` renvoie au document public :
+Une capture du profil X `@BaronsMariani`, communiquée le 21 septembre 2026, établit la publication épinglée suivante, datée du **20 mai 2026 à 10:17** :
+
+> **« Autonomia - 1974, 1991, 2026 - autonomie de capacité. »**
+
+Le texte poursuit :
+
+> **« Cinquante ans après le manifeste “Autonomia” d'Edmond et Max Simeoni, qu'est-ce qui a marché, qu'est-ce qui n'a pas marché, et qu'est-ce qu'il reste à essayer ? »**
+
+La publication renvoie vers :
+
+https://jeanhugues.substack.com/p/autonomia
+
+et comporte les hashtags `#suvranu`, `#Corsica2038` et `#usscorsica`.
+
+La capture affiche **132 vues**. Comme pour les autres métriques sociales, cette valeur est conservée comme un **instantané au moment de la capture**, non comme une mesure définitive d'audience.
+
+Le post était **épinglé** au profil au moment de la capture. Son contenu établit donc qu'avant le dépôt légal de septembre, le compte public `@BaronsMariani` mettait durablement en avant un **fond politique substantiel** centré sur l'Autonomie de Capacité.
+
+Le billet Substack renvoie doctrinalement au document public stable :
 
 [`research/autonomia.md`](../autonomia.md)
 
-Ce document, **Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse**, expose le cadre de l'**Autonomie de Capacité** et constitue une source doctrinale stable du Corpus.
-
-L'état « épinglé » du post est conservé comme **observation rapportée du profil**, faute de vérification indépendante par l'interface automatisée utilisée ici. Le document GitHub auquel il renvoie est, lui, public et vérifiable.
+Ce document, **Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse**, constitue une source doctrinale du Corpus.
 
 La séquence documentaire doit donc distinguer :
 
