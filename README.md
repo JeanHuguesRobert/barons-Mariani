@@ -124,16 +124,24 @@ Méditerranée, si certaines bifurcations historiques avaient pris un autre chem
 
 ## Candidature au Sénat — Haute-Corse, septembre 2026
 
-**Jean Hugues Noël Robert, baron Mariani** est candidat aux élections sénatoriales
-de Haute-Corse (27 septembre 2026) sous l'identité de **Baron Mariani**, titre
-porté par sa famille depuis le baron
+**Jean Hugues Noël Robert, baron Mariani** a déposé le 11 septembre 2026 une
+déclaration de candidature aux élections sénatoriales de Haute-Corse du
+27 septembre 2026 sous l'identité de **Baron Mariani**, titre porté par sa
+famille depuis le baron
 [Antoine Dominique Mariani](https://fr.wikipedia.org/wiki/Antoine_Mariani),
 conseiller d'État sous la monarchie de Juillet.
 
-Cette candidature n'est pas une prédiction de victoire. C'est une exploration
-possibiliste : mettre une proposition conséquente à l'épreuve du débat public,
-la rendre plus précise, plus compréhensible et plus réalisable. Sa valeur ne se
-réduit donc pas au résultat du scrutin.
+À la suite d'une saisine de la préfecture de la Haute-Corse et du jugement rendu
+par le Tribunal administratif de Bastia le 14 septembre 2026, l'enregistrement
+de cette déclaration de candidature a été refusé. **Aucun retrait volontaire de
+candidature n'est documenté dans le Corpus à ce jour.** Le dossier, son
+contentieux et l'enquête documentaire postérieure au jugement sont suivis dans
+[`research/senatoriales-2026/`](research/senatoriales-2026/).
+
+Cette démarche électorale reste une exploration possibiliste : mettre une
+proposition conséquente à l'épreuve du débat public, la rendre plus précise,
+plus compréhensible et plus réalisable. Sa valeur ne se réduit donc pas au
+résultat du scrutin ni au refus d'enregistrement.
 
 La plateforme de campagne **Plan 2038** — deux mandats de six ans — repose sur
 une proposition centrale, **Sun & Inferences** : transformer le soleil corse en
@@ -161,7 +169,7 @@ poursuivra quel que soit le résultat électoral.
 | 2020 | Sénatoriales (Corse du Sud) | Candidature |
 | 2022 | Législatives (Haute-Corse) | Candidature |
 | 2024 | Législatives (Haute-Corse) | Candidature — recours au Conseil constitutionnel (rejeté le 27 septembre 2024) |
-| **2026** | **Sénatoriales (Haute-Corse)** | **Candidature en cours** |
+| **2026** | **Sénatoriales (Haute-Corse)** | **Déclaration déposée le 11 septembre ; enregistrement refusé après le jugement du TA de Bastia du 14 septembre ; aucun retrait volontaire documenté** |
 
 📧 Contact : [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)
 
