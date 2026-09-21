@@ -2,6 +2,7 @@
 title: "Suicide Corse — questions ouvertes de l'enquête"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
+last_modified_at: 2026-09-21
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -40,8 +41,11 @@ Si vous pouvez contribuer à l'une de ces questions, même partiellement : **dan
 - Quelles personnes ont vu ou échangé directement avec Marie-Louise pendant cette période ?
 - Quels projets, possibilités, aides ou soutiens existaient encore ?
 - Quelle demande a été adressée à Ferdinand Pancrazi, et quelle réponse exacte a été donnée ?
-- Quelle démarche a été effectuée auprès de la Villa Arson pour une éventuelle réintégration ?
-- Quelle réponse exacte a été reçue ?
+- À quelle date la Villa Arson a-t-elle rendu sa décision sur la candidature de réintégration en quatrième année du 8 mars 2024 ?
+- Quelle était la formulation exacte de cette décision et son motif ?
+- Où se trouve la décision ou notification primaire ?
+- Que disait Marie-Louise de ce retour qu'elle cherchait, avant et après la décision ?
+- Quelles autres routes de formation, travail, création ou soutien lui restaient effectivement accessibles après le rejet ?
 - Quel travail ou chantier demeurait impayé, et quelles traces contemporaines permettent de le documenter ?
 
 ## Nantes — 2017 à 2021
