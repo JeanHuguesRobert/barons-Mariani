@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.2"
+version: "1.3"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -25,6 +25,8 @@ source_documents:
   - "research/autonomia/amendement_effectivite_article_72-5.md"
   - "projects/suicide-corse/README.md"
   - "projects/suicide-corse/corpus.yml"
+  - "research/traceabilite_des_actes.md"
+  - "research/autonomia/impunite_par_obscurite_cas_corse.md"
 related_documents:
   - title: "Trail — Une Corse capable"
     path: "../trails/une_corse_capable.md"
@@ -457,5 +459,30 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 
 **Jean Hugues Noël Robert — Baron Mariani**  
 **jhr@baronsmariani.org**
+
+Je réponds **préférentiellement par courriel** aux questions de presse et demandes de vérification.
+
+La raison est méthodologique autant que pratique : *verba volant, scripta manent* — **les paroles s’envolent, les écrits restent**. Un échange écrit permet de conserver la question exacte, la réponse donnée, les pièces citées, les éventuelles corrections et leur chronologie.
+
+Cette préférence s’inscrit dans un axe plus général du Corpus : la **Traçabilité des actes**. L’objectif n’est pas de surveiller les personnes mais de rendre les actes engageants **visibles, attribuables, vérifiables, contestables et corrigibles**.
+
+Le travail sur l’**impunité par obscurité** formule le problème symétrique : lorsque décisions, transmissions, responsabilités et corrections laissent trop peu de traces, l’imputation devient difficile et différentes formes d’impunité peuvent apparaître sans qu’il soit nécessaire de supposer un auteur unique ou une intention concertée.
+
+Dans ce cadre, le courriel est privilégié comme **canal de preuve et de correction** :
+
+```text
+question écrite
+→ réponse écrite
+→ sources identifiables
+→ contradiction possible
+→ correction traçable
+→ responsabilité attribuable
+→ mémoire réutilisable
+```
+
+Cette préférence pour l’écrit n’exclut pas les échanges oraux ; elle vise à ce que les éléments importants puissent ensuite être fixés et vérifiés.
+
+➡️ [Traçabilité des actes](../traceabilite_des_actes.md)  
+➡️ [Impunité par obscurité — le cas corse](../autonomia/impunite_par_obscurite_cas_corse.md)
 
 Pour une demande de vérification ou de correction, indiquer si possible l’URL, la formulation exacte concernée et la date de consultation.
