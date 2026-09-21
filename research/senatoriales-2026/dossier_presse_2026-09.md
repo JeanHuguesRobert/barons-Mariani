@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.0"
+version: "1.1"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -22,6 +22,7 @@ source_documents:
   - "research/notice_baron_mariani_medias.md"
   - "identity/public-identity-registry.md"
   - "identity/representations/README.md"
+  - "research/autonomia/amendement_effectivite_article_72-5.md"
 related_documents:
   - title: "Trail — Une Corse capable"
     path: "../trails/une_corse_capable.md"
@@ -182,6 +183,60 @@ Chaque occurrence doit être traitée de la même manière :
 
 L’objectif est de produire un jeu de données longitudinal sur la manière dont l’information est représentée et corrigée, et non de présumer l’intention d’une rédaction.
 
+## « Le Petit Parti - A Voce » : une étiquette qui renseigne une alliance
+
+Le CERFA de candidature portait explicitement l’étiquette :
+
+> **Le Petit Parti - A Voce**
+
+Cette étiquette ne doit pas être confondue avec une éventuelle **nuance administrative** attribuée par l’administration.
+
+### Le Petit Parti et le Partitellu de Corte
+
+Le nom **Le Petit Parti** est la traduction/réactivation contemporaine revendiquée du **Partitellu**, nom historique d’un des deux grands camps politiques de Corte face au Partitone.
+
+Le Corpus documente cette histoire à partir de sources historiques et universitaires. Le projet contemporain ne revendique **aucune continuité juridique** avec une organisation ancienne : il revendique une **réactivation consciente d’un nom, d’une mémoire politique et d’un motif cortenais**.
+
+Le projet contemporain a notamment été réactivé lors du cycle municipal de Corte 2025-2026, autour du dépôt public `JeanHuguesRobert/pertitellu`.
+
+### Alliance avec A Voce di a Natura Corsa
+
+La composante **A Voce** renvoie à **A Voce di a Natura Corsa**, mouvement animé par **Jean-François Baccarelli**.
+
+La notice publique de candidature documente plusieurs éléments de continuité antérieurs au scrutin sénatorial 2026 :
+
+- Alta Frequenza présentait déjà Jean Hugues Robert en 2020 comme impliqué dans le mouvement de Jean-François Baccarelli ;
+- Laurence Vernerey figurait en 2017 en quatrième position sur la liste officielle **A voce di a natura corsa** conduite par Jean-François Baccarelli aux élections territoriales ;
+- l’étiquette `Le Petit Parti - A Voce` a été déclarée en 2026 comme matérialisation de cette alliance électorale.
+
+La formulation prudente est donc :
+
+> **« Le Petit Parti - A Voce » est l’étiquette électorale déclarée en 2026 pour rendre visible l’alliance revendiquée entre le projet contemporain Le Petit Parti, réactivation du Partitellu historique de Corte, et A Voce di a Natura Corsa de Jean-François Baccarelli.**
+
+Cette formulation documente une continuité politique et une alliance déclarée ; elle ne prétend ni fusion juridique des organisations ni continuité juridique du Petit Parti contemporain avec le Partitellu historique.
+
+➡️ [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
+
+## L’« amendement Baron Mariani »
+
+Le Corpus contient depuis le **19 septembre 2026** une proposition publique intitulée :
+
+> **Amendement d’effectivité — proposition de modification minimale de l’article 72-5**
+
+avec pour sous-titre :
+
+> **Nom de travail : « amendement Baron Mariani »**
+
+Cette proposition cherche à introduire explicitement dans le futur article 72-5 une exigence d’**effectivité** de la liberté, de l’égalité et de la fraternité, dans le prolongement de l’**Autonomie de Capacité**.
+
+Sa formulation principale de travail ajoute à la garantie d’égalité déjà présente dans le texte transmis au Sénat l’exigence d’« effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2 ».
+
+**Point de statut essentiel :** « amendement Baron Mariani » est un **nom de travail et de provenance**. À la date du présent dossier, le Corpus ne le présente pas comme un amendement parlementaire déjà déposé ou adopté.
+
+Cette pièce est postérieure au jugement du 14 septembre. Elle documente donc la **continuité du travail politique et constitutionnel après le refus d’enregistrement**, et non le contenu matériel du dossier de candidature déposé le 11 septembre.
+
+➡️ [Amendement d’effectivité — « amendement Baron Mariani »](../autonomia/amendement_effectivite_article_72-5.md)
+
 ## Le jugement du 14 septembre
 
 La reproduction publique du jugement permet notamment de consolider :
@@ -320,6 +375,7 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 - [Profession de foi / présentation publique — candidature non enregistrée](profession_de_foi_2026.md)
 - [Trail — Une Corse capable](../trails/une_corse_capable.md)
 - [Déclaration de continuité électorale du 17 septembre](declaration_continuite_electorale_2026-09-17.md)
+- [Amendement d’effectivité — « amendement Baron Mariani »](../autonomia/amendement_effectivite_article_72-5.md) — proposition de travail publiée le 19 septembre, postérieure au jugement
 
 ## Contact presse
 
