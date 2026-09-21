@@ -2,6 +2,7 @@
 title: "Marie-Louise — première campagne de sollicitation de témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
+last_modified_at: 2026-09-21
 status: working-paper
 document_role: operational
 document_kind: witness-outreach-campaign
@@ -36,15 +37,17 @@ Aucune coordonnée privée n'est reproduite ici. Les moyens de contact doivent �
 
 ## Règle de sollicitation
 
-Chaque premier contact doit rester court et factuel :
+Pour les témoins humains, appliquer par défaut le **P0 de rappel libre** défini dans `METHOD.md` :
 
-- rappeler le contexte de l'appel public à témoignages ;
-- expliquer pourquoi la personne est sollicitée ;
-- demander d'abord des faits de première main ;
-- accepter les souvenirs incomplets comme tels ;
-- demander l'existence éventuelle de documents, photos, messages, œuvres ou autres témoins ;
-- ne présumer ni causalité, ni responsabilité, ni intention ;
-- rappeler que transmission et publication sont distinctes.
+- contact court ;
+- contexte juste suffisant pour identifier Marie-Louise et le demandeur ;
+- question ouverte sur ce qui revient spontanément ;
+- permission explicite de répondre en quelques lignes ou par fragments ;
+- aucune énumération prématurée des discriminants déjà connus de l'enquête ;
+- aucune prémisse fabriquée ;
+- réponse brute conservée avant relance.
+
+Les demandes institutionnelles suivent un autre régime : demander largement quelles traces ou catégories de documents existent encore, puis préciser.
 
 Une réponse, même négative, constitue un résultat utile si elle est bornée et attribuée.
 
@@ -161,12 +164,27 @@ Cette vague est importante mais doit être préparée avec davantage de soin doc
 Questions actuellement ouvertes :
 
 - quelle était la teneur exacte de la demande adressée à Ferdinand Pancrazi et quelle réponse a été donnée ?
-- quelle démarche de réintégration a été faite auprès de la Villa Arson et quelle réponse exacte a été reçue ?
+- à quelle date la candidature de réintégration en quatrième année à la Villa Arson du 8 mars 2024 a-t-elle été rejetée, avec quelle formulation et pour quel motif ?
 - quel chantier ou travail demeurait impayé, par qui et selon quelles traces ?
 - quels proches ont vu ou échangé avec Marie-Louise pendant les dernières semaines de l'été 2024 ?
 - quelles ouvertures, aides ou projets existaient encore à cette période ?
 
 Cette vague ne doit jamais être formulée comme une recherche de responsabilité personnelle : elle vise à reconstruire des faits, des portes ouvertes ou fermées et des temporalités.
+
+## Lot P0 prêt au bouclage du 21 septembre 2026
+
+Au moment du bouclage du numéro 2, six sollicitations distinctes sont préparées mais **non encore envoyées** :
+
+- Sylvain Lizon — rappel libre, contexte minimal ;
+- Damien Ruvet — rappel libre ;
+- Villa Arson — demande institutionnelle large de traces et catégories de documents ;
+- Céline Christmann Brillais — souvenirs directs de juillet 2024 et existence éventuelle de traces conservées ;
+- Maëva Guillery — rappel libre sur la période nantaise ;
+- Maéva Lecoq — rappel libre et traces photographiques.
+
+Statut commun au bouclage : `ready_to_contact`.
+
+Leur envoi est prévu immédiatement après le bouclage éditorial. Le Corpus ne doit les passer à `solicité` qu'après observation d'une trace d'envoi.
 
 ## Questions communes à tous les témoins
 
