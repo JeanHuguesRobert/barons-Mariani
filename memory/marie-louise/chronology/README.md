@@ -2,6 +2,7 @@
 title: "Marie-Louise — chronologie documentaire"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
+last_modified_at: 2026-09-21
 language: fr
 document_role: research
 document_kind: chronology-index
@@ -93,9 +94,32 @@ Premières couches de recherche à projeter dans cette chronologie :
 
 - ../witnesses/research-2009-2016.md ;
 - ../formation/parcours_artistique_2016_2022.md ;
-- ../carte.md.
+- ../carte.md ;
+- ../possible_matrix.md ;
+- ../2024_portes_et_controles_epistemiques.md.
 
 D'autres périodes pourront être ajoutées par notes de recherche ou paquets événementiels sans créer une seconde biographie concurrente.
+
+## Repères nouvellement consolidés à projeter
+
+Deux repères doivent désormais être visibles dans les projections chronologiques publiques, avec leur niveau de certitude exact :
+
+- **11 mai 2023 — statut étudiant.** Dans un message direct à son père, Marie-Louise indique explicitement ne plus être étudiante. Cette trace établit son état déclaré à cette date ; elle n'établit ni la date exacte de l'interruption de cursus, ni sa cause, ni le mécanisme administratif correspondant. Référence : `Gmail:1880b63961c02dc4`. Statut : `VOICE / TRACE`.
+- **8 mars 2024 — candidature à une entrée en quatrième année.** Marie-Louise transmet directement un lien Taïga et un identifiant candidat associés à un concours d'entrée en quatrième année. La trace établit qu'un futur de formation était activement exploré à cette date. L'établissement exact, le résultat et le lien éventuel avec la Villa Arson restent `UNKNOWN`. Référence : `Gmail:18e1f184daa7c61c`. Statut : `VOICE / TRACE`.
+
+Ces deux repères doivent être lus ensemble sans imposer de causalité :
+
+~~~text
+2023-05-11 : "ne plus être étudiante"
+    ≠
+cause de l'interruption connue
+
+2024-03-08 : nouvelle candidature de formation
+    ≠
+réintégration Villa Arson établie
+    ≠
+résultat connu
+~~~
 
 ## Relation avec l'Annuaire
 
