@@ -1,0 +1,329 @@
+---
+title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
+subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
+author: "Jean Hugues Noël Robert, baron Mariani"
+date: "2026-09-21"
+version: "1.0"
+status: "public press index — active"
+language: "fr"
+license: "CC BY-SA 4.0"
+visibility: "public"
+document_role: "index"
+document_kind: "press-kit-router"
+lifecycle_state: "active"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier_presse_2026-09.md"
+contact: "jhr@baronsmariani.org"
+source_documents:
+  - "research/senatoriales-2026/README.md"
+  - "research/senatoriales-2026/investigation/chronology.md"
+  - "research/senatoriales-2026/investigation/knowledge-matrix.md"
+  - "research/senatoriales-2026/investigation/sources.md"
+  - "research/notice_candidature_senatoriales_2026_medias.md"
+  - "research/notice_baron_mariani_medias.md"
+  - "identity/public-identity-registry.md"
+  - "identity/representations/README.md"
+related_documents:
+  - title: "Trail — Une Corse capable"
+    path: "../trails/une_corse_capable.md"
+  - title: "Profession de foi — présentation publique"
+    path: "profession_de_foi_2026.md"
+  - title: "Déclaration de continuité électorale — 17 septembre 2026"
+    path: "declaration_continuite_electorale_2026-09-17.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+update_policy: "UP-DEFAULT-REVIEWED"
+---
+
+# Sénatoriales 2026 — dossier presse et page d’aiguillage
+
+Cette page fournit aux journalistes, médias, institutions et lecteurs une **entrée courte et vérifiable** dans le dossier sénatorial 2026 en Haute-Corse.
+
+Elle poursuit deux objectifs distincts :
+
+1. permettre de décrire exactement le **statut de la déclaration de candidature** ;
+2. permettre de désigner exactement l’**identité publique et électorale Baron Mariani**, sans transformer une qualification éditoriale en fait source.
+
+Elle n’impose aucune conclusion politique ou juridique générale. Elle renvoie aux pièces et distingue explicitement faits établis, témoignages, arguments et questions encore ouvertes.
+
+## En trente secondes
+
+**Jean Hugues Noël Robert**, qui se présente publiquement et électoralement sous le nom **Baron Mariani**, a déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse, avec **Laurence Marie Vernerey**, présentée électoralement sous le nom **Marie-Louise d’Angelis**, comme remplaçante.
+
+À la suite d’une saisine de la préfecture de la Haute-Corse, le Tribunal administratif de Bastia a rendu le **14 septembre 2026** un jugement refusant l’enregistrement de cette déclaration.
+
+**Aucun retrait volontaire de candidature n’est documenté dans le Corpus.**
+
+Formulation courte recommandée :
+
+> **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre. Aucun retrait volontaire n’est documenté.**
+
+## Identité publique : Baron Mariani
+
+Le référentiel du Corpus distingue :
+
+```text
+état civil
+Jean Hugues Noël Robert
+
+≠
+
+identité publique et électorale documentée
+Baron Mariani
+```
+
+Cette distinction n’est pas apparue en 2026.
+
+### Usages institutionnels vérifiables
+
+En **2017**, les résultats officiels du ministère de l’Intérieur publient :
+
+> **M. Le BARON MARIANI**
+
+Source officielle :  
+https://www.archives-resultats-elections.interieur.gouv.fr/resultats/legislatives-2017/02B/02B02.php
+
+En **2024**, le Conseil constitutionnel, dans une décision publiée au Journal officiel, désigne Marie-Louise Robert et Jean Hugues Robert comme candidats :
+
+> sous les **« noms d’usage de baronne et baron MARIANI »**
+
+Source officielle :  
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050291313
+
+Ces sources établissent un **usage public et institutionnel contemporain** de l’identité. Elles ne suffisent pas, à elles seules, à trancher toutes les questions généalogiques ou le régime juridique contemporain du titre historique ; ces questions sont traitées séparément dans le Corpus.
+
+➡️ [Baron Mariani — fiche de vérification pour les médias](../notice_baron_mariani_medias.md)  
+➡️ [Registre canonique des identités publiques](../../identity/public-identity-registry.md)
+
+## Le problème des représentations médiatiques
+
+Le Corpus ne considère pas toute différence de graphie ou de formulation comme fautive.
+
+Il distingue notamment :
+
+- `FIDÈLE` ;
+- `VARIANTE` ;
+- `NORMALISATION` ;
+- `ERREUR CERTAINE` ;
+- `QUALIFICATION ÉDITORIALE` ;
+- `À DÉTERMINER`.
+
+La difficulté apparaît lorsqu’une **représentation produite par un tiers devient silencieusement la nouvelle source**.
+
+Exemple :
+
+```text
+source documentée
+"Baron Mariani"
+
+→ représentation médiatique
+"pseudonyme de Baron Mariani"
+"dit le Baron Mariani"
+"alias le Baron Mariani"
+
+→ effet possible
+l’identité publique documentée est présentée comme une simple qualification extérieure,
+un surnom ou une création dont le média devient implicitement l’arbitre
+```
+
+Alta Frequenza a par exemple utilisé à plusieurs reprises des formulations de ce type, notamment « mieux connu sous le pseudonyme de Baron Mariani » en 2020, 2024 et encore le 11 septembre 2026, ainsi que « qui se fait appeler le Baron Mariani » en 2022.
+
+Ces formulations doivent être conservées comme **formes médiatiques exactes**. Le fait qu’elles soient éditoriales ne permet pas, à lui seul, de leur attribuer une intention.
+
+La formulation factuellement la plus neutre est :
+
+> **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani.**
+
+Lorsque le contexte justifie de préciser la qualification institutionnelle :
+
+> **Jean Hugues Noël Robert, sous le nom d’usage Baron Mariani.**
+
+Cette seconde formulation est notamment cohérente avec la terminologie employée par le Conseil constitutionnel en 2024.
+
+➡️ [Registre des représentations d’identité](../../identity/representations/README.md)
+
+## Ce qu’une demande de correction cherche à obtenir
+
+Une demande de correction n’exige pas d’un média qu’il adopte une thèse sur la noblesse, la généalogie ou la dévolution juridique d’un titre.
+
+Elle demande seulement de séparer :
+
+```text
+faits institutionnellement vérifiables
+≠
+qualification éditoriale
+```
+
+Pour l’identité, une demande peut donc être très étroite :
+
+> Merci de remplacer ou préciser « pseudonyme de Baron Mariani » par une formulation reflétant l’usage public et électoral documenté, par exemple : « Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani ». Le ministère de l’Intérieur utilisait déjà « M. Le BARON MARIANI » en 2017 et le Conseil constitutionnel a qualifié en 2024 « baronne et baron MARIANI » de noms d’usage.
+
+Pour le statut électoral :
+
+> Merci de remplacer « candidature retirée » par « enregistrement de la déclaration de candidature refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre 2026 », aucun retrait volontaire n’étant documenté.
+
+Ces deux corrections sont indépendantes : un article peut être exact sur l’identité et inexact sur le statut, ou inversement.
+
+## Protocole de rectification presse
+
+Chaque occurrence doit être traitée de la même manière :
+
+```text
+1. archiver la publication et son horodatage
+2. relever la formulation exacte
+3. identifier le fait primaire de comparaison
+4. qualifier provisoirement l’écart
+5. demander une correction étroite et vérifiable
+6. conserver le courriel envoyé
+7. observer la réponse :
+   correction / correction partielle / justification / refus / silence
+8. conserver l’état final
+```
+
+L’objectif est de produire un jeu de données longitudinal sur la manière dont l’information est représentée et corrigée, et non de présumer l’intention d’une rédaction.
+
+## Le jugement du 14 septembre
+
+La reproduction publique du jugement permet notamment de consolider :
+
+- audience le **14 septembre à 15 h** ;
+- clôture de l’instruction à **15 h 15** ;
+- note en délibéré enregistrée à **15 h 49** ;
+- mention d’observations écrites et orales de Jean Hugues Noël Robert ;
+- greffier signataire : **R. Longinotti** ;
+- mise à disposition du jugement le **14 septembre**, sans heure précisée dans le texte reproduit ;
+- refus de l’enregistrement de la déclaration de candidature.
+
+Une reproduction en texte intégral a été retrouvée le 21 septembre sur Pappers Justice :  
+https://justice.pappers.fr/decision/da1b94c673df9fc294f9d97ddb30e5040ce11b26
+
+**Provenance :** Pappers Justice est un rééditeur tiers. Cette découverte a été faite indépendamment des échanges avec le greffe et ne constitue pas une transmission nouvelle du Tribunal administratif.
+
+➡️ [Chronologie probatoire](investigation/chronology.md)  
+➡️ [Matrice des connaissances](investigation/knowledge-matrix.md)
+
+## « Original » : support, acte personnel et preuve
+
+Les articles L. 298, L. 299 et L. 301 du code électoral prévoient notamment une déclaration signée, l’acceptation écrite et signée du remplaçant avec mention manuscrite, ainsi qu’un dépôt en double exemplaire avant l’échéance.
+
+L’expression **« original papier »** ne figure pas littéralement dans ces dispositions. Le jugement raisonne néanmoins sur l’absence de formulaires Cerfa originaux et de signatures manuscrites originales.
+
+Le dossier de défense soutient qu’il faut distinguer :
+
+```text
+support du formulaire
+≠
+nombre d’exemplaires
+≠
+signature / mention comme actes personnels
+≠
+preuve de l’identité, de l’autorisation et du consentement
+```
+
+Il s’agit d’une **argumentation de la défense**, non d’une conclusion juridictionnelle acquise.
+
+➡️ [Dossier public préparé pour l’audience du 14 septembre](dossier-ta-bastia-2026-09-14.md)
+
+## Présence physique et complétions avant 18 heures
+
+La présence personnelle de Jean Hugues Noël Robert à la préfecture le 11 septembre vers **12 h 10**, ainsi que la délivrance d’un reçu provisoire, sont documentées.
+
+Le candidat rapporte qu’un agent masculin, distinct d’Adrien Vidal, lui a indiqué oralement que deux documents relatifs au mandataire financier n’avaient pas été produits. Il rapporte avoir récupéré les imprimés, les avoir remplis et les avoir transmis afin de démontrer sa coopération.
+
+Deux traces indépendantes consolident la suite de cette séquence :
+
+- **14:14:39** — transmission des documents relatifs au mandataire financier ;
+- **16:14:05** — réponse humaine du Bureau des élections : « J’accuse réception des documents. »
+
+Le candidat rapporte parallèlement qu’aucun agent ne lui a proposé d’imprimer son propre CERFA afin qu’il puisse y apposer sa signature manuscrite sur place. Ce point reste `reported` tant qu’il n’est pas corroboré indépendamment.
+
+Question ouverte :
+
+> **Quelles insuffisances ont été signalées comme complétables avant 18 h, lesquelles ne l’ont pas été, et selon quels critères ?**
+
+➡️ [Chronologie probatoire](investigation/chronology.md)  
+➡️ [Matrice — Q16 et Q17](investigation/knowledge-matrix.md)
+
+## La vidéo de 17:57:55
+
+Le 11 septembre à **17:57:55**, un courriel intitulé « Élections sénatoriales 2026 – déclaration vidéo complémentaire » a été envoyé au Bureau des élections avec un lien vers une vidéo enregistrée avec Laurence Vernerey.
+
+La vidéo était invoquée comme **preuve** de l’identité, de la démarche, de l’autorisation et du consentement, et non comme remplacement d’une formalité.
+
+État documentaire :
+
+```text
+envoi à 17:57:55
+    = établi
+
+réception côté préfecture avant 18 h
+    = ouverte
+
+présence dans l’inventaire initial Télérecours à 18:16
+    = absence établie
+
+transmission ultérieure au TA avant décision
+    = ouverte
+
+visionnage par la formation de jugement
+    = ouvert
+```
+
+➡️ [Index des sources](investigation/sources.md)
+
+## Handicap de la remplaçante
+
+La défense a invoqué une situation de handicap reconnue de Laurence Vernerey ainsi que la décision du Conseil d’État du **14 mai 2021, n° 445497 et 445540**.
+
+Cette jurisprudence admet, dans le cadre municipal qu’elle tranche, qu’un handicap empêchant personnellement une signature ou une mention manuscrite puisse permettre l’intervention d’un tiers à la demande de l’intéressé, dès lors que son consentement éclairé est établi.
+
+Source officielle :  
+https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2021-05-14/445497
+
+La défense a expressément reconnu que le cas de 2026 n’était pas identique à celui de 2021. Le jugement du 14 septembre ne développe pas cet argument dans sa motivation. Cela ne suffit pas à démontrer qu’il aurait été ignoré : un autre défaut peut avoir été regardé comme suffisant.
+
+➡️ [Reality Case — situation de handicap et écart capacitaire](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md)
+
+## Questions encore ouvertes
+
+L’enquête conserve notamment comme ouvertes :
+
+1. la réception côté préfecture du courriel/vidéo de 17:57:55 avant 18 h ;
+2. sa transmission éventuelle au Tribunal administratif ;
+3. l’identification de l’entrée Sagace « Réception d’une lettre » ;
+4. l’heure exacte de mise à disposition du jugement ;
+5. l’inventaire complet des pièces initiales et éventuellement ultérieures de la préfecture ;
+6. l’existence d’une trace séparée de l’audience ;
+7. les critères ayant conduit à demander certaines complétions avant 18 h et pas d’autres.
+
+Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorable.
+
+## Documents de référence
+
+### Pour le statut et l’enquête
+
+- [Dossier canonique Sénatoriales 2026](README.md)
+- [Chronologie probatoire](investigation/chronology.md)
+- [Matrice des connaissances](investigation/knowledge-matrix.md)
+- [Index des sources](investigation/sources.md)
+- [Dossier public au 14 septembre](dossier-ta-bastia-2026-09-14.md)
+
+### Pour l’identité et les représentations
+
+- [Baron Mariani — fiche de vérification pour les médias](../notice_baron_mariani_medias.md)
+- [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
+- [Registre des identités publiques](../../identity/public-identity-registry.md)
+- [Registre des représentations d’identité](../../identity/representations/README.md)
+
+### Pour ce que la candidature entendait présenter
+
+- [Profession de foi / présentation publique — candidature non enregistrée](profession_de_foi_2026.md)
+- [Trail — Une Corse capable](../trails/une_corse_capable.md)
+- [Déclaration de continuité électorale du 17 septembre](declaration_continuite_electorale_2026-09-17.md)
+
+## Contact presse
+
+**Jean Hugues Noël Robert — Baron Mariani**  
+**jhr@baronsmariani.org**
+
+Pour une demande de vérification ou de correction, indiquer si possible l’URL, la formulation exacte concernée et la date de consultation.
