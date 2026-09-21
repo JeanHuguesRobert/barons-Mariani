@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — index des sources de l'enquête"
-date: "2026-09-18"
+date: "2026-09-21"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -182,16 +182,51 @@ Limites :
 
 ## 9. Témoignage direct de Jean Hugues Noël Robert
 
-Certains éléments matériels de l'audience ne sont pas encore reliés à une pièce indépendante suffisante.
+Certains éléments matériels ne sont pas encore reliés à une pièce indépendante suffisante.
 
 Ils peuvent être conservés avec le statut `reported`, notamment :
 
 - remise d'une feuille manuscrite au greffier à l'ouverture de l'audience ;
-- contenu général de certains arguments oraux.
+- contenu général de certains arguments oraux ;
+- lors de la présence en préfecture le 11 septembre, indication orale par un agent masculin distinct d'Adrien Vidal selon laquelle deux documents relatifs au mandataire financier manquaient ;
+- récupération et remplissage de ces imprimés afin de répondre à cette demande ;
+- absence, selon le témoignage de Jean Hugues Noël Robert, de proposition d'imprimer le CERFA de sa propre déclaration pour lui permettre d'y apposer immédiatement sa signature manuscrite sur place.
 
-Une concordance ultérieure avec une pièce du greffe peut faire évoluer leur statut.
+Les deux derniers éléments doivent être lus avec les traces indépendantes suivantes : transmission des documents du mandataire financier à 14:14:39 et accusé humain du BEDL à 16:14:05. Ces courriels établissent la complétion et sa réception, mais pas à eux seuls le contenu exact de l'échange oral qui l'a déclenchée.
 
-## 10. Principe de provenance
+Une concordance ultérieure avec une pièce de la préfecture, du greffe ou un témoignage indépendant peut faire évoluer le statut de ces assertions.
+
+## 10. Reproduction publique du jugement découverte le 21 septembre
+
+Une reproduction en texte intégral du jugement joint n° 2601714 et 2601715 du 14 septembre 2026 a été retrouvée le 21 septembre par recherche indépendante sur Pappers Justice :
+
+`https://justice.pappers.fr/decision/da1b94c673df9fc294f9d97ddb30e5040ce11b26`
+
+Provenance :
+
+- Pappers Justice est un rééditeur tiers, non le Tribunal administratif ;
+- cette découverte n'est pas une transmission nouvelle du TA ;
+- le texte reproduit permet néanmoins de confronter plusieurs éléments déjà présents dans les échanges et Sagace.
+
+Éléments désormais consolidés par cette reproduction :
+
+- audience à 15:00 ;
+- clôture de l'instruction à 15:15 ;
+- note en délibéré enregistrée à 15:49 ;
+- mention d'« observations écrites et orales » de M. Robert ;
+- identité du greffier signataire : R. Longinotti ;
+- mise à disposition du jugement le 14 septembre, sans heure précisée.
+
+Éléments que cette reproduction ne résout pas :
+
+- l'identité de la « Réception d'une lettre » Sagace ;
+- l'heure de cette lettre ;
+- l'heure exacte de mise à disposition du jugement ;
+- l'inventaire complet des pièces de la saisine ;
+- l'existence de pièces préfectorales transmises ultérieurement ;
+- la réception et la transmission éventuelle du courriel/vidéo de 17:57:55.
+
+## 11. Principe de provenance
 
 Pour toute assertion importante :
 
