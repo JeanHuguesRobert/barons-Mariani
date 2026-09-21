@@ -93,6 +93,25 @@ Une fermeture ne doit pas être attribuée à une « Machine à Empêcher » san
 
 Une ouverture ne doit pas être attribuée à une « Machine à Explorer » sans facilitateur ou capacité identifiable.
 
+### 3.1 Gradation contrefactuelle
+
+La matrice ne doit pas confondre **conséquence contrefactuelle** et **ignorance totale**.
+
+~~~text
+non observable
+≠ inconnaissable
+
+incertain
+≠ hypothèses équiprobables
+~~~
+
+Lorsqu'une branche a été explicitement recherchée, que l'agent avait la capacité de l'emprunter et qu'une bifurcation proche est identifiable, le contrefactuel peut être **fortement contraint**. La confiance décroît ensuite à mesure que la chaîne comporte de nouveaux événements ou facteurs intermédiaires.
+
+Ce principe interdit deux excès :
+
+- certifier un futur qui n'a pas eu lieu ;
+- transformer par prudence excessive toute inférence contrefactuelle en `UNKNOWN`.
+
 ## 4. Matrice v0.1
 
 | Date | Domaine | Événement observé | État | Possible / capacité concerné | Acteur ou mécanisme observable | Conséquence effectivement observée | Statut causal | Sources / preuve | Prochaine sonde |
@@ -127,6 +146,38 @@ Une ouverture ne doit pas être attribuée à une « Machine à Explorer » sans
 | été 2024 | vie / santé / institutions | période entre la campagne et le 17 septembre | `UNKNOWN` | ensemble des possibles personnels, sociaux, médicaux, administratifs | non reconstruit | corpus actuellement insuffisant | **zone interdite à la narration libre** | Carte ML v0.5 | chronologie jour/semaine, sources contemporaines |
 | 2024-09-17 | vie | décès par suicide | — | issue terminale observée | causalité multifacteur à enquêter | décès | aucune ligne antérieure ne doit être promue seule en cause | Carte ML v0.5 + sources dédiées | enquête contradictoire, chronologie été 2024 |
 | 2024-09-27 | politique / droit | rejet 2024-6309 AN comme irrecevable, sans examen au fond | `CLOSE` (procédural, posthume) | obtenir un examen au fond de ce recours électoral | règle procédurale du contentieux électoral | recours rejeté sans examen des griefs au fond | fermeture procédurale documentée ; **postérieure au décès** | décision CC 2024-6309 AN | distinguer cette fermeture de toute causalité pré-17 septembre |
+
+## 4.1 Branche contrefactuelle — Villa Arson 2024
+
+Le rejet de la réintégration permet de représenter une branche non advenue sans la confondre avec un événement observé.
+
+~~~text
+OBSERVÉ / RAPPORTÉ
+8 mars 2024
+→ candidature de réintégration en quatrième année
+
+puis
+→ rejet rapporté
+→ CLOSE de la branche Villa Arson
+~~~
+
+Contrefactuels gradués :
+
+| Niveau | Proposition | Qualification actuelle |
+|---|---|---|
+| proche | si acceptée, Marie-Louise aurait effectivement repris la quatrième année à la Villa Arson | **fortement contraint** : la candidature vise précisément cette action |
+| intermédiaire | cette reprise aurait profondément modifié son environnement de formation, son rythme, son réseau et ses perspectives des mois suivants | **fortement plausible**, sous réserve des conditions concrètes de reprise |
+| lointain | cette bifurcation aurait substantiellement augmenté la probabilité qu'elle soit encore vivante après septembre 2024 | **HYPOTHESIS-JHR**, substantielle mais plus incertaine ; à confronter aux autres facteurs |
+
+La troisième proposition ne doit être ni promue en `FACT`, ni dissoute dans un `UNKNOWN` sans contenu. Elle constitue précisément le type de **contrefactuel borné et gradué** que la Possible Matrix doit permettre d'étudier.
+
+Prochaines sondes discriminantes :
+
+- décision de rejet, date, formulation et motif ;
+- éléments établissant la place de la Villa Arson dans les projets exprimés par Marie-Louise ;
+- conditions concrètes qu'aurait impliquées une reprise : logement, ressources, calendrier, réseau pédagogique ;
+- autres branches réellement ouvertes après le rejet ;
+- littérature et comparateurs permettant d'estimer l'effet protecteur éventuel d'une reprise de formation et d'un environnement social/professionnel structurant, sans supposer une cause unique.
 
 ## 5. Premiers enseignements méthodologiques
 
