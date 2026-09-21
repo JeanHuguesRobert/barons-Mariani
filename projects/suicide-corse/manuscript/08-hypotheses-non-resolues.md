@@ -1,5 +1,5 @@
 ---
-title: "Hypothèses non résolues — édition du 17 septembre 2026"
+title: "Hypothèses non résolues — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-15"
 last_modified_at: "2026-09-21"
@@ -34,9 +34,9 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ---
 
 
-# Hypothèses non résolues — édition du 17 septembre 2026
+# Hypothèses non résolues — état au 21 septembre 2026
 
-L'édition anniversaire du 17 septembre 2026 est une carte datée, pas une clôture. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi à cette date. Il applique le gate épistémique posé par le chantier éditorial :
+Le numéro 2 est une carte datée, pas une clôture de l'enquête. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi à cette date. Il applique le gate épistémique posé par le chantier éditorial :
 
 ```text
 TRACE / observation
