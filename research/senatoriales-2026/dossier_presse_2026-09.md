@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.5"
+version: "1.6"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -18,6 +18,8 @@ source_documents:
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
   - "research/senatoriales-2026/investigation/sources.md"
+  - "research/senatoriales-2026/media/representations.yml"
+  - "research/senatoriales-2026/media/contacts.yml"
   - "research/notice_candidature_senatoriales_2026_medias.md"
   - "research/notice_baron_mariani_medias.md"
   - "identity/public-identity-registry.md"
@@ -255,6 +257,32 @@ Pour le statut électoral :
 > Merci de remplacer « candidature retirée » par « enregistrement de la déclaration de candidature refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre 2026 », aucun retrait volontaire n’étant documenté.
 
 Ces deux corrections sont indépendantes : un article peut être exact sur l’identité et inexact sur le statut, ou inversement.
+
+## Registre médiatique longitudinal
+
+Les publications et interactions de presse sont désormais suivies dans un registre séparé :
+
+➡️ [Registre médiatique — Sénatoriales 2026](media/README.md)
+
+Il permet de distinguer notamment :
+
+```text
+publication observée
+≠ contact avec une rédaction
+≠ brouillon non envoyé
+≠ correction demandée
+≠ correction obtenue
+```
+
+Parmi les premières traces enregistrées figurent notamment :
+
+- l'article de Corse Net Infos du 11 septembre, qui distinguait correctement dépôt et enregistrement définitif ;
+- l'article d'Alta Frequenza du 11 septembre, avec les formulations « pas vraiment annoncée » et « pseudonyme de Baron Mariani » ;
+- RCF Corsica et País Nòstre le 15 septembre, qui continuaient à présenter Jean Hugues Robert comme candidat en lice après le jugement du 14 ;
+- l'agrégateur NosParlementaires, qui affiche « candidature retirée le 19 septembre 2026 », alors qu'aucun retrait volontaire n'est documenté dans le Corpus ;
+- un courriel reçu de France 3 Corse ViaStella le 17 septembre proposant une participation à un débat « avec tous les candidats de Haute-Corse ». Jean Hugues Noël Robert indique n'y avoir pas répondu parce qu'il savait alors que l'enregistrement avait été refusé et considérait donc sa candidature comme non active.
+
+Cette dernière interaction est enregistrée comme **trace de rédaction**, non comme publication publique ni comme preuve d'une intention.
 
 ## Protocole de rectification presse
 
