@@ -4,7 +4,7 @@ subtitle: "Parcours public pour comprendre l’Autonomie de Capacité, son conte
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-17"
-version: "1.0"
+version: "1.1"
 status: "public trail — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -118,11 +118,16 @@ Le parcours principal peut ensuite bifurquer selon la question du lecteur.
 
 ### C. Mise à l’épreuve institutionnelle et électorale en 2026
 
-- [**Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani**](../notice_candidature_senatoriales_2026_medias.md) — dossier documentaire public de la candidature.
-- [**Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026**](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md) — chronologie et questions juridiques relatives au refus d’enregistrement.
-- [**Situation de handicap et écart capacitaire — Reality Case sénatoriales 2026**](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) — lecture capacitaire d’une procédure réelle, distincte du dossier contentieux lui-même.
+- [**Sénatoriales 2026 — dossier canonique**](../senatoriales-2026/README.md) — point d'entrée spécialisé pour la déclaration déposée, le refus d'enregistrement, le contentieux et l'enquête documentaire postérieure.
+- [**Sénatoriales 2026 — fiche de vérification pour les médias**](../notice_candidature_senatoriales_2026_medias.md) — état public corrigible destiné notamment à éviter la confusion entre dépôt, refus d'enregistrement et retrait volontaire.
+- [**Chronologie probatoire**](../senatoriales-2026/investigation/chronology.md) — événements, heures et statuts de preuve.
+- [**Matrice des connaissances**](../senatoriales-2026/investigation/knowledge-matrix.md) — questions résolues, partielles et encore ouvertes.
+- [**Dossier TA Bastia — photographie au 14 septembre 2026**](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md) — état de la défense au moment de l'audience ; ne pas le réécrire à la lumière des découvertes ultérieures.
+- [**Situation de handicap et écart capacitaire — Reality Case sénatoriales 2026**](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) — lecture capacitaire d'une procédure réelle, distincte du dossier contentieux lui-même.
 
-Ces documents décrivent une situation réelle et évolutive. Ils doivent être lus selon leur statut propre : une pièce contentieuse, une observation documentaire et une interprétation doctrinale ne valent pas la même chose.
+Au 21 septembre, l'état canonique est : **déclaration déposée le 11 septembre ; enregistrement refusé après le jugement du 14 septembre ; aucun retrait volontaire documenté**. L'enquête reste notamment ouverte sur la réception et la transmission du courriel/vidéo de 17:57:55 et sur la différence de traitement entre les complétions effectivement demandées avant 18 h et celles qui n'ont pas été proposées selon le témoignage du candidat.
+
+Ces documents décrivent une situation réelle et évolutive. Ils doivent être lus selon leur statut propre : une pièce contentieuse, une observation documentaire, un témoignage direct et une interprétation doctrinale ne valent pas la même chose.
 
 ### D. De l’Autonomie de Capacité à la gouvernance démocratique de l’IA
 
