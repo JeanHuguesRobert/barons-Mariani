@@ -92,9 +92,11 @@ Le gel clôt cette édition, sans clôturer l'enquête ni constituer une revue c
 
 **Règle post-gel :** toute correction substantielle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
 
+Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`](../journals/2026-09-21-n2-bouclage-et-gel.md).
+
 ---
 
-Aucune autre édition figée n'est encore enregistrée.
+Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus. La préparation du numéro suivant est suivie par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84), sans sommaire ni date imposés par avance.
 
 Une édition effectivement gelée devra recevoir sa propre identité stable et référencer au minimum :
 
