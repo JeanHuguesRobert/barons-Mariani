@@ -1,17 +1,24 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-edition-2026-09-20-n2
-status: plan-open
-render_ready: false
+status: render-candidate
+render_ready: true
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
+edition_label: "Numéro 2 — bouclage éditorial du 21 septembre 2026"
 
 source_manifest: ../corpus.yml
 writing_brief: book-2026-09-20-n2-writing-brief.md
 editorial_decisions: book-2026-09-20-n2-editorial-decisions.md
 current_collective_update: ../../../research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md
 related_issue: 81
+
+editorial_close:
+  decision: "human-authorized"
+  decided_by: "Jean Hugues Noël Robert"
+  decided_at: "2026-09-21T07:00+02:00"
+  effect: "content selection closed; render and technical freeze still require fresh artifact verification"
 
 edition:
   number: 2
@@ -30,6 +37,12 @@ editorial_freedom:
   preferred_composition: "double_helix"
   human_editorial_decisions_override_agent_defaults: true
 
+counterfactual_policy:
+  rule: "Non observable does not mean unknowable; grade strongly constrained counterfactuals instead of collapsing them into UNKNOWN."
+  confidence_decay: "Confidence decreases as intermediate events and causal links are added."
+  dogfood_case: "Marie-Louise / Villa Arson, March 2024"
+  human_decision: "D9"
+
 structural_center:
   sequence:
     - "Machine à Empêcher"
@@ -40,6 +53,20 @@ structural_center:
     Detect configurations that reduce effective capacity; keep the Map open
     by exploring alternatives and objections; identify factors of conversion;
     then test whether effective capacity is actually restored or created.
+
+closing_updates:
+  marie_louise:
+    - ../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    - ../../memory/marie-louise/possible_matrix.md
+    - ../../memory/marie-louise/witnesses/README.md
+  senatoriales_2026:
+    - ../../research/senatoriales-2026/README.md
+    - ../../research/senatoriales-2026/investigation/chronology.md
+    - ../../research/senatoriales-2026/media/README.md
+    - ../../research/notice_candidature_senatoriales_2026_medias.md
+  collective:
+    - ../../research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md
+    - ../../research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
 
 hybrid_layers:
   book:
@@ -247,14 +274,39 @@ continuations:
   policy: "Open work remains owned by its smallest sufficient locality."
   do_not_inherit_automatically: true
 
-chapters: []
+chapters:
+  - ../manuscript/00-ouverture.md
+  - ../manuscript/01-marie-louise.md
+  - ../manuscript/06-vivre-transmettre.md
+  - ../manuscript/02-fermeture-des-possibles.md
+  - ../manuscript/07-corse-capacite-dormante.md
+  - ../manuscript/03-machine-a-empecher.md
+  - ../manuscript/11-impunite-par-obscurite.md
+  - ../manuscript/04-realiser-impossible.md
+  - ../manuscript/12-carnet-de-serendipite.md
+  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+  - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+  - ../manuscript/09-test-invariance-echelle.md
+  - ../manuscript/08-hypotheses-non-resolues.md
+  - ../manuscript/18-le-reel-repond-2026-09-21.md
+  - ../manuscript/14-le-dieu-de-leau-texte-integral.md
+  - ../manuscript/15-la-parole-de-marie-louise.md
+  - ../manuscript/17-genealogie.md
+  - ../manuscript/chronologie.md
+  - ../manuscript/annuaire.md
+  - ../manuscript/13-proverbes-epigraphes.md
+  - ../manuscript/16-continuations.md
+  - ../manuscript/17-appel-a-temoignages.md
+  - ../manuscript/19-ours.md
+
 chapters_note: >
-  This plan intentionally does not inherit the anniversary chapter list.
-  Renderable chapter units will be selected, rewritten, split, merged or newly
-  created from current Corpus material after composition review.
+  Editorial selection closed by explicit human decision on 2026-09-21.
+  The order intentionally reuses current manuscript units in a double-helix
+  composition instead of preserving the anniversary edition sequence.
 
 outputs:
   required_when_render_ready: [html, pdf, epub]
+  status: "render required before technical freeze"
   masthead_required: true
   masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
   technical_manifest: required
