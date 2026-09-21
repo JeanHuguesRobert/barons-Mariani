@@ -2,6 +2,7 @@
 title: La Machine à Empêcher
 author: Jean Hugues Noël Robert
 date: '2026-09-09'
+last_modified_at: '2026-09-21'
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -73,10 +74,16 @@ L'enquête doit donc pouvoir écrire simultanément :
 ```text
 ce mécanisme a réduit telle capacité avec tel niveau de preuve
 ET
-nous ne savons pas quel aurait été le résultat final en son absence
+le résultat contrefactuel n'est pas directement observable
+MAIS
+sa plausibilité peut parfois être fortement contrainte par les faits
 ```
 
-Cette discipline est particulièrement nécessaire lorsque l'enquête touche à Marie-Louise. La reconstruction des capacités ouvertes, fragilisées, fermées ou rouvertes ne doit jamais être transformée rétrospectivement en récit déterministe.
+La rigueur n'impose donc pas un agnosticisme uniforme. Elle impose une **gradation** : plus la bifurcation est proche, explicitement recherchée et matériellement praticable, plus le contrefactuel peut être informatif ; plus on ajoute de maillons, plus l'incertitude augmente.
+
+Le cas Villa Arson fournit ici un Reality Case concret : candidature explicite de Marie-Louise à une réintégration en quatrième année, rejet rapporté, et affirmation de son père selon laquelle elle aurait effectivement repris la formation si elle avait été admise. Ce premier maillon est fortement contraint. L'hypothèse plus lointaine selon laquelle cette branche aurait substantiellement augmenté ses chances de survie doit être étudiée comme hypothèse forte, sans être ni certifiée ni réduite à une ignorance indifférenciée.
+
+Cette discipline est particulièrement nécessaire lorsque l'enquête touche à Marie-Louise. La reconstruction des capacités ouvertes, fragilisées, fermées ou rouvertes ne doit pas être transformée rétrospectivement en récit déterministe ; elle ne doit pas davantage être vidée de sa valeur explicative par prudence excessive.
 
 ## De la Machine à Explorer à la Machine à Rendre Capable
 
