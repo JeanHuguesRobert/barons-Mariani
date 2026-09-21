@@ -511,50 +511,72 @@ Cette **non-oblitération** ne donne cependant à personne le droit de fabriquer
 
 Cette règle vaut notamment pour tout futur Twin documentaire consacré à Marie-Louise : permettre d’interroger ses traces, non prétendre être Marie-Louise.
 
-# 13. 2026 — une ouverture
+# 13. 2026 — une ouverture devenue événement documenté
 
-Au moment où cette carte est rédigée, Jean Hugues Noël Robert prépare sa candidature aux élections sénatoriales de Haute-Corse du 27 septembre 2026.
+Depuis la rédaction initiale de cette Carte, le projet est devenu un événement
+documenté.
 
-Cette candidature n’est pas encore déposée. Elle ne constitue donc pas encore un nouvel événement électoral documenté, mais un projet en cours.
+Jean Hugues Noël Robert a déposé le 11 septembre 2026 une déclaration de
+candidature aux élections sénatoriales de Haute-Corse du 27 septembre. La
+préfecture a saisi le Tribunal administratif de Bastia ; une audience s'est tenue
+le 14 septembre et l'enregistrement de la déclaration de candidature a ensuite
+été refusé. **Aucun retrait volontaire de candidature n'est documenté dans le
+Corpus à ce jour.**
 
-Elle pose néanmoins une question nouvelle :
+Cette séquence impose désormais de distinguer explicitement :
 
-> **Quelle place donner désormais à Marie-Louise dans la continuation d’une histoire politique dont elle fut elle-même actrice ?**
-
-En 2017, Marie-Louise était suppléante de son père. En 2022 puis en 2024, elle était devenue candidate titulaire et son père suppléant.
-
-Depuis le 17 septembre 2024, cette relation électorale ne peut évidemment plus se poursuivre sous la même forme.
-
-La réponse à cette question relève encore du présent. Elle ne doit donc pas être décrite ici comme si elle appartenait déjà à l’histoire.
-
-Elle sera documentée **après l’Act**, à partir de ce qui aura effectivement été fait, déposé, publié et présenté.
-
-    intention présente
+    intention de candidature
     ≠
-    événement futur supposé
+    dépôt matériel d'une déclaration
     ≠
-    trace produite après l’action
+    réception administrative
+    ≠
+    saisine du juge
+    ≠
+    enregistrement juridique de la candidature
+    ≠
+    projection de la candidature dans des publications publiques
+    ≠
+    retrait volontaire
 
-La Carte s’arrête donc, provisoirement, à cet endroit. Elle rencontre ici le présent.
+La candidature de 2026 n'est donc plus un événement futur supposé. Elle devient
+un **Reality Case documentaire** dont le statut doit rester décrit avec les
+termes les plus précis disponibles : déclaration déposée, puis enregistrement
+refusé à la suite du jugement.
 
-Jusqu’à cette date, elle pouvait principalement demander :
+Elle pose toujours une question distincte, qui concerne Marie-Louise :
 
-> **Qu’a fait Marie-Louise ?**
+> **Quelle place donner désormais à Marie-Louise dans la continuation d'une histoire politique dont elle fut elle-même actrice ?**
 
-À partir d’ici apparaît une autre question :
+En 2017, Marie-Louise était suppléante de son père. En 2022 puis en 2024, elle
+était devenue candidate titulaire et son père suppléant.
 
-> **Que peut-on encore faire avec ce qu’elle nous a laissé, sans prétendre parler ni décider à sa place ?**
+Depuis le 17 septembre 2024, cette relation électorale ne peut évidemment plus
+se poursuivre sous la même forme.
+
+La règle posée dans la version antérieure de cette Carte était de documenter
+l'événement **après l'Act**, à partir de ce qui aurait effectivement été fait,
+déposé, publié et présenté. Cette condition est désormais remplie pour le dépôt
+et le contentieux initial ; l'enquête postérieure reste ouverte.
+
+La Carte peut donc maintenant demander à la fois :
+
+> **Qu'a fait Marie-Louise ?**
+
+et :
+
+> **Que peut-on encore faire avec ce qu'elle nous a laissé, sans prétendre parler ni décider à sa place ?**
 
 Cette question ouvre plusieurs continuations :
 
-- la candidature de 2026 ;
-- la conservation et l’étude de ses œuvres ;
+- le dossier sénatorial 2026 et son enquête documentaire ;
+- la conservation et l'étude de ses œuvres ;
 - le Twin documentaire Marie-Louise ;
 - *Suicide Corse* ;
-- l’enquête sur la fermeture et la réouverture des possibles.
+- l'enquête sur la fermeture et la réouverture des possibles.
 
-**La suite n’est plus une archive.  
-Elle reste à produire.**
+**La suite n'est plus seulement une archive.  
+Elle se produit, laisse des traces, et doit rester corrigible.**
 
 # 14. Carte des sources
 
