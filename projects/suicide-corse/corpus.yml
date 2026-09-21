@@ -186,9 +186,11 @@ projections:
     state: frozen
   numero_2:
     issue: 81
-    state: working
+    drafting_issue: 82
+    state: render-candidate
     editorial_date: "2026-09-20"
-    civil_publication_deadline: "before local sunrise in Corte on 2026-09-21"
+    editorial_close: "2026-09-21T07:00+02:00 — explicit human authorization"
+    civil_publication_deadline: "window closed; render/freeze verification remains"
     contract: projects/suicide-corse/projections/book-2026-09-20-n2.yml
     rule: "Reproject the current Corpus freely; the previous edition constrains provenance and coverage, not form."
   screenplay:
