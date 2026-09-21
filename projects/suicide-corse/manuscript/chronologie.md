@@ -116,6 +116,8 @@ Chaque repère porte, quand le fonds documentaire le distingue, son statut épis
 
 **2026 — ouverture de l'enquête et candidature sénatoriale de l'auteur.** `FACT`. Élargissement à une lecture territoriale, à la mémoire directe de Marie-Louise et à un appel public à témoignages, pour le deuxième anniversaire de sa mort. Le 14 septembre 2026, l'enregistrement de la candidature sénatoriale de l'auteur est refusé (voir « Le Réel répond »).
 
+**21 septembre 2026 — six sollicitations préparées.** `TRACE` d'enquête. Au moment du bouclage du numéro 2, six sondes ciblées sont prêtes mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann Brillais, Maëva Guillery et Maéva Lecoq. Leur envoi est prévu après publication ; leurs réponses éventuelles appartiendront aux éditions suivantes.
+
 ## Ce que cette chronologie ne fait pas
 
 Elle ne comble aucune lacune par inférence narrative. Là où le Corpus indique `UNKNOWN`, ce chapitre le conserve tel quel. Les lacunes les plus prioritaires — réseau amical 2009-2016, été 2024 — restent des chantiers actifs : voir les Continuations et l'Annuaire.
