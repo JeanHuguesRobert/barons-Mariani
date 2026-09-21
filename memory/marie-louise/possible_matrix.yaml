@@ -1056,7 +1056,7 @@ events:
     precision: day
   domain:
   - education
-  observation: Marie-Louise transmet un lien Taïga et un identifiant pour un concours d'entrée en quatrième année.
+  observation: Marie-Louise transmet un lien Taïga et un identifiant pour une candidature de réintégration en quatrième année à la Villa Arson.
   dynamics:
   - open
   - capacity
@@ -1064,13 +1064,14 @@ events:
   - p:higher-art-education
   actors_or_mechanisms:
   - démarche de candidature
-  observed_outcome: Une poursuite de formation artistique supérieure est activement explorée ; l'établissement et le résultat restent inconnus.
+  - Villa Arson
+  observed_outcome: Une réintégration en quatrième année à la Villa Arson est activement tentée ; le résultat institutionnel primaire n'est pas encore présent dans le Corpus.
   causal:
     status: unknown
     counterevidence: []
     alternative_explanations: []
     prohibited_inference:
-    - Déduire l'établissement, le résultat, un lien avec Villa Arson ou une importance subjective de cette candidature.
+    - Déduire de la candidature seule son effet subjectif ou une causalité ultérieure.
   evidence:
   - ref: Gmail:18e1f184daa7c61c
     source_class: primary_artifact
@@ -1082,9 +1083,9 @@ events:
     - identifiant de candidature
     visibility: public_reference_private_content
   next_probes:
-  - objective: Identifier le concours Taïga, l'établissement et sa décision.
-    target: pièce de candidature ou réponse de l'établissement
-    expected_discriminant: Distinguer une démarche exploratoire d'une candidature instruite et de son résultat.
+  - objective: Retrouver la décision institutionnelle correspondant à la candidature.
+    target: réponse ou décision de la Villa Arson
+    expected_discriminant: Établir la date, la formulation et le motif exact du résultat.
     priority: p0
   scope_delta: narrow
   qualifiers:
@@ -1135,32 +1136,48 @@ events:
     precision: year
   domain:
   - education
-  observation: Demande de réintégration à la Villa Arson possiblement refusée, selon ASSERTION-JHR.
+  observation: Rejet de la candidature de réintégration en quatrième année à la Villa Arson, selon TESTIMONY-JHR.
   dynamics:
-  - unknown
+  - close
   possible_ids:
   - p:villa-arson
   actors_or_mechanisms:
-  - ASSERTION-JHR
-  observed_outcome: Refus rapporté, non établi par pièce institutionnelle.
+  - Villa Arson
+  - TESTIMONY-JHR
+  observed_outcome: Selon JHR, la branche de réintégration en quatrième année à la Villa Arson est fermée par un rejet ; la décision primaire reste à retrouver.
   causal:
     status: unknown
     counterevidence: []
     alternative_explanations: []
     prohibited_inference:
-    - Affirmer qu'une demande, un refus ou une fermeture ont eu lieu avant pièce primaire.
+    - Transformer la portée majeure rapportée par JHR en effet subjectif démontré.
+    - Déduire du rejet une causalité du décès.
   evidence:
-  - ref: memory/marie-louise/2024_portes_et_controles_epistemiques.md
-    source_class: corpus_derivation
+  - ref: Gmail:18e1f184daa7c61c
+    source_class: primary_artifact
     epistemic_status:
-    - unknown
+    - trace
     supports:
-    - refus rapporté
+    - candidature de réintégration en quatrième année
+    visibility: public_reference_private_content
+  - ref: TESTIMONY-JHR:2026-09-21:villa-arson-rejection
+    source_class: testimony
+    epistemic_status:
+    - testimony
+    supports:
+    - identification Villa Arson
+    - finalité de réintégration
+    - rejet rapporté
+    - portée majeure pour les futurs possibles selon JHR
     visibility: public
   next_probes:
-  - objective: Retrouver admission, interruption, demande éventuelle et décision Villa Arson.
-    target: dossier ou décision de la Villa Arson
-    expected_discriminant: Établir ou infirmer la demande et toute décision institutionnelle.
+  - objective: Retrouver la décision de rejet Villa Arson.
+    target: dossier, notification ou décision de la Villa Arson
+    expected_discriminant: Corroborer le rejet, sa date, sa formulation et son motif.
+    priority: p0
+  - objective: Identifier les futurs alternatifs encore ouverts après ce rejet.
+    target: candidatures, projets, soutiens, travail, formation, réseau
+    expected_discriminant: Mesurer la portée réelle de la fermeture sans supposer une fermeture globale.
     priority: p0
   scope_delta: narrow
   qualifiers:
