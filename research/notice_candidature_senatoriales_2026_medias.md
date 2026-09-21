@@ -4,7 +4,7 @@ subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance 
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
 last_modified_at: '2026-09-21'
-version: '0.5'
+version: '0.6'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -70,6 +70,30 @@ La déclaration de candidature déposée pour les élections sénatoriales de Ha
 > **Le Petit Parti - A Voce**
 
 Cette information a un contenu politique propre. La supprimer ou la remplacer sans explication par « sans étiquette » ne constitue pas une simple variation typographique : cela retire au lecteur une information sur la nature et les alliances de la candidature.
+
+## Antériorité dans l'espace public
+
+La candidature ne naît pas avec le dépôt légal du 11 septembre 2026.
+
+Une publication X du compte **@BaronsMariani**, datée du **1er octobre 2025 à 12:06**, annonce explicitement :
+
+> **« 2026 : nouvelle candidature sénatoriale ! »**
+
+Elle rattache déjà cette annonce à **#Pertitellu**, Corte, la démocratie directe, la culture, la nature et **#Sénatoriales2026**.
+
+Source primaire :
+
+https://x.com/BaronsMariani/status/1973328554323550549
+
+La capture communiquée le 21 septembre 2026 affiche **183 vues** ; cette valeur est un instantané, non une mesure définitive d'audience.
+
+Le dossier conserve également :
+
+- une nouvelle annonce du **12 mars 2026 à 21:07** sur `@suvranu` et `@BaronsMariani`, rapportée dans un brouillon de rectification à Corse-Matin du 16 mai ;
+- un courriel **effectivement envoyé le 24 mai 2026** à Mario Grazi / Corse Net Infos indiquant explicitement : « Je suis par ailleurs candidat sénateur en Haute-Corse » ;
+- une publication **épinglée** sur le profil `@BaronsMariani`, signalée par Jean Hugues Noël Robert comme renvoyant au document public [`Autonomia`](autonomia.md), source doctrinale de l'Autonomie de Capacité.
+
+La qualification « candidature pas vraiment annoncée » doit donc être lue avec prudence : l'existence publique de la candidature est documentée dès octobre 2025. Cela ne prouve pas que chaque rédaction en avait effectivement connaissance.
 
 ## 1. Référentiel source de la candidature déposée
 
