@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.2
+version: 0.5.3
 date: '2026-09-15'
-review_status: v0.5.2 integrates situated capability gaps, accessibility and the Machine à Rendre Capable articulation; constructive review remains welcome
+review_status: v0.5.3 adds graded constrained counterfactuals and guards against defensive agnosticism; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -142,6 +142,18 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.3 — 2026-09-21
+
+Micro-consolidation issue du Reality Case Marie-Louise / Villa Arson.
+
+Cette version :
+
+- explicite que **non observable ne signifie pas inconnaissable** ;
+- distingue l'incertitude de l'indifférenciation entre hypothèses ;
+- introduit la notion de **contrefactuel fortement contraint** lorsque l'agent recherchait explicitement une branche, disposait de la capacité de l'emprunter et que la bifurcation est proche et documentée ;
+- demande que la confiance décroisse avec la longueur de la chaîne contrefactuelle ;
+- corrige un biais méthodologique possible : une prudence excessive peut devenir un agnosticisme contre-productif qui efface des différences de plausibilité pourtant informatives.
 
 ## v0.5.2 — 2026-09-15
 
@@ -487,6 +499,25 @@ L’**Autonomie de Capacité** peut dès lors être formulée comme :
 Elle n’implique ni autarcie ni indépendance absolue. Elle vise la capacité de gouverner ses interdépendances, de conserver des alternatives et de pouvoir effectivement bifurquer.
 
 Cette définition permet de parler de **gain capacitaire** lorsqu’une intervention agrandit l’espace des actions accessibles, et de **perte de chance capacitaire** lorsqu’un mécanisme évitable réduit, par rapport à un contrefactuel raisonnable, les possibilités qu’un agent ou un territoire aurait pu effectivement exercer.
+
+Le caractère contrefactuel d'une référence n'implique pas qu'elle soit épistémiquement vide. Un futur non advenu peut être **fortement contraint** par les traces lorsque, par exemple, l'agent poursuivait explicitement cette branche, possédait les moyens de l'emprunter et qu'une décision identifiable constitue le point de bifurcation.
+
+La discipline devient :
+
+~~~text
+non observé
+≠ inconnaissable
+
+incertain
+≠ hypothèses équiprobables
+
+branche explicitement recherchée
++ capacité effective
++ bifurcation proche et documentée
+→ contrefactuel fortement contraint
+~~~
+
+Plus la chaîne comporte de descendants et de bifurcations supplémentaires, plus la confiance doit décroître. Cette gradation permet d'étudier une perte de chance capacitaire sans choisir entre deux excès symétriques : raconter librement le futur qui n'a pas eu lieu, ou déclarer toute conséquence non observée indifférenciablement `UNKNOWN`.
 
 ## 5.2. Autonomie déclarée et autonomie praticable
 
