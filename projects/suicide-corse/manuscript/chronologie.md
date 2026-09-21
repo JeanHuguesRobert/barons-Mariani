@@ -2,6 +2,7 @@
 title: "Chronologie"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-18"
+last_modified_at: "2026-09-21"
 status: draft
 language: fr
 license: "CC BY-SA 4.0"
@@ -20,6 +21,8 @@ provenance:
     - memory/marie-louise/chronology/2017-04-07-cpes-toni-casalonga.md
     - memory/marie-louise/chronology/2017-04-14-scenina-ajaccio.md
     - memory/marie-louise/carte.md
+    - memory/marie-louise/possible_matrix.md
+    - memory/marie-louise/2024_portes_et_controles_epistemiques.md
     - memory/marie-louise/formation/parcours_artistique_2016_2022.md
     - memory/marie-louise/witnesses/research-2009-2016.md
 review:
@@ -80,11 +83,17 @@ Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronolog
 
 **Avril 2021 — résidence artistique et tournage, Falguières (Gard).** `FACT` / `TRACE`. Voir l'Annuaire.
 
-**2021–2022 — Villa Arson, Nice.** `FACT` / `TRACE`. Interruption puis démarche de réintégration, avec une réponse négative rapportée par l'auteur (`THIRD-PARTY`, voir chapitre 16).
+**2021–2022 — transition Nantes → Nice / Villa Arson.** `FACT` / `TRACE` partiel. Le 8 avril 2021, le calendrier de l'auteur contient un rendez-vous intitulé « Villa Arson » ; le 14 avril, une attestation contemporaine qualifie encore Marie-Louise d'étudiante aux Beaux-Arts de Nantes ; en janvier 2022, elle prépare concrètement une installation étudiante à Nice. Le détail institutionnel de l'admission, de l'inscription, de la fréquentation et de l'interruption éventuelle reste à compléter.
 
 **2022 — première candidature titulaire documentée.** `FACT`.
 
+**11 mai 2023 — Marie-Louise indique ne plus être étudiante.** `VOICE` / `TRACE`. Ce message direct date un état déclaré ; il n'établit ni la date exacte, ni la cause, ni la forme administrative de l'interruption du cursus.
+
 **Janvier 2024 — aidance directement assumée.** `FACT` / `VOICE`. Mobilisée au chapitre 5.
+
+**8 mars 2024 — candidature à une entrée en quatrième année.** `VOICE` / `TRACE`. Marie-Louise transmet un lien Taïga et un identifiant candidat associés à un concours d'entrée en quatrième année. L'établissement, le résultat et le lien éventuel avec la Villa Arson restent `UNKNOWN`.
+
+**2024 — réintégration Villa Arson rapportée, non établie.** `TESTIMONY-JHR` / `UNKNOWN`. L'auteur rapporte une demande de réintégration suivie d'une réponse négative ; la pièce institutionnelle correspondante n'est pas encore retrouvée. Cette piste ne doit pas être confondue automatiquement avec la candidature du 8 mars.
 
 **Juin 2024 — seconde candidature titulaire et demande directe.** `FACT` / `VOICE`. Le 16 juin 2024, Marie-Louise écrit vouloir que l'auteur soit son directeur de campagne. Citée au chapitre 15.
 
