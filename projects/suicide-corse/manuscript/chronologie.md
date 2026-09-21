@@ -91,9 +91,9 @@ Chaque repère porte, quand la carte ou la couche `memory/marie-louise/chronolog
 
 **Janvier 2024 — aidance directement assumée.** `FACT` / `VOICE`. Mobilisée au chapitre 5.
 
-**8 mars 2024 — candidature à une entrée en quatrième année.** `VOICE` / `TRACE`. Marie-Louise transmet un lien Taïga et un identifiant candidat associés à un concours d'entrée en quatrième année. L'établissement, le résultat et le lien éventuel avec la Villa Arson restent `UNKNOWN`.
+**8 mars 2024 — candidature de réintégration en quatrième année à la Villa Arson.** `VOICE` / `TRACE` / `TESTIMONY-JHR`. Marie-Louise transmet un lien Taïga et un identifiant candidat ; l'auteur précise que cette candidature visait bien sa réintégration à la Villa Arson.
 
-**2024 — réintégration Villa Arson rapportée, non établie.** `TESTIMONY-JHR` / `UNKNOWN`. L'auteur rapporte une demande de réintégration suivie d'une réponse négative ; la pièce institutionnelle correspondante n'est pas encore retrouvée. Cette piste ne doit pas être confondue automatiquement avec la candidature du 8 mars.
+**2024, après le 8 mars — candidature rejetée.** `TESTIMONY-JHR`. L'auteur témoigne que cette candidature de réintégration a été rejetée. La date et la décision institutionnelle primaire restent à retrouver. Cette réponse ferme effectivement la branche « retour en quatrième année à la Villa Arson » si le témoignage est corroboré. L'auteur la décrit comme une **fermeture majeure de futurs possibles** ; cette appréciation reste `ASSERTION-JHR` et ne vaut ni mesure de l'effet subjectif sur Marie-Louise ni causalité établie du suicide.
 
 **Juin 2024 — seconde candidature titulaire et demande directe.** `FACT` / `VOICE`. Le 16 juin 2024, Marie-Louise écrit vouloir que l'auteur soit son directeur de campagne. Citée au chapitre 15.
 
