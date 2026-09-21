@@ -4,7 +4,7 @@ subtitle: "Parcours public pour comprendre l’Autonomie de Capacité, son conte
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-17"
-version: "1.1"
+version: "1.2"
 status: "public trail — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -118,6 +118,7 @@ Le parcours principal peut ensuite bifurquer selon la question du lecteur.
 
 ### C. Mise à l’épreuve institutionnelle et électorale en 2026
 
+- [**Sénatoriales 2026 — dossier presse / page d’aiguillage**](../senatoriales-2026/dossier_presse_2026-09.md) — lecture courte du statut, de l’identité publique `Baron Mariani`, des rectifications médiatiques, des faits vérifiables et des questions ouvertes.
 - [**Sénatoriales 2026 — dossier canonique**](../senatoriales-2026/README.md) — point d'entrée spécialisé pour la déclaration déposée, le refus d'enregistrement, le contentieux et l'enquête documentaire postérieure.
 - [**Sénatoriales 2026 — fiche de vérification pour les médias**](../notice_candidature_senatoriales_2026_medias.md) — état public corrigible destiné notamment à éviter la confusion entre dépôt, refus d'enregistrement et retrait volontaire.
 - [**Chronologie probatoire**](../senatoriales-2026/investigation/chronology.md) — événements, heures et statuts de preuve.
