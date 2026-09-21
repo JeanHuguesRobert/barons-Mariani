@@ -56,7 +56,7 @@ Le numéro 2 peut donc avoir un plan, un ordre, des transitions et une prose ent
 
 Le Delta Review contrôle la **couverture et l'attention**, jamais la forme.
 
-Décisions éditoriales humaines obligatoires :
+Décisions éditoriales humaines obligatoires (D1–D9) :
 
 `projects/suicide-corse/projections/book-2026-09-20-n2-editorial-decisions.md`
 
@@ -125,6 +125,8 @@ Exemples :
 - `memory/marie-louise/works/`
 - `memory/marie-louise/witnesses/METHOD.md`
 - `research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md`
+- `research/senatoriales-2026/README.md` — état canonique du Reality Case sénatorial au bouclage
+- `research/senatoriales-2026/media/README.md` — représentations médiatiques et rectifications
 - `research/autonomia/1755.md`
 - `research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md`
 - `research/autonomia/recomposition_droites_identitaires_corse_2026-09-20.md`
@@ -139,6 +141,8 @@ Une source-note peut elle-même référencer une pièce privée ou une trace tec
 - `memory/marie-louise/possible_matrix.md`
 - `memory/marie-louise/2024_portes_et_controles_epistemiques.md`
 - `memory/marie-louise/identites.md`
+- `memory/marie-louise/2024_portes_et_controles_epistemiques.md` — Villa Arson, portes 2024 et contrefactuels gradués
+- `memory/marie-louise/possible_matrix.md` — dynamique des possibles et branches contrefactuelles
 
 Ces documents peuvent suffire pour construire le fil éditorial. Pour une assertion sensible, contestable ou décisive, redescendre si possible au Niveau 1.
 
@@ -230,6 +234,8 @@ Principes :
 - `CLOSE_local ≠ CLOSE_global` ;
 - `CLOSE_t` n'implique pas `CLOSE_t+n` ;
 - `UNKNOWN ≠ CLOSE` ;
+- un contrefactuel fortement contraint ne doit pas être vidé de son contenu au seul motif qu'il n'est pas directement observable ;
+- la confiance contrefactuelle décroît avec la longueur de la chaîne causale ;
 - une possibilité ouverte n'est pas une capacité effective ;
 - une capacité disponible n'implique pas son exercice ;
 - une trace de vie n'est pas automatiquement une trace causale relative au suicide.
