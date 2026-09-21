@@ -385,7 +385,7 @@ Cette proposition est un **programme de recherche**, pas une affirmation cliniqu
 ## 12. Prochaines sondes
 
 1. retrouver la décision institutionnelle correspondant à la candidature Villa Arson du 8 mars 2024 et documenter sa date, sa formulation et son motif exact ;
-2. retrouver les pièces Villa Arson 2021–2024, en particulier admission, interruption, éventuelle réintégration et décision ;
+2. retrouver les pièces Villa Arson 2021–2024, en particulier admission initiale, interruption, candidature de réintégration du 8 mars 2024 et décision de rejet ;
 3. documenter le chantier et le paiement attendu sans inférer un refus avant pièce ;
 4. rechercher hors Gmail l'épisode de soutien auprès de Ferdinand ;
 5. reconstruire l'été 2024 à la semaine, en recherchant **autant les ouvertures que les fermetures** ;
