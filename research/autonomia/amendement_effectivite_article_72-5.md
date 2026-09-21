@@ -1,5 +1,4 @@
 ---
-
 title: "Amendement d’effectivité — proposition de modification minimale de l’article 72-5"
 subtitle: "Nom de travail : « amendement Baron Mariani »"
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
@@ -17,18 +16,16 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 ai_assisted_by:
-
-* "ChatGPT (OpenAI)"
-* "Grok — revue adverse"
-* "Claude — revue adverse"
-  target_audience:
-* "parlementaires"
-* "juristes publicistes"
-* "société civile"
-  target_scene: "parliamentary_review"
-  document_function: "constitutional-amendment-working-note"
-  purpose: "Identifier le plus petit delta constitutionnel susceptible de faire entrer les effets réels des normes du futur article 72-5 dans leur appréciation juridique."
-
+  - "ChatGPT (OpenAI)"
+  - "Grok — revue adverse"
+  - "Claude — revue adverse"
+target_audience:
+  - "parlementaires"
+  - "juristes publicistes"
+  - "société civile"
+target_scene: "parliamentary_review"
+document_function: "constitutional-amendment-working-note"
+purpose: "Identifier le plus petit delta constitutionnel susceptible de faire entrer les effets réels des normes du futur article 72-5 dans leur appréciation juridique."
 ---
 
 # Amendement d’effectivité
