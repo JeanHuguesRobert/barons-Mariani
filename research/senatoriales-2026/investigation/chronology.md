@@ -24,7 +24,7 @@ Elle est volontairement factuelle et évolutive.
 | 12/03/2026 21:07 | nouvelle annonce de candidature sur @suvranu et @BaronsMariani | reported + contemporaneous supporting trace | mention précise dans un brouillon Gmail du 16/05 destiné à Corse-Matin ; publication primaire encore à archiver |
 | 16/05/2026 | préparation d'une demande de rectification à Corse-Matin sur l'existence d'un challenger déclaré | established | brouillon non envoyé ; distingue annonce publique et dépôt légal futur |
 | 24/05/2026 16:21 | courriel envoyé à Mario Grazi / Corse Net Infos indiquant « Je suis par ailleurs candidat sénateur en Haute-Corse » | established | information directe d'un journaliste régional plusieurs mois avant le dépôt |
-| état observé au 21/09/2026 | publication épinglée du compte @BaronsMariani renvoyant à `research/autonomia.md` | reported | état du profil signalé par Jean Hugues Noël Robert ; document GitHub sous-jacent public et vérifiable |
+| 20/05/2026 10:17 | publication X « Autonomia - 1974, 1991, 2026 - autonomie de capacité » épinglée sur @BaronsMariani | established | capture primaire communiquée le 21/09/2026 ; lien vers `https://jeanhugues.substack.com/p/autonomia` ; hashtags #suvranu #Corsica2038 #usscorsica ; 132 vues visibles sur la capture ; document doctrinal correspondant : `research/autonomia.md` |
 
 ## 10 septembre 2026
 
