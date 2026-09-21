@@ -149,15 +149,39 @@ date ultérieure exacte UNKNOWN
 → CLOSE de la branche "réintégration Villa Arson"
 ~~~
 
-Jean Hugues Robert qualifie cette fermeture d'**énorme fermeture de porte pour son futur**. Cette appréciation doit être conservée comme `ASSERTION-JHR` sur la portée de la fermeture, et non transformée sans pièce supplémentaire en mesure objective de l'effet subjectif sur Marie-Louise ou en cause du décès.
+Jean Hugues Robert qualifie cette fermeture d'**énorme fermeture de porte pour son futur**. Cette appréciation doit être conservée comme `ASSERTION-JHR`, mais elle ne doit pas être neutralisée par un usage indifférencié de `UNKNOWN`.
 
-Ce qui reste `UNKNOWN` ou à corroborer :
+Deux niveaux contrefactuels doivent désormais être distingués.
+
+**Contrefactuel proche, fortement contraint.** Marie-Louise candidate précisément pour réintégrer la Villa Arson en quatrième année. Selon Jean Hugues Robert, si elle avait été acceptée, **elle y serait allée**. Cette proposition est fortement contrainte par l'action observée elle-même : la branche n'est ni imaginaire ni reconstruite après coup, elle est explicitement recherchée par Marie-Louise au 8 mars 2024.
+
+~~~text
+acceptation Villa Arson
+→ réintégration effective en quatrième année
+= contrefactuel fortement contraint
+~~~
+
+**Contrefactuel plus lointain.** Jean Hugues Robert formule l'hypothèse qu'en cas d'acceptation et de reprise de cette trajectoire, Marie-Louise serait **probablement encore vivante** après septembre 2024. Cette proposition ne devient pas un fait observable ; elle est plus incertaine car plusieurs facteurs intermédiaires interviennent. Mais elle constitue une **hypothèse contrefactuelle substantielle et testable**, qui doit être étudiée comme telle et non rabattue sur une ignorance totale.
+
+~~~text
+réintégration Villa Arson
+→ trajectoire des mois suivants profondément différente
+→ probabilité de survie après septembre 2024 substantiellement augmentée
+= HYPOTHESIS-JHR / contrefactuel plus lointain
+~~~
+
+La discipline applicable est donc :
+
+> **Non observable ≠ inconnaissable ; incertain ≠ toutes les hypothèses se valent.**
+
+Ce qui reste à documenter ou à estimer :
 
 - date exacte du rejet ;
 - formulation exacte et motif de la décision ;
 - pièce institutionnelle correspondante ;
-- effet subjectif de ce rejet sur Marie-Louise ;
-- poids causal éventuel dans la trajectoire ultérieure.
+- traces directes de la valeur que Marie-Louise accordait à cette réintégration ;
+- alternatives effectivement accessibles après le rejet ;
+- force relative de la chaîne contrefactuelle jusqu'à septembre 2024.
 
 ### 5.3 Juin — capacité politique et coopération avec le père
 
@@ -224,8 +248,14 @@ fermeture de la branche "retour Villa Arson"
 importance "énorme" pour le futur
 = ASSERTION-JHR
 
-effet subjectif / causalité du décès
-= UNKNOWN
+acceptation → reprise effective de la Villa Arson
+= CONTREFACTUEL FORTEMENT CONTRAINT
+
+acceptation → trajectoire profondément modifiée
+= CONTREFACTUEL FORTEMENT PLAUSIBLE
+
+acceptation → Marie-Louise probablement vivante après septembre 2024
+= HYPOTHESIS-JHR / CONTREFACTUEL PLUS LOINTAIN À ÉTUDIER
 ~~~
 
 ### 6.3 Paiement d'un chantier
@@ -346,7 +376,8 @@ Cette proposition est un **programme de recherche**, pas une affirmation cliniqu
 
 - nouvelle ligne `2024-03-08` : candidature / concours quatrième année — `OPEN (tentative) + CAPACITY` ;
 - expliciter juin 2024 comme `MAINTAIN + CAPACITY` relationnel/politique, pas seulement politique ;
-- créer des entrées `UNKNOWN` pour : soutien du parrain, Villa Arson, paiement chantier ;
+- distinguer, pour la Villa Arson, le `CLOSE` rapporté du rejet et les contrefactuels gradués qu'il permet d'étudier ;
+- créer des entrées `UNKNOWN` pour les seules dimensions qui restent effectivement inconnues : date/motif primaire du rejet, soutien du parrain, paiement chantier ;
 - conserver l'été 2024 comme zone à reconstruction fine ;
 - ajouter un champ ou une note sur la **fiabilité perçue** lorsque des traces permettent de l'estimer ;
 - rechercher systématiquement `OPEN / MAINTAIN / REOPEN` en parallèle de `FRICTION / CLOSE`.
