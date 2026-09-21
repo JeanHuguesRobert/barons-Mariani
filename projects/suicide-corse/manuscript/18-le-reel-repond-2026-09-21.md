@@ -62,9 +62,9 @@ La troisième proposition n'est pas un fait observable. Elle n'est pas non plus 
 
 ## L'enquête sort du Corpus
 
-Au moment du bouclage, plusieurs sollicitations ciblées sont préparées vers des personnes ou institutions susceptibles d'apporter des souvenirs ou des traces sur le parcours de Marie-Louise. Elles doivent partir séparément de l'appel public général afin de préserver autant que possible le rappel libre et d'éviter de suggérer les réponses recherchées.
+Au moment du bouclage, **six sollicitations ciblées** sont préparées vers des personnes ou institutions susceptibles d'apporter des souvenirs ou des traces sur le parcours de Marie-Louise. Elles doivent partir séparément de l'appel public général afin de préserver autant que possible le rappel libre et d'éviter de suggérer les réponses recherchées.
 
-Les premières sondes concernent notamment la période Villa Arson, le réseau nantais et les derniers mois de 2024. Les réponses éventuelles appartiendront aux éditions suivantes : le présent numéro enregistre l'ouverture de ces sondes, pas leurs résultats futurs.
+Elles concernent Sylvain Lizon, Damien Ruvet, la Villa Arson, Céline Christmann Brillais, Maëva Guillery et Maéva Lecoq ; elles couvrent notamment la période Villa Arson, le réseau nantais et les derniers mois de 2024. Les réponses éventuelles appartiendront aux éditions suivantes : le présent numéro enregistre l'ouverture de ces sondes, pas leurs résultats futurs.
 
 Martine Brillais, aujourd'hui décédée selon Jean Hugues Robert, n'est plus une personne à solliciter. L'enquête bascule dans son cas vers la recherche de **traces déjà produites** : correspondances, photographies, textes transmis et éventuelle audition de gendarmerie.
 
