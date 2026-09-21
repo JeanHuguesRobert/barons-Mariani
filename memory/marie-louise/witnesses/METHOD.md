@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 language: fr
 status: working-paper
 date: 2026-09-17
+last_modified_at: 2026-09-21
 document_role: source
 document_kind: method-note
 visibility: public
@@ -247,19 +248,68 @@ Lorsqu'une personne indique « vous devriez aussi parler à X », conserver :
 
 Le registre doit ainsi devenir progressivement un graphe de témoins et de chemins de découverte, pas seulement une liste.
 
-## 14. Sollicitations
+## 14. Sollicitations — commencer par une sonde sobre
 
 Une sollicitation est un objet distinct du témoin lui-même.
 
-Elle doit pouvoir conserver :
+Pour un **témoin humain**, le premier contact doit, lorsque c'est compatible avec la situation, privilégier un **P0 de rappel libre** avant les questions ciblées.
+
+Principe :
+
+```text
+Carte d'enquête riche
+→ sonde P0 sobre
+→ réponse brute conservée
+→ extraction de ce qui apparaît spontanément
+→ seulement ensuite P1 / questions ciblées
+```
+
+Formules de méthode :
+
+> **La Carte peut être riche ; la sonde doit rester sobre.**
+
+> **Connaître richement. Interroger sobrement. Comparer après.**
+
+Le premier contact cherche donc à :
+
+- permettre l'identification immédiate de Marie-Louise et du demandeur ;
+- réduire le coût cognitif de réponse ;
+- accepter explicitement une réponse brève, fragmentaire ou incomplète ;
+- demander ce qui revient spontanément ;
+- préserver une ouverture à ce que le témoin juge lui-même pertinent ;
+- éviter d'énumérer prématurément les faits, catégories ou hypothèses qui constituent les discriminants de l'enquête.
+
+Cette retenue n'est pas une dissimulation trompeuse. Elle protège la valeur informative du rappel spontané.
+
+> **Masquer le discriminant ; ne pas falsifier le Réel.**
+
+Ne jamais fabriquer de fait, de souvenir, de prémisse ou de faux contexte pour obtenir une réponse.
+
+Une fois P0 reçu, conserver la réponse brute avant toute relance. Les niveaux suivants peuvent alors préciser dates, personnes, documents, contradictions ou discriminants particuliers.
+
+```text
+P0 = rappel libre
+P1 = thèmes larges / équilibrés
+P2 = discriminants ciblés
+P3 = reconnaissance ou confrontation explicite
+```
+
+La progression n'est pas obligatoire : une réponse P0 peut suffire, et l'ordre peut être adapté lorsque le témoin demande lui-même davantage de contexte.
+
+Pour une **institution ou un détenteur de traces**, le régime est différent. Il ne s'agit pas d'abord de tester une mémoire indépendante mais d'explorer une surface documentaire. La première demande peut donc être large : demander quelles catégories de pièces sont encore conservées, puis obtenir copies, inventaires, références ou service détenteur sans préjuger de ce qui existe.
+
+Une sonde ne doit pas être si étroite que le Réel ne puisse répondre qu'aux questions déjà imaginées par l'enquêteur.
+
+Chaque sollicitation doit pouvoir conserver :
 
 - date ;
 - canal ;
 - objet ;
+- niveau de sonde (`P0/P1/P2/P3`) lorsqu'il est pertinent ;
 - statut ;
 - résultat ;
 - éventuel suivi ;
-- nouveaux témoins indiqués.
+- nouveaux témoins ou traces indiqués.
 
 Statuts possibles :
 
