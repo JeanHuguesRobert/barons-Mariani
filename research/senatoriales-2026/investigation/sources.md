@@ -196,7 +196,61 @@ Les deux derniers éléments doivent être lus avec les traces indépendantes su
 
 Une concordance ultérieure avec une pièce de la préfecture, du greffe ou un témoignage indépendant peut faire évoluer le statut de ces assertions.
 
-## 10. Reproduction publique du jugement découverte le 21 septembre
+## 10. Traces publiques antérieures du projet de candidature
+
+### Publication X du 1er octobre 2025
+
+URL :
+
+`https://x.com/BaronsMariani/status/1973328554323550549`
+
+Capture communiquée le 21 septembre 2026 :
+
+> « 2026 : nouvelle candidature sénatoriale ! »
+
+La publication associe l'annonce à `#Pertitellu`, Corte, la démocratie directe, la culture, la nature et `#Sénatoriales2026`.
+
+Statut :
+
+- existence du post et contenu de l'annonce : **established from primary trace supplied by JHR** ;
+- date/heure visible : **1er octobre 2025, 12:06** ;
+- métrique visible au moment de la capture : **183 vues** ;
+- l'audience affichée doit être traitée comme un instantané variable.
+
+### Brouillon Corse-Matin du 16 mai 2026
+
+Brouillon Gmail non envoyé, destiné à la rédaction politique de Corse-Matin.
+
+Il indique qu'une nouvelle annonce de candidature a été publiée le **12 mars 2026 à 21:07** sur `@suvranu` et `@BaronsMariani`.
+
+Statut :
+
+- existence et contenu du brouillon : **established** ;
+- existence précise de la publication du 12 mars : **reported by contemporaneous draft**, publication primaire à archiver.
+
+### Courriel à Mario Grazi du 24 mai 2026
+
+Courriel Gmail envoyé à Mario Grazi / Corse Net Infos :
+
+> « Je suis par ailleurs candidat sénateur en Haute-Corse »
+
+Statut : **established**.
+
+Fonction : établir qu'au moins un journaliste régional a été informé directement de la candidature plusieurs mois avant le dépôt légal.
+
+### Publication épinglée `Autonomia`
+
+Jean Hugues Noël Robert indique que la publication épinglée du compte X `@BaronsMariani` porte sur :
+
+`research/autonomia.md`
+
+Statut de l'épinglage : **reported**.
+
+Statut du document GitHub : **public and established**.
+
+Fonction : documenter la disponibilité publique d'un fond programmatique substantiel lié à l'Autonomie de Capacité, distincte de la seule annonce de candidature.
+
+## 11. Reproduction publique du jugement découverte le 21 septembre
 
 Une reproduction en texte intégral du jugement joint n° 2601714 et 2601715 du 14 septembre 2026 a été retrouvée le 21 septembre par recherche indépendante sur Pappers Justice :
 
@@ -226,7 +280,7 @@ Provenance :
 - l'existence de pièces préfectorales transmises ultérieurement ;
 - la réception et la transmission éventuelle du courriel/vidéo de 17:57:55.
 
-## 11. Principe de provenance
+## 12. Principe de provenance
 
 Pour toute assertion importante :
 
