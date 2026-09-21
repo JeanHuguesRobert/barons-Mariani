@@ -169,6 +169,28 @@ possible antérieur documenté
 
 La comparaison avec d'autres territoires est particulièrement utile lorsqu'elle porte sur des ressources, contraintes et périodes suffisamment comparables. Elle constitue un élément d'enquête, non une preuve automatique de causalité.
 
+#### Gradation de plausibilité
+
+Le fait qu'un contrefactuel ne soit pas directement observable ne signifie pas qu'il soit épistémiquement vide.
+
+> **Non observable ≠ inconnaissable.**
+
+> **Incertain ≠ toutes les hypothèses se valent.**
+
+Une branche contrefactuelle peut être fortement contrainte lorsque l'acteur ou le territoire disposait effectivement des capacités nécessaires, qu'une bifurcation identifiable décidait entre deux trajectoires proches et que les comparateurs ou comportements antérieurs rendent une continuation nettement plus plausible que les autres.
+
+La confiance doit ensuite décroître à mesure que l'on ajoute des maillons :
+
+```text
+bifurcation proche et documentée
+→ contrefactuel fortement contraint
+
+cascade de descendants
+→ incertitude croissante
+```
+
+La prudence impose donc une **gradation**, pas un effacement : une simulation ou un contrefactuel ne devient pas un fait, mais il ne doit pas être ramené automatiquement à une ignorance indifférenciée lorsque les données discriminent réellement entre scénarios.
+
 ### 4 bis.2. Ne pas confondre non-réalisation et perte
 
 Tout possible non actualisé n'est pas une perte. Une branche peut avoir été irréaliste, économiquement mauvaise, incompatible avec d'autres intérêts, remplacée par une meilleure option ou abandonnée rationnellement.
