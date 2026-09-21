@@ -18,6 +18,7 @@ provenance:
     - memory/marie-louise/witnesses/CONTRIBUTION_INTAKE.md
     - memory/marie-louise/witnesses/nantes_zad_tournage.md
     - memory/marie-louise/witnesses/research-2009-2016.md
+    - memory/marie-louise/witnesses/coverage-matrix.md
     - projects/suicide-corse/manuscript/16-continuations.md
     - projects/suicide-corse/manuscript/annuaire.md
 review:
@@ -178,7 +179,7 @@ Au moment du bouclage du numéro 2, six sollicitations distinctes sont préparé
 - Sylvain Lizon — rappel libre, contexte minimal ;
 - Damien Ruvet — rappel libre ;
 - Villa Arson — demande institutionnelle large de traces et catégories de documents ;
-- Céline Christmann Brillais — souvenirs directs de juillet 2024 et existence éventuelle de traces conservées ;
+- Céline Christmann — souvenirs directs de juillet 2024 et existence éventuelle de traces conservées ;
 - Maëva Guillery — rappel libre sur la période nantaise ;
 - Maéva Lecoq — rappel libre et traces photographiques.
 
