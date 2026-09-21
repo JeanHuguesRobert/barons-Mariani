@@ -305,7 +305,8 @@ chapters_note: >
   composition instead of preserving the anniversary edition sequence.
 
 outputs:
-  required_when_render_ready: [html, pdf, epub]
+  required: [html, pdf, epub]
+  optional: []
   status: "render required before technical freeze"
   masthead_required: true
   masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
