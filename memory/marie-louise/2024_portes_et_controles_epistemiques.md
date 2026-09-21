@@ -2,7 +2,8 @@
 title: "Marie-Louise — portes, réouvertures et contrôles épistémiques (2017–2024)"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-16"
-version: "0.1"
+last_modified_at: "2026-09-21"
+version: "0.2"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -124,25 +125,39 @@ CAPACITY
 
 Ne pas convertir automatiquement l'aidance en cause de rupture scolaire ou en charge pathologique sans source supplémentaire.
 
-### 5.2 8 mars — candidature / concours d'entrée en quatrième année
+### 5.2 8 mars — candidature de réintégration en quatrième année à la Villa Arson
 
 Message direct `Gmail:18e1f184daa7c61c`, objet `concoursd'entree4èmeannée`, contenant un lien Taïga et un identifiant candidat.
 
-Ce que la trace permet d'établir :
+Ce que la trace et la précision de Jean Hugues Robert du 21 septembre 2026 permettent d'établir :
 
-- en mars 2024, Marie-Louise travaille encore à une **candidature de formation en quatrième année** ;
+- en mars 2024, Marie-Louise travaille encore à une **candidature de réintégration en quatrième année à la Villa Arson** ;
 - elle transmet spontanément cette information à son père ;
-- un futur de formation reste donc activement exploré à cette date.
+- un futur de formation à la Villa Arson est donc activement exploré à cette date.
 
-Ce qui reste `UNKNOWN` :
+Jean Hugues Robert témoigne en outre que **la candidature a été rejetée**. La décision institutionnelle primaire n'est pas encore retrouvée.
 
-- établissement exact ;
-- cursus exact ;
-- résultat ;
-- lien éventuel avec la Villa Arson ;
-- importance subjective de cette candidature.
+Séquence dynamique :
 
-État candidat : `OPEN (tentative) + CAPACITY`.
+~~~text
+8 mars 2024
+→ candidature de réintégration Villa Arson
+→ OPEN (tentative) + CAPACITY
+
+date ultérieure exacte UNKNOWN
+→ rejet rapporté par JHR
+→ CLOSE de la branche "réintégration Villa Arson"
+~~~
+
+Jean Hugues Robert qualifie cette fermeture d'**énorme fermeture de porte pour son futur**. Cette appréciation doit être conservée comme `ASSERTION-JHR` sur la portée de la fermeture, et non transformée sans pièce supplémentaire en mesure objective de l'effet subjectif sur Marie-Louise ou en cause du décès.
+
+Ce qui reste `UNKNOWN` ou à corroborer :
+
+- date exacte du rejet ;
+- formulation exacte et motif de la décision ;
+- pièce institutionnelle correspondante ;
+- effet subjectif de ce rejet sur Marie-Louise ;
+- poids causal éventuel dans la trajectoire ultérieure.
 
 ### 5.3 Juin — capacité politique et coopération avec le père
 
@@ -188,11 +203,30 @@ Aucun échange Gmail direct documentant cet épisode n'a été retrouvé dans le
 
 ### 6.2 Réintégration à la Villa Arson
 
-`ASSERTION-JHR` : une demande de réintégration aurait été refusée.
+La demande de réintégration correspond désormais à la candidature du **8 mars 2024** en quatrième année à la Villa Arson.
+
+`TESTIMONY-JHR` : cette candidature a été **rejetée**.
 
 La pièce institutionnelle de refus n'est pas encore retrouvée.
 
-Statut : `UNKNOWN / fermeture candidate à documenter`.
+Statut :
+
+~~~text
+demande de réintégration
+= TRACE + TESTIMONY-JHR
+
+rejet
+= TESTIMONY-JHR, pièce primaire recherchée
+
+fermeture de la branche "retour Villa Arson"
+= CLOSE rapporté
+
+importance "énorme" pour le futur
+= ASSERTION-JHR
+
+effet subjectif / causalité du décès
+= UNKNOWN
+~~~
 
 ### 6.3 Paiement d'un chantier
 
@@ -319,7 +353,7 @@ Cette proposition est un **programme de recherche**, pas une affirmation cliniqu
 
 ## 12. Prochaines sondes
 
-1. identifier précisément la candidature Taïga du 8 mars 2024 et son résultat ;
+1. retrouver la décision institutionnelle correspondant à la candidature Villa Arson du 8 mars 2024 et documenter sa date, sa formulation et son motif exact ;
 2. retrouver les pièces Villa Arson 2021–2024, en particulier admission, interruption, éventuelle réintégration et décision ;
 3. documenter le chantier et le paiement attendu sans inférer un refus avant pièce ;
 4. rechercher hors Gmail l'épisode de soutien auprès de Ferdinand ;
