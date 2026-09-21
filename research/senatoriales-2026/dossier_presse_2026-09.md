@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-21"
-version: "1.1"
+version: "1.2"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -23,6 +23,8 @@ source_documents:
   - "identity/public-identity-registry.md"
   - "identity/representations/README.md"
   - "research/autonomia/amendement_effectivite_article_72-5.md"
+  - "projects/suicide-corse/README.md"
+  - "projects/suicide-corse/corpus.yml"
 related_documents:
   - title: "Trail — Une Corse capable"
     path: "../trails/une_corse_capable.md"
@@ -339,6 +341,74 @@ La défense a expressément reconnu que le cas de 2026 n’était pas identique 
 
 ➡️ [Reality Case — situation de handicap et écart capacitaire](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md)
 
+## *Suicide Corse* — enquête publique, mémoire et appel à témoignages
+
+Le dossier sénatorial s’inscrit désormais aussi dans un chantier documentaire plus large du Corpus : **_Suicide Corse, ou comment réaliser l'impossible_**.
+
+Le projet se définit publiquement comme un **processus d’enquête, de mémoire et de publication réactive**. Il ne se réduit ni à un livre figé, ni à une explication déjà arrêtée du suicide de Marie-Louise.
+
+Sa discipline méthodologique distingue explicitement :
+
+```text
+trace
+≠ fait établi
+≠ parole directe
+≠ témoignage
+≠ assertion
+≠ inférence
+≠ hypothèse
+≠ inconnu
+```
+
+Le suicide ouvre l’enquête ; il ne doit pas devenir une clé rétrospective permettant de transformer automatiquement chaque difficulté, décision institutionnelle ou épisode de vie en cause certaine.
+
+Le projet cherche notamment à documenter :
+
+- le parcours, l’œuvre, les relations et les bifurcations de Marie-Louise ;
+- les institutions, dispositifs, aides, obstacles et possibilités présents dans son environnement ;
+- les mécanismes distribués susceptibles de réduire des capacités effectives ;
+- les alternatives, contournements et réouvertures possibles ;
+- les témoignages et traces encore manquants.
+
+Un **appel public à témoignages** est actif :
+
+https://suicidecorse.baronsmariani.org
+
+Point d’entrée documentaire public :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/README.md
+
+### Relation avec le dossier sénatorial 2026
+
+Le cas sénatorial 2026 est référencé dans le manifeste courant de *Suicide Corse* comme un **Reality Case documentaire**.
+
+La relation ne doit pas être inversée :
+
+```text
+dossier sénatorial 2026
+→ cas réel permettant d'observer formalités, capacités, canaux, réponses institutionnelles et propagation de l'information
+
+mais
+
+dossier sénatorial 2026
+≠ preuve causale rétroactive concernant la mort de Marie-Louise
+```
+
+Son intérêt pour l’enquête tient notamment à la possibilité d’observer, sur un cas contemporain fortement documenté, comment une procédure, ses canaux, ses délais, ses exigences matérielles et ses médiations peuvent produire ou réduire des capacités effectives.
+
+### Pourquoi en informer la presse
+
+Pour un journaliste, *Suicide Corse* fournit trois choses distinctes :
+
+1. un **contexte public** sur la démarche documentaire menée par Jean Hugues Noël Robert ;
+2. un **corpus vérifiable et corrigible** plutôt qu’un récit fermé ;
+3. un **canal d’appel à témoignages**, permettant à des personnes disposant d’une trace ou d’un souvenir pertinent de contribuer à l’enquête.
+
+La publication d’un témoignage n’est pas automatique : réception, conservation, qualification, utilisation dans l’enquête et publication sont traitées comme des opérations distinctes.
+
+➡️ [Projet *Suicide Corse* — point d’entrée canonique](../../projects/suicide-corse/README.md)  
+➡️ [Appel public à témoignages](https://suicidecorse.baronsmariani.org)
+
 ## Questions encore ouvertes
 
 L’enquête conserve notamment comme ouvertes :
@@ -369,6 +439,12 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 - [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
 - [Registre des identités publiques](../../identity/public-identity-registry.md)
 - [Registre des représentations d’identité](../../identity/representations/README.md)
+
+### Pour l’enquête *Suicide Corse*
+
+- [Projet *Suicide Corse* — enquête et publication réactive](../../projects/suicide-corse/README.md)
+- [Manifeste courant des sources et chantiers](../../projects/suicide-corse/corpus.yml)
+- [Site public et appel à témoignages](https://suicidecorse.baronsmariani.org)
 
 ### Pour ce que la candidature entendait présenter
 
