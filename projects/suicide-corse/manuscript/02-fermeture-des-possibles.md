@@ -2,6 +2,7 @@
 title: Quand les possibles se ferment
 author: Jean Hugues Noël Robert
 date: '2026-09-09'
+last_modified_at: '2026-09-21'
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -92,6 +93,16 @@ perte de chance capacitaire
 ```
 
 Cette notion ne transforme pas une possibilité perdue en causalité certaine. Elle oblige au contraire à documenter le contrefactuel, les mécanismes, les alternatives et les incertitudes.
+
+Mais documenter l'incertitude ne signifie pas effacer toute différence de plausibilité. Un contrefactuel est non observable par définition ; il n'est pas pour autant vide de connaissance.
+
+> **Non observable ≠ inconnaissable.**
+
+> **Incertain ≠ toutes les hypothèses se valent.**
+
+Lorsqu'une personne poursuit explicitement une branche, possède la capacité pratique de l'emprunter et qu'une décision identifiable ferme cette branche, la continuation immédiate peut être **fortement contrainte**. La confiance doit ensuite décroître avec la longueur de la chaîne causale.
+
+Le cas Villa Arson fournit un Reality Case particulièrement net : Marie-Louise candidate le 8 mars 2024 pour réintégrer la quatrième année ; son père témoigne que la candidature est rejetée et que, si elle avait été acceptée, elle y serait allée. Le premier contrefactuel — acceptation → reprise effective — est donc beaucoup plus contraint que des conséquences plus lointaines. L'hypothèse selon laquelle cette reprise aurait augmenté substantiellement ses chances d'être encore vivante après septembre 2024 est plus incertaine, mais elle doit être **étudiée et graduée**, non neutralisée par principe.
 
 ## Deux échelles, une même question opératoire
 
