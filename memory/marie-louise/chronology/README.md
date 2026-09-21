@@ -105,7 +105,8 @@ D'autres périodes pourront être ajoutées par notes de recherche ou paquets é
 Deux repères doivent désormais être visibles dans les projections chronologiques publiques, avec leur niveau de certitude exact :
 
 - **11 mai 2023 — statut étudiant.** Dans un message direct à son père, Marie-Louise indique explicitement ne plus être étudiante. Cette trace établit son état déclaré à cette date ; elle n'établit ni la date exacte de l'interruption de cursus, ni sa cause, ni le mécanisme administratif correspondant. Référence : `Gmail:1880b63961c02dc4`. Statut : `VOICE / TRACE`.
-- **8 mars 2024 — candidature à une entrée en quatrième année.** Marie-Louise transmet directement un lien Taïga et un identifiant candidat associés à un concours d'entrée en quatrième année. La trace établit qu'un futur de formation était activement exploré à cette date. L'établissement exact, le résultat et le lien éventuel avec la Villa Arson restent `UNKNOWN`. Référence : `Gmail:18e1f184daa7c61c`. Statut : `VOICE / TRACE`.
+- **8 mars 2024 — candidature de réintégration en quatrième année à la Villa Arson.** Marie-Louise transmet directement un lien Taïga et un identifiant candidat associés au concours d'entrée en quatrième année. Jean Hugues Robert précise le 21 septembre 2026 que cette candidature visait bien sa **réintégration à la Villa Arson**. Référence : `Gmail:18e1f184daa7c61c` + `TESTIMONY-JHR 2026-09-21`. Statut : `VOICE / TRACE / TESTIMONY-JHR`.
+- **2024, après le 8 mars — rejet de la candidature de réintégration Villa Arson.** Jean Hugues Robert témoigne que cette candidature a été rejetée. La date exacte, la formulation et la pièce institutionnelle de décision restent à retrouver. La fermeture de la branche « réintégrer la Villa Arson en quatrième année » est donc documentée à ce stade par `TESTIMONY-JHR`, non encore par la décision primaire. Jean Hugues Robert qualifie cette fermeture de **majeure pour les futurs possibles de Marie-Louise** ; cette appréciation est conservée comme `ASSERTION-JHR`, sans en déduire automatiquement un effet subjectif ni un lien causal avec le décès.
 
 Ces deux repères doivent être lus ensemble sans imposer de causalité :
 
@@ -114,11 +115,15 @@ Ces deux repères doivent être lus ensemble sans imposer de causalité :
     ≠
 cause de l'interruption connue
 
-2024-03-08 : nouvelle candidature de formation
+2024-03-08 : candidature de réintégration Villa Arson
+    ↓
+rejet rapporté par JHR
+    ↓
+CLOSE de cette branche de futur
     ≠
-réintégration Villa Arson établie
+poids subjectif démontré
     ≠
-résultat connu
+causalité du décès établie
 ~~~
 
 ## Relation avec l'Annuaire
