@@ -16,6 +16,16 @@ Cette chronologie distingue les événements eux-mêmes de la date à laquelle i
 
 Elle est volontairement factuelle et évolutive.
 
+## 1er octobre 2025 – 24 mai 2026 : antériorité publique
+
+| Date / heure | Événement | Statut | Observation |
+|---|---|---|---|
+| 01/10/2025 12:06 | publication X de @BaronsMariani annonçant « 2026 : nouvelle candidature sénatoriale ! » | established | trace primaire fournie ; associe déjà la candidature à #Pertitellu, Corte, démocratie directe, culture, nature et #Sénatoriales2026 ; capture du 21/09/2026 : 183 vues |
+| 12/03/2026 21:07 | nouvelle annonce de candidature sur @suvranu et @BaronsMariani | reported + contemporaneous supporting trace | mention précise dans un brouillon Gmail du 16/05 destiné à Corse-Matin ; publication primaire encore à archiver |
+| 16/05/2026 | préparation d'une demande de rectification à Corse-Matin sur l'existence d'un challenger déclaré | established | brouillon non envoyé ; distingue annonce publique et dépôt légal futur |
+| 24/05/2026 16:21 | courriel envoyé à Mario Grazi / Corse Net Infos indiquant « Je suis par ailleurs candidat sénateur en Haute-Corse » | established | information directe d'un journaliste régional plusieurs mois avant le dépôt |
+| état observé au 21/09/2026 | publication épinglée du compte @BaronsMariani renvoyant à `research/autonomia.md` | reported | état du profil signalé par Jean Hugues Noël Robert ; document GitHub sous-jacent public et vérifiable |
+
 ## 10 septembre 2026
 
 | Heure CEST | Événement | Statut | Observation |
