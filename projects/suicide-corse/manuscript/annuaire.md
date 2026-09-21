@@ -109,6 +109,19 @@ Le registre documente l'existence d'une psychologue mandatée dans un contexte d
 
 Cette dernière situation impose une distinction simple : lorsqu'un témoin potentiel est décédé, l'enquête bascule de la sollicitation vers la recherche des traces déjà produites et de leurs détenteurs secondaires.
 
+## Sollicitations prêtes au moment du bouclage
+
+Six premières démarches sont prêtes à partir immédiatement après la publication de ce numéro. Elles n'ont pas encore été envoyées au moment du bouclage :
+
+- **Sylvain Lizon** — souvenir libre de Marie-Louise ;
+- **Damien Ruvet** — souvenir libre ;
+- **Villa Arson** — demande sur les documents et traces encore conservés ;
+- **Céline Christmann Brillais** — souvenirs de 2024 et traces éventuellement conservées ;
+- **Maëva Guillery** — souvenirs de la période nantaise ;
+- **Maéva Lecoq** — souvenirs personnels et photographies.
+
+Elles partent séparément afin de préserver autant que possible le rappel libre. Les réponses éventuelles appartiendront aux éditions suivantes.
+
 ## Organisations et institutions
 
 - **Beaux-Arts de Nantes** (2017-2021) et **Villa Arson, Nice** (2021-2024 pour les traces à rechercher) — détenteurs potentiels de dossiers de scolarité, de travaux, d'évaluations, de décisions et de contacts de promotion. La période 2024 concerne une candidature de réintégration en quatrième année identifiée et un rejet rapporté par JHR ; la scolarité 2024 n'est pas établie et la décision institutionnelle primaire reste à retrouver.
