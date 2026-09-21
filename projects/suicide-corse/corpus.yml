@@ -46,7 +46,7 @@ sources:
     required: true
 
   - id: marie-louise-formation
-    path: memory/marie-louise/formation
+    path: memory/marie-louise/formation/parcours_artistique_2016_2022.md
     role: source-collection
     required: false
 
@@ -74,33 +74,33 @@ sources:
     required: true
 
   - id: marie-louise-chronology
-    path: memory/marie-louise/chronology
+    path: memory/marie-louise/chronology/README.md
     role: source-collection
     required: false
 
   - id: marie-louise-witnesses
-    path: memory/marie-louise/witnesses
+    path: memory/marie-louise/witnesses/README.md
     role: inquiry-method-and-index
     required: false
     note: "Public method and schemas only; private testimony payloads must not be copied into the public repository."
 
   - id: marie-louise-gendarmerie
-    path: memory/marie-louise/enquete-gendarmerie
+    path: memory/marie-louise/enquete-gendarmerie/README.md
     role: inquiry-collection
     required: false
 
   - id: genealogy-casabianca
-    path: musee-mariani/casabianca
+    path: musee-mariani/casabianca/README.md
     role: family-source-collection
     required: false
 
   - id: genealogy-mariani
-    path: musee-mariani/mariani
+    path: musee-mariani/mariani/README.md
     role: family-source-collection
     required: false
 
   - id: genealogy-dangelis
-    path: musee-mariani/dangelis
+    path: musee-mariani/dangelis/README.md
     role: family-source-collection
     required: false
 
