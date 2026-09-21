@@ -64,13 +64,33 @@ source.
 
 ---
 
-## Édition suivante — Suicide Corse n°2
+## Édition 2026-09-20 — Suicide Corse n°2
 
-**Statut : en préparation, non gelée.**
+**Statut : édition gelée le 21 septembre 2026 (voir déclaration de gel ci-dessous).**
 
-Le chantier est piloté par [l'issue #81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81), avec une cible éditoriale au **21 septembre 2026**.
+Le chantier a été piloté par [l'issue #81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81) (chantier éditorial) et bouclé par [l'issue #83](https://github.com/JeanHuguesRobert/barons-Mariani/issues/83) (mandat de bouclage technique et éditorial).
 
-Le n°2 est une nouvelle projection du Corpus courant. Il n'hérite pas automatiquement du sommaire, de l'ordre ou des chapitres du numéro anniversaire. Son identité stable, son commit source, son contrat de projection et ses artefacts ne seront inscrits ici qu'au moment où ils existeront effectivement.
+Le n°2 est une nouvelle projection du Corpus courant. Il n'hérite pas du sommaire, de l'ordre ou des chapitres du numéro anniversaire — composition en double hélice (« double_helix ») propre à ce numéro.
+
+- **Site public :** [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org).
+- **Lecture du rendu actuellement publié :** [éditions/2026-09-20-n2](https://suicidecorse.baronsmariani.org/editions/2026-09-20-n2/index.html).
+- **PDF du rendu actuellement publié :** [suicide-corse-edition-2026-09-20-n2.pdf](https://suicidecorse.baronsmariani.org/editions/2026-09-20-n2/suicide-corse-edition-2026-09-20-n2.pdf).
+- **EPUB du rendu actuellement publié :** [suicide-corse-edition-2026-09-20-n2.epub](https://suicidecorse.baronsmariani.org/editions/2026-09-20-n2/suicide-corse-edition-2026-09-20-n2.epub).
+- **Manifeste de provenance du rendu :** [manifest.json](https://suicidecorse.baronsmariani.org/editions/2026-09-20-n2/manifest.json) — empreintes SHA-256, commit source, version du renderer.
+- **Date du build :** 21 septembre 2026 (date éditoriale du numéro : 20 septembre 2026).
+- **Commit source du rendu gelé :** `f061abb2484dc5ee973d81865db5c9d3b5854d58` (`JeanHuguesRobert/barons-Mariani`).
+- **Contrat de projection gelé :** [`projections/book-2026-09-20-n2.yml`](../projections/book-2026-09-20-n2.yml).
+- **Release de publication servie :** `2026-09-21-1a7dc56` sur `fracta2` (commit d'artefact [`1a7dc56`](https://github.com/JeanHuguesRobert/suicide-corse/commit/1a7dc56) du dépôt de publication [`JeanHuguesRobert/suicide-corse`](https://github.com/JeanHuguesRobert/suicide-corse)), promue selon la procédure documentée dans [`operium/docs/fracta2-github-static-release.md`](https://github.com/JeanHuguesRobert/operium/blob/main/docs/fracta2-github-static-release.md), sans écraser la release de l'édition anniversaire.
+- **Nombre de chapitres :** 23 (`00-ouverture.md` à `19-ours.md`, ordre en double hélice).
+- **Déclaration de gel :** [`2026-09-20-n2-freeze.md`](2026-09-20-n2-freeze.md) — snapshot, empreintes, corrections minimales apportées avant rendu, et portée du gel explicite.
+- **Renderer :** Quarto 1.10.18, via [`JeanHuguesRobert/ubikia`](https://github.com/JeanHuguesRobert/ubikia) (commit [`a53ab2b`](https://github.com/JeanHuguesRobert/ubikia/commit/a53ab2b)). Exécuté sur `fracta2` (Quarto + TinyTeX).
+- **Tag / release :** aucun tag Git créé à ce stade.
+- **Statut de revue :** sélection éditoriale close par décision humaine explicite (`editorial_close` de la projection, 2026-09-21T07:00+02:00) ; auto-revue contradictoire par l'agent rédacteur avant gel. **Revue contradictoire indépendante par un tiers non encore effectuée.**
+- **Sondes post-publication :** six sollicitations ciblées (Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann Brillais, Maëva Guillery, Maéva Lecoq) restent `prepared / ready_to_contact` ; leur envoi et leurs réponses éventuelles n'ont pas bloqué ce gel et relèvent d'une édition ou d'un erratum ultérieur (chapitre « Le Réel répond »).
+
+Le gel clôt cette édition, sans clôturer l'enquête ni constituer une revue contradictoire indépendante. Le chapitre 16 du manuscrit (« Continuations ») liste les chantiers ouverts ; le chapitre 17 conserve l'appel public à contributions.
+
+**Règle post-gel :** toute correction substantielle doit produire une nouvelle édition datée ou un erratum explicitement traçable dans cet index.
 
 ---
 
