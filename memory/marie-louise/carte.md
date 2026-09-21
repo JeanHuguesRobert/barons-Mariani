@@ -7,7 +7,8 @@ description: >
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-12"
-version: "0.7"
+last_modified_at: "2026-09-21"
+version: "0.8"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -97,6 +98,28 @@ Inversement, l’existence de causes multiples et d’incertitudes ne permet pas
 
 Cette formule constitue une règle d’enquête, non une conclusion sur le cas de Marie-Louise.
 
+## 1.5 Règle contrefactuelle
+
+Le fait qu'une trajectoire alternative ne puisse pas être observée directement ne signifie pas qu'aucune connaissance rationnelle ne puisse être produite à son sujet.
+
+> **Non observable ≠ inconnaissable.**
+
+> **Incertain ≠ toutes les hypothèses se valent.**
+
+Lorsque Marie-Louise a elle-même entrepris une démarche explicite vers une branche précise, que cette branche était matériellement praticable et qu'une décision identifiable constitue la bifurcation, le Corpus peut qualifier le contrefactuel de **fortement contraint**.
+
+La confiance doit ensuite décroître avec la distance causale :
+
+~~~text
+bifurcation proche et documentée
+→ forte contrainte contrefactuelle
+
+descendants successifs du Possible
+→ incertitude croissante
+~~~
+
+Cette gradation évite deux erreurs symétriques : transformer un futur non advenu en certitude, ou traiter comme ignorance totale une trajectoire dont plusieurs maillons sont fortement contraints par les faits.
+
 # 2. Identité
 
 **État documentaire : partiel mais solide sur l’identité générale.**
@@ -140,7 +163,7 @@ Marie-Louise était porteuse d’une agénésie congénitale de la main et du po
 
 # 5. Formation et création artistique
 
-**Statut : parcours 2016–2022 désormais substantiellement documenté ; certaines articulations institutionnelles restent à retrouver.**
+**Statut : parcours 2016–2024 désormais substantiellement documenté sur plusieurs bifurcations ; certaines pièces institutionnelles restent à retrouver.**
 
 Les sources retrouvées permettent désormais de remplacer l'ancienne formule « éventuel parcours à Nantes » par une chronologie beaucoup plus solide.
 
@@ -208,6 +231,52 @@ réussite du concours Villa Arson
 ~~~
 
 Voir memory/marie-louise/formation/parcours_artistique_2016_2022.md.
+
+## 5.4 bis 2023–2024 — interruption, tentative de retour et fermeture Villa Arson
+
+Le **11 mai 2023**, Marie-Louise indique directement à son père qu'elle n'est plus étudiante (`Gmail:1880b63961c02dc4`).
+
+Le **8 mars 2024**, elle transmet un lien Taïga et un identifiant candidat pour une **réintégration en quatrième année à la Villa Arson** (`Gmail:18e1f184daa7c61c` + `TESTIMONY-JHR 2026-09-21`).
+
+Jean Hugues Robert témoigne que cette candidature a ensuite été **rejetée**. La notification institutionnelle, sa date et son motif exact restent à retrouver.
+
+État documentaire :
+
+~~~text
+candidature de réintégration
+= VOICE + TRACE + TESTIMONY-JHR
+
+rejet
+= TESTIMONY-JHR
+  pièce primaire recherchée
+
+fermeture de la branche "retour Villa Arson"
+= CLOSE rapporté
+~~~
+
+### Contrefactuel borné
+
+La démarche du 8 mars permet d'aller plus loin qu'un simple `UNKNOWN`.
+
+Jean Hugues Robert indique que, si Marie-Louise avait été acceptée, **elle serait retournée à la Villa Arson**. Puisqu'elle entreprend précisément la procédure destinée à cette réintégration, ce premier maillon constitue un **contrefactuel fortement contraint**.
+
+Jean Hugues Robert estime également que cette bifurcation aurait profondément modifié les mois suivants et que Marie-Louise serait **probablement encore vivante** après septembre 2024. Cette seconde proposition est plus lointaine et donc plus incertaine ; elle doit être conservée comme **hypothèse contrefactuelle forte**, à confronter aux autres facteurs, et non comme fait ni comme simple ignorance indifférenciée.
+
+~~~text
+acceptation
+→ retour effectif à la Villa Arson
+= fortement contraint
+
+retour Villa Arson
+→ trajectoire des mois suivants profondément modifiée
+= fortement plausible
+
+trajectoire modifiée
+→ survie après septembre 2024 plus probable
+= HYPOTHESIS-JHR à étudier
+~~~
+
+Cette gradation n'établit pas une causalité unique du suicide. Elle conserve toutefois l'information selon laquelle le rejet a fermé une branche concrète, activement recherchée et potentiellement très générative de futurs descendants.
 
 ## 5.5 Oletta — premier chantier artistique professionnel connu
 
