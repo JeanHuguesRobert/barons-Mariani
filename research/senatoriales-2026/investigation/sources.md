@@ -238,17 +238,36 @@ Statut : **established**.
 
 Fonction : établir qu'au moins un journaliste régional a été informé directement de la candidature plusieurs mois avant le dépôt légal.
 
-### Publication épinglée `Autonomia`
+### Publication épinglée `Autonomia` du 20 mai 2026
 
-Jean Hugues Noël Robert indique que la publication épinglée du compte X `@BaronsMariani` porte sur :
+Une capture primaire communiquée le 21 septembre 2026 établit qu'un post du compte X `@BaronsMariani`, daté du **20 mai 2026 à 10:17**, était épinglé au profil.
 
-`research/autonomia.md`
+Texte principal :
 
-Statut de l'épinglage : **reported**.
+> « Autonomia - 1974, 1991, 2026 - autonomie de capacité. »
 
-Statut du document GitHub : **public and established**.
+La publication pose ensuite la question de ce qui a fonctionné, échoué ou reste à essayer cinquante ans après le manifeste `Autonomia` d'Edmond et Max Simeoni.
 
-Fonction : documenter la disponibilité publique d'un fond programmatique substantiel lié à l'Autonomie de Capacité, distincte de la seule annonce de candidature.
+Lien publié :
+
+`https://jeanhugues.substack.com/p/autonomia`
+
+Hashtags visibles :
+
+`#suvranu #Corsica2038 #usscorsica`
+
+Métrique visible au moment de la capture :
+
+**132 vues**.
+
+Statut :
+
+- existence, date, contenu et état épinglé : **established from primary trace supplied by JHR** ;
+- métrique : **established as snapshot**, susceptible d'évoluer ;
+- billet Substack : source publique externe ;
+- document doctrinal correspondant : `research/autonomia.md`, **public and established**.
+
+Fonction : documenter qu'avant le dépôt légal de septembre, le compte public mettait durablement en avant un fond programmatique substantiel lié à l'Autonomie de Capacité, distinct de la seule annonce de candidature.
 
 ## 11. Reproduction publique du jugement découverte le 21 septembre
 
