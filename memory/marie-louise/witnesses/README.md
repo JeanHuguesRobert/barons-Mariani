@@ -83,6 +83,19 @@ personne décédée
     → rechercher traces, archives, auditions déjà produites et détenteurs secondaires
 ~~~
 
+## État de sollicitation au bouclage du n°2
+
+Au **21 septembre 2026**, six premières sondes sont matériellement préparées dans Gmail mais **non encore envoyées** au moment du bouclage éditorial. Leur statut commun est `ready_to_contact` :
+
+- **Sylvain Lizon** — P0 de rappel libre, contexte minimal ;
+- **Damien Ruvet** — P0 de rappel libre ;
+- **Villa Arson** — demande institutionnelle large sur les documents et catégories de traces conservés ;
+- **Céline Christmann Brillais** — souvenirs directs de juillet 2024 + existence éventuelle de traces conservées ;
+- **Maëva Guillery** — P0 sur la période nantaise ;
+- **Maéva Lecoq** — P0 de rappel libre + traces photographiques.
+
+L'envoi est prévu immédiatement après publication du numéro 2. Cette intention ne vaut pas exécution : le registre ne doit passer une sonde à `solicited` qu'après observation d'une trace d'envoi.
+
 ## Documents de méthode
 
 - [`METHOD.md`](METHOD.md) : protocole de collecte, qualification, sollicitation et restitution ;
