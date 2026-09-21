@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — dossier canonique"
 description: "Point d'entrée du Corpus relatif à la candidature sénatoriale de Haute-Corse de septembre 2026, à son contentieux et à l'enquête documentaire qui en résulte."
-date: "2026-09-18"
+date: "2026-09-21"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -20,6 +20,12 @@ Il ne constitue pas une source unique appelée à absorber toutes les autres.
 Le cas est distribué entre plusieurs couches documentaires ayant chacune une fonction propre.
 
 ## 1. Documents principaux
+
+### Dossier presse / page d’aiguillage
+
+[`dossier_presse_2026-09.md`](dossier_presse_2026-09.md)
+
+Point d'entrée court pour les journalistes et lecteurs : statut exact de la déclaration de candidature, identité publique `Baron Mariani`, protocole de rectification, questions encore ouvertes et renvois vers les pièces détaillées.
 
 ### Dossier au 14 septembre
 
