@@ -83,3 +83,4 @@ Une hypothèse abandonnée, une contradiction découverte, un refus du Réel ou 
 ## Index
 
 - [2026-09-17-numero-special-anniversaire.md](2026-09-17-numero-special-anniversaire.md) — première entrée expérimentale, liée au numéro spécial anniversaire gelé.
+- [2026-09-21-n2-bouclage-et-gel.md](2026-09-21-n2-bouclage-et-gel.md) — delta du Corpus entre le gel du numéro 1 (17 septembre) et le gel du numéro 2 (21 septembre) : D9, corrections, continuations.
