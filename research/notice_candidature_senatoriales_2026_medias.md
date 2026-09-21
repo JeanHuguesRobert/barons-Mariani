@@ -3,8 +3,8 @@ title: Sénatoriales 2026 — fiche de vérification de la candidature Baron Mar
 subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance politique avec Jean-François Baccarelli
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
-last_modified_at: '2026-09-14'
-version: '0.3'
+last_modified_at: '2026-09-21'
+version: '0.4'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -43,8 +43,19 @@ provenance:
 **Lien canonique :**  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_candidature_senatoriales_2026_medias.md
 
-**Dossier contentieux TA Bastia — 14 septembre 2026 :**  
+**Dossier canonique Sénatoriales 2026 :**  
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/README.md
+
+**Dossier contentieux TA Bastia — photographie au 14 septembre 2026 :**  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier-ta-bastia-2026-09-14.md
+
+## État juridique au 21 septembre 2026
+
+La déclaration de candidature a été déposée le **11 septembre 2026**. À la suite de la saisine préfectorale et du jugement du Tribunal administratif de Bastia du **14 septembre 2026**, son **enregistrement a été refusé**.
+
+Le Corpus ne documente à ce jour **aucun retrait volontaire de candidature**. Les formulations publiques telles que « candidature retirée » doivent donc être distinguées du dispositif juridictionnel, qui porte sur un refus d'enregistrement.
+
+L'enquête documentaire postérieure au jugement reste ouverte, notamment sur la réception et la transmission d'un courriel/vidéo envoyé au Bureau des élections à **17:57:55**, ainsi que sur la chaîne exacte des pièces communiquées au tribunal.
 
 ## Objet
 
@@ -54,7 +65,7 @@ Cette notice permet de distinguer trois niveaux qui ne doivent pas être confond
 2. leur **présentation électorale déclarée** ;
 3. l’**étiquette politique librement déclarée**, qui renseigne ici une alliance électorale.
 
-La candidature aux élections sénatoriales de Haute-Corse du **27 septembre 2026** ne se présente pas comme « sans étiquette ». Le CERFA signé de candidature porte explicitement :
+La déclaration de candidature déposée pour les élections sénatoriales de Haute-Corse du **27 septembre 2026** ne se présentait pas comme « sans étiquette ». Le CERFA transmis dans le dossier porte explicitement :
 
 > **Le Petit Parti - A Voce**
 
@@ -256,9 +267,23 @@ Il ne s’agit donc pas seulement d’un choix de vocabulaire. C’est une **per
 
 Une formulation synthétique et vérifiable est par exemple :
 
-> **Baron Mariani, état civil Jean Hugues Noël Robert, est candidat aux élections sénatoriales de Haute-Corse du 27 septembre 2026 avec Marie-Louise d’Angelis comme remplaçante. Il a déclaré l’étiquette « Le Petit Parti - A Voce », qui renseigne l’alliance qu’il revendique avec le mouvement A Voce de Jean-François Baccarelli. Cette proximité politique est publique au moins depuis 2020 ; Laurence Vernerey figurait déjà en quatrième position sur la liste A Voce conduite par Jean-François Baccarelli aux territoriales de 2017.**
+> **Jean Hugues Noël Robert, présenté électoralement sous le nom Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux élections sénatoriales de Haute-Corse du 27 septembre avec Laurence Marie Vernerey, présentée sous le nom Marie-Louise d’Angelis, comme remplaçante. L’enregistrement de cette déclaration a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre 2026. Aucun retrait volontaire n’est documenté dans le dossier. L’étiquette déclarée était « Le Petit Parti - A Voce ».**
 
 Un média reste libre de préciser séparément la nuance administrative attribuée au candidat, à condition de ne pas la confondre avec son étiquette déclarée.
+
+## Éléments postérieurs au dépôt à ne pas confondre
+
+Le dossier postérieur au 11 septembre distingue plusieurs niveaux :
+
+- **support matériel** : les textes du code cités dans le contentieux prévoient notamment signatures, mention manuscrite, imprimé et double exemplaire ; le dossier de défense conteste que l'expression « original papier » figure littéralement dans ces dispositions ;
+- **actes personnels** : signature et mention manuscrite doivent être distinguées de la simple reproduction d'un support ;
+- **preuve du consentement** : courriels et vidéo ont été invoqués comme éléments probatoires, non comme mode alternatif de dépôt ;
+- **présence physique du candidat** : la comparution de Jean Hugues Noël Robert à la préfecture avant l'échéance est établie ; il rapporte qu'aucune proposition ne lui a été faite d'imprimer son propre CERFA et de le signer sur place ;
+- **complétion du mandataire financier** : une insuffisance relative à deux imprimés a été signalée oralement selon son témoignage ; des documents ont ensuite été transmis à 14:14:39 et leur réception a été accusée à 16:14:05 ;
+- **handicap de la remplaçante** : le dossier de défense a invoqué une situation de handicap reconnue et la jurisprudence CE du 14 mai 2021 ; le jugement publié ne développe pas ce point dans sa motivation ;
+- **vidéo de 17:57:55** : son envoi est établi, mais sa réception côté préfecture avant 18 h et sa transmission éventuelle au TA restent ouvertes.
+
+Ces éléments ne permettent pas, à eux seuls, d'attribuer une intention aux services de l'État ou au tribunal. Ils permettent en revanche de documenter précisément les questions encore ouvertes et les différences entre support, acte personnel, preuve et traitement procédural.
 
 ## Vérification minimale recommandée aux journalistes
 
