@@ -1,9 +1,9 @@
 ---
 title: "Annuaire"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-18"
+date: "2026-09-21"
 last_modified_at: "2026-09-21"
-status: draft
+status: render-candidate
 language: fr
 license: "CC BY-SA 4.0"
 document_role: derived
@@ -22,8 +22,13 @@ provenance:
     - memory/marie-louise/witnesses/research-2009-2016.md
     - memory/marie-louise/witnesses/campaign-01.md
 review:
-  status: unreviewed
-  reviewed_by: []
+  status: human-authorized-for-n2-close
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+  previous_status: "agent-revised — pending human review"
+ai_assisted_by:
+  - "Claude Opus 5 (Anthropic) — dernière passe de lisibilité grand public, issue #82, 2026-09-21"
+  - "ChatGPT — propagation documentaire et contrôle de cohérence au bouclage, 2026-09-21"
 ---
 
 # Annuaire
@@ -55,7 +60,7 @@ Le chapitre ne publie pas automatiquement :
 
 Un témoignage ultérieur reste une source attribuée et datée ; il n'est pas promu automatiquement au rang de fait.
 
-Si vous êtes l'une des personnes mentionnées ici, ou si vous pouvez aider à en retrouver une, voir le chapitre 17 (« Appel à témoignages ») : `institutmariani@gmail.com`.
+Si vous êtes l'une des personnes mentionnées ici, ou si vous pouvez aider à en retrouver une, voir l'« Appel à témoignages » : `institutmariani@gmail.com`.
 
 ## Personnes et organisations identifiées
 
@@ -95,7 +100,7 @@ Recherche en cours sur le réseau de pairs antérieur à l'entrée en CPES. Dét
 
 ### Contexte familial et judiciaire, 2009
 
-Le registre documente l'existence d'une psychologue mandatée dans un contexte de séparation parentale et d'une procédure d'appel associée. Ces personnes relèvent d'un registre privé distinct (`registre-mariani`), non public. Voir le chapitre 8.
+Le registre documente l'existence d'une psychologue mandatée dans un contexte de séparation parentale et d'une procédure d'appel associée. Ces personnes relèvent d'un registre privé distinct, non public.
 
 ### Été 2024 et conservation des traces
 
@@ -108,8 +113,8 @@ Cette dernière situation impose une distinction simple : lorsqu'un témoin pote
 
 - **Beaux-Arts de Nantes** (2017-2021) et **Villa Arson, Nice** (2021-2024 pour les traces à rechercher) — détenteurs potentiels de dossiers de scolarité, de travaux, d'évaluations, de décisions et de contacts de promotion. La période 2024 concerne une candidature de réintégration en quatrième année identifiée et un rejet rapporté par JHR ; la scolarité 2024 n'est pas établie et la décision institutionnelle primaire reste à retrouver.
 - **Lycée Georges-Clemenceau, Sartène** (CPES 1, 2016-2017).
-- **Gendarmerie de Vence** — dépositaire de la procédure d'enquête sur les circonstances du décès et, le cas échéant, de la note manuscrite mentionnée au chapitre 15 ; recouvrement encore en cours.
-- **Conseil constitutionnel** — auteur de la décision procédurale du 27 septembre 2024 évoquée au chapitre 11.
+- **Gendarmerie chargée de l'enquête** — dépositaire de la procédure sur les circonstances du décès et, le cas échéant, de la note manuscrite évoquée dans « La parole de Marie-Louise » ; recouvrement encore en cours.
+- **Conseil constitutionnel** — auteur de la décision procédurale du 27 septembre 2024 évoquée dans « Impunité par obscurité ».
 
 ## Ce qu'une mention dans cet annuaire ne signifie pas
 
@@ -119,4 +124,4 @@ Une personne peut demander à être retirée de cet annuaire, ou à ce que sa me
 
 ## Pistes ouvertes
 
-Les lacunes documentaires les plus significatives à ce stade — réseau amical 2009-2016, période estivale 2024, identité de la psychologue et du contexte judiciaire de 2009, identité d'« Anna », présence de Marie-Louise aux rencontres CPES — sont reprises comme continuations explicites au chapitre 16.
+Les lacunes documentaires les plus significatives à ce stade — réseau amical 2009-2016, période estivale 2024, identité de la psychologue et du contexte judiciaire de 2009, identité d'« Anna », présence de Marie-Louise aux rencontres CPES — sont reprises comme chantiers explicites dans les Continuations.
