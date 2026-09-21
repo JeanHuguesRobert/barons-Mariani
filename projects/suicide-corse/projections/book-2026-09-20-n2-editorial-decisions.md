@@ -1,9 +1,9 @@
 ---
 title: "Suicide Corse n°2 — décisions éditoriales humaines"
-subtitle: "Arbitrages D1–D8, double hélice, couche magazine, déontologie et responsabilité humain/IA"
+subtitle: "Arbitrages D1–D9, double hélice, contrefactuels gradués, couche magazine, déontologie et responsabilité humain/IA"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-20"
-status: "authoritative-for-n2-working-projection"
+status: "authoritative-for-n2-render-candidate"
 language: "fr"
 visibility: "public"
 document_role: "source"
@@ -306,6 +306,58 @@ L'agent est libre de trouver une meilleure composition, à condition de conserve
 - des points réguliers de croisement ;
 - les non-invariants ;
 - la distinction livre / magazine.
+
+---
+
+
+# D9 — Contrefactuels gradués : ne pas confondre rigueur et agnosticisme uniforme
+
+**Décision humaine :**
+
+Un futur non advenu n'est pas directement observable, mais il n'est pas pour autant épistémiquement vide.
+
+Lorsque :
+
+- une branche a été explicitement recherchée par l'agent ;
+- l'agent disposait matériellement de la capacité de l'emprunter ;
+- une bifurcation identifiable sépare les deux trajectoires ;
+- la continuation immédiate est contrainte par les faits observés ;
+
+le texte doit **grader la plausibilité du contrefactuel** plutôt que le rabattre mécaniquement sur \`UNKNOWN\`.
+
+Règle :
+
+\`\`\`text
+non observable
+≠ inconnaissable
+
+incertain
+≠ toutes les hypothèses se valent
+\`\`\`
+
+La confiance doit décroître à mesure que la chaîne contrefactuelle ajoute des événements, acteurs ou mécanismes intermédiaires.
+
+## Reality Case Villa Arson
+
+Le cas du 8 mars 2024 est le premier dogfood explicite de cette règle :
+
+\`\`\`text
+acceptation
+→ reprise effective de la quatrième année à la Villa Arson
+= contrefactuel proche, fortement contraint
+
+reprise
+→ environnement de formation, rythme, réseau et perspectives des mois suivants profondément modifiés
+= contrefactuel intermédiaire, fortement plausible
+
+reprise
+→ Marie-Louise probablement encore vivante après septembre 2024
+= HYPOTHESIS-JHR, contrefactuel plus lointain et multicausal à étudier
+\`\`\`
+
+La troisième proposition ne doit être ni promue en fait, ni neutralisée par principe. Elle doit être examinée comme hypothèse substantielle, confrontée aux autres facteurs et révisable par de nouvelles traces.
+
+Cette règle vaut au-delà du cas Marie-Louise et peut être utilisée à l'échelle territoriale lorsque les mêmes conditions de contrainte sont réunies, sans transposer une psychologie individuelle au territoire.
 
 ---
 
