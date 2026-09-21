@@ -4,7 +4,7 @@ subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance 
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
 last_modified_at: '2026-09-21'
-version: '0.4'
+version: '0.5'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -270,6 +270,19 @@ Une formulation synthétique et vérifiable est par exemple :
 > **Jean Hugues Noël Robert, présenté électoralement sous le nom Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux élections sénatoriales de Haute-Corse du 27 septembre avec Laurence Marie Vernerey, présentée sous le nom Marie-Louise d’Angelis, comme remplaçante. L’enregistrement de cette déclaration a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre 2026. Aucun retrait volontaire n’est documenté dans le dossier. L’étiquette déclarée était « Le Petit Parti - A Voce ».**
 
 Un média reste libre de préciser séparément la nuance administrative attribuée au candidat, à condition de ne pas la confondre avec son étiquette déclarée.
+
+## Continuité politique après le jugement : « amendement Baron Mariani »
+
+Le **19 septembre 2026**, une proposition de travail a été publiée dans le Corpus sous le titre **« Amendement d’effectivité — proposition de modification minimale de l’article 72-5 »**, avec le sous-titre **« Nom de travail : amendement Baron Mariani »**.
+
+Elle prolonge l’Autonomie de Capacité en proposant d’introduire explicitement dans le futur article 72-5 une exigence d’effectivité de la liberté, de l’égalité et de la fraternité.
+
+Cette pièce est **postérieure** au jugement du 14 septembre et ne doit donc pas être présentée comme un élément du dossier de candidature initial. Elle documente la continuité du travail politique et constitutionnel après le refus d’enregistrement.
+
+Le nom « amendement Baron Mariani » est explicitement un **nom de travail et de provenance** : il ne signifie pas qu’un amendement parlementaire a déjà été déposé sous ce nom.
+
+Source :  
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 
 ## Éléments postérieurs au dépôt à ne pas confondre
 
