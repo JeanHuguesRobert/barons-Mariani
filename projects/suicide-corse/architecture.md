@@ -1108,6 +1108,17 @@ Préserver l'autonomie de l'œuvre et de la biographie.
 
 Un résultat adverse doit pouvoir supprimer une hypothèse, pas seulement l'affaiblir rhétoriquement.
 
+### R9 — Counterfactuals are graded, not erased
+
+Un futur non advenu n'est pas observable directement, mais il n'est pas nécessairement inconnaissable. Lorsqu'une branche était explicitement recherchée, praticable et séparée du Réel par une bifurcation identifiable, le Corpus doit **grader la plausibilité** du contrefactuel au lieu de le rabattre mécaniquement sur `UNKNOWN`.
+
+```text
+non observable ≠ inconnaissable
+incertain ≠ hypothèses équiprobables
+```
+
+La confiance décroît avec la distance causale et le nombre de bifurcations intermédiaires.
+
 ---
 
 # 24. Critère de réussite de la v2
