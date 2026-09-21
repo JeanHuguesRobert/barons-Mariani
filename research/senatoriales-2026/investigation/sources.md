@@ -299,7 +299,36 @@ Provenance :
 - l'existence de pièces préfectorales transmises ultérieurement ;
 - la réception et la transmission éventuelle du courriel/vidéo de 17:57:55.
 
-## 12. Principe de provenance
+## 12. Registre médiatique et contacts presse
+
+Sous-répertoire :
+
+[`../media/`](../media/)
+
+Fichiers :
+
+- [`../media/representations.yml`](../media/representations.yml) — représentations publiées, formulations exactes, qualifications provisoires et cas de comparaison ;
+- [`../media/contacts.yml`](../media/contacts.yml) — courriels, brouillons, invitations et canaux presse retrouvés.
+
+Sources utilisées pour les premières entrées :
+
+- pages publiques des médias et agrégateurs, vérifiées individuellement ;
+- Gmail pour les interactions réellement envoyées ou reçues ;
+- brouillons Gmail conservés avec le statut explicite `draft_unsent`.
+
+Cas particulier du 17 septembre :
+
+France 3 Corse ViaStella a adressé à Jean Hugues Noël Robert une invitation à participer à un débat annoncé « avec tous les candidats de Haute-Corse ». Le courriel est postérieur au jugement du 14 septembre.
+
+Jean Hugues Noël Robert indique ne pas avoir répondu parce qu'il savait que l'enregistrement de sa déclaration avait été refusé et considérait donc sa candidature comme devenue non active. Cette explication est conservée avec le statut `reported_by_candidate`.
+
+Fonction :
+
+- distinguer la circulation de l'information dans les rédactions de la publication publique ;
+- suivre les demandes de rectification ;
+- mesurer les réponses du Réel sans attribuer d'intention non prouvée.
+
+## 13. Principe de provenance
 
 Pour toute assertion importante :
 
