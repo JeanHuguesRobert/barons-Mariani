@@ -109,6 +109,10 @@ La reconnaissance recherchée est volontairement minimale, rigoureuse et fécond
 
 Cette formulation est une **thèse historiographique à examiner**, non un fait brut que le Projet pourrait déclarer établi par lui-même.
 
+### Reality Tests et interactions publiques liés
+
+- **2026-09-22 — Associu Storia 97 / Università di Corsica** : Reality Test exécuté par courriel public afin d’identifier les sources primaires, éditions, chercheurs et objections sérieuses à instruire, sans solliciter soutien ni validation. Trace canonique : [registre public des interactions — entrée 2026-09-22-002](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Suivi méthodologique : [issue #71](https://github.com/JeanHuguesRobert/barons-Mariani/issues/71).
+
 ### Documents associés
 
 Ce document doit être lu avec :
