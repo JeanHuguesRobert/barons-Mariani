@@ -531,6 +531,8 @@ Voir la note dérivée :
 
 > [**Statut de résident : un cas pratique pour l’amendement d’effectivité**](./note_campagne_statut_resident_effectivite.md)
 
+Une [**interaction publique avec les coprésidents du collectif**](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-09-22-statut-resident-effectivite.md) documente l’envoi de cette proposition le 22 septembre 2026 et la demande explicite de réponse sur son principe.
+
 Cette note est un **produit dérivé**. Elle n’intègre pas au présent working paper une position pour ou contre le statut de résident ; elle applique au cas considéré la méthode générale exposée ici : objectif explicite → effets attendus → observation → évaluation → correction éventuelle.
 
 ---
