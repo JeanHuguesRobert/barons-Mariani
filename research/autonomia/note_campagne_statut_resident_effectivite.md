@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A.
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-22"
 last_modified_at: "2026-09-22"
-version: "0.1"
+version: "0.2"
 status: "draft"
 language: "fr"
 document_role: "derived"
@@ -370,6 +370,18 @@ Le statut de résident constitue un premier terrain concret pour appliquer cette
 
 > **Le statut autorise la différence.**  
 > **L’effectivité demande ce que cette différence produit réellement.**
+
+---
+
+## Interaction publique avec le collectif
+
+Le 22 septembre 2026, cette note et le working paper constitutionnel ont été adressés conjointement à Alain Nebbia et Marcel Torracinta, coprésidents de l’association travaillant sur le statut de résident.
+
+La question posée porte directement sur l’application du principe d’effectivité au futur dispositif : expliciter ses effets recherchés, définir les indicateurs permettant de les évaluer et prévoir son réexamen si la réalité ne confirme pas les effets attendus.
+
+Cette interaction est documentée publiquement dans le [registre d’interactions de Jean Hugues Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-09-22-statut-resident-effectivite.md).
+
+**État : courriel envoyé ; réponse attendue.**
 
 ---
 
