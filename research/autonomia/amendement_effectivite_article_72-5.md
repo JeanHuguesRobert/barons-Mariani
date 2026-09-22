@@ -519,7 +519,23 @@ Ces objections ont réduit certaines prétentions initiales de la proposition, m
 
 ---
 
-## 21. Compression
+## 21. Applications pratiques
+
+L’amendement d’effectivité est conçu comme un principe général applicable aux normes prises dans le champ du futur article 72-5. Son intérêt doit donc être éprouvé sur des politiques publiques concrètes, sans que ces applications dérivées préjugent de leur opportunité politique.
+
+### Statut de résident
+
+Le projet de **statut de résident** fournit un premier cas pratique particulièrement éclairant : une norme différenciée peut être examinée non seulement sous l’angle de sa possibilité juridique, mais aussi au regard des effets réels qu’elle prétend produire sur l’accès au logement, le foncier, l’égalité et les libertés.
+
+Voir la note dérivée :
+
+> [**Statut de résident : un cas pratique pour l’amendement d’effectivité**](./note_campagne_statut_resident_effectivite.md)
+
+Cette note est un **produit dérivé**. Elle n’intègre pas au présent working paper une position pour ou contre le statut de résident ; elle applique au cas considéré la méthode générale exposée ici : objectif explicite → effets attendus → observation → évaluation → correction éventuelle.
+
+---
+
+## 22. Compression
 
 ```text
 AUTONOMIE
