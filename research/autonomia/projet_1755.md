@@ -113,6 +113,8 @@ Cette formulation est une **thèse historiographique à examiner**, non un fait 
 
 - **2026-09-22 — Associu Storia 97 / Università di Corsica** : Reality Test exécuté par courriel public afin d’identifier les sources primaires, éditions, chercheurs et objections sérieuses à instruire, sans solliciter soutien ni validation. Trace canonique : [registre public des interactions — entrée 2026-09-22-002](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Suivi méthodologique : [issue #71](https://github.com/JeanHuguesRobert/barons-Mariani/issues/71).
 
+- **2026-09-22 — Pierre-François Di Cara / Société Historique de Corte** : Reality Test exécuté par courriel public afin d’obtenir une orientation vers les chercheurs, sources, éditions, fonds et objections historiographiques pertinents pour la séquence 1729–1769. Trace canonique : [registre public des interactions — entrée 2026-09-22-003](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Suivi méthodologique : [issue #71](https://github.com/JeanHuguesRobert/barons-Mariani/issues/71).
+
 ### Documents associés
 
 Ce document doit être lu avec :
