@@ -115,6 +115,8 @@ Cette formulation est une **thèse historiographique à examiner**, non un fait 
 
 - **2026-09-22 — Pierre-François Di Cara / Société Historique de Corte** : Reality Test exécuté par courriel public afin d’obtenir une orientation vers les chercheurs, sources, éditions, fonds et objections historiographiques pertinents pour la séquence 1729–1769. Trace canonique : [registre public des interactions — entrée 2026-09-22-003](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Suivi méthodologique : [issue #71](https://github.com/JeanHuguesRobert/barons-Mariani/issues/71).
 
+- **2026-09-23 — contact physique Storia 97** : participation de JHR à la conférence publique d’Allegria sur l’histoire de Corti ; échange direct avec le président de Storia 97, rappel du courriel du 22 septembre et signalement explicite du Projet #1755. Trace publique : [registre des interactions — 2026-09-23-001](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Une note séparée documente également la [Société Historique de Corte](societe_historique_de_corte.md), identifiée au cours de cet échange comme acteur local potentiellement pertinent pour #1755.
+
 ### Documents associés
 
 Ce document doit être lu avec :
