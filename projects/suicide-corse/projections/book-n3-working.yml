@@ -1,0 +1,112 @@
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-n3-working
+status: working
+render_ready: false
+language: fr
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+author: "Jean Hugues Noël Robert"
+edition_label: "Numéro 3 — en construction"
+
+source_manifest: ../corpus.yml
+related_issue: 84
+
+edition:
+  number: 3
+  editorial_date: null
+  publication_date: null
+  date_is_intentionally_unset: true
+
+construction:
+  state: active
+  human_decision: "Le numéro 2 est totalement bouclé ; le numéro 3 est désormais en construction."
+  decided_by: "Jean Hugues Noël Robert"
+  decided_at: "2026-09-23T21:47+02:00"
+  previous_frozen_edition:
+    id: suicide-corse-edition-2026-09-20-n2
+    projection: book-2026-09-20-n2.yml
+    source_commit: f061abb2484dc5ee973d81865db5c9d3b5854d58
+    rule: "Never inject later observations silently into frozen n2."
+  inherited_rule: "Freeze the edition, never the next projection."
+
+delta_window:
+  baseline_commit: f061abb2484dc5ee973d81865db5c9d3b5854d58
+  start: "after frozen n2"
+  end: null
+  role: "Collect evidence, corrections, Reality responses and candidate material without prescribing composition."
+
+counterfactual_policy:
+  status: inherited_and_active
+  doctrine:
+    - "Non observable does not mean unknowable."
+    - "Uncertain does not mean all hypotheses are equally plausible."
+    - "Strongly constrained counterfactuals should be graded rather than flattened into UNKNOWN."
+    - "Confidence decreases with causal distance."
+  canonical_method:
+    fr: "JeanHuguesRobert/cogentia/research/interroger_le_reel.md"
+    en: "JeanHuguesRobert/cogentia/research/interrogating_reality.md"
+    propagation: "JeanHuguesRobert/cogentia/research/propagation_register.md — PR-2026-010"
+  dogfood_case: "Marie-Louise / Villa Arson 2024"
+
+observed_post_n2_delta:
+  witness_campaign:
+    source: ../../memory/marie-louise/witnesses/campaign-01.md
+    coverage: ../../memory/marie-louise/witnesses/coverage-matrix.md
+    sent_on: "2026-09-21"
+    probes_sent: 6
+    substantive_responses_received: 2
+    routing_responses_received: 1
+    substantive_respondents:
+      - "Maëva Guillery"
+      - "Maéva Lecoq"
+    routing_result:
+      - "Sylvain Lizon: automatic direction/contact update; no substantive testimony yet"
+    pending_without_identified_response_as_of_2026_09_23:
+      - "Damien Ruvet"
+      - "Villa Arson"
+      - "Céline Christmann"
+    publication_rule: "A private response is a trace, not automatic permission to publish its content."
+  marie_louise:
+    - ../../memory/marie-louise/possible_matrix.md
+    - ../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    - ../../memory/marie-louise/witnesses/README.md
+  collective_candidates:
+    - ../../../research/autonomia/note_campagne_statut_resident_effectivite.md
+    - ../../../research/autonomia/amendement_effectivite_article_72-5.md
+    - ../../../research/autonomia/1755.md
+    - ../../../research/autonomia/projet_1755.md
+    - ../../../research/autonomia/societe_historique_de_corte.md
+    status: "delta candidates only; not editorially selected yet"
+
+candidate_questions:
+  individual:
+    - "What did sparse P0 recall reveal that the inquiry had not prompted?"
+    - "Which works, objects, photographs and memories are still held by Marie-Louise's friends?"
+    - "Can the Villa Arson rejection be recovered as a primary institutional decision?"
+    - "What can new witnesses actually date or constrain about the under-documented periods?"
+  method:
+    - "How much knowledge can be recovered by asking sparsely rather than supplying the investigator's categories?"
+    - "How should strongly constrained counterfactuals be used without either free fiction or defensive agnosticism?"
+  collective:
+    - "Does an autonomy proposal create effective capacity or merely formal permission?"
+    - "What do the first #1755 Reality Tests reveal about access to historians, archives and local institutional memory?"
+
+editorial_freedom:
+  inherit_n2_plan: false
+  fixed_table_of_contents: false
+  fixed_date: false
+  fixed_length: false
+  human_editorial_decisions_override_agent_defaults: true
+  rule: "The current delta constrains attention, not form."
+
+privacy_and_disclosure:
+  raw_private_email_is_not_publication_material_by_default: true
+  sensitive_third_party_material_requires_separate_review: true
+  testimony_may_be_registered_without_reproducing_private_content: true
+
+next_observations:
+  - "Watch for substantive replies to the six P0 probes."
+  - "Route Sylvain Lizon follow-up through the newly observed professional channel if a follow-up is authorized."
+  - "Seek the primary Villa Arson decision: date, wording and grounds."
+  - "Qualify the two received testimonies before any public quotation."
+  - "Continue accumulating post-n2 Corpus delta without freezing n3 composition."
