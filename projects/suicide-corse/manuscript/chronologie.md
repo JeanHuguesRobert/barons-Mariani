@@ -2,8 +2,8 @@
 title: "Chronologie"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-21"
-status: render-candidate
+last_modified_at: "2026-09-23"
+status: draft
 language: fr
 license: "CC BY-SA 4.0"
 document_role: derived
@@ -116,7 +116,15 @@ Chaque repère porte, quand le fonds documentaire le distingue, son statut épis
 
 **2026 — ouverture de l'enquête et candidature sénatoriale de l'auteur.** `FACT`. Élargissement à une lecture territoriale, à la mémoire directe de Marie-Louise et à un appel public à témoignages, pour le deuxième anniversaire de sa mort. Le 14 septembre 2026, l'enregistrement de la candidature sénatoriale de l'auteur est refusé (voir « Le Réel répond »).
 
-**21 septembre 2026 — six sollicitations préparées.** `TRACE` d'enquête. Au moment du bouclage du numéro 2, six sondes ciblées sont prêtes mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann Brillais, Maëva Guillery et Maéva Lecoq. Leur envoi est prévu après publication ; leurs réponses éventuelles appartiendront aux éditions suivantes.
+**21 septembre 2026 — six sollicitations préparées.** `TRACE` d'enquête historique. Au moment précis du bouclage du numéro 2, six sondes ciblées sont prêtes mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann, Maëva Guillery et Maéva Lecoq. Cet état reste celui du snapshot gelé du n°2.
+
+**21 septembre 2026, après le bouclage — six sollicitations envoyées.** `FACT / TRACE` d'enquête. Les six P0 sont effectivement expédiés séparément le même jour. Cet événement appartient au delta du n°3.
+
+**21–22 septembre 2026 — premières réponses P0.** `TESTIMONY / TRACE`. Maéva Lecoq puis Maëva Guillery répondent par des rappels libres substantiels. Leurs réponses renforcent notamment la documentation du réseau nantais, des pratiques artistiques, de souvenirs à Corte et de l'existence de traces ou objets encore conservés. Leur contenu privé n'est pas automatiquement publiable et doit être qualifié avant citation.
+
+**21 septembre 2026 — routage Sylvain Lizon.** `TRACE`. L'adresse historique de Sylvain Lizon produit une réponse automatique indiquant son nouveau canal professionnel et orientant les questions relevant de la direction de la Villa Arson vers la direction actuelle. Ce résultat améliore la joignabilité mais ne constitue pas encore un témoignage sur Marie-Louise.
+
+**23 septembre 2026 — état borné des autres sondes.** `BOUNDED-NEGATIVE`. Aucune réponse de Damien Ruvet, de la Villa Arson ou de Céline Christmann n'est identifiée lors de la vérification effectuée ce jour. Un silence de quelques jours n'est interprété ni comme refus, ni comme absence d'information.
 
 ## Ce que cette chronologie ne fait pas
 
