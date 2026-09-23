@@ -2,7 +2,7 @@
 title: "Annuaire"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-21"
+last_modified_at: "2026-09-23"
 status: render-candidate
 language: fr
 license: "CC BY-SA 4.0"
@@ -69,8 +69,8 @@ Si vous êtes l'une des personnes mentionnées ici, ou si vous pouvez aider à e
 Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestation de résidence artistique. Détail intégral et hiérarchie de sollicitation dans [`witnesses/nantes_zad_tournage.md`](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/memory/marie-louise/witnesses/nantes_zad_tournage.md).
 
 - **Hugues Absil** — artiste plasticien ; témoin direct très fort d'une résidence artistique et d'un tournage engageant Marie-Louise du 17 au 26 avril 2021 aux Falguières (Saint-Laurent-le-Minier, Gard). Moyens de contact professionnels publics disponibles indépendamment de ce Corpus.
-- **Maëva Guillery** — se présente comme amie de Marie-Louise connue aux Beaux-Arts de Nantes ; témoin direct de cette période et de souvenirs ultérieurs à Corte.
-- **Maéva Lecoq** — témoin direct et détentrice de photographies de Marie-Louise prises à différents moments, dont certaines à Corte.
+- **Maëva Guillery** — amie de Marie-Louise connue aux Beaux-Arts de Nantes ; témoin direct. Une première réponse de rappel libre a été reçue le 22 septembre 2026 ; elle est en cours de qualification avant toute éventuelle citation.
+- **Maéva Lecoq** — témoin direct et détentrice de photographies, œuvres ou objets liés à Marie-Louise. Une première réponse détaillée a été reçue le 21 septembre 2026 ; son contenu privé et sensible n'est pas reproduit automatiquement dans cet annuaire.
 - **Camille Gérard** — colocataire documentée de Marie-Louise à Nantes (bail 2019-2020). Témoin potentiel très fort du quotidien nantais.
 - **Alice Gautier** — camarade ayant hébergé Marie-Louise à Nantes en 2018, selon ses propres mots. À ne pas confondre avec une artiste contemporaine homonyme active à Nantes ; l'identité n'est pas établie.
 - **Juliette Fetaz** — colocataire/camarade à Nantes, documentée par un avenant de bail et par un message de Marie-Louise datant de juin 2019.
@@ -80,7 +80,7 @@ Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestat
 
 ### Villa Arson / Nice, 2021–2024
 
-- **Sylvain Lizon** — ancien directeur de la Villa Arson ; témoin institutionnel potentiel. Jean Hugues Robert rapporte un échange direct avec lui au sujet de Marie-Louise et de sa situation pendant cette période. Le souvenir propre de M. Lizon reste à recueillir.
+- **Sylvain Lizon** — ancien directeur de la Villa Arson ; témoin institutionnel potentiel. La sonde du 21 septembre a produit un routage automatique vers son nouveau canal professionnel et vers la direction actuelle de la Villa Arson ; son souvenir propre de Marie-Louise reste à recueillir.
 - **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023 autour d'un travail graphique et d'échanges de contact ; également relais potentiel vers l'écosystème pédagogique de la Villa Arson, avec lequel il indique rester lié.
 - **Villa Arson** — détentrice potentielle des dossiers de scolarité, évaluations, correspondances, archives pédagogiques et décisions concernant le parcours de Marie-Louise. Le 8 mars 2024, Marie-Louise engage une candidature de réintégration en quatrième année ; Jean Hugues Robert témoigne qu'elle a été rejetée. La décision primaire, sa date et son motif exact restent à retrouver.
 
