@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 language: fr
 status: working-paper
 date: 2026-09-18
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-23
 document_role: index
 document_kind: witness-directory-index
 visibility: public
@@ -60,7 +60,7 @@ Les recherches Gmail du 21 septembre 2026 font émerger plusieurs personnes qui 
 
 ### Villa Arson / Nice
 
-- **Sylvain Lizon** — ancien directeur de la Villa Arson. Jean Hugues Robert rapporte un échange direct avec lui au sujet de Marie-Louise et de sa situation pendant la période Villa Arson. Ce souvenir paternel reste à confronter à la mémoire propre de Sylvain Lizon. Statut actuel : `TESTIMONY-JHR` pour l'existence et le contenu de cet échange ; témoin institutionnel potentiel.
+- **Sylvain Lizon** — ancien directeur de la Villa Arson. Jean Hugues Robert rapporte un échange direct avec lui au sujet de Marie-Louise et de sa situation pendant la période Villa Arson. Une sonde P0 a été envoyée le 21 septembre 2026 (`Gmail:1a0c3b37e6c35fb8`) ; une réponse automatique a fourni un nouveau canal professionnel et orienté les questions de direction vers la directrice actuelle de la Villa Arson (`Gmail:1a0c3b3b90e0f5a5`). **Aucun témoignage substantiel de Sylvain Lizon n'est encore reçu.**
 - **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023. En mai 2022, Marie-Louise lui transmet directement un bulletin graphique sur lequel il intervient ; en 2023, un échange de contact le relie encore directement à elle. En 2026, il indique rester en lien avec l'équipe pédagogique de la Villa Arson. Statut : témoin direct + relais potentiel vers d'autres témoins de l'écosystème Villa. Références : `Gmail:180f64276744097a`, `Gmail:180fbd587d9eb034`, `Gmail:187392dde2fff09e`, `Gmail:18895e8d01578bf7`, fil `Gmail:19fe1c26afc9c864`.
 
 ### Nantes / parcours artistique
@@ -74,8 +74,8 @@ Les recherches Gmail du 21 septembre 2026 font émerger plusieurs personnes qui 
 
 
 
-- **Maëva Guillery** — se présente en 2026 comme amie de Marie-Louise connue aux Beaux-Arts de Nantes ; elle décrit des souvenirs communs à Corte et une recherche artistique pour laquelle Marie-Louise l'avait aidée à rencontrer des personnes et à découvrir des lieux. Statut : témoin direct du réseau nantais et de séjours / projets ultérieurs. Référence : `Gmail:19cae28bd6896cd0`.
-- **Maéva Lecoq** — détentrice déclarée de photographies de Marie-Louise prises à différents moments, notamment lors d'un passage à Corte ; elle en a transmis un lot à Jean Hugues en 2025. Statut : témoin direct + détentrice de traces photographiques. Référence : `Gmail:197f4f756475ce1f`.
+- **Maëva Guillery** — se présente en 2026 comme amie de Marie-Louise connue aux Beaux-Arts de Nantes ; elle décrit des souvenirs communs à Corte et une recherche artistique pour laquelle Marie-Louise l'avait aidée à rencontrer des personnes et à découvrir des lieux. Une sonde P0 envoyée le 21 septembre 2026 a reçu une **réponse substantielle de rappel libre** le 22 septembre (`Gmail:1a0c7b48b93d3216`). Statut : témoin direct confirmé ; contenu privé à qualifier avant toute citation publique.
+- **Maéva Lecoq** — détentrice déclarée de photographies de Marie-Louise prises à différents moments, notamment lors d'un passage à Corte ; elle en a transmis un lot à Jean Hugues en 2025. Une sonde P0 envoyée le 21 septembre 2026 a reçu le même jour une **réponse substantielle de rappel libre** (`Gmail:1a0c3ec068464efa`). Statut : témoin direct confirmé + détentrice de traces photographiques et d'œuvres / objets ; le message comprend aussi de la matière personnelle sensible réservée à une qualification séparée.
 
 ### Été 2024 et conservation posthume des traces
 
