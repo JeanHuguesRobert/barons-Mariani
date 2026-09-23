@@ -2,7 +2,7 @@
 title: "Suicide Corse — questions ouvertes de l'enquête"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-23
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -56,6 +56,18 @@ Si vous pouvez contribuer à l'une de ces questions, même partiellement : **dan
 - S'est-elle rendue à Notre-Dame-des-Landes ou dans une autre ZAD ?
 - Si oui : quand, avec qui, dans quel cadre et pour y faire quoi ?
 - Qui pourrait encore documenter cette partie de son parcours ?
+
+## Questions ouvertes par les premières réponses P0
+
+Les réponses reçues de Maëva Guillery et Maéva Lecoq réduisent certaines lacunes mais en ouvrent d'autres, sans qu'il soit nécessaire de publier leurs messages privés pour les formuler :
+
+- quelles dates et quels contextes précis peuvent être attachés aux souvenirs spontanément rapportés ?
+- quelles œuvres, photographies, objets, textes ou vidéos liés à Marie-Louise sont encore conservés par ses proches ?
+- lesquels peuvent être documentés dans le catalogue raisonné, avec provenance et droits clairement établis ?
+- quelles autres personnes présentes à Nantes, Corte ou lors de déplacements et projets communs peuvent être identifiées ?
+- quelles nouvelles pistes proviennent réellement du rappel libre P0, par opposition aux catégories déjà connues de l'enquête ?
+
+Ces questions doivent être traitées par relances ciblées seulement après conservation du rappel libre initial.
 
 ## Résidence et tournage — avril 2021
 
