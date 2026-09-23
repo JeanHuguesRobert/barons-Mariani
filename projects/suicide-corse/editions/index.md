@@ -2,6 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
+last_modified_at: '2026-09-23'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -96,7 +97,23 @@ Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`
 
 ---
 
-Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus. La préparation du numéro suivant est suivie par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84), sans sommaire ni date imposés par avance.
+Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus.
+
+## Numéro 3 — en construction
+
+Le 23 septembre 2026, Jean Hugues Robert a confirmé explicitement que **le numéro 2 est totalement bouclé** et que **le numéro 3 est désormais en construction**.
+
+Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) et son journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
+
+Le numéro 3 n'a encore ni date, ni sommaire, ni longueur imposés. Son point de départ est le delta postérieur au n°2 gelé, notamment :
+
+- les six sondes Marie-Louise effectivement envoyées le 21 septembre ;
+- deux réponses P0 substantielles déjà reçues, de Maëva Guillery et Maéva Lecoq ;
+- un résultat de routage sur le canal Sylvain Lizon ;
+- les premiers Reality Tests post-n°2 du projet #1755 ;
+- les développements sur l'effectivité et le statut de résident.
+
+Ces éléments sont des **entrées de construction**, non un sommaire arrêté.
 
 Une édition effectivement gelée devra recevoir sa propre identité stable et référencer au minimum :
 
