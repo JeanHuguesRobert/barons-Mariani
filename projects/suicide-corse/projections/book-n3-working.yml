@@ -50,8 +50,8 @@ counterfactual_policy:
 
 observed_post_n2_delta:
   witness_campaign:
-    source: ../../memory/marie-louise/witnesses/campaign-01.md
-    coverage: ../../memory/marie-louise/witnesses/coverage-matrix.md
+    source: ../../../memory/marie-louise/witnesses/campaign-01.md
+    coverage: ../../../memory/marie-louise/witnesses/coverage-matrix.md
     sent_on: "2026-09-21"
     probes_sent: 6
     substantive_responses_received: 2
@@ -67,9 +67,9 @@ observed_post_n2_delta:
       - "Céline Christmann"
     publication_rule: "A private response is a trace, not automatic permission to publish its content."
   marie_louise:
-    - ../../memory/marie-louise/possible_matrix.md
-    - ../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
-    - ../../memory/marie-louise/witnesses/README.md
+    - ../../../memory/marie-louise/possible_matrix.md
+    - ../../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
+    - ../../../memory/marie-louise/witnesses/README.md
   collective_candidates:
     - ../../../research/autonomia/note_campagne_statut_resident_effectivite.md
     - ../../../research/autonomia/amendement_effectivite_article_72-5.md
