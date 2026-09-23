@@ -2,7 +2,7 @@
 title: "Marie-Louise — matrice de couverture périodes × témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-21
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-23
 status: working-paper
 document_role: research-matrix
 document_kind: witness-coverage-matrix
@@ -88,6 +88,17 @@ Notation minimale :
 - **Nicole Rombaldi / FRAC Corse** — archives du stage.
 - témoins des concours et orientations 2014–2016 ;
 - témoins des dernières semaines d'août–septembre 2024 encore à identifier.
+
+## Réponses P0 reçues depuis le gel du n°2
+
+La campagne du 21 septembre a déjà modifié la couverture documentaire :
+
+- **Maëva Guillery** a répondu le 22 septembre par un rappel libre substantiel. La réponse renforce la couverture du réseau nantais, de Corte et de certaines pratiques artistiques de Marie-Louise ; plusieurs souvenirs restent toutefois non datés précisément.
+- **Maéva Lecoq** a répondu le 21 septembre par un témoignage direct détaillé. Il renforce nettement la couverture de la période nantaise, des pratiques artistiques, de plusieurs activités / déplacements partagés et de l'existence d'œuvres ou objets encore conservés. Une partie du message relève d'un registre personnel sensible et reste réservée à une qualification séparée.
+- **Sylvain Lizon** a produit une réponse automatique de routage vers son nouveau canal professionnel et vers la direction actuelle de la Villa Arson. Ce résultat améliore la joignabilité, mais n'ajoute encore aucun souvenir direct.
+- **Damien Ruvet, Villa Arson et Céline Christmann** : aucune réponse identifiée lors de la vérification du 23 septembre. Ce silence de courte durée n'est interprété ni comme refus ni comme absence d'information.
+
+Ces réponses doivent être intégrées comme **nouvelles traces postérieures au gel du n°2**.
 
 ## Angles morts prioritaires
 
