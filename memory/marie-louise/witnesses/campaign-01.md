@@ -2,7 +2,7 @@
 title: "Marie-Louise — première campagne de sollicitation de témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-23
 status: working-paper
 document_role: operational
 document_kind: witness-outreach-campaign
@@ -186,6 +186,44 @@ Au moment du bouclage du numéro 2, six sollicitations distinctes sont préparé
 Statut commun au bouclage : `ready_to_contact`.
 
 Leur envoi est prévu immédiatement après le bouclage éditorial. Le Corpus ne doit les passer à `solicité` qu'après observation d'une trace d'envoi.
+
+## Exécution observée après le bouclage du n°2
+
+Le lot P0 préparé au bouclage a effectivement été **envoyé le 21 septembre 2026**. Il appartient donc au delta du numéro 3 et ne doit pas être réinjecté silencieusement dans le numéro 2 gelé.
+
+| Cible | Envoi observé | État au 23 septembre 2026 |
+|---|---|---|
+| Sylvain Lizon | Gmail `1a0c3b37e6c35fb8`, 21/09 13:21 | réponse automatique de routage reçue ; nouveau canal professionnel indiqué ; **pas encore de réponse substantielle** |
+| Damien Ruvet | Gmail `1a0c3b020510a855`, 21/09 13:18 | envoyé ; aucune réponse identifiée dans la recherche du 23/09 |
+| Villa Arson | Gmail `1a0c4b4308f8d929`, 21/09 18:02 | envoyé à la scolarité, avec la direction actuelle en copie ; aucune réponse identifiée dans la recherche du 23/09 |
+| Céline Christmann | Gmail `1a0c3adaed105e93`, 21/09 13:15 | envoyé ; aucune réponse identifiée dans la recherche du 23/09 |
+| Maëva Guillery | Gmail `1a0c3af3ae656fd0`, 21/09 13:17 | **réponse P0 substantielle reçue le 22/09** (`Gmail:1a0c7b48b93d3216`) |
+| Maéva Lecoq | Gmail `1a0c3aedfd8fbb9b`, 21/09 13:16 | **réponse P0 substantielle reçue le 21/09** (`Gmail:1a0c3ec068464efa`) |
+
+### Qualification minimale des réponses
+
+Les deux réponses humaines substantielles valident déjà l'intérêt du rappel libre P0 : elles font émerger spontanément des souvenirs, objets, pratiques artistiques, lieux et relations que la question n'avait pas énumérés.
+
+- **Maëva Guillery** : souvenirs directs liés notamment à la pratique artistique, à la nature, à Corte et à plusieurs objets / formes de création de Marie-Louise. Les dates précises restent à qualifier.
+- **Maéva Lecoq** : témoignage direct riche sur la période nantaise, la pratique artistique, des activités et déplacements partagés, ainsi que des œuvres / objets encore conservés. Le message contient aussi de la matière personnelle sensible qui doit rester hors de toute projection publique tant qu'elle n'a pas fait l'objet d'une qualification et d'une décision séparée.
+
+La réponse automatique de Sylvain Lizon est un **résultat de routage**, pas un témoignage sur Marie-Louise. Elle indique un nouveau canal professionnel et confirme que la direction actuelle de la Villa Arson est un interlocuteur distinct.
+
+### Règle de publication
+
+~~~text
+réponse privée reçue
+≠
+autorisation de publication
+
+réponse privée
+→ trace
+→ qualification
+→ éventuelle demande de précision / consentement
+→ décision éditoriale séparée
+~~~
+
+Le registre public peut documenter l'existence, la date, le type et la valeur documentaire d'une réponse sans reproduire automatiquement son contenu privé ou sensible.
 
 ## Questions communes à tous les témoins
 
