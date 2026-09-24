@@ -3,9 +3,9 @@ title: Mariani School of Autonomy — deux sites, un même projet patrimonial et
 subtitle: Minesteggio / Corte et La Maison Blanche / La Gaude
 author: Jean Hugues Noël Robert
 status: draft
-version: '0.3'
+version: '0.4'
 date: '2026-08-08'
-updated_at: '2026-09-08'
+updated_at: '2026-09-24'
 type: source_note
 language: fr
 license: CC BY-SA 4.0
@@ -269,11 +269,28 @@ Les échanges ultérieurs avec la Conservation régionale des monuments historiq
 
 En mars 2026, la DRAC évoquait encore la possibilité d’établir et publier l’arrêté sans attendre la liquidation complète de la succession, sous réserve de disposer des mentions nécessaires.
 
-En l’absence, dans le corpus actuellement vérifié, d’une copie de l’arrêté signé ou d’une preuve de sa publication, la formulation de référence doit donc rester :
+Le **23 septembre 2026**, Éléonore Bozzi, chargée de protection des monuments historiques à la DRAC / ministère de la Culture, informe directement Jean Hugues Robert que, pour Minesteggio, **« l’arrêté est pris et signé »** et précise ne pas savoir si la notification lui est déjà parvenue.
 
-> **Château Mariani / Minesteggio : procédure de protection au titre des monuments historiques en voie de finalisation ; arrêté final d’inscription non encore retrouvé dans le corpus.**
+Référence : `Gmail:1a0cdfa48c09042e`.
 
-Cette formulation doit être mise à jour dès que l’arrêté est obtenu.
+Cette réponse institutionnelle fait franchir un seuil documentaire au dossier :
+
+~~~text
+procédure en voie de finalisation
+→ état désormais dépassé
+
+arrêté pris et signé
+= déclaration institutionnelle directe, 23 septembre 2026
+
+copie de l'arrêté / date exacte de signature / notification / publication
+= encore à récupérer dans le Corpus
+~~~
+
+La formulation de référence devient donc :
+
+> **Château Mariani / Minesteggio : la DRAC confirme le 23 septembre 2026 que l’arrêté de protection est pris et signé ; la copie de l’arrêté, sa date exacte, sa notification et sa publication restent à verser au Corpus.**
+
+Cette distinction évite deux erreurs : continuer à présenter la procédure comme seulement « en voie de finalisation », ou prétendre disposer déjà de la pièce signée alors que seule sa confirmation institutionnelle est actuellement conservée.
 
 ---
 
