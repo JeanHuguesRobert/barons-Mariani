@@ -192,6 +192,12 @@ Le certificat est daté du 16 novembre 2016.
 
 L'établissement effectivement intégré après le bac n'est donc plus une inconnue pour cette première année post-bac.
 
+### Trace postérieure : atelier Albertini
+
+Le **23 septembre 2026**, Jean-Joseph Albertini apporte un témoignage direct nouveau sur cette même année 2016–2017. Il indique avoir reçu Marie-Louise dans un atelier d’arts plastiques et transmet trois photographies de sa proposition plastique sur le thème pédagogique **« Étape par étape »** (`Gmail:1a0cce1f2e6dfdc1`).
+
+Cette source postérieure renforce la cartographie de ses pratiques plastiques mais ne résout pas encore le **cadre institutionnel exact** de l’atelier, à articuler avec l’inscription régulière en CPES à Sartène. Voir `works/atelier_etape_par_etape_2016_2017.md`, catalogue `MLR-000018`.
+
 ## 5.3 2017–2021 — Beaux-Arts de Nantes
 
 Un message contemporain du 11 mai 2017 rapporte que Marie-Louise est « prise à Nantes ». Cette formulation est une source contemporaine du père, non la décision d'admission elle-même.
