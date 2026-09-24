@@ -1,0 +1,69 @@
+version: 0.1
+kind: marie-louise-work-catalogue-supplement
+parent_catalogue: entries.yml
+source_campaign: post-n2 responses 2026-09-23/24
+entries:
+  - id: MLR-000018
+    preferred_title: Proposition plastique sur le thème « Étape par étape »
+    alternate_titles: []
+    work_types: [artwork, process-trace]
+    artistic_status: established
+    date:
+      earliest: '2016-09'
+      latest: '2017-06'
+      precision: academic-year
+      note: Date exacte de l’atelier et des photographies inconnue.
+    places: [Corte]
+    creators: [Marie-Louise Robert]
+    collaborators: []
+    description_factual: >-
+      Proposition plastique de Marie-Louise documentée en 2026 par le témoignage
+      direct de Jean-Joseph Albertini et par trois photographies transmises par lui.
+      « Étape par étape » est le thème pédagogique donné à l’atelier ; il n’est pas
+      établi que Marie-Louise l’ait utilisé comme titre propre de son travail.
+    existence_status: established
+    access_status: reproduction-accessible
+    evidence:
+      - evidence_type: B
+        epistemic_status: THIRD-PARTY
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:1a0cce1f2e6dfdc1
+        description: >-
+          Témoignage direct de Jean-Joseph Albertini, enseignant, identifiant la
+          proposition plastique et transmettant trois photographies.
+      - evidence_type: A
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:1a0cce1f2e6dfdc1
+        description: >-
+          Trois fichiers JPG reçus : ROBERT Marie-Louise (1).JPG,
+          ROBERT Marie-Louise (2).JPG et ROBERT Marie-Louise (3).JPG.
+    certainty: high
+    parent_or_series: [MLR-000010]
+    related_entries: [MLR-000010]
+    source_notes:
+      - memory/marie-louise/works/atelier_etape_par_etape_2016_2017.md
+    witnesses:
+      - name: Jean-Joseph Albertini
+        role: enseignant / témoin direct et détenteur des photographies
+    rights:
+      publication_authorized: false
+      note: >-
+        Réception comme pièces d’enquête seulement ; aucune autorisation de
+        reproduction publique des trois photographies n’est établie.
+    privacy:
+      visibility: public-summary-only
+      contains_private_material: true
+      publication_note: >-
+        Le catalogue public peut décrire l’existence des photographies et du
+        témoignage sans reproduire le mail ni les images.
+    open_questions:
+      - Date exacte de l’atelier et des photographies.
+      - Cadre institutionnel exact de l’atelier au regard de la CPES Sartène.
+      - Nature, dimensions, technique et devenir de la proposition plastique.
+      - Autres participants ou traces.
+      - Titularité des droits et conditions d’une éventuelle reproduction publique.
+    next_probes:
+      - Clarifier le contexte avec Jean-Joseph Albertini.
+      - Rechercher d’autres archives de l’atelier.
+      - Obtenir une autorisation séparée avant toute publication des photographies.
