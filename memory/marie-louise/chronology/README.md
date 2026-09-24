@@ -2,7 +2,7 @@
 title: "Marie-Louise — chronologie documentaire"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-21
+last_modified_at: 2026-09-24
 language: fr
 document_role: research
 document_kind: chronology-index
@@ -131,6 +131,10 @@ causalité du décès établie
 Au bouclage du numéro 2, six sollicitations P0 sont préparées mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann Brillais, Maëva Guillery et Maéva Lecoq.
 
 Leur statut est `ready_to_contact`. L'envoi prévu après publication ne sera enregistré comme exécuté qu'après observation d'une trace d'envoi. Les réponses éventuelles appartiendront aux étapes ultérieures de l'enquête.
+
+## Réponse du Réel postérieure au gel du n°2
+
+- **23 septembre 2026 — nouvelle trace rétrospective 2016–2017.** Jean-Joseph Albertini indique avoir reçu Marie-Louise dans un atelier d’arts plastiques pendant l’année 2016–2017 et transmet trois photographies d’une proposition plastique réalisée sur le thème pédagogique « Étape par étape ». Cette source reçue en 2026 documente un événement antérieur : elle ne doit pas être antidatée comme source contemporaine. Date exacte de l’atelier et cadre institutionnel restent à préciser. Références : `Gmail:1a0cce1f2e6dfdc1`, `../works/atelier_etape_par_etape_2016_2017.md`, catalogue `MLR-000018`. Statut : `TESTIMONY / TRACE`.
 
 ## Relation avec l'Annuaire
 
