@@ -80,6 +80,11 @@ Ces questions doivent être traitées par relances ciblées seulement après con
 
 ## CPES de Sartène — 2016–2017
 
+- Dans quel cadre exact Jean-Joseph Albertini a-t-il reçu Marie-Louise en atelier d’arts plastiques pendant l’année 2016–2017, alors que son inscription régulière en CPES 1 à Sartène est établie ?
+- À quelle date ont été réalisées les trois photographies transmises le 23 septembre 2026 ?
+- Quelle était la nature et le devenir de la proposition plastique répondant au thème pédagogique « Étape par étape » ?
+- Qui participait à cet atelier, et existe-t-il d’autres traces ?
+- Quels droits et autorisations permettraient, le cas échéant, de reproduire publiquement ces photographies ?
 - Quelle était la liste complète de la promotion ?
 - Quel rôle Jean-Jacques Cangioni a-t-il joué dans l'accompagnement de Marie-Louise ?
 - À quelles rencontres pédagogiques a-t-elle personnellement participé ?
