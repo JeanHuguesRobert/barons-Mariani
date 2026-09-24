@@ -128,7 +128,7 @@ causalité du décès établie
 
 ## Chronologie de l'enquête — 21 septembre 2026
 
-Au bouclage du numéro 2, six sollicitations P0 sont préparées mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann Brillais, Maëva Guillery et Maéva Lecoq.
+Au bouclage du numéro 2, six sollicitations P0 sont préparées mais non encore envoyées : Sylvain Lizon, Damien Ruvet, Villa Arson, Céline Christmann, Maëva Guillery et Maéva Lecoq.
 
 Leur statut est `ready_to_contact`. L'envoi prévu après publication ne sera enregistré comme exécuté qu'après observation d'une trace d'envoi. Les réponses éventuelles appartiendront aux étapes ultérieures de l'enquête.
 
