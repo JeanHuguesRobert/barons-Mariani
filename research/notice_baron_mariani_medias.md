@@ -166,7 +166,7 @@ Pour les filiations précises, le corpus privilégie les actes et sources géné
 
 La continuité Mariani possède également un support patrimonial à **Minesteggio, Corte**, où se trouve la maison familiale dite **Château Mariani**.
 
-Le corpus documente une **procédure de protection au titre des monuments historiques en voie de finalisation auprès de la DRAC de Corse**. La formulation reste volontairement prudente tant que l’arrêté final signé ou sa publication n’est pas versé au corpus.
+Le **23 septembre 2026**, la DRAC de Corse a confirmé directement à Jean Hugues Robert que l’**arrêté de protection est pris et signé** (`Gmail:1a0cdfa48c09042e`). La copie de l’arrêté, sa date exacte, sa notification et sa publication ne sont pas encore versées au Corpus. Il est donc exact d’écrire que l’arrêté est signé, mais prématuré d’en reproduire la portée juridique précise avant récupération de la pièce.
 
 État public documenté :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/mariani_school_sites_minesteggio_la_gaude.md
