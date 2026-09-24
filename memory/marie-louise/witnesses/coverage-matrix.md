@@ -2,7 +2,7 @@
 title: "Marie-Louise — matrice de couverture périodes × témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-21
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 status: working-paper
 document_role: research-matrix
 document_kind: witness-coverage-matrix
@@ -50,7 +50,7 @@ Notation minimale :
 | 2009–2013 — adolescence / Corte | Jade Casteres (D,T,R) ; Jade le Roux (?) ; Sandrine Sekinger (D contexte familial) ; Christèle Guéniot-Palluet (D contexte familial) | moyenne | **P0/P1** |
 | 2013 — stage FRAC Corse | Sylvie Della Valle (I/D?) ; Nicole Rombaldi (I) ; archives FRAC (I) | moyenne | P1 |
 | 2014–2016 — lycée / orientation / concours | dossiers ENSAD, Beaux-Arts de Paris, animation ; témoins humains encore peu identifiés | faible | **P0/P1** |
-| 2016–2017 — CPES Sartène | Jean-Jacques Cangioni (I/D potentiel) ; Idryss Lyons (D potentiel/T) ; promotion CPES ; Scenina ; intervenants Tomasi/Casalonga | moyenne | **P0/P1** |
+| 2016–2017 — CPES Sartène / atelier à Corte | Jean-Joseph Albertini (D/T, réponse reçue + 3 photos) ; Jean-Jacques Cangioni (I/D potentiel) ; Idryss Lyons (D potentiel/T) ; promotion CPES ; Scenina ; intervenants Tomasi/Casalonga | moyenne à bonne, mais cadre de l’atelier Albertini à clarifier | **P0/P1** |
 | 2017–2018 — transition vers Nantes | Alice Gautier (D, hébergement 2018) ; Maëva Guillery (D) ; archives écoles | moyenne mais fragmentée | **P0** |
 | 2019–2020 — quotidien nantais | Camille Gérard (D colocation) ; Juliette Fetaz (D potentiel) ; Jacques Laroche (I/T) ; Maëva Guillery (D) | bonne sur logement, faible sur quotidien vécu | **P0** |
 | 2021 — résidence / tournage Falguières | Hugues Absil (D/I/R) ; « Anna » (?) ; Maëva Guillery (réseau artistique) | moyenne | **P0** |
@@ -79,6 +79,10 @@ Notation minimale :
 - **Alice Gautier** — Marie-Louise la décrit en novembre 2018 comme « la camarade qui m'héberge à Nantes pour l'instant ».
 - **Juliette Fetaz** — colocataire/camarade nantaise documentée.
 - **« Anna »** — personne ayant fourni l'attestation liée à la résidence artistique d'avril 2021 ; identité complète inconnue.
+
+### Réponses directes supplémentaires
+
+- **Jean-Joseph Albertini — réponse reçue le 23 septembre 2026** : témoignage pédagogique direct 2016–2017 et trois photographies d’une proposition plastique sur le thème « Étape par étape » ; priorité suivante = clarifier date, cadre institutionnel et droits de publication.
 
 ### P1 — à préparer ensuite
 
