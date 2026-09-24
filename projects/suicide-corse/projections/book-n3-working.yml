@@ -66,6 +66,29 @@ observed_post_n2_delta:
       - "Villa Arson"
       - "Céline Christmann"
     publication_rule: "A private response is a trace, not automatic permission to publish its content."
+  additional_post_publication_responses:
+    - respondent: "Jean-Joseph Albertini"
+      received_on: "2026-09-23"
+      source: "Gmail:1a0cce1f2e6dfdc1"
+      kind: "substantive direct testimony + 3 photographic traces"
+      summary: "2016–2017 arts workshop; Marie-Louise remembered as involved/focused/interested when present; plastic proposal under teacher theme « Étape par étape »."
+      unresolved:
+        - "exact date"
+        - "exact institutional relationship to CPES Sartène"
+        - "nature and fate of the plastic proposal"
+        - "publication rights for the photographs"
+      publication_rule: "Record existence and provenance; do not publish private email or images without separate authorization."
+    - respondent: "Éléonore Bozzi / DRAC"
+      received_on: "2026-09-23"
+      source: "Gmail:1a0cdfa48c09042e"
+      kind: "institutional factual update"
+      summary: "DRAC states that the Minesteggio protection order has been made and signed."
+      unresolved:
+        - "copy of signed order"
+        - "exact signature date"
+        - "notification"
+        - "publication"
+      direct_witness_to_marie_louise: false
   marie_louise:
     - ../../../memory/marie-louise/possible_matrix.md
     - ../../../memory/marie-louise/2024_portes_et_controles_epistemiques.md
@@ -84,6 +107,7 @@ candidate_questions:
     - "Which works, objects, photographs and memories are still held by Marie-Louise's friends?"
     - "Can the Villa Arson rejection be recovered as a primary institutional decision?"
     - "What can new witnesses actually date or constrain about the under-documented periods?"
+    - "What exact institutional setting connected Marie-Louise to Jean-Joseph Albertini’s 2016–2017 arts workshop, and what do the three photographs establish?"
   method:
     - "How much knowledge can be recovered by asking sparsely rather than supplying the investigator's categories?"
     - "How should strongly constrained counterfactuals be used without either free fiction or defensive agnosticism?"
@@ -109,4 +133,5 @@ next_observations:
   - "Route Sylvain Lizon follow-up through the newly observed professional channel if a follow-up is authorized."
   - "Seek the primary Villa Arson decision: date, wording and grounds."
   - "Qualify the two received testimonies before any public quotation."
+  - "Recover the signed Minesteggio protection order and record its exact date, notification and publication status."
   - "Continue accumulating post-n2 Corpus delta without freezing n3 composition."
