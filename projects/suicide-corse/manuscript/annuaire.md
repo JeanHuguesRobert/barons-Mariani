@@ -86,6 +86,7 @@ Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestat
 
 ### CPES de Sartène, 2016-2017
 
+- **Jean-Joseph Albertini** — témoin pédagogique direct confirmé par une réponse du 23 septembre 2026. Il indique avoir reçu Marie-Louise dans un atelier d’arts plastiques en 2016–2017 et transmet trois photographies de sa proposition sur le thème « Étape par étape ». Date exacte, cadre institutionnel et droits de reproduction restent à préciser ; les images ne sont pas publiées automatiquement.
 Trois rencontres pédagogiques publiques documentées, avec participation individuelle de Marie-Louise `UNKNOWN` dans chaque cas — voir la Chronologie :
 
 - **Marie-Jeanne Tomasi** — cinéaste, intervenante le 24 mars 2017 ; **Jean-Jacques Cangioni** — coordinateur de la CPES, témoin pédagogique potentiel transversal.
