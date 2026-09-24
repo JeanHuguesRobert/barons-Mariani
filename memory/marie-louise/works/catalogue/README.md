@@ -31,6 +31,7 @@ Ce dossier contient la représentation machine-readable et les journaux de reche
 - `schema.yml` — schéma canonique des entrées ;
 - `entries.yml` — registre initial ;
 - `entries-gmail-2026-09-17.yml` — entrées et pistes ajoutées par la campagne Gmail du 17 septembre 2026 ;
+- `entries-post-n2-2026-09-24.yml` — supplément post-n°2, dont `MLR-000018` issu du témoignage et des photographies transmis par Jean-Joseph Albertini ;
 - `gmail_campaign_2026-09-17.md` — journal humain de la campagne Gmail correspondante.
 
 ## Règle d’intégration
@@ -52,3 +53,10 @@ La campagne Gmail a notamment ajouté :
 - `MLR-000017` — candidature législative de 2022 comme action politique documentée au sens large de l’œuvre.
 
 Elle a aussi créé des pistes de provenance pour le corpus nantais et pour l’identification de l’intervention en ZAD proche de Nantes.
+
+
+## Delta post-n°2 — 23–24 septembre 2026
+
+- `MLR-000018` — proposition plastique de Marie-Louise documentée par Jean-Joseph Albertini et trois photographies, réalisée en 2016–2017 en réponse au thème pédagogique « Étape par étape ».
+
+Le thème de l’atelier ne doit pas être confondu avec un titre d’œuvre attribué par Marie-Louise. Les photographies sont accessibles comme traces privées mais ne sont pas publiées : la décision de reproduction et les droits correspondants restent à établir.
