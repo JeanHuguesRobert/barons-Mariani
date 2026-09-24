@@ -126,6 +126,8 @@ Chaque repère porte, quand le fonds documentaire le distingue, son statut épis
 
 **23 septembre 2026 — état borné des autres sondes.** `BOUNDED-NEGATIVE`. Aucune réponse de Damien Ruvet, de la Villa Arson ou de Céline Christmann n'est identifiée lors de la vérification effectuée ce jour. Un silence de quelques jours n'est interprété ni comme refus, ni comme absence d'information.
 
+**23 septembre 2026 — témoignage Jean-Joseph Albertini et trois photographies.** `TESTIMONY / TRACE` d’enquête. Albertini indique avoir reçu Marie-Louise dans un atelier d’arts plastiques en 2016–2017 et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape ». Ce témoignage documente une activité jusque-là absente du Corpus ; sa date exacte et son cadre institutionnel restent à préciser, notamment au regard de l’inscription CPES à Sartène. Les photographies sont reçues comme traces, sans autorisation de publication présumée.
+
 ## Ce que cette chronologie ne fait pas
 
 Elle ne comble aucune lacune par inférence narrative. Là où le Corpus indique `UNKNOWN`, ce chapitre le conserve tel quel. Les lacunes les plus prioritaires — réseau amical 2009-2016, été 2024 — restent des chantiers actifs : voir les Continuations et l'Annuaire.
