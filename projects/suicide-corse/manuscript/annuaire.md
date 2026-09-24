@@ -105,7 +105,7 @@ Le registre documente l'existence d'une psychologue mandatée dans un contexte d
 
 ### Été 2024 et conservation des traces
 
-- **Céline Christmann Brillais** — correspondante directe de Marie-Louise en juillet 2024 et détentrice / relayeuse de plusieurs traces de ces échanges. Les détails relevant de démarches personnelles ou sensibles ne sont pas reproduits dans cet annuaire public.
+- **Céline Christmann** — correspondante directe de Marie-Louise en juillet 2024 et détentrice / relayeuse de plusieurs traces de ces échanges. Les détails relevant de démarches personnelles ou sensibles ne sont pas reproduits dans cet annuaire public.
 - **Martine Brillais** — proche de Marie-Louise, aujourd'hui décédée selon le témoignage de Jean Hugues Robert. Elle ne peut donc plus être sollicitée comme témoin vivant. Ses correspondances, photographies, textes transmis et l'éventuelle audition de gendarmerie rapportée par l'auteur deviennent des **traces posthumes à localiser, préserver et qualifier**.
 
 Cette dernière situation impose une distinction simple : lorsqu'un témoin potentiel est décédé, l'enquête bascule de la sollicitation vers la recherche des traces déjà produites et de leurs détenteurs secondaires.
@@ -117,7 +117,7 @@ Six premières démarches sont prêtes à partir immédiatement après la public
 - **Sylvain Lizon** — souvenir libre de Marie-Louise ;
 - **Damien Ruvet** — souvenir libre ;
 - **Villa Arson** — demande sur les documents et traces encore conservés ;
-- **Céline Christmann Brillais** — souvenirs de 2024 et traces éventuellement conservées ;
+- **Céline Christmann** — souvenirs de 2024 et traces éventuellement conservées ;
 - **Maëva Guillery** — souvenirs de la période nantaise ;
 - **Maéva Lecoq** — souvenirs personnels et photographies.
 
