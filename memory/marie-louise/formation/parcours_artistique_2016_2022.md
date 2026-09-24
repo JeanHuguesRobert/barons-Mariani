@@ -160,6 +160,14 @@ CPES 1, lycée Georges-Clemenceau de Sartène
 
 KnowledgeGap principal : `gap:2016-2017:cpes-network`.
 
+### 2016–2017 — atelier Albertini, trace retrouvée en 2026
+
+Le 23 septembre 2026, **Jean-Joseph Albertini** indique avoir reçu Marie-Louise dans un atelier d’arts plastiques pendant l’année 2016–2017 et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape » (`Gmail:1a0cce1f2e6dfdc1`).
+
+Cette source est un **témoignage direct postérieur + traces photographiques**, non une pièce administrative contemporaine. Elle établit l’existence d’une activité plastique et la présence de Marie-Louise dans cet atelier, mais le dispositif institutionnel exact reste à clarifier au regard du certificat CPES de Sartène.
+
+Voir `../works/atelier_etape_par_etape_2016_2017.md` et le catalogue `MLR-000018`.
+
 ## 3. 28 mars 2017 — *photoromanJulie*
 
 **Statut : TRACE / VOICE pour le titre de la publication.**
