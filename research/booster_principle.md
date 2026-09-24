@@ -176,6 +176,28 @@ A documentary Booster should increase intelligibility or navigability without
 silently suppressing provenance, objections, uncertainty, contradictions, or
 alternative paths.
 
+
+### 3.3. Computational Booster through latent factorisation
+
+A concrete computational application is developed in Cogentia's [Latent Human Space and the Cogentigraphic Booster](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/latent_human_space_and_cogentigraphic_booster.md).
+
+The candidate intervention is representational:
+
+```text
+repeated full individual modelling
+->
+shared structural basis
++ person-specific coordinates
++ small residual
+```
+
+If human cognitive or preference variation is strongly compressible at a useful operational resolution, the shared basis can be learned once and reused. The latent capacity is the population structure already present in the data; the Booster is the representation that makes this reusable structure operational.
+
+Potential leverage includes lower preference-elicitation cost, less per-user adaptation, smaller personal model state, easier transfer, and eventually smaller bounded-domain twin runtimes. These gains are hypotheses to measure; the principle does not license assuming them.
+
+The related French thought experiment [L’âme comme classe d’équivalence](ame_identite_latente_experience_de_pensee.md) records the metaphysical intuition that led to the operational hypothesis while explicitly keeping ontology separate from evidence.
+
+
 ## 4. Fertile Grounds as Booster-rich configurations
 
 The [Fertile Grounds Method](methode_terrains_feconds.md) reconfigures the terrain on which an opposition is posed before adding more argument inside the existing opposition.
