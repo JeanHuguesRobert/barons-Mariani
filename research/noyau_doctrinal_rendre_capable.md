@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.3
+version: 0.5.4
 date: '2026-09-15'
-review_status: v0.5.3 adds graded constrained counterfactuals and guards against defensive agnosticism; constructive review remains welcome
+review_status: v0.5.4 reconnects prendre au mot, effectivity, capability gaps and Machine à Rendre Capable; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -125,6 +125,7 @@ Le document peut être lu à partir d’une grammaire simple :
 - **Liberté effective** : étendre l’espace des actions réellement accessibles, et non seulement celui des actions formellement permises.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
+- **Effectivité** : tester dans quelle mesure ce qui est annoncé, reconnu, permis ou garanti peut réellement être converti en action par l'acteur concerné, dans sa situation et dans le temps utile.
 - **Packetisation** : rendre des flux, actes ou ressources manipulables, routables, transmissibles et recomposables.
 - **Situation** : rattacher les capacités à des lieux, des personnes, des objets, des ressources et des contextes réels.
 - **Trace sans surveillance** : rendre les actes imputables sans basculer dans le fichage des personnes.
@@ -142,6 +143,18 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.4 — 2026-09-24
+
+Micro-consolidation de l'effectivité comme rebouclage capacitaire.
+
+Cette version :
+
+- généralise prudemment « prendre la République au mot » en un cas particulier de **prendre au mot**, sans modifier le document souverain de la Seconde Méthode ;
+- définit l'**effectivité** comme la conversion réellement praticable d'un énoncé, droit, promesse, permission ou garantie en capacité d'action située et disponible dans le temps utile ;
+- relie explicitement **prendre au mot → Reality Test → effectivité → écart capacitaire → facteur de conversion → Machine à Rendre Capable → nouveau Reality Test** ;
+- distingue l'effectivité de l'efficacité : la première demande si l'action devient réellement praticable, la seconde si cette action produit l'effet recherché ;
+- conserve une lecture multidimensionnelle de l'effectivité : accès, fonctionnement technique, capacité d'usage, temporalité et continuité.
 
 ## v0.5.3 — 2026-09-21
 
@@ -1356,6 +1369,27 @@ quels mécanismes agrandissent ou réduisent l’espace d’action ?
 ```
 
 « Prendre la République au mot » signifie donc ici ne pas rejeter ses principes, mais demander dans quelle mesure le Réel leur correspond, puis chercher à réduire les écarts évitables.
+
+Ce cas politique peut être replacé dans une opération plus générale : **prendre au mot**. Il ne s'agit ni de prêter à un acteur une intention qu'il n'a pas formulée, ni d'étendre artificiellement sa promesse. Il s'agit de traiter un énoncé explicite comme une hypothèse opérationnelle bornée, d'en conserver les conditions et exclusions, puis de demander ce qu'il rend effectivement praticable pour l'acteur concerné.
+
+On appellera ici **effectivité** le degré auquel ce qui est annoncé, reconnu, permis ou garanti peut réellement être converti en action, par l'acteur concerné, dans sa situation et dans le temps utile. L'effectivité est distincte de l'efficacité : la première demande si l'action devient effectivement praticable ; la seconde demande si, une fois accomplie, elle produit l'effet recherché.
+
+La boucle capacitaire peut alors être formulée ainsi :
+
+```text
+énoncé explicite
+→ prendre au mot
+→ Reality Probe / Reality Test
+→ capacité effectivement observée
+→ mesure de l'effectivité
+→ écart ou friction
+→ facteur de conversion
+→ Machine à Rendre Capable
+→ nouveau Reality Test
+→ ...
+```
+
+Cette mesure ne doit pas être réduite trop tôt à un score unique. Une même possibilité peut être juridiquement ou contractuellement ouverte mais difficile d'accès, techniquement fonctionnelle mais inutilisable par l'acteur situé, disponible trop tard, ou dépendante d'un intermédiaire dont la disparition détruit la continuité. Les dimensions pertinentes incluent donc au moins, selon le cas, l'accès, le fonctionnement technique, la capacité d'usage, le temps utile et la continuité.
 
 Cette approche est falsifiable dans ses applications. On peut contester le choix des dimensions, les indicateurs, les pondérations, le contrefactuel, les causalités ou le coût des mesures proposées. La doctrine doit conserver ces objections plutôt que déclarer l’écart évident par principe.
 
