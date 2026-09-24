@@ -82,6 +82,40 @@ Cette propagation est enregistrée dans Cogentia sous `PR-2026-010`.
 
 Pour Marie-Louise, le premier maillon est fortement contraint : elle candidatait activement pour revenir en quatrième année à la Villa Arson. Le rejet ferme cette branche. La continuation immédiate « si elle avait été admise, elle y serait très probablement retournée » est donc beaucoup plus contrainte qu'une fiction libre. L'hypothèse plus lointaine portant sur ses chances de survie comporte davantage de maillons et doit être examinée avec une confiance moindre, mais elle ne doit pas être neutralisée par principe.
 
+## Deuxième delta empirique — Albertini et Minesteggio
+
+Deux réponses reçues le 23 septembre ajoutent de la matière qui est **postérieure au gel du n°2** et appartient donc au Corpus courant / n°3.
+
+### Jean-Joseph Albertini
+
+Jean-Joseph Albertini indique avoir reçu Marie-Louise en cours pendant l’année 2016–2017. Il la dit rarement présente dans cet atelier, mais impliquée, concentrée et intéressée lorsqu’elle l’était. Il transmet surtout **trois photographies** qu’il rattache à une proposition plastique répondant au thème pédagogique « Étape par étape ».
+
+Cette réponse est importante parce qu’elle apporte simultanément :
+
+- un témoin pédagogique direct ;
+- une activité plastique jusqu’ici absente du Corpus ;
+- trois traces matérielles nouvelles ;
+- une question nouvelle sur le cadre exact de cet atelier, à articuler avec l’inscription CPES de Marie-Louise à Sartène.
+
+La réception des images ne vaut pas autorisation de publication. Une note dédiée conserve la trace sans reproduire les photographies : `memory/marie-louise/works/atelier_etape_par_etape_2016_2017.md`.
+
+### Minesteggio
+
+Éléonore Bozzi, chargée de protection des monuments historiques, informe Jean Hugues Robert que l’**arrêté de protection de Minesteggio est pris et signé**. Cette réponse institutionnelle remplace l’état précédent « procédure en voie de finalisation ».
+
+Le Corpus ne dispose pas encore de la copie de l’arrêté : sa date exacte, sa notification et sa publication restent donc à récupérer. Le nouveau niveau de preuve est néanmoins suffisant pour corriger les notes de référence.
+
+Ces deux réponses illustrent bien la règle du delta :
+
+~~~text
+édition gelée
+→ reste gelée
+
+nouvelle réponse du Réel
+→ corrige / enrichit le Corpus courant
+→ nourrit le numéro suivant
+~~~
+
 ## Delta collectif candidat
 
 Depuis le n°2, plusieurs travaux collectifs ont également progressé :
