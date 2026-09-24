@@ -63,6 +63,7 @@ La provenance, le degré de preuve, la disponibilité matérielle et la qualific
 - [`frontieres_stop_motion_2016.md`](frontieres_stop_motion_2016.md) — exposition autour des frontières à Corte, stop motion et trace audiovisuelle.
 - [`l_alterite_en_soi_2016.md`](l_alterite_en_soi_2016.md) — publication YouTube du 3 avril 2016, titre *L'altérité en soi*, description « Entre aliénation et construction de soi. Microcosmos. ».
 - [`photoroman_julie_2017.md`](photoroman_julie_2017.md) — publication vidéo du 28 mars 2017 pendant l'année de CPES à Sartène.
+- [`atelier_etape_par_etape_2016_2017.md`](atelier_etape_par_etape_2016_2017.md) — témoignage Jean-Joseph Albertini et trois photographies reçues en 2026 d'une proposition plastique réalisée en 2016–2017 sur le thème pédagogique « Étape par étape » ; date et cadre institutionnel exacts à préciser, photographies non publiées.
 - [`oletta_premier_chantier_artistique.md`](oletta_premier_chantier_artistique.md) — deux grandes peintures murales à Oletta, photographies familiales à inventorier.
 - [`zad_nantes_intervention.md`](zad_nantes_intervention.md) — intervention située dans une ZAD proche de Nantes, à identifier et documenter.
 - [`zad_sud_intervention.md`](zad_sud_intervention.md) — intervention située dans une ZAD du sud de la France, à identifier et documenter.
