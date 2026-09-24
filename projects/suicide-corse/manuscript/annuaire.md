@@ -2,8 +2,8 @@
 title: "Annuaire"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-23"
-status: render-candidate
+last_modified_at: "2026-09-24"
+status: working
 language: fr
 license: "CC BY-SA 4.0"
 document_role: derived
@@ -20,12 +20,15 @@ provenance:
     - memory/marie-louise/witnesses/METHOD.md
     - memory/marie-louise/witnesses/MODEL.md
     - memory/marie-louise/witnesses/research-2009-2016.md
+    - memory/marie-louise/witnesses/research-2017-transition-nantes.md
+    - memory/marie-louise/witnesses/nantes_zad_tournage.md
+    - memory/marie-louise/witnesses/coverage-matrix.md
     - memory/marie-louise/witnesses/campaign-01.md
 review:
-  status: human-authorized-for-n2-close
+  status: human-authorized-current-reprojection
   reviewed_by:
     - "Jean Hugues Noël Robert"
-  previous_status: "agent-revised — pending human review"
+  previous_status: "human-authorized-for-n2-close"
 ai_assisted_by:
   - "Claude Opus 5 (Anthropic) — dernière passe de lisibilité grand public, issue #82, 2026-09-21"
   - "ChatGPT — propagation documentaire et contrôle de cohérence au bouclage, 2026-09-21"
@@ -75,8 +78,21 @@ Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestat
 - **Alice Gautier** — camarade ayant hébergé Marie-Louise à Nantes en 2018, selon ses propres mots. À ne pas confondre avec une artiste contemporaine homonyme active à Nantes ; l'identité n'est pas établie.
 - **Juliette Fetaz** — colocataire/camarade à Nantes, documentée par un avenant de bail et par un message de Marie-Louise datant de juin 2019.
 - **Pauline Tomaszewski** — locataire antérieure du même logement nantais ; valeur documentaire directe encore incertaine.
+- **Jacques Laroche** — propriétaire et interlocuteur documentaire du logement nantais en 2019 ; témoin potentiel surtout logistique et détenteur possible de pièces relatives au bail et à l’occupation du logement, sans présumer d’une connaissance privilégiée de la vie artistique ou personnelle de Marie-Louise.
+- **Amie hébergée à l’automne 2019 — identité UNKNOWN** — une amie de Marie-Louise apparaît dans un échange avec Jacques Laroche ; elle ne doit être fusionnée sans preuve avec Alice, Juliette ou une autre personne connue du réseau nantais.
 - **Orfeu Vittoriu-Gregorj** — présence directe documentée à Notre-Dame-des-Landes en 2018 ; son éventuel lien avec une visite de Marie-Louise sur place n'est pas établi.
 - **« Anna »** — personne non identifiée par son nom de famille, désignée comme fournissant l'attestation de résidence de 2021. Piste ouverte prioritaire.
+
+### Transition vers Nantes, 2017
+
+La transition CPES → Nantes reste fragmentaire et doit conserver les versions attribuées plutôt que les fusionner.
+
+- **Ferdinand Pancrazi** — source tierce contemporaine et relais potentiel. Dans un échange du 21 juin 2017, il rapporte un conflit familial en Bretagne, un hébergement de Marie-Louise à Nantes chez « le père de son chéri » et l’idée qu’elle n’aurait alors plus été en mesure de présenter le concours des Beaux-Arts de Paris. Ces éléments restent `THIRD-PARTY`.
+- **Compagnon de Marie-Louise en 2017 — identité UNKNOWN** — personne encore non identifiée.
+- **Père du compagnon — identité UNKNOWN** — présenté par Ferdinand Pancrazi comme ayant hébergé Marie-Louise à Nantes ; réalité et modalités de cet hébergement restent à corroborer.
+- **Chantal Sechet / CROUS Nantes** — assistante sociale documentée dans la séquence 2017–2018 ; témoin institutionnel potentiel sur le suivi social et administratif, distinct de l’école d’art.
+
+Les recherches Gmail ciblées autour du 17 avril 2017 et sur un déplacement Bretagne → Nantes n’ont pas retrouvé de message direct de Marie-Louise ni de réservation correspondante : `BOUNDED-NEGATIVE`. Paris et Cergy restent non résolus quant à la présentation effective et au résultat.
 
 ### Villa Arson / Nice, 2021–2024
 
@@ -110,18 +126,29 @@ Le registre documente l'existence d'une psychologue mandatée dans un contexte d
 
 Cette dernière situation impose une distinction simple : lorsqu'un témoin potentiel est décédé, l'enquête bascule de la sollicitation vers la recherche des traces déjà produites et de leurs détenteurs secondaires.
 
-## Sollicitations prêtes au moment du bouclage
+## État de la campagne de sollicitation — 24 septembre 2026
 
-Six premières démarches sont prêtes à partir immédiatement après la publication de ce numéro. Elles n'ont pas encore été envoyées au moment du bouclage :
+Les six sondes préparées au bouclage du n°2 ont été **envoyées le 21 septembre 2026**. Elles appartiennent au delta postérieur au n°2 gelé et nourrissent désormais le Corpus courant / n°3.
 
-- **Sylvain Lizon** — souvenir libre de Marie-Louise ;
-- **Damien Ruvet** — souvenir libre ;
-- **Villa Arson** — demande sur les documents et traces encore conservés ;
-- **Céline Christmann** — souvenirs de 2024 et traces éventuellement conservées ;
-- **Maëva Guillery** — souvenirs de la période nantaise ;
-- **Maéva Lecoq** — souvenirs personnels et photographies.
+- **Maëva Guillery** — réponse de rappel libre substantielle reçue le 22 septembre ; contenu privé en cours de qualification avant toute éventuelle citation.
+- **Maéva Lecoq** — réponse substantielle reçue le 21 septembre ; elle apporte des souvenirs directs et l’existence de photographies, œuvres ou objets, sans autorisation automatique de publication.
+- **Sylvain Lizon** — réponse automatique de routage seulement ; un nouveau canal professionnel et la direction actuelle de la Villa Arson ont été identifiés, mais aucun témoignage substantiel n’est encore reçu.
+- **Damien Ruvet**, **Villa Arson** et **Céline Christmann** — sondes envoyées le 21 septembre ; aucune réponse identifiée lors de la vérification du 23 septembre. Ce silence bref n’est interprété ni comme refus ni comme absence d’information.
+- **Jean-Joseph Albertini** — sollicitation distincte postérieure au n°2 ; réponse substantielle reçue le 23 septembre, avec témoignage pédagogique direct et trois photographies d’une proposition plastique sur le thème « Étape par étape ». Date exacte, cadre institutionnel et droits de reproduction restent à préciser.
 
-Elles partent séparément afin de préserver autant que possible le rappel libre. Les réponses éventuelles appartiendront aux éditions suivantes.
+Règle de publication :
+
+~~~text
+réponse privée reçue
+≠
+autorisation de publication
+
+réponse privée
+→ trace
+→ qualification
+→ éventuelle demande de précision / consentement
+→ décision éditoriale séparée
+~~~
 
 ## Organisations et institutions
 
@@ -132,10 +159,18 @@ Elles partent séparément afin de préserver autant que possible le rappel libr
 
 ## Ce qu'une mention dans cet annuaire ne signifie pas
 
-Être mentionné ici ne signifie ni qu'un témoignage a déjà été recueilli, ni qu'une relation avec Marie-Louise est confirmée — certaines pistes (Alice Gautier, Orfeu Vittoriu-Gregorj, « Anna », la présence aux rencontres CPES) restent explicitement non confirmées.
+Être mentionné ici ne signifie pas automatiquement qu'un témoignage a été recueilli ni qu'une relation est confirmée. Certaines personnes sont désormais des témoins directs confirmés ; d'autres restent des pistes (Alice Gautier, Orfeu Vittoriu-Gregorj, « Anna », le compagnon de 2017, son père, la présence aux rencontres CPES). Chaque entrée conserve son propre statut.
 
 Une personne peut demander à être retirée de cet annuaire, ou à ce que sa mention soit reformulée, en écrivant à `institutmariani@gmail.com`.
 
 ## Pistes ouvertes
 
-Les lacunes documentaires les plus significatives à ce stade — réseau amical 2009-2016, période estivale 2024, identité de la psychologue et du contexte judiciaire de 2009, identité d'« Anna », présence de Marie-Louise aux rencontres CPES — sont reprises comme chantiers explicites dans les Continuations.
+La matrice de couverture au 24 septembre fait ressortir cinq angles morts ou chantiers prioritaires :
+
+- **août–17 septembre 2024** — période encore faiblement couverte par des témoins directs identifiés ;
+- **transition 2017–2018** — concours, installation à Nantes, compagnon et hébergement rapporté ;
+- **quotidien nantais 2019–2020** — logement bien documenté, vécu quotidien encore partiel ;
+- **résidence / tournage 2021** — rôle de Marie-Louise, identité d’« Anna », participants et archives ;
+- **orientation artistique 2014–2017** — davantage de pièces de concours que de témoignages humains et de décisions institutionnelles primaires.
+
+Ces priorités sont des priorités documentaires, non des jugements sur les personnes concernées.
