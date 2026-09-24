@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 language: fr
 status: working-paper
 date: 2026-09-18
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 document_role: index
 document_kind: witness-directory-index
 visibility: public
@@ -57,6 +57,10 @@ Ces études n'ont pas vocation à devenir des fiches uniques de toutes les perso
 ## Ajouts documentaires 2021–2024 — personnes et détenteurs de traces
 
 Les recherches Gmail du 21 septembre 2026 font émerger plusieurs personnes qui doivent désormais être représentées explicitement dans le registre, sans publier leurs coordonnées privées.
+
+### CPES / Corte — nouveau témoignage reçu le 23 septembre 2026
+
+- **Jean-Joseph Albertini** — témoin direct confirmé de Marie-Louise en 2016–2017. Il indique l’avoir reçue dans un atelier d’arts plastiques installé dans les locaux de l’ancienne BU, la décrit comme impliquée, concentrée et intéressée lorsqu’elle était présente, et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape ». Le cadre institutionnel exact de cet atelier reste à préciser au regard de l’inscription documentée de Marie-Louise en CPES 1 à Sartène. Statut : `TESTIMONY` direct + détenteur / transmetteur de traces photographiques. Référence : `Gmail:1a0cce1f2e6dfdc1`. Voir `../works/atelier_etape_par_etape_2016_2017.md`.
 
 ### Villa Arson / Nice
 
