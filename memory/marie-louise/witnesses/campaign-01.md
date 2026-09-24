@@ -2,7 +2,7 @@
 title: "Marie-Louise — première campagne de sollicitation de témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-24
 status: working-paper
 document_role: operational
 document_kind: witness-outreach-campaign
@@ -208,6 +208,19 @@ Les deux réponses humaines substantielles valident déjà l'intérêt du rappel
 - **Maéva Lecoq** : témoignage direct riche sur la période nantaise, la pratique artistique, des activités et déplacements partagés, ainsi que des œuvres / objets encore conservés. Le message contient aussi de la matière personnelle sensible qui doit rester hors de toute projection publique tant qu'elle n'a pas fait l'objet d'une qualification et d'une décision séparée.
 
 La réponse automatique de Sylvain Lizon est un **résultat de routage**, pas un témoignage sur Marie-Louise. Elle indique un nouveau canal professionnel et confirme que la direction actuelle de la Villa Arson est un interlocuteur distinct.
+
+### Extension post-publication — Jean-Joseph Albertini
+
+Une sollicitation distincte, envoyée après publication du n°2, produit le **23 septembre 2026** une réponse substantielle de Jean-Joseph Albertini (`Gmail:1a0cce1f2e6dfdc1`).
+
+Elle apporte :
+
+- un témoignage pédagogique direct sur 2016–2017 ;
+- une proposition plastique jusque-là absente du Corpus, sur le thème pédagogique « Étape par étape » ;
+- trois photographies nouvelles ;
+- un nouveau `KnowledgeGap` sur le cadre exact de l’atelier et son articulation avec la CPES de Sartène.
+
+Cette réponse relève de la même discipline d’intake que les P0 : conserver d’abord la trace, qualifier séparément le témoignage, l’objet artistique et les droits de publication.
 
 ### Règle de publication
 
