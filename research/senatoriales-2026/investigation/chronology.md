@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — chronologie probatoire"
-date: "2026-09-21"
+date: "2026-09-25"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -62,7 +62,7 @@ Elle est volontairement factuelle et évolutive.
 | après prise de connaissance de la note enregistrée à 15:49, heure exacte inconnue | décision | inferred | chaîne probatoire : note enregistrée à 15:49 ; le greffe a ensuite confirmé que la formation de jugement en avait pris connaissance avant de décider ; l'heure exacte de cette prise de connaissance et celle de la décision restent inconnues |
 | heure inconnue | mise à disposition / jugement le 14 septembre | established | date établie ; heure non établie |
 
-## 15–21 septembre 2026 : enquête postérieure
+## 15–25 septembre 2026 : enquête postérieure
 
 | Date | Événement | Statut | Observation |
 |---|---|---|---|
@@ -74,7 +74,13 @@ Elle est volontairement factuelle et évolutive.
 | 18/09 | nouvelles relances étroites au TA et à la préfecture | established | questions toujours ouvertes à la date de cette chronologie |
 | 18/09 22:00:01 | demande distincte au greffe sur trace d'audience, greffier d'audience et minute | established | réponse attendue |
 | 21/09 | découverte indépendante d'une reproduction publique du texte intégral du jugement du 14 septembre | established | texte retrouvé par recherche sur Pappers Justice, sans transmission nouvelle du TA ; cette reproduction permet de confirmer notamment l'enregistrement de la note en délibéré à 15:49 et l'identité du greffier signataire R. Longinotti, mais ne donne pas l'heure de mise à disposition du jugement |
-| 21/09 | nouvelle relance préparée dans le fil préfectoral sur le courriel/vidéo de 17:57:55 | established | demande limitée aux trois faits matériels : réception avant 18 h, transmission avec la saisine, transmission ultérieure avant décision |
+| 21/09 | nouvelles relances envoyées au greffe et à la préfecture | established | après lecture de la reproduction publique du jugement, maintien des questions matérielles qui n'y trouvent pas de réponse |
+| 21/09 18:04:28 | réponse du greffe sur la demande relative à la trace d'audience, au greffier et à la minute | established | invite à retirer le pli postal et indique que le jugement répond aux interrogations ; précise rester disponible si des questions subsistent après lecture |
+| 15/09 | oblitération à Bastia de l'enveloppe recommandée contenant le jugement | established | trace postale photographiée ; pièce brute non publiée en raison des données personnelles visibles |
+| 16/09 | première présentation du recommandé | established | date portée sur les documents postaux de remise |
+| 25/09 | remise effective et retrait du recommandé contenant l'expédition du jugement | established | remise matérialisée par les documents postaux ; jugement intégralement lu le même jour |
+| 25/09 16:50:46 | relance au greffe après lecture de l'expédition du jugement | established | envoyée dans le fil existant, avec Laurence Ceccaldi et Maguy en copie ; six résidus matériels demandés ; référence mesurée à l'article L.303 du code électoral pour expliquer l'intérêt de la clarification |
+| 25/09 16:59:13 | demande formelle à la préfecture de documents, données et conservation des traces | established | vise les traces du courriel de 17:57:55, les demandes d'originaux mentionnées au point 5 du jugement, les inventaires de transmission au TA et les transmissions ultérieures ; distingue CRPA et article 15 RGPD ; mentionne CADA/CNIL comme voies éventuelles en cas de difficulté persistante |
 
 ## Discipline de lecture
 
@@ -85,4 +91,6 @@ Cette chronologie ne permet notamment pas encore d'affirmer :
 - que la formation de jugement a visionné la vidéo ;
 - que l'entrée Sagace « Réception d'une lettre » correspond nécessairement aux observations manuscrites ;
 - l'heure exacte à laquelle la décision a été prise ;
-- la raison pour laquelle une complétion a été demandée et reçue pour les documents du mandataire financier alors qu'aucune proposition équivalente d'impression/signature du CERFA du candidat n'est actuellement documentée.
+- la raison pour laquelle une complétion a été demandée et reçue pour les documents du mandataire financier alors qu'aucune proposition équivalente d'impression/signature du CERFA du candidat n'est actuellement documentée ;
+- quelles demandes précises des services préfectoraux sont visées par la formule du point 5 du jugement « en dépit des demandes des services préfectoraux » ;
+- si R. Longinotti, greffier signataire du jugement, était effectivement le greffier présent à l'audience.
