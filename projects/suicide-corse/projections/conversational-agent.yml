@@ -1,9 +1,34 @@
 schema: suicide-corse.projection.conversational-agent.v0
 id: suicide-corse-agent
-status: placeholder
+status: public-guide-profile
 language: fr
 source_manifest: ../corpus.yml
-purpose: "Explore the full Suicide Corse corpus while keeping the Marie-Louise documentary Twin distinct."
+purpose: "Public Guide profile over the Suicide Corse corpus. The Marie-Louise documentary Twin stays distinct."
+implementation:
+  repository: JeanHuguesRobert/cogentia
+  profile: suicide-corse
+  mechanism: "profile.act_templates[] + POST /guide/prepare-act"
+  shared_with: fractavolta
+  note: "Same prepare-act path as FractaVolta. This file is not a second runtime."
+act_templates:
+  - id: submit-testimony
+    transport: email
+    to: institutmariani@gmail.com
+    effect: draft-only
+  - id: report-correction
+    transport: email
+    to: institutmariani@gmail.com
+    effect: draft-only
+boundaries:
+  conversation_is_not_submission: true
+  prepared_act_is_not_executed_act: true
+  contribution_is_not_knowledge: true
+  guide_sends: false
+  guide_writes_corpus: false
+  guide_reads_private_testimony: false
+  invent_marie_louise_voice: false
+  web_lookup: explicit-current-or-external-only
+  frozen_editions_mutable: false
 modes:
   - documentary
   - contradiction
@@ -17,3 +42,4 @@ rules:
   expose_uncertainty: true
   support_counterarguments: true
 related_issue: 50
+related_cogentia_issue: 210
