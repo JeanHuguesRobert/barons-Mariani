@@ -458,7 +458,9 @@ Ce probe devient particulièrement utile si RP-SEN-01 ou RP-SEN-02 répond de ma
 
 ## RP-SEN-07 — constater la proclamation officielle et ouvrir les horloges post-scrutin
 
-**Statut :** `waiting_trigger`
+**Statut :** `prepared / waiting_trigger`
+
+Trigger packet : [`post-scrutin-trigger-2026-09-27.md`](post-scrutin-trigger-2026-09-27.md)
 
 **Fonctions :**
 
@@ -825,7 +827,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-04 | conditional | préservation | U1 | peu | si conditions art. 18 pertinentes |
 | RP-SEN-05 | candidate | topologie | U1 U6 | oui, fortement | si détention incertaine |
 | RP-SEN-06 | candidate | topologie technique | U2 U4 | oui | après réponses initiales si nécessaire |
-| RP-SEN-07 | waiting_trigger | horloge / préservation | état officiel post-scrutin | modérément | scrutin puis proclamation |
+| RP-SEN-07 | prepared / waiting_trigger | horloge / préservation | état officiel post-scrutin | modérément | trigger packet prêt ; scrutin puis proclamation |
 | RP-SEN-08 | waiting_trigger | découverte | dossier final / U6 | oui, fortement | proclamation + fenêtre art. 32 |
 | RP-SEN-09 | candidate | nouvel observateur | ensemble du grief | oui | après proclamation ; art. 33 |
 | RP-SEN-10 | conditional | instruction | U1–U5 | oui | si contentieux ouvert |
