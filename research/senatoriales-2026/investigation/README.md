@@ -83,6 +83,7 @@ Une réponse qui fournit une information adjacente sans répondre à la question
 - [`probe-map.md`](probe-map.md) — carte évolutive des Reality Probes : inconnues, détenteurs, sorties possibles, deadlines et nouvelles branches rendues accessibles.
 - [`probe-batch-2026-09-25.md`](probe-batch-2026-09-25.md) — batch PASS A/PASS B : expansion systématique des sorties, réduction des redondances, gaps et génération des nouveaux probes passifs.
 - [`passive-probes-2026-09-25.md`](passive-probes-2026-09-25.md) — exécution passive RP-SEN-15/16/17, réduction de U3/U7/U8a et génération de RP-SEN-18 sur le bundle physique du dépôt.
+- [`defect-ledger.md`](defect-ledger.md) — ledger temporel des défauts / insuffisances : signalement, complétion, accusé de réception, résidu et état à chaque instant critique.
 - [`post-scrutin-trigger-2026-09-27.md`](post-scrutin-trigger-2026-09-27.md) — packet prêt pour RP-SEN-07/08/09/10 : fixation de la proclamation, fenêtre PV/annexes et préservation de l'option contentieuse sans exécution automatique.
 
 ## 6. Règle de mise à jour
