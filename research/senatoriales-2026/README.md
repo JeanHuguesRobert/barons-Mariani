@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — dossier canonique"
 description: "Point d'entrée du Corpus relatif à la candidature sénatoriale de Haute-Corse de septembre 2026, à son contentieux et à l'enquête documentaire qui en résulte."
-date: "2026-09-21"
+date: "2026-09-25"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -135,13 +135,28 @@ Leur cause ne doit pas être transformée en fait sans élément indépendant pe
 
 ## 7. État actuel
 
-L'enquête postérieure au jugement cherche notamment à déterminer :
+Le **25 septembre 2026**, l'expédition papier du jugement du 14 septembre a été effectivement retirée. Les éléments postaux conservés établissent une oblitération le 15 septembre, une première présentation le 16 septembre et une remise effective le 25 septembre. Les photographies brutes comportant adresse, signature ou autres données personnelles ne sont pas publiées dans ce dépôt ; leurs conséquences factuelles sont projetées dans l'enquête.
+
+La lecture de l'expédition reçue confirme notamment l'enregistrement de la note en délibéré à **15:49**. Elle ne résout pas plusieurs questions matérielles déjà adressées au greffe.
+
+Deux Reality Probes ont donc été poursuivis le 25 septembre :
+
+- **au Tribunal administratif**, relance dans le fil existant sur l'identité et l'heure de la « Réception d'une lettre », l'heure de mise à disposition du jugement, l'inventaire des pièces préfectorales, l'existence d'une trace d'audience, l'identité du greffier d'audience et l'accès à la minute ;
+- **à la préfecture**, demande formelle de communication des traces de réception et de traitement du courriel de 17:57:55, des traces des demandes d'originaux mentionnées au point 5 du jugement et des inventaires ou bordereaux de transmission au TA, avec distinction entre CRPA et droit d'accès RGPD et demande de conservation des journaux techniques encore existants.
+
+L'enquête cherche notamment à déterminer :
 
 - si le courriel envoyé au Bureau des élections le 11 septembre à 17:57:55 a été reçu par l'infrastructure destinataire avant 18 heures ;
 - quels éléments ont effectivement accompagné la saisine préfectorale enregistrée au TA à 18:16 ;
 - si des éléments supplémentaires ont ensuite été transmis au tribunal ;
+- quelles demandes précises des services préfectoraux sont visées par la formule « en dépit des demandes des services préfectoraux » au point 5 du jugement ;
 - la nature de certaines entrées génériques visibles dans Sagace ;
 - l'heure exacte de la décision ;
-- l'existence éventuelle d'une trace matérielle de l'audience et l'identité du greffier d'audience.
+- l'existence éventuelle d'une trace matérielle de l'audience, l'identité du greffier d'audience et les modalités d'accès à la minute.
 
 Voir [`investigation/`](investigation/).
+
+Traces transactionnelles publiques correspondantes :
+
+- [TA Bastia — communication dossiers 2601714-1 / 2601715-1](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-ta-bastia-communication-dossiers.yaml)
+- [Préfecture — transmission du courriel vidéo et demande d'accès aux traces](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-relance-transmission-ta-courriel-video.yaml)
