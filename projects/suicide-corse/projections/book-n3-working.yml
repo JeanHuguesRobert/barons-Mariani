@@ -109,6 +109,8 @@ observed_post_n2_delta:
     source_index: ../../../research/senatoriales-2026/investigation/sources.md
     probe_map: ../../../research/senatoriales-2026/investigation/probe-map.md
     probe_batch: ../../../research/senatoriales-2026/investigation/probe-batch-2026-09-25.md
+    passive_probe_run: ../../../research/senatoriales-2026/investigation/passive-probes-2026-09-25.md
+    post_scrutin_trigger: ../../../research/senatoriales-2026/investigation/post-scrutin-trigger-2026-09-27.md
     observed_on: "2026-09-25"
     established:
       - "The paper judgment was effectively received and read on 25 September; postal traces establish postmark on 15 September, first presentation on 16 September, and delivery on 25 September."
