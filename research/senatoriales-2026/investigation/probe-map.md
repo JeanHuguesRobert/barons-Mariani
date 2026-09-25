@@ -837,6 +837,11 @@ conserver le récépissé comme source primaire non localisée
 → éviter de répéter les mêmes recherches Gmail / Drive sans nouvel indice
 ```
 
+
+**Triangulation complémentaire :** le gel documentaire du 12 septembre indique que le dossier préfectoral transmis au TA contenait le récépissé provisoire et une « pièce portée le jour du dépôt ». L'inventaire Télérecours observé comportait seize pièces et s'arrêtait aux compléments du mandataire de 14:14. L'identité primaire exacte de la « pièce portée le jour du dépôt » reste ouverte.
+
+**Continuation générée :** rechercher, sans nouvelle relance redondante, le numéro / intitulé primaire de cette pièce dans l'inventaire préfectoral ou dans les réponses déjà attendues de RP-SEN-01 / RP-SEN-02.
+
 ---
 
 # 10. Probe interne de convergence
