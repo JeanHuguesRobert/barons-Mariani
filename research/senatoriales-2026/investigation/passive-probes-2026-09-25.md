@@ -417,6 +417,46 @@ La présence physique et la prise en charge administrative du dépôt ne sont pl
 
 Le récépissé ne comporte toutefois **aucun inventaire des pièces matériellement remises ou montrées au guichet**. Il ne résout donc pas, à lui seul, l'exhaustivité du bundle physique.
 
+## Triangulation du récépissé avec le dossier préfectoral / Télérecours
+
+Le gel documentaire du 12 septembre permet maintenant une triangulation supplémentaire avec le récépissé primaire retrouvé.
+
+Deux projections contemporaines du dossier TA indiquent :
+
+- que le dossier préfectoral transmis au TA comprenait un **reçu / récépissé provisoire** ;
+- qu'il comprenait aussi une **« pièce portée le jour du dépôt »** ;
+- que l'inventaire Télérecours observé pour le dossier 2601715 comportait **seize pièces** et s'arrêtait aux éléments de **14:14** relatifs au mandataire financier ;
+- que l'accusé préfectoral de **16:14** et le courriel / la vidéo de **17:57:55** n'apparaissaient pas dans cet inventaire observé.
+
+Cette triangulation produit trois résultats distincts :
+
+1. le récépissé retrouvé aujourd'hui correspond à une pièce qui était déjà identifiée comme présente dans le dossier préfectoral transmis au TA ;
+2. la formule **« pièce portée le jour du dépôt »** révèle qu'une autre pièce matérielle du passage en préfecture était documentée côté administration / dossier TA ;
+3. les sources actuellement accessibles ne permettent pas encore d'identifier avec certitude, par un numéro d'inventaire et un intitulé primaire, cette « pièce portée le jour du dépôt ».
+
+Il serait donc excessif de transformer cette formule en inventaire complet du bundle physique.
+
+**Réduction de U8b :**
+
+~~~text
+établi :
+- présence physique et prise en charge du dépôt à 12:20
+- récépissé provisoire primaire
+- récépissé présent dans le dossier préfectoral transmis au TA
+- existence documentée d'une « pièce portée le jour du dépôt »
+- compléments mandataire transmis à 14:14
+- inventaire Télérecours observé : 16 pièces, s'arrêtant aux éléments de 14:14
+
+encore ouvert :
+- identité primaire exacte de la « pièce portée le jour du dépôt »
+- exhaustivité de ce qui a été montré, remis, conservé ou rendu au guichet
+- numérotation exacte de chaque pièce dans l'inventaire préfectoral
+~~~
+
+Le prochain discriminant n'est donc plus « le récépissé existe-t-il ? », mais :
+
+> **quel numéro, quel intitulé et quel contenu primaire correspondent à la « pièce portée le jour du dépôt » dans l'inventaire transmis au TA ?**
+
 ### État de RP-SEN-19
 
 `answered / primary artifact found`
