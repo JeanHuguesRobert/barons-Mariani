@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-18"
+last_modified_at: "2026-09-25"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-## État courant — 18 septembre 2026
+## État courant — 25 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
@@ -61,11 +61,17 @@ Le gel protège cette projection historique ; il ne clôt ni l'enquête, ni les 
 
 ### Suicide Corse n°2 — 21 septembre 2026
 
-Le chantier éditorial actif est [l'issue #81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81).
+Le n°2 est **totalement bouclé et gelé**. Son chantier éditorial historique reste documenté par [#81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81), avec le bouclage technique et éditorial tracé par #83.
 
-Le n°2 est une **nouvelle projection agile du Corpus courant**. Il n'est pas tenu par le plan du numéro précédent. Un chapitre peut apparaître, disparaître, fusionner, changer d'ordre ou de fonction. La continuité porte sur les sources, la provenance, les statuts épistémiques, les décisions et les Continuations — pas sur la forme.
+Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les réponses et événements postérieurs appartiennent au Corpus courant, au n°3 ou à un erratum explicitement identifié.
 
-La cible éditoriale actuelle est le lundi 21 septembre 2026.
+### Suicide Corse n°3 — en construction
+
+Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
+
+Le n°3 n'a encore ni date, ni sommaire, ni longueur imposés. Il collecte le delta postérieur au n°2 sans présumer de sa composition. Parmi les entrées désormais enregistrées figure le **delta sénatorial du 25 septembre** : réception effective du jugement du TA, résolution de l'heure 15:49 pour la note en délibéré, résidus documentaires persistants, relance du greffe et demande formelle d'accès aux traces auprès de la préfecture.
+
+Principe : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
 
 ### Appel à témoignages
 
@@ -169,7 +175,8 @@ Une projection ne devient jamais automatiquement source de vérité pour les aut
 - [#42](https://github.com/JeanHuguesRobert/barons-Mariani/issues/42) — chantier parent ;
 - [#75](https://github.com/JeanHuguesRobert/barons-Mariani/issues/75) — édition anniversaire et gel ;
 - [#80](https://github.com/JeanHuguesRobert/barons-Mariani/issues/80) — réception structurée des témoignages ;
-- [#81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81) — centre de gravité éditorial du n°2.
+- [#81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81) — chantier historique du n°2 désormais gelé ;
+- [#84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84) — préparation active du n°3.
 
 Les issues spécialisées historiques restent partie du Corpus lorsqu'elles portent des traces, décisions, objections ou Continuations, sans devenir pour autant des sources canoniques stabilisées.
 
