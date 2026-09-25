@@ -76,13 +76,31 @@ La formule littérale **« original papier »** n'a pas été identifiée dans c
 
 Ce résultat ne tranche pas la conséquence juridique du défaut retenu par le jugement ; il rend U7 plus précise.
 
+### Corroboration par les instructions 2026 publiées ailleurs
+
+Plusieurs pages préfectorales 2026, qui renvoient au même mémento national, publient explicitement les modalités suivantes :
+
+- aucun dépôt de candidature par messagerie électronique ;
+- dossier en double exemplaire ;
+- selon les pages, précision qu'il peut s'agir d'un original et d'une copie ;
+- les formulaires officiels rappellent eux-mêmes la signature manuscrite originale et la possibilité de photocopier le second exemplaire.
+
+Exemples officiels :
+- Haute-Garonne : https://www.haute-garonne.gouv.fr/Actualites/Depot-des-declarations-de-candidature-Senatoriales-2026
+- Alpes-de-Haute-Provence : https://www.alpes-de-haute-provence.gouv.fr/Actions-de-l-Etat/Elections/Elections-politiques/Elections-Senatoriales-2026
+- Haute-Savoie : https://www.haute-savoie.gouv.fr/Actualites/Elections/Elections-politiques/Elections-senatoriales/Candidatures
+- Bas-Rhin : https://www.bas-rhin.gouv.fr/Actions-de-l-Etat/Elections-Elus/Elections-politiques/Elections-senatoriales-2026/Candidats/Calendrier-de-candidature-et-dossier-du-candidat
+
+Ces pages ne remplacent pas la source applicable en Haute-Corse ; elles servent de **corroboration de l'interprétation administrative nationale 2026**.
+
 ### Résidu U7
 
 Restent ouverts :
 
-- contenu exact du mémento 2026 sur le point invoqué par la préfecture ;
-- éventuelles instructions nationales ou locales supplémentaires ;
-- portée juridique exacte de la notion d'« original » dans le régime sénatorial.
+- contenu exact du mémento Haute-Corse / national 2026 sur le point invoqué par la préfecture ;
+- éventuelles instructions locales supplémentaires ou consignes orales au dépôt ;
+- portée juridique exacte de la notion d'« original » dans le régime sénatorial ;
+- articulation entre la formalité substantielle et les possibilités concrètes de correction avant l'heure limite.
 
 ---
 
