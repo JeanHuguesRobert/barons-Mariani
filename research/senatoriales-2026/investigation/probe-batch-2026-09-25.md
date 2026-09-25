@@ -714,7 +714,10 @@ Objet :
 - identifier les faits discriminants retenus dans les précédents ;
 - ne pas transposer mécaniquement une solution dont les faits diffèrent.
 
-Ces trois probes sont **candidats générés par le batch** ; ils ne sont pas encore numérotés dans la carte canonique afin de conserver une étape de revue avant promotion.
+Ces trois probes ont été **générés par le batch puis promus après revue** dans la carte canonique :
+- NEW-RP-A → **RP-SEN-15** ;
+- NEW-RP-B → **RP-SEN-16** ;
+- NEW-RP-C → **RP-SEN-17**.
 
 ## 5. Inconnues sans probe détectées
 
