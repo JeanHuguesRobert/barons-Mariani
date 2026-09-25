@@ -99,6 +99,12 @@ Une projection programmatique de plus long terme qui confronte l’Autonomie de 
 
 ---
 
+## Bifurcation vers le mouvement Capable
+
+➡️ [**Trail — Capable**](capable.md)
+
+Cette bifurcation généralise le cadre au-delà de la seule Corse : **Capable** y est traité comme projection civique et politique de l’Autonomie de Capacité, du triptyque Machine à Empêcher / Machine à Explorer / Machine à Rendre Capable, de l’exigence d’effectivité et du chantier #Suvranu.
+
 ## Branches d’exploration
 
 Le parcours principal peut ensuite bifurquer selon la question du lecteur.

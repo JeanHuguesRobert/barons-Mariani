@@ -211,6 +211,31 @@ Ensemble de procédures et d'infrastructures (provenance, versioning git, source
 
 ---
 
+## Capable
+
+**Type:** civic-political projection / movement  
+**Scope:** Individual → Local → Territorial → National → European  
+**Status:** Working  
+
+**Short definition:**  
+Projection politique et civique de l’Autonomie de Capacité : évaluer règles, institutions, organisations et propositions selon les capacités qu’elles rendent effectivement praticables, leur distribution, leur contrôlabilité et leur correction possible. Le nom ne qualifie pas la compétence personnelle des acteurs ; il désigne un critère appliqué aux systèmes, y compris au mouvement lui-même.
+
+**Related concepts:**
+- Autonomie de Capacité
+- Démocratie capable
+- Machine à Explorer
+- Machine à Empêcher
+- Machine à Rendre Capable
+- Potentique territoriale
+- Effectivité
+- #Suvranu
+
+**Reference documents:**
+- [`projects/capable/README.md`](../projects/capable/README.md)
+- [`projects/capable/capable-test.md`](../projects/capable/capable-test.md)
+- [`research/trails/capable.md`](trails/capable.md)
+
+
 ## Cogentia
 
 

@@ -51,6 +51,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.5.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
+| [Capable — mouvement civique et politique](../projects/capable/README.md) *(project index — projection politique de l’Autonomie de Capacité, du triptyque des Machines, de l’effectivité et de #Suvranu ; doctrine source conservée dans les documents de recherche)* | this repo | 2026-09-25 |
 | [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
 | [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.14 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
