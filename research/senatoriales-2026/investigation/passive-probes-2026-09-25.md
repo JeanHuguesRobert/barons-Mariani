@@ -388,3 +388,46 @@ Les sources connectées accessibles étant désormais largement épuisées sur c
 
 Il devient un probe de **localisation d'artefact physique / mémoire directe du déposant**, suivi seulement en cas de résultat par une inspection de la pièce.
 
+
+## Troisième passe RP-SEN-18 / exécution RP-SEN-19 — récépissé retrouvé
+
+Le récépissé provisoire primaire a été retrouvé le 25 septembre dans la bibliothèque de travail, dossier **« Candidature sénatoriale 2026 »**, sous deux formes privées :
+
+- photographie : `2026-09-11_recepisse_provisoire_candidature_senatoriale.jpg` ;
+- transcription visuelle : `2026-09-11_recepisse_provisoire_candidature_senatoriale_transcription.md`.
+
+Le document lui-même établit directement :
+
+- nature : **récépissé provisoire** de déclaration de candidature aux élections sénatoriales ;
+- circonscription : **(2B) Haute-Corse** ;
+- candidat porté sur le récépissé : **M. MARIANI BARON** ;
+- remplaçante portée sur le récépissé : **Mme D’ANGELIS Marie-Louise** ;
+- lieu : **Bastia** ;
+- date et heure portées par l'administration : **11 septembre 2026 à 12H20 heure locale** ;
+- signataire administratif indiqué : **Marie-Françoise RAFFALLI**, pour la préfète et par délégation, directrice des Collectivités territoriales et des Politiques publiques ;
+- le texte précise que l'enregistrement ne sera effectué que lors de la remise du récépissé définitif, annoncée dans un délai maximal de quatre jours.
+
+Particularité matérielle conservée sans correction : la formule **« donne récépissé provisoire à »** apparaît sans nom visible immédiatement après `à`, avant la ligne suivante relative à la déclaration de candidature.
+
+Le déposant indique que la photographie a été prise à **12:37**. La copie JPEG actuellement conservée ne contient pas de métadonnée EXIF exploitable permettant de corroborer techniquement cette heure ; elle doit donc être conservée comme **heure rapportée par le déposant**, distincte de l'heure **12H20** imprimée sur le récépissé.
+
+### Effet sur U8b
+
+La présence physique et la prise en charge administrative du dépôt ne sont plus seulement établies par des projections et courriels postérieurs : elles disposent désormais d'une **source primaire contemporaine émise par la préfecture**.
+
+Le récépissé ne comporte toutefois **aucun inventaire des pièces matériellement remises ou montrées au guichet**. Il ne résout donc pas, à lui seul, l'exhaustivité du bundle physique.
+
+### État de RP-SEN-19
+
+`answered / primary artifact found`
+
+La branche « localiser le récépissé primaire » est fermée. La branche suivante reste :
+
+```text
+récépissé primaire retrouvé
+→ heure administrative 12:20 établie
+→ candidature et remplaçante telles qu'enregistrées sur le reçu établies
+→ aucun inventaire des pièces sur le reçu
+→ trianguler avec dossier préfectoral / TA et réponses RP-SEN-01 / RP-SEN-02
+```
+
