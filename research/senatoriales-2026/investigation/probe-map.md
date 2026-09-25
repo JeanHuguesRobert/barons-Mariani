@@ -797,7 +797,7 @@ Ne pas solliciter une institution pour une information qui peut d'abord être re
 
 ## RP-SEN-19 — localisation du récépissé provisoire primaire
 
-**Statut :** `ready / human-local`
+**Statut :** `answered / primary artifact found`
 
 **Fonctions :**
 
@@ -806,6 +806,8 @@ Ne pas solliciter une institution pour une information qui peut d'abord être re
 - `DISCRIMINATE`
 
 **Déclencheur :** deuxième passe RP-SEN-18 négative sur Gmail / Drive.
+
+**Résultat du 25 septembre :** le récépissé primaire a été retrouvé dans la bibliothèque de travail, dossier `Candidature sénatoriale 2026`, avec photographie et transcription. Il porte l'heure administrative **12H20 heure locale**, identifie le candidat et la remplaçante et ne comporte pas d'inventaire des pièces remises. L'heure **12:37** de prise de vue est rapportée par le déposant ; le JPEG conservé ne contient pas de métadonnée EXIF exploitable permettant de la corroborer techniquement.
 
 **Question minimale :**
 
@@ -891,7 +893,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-16 | partly answered / generative | reconstruction côté candidat | U8a/U8b | oui | U8a largement reconstruite ; U8b reste ouverte |
 | RP-SEN-17 | answered / continuing | jurisprudence comparable | qualification juridique | oui | run passif exécuté le 25/09 |
 | RP-SEN-18 | partly answered / waiting | bundle physique | U8b | oui | première passe sur traces propres exécutée ; attendre reçu primaire ou triangulation institutionnelle |
-| RP-SEN-19 | ready / human-local | artefact primaire | U8b / Q19 | oui | après seconde passe Gmail / Drive négative |
+| RP-SEN-19 | answered / primary artifact found | artefact primaire | U8b / Q19 | oui | récépissé retrouvé ; heure 12:20 et prise en charge établies ; absence d'inventaire maintient U8b partiellement ouverte |
 
 ## 12. Règle de continuation
 
