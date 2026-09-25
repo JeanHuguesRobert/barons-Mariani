@@ -946,6 +946,29 @@ signalés par écrit la veille
 
 Le probe doit rester neutre sur la portée juridique de ce contraste. Il sert à reconstruire l'état effectif des défauts, pas à inférer une intention administrative.
 
+**Résultat passif supplémentaire — canal Gmail :**
+
+- à 14:14, le candidat demande explicitement qu'on lui indique sans délai tout autre élément encore nécessaire avant 18 h ;
+- il indique que, sauf avis contraire, la seule difficulté subsistante lui paraît être celle des « originaux » ;
+- à 16:14, la seule réponse préfectorale Gmail retrouvée est « J'accuse réception des documents » ;
+- l'audit de tous les messages entrants du 11 septembre depuis `pref-elections@haute-corse.gouv.fr` et `@haute-corse.gouv.fr` n'a retrouvé aucun autre re-signalement écrit.
+
+**Effet de réduction :**
+
+```text
+canal Gmail 14:14 → 18:00
+largement audité
+→ aucun nouveau défaut écrit retrouvé
+
+résidu
+→ oral au guichet / téléphone
+→ notes internes
+→ autre canal
+→ dossier préfectoral / TA
+```
+
+Cette absence bornée ne doit pas être transformée en affirmation générale selon laquelle aucune demande n'aurait été formulée.
+
 ---
 
 ## 12. Règle de continuation
