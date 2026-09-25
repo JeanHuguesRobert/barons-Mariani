@@ -67,6 +67,8 @@ Elle est volontairement factuelle et évolutive.
 | Date | Événement | Statut | Observation |
 |---|---|---|---|
 | 15/09 | demande à la préfecture sur réception du courriel 17:57, présence dans la saisine et éventuelle transmission ultérieure | established | Reality Probe factuel |
+| 15/09 | oblitération à Bastia de l'enveloppe recommandée contenant le jugement | established | trace postale photographiée ; pièce brute non publiée en raison des données personnelles visibles |
+| 16/09 | première présentation du recommandé | established | date portée sur les documents postaux de remise |
 | 16/09 | relance à la préfecture | established | réponse oui/non explicitement proposée |
 | 16/09 | réponse d'Adrien Vidal | established | réponse relative au jugement, sans résolution des trois questions factuelles |
 | 16/09 | réponse du greffe du TA | established | confirme notamment que la formation avait pris connaissance de la note en délibéré avant de décider ; renvoi à Sagace pour la chronologie |
@@ -76,8 +78,6 @@ Elle est volontairement factuelle et évolutive.
 | 21/09 | découverte indépendante d'une reproduction publique du texte intégral du jugement du 14 septembre | established | texte retrouvé par recherche sur Pappers Justice, sans transmission nouvelle du TA ; cette reproduction permet de confirmer notamment l'enregistrement de la note en délibéré à 15:49 et l'identité du greffier signataire R. Longinotti, mais ne donne pas l'heure de mise à disposition du jugement |
 | 21/09 | nouvelles relances envoyées au greffe et à la préfecture | established | après lecture de la reproduction publique du jugement, maintien des questions matérielles qui n'y trouvent pas de réponse |
 | 21/09 18:04:28 | réponse du greffe sur la demande relative à la trace d'audience, au greffier et à la minute | established | invite à retirer le pli postal et indique que le jugement répond aux interrogations ; précise rester disponible si des questions subsistent après lecture |
-| 15/09 | oblitération à Bastia de l'enveloppe recommandée contenant le jugement | established | trace postale photographiée ; pièce brute non publiée en raison des données personnelles visibles |
-| 16/09 | première présentation du recommandé | established | date portée sur les documents postaux de remise |
 | 25/09 | remise effective et retrait du recommandé contenant l'expédition du jugement | established | remise matérialisée par les documents postaux ; jugement intégralement lu le même jour |
 | 25/09 16:50:46 | relance au greffe après lecture de l'expédition du jugement | established | envoyée dans le fil existant, avec Laurence Ceccaldi et Maguy en copie ; six résidus matériels demandés ; référence mesurée à l'article L.303 du code électoral pour expliquer l'intérêt de la clarification |
 | 25/09 16:59:13 | demande formelle à la préfecture de documents, données et conservation des traces | established | vise les traces du courriel de 17:57:55, les demandes d'originaux mentionnées au point 5 du jugement, les inventaires de transmission au TA et les transmissions ultérieures ; distingue CRPA et article 15 RGPD ; mentionne CADA/CNIL comme voies éventuelles en cas de difficulté persistante |
