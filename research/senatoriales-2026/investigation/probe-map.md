@@ -185,6 +185,14 @@ Questions :
 - quelles versions portent quelles signatures ?
 - quel est le lien entre chaque envoi, accusé, réponse et pièce correspondante ?
 
+### U9 — état temporel des défauts / insuffisances
+
+Question :
+
+> À chaque instant critique entre 12:20 et 18:00, quels défauts étaient signalés, corrigés, accusés reçus, encore ouverts ou non re-signalés dans les traces connues ?
+
+Projection canonique : [`defect-ledger.md`](defect-ledger.md).
+
 ---
 
 # 4. Probes actifs
@@ -909,6 +917,36 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-17 | answered / continuing | jurisprudence comparable | qualification juridique | oui | run passif exécuté le 25/09 |
 | RP-SEN-18 | partly answered / waiting | bundle physique | U8b | oui | première passe sur traces propres exécutée ; attendre reçu primaire ou triangulation institutionnelle |
 | RP-SEN-19 | answered / primary artifact found | artefact primaire | U8b / Q19 | oui | récépissé retrouvé ; heure 12:20 et prise en charge établies ; absence d'inventaire maintient U8b partiellement ouverte |
+| RP-SEN-20 | active / passive + waiting | défauts actifs / chronologie d'état | U3 U8 U9 / Q17 Q18 Q21 | oui | ledger créé ; prochaine réduction dépend des traces préfectorales/TA ou d'une pièce primaire du guichet |
+
+## RP-SEN-20 — ledger des défauts actifs
+
+**Statut :** `active / passive + waiting`
+
+**Projection détaillée :** [`defect-ledger.md`](defect-ledger.md).
+
+**Question :**
+
+> Pour chaque défaut qui a finalement motivé le refus, quel était son état exact à 12:20, 14:14, 16:14 et immédiatement avant 18:00 ?
+
+**Valeur discriminante actuelle :**
+
+```text
+D-SEN-03 mandataire
+signalement rapporté
+→ correction 14:14
+→ réception accusée 16:14
+
+D-SEN-01 / D-SEN-02 originaux / signatures
+signalés par écrit la veille
+→ dépôt physique + reçu provisoire
+→ trajectoire intermédiaire encore incomplète
+→ défauts retenus ensuite
+```
+
+Le probe doit rester neutre sur la portée juridique de ce contraste. Il sert à reconstruire l'état effectif des défauts, pas à inférer une intention administrative.
+
+---
 
 ## 12. Règle de continuation
 
