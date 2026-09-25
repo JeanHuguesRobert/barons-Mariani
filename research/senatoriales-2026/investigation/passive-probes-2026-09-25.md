@@ -457,6 +457,34 @@ Le prochain discriminant n'est donc plus « le récépissé existe-t-il ? », ma
 
 > **quel numéro, quel intitulé et quel contenu primaire correspondent à la « pièce portée le jour du dépôt » dans l'inventaire transmis au TA ?**
 
+## Discriminant juridique supplémentaire — fonction du reçu provisoire
+
+L'article L.301 du code électoral distingue explicitement deux temps :
+
+1. après le dépôt de la déclaration, **« il est donné au déposant un reçu provisoire de déclaration »** ;
+2. un **récépissé définitif** n'est délivré que si la déclaration est conforme aux prescriptions des lois en vigueur.
+
+Source officielle :
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036563393
+
+La portée probatoire du récépissé doit donc être formulée avec précision :
+
+~~~text
+reçu provisoire
+→ établit qu'une déclaration a été prise en charge dans la séquence de dépôt
+
+≠
+
+récépissé définitif
+→ constate la conformité permettant l'enregistrement
+~~~
+
+Cela resserre le problème factuel :
+
+> le point encore disputé n'est plus de savoir s'il y a eu une présentation matérielle et une prise en charge administrative avant 18 h ; il est de déterminer **quels éléments constituaient la déclaration alors déposée, quels défauts précis étaient encore retenus, et quelles possibilités de complétion existaient encore avant 18 h**.
+
+Le reçu provisoire ne prouve donc pas la conformité de la candidature, mais il interdit également de décrire correctement la séquence comme une simple tentative de dépôt électronique demeurée extérieure au processus matériel de dépôt.
+
 ### État de RP-SEN-19
 
 `answered / primary artifact found`
