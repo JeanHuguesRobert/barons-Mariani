@@ -804,7 +804,57 @@ Aucun.
 - horloge contentieuse à fixer à partir de la proclamation ;
 - horloges CRPA/RGPD distinctes.
 
-## 9. Condition de reprise
+## 9. Reprise incrémentale du 25 septembre — second passage
+
+Depuis le premier PASS B :
+
+- **RP-SEN-03** a été exécuté et fermé comme `answered / preserved` : la trace expéditeur, les métadonnées MIME et les principales pièces ont été relues et préservées par empreintes ;
+- **RP-SEN-15** a été approfondi par les travaux préparatoires de la loi n° 2018-51 : la mention manuscrite de L.299 a notamment pour finalité documentée de confirmer le consentement du remplaçant et d'éviter les suppléances « malgré eux » ;
+- **RP-SEN-16** a réduit U3 : un courriel préfectoral du 10 septembre à 20:05 constitue au moins une demande écrite d'originaux ;
+- **RP-SEN-18** a été partiellement exécuté sur les traces propres : un seul document papier relatif au mandataire financier est documenté comme physiquement présenté ; les CERFA candidat/remplaçante sont documentés comme non produits physiquement en version papier ;
+- aucune copie primaire du récépissé provisoire n'a été retrouvée dans les recherches Library / Drive effectuées à ce stade ;
+- **RP-SEN-07** dispose désormais d'un trigger packet prêt pour le changement de phase du 27 septembre.
+
+### Vue réduite après second passage
+
+~~~text
+WAITING EXTERNAL
+├── RP-SEN-01  préfecture
+└── RP-SEN-02  TA
+
+CLOSED / PRESERVED
+└── RP-SEN-03  trace expéditeur
+
+PARTLY ANSWERED / CONTINUING
+├── RP-SEN-15  corpus officiel / finalité législative
+├── RP-SEN-16  reconstruction électronique
+├── RP-SEN-17  jurisprudence comparable
+└── RP-SEN-18  bundle physique
+
+CONTINUOUS
+└── RP-SEN-14  triangulation
+
+PREPARED FOR PHASE CHANGE
+└── RP-SEN-07  trigger packet post-scrutin
+
+CONDITIONAL
+├── RP-SEN-04 / 05 / 06 / 13
+├── RP-SEN-08 / 09 / 10
+└── RP-SEN-11 / 12
+~~~
+
+### Réduction supplémentaire
+
+Aucun nouveau contact externe n'est justifié par ce second passage avant :
+
+- réponse de la préfecture ;
+- réponse du TA ;
+- découverte d'une copie primaire du récépissé ;
+- ou changement de phase post-scrutin.
+
+---
+
+## 10. Condition de reprise
 
 Le batch doit être rejoué, de manière incrémentale plutôt que depuis zéro, lorsqu'un des événements suivants survient :
 
