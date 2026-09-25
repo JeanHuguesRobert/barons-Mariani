@@ -115,18 +115,23 @@ observed_post_n2_delta:
       - "The judgment fixes registration of the note en délibéré at 15:49."
       - "After reading the judgment, a targeted follow-up was sent to the TA registry at 16:50:46 in the existing thread."
       - "A formal documentary/data access request was sent to the Haute-Corse prefecture at 16:59:13, including preservation of still-existing technical mail logs."
+      - "Passive probe execution recovered an explicit prefecture email of 10 September at 20:05 requesting originals for the next day's deposit; the remaining question is whether the judgment's plural reference covers additional requests."
+      - "Candidate-side reconstruction now separates the electronic bundle from the physical deposit bundle: the former is largely reconstructed; the latter is only partly reconstructed."
+      - "A frozen 12 September trace states that one paper document related to the financial agent was physically presented, while the candidate/replacement CERFA forms were not physically produced on paper."
     unresolved:
       - "server-side receipt time of the 17:57:55 email before the 18:00 deadline"
       - "whether the email/link/video was transmitted to the TA before judgment"
       - "identity and registration time of the Sagace 'Réception d'une lettre'"
       - "exact time the judgment was rendered or made available"
       - "complete inventory of prefecture submissions, including later transmissions"
-      - "documents or traces corresponding to the judgment's phrase 'en dépit des demandes des services préfectoraux'"
+      - "whether the judgment's phrase 'en dépit des demandes des services préfectoraux' refers only to the documented 10 September request for originals or also to additional requests"
+      - "exact physical bundle shown, handed over, retained or returned during the 11 September deposit, including recovery of the primary provisional receipt if still available"
       - "existence of a separate hearing trace, confirmation of the hearing clerk, and access rules for the signed minute"
     editorial_interest:
       - "A live example of the gap between procedural movement and actual uncertainty reduction."
       - "A contemporary cross-scale Reality Case for traceability, effective capacity, and the distinction between formal rights and usable access paths."
       - "A test of diplomatic escalation: make external review paths visible without turning a factual access request into an accusation."
+      - "A live demonstration of generative probe yield: passive source reconstruction produced a new distinction between the electronic bundle and the physical deposit bundle, and generated RP-SEN-18."
     privacy_rule: "Do not reproduce raw postal photos, signatures, addresses, technical logs, or non-public personal data; project only the facts they establish after minimization."
 
 candidate_questions:
