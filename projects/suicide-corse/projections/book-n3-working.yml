@@ -101,6 +101,32 @@ observed_post_n2_delta:
     - ../../../research/autonomia/societe_historique_de_corte.md
     status: "delta candidates only; not editorially selected yet"
 
+  senatoriales_2026_post_judgment:
+    status: "active documentary delta; candidate for n3, not editorially selected yet"
+    case_root: ../../../research/senatoriales-2026/README.md
+    chronology: ../../../research/senatoriales-2026/investigation/chronology.md
+    knowledge_matrix: ../../../research/senatoriales-2026/investigation/knowledge-matrix.md
+    source_index: ../../../research/senatoriales-2026/investigation/sources.md
+    observed_on: "2026-09-25"
+    established:
+      - "The paper judgment was effectively received and read on 25 September; postal traces establish postmark on 15 September, first presentation on 16 September, and delivery on 25 September."
+      - "The judgment fixes registration of the note en délibéré at 15:49."
+      - "After reading the judgment, a targeted follow-up was sent to the TA registry at 16:50:46 in the existing thread."
+      - "A formal documentary/data access request was sent to the Haute-Corse prefecture at 16:59:13, including preservation of still-existing technical mail logs."
+    unresolved:
+      - "server-side receipt time of the 17:57:55 email before the 18:00 deadline"
+      - "whether the email/link/video was transmitted to the TA before judgment"
+      - "identity and registration time of the Sagace 'Réception d'une lettre'"
+      - "exact time the judgment was rendered or made available"
+      - "complete inventory of prefecture submissions, including later transmissions"
+      - "documents or traces corresponding to the judgment's phrase 'en dépit des demandes des services préfectoraux'"
+      - "existence of a separate hearing trace, confirmation of the hearing clerk, and access rules for the signed minute"
+    editorial_interest:
+      - "A live example of the gap between procedural movement and actual uncertainty reduction."
+      - "A contemporary cross-scale Reality Case for traceability, effective capacity, and the distinction between formal rights and usable access paths."
+      - "A test of diplomatic escalation: make external review paths visible without turning a factual access request into an accusation."
+    privacy_rule: "Do not reproduce raw postal photos, signatures, addresses, technical logs, or non-public personal data; project only the facts they establish after minimization."
+
 candidate_questions:
   individual:
     - "What did sparse P0 recall reveal that the inquiry had not prompted?"
@@ -114,6 +140,8 @@ candidate_questions:
   collective:
     - "Does an autonomy proposal create effective capacity or merely formal permission?"
     - "What do the first #1755 Reality Tests reveal about access to historians, archives and local institutional memory?"
+    - "When a procedural record remains incomplete, which access path actually reduces the uncertainty: direct answer, document access, data access, or later judicial production?"
+    - "Can a request make possible escalation routes explicit while preserving cooperation and avoiding premature attribution of intent?"
 
 editorial_freedom:
   inherit_n2_plan: false
@@ -134,4 +162,7 @@ next_observations:
   - "Seek the primary Villa Arson decision: date, wording and grounds."
   - "Qualify the two received testimonies before any public quotation."
   - "Recover the signed Minesteggio protection order and record its exact date, notification and publication status."
+  - "Watch the 25 September TA follow-up for answers to the six remaining material questions."
+  - "Watch the 25 September prefecture CRPA/GDPR request for documentary and mail-system evidence; preserve response/non-response timing without inferring motive."
+  - "If new material arrives, update the senatorial knowledge matrix before any n3 editorial projection."
   - "Continue accumulating post-n2 Corpus delta without freezing n3 composition."
