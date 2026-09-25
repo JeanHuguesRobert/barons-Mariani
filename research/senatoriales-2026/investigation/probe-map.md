@@ -842,6 +842,16 @@ conserver le récépissé comme source primaire non localisée
 
 **Continuation générée :** rechercher, sans nouvelle relance redondante, le numéro / intitulé primaire de cette pièce dans l'inventaire préfectoral ou dans les réponses déjà attendues de RP-SEN-01 / RP-SEN-02.
 
+**Discriminant L.301 ajouté :** le reçu provisoire et le récépissé définitif ont des fonctions distinctes. Le premier documente la prise en charge de la déclaration dans la séquence de dépôt ; le second est conditionné à la conformité. La carte doit donc séparer désormais :
+
+~~~text
+DÉPÔT / prise en charge
+≠
+CONFORMITÉ / enregistrement définitif
+~~~
+
+Le prochain probe sur U8b ne cherche plus à établir l'existence du dépôt matériel, mais son **contenu exact et les défauts encore actifs après 12:20**.
+
 ---
 
 # 10. Probe interne de convergence
