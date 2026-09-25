@@ -375,7 +375,30 @@ Résultat méthodologique important :
 
 > l'existence d'au moins une demande écrite préfectorale d'originaux est désormais établie ; l'inconnue porte maintenant sur l'exhaustivité des demandes visées par le jugement et sur le bundle physique exact du dépôt.
 
-## 14. Principe de provenance
+## 14. Récépissé provisoire primaire retrouvé le 25 septembre
+
+Source privée conservée dans la bibliothèque de travail, dossier `Candidature sénatoriale 2026` :
+
+- `2026-09-11_recepisse_provisoire_candidature_senatoriale.jpg` — photographie primaire ;
+- `2026-09-11_recepisse_provisoire_candidature_senatoriale_transcription.md` — transcription visuelle dérivée.
+
+Faits directement lisibles sur le récépissé :
+
+- récépissé provisoire de déclaration de candidature, élections sénatoriales ;
+- circonscription (2B) Haute-Corse ;
+- M. **MARIANI BARON**, candidat ;
+- Mme **D’ANGELIS Marie-Louise**, remplaçante ;
+- fait à Bastia le **11 septembre 2026 à 12H20 heure locale** ;
+- délégation indiquée au nom de **Marie-Françoise RAFFALLI**, directrice des Collectivités territoriales et des Politiques publiques ;
+- mention selon laquelle l'enregistrement n'interviendra qu'à la remise du récépissé définitif, dans un délai maximal de quatre jours.
+
+Le document ne contient pas d'inventaire des pièces remises ou présentées. Il établit donc fortement la prise en charge matérielle du dépôt et son heure administrative, mais ne résout pas l'exhaustivité du bundle physique.
+
+Le déposant indique que la photographie a été prise à **12:37**. Le JPEG conservé ne contient pas de métadonnées EXIF exploitables ; cette heure reste donc `reported_by_candidate`, distincte de l'heure administrative imprimée de 12H20.
+
+La photographie brute n'est pas répliquée dans le dépôt public.
+
+## 15. Principe de provenance
 
 
 Pour toute assertion importante :
