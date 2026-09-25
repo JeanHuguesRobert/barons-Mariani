@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — index des sources de l'enquête"
-date: "2026-09-21"
+date: "2026-09-25"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -297,7 +297,32 @@ Provenance :
 - l'heure exacte de mise à disposition du jugement ;
 - l'inventaire complet des pièces de la saisine ;
 - l'existence de pièces préfectorales transmises ultérieurement ;
-- la réception et la transmission éventuelle du courriel/vidéo de 17:57:55.
+- la réception et la transmission éventuelle du courriel/vidéo de 17:57:55 ;
+- les traces exactes des « demandes des services préfectoraux » auxquelles se réfère le point 5.
+
+### Notification matérielle reçue le 25 septembre
+
+Le 25 septembre 2026, l'expédition papier adressée par le Tribunal administratif a été effectivement remise et le jugement intégralement lu.
+
+Les traces postales conservées établissent :
+
+- jugement daté du 14 septembre ;
+- oblitération à Bastia le 15 septembre ;
+- première présentation le 16 septembre ;
+- remise effective le 25 septembre.
+
+Ces documents et leur photographie constituent des **sources primaires privées / non répliquées ici** lorsqu'ils comportent adresse, signature ou autres données personnelles. Les faits non sensibles qu'ils établissent peuvent être projetés publiquement dans la chronologie.
+
+À compter du 25 septembre, l'expédition effectivement reçue devient la source primaire disponible pour le contenu du jugement ; la reproduction Pappers découverte le 21 septembre reste une source publique externe de corroboration.
+
+### Interaction Packets mis à jour le 25 septembre
+
+Deux traces transactionnelles publiques documentent les probes poursuivis après lecture du jugement :
+
+- [TA Bastia — communication dossiers 2601714-1 / 2601715-1](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-ta-bastia-communication-dossiers.yaml)
+- [Préfecture — transmission du courriel vidéo et demande d'accès aux traces](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-relance-transmission-ta-courriel-video.yaml)
+
+Le premier enregistre la relance envoyée au greffe le 25 septembre à 16:50:46 dans le fil existant. Le second enregistre la demande formelle adressée à la préfecture à 16:59:13 au titre, selon la nature des éléments, du CRPA et de l'article 15 du RGPD, avec demande de conservation des journaux techniques encore existants.
 
 ## 12. Registre médiatique et contacts presse
 
