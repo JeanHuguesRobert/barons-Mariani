@@ -93,6 +93,25 @@ Exemples officiels :
 
 Ces pages ne remplacent pas la source applicable en Haute-Corse ; elles servent de **corroboration de l'interprétation administrative nationale 2026**.
 
+### Travaux préparatoires de la loi de 2018
+
+Le rapport du Sénat sur la proposition devenue loi n° 2018-51 éclaire la finalité de la mention manuscrite ajoutée à L.299 : il s'agit de **confirmer par écrit l'accord du remplaçant** et de réduire le risque de candidatures ou de suppléances formées à l'insu des personnes concernées.
+
+Source officielle :
+https://www.senat.fr/rap/l17-087/l17-0877.html
+
+Cela crée un discriminant supplémentaire :
+
+~~~text
+finalité documentée de la formalité
+= établir personnellement le consentement du remplaçant
+
+question distincte
+= quel support matériel doit porter cette manifestation de consentement ?
+~~~
+
+Cette distinction n'abolit pas le formalisme du dépôt. Elle permet simplement de séparer la **garantie recherchée par le législateur** de la question du **support exact exigé pour l'établir**.
+
 ### Résidu U7
 
 Restent ouverts :
@@ -100,7 +119,7 @@ Restent ouverts :
 - contenu exact du mémento Haute-Corse / national 2026 sur le point invoqué par la préfecture ;
 - éventuelles instructions locales supplémentaires ou consignes orales au dépôt ;
 - portée juridique exacte de la notion d'« original » dans le régime sénatorial ;
-- articulation entre la formalité substantielle et les possibilités concrètes de correction avant l'heure limite.
+- articulation entre la formalité substantielle, sa finalité de consentement et les possibilités concrètes de correction avant l'heure limite.
 
 ---
 
@@ -193,14 +212,17 @@ Le motif de refus concernait toutefois l'inéligibilité, non les signatures ou 
 
 ### J2 — handicap et acte manuscrit accompli par un tiers
 
-**Conseil d'État, 14 mai 2021, n° 445497.**
+**Conseil d'État, 14 mai 2021, n° 445497 et 445540.**
 
-Dans le régime municipal de L.265, le Conseil d'État juge que signature et mention manuscrite sont en principe personnelles, mais admet une exception lorsqu'un handicap permanent ou provisoire empêche matériellement la personne de les accomplir, si son consentement éclairé est établi et que le tiers agit à sa demande.
+Dans le régime municipal de L.265, le Conseil d'État juge que signature et mention manuscrite sont en principe personnelles. Il pose cependant une exception lorsqu'un handicap permanent ou provisoire fait obstacle à l'accomplissement personnel et que le consentement éclairé est établi : la signature **ou** la mention peut alors être apposée à la demande de la personne par un tiers sans invalider la candidature.
 
-Source :
-https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2021-05-14/445497
+Dans l'affaire jugée, le candidat avait lui-même signé mais n'avait pu rédiger personnellement la mention en raison d'un handicap résultant d'un AVC ; il avait demandé à un tiers de l'apposer, et son consentement éclairé était établi.
 
-Ce précédent est **analogique** : il ne porte pas sur L.299.
+Sources officielles :
+- https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2021-05-14/445497
+- https://www.legifrance.gouv.fr/ceta/id/CETATEXT000043741066
+
+Ce précédent est **analogique** : il porte sur L.265, non sur L.299. Sa valeur exploratoire tient précisément à la proximité de structure entre les formalités de consentement issues de la loi de 2018, sans préjuger de leur transposition au scrutin sénatorial.
 
 ### J3 — photocopie / original et mécanisme spécial de complétion
 
