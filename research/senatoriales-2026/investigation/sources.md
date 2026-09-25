@@ -353,7 +353,30 @@ Fonction :
 - suivre les demandes de rectification ;
 - mesurer les réponses du Réel sans attribuer d'intention non prouvée.
 
-## 13. Principe de provenance
+## 13. Run passif du 25 septembre — sources primaires côté candidat
+
+Le run `passive-probes-2026-09-25.md` a relu directement plusieurs traces Gmail contemporaines.
+
+Traces publiques minimales enregistrées :
+
+- `Gmail:1a08c07a7fbb141b` — retransmission allégée du dossier le 10/09 à 17:54:50 ;
+- `Gmail:1a08c7eb62cc13ec` — réponse préfectorale du 10/09 à 20:05:04 demandant explicitement les originaux lors du dépôt du lendemain ;
+- `Gmail:1a08f1a2d612bb08` — réponse du candidat le 11/09 à 08:14:11 prenant acte de cette demande ;
+- `Gmail:1a0906430ac3adee` — transmission des deux formulaires du mandataire financier le 11/09 à 14:14:39 ;
+- `Gmail:1a090d1926fe460b` — accusé humain du BEDL à 16:14:05 ;
+- `Gmail:1a0913095d550884` — déclaration vidéo complémentaire émise à 17:57:55 ;
+- `Gmail:1a08ae5f35fd72f0` — autorisation écrite antérieure de Laurence Vernerey, conservée comme trace de consentement / autorisation sans préjuger de la conformité juridique de la formalité.
+
+Le MIME original des principaux messages envoyés a été vérifié côté Gmail. La vérification confirme les heures d'émission et les identifiants RFC822 ; ces identifiants techniques ne sont pas répliqués ici lorsqu'ils n'ajoutent rien à la preuve publique minimale.
+
+Les principales pièces PDF extraites de Gmail ont également reçu des empreintes SHA-256, consignées dans `passive-probes-2026-09-25.md`. Les documents bruts contenant identités, adresses ou signatures ne sont pas publiés.
+
+Résultat méthodologique important :
+
+> l'existence d'au moins une demande écrite préfectorale d'originaux est désormais établie ; l'inconnue porte maintenant sur l'exhaustivité des demandes visées par le jugement et sur le bundle physique exact du dépôt.
+
+## 14. Principe de provenance
+
 
 Pour toute assertion importante :
 
