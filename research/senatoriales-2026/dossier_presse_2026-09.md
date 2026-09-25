@@ -1,9 +1,9 @@
 ---
 title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
-subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 21 septembre 2026"
+subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 25 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-21"
-version: "1.6"
+date: "2026-09-25"
+version: "1.7"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -373,8 +373,23 @@ https://justice.pappers.fr/decision/da1b94c673df9fc294f9d97ddb30e5040ce11b26
 
 **Provenance :** Pappers Justice est un rééditeur tiers. Cette découverte a été faite indépendamment des échanges avec le greffe et ne constitue pas une transmission nouvelle du Tribunal administratif.
 
+Le **25 septembre 2026**, l'expédition papier du jugement a été effectivement retirée et lue. Les traces postales conservées établissent une oblitération le 15 septembre, une première présentation le 16 septembre et une remise effective le 25 septembre. Les photographies brutes comportant notamment adresse et signature ne sont pas publiées ici.
+
+À compter de cette remise, l'expédition reçue constitue la source primaire disponible pour le texte du jugement ; la reproduction Pappers reste une corroboration publique indépendante.
+
+### Suivi documentaire au 25 septembre
+
+Après lecture du jugement, deux démarches ont été envoyées le même jour :
+
+- au **greffe du Tribunal administratif**, une relance limitée aux six résidus matériels encore ouverts : « Réception d'une lettre », heure de mise à disposition, inventaire des pièces préfectorales, éventuelle trace d'audience, identité du greffier d'audience et accès à la minute ;
+- à la **préfecture de la Haute-Corse**, une demande formelle visant les traces de réception et de traitement du courriel de 17:57:55, les traces des demandes d'originaux visées au point 5 du jugement et les documents permettant d'identifier les transmissions au TA. Selon la nature des éléments, la demande invoque le CRPA ou l'article 15 du RGPD et demande la conservation des journaux techniques encore existants.
+
+Les courriels ont été formulés comme demandes de clarification documentaire, sans attribution d'intention. Les voies CADA/CNIL ont été mentionnées à la préfecture comme voies éventuelles en cas de difficulté persistante, et l'article L.303 du code électoral a été rappelé au greffe pour expliquer l'intérêt d'un dossier matériel exact.
+
 ➡️ [Chronologie probatoire](investigation/chronology.md)  
-➡️ [Matrice des connaissances](investigation/knowledge-matrix.md)
+➡️ [Matrice des connaissances](investigation/knowledge-matrix.md)  
+➡️ [Interaction TA](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-ta-bastia-communication-dossiers.yaml)  
+➡️ [Interaction préfecture](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-16-relance-transmission-ta-courriel-video.yaml)
 
 ## « Original » : support, acte personnel et preuve
 
@@ -438,6 +453,9 @@ présence dans l’inventaire initial Télérecours à 18:16
 
 transmission ultérieure au TA avant décision
     = ouverte
+
+demande formelle de traces côté préfecture
+    = envoyée le 25 septembre
 
 visionnage par la formation de jugement
     = ouvert
@@ -536,7 +554,9 @@ L’enquête conserve notamment comme ouvertes :
 4. l’heure exacte de mise à disposition du jugement ;
 5. l’inventaire complet des pièces initiales et éventuellement ultérieures de la préfecture ;
 6. l’existence d’une trace séparée de l’audience ;
-7. les critères ayant conduit à demander certaines complétions avant 18 h et pas d’autres.
+7. les critères ayant conduit à demander certaines complétions avant 18 h et pas d’autres ;
+8. les documents ou traces correspondant aux « demandes des services préfectoraux » visées au point 5 du jugement ;
+9. la confirmation de l'identité du greffier d'audience et les modalités d'accès éventuel à la minute.
 
 Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorable.
 
