@@ -2,8 +2,8 @@
 title: "Reality Case — Renvoi documentaire non résolutif : TA Bastia / Sagace, septembre 2026"
 subtitle: "Demande matérielle, réponse partielle, renvoi vers Sagace et résidu documentaire inchangé"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-17"
-version: "0.1"
+date: "2026-09-25"
+version: "0.2"
 status: "working evidence note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -143,26 +143,29 @@ Toute attribution d'intention exige des éléments supplémentaires.
 
 | Élément demandé | Réponse du greffe | Sagace | Résidu |
 |---|---|---|---|
-| Décisions rendues ? | Oui, le 14 septembre | Jugement enregistré | copie intégrale encore attendue par courrier au moment de l'échange |
+| Décisions rendues ? | Oui, le 14 septembre | Jugement enregistré | expédition papier effectivement reçue le 25/09 |
 | Note en délibéré connue avant décision ? | Oui, explicitement | note enregistrée le 14/09 | résolu sur ce point |
-| Heure d'enregistrement de la note | non donnée | non affichée | non résolu |
+| Heure d'enregistrement de la note | non donnée dans la première réponse | le jugement reçu / publié indique 15:49 | résolu : 15:49 |
 | Liste / inventaire exact des pièces | renvoi vers Sagace | chronologie générique seulement | non résolu |
 | Identification de la « lettre » | non donnée | libellé générique | non résolu |
 | Heure du jugement | non donnée | date seulement | non résolu |
 
 ---
 
-## 7. Prochain Reality Probe
+## 7. Reality Probe exécuté le 25 septembre
 
-Le prochain probe pertinent est une relance très étroite au greffe portant uniquement sur le résidu :
+Après une réponse du greffe le 21 septembre invitant à retirer le jugement et à revenir si des questions subsistaient, l'expédition a été effectivement retirée et lue le 25 septembre.
 
-1. inventaire exact des pièces annexées à la « Requête nouvelle » du 11 septembre ;
-2. identification du document correspondant à « Réception d'une lettre » ;
-3. heure d'enregistrement de cette lettre ;
-4. heure d'enregistrement de la note en délibéré ;
-5. heure de rendu ou de mise à disposition du jugement.
+La lecture résout l'heure d'enregistrement de la note en délibéré (**15:49**) mais laisse ouverts plusieurs résidus. Une relance a été envoyée le 25 septembre à 16:50:46, dans le fil existant, portant sur :
 
-La relance doit constater sobrement que l'invitation à consulter Sagace a été suivie et que certaines informations recherchées n'y figurent pas.
+1. l'identification et l'heure de la « Réception d'une lettre » ;
+2. l'heure exacte de mise à disposition du jugement ;
+3. l'inventaire des pièces accompagnant les saisines préfectorales et des éventuelles productions ultérieures ;
+4. l'existence d'une trace d'audience et ses modalités d'accès ;
+5. l'identité du greffier d'audience ;
+6. l'accès à la minute ou le fondement d'une impossibilité.
+
+Le probe reste non accusatoire : il rend seulement mesurable le résidu après consultation de la source désignée.
 
 ---
 
