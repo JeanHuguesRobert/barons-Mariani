@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — enquête documentaire"
-date: "2026-09-18"
+date: "2026-09-25"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -79,7 +79,8 @@ Une réponse qui fournit une information adjacente sans répondre à la question
 
 - [`chronology.md`](chronology.md) — chronologie probatoire ;
 - [`knowledge-matrix.md`](knowledge-matrix.md) — état des questions résolues et ouvertes ;
-- [`sources.md`](sources.md) — index des sources et de leur fonction.
+- [`sources.md`](sources.md) — index des sources et de leur fonction ;
+- [`probe-map.md`](probe-map.md) — carte évolutive des Reality Probes : inconnues, détenteurs, sorties possibles, deadlines et nouvelles branches rendues accessibles.
 
 ## 6. Règle de mise à jour
 
