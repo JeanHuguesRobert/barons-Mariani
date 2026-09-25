@@ -2,7 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
-last_modified_at: '2026-09-23'
+last_modified_at: '2026-09-25'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -107,11 +107,13 @@ Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/ba
 
 Le numéro 3 n'a encore ni date, ni sommaire, ni longueur imposés. Son point de départ est le delta postérieur au n°2 gelé, notamment :
 
-- les six sondes Marie-Louise effectivement envoyées le 21 septembre ;
-- deux réponses P0 substantielles déjà reçues, de Maëva Guillery et Maéva Lecoq ;
-- un résultat de routage sur le canal Sylvain Lizon ;
+- les six sondes Marie-Louise effectivement envoyées le 21 septembre et leurs premières réponses ;
+- les nouvelles traces Jean-Joseph Albertini et Minesteggio enregistrées le 23 septembre ;
 - les premiers Reality Tests post-n°2 du projet #1755 ;
-- les développements sur l'effectivité et le statut de résident.
+- les développements sur l'effectivité et le statut de résident ;
+- le **delta sénatorial du 25 septembre** : réception effective du jugement, résolution de l'heure d'enregistrement de la note en délibéré à 15:49, maintien de résidus documentaires précis, relance ciblée du greffe et demande formelle CRPA/RGPD à la préfecture avec conservation des traces techniques encore disponibles.
+
+Pour ce dernier axe, le matériau canonique reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Il est enregistré comme **candidat éditorial** et non comme chapitre déjà décidé.
 
 Ces éléments sont des **entrées de construction**, non un sommaire arrêté.
 
