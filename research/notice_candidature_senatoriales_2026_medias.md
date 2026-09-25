@@ -3,8 +3,8 @@ title: Sénatoriales 2026 — fiche de vérification de la candidature Baron Mar
 subtitle: Identité électorale, étiquette Le Petit Parti - A Voce et alliance politique avec Jean-François Baccarelli
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-12'
-last_modified_at: '2026-09-21'
-version: '0.7'
+last_modified_at: '2026-09-25'
+version: '0.8'
 status: published — public reference notice
 language: fr
 license: CC BY-SA 4.0
@@ -318,9 +318,13 @@ Le dossier postérieur au 11 septembre distingue plusieurs niveaux :
 - **présence physique du candidat** : la comparution de Jean Hugues Noël Robert à la préfecture avant l'échéance est établie ; il rapporte qu'aucune proposition ne lui a été faite d'imprimer son propre CERFA et de le signer sur place ;
 - **complétion du mandataire financier** : une insuffisance relative à deux imprimés a été signalée oralement selon son témoignage ; des documents ont ensuite été transmis à 14:14:39 et leur réception a été accusée à 16:14:05 ;
 - **handicap de la remplaçante** : le dossier de défense a invoqué une situation de handicap reconnue et la jurisprudence CE du 14 mai 2021 ; le jugement publié ne développe pas ce point dans sa motivation ;
-- **vidéo de 17:57:55** : son envoi est établi, mais sa réception côté préfecture avant 18 h et sa transmission éventuelle au TA restent ouvertes.
+- **vidéo de 17:57:55** : son envoi est établi, mais sa réception côté préfecture avant 18 h et sa transmission éventuelle au TA restent ouvertes ;
+- **notification du jugement** : l'expédition papier a été effectivement remise le 25 septembre ; les traces postales établissent une oblitération le 15, une première présentation le 16 et une remise le 25 ; les pièces brutes contenant des données personnelles ne sont pas répliquées dans la notice ;
+- **probes du 25 septembre** : après lecture de l'expédition, une relance ciblée a été envoyée au greffe sur les résidus du dossier matériel et une demande formelle CRPA/RGPD a été adressée à la préfecture sur les traces de réception, les demandes d'originaux et les transmissions au TA.
 
 Ces éléments ne permettent pas, à eux seuls, d'attribuer une intention aux services de l'État ou au tribunal. Ils permettent en revanche de documenter précisément les questions encore ouvertes et les différences entre support, acte personnel, preuve et traitement procédural.
+
+État détaillé : [dossier canonique Sénatoriales 2026](senatoriales-2026/README.md).
 
 ## Vérification minimale recommandée aux journalistes
 
