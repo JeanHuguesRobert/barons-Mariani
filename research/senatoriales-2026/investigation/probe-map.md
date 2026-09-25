@@ -436,6 +436,33 @@ Ce probe devient particulièrement utile si RP-SEN-01 ou RP-SEN-02 répond de ma
 
 # 6. Changement de phase après le scrutin
 
+## RP-SEN-07 — constater la proclamation officielle et ouvrir les horloges post-scrutin
+
+**Statut :** `waiting_trigger`
+
+**Fonctions :**
+
+- `WAIT / TRIGGER`
+- `PRESERVE`
+
+**Déclencheur :** scrutin du 27 septembre 2026 puis publication / proclamation officielle des résultats.
+
+**Objet :**
+
+Conserver la date et, si elle est disponible, l'heure de proclamation ainsi que la source officielle correspondante.
+
+Cette observation ne préjuge d'aucune contestation. Elle sert à fixer sans ambiguïté :
+
+- le début de la fenêtre d'accès prévue par l'article 32 ;
+- le terme du délai prévu par l'article 33 ;
+- la version officielle des résultats à laquelle les probes post-scrutin se rapportent.
+
+Source publique de suivi des candidatures et résultats :
+
+https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+
+---
+
 ## RP-SEN-08 — consulter les PV de recensement et annexes
 
 **Statut :** `waiting_trigger`
@@ -623,6 +650,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-04 | conditional | préservation | U1 | peu | si conditions art. 18 pertinentes |
 | RP-SEN-05 | candidate | topologie | U1 U6 | oui, fortement | si détention incertaine |
 | RP-SEN-06 | candidate | topologie technique | U2 U4 | oui | après réponses initiales si nécessaire |
+| RP-SEN-07 | waiting_trigger | horloge / préservation | état officiel post-scrutin | modérément | scrutin puis proclamation |
 | RP-SEN-08 | waiting_trigger | découverte | dossier final / U6 | oui, fortement | proclamation + fenêtre art. 32 |
 | RP-SEN-09 | candidate | nouvel observateur | ensemble du grief | oui | après proclamation ; art. 33 |
 | RP-SEN-10 | conditional | instruction | U1–U5 | oui | si contentieux ouvert |
