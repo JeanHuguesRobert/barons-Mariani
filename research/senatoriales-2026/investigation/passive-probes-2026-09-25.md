@@ -256,3 +256,41 @@ Cette absence de résultat n'est pas une preuve d'absence de jurisprudence.
 **Règle :**
 
 Ne pas demander à une institution ce qui peut être reconstruit d'abord depuis les traces propres déjà accessibles.
+
+## Première exécution de RP-SEN-18
+
+La recherche dans les traces propres et le gel documentaire du 12 septembre réduit déjà U8b.
+
+Éléments désormais retrouvés :
+
+- présence physique vers 12:10 et délivrance d'un reçu provisoire ;
+- le gel du 12 septembre indique qu'**un seul document papier relatif au mandataire financier a été physiquement présenté** ;
+- une autre projection contemporaine précise que la pièce dont l'existence physique est certaine est **le document signé par Marguerite (Maguy) Ghionga**, mandataire financière ;
+- elle avertit explicitement qu'il serait factuellement inexact d'écrire que tous les documents précédemment transmis par courriel avaient été physiquement présentés ;
+- les CERFA candidat et remplaçante sont par ailleurs décrits dans le dossier préfectoral comme signés dans leur version numérique, mais **non produits physiquement en version papier**.
+
+Le Drive de préparation du 10 septembre contient les huit originaux numériques destinés à la préfecture, mais aucun récépissé provisoire ni snapshot supplémentaire du bundle physique n'a été retrouvé dans les dossiers Drive de candidature inspectés.
+
+### État réduit de U8b
+
+~~~text
+établi / fortement documenté :
+- présence physique
+- reçu provisoire
+- au moins une pièce papier : document signé par la mandataire financière
+- CERFA candidat/remplaçante non produits physiquement sur papier
+
+encore ouvert :
+- identité exacte et exhaustivité des autres pièces éventuellement manipulées, montrées sans remise, ou rendues au guichet
+- copie primaire du reçu provisoire et son éventuel inventaire / mentions
+~~~
+
+### Continuation
+
+Avant tout nouveau contact externe :
+
+1. rechercher une copie primaire du reçu provisoire hors des dossiers Drive déjà inspectés ;
+2. comparer le dossier préfectoral / inventaire Télérecours avec cette reconstruction ;
+3. attendre les réponses de RP-SEN-01 et RP-SEN-02 pour trianguler le bundle détenu par l'administration.
+
+**Statut RP-SEN-18 après cette passe :** `partly answered / waiting for primary receipt or institutional triangulation`.
