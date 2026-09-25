@@ -2,8 +2,8 @@
 title: "TA Bastia / Sagace — déplacement non résolutif de la réponse"
 subtitle: "Reality Case — demande de précisions matérielles, réponse du greffe et consultation de Sagace"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-17"
-version: "1.0"
+date: "2026-09-25"
+version: "1.1"
 status: "reality case — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -76,7 +76,7 @@ La séquence permet d'établir ou de renforcer plusieurs faits :
 La consultation Sagace ne fournit pas :
 
 - l'heure d'enregistrement de la « lettre » ;
-- l'heure d'enregistrement de la note en délibéré ;
+- l'heure d'enregistrement de la note en délibéré, **désormais résolue à 15:49 par le jugement reçu / publié** ;
 - l'heure du jugement ou de sa mise à disposition ;
 - l'identification précise du document correspondant à la « lettre » ;
 - l'inventaire exact des pièces annexées à la « Requête nouvelle » préfectorale ;
@@ -90,6 +90,7 @@ response_resolution_check:
   target_question: "obtenir heures précises et inventaire matériel du dossier"
   directly_resolved:
     - "la note en délibéré a été connue avant décision"
+    - "l'heure d'enregistrement de la note en délibéré est 15:49"
     - "les décisions ont été rendues le 14 septembre"
   useful_adjacent_information:
     - "Sagace distingue une lettre et une note en délibéré"
@@ -98,12 +99,12 @@ response_resolution_check:
     followed: true
     yield: "chronologie sommaire sans heures ni inventaire détaillé"
   residual_uncertainty:
-    - "heures d'enregistrement"
+    - "heure d'enregistrement de la lettre"
     - "heure du jugement"
     - "nature exacte de la lettre"
     - "inventaire des pièces de la requête préfectorale"
   intent_status: "unknown"
-  next_reality_probe: "demande étroite au greffe centrée exclusivement sur les résidus"
+  next_reality_probe: "relance étroite exécutée le 25 septembre après lecture de l'expédition du jugement"
 ```
 
 ## 7. Discipline d'interprétation
@@ -121,15 +122,22 @@ Le renvoi Sagace est **partiellement informatif mais non résolutif** pour les q
 ### HYPOTHESIS
 Toute qualification d'évitement volontaire, de délai, d'obstruction ou de stratégie resterait hypothétique en l'absence d'éléments indépendants supplémentaires.
 
-## 8. Prochain test de Réalité
+## 8. Test de Réalité exécuté le 25 septembre
 
-Le prochain courrier doit éviter d'élargir le débat. Il doit :
+Le greffe a répondu le 21 septembre à la demande distincte sur la trace d'audience, le greffier et la minute en invitant à retirer le pli postal et en indiquant que le jugement répondait aux interrogations, tout en restant disponible si des questions subsistaient après lecture.
 
-- constater sobrement que le renvoi Sagace a été suivi ;
-- indiquer précisément les informations qui n'y apparaissent pas ;
-- demander uniquement les résidus matériels ;
-- éviter toute accusation ;
-- rendre un nouveau déplacement facilement observable s'il devait se reproduire.
+Le pli a été retiré et le jugement lu le 25 septembre. Cette lecture a effectivement résolu un point important — l'heure d'enregistrement de la note en délibéré, **15:49** — mais n'a pas fourni :
+
+- l'identité ni l'heure de la « Réception d'une lettre » ;
+- l'heure exacte de mise à disposition du jugement ;
+- l'inventaire des pièces préfectorales initiales et ultérieures ;
+- l'existence et les modalités d'accès à une trace d'audience ;
+- la confirmation de l'identité du greffier présent à l'audience ;
+- les modalités d'accès à la minute.
+
+Une relance limitée à ces six points a donc été envoyée le **25 septembre à 16:50:46**, dans le fil existant, avec Laurence Ceccaldi et Maguy en copie.
+
+La séquence ajoute un second test du pattern : une réponse peut être utile et de bonne foi tout en surestimant ce que la source vers laquelle elle renvoie résout réellement. L'intention reste `unknown` ; seul le différentiel entre **questions posées** et **questions effectivement résolues** est ici mesuré.
 
 ## Compression
 
