@@ -81,6 +81,7 @@ Une réponse qui fournit une information adjacente sans répondre à la question
 - [`knowledge-matrix.md`](knowledge-matrix.md) — état des questions résolues et ouvertes ;
 - [`sources.md`](sources.md) — index des sources et de leur fonction ;
 - [`probe-map.md`](probe-map.md) — carte évolutive des Reality Probes : inconnues, détenteurs, sorties possibles, deadlines et nouvelles branches rendues accessibles.
+- [`probe-batch-2026-09-25.md`](probe-batch-2026-09-25.md) — batch PASS A/PASS B : expansion systématique des sorties, réduction des redondances, gaps et génération des nouveaux probes passifs.
 
 ## 6. Règle de mise à jour
 
