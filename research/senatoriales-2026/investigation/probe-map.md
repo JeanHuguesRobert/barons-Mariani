@@ -741,7 +741,7 @@ Une décision comparable fournit des discriminants juridiques ; elle ne permet p
 
 ## RP-SEN-18 — reconstruction du bundle physique du dépôt
 
-**Statut :** `candidate / ready`
+**Statut :** `partly answered / waiting for primary receipt or institutional triangulation`
 
 **Fonctions :**
 
@@ -772,6 +772,14 @@ Une décision comparable fournit des discriminants juridiques ; elle ne permet p
 **Règle :**
 
 Ne pas solliciter une institution pour une information qui peut d'abord être reconstruite depuis les traces propres déjà accessibles.
+
+**Première passe exécutée :**
+
+- présence physique et reçu provisoire confirmés ;
+- une seule pièce papier relative au mandataire financier est documentée comme physiquement présentée ;
+- les CERFA candidat/remplaçante restent documentés comme non produits physiquement en version papier ;
+- aucune copie primaire du reçu provisoire n'a été retrouvée dans les dossiers Drive de candidature inspectés ;
+- la question de l'exhaustivité de ce qui a pu être montré / manipulé / rendu au guichet reste ouverte.
 
 ---
 
@@ -828,7 +836,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-15 | answered / continuing | corpus officiel | U7 | oui | run passif exécuté le 25/09 |
 | RP-SEN-16 | partly answered / generative | reconstruction côté candidat | U8a/U8b | oui | U8a largement reconstruite ; U8b reste ouverte |
 | RP-SEN-17 | answered / continuing | jurisprudence comparable | qualification juridique | oui | run passif exécuté le 25/09 |
-| RP-SEN-18 | ready | bundle physique | U8b | oui | maintenant, d'abord sur traces propres |
+| RP-SEN-18 | partly answered / waiting | bundle physique | U8b | oui | première passe sur traces propres exécutée ; attendre reçu primaire ou triangulation institutionnelle |
 
 ## 11. Règle de continuation
 
