@@ -2,6 +2,7 @@
 title: "Suicide Corse n°3 — ouverture de construction"
 author: Jean Hugues Noël Robert
 date: 2026-09-23
+last_modified_at: 2026-09-25
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -125,6 +126,43 @@ Depuis le n°2, plusieurs travaux collectifs ont également progressé :
 - passage, le 23 septembre, d'un simple contact électronique à un échange physique avec le président de Storia 97.
 
 Ces éléments sont **candidats** pour le n°3. Leur présence dans le delta ne décide pas encore de leur place dans l'édition.
+
+## 25 septembre — le contentieux sénatorial devient un test d'accès aux traces
+
+Le 25 septembre, l'expédition papier du jugement du Tribunal administratif de Bastia du 14 septembre a été effectivement retirée et lue. Les traces postales conservées fixent désormais une séquence matérielle distincte : oblitération le 15 septembre, première présentation le 16, remise effective le 25.
+
+La lecture du jugement résout une inconnue importante : la note en délibéré a été enregistrée à **15 h 49**. Elle ne ferme cependant pas plusieurs questions documentaires déjà identifiées dans le Corpus : identité et heure de la « Réception d'une lettre » dans Sagace, heure exacte de mise à disposition du jugement, inventaire des productions préfectorales, éventuelle trace d'audience, identité du greffier d'audience et accès à la minute.
+
+Deux nouveaux Acts documentaires ont donc été exécutés le même jour :
+
+- **16:50:46** — relance du greffe, dans le fil existant, limitée aux six résidus matériels après lecture du jugement ;
+- **16:59:13** — demande formelle à la préfecture visant les documents et données existants relatifs au courriel de **17:57:55** du 11 septembre, aux demandes d'originaux évoquées au point 5 du jugement et aux transmissions au TA, avec demande de conservation des journaux techniques encore disponibles.
+
+La forme de ces demandes est elle-même un résultat de méthode candidat pour le n°3. Les voies extérieures possibles — CADA/CNIL pour la préfecture, cadre du contentieux électoral pour le dossier juridictionnel — sont rendues visibles **sans transformer leur mention en menace ni en conclusion sur le comportement des institutions**.
+
+Le cas devient ainsi un test contemporain de plusieurs distinctions déjà structurantes dans *Suicide Corse* :
+
+~~~text
+mouvement procédural
+≠
+réduction effective de l'incertitude
+
+droit formel d'accès
+≠
+capacité effective à obtenir la trace utile
+
+absence de réponse
+≠
+preuve d'une intention
+
+escalade possible
+≠
+escalade nécessaire
+~~~
+
+Le matériau source reste dans le dossier canonique `research/senatoriales-2026/`. Les photographies postales brutes, signatures, adresses et éventuelles futures données techniques ne sont pas des matériaux de publication automatique.
+
+Ce delta est **candidat** pour le n°3. Il peut nourrir un chapitre sur la traçabilité, l'effectivité ou le Réel qui répond ; il ne crée pas à lui seul un sommaire.
 
 ## Règle pour la suite
 
