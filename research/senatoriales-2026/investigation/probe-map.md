@@ -347,7 +347,7 @@ heure d'enregistrement de la note en délibéré = 15:49
 
 ## RP-SEN-03 — préserver et extraire la trace expéditeur originale
 
-**Statut :** `candidate / ready`
+**Statut :** `answered / preserved`
 
 **Fonctions :**
 
@@ -368,13 +368,21 @@ Conserver, autant que disponible :
 - éventuels statuts de livraison ou erreurs ;
 - lien / pièce ou référence transmise.
 
+**Résultat du 25 septembre :**
+
+- messages originaux relus depuis Gmail ;
+- heure d'émission 17:57:55 confirmée côté expéditeur pour le message vidéo ;
+- métadonnées MIME / RFC822 vérifiées ;
+- principales pièces du bundle extraites et préservées par empreintes SHA-256 dans le run passif ;
+- aucun élément côté expéditeur ne suffit à établir l'heure d'acceptation du serveur destinataire.
+
 **Limite :**
 
-La trace expéditeur peut établir l'émission et certaines métadonnées. Elle ne prouve pas, à elle seule, l'heure d'acceptation par le serveur destinataire.
+La trace expéditeur établit l'émission et certaines métadonnées. Elle ne prouve pas, à elle seule, l'heure d'acceptation par le serveur destinataire.
 
 **Next probe :**
 
-Comparer aux données de RP-SEN-01.
+Comparer aux données de RP-SEN-01 via RP-SEN-14.
 
 ---
 
@@ -823,7 +831,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 |---|---|---|---|---|---|
 | RP-SEN-01 | waiting | accès + préservation | U1 U2 U3 U6 | oui, fortement | envoyé 25/09 |
 | RP-SEN-02 | waiting | dossier TA | U4 U5 U6 | oui | envoyé 25/09 |
-| RP-SEN-03 | ready | préservation | U1 | modérément | maintenant |
+| RP-SEN-03 | answered / preserved | préservation | U1 | modérément | trace expéditeur figée ; triangulation future via RP-SEN-14 |
 | RP-SEN-04 | conditional | préservation | U1 | peu | si conditions art. 18 pertinentes |
 | RP-SEN-05 | candidate | topologie | U1 U6 | oui, fortement | si détention incertaine |
 | RP-SEN-06 | candidate | topologie technique | U2 U4 | oui | après réponses initiales si nécessaire |
