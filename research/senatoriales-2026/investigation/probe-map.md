@@ -38,6 +38,8 @@ La carte doit être mise à jour après chaque réponse du Réel.
 
 Batch d'expansion/réduction courant : [`probe-batch-2026-09-25.md`](probe-batch-2026-09-25.md).
 
+Run passif courant : [`passive-probes-2026-09-25.md`](passive-probes-2026-09-25.md).
+
 ## 1. Horloge externe
 
 État au **25 septembre 2026**.
@@ -630,7 +632,7 @@ Règle :
 
 ## RP-SEN-15 — corpus juridique et administratif officiel
 
-**Statut :** `candidate / ready`
+**Statut :** `answered / continuing`
 
 **Fonctions :**
 
@@ -671,7 +673,7 @@ instruction locale distincte révélée
 
 ## RP-SEN-16 — reconstruction intégrale côté candidat
 
-**Statut :** `candidate / ready`
+**Statut :** `partly answered / generative`
 
 **Fonctions :**
 
@@ -712,7 +714,7 @@ Ce probe ne cherche pas à reconstruire ce qui « aurait dû » être déposé ;
 
 ## RP-SEN-17 — jurisprudence comparable
 
-**Statut :** `candidate / ready`
+**Statut :** `answered / continuing`
 
 **Fonctions :**
 
@@ -734,6 +736,42 @@ https://qpc360.conseil-constitutionnel.fr/2015-01-23/decision-2014-4909-sen-23-j
 **Discipline :**
 
 Une décision comparable fournit des discriminants juridiques ; elle ne permet pas de transposer sa solution si les faits ou le fondement du refus diffèrent.
+
+---
+
+## RP-SEN-18 — reconstruction du bundle physique du dépôt
+
+**Statut :** `candidate / ready`
+
+**Fonctions :**
+
+- `PRESERVE`
+- `REVEAL`
+- `TRIANGULATE`
+- `DISCRIMINATE`
+
+**Inconnue :** U8b.
+
+**Question :**
+
+> quels documents exacts ont été matériellement présentés, remis, conservés ou rendus lors du dépôt physique du 11 septembre, entre l'arrivée vers 12:10 et le reçu provisoire vers 12:20 ?
+
+**Sources propres à examiner d'abord :**
+
+- récépissé provisoire ;
+- scans / photographies / fichiers conservés côté candidat ;
+- requête préfectorale et inventaire Télérecours déjà disponibles ;
+- pièces du dossier TA déjà détenues ;
+- messages immédiatement postérieurs au dépôt.
+
+**Sources conditionnelles :**
+
+- réponse de la préfecture à RP-SEN-01 ;
+- réponse du TA à RP-SEN-02.
+
+**Règle :**
+
+Ne pas solliciter une institution pour une information qui peut d'abord être reconstruite depuis les traces propres déjà accessibles.
 
 ---
 
@@ -787,9 +825,10 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-12 | waiting_trigger | nouvel observateur | données personnelles techniques | oui | réponse RGPD insuffisante / silence |
 | RP-SEN-13 | conditional | nouveau détenteur | U1 U2 U6 | oui | redirection |
 | RP-SEN-14 | continuous | triangulation | U1–U8 | oui | à chaque nouvelle trace |
-| RP-SEN-15 | ready | corpus officiel | U7 | oui | maintenant |
-| RP-SEN-16 | ready | reconstruction côté candidat | U8 | oui | maintenant |
-| RP-SEN-17 | ready | jurisprudence comparable | qualification juridique | oui | maintenant |
+| RP-SEN-15 | answered / continuing | corpus officiel | U7 | oui | run passif exécuté le 25/09 |
+| RP-SEN-16 | partly answered / generative | reconstruction côté candidat | U8a/U8b | oui | U8a largement reconstruite ; U8b reste ouverte |
+| RP-SEN-17 | answered / continuing | jurisprudence comparable | qualification juridique | oui | run passif exécuté le 25/09 |
+| RP-SEN-18 | ready | bundle physique | U8b | oui | maintenant, d'abord sur traces propres |
 
 ## 11. Règle de continuation
 
