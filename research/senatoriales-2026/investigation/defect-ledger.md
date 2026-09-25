@@ -267,7 +267,67 @@ Ce contraste est un **discriminant documentaire**, pas une conclusion sur la lé
 
 ---
 
-# 5. Nouveau Reality Probe généré
+# 5. Audit du canal écrit entre 12:20 et 18:00
+
+Une recherche Gmail ciblée sur le 11 septembre a été effectuée le 25 septembre.
+
+### Résultat positif
+
+Le message envoyé par le candidat à **14:14:39** contient trois éléments particulièrement discriminants :
+
+1. il rattache explicitement les deux nouveaux formulaires à la **« régularisation proposée lors de [son] passage et [qu'il a] acceptée »** ;
+2. il indique : **« Sauf avis contraire de votre part précisant un autre élément qui serait encore manquant, il me semble donc que la seule difficulté subsistante concerne la production d’“originaux”. »**
+3. il précise rester disponible jusqu'à **18 heures** pour toute demande complémentaire précise et demande qu'un éventuel élément encore nécessaire lui soit indiqué **« sans délai »**.
+
+À **16:14:05**, le Bureau des élections répond seulement :
+
+> « J'accuse réception des documents. »
+
+Aucun nouveau défaut ou élément manquant n'est mentionné dans cette réponse.
+
+### Audit négatif borné
+
+Les recherches Gmail du 25 septembre sur :
+
+- tous les messages du 11 septembre provenant de `pref-elections@haute-corse.gouv.fr` ;
+- plus largement, les messages provenant d'une adresse `@haute-corse.gouv.fr` ;
+- les termes `original`, `manquant`, `compléter`, `régularisation`, `CERFA`, `remplaçant` ;
+
+n'ont retrouvé **aucun autre message entrant de la préfecture le 11 septembre** que l'accusé de 16:14.
+
+Le résultat correctement formulé est :
+
+> **Dans les courriels Gmail actuellement accessibles, aucun re-signalement écrit d'un défaut supplémentaire entre 12:20 et 18:00 n'a été retrouvé après la demande explicite du candidat de 14:14 ; la seule réponse préfectorale retrouvée est l'accusé de réception de 16:14.**
+
+Ce résultat n'établit pas :
+
+- qu'aucun échange oral n'a eu lieu ;
+- qu'aucun autre canal n'a été utilisé ;
+- qu'aucune trace institutionnelle non présente dans Gmail n'existe ;
+- que le défaut des originaux était juridiquement régularisé.
+
+### Effet sur le ledger
+
+Pour le **canal écrit Gmail**, D-SEN-01 / D-SEN-02 passent de :
+
+```text
+not_re_signaled_in_known_trace
+```
+
+à une qualification plus précise :
+
+```text
+written_channel_audited
+→ aucun re-signalement écrit retrouvé après 14:14
+→ accusé de réception simple à 16:14
+→ résidu déplacé vers oral / notes internes / autre canal / dossier TA
+```
+
+Cela réduit U9 sans fermer U3/Q18.
+
+---
+
+# 6. Nouveau Reality Probe généré
 
 ## RP-SEN-20 — ledger des défauts actifs
 
@@ -320,7 +380,7 @@ absence de trace
 
 ---
 
-# 6. Règle de mise à jour
+# 7. Règle de mise à jour
 
 Chaque nouvelle trace doit mettre à jour **un défaut identifié**, pas seulement la chronologie globale.
 
