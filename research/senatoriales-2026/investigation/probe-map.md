@@ -36,6 +36,8 @@ Elle cherche à **maximiser les possibilités de découverte rationnelle encore 
 
 La carte doit être mise à jour après chaque réponse du Réel.
 
+Batch d'expansion/réduction courant : [`probe-batch-2026-09-25.md`](probe-batch-2026-09-25.md).
+
 ## 1. Horloge externe
 
 État au **25 septembre 2026**.
@@ -164,6 +166,22 @@ Question de second ordre :
 > **Quels systèmes, détenteurs, inventaires, reçus ou journaux pertinents existent encore que la carte actuelle ne connaît pas ?**
 
 Cette inconnue justifie les probes génératifs et les demandes de « sources de sources ».
+
+### U7 — règle / instruction applicable et possibilités de régularisation
+
+Questions :
+
+- quelle disposition ou instruction officielle gouvernait chacun des défauts allégués ?
+- quelles modalités de dépôt et de régularisation étaient officiellement publiées pour 2026 ?
+- distinguer loi, décret, mémento, formulaire, instruction nationale et pratique locale.
+
+### U8 — bundle candidat exact aux instants critiques
+
+Questions :
+
+- quels fichiers / formulaires / messages avaient été effectivement déposés ou envoyés à chaque instant significatif du 11 septembre ?
+- quelles versions portent quelles signatures ?
+- quel est le lien entre chaque envoi, accusé, réponse et pièce correspondante ?
 
 ---
 
@@ -608,7 +626,118 @@ Règle :
 
 ---
 
-# 8. Probe interne de convergence
+# 8. Probes passifs générés par le batch
+
+## RP-SEN-15 — corpus juridique et administratif officiel
+
+**Statut :** `candidate / ready`
+
+**Fonctions :**
+
+- `PASSIVE`
+- `DISCRIMINATE`
+- `REVEAL`
+
+**Inconnue :** U7.
+
+**Objet :**
+
+Constituer le corpus officiel applicable au dépôt 2026 :
+
+- code électoral et décret de convocation ;
+- mémento 2026 à l'usage des candidats ;
+- formulaires et notices officielles ;
+- pages et instructions préfectorales disponibles ;
+- toute instruction nationale pertinente sur dépôt, signatures et régularisation.
+
+La préfecture de Haute-Corse publie notamment un mémento 2026 à l'usage des candidats :
+https://www.haute-corse.gouv.fr/Actions-de-l-Etat/Vie-democratique/Elections/Elections-senatoriales-2026/Memento-a-l-usage-des-candidats
+
+**Sorties :**
+
+```text
+règle explicite retrouvée
+→ comparer aux actes et demandes documentés
+
+silence / ambiguïté du corpus officiel
+→ ne pas inventer une obligation ou une faculté
+→ conserver U7 partiellement ouvert
+
+instruction locale distincte révélée
+→ nouveau probe documentaire ciblé
+```
+
+---
+
+## RP-SEN-16 — reconstruction intégrale côté candidat
+
+**Statut :** `candidate / ready`
+
+**Fonctions :**
+
+- `PRESERVE`
+- `TRIANGULATE`
+- `REVEAL`
+
+**Inconnue :** U8.
+
+**Objet :**
+
+Reconstruire sans résumé intermédiaire :
+
+- chaque message Gmail pertinent du 11 septembre ;
+- Message-ID / timestamp / destinataires ;
+- chaque version des formulaires ;
+- signatures présentes ou absentes sur chaque version ;
+- vidéo / lien / pièce associée ;
+- réponses préfectorales et accusés ;
+- ordre exact des événements.
+
+**Sorties :**
+
+```text
+bundle complet et cohérent
+→ base de comparaison avec préfecture / TA
+
+version manquante
+→ gap explicite, recherche ciblée
+
+deux versions contradictoires
+→ conserver les deux et dater leur circulation
+```
+
+Ce probe ne cherche pas à reconstruire ce qui « aurait dû » être déposé ; il fixe ce qui l'a effectivement été.
+
+---
+
+## RP-SEN-17 — jurisprudence comparable
+
+**Statut :** `candidate / ready`
+
+**Fonctions :**
+
+- `PASSIVE`
+- `REVEAL`
+- `DISCRIMINATE`
+
+**Objet :**
+
+Identifier dans les sources officielles les décisions relatives :
+
+- aux refus d'enregistrement de candidatures sénatoriales ;
+- au contrôle ultérieur par le Conseil constitutionnel ;
+- aux questions de recevabilité, pièces, régularisation ou instruction lorsque les faits sont suffisamment comparables.
+
+Un précédent déjà identifié est la décision n° 2014-4909 SEN du 23 janvier 2015, qui montre qu'un refus préfectoral d'enregistrement d'une candidature sénatoriale peut être examiné dans le contentieux de l'élection :
+https://qpc360.conseil-constitutionnel.fr/2015-01-23/decision-2014-4909-sen-23-janvier-2015
+
+**Discipline :**
+
+Une décision comparable fournit des discriminants juridiques ; elle ne permet pas de transposer sa solution si les faits ou le fondement du refus diffèrent.
+
+---
+
+# 9. Probe interne de convergence
 
 ## RP-SEN-14 — reconstruction multitraces
 
@@ -640,7 +769,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 
 ---
 
-# 9. Matrice synthétique
+# 10. Matrice synthétique
 
 | Probe | État | Fonction dominante | Inconnues visées | Peut révéler de nouveaux probes ? | Déclencheur / fenêtre |
 |---|---|---|---|---|---|
@@ -657,9 +786,12 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-11 | waiting_trigger | nouvel observateur | documents préfectoraux | oui | refus / silence CRPA |
 | RP-SEN-12 | waiting_trigger | nouvel observateur | données personnelles techniques | oui | réponse RGPD insuffisante / silence |
 | RP-SEN-13 | conditional | nouveau détenteur | U1 U2 U6 | oui | redirection |
-| RP-SEN-14 | continuous | triangulation | U1–U6 | oui | à chaque nouvelle trace |
+| RP-SEN-14 | continuous | triangulation | U1–U8 | oui | à chaque nouvelle trace |
+| RP-SEN-15 | ready | corpus officiel | U7 | oui | maintenant |
+| RP-SEN-16 | ready | reconstruction côté candidat | U8 | oui | maintenant |
+| RP-SEN-17 | ready | jurisprudence comparable | qualification juridique | oui | maintenant |
 
-## 10. Règle de continuation
+## 11. Règle de continuation
 
 Après chaque réponse :
 
@@ -674,7 +806,7 @@ Après chaque réponse :
 
 > **La carte des probes doit rester plus large que le chemin effectivement emprunté.**
 
-## 11. Ce que la carte ne doit pas faire
+## 12. Ce que la carte ne doit pas faire
 
 Elle ne doit pas :
 
@@ -686,7 +818,7 @@ Elle ne doit pas :
 - privilégier silencieusement les informations favorables à une hypothèse ;
 - figer un ordre unique lorsque plusieurs probes indépendants peuvent utilement rester ouverts.
 
-## 12. Prochaines mises à jour attendues
+## 13. Prochaines mises à jour attendues
 
 Les premiers événements susceptibles de modifier fortement cette carte sont :
 
