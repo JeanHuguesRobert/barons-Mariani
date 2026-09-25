@@ -334,3 +334,57 @@ Avant tout nouveau contact externe :
 3. attendre les réponses de RP-SEN-01 et RP-SEN-02 pour trianguler le bundle détenu par l'administration.
 
 **Statut RP-SEN-18 après cette passe :** `partly answered / waiting for primary receipt or institutional triangulation`.
+
+
+## Deuxième passe RP-SEN-18 — recherche du récépissé primaire
+
+Une seconde recherche passive a été effectuée le 25 septembre sur les surfaces propres accessibles, sans nouveau contact externe.
+
+### Google Drive
+
+Le dossier racine **« Sénatoriales 2026 – Baron Mariani »** a été retrouvé puis listé directement.
+
+Il contient deux sous-dossiers :
+
+- `01 – Dossier Préfecture – originaux` ;
+- `02 – Dossier public – versions expurgées`.
+
+Le sous-dossier `01 – Dossier Préfecture – originaux` contient exactement huit fichiers correspondant au bundle numérique préparé le 10 septembre :
+
+1. CERFA candidat ;
+2. pièce d'identité candidat ;
+3. situation électorale candidat ;
+4. CERFA remplaçante ;
+5. pièce d'identité remplaçante ;
+6. situation électorale remplaçante ;
+7. désignation du mandataire financier ;
+8. acceptation / pièce du mandataire financier.
+
+Aucun récépissé provisoire, photographie du récépissé ou artefact supplémentaire relatif au dépôt physique n'y apparaît.
+
+Des recherches Drive supplémentaires sur les termes `récépissé`, `recepisse`, `reçu provisoire`, `sénatoriales`, `préfecture`, ainsi que plusieurs patrons de date / photographie, n'ont pas fait apparaître de copie primaire du récépissé.
+
+### Gmail
+
+Une recherche des messages avec pièces jointes autour des 11–12 septembre n'a pas retrouvé de scan ou photographie du récépissé.
+
+Les pièces jointes pertinentes retrouvées sont les deux formulaires de mandataire transmis le 11 septembre à 14:14:39 et, le 12 septembre, une nouvelle transmission du CERFA candidat dans le cadre d'une demande distincte de vérification / rectification de données.
+
+### Portée de ce résultat négatif
+
+Le résultat correct est :
+
+> **aucune copie primaire du récépissé provisoire n'a été retrouvée sur les surfaces Gmail / Drive interrogées.**
+
+Il ne permet pas de conclure :
+
+- que le récépissé n'existe plus ;
+- qu'aucune photographie n'a jamais été prise ;
+- qu'il n'existe pas sur un appareil local, un stockage non indexé, un support papier ou une autre surface.
+
+### Nouveau discriminant
+
+Les sources connectées accessibles étant désormais largement épuisées sur ce point, le prochain probe peu coûteux n'est plus une nouvelle recherche sémantique identique.
+
+Il devient un probe de **localisation d'artefact physique / mémoire directe du déposant**, suivi seulement en cas de résultat par une inspection de la pièce.
+
