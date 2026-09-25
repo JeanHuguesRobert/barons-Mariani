@@ -38,6 +38,8 @@ Cette matrice suit les principales questions factuelles encore susceptibles de m
 
 | Q20 | Que prouve juridiquement le récépissé provisoire remis à 12:20 ? | **partly established / legal interpretation bounded** | L.301 prévoit qu'un reçu provisoire est donné au déposant après dépôt de la déclaration, tandis que le récépissé définitif n'est délivré que si la déclaration est conforme ; le récépissé primaire retrouvé établit donc la prise en charge d'une déclaration dans la séquence de dépôt, sans établir sa conformité | Légifrance / récépissé primaire | conserver la distinction dépôt / conformité ; ne pas lui faire prouver davantage que L.301 ne prévoit |
 
+| Q21 | Quel était l'état de chaque défaut/insuffisance à 12:20, 14:14, 16:14 et juste avant 18:00 ? | **partly established / open** | D-SEN-03 (mandataire) dispose d'une boucle documentée : signalement rapporté → envoi 14:14:39 → réception accusée 16:14:05 ; D-SEN-01/D-SEN-02 étaient signalés par écrit dès le 10/09 à 20:05 et ont ensuite motivé le refus, mais leur trajectoire précise entre le reçu provisoire de 12:20 et 18:00 reste incomplète dans les traces connues | Préfecture / Gmail / dossier TA / récépissé | RP-SEN-20 ; ledger canonique : defect-ledger.md |
+
 ## Questions résolues à conserver
 
 Une question résolue n'est pas supprimée.
