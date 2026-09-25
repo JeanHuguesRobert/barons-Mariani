@@ -793,7 +793,51 @@ Ne pas solliciter une institution pour une information qui peut d'abord être re
 
 ---
 
-# 9. Probe interne de convergence
+# 9. Probe humain / artefact local
+
+## RP-SEN-19 — localisation du récépissé provisoire primaire
+
+**Statut :** `ready / human-local`
+
+**Fonctions :**
+
+- `PRESERVE`
+- `REVEAL`
+- `DISCRIMINATE`
+
+**Déclencheur :** deuxième passe RP-SEN-18 négative sur Gmail / Drive.
+
+**Question minimale :**
+
+> Le récépissé provisoire remis en préfecture le 11 septembre vers 12:20 est-il encore physiquement en votre possession, ou en avez-vous une photographie / un scan sur un appareil local ?
+
+**Pourquoi ce probe devient pertinent :**
+
+- les recherches connectées n'ont retrouvé aucune copie primaire ;
+- le déposant est la source directe la moins coûteuse pour localiser l'artefact ;
+- une réponse positive peut fournir une source primaire immédiatement inspectable ;
+- une réponse négative n'établit pas la destruction du récépissé, mais permet d'arrêter les recherches répétitives sur les mêmes surfaces.
+
+**Si oui :**
+
+```text
+photographier / scanner recto-verso
+→ préserver le brut
+→ relever date, heure, numéro, mentions, cases et éventuel inventaire
+→ RP-SEN-14 triangulation
+```
+
+**Si non / inconnu :**
+
+```text
+conserver le récépissé comme source primaire non localisée
+→ attendre RP-SEN-01 / RP-SEN-02
+→ éviter de répéter les mêmes recherches Gmail / Drive sans nouvel indice
+```
+
+---
+
+# 10. Probe interne de convergence
 
 ## RP-SEN-14 — reconstruction multitraces
 
@@ -825,7 +869,7 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 
 ---
 
-# 10. Matrice synthétique
+# 11. Matrice synthétique
 
 | Probe | État | Fonction dominante | Inconnues visées | Peut révéler de nouveaux probes ? | Déclencheur / fenêtre |
 |---|---|---|---|---|---|
@@ -847,8 +891,9 @@ Ne jamais fusionner silencieusement les timestamps : chacun décrit un événeme
 | RP-SEN-16 | partly answered / generative | reconstruction côté candidat | U8a/U8b | oui | U8a largement reconstruite ; U8b reste ouverte |
 | RP-SEN-17 | answered / continuing | jurisprudence comparable | qualification juridique | oui | run passif exécuté le 25/09 |
 | RP-SEN-18 | partly answered / waiting | bundle physique | U8b | oui | première passe sur traces propres exécutée ; attendre reçu primaire ou triangulation institutionnelle |
+| RP-SEN-19 | ready / human-local | artefact primaire | U8b / Q19 | oui | après seconde passe Gmail / Drive négative |
 
-## 11. Règle de continuation
+## 12. Règle de continuation
 
 Après chaque réponse :
 
@@ -863,7 +908,7 @@ Après chaque réponse :
 
 > **La carte des probes doit rester plus large que le chemin effectivement emprunté.**
 
-## 12. Ce que la carte ne doit pas faire
+## 13. Ce que la carte ne doit pas faire
 
 Elle ne doit pas :
 
@@ -875,7 +920,7 @@ Elle ne doit pas :
 - privilégier silencieusement les informations favorables à une hypothèse ;
 - figer un ordre unique lorsque plusieurs probes indépendants peuvent utilement rester ouverts.
 
-## 13. Prochaines mises à jour attendues
+## 14. Prochaines mises à jour attendues
 
 Les premiers événements susceptibles de modifier fortement cette carte sont :
 
