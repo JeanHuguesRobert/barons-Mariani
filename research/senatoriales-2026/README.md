@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — dossier canonique"
 description: "Point d'entrée du Corpus relatif à la candidature sénatoriale de Haute-Corse de septembre 2026, à son contentieux et à l'enquête documentaire qui en résulte."
-date: "2026-09-25"
+date: "2026-09-26"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -134,6 +134,17 @@ Une omission, une réponse partielle, un silence ou une divergence documentaire 
 Leur cause ne doit pas être transformée en fait sans élément indépendant permettant de l'établir.
 
 ## 7. État actuel
+
+### 26 septembre 2026 — veille du scrutin
+
+Le dossier entre dans une phase de préparation post-scrutin. Le dossier presse est pré-armé pour intégrer, après leur réalisation, le résultat proclamé, les interventions parlementaires effectivement envoyées, la requête éventuellement formée devant le Conseil constitutionnel, sa version publique et le manifeste de traçabilité correspondant.
+
+La version 0.3-rc1 de l’amendement d’effectivité distingue désormais autonomie formelle, autonomie possible et autonomie de capacité, et traite aussi l’accès effectif aux habilitations nécessaires.
+
+Règle de phase : **aucun résultat, envoi parlementaire, dépôt contentieux ou horodatage du 27 septembre ne doit être présenté comme réalisé avant sa trace effective.**
+
+### État documentaire hérité du 25 septembre
+
 
 Le **25 septembre 2026**, l'expédition papier du jugement du 14 septembre a été effectivement retirée. Les éléments postaux conservés établissent une oblitération le 15 septembre, une première présentation le 16 septembre et une remise effective le 25 septembre. Les photographies brutes comportant adresse, signature ou autres données personnelles ne sont pas publiées dans ce dépôt ; leurs conséquences factuelles sont projetées dans l'enquête.
 
