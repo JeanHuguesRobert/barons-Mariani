@@ -118,6 +118,46 @@ Le parallélisme porte sur les **relations capacitaires qui survivent au changem
 
 ---
 
+## 0.2. Longitudinalité : suivre les capacités avant de suivre les procédures
+
+Le travail du 26 septembre 2026 ajoute une règle de résolution : **ne pas prendre un contentieux récent comme point de départ artificiel lorsque le phénomène étudié possède une histoire plus longue**.
+
+Deux profondeurs temporelles deviennent explicites :
+
+```text
+axe électoral
+2017 → 2020 → 2022 → 2024 → 2026
+
+axe protection / continuité
+intervention judiciaire et éducative antérieure
+→ transitions scolaires, sociales, administratives et sanitaires
+→ trajectoire d'autonomie
+→ 2024
+→ perte définitive de certaines possibilités
+```
+
+Le cas électoral 2026 est utile parce qu'il est dense, instrumentable et documentable presque en temps réel. Il ne doit pas pour autant devenir le cadre général de l'enquête.
+
+La question commune est plus vaste :
+
+> **Comment un droit, une protection ou un possible formel devient-il une capacité réellement accessible à travers une succession d'institutions, et que se passe-t-il lorsque cette continuité se rompt ?**
+
+Pour chaque bifurcation, l'unité d'analyse candidate devient :
+
+```text
+possible réel
+→ acteur / institution capable d'infléchir la trajectoire
+→ information disponible
+→ fenêtre temporelle
+→ action / abstention / transmission
+→ possibilité de correction
+→ capacité conservée, réduite, réouverte ou perdue
+```
+
+La perte de chance doit être traitée comme une **branche contrefactuelle bornée**, jamais comme une causalité rétrospective automatique. Une fermeture locale n'établit ni la cause unique d'un dommage ultérieur, ni l'identité des mécanismes entre périodes ou institutions.
+
+Cette architecture accueille plusieurs voies institutionnelles sans les confondre : contentieux électoral, question prioritaire de constitutionnalité éventuelle, Défenseur des droits, recours conventionnel éventuel et responsabilités indemnitaires. Ces voies sont des **instruments d'exploration, de correction ou de réparation** ; elles ne constituent pas l'architecture première du problème.
+
 # 1. Déplacement central
 
 Le projet ne doit plus être structuré comme :
