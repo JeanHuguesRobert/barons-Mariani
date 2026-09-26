@@ -3,7 +3,7 @@ title: Corsica2038 — Capacité territoriale d'expérimentation gouvernée
 subtitle: Note-source pour l'Autonomie de Capacité et la double assistance IA
 author: Jean Hugues Noël Robert
 date: '2026-07-31'
-version: 0.3-source
+version: 0.4-source
 status: working-paper
 document_role: source
 document_kind: political-and-implementation-note
@@ -16,6 +16,7 @@ related_documents:
   - grammaire_autonomie_de_capacite.md
   - ../traceabilite_des_actes.md
   - mise_a_jour_processus_beauvau_2026-07.md
+  - amendement_effectivite_article_72-5.md
 external_related_documents:
   - cogentia/research/ia_pour_tous_ia_pour_chacun.md
   - cogentia/research/conversations_gouvernees_effets_durables.md
@@ -129,6 +130,12 @@ Deux travaux doivent avancer ensemble :
 - lancer dès maintenant, dans le droit commun disponible, des démonstrateurs modestes et vérifiables.
 
 L'autonomie ne reste donc pas suspendue à une promesse juridique ; elle se prouve progressivement par des capacités déjà construites.
+
+## 5 bis. Projection constitutionnelle publiée
+
+Le 26 septembre 2026, le Corpus a publié l’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`. Cette proposition fournit au présent scénario une projection légistique minimale : la Constitution candidate n’énumère pas les expérimentations à mener, mais demande que la loi organique traite les **conditions permettant la mise en œuvre effective** des facultés et organise leur **évaluation périodique**.
+
+Corsica2038 reste donc un terrain de capacités concrètes ; l’amendement constitue un mécanisme possible pour que le cadre institutionnel rende observables l’accès aux facultés, leur exercice ou leur non-usage et leurs effets, notamment au regard de **Liberté, Égalité, Fraternité**.
 
 ## 6. Déclinaisons immédiates
 
