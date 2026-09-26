@@ -64,7 +64,7 @@ autonomie de capacité
 → les conditions d'accès et d'exercice rendent la capacité effectivement mobilisable
 ```
 
-Cette distinction ne remplace pas la doctrine initiale ; elle en précise le test d'effectivité. Elle conduit à examiner non seulement **ce que produit une norme**, mais aussi **si l'accès aux capacités normatives nécessaires est lui-même effectif**.
+Cette distinction ne remplace pas la doctrine initiale ; elle en précise le test d’effectivité. Elle conduit à examiner non seulement **ce que produit une norme**, mais aussi **si les facultés normatives ouvertes par le texte peuvent être effectivement mises en œuvre**, notamment à travers les conditions d’accès aux habilitations et de leur exercice.
 
 ---
 
@@ -104,10 +104,13 @@ Parcours documentaire court entre la contribution C.O.R.S.I.C.A. de mai 2026, le
 
 ### 5 bis. Le delta constitutionnel minimal : l’amendement d’effectivité
 
-➡️ [**Amendement d’effectivité — proposition de modification minimale de l’article 72-5**](../autonomia/amendement_effectivite_article_72-5.md)
+➡️ [**Amendement d’effectivité — version parlementaire candidate et note de justification**](../autonomia/amendement_effectivite_article_72-5.md)
 
-Le working paper dit « amendement Baron Mariani » cherche à condenser la doctrine dans le futur article 72-5. Sa version du 26 septembre traite deux dimensions : **l’effectivité des normes produites** et **l’accès effectif aux habilitations nécessaires**. Il reste soumis à revue adversariale externe et n’est pas présenté comme un amendement parlementaire déjà déposé.
+La version publique **`0.4-rc4`**, publiée le 26 septembre 2026, ouvre désormais par un dispositif court conforme à la forme habituelle d’un amendement parlementaire. Au lieu d’ajouter un alinéa autonome, elle propose de **reformuler la première phrase de l’alinéa 6** du texte n° 782, déjà consacré à la loi organique, au contrôle et à l’évaluation.
 
+Le delta cherche à rendre observables trois niveaux : les conditions de mise en œuvre effective des facultés, l’évaluation périodique de cette mise en œuvre — notamment l’accès aux habilitations et leur exercice — et ses effets au regard de l’effectivité de **Liberté, Égalité, Fraternité**.
+
+Le texte est **publié et versionné**, mais il n’est pas documenté comme déposé ou adopté par une assemblée. Sa forme reste volontairement appropriable et amendable par des tiers.
 ### 6. Le suivi corrigible du Réel
 
 ➡️ [**Observatoire public du processus d’autonomie de la Corse**](../autonomia/observatoire_processus_autonomie_corse.md)
