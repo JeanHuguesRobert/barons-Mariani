@@ -4,7 +4,7 @@ subtitle: Mandat, imputabilité et responsabilité dans un monde où humains, in
 author: Jean Hugues Noël Robert
 date: '2026-05-27'
 status: working-paper — Substack / Les carnets du baron Mariani (draft)
-version: 0.1-blogpost
+version: 0.2-blogpost
 source_document: research/traceabilite_des_actes.md v0.15.1-research
 license: CC BY-SA 4.0
 ai_assisted_by:
@@ -13,7 +13,7 @@ review_context:
   - Grok — reviewer of research version, not author of this blogpost
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes_blogpost.md
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -203,6 +203,14 @@ Il faut aussi savoir qui agit, au nom de quoi, avec quelle trace, quelle possibi
 L’autonomie véritable n’est pas l’absence de contrôle.
 
 C’est la capacité d’agir sans perdre la possibilité de répondre, de corriger et de transmettre.
+
+## Un cas concret : de l’idée à l’amendement publiable
+
+Le 26 septembre 2026, cette logique a été appliquée à une proposition constitutionnelle : l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+La chaîne de trace est volontairement séparée : **doctrine → versions de travail → revues adverses → arbitrages → forme parlementaire candidate → publication**. Les étapes futures restent distinctes : **reprise éventuelle par un tiers → dépôt officiel → discussion → modification → adoption ou rejet**.
+
+Cette séparation protège deux choses à la fois : la provenance de l’idée et la liberté d’un tiers de la reprendre, de la corriger ou de se l’approprier politiquement. Une proposition publiée n’est pas confondue avec un acte parlementaire qui n’a pas encore eu lieu.
 
 ## Conclusion
 
