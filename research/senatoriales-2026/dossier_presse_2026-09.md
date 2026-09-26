@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité et préparation post-scrutin — état au 26 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-26"
-version: "1.9"
+version: "1.10"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -388,51 +388,31 @@ Cette formulation documente une continuité politique et une alliance déclarée
 
 ➡️ [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
 
-## L’« amendement Baron Mariani » — état au 26 septembre
+## L’« amendement Baron Mariani » — publication du 26 septembre
 
-Le Corpus contient une proposition publique intitulée :
+Le Corpus publie désormais une version **`0.4-rc4`** de l’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md), au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
 
-> **Amendement d’effectivité — proposition de modification minimale de l’article 72-5**
+Cette version est présentée en tête du document sous une **forme parlementaire candidate**. Elle vise non plus à ajouter une clause autonome après l’alinéa relatif à l’égalité, mais à reformuler la première phrase de l’alinéa 6 du texte n° 782, qui traite déjà de la loi organique, du contrôle des normes et de leur évaluation.
 
-avec pour sous-titre :
+La proposition demande que la loi organique :
 
-> **Nom de travail : « amendement Baron Mariani »**
+1. détermine les conditions permettant la **mise en œuvre effective** des facultés des deuxième et troisième alinéas ;
+2. organise une **évaluation périodique** de cette mise en œuvre, notamment des conditions d’accès aux habilitations et de leur exercice ;
+3. permette d’en apprécier les effets au regard de l’effectivité de la **liberté, de l’égalité et de la fraternité**.
 
-La proposition a évolué au cours du travail documentaire. Elle porte désormais sur **deux dimensions complémentaires de l’effectivité** :
-
-1. **l’effectivité des normes produites** : leurs effets réels au regard de la liberté, de l’égalité et de la fraternité ;
-2. **l’effectivité de l’accès aux capacités normatives elles-mêmes** : une autonomie ne devient une autonomie de capacité que si les habilitations nécessaires peuvent effectivement devenir accessibles.
-
-La distinction doctrinale utilisée est :
+Le document conserve la distinction doctrinale :
 
 ```text
 autonomie formelle
-= un pouvoir est juridiquement reconnu
-
-autonomie possible
-= son exercice reste dépendant de décisions tierces
-
-autonomie de capacité
-= les conditions d'accès et d'exercice sont organisées de manière à rendre la capacité effectivement mobilisable
+→ autonomie possible
+→ autonomie de capacité
 ```
 
-La formulation de travail au 26 septembre ajoute à l'exigence d'égalité déjà présente :
+mais abandonne les formulations antérieures centrées sur les « habilitations nécessaires ». Les versions précédentes restent traçables dans l’historique Git.
 
-> **« ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
+**Statut exact :** proposition publique et versionnée, issue de plusieurs cycles de revue adverse ; **aucun dépôt ni adoption parlementaire n’est établi** à ce stade.
 
-Cette rédaction reste un **working paper** soumis à revue adversariale ; elle n'est pas présentée comme un amendement parlementaire déjà déposé.
-
-Le problème d'effectivité n'est pas reconstruit après coup. Dans son discours devant l'Assemblée de Corse du 28 septembre 2023, le Président de la République proposait déjà de rendre le droit d'adaptation et le droit d'habilitation **« plus simple et plus effectif »**, en relevant qu'ils existaient dans le statut sans avoir été réellement mis en œuvre. Le Conseil d'État a ensuite constaté que le pouvoir de proposition de la Collectivité n'avait pas systématiquement reçu de suite et a envisagé qu'une loi organique organise une obligation de réponse.
-
-La contribution écrite transmise par C.O.R.S.I.C.A. à la commission des Lois le **28 mai 2026**, puis mentionnée dans le rapport n° 2865, formulait déjà l'opposition entre autonomie juridique ou procédurale et **capacité effective d'agir**.
-
-Le contentieux sénatorial est donc traité comme un **cas d'étude ultérieur**, et non comme l'origine de la doctrine :
-
-> **une capacité peut être juridiquement ouverte et néanmoins devenir inexerçable lorsque son effectivité dépend d'une succession de facultés que personne n'est clairement tenu d'utiliser.**
-
-➡️ [Amendement d’effectivité — « amendement Baron Mariani »](../autonomia/amendement_effectivite_article_72-5.md)  
-➡️ [Contribution C.O.R.S.I.C.A. à la commission des Lois](../contribution_commission_lois_autonomie_capacite.md)
-
+La filiation avec les travaux de mai est documentée sans présumer d’une influence causale : la contribution C.O.R.S.I.C.A. a été transmise le 28 mai 2026 et mentionnée parmi les contributions écrites du rapport n° 2865. Florent Boudié, rapporteur de ce texte à l’Assemblée nationale, est par ailleurs l’auteur de l’amendement CL48 ayant fait évoluer la rédaction relative à la consultation des électeurs corses. Ces faits établissent un canal parlementaire antérieur ; ils ne démontrent aucun soutien à la proposition publiée le 26 septembre.
 ## Pourquoi ce dossier dépasse le seul contentieux sénatorial
 
 Le dossier distingue strictement deux niveaux.
