@@ -7,10 +7,22 @@ source_documents:
   - "research/contribution_commission_lois_autonomie_capacite.md"
   - "research/autonomia/impunite_par_obscurite_cas_corse.md"
   - "research/legistique_cognitive.md"
+  - "research/autonomia/amendement_effectivite_article_72-5.md"
 status:
   packet_status: "draft"
   institutional_status: "constitutional reform context"
   corpus_role: "demonstrator case for cognitive legistics"
+latest_public_projection:
+  date: "2026-09-26"
+  version: "0.4-rc4"
+  document: "research/autonomia/amendement_effectivite_article_72-5.md"
+  commit: "2125fe9a7811ac2b2474682cf8cc1d314755fbec"
+  status: "public parliamentary-form candidate; not documented as filed or adopted"
+  delta:
+    - "effective implementation conditions"
+    - "periodic evaluation of the regime"
+    - "access to habilitations and exercise conditions"
+    - "effects assessed with respect to Liberté, Égalité, Fraternité"
 core_claim: >
   The autonomy of Corsica should not be assessed only as a transfer
   of legal powers or procedural competence. It should be assessed as
