@@ -76,7 +76,7 @@ Les qualifications de délai restent **provisoires** lorsqu'un texte spécial, u
 | P26-GRASSE-01 | 10 et 18/09/2026 | TJ Grasse | demande puis relance sur PV 03632/2024 et audition Martine Brillais | **OUVERTE / À SUIVRE** | obtenir réponse ; sinon qualifier voie d'accès, recours ou saisine transversale appropriée | réactivation explicite de la chaîne 2024 ; effet utile pour DDD-01 |
 | P26-SENAT-01 | sept. 2026 | préfecture / TA Bastia / futur CC | candidature sénatoriale, rejet et contentieux | **OUVERTE** | scrutin 27/09, requête électorale ensuite ; préserver toutes traces | Reality Case contemporain du principe d'effectivité ; réparation éventuelle distincte de Marie-Louise |
 | P26-CRPA-RGPD-01 | 25/09/2026 | préfecture Haute-Corse | demande de documents/données et préservation des logs du 11/09/2026 | **OUVERTE** | attendre réponse, puis voies CADA/CNIL selon nature du refus ou silence | probe direct de continuité documentaire et préservation de preuve |
-| P26-DDD-01 | 26/09/2026 | Défenseur des droits | saisine envisagée sur le **principe d'effectivité** | **PRÉPARÉE / NON ENCORE OUVERTE** | ouvrir minimalement avec un cas contemporain puis compléter le même dossier | rôle transversal : documenter l'effectivité, la continuité interinstitutionnelle et les orientations utiles sans remplacer les juges |
+| P26-DDD-01 | 26/09/2026 | Défenseur des droits | saisine envisagée sur le **principe d'effectivité** ; draft email préparé mais non envoyé | **PRÉPARÉE / NON ENCORE OUVERTE** | ouvrir minimalement avec un cas contemporain, sous protocole anti-capture, puis compléter le même dossier | rôle transversal : documenter l'effectivité, la continuité interinstitutionnelle et les orientations utiles sans remplacer les juges |
 
 # 4. Ce qui est réellement réactivable aujourd'hui
 
@@ -209,29 +209,77 @@ Cette séparation protège simultanément la recevabilité des actions et la fin
 
 # 7. DDD-01 — rôle du Défenseur des droits dans cette carte
 
-## 7.1 Ouverture minimale candidate
+## 7.0 Protocole anti-capture applicable
 
-Objet proposé :
+DDD-01 est traité comme une **instanciation locale** d'une doctrine générique, non comme une exception française.
 
-> **Principe d'effectivité — continuité d'accès aux droits dans une procédure impliquant plusieurs institutions**
+Source générique canonique :
 
-Texte d'ouverture candidat :
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/institutional_procedural_anti_capture.md
 
-> Je saisis le Défenseur des droits d'une question que je rattache au principe d'effectivité : l'écart possible entre l'existence formelle d'un droit, d'une protection ou d'un recours et la capacité réelle d'une personne à l'exercer lorsque plusieurs institutions interviennent successivement.
->
-> Ma saisine initiale est volontairement limitée à un cas récent, documentable et encore évolutif. Elle pourra être complétée à mesure que les réponses institutionnelles et les pièces demandées seront reçues.
->
-> Dans le cadre de ma candidature à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse et du contentieux qui a suivi, je rencontre aujourd'hui une difficulté de continuité documentaire : certaines informations et pièces ont circulé entre la préfecture, le tribunal administratif et moi-même, sans que je sois encore en mesure de reconstituer complètement leur réception, leur transmission et leur mise à disposition du juge.
->
-> Je ne demande pas au Défenseur des droits de remettre en cause une décision juridictionnelle. Je sollicite son intervention sur une question plus élémentaire : comment garantir l'effectivité d'un droit ou d'un recours lorsque son exercice dépend de la continuité des informations, des transmissions et des réponses entre plusieurs institutions ?
->
-> J'ai parallèlement entrepris auprès des administrations concernées les démarches nécessaires pour obtenir les documents, données et traces existants.
->
-> Je souhaite que cette saisine puisse être enrichie au fil du temps si les éléments recueillis révèlent que la même question de continuité se pose dans d'autres procédures déjà engagées ou réactivables.
->
-> Jean Hugues Noël Robert — Baron Mariani
+Invariant opérationnel :
 
-Cette version préserve trois choses : thème général explicite dès l'origine ; premier cas volontairement étroit ; annonce loyale de compléments ultérieurs.
+> ne jamais laisser un canal, un intermédiaire, une transmission, une médiation, une requalification, un régime de confidentialité, une résolution partielle ou une clôture substituer silencieusement une voie à une autre ou réduire matériellement les options futures.
+
+Pour DDD-01, cela implique notamment :
+
+~~~text
+email / acte sortant conservé hors portail
+→ référence stable recherchée
+→ consentement granulaire
+→ pas de médiation ni contact de tiers par défaut
+→ délais parallèles suivis indépendamment
+→ toute requalification ou transmission documentée
+→ état et clôture explicitement qualifiés
+→ traces récupérables
+~~~
+
+Le mécanisme du Défenseur des droits doit lui-même être soumis à un **Reality Test d'effectivité**. Cette précaution ne présume ni dysfonctionnement ni intention hostile : elle vise à rendre le fonctionnement observable, y compris lorsque le mode de défaillance n'a pas été anticipé.
+
+## 7.1 Draft d'ouverture — non envoyé
+
+Destinataire envisagé : `josette.chiaroni@defenseurdesdroits.fr`, déléguée du Défenseur des droits en Haute-Corse.
+
+Objet candidat :
+
+> **Réclamation — effectivité des droits et continuité administrative**
+
+Corps candidat :
+
+> Madame la Déléguée,
+>
+> Je souhaite vous saisir, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté relative à mes relations avec plusieurs services publics.
+>
+> Je souhaite que cette difficulté soit examinée sous l'angle de **l'effectivité des droits et des recours**, c'est-à-dire de l'écart qui peut exister entre l'existence formelle d'une voie de droit et la possibilité concrète de l'exercer lorsque plusieurs institutions interviennent successivement.
+>
+> À ce stade, je souhaite volontairement limiter ma réclamation à un cas récent et précisément documentable. Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin d'obtenir et de préserver les traces permettant de reconstituer la réception et la transmission de certains éléments de mon dossier.
+>
+> Ces démarches sont actuellement en cours.
+>
+> Je souhaite, dans un premier temps, que ce courrier soit enregistré comme **réclamation auprès du Défenseur des droits**, si ce canal le permet, recevoir la référence attribuée au dossier et pouvoir poursuivre les échanges et transmettre les compléments par courrier électronique sous cette référence.
+>
+> À ce stade, je sollicite seulement l'enregistrement et un premier examen du périmètre de la réclamation. Je vous remercie de ne prendre aucune initiative auprès d'un tiers et de ne pas engager de médiation avant que nous ayons échangé sur ce périmètre et que je vous aie donné un accord explicite sur l'acte envisagé.
+>
+> Cette saisine est sans préjudice des autres voies de droit et démarches actuellement ouvertes.
+>
+> Je souhaite également que tout changement matériel de qualification, de périmètre, de destinataire ou de mode de traitement me soit signalé, afin que je puisse en comprendre les effets avant de donner, lorsque cela est nécessaire, mon accord.
+>
+> Ma démarche est documentée publiquement pour mes propres actes et écrits. Je respecterai naturellement les obligations applicables aux éléments confidentiels ou protégés qui pourraient m'être transmis et vous remercie de me signaler explicitement tout régime particulier de confidentialité susceptible d'affecter leur réutilisation ou leur publication.
+>
+> Je peux vous transmettre immédiatement les justificatifs des démarches déjà effectuées auprès de l'administration.
+>
+> Bien cordialement,
+>
+> Jean Hugues Noël Robert  
+> Baron Mariani  
+> Président de C.O.R.S.I.C.A.  
+> Institut Mariani  
+> 1 cours Paoli  
+> 20250 Corte
+
+**État : draft seulement. Aucun envoi n'est autorisé ni effectué à ce stade.**
+
+Le texte est volontairement conçu pour ouvrir le dossier sans demander immédiatement médiation, règlement amiable, réparation, transmission à un tiers ou requalification. Il réserve les autres voies et rend explicite la volonté de consentement granulaire.
 
 ## 7.2 Capacité de raccordement institutionnel
 
