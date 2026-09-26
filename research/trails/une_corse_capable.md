@@ -3,8 +3,8 @@ title: "Trail — Une Corse capable"
 subtitle: "Parcours public pour comprendre l’Autonomie de Capacité, son contexte corse et ses mises à l’épreuve"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-17"
-version: "1.2"
+date: "2026-09-26"
+version: "1.3"
 status: "public trail — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -24,6 +24,8 @@ related_documents:
     path: "../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
   - title: "Observatoire public du processus d’autonomie de la Corse"
     path: "../autonomia/observatoire_processus_autonomie_corse.md"
+  - title: "Amendement d’effectivité — article 72-5"
+    path: "../autonomia/amendement_effectivite_article_72-5.md"
   - title: "Corsica2038"
     path: "../autonomia/corsica2038_contre_rapport_pruspettiva2050.md"
 provenance:
@@ -48,6 +50,21 @@ Ce Trail est un **parcours de lecture public** dans le Corpus. Il ne remplace ni
 La formule **« Une Corse capable »** désigne ici l’horizon auquel se rattache la doctrine d’**Autonomie de Capacité** : examiner non seulement les compétences ou pouvoirs formellement attribués à un territoire, mais ce que ses habitants, communes, organisations et institutions deviennent **effectivement capables de faire**, dans le temps utile et avec des responsabilités identifiables.
 
 > **Question de départ : que devient la Corse capable de faire ?**
+
+Au 26 septembre 2026, le Trail explicite une distinction supplémentaire devenue structurante :
+
+```text
+autonomie formelle
+→ un pouvoir existe juridiquement
+
+autonomie possible
+→ son exercice dépend encore de décisions tierces
+
+autonomie de capacité
+→ les conditions d'accès et d'exercice rendent la capacité effectivement mobilisable
+```
+
+Cette distinction ne remplace pas la doctrine initiale ; elle en précise le test d'effectivité. Elle conduit à examiner non seulement **ce que produit une norme**, mais aussi **si l'accès aux capacités normatives nécessaires est lui-même effectif**.
 
 ---
 
@@ -84,6 +101,12 @@ Cette couche met l’Atlas à jour après l’adoption du projet de loi constitu
 ➡️ [**Autonomie de la Corse — note de continuité parlementaire**](../autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 
 Parcours documentaire court entre la contribution C.O.R.S.I.C.A. de mai 2026, le rapport de l’Assemblée nationale, le texte transmis au Sénat et les fenêtres parlementaires d’octobre 2026.
+
+### 5 bis. Le delta constitutionnel minimal : l’amendement d’effectivité
+
+➡️ [**Amendement d’effectivité — proposition de modification minimale de l’article 72-5**](../autonomia/amendement_effectivite_article_72-5.md)
+
+Le working paper dit « amendement Baron Mariani » cherche à condenser la doctrine dans le futur article 72-5. Sa version du 26 septembre traite deux dimensions : **l’effectivité des normes produites** et **l’accès effectif aux habilitations nécessaires**. Il reste soumis à revue adversariale externe et n’est pas présenté comme un amendement parlementaire déjà déposé.
 
 ### 6. Le suivi corrigible du Réel
 
@@ -132,7 +155,9 @@ Le parcours principal peut ensuite bifurquer selon la question du lecteur.
 - [**Dossier TA Bastia — photographie au 14 septembre 2026**](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md) — état de la défense au moment de l'audience ; ne pas le réécrire à la lumière des découvertes ultérieures.
 - [**Situation de handicap et écart capacitaire — Reality Case sénatoriales 2026**](../case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md) — lecture capacitaire d'une procédure réelle, distincte du dossier contentieux lui-même.
 
-Au 21 septembre, l'état canonique est : **déclaration déposée le 11 septembre ; enregistrement refusé après le jugement du 14 septembre ; aucun retrait volontaire documenté**. L'enquête reste notamment ouverte sur la réception et la transmission du courriel/vidéo de 17:57:55 et sur la différence de traitement entre les complétions effectivement demandées avant 18 h et celles qui n'ont pas été proposées selon le témoignage du candidat.
+Au 26 septembre, l'état canonique est : **déclaration déposée le 11 septembre ; enregistrement refusé après le jugement du 14 septembre ; aucun retrait volontaire documenté**. L'enquête reste notamment ouverte sur la réception et la transmission du courriel/vidéo de 17:57:55 et sur la différence de traitement entre les complétions effectivement demandées avant 18 h et celles qui n'ont pas été proposées selon le témoignage du candidat.
+
+La veille du scrutin, le dossier est également préparé pour une **projection post-scrutin traçable** : résultat officiel, interventions parlementaires effectivement envoyées, requête au Conseil constitutionnel si elle est formée, version publique correspondante et manifeste des actes. Ces éléments ne doivent entrer dans le récit factuel qu'après leur réalisation.
 
 Ces documents décrivent une situation réelle et évolutive. Ils doivent être lus selon leur statut propre : une pièce contentieuse, une observation documentaire, un témoignage direct et une interprétation doctrinale ne valent pas la même chose.
 
