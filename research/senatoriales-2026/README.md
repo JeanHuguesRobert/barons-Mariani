@@ -41,6 +41,18 @@ Ce document doit être considéré comme une **photographie documentaire datée*
 
 Projection publique de la continuité de la démarche après le jugement.
 
+### Cahier des charges de la requête au Conseil constitutionnel
+
+[`requete-conseil-constitutionnel-cahier-des-charges.md`](requete-conseil-constitutionnel-cahier-des-charges.md)
+
+Spécification rigoureuse de la future requête : fonction contentieuse, fonction historique, structure des griefs, statut des preuves, architecture des annexes, synchronisation institutionnelle/publique et manifeste Archia.
+
+### Kit presse post-scrutin
+
+[`media/kit_presse_post_scrutin_2026-09-27.md`](media/kit_presse_post_scrutin_2026-09-27.md)
+
+Gabarit pré-armé pour la publication immédiatement postérieure à la proclamation et aux actes effectivement accomplis le 27 septembre.
+
 ### Profession de foi
 
 [`profession_de_foi_2026.md`](profession_de_foi_2026.md)
