@@ -3,8 +3,8 @@ title: Registre des identités publiques — Barons Mariani
 description: Référentiel factuel évolutif des identités, dénominations et signes publics liés aux Barons Mariani.
 author: Jean Hugues Noël Robert, baron Mariani
 date: '2026-09-18'
-last_modified_at: '2026-09-18'
-version: '0.2'
+last_modified_at: '2026-09-27'
+version: '0.3'
 status: working
 language: fr
 license: CC BY-SA 4.0
@@ -81,8 +81,17 @@ Source spécialisée :
 
 - `Marie-Louise` — prénom usuel ;
 - `Malou` — forme familière documentée dans le Corpus ;
-- `Marie-Louise d'Angelis` — identité publique électorale documentée en 2017 ;
+- `Marie-Louise d'Angelis` — identité publique documentée avant l'usage électoral de 2017 ; le Corpus conserve notamment des usages numériques/artistiques antérieurs ;
 - formes comportant `Mariani` — à qualifier occurrence par occurrence selon leur contexte.
+
+### Antériorité publique avant l'élection de 2017
+
+Le sous-corpus des identités et des œuvres documente l'usage de `Marie-Louise d'Angelis` avant la candidature de 2017, notamment comme nom d'affichage du compte principal puis comme identité de publication artistique autour de travaux audiovisuels en 2016–2017.
+
+Cette antériorité établit que la forme `Marie-Louise d'Angelis` n'a pas été créée par la candidature législative de 2017. Elle ne suffit pas à qualifier juridiquement ce nom ni à expliquer les raisons de son adoption.
+
+Sources spécialisées :
+[`../memory/marie-louise/identites.md`](../memory/marie-louise/identites.md) et catalogue raisonné dans `../memory/marie-louise/works/`.
 
 ### 2017 — usage électoral établi
 
