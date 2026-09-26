@@ -79,6 +79,10 @@ Ces formes doivent être conservées avec leur **date, leur document et leur con
 Le cas 2020 est particulièrement instructif : le nom civil de la remplaçante enregistrée et le nom déclaré pour publication sur le bulletin sont différents. Cette distinction est documentée dans `2020-senatoriales.md`.
 
 
+## Matrice dérivée
+
+La synthèse structurée de cette évolution est maintenue dans [`capability-matrix-2017-2024.md`](capability-matrix-2017-2024.md). Elle sépare rôle institutionnel, acte personnel, `VOICE`, obstacle et delta de capacité, sans reconstruire les motivations manquantes.
+
 ## Axe longitudinal de capacité électorale
 
 La série doit être lue comme une évolution documentée des **rôles et actes observables**, non comme la preuve d'une intention politique unique et continue :
