@@ -242,19 +242,19 @@ Destinataire envisagé : `josette.chiaroni@defenseurdesdroits.fr`, déléguée d
 
 Objet candidat :
 
-> **Réclamation — effectivité des droits et continuité administrative**
+> **Saisine — effectivité des droits et continuité administrative**
 
 Corps candidat :
 
 > Madame la Déléguée,
 >
-> Je me permets de vous saisir, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté que je souhaiterais voir examinée sous l'angle de l'effectivité des droits et des recours.
+> Je vous saisis, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté que je souhaite voir examinée sous l'angle de l'effectivité des droits et des recours.
 >
-> La question qui m'occupe est assez simple dans son principe : lorsqu'un droit ou une voie de recours existe formellement, encore faut-il que la succession des interlocuteurs, transmissions et procédures permette réellement de l'exercer sans que l'essentiel se perde en chemin.
+> La question est simple dans son principe : lorsqu'un droit ou une voie de recours existe formellement, encore faut-il que la succession des interlocuteurs, des transmissions et des procédures permette réellement de l'exercer sans que l'essentiel se perde en chemin.
 >
 > Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai ainsi entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin de pouvoir reconstituer avec précision la réception et la transmission de certains éléments de mon dossier. Ces démarches sont encore en cours.
 >
-> Je souhaiterais, dans un premier temps, limiter ma saisine à ce cas récent et précisément documentable. Si ce courrier peut valoir réclamation auprès du Défenseur des droits, je vous serais reconnaissant de bien vouloir m'en indiquer la référence, ainsi que la manière la plus simple de poursuivre ensuite nos échanges et de vous transmettre les compléments utiles, de préférence par courrier électronique.
+> Je souhaite, dans un premier temps, limiter cette saisine à ce cas récent et précisément documentable. Je vous serais reconnaissant de bien vouloir m'indiquer la référence sous laquelle elle sera enregistrée, ainsi que la manière la plus simple de poursuivre ensuite nos échanges et de vous transmettre les compléments utiles, de préférence par courrier électronique.
 >
 > À ce stade, il me semblerait préférable que nous puissions d'abord préciser ensemble le périmètre de la réclamation avant toute démarche auprès d'un tiers ou toute orientation vers une médiation. De même, si le dossier devait être transmis, requalifié, scindé ou traité selon une modalité différente, je vous serais obligé de bien vouloir m'en informer au préalable, afin que je puisse en comprendre la portée et, lorsqu'il y a lieu, donner mon accord en connaissance de cause.
 >
