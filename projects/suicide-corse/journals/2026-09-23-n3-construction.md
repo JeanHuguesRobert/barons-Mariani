@@ -219,3 +219,67 @@ Le n°3 doit se construire à partir des réponses du Réel et du mouvement du C
 
 > **Le delta contraint l'attention ; il ne dicte pas le sommaire.**
 
+
+
+## 26 septembre — rebouclage longitudinal : du contentieux ponctuel à la continuité des capacités
+
+Le travail de la matinée conduit à élargir explicitement la résolution de l'enquête.
+
+Le contentieux sénatorial 2026 reste un Reality Case particulièrement dense, parce que les actes, délais, messages, décisions et traces peuvent être observés presque en temps réel. Mais il ne constitue pas le début du phénomène étudié.
+
+Sur l'axe électoral, le sous-corpus documente désormais une série continue à partir de **2017** : Marie-Louise suppléante aux législatives, séquences de 2020, candidature titulaire en 2022, candidature titulaire et recours en 2024, puis nouveau cas sénatorial en 2026.
+
+Pour Marie-Louise, la profondeur pertinente est plus ancienne encore : l'intervention de la justice au titre de l'**assistance éducative** oblige à regarder la continuité de protection bien avant la séquence électorale. La date de départ exacte et chaque obligation institutionnelle devront rester déterminées par les pièces primaires ; le journal n'en déduit pas une chronologie qu'il ne possède pas encore.
+
+Le déplacement méthodologique est donc :
+
+~~~text
+ne pas demander seulement
+« quel recours existe contre tel acte ? »
+
+mais
+
+« quel possible existait encore ?
+qui pouvait le convertir en capacité réelle ?
+avec quelle information ?
+dans quelle fenêtre temporelle ?
+et la fermeture était-elle encore corrigeable ? »
+~~~
+
+Cette grille relie sans les fusionner :
+
+- continuité de protection ;
+- histoire électorale 2017–2024 ;
+- plaintes et recours contemporains de juillet 2024 ;
+- perte de chance comme contrefactuel borné ;
+- contentieux sénatorial 2026 ;
+- accès aux traces et corrigibilité ;
+- Autonomie de Capacité à l'échelle territoriale.
+
+Les voies juridiques actuellement explorées — Conseil constitutionnel, éventuelle QPC, Défenseur des droits, éventuelle CEDH, responsabilités civile ou administrative — sont enregistrées comme **probes et voies de qualification**, non comme résultats acquis. Leur intérêt diffère : certaines tranchent un litige déterminé, d'autres peuvent contribuer à documenter la continuité entre institutions, d'autres encore posent la question de la réparation de possibles définitivement perdus.
+
+La règle anti-surinterprétation reste entière :
+
+> **Une perte de chance peut être étudiée sans transformer une branche perdue en cause totale de l'issue finale.**
+
+### Conséquence éditoriale : mode magazine jusqu'au lundi matin
+
+Jean Hugues Noël Robert fixe désormais l'objectif de **boucler Suicide Corse n°3 le lundi 28 septembre au matin**.
+
+La fin de semaine devient donc volontairement une phase de **magazine réactif à forte intensité** :
+
+~~~text
+samedi
+→ nouvelles traces / nouveaux probes / préparation
+
+dimanche
+→ scrutin / réponses du Réel / horodatages / ramifications
+
+lundi matin
+→ arbitrage éditorial
+→ freeze n°3
+~~~
+
+Cette cadence n'autorise aucune baisse du standard de preuve. Elle autorise en revanche le numéro à montrer le mouvement de l'enquête presque en temps réel : ce qui était connu samedi, ce qui a changé dimanche, ce qui reste UNKNOWN au freeze.
+
+Le rebouclage avec *Suicide Corse* devient ainsi explicite : l'objet n'est plus seulement le suicide, ni seulement l'élection, ni seulement l'autonomie. Il est aussi l'étude de la manière dont **des possibles formellement ouverts deviennent — ou échouent à devenir — des capacités effectives**, et de la manière dont certaines pertes peuvent devenir irréversibles avant même qu'une institution ait reconstitué l'ensemble du parcours.
