@@ -388,11 +388,25 @@ Cette interaction est documentée publiquement dans le [registre d’interaction
 
 ---
 
+## Mise à jour de la source constitutionnelle — 26 septembre 2026
+
+La source doctrinale liée à cette note a désormais été publiée en version **`0.4-rc4`** sous une forme parlementaire candidate. Le mouvement rédactionnel est significatif pour le présent cas : l’exigence d’effectivité n’est plus ajoutée comme un principe séparé, mais intégrée au **mécanisme d’évaluation déjà prévu** par le futur article 72-5.
+
+Pour le statut de résident, cela renforce la distinction entre deux questions complémentaires :
+
+```text
+la règle peut-elle être adoptée / mise en œuvre ?
+≠
+quels effets sa mise en œuvre produit-elle réellement ?
+```
+
+La note conserve donc son rôle de cas d’application : elle n’anticipe pas le choix juridique ou politique sur le statut de résident, mais fournit un cadre pour rendre ses objectifs, ses effets et ses éventuelles corrections observables.
+
 ## Sources et filiation documentaire
 
 ### Source doctrinale
 
-- [Amendement d’effectivité — proposition de modification minimale de l’article 72-5](./amendement_effectivite_article_72-5.md)
+- [Amendement d’effectivité — version parlementaire candidate et note de justification](./amendement_effectivite_article_72-5.md)
 
 ### Sources institutionnelles
 
