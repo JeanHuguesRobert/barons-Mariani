@@ -170,3 +170,10 @@ La [Triangulation du Réel](triangulation_du_reel.md) est ici un **commentaire e
 > **Une démocratie doit rendre lisible le pouvoir effectif de chacun.**
 
 > **Le peuple n’est pas seulement une source périodique de légitimité pour les gouvernants ; il doit pouvoir rester un acteur causal identifiable de la décision collective.**
+
+## Projection constitutionnelle : rendre une faculté démocratiquement capable
+
+La publication de l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un cas d’application : une démocratie capable ne se contente pas d’ouvrir une faculté juridique ; elle rend observables les conditions de sa mise en œuvre, son usage ou son non-usage, ses effets et la possibilité de corriger l’architecture qui l’encadre.
+
+La référence à **Liberté, Égalité, Fraternité** y fonctionne comme une finalité d’évaluation explicitement assumée. Cette projection institutionnelle reste distincte de la doctrine générale et demeure appropriable par les acteurs parlementaires.
+
