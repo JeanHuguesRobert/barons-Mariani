@@ -248,32 +248,27 @@ Corps candidat :
 
 > Madame la Déléguée,
 >
-> Je souhaite vous saisir, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté relative à mes relations avec plusieurs services publics.
+> Je me permets de vous saisir, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté que je souhaiterais voir examinée sous l'angle de l'effectivité des droits et des recours.
 >
-> Je souhaite que cette difficulté soit examinée sous l'angle de **l'effectivité des droits et des recours**, c'est-à-dire de l'écart qui peut exister entre l'existence formelle d'une voie de droit et la possibilité concrète de l'exercer lorsque plusieurs institutions interviennent successivement.
+> La question qui m'occupe est assez simple dans son principe : lorsqu'un droit ou une voie de recours existe formellement, encore faut-il que la succession des interlocuteurs, transmissions et procédures permette réellement de l'exercer sans que l'essentiel se perde en chemin.
 >
-> À ce stade, je souhaite volontairement limiter ma réclamation à un cas récent et précisément documentable. Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin d'obtenir et de préserver les traces permettant de reconstituer la réception et la transmission de certains éléments de mon dossier.
+> Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai ainsi entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin de pouvoir reconstituer avec précision la réception et la transmission de certains éléments de mon dossier. Ces démarches sont encore en cours.
 >
-> Ces démarches sont actuellement en cours.
+> Je souhaiterais, dans un premier temps, limiter ma saisine à ce cas récent et précisément documentable. Si ce courrier peut valoir réclamation auprès du Défenseur des droits, je vous serais reconnaissant de bien vouloir m'en indiquer la référence, ainsi que la manière la plus simple de poursuivre ensuite nos échanges et de vous transmettre les compléments utiles, de préférence par courrier électronique.
 >
-> Je souhaite, dans un premier temps, que ce courrier soit enregistré comme **réclamation auprès du Défenseur des droits**, si ce canal le permet, recevoir la référence attribuée au dossier et pouvoir poursuivre les échanges et transmettre les compléments par courrier électronique sous cette référence.
+> À ce stade, il me semblerait préférable que nous puissions d'abord préciser ensemble le périmètre de la réclamation avant toute démarche auprès d'un tiers ou toute orientation vers une médiation. De même, si le dossier devait être transmis, requalifié, scindé ou traité selon une modalité différente, je vous serais obligé de bien vouloir m'en informer au préalable, afin que je puisse en comprendre la portée et, lorsqu'il y a lieu, donner mon accord en connaissance de cause.
 >
-> À ce stade, je sollicite seulement l'enregistrement et un premier examen du périmètre de la réclamation. Je vous remercie de ne prendre aucune initiative auprès d'un tiers et de ne pas engager de médiation avant que nous ayons échangé sur ce périmètre et que je vous aie donné un accord explicite sur l'acte envisagé.
+> Cette démarche est naturellement sans préjudice des autres voies de droit et demandes actuellement en cours.
 >
-> Cette saisine est sans préjudice des autres voies de droit et démarches actuellement ouvertes.
+> Je tiens par ailleurs une documentation publique de mes propres actes et écrits. Je veillerai bien entendu au respect de toute confidentialité ou protection particulière qui s'attacherait aux éléments que votre institution ou des tiers pourraient me communiquer ; je vous serais reconnaissant de me signaler, le cas échéant, les précautions particulières à observer.
 >
-> Je souhaite également que tout changement matériel de qualification, de périmètre, de destinataire ou de mode de traitement me soit signalé, afin que je puisse en comprendre les effets avant de donner, lorsque cela est nécessaire, mon accord.
+> Je peux naturellement vous adresser dès à présent les premiers justificatifs utiles.
 >
-> Ma démarche est documentée publiquement pour mes propres actes et écrits. Je respecterai naturellement les obligations applicables aux éléments confidentiels ou protégés qui pourraient m'être transmis et vous remercie de me signaler explicitement tout régime particulier de confidentialité susceptible d'affecter leur réutilisation ou leur publication.
->
-> Je peux vous transmettre immédiatement les justificatifs des démarches déjà effectuées auprès de l'administration.
->
-> Bien cordialement,
+> Je vous prie d'agréer, Madame la Déléguée, l'expression de ma considération distinguée.
 >
 > Jean Hugues Noël Robert  
 > Baron Mariani  
-> Président de C.O.R.S.I.C.A.  
-> Institut Mariani  
+> Président de l'association C.O.R.S.I.C.A.  
 > 1 cours Paoli  
 > 20250 Corte
 
