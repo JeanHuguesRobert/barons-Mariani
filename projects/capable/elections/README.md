@@ -62,6 +62,14 @@ retour au Corpus
 4. Les hypothèses politiques ou calendaires doivent rester identifiées comme telles.
 5. Les résultats et obstacles rencontrés sont réinjectés dans le Corpus comme observations, sans validation automatique de la doctrine.
 
+## Projection institutionnelle transversale
+
+Les projections électorales ne sont pas les seules sorties possibles du Corpus. Une séquence électorale ou un Reality Test peut produire un objet institutionnel qui continue ensuite sa trajectoire indépendamment de l’élection.
+
+Le cas publié le 26 septembre 2026 est l’[**Amendement d’effectivité — article 72-5**](../../../research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`. Il transforme une partie de la doctrine d’Autonomie de Capacité en **forme parlementaire candidate**, tout en restant explicitement non documenté comme déposé ou adopté.
+
+Règle de méthode : lorsqu’un objet de ce type apparaît, le relier aux projections électorales qui l’ont nourri sans l’enfermer dans une campagne particulière.
+
 ## Séquence de travail
 
 ### 2026 — Sénatoriales de Haute-Corse
