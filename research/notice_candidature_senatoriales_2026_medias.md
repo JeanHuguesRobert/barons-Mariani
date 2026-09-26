@@ -299,14 +299,30 @@ Un média reste libre de préciser séparément la nuance administrative attribu
 
 Le **19 septembre 2026**, une proposition de travail a été publiée dans le Corpus sous le titre **« Amendement d’effectivité — proposition de modification minimale de l’article 72-5 »**, avec le sous-titre **« Nom de travail : amendement Baron Mariani »**.
 
-Elle prolonge l’Autonomie de Capacité en proposant d’introduire explicitement dans le futur article 72-5 une exigence d’effectivité de la liberté, de l’égalité et de la fraternité.
+Au **26 septembre 2026**, cette proposition distingue désormais deux problèmes :
 
-Cette pièce est **postérieure** au jugement du 14 septembre et ne doit donc pas être présentée comme un élément du dossier de candidature initial. Elle documente la continuité du travail politique et constitutionnel après le refus d’enregistrement.
+1. les **effets réels** des normes prises dans le cadre de l’autonomie ;
+2. l’**accès effectif aux habilitations nécessaires** à leur production.
 
-Le nom « amendement Baron Mariani » est explicitement un **nom de travail et de provenance** : il ne signifie pas qu’un amendement parlementaire a déjà été déposé sous ce nom.
+La doctrine associée distingue ainsi :
+
+> **autonomie formelle → autonomie possible → autonomie de capacité**
+
+Une autonomie seulement possible ouvre juridiquement une faculté ; une autonomie de capacité cherche à organiser les conditions permettant son exercice effectif lorsque celui-ci est nécessaire à la finalité constitutionnelle poursuivie.
+
+La formulation de travail ajoute notamment :
+
+> **« La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
+
+Cette rédaction reste un **working paper** soumis à revue. Elle n’est pas présentée comme un amendement parlementaire déjà déposé ou adopté.
+
+Cette pièce est **postérieure** au jugement du 14 septembre et ne doit donc pas être présentée comme un élément du dossier de candidature initial. En revanche, la doctrine d’**Autonomie de Capacité** et son lien avec la candidature sont antérieurs au contentieux : la contribution C.O.R.S.I.C.A. a été transmise à la commission des Lois le 28 mai 2026 et la candidature sénatoriale avait déjà été publiquement annoncée.
+
+Le contentieux est donc utilisé comme **cas d’étude ultérieur** de la différence entre possibilité formelle et capacité effectivement exerçable, non comme origine de la doctrine.
 
 Source :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
+
 
 ## Éléments postérieurs au dépôt à ne pas confondre
 
