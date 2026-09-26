@@ -3,9 +3,9 @@ title: "Assistance non directive et Autonomie de Capacité"
 subtitle: "Invariant transversal pour l'assistance humaine et informatisée"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-08-16"
+date: "2026-09-26"
 status: "working-paper"
-version: "0.6"
+version: "0.7"
 document_role: "source"
 document_kind: "research-note"
 visibility: "public"
@@ -31,6 +31,7 @@ related_documents:
   - "research/serenia_autonomie_assistee_ia.md"
   - "research/presencology.md"
   - "research/pluralisation_cognitive_sous_mandat.md"
+  - "research/autonomia/amendement_effectivite_article_72-5.md"
 classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "explicit-metadata"
@@ -310,6 +311,18 @@ Potentics ne suppose pas qu'il existe un futur unique à optimiser. Il aide à e
 ### Démocratie et probité publique
 
 La même architecture peut renforcer la capacité civique : mémoire des engagements, accès aux sources primaires, comparaison des décisions, traçabilité des actes publics et détection d'incohérences. Le but n'est pas d'établir une autorité algorithmique sur le jugement politique, mais de réduire le coût cognitif de la vérification et d'augmenter la probabilité qu'un abus de pouvoir ou une atteinte à la probité devienne visible et contestable.
+
+## 6 bis. Cas légistique : aider sans capturer la proposition
+
+La publication de l’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un cas institutionnel de la même règle.
+
+Le travail d’assistance a permis de rechercher, comparer, critiquer et resserrer la rédaction. Mais le point d’arrêt retenu n’est pas celui d’une optimisation sans fin : le texte reste **appropriable** par un parlementaire ou un autre acteur, qui doit pouvoir le modifier et en devenir réellement l’auteur politique.
+
+Cela généralise l’invariant :
+
+> **Rendre capable n’est pas produire à la place du titulaire une forme si fermée qu’il ne puisse plus se l’approprier.**
+
+Dans une chaîne institutionnelle, l’assistance capacitaire doit donc optimiser non seulement la qualité intrinsèque du livrable, mais aussi son **coût d’appropriation par le prochain acteur légitime**.
 
 ## 7. Formule canonique provisoire
 
