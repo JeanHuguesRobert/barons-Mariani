@@ -209,6 +209,40 @@ Cette séparation protège simultanément la recevabilité des actions et la fin
 
 # 7. DDD-01 — rôle du Défenseur des droits dans cette carte
 
+## 7.1 Ouverture minimale candidate
+
+Objet proposé :
+
+> **Principe d'effectivité — continuité d'accès aux droits dans une procédure impliquant plusieurs institutions**
+
+Texte d'ouverture candidat :
+
+> Je saisis le Défenseur des droits d'une question que je rattache au principe d'effectivité : l'écart possible entre l'existence formelle d'un droit, d'une protection ou d'un recours et la capacité réelle d'une personne à l'exercer lorsque plusieurs institutions interviennent successivement.
+>
+> Ma saisine initiale est volontairement limitée à un cas récent, documentable et encore évolutif. Elle pourra être complétée à mesure que les réponses institutionnelles et les pièces demandées seront reçues.
+>
+> Dans le cadre de ma candidature à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse et du contentieux qui a suivi, je rencontre aujourd'hui une difficulté de continuité documentaire : certaines informations et pièces ont circulé entre la préfecture, le tribunal administratif et moi-même, sans que je sois encore en mesure de reconstituer complètement leur réception, leur transmission et leur mise à disposition du juge.
+>
+> Je ne demande pas au Défenseur des droits de remettre en cause une décision juridictionnelle. Je sollicite son intervention sur une question plus élémentaire : comment garantir l'effectivité d'un droit ou d'un recours lorsque son exercice dépend de la continuité des informations, des transmissions et des réponses entre plusieurs institutions ?
+>
+> J'ai parallèlement entrepris auprès des administrations concernées les démarches nécessaires pour obtenir les documents, données et traces existants.
+>
+> Je souhaite que cette saisine puisse être enrichie au fil du temps si les éléments recueillis révèlent que la même question de continuité se pose dans d'autres procédures déjà engagées ou réactivables.
+>
+> Jean Hugues Noël Robert — Baron Mariani
+
+Cette version préserve trois choses : thème général explicite dès l'origine ; premier cas volontairement étroit ; annonce loyale de compléments ultérieurs.
+
+## 7.2 Capacité de raccordement institutionnel
+
+La loi organique permet au Défenseur des droits, lorsqu'il transmet une réclamation à une autre autorité indépendante de protection des droits et libertés, d'accompagner cette transmission de ses observations et de demander à être informé des suites. Elle prévoit aussi son association possible aux travaux de la CNIL et de la CADA.
+
+Le Défenseur ne peut pas remettre en cause une décision juridictionnelle. En revanche, les juridictions peuvent l'inviter à présenter des observations et il peut lui-même demander à être entendu ; son audition est alors de droit.
+
+Ces propriétés en font un **point de raccordement possible**, non un supérieur hiérarchique universel des autres procédures.
+
+
+
 La saisine projetée du Défenseur des droits doit annoncer dès l'origine son thème :
 
 > **Principe d'effectivité — continuité d'accès aux droits à travers plusieurs institutions.**
