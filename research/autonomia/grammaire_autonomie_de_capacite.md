@@ -20,8 +20,11 @@ related_documents:
   - title: Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité
     path: research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
+  - title: Amendement d’effectivité — version parlementaire candidate
+    path: research/autonomia/amendement_effectivite_article_72-5.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -60,6 +63,12 @@ Ce document appartient à un ensemble de quatre fichiers destinés à être publ
 Formule de travail :
 
 > **Le stock donne les mots. L’atlas donne la carte. La grammaire donne la méthode. Le Petit Parti donne le mode d’action.**
+
+### Exemple de sortie institutionnelle — 26 septembre 2026
+
+L’[amendement d’effectivité](amendement_effectivite_article_72-5.md), publié en version `0.4-rc4`, constitue désormais un exemple documenté de sortie produite à partir de cette grammaire : partir d’une finalité (« rendre capable »), identifier le mécanisme déjà présent dans le texte, réduire le delta, le soumettre à contradiction, puis publier une formulation suffisamment précise pour circuler sans la déclarer définitive.
+
+La possibilité laissée à un tiers de reformuler ou reprendre la proposition fait partie du test : une grammaire générative doit produire des objets **appropriables et transformables**, pas seulement des textes fermés sur leur auteur.
 
 ---
 
