@@ -204,6 +204,12 @@ weekend_magazine_2026_09_26:
     editorial_interest:
       - "A concrete bridge from 2017 substitute status to 2022 titular acts and 2024 direct political VOICE."
       - "A small-scale example of capability becoming observable through acts, documents and production rather than through retrospective motive attribution."
+    editorial_figure:
+      source: ./n3-figure-capacite-electorale-2017-2024.md
+      title: "Quand une possibilité devient une capacité exercée"
+      geometry: "horizontal timeline; local 2020 closure reconnecting to 2022; no ascending scale"
+      sequence: "2017 OPEN/EXERCISE → 2020 OPEN/EXERCISE/CLOSE-local → 2022 REOPEN/EXPAND/EXERCISE → 2024 MAINTAIN/EXERCISE + direct VOICE"
+      key_boundary: "2024 VOICE changes the nature of available evidence; it is not a score or a claim of greater subjective commitment."
 
   bounded_loss_of_chance:
     status: "editorial and legal-research candidate"
