@@ -69,6 +69,23 @@ généralisation trans-échelles et trans-élections
 
 Cette chaîne n’implique pas que toutes les étapes aient été conçues dès 1995 ni qu’elles aient alors porté leur vocabulaire actuel. Elle décrit une continuité reconstruite à partir de traces et de concepts aujourd’hui présents dans le Corpus.
 
+## Première projection légistique publique — 26 septembre 2026
+
+La publication de l’[**Amendement d’effectivité — article 72-5**](../../research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, constitue un jalon distinct dans cette généalogie : l’**Autonomie de Capacité** y quitte le seul registre doctrinal pour prendre la forme d’une proposition parlementaire candidate.
+
+Le choix de forme est lui-même significatif : le texte est suffisamment déterminé pour être discuté, vérifié et repris, mais n’est pas poussé jusqu’à fermer les variantes possibles. Cette incomplétude résiduelle est volontaire : un parlementaire, un juriste ou un collectif doit pouvoir **s’approprier, corriger et porter** la proposition sans être réduit au rôle de simple relais.
+
+Cette publication ne transforme pas rétroactivement les étapes antérieures en étapes de « Capable ». Elle documente un passage supplémentaire :
+
+```text
+doctrine
+→ projection légistique
+→ texte public versionné
+→ appropriation possible par des tiers
+→ confrontation institutionnelle
+→ retour au Corpus
+```
+
 ## Antécédents électoraux
 
 Les candidatures antérieures à la stabilisation du nom **Capable** doivent rester documentées sous leur identité historique propre.
