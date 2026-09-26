@@ -247,6 +247,26 @@ La présente note ne suppose pas que Lauriane Josende soit rapporteure du texte 
 
 ---
 
+## 7 bis. Publication d’une proposition d’amendement issue du continuum documentaire
+
+Le **26 septembre 2026**, le Corpus a publié l’[Amendement d’effectivité — version parlementaire candidate et note de justification](amendement_effectivite_article_72-5.md), version **`0.4-rc4`**, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Cette publication constitue une étape nouvelle par rapport à la contribution de mai :
+
+```text
+contribution associative générale
+→ mention dans les travaux préparatoires de l’Assemblée nationale
+→ consolidation doctrinale
+→ revues adverses successives
+→ rédaction candidate ciblant directement l’alinéa organique du texte n° 782
+```
+
+Le dispositif publié cherche à modifier le moins possible l’architecture existante : au lieu d’ajouter un mécanisme d’évaluation parallèle, il reformule celui qui existe déjà afin de viser la mise en œuvre effective des facultés, son évaluation périodique et ses effets au regard de Liberté, Égalité, Fraternité.
+
+Le choix de publication est volontairement **non terminal** : la rédaction est suffisamment précise pour être citée ou reprise, mais elle ne prétend pas retirer aux parlementaires la possibilité de la corriger, de la resserrer ou de se l’approprier dans leur propre travail légistique.
+
+La continuité institutionnelle avec Florent Boudié est documentée : son service avait proposé de recevoir la contribution écrite de C.O.R.S.I.C.A. et annoncé sa mention au rapport ; le rapport n° 2865 la mentionne effectivement. Florent Boudié est également l’auteur de l’amendement CL48 relatif au caractère obligatoire de la consultation des électeurs corses. Ces éléments décrivent un **canal de travail antérieur** ; ils ne sont pas assimilés à un soutien actuel à l’amendement d’effectivité.
+
 ## 8. Documents publics proposés pour lecture
 
 ### Document initial
@@ -256,6 +276,7 @@ La présente note ne suppose pas que Lauriane Josende soit rapporteure du texte 
 ### État doctrinal actuel
 
 - [Autonomia](../autonomia.md)
+- [Amendement d’effectivité — version parlementaire candidate et note de justification](amendement_effectivite_article_72-5.md)
 
 ### État documentaire du processus
 
