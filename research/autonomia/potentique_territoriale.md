@@ -361,3 +361,28 @@ Elle ne doit pas davantage partir de l'hypothèse qu'une possibilité non réali
 - construire le premier Reality Case « énergie / flexibilité / compute » à partir des travaux MareNostrum et FractaVolta ;
 - tester la notion de perte potentique sur d'autres domaines avant toute stabilisation plus forte ;
 - utiliser les résultats publics comme matériau de mesure de l'Autonomie de Capacité, sans transformer le CCDT en outil partisan.
+
+
+## Projection constitutionnelle : du potentiel juridique à la capacité territoriale
+
+L’[amendement d’effectivité relatif au futur article 72-5](amendement_effectivite_article_72-5.md), publié le 26 septembre 2026 en version `0.4-rc4`, fournit une projection directe de la Potentique territoriale vers la légistique.
+
+Une faculté constitutionnelle peut être considérée comme un **potentiel juridique**. Elle ne devient pas automatiquement une capacité territoriale parce qu’elle existe dans le texte. Entre les deux se trouvent des conditions d’accès, d’instruction, d’exercice, de continuité et de correction.
+
+La proposition rend cette conversion observable :
+
+```text
+potentiel juridique
+→ conditions permettant la mise en œuvre
+→ usage / non-usage qualifié
+→ effets observables
+→ évaluation périodique
+→ correction éventuelle
+```
+
+Le triptyque Liberté, Égalité, Fraternité y fonctionne comme finalité explicite d’évaluation des effets, non comme garantie qu’un résultat particulier sera atteint.
+
+Cette projection reste distincte de la doctrine source : elle est un **test institutionnel candidat**, public et appropriable.
+
+---
+
