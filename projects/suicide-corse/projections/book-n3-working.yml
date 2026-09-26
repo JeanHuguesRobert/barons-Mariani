@@ -246,3 +246,20 @@ next_observations:
   - "Prepare the Monday 28 September morning freeze while preserving a weekend magazine window for high-value late observations."
   - "Build a longitudinal capability map linking the documented 2017–2024 electoral series, the 2026 live case, and the older protection/assistance-educative line without collapsing their causal status."
   - "Treat QPC, Défenseur des droits, ECHR and indemnity routes as probes to qualify, not as established remedies or outcomes."
+
+
+constitutional_effectivity_projection_2026_09_26:
+  status: "public external Reality Case; candidate contextual source for n3"
+  source: ../../../research/autonomia/amendement_effectivite_article_72-5.md
+  version: "0.4-rc4"
+  published_on: "2026-09-26"
+  role: "Cross-scale test of the conversion from formal possibility to effective capability: implementation conditions, use/non-use, periodic evaluation, observable effects and correction."
+  invariant_candidate: "A formally open right or faculty is not by itself an effectively usable capability."
+  anti_overreach:
+    - "Do not treat territorial constitutional law and individual protection law as identical mechanisms."
+    - "Do not infer causation in Marie-Louise's case from the constitutional analogy."
+    - "Do not describe the amendment as filed, supported or adopted unless a later trace establishes that fact."
+  editorial_use:
+    - "Possible sidebar or methodological bridge for n3."
+    - "Useful for the longitudinal effectivity axis only if it clarifies the individual case rather than displacing it."
+
