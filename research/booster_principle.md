@@ -4,7 +4,8 @@ subtitle: Small interventions, fertile grounds, and disproportionate openings of
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-08-10'
-version: '0.2'
+last_modified_at: '2026-09-26'
+version: '0.3'
 status: working-note — source doctrine
 document_role: source
 document_kind: doctrinal-note
@@ -34,6 +35,7 @@ related_documents:
   - research/rational_odysseys_the_possible.md
   - research/potentics.md
   - research/le_reel_le_virtuel_et_l_actuel.md
+  - research/autonomia/amendement_effectivite_article_72-5.md
   - research/the_network_is_the_learning_computer.md
   - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md
   - https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md
@@ -334,6 +336,25 @@ TEST       What is the smallest meaningful action by which Reality can answer?
 The obligation is procedural, not substantive. An agent is not required to invent a radical alternative, find a Booster, or prove that the frame is wrong. It is required, when the work justifies it, to perform the check without silently converting absence of imagination into impossibility.
 
 This source doctrine is projected operationally through Cogentia agent instructions and the `open-possible` Agent Skill.
+
+---
+
+
+## 8 bis. Institutional Booster case — article 72-5
+
+The public [effectiveness amendment for the future article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4` published on 26 September 2026, provides a constitutional-scale Booster case.
+
+The intervention deliberately became **smaller during review**. Instead of adding an autonomous constitutional principle beside the existing mechanism, the candidate amendment rewrites the sentence that already assigns the organic law responsibility for control and evaluation. The proposed delta makes three things observable: the conditions of effective implementation, periodic evaluation of implementation — including access to habilitations and their exercise — and effects assessed in relation to the effectiveness of Liberté, Égalité, Fraternité.
+
+The Booster hypothesis is therefore not that a few words magically produce autonomy. It is narrower:
+
+```text
+existing constitutional mechanism
++ small change in what must be made observable
+-> larger possibility of detecting, discussing and correcting a formally open but practically unusable regime
+```
+
+The proposal remains a public parliamentary-form candidate, not a documented filed or adopted amendment. Its usefulness as a Booster is therefore itself a Reality Test, not an established outcome.
 
 ---
 
