@@ -20,6 +20,9 @@ related_documents:
   - title: Grammaire générative de l’Autonomie de Capacité
     path: research/autonomia/grammaire_autonomie_de_capacite.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grammaire_autonomie_de_capacite.md
+  - title: Amendement d’effectivité — article 72-5
+    path: research/autonomia/amendement_effectivite_article_72-5.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 last_stamped_at: 2026-06-01T00:00:00.000Z
 document_role: source
@@ -557,6 +560,30 @@ Formule :
 > **La Corse d’abord comme territoire d’exploration ; ensuite tous les territoires qui veulent devenir capables.**
 
 ---
+
+## 13 bis. Produire un texte appropriable
+
+Le cas de l’[**amendement d’effectivité relatif à l’article 72-5**](amendement_effectivite_article_72-5.md), publié le 26 septembre 2026 en version `0.4-rc4`, fournit une règle pratique.
+
+Une proposition politique n’a pas toujours intérêt à être poussée jusqu’à une fermeture rédactionnelle maximale. Lorsqu’elle doit pouvoir être portée par d’autres, il peut être préférable de s’arrêter au point où elle est :
+
+- assez précise pour être comprise et discutée ;
+- assez sourcée pour être défendable ;
+- assez courte pour circuler ;
+- assez ouverte pour qu’un tiers puisse la corriger, la signer et se l’approprier.
+
+```text
+trop vague
+→ personne ne sait quoi reprendre
+
+assez déterminé
+→ reprise possible
+
+sur-optimisé / sur-signé
+→ coût d’appropriation plus élevé
+```
+
+L’objectif n’est donc pas seulement de produire « le meilleur texte ». Il est de produire un **possible institutionnel transmissible**.
 
 ## 14. Fiche ultra-courte
 
