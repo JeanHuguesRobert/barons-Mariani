@@ -1,8 +1,8 @@
 ---
 title: "Sénatoriales 2026 — trigger packet post-scrutin"
-date: "2026-09-25"
+date: "2026-09-26"
 target_event: "scrutin et proclamation du 27 septembre 2026"
-status: "prepared_waiting_trigger"
+status: "prepared_for_execution_after_proclamation"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "operational-readiness"
@@ -24,9 +24,15 @@ review:
 
 ## Objet
 
-Préparer l'ouverture des nouvelles surfaces d'observation créées par le scrutin et la proclamation, sans présumer qu'une branche contentieuse sera utilisée.
+Préparer l'ouverture des nouvelles surfaces d'observation créées par le scrutin et la proclamation, avec une décision humaine désormais explicite : **former la requête au Conseil constitutionnel au plus tôt après la proclamation**, tout en poursuivant les autres probes.
 
-Le packet doit être activé à partir du moment où une source officielle publie ou constate les résultats / la proclamation.
+Le packet doit être activé à partir du moment où la proclamation est suffisamment établie. La cible symbolique est une **matérialisation autour de 12 h 00 le 27 septembre** si la proclamation a déjà eu lieu ; la trace réelle de chaque acte prime sur cette cible symbolique.
+
+Documents opérationnels associés :
+
+- [Cahier des charges de la requête](../requete-conseil-constitutionnel-cahier-des-charges.md)
+- [Dossier presse](../dossier_presse_2026-09.md)
+- [Kit presse post-scrutin](../media/kit_presse_post_scrutin_2026-09-27.md)
 
 ## 1. Source officielle de départ
 
@@ -109,26 +115,38 @@ L'article 33 de l'ordonnance n° 58-1067 prévoit que l'élection peut être con
 Source officielle :
 https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023882786
 
-Cette branche doit être séparée en deux décisions :
+### Décision humaine au 26 septembre
+
+L'option contentieuse sera **exécutée au plus tôt après la proclamation**.
+
+L'objectif déclaré n'est pas de présumer l'issue du recours. Il est double :
+
+1. former une requête juridiquement sérieuse ;
+2. constituer une trace institutionnelle et publique forte de l'état du dossier et des interventions relatives à l'autonomie de la Corse au jour de la saisine.
+
+### Horloge opérationnelle
 
 ```text
-A — conserver l'option
-B — exécuter ou non l'option
+T1 = proclamation
+T2 = version finale matérialisée
+T3 = acte de saisine
+T4 = accusé / réception institutionnelle
+T5 = publication publique
 ```
 
-Le trigger packet ne décide que **A**.
+La cible de 12 h 00 n'autorise aucune reconstruction : si T3 survient à 12 h 17, la trace doit porter 12 h 17.
 
-### Préservation de l'option
+### Préservation avant trigger
 
-À l'ouverture de l'horloge :
+Avant la proclamation :
 
-- fixer la date source de proclamation ;
-- calculer le terme théorique, puis le vérifier ;
-- conserver le jugement, les échanges TA/préfecture et la knowledge matrix courante ;
-- figer la liste des inconnues encore ouvertes ;
-- distinguer les moyens déjà documentés des moyens dépendant de pièces manquantes.
+- préparer toutes les parties indépendantes du résultat ;
+- laisser explicitement ouverts les champs dépendant du résultat ;
+- figer les pièces et inconnues structurantes ;
+- préparer les interventions parlementaires à envoyer avant la requête ;
+- préparer la version publique et le manifeste Archia ;
+- vérifier le canal matériel de saisine dominicale.
 
-Aucune requête n'est envoyée automatiquement.
 
 ## 5. RP-SEN-10 — capacité d'instruction
 
