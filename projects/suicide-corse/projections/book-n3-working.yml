@@ -158,6 +158,15 @@ observed_post_n2_delta:
       - "A live demonstration of generative probe yield: passive source reconstruction produced a new distinction between the electronic bundle and the physical deposit bundle, and generated RP-SEN-18."
     privacy_rule: "Do not reproduce raw postal photos, signatures, addresses, technical logs, or non-public personal data; project only the facts they establish after minimization."
 
+procedural_reactivation_register:
+  source: ../../../memory/marie-louise/procedures_2024_2026_reactivation_register.md
+  editorial_role: "Map which 2024–2026 acts are still open, reactivable, merely probative, or require legal qualification; keep compensation analysis separate from factual reconstruction."
+  n3_candidate_angles:
+    - "Une procédure fermée peut rester une preuve ; une voie expirée peut conduire à une nouvelle demande distincte."
+    - "Le principe d'effectivité se teste aussi dans la capacité à retrouver, transmettre et réactiver les traces."
+    - "Réparer ne signifie pas additionner les griefs : il faut identifier chaque titulaire, préjudice, causalité, prescription et juridiction."
+  ddd_probe: "Open DDD-01 minimally under the explicit theme 'principe d'effectivité', then enrich by documented continuity."
+
 weekend_magazine_2026_09_26:
   status: "active until Monday-morning freeze"
   editorial_role: "high-intensity late-week delta, not a license to lower evidentiary standards"
