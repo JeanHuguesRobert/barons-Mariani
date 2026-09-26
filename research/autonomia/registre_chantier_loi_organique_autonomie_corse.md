@@ -222,3 +222,12 @@ Le chantier organique est donc une **continuation conditionnelle préparée en a
 - Suivre les contributions des parlementaires corses et des groupes du Sénat.
 - À partir du 21 octobre 2026, intégrer le rapport sénatorial, la rédaction de commission et la cartographie des amendements.
 - Construire un tableau des modèles comparés : outre-mer français, îles européennes autonomes, statuts méditerranéens, territoires de montagne et régimes de différenciation.
+
+## Entrée — 2026-09-26 — amendement d’effectivité publié
+
+Référence : [amendement_effectivite_article_72-5.md](amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Incidence sur le chantier organique : la proposition constitutionnelle demande désormais que la loi organique traite explicitement les **conditions permettant la mise en œuvre effective** des facultés et les **modalités d’une évaluation périodique** de cette mise en œuvre. Le futur registre organique doit donc distinguer au minimum : demande d’habilitation, accès/instruction, décision, exercice, non-usage volontaire ou contraint, normes produites, effets observés, correction possible.
+
+Statut : **projection publique ; non documentée comme déposée ou adoptée**.
+
