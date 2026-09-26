@@ -559,3 +559,10 @@ continuation:
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->
+
+## Cas d’application — publication de l’amendement d’effectivité
+
+La publication, le 26 septembre 2026, de l’[amendement d’effectivité — article 72-5](autonomia/amendement_effectivite_article_72-5.md) constitue un cas d’**Act** au sens de cette méthode : un état doctrinal a été transformé en objet public, daté, versionné et techniquement réutilisable.
+
+La trace à préserver distingue : **proposition publiée** → **reprise éventuelle par un tiers** → **dépôt parlementaire effectif** → **discussion** → **modification** → **adoption ou rejet**. Une reprise modifiée par un parlementaire n’efface pas la provenance ; inversement, la publication initiale ne doit jamais être présentée comme un dépôt officiel qui n’aurait pas eu lieu.
+
