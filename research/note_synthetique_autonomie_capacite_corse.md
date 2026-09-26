@@ -326,3 +326,10 @@ Quelle trace exploitable reste de son exercice ?
 ```
 
 Le premier Reality Test de cette grille est conservé dans `research/autonomia/follow_the_power_premier_test.md`.
+
+## Mise à jour — projection légistique publique
+
+Depuis le 26 septembre 2026, cette note dispose d’une continuation directement légistique : l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`.
+
+Le passage essentiel est celui de l’**autonomie possible** à l’**autonomie effectivement mise en œuvre** : conditions d’accès aux habilitations et de leur exercice, évaluation périodique du régime et observation de ses effets au regard de **Liberté, Égalité, Fraternité**. La proposition est publiée comme candidat parlementaire, non comme amendement officiellement déposé.
+
