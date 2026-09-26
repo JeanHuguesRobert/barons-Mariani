@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.4
-date: '2026-09-15'
-review_status: v0.5.4 reconnects prendre au mot, effectivity, capability gaps and Machine à Rendre Capable; constructive review remains welcome
+version: 0.5.5
+date: '2026-09-26'
+review_status: v0.5.5 records the article 72-5 effectiveness amendment as a constitutional projection of the capability doctrine; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -28,6 +28,7 @@ related_documents:
   - JeanHuguesRobert/.cogentia.json
   - barons-Mariani/POSSIBILISM.md
   - barons-Mariani/research/autonomia.md
+  - barons-Mariani/research/autonomia/amendement_effectivite_article_72-5.md
   - barons-Mariani/research/democratie_capable.md
   - barons-Mariani/research/traceabilite_civique_antimafia.md
   - barons-Mariani/research/traceabilite_des_actes.md
@@ -143,6 +144,18 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.5 — 2026-09-26
+
+Projection constitutionnelle documentée de l’effectivité.
+
+Cette version :
+
+- relie explicitement le noyau doctrinal à l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), publié en version `0.4-rc4` au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec` ;
+- conserve la séparation entre **doctrine source** et **projection institutionnelle** : l’amendement n’est pas assimilé au noyau lui-même ;
+- enregistre le déplacement de la proposition vers le mécanisme déjà existant de loi organique et d’évaluation, plutôt que l’ajout d’une clause doctrinale autonome ;
+- rattache l’effectivité territoriale à trois objets observables : conditions de mise en œuvre, évaluation périodique de la mise en œuvre, effets au regard de Liberté-Égalité-Fraternité ;
+- traite la publication comme une étape **non terminale** : un objet capable doit pouvoir être repris, corrigé et approprié par d’autres acteurs sans perdre sa provenance.
 
 ## v0.5.4 — 2026-09-24
 
