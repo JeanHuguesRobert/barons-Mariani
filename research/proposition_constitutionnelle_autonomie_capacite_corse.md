@@ -380,3 +380,10 @@ Le principe directeur reste le suivant :
 - [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->
+
+## État de continuation — 26 septembre 2026
+
+Une dérivation plus étroite et directement insérable dans le texte parlementaire est désormais publiée : [**Amendement d’effectivité — article 72-5, v0.4-rc4**](autonomia/amendement_effectivite_article_72-5.md).
+
+Cette dérivation ne remplace pas la présente proposition doctrinale. Elle en extrait un delta minimal : intervenir dans l’alinéa déjà consacré à la loi organique, au contrôle et à l’évaluation, plutôt que créer une clause constitutionnelle autonome. Le dispositif reste volontairement ouvert à la reprise et à la reformulation par les parlementaires.
+
