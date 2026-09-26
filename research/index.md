@@ -290,7 +290,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Addendum — Nouveau Testament, secret et pastoralisme](economie_morale_depense_visible_addendum_nouveau_testament_secret_pastoralisme.md) | source | 2026-08-15 |
 | [Agents JHN](../agents-jhn/README.md) | unknown | 2026-07-29 |
 | [Alignement doctrinal — souveraineté, délégation et Agents Mandatés](doctrinal_alignment_2026-08-24.md) | source | 2026-08-24 |
-| [Amendement d’effectivité — proposition de modification minimale de l’article 72-5](autonomia/amendement_effectivite_article_72-5.md) | source | 2026-09-19 |
+| [Amendement d’effectivité — proposition de modification minimale de l’article 72-5](autonomia/amendement_effectivite_article_72-5.md) | source | 2026-09-26 |
 | [Annuaire](../projects/suicide-corse/manuscript/annuaire.md) | derived | 2026-09-18 |
 | [Arbre de travail — famille de Casabianca](../musee-mariani/casabianca/arbre-travail.md) | unknown | 2026-09-18 |
 | [Assistance non directive et Autonomie de Capacité](autonomia/assistance_non_directive_capacitaire.md) | source | 2026-08-16 |
@@ -453,6 +453,8 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Principe anti-corruption — faire porter le coût sur le corrupteur](anti_corruption_cout_du_corrupteur.md) | source | 2026-08-13 |
 | [Principe de non-auto-élévation des privilèges](non_auto_elevation_privileges.md) | source | 2026-08-21 |
 | [Profession de foi — Sénatoriales 2026 — Baron Mariani — Le Petit Parti - A Voce](senatoriales-2026/profession_de_foi_2026.md) | derived | 2026-09-17 |
+| [Sénatoriales 2026 — cahier des charges de la requête au Conseil constitutionnel](senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md) | method | 2026-09-26 |
+| [Sénatoriales 2026 — kit presse post-scrutin du 27 septembre](senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md) | derived | 2026-09-26 |
 | [Propagate niche construction and desire paths into Learning Computer and Fertile Grounds](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00035.md) | source | unknown |
 | [Propagate Organization as Capability and coordination-scarcity hypothesis](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00037.md) | source | unknown |
 | [Protéger les lanceurs d'alerte](protection_des_lanceurs_d_alerte.md) | source | 2026-08-15 |
