@@ -1,9 +1,9 @@
 ---
 title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
-subtitle: "Statut de la candidature, identité publique Baron Mariani et enquête documentaire — état au 25 septembre 2026"
+subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité et préparation post-scrutin — état au 26 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-25"
-version: "1.7"
+date: "2026-09-26"
+version: "1.8"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -65,6 +65,18 @@ Elle n’impose aucune conclusion politique ou juridique générale. Elle renvoi
 Formulation courte recommandée :
 
 > **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre. Aucun retrait volontaire n’est documenté.**
+
+
+## État au samedi 26 septembre — veille du scrutin
+
+Le scrutin sénatorial de Haute-Corse est prévu le **dimanche 27 septembre 2026**. Le présent dossier est volontairement préparé avant le résultat afin que la mise à jour post-scrutin puisse être limitée à des faits nouveaux : résultat proclamé, interventions parlementaires effectivement envoyées, matérialisation de la requête au Conseil constitutionnel et liens vers les traces publiques correspondantes.
+
+Cette préparation suit une règle de traçabilité :
+
+> **ne jamais présenter comme réalisé avant le scrutin ce qui n'est encore qu'un acte préparé.**
+
+Les blocs post-scrutin sont donc préparés séparément et ne deviennent des faits qu'après leur exécution et leur horodatage.
+
 
 ## Antériorité publique de la candidature et disponibilité du fond politique
 
@@ -336,9 +348,9 @@ Cette formulation documente une continuité politique et une alliance déclarée
 
 ➡️ [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
 
-## L’« amendement Baron Mariani »
+## L’« amendement Baron Mariani » — état au 26 septembre
 
-Le Corpus contient depuis le **19 septembre 2026** une proposition publique intitulée :
+Le Corpus contient une proposition publique intitulée :
 
 > **Amendement d’effectivité — proposition de modification minimale de l’article 72-5**
 
@@ -346,15 +358,99 @@ avec pour sous-titre :
 
 > **Nom de travail : « amendement Baron Mariani »**
 
-Cette proposition cherche à introduire explicitement dans le futur article 72-5 une exigence d’**effectivité** de la liberté, de l’égalité et de la fraternité, dans le prolongement de l’**Autonomie de Capacité**.
+La proposition a évolué au cours du travail documentaire. Elle porte désormais sur **deux dimensions complémentaires de l’effectivité** :
 
-Sa formulation principale de travail ajoute à la garantie d’égalité déjà présente dans le texte transmis au Sénat l’exigence d’« effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2 ».
+1. **l’effectivité des normes produites** : leurs effets réels au regard de la liberté, de l’égalité et de la fraternité ;
+2. **l’effectivité de l’accès aux capacités normatives elles-mêmes** : une autonomie ne devient une autonomie de capacité que si les habilitations nécessaires peuvent effectivement devenir accessibles.
 
-**Point de statut essentiel :** « amendement Baron Mariani » est un **nom de travail et de provenance**. À la date du présent dossier, le Corpus ne le présente pas comme un amendement parlementaire déjà déposé ou adopté.
+La distinction doctrinale utilisée est :
 
-Cette pièce est postérieure au jugement du 14 septembre. Elle documente donc la **continuité du travail politique et constitutionnel après le refus d’enregistrement**, et non le contenu matériel du dossier de candidature déposé le 11 septembre.
+```text
+autonomie formelle
+= un pouvoir est juridiquement reconnu
 
-➡️ [Amendement d’effectivité — « amendement Baron Mariani »](../autonomia/amendement_effectivite_article_72-5.md)
+autonomie possible
+= son exercice reste dépendant de décisions tierces
+
+autonomie de capacité
+= les conditions d'accès et d'exercice sont organisées de manière à rendre la capacité effectivement mobilisable
+```
+
+La formulation de travail au 26 septembre ajoute à l'exigence d'égalité déjà présente :
+
+> **« ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
+
+Cette rédaction reste un **working paper** soumis à revue adversariale ; elle n'est pas présentée comme un amendement parlementaire déjà déposé.
+
+Le problème d'effectivité n'est pas reconstruit après coup. Dans son discours devant l'Assemblée de Corse du 28 septembre 2023, le Président de la République proposait déjà de rendre le droit d'adaptation et le droit d'habilitation **« plus simple et plus effectif »**, en relevant qu'ils existaient dans le statut sans avoir été réellement mis en œuvre. Le Conseil d'État a ensuite constaté que le pouvoir de proposition de la Collectivité n'avait pas systématiquement reçu de suite et a envisagé qu'une loi organique organise une obligation de réponse.
+
+La contribution écrite transmise par C.O.R.S.I.C.A. à la commission des Lois le **28 mai 2026**, puis mentionnée dans le rapport n° 2865, formulait déjà l'opposition entre autonomie juridique ou procédurale et **capacité effective d'agir**.
+
+Le contentieux sénatorial est donc traité comme un **cas d'étude ultérieur**, et non comme l'origine de la doctrine :
+
+> **une capacité peut être juridiquement ouverte et néanmoins devenir inexerçable lorsque son effectivité dépend d'une succession de facultés que personne n'est clairement tenu d'utiliser.**
+
+➡️ [Amendement d’effectivité — « amendement Baron Mariani »](../autonomia/amendement_effectivite_article_72-5.md)  
+➡️ [Contribution C.O.R.S.I.C.A. à la commission des Lois](../contribution_commission_lois_autonomie_capacite.md)
+
+## Pourquoi ce dossier dépasse le seul contentieux sénatorial
+
+Le dossier distingue strictement deux niveaux.
+
+**Niveau contentieux :** déterminer si les règles électorales ont été correctement appliquées et quelles conséquences le Conseil constitutionnel pourra éventuellement en tirer après le scrutin.
+
+**Niveau documentaire et doctrinal :** observer un mécanisme plus général, déjà formulé avant le litige : l'écart entre une faculté juridique et la capacité effective de l'exercer.
+
+Le parallèle proposé n'est donc pas :
+
+> « le contentieux électoral prouve juridiquement l'amendement ».
+
+Il est :
+
+> **« le contentieux fournit un cas réel supplémentaire permettant d'observer la différence entre possible et effectif ».**
+
+Cette distinction sera conservée dans les publications post-scrutin afin de ne pas transformer une interprétation doctrinale en conclusion juridictionnelle.
+
+## Préparation du 27 septembre — mise à jour post-scrutin
+
+Si la proclamation intervient avant midi, l'objectif documentaire est qu'une mise à jour publique puisse être matérialisée **autour de 12 h**, après vérification du résultat et de l'acte effectivement accompli.
+
+Les éléments préparés mais **non encore réalisés** au 26 septembre sont :
+
+```text
+RESULTAT_2B
+→ élu proclamé
+→ voix / suffrages disponibles
+→ heure et source de proclamation
+
+INTERVENTIONS_PARLEMENTAIRES
+→ messages effectivement envoyés après le scrutin
+→ destinataires, heures, objets, liens / pièces
+→ réponses éventuelles séparées des envois
+
+REQUETE_CC
+→ heure de matérialisation de la version finale
+→ canal de saisine réellement utilisé
+→ heure de remise / transmission
+→ accusé ou récépissé
+→ version publique correspondante
+
+TRACE_PUBLIQUE
+→ commit Git correspondant
+→ liens permanents
+→ empreintes des artefacts lorsque disponibles
+```
+
+Aucun de ces champs ne doit être rempli par anticipation.
+
+### Formulation de commentaire prête à adapter après les faits
+
+La formulation suivante est préparée comme **texte conditionnel**, à actualiser uniquement après le résultat et les actes correspondants :
+
+> **Le scrutin est terminé. Le dossier public permet désormais de comparer ce qui était juridiquement possible avec ce qui a été effectivement accessible. Le cas documenté ici montre le type d'écart qui peut subsister entre une possibilité juridique et une capacité réelle. L'amendement Baron Mariani propose que l'article 72-5 traite précisément les deux dimensions de cette effectivité : les effets des normes et l'accès aux habilitations nécessaires pour les produire.**
+
+Cette formulation décrit un mécanisme proposé par l'auteur ; elle ne prédit ni ne présume la manière dont les institutions futures appliqueront le texte.
+
 
 ## Le jugement du 14 septembre
 
