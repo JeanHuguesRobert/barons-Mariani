@@ -51,7 +51,7 @@ Une source Gmail peut servir de pointeur documentaire sans que son contenu priv�
 | 2017 | Législatives, 2B-02 | suppléante sous le nom `Marie-Louise d'Angelis` | candidat sous le nom `Baron Mariani` | solide |
 | 2020 | Sénatoriales | remplaçante proposée en Haute-Corse, candidature refusée pour âge | candidat | solide sur le refus et le consentement initial |
 | 2020 | Sénatoriales, Corse-du-Sud | pas remplaçante civile ; son nom public `Marie-Louise d'Angelis` est cependant utilisé comme nom de bulletin par Laurence Vernerey | candidat | solide ; motivation de l'usage du nom inconnue |
-| 2022 | Législatives, 2B-02 | candidate titulaire sous `Baronne ML Mariani` | suppléant sous `Baron JHN Mariani` | solide |
+| 2022 | Législatives, 2B-02 | candidate titulaire sous `Baronne ML Mariani` | suppléant sous `Baron JHN Mariani` | très solide sur candidature et actes ; initiative initiale non résolue |
 | 2024 | Législatives, 2B-02 | candidate titulaire sous `baronne Marie-Louise MARIANI` | suppléant sous `baron MARIANI` | très solide |
 
 ## Notes
@@ -77,3 +77,19 @@ Marie-Louise Isabelle Garance ROBERT
 Ces formes doivent être conservées avec leur **date, leur document et leur contexte**. Elles ne doivent pas être normalisées rétroactivement en un nom unique ni supposées équivalentes juridiquement.
 
 Le cas 2020 est particulièrement instructif : le nom civil de la remplaçante enregistrée et le nom déclaré pour publication sur le bulletin sont différents. Cette distinction est documentée dans `2020-senatoriales.md`.
+
+
+## Axe longitudinal de capacité électorale
+
+La série doit être lue comme une évolution documentée des **rôles et actes observables**, non comme la preuve d'une intention politique unique et continue :
+
+```text
+2017 — suppléante enregistrée
+→ 2020 — remplaçante proposée aux sénatoriales ; consentement administratif documenté ; fermeture par condition d'âge
+→ 2022 — candidate titulaire ; actes administratifs personnels ; participation matérielle au collector
+→ 2024 — candidate titulaire ; VOICE directe sur la direction et le porte-parolat de campagne ; plaintes et recours contemporains
+```
+
+Pour 2022, la bascule entre le projet initial où Jean Hugues est titulaire et l'état où Marie-Louise devient titulaire est bornée entre les **6 et 9 mai**. Martine Brillais affirme le 16 mai que Marie-Louise « a pris l'initiative de se présenter » : cette affirmation reste `THIRD-PARTY`. Aucune `VOICE` directe retrouvée de Marie-Louise n'explique cette décision.
+
+La progression documentaire pertinente est donc celle de la **capacité électorale exercée** : rôle enregistré, actes accomplis, production matérielle, puis parole politique directe en 2024. Elle ne doit pas être transformée en psychologie rétrospective ni en causalité relative au décès.
