@@ -3,558 +3,485 @@ title: "Amendement d’effectivité — proposition de modification minimale de 
 subtitle: "Nom de travail : « amendement Baron Mariani »"
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-22"
-last_modified_at: "2026-09-22"
-version: "0.2"
+date: "2026-09-26"
+last_modified_at: "2026-09-26"
+version: "0.3-rc1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
-description: "Proposition constitutionnelle minimale visant à soumettre les normes permises par le futur article 72-5 à une exigence explicite d’effectivité de la liberté, de l’égalité et de la fraternité."
+description: "Proposition constitutionnelle minimale visant à garantir à la fois l’accès effectif aux capacités normatives de la Collectivité de Corse et l’effectivité de la liberté, de l’égalité et de la fraternité dans les normes prises sur le fondement du futur article 72-5."
 document_role: "source"
 document_kind: "constitutional-amendment-note"
 visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
-ai_assisted_by:
-  - "ChatGPT (OpenAI)"
-  - "Grok — revue adverse"
-  - "Claude — revue adverse"
 target_audience:
   - "parlementaires"
   - "juristes publicistes"
   - "société civile"
 target_scene: "parliamentary_review"
 document_function: "constitutional-amendment-working-note"
-purpose: "Identifier le plus petit delta constitutionnel susceptible de faire entrer les effets réels des normes du futur article 72-5 dans leur appréciation juridique."
+purpose: "Identifier le plus petit delta constitutionnel permettant de passer d’une autonomie seulement possible à une autonomie de capacité : accès effectif aux habilitations nécessaires et appréciation constitutionnelle de l’effectivité des principes qu’elles doivent servir."
+review:
+  status: "unreviewed"
+  reviewed_by: []
+changelog:
+  - "v0.3-rc1 (2026-09-26) — refonte complète ; distinction autonomie formelle / autonomie possible / autonomie de capacité ; ajout de l’accès effectif aux habilitations ; intégration de la revue adversariale interne avant revue externe décorrélée"
 ---
 
 # Amendement d’effectivité
 
 ## 1. Proposition
 
-Le texte transmis au Sénat prévoit actuellement :
+Le futur article 72-5 ouvre à la Collectivité de Corse de nouvelles possibilités d’adaptation et de production normative.
 
-> « Les normes prévues aux deuxième et troisième alinéas assurent l’égalité de tous sans distinction, conformément à l’article 1er. »
+Il ne suffit cependant pas qu’une capacité soit juridiquement possible. Encore faut-il :
 
-La modification proposée consiste à écrire :
+1. pouvoir **effectivement accéder** aux habilitations nécessaires à son exercice ;
+2. pouvoir apprécier les **effets réels** des normes produites au regard des principes qu’elles doivent servir.
 
-> **« Les normes prévues aux deuxième et troisième alinéas assurent l’égalité de tous sans distinction, conformément à l’article 1er, ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. »**
+Le delta constitutionnel proposé est :
 
-Le delta est volontairement minimal :
+> **« ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
 
-> **« ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. »**
+L’alinéa concerné deviendrait ainsi :
+
+> **« Les normes prévues aux deuxième et troisième alinéas assurent l’égalité de tous sans distinction conformément à l’article 1er, ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
 
 Nom de travail : **amendement Baron Mariani**.
 
-Ce nom indique seulement la provenance de la proposition. Aucun amendement parlementaire n’a, à ce stade, été déposé sous cette appellation.
+Cette appellation indique la provenance de la proposition. Aucun amendement parlementaire n’a, à ce stade, été déposé sous ce nom.
 
 ---
 
-## 2. La question à laquelle répond l’amendement
+## 2. Une autonomie peut être possible sans être effectivement exerçable
 
-Le débat sur l’autonomie porte principalement sur l’étendue du pouvoir normatif susceptible d’être exercé en Corse.
+Le futur article 72-5 prévoit que la Collectivité de Corse :
 
-Cette question est essentielle, mais elle n’épuise pas le problème.
+- **peut être habilitée** à adapter des lois et règlements ;
+- **peut également être habilitée** à fixer des normes dans les matières où s’exercent ses compétences.
 
-Deux questions doivent être distinguées :
+Le terme décisif est :
 
-> **L’autonomie répond à la question : qui peut produire la norme ?**
+> **peut**
 
-> **L’effectivité répond à une autre question : que produit réellement cette norme ?**
+Une faculté juridique n’est pas encore une capacité effective.
 
-L’une ne garantit pas l’autre.
+Trois niveaux doivent être distingués.
 
-Une institution peut disposer d’un pouvoir normatif étendu, adopter une norme parfaitement valide et néanmoins produire une règle :
+### Autonomie formelle
 
-* inapplicable ;
-* pratiquement inaccessible ;
-* dépourvue d’effet identifiable ;
-* produisant un résultat très différent de celui recherché ;
-* ou produisant, dans les faits, un effet contraire à la liberté, à l’égalité ou à la fraternité.
+Le droit reconnaît une faculté, une compétence ou une procédure.
 
-Ainsi :
+### Autonomie possible
 
-> **autonomie normative ≠ effectivité normative**
+Le droit permet que cette faculté soit exercée, mais son exercice reste dépendant de décisions prises par d’autres acteurs.
 
-L’amendement ne cherche donc pas à augmenter le pouvoir normatif de la Corse.
+### Autonomie de capacité
 
-Il cherche à soumettre l’usage de ce pouvoir à une **exigence constitutionnelle portant également sur ses effets**.
+Les conditions juridiques et institutionnelles sont organisées de manière à rendre la capacité effectivement accessible lorsque son exercice est nécessaire à la finalité constitutionnelle poursuivie.
 
----
+> **Un pouvoir possible n’est pas encore une capacité.**
 
-## 3. Ce que change réellement le futur article 72-5
-
-Le futur article 72-5 modifie substantiellement le droit existant.
-
-Il permettra notamment à la Collectivité de Corse, lorsqu’elle y est habilitée dans les conditions déterminées par la loi organique :
-
-* d’adapter des lois et règlements ;
-* de fixer elle-même des normes dans les matières où s’exercent ses compétences.
-
-Le texte augmente donc le champ de ce que la Corse **pourra juridiquement faire**.
-
-Mais cette augmentation des capacités normatives ne répond pas, par elle-même, à la question de leurs effets.
-
-Elle ne garantit pas qu’une norme locale atteigne son objet.
-
-Elle ne garantit pas davantage qu’une différence de traitement juridiquement permise produise effectivement davantage d’égalité, de liberté ou de solidarité.
-
-Cette distinction est décisive.
-
-Le texte constitutionnel peut ouvrir davantage de pouvoirs tout en laissant entière la question :
-
-> **quels effets ces pouvoirs doivent-ils produire pour satisfaire aux exigences de la Constitution ?**
+> **Une capacité dont l’accès dépend entièrement du bon vouloir successif de tiers n’est pas encore une capacité effectivement garantie.**
 
 ---
 
-## 4. Le précédent : la possibilité juridique peut rester sans effet
+## 3. Les deux dimensions de l’effectivité
 
-Cette question n’est pas théorique.
+### 3.1. Effectivité de l’accès aux capacités normatives
 
-Les travaux parlementaires consacrés à la Corse ont déjà documenté l’ineffectivité du mécanisme actuel d’adaptation.
+Première question :
 
-En mars 2025, la commission des lois du Sénat a recensé **72 demandes d’adaptation ou d’habilitation**, dont seulement **13 avaient entraîné une évolution normative**. Elle relevait que la plupart des autres étaient restées sans réponse et parlait explicitement de l’**« ineffectivité du droit d’adaptation des normes »**.
+> **La Collectivité peut-elle effectivement accéder aux habilitations dont elle a besoin ?**
 
-Le Conseil d’État relevait également en juillet 2025 que la Collectivité de Corse avait utilisé à plusieurs reprises son pouvoir de proposition sans que les pouvoirs publics y donnent systématiquement suite.
+Un dispositif peut ouvrir juridiquement un droit de demander sans garantir le résultat institutionnel nécessaire à son exercice.
 
-Ce précédent ne doit pas être confondu avec l’effet juridique du présent amendement.
+La chaîne peut alors être :
 
-L’amendement proposé **n’oblige pas à lui seul l’État à répondre à une demande d’habilitation**, et ne transforme pas automatiquement un « peut » en « doit ».
+```text
+demande
+→ examen éventuel
+→ réponse éventuelle
+→ habilitation éventuelle
+→ exercice éventuel
+```
 
-Le Conseil d’État a d’ailleurs identifié cette question séparément en suggérant que la loi organique puisse déterminer la forme et le délai dans lesquels le Gouvernement serait tenu de répondre aux demandes de la Collectivité.
+Dans une telle architecture, la capacité demeure possible mais conditionnelle.
 
-Le précédent historique démontre cependant un point essentiel :
+L’amendement vise à introduire une exigence supplémentaire :
 
-> **l’existence d’une faculté juridique ne garantit pas son effectivité.**
+> **lorsqu’une habilitation est nécessaire à l’effectivité constitutionnellement recherchée, son accès ne doit pas pouvoir rester une simple faculté institutionnelle dépourvue de garantie d’exercice.**
 
-Le nouveau dispositif doit donc être examiné non seulement sous l’angle de l’étendue des possibilités qu’il ouvre, mais également sous celui des garanties qui accompagnent les normes effectivement produites.
+### 3.2. Effectivité des normes produites
 
----
+Deuxième question :
 
-## 5. Ce que l’amendement ajoute
+> **Que produisent réellement les normes une fois adoptées ?**
 
-Sans l’amendement, les normes prises sur le fondement des deuxième et troisième alinéas sont déjà soumises à de nombreuses exigences constitutionnelles.
+Une norme peut être juridiquement valide tout en restant pratiquement inopérante, en ne permettant pas l’exercice réel d’un droit, en maintenant une inégalité concrète malgré une égalité formelle ou en produisant des effets très différents de ceux annoncés.
 
-Elles doivent notamment respecter les droits et libertés constitutionnellement garantis.
-
-Les habilitations ne peuvent intervenir lorsque sont en cause les conditions essentielles d’exercice d’une liberté publique ou d’un droit constitutionnellement garanti.
-
-Le texte adopté par l’Assemblée nationale ajoute en outre une garantie explicite :
-
-> les normes concernées doivent assurer **« l’égalité de tous sans distinction »** conformément à l’article 1er.
-
-L’amendement ne remplace aucune de ces protections.
-
-Il ajoute une question différente :
-
-> **ces principes sont-ils seulement formellement respectés, ou sont-ils effectivement réalisés par les normes concernées ?**
-
-La différence peut être résumée ainsi.
-
-### Sans l’amendement
-
-Le raisonnement porte principalement sur la conformité de la norme :
-
-> Cette norme respecte-t-elle l’égalité ?
-
-### Avec l’amendement
-
-Une seconde question devient explicitement constitutionnelle :
-
-> **Cette norme assure-t-elle effectivement l’égalité ?**
-
-Et de même pour la liberté et la fraternité.
-
-Le déplacement est limité, mais réel.
-
-L’amendement ne constitutionnalise pas un résultat chiffré.
-
-Il ne dit pas quel doit être le prix d’un logement, le nombre de médecins, le revenu moyen, le nombre de locuteurs corses ou la durée d’un trajet.
-
-Il constitutionnalise autre chose :
-
-> **la pertinence juridique des effets réels.**
-
----
-
-## 6. « Au regard de l’exigence constitutionnelle d’effectivité »
-
-Le levier juridique recherché tient essentiellement dans cette phrase :
-
-> **« Au regard de l’exigence constitutionnelle d’effectivité… »**
-
-Si le terme « effectivité » figure dans la Constitution, l’existence ou l’absence d’effets réels n’est plus nécessairement une considération extérieure à la norme constitutionnelle.
-
-Un juriste pourrait alors soutenir, selon les circonstances :
-
-* qu’une norme laisse durablement un droit sans possibilité réelle d’exercice ;
-* qu’une norme officiellement égalitaire produit une inégalité pratique objectivable ;
-* qu’un dispositif est conçu de manière telle qu’il devient inopérant ;
-* qu’un mécanisme produit manifestement l’effet inverse de celui que les principes constitutionnels concernés imposent de prendre en considération.
-
-L’existence d’un tel grief ne préjuge évidemment pas de son succès.
-
-Il appartiendrait au juge de déterminer le degré d’effectivité exigible, les éléments de preuve pertinents, le lien entre la norme et les effets observés, ainsi que la marge laissée au législateur et aux autorités locales.
-
-Mais le changement essentiel serait acquis :
-
-> **les effets ne seraient plus nécessairement extérieurs au raisonnement constitutionnel.**
-
----
-
-## 7. Un précédent français : garantir l’exercice effectif des droits
-
-Le concept n’est pas étranger au droit administratif français.
-
-Dans sa décision du 3 juin 2022 relative à l’usage obligatoire de téléservices pour certaines démarches relatives aux titres de séjour, le Conseil d’État a jugé que le pouvoir réglementaire ne pouvait imposer un dispositif qu’à la condition notamment de garantir aux personnes concernées **l’exercice effectif de leurs droits**.
-
-Il en a tiré des conséquences concrètes de conception :
-
-* prise en compte des caractéristiques du public ;
-* accompagnement des personnes en difficulté ;
-* nécessité d’une solution de substitution lorsqu’un usager se trouve réellement dans l’impossibilité d’utiliser le téléservice.
-
-Cet exemple est particulièrement instructif.
-
-Le juge ne fixe pas lui-même un résultat social général.
-
-Il vérifie que le dispositif est conçu de manière telle que le droit puisse **effectivement être exercé**.
-
-L’effectivité fonctionne donc comme une exigence juridique portant sur les conditions réelles produites par la norme, sans transformer le juge en administrateur de la politique publique.
-
----
-
-## 8. L’évaluation : le point d’appui déjà présent dans le 72-5
-
-Le futur article 72-5 comporte déjà un élément particulièrement important : il prévoit que la loi organique détermine les **modalités d’évaluation** des normes prises en application des deuxième et troisième alinéas.
-
-L’évaluation est donc déjà constitutionnellement prévue.
-
-Mais le texte ne précise pas entièrement ce qu’elle doit substantiellement rechercher.
-
-L’amendement crée ici une articulation naturelle.
-
-### Sans l’amendement
-
-> Les normes sont évaluées.
-
-### Avec l’amendement
-
-> Les normes sont évaluées alors qu’elles sont constitutionnellement tenues d’assurer l’effectivité de Liberté, Égalité, Fraternité.
-
-L’effectivité peut ainsi fournir un **critère constitutionnel à l’évaluation déjà prévue**.
-
-La loi organique pourrait ensuite préciser :
-
-* les indicateurs pertinents ;
-* la période d’observation ;
-* les données mobilisables ;
-* les conditions de comparaison ;
-* l’autorité ou les autorités chargées de l’évaluation ;
-* sa publicité ;
-* les conséquences susceptibles d’être tirées d’une ineffectivité manifeste.
-
-L’amendement ne remplace donc pas l’évaluation.
-
-Il peut lui donner un **objet constitutionnel substantiel**.
-
----
-
-## 9. QPC : portée possible, sans surpromesse
-
-L’amendement ne doit pas être présenté comme créant automatiquement un nouveau droit subjectif autonome appelé « droit à l’effectivité ».
-
-Une telle affirmation irait au-delà de ce que permet aujourd’hui la jurisprudence.
-
-Le Conseil constitutionnel juge notamment qu’un objectif de valeur constitutionnelle tel que l’accessibilité et l’intelligibilité de la loi ne peut, **en lui-même**, fonder une QPC.
-
-Cela ne signifie toutefois pas qu’une exigence d’effectivité serait sans portée en QPC.
-
-Une QPC porte sur une disposition législative en vigueur dont un justiciable soutient qu’elle porte atteinte à un droit ou à une liberté que la Constitution garantit.
-
-Or :
-
-* l’égalité est déjà un principe constitutionnel invocable ;
-* différentes libertés constitutionnelles le sont également ;
-* la fraternité a été reconnue en 2018 comme principe à valeur constitutionnelle et comme relevant des droits et libertés garantis au sens de l’article 61-1.
-
-La question pourrait donc être moins :
-
-> existe-t-il un droit autonome à « l’effectivité » ?
-
-que :
-
-> **comment faut-il apprécier l’égalité, la liberté ou la fraternité lorsqu’une disposition constitutionnelle exige explicitement leur effectivité ?**
-
-Dans le champ matériel du futur article 72-5, un requérant pourrait tenter de soutenir qu’une disposition législative concernée ne méconnaît pas seulement formellement un principe, mais qu’elle empêche ou compromet son **exercice effectif**.
-
-La recevabilité et la portée d’un tel moyen dépendraient naturellement de la jurisprudence future.
-
-L’amendement fournirait néanmoins un **ancrage textuel explicite** qui n’existe pas actuellement.
-
----
-
-## 10. Une exigence républicaine, non une valeur nouvelle
-
-L’amendement ne crée aucune nouvelle valeur propre à la Corse.
-
-Il mobilise directement la devise constitutionnelle de la République :
+L’amendement vise donc aussi à rendre explicitement pertinentes, dans le champ du futur article 72-5, les conséquences réelles des normes au regard de :
 
 > **Liberté, Égalité, Fraternité.**
 
-La fraternité n’est d’ailleurs plus une simple référence symbolique : le Conseil constitutionnel lui reconnaît depuis 2018 une valeur constitutionnelle.
+Les deux dimensions se répondent :
 
-L’amendement propose donc moins d’ajouter une valeur que de préciser le **régime d’emploi** de valeurs déjà constitutionnelles dans le cadre particulier de l’autonomie corse.
-
-Cette caractéristique est importante.
-
-L’autonomie ne serait pas seulement définie comme la possibilité d’adopter des normes différentes.
-
-Ces normes seraient explicitement rattachées à l’exigence de rendre **effectifs les principes communs de la République**.
-
-Ainsi :
-
-> **le statut autorise la différence ; l’amendement exige qu’elle se justifie aussi par ses effets.**
+> **l’accès à la capacité doit pouvoir être effectif ; l’exercice de la capacité doit pouvoir être évalué au regard de ses effets.**
 
 ---
 
-## 11. Une clause à double sens
+## 4. Le problème était identifié avant le futur article 72-5
 
-L’effectivité n’est pas un principe exclusivement favorable à davantage de différenciation.
+L’ineffectivité des mécanismes corses d’adaptation n’est pas une hypothèse abstraite.
 
-Elle peut fonctionner dans les deux sens.
+Le Conseil d’État a relevé en 2025 que la Collectivité de Corse avait utilisé à plusieurs reprises son pouvoir de proposition sans que les pouvoirs publics y donnent systématiquement suite. Il a envisagé que la loi organique détermine la forme et le délai dans lesquels le Gouvernement serait tenu de répondre aux demandes de la Collectivité.
 
-Une norme uniforme pourrait être critiquée si elle produit, dans les conditions particulières de la Corse, une atteinte pratique objectivable à l’égalité ou à une liberté.
+La distinction était donc déjà présente :
 
-Mais une norme corse différenciée pourrait également être critiquée si ses effets compromettent ces mêmes principes.
+> **avoir le droit de demander n’est pas disposer de la capacité demandée.**
 
-L’amendement ne préjuge donc pas du contenu de la politique publique.
+Plus en amont encore, dans son discours devant l’Assemblée de Corse du 28 septembre 2023, le Président de la République avait proposé de rendre le droit d’adaptation et d’habilitation :
 
-Il fournit un test :
+> **« plus simple et plus effectif »**
 
-> **que produit réellement la norme au regard de Liberté, Égalité, Fraternité ?**
+en relevant que ces mécanismes existaient déjà sans avoir été réellement mis en œuvre.
 
-Cette réversibilité est une caractéristique importante de sa nature constitutionnelle.
+L’effectivité répond donc à une difficulté reconnue par les acteurs mêmes du processus :
 
-Il ne constitutionnalise ni une doctrine autonomiste, ni une doctrine centralisatrice.
-
-Il constitutionnalise une **exigence d’examen des effets**.
+> **comment faire qu’un pouvoir juridiquement ouvert devienne réellement exerçable ?**
 
 ---
 
-## 12. Ce que l’amendement ne fait pas
+## 5. Du « peut » au « doit », lorsque l’effectivité l’exige
 
-Pour éviter toute surinterprétation, la portée proposée doit être clairement bornée.
+La proposition ne signifie pas :
+
+> **toute demande d’habilitation de la Collectivité de Corse doit être satisfaite.**
+
+Elle vise à établir que :
+
+> **lorsqu’une habilitation est nécessaire à l’effectivité de la liberté, de l’égalité ou de la fraternité dans le champ du futur article 72-5, l’accès à cette habilitation ne peut rester une simple possibilité discrétionnaire.**
+
+Le passage du **peut** au **doit** est donc conditionnel : il dépend de la nécessité, reste limité au champ de l’effectivité et doit être concilié avec les autres exigences applicables.
+
+---
+
+## 6. Qui détermine qu’une habilitation est « nécessaire » ?
+
+Le mot **nécessaire** est central.
+
+La Constitution n’a probablement pas vocation à définir elle-même exhaustivement les critères permettant de constater cette nécessité. Cette tâche peut relever de la loi organique et des mécanismes de contrôle qu’elle organise.
+
+La loi organique pourrait notamment préciser :
+
+- qui peut saisir le mécanisme ;
+- les éléments que la Collectivité doit produire ;
+- la forme et le délai de la demande ;
+- les données et évaluations pertinentes ;
+- les solutions alternatives qui doivent être prises en compte ;
+- l’autorité chargée de répondre ;
+- l’obligation de motivation ;
+- les modalités de contrôle d’un refus ;
+- les conséquences du silence ou d’une réponse tardive.
+
+La Constitution fixerait alors le principe :
+
+> **l’accès effectif aux habilitations nécessaires doit être garanti.**
+
+---
+
+## 7. Le désaccord ne doit pas rendre l’effectivité illusoire
+
+Une difficulté apparaît lorsque :
+
+1. la Collectivité estime qu’une habilitation est nécessaire ;
+2. l’autorité nationale estime qu’elle ne l’est pas.
+
+Une autonomie de capacité ne peut pas donner automatiquement raison à l’une des parties. Mais elle ne peut pas davantage laisser la question sans mécanisme de résolution.
+
+L’effectivité suppose donc au minimum une chaîne institutionnelle du type :
+
+```text
+demande
+→ réponse
+→ délai
+→ motivation
+→ contrôle
+→ décision
+```
+
+Le Conseil d’État avait déjà identifié les premiers maillons en envisageant une obligation de réponse dans une forme et un délai déterminés.
+
+L’amendement ajoute une question substantielle :
+
+> **la réponse apportée permet-elle encore l’effectivité constitutionnellement exigée ?**
+
+---
+
+## 8. Conciliation avec les autres exigences applicables
+
+L’effectivité de Liberté, Égalité, Fraternité n’est pas isolée du reste de l’ordre juridique.
+
+Une habilitation pourrait rencontrer :
+
+- une autre exigence constitutionnelle ;
+- une matière exclue par l’article 72-5 ;
+- une liberté ou un droit constitutionnellement garanti ;
+- une obligation découlant du droit de l’Union européenne ;
+- un engagement international applicable à la France.
+
+L’amendement vise donc à rendre accessibles les capacités nécessaires **dans l’espace que l’ordre constitutionnel, européen et international laisse disponible**.
+
+---
+
+## 9. Les effets réels deviennent juridiquement pertinents
+
+Le texte actuel prévoit déjà des garanties constitutionnelles et une évaluation des normes prises sur le fondement du futur article 72-5.
+
+L’amendement ajoute une question :
+
+> **Que produit réellement cette norme au regard de Liberté, Égalité, Fraternité ?**
+
+Il ne signifie pas qu’un juge devrait choisir lui-même la meilleure politique publique. Il vise à fournir un fondement textuel explicite pour soutenir que les conséquences réelles d’une norme ne sont pas nécessairement extérieures au raisonnement constitutionnel.
+
+La portée juridictionnelle exacte de cette exigence appartiendrait ensuite à la jurisprudence.
+
+---
+
+## 10. L’évaluation comme mécanisme naturel de l’effectivité
+
+Le futur article 72-5 prévoit déjà que la loi organique détermine les modalités d’évaluation des normes adoptées dans le cadre de l’autonomie.
+
+L’amendement permettrait de donner à cette évaluation une finalité constitutionnelle plus précise :
+
+```text
+capacité
+→ norme
+→ effets observés
+→ évaluation au regard de Liberté, Égalité, Fraternité
+→ correction éventuelle
+```
+
+La loi organique pourrait notamment préciser les indicateurs, les données, les périodes d’observation, la publicité de l’évaluation, les procédures de réexamen et les conséquences d’une ineffectivité persistante.
+
+---
+
+## 11. Effectivité ne signifie pas résultat chiffré garanti
+
+L’amendement ne constitutionnalise ni un prix du logement, ni un revenu, ni un nombre de médecins, ni un niveau de production énergétique, ni tout autre indicateur déterminé.
+
+Il constitutionnalise autre chose :
+
+> **la pertinence des effets réels.**
+
+La détermination des politiques publiques demeure du ressort des autorités politiquement compétentes.
+
+---
+
+## 12. Une finalité républicaine
+
+L’amendement ne crée pas une valeur propre à la Corse. Il se rattache directement à la devise de la République :
+
+> **Liberté, Égalité, Fraternité.**
+
+La différenciation territoriale est alors un moyen susceptible d’être utilisé lorsque l’uniformité ne permet pas d’obtenir une effectivité suffisante.
+
+La règle fonctionne aussi dans l’autre sens : une norme corse différenciée qui compromettrait effectivement ces principes pourrait elle aussi être interrogée.
+
+> **L’effectivité n’est ni autonomiste ni centralisatrice. Elle est un test appliqué aux effets et à l’accès aux capacités nécessaires.**
+
+---
+
+## 13. Une proposition issue de la société civile
+
+Le 28 septembre 2023, le Président de la République a appelé au rassemblement le plus large des **« forces vives de la Corse »**, au-delà des clivages et des partis.
+
+En mai 2026, C.O.R.S.I.C.A., association de la société civile, a transmis à la commission des Lois de l’Assemblée nationale une contribution consacrée à l’**Autonomie de Capacité**. Le rapport n° 2865 du 3 juin 2026 mentionne ensuite l’Association C.O.R.S.I.C.A. parmi les contributions écrites reçues.
+
+Cette contribution formulait déjà l’opposition entre autonomie juridique ou procédurale et capacité effective d’agir.
+
+La présente proposition constitue une compression constitutionnelle de cette distinction.
+
+---
+
+## 14. Un cas d’étude ultérieur : la capacité électorale
+
+La doctrine de l’Autonomie de Capacité est antérieure au contentieux relatif à la candidature sénatoriale de son auteur en septembre 2026.
+
+Ce contentieux ne constitue donc pas l’origine de la proposition.
+
+Il fournit en revanche un cas d’étude de la distinction entre possibilité formelle et capacité effective : une capacité peut être juridiquement ouverte et néanmoins devenir inexerçable lorsque son effectivité dépend d’une succession de facultés que personne n’est clairement tenu d’utiliser.
+
+Cette observation ne préjuge ni des obligations exactes de chacun des acteurs ni de l’issue du contentieux électoral.
+
+---
+
+## 15. Ce que l’amendement vise à faire
+
+L’amendement vise à :
+
+- inscrire explicitement l’effectivité de Liberté, Égalité, Fraternité dans le champ du futur article 72-5 ;
+- donner aux effets réels des normes une pertinence constitutionnelle explicite ;
+- garantir l’accès effectif aux habilitations nécessaires à cette effectivité ;
+- éviter qu’une capacité indispensable reste purement théorique du seul fait d’une chaîne de facultés institutionnelles sans garantie d’exercice ;
+- organiser la conciliation avec les autres exigences constitutionnelles, européennes et internationales ;
+- donner un objet substantiel aux mécanismes d’évaluation déjà prévus.
+
+La portée exacte de ces principes dépendrait ensuite de la loi organique et de l’interprétation des juridictions compétentes.
+
+---
+
+## 16. Ce que l’amendement ne fait pas
 
 L’amendement :
 
-* ne donne aucune compétence nouvelle à la Collectivité de Corse ;
-* ne transforme pas automatiquement les habilitations facultatives en obligations ;
-* ne crée pas à lui seul une obligation générale pour le Gouvernement de répondre aux demandes corses ;
-* ne garantit aucun résultat socio-économique chiffré ;
-* ne rend pas toute différence territoriale inconstitutionnelle ;
-* ne donne pas au juge un pouvoir général d’appréciation de l’opportunité des politiques publiques ;
-* ne modifie pas, à lui seul, la portée générale de l’article 2 pour l’ensemble du territoire de la République.
+- ne donne pas automatiquement suite à toute demande de la Collectivité ;
+- ne transforme pas toute préférence politique locale en obligation nationale ;
+- ne transfère pas automatiquement une compétence ;
+- ne supprime aucune matière exclue par le futur article 72-5 ;
+- ne neutralise aucune autre exigence constitutionnelle ;
+- ne neutralise pas le droit européen applicable ni les engagements internationaux de la France ;
+- ne garantit aucun résultat socio-économique chiffré ;
+- ne détermine aucune politique publique particulière ;
+- ne transforme pas le juge en décideur de l’opportunité politique ;
+- ne crée pas une souveraineté concurrente.
 
-Il fait une chose beaucoup plus circonscrite :
+Il vise une transformation plus précise :
 
-> **il impose explicitement aux normes visées par les deuxième et troisième alinéas une exigence constitutionnelle portant sur l’effectivité de la liberté, de l’égalité et de la fraternité.**
-
----
-
-## 13. Limite rédactionnelle à examiner : les ordonnances de l’État
-
-Le texte adopté par l’Assemblée prévoit séparément que le Gouvernement puisse, par ordonnance, adapter certaines dispositions législatives aux spécificités de la Corse.
-
-La phrase à laquelle se greffe l’amendement vise explicitement :
-
-> **« Les normes prévues aux deuxième et troisième alinéas »**.
-
-Les ordonnances gouvernementales figurent dans un alinéa ultérieur.
-
-Une lecture littérale conduit donc à considérer que l’exigence proposée vise d’abord les normes adaptées ou fixées par la Collectivité, et non ces ordonnances gouvernementales.
-
-Deux options sont possibles.
-
-### Option minimale
-
-Conserver la rédaction proposée.
-
-L’objet est alors clairement de soumettre le **pouvoir normatif autonome de la Collectivité** au test d’effectivité.
-
-### Option symétrique
-
-Étudier une formulation étendant également cette exigence aux adaptations normatives effectuées directement par l’État sur le fondement du même article 72-5.
-
-Cette question doit être décidée explicitement avant le dépôt éventuel.
-
-Elle ne remet pas en cause le principe de l’amendement, mais en détermine le périmètre.
+> **faire qu’une autonomie annoncée comme possible dispose de mécanismes permettant de devenir effectivement exerçable lorsqu’elle est nécessaire à la finalité constitutionnelle poursuivie.**
 
 ---
 
-## 14. Droit comparé : l’effectivité n’implique pas nécessairement un gouvernement des juges
+## 17. Test contradictoire
 
-L’idée d’inscrire constitutionnellement une exigence d’effectivité possède des précédents européens importants.
+La proposition doit pouvoir être attaquée sur quatre questions principales.
 
-L’article 9.2 de la Constitution espagnole charge les pouvoirs publics de promouvoir les conditions permettant que la liberté et l’égalité soient réelles et effectives et d’éliminer les obstacles qui empêchent ou rendent difficile leur plénitude.
+### Test 1 — L’accès est-il déjà suffisamment garanti ?
 
-L’article 3 de la Constitution italienne charge la République d’éliminer les obstacles économiques et sociaux qui limitent de fait la liberté et l’égalité et empêchent notamment la participation effective.
+Si le droit existant garantit déjà qu’une habilitation nécessaire recevra effectivement une réponse et pourra être obtenue lorsqu’elle est indispensable à la finalité constitutionnelle, il faut identifier le mécanisme correspondant.
 
-Ces systèmes montrent qu’une Constitution peut imposer aux pouvoirs publics une orientation vers l’effectivité sans convertir automatiquement chaque objectif social en droit individuel à un résultat déterminé.
+### Test 2 — Les effets réels sont-ils déjà constitutionnellement intégrés ?
 
-La comparaison ne permet pas de prédire l’interprétation du Conseil constitutionnel français.
+Si le futur article 72-5 impose déjà exactement l’examen de l’effectivité de Liberté, Égalité, Fraternité, il faut identifier le fondement textuel produisant cette obligation.
 
-Elle établit cependant qu’une exigence constitutionnelle tournée vers les effets n’est ni conceptuellement exceptionnelle ni incompatible, par nature, avec une marge importante laissée au législateur.
+### Test 3 — Qui juge la nécessité ?
 
----
+La proposition ne présuppose pas que la seule affirmation de la Collectivité suffise. Elle implique qu’une procédure déterminée par la loi organique rende la question instruisible, motivable, contestable et contrôlable.
 
-## 15. Pourquoi maintenant ?
+### Test 4 — Le principe est-il juridiquement trop indéterminé ?
 
-Le problème de l’ineffectivité institutionnelle corse est documenté depuis de nombreuses années.
-
-Les travaux parlementaires et universitaires ont successivement employé les notions :
-
-* d’efficacité limitée ;
-* de caractère symbolique ;
-* de pouvoir fictif ou virtuel ;
-* d’ineffectivité ;
-* de mécanisme inopérant ;
-* de compétence réelle plutôt que fictive ;
-* de réforme devant être opérationnelle ou constituer une réalité concrète.
-
-Le futur article 72-5 répond fortement à l’une des causes historiques du problème : l’insuffisance des capacités normatives disponibles.
-
-Mais cette réponse ne supprime pas la distinction fondamentale :
-
-> **augmenter la capacité de produire des normes ne garantit pas l’effectivité des normes produites.**
-
-L’amendement traite précisément cette question résiduelle.
+Le terme « effectivité » demande une construction organique et jurisprudentielle. La question décisive est de savoir s’il fournit une direction constitutionnelle suffisamment déterminée pour être rendue opératoire.
 
 ---
 
-## 16. Test contradictoire
+## 18. Pourquoi un delta constitutionnel minimal ?
 
-La proposition peut être soumise à un test très simple.
+La Constitution n’a pas vocation à détailler le formulaire de demande, le délai précis, les indicateurs, les autorités d’évaluation, les modalités de recours ou les effets du silence.
 
-### Hypothèse A : l’amendement ne change rien
+Ces éléments relèvent naturellement de la loi organique et, selon les cas, de la loi ou du règlement.
 
-Il faut alors pouvoir montrer que le texte actuel contient déjà une exigence équivalente obligeant à examiner les effets réels des normes au regard de la liberté, de l’égalité et de la fraternité.
+La Constitution doit fixer le principe :
 
-### Hypothèse B : l’amendement change quelque chose
-
-Il faut identifier précisément ce changement.
-
-La revue adverse conduite à ce stade conduit à la formulation prudente suivante :
-
-> **l’amendement ne crée pas un droit subjectif général à un résultat ; il ajoute un titre constitutionnel explicite permettant de soutenir que les effets réels des normes visées ne sont pas juridiquement indifférents.**
-
-C’est ce delta qu’il conviendra de soumettre aux parlementaires et aux publicistes.
+> **une capacité normative nécessaire à l’effectivité ne doit pas pouvoir rester une simple possibilité.**
 
 ---
 
-## 17. Exposé sommaire proposé
-
-> Le futur article 72-5 ouvre à la Collectivité de Corse des capacités normatives nouvelles. L’étendue de ces capacités ne garantit toutefois pas, par elle-même, l’effectivité des normes qui seront adoptées.
->
-> Le présent amendement propose donc de compléter l’exigence d’égalité déjà inscrite dans le texte par une référence explicite à l’effectivité de la devise de la République.
->
-> Il ne crée aucune compétence nouvelle, ne fixe aucun résultat uniforme et ne détermine aucune politique publique. Il introduit un critère constitutionnel : les normes prises dans le cadre de l’autonomie doivent pouvoir être appréciées aussi au regard de leurs effets réels sur la liberté, l’égalité et la fraternité.
->
-> Cette exigence s’articule directement avec l’évaluation des normes déjà prévue par le futur article 72-5.
->
-> L’autonomie ouvre un pouvoir ; l’effectivité lui impose une exigence.
-
----
-
-## 18. Formule courte
-
-> **L’autonomie répond à la question : qui peut faire la norme ?
-> L’effectivité répond à la question : que produit-elle réellement ?**
-
-Et, plus directement :
-
-> **Sans l’amendement : la norme respecte-t-elle l’égalité ?
-> Avec l’amendement : assure-t-elle effectivement l’égalité ?**
-
----
-
-## 19. Références primaires
-
-**[R1]** Sénat — Projet de loi constitutionnelle n° 782 (2025-2026), transmis le 24 juin 2026, article unique créant l’article 72-5.
-
-**[R2]** Conseil d’État — Avis relatif au projet de loi constitutionnelle pour une Corse autonome au sein de la République, 17 juillet 2025, notamment points 5, 26 à 32.
-
-**[R3]** Sénat — Commission des lois, travaux de mars 2025 relatifs à l’évolution institutionnelle de la Corse : constat de l’« ineffectivité du droit d’adaptation des normes » ; 72 demandes recensées, 13 évolutions normatives.
-
-**[R4]** Conseil d’État, Section, 3 juin 2022, n° 452798 — obligation de garantir aux personnes concernées l’exercice effectif de leurs droits dans la conception d’un téléservice obligatoire.
-
-**[R5]** Conseil constitutionnel, décision n° 2018-717/718 QPC du 6 juillet 2018 — reconnaissance du principe de fraternité comme principe à valeur constitutionnelle et droit ou liberté garanti au sens de l’article 61-1.
-
-**[R6]** Conseil constitutionnel, décision n° 2010-4/17 QPC du 22 juillet 2010 — un objectif de valeur constitutionnelle tel que l’accessibilité et l’intelligibilité de la loi ne peut, en lui-même, être invoqué au soutien d’une QPC.
-
-**[R7]** Conseil constitutionnel, décision n° 2012-285 QPC du 30 novembre 2012 — illustration de l’articulation possible entre un objectif constitutionnel non invocable isolément et une exigence constitutionnelle susceptible d’être mobilisée en QPC.
-
-**[R8]** Constitution espagnole, article 9.2 — liberté et égalité « réelles et effectives ».
-
-**[R9]** Constitution de la République italienne, article 3 — suppression des obstacles qui limitent de fait la liberté et l’égalité et empêchent la participation effective.
-
----
-
-## 20. État de la revue adverse
-
-La proposition a fait l’objet d’une première revue adverse indépendante par plusieurs modèles.
-
-Les principales objections identifiées ont conduit à préciser que :
-
-1. l’amendement porte sur les normes visées aux deuxième et troisième alinéas, et non sur l’ensemble du statut ;
-2. il ne crée pas directement une obligation pour l’État d’accorder ou de répondre à une habilitation ;
-3. sa principale articulation institutionnelle est celle avec les modalités d’évaluation déjà prévues par le 72-5 ;
-4. son éventuelle portée en QPC doit être recherchée prioritairement dans son articulation avec des droits et libertés déjà garantis, plutôt que dans l’hypothèse d’un droit autonome à l’effectivité ;
-5. son champ ne semble pas couvrir, dans sa rédaction minimale actuelle, les ordonnances gouvernementales prévues par un alinéa distinct ;
-6. l’effectivité doit rester conciliée avec la marge d’appréciation du législateur et ne peut être assimilée à une obligation générale de résultat chiffré.
-
-Ces objections ont réduit certaines prétentions initiales de la proposition, mais n’ont pas supprimé son delta juridique central :
-
-> **faire entrer explicitement les effets réels des normes dans le champ des exigences constitutionnelles auxquelles elles sont soumises.**
-
----
-
-## 21. Applications pratiques
-
-L’amendement d’effectivité est conçu comme un principe général applicable aux normes prises dans le champ du futur article 72-5. Son intérêt doit donc être éprouvé sur des politiques publiques concrètes, sans que ces applications dérivées préjugent de leur opportunité politique.
-
-### Statut de résident
-
-Le projet de **statut de résident** fournit un premier cas pratique particulièrement éclairant : une norme différenciée peut être examinée non seulement sous l’angle de sa possibilité juridique, mais aussi au regard des effets réels qu’elle prétend produire sur l’accès au logement, le foncier, l’égalité et les libertés.
-
-Voir la note dérivée :
-
-> [**Statut de résident : un cas pratique pour l’amendement d’effectivité**](./note_campagne_statut_resident_effectivite.md)
-
-Une [**interaction publique avec les coprésidents du collectif**](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-09-22-statut-resident-effectivite.md) documente l’envoi de cette proposition le 22 septembre 2026 et la demande explicite de réponse sur son principe.
-
-Cette note est un **produit dérivé**. Elle n’intègre pas au présent working paper une position pour ou contre le statut de résident ; elle applique au cas considéré la méthode générale exposée ici : objectif explicite → effets attendus → observation → évaluation → correction éventuelle.
-
----
-
-## 22. Compression
+## 19. Compression doctrinale
 
 ```text
-AUTONOMIE
-Qui peut produire la norme ?
+AUTONOMIE FORMELLE
+Ce que le droit permet
         ↓
-NORME DIFFÉRENCIÉE
+AUTONOMIE POSSIBLE
+Ce qui dépend encore de décisions tierces
         ↓
-EFFECTIVITÉ
-Que produit-elle réellement ?
+ACCÈS EFFECTIF
+Aux habilitations nécessaires
+        ↓
+AUTONOMIE DE CAPACITÉ
+Ce qui peut réellement être exercé
+        ↓
+NORMES
+        ↓
+EFFETS RÉELS
         ↓
 ÉVALUATION
-Les effets sont-ils compatibles
-avec Liberté, Égalité, Fraternité ?
+        ↓
+CORRECTION
 ```
 
-> **Le statut autorise la différence.
-> L’amendement exige qu’elle se justifie aussi par ses effets.**
+> **Un pouvoir possible n’est pas encore une capacité.**
 
-> **L’autonomie ouvre un pouvoir.
-> L’effectivité lui impose une exigence.**
+> **Une capacité n’est effective que si son accès ne dépend pas du seul bon vouloir d’un tiers.**
+
+> **L’autonomie de capacité garantit l’accès aux moyens normatifs nécessaires et soumet leur exercice à une exigence d’effectivité.**
+
+---
+
+## 20. Formule courte
+
+> **L’autonomie de papier dit ce que la Corse pourrait faire.**
+
+> **L’autonomie de capacité organise les conditions lui permettant de le faire effectivement.**
+
+Et, sous une forme plus générale :
+
+> **L’autonomie ouvre un pouvoir. L’effectivité transforme ce pouvoir en capacité.**
+
+---
+
+## 21. Références primaires
+
+**R1 — Assemblée nationale.** Projet de loi constitutionnelle pour une Corse autonome au sein de la République ; texte adopté en première lecture le 23 juin 2026, créant le futur article 72-5.
+
+**R2 — Conseil d’État.** Avis du 17 juillet 2025 relatif au projet de loi constitutionnelle pour une Corse autonome au sein de la République ; notamment observations sur les demandes de la Collectivité et sur l’organisation possible d’une obligation de réponse.
+
+**R3 — Présidence de la République.** Discours devant l’Assemblée de Corse du 28 septembre 2023 ; appel aux « forces vives de la Corse » et proposition de rendre le droit d’adaptation et d’habilitation « plus simple et plus effectif ».
+
+**R4 — Assemblée nationale.** Rapport n° 2865 de M. Florent Boudié, enregistré le 3 juin 2026 ; Association C.O.R.S.I.C.A. mentionnée parmi les contributions écrites.
+
+**R5 — C.O.R.S.I.C.A. / Institut Mariani.** « Autonomie de capacité de la Corse — Contribution écrite au processus constitutionnel », transmise à la commission des Lois le 28 mai 2026.
+
+**R6 — Conseil d’État, 3 juin 2022, n° 452798.** Jurisprudence relative à la nécessité de garantir l’exercice effectif de droits dans la conception d’un téléservice obligatoire.
+
+**R7 — Conseil constitutionnel, décision n° 2018-717/718 QPC du 6 juillet 2018.** Reconnaissance de la fraternité comme principe à valeur constitutionnelle.
+
+---
+
+## 22. Questions ouvertes pour la revue externe
+
+La revue externe décorrélée devra notamment tenter de réfuter ou de limiter les propositions suivantes :
+
+1. Le terme « effectivité » possède-t-il une densité normative suffisante pour produire le type d’obligation recherché ?
+2. Le rattachement à l’article 2 est-il juridiquement pertinent ou trop indirect ?
+3. La formulation « accès effectif aux habilitations nécessaires » respecte-t-elle correctement la répartition des rôles entre loi organique, Parlement et Gouvernement ?
+4. Le terme « nécessaires » est-il suffisamment maîtrisable juridiquement ?
+5. La référence explicite aux engagements européens et internationaux est-elle nécessaire, redondante ou maladroite ?
+6. La proposition réduit-elle réellement l’ineffectivité institutionnelle ou déplace-t-elle seulement la discrétion vers la détermination de la « nécessité » ?
+7. Existe-t-il une formulation plus courte conservant exactement les mêmes garanties ?
+8. Un mécanisme différent — obligation de réponse, présomption, délai, motivation, recours — produirait-il davantage d’effectivité avec un delta constitutionnel plus faible ?
+9. L’exigence d’effectivité risque-t-elle d’accroître excessivement le pouvoir du juge ?
+10. La proposition crée-t-elle une asymétrie insuffisamment justifiée avec les autres collectivités territoriales ou d’autres régimes constitutionnels ?
+
+---
+
+## 23. État de revue
+
+Cette version intègre une première revue adversariale **interne** effectuée par le même modèle que celui ayant contribué à sa rédaction.
+
+Cette passe a notamment conduit à rétablir la notion d’**accès effectif** aux habilitations, distinguer portée recherchée et effet juridictionnel certain, identifier la détermination de la « nécessité » comme question centrale, expliciter le mécanisme de résolution du désaccord et intégrer les exigences européennes et internationales.
+
+Cette revue étant corrélée au Redactor, elle ne vaut pas validation externe.
+
+Le document reste donc :
+
+> **un working paper à soumettre à une revue adversariale décorrélée avant stabilisation.**
+
+---
+
+## 24. Formule finale
+
+> **Ce qui peut être fait n’est pas nécessairement ce qui peut effectivement être fait.**
+
+> **L’autonomie de capacité commence lorsque le droit ne se contente plus d’ouvrir une possibilité, mais organise les conditions permettant de l’exercer.**
