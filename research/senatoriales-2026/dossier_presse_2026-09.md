@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité et préparation post-scrutin — état au 26 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-26"
-version: "1.8"
+version: "1.9"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -21,6 +21,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
   - "research/senatoriales-2026/investigation/sources.md"
   - "research/senatoriales-2026/media/representations.yml"
+  - "research/senatoriales-2026/media/chronologie_mentions_publiques_2026-09.md"
   - "research/senatoriales-2026/media/contacts.yml"
   - "research/notice_candidature_senatoriales_2026_medias.md"
   - "research/notice_baron_mariani_medias.md"
@@ -271,6 +272,43 @@ Pour le statut électoral :
 > Merci de remplacer « candidature retirée » par « enregistrement de la déclaration de candidature refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre 2026 », aucun retrait volontaire n’étant documenté.
 
 Ces deux corrections sont indépendantes : un article peut être exact sur l’identité et inexact sur le statut, ou inversement.
+
+## Chronologie publique retrouvée depuis le 11 septembre
+
+Une chronologie sourcée séparée conserve désormais les mentions publiques retrouvées depuis le dépôt :
+
+➡️ [Chronologie des mentions publiques — septembre 2026](media/chronologie_mentions_publiques_2026-09.md)
+
+Elle documente notamment la séquence suivante :
+
+```text
+11 septembre — Corse Net Infos :
+dépôt de trois candidatures, explicitement encore soumises à enregistrement
+
+11 septembre — Alta Frequenza :
+présentation de la troisième candidature et premières qualifications éditoriales
+
+15 septembre — RCF Corsica / País Nòstre :
+Jean Hugues Robert encore présenté comme candidat en lice après le jugement
+
+19 septembre — NosParlementaires :
+« candidature retirée », alors qu'aucun retrait volontaire n'est documenté
+
+21 septembre — Alta Frequenza :
+publication sur le refus d'enregistrement
++
+publication distincte « repart en campagne » exposant le projet d'amendement
+
+24 septembre — Seven Radio :
+article consacré au rejet du dossier et à ses motifs procéduraux
+```
+
+Cette chronologie est importante à deux titres :
+
+1. elle conserve **l'histoire des représentations publiques**, même lorsqu'elles divergent entre elles ;
+2. l'article Alta Frequenza du **21 septembre** constitue une trace médiatique indépendante de l'existence publique du projet d'amendement sur l'autonomie avant les futurs courriels parlementaires post-scrutin.
+
+La chronologie ne transforme aucune formulation médiatique en fait primaire : les motifs juridiques et procéduraux restent confrontés au jugement et aux traces institutionnelles.
 
 ## Registre médiatique longitudinal
 
