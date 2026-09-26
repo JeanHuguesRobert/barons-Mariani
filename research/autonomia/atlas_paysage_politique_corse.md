@@ -4,7 +4,7 @@ subtitle: Acteurs, terrains rhétoriques, axes de polarisation, angles morts et 
 author: Jean Hugues Noël Robert
 date: '2026-05-27'
 status: working-paper — campaign / public rhetoric atlas - source material for derived products (autonomie de capacité)
-version: 1.0-atlas
+version: 1.1-atlas
 x-type: political and discursive atlas
 x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
@@ -20,8 +20,11 @@ related_documents:
   - title: Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité
     path: research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
+  - title: Amendement d’effectivité — article 72-5
+    path: research/autonomia/amendement_effectivite_article_72-5.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -7906,6 +7909,15 @@ La ligne utile est :
 ## Formule de synthèse
 
 > **La Corse ne doit pas subir la transition écologique comme une contrainte extérieure. Elle doit la reconfigurer en autonomie de capacité : produire, stocker, se déplacer, réparer, partager, contrôler et transmettre.**
+
+## Mise à jour de paysage — publication du 26 septembre 2026
+
+L’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`, ajoute au paysage un objet différent d’un slogan ou d’un programme : une **proposition parlementaire candidate**, publiquement versionnée et explicitement ouverte à la reprise et à la reformulation par d’autres acteurs.
+
+Pour l’Atlas, son intérêt principal est analytique : il matérialise une position qui ne se réduit ni à « davantage d’autonomie » ni à « moins d’autonomie ». Elle demande que les facultés prévues puissent être observées sous l’angle de leur **mise en œuvre effective**, de leur **évaluation périodique** et de leurs effets au regard de **Liberté, Égalité, Fraternité**.
+
+Statut : proposition publique ; aucun dépôt, soutien ou adoption parlementaire ne doit être inféré sans trace spécifique.
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
