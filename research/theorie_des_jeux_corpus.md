@@ -5,7 +5,7 @@ author: Jean Hugues Noël Robert
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-06-26'
 status: release_candidate
-version: 0.2.1
+version: 0.2.2
 license: CC BY-SA 4.0
 document_role: source
 document_kind: research-paper
@@ -27,6 +27,7 @@ related_documents:
   - research/methode_terrains_feconds.md
   - research/kudos.md
   - research/second_method.md
+  - research/autonomia/amendement_effectivite_article_72-5.md
 related_projects:
   - C.O.R.S.I.C.A.
   - Institut Mariani
@@ -959,3 +960,11 @@ Ajouts principaux :
 - objections principales ;
 - prompt de rédacteur ;
 - prompt de reviewer.
+
+## Cas de prolongement — le jeu constitutionnel de l’effectivité
+
+La publication, le 26 septembre 2026, de l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un prolongement directement testable de cette grille.
+
+Une faculté constitutionnelle modifie formellement l’espace des coups possibles. Elle ne modifie cependant le jeu réel que si les acteurs peuvent effectivement accéder au mécanisme, obtenir une instruction, exercer la faculté lorsqu’elle est ouverte et rendre observables les raisons de son usage ou de son non-usage. L’amendement publié ne préjuge pas du résultat d’une demande particulière : il cherche à rendre ce **méta-jeu institutionnel** périodiquement observable.
+
+La référence à **Liberté, Égalité, Fraternité** ajoute un plan d’observation des effets sans transformer mécaniquement ces trois termes en score unique ni en obligation de résultat. La symétrie doit être conservée : une évaluation peut documenter un gain, une perte, une absence d’effet ou une tension entre principes.
