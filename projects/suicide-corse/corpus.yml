@@ -13,6 +13,11 @@ architecture:
   rule: "Corpus, inquiry architecture and edition architecture are distinct."
 
 sources:
+  - id: procedures-2024-2026-reactivation-register
+    path: ../../memory/marie-louise/procedures_2024_2026_reactivation_register.md
+    role: procedural-reactivation-and-reparation-register
+    required: true
+    note: "Master register for open, reactivable, closed/probative and to-be-qualified routes; links 2024 contemporaneous acts to current effectivity probes without merging jurisdictions."
   - id: suicide-corse-architecture-v2
     path: projects/suicide-corse/architecture.md
     role: project-architecture
