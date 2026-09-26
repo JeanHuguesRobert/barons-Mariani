@@ -4,7 +4,7 @@ subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publ
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-last_modified_at: "2026-09-20"
+last_modified_at: "2026-09-26"
 version: "0.2"
 status: "working-paper"
 language: "fr"
@@ -879,6 +879,18 @@ Cette généalogie doit distinguer traces, continuités documentées et reconstr
 - test obligatoire de ce qui **ne** se transpose pas.
 
 Marie-Louise et la Corse sont deux Reality Cases à des échelles différentes ; elles ne sont jamais assimilées ontologiquement ou psychologiquement.
+
+Le parallèle **« handicap individuel / handicap de l’insularité »** constitue, au 26 septembre 2026, un nouveau test explicite de cette règle. Le vocabulaire institutionnel peut produire une ressemblance entre échelles, mais cette ressemblance n’est utile que si un invariant structurel résiste à l’examen — par exemple l’écart entre possibilité formelle et capacité effectivement accessible. Elle ne permet jamais d’identifier les régimes juridiques, les mécanismes causaux ou les sujets concernés.
+
+Règle de test :
+
+```text
+ressemblance lexicale
+→ invariant candidat
+→ test de ce qui se transpose
+→ test obligatoire de ce qui ne se transpose pas
+→ conservation seulement du mécanisme qui survit
+```
 
 ## Mouvement H — Du laboratoire corse à une projection nationale
 
