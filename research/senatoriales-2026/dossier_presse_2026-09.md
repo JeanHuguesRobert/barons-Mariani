@@ -15,6 +15,8 @@ canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/res
 contact: "jhr@baronsmariani.org"
 source_documents:
   - "research/senatoriales-2026/README.md"
+  - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+  - "research/senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md"
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
   - "research/senatoriales-2026/investigation/sources.md"
@@ -451,6 +453,12 @@ La formulation suivante est préparée comme **texte conditionnel**, à actualis
 
 Cette formulation décrit un mécanisme proposé par l'auteur ; elle ne prédit ni ne présume la manière dont les institutions futures appliqueront le texte.
 
+
+Documents opérationnels associés :
+
+- [Cahier des charges de la requête au Conseil constitutionnel](requete-conseil-constitutionnel-cahier-des-charges.md)
+- [Kit presse post-scrutin du 27 septembre](media/kit_presse_post_scrutin_2026-09-27.md)
+- [Trigger packet post-scrutin](investigation/post-scrutin-trigger-2026-09-27.md)
 
 ## Le jugement du 14 septembre
 
