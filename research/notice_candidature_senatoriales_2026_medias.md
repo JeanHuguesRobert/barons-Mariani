@@ -297,24 +297,21 @@ Un média reste libre de préciser séparément la nuance administrative attribu
 
 ## Continuité politique après le jugement : « amendement Baron Mariani »
 
-Le **19 septembre 2026**, une proposition de travail a été publiée dans le Corpus sous le titre **« Amendement d’effectivité — proposition de modification minimale de l’article 72-5 »**, avec le sous-titre **« Nom de travail : amendement Baron Mariani »**.
+Le **19 septembre 2026**, une première proposition de travail relative à l’effectivité du futur article 72-5 a été rendue publique dans le Corpus.
 
-Au **26 septembre 2026**, cette proposition distingue désormais deux problèmes :
+Le **26 septembre 2026**, après plusieurs cycles de reformulation et de revue adverse, le document canonique a été publié en version **`0.4-rc4`** sous le titre **« Amendement d’effectivité — version parlementaire et note de justification »**.
 
-1. les **effets réels** des normes prises dans le cadre de l’autonomie ;
-2. l’**accès effectif aux habilitations nécessaires** à leur production.
+Cette version ne reprend plus la formule antérieure sur « l’accès effectif aux habilitations nécessaires ». Elle propose de reformuler le mécanisme déjà consacré à la loi organique et à l’évaluation pour traiter :
 
-La doctrine associée distingue ainsi :
+1. des conditions permettant la **mise en œuvre effective** des facultés des deuxième et troisième alinéas ;
+2. de leur **évaluation périodique**, notamment des conditions d’accès aux habilitations et de leur exercice ;
+3. des effets de cette mise en œuvre au regard de l’effectivité de la **liberté, de l’égalité et de la fraternité**.
+
+La doctrine associée conserve la distinction :
 
 > **autonomie formelle → autonomie possible → autonomie de capacité**
 
-Une autonomie seulement possible ouvre juridiquement une faculté ; une autonomie de capacité cherche à organiser les conditions permettant son exercice effectif lorsque celui-ci est nécessaire à la finalité constitutionnelle poursuivie.
-
-La formulation de travail ajoute notamment :
-
-> **« La loi organique garantit l’accès effectif aux habilitations nécessaires à cette effectivité, dans le respect des exigences constitutionnelles et des engagements européens et internationaux de la France. »**
-
-Cette rédaction reste un **working paper** soumis à revue. Elle n’est pas présentée comme un amendement parlementaire déjà déposé ou adopté.
+Le document ouvre par une rédaction candidate dans le style d’un amendement parlementaire. Il reste toutefois une **proposition publique** : aucun dépôt ou adoption par une assemblée n’est documenté à ce stade.
 
 Cette pièce est **postérieure** au jugement du 14 septembre et ne doit donc pas être présentée comme un élément du dossier de candidature initial. En revanche, la doctrine d’**Autonomie de Capacité** et son lien avec la candidature sont antérieurs au contentieux : la contribution C.O.R.S.I.C.A. a été transmise à la commission des Lois le 28 mai 2026 et la candidature sénatoriale avait déjà été publiquement annoncée.
 
@@ -322,8 +319,6 @@ Le contentieux est donc utilisé comme **cas d’étude ultérieur** de la diff�
 
 Source :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
-
-
 ## Éléments postérieurs au dépôt à ne pas confondre
 
 Le dossier postérieur au 11 septembre distingue plusieurs niveaux :
