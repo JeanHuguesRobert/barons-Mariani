@@ -96,13 +96,13 @@ La formalisation de **souveraineté individuelle et populaire / #Suvranu** reste
 
 ➡️ [Amendement d’effectivité — article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md)
 
-Ce travail fournit un exemple précis du passage d’une exigence formelle à une interrogation sur les effets réels d’une norme.
+La version publique `0.4-rc4` fournit un exemple précis de transformation d’une doctrine en proposition institutionnelle : plutôt que d’ajouter un principe abstrait à côté du texte existant, elle reformule le mécanisme déjà consacré à la loi organique et à l’évaluation pour y intégrer la **mise en œuvre effective** du régime, son **évaluation périodique** et ses effets sur Liberté, Égalité, Fraternité.
 
 ## Devise républicaine
 
-Capable explore la possibilité de traiter **Liberté, Égalité, Fraternité** non seulement comme des principes déclarés mais comme des exigences dont l’effectivité peut être observée.
+Capable traite **Liberté, Égalité, Fraternité** non seulement comme des principes déclarés mais comme des finalités dont l’effectivité peut être observée. L’amendement d’effectivité constitue la première projection constitutionnelle explicite de cette orientation.
 
-Cette piste n’est pas encore entièrement stabilisée. En particulier, les définitions opérationnelles de la liberté effective, de l’égalité effective et de la fraternité effective doivent faire l’objet de travaux sources spécifiques avant d’être considérées comme canoniques.
+Cette projection ne ferme pas le chantier doctrinal : les définitions opérationnelles de la liberté effective, de l’égalité effective et de la fraternité effective, ainsi que leurs possibles tensions réciproques, doivent encore faire l’objet de travaux sources spécifiques avant d’être considérées comme canoniques.
 
 ## Règle source / projection
 
