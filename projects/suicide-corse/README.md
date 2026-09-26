@@ -206,3 +206,10 @@ ne pas tout publier
 ```
 
 Le projet reste volontairement incomplet, mais l'incomplétude doit être visible, traçable et exploitable.
+
+## Projection externe — effectivité institutionnelle
+
+La publication de l’[amendement d’effectivité relatif au futur article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un Reality Case institutionnel extérieur au cas de Marie-Louise mais pertinent pour l’architecture de *Suicide Corse* : **droit ou faculté formelle → conditions de mise en œuvre → exercice ou non-usage → effets observables → correction possible**.
+
+Cette récurrence de structure ne doit jamais être traitée comme une identité de mécanisme ou comme une preuve causale transposable entre échelles. Elle sert à éprouver la robustesse de la grammaire capacitaire.
+
