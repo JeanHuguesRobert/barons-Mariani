@@ -4,7 +4,7 @@ subtitle: "Une norme différenciée doit pouvoir être examinée aussi au regard
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-22"
-last_modified_at: "2026-09-22"
+last_modified_at: 2026-09-26
 version: "0.2"
 status: "draft"
 language: "fr"
@@ -83,10 +83,13 @@ Sa rédaction proposée complète l’exigence d’égalité actuellement inscri
 
 > **« ainsi que l’effectivité de la liberté, de l’égalité et de la fraternité mentionnées à l’article 2. »**
 
-Le principe est simple :
+Le principe a depuis été précisé en deux étages :
 
 > **L’autonomie répond à la question : qui peut faire la norme ?**  
-> **L’effectivité répond à la question : que produit-elle réellement ?**
+> **L’accès effectif répond à la question : peut-on réellement obtenir la capacité normative nécessaire ?**  
+> **L’effectivité des normes répond à la question : que produisent-elles réellement ?**
+
+La version de travail du 26 septembre distingue ainsi **autonomie formelle**, **autonomie possible** et **autonomie de capacité**. Une mesure comme le statut de résident fournit donc deux tests séparés : l’accès à la capacité de la définir, puis l’évaluation de ses effets si elle est adoptée.
 
 ---
 
