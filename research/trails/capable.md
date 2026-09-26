@@ -2,7 +2,7 @@
 title: "Trail — Capable"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-25"
+date: "2026-09-26"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -73,7 +73,7 @@ Trois fonctions structurent une partie du modèle :
 
 ➡️ [Amendement d’effectivité — article 72-5](../autonomia/amendement_effectivite_article_72-5.md)
 
-Ce cas montre comment un principe ou un pouvoir formel peut être interrogé à partir de ses effets réels.
+Ce cas précise désormais deux tests complémentaires : **l’accès effectif à la capacité normative** et **les effets réels de la norme produite**. Il distingue ainsi autonomie formelle, autonomie possible et autonomie de capacité.
 
 ## 7. Liberté, Égalité, Fraternité
 
