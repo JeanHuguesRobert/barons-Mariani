@@ -47,7 +47,7 @@ Il contient des blocs destinés à être complétés **uniquement après** les �
 
 ## 2. Commentaire très court — gabarit
 
-> **Le scrutin est terminé. Le dossier public permet désormais de comparer ce qui était juridiquement possible avec ce qui a été effectivement accessible. Le cas documenté ici montre le type d’écart qui peut subsister entre une possibilité juridique et une capacité réelle. L’amendement Baron Mariani propose que l’article 72-5 traite précisément les deux dimensions de cette effectivité : les effets des normes et l’accès aux habilitations nécessaires pour les produire.**
+> **Le scrutin est terminé. Le dossier public permet désormais de comparer ce qui était juridiquement possible avec ce qui a été effectivement accessible. Le cas documenté ici montre le type d’écart qui peut subsister entre une possibilité juridique et une capacité réelle. La version publique 0.4-rc4 de l’amendement d’effectivité propose que l’article 72-5 traite la mise en œuvre effective des facultés ouvertes, son évaluation périodique — notamment l’accès aux habilitations et leur exercice — et ses effets au regard de Liberté, Égalité, Fraternité.**
 
 Ce texte doit être adapté aux faits observés et ne doit pas être utilisé pour attribuer une intention aux administrations ou juridictions.
 
@@ -82,7 +82,7 @@ Le point historique recherché est le suivant :
 - **3 juin 2026** — C.O.R.S.I.C.A. mentionnée parmi les contributions écrites du rapport n° 2865 ;
 - **11 septembre 2026** — déclaration de candidature déposée ;
 - **14 septembre 2026** — refus d’enregistrement par le Tribunal administratif de Bastia ;
-- **26 septembre 2026** — amendement d’effectivité v0.3-rc1 : ajout explicite de l’accès effectif aux habilitations nécessaires ;
+- **26 septembre 2026** — publication canonique de l’amendement d’effectivité **v0.4-rc4** : forme parlementaire candidate, reformulation de l’alinéa organique existant, mise en œuvre effective + évaluation périodique + Liberté-Égalité-Fraternité ;
 - **27 septembre 2026** — `[RÉSULTAT + ACTES POST-SCRUTIN À INSÉRER]`.
 
 ## 6. Liens à envoyer aux journalistes
