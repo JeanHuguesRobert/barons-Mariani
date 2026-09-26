@@ -129,3 +129,14 @@ Le suivi spécialisé du chantier organique reste dans :
 `research/autonomia/registre_chantier_loi_organique_autonomie_corse.md`.
 
 Le prochain déclencheur documentaire majeur identifié demeure la publication du rapport de la commission des lois du Sénat autour du 21 octobre 2026.
+
+
+---
+
+## Post-scriptum documentaire — 26 septembre 2026
+
+Cette note demeure une **couche historique arrêtée au 5 septembre 2026** ; ses constats ne sont pas réécrits rétroactivement.
+
+Depuis, le Corpus a publié l’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`. La proposition intervient directement dans l’alinéa du futur article 72-5 consacré à la loi organique, au contrôle et à l’évaluation, afin d’y intégrer la mise en œuvre effective du régime, une évaluation périodique et ses effets au regard de **Liberté, Égalité, Fraternité**.
+
+Pour l’état courant du processus, continuer à utiliser la [chronologie canonique](../chronologie_processus_beauvau_corse.md), l’[Observatoire](observatoire_processus_autonomie_corse.md) et le [registre du chantier de loi organique](registre_chantier_loi_organique_autonomie_corse.md).
