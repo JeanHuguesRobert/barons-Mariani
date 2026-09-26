@@ -924,6 +924,25 @@ Le cas corse devra être développé dans un article spécifique reliant :
 - European Commission. *X-Road — cross-border co-development of national data exchange platform*. EU Regional and Urban Development.
 - European Commission. *Better Regulation Toolbox*. European Union.
 
+## Cas de méthode — s’arrêter à l’état appropriable
+
+La publication, le 26 septembre 2026, de l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, ajoute un cas intéressant à la généralisation prudente de l’agile.
+
+Après plusieurs cycles de critique et de reformulation, le travail n’a pas été poursuivi jusqu’à une optimisation rédactionnelle supposée maximale. Le point d’arrêt a été choisi lorsque le texte était :
+
+- cohérent et vérifiable ;
+- compatible avec une forme parlementaire habituelle ;
+- publiable et versionné ;
+- encore suffisamment ouvert pour qu’un acteur institutionnel puisse le reprendre et le modifier.
+
+Dans ce type de situation, **finir davantage peut diminuer la capacité de transmission**. La valeur marginale d’une amélioration stylistique doit donc être comparée au coût d’appropriation qu’elle peut créer pour le prochain acteur.
+
+Une règle provisoire en découle :
+
+> **Dans un système multi-acteurs, le “done” peut être l’état où le prochain acteur devient capable d’agir, et non l’état où l’auteur initial ne voit plus rien à améliorer.**
+
+Ce cas ne généralise pas automatiquement à tous les documents. Il est pertinent lorsque la réussite dépend précisément d’une reprise, d’une adaptation ou d’un portage par un tiers légitime.
+
 ## Corpus Jean Hugues Robert
 
 - Robert, Jean Hugues Noël. [`second_method.md`](second_method.md). Corpus `barons-Mariani`.
