@@ -604,13 +604,15 @@ The faculty of a territory to convert its territorial capital — natural resour
 - Auto-institution démocratique (Castoriadis)
 
 **Reference documents:**
-- [`research/autonomia.md`](autonomia.md) (working paper, v0.14)
+- [`research/autonomia.md`](autonomia.md) (working paper, v0.15)
+- [`research/autonomia/amendement_effectivite_article_72-5.md`](autonomia/amendement_effectivite_article_72-5.md) (public parliamentary-form candidate, v0.4-rc4)
 - [`research/autonomia/projet_1755.md`](autonomia/projet_1755.md) (source document, v0.14)
 - [`research/autonomia/1755.md`](autonomia/1755.md) (public capacity-test dashboard, v0.8)
 - [`research/gr20_autonomie_de_capacite.md`](gr20_autonomie_de_capacite.md)
 
 **Used in:**
 - Reality Test #1755 — situated actors document a historical object, seek independent examination and may obtain precisely qualified forms of recognition
+- [amendement d’effectivité — article 72-5](autonomia/amendement_effectivite_article_72-5.md), publication candidate v0.4-rc4 du 26 septembre 2026
 - senatorial campaign, Haute-Corse, September 2026
 
 ---
