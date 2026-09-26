@@ -9,7 +9,7 @@ author: Jean Hugues Noël Robert
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-08-09'
 status: draft — source document, human validation required
-version: 0.1-draft
+version: 0.2-draft
 license: CC BY-SA 4.0
 language: fr
 document_role: source
@@ -23,6 +23,7 @@ related_documents:
   - research/traceabilite_des_actes.md
   - research/mandated_fast_democracy.md
   - research/la_democratie_spectaculaire.md
+  - research/autonomia/amendement_effectivite_article_72-5.md
   - FractaVolta/research/fractalog.md
   - FractaVolta/research/traceable_governance.md
   - inseme/research/cop_fractalog_profile.md
@@ -674,6 +675,14 @@ Cette architecture est fractale : les sous-instances peuvent disposer des mêmes
 - L’anti-capture doit s’appliquer à ses propres mécanismes de contrôle : auditeurs, registres, certificateurs et projecteurs peuvent eux-mêmes devenir des points de capture.
 
 ---
+
+## 18 bis. Cas constitutionnel : observer l’effectivité sans automatiser la décision
+
+La publication de l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un cas où les primitives décrites ici peuvent être appliquées sans transférer la décision politique à la machine.
+
+Le texte candidat demande que la loi organique traite les conditions de **mise en œuvre effective** des facultés constitutionnelles et leur **évaluation périodique**. Un système d’État de droit assisté par ordinateur peut alors contribuer à rendre lisibles les actes et les absences d’actes — demande, transmission, instruction, réponse, exercice, non-usage, délai, preuve, effet observé — sans décider automatiquement qu’un non-usage serait fautif ni qu’une habilitation devrait être accordée.
+
+Le cas rappelle donc une frontière structurante : **instrumenter l’observation et la traçabilité n’est pas automatiser le jugement juridique ou politique**.
 
 ## 19. Conclusion provisoire
 
