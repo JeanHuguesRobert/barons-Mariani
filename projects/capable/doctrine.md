@@ -2,7 +2,7 @@
 title: "Capable — Carte doctrinale"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-25"
+date: "2026-09-26"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -59,7 +59,7 @@ Principe directeur : transformer des possibilités théoriques en capacités eff
 
 ➡️ [Autonomia](../../research/autonomia.md)
 
-La distinction structurante est celle entre pouvoir, compétence ou droit formel d’une part, et capacité réelle à comprendre, décider, agir, contrôler, transmettre et corriger d’autre part.
+La distinction structurante est celle entre **autonomie formelle**, **autonomie possible** et **autonomie de capacité** : un pouvoir peut être reconnu, rester dépendant de décisions tierces, puis seulement devenir effectivement mobilisable lorsque ses conditions d’accès et d’exercice sont garanties.
 
 ### Démocratie capable
 
