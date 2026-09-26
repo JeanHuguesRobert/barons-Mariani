@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-25"
+last_modified_at: "2026-09-26"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-## État courant — 25 septembre 2026
+## État courant — 26 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
