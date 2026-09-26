@@ -99,3 +99,16 @@ preuve de capacité
 
 La preuve recherchée se trouve dans les effets observables, leur distribution, leur contrôle et leur correction possible.
 
+## Reality Test légistique — article 72-5
+
+L’[amendement d’effectivité publié le 26 septembre 2026](../../research/autonomia/amendement_effectivite_article_72-5.md) fournit un Reality Test direct du **Capable Test** appliqué à une norme constitutionnelle candidate.
+
+Questions supplémentaires à poser à toute proposition de ce type :
+
+1. la faculté existe-t-elle seulement en droit, ou ses conditions de mise en œuvre sont-elles effectivement praticables ?
+2. le non-usage est-il volontaire, capacitaire ou produit par un blocage institutionnel ?
+3. l’évaluation observe-t-elle seulement les normes produites ou aussi le fonctionnement du régime qui permet — ou non — de les produire ?
+4. les effets observés sur Liberté, Égalité, Fraternité peuvent-ils conduire à une correction du dispositif sans transformer l’évaluation en contrôle général d’opportunité ?
+
+La version `0.4-rc4` constitue une hypothèse publique à éprouver, non un résultat doctrinal définitivement stabilisé.
+
