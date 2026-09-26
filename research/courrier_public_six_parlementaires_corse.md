@@ -44,6 +44,14 @@ provenance:
 
 # Courrier public aux six parlementaires de Corse
 
+### Continuation documentaire — 26 septembre 2026
+
+Le présent courrier reste un document historique daté du 24 mai 2026 ; son texte n’est pas réécrit rétroactivement.
+
+Une continuation légistique a depuis été publiée : [**Amendement d’effectivité — article 72-5**](./autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`. Elle transforme une partie de l’argument d’« autonomie de capacité » en proposition parlementaire candidate portant sur la mise en œuvre effective des facultés, leur évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité.
+
+Cette continuation n’est pas présentée comme ayant été contenue dans le courrier de mai ni comme soutenue par ses destinataires.
+
 ### Documents associés
 
 - [Note synthétique sur l’autonomie de capacité](./note_synthetique_autonomie_capacite_corse.md)
