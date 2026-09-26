@@ -151,7 +151,7 @@ Leur cause ne doit pas être transformée en fait sans élément indépendant pe
 
 Le dossier entre dans une phase de préparation post-scrutin. Le dossier presse est pré-armé pour intégrer, après leur réalisation, le résultat proclamé, les interventions parlementaires effectivement envoyées, la requête éventuellement formée devant le Conseil constitutionnel, sa version publique et le manifeste de traçabilité correspondant.
 
-La version 0.3-rc1 de l’amendement d’effectivité distingue désormais autonomie formelle, autonomie possible et autonomie de capacité, et traite aussi l’accès effectif aux habilitations nécessaires.
+L’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md) est désormais publié en version **0.4-rc4** sous une forme parlementaire candidate. Il reformule le mécanisme existant de la loi organique et de l’évaluation afin de traiter la mise en œuvre effective des facultés, leur évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité. Cette publication est postérieure au contentieux de candidature et ne doit être confondue ni avec une pièce du dossier initial, ni avec un amendement déjà déposé.
 
 Règle de phase : **aucun résultat, envoi parlementaire, dépôt contentieux ou horodatage du 27 septembre ne doit être présenté comme réalisé avant sa trace effective.**
 
