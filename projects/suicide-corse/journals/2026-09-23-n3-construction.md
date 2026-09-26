@@ -284,3 +284,45 @@ lundi matin
 Cette cadence n'autorise aucune baisse du standard de preuve. Elle autorise en revanche le numéro à montrer le mouvement de l'enquête presque en temps réel : ce qui était connu samedi, ce qui a changé dimanche, ce qui reste UNKNOWN au freeze.
 
 Le rebouclage avec *Suicide Corse* devient ainsi explicite : l'objet n'est plus seulement le suicide, ni seulement l'élection, ni seulement l'autonomie. Il est aussi l'étude de la manière dont **des possibles formellement ouverts deviennent — ou échouent à devenir — des capacités effectives**, et de la manière dont certaines pertes peuvent devenir irréversibles avant même qu'une institution ait reconstitué l'ensemble du parcours.
+
+
+## 27 septembre — consolidation 2022 : de la candidature au geste documenté
+
+La recherche Gmail est arrêtée volontairement après une séquence de sondes ciblées. Le résultat utile est désormais consolidé dans le Corpus plutôt que prolongé par accumulation.
+
+La séquence de mai 2022 permet de distinguer trois niveaux :
+
+```text
+candidature titulaire + actes personnels
+= FACT
+
+participation administrative et matérielle,
+dont versionnement du collector
+= FACT
+
+initiative initiale de la bascule,
+auteur de la composition,
+auteur de l'autoportrait
+= UNKNOWN
+```
+
+Le changement de rôles est borné : le 1er mai Jean Hugues se présente encore publiquement comme candidat titulaire ; le 6 mai il transmet encore cet état à Martine Brillais ; le 9 mai la trace Trello de Lancelot Reybel enregistre déjà Marie-Louise comme candidate et Jean Hugues comme remplaçant.
+
+Le 16 mai, Martine écrit que Marie-Louise « a pris l'initiative de se présenter ». Cette formulation est une trace contemporaine importante mais reste un **témoignage tiers**. Elle ne devient pas une parole de Marie-Louise.
+
+Le 24 mai, la chaîne matérielle est plus directement observable. Marie-Louise transmet des documents administratifs CHORUS puis, depuis deux de ses comptes, deux états successifs du collector électoral. L'inspection technique des PDF originaux les rattache au même document `Adobe Photoshop CC 2018 (Macintosh)`, créé à 15:18:45. Le second état ajoute essentiellement le yanug ; le portrait et la composition sont déjà présents dans le premier. Damien Ruvet renvoie sa version le lendemain.
+
+Cette séquence ne permet pas d'identifier la personne qui tenait physiquement la souris ni l'auteur de l'autoportrait. Elle permet en revanche de remplacer la formulation faible « fichier transmis par Marie-Louise » par une qualification plus précise : **participation directe à la chaîne de production et de versionnement**.
+
+Pour le n°3, l'intérêt n'est pas de fabriquer une intention manquante. Il est de rendre observable une progression :
+
+```text
+2017 — suppléante
+→ 2020 — consentement administratif à une nouvelle possibilité électorale
+→ 2022 — titulaire + actes administratifs + production matérielle
+→ 2024 — titulaire + VOICE directe sur l'organisation de sa campagne
+```
+
+C'est une ligne de **capacité électorale exercée**, compatible avec la question centrale du n°3 : comment un possible formel devient-il une capacité effectivement utilisée ?
+
+Le chapitre source-verrouillé `manuscript/15-la-parole-de-marie-louise.md` reste inchangé : l'absence de VOICE politique directe retrouvée pour expliquer la bascule de 2022 doit rester visible.
