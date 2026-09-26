@@ -111,7 +111,7 @@ observed_post_n2_delta:
     probe_batch: ../../../research/senatoriales-2026/investigation/probe-batch-2026-09-25.md
     passive_probe_run: ../../../research/senatoriales-2026/investigation/passive-probes-2026-09-25.md
     post_scrutin_trigger: ../../../research/senatoriales-2026/investigation/post-scrutin-trigger-2026-09-27.md
-    observed_on: "2026-09-25"
+    observed_on: "2026-09-26"
     established:
       - "The paper judgment was effectively received and read on 25 September; postal traces establish postmark on 15 September, first presentation on 16 September, and delivery on 25 September."
       - "The judgment fixes registration of the note en délibéré at 15:49."
@@ -129,6 +129,25 @@ observed_post_n2_delta:
       - "whether the judgment's phrase 'en dépit des demandes des services préfectoraux' refers only to the documented 10 September request for originals or also to additional requests"
       - "exact physical bundle shown, handed over, retained or returned during the 11 September deposit, including recovery of the primary provisional receipt if still available"
       - "existence of a separate hearing trace, confirmation of the hearing clerk, and access rules for the signed minute"
+    cross_scale_candidate_2026_09_26:
+      status: "candidate analogy; not an identity claim"
+      source_journal: ../journals/2026-09-23-n3-construction.md
+      individual_scale:
+        - "Laurence Vernerey: public senatorial dossier documents a recognized disability situation; do not publish medical details."
+        - "Marie-Louise: protection-responsable source documents disability and a late administrative request; do not infer unrecorded recognition or diagnosis."
+      collective_scale:
+        - "French institutional discourse has repeatedly used the expression 'handicap(s) de l'insularité' for Corsican structural constraints."
+      candidate_invariant: "Formal possibility does not by itself create effective capability when access conditions, accommodations, means, or institutional conversions are missing."
+      anti_overreach:
+        - "Cross-scale recurrence is not identity."
+        - "Do not anthropomorphize Corsica."
+        - "Do not equate individual disability law with territorial constitutional law."
+        - "Treat the lexical parallel as a prompt for a structural test, not as proof."
+      editorial_use:
+        - "Magazine candidate for n3."
+        - "Quasi-real-time journal note already recorded on 26 September."
+      privacy_rule: "Minimize third-party health data; no medical documents, diagnoses, or non-public details."
+
     editorial_interest:
       - "A live example of the gap between procedural movement and actual uncertainty reduction."
       - "A contemporary cross-scale Reality Case for traceability, effective capacity, and the distinction between formal rights and usable access paths."
@@ -148,6 +167,7 @@ candidate_questions:
     - "How should strongly constrained counterfactuals be used without either free fiction or defensive agnosticism?"
   collective:
     - "Does an autonomy proposal create effective capacity or merely formal permission?"
+    - "How far does the handicap / insularity parallel survive an invariance test before it becomes only metaphor?"
     - "What do the first #1755 Reality Tests reveal about access to historians, archives and local institutional memory?"
     - "When a procedural record remains incomplete, which access path actually reduces the uncertainty: direct answer, document access, data access, or later judicial production?"
     - "Can a request make possible escalation routes explicit while preserving cooperation and avoiding premature attribution of intent?"
