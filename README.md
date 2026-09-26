@@ -549,3 +549,10 @@ issus de Wikimedia Commons (licence propre). Le blason est issu de l'
 
 *Licence : CC BY-SA 4.0 (textes et données) — sauf éléments héraldiques (licence propre).*
 *Auteur : Jean Hugues Noël Robert, baron Mariani — Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corse — [jhr@baronsmariani.org](mailto:jhr@baronsmariani.org)*
+
+### Projection constitutionnelle d’effectivité — 26 septembre 2026
+
+Le travail sur l’**Autonomie de Capacité** dispose désormais d’une projection légistique publique : l’[amendement d’effectivité relatif au futur article 72-5](research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, publiée au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+La proposition prend volontairement la forme d’un amendement parlementaire **appropriable** : elle reformule le mécanisme déjà prévu de loi organique et d’évaluation afin d’y intégrer la mise en œuvre effective des facultés, une évaluation périodique et l’observation de leurs effets au regard de **Liberté, Égalité, Fraternité**. Elle est publique et versionnée ; elle n’est pas documentée comme déposée ou adoptée.
+
