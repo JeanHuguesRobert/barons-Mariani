@@ -2,7 +2,7 @@
 title: "Suicide Corse n°3 — ouverture de construction"
 author: Jean Hugues Noël Robert
 date: 2026-09-23
-last_modified_at: 2026-09-25
+last_modified_at: 2026-09-26
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -163,6 +163,55 @@ escalade nécessaire
 Le matériau source reste dans le dossier canonique `research/senatoriales-2026/`. Les photographies postales brutes, signatures, adresses et éventuelles futures données techniques ne sont pas des matériaux de publication automatique.
 
 Ce delta est **candidat** pour le n°3. Il peut nourrir un chapitre sur la traçabilité, l'effectivité ou le Réel qui répond ; il ne crée pas à lui seul un sommaire.
+
+
+## 26 septembre — handicap, insularité et changement d’échelle
+
+Une nouvelle piste multi-échelle apparaît dans le delta du n°3.
+
+Dans le langage institutionnel relatif à la Corse, le vocabulaire du **« handicap de l’insularité »** possède une histoire publique ancienne : rapports parlementaires et interventions gouvernementales l’ont employé pour désigner des contraintes structurelles liées notamment à l’isolement, aux coûts, aux transports ou à la petite taille du marché. Cette expression doit rester une **qualification institutionnelle documentée**, non une propriété naturelle ou totale de la Corse.
+
+Dans le Reality Case sénatorial, Laurence Vernerey est documentée dans le dossier public comme se trouvant en **situation de handicap reconnue**. Dans le sous-corpus Marie-Louise, le travail sur la continuité de protection documente de son côté un handicap et une demande administrative dont l’instruction n’avait pas produit, à temps, la reconnaissance recherchée.
+
+Cette proximité de vocabulaire ouvre un parallèle possible entre deux échelles :
+
+~~~text
+échelle individuelle
+handicap / obstacle / compensation / accessibilité
+→ capacité formellement ouverte
+→ conditions concrètes d’exercice
+→ effectivité
+
+échelle territoriale
+« handicap de l’insularité » / contraintes structurelles
+→ autonomie formellement ouverte
+→ accès aux habilitations et moyens
+→ effectivité
+~~~
+
+Le parallèle est **heuristique**, pas ontologique.
+
+Il ne signifie ni que la Corse serait une « personne handicapée », ni que les mécanismes du handicap individuel et de l’insularité seraient identiques. Il sert à tester une question commune déjà centrale dans *Suicide Corse* :
+
+> **une capacité théorique suffit-elle lorsque les conditions concrètes de son exercice ne sont pas réunies ?**
+
+Cette piste rejoint directement l’évolution du 26 septembre de l’« amendement Baron Mariani », qui distingue désormais :
+
+- l’effectivité des normes produites ;
+- l’accès effectif aux capacités normatives nécessaires.
+
+Elle renforce aussi une règle de l’architecture v2 :
+
+> **Cross-scale recurrence is not identity.**
+
+Le matériau est candidat pour la **couche magazine** du n°3, sous réserve d’un traitement prudent des données personnelles. Le suivi quasi temps réel doit, lui, conserver seulement les faits minimisés et les liens vers les sources déjà publiques, sans publier de documents médicaux ni de détails supplémentaires sur des tiers.
+
+Sources de contexte institutionnel sur l’expression « handicap(s) de l’insularité » :
+
+- Sénat, travaux sur la Corse et l’« exception corse » ;
+- Assemblée nationale, rapports sur les handicaps naturels et géographiques de la Corse ;
+- archives du ministère de l’Intérieur, interventions relatives à la compensation des handicaps de l’insularité.
+
 
 ## Règle pour la suite
 
