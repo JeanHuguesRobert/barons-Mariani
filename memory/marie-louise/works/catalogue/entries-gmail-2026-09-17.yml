@@ -87,7 +87,7 @@ entries:
       precision: campaign-period
     places: [Haute-Corse]
     creators: [Marie-Louise Robert]
-    description_factual: Marie-Louise participe directement à la production administrative et matérielle de sa candidature aux élections législatives de 2022; Gmail conserve notamment des échanges avec la préfecture et deux fichiers de bulletin transmis depuis ses comptes.
+    description_factual: Marie-Louise participe directement à la production administrative et matérielle de sa candidature aux élections législatives de 2022; deux états successifs d'un collector issu du même document Photoshop sont transmis depuis ses deux comptes le 24 mai, le second directement au graphiste Damien Ruvet. L'attribution de la composition et de l'autoportrait reste ouverte.
     existence_status: established
     access_status: documented
     evidence:
@@ -96,6 +96,11 @@ entries:
         source_type: SOURCE-GMAIL
         source_ref: Gmail:180f59ff7d499f8c
         description: Messages transférés directement par Marie-Louise concernant la candidature et la création de tiers CHORUS.
+      - evidence_type: A
+        epistemic_status: THIRD-PARTY
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:180cd1d38f6e85ca
+        description: Texte contemporain de Martine Brillais affirmant que Marie-Louise « a pris l'initiative de se présenter »; conserver comme témoignage tiers, non comme VOICE de Marie-Louise.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
@@ -106,6 +111,16 @@ entries:
         source_type: SOURCE-GMAIL
         source_ref: Gmail:180f64276744097a
         description: Message de Marie-Louise transmettant BULLETINMLJHR.pdf à Jean Hugues Robert et au graphiste Damien Ruvet.
+      - evidence_type: A
+        epistemic_status: TRACE
+        source_type: SOURCE-GMAIL
+        source_ref: Gmail:180fbd587d9eb034
+        description: Version renvoyée le 25 mai par Damien Ruvet; elle est postérieure aux deux états transmis par Marie-Louise.
+      - evidence_type: A
+        epistemic_status: TRACE
+        source_type: DERIVED-TECHNICAL-INSPECTION
+        source_ref: Gmail:180f63c70c29898f + Gmail:180f64276744097a
+        description: Les deux PDF originaux déclarent Adobe Photoshop CC 2018 (Macintosh), partagent la même création interne du 24 mai 2022 à 15:18:45 +02:00 et ne diffèrent graphiquement de façon substantielle que par l'ajout du yanug dans le second état.
     certainty: high
     related_entries: []
     witnesses:
@@ -115,10 +130,13 @@ entries:
       visibility: public-summary-only
       contains_private_material: true
     open_questions:
-      - Quel est le partage exact de conception graphique et éditoriale du bulletin ?
+      - Qui manipulait physiquement Photoshop pendant la session de production du 24 mai ?
+      - Qui a réalisé le portrait/autoportrait déjà présent dans le premier état ?
+      - Quel est le partage exact de conception graphique et éditoriale du collector ?
       - Quels autres textes, visuels ou choix de campagne sont directement attribuables à Marie-Louise ?
     next_probes:
-      - Comparer les deux PDF de bulletin et les versions publiées.
+      - Conserver les deux PDF originaux et leurs empreintes/métadonnées comme sources primaires de provenance.
+      - Comparer le portrait aux originaux artistiques seulement si des sources primaires correspondantes deviennent accessibles; ne pas attribuer par simple ressemblance stylistique.
       - Rattacher cette entrée au dossier électoral 2022 déjà documenté dans le Corpus.
 
 provenance_leads:
