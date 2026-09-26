@@ -86,3 +86,9 @@ Capable doit pouvoir être soumis à son propre test.
 
 Une proposition portée sous ce nom ne devient pas « capable » parce qu’elle provient du mouvement. Elle doit pouvoir montrer quelles capacités elle augmente, pour qui, à quel coût, sous quels contrôles et selon quels critères d’effectivité.
 
+## Première projection constitutionnelle
+
+Le projet dispose désormais d’un cas concret de passage de la doctrine vers la légistique : l’[amendement d’effectivité — article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md), publié en version `0.4-rc4` le 26 septembre 2026.
+
+Il ne cherche pas à fermer la rédaction : sa forme parlementaire candidate est intentionnellement assez précise pour être discutée et assez ouverte pour être reprise, corrigée ou appropriée par des parlementaires. Le test porte sur trois niveaux observables : **mise en œuvre effective**, **évaluation périodique**, **effets au regard de Liberté, Égalité, Fraternité**.
+
