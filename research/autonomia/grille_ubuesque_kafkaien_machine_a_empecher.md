@@ -1,7 +1,7 @@
 ---
 title: Ubuesque, kafkaïen et Machine à Empêcher
 subtitle: Grille possibiliste de lecture des configurations absurdes
-version: '0.3'
+version: '0.4'
 date: '2026-09-15'
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
@@ -17,6 +17,7 @@ related_documents:
   - research/autonomia/observatoire_processus_autonomie_corse.md
   - research/autonomia/corse_laboratoire.md
   - research/autonomia/potentique_territoriale.md
+  - research/autonomia/amendement_effectivite_article_72-5.md
   - research/noyau_doctrinal_rendre_capable.md
   - research/genealogie_ordre_transparence_traceabilite.md
   - research/joie_jeu_capacite.md
@@ -585,3 +586,28 @@ qualifier
 ```
 
 Cette grille est un **outil dérivé**, non une doctrine de premier rang et non une taxonomie scientifique. Sa valeur dépend de sa capacité à rester en aval des faits, à produire des hypothèses réfutables et à conduire vers des modifications du terrain qui peuvent elles-mêmes être confrontées au Réel.
+
+
+## Projection constitutionnelle : rendre la machine observable
+
+La publication, le 26 septembre 2026, de l’[amendement d’effectivité relatif au futur article 72-5](amendement_effectivite_article_72-5.md) fournit un cas de transformation de cette grille en proposition légistique.
+
+Le point commun n’est pas l’existence supposée d’une intention d’empêcher. C’est au contraire la possibilité qu’un régime reste formellement ouvert tout en devenant difficilement praticable par **composition de mécanismes localement réguliers**. La proposition rend alors observable la chaîne :
+
+```text
+faculté ouverte
+→ conditions de mise en œuvre
+→ accès / instruction / exercice ou non-usage
+→ évaluation périodique
+→ effets observés
+→ correction possible
+```
+
+Cette chaîne peut servir à distinguer trois situations qui ne doivent pas être confondues : **non-usage volontaire**, **insuffisance capacitaire**, **blocage institutionnel**.
+
+La référence à Liberté, Égalité, Fraternité ne fournit pas ici une preuve que la « Machine à Empêcher » existe. Elle donne une finalité explicite à l’observation des effets. Le test reste symétrique : l’évaluation peut confirmer que le dispositif fonctionne, révéler un obstacle, ou déplacer l’hypothèse.
+
+La version `0.4-rc4` est une proposition publique appropriable ; aucun dépôt ou soutien parlementaire à cette version n’est présumé.
+
+---
+
