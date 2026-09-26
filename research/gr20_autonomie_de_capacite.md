@@ -473,6 +473,24 @@ La ligne directrice doit rester stable :
 - ne pas réduire la montagne corse à un produit touristique ;
 - ne pas administrer les pics uniquement par interdiction ;
 - transformer les flux en capacités durables pour le territoire et ses habitants.
+
+## Mise à jour — grammaire d’effectivité du 26 septembre 2026
+
+La publication de l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit désormais une grammaire générale pour relire ce cas sectoriel :
+
+```text
+faculté formelle
+→ conditions réelles de mise en œuvre
+→ exercice ou non-usage
+→ effets observés
+→ évaluation périodique
+→ correction
+```
+
+Le présent document sur le GR20 ne dépend juridiquement pas de cet amendement et ne doit pas être présenté comme son application directe. Le lien est méthodologique : une politique de capacité se juge aussi à la possibilité de vérifier si les instruments ouverts deviennent praticables et quels effets ils produisent réellement sur le territoire.
+
+---
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
