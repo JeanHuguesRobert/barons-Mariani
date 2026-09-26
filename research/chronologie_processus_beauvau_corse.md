@@ -395,3 +395,10 @@ triangulation_du_reel.md
 ```
 
 La prochaine mise à jour de cette chronologie doit être déclenchée par un changement réel de l’état documentaire, en priorité la publication du rapport de la commission des lois du Sénat en octobre 2026.
+
+### 26 septembre 2026 — publication d’une proposition d’amendement d’effectivité
+
+Le Corpus publie l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, sous une forme parlementaire candidate. La proposition reformule le mécanisme existant relatif à la loi organique et à l’évaluation pour y intégrer la mise en œuvre effective des facultés, une évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité.
+
+Qualification : **intervention de la société civile / proposition publique**, distincte d’un amendement parlementaire effectivement déposé.
+
