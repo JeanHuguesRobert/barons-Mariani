@@ -914,6 +914,32 @@ Le futur fonds **Les Amis de Malou**, en cours de création, pourra devenir le c
 
 ---
 
+## 11 bis. Cas de légistique vivante — amendement d’effectivité, 26 septembre 2026
+
+La publication de l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`, fournit désormais un cas interne directement observable de **légistique comme corpus vivant**.
+
+La trajectoire est documentée :
+
+```text
+proposition doctrinale
+→ formulations constitutionnelles successives
+→ revues adverses multi-agents
+→ objections qualifiées
+→ abandon de formulations fragiles
+→ retour au texte parlementaire exact
+→ réduction du delta
+→ publication d’une forme parlementaire candidate
+→ maintien explicite de la possibilité de reprise et de modification par des tiers
+```
+
+Le point méthodologique n’est pas que la rédaction publiée serait « finale ». Il est précisément inverse : le versionnement permet de rendre visible **pourquoi** certaines formulations ont été abandonnées, de conserver les objections et de produire un objet assez stabilisé pour être discuté sans empêcher son appropriation parlementaire.
+
+Ce cas distingue donc trois couches qui doivent rester séparées :
+
+- **la doctrine source** : Autonomie de Capacité ;
+- **la proposition légistique** : une rédaction candidate du futur article 72-5 ;
+- **l’acte parlementaire éventuel** : qui n’existe que lorsqu’un parlementaire ou le Gouvernement dépose effectivement un amendement.
+
 ## 12. Niveaux de preuve
 
 ### Niveau A — Faits établis
@@ -922,6 +948,7 @@ Le futur fonds **Les Amis de Malou**, en cours de création, pourra devenir le c
 - L’article 5 de la Charte définit un principe de précaution comprenant évaluation des risques et mesures provisoires proportionnées.
 - L’ordonnance de 1800 sur le travestissement des femmes a été reconnue comme implicitement abrogée dans une réponse ministérielle publiée au Sénat en 2013.
 - La notion d’Autonomie de Capacité a été formulée dans une contribution écrite à la commission des Lois relative au futur article 72-5 de la Constitution.
+- Une proposition d’amendement d’effectivité en forme parlementaire candidate, version `0.4-rc4`, est publiée dans le Corpus depuis le 26 septembre 2026 ; son dépôt ou son adoption par une assemblée n’est pas établi.
 - Le document `protection_responsable.md` existe dans le corpus et formule une proposition de continuité de protection à partir du cas Marie-Louise Robert.
 
 ### Niveau B — Interprétations défendables
