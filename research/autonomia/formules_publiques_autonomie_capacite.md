@@ -4,7 +4,7 @@ subtitle: Bibliothèque de formules publiques, terrains rhétoriques et contre-f
 author: Jean Hugues Noël Robert
 date: '2026-05-27'
 status: working-paper — campaign / public rhetoric annex - working stock, not academic text
-version: 0.57-public-annex
+version: 0.58-public-annex
 x-type: formula stock / campaign rhetoric annex
 x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/formules_publiques_autonomie_capacite.md
@@ -20,8 +20,11 @@ related_documents:
   - title: Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité
     path: research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mode_emploi_petit_parti_autonomie_de_capacite.md
+  - title: Amendement d’effectivité — version parlementaire candidate
+    path: research/autonomia/amendement_effectivite_article_72-5.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -7899,6 +7902,15 @@ La ligne utile est :
 ## Formule de synthèse
 
 > **La Corse ne doit pas subir la transition écologique comme une contrainte extérieure. Elle doit la reconfigurer en autonomie de capacité : produire, stocker, se déplacer, réparer, partager, contrôler et transmettre.**
+
+## Projection légistique publiée — 26 septembre 2026
+
+Le stock de formules dispose désormais d’une projection institutionnelle publique : l’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Cette publication ne remplace pas les formules politiques ou pédagogiques du présent document. Elle fournit un point d’ancrage vérifiable pour la distinction entre **autonomie formelle**, **autonomie possible** et **autonomie de capacité** : conditions de mise en œuvre effective, évaluation périodique, accès aux habilitations et observation des effets au regard de **Liberté, Égalité, Fraternité**.
+
+Statut à conserver dans toute réutilisation : **proposition publique en forme parlementaire candidate ; aucun dépôt ni soutien parlementaire n’est présumé tant qu’une trace ne l’établit pas**.
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
