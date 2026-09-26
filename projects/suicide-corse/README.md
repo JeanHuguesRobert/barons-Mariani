@@ -69,9 +69,22 @@ Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les
 
 Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
 
-Le n°3 n'a encore ni date, ni sommaire, ni longueur imposés. Il collecte le delta postérieur au n°2 sans présumer de sa composition. Parmi les entrées désormais enregistrées figure le **delta sénatorial du 25 septembre** : réception effective du jugement du TA, résolution de l'heure 15:49 pour la note en délibéré, résidus documentaires persistants, relance du greffe et demande formelle d'accès aux traces auprès de la préfecture.
+Le n°3 doit désormais être **bouclé le lundi 28 septembre 2026 au matin**. Son sommaire et sa longueur restent ouverts jusqu'au freeze : la fin de semaine est assumée comme une **phase magazine à forte intensité**, capable d'intégrer les réponses du Réel jusqu'au dernier moment sans modifier les éditions déjà gelées. Il collecte le delta postérieur au n°2 sans présumer de sa composition. Parmi les entrées désormais enregistrées figure le **delta sénatorial du 25 septembre** : réception effective du jugement du TA, résolution de l'heure 15:49 pour la note en délibéré, résidus documentaires persistants, relance du greffe et demande formelle d'accès aux traces auprès de la préfecture.
 
 Principe : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
+
+### Axe longitudinal désormais prioritaire
+
+Le delta du 26 septembre impose un changement de focale : le contentieux sénatorial 2026 n'est plus traité comme un îlot. Il devient un **Reality Case contemporain** dans une enquête beaucoup plus longue sur la continuité des capacités, des protections et des recours.
+
+Deux lignes temporelles doivent être distinguées puis confrontées :
+
+- **histoire électorale documentée : 2017–2026**, avec Marie-Louise et Jean Hugues dans des rôles successifs de candidate, suppléante, remplaçante proposée ou requérante ;
+- **histoire de protection de Marie-Louise : antérieure à 2017**, incluant l'intervention de la justice au titre de l'assistance éducative et, plus largement, la question de la continuité entre institutions de protection.
+
+L'enjeu éditorial n'est pas de construire une causalité totale. Il est de demander, à chaque bifurcation : **quel possible existait encore, qui pouvait agir, avec quelle information, dans quel délai, et quelle capacité a été maintenue, réduite, réouverte ou définitivement perdue ?**
+
+Cette ligne permet de reboucler explicitement sur *Suicide Corse* : la perte de chance, la continuité de protection, l'effectivité des droits et la fermeture des possibles deviennent des objets communs à plusieurs Reality Cases, sans supposer une identité de mécanisme entre eux.
 
 ### Appel à témoignages
 
