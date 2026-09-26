@@ -73,13 +73,15 @@ Trois fonctions structurent une partie du modèle :
 
 ➡️ [Amendement d’effectivité — article 72-5](../autonomia/amendement_effectivite_article_72-5.md)
 
-Ce cas précise désormais deux tests complémentaires : **l’accès effectif à la capacité normative** et **les effets réels de la norme produite**. Il distingue ainsi autonomie formelle, autonomie possible et autonomie de capacité.
+La version publique `0.4-rc4` constitue désormais un cas de passage de la doctrine à une **forme parlementaire candidate**. Elle ne se limite plus aux normes produites : elle teste les **conditions de mise en œuvre effective** des facultés constitutionnelles, leur **évaluation périodique** — notamment l’accès aux habilitations et leur exercice — et les effets observés au regard de l’effectivité de **Liberté, Égalité, Fraternité**.
+
+Elle reste une proposition publique, non un amendement parlementaire déjà déposé ou adopté.
 
 ## 7. Liberté, Égalité, Fraternité
 
 Capable ouvre un chantier consistant à examiner la devise républicaine du point de vue de son **effectivité**.
 
-Les définitions opérationnelles des trois termes restent à stabiliser. Le [Capable Test](../../projects/capable/capable-test.md) les traite pour l’instant comme des questions de recherche.
+L’amendement d’effectivité en fait désormais une **finalité explicite d’évaluation**, sans prétendre que les trois termes constituent déjà un standard contentieux unifié. Leurs définitions opérationnelles restent un chantier ; le [Capable Test](../../projects/capable/capable-test.md) continue de les traiter comme des questions de recherche.
 
 ## 8. Souveraineté civique
 
