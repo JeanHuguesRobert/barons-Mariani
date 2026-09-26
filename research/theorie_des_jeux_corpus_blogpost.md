@@ -4,7 +4,7 @@ subtitle: 'Autonomie, logement, énergie : pourquoi la Corse doit apprendre à l
 author: Jean Hugues Noël Robert
 date: '2026-06-26'
 status: draft — substack
-version: '0.2'
+version: '0.3'
 license: CC BY-SA 4.0
 document_role: source
 document_kind: substack-draft
@@ -20,6 +20,7 @@ related_documents:
   - research/traceabilite_des_actes.md
   - research/kudos.md
   - research/autonomia/projet_1755.md
+  - research/autonomia/amendement_effectivite_article_72-5.md
 tags:
   - Substack
   - campagne sénatoriale
@@ -377,6 +378,12 @@ Puis de le changer.
 
 ---
 
+## Continuation — une règle du jeu constitutionnelle devient testable
+
+Depuis le 26 septembre 2026, l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un cas directement raccordé à la grille de théorie des jeux : une faculté juridique ne change réellement le jeu que si les conditions de sa mise en œuvre, son usage ou son non-usage et ses effets peuvent être observés dans le temps.
+
+La proposition ne garantit aucun résultat particulier et ne transforme pas chaque demande d’habilitation en droit à obtenir. Elle rend en revanche le **méta-jeu institutionnel** plus explicite : qui peut demander, qui instruit, qui décide, quelles facultés sont réellement mobilisées et quels effets leur mise en œuvre produit au regard de **Liberté, Égalité, Fraternité**.
+
 ## Pour aller plus loin
 
 - Document source souverain : [Théorie des jeux comme grille de lecture du corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/theorie_des_jeux_corpus.md).
@@ -393,6 +400,10 @@ Ces notes sont destinées à vérifier les points d’actualité utilisés dans 
 - Sénatoriales Haute-Corse 2026 : scrutin indirect, un siège, influence majeure des conseils municipaux dans le collège électoral. Source : synthèses électorales publiques.
 
 ## Changelog
+
+### v0.3 — 2026-09-26
+
+Ajout de la continuation légistique publique constituée par l’amendement d’effectivité relatif au futur article 72-5 ; articulation avec la notion de méta-jeu institutionnel.
 
 ### v0.2 — 2026-06-26
 
