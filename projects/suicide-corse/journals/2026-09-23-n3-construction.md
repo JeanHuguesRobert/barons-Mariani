@@ -195,12 +195,13 @@ Il ne signifie ni que la Corse serait une « personne handicapée », ni que les
 
 > **une capacité théorique suffit-elle lorsque les conditions concrètes de son exercice ne sont pas réunies ?**
 
-Cette piste rejoint directement l’évolution du 26 septembre de l’« amendement Baron Mariani », qui distingue désormais :
+Cette piste rejoint désormais la publication canonique du 26 septembre de l’« amendement Baron Mariani » en version **0.4-rc4** (commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`). À l’échelle territoriale, le texte ne se contente plus d’opposer norme formelle et effets : il rend observables
 
-- l’effectivité des normes produites ;
-- l’accès effectif aux capacités normatives nécessaires.
+- les **conditions permettant la mise en œuvre effective** des facultés constitutionnelles ;
+- l’**évaluation périodique** de cette mise en œuvre, notamment des conditions d’accès aux habilitations et de leur exercice ;
+- les effets de cette mise en œuvre au regard de l’effectivité de **Liberté, Égalité, Fraternité**.
 
-Elle renforce aussi une règle de l’architecture v2 :
+Cette projection reste un exemple de récurrence de mécanisme entre échelles, non une assimilation des situations. Elle renforce aussi une règle de l’architecture v2 :
 
 > **Cross-scale recurrence is not identity.**
 
