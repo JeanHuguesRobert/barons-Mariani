@@ -330,6 +330,14 @@ Elle doit en formuler la condition contemporaine :
 
 ---
 
+## Continuation documentaire — 26 septembre 2026
+
+Le texte performatif ci-dessus demeure daté du 24 mai 2026 et n’est pas réécrit rétroactivement. Une continuation institutionnelle plus étroite a depuis été publiée : l’[**Amendement d’effectivité — article 72-5**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Cette continuation n’emporte pas la thèse performative du présent document dans le texte constitutionnel. Elle en extrait seulement une question opératoire : comment distinguer une faculté reconnue d’une capacité effectivement mise en œuvre, comment l’observer dans le temps, et quels effets cette mise en œuvre produit-elle au regard de **Liberté, Égalité, Fraternité** ?
+
+Le lien est donc une **filiation méthodologique**, non une équivalence doctrinale.
+
 ## Note méthodologique
 
 Cette déclaration est un produit décliné asymétrique multi-source.
