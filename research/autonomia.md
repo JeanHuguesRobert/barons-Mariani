@@ -4,12 +4,12 @@ subtitle: Capacités collectives, capital territorial et flexibilité d’usage 
 description: Contribution à une théorie opératoire de l’autonomie territoriale
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-version: '0.14'
-date: '2026-09-15'
+version: '0.15'
+date: '2026-09-26'
 license: CC BY-SA 4.0
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
-last_stamped_at: 2026-09-15T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -45,13 +45,13 @@ Fonction dans le corpus : définir l'autonomie de capacité comme test opératoi
 
 À lire avant : [Discours de la seconde méthode](second_method.md), puis éventuellement [Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md) pour la situation inter-dépôts.
 
-À lire après : [Potentique territoriale](autonomia/potentique_territoriale.md), [Corse Laboratoire](autonomia/corse_laboratoire.md), [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
+À lire après : [Potentique territoriale](autonomia/potentique_territoriale.md), [Corse Laboratoire](autonomia/corse_laboratoire.md), [Projet #1755](autonomia/projet_1755.md), [Grammaire générative de l'Autonomie de Capacité](autonomia/grammaire_autonomie_de_capacite.md), [Amendement d’effectivité — article 72-5](autonomia/amendement_effectivite_article_72-5.md), [Corsica2038](autonomia/corsica2038_contre_rapport_pruspettiva2050.md).
 
 Dépend de : l'approche par les capabilités, le capital territorial, les communs et la doctrine de l'expérimentation publique documentée.
 
 Continuation : maintenir le texte comme source de doctrine ; les documents de campagne ou de programme doivent s'y rattacher sans le remplacer.
 
-Dernière consolidation : 2026-09-15 — distribution multi-échelles de la capacité, temps utile, fenêtre d’effectivité et resserrement méthodologique du test #1755.
+Dernière consolidation : 2026-09-26 — ajout d’une continuation constitutionnelle documentée : publication d’une forme parlementaire candidate de l’amendement d’effectivité, issue du principe d’Autonomie de Capacité et maintenue distincte du présent texte source.
 
 ## Capacités collectives, capital territorial et flexibilité d’usage dans le cas corse
 
@@ -962,3 +962,24 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->
+
+---
+
+## Continuation — 26 septembre 2026 : du concept à une forme parlementaire candidate
+
+Le présent texte reste la **source doctrinale** de l’Autonomie de Capacité. Il ne doit pas être rétroactivement réécrit pour se confondre avec ses projections institutionnelles.
+
+Une projection constitutionnelle distincte est toutefois désormais publiée : [**Amendement d’effectivité — version parlementaire candidate et note de justification**](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Cette projection applique au futur article 72-5 une question directement issue d’*Autonomia* :
+
+> **une faculté juridiquement ouverte devient-elle une capacité réellement praticable, et que produit sa mise en œuvre ?**
+
+Après plusieurs itérations et revues adverses, la proposition ne consiste plus à ajouter une clause doctrinale autonome. Elle reformule le mécanisme déjà consacré à la loi organique, au contrôle et à l’évaluation afin d’y introduire :
+
+- les conditions permettant la **mise en œuvre effective** des facultés normatives ;
+- une **évaluation périodique** de cette mise en œuvre, notamment des conditions d’accès aux habilitations et de leur exercice ;
+- l’observation de ses effets au regard de l’effectivité de **Liberté, Égalité, Fraternité**.
+
+Cette dérivation ne ferme pas le concept. Elle constitue au contraire un **Reality Test légistique** : une doctrine générale doit pouvoir produire une proposition précise, être critiquée, simplifiée, puis rester suffisamment ouverte pour qu’un tiers puisse la reprendre et la transformer.
+
