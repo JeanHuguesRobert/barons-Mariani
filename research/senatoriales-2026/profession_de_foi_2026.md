@@ -79,3 +79,12 @@ https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trails/une
 
 **Déclaration datée de continuité électorale :**  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md
+
+
+---
+
+## Continuation postérieure — 26 septembre 2026
+
+Le présent document reste daté du 17 septembre 2026 et n’est pas réécrit rétroactivement. Une continuation doctrinale et légistique a été publiée le 26 septembre : l’[**Amendement d’effectivité — article 72-5**](../autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+
+Cette publication transforme une partie de l’**Autonomie de Capacité** évoquée dans la profession de foi en proposition parlementaire candidate : mise en œuvre effective des facultés du futur article 72-5, évaluation périodique du régime et observation de ses effets au regard de **Liberté, Égalité, Fraternité**. Elle est postérieure au document et n’est pas présentée comme un amendement déjà déposé ou soutenu par un parlementaire.
