@@ -194,9 +194,9 @@ sources:
 
   - id: amendment-effectiveness-72-5
     path: research/autonomia/amendement_effectivite_article_72-5.md
-    role: constitutional-working-source
+    role: constitutional-proposal-source
     required: false
-    note: "Current 2026-09-26 working paper; distinguishes effective access to normative habilitations from the effects of norms. Still awaiting decorrelated external review."
+    note: "Public v0.4-rc4 published 2026-09-26 after multiple adverse-review cycles. Parliamentary-form candidate rewrites the existing organic/evaluation clause around effective implementation, periodic evaluation, access/exercise conditions and effects on Liberté-Égalité-Fraternité. Not documented as filed or adopted; usable in n3 only as a cross-scale capacity/effectivity source, not as evidence of causation in Marie-Louise's case."
 
 
   - id: territorial-potentics
