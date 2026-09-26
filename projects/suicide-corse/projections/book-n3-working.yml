@@ -180,6 +180,31 @@ weekend_magazine_2026_09_26:
       source: ../../../research/protection_responsable.md
       note: "Includes the earlier judicial/educational protection history; exact chronology remains source-driven and must not be filled narratively."
   central_question: "How do formal rights, protections and possible actions become usable capabilities across institutional hand-offs, and where do those conversions fail?"
+  electoral_capability_2022:
+    status: "documented post-n2 consolidation; candidate for n3"
+    source: ../../../memory/marie-louise/elections/2022-legislatives.md
+    catalogue_source: ../../../memory/marie-louise/works/catalogue/entries-gmail-2026-09-17.yml
+    established:
+      - "1 May: JHR publicly announces himself as titular candidate; 6 May he still forwards that state to Martine Brillais."
+      - "9 May: operational Trello trace records Marie-Louise as candidate and JHR as replacement; the exact 6–9 May decision remains unknown."
+      - "19 May: provisional prefecture receipt records Mme BARONNE ML MARIANI as candidate and M. BARON JHN MARIANI as replacement."
+      - "24 May: Marie-Louise personally forwards CHORUS material and then transmits two successive collector PDFs from her two accounts."
+      - "Technical inspection ties the two collector PDFs to the same Adobe Photoshop CC 2018 (Macintosh) document created 24 May at 15:18:45 +02:00; the observable revision is essentially the addition of the yanug."
+      - "Damien Ruvet's returned collector version is dated/sent on 25 May, after the two states transmitted by Marie-Louise."
+    third_party:
+      - "16 May: Martine Brillais writes that Marie-Louise 'a pris l'initiative de se présenter'; retain as THIRD-PARTY, not VOICE."
+    unknown:
+      - "exact origin and decision process of the 6–9 May role reversal"
+      - "identity of the person physically operating Photoshop"
+      - "authorship of the portrait/autoportrait and exact initial composition"
+    interpretation_boundary:
+      - "Document increasing/exercised electoral capacity, not a reconstructed political psychology."
+      - "Direct material/versioning participation does not equal sole graphic authorship."
+      - "The documented 2019 purchase of a MacBook Pro is contextual provenance only; it does not identify the 2022 device."
+    editorial_interest:
+      - "A concrete bridge from 2017 substitute status to 2022 titular acts and 2024 direct political VOICE."
+      - "A small-scale example of capability becoming observable through acts, documents and production rather than through retrospective motive attribution."
+
   bounded_loss_of_chance:
     status: "editorial and legal-research candidate"
     rule: "Map real contemporaneous possibilities, conversion conditions and closure points; do not infer the final outcome from one lost branch."
