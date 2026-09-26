@@ -1,6 +1,6 @@
 schema_version: "0.1"
 title: "Sénatoriales 2026 — représentations médiatiques"
-updated_at: "2026-09-21"
+updated_at: "2026-09-26"
 status: "active"
 
 records:
@@ -111,6 +111,79 @@ records:
     limitations:
       - "Le registre constate une divergence documentaire ; il n'établit pas encore la provenance exacte de la date du 19 septembre utilisée par l'agrégateur."
     source_verification: "verified_web_2026-09-21"
+
+  - id: "MED-2026-09-19-NOSPARLEMENTAIRES-CANDIDATE"
+    medium: "NosParlementaires"
+    observed_at: "2026-09-26"
+    publication_type: "aggregator_candidate_page"
+    title: "Baron MARIANI, candidat aux sénatoriales 2026 de Haute-Corse"
+    url: "https://nosparlementaires.fr/senatoriales-2026/candidat/baron-mariani-2b"
+    observed:
+      candidacy_status_representation: "« Candidature retirée » ; absence du site du Sénat depuis le 19 septembre 2026"
+      identity_representation: "Baron MARIANI"
+    qualification:
+      candidacy_status: "TENSION_AVEC_TRACE_PRIMAIRE"
+    primary_benchmark:
+      - "aucun retrait volontaire documenté"
+      - "jugement du 14 septembre refusant l'enregistrement"
+    correction_status: "candidate_for_narrow_correction"
+    source_verification: "verified_web_2026-09-26"
+
+  - id: "MED-2026-09-21-AF-REJET"
+    medium: "Alta Frequenza"
+    author: "Julien Pernici"
+    published_at: "2026-09-21"
+    publication_type: "article"
+    title: "Sénatoriales en Haute-Corse : la candidature de Jean-Hugues Robert retoquée par le Tribunal Administratif de Bastia"
+    url: "https://www.alta-frequenza.corsica/senatoriales-en-haute-corse-la-candidature-de-jean-hugues-robert-retoquee-par-le-tribunal-administratif-de-bastia"
+    observed:
+      candidacy_status_representation: "refus d'enregistrement par le Tribunal administratif de Bastia ; deux candidats demeurent"
+      identity_representation: "Jean-Hugues Robert, dit le Baron Mariani"
+    qualification:
+      candidacy_status: "FIDÈLE_DANS_SON_NOYAU"
+      identity: "QUALIFICATION_EDITORIALE"
+    limitations:
+      - "Le terme « discrètement disqualifié » est une qualification éditoriale."
+    correction_status: "none_required_for_core_status"
+    source_verification: "verified_web_2026-09-26"
+
+  - id: "MED-2026-09-21-AF-REPART"
+    medium: "Alta Frequenza"
+    author: "Julien Pernici"
+    published_at: "2026-09-21"
+    publication_type: "article"
+    title: "Sénatoriales en Haute-Corse : Jean-Hugues Robert, dit le Baron Mariani, repart en campagne"
+    url: "https://www.alta-frequenza.corsica/senatoriales-en-haute-corse-jean-hugues-robert-dit-le-baron-mariani-repart-en-campagne"
+    observed:
+      candidacy_status_representation: "présenté comme « repart en campagne »"
+      political_content: "amendement au projet d'autonomie ; liberté, égalité, fraternité ; communauté de destin"
+      identity_representation: "Jean-Hugues Robert, dit le Baron Mariani"
+    qualification:
+      political_content: "IMPORTANT_PUBLIC_ANTERIORITY"
+      candidacy_status: "A_DETERMINER"
+    documentary_interest:
+      - "trace publique indépendante de l'existence du projet d'amendement avant les interventions parlementaires post-scrutin"
+      - "à distinguer du statut juridique de la candidature"
+    correction_status: "preserve_as_public_trace"
+    source_verification: "verified_web_2026-09-26"
+
+  - id: "MED-2026-09-24-SEVEN"
+    medium: "Seven Radio"
+    author: "Seb Debollivier"
+    published_at: "2026-09-24"
+    publication_type: "article"
+    title: "Sénatoriales en Haute-Corse : le dossier de Jean-Hugues Robert rejeté"
+    url: "https://sevenradio.fr/2026/09/24/senatoriales-en-haute-corse-le-dossier-de-jean-hugues-robert-rejete/"
+    observed:
+      candidacy_status_representation: "jugement du 14 septembre ; dossier rejeté ; deux candidats demeurent"
+      procedural_representation: "absence des CERFA originaux signés ; documents dématérialisés ; relances préfectorales alléguées"
+    qualification:
+      candidacy_status: "FIDÈLE_DANS_SON_NOYAU"
+      procedural_detail: "SOURCE_SECONDAIRE_A_CONFRONTER_AUX_TRACES_PRIMAIRES"
+    limitations:
+      - "Les formulations « manquement administratif manifeste » et « malgré les relances » sont celles du média et ne doivent pas être réemployées comme faits sans source primaire."
+    correction_status: "none_for_core_status; verify_procedural_details"
+    source_verification: "verified_web_2026-09-26"
 
 comparison_records:
   - id: "CMP-2026-09-02-CNI-PERES"
