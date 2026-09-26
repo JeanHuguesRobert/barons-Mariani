@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-25"
+updated: "2026-09-26"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -181,6 +181,13 @@ sources:
     role: political-method-source
     required: false
 
+  - id: amendment-effectiveness-72-5
+    path: research/autonomia/amendement_effectivite_article_72-5.md
+    role: constitutional-working-source
+    required: false
+    note: "Current 2026-09-26 working paper; distinguishes effective access to normative habilitations from the effects of norms. Still awaiting decorrelated external review."
+
+
   - id: territorial-potentics
     path: research/autonomia/potentique_territoriale.md
     role: research-source
@@ -276,4 +283,5 @@ open_gaps:
   - "If retained for future public use, create a dedicated source for the candidate national label 'France Capable'; do not infer an existing party or registered candidacy."
   - "Resolve post-judgment propagation of the 2026 senatorial status across Ministry, Senate and third-party projections; distinguish refusal of registration from any voluntary withdrawal, which is not currently documented."
   - "Resolve the 25 September senatorial access-to-traces probes: server-side receipt of the 17:57:55 email, prefecture-to-TA transmission history, exact Sagace letter identity/time, judgment availability time, hearing trace/clerk/minute access, and the documentary basis of the judgment's reference to prefecture requests."
+  - "Test the 26 September handicap / insularity cross-scale analogy: identify what structural invariant survives and where the analogy breaks; preserve privacy and do not equate individual disability law with territorial constitutional law."
 
