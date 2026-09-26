@@ -4,8 +4,8 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-26'
-version: '0.4'
-status: working-paper — observatory_v0.4
+version: '0.5'
+status: working-paper — observatory_v0.5
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
@@ -30,6 +30,8 @@ related_documents:
     path: consultation_referendum_souverainete_effective_corse.md
   - title: Contribution C.O.R.S.I.C.A. à la commission des Lois
     path: ../contribution_commission_lois_autonomie_capacite.md
+  - title: Amendement d’effectivité — version parlementaire candidate
+    path: amendement_effectivite_article_72-5.md
   - title: Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani
     path: ../notice_candidature_senatoriales_2026_medias.md
   - title: Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026
@@ -43,6 +45,7 @@ changelog:
   - 'v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée.'
   - 'v0.3 (2026-09-15) — propagation documentaire : contribution parlementaire alignée sur son état historique v0.2 et chantier #73 constaté comme achevé.'
   - 'v0.4 (2026-09-26) — ajout de la distinction autonomie formelle / possible / de capacité, de l’amendement d’effectivité v0.3-rc1 et de la fenêtre post-scrutin du 27 septembre.'
+  - 'v0.5 (2026-09-26) — propagation de la publication de l’amendement d’effectivité v0.4-rc4 : forme parlementaire candidate, intégration dans l’alinéa organique existant, revue adverse accomplie et fenêtre sénatoriale explicitée.'
 last_modified_at: '2026-09-26'
 update_policy: UP-DEFAULT-REVIEWED
 review:
@@ -146,29 +149,23 @@ La distinction `consultation / référendum / ratification` doit donc rester exp
 
 Source spécialisée : [Consultation, référendum et souveraineté effective](consultation_referendum_souverainete_effective_corse.md).
 
-## 1.5. Amendement d’effectivité — état de travail au 26 septembre
+## 1.5. Amendement d’effectivité — publication candidate au 26 septembre
 
-**Trace publique.** Le Corpus contient désormais une version `0.3-rc1` de l’[amendement d’effectivité](amendement_effectivite_article_72-5.md), dit de travail « amendement Baron Mariani ».
+**Trace publique.** Le document canonique [Amendement d’effectivité — article 72-5](amendement_effectivite_article_72-5.md) est désormais publié en version **`0.4-rc4`**, au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
 
-Cette version distingue trois états :
+Cette version ne propose plus d’ajouter un alinéa autonome à côté du mécanisme d’évaluation déjà prévu. Elle prend la forme d’un **amendement parlementaire candidat** visant la première phrase de l’alinéa 6 du texte n° 782 et reformule le mécanisme existant de la loi organique autour de trois objets :
 
 ```text
-autonomie formelle
-→ une faculté est reconnue
-
-autonomie possible
-→ son exercice dépend encore de décisions tierces
-
-autonomie de capacité
-→ les conditions d'accès et d'exercice rendent la capacité effectivement mobilisable
+conditions permettant la mise en œuvre effective des facultés des deuxième et troisième alinéas
+→ évaluation périodique de cette mise en œuvre, notamment de l’accès aux habilitations et de leur exercice
+→ appréciation de ses effets au regard de l’effectivité de la liberté, de l’égalité et de la fraternité
 ```
 
-Elle traite deux dimensions : **l’effectivité des normes produites** et **l’accès effectif aux habilitations nécessaires**.
+La publication conserve la distinction entre **autonomie formelle**, **autonomie possible** et **autonomie de capacité**, mais abandonne la formulation antérieure centrée sur les « habilitations nécessaires ». Elle prend aussi en compte le non-usage ou la difficulté de mise en œuvre comme objets d’observation, sans transformer tout non-usage en défaillance.
 
-**Statut :** working paper ; revue adversariale interne accomplie, revue externe décorrélée encore à conduire. Il ne s’agit pas d’un amendement parlementaire déjà déposé.
+**Statut :** proposition publique en forme parlementaire, accompagnée d’un dossier de justification et issue de plusieurs cycles de revue adverse. Elle n’est **ni déposée ni adoptée** à ce stade. Sa publication laisse explicitement ouverte la possibilité d’une reprise, d’une correction ou d’une réécriture par des parlementaires.
 
-Le problème d’effectivité possède une antériorité institutionnelle indépendante : le Président de la République proposait dès septembre 2023 de rendre le droit d’adaptation et d’habilitation « plus simple et plus effectif », et le Conseil d’État a ensuite relevé l’absence de suite systématique à certaines demandes de la Collectivité.
-
+La filiation documentaire est continue : contribution C.O.R.S.I.C.A. transmise le 28 mai 2026 → mention dans le rapport n° 2865 → consolidation doctrinale → proposition d’amendement publiée le 26 septembre. Cette chronologie n’établit pas, à elle seule, une influence causale sur le texte parlementaire.
 
 ---
 
@@ -302,6 +299,7 @@ Une **fenêtre d’effectivité** est l’intervalle pendant lequel une possibil
 | Fenêtre | Sujet(s) | Possible concerné | Fermeture ou seuil | Statut |
 |---|---|---|---|---|
 | Dépôt et validation des candidatures sénatoriales | candidats / remplaçants / préfecture / juge électoral | participer au scrutin | scrutin du 27 septembre 2026, sous réserve des règles électorales applicables | cas concret à documenter |
+| Transmission d’une proposition susceptible d’être reprise comme amendement | société civile / interlocuteurs parlementaires | faire connaître une rédaction candidate avant stabilisation des travaux | avant les échéances parlementaires d’octobre | proposition publique ; reprise institutionnelle non établie |
 | Rapport de commission du Sénat | sénateurs / commission / contributeurs indirects | agir avant stabilisation du rapport | 21 octobre 2026 | programmé |
 | Amendements de séance | sénateurs et groupes | déposer ou faire porter des amendements | 23 octobre 2026 à 12 h selon agenda publié | programmé |
 | Débat sénatorial | sénateurs | intervenir directement en séance | 26 octobre 2026 selon agenda publié | programmé |
