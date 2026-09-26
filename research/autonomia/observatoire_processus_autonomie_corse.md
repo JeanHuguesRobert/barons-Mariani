@@ -3,9 +3,9 @@ title: Observatoire public du processus d’autonomie de la Corse
 subtitle: Carte corrigible du processus institutionnel, de la participation effective et de ses fenêtres d’effectivité
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-date: '2026-09-15'
-version: '0.3'
-status: working-paper — observatory_v0.3
+date: '2026-09-26'
+version: '0.4'
+status: working-paper — observatory_v0.4
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
@@ -42,7 +42,8 @@ changelog:
   - v0.1 (2026-09-15) — création de l’Observatoire public.
   - 'v0.2 (2026-09-15) — maintenance documentaire : agenda sénatorial revérifié, statut inconnu du contentieux explicité, première trace du registre médiatique ajoutée.'
   - 'v0.3 (2026-09-15) — propagation documentaire : contribution parlementaire alignée sur son état historique v0.2 et chantier #73 constaté comme achevé.'
-last_modified_at: '2026-09-15'
+  - 'v0.4 (2026-09-26) — ajout de la distinction autonomie formelle / possible / de capacité, de l’amendement d’effectivité v0.3-rc1 et de la fenêtre post-scrutin du 27 septembre.'
+last_modified_at: '2026-09-26'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -97,7 +98,7 @@ Les expressions telles que « la Corse décide », « la Corse gagne du pouvoir 
 
 ---
 
-# 1. État courant — 15 septembre 2026
+# 1. État courant — 26 septembre 2026
 
 ## 1.1. Révision constitutionnelle
 
@@ -110,7 +111,7 @@ La [chronologie documentaire canonique](../chronologie_processus_beauvau_corse.m
 
 ## 1.2. Prochaines fenêtres sénatoriales publiées
 
-**Agenda institutionnel, donc programmé et non encore réalisé au 15 septembre 2026 :**
+**Agenda institutionnel, donc programmé et non encore réalisé au 26 septembre 2026 :**
 
 | Date | Événement annoncé | Statut | Effet potentiel |
 |---|---|---|---|
@@ -118,7 +119,7 @@ La [chronologie documentaire canonique](../chronologie_processus_beauvau_corse.m
 | 23 octobre 2026, 12 h | Limite annoncée de dépôt des amendements de séance | programmé | Fermeture d’une fenêtre formelle d’amendement |
 | 26 octobre 2026 | Examen des amendements de séance par la commission en début d’après-midi, puis discussion en séance publique | programmé | Débat et éventuelle modification du texte transmis par l’Assemblée nationale |
 
-**Vérification du 15 septembre 2026.** Le dossier législatif et l’ordre du jour du Sénat maintiennent cette séquence. Cette vérification constate l’état de l’agenda publié à cette date ; elle ne transforme pas un événement programmé en événement réalisé.
+**Vérification à maintenir à jour.** Le dossier législatif et l’ordre du jour du Sénat maintiennent cette séquence. Cette vérification constate l’état de l’agenda publié à cette date ; elle ne transforme pas un événement programmé en événement réalisé.
 
 Sources primaires :
 
@@ -144,6 +145,30 @@ Source spécialisée : [Registre du chantier de loi organique](registre_chantier
 La distinction `consultation / référendum / ratification` doit donc rester explicite.
 
 Source spécialisée : [Consultation, référendum et souveraineté effective](consultation_referendum_souverainete_effective_corse.md).
+
+## 1.5. Amendement d’effectivité — état de travail au 26 septembre
+
+**Trace publique.** Le Corpus contient désormais une version `0.3-rc1` de l’[amendement d’effectivité](amendement_effectivite_article_72-5.md), dit de travail « amendement Baron Mariani ».
+
+Cette version distingue trois états :
+
+```text
+autonomie formelle
+→ une faculté est reconnue
+
+autonomie possible
+→ son exercice dépend encore de décisions tierces
+
+autonomie de capacité
+→ les conditions d'accès et d'exercice rendent la capacité effectivement mobilisable
+```
+
+Elle traite deux dimensions : **l’effectivité des normes produites** et **l’accès effectif aux habilitations nécessaires**.
+
+**Statut :** working paper ; revue adversariale interne accomplie, revue externe décorrélée encore à conduire. Il ne s’agit pas d’un amendement parlementaire déjà déposé.
+
+Le problème d’effectivité possède une antériorité institutionnelle indépendante : le Président de la République proposait dès septembre 2023 de rendre le droit d’adaptation et d’habilitation « plus simple et plus effectif », et le Conseil d’État a ensuite relevé l’absence de suite systématique à certaines demandes de la Collectivité.
+
 
 ---
 
@@ -219,28 +244,40 @@ Le document source du Corpus consacré à cette contribution est désormais alig
 
 ## 3.2. Participation électorale et mandat sénatorial
 
-La candidature sénatoriale de Jean Hugues Noël Robert est suivie dans cet Observatoire seulement dans la mesure où elle touche **une possibilité concrète de participation au niveau institutionnel qui doit examiner le texte constitutionnel**.
+La candidature sénatoriale de Jean Hugues Noël Robert est suivie dans cet Observatoire parce qu’elle concerne une possibilité concrète de participation au niveau institutionnel appelé à examiner le texte constitutionnel.
 
-La chaîne causale doit rester décomposée :
+La chaîne causale reste :
 
 ```text
-candidature
-→ possibilité de participer au scrutin
+déclaration de candidature
+→ enregistrement
+→ participation au scrutin
 → possibilité d’être élu
 → possibilité de siéger
 → possibilité de participer directement aux travaux sénatoriaux
 ```
 
-Chaque flèche est conditionnelle. L’existence d’une candidature ne prouve ni l’élection ni une participation future au débat.
+Chaque flèche est conditionnelle.
+
+**État documentaire au 26 septembre 2026.** La déclaration a été déposée le 11 septembre ; à la suite de la saisine préfectorale, le Tribunal administratif de Bastia a refusé son enregistrement par jugement du 14 septembre. Aucun retrait volontaire n’est documenté. L’enquête documentaire postérieure reste ouverte sur plusieurs traces matérielles et procédurales.
+
+Le scrutin est prévu le **27 septembre 2026**. Après proclamation, une nouvelle fenêtre s’ouvrira pour le contentieux de l’élection devant le Conseil constitutionnel. Le dossier est préparé afin de distinguer strictement :
+
+- le résultat proclamé ;
+- les interventions parlementaires effectivement envoyées après le scrutin ;
+- la requête éventuellement formée ;
+- sa matérialisation et son heure de dépôt ;
+- la version publique et le manifeste de traçabilité correspondants.
+
+Le contentieux électoral est traité comme un **cas d’étude ultérieur** de la différence entre possibilité formelle et capacité effective. Il ne constitue pas l’origine de l’Autonomie de Capacité, documentée avant septembre 2026.
 
 Sources spécialisées :
 
-- [Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani](../notice_candidature_senatoriales_2026_medias.md) ;
-- [Dossier TA Bastia — candidature sénatoriale Haute-Corse 2026](../senatoriales-2026/dossier-ta-bastia-2026-09-14.md).
+- [Sénatoriales 2026 — dossier canonique](../senatoriales-2026/README.md) ;
+- [Dossier presse](../senatoriales-2026/dossier_presse_2026-09.md) ;
+- [Chronologie probatoire](../senatoriales-2026/investigation/chronology.md) ;
+- [Matrice des connaissances](../senatoriales-2026/investigation/knowledge-matrix.md).
 
-**État documentaire au 15 septembre 2026.** Le dossier public documente une saisine préfectorale tendant au refus d’enregistrement et une audience du 14 septembre. Le présent Observatoire ne déduit pas de ce dossier, à lui seul, l’issue juridictionnelle du contentieux. Celle-ci doit être intégrée lorsqu’une trace publique ou une source primaire suffisante permet de l’établir.
-
-**Statut épistémique de l’issue du contentieux : `inconnu / non établi` dans la présente Carte.** Une représentation médiatique antérieure de la candidature ne suffit pas à établir son état juridique après l’intervention du juge.
 
 ## 3.3. Participation populaire future
 
