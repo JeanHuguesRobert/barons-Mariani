@@ -909,3 +909,16 @@ Ces références constituent des voisins intellectuels à confronter, non des au
 - Albert O. Hirschman — *Exit, Voice, and Loyalty* ; complémentarités et tensions entre sortie et voix.
 - Elinor Ostrom — principes de conception et gouvernance polycentrique des communs ; absence de solution universelle indépendante du contexte.
 - littérature des real options / switching options — valeur et coût de préserver des possibilités futures sous incertitude.
+
+## Reality Test constitutionnel — effectivité du futur article 72-5
+
+Le 26 septembre 2026, le Corpus a publié l’[amendement d’effectivité — article 72-5](amendement_effectivite_article_72-5.md), version `0.4-rc4`, sous une forme parlementaire candidate.
+
+Pour *Corse Laboratoire*, l’intérêt méthodologique est précis : la proposition ne demande pas seulement si une faculté constitutionnelle existe, mais si ses **conditions de mise en œuvre** peuvent être observées dans la durée. Elle introduit ainsi un test institutionnel longitudinal : accès aux habilitations, exercice ou non-usage, évaluation périodique, effets observés et possibilité de correction.
+
+Le laboratoire n’est donc pas seulement un lieu où l’on expérimente des politiques. Il peut aussi devenir un lieu où l’on expérimente la **qualité du mécanisme qui permet d’expérimenter**.
+
+Cette projection ne vaut ni preuve de nécessité constitutionnelle ni présomption d’adoption. Elle constitue un objet public soumis au même principe que les autres expériences du Corpus : **le Réel doit pouvoir répondre**.
+
+---
+
