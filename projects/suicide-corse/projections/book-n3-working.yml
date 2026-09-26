@@ -13,9 +13,12 @@ related_issue: 84
 
 edition:
   number: 3
-  editorial_date: null
+  editorial_date: "2026-09-28"
   publication_date: null
-  date_is_intentionally_unset: true
+  date_is_intentionally_unset: false
+  close_target: "2026-09-28 morning Europe/Paris"
+  close_time_exact: null
+  cadence_note: "Weekend magazine mode: absorb high-value late delta until freeze, without silently changing frozen editions."
 
 construction:
   state: active
@@ -155,6 +158,42 @@ observed_post_n2_delta:
       - "A live demonstration of generative probe yield: passive source reconstruction produced a new distinction between the electronic bundle and the physical deposit bundle, and generated RP-SEN-18."
     privacy_rule: "Do not reproduce raw postal photos, signatures, addresses, technical logs, or non-public personal data; project only the facts they establish after minimization."
 
+weekend_magazine_2026_09_26:
+  status: "active until Monday-morning freeze"
+  editorial_role: "high-intensity late-week delta, not a license to lower evidentiary standards"
+  longitudinal_axis:
+    electoral:
+      range: "2017–2026"
+      source: ../../../memory/marie-louise/elections/README.md
+      note: "Treat successive candidacies, substitutions and remedies as a continuity-of-capacity series, not as evidence of one political intention."
+    protection:
+      range: "pre-2017 → 2024"
+      source: ../../../research/protection_responsable.md
+      note: "Includes the earlier judicial/educational protection history; exact chronology remains source-driven and must not be filled narratively."
+  central_question: "How do formal rights, protections and possible actions become usable capabilities across institutional hand-offs, and where do those conversions fail?"
+  bounded_loss_of_chance:
+    status: "editorial and legal-research candidate"
+    rule: "Map real contemporaneous possibilities, conversion conditions and closure points; do not infer the final outcome from one lost branch."
+    contemporary_anchor: ../../../memory/marie-louise/elections-2024-complaints.md
+  procedural_routes_as_probes:
+    - "Conseil constitutionnel / electoral petition"
+    - "possible QPC, only after exact statutory target and constitutional grievance are identified"
+    - "Défenseur des droits as a candidate continuity / cross-institution probe"
+    - "possible ECHR route, subject to admissibility and exhaustion requirements"
+    - "civil or administrative compensation routes, including bounded loss-of-chance analysis"
+  n3_editorial_candidates:
+    - "From formal protection to effective capability: a longitudinal map rather than a single-case narrative."
+    - "2017–2026 electoral continuity as an observable series of openings, frictions, remedies and closures."
+    - "2024 complaints as contemporaneous pre-death traces, kept distinct from later causal inference."
+    - "2026 senatorial case as a live probe of transmission, deadlines, evidence access and correctability."
+    - "Continuity of protection: when each institution has a segment but no actor owns the transition."
+    - "Magazine close: what the Real answered during the final weekend before freeze."
+  anti_overreach:
+    - "No single institutional episode is promoted to a complete explanation of Marie-Louise's death."
+    - "No absence of response is treated as evidence of hostile intent."
+    - "No cross-scale recurrence is treated as identity of mechanism."
+    - "Legal routes remain separate until jurisdiction, standing, deadlines and admissibility are verified."
+
 candidate_questions:
   individual:
     - "What did sparse P0 recall reveal that the inquiry had not prompted?"
@@ -195,3 +234,6 @@ next_observations:
   - "Watch the 25 September prefecture CRPA/GDPR request for documentary and mail-system evidence; preserve response/non-response timing without inferring motive."
   - "If new material arrives, update the senatorial knowledge matrix before any n3 editorial projection."
   - "Continue accumulating post-n2 Corpus delta without freezing n3 composition."
+  - "Prepare the Monday 28 September morning freeze while preserving a weekend magazine window for high-value late observations."
+  - "Build a longitudinal capability map linking the documented 2017–2024 electoral series, the 2026 live case, and the older protection/assistance-educative line without collapsing their causal status."
+  - "Treat QPC, Défenseur des droits, ECHR and indemnity routes as probes to qualify, not as established remedies or outcomes."
