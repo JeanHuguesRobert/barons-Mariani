@@ -76,7 +76,7 @@ Les qualifications de délai restent **provisoires** lorsqu'un texte spécial, u
 | P26-GRASSE-01 | 10 et 18/09/2026 | TJ Grasse | demande puis relance sur PV 03632/2024 et audition Martine Brillais | **OUVERTE / À SUIVRE** | obtenir réponse ; sinon qualifier voie d'accès, recours ou saisine transversale appropriée | réactivation explicite de la chaîne 2024 ; effet utile pour DDD-01 |
 | P26-SENAT-01 | sept. 2026 | préfecture / TA Bastia / futur CC | candidature sénatoriale, rejet et contentieux | **OUVERTE** | scrutin 27/09, requête électorale ensuite ; préserver toutes traces | Reality Case contemporain du principe d'effectivité ; réparation éventuelle distincte de Marie-Louise |
 | P26-CRPA-RGPD-01 | 25/09/2026 | préfecture Haute-Corse | demande de documents/données et préservation des logs du 11/09/2026 | **OUVERTE** | attendre réponse, puis voies CADA/CNIL selon nature du refus ou silence | probe direct de continuité documentaire et préservation de preuve |
-| P26-DDD-01 | 26/09/2026 | Défenseur des droits | saisine envisagée sur le **principe d'effectivité** ; draft email préparé mais non envoyé | **PRÉPARÉE / NON ENCORE OUVERTE** | ouvrir minimalement avec un cas contemporain, sous protocole anti-capture, puis compléter le même dossier | rôle transversal : documenter l'effectivité, la continuité interinstitutionnelle et les orientations utiles sans remplacer les juges |
+| P26-DDD-01 | 26/09/2026 | Défenseur des droits — déléguée Haute-Corse | saisine envoyée par email à Josette Chiaroni le 26/09/2026 à 15:47:36 CEST, sous l'angle de l'**effectivité des droits et des recours** | **OUVERTE / À SUIVRE** | attendre accusé, référence de dossier et modalités de poursuite ; conserver le canal email et appliquer le protocole anti-capture à toute évolution de périmètre ou de traitement | rôle transversal : documenter l'effectivité, la continuité interinstitutionnelle et les orientations utiles sans remplacer les juges |
 
 # 4. Ce qui est réellement réactivable aujourd'hui
 
@@ -236,31 +236,31 @@ email / acte sortant conservé hors portail
 
 Le mécanisme du Défenseur des droits doit lui-même être soumis à un **Reality Test d'effectivité**. Cette précaution ne présume ni dysfonctionnement ni intention hostile : elle vise à rendre le fonctionnement observable, y compris lorsque le mode de défaillance n'a pas été anticipé.
 
-## 7.1 Draft d'ouverture — non envoyé
+## 7.1 Saisine d'ouverture — envoyée le 26 septembre 2026
 
-Destinataire envisagé : `josette.chiaroni@defenseurdesdroits.fr`, déléguée du Défenseur des droits en Haute-Corse.
+Destinataire : `josette.chiaroni@defenseurdesdroits.fr`, déléguée du Défenseur des droits en Haute-Corse. Courriel envoyé le **26 septembre 2026 à 15:47:36 CEST**. Trace Gmail : `1a0ddf8ba0771c8b`.
 
-Objet candidat :
+Objet envoyé :
 
 > **Saisine — effectivité des droits et continuité administrative**
 
-Corps candidat :
+Corps envoyé :
 
 > Madame la Déléguée,
 >
 > Je vous saisis, en votre qualité de déléguée du Défenseur des droits en Haute-Corse, d'une difficulté que je souhaite voir examinée sous l'angle de l'effectivité des droits et des recours.
 >
-> La question est simple dans son principe : lorsqu'un droit ou une voie de recours existe formellement, encore faut-il que la succession des interlocuteurs, des transmissions et des procédures permette réellement de l'exercer sans que l'essentiel se perde en chemin.
+> La question est simple dans son principe : lorsqu'un droit ou une voie de recours existe formellement, encore faut-il que la succession des interlocuteurs, des transmissions et des procédures permette réellement de l'exercer, sans que l'essentiel se perde en chemin.
 >
-> Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai ainsi entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin de pouvoir reconstituer avec précision la réception et la transmission de certains éléments de mon dossier. Ces démarches sont encore en cours.
+> Dans le contexte de ma candidature à l'élection sénatoriale du 27 septembre 2026, j'ai entrepris plusieurs démarches auprès de la préfecture de Haute-Corse afin de pouvoir reconstituer avec précision la réception et la transmission de certains éléments de mon dossier. Ces démarches sont encore en cours.
 >
-> Je souhaite, dans un premier temps, limiter cette saisine à ce cas récent et précisément documentable. Je vous serais reconnaissant de bien vouloir m'indiquer la référence sous laquelle elle sera enregistrée, ainsi que la manière la plus simple de poursuivre ensuite nos échanges et de vous transmettre les compléments utiles, de préférence par courrier électronique.
+> Je souhaite, dans un premier temps, limiter cette saisine à ce cas récent et précisément documentable. Je vous serais reconnaissant de bien vouloir m'indiquer la référence sous laquelle elle sera enregistrée, ainsi que la manière la plus simple de poursuivre nos échanges et de vous transmettre les compléments utiles, de préférence par courrier électronique.
 >
-> À ce stade, il me semblerait préférable que nous puissions d'abord préciser ensemble le périmètre de la réclamation avant toute démarche auprès d'un tiers ou toute orientation vers une médiation. De même, si le dossier devait être transmis, requalifié, scindé ou traité selon une modalité différente, je vous serais obligé de bien vouloir m'en informer au préalable, afin que je puisse en comprendre la portée et, lorsqu'il y a lieu, donner mon accord en connaissance de cause.
+> Avant qu'une démarche ne soit entreprise auprès d'un tiers, ou qu'une médiation ne soit envisagée, il me semblerait souhaitable que nous puissions en préciser ensemble l'objet, le périmètre et les conséquences. De même, si le dossier devait être transmis, requalifié, scindé ou orienté vers une autre modalité de traitement, je vous serais reconnaissant de m'en informer afin que je puisse en mesurer la portée et, lorsque cela est nécessaire, donner mon accord en connaissance de cause.
 >
-> Cette démarche est naturellement sans préjudice des autres voies de droit et demandes actuellement en cours.
+> Cette saisine est naturellement sans préjudice des autres voies de droit et démarches actuellement en cours.
 >
-> Je tiens par ailleurs une documentation publique de mes propres actes et écrits. Je veillerai bien entendu au respect de toute confidentialité ou protection particulière qui s'attacherait aux éléments que votre institution ou des tiers pourraient me communiquer ; je vous serais reconnaissant de me signaler, le cas échéant, les précautions particulières à observer.
+> Je conserve par ailleurs une documentation publique de mes propres actes et écrits. Je veillerai bien entendu au respect de toute confidentialité ou protection particulière qui s'attacherait aux éléments que votre institution ou des tiers pourraient me communiquer ; je vous serais reconnaissant de me signaler, le cas échéant, les précautions particulières à observer.
 >
 > Je peux naturellement vous adresser dès à présent les premiers justificatifs utiles.
 >
@@ -272,9 +272,9 @@ Corps candidat :
 > 1 cours Paoli  
 > 20250 Corte
 
-**État : draft seulement. Aucun envoi n'est autorisé ni effectué à ce stade.**
+**État : envoyé.** Aucun accusé nominatif ni numéro de dossier n'est encore documenté à ce stade.
 
-Le texte est volontairement conçu pour ouvrir le dossier sans demander immédiatement médiation, règlement amiable, réparation, transmission à un tiers ou requalification. Il réserve les autres voies et rend explicite la volonté de consentement granulaire.
+Le texte ouvre le dossier sans demander immédiatement médiation, règlement amiable, réparation, transmission à un tiers ou requalification. Il réserve les autres voies et rend explicite la volonté de consentement granulaire.
 
 ## 7.2 Capacité de raccordement institutionnel
 
@@ -325,7 +325,7 @@ Conséquences :
 
 ## P0 — immédiatement
 
-1. ouvrir **DDD-01** sous le thème du principe d'effectivité ;
+1. suivre **DDD-01**, désormais ouvert par courriel le 26/09/2026 sous le thème de l'effectivité ;
 2. conserver comme première couche le cas contemporain le plus simple ;
 3. poursuivre P26-GRASSE-01 et P26-CRPA-RGPD-01 ;
 4. adresser de nouvelles demandes de communication 2024 suffisamment précises pour reconstruire les branches CADA ;
