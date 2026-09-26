@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — registre médiatique"
 description: "Registre factuel des représentations publiques, contacts presse, rectifications et cas de comparaison relatifs à la candidature sénatoriale 2026 de Haute-Corse."
-date: "2026-09-21"
+date: "2026-09-26"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -37,7 +37,8 @@ source primaire / événement
 ## Fichiers
 
 - [`representations.yml`](representations.yml) — publications, formulations exactes, écarts observables et cas de comparaison ;
-- [`contacts.yml`](contacts.yml) — courriels, brouillons, invitations et canaux presse retrouvés.
+- [`contacts.yml`](contacts.yml) — courriels, brouillons, invitations et canaux presse retrouvés ;
+- [`chronologie_mentions_publiques_2026-09.md`](chronologie_mentions_publiques_2026-09.md) — chronologie sourcée des mentions publiques retrouvées depuis le 11 septembre 2026.
 
 ## Qualifications
 
