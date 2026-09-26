@@ -1,11 +1,11 @@
 ---
 title: Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse
 subtitle: Dossier décliné en formats 1, 2, 4, 8 et 16 pages
-version: '0.2'
+version: '0.3'
 author: Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A.
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte
 date: '2026-05-28'
-updated_at: '2026-09-15'
+updated_at: '2026-09-26'
 status: transmitted — contribution écrite envoyée le 2026-05-28 et mentionnée dans le rapport n° 2865
 transmission_status: executed
 transmission_date: '2026-05-28'
@@ -25,7 +25,7 @@ source_corpus:
   - barons-Mariani/research/autonomia/grammaire_autonomie_de_capacite.md
   - cogentia/research/self_contained_documents.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
-last_stamped_at: 2026-09-15T00:00:00.000Z
+last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
 document_kind: research-paper
 visibility: public
@@ -57,6 +57,8 @@ provenance:
 > Le corps ci-dessous est conservé comme **trace historique du dossier préparé et transmis le 28 mai 2026**. Les formulations prospectives qu'il contient (« version recommandée pour transmission », « suite de travail recommandée », etc.) décrivent l'état préparatoire du document à cette date et ne doivent plus être lues comme le statut courant de la transmission.
 
 Document contemporain lié : [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md).
+
+**Continuation documentaire — 26 septembre 2026.** La filiation de cette contribution est désormais prolongée par l’[Amendement d’effectivité — version parlementaire candidate et note de justification](autonomia/amendement_effectivite_article_72-5.md), publié en version `0.4-rc4` au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`. Cette continuation ne modifie pas rétroactivement le texte transmis le 28 mai : elle documente une transformation ultérieure de l’idée d’« autonomie de capacité » en proposition ciblée de reformulation du futur article 72-5. Aucun lien causal avec le texte adopté par l’Assemblée nationale, ni aucun soutien parlementaire à cette proposition ultérieure, n’est présumé.
 
 **Destinataires indiqués dans l'état préparatoire :** M. le président Florent Boudié, commission des Lois de l'Assemblée nationale ; service de la commission des Lois ; personnes en copie utiles.
 
