@@ -1,9 +1,9 @@
 ---
 title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
-subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité et préparation post-scrutin — état au 26 septembre 2026"
+subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-26"
-version: "1.10"
+date: "2026-09-27"
+version: "1.11"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -28,6 +28,11 @@ source_documents:
   - "identity/public-identity-registry.md"
   - "identity/representations/README.md"
   - "research/autonomia/amendement_effectivite_article_72-5.md"
+  - "research/principe_effectivite.md"
+  - "research/responsabilite_effectivite.md"
+  - "projects/capable/README.md"
+  - "projects/capable/public-claims.md"
+  - "projects/capable/reality-tests/capable-2026-09-27-baseline.md"
   - "projects/suicide-corse/README.md"
   - "projects/suicide-corse/corpus.yml"
   - "research/traceabilite_des_actes.md"
@@ -413,6 +418,101 @@ mais abandonne les formulations antérieures centrées sur les « habilitations 
 **Statut exact :** proposition publique et versionnée, issue de plusieurs cycles de revue adverse ; **aucun dépôt ni adoption parlementaire n’est établi** à ce stade.
 
 La filiation avec les travaux de mai est documentée sans présumer d’une influence causale : la contribution C.O.R.S.I.C.A. a été transmise le 28 mai 2026 et mentionnée parmi les contributions écrites du rapport n° 2865. Florent Boudié, rapporteur de ce texte à l’Assemblée nationale, est par ailleurs l’auteur de l’amendement CL48 ayant fait évoluer la rédaction relative à la consultation des électeurs corses. Ces faits établissent un canal parlementaire antérieur ; ils ne démontrent aucun soutien à la proposition publiée le 26 septembre.
+## 27 septembre 2026 — naissance publique du mouvement Capable
+
+Le **27 septembre 2026 à 12:01**, Jean Hugues Noël Robert annonce publiquement sur X la naissance du mouvement **Capable**.
+
+Source publique :
+
+https://x.com/BaronsMariani/status/2104149309168169078
+
+Le texte publié associe explicitement :
+
+```text
+Capable
+→ Principe d'effectivité
+→ Liberté, Égalité, Fraternité... effectives
+→ Autonomie de Capacité
+→ #Suvranu
+```
+
+Cette annonce constitue la **première proclamation publique documentée du mouvement sous ce nom**.
+
+Elle ne doit pas être confondue avec le statut de la candidature sénatoriale 2026 :
+
+```text
+candidature sénatoriale 2026
+≠
+candidature Capable rétroactive
+
+mouvement Capable annoncé le 27 septembre
+≠
+annonce automatique d'une candidature électorale future
+```
+
+Le dossier conserve donc l'étiquette sénatoriale historiquement déclarée **« Le Petit Parti - A Voce »** et traite Capable comme un fait public postérieur, relié doctrinalement mais distinct juridiquement et électoralement.
+
+### Formulation canonique du Principe d'effectivité
+
+Le post X contient la formulation :
+
+> « une loi ne **faut** que par ses effets »
+
+Le Corpus conserve cette trace **exactement telle qu'elle a été publiée**. Il la qualifie comme une coquille apparente au regard de la formule canonique, déjà stabilisée dans les documents doctrinaux :
+
+> **Une loi ne vaut que par ses effets.**
+
+Cette distinction est volontaire :
+
+```text
+trace publique originale
+≠
+formulation canonique
+≠
+correction publique ultérieure éventuelle
+```
+
+➡️ [Registre des proclamations publiques de Capable](../../projects/capable/public-claims.md)
+
+### Ce que signifie « Capable »
+
+Dans le Corpus, *capable* ne constitue pas un jugement sur la valeur ou la compétence des personnes. Le terme désigne une propriété recherchée des **systèmes** : ouvrir des possibles, les rendre effectivement accessibles et exerçables, rendre leurs effets observables et permettre aux personnes concernées de contrôler et corriger ce qui les organise.
+
+La question directrice est :
+
+> **Qu'est-ce qu'un système ouvre réellement comme possibles, qui peut les transformer en capacités, quels effets leur exercice produit-il, et qui peut contrôler et corriger le dispositif ?**
+
+Le mouvement est donc immédiatement soumis à son propre test. Un **baseline contradictoire** a été figé le jour de l'annonce afin que ses critères de réussite ou d'échec ne soient pas reconstruits après coup.
+
+➡️ [Capable — point d'entrée](../../projects/capable/README.md)  
+➡️ [Capable Test](../../projects/capable/capable-test.md)  
+➡️ [Reality Test baseline du 27 septembre 2026](../../projects/capable/reality-tests/capable-2026-09-27-baseline.md)
+
+### Principe et responsabilité d'effectivité
+
+Le Principe d'effectivité pose la question de ce qu'une norme ou une politique produit **réellement**.
+
+La **Responsabilité d'effectivité** complète cette grille en demandant ce qui doit se passer lorsqu'un écart significatif devient connu ou raisonnablement connaissable et qu'une autorité dispose effectivement du pouvoir de correction.
+
+La formule de travail est :
+
+> **Une loi répond de ses effets.**
+
+Elle ne signifie ni obligation absolue de résultat ni faute automatique. Elle organise une chaîne de réexamen :
+
+```text
+effet
+→ signal
+→ connaissance / connaissabilité
+→ autorité capable
+→ délai raisonnable
+→ réexamen
+→ correction, maintien motivé ou abandon
+```
+
+➡️ [Principe d'effectivité](../principe_effectivite.md)  
+➡️ [Responsabilité d'effectivité](../responsabilite_effectivite.md)
+
 ## Pourquoi ce dossier dépasse le seul contentieux sénatorial
 
 Le dossier distingue strictement deux niveaux.
@@ -704,6 +804,15 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 - [Projet *Suicide Corse* — enquête et publication réactive](../../projects/suicide-corse/README.md)
 - [Manifeste courant des sources et chantiers](../../projects/suicide-corse/corpus.yml)
 - [Site public et appel à témoignages](https://suicidecorse.baronsmariani.org)
+
+### Pour Capable et le Principe d’effectivité
+
+- [Capable — point d'entrée](../../projects/capable/README.md)
+- [Registre des proclamations publiques](../../projects/capable/public-claims.md)
+- [Capable Test](../../projects/capable/capable-test.md)
+- [Reality Test baseline — 27 septembre 2026](../../projects/capable/reality-tests/capable-2026-09-27-baseline.md)
+- [Principe d'effectivité](../principe_effectivite.md)
+- [Responsabilité d'effectivité](../responsabilite_effectivite.md)
 
 ### Pour ce que la candidature entendait présenter
 
