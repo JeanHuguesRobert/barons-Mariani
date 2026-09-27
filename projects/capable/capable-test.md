@@ -223,6 +223,29 @@ La Fraternité effective cherche le **non-abandon capacitaire sans dépendance c
 
 Ces trois formulations sont désormais des concepts doctrinaux sources du Corpus ; elles demeurent des grilles capacitaires et ne prétendent pas constituer des définitions juridiques exhaustives de la devise.
 
+## Test de tension LEF
+
+➡️ [Tensions entre Liberté, Égalité et Fraternité effectives](../../research/tensions_liberte_egalite_fraternite_effectives.md)
+
+Les trois axes ne sont pas additionnés dans un score unique.
+
+Pour une proposition ou un dispositif, le test demande au minimum :
+
+1. quels sujets gagnent ou perdent des capacités ;
+2. sur quel axe — Liberté, Égalité, Fraternité ;
+3. à quel horizon temporel ;
+4. si la perte est réversible ;
+5. s’il existe une alternative moins dommageable ;
+6. quels droits ou garanties bornent l’arbitrage ;
+7. qui a mandat pour décider ;
+8. qui peut contester ;
+9. quels effets doivent être observés ;
+10. quelle condition déclenche correction, suspension ou abandon.
+
+> **Avant d’arbitrer entre des pertes, chercher un terrain où les capacités deviennent compatibles.**
+
+Le résultat attendu n’est pas un classement automatique mais une carte explicite des tensions, des sujets concernés, des dépendances, des alternatives et des mécanismes de correction.
+
 ## Test Booster
 
 Avant une intervention lourde, le Capable Test pose une question supplémentaire :

@@ -242,6 +242,33 @@ Maxime selon laquelle une norme ne peut être correctement appréciée à partir
 
 ---
 
+## Triangle LEF / tensions capacitaires
+
+**Type:** multi-axis evaluative framework  
+**Scope:** Individual → Collective → Institutional  
+**Status:** Working  
+
+**Short definition:**  
+Cadre d’analyse des tensions entre Liberté, Égalité et Fraternité effectives. Les trois axes sont évalués séparément et conjointement, sans score synthétique : un gain sur un axe ne compense pas automatiquement une perte grave sur un autre.
+
+**Related concepts:**
+- Liberté effective
+- Égalité effective
+- Fraternité effective
+- Principe d’effectivité
+- Booster Principle
+- Méthode des terrains féconds
+- Machine à Explorer
+- Machine à Rendre Capable
+- corrigibilité
+
+**Reference documents:**
+- `research/tensions_liberte_egalite_fraternite_effectives.md`
+- `research/principe_effectivite.md`
+- `projects/capable/capable-test.md`
+
+---
+
 ## Fraternité effective
 
 **Type:** relational-capability concept / evaluative dimension  

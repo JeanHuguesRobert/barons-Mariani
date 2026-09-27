@@ -100,20 +100,26 @@ Fraternité effective
 
 Les trois concepts disposent désormais de sources doctrinales. Le chantier suivant porte sur leurs **tensions et arbitrages réciproques**.
 
-## 8. Contrôle-capacité, traçabilité et anti-capture
+## 8. Tensions entre les trois axes
+
+➡️ [Tensions entre Liberté, Égalité et Fraternité effectives](../tensions_liberte_egalite_fraternite_effectives.md)
+
+Les trois axes sont distincts et peuvent entrer en tension. Le Corpus refuse de les réduire à un score unique : un gain de Liberté n’efface pas automatiquement une perte d’Égalité ou de Fraternité, et réciproquement. Lorsqu’un conflit subsiste, l’arbitrage doit être explicite, mandaté, contestable, observable et corrigible.
+
+## 9. Contrôle-capacité, traçabilité et anti-capture
 
 ➡️ [Traçabilité des actes](../traceabilite_des_actes.md)  
 ➡️ [Assistance non directive et Autonomie de Capacité](../autonomia/assistance_non_directive_capacitaire.md)
 
 Une capacité peut augmenter la puissance d’action tout en diminuant la souveraineté si elle dépend d’un système opaque, non contestable ou difficile à quitter. Le contrôle-capacité cherche au contraire à augmenter la capacité des sujets à comprendre, reconstruire, contester et corriger l’exercice du pouvoir.
 
-## 9. Démocratie capable
+## 10. Démocratie capable
 
 ➡️ [Démocratie capable](../democratie_capable.md)
 
 Une démocratie capable ne se contente pas d’ouvrir des espaces de parole. Elle doit pouvoir voir ce que ses décisions font, rendre lisible le pouvoir effectif et corriger ce qui ne fonctionne pas.
 
-## 10. Souveraineté civique / #Suvranu
+## 11. Souveraineté civique / #Suvranu
 
 ➡️ [Souveraineté, délégation et Agents Mandatés](../souverainete_delegation_agents_mandates.md)  
 ➡️ [Kudocracy](../kudocracy.md)
@@ -122,20 +128,20 @@ Une démocratie capable ne se contente pas d’ouvrir des espaces de parole. Ell
 
 Le concept de souveraineté individuelle est ici capacitaire, non constitutionnel : il ne signifie pas qu’un individu puisse s’attribuer l’exercice de la souveraineté nationale.
 
-## 11. Une Corse capable
+## 12. Une Corse capable
 
 ➡️ [Trail — Une Corse capable](une_corse_capable.md)
 
 La Corse constitue le premier terrain territorial systématique d’application de l’Autonomie de Capacité et de confrontation entre statut, capacités réelles, effets et contrôle démocratique.
 
-## 12. Capable
+## 13. Capable
 
 ➡️ [Capable — point d’entrée](../../projects/capable/README.md)  
 ➡️ [Carte doctrinale](../../projects/capable/doctrine.md)
 
 Capable est la projection civique et politique de cette grammaire. Il n’en devient pas la source : les documents doctrinaux conservent leur autonomie et leur provenance.
 
-## 13. Reality Cases et projections
+## 14. Reality Cases et projections
 
 ➡️ [Capable Test](../../projects/capable/capable-test.md)  
 ➡️ [Projections électorales](../../projects/capable/elections/README.md)

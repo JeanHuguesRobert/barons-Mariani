@@ -420,6 +420,8 @@ La définition source de **Fraternité effective** est maintenue dans [`fraterni
 
 > L’effectivité demande « est-ce praticable ? » ; la Fraternité effective ajoute « lorsque je ne peux plus seul, puis-je réellement être aidé sans cesser d’être principal ? ».
 
+La source [Tensions entre Liberté, Égalité et Fraternité effectives](tensions_liberte_egalite_fraternite_effectives.md) précise que les trois axes ne constituent ni un score unique ni un mécanisme automatique d’arbitrage. **La devise n’est pas un score ; c’est une boussole à trois axes.**
+
 Ces questions ne réduisent pas les trois termes à des indicateurs uniques et ne prétendent pas reconstruire leur régime juridique à partir de la seule devise constitutionnelle.
 
 Elles constituent une grille substantielle d’observation des effets.
