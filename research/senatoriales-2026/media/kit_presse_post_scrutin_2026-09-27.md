@@ -1,15 +1,15 @@
 ---
 title: "Sénatoriales 2026 — kit presse post-scrutin du 27 septembre"
-subtitle: "Gabarit pré-armé à activer après proclamation et matérialisation des actes"
+subtitle: "Kit actif après le scrutin : résultat observé, actes post-scrutin tracés séparément"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-26"
-status: "prepared — not yet activated"
+date: "2026-09-27"
+status: "active — partially materialized"
 language: "fr"
 license: "CC BY-SA 4.0"
 visibility: "public"
 document_role: "derived"
 document_kind: "press-kit"
-lifecycle_state: "prepared"
+lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 source_documents:
   - "../dossier_presse_2026-09.md"
@@ -26,11 +26,11 @@ review:
 
 ## Statut
 
-Ce document est préparé le **26 septembre 2026**, veille du scrutin.
+Ce document, préparé le **26 septembre 2026**, est **activé le 27 septembre après le scrutin**.
 
-Il contient des blocs destinés à être complétés **uniquement après** les événements correspondants.
+Le résultat électoral est désormais observé. Les autres blocs restent complétés uniquement lorsqu'une trace d'exécution existe.
 
-> **Aucun placeholder ci-dessous ne constitue un fait avant sa substitution par une trace vérifiée.**
+> **Un résultat observé ne transforme pas automatiquement les actes post-scrutin préparés en actes réalisés.**
 
 ## 1. Les six faits à publier en premier
 
@@ -38,12 +38,14 @@ Il contient des blocs destinés à être complétés **uniquement après** les �
 
 | Champ | Valeur |
 |---|---|
-| Élu proclamé en Haute-Corse | `[NOM]` |
-| Résultat | `[VOIX / EXPRIMÉS / INSCRITS si disponibles]` |
-| Heure / source de proclamation | `[HEURE + SOURCE]` |
-| Interventions parlementaires post-scrutin | `[NOMBRE + DESTINATAIRES + HEURES]` |
-| Requête au Conseil constitutionnel | `[CANAL + HEURE DE MATÉRIALISATION + HEURE DE DÉPÔT/TRANSMISSION]` |
-| Version publique de la requête | `[LIEN PERMANENT + COMMIT + EMPREINTE]` |
+| Élu en Haute-Corse | **Paulu Santu Parigi, réélu** |
+| Résultat observé | **442 voix** pour Paulu Santu Parigi ; **88 voix** pour Nicolas Battini |
+| Collège électoral | **616 électeurs sénatoriaux** |
+| Première publication médiatique vérifiée | Corse Net Infos, **27 septembre 2026 à 11:07** |
+| Heure officielle exacte de proclamation | `UNKNOWN` à ce stade documentaire |
+| Interventions parlementaires post-scrutin | `À DOCUMENTER APRÈS ENVOI EFFECTIF` |
+| Requête au Conseil constitutionnel | `À DOCUMENTER APRÈS ACTE EFFECTIF` |
+| Version publique de la requête | `À AJOUTER APRÈS MATÉRIALISATION` |
 
 ## 2. Commentaire très court — gabarit
 
@@ -53,7 +55,7 @@ Ce texte doit être adapté aux faits observés et ne doit pas être utilisé po
 
 ## 3. Version journaliste — 30 secondes
 
-> **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom Baron Mariani, avait déposé le 11 septembre une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé par le Tribunal administratif de Bastia le 14 septembre. Après le scrutin du 27 septembre, il [A FORMULER SELON ACTE RÉALISÉ] et publie le dossier documentaire correspondant. Il relie ce cas à une proposition constitutionnelle antérieure au contentieux : l’Autonomie de Capacité et l’amendement d’effectivité à l’article 72-5.**
+> **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom Baron Mariani, avait déposé le 11 septembre une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé par le Tribunal administratif de Bastia le 14 septembre. Le 27 septembre, Paulu Santu Parigi est réélu avec 442 voix contre 88 à Nicolas Battini. Le dossier public conserve séparément ce résultat, le contentieux de la déclaration non enregistrée et les propositions doctrinales relatives à l’Autonomie de Capacité et à l’effectivité.**
 
 ## 4. Angle documentaire
 
@@ -83,7 +85,7 @@ Le point historique recherché est le suivant :
 - **11 septembre 2026** — déclaration de candidature déposée ;
 - **14 septembre 2026** — refus d’enregistrement par le Tribunal administratif de Bastia ;
 - **26 septembre 2026** — publication canonique de l’amendement d’effectivité **v0.4-rc4** : forme parlementaire candidate, reformulation de l’alinéa organique existant, mise en œuvre effective + évaluation périodique + Liberté-Égalité-Fraternité ;
-- **27 septembre 2026** — `[RÉSULTAT + ACTES POST-SCRUTIN À INSÉRER]`.
+- **27 septembre 2026** — Paulu Santu Parigi réélu avec **442 voix**, Nicolas Battini **88 voix** ; annonce publique du mouvement **Capable** à 12:01 ; autres actes post-scrutin à enregistrer uniquement après leur exécution.
 
 ## 6. Liens à envoyer aux journalistes
 
@@ -93,8 +95,10 @@ Le point historique recherché est le suivant :
 4. [Matrice des connaissances et inconnues](../investigation/knowledge-matrix.md)
 5. [Amendement d’effectivité — « amendement Baron Mariani »](../../autonomia/amendement_effectivite_article_72-5.md)
 6. [Contribution C.O.R.S.I.C.A. à la commission des Lois](../../contribution_commission_lois_autonomie_capacite.md)
-7. `[REQUÊTE PUBLIQUE — À AJOUTER APRÈS MATÉRIALISATION]`
-8. `[MANIFESTE DE DÉPÔT / ARCHIA — À AJOUTER APRÈS MATÉRIALISATION]`
+7. [Capable — point d'entrée](../../../projects/capable/README.md)
+8. [Reality Test baseline de Capable](../../../projects/capable/reality-tests/capable-2026-09-27-baseline.md)
+9. `[REQUÊTE PUBLIQUE — À AJOUTER APRÈS MATÉRIALISATION]`
+10. `[MANIFESTE DE DÉPÔT / ARCHIA — À AJOUTER APRÈS MATÉRIALISATION]`
 
 ## 7. Règles de publication dimanche
 
