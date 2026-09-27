@@ -335,3 +335,15 @@ responsibility_effectivity_projection_2026_09_27:
     - "Was the corrective window still open?"
     - "What reaction followed within a reasonable time?"
   guardrail: "Informed persistence is a candidate qualification, never automatic proof of individual or institutional fault."
+
+
+pre_freeze_coherence_audit_2026_09_27:
+  status: "active pre-freeze control"
+  source: "../audits/2026-09-27-pre-freeze-n3.md"
+  checks:
+    - "Marie-Louise is not projected as a posthumous supporter or source of Capable."
+    - "The 2026 senatorial candidacy is not retroactively relabeled Capable."
+    - "Effectivity doctrine remains distinct from positive law and from political projection."
+    - "Capable is treated as a new public Reality Test, not as proof that the doctrine is correct."
+    - "Source-locked historical chapters remain unchanged."
+    - "The X wording faut is preserved as the public trace; vaut remains the canonical Corpus formulation."
