@@ -35,21 +35,31 @@ Une élection est ici traitée comme une **projection située** d’un corpus do
 Elle ne doit pas provoquer la duplication complète de la doctrine.
 
 ```text
-doctrine Capable
+sources doctrinales
         ↓
-mandat et institution considérés
+institution et mandat visés
         ↓
-compétences juridiques et capacités réelles
+pouvoirs formels
         ↓
-Machines à Empêcher observées
+capacités réellement existantes
         ↓
-capacités susceptibles d'être créées
+écarts d'effectivité
         ↓
-offre électorale située
+Machines à Empêcher
         ↓
-interaction avec le Réel
+Boosters candidats
         ↓
-résultats / objections / blocages / apprentissages
+Machines à Rendre Capable
+        ↓
+propositions situées
+        ↓
+effets attendus + effets à surveiller
+        ↓
+contrôle-capacité
+        ↓
+mécanismes de correction
+        ↓
+Reality Tests
         ↓
 retour au Corpus
 ```
@@ -61,6 +71,9 @@ retour au Corpus
 3. Les compétences réelles du mandat visé doivent être explicitées.
 4. Les hypothèses politiques ou calendaires doivent rester identifiées comme telles.
 5. Les résultats et obstacles rencontrés sont réinjectés dans le Corpus comme observations, sans validation automatique de la doctrine.
+6. Toute projection doit indiquer avant l’élection **ce qui permettrait de constater son ineffectivité**.
+7. Elle doit expliciter les principaux **effets indésirables ou distributifs à surveiller**.
+8. Elle doit prévoir, lorsque le mandat le permet, des **mécanismes de correction, de réexamen ou d’abandon** plutôt que présumer la réussite de la proposition.
 
 ## Projection institutionnelle transversale
 
