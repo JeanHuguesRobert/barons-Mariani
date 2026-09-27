@@ -6,7 +6,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 license: CC BY-SA 4.0
 date: '2026-07-10'
 last_modified_at: '2026-09-27'
-version: '0.3'
+version: '0.4'
 status: working-note
 document_role: source
 document_kind: doctrinal-note
@@ -177,7 +177,7 @@ Without return, there is only wandering. Without a logbook, experience disappear
 
 > Every mission needs its Ithaca: the place where experience returns and becomes transmissible memory.
 
-### 4.2 Impossibility as an early return
+### 4.1 Impossibility as an early return
 
 An Odyssey into The Possible should not confuse persistence with rationality.
 When a decisive constraint establishes that a branch cannot be traversed, the
@@ -214,7 +214,30 @@ For agentic continuations, the Corpus **Accessible Inputs Gate** is one concrete
 instance: if the next handler cannot retrieve an indispensable artifact, the
 specific handoff is infeasible and must be repaired, copied, rerouted or marked
 blocked before the Odyssey continues.
-### 4.1 The Two-Odyssey Reality Test: operational criterion of the Learning Computer
+
+### 4.3 Necessary means as provisioning
+
+An explorer who discovers that a route needs water, a vessel, a map, a permit,
+a tool, a specialist, or a missing artifact has not necessarily discovered an
+impossible route. The next rational question is whether the necessary means can
+be provisioned.
+
+```text
+mission remains valuable
+→ indispensable means missing
+→ explore admissible provisioning paths
+→ apply Measured Risk
+→ acquire / create / substitute / ask for assistance
+→ continue mission
+```
+
+> **Better to detect the Impossible early; better also to obtain the Necessary
+> before mistaking its absence for impossibility.**
+
+Provisioning remains governed. Necessity does not authorize bypass, unbounded
+exposure, or transfer of loss to another Principal. The Odyssey may have to
+return `BLOCKED` when no admissible provisioning path exists.
+### 4.2 The Two-Odyssey Reality Test: operational criterion of the Learning Computer
 
 In *The Network is the Learning Computer* ([`the_network_is_the_learning_computer.md`](the_network_is_the_learning_computer.md#L1323-L1380)), the Odyssey grammar moves from an epistemological metaphor to the **decisive empirical Reality test** of machine learning:
 
@@ -620,6 +643,7 @@ That is the challenge: no longer merely endure the world as it is, but learn to 
 
 ## 19. Changelog
 
+- `v0.4` (2026-09-27) — Adds early impossibility detection and its reciprocal Necessary Means provisioning principle; fixes §4 subsection ordering.
 - `v0.2+` (2026-09-18) — Adds a compact bridge to the prior-art-friendly exploration principle defined in the Potentics Exploration Ontology.
 - `v0.2` (2026-09-05) — Integrates the Two-Odyssey Reality Test ($P_A \to \text{Experience} \to \text{Return} \to \text{Assimilation} \to \text{ChangedBehavior}(P_B)$) as the operational success criterion of the Learning Computer in the rational exploration of The Possible (Issue #55).
 - `v0.1` (2026-07-10) — Initial working note on mythic grammar, stigmergy, mission, return, and synthesis in the rational exploration of The Possible.
