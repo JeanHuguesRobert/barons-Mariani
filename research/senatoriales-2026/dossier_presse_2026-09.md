@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-27"
-version: "1.13"
+version: "1.14"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -97,27 +97,47 @@ Sources de contrôle :
 - Ministère de l'Intérieur, page Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Sénat, page Haute-Corse : https://senatoriales2026.senat.fr/departement/2B-haute-corse
 
-### Attention sur l'horodatage Corse Net Infos
+### Chronologie de publication du résultat
 
-La page de Corse Net Infos affiche **11:07** comme heure de publication, tout en décrivant le résultat final du scrutin. Selon l'observation contemporaine de Jean Hugues Noël Robert, les résultats ont été proclamés **nettement plus tard**. Corse-Matin publie pour sa part le résultat à **12:09**.
-
-Le Corpus traite donc **11:07 comme un horodatage éditorial de la page, non comme une heure fiable de proclamation**.
-
-La règle devient :
+Les métadonnées Atom de Corse Net Infos permettent désormais de distinguer deux temps :
 
 ```text
-heure affichée par un média
-≠
-heure de proclamation
+published = 27 septembre 2026 à 11:07
+updated   = 27 septembre 2026 à 12:19
+```
+
+Le contenu actuellement servi par Corse Net Infos contient le résultat final **442–88**, mais ce contenu a donc été modifié après l'horodatage initial de 11:07. En conséquence, **11:07 ne peut pas être utilisé pour dater la mise à disposition publique du résultat final**.
+
+Corse-Matin publie pour sa part à **12:09** un bloc complet donnant :
+
+- 616 inscrits ;
+- 606 votants ;
+- 36 blancs ;
+- 40 nuls ;
+- 530 exprimés ;
+- 442 voix pour Paulu Santu Parigi ;
+- 88 voix pour Nicolas Battini.
+
+À ce stade documentaire, **12:09 constitue donc la première trace publique horodatée solide retrouvée du résultat complet**. Cette heure est cohérente avec la mise à jour de Corse Net Infos à 12:19, dix minutes plus tard.
+
+La chronologie retenue est :
+
+```text
+11:07 Corse Net Infos
+= horodatage initial de l'objet éditorial
+≠ preuve de disponibilité du résultat final
 
 12:09 Corse-Matin
-= trace publique horodatée du résultat
+= première trace publique horodatée retrouvée du résultat complet
+
+12:19 Corse Net Infos
+= mise à jour Atom de l'article contenant le résultat final
 
 heure officielle de proclamation
 = encore à établir par une source primaire
 ```
 
-Cette divergence est conservée comme anomalie de chronologie médiatique, sans inférence sur son origine ou son intention.
+Cette séquence permet de situer la diffusion publique du résultat **autour de 12:09**, sans transformer 12:09 en heure officielle de proclamation tant qu'une source primaire ne l'établit pas.
 
 Le dossier post-scrutin continue d'appliquer la même règle :
 
