@@ -79,6 +79,19 @@ exprime le premier niveau de cette exigence, sans l’épuiser : l’indépendan
 - [Généalogie](genesis.md)
 - [Doctrine — carte des sources](doctrine.md)
 - [Capable Test](capable-test.md)
+
+```text
+Capable Test v0.3
+= effectivité
++ Liberté effective
++ Égalité effective
++ Fraternité effective
++ souveraineté sur la capacité
++ tensions LEF
++ corrigibilité
+```
+
+Le test ne fournit ni score global ni verdict politique automatique. Il produit une carte des capacités, effets, asymétries, dépendances, tensions et possibilités de correction.
 - [Projections électorales](elections/README.md)
 - [Trail public Capable](../../research/trails/capable.md)
 
