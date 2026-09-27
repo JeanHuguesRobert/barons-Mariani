@@ -4,7 +4,7 @@ subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publ
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-last_modified_at: "2026-09-26"
+last_modified_at: "2026-09-27"
 version: "0.2"
 status: "working-paper"
 language: "fr"
@@ -114,9 +114,67 @@ capacité effective d'agir               Une Corse capable
 
 Le parallélisme porte sur les **relations capacitaires qui survivent au changement d'échelle**. Il ne transfère jamais une psychologie individuelle au territoire.
 
-À l'échelle politique et électorale, le Corpus documente une généalogie plus longue que le seul cycle 2026 : expériences de démocratie numérique et de corrigibilité (SimpliWiki / Kudocracy), passage au Reality Test électoral en 2017, continuités électorales ultérieures, puis formalisation de l'Autonomie de Capacité et de l'horizon **« Une Corse capable »**. Une éventuelle projection nationale sous le nom **« France Capable »** est, au 20 septembre 2026, un **nom candidat à documenter**, non une doctrine séparée ni une organisation juridiquement constituée.
+À l'échelle politique et électorale, le Corpus documente une généalogie plus longue que le seul cycle 2026 : expériences de démocratie numérique et de corrigibilité (SimpliWiki / Kudocracy), passage au Reality Test électoral en 2017, continuités électorales ultérieures, puis formalisation de l'Autonomie de Capacité et de l'horizon **« Une Corse capable »**.
+
+Au **20 septembre 2026**, **« France Capable »** n'était encore qu'un nom candidat à documenter. Le Reality Test nominal a depuis produit une bifurcation observable : le **27 septembre 2026 à 12:01**, le nom effectivement annoncé publiquement pour le mouvement est **« Capable »**. Le Corpus conserve les deux états au lieu de réécrire le premier rétrospectivement :
+
+```text
+20 septembre
+« France Capable »
+= hypothèse / nom candidat
+
+27 septembre
+« Capable »
+= mouvement publiquement annoncé
+```
+
+Cette évolution documente une continuité doctrinale, non une intention politique supposée dès les textes antérieurs. Les candidatures et initiatives antérieures conservent leur identité historique propre.
 
 ---
+
+## 0.1 bis. De Rendre Capable à Capable
+
+La naissance publique de Capable permet désormais de documenter une chaîne généalogique supplémentaire :
+
+```text
+Machine à Empêcher
+→ Machine à Explorer
+→ Machine à Rendre Capable
+→ Autonomie de Capacité
+→ Principe d'effectivité
+→ Responsabilité d'effectivité
+→ Capable
+```
+
+Cette chaîne ne signifie pas que le mouvement ou son nom étaient contenus intentionnellement dans les premiers textes. Elle décrit une **généalogie reconstruite depuis des traces datées**.
+
+La boucle devient aussi réciproque :
+
+```text
+Corpus
+→ doctrine
+→ projection politique publique
+→ effets observables
+→ Reality Tests
+→ correction éventuelle du Corpus
+```
+
+Ainsi, *Suicide Corse* n'est pas un manifeste de Capable. Il constitue l'un des laboratoires documentaires et méthodologiques dont certaines idées ont contribué à la projection Capable ; inversement, Capable devient désormais un objet public susceptible de tester ces idées dans le Réel.
+
+### Test temporel complémentaire — Responsabilité d’effectivité
+
+La [Responsabilité d’effectivité](../../research/responsabilite_effectivite.md) ajoute un contrôle temporel à toute fermeture institutionnelle candidate :
+
+```text
+effet significatif
+→ détectabilité
+→ connaissance / connaissabilité
+→ autorité disposant du pouvoir de correction
+→ fenêtre temporelle encore utile
+→ réaction ou absence de réaction
+```
+
+La notion de **persistance informée** ne constitue jamais, à elle seule, une preuve de faute. Elle n'est examinable que si chacun de ces maillons est documenté ou explicitement qualifié. Cette discipline vaut particulièrement pour la continuité de protection, les recours et les pertes de chance étudiés dans le projet.
 
 ## 0.2. Longitudinalité : suivre les capacités avant de suivre les procédures
 

@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-26"
+last_modified_at: "2026-09-27"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-## État courant — 26 septembre 2026
+## État courant — 27 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
@@ -72,6 +72,26 @@ Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobe
 Le n°3 doit désormais être **bouclé le lundi 28 septembre 2026 au matin**. Son sommaire et sa longueur restent ouverts jusqu'au freeze : la fin de semaine est assumée comme une **phase magazine à forte intensité**, capable d'intégrer les réponses du Réel jusqu'au dernier moment sans modifier les éditions déjà gelées. Il collecte le delta postérieur au n°2 sans présumer de sa composition. Parmi les entrées désormais enregistrées figure le **delta sénatorial du 25 septembre** : réception effective du jugement du TA, résolution de l'heure 15:49 pour la note en délibéré, résidus documentaires persistants, relance du greffe et demande formelle d'accès aux traces auprès de la préfecture.
 
 Principe : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
+
+### 27 septembre — Capable devient un fait public
+
+Le **27 septembre 2026 à 12:01**, le mouvement [**Capable**](../../projects/capable/README.md) est annoncé publiquement sur X. Cette annonce constitue un nouveau delta du Corpus : une grammaire jusque-là principalement doctrinale et expérimentale — Autonomie de Capacité, Principe d’effectivité, Liberté–Égalité–Fraternité effectives, `#Suvranu` — possède désormais une projection politique publique nommée.
+
+Ce changement de statut doit rester précisément borné :
+
+```text
+mouvement publiquement annoncé
+≠
+candidature future annoncée
+≠
+adoption institutionnelle de la doctrine
+≠
+relecture partisane rétroactive de Marie-Louise
+```
+
+Pour *Suicide Corse*, l’intérêt n’est pas programmatique mais méthodologique : **Capable devient lui-même un Reality Test public** susceptible de produire de nouveaux effets, objections, écarts et corrections qui pourront revenir dans le Corpus.
+
+La nouvelle [Responsabilité d’effectivité](../../research/responsabilite_effectivite.md) fournit en parallèle une grille plus exigeante pour l’enquête longitudinale : distinguer effet, connaissabilité, autorité capable, fenêtre temporelle de correction et éventuelle persistance informée, sans transformer ces critères en conclusion automatique de faute.
 
 ### Axe longitudinal désormais prioritaire
 

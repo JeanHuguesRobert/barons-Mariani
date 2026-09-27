@@ -294,3 +294,44 @@ constitutional_effectivity_projection_2026_09_26:
     - "Possible sidebar or methodological bridge for n3."
     - "Useful for the longitudinal effectivity axis only if it clarifies the individual case rather than displacing it."
 
+
+
+capable_public_announcement_2026_09_27:
+  status: "observed public delta; candidate contextual source for n3"
+  occurred_at: "2026-09-27T12:01+02:00"
+  source_url: "https://x.com/BaronsMariani/status/2104149309168169078"
+  corpus_source: "../../../projects/capable/README.md"
+  responsibility_effectivity_source: "../../../research/responsabilite_effectivite.md"
+  established:
+    - "Capable is publicly announced as a movement."
+    - "The announcement explicitly links Capable to the Principe d'effectivite."
+    - "It states Liberté, Égalité, Fraternité effectives as a goal."
+    - "It links the movement to Autonomie de Capacité and #Suvranu."
+  does_not_establish:
+    - "an announced presidential candidacy"
+    - "a retroactive Capable label for earlier candidacies"
+    - "a legally constituted political party"
+    - "institutional adoption of the doctrine"
+    - "any political continuity attributable to Marie-Louise after her death"
+  inquiry_role:
+    - "Public Reality Test of a doctrine leaving the Corpus and entering the political world."
+    - "Future effects, objections and corrections may feed back into the Corpus."
+  editorial_use:
+    - "Late-delta candidate for n3; useful as a short methodological bridge rather than a programmatic manifesto."
+    - "Can document the sequence doctrine -> public projection -> future response of the Real."
+  anti_overreach:
+    - "Suicide Corse is not a Capable manifesto."
+    - "Do not rewrite source-locked historical chapters to make them foreshadow the movement."
+    - "Do not project Capable retroactively onto Marie-Louise's political history."
+
+responsibility_effectivity_projection_2026_09_27:
+  status: "methodological delta"
+  source: "../../../research/responsabilite_effectivite.md"
+  role: "Adds a temporal and institutional test to longitudinal closure/protection cases."
+  test:
+    - "When did the effect become detectable?"
+    - "When was it known or reasonably knowable?"
+    - "Which authority had real corrective capacity?"
+    - "Was the corrective window still open?"
+    - "What reaction followed within a reasonable time?"
+  guardrail: "Informed persistence is a candidate qualification, never automatic proof of individual or institutional fault."

@@ -140,6 +140,18 @@ sources:
     role: doctrinal-source
     required: false
 
+  - id: responsibility-effectivity
+    path: research/responsabilite_effectivite.md
+    role: doctrinal-source
+    required: false
+    note: "Formalizes the transition from observed effects to institutional re-examination: knowledge/knowability, capable authority, reasonable reaction time and informed persistence. Use as a test framework, never as automatic proof of fault."
+
+  - id: capable-public-movement
+    path: projects/capable/README.md
+    role: public-political-projection
+    required: false
+    note: "Capable was publicly announced as a movement on 2026-09-27 at 12:01. This establishes the movement's public naming and stated linkage to effectivity, effective Liberté-Égalité-Fraternité, Autonomie de Capacité and #Suvranu; it does not itself establish any future candidacy."
+
   - id: une-corse-capable-trail
     path: research/trails/une_corse_capable.md
     role: trail
@@ -291,8 +303,9 @@ open_gaps:
   - "Continue the catalogue raisonne and genealogy as independent source work before editorial projection."
   - "Add demographic and suicidology datasets after contradictory review."
   - "Document the conceptual/electoral genealogy from SimpliWiki/Kudocracy through 2017 and 2026 without overstating continuity."
-  - "If retained for future public use, create a dedicated source for the candidate national label 'France Capable'; do not infer an existing party or registered candidacy."
+  - "Preserve the documented nominal bifurcation: 'France Capable' was a candidate label on 20 September; 'Capable' became the publicly announced movement name on 27 September. Do not retroactively rename earlier candidacies or infer an unannounced future candidacy."
   - "Resolve post-judgment propagation of the 2026 senatorial status across Ministry, Senate and third-party projections; distinguish refusal of registration from any voluntary withdrawal, which is not currently documented."
   - "Resolve the 25 September senatorial access-to-traces probes: server-side receipt of the 17:57:55 email, prefecture-to-TA transmission history, exact Sagace letter identity/time, judgment availability time, hearing trace/clerk/minute access, and the documentary basis of the judgment's reference to prefecture requests."
   - "Test the 26 September handicap / insularity cross-scale analogy: identify what structural invariant survives and where the analogy breaks; preserve privacy and do not equate individual disability law with territorial constitutional law."
+  - "Open a longitudinal Reality Test of Capable itself: observe whether its public projections increase effective capacities, preserve sovereignty and correction, and react to adverse or unexpected effects. Condition of maturation: enough dated public traces to compare declared principles with observed effects without presuming success."
 

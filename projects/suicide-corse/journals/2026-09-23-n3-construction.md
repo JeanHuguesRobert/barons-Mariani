@@ -326,3 +326,82 @@ Pour le n°3, l'intérêt n'est pas de fabriquer une intention manquante. Il est
 C'est une ligne de **capacité électorale exercée**, compatible avec la question centrale du n°3 : comment un possible formel devient-il une capacité effectivement utilisée ?
 
 Le chapitre source-verrouillé `manuscript/15-la-parole-de-marie-louise.md` reste inchangé : l'absence de VOICE politique directe retrouvée pour expliquer la bascule de 2022 doit rester visible.
+
+
+## 27 septembre — naissance publique de Capable
+
+À **12:01**, Jean Hugues Noël Robert annonce publiquement sur X la naissance du mouvement **Capable**.
+
+Source publique :
+- https://x.com/BaronsMariani/status/2104149309168169078
+
+La formulation publiée associe explicitement :
+
+~~~text
+Capable
+→ Principe d'effectivité :
+  « une loi ne vaut que par ses effets »
+
+→ Liberté, Égalité, Fraternité... effectives
+
+→ Autonomie de Capacité, pas de Papier
+
+→ #Suvranu
+~~~
+
+Cette trace modifie le statut du nom dans le Corpus : **Capable n'est plus seulement une projection en cours de stabilisation ; c'est désormais un mouvement publiquement annoncé.**
+
+Elle ne documente en revanche ni une candidature présidentielle annoncée, ni une transformation rétroactive des candidatures antérieures en candidatures Capable.
+
+Pour *Suicide Corse n°3*, le fait est candidat comme delta de méthode et de trajectoire, non comme insertion programmatique automatique. La boucle observable devient :
+
+~~~text
+enquête
+→ concepts capacitaires
+→ Principe d'effectivité
+→ Responsabilité d'effectivité
+→ projection politique publique Capable
+→ réponses futures du Réel
+→ corrections éventuelles
+~~~
+
+Le projet doit conserver une frontière forte :
+
+> **Suicide Corse n'est pas un manifeste de Capable ; Capable est l'une des projections publiques issues d'un Corpus dont Suicide Corse constitue un laboratoire important.**
+
+Le chapitre historique source-locké "manuscript/05-machine-a-rendre-capable-de-vivre.md" reste inchangé. Son antériorité peut être citée comme continuité lexicale et conceptuelle, mais ne doit pas être réécrite pour faire croire qu'il annonçait le mouvement.
+
+### Nouvelle Continuation — Reality Test de Capable
+
+Une Continuation est ouverte dans le Corpus vivant :
+
+> **Tester Capable par ses propres critères d'effectivité.**
+
+Condition de maturation : disposer d'assez de traces publiques datées pour comparer les principes déclarés, les capacités effectivement ouvertes, les asymétries produites, les effets inattendus, la contestabilité et la capacité de correction.
+
+La doctrine n'est donc pas considérée comme validée par sa sortie dans le Réel ; cette sortie crée au contraire un nouvel objet d'observation.
+
+## 27 septembre — Responsabilité d'effectivité et longitudinalité
+
+La formalisation de "research/responsabilite_effectivite.md" ajoute une discipline utile à la continuité de protection et aux pertes de chance :
+
+~~~text
+effet
+→ détectabilité
+→ connaissance / connaissabilité
+→ autorité capable
+→ temps encore utile
+→ réaction
+~~~
+
+La notion de **persistance informée** ne peut être retenue que si ces maillons sont documentés. Elle ne doit jamais servir à convertir automatiquement un résultat négatif en faute ni une absence de correction en causalité relative au décès.
+
+Pour les bifurcations étudiées autour de Marie-Louise, les questions deviennent plus précises :
+
+- qui pouvait connaître quoi, et quand ?
+- qui avait réellement compétence et capacité d'agir ?
+- quelle fenêtre temporelle restait disponible ?
+- la correction était-elle encore possible ?
+- quelle réaction est effectivement documentée ?
+
+Cette extension renforce la règle anti-surinterprétation du projet au lieu de l'affaiblir.
