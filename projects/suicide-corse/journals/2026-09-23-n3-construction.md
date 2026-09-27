@@ -405,3 +405,25 @@ Pour les bifurcations étudiées autour de Marie-Louise, les questions deviennen
 - quelle réaction est effectivement documentée ?
 
 Cette extension renforce la règle anti-surinterprétation du projet au lieu de l'affaiblir.
+
+
+## 27 septembre — audit pré-freeze et baseline contradictoire
+
+Trois objets sont ajoutés avant le freeze candidat du n°3 :
+
+1. `projects/capable/public-claims.md` — registre versionné des proclamations publiques ;
+2. `projects/capable/reality-tests/capable-2026-09-27-baseline.md` — baseline contradictoire de Capable avant accumulation des résultats ;
+3. `projects/suicide-corse/audits/2026-09-27-pre-freeze-n3.md` — audit de cohérence éditoriale.
+
+Le registre conserve notamment la première annonce X exactement telle qu'elle a été publiée, y compris la coquille « une loi ne **faut** que par ses effets ». La formulation canonique du Corpus reste « une loi ne **vaut** que par ses effets ». Les deux niveaux ne sont pas fusionnés.
+
+Le baseline de Capable fixe avant résultats les hypothèses à tester, des signaux contraires, les dépendances initiales, des objections à préserver et les conditions de prochaine révision.
+
+L'audit n°3 vérifie avant freeze quatre séparations critiques :
+
+- Marie-Louise ≠ Capable posthume ;
+- sénatoriales 2026 ≠ candidature Capable rétroactive ;
+- doctrine d'effectivité ≠ droit positif ≠ projection politique ;
+- sortie dans le Réel ≠ validation de la doctrine.
+
+La priorité de fin de cycle devient donc la provenance et la cohérence plutôt que l'ajout de doctrine.
