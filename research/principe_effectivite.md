@@ -406,7 +406,11 @@ La définition source de **Liberté effective** est maintenue dans [`noyau_doctr
 
 ### Égalité
 
-Comment les capacités, obstacles, coûts, risques et bénéfices sont-ils distribués ? Une faculté formellement commune devient-elle réellement praticable par des sujets placés dans des situations différentes ?
+Comment l’accès, l’exercice, les coûts, les risques et les effets sont-ils distribués entre les sujets ? Des personnes placées dans des situations différentes disposent-elles réellement de facteurs de conversion suffisants pour accéder à des capacités comparables lorsque cela est pertinent ?
+
+La définition source de **l’Égalité effective** est maintenue dans [`egalite_effective.md`](egalite_effective.md).
+
+> L’effectivité demande « est-ce réellement praticable ? » ; l’Égalité effective ajoute « pour qui, dans quelles conditions et avec quels écarts ? ».
 
 ### Fraternité
 

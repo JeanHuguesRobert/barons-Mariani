@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.6
+version: 0.5.7
 date: '2026-09-27'
-review_status: v0.5.6 revises Liberté effective after the Principe d’effectivité, Capable Test v0.2 and #Suvranu; constructive review remains welcome
+review_status: v0.5.7 stabilizes Égalité effective as a capacitary distribution concept; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -125,6 +125,7 @@ Le document peut être lu à partir d’une grammaire simple :
 
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
 - **Liberté effective** : qualité de l’espace des options réellement accessibles et exerçables par un sujet, incluant sa capacité réelle à choisir entre elles, à ne pas les exercer, à différer, bifurquer ou revenir lorsque cela est possible.
+- **Égalité effective** : distribution comparée de l’accès et de l’exercice des capacités effectives, en tenant compte des différences de situation pertinentes et des facteurs de conversion nécessaires.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
 - **Effectivité** : voir la source dédiée [Principe d’effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md), qui distingue validité, effectivité, efficacité, efficience et impact, et organise la confrontation entre ce qui est formellement ouvert, ce qui devient réellement accessible et exerçable, les effets observés et leur correction possible.
@@ -145,6 +146,21 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.7 — 2026-09-27
+
+Stabilisation de l’Égalité effective.
+
+Cette version :
+
+- extrait et stabilise l’**Égalité effective** comme distribution comparée de l’accès et de l’exercice des capacités ;
+- distingue égalité effective, identité de traitement et égalité de résultat ;
+- explicite le rôle des différences de situation pertinentes et des facteurs de conversion ;
+- introduit l’**écart d’égalité effective** comme catégorie d’enquête ;
+- refuse le nivellement par le bas comme amélioration suffisante ;
+- relie l’Égalité effective à la Liberté effective, aux asymétries capacitaires et à `#Suvranu` ;
+- renvoie à la source dédiée [Égalité effective](egalite_effective.md).
+
 
 ## v0.5.6 — 2026-09-27
 
@@ -1442,14 +1458,18 @@ Le présent corpus ne prétend pas substituer ses propres définitions au droit 
 Liberté
     = étendue des capacités effectives d’agir
 
-Égalité
-    = distribution et accessibilité comparées
-      de ces capacités effectives
+Égalité effective
+    = distribution comparée de l'accès
+      et de l'exercice des capacités,
+      compte tenu des différences de situation pertinentes
+      et des facteurs de conversion
 
 Fraternité
     = capacité collective à préserver
       ou accroître les capacités d’autrui
 ```
+
+La définition source de l’**Égalité effective** est maintenue dans [Égalité effective](egalite_effective.md).
 
 Cette lecture transforme une devise en programme d’enquête.
 

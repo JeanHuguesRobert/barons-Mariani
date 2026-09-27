@@ -207,7 +207,11 @@ La liberté effective ne se réduit donc ni à la permission juridique ni au nom
 
 ### Égalité
 
-Comment capacités, obstacles, coûts, risques et bénéfices sont-ils distribués ? Une faculté formellement commune devient-elle réellement praticable dans des situations différentes ?
+➡️ [Égalité effective](../../research/egalite_effective.md)
+
+Comment accès, exercice, coûts, risques, bénéfices et dépendances sont-ils distribués ? Les différences de situation pertinentes et les facteurs de conversion sont-ils pris en compte ? Une règle identique produit-elle des écarts évitables ? Une différence de moyens réduit-elle réellement un écart d’effectivité ?
+
+L’égalité effective ne signifie ni identité de traitement ni égalité obligatoire des résultats.
 
 ### Fraternité
 

@@ -83,7 +83,9 @@ Une Machine à Empêcher peut produire ou maintenir un écart durable entre un p
 
 ➡️ [Rendre capable — source de la Liberté effective](../noyau_doctrinal_rendre_capable.md)
 
-La **Liberté effective** est définie dans le noyau doctrinal comme une propriété de l’espace des options réellement accessibles et exerçables, incluant choix, non-usage, bifurcation et réversibilité. L’**Égalité effective** et la **Fraternité effective** restent des chantiers distincts ; le Capable Test les conserve comme axes de recherche plutôt que comme scores.
+➡️ [Égalité effective](../egalite_effective.md)
+
+La **Liberté effective** examine la qualité de l’espace réel des options. L’**Égalité effective** examine comment l’accès et l’exercice de ces capacités sont distribués, compte tenu des situations pertinentes et des facteurs de conversion. La **Fraternité effective** reste à stabiliser.
 
 ## 8. Contrôle-capacité, traçabilité et anti-capture
 

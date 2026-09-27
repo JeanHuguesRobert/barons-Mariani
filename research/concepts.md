@@ -242,6 +242,33 @@ Maxime selon laquelle une norme ne peut être correctement appréciée à partir
 
 ---
 
+## Égalité effective
+
+**Type:** capability distribution concept / evaluative dimension  
+**Scope:** Individual → Group → Collective  
+**Status:** Working  
+
+**Short definition:**  
+Distribution comparée de l’accès et de l’exercice des capacités effectives entre sujets, après explicitation des différences de situation pertinentes et des facteurs de conversion. Elle ne suppose ni identité de traitement ni égalité de résultat.
+
+**Related concepts:**
+- Liberté effective
+- Principe d’effectivité
+- Autonomie de Capacité
+- facteurs de conversion
+- écart d’égalité effective
+- asymétrie capacitaire
+- #Suvranu
+- Machine à Rendre Capable
+
+**Reference documents:**
+- `research/egalite_effective.md`
+- `research/noyau_doctrinal_rendre_capable.md`
+- `research/principe_effectivite.md`
+- `projects/capable/capable-test.md`
+
+---
+
 ## Liberté effective
 
 **Type:** capability concept / evaluative dimension  
