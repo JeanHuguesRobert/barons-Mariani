@@ -147,3 +147,14 @@ trace historique
 → projection publique ou électorale
 ```
 
+
+
+## Baseline contradictoire — 27 septembre 2026
+
+La naissance publique du mouvement déclenche immédiatement un principe de dogfooding :
+
+> **Capable doit être testé par le Capable Test.**
+
+Un [baseline contradictoire](reality-tests/capable-2026-09-27-baseline.md) est figé le jour même de l'annonce, avant accumulation des résultats publics. Il enregistre les hypothèses, objections, dépendances, signaux contraires et conditions de révision afin d'éviter tout déplacement rétrospectif des critères de réussite.
+
+Le [registre des proclamations publiques](public-claims.md) conserve séparément les formulations publiques exactes et leurs éventuelles corrections.
