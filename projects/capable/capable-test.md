@@ -3,7 +3,7 @@ title: "Capable Test"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
-version: "0.3-draft"
+version: "0.4-draft"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -32,6 +32,7 @@ provenance:
     - "research/tensions_liberte_egalite_fraternite_effectives.md"
     - "research/fraternite_effective.md"
     - "research/egalite_effective.md"
+    - "research/responsabilite_effectivite.md"
 ---
 
 # Capable Test
@@ -44,7 +45,7 @@ Il dérive du [Principe d’effectivité](../../research/principe_effectivite.md
 
 > **Une loi ne vaut que par ses effets.**
 
-La v0.3 transforme la grille en procédure intégrée :
+La v0.4 conserve la procédure intégrée de la v0.3 et explicite désormais la **Responsabilité d’effectivité** : connaissance des effets, remontée vers l’autorité capable, délai raisonnable et obligation de réexamen.
 
 ```text
 0. qualification / enveloppe juridique
@@ -272,9 +273,38 @@ hypothèse
 
 > **Un système qui observe mais ne peut pas corriger reste faiblement capable.**
 
+### J.1 — Responsabilité d’effectivité
+
+➡️ [Responsabilité d’effectivité](../../research/responsabilite_effectivite.md)
+
+Lorsque l’observation révèle un écart significatif, ajouter les questions suivantes :
+
+1. **Qui connaît ou devrait raisonnablement connaître cet écart ?**
+2. **Quelle autorité possède effectivement le pouvoir de corriger le mécanisme en cause ?**
+3. **L’information remonte-t-elle jusqu’à ce niveau capable ?**
+4. **Quel délai de réaction est raisonnable compte tenu de la gravité, de la persistance et de la réversibilité ?**
+5. **Observe-t-on une cécité, un déni, une impuissance institutionnelle ou une inertie ?**
+6. **Une persistance informée est-elle constituée ?**
+7. **Le réexamen peut-il être déclenché par les sujets affectés ou par un tiers légitime ?**
+8. **La décision de maintenir, corriger, suspendre, remplacer ou abandonner est-elle motivée et traçable ?**
+9. **Quel nouveau Reality Test vérifiera les effets de cette décision ?**
+
+```text
+effet
+→ signal
+→ connaissance
+→ niveau capable
+→ réexamen
+→ décision motivée
+→ nouveau Reality Test
+↺
+```
+
+> **L’effectivité n’interdit pas l’erreur ; elle interdit l’indifférence durable à l’erreur connue.**
+
 ## Sorties standardisées
 
-Le Capable Test v0.3 sépare trois types de sortie.
+Le Capable Test v0.4 sépare trois types de sortie.
 
 ### 1. Carte descriptive
 

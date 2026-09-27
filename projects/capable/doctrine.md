@@ -101,6 +101,10 @@ Kudocracy fournit une projection sur le jugement et la décision civiques assist
 
 Le principe d’effectivité fournit désormais la source doctrinale générale : distinguer la validité formelle de l’effectivité pratique, suivre le passage de ce qui est ouvert à ce qui devient réellement accessible et exerçable, observer les effets de l’exercice ou du non-usage, puis préserver une capacité d’évaluation et de correction.
 
+➡️ [Responsabilité d’effectivité — De l’observation à l’obligation de réexamen](../../research/responsabilite_effectivite.md)
+
+La Responsabilité d’effectivité complète cette boucle au point où l’observation doit pouvoir produire une conséquence institutionnelle : connaissance ou connaissabilité de l’écart, remontée vers l’autorité disposant réellement du pouvoir de correction, délai raisonnable, persistance informée et obligation de réexamen. Elle ne crée ni obligation absolue de résultat ni faute automatique ; elle organise la responsabilité du système devant ce qu’il apprend de ses propres effets.
+
 #### Reality Case légistique
 
 ➡️ [Amendement d’effectivité — article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md)
@@ -115,9 +119,9 @@ Cette projection ne ferme pas le chantier doctrinal : la **Liberté effective** 
 
 ### Capable Test
 
-➡️ [Capable Test v0.3](capable-test.md)
+➡️ [Capable Test v0.4](capable-test.md)
 
-Le **Capable Test v0.3** constitue la grille intégrée dérivée des sources doctrinales : effectivité, Liberté effective, Égalité effective, Fraternité effective, souveraineté sur la capacité, tensions LEF et corrigibilité.
+Le **Capable Test v0.4** constitue la grille intégrée dérivée des sources doctrinales : effectivité, Liberté effective, Égalité effective, Fraternité effective, souveraineté sur la capacité, tensions LEF, corrigibilité et Responsabilité d’effectivité.
 
 Il ne remplace aucune de ces sources et ne possède pas d’autorité supérieure sur elles.
 

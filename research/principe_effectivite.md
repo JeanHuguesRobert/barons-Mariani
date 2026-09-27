@@ -40,6 +40,7 @@ related_documents:
   - "research/autonomia/potentique_territoriale.md"
   - "research/autonomia/assistance_non_directive_capacitaire.md"
   - "projects/capable/README.md"
+  - "research/responsabilite_effectivite.md"
 ---
 
 # Principe d’effectivité
@@ -316,6 +317,35 @@ Cette boucle ne suppose pas que toute norme soit temporaire ni que toute variati
 Elle impose une exigence plus sobre : les effets significatifs doivent pouvoir remonter jusqu’aux lieux où la règle peut être comprise, défendue, amendée, remplacée ou abrogée.
 
 > **Un système qui mesure ses échecs mais ne peut pas les corriger reste faiblement capable.**
+
+## 7 bis. Responsabilité d’effectivité
+
+➡️ [Responsabilité d’effectivité — De l’observation à l’obligation de réexamen](responsabilite_effectivite.md)
+
+La boucle d’effectivité soulève une question distincte de l’évaluation elle-même :
+
+> **que doit-il se passer lorsqu’un effet significatif devient connu et qu’une autorité dispose réellement du pouvoir de correction ?**
+
+La **Responsabilité d’effectivité** formalise ce passage entre observation et réaction institutionnelle.
+
+Elle distingue notamment :
+
+```text
+écart
+→ signal
+→ connaissance / connaissabilité
+→ autorité capable
+→ délai raisonnable
+→ réexamen
+```
+
+Elle introduit la notion de **persistance informée** : le maintien d’un écart significatif après que l’autorité capable en a connaissance, ou devrait raisonnablement en avoir connaissance, et après expiration d’un délai raisonnable de réaction.
+
+> **Une loi répond de ses effets.**
+
+Cette responsabilité n’est pas une obligation générale de résultat ni une recherche automatique de faute individuelle. Elle suit prioritairement la capacité de correction :
+
+> **Pas d’obligation sans capacité de correction ; pas de capacité de correction sans obligation de répondre des effets connus.**
 
 ---
 
