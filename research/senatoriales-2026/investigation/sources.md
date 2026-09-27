@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — index des sources de l'enquête"
-date: "2026-09-25"
+date: "2026-09-27"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -398,7 +398,28 @@ Le déposant indique que la photographie a été prise à **12:37**. Le JPEG con
 
 La photographie brute n'est pas répliquée dans le dépôt public.
 
-## 15. Principe de provenance
+## 15. Communiqué préfectoral du 17 septembre
+
+Source primaire institutionnelle : communiqué de presse « Élections sénatoriales du 27 septembre 2026 », publié par la préfecture de la Haute-Corse le 17 septembre 2026.
+
+Page :
+https://www.haute-corse.gouv.fr/Actions-de-l-Etat/Vie-democratique/Elections/Elections-senatoriales-2026/ELECTIONS-SENATORIALES-DU-27-SEPTEMBRE-2026
+
+Faits établis directement :
+
+- scrutin prévu le 27 septembre 2026 de 8 h 30 à 11 h dans les salons de la préfecture ;
+- deux candidatures fixées par arrêté préfectoral du 17 septembre : Paul Toussaint Parigi / Livia Volpei et Nicolas Battini / Audrey Marie Mori ;
+- reprise du refus d'enregistrement de la déclaration de candidature de Jean Hugues Noël Robert prononcé par le Tribunal administratif le 14 septembre.
+
+Fonctions probatoires :
+
+- borne officielle de fermeture du scrutin : 11 h ;
+- statut administratif des candidatures retenues au 17 septembre : deux candidatures ;
+- statut de Jean Hugues Noël Robert : refus d'enregistrement, distinct d'un retrait volontaire.
+
+Limite : cette pièce est antérieure au scrutin et n'établit ni l'heure de proclamation ni le résultat du 27 septembre.
+
+## 16. Principe de provenance
 
 
 Pour toute assertion importante :
