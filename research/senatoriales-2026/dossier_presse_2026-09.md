@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-27"
-version: "1.14"
+version: "1.15"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -96,6 +96,28 @@ Sources de contrôle :
 - Corse Net Infos, 27 septembre 2026 : https://www.corsenetinfos.corsica/Haute-Corse-le-senateur-sortant-Paulu-Santu-Parigi-reelu_a92845.html
 - Ministère de l'Intérieur, page Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Sénat, page Haute-Corse : https://senatoriales2026.senat.fr/departement/2B-haute-corse
+
+### Pièce primaire préfectorale du 17 septembre
+
+La préfecture de la Haute-Corse publie le **17 septembre 2026** un communiqué intitulé *Élections sénatoriales du 27 septembre 2026*.
+
+Cette pièce primaire fixe notamment trois éléments :
+
+1. le scrutin devait se dérouler le **27 septembre de 8 h 30 à 11 h** dans les salons de la préfecture ;
+2. les deux candidatures fixées par arrêté préfectoral du 17 septembre étaient celles de **Paul Toussaint Parigi / Livia Volpei** et **Nicolas Battini / Audrey Marie Mori** ;
+3. le communiqué reprend la formulation du jugement du Tribunal administratif du 14 septembre : **« l'enregistrement de la déclaration de candidature de Monsieur Jean Hugues Noël ROBERT au scrutin sénatorial du 27 septembre est refusé »**.
+
+Source institutionnelle :
+https://www.haute-corse.gouv.fr/Actions-de-l-Etat/Vie-democratique/Elections/Elections-senatoriales-2026/ELECTIONS-SENATORIALES-DU-27-SEPTEMBRE-2026
+
+Cette pièce est **pré-scrutin** : elle ne publie aucun résultat. Son intérêt temporel est de fixer une borne officielle :
+
+```text
+fermeture du scrutin
+= 11:00
+```
+
+Cette borne rend d'autant plus nécessaire de ne pas lire l'horodatage initial **11:07** de Corse Net Infos comme l'heure à laquelle le résultat final 442–88 aurait nécessairement été disponible.
 
 ### Chronologie de publication du résultat
 
