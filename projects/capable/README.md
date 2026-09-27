@@ -79,6 +79,8 @@ exprime le premier niveau de cette exigence, sans l’épuiser : l’indépendan
 - [Généalogie](genesis.md)
 - [Doctrine — carte des sources](doctrine.md)
 - [Capable Test](capable-test.md)
+- [Registre des proclamations publiques](public-claims.md)
+- [Reality Test baseline — 27 septembre 2026](reality-tests/capable-2026-09-27-baseline.md)
 
 ```text
 Capable Test v0.4
@@ -102,6 +104,14 @@ Le mouvement **Capable** a été annoncé publiquement le **27 septembre 2026 à
 Texte publié :
 
 > À la veille du débat au Sénat sur l'autonomie de la #Corse, j'annonce la naissance du mouvement "Capable". Principe d'effectivité : une loi ne faut que par ses effets. But : Liberté, Egalité, Fraternité... effectives ! Autonomie, de Capacité, pas de Papier #suvranu #Capable
+
+### Note de provenance — coquille « faut / vaut »
+
+Le texte X contient la formulation « une loi ne **faut** que par ses effets ». Le Corpus conserve cette trace exactement telle qu'elle a été publiée et la qualifie comme **coquille apparente** au regard de la formulation canonique déjà stabilisée :
+
+> **Une loi ne vaut que par ses effets.**
+
+Voir le [registre des proclamations publiques](public-claims.md). Une éventuelle rectification publique ultérieure devra être enregistrée comme nouvelle trace, non comme réécriture de l'original.
 
 Cette publication constitue la **première annonce publique documentée du mouvement sous ce nom**. Elle fixe publiquement quatre éléments déjà présents dans le Corpus : le Principe d’effectivité, Liberté–Égalité–Fraternité effectives, l’Autonomie de Capacité et `#Suvranu`.
 
