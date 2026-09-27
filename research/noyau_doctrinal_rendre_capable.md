@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.5
-date: '2026-09-26'
-review_status: v0.5.5 records the article 72-5 effectiveness amendment as a constitutional projection of the capability doctrine; constructive review remains welcome
+version: 0.5.6
+date: '2026-09-27'
+review_status: v0.5.6 revises Liberté effective after the Principe d’effectivité, Capable Test v0.2 and #Suvranu; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -124,7 +124,7 @@ Ce texte ne prétend pas achever le raisonnement. Il marque un état provisoire 
 Le document peut être lu à partir d’une grammaire simple :
 
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
-- **Liberté effective** : étendre l’espace des actions réellement accessibles, et non seulement celui des actions formellement permises.
+- **Liberté effective** : qualité de l’espace des options réellement accessibles et exerçables par un sujet, incluant sa capacité réelle à choisir entre elles, à ne pas les exercer, à différer, bifurquer ou revenir lorsque cela est possible.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
 - **Effectivité** : voir la source dédiée [Principe d’effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md), qui distingue validité, effectivité, efficacité, efficience et impact, et organise la confrontation entre ce qui est formellement ouvert, ce qui devient réellement accessible et exerçable, les effets observés et leur correction possible.
@@ -145,6 +145,18 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.6 — 2026-09-27
+
+Révision de la liberté effective.
+
+Cette version :
+
+- remplace la formule scalaire « la liberté est proportionnelle à l’étendue de la capacité effective à agir » par une définition multidimensionnelle ;
+- décrit la liberté effective à partir de l’espace des options réellement accessibles et exerçables, de la capacité de choisir entre elles, de la liberté de non-usage, de la temporalité, de la bifurcation et de la réversibilité ;
+- distingue explicitement **liberté effective** et **souveraineté sur les capacités mobilisées** ;
+- intègre les acquis du [Principe d’effectivité](principe_effectivite.md), du [Capable Test v0.2](../projects/capable/capable-test.md) et de [#Suvranu](souverainete_delegation_agents_mandates.md).
+
 
 ## v0.5.5 — 2026-09-26
 
@@ -395,26 +407,39 @@ La liberté n’est pas seulement l’absence d’entrave.
 
 Dans le présent corpus, on adopte la définition opérationnelle suivante :
 
-> **La liberté est proportionnelle à l’étendue de la capacité effective à agir.**
+> **La liberté effective d’un sujet est fonction de l’étendue et de la qualité de l’espace des options qu’il peut réellement comprendre, atteindre et exercer, ainsi que de sa capacité réelle à choisir entre elles — y compris à refuser, différer, bifurquer ou ne pas agir.**
 
-Autrement dit, la liberté d’un agent dépend de l’étendue de l’ensemble des actions qui lui sont réellement accessibles dans une situation donnée : comprendre, choisir, expérimenter, bifurquer, transmettre, se déplacer, produire, apprendre, coopérer, refuser, réorganiser.
+Autrement dit, la liberté ne dépend pas seulement du nombre d’actions nominalement ouvertes. Elle dépend aussi de leur accessibilité réelle, de leur exerçabilité, de leur temporalité, de leur diversité, de leur coût, de leur robustesse et de la possibilité de choisir entre elles sans pression qui rende le refus fictif.
 
-Cette définition est volontairement distincte de la question métaphysique du libre arbitre. Elle ne prétend pas décider si l’univers est déterministe, indéterministe ou compatible avec une volonté libre. Elle choisit un objet plus modeste et plus testable : **quelles actions sont effectivement accessibles à l’agent ?**
+Cette définition est volontairement distincte de la question métaphysique du libre arbitre. Elle ne prétend pas décider si l’univers est déterministe, indéterministe ou compatible avec une volonté libre. Elle choisit un objet plus modeste et plus testable : **quelles options sont effectivement accessibles et exerçables, et dans quelle mesure le sujet peut-il réellement choisir entre elles ?**
 
-On peut noter cet ensemble :
-
-```text
-A_i(t,h) = ensemble des actions effectivement accessibles
-           à l’agent i, au temps t, dans l’horizon h
-```
-
-et représenter sa liberté effective par :
+On peut noter :
 
 ```text
-L_i(t,h) = M(A_i(t,h))
+A_i(t,h)
+= ensemble des options réellement accessibles et exerçables
+  pour le sujet i, au temps t, dans l’horizon h
+
+L_i(t,h)
+= M(A_i(t,h), C_i, N_i, B_i)
 ```
 
-où `M` n’est pas nécessairement une simple cardinalité. La mesure peut intégrer la diversité des actions, leur importance, leur coût, leur robustesse, leur accessibilité temporelle, leur réversibilité et la possibilité réelle de les combiner.
+où, à titre heuristique :
+
+- `M` décrit la diversité et la qualité des options ;
+- `C_i` représente la capacité réelle de choisir entre elles ;
+- `N_i` représente la possibilité significative de non-usage ou de refus ;
+- `B_i` représente les possibilités de bifurcation, réversibilité ou sortie.
+
+Cette écriture n’est pas un score canonique. Elle rappelle seulement que :
+
+```text
+plus d'options nominales
+≠
+automatiquement plus de liberté effective
+```
+
+Une option peut être juridiquement ouverte mais cognitivement invisible, économiquement inaccessible, disponible trop tard, dépendante d’un tiers, irréversible ou assortie d’une pression qui en rend le refus fictif.
 
 La chaîne générale devient alors :
 
@@ -457,6 +482,68 @@ Rendre capable est l’opération pratique par laquelle le possibilisme devient 
 La Potentique explore ce qui pourrait devenir actuel ; rendre capable demande
 lesquelles de ces ouvertures deviennent effectivement praticables par un agent
 situé.
+
+
+### Liberté effective et souveraineté sur la capacité
+
+La liberté effective et la souveraineté capacitaire sont liées mais distinctes.
+
+La liberté effective demande :
+
+> **Quelles options puis-je réellement choisir et exercer ?**
+
+La souveraineté capacitaire demande :
+
+> **Qui demeure principal des capacités, infrastructures et délégations à travers lesquelles j’exerce ces choix ?**
+
+Un système peut donc augmenter la liberté immédiate tout en réduisant la souveraineté sur cette liberté.
+
+Exemple abstrait :
+
+```text
+assistant très puissant
+→ plus d'actions accessibles
+→ gain de liberté d'action
+
+mais
+
+dépendance opaque + absence de portabilité + impossibilité de reprise
+→ perte de souveraineté sur la capacité
+```
+
+La doctrine doit donc préserver les deux dimensions :
+
+```text
+liberté effective
++
+souveraineté sur les capacités
+```
+
+sans les confondre.
+
+### Liberté de non-usage
+
+> **Être capable ne signifie pas devoir faire.**
+
+Une capacité ne contribue pleinement à la liberté que si son titulaire peut aussi, dans une mesure significative, ne pas l’exercer.
+
+Il faut donc distinguer :
+
+```text
+non-usage libre
+≠
+incapacité
+≠
+ignorance
+≠
+coût prohibitif
+≠
+blocage
+≠
+pression
+```
+
+Une architecture qui augmente le nombre d’actions disponibles mais rend certaines d’entre elles pratiquement obligatoires peut accroître la puissance d’action sans accroître proportionnellement la liberté effective.
 
 ---
 

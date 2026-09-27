@@ -242,6 +242,34 @@ Maxime selon laquelle une norme ne peut être correctement appréciée à partir
 
 ---
 
+## Liberté effective
+
+**Type:** capability concept / evaluative dimension  
+**Scope:** Individual → Collective  
+**Status:** Defined  
+
+**Short definition:**  
+Qualité de l’espace des options qu’un sujet peut réellement comprendre, atteindre et exercer, incluant sa capacité à choisir entre elles, à ne pas les exercer, à différer, bifurquer ou revenir lorsque cela est possible. Elle se distingue de la liberté formelle, de la simple quantité d’options nominales et de la souveraineté sur les infrastructures qui rendent ces capacités possibles.
+
+**Related concepts:**
+- Principe d’effectivité
+- Autonomie de Capacité
+- Potentique
+- #Suvranu
+- Machine à Rendre Capable
+- liberté de non-usage
+- bifurcation
+- réversibilité
+- sortie
+
+**Reference documents:**
+- `research/noyau_doctrinal_rendre_capable.md`
+- `research/principe_effectivite.md`
+- `projects/capable/capable-test.md`
+- `research/souverainete_delegation_agents_mandates.md`
+
+---
+
 ## #Suvranu
 
 **Type:** civic-capability concept / political horizon  

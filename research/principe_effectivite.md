@@ -398,7 +398,11 @@ Dans le cadre républicain français, **Liberté, Égalité, Fraternité** fourn
 
 ### Liberté
 
-Quels possibles deviennent réellement accessibles et exerçables ? Le sujet conserve-t-il un choix significatif entre l’usage, le non-usage, la bifurcation et, lorsque cela est possible, la sortie ?
+Quels possibles deviennent réellement accessibles et exerçables ? Le sujet peut-il les comprendre suffisamment pour choisir entre eux ? Peut-il refuser, différer, bifurquer ou ne pas agir ? Les options restent-elles disponibles dans le temps utile et avec un degré raisonnable de réversibilité ?
+
+La définition source de **Liberté effective** est maintenue dans [`noyau_doctrinal_rendre_capable.md`](noyau_doctrinal_rendre_capable.md).
+
+> L’effectivité demande si une faculté devient réellement praticable ; la liberté effective examine la qualité de l’espace de choix ainsi rendu praticable.
 
 ### Égalité
 

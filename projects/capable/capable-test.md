@@ -199,7 +199,11 @@ Le Capable Test ne réduit pas **Liberté, Égalité, Fraternité** à un score 
 
 ### Liberté
 
-Quels possibles deviennent réellement accessibles et exerçables ? Le sujet conserve-t-il un choix significatif entre usage, non-usage, bifurcation et sortie ?
+➡️ [Rendre capable — source de la Liberté effective](../../research/noyau_doctrinal_rendre_capable.md)
+
+Quels possibles deviennent réellement accessibles et exerçables ? Le sujet peut-il réellement choisir entre eux, y compris refuser, différer, bifurquer ou ne pas agir ? Les options restent-elles disponibles dans le temps utile, et avec quel degré de réversibilité ?
+
+La liberté effective ne se réduit donc ni à la permission juridique ni au nombre brut d’options proposées.
 
 ### Égalité
 

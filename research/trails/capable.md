@@ -81,7 +81,9 @@ Une Machine à Empêcher peut produire ou maintenir un écart durable entre un p
 
 ➡️ [Capable Test](../../projects/capable/capable-test.md)
 
-Le test ne réduit pas les trois termes à un score. Ils servent de questions persistantes adressées aux effets : marges de choix réelles, distribution des capacités et obstacles, coopération et non-abandon.
+➡️ [Rendre capable — source de la Liberté effective](../noyau_doctrinal_rendre_capable.md)
+
+La **Liberté effective** est définie dans le noyau doctrinal comme une propriété de l’espace des options réellement accessibles et exerçables, incluant choix, non-usage, bifurcation et réversibilité. L’**Égalité effective** et la **Fraternité effective** restent des chantiers distincts ; le Capable Test les conserve comme axes de recherche plutôt que comme scores.
 
 ## 8. Contrôle-capacité, traçabilité et anti-capture
 

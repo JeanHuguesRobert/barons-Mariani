@@ -111,7 +111,7 @@ La version publique `0.4-rc4` constitue un **Reality Case légistique** de ce pr
 
 Capable traite **Liberté, Égalité, Fraternité** non seulement comme des principes déclarés mais comme des finalités dont l’effectivité peut être observée. L’amendement d’effectivité constitue la première projection constitutionnelle explicite de cette orientation.
 
-Cette projection ne ferme pas le chantier doctrinal : les définitions opérationnelles de la liberté effective, de l’égalité effective et de la fraternité effective, ainsi que leurs possibles tensions réciproques, doivent encore faire l’objet de travaux sources spécifiques avant d’être considérées comme canoniques.
+Cette projection ne ferme pas le chantier doctrinal : la **Liberté effective** possède désormais une formulation source dans [Rendre capable — noyau doctrinal provisoire](../../research/noyau_doctrinal_rendre_capable.md). Les formulations opérationnelles de l’**Égalité effective** et de la **Fraternité effective**, ainsi que les tensions possibles entre les trois axes, restent à stabiliser.
 
 ## Règle source / projection
 
