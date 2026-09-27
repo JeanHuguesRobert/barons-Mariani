@@ -22,6 +22,7 @@ related_documents:
   - cogentia/research/learning_computer_genese_et_architecture.md
   - research/principe_rossignol.md
 changelog:
+  - '2026-09-27 — linked Potentics/ERP to early impossibility detection and the Accessible Inputs Gate: prune branches with decisively impossible preconditions early while distinguishing impossible from blocked, unknown or not-yet-available.'
   - '2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated.'
   - '2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map'' exploration loop (§1.4).'
   - '2026-09-05 — propagation Issue #55: integrated computational potentics (§3.1, §3.3.1, §3.5.1, §7.2): Compute dimension (chi), collective achievable capacity C_collective(T), RAIX array gain G_RAIX(T) as empirical measure of the Spirit of Synthesis, policy learning, and link to potentics_of_compute.md v0.4 and learning_computer_genese_et_architecture.md.'
@@ -215,6 +216,47 @@ The detailed exploration vocabulary, including distributed maps, Vehicles, Cogni
 
 > **Do not mistake the current map for The Possible.**
 
+### 1.5 Early impossibility detection
+
+Rational exploration is not only the search for overlooked possibles. It also
+depends on identifying impossibility as early as Reality permits.
+
+A candidate branch that requires a condition already known to be impossible,
+or an input that is materially inaccessible to the actor expected to continue
+the branch, should be pruned before further reasoning, planning, delegation or
+optimization accumulates around it.
+
+```text
+candidate possible
+→ test decisive preconditions early
+→ impossible precondition found
+→ prune / reframe / seek another path
+→ preserve the trace of why
+```
+
+> **It is usually better to discover early that a branch is impossible than to
+> discover late that an apparently well-developed plan never had a feasible
+> first step.**
+
+But this must not become premature closure. Potentics distinguishes:
+
+```text
+impossible
+≠ currently unavailable
+≠ blocked
+≠ unknown
+≠ not-yet-invented
+```
+
+The burden is evidential: prune only what Reality, logic, mandate, resource
+bounds, access conditions or other decisive constraints actually rule out.
+Everything else remains a candidate for exploration with an appropriate
+epistemic status.
+
+This connects directly to the Corpus **Accessible Inputs Gate** for resumable
+agent work: if a future handler cannot access an indispensable input, that
+specific continuation is not presently feasible even if the broader objective
+remains possible.
 ---
 
 ## 2. From Possibility to Potentiality
