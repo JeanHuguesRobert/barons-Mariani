@@ -147,3 +147,5 @@ Capable est la projection civique et politique de cette grammaire. Il n’en dev
 ➡️ [Projections électorales](../../projects/capable/elections/README.md)
 
 Les Reality Cases et projections institutionnelles servent à confronter la doctrine au Réel, documenter les écarts d’effectivité, observer les effets et réinjecter les apprentissages dans le Corpus.
+
+Le [Capable Test v0.3](../../projects/capable/capable-test.md) constitue désormais le **point d’entrée opérationnel** pour appliquer cette doctrine à un cas situé, sans remplacer les sources auxquelles il renvoie.

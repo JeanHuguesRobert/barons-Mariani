@@ -3,7 +3,7 @@ title: "Capable Test"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
-version: "0.2-draft"
+version: "0.3-draft"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -28,231 +28,322 @@ provenance:
     - "research/principe_effectivite.md"
     - "research/noyau_doctrinal_rendre_capable.md"
     - "research/autonomia/potentique_territoriale.md"
+    - "research/souverainete_delegation_agents_mandates.md"
+    - "research/tensions_liberte_egalite_fraternite_effectives.md"
+    - "research/fraternite_effective.md"
+    - "research/egalite_effective.md"
 ---
 
 # Capable Test
 
 ## Objet
 
-Le **Capable Test** est une grille d’évaluation de travail applicable à une règle, une institution, un service, une politique publique, une organisation, un outil ou une proposition.
+Le **Capable Test** est une grille d’évaluation de travail applicable à une règle, un droit, une institution, un service, une politique publique, une organisation, un outil ou une proposition.
 
-Il dérive du [Principe d’effectivité](../../research/principe_effectivite.md) :
+Il dérive du [Principe d’effectivité](../../research/principe_effectivite.md) et intègre désormais les sources doctrinales relatives à la Liberté effective, l’Égalité effective, la Fraternité effective, `#Suvranu`, aux tensions LEF et à la corrigibilité.
 
 > **Une loi ne vaut que par ses effets.**
 
-Le test ne présume ni qu’une capacité supplémentaire est toujours souhaitable, ni qu’un usage élevé constitue en soi une preuve d’effectivité. Il cherche à reconstruire une chaîne complète :
+La v0.3 transforme la grille en procédure intégrée :
 
 ```text
-ouverture
-→ accessibilité
-→ exerçabilité
-→ exercice ou non-usage
-→ effets
-→ gouvernance
-→ correction
+0. qualification / enveloppe juridique
+        ↓
+A. ouverture du Possible
+        ↓
+B. accessibilité
+        ↓
+C. exerçabilité
+        ↓
+D. Liberté effective
+        ↓
+E. effets et distribution
+        ↓
+F. Égalité effective
+        ↓
+G. Fraternité effective
+        ↓
+H. souveraineté / contrôle-capacité
+        ↓
+I. tensions LEF
+        ↓
+J. correction / apprentissage
+        ↺
 ```
 
-Il doit permettre de distinguer :
+Le test ne fournit ni score global ni verdict politique automatique. Il produit une carte des capacités, effets, asymétries, dépendances, tensions, incertitudes et possibilités de correction.
 
-```text
-ce qui est formellement possible
-de
-ce qui est effectivement praticable
+## 0 — Qualification et enveloppe
 
-et
+Avant de mesurer les capacités, préciser l’objet.
 
-ce qui est annoncé comme effet
-de
-ce que le Réel permet effectivement d'observer
-```
+1. **Qu’est-ce qui est évalué ?** Règle, droit, institution, service, politique, outil, organisation ou proposition ?
+2. **Quel est son statut ?** Existant, projeté, expérimental ou hypothétique ?
+3. **Quelles règles de droit, droits fondamentaux, compétences, garanties et procédures bornent l’analyse ?**
+4. **Qui sont les sujets directement et indirectement affectés ?**
+5. **Quel horizon temporel est pertinent ?**
 
-## A — Ouverture
+> **Le Capable Test n’est pas un substitut au droit. Il évalue les capacités et les effets à l’intérieur de l’enveloppe juridique applicable.**
 
-Le premier test porte sur le possible créé, maintenu ou fermé.
+## A — Ouverture du Possible
 
 1. **Quel possible le dispositif ouvre-t-il, reconnaît-il ou préserve-t-il ?**
 2. **Capacité de qui ?**
 3. **À faire quoi ?**
 4. **À quelle échelle et dans quel horizon temporel ?**
 5. **Quels possibles concurrents ou alternatifs sont simultanément fermés, renchéris ou dégradés ?**
-
-Un droit, une faculté ou une proposition n’est pas encore une capacité.
+6. **Le dispositif ferme-t-il un possible dont la valeur d’option doit être conservée ?**
 
 ```text
-possible formel
+ouvrir un possible
 ≠
-possible accessible
+garantir son accessibilité
 ≠
-possible exerçable
+garantir son exerçabilité
 ```
 
 ## B — Accessibilité
 
-Le deuxième test porte sur l’accès réel au possible.
-
-6. **Les sujets concernés savent-ils que la possibilité existe ?**
-7. **Peuvent-ils matériellement, administrativement, économiquement et cognitivement y accéder ?**
-8. **Quels délais, coûts, interfaces, formalités ou intermédiaires conditionnent l’accès ?**
-9. **L’accès reste-t-il utile dans le temps où l’action doit pouvoir être accomplie ?**
-10. **Existe-t-il une différence significative entre les personnes auxquelles la faculté est formellement ouverte et celles qui peuvent réellement l’atteindre ?**
+1. **Les sujets concernés savent-ils que la possibilité existe ?**
+2. **Peuvent-ils matériellement, administrativement, économiquement et cognitivement y accéder ?**
+3. **Quels coûts, délais, interfaces, formalités, langues, mobilités, autorisations ou intermédiaires conditionnent l’accès ?**
+4. **L’accès reste-t-il utile dans le temps où l’action doit pouvoir être accomplie ?**
+5. **Qui reste formellement inclus mais pratiquement hors d’accès ?**
 
 Un dispositif peut être juridiquement ouvert tout en produisant un **écart d’effectivité** important.
 
 ## C — Exerçabilité
 
-Le troisième test demande si l’accès peut devenir action.
+1. **Quels facteurs de conversion sont nécessaires ?**
+2. **Les connaissances, moyens, ressources, outils, assistance, coordination et temps nécessaires sont-ils disponibles ?**
+3. **De quelles personnes, organisations ou infrastructures dépend l’exercice ?**
+4. **Cette dépendance est-elle visible et compréhensible ?**
+5. **La capacité est-elle robuste ou ne fonctionne-t-elle que dans des conditions nominales étroites ?**
+6. **Que reste-t-il possible en mode dégradé ?**
 
-11. **Quels facteurs de conversion sont nécessaires ?**
-12. **Les connaissances, moyens, ressources, outils, assistance, coordination et temps nécessaires sont-ils disponibles ?**
-13. **De quelles personnes, organisations ou infrastructures dépend l’exercice ?**
-14. **Cette dépendance est-elle visible et compréhensible ?**
-15. **La capacité persiste-t-elle en mode dégradé ou disparaît-elle dès qu’un fournisseur, un intermédiaire ou une ressource manque ?**
+```text
+capacité nominale
+≠
+capacité robuste
+≠
+capacité en mode dégradé
+```
 
-C’est notamment ici qu’intervient la **Machine à Rendre Capable** : créer, restaurer, désentraver ou augmenter les facteurs permettant l’action.
+## D — Liberté effective
 
-## D — Liberté d’usage et non-usage
+➡️ [Rendre capable — source de la Liberté effective](../../research/noyau_doctrinal_rendre_capable.md)
 
-Le quatrième test distingue capacité et obligation.
-
-16. **Le sujet peut-il réellement exercer la capacité ?**
-17. **Peut-il réellement choisir de ne pas l’exercer ?**
-18. **Peut-il différer, bifurquer ou choisir une autre voie ?**
-19. **Le non-usage peut-il être distingué d’une incapacité, d’un coût prohibitif, d’un défaut d’information ou d’un blocage ?**
-20. **Existe-t-il une pression administrative, économique, technique, sociale ou algorithmique qui transforme la possibilité en obligation de fait ?**
-
-Principe :
+1. **Quelles options sont réellement accessibles et exerçables ?**
+2. **Le sujet les comprend-il suffisamment pour choisir ?**
+3. **Peut-il choisir de ne pas agir ?**
+4. **Peut-il différer ?**
+5. **Peut-il bifurquer ?**
+6. **Peut-il revenir ou sortir lorsque cela est possible ?**
+7. **Certaines options sont-elles nominales mais pratiquement fictives ?**
+8. **Une option devient-elle une obligation de fait ?**
 
 > **Être capable ne signifie pas devoir faire.**
 
-Un taux d’usage faible n’est donc ni une preuve automatique d’ineffectivité ni une preuve de liberté. Il doit être expliqué.
-
 ## E — Effets et distribution
 
-Le cinquième test applique directement le Principe d’effectivité.
+1. **Que produit effectivement l’exercice du dispositif ?**
+2. **Que produit également son non-exercice ?**
+3. **Quels effets sont recherchés ?**
+4. **Quels effets non recherchés, indirects ou différés apparaissent ?**
+5. **Quelles capacités nouvelles sont créées ?**
+6. **Quelles capacités sont réduites ou détruites ?**
+7. **Comment coûts, bénéfices, risques et dépendances sont-ils distribués ?**
+8. **Qui gagne de la capacité et qui peut en perdre ?**
+9. **Quels effets apparaissent chez les tiers qui ne sont ni décideurs ni bénéficiaires directs ?**
 
-21. **Que produit effectivement l’exercice du dispositif ?**
-22. **Que produit également son non-exercice ?**
-23. **Quels effets sont recherchés ?**
-24. **Quels effets non recherchés, indirects ou différés apparaissent ?**
-25. **Quelles capacités nouvelles sont créées ?**
-26. **Quelles capacités sont réduites ou détruites ?**
-27. **Comment coûts, bénéfices, risques et dépendances sont-ils distribués ?**
-28. **Qui gagne de la capacité et qui peut en perdre ?**
-29. **Quels effets apparaissent à court terme et lesquels modifient le champ du Possible futur ?**
-
-Une augmentation agrégée peut masquer une perte concentrée :
+Observer plusieurs horizons :
 
 ```text
-capacité créée
-→ pour qui ?
-
-capacité perdue
-→ par qui ?
-
-dépendance nouvelle
-→ envers qui ?
+t0 = effet immédiat
+t1 = adaptation
+t2 = nouvel équilibre
+tn = effets sur les possibles futurs
 ```
 
-## F — Gouvernance et contrôle-capacité
+## F — Égalité effective
 
-Le sixième test porte sur la souveraineté sur la capacité créée.
+➡️ [Égalité effective](../../research/egalite_effective.md)
 
-30. **Qui agit ou décide ?**
-31. **Selon quel mandat ?**
-32. **Qui peut observer et reconstruire les actes importants ?**
-33. **Qui peut demander une justification ou contester ?**
-34. **Qui peut corriger ou faire corriger ?**
-35. **Existe-t-il une voie réelle de sortie, de substitution ou de changement de dépendance ?**
-36. **Les règles, critères, données pertinentes et conflits d’intérêts sont-ils suffisamment accessibles ?**
-37. **Quels risques de capture, de concentration ou d’asymétrie apparaissent ?**
-38. **Le contrôle augmente-t-il la capacité des sujets concernés ou recrée-t-il principalement une tutelle verticale ?**
+1. **Qui peut réellement accéder et exercer ?**
+2. **Quels sujets sont comparables pour la capacité considérée ?**
+3. **Quelles différences de situation sont pertinentes ?**
+4. **Quels facteurs de conversion diffèrent ?**
+5. **Quels écarts apparaissent ?**
+6. **Les écarts sont-ils explicables ?**
+7. **Lesquels sont évitables ?**
+8. **Une mesure différente selon les situations réduit-elle réellement l’écart ?**
+9. **La correction envisagée augmente-t-elle les capacités empêchées ou nivelle-t-elle par le bas ?**
 
-Une capacité qui dépend entièrement d’un système incontrôlable peut accroître la puissance d’action tout en réduisant la souveraineté.
+> **Même droit ne signifie pas toujours même capacité.**
 
-## G — Correction et apprentissage
+## G — Fraternité effective
 
-Le septième test demande ce que le système fait de la réponse du Réel.
+➡️ [Fraternité effective](../../research/fraternite_effective.md)
 
-39. **Comment l’effectivité et les effets sont-ils observés ?**
-40. **À quelle périodicité ?**
-41. **Quels indicateurs, traces et témoignages peuvent contredire l’hypothèse initiale ?**
-42. **Quel Reality Test permettrait de montrer que la proposition était erronée, incomplète ou mal distribuée ?**
-43. **Qui peut déclencher une réévaluation ?**
-44. **Quelles corrections sont possibles : maintien, modification, suspension, remplacement, abandon ?**
-45. **Le système apprend-il de ses propres effets ou persiste-t-il indépendamment de ce que répond le Réel ?**
+1. **Qui risque une perte ou un abandon capacitaire ?**
+2. **Existe-t-il une aide praticable ?**
+3. **Est-elle accessible dans le temps utile ?**
+4. **Le sujet peut-il la demander ?**
+5. **Sinon, existe-t-il un mécanisme proportionné de signalement ?**
+6. **L’aide restaure-t-elle la capacité ou fait-elle durablement à la place ?**
+7. **Peut-elle être refusée, limitée ou remplacée ?**
+8. **Crée-t-elle une dépendance captive ?**
+9. **Est-elle soutenable ?**
+10. **Peut-elle diminuer lorsque la capacité est restaurée ?**
 
-La boucle recherchée est :
+> **Ne pas abandonner ne signifie pas faire à la place.**
+
+## H — Souveraineté et contrôle-capacité
+
+➡️ [Souveraineté, délégation et Agents Mandatés](../../research/souverainete_delegation_agents_mandates.md)
+
+1. **Qui est le principal ?**
+2. **Qui agit ?**
+3. **Selon quel mandat ?**
+4. **Qui contrôle les données, infrastructures et critères ?**
+5. **Le principal peut-il observer ?**
+6. **Contester ?**
+7. **Corriger ?**
+8. **Révoquer ?**
+9. **Reprendre ?**
+10. **Changer d’implémentation ou de dépendance ?**
+11. **La puissance d’action augmente-t-elle plus vite que la souveraineté sur cette puissance ?**
+
+```text
+puissance d'action
+≠
+souveraineté sur cette puissance
+```
+
+## I — Tensions Liberté–Égalité–Fraternité
+
+➡️ [Tensions entre Liberté, Égalité et Fraternité effectives](../../research/tensions_liberte_egalite_fraternite_effectives.md)
+
+Ne pas calculer de score unique.
+
+| Sujet / groupe | Liberté | Égalité | Fraternité | Dépendances | Horizon |
+|---|---|---|---|---|---|
+| ... | ... | ... | ... | ... | ... |
+
+Puis demander :
+
+1. **Un gain sur un axe dégrade-t-il un autre ?**
+2. **La perte est-elle grave ou réversible ?**
+3. **Existe-t-il un droit ou une garantie qui borne l’arbitrage ?**
+4. **Existe-t-il une transformation qui améliore plusieurs axes à la fois ?**
+5. **Un Booster ou un facteur de conversion peut-il éviter l’arbitrage ?**
+6. **Qui a mandat pour trancher si le conflit subsiste ?**
+7. **Qui peut contester cette décision ?**
+
+> **La devise n’est pas un score ; c’est une boussole à trois axes.**
+
+## J — Correction et apprentissage
+
+1. **Que doit-on observer ?**
+2. **Avec quelles traces ?**
+3. **Quand ?**
+4. **Quel indicateur pourrait infirmer l’hypothèse initiale ?**
+5. **Quel Reality Test est prévu ?**
+6. **Qui peut déclencher le réexamen ?**
+7. **Que peut-on corriger ?**
+8. **Peut-on suspendre ?**
+9. **Remplacer ?**
+10. **Abandonner ?**
+11. **Les effets de la correction sont-ils eux-mêmes testés ?**
 
 ```text
 hypothèse
-→ mise en œuvre
+→ dispositif
+→ capacités
 → effets
+→ distribution
+→ tensions
 → observation
 → objection
 → correction
 → nouveau Reality Test
+↺
 ```
 
-## Liberté, Égalité, Fraternité — axes substantiels
+> **Un système qui observe mais ne peut pas corriger reste faiblement capable.**
 
-Le Capable Test ne réduit pas **Liberté, Égalité, Fraternité** à un score unique. Ils servent de questions persistantes adressées aux effets.
+## Sorties standardisées
 
-### Liberté
+Le Capable Test v0.3 sépare trois types de sortie.
 
-➡️ [Rendre capable — source de la Liberté effective](../../research/noyau_doctrinal_rendre_capable.md)
+### 1. Carte descriptive
 
-Quels possibles deviennent réellement accessibles et exerçables ? Le sujet peut-il réellement choisir entre eux, y compris refuser, différer, bifurquer ou ne pas agir ? Les options restent-elles disponibles dans le temps utile, et avec quel degré de réversibilité ?
+```text
+faits observés
+capacités ouvertes
+obstacles
+dépendances
+effets
+distribution
+```
 
-La liberté effective ne se réduit donc ni à la permission juridique ni au nombre brut d’options proposées.
+### 2. Hypothèses / incertitudes
 
-### Égalité
+```text
+hypothèse
+niveau de confiance
+preuve attendue
+Reality Test
+```
 
-➡️ [Égalité effective](../../research/egalite_effective.md)
+### 3. Actions candidates
 
-Comment accès, exercice, coûts, risques, bénéfices et dépendances sont-ils distribués ? Les différences de situation pertinentes et les facteurs de conversion sont-ils pris en compte ? Une règle identique produit-elle des écarts évitables ? Une différence de moyens réduit-elle réellement un écart d’effectivité ?
+```text
+Machine à Explorer
+Machine à Rendre Capable
+Booster
+correction
+abandon
+```
 
-L’égalité effective ne signifie ni identité de traitement ni égalité obligatoire des résultats.
+Constat, hypothèse et proposition ne doivent pas être fusionnés.
 
-### Fraternité
+## Statut des réponses
 
-➡️ [Fraternité effective](../../research/fraternite_effective.md)
+Pour chaque réponse importante, utiliser lorsque cela améliore la lisibilité :
 
-Lorsqu’une capacité est menacée ou insuffisante, existe-t-il une aide effectivement accessible dans le temps utile ? Cette aide augmente-t-elle les capacités du sujet, ou accroît-elle surtout le pouvoir de l’assistant sur lui ? Peut-elle être refusée, limitée, remplacée ou réduite à mesure que la capacité est restaurée ?
+```text
+OBSERVED
+SUPPORTED
+INFERRED
+UNKNOWN
+CONTESTED
+```
 
-La Fraternité effective cherche le **non-abandon capacitaire sans dépendance captive**.
+Ces statuts ne sont pas des scores de vérité.
 
-Ces trois formulations sont désormais des concepts doctrinaux sources du Corpus ; elles demeurent des grilles capacitaires et ne prétendent pas constituer des définitions juridiques exhaustives de la devise.
+Ils distinguent ce qui est directement observé, soutenu par plusieurs traces, inféré, inconnu ou contesté de manière documentée.
 
-## Test de tension LEF
+## Capable Test Express
 
-➡️ [Tensions entre Liberté, Égalité et Fraternité effectives](../../research/tensions_liberte_egalite_fraternite_effectives.md)
-
-Les trois axes ne sont pas additionnés dans un score unique.
-
-Pour une proposition ou un dispositif, le test demande au minimum :
-
-1. quels sujets gagnent ou perdent des capacités ;
-2. sur quel axe — Liberté, Égalité, Fraternité ;
-3. à quel horizon temporel ;
-4. si la perte est réversible ;
-5. s’il existe une alternative moins dommageable ;
-6. quels droits ou garanties bornent l’arbitrage ;
-7. qui a mandat pour décider ;
-8. qui peut contester ;
-9. quels effets doivent être observés ;
-10. quelle condition déclenche correction, suspension ou abandon.
-
-> **Avant d’arbitrer entre des pertes, chercher un terrain où les capacités deviennent compatibles.**
-
-Le résultat attendu n’est pas un classement automatique mais une carte explicite des tensions, des sujets concernés, des dépendances, des alternatives et des mécanismes de correction.
+1. **Qu’est-ce que cela rend réellement possible ?**
+2. **Pour qui ?**
+3. **Qui peut réellement y accéder et l’exercer ?**
+4. **Qui reste empêché, et pourquoi ?**
+5. **Peut-on choisir de ne pas l’utiliser ou en sortir ?**
+6. **Quels effets réels, pour qui, et à quel horizon ?**
+7. **Qui risque d’être abandonné ?**
+8. **Qui contrôle la capacité et peut la reprendre ?**
+9. **Quels conflits Liberté / Égalité / Fraternité apparaissent ?**
+10. **Quel petit changement pourrait améliorer fortement l’effectivité ?**
+11. **Qu’est-ce qui montrerait que nous nous trompons ?**
+12. **Comment corriger ou arrêter ?**
 
 ## Test Booster
 
-Avant une intervention lourde, le Capable Test pose une question supplémentaire :
+Avant une intervention lourde :
 
 > **Une capacité importante est-elle déjà latente mais bloquée par un goulot critique identifiable ?**
-
-Si oui, rechercher un **Booster candidat** :
 
 ```text
 petit delta réversible
@@ -262,7 +353,7 @@ potentialité déjà présente
 gain disproportionné d'effectivité
 ```
 
-Le Booster doit ensuite être soumis aux mêmes tests d’effets, de distribution, de gouvernance et de correction.
+Le Booster doit ensuite repasser par l’ensemble du Capable Test.
 
 ## Test récursif
 
@@ -274,7 +365,7 @@ nom « Capable »
 preuve de capacité
 ```
 
-La preuve recherchée réside dans les effets observables, leur distribution, leur gouvernance et la possibilité de correction.
+La preuve recherchée réside dans les effets observables, leur distribution, leur gouvernance et leur corrigibilité.
 
 ## Reality Case légistique — amendement dit « Baron Mariani »
 
@@ -295,4 +386,4 @@ Ce Reality Case conserve sa provenance propre : il ne devient pas un « amendeme
 
 Le test peut être résumé ainsi :
 
-> **Qu’est-ce que cela ouvre, qui peut réellement y accéder, qui peut réellement l’exercer ou choisir de ne pas le faire, qu’est-ce que cela produit, qui contrôle, et que se passe-t-il lorsque le Réel répond autrement que prévu ?**
+> **Qu’est-ce que cela rend réellement possible, pour qui, avec quelle liberté de choix, quelle distribution, quel non-abandon, quel contrôle sur la capacité, quelles tensions entre Liberté–Égalité–Fraternité, et comment le dispositif se corrige-t-il lorsque le Réel répond autrement que prévu ?**

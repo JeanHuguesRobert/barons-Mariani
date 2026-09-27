@@ -113,6 +113,14 @@ Capable traite **Liberté, Égalité, Fraternité** non seulement comme des prin
 
 Cette projection ne ferme pas le chantier doctrinal : la **Liberté effective** possède une formulation source dans [Rendre capable — noyau doctrinal provisoire](../../research/noyau_doctrinal_rendre_capable.md), l’**Égalité effective** dans [Égalité effective — Des mêmes droits aux capacités réellement accessibles](../../research/egalite_effective.md), et la **Fraternité effective** dans [Fraternité effective — Ne pas abandonner, rendre capable](../../research/fraternite_effective.md). Les tensions et arbitrages entre les trois axes sont désormais traités dans [Tensions entre Liberté, Égalité et Fraternité effectives](../../research/tensions_liberte_egalite_fraternite_effectives.md), sans réduction à un score unique.
 
+### Capable Test
+
+➡️ [Capable Test v0.3](capable-test.md)
+
+Le **Capable Test v0.3** constitue la grille intégrée dérivée des sources doctrinales : effectivité, Liberté effective, Égalité effective, Fraternité effective, souveraineté sur la capacité, tensions LEF et corrigibilité.
+
+Il ne remplace aucune de ces sources et ne possède pas d’autorité supérieure sur elles.
+
 ## Règle source / projection
 
 Une formulation de campagne ou une proposition électorale peut être dérivée de ces textes.
