@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-27"
-version: "1.11"
+version: "1.12"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -75,15 +75,24 @@ Formulation courte recommandée :
 > **Jean Hugues Noël Robert, qui se présente publiquement et électoralement sous le nom de Baron Mariani, a déposé le 11 septembre 2026 une déclaration de candidature aux sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du Tribunal administratif de Bastia du 14 septembre. Aucun retrait volontaire n’est documenté.**
 
 
-## État au samedi 26 septembre — veille du scrutin
+## État au dimanche 27 septembre — scrutin terminé
 
-Le scrutin sénatorial de Haute-Corse est prévu le **dimanche 27 septembre 2026**. Le présent dossier est volontairement préparé avant le résultat afin que la mise à jour post-scrutin puisse être limitée à des faits nouveaux : résultat proclamé, interventions parlementaires effectivement envoyées, matérialisation de la requête au Conseil constitutionnel et liens vers les traces publiques correspondantes.
+Le scrutin sénatorial de Haute-Corse s'est tenu le **27 septembre 2026**.
 
-Cette préparation suit une règle de traçabilité :
+À **11:07**, Corse Net Infos publie la réélection du sénateur sortant **Paulu Santu Parigi**, avec **442 voix**, contre **88 voix** pour **Nicolas Battini**. Le collège sénatorial de Haute-Corse compte **616 électeurs**.
 
-> **ne jamais présenter comme réalisé avant le scrutin ce qui n'est encore qu'un acte préparé.**
+Sources de contrôle :
+- Corse Net Infos, 27 septembre 2026 : https://www.corsenetinfos.corsica/Haute-Corse-le-senateur-sortant-Paulu-Santu-Parigi-reelu_a92845.html
+- Ministère de l'Intérieur, page Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+- Sénat, page Haute-Corse : https://senatoriales2026.senat.fr/departement/2B-haute-corse
 
-Les blocs post-scrutin sont donc préparés séparément et ne deviennent des faits qu'après leur exécution et leur horodatage.
+Au moment du contrôle documentaire effectué après le scrutin, les pages du ministère de l'Intérieur et du Sénat consultées affichaient encore principalement les **deux candidatures enregistrées**, tandis que le résultat 442–88 était déjà publié par Corse Net Infos. L'heure juridique ou administrative exacte de proclamation reste donc distincte de l'heure de publication médiatique et demeure à fixer par une trace primaire si nécessaire.
+
+Le dossier post-scrutin continue d'appliquer la même règle :
+
+> **ne jamais présenter comme réalisé ce qui n'est encore qu'un acte préparé.**
+
+Les interventions parlementaires, la requête au Conseil constitutionnel et leurs éventuels accusés ne deviennent des faits qu'après exécution et horodatage.
 
 
 ## Antériorité publique de la candidature et disponibilité du fond politique
@@ -418,6 +427,29 @@ mais abandonne les formulations antérieures centrées sur les « habilitations 
 **Statut exact :** proposition publique et versionnée, issue de plusieurs cycles de revue adverse ; **aucun dépôt ni adoption parlementaire n’est établi** à ce stade.
 
 La filiation avec les travaux de mai est documentée sans présumer d’une influence causale : la contribution C.O.R.S.I.C.A. a été transmise le 28 mai 2026 et mentionnée parmi les contributions écrites du rapport n° 2865. Florent Boudié, rapporteur de ce texte à l’Assemblée nationale, est par ailleurs l’auteur de l’amendement CL48 ayant fait évoluer la rédaction relative à la consultation des électeurs corses. Ces faits établissent un canal parlementaire antérieur ; ils ne démontrent aucun soutien à la proposition publiée le 26 septembre.
+### 27 septembre 2026 — résultat du scrutin
+
+Le résultat désormais observé en Haute-Corse est :
+
+```text
+Paulu Santu Parigi
+442 voix
+→ réélu
+
+Nicolas Battini
+88 voix
+```
+
+Ce résultat clôt le scrutin lui-même ; il ne clôt pas les questions documentaires ou contentieuses relatives à la déclaration de candidature non enregistrée de Jean Hugues Noël Robert.
+
+La distinction reste :
+
+```text
+résultat du scrutin entre les candidatures enregistrées
+≠
+mérite du contentieux relatif à une déclaration non enregistrée
+```
+
 ## 27 septembre 2026 — naissance publique du mouvement Capable
 
 Le **27 septembre 2026 à 12:01**, Jean Hugues Noël Robert annonce publiquement sur X la naissance du mouvement **Capable**.
@@ -509,11 +541,11 @@ Il est :
 
 Cette distinction sera conservée dans les publications post-scrutin afin de ne pas transformer une interprétation doctrinale en conclusion juridictionnelle.
 
-## Préparation du 27 septembre — mise à jour post-scrutin
+## Suivi post-scrutin — actes encore à documenter
 
-Si la proclamation intervient avant midi, l'objectif documentaire est qu'une mise à jour publique puisse être matérialisée **autour de 12 h**, après vérification du résultat et de l'acte effectivement accompli.
+Le résultat électoral est désormais observé. Les autres actes post-scrutin restent traités séparément et ne doivent pas être inférés du seul fait que le scrutin est terminé.
 
-Les éléments préparés mais **non encore réalisés** au 26 septembre sont :
+Au moment de la présente mise à jour, restent à documenter par leurs propres traces lorsqu'ils seront effectivement accomplis :
 
 ```text
 RESULTAT_2B
@@ -541,13 +573,11 @@ TRACE_PUBLIQUE
 
 Aucun de ces champs ne doit être rempli par anticipation.
 
-### Formulation de commentaire prête à adapter après les faits
+### Formulation courte post-scrutin
 
-La formulation suivante est préparée comme **texte conditionnel**, à actualiser uniquement après le résultat et les actes correspondants :
+> **Le scrutin du 27 septembre est terminé : Paulu Santu Parigi est réélu avec 442 voix contre 88 à Nicolas Battini. La déclaration de candidature déposée par Jean Hugues Noël Robert le 11 septembre n'avait pas été enregistrée à la suite du jugement du Tribunal administratif de Bastia du 14 septembre. Le dossier public conserve séparément le résultat électoral, le contentieux et la proposition doctrinale sur l'effectivité.**
 
-> **Le scrutin est terminé. Le dossier public permet désormais de comparer ce qui était juridiquement possible avec ce qui a été effectivement accessible. Le cas documenté ici montre le type d'écart qui peut subsister entre une possibilité juridique et une capacité réelle. L'amendement Baron Mariani propose que l'article 72-5 traite précisément les deux dimensions de cette effectivité : les effets des normes et l'accès aux habilitations nécessaires pour les produire.**
-
-Cette formulation décrit un mécanisme proposé par l'auteur ; elle ne prédit ni ne présume la manière dont les institutions futures appliqueront le texte.
+Cette formulation ne préjuge ni d'une future saisine ni de son issue.
 
 
 Documents opérationnels associés :
