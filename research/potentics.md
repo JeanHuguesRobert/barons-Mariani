@@ -22,6 +22,7 @@ related_documents:
   - cogentia/research/learning_computer_genese_et_architecture.md
   - research/principe_rossignol.md
 changelog:
+  - '2026-09-27 — added the Necessary Means Principle as the reciprocal of early impossibility detection: when a valuable possible lacks a required capability, explore admissible means-to-the-means under Measured Risk rather than confusing absence with impossibility.'
   - '2026-09-27 — linked Potentics/ERP to early impossibility detection and the Accessible Inputs Gate: prune branches with decisively impossible preconditions early while distinguishing impossible from blocked, unknown or not-yet-available.'
   - '2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated.'
   - '2026-08-25 — integrated the stable core of research/potentics_exploration_ontology.md: Map/Territory distinction, represented candidates versus The Possible, Possibility Space as corrigible model, optional Fields/Landscapes, and the Map → Reality response → Map'' exploration loop (§1.4).'
@@ -257,6 +258,37 @@ This connects directly to the Corpus **Accessible Inputs Gate** for resumable
 agent work: if a future handler cannot access an indispensable input, that
 specific continuation is not presently feasible even if the broader objective
 remains possible.
+### 1.6 Necessary means increase potentiality
+
+The reciprocal move is equally important.
+
+A branch can be possible in principle yet have low current potentiality because
+a necessary means is absent. If the objective remains valuable, Rational
+Exploration should not confuse that absence with impossibility. It should ask
+whether the missing means can itself be obtained, created, substituted, or
+reconfigured.
+
+```text
+valuable possible
+→ necessary means absent
+→ explore means-to-the-means
+→ evaluate acquisition paths under Measured Risk
+→ obtain / create / substitute admissibly
+→ potentiality of the original possible increases
+```
+
+This gives a paired discipline:
+
+> **Detect the Impossible early. Obtain the Necessary deliberately.**
+
+The pair is asymmetric but complementary. Early impossibility detection prunes
+branches Reality has ruled out. The Necessary Means Principle changes the
+conditions around a branch that Reality has **not** ruled out but that lacks a
+required capability.
+
+Necessity is not authority. Any attempt to obtain the missing means remains
+bounded by Mandate, rights, Exposure, recovery, responsibility and hard
+constraints.
 ---
 
 ## 2. From Possibility to Potentiality
