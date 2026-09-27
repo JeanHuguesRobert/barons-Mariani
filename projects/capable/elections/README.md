@@ -2,7 +2,7 @@
 title: "Capable — Projections électorales"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-25"
+date: "2026-09-27"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -74,6 +74,22 @@ retour au Corpus
 6. Toute projection doit indiquer avant l’élection **ce qui permettrait de constater son ineffectivité**.
 7. Elle doit expliciter les principaux **effets indésirables ou distributifs à surveiller**.
 8. Elle doit prévoir, lorsque le mandat le permet, des **mécanismes de correction, de réexamen ou d’abandon** plutôt que présumer la réussite de la proposition.
+
+## Statut public du mouvement
+
+Depuis le **27 septembre 2026**, **Capable** est publiquement annoncé comme mouvement. La trace publique de référence est le [post X du 27 septembre 2026 à 12:01](https://x.com/BaronsMariani/status/2104149309168169078).
+
+Cette annonce autorise désormais les **projections électorales futures** à employer explicitement le nom Capable lorsqu’elles sont effectivement annoncées sous ce nom.
+
+Elle ne vaut cependant pas annonce anticipée de ces candidatures : le Corpus doit conserver la distinction entre :
+
+```text
+mouvement publiquement annoncé
+≠
+projection électorale en préparation
+≠
+candidature publiquement annoncée
+```
 
 ## Projection institutionnelle transversale
 

@@ -2,7 +2,7 @@
 title: "Capable — Généalogie"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-25"
+date: "2026-09-27"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -68,6 +68,30 @@ généralisation trans-échelles et trans-élections
 ```
 
 Cette chaîne n’implique pas que toutes les étapes aient été conçues dès 1995 ni qu’elles aient alors porté leur vocabulaire actuel. Elle décrit une continuité reconstruite à partir de traces et de concepts aujourd’hui présents dans le Corpus.
+
+## Naissance publique du mouvement — 27 septembre 2026
+
+Le **27 septembre 2026 à 12:01**, le nom **Capable** est publiquement annoncé comme mouvement sur le compte X [@BaronsMariani](https://x.com/BaronsMariani/status/2104149309168169078).
+
+La publication associe explicitement :
+
+```text
+Capable
+→ Principe d'effectivité
+→ Liberté, Égalité, Fraternité effectives
+→ Autonomie de Capacité
+→ #Suvranu
+```
+
+Elle marque un changement de statut documentaire :
+
+```text
+nom et architecture en cours de stabilisation dans le Corpus
+→ annonce publique du mouvement
+→ futures projections civiques, institutionnelles et électorales
+```
+
+La règle de non-rétroactivité reste inchangée : les candidatures et initiatives antérieures conservent leur identité historique propre. De même, cette annonce du mouvement ne doit pas être interprétée comme l’annonce automatique d’une candidature future qui n’aurait pas été rendue publique séparément.
 
 ## Première projection légistique publique — 26 septembre 2026
 

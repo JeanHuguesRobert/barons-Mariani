@@ -148,4 +148,27 @@ Capable est la projection civique et politique de cette grammaire. Il n’en dev
 
 Les Reality Cases et projections institutionnelles servent à confronter la doctrine au Réel, documenter les écarts d’effectivité, observer les effets et réinjecter les apprentissages dans le Corpus.
 
-Le [Capable Test v0.3](../../projects/capable/capable-test.md) constitue désormais le **point d’entrée opérationnel** pour appliquer cette doctrine à un cas situé, sans remplacer les sources auxquelles il renvoie.
+Le [Capable Test v0.4](../../projects/capable/capable-test.md) constitue désormais le **point d’entrée opérationnel** pour appliquer cette doctrine à un cas situé, sans remplacer les sources auxquelles il renvoie.
+
+
+## 15. Naissance publique du mouvement
+
+Le **27 septembre 2026 à 12:01**, Capable franchit un nouveau seuil : le mouvement est annoncé publiquement sur X par [@BaronsMariani](https://x.com/BaronsMariani/status/2104149309168169078).
+
+La formulation publique condense quatre fils du Trail :
+
+```text
+« une loi ne vaut que par ses effets »
+→ Principe d'effectivité
+
+« Liberté, Egalité, Fraternité... effectives ! »
+→ triangle LEF
+
+« Autonomie, de Capacité, pas de Papier »
+→ Autonomie de Capacité
+
+#suvranu
+→ souveraineté civique et contrôle-capacité
+```
+
+Cette publication constitue une **trace de projection publique**, non une nouvelle source doctrinale. Elle prépare l’usage civique, institutionnel et électoral de Capable sans valoir annonce automatique d’une candidature future.

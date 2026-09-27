@@ -2,7 +2,7 @@
 title: "Capable"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-25"
+date: "2026-09-27"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -81,7 +81,7 @@ exprime le premier niveau de cette exigence, sans l’épuiser : l’indépendan
 - [Capable Test](capable-test.md)
 
 ```text
-Capable Test v0.3
+Capable Test v0.4
 = effectivité
 + Liberté effective
 + Égalité effective
@@ -94,6 +94,18 @@ Capable Test v0.3
 Le test ne fournit ni score global ni verdict politique automatique. Il produit une carte des capacités, effets, asymétries, dépendances, tensions et possibilités de correction.
 - [Projections électorales](elections/README.md)
 - [Trail public Capable](../../research/trails/capable.md)
+
+## Première annonce publique — 27 septembre 2026
+
+Le mouvement **Capable** a été annoncé publiquement le **27 septembre 2026 à 12:01** sur le compte X [@BaronsMariani](https://x.com/BaronsMariani/status/2104149309168169078).
+
+Texte publié :
+
+> À la veille du débat au Sénat sur l'autonomie de la #Corse, j'annonce la naissance du mouvement "Capable". Principe d'effectivité : une loi ne faut que par ses effets. But : Liberté, Egalité, Fraternité... effectives ! Autonomie, de Capacité, pas de Papier #suvranu #Capable
+
+Cette publication constitue la **première annonce publique documentée du mouvement sous ce nom**. Elle fixe publiquement quatre éléments déjà présents dans le Corpus : le Principe d’effectivité, Liberté–Égalité–Fraternité effectives, l’Autonomie de Capacité et `#Suvranu`.
+
+Elle ne transforme pas rétroactivement les candidatures antérieures en candidatures Capable et ne vaut pas, par elle-même, annonce d’une candidature électorale future.
 
 ## Règle de fidélité
 
