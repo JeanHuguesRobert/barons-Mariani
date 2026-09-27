@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-26"
+updated: "2026-09-27"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -75,8 +75,9 @@ sources:
 
   - id: elections-2024-complaints
     path: memory/marie-louise/elections-2024-complaints.md
-    role: source-note
+    role: longitudinal-electoral-and-remedy-source
     required: true
+    note: "Contemporaneous 2024 complaints and later institutional outcomes; preserve asserted harm, adjudicated findings and later causal analysis as distinct layers."
 
   - id: marie-louise-chronology
     path: memory/marie-louise/chronology/README.md
@@ -145,11 +146,6 @@ sources:
     required: false
     note: "Public navigation layer for the documented 'Une Corse capable' doctrine; not an independent source of truth."
 
-  - id: elections-2024-complaints
-    path: memory/marie-louise/elections-2024-complaints.md
-    role: longitudinal-electoral-and-remedy-source
-    required: true
-    note: "Contemporaneous 2024 complaints and later institutional outcomes; preserve asserted harm, adjudicated findings and later causal analysis as distinct layers."
 
   - id: electoral-continuity-2026-09-17
     path: research/senatoriales-2026/declaration_continuite_electorale_2026-09-17.md
