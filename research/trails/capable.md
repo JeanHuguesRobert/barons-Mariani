@@ -172,3 +172,17 @@ La formulation publique condense quatre fils du Trail :
 ```
 
 Cette publication constitue une **trace de projection publique**, non une nouvelle source doctrinale. Elle prépare l’usage civique, institutionnel et électoral de Capable sans valoir annonce automatique d’une candidature future.
+
+
+## 16. Dogfooding immédiat — baseline du mouvement
+
+Le jour même de sa naissance publique, Capable est soumis à son propre principe : proclamation → baseline contradictoire → effets futurs → objections → correction.
+
+Deux nouveaux objets documentaires matérialisent cette exigence :
+
+- [Registre des proclamations publiques](../../projects/capable/public-claims.md) ;
+- [Reality Test baseline du 27 septembre 2026](../../projects/capable/reality-tests/capable-2026-09-27-baseline.md).
+
+Le premier conserve ce qui est réellement dit. Le second fixe avant résultat ce qui devra être observé et ce qui pourrait contredire les hypothèses du mouvement.
+
+La coquille publique « une loi ne **faut** que par ses effets » devient ainsi un premier micro-test de corrigibilité : conserver la trace, qualifier l'écart, corriger séparément si nécessaire.
