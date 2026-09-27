@@ -211,6 +211,37 @@ Ensemble de procédures et d'infrastructures (provenance, versioning git, source
 
 ---
 
+## Principe d’effectivité
+
+**Type:** doctrinal principle / evaluation grammar  
+**Scope:** Global  
+**Status:** Working  
+
+**Short definition:**  
+Maxime selon laquelle une norme ne peut être correctement appréciée à partir de sa seule existence formelle ou de son intention : il faut examiner ce qu’elle rend réellement accessible et exerçable, son usage ou son non-usage, les effets qu’elle produit dans le Réel, puis la possibilité de les observer, évaluer et corriger. La formule courte est : **« une loi ne vaut que par ses effets »** ; elle ne remplace ni la validité juridique ni les garanties fondamentales.
+
+**Related concepts:**
+- Autonomie de Capacité
+- Écart d’effectivité
+- Machine à Empêcher
+- Machine à Explorer
+- Machine à Rendre Capable
+- Booster Principle
+- Démocratie capable
+- Potentique territoriale
+
+**Reference documents:**
+- [`research/principe_effectivite.md`](principe_effectivite.md)
+- [`research/autonomia/amendement_effectivite_article_72-5.md`](autonomia/amendement_effectivite_article_72-5.md)
+
+**Used in:**
+- analyse des écarts entre droit formel et capacité réelle
+- évaluation des effets des politiques et institutions
+- Reality Case légistique de l’amendement dit « Baron Mariani »
+- projection politique Capable
+
+---
+
 ## Capable
 
 **Type:** civic-political projection / movement  

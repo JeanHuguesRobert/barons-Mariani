@@ -94,9 +94,15 @@ La formalisation de **souveraineté individuelle et populaire / #Suvranu** reste
 
 ### Effectivité
 
+➡️ [Principe d’effectivité — Une loi ne vaut que par ses effets](../../research/principe_effectivite.md)
+
+Le principe d’effectivité fournit désormais la source doctrinale générale : distinguer la validité formelle de l’effectivité pratique, suivre le passage de ce qui est ouvert à ce qui devient réellement accessible et exerçable, observer les effets de l’exercice ou du non-usage, puis préserver une capacité d’évaluation et de correction.
+
+#### Reality Case légistique
+
 ➡️ [Amendement d’effectivité — article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md)
 
-La version publique `0.4-rc4` fournit un exemple précis de transformation d’une doctrine en proposition institutionnelle : plutôt que d’ajouter un principe abstrait à côté du texte existant, elle reformule le mécanisme déjà consacré à la loi organique et à l’évaluation pour y intégrer la **mise en œuvre effective** du régime, son **évaluation périodique** et ses effets sur Liberté, Égalité, Fraternité.
+La version publique `0.4-rc4` constitue un **Reality Case légistique** de ce principe. Elle reformule le mécanisme déjà consacré à la loi organique et à l’évaluation pour y intégrer la **mise en œuvre effective** du régime, son **évaluation périodique** et ses effets sur Liberté, Égalité, Fraternité. Elle ne constitue ni la source exclusive du principe ni un amendement propre au mouvement Capable ; sa provenance C.O.R.S.I.C.A. / Autonomie de Capacité reste distincte.
 
 ## Devise républicaine
 

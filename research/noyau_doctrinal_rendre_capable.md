@@ -28,6 +28,7 @@ related_documents:
   - JeanHuguesRobert/.cogentia.json
   - barons-Mariani/POSSIBILISM.md
   - barons-Mariani/research/autonomia.md
+  - barons-Mariani/research/principe_effectivite.md
   - barons-Mariani/research/autonomia/amendement_effectivite_article_72-5.md
   - barons-Mariani/research/democratie_capable.md
   - barons-Mariani/research/traceabilite_civique_antimafia.md
@@ -126,7 +127,7 @@ Le document peut être lu à partir d’une grammaire simple :
 - **Liberté effective** : étendre l’espace des actions réellement accessibles, et non seulement celui des actions formellement permises.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
-- **Effectivité** : tester dans quelle mesure ce qui est annoncé, reconnu, permis ou garanti peut réellement être converti en action par l'acteur concerné, dans sa situation et dans le temps utile.
+- **Effectivité** : voir la source dédiée [Principe d’effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md), qui distingue validité, effectivité, efficacité, efficience et impact, et organise la confrontation entre ce qui est formellement ouvert, ce qui devient réellement accessible et exerçable, les effets observés et leur correction possible.
 - **Packetisation** : rendre des flux, actes ou ressources manipulables, routables, transmissibles et recomposables.
 - **Situation** : rattacher les capacités à des lieux, des personnes, des objets, des ressources et des contextes réels.
 - **Trace sans surveillance** : rendre les actes imputables sans basculer dans le fichage des personnes.
