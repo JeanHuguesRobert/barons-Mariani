@@ -40,12 +40,29 @@ Le résultat électoral est désormais observé. Les autres blocs restent compl�
 |---|---|
 | Élu en Haute-Corse | **Paulu Santu Parigi, réélu** |
 | Résultat observé | **442 voix** pour Paulu Santu Parigi ; **88 voix** pour Nicolas Battini |
-| Collège électoral | **616 électeurs sénatoriaux** |
-| Première publication médiatique vérifiée | Corse Net Infos, **27 septembre 2026 à 11:07** |
+| Inscrits / votants | **616 / 606** |
+| Blancs / nuls / exprimés | **36 / 40 / 530** |
+| Trace médiatique horodatée exploitable | Corse-Matin, **27 septembre 2026 à 12:09** |
+| Horodatage Corse Net Infos | **11:07 affiché**, mais non retenu comme heure de proclamation |
 | Heure officielle exacte de proclamation | `UNKNOWN` à ce stade documentaire |
 | Interventions parlementaires post-scrutin | `À DOCUMENTER APRÈS ENVOI EFFECTIF` |
 | Requête au Conseil constitutionnel | `À DOCUMENTER APRÈS ACTE EFFECTIF` |
 | Version publique de la requête | `À AJOUTER APRÈS MATÉRIALISATION` |
+
+### Anomalie d'horodatage médiatique
+
+Corse Net Infos affiche **11:07** sur son article annonçant le résultat final. Cette heure est conservée comme **métadonnée éditoriale de la page**, mais elle n'est pas utilisée comme heure de proclamation : l'observation contemporaine indique que les résultats ont été proclamés plus tard, et Corse-Matin publie son bloc complet à **12:09**.
+
+```text
+11:07 CNI
+= horodatage affiché
+
+12:09 Corse-Matin
+= publication publique du résultat complet
+
+T1 proclamation officielle
+= UNKNOWN tant qu'une source primaire ne la fixe pas
+```
 
 ## 2. Commentaire très court — gabarit
 
