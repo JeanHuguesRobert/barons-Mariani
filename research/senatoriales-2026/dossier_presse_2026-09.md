@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
 subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-27"
-version: "1.12"
+version: "1.13"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -79,14 +79,45 @@ Formulation courte recommandée :
 
 Le scrutin sénatorial de Haute-Corse s'est tenu le **27 septembre 2026**.
 
-À **11:07**, Corse Net Infos publie la réélection du sénateur sortant **Paulu Santu Parigi**, avec **442 voix**, contre **88 voix** pour **Nicolas Battini**. Le collège sénatorial de Haute-Corse compte **616 électeurs**.
+Le résultat publié est le suivant :
+
+- **Paulu Santu Parigi : 442 voix — réélu** ;
+- **Nicolas Battini : 88 voix** ;
+- **inscrits : 616** ;
+- **votants : 606** ;
+- **blancs : 36** ;
+- **nuls : 40** ;
+- **suffrages exprimés : 530**.
+
+Corse-Matin publie ce bloc de résultats dans son direct à **12:09**. La somme des voix des deux candidats, **442 + 88 = 530**, correspond aux suffrages exprimés indiqués.
 
 Sources de contrôle :
+- Corse-Matin, direct du 27 septembre 2026 : https://www.corsematin.com/article/politique/1488996981371314/direct-corsematin-senatoriales-en-corse-suivez-les-elections-en-direct
 - Corse Net Infos, 27 septembre 2026 : https://www.corsenetinfos.corsica/Haute-Corse-le-senateur-sortant-Paulu-Santu-Parigi-reelu_a92845.html
 - Ministère de l'Intérieur, page Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Sénat, page Haute-Corse : https://senatoriales2026.senat.fr/departement/2B-haute-corse
 
-Au moment du contrôle documentaire effectué après le scrutin, les pages du ministère de l'Intérieur et du Sénat consultées affichaient encore principalement les **deux candidatures enregistrées**, tandis que le résultat 442–88 était déjà publié par Corse Net Infos. L'heure juridique ou administrative exacte de proclamation reste donc distincte de l'heure de publication médiatique et demeure à fixer par une trace primaire si nécessaire.
+### Attention sur l'horodatage Corse Net Infos
+
+La page de Corse Net Infos affiche **11:07** comme heure de publication, tout en décrivant le résultat final du scrutin. Selon l'observation contemporaine de Jean Hugues Noël Robert, les résultats ont été proclamés **nettement plus tard**. Corse-Matin publie pour sa part le résultat à **12:09**.
+
+Le Corpus traite donc **11:07 comme un horodatage éditorial de la page, non comme une heure fiable de proclamation**.
+
+La règle devient :
+
+```text
+heure affichée par un média
+≠
+heure de proclamation
+
+12:09 Corse-Matin
+= trace publique horodatée du résultat
+
+heure officielle de proclamation
+= encore à établir par une source primaire
+```
+
+Cette divergence est conservée comme anomalie de chronologie médiatique, sans inférence sur son origine ou son intention.
 
 Le dossier post-scrutin continue d'appliquer la même règle :
 
