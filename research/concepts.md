@@ -242,6 +242,33 @@ Maxime selon laquelle une norme ne peut être correctement appréciée à partir
 
 ---
 
+## #Suvranu
+
+**Type:** civic-capability concept / political horizon  
+**Scope:** Individual → Collective → Democratic  
+**Status:** Working  
+
+**Short definition:**  
+Nom de travail de l’articulation entre souveraineté individuelle effective et souveraineté populaire effective. La souveraineté individuelle y désigne une capacité civique — comprendre, juger, choisir, agir ou ne pas agir, mandater, observer, contester, corriger, révoquer et reprendre — et non l’exercice individuel de la souveraineté nationale au sens constitutionnel.
+
+**Related concepts:**
+- Principe d’effectivité
+- Autonomie de Capacité
+- Démocratie capable
+- Kudocracy
+- Agent Mandaté
+- contrôle-capacité
+- non-auto-élévation
+- Capable
+
+**Reference documents:**
+- `research/souverainete_delegation_agents_mandates.md`
+- `research/principe_effectivite.md`
+- `research/security_model_representative_democracy.md`
+- `research/kudocracy.md`
+
+---
+
 ## Capable
 
 **Type:** civic-political projection / movement  

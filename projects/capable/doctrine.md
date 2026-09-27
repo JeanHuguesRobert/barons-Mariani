@@ -84,13 +84,16 @@ Le triptyque de travail est :
 - **Machine à Explorer** : permet de découvrir, comparer, tester et apprendre ;
 - **Machine à Rendre Capable** : apporte ou réorganise les facteurs permettant de transformer des possibles en capacités praticables.
 
-### Souveraineté civique
+### Souveraineté civique / #Suvranu
 
+➡️ [Souveraineté, délégation et Agents Mandatés](../../research/souverainete_delegation_agents_mandates.md)  
 ➡️ [Kudocracy](../../research/kudocracy.md)
 
-Kudocracy traite notamment de la capacité du citoyen à former son jugement sans transférer automatiquement sa décision à un mandataire humain ou artificiel.
+La source sur la souveraineté et la délégation formalise désormais `#Suvranu` comme articulation entre souveraineté individuelle effective et souveraineté populaire effective.
 
-La formalisation de **souveraineté individuelle et populaire / #Suvranu** reste un chantier doctrinal à poursuivre séparément.
+La question n’est pas de rendre l’individu juridiquement « souverain » au sens de l’article 3 de la Constitution, mais de préserver sa position de **principal** : capacité de comprendre, choisir, agir ou ne pas agir, mandater, observer, contester, corriger, révoquer et reprendre.
+
+Kudocracy fournit une projection sur le jugement et la décision civiques assistés, en conservant la décision finale chez le citoyen sauf délégation explicite et contrôlable.
 
 ### Effectivité
 

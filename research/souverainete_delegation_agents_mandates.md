@@ -4,9 +4,9 @@ subtitle: Grammaire commune du pouvoir politique, de la démocratie capable et d
 description: Une grammaire bornée de délégation pour les Handlers humains, institutionnels, artificiels ou hybrides.
 author: Jean Hugues Noël Robert
 affiliation: Institut Mariani — C.O.R.S.I.C.A.
-date: '2026-09-08'
-last_modified_at: '2026-09-08'
-version: '0.2'
+date: '2026-09-27'
+last_modified_at: '2026-09-27'
+version: '0.3'
 status: working-paper — consolidation doctrinale
 license: CC BY-SA 4.0
 language: fr
@@ -34,6 +34,8 @@ review:
   reviewed_by: []
 update_policy: UP-DEFAULT-REVIEWED
 related:
+  - ./principe_effectivite.md
+  - ../projects/capable/capable-test.md
   - ./noyau_doctrinal_rendre_capable.md
   - ./democratie_capable.md
   - ./security_model_representative_democracy.md
@@ -60,6 +62,7 @@ tags:
   - anti-capture
   - portabilite
 changelog:
+  - 'v0.3 (2026-09-27) — formalisation de #Suvranu comme articulation capacitaire entre souveraineté individuelle et souveraineté populaire ; distinction explicite avec la souveraineté nationale au sens constitutionnel ; intégration du Principe d’effectivité et du Capable Test v0.2 ; souveraineté sur la capacité, liberté de non-usage, contrôle-capacité et test de contrariété.'
   - 'v0.1 (2026-08-24) — consolidation des acquis : souveraineté individuelle et populaire effectives, délégation sans aliénation, Agent Mandaté, autonomie opérationnelle sans autonomisation de l''autorité, reddition, révocation, anti-capture, portabilité et pluralité des implémentations.'
   - 'v0.2 (2026-09-08) — consolidation provisoire des Handlers Mandatés : grammaire commune de délégation humaine, institutionnelle, artificielle ou hybride ; traçabilité proportionnée, symétrique et contestable ; distinction maintenue entre autonomie opérationnelle et auto-autorisation.'
 classification_source: cogentia.js
@@ -112,6 +115,168 @@ Une population dont les membres disposent formellement de droits politiques mais
 La souveraineté individuelle est cependant une condition nécessaire, non suffisante. Sa composition collective exige aussi des procédures légitimes, des droits fondamentaux, une égalité politique suffisante, des infrastructures civiques et des mécanismes anti-capture.
 
 L'objectif n'est donc ni l'absorption de l'individu par le collectif, ni la réduction du collectif à une juxtaposition d'individus isolés. Il est de rendre composables des capacités individuelles sans dissoudre leurs Principals.
+
+## 3 bis. #Suvranu : souveraineté civique comme capacité effective
+
+`#Suvranu` est le nom de travail donné dans le Corpus à l’articulation entre **souveraineté individuelle effective** et **souveraineté populaire effective**.
+
+Le terme ne crée pas une catégorie juridique nouvelle.
+
+Dans le droit constitutionnel français, la souveraineté nationale appartient au peuple, qui l’exerce par ses représentants et par la voie du référendum ; aucune section du peuple ni aucun individu ne peut s’en attribuer l’exercice.
+
+La **souveraineté individuelle** employée ici est donc une notion **capacitaire et civique**, non une prétention pour chaque personne à détenir ou exercer séparément la souveraineté nationale.
+
+Elle pose une autre question :
+
+> **De quelles capacités réelles une personne doit-elle disposer pour demeurer un principal et non devenir seulement l’objet des pouvoirs exercés sur elle ?**
+
+Une première grammaire est :
+
+```text
+comprendre
+→ former et réviser son jugement
+→ choisir
+→ agir
+→ choisir de ne pas agir
+→ mandater
+→ observer
+→ contester
+→ corriger
+→ révoquer
+→ reprendre
+→ changer de dépendance lorsque cela est possible
+```
+
+La souveraineté individuelle effective ne suppose donc ni indépendance absolue ni autosuffisance.
+
+Une personne peut mobiliser des ressources humaines, techniques, institutionnelles ou agentiques externes tout en restant le principal, si l’assistance ne déplace pas silencieusement la finalité, le mandat ou la capacité de reprise.
+
+Formule de travail :
+
+> **L’indépendance, oui, mais d’esprit d’abord.**
+
+Cette indépendance d’esprit est nécessaire mais non suffisante. Elle doit pouvoir se traduire en capacités d’information, de jugement, d’action, de non-action, de contrôle et de reprise.
+
+## 3 ter. Souveraineté sur la capacité
+
+Une augmentation de puissance d’action ne constitue pas automatiquement une augmentation de souveraineté.
+
+Un système peut permettre à une personne de faire davantage tout en la rendant plus dépendante d’un opérateur, d’une infrastructure, d’un agent, d’un fournisseur ou d’une procédure qu’elle ne peut ni comprendre ni quitter.
+
+Il faut donc distinguer :
+
+```text
+puissance d'action
+≠
+souveraineté sur cette puissance
+```
+
+Une capacité devient plus souveraine lorsque son titulaire conserve, dans une mesure raisonnable :
+
+- la compréhension de ce qui agit en son nom ;
+- la maîtrise de la finalité ;
+- la faculté de consentir ou refuser ;
+- la liberté de non-usage ;
+- le contrôle des délégations ;
+- l’accès aux traces pertinentes ;
+- la possibilité de contester ;
+- la possibilité de révoquer ;
+- la possibilité de reprendre ;
+- la portabilité vers une autre implémentation ou dépendance lorsque cela est possible.
+
+Cette distinction relie directement la souveraineté au [Principe d’effectivité](principe_effectivite.md) :
+
+> une souveraineté déclarée ne vaut comme capacité politique que dans la mesure où les facultés qui la composent deviennent réellement accessibles, exerçables, contrôlables et corrigibles.
+
+## 3 quater. De l’individuel au populaire
+
+La souveraineté populaire effective ne se réduit ni à la somme arithmétique des souverainetés individuelles ni à leur absorption dans une volonté collective abstraite.
+
+Elle exige des mécanismes de composition.
+
+```text
+capacités individuelles effectives
++
+égalité politique suffisante
++
+procédures de composition légitimes
++
+délibération / votation / représentation
++
+mandats contrôlables
++
+capacité collective de reprise
+=
+souveraineté populaire plus effective
+```
+
+Cette composition doit préserver deux propriétés en tension :
+
+1. **le collectif doit pouvoir décider** ;
+2. **l’individu ne doit pas être dissous comme principal de ses propres capacités**.
+
+Le problème devient donc :
+
+> **Comment composer des capacités individuelles en puissance collective sans transformer cette puissance collective en une nouvelle Machine à Empêcher pour ses propres membres ?**
+
+`#Suvranu` nomme cet horizon, non sa solution définitive.
+
+## 3 quinquies. Test de contrariété
+
+La souveraineté devient particulièrement observable lorsque les volontés divergent.
+
+Le test déjà formulé dans la théorie de sécurité de la démocratie représentative demeure :
+
+```text
+principal = OUI
+agent = NON
+qui peut effectivement faire prévaloir la décision ?
+
+principal = NON
+agent = OUI
+qui peut effectivement arrêter, corriger ou reprendre ?
+```
+
+Au niveau collectif :
+
+```text
+peuple = OUI
+représentants = NON
+
+peuple = NON
+représentants = OUI
+```
+
+Le résultat n’est pas interprété mécaniquement : droits fondamentaux, garanties constitutionnelles, pluralité des principals et limites de compétence demeurent.
+
+Mais la contrariété rend visible le rapport de capacité qui reste souvent masqué lorsque principal et agent sont d’accord.
+
+## 3 sexies. #Suvranu et Capable
+
+`#Suvranu` n’est pas une couche partisane autonome.
+
+Dans l’architecture actuelle :
+
+```text
+Principe d'effectivité
+        ↓
+capacités réellement exerçables
+        ↓
+souveraineté sur ces capacités
+        ↓
+souveraineté individuelle effective
+        ↓
+composition démocratique
+        ↓
+souveraineté populaire effective
+        ↓
+#Suvranu
+```
+
+**Capable** est une projection civique et politique de cette grammaire.
+
+Le mouvement ne peut donc pas se dire « souverain » parce qu’il porte ce nom ou cette doctrine. Il doit montrer que ses propres dispositifs augmentent réellement les capacités de compréhension, de choix, d’action, de contrôle, de contestation et de correction de ceux auxquels ils s’appliquent.
+
 
 ---
 

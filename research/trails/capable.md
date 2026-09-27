@@ -98,10 +98,12 @@ Une démocratie capable ne se contente pas d’ouvrir des espaces de parole. Ell
 
 ## 10. Souveraineté civique / #Suvranu
 
-➡️ [Kudocracy](../kudocracy.md)  
-➡️ [Capable — point d’entrée](../../projects/capable/README.md)
+➡️ [Souveraineté, délégation et Agents Mandatés](../souverainete_delegation_agents_mandates.md)  
+➡️ [Kudocracy](../kudocracy.md)
 
-`#Suvranu` désigne l’horizon articulant souveraineté individuelle et souveraineté populaire. Sa formalisation doctrinale reste un chantier distinct.
+`#Suvranu` formalise l’articulation entre la capacité d’une personne à rester principal de ses choix et délégations, et la capacité d’un peuple à composer ces souverainetés civiques en pouvoir collectif effectif.
+
+Le concept de souveraineté individuelle est ici capacitaire, non constitutionnel : il ne signifie pas qu’un individu puisse s’attribuer l’exercice de la souveraineté nationale.
 
 ## 11. Une Corse capable
 

@@ -62,15 +62,17 @@ Le Petit Parti — historiquement issu du **Pertitellu** de Corte — constitue 
 
 ## Horizon : #Suvranu
 
-`#Suvranu` désigne l’articulation recherchée entre **souveraineté individuelle** et **souveraineté populaire**.
+➡️ [Souveraineté, délégation et Agents Mandatés](../../research/souverainete_delegation_agents_mandates.md)
 
-L’hypothèse de travail est qu’une souveraineté populaire robuste suppose des individus disposant d’une capacité significative à comprendre, former, réviser et exprimer leur jugement, ainsi qu’à agir et contrôler les pouvoirs qui s’exercent sur eux.
+`#Suvranu` désigne l’articulation recherchée entre **souveraineté individuelle effective** et **souveraineté populaire effective**.
+
+La souveraineté individuelle est employée ici au sens capacitaire et civique : conserver une capacité réelle de comprendre, former et réviser son jugement, choisir, agir ou ne pas agir, mandater, observer, contester, corriger et reprendre. Elle ne désigne pas l’exercice individuel de la souveraineté nationale au sens constitutionnel.
 
 La formule publique historique :
 
 > **L’indépendance, oui, mais d’esprit d’abord.**
 
-doit être comprise dans ce cadre et non comme une réduction de la souveraineté collective à une disposition psychologique individuelle.
+exprime le premier niveau de cette exigence, sans l’épuiser : l’indépendance d’esprit doit pouvoir être convertie en capacités effectives et en contrôle sur les pouvoirs exercés ou délégués.
 
 ## Architecture du projet
 

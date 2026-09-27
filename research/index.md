@@ -505,7 +505,7 @@ This repository hosts [`research/second_method.md`](second_method.md) — the **
 | [Shared Semantic Codec and Proverb Regime](shared_semantic_codec_and_proverb_regime.md) | source | 2026-08-30 |
 | [Soliari — Corte Ski Station and Infrastructure-Light Mountain Access](soliari.md) | source | 2026-08-22 |
 | [Sources — Casabianca](../musee-mariani/casabianca/sources.md) | unknown | 2026-09-18 |
-| [Souveraineté, délégation et Agents Mandatés](souverainete_delegation_agents_mandates.md) | source | 2026-09-08 |
+| [Souveraineté, délégation et Agents Mandatés](souverainete_delegation_agents_mandates.md) *(working paper v0.3 — #Suvranu, souveraineté individuelle/populaire effectives, délégation sans aliénation, reprise, révocabilité et non-auto-élévation)* | this repo | 2026-09-27 |
 | [Stabilisateur, capacité distribuée : deux invariants supplémentaires](../projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md) | derived | 2026-09-15 |
 | [Stabilize a speculative paper on Incremental Transmissible Corpus Models](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00007.md) | source | unknown |
 | [Suicide Corse — Architecture d'enquête v2](../projects/suicide-corse/architecture.md) | unknown | 2026-09-09 |
