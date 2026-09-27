@@ -452,28 +452,6 @@ annonce automatique d'une candidature électorale future
 
 Le dossier conserve donc l'étiquette sénatoriale historiquement déclarée **« Le Petit Parti - A Voce »** et traite Capable comme un fait public postérieur, relié doctrinalement mais distinct juridiquement et électoralement.
 
-### Formulation canonique du Principe d'effectivité
-
-Le post X contient la formulation :
-
-> « une loi ne **faut** que par ses effets »
-
-Le Corpus conserve cette trace **exactement telle qu'elle a été publiée**. Il la qualifie comme une coquille apparente au regard de la formule canonique, déjà stabilisée dans les documents doctrinaux :
-
-> **Une loi ne vaut que par ses effets.**
-
-Cette distinction est volontaire :
-
-```text
-trace publique originale
-≠
-formulation canonique
-≠
-correction publique ultérieure éventuelle
-```
-
-➡️ [Registre des proclamations publiques de Capable](../../projects/capable/public-claims.md)
-
 ### Ce que signifie « Capable »
 
 Dans le Corpus, *capable* ne constitue pas un jugement sur la valeur ou la compétence des personnes. Le terme désigne une propriété recherchée des **systèmes** : ouvrir des possibles, les rendre effectivement accessibles et exerçables, rendre leurs effets observables et permettre aux personnes concernées de contrôler et corriger ce qui les organise.
