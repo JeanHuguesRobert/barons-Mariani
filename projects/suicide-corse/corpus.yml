@@ -152,6 +152,24 @@ sources:
     required: false
     note: "Capable was publicly announced as a movement on 2026-09-27 at 12:01. This establishes the movement's public naming and stated linkage to effectivity, effective Liberté-Égalité-Fraternité, Autonomie de Capacité and #Suvranu; it does not itself establish any future candidacy."
 
+  - id: capable-public-claims
+    path: projects/capable/public-claims.md
+    role: public-claims-register
+    required: false
+    note: "Versioned register of what Capable actually states publicly, preserving original wording, canonical formulation and later corrections as distinct traces."
+
+  - id: capable-reality-test-baseline-2026-09-27
+    path: projects/capable/reality-tests/capable-2026-09-27-baseline.md
+    role: pre-outcome-reality-test
+    required: false
+    note: "Contradictory baseline fixed on the day of public launch, before outcome accumulation; records hypotheses, counter-signals, dependencies, objections and revision triggers."
+
+  - id: suicide-corse-n3-pre-freeze-audit-2026-09-27
+    path: projects/suicide-corse/audits/2026-09-27-pre-freeze-n3.md
+    role: editorial-audit
+    required: false
+    note: "Checks separation between Marie-Louise, the 2026 senatorial Reality Case, effectivity doctrine and Capable before n3 freeze."
+
   - id: une-corse-capable-trail
     path: research/trails/une_corse_capable.md
     role: trail
