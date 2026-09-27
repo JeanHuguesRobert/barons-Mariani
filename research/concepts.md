@@ -242,6 +242,33 @@ Maxime selon laquelle une norme ne peut être correctement appréciée à partir
 
 ---
 
+## Fraternité effective
+
+**Type:** relational-capability concept / evaluative dimension  
+**Scope:** Interpersonal → Collective → Institutional  
+**Status:** Working  
+
+**Short definition:**  
+Capacité relationnelle et collective à rendre accessible, dans le temps utile, une aide qui préserve, restaure ou augmente les capacités d’un sujet menacé d’un abandon capacitaire évitable, sans retirer inutilement sa liberté ni créer une dépendance captive.
+
+**Related concepts:**
+- Liberté effective
+- Égalité effective
+- non-abandon capacitaire
+- assistance non directive
+- Autonomie de Capacité
+- #Suvranu
+- contrôle-capacité
+- Machine à Rendre Capable
+
+**Reference documents:**
+- `research/fraternite_effective.md`
+- `research/noyau_doctrinal_rendre_capable.md`
+- `research/autonomia/assistance_non_directive_capacitaire.md`
+- `projects/capable/capable-test.md`
+
+---
+
 ## Égalité effective
 
 **Type:** capability distribution concept / evaluative dimension  

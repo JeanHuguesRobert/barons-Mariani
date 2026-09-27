@@ -366,10 +366,14 @@ Liberté effective
   et de l'exercice de ces capacités
 
 Fraternité effective
-= chantier restant à stabiliser
+= capacité collective de non-abandon
+  et de restauration capacitaire
+  sans dépendance captive
 ```
 
 Ces formulations sont doctrinales et opérationnelles.
+
+La définition source de la **Fraternité effective** est maintenue dans [Fraternité effective](fraternite_effective.md).
 
 Elles ne prétendent pas remplacer les catégories du droit positif.
 

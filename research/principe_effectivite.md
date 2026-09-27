@@ -414,7 +414,11 @@ La définition source de **l’Égalité effective** est maintenue dans [`egalit
 
 ### Fraternité
 
-Le dispositif augmente-t-il les capacités de coopération, d’entraide, de solidarité et de non-abandon sans créer une dépendance captive ou une domination difficilement contrôlable ?
+Lorsqu’une capacité importante est menacée ou perdue, existe-t-il réellement une voie praticable d’entraide, de coopération ou de soutien dans le temps utile ? Cette aide préserve-t-elle ou restaure-t-elle la capacité du sujet sans lui retirer inutilement son choix ni le rendre captif de l’assistance ?
+
+La définition source de **Fraternité effective** est maintenue dans [`fraternite_effective.md`](fraternite_effective.md).
+
+> L’effectivité demande « est-ce praticable ? » ; la Fraternité effective ajoute « lorsque je ne peux plus seul, puis-je réellement être aidé sans cesser d’être principal ? ».
 
 Ces questions ne réduisent pas les trois termes à des indicateurs uniques et ne prétendent pas reconstruire leur régime juridique à partir de la seule devise constitutionnelle.
 

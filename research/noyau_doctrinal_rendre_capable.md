@@ -3,9 +3,9 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.7
+version: 0.5.8
 date: '2026-09-27'
-review_status: v0.5.7 stabilizes Égalité effective as a capacitary distribution concept; constructive review remains welcome
+review_status: v0.5.8 stabilizes Fraternité effective as non-abandon capacitaire without capture; constructive review remains welcome
 type: doctrinal_kernel
 scope:
   - philosophy
@@ -126,6 +126,7 @@ Le document peut être lu à partir d’une grammaire simple :
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
 - **Liberté effective** : qualité de l’espace des options réellement accessibles et exerçables par un sujet, incluant sa capacité réelle à choisir entre elles, à ne pas les exercer, à différer, bifurquer ou revenir lorsque cela est possible.
 - **Égalité effective** : distribution comparée de l’accès et de l’exercice des capacités effectives, en tenant compte des différences de situation pertinentes et des facteurs de conversion nécessaires.
+- **Fraternité effective** : capacité relationnelle et collective à prévenir un abandon capacitaire évitable et à rendre accessibles, dans le temps utile, des formes d’entraide qui préservent ou restaurent la capacité sans capture du bénéficiaire.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
 - **Accessibilité capacitaire** : réduire les écarts évitables entre les capacités exigées par un environnement et celles qu'une personne ou un collectif peut effectivement mobiliser, notamment par des facteurs de conversion, des aménagements ou des prothèses.
 - **Effectivité** : voir la source dédiée [Principe d’effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md), qui distingue validité, effectivité, efficacité, efficience et impact, et organise la confrontation entre ce qui est formellement ouvert, ce qui devient réellement accessible et exerçable, les effets observés et leur correction possible.
@@ -146,6 +147,21 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## v0.5.8 — 2026-09-27
+
+Stabilisation de la Fraternité effective.
+
+Cette version :
+
+- formalise la **Fraternité effective** comme capacité relationnelle et collective de non-abandon capacitaire ;
+- distingue assistance et substitution ;
+- introduit l’exigence d’une aide accessible dans le **temps utile** ;
+- maintient la liberté de refus et la position de principal du sujet aidé ;
+- préfère l’interdépendance capacitaire à la dépendance captive ;
+- ajoute une exigence de soutenabilité de l’aide ;
+- renvoie à la source dédiée [Fraternité effective](fraternite_effective.md).
+
 
 ## v0.5.7 — 2026-09-27
 
@@ -1464,12 +1480,16 @@ Liberté
       compte tenu des différences de situation pertinentes
       et des facteurs de conversion
 
-Fraternité
-    = capacité collective à préserver
-      ou accroître les capacités d’autrui
+Fraternité effective
+    = capacité collective à rendre l'entraide
+      effectivement accessible dans le temps utile,
+      afin de prévenir un abandon capacitaire évitable
+      sans créer une dépendance captive
 ```
 
 La définition source de l’**Égalité effective** est maintenue dans [Égalité effective](egalite_effective.md).
+
+La définition source de la **Fraternité effective** est maintenue dans [Fraternité effective](fraternite_effective.md).
 
 Cette lecture transforme une devise en programme d’enquête.
 

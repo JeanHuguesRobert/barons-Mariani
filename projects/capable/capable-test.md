@@ -215,9 +215,13 @@ L’égalité effective ne signifie ni identité de traitement ni égalité obli
 
 ### Fraternité
 
-Le dispositif augmente-t-il les capacités de coopération, d’entraide, de solidarité et de non-abandon sans créer une dépendance captive ou une domination difficilement contrôlable ?
+➡️ [Fraternité effective](../../research/fraternite_effective.md)
 
-Ces formulations restent des axes de travail et non des définitions juridiques exhaustives des trois termes.
+Lorsqu’une capacité est menacée ou insuffisante, existe-t-il une aide effectivement accessible dans le temps utile ? Cette aide augmente-t-elle les capacités du sujet, ou accroît-elle surtout le pouvoir de l’assistant sur lui ? Peut-elle être refusée, limitée, remplacée ou réduite à mesure que la capacité est restaurée ?
+
+La Fraternité effective cherche le **non-abandon capacitaire sans dépendance captive**.
+
+Ces trois formulations sont désormais des concepts doctrinaux sources du Corpus ; elles demeurent des grilles capacitaires et ne prétendent pas constituer des définitions juridiques exhaustives de la devise.
 
 ## Test Booster
 

@@ -83,9 +83,22 @@ Une Machine à Empêcher peut produire ou maintenir un écart durable entre un p
 
 ➡️ [Rendre capable — source de la Liberté effective](../noyau_doctrinal_rendre_capable.md)
 
-➡️ [Égalité effective](../egalite_effective.md)
+➡️ [Égalité effective](../egalite_effective.md)  
+➡️ [Fraternité effective](../fraternite_effective.md)
 
-La **Liberté effective** examine la qualité de l’espace réel des options. L’**Égalité effective** examine comment l’accès et l’exercice de ces capacités sont distribués, compte tenu des situations pertinentes et des facteurs de conversion. La **Fraternité effective** reste à stabiliser.
+```text
+Liberté effective
+→ qualité de l'espace réel des options
+
+Égalité effective
+→ distribution de l'accès et de l'exercice
+
+Fraternité effective
+→ capacité de non-abandon et de restauration
+  sans dépendance captive
+```
+
+Les trois concepts disposent désormais de sources doctrinales. Le chantier suivant porte sur leurs **tensions et arbitrages réciproques**.
 
 ## 8. Contrôle-capacité, traçabilité et anti-capture
 
