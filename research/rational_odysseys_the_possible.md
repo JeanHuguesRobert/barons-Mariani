@@ -5,8 +5,8 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 date: '2026-07-10'
-last_modified_at: '2026-09-18'
-version: '0.2'
+last_modified_at: '2026-09-27'
+version: '0.3'
 status: working-note
 document_role: source
 document_kind: doctrinal-note
@@ -177,6 +177,43 @@ Without return, there is only wandering. Without a logbook, experience disappear
 
 > Every mission needs its Ithaca: the place where experience returns and becomes transmissible memory.
 
+### 4.2 Impossibility as an early return
+
+An Odyssey into The Possible should not confuse persistence with rationality.
+When a decisive constraint establishes that a branch cannot be traversed, the
+rational explorer should return that information early.
+
+```text
+branch proposed
+→ decisive feasibility probe
+→ impossible
+→ return trace to Ithaca
+→ update map
+→ redirect exploration
+```
+
+A dead end discovered early is not a failed Odyssey. It is a successful
+reduction of the search space.
+
+> **Better to detect the Impossible early than to discover late that a whole
+> chain of reasoning, delegation and implementation rested on an impossible
+> precondition.**
+
+This is not permission to label difficult, blocked or presently inaccessible
+branches as impossible. The trace must preserve the distinction between:
+
+```text
+impossible
+blocked
+unknown
+not-yet-accessible
+not-yet-invented
+```
+
+For agentic continuations, the Corpus **Accessible Inputs Gate** is one concrete
+instance: if the next handler cannot retrieve an indispensable artifact, the
+specific handoff is infeasible and must be repaired, copied, rerouted or marked
+blocked before the Odyssey continues.
 ### 4.1 The Two-Odyssey Reality Test: operational criterion of the Learning Computer
 
 In *The Network is the Learning Computer* ([`the_network_is_the_learning_computer.md`](the_network_is_the_learning_computer.md#L1323-L1380)), the Odyssey grammar moves from an epistemological metaphor to the **decisive empirical Reality test** of machine learning:
