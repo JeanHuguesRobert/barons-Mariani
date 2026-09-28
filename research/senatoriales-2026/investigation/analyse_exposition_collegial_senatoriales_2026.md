@@ -137,14 +137,23 @@ Dans ses déclarations post-scrutin rapportées par France 3 Corse ViaStella, Ni
    Annuaire tabulaire complet des 616 grands électeurs, enrichi sur 25 colonnes combinant le profil républicain d'origine, les listes municipales, les courants politiques, les consignes et niveaux de preuve, et les coordonnées institutionnelles publiques.
 2. **`research/senatoriales-2026/data/annuaire_electeurs_senatoriaux_2B_2026.json`** :
    Format JSON structuré intégrant l'intégralité des attributs pour requêtage machine, intégration au Corpus Cogentia et traçabilité des sources.
+3. **`research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md` & `.json`** :
+   Synthèse des résultats officiels proclamés (participation 98,38 %, Parigi 442 voix, Battini 88 voix, 76 blancs et nuls) et confrontation statistique avec le modèle d'exposition.
+
+---
+
+## 4.bis. Confrontation post-scrutin du 27 septembre 2026 : Réseau d'exposition vs Résultats proclamés
+
+Le dépouillement du scrutin sénatorial du 27 septembre 2026 confirme et éclaire la grille d'exposition :
+* **Sur-pénétration de Nicolas Battini (17,6x)** : Partant de 5 grands électeurs militants documentés (4 à Bastia, 1 à Biguglia), Battini recueille **88 voix**, démontrant une captation de 83 voix additionnelles parmi les maires et délégués ruraux de droite départementale ou sans étiquette.
+* **Volume massif des votes blancs et nuls (76 voix — 12,54 %)** : Avec 36 blancs et 40 nuls, la contestation passive surpasse le groupe bastiais documenté (12 blancs) et traduit un refus marqué de choisir entre Parigi et Battini.
+* **Conséquence pour le contentieux électoral** : La perte de chance causée par l'exclusion de la candidature indépendante Robert / Vernerey s'apprécie au regard de ce réservoir de 76 voix non-exprimées et de la marge de mise en ballottage pour un second tour.
 
 ---
 
 ## 5. Prochaines étapes recommandées pour l'Issue #85
 
-1. **Enrichissement progressif des communes intermédiaires** :
-   Étendre le travail réalisé sur les 7 pôles majeurs vers les communes de 1 000 à 3 500 habitants (ex. Penta-di-Casinca, Morosaglia, Saint-Florent, L'Île-Rousse).
-2. **Recherche de coordonnées nominatives publiques directes** :
-   Poursuivre la collecte des courriels professionnels publics vérifiés pour les maires et présidents d'intercommunalités.
-3. **Publication et checkpoint** :
-   Présenter ce bilan pour validation humaine avant tout acte de stabilisation Git / publication sur GitHub.
+1. **Clôture opérationnelle du jalon prioritaire** : Le collège des 616 électeurs est entièrement cartographié, enrichi et confronté aux résultats réels.
+2. **Consultation du procès-verbal (RP-SEN-08)** : Solliciter l'accès aux 40 bulletins nuls auprès de la préfecture pour vérifier l'existence de bulletins au nom de Robert / Baron Mariani.
+3. **Exploitation dans le mémoire contentieux** : Verser le jeu de données `resultats_scrutin_2B_2026.json` comme pièce justificative (P-25) devant le Conseil constitutionnel.
+

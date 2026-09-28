@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "election": {
+    "scrutin": "Élections sénatoriales 2026",
+    "circonscription": "Haute-Corse (2B)",
+    "mode_scrutin": "uninominal majoritaire à deux tours",
+    "sieges_a_pourvoir": 1,
+    "date_scrutin": "2026-09-27",
+    "tour": 1,
+    "statut_tour": "définitif"
+  },
+  "participation": {
+    "inscrits": 616,
+    "votants": 606,
+    "abstentions": 10,
+    "taux_participation_pct": 98.38,
+    "taux_abstention_pct": 1.62,
+    "blancs": 36,
+    "blancs_pct_votants": 5.94,
+    "nuls": 40,
+    "nuls_pct_votants": 6.6,
+    "non_exprimes_total": 76,
+    "non_exprimes_pct_votants": 12.54,
+    "exprimes": 530,
+    "exprimes_pct_votants": 87.46,
+    "seuil_majorite_absolue": 266,
+    "seuil_quart_inscrits": 154
+  },
+  "candidats": [
+    {
+      "nom": "PARIGI",
+      "prenom": "Paulu Santu",
+      "prenom_etat_civil": "Paul-Toussaint",
+      "remplacante": {
+        "nom": "VOLPEI",
+        "prenom": "Livia"
+      },
+      "nuance": "Régionaliste",
+      "appartenance": "Fà Populu Inseme / PNC",
+      "mandat_sortant": "Sénateur sortant",
+      "voix": 442,
+      "pourcentage_exprimes": 83.4,
+      "pourcentage_inscrits": 71.75,
+      "elu": true,
+      "tour_election": 1
+    },
+    {
+      "nom": "BATTINI",
+      "prenom": "Nicolas",
+      "remplacante": {
+        "nom": "MORI",
+        "prenom": "Audrey"
+      },
+      "nuance": "Droite nationaliste",
+      "appartenance": "Mossa Palatina",
+      "mandat_sortant": "Conseiller municipal de Bastia",
+      "voix": 88,
+      "pourcentage_exprimes": 16.6,
+      "pourcentage_inscrits": 14.29,
+      "elu": false,
+      "tour_election": null
+    },
+    {
+      "nom": "ROBERT",
+      "prenom": "Jean Hugues Noël",
+      "nom_usage": "Baron Mariani",
+      "remplacante": {
+        "nom": "VERNEREY",
+        "prenom": "Laurence Marie",
+        "statut_handicap": "Titulaire AAH (CAF Corse-du-Sud)"
+      },
+      "nuance": "Indépendant",
+      "appartenance": "Institut Mariani / C.O.R.S.I.C.A.",
+      "statut_candidature": "enregistrement_refuse",
+      "motif_refus": "Absence formulaires originaux papier physique (TA Bastia n° 2601714/15 du 14/09/2026)",
+      "voix_officielles": 0,
+      "bulletins_potentiels_dans_nuls": "UNKNOWN (objet RP-SEN-08)",
+      "elu": false
+    }
+  ],
+  "analyse_exposition_croisee": {
+    "battini_base_militante_declaree": 5,
+    "battini_voix_reelles": 88,
+    "battini_ratio_multiplicateur": 17.6,
+    "parigi_exposition_prioritaire_declaree": 76,
+    "parigi_voix_reelles": 442,
+    "blancs_nuls_total": 76,
+    "total_voix_non_parigi": 174
+  },
+  "contentieux": {
+    "juridiction": "Conseil constitutionnel",
+    "delai_jours": 10,
+    "date_limite_depot": "2026-10-07T18:00:00+02:00",
+    "dossier_requete_ref": "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md",
+    "inventaire_pieces_ref": "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
+  }
+}
