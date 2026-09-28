@@ -199,6 +199,28 @@ Décision : **pas de nouvelle matière avant freeze**.
 4. Les doctrines politiques ne doivent pas absorber l'enquête ni attribuer une continuité politique posthume à Marie-Louise.
 5. Toute correction de rendu doit être rerendue et relue avant freeze.
 
+## Application de l'audit
+
+Les items A1–A6 ont été appliqués au Corpus le 28 septembre :
+
+- **A1 Capable** — réintroduit sobrement dans le Magazine comme fait public + Reality Test, avec garde-fous de non-rétroprojection ;
+- **A2 capacité électorale 2017–2024** — consolidation 2022 ajoutée à « Nouvelles traces » et au point d'enquête ;
+- **A3 Acts institutionnels tardifs** — Défenseur des droits, consultation du scrutin et probe Sous-Préfecture projetés avec leur statut réel ; la requête constitutionnelle reste qualifiée de brouillon tant qu'aucune preuve de dépôt n'existe ;
+- **A4 annexes temporellement en retard** — Chronologie, Annuaire, Questions ouvertes et Hypothèses non résolues remis à l'état du 28 septembre ;
+- **A5 Continuations** — registre exhaustif et rubrique Magazine complétés avec conditions de clôture ;
+- **A6 manifeste** — `corpus.yml` mis à jour avec les nouvelles sources et audits déterminants.
+
+La passe transversale a également supprimé les dernières références numériques de chapitres devenues instables dans les annexes rendues.
+
+Mesure après application :
+
+~~~text
+Livre      ≈ 9 616 mots
+Magazine   ≈ 1 746 mots
+~~~
+
+Le Livre n'a pas grossi pendant cette passe ; le delta tardif a été absorbé dans la couche Magazine et les annexes de vérification.
+
 ## Conclusion
 
 Le n°3 ne souffre plus d'un manque de matière. Les derniers besoins sont des **mises à niveau de delta et de provenance**, pas un nouvel élargissement doctrinal.
