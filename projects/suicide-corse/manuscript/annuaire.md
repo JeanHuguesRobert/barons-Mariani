@@ -170,7 +170,7 @@ Une personne peut demander à être retirée de cet annuaire, ou à ce que sa me
 
 ## Pistes ouvertes
 
-La matrice de couverture au 24 septembre fait ressortir cinq angles morts ou chantiers prioritaires :
+La matrice de couverture, mise à jour au 28 septembre, fait ressortir cinq angles morts ou chantiers prioritaires :
 
 - **août–17 septembre 2024** — période encore faiblement couverte par des témoins directs identifiés ;
 - **transition 2017–2018** — concours, installation à Nantes, compagnon et hébergement rapporté ;
