@@ -74,7 +74,7 @@ En décembre 2017, un dossier de frais de scolarité non régularisé menace exp
 
 **Échelle B — Corse, transmission linguistique et Riacquistu.**
 
-Le chapitre 7 de cette édition cite le Riacquistu — la réactivation culturelle et linguistique corse à partir des années 1970 — comme cas de capacité dormante suivie de réactivation. Lu à travers le vocabulaire de ce chapitre, l'épisode peut se reformuler ainsi : un recul documenté de la transmission (une friction prolongée, potentiellement lue à tort comme une fermeture) n'a pas éteint la capacité linguistique et culturelle, parce que des buffers existaient — locuteurs restants, diaspora, mémoire familiale, réseaux informels — suffisants pour permettre une réactivation ultérieure.
+Le chapitre « Changer d'échelle : la Corse » cite le Riacquistu — la réactivation culturelle et linguistique corse à partir des années 1970 — comme cas de capacité dormante suivie de réactivation. Lu à travers le vocabulaire de ce chapitre, l'épisode peut se reformuler ainsi : un recul documenté de la transmission (une friction prolongée, potentiellement lue à tort comme une fermeture) n'a pas éteint la capacité linguistique et culturelle, parce que des buffers existaient — locuteurs restants, diaspora, mémoire familiale, réseaux informels — suffisants pour permettre une réactivation ultérieure.
 
 **Relation candidate testée :**
 
@@ -89,23 +89,23 @@ friction prolongée et documentée
 
 **Ce qui ne survit pas.** La nature des buffers change radicalement d'échelle : à l'échelle individuelle, ce sont des ressources concrètes et datables (une bourse, un statut). À l'échelle collective, ce sont des structures diffuses (réseaux, mémoire, diaspora) dont l'existence même est plus difficile à dater et à quantifier. Un buffer territorial n'est pas la somme de buffers individuels ; il peut exister alors qu'aucun individu pris isolément n'en dispose.
 
-**Ce cas ne doit pas être confondu avec un autre débat Nantes, distinct.** Ce paragraphe concerne uniquement la friction administrative de décembre 2017 (frais de scolarité). Il ne prend pas parti sur la question, distincte et non tranchée par ce Corpus, de savoir pourquoi Marie-Louise avait rejoint Nantes en premier lieu — le chapitre 8 documente deux hypothèses concurrentes et contemporaines sur ce point, non départagées.
+**Ce cas ne doit pas être confondu avec un autre débat Nantes, distinct.** Ce paragraphe concerne uniquement la friction administrative de décembre 2017 (frais de scolarité). Il ne prend pas parti sur la question, distincte et non tranchée par ce Corpus, de savoir pourquoi Marie-Louise avait rejoint Nantes en premier lieu — le dossier des hypothèses non résolues documente deux hypothèses concurrentes et contemporaines sur ce point, non départagées.
 
 ## Un troisième cas, laissé ouvert : la résilience de canal
 
-> *Per centu strade si và à Roma.* — Tous les chemins mènent à Rome. (source : *Pruverbii di Corsica*, voir chapitre 13)
+> *Per centu strade si và à Roma.* — Tous les chemins mènent à Rome. (source : *Pruverbii di Corsica*, voir l'annexe « Proverbes et épigraphes »)
 
 La matrice documente, le 5 juillet 2024, un mécanisme de **résilience de canal** : deux adresses de transmission d'un recours échouent, tandis qu'un service judiciaire relaie le dossier vers d'autres destinataires (`FRICTION` + `MAINTAIN`, hypothèse `H4 — channel resilience`). Ce mécanisme est structurellement apparenté aux propriétés de robustesse par pluralité de routes déjà décrites dans l'architecture v2 (§9) et empruntées à Fractanet.
 
-Ce Corpus ne dispose pas encore d'un cas territorial corse documenté avec la même précision pour tester cette relation à l'échelle collective — par exemple un dispositif administratif ou énergétique où la défaillance d'un canal serait compensée par un autre. Ce chapitre laisse donc cette case du test d'invariance explicitement vide plutôt que de la remplir par un exemple faible. Elle rejoint la liste des hypothèses non résolues (chapitre 8).
+Ce Corpus ne dispose pas encore d'un cas territorial corse documenté avec la même précision pour tester cette relation à l'échelle collective — par exemple un dispositif administratif ou énergétique où la défaillance d'un canal serait compensée par un autre. Ce chapitre laisse donc cette case du test d'invariance explicitement vide plutôt que de la remplir par un exemple faible. Elle rejoint l'annexe des hypothèses non résolues.
 
 ## Ce que ce chapitre change au plan de l'édition
 
 Trois conséquences pour le reste du manuscrit, tenues comme des révisions plutôt que comme des ajouts isolés :
 
-1. Le chapitre 7 (« Corse : fatalisme, capacité dormante, seuil et réactivation ») peut désormais s'appuyer sur un cas individuel documenté de la même relation — la friction Nantes 2017 — plutôt que de rester une hypothèse purement territoriale sans ancrage comparatif.
-2. Le chapitre 5 (Machine à Empêcher de Vivre) doit se garder d'assimiler la charge d'aidance de janvier 2024 (`LOAD`, hypothèse `H5`) à une fermeture, exactement comme ce chapitre le rappelle pour la friction Nantes : la matrice interdit explicitement la transition `LOAD → CLOSE` sans pièce complémentaire.
-3. La liste des hypothèses non résolues (chapitre 8) doit s'enrichir d'un item propre à ce chapitre : le test d'invariance n'a été rempli qu'à partir d'un échantillon de deux cas individuels et de deux cas territoriaux, dont l'un (résilience de canal) reste vide côté Corse. Une invariance testée sur un si petit nombre de cas reste un `MODEL candidat`, pas une loi établie.
+1. Le chapitre « Changer d'échelle : la Corse » peut s'appuyer sur un cas individuel documenté de la même relation — la friction Nantes 2017 — plutôt que de rester une hypothèse purement territoriale sans ancrage comparatif.
+2. Le chapitre « De l'empêchement à la capacité » doit se garder d'assimiler la charge d'aidance de janvier 2024 (`LOAD`, hypothèse `H5`) à une fermeture, exactement comme ce chapitre le rappelle pour la friction Nantes : la matrice interdit explicitement la transition `LOAD → CLOSE` sans pièce complémentaire.
+3. La liste des hypothèses non résolues doit s'enrichir d'un item propre à ce chapitre : le test d'invariance n'a été rempli qu'à partir d'un échantillon de deux cas individuels et de deux cas territoriaux, dont l'un (résilience de canal) reste vide côté Corse. Une invariance testée sur un si petit nombre de cas reste un `MODEL candidat`, pas une loi établie.
 
 ## Formule de compression
 
