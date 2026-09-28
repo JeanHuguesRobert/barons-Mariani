@@ -2,7 +2,7 @@
 title: "Suicide Corse — questions ouvertes de l'enquête"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-23
+last_modified_at: 2026-09-28
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -166,6 +166,39 @@ Une réponse peut :
 - ouvrir une nouvelle question.
 
 Une contradiction est utile : l'enquête doit pouvoir corriger ce qu'elle croit savoir.
+
+## Questions ouvertes apparues ou précisées depuis le n°2
+
+### Capacité électorale de Marie-Louise
+
+- Quelle trace primaire explique la bascule entre le projet de candidature titulaire de Jean Hugues encore visible le 6 mai 2022 et l'état opérationnel du 9 mai où Marie-Louise est devenue candidate titulaire ?
+- Qui a physiquement manipulé le fichier Photoshop du collector 2022 et quelle est l'origine du portrait/autoportrait ? Les transmissions depuis les comptes de Marie-Louise documentent sa participation à la chaîne, pas l'attribution intégrale de la création.
+- Existe-t-il d'autres paroles directes de Marie-Louise sur ses propres objectifs politiques en 2017, 2020, 2022 ou 2024 ?
+
+### Procédure liée au décès / Grasse
+
+- Quel est le statut final du dossier référencé sous le numéro parquet 25252000129 ?
+- Quelles pièces peuvent être communiquées au demandeur et selon quelles conditions ?
+- La demande transmise au Bureau d'ordre a-t-elle été effectivement soumise au magistrat compétent et avec quelle décision ?
+
+### Sénatoriales 2026 — traces et canaux
+
+- Que contient le procès-verbal général du scrutin et quels motifs exacts ont conduit à déclarer 40 bulletins nuls ?
+- La demande de consultation envoyée le 28 septembre aboutira-t-elle à une consultation ou une copie effective ?
+- La Sous-Préfecture de Corte peut-elle recevoir, pour transmission, une éventuelle requête relevant de l'article 34 de l'ordonnance de 1958, ou vers quel canal renvoie-t-elle ?
+- Le projet de requête actuellement conservé comme brouillon sera-t-il déposé, modifié ou abandonné ? Seule une preuve de réception permettra de parler d'un dépôt.
+- Les traces techniques et administratives demandées permettront-elles de réduire les inconnues sur les transmissions du dossier de candidature et du dossier juridictionnel ?
+
+### Effectivité des recours et réponses institutionnelles
+
+- Quel traitement le Défenseur des droits donnera-t-il à la saisine initiale du 26 septembre : référence, périmètre, éventuelle transmission ou autre orientation ?
+- Lorsque des données publiées sont retirées avant qu'une demande de rectification puisse être exécutée, quelles traces historiques ou techniques subsistent et quel mécanisme de correction reste effectivement disponible ?
+
+### Capable comme Reality Test
+
+- Les proclamations publiques du mouvement seront-elles accompagnées de mécanismes permettant d'observer leurs effets, leurs dépendances et leurs corrections ?
+- Quels contre-signaux apparaîtront par rapport au baseline contradictoire fixé le 27 septembre ?
+- Les évolutions futures confirmeront-elles ou invalideront-elles les hypothèses du Corpus ? Aucune réponse n'est présumée dans cette édition.
 
 ## Contribuer
 
