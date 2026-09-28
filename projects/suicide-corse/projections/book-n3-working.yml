@@ -1,7 +1,7 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-n3-working
 status: render-candidate
-render_ready: false
+render_ready: true
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
@@ -11,6 +11,7 @@ edition_label: "Numéro 3 — bouclage du 28 septembre 2026"
 source_manifest: ../corpus.yml
 related_issue: 84
 editorial_architecture: ./n3-editorial-architecture.md
+reader_audit: ../audits/2026-09-28-reader-audit-n3.md
 
 edition:
   number: 3
@@ -556,11 +557,11 @@ chapters_note: >
   Publication order now materializes the three reader-facing layers directly:
   Book, Magazine, then Annexes. Source chapters 05 and 07 remain in the Corpus as
   preserved inputs to the merged chapters but are no longer rendered as duplicate reader-facing chapters.
-  render_ready remains false until the final projection validation is recorded.
+  reader audit passed on 2026-09-28; render_ready is true for verification rendering only.
 outputs:
   required: [html, pdf, epub]
   optional: []
-  status: "render-candidate ready for Monday close verification"
+  status: "reader audit passed; ready for verification render, not frozen"
   masthead_required: true
   masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
   technical_manifest: required
