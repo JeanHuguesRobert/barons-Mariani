@@ -55,6 +55,17 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 - [ ] **PV 03632/2024 / Grasse — suivre la transmission au magistrat.** Le TJ de Grasse a communiqué le 22 septembre 2026 la référence parquet 25252000129, identifié le Bureau d'ordre comme service en charge et demandé une pièce d'identité avant transmission de la demande au magistrat compétent, soumise à accord. Condition de clôture : statut final du dossier obtenu et règles d'accès aux pièces demandées établies, ou voies d'accès documentées comme épuisées.
 - [ ] **Réponse du rejet du 27 septembre 2024.** Établir si le mécanisme est une dispersion sans auteur ou une application procédurale normale (chapitre 11) — sans jamais l'intégrer à une chaîne causale antérieure au décès.
 
+## Sur les probes institutionnels du 26–28 septembre
+
+- [ ] **Défenseur des droits — DDD-01.** Une saisine initiale a été envoyée le 26 septembre sous l'angle de l'effectivité des droits et de la continuité administrative. Condition de clôture : référence stable obtenue, périmètre et mode de traitement compris, éventuelles transmissions/requalifications documentées, et résultat conservé sans substitution silencieuse aux autres voies.
+- [ ] **Sénatoriales — consultation du procès-verbal et des bulletins nuls.** La demande de consultation dématérialisée a été envoyée le 28 septembre. Condition de clôture : réponse reçue et pièces effectivement consultées / copiées selon les règles applicables, ou refus / impossibilité précisément documenté ; les motifs observés doivent remplacer toute spéculation sur le contenu des bulletins.
+- [ ] **Sénatoriales — canal de saisine via la Sous-Préfecture de Corte.** Une demande de confirmation des modalités de remise a été envoyée le 28 septembre. Condition de clôture : réponse explicite sur la capacité ou non de ce canal à recevoir la requête pour transmission, avec modalités pratiques si positives ou redirection identifiable si négatives.
+- [ ] **Projet de requête au Conseil constitutionnel.** Une version `v0.2` existe comme `working-draft — for human review`. Condition de clôture : décision explicite de déposer, modifier ou abandonner ; si dépôt, preuve de réception et version effectivement déposée conservées séparément du brouillon. Un brouillon ne doit jamais être décrit rétrospectivement comme acte accompli.
+
+## Sur Capable comme objet exposé au Réel
+
+- [ ] **Reality Test de Capable.** Le mouvement a été annoncé publiquement le 27 septembre et un baseline contradictoire a été fixé le même jour. Condition de maturation : accumuler assez de traces datées pour comparer proclamations, capacités effectivement ouvertes, dépendances, contre-signaux, corrections et effets observables. Cette continuation ne transforme ni *Suicide Corse* en organe politique ni Marie-Louise en caution posthume du mouvement.
+
 ## Appel à témoignages et collecte structurée
 
 - [ ] **Ouvrir publiquement l'appel à témoignages.** Le chapitre 17 matérialise cet appel dans l'édition anniversaire. Condition de clôture : appel publié sur le site, canal de réponse explicite et utilisable, et possibilité de contribution sans procédure disproportionnée.
