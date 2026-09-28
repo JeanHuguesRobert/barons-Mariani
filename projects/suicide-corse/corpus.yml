@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-27"
+updated: "2026-09-28"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -65,6 +65,18 @@ sources:
     path: memory/marie-louise/elections/README.md
     role: source-index
     required: false
+
+  - id: marie-louise-electoral-capability-2017-2024
+    path: memory/marie-louise/elections/capability-matrix-2017-2024.md
+    role: longitudinal-capability-analysis
+    required: false
+    note: "Post-n2 consolidation of observable electoral roles and acts; does not infer a continuous political motivation."
+
+  - id: marie-louise-works-post-n2
+    path: memory/marie-louise/works/catalogue/entries-post-n2-2026-09-24.yml
+    role: post-n2-work-catalogue-supplement
+    required: false
+    note: "Records newly surfaced work/trace entries while keeping publication rights separate."
 
   - id: marie-louise-identities
     path: memory/marie-louise/identites.md
@@ -164,11 +176,29 @@ sources:
     required: false
     note: "Contradictory baseline fixed on the day of public launch, before outcome accumulation; records hypotheses, counter-signals, dependencies, objections and revision triggers."
 
+  - id: capable-test-marie-louise-2024
+    path: research/case_studies/capable_test_marie_louise_2024.md
+    role: sensitive-derived-reality-case
+    required: false
+    note: "Derived capability-environment analysis; useful as a methodological cross-check, not a replacement for the Suicide Corse source layers and not a causal suicide conclusion."
+
   - id: suicide-corse-n3-pre-freeze-audit-2026-09-27
     path: projects/suicide-corse/audits/2026-09-27-pre-freeze-n3.md
     role: editorial-audit
     required: false
     note: "Checks separation between Marie-Louise, the 2026 senatorial Reality Case, effectivity doctrine and Capable before n3 freeze."
+
+  - id: suicide-corse-n3-reader-audit-2026-09-28
+    path: projects/suicide-corse/audits/2026-09-28-reader-audit-n3.md
+    role: reader-audit
+    required: false
+    note: "Reader-first audit of Book, Magazine and Annexes before verification rendering."
+
+  - id: suicide-corse-n3-final-content-sweep-2026-09-28
+    path: projects/suicide-corse/audits/2026-09-28-final-content-sweep-n3.md
+    role: final-content-audit
+    required: false
+    note: "Exhaustive post-n2 delta sweep classifying what must enter n3, what is already represented, and what stays outside the edition."
 
   - id: une-corse-capable-trail
     path: research/trails/une_corse_capable.md
@@ -206,6 +236,24 @@ sources:
     role: evidence-index
     required: false
     note: "Routes primary, transactional and analytical evidence while keeping raw personal data outside automatic public projection."
+
+  - id: senatoriales-2026-pv-consultation-2026-09-28
+    path: research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md
+    role: sent-document-access-probe
+    required: false
+    note: "Request sent for consultation of the general minutes and invalid ballots; sent request is not an obtained response."
+
+  - id: senatoriales-2026-corte-subprefecture-channel-probe
+    path: research/senatoriales-2026/demande_information_sous_prefecture_corte_2026-09-28.md
+    role: sent-procedural-channel-probe
+    required: false
+    note: "Sent inquiry testing whether the Corte subprefecture can receive a constitutional-election petition for transmission; does not presume competence."
+
+  - id: senatoriales-2026-constitutional-petition-v0-2
+    path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md
+    role: legal-draft
+    required: false
+    note: "Working draft for human review. It must not be described as filed unless a separate receipt trace establishes filing."
 
 
   - id: possible
