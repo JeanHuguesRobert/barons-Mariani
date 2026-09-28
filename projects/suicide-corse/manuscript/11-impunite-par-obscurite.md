@@ -35,7 +35,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 # Impunité par obscurité : un mécanisme sans auteur, à deux échelles
 
-Le chapitre 3 pose que la Machine à Empêcher n'a pas besoin d'un auteur unique : elle peut émerger de l'interaction de composants dont aucun, pris isolément, ne suffit à expliquer le résultat. `research/autonomia/impunite_par_obscurite_cas_corse.md` formalise, à l'échelle territoriale, une version précise de ce même mécanisme sans auteur, sous un nom propre : l'**impunité par obscurité**.
+Le chapitre « La Machine à Empêcher » pose que cette machine n'a pas besoin d'un auteur unique : elle peut émerger de l'interaction de composants dont aucun, pris isolément, ne suffit à expliquer le résultat. `research/autonomia/impunite_par_obscurite_cas_corse.md` formalise, à l'échelle territoriale, une version précise de ce même mécanisme sans auteur, sous un nom propre : l'**impunité par obscurité**.
 
 > Lorsqu'une décision publique n'est pas correctement tracée, il devient difficile d'imputer les responsabilités ; lorsqu'il devient difficile d'imputer les responsabilités, il devient plus difficile encore de sanctionner ; lorsque cette difficulté devient systémique, elle produit une forme d'impunité par obscurité.
 
