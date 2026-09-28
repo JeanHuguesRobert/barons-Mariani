@@ -10,6 +10,7 @@ edition_label: "Numéro 3 — bouclage du 28 septembre 2026"
 
 source_manifest: ../corpus.yml
 related_issue: 84
+editorial_architecture: ./n3-editorial-architecture.md
 
 edition:
   number: 3
@@ -396,39 +397,132 @@ pre_freeze_coherence_audit_2026_09_27:
     - "The X wording faut is preserved as the public trace; vaut remains the canonical Corpus formulation."
 
 editorial_plan:
-  - id: A
-    title: "La Machine à Empêcher"
-    function: "Introduce the candidate mechanism at individual and collective scales."
-  - id: B
-    title: "Ne pas fermer la Carte"
-    function: "Preserve contradictions, alternatives and UNKNOWN instead of manufacturing closure."
-  - id: C
-    title: "La Machine à Explorer"
-    function: "Search alternative routes, interlocutors, rules, infrastructures and bounded experiments."
-  - id: D
-    title: "Capacité électorale et effectivité"
-    function: "Longitudinal analysis of Marie-Louise's documented electoral capability and the senatorial Reality Case."
-  - id: E
-    title: "Le Réel répond"
-    function: "Magazine layer capturing the delta from the 21–28 September window."
+  principle: "Le corps principal raconte ; le Magazine actualise ; les annexes démontrent."
+  target_audience: "grand public capable d'aller vers les annexes sans devoir les lire pour comprendre le corps principal"
+  book:
+    target_words: "9100-11800"
+    sequence:
+      - id: L1
+        title: "Ouverture — une personne et une absence"
+        source: ../manuscript/00-ouverture.md
+        action: "resserrer"
+      - id: L2
+        title: "Marie-Louise — une vie en mouvement"
+        source: ../manuscript/01-marie-louise.md
+        action: "développer fortement à partir des traces publiables"
+      - id: L3
+        title: "La parole de Marie-Louise"
+        source: ../manuscript/15-la-parole-de-marie-louise.md
+        action: "conserver dans le corps"
+      - id: L4
+        title: "Quand les possibles se ferment"
+        source: ../manuscript/02-fermeture-des-possibles.md
+        action: "conserver ; déplacer les démonstrations inter-échelles détaillées"
+      - id: L5
+        title: "La Machine à Empêcher"
+        source: ../manuscript/03-machine-a-empecher.md
+        action: "conserver et simplifier"
+      - id: L6
+        title: "De l'empêchement à la capacité"
+        sources:
+          - ../manuscript/04-realiser-impossible.md
+          - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+          - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+        action: "fusion éditoriale"
+      - id: L7
+        title: "Changer d'échelle : la Corse"
+        sources:
+          - ../manuscript/06-vivre-transmettre.md
+          - ../manuscript/07-corse-capacite-dormante.md
+        action: "fusion partielle et resserrement"
+      - id: L8
+        title: "Réaliser l'impossible"
+        source: ../manuscript/04-realiser-impossible.md
+        action: "conclusion dérivée et resserrée"
+  magazine:
+    target_words: "2500-4000"
+    period: "2026-09-21/2026-09-28"
+    rubrics:
+      - "Le Réel répond"
+      - "Nouvelles traces"
+      - "Le point de l'enquête"
+      - "Reality Case"
+      - "Contrepoints"
+      - "Continuations"
+    source: ../manuscript/18-le-reel-repond-2026-09-28.md
+  annexes:
+    role: "preuve exhaustive, navigation, œuvres intégrales, méthodes, hypothèses et appels contributifs"
+    items:
+      - ../manuscript/09-test-invariance-echelle.md
+      - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+      - ../manuscript/11-impunite-par-obscurite.md
+      - ../manuscript/12-carnet-de-serendipite.md
+      - ../manuscript/08-hypotheses-non-resolues.md
+      - ../manuscript/14-le-dieu-de-leau-texte-integral.md
+      - ../manuscript/17-genealogie.md
+      - ../manuscript/chronologie.md
+      - ../manuscript/annuaire.md
+      - ../manuscript/questions-ouvertes.md
+      - ../manuscript/13-proverbes-epigraphes.md
+      - ../manuscript/16-continuations.md
+      - ../manuscript/appel-a-contribution.md
+      - ../manuscript/17-appel-a-temoignages.md
+      - ../manuscript/19-ours.md
+
+volume_audit_2026_09_28:
+  observation: "The corpus has enough material; hierarchy, not accumulation, is now the editorial bottleneck."
+  current_word_counts_approx:
+    ouverture: 1395
+    marie_louise: 184
+    parole_marie_louise: 1719
+    fermeture_possibles: 873
+    machine_empecher: 965
+    realiser_impossible: 1890
+    machine_rendre_capable: 1077
+    vivre_transmettre: 806
+    corse_capacite_dormante: 1319
+    test_invariance: 1387
+    stabilisateur_capacite_distribuee: 1082
+    impunite_obscurite: 891
+    carnet_serendipite: 1377
+    hypotheses_non_resolues: 1549
+    le_reel_repond: 1517
+    dieu_eau_integral: 1418
+    genealogie: 1035
+    chronologie: 1303
+    annuaire: 1799
+    questions_ouvertes: 1273
+    proverbes_epigraphes: 988
+    continuations: 1651
+    appel_contribution: 944
+    appel_temoignages: 1305
+    ours: 273
+  primary_imbalance: "The direct Marie-Louise chapter is dramatically shorter than the methodological and documentary apparatus."
+  corrective_priority:
+    - "develop L2 first"
+    - "then shorten L1"
+    - "then merge L6 and L7"
+    - "then redistribute the magazine"
 
 chapters:
+  # Temporary flat compatibility order while render_ready=false.
+  # This list mirrors the new three-layer hierarchy without rewriting source chapters yet.
   - ../manuscript/00-ouverture.md
   - ../manuscript/01-marie-louise.md
-  - ../manuscript/06-vivre-transmettre.md
-  - ../manuscript/02-fermeture-des-possibles.md
-  - ../manuscript/07-corse-capacite-dormante.md
-  - ../manuscript/03-machine-a-empecher.md
-  - ../manuscript/11-impunite-par-obscurite.md
-  - ../manuscript/04-realiser-impossible.md
-  - ../manuscript/12-carnet-de-serendipite.md
-  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
-  - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
-  - ../manuscript/09-test-invariance-echelle.md
-  - ../manuscript/08-hypotheses-non-resolues.md
-  - ../manuscript/18-le-reel-repond-2026-09-28.md
-  - ../manuscript/14-le-dieu-de-leau-texte-integral.md
   - ../manuscript/15-la-parole-de-marie-louise.md
+  - ../manuscript/02-fermeture-des-possibles.md
+  - ../manuscript/03-machine-a-empecher.md
+  - ../manuscript/04-realiser-impossible.md
+  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+  - ../manuscript/06-vivre-transmettre.md
+  - ../manuscript/07-corse-capacite-dormante.md
+  - ../manuscript/18-le-reel-repond-2026-09-28.md
+  - ../manuscript/09-test-invariance-echelle.md
+  - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+  - ../manuscript/11-impunite-par-obscurite.md
+  - ../manuscript/12-carnet-de-serendipite.md
+  - ../manuscript/08-hypotheses-non-resolues.md
+  - ../manuscript/14-le-dieu-de-leau-texte-integral.md
   - ../manuscript/17-genealogie.md
   - ../manuscript/chronologie.md
   - ../manuscript/annuaire.md
@@ -440,10 +534,10 @@ chapters:
   - ../manuscript/19-ours.md
 
 chapters_note: >
-  Editorial selection for Numéro 3 preview and close. Reuses core manuscript
-  units in double-helix composition, promotes the 28 September magazine chapter,
-  integrates the open call for contributions and links the electoral capability figure.
-
+  Temporary compatibility order while the source chapters are recomposed.
+  The projection now has three explicit layers: reader-first Book, weekly Magazine,
+  and verification/contribution Annexes. Source chapters are not yet rewritten or deleted.
+  render_ready remains false until the recomposition and reader audit are complete.
 outputs:
   required: [html, pdf, epub]
   optional: []
