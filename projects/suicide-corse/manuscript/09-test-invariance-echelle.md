@@ -36,7 +36,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 # Test d'invariance : Marie-Louise et la Corse, une même grammaire ?
 
-Ce chapitre n'était pas prévu par le plan initial de l'édition anniversaire. Il résulte d'une relecture du Corpus déjà accumulé — en particulier de `memory/marie-louise/possible_matrix.md` — à la recherche d'un matériau que les chapitres 5 à 8 n'avaient encore utilisé qu'à l'état d'hypothèse : des cas où une même relation capacitaire est **effectivement documentée** à l'échelle individuelle, et peut être mise en regard, avec prudence, d'un cas territorial.
+Ce chapitre n'était pas prévu par le plan initial de l'édition anniversaire. Il résulte d'une relecture du Corpus déjà accumulé — en particulier de `memory/marie-louise/possible_matrix.md` — à la recherche d'un matériau que les premières formulations du Livre n'avaient encore utilisé qu'à l'état d'hypothèse : des cas où une même relation capacitaire est **effectivement documentée** à l'échelle individuelle, et peut être mise en regard, avec prudence, d'un cas territorial.
 
 L'architecture d'enquête (§14) prescrit un test d'invariance à deux colonnes. Il était resté un gabarit vide. Ce chapitre le remplit une première fois, partiellement, avec les meilleures pièces actuellement disponibles.
 
