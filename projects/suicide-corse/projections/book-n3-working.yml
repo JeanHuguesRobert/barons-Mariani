@@ -477,9 +477,9 @@ volume_audit_2026_09_28:
     parole_marie_louise: 1719
     fermeture_possibles: 873
     machine_empecher: 965
-    realiser_impossible: 1890
+    realiser_impossible: 1619
     machine_rendre_capable: 1077
-    vivre_transmettre: 806
+    vivre_transmettre: 1302
     corse_capacite_dormante: 1319
     test_invariance: 1387
     stabilisateur_capacite_distribuee: 1082
@@ -501,7 +501,9 @@ volume_audit_2026_09_28:
   corrective_priority:
     - "L2 first pass completed"
     - "L1 first pass completed"
-    - "next: merge L6 and then L7"
+    - "L6 merged into 04-realiser-impossible.md (~1619 words)"
+    - "L7 merged into 06-vivre-transmettre.md (~1302 words)"
+    - "next: redistribute the magazine and create the final short conclusion"
     - "then redistribute the magazine"
 
 chapters:
@@ -513,10 +515,10 @@ chapters:
   - ../manuscript/02-fermeture-des-possibles.md
   - ../manuscript/03-machine-a-empecher.md
   - ../manuscript/04-realiser-impossible.md
-  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
   - ../manuscript/06-vivre-transmettre.md
-  - ../manuscript/07-corse-capacite-dormante.md
   - ../manuscript/18-le-reel-repond-2026-09-28.md
+  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+  - ../manuscript/07-corse-capacite-dormante.md
   - ../manuscript/09-test-invariance-echelle.md
   - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
   - ../manuscript/11-impunite-par-obscurite.md
@@ -534,10 +536,11 @@ chapters:
   - ../manuscript/19-ours.md
 
 chapters_note: >
-  Temporary compatibility order while the source chapters are recomposed.
-  The projection now has three explicit layers: reader-first Book, weekly Magazine,
-  and verification/contribution Annexes. Source chapters are not yet rewritten or deleted.
-  render_ready remains false until the recomposition and reader audit are complete.
+  Temporary compatibility order while the renderer still consumes a flat chapter list.
+  The reader-facing Book now treats 05, 07, 09 and 10 as source/annex material rather than
+  successive core chapters; their presence below is compatibility-only until the renderer
+  supports explicit layer selection. No source chapter is deleted.
+  render_ready remains false until recomposition and reader audit are complete.
 outputs:
   required: [html, pdf, epub]
   optional: []
