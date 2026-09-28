@@ -3,7 +3,7 @@ title: "Suicide Corse n°3 — Audit de cohérence pré-freeze du 27 septembre 2
 subtitle: "Marie-Louise, sénatoriales, effectivité, Capable et discipline de projection"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-27"
+date: "2026-09-28"
 version: "0.1"
 status: "working-paper"
 language: "fr"
@@ -112,6 +112,24 @@ Question : les erreurs ou coquilles publiques sont-elles réécrites ?
 
 Exigence : conserver la trace exacte et publier la correction comme trace séparée.
 
+### C8 — Résultat observé / attribution contrefactuelle
+
+Question : le n°3 transforme-t-il les 36 blancs et 40 nuls en voix attribuables à une candidature absente ou en preuve d'un résultat électoral alternatif ?
+
+Exigence : conserver le décompte comme fait observé ; maintenir motivations, contenu des bulletins nuls et répartition contrefactuelle comme inconnus jusqu'à production de pièces discriminantes.
+
+### C9 — Courriels privés / publication
+
+Question : le n°3 reproduit-il ou paraphrase-t-il au-delà du nécessaire des messages privés, photographies ou données sensibles reçus depuis le n°2 ?
+
+Exigence : ne publier que l'existence, la provenance, le statut épistémique et l'effet documentaire nécessaires ; toute citation, image ou détail sensible requiert une décision de publication séparée.
+
+### C10 — Contradiction utile
+
+Question : les refus, objections et témoignages adverses sont-ils silencieusement écartés parce qu'ils ne soutiennent pas la narration courante ?
+
+Exigence : les conserver dans le Corpus avec leur statut réel, sans les promouvoir en faits ni les publier automatiquement.
+
 ## 3. Delta Capable admissible dans le n°3
 
 Le n°3 peut documenter sobrement : 26 septembre — amendement d'effectivité public ; 27 septembre — consolidation Responsabilité d'effectivité ; 27 septembre 12:01 — annonce publique de Capable ; ouverture d'un Reality Test de Capable lui-même.
@@ -129,7 +147,10 @@ Au freeze, vérifier :
 5. les chapitres source-lockés restent inchangés ;
 6. les événements du dimanche sont distingués des connaissances du samedi ;
 7. les formulations postérieures au 27 septembre ne sont pas projetées rétroactivement ;
-8. Capable est présenté comme objet désormais exposé au Réel, pas comme validation du Corpus.
+8. Capable est présenté comme objet désormais exposé au Réel, pas comme validation du Corpus ;
+9. les blancs et nuls ne sont pas convertis en voix hypothétiques ;
+10. les retours privés reçus depuis le n°2 ne sont pas publiés au-delà de ce que leur statut et les droits de publication permettent ;
+11. les contrepoints et refus de contact restent visibles au niveau approprié du Corpus.
 
 ## 5. Conclusion d'audit
 
