@@ -1,7 +1,7 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-n3-working
 status: render-candidate
-render_ready: true
+render_ready: false
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
@@ -58,15 +58,26 @@ observed_post_n2_delta:
     coverage: ../../../memory/marie-louise/witnesses/coverage-matrix.md
     sent_on: "2026-09-21"
     probes_sent: 6
-    substantive_responses_received: 2
+    substantive_responses_received: 3
     routing_responses_received: 1
+    follow_up_promises_received: 3
     substantive_respondents:
       - "Maëva Guillery"
       - "Maéva Lecoq"
+      - "Jean-Joseph Albertini"
     routing_result:
       - "Sylvain Lizon: automatic direction/contact update; no substantive testimony yet"
-    pending_without_identified_response_as_of_2026_09_23:
-      - "Damien Ruvet"
+    follow_up_promises:
+      - "Camille Gérard: substantive reply announced; offers to relay to other former friends"
+      - "Damien Ruvet: substantive contribution announced"
+      - "Valérie Roy / Thierry Parmentelat: memories and photographs to be searched"
+    additional_trace_holders:
+      - "Louis-Marie Charreteur: four family photographs transmitted; existence and provenance only in public Corpus"
+    contact_constraints:
+      - "At least one addressee explicitly requested no further messages on this subject; maintain a do-not-contact state without reproducing the private message."
+    contradictory_material:
+      - "A private adverse account challenging the author's interpretation was received; preserve as testimony/opinion in the contradictory register, not as established fact and not as automatic publication material."
+    pending_without_identified_substantive_response_as_of_2026_09_28:
       - "Villa Arson"
       - "Céline Christmann"
     publication_rule: "A private response is a trace, not automatic permission to publish its content."
@@ -235,6 +246,41 @@ weekend_magazine_2026_09_26:
     - "No cross-scale recurrence is treated as identity of mechanism."
     - "Legal routes remain separate until jurisdiction, standing, deadlines and admissibility are verified."
 
+mail_consolidation_2026_09_28:
+  status: "integrated at Corpus level; private bodies and images withheld"
+  sources:
+    - "Gmail post-n2 responses received 21–27 September 2026"
+    - "../../../memory/marie-louise/witnesses/README.md"
+    - "../../../memory/marie-louise/procedures_2024_2026_reactivation_register.md"
+    - "../../../research/senatoriales-2026/investigation/chronology.md"
+  marie_louise_editorial_effect:
+    - "Rebalance the book layer toward Marie-Louise acting, creating, transmitting and relating, not only institutions acting upon her."
+    - "Record newly surfaced works, photographs and holders as trace leads; publication rights remain separate."
+    - "Preserve refus, adverse accounts and contradictions as methodological evidence against confirmation bias."
+  procedure_effect:
+    - "TJ Grasse supplied a parquet reference for PV 03632/2024 and identified the Bureau d'ordre as the handling service; transmission to the competent magistrate is conditional on identity verification."
+  senatorial_effect:
+    - "The Interior Ministry data-protection service reported that the requested published candidate data had been removed after cancellation of the candidacy, so the rectification request could no longer be performed on that publication."
+    - "36 blank and 40 invalid ballots are observed facts; their motives and counterfactual allocation under a different candidate set remain UNKNOWN."
+  privacy_rule: "Register existence, provenance, status and documentary consequences; do not reproduce private email bodies, images or sensitive details without a separate publication decision."
+
+magazine_recurring_rubrics:
+  status: "candidate recurring structure from n3 onward"
+  rubrics:
+    - id: "le-reel-repond"
+      function: "External answers, institutional replies and observable consequences since the previous issue."
+    - id: "nouvelles-traces"
+      function: "New archives, testimonies, works, photographs and holders, with provenance and publication status."
+    - id: "point-enquete"
+      function: "What changed between FACT / TESTIMONY / HYPOTHESIS / UNKNOWN."
+    - id: "reality-case"
+      function: "One bounded case examined deeply without absorbing the whole issue."
+    - id: "contrepoints"
+      function: "Contradictions, adverse evidence and observations that resist the current interpretation."
+    - id: "continuations"
+      function: "Open packets, next probes and explicit closure conditions."
+  composition_rule: "The main body narrates; annexes and Corpus records carry exhaustive proof and detail."
+
 candidate_questions:
   individual:
     - "What did sparse P0 recall reveal that the inquiry had not prompted?"
@@ -266,7 +312,7 @@ privacy_and_disclosure:
   testimony_may_be_registered_without_reproducing_private_content: true
 
 next_observations:
-  - "Watch for substantive replies to the six P0 probes."
+  - "Watch for the announced follow-up contributions from Camille Gérard, Damien Ruvet and Valérie Roy / Thierry Parmentelat, while preserving do-not-contact constraints."
   - "Route Sylvain Lizon follow-up through the newly observed professional channel if a follow-up is authorized."
   - "Seek the primary Villa Arson decision: date, wording and grounds."
   - "Qualify the two received testimonies before any public quotation."
