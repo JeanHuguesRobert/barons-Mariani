@@ -41,7 +41,13 @@ Ces chiffres décrivent le scrutin effectivement tenu. Ils ne permettent pas de 
 
 Les 76 blancs et nuls sont donc un fait observé ; leur motivation et leur répartition dans un scrutin contrefactuel restent inconnues.
 
-La suite utile consiste à chercher les pièces : procès-verbal, motifs de nullité, bulletins concernés, traces de transmission et réponses institutionnelles.
+Le 28 septembre, cette recherche de pièces est devenue un Act concret : une demande de consultation dématérialisée du procès-verbal général et des bulletins déclarés nuls a été envoyée à la préfecture.
+
+Un projet de requête au Conseil constitutionnel existe également dans le Corpus en version de travail. Il n'est pas présenté ici comme déposé. Une demande séparée a été envoyée le même jour à la Sous-Préfecture de Corte pour vérifier le canal de remise utilisable et obtenir, si nécessaire, une redirection explicite.
+
+La distinction utile est simple : un projet n'est pas un dépôt ; une demande envoyée n'est pas une réponse obtenue ; une voie possible n'est pas encore une voie matériellement vérifiée.
+
+La suite consiste donc à recevoir et qualifier les réponses, consulter les pièces lorsqu'elles deviennent accessibles, puis documenter séparément toute décision de dépôt.
 
 Le Reality Case devient ainsi une question d'effectivité :
 
