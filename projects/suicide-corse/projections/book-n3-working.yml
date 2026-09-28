@@ -1,12 +1,12 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-n3-working
-status: working
-render_ready: false
+status: render-candidate
+render_ready: true
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
-edition_label: "Numéro 3 — en construction"
+edition_label: "Numéro 3 — bouclage du 28 septembre 2026"
 
 source_manifest: ../corpus.yml
 related_issue: 84
@@ -103,7 +103,7 @@ observed_post_n2_delta:
     - ../../../research/autonomia/1755.md
     - ../../../research/autonomia/projet_1755.md
     - ../../../research/autonomia/societe_historique_de_corte.md
-    status: "delta candidates only; not editorially selected yet"
+  collective_candidates_status: "delta candidates only; not editorially selected yet"
 
   senatoriales_2026_post_judgment:
     status: "active documentary delta; candidate for n3, not editorially selected yet"
@@ -348,3 +348,63 @@ pre_freeze_coherence_audit_2026_09_27:
     - "Capable is treated as a new public Reality Test, not as proof that the doctrine is correct."
     - "Source-locked historical chapters remain unchanged."
     - "The X wording faut is preserved as the public trace; vaut remains the canonical Corpus formulation."
+
+editorial_plan:
+  - id: A
+    title: "La Machine à Empêcher"
+    function: "Introduce the candidate mechanism at individual and collective scales."
+  - id: B
+    title: "Ne pas fermer la Carte"
+    function: "Preserve contradictions, alternatives and UNKNOWN instead of manufacturing closure."
+  - id: C
+    title: "La Machine à Explorer"
+    function: "Search alternative routes, interlocutors, rules, infrastructures and bounded experiments."
+  - id: D
+    title: "Capacité électorale et effectivité"
+    function: "Longitudinal analysis of Marie-Louise's documented electoral capability and the senatorial Reality Case."
+  - id: E
+    title: "Le Réel répond"
+    function: "Magazine layer capturing the delta from the 21–28 September window."
+
+chapters:
+  - ../manuscript/00-ouverture.md
+  - ../manuscript/01-marie-louise.md
+  - ../manuscript/06-vivre-transmettre.md
+  - ../manuscript/02-fermeture-des-possibles.md
+  - ../manuscript/07-corse-capacite-dormante.md
+  - ../manuscript/03-machine-a-empecher.md
+  - ../manuscript/11-impunite-par-obscurite.md
+  - ../manuscript/04-realiser-impossible.md
+  - ../manuscript/12-carnet-de-serendipite.md
+  - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
+  - ../manuscript/10-stabilisateur-et-capacite-distribuee.md
+  - ../manuscript/09-test-invariance-echelle.md
+  - ../manuscript/08-hypotheses-non-resolues.md
+  - ../manuscript/18-le-reel-repond-2026-09-28.md
+  - ../manuscript/14-le-dieu-de-leau-texte-integral.md
+  - ../manuscript/15-la-parole-de-marie-louise.md
+  - ../manuscript/17-genealogie.md
+  - ../manuscript/chronologie.md
+  - ../manuscript/annuaire.md
+  - ../manuscript/questions-ouvertes.md
+  - ../manuscript/13-proverbes-epigraphes.md
+  - ../manuscript/16-continuations.md
+  - ../manuscript/appel-a-contribution.md
+  - ../manuscript/17-appel-a-temoignages.md
+  - ../manuscript/19-ours.md
+
+chapters_note: >
+  Editorial selection for Numéro 3 preview and close. Reuses core manuscript
+  units in double-helix composition, promotes the 28 September magazine chapter,
+  integrates the open call for contributions and links the electoral capability figure.
+
+outputs:
+  required: [html, pdf, epub]
+  optional: []
+  status: "render-candidate ready for Monday close verification"
+  masthead_required: true
+  masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
+  technical_manifest: required
+  campaign_journal: required
+  coverage_report: required
+
