@@ -52,17 +52,15 @@ La matrice longitudinale documente, avec sources primaires : le 10 septembre 202
 
 **Échelle B — Corse, #1755.**
 
-Le Corpus documente séparément (`research/autonomia/corse_laboratoire.md`, `autonomia.md`) l'initiative territoriale connue sous le nom `#1755`, présentée comme un premier test prospectif de la capacité d'une initiative corse à agir et à mobiliser des institutions sans attendre un préalable institutionnel accordé d'en haut. Le nombre lui-même renvoie à l'État paoliste de 1755, souvent lu, dans le registre historique et non anthropologique, comme la matérialisation d'une capacité collective qui existait avant d'obtenir sa forme institutionnelle.
+Le Corpus documente séparément ([Corse laboratoire](../../../research/autonomia/corse_laboratoire.md), `autonomia.md`) l'initiative territoriale connue sous le nom `#1755`, présentée comme un premier test prospectif de la capacité d'une initiative corse à agir et à mobiliser des institutions sans attendre un préalable institutionnel accordé d'en haut. Le nombre lui-même renvoie à l'État paoliste de 1755, souvent lu, dans le registre historique et non anthropologique, comme la matérialisation d'une capacité collective qui existait avant d'obtenir sa forme institutionnelle.
 
 **Relation candidate testée :**
 
-```text
-refus institutionnel d'une forme précise d'accès à l'action
-→ la capacité générale sous-jacente ne disparaît pas nécessairement
-→ elle peut se réexercer plus tard sous une forme élargie, sans dépendre de la même autorisation
-```
+> **Refus institutionnel d'une forme précise d'accès à l'action**  
+> → la capacité générale sous-jacente ne disparaît pas nécessairement ;  
+> → elle peut se réexercer plus tard sous une forme élargie, sans dépendre de la même autorisation.
 
-**Ce qui survit au changement d'échelle.** La distinction `CLOSE_local ≠ CLOSE_global` (architecture v2, §8.5) tient dans les deux cas : un refus daté et spécifique n'a pas éteint la capacité d'agir dans le domaine concerné, ni pour Marie-Louise ni, si l'analogie tient, pour l'initiative corse qu'incarne `#1755`.
+**Ce qui survit au changement d'échelle.** La distinction **fermeture locale n'est pas fermeture globale** (architecture v2, §8.5) tient dans les deux cas : un refus daté et spécifique n'a pas éteint la capacité d'agir dans le domaine concerné, ni pour Marie-Louise ni, si l'analogie tient, pour l'initiative corse qu'incarne `#1755`.
 
 **Ce qui ne survit pas.** L'asymétrie de preuve est totale et doit rester visible : le cas Marie-Louise repose sur des pièces d'état civil, des CERFA et des résultats électoraux datés et sourcés ; le rapprochement avec 1755 relève d'un usage symbolique du nombre, assumé comme tel par le Corpus, non d'une continuité causale démontrée entre l'État paoliste et l'initiative contemporaine. Le second terme de la comparaison est un **choix de nom porteur de sens**, pas une preuve documentaire équivalente à la première. Cette différence de statut doit être répétée à chaque usage du rapprochement.
 
@@ -78,14 +76,11 @@ Le chapitre « Changer d'échelle : la Corse » cite le Riacquistu — la réact
 
 **Relation candidate testée :**
 
-```text
-friction prolongée et documentée
-+ existence de buffers (ressources, réseaux, statut déjà acquis)
-→ absorption de la friction
-→ maintien ou réactivation de la capacité, plutôt que fermeture
-```
+> **Friction prolongée et documentée** + existence de buffers  
+> → absorption de la friction ;  
+> → maintien ou réactivation de la capacité, plutôt que fermeture.
 
-**Ce qui survit.** L'invariant `FRICTION ≠ CLOSE` (architecture v2, §8.3) et l'hypothèse des buffers se retrouvent dans les deux cas, à deux échelles très différentes de temporalité — quelques mois pour Marie-Louise, plusieurs décennies pour la transmission linguistique.
+**Ce qui survit.** L'invariant **friction n'est pas fermeture** (architecture v2, §8.3) et l'hypothèse des buffers se retrouvent dans les deux cas, à deux échelles très différentes de temporalité — quelques mois pour Marie-Louise, plusieurs décennies pour la transmission linguistique.
 
 **Ce qui ne survit pas.** La nature des buffers change radicalement d'échelle : à l'échelle individuelle, ce sont des ressources concrètes et datables (une bourse, un statut). À l'échelle collective, ce sont des structures diffuses (réseaux, mémoire, diaspora) dont l'existence même est plus difficile à dater et à quantifier. Un buffer territorial n'est pas la somme de buffers individuels ; il peut exister alors qu'aucun individu pris isolément n'en dispose.
 
@@ -109,12 +104,6 @@ Trois conséquences pour le reste du manuscrit, tenues comme des révisions plut
 
 ## Formule de compression
 
-```text
-un invariant capacitaire mérite d'être conservé
-seulement s'il survit au changement d'échelle
-sans changer de sens
-et seulement si les deux colonnes du test
-sont remplies par des pièces d'un niveau de preuve comparable
-```
+> Un invariant capacitaire mérite d'être conservé seulement s'il survit au changement d'échelle sans changer de sens, et si les deux colonnes du test sont remplies par des pièces d'un niveau de preuve comparable.
 
 Ce chapitre ne prétend pas avoir démontré que la Corse et Marie-Louise partagent un même mécanisme. Il montre que certaines relations abstraites déjà posées par l'architecture v2 trouvent, pour la première fois dans cette édition, un ancrage documentaire des deux côtés — et il indique honnêtement où cet ancrage manque encore.
