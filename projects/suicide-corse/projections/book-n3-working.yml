@@ -437,19 +437,26 @@ editorial_plan:
         action: "fusion partielle et resserrement"
       - id: L8
         title: "Réaliser l'impossible"
-        source: ../manuscript/04-realiser-impossible.md
-        action: "conclusion dérivée et resserrée"
+        source: ../manuscript/conclusion-realiser-impossible.md
+        action: "conclusion reader-first créée le 28 septembre"
   magazine:
-    target_words: "2500-4000"
+    target_words: "reader-first; first modular pass ~1050 words, enrich only where needed"
     period: "2026-09-21/2026-09-28"
     rubrics:
-      - "Le Réel répond"
-      - "Nouvelles traces"
-      - "Le point de l'enquête"
-      - "Reality Case"
-      - "Contrepoints"
-      - "Continuations"
-    source: ../manuscript/18-le-reel-repond-2026-09-28.md
+      - title: "Le Réel répond"
+        source: ../manuscript/magazine-n3/01-le-reel-repond.md
+      - title: "Nouvelles traces"
+        source: ../manuscript/magazine-n3/02-nouvelles-traces.md
+      - title: "Le point de l'enquête"
+        source: ../manuscript/magazine-n3/03-point-enquete.md
+      - title: "Reality Case"
+        source: ../manuscript/magazine-n3/04-reality-case-senatoriales.md
+      - title: "Contrepoints"
+        source: ../manuscript/magazine-n3/05-contrepoints.md
+      - title: "Continuations"
+        source: ../manuscript/magazine-n3/06-continuations.md
+    legacy_monolith: ../manuscript/18-le-reel-repond-2026-09-28.md
+    legacy_role: "source snapshot; no longer the preferred reader-facing magazine surface"
   annexes:
     role: "preuve exhaustive, navigation, œuvres intégrales, méthodes, hypothèses et appels contributifs"
     items:
@@ -503,12 +510,14 @@ volume_audit_2026_09_28:
     - "L1 first pass completed"
     - "L6 merged into 04-realiser-impossible.md (~1619 words)"
     - "L7 merged into 06-vivre-transmettre.md (~1302 words)"
-    - "next: redistribute the magazine and create the final short conclusion"
+    - "Magazine modularized into six recurring rubrics (~1050 words first pass)"
+    - "L8 reader-first conclusion created"
+    - "next: continuous-reader audit of the Book and final projection cleanup"
     - "then redistribute the magazine"
 
 chapters:
-  # Temporary flat compatibility order while render_ready=false.
-  # This list mirrors the new three-layer hierarchy without rewriting source chapters yet.
+  # Reader-facing order for the next render candidate.
+  # Book
   - ../manuscript/00-ouverture.md
   - ../manuscript/01-marie-louise.md
   - ../manuscript/15-la-parole-de-marie-louise.md
@@ -516,7 +525,15 @@ chapters:
   - ../manuscript/03-machine-a-empecher.md
   - ../manuscript/04-realiser-impossible.md
   - ../manuscript/06-vivre-transmettre.md
-  - ../manuscript/18-le-reel-repond-2026-09-28.md
+  - ../manuscript/conclusion-realiser-impossible.md
+  # Magazine
+  - ../manuscript/magazine-n3/01-le-reel-repond.md
+  - ../manuscript/magazine-n3/02-nouvelles-traces.md
+  - ../manuscript/magazine-n3/03-point-enquete.md
+  - ../manuscript/magazine-n3/04-reality-case-senatoriales.md
+  - ../manuscript/magazine-n3/05-contrepoints.md
+  - ../manuscript/magazine-n3/06-continuations.md
+  # Annexes / verification / contribution
   - ../manuscript/05-machine-a-rendre-capable-de-vivre.md
   - ../manuscript/07-corse-capacite-dormante.md
   - ../manuscript/09-test-invariance-echelle.md
