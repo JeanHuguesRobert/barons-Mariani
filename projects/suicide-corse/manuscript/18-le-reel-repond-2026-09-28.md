@@ -47,6 +47,8 @@ Les six sondes P0 expédiées le 21 septembre pour recueillir des traces directe
 - **Sylvain Lizon** : sa messagerie historique a renvoyé une redirection administrative vers la nouvelle direction de la Villa Arson, ouvrant un canal professionnel identifié sans prise de contact substantielle à ce stade.
 - **Trace pédagogique Jean-Joseph Albertini** : le 23 septembre, cet enseignant a attesté de la présence de Marie-Louise dans son atelier d'arts plastiques en 2016–2017, la décrivant comme impliquée et concentrée. Il a transmis trois photographies d'une proposition plastique sur le thème « Étape par étape ». L'articulation institutionnelle exacte avec le cursus CPES de Sartène constitue désormais une nouvelle piste documentaire.
 - **Trace institutionnelle DRAC (Éléonore Bozzi)** : confirmation que l'arrêté de protection patrimoniale du Minesteggio a été formellement signé.
+- **Nouveaux détenteurs et suites annoncées** : Camille Gérard et Damien Ruvet ont annoncé des contributions complémentaires ; Valérie Roy et Thierry Parmentelat ont annoncé rechercher souvenirs et photographies ; Louis-Marie Charreteur a transmis quatre photographies familiales anciennes. Cette édition n'en publie ni les images ni les messages privés.
+- **Le contrepoint fait partie de l'enquête** : la campagne a aussi produit un refus explicite de contact et un témoignage privé très critique de l'interprétation de l'auteur. Le premier crée une contrainte opérationnelle de non-relance ; le second reste un témoignage/opinion adverse à conserver comme contrôle contre l'auto-confirmation, sans promotion automatique en fait.
 
 *Règle de publication :* Les correspondances privées et photographies reçues demeurent des traces d'enquête confidentielles ; elles sont répertoriées sans publication brute sans accord formel de leurs auteurs.
 
@@ -95,21 +97,23 @@ Le dimanche 27 septembre 2026, les 616 grands électeurs de la Haute-Corse étai
 
 - **Participation :** 606 votants (98,38 %) et 10 abstentions (1,62 %).
 - **Résultats proclamés :** M. Paul-Toussaint Parigi (sortant) est proclamé élu au premier tour avec 442 voix (83,40 % des exprimés) ; M. Nicolas Battini recueille 88 voix (16,60 %).
-- **Le signal massif de la contestation passive :** Le dépouillement révèle **36 bulletins blancs** (5,94 %) et **40 bulletins nuls** (6,60 %), soit un total exceptionnel de **76 suffrages non-exprimés (12,54 % des votants)**. 
+- **Bulletins non exprimés :** le dépouillement révèle **36 bulletins blancs** (5,94 %) et **40 bulletins nuls** (6,60 %), soit **76 suffrages non exprimés (12,54 % des votants)**.
 
-Le volume des votes blancs et nuls égale quasiment le score du second candidat. Ce chiffre établit arithmétiquement que le refus administratif opposé le 11 septembre au binôme Robert / Vernerey a amputé le corps électoral d'une offre politique alternative, créant une réserve substantielle de voix qui démontre la réalité de la **perte de chance démocratique**.
+Ce volume est proche du score du second candidat, mais sa signification politique n'est pas déterminée par le décompte seul. Les motivations des blancs, les motifs de nullité et la répartition qu'aurait produite une offre de candidatures différente restent inconnus. Le fait utile pour l'enquête est donc double : l'existence de 76 non-exprimés est observée ; leur affectation contrefactuelle ne l'est pas.
 
 ### L'ouverture du contentieux constitutionnel (RP-SEN-09 & RP-SEN-08)
 
-La proclamation du 27 septembre ouvre le délai impératif de **10 jours** prévu par l'article 33 de l'ordonnance n° 58-1067 du 7 novembre 1958, expirant le **mercredi 7 octobre 2026 à 18h00**.
+La proclamation du 27 septembre ouvre la phase de contestation électorale étudiée dans le dossier sénatorial. Le calcul exact du délai et ses modalités sont conservés dans les documents juridiques spécialisés du Corpus plutôt que développés ici.
 
 Deux actes majeurs structurent cette phase :
 1. **La consultation légale des pièces électorales (RP-SEN-08) :** Mise en œuvre de l'article 32 de l'ordonnance de 1958 sollicitant de la préfecture de Bastia la communication dématérialisée du procès-verbal général et des 40 bulletins déclarés nuls pour vérification des motifs de rejet.
 2. **La requête en annulation (RP-SEN-09) :** Finalisation d'un mémoire au fond assorti d'un **inventaire probatoire exhaustif de 25 pièces**, articulé autour de principes fermes :
    - Pleine coopération et diligence continue du candidat (présence à 12h10, régularisation financière en 1h54, courriel vidéo à 17h57) ;
-   - Erreur de droit de la préfecture imposant un « original papier physique » inexistant dans les textes et matériellement impossible à acheminer sous contrainte horaire ;
-   - Force probante et tiers d'intégrité de l'arborescence Merkle DAG de Git sous l'article 1366 du code civil ;
-   - Prise en compte du handicap AAH de la remplaçante et obligation d'aménagement raisonnable des formalités manuscrites (*Conseil d'État, 14 mai 2021, n° 445497*).
+   - contestation de la portée juridique donnée à l'exigence d'originaux et de signatures manuscrites ;
+   - argumentation sur la valeur probatoire des traces électroniques et de leur intégrité ;
+   - argumentation relative aux conditions d'accès effectif à la formalité et aux aménagements invoqués dans le dossier.
+
+Ces qualifications sont les **moyens soutenus dans le contentieux**, non des conclusions juridictionnelles acquises.
 
 ---
 
@@ -134,10 +138,30 @@ L'audit de cohérence pré-freeze rappelle les garde-fous stricts qui s'imposent
 3. Les candidatures passées (2017–2026) ne font l'objet d'aucun rétro-étiquetage.
 4. L'émergence de Capable est traitée par le Corpus comme un nouvel **objet d'observation (*Reality Test*)** : voir comment une doctrine se comporte face aux frottements du monde politique réel, sans présumer de son succès ni de sa validité.
 
+
+---
+
+## 6. Une réponse institutionnelle qui disparaît avec son objet
+
+Le 25 septembre, le service du délégué à la protection des données du ministère de l’Intérieur répond à une demande antérieure de rectification de données candidates publiées. Sa réponse indique que, la candidature ayant été annulée et les données n'étant plus présentes sur le site, la rectification demandée ne peut plus être effectuée sur cette publication.
+
+Le point intéressant pour *Suicide Corse* n'est pas d'en déduire une intention. C'est une question d'effectivité très concrète :
+
+~~~text
+erreur publiée
+→ demande de correction
+→ objet retiré
+→ correction devenue sans objet sur la surface visible
+~~~
+
+La disparition de la donnée en ligne corrige-t-elle suffisamment le problème, le déplace-t-elle vers la traçabilité historique, ou les deux ? À ce stade, le Corpus conserve la réponse et la question séparément.
+
+En parallèle, le tribunal judiciaire de Grasse a communiqué une référence parquet pour la procédure liée au décès de Marie-Louise et identifié le service chargé du traitement. Cette réponse réduit un `UNKNOWN` administratif sans encore établir le statut final du dossier ni l'accès aux pièces demandées.
+
 ---
 
 ## Ce que le numéro 3 clôture — et ce qui reste en marche
 
-Ce numéro 3 consigne des avancées empiriques majeures : des portes autrefois obscures s'éclairent par des traces vérifiées, la capacité électorale de Marie-Louise est documentée dans sa vérité chronologique, et l'exclusion administrative du scrutin sénatorial est portée devant le juge constitutionnel avec une rigueur probatoire sans faille.
+Ce numéro 3 consigne des avancées documentaires : des périodes de la vie de Marie-Louise sont mieux éclairées par des traces et témoignages nouveaux ; sa participation électorale peut être décrite plus précisément ; et le dossier sénatorial produit désormais une nouvelle série de probes, de réponses institutionnelles et de questions encore ouvertes.
 
 L'enquête continue. Le Réel a parlé, et il continuera de répondre.
