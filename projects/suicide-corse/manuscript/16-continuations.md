@@ -1,5 +1,5 @@
 ---
-title: "Continuations — chantiers ouverts après le numéro 2"
+title: "Continuations — chantiers ouverts au bouclage du numéro 3"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-17"
 last_modified_at: 2026-09-28
@@ -33,14 +33,14 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ---
 
 
-# Continuations — chantiers ouverts après le numéro 2
+# Continuations — chantiers ouverts au bouclage du numéro 3
 
 Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architecture.md`, « Continuations immédiates » ; `cop-core`, artefact `Continuation` : une exécution différée qui existe tant que sa condition de clôture n'est pas satisfaite), l'ensemble des chantiers que cette édition laisse volontairement ouverts. Une Continuation n'est pas un oubli : c'est un engagement enregistré, avec sa condition de clôture explicite, pour que l'édition suivante puisse être évaluée sur ce qu'elle a effectivement fait avancer.
 
 ## Sur Marie-Louise
 
 - [ ] **Décryptage de 2009.** Localiser le texte des deux documents « Décryptage de l'histoire de Marie Louise » (31 janvier 2009). Condition de clôture : texte retrouvé et revue de publication séparée effectuée, ou exploration documentée comme épuisée. Suivi : `registre-mariani`, `EXP-ML-2009-DECRYPTAGE-CONTEXT`.
-- [ ] **Note testamentaire rapportée et *Les Amis de Malou*.** Récupérer la pièce primaire détenue par la gendarmerie de Vence. Condition de clôture : pièce obtenue et authentifiée, ou voies d'accès légales documentées comme épuisées. Tant que cette condition n'est pas remplie, le chapitre 15 continue de qualifier ce contenu comme témoignage rapporté d'une seule source, non comme parole directe.
+- [ ] **Note testamentaire rapportée et *Les Amis de Malou*.** Récupérer la pièce primaire détenue par la gendarmerie de Vence. Condition de clôture : pièce obtenue et authentifiée, ou voies d'accès légales documentées comme épuisées. Tant que cette condition n'est pas remplie, « La parole de Marie-Louise » continue de qualifier ce contenu comme témoignage rapporté d'une seule source, non comme parole directe.
 - [ ] **Été 2024.** Reconstruire semaine par semaine la période entre la campagne électorale et le 17 septembre, en cherchant autant les ouvertures que les fermetures (`memory/marie-louise/2024_portes_et_controles_epistemiques.md`, §12). Condition de clôture : chronologie fine publiée avec ses `UNKNOWN` explicites, pas une narration comblée.
 - [ ] **Portes candidates de l'été 2024.** La candidature de réintégration en quatrième année à la Villa Arson n'est plus `UNKNOWN` : elle est établie par trace directe (lien Taïga, identifiant candidat, 8 mars 2024) et son rejet relève d'un témoignage direct (`TESTIMONY-JHR`), à confirmer par la décision institutionnelle primaire. Restent `UNKNOWN` : la date et la formulation exactes de ce rejet, son motif, et l'effet subjectif exact qu'il a eu sur Marie-Louise ; le contrefactuel associé reste gradué (voir chapitres « Quand les possibles se ferment » et « Le Réel répond »), jamais neutralisé en `UNKNOWN` uniforme ni promu en causalité certaine. Restent également à documenter deux autres pistes distinctes, toujours `UNKNOWN` : soutien recherché auprès du parrain Ferdinand Pancrazi, paiement de chantier resté en attente.
 - [ ] **Atelier Albertini / « Étape par étape » (2016–2017).** Une réponse du 23 septembre 2026 fournit un témoignage pédagogique direct et trois photographies de Marie-Louise à l’œuvre. Condition de clôture : dater l’atelier, établir son cadre institutionnel exact, documenter la proposition plastique et décider séparément des droits / conditions de publication des images. Source : `Gmail:1a0cce1f2e6dfdc1`, note `memory/marie-louise/works/atelier_etape_par_etape_2016_2017.md`.
@@ -48,12 +48,12 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 - [ ] **Motivation du départ pour Nantes (2017).** Départager, si de nouvelles traces le permettent, les hypothèses concurrentes du père et de Ferdinand Pancrazi — ou documenter explicitement l'impossibilité de les départager.
 - [ ] **Registre conflictuel de sa parole.** Traiter, avec l'encadrement nécessaire, les échanges plus hostiles et la divulgation de détresse psychologique de 2018 et 2021, actuellement réservés au dépôt privé. Condition de clôture : traitement publié dans une édition hebdomadaire dédiée, jamais par simple copie brute.
 - [ ] **Voix directe sur la Corse, l'autonomie et la politique.** Le Twin documentaire note lui-même que ce thème reste le plus mince de l'inventaire de sa parole directe. Rechercher ses propres mots sur la démocratie, la souveraineté, les institutions ou ses raisons de se présenter aux élections, au-delà des seules traces procédurales déjà documentées.
-- [ ] **Deux dessins au stylo noir (2008).** Retrouver la copie papier illustrée de *Le dieu de l'eau*, distincte du texte transmis par mail et déjà publié au chapitre 14.
+- [ ] **Deux dessins au stylo noir (2008).** Retrouver la copie papier illustrée de *Le dieu de l'eau*, distincte du texte transmis par mail et déjà publié dans l'annexe « Le dieu de l'eau — texte intégral ».
 - [ ] **Œuvres et artefacts non retrouvés.** Le catalogue privé des œuvres liste plusieurs pièces documentées mais non récupérées : les dix planches d'admission à l'ENSAD (2016), la vidéo de stop-motion du lycée Pascal-Paoli (2016), deux vidéos YouTube identifiées par leurs identifiants de plateforme (2016-2017), une troisième vidéo envoyée directement par elle en 2019, les carnets de croquis mentionnés en 2018, et les productions de la résidence artistique de 2021 avec Hugues Absil.
 - [ ] **Stage de l'été 2019.** Elle annonce en juin 2019 un stage prévu du 21 juillet au 6 août ; l'organisme, le lieu et son contenu restent `UNKNOWN`.
-- [ ] **Résultat de l'Act territorial `#1755-01`.** Planifié mais non exécuté au moment de cette édition (chapitre 10).
+- [ ] **Résultat de l'Act territorial `#1755-01`.** Planifié mais non exécuté au moment de cette édition (annexe « Stabilisateur, capacité distribuée »).
 - [ ] **PV 03632/2024 / Grasse — suivre la transmission au magistrat.** Le TJ de Grasse a communiqué le 22 septembre 2026 la référence parquet 25252000129, identifié le Bureau d'ordre comme service en charge et demandé une pièce d'identité avant transmission de la demande au magistrat compétent, soumise à accord. Condition de clôture : statut final du dossier obtenu et règles d'accès aux pièces demandées établies, ou voies d'accès documentées comme épuisées.
-- [ ] **Réponse du rejet du 27 septembre 2024.** Établir si le mécanisme est une dispersion sans auteur ou une application procédurale normale (chapitre 11) — sans jamais l'intégrer à une chaîne causale antérieure au décès.
+- [ ] **Réponse du rejet du 27 septembre 2024.** Établir si le mécanisme est une dispersion sans auteur ou une application procédurale normale (annexe « Impunité par obscurité ») — sans jamais l'intégrer à une chaîne causale antérieure au décès.
 
 ## Sur les probes institutionnels du 26–28 septembre
 
@@ -68,7 +68,7 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 
 ## Appel à témoignages et collecte structurée
 
-- [ ] **Ouvrir publiquement l'appel à témoignages.** Le chapitre 17 matérialise cet appel dans l'édition anniversaire. Condition de clôture : appel publié sur le site, canal de réponse explicite et utilisable, et possibilité de contribution sans procédure disproportionnée.
+- [ ] **Ouvrir publiquement l'appel à témoignages.** L'appel à témoignages est matérialisé par sa page dédiée et reste ouvert. Condition de clôture : appel publié sur le site, canal de réponse explicite et utilisable, et possibilité de contribution sans procédure disproportionnée.
 - [ ] **Constituer l'annuaire des témoins potentiels.** Maintenir un ensemble incrémental et révisable de personnes physiques et morales susceptibles de détenir une information, avec provenance de l'identification, relation éventuelle avec Marie-Louise, période, sujets possibles et moyens de contact connus ou à rechercher. Cet annuaire n'est ni une liste d'accusés ni une liste de faits établis.
 - [ ] **Qualifier chaque contribution dès l'entrée.** Distinguer au minimum `trace`, `voix directe`, `trace tierce`, `témoignage`, `fait suffisamment documenté`, `interprétation`, `hypothèse` et `inconnu`, sans promotion automatique d'un niveau à l'autre.
 - [ ] **Séparer réception, conservation, exploitation et publication.** Le fait qu'une personne transmette une information n'emporte pas automatiquement consentement à sa publication. Les régimes de confidentialité, de citation, d'anonymisation et de publication doivent rester distincts et traçables.
@@ -78,9 +78,9 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 
 ## Sur la Corse
 
-- [ ] **Résilience de canal territoriale.** Le chapitre 9 laisse délibérément vide la case du test d'invariance correspondant à la résilience de canal individuelle documentée en juillet 2024 : aucun cas territorial comparable n'est encore identifié.
-- [ ] **Proverbes réservés.** Trois proverbes sur la mort, classés à haute sensibilité par l'issue #75 elle-même, restent non employés faute de revue éditoriale explicite (chapitre 13).
-- [ ] **Test d'invariance élargi.** Étendre le test capacitaire au-delà des deux cas actuellement appariés (chapitre 9), notamment vers d'autres cas territoriaux contemporains documentés dans `research/autonomia/`.
+- [ ] **Résilience de canal territoriale.** L'annexe « Test d'invariance » laisse délibérément vide la case du test d'invariance correspondant à la résilience de canal individuelle documentée en juillet 2024 : aucun cas territorial comparable n'est encore identifié.
+- [ ] **Proverbes réservés.** Trois proverbes sur la mort, classés à haute sensibilité par l'issue #75 elle-même, restent non employés faute de revue éditoriale explicite (annexe « Proverbes et épigraphes »).
+- [ ] **Test d'invariance élargi.** Étendre le test capacitaire au-delà des deux cas actuellement appariés (annexe « Test d'invariance »), notamment vers d'autres cas territoriaux contemporains documentés dans `research/autonomia/`.
 
 ## Sur la méthode et l'édition elle-même
 
