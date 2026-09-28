@@ -1,0 +1,48 @@
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-n4-working
+status: working
+render_ready: false
+language: fr
+
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+author: "Jean Hugues Noël Robert"
+edition_label: "Numéro 4 — en construction"
+
+source_manifest: ../corpus.yml
+related_issue: 90
+predecessor_issue: 84
+predecessor_verification_issue: 89
+
+construction:
+  state: prepared
+  activation: "after explicit freeze of n3"
+  principle: "The n4 selection begins from the post-freeze delta; the delta constrains attention but does not dictate the table of contents."
+  inherited_from_n3:
+    - ../manuscript/16-continuations.md
+    - ../manuscript/questions-ouvertes.md
+    - ../journals/
+  constraints:
+    - "Do not silently modify frozen n3."
+    - "Do not treat Suicide Corse as a political campaign vehicle."
+    - "Do not assign posthumous political intent to Marie-Louise."
+    - "Do not publish private material without a separate publication decision."
+    - "Keep contradictions and negative results visible."
+
+editorial_plan:
+  state: intentionally_unset
+  note: >
+    No Book/Magazine/Annexes selection is inherited automatically.
+    The first n4 act is a zero-state audit after n3 freeze.
+
+chapters: []
+
+chapters_note: >
+  Empty by design before n3 freeze. n4 starts from current Corpus plus
+  post-freeze delta and explicit continuations; it must not copy n3 mechanically.
+
+outputs:
+  html: true
+  pdf: true
+  epub: true
+  publication_status: draft
