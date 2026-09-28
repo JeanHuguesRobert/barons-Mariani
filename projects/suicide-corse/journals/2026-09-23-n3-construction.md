@@ -451,3 +451,50 @@ Cette journée repose sur trois composantes publiques et transparentes :
 
 Cette organisation transforme ce qui était perçu comme un retard en une vertu de transparence et de rigueur scientifique.
 
+
+
+## 28 septembre — consolidation des courriels post-n°2
+
+Avant freeze, un balayage dédié des courriels reçus depuis le n°2 est effectué sur deux axes : Marie-Louise et Corse / candidature sénatoriale.
+
+Résultats structurants :
+
+- plusieurs réponses humaines ajoutent des souvenirs, détenteurs de traces, photographies ou promesses de compléments sur l'enfance, Corte, Nantes, les Beaux-Arts et le parcours artistique ;
+- la campagne produit aussi un refus explicite de contact et un témoignage adverse, conservés comme résultats à part entière plutôt qu'écartés ;
+- le TJ de Grasse fournit une référence parquet pour PV 03632/2024 et identifie le Bureau d'ordre comme service en charge, réduisant l'inconnue procédurale sans résoudre l'accès aux pièces ;
+- le DPO du ministère de l’Intérieur répond que la rectification demandée sur une publication de candidatures n'est plus opérable parce que les données ont été retirées après annulation de la candidature ;
+- l'analyse des résultats sénatoriaux est corrigée : **36 blancs + 40 nuls = fait observé ; motivation et allocation dans un scrutin contrefactuel = UNKNOWN**.
+
+### Conséquence éditoriale
+
+Le n°3 distingue désormais explicitement :
+
+~~~text
+LIVRE
+→ ce qui vieillit bien :
+   personne, trajectoire, œuvres, capacités,
+   fermetures/réouvertures, méthode
+
+MAGAZINE
+→ ce qui change depuis le numéro précédent :
+   réponses du Réel, nouvelles traces,
+   état de l'enquête, Reality Case,
+   contrepoints, continuations
+
+ANNEXES / CORPUS
+→ preuve exhaustive, matrices, pièces,
+   chronologies et détails techniques
+~~~
+
+Rubriques récurrentes candidates à partir du n°3 :
+
+1. **Le Réel répond**
+2. **Nouvelles traces**
+3. **Le point de l'enquête**
+4. **Reality Case**
+5. **Contrepoints**
+6. **Continuations**
+
+Principe : **le corps principal raconte ; les annexes démontrent**.
+
+La projection est temporairement remise à `render_ready: false` jusqu'à nouvel audit après intégration de ce delta.
