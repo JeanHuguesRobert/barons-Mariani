@@ -386,9 +386,9 @@ Comptages approximatifs des fichiers de manuscrit avant recomposition, hors fron
 | 15-la-parole-de-marie-louise | 1 719 | Livre |
 | 02-fermeture-des-possibles | 873 | Livre |
 | 03-machine-a-empecher | 965 | Livre |
-| 04-realiser-impossible | 1 890 | Livre, fusionner |
+| 04-realiser-impossible | 1 619 | Livre, fusion L6 effectuée le 28/09 |
 | 05-machine-a-rendre-capable-de-vivre | 1 077 | Livre, fusionner |
-| 06-vivre-transmettre | 806 | Livre, fusionner |
+| 06-vivre-transmettre | 1 302 | Livre, fusion L7 effectuée le 28/09 |
 | 07-corse-capacite-dormante | 1 319 | Livre, fusionner |
 | 09-test-invariance-echelle | 1 387 | Annexe |
 | 10-stabilisateur-et-capacite-distribuee | 1 082 | Annexe / prélèvement |
@@ -428,8 +428,8 @@ Ordre recommandé :
 
 1. ~~réécrire / développer **L2 — Marie-Louise : une vie en mouvement**~~ — première passe effectuée le 28 septembre ;
 2. ~~resserrer **L1 — Ouverture**~~ — première passe effectuée le 28 septembre ;
-3. fusionner **L6 — De l'empêchement à la capacité** ;
-4. fusionner / resserrer **L7 — Changer d'échelle : la Corse** ;
+3. ~~fusionner **L6 — De l'empêchement à la capacité**~~ — effectué le 28 septembre ;
+4. ~~fusionner / resserrer **L7 — Changer d'échelle : la Corse**~~ — effectué le 28 septembre ;
 5. transformer `18-le-reel-repond` en six rubriques Magazine ;
 6. produire la projection finale Livre + Magazine + Annexes ;
 7. exécuter un nouvel audit de lisibilité et de cohérence ;
