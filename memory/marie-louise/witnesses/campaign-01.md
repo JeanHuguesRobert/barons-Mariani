@@ -2,7 +2,7 @@
 title: "Marie-Louise — première campagne de sollicitation de témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-28
 status: working-paper
 document_role: operational
 document_kind: witness-outreach-campaign
@@ -281,3 +281,22 @@ Elle est utile dès lors qu'elle permet au moins l'un des résultats suivants :
 - correction d'une information du Corpus ;
 - résultat négatif borné évitant de répéter une recherche ;
 - apprentissage concret sur le protocole d'intake.
+
+
+## Consolidation au 28 septembre 2026
+
+Le premier lot P0 a démontré son utilité, mais son évaluation doit distinguer plusieurs types de rendement :
+
+| Résultat observé | Qualification |
+|---|---|
+| souvenir libre substantiel reçu | contribution à qualifier avant projection |
+| photographie / œuvre / objet signalé ou transmis | nouvelle trace ou piste de catalogue ; droits séparés |
+| promesse de réponse ultérieure | continuation active, pas témoignage acquis |
+| proposition de relayer vers d'autres témoins | extension possible du graphe, à activer sans contamination du rappel libre |
+| refus de contact | résultat opérationnel complet ; état `DO_NOT_CONTACT` |
+| objection ou témoignage adverse | contrepoint à conserver avec son statut propre |
+| absence de réponse | résultat provisoire seulement, sauf clôture explicite |
+
+État notable : Camille Gérard, Damien Ruvet et Valérie Roy / Thierry Parmentelat ont annoncé des compléments ; Louis-Marie Charreteur a transmis quatre photographies familiales anciennes ; aucune de ces pièces privées n'est publiée par cette mise à jour.
+
+Le critère de succès de la campagne n'est donc pas « obtenir des réponses favorables ». Il est de **réduire l'incertitude sans fabriquer de convergence**, y compris lorsque la réponse est un refus, une contradiction ou une limitation.
