@@ -472,8 +472,8 @@ editorial_plan:
 volume_audit_2026_09_28:
   observation: "The corpus has enough material; hierarchy, not accumulation, is now the editorial bottleneck."
   current_word_counts_approx:
-    ouverture: 1395
-    marie_louise: 184
+    ouverture: 891
+    marie_louise: 1825
     parole_marie_louise: 1719
     fermeture_possibles: 873
     machine_empecher: 965
@@ -497,11 +497,11 @@ volume_audit_2026_09_28:
     appel_contribution: 944
     appel_temoignages: 1305
     ours: 273
-  primary_imbalance: "The direct Marie-Louise chapter is dramatically shorter than the methodological and documentary apparatus."
+  primary_imbalance: "First corrected on 2026-09-28: opening reduced from ~1395 to 891 words; direct Marie-Louise chapter expanded from 184 to ~1825 words."
   corrective_priority:
-    - "develop L2 first"
-    - "then shorten L1"
-    - "then merge L6 and L7"
+    - "L2 first pass completed"
+    - "L1 first pass completed"
+    - "next: merge L6 and then L7"
     - "then redistribute the magazine"
 
 chapters:
