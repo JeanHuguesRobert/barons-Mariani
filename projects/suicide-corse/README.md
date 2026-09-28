@@ -69,7 +69,8 @@ Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les
 
 Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
 
-Le n°3 doit désormais être **bouclé le lundi 28 septembre 2026 au matin**. Son sommaire et sa longueur restent ouverts jusqu'au freeze : la fin de semaine est assumée comme une **phase magazine à forte intensité**, capable d'intégrer les réponses du Réel jusqu'au dernier moment sans modifier les éditions déjà gelées. Il collecte le delta postérieur au n°2 sans présumer de sa composition. Parmi les entrées désormais enregistrées figure le **delta sénatorial du 25 septembre** : réception effective du jugement du TA, résolution de l'heure 15:49 pour la note en délibéré, résidus documentaires persistants, relance du greffe et demande formelle d'accès aux traces auprès de la préfecture.
+Le n°3 est entré dans sa **journée de bouclage le lundi 28 septembre 2026**. Plutôt que d'imposer un couperet horaire aveugle, le lundi est institué comme journée active de bouclage magazine : publication d'une preview de l'édition en cours, exposition transparente des informations de dernière minute du week-end (clôture des sénatoriales du 27 septembre, contestation et recours au Conseil constitutionnel, naissance publique de Capable, déploiement de l'appel ouvert à contribution), et maintien d'une fenêtre d'ultime contribution avant le gel définitif.
+
 
 Principe : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
 

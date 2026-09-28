@@ -16,9 +16,10 @@ edition:
   editorial_date: "2026-09-28"
   publication_date: null
   date_is_intentionally_unset: false
-  close_target: "2026-09-28 morning Europe/Paris"
+  close_target: "2026-09-28 Monday close day Europe/Paris"
   close_time_exact: null
-  cadence_note: "Weekend magazine mode: absorb high-value late delta until freeze, without silently changing frozen editions."
+  cadence_note: "Monday close day mode: publish edition preview and last-minute delta (senatorial post-scrutin, Capable announcement, open call for contributions) while keeping an active contribution window until final freeze."
+
 
 construction:
   state: active

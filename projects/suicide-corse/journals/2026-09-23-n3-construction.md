@@ -424,6 +424,30 @@ L'audit n°3 vérifie avant freeze quatre séparations critiques :
 - Marie-Louise ≠ Capable posthume ;
 - sénatoriales 2026 ≠ candidature Capable rétroactive ;
 - doctrine d'effectivité ≠ droit positif ≠ projection politique ;
-- sortie dans le Réel ≠ validation de la doctrine.
-
 La priorité de fin de cycle devient donc la provenance et la cohérence plutôt que l'ajout de doctrine.
+
+---
+
+## 28 septembre — Institution du « Lundi de bouclage » : cadence magazine réactive, preview et dernières minutes
+
+Le lundi 28 septembre au matin, Jean Hugues Robert acte une clarification méthodologique structurante : le lundi cesse d'être une course contre un couperet horaire aveugle (7h00) créant un sentiment artificiel d'échec face à la densité du delta accumulé le week-end.
+
+Le lundi est formellement institué comme la **journée hebdomadaire de bouclage actif (Magazine Close)**.
+
+Cette journée repose sur trois composantes publiques et transparentes :
+
+1. **La publication d'une Preview du numéro en cours de bouclage** :
+   - Accès ouvert au contrat de projection [`projects/suicide-corse/projections/book-n3-working.yml`](../projections/book-n3-working.yml) et au journal de bord pour rendre visible l'état exact du texte avant son scellement définitif.
+
+2. **L'exposition des informations de « dernière minute » (*Last-Minute Delta*)** :
+   - *Sénatoriales 2026 et saisine du Conseil constitutionnel* : Clôture du scrutin le 27 septembre, élection contestée de M. Parigi, ouverture du délai de 10 jours de l'article 33 de l'ordonnance n° 58-1067 expirant le 7 octobre 2026. Finalisation du projet de requête v0.1 (`research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md`) et de l'inventaire probatoire exhaustif de 25 pièces (`research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md`) établissant la pleine coopération du candidat, le vice de l'exigence d'un support papier original physique, et l'aménagement du handicap de la remplaçante (jurisprudence CE 14 mai 2021).
+   - *Naissance publique de Capable* : Annonce officielle du mouvement le 27 septembre à 12:01 sur X, fondant la doctrine de l'Autonomie de Capacité et le Principe d'effectivité.
+   - *Déploiement de l'appel ouvert à contribution et compétences* : Extension de l'appel à témoignages vers un appel ouvert aux juristes, constitutionnalistes, statisticiens et développeurs via `contribuer.html` (Issue #87).
+
+3. **Le maintien d'une fenêtre d'ultime contribution avant freeze** :
+   - Deux portes d'entrée distinctes :
+     - Soit sous forme de **témoignage personnel** autour de Marie-Louise via `temoigner.html` ;
+     - Soit sous forme de **contribution de compétences** sur la Corse et la requête sénatoriale via `contribuer.html`.
+
+Cette organisation transforme ce qui était perçu comme un retard en une vertu de transparence et de rigueur scientifique.
+
