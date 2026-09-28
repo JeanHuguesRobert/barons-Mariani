@@ -1,8 +1,8 @@
 ---
-title: "Hypothèses non résolues — état au 21 septembre 2026"
+title: "Hypothèses non résolues — état au 28 septembre 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-15"
-last_modified_at: "2026-09-21"
+last_modified_at: "2026-09-28"
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -34,9 +34,9 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ---
 
 
-# Hypothèses non résolues — état au 21 septembre 2026
+# Hypothèses non résolues — état au 28 septembre 2026
 
-Le numéro 2 est une carte datée, pas une clôture de l'enquête. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi à cette date. Il applique le gate épistémique posé par le chantier éditorial :
+Le numéro 3 est une carte datée, pas une clôture de l'enquête. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi au bouclage du 28 septembre 2026. Il applique le gate épistémique posé par le chantier éditorial :
 
 ```text
 TRACE / observation
@@ -58,14 +58,15 @@ Aucune des lignes ci-dessous n'a le statut de `FACT`. Chacune reste au mieux une
 - **Motivation du choix de Nantes (2017).** Deux explications contemporaines concurrentes coexistent dans le Corpus — la proximité des jeunes sœurs (hypothèse paternelle réitérée) et un conflit récent avec la mère ayant conduit à un refuge à Nantes (hypothèse formulée par Ferdinand Pancrazi) — sans qu'aucune parole directe de Marie-Louise ne permette de départager les deux à ce stade. Cette édition ne tranche pas et traite leur coexistence comme un test de la capacité du Corpus à ne pas fermer prématurément deux cartes concurrentes.
 - **Villa Arson — contrefactuel gradué.** La candidature du 8 mars rend fortement contraint le premier contrefactuel : si elle avait été acceptée, Marie-Louise aurait très vraisemblablement repris la quatrième année à la Villa Arson. Jean Hugues Robert formule l'hypothèse plus forte qu'elle serait alors probablement encore vivante après septembre 2024. Cette seconde proposition reste une `HYPOTHESIS-JHR`, plus lointaine et multicausale, mais elle doit être étudiée comme hypothèse substantielle et non rabattue sur `UNKNOWN`.
 - **Agence encore exercée début 2024.** La même note documente, avec sources directes, une tentative de réintégration à la Villa Arson en mars 2024 et une capacité politique et relationnelle encore exercée en juin 2024 (demande à son père d'être directeur de campagne). Ces éléments doivent être conservés comme contrôles contre toute reconstruction d'une fermeture linéaire et continue menant mécaniquement au 17 septembre.
-- **Voix directe sur la friction Nantes 2017 (chapitre 15).** L'ajout de sa propre parole (décembre 2017) renforce le niveau de preuve de la friction déjà documentée (chapitres 7 et 9), sans en changer le statut : elle documente un vécu de frustration et de contrainte matérielle contemporain, non une fermeture de capacité au sens de la matrice, et ne doit pas être lue comme un jugement définitif sur l'échange qu'elle donne à voir.
-- **Empêchement électoral 2020 / 2026 (chapitre 15).** Le rapprochement entre le refus opposé à Marie-Louise en 2020 (condition d'âge) et l'empêchement que Jean Hugues Noël Robert affirme rencontrer en 2026 est enregistré comme `ASSERTION-JHR`, non documenté davantage dans cette édition. Sa nature exacte, ses causes et sa validité juridique restent `UNKNOWN` pour ce Corpus à ce stade.
-- **Registre complet de la relation avec son père.** Le chapitre 15 le dit explicitement : seul un registre coopératif de sa parole est publié dans cette édition. Un registre plus conflictuel et une divulgation de détresse psychologique existent dans le Corpus, sont enregistrés en privé et ajournés — non par dissimulation, mais faute du temps éditorial nécessaire d'ici le 17 septembre. Leur traitement est explicitement reporté à une édition hebdomadaire ultérieure.
+- **Voix directe sur la friction Nantes 2017.** Sa propre parole de décembre 2017 renforce le niveau de preuve de la friction déjà documentée, sans en changer le statut : elle documente un vécu de frustration et de contrainte matérielle contemporain, non une fermeture de capacité au sens de la matrice, et ne doit pas être lue comme un jugement définitif sur l'échange qu'elle donne à voir.
+- **Capacité électorale 2022 — origine de la bascule.** La candidature titulaire de Marie-Louise et plusieurs actes personnels sont documentés. Restent `UNKNOWN` : la décision exacte intervenue entre le 6 et le 9 mai 2022, sa répartition entre les acteurs concernés, l'identité de la personne ayant physiquement manipulé le fichier Photoshop du collector et l'auteur exact du portrait/autoportrait.
+- **Reality Case sénatorial 2026.** Le dépôt de candidature, le refus d'enregistrement, le jugement, le scrutin et plusieurs démarches postérieures sont désormais documentés. Restent notamment ouverts : certaines transmissions et pièces du dossier, le contenu exact du procès-verbal et des bulletins nuls demandés en consultation, la réponse au probe de la Sous-Préfecture de Corte et la décision finale de déposer, modifier ou abandonner le projet de requête au Conseil constitutionnel. Un brouillon de requête n'est pas un dépôt.
+- **Registre complet de la relation avec son père.** Le Livre publie principalement un registre coopératif de sa parole. Un registre plus conflictuel et une divulgation de détresse psychologique existent dans le Corpus privé et nécessitent un traitement éditorial séparé, avec une décision spécifique de publication et les précautions appropriées.
 
 ## Sur les mécanismes proposés
 
 - **Machine à Empêcher de Vivre.** La chaîne complète, des empêchements documentés jusqu'au risque suicidaire, reste une hypothèse de recherche. Toutes ses flèches n'ont pas le même niveau de preuve : certaines fermetures locales peuvent être documentées fortement, tandis que leurs conséquences lointaines restent probabilistes. La méthode doit grader les maillons au lieu d'exiger un tout-ou-rien entre causalité certaine et `UNKNOWN`.
-- **Fiabilité perçue d'un possible (chapitre 5).** Cette variable candidate — un possible peut rester objectivement et perceptiblement ouvert sans être investi si sa durabilité paraît douteuse — n'a été confrontée à aucune trace directe concernant Marie-Louise ; elle reste une hypothèse importée de la littérature sur la contrôlabilité, non une observation.
+- **Fiabilité perçue d'un possible.** Cette variable candidate — un possible peut rester objectivement et perceptiblement ouvert sans être investi si sa durabilité paraît douteuse — n'a été confrontée à aucune trace directe concernant Marie-Louise ; elle reste une hypothèse importée de la littérature sur la contrôlabilité, non une observation.
 - **Causalité entre pessimisme collectif et fécondité.** Que la contraction perçue de l'avenir contribue à la baisse de la fécondité, au-delà d'une corrélation de signaux convergents, reste non établi.
 - **Escalade causale et Machine à Empêcher.** L'ouverture applique désormais explicitement la parcimonie causale (`research/triangulation_du_reel.md`, §4.1) : aucune mise en cause d'un acteur, d'une institution ou d'un mécanisme délibéré n'est retenue dans cette édition tant qu'un niveau plus simple de l'échelle d'escalade (erreur, désorganisation, inertie ordinaire) suffit à expliquer les observations disponibles.
 
@@ -79,17 +80,24 @@ Aucune des lignes ci-dessous n'a le statut de `FACT`. Chacune reste au mieux une
 
 ## Sur le test d'invariance inter-échelle
 
-- **Portée de l'échantillon.** Le chapitre 9 remplit, pour la première fois, deux cases du test d'invariance capacitaire (architecture v2, §14) avec des cas documentés des deux côtés — Marie-Louise 2020→2022 en regard de `#1755` ; Nantes 2017-2019 en regard du Riacquistu — et en laisse une troisième délibérément vide (résilience de canal, sans cas territorial comparable encore documenté). Un invariant testé sur deux cas appariés, avec une asymétrie de preuve marquée entre les deux colonnes, reste un `MODEL candidat` et non une loi établie.
+- **Portée de l'échantillon.** L'annexe « Test d'invariance » remplit, pour la première fois, deux cases du test d'invariance capacitaire (architecture v2, §14) avec des cas documentés des deux côtés — Marie-Louise 2020→2022 en regard de `#1755` ; Nantes 2017-2019 en regard du Riacquistu — et en laisse une troisième délibérément vide (résilience de canal, sans cas territorial comparable encore documenté). Un invariant testé sur deux cas appariés, avec une asymétrie de preuve marquée entre les deux colonnes, reste un `MODEL candidat` et non une loi établie.
 - **Rapprochement `#1755` / État paoliste de 1755.** Ce rapprochement est un usage symbolique du nombre, assumé comme tel, non une continuité causale démontrée entre l'initiative contemporaine et l'histoire du XVIIIe siècle.
-- **Écart `capacité formelle ≠ capacité effective` chez Marie-Louise.** Le chapitre 10 rapproche son passage à candidate titulaire (2022, 2024) du test territorial `Follow the Power`. Le mécanisme précis de cet écart, dans son cas, reste à établir et n'est probablement pas identique au mécanisme territorial.
+- **Écart `capacité formelle ≠ capacité effective` chez Marie-Louise.** L'annexe « Stabilisateur, capacité distribuée » rapproche son passage à candidate titulaire (2022, 2024) du test territorial `Follow the Power`. Le mécanisme précis de cet écart, dans son cas, reste à établir et n'est probablement pas identique au mécanisme territorial.
 - **Stabilisation des capacités ouvertes pour Marie-Louise.** Aucune des capacités documentées (CPES, Nantes, candidatures) n'a encore été analysée sous l'angle de sa dépendance à un relais unique ou de sa stabilisation procédurale, au sens où le chapitre 10 introduit cette notion.
 - **Résultat de l'Act territorial `#1755-01`.** Planifié mais non exécuté au moment de cette édition ; son issue reste `UNKNOWN`.
-- **Mécanisme du rejet du 27 septembre 2024 (Conseil constitutionnel, requête 2024-6309 AN).** Le chapitre 11 en rapproche la structure — dispersion institutionnelle, absence d'examen au fond — du mécanisme « impunité par obscurité » documenté à l'échelle territoriale, sans établir lequel des deux mécanismes (dispersion sans auteur, ou application procédurale normale) explique effectivement ce rejet. Ce rejet est en tout état de cause postérieur au décès et ne doit jamais entrer dans une reconstruction causale de l'été 2024.
-- **Chaîne `compute → capability → Bien Vivre ?` (chapitre 12).** Posée comme non testée par sa propre source (`research/bien_vivre.md`) ; son application aux chapitres 5 et 6 de cette édition reste une mise en relation conceptuelle.
+- **Mécanisme du rejet du 27 septembre 2024 (Conseil constitutionnel, requête 2024-6309 AN).** L'annexe « Impunité par obscurité » en rapproche la structure — dispersion institutionnelle, absence d'examen au fond — du mécanisme « impunité par obscurité » documenté à l'échelle territoriale, sans établir lequel des deux mécanismes (dispersion sans auteur, ou application procédurale normale) explique effectivement ce rejet. Ce rejet est en tout état de cause postérieur au décès et ne doit jamais entrer dans une reconstruction causale de l'été 2024.
+- **Chaîne `compute → capability → Bien Vivre ?`.** Posée comme non testée par sa propre source (`research/bien_vivre.md`) ; son application aux chapitres consacrés à la capacité et au changement d'échelle reste une mise en relation conceptuelle.
+
+## Sur les nouvelles probes et projections du 26–28 septembre
+
+- **Défenseur des droits.** La saisine initiale du 26 septembre est un `ACT` documenté, pas un résultat. Son enregistrement, son périmètre de traitement, ses éventuelles transmissions et son issue restent inconnus au bouclage.
+- **Consultation du scrutin sénatorial.** La demande du 28 septembre visant le procès-verbal général et les bulletins déclarés nuls est envoyée ; l'accès effectif aux pièces et ce qu'elles établiront restent `UNKNOWN`.
+- **Canal Sous-Préfecture de Corte.** La demande d'information du 28 septembre transforme une incertitude procédurale en probe. La compétence pratique de ce canal et la réponse qui sera donnée restent ouvertes.
+- **Capable comme Reality Test.** Le mouvement a été publiquement annoncé le 27 septembre et un baseline contradictoire a été fixé. Ses effets, son organisation, ses capacités effectivement ouvertes, ses dépendances, ses contre-signaux et ses corrections futures sont par définition non encore établis. L'annonce publique n'est ni une validation de la doctrine ni une continuité posthume attribuable à Marie-Louise.
 
 ## Note méthodologique : signaux convergents ≠ cause commune
 
-Plusieurs chapitres de cette édition (notamment les chapitres 6 et 7) rassemblent des signaux qui pointent dans une direction commune — pessimisme, apathie, fatalisme, baisse de la fécondité, banalisation du vocabulaire de rupture — sans leur attribuer un mécanisme causal unique. Cette règle protège l'ensemble de l'édition : la convergence apparente de plusieurs indicateurs est elle-même une observation à interpréter avec prudence, pas une preuve de cause commune.
+Plusieurs parties de cette édition, notamment le chapitre « Changer d'échelle : la Corse », rassemblent des signaux qui pointent dans une direction commune — pessimisme, apathie, fatalisme, baisse de la fécondité, banalisation du vocabulaire de rupture — sans leur attribuer un mécanisme causal unique. Cette règle protège l'ensemble de l'édition : la convergence apparente de plusieurs indicateurs est elle-même une observation à interpréter avec prudence, pas une preuve de cause commune.
 
 ## Ce que cette liste appelle
 
