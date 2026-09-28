@@ -2,7 +2,7 @@
 title: "Annuaire"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-24"
+last_modified_at: "2026-09-28"
 status: working
 language: fr
 license: "CC BY-SA 4.0"
@@ -74,7 +74,7 @@ Reconstruit à partir de correspondances, d'un avenant de bail et d'une attestat
 - **Hugues Absil** — artiste plasticien ; témoin direct très fort d'une résidence artistique et d'un tournage engageant Marie-Louise du 17 au 26 avril 2021 aux Falguières (Saint-Laurent-le-Minier, Gard). Moyens de contact professionnels publics disponibles indépendamment de ce Corpus.
 - **Maëva Guillery** — amie de Marie-Louise connue aux Beaux-Arts de Nantes ; témoin direct. Une première réponse de rappel libre a été reçue le 22 septembre 2026 ; elle est en cours de qualification avant toute éventuelle citation.
 - **Maéva Lecoq** — témoin direct et détentrice de photographies, œuvres ou objets liés à Marie-Louise. Une première réponse détaillée a été reçue le 21 septembre 2026 ; son contenu privé et sensible n'est pas reproduit automatiquement dans cet annuaire.
-- **Camille Gérard** — colocataire documentée de Marie-Louise à Nantes (bail 2019-2020). Témoin potentiel très fort du quotidien nantais.
+- **Camille Gérard** — colocataire documentée de Marie-Louise à Nantes (bail 2019-2020). Elle a annoncé une réponse plus développée et proposé de relayer la recherche vers d'autres anciennes amies ; contribution encore attendue.
 - **Alice Gautier** — camarade ayant hébergé Marie-Louise à Nantes en 2018, selon ses propres mots. À ne pas confondre avec une artiste contemporaine homonyme active à Nantes ; l'identité n'est pas établie.
 - **Juliette Fetaz** — colocataire/camarade à Nantes, documentée par un avenant de bail et par un message de Marie-Louise datant de juin 2019.
 - **Pauline Tomaszewski** — locataire antérieure du même logement nantais ; valeur documentaire directe encore incertaine.
@@ -97,7 +97,7 @@ Les recherches Gmail ciblées autour du 17 avril 2017 et sur un déplacement Bre
 ### Villa Arson / Nice, 2021–2024
 
 - **Sylvain Lizon** — ancien directeur de la Villa Arson ; témoin institutionnel potentiel. La sonde du 21 septembre a produit un routage automatique vers son nouveau canal professionnel et vers la direction actuelle de la Villa Arson ; son souvenir propre de Marie-Louise reste à recueillir.
-- **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023 autour d'un travail graphique et d'échanges de contact ; également relais potentiel vers l'écosystème pédagogique de la Villa Arson, avec lequel il indique rester lié.
+- **Damien Ruvet** — relation directe documentée avec Marie-Louise au moins en 2022–2023 autour d'un travail graphique et d'échanges de contact ; également relais potentiel vers l'écosystème pédagogique de la Villa Arson. Il a répondu le 24 septembre en annonçant un complément, encore attendu au bouclage.
 - **Villa Arson** — détentrice potentielle des dossiers de scolarité, évaluations, correspondances, archives pédagogiques et décisions concernant le parcours de Marie-Louise. Le 8 mars 2024, Marie-Louise engage une candidature de réintégration en quatrième année ; Jean Hugues Robert témoigne qu'elle a été rejetée. La décision primaire, sa date et son motif exact restent à retrouver.
 
 ### CPES de Sartène, 2016-2017
@@ -126,15 +126,20 @@ Le registre documente l'existence d'une psychologue mandatée dans un contexte d
 
 Cette dernière situation impose une distinction simple : lorsqu'un témoin potentiel est décédé, l'enquête bascule de la sollicitation vers la recherche des traces déjà produites et de leurs détenteurs secondaires.
 
-## État de la campagne de sollicitation — 24 septembre 2026
+## État de la campagne de sollicitation — 28 septembre 2026
 
 Les six sondes préparées au bouclage du n°2 ont été **envoyées le 21 septembre 2026**. Elles appartiennent au delta postérieur au n°2 gelé et nourrissent désormais le Corpus courant / n°3.
 
 - **Maëva Guillery** — réponse de rappel libre substantielle reçue le 22 septembre ; contenu privé en cours de qualification avant toute éventuelle citation.
 - **Maéva Lecoq** — réponse substantielle reçue le 21 septembre ; elle apporte des souvenirs directs et l’existence de photographies, œuvres ou objets, sans autorisation automatique de publication.
 - **Sylvain Lizon** — réponse automatique de routage seulement ; un nouveau canal professionnel et la direction actuelle de la Villa Arson ont été identifiés, mais aucun témoignage substantiel n’est encore reçu.
-- **Damien Ruvet**, **Villa Arson** et **Céline Christmann** — sondes envoyées le 21 septembre ; aucune réponse identifiée lors de la vérification du 23 septembre. Ce silence bref n’est interprété ni comme refus ni comme absence d’information.
+- **Damien Ruvet** — réponse reçue le 24 septembre annonçant une contribution complémentaire ; contenu substantiel encore attendu. **Villa Arson** et **Céline Christmann** — aucune réponse substantielle identifiée au bouclage ; ce silence n’est interprété ni comme refus ni comme absence d’information.
 - **Jean-Joseph Albertini** — sollicitation distincte postérieure au n°2 ; réponse substantielle reçue le 23 septembre, avec témoignage pédagogique direct et trois photographies d’une proposition plastique sur le thème « Étape par étape ». Date exacte, cadre institutionnel et droits de reproduction restent à préciser.
+
+- **Valérie Roy / Thierry Parmentelat** — ont annoncé rechercher souvenirs et photographies liés à Marie-Louise ; contribution éventuelle encore ouverte.
+- **Louis-Marie Charreteur** — a transmis quatre photographies familiales anciennes ; leur existence et leur provenance sont enregistrées, sans publication automatique.
+- **Refus de contact** — au moins une personne sollicitée a demandé explicitement à ne plus être contactée ; cet état `DO_NOT_CONTACT` doit être respecté sans exposer publiquement le contenu privé du refus.
+- **Témoignage adverse privé** — une contribution conteste fortement certaines interprétations de l'auteur ; elle est conservée comme contrepoint à instruire, non comme fait établi ni comme matériau automatiquement publiable.
 
 Règle de publication :
 
