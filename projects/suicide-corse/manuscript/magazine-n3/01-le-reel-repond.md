@@ -24,4 +24,8 @@ Le tribunal judiciaire de Grasse a communiqué la référence parquet **25252000
 
 Le service du délégué à la protection des données du ministère de l'Intérieur a par ailleurs indiqué qu'une rectification demandée sur une publication électorale ne pouvait plus être effectuée sur cette surface, les données ayant été retirées après l'annulation de la candidature.
 
-Ces réponses ne ferment pas automatiquement les questions. Elles les déplacent et les précisent.
+Le 26 septembre, une saisine initiale a également été adressée à une déléguée du Défenseur des droits sous l'angle de l'effectivité des droits et de la continuité administrative. Elle demande d'abord une référence stable et un cadre de traitement traçable ; aucune conclusion sur le fond n'en résulte encore.
+
+Le 27 septembre, le mouvement civique et politique **Capable** a été annoncé publiquement. Le Corpus avait fixé le même jour un baseline contradictoire avant accumulation de résultats. Pour *Suicide Corse*, ce fait n'est pas une validation doctrinale ni une continuité politique attribuée à Marie-Louise : c'est une idée issue du Corpus qui devient à son tour exposée au Réel et donc susceptible d'être contredite, corrigée ou abandonnée.
+
+Ces réponses et ces actes ne ferment pas automatiquement les questions. Ils les déplacent, les précisent et créent de nouveaux points d'observation.
