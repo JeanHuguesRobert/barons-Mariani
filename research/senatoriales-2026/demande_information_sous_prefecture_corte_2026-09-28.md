@@ -4,7 +4,7 @@ subtitle: "Article 34 de l'ordonnance n° 58-1067 du 7 novembre 1958 — vérifi
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-28"
-status: "revised after legal check — ready for human review"
+status: "sent — response requested"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "formal-request"
@@ -22,8 +22,14 @@ source_documents:
   - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md"
   - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 review:
-  status: "legal-basis-corrected — human review pending before send"
-  reviewed_by: []
+  status: "human-approved-and-sent"
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+provenance:
+  origin_type: "email"
+  origin_date: "2026-09-28"
+  derived_from:
+    - "gmail:1a0e7c8da5ef2262"
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
@@ -57,47 +63,47 @@ Références officielles vérifiées le 28 septembre 2026 :
 
 ---
 
-## 2. Texte de la lettre proposée
+## 2. Texte du courriel effectivement envoyé
 
 ```text
-À l'attention de Monsieur Thomas Kupisz
-Sous-Préfet de Corte
-
-
 Monsieur le Sous-Préfet,
 
-Voisin du cours Paoli, je m'adresse à vous en privilégiant tout naturellement la représentation de proximité de l'État dans notre arrondissement pour cette vérification procédurale.
+Voisin du cours Paoli, je m’adresse à vous en privilégiant tout naturellement la représentation de proximité de l’État dans notre arrondissement pour cette vérification procédurale.
 
-Ayant fait acte de candidature au scrutin sénatorial du 27 septembre 2026, j'envisage de contester la régularité de ces opérations électorales devant le Conseil constitutionnel, dans le délai prévu par l'article 33 de l'ordonnance n° 58-1067 du 7 novembre 1958.
+Ayant fait acte de candidature au scrutin sénatorial du 27 septembre 2026, j’envisage de contester la régularité de ces opérations électorales devant le Conseil constitutionnel, dans le délai prévu par l’article 33 de l’ordonnance n° 58-1067 du 7 novembre 1958.
 
-L'article 34 de cette ordonnance prévoit que la requête écrite peut être adressée soit au secrétariat général du Conseil constitutionnel, soit au représentant de l'État. Il dispose également que le représentant de l'État avise, par voie électronique, le secrétaire général et assure la transmission de la requête dont il a été saisi.
+L’article 34 de cette ordonnance prévoit que la requête écrite peut être adressée soit au secrétariat général du Conseil constitutionnel, soit au représentant de l’État. Il dispose également que le représentant de l’État avise, par voie électronique, le secrétaire général et assure la transmission de la requête dont il a été saisi.
 
-L'article 14 du décret n° 2004-374 du 29 avril 2004 dispose par ailleurs que le sous-préfet d'arrondissement est le délégué du préfet dans l'arrondissement.
+L’article 14 du décret n° 2004-374 du 29 avril 2004 dispose par ailleurs que le sous-préfet d’arrondissement est le délégué du préfet dans l’arrondissement.
 
-Je souhaite donc savoir si la Sous-Préfecture de Corte peut recevoir, pour le compte du représentant de l'État, une telle requête et en assurer la prise en charge en vue de la transmission prévue par l'article 34.
+Je souhaite donc savoir si la Sous-Préfecture de Corte peut recevoir, pour le compte du représentant de l’État, une telle requête et en assurer la prise en charge en vue de la transmission prévue par l’article 34.
 
-Dans l'affirmative, je privilégierais une transmission dématérialisée de la requête et de ses pièces, complétée par la délivrance d'une attestation ou d'un récépissé constatant sans ambiguïté la date et l'heure de réception ainsi que la prise en charge de sa transmission.
+Dans l’affirmative, je privilégierais une transmission dématérialisée de la requête et de ses pièces, complétée par la délivrance d’une attestation ou d’un récépissé constatant sans ambiguïté la date et l’heure de réception ainsi que la prise en charge de sa transmission.
 
-Je vous serais obligé de bien vouloir m'indiquer les modalités pratiques à utiliser à cette fin, notamment l'adresse électronique à laquelle la requête devrait être transmise, les horaires d'accueil de vos bureaux et, s'il existe une contrainte particulière, l'heure limite à laquelle vos services pourraient en assurer la réception avant l'expiration du délai légal, le mercredi 7 octobre 2026 à 18 heures.
+Je vous serais obligé de bien vouloir m’indiquer les modalités pratiques à utiliser à cette fin, notamment l’adresse électronique à laquelle la requête devrait être transmise, les horaires d’accueil de vos bureaux et, s’il existe une contrainte particulière, l’heure limite à laquelle vos services pourraient en assurer la réception avant l’expiration du délai légal, le mercredi 7 octobre 2026 à 18 heures.
 
-Si vos services ne sont pas habilités à recevoir une telle requête pour le compte du représentant de l'État, je vous remercie de bien vouloir me l'indiquer explicitement et, si possible, de me préciser le canal que vous considérez compétent afin d'éviter toute incertitude procédurale.
+Si vos services ne sont pas habilités à recevoir une telle requête pour le compte du représentant de l’État, je vous remercie de bien vouloir me l’indiquer explicitement et, si possible, de me préciser le canal que vous considérez compétent afin d’éviter toute incertitude procédurale.
 
-Je vous prie d'agréer, Monsieur le Sous-Préfet, l'assurance de ma considération distinguée.
-
+Je vous prie d’agréer, Monsieur le Sous-Préfet, l’assurance de ma considération distinguée.
 
 Jean Hugues Noël Robert
+
 Baron Mariani
+
 1, cours Paoli
 ```
 
 ---
 
-## 3. Paramètres de transmission envisagés
+## 3. Paramètres de transmission effectivement utilisés
 
 * **Destinataire :** `sp-corte@haute-corse.gouv.fr`
-* **Objet proposé :** `Saisine du Conseil constitutionnel — demande préalable de confirmation des modalités de remise`
-* **Copies (CC / CCI) :** Néant à ce stade, afin d'observer la réponse du canal territorial sollicité.
+* **Objet :** `Saisine du Conseil constitutionnel — demande préalable de confirmation des modalités de remise`
+* **Copies (CC / CCI) :** Néant.
 * **Échéance légale de la contestation :** mercredi 7 octobre 2026 à 18h00 CEST, sous réserve de la proclamation des résultats intervenue le 27 septembre 2026.
+
+* **Envoi vérifié dans Gmail :** 28 septembre 2026 à **13:31:35 CEST**, label `SENT`, sans pièce jointe.
+* **État du fil au moment de la vérification :** un seul message, aucune réponse ni accusé automatique.
 
 ---
 
