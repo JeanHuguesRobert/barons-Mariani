@@ -65,11 +65,9 @@ Le résultat provisoire du test est net : l'augmentation documentée de la capac
 
 **Rapprochement avec Marie-Louise.** La trajectoire électorale documentée dans `memory/marie-louise/possible_matrix.md` offre un analogue individuel à cette même question. Le passage de suppléante (2017) à candidate titulaire (2022, 2024) constitue une augmentation de **capacité formelle** — un statut électoral plus élevé, un accès plus direct au bulletin. Mais le résultat électoral (75 voix en 2022, 50 en 2024, moins de 0,25 % des exprimés dans les deux cas) ne permet pas d'établir que cette capacité formelle accrue s'est traduite par une capacité effective d'agir sur le cours des événements. La question posée par `Follow the Power` à l'échelle territoriale se repose ici presque à l'identique :
 
-```text
-capacité institutionnelle/formelle accrue (statut de candidate titulaire)
-≠
-capacité effective accrue (pouvoir d'infléchir un résultat, une décision, une situation)
-```
+> **Capacité institutionnelle ou formelle accrue**  
+> n'est pas nécessairement  
+> **capacité effective accrue** — pouvoir d'infléchir un résultat, une décision ou une situation.
 
 **Ce qui survit au changement d'échelle.** La distinction entre pouvoir formel et capacité effective, déjà posée par l'architecture v2 comme une non-équivalence entre capacité ascendante et capacité distribuée, se retrouve documentée indépendamment aux deux échelles, avec deux méthodes de test différentes — une grille institutionnelle pour la Corse, une série électorale datée pour Marie-Louise.
 
