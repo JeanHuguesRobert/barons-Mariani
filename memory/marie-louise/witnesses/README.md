@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 language: fr
 status: working-paper
 date: 2026-09-18
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-28
 document_role: index
 document_kind: witness-directory-index
 visibility: public
@@ -195,3 +195,26 @@ Une fiche publique peut indiquer qu'un moyen de contact existe sans nécessairem
 Le registre suit une discipline d'Optimistic Locking : lire l'état courant, appliquer le plus petit changement suffisant, préserver la provenance, et ne jamais écraser silencieusement un changement concurrent. En cas de divergence, relire, réconcilier, puis produire une correction traçable.
 
 Le but n'est pas de produire un annuaire « terminé », mais un système vivant, vérifiable et améliorable de découverte et de mobilisation de témoins potentiels.
+
+
+## État consolidé des retours post-n°2 — 28 septembre 2026
+
+Le registre intègre désormais les **états** et conséquences documentaires des réponses reçues après le gel du n°2, sans reproduire les courriels privés ni les images transmises.
+
+- **Camille Gérard** — réponse reçue : elle confirme une proximité forte avec Marie-Louise pendant les premières années aux Beaux-Arts de Nantes, annonce une réponse développée et propose de solliciter d'autres anciennes amies. Statut : `TESTIMONY_PENDING_DETAIL` + relais potentiel ; ne pas préremplir le futur témoignage par nos catégories.
+- **Damien Ruvet** — réponse reçue le 24 septembre : contribution substantielle annoncée, non encore reçue. Statut : `FOLLOW_UP_PROMISED`; la sonde n'est donc plus « sans réponse ».
+- **Louis-Marie Charreteur** — réponse reçue le 27 septembre avec quatre photographies familiales anciennes, dont des fichiers explicitement datés 1998 et 2001. Statut : `TRACE_HOLDER` + mémoire familiale limitée ; enregistrer provenance et existence, sans publication des images sans décision distincte.
+- **Valérie Roy / Thierry Parmentelat** — réponse reçue : recherche annoncée de souvenirs et photographies de l'enfance de Marie-Louise à Minesteggio. Statut : `FOLLOW_UP_PROMISED`.
+- **Jean-Joseph Albertini** — reste `TESTIMONY` direct + détenteur/transmetteur de trois traces photographiques ; aucun élargissement des droits de publication n'est déduit de la transmission.
+- **Maëva Guillery** et **Maéva Lecoq** — réponses substantielles déjà enregistrées ; leur utilité documentaire s'étend aux pratiques artistiques, lieux, relations, objets et œuvres encore détenus, sans transformer les passages sensibles en matière publique automatique.
+- **Refus de contact** — au moins une destinataire a explicitement demandé à ne plus recevoir d'informations sur ce sujet. Le registre opérationnel doit conserver un état `DO_NOT_CONTACT` sans publier le texte privé ni développer l'identité de la personne dans les projections grand public.
+- **Contre-témoignage privé** — une réponse adverse conteste explicitement l'interprétation de l'auteur et met en cause sa propre responsabilité. Statut : `TESTIMONY / OPINION_ADVERSE`, non `FACT`. Elle doit être préservée dans le registre contradictoire privé comme garde-fou contre l'auto-confirmation ; aucune citation publique automatique.
+
+Règle renforcée :
+
+~~~text
+réponse privée
+→ conserver la trace brute dans le canal autorisé
+→ publier au Corpus seulement existence / provenance / qualification / effet documentaire
+→ séparer explicitement droit de conservation et droit de publication
+~~~
