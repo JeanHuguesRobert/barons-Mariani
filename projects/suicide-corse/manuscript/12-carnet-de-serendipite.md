@@ -42,7 +42,7 @@ Les annexes méthodologiques précédentes procédaient par recherche dirigée :
 
 `research/opheline_ophelia_pertitellu_genesis.md` documente un épisode de 2025 sans rapport voulu avec *Suicide Corse*, dans un tout autre projet du Corpus (le Pertitellu de Corte). Ce carnet n'en retient qu'un fait précis, sans rapport avec les personnes concernées par cet épisode : le 28 octobre 2025, une convocation de conseil municipal existait officiellement, mais le canal effectivement suivi par les citoyens (une publication Facebook) omettait le lieu, rendant l'information juridiquement publiée mais pratiquement inaccessible.
 
-La formule retenue par le document source — **information publiée ≠ information accessible** — est une instance supplémentaire, non cherchée, de l'écart capacitaire déjà défini dans « Quand les possibles se ferment », et vient allonger la liste des cas territoriaux disponibles pour de futurs tests d'invariance.
+La formule retenue par le document source — **information publiée n'est pas nécessairement information accessible** — est une instance supplémentaire, non cherchée, de l'écart capacitaire déjà défini dans « Quand les possibles se ferment », et vient allonger la liste des cas territoriaux disponibles pour de futurs tests d'invariance.
 
 Une première version de ce carnet prolongeait cette trouvaille par un rapprochement onomastique et littéraire impliquant une personne réelle nommée dans le document source. Ce rapprochement a été retiré lors de la revue du 15 septembre 2026 : aucun encadrement rédactionnel n'aurait suffi à empêcher qu'associer, même pour le nier, une personne vivante à l'imagerie de la noyade volontaire dans un livre consacré à un suicide ne produise un effet qu'aucune précaution stylistique ne rachète. Le principe conservé dans la partie consacrée au changement d'échelle — la littérature peut poser des questions que le dossier factuel n'a pas le droit de prétendre résoudre — protège la fiction et les figures publiques qui l'habitent déjà ; il ne s'étend pas à une personne privée mentionnée dans un document sans rapport, quel que soit le soin mis à disclaimer le rapprochement.
 
@@ -52,9 +52,9 @@ Une seconde trouvaille corrige un manque plus directement utile. Les chapitres c
 
 > Le Bien Vivre est la capacité durable d'un sujet à construire, expérimenter et réviser une vie qu'il a des raisons de juger bonne, avec les autres et dans un monde habitable.
 
-Le document distingue explicitement ce que ces chapitres avaient jusqu'ici laissé implicite : `PIB ≠ richesse ≠ qualité de vie ≠ Bien Vivre`, et surtout une hypothèse testable directement transposable à la chaîne `vivre → transmettre` :
+Le document distingue explicitement ce que ces chapitres avaient jusqu'ici laissé implicite : **PIB, richesse, qualité de vie et Bien Vivre ne sont pas des notions équivalentes**, et surtout une hypothèse testable directement transposable à la chaîne `vivre → transmettre` :
 
-> gain de productivité ≠ gain de Bien Vivre.
+> un gain de productivité n'est pas nécessairement un gain de Bien Vivre.
 
 Cette hypothèse rejoint, sans l'avoir cherché, la mise en garde de « Changer d'échelle : la Corse » contre la confusion entre capacités agrégées et capacités effectivement transmissibles : une société peut devenir statistiquement plus riche sans que ses membres jugent disposer de plus de temps, d'attention ou de futurs désirables à transmettre. La distinction proposée par `bien_vivre.md` entre **travail** (activité commandée par une nécessité extérieure) et **œuvre** (activité où le sujet exerce initiative et appropriation du sens) offre en outre un vocabulaire pour reformuler, sans le déformer, l'usage que le Livre fait déjà des œuvres de Marie-Louise comme régime propre, distinct du dossier causal.
 
