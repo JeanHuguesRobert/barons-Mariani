@@ -2,7 +2,7 @@
 title: "Chronologie"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-23"
+last_modified_at: "2026-09-28"
 status: draft
 language: fr
 license: "CC BY-SA 4.0"
@@ -127,6 +127,16 @@ Chaque repère porte, quand le fonds documentaire le distingue, son statut épis
 **23 septembre 2026 — état borné des autres sondes.** `BOUNDED-NEGATIVE`. Aucune réponse de Damien Ruvet, de la Villa Arson ou de Céline Christmann n'est identifiée lors de la vérification effectuée ce jour. Un silence de quelques jours n'est interprété ni comme refus, ni comme absence d'information.
 
 **23 septembre 2026 — témoignage Jean-Joseph Albertini et trois photographies.** `TESTIMONY / TRACE` d’enquête. Albertini indique avoir reçu Marie-Louise dans un atelier d’arts plastiques en 2016–2017 et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape ». Ce témoignage documente une activité jusque-là absente du Corpus ; sa date exacte et son cadre institutionnel restent à préciser, notamment au regard de l’inscription CPES à Sartène. Les photographies sont reçues comme traces, sans autorisation de publication présumée.
+
+**24–27 septembre 2026 — campagne de témoignages élargie.** `TESTIMONY / TRACE / CONTINUATION`. Damien Ruvet annonce un complément ; Camille Gérard annonce une réponse développée et propose un relais ; Valérie Roy et Thierry Parmentelat annoncent rechercher souvenirs et photographies ; Louis-Marie Charreteur transmet quatre photographies familiales anciennes. Un refus explicite de contact et un témoignage adverse privé sont également enregistrés comme résultats de l'enquête, sans publication brute.
+
+**22–25 septembre 2026 — nouvelles réponses institutionnelles.** `TRACE`. Le tribunal judiciaire de Grasse communique la référence parquet 25252000129 et le Bureau d'ordre compétent ; le service du délégué à la protection des données du ministère de l'Intérieur indique que les données électorales faisant l'objet d'une demande de rectification ont été retirées de la surface publiée. Ces réponses réduisent certaines inconnues sans clore les questions d'accès ou de conservation.
+
+**26 septembre 2026 — saisine initiale du Défenseur des droits.** `TRACE / ACT`. Une saisine est envoyée sous l'angle de l'effectivité des droits et de la continuité administrative. À la date de cette chronologie, son traitement reste ouvert.
+
+**27 septembre 2026 — scrutin sénatorial de Haute-Corse et annonce publique de Capable.** `FACT / TRACE`. Le scrutin a lieu sans la candidature de Jean Hugues Noël Robert ; le Corpus conserve séparément les résultats observés et les inconnues relatives aux bulletins non exprimés. Le même jour, le mouvement Capable est annoncé publiquement et devient un nouvel objet de Reality Test ; cette annonce n'est pas projetée rétrospectivement sur Marie-Louise ou les candidatures antérieures.
+
+**28 septembre 2026 — nouveaux Acts documentaires.** `TRACE / ACT`. Une demande de consultation du procès-verbal général et des bulletins déclarés nuls est envoyée à la préfecture. Une demande distincte est adressée à la Sous-Préfecture de Corte pour vérifier le canal matériel de remise d'une éventuelle requête au Conseil constitutionnel. Le projet de requête existant reste, à cette date, un document de travail et non un dépôt établi.
 
 ## Ce que cette chronologie ne fait pas
 
