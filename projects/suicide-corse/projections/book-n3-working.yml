@@ -12,6 +12,7 @@ source_manifest: ../corpus.yml
 related_issue: 84
 editorial_architecture: ./n3-editorial-architecture.md
 reader_audit: ../audits/2026-09-28-reader-audit-n3.md
+final_content_sweep: ../audits/2026-09-28-final-content-sweep-n3.md
 
 edition:
   number: 3
@@ -25,6 +26,9 @@ edition:
 
 construction:
   state: active
+  final_content_sweep_applied: true
+  final_content_sweep_date: "2026-09-28"
+  final_content_sweep_note: "Late post-n2 delta and rendered-annex freshness reconciled; a fresh verification render is still required before freeze."
   human_decision: "Le numéro 2 est totalement bouclé ; le numéro 3 est désormais en construction."
   decided_by: "Jean Hugues Noël Robert"
   decided_at: "2026-09-23T21:47+02:00"
