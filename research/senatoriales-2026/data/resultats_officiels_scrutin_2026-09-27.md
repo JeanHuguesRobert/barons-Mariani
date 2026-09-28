@@ -73,15 +73,15 @@ Pour être élu au premier tour, un candidat doit recueillir :
 
 La comparaison entre les votes réels agrégés et le modèle d'exposition préalable (`analyse_exposition_collegial_senatoriales_2026.md`) met en lumière deux phénomènes électoraux remarquables :
 
-### 3.1. Le coefficient de sur-pénétration de Nicolas Battini (17,6x)
-* **Base militante formelle documentée** : Le mouvement Mossa Palatina disposait de **5 grands électeurs certains** sur l'ensemble de la Haute-Corse (4 délégués à Bastia : N. Battini, M. Bruschini, V. Idda, P. Serra ; et 1 déléguée à Biguglia : A. Mori).
+### 3.1. Écart entre base documentée et suffrages recueillis par Nicolas Battini
+* **Base militante formelle documentée dans l'enquête préalable** : 5 grands électeurs identifiés comme appartenant au mouvement dans le modèle d'exposition.
 * **Suffrages recueillis dans l'urne** : **88 voix**.
-* **Analyse de diffusion** : Le score final représente un coefficient multiplicateur de **17,6 fois sa base militante déclarée** (+83 voix extérieures). Ces 83 voix proviennent nécessairement de délégués municipaux de communes rurales de l'intérieur, d'élus sans étiquette ou de la droite républicaine départementale réfractaires à la majorité nationaliste territoriale.
+* **Limite d'inférence** : l'écart montre que le vote Battini dépasse largement cette base documentée. Les résultats agrégés ne permettent toutefois pas d'identifier l'origine individuelle des 83 suffrages supplémentaires ni de les attribuer à des catégories de communes ou de sensibilités sans données supplémentaires.
 
-### 3.2. Le poids massif des votes blancs et nuls (76 voix — 12,54 %)
-* **Ampleur de la contestation passive** : Avec **36 bulletins blancs** et **40 bulletins nuls**, le volume des non-exprimés atteint **76 suffrages**, soit près d'un grand électeur sur huit (12,54 % des votants).
-* **Rapport de force** : Ce volume de 76 non-exprimés avoisine à lui seul le score total du second candidat (88 voix pour Battini).
-* **Consignes d'origine** : L'enquête nominative avait recensé 12 consignes de vote blanc explicites issues de l'opposition municipale bastiaise (groupe *Un Futur pour Bastia* / J. Zuccarelli). La réalité du scrutin (36 blancs + 40 nuls) montre que plus de 60 grands électeurs supplémentaires ont délibérément refusé de choisir entre le sénateur sortant Parigi et le candidat de Mossa Palatina.
+### 3.2. Bulletins blancs et nuls (76 voix — 12,54 %)
+* **Fait observé** : **36 bulletins blancs** et **40 bulletins nuls**, soit **76 suffrages non exprimés** (12,54 % des votants).
+* **Comparaison descriptive** : ce volume est proche du score du second candidat (88 voix).
+* **Limite d'inférence** : les résultats agrégés n'établissent ni la motivation de ces votes, ni leur homogénéité, ni la manière dont ils se seraient répartis si l'offre de candidatures avait été différente. Les consignes de vote blanc documentées avant le scrutin constituent une source distincte ; elles ne permettent pas d'attribuer les autres blancs ou nuls.
 
 ---
 
@@ -89,15 +89,15 @@ La comparaison entre les votes réels agrégés et le modèle d'exposition préa
 
 L'observation consolidée de ces résultats nourrit directement la requête en contestation devant le Conseil constitutionnel :
 
-1. **La matérialité de la perte de chance et la dynamique de ballottage** :
-   - M. Parigi est élu avec 442 voix, pour un seuil d'élection de 266 voix (marge de 176 voix).
-   - L'ensemble des suffrages non portés sur M. Parigi (88 voix Battini + 76 blancs et nuls + 10 abstentions) représente **174 grands électeurs**, soit un réservoir d'opposition et d'insatisfaction quasi équivalent à la marge de majorité.
-   - La présence d'une troisième offre républicaine indépendante et non-alignée, portée par Jean Hugues Noël Robert sur le thème de l'Autonomie de Capacité et du débat sénatorial d'octobre 2026, aurait structurellement fragmenté le vote, offrant un débouché démocratique aux 76 votes blancs/nuls et à une part substantielle des voix rurales, rendant plausible la mise en ballottage pour un second tour.
+1. **Résultats observés et contrefactuel à borner** :
+   - M. Parigi est proclamé élu avec 442 voix ; M. Battini recueille 88 voix ; 76 bulletins sont blancs ou nuls et 10 électeurs se sont abstenus.
+   - Ces nombres décrivent le scrutin effectivement tenu. Ils ne permettent pas, à eux seuls, de calculer le score qu'aurait obtenu une candidature supplémentaire ni de conclure qu'un second tour aurait eu lieu.
+   - Toute analyse de perte de chance doit donc rester contrefactuelle et graduée : elle peut étudier l'existence d'une offre empêchée et les conditions d'accès au scrutin, mais ne doit pas transformer les blancs, nuls ou abstentions en voix attribuables.
 
-2. **L'enjeu probatoire décisif de la consultation du PV (RP-SEN-08)** :
-   - L'existence de **40 bulletins nuls** constitue une anomalie remarquable dans un collège électoral composé exclusivement d'élus aguerris (maires, conseillers municipaux, conseillers territoriaux, parlementaires) rompant avec les erreurs matérielles ordinaires des électeurs profanes.
-   - Il est hautement probable qu'une partie de ces 40 bulletins nuls contienne des **bulletins manuscrits ou des bulletins imprimés au nom de M. Robert / Baron Mariani**, déposés par des électeurs contestant l'éviction de sa candidature.
-   - Ce fait justifie avec éclat la démarche immédiate de consultation des pièces annexées au procès-verbal en préfecture (art. 32 de l'ordonnance n° 58-1067).
+2. **Intérêt probatoire de la consultation du procès-verbal et des bulletins nuls (RP-SEN-08)** :
+   - Les **40 bulletins nuls** constituent un objet documentaire à examiner pour connaître leurs motifs de nullité et les éventuelles mentions portées.
+   - Leur contenu est actuellement **UNKNOWN**. Aucune hypothèse sur des bulletins au nom d'un candidat écarté ne doit être présentée comme probable avant consultation.
+   - La demande de communication vise précisément à remplacer cette inconnue par des pièces observables et à distinguer les différentes causes de nullité.
 
 ---
 
