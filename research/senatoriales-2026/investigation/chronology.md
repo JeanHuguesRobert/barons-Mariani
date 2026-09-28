@@ -81,6 +81,8 @@ Elle est volontairement factuelle et évolutive.
 | 25/09 | remise effective et retrait du recommandé contenant l'expédition du jugement | established | remise matérialisée par les documents postaux ; jugement intégralement lu le même jour |
 | 25/09 16:50:46 | relance au greffe après lecture de l'expédition du jugement | established | envoyée dans le fil existant, avec Laurence Ceccaldi et Maguy en copie ; six résidus matériels demandés ; référence mesurée à l'article L.303 du code électoral pour expliquer l'intérêt de la clarification |
 | 25/09 16:59:13 | demande formelle à la préfecture de documents, données et conservation des traces | established | vise les traces du courriel de 17:57:55, les demandes d'originaux mentionnées au point 5 du jugement, les inventaires de transmission au TA et les transmissions ultérieures ; distingue CRPA et article 15 RGPD ; mentionne CADA/CNIL comme voies éventuelles en cas de difficulté persistante |
+| 25/09 16:59:31–16:59:36 | deux accusés automatiques de réception de la préfecture / bureau des élections | established | confirment la réception électronique de la saisine ; ne préjugent ni de la complétude, ni de la recevabilité, ni du fond de la réponse |
+| 25/09 17:28:07 | réponse du DPO du ministère de l’Intérieur à la demande antérieure de rectification des données publiées | established as institutional response | indique qu'après annulation de la candidature les données concernées ne figurent plus sur le site du ministère et que la rectification demandée ne peut donc plus être effectuée sur cette publication ; ce résultat documente la disparition de l'objet publié à corriger, sans résoudre les questions de conservation ou de traçabilité historique |
 
 ## Discipline de lecture
 
