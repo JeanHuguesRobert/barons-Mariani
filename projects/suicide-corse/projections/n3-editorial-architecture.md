@@ -381,8 +381,8 @@ Comptages approximatifs des fichiers de manuscrit avant recomposition, hors fron
 
 | Fichier | Mots approx. | Destination n°3 |
 |---|---:|---|
-| 00-ouverture | 1 395 | Livre, resserrer |
-| 01-marie-louise | 184 | Livre, développer fortement |
+| 00-ouverture | 891 | Livre, resserré le 28/09 |
+| 01-marie-louise | 1 825 | Livre, développé le 28/09 |
 | 15-la-parole-de-marie-louise | 1 719 | Livre |
 | 02-fermeture-des-possibles | 873 | Livre |
 | 03-machine-a-empecher | 965 | Livre |
@@ -407,7 +407,7 @@ Comptages approximatifs des fichiers de manuscrit avant recomposition, hors fron
 | 17-appel-a-temoignages | 1 305 | Annexe / page dédiée |
 | 19-ours | 273 | Appareil éditorial |
 
-Le problème n'est donc pas le manque de matière, mais sa hiérarchie.
+Le problème principal n'est pas le manque de matière, mais sa hiérarchie. La première passe du 28 septembre a déjà corrigé le déséquilibre le plus visible : l'ouverture passe d'environ 1 395 à 891 mots et le chapitre consacré directement à Marie-Louise de 184 à environ 1 825 mots.
 
 # V. Règles de recomposition
 
@@ -426,8 +426,8 @@ Le problème n'est donc pas le manque de matière, mais sa hiérarchie.
 
 Ordre recommandé :
 
-1. réécrire / développer **L2 — Marie-Louise : une vie en mouvement** ;
-2. resserrer **L1 — Ouverture** ;
+1. ~~réécrire / développer **L2 — Marie-Louise : une vie en mouvement**~~ — première passe effectuée le 28 septembre ;
+2. ~~resserrer **L1 — Ouverture**~~ — première passe effectuée le 28 septembre ;
 3. fusionner **L6 — De l'empêchement à la capacité** ;
 4. fusionner / resserrer **L7 — Changer d'échelle : la Corse** ;
 5. transformer `18-le-reel-repond` en six rubriques Magazine ;
