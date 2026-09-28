@@ -36,7 +36,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Ce chapitre reproduit, dans son intégralité et sans coupe, la première œuvre connue de Marie-Louise : une histoire qu'elle a imaginée à huit ans et envoyée à son père comme cadeau de Noël anticipé. Le texte et le mail original ont été explicitement autorisés à la publication par Jean Hugues Noël Robert le 8 septembre 2026, pour intégration au présent livre (`memory/marie-louise/works/le_dieu_de_leau_2008.md`).
 
-Ce chapitre applique la même discipline que le reste du Corpus (voir chapitre 2, et l'entrée « règle causale » de `memory/marie-louise/carte.md`, §1.4) : une œuvre d'enfance n'est ni une autobiographie codée, ni un diagnostic, ni une annonce. Publier ce texte dans son intégralité, seize ans avant les faits du 17 septembre 2024, sert d'abord à montrer une enfant qui écrit, qui imagine un monde, qui adresse ce monde à son père — avant toute lecture rétrospective, et indépendamment d'elle.
+Ce chapitre applique la même discipline que le reste du Corpus (voir « Quand les possibles se ferment » et l'entrée « règle causale » de `memory/marie-louise/carte.md`, §1.4) : une œuvre d'enfance n'est ni une autobiographie codée, ni un diagnostic, ni une annonce. Publier ce texte dans son intégralité, seize ans avant les faits du 17 septembre 2024, sert d'abord à montrer une enfant qui écrit, qui imagine un monde, qui adresse ce monde à son père — avant toute lecture rétrospective, et indépendamment d'elle.
 
 ## Le mail
 
