@@ -81,9 +81,7 @@ sa plausibilité peut parfois être fortement contrainte par les faits
 
 La rigueur n'impose donc pas un agnosticisme uniforme. Elle impose une **gradation** : plus la bifurcation est proche, explicitement recherchée et matériellement praticable, plus le contrefactuel peut être informatif ; plus on ajoute de maillons, plus l'incertitude augmente.
 
-Le cas Villa Arson fournit ici un Reality Case concret : candidature explicite de Marie-Louise à une réintégration en quatrième année, rejet rapporté, et affirmation de son père selon laquelle elle aurait effectivement repris la formation si elle avait été admise. Ce premier maillon est fortement contraint. L'hypothèse plus lointaine selon laquelle cette branche aurait substantiellement augmenté ses chances de survie doit être étudiée comme hypothèse forte, sans être ni certifiée ni réduite à une ignorance indifférenciée.
-
-Cette discipline est particulièrement nécessaire lorsque l'enquête touche à Marie-Louise. La reconstruction des capacités ouvertes, fragilisées, fermées ou rouvertes ne doit pas être transformée rétrospectivement en récit déterministe ; elle ne doit pas davantage être vidée de sa valeur explicative par prudence excessive.
+Le chapitre précédent applique déjà cette règle au cas Villa Arson. Il n'est pas nécessaire de refaire ici la démonstration. La Machine à Empêcher doit rester au niveau du mécanisme : reconstruire quelles capacités ont été réduites, par quoi, et avec quel degré de preuve, sans transformer l'ensemble en récit déterministe.
 
 ## De la Machine à Explorer à la Machine à Rendre Capable
 
