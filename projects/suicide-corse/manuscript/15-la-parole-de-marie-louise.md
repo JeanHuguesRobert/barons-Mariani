@@ -40,7 +40,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 # La parole de Marie-Louise
 
-Le chapitre 14 a transmis une œuvre entière. Celui-ci transmet des fragments — plus courts, plus bruts, souvent écrits dans l'urgence d'un échange, mais tout aussi directement attribuables à Marie-Louise elle-même.
+Le chapitre précédent a montré Marie-Louise à travers ses actes, ses œuvres et les traces laissées autour d'elle. Celui-ci réduit encore l'intermédiation : il transmet des fragments directement attribuables à Marie-Louise elle-même.
 
 ## Pourquoi transmettre sa parole, dans ses propres termes
 
@@ -50,9 +50,9 @@ Cette crainte n'est pas seulement un fait biographique parmi d'autres. Elle cons
 
 ## Autonomie et capacité effective, dans ses propres mots
 
-Le chapitre 2 de cette édition pose une distinction centrale : la liberté formelle n'est pas la liberté effective, et une possibilité non convertible en capacité n'est encore qu'une promesse. Le Corpus disposait déjà de cette distinction en langage doctrinal. Il dispose maintenant de son expression directe par Marie-Louise elle-même.
+Le livre pose une distinction centrale : la liberté formelle n'est pas la liberté effective, et une possibilité non convertible en capacité n'est encore qu'une promesse. Le Corpus disposait déjà de cette distinction en langage doctrinal. Il dispose maintenant de son expression directe par Marie-Louise elle-même.
 
-Le 5 décembre 2017 — précisément la période où la matrice longitudinale documente la friction administrative de Nantes (chapitres 7 et 9 de cette édition) — Marie-Louise écrit à son père, en réponse à une lettre qui lui assure qu'il agit « pour [la] rendre autonome » :
+Le 5 décembre 2017 — précisément la période où la matrice longitudinale documente la friction administrative de Nantes — Marie-Louise écrit à son père, en réponse à une lettre qui lui assure qu'il agit « pour [la] rendre autonome » :
 
 > **« Tu souhaites mon autonomie en empêchant mon développement ? »**
 
@@ -72,7 +72,7 @@ Ce chapitre ne transforme pas cet échange en accusation contre quiconque : la r
 
 L'enquête ne doit pas réduire Marie-Louise à ses difficultés documentées. Le Corpus établit aussi, sobrement, une vie étudiante et créative ordinaire : à Nantes, elle a vécu en colocation avec des camarades des Beaux-Arts, dans un logement dont le bail se transmet d'une étudiante à l'autre entre 2017 et 2019 — une chaîne d'entraide étudiante banale, mais réelle, que ce chapitre ne détaille pas nommément pour préserver la vie privée des personnes concernées, aujourd'hui adultes et non parties à ce livre.
 
-En avril 2021, une attestation professionnelle l'engage pour une résidence artistique et un tournage auprès de l'artiste Hugues Absil, à Saint-Laurent-le-Minier. Le titre du projet et ses productions restent à retrouver (chapitre 16).
+En avril 2021, une attestation professionnelle l'engage pour une résidence artistique et un tournage auprès de l'artiste Hugues Absil, à Saint-Laurent-le-Minier. Le titre du projet et ses productions restent à retrouver ; cette recherche figure dans les Continuations.
 
 Le 18 avril 2019, jour de ses vingt et un ans, elle envoie à son père le lien d'une création vidéo avec ce commentaire :
 
@@ -94,19 +94,21 @@ Le 16 juin 2024, jour de la fête des pères, Marie-Louise écrit à son père :
 
 > **« Bonjour papa, je te souhaite une bonne fête ! Aussi, je souhaite que tu sois mon directeur de campagne et mon porte-parole pour les prochaines élections législatives. Je t'embrasse. »**
 
-Cette phrase établit, dans ses propres mots et à trois mois de sa mort, une capacité politique pleinement exercée et une coopération choisie avec son père — un contrôle documentaire déjà mobilisé au chapitre 8 contre toute reconstruction d'une fermeture relationnelle ou politique linéaire et continue.
+Cette phrase établit, dans ses propres mots et à trois mois de sa mort, une capacité politique pleinement exercée et une coopération choisie avec son père — un contrôle documentaire contre toute reconstruction d'une fermeture relationnelle ou politique linéaire et continue.
 
-## Un empêchement électoral vécu, et son écho en 2026
+## Un empêchement électoral vécu
 
-Le Corpus établit, par ailleurs, que Marie-Louise a vu sa candidature comme remplaçante sénatoriale refusée en septembre 2020 pour une seule raison : elle n'avait pas vingt-quatre ans, alors qu'elle en avait vingt-deux (`memory/marie-louise/elections/2020-senatoriales.md`). Ce chapitre ne rouvre pas ici le dossier juridique de cette condition d'âge ; il note seulement qu'elle a vécu, à vingt-deux ans, un empêchement électoral fondé sur un seuil dont ce livre ne prétend pas juger le bien-fondé, mais dont il peut relever le caractère arbitraire d'un strict point de vue capacitaire : rien, dans les traces disponibles sur elle, n'indique qu'elle ait manqué à vingt-deux ans d'une capacité que la loi présume acquise à vingt-quatre.
+Le Corpus établit que la candidature de Marie-Louise comme remplaçante sénatoriale a été refusée en septembre 2020 parce qu'elle n'avait pas l'âge légal requis (`memory/marie-louise/elections/2020-senatoriales.md`).
 
-Au moment de la publication de cette édition, en pleine campagne sénatoriale de 2026, Jean Hugues Noël Robert affirme se trouver empêché à son tour, selon des modalités propres à sa candidature actuelle et distinctes de celles opposées à sa fille en 2020. Ce chapitre enregistre ce rapprochement tel qu'il est formulé par l'auteur — `ASSERTION-JHR`, datée du 17 septembre 2026 — sans le documenter davantage ici : l'établir précisément relève d'un autre chantier que celui de cette édition, qui se limite à noter la récurrence, à six ans d'écart, d'un empêchement d'accès à la même fonction élective dans la même famille.
+Ce chapitre n'a pas besoin d'en tirer une conclusion sur le bien-fondé de cette règle. Le fait utile est plus simple : une capacité politique qu'elle cherchait à exercer s'est trouvée localement fermée par une condition légale précise, puis une autre capacité électorale s'est rouverte en 2022 lorsqu'elle est devenue candidate titulaire.
+
+Le dossier sénatorial de 2026, qui concerne l'auteur et non Marie-Louise, est désormais traité séparément dans le Magazine comme Reality Case contemporain.
 
 ## Une relation documentée comme ambivalente, non enjolivée
 
 Les citations réunies dans ce chapitre — sur l'autonomie, sur sa grand-mère, sur la campagne de 2024 — appartiennent toutes à un registre coopératif. Ce choix n'a pas pour but de suggérer que la relation de Marie-Louise avec son père aurait été uniformément apaisée. Le Corpus conserve aussi, pour la même période, des échanges d'un tout autre registre — accusateurs, parfois hostiles — ainsi qu'au moins une divulgation directe de détresse psychologique sérieuse.
 
-Ces sources ne sont pas publiées dans cette édition. Elles sont enregistrées dans le Twin privé, avec la mention explicite qu'il ne s'agit pas d'un choix de dissimulation, mais d'un ajournement éditorial assumé : leur publication exige un encadrement — juridique, factuel et humain — que le délai de cette édition anniversaire ne permet pas de construire avec le soin nécessaire. L'auteur a prévu des éditions hebdomadaires (chaque lundi) faisant suite à ce numéro spécial du 17 septembre ; c'est dans ce cadre que ce registre plus difficile sera traité, avec le temps qu'il requiert.
+Ces sources ne sont pas publiées dans cette édition. Elles sont enregistrées dans le Twin privé, avec la mention explicite qu'il ne s'agit pas d'un choix de dissimulation, mais d'un ajournement éditorial assumé : leur publication exige un encadrement — juridique, factuel et humain — que le délai de cette édition anniversaire ne permet pas de construire avec le soin nécessaire. Ce registre plus difficile relève d'un traitement éditorial séparé, avec le temps et les précautions qu'il exige.
 
 > **Il ne s'agit pas de cacher des choses. La relation entre Marie-Louise et son père a été ambivalente — parfois coopérative, parfois hostile — et cela devra être éclairci, pas enjolivé.**
 
