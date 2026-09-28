@@ -2,7 +2,7 @@
 title: "Marie-Louise — matrice de couverture périodes × témoins"
 author: Jean Hugues Noël Robert
 date: 2026-09-21
-last_modified_at: 2026-09-24
+last_modified_at: 2026-09-28
 status: working-paper
 document_role: research-matrix
 document_kind: witness-coverage-matrix
@@ -147,3 +147,15 @@ Toute nouvelle contribution doit pouvoir :
 5. contredire ou nuancer une trace existante sans l'effacer.
 
 Cette matrice est une projection de couverture, jamais une source primaire.
+
+
+### Delta de couverture — 28 septembre 2026
+
+- **Nantes / Beaux-Arts** : couverture renforcée par deux rappels libres déjà substantiels ; Camille Gérard a en outre annoncé une réponse développée et proposé un relais vers d'autres anciennes amies.
+- **Villa Arson / graphisme** : Damien Ruvet a répondu et annoncé un complément ; ne plus le classer « sans réponse ».
+- **Enfance / Minesteggio** : Valérie Roy et Thierry Parmentelat ont annoncé une recherche de souvenirs et photographies ; Louis-Marie Charreteur a transmis quatre photographies familiales anciennes.
+- **2016–2017 / Corte** : Jean-Joseph Albertini fournit désormais un témoignage direct et trois photographies ; date exacte, cadre institutionnel et droits de publication restent ouverts.
+- **Couverture contradictoire** : une objection privée substantielle existe et doit rester visible dans le registre contradictoire comme `TESTIMONY / OPINION_ADVERSE`, sans promotion en fait ni publication brute.
+- **Contraintes de sollicitation** : au moins un `DO_NOT_CONTACT` explicite est désormais à respecter.
+
+Ce delta améliore la couverture biographique mais ne ferme pas automatiquement les Knowledge Gaps de causalité, d'intention ou de chronologie fine.
