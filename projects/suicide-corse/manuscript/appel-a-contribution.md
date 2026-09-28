@@ -92,8 +92,8 @@ Contribution confidentielle, personnelle ou sensible
 
 ### Canal 1 — Public et traçable sur GitHub
 Si vous souhaitez apporter une analyse juridique, pointer un précédent d'arrêt, suggérer une correction méthodologique, proposer du code ou une analyse statistique :
-* Rendez-vous sur le dépôt public : [`https://github.com/JeanHuguesRobert/barons-Mariani/issues`](https://github.com/JeanHuguesRobert/barons-Mariani/issues).
-* Vous pouvez ouvrir une Issue ou commenter une Issue existante (notamment sur le chantier de la requête au Conseil constitutionnel).
+* Vous pouvez ouvrir une nouvelle Issue ou intervenir sur les chantiers ouverts, en particulier sur l'**[Issue #88 : Revue collégiale de la requête au Conseil constitutionnel (RP-SEN-09)](https://github.com/JeanHuguesRobert/barons-Mariani/issues/88)**.
+* L'ensemble des chantiers ouverts est accessible sur : [`https://github.com/JeanHuguesRobert/barons-Mariani/issues`](https://github.com/JeanHuguesRobert/barons-Mariani/issues).
 * **Avertissement** : Tout ce qui est publié sur GitHub est immédiatement public et indexé. Ne déposez aucune donnée personnelle sensible ou médicale sur GitHub.
 
 ### Canal 2 — Universel et discret par courriel
