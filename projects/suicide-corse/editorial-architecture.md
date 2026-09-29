@@ -537,6 +537,140 @@ Une formulation utile pour l'architecture éditoriale est :
 > **Chaque Act publié peut laisser une trace qui modifie les capacités, les connaissances ou les routes disponibles pour les participants suivants.**
 
 
+
+# 9 quater. Guide conversationnel : surface d'interrogation du Corpus
+
+Une édition peut être **lue**. Le Corpus vivant peut en plus être **interrogé**.
+
+Le Guide conversationnel *Suicide Corse* constitue une projection dynamique du Corpus, distincte des éditions figées et distincte du Corpus source lui-même.
+
+```text
+Corpus vivant
+   │
+   ├── projection éditoriale
+   │    → freeze
+   │    → édition immuable
+   │
+   └── projection conversationnelle
+        → Guide
+        → réponse contextualisée
+        → contradiction / exploration / explication
+        → préparation éventuelle d'un Act
+```
+
+Formule :
+
+> **Le papier donne un état du savoir ; le Guide donne accès au mouvement du savoir.**
+
+Autre formulation :
+
+> **Une édition peut être lue ; le Corpus peut être interrogé.**
+
+Le Guide ne devient jamais une autorité souveraine. Il doit rester une **surface dérivée** du Corpus :
+
+```text
+Guide ≠ Corpus
+réponse du Guide ≠ source
+conversation ≠ contribution
+conversation ≠ témoignage
+préparation d'un Act ≠ Act exécuté
+```
+
+Le Guide peut notamment :
+
+- expliquer une assertion ou un concept ;
+- montrer les sources et les statuts épistémiques pertinents ;
+- présenter les objections fortes ;
+- explorer des hypothèses ;
+- comparer des interprétations ;
+- reconstruire une chronologie ;
+- relier une question à une édition donnée ;
+- répondre à « qu'est-ce qui a changé depuis mon édition ? » ;
+- préparer, sans l'exécuter, un acte du lecteur tel qu'un signalement de correction ou un témoignage.
+
+Il doit conserver les frontières établies dans
+[`projections/conversational-agent.yml`](projections/conversational-agent.yml)
+et dans l'Issue #50.
+
+## 9 quater.1. Relation aux éditions
+
+Le Guide permet de reconnecter une édition gelée au Corpus vivant sans modifier l'édition :
+
+```text
+édition N
+→ identifiant / freeze
+→ Guide
+→ état courant du Corpus
+→ delta intelligible
+→ explication / approfondissement / contradiction
+```
+
+Ainsi, une édition ancienne peut rester matériellement et historiquement intacte tout en demeurant intellectuellement connectée au présent.
+
+Le futur mécanisme de delta sémantique entre une édition et l'état courant du Corpus doit donc être directement exploitable par le Guide.
+
+## 9 quater.2. Conversation comme projection conditionnelle
+
+Contrairement à une édition, une conversation ne constitue pas une projection unique figée.
+
+Elle est une séquence conditionnée par les questions et choix du lecteur :
+
+```text
+Corpus
+→ question
+→ sélection de traces / assertions
+→ réponse
+→ nouvelle question / objection
+→ nouvelle projection conversationnelle
+```
+
+Cette dynamique ne supprime pas les exigences de provenance.
+
+Le Guide doit rendre visibles, lorsque pertinent :
+
+- le Corpus ou l'édition de référence ;
+- les assertions mobilisées ;
+- leur statut ;
+- les sources ;
+- les UNKNOWN ;
+- les contradictions significatives ;
+- la frontière éventuelle avec le Twin documentaire de Marie-Louise.
+
+## 9 quater.3. Fonction contradictoire
+
+Le Guide ne doit pas être conçu comme un agent promotionnel ou catéchétique.
+
+Il doit pouvoir répondre aussi bien :
+
+> « Pourquoi cette thèse est-elle soutenue ? »
+
+que :
+
+> « Quelles sont les meilleures raisons de penser qu'elle est fausse ? »
+
+Le travail de Contradictor / Reviewer devient ainsi une **fonction publique de l'objet éditorial**.
+
+## 9 quater.4. Boucle réactive
+
+Le Guide peut aussi participer à la publication réactive :
+
+```text
+lecteur
+→ conversation
+→ compréhension / objection / découverte
+→ Act éventuellement préparé
+→ HUMAN ACT BOUNDARY
+→ action extérieure
+→ trace
+→ qualification
+→ Corpus
+```
+
+La conversation seule ne modifie pas le Corpus.
+
+Le retour au Corpus exige toujours une trace qualifiable issue d'un acte, d'une contribution, d'une source ou d'une autre observation gouvernée.
+
+
 # 10. Publication réactive
 
 Une publication est dite **réactive** lorsque ses propres Acts peuvent produire des réponses du Réel qui reviennent ensuite modifier le Corpus.
