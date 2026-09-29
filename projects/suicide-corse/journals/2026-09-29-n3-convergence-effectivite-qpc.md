@@ -172,6 +172,38 @@ Le numéro 3 doit montrer qu'un même problème d'effectivité réapparaît à p
 - proposition constitutionnelle ;
 - expérimentation future.
 
+## Jalon métacognitif — Révélateur / Stabilisateur
+
+Le pattern canonique Cogentia a été enrichi le 29 septembre 2026 :
+
+- `JeanHuguesRobert/cogentia/patterns/revealer-stabilizer/PATTERN.md`
+- commit : `06fbbb997b717d96d042955377bea494e304aab0`
+
+Le gain métacognitif stabilisé est volontairement générique :
+
+> **Le révélateur rend visible un écart d’effectivité ; le stabilisateur réduit cet écart sans supprimer la capacité de le mesurer à nouveau.**
+
+Et le test compact associé est :
+
+> **Un bon stabilisateur internalise son révélateur.**
+
+Conséquence pour le présent chantier : les travaux QPC, l’amendement d’effectivité et le bouclage de *Suicide Corse n°3* peuvent être coordonnés comme **instanciations** de ce pattern, sans faire remonter leurs détails politiques ou juridiques particuliers dans le pattern générique.
+
+Cette séparation des niveaux évite la dispersion :
+
+```text
+Cogentia
+→ pattern métacognitif générique
+
+barons-Mariani
+→ instanciation autonomie / effectivité / QPC
+
+Suicide Corse n°3
+→ projection éditoriale bornée du cas sénatorial
+```
+
+Le n°3 doit donc exploiter cette convergence seulement si elle améliore la lisibilité du cas concret, sans transformer le numéro en exposé de métacognition.
+
 ## Prochaine action résumable
 
 À partir de ce jalon et de l'issue #91 :
