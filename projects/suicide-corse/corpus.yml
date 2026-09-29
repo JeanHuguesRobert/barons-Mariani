@@ -261,6 +261,18 @@ sources:
     required: false
     note: "Sent inquiry testing whether the Corte subprefecture can receive a constitutional-election petition for transmission; does not presume competence."
 
+  - id: senatoriales-2026-qpc-a
+    path: research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md
+    role: qpc-procedural-qualification
+    required: false
+    note: "Separates the article 59 electoral petition from any future article 61-1 QPC; requires an exact legislative provision and an admissible instance before crystallization."
+
+  - id: senatoriales-2026-convergence-scrutin-requete-amendement-qpc
+    path: research/senatoriales-2026/investigation/convergence_scrutin_requete_amendement_qpc_2026-09-29.md
+    role: cross-track-convergence-checkpoint
+    required: false
+    note: "Keeps scrutiny analysis, electoral petition, pre/post-election amendment versions and QPC research aligned without merging their procedures."
+
   - id: senatoriales-2026-constitutional-petition-v0-2
     path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md
     role: legal-draft
