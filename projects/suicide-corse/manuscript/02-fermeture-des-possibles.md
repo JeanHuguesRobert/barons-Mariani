@@ -2,7 +2,7 @@
 title: Quand les possibles se ferment
 author: Jean Hugues Noël Robert
 date: '2026-09-09'
-last_modified_at: '2026-09-21'
+last_modified_at: '2026-09-29'
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -113,3 +113,5 @@ Pour la Corse, la question change d'échelle sans attribuer au territoire une ps
 Une moyenne territoriale ne suffira pas. Une liberté effective très élevée pour quelques-uns peut coexister avec une forte contraction de l'espace d'action d'autres groupes. Médianes, quantiles, minima, dispersion et inégalités d'accès devront donc compléter les indicateurs agrégés.
 
 Le passage de Marie-Louise à la Corse ne repose ainsi ni sur une analogie psychologique ni sur une causalité commune déjà démontrée. Le point commun est plus limité et testable : **l'étude de l'ouverture et de la fermeture des capacités effectives d'agir**.
+
+Ce chapitre a décrit l'écart. Le suivant pose une autre question : **que se passe-t-il lorsque plusieurs mécanismes distincts concourent durablement à produire cet écart ?** C'est à ce niveau qu'apparaît la Machine à Empêcher.
