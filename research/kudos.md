@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 last_stamped_at: 2026-06-01T00:00:00.000Z
 title: 'Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles'
 date: '2026-05-20'
+last_modified_at: '2026-09-29'
 status: working-paper — auto-filled (frontmatter cleanup)
 document_role: source
 document_kind: research-paper
@@ -908,6 +909,162 @@ v0.3 corrige v0.2 sur plusieurs points :
 ```
 
 ---
+
+
+## 19 bis. Use case canonique : *Suicide Corse*, exemplaires suspendus et matérialisation solidaire
+
+Le projet éditorial *Suicide Corse* fournit un cas d'usage particulièrement lisible pour Kudos.
+
+Le contenu de *Suicide Corse* reste disponible gratuitement sous forme numérique. Le financement en euros concerne donc principalement la **matérialisation physique** : impression, façonnage, distribution et éventuellement finition collector.
+
+Le modèle candidat distingue trois registres qui doivent rester séparés :
+
+```text
+REGISTRE ÉCONOMIQUE
+euros
+→ impression / vente / don matériel / distribution
+
+REGISTRE SOLIDAIRE
+exemplaires suspendus
+→ créés / disponibles / remis
+
+REGISTRE KUDOS
+don / contre-don / reconnaissance
+→ émission / circulation / conversion éventuelle selon les règles Kudos
+```
+
+Principe :
+
+> **L'euro matérialise ; le suspendu partage ; le Kudos ouvre et mémorise le contre-don.**
+
+### Même contenu, plusieurs matérialisations
+
+Le modèle éditorial candidat prévoit notamment :
+
+- une édition numérique gratuite ;
+- une édition papier accessible ;
+- une édition papier collector ;
+- des exemplaires papier « suspendus », financés par des dons ou par la marge d'autres matérialisations.
+
+La règle d'équité est structurante :
+
+> **Le collector ne donne pas accès à davantage de vérité ou de contenu. Il donne accès à davantage d'objet.**
+
+L'accès au contenu ne dépend donc pas de la capacité économique du lecteur.
+
+### Logique du « café suspendu »
+
+Le mécanisme s'inspire du `caffè sospeso` :
+
+```text
+une personne finance un exemplaire papier supplémentaire
+→ cet exemplaire devient disponible
+→ une autre personne peut le recevoir sans paiement
+```
+
+Le droit d'accès à l'exemplaire suspendu ne doit pas être transformé par défaut en procédure sociale lourde ou humiliante.
+
+L'expérimentation doit au contraire tester si une capacité simple peut être créée :
+
+```text
+besoin ou désir d'un exemplaire papier
++ stock suspendu disponible
+→ remise possible
+```
+
+Le contre-don éventuel reste libre.
+
+### Articulation avec Kudos
+
+Kudos ne remplace pas le paiement ou le don en euros qui finance l'exemplaire.
+
+Le mouvement candidat est :
+
+```text
+achat / don en euros
+→ financement réel d'une matérialisation ou d'un exemplaire suspendu
+→ acte de don ou de contribution vérifiable
+→ don éventuel de Kudos lié à cet acte
+→ contre-don ultérieur possible
+```
+
+Ainsi :
+
+```text
+1 Kudos ≠ 1 livre
+1 Kudos ≠ 1 euro de prix de vente du livre
+```
+
+La relation porte sur **l'acte documenté**, non sur une conversion commerciale automatique entre Kudos et exemplaire.
+
+Le bénéficiaire d'un Kudos peut ensuite l'utiliser selon les règles générales du système : conserver, redistribuer ou convertir la part autorisée. Le livre n'est pas « acheté en Kudos » lors de la transaction initiale.
+
+### Actes susceptibles de recevoir des Kudos
+
+Le cas *Suicide Corse* montre également que la contribution ne se réduit pas à la dépense monétaire.
+
+Des Kudos peuvent être liés, sous les règles générales de preuve et de volontariat, à des actes tels que :
+
+- financer un exemplaire suspendu ;
+- fournir une source utile ;
+- corriger une erreur ;
+- vérifier une assertion ;
+- retrouver une pièce ;
+- traduire ;
+- illustrer ;
+- contribuer à une mise en forme ;
+- distribuer ou transporter des exemplaires ;
+- héberger un point de remise ;
+- apporter une contradiction utile ;
+- faire émerger une nouvelle question de recherche.
+
+Une personne ayant dépensé zéro euro peut donc avoir apporté davantage à l'enquête qu'un acheteur collector.
+
+Principe anti-capture :
+
+> **Capacité économique ≠ mérite contributif.**
+
+Et réciproquement :
+
+> **Montant donné ≠ autorité éditoriale, politique ou morale.**
+
+### Exemple de flux
+
+```text
+Alice achète un collector en euros
+→ une part de la recette alimente le mécanisme suspendu
+→ l'acte économique est vérifiable
+→ un don en Kudos peut reconnaître cet acte
+
+Bob reçoit un exemplaire suspendu
+→ aucun paiement initial n'est exigé
+→ aucune dette morale automatique n'est créée
+→ Bob peut, s'il le souhaite, produire plus tard un contre-don
+   en Kudos, en contribution, en diffusion ou autrement
+
+Claire lit gratuitement en ligne
+→ détecte une erreur
+→ fournit une source primaire
+→ la correction est intégrée au Corpus
+→ cet acte peut recevoir un Kudos sans aucune dépense monétaire
+```
+
+### Pourquoi ce use case est utile à Kudos
+
+Ce cas permet de tester simultanément :
+
+1. la séparation entre transaction en euros et contre-don en Kudos ;
+2. la reconnaissance d'actes monétaires et non monétaires dans un même système ;
+3. l'absence de score social global ;
+4. la non-confusion entre richesse et contribution ;
+5. la circulation possible du contre-don au-delà du premier bénéficiaire ;
+6. la capacité d'un dispositif public, traçable et volontaire à soutenir un commun éditorial ;
+7. l'articulation entre accès numérique gratuit et rareté matérielle réelle.
+
+Il fournit donc un bon Reality Case pour la doctrine Kudos :
+
+> **Le contenu peut être abondant et gratuit, tandis que la matière reste rare et coûteuse ; Kudos permet alors de documenter et prolonger les actes qui rendent cette matière accessible sans transformer l'accès au savoir en privilège marchand.**
+
 
 ## 20. Conclusion
 
