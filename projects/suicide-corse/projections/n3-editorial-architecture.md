@@ -1,7 +1,7 @@
 ---
 title: "Suicide Corse n°3 — architecture éditoriale grand public"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
+date: "2026-09-29"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -226,9 +226,11 @@ voir le possible
 
 Le nombre exact n'est pas une contrainte absolue ; il sert à détecter les dérives de densité.
 
-# II. MAGAZINE — semaine du 21 au 28 septembre 2026
+# II. MAGAZINE — Spécial sénatoriales — 21 au 29 septembre 2026
 
 Le Magazine ne répète pas le Livre. Il montre le **diff de connaissance** depuis le numéro précédent.
+
+Pour ce numéro, la cadence ordinaire du lundi est décalée d’un jour : le scrutin principal a lieu le dimanche 27 septembre et les réactions du lundi modifient matériellement l’analyse du Reality Case. Le bouclage du mardi est donc une exception éditoriale bornée, non une nouvelle cadence.
 
 ## M1 — Le Réel répond
 
@@ -278,6 +280,8 @@ candidature
 Les heures fines, inventaires de pièces, questions Sagace, arguments techniques et matrices restent en annexe / Corpus.
 
 Règle : les 36 blancs et 40 nuls sont des faits observés ; leur motivation et leur allocation dans un scrutin contrefactuel restent inconnues.
+
+Règle supplémentaire de late close : le Magazine peut exposer la borne **134–177 voix** comme distance minimale au scénario de second tour, mais jamais comme prédiction ni comme attribution de bulletins.
 
 ## M5 — Contrepoints
 
