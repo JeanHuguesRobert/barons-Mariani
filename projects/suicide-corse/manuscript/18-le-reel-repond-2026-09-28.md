@@ -1,8 +1,8 @@
 ---
-title: "Le Réel répond — état au bouclage du 28 septembre 2026"
+title: "Le Réel répond — état au bouclage du Spécial sénatoriales du 29 septembre 2026"
 subtitle: "Témoignages recueillis, capacité électorale de Marie-Louise, scrutin sénatorial et ouverture de l'appel à compétences"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
+date: "2026-09-29"
 status: "render-candidate"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -32,11 +32,13 @@ review:
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# Le Réel répond — état au bouclage du 28 septembre 2026
+# Le Réel répond — état au bouclage du Spécial sénatoriales du 29 septembre 2026
 
-Ce chapitre constitue la **couche magazine** du numéro 3. Il enregistre ce que le Réel a produit, déplacé ou contredit entre le gel du numéro 2 (21 septembre) et le bouclage du numéro 3 (28 septembre).
+Ce chapitre constitue la **couche magazine** du numéro 3 — **Spécial sénatoriales**. Il enregistre ce que le Réel a produit, déplacé ou contredit entre le gel du numéro 2 (21 septembre) et le bouclage exceptionnel du mardi 29 septembre.
 
 Conformément à la règle de méthode instituée ce jour, le lundi devient la journée hebdomadaire de **bouclage actif (*Magazine Close*)** : les faits de dernière minute du week-end sont absorbés, vérifiés et soumis à une fenêtre contradictoire avant scellement définitif.
+
+Pour ce numéro précis, le scrutin ayant eu lieu le dimanche 27 septembre, le bouclage est décalé d’un jour afin d’intégrer les réactions publiées le lundi et de corriger l’analyse contrefactuelle avant freeze. Ce mardi constitue une exception bornée à la cadence du lundi, documentée par l’audit `2026-09-29-special-senatoriales-late-close.md`.
 
 ---
 
