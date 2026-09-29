@@ -415,6 +415,25 @@ Méthode du Corpus :
 - `musee-mariani/methodes/exploration_rationnelle_des_possibles.md`
 - `research/autonomia/potentique_territoriale.md`
 
+## 13 bis. Matrice empirique des probes
+
+La première passe de discrimination empirique U0–U5 est désormais conservée dans :
+
+`research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md`
+
+Elle confronte les branches à sept probes déjà documentés :
+
+- résultats officiels Haute-Corse ;
+- existence publique pré-scrutin de la troisième candidature ;
+- analyse pré-scrutin d’une droite « orpheline de candidat » ;
+- écart entre noyau institutionnel Battini et score obtenu ;
+- réactions post-scrutin sur les circulations de voix ;
+- comparateur descriptif Corse-du-Sud ;
+- contrôle de provenance sur les chiffres blancs/nuls ;
+- cas Salge comme rappel de la distinction exposition / bulletin.
+
+La matrice ne cherche pas à sélectionner une branche. Elle identifie ce que chaque trace permet ou interdit d’inférer.
+
 ## 14. Jalon
 
 Ce document constitue le premier jalon explicite d’une **uchronie électorale contemporaine** dans le Corpus.
