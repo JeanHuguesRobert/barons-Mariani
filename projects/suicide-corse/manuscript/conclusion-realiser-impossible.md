@@ -51,59 +51,19 @@ Il faut savoir la reconnaître.
 
 Mais parfois elle n'est que le nom donné trop tôt à une incapacité contingente.
 
-## Trois Machines pour une même question
+## Trois Machines, une boucle ouverte
 
-Le Livre a rencontré trois fonctions.
+Le Livre a rencontré trois fonctions : **empêcher, explorer, rendre capable**.
 
-La Machine à Empêcher réduit l'espace des actions accessibles.
-
-La Machine à Explorer recherche les branches encore possibles.
-
-La Machine à Rendre Capable transforme certaines de ces branches en capacités réelles.
-
-~~~text
-empêcher
-→ explorer
-→ rendre capable
-~~~
-
-Mais cette séquence n'est pas linéaire.
-
-Une capacité ouverte peut se refermer.
-
-Une exploration peut révéler que le chemin était réellement impossible.
-
-Une solution peut créer une nouvelle dépendance.
-
-Une institution conçue pour rendre capable peut devenir empêchante.
-
-C'est pourquoi la boucle doit rester ouverte.
+Elles ne forment pas une chaîne irréversible. Une capacité peut se refermer ; une exploration peut conclure à une impossibilité réelle ; une solution peut créer une nouvelle dépendance. C'est pourquoi la boucle doit rester ouverte.
 
 ## Révéler et stabiliser
 
-Le Révélateur rend visible l'écart entre la promesse et la réalité.
-
-Le Stabilisateur cherche à rendre durable ce qui a été ouvert.
-
-Mais il ne doit jamais rendre invisible son propre échec.
+Le Révélateur rend visible l'écart entre la promesse et la réalité ; le Stabilisateur cherche à rendre durable ce qui a été ouvert sans rendre son propre échec invisible.
 
 > **Un bon stabilisateur internalise son révélateur.**
 
-La forme complète devient donc :
-
-~~~text
-révéler
-→ explorer
-→ rendre capable
-→ stabiliser
-→ mesurer l'effectivité
-→ révéler les écarts résiduels
-→ corriger
-~~~
-
-Cette boucle ne garantit aucun succès.
-
-Elle garantit seulement que l'échec peut encore produire de l'information au lieu d'être enfoui.
+La boucle ne garantit aucun succès. Elle garantit seulement que l'échec peut encore produire de l'information au lieu d'être enfoui.
 
 ## Ne pas promettre l'impossible
 
@@ -242,23 +202,7 @@ Une mesure plus exigeante est possible :
 
 > **qu'est-ce qui devient effectivement faisable parce que ce travail existe ?**
 
-Une œuvre retrouvée.
-
-Une chronologie corrigée.
-
-Un témoin relié à une question.
-
-Un droit rendu compréhensible.
-
-Une institution qui répond plus précisément.
-
-Une erreur évitée.
-
-Une possibilité devenue visible.
-
-Une capacité ouverte qui ne dépend plus d'un seul intermédiaire.
-
-Une personne qui retrouve une branche qu'elle croyait fermée.
+Une œuvre retrouvée, une chronologie corrigée, un témoin relié à une question, un droit rendu compréhensible, une institution qui répond plus précisément, une erreur évitée, une possibilité devenue visible, une capacité qui ne dépend plus d'un seul intermédiaire, une branche de vie redevenue perceptible.
 
 Aucune de ces choses n'est spectaculaire.
 
