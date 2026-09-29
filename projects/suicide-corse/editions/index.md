@@ -122,6 +122,8 @@ Pour ce dernier axe, le matériau canonique reste le dossier [`research/senatori
 
 Ces éléments sont des **entrées de construction**, non un sommaire arrêté.
 
+Jusqu'à cette décision de gel, **aucun HEAD courant n'est le snapshot définitif** : les previews suivent `main` sous Optimistic Locking afin de permettre les corrections de dernière minute. Le commit source est fixé seulement après le dernier refresh et la validation finale.
+
 Une édition effectivement gelée devra recevoir sa propre identité stable et référencer au minimum :
 
 - date du build ;
