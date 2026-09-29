@@ -57,16 +57,16 @@ Le périmètre prioritaire défini par l'issue #85 regroupe **209 grands électe
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | **Parlementaires** | De droit | 3 | 2 | 0 | 0 | 1 |
 | **Assemblée de Corse** | De droit | 34 | 27 | 0 | 0 | 7 |
-| **BASTIA** | 43 droit + 21 suppl. | 64 | 47 | 4 | 12 | 1 |
+| **BASTIA** | 43 droit + 21 suppl. | 64 | 47 | 4 | 13 | 0 |
 | **BIGUGLIA** | Délégués titulaires | 15 | 0 | 1 | 0 | 14 |
 | **BORGO** | Délégués de droit | 33 | 0 | 0 | 0 | 33 |
 | **CALVI** | Délégués titulaires | 15 | 0 | 0 | 0 | 15 |
 | **CORTE** | Délégués titulaires | 15 | 0 | 0 | 0 | 15 |
 | **GHISONACCIA** | Délégués titulaires | 15 | 0 | 0 | 0 | 15 |
 | **LUCCIANA** | Délégués titulaires | 15 | 0 | 0 | 0 | 15 |
-| **TOTAL PÉRIMÈTRE PRIORITAIRE** | — | **209** | **76** | **5** | **12** | **116** |
+| **TOTAL PÉRIMÈTRE PRIORITAIRE** | — | **209** | **76** | **5** | **13** | **115** |
 | *Reste du collège (communes rurales)* | Délégués titulaires | 407 | 0 | 0 | 0 | 407 |
-| **TOTAL GÉNÉRAL CORSE-DU-NORD** | — | **616** | **76** | **5** | **12** | **523** |
+| **TOTAL GÉNÉRAL HAUTE-CORSE** | — | **616** | **76** | **5** | **13** | **522** |
 
 ---
 
@@ -83,7 +83,7 @@ L'instruction sur pièces primaires (délibération du conseil municipal de Bast
 4. **Philippe SERRA** (`index: 123`, Bastia) : Délégué supplémentaire élu au titre de la Liste C (« Unione di i patriotti », 3 voix obtenues au conseil municipal, lui conférant exactement 1 délégué supplémentaire).
 5. **Audrey MORI** (`index: 142`, Biguglia) : Déléguée titulaire, conseillère municipale d'opposition à Biguglia, et **suppléante officielle de Nicolas Battini** sur sa déclaration de candidature sénatoriale déposée en préfecture.
 
-**Constat probatoire** : Le « socle institutionnel » formel de Nicolas Battini s'élevait donc rigoureusement à **5 voix documentées**. Avec **88 voix recueillies** au soir du scrutin du 27 septembre 2026, Nicolas Battini a bénéficié d'un apport net de **83 suffrages extérieurs** à son groupe d'origine.
+**Constat probatoire** : le modèle identifie **5 grands électeurs institutionnellement rattachés** à la candidature Battini. Le score de **88 voix** crée donc un **écart arithmétique de 83** entre ce socle institutionnel identifiable et le résultat obtenu. Cet écart établit que le vote Battini a dépassé de très loin son seul noyau institutionnel documenté ; il ne permet pas d'affirmer que ces 5 électeurs ont tous voté Battini, ni d'identifier individuellement ou territorialement l'origine des 83 voix d'écart.
 
 ### 3.2. La consigne de vote blanc de Julien Morganti et le groupe d'opposition bastiais
 Le 25 septembre 2026, Julien Morganti (tête du groupe d'opposition bastiais « Uniti per dumane ») a publiquement appelé ses soutiens et les grands électeurs à **voter blanc**.
@@ -93,12 +93,12 @@ Le 25 septembre 2026, Julien Morganti (tête du groupe d'opposition bastiais « 
    - Cette liste a obtenu **4 délégués supplémentaires** : Ange-Jean LORENZI (`index: 119`), Christelle POGGI (`index: 120`), Nicolas VINCENSINI (`index: 121`), Livia GRAZIANI-SANCIU (`index: 122`).
    - L'ensemble exposé totalise ainsi **13 grands électeurs**.
 2. **Événement du 27 septembre 2026 (scission)** :
-   - La conseillère municipale Hélène SALGE (`index: 96`) a publiquement annoncé le 27 septembre 2026 qu'elle se désolidarisait de la position de Julien Morganti pour rejoindre le Parti Radical.
-   - Par conséquent, son statut de consigne a été basculé en `inconnue`.
-   - L'ensemble exposé net au vote blanc s'établit donc à **12 électeurs**.
+   - Hélène SALGE (`index: 96`) a ensuite annoncé sa rupture avec le groupe Uniti per dumane pour siéger comme élue du Parti radical.
+   - La source consultée établit ce départ et un désaccord avec une prise de position du groupe, **sans préciser que ce désaccord portait sur la consigne sénatoriale de vote blanc**.
+   - Il n'est donc pas méthodologiquement justifié de la retrancher du périmètre **exposé** à la consigne au seul motif de cette rupture ultérieure. Le périmètre d'exposition demeure **13 grands électeurs**, sans aucune inférence sur leur vote individuel.
 3. **Rapprochement électoral** :
    - Le scrutin a enregistré **36 bulletins blancs** et **40 bulletins nuls** (total 76 non-exprimés, selon les premiers chiffres).
-   - Les 12 électeurs bastiais exposés à la consigne Morganti ne constituent qu'une fraction de ce volume de votes blancs/nuls, confirmant une dispersion plus large à travers les communes rurales.
+   - Les **13 électeurs bastiais exposés** à la consigne Morganti ne peuvent être assimilés aux bulletins blancs effectivement déposés. Le total de 36 blancs montre seulement que le vote blanc dépasse ce seul périmètre d'exposition documenté ; l'origine des autres bulletins demeure inconnue.
 
 ### 3.3. Le pôle majoritaire autonomiste (Paulu Santu Parigi / Gilles Simeoni)
 Le sénateur sortant Paulu Santu Parigi a été réélu avec **442 voix**.
@@ -107,7 +107,7 @@ Dans le périmètre prioritaire, son socle de soutien documenté (`consigne_type
 - **27 conseillers territoriaux** à l'Assemblée de Corse (24 Fà Populu Inseme / Femu a Corsica + 3 Avanzemu/PNC) ;
 - **47 délégués bastiais** (31 conseillers municipaux de la majorité de Pierre Savelli et Gilles Simeoni + 16 délégués supplémentaires élus sur la Liste A de Didier Grassi).
 
-Les 366 voix complémentaires nécessaires pour atteindre les 442 voix proviennent des communes de l'intérieur et du littoral, démontrant la pénétration de la majorité territoriale dans le monde rural.
+L'écart entre les **76 grands électeurs exposés à un soutien Parigi documenté** dans ce périmètre et les **442 voix** finalement obtenues est de 366. Cet écart montre que le score dépasse très largement le noyau d'exposition documenté, mais le secret du vote interdit d'en déduire que ces 366 voix proviennent toutes des communes de l'intérieur ou d'une catégorie politique déterminée.
 
 ### 3.4. Le cas spécifique de Corte et de Xavier Poli
 L'issue #85 ordonnait d'isoler explicitement le cas du maire de Corte :
@@ -145,9 +145,45 @@ Dans ses déclarations post-scrutin rapportées par France 3 Corse ViaStella, Ni
 ## 4.bis. Confrontation post-scrutin du 27 septembre 2026 : Réseau d'exposition vs Résultats proclamés
 
 Le dépouillement du scrutin sénatorial du 27 septembre 2026 confirme et éclaire la grille d'exposition :
-* **Sur-pénétration de Nicolas Battini (17,6x)** : Partant de 5 grands électeurs militants documentés (4 à Bastia, 1 à Biguglia), Battini recueille **88 voix**, démontrant une captation de 83 voix additionnelles parmi les maires et délégués ruraux de droite départementale ou sans étiquette.
-* **Volume massif des votes blancs et nuls (76 voix — 12,54 %)** : Avec 36 blancs et 40 nuls, la contestation passive surpasse le groupe bastiais documenté (12 blancs) et traduit un refus marqué de choisir entre Parigi et Battini.
-* **Conséquence pour le contentieux électoral** : La perte de chance causée par l'exclusion de la candidature indépendante Robert / Vernerey s'apprécie au regard de ce réservoir de 76 voix non-exprimées et de la marge de mise en ballottage pour un second tour.
+* **Écart score / socle institutionnel de Nicolas Battini** : 5 grands électeurs sont institutionnellement rattachés à son offre, contre **88 voix** obtenues. Le ratio descriptif est de 17,6, mais il ne faut pas le convertir en attribution : l'écart de 83 voix n'identifie ni les électeurs concernés ni leur origine politique ou territoriale.
+* **Volume élevé des bulletins blancs et nuls (76 — 12,54 % des votants)** : 36 blancs et 40 nuls n'ont produit aucun suffrage exprimé. Ils ne constituent pas un bloc politiquement homogène et ne peuvent être qualifiés globalement de « contestation » sans autre preuve. Ils montrent seulement qu'une fraction non négligeable des votants n'a produit de suffrage valable pour aucun des deux candidats admis.
+* **Conséquence pour le contentieux électoral** : les 76 bulletins non exprimés sont un élément descriptif, mais ne suffisent pas à eux seuls à rendre possible un second tour. Une analyse contrefactuelle utile doit calculer explicitement la diminution minimale du score Parigi nécessaire à la perte de sa majorité absolue, selon plusieurs hypothèses de conversion des blancs, nuls et abstentions.
+
+---
+
+### 4.ter. Capacité arithmétique d'une troisième candidature à provoquer un second tour
+
+Cette section ne cherche pas à prédire le score de la candidature Robert / Vernerey. Elle borne seulement le **niveau de redistribution nécessaire** pour modifier le fait juridiquement décisif du premier tour : l'obtention ou non par M. Parigi de la majorité absolue des suffrages exprimés prévue par l'article L.294 du code électoral.
+
+Notons :
+
+- \(x\) = nombre de voix effectivement obtenues par M. Parigi dans le scrutin observé qui, dans un scrutin à trois candidatures, ne se seraient plus portées sur lui ;
+- \(z\) = nombre de bulletins parmi les 36 blancs, 40 nuls et, selon le scénario, 10 abstentions qui seraient devenus des suffrages exprimés valables.
+
+En conservant toutes les autres données inchangées, le nombre de suffrages exprimés devient \(530 + z\), et le score de M. Parigi devient \(442 - x\). Pour qu'il **ne dispose plus de la majorité absolue au premier tour**, il faut :
+
+\[
+442 - x \leq \left\lfloor\frac{530+z}{2}\right\rfloor.
+\]
+
+D'où les bornes suivantes :
+
+| Scénario purement arithmétique | Nouveaux exprimés \(z\) | Exprimés totaux | Diminution minimale du score Parigi \(x\) pour empêcher l'élection au 1er tour |
+|---|---:|---:|---:|
+| Aucun blanc/nul converti | 0 | 530 | **177** |
+| Tous les 36 blancs convertis | 36 | 566 | **159** |
+| Tous les 40 nuls convertis | 40 | 570 | **157** |
+| Tous les blancs + nuls convertis | 76 | 606 | **139** |
+| Blancs + nuls + 10 abstentions convertis | 86 | 616 | **134** |
+
+Deux conséquences méthodologiques suivent :
+
+1. **Les 76 blancs et nuls ne suffisent pas, à eux seuls, à provoquer un second tour.** Même si chacun devenait un vote valable pour une troisième candidature, M. Parigi conserverait 442 voix sur 606 exprimées et resterait au-dessus de la majorité absolue.
+2. L'hypothèse d'un second tour suppose donc une **redistribution substantielle de voix initialement portées sur M. Parigi**, au minimum comprise entre 134 et 177 voix selon le nombre de non-exprimés qui deviendraient exprimés. Cela représente environ **30,3 % à 40,0 %** de son score observé de 442 voix.
+
+Cette borne ne dit pas qu'une telle redistribution aurait eu lieu. Elle dit exactement ce qu'il faudrait établir ou rendre suffisamment plausible par des éléments supplémentaires pour soutenir l'hypothèse d'un second tour sans transformer les blancs, nuls ou appartenances politiques en votes fictifs.
+
+Inversement, l'analyse ne doit pas être limitée au seul score direct qu'aurait obtenu la troisième candidature. Une offre supplémentaire peut aussi modifier les choix stratégiques, les consignes, la campagne et la répartition entre les autres candidats. Ces effets systémiques sont possibles mais, faute d'observation, ne sont pas quantifiables avec précision.
 
 ---
 
