@@ -175,24 +175,23 @@ Il permet parfois une action.
 
 Il ne deviendra Machine à Rendre Capable que là où son existence rend réellement une action possible.
 
-C'est pourquoi la publication doit rester corrigible.
+C'est pourquoi il faut distinguer ce qui doit rester stable de ce qui doit rester corrigible.
+
+Une **édition** est figée : elle stabilise honnêtement ce que le Corpus pouvait projeter à une date donnée. Le **Corpus**, lui, continue d'apprendre. Une correction ultérieure ne réécrit pas silencieusement l'édition passée ; elle devient une nouvelle trace.
 
 ~~~text
-publier
-→ recevoir
-→ vérifier
-→ contredire
-→ corriger
-→ republier
+Corpus vivant
+→ projection
+→ édition figée
+→ réponse du Réel
+→ nouvel écart révélé
+→ correction du Corpus
+→ nouvelle projection
 ~~~
 
-Le Livre conserve ce qui semble durable.
+Le système éditorial lui-même applique ainsi le couple Révélateur / Stabilisateur : l'édition stabilise un état ; les réponses ultérieures révèlent ses limites ; le Corpus conserve la possibilité de corriger.
 
-Le Magazine montre ce qui vient de changer.
-
-Les annexes permettent de vérifier.
-
-Le Corpus garde la trace des bifurcations.
+Dans chaque projection, le Livre conserve le durable, le Magazine rend lisible le delta récent, et les annexes permettent de vérifier. Le Corpus garde la mémoire de l'ensemble.
 
 ## La mesure finale
 
