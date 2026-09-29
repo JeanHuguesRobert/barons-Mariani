@@ -53,6 +53,7 @@ special_senatoriales_close_2026_09_29:
   exceptional_close: "Tuesday 29 September 2026"
   late_close_audit: ../audits/2026-09-29-special-senatoriales-late-close.md
   bounded_counterfactual: ../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md
+  constrained_third_candidate_uchronia: ../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md
   rule: "Wait long enough for the Real to answer, not long enough to make the edition indefinitely movable."
   source_selection: "Track current main until explicit freeze; do not pin the final source commit in advance."
   freeze_snapshot_rule: "At the final freeze decision, refresh/reconcile current main, run the final verification, then record that exact commit as the immutable edition source."
