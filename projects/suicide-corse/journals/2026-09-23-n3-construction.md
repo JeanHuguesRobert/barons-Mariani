@@ -498,3 +498,58 @@ Rubriques récurrentes candidates à partir du n°3 :
 Principe : **le corps principal raconte ; les annexes démontrent**.
 
 La projection est temporairement remise à `render_ready: false` jusqu'à nouvel audit après intégration de ce delta.
+
+
+---
+
+## 29 septembre — Spécial sénatoriales : bouclage tardif assumé
+
+Le n°3 est désormais qualifié **« Spécial sénatoriales »**.
+
+La cadence ordinaire reste le bouclage du lundi. Cette semaine, le scrutin sénatorial ayant eu lieu le dimanche 27 septembre, le freeze est volontairement repoussé d'un jour, au **mardi 29 septembre 2026**, afin de laisser apparaître puis qualifier les premières réactions publiques au résultat.
+
+La séquence réelle devient :
+
+~~~text
+dimanche
+→ scrutin
+→ résultats
+
+lundi
+→ réactions
+→ corrections du Corpus
+→ analyse contradictoire
+
+mardi
+→ intégration bornée
+→ rerender
+→ décision de freeze
+~~~
+
+Ce décalage est traité comme une exception méthodologique, non comme un glissement de cadence.
+
+La principale correction analytique issue de cette journée supplémentaire porte sur l'hypothèse d'un second tour. Les 76 blancs et nuls observés ne suffisaient pas à eux seuls à empêcher l'élection de Parigi au premier tour. En fonction de la conversion des non-exprimés en votes valables, une troisième candidature aurait dû déplacer également entre **134 et 177 voix observées sur Parigi**.
+
+Cette plage :
+
+~~~text
+est une borne arithmétique
+≠ une prédiction
+≠ un score attribué à la candidature exclue
+~~~
+
+Elle permet de conserver l'hypothèse sans la masquer, tout en définissant exactement ce qu'il faudrait étayer pour la rendre plus consistante.
+
+Source canonique :
+
+`research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md`
+
+Audit de late close :
+
+`projects/suicide-corse/audits/2026-09-29-special-senatoriales-late-close.md`
+
+Principe éditorial stabilisé :
+
+> **Attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre l'édition indéfiniment mobile.**
+
+Le prochain acte n'est plus d'élargir le contenu : c'est de rerendre la projection courante, vérifier le Spécial sénatoriales dans les trois formats, puis décider explicitement du freeze.
