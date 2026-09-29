@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-27"
+last_modified_at: "2026-09-29"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-## État courant — 27 septembre 2026
+## État courant — 29 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
@@ -65,14 +65,21 @@ Le n°2 est **totalement bouclé et gelé**. Son chantier éditorial historique 
 
 Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les réponses et événements postérieurs appartiennent au Corpus courant, au n°3 ou à un erratum explicitement identifié.
 
-### Suicide Corse n°3 — en construction
+### Suicide Corse n°3 — Spécial sénatoriales — bouclage mardi 29 septembre
 
 Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
 
-Le n°3 est entré dans sa **journée de bouclage le lundi 28 septembre 2026**. Plutôt que d'imposer un couperet horaire aveugle, le lundi est institué comme journée active de bouclage magazine : publication d'une preview de l'édition en cours, exposition transparente des informations de dernière minute du week-end (clôture des sénatoriales du 27 septembre, contestation et recours au Conseil constitutionnel, naissance publique de Capable, déploiement de l'appel ouvert à contribution), et maintien d'une fenêtre d'ultime contribution avant le gel définitif.
+Le n°3 est désormais qualifié **« Spécial sénatoriales »**. Son bouclage, initialement visé le lundi 28 septembre, est exceptionnellement décalé au **mardi 29 septembre 2026**.
 
+Ce décalage d'un jour est volontaire et borné : le scrutin décisif s'est tenu le dimanche 27 septembre ; le lundi a produit les premières réactions publiques et une amélioration substantielle de l'analyse de l'incidence possible d'une troisième candidature. Publier le lundi aurait figé le numéro avant que ces réactions puissent être confrontées aux résultats officiels.
 
-Principe : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
+La cadence hebdomadaire du lundi reste la règle ordinaire. Le présent mardi constitue une exception documentée dans `audits/2026-09-29-special-senatoriales-late-close.md`.
+
+Le principal delta tardif est désormais la **borne contrefactuelle du second tour** : les 76 blancs et nuls ne suffisaient pas à eux seuls à empêcher l'élection au premier tour ; selon la conversion des non-exprimés, une troisième candidature aurait dû déplacer en outre entre **134 et 177 voix observées sur Parigi**. Cette plage mesure une condition arithmétique minimale ; elle n'est pas une prédiction.
+
+Principe : **attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre le bouclage indéfini.**
+
+Principe inchangé : **le delta contraint l'attention ; il ne dicte pas le sommaire.**
 
 ### 27 septembre — Capable devient un fait public
 
