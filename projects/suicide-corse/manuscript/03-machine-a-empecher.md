@@ -2,7 +2,7 @@
 title: La Machine à Empêcher
 author: Jean Hugues Noël Robert
 date: '2026-09-09'
-last_modified_at: '2026-09-21'
+last_modified_at: '2026-09-29'
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -21,6 +21,7 @@ provenance:
     - 'GitHub issue #47'
     - research/protection_responsable.md
     - research/noyau_doctrinal_rendre_capable.md
+    - JeanHuguesRobert/cogentia/patterns/revealer-stabilizer/PATTERN.md
 review:
   status: unreviewed
   reviewed_by: []
@@ -31,94 +32,157 @@ classification_confidence: strong
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
 
-
 # La Machine à Empêcher
 
-La **Machine à Empêcher** est ici une hypothèse de mécanisme, non le nom d'un coupable unique.
+La **Machine à Empêcher** n'est pas le nom d'un coupable.
 
-Elle désigne les configurations dans lesquelles une accumulation de règles, silences, délais, cloisonnements, renvois, coûts de coordination ou décisions localement défendables peut produire globalement une fermeture de possibilités.
+Elle désigne une configuration dans laquelle des règles, délais, silences, interfaces, renvois de responsabilité, coûts, habitudes ou décisions parfois défendables séparément finissent, ensemble, par réduire ce qu'une personne peut effectivement faire.
 
-La chaîne de travail à tester est :
+Le mot *Machine* est important précisément parce qu'il évite de supposer un chef d'orchestre. Une machine peut fonctionner alors qu'aucun de ses composants ne connaît l'effet global qu'ils produisent ensemble.
 
-```text
-empêchements cumulés
-→ alternatives moins visibles ou moins accessibles
-→ capacité d'agir réduite
-→ sentiment d'impasse possible
-→ futurs désirables moins accessibles
-→ risque de rupture accru dans certaines configurations
-```
+La question devient donc moins :
 
-Chaque flèche doit être examinée séparément. Une coïncidence temporelle n'est pas une causalité. Une causalité multifacteur n'est cependant pas nécessairement une causalité nulle.
+> **qui a voulu empêcher ?**
 
-Le cas de Marie-Louise peut fournir des traces et des questions ; il ne doit jamais servir à préjuger de la conclusion. Le chantier #47 porte précisément la charge de rechercher les mécanismes, les contre-exemples, la littérature contradictoire et les contrefactuels raisonnables.
+que :
 
-## Une machine distribuée plutôt qu'un auteur unique
+> **qu'est-ce qui, dans le système réel, a rendu une action moins accessible, plus fragile ou pratiquement impossible ?**
 
-Le mot « Machine » ne suppose ni centre de commande, ni intention commune, ni complot. Une Machine à Empêcher peut émerger de l'interaction de composants dont aucun, pris isolément, ne suffit à expliquer le résultat : règles, procédures, incitations, délais, interfaces, responsabilités fragmentées, coûts, habitudes, décisions ou absences de décision.
+## Du droit ou du possible à la capacité effective
 
-L'objet de l'enquête n'est donc pas d'abord de désigner un responsable global. Il est de reconstruire les mécanismes et de mesurer leurs effets sur l'espace des actions effectivement accessibles.
+Un droit écrit n'est pas encore une capacité.
 
-Dans le vocabulaire du noyau doctrinal, une Machine à Empêcher est une configuration qui contribue à produire un **écart capacitaire** : des actions qui devraient être, pourraient être ou auraient raisonnablement pu être accessibles cessent de l'être, deviennent plus coûteuses, plus fragiles ou moins visibles.
+Une place disponible n'est pas encore une place accessible.
 
-Lorsque le scénario de référence est suffisamment documenté, cet effet peut être étudié comme une **perte de chance capacitaire**. Il ne s'agit pas d'affirmer que l'action perdue aurait nécessairement été choisie, ni qu'elle aurait nécessairement conduit à un résultat déterminé. Il s'agit d'établir, avec un degré d'incertitude explicite, que l'espace des choix praticables s'est contracté.
+Une procédure ouverte n'est pas encore une procédure praticable.
 
-## Ne pas confondre empêchement et causalité totale
+Une possibilité peut rester vraie sur le papier tout en disparaissant presque entièrement dans la réalité par manque de temps, d'information, de ressources, de coordination, de confiance, de logement, de transport, de soutien ou de voie de recours utilisable.
 
-Cette approche permet de rechercher des contributions causales partielles sans fabriquer une causalité totale.
+C'est cet écart que ce livre cherche à rendre visible :
 
-Une institution, une règle ou une décision peut avoir fermé une possibilité sans être « la cause » d'une trajectoire entière. Inversement, le caractère multifactoriel d'une trajectoire ne rend pas automatiquement chaque contribution négligeable.
+~~~text
+possible déclaré
+→ conditions réelles d'accès
+→ capacité effectivement accessible
+→ action possible ou empêchée
+~~~
 
-L'enquête doit donc pouvoir écrire simultanément :
+La Machine à Empêcher agit dans cet espace intermédiaire.
 
-```text
-ce mécanisme a réduit telle capacité avec tel niveau de preuve
-ET
-le résultat contrefactuel n'est pas directement observable
-MAIS
-sa plausibilité peut parfois être fortement contrainte par les faits
-```
+Elle n'abolit pas nécessairement le droit. Elle peut simplement rendre son exercice si coûteux, incertain, tardif ou dépendant qu'il cesse d'être une possibilité réelle pour celui qui devrait pouvoir l'utiliser.
 
-La rigueur n'impose donc pas un agnosticisme uniforme. Elle impose une **gradation** : plus la bifurcation est proche, explicitement recherchée et matériellement praticable, plus le contrefactuel peut être informatif ; plus on ajoute de maillons, plus l'incertitude augmente.
+## Ne pas transformer l'empêchement en explication totale
 
-Le chapitre précédent applique déjà cette règle au cas Villa Arson. Il n'est pas nécessaire de refaire ici la démonstration. La Machine à Empêcher doit rester au niveau du mécanisme : reconstruire quelles capacités ont été réduites, par quoi, et avec quel degré de preuve, sans transformer l'ensemble en récit déterministe.
+Cette grille est utile seulement si elle résiste à la tentation de tout expliquer.
 
-## De la Machine à Explorer à la Machine à Rendre Capable
+Documenter une fermeture ne prouve pas qu'elle a déterminé toute la suite.
 
-La contrepartie constructive de la Machine à Empêcher n'est pas unique.
+Documenter plusieurs fermetures ne permet pas de reconstruire automatiquement l'état intérieur d'une personne.
 
-La **Machine à Explorer** rouvre le champ : elle rend visibles des alternatives, conserve les chemins abandonnés, produit des hypothèses, compare des scénarios et permet de revenir sur une bifurcation.
+Une trajectoire humaine reste multicausale, et certains contrefactuels resteront inconnus.
 
-La **Machine à Rendre Capable** accomplit une opération différente : elle transforme des possibles identifiés en capacités effectivement praticables. Elle apporte ou réorganise les moyens, les connaissances, les accès, les ressources, les coordinations ou les marges de manœuvre nécessaires à l'action.
+La bonne unité d'analyse est donc plus modeste :
 
-On peut donc lire leur articulation ainsi :
+> **quelle capacité précise a été réduite, par quel mécanisme, à quel moment, et avec quel niveau de preuve ?**
 
-```text
+Lorsqu'un scénario de référence est suffisamment documenté, on peut parler de **perte de chance capacitaire** : non pas l'affirmation que l'action perdue aurait nécessairement été choisie ou réussie, mais le constat qu'une branche raisonnablement praticable s'est contractée.
+
+Cette discipline permet d'affirmer des contributions partielles sans fabriquer une causalité totale.
+
+## Trois Machines, trois fonctions différentes
+
+Une fois l'empêchement rendu visible, deux autres fonctions deviennent nécessaires.
+
+La **Machine à Explorer** cherche des branches.
+
+Elle retrouve un chemin oublié, compare plusieurs scénarios, préserve une trace, formule une hypothèse, recherche une autre procédure, un autre interlocuteur, une autre ressource. Elle agrandit la carte du possible.
+
+Mais explorer n'est pas encore rendre capable.
+
+La **Machine à Rendre Capable** agit sur les conditions de conversion. Elle cherche ce qui manque pour qu'un possible devienne effectivement praticable : information, compétence, accès, outil, argent, temps, coordination, relation, infrastructure, recours.
+
+La séquence peut être résumée ainsi :
+
+~~~text
 Machine à Empêcher
-→ ferme ou dégrade des possibles
 → contracte l'espace des capacités effectives
 
 Machine à Explorer
-→ retrouve, imagine ou compare des possibles
-→ rouvre l'espace des chemins concevables
+→ retrouve ou ouvre des branches possibles
 
 Machine à Rendre Capable
-→ convertit certains de ces possibles en capacités effectives
-→ agrandit l'espace des actions réellement accessibles
-```
+→ transforme certains possibles en capacités réellement accessibles
+~~~
 
-Explorer n'est donc pas encore rendre capable. Mais rendre capable sans explorer risque de n'optimiser que les chemins déjà visibles.
+Ces trois Machines sont le cadre opérationnel de ce livre.
 
-Cette articulation donne au sous-titre *ou comment réaliser l'impossible* une lecture opératoire : une partie de ce qui paraît impossible peut relever d'une impossibilité réelle ; une autre peut provenir d'un possible invisible, d'un facteur de conversion manquant ou d'un empêchement contingent. Le travail consiste à distinguer ces cas, puis à tester ce qui peut effectivement être rouvert.
+Elles ne désignent pas trois institutions. Une même personne, un même document, une même règle ou un même logiciel peut, selon le contexte, participer à l'une ou l'autre fonction.
 
-## Vers l'échelle territoriale
+Et une Machine à Rendre Capable mal conçue peut à son tour devenir une Machine à Empêcher.
 
-À l'échelle de la Corse, l'hypothèse devient elle aussi testable sans supposer une Machine intentionnelle unique.
+## Révéler et stabiliser : la boucle au-dessus des Machines
 
-Il faut rechercher les mécanismes qui augmentent ou réduisent les capacités effectives des habitants, dimension par dimension, puis examiner leur distribution et leurs interactions. Une règle peut accroître une capacité et en réduire une autre ; un dispositif peut être utile en moyenne et fortement empêchant pour une sous-population ; une dépendance peut être rationnelle tant qu'elle reste gouvernable et réversible.
+Deux autres notions traversent les trois Machines sans constituer de nouvelles Machines de même rang : **Révélateur** et **Stabilisateur**.
 
-Le critère n'est donc pas « État contre Corse » ni « autonomie contre République ». Il devient :
+Le Révélateur rend visible l'écart entre ce que le système prétend rendre possible et ce qui l'est effectivement.
 
-> **Cette configuration institutionnelle, économique, technique ou sociale augmente-t-elle ou réduit-elle l'étendue des capacités effectives d'agir des habitants ?**
+Le Stabilisateur cherche à rendre une capacité suffisamment fiable pour qu'elle ne dépende plus d'un hasard, d'un héros local, d'un canal unique ou d'une circonstance exceptionnelle.
 
-La réponse doit venir des traces, des comparaisons, des indicateurs et des contrefactuels, non de la doctrine seule.
+Mais stabiliser ne veut pas dire figer.
+
+Un bon stabilisateur doit conserver la capacité de révéler ses propres échecs.
+
+~~~text
+empêchement
+→ révélation de l'écart
+→ exploration
+→ capacité ouverte
+→ stabilisation
+→ mesure de l'effectivité
+→ nouvel écart éventuellement révélé
+→ correction
+~~~
+
+C'est pourquoi la traçabilité compte. Une solution qui fonctionne mais dont personne ne peut reconstruire les conditions de fonctionnement reste fragile. Une solution qui ne peut plus être contestée ou corrigée peut finir par rigidifier ce qu'elle devait rendre possible.
+
+On peut condenser ce principe ainsi :
+
+> **Le révélateur rend visible un écart d'effectivité ; le stabilisateur réduit cet écart sans supprimer la capacité de le mesurer à nouveau.**
+
+## Le cas de Marie-Louise : enquêter sans conclure à l'avance
+
+Le cas de Marie-Louise donne à cette grille sa gravité.
+
+Il contient des obstacles documentés, des portes ouvertes puis fermées, des charges, des projets, des bifurcations, des soutiens et des inconnues.
+
+Mais le livre ne doit jamais transformer cette richesse documentaire en mécanisme déjà prouvé.
+
+Il faut conserver plusieurs possibilités simultanément :
+
+~~~text
+friction absorbée
+fermeture locale
+capacité maintenue
+capacité déplacée
+capacité rouverte
+capacité perdue
+UNKNOWN
+~~~
+
+Une difficulté n'est pas nécessairement une fermeture. Une fermeture n'est pas nécessairement définitive. Et une capacité formellement ouverte peut ne pas être une capacité réellement praticable.
+
+C'est précisément parce que ces distinctions sont difficiles qu'il faut une méthode capable de laisser le Réel contredire le récit.
+
+## De comprendre à rendre capable
+
+Le danger d'un livre consacré aux empêchements serait de devenir lui-même une machine à produire de l'impuissance : décrire toujours mieux ce qui bloque sans ouvrir aucune route.
+
+La fonction constructive commence donc ici.
+
+Voir l'empêchement doit conduire à chercher ce qui pourrait être exploré.
+
+Explorer doit conduire, lorsque c'est possible, à chercher les facteurs de conversion manquants.
+
+Rendre capable doit conduire à vérifier que la capacité ouverte est réelle, transmissible, durable et corrigible.
+
+Le chapitre suivant pousse cette logique jusqu'à sa limite la plus exigeante : non plus seulement rendre capable d'accomplir une démarche ou un projet, mais interroger ce que pourrait signifier **rendre capable de vivre** sans prétendre transformer cette expression en explication du suicide.
