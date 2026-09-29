@@ -413,6 +413,13 @@ editorial_rules:
   publication_can_be_stigmergic: true
   suspended_capacity_can_act_as_stigmergic_trace: true
   stigmergy_is_not_reputation_scoring: true
+  conversational_guide_is_a_derived_projection: true
+  conversational_guide_is_not_corpus_authority: true
+  edition_can_be_read_corpus_can_be_queried: true
+  guide_may_explain_changes_since_edition: true
+  guide_must_expose_epistemic_status_and_counterarguments: true
+  guide_conversation_is_not_submission: true
+  prepared_act_is_not_executed_act: true
   machine_triptych_is_structural_center: true
   cross_scale_parallelism_requires_invariance_test: true
   no_collective_psychology_transfer: true
