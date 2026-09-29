@@ -8,6 +8,10 @@ document_role: derived
 document_kind: magazine-rubric
 visibility: public
 lifecycle_state: working
+source_documents:
+  - "../../../research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
+  - "../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
+  - "../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
 ---
 
 # Reality Case — Sénatoriales 2026
@@ -38,6 +42,18 @@ Le 27 septembre, les résultats publiés par le ministère de l'Intérieur indiq
 Paul-Toussaint Parigi est proclamé élu au premier tour.
 
 Ces chiffres décrivent le scrutin effectivement tenu. Ils ne permettent pas de calculer le résultat qu'aurait produit une offre différente.
+
+### Jusqu’où pouvait aller l’incidence d’une troisième candidature ?
+
+Une nouvelle analyse du Corpus permet désormais de borner cette question sans transformer une hypothèse en prédiction.
+
+Les 76 bulletins blancs et nuls ne suffisaient pas, à eux seuls, à empêcher l’élection de Paul-Toussaint Parigi au premier tour. Même s’ils étaient tous devenus des suffrages valables pour une troisième candidature, Parigi aurait conservé 442 voix sur 606 exprimées, soit davantage que la majorité absolue.
+
+Pour qu’un second tour devienne arithmétiquement nécessaire, une troisième offre aurait donc dû modifier aussi une part des voix effectivement portées sur Parigi. Selon le nombre de blancs, nuls et abstentions transformés en suffrages valables, la diminution minimale de son score se situe entre **134 et 177 voix**.
+
+Ce chiffre n’est pas une estimation du score qu’aurait obtenu la candidature écartée. C’est une **borne du changement collectif nécessaire**. Elle permet de formuler proprement l’hypothèse : non pas « les blancs auraient voté autrement », mais « une troisième candidature pouvait-elle modifier assez largement la campagne, les consignes et les choix pour déplacer cette quantité de voix ? »
+
+Le Corpus conserve cette question comme hypothèse ouverte. Il ne la présente ni comme certaine ni comme négligeable par principe.
 
 Les 76 blancs et nuls sont donc un fait observé ; leur motivation et leur répartition dans un scrutin contrefactuel restent inconnues.
 
