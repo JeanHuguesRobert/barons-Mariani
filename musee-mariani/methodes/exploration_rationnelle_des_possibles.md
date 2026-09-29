@@ -261,6 +261,31 @@ Les Agents JHN ne remplacent pas l'enquête humaine. Ils augmentent sa capacité
 
 > L'exploration rationnelle des possibles consiste à identifier, dans toute situation, les capacités latentes qui pourraient être composées, afin d'éviter que le présent ne devienne demain une uchronie de plus.
 
+## 12 bis. Reality Case contemporain — uchronie électorale 2026
+
+Le scrutin sénatorial de Haute-Corse du 27 septembre 2026 fournit un cas contemporain particulièrement contraint.
+
+Le point de bifurcation n’est pas reconstruit à plusieurs décennies de distance : il est documenté quelques jours avant le scrutin et porte sur l’admission ou le refus d’une troisième candidature.
+
+Le cas permet donc de tester une règle méthodologique :
+
+> **plus la bifurcation est proche, documentée et entourée d’invariants mesurables, plus l’espace uchronique peut être réduit sans être confondu avec une prédiction.**
+
+Le document d’application est :
+
+`research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md`
+
+Il distingue notamment :
+
+```text
+faits observés
+→ frontière mathématique
+→ scénarios U0–U5
+→ incertitude croissante avec la distance causale
+```
+
+Ce cas montre également que l’uchronie peut servir à un contentieux ou à une enquête civique à une condition stricte : **elle ne fournit pas le fait manquant ; elle organise ce qui est encore connaissable malgré sa non-actualisation.**
+
 ## 13. Usage dans le corpus
 
 Ce document doit servir de pont entre :
