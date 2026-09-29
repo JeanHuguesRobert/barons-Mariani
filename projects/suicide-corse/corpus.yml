@@ -30,6 +30,12 @@ sources:
     required: true
     note: "Canonical working architecture for continuous publication, immutable editions, content/form asymmetry, paper materialization, collector-style projections and AI-assisted editorial transformation under epistemic constraints."
 
+  - id: kudos-doctrine
+    path: research/kudos.md
+    role: complementary-currency-and-counter-gift-source
+    required: false
+    note: "Provides the candidate use case linking euro-funded paper materialization, suspended copies and voluntary Kudos counter-gifts without making Kudos the initial settlement instrument or equating wealth with editorial authority."
+
   - id: marie-louise-index
     path: memory/marie-louise/README.md
     role: source-index
@@ -395,6 +401,9 @@ editorial_rules:
   paper_is_a_materialization_not_a_source: true
   each_edition_may_have_an_independent_style: true
   ai_may_expand_form_without_relaxing_epistemic_constraints: true
+  digital_access_may_remain_free_while_paper_is_scarce: true
+  suspended_copies_are_a_material_capacity_not_a_content_tier: true
+  kudos_must_not_create_editorial_privilege: true
   machine_triptych_is_structural_center: true
   cross_scale_parallelism_requires_invariance_test: true
   no_collective_psychology_transfer: true
