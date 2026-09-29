@@ -216,6 +216,71 @@ Suicide Corse n°3
 
 Le n°3 doit donc exploiter cette convergence seulement si elle améliore la lisibilité du cas concret, sans transformer le numéro en exposé de métacognition.
 
+## Passe Corpus vivant / publication réactive — 29 septembre
+
+Les évolutions récentes du Corpus modifient le raisonnement éditorial du n°3 sans créer un nouveau thème autonome.
+
+### Distinction stabilisée
+
+```text
+Corpus vivant
+→ corrigible, enrichissable, contradictoire
+
+édition figée
+→ stabilisation datée d'une projection
+
+Guide conversationnel
+→ projection dérivée permettant d'interroger le Corpus
+
+conversation
+≠ source
+≠ témoignage
+≠ modification automatique du Corpus
+```
+
+### Conséquence métacognitive
+
+Le système éditorial réalise concrètement le couple Révélateur / Stabilisateur :
+
+```text
+Corpus
+→ projection
+→ freeze
+→ état stabilisé
+
+réponse du Réel
+→ écart révélé
+→ correction du Corpus
+→ nouvelle projection
+```
+
+L'édition stable ne doit donc pas être patchée silencieusement ; la corrigibilité réside dans le Corpus vivant et dans les projections suivantes.
+
+### Conséquence stigmergique
+
+Un Act publié peut laisser une trace réutilisable :
+
+```text
+Act
+→ trace persistante
+→ environnement modifié
+→ nouveau possible visible ou accessible
+→ nouvel Act
+```
+
+Cette propriété permet à *Suicide Corse* d'être principalement Machine à Explorer et, localement, Machine à Rendre Capable lorsque ses traces rendent effectivement une action possible.
+
+### Projection n°3
+
+La présente passe a été appliquée ainsi :
+
+- Livre L6 : publication réactive / trace stigmergique intégrée sans transformer le Livre en architecture technique ;
+- conclusion : distinction édition figée / Corpus vivant intégrée comme application concrète de Révélateur / Stabilisateur ;
+- Magazine : Guide conversationnel, architecture éditoriale et stigmergie enregistrés comme delta de la semaine ;
+- manifeste `corpus.yml` : référence amendement d'effectivité actualisée à v0.5-rc1.
+
+Le Guide n'est **pas** une quatrième partie après Livre / Magazine / Annexes : il appartient à un autre axe de projection du Corpus.
+
 ## Prochaine action résumable
 
 À partir de ce jalon et de l'issue #91 :
