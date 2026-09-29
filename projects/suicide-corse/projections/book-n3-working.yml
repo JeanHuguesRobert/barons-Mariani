@@ -6,29 +6,30 @@ language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
-edition_label: "Numéro 3 — bouclage du 28 septembre 2026"
+edition_label: "Numéro 3 — Spécial sénatoriales — bouclage du 29 septembre 2026"
 
 source_manifest: ../corpus.yml
 related_issue: 84
 editorial_architecture: ./n3-editorial-architecture.md
 reader_audit: ../audits/2026-09-28-reader-audit-n3.md
 final_content_sweep: ../audits/2026-09-28-final-content-sweep-n3.md
+late_close_audit: ../audits/2026-09-29-special-senatoriales-late-close.md
 
 edition:
   number: 3
-  editorial_date: "2026-09-28"
+  editorial_date: "2026-09-29"
   publication_date: null
   date_is_intentionally_unset: false
-  close_target: "2026-09-28 Monday close day Europe/Paris"
+  close_target: "2026-09-29 Tuesday exceptional late close Europe/Paris"
   close_time_exact: null
-  cadence_note: "Monday close day mode: publish edition preview and last-minute delta (senatorial post-scrutin, Capable announcement, open call for contributions) while keeping an active contribution window until final freeze."
+  cadence_note: "Exceptional one-day shift: the normal Monday close was extended to Tuesday 29 September so the Special senatoriales could absorb and qualify reactions published after the Sunday 27 September vote. This is a bounded exception, not a change of weekly cadence."
 
 
 construction:
   state: active
   final_content_sweep_applied: true
   final_content_sweep_date: "2026-09-28"
-  final_content_sweep_note: "Late post-n2 delta and rendered-annex freshness reconciled; a fresh verification render is still required before freeze."
+  final_content_sweep_note: "28 Sep sweep remains a historical checkpoint. A 29 Sep late-close audit now supersedes it for freeze readiness after integration of post-scrutin reactions and the bounded 134–177 second-tour counterfactual."
   human_decision: "Le numéro 2 est totalement bouclé ; le numéro 3 est désormais en construction."
   decided_by: "Jean Hugues Noël Robert"
   decided_at: "2026-09-23T21:47+02:00"
@@ -44,6 +45,15 @@ delta_window:
   start: "after frozen n2"
   end: null
   role: "Collect evidence, corrections, Reality responses and candidate material without prescribing composition."
+
+special_senatoriales_close_2026_09_29:
+  label: "Spécial sénatoriales"
+  reason: "The decisive event occurred Sunday 27 September; Monday reactions materially improved the electoral-impact analysis, so freeze moved one bounded day to Tuesday."
+  normal_cadence: "Monday"
+  exceptional_close: "Tuesday 29 September 2026"
+  late_close_audit: ../audits/2026-09-29-special-senatoriales-late-close.md
+  bounded_counterfactual: ../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md
+  rule: "Wait long enough for the Real to answer, not long enough to make the edition indefinitely movable."
 
 counterfactual_policy:
   status: inherited_and_active
