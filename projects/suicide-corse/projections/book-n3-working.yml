@@ -1,7 +1,7 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-n3-working
 status: render-candidate
-render_ready: true
+render_ready: false
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
@@ -29,7 +29,7 @@ construction:
   state: active
   final_content_sweep_applied: true
   final_content_sweep_date: "2026-09-28"
-  final_content_sweep_note: "28 Sep sweep remains a historical checkpoint. A 29 Sep late-close audit now supersedes it for freeze readiness after integration of post-scrutin reactions and the bounded 134–177 second-tour counterfactual."
+  final_content_sweep_note: "28 Sep sweep remains a historical checkpoint. A 29 Sep late-close audit superseded it, and the 29 Sep Book rewrite around the three Machines / Revealer-Stabilizer / effectivity now requires a fresh Phase A render and reader audit before freeze."
   human_decision: "Le numéro 2 est totalement bouclé ; le numéro 3 est désormais en construction."
   decided_by: "Jean Hugues Noël Robert"
   decided_at: "2026-09-23T21:47+02:00"
