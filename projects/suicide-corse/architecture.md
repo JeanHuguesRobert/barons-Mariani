@@ -4,8 +4,8 @@ subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publ
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-last_modified_at: "2026-09-27"
-version: "0.2"
+last_modified_at: "2026-09-29"
+version: "0.3"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -1117,9 +1117,7 @@ Il teste la méthode de l'enquête.
 
 # 22.1. Architecture d'enquête, architecture documentaire, architecture éditoriale
 
-Depuis l'édition anniversaire, la croissance du Corpus impose de rendre explicite une séparation qui n'était qu'implicite dans la première version de cette note.
-
-Trois architectures coopèrent :
+Depuis l'édition anniversaire, la croissance du Corpus impose de distinguer explicitement trois architectures :
 
 ```text
 architecture d'enquête
@@ -1129,60 +1127,43 @@ architecture documentaire
 = sources, sous-corpus, chronologies, registres, provenance, Knowledge Gaps
 
 architecture éditoriale
-= sélection et composition datées pour un numéro ou une autre projection
+= relation entre le Corpus vivant, les projections, les freezes et les éditions
 ```
 
-Elles ne doivent pas être superposées.
+Elles coopèrent sans se superposer.
 
-En particulier :
+La doctrine éditoriale générale est désormais cristallisée dans
+[`editorial-architecture.md`](editorial-architecture.md). Elle stabilise notamment :
 
-- `memory/marie-louise/` peut croître sans qu'un nouveau chapitre soit créé ;
-- une généalogie, un catalogue raisonné, un registre de témoins ou une chronologie possèdent une valeur documentaire indépendante de leur emploi dans *Suicide Corse* ;
-- `manuscript/` est désormais un espace historique et de travail, pas une table des matières canonique ;
-- le contrat de projection détermine le contenu d'une édition ;
-- une édition gelée reste immuable tandis que le Corpus et les projections futures continuent ;
-- le n°2 peut donc être entièrement recomposé à partir du Corpus courant sans reproduire le plan du numéro anniversaire.
+- la **publication continue à éditions figées** ;
+- l'**asymétrie éditoriale** : le contenu nouveau est contraint par l'histoire du contenu, tandis que la forme nouvelle n'est pas contrainte par l'histoire des formes ;
+- l'immutabilité des éditions gelées et la liberté des projections futures ;
+- la règle `source-locked ≠ editorial-locked` ;
+- le Delta Review comme contrainte d'attention, de couverture et de traçabilité, jamais comme contrainte de forme ;
+- la matérialisation papier comme projection éventuelle, non comme source ;
+- l'usage de l'IA comme moyen de transformation sous contrainte épistémique et responsabilité humaine.
 
-Règle de gel :
-
-> **Freeze the edition, never the next projection.**
-
-Une édition gelée est un objet historique immuable. Ses fichiers source peuvent rester disponibles comme matériaux ; leur présence dans une édition antérieure n'accorde aucun droit de priorité dans la suivante. Une nouvelle projection peut les reprendre, les réécrire, les découper, les fusionner, les déplacer, changer leur fonction ou ne pas les utiliser.
-
-De même :
-
-```text
-source-locked ≠ editorial-locked
-```
-
-Une politique de dérivation peut protéger les assertions et la provenance sans interdire la réécriture éditoriale du dérivé.
-
-Enfin, le Delta Review contraint **l'attention et la traçabilité**, jamais la forme :
-
-```text
-Corpus courant
-→ intention éditoriale libre
-→ projection candidate
-→ Delta Review / Coverage
-→ révision éventuelle
-→ freeze
-```
-
-Le mouvement complet devient :
+La présente architecture d'enquête conserve seulement l'interface nécessaire avec cette doctrine :
 
 ```text
 traces / sources
 → sous-corpus et qualification
 → architecture d'enquête
-→ projection choisie
+→ intention éditoriale libre
+→ projection
+→ contrôles de couverture / provenance
+→ freeze
 → édition / Act
 → réponse du Réel
 → nouvelles traces
 ```
 
-Cette séparation permet également à un même sous-corpus d'alimenter plusieurs projections : *Suicide Corse*, catalogue raisonné, Twin documentaire, agent conversationnel ou scénario, sans qu'aucune de ces projections ne devienne silencieusement la source des autres.
+Règle de gel :
 
----
+> **Freeze the edition, never the next projection.**
+
+Ainsi, `memory/marie-louise/` peut croître sans qu'un nouveau chapitre soit créé ; `manuscript/` demeure un espace historique et de travail plutôt qu'une table des matières canonique ; une édition gelée reste un objet historique immuable ; et une projection future peut recomposer librement le Corpus sans hériter du plan, de la maquette ou du style de l'édition précédente.
+
 
 # 23. Règles éditoriales candidates à stabiliser
 
