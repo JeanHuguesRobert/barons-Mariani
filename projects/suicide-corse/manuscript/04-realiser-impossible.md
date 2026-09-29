@@ -349,31 +349,29 @@ Une capacité peut être déplacée vers une autre branche.
 
 Chercher seulement les empêchements produirait un récit biaisé précisément au moment où ce livre prétend comprendre les capacités.
 
-## Le livre comme Machine à Explorer
+## Le livre comme Machine à Explorer — et parfois à Rendre Capable
 
 *Suicide Corse* participe lui-même à cette architecture.
 
-Il recueille des traces.
-
-Il formule des hypothèses.
-
-Il publie des questions.
-
-Des personnes répondent.
-
-Des institutions répondent.
-
-Des contradictions apparaissent.
-
-Certaines branches se ferment ; d'autres s'ouvrent.
+Il recueille des traces, formule des hypothèses, publie des questions, reçoit des réponses et conserve les contradictions qui modifient la carte.
 
 À ce titre, le livre est d'abord une **Machine à Explorer**.
 
-Il peut parfois devenir une Machine à Rendre Capable lorsqu'il fournit une information, une méthode, une trace ou un canal qui permet effectivement une action auparavant inaccessible.
+Mais une publication peut aussi laisser dans l'environnement une trace utilisable : une source retrouvée, une correction, une méthode, une question bien formée, un canal de contribution, une chronologie, une édition matériellement disponible. Lorsqu'une telle trace permet effectivement à quelqu'un d'agir autrement, le projet devient localement **Machine à Rendre Capable**.
 
-Mais il ne doit jamais présumer qu'il y réussit.
+La logique est stigmergique :
 
-La publication elle-même est un Reality Test.
+~~~text
+Act publié
+→ trace persistante
+→ environnement modifié
+→ nouveau possible visible ou accessible
+→ nouvel Act
+~~~
+
+Il ne faut toutefois jamais confondre intention et effet. Le fait qu'un texte cherche à rendre capable ne prouve pas qu'il y parvient.
+
+La publication elle-même reste donc un Reality Test.
 
 > **Le Corpus conserve la réponse ; il ne possède pas le Réel qui répond.**
 
