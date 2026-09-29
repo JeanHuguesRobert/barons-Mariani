@@ -2,6 +2,7 @@
 title: Ouverture
 author: Jean Hugues Noël Robert
 date: "2026-09-28"
+last_modified_at: "2026-09-29"
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -20,6 +21,8 @@ provenance:
     - memory/marie-louise/carte.md
     - memory/marie-louise/2024_portes_et_controles_epistemiques.md
     - projects/suicide-corse/projections/n3-editorial-architecture.md
+    - projects/suicide-corse/manuscript/03-machine-a-empecher.md
+    - projects/suicide-corse/manuscript/04-realiser-impossible.md
     - GitHub issue #42
     - GitHub issue #43
     - GitHub issue #75
@@ -41,84 +44,144 @@ Marie-Louise Isabelle Garance Robert est morte par suicide le 17 septembre 2024.
 
 L'enquête part donc d'une règle élémentaire : **retrouver les traces, distinguer ce qu'elles établissent de ce qu'elles suggèrent, et laisser visibles les inconnues**.
 
-Elle ne promet ni une cause unique, ni un responsable unique. Elle cherche une question plus opératoire : à chaque moment où les sources permettent de regarder, quelles possibilités existaient encore ? Lesquelles étaient réellement praticables ? Lesquelles se sont fermées ? Lesquelles auraient pu être rouvertes ?
+Elle ne promet ni une cause unique, ni un responsable unique.
 
-La mort de Marie-Louise impose cette recherche. Elle ne doit pourtant pas devenir le prisme qui transforme toute sa vie en préparation de sa mort. Le chapitre suivant commencera donc par ce qu'elle a créé, entrepris et exercé.
+Elle cherche une question plus opératoire :
+
+> **à chaque moment où les sources permettent de regarder, qu'est-ce qui était réellement possible ?**
+
+Quelles possibilités existaient encore ?
+
+Lesquelles étaient effectivement praticables ?
+
+Lesquelles se sont fermées ?
+
+Lesquelles ont été absorbées par des soutiens, des ressources ou des bifurcations ?
+
+Lesquelles auraient pu être rouvertes ?
+
+La mort de Marie-Louise impose cette recherche. Elle ne doit pourtant pas devenir le prisme qui transforme toute sa vie en préparation de sa mort. Le chapitre suivant commencera donc par ce qu'elle a créé, entrepris, désiré, essayé et transmis.
 
 ## Deux échelles, sans confusion
 
 *Suicide Corse* mène parallèlement deux enquêtes.
 
-La première concerne Marie-Louise : comment les chemins praticables vers un avenir encore désirable peuvent-ils se réduire pour une personne, et comment certains peuvent-ils être maintenus ou rouverts ?
+La première concerne Marie-Louise : comment l'espace des actions et des futurs réellement accessibles peut-il se modifier au cours d'une vie, et comment certaines branches peuvent-elles être maintenues ou rouvertes ?
 
-La seconde concerne la Corse : comment un territoire peut-il conserver des ressources, des habitants, une mémoire et des institutions tout en perdant certaines capacités effectives à agir, transmettre et se projeter ?
+La seconde concerne la Corse : comment des institutions, ressources et libertés formelles peuvent-elles coexister avec des capacités effectives faibles, fragiles ou mal distribuées — et comment les rendre plus praticables ?
 
 Ces deux objets ne se prouvent pas l'un l'autre.
 
-Marie-Louise n'est pas une métaphore de la Corse. La Corse n'explique pas la mort de Marie-Louise. Il n'est pas question de parler de « suicide collectif ». Ce que l'on peut comparer, avec prudence, ce sont certains mécanismes abstraits : accès réel à une possibilité, friction, fermeture locale, capacité dormante, réouverture, stabilisation.
+Marie-Louise n'est pas une métaphore de la Corse.
 
-La question commune est alors plus limitée :
+La Corse n'explique pas la mort de Marie-Louise.
 
-> **Comment ce qui prétend protéger, organiser ou administrer peut-il parfois finir par réduire la capacité effective qu'il devait permettre ?**
+Il n'est pas question de parler de « suicide collectif ».
 
-## La Machine à Empêcher
-
-Cette question conduit à une hypothèse centrale du livre : la **Machine à Empêcher**.
-
-Le mot « machine » ne suppose ni complot, ni centre, ni chef, ni intention globale. Une telle machine peut résulter d'une accumulation de règles localement compréhensibles, de délais, de contrôles, de silos, de transferts de responsabilité et de conditions qui, pris séparément, paraissent défendables.
+Ce que l'on peut comparer, avec prudence, ce sont certaines relations abstraites :
 
 ~~~text
-règles localement défendables
-+ procédures
-+ délais
-+ contrôles
-+ renvois
-→ coûts de conversion cumulés
-→ capacité effective diminuée
+possible formel
+→ conditions réelles
+→ capacité effective
+→ action
+→ effets
 ~~~
 
-La forme ordinaire de cette machine n'est pas « vous ne pouvez pas ». Elle est plutôt : « il manque une pièce », « ce n'est pas notre compétence », « revenez plus tard », « le délai est dépassé ».
+La question commune devient alors :
 
-Mais l'enquête doit résister à une tentation symétrique : dès qu'une difficulté apparaît, il serait trop facile d'y voir la preuve de cette Machine.
+> **qu'est-ce qui ferme, qu'est-ce qui explore, et qu'est-ce qui rend réellement capable ?**
 
-La règle est donc simple : **établir d'abord ce qui s'est produit, comparer ensuite les explications, et ne monter vers l'hypothèse d'une intention ou d'une faute que lorsque les traces l'exigent**.
+## Trois Machines
 
-Erreur, incompréhension, surcharge, désorganisation, cloisonnement ou inertie peuvent produire des effets graves sans stratégie coordonnée. Ils doivent être testés avant les hypothèses plus fortes.
+Le Livre s'organise désormais autour de trois fonctions.
 
-## L'enquête doit aussi chercher ce qui la contredit
+La **Machine à Empêcher** contracte l'espace des capacités effectives. Elle peut résulter d'une accumulation de règles, délais, contrôles, silos, dépendances ou décisions sans qu'aucune intention centrale soit nécessaire.
 
-Une enquête qui ne collecte que ce qui confirme sa première intuition devient un récit.
+La **Machine à Explorer** recherche les branches encore ouvertes, les alternatives, les contrefactuels, les voies oubliées, les hypothèses concurrentes. Elle agrandit la carte du Possible.
 
-Ce livre cherche donc les contre-exemples : les portes qui sont restées ouvertes, les difficultés qui ont été surmontées, les capacités encore exercées, les institutions qui ont effectivement aidé, les témoignages qui contredisent la lecture en cours.
+La **Machine à Rendre Capable** agit sur ce qui manque pour transformer un possible en action réellement accessible : information, compétence, outil, temps, argent, logement, relation, coordination, infrastructure, voie de recours.
 
-Les nouvelles contributions peuvent renforcer une hypothèse, mais elles peuvent aussi l'affaiblir ou la rendre fausse. Dans les deux cas, elles sont utiles.
+~~~text
+Machine à Empêcher
+→ réduit des capacités
 
-Cette règle vaut particulièrement ici parce que l'auteur est aussi le père de Marie-Louise et un acteur de plusieurs séquences étudiées. La proximité donne accès à des traces ; elle crée aussi un risque de biais. Le Corpus doit rendre ce risque visible au lieu de prétendre l'abolir.
+Machine à Explorer
+→ ouvre la carte
 
-## De l'empêchement à la capacité
+Machine à Rendre Capable
+→ rend certains possibles praticables
+~~~
+
+Ces trois Machines ne sont pas des personnages ni des organisations fixes.
+
+Ce sont des fonctions que des personnes, procédures, institutions ou outils peuvent exercer — parfois successivement, parfois contradictoirement.
+
+Une Machine à Rendre Capable peut même devenir Machine à Empêcher si elle crée une dépendance opaque ou si elle ne sait plus révéler ses propres échecs.
+
+## Révéler, stabiliser, mesurer l'effectivité
+
+Deux fonctions traversent les trois Machines sans constituer de nouvelles Machines de même rang.
+
+Le **Révélateur** rend visible un écart entre ce qui devrait être possible et ce qui l'est effectivement.
+
+Le **Stabilisateur** cherche à rendre une capacité suffisamment fiable pour qu'elle survive à la disparition d'un intermédiaire, d'une circonstance ou d'un canal unique.
+
+Mais stabiliser ne veut pas dire figer.
+
+Un bon stabilisateur doit conserver la possibilité de révéler ses propres défaillances.
+
+C'est ici qu'apparaît le fil de l'**effectivité** :
+
+~~~text
+proclamation
+→ accès réel
+→ exercice
+→ effets
+→ observation
+→ correction
+~~~
+
+Cette boucle sera importante jusqu'à la fin du livre.
+
+## L'enquête doit chercher ce qui la contredit
+
+Une enquête qui ne collecte que ce qui confirme sa première intuition devient un récit fermé.
+
+Ce livre cherche donc aussi les contre-exemples : les portes restées ouvertes, les difficultés absorbées, les institutions qui ont effectivement aidé, les témoignages qui contredisent la lecture en cours, les hypothèses qui échouent.
+
+Cette règle vaut particulièrement ici parce que l'auteur est aussi le père de Marie-Louise et un acteur de plusieurs séquences étudiées.
+
+La proximité donne accès à des traces.
+
+Elle crée aussi un risque de biais.
+
+Le Corpus doit rendre ce risque visible au lieu de prétendre l'abolir.
+
+## De l'empêchement à la vie
 
 Le sous-titre de ce livre est *ou comment réaliser l'impossible*.
 
-Il indique que la recherche ne peut pas s'arrêter au diagnostic des fermetures.
-
-Si une Machine à Empêcher peut exister, il faut chercher son symétrique constructif : ce qui rend effectivement capable.
-
-Voir une possibilité ne suffit pas. Encore faut-il disposer des moyens de l'atteindre, d'un chemin praticable, d'une capacité à absorber les frictions et, souvent, d'un mécanisme qui empêche la possibilité rouverte de se refermer aussitôt.
+Il indique que la recherche ne peut pas s'arrêter au diagnostic.
 
 ~~~text
-voir le possible
-→ vérifier qu'il existe
-→ obtenir les moyens nécessaires
-→ le rendre praticable
-→ stabiliser la capacité
-→ observer ce que le Réel répond
+révéler l'empêchement
+→ explorer le Possible
+→ rendre capable
+→ stabiliser
+→ mesurer l'effectivité
+→ laisser le Réel répondre
 → corriger
 ~~~
 
-C'est le mouvement de ce livre.
+Le Livre poussera ce mouvement jusqu'à son cas-limite : **Machine à Rendre Capable de Vivre**.
 
-Il commence par Marie-Louise, non comme « cas » abstrait, mais comme une personne dont il faut d'abord retrouver la vie en mouvement. Il examinera ensuite certaines fermetures, puis les mécanismes qui peuvent les produire, avant de chercher ce qui permet au contraire de rouvrir et stabiliser des capacités.
+Cette expression ne prétend ni expliquer rétrospectivement la mort de Marie-Louise, ni fournir une théorie générale du suicide.
 
-Ce qui relève de la démonstration détaillée — chronologies complètes, hypothèses, matrices, annuaire, questions ouvertes et pièces — reste disponible dans les annexes et dans le Corpus.
+Elle formule une exigence constructive : chercher ce qui peut ouvrir, maintenir ou rouvrir des futurs que la personne elle-même puisse encore reconnaître comme accessibles et désirables.
 
-Le corps principal peut ainsi faire quelque chose de plus simple : raconter ce que nous savons, dire ce que nous ignorons, et avancer sans confondre les deux.
+Le mouvement du Livre est donc double.
+
+Comprendre ce qui empêche.
+
+Et chercher, sans promettre l'impossible, ce qui peut réellement rendre capable.
