@@ -412,3 +412,5 @@ Elle demande seulement de ne pas fermer trop tôt ce qui pourrait encore être r
 Et, dans son cas-limite, elle demande quelque chose de plus simple à dire que facile à faire :
 
 > **chercher ce qui peut encore rendre la vie praticable, révisable et désirable pour celle ou celui qui doit la vivre.**
+
+Le chapitre suivant change d'échelle. Il ne transpose ni la souffrance ni le suicide à un territoire ; il teste seulement si la même distinction entre capacité formelle et capacité effective reste utile lorsqu'on parle de la Corse.
