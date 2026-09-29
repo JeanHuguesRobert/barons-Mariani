@@ -20,6 +20,7 @@ provenance:
     - "memory/marie-louise/witnesses/coverage-matrix.md"
     - "projects/suicide-corse/projections/n3-figure-capacite-electorale-2017-2024.md"
     - "research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
+    - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
     - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
     - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
     - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
@@ -100,6 +101,8 @@ Le dimanche 27 septembre 2026, les 616 grands électeurs de la Haute-Corse étai
 - **Bulletins non exprimés :** le dépouillement révèle **36 bulletins blancs** (5,94 %) et **40 bulletins nuls** (6,60 %), soit **76 suffrages non exprimés (12,54 % des votants)**.
 
 Ce volume est proche du score du second candidat, mais sa signification politique n'est pas déterminée par le décompte seul. Les motivations des blancs, les motifs de nullité et la répartition qu'aurait produite une offre de candidatures différente restent inconnus. Le fait utile pour l'enquête est donc double : l'existence de 76 non-exprimés est observée ; leur affectation contrefactuelle ne l'est pas.
+
+Le calcul contrefactuel a depuis été resserré : les 76 blancs et nuls ne suffisaient pas, à eux seuls, à créer un second tour. Selon le nombre de non-exprimés qui seraient devenus des suffrages valables, il aurait fallu en outre que **134 à 177 voix observées sur Parigi** ne se portent plus sur lui. Cette plage ne prédit pas un comportement électoral ; elle mesure la distance minimale qu’une troisième offre aurait dû franchir pour modifier l’issue du premier tour. Le détail du calcul et la hiérarchie des hypothèses sont conservés dans le document source dédié du Corpus.
 
 ### L'ouverture du contentieux constitutionnel (RP-SEN-09 & RP-SEN-08)
 
