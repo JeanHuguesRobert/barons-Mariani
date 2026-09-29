@@ -1,7 +1,7 @@
 ---
 title: "Reality Case — Sénatoriales 2026"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
+date: "2026-09-29"
 status: draft
 language: fr
 document_role: derived
@@ -86,3 +86,14 @@ La suite consiste donc à recevoir et qualifier les réponses, consulter les pi�
 Le Reality Case devient ainsi une question d'effectivité :
 
 > **peut-on reconstruire suffisamment une procédure pour la vérifier, la contester et, s'il y a lieu, la corriger ?**
+
+### Ce que ce cas vient de changer dans le Corpus
+
+Depuis le numéro 2, cette question a convergé avec deux chantiers qui existaient séparément :
+
+- l'étude d'une éventuelle **QPC** liée au droit de candidature et à l'effectivité du recours ;
+- l'**amendement Baron Mariani** relatif à la mise en œuvre effective du futur régime d'autonomie corse.
+
+Le Magazine n'a pas à reproduire ici leur démonstration juridique. Ce qui est nouveau cette semaine est plus simple : le même écart entre **faculté proclamée** et **capacité effectivement exerçable** apparaît désormais dans plusieurs travaux du Corpus.
+
+Le détail des QPC possibles, de la jurisprudence et de l'amendement reste dans les Annexes / Corpus. Dans le Magazine, ce rapprochement est seulement enregistré comme un changement de la carte.
