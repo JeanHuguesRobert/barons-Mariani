@@ -200,6 +200,12 @@ sources:
     required: true
     note: "Records the bounded one-day shift from Monday to Tuesday so the Special senatoriales can absorb post-scrutin reactions and the 134–177 bounded second-tour counterfactual before freeze."
 
+  - id: senatoriales-2026-third-candidate-uchronia-probes
+    path: research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md
+    role: constrained-electoral-uchronia-probe-matrix
+    required: true
+    note: "First empirical discrimination of U0–U5 using official results, pre/post-scrutin public reactions, 2A comparator and provenance controls. No secret-ballot inference."
+
   - id: senatoriales-2026-third-candidate-uchronia
     path: research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md
     role: constrained-electoral-uchronia
