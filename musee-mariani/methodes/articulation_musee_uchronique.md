@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 title: Articulation avec le Musée uchronique
 subtitle: Deux régimes d'inférence sur un même domaine
 date: '2026-06-27'
-version: '0.1'
+version: '0.2'
 status: draft
 document_role: source
 document_kind: articulation-note
@@ -60,6 +60,23 @@ Le principal risque, pour l'un comme pour l'autre, est la confusion entre ce qui
 ## Usage croisé
 
 Un même domaine, comme Minesteggio, peut nourrir les deux musées : le Musée uchronique y interroge les bifurcations de son histoire (la soie, la vigne, les usages disparus), tandis que le Musée des Possibles y instruit la réactivation de ses capacités. Une fiche d'atelier peut renvoyer à un scénario uchronique lorsqu'il éclaire pourquoi une capacité a disparu — à condition que le statut de chaque énoncé reste, à tout moment, lisible.
+
+## Premier cas contemporain hors du musée
+
+La méthode uchronique a désormais un premier cas d’application civique contemporain :
+
+`research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md`
+
+Le cas part d’une bifurcation électorale récente et ne cherche pas à produire un récit alternatif. Il utilise les résultats officiels et les règles du scrutin pour construire une carte de scénarios, éliminer les branches insuffisantes et laisser explicitement inconnues les conséquences trop éloignées.
+
+Cette application confirme que le **Musée uchronique** désigne ici moins un bâtiment qu’un régime d’inférence réutilisable :
+
+```text
+passé non advenu
++ contraintes du Réel
++ statut explicite des hypothèses
+→ connaissance sur le système actuel
+```
 
 ## À instruire
 
