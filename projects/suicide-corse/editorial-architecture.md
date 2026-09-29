@@ -370,6 +370,54 @@ valeur éditoriale de l'état gelé
 
 Il n'existe aucune obligation doctrinale d'imprimer chaque état ou chaque publication numérique.
 
+## 8.1. Exemplaire adressable, fork et mission
+
+Une matérialisation papier peut recevoir une **identité propre** distincte de l'identité de l'édition :
+
+```text
+edition_id
+→ état éditorial gelé
+
+copy_id
+→ incarnation physique particulière
+```
+
+Cette identité peut être créée lors de l'impression ou **a posteriori**, par exemple au moyen d'un sticker ou d'un QR unique. L'unicité est donc une propriété de l'identité attribuée à l'objet, pas nécessairement de son procédé de fabrication.
+
+Une copie physique d'un exemplaire existant à laquelle est attribué un nouveau `copy_id` constitue un **fork d'incarnation**. Elle reste une matérialisation de la même édition gelée tant que son contenu éditorial n'est pas modifié.
+
+```text
+exemplaire A
+→ reproduction
+→ nouvel identifiant
+→ exemplaire B
+```
+
+Ce fork n'implique pas automatiquement un fork de mission ou de contenu.
+
+Un exemplaire adressable peut recevoir ou référencer une **mission** indépendante, par exemple :
+
+> « À faire parvenir à un membre de la diaspora corse à New York. »
+
+La mission peut survivre au changement de support : l'exemplaire peut être matérialisé, dématérialisé vers une URL ou une référence durable, transmis, rematérialisé ou forké. L'identité du packet, son contenu, sa mission, son incarnation, sa trajectoire et son handler doivent rester conceptuellement distincts.
+
+```text
+identité
+≠ contenu
+≠ mission
+≠ incarnation
+≠ trajectoire
+≠ handler
+```
+
+Le précédent Casa Mariani de la **« bouteille à la mer »** fournit ici une analogie de conception : un objet adressable peut circuler selon une mission ouverte, accumuler des traces et être repris par des porteurs successifs. *Suicide Corse* fournit un second Reality Case, très différent par son substrat éditorial.
+
+Règle de confidentialité :
+
+> **Identifier l'objet n'implique pas identifier son détenteur.**
+
+Cette déclinaison locale renvoie aux travaux généraux sur Fractanet et Cognitive Packet Switching ; elle ne crée pas un protocole concurrent propre à *Suicide Corse*.
+
 ---
 
 # 9. IA : liberté générative sous contrainte épistémique
