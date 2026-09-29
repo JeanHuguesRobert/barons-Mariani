@@ -4,8 +4,9 @@ subtitle: Continuité stigmergique des mouches aux agents cognitifs
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-05-31'
-status: draft — amorce de jonction, v0.2 (alignement Rossignol)
-version: '0.2'
+last_modified_at: '2026-09-29'
+status: draft — amorce de jonction, v0.3 (Kudos / Suicide Corse)
+version: '0.3'
 license: CC BY-SA 4.0
 ai_assisted_by:
   - ChatGPT — drafting de l'amorce mouches (2026-05-29)
@@ -158,6 +159,80 @@ Si la stigmergie est genuinely *scale-free*, plusieurs gestes deviennent plus na
 - considérer le *corpus vivant versionné* comme un milieu stigmergique de niveau supérieur, où humains et IA déposent et lisent les traces les uns des autres — ce que les **continuations** de `cogentia.js` formalisent côté machine.
 
 ---
+
+
+## 5.1. Nouvelle instance : *Suicide Corse*, Kudos et exemplaires suspendus
+
+Le couplage entre *Suicide Corse*, les exemplaires suspendus et Kudos fournit une nouvelle instance intermédiaire entre le corpus purement documentaire et l'infrastructure matérielle.
+
+Le mécanisme candidat est :
+
+```text
+achat / don / contribution
+→ trace économique, matérielle ou documentaire
+→ environnement partagé modifié
+→ nouvelle capacité ou nouveau signal visible
+→ action d'un autre participant
+```
+
+Exemples :
+
+```text
+collector vendu
+→ capacité financière nouvelle
+→ exemplaire suspendu créé
+→ stock disponible visible
+→ remise possible à un autre lecteur
+```
+
+ou :
+
+```text
+lecture numérique gratuite
+→ erreur détectée
+→ source fournie
+→ correction du Corpus
+→ futur lecteur / agent rencontre un terrain corrigé
+```
+
+ou encore :
+
+```text
+acte contributif
+→ Kudos contextualisé
+→ trace publique de reconnaissance
+→ possibilité de contre-don ou de nouvelle contribution
+```
+
+La propriété stigmergique n'est donc pas la réputation individuelle. Elle réside dans la **modification persistante du milieu commun**.
+
+Ce cas superpose plusieurs substrats de trace :
+
+| Couche | Trace | Effet sur les actes futurs |
+|---|---|---|
+| économique | achat, don, réserve | rend finançable une matérialisation |
+| matérielle | exemplaire suspendu disponible | crée une capacité de lecture papier |
+| documentaire | correction, source, contribution | modifie le Corpus futur |
+| sociale / Kudos | don ou contre-don contextualisé | rend visible une contribution et peut susciter d'autres actes |
+| éditoriale | édition publiée / freeze | crée un Act pouvant recevoir une réponse du Réel |
+
+Cette superposition donne une instance claire de la thèse « sans limite haute » : la trace peut traverser plusieurs matières simultanément sans nécessiter de coordinateur central omniscient.
+
+Elle rejoint :
+
+- les **Cognitive Waves**, où les traces modifient les gradients du terrain ;
+- le **Incremental Transmissible Corpus Model**, où les passages d'exploration deviennent des traces qualitatives réutilisables ;
+- **Presencology**, où présence, trace et présence future doivent être distinguées ;
+- **Kudocracy**, où la coordination civique s'appuie sur des suggestions, objections et décisions traçables ;
+- Cogentia, où commits, continuations, audits et trails forment un milieu stigmergique inter-agents ;
+- Rossignol / FractaVolta, où une trace instrumentée touche un substrat matériel.
+
+Une formulation candidate en ressort :
+
+> **Une capacité suspendue est une trace stigmergique lorsqu'elle reste lisible dans l'environnement et peut être activée par un autre agent sans coordination directe avec celui qui l'a créée.**
+
+Cette définition mérite d'être testée sur d'autres « capacités suspendues » du Corpus : budgets, mandats, continuations, stocks, ressources énergétiques, routes administratives ouvertes, contributions à reprendre.
+
 
 ## 6. Limites et prudence
 
