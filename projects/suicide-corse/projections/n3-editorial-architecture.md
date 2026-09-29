@@ -220,11 +220,17 @@ voir le possible
 → corriger
 ~~~
 
-## Volume cible du Livre
+## Critère de densité du Livre
 
-**Environ 9 100 à 11 800 mots**, hors œuvres intégrales, annexes et Magazine.
+Le Livre n'a **pas de cible de longueur autonome**.
 
-Le nombre exact n'est pas une contrainte absolue ; il sert à détecter les dérives de densité.
+Sa densité se règle par allocation éditoriale :
+
+- ce qui est nécessaire pour comprendre le mouvement central reste dans le **Livre** ;
+- ce qui constitue le changement depuis l'édition précédente relève du **Magazine** ;
+- ce qui sert principalement à vérifier, documenter, reproduire ou approfondir relève des **Annexes / Corpus**.
+
+Le nombre de mots n'est qu'un indicateur secondaire. Une variation de longueur n'est un problème que si elle signale une mauvaise allocation, une répétition ou une dérive de fonction.
 
 # II. MAGAZINE — Spécial sénatoriales — 21 au 29 septembre 2026
 
@@ -299,9 +305,9 @@ Limiter la projection magazine à **5–6 chantiers** maximum, chacun avec une c
 
 Le registre exhaustif demeure dans `16-continuations.md`.
 
-## Volume cible du Magazine
+## Critère de densité du Magazine
 
-**Environ 2 500 à 4 000 mots.**
+Le Magazine n'a pas de quota de mots. Sa contrainte est fonctionnelle : il doit montrer le **delta de connaissance** depuis l'édition précédente, sans réenseigner le Livre ni absorber l'appareil de preuve des Annexes.
 
 # III. ANNEXES / CORPUS
 
@@ -379,7 +385,7 @@ Projection :
 - extraits courts lorsque nécessaires dans le Magazine ;
 - versions complètes en annexe / pages dédiées.
 
-# IV. Mesure de densité actuelle
+# IV. Cartographie actuelle des contenus
 
 Comptages approximatifs des fichiers de manuscrit avant recomposition, hors frontmatter :
 
@@ -411,9 +417,24 @@ Comptages approximatifs des fichiers de manuscrit avant recomposition, hors fron
 | 17-appel-a-temoignages | 1 305 | Annexe / page dédiée |
 | 19-ours | 273 | Appareil éditorial |
 
-Le problème principal n'est pas le manque de matière, mais sa hiérarchie. La première passe du 28 septembre a déjà corrigé le déséquilibre le plus visible : l'ouverture passe d'environ 1 395 à 891 mots et le chapitre consacré directement à Marie-Louise de 184 à environ 1 825 mots.
+Le problème principal n'est pas le volume brut, mais la hiérarchie et la fonction de chaque contenu. Les comptages ci-dessus servent uniquement de repères de densité et de détection des répétitions ; ils ne constituent pas des objectifs de longueur.
 
 # V. Règles de recomposition
+
+## Règle canonique d'allocation
+
+```text
+nécessaire pour comprendre le mouvement central
+→ LIVRE
+
+nouveau depuis l'édition précédente / réponse récente du Réel
+→ MAGAZINE
+
+nécessaire pour vérifier, approfondir, reproduire ou conserver la preuve
+→ ANNEXES / CORPUS
+```
+
+Un même sujet peut apparaître aux trois niveaux avec des profondeurs différentes. La redondance n'est justifiée que lorsqu'elle change de fonction éditoriale.
 
 1. **Aucune suppression documentaire.** Déplacer n'est pas supprimer.
 2. **Une idée structurante n'est expliquée en détail qu'une fois dans le Livre.**
