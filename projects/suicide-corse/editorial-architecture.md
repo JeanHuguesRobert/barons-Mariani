@@ -484,6 +484,59 @@ montant donné ≠ autorité éditoriale ou morale
 ```
 
 
+
+# 9 ter. Stigmergie éditoriale et matérielle
+
+Le couplage entre publication réactive, exemplaires suspendus, contributions et Kudos produit un mécanisme stigmergique.
+
+Au sens retenu dans le Corpus :
+
+```text
+action
+→ trace dans l'environnement
+→ environnement modifié
+→ action suivante orientée autrement
+```
+
+Pour *Suicide Corse*, les traces pertinentes peuvent être :
+
+- une édition gelée ;
+- une correction ;
+- une contribution ;
+- une source nouvelle ;
+- un exemplaire suspendu disponible ;
+- un point de remise ;
+- un don ou contre-don en Kudos ;
+- un acte de distribution ;
+- une réponse institutionnelle ou contradictoire.
+
+L'exemplaire suspendu fournit un cas particulièrement simple :
+
+```text
+une personne crée une capacité matérielle
+→ la capacité reste disponible dans le milieu partagé
+→ une autre personne peut l'activer
+```
+
+Références :
+
+- [`../../research/stigmergie_sans_limite_haute.md`](../../research/stigmergie_sans_limite_haute.md)
+- [`../../research/cognitive_waves.md`](../../research/cognitive_waves.md)
+- [`../../research/modele_corpus_transmissible_incremental.md`](../../research/modele_corpus_transmissible_incremental.md)
+- [`../../research/presencology.md`](../../research/presencology.md)
+- [`../../research/kudocracy.md`](../../research/kudocracy.md)
+
+Règle anti-confusion :
+
+> **Stigmergie ≠ réputation.**
+
+La coordination stigmergique vient de la trace laissée dans un environnement commun, non d'un classement global des personnes.
+
+Une formulation utile pour l'architecture éditoriale est :
+
+> **Chaque Act publié peut laisser une trace qui modifie les capacités, les connaissances ou les routes disponibles pour les participants suivants.**
+
+
 # 10. Publication réactive
 
 Une publication est dite **réactive** lorsque ses propres Acts peuvent produire des réponses du Réel qui reviennent ensuite modifier le Corpus.
