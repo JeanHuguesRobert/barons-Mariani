@@ -1066,6 +1066,100 @@ Il fournit donc un bon Reality Case pour la doctrine Kudos :
 > **Le contenu peut être abondant et gratuit, tandis que la matière reste rare et coûteuse ; Kudos permet alors de documenter et prolonger les actes qui rendent cette matière accessible sans transformer l'accès au savoir en privilège marchand.**
 
 
+
+## 19 ter. Stigmergie du don, du suspendu et de la contribution
+
+Le use case *Suicide Corse* révèle une propriété supplémentaire de Kudos : le système peut fonctionner comme un **milieu stigmergique**.
+
+La stigmergie est ici prise au sens déjà utilisé dans le Corpus : une action laisse une trace dans un environnement partagé ; cette trace modifie le terrain d'action des agents suivants.
+
+```text
+action
+→ trace persistante
+→ environnement modifié
+→ nouvelle perception des possibles
+→ action suivante
+```
+
+Dans le cas *Suicide Corse*, plusieurs traces peuvent jouer ce rôle :
+
+- achat d'un collector ;
+- création d'un exemplaire suspendu ;
+- stock suspendu disponible ;
+- remise d'un exemplaire ;
+- don ou contre-don en Kudos ;
+- correction d'une erreur ;
+- contribution documentaire ;
+- nouvelle source ;
+- point de remise ou de distribution ;
+- historique public des actes et effets.
+
+Ainsi, un exemplaire suspendu n'est pas seulement un objet financé. Il est aussi une **trace de capacité disponible** dans l'environnement :
+
+```text
+quelqu'un a créé une capacité matérielle
+→ cette capacité reste visible / disponible
+→ un autre acteur peut agir à partir de cette trace
+```
+
+Le Kudos peut jouer un rôle similaire lorsqu'il conserve la mémoire publique d'un acte de contribution sans le convertir en score social global.
+
+### Articulation avec les autres mécanismes stigmergiques du Corpus
+
+Ce cas s'inscrit dans une continuité déjà documentée :
+
+- [`stigmergie_sans_limite_haute.md`](stigmergie_sans_limite_haute.md) : coordination par traces, de l'insecte aux agents humains et IA ;
+- [`cognitive_waves.md`](cognitive_waves.md) : les succès, échecs et contributions modifient les gradients du terrain cognitif ;
+- [`modele_corpus_transmissible_incremental.md`](modele_corpus_transmissible_incremental.md) : une exploration utile laisse une trace qualitative réutilisable par les explorations suivantes ;
+- [`presencology.md`](presencology.md) : les traces modifient la distribution des présences futures sans exiger de carte centrale omnisciente ;
+- [`kudocracy.md`](kudocracy.md) : suggestions, votes, objections et justifications laissent des traces civiques auditées qui modifient les actions ultérieures ;
+- Cogentia : commits, continuations, trails et audits forment le milieu partagé dans lequel humains et agents reprennent le travail ;
+- Rossignol / FractaVolta : les traces matérielles et instrumentées ferment la boucle sur le Réel.
+
+Le use case *Suicide Corse* ajoute une instance hybride particulièrement lisible :
+
+```text
+trace économique
++ trace matérielle
++ trace documentaire
++ trace de reconnaissance
+→ modification distribuée des capacités futures
+```
+
+### Stigmergie ≠ réputation
+
+Il faut préserver une distinction importante.
+
+Le mécanisme n'est pas stigmergique parce qu'un individu accumule de la réputation. Il l'est parce que **les traces modifient un environnement partagé et orientent des actes futurs**.
+
+Donc :
+
+```text
+Kudos comme score personnel
+≠ cible
+
+Kudos comme trace contextualisée d'un acte
+→ peut participer à un milieu stigmergique
+```
+
+Cette distinction renforce la règle anti-capture :
+
+> **La trace doit rendre l'action suivante plus informée ou plus possible, pas transformer la personne en score.**
+
+### Boucle réactive complète
+
+```text
+publication
+→ acte / contribution / achat / correction
+→ trace
+→ modification du stock, du Corpus, de la confiance ou des routes disponibles
+→ nouveaux actes
+→ nouvelles traces
+```
+
+Le mécanisme de publication réactive de *Suicide Corse* devient ainsi aussi un mécanisme de **stigmergie éditoriale et matérielle**.
+
+
 ## 20. Conclusion
 
 Kudos propose une forme particulière de monnaie complémentaire.
