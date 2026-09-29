@@ -201,7 +201,7 @@ Principe :
 
 Avant freeze du Spécial sénatoriales :
 
-1. rerendre la projection courante depuis le HEAD réel ;
+1. rerendre la projection courante depuis le **`main` courant au moment du rendu**, sans épingler à l'avance un commit ;
 2. vérifier que le rendu référence bien le 29 septembre et le label « Spécial sénatoriales » ;
 3. vérifier que l'analyse 134–177 apparaît dans le Reality Case sans être présentée comme prédiction ;
 4. vérifier que les 76 blancs/nuls ne sont nulle part qualifiés comme voix potentielles certaines ;
@@ -209,6 +209,30 @@ Avant freeze du Spécial sénatoriales :
 6. vérifier que la requête au Conseil constitutionnel reste qualifiée selon son état réel au moment du freeze ;
 7. effectuer l'inspection visuelle PDF déjà requise par l'issue #89 ;
 8. ne publier/freeze qu'après validation explicite du Principal.
+
+## 8.1. Règle de snapshot tardif
+
+Tant que le freeze n'a pas été explicitement décidé, le Spécial sénatoriales reste une **projection vivante**.
+
+```text
+avant freeze
+→ main peut encore évoluer
+→ toute modification matériellement pertinente peut être intégrée
+→ chaque vérification repart du main courant
+→ Optimistic Locking / reconciliation
+→ aucun commit n'est déclaré source définitive
+
+au moment exact du freeze
+→ refresh final
+→ vérification finale
+→ capture du commit source exact
+→ génération / manifeste
+→ décision explicite de gel
+```
+
+Les commits utilisés lors des previews restent des **checkpoints de vérification historiques**. Ils ne deviennent pas, par leur seule utilisation dans un rendu intermédiaire, le commit source du numéro gelé.
+
+Cette règle permet des corrections ou informations de dernière minute jusqu'à la décision de bouclage, sans perdre la traçabilité : la provenance définitive est fixée seulement lorsque l'édition elle-même l'est.
 
 ## 9. Statut
 
