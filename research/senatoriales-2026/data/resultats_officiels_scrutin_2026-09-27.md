@@ -94,6 +94,28 @@ L'observation consolidée de ces résultats nourrit directement la requête en c
    - Ces nombres décrivent le scrutin effectivement tenu. Ils ne permettent pas, à eux seuls, de calculer le score qu'aurait obtenu une candidature supplémentaire ni de conclure qu'un second tour aurait eu lieu.
    - Toute analyse de perte de chance doit donc rester contrefactuelle et graduée : elle peut étudier l'existence d'une offre empêchée et les conditions d'accès au scrutin, mais ne doit pas transformer les blancs, nuls ou abstentions en voix attribuables.
 
+### 4.1. Borne arithmétique du scénario de second tour
+
+L'article L.294 du code électoral impose, pour une élection au premier tour, la majorité absolue des suffrages exprimés ainsi qu'un nombre de voix au moins égal au quart des inscrits. Dans le scrutin observé, M. Parigi satisfait très largement la seconde condition (442 > 154). La seule voie arithmétique vers un second tour consiste donc à faire disparaître sa majorité absolue des exprimés.
+
+Si \(x\) désigne le nombre de voix observées de M. Parigi qui, dans un scrutin à trois candidatures, ne se seraient plus portées sur lui, et \(z\) le nombre de blancs, nuls ou abstentions devenant des suffrages exprimés valables, il faut :
+
+\[
+442-x \leq \left\lfloor\frac{530+z}{2}\right\rfloor.
+\]
+
+| Hypothèse descriptive | \(z\) | Diminution minimale \(x\) |
+|---|---:|---:|
+| Aucun non-exprimé converti | 0 | **177** |
+| 36 blancs convertis | 36 | **159** |
+| 40 nuls convertis | 40 | **157** |
+| 36 blancs + 40 nuls convertis | 76 | **139** |
+| Blancs + nuls + 10 abstentions convertis | 86 | **134** |
+
+Ainsi, le seul « réservoir » des 76 blancs et nuls ne suffit pas à provoquer un second tour : même convertis intégralement en suffrages valables pour une troisième candidature, M. Parigi conserverait 442 voix sur 606 exprimées. L'hypothèse de second tour exige donc, en plus, une redistribution substantielle de voix qui se sont effectivement portées sur lui dans le scrutin observé.
+
+Cette borne est utile précisément parce qu'elle est prudente : elle ne prédit aucun comportement individuel et ne suppose pas que les 76 non-exprimés auraient choisi la candidature exclue. Elle indique seulement la **magnitude minimale du changement de comportement collectif** qu'aurait dû produire une offre supplémentaire pour modifier l'issue du premier tour.
+
 2. **Intérêt probatoire de la consultation du procès-verbal et des bulletins nuls (RP-SEN-08)** :
    - Les **40 bulletins nuls** constituent un objet documentaire à examiner pour connaître leurs motifs de nullité et les éventuelles mentions portées.
    - Leur contenu est actuellement **UNKNOWN**. Aucune hypothèse sur des bulletins au nom d'un candidat écarté ne doit être présentée comme probable avant consultation.
