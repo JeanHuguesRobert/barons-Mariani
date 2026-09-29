@@ -553,3 +553,22 @@ Principe éditorial stabilisé :
 > **Attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre l'édition indéfiniment mobile.**
 
 Le prochain acte n'est plus d'élargir le contenu : c'est de rerendre la projection courante, vérifier le Spécial sénatoriales dans les trois formats, puis décider explicitement du freeze.
+
+
+### Correction — ne pas figer le commit avant le freeze
+
+Le bouclage tardif du mardi ne doit **pas** être confondu avec un épinglage anticipé du commit source.
+
+Jusqu'à la décision explicite de freeze :
+
+~~~text
+Corpus vivant
+→ modifications de dernière minute encore admissibles
+→ handler de rendu refresh le main courant
+→ réconciliation sous Optimistic Locking
+→ nouvelle preview si nécessaire
+~~~
+
+Le commit source définitif du Spécial sénatoriales sera capturé **au moment du bouclage définitif**, après le dernier refresh et la dernière vérification.
+
+Les SHA utilisés par les previews antérieures ne sont donc que des checkpoints historiques de vérification.
