@@ -2,6 +2,7 @@
 title: "Changer d'échelle : la Corse"
 author: Jean Hugues Noël Robert
 date: "2026-09-28"
+last_modified_at: "2026-09-29"
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -20,7 +21,10 @@ provenance:
     - projects/suicide-corse/manuscript/06-vivre-transmettre.md
     - projects/suicide-corse/manuscript/07-corse-capacite-dormante.md
     - projects/suicide-corse/manuscript/09-test-invariance-echelle.md
+    - projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md
     - research/autonomia/corse_laboratoire.md
+    - research/autonomia/amendement_effectivite_article_72-5.md
+    - JeanHuguesRobert/cogentia/patterns/revealer-stabilizer/PATTERN.md
     - projects/suicide-corse/projections/n3-editorial-architecture.md
   external_checks:
     - "Insee Analyses Corse n°67, avril 2026 — bilan démographique 2025"
@@ -39,174 +43,311 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Passer de Marie-Louise à la Corse est le déplacement le plus dangereux de ce livre.
 
-Il est tentant parce que certains mots semblent fonctionner aux deux échelles : possible, capacité, empêchement, transmission, réouverture. Il est dangereux parce qu'une personne et un territoire ne ressentent rien de la même manière.
+Les mêmes mots semblent parfois fonctionner aux deux échelles : possible, capacité, empêchement, transmission, réouverture.
+
+Mais une personne et un territoire ne ressentent rien de la même manière.
 
 La Corse ne souffre pas comme une personne. Elle ne désespère pas, ne se suicide pas, ne ressent pas d'impasse. Ces verbes appartiennent aux individus.
 
-Ce que l'on peut étudier à l'échelle collective est plus limité : des comportements agrégés, des institutions, des départs et des arrivées, des transmissions culturelles, des possibilités économiques ou politiques, des capacités d'action et la manière dont elles sont distribuées.
+Ce que l'on peut comparer, ce sont des **relations** :
 
-Le changement d'échelle n'est donc légitime qu'à une condition :
+~~~text
+possible formel
+→ conditions réelles
+→ capacité effective
+→ action ou non-action
+→ effets
+~~~
+
+Le changement d'échelle n'est donc légitime qu'à cette condition :
 
 > **comparer des relations, jamais des psychologies.**
 
-## Vivre, se projeter, transmettre
+## Les trois Machines changent d'échelle
 
-Pour une personne, une capacité ouvre ou ferme certaines branches de l'avenir.
+À l'échelle d'un territoire, la Machine à Empêcher ne devient pas un personnage collectif.
 
-Pour une société, la question devient : quelles conditions permettent aux individus qui la composent de se projeter dans ce territoire, d'y construire quelque chose et d'y transmettre ?
+Elle désigne les configurations dans lesquelles des règles, dépendances, coûts, procédures, infrastructures ou concentrations de pouvoir réduisent certaines capacités effectives des personnes qui vivent sur le territoire.
 
-La démographie fournit un signal, pas une explication.
+La Machine à Explorer cherche au contraire des branches : autre organisation, autre canal, autre usage d'une ressource, autre articulation entre institutions, autre manière de produire, habiter, transmettre ou décider.
 
-En 2025, selon l'Insee, l'indicateur conjoncturel de fécondité en Corse est descendu à **1,12 enfant par femme**, son niveau le plus bas depuis 1975 et le plus faible des régions françaises cette année-là. Dans le même temps, la population de l'île continue d'augmenter sous l'effet des arrivées et des retours.
+La Machine à Rendre Capable agit ensuite sur les moyens qui manquent pour rendre ces branches réellement praticables.
 
-Ces deux faits empêchent déjà une lecture simpliste.
+~~~text
+Machine à Empêcher
+→ contraction de capacités
 
-Une population peut croître alors que les naissances diminuent. Une faible fécondité ne dit pas, à elle seule, pourquoi moins d'enfants naissent. Elle ne dit ni le nombre d'enfants désiré, ni les projets individuels, ni les contraintes matérielles, ni le rapport au futur.
+Machine à Explorer
+→ ouverture de branches possibles
 
-Elle peut seulement ouvrir une question :
+Machine à Rendre Capable
+→ conversion de certaines branches en capacités effectives
+~~~
 
-> **qu'est-ce qui permet, ou empêche, de se projeter durablement ici ?**
+Le changement d'échelle ne modifie donc pas la grammaire.
 
-Le logement, l'emploi, les revenus, les relations, les services publics, la santé, la confiance dans l'avenir ou le choix personnel de ne pas avoir d'enfant peuvent tous intervenir. Leur poids respectif doit être établi, pas supposé.
+Il modifie les objets, les acteurs, les preuves et les responsabilités.
 
-Le livre refuse donc toute lecture pronataliste : ne pas vouloir d'enfant n'est pas un déficit. L'objet pertinent est l'écart éventuel entre ce qu'une personne souhaite et ce qu'elle peut effectivement réaliser.
+## Vivre ici, se projeter, transmettre
 
-## Capacité dormante ou capacité perdue ?
+À l'échelle individuelle, la Machine à Rendre Capable de Vivre cherche à préserver ou rouvrir des futurs accessibles et désirables pour la personne elle-même.
 
-La Corse offre aussi des exemples où une capacité peut sembler disparaître avant de réapparaître sous une autre forme.
+À l'échelle territoriale, l'expression ne peut pas être transportée telle quelle.
 
-La réouverture de l'Université de Corse en 1981 est un cas simple et documenté. L'institution fondée au XVIIIe siècle avait disparu pendant plus de deux siècles. Sa réouverture à Corte ne signifie évidemment pas que « la même capacité » aurait attendu intacte pendant deux cents ans. Elle montre plutôt qu'une possibilité institutionnelle tenue longtemps pour close peut redevenir praticable lorsque des ressources, une mobilisation et une décision convergent.
+La question devient :
 
-La différence est essentielle :
+> **quelles conditions permettent aux personnes qui vivent ici de construire, expérimenter, réviser et transmettre des vies qu'elles ont des raisons de juger possibles et désirables ?**
+
+Cette formulation évite de traiter la Corse comme un organisme.
+
+Elle recentre l'analyse sur les habitants et sur leurs capacités distribuées.
+
+Le logement, l'emploi, la mobilité, l'éducation, la langue, l'énergie, les services publics, les réseaux, les ressources naturelles, la possibilité de participer aux décisions ou de les contester peuvent tous contribuer à élargir ou contracter cet espace.
+
+Aucun de ces éléments ne suffit seul.
+
+## La démographie comme révélateur, pas comme verdict
+
+La démographie peut rendre visible un écart sans en fournir l'explication.
+
+Une faible natalité, des départs, des arrivées ou une croissance démographique ne disent pas à eux seuls pourquoi les personnes prennent telle ou telle décision.
+
+Ils peuvent cependant fonctionner comme **Révélateurs** : ils signalent qu'une transformation mérite d'être examinée.
+
+Le danger serait de passer immédiatement du signal au récit.
+
+Une baisse des naissances ne prouve ni un refus de transmettre, ni une incapacité économique, ni un pessimisme collectif.
+
+Elle invite à poser des questions plus précises :
+
+~~~text
+quels futurs sont souhaités ?
+quels futurs sont accessibles ?
+quels écarts existent entre les deux ?
+quelles populations portent ces écarts ?
+~~~
+
+Le Révélateur indique où regarder.
+
+Il ne fournit pas la réponse.
+
+## Capacité dormante, capacité perdue, capacité réactivée
+
+La Corse possède des exemples où des capacités disparues ou très réduites ont été reconstruites.
+
+La réouverture de l'Université de Corse en 1981 est un cas utile parce qu'elle montre qu'une possibilité institutionnelle longtemps absente peut redevenir praticable lorsque ressources, compétences, mobilisation et décision convergent.
+
+Mais il faut distinguer :
 
 ~~~text
 capacité non exercée
-≠
-capacité nécessairement détruite
-~~~
+≠ capacité détruite
 
-Mais l'inverse est tout aussi vrai :
-
-~~~text
 capacité passée
-≠
-capacité automatiquement récupérable
+≠ capacité automatiquement récupérable
 ~~~
 
-Une langue moins transmise, un savoir-faire qui disparaît, un réseau économique qui se défait ou une institution fermée peuvent perdre leurs supports au point que la réactivation devienne très coûteuse ou impossible.
+Une langue, un savoir-faire, une infrastructure ou un réseau peuvent perdre leurs supports.
 
-Le terme **capacité dormante** ne doit donc être employé que lorsqu'il reste des supports suffisants pour envisager une réactivation : personnes, mémoire, compétences, réseaux, ressources ou institutions.
+À l'inverse, une capacité peut subsister à bas bruit dans des personnes, des pratiques, des archives, des relations ou une diaspora.
 
-## Ce qui absorbe les chocs
+La question utile n'est donc pas :
 
-Le chapitre précédent introduisait l'idée de **buffer** : une ressource qui empêche une friction de devenir une fermeture.
+> **la capacité existe-t-elle encore, oui ou non ?**
 
-À l'échelle d'une personne, ce buffer peut être très concret : un revenu, un logement, une relation, du temps, un second canal administratif.
+mais :
 
-À l'échelle d'un territoire, les buffers sont plus diffus : réseaux familiaux, langue encore pratiquée, tissu associatif, diaspora, infrastructures, savoirs locaux, réserves financières, pluralité d'acteurs.
+> **quels facteurs de conversion permettraient aujourd'hui de la réactiver, et à quel coût ?**
 
-Le rapprochement ne prouve pas que les mécanismes soient identiques.
+C'est une question de Machine à Explorer puis de Machine à Rendre Capable.
 
-Il suggère une question commune :
+## Les buffers territoriaux
 
-> **qu'est-ce qui permet d'encaisser un choc sans perdre la capacité d'agir ?**
+Le chapitre précédent cherchait les **buffers** : ce qui empêche une friction de devenir une fermeture.
 
-C'est une question plus productive que celle d'un supposé caractère collectif.
+À l'échelle territoriale, ces buffers peuvent prendre de nombreuses formes :
 
-Parler de « fatalisme corse » ou, à l'inverse, d'un peuple « naturellement rebelle » essentialise ce qu'il faudrait mesurer. Les mêmes comportements de retrait peuvent correspondre à de l'impuissance, à une stratégie d'attente, à un départ, à de la non-coopération ou simplement à un choix individuel.
+- plusieurs routes d'accès à un service ;
+- des réseaux familiaux ou associatifs ;
+- des compétences locales ;
+- une diaspora mobilisable ;
+- des infrastructures redondantes ;
+- des réserves ;
+- plusieurs fournisseurs ou partenaires ;
+- une capacité de contestation ;
+- une mémoire institutionnelle ;
+- des mécanismes de sortie ou de substitution.
 
-Le Corpus conserve donc plusieurs hypothèses concurrentes au lieu de choisir un portrait psychologique du territoire.
+Un territoire plus capable n'est donc pas nécessairement un territoire plus indépendant.
 
-## Réactivation ne signifie pas révolte
+Il peut au contraire être un territoire mieux capable de **gouverner ses interdépendances**.
 
-Une contrainte durable peut produire des réponses très différentes.
-
-Elle peut conduire au retrait.
-
-Elle peut accélérer le départ.
-
-Elle peut susciter une adaptation.
-
-Elle peut produire une mobilisation collective.
-
-Elle peut aussi rester sans réponse organisée.
-
-Aucun seuil ne garantit qu'une « explosion » se produira. La formule populaire « trop, c'est trop » décrit une possibilité de bifurcation, pas une loi sociale.
-
-La notion utile ici est plutôt celle de **réactance** : lorsqu'une liberté perçue comme importante est menacée, certaines personnes peuvent chercher à la restaurer. Pour que cette réaction devienne une capacité collective, il faut encore de la coordination, des ressources et une perception suffisante d'efficacité.
-
-Autrement dit :
-
-~~~text
-contrainte
-≠ automatiquement résignation
-≠ automatiquement révolte
-~~~
-
-Ce qui se produit doit être observé.
+Une dépendance connue, négociable et substituable n'a pas le même effet qu'une dépendance opaque et sans sortie.
 
 ## Plus de pouvoir institutionnel n'est pas automatiquement plus de capacité distribuée
 
-Le même principe vaut pour l'organisation politique.
+Cette distinction devient particulièrement importante lorsque l'on parle d'autonomie.
 
-Un transfert de compétence vers une institution corse peut accroître la capacité de cette institution. Il ne s'ensuit pas automatiquement que chaque habitant dispose de davantage de capacité effective.
+Un transfert de compétence peut augmenter la capacité d'une institution sans augmenter dans la même proportion celle des habitants.
 
-La question pertinente n'est donc pas seulement :
-
-> **qui détient le pouvoir ?**
-
-mais aussi :
-
-> **quels moyens concrets les personnes disposent-elles pour agir, saisir l'institution, comprendre ses décisions, les contester et les corriger ?**
-
-Cette distinction est générale. Elle ne tranche aucune proposition institutionnelle particulière.
-
-Elle rappelle seulement qu'une autonomie d'appareil et une autonomie de capacité distribuée sont deux objets différents.
-
-Une institution plus puissante peut accroître la capacité collective. Elle peut aussi concentrer cette capacité. Les mécanismes de saisine, de contrôle, de transparence et de correction déterminent en partie lequel de ces effets domine.
-
-## Ce que l'histoire peut montrer — et ce qu'elle ne peut pas
-
-L'histoire de la Corse est riche en fermetures et en réouvertures institutionnelles, culturelles et politiques.
-
-Elle suffit à réfuter deux caricatures : celle d'une société éternellement passive et celle d'une société éternellement insurrectionnelle.
-
-Elle ne suffit pas à établir une essence.
-
-Le même territoire a connu, selon les périodes, coopération, départ, résistance, adaptation, révolte, compromis, reconstructions institutionnelles et réactivations culturelles.
-
-Le rôle de l'histoire dans ce livre n'est donc pas de découvrir un tempérament corse permanent.
-
-Il est de rappeler qu'une configuration présente n'épuise jamais à elle seule l'espace du possible.
-
-## La relation qui survit au changement d'échelle
-
-Après toutes ces précautions, quelque chose reste néanmoins comparable.
-
-À l'échelle individuelle comme à l'échelle territoriale :
+Il faut donc distinguer :
 
 ~~~text
-une possibilité formelle
-n'est pas encore
-une capacité effective
+capacité de l'appareil
+≠
+capacité distribuée
 ~~~
 
-Une fermeture locale n'abolit pas nécessairement toute capacité future.
+La question n'est pas seulement de savoir qui possède le pouvoir de décider.
 
-Une friction n'est pas nécessairement une fermeture.
+Elle est aussi de savoir si les personnes disposent de moyens réels pour :
 
-Une capacité ouverte mais dépendante d'un seul canal reste fragile.
+- comprendre ;
+- saisir ;
+- proposer ;
+- contester ;
+- exercer un droit ;
+- obtenir une réponse ;
+- observer les effets ;
+- demander une correction.
 
-Une réouverture ponctuelle qui n'est pas stabilisée peut disparaître à nouveau.
+Une institution plus puissante peut rendre un territoire plus capable.
 
-Ces relations sont assez abstraites pour être testées aux deux échelles sans prétendre que leurs causes soient identiques.
+Elle peut aussi concentrer le pouvoir sans distribuer les capacités.
 
-C'est ce que les annexes méthodologiques appellent un **test d'invariance**.
+Ce qui permet de distinguer les deux n'est pas le vocabulaire employé, mais l'**effectivité** des mécanismes.
 
-Le corps principal n'a pas besoin d'aller plus loin.
+## La Corse comme laboratoire : tester plutôt que présumer
 
-Il lui suffit de conserver cette idée : lorsque nous regardons la Corse, la question n'est pas de savoir si elle ressemble à Marie-Louise.
+C'est ici que l'idée de **Corse Laboratoire** prend son sens le plus prudent.
 
-La question est de savoir si certaines formes d'empêchement ou de réouverture, étudiées séparément et avec leurs propres preuves, nous apprennent quelque chose de général sur la capacité.
+Le laboratoire n'est pas un territoire sur lequel on appliquerait une théorie déjà tenue pour vraie.
 
-Et surtout si cette connaissance peut ensuite servir à ouvrir des chemins réels plutôt qu'à produire une métaphore supplémentaire.
+C'est un territoire suffisamment circonscrit pour qu'une hypothèse puisse être testée, observée, contredite et corrigée.
+
+~~~text
+hypothèse
+→ dispositif borné
+→ mise en œuvre
+→ effets observables
+→ évaluation
+→ correction / maintien / abandon
+~~~
+
+La valeur d'une petite échelle tient précisément à ce qu'elle permet d'apprendre avant de généraliser.
+
+Un résultat positif ne prouve pas qu'une solution doive être appliquée partout.
+
+Un résultat négatif ne condamne pas toute la doctrine.
+
+Il ferme ou corrige la branche effectivement testée.
+
+La prudence consiste à préserver cette possibilité de réponse du Réel.
+
+## L'effectivité comme pont entre autonomie et capacité
+
+Le travail sur l'autonomie conduit alors à une question plus générale.
+
+Une faculté juridique peut exister sans produire une capacité réellement mobilisable.
+
+Une procédure peut être ouverte mais trop lente.
+
+Un droit peut être proclamé mais difficile à exercer.
+
+Une compétence peut être transférée mais inutilisable faute de moyens, de procédure ou de réponse.
+
+L'effectivité demande donc :
+
+> **ce qui est ouvert juridiquement peut-il réellement être exercé, observé et corrigé ?**
+
+Cette question dépasse la Corse.
+
+Mais la Corse peut constituer un terrain borné où elle devient mesurable.
+
+Dans ce sens, l'autonomie n'est pas seulement un objet institutionnel.
+
+Elle devient un **Reality Test** de la différence entre capacité formelle et capacité effective.
+
+## Révélateur et Stabilisateur à l'échelle territoriale
+
+Le couple Révélateur / Stabilisateur traverse les trois Machines.
+
+Une crise, une statistique, une procédure qui échoue, un contentieux, une expérimentation ou un cas concret peut révéler un écart d'effectivité.
+
+Le stabilisateur cherche ensuite à rendre la capacité plus fiable.
+
+Mais il doit conserver en lui les moyens de montrer lorsqu'il échoue.
+
+~~~text
+révéler l'écart
+→ explorer les causes et les alternatives
+→ rendre capable
+→ stabiliser
+→ mesurer l'effectivité
+→ révéler les écarts résiduels
+→ corriger
+~~~
+
+C'est la même boucle que celle du chapitre précédent, appliquée à un autre niveau.
+
+Et c'est précisément pourquoi le Stabilisateur n'est pas une quatrième Machine.
+
+Il est une fonction de robustesse qui traverse les trois.
+
+## Ce qui survit réellement au changement d'échelle
+
+Après toutes ces précautions, quelques relations semblent suffisamment abstraites pour être testées à la fois à l'échelle individuelle et territoriale :
+
+~~~text
+possible formel
+≠ capacité effective
+
+friction
+≠ fermeture
+
+capacité ouverte
+≠ capacité stabilisée
+
+pouvoir institutionnel accru
+≠ capacité distribuée accrue
+
+stabilisation sans observation
+→ risque de nouvel empêchement
+~~~
+
+Ce sont ces relations que les annexes appellent des **tests d'invariance**.
+
+Elles ne disent pas que Marie-Louise et la Corse ont vécu la même chose.
+
+Elles disent seulement que certains mécanismes généraux peuvent être comparés sans confondre leurs causes particulières.
+
+## Vivre, transmettre, rendre capable
+
+Le déplacement vers la Corse ne prend donc sens que s'il revient finalement aux personnes.
+
+Une politique, une institution, une autonomie ou une infrastructure ne sont pas capacitaires parce qu'elles sont grandes, locales ou nouvelles.
+
+Elles le deviennent dans la mesure où elles rendent des actions réellement accessibles, préservent des bifurcations, répartissent suffisamment la capacité et permettent de corriger leurs propres échecs.
+
+Le mouvement du livre peut alors se condenser ainsi :
+
+~~~text
+empêcher
+→ révéler
+→ explorer
+→ rendre capable
+→ stabiliser
+→ mesurer l'effectivité
+→ corriger
+→ transmettre
+~~~
+
+À l'échelle d'une personne, la limite ultime était : **rendre capable de vivre**.
+
+À l'échelle d'un territoire, la question devient :
+
+> **rendre les personnes qui y vivent capables de construire, réviser et transmettre des futurs praticables.**
+
+La Corse ne sert alors ni de métaphore ni de réponse.
+
+Elle devient un terrain où cette proposition peut être confrontée au Réel.
