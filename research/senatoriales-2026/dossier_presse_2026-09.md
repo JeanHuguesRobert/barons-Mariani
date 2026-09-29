@@ -1,9 +1,9 @@
 ---
 title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
-subtitle: "Statut de la candidature, identité publique Baron Mariani, autonomie de capacité, Capable et suivi post-scrutin — état au 27 septembre 2026"
+subtitle: "Statut de la candidature, résultat et analyses post-scrutin, amendement d’effectivité, requête et pistes QPC — état au 29 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-27"
-version: "1.15"
+date: "2026-09-29"
+version: "1.16"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -16,7 +16,15 @@ contact: "jhr@baronsmariani.org"
 source_documents:
   - "research/senatoriales-2026/README.md"
   - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+  - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
+  - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md"
   - "research/senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md"
+  - "research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
+  - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
+  - "research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
+  - "research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md"
+  - "research/senatoriales-2026/investigation/convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
+  - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
   - "research/senatoriales-2026/investigation/sources.md"
@@ -35,6 +43,9 @@ source_documents:
   - "projects/capable/reality-tests/capable-2026-09-27-baseline.md"
   - "projects/suicide-corse/README.md"
   - "projects/suicide-corse/corpus.yml"
+  - "projects/suicide-corse/editorial-architecture.md"
+  - "projects/suicide-corse/projections/book-n3-working.yml"
+  - "projects/suicide-corse/journals/2026-09-29-n3-convergence-effectivite-qpc.md"
   - "research/traceabilite_des_actes.md"
   - "research/autonomia/impunite_par_obscurite_cas_corse.md"
   - "research/autonomia.md"
@@ -166,6 +177,16 @@ Le dossier post-scrutin continue d'appliquer la même règle :
 > **ne jamais présenter comme réalisé ce qui n'est encore qu'un acte préparé.**
 
 Les interventions parlementaires, la requête au Conseil constitutionnel et leurs éventuels accusés ne deviennent des faits qu'après exécution et horodatage.
+
+### Lecture du scrutin au 29 septembre — faits, borne et inconnues
+
+Les [résultats publiés par le ministère de l'Intérieur](https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html) décrivent le vote effectivement tenu entre les deux candidatures enregistrées. Ils ne permettent ni d'attribuer un bulletin secret à un grand électeur, ni de reconstituer le résultat d'un scrutin auquel une troisième candidature aurait participé.
+
+Le modèle d'exposition documente **cinq grands électeurs institutionnellement rattachés** à l'offre Battini, tandis que celui-ci recueille **88 voix**. L'écart arithmétique de **83** entre ces deux nombres ne prouve pas comment ces électeurs ont voté ni d'où proviennent individuellement les suffrages. De même, une consigne de vote blanc documente un périmètre d'exposition, pas les bulletins effectivement déposés. Les **36 blancs et 40 nuls** ne constituent pas un bloc politiquement homogène établi.
+
+Une [analyse contrefactuelle bornée](investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md) précise la distance arithmétique au second tour : les 76 blancs et nuls, même tous transformés en suffrages valables pour une troisième candidature, n'auraient pas suffi **à eux seuls** à faire perdre à Paul-Toussaint Parigi sa majorité absolue. Selon le nombre de blancs, nuls et abstentions devenant exprimés, il aurait aussi fallu que **134 à 177 voix observées sur Parigi** ne se portent plus sur lui. Cette plage est une condition de calcul, **pas une prévision** du comportement des électeurs ni du score d'une candidature écartée.
+
+L'[uchronie contrainte](investigation/uchronie_troisieme_candidat_2026-09-29.md) distingue plusieurs scénarios compatibles avec les faits, depuis un effet limité jusqu'à une recomposition de la campagne ; elle ne choisit pas après coup le scénario qui aurait eu lieu. Sa [première matrice de vérification](investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md) confirme que les seuls blancs et nuls ne suffisent pas au second tour et qu'**aucune pièce actuelle ne mesure une redistribution de 134 à 177 voix**. Les réactions et pièces encore recherchées peuvent renforcer, affaiblir ou laisser inchangée l'hypothèse d'une incidence électorale. Le [bouclage tardif du *Spécial sénatoriales*](../../projects/suicide-corse/audits/2026-09-29-special-senatoriales-late-close.md) conserve cette analyse ouverte jusqu'à sa vérification éditoriale.
 
 
 ## Antériorité publique de la candidature et disponibilité du fond politique
@@ -475,9 +496,9 @@ Cette formulation documente une continuité politique et une alliance déclarée
 
 ➡️ [Fiche de vérification de la candidature 2026](../notice_candidature_senatoriales_2026_medias.md)
 
-## L’« amendement Baron Mariani » — publication du 26 septembre
+## L’« amendement Baron Mariani » — publication du 26 septembre, évolution du 29 septembre
 
-Le Corpus publie désormais une version **`0.4-rc4`** de l’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md), au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
+Le 26 septembre, le Corpus a publié une version **`0.4-rc4`** de l’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md), au commit `2125fe9a7811ac2b2474682cf8cc1d314755fbec`.
 
 Cette version est présentée en tête du document sous une **forme parlementaire candidate**. Elle vise non plus à ajouter une clause autonome après l’alinéa relatif à l’égalité, mais à reformuler la première phrase de l’alinéa 6 du texte n° 782, qui traite déjà de la loi organique, du contrôle des normes et de leur évaluation.
 
@@ -498,6 +519,8 @@ autonomie formelle
 mais abandonne les formulations antérieures centrées sur les « habilitations nécessaires ». Les versions précédentes restent traçables dans l’historique Git.
 
 **Statut exact :** proposition publique et versionnée, issue de plusieurs cycles de revue adverse ; **aucun dépôt ni adoption parlementaire n’est établi** à ce stade.
+
+Depuis le 29 septembre, le document est en version **`0.5-rc1`**. Son dispositif parlementaire court reste celui décrit ci-dessus ; la nouvelle version enrichit sa note de justification. Elle examine l'**hypothèse** selon laquelle plusieurs exigences particulières de garantie effective, de recours effectif, de mise en œuvre, d'expérimentation et d'évaluation, déjà présentes dans le bloc de constitutionnalité, pourraient être rapprochées. La Corse y est proposée comme terrain d'un test constitutionnel borné, sans présumer de sa généralisation. **Cette hypothèse ne signifie pas qu'un principe général constitutionnel d'effectivité aurait déjà été consacré.** La version `0.4-rc4` reste la trace de l'offre disponible avant le scrutin ; `0.5-rc1` est une continuation doctrinale postérieure, qui ne doit pas être rétroprojetée dans la campagne. La proposition demeure non déposée et non adoptée.
 
 La filiation avec les travaux de mai est documentée sans présumer d’une influence causale : la contribution C.O.R.S.I.C.A. a été transmise le 28 mai 2026 et mentionnée parmi les contributions écrites du rapport n° 2865. Florent Boudié, rapporteur de ce texte à l’Assemblée nationale, est par ailleurs l’auteur de l’amendement CL48 ayant fait évoluer la rédaction relative à la consultation des électeurs corses. Ces faits établissent un canal parlementaire antérieur ; ils ne démontrent aucun soutien à la proposition publiée le 26 septembre.
 ### 27 septembre 2026 — résultat du scrutin
@@ -613,6 +636,12 @@ Il est :
 > **« le contentieux fournit un cas réel supplémentaire permettant d'observer la différence entre possible et effectif ».**
 
 Cette distinction sera conservée dans les publications post-scrutin afin de ne pas transformer une interprétation doctrinale en conclusion juridictionnelle.
+
+### Requête en annulation et pistes QPC : états distincts
+
+Deux [projets de requête](requete-conseil-constitutionnel-projet-v0.2.md) sont accessibles dans le Corpus : la version de travail intermédiaire [`0.4-draft`](requete-conseil-constitutionnel-projet-v0.1.md) et la version `0.2`, elle aussi **soumise à revue humaine**. Ils visent à demander l'annulation de l'élection, mais **aucun dépôt au Conseil constitutionnel n'est établi** par ces documents. L'argument relatif à l'incidence d'une candidature supplémentaire s'appuie sur les résultats observés et la borne du second tour ; il ne présente pas ce contrefactuel comme un résultat acquis.
+
+Deux pistes de question prioritaire de constitutionnalité sont [étudiées séparément](../../projects/suicide-corse/journals/2026-09-29-n3-convergence-effectivite-qpc.md) : la [QPC A](qpc/qpc-a-candidature-senatoriale-2026.md) concerne l'accès effectif à la candidature sénatoriale et au recours dans le temps utile ; la QPC B concernerait, le cas échéant, de futures dispositions législatives applicables à l'autonomie ou à une consultation. **La QPC A n'est pas un moyen automatiquement disponible dans la requête électorale** portée directement devant le Conseil constitutionnel : elle suppose notamment une disposition législative précise et une autre instance admissible. **Aucune QPC n'est ici présentée comme déposée, recevable ou fondée.** Les dispositions contestées, litiges et griefs précis restent à stabiliser. Le lien éditorial entre ces deux pistes est la question de l'exercice réel d'un droit proclamé, non une fusion de leurs procédures.
 
 ## Suivi post-scrutin — actes encore à documenter
 
@@ -818,7 +847,7 @@ https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-co
 
 ### Relation avec le dossier sénatorial 2026
 
-Le cas sénatorial 2026 est référencé dans le manifeste courant de *Suicide Corse* comme un **Reality Case documentaire**.
+Le cas sénatorial 2026 est référencé dans le manifeste courant de *Suicide Corse* comme un **Reality Case documentaire**. Le n°3 est préparé comme **« Spécial sénatoriales »**, avec un bouclage exceptionnellement visé le mardi 29 septembre, après les réactions au scrutin du dimanche. À ce stade, il demeure **en vérification, non gelé** : ni son rendu final ni sa publication comme édition close ne doivent être présumés.
 
 La relation ne doit pas être inversée :
 
@@ -834,13 +863,15 @@ dossier sénatorial 2026
 
 Son intérêt pour l’enquête tient notamment à la possibilité d’observer, sur un cas contemporain fortement documenté, comment une procédure, ses canaux, ses délais, ses exigences matérielles et ses médiations peuvent produire ou réduire des capacités effectives.
 
+Sa [composition actuelle](../../projects/suicide-corse/editorial-architecture.md) répartit ce qui est durable dans le Livre, les réponses récentes du Réel dans le Magazine et la démonstration détaillée dans les Annexes ou le Corpus. Cette répartition est fonctionnelle, pas un quota de mots ni un sommaire imposé aux éditions suivantes.
+
 ### Pourquoi en informer la presse
 
 Pour un journaliste, *Suicide Corse* fournit trois choses distinctes :
 
 1. un **contexte public** sur la démarche documentaire menée par Jean Hugues Noël Robert ;
 2. un **corpus vérifiable et corrigible** plutôt qu’un récit fermé ;
-3. un **canal d’appel à témoignages**, permettant à des personnes disposant d’une trace ou d’un souvenir pertinent de contribuer à l’enquête.
+3. deux appels distincts : l'[appel à témoignages](../../projects/suicide-corse/manuscript/17-appel-a-temoignages.md) pour les souvenirs et traces personnelles, et l'[appel à contributions](../../projects/suicide-corse/manuscript/appel-a-contribution.md) pour les sources, analyses, méthodes, vérifications et contradictions.
 
 La publication d’un témoignage n’est pas automatique : réception, conservation, qualification, utilisation dans l’enquête et publication sont traitées comme des opérations distinctes.
 
@@ -863,6 +894,8 @@ L’enquête conserve notamment comme ouvertes :
 
 Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorable.
 
+S'ajoutent au suivi post-scrutin : les motifs documentaires des 40 bulletins nuls et le procès-verbal général lorsqu'ils seront accessibles ; les réactions attribuables et datées qui pourraient éclairer l'incidence d'une troisième offre sans révéler de vote individuel ; le statut effectif de la requête et des deux pistes QPC. Leur absence actuelle ne doit être transformée ni en conclusion électorale ni en acte procédural accompli.
+
 ## Documents de référence
 
 ### Pour le statut et l’enquête
@@ -872,6 +905,14 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 - [Matrice des connaissances](investigation/knowledge-matrix.md)
 - [Index des sources](investigation/sources.md)
 - [Dossier public au 14 septembre](dossier-ta-bastia-2026-09-14.md)
+- [Résultats publiés et limites d'inférence](data/resultats_officiels_scrutin_2026-09-27.md)
+- [Borne contrefactuelle d'une troisième candidature](investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md)
+- [Uchronie contrainte et branches du troisième candidat](investigation/uchronie_troisieme_candidat_2026-09-29.md)
+- [Matrice empirique des probes U0–U5](investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md)
+- [Projet de requête en contestation — non déposé](requete-conseil-constitutionnel-projet-v0.1.md)
+- [Projet de requête v0.2 — en revue humaine](requete-conseil-constitutionnel-projet-v0.2.md)
+- [Note de convergence scrutin / requête / amendement / QPC](investigation/convergence_scrutin_requete_amendement_qpc_2026-09-29.md)
+- [QPC A — note de qualification procédurale](qpc/qpc-a-candidature-senatoriale-2026.md)
 
 ### Pour l’identité et les représentations
 
@@ -884,6 +925,8 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 
 - [Projet *Suicide Corse* — enquête et publication réactive](../../projects/suicide-corse/README.md)
 - [Manifeste courant des sources et chantiers](../../projects/suicide-corse/corpus.yml)
+- [Architecture éditoriale — Livre, Magazine, Annexes](../../projects/suicide-corse/editorial-architecture.md)
+- [Projection de travail du n°3 — non gelée](../../projects/suicide-corse/projections/book-n3-working.yml)
 - [Site public et appel à témoignages](https://suicidecorse.baronsmariani.org)
 
 ### Pour Capable et le Principe d’effectivité
@@ -894,6 +937,7 @@ Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorab
 - [Reality Test baseline — 27 septembre 2026](../../projects/capable/reality-tests/capable-2026-09-27-baseline.md)
 - [Principe d'effectivité](../principe_effectivite.md)
 - [Responsabilité d'effectivité](../responsabilite_effectivite.md)
+- [Jalon de convergence du n°3 — effectivité et pistes QPC](../../projects/suicide-corse/journals/2026-09-29-n3-convergence-effectivite-qpc.md)
 
 ### Pour ce que la candidature entendait présenter
 
