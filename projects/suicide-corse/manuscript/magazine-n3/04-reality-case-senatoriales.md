@@ -11,6 +11,7 @@ lifecycle_state: working
 source_documents:
   - "../../../research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
   - "../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
+  - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
   - "../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
 ---
 
@@ -54,6 +55,23 @@ Pour qu’un second tour devienne arithmétiquement nécessaire, une troisième 
 Ce chiffre n’est pas une estimation du score qu’aurait obtenu la candidature écartée. C’est une **borne du changement collectif nécessaire**. Elle permet de formuler proprement l’hypothèse : non pas « les blancs auraient voté autrement », mais « une troisième candidature pouvait-elle modifier assez largement la campagne, les consignes et les choix pour déplacer cette quantité de voix ? »
 
 Le Corpus conserve cette question comme hypothèse ouverte. Il ne la présente ni comme certaine ni comme négligeable par principe.
+
+### Une uchronie, mais contrainte
+
+Le Corpus dispose déjà d’une méthode pour ce type de question : l’**uchronie contrainte**.
+
+Il ne s’agit pas d’inventer ce qui se serait passé. Il s’agit de repartir d’un embranchement précis — l’admission ou non de la troisième candidature — puis de cartographier les branches compatibles avec les faits.
+
+Dans cette carte :
+
+- certaines branches conduisent encore à une élection de Parigi au premier tour ;
+- d’autres modifient la distribution sans atteindre le seuil du second tour ;
+- une branche ne devient compatible avec un second tour que si la redistribution franchit la frontière **134–177** ;
+- au-delà, la configuration exacte du second tour devient rapidement beaucoup plus incertaine.
+
+La formule est volontairement modeste :
+
+> **nous ne savons pas ce qui se serait passé ; nous pouvons néanmoins éliminer ce qui ne pouvait pas suffire et mesurer ce qu’il aurait fallu pour changer l’issue du premier tour.**
 
 Les 76 blancs et nuls sont donc un fait observé ; leur motivation et leur répartition dans un scrutin contrefactuel restent inconnues.
 
