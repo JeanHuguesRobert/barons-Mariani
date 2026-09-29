@@ -55,6 +55,22 @@ borne arithmétique
 prédiction
 ```
 
+## 1 bis. Cette borne comme frontière d’une uchronie contrainte
+
+La présente note fournit désormais la **frontière mathématique** d’un chantier plus large :
+
+`research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md`
+
+Ce nouveau jalon applique au scrutin la méthode uchronique déjà présente dans le Corpus : point de bifurcation identifiable, scénarios contraints, continuité causale, cohérence interne et utilité heuristique.
+
+La borne 134–177 n’est donc pas un score hypothétique. Elle sépare simplement :
+
+```text
+branches où Parigi reste élu au premier tour
+≠
+branches où sa majorité absolue disparaît
+```
+
 ## 2. Faits observés
 
 Les résultats publiés pour le premier tour en Haute-Corse sont :
