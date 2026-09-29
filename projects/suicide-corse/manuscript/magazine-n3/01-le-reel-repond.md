@@ -1,7 +1,7 @@
 ---
 title: "Le Réel répond"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
+date: "2026-09-29"
 status: draft
 language: fr
 document_role: derived
@@ -29,3 +29,7 @@ Le 26 septembre, une saisine initiale a également été adressée à une délé
 Le 27 septembre, le mouvement civique et politique **Capable** a été annoncé publiquement. Le Corpus avait fixé le même jour un baseline contradictoire avant accumulation de résultats. Pour *Suicide Corse*, ce fait n'est pas une validation doctrinale ni une continuité politique attribuée à Marie-Louise : c'est une idée issue du Corpus qui devient à son tour exposée au Réel et donc susceptible d'être contredite, corrigée ou abandonnée.
 
 Ces réponses et ces actes ne ferment pas automatiquement les questions. Ils les déplacent, les précisent et créent de nouveaux points d'observation.
+
+Le Corpus a aussi changé de forme cette semaine. Une architecture éditoriale explicite distingue désormais le **Corpus vivant** de ses **éditions figées**, et un **Guide conversationnel** est défini comme une projection dérivée permettant d'interroger le Corpus sans transformer une conversation en source ou en témoignage. La publication elle-même est également décrite comme potentiellement **stigmergique** : un Act publié peut laisser une trace qui modifie les capacités ou les routes disponibles pour les acteurs suivants.
+
+Ces évolutions ne changent pas les faits du dossier Marie-Louise. Elles changent la manière dont *Suicide Corse* organise, stabilise et rend interrogeable ce qu'il apprend.
