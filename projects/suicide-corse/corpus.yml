@@ -36,6 +36,12 @@ sources:
     required: false
     note: "Provides the candidate use case linking euro-funded paper materialization, suspended copies and voluntary Kudos counter-gifts without making Kudos the initial settlement instrument or equating wealth with editorial authority."
 
+  - id: stigmergy-without-upper-bound
+    path: research/stigmergie_sans_limite_haute.md
+    role: stigmergic-method-source
+    required: false
+    note: "Connects Suicide Corse suspended copies and Kudos to the corpus-wide trace-mediated coordination model: action -> persistent trace -> modified shared environment -> later action."
+
   - id: marie-louise-index
     path: memory/marie-louise/README.md
     role: source-index
@@ -404,6 +410,9 @@ editorial_rules:
   digital_access_may_remain_free_while_paper_is_scarce: true
   suspended_copies_are_a_material_capacity_not_a_content_tier: true
   kudos_must_not_create_editorial_privilege: true
+  publication_can_be_stigmergic: true
+  suspended_capacity_can_act_as_stigmergic_trace: true
+  stigmergy_is_not_reputation_scoring: true
   machine_triptych_is_structural_center: true
   cross_scale_parallelism_requires_invariance_test: true
   no_collective_psychology_transfer: true
