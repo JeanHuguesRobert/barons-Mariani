@@ -39,13 +39,13 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Ce chapitre prolonge l'annexe « Test d'invariance » : relire le Corpus déjà accumulé sur la Corse — au-delà de l'histoire longue synthétisée dans « Changer d'échelle : la Corse » — pour y trouver du matériau contemporain, documenté et daté, susceptible de tester les mêmes invariants que ceux mobilisés pour Marie-Louise. Deux pièces produisent des résultats directement exploitables : la [grille Ubuesque / Kafkaïen](../../../research/autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md) et le premier test [Follow the Power](../../../research/autonomia/follow_the_power_premier_test.md). Une troisième, [Act #1755-01](../../../research/autonomia/act_1755_01_verification_manuscrit.md), fournit un gabarit concret de petit Act qui éclaire « De l'empêchement à la capacité ».
 
-## Un quatrième temps manquant : le Stabilisateur
+## Une méta-boucle manquante : le Stabilisateur
 
 Le Livre décrit trois fonctions — Machine à Empêcher, Machine à Explorer, Machine à Rendre Capable — sans nommer une quatrième, pourtant déjà formalisée ailleurs dans le Corpus : le **Stabilisateur procédural**.
 
 > Un Stabilisateur procédural est une organisation opérationnelle suffisamment ordonnée pour rendre l'action normalement praticable, mais suffisamment traçable pour que son fonctionnement, ses écarts et ses échecs restent reconstructibles et corrigibles.
 
-Cette quatrième fonction comble un vide réel du manuscrit précédent. Rendre capable ponctuellement ne suffit pas : une capacité qui ne survit qu'à une conjoncture ou à une personne particulière reste fragile. Le Corpus territorial pose ici une règle directement transposable à la lecture de Marie-Louise :
+Le Stabilisateur ne constitue pas une quatrième Machine au même niveau que Machine à Empêcher, Machine à Explorer et Machine à Rendre Capable. Il constitue une fonction transversale de robustesse : rendre durable une capacité ouverte tout en conservant la possibilité de révéler ses propres échecs. Rendre capable ponctuellement ne suffit pas : une capacité qui ne survit qu'à une conjoncture ou à une personne particulière reste fragile. Le Corpus territorial pose ici une règle directement transposable à la lecture de Marie-Louise :
 
 > Rendre capable suppose souvent de fermer quelques possibles afin d'en rendre d'autres fiables, sans rendre cette fermeture incorrigible.
 
