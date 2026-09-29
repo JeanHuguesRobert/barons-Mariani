@@ -1360,6 +1360,31 @@ Mais il est resté prisonnier d’une logique de circuit, de service captif et d
 
 Fractanet cherche à faire l’inverse : rendre les capacités redirigeables, traçables, mandatables et fédérables.
 
+Une capacité latente peut ainsi devenir un nœud potentiel du réseau dès lors qu'elle peut être **découverte, rendue adressable, mandatée et raccordée à une continuation**. Cette capacité peut être technique, cognitive, matérielle, logistique ou humaine : un agent IA, une machine, un atelier, un imprimeur, un point de stockage, un trajet déjà prévu ou une compétence humaine peuvent assurer des fonctions différentes d'un même chemin.
+
+Deux cas très différents renforcent cette hypothèse : les objets traçables issus de Casa Mariani — notamment le travail autour des flacons d'huile essentielle et de la « bouteille à la mer » — et les exemplaires physiques de *Suicide Corse*. Dans les deux cas, un objet peut recevoir une identité persistante, être relié à une mission, changer de support ou être reproduit sous une nouvelle identité, tout en laissant une trajectoire reprenable.
+
+Cela suggère une extension prudente de la packetisation :
+
+```text
+capacité dispersée
+→ découverte
+→ adressage
+→ mandat / mission
+→ routage vers un handler
+→ effet
+→ trace
+→ continuation
+```
+
+La portée du Fractanet ne se mesure donc pas seulement au nombre de machines connectées, mais aussi à l'ensemble des capacités humaines, matérielles, cognitives et techniques qui peuvent être rendues **adressables et composables sans devenir captives d'un centre unique**.
+
+Formulation de travail :
+
+> **Fractanet ne route pas seulement des ressources ; il route des missions vers les capacités capables de les continuer.**
+
+Cette formulation n'abolit ni les différences de substrat ni les responsabilités propres à chaque domaine. Elle renforce au contraire la nécessité de distinguer identité, mission, incarnation, route, handler et effet.
+
 ## 18.2. FractaVolta
 
 FractaVolta applique cette logique à l’énergie et aux inférences.
