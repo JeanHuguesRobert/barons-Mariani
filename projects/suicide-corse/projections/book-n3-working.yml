@@ -132,6 +132,7 @@ observed_post_n2_delta:
     probe_batch: ../../../research/senatoriales-2026/investigation/probe-batch-2026-09-25.md
     passive_probe_run: ../../../research/senatoriales-2026/investigation/passive-probes-2026-09-25.md
     post_scrutin_trigger: ../../../research/senatoriales-2026/investigation/post-scrutin-trigger-2026-09-27.md
+    bounded_third_candidacy_counterfactual: ../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md
     observed_on: "2026-09-26"
     established:
       - "The paper judgment was effectively received and read on 25 September; postal traces establish postmark on 15 September, first presentation on 16 September, and delivery on 25 September."
