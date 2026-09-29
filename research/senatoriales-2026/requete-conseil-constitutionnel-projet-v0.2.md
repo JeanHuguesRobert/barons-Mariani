@@ -30,6 +30,8 @@ source_documents:
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/defect-ledger.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
+  - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
+  - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
   - "research/senatoriales-2026/case_studies/capable_test_senatoriales_2026_accessibilite.md"
   - "autonomia/amendement_effectivite_article_72-5.md"
@@ -217,7 +219,7 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 * **PREUVE** : Résultats officiels du scrutin du 27 septembre 2026 (**P-27**) ; demande de consultation préfectorale des pièces électorales (**P-26**).
 * **RÈGLE** : Jurisprudence du Conseil constitutionnel selon laquelle l'exclusion administrative erronée d'une candidature peut justifier l'annulation lorsqu'elle a restreint l'offre politique et a pu influer sur l'équilibre du vote ou sur les perspectives de ballottage (*CC, 25 octobre 2012, n° 2012-4611/4612 AN* ; *CC, 30 janvier 2003, n° 2002-2715 AN*).
 * **ÉCART** : L'exclusion préalable de la candidature Robert / Vernerey a mécaniquement resserré le choix des électeurs sur un duel binaire, sans que la sensibilité constitutionnelle et civique portée par le requérant puisse être soumise au suffrage.
-* **INCIDENCE** : Le niveau exceptionnel de suffrages non-exprimés (76 voix, proche des 88 suffrages du second candidat) constitue un indice matériel sérieux, ouvrant l'hypothèse plausible qu'une offre électorale complète aurait pu peser sur la répartition des voix au premier tour. Sans prétendre préjuger du secret du vote ni affirmer de certitude prématurée, cette situation soulève un doute substantiel sur la sincérité du résultat, qui justifie un examen au fond par le juge de l'élection.
+* **INCIDENCE** : Les 76 bulletins blancs et nuls constituent un fait descriptif important mais **ne suffisent pas, à eux seuls, à créer un second tour**. Le calcul contrefactuel borné montre que, selon le nombre de non-exprimés qui seraient devenus valables, une troisième candidature aurait également dû détourner de M. Parigi entre **134 et 177 voix** observées sur son score pour lui faire perdre la majorité absolue. Cette plage est une condition arithmétique minimale, non une prédiction. L'enjeu contentieux est donc de déterminer si l'effet global d'une troisième offre peut être écarté comme manifestement sans incidence ou s'il mérite examen à partir des faits disponibles.
 * **INCERTITUDE RÉSIDUELLE** : La teneur exacte et les motifs de rejet des 40 bulletins déclarés nuls (mentions manuscrites, éventuels suffrages libellés au nom du requérant ou de sa remplaçante) restent à vérifier, faisant l'objet de la demande de communication en cours sous RP-SEN-08.
 * **MESURE D'INSTRUCTION SOLLICITÉE** : Ordonner la communication du procès-verbal général et des 40 bulletins nuls afin que le Conseil constitutionnel puisse en apprécier lui-même la portée et les éventuelles mentions.
 
@@ -225,7 +227,7 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ### GRIEF N° 6 : Privation du débat constitutionnel sénatorial sur l'Autonomie de Capacité (art. 72-5 de la Constitution)
 
-* **FAIT** : La candidature du requérant portait le mandat explicite d'intervenir lors de la session parlementaire sénatoriale de fin octobre 2026 sur la révision constitutionnelle relative à l'autonomie de la Corse, au moyen de l'amendement d'effectivité à l'article 72-5 (v0.4-rc4).
+* **FAIT** : La candidature du requérant portait le mandat explicite d'intervenir lors de la session parlementaire sénatoriale de fin octobre 2026 sur la révision constitutionnelle relative à l'autonomie de la Corse, au moyen de l'amendement d'effectivité à l'article 72-5, dans sa version **0.4-rc4 publiée avant le scrutin**. La version **0.5-rc1 du 29 septembre 2026** constitue une évolution doctrinale postérieure et ne doit pas être rétroprojetée comme contenu de campagne.
 * **PREUVE** : Publication doctrinale « Autonomia » du 20 mai 2026 (**P-02**) ; texte de l'amendement constitutionnel (**P-23**) ; rapport des 6 cas d'application du Principe d'Effectivité (**P-24**).
 * **RÈGLE** : Principe de souveraineté nationale et pluralisme des courants d'idées et d'opinions garanti par l'article 4 de la Constitution.
 * **ÉCART** : Éviction préalable d'un projet parlementaire substantiel au détriment de la représentation démocratique des grands électeurs insulaires.
@@ -244,6 +246,26 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 * **INCIDENCE** : Nécessité impérieuse pour le Conseil constitutionnel de statuer au fond pour casser cette mécanique d'effacement capacitaire.
 * **INCERTITUDE RÉSIDUELLE** : Néant.
 * **MESURE D'INSTRUCTION SOLLICITÉE** : Déclarer la requête recevable et procéder à l'annulation pour rétablir la pleine effectivité des droits civiques.
+
+---
+
+### Note de séparation procédurale — QPC A
+
+Une piste de **question prioritaire de constitutionnalité** est étudiée séparément dans :
+
+`research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md`
+
+Elle **n'est pas intégrée comme moyen déjà recevable dans la présente requête**.
+
+Le contentieux des élections parlementaires relève directement du Conseil constitutionnel au titre de l'article 59 de la Constitution, tandis que le mécanisme de l'article 61-1 et des articles 23-1 et suivants de l'ordonnance du 7 novembre 1958 organise la QPC à partir d'une juridiction relevant du Conseil d'État ou de la Cour de cassation.
+
+La piste QPC ne pourra donc être cristallisée qu'après identification :
+
+- d'une disposition législative exacte ;
+- d'une instance admissible dans laquelle elle est applicable ;
+- d'un droit ou d'une liberté constitutionnellement garanti précisément invoqué.
+
+Cette réserve évite de confondre convergence doctrinale autour de l'effectivité et disponibilité procédurale d'une voie de droit.
 
 ---
 
@@ -305,7 +327,7 @@ Les 25 pièces probatoires scellées au registre d'intégrité décentralisé de
 | **P-20** | 14/09 18:00 | **Jugement du Tribunal administratif de Bastia** | Décision attaquée ayant refusé l'enregistrement | Jugement administratif | `research/senatoriales-2026/jugement_ta` |
 | **P-21** | 15–25/09 | 6 demandes administratives (CRPA/RGPD) | Diligences continues pour obtenir les journaux de connexion | Fichiers .eml certifiés | `trace/relances_crpa_rgpd` |
 | **P-22** | 25/09 16:59 | Mise en demeure de conservation des logs SMTP | Met l'État en demeure formelle de préserver les traces | Fichier .eml horodaté | `trace/2026-09-25_mise_en_demeure` |
-| **P-23** | 27/09/2026 | Amendement à l'article 72-5 (v0.4-rc4) | Établit la substance du mandat parlementaire visé | Document de doctrine | `autonomia/amendement_effectivite` |
+| **P-23** | 26/09/2026 | Amendement à l'article 72-5 (**v0.4-rc4**, état public pré-scrutin) | Établit la substance du mandat parlementaire documenté avant le scrutin | Document public de doctrine / proposition | `research/autonomia/amendement_effectivite_article_72-5.md` (historique de version) |
 | **P-24** | 27/09/2026 | Dossier méthodologique des 6 cas d'Effectivité | Démonstration scientifique du Principe d'Effectivité | Rapport d'étude | `case_studies/capable_test_72_5` |
 | **P-25** | 28/09/2026 | Annuaire public et étude d'exposition (616 électeurs) | Cartographie du collège électoral et hypothèses d'exposition | Base CSV + Analyse | `research/senatoriales-2026/data/annuaire` |
 | **P-26** | 28/09/2026 | Demande de communication des PV et bulletins nuls | Mise en œuvre de l'article 32 ord. n° 58-1067 (RP-SEN-08) | Acte administratif formel | `research/senatoriales-2026/demande_pv` |
