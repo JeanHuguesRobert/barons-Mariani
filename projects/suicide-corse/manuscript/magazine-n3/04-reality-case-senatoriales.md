@@ -12,6 +12,7 @@ source_documents:
   - "../../../research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
   - "../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
+  - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md"
   - "../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
 ---
 
@@ -72,6 +73,18 @@ Dans cette carte :
 La formule est volontairement modeste :
 
 > **nous ne savons pas ce qui se serait passé ; nous pouvons néanmoins éliminer ce qui ne pouvait pas suffire et mesurer ce qu’il aurait fallu pour changer l’issue du premier tour.**
+
+### Ce que les premiers probes changent
+
+La première matrice empirique ne fait pas apparaître un scénario « gagnant ». Elle permet surtout d’écarter deux raisonnements trop simples.
+
+D’un côté, les 76 blancs et nuls ne suffisent pas à eux seuls à produire un second tour.
+
+De l’autre, rien ne permet de supposer que les **442 voix observées sur Parigi auraient nécessairement été identiques** dans un scrutin à trois candidatures. Avant même le vote, la presse décrivait une partie de la droite comme privée de candidat propre ; après le scrutin, les analyses publiques ont souligné que Battini avait obtenu un score très supérieur à son noyau institutionnel identifiable et que des circulations avaient eu lieu au-delà des familles politiques visibles.
+
+Cela rend les scénarios de redistribution **dignes d’être instruits**, sans permettre de quantifier aujourd’hui la redistribution nécessaire pour franchir la borne 134–177.
+
+Le prochain travail consiste donc à chercher des probes plus discriminants : bulletins nuls, déclarations publiques d’élus sur des choix par défaut, consignes documentées et chronologie précise de la campagne empêchée.
 
 Les 76 blancs et nuls sont donc un fait observé ; leur motivation et leur répartition dans un scrutin contrefactuel restent inconnues.
 
