@@ -2,7 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
-last_modified_at: '2026-09-25'
+last_modified_at: '2026-09-29'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -99,19 +99,24 @@ Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`
 
 Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus.
 
-## Numéro 3 — en construction
+## Numéro 3 — Spécial sénatoriales — bouclage actif au 29 septembre 2026
 
 Le 23 septembre 2026, Jean Hugues Robert a confirmé explicitement que **le numéro 2 est totalement bouclé** et que **le numéro 3 est désormais en construction**.
 
 Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) et son journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
 
-Le numéro 3 n'a encore ni date, ni sommaire, ni longueur imposés. Son point de départ est le delta postérieur au n°2 gelé, notamment :
+Le numéro 3 est désormais qualifié **« Spécial sénatoriales »** avec une date éditoriale au **29 septembre 2026**. Son freeze reste à décider explicitement après rerender et vérification.
+
+Le bouclage, normalement organisé le lundi, est exceptionnellement décalé au mardi : le scrutin a eu lieu dimanche 27 septembre et les réactions du lundi ont matériellement amélioré l'analyse du Reality Case. L'exception est bornée et documentée par [`audits/2026-09-29-special-senatoriales-late-close.md`](../audits/2026-09-29-special-senatoriales-late-close.md).
+
+Son point de départ est le delta postérieur au n°2 gelé, notamment :
 
 - les six sondes Marie-Louise effectivement envoyées le 21 septembre et leurs premières réponses ;
 - les nouvelles traces Jean-Joseph Albertini et Minesteggio enregistrées le 23 septembre ;
 - les premiers Reality Tests post-n°2 du projet #1755 ;
 - les développements sur l'effectivité et le statut de résident ;
 - le **delta sénatorial du 25 septembre** : réception effective du jugement, résolution de l'heure d'enregistrement de la note en délibéré à 15:49, maintien de résidus documentaires précis, relance ciblée du greffe et demande formelle CRPA/RGPD à la préfecture avec conservation des traces techniques encore disponibles.
+- l'analyse post-scrutin du 29 septembre : résultats officiels, réactions publiques, correction des inférences excessives et **borne contrefactuelle 134–177 voix** pour le scénario de second tour, conservée comme borne et non comme prédiction.
 
 Pour ce dernier axe, le matériau canonique reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Il est enregistré comme **candidat éditorial** et non comme chapitre déjà décidé.
 
