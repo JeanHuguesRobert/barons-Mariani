@@ -8,9 +8,10 @@ source_of_truth: "repository corpus files and materially relevant issue traces; 
 
 architecture:
   inquiry: projects/suicide-corse/architecture.md
+  editorial: projects/suicide-corse/editorial-architecture.md
   project_index: projects/suicide-corse/README.md
   editions: projects/suicide-corse/editions/index.md
-  rule: "Corpus, inquiry architecture and edition architecture are distinct."
+  rule: "Corpus, inquiry architecture, documentary architecture and editorial architecture are distinct but interoperable."
 
 sources:
   - id: procedures-2024-2026-reactivation-register
@@ -22,6 +23,12 @@ sources:
     path: projects/suicide-corse/architecture.md
     role: project-architecture
     required: true
+
+  - id: suicide-corse-editorial-architecture
+    path: projects/suicide-corse/editorial-architecture.md
+    role: editorial-architecture
+    required: true
+    note: "Canonical working architecture for continuous publication, immutable editions, content/form asymmetry, paper materialization, collector-style projections and AI-assisted editorial transformation under epistemic constraints."
 
   - id: marie-louise-index
     path: memory/marie-louise/README.md
@@ -375,11 +382,19 @@ external_dependencies:
 editorial_rules:
   book_is_source_of_truth: false
   corpus_and_projection_are_distinct: true
+  publication_is_continuous: true
+  editions_are_immutable_snapshots: true
   edition_plan_is_not_inherited: true
   frozen_editions_are_immutable: true
   future_projection_is_editorially_free: true
   source_locked_is_not_editorial_locked: true
   delta_constrains_attention_not_form: true
+  content_history_constrains_future_content: true
+  past_form_does_not_constrain_future_form: true
+  corrections_are_first_class_content: true
+  paper_is_a_materialization_not_a_source: true
+  each_edition_may_have_an_independent_style: true
+  ai_may_expand_form_without_relaxing_epistemic_constraints: true
   machine_triptych_is_structural_center: true
   cross_scale_parallelism_requires_invariance_test: true
   no_collective_psychology_transfer: true
