@@ -1,7 +1,8 @@
 ---
 title: "De l'empêchement à la capacité"
-author: Jean Hugues Noël Robert
+author: "Jean Hugues Noël Robert"
 date: "2026-09-28"
+last_modified_at: "2026-09-29"
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -20,9 +21,11 @@ provenance:
     - research/second_method.md
     - research/potentics.md
     - research/noyau_doctrinal_rendre_capable.md
+    - research/bien_vivre.md
     - projects/suicide-corse/manuscript/03-machine-a-empecher.md
     - projects/suicide-corse/manuscript/05-machine-a-rendre-capable-de-vivre.md
     - projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md
+    - JeanHuguesRobert/cogentia/patterns/revealer-stabilizer/PATTERN.md
     - projects/suicide-corse/projections/n3-editorial-architecture.md
 review:
   status: unreviewed
@@ -38,251 +41,374 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Décrire ce qui empêche ne suffit pas.
 
-Une Machine à Empêcher peut réduire l'espace des actions accessibles. La reconnaître permet déjà de comprendre quelque chose. Mais si l'objectif est seulement de mieux nommer les obstacles, le livre reste du côté du diagnostic.
+Une Machine à Empêcher peut rendre visibles des blocages, mais un livre qui s'arrêterait là ne ferait qu'améliorer le diagnostic de l'impuissance.
 
-Le mouvement suivant est plus exigeant :
-
-> **qu'est-ce qui rend à nouveau capable ?**
-
-Le mot « impossible » devient alors utile à condition de ne pas en faire un effet de style. Il peut désigner une contradiction réelle, une impossibilité physique ou une limite juridique ferme. Mais il sert aussi souvent à nommer autre chose : un chemin que l'on ne connaît pas encore, un droit qu'on ne sait pas exercer, une ressource présente mais inaccessible, un interlocuteur introuvable, un délai qui rend une action impraticable, une compétence qui manque.
-
-L'Exploration Rationnelle du Possible commence précisément là : ne pas nier les limites, mais chercher où elles se trouvent réellement.
-
-## Une possibilité n'est pas encore une capacité
-
-Voir une porte ne signifie pas pouvoir la franchir.
-
-Une action peut être juridiquement permise mais administrativement impraticable. Techniquement possible mais trop coûteuse. Matériellement réalisable mais dépendante d'une information absente. Elle peut exiger un déplacement, une coordination, une compétence ou simplement du temps que la personne ne possède pas.
-
-Il faut donc distinguer au moins quatre étapes :
+Le mouvement constructif demande deux opérations différentes :
 
 ~~~text
-possible identifié
-→ moyens nécessaires
-→ capacité effectivement accessible
-→ action
+Explorer
+→ découvrir ou retrouver des possibles
+
+Rendre capable
+→ rendre certains de ces possibles effectivement praticables
 ~~~
 
-Puis vient ce que la méthode ne peut jamais remplacer :
+Cette distinction est centrale.
+
+Voir un chemin n'est pas pouvoir l'emprunter.
+
+## La Machine à Explorer
+
+La Machine à Explorer commence par refuser une confusion très ordinaire :
+
+> **ce que je ne sais pas faire maintenant n'est pas nécessairement impossible.**
+
+Certaines impossibilités sont réelles : contradiction logique, impossibilité physique, interdiction juridique ferme, ressource définitivement absente.
+
+D'autres ne sont encore que des impossibilités de notre carte : information inconnue, voie non essayée, interlocuteur non identifié, combinaison de ressources encore absente, hypothèse jamais testée.
+
+Explorer consiste donc à ouvrir la carte sans nier les limites du territoire.
 
 ~~~text
-action
+situation apparemment fermée
+→ hypothèses concurrentes
+→ recherche de branches
+→ petits tests
 → réponse du Réel
+→ branches fermées ou confirmées
 ~~~
 
-Cette distinction paraît abstraite. Elle est pourtant banale dans la vie quotidienne.
+Une réponse négative est utile.
 
-Un recours qui existe mais dont personne ne sait qu'il existe n'est pas une capacité réelle pour celui qui en aurait besoin.
+Un refus peut révéler une règle.
 
-Une formation ouverte à tous mais inaccessible faute de logement, de transport ou de financement n'est pas également ouverte à tous.
+Un silence peut révéler un canal inopérant.
 
-Une personne peut avoir juridiquement le droit d'agir et ne disposer d'aucune route praticable pour convertir ce droit en acte.
+Une source nouvelle peut invalider l'hypothèse qui avait lancé la recherche.
 
-C'est ce que ce livre appelle un **écart capacitaire**.
+Une contradiction peut sauver le projet d'une belle théorie fausse.
 
-## Rendre capable
+La Machine à Explorer n'a donc pas pour fonction de produire de l'optimisme. Elle produit de l'information sur le Possible.
 
-Une Machine à Rendre Capable n'a pas nécessairement la forme d'une institution.
+## Une possibilité n'est toujours pas une capacité
 
-Elle peut être une personne, un document, une association, un logiciel, une procédure simplifiée, une aide financière, un réseau ou une combinaison de plusieurs de ces éléments.
+Une fois un possible identifié, une seconde question apparaît :
 
-Sa fonction se mesure moins à son apparence qu'à son effet :
+> **qu'est-ce qui manque pour pouvoir réellement agir ?**
 
-> **qu'est-ce qui devient effectivement faisable après son intervention qui ne l'était pas, ou l'était beaucoup moins, avant ?**
+Une action peut être permise mais inconnue.
 
-Parfois, l'intervention est minuscule :
+Connue mais trop coûteuse.
+
+Finançable mais inaccessible faute de logement.
+
+Accessible matériellement mais dépendante d'un délai incompatible avec la situation.
+
+Techniquement possible mais inutilisable faute de compétence.
+
+Il faut donc distinguer :
+
+~~~text
+possible
+→ facteurs de conversion
+→ capacité effective
+→ action
+→ effets
+~~~
+
+Les **facteurs de conversion** sont tout ce qui permet de transformer un possible théorique en action accessible : information, argent, temps, outil, compétence, transport, logement, accompagnement, coordination, relation, infrastructure, voie de recours.
+
+C'est là qu'intervient la troisième Machine.
+
+## La Machine à Rendre Capable
+
+Une Machine à Rendre Capable n'est pas nécessairement une institution.
+
+Elle peut être une personne, un logiciel, un document, une association, une procédure, un réseau, une aide matérielle ou une combinaison de ces éléments.
+
+Son test est simple à formuler :
+
+> **qu'est-ce qui devient réellement faisable après son intervention qui ne l'était pas, ou beaucoup moins, avant ?**
+
+Parfois la différence tient à peu de chose :
 
 - rendre une information trouvable ;
 - expliquer un droit ;
 - identifier le bon interlocuteur ;
-- traduire un jargon administratif ;
-- mettre deux personnes en relation ;
-- transmettre une compétence ;
+- traduire un jargon ;
 - fournir un outil ;
+- mettre deux personnes en relation ;
 - conserver une trace ;
-- ouvrir une possibilité de recours ;
+- transmettre une compétence ;
+- obtenir du temps ;
+- ouvrir un second canal ;
 - permettre une sortie.
 
-Aucune de ces actions ne « résout » seule une situation complexe. Mais chacune peut agrandir l'espace des actions accessibles.
+Aucune de ces interventions ne garantit un résultat.
 
-C'est déjà beaucoup.
+Elles modifient l'espace des actions accessibles.
+
+C'est déjà leur fonction.
+
+## L'effectivité : le test du passage au réel
+
+Cette logique introduit un critère transversal : **l'effectivité**.
+
+Une capacité ne peut pas être évaluée seulement parce qu'un texte, une institution ou un dispositif affirme qu'elle existe.
+
+Il faut regarder :
+
+~~~text
+ce qui est proclamé
+→ ce qui est accessible
+→ ce qui peut être exercé
+→ ce qui est effectivement exercé
+→ ce que cela produit
+~~~
+
+La différence entre le premier et les suivants est précisément ce que les Révélateurs doivent rendre visible.
+
+C'est aussi ce que les Stabilisateurs doivent réduire sans l'enfouir.
+
+L'effectivité n'est donc pas l'efficacité au sens de la meilleure performance possible. Elle pose une question plus élémentaire :
+
+> **la capacité annoncée existe-t-elle réellement pour ceux qui sont censés pouvoir l'exercer ?**
+
+## Ouvrir ne suffit pas : stabiliser
+
+Une capacité peut être ouverte un jour et disparaître le lendemain.
+
+Elle peut dépendre d'une seule personne bienveillante, d'un numéro de téléphone, d'un compte, d'un financement exceptionnel, d'un intermédiaire ou d'un savoir non transmis.
+
+La capacité existe alors, mais elle reste fragile.
+
+Le rôle du **Stabilisateur** est de la rendre normalement praticable et reproductible.
+
+~~~text
+possible identifié
+→ capacité ouverte
+→ capacité exercée
+→ stabilisation
+→ capacité durable
+~~~
+
+Mais stabiliser ne veut pas dire figer.
+
+Un stabilisateur robuste doit rester capable de révéler ses propres échecs.
+
+> **Un bon stabilisateur internalise son révélateur.**
+
+Il doit permettre de voir lorsque la capacité qu'il prétend maintenir devient à nouveau trop coûteuse, trop lente, trop dépendante ou inaccessible.
+
+Sinon le stabilisateur peut devenir lui-même Machine à Empêcher.
+
+La boucle complète devient :
+
+~~~text
+empêchement
+→ révélation
+→ exploration
+→ capacité
+→ stabilisation
+→ mesure d'effectivité
+→ nouvel écart éventuel
+→ correction
+~~~
+
+## Toute capacité possède un revers
+
+Rendre capable n'est pas ajouter abstraitement du pouvoir.
+
+Une capacité ouverte pour l'un peut réduire celle d'un autre.
+
+Une procédure accélérée peut diminuer une garantie.
+
+Une mutualisation peut faciliter l'accès tout en créant une dépendance.
+
+Une publication peut rendre une situation compréhensible tout en exposant quelqu'un qui ne voulait pas l'être.
+
+Chaque intervention doit donc conserver trois questions :
+
+~~~text
+qu'est-ce qui devient possible ?
+qu'est-ce qui devient plus difficile ou plus dépendant ?
+qui porte le coût, le risque ou la perte ?
+~~~
+
+Une Machine à Rendre Capable incapable de voir ses revers peut très vite produire une nouvelle Machine à Empêcher.
+
+## Agir petit pour apprendre
+
+Quand l'incertitude est forte, un petit Act borné peut apprendre davantage qu'une grande construction théorique.
+
+~~~text
+hypothèse
+→ Act
+→ Réel
+→ observation
+→ correction
+→ nouvel Act
+~~~
+
+Mais le petit Act ne doit pas devenir un refuge.
+
+Si plusieurs expériences convergent vers le même obstacle structurel, répéter indéfiniment les contournements revient à stabiliser l'empêchement.
+
+La question doit alors changer :
+
+> **faut-il encore contourner, ou faut-il agir sur le mécanisme qui reproduit le blocage ?**
 
 ## Le cas-limite : rendre capable de vivre
 
-Le titre *Suicide Corse* oblige à aller jusqu'au point le plus grave sans prétendre avoir démontré davantage que ce que les traces permettent.
+Le titre *Suicide Corse* oblige cette grammaire à rencontrer son cas le plus grave.
 
-Une contraction cumulative de capacités peut, dans certaines situations, contribuer à réduire l'espace des futurs qu'une personne perçoit comme accessibles et désirables.
+Une contraction cumulative des capacités peut, dans certaines situations, contribuer à réduire l'espace des futurs qu'une personne perçoit comme accessibles et désirables.
 
-La chaîne candidate est simple à écrire et difficile à établir :
+On peut écrire une chaîne candidate :
 
 ~~~text
 empêchements
 → capacités réduites
 → alternatives perçues réduites
-→ futurs désirables plus rares
-→ sentiment d'impasse
+→ futurs désirables moins accessibles
+→ sentiment d'impasse possible
 → souffrance
 → risque suicidaire
 ~~~
 
-Chaque flèche possède son propre niveau de preuve.
+Mais chaque flèche possède son propre niveau de preuve.
 
-Documenter un obstacle ne documente pas automatiquement l'état intérieur d'une personne. Documenter plusieurs fermetures ne permet pas d'écrire qu'elle croyait tous les possibles fermés. Une chaîne causale ne devient pas solide par accumulation de maillons faibles.
+Un obstacle documenté ne documente pas l'état intérieur d'une personne.
 
-Le symétrique constructif peut néanmoins être formulé sans prétendre expliquer rétrospectivement Marie-Louise :
+Plusieurs fermetures ne prouvent pas que tous les futurs aient été perçus comme fermés.
 
-> **rendre capable de vivre, c'est contribuer à ouvrir, maintenir ou rouvrir au moins un futur que la personne puisse encore percevoir comme accessible et désirable.**
+Et connaître l'issue tragique ne donne aucun droit de reconstruire rétrospectivement une causalité parfaite.
 
-Cette formulation n'est ni une thérapie, ni une théorie générale du suicide. C'est un objet d'action : chercher ce qui rouvre réellement un espace de possibilités.
+La prudence n'oblige pourtant pas à abandonner le symétrique constructif.
 
-## Une difficulté n'est pas nécessairement une fermeture
+> **Rendre capable de vivre, c'est contribuer à ouvrir, maintenir ou rouvrir au moins un futur que la personne puisse encore percevoir comme accessible et désirable.**
 
-Cette distinction protège l'enquête contre un autre raccourci.
+La **Machine à Rendre Capable de Vivre** est donc un cas-limite de la Machine à Rendre Capable.
 
-Une charge, une friction ou un obstacle documenté n'entraîne pas nécessairement une perte de capacité.
+Elle n'est ni une thérapie générale, ni une promesse de sauver quelqu'un, ni une explication de la mort de Marie-Louise.
 
-Marie-Louise en fournit elle-même plusieurs exemples. À Nantes, une difficulté administrative menace son statut étudiant en 2017 ; les traces ultérieures montrent pourtant la poursuite des études. La friction existe, mais elle est absorbée.
+Elle pose une question d'action :
 
-En janvier 2024, elle organise concrètement la prise en charge de sa mère et évoque son statut d'aidante. Cette charge est documentée. Rien ne permet pourtant, à partir de ce seul fait, d'affirmer quelle capacité précise elle aurait fermée.
+> **qu'est-ce qui peut rendre à nouveau praticable une branche de vie que la personne elle-même puisse reconnaître comme désirable ?**
 
-La règle est importante :
+Cette question oblige à prendre au sérieux les préférences de la personne.
+
+Rendre capable de vivre ne signifie pas décider à sa place de la vie qu'elle devrait mener.
+
+Le document `research/bien_vivre.md` formule cette exigence positivement : bien vivre ne consiste pas seulement à éviter la fermeture, mais à conserver durablement la capacité de construire, expérimenter et réviser une vie que l'on a des raisons de juger bonne.
+
+C'est pourquoi le mot **réviser** est essentiel.
+
+Un futur doit pouvoir être essayé, quitté, corrigé, remplacé.
+
+Une seule route, même ouverte, peut rester une prison.
+
+## Les buffers : ce qui empêche une friction de devenir fermeture
+
+La recherche des Machines à Empêcher doit être symétrique.
+
+Il faut chercher ce qui ferme, mais aussi ce qui absorbe.
+
+Un revenu.
+
+Un logement.
+
+Du temps.
+
+Une relation.
+
+Une bourse.
+
+Un interlocuteur.
+
+Un deuxième canal.
+
+Une compétence.
+
+Une institution qui répond.
+
+Ces éléments peuvent agir comme **buffers de capacité** : ils empêchent une charge ou une friction de devenir une fermeture.
+
+La règle reste :
 
 ~~~text
 LOAD ≠ CLOSE
 FRICTION ≠ CLOSE
 ~~~
 
-Une enquête sur les empêchements doit donc chercher aussi les **buffers** : ce qui absorbe les chocs, maintient une branche ouverte ou permet de la rouvrir.
+Un obstacle peut être absorbé.
 
-## Ouvrir ne suffit pas : il faut stabiliser
+Une fermeture peut être rouverte.
 
-Le Corpus ajoute ici une étape essentielle.
+Une capacité peut être déplacée vers une autre branche.
 
-Une capacité ouverte ponctuellement peut rester extrêmement fragile si elle dépend d'une seule personne, d'un seul canal ou d'une circonstance exceptionnelle.
+Chercher seulement les empêchements produirait un récit biaisé précisément au moment où ce livre prétend comprendre les capacités.
 
-D'où le rôle du **Stabilisateur**.
+## Le livre comme Machine à Explorer
 
-Un stabilisateur n'a pas pour fonction de rendre tout possible. Il organise suffisamment l'action pour qu'elle reste normalement praticable, traçable et corrigible.
+*Suicide Corse* participe lui-même à cette architecture.
 
-~~~text
-capacité ouverte
-→ usage possible
-→ stabilisation
-→ capacité durable
-~~~
+Il recueille des traces.
 
-La question devient alors :
+Il formule des hypothèses.
 
-> **si la personne, l'outil ou l'intermédiaire qui a ouvert la porte disparaît, qu'est-ce qui reste capable ?**
+Il publie des questions.
 
-Cette question vaut pour un individu comme pour une organisation.
+Des personnes répondent.
 
-Une aide qui rend son intermédiaire indispensable peut ouvrir une capacité aujourd'hui tout en créant une dépendance demain.
+Des institutions répondent.
 
-Un système numérique peut simplifier une démarche mais enfermer les données dans un fournisseur unique.
+Des contradictions apparaissent.
 
-Un relais exceptionnel peut résoudre un problème une fois sans que personne ne sache reproduire la solution.
+Certaines branches se ferment ; d'autres s'ouvrent.
 
-Rendre capable implique donc souvent de produire plusieurs routes, de conserver la trace de ce qui a marché et de permettre la sortie.
+À ce titre, le livre est d'abord une **Machine à Explorer**.
 
-## Toute capacité a son revers
+Il peut parfois devenir une Machine à Rendre Capable lorsqu'il fournit une information, une méthode, une trace ou un canal qui permet effectivement une action auparavant inaccessible.
 
-Un gain capacitaire n'est pas automatiquement un progrès net.
+Mais il ne doit jamais présumer qu'il y réussit.
 
-Une capacité ouverte pour l'un peut réduire celle d'un autre. Une procédure plus rapide peut diminuer une garantie. Une mutualisation peut simplifier l'accès tout en supprimant une autonomie. Une publication peut éclairer une situation tout en exposant une personne au-delà de ce qu'elle souhaitait.
-
-Chaque intervention devrait donc pouvoir répondre à trois questions :
-
-~~~text
-qu'est-ce qui devient possible ?
-qu'est-ce qui devient plus difficile ou plus dépendant ?
-qui porte le coût ou le risque ?
-~~~
-
-Ce test interdit une version naïve de la Machine à Rendre Capable.
-
-Le but n'est pas d'ajouter du pouvoir abstrait, mais d'augmenter une capacité utile sans masquer les dépendances et les pertes produites ailleurs.
-
-## Agir petit pour apprendre
-
-L'Exploration Rationnelle du Possible ne demande pas d'attendre une théorie parfaite.
-
-Lorsque l'incertitude est forte, un petit **Act** borné peut apprendre davantage qu'une longue spéculation.
-
-~~~text
-hypothèse
-→ petit Act
-→ réponse du Réel
-→ correction
-→ nouvel Act
-~~~
-
-Un refus est une réponse.
-
-Un silence borné peut devenir une information.
-
-Une source nouvelle peut invalider une hypothèse.
-
-Une institution peut expliquer qu'une règle interprétée comme empêchante protège en réalité une autre capacité.
-
-Un témoin peut dire : « ce n'est pas ce que j'ai vécu ».
-
-Le projet doit conserver ces réponses même lorsqu'elles dérangent la lecture initiale.
-
-Mais les petits Acts ont eux aussi un piège : ils peuvent devenir une manière élégante d'éviter un obstacle structurel.
-
-Si plusieurs expériences convergent vers le même empêchement, la question change :
-
-> **faut-il continuer à contourner l'obstacle, ou agir désormais sur l'obstacle lui-même ?**
-
-## Le livre comme Act
-
-À partir de là, *Suicide Corse* cesse d'être seulement un texte.
-
-Sa publication devient elle-même une expérience.
-
-Le livre formule des observations et des hypothèses. Des personnes répondent. Des institutions répondent. Des documents apparaissent. Des contradictions surgissent. Des erreurs sont découvertes.
-
-La version suivante doit dépendre de ces réponses.
-
-C'est déjà ce qui se produit entre les numéros 2 et 3 : des témoins ont répondu, de nouvelles photographies ont été signalées ou retrouvées, des institutions ont fourni des références ou des explications, et au moins un témoignage privé a contesté fortement une partie de la lecture de l'auteur.
-
-La valeur du dispositif tient précisément à cette possibilité de correction.
+La publication elle-même est un Reality Test.
 
 > **Le Corpus conserve la réponse ; il ne possède pas le Réel qui répond.**
 
 ## Réaliser l'impossible
 
-Le sous-titre du livre peut maintenant être lu plus précisément.
+Le sous-titre du livre devient alors plus précis.
 
 « Réaliser l'impossible » ne signifie pas accomplir ce qui est réellement impossible.
 
-Cela signifie refuser qu'une impossibilité supposée devienne vraie uniquement parce que personne n'a cherché la condition qui manque.
-
-La démarche peut se résumer ainsi :
+Il signifie empêcher qu'une incapacité contingente soit confondue avec une impossibilité.
 
 ~~~text
-voir le possible
-→ vérifier qu'il existe
-→ identifier ce qui manque
-→ obtenir ou créer les moyens nécessaires
-→ rendre le chemin praticable
-→ stabiliser la capacité
+révéler l'empêchement
+→ explorer le Possible
+→ identifier les facteurs de conversion
+→ rendre capable
+→ stabiliser sans figer
 → agir
-→ observer
+→ mesurer l'effectivité
+→ laisser le Réel répondre
 → corriger
 ~~~
 
-Parfois, la réponse finale sera : **cela ne marche pas**.
-
-C'est utile si cette réponse ferme proprement une branche.
+Parfois la réponse sera : **cela ne marche pas**.
 
 Parfois : **cela marche, mais autrement**.
 
-Ou : **la porte était ouverte, mais personne ne savait comment l'atteindre**.
+Parfois : **la capacité existait juridiquement mais pas réellement**.
 
-Ou encore : **la solution ouvre une capacité et en ferme une autre**.
+Parfois encore : **la solution ouvre une capacité et en ferme une autre**.
 
-Dans tous les cas, la méthode a progressé si elle permet de distinguer une impossibilité réelle d'une incapacité contingente.
+La méthode ne promet pas que le Possible soit infini.
 
-Et si, au terme de cette exploration, quelqu'un peut effectivement faire ce qui lui était auparavant inaccessible, alors l'impossible aura reculé là où cela compte : non dans le discours, mais dans l'espace des actions possibles.
+Elle demande seulement de ne pas fermer trop tôt ce qui pourrait encore être rendu accessible.
+
+Et, dans son cas-limite, elle demande quelque chose de plus simple à dire que facile à faire :
+
+> **chercher ce qui peut encore rendre la vie praticable, révisable et désirable pour celle ou celui qui doit la vivre.**
