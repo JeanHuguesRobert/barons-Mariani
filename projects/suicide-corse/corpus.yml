@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-28"
+updated: "2026-09-29"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -194,6 +194,18 @@ sources:
     required: false
     note: "Reader-first audit of Book, Magazine and Annexes before verification rendering."
 
+  - id: suicide-corse-n3-special-senatoriales-late-close-2026-09-29
+    path: projects/suicide-corse/audits/2026-09-29-special-senatoriales-late-close.md
+    role: exceptional-late-close-audit
+    required: true
+    note: "Records the bounded one-day shift from Monday to Tuesday so the Special senatoriales can absorb post-scrutin reactions and the 134–177 bounded second-tour counterfactual before freeze."
+
+  - id: senatoriales-2026-third-candidacy-bounded-counterfactual
+    path: research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md
+    role: electoral-counterfactual-analysis
+    required: true
+    note: "Canonical source for the arithmetic distance to a second round. It explicitly distinguishes facts, bounds, hypotheses and predictions."
+
   - id: suicide-corse-n3-final-content-sweep-2026-09-28
     path: projects/suicide-corse/audits/2026-09-28-final-content-sweep-n3.md
     role: final-content-audit
@@ -300,8 +312,9 @@ projections:
   numero_3:
     issue: 84
     state: working
-    editorial_date: "2026-09-28"
-    close_target: "Monday morning Europe/Paris; exact freeze time not yet fixed"
+    editorial_date: "2026-09-29"
+    edition_label: "Spécial sénatoriales"
+    close_target: "Tuesday 29 September 2026 — exceptional one-day late close after Sunday vote and Monday reactions"
     contract: projects/suicide-corse/projections/book-n3-working.yml
     journal: projects/suicide-corse/journals/2026-09-23-n3-construction.md
     baseline_commit: f061abb2484dc5ee973d81865db5c9d3b5854d58
