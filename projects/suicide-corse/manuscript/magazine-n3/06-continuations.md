@@ -1,7 +1,7 @@
 ---
 title: "Continuations"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
+date: "2026-09-29"
 status: draft
 language: fr
 document_role: derived
@@ -12,7 +12,7 @@ lifecycle_state: working
 
 # Continuations
 
-Le registre complet des chantiers ouverts reste dans le Corpus. Pour le lecteur du Magazine, six suffisent à définir la suite.
+Le registre complet des chantiers ouverts reste dans le Corpus. Pour le lecteur du Magazine, une courte sélection suffit à définir la suite.
 
 1. **Villa Arson** — retrouver la décision primaire relative à la candidature de réintégration de mars 2024 : date, formulation et motif.
 2. **Contributions annoncées** — recevoir et qualifier les compléments promis sans relance indue.
