@@ -4,8 +4,8 @@ subtitle: "Liberté, Égalité, Fraternité — l’effectivité comme exigence 
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Association C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-last_modified_at: "2026-09-26"
-version: "0.4-rc4"
+last_modified_at: "2026-09-29"
+version: "0.5-rc1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -34,6 +34,7 @@ changelog:
   - "v0.4-rc2 (2026-09-26) — intégration de la revue adverse Claude sur rc1 : levée de l’ambiguïté de « leurs effets », périodicité explicite, distinction entre évaluation des normes et évaluation du régime, retour explicite de Liberté, Égalité, Fraternité comme finalités d’effectivité sans faire de l’article 2 un fondement juridictionnel unique."
   - "v0.4-rc3 (2026-09-26) — intégration sélective de la revue adverse Gemini : abandon de l’ajout autonome au profit d’une reformulation du mécanisme d’évaluation déjà présent ; mise en œuvre effective plutôt qu’« exercice » seul ; prise en compte neutre du non-usage ; articulation explicite entre normes, régime et Liberté-Égalité-Fraternité."
   - "v0.4-rc4 (2026-09-26) — séparation nette entre une version parlementaire courte, conforme aux usages d’amendement, et la note de justification ; ciblage explicite de l’alinéa 6 du texte Sénat n° 782 ; ajout d’une note de traçabilité institutionnelle sur les travaux de Florent Boudié et la contribution C.O.R.S.I.C.A."
+  - "v0.5-rc1 (2026-09-29) — jalon doctrinal : explicitation de l’hypothèse d’une exigence d’effectivité déjà latente et fragmentée dans le bloc de constitutionnalité ; rapprochement avec les régimes constitutionnels d’expérimentation et d’évaluation ; Corse présentée comme terrain borné d’un Reality Test constitutionnel, sans présomption de généralisation ni modification du dispositif parlementaire."
 ---
 
 # Amendement d’effectivité — version parlementaire
@@ -96,6 +97,108 @@ ce que le droit ouvre
 La proposition constitutionnelle doit rester plus précise et plus sobre que la maxime qui l’inspire.
 
 ---
+
+
+## 1 bis. Jalon doctrinal — l’effectivité comme exigence constitutionnelle latente
+
+La présente version pose une hypothèse de travail plus structurante, sans la présenter comme une règle jurisprudentielle déjà consacrée :
+
+> **l’effectivité peut être comprise non comme une valeur extérieure qu’il faudrait ajouter à la Constitution, mais comme une exigence déjà présente de manière fragmentée dans le bloc de constitutionnalité et dans les mécanismes constitutionnels d’expérimentation.**
+
+Cette hypothèse repose sur plusieurs prises distinctes qu’il convient de ne pas confondre.
+
+### 1 bis.1. De la proclamation à la garantie
+
+L’article 16 de la Déclaration de 1789 ne se borne pas à constater l’existence de droits. Il dispose qu’une société dans laquelle leur **garantie n’est pas assurée** n’a point de Constitution.
+
+Le Conseil constitutionnel en déduit notamment une exigence de **recours juridictionnel effectif**. Sa jurisprudence montre ainsi qu’une voie de recours formellement prévue ne suffit pas toujours : encore faut-il que son exercice soit réellement garanti.
+
+Cette jurisprudence ne suffit pas, à elle seule, à établir l’existence d’un principe constitutionnel général d’effectivité applicable indistinctement à tout droit, toute liberté ou toute compétence. Elle établit néanmoins un point essentiel pour la présente recherche :
+
+> **le droit constitutionnel positif connaît déjà la différence entre l’existence formelle d’une garantie et son caractère effectivement exerçable.**
+
+### 1 bis.2. La Constitution connaît déjà l’expérimentation comme méthode de prudence
+
+Les articles 37-1 et 72 de la Constitution permettent des dispositifs expérimentaux, et l’article 72 encadre expressément les dérogations territoriales expérimentales par un objet et une durée limités.
+
+Le droit de l’expérimentation ajoute une exigence méthodologique décisive : l’expérimentation doit pouvoir être **évaluée avant son extension, sa modification, sa généralisation ou son abandon**.
+
+La chaîne constitutionnelle et organique pertinente peut donc être représentée ainsi :
+
+```text
+faculté juridique
+→ expérimentation bornée
+→ mise en œuvre réelle
+→ observation
+→ évaluation
+→ maintien / correction / abandon / éventuelle extension
+```
+
+Cette logique est proche de celle que le présent amendement propose d’appliquer au nouveau régime d’autonomie : ne pas présumer qu’une faculté constitutionnelle fonctionne parce qu’elle est écrite, mais rendre observable sa mise en œuvre et ses effets.
+
+### 1 bis.3. Une remise en cohérence plutôt qu’une invention ex nihilo
+
+L’hypothèse défendue à ce stade n’est donc pas :
+
+> **« la Constitution consacre déjà un principe général et autonome d’effectivité ayant exactement le contenu proposé ici ».**
+
+Une telle affirmation serait excessive en l’état de la jurisprudence.
+
+L’hypothèse plus étroite est :
+
+> **la Constitution et le bloc de constitutionnalité contiennent déjà plusieurs exigences particulières de garantie effective, de mise en œuvre, d’expérimentation, d’évaluation et de contrôle ; leur rapprochement fait apparaître une cohérence possible que le futur article 72-5 permettrait de tester explicitement.**
+
+Le présent amendement peut alors être lu comme une tentative de **mise en cohérence** : il ne transforme pas l’effectivité en quatrième terme de la devise et ne prétend pas reconstruire l’ensemble du droit constitutionnel. Il propose de rendre explicite, pour un objet territorial borné, la différence entre une capacité seulement proclamée et une capacité réellement mobilisable.
+
+### 1 bis.4. La Corse comme laboratoire constitutionnel borné
+
+La qualification de la Corse comme **laboratoire institutionnel** n’est pas seulement doctrinale. Les travaux parlementaires ont déjà décrit le statut particulier de 1982 comme une anticipation du mouvement de décentralisation ultérieurement étendu aux régions françaises et, en ce sens, comme un « laboratoire de la décentralisation ».
+
+Le choix de la Corse comme terrain d’un test d’effectivité ne repose donc pas uniquement sur sa taille ou son insularité. Il repose sur une combinaison :
+
+- une population et un territoire suffisamment circonscrits pour rendre certains effets plus lisibles ;
+- une collectivité à statut particulier déjà constituée ;
+- plusieurs décennies d’innovations institutionnelles et de différenciation ;
+- une expérience documentée des écarts entre facultés juridiques d’adaptation et usage réel de ces facultés ;
+- un projet constitutionnel en cours qui ouvre précisément de nouvelles capacités normatives.
+
+La petitesse relative du terrain n’est pas, à elle seule, un argument de légitimité. Elle devient méthodologiquement utile si elle permet de **borner le risque, observer les effets et préserver la possibilité de correction**.
+
+### 1 bis.5. Le test ne présume pas sa généralisation
+
+Le raisonnement expérimental interdit de transformer la Corse en preuve anticipée d’une théorie.
+
+Le test proposé doit pouvoir conduire à plusieurs conclusions :
+
+```text
+maintenir
+corriger
+réduire
+abandonner
+ou, si les résultats le justifient, examiner une transposition
+```
+
+Une réussite corse ne démontrerait donc pas qu’un même dispositif doit être appliqué uniformément à l’ensemble de la République. Elle produirait une **information constitutionnelle nouvelle** sur les conditions dans lesquelles des droits, libertés ou capacités peuvent être rendus plus effectifs.
+
+Inversement, un échec, un effet indésirable ou une rupture d’égalité insuffisamment justifiée devrait pouvoir conduire à corriger ou abandonner la branche testée.
+
+Cette absence de présomption de généralisation est une condition de prudence et non une faiblesse du projet.
+
+### 1 bis.6. Portée du jalon
+
+Ce jalon renforce la justification du dispositif sans modifier sa rédaction parlementaire.
+
+Il relie désormais explicitement quatre niveaux :
+
+```text
+garantie constitutionnelle
+→ effectivité de l’exercice
+→ expérimentation bornée
+→ évaluation et correction
+```
+
+La question de savoir si cette convergence permettrait, au-delà du cas corse, de reconnaître un principe constitutionnel plus général d’effectivité reste ouverte. Elle doit être testée par l’analyse doctrinale, la jurisprudence, les contentieux pertinents et, si le constituant adopte un tel mécanisme, par l’expérience elle-même.
+
 
 ## 2. Point de départ : ce que le futur article 72-5 ouvre déjà
 
@@ -700,6 +803,19 @@ https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
 
 **R6 — Conseil constitutionnel, décision n° 2018-717/718 QPC du 6 juillet 2018.** Reconnaissance du principe de fraternité comme principe à valeur constitutionnelle à partir notamment de la devise de l’article 2, du Préambule et de l’article 72-3.  
 https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018
+
+
+**R7 — Déclaration des droits de l’homme et du citoyen de 1789, article 16.** La garantie des droits comme composante de l’ordre constitutionnel ; fondement notamment du droit à un recours juridictionnel effectif.  
+https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527443
+
+**R8 — Constitution, articles 37-1 et 72.** Fondements constitutionnels des expérimentations normatives et territoriales ; pour l’article 72, dérogations expérimentales à objet et durée limités dans l’exercice des compétences territoriales.  
+https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
+
+**R9 — Conseil d’État, avis du 12 novembre 2015 sur la proposition de loi d’expérimentation pour des territoires « zéro chômage de longue durée ».** Le Conseil d’État rappelle qu’une expérimentation doit être évaluée avant son extension, sa modification, sa généralisation ou son abandon et que les modalités de cette évaluation doivent être suffisamment définies.  
+https://conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-la-proposition-de-loi-d-experimentation-pour-des-territoires-zero-chomage-de-longue-duree
+
+**R10 — Assemblée nationale, rapport de la commission d’enquête sur l’utilisation des fonds publics et la gestion des services publics en Corse.** Le rapport qualifie explicitement la période 1982-1992 de « laboratoire institutionnel » et décrit le statut de 1982 comme une anticipation du mouvement de décentralisation ensuite étendu aux régions françaises.  
+https://www.assemblee-nationale.fr/11/dossiers/corse/corse303.asp
 
 ---
 
