@@ -549,7 +549,7 @@ il est demandé au Conseil constitutionnel de :
 **P16.** Résultats officiels du scrutin du même jour en Corse-du-Sud, à titre comparatif strictement descriptif.  
 **P17.** Éléments établissant les conditions de la campagne audiovisuelle postérieures au jugement, uniquement pour démontrer l’impossibilité de reconstituer ex post le positionnement et l’audience d’une candidature évincée.  
 **P18.** Toute pièce obtenue avant le dépôt concernant le procès-verbal du scrutin, les bulletins nuls ou les transmissions techniques restant actuellement inconnues.  
-**P19.** Document complet du 26 septembre 2026 intitulé **« Amendement d’effectivité — version parlementaire et note de justification »**, version `0.4-rc4`.
+**P19.** Document complet du 26 septembre 2026 intitulé **« Amendement d’effectivité — version parlementaire et note de justification »**, version `0.4-rc4`, **état public pré-scrutin**. La version `0.5-rc1` du 29 septembre est une évolution doctrinale postérieure et ne doit pas être rétroprojetée comme contenu de campagne.
 
 ---
 
@@ -603,6 +603,8 @@ Cette précision ne préjuge aucunement du nombre de suffrages qu’aurait recue
 Elle établit seulement que la troisième candidature correspondait à une **offre politique et parlementaire distincte**, dont le contenu peut être constaté sans spéculation.
 
 Le document complet du 26 septembre 2026 intitulé **« Amendement d’effectivité — version parlementaire et note de justification »**, version `0.4-rc4`, est produit comme pièce P19.
+
+La version `0.5-rc1` du 29 septembre 2026 peut être citée comme **continuation doctrinale post-scrutin** sur l’effectivité constitutionnelle et l’expérimentation. Elle n’est pas utilisée pour modifier rétroactivement la substance de l’offre électorale documentée avant le vote.
 
 ---
 
