@@ -3,7 +3,7 @@ title: "Requête en contestation d'élection sénatoriale — Haute-Corse 2026"
 subtitle: "Conseil constitutionnel — contentieux de l'élection du 27 septembre 2026 (circonscription de la Haute-Corse)"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-29"
-version: "0.3-draft"
+version: "0.4-draft"
 status: "working-draft — intermediate public version, not filed with the Conseil constitutionnel"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -302,7 +302,29 @@ Cette comparaison ne démontre aucune causalité. Elle montre néanmoins que le 
 
 Lors de l’élection sénatoriale de Corse-du-Sud du 27 septembre 2020, à laquelle le requérant avait effectivement participé, 344 suffrages avaient été exprimés sur 427 inscrits, soit **80,56 % des inscrits** et **85,15 % des votants**. Le requérant avait alors obtenu huit suffrages.
 
-Ces données commandent la prudence : les comportements d’un collège sénatorial ne peuvent être reconstruits à partir de sa seule composition publique ou de soutiens publiquement identifiables.
+Ce précédent historique ne saurait toutefois être utilisé comme estimateur de l’audience de la candidature de 2026.
+
+La candidature sénatoriale de 2026 n’était pas la simple réitération d’une candidature personnelle antérieure de M. Robert. Elle constituait une **alliance électorale**, présentée sous l’étiquette **« Le Petit Parti - A Voce »**, associant le requérant au courant politique animé par M. Jean-François Baccarelli.
+
+M. Baccarelli dispose lui-même d’une histoire électorale distincte. Il a notamment recueilli **1 051 voix, soit 3,62 % des suffrages exprimés**, lors du premier tour des élections législatives de 2007 dans la première circonscription de Haute-Corse.
+
+Lors des élections territoriales corses de 2017, il a par ailleurs présenté une liste complète de candidats. Les résultats officiels attribuent zéro suffrage à cette liste, mais les sources officielles précisent qu’elle **n’avait déposé ni bulletin de vote ni propagande**.
+
+Ce « zéro » ne saurait donc être interprété comme la mesure d’une audience électorale effectivement confrontée au suffrage : les électeurs ne disposaient pas des instruments matériels ordinaires permettant de voter pour cette liste.
+
+La candidature sénatoriale de 2026 constituait ainsi un objet électoral différent des candidatures personnelles précédemment présentées par le requérant en 2017, 2020 ou 2024 : personnes associées, étiquette, histoire électorale et réseaux mobilisables n’étaient pas identiques.
+
+Il serait dès lors méthodologiquement erroné d’utiliser les résultats personnels antérieurs de M. Robert comme mesure, plafond ou prédicteur de l’audience de l’alliance de 2026.
+
+Ces résultats constituent des faits historiques pertinents pour retracer son parcours électoral. Ils ne constituent pas un échantillon homogène permettant d’estimer le comportement du collège sénatorial face à une candidature de composition différente.
+
+Cette réserve vaut dans les deux sens : elle ne permet ni de présumer un score faible, ni d’extrapoler un score élevé.
+
+**L’audience propre de l’alliance électorale « Le Petit Parti - A Voce » demeure précisément inconnue parce que cette candidature n’a jamais été soumise au suffrage des grands électeurs.**
+
+Cette donnée renforce le principe méthodologique qui gouverne le présent moyen : l’absence d’observation produite par l’exclusion de la candidature ne peut être remplacée par une extrapolation à partir d’objets électoraux différents.
+
+Les comportements d’un collège sénatorial ne peuvent, plus généralement, être reconstruits à partir de sa seule composition publique ou de soutiens publiquement identifiables.
 
 Le vote est secret.
 
@@ -411,6 +433,8 @@ Le requérant est conscient que M. Parigi a obtenu une majorité importante parm
 Cet écart mesure exclusivement le scrutin effectivement organisé entre les deux candidats admis.
 
 Il ne mesure pas le scrutin qui aurait eu lieu si une troisième candidature distincte avait régulièrement participé à la campagne et au vote.
+
+Cette impossibilité de reconstruction est renforcée par le fait que la candidature de 2026 constituait une alliance électorale nouvelle. Les résultats personnels obtenus antérieurement par le requérant dans d’autres configurations électorales ne forment donc pas un comparable homogène permettant d’en déduire l’audience de cette candidature.
 
 La question juridictionnelle n’est donc pas : **« le requérant peut-il prouver aujourd’hui qu’il aurait battu M. Parigi ? »**
 
