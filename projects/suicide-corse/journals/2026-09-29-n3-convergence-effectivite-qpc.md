@@ -187,6 +187,18 @@ Et le test compact associé est :
 
 > **Un bon stabilisateur internalise son révélateur.**
 
+Correction taxonomique importante :
+
+> **Révélateur / Stabilisateur ne constitue pas une quatrième ou une cinquième Machine.**
+
+Le cadre opérationnel reste :
+
+- Machine à Empêcher ;
+- Machine à Explorer ;
+- Machine à Rendre Capable.
+
+Révélateur / Stabilisateur est une **méta-boucle transversale** : elle permet d’observer ce que font réellement ces Machines, de rendre visibles leurs écarts d’effectivité et de stabiliser les capacités utiles sans rendre leurs propres échecs invisibles.
+
 Conséquence pour le présent chantier : les travaux QPC, l’amendement d’effectivité et le bouclage de *Suicide Corse n°3* peuvent être coordonnés comme **instanciations** de ce pattern, sans faire remonter leurs détails politiques ou juridiques particuliers dans le pattern générique.
 
 Cette séparation des niveaux évite la dispersion :
