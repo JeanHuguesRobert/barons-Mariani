@@ -48,28 +48,19 @@ que :
 
 > **qu'est-ce qui, dans le système réel, a rendu une action moins accessible, plus fragile ou pratiquement impossible ?**
 
-## Du droit ou du possible à la capacité effective
+## Quand l'écart devient un mécanisme
 
-Un droit écrit n'est pas encore une capacité.
+Le chapitre précédent a distingué possibilité formelle et capacité effective. La Machine à Empêcher désigne ce qui **produit ou entretient cet écart**.
 
-Une place disponible n'est pas encore une place accessible.
-
-Une procédure ouverte n'est pas encore une procédure praticable.
-
-Une possibilité peut rester vraie sur le papier tout en disparaissant presque entièrement dans la réalité par manque de temps, d'information, de ressources, de coordination, de confiance, de logement, de transport, de soutien ou de voie de recours utilisable.
-
-C'est cet écart que ce livre cherche à rendre visible :
+Elle n'abolit pas nécessairement un droit ou une possibilité. Elle peut en rendre l'exercice progressivement plus coûteux, incertain, tardif ou dépendant jusqu'à ce que la branche cesse d'être réellement praticable.
 
 ~~~text
-possible déclaré
-→ conditions réelles d'accès
-→ capacité effectivement accessible
-→ action possible ou empêchée
+possibilité encore ouverte en droit
++ conversions difficiles ou fragiles
+→ capacité effective réduite
 ~~~
 
-La Machine à Empêcher agit dans cet espace intermédiaire.
-
-Elle n'abolit pas nécessairement le droit. Elle peut simplement rendre son exercice si coûteux, incertain, tardif ou dépendant qu'il cesse d'être une possibilité réelle pour celui qui devrait pouvoir l'utiliser.
+L'enjeu n'est donc plus seulement de constater qu'une porte est difficile à franchir, mais de reconstruire les interactions qui la rendent ainsi.
 
 ## Ne pas transformer l'empêchement en explication totale
 
@@ -120,34 +111,15 @@ Elles ne désignent pas trois institutions. Une même personne, un même documen
 
 Et une Machine à Rendre Capable mal conçue peut à son tour devenir une Machine à Empêcher.
 
-## Révéler et stabiliser : la boucle au-dessus des Machines
+## Révéler sans encore prétendre réparer
 
-Deux autres notions traversent les trois Machines sans constituer de nouvelles Machines de même rang : **Révélateur** et **Stabilisateur**.
+Deux fonctions traversent les trois Machines sans en constituer de nouvelles : **Révélateur** et **Stabilisateur**.
 
-Le Révélateur rend visible l'écart entre ce que le système prétend rendre possible et ce qui l'est effectivement.
+Dans ce chapitre, le rôle principal est celui du Révélateur : rendre reconstructible l'écart d'effectivité et les mécanismes qui le produisent.
 
-Le Stabilisateur cherche à rendre une capacité suffisamment fiable pour qu'elle ne dépende plus d'un hasard, d'un héros local, d'un canal unique ou d'une circonstance exceptionnelle.
+Le Stabilisateur apparaîtra au chapitre suivant, lorsque la question ne sera plus seulement « qu'est-ce qui empêche ? », mais « comment rendre une capacité praticable sans rendre ses futurs échecs invisibles ? ».
 
-Mais stabiliser ne veut pas dire figer.
-
-Un bon stabilisateur doit conserver la capacité de révéler ses propres échecs.
-
-~~~text
-empêchement
-→ révélation de l'écart
-→ exploration
-→ capacité ouverte
-→ stabilisation
-→ mesure de l'effectivité
-→ nouvel écart éventuellement révélé
-→ correction
-~~~
-
-C'est pourquoi la traçabilité compte. Une solution qui fonctionne mais dont personne ne peut reconstruire les conditions de fonctionnement reste fragile. Une solution qui ne peut plus être contestée ou corrigée peut finir par rigidifier ce qu'elle devait rendre possible.
-
-On peut condenser ce principe ainsi :
-
-> **Le révélateur rend visible un écart d'effectivité ; le stabilisateur réduit cet écart sans supprimer la capacité de le mesurer à nouveau.**
+Cette séparation évite de confondre diagnostic et correction.
 
 ## Le cas de Marie-Louise : enquêter sans conclure à l'avance
 
