@@ -330,6 +330,51 @@ Le vote est secret.
 
 Le requérant s’interdit donc toute extrapolation arithmétique artificielle.
 
+## Borne contrefactuelle explicite : dans quelles conditions un second tour devenait-il arithmétiquement nécessaire ?
+
+La prudence méthodologique n'interdit pas de calculer les **conditions arithmétiques minimales** d'une modification du résultat du premier tour.
+
+L'article L.294 du code électoral prévoit qu'en Haute-Corse nul ne peut être élu au premier tour sans réunir à la fois la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart des électeurs inscrits. M. Parigi ayant obtenu 442 voix, la condition du quart des inscrits (154 voix) n'est pas le point sensible du contrefactuel. La question est celle de la majorité absolue.
+
+Soit :
+
+- \(x\) le nombre de voix qui se sont portées sur M. Parigi dans le scrutin observé mais qui, en présence d'une troisième candidature, ne se seraient plus portées sur lui ;
+- \(z\) le nombre de bulletins blancs, nuls ou, dans le scénario maximal, d'abstentions qui seraient devenus des suffrages exprimés valables.
+
+Le nombre de suffrages exprimés aurait alors été \(530+z\), et le score de M. Parigi \(442-x\). Pour qu'il ne dispose plus de la majorité absolue au premier tour, il aurait fallu :
+
+\[
+442-x \leq \left\lfloor\frac{530+z}{2}\right\rfloor.
+\]
+
+D'où les bornes suivantes :
+
+| Hypothèse purement arithmétique | Nouveaux exprimés \(z\) | Diminution minimale du score Parigi \(x\) |
+|---|---:|---:|
+| Aucun blanc/nul converti | 0 | **177 voix** |
+| Tous les 36 blancs convertis | 36 | **159 voix** |
+| Tous les 40 nuls convertis | 40 | **157 voix** |
+| Tous les 36 blancs et 40 nuls convertis | 76 | **139 voix** |
+| Blancs, nuls et 10 abstentions convertis | 86 | **134 voix** |
+
+Cette table conduit à deux observations importantes et volontairement symétriques.
+
+Premièrement, **les 76 bulletins blancs et nuls ne suffisaient pas, à eux seuls, à provoquer un second tour**. Même si les 76 avaient tous été transformés en suffrages valables par la présence d'une troisième candidature, M. Parigi aurait conservé 442 voix sur 606 exprimées et aurait encore détenu la majorité absolue.
+
+Deuxièmement, l'hypothèse d'un second tour n'est pas pour autant logiquement exclue : elle suppose une **redistribution substantielle** de voix initialement portées sur M. Parigi, comprise, dans ces scénarios bornés, entre 134 et 177 voix. Cela représente environ 30,3 % à 40,0 % de son score observé.
+
+Le requérant ne soutient pas que cette redistribution aurait nécessairement eu lieu. Il soutient qu'elle constitue la **magnitude du changement qu'il faut examiner**, au lieu de substituer à l'absence d'observation une affirmation non démontrée d'absence d'incidence.
+
+Plusieurs éléments justifient que cette hypothèse soit conservée comme hypothèse de travail plutôt que masquée :
+
+- le scrutin n'a finalement offert que deux candidatures ;
+- 76 votants n'ont accordé de suffrage valable à aucune d'elles ;
+- le candidat Battini, auquel seulement 5 grands électeurs étaient institutionnellement rattachés dans le modèle documentaire, a néanmoins obtenu 88 voix, ce qui établit une forte différence entre appartenance publique identifiable et comportement agrégé de l'urne sans permettre d'identifier les transferts ;
+- la candidature exclue constituait une offre distincte, associant le requérant au courant de M. Jean-François Baccarelli et portant une proposition parlementaire propre sur l'autonomie ;
+- son exclusion a empêché non seulement la mesure de son score, mais aussi l'observation de ses effets sur les consignes, les positionnements et les choix stratégiques des autres grands électeurs.
+
+Ces éléments ne permettent pas de **prédire** un second tour. Ils permettent en revanche de définir précisément ce que signifierait une incidence électorale substantielle et d'identifier les faits encore susceptibles de l'étayer ou de la contredire.
+
 ---
 
 # VIII. QUATRIÈME MOYEN : L’OBLIGATION DE PARTICIPATION DES GRANDS ÉLECTEURS RENFORCE L’EXIGENCE D’UNE OFFRE ÉLECTORALE RÉGULIÈRE
