@@ -182,3 +182,74 @@ Le numéro 3 doit montrer qu'un même problème d'effectivité réapparaît à p
 4. propager le delta dans les seules sections nécessaires ;
 5. rerendre et réinspecter avant de redéclarer Phase A PASS.
 
+
+
+---
+
+## Correction de convergence — 29 septembre
+
+La reprise conjointe du scrutin, de la requête, de l'amendement et de la piste QPC conduit à trois corrections importantes.
+
+### 1. Ne pas rétroprojeter v0.5-rc1 dans la campagne
+
+L'amendement **v0.4-rc4 publié le 26 septembre** reste la trace historique de l'offre parlementaire documentée avant le scrutin.
+
+La version **v0.5-rc1 du 29 septembre** constitue une continuation doctrinale post-scrutin.
+
+~~~text
+0.4-rc4
+= état pré-scrutin opposable comme trace historique
+
+0.5-rc1
+= enrichissement doctrinal postérieur
+≠ contenu rétroactif de la campagne
+~~~
+
+Les projets de requête ont été corrigés dans ce sens.
+
+### 2. La QPC A n'est pas un moyen automatiquement disponible dans la requête électorale
+
+Le contentieux de l'élection parlementaire relève directement du Conseil constitutionnel au titre de l'article 59.
+
+La QPC de l'article 61-1, organisée par les articles 23-1 et suivants de l'ordonnance du 7 novembre 1958, part d'une juridiction relevant du Conseil d'État ou de la Cour de cassation.
+
+La piste QPC A est donc conservée comme **voie de recherche distincte**. Elle exige avant cristallisation :
+
+- une disposition législative exacte ;
+- une instance admissible ;
+- un droit ou une liberté constitutionnellement garanti ;
+- un grief précis contre la disposition elle-même.
+
+Document canonique :
+
+`research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md`
+
+### 3. La borne 134–177 devient le point de raccord du scrutin à la requête
+
+La requête ne doit pas présenter les 76 blancs+nuls comme suffisants à eux seuls pour créer un second tour.
+
+La question devient :
+
+> **la présence d'une troisième offre pouvait-elle produire une redistribution collective assez forte pour franchir une distance minimale comprise entre 134 et 177 voix observées sur Parigi, selon le scénario ?**
+
+Cette plage est une **borne arithmétique**. Elle n'est ni une estimation de score ni une prédiction.
+
+Un document passerelle synchronise désormais les quatre pistes :
+
+`research/senatoriales-2026/investigation/convergence_scrutin_requete_amendement_qpc_2026-09-29.md`
+
+### Conséquence pour #91
+
+Le prochain PASS du Spécial sénatoriales doit préserver explicitement :
+
+~~~text
+scrutin
+≠ requête art. 59
+≠ QPC
+≠ amendement constitutionnel
+
+mais
+
+même question transversale :
+accès / exercice / recours / correction / effectivité
+~~~
