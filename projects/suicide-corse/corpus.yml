@@ -200,6 +200,12 @@ sources:
     required: true
     note: "Records the bounded one-day shift from Monday to Tuesday so the Special senatoriales can absorb post-scrutin reactions and the 134–177 bounded second-tour counterfactual before freeze."
 
+  - id: senatoriales-2026-third-candidate-uchronia
+    path: research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md
+    role: constrained-electoral-uchronia
+    required: true
+    note: "Maps U0–U5 from the admission/refusal bifurcation; facts and legal thresholds constrain the scenario space, while the final counterfactual result remains unknown."
+
   - id: senatoriales-2026-third-candidacy-bounded-counterfactual
     path: research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md
     role: electoral-counterfactual-analysis
