@@ -428,6 +428,62 @@ Les usages matériels de l'IA doivent rester suffisamment documentés pour que l
 
 ---
 
+
+# 9 bis. Matérialisation solidaire et Kudos
+
+L'architecture papier peut distinguer plusieurs matérialisations du **même contenu** :
+
+```text
+numérique
+→ gratuit
+
+papier accessible
+→ prix bas
+
+papier collector
+→ objet plus riche
+
+papier suspendu
+→ remis sans paiement au bénéficiaire lorsqu'un exemplaire financé est disponible
+```
+
+La doctrine Kudos fournit une couche complémentaire de don / contre-don à ce mécanisme.
+
+Référence : [`../../research/kudos.md`](../../research/kudos.md).
+
+Les trois registres restent séparés :
+
+```text
+euros
+→ financent la matière et la transaction réelle
+
+exemplaires suspendus
+→ représentent une capacité matérielle disponible
+
+Kudos
+→ documentent et prolongent des actes de don / contre-don selon les règles propres à Kudos
+```
+
+Règle :
+
+> **L'euro matérialise ; le suspendu partage ; le Kudos ouvre et mémorise le contre-don.**
+
+Le Kudos ne remplace donc pas le règlement initial en euros et ne devient pas un coupon d'achat automatique pour *Suicide Corse*.
+
+La solidarité ne doit pas non plus créer une hiérarchie éditoriale :
+
+> **Le collector ne donne pas accès à davantage de contenu ; il donne accès à davantage d'objet.**
+
+Une contribution non monétaire à l'enquête — source, correction, vérification, traduction, distribution, contradiction utile — peut être aussi pertinente pour Kudos qu'un acte de financement.
+
+Principe anti-capture :
+
+```text
+capacité économique ≠ mérite contributif
+montant donné ≠ autorité éditoriale ou morale
+```
+
+
 # 10. Publication réactive
 
 Une publication est dite **réactive** lorsque ses propres Acts peuvent produire des réponses du Réel qui reviennent ensuite modifier le Corpus.
