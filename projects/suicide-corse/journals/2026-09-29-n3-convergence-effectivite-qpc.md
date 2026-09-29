@@ -297,3 +297,40 @@ mais
 même question transversale :
 accès / exercice / recours / correction / effectivité
 ~~~
+
+
+---
+
+## Nouveau jalon — l’uchronie du troisième candidat
+
+L’analyse du scrutin franchit un nouveau seuil méthodologique : le contrefactuel du « troisième candidat » est désormais traité comme une **uchronie électorale contrainte**.
+
+Document canonique :
+
+`research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md`
+
+Cette qualification n’autorise aucune fiction libre.
+
+Elle importe au contraire la discipline déjà présente dans le Corpus :
+
+~~~text
+point de bifurcation
+→ invariants du Réel
+→ scénarios compatibles
+→ élimination des scénarios impossibles
+→ gradation de l’incertitude
+→ probes discriminants
+~~~
+
+La carte de travail distingue désormais U0 à U5 :
+
+- **U0** : quasi-invariance ;
+- **U1** : seuls les non-exprimés se convertissent — insuffisant pour créer un second tour ;
+- **U2** : redistribution partielle, sans second tour ;
+- **U3** : frontière 134–177 franchie — second tour arithmétiquement nécessaire ;
+- **U4** : recomposition stratégique de la campagne et des consignes ;
+- **U5** : issue finale alternative — fortement indéterminée.
+
+La valeur éditoriale pour le Spécial sénatoriales est forte : on peut désormais montrer au lecteur comment une hypothèse politique peut être explorée sans la déguiser en fait ni en prédiction.
+
+La valeur contentieuse est également bornée : l’uchronie ne dit pas au juge ce qui « se serait passé » ; elle rend explicite l’espace des incidences possibles et les faits qui permettraient de le réduire.
