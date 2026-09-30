@@ -1,8 +1,8 @@
 ---
 title: "Annexes — vérifier, approfondir, contribuer"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-29"
-status: draft
+date: "2026-09-30"
+status: content-closed-pending-verification
 language: fr
 license: CC BY-SA 4.0
 document_role: derived
