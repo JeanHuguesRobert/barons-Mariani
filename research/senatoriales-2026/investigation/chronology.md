@@ -38,6 +38,43 @@ Elle est volontairement factuelle et évolutive.
 
 | Heure CEST | Événement | Statut | Observation |
 |---|---|---|---|
+| 08:14:11 | courriel au Bureau des élections annonçant le trajet prévu | established | départ prévu de Corte à 09:45, arrivée théorique à Bastia à 11:39 ; cet horaire correspond au train CFC n°2 Ajaccio–Bastia |
+| 08:42:59 | réponse de Laurence : « Parfait » | established | accusé humain contemporain du déplacement annoncé |
+| ~09:26–09:28 | préparation d'un protocole de traçabilité en temps réel | established as conversation trace | distinction prévue entre heure de l'événement et heure de publication ; registre privé comme sas avant projection publique |
+| 09:45 | départ ferroviaire direct initialement prévu depuis Corte | established as plan, not executed as planned | le train n°2 dessert Corte à 09:45 et Bastia à 11:39 ; Jean Hugues ne monte finalement pas à Corte |
+| 10:29 | départ affiché de 1 cours Paoli, Corte | established as Google Timeline trace | Google Maps enregistre le départ effectif plus tardif |
+| après 10:29 | stop près du bar L'Oriente ; trajet automobile vers une gare proche de Bastia | reported | témoignage direct de Jean Hugues ; conductrice non identifiée publiquement |
+| ~11:04 | montée très probable à Lucciana L’Alivella dans le train n°2 | strong hypothesis | souvenir direct de Jean Hugues + grille CFC : Lucciana 11:04 ; le lieu exact de dépose reste à corroborer indépendamment |
+| 11:25 | émission du billet CFC à bord | established + reported context | billet photographié ; Jean Hugues précise le 30/09 que le titre a été vendu à bord, donc 11:25 n'est pas l'heure de montée |
+| 11:51:22 env. | passage à Lupinu | established | photographie/conversation ; horaire théorique train n°2 : 11:37, soit environ 14 min de retard |
+| 11:55:39 env. | arrivée photographiée à la gare de Bastia | established | horaire théorique train n°2 : 11:39, soit environ 16–17 min de retard |
+| 11:57:45 env. | arrivée aux abords de la préfecture | established | photographie contemporaine |
+| 12:02:31 env. | nouvel accueil de la préfecture atteint | established | photographie/conversation contemporaine |
+| 12:20 | récépissé provisoire daté de cette heure | established | document primaire ; comparution physique et prise en charge du dépôt établies |
+| ~12:23 | récépissé « normal », commission de propagande et projet de bulletin évoqués en conversation | established as conversation trace | commission du 15/09 à 14 h et possibilité d'envoyer le projet de bulletin en amont mentionnées |
+| 12:41:31–12:41:44 | sortie de la préfecture | established | photographie + conversation ; Jean Hugues indique que plusieurs propos des agents sont restés oraux |
+| 12:42–12:48 | marche après la préfecture | established as Google Timeline trace | 350 m en 6 min |
+| 12:48–13:13 | présence place Saint-Nicolas, Bastia | established as Google Timeline trace | étape avant le covoiturage |
+| 13:13 | départ de Bastia vers Ajaccio en covoiturage | reported + Google Timeline support | militants du parti de J.-F. Baccarelli ; conducteur anonymisé dans la projection publique |
+| 14:14:07 env. | passage à Corte en direction d'Ajaccio | strongly supported | photographie de signalisation ; horodatage du nom de fichier et ingestion quasi concordants |
+| 14:14:39 | transmission électronique des documents relatifs au mandataire financier | established | envoi au BEDL après la demande de complétion rapportée ; le candidat écrit que, sauf avis contraire, la seule difficulté subsistante lui paraît concerner les « originaux », demande tout autre élément manquant sans délai et se dit disponible jusqu'à 18 h |
+| 16:13 env. | arrivée dans le secteur d'Ajaccio | established as Google Timeline trace + user correction | Google agrège la présence au secteur Camping Les Mimosas ; Jean Hugues précise que le lieu réel est le jardin d'une sympathisante de J.-F. Baccarelli |
+| 16:14:05 | réponse humaine du BEDL : « J'accuse réception des documents. » | established | réponse de Jean-Pierre Cavaillé ; confirme qu'une complétion documentaire demandée le jour même a été reçue avant 18 heures ; aucun nouveau défaut n'est mentionné dans ce message ; audit Gmail du 25/09 : aucun autre message entrant @haute-corse.gouv.fr retrouvé le 11/09 |
+| ~17:30 | préparation de la déclaration vidéo commune | reported + conversation trace | texte préparé en trois séquences : Jean Hugues → Laurence → Jean Hugues |
+| 17:45:55 | création de VID_20260911_174455.mp4 | established by metadata | durée ~58,14 s ; déclaration commune ; tiers filmant anonymisé dans la projection publique |
+| 17:57:55 | envoi au BEDL du courriel « déclaration vidéo complémentaire » | established | contient un lien vers la vidéo enregistrée avec Laurence Vernerey ; l'envoi est établi, l'heure de réception côté destinataire reste à établir |
+| 18:00 | échéance du dépôt des candidatures | established | borne temporelle de la procédure |
+| 18:16 | réception par Télérecours de la saisine préfectorale | established | inventaire initial comprenant les pièces 1 à 16 |
+| 18:16 | absence du courriel/vidéo de 17:57 dans l'inventaire initial Télérecours | established | établit son absence de cet inventaire ; ne permet pas, à elle seule, de déterminer s'il a été transmis ultérieurement |
+| 18:25:49 | courriel « Porte-parole » de Laurence | established | désigne Jean Hugues comme porte-parole |
+| 18:45:53 | deux courriels France Transfert du TA de Bastia | established | notification des dossiers 2601714 et 2601715 + courriel séparé pour le mot de passe ; mot de passe non publié |
+| 20:02–21:48 | retour vers Corte | established as Google Timeline trace | trajet affiché 57 km / 1 h 46 |
+| 21:48 | arrivée affichée au Cyrnéa, Corte | established as Google Timeline trace | fin de la séquence de déplacement documentée |
+
+### Source horaire CFC
+
+Voir [source CFC — train n°2 Ajaccio–Bastia](./sources/cfc_horaire_train_2_2026-09-11.md).
+
 | ~12:10 | présentation personnelle de Jean Hugues Noël Robert à la préfecture | established | heure reprise dans la saisine préfectorale ; reçu provisoire délivré |
 | pendant la présence en préfecture | un agent masculin, distinct d'Adrien Vidal, indique oralement que deux documents relatifs au mandataire financier n'ont pas été produits | reported | témoignage direct de Jean Hugues Noël Robert ; l'identité de l'agent et la formulation exacte restent à établir indépendamment |
 | pendant la présence en préfecture | aucun agent ne propose, selon Jean Hugues Noël Robert, d'imprimer le CERFA de sa propre déclaration afin qu'il y appose sa signature manuscrite sur place | reported | témoignage direct ; le candidat se décrit comme physiquement présent, disponible et coopératif ; cette absence de proposition n'est pas encore corroborée par une trace institutionnelle |
