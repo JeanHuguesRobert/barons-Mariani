@@ -6,6 +6,10 @@
 - **Institution :** Institut Mariani / C.O.R.S.I.C.A. (1 cours Paoli, F-20250 Corte, Corse)
 - **Contact :** jhr@baronsmariani.org
 - **Site public :** https://riseandfall.baronsmariani.org
+- **Livre Vivant (Volume I Preview) :** https://riseandfall.baronsmariani.org/editions/volume-1-preview/
+- **Participer & Contribuer :** https://riseandfall.baronsmariani.org/contribuer.html
+- **Guide Public interactif :** https://riseandfall.baronsmariani.org/guide.html
+- **Mentions légales :** https://riseandfall.baronsmariani.org/mentions-legales.html
 - **Dépôt source :** https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/rise-and-fall
 - **Couverture :** écu de travail des barons Mariani — Devise : *FIDELITAS · PARVORVM · FORTITVDO* (`assets/cover/couverture_rise_and_fall1.png`). Le timbre est un tortil (`assets/cover/blason.md`).
 
