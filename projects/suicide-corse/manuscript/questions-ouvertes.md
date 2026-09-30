@@ -3,7 +3,7 @@ title: "Suicide Corse — questions ouvertes de l'enquête"
 author: Jean Hugues Noël Robert
 date: 2026-09-18
 last_modified_at: 2026-09-30
-status: draft
+status: content-closed-pending-verification
 language: fr
 license: CC BY-SA 4.0
 document_role: derived
@@ -184,8 +184,9 @@ Une contradiction est utile : l'enquête doit pouvoir corriger ce qu'elle croit 
 ### Sénatoriales 2026 — traces et canaux
 
 - Que contient le procès-verbal général du scrutin et quels motifs exacts ont conduit à déclarer 40 bulletins nuls ?
-- La consultation proposée par le Bureau des élections pour le 1er octobre à 14 h permettra-t-elle d'examiner l'ensemble du périmètre utile et de conserver des reproductions suffisamment exploitables ?
-- La transmission dématérialisée demandée le 28 septembre est-elle possible, ou quel fondement l'administration invoquerait-elle pour ne pas la proposer ?
+- Le rendez-vous accepté pour le 1er octobre à 14 h permettra-t-il d'examiner les pièces utiles et de conserver des reproductions suffisamment exploitables ?
+- Les documents déjà détenus sous forme dématérialisée seront-ils transmis avant le rendez-vous ; à défaut, quelles raisons seront indiquées ?
+- Parmi les 40 bulletins nuls, existe-t-il un bulletin portant « Baron Mariani », « Mariani », « Jean Hugues Robert » ou une graphie approchante ? Cette question porte sur le contenu matériel du bulletin, non sur l'identité de l'électeur.
 - La Sous-Préfecture de Corte peut-elle recevoir, pour transmission, une éventuelle requête relevant de l'article 34 de l'ordonnance de 1958, ou vers quel canal renvoie-t-elle ?
 - Le projet de requête actuellement conservé comme brouillon sera-t-il déposé, modifié ou abandonné ? Seule une preuve de réception permettra de parler d'un dépôt.
 - Les traces techniques et administratives demandées permettront-elles de réduire les inconnues sur les transmissions du dossier de candidature et du dossier juridictionnel ?
