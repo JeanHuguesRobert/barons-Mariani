@@ -24,3 +24,5 @@ Les rubriques sont conçues pour devenir récurrentes : *Le Réel répond*, *Nou
 Les détails probatoires restent dans le Corpus et les annexes. Ici, l'objectif est de rendre le changement lisible.
 
 Le dernier fait intégré à ce numéro est l'organisation d'une consultation des pièces électorales en préfecture le **1er octobre à 14 h**, rendez-vous accepté le 30 septembre et volontairement recentré sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. **Ce qui sera effectivement découvert à ce rendez-vous appartient au prochain numéro.**
+
+Le dernier fait intégré à ce numéro est l'organisation d'une consultation des pièces électorales en préfecture le **1er octobre à 14 h**, rendez-vous accepté le 30 septembre et volontairement recentré sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. **Ce qui sera effectivement découvert à ce rendez-vous appartient au prochain numéro.**
