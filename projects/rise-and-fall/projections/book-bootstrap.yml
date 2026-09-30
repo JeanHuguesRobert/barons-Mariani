@@ -35,12 +35,18 @@ editorial_plan:
       - id: B4
         title: "Reality Case RC-02 — La donation du monument aux morts de Corte (1924)"
         source: ../investigation/reality_cases/RC-02-1924-donation-corte.md
+      - id: B5
+        title: "Minesteggio — quand une mémoire retrouve un nom"
+        source: ../manuscript/book/05-minesteggio-la-memoire-retrouve-un-nom.md
   magazine:
     rubrics:
       - title: "Point d'enquête"
         note: "Initial bootstrap checkpoint — 30 September 2026."
       - title: "Continuations"
         note: "Ouverture des chantiers d'archives nationales et de la donation de 1924."
+      - title: "Noms retrouvés"
+        note: "30 septembre 2026 — Antoine « Tony » Toma identifié comme source orale de l'hypothèse mini-/minus + stadium/staggio pour Minesteggio."
+        source: ../manuscript/magazine/2026-09-30-tony-toma-un-nom-retrouve.md
   annexes:
     items:
       - id: A1
@@ -52,6 +58,9 @@ editorial_plan:
       - id: A3
         title: "Master Timeline critique (1776–2026)"
         source: ../chronology/README.md
+      - id: A4
+        title: "Tony Toma et l'étymologie possible de Minesteggio — provenance"
+        source: ../investigation/notes/2026-09-30-tony-toma-minesteggio.md
 
 outputs:
   required: [html, pdf, epub]
