@@ -23,9 +23,20 @@ Le 30 septembre 2026, Antoine « Tony » Toma a été identifié comme la person
 
 Source de provenance : `projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md`
 
+## Pivot 1863 ↔ 2026
+
+Un nouveau chapitre met en regard la protestation électorale de Louis-Thomas Mariani en 1863 et le dossier électoral contemporain de 2026. Le parallèle est traité comme une résonance documentaire et heuristique, non comme une répétition causale.
+
+Ce pivot relie explicitement les deux Livres vivants :
+- *Rise & Fall* : profondeur historique des bifurcations de capacité ;
+- *Suicide Corse* : effectivité contemporaine des droits, procédures et capacités d'agir.
+
+Chapitre : `projects/rise-and-fall/manuscript/book/06-deux-epoques-se-repondent.md`
+Projet relié : https://suicidecorse.baronsmariani.org/
+
 ## Premiers Reality Cases
 
-- **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, baron d'Empire) et Sampiero Gavini. Analyse de la mécanique du clientélisme insulaire, de l'intervention préfectorale et de l'annulation du scrutin.
+- **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, baron d'Empire) et Sampiero Gavini. Mariani publie une protestation détaillée ; Gavini conserve néanmoins son mandat de 1863 à 1869.
 - **RC-02 (1924) :** Donation du terrain du monument aux morts de Corte par Hyacinthe Mariani. Analyse de la patrimonialisation civique, des transactions notariées et de la position d'arbitre local des Mariani dans l'après-guerre.
 
 ## Lignée principale examinée
