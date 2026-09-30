@@ -603,3 +603,5 @@ La formule de sortie retenue est : **« La suite dans le prochain numéro. »**
 Audit durable : `projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md`.
 
 Le contenu est clos ; l'édition n'est pas encore gelée. La prochaine action est un nouveau **Phase A render** depuis le `main` courant, conformément à l'issue #91.
+
+La note de conservation du 30 septembre (`journals/2026-09-30-conservation-affichage-et-reprise.md`) enregistre l'état du site public, la préférence du Principal pour afficher le dernier commit de publication, et le plancher de reprise. Elle ne remplace ni l'audit de clôture ni l'issue #91.
