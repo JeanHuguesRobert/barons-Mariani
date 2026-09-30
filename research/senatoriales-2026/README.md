@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — dossier canonique"
 description: "Point d'entrée du Corpus relatif à la candidature sénatoriale de Haute-Corse de septembre 2026, à son contentieux et à l'enquête documentaire qui en résulte."
-date: "2026-09-26"
+date: "2026-09-30"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -147,9 +147,15 @@ Leur cause ne doit pas être transformée en fait sans élément indépendant pe
 
 ## 7. État actuel
 
-### 26 septembre 2026 — veille du scrutin
+### 30 septembre 2026 — accès post-scrutin aux pièces
 
-Le dossier entre dans une phase de préparation post-scrutin. Le dossier presse est pré-armé pour intégrer, après leur réalisation, le résultat proclamé, les interventions parlementaires effectivement envoyées, la requête éventuellement formée devant le Conseil constitutionnel, sa version publique et le manifeste de traçabilité correspondant.
+Le scrutin du 27 septembre est terminé et les résultats sont documentés. Après les demandes des 27–28 septembre, le Bureau des élections a confirmé le **30 septembre à 08 h 16** que les pièces du scrutin pouvaient être consultées et a proposé un rendez-vous en préfecture le **1er octobre à 14 h**.
+
+Le rendez-vous a été accepté à **10 h 37** avec une demande volontairement réduite : aucune numérisation nouvelle, priorité aux pièces déjà dématérialisées, demande des raisons si leur transmission est impossible, et vérification ciblée parmi les 40 bulletins nuls de mentions rapprochables de la candidature.
+
+Le contenu effectif des pièces reste `UNKNOWN` jusqu'à leur examen. La déclaration rapportée d'un grand électeur disant avoir voté « Baron Mariani » sert uniquement à motiver une vérification matérielle ; elle n'identifie aucun bulletin.
+
+Le dossier de presse et les projections de *Suicide Corse n°3* intègrent les **conditions** de ce rendez-vous. Son déroulement et ses résultats appartiendront au delta postérieur.
 
 L’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md) est désormais publié en version **0.4-rc4** sous une forme parlementaire candidate. Il reformule le mécanisme existant de la loi organique et de l’évaluation afin de traiter la mise en œuvre effective des facultés, leur évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité. Cette publication est postérieure au contentieux de candidature et ne doit être confondue ni avec une pièce du dossier initial, ni avec un amendement déjà déposé.
 
