@@ -2,7 +2,7 @@
 title: "Ours — Suicide Corse n°3"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-30"
-status: "render-candidate"
+status: "content-closed-pending-verification"
 language: fr
 license: "CC BY-SA 4.0"
 document_role: editorial-metadata
@@ -19,10 +19,11 @@ provenance:
     - projects/suicide-corse/projections/book-n3-working.yml
     - projects/suicide-corse/projections/n3-editorial-architecture.md
     - projects/suicide-corse/audits/2026-09-28-reader-audit-n3.md
+    - projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md
     - GitHub issue #84
     - GitHub issue #89
 review:
-  status: "reader-audit-passed-preview-not-frozen"
+  status: "content-closed-new-preview-required-not-frozen"
   reviewed_by:
     - "Jean Hugues Noël Robert"
     - "GPT-5.6 Sol — editorial reader audit"
@@ -33,9 +34,9 @@ review:
 **Titre :** *Suicide Corse — ou comment réaliser l'impossible*  
 **Numéro :** 3 — **Spécial sénatoriales**  
 **Date éditoriale :** mercredi 30 septembre 2026.  
-**Statut :** preview de vérification — **édition non gelée et non publiée**.
+**Statut :** contenu éditorial clos au 30 septembre — **nouveau rendu de vérification requis ; édition non gelée et non publiée**.
 
-**Cadence :** la date éditoriale courante est le mercredi 30 septembre 2026. Le bouclage avait d'abord été porté du lundi au mardi 29 septembre afin d'intégrer les réactions au scrutin du dimanche 27 septembre. La cadence ordinaire du lundi n'est pas modifiée.
+**Cadence :** la date éditoriale est le mercredi 30 septembre 2026. Le dernier fait intégré est l'organisation du rendez-vous préfectoral du 1er octobre à 14 h et l'acceptation, le 30 septembre, de ce rendez-vous avec une demande volontairement resserrée. Le déroulement du rendez-vous appartient au prochain numéro. La cadence ordinaire du lundi n'est pas modifiée.
 
 **Responsabilité éditoriale finale :** Jean Hugues Noël Robert.
 
@@ -71,7 +72,7 @@ Cette édition résulte d'un travail humain assisté par plusieurs agents d'inte
 
 Plusieurs fournisseurs et agents peuvent intervenir successivement sur une même tâche à travers des **Cognitive Packets** et des GitHub Issues resumables. Cette pluralité ne transfère pas la responsabilité éditoriale.
 
-Les agents IA ne portentent pas la responsabilité éditoriale finale et leurs propositions peuvent être corrigées, rejetées ou contredites.
+Les agents IA ne portent pas la responsabilité éditoriale finale et leurs propositions peuvent être corrigées, rejetées ou contredites.
 
 ## Source, projection et traçabilité
 
@@ -159,7 +160,9 @@ Au moment de cette preview :
 - son rendu technique de vérification a déjà été produit une première fois ;
 - il reste **non gelé** ;
 - il reste **non publié** ;
-- les corrections détectées par le rendu doivent être intégrées puis vérifiées par un nouveau rendu avant décision de freeze.
+- le **contenu éditorial est désormais clos** au 30 septembre ;
+- les corrections détectées par le prochain rendu doivent être intégrées puis vérifiées avant décision de freeze ;
+- tout fait nouveau postérieur à la borne, notamment le résultat du rendez-vous du 1er octobre, appartient au n°4 ou à un erratum explicitement décidé.
 
 Invariant :
 
