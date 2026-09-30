@@ -16,6 +16,7 @@ cover:
   author: "Jean Hugues Noël Robert"
   author_title: "baron Mariani"
   image: "../assets/cover/bulletin_senatoriales_2026_baron_mariani_retenu.png"
+  print_pdf: "../assets/cover/suicide-corse-n3-cover-composition.pdf"
   image_role: "élément graphique central"
   preserve_source_image: true
 

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide public — Rise & Fall of the Mariani Family</title>
+<meta name="description" content="Le Guide public de Rise & Fall répond à partir du corpus documentaire et prépare un brouillon de message ou de ticket. Il n'envoie rien.">
+<link rel="canonical" href="https://riseandfall.baronsmariani.org/guide.html">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="stylesheet" href="/assets/guide.css">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Rise & Fall of the Mariani Family">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:url" content="https://riseandfall.baronsmariani.org/guide.html">
+<meta property="og:title" content="Guide public — Rise & Fall of the Mariani Family">
+<meta property="og:description" content="Le Guide public répond à partir du corpus documentaire et prépare un brouillon de message. Il n'envoie rien.">
+<meta property="og:image" content="https://riseandfall.baronsmariani.org/assets/cover/couverture_rise_and_fall1.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Guide public — Rise & Fall of the Mariani Family">
+<meta name="twitter:description" content="Le Guide public répond à partir du corpus documentaire et prépare un brouillon de message. Il n'envoie rien.">
+<meta name="twitter:image" content="https://riseandfall.baronsmariani.org/assets/cover/couverture_rise_and_fall1.png">
+</head>
+<body data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="rise-and-fall">
+
+<header>
+  <h1>Guide public</h1>
+  <p class="subtitle">Rise & Fall of the Mariani Family — Exploration assistée du corpus et préparation de brouillons</p>
+</header>
+
+<p>
+  Ce Guide répond à partir du corpus public de <em>Rise & Fall of the Mariani Family</em> (titre westphalien de 1813, domaine de Minesteggio, Reality Cases 1863 et 1924, chronologie critique). Il peut préparer un brouillon de message ou de signalement. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et n'engage pas l'auteur.</strong>
+</p>
+
+<div id="log" class="log" aria-live="polite"></div>
+
+<form id="ask">
+  <label for="question">Votre question sur l'enquête, un fait ou une source</label>
+  <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. Quelle est l'origine du titre de baron westphalien conféré en 1813 ? Ou comment vérifier la donation de 1924 à Corte ?" required></textarea>
+  <button type="submit">Demander au Guide</button>
+</form>
+
+<section class="draft" aria-labelledby="draft-title">
+  <h2 id="draft-title">Brouillon — non envoyé</h2>
+  <p>Le texte ci-dessous est un modèle généré que vous pouvez ajuster librement avant de l'envoyer vous-même par courriel ou de l'utiliser pour ouvrir un ticket sur GitHub.</p>
+  <div class="acts">
+    <button type="button" id="prepare-contribution" data-act="submit-contribution">Préparer une contribution d'archives</button>
+    <button type="button" id="prepare-correction" data-act="report-correction">Préparer une correction ou observation</button>
+  </div>
+  <label for="draft-to">Destinataire suggéré</label>
+  <input id="draft-to" name="to" type="text" readonly value="jhr@baronsmariani.org, institutmariani@gmail.com">
+  <label for="draft-subject">Objet</label>
+  <input id="draft-subject" name="subject" type="text" value="[Contribution Rise & Fall] ">
+  <label for="draft-body">Corps du message</label>
+  <textarea id="draft-body" name="body" rows="12"></textarea>
+  <button type="button" id="copy-draft">Copier le brouillon dans le presse-papier</button>
+  <p id="draft-status" class="status" role="status"></p>
+</section>
+
+<footer>
+  <p>
+    <a href="/">&larr; Retour à l'accueil</a> · <a href="/editions/volume-1-preview/">Livre Vivant (Volume I Preview)</a> · <a href="/contribuer.html">Participer et contribuer</a> · <a href="/mentions-legales.html">Mentions Légales</a>
+  </p>
+</footer>
+
+<script src="/assets/guide.js" defer></script>
+</body>
+</html>

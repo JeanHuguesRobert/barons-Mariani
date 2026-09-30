@@ -1,0 +1,46 @@
+{
+  "schema": "rise-and-fall.preview-status.v1",
+  "project": "Rise & Fall of the Mariani Family",
+  "edition_id": "volume-1-preview",
+  "title": "Rise & Fall of the Mariani Family — Volume I (1776–1870)",
+  "subtitle": "De la notabilité cortenaise à l'apogée impériale",
+  "status": "projection-intermediaire-instable",
+  "frozen": false,
+  "editorial_date": "2026-09-30",
+  "author": "Jean Hugues Noël Robert",
+  "author_title": "baron Mariani",
+  "source_repository": "JeanHuguesRobert/barons-Mariani",
+  "source_manifest": "projects/rise-and-fall/corpus.yml",
+  "projection_contract": "projects/rise-and-fall/projections/book-bootstrap.yml",
+  "cover": {
+    "image": "/assets/cover/couverture_rise_and_fall1.png",
+    "motto": "FIDELITAS · PARVORVM · FORTITVDO",
+    "role": "élément graphique central"
+  },
+  "epistemic_warning": "PROJECTION INTERMÉDIAIRE INSTABLE — Cette préversion préfigure le Volume 1 bouclé du Livre Vivant. Les textes, analyses et appareils critiques présentés constituent un état de travail vivant et non une édition gelée.",
+  "verification": {
+    "chapters_count": 9,
+    "proof_codes": {
+      "E": "Établi par document primaire direct (état civil, décrets, minutes authentiques)",
+      "P": "Parole directe ou mémoire partisane tracée (mémoire 1863, lettres)",
+      "S": "Source secondaire historiographique ou dictionnaire biographique",
+      "D": "Actes notariés, donations et délibérations patrimoniales",
+      "O": "Témoignage oral recueilli et mémoire familiale transmise"
+    },
+    "reality_cases_included": [
+      "RC-01-1863-gavini",
+      "RC-02-1924-donation-corte"
+    ],
+    "master_timeline_bifurcations": 14,
+    "cross_project_pivots": [
+      "1863 ↔ 2026 transhistorical bridge to Suicide Corse"
+    ]
+  },
+  "open_frontiers": [
+    "Rapport définitif de la commission de vérification des pouvoirs du Corps législatif (1863)",
+    "Copie intégrale de l'acte de décès d'Antoine Dominique Mariani (1845)",
+    "Minute notariale de la donation du terrain du monument aux morts de Corte (1924)",
+    "Cadastre napoléonien et délimitations historiques de Minesteggio",
+    "Déclarations de mutations par décès et charges hypothécaires 1845-1938"
+  ]
+}

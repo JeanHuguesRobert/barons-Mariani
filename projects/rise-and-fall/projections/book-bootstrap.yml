@@ -4,15 +4,15 @@ status: working
 render_ready: false
 language: fr
 title: "Rise & Fall of the Mariani Family"
-subtitle: "Reconstitution régressive et prospective des bifurcations de capacité d'une famille corse (1776–2026)"
+subtitle: "Grandeur et déchéance de la famille Mariani (1776–2026)"
 author: "Jean Hugues Noël Robert"
-edition_label: "Édition d'amorçage — Cadre d'enquête et Reality Case pilote 1863"
+edition_label: "Volume I (1776–1870) — Préfiguration instable du Livre Vivant"
 
 cover:
   title: "Rise & Fall of the Mariani Family"
   subtitle: "Grandeur et déchéance de la famille Mariani (1776–2026)"
   issue: "Volume I"
-  edition: "Édition d'amorçage — 30 septembre 2026"
+  edition: "Projection intermédiaire instable — 30 septembre 2026"
   author: "Jean Hugues Noël Robert"
   author_title: "baron Mariani"
   image: "../assets/cover/couverture_rise_and_fall1.png"
@@ -29,7 +29,7 @@ edition:
   editorial_date: "2026-09-30"
   publication_date: null
   date_is_intentionally_unset: true
-  close_target: "Working draft — not frozen"
+  close_target: "Projection intermédiaire instable — préfigure le Volume 1 bouclé"
 
 editorial_plan:
   principle: "Le corps principal raconte ; le Magazine actualise ; les annexes démontrent."
@@ -37,48 +37,45 @@ editorial_plan:
     sequence:
       - id: B1
         title: "Ouverture — Le problème de la capacité d'une famille dans l'histoire"
-        source: ../README.md
+        source: ../manuscript/book/00-ouverture.md
       - id: B2
-        title: "Architecture d'enquête — Deux passes et grammaire capacitaire"
-        source: ../architecture.md
+        title: "Méthode d'enquête — Deux passes et grammaire capacitaire"
+        source: ../manuscript/book/01-methode-deux-passes.md
       - id: B3
-        title: "Reality Case pilote — L'élection législative de 1863"
-        source: ../investigation/reality_cases/RC-01-1863-gavini.md
+        title: "Antoine Dominique Mariani et le titre westphalien de 1813"
+        source: ../manuscript/book/02-antoine-dominique-et-titre-1813.md
       - id: B4
-        title: "Reality Case RC-02 — La donation du monument aux morts de Corte (1924)"
-        source: ../investigation/reality_cases/RC-02-1924-donation-corte.md
+        title: "Reality Case RC-01 — L'élection législative de 1863 (Mariani c. Gavini)"
+        source: ../manuscript/book/03-reality-case-rc01-1863.md
       - id: B5
+        title: "Reality Case RC-02 — La donation du terrain du monument aux morts de Corte (1924)"
+        source: ../manuscript/book/04-reality-case-rc02-1924.md
+      - id: B6
         title: "Minesteggio — quand une mémoire retrouve un nom"
         source: ../manuscript/book/05-minesteggio-la-memoire-retrouve-un-nom.md
-      - id: B6
+      - id: B7
         title: "Deux époques se répondent — 1863 ↔ 2026"
         source: ../manuscript/book/06-deux-epoques-se-repondent.md
-  magazine:
-    rubrics:
-      - title: "Point d'enquête"
-        note: "Initial bootstrap checkpoint — 30 September 2026."
-      - title: "Continuations"
-        note: "Ouverture des chantiers d'archives nationales et de la donation de 1924."
-      - title: "Noms retrouvés"
-        note: "30 septembre 2026 — Antoine « Tony » Toma identifié comme source orale de l'hypothèse mini-/minus + stadium/staggio pour Minesteggio."
-        source: ../manuscript/magazine/2026-09-30-tony-toma-un-nom-retrouve.md
-  annexes:
-    items:
-      - id: A1
-        title: "Architecture éditoriale et protocoles de gel"
-        source: ../editorial-architecture.md
-      - id: A2
-        title: "Index des éditions"
-        source: ../editions/index.md
-      - id: A3
-        title: "Master Timeline critique (1776–2026)"
-        source: ../chronology/README.md
-      - id: A4
-        title: "Tony Toma et l'étymologie possible de Minesteggio — provenance"
-        source: ../investigation/notes/2026-09-30-tony-toma-minesteggio.md
+      - id: B8
+        title: "Chronologie critique — 250 ans et 14 bifurcations familiales"
+        source: ../manuscript/book/07-chronologie-et-bifurcations.md
+      - id: B9
+        title: "Questions ouvertes et chantiers de recherche"
+        source: ../manuscript/book/08-questions-ouvertes.md
+
+chapters:
+  - ../manuscript/book/00-ouverture.md
+  - ../manuscript/book/01-methode-deux-passes.md
+  - ../manuscript/book/02-antoine-dominique-et-titre-1813.md
+  - ../manuscript/book/03-reality-case-rc01-1863.md
+  - ../manuscript/book/04-reality-case-rc02-1924.md
+  - ../manuscript/book/05-minesteggio-la-memoire-retrouve-un-nom.md
+  - ../manuscript/book/06-deux-epoques-se-repondent.md
+  - ../manuscript/book/07-chronologie-et-bifurcations.md
+  - ../manuscript/book/08-questions-ouvertes.md
 
 outputs:
-  required: [html, pdf, epub]
-  optional: []
-  status: "bootstrap working draft"
+  required: [html]
+  optional: [pdf, epub]
+  status: "projection intermédiaire instable"
   technical_manifest: required

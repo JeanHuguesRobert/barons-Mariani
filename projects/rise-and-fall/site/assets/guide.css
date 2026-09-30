@@ -1,0 +1,73 @@
+:root {
+  color-scheme: light dark;
+  --bg-color: #fdfdfb;
+  --text-color: #1a1a1a;
+  --border-color: #bbb;
+  --link-color: #8b1e1e;
+  --btn-bg: #2b2b2b;
+  --btn-color: #fff;
+  --card-bg: #ffffff;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #161616;
+    --text-color: #ececec;
+    --border-color: #444;
+    --link-color: #e06c6c;
+    --btn-bg: #444;
+    --btn-color: #fff;
+    --card-bg: #1f1f1f;
+  }
+}
+body {
+  font-family: Georgia, "Times New Roman", Garamond, serif;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.25rem 4rem;
+  line-height: 1.6;
+  color: var(--text-color);
+  background: var(--bg-color);
+}
+h1 { font-size: 2rem; margin-bottom: 0.2rem; }
+h2 { font-size: 1.3rem; margin-top: 1.5rem; }
+.subtitle { font-style: italic; color: #777; margin-top: 0; }
+label { display: block; margin-top: 1rem; font-weight: bold; font-family: system-ui, sans-serif; font-size: 0.9rem; }
+textarea, input {
+  width: 100%;
+  box-sizing: border-box;
+  font: 1rem/1.45 Georgia, "Times New Roman", serif;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  background: var(--card-bg);
+  color: var(--text-color);
+}
+button {
+  margin-top: 0.8rem;
+  font: 700 0.92rem/1.2 system-ui, sans-serif;
+  padding: 0.5rem 0.9rem;
+  background: var(--btn-bg);
+  color: var(--btn-color);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover { opacity: 0.9; }
+.acts button { margin-right: 0.5rem; margin-bottom: 0.5rem; }
+.log, .draft {
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 1.2rem 1.3rem;
+  margin: 1.5rem 0;
+  background: var(--card-bg);
+}
+.turn { margin: 0.8rem 0; border-bottom: 1px dashed var(--border-color); padding-bottom: 0.6rem; }
+.turn:last-child { border-bottom: none; }
+.turn .who { font: 700 0.78rem/1.2 system-ui, sans-serif; letter-spacing: 0.05em; text-transform: uppercase; color: var(--link-color); margin-bottom: 0.2rem; }
+.turn p { margin: 0.2rem 0; }
+.status { color: #888; font-size: 0.85rem; font-family: system-ui, sans-serif; margin-top: 0.6rem; }
+footer { margin-top: 3.5rem; font-size: 0.85rem; color: #777; border-top: 1px solid var(--border-color); padding-top: 1.2rem; font-family: system-ui, sans-serif; }
+footer a { color: var(--link-color); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+a { color: var(--link-color); text-decoration: none; }
+a:hover { text-decoration: underline; }
