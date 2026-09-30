@@ -2,8 +2,8 @@
 title: "Chronologie"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-21"
-last_modified_at: "2026-09-28"
-status: draft
+last_modified_at: "2026-09-30"
+status: content-closed-pending-verification
 language: fr
 license: "CC BY-SA 4.0"
 document_role: derived
@@ -137,6 +137,8 @@ Chaque repère porte, quand le fonds documentaire le distingue, son statut épis
 **27 septembre 2026 — scrutin sénatorial de Haute-Corse et annonce publique de Capable.** `FACT / TRACE`. Le scrutin a lieu sans la candidature de Jean Hugues Noël Robert ; le Corpus conserve séparément les résultats observés et les inconnues relatives aux bulletins non exprimés. Le même jour, le mouvement Capable est annoncé publiquement et devient un nouvel objet de Reality Test ; cette annonce n'est pas projetée rétrospectivement sur Marie-Louise ou les candidatures antérieures.
 
 **28 septembre 2026 — nouveaux Acts documentaires.** `TRACE / ACT`. Une demande de consultation du procès-verbal général et des bulletins déclarés nuls est envoyée à la préfecture. Une demande distincte est adressée à la Sous-Préfecture de Corte pour vérifier le canal matériel de remise d'une éventuelle requête au Conseil constitutionnel. Le projet de requête existant reste, à cette date, un document de travail et non un dépôt établi.
+
+**30 septembre 2026 — accès aux pièces confirmé et rendez-vous accepté.** `TRACE / ACT`. À 08 h 16, le Bureau des élections confirme que les pièces du scrutin peuvent être consultées et propose un rendez-vous en préfecture le **1er octobre à 14 h**. À 10 h 37, le rendez-vous est accepté et la demande est volontairement resserrée : aucune numérisation nouvelle ; priorité aux documents déjà détenus sous forme dématérialisée ; demande des raisons en cas d'impossibilité de transmission ; vérification ciblée des 40 bulletins nuls pour une éventuelle mention « Baron Mariani », « Mariani », « Jean Hugues Robert » ou approchante. Le signal d'un grand électeur ayant déclaré publiquement avoir voté « Baron Mariani » reste une déclaration rapportée et n'identifie aucun bulletin. **Le résultat du rendez-vous du 1er octobre est hors de la borne éditoriale du n°3 et appartient au n°4.**
 
 ## Ce que cette chronologie ne fait pas
 
