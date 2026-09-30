@@ -1,0 +1,55 @@
+---
+title: "DIASPORA"
+author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-09-30"
+status: "working-paper"
+language: "fr"
+license: "CC BY-SA 4.0"
+document_role: "project"
+document_kind: "project-index"
+visibility: "public"
+lifecycle_state: "working"
+ai_assisted_by:
+  - "Grok 4.7 (xAI), cold handler of GitHub issue 96"
+provenance:
+  origin_type: "issue-continuation"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
+  origin_date: "2026-09-30"
+---
+
+# DIASPORA
+
+DIASPORA est une initiative de C.O.R.S.I.C.A. dont la phrase directrice est : **mobiliser les Corses du monde entier.**
+
+Le projet est à la fois un livre vivant et un annuaire de capacités. Il passe de « qui est où ? » à « qui peut aider qui à faire quoi ? ». Il ne prétend pas être la première tentative. Corsica Diaspora, depuis 2004, et d'autres réseaux publics, dont communiti, existent déjà.
+
+Le nom public visé est `diaspora.acorsica.org`. Ce dépôt ne le sert pas encore.
+
+Entrées :
+
+- livre : [`web/book.html`](web/book.html) et [`manuscript/00-ouverture.md`](manuscript/00-ouverture.md)
+- annuaire : [`web/directory.html`](web/directory.html)
+- jeu de données : [`data/seed.json`](data/seed.json)
+- journal du Reality Test : [`journals/reality-test-2026-09-30.md`](journals/reality-test-2026-09-30.md)
+- issue : <https://github.com/JeanHuguesRobert/barons-Mariani/issues/96>
+
+## Build and test
+
+From `projects/diaspora`, with Node, and without installing packages:
+
+```text
+node scripts/validate-seed.js
+node scripts/serve.js
+```
+
+The server listens on `http://127.0.0.1:8765/`. Opening the HTML files directly will not load the seed. The checks cover the seed invariants, search, the separation between a place of presence and a Corsican link, and the rule that holding a need does not make an entity a helper.
+
+`npm test` runs the same check when npm is available. No dependency is required.
+
+## Scope of this slice
+
+Included: schema, sourced seed, static directory, map-ready locations, explainable matching, local contribution packets, living-book entry, benchmark skeleton, reality-test journal.
+
+Not included: DNS, production hosting, accounts, a graph database, AI enrichment, and any claim that the two-hour benchmark produced worldwide coverage.

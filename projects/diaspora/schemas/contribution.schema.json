@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diaspora.acorsica.org/schemas/contribution.schema.json",
+  "title": "DIASPORA contribution packet",
+  "description": "A local submission. Generating this packet does not validate it and does not publish it.",
+  "type": "object",
+  "required": ["schema", "status", "validation_status", "publication_status", "created_at", "entity", "declaration"],
+  "properties": {
+    "schema": { "const": "diaspora.contribution.v0" },
+    "status": { "const": "submission" },
+    "validation_status": { "const": "not-validated" },
+    "publication_status": { "const": "not-published" },
+    "created_at": { "type": "string" },
+    "entity": { "type": "object" },
+    "declaration": { "type": "string" },
+    "next_step": { "type": "string" }
+  }
+}

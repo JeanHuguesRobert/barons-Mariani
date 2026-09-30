@@ -1,0 +1,11 @@
+# DIASPORA
+
+Public projection of the C.O.R.S.I.C.A. diaspora directory and living book.
+Canonical corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/diaspora
+Issue: https://github.com/JeanHuguesRobert/barons-Mariani/issues/96
+Declared host, not deployed by the phase-1 commit: https://diaspora.acorsica.org
+
+Seed: ../data/seed.json
+No person records are published.
+Suna has no recovered primary source. Do not invent one.
+Matching must not treat the holder of a need as the helper.

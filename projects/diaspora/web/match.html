@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Correspondance — DIASPORA</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="match">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <p class="mark"><a href="index.html">DIASPORA</a></p>
+  <nav aria-label="Sections">
+    <a href="index.html">Accueil</a>
+    <a href="directory.html">Annuaire</a>
+    <a href="map.html">Carte</a>
+    <a href="match.html">Correspondance</a>
+    <a href="contribute.html">Contribuer</a>
+    <a href="book.html">Livre</a>
+    <a href="privacy.html">Confidentialité</a>
+  </nav>
+</header>
+<main id="contenu">
+  <h1>Qui peut aider ?</h1>
+  <p>La correspondance est déterministe. Porter un besoin ne rend pas répondant. Une offre déclarée sans engagement d'aide reste hors du filtre « ouvert à aider ».</p>
+  <p data-seed-status>Chargement du jeu.</p>
+  <form id="match-form">
+    <label for="region">Région de présence</label>
+    <input id="region" name="region" placeholder="Corte, Bastia, Eysines, Gironde">
+    <label for="capability">Capacité</label>
+    <input id="capability" name="capability" placeholder="correction, animation, retrouver">
+    <label for="needId">Besoin</label>
+    <select id="needId" name="needId"></select>
+    <label class="check"><input type="checkbox" name="requireOpenToHelp"> Exiger un engagement d'aide explicite</label>
+    <button type="submit">Chercher une correspondance</button>
+  </form>
+  <div id="match-results"></div>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

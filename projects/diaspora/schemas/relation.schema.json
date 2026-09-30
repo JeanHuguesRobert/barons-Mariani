@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diaspora.acorsica.org/schemas/relation.schema.json",
+  "title": "DIASPORA relation",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "type", "from", "to", "provenance"],
+  "properties": {
+    "id": { "type": "string" },
+    "type": {
+      "enum": ["HAS_SKILL", "OFFERS", "NEEDS", "MEMBER_OF", "CONNECTED_TO", "RUNS", "CAN_ADDRESS", "LOCATED_AT"]
+    },
+    "from": { "type": "string" },
+    "to": { "type": "string" },
+    "location_kind": {
+      "enum": ["current_location", "corsican_origin_or_link", "organization_location", "project_location"]
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["sources", "observed_at"]
+    }
+  }
+}

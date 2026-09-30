@@ -1,0 +1,924 @@
+{
+  "schema": "diaspora.seed.v0",
+  "description": "Public seed for the DIASPORA phase-1 directory. Facts are limited to sources named on each record. No person records are included.",
+  "updated_at": "2026-09-30",
+  "entities": [
+    {
+      "id": "source-cd-website-2026-09-30",
+      "type": "source",
+      "name": "Site public Corsica Diaspora, observé le 2026-09-30",
+      "url": "https://www.corsica-diaspora.com/",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "fetched",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Page d'accueil lue le 2026-09-30. Le site publie une adresse de correspondance, un email organisationnel, et un IBAN. L'IBAN n'est pas recopié dans cet annuaire."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-cd-registry-2026-09-30",
+      "type": "source",
+      "name": "API Recherche d'entreprises, SIREN 480878891",
+      "url": "https://recherche-entreprises.api.gouv.fr/search?q=corsica%20diaspora&per_page=5",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "fetched",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Réponse lue le 2026-09-30. statut_diffusion O. date_mise_a_jour du résultat : 2026-09-30T10:03:48. dirigeants : tableau vide dans cette réponse."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-amicale-eysines-2026-09-30",
+      "type": "source",
+      "name": "Annuaire municipal d'Eysines, Amicale Corsica",
+      "url": "https://www.eysines.fr/fiche-annuaire-association/amicale-corsica/",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "fetched",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "La fiche municipale publie aussi un prénom et nom, un téléphone mobile et un email personnel. Ces trois éléments ne sont pas recopiés. Le lien http://sucorsu.free.fr indiqué sur la fiche n'a pas répondu le 2026-09-30 et n'est pas présenté comme un site vivant."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-corpus-capable",
+      "type": "source",
+      "name": "Corpus Capable, généalogie C.O.R.S.I.C.A.",
+      "url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/genesis.md",
+      "repository_path": "projects/capable/genesis.md",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "repository-file",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Aussi projects/capable/README.md. Énonce le développement du nom C.O.R.S.I.C.A. et la création associative à Noël 1995. Ce n'est pas un extrait de statut déposé relu dans ce passage."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-corpus-institut",
+      "type": "source",
+      "name": "Corpus Institut Mariani",
+      "url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/institut_mariani.md",
+      "repository_path": "research/institut_mariani.md",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "repository-file",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Le document distingue la couche associative C.O.R.S.I.C.A. (1995) et la couche documentaire Institut Mariani. Les fichiers du corpus signent souvent les deux ensemble."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-issue-96",
+      "type": "source",
+      "name": "GitHub issue 96, paquet DIASPORA",
+      "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "github-issue",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Source du cadre institutionnel déclaré, du déclencheur Suna non sourcé, et de la politique de contribution de ce projet. Auto-référence assumée pour les enregistrements de ce dépôt."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "place-bastia",
+      "type": "place",
+      "name": "Bastia",
+      "display_name": "Bastia",
+      "location": {
+        "kind": "corsican_origin_or_link",
+        "city": "Bastia",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.698,
+        "lon": 9.45,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde approximatif de la commune, distinct du géocodage du siège légal."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": ["source-cd-registry-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "La commune est attestée par le répertoire. Les coordonnées de ce lieu sont un centroïde arrondi, pas le point du siège."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "place-corte",
+      "type": "place",
+      "name": "Corte",
+      "display_name": "Corte",
+      "location": {
+        "kind": "corsican_origin_or_link",
+        "city": "Corte",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.306,
+        "lon": 9.149,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde approximatif. Pas un relevé du 1 cours Paoli."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": ["source-corpus-institut", "source-corpus-capable"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "place-eysines",
+      "type": "place",
+      "name": "Eysines",
+      "display_name": "Eysines",
+      "location": {
+        "kind": "organization_location",
+        "city": "Eysines",
+        "region": "Gironde",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 44.885,
+        "lon": -0.649,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal approximatif. La voie publiée par la mairie n'est pas recopiée ni géocodée."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": ["source-amicale-eysines-2026-09-30"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "place-corsica",
+      "type": "place",
+      "name": "Corse",
+      "display_name": "Corse",
+      "location": {
+        "kind": "corsican_origin_or_link",
+        "city": null,
+        "region": "Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.15,
+        "lon": 9.1,
+        "coordinate_precision": "island-centroid-approximate",
+        "coordinate_note": "Point d'île approximatif, utilisé seulement quand aucune commune n'est sourcée."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": ["source-amicale-eysines-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Ce lieu ne désigne pas un village d'origine."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "skill-diaspora-network",
+      "type": "skill",
+      "name": "Réseau de la diaspora corse",
+      "statement_status": "stated-public-function",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Fonction déclarée par le site de l'association. Ce n'est pas une mesure de performance."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "skill-local-gathering",
+      "type": "skill",
+      "name": "Rencontre locale de la diaspora corse",
+      "statement_status": "stated-public-function",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "municipal-statement",
+      "provenance": {
+        "sources": ["source-amicale-eysines-2026-09-30"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "skill-distributed-competencies",
+      "type": "skill",
+      "name": "Réunion de compétences autonomes",
+      "statement_status": "historical-public-purpose",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "corpus-statement",
+      "provenance": {
+        "sources": ["source-corpus-capable"],
+        "observed_at": "2026-09-30",
+        "notes": "Développement du nom de 1995. Pas une offre de service actuelle mesurée."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "skill-living-publication",
+      "type": "skill",
+      "name": "Publication vivante",
+      "statement_status": "corpus-practice",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "corpus-statement",
+      "provenance": {
+        "sources": ["source-corpus-institut", "source-issue-96"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "skill-public-directory",
+      "type": "skill",
+      "name": "Annuaire public inspectable",
+      "statement_status": "implemented-in-this-repository",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "this-repository",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Capacité du logiciel de ce dépôt, pas une compétence personnelle."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-cd-animation",
+      "type": "offer",
+      "name": "Animation du réseau diaspora",
+      "statement_status": "stated-public-objective",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Le site inscrit ce point dans un projet de cinq ans. Aucun engagement d'aide envers un demandeur précis n'est affirmé ici."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-cd-digital",
+      "type": "offer",
+      "name": "Outils numériques pour la diaspora",
+      "statement_status": "stated-public-objective",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Objectif déclaré : imaginer et développer des outils numériques. Leur livraison n'a pas été constatée dans ce passage."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-cd-employment",
+      "type": "offer",
+      "name": "Entreprise et emploi dans le dispositif diaspora",
+      "statement_status": "stated-public-objective",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-cd-assistance",
+      "type": "offer",
+      "name": "Assistance aux relations Corse-diaspora",
+      "statement_status": "stated-public-objective",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Le site annonce la création d'un dispositif interactif. Ce n'est pas observé ici comme un service ouvert."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-amicale-gathering",
+      "type": "offer",
+      "name": "Faire se retrouver la diaspora corse à Bordeaux",
+      "statement_status": "stated-public-function",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "municipal-statement",
+      "provenance": {
+        "sources": ["source-amicale-eysines-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "La fiche dit aussi que des événements font découvrir la culture corse. Cela ne vaut pas acceptation d'une demande d'aide."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-corsica-1995",
+      "type": "offer",
+      "name": "Réunir sur Internet des compétences autonomes autour de la Corse",
+      "statement_status": "historical-public-purpose",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "corpus-statement",
+      "provenance": {
+        "sources": ["source-corpus-capable"],
+        "observed_at": "2026-09-30",
+        "notes": "Finalité historique portée par le nom de 1995. Pas un guichet ouvert en 2026."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "offer-diaspora-correction",
+      "type": "offer",
+      "name": "Recevoir une correction ou une fiche publique sourcée",
+      "statement_status": "project-policy",
+      "open_to_help": "true",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "this-repository",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Seule offre de ce jeu dont open_to_help est true. Elle porte sur le chemin de contribution de DIASPORA, pas sur une aide personnelle du Principal."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "need-cd-digital-tools",
+      "type": "need",
+      "name": "Outils numériques du projet Corsica Diaspora",
+      "statement_status": "stated-public-objective",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "Modélisé comme objectif que le projet de cinq ans dit vouloir développer. Ce n'est pas une demande d'aide adressée à DIASPORA, et aucune offre de ce jeu ne prétend y répondre."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "need-sourced-public-records",
+      "type": "need",
+      "name": "Fiches publiques sourcées et corrections",
+      "statement_status": "project-policy",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "this-repository",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "org-corsica-diaspora",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Corsica Diaspora et Amis de la Corse",
+      "display_name": "Corsica Diaspora",
+      "summary": "Association publique dont le site se présente comme le réseau des Corses d'ici et d'ailleurs. Le fondateur est nommé sur le site : Dr Edmond Simeoni. Il n'est pas enregistré ici comme personne joignable.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Bastia",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.696072962,
+        "lon": 9.4447206666,
+        "coordinate_precision": "registry-geocode",
+        "coordinate_note": "Coordonnées publiées par l'API Recherche d'entreprises pour le siège légal, pas pour l'adresse de correspondance du site."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "legal-seat-commune",
+          "commune": "Bastia",
+          "village": null,
+          "place_id": "place-bastia",
+          "declared_by": "public-registry",
+          "note": "Commune du siège déclaré. Aucun village d'origine des membres n'est inféré."
+        }
+      ],
+      "languages": ["fr"],
+      "language_basis": "langue de la page d'accueil observée le 2026-09-30",
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://www.corsica-diaspora.com/",
+        "public_email": "contact@corsica-diaspora.com",
+        "public_postal_address": "11 rue Saint-Joseph, 20200 Bastia",
+        "postal_address_note": "Adresse de correspondance publiée par l'association sur son site. Elle diffère du siège légal du répertoire.",
+        "other_public_channels": [
+          "https://www.facebook.com/corsicadiaspora/",
+          "https://www.helloasso.com/associations/corsica-diaspora-et-amis-de-la-corse",
+          "https://www.instagram.com/corsica.diaspora"
+        ]
+      },
+      "registry": {
+        "source_id": "source-cd-registry-2026-09-30",
+        "siren": "480878891",
+        "siret_siege": "48087889100013",
+        "rna": "W2B2000295",
+        "date_creation": "2004-12-29",
+        "etat_administratif": "A",
+        "naf": "94.99Z",
+        "nature_juridique": "9220",
+        "est_association": true,
+        "legal_seat_address": "BAT B 4 RUE BELVEDERE RES ORNANO 20200 BASTIA",
+        "observed_at": "2026-09-30"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry-and-website",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30", "source-cd-registry-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "last_reviewed": "2026-09-30",
+        "notes": "Deux adresses publiques coexistent. L'IBAN du site n'est pas recopié. Aucun dirigeant n'était diffusé dans la réponse d'API lue."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "project-cd-five-year",
+      "type": "project",
+      "name": "Projet quinquennal Corsica Diaspora",
+      "display_name": "Projet quinquennal annoncé par Corsica Diaspora",
+      "summary": "Le site annonce un projet de cinq ans, avec le soutien déclaré de l'ADEC et de la Collectivité de Corse, autour de l'animation du réseau, des outils numériques, de l'entreprise et de l'emploi, et d'une assistance aux relations Corse-diaspora. Ces institutions ne sont pas copiées ici comme fiches d'annuaire.",
+      "location": {
+        "kind": "project_location",
+        "city": "Bastia",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.696072962,
+        "lon": 9.4447206666,
+        "coordinate_precision": "registry-geocode",
+        "coordinate_note": "Même point que le siège de l'association porteuse, faute d'un lieu de projet distinct publié."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "carrier-seat",
+          "commune": "Bastia",
+          "village": null,
+          "place_id": "place-bastia",
+          "declared_by": "public-website"
+        }
+      ],
+      "languages": ["fr"],
+      "open_to_help": "unknown",
+      "contact": {},
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": ["source-cd-website-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "notes": "La durée de cinq ans et les partenaires sont des énoncés du site, pas une convention relue dans ce passage."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "org-amicale-corsica",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Amicale Corsica",
+      "display_name": "Amicale Corsica",
+      "summary": "L'annuaire de la ville d'Eysines décrit une association qui permet à la diaspora corse de se retrouver à Bordeaux et qui fait découvrir la culture corse lors d'événements. Aucune commune d'origine n'est indiquée.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Eysines",
+        "region": "Gironde",
+        "country": "France",
+        "country_code": "FR",
+        "activity_area": "Bordeaux",
+        "lat": 44.885,
+        "lon": -0.649,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde d'Eysines. La voie municipale n'est pas republiée. activity_area reprend le mot Bordeaux de la fiche, qui n'est pas la commune de localisation."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "stated-diaspora-purpose",
+          "commune": null,
+          "village": null,
+          "place_id": "place-corsica",
+          "declared_by": "municipal-page",
+          "note": "Lien corse de finalité, sans village ni commune d'origine."
+        }
+      ],
+      "languages": ["fr"],
+      "language_basis": "langue de la fiche municipale",
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://www.eysines.fr/fiche-annuaire-association/amicale-corsica/"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "municipal-directory",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": ["source-amicale-eysines-2026-09-30"],
+        "observed_at": "2026-09-30",
+        "last_reviewed": "2026-09-30",
+        "notes": "Minimisation : pas de nom de responsable, pas de téléphone, pas d'email personnel, pas de voie."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "org-corsica-association",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "C.O.R.S.I.C.A.",
+      "display_name": "C.O.R.S.I.C.A.",
+      "summary": "Corse Organisant la Réunion Sur Internet de Compétences Autonomes. Le corpus la décrit comme l'association créée à Corte à Noël 1995. Ce passage n'a pas relu un extrait RNA. Le cadre institutionnel de DIASPORA, déclaré par l'issue 96, est cette association.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Corte",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.306,
+        "lon": 9.149,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde de Corte. L'adresse d'affiliation publiée dans le corpus est 1 cours Paoli, F-20250 Corte. Elle n'a pas été géocodée au toit."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "corpus-affiliation",
+          "commune": "Corte",
+          "village": null,
+          "place_id": "place-corte",
+          "declared_by": "corpus"
+        }
+      ],
+      "languages": ["fr"],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani",
+        "public_postal_address": "1 cours Paoli, F-20250 Corte",
+        "postal_address_note": "Adresse d'affiliation déjà publiée dans le corpus. Pas une adresse privée ajoutée par cet annuaire."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "corpus-statement",
+      "public_private": "public-corpus",
+      "provenance": {
+        "sources": ["source-corpus-capable", "source-issue-96"],
+        "observed_at": "2026-09-30",
+        "last_reviewed": "2026-09-30",
+        "notes": "Distincte de l'Institut Mariani. Aucune immatriculation courante n'a été vérifiée dans ce passage."
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "org-institut-mariani",
+      "type": "organization",
+      "organization_kind": "documentary-institution",
+      "name": "Institut Mariani",
+      "display_name": "Institut Mariani",
+      "summary": "Couche documentaire du corpus, distincte de l'association C.O.R.S.I.C.A. de 1995 selon research/institut_mariani.md. Les documents publics signent souvent « Institut Mariani / C.O.R.S.I.C.A. ». Cette fiche ne fait pas de l'Institut l'opérateur légal de DIASPORA.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Corte",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.306,
+        "lon": 9.149,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "corpus-affiliation",
+          "commune": "Corte",
+          "village": null,
+          "place_id": "place-corte",
+          "declared_by": "corpus"
+        }
+      ],
+      "languages": ["fr"],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/institut_mariani.md"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "corpus-statement",
+      "public_private": "public-corpus",
+      "provenance": {
+        "sources": ["source-corpus-institut"],
+        "observed_at": "2026-09-30",
+        "last_reviewed": "2026-09-30"
+      },
+      "updated_at": "2026-09-30"
+    },
+    {
+      "id": "project-diaspora",
+      "type": "project",
+      "name": "DIASPORA",
+      "display_name": "DIASPORA",
+      "summary": "Projection publique ouverte par l'issue 96 : livre vivant et annuaire de capacités de la diaspora corse, dans le cadre institutionnel déclaré de C.O.R.S.I.C.A. Le nom de domaine visé est diaspora.acorsica.org. Il n'est pas publié par ce passage.",
+      "location": {
+        "kind": "project_location",
+        "city": "Corte",
+        "region": "Haute-Corse",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 42.306,
+        "lon": 9.149,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Siège institutionnel déclaré. Le projet vise une diaspora mondiale ; ce point n'est pas un barycentre des personnes."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "institutional-seat",
+          "commune": "Corte",
+          "village": null,
+          "place_id": "place-corte",
+          "declared_by": "issue-96"
+        }
+      ],
+      "languages": ["fr"],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "this-repository",
+      "public_private": "public-corpus",
+      "provenance": {
+        "sources": ["source-issue-96", "source-corpus-capable"],
+        "observed_at": "2026-09-30",
+        "last_reviewed": "2026-09-30",
+        "notes": "open_to_help reste unknown au niveau du projet. Seule l'offre de correction est marquée true."
+      },
+      "updated_at": "2026-09-30"
+    }
+  ],
+  "relations": [
+    {
+      "id": "rel-cd-located",
+      "type": "LOCATED_AT",
+      "from": "org-corsica-diaspora",
+      "to": "place-bastia",
+      "location_kind": "organization_location",
+      "provenance": { "sources": ["source-cd-registry-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-corsican-link",
+      "type": "CONNECTED_TO",
+      "from": "org-corsica-diaspora",
+      "to": "place-bastia",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "legal-seat-commune",
+      "provenance": { "sources": ["source-cd-registry-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-skill",
+      "type": "HAS_SKILL",
+      "from": "org-corsica-diaspora",
+      "to": "skill-diaspora-network",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-offer-animation",
+      "type": "OFFERS",
+      "from": "org-corsica-diaspora",
+      "to": "offer-cd-animation",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-offer-digital",
+      "type": "OFFERS",
+      "from": "org-corsica-diaspora",
+      "to": "offer-cd-digital",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-offer-employment",
+      "type": "OFFERS",
+      "from": "org-corsica-diaspora",
+      "to": "offer-cd-employment",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-offer-assistance",
+      "type": "OFFERS",
+      "from": "org-corsica-diaspora",
+      "to": "offer-cd-assistance",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-runs",
+      "type": "RUNS",
+      "from": "org-corsica-diaspora",
+      "to": "project-cd-five-year",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-project-located",
+      "type": "LOCATED_AT",
+      "from": "project-cd-five-year",
+      "to": "place-bastia",
+      "location_kind": "project_location",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-cd-project-needs",
+      "type": "NEEDS",
+      "from": "project-cd-five-year",
+      "to": "need-cd-digital-tools",
+      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30", "notes": "Le porteur énonce l'objectif. Il n'est pas un répondant à ce besoin." }
+    },
+    {
+      "id": "rel-amicale-located",
+      "type": "LOCATED_AT",
+      "from": "org-amicale-corsica",
+      "to": "place-eysines",
+      "location_kind": "organization_location",
+      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-amicale-corsican-link",
+      "type": "CONNECTED_TO",
+      "from": "org-amicale-corsica",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "stated-purpose-no-commune",
+      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-amicale-skill",
+      "type": "HAS_SKILL",
+      "from": "org-amicale-corsica",
+      "to": "skill-local-gathering",
+      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-amicale-offer",
+      "type": "OFFERS",
+      "from": "org-amicale-corsica",
+      "to": "offer-amicale-gathering",
+      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-corsica-located",
+      "type": "LOCATED_AT",
+      "from": "org-corsica-association",
+      "to": "place-corte",
+      "location_kind": "organization_location",
+      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-corsica-link",
+      "type": "CONNECTED_TO",
+      "from": "org-corsica-association",
+      "to": "place-corte",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "corpus-affiliation",
+      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-corsica-skill",
+      "type": "HAS_SKILL",
+      "from": "org-corsica-association",
+      "to": "skill-distributed-competencies",
+      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-corsica-offer",
+      "type": "OFFERS",
+      "from": "org-corsica-association",
+      "to": "offer-corsica-1995",
+      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-corsica-runs-diaspora",
+      "type": "RUNS",
+      "from": "org-corsica-association",
+      "to": "project-diaspora",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Enregistre le cadre institutionnel déclaré par l'issue 96. Pas une lecture de statut."
+      }
+    },
+    {
+      "id": "rel-institut-located",
+      "type": "LOCATED_AT",
+      "from": "org-institut-mariani",
+      "to": "place-corte",
+      "location_kind": "organization_location",
+      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-institut-link",
+      "type": "CONNECTED_TO",
+      "from": "org-institut-mariani",
+      "to": "place-corte",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "corpus-affiliation",
+      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-institut-skill",
+      "type": "HAS_SKILL",
+      "from": "org-institut-mariani",
+      "to": "skill-living-publication",
+      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-diaspora-located",
+      "type": "LOCATED_AT",
+      "from": "project-diaspora",
+      "to": "place-corte",
+      "location_kind": "project_location",
+      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-diaspora-needs",
+      "type": "NEEDS",
+      "from": "project-diaspora",
+      "to": "need-sourced-public-records",
+      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-diaspora-offer",
+      "type": "OFFERS",
+      "from": "project-diaspora",
+      "to": "offer-diaspora-correction",
+      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-diaspora-skill-book",
+      "type": "HAS_SKILL",
+      "from": "project-diaspora",
+      "to": "skill-living-publication",
+      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-diaspora-skill-directory",
+      "type": "HAS_SKILL",
+      "from": "project-diaspora",
+      "to": "skill-public-directory",
+      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+    },
+    {
+      "id": "rel-correction-addresses-need",
+      "type": "CAN_ADDRESS",
+      "from": "offer-diaspora-correction",
+      "to": "need-sourced-public-records",
+      "provenance": {
+        "sources": ["source-issue-96"],
+        "observed_at": "2026-09-30",
+        "notes": "Seul CAN_ADDRESS du jeu. Il relie l'offre de correction de ce projet au besoin que ce projet énonce. Il ne répond pas au projet quinquennal de Corsica Diaspora."
+      }
+    }
+  ]
+}

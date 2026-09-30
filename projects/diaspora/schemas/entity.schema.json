@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://diaspora.acorsica.org/schemas/entity.schema.json",
+  "title": "DIASPORA entity",
+  "type": "object",
+  "additionalProperties": true,
+  "required": ["id", "type", "name", "visibility", "publication_status", "verification_status", "provenance", "updated_at"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]{2,80}$" },
+    "type": {
+      "enum": ["person", "organization", "project", "place", "skill", "need", "offer", "source"]
+    },
+    "name": { "type": "string", "minLength": 1 },
+    "display_name": { "type": "string" },
+    "visibility": { "enum": ["public", "unlisted", "private"] },
+    "publication_status": { "enum": ["published", "submitted", "validated", "withheld", "unpublished"] },
+    "verification_status": { "type": "string" },
+    "open_to_help": { "enum": ["true", "false", "unknown"] },
+    "statement_status": { "type": "string" },
+    "languages": { "type": "array", "items": { "type": "string" } },
+    "corsican_links": { "type": "array" },
+    "location": { "type": "object" },
+    "contact": { "type": "object" },
+    "provenance": {
+      "type": "object",
+      "required": ["sources", "observed_at"],
+      "properties": {
+        "sources": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+        "observed_at": { "type": "string" },
+        "last_reviewed": { "type": "string" },
+        "notes": { "type": "string" }
+      }
+    },
+    "updated_at": { "type": "string" }
+  }
+}

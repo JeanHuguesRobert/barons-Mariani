@@ -1,0 +1,14 @@
+schema: diaspora.projection.v0
+id: web-v0
+status: working-projection
+frozen: false
+date: 2026-09-30
+language: fr
+entry: projects/diaspora/web/index.html
+seed: projects/diaspora/data/seed.json
+host: "http://127.0.0.1:8765/"
+public_host_declared: "https://diaspora.acorsica.org"
+public_host_deployed: false
+notes:
+  - "Local static projection. Not an immutable edition."
+  - "DNS and production placement were not changed."

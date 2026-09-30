@@ -1,0 +1,10 @@
+{
+  "name": "diaspora",
+  "private": true,
+  "type": "module",
+  "description": "DIASPORA living publication and public capability directory. Static-first, no installed runtime dependencies.",
+  "scripts": {
+    "test": "node scripts/validate-seed.js",
+    "serve": "node scripts/serve.js"
+  }
+}

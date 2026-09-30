@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Annuaire — DIASPORA</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="directory">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <p class="mark"><a href="index.html">DIASPORA</a></p>
+  <nav aria-label="Sections">
+    <a href="index.html">Accueil</a>
+    <a href="directory.html">Annuaire</a>
+    <a href="map.html">Carte</a>
+    <a href="match.html">Correspondance</a>
+    <a href="contribute.html">Contribuer</a>
+    <a href="book.html">Livre</a>
+    <a href="privacy.html">Confidentialité</a>
+  </nav>
+</header>
+<main id="contenu">
+  <h1>Annuaire</h1>
+  <p data-seed-status>Chargement du jeu.</p>
+  <form id="search-form" class="filters">
+    <div class="wide">
+      <label for="q">Nom, offre, compétence, projet</label>
+      <input id="q" name="q" type="search" autocomplete="off">
+    </div>
+    <div>
+      <label for="type">Type</label>
+      <select id="type" name="type">
+        <option value="">Tous les acteurs</option>
+        <option value="organization">Organisation</option>
+        <option value="project">Projet</option>
+        <option value="person">Personne</option>
+      </select>
+    </div>
+    <div>
+      <label for="language">Langue de la fiche</label>
+      <input id="language" name="language" placeholder="fr">
+    </div>
+    <div>
+      <label for="region">Lieu de présence</label>
+      <input id="region" name="region" placeholder="Bastia, Gironde, Corte">
+    </div>
+    <div>
+      <label for="corsican">Lien corse</label>
+      <input id="corsican" name="corsican" placeholder="commune sourcée">
+    </div>
+    <div class="wide"><button type="submit">Chercher</button></div>
+  </form>
+  <p class="muted">Le lieu de présence et le lien corse sont deux filtres. Une association en Gironde ne devient pas bastiaise parce qu'elle parle de la Corse.</p>
+  <div id="results"></div>
+  <p><a href="../data/seed.json">Export JSON du jeu publié</a></p>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contribuer — DIASPORA</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="contribute">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <p class="mark"><a href="index.html">DIASPORA</a></p>
+  <nav aria-label="Sections">
+    <a href="index.html">Accueil</a>
+    <a href="directory.html">Annuaire</a>
+    <a href="map.html">Carte</a>
+    <a href="match.html">Correspondance</a>
+    <a href="contribute.html">Contribuer</a>
+    <a href="book.html">Livre</a>
+    <a href="privacy.html">Confidentialité</a>
+  </nav>
+</header>
+<main id="contenu">
+  <h1>Déposer une correction</h1>
+  <p>Trois états distincts : dépôt, validation, publication. Cette page fabrique un dépôt sur votre appareil. Elle ne le valide pas, ne le publie pas, et ne l'envoie pas.</p>
+  <form id="contribute-form">
+    <label for="type">Type</label>
+    <select id="type" name="type">
+      <option value="organization">Organisation</option>
+      <option value="project">Projet</option>
+      <option value="person">Personne</option>
+    </select>
+    <label for="name">Nom public</label>
+    <input id="name" name="name" required>
+    <label for="city">Ville de présence</label>
+    <input id="city" name="city">
+    <label for="region">Région de présence</label>
+    <input id="region" name="region">
+    <label for="country">Pays de présence</label>
+    <input id="country" name="country">
+    <label for="commune">Commune corse déclarée, s'il y en a une</label>
+    <input id="commune" name="commune">
+    <label for="languages">Langues, séparées par des virgules</label>
+    <input id="languages" name="languages">
+    <label for="skills">Compétences déclarées</label>
+    <input id="skills" name="skills">
+    <label for="offers">Offres déclarées</label>
+    <input id="offers" name="offers">
+    <label for="needs">Besoins déclarés</label>
+    <input id="needs" name="needs">
+    <label for="public_url">URL déjà publique</label>
+    <input id="public_url" name="public_url" type="url">
+    <label for="public_email">Email organisationnel déjà public</label>
+    <input id="public_email" name="public_email" type="email" autocomplete="off">
+    <label for="notes">Source et remarque</label>
+    <textarea id="notes" name="notes"></textarea>
+    <label class="check"><input type="checkbox" name="authorized" required> Je déclare que ces informations sont publiques, ou que je suis en droit de les soumettre, et qu'elles ne contiennent ni téléphone personnel, ni adresse de domicile, ni attribut sensible inféré.</label>
+    <input type="hidden" name="declaration" value="Le déposant déclare un droit à soumettre ces informations publiques.">
+    <button type="submit">Préparer le paquet</button>
+  </form>
+  <h2>Paquet local</h2>
+  <pre id="packet" tabindex="0">Aucun paquet.</pre>
+  <p><button type="button" id="copy-packet">Copier le paquet</button></p>
+  <p class="muted">Pour le proposer au corpus, gardez ce JSON et transmettez-le par un canal que vous choisissez. La publication reste une décision humaine séparée. Issue de suivi : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/issues/96">#96</a>.</p>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>
