@@ -38,6 +38,12 @@ Le dernier développement sénatorial intégré au numéro est la séquence suiv
 3. il réduit simultanément sa demande afin de limiter la charge du service : aucune numérisation nouvelle n'est demandée ; sont demandés, si possible, les seuls documents déjà détenus sous forme dématérialisée ; si leur transmission est impossible, les raisons de cette impossibilité sont demandées ; parmi les quarante bulletins nuls, la vérification est ciblée sur d'éventuelles mentions « Baron Mariani », « Mariani », « Jean Hugues Robert » ou une graphie raisonnablement rapprochable ;
 4. le signal selon lequel un grand électeur aurait déclaré publiquement avoir voté « Baron Mariani » reste qualifié de **déclaration rapportée** : il justifie une vérification matérielle mais ne permet ni d'identifier un bulletin ni de lever le secret du vote.
 
+## Delta probatoire intégré avant freeze
+
+Une dernière passe de cohérence a consolidé la chronologie du **11 septembre 2026** avant le freeze technique. Elle distingue désormais explicitement les faits établis, les témoignages, les hypothèses fortes et les inconnues ouvertes, notamment pour le trajet du matin et la séquence préfectorale.
+
+Cette consolidation améliore la qualité documentaire du n°3 sans déplacer sa borne éditoriale au-delà du 30 septembre.
+
 ## Borne éditoriale
 
 Le numéro 3 s'arrête **avant** le rendez-vous du 1er octobre.
