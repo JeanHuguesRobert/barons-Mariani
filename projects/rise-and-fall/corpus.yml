@@ -17,6 +17,18 @@ architecture:
   rule: "Inquiry architecture, documentary base, and editorial projections are distinct but interoperable."
 
 sources:
+  - id: electoral-echo-1863-2026
+    path: projects/rise-and-fall/manuscript/book/06-deux-epoques-se-repondent.md
+    role: cross-project-book-pivot
+    required: true
+    note: "Transhistorical bridge toward Suicide Corse, preserving the differences between the 1863 and 2026 electoral-protest contexts."
+
+  - id: electoral-echo-1863-2026-note
+    path: projects/rise-and-fall/investigation/notes/2026-09-30-echo-electoral-1863-2026.md
+    role: comparative-investigation-note
+    required: false
+    note: "Comparative note for the 1863↔2026 documentary resonance."
+
   - id: reality-case-1863-gavini
     path: projects/rise-and-fall/investigation/reality_cases/RC-01-1863-gavini.md
     role: pilot-reality-case
