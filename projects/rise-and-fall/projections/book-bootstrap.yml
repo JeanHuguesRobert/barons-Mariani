@@ -38,6 +38,9 @@ editorial_plan:
       - id: B5
         title: "Minesteggio — quand une mémoire retrouve un nom"
         source: ../manuscript/book/05-minesteggio-la-memoire-retrouve-un-nom.md
+      - id: B6
+        title: "Deux époques se répondent — 1863 ↔ 2026"
+        source: ../manuscript/book/06-deux-epoques-se-repondent.md
   magazine:
     rubrics:
       - title: "Point d'enquête"
