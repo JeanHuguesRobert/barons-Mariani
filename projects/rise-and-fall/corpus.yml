@@ -35,6 +35,12 @@ sources:
     required: true
     note: "Tabular integrated timeline of major family bifurcations (1776–2026) with E/P/S/D/O proof statuses."
 
+  - id: tony-toma-minesteggio-provenance
+    path: projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md
+    role: provenance-note
+    required: false
+    note: "Identifies Antoine 'Tony' Toma as the oral source of one competing Minesteggio etymology; public sources corroborate his Toulouse III academic activity and Cortenais musical identity, while the etymology itself remains a hypothesis."
+
   - id: protestation-1863-primary-source-analysis
     path: research/protestation_electorale_1863_mariani_gavini.md
     role: primary-source-dossier
