@@ -1,0 +1,54 @@
+schema: rise-and-fall.projection.book.v0
+id: rise-and-fall-bootstrap
+status: working
+render_ready: false
+language: fr
+title: "Rise & Fall of the Mariani Family"
+subtitle: "Reconstitution régressive et prospective des bifurcations de capacité d'une famille corse (1776–2026)"
+author: "Jean Hugues Noël Robert"
+edition_label: "Édition d'amorçage — Cadre d'enquête et Reality Case pilote 1863"
+
+source_manifest: ../corpus.yml
+related_issue: 94
+editorial_architecture: ../editorial-architecture.md
+
+edition:
+  number: 1
+  editorial_date: "2026-09-30"
+  publication_date: null
+  date_is_intentionally_unset: true
+  close_target: "Working draft — not frozen"
+
+editorial_plan:
+  principle: "Le corps principal raconte ; le Magazine actualise ; les annexes démontrent."
+  book:
+    sequence:
+      - id: B1
+        title: "Ouverture — Le problème de la capacité d'une famille dans l'histoire"
+        source: ../README.md
+      - id: B2
+        title: "Architecture d'enquête — Deux passes et grammaire capacitaire"
+        source: ../architecture.md
+      - id: B3
+        title: "Reality Case pilote — L'élection législative de 1863"
+        source: ../investigation/reality_cases/RC-01-1863-gavini.md
+  magazine:
+    rubrics:
+      - title: "Point d'enquête"
+        note: "Initial bootstrap checkpoint — 30 September 2026."
+      - title: "Continuations"
+        note: "Ouverture des chantiers d'archives nationales et de la donation de 1924."
+  annexes:
+    items:
+      - id: A1
+        title: "Architecture éditoriale et protocoles de gel"
+        source: ../editorial-architecture.md
+      - id: A2
+        title: "Index des éditions"
+        source: ../editions/index.md
+
+outputs:
+  required: [html, pdf, epub]
+  optional: []
+  status: "bootstrap working draft"
+  technical_manifest: required

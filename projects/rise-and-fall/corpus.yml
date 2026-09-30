@@ -1,0 +1,110 @@
+schema: rise-and-fall.corpus.v0
+project: "Rise & Fall of the Mariani Family"
+short_name: "Rise & Fall"
+slug: "rise-and-fall"
+status: working
+language: fr
+visibility: public
+updated: "2026-09-30"
+source_of_truth: "repository corpus files, primary historical records, and materially relevant issue traces; this manifest references them and does not replace them"
+
+architecture:
+  inquiry: projects/rise-and-fall/architecture.md
+  editorial: projects/rise-and-fall/editorial-architecture.md
+  project_index: projects/rise-and-fall/README.md
+  editions: projects/rise-and-fall/editions/index.md
+  rule: "Inquiry architecture, documentary base, and editorial projections are distinct but interoperable."
+
+sources:
+  - id: reality-case-1863-gavini
+    path: projects/rise-and-fall/investigation/reality_cases/RC-01-1863-gavini.md
+    role: pilot-reality-case
+    required: true
+    note: "Pilot Reality Case: Louis-Thomas Mariani's 1863 election protest against Sampiero Gavini. Disciplines causal claims through primary electoral data and arithmetic counterfactual bounds."
+
+  - id: protestation-1863-primary-source-analysis
+    path: research/protestation_electorale_1863_mariani_gavini.md
+    role: primary-source-dossier
+    required: true
+    note: "Full OSINT and institutional analysis of the 1863 election protest printed memory, Assemblée nationale records, and Musée d'Orsay identification."
+
+  - id: persons-genealogical-index
+    path: musee-mariani/personnes/README.md
+    role: canonical-persons-index
+    required: true
+    note: "Canonical index of persons with E/P/S/D/O proof statuses across Mariani, de Casabianca, and d'Angelis lineages."
+
+  - id: relevement-nom-dangelis
+    path: research/relevement_nom_dangelis.md
+    role: legal-genealogical-dossier
+    required: true
+    note: "Documents the d'Angelis -> Mariani -> Robert succession, the Bastia funerary chapel (AR 186), and the civil code article 61 conditions."
+
+  - id: projet-minesteggio
+    path: research/projet_minesteggio.md
+    role: patrimonial-territorial-dossier
+    required: false
+    note: "Historical context of the Minesteggio estate, uchronian museum design, and DRAC historical monument process."
+
+  - id: notices-famille-etendue
+    path: musee-mariani/methodes/notices_famille_etendue.md
+    role: genealogical-method-source
+    required: true
+    note: "Augmented genealogy methodology: trajectory tracking, territory anchoring, and proof-level attribution."
+
+  - id: preuves-et-incertitudes
+    path: musee-mariani/notes-critiques/preuves-et-incertitudes.md
+    role: epistemic-critique-source
+    required: true
+    note: "Core critical standards distinguishing established primary facts, probable inferences, secondary genealogies, and open contradictions."
+
+  - id: suicide-corse-architecture-v2
+    path: projects/suicide-corse/architecture.md
+    role: inherited-inquiry-architecture
+    required: false
+    note: "Provides the underlying capability grammar: X_s(t) = (R_s, Phi_s, C_s, A_s, Q_s, B_s, T_s) and scale invariance rules."
+
+  - id: suicide-corse-editorial-architecture
+    path: projects/suicide-corse/editorial-architecture.md
+    role: inherited-editorial-architecture
+    required: false
+    note: "Canonical reference for continuous publication, immutable freezes, content/form asymmetry, and Book/Magazine/Annexes layering."
+
+projections:
+  bootstrap_edition:
+    contract: projects/rise-and-fall/projections/book-bootstrap.yml
+    state: working
+    edition_label: "Édition d'amorçage — Cadre méthodologique et Reality Case pilote 1863"
+    target: "initial-scaffold"
+
+issues:
+  parent: 94
+  semantic_delta_reference: 93
+  genealogy_augmentation: 64
+
+external_dependencies:
+  - repository: JeanHuguesRobert/ubikia
+    role: "Markdown -> projection -> Quarto (HTML/PDF/EPUB) render pipeline"
+
+editorial_rules:
+  two_pass_methodology_required: true
+  pass_a_regressive_archaeology: true
+  pass_b_forward_reconstruction: true
+  no_predetermined_state_blame: true
+  test_null_hypothesis: true
+  preserve_epistemic_status: true
+  book_is_source_of_truth: false
+  corpus_and_projection_are_distinct: true
+  editions_are_immutable_snapshots: true
+  content_history_constrains_future_content: true
+  past_form_does_not_constrain_future_form: true
+  corrections_are_first_class_content: true
+  private_family_disputes_stay_in_registre_mariani: true
+  unknown_is_allowed: true
+
+open_gaps:
+  - "Recover the Corps législatif powers verification committee report definitively validating the 1863 election of Sampiero Gavini."
+  - "Recover primary vital record for Antoine Dominique Mariani's death (currently converged on 8 December 1845 in secondary literature)."
+  - "Fulfill P0 civil acts for the d'Angelis -> Mariani -> Robert chain: Marie Joséphine d'Angelis birth, 1853 marriage with Louis-Hugues Mariani, and Pierre Mariani birth."
+  - "Reconstruct the exact cadastral and ownership history of the Minesteggio estate across the 19th and 20th centuries, including the 1924 land donation in Corte."
+  - "Inventory fiscal and succession records (enregistrement et hypothèques) associated with the estate transitions to isolate tax loads from private debt."

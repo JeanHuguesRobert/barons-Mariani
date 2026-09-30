@@ -1,0 +1,79 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Rise & Fall — Causal Claim and Adverse Review Schema"
+description: "Formal schema for evaluating causal claims regarding public and private mechanisms in the Mariani family inquiry, enforcing contradictory review and anti-confirmation bias rules."
+type: object
+required:
+  - claim_id
+  - asserted_loss_or_transition
+  - asserted_mechanism
+  - primary_evidence
+  - adverse_review
+  - epistemic_verdict
+properties:
+  claim_id:
+    type: string
+    pattern: "^CLM-[0-9]{4}-[0-9]{2,}$"
+  asserted_loss_or_transition:
+    type: string
+    description: "What capacity was lost or degraded"
+  asserted_mechanism:
+    type: object
+    required: [actor, action, category]
+    properties:
+      actor: { type: string }
+      action: { type: string }
+      category:
+        type: string
+        enum:
+          - public_central_deliberate
+          - public_administrative_inertia
+          - public_judicial_ruling
+          - public_general_law_equal_impact
+          - private_family_choice
+          - private_family_conflict
+          - market_macroeconomic_shock
+          - biological_demographic_contingency
+  primary_evidence:
+    type: array
+    items:
+      type: object
+      required: [source_ref, evidentiary_weight]
+      properties:
+        source_ref: { type: string }
+        evidentiary_weight:
+          type: string
+          enum: ["direct_proof", "strong_corroboration", "circumstantial", "unsupported_hearsay"]
+  adverse_review:
+    type: object
+    required: [null_hypothesis_evaluation, strongest_objection, alternative_explanations]
+    properties:
+      null_hypothesis_evaluation:
+        type: string
+        description: "Evaluation against standard non-targeted sociological/legal developments"
+      strongest_objection:
+        type: string
+        description: "The most robust counter-argument challenging this causal link"
+      counter_evidence:
+        type: array
+        items: { type: string }
+      alternative_explanations:
+        type: array
+        items: { type: string }
+  epistemic_verdict:
+    type: object
+    required: [status, confidence]
+    properties:
+      status:
+        type: string
+        enum:
+          - established_causal_link
+          - probable_causal_contribution
+          - mixed_causality
+          - refuted_by_evidence
+          - indeterminate_unknown
+      confidence:
+        type: string
+        enum: ["high", "medium", "low", "speculative"]
+      reversibility_trigger:
+        type: string
+        description: "What specific future archive discovery would overturn this verdict"

@@ -1,0 +1,173 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "Rise & Fall — Bifurcation Schema"
+description: "Formal schema for recording historical bifurcations, state transitions, lost/preserved capacities, and bounded counterfactuals in the Mariani family inquiry."
+type: object
+required:
+  - id
+  - title
+  - temporal_anchor
+  - actors_involved
+  - state_before
+  - event_or_mechanism
+  - state_after
+  - causal_attribution
+  - counterfactual
+properties:
+  id:
+    type: string
+    pattern: "^BIF-[0-9]{4}-[0-9]{2,}$"
+    description: "Unique identifier (e.g., BIF-1863-01)"
+  title:
+    type: string
+    description: "Factual title of the event or bifurcation"
+  temporal_anchor:
+    type: object
+    required:
+      - precision
+    properties:
+      date_exact:
+        type: ["string", "null"]
+        format: date
+      period_start:
+        type: string
+      period_end:
+        type: string
+      precision:
+        type: string
+        enum: ["day", "month", "year", "decade"]
+  actors_involved:
+    type: object
+    properties:
+      family:
+        type: array
+        items:
+          type: object
+          required: [person_id, role]
+          properties:
+            person_id: { type: string }
+            role: { type: string }
+      public_entities:
+        type: array
+        items:
+          type: object
+          required: [entity_name, jurisdiction]
+          properties:
+            entity_name: { type: string }
+            jurisdiction:
+              type: string
+              enum: ["central_state", "prefecture", "judiciary", "municipality", "tax_office", "military"]
+            role: { type: string }
+      private_third_parties:
+        type: array
+        items:
+          type: object
+          properties:
+            name: { type: string }
+            nature: { type: string }
+  state_before:
+    type: object
+    required: [effective_capabilities, open_possibles]
+    properties:
+      patrimonial_assets:
+        type: array
+        items: { type: string }
+      effective_capabilities:
+        type: array
+        items: { type: string }
+      open_possibles:
+        type: array
+        items: { type: string }
+      buffers_and_reserves:
+        type: array
+        items: { type: string }
+  event_or_mechanism:
+    type: object
+    required: [nature, documented_description, primary_sources]
+    properties:
+      nature:
+        type: string
+        enum:
+          - legal_reform
+          - administrative_act
+          - election_dispute
+          - court_ruling
+          - expropriation
+          - taxation
+          - family_choice
+          - market_shock
+          - biological_contingency
+      documented_description: { type: string }
+      primary_sources:
+        type: array
+        items:
+          type: object
+          required: [ref, status]
+          properties:
+            ref: { type: string }
+            status:
+              type: string
+              enum: ["ESTABLISHED", "PROBABLE", "SECONDARY", "DISCORDANT", "UNKNOWN"]
+            provenance: { type: string }
+  state_after:
+    type: object
+    required: [capabilities_preserved, capabilities_extinguished_closed]
+    properties:
+      capabilities_preserved:
+        type: array
+        items: { type: string }
+      capabilities_degraded_friction:
+        type: array
+        items: { type: string }
+      capabilities_extinguished_closed:
+        type: array
+        items: { type: string }
+      new_constraints_or_loads:
+        type: array
+        items: { type: string }
+  causal_attribution:
+    type: object
+    required: [initial_hypothesis_state_contribution, alternative_explanations, objections_and_limits]
+    properties:
+      initial_hypothesis_state_contribution:
+        type: string
+        enum:
+          - none
+          - indirect
+          - direct_structural
+          - direct_targeted
+          - unsupported
+      state_agency_detail:
+        type: string
+        description: "Exact institutional branch if public action is identified"
+      alternative_explanations:
+        type: array
+        items:
+          type: object
+          required: [hypothesis, evidence_level]
+          properties:
+            hypothesis: { type: string }
+            evidence_level: { type: string }
+      objections_and_limits:
+        type: array
+        items:
+          type: object
+          required: [objection, status]
+          properties:
+            objection: { type: string }
+            status:
+              type: string
+              enum: ["open", "refuting", "weakening", "neutralized"]
+  counterfactual:
+    type: object
+    required: [counterfactual_scenario, necessary_conditions, plausibility_grade]
+    properties:
+      counterfactual_scenario: { type: string }
+      necessary_conditions:
+        type: array
+        items: { type: string }
+      plausibility_grade:
+        type: string
+        enum: ["bounded_arithmetic", "historical_plausible", "highly_speculative"]
+      causal_distance:
+        type: string
+        enum: ["immediate", "intermediate", "remote"]
