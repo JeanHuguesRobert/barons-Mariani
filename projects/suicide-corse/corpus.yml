@@ -225,6 +225,12 @@ sources:
     required: true
     note: "Principal decision of 30 September 2026: n°3 is the Spécial sénatoriales dated Wednesday 30 September 2026. Does not freeze the edition or pin a source commit."
 
+  - id: suicide-corse-n3-special-senatoriales-content-close-2026-09-30
+    path: projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md
+    role: editorial-content-close-decision
+    required: true
+    note: "Human content boundary for n°3: final included fact is the accepted 1 Oct prefecture consultation and narrowed request. Outcome of that appointment belongs to n°4. Technical freeze remains pending a fresh Phase A render."
+
   - id: senatoriales-2026-third-candidate-uchronia-probes
     path: research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md
     role: constrained-electoral-uchronia-probe-matrix
@@ -290,7 +296,7 @@ sources:
     path: research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md
     role: document-access-probe-with-response
     required: false
-    note: "Request sent 27–28 Sep; Bureau des élections replied 30 Sep confirming access and proposing in-person consultation on 1 Oct at 14:00. Contents of the invalid ballots remain unexamined; requested dematerialized transmission was not explicitly addressed."
+    note: "Request sent 27–28 Sep; Bureau des élections replied 30 Sep confirming access and proposing in-person consultation on 1 Oct at 14:00. Appointment accepted 30 Sep at 10:37 with scope narrowed to already-dematerialized documents, reasons if transmission is impossible, and a targeted check of the 40 invalid ballots for Baron Mariani / Mariani / Jean Hugues Robert or approximate wording. Appointment outcome remains unexamined and belongs to n4."
 
   - id: senatoriales-2026-corte-subprefecture-channel-probe
     path: research/senatoriales-2026/demande_information_sous_prefecture_corte_2026-09-28.md
@@ -360,11 +366,12 @@ projections:
     rule: "Reproject the current Corpus freely; the previous edition constrains provenance and coverage, not form."
   numero_3:
     issue: 84
-    state: working
+    state: content-closed-pending-verification
     editorial_date: "2026-09-30"
     edition_label: "Spécial sénatoriales"
-    close_target: "Wednesday 30 September 2026 — current editorial date; Tuesday 29 September 2026 remains the prior late-close target"
+    close_target: "Content closed Wednesday 30 September 2026; technical freeze pending verification"
     editorial_date_audit: projects/suicide-corse/audits/2026-09-30-special-senatoriales-editorial-date.md
+    content_close_audit: projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md
     contract: projects/suicide-corse/projections/book-n3-working.yml
     journal: projects/suicide-corse/journals/2026-09-23-n3-construction.md
     baseline_commit: f061abb2484dc5ee973d81865db5c9d3b5854d58
