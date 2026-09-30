@@ -73,9 +73,11 @@ Le n°3 est **« Spécial sénatoriales »**, daté du **mercredi 30 septembre 2
 
 Le bouclage visait d'abord le lundi 28 septembre, puis le mardi 29 septembre, pour laisser le scrutin du dimanche 27 et les réactions du lundi entrer dans l'analyse. Le 30 septembre 2026, la date éditoriale courante est portée au mercredi. Cette décision est enregistrée dans [`audits/2026-09-30-special-senatoriales-editorial-date.md`](audits/2026-09-30-special-senatoriales-editorial-date.md). L'audit du mardi reste dans [`audits/2026-09-29-special-senatoriales-late-close.md`](audits/2026-09-29-special-senatoriales-late-close.md).
 
-La cadence hebdomadaire du lundi reste la règle ordinaire. Le numéro n'est pas gelé : aucun rendu HTML, PDF ou EPUB de ce spécial n'est encore une édition close.
+La cadence hebdomadaire du lundi reste la règle ordinaire. **Le contenu éditorial du n°3 est désormais clos au 30 septembre**, selon [`audits/2026-09-30-special-senatoriales-content-close.md`](audits/2026-09-30-special-senatoriales-content-close.md). Le numéro n'est pas encore gelé : un nouveau rendu HTML/PDF/EPUB de vérification doit être produit depuis le `main` courant.
 
-Le principal delta tardif est désormais la **borne contrefactuelle du second tour** : les 76 blancs et nuls ne suffisaient pas à eux seuls à empêcher l'élection au premier tour ; selon la conversion des non-exprimés, une troisième candidature aurait dû déplacer en outre entre **134 et 177 voix observées sur Parigi**. Cette plage mesure une condition arithmétique minimale ; elle n'est pas une prédiction.
+Le principal delta tardif comprend la **borne contrefactuelle du second tour** : les 76 blancs et nuls ne suffisaient pas à eux seuls à empêcher l'élection au premier tour ; selon la conversion des non-exprimés, une troisième candidature aurait dû déplacer en outre entre **134 et 177 voix observées sur Parigi**. Cette plage mesure une condition arithmétique minimale ; elle n'est pas une prédiction.
+
+Le **dernier fait du numéro** est la réponse du Bureau des élections du 30 septembre : accès aux pièces confirmé, rendez-vous proposé puis accepté pour le **1er octobre à 14 h**, avec une demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. **Le résultat du rendez-vous appartient au n°4.**
 
 Principe : **attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre le bouclage indéfini.**
 
