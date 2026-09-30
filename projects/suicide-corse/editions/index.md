@@ -105,7 +105,7 @@ Le 23 septembre 2026, Jean Hugues Robert a confirmé explicitement que **le num�
 
 Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) et son journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
 
-Le numéro 3 est **« Spécial sénatoriales »**, avec une date éditoriale au **mercredi 30 septembre 2026**. Son freeze reste à décider explicitement après rerender et vérification. La décision de date est [`audits/2026-09-30-special-senatoriales-editorial-date.md`](../audits/2026-09-30-special-senatoriales-editorial-date.md).
+Le numéro 3 est **« Spécial sénatoriales »**, avec une date éditoriale au **mercredi 30 septembre 2026**. Son **contenu éditorial est clos** au 30 septembre, mais son freeze reste à décider explicitement après rerender et vérification. La décision de date est [`audits/2026-09-30-special-senatoriales-editorial-date.md`](../audits/2026-09-30-special-senatoriales-editorial-date.md) et la borne de contenu est [`audits/2026-09-30-special-senatoriales-content-close.md`](../audits/2026-09-30-special-senatoriales-content-close.md).
 
 Le bouclage visait le lundi, puis le mardi 29 septembre : le scrutin a eu lieu dimanche 27 septembre et les réactions du lundi ont matériellement amélioré l'analyse du Reality Case. Cette étape reste documentée par [`audits/2026-09-29-special-senatoriales-late-close.md`](../audits/2026-09-29-special-senatoriales-late-close.md).
 
@@ -116,7 +116,8 @@ Son point de départ est le delta postérieur au n°2 gelé, notamment :
 - les premiers Reality Tests post-n°2 du projet #1755 ;
 - les développements sur l'effectivité et le statut de résident ;
 - le **delta sénatorial du 25 septembre** : réception effective du jugement, résolution de l'heure d'enregistrement de la note en délibéré à 15:49, maintien de résidus documentaires précis, relance ciblée du greffe et demande formelle CRPA/RGPD à la préfecture avec conservation des traces techniques encore disponibles.
-- l'analyse post-scrutin du 29 septembre : résultats officiels, réactions publiques, correction des inférences excessives et **borne contrefactuelle 134–177 voix** pour le scénario de second tour, conservée comme borne et non comme prédiction.
+- l'analyse post-scrutin du 29 septembre : résultats officiels, réactions publiques, correction des inférences excessives et **borne contrefactuelle 134–177 voix** pour le scénario de second tour, conservée comme borne et non comme prédiction ;
+- le dernier jalon du 30 septembre : accès préfectoral aux pièces confirmé, rendez-vous du **1er octobre à 14 h** accepté, demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. Le résultat de ce rendez-vous appartient au n°4.
 
 Pour ce dernier axe, le matériau canonique reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Il est enregistré comme **candidat éditorial** et non comme chapitre déjà décidé.
 
