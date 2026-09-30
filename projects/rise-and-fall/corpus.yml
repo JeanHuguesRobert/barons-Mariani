@@ -39,7 +39,7 @@ sources:
     path: projects/rise-and-fall/assets/cover/blason.md
     role: heraldic-verification
     required: false
-    note: "The working cover ornament is a couronne, not a tortil. It does not change the 1811 and 1813 dates."
+    note: "On 1 October 2026 the working cover ornament was changed from a couronne to a tortil. The 1811 and 1813 dates are unchanged."
 
   - id: chapter-03-reality-case-rc01
     path: projects/rise-and-fall/manuscript/book/03-reality-case-rc01-1863.md
