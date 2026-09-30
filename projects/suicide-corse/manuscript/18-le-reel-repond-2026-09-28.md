@@ -32,7 +32,7 @@ review:
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# Le Réel répond — état au bouclage du Spécial sénatoriales du 29 septembre 2026
+# Le Réel répond — état au bouclage du Spécial sénatoriales du 30 septembre 2026
 
 Ce chapitre constitue la **couche magazine** du numéro 3 — **Spécial sénatoriales**. Il enregistre ce que le Réel a produit, déplacé ou contredit entre le gel du numéro 2 (21 septembre) et le bouclage exceptionnel du mardi 29 septembre.
 
@@ -113,7 +113,7 @@ Le calcul contrefactuel a depuis été resserré : les 76 blancs et nuls ne suff
 La proclamation du 27 septembre ouvre la phase de contestation électorale étudiée dans le dossier sénatorial. Le calcul exact du délai et ses modalités sont conservés dans les documents juridiques spécialisés du Corpus plutôt que développés ici.
 
 Deux actes majeurs structurent cette phase :
-1. **La consultation légale des pièces électorales (RP-SEN-08) :** Mise en œuvre de l'article 32 de l'ordonnance de 1958 sollicitant de la préfecture de Bastia la communication dématérialisée du procès-verbal général et des 40 bulletins déclarés nuls pour vérification des motifs de rejet.
+1. **La consultation légale des pièces électorales (RP-SEN-08) :** La demande adressée à la préfecture a reçu une réponse le **30 septembre à 08 h 16** : le Bureau des élections confirme que les pièces peuvent être consultées et propose un rendez-vous en préfecture le **1er octobre à 14 h**. Il cite les procès-verbaux, listes d’émargement, bulletins nuls, annexes et feuilles de dépouillement. Le contenu des 40 bulletins nuls reste inconnu à ce stade ; la transmission dématérialisée demandée n’est pas explicitement traitée dans la réponse.
 2. **La requête en annulation (RP-SEN-09) :** Finalisation d'un mémoire au fond assorti d'un **inventaire probatoire exhaustif de 25 pièces**, articulé autour de principes fermes :
    - Pleine coopération et diligence continue du candidat (présence à 12h10, régularisation financière en 1h54, courriel vidéo à 17h57) ;
    - contestation de la portée juridique donnée à l'exigence d'originaux et de signatures manuscrites ;
