@@ -17,11 +17,65 @@ architecture:
   rule: "Inquiry architecture, documentary base, and editorial projections are distinct but interoperable."
 
 sources:
+  - id: chapter-00-ouverture
+    path: projects/rise-and-fall/manuscript/book/00-ouverture.md
+    role: book-chapter
+    required: true
+    note: "Volume I opening: The problem of family capacity in history."
+
+  - id: chapter-01-methode
+    path: projects/rise-and-fall/manuscript/book/01-methode-deux-passes.md
+    role: book-chapter
+    required: true
+    note: "Method of two passes and capability grammar."
+
+  - id: chapter-02-antoine-dominique
+    path: projects/rise-and-fall/manuscript/book/02-antoine-dominique-et-titre-1813.md
+    role: book-chapter
+    required: true
+    note: "Antoine Dominique Mariani and the 1813 Westphalian baron title by King Jérôme Bonaparte. The 1811 subprefecture and the 1813 title are separate events."
+
+  - id: cover-timbre-verification-2026-09-30
+    path: projects/rise-and-fall/assets/cover/blason.md
+    role: heraldic-verification
+    required: false
+    note: "The working cover ornament is a couronne, not a tortil. It does not change the 1811 and 1813 dates."
+
+  - id: chapter-03-reality-case-rc01
+    path: projects/rise-and-fall/manuscript/book/03-reality-case-rc01-1863.md
+    role: book-chapter
+    required: true
+    note: "Reality Case RC-01: 1863 legislative election protest."
+
+  - id: chapter-04-reality-case-rc02
+    path: projects/rise-and-fall/manuscript/book/04-reality-case-rc02-1924.md
+    role: book-chapter
+    required: true
+    note: "Reality Case RC-02: 1924 war memorial land donation in Corte."
+
+  - id: chapter-05-minesteggio
+    path: projects/rise-and-fall/manuscript/book/05-minesteggio-la-memoire-retrouve-un-nom.md
+    role: book-chapter
+    required: true
+    note: "Memory retrieves a name: Antoine Tony Toma and Minesteggio."
+
   - id: electoral-echo-1863-2026
     path: projects/rise-and-fall/manuscript/book/06-deux-epoques-se-repondent.md
     role: cross-project-book-pivot
     required: true
     note: "Transhistorical bridge toward Suicide Corse, preserving the differences between the 1863 and 2026 electoral-protest contexts."
+
+  - id: chapter-07-chronologie
+    path: projects/rise-and-fall/manuscript/book/07-chronologie-et-bifurcations.md
+    role: book-chapter
+    required: true
+    note: "Critical chronology: 250 years and 14 family bifurcations with E/P/S/D/O codes."
+
+  - id: chapter-08-questions-ouvertes
+    path: projects/rise-and-fall/manuscript/book/08-questions-ouvertes.md
+    role: book-chapter
+    required: true
+    note: "Open questions and research frontiers for Volume I."
 
   - id: electoral-echo-1863-2026-note
     path: projects/rise-and-fall/investigation/notes/2026-09-30-echo-electoral-1863-2026.md

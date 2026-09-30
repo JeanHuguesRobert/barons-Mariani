@@ -40,9 +40,9 @@ review:
 
 **Responsabilité éditoriale finale :** Jean Hugues Noël Robert.
 
-**Cadre de recherche et de publication :** Institut Mariani / association C.O.R.S.I.C.A.
+**Éditeur et responsabilité de la publication :** l'association C.O.R.S.I.C.A. (loi 1901). L'Institut Mariani en est l'organe de recherche. L'association produit les outils, incube les initiatives et assume la responsabilité des publications. Jean Hugues Noël Robert en est le président : la responsabilité de ces publications est donc la sienne.
 
-La qualification juridique définitive de l'entité éditrice et de la direction de publication dépend du support effectivement publié et doit rester distincte de la responsabilité éditoriale déclarée ci-dessus.
+**Adresse publique de correspondance et de publication :** `institutmariani@gmail.com`. Cette adresse est la destination voulue. Sa présence dans le livre n'est pas une fuite.
 
 ## Une édition en trois couches
 
@@ -107,7 +107,7 @@ Une projection éditoriale ou un texte dérivé ne constitue jamais, par lui-mê
 
 ## Statut de cette preview
 
-Le premier rendu de vérification du n°3 a produit les trois formats attendus — HTML, PDF et EPUB — sans appliquer ni pousser d'artefact et sans publication publique.
+Le premier rendu de vérification du n°3 a produit les trois formats attendus — HTML, PDF et EPUB. Une prévisualisation publique non gelée a ensuite été servie. Elle ne constitue pas l'édition close.
 
 Cette preview sert à détecter les défauts de composition, de transformation et de mise en page avant toute décision de gel.
 
@@ -141,7 +141,7 @@ Courriel :
 
 `institutmariani@gmail.com`
 
-La réception d'un message, sa conservation, son utilisation dans l'enquête et sa publication sont quatre opérations distinctes. Un courriel privé ou une pièce transmise n'est pas automatiquement publiable.
+Cette adresse est celle de l'association C.O.R.S.I.C.A., éditrice des publications. La réception d'un message, sa conservation, son utilisation dans l'enquête et sa publication restent quatre opérations distinctes. Un courriel privé ou une pièce transmise n'est pas automatiquement publiable.
 
 ## Licence et droits de tiers
 

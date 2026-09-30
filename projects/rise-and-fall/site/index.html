@@ -144,6 +144,49 @@
     padding: 1.4rem 1.6rem;
     margin: 2rem 0;
   }
+  nav.site-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.2rem;
+    padding: 0.8rem 0;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border-color);
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 0.92rem;
+    font-weight: 600;
+  }
+  nav.site-nav a { color: var(--link-color); text-decoration: none; }
+  nav.site-nav a:hover, nav.site-nav a.active { text-decoration: underline; color: var(--call-border); }
+  .btn-preview {
+    display: inline-block;
+    padding: 0.6rem 1.2rem;
+    background: var(--call-border);
+    color: #ffffff !important;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: system-ui, -apple-system, sans-serif;
+    font-size: 0.95rem;
+    font-weight: 700;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+  .btn-preview:hover { opacity: 0.92; text-decoration: none; }
+  .instable-pill {
+    display: inline-block;
+    padding: 0.2rem 0.55rem;
+    background: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffeeba;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    font-family: system-ui, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.5rem;
+  }
+  @media (prefers-color-scheme: dark) {
+    .instable-pill { background: #332701; color: #ffd875; border-color: #594406; }
+  }
   .call h2 { margin-top: 0; font-size: 1.35rem; color: var(--link-color); }
   .card {
     border: 1px solid var(--border-color);
@@ -238,9 +281,9 @@
   <div style="text-transform:uppercase; font-size:0.8rem; letter-spacing:0.12em; color:#777; margin-bottom:0.5rem;">
     Livre / Magazine — Volume I
   </div>
-  <img src="/assets/cover/couverture_rise_and_fall1.png" alt="Armoiries des barons Mariani — Fidelitas Parvorum Fortitudo" class="cover-img">
+  <img src="/assets/cover/couverture_rise_and_fall1.png" alt="Écu de travail : le timbre dessiné est une couronne, non un tortil" class="cover-img">
   <div class="cover-motto">FIDELITAS · PARVORVM · FORTITVDO</div>
-  <div class="cover-motto-sub">La fidélité est la force des humbles — Armoiries historiques de la famille Mariani</div>
+  <div class="cover-motto-sub">La fidélité est la force des humbles — écu de travail ; le timbre dessiné est une couronne, non un tortil</div>
 </div>
 
 <section id="introduction">

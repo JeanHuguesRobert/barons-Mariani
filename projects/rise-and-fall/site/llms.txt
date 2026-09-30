@@ -7,7 +7,7 @@
 - **Contact :** jhr@baronsmariani.org
 - **Site public :** https://riseandfall.baronsmariani.org
 - **Dépôt source :** https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/rise-and-fall
-- **Couverture :** Armoiries des barons Mariani — Devise : *FIDELITAS · PARVORVM · FORTITVDO* (`assets/cover/couverture_rise_and_fall1.png`)
+- **Couverture :** écu de travail des barons Mariani — Devise : *FIDELITAS · PARVORVM · FORTITVDO* (`assets/cover/couverture_rise_and_fall1.png`). Le timbre dessiné est une couronne, pas un tortil (`assets/cover/blason.md`).
 
 ## Objet d'enquête
 
