@@ -4,7 +4,7 @@ subtitle: "Mise en œuvre du droit d'accès aux procès-verbaux et pièces joint
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-28"
-status: "sent — response requested"
+status: "response received — consultation proposed"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "formal-request"
@@ -51,6 +51,10 @@ Un **courriel complémentaire** a été envoyé le **28 septembre 2026 à 09:50:
 Maguy et Laurence étaient en copie ; leurs adresses personnelles ne sont pas publiées dans ce document.
 
 Au moment de la vérification suivant l'envoi, le fil Gmail ne contenait encore **aucun accusé automatique ni réponse**.
+
+Le **30 septembre 2026 à 08:16:30 CEST**, Adrien Vidal, chef du Bureau des élections et de la démocratie locale, a répondu dans ce fil. Il confirme que les pièces électorales peuvent être consultées et propose une consultation en préfecture le **jeudi 1er octobre 2026 à 14 h 00**. Il cite notamment les procès-verbaux de chaque bureau, le procès-verbal du bureau centralisateur, les listes d'émargement, les bulletins nuls, les annexes et les feuilles de dépouillement.
+
+Cette réponse établit que le message du 28 septembre a été reçu et traité malgré l'absence d'accusé automatique. Elle ne répond toutefois pas explicitement à la préférence formulée pour une transmission dématérialisée ni à la demande subsidiaire d'indiquer le fondement d'une éventuelle impossibilité de cette modalité.
 
 ## 2. Cadre juridique vérifié au 28 septembre 2026
 
@@ -165,8 +169,26 @@ Baron Mariani
 F-20250 Corte
 ```
 
-## 6. État courant
+## 6. Réponse reçue le 30 septembre 2026
 
-**Courriel complémentaire envoyé ; accusé de réception et réponse attendus.**
+**Réponse humaine reçue ; consultation physique proposée.**
 
-Le prochain Reality Test est observable : accusé de réception, communication totale ou partielle, impossibilité motivée de dématérialisation, autre réponse administrative, ou silence.
+Le Bureau des élections propose une consultation en préfecture le **1er octobre 2026 à 14 h 00**, en raison du nombre important de documents consultables.
+
+### État épistémique après réponse
+
+Établi :
+
+- la demande du 28 septembre a bien été reçue et traitée ;
+- l'administration confirme l'accès aux pièces ;
+- elle identifie explicitement plusieurs catégories de documents disponibles ;
+- un créneau concret de consultation est proposé.
+
+Encore ouvert :
+
+- le contenu effectif des pièces, notamment des **40 bulletins nuls** ;
+- l'existence éventuelle de mentions directes ou indirectes concernant Jean Hugues Noël Robert et/ou Laurence Vernerey ;
+- la possibilité d'une transmission dématérialisée, qui n'est pas explicitement acceptée ni refusée dans la réponse ;
+- le fondement d'une éventuelle impossibilité de transmission dématérialisée.
+
+Le prochain Reality Test devient donc l'examen effectif des pièces et la comparaison entre le périmètre demandé et le périmètre réellement accessible.
