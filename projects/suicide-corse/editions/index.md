@@ -2,7 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
-last_modified_at: '2026-09-29'
+last_modified_at: '2026-09-30'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -99,15 +99,15 @@ Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`
 
 Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus.
 
-## Numéro 3 — Spécial sénatoriales — bouclage actif au 29 septembre 2026
+## Numéro 3 — Spécial sénatoriales — 30 septembre 2026
 
 Le 23 septembre 2026, Jean Hugues Robert a confirmé explicitement que **le numéro 2 est totalement bouclé** et que **le numéro 3 est désormais en construction**.
 
 Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) et son journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
 
-Le numéro 3 est désormais qualifié **« Spécial sénatoriales »** avec une date éditoriale au **29 septembre 2026**. Son freeze reste à décider explicitement après rerender et vérification.
+Le numéro 3 est **« Spécial sénatoriales »**, avec une date éditoriale au **mercredi 30 septembre 2026**. Son freeze reste à décider explicitement après rerender et vérification. La décision de date est [`audits/2026-09-30-special-senatoriales-editorial-date.md`](../audits/2026-09-30-special-senatoriales-editorial-date.md).
 
-Le bouclage, normalement organisé le lundi, est exceptionnellement décalé au mardi : le scrutin a eu lieu dimanche 27 septembre et les réactions du lundi ont matériellement amélioré l'analyse du Reality Case. L'exception est bornée et documentée par [`audits/2026-09-29-special-senatoriales-late-close.md`](../audits/2026-09-29-special-senatoriales-late-close.md).
+Le bouclage visait le lundi, puis le mardi 29 septembre : le scrutin a eu lieu dimanche 27 septembre et les réactions du lundi ont matériellement amélioré l'analyse du Reality Case. Cette étape reste documentée par [`audits/2026-09-29-special-senatoriales-late-close.md`](../audits/2026-09-29-special-senatoriales-late-close.md).
 
 Son point de départ est le delta postérieur au n°2 gelé, notamment :
 

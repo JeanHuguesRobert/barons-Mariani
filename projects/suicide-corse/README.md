@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-09-30"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
-## État courant — 29 septembre 2026
+## État courant — 30 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
@@ -65,15 +65,15 @@ Le n°2 est **totalement bouclé et gelé**. Son chantier éditorial historique 
 
 Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les réponses et événements postérieurs appartiennent au Corpus courant, au n°3 ou à un erratum explicitement identifié.
 
-### Suicide Corse n°3 — Spécial sénatoriales — bouclage mardi 29 septembre
+### Suicide Corse n°3 — Spécial sénatoriales — mercredi 30 septembre 2026
 
 Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
 
-Le n°3 est désormais qualifié **« Spécial sénatoriales »**. Son bouclage, initialement visé le lundi 28 septembre, est exceptionnellement décalé au **mardi 29 septembre 2026**.
+Le n°3 est **« Spécial sénatoriales »**, daté du **mercredi 30 septembre 2026**.
 
-Ce décalage d'un jour est volontaire et borné : le scrutin décisif s'est tenu le dimanche 27 septembre ; le lundi a produit les premières réactions publiques et une amélioration substantielle de l'analyse de l'incidence possible d'une troisième candidature. Publier le lundi aurait figé le numéro avant que ces réactions puissent être confrontées aux résultats officiels.
+Le bouclage visait d'abord le lundi 28 septembre, puis le mardi 29 septembre, pour laisser le scrutin du dimanche 27 et les réactions du lundi entrer dans l'analyse. Le 30 septembre 2026, la date éditoriale courante est portée au mercredi. Cette décision est enregistrée dans [`audits/2026-09-30-special-senatoriales-editorial-date.md`](audits/2026-09-30-special-senatoriales-editorial-date.md). L'audit du mardi reste dans [`audits/2026-09-29-special-senatoriales-late-close.md`](audits/2026-09-29-special-senatoriales-late-close.md).
 
-La cadence hebdomadaire du lundi reste la règle ordinaire. Le présent mardi constitue une exception documentée dans `audits/2026-09-29-special-senatoriales-late-close.md`.
+La cadence hebdomadaire du lundi reste la règle ordinaire. Le numéro n'est pas gelé : aucun rendu HTML, PDF ou EPUB de ce spécial n'est encore une édition close.
 
 Le principal delta tardif est désormais la **borne contrefactuelle du second tour** : les 76 blancs et nuls ne suffisaient pas à eux seuls à empêcher l'élection au premier tour ; selon la conversion des non-exprimés, une troisième candidature aurait dû déplacer en outre entre **134 et 177 voix observées sur Parigi**. Cette plage mesure une condition arithmétique minimale ; elle n'est pas une prédiction.
 

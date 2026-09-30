@@ -28,6 +28,8 @@ review:
 
 # Suicide Corse n°3 — Spécial sénatoriales — audit de bouclage tardif
 
+> Au 30 septembre 2026, la date éditoriale courante du numéro 3 est le **mercredi 30 septembre 2026**. Le présent audit conserve la décision du 29 septembre. Voir [`2026-09-30-special-senatoriales-editorial-date.md`](2026-09-30-special-senatoriales-editorial-date.md).
+
 ## 1. Décision éditoriale
 
 Le numéro 3 de *Suicide Corse* est désormais qualifié :

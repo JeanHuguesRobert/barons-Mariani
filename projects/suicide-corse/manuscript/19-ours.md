@@ -1,7 +1,7 @@
 ---
 title: "Ours — Suicide Corse n°3"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-29"
+date: "2026-09-30"
 status: "render-candidate"
 language: fr
 license: "CC BY-SA 4.0"
@@ -32,10 +32,10 @@ review:
 
 **Titre :** *Suicide Corse — ou comment réaliser l'impossible*  
 **Numéro :** 3 — **Spécial sénatoriales**  
-**Date éditoriale :** 29 septembre 2026.  
+**Date éditoriale :** mercredi 30 septembre 2026.  
 **Statut :** preview de vérification — **édition non gelée et non publiée**.
 
-**Cadence :** bouclage exceptionnel le mardi, un jour après la cadence habituelle du lundi, afin d’intégrer et qualifier les réactions au scrutin sénatorial du dimanche 27 septembre. Ce décalage est borné et documenté ; il ne change pas la cadence ordinaire.
+**Cadence :** la date éditoriale courante est le mercredi 30 septembre 2026. Le bouclage avait d'abord été porté du lundi au mardi 29 septembre afin d'intégrer les réactions au scrutin du dimanche 27 septembre. La cadence ordinaire du lundi n'est pas modifiée.
 
 **Responsabilité éditoriale finale :** Jean Hugues Noël Robert.
 

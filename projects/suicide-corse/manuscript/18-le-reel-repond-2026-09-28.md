@@ -38,7 +38,9 @@ Ce chapitre constitue la **couche magazine** du numéro 3 — **Spécial sénato
 
 Conformément à la règle de méthode instituée ce jour, le lundi devient la journée hebdomadaire de **bouclage actif (*Magazine Close*)** : les faits de dernière minute du week-end sont absorbés, vérifiés et soumis à une fenêtre contradictoire avant scellement définitif.
 
-Pour ce numéro précis, le scrutin ayant eu lieu le dimanche 27 septembre, le bouclage est décalé d’un jour afin d’intégrer les réactions publiées le lundi et de corriger l’analyse contrefactuelle avant freeze. Ce mardi constitue une exception bornée à la cadence du lundi, documentée par l’audit `2026-09-29-special-senatoriales-late-close.md`.
+Pour ce numéro précis, le scrutin ayant eu lieu le dimanche 27 septembre, le bouclage a d'abord été décalé d'un jour afin d'intégrer les réactions publiées le lundi et de corriger l'analyse contrefactuelle avant freeze. Ce mardi constitue une exception bornée à la cadence du lundi, documentée par l'audit `2026-09-29-special-senatoriales-late-close.md`.
+
+Le 30 septembre 2026, la date éditoriale du Spécial sénatoriales est portée au mercredi 30 septembre. Le présent chapitre reste l'état enregistré au 29 septembre. Il n'est pas un gel.
 
 ---
 

@@ -572,3 +572,11 @@ Corpus vivant
 Le commit source définitif du Spécial sénatoriales sera capturé **au moment du bouclage définitif**, après le dernier refresh et la dernière vérification.
 
 Les SHA utilisés par les previews antérieures ne sont donc que des checkpoints historiques de vérification.
+
+## 30 septembre — date éditoriale du Spécial sénatoriales
+
+Le numéro 3 est **Spécial sénatoriales**, daté du **mercredi 30 septembre 2026**.
+
+La cible du mardi 29 septembre reste l'étape enregistrée la veille. Elle n'est plus la date éditoriale courante. La décision est `audits/2026-09-30-special-senatoriales-editorial-date.md`.
+
+Le gel, le rendu public et l'épinglage du commit source restent des actes séparés.

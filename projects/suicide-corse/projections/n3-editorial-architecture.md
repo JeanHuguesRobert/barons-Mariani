@@ -232,11 +232,11 @@ Sa densité se règle par allocation éditoriale :
 
 Le nombre de mots n'est qu'un indicateur secondaire. Une variation de longueur n'est un problème que si elle signale une mauvaise allocation, une répétition ou une dérive de fonction.
 
-# II. MAGAZINE — Spécial sénatoriales — 21 au 29 septembre 2026
+# II. MAGAZINE — Spécial sénatoriales — 21 au 30 septembre 2026
 
 Le Magazine ne répète pas le Livre. Il montre le **diff de connaissance** depuis le numéro précédent.
 
-Pour ce numéro, la cadence ordinaire du lundi est décalée d’un jour : le scrutin principal a lieu le dimanche 27 septembre et les réactions du lundi modifient matériellement l’analyse du Reality Case. Le bouclage du mardi est donc une exception éditoriale bornée, non une nouvelle cadence.
+Pour ce numéro, la cadence ordinaire du lundi a d'abord été décalée au mardi 29 septembre : le scrutin principal a eu lieu le dimanche 27 septembre et les réactions du lundi modifient matériellement l'analyse du Reality Case. La date éditoriale courante est le mercredi 30 septembre 2026. Ce décalage reste une exception bornée, non une nouvelle cadence, et il ne constitue pas un gel.
 
 ## M1 — Le Réel répond
 

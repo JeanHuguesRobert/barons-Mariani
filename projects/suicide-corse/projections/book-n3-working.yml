@@ -6,7 +6,7 @@ language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
-edition_label: "Numéro 3 — Spécial sénatoriales — bouclage du 29 septembre 2026"
+edition_label: "Numéro 3 — Spécial sénatoriales — 30 septembre 2026"
 
 source_manifest: ../corpus.yml
 related_issue: 84
@@ -14,15 +14,16 @@ editorial_architecture: ./n3-editorial-architecture.md
 reader_audit: ../audits/2026-09-28-reader-audit-n3.md
 final_content_sweep: ../audits/2026-09-28-final-content-sweep-n3.md
 late_close_audit: ../audits/2026-09-29-special-senatoriales-late-close.md
+editorial_date_audit: ../audits/2026-09-30-special-senatoriales-editorial-date.md
 
 edition:
   number: 3
-  editorial_date: "2026-09-29"
+  editorial_date: "2026-09-30"
   publication_date: null
   date_is_intentionally_unset: false
-  close_target: "2026-09-29 Tuesday exceptional late close Europe/Paris"
+  close_target: "2026-09-30 Wednesday editorial date Europe/Paris"
   close_time_exact: null
-  cadence_note: "Exceptional one-day shift: the normal Monday close was extended to Tuesday 29 September so the Special senatoriales could absorb and qualify reactions published after the Sunday 27 September vote. This is a bounded exception, not a change of weekly cadence."
+  cadence_note: "The normal Monday close was first extended to Tuesday 29 September. On 30 September 2026 the principal set the current editorial date to Wednesday 30 September 2026. This does not freeze the edition and does not change the ordinary Monday cadence."
 
 
 construction:
@@ -45,6 +46,15 @@ delta_window:
   start: "after frozen n2"
   end: null
   role: "Collect evidence, corrections, Reality responses and candidate material without prescribing composition."
+
+editorial_date_2026_09_30:
+  label: "Spécial sénatoriales"
+  editorial_date: "2026-09-30"
+  decided_by: "Jean Hugues Noël Robert"
+  prior_close_target: "Tuesday 29 September 2026"
+  audit: ../audits/2026-09-30-special-senatoriales-editorial-date.md
+  freeze: "not decided"
+  rule: "The editorial date is Wednesday 30 September 2026. The edition is not frozen, and no source commit is pinned."
 
 special_senatoriales_close_2026_09_29:
   label: "Spécial sénatoriales"
