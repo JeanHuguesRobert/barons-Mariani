@@ -4,7 +4,7 @@ subtitle: "Convergence hydrogéologique, épigraphique et cadastrale entre le ba
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-version: "1.3"
+version: "1.4"
 status: "working-paper — OSINT investigation"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -97,7 +97,7 @@ Au sommet du dispositif patrimonial trône **la Fontaine des Quatre Canons (*A F
 
 ---
 
-## 3. Enquête toponymique et philologique approfondie : les quatre hypothèses en tension
+## 3. Enquête toponymique et philologique approfondie : les cinq hypothèses en tension
 
 L'étymologie du toponyme entourant le domaine et la source révèle une stratification linguistique et phonétique d'une grande valeur heuristique :
 
@@ -116,7 +116,7 @@ En phonétique historique comparée, deux mécanismes expliquent cette alternanc
 * **Sens $O \to I$ (Fermeture prétonique et dissimilation)** : En corse cismuntincu, les voyelles atones prétoniques /o/ tendent à se fermer. Devant consonne nasale suivie de sifflante ou dentale ($-n-s-$, $-n-t-$), une délabialisation palatale en /i/ est attestée (*monumentum* $\to$ *minumentu* ; *domenica* $\to$ *dimenica* ; *bonitatem* $\to$ *binità*).
 * **Sens $I \to O$ (Hypercorrection savante des greffiers)** : Si la racine primitive est en *I* (*Ministerium*), les notaires écrivant en toscan ont pu opérer une attraction paronymique spontanée sous l'influence de la chapelle médiévale San Pancraziu, écrivant *mOnesteggio* par rapprochement supposé avec *monastero*.
 
-### 3.3. Confrontation des quatre hypothèses étymologiques
+### 3.3. Confrontation des cinq hypothèses étymologiques
 
 #### Hypothèse 1 : Le filon monastique médiéval (*Monasterium* $\to$ *Monasteriolum* $\to$ *Monesteggio*)
 * **Ancrage matériel** : La chapelle romane de **San Pancraziu (Saint-Pancrace)**, édifice en pierres grises daté du **Xe–XIIe siècle** (période pisane).
@@ -139,6 +139,15 @@ Le verbe latin *ministrare* signifie « servir, pourvoir, distribuer, alimenter 
   * Le noble terme de **« ménage »** (au sens classique d'exploitation terrienne ordonnée, de gentilhommière rurale et d'intendance domestique d'un grand propriétaire « bon ménager ») ;
   * La consonance poétique du **ménestrel** (partageant la même étymologie latine *ministerialis*) ;
   * La synthèse franco-toscane distinguant la **demeure patricienne** (*Ménesteggio*) du simple lieu-dit cadastral ou de la station de captage (*Minesteghju*).
+
+#### Hypothèse 5 : Le filon micro-toponymique agraire du « mini-stadium » / champ enclos (*staggio*)
+* **Attribution intellectuelle** : Hypothèse formulée et transmise oralement à Jean Hugues Noël Robert par son ami **Tony** (universitaire et linguiste, professeur à l'Université de Toulouse, décédé récemment, dont le frère musicien réside à Corte ; patronyme en cours de réindexation canonique).
+* **Découpage morphologique binaire** : Au lieu de découper le mot en radical + suffixe ($\text{Minest-} + \text{-eghju}$), cette approche propose la composition d'un diminutif (*mini-* / latin *minus*) et du substantif roman issu du latin *stadium* :
+  $$\mathbf{Mini-} \quad + \quad \mathbf{stadium} \quad \longrightarrow \quad \mathbf{Minesteghju} \; / \; \mathbf{Minesteggio}$$
+* **Loi phonétique régulière** : En phonétique romane et corse, le groupe intervocalique latin **$-di-$ devant voyelle** se palatalise régulièrement en affriquée sonore (latin *podium* $\to$ corse *poghju* / toscan *poggio* ; latin *radium* $\to$ *raghju* / *raggio* ; latin *stadium* $\to$ ***steghju*** / ***staggio***).
+* **Signification agraire concrète (le petit champ enclos)** :
+  * Dans le droit rural toscan et génois, le *staggio* (pluriel *staggi*) désigne les perches, pieux et palissades servant à clore une parcelle, et le verbe *staggiare* signifie borner, arpenter ou enclore un terrain pour le préserver de la vaine pâture.
+  * Dans la topographie montagnarde abrupte de la vallée de l'Orta, le domaine de Minesteggio forme une anomalie morphologique remarquable : une **terrasse plane allongée**, un replat alluvionnaire fertile, protégé et immédiatement irrigable par la source pérenne. Ce « petit champ enclos » (*chjosu* / *staggio*), dont le gabarit oblong rappelle celui d'un stade antique miniature, constituait l'enclos nourricier, le potager irrigué ou le paddock pastoral ceinturé de murs du domaine primitif.
 
 ---
 

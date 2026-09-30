@@ -22,6 +22,18 @@ sources:
     required: true
     note: "Pilot Reality Case: Louis-Thomas Mariani's 1863 election protest against Sampiero Gavini. Disciplines causal claims through primary electoral data and arithmetic counterfactual bounds."
 
+  - id: reality-case-1924-donation-corte
+    path: projects/rise-and-fall/investigation/reality_cases/RC-02-1924-donation-corte.md
+    role: reality-case
+    required: true
+    note: "Reality Case RC-02: Land donation for the Corte war memorial (1924). Demonstrates land attrition through voluntary patriotic and civic liberality rather than state predation."
+
+  - id: master-timeline
+    path: projects/rise-and-fall/chronology/00_master_timeline.tsv
+    role: critical-master-timeline
+    required: true
+    note: "Tabular integrated timeline of major family bifurcations (1776–2026) with E/P/S/D/O proof statuses."
+
   - id: protestation-1863-primary-source-analysis
     path: research/protestation_electorale_1863_mariani_gavini.md
     role: primary-source-dossier

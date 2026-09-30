@@ -32,6 +32,9 @@ editorial_plan:
       - id: B3
         title: "Reality Case pilote — L'élection législative de 1863"
         source: ../investigation/reality_cases/RC-01-1863-gavini.md
+      - id: B4
+        title: "Reality Case RC-02 — La donation du monument aux morts de Corte (1924)"
+        source: ../investigation/reality_cases/RC-02-1924-donation-corte.md
   magazine:
     rubrics:
       - title: "Point d'enquête"
@@ -46,6 +49,9 @@ editorial_plan:
       - id: A2
         title: "Index des éditions"
         source: ../editions/index.md
+      - id: A3
+        title: "Master Timeline critique (1776–2026)"
+        source: ../chronology/README.md
 
 outputs:
   required: [html, pdf, epub]
