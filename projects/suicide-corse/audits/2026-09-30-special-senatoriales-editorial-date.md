@@ -2,7 +2,7 @@
 title: "Suicide Corse n°3 — Spécial sénatoriales — date éditoriale du 30 septembre 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-30"
-status: "active-editorial-date"
+status: "editorial-date-fixed-content-close-linked"
 language: fr
 license: "CC BY-SA 4.0"
 document_role: "editorial-audit"
@@ -43,8 +43,10 @@ date éditoriale fixée
 ≠ commit source épinglé
 ```
 
-`render_ready` reste `false`. Le gel reste une décision explicite, après rendu et vérification. La cadence ordinaire du lundi n'est pas modifiée.
+`render_ready` passe à `true` seulement comme signal **prêt pour un nouveau rendu de vérification** après la clôture éditoriale de contenu du 30 septembre. Cela n'autorise aucun gel ni aucune publication. La cadence ordinaire du lundi n'est pas modifiée.
 
 ## Propagation
 
-L'identité courante est portée par `corpus.yml`, `projections/book-n3-working.yml`, l'index des éditions, l'ours du n°3, l'en-tête du magazine, et la page publique `suicidecorse.baronsmariani.org`.
+L'identité courante est portée par `corpus.yml`, `projections/book-n3-working.yml`, l'index des éditions, l'ours du n°3 et l'en-tête du magazine.
+
+La borne de contenu est enregistrée séparément dans `audits/2026-09-30-special-senatoriales-content-close.md` : le rendez-vous préfectoral du 1er octobre est annoncé dans le n°3, mais son résultat appartient au n°4.
