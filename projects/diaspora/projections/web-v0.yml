@@ -9,7 +9,7 @@ seed: projects/diaspora/data/seed.json
 host: "http://127.0.0.1:8765/"
 host_note: "Preferred local port. scripts/serve.js moves to the next free port when 8765 is taken and PORT is unset."
 public_host_declared: "https://diaspora.acorsica.org"
-public_host_deployed: false
+public_host_deployed: true
 notes:
   - "Local static projection. Not an immutable edition."
-  - "DNS and production placement were not changed."
+  - "Public HTTPS serves this projection. The release pointer is recorded in deploy/README.md."

@@ -3,7 +3,8 @@
 Public projection of the C.O.R.S.I.C.A. diaspora directory and living book.
 Canonical corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/diaspora
 Issue: https://github.com/JeanHuguesRobert/barons-Mariani/issues/96
-Declared host, not deployed by the phase-1 commit: https://diaspora.acorsica.org
+Public host: https://diaspora.acorsica.org
+The public tree is a static release of this projection, not a frozen edition.
 
 Seed: ../data/seed.json
 No person records are published.

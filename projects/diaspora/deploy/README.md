@@ -1,12 +1,12 @@
 # Deployment note
 
-Desired public name: `diaspora.acorsica.org`.
+Public name: `https://diaspora.acorsica.org`.
 
-This phase does not create that name. No DNS record, Cloudflare zone, server, certificate, or Operium route was changed.
+Observed on 2026-10-01. A DNS-only Cloudflare CNAME `diaspora.acorsica.org` points at `fracta.fractavolta.com`. Fracta terminates TLS and reverse-proxies to the Fracta2 HTTP origin. Fracta2 serves an immutable release under `/srv/www/diaspora/current`. The first release was `2026-10-01-82c261c`, from `82c261cc676816565a0bc2942623425d516275c1`, whose diaspora tree matches `db766566324628488793fd7e0b4edb079f7c862a`. The issue 96 comment names the release `current` points at.
 
-The files that would be published are the static tree under `projects/diaspora/`, with the site root serving `web/` and the seed at `data/seed.json`. Relative links from `web/*.html` use `../data/seed.json`. A host that publishes only `web/` will break the seed unless that fetch path is preserved.
+The published root is the `projects/diaspora/` tree, so `web/*.html` can fetch `../data/seed.json`. A host that publishes only `web/` breaks the seed. `/` redirects to `/web/index.html`. There is still no `CNAME` file in this tree.
 
-Operational placement belongs to Operium. Do not add a second runbook here. A later authorization would need to name the repository, the commit, the hostname, and the operator.
+This is a static publication of the working projection, not a frozen edition. Operational placement stays with Operium. Do not add a second runbook here.
 
 Until then, local use is:
 

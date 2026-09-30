@@ -52,4 +52,4 @@ The server prefers `http://127.0.0.1:8765/`. If that port is already taken and `
 
 Included: schema, sourced seed, static directory, map-ready locations, explainable matching, local contribution packets, living-book entry, benchmark skeleton, reality-test journal.
 
-Not included: DNS, production hosting, accounts, a graph database, AI enrichment, and any claim that the two-hour benchmark produced worldwide coverage.
+The static tree is published at `https://diaspora.acorsica.org`. See `deploy/README.md` for the release pointer. Still not included: accounts, a graph database, AI enrichment, a frozen edition, and any claim that the two-hour benchmark produced worldwide coverage.

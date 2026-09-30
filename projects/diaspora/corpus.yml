@@ -4,11 +4,11 @@ slug: diaspora
 status: working
 language: fr
 visibility: public
-updated: "2026-09-30"
+updated: "2026-10-01"
 source_of_truth: "repository files under projects/diaspora and GitHub issue 96; this manifest points at them and does not replace them"
 issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
 target_identity: "https://diaspora.acorsica.org"
-target_identity_status: "declared, not deployed by the phase-1 commit"
+target_identity_status: "public static release; DNS-only CNAME to fracta.fractavolta.com; not a frozen edition"
 
 architecture:
   implementation: projects/diaspora/architecture.md
