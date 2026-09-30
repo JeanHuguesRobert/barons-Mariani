@@ -8,6 +8,17 @@ subtitle: "ou comment réaliser l'impossible"
 author: "Jean Hugues Noël Robert"
 edition_label: "Numéro 3 — Spécial sénatoriales — 30 septembre 2026"
 
+cover:
+  title: "Suicide Corse"
+  subtitle: "ou comment réaliser l'impossible"
+  issue: "N° 3"
+  edition: "Spécial sénatoriales — 30 septembre 2026"
+  author: "Jean Hugues Noël Robert"
+  author_title: "baron Mariani"
+  image: "../assets/cover/bulletin_senatoriales_2026_baron_mariani_retenu.png"
+  image_role: "élément graphique central"
+  preserve_source_image: true
+
 source_manifest: ../corpus.yml
 related_issue: 84
 editorial_architecture: ./n3-editorial-architecture.md
@@ -608,4 +619,3 @@ outputs:
   technical_manifest: required
   campaign_journal: required
   coverage_report: required
-

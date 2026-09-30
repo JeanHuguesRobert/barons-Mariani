@@ -37,7 +37,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 # Stabilisateur, capacité distribuée : deux invariants supplémentaires
 
-Ce chapitre prolonge l'annexe « Test d'invariance » : relire le Corpus déjà accumulé sur la Corse — au-delà de l'histoire longue synthétisée dans « Changer d'échelle : la Corse » — pour y trouver du matériau contemporain, documenté et daté, susceptible de tester les mêmes invariants que ceux mobilisés pour Marie-Louise. Deux pièces produisent des résultats directement exploitables : la [grille Ubuesque / Kafkaïen](../../../research/autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md) et le premier test [Follow the Power](../../../research/autonomia/follow_the_power_premier_test.md). Une troisième, [Act #1755-01](../../../research/autonomia/act_1755_01_verification_manuscrit.md), fournit un gabarit concret de petit Act qui éclaire « De l'empêchement à la capacité ».
+Ce chapitre prolonge l'annexe « Test d'invariance » : relire le Corpus déjà accumulé sur la Corse — au-delà de l'histoire longue synthétisée dans « Changer d'échelle : la Corse » — pour y trouver du matériau contemporain, documenté et daté, susceptible de tester les mêmes invariants que ceux mobilisés pour Marie-Louise. Deux pièces produisent des résultats directement exploitables : la [grille Ubuesque / Kafkaïen](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md) et le premier test [Follow the Power](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/follow_the_power_premier_test.md). Une troisième, [Act #1755-01](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/act_1755_01_verification_manuscrit.md), fournit un gabarit concret de petit Act qui éclaire « De l'empêchement à la capacité ».
 
 ## Une méta-boucle manquante : le Stabilisateur
 
@@ -77,7 +77,7 @@ Le résultat provisoire du test est net : l'augmentation documentée de la capac
 
 > *A goccia minuta pertusa u marmaru.* — Goutte à goutte, l'eau creuse la pierre. (litt. la goutte menue troue le marbre ; source : *Pruverbii di Corsica*, voir l'annexe « Proverbes et épigraphes »)
 
-Le chapitre « De l'empêchement à la capacité » pose la règle du petit Act borné sans encore disposer, dans cette édition, d'un exemple territorial complet et daté. [Act #1755-01](../../../research/autonomia/act_1755_01_verification_manuscrit.md) en fournit un, littéralement construit sur la même grammaire : capacité avant/après, borne de mandat explicite, questions minimales, règle d'arrêt datée (J+30, J+60, J+90), registre symétrique des gains et revers, capacité de sortie, et surtout une clause d'anti-trivialité :
+Le chapitre « De l'empêchement à la capacité » pose la règle du petit Act borné sans encore disposer, dans cette édition, d'un exemple territorial complet et daté. [Act #1755-01](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/act_1755_01_verification_manuscrit.md) en fournit un, littéralement construit sur la même grammaire : capacité avant/après, borne de mandat explicite, questions minimales, règle d'arrêt datée (J+30, J+60, J+90), registre symétrique des gains et revers, capacité de sortie, et surtout une clause d'anti-trivialité :
 
 > Si plusieurs Acts documentaires successifs convergent vers le même obstacle structurel [...], le projet devra nommer cet obstacle et décider s'il mérite un Act de niveau supérieur au lieu de multiplier les micro-demandes.
 

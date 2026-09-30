@@ -52,7 +52,7 @@ La matrice longitudinale documente, avec sources primaires : le 10 septembre 202
 
 **Échelle B — Corse, #1755.**
 
-Le Corpus documente séparément ([Corse laboratoire](../../../research/autonomia/corse_laboratoire.md), `autonomia.md`) l'initiative territoriale connue sous le nom `#1755`, présentée comme un premier test prospectif de la capacité d'une initiative corse à agir et à mobiliser des institutions sans attendre un préalable institutionnel accordé d'en haut. Le nombre lui-même renvoie à l'État paoliste de 1755, souvent lu, dans le registre historique et non anthropologique, comme la matérialisation d'une capacité collective qui existait avant d'obtenir sa forme institutionnelle.
+Le Corpus documente séparément ([Corse laboratoire](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/corse_laboratoire.md), `autonomia.md`) l'initiative territoriale connue sous le nom `#1755`, présentée comme un premier test prospectif de la capacité d'une initiative corse à agir et à mobiliser des institutions sans attendre un préalable institutionnel accordé d'en haut. Le nombre lui-même renvoie à l'État paoliste de 1755, souvent lu, dans le registre historique et non anthropologique, comme la matérialisation d'une capacité collective qui existait avant d'obtenir sa forme institutionnelle.
 
 **Relation candidate testée :**
 
