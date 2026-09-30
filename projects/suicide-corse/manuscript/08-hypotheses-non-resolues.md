@@ -1,9 +1,9 @@
 ---
-title: "Hypothèses non résolues — état au 28 septembre 2026"
+title: "Hypothèses non résolues — état au 30 septembre 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-15"
-last_modified_at: "2026-09-28"
-status: draft
+last_modified_at: "2026-09-30"
+status: content-closed-pending-verification
 language: fr
 license: CC BY-SA 4.0
 document_role: derived
@@ -34,9 +34,9 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ---
 
 
-# Hypothèses non résolues — état au 28 septembre 2026
+# Hypothèses non résolues — état au 30 septembre 2026
 
-Le numéro 3 est une carte datée, pas une clôture de l'enquête. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi au bouclage du 28 septembre 2026. Il applique le gate épistémique posé par le chantier éditorial :
+Le numéro 3 est une carte datée, pas une clôture de l'enquête. Ce chapitre rassemble, dans un seul endroit visible, ce que le Corpus tient explicitement pour non établi au bouclage du 30 septembre 2026. Il applique le gate épistémique posé par le chantier éditorial :
 
 ```text
 TRACE / observation
@@ -60,7 +60,7 @@ Aucune des lignes ci-dessous n'a le statut de `FACT`. Chacune reste au mieux une
 - **Agence encore exercée début 2024.** La même note documente, avec sources directes, une tentative de réintégration à la Villa Arson en mars 2024 et une capacité politique et relationnelle encore exercée en juin 2024 (demande à son père d'être directeur de campagne). Ces éléments doivent être conservés comme contrôles contre toute reconstruction d'une fermeture linéaire et continue menant mécaniquement au 17 septembre.
 - **Voix directe sur la friction Nantes 2017.** Sa propre parole de décembre 2017 renforce le niveau de preuve de la friction déjà documentée, sans en changer le statut : elle documente un vécu de frustration et de contrainte matérielle contemporain, non une fermeture de capacité au sens de la matrice, et ne doit pas être lue comme un jugement définitif sur l'échange qu'elle donne à voir.
 - **Capacité électorale 2022 — origine de la bascule.** La candidature titulaire de Marie-Louise et plusieurs actes personnels sont documentés. Restent `UNKNOWN` : la décision exacte intervenue entre le 6 et le 9 mai 2022, sa répartition entre les acteurs concernés, l'identité de la personne ayant physiquement manipulé le fichier Photoshop du collector et l'auteur exact du portrait/autoportrait.
-- **Reality Case sénatorial 2026.** Le dépôt de candidature, le refus d'enregistrement, le jugement, le scrutin et plusieurs démarches postérieures sont désormais documentés. Restent notamment ouverts : certaines transmissions et pièces du dossier, le contenu exact du procès-verbal et des bulletins nuls demandés en consultation, la réponse au probe de la Sous-Préfecture de Corte et la décision finale de déposer, modifier ou abandonner le projet de requête au Conseil constitutionnel. Un brouillon de requête n'est pas un dépôt.
+- **Reality Case sénatorial 2026.** Le dépôt de candidature, le refus d'enregistrement, le jugement, le scrutin et plusieurs démarches postérieures sont désormais documentés. Le Bureau des élections a confirmé le 30 septembre l'accès aux pièces et un rendez-vous du 1er octobre à 14 h a été accepté ; la demande a été resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des 40 bulletins nuls. Restent `UNKNOWN` : ce que les pièces montreront effectivement, l'existence éventuelle d'une mention rapprochable de « Baron Mariani », certaines transmissions du dossier, la réponse au probe de la Sous-Préfecture de Corte et la décision finale de déposer, modifier ou abandonner le projet de requête au Conseil constitutionnel. Un brouillon de requête n'est pas un dépôt.
 - **Registre complet de la relation avec son père.** Le Livre publie principalement un registre coopératif de sa parole. Un registre plus conflictuel et une divulgation de détresse psychologique existent dans le Corpus privé et nécessitent un traitement éditorial séparé, avec une décision spécifique de publication et les précautions appropriées.
 
 ## Sur les mécanismes proposés
