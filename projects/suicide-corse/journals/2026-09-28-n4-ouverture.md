@@ -46,3 +46,22 @@ Principe :
 6. décisions initiales : Livre / Magazine / Annexes / Continuation / hors numéro.
 
 Le n°4 ne recopiera pas le n°3. Il repartira du Corpus vivant.
+
+
+## Première continuation déjà identifiée — rendez-vous préfectoral du 1er octobre
+
+La borne éditoriale du n°3 est fixée au **30 septembre 2026**.
+
+Le n°3 inclut les conditions du rendez-vous : accès aux pièces confirmé, consultation proposée puis acceptée pour le **1er octobre à 14 h**, et demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls.
+
+Le n°4 devra reprendre, comme premier delta post-borne :
+
+- les documents effectivement transmis avant le rendez-vous ;
+- les raisons éventuellement données pour ne pas transmettre un document déjà dématérialisé ;
+- les pièces effectivement consultées ou copiées ;
+- l'existence ou non, parmi les 40 bulletins nuls, d'une mention « Baron Mariani », « Mariani », « Jean Hugues Robert » ou approchante ;
+- toute conséquence documentaire nouvelle, sans attribution du vote à une personne.
+
+La règle de reprise est simple :
+
+> **La suite dans le prochain numéro.**
