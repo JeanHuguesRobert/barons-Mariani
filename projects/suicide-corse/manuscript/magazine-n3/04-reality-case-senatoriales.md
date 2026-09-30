@@ -103,6 +103,16 @@ Un projet de requête au Conseil constitutionnel existe également dans le Corpu
 
 La borne du présent numéro est désormais claire : **les conditions du rendez-vous sont un fait du n°3 ; ce que les pièces révéleront le 1er octobre sera un fait du n°4.**
 
+### Une journée désormais reconstruite comme chaîne de preuve
+
+La chronologie du **11 septembre**, jour du passage en préfecture, a été reprise trace par trace avant le gel du numéro.
+
+Le trajet du matin est désormais mieux établi : le plan initial était le train **n°2 Ajaccio–Bastia**, avec départ prévu de Corte à **09:45** et arrivée théorique à Bastia à **11:39**. Le départ réel de Corte apparaît à **10:29** dans Google Maps. Jean Hugues rapporte ensuite un trajet en stop puis une montée très probable à **Lucciana L’Alivella** dans le même train. Le billet photographié à **11:25** a été vendu à bord ; il ne marque donc pas l'heure de montée. La photographie à **Lupinu vers 11:51** et celle de la gare de Bastia vers **11:55** sont cohérentes avec un train retardé d'environ un quart d'heure.
+
+Cette précision ne change pas à elle seule l'issue juridique du dossier. Elle change la qualité de l'enquête : les horaires annoncés, déplacements, photographies, courriels, documents administratifs, métadonnées vidéo et traces de conversation sont désormais séparés selon leur niveau de preuve. **Lucciana reste qualifiée de très probable, et non de certaine.**
+
+Une matrice probatoire canonique a été créée dans le dépôt d'interactions afin de conserver cette distinction entre `ÉTABLI`, `RAPPORTÉ`, `TRÈS PROBABLE` et `OPEN`.
+
 Le Reality Case devient ainsi une question d'effectivité :
 
 > **peut-on reconstruire suffisamment une procédure pour la vérifier, la contester et, s'il y a lieu, la corriger ?**
