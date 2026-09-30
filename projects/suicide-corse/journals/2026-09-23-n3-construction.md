@@ -580,3 +580,26 @@ Le numéro 3 est **Spécial sénatoriales**, daté du **mercredi 30 septembre 20
 La cible du mardi 29 septembre reste l'étape enregistrée la veille. Elle n'est plus la date éditoriale courante. La décision est `audits/2026-09-30-special-senatoriales-editorial-date.md`.
 
 Le gel, le rendu public et l'épinglage du commit source restent des actes séparés.
+
+
+## 30 septembre — clôture éditoriale de contenu
+
+Le dernier fait admis dans le **Spécial sénatoriales** est désormais fixé.
+
+À 08 h 16, le Bureau des élections confirme l'accès aux pièces du scrutin et propose une consultation le **1er octobre à 14 h**. À 10 h 37, le rendez-vous est accepté avec une demande volontairement réduite : pas de numérisation nouvelle, priorité aux documents déjà dématérialisés et vérification ciblée des quarante bulletins nuls pour une éventuelle mention de la candidature.
+
+Cette décision fixe une frontière éditoriale simple :
+
+~~~text
+conditions du rendez-vous connues le 30 septembre
+→ n°3
+
+déroulement et résultats du rendez-vous du 1er octobre
+→ n°4
+~~~
+
+La formule de sortie retenue est : **« La suite dans le prochain numéro. »**
+
+Audit durable : `projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md`.
+
+Le contenu est clos ; l'édition n'est pas encore gelée. La prochaine action est un nouveau **Phase A render** depuis le `main` courant, conformément à l'issue #91.
