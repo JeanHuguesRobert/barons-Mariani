@@ -44,6 +44,18 @@ Une dernière passe de cohérence a consolidé la chronologie du **11 septembre 
 
 Cette consolidation améliore la qualité documentaire du n°3 sans déplacer sa borne éditoriale au-delà du 30 septembre.
 
+## Pivot transversal 1863 ↔ 2026
+
+Après la fixation de la borne factuelle, le Principal a demandé le **30 septembre 2026** l'insertion immédiate d'un pivot transversal avec *Rise & Fall of the Mariani Family*.
+
+Cette insertion :
+- met en regard la protestation électorale de Louis-Thomas Mariani en 1863 et le dossier électoral contemporain de 2026 ;
+- est explicitement présentée comme une **résonance documentaire à comparer**, non comme une répétition causale ;
+- n'ajoute aucun événement postérieur à la borne factuelle du n°3 ;
+- ajoute en revanche une nouvelle synthèse éditoriale au Livre et modifie donc le source state à rendre.
+
+Conséquence : toute Phase A antérieure à cette insertion est périmée ; le prochain rendu doit repartir du `main` courant et inclure `manuscript/07-pivot-rise-and-fall.md`.
+
 ## Borne éditoriale
 
 Le numéro 3 s'arrête **avant** le rendez-vous du 1er octobre.
