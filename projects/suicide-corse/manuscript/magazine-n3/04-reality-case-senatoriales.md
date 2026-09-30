@@ -1,8 +1,8 @@
 ---
 title: "Reality Case — Sénatoriales 2026"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-29"
-status: draft
+date: "2026-09-30"
+status: content-closed-pending-verification
 language: fr
 document_role: derived
 document_kind: magazine-rubric
@@ -14,6 +14,7 @@ source_documents:
   - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
   - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md"
   - "../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
+  - "../../../research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 ---
 
 # Reality Case — Sénatoriales 2026
@@ -29,6 +30,8 @@ candidature préparée
 → audience et jugement
 → scrutin
 → nouvelles demandes de pièces
+→ accès aux pièces confirmé
+→ rendez-vous de consultation fixé
 ~~~
 
 Le 27 septembre, les résultats publiés par le ministère de l'Intérieur indiquent :
@@ -88,13 +91,17 @@ Le prochain travail consiste donc à chercher des probes plus discriminants : bu
 
 Les 76 blancs et nuls sont donc un fait observé ; leur motivation et leur répartition dans un scrutin contrefactuel restent inconnues.
 
-Le 28 septembre, cette recherche de pièces est devenue un Act concret : une demande de consultation dématérialisée du procès-verbal général et des bulletins déclarés nuls a été envoyée à la préfecture.
+Le 28 septembre, cette recherche de pièces est devenue un Act concret : une demande de consultation du procès-verbal général et des bulletins déclarés nuls a été envoyée à la préfecture.
+
+Le **30 septembre à 08 h 16**, le Bureau des élections a répondu : les pièces peuvent être consultées et un rendez-vous est proposé en préfecture le **1er octobre à 14 h**. À **10 h 37**, ce rendez-vous a été accepté. Pour réduire la charge du service, la demande a été resserrée : aucune nouvelle numérisation n'est demandée ; seules les pièces déjà dématérialisées sont sollicitées si leur transmission est possible, avec demande des raisons si elle ne l'est pas.
+
+La vérification des quarante bulletins nuls devient elle aussi plus discriminante : rechercher seulement s'il existe un ou plusieurs bulletins portant « Baron Mariani », « Mariani », « Jean Hugues Robert » ou une graphie approchante. Un signal rapporté — un grand électeur aurait déclaré publiquement avoir voté « Baron Mariani » sur un média de service public — justifie cette vérification, mais ne permet pas d'identifier son bulletin ni de déduire le vote d'autres électeurs.
+
+Si une telle mention existe matériellement, elle constituera un fait nouveau sur l'existence d'une expression électorale en faveur de la candidature écartée ; sa portée juridique ou électorale devra ensuite être appréciée séparément.
 
 Un projet de requête au Conseil constitutionnel existe également dans le Corpus en version de travail. Il n'est pas présenté ici comme déposé. Une demande séparée a été envoyée le même jour à la Sous-Préfecture de Corte pour vérifier le canal de remise utilisable et obtenir, si nécessaire, une redirection explicite.
 
-La distinction utile est simple : un projet n'est pas un dépôt ; une demande envoyée n'est pas une réponse obtenue ; une voie possible n'est pas encore une voie matériellement vérifiée.
-
-La suite consiste donc à recevoir et qualifier les réponses, consulter les pièces lorsqu'elles deviennent accessibles, puis documenter séparément toute décision de dépôt.
+La borne du présent numéro est désormais claire : **les conditions du rendez-vous sont un fait du n°3 ; ce que les pièces révéleront le 1er octobre sera un fait du n°4.**
 
 Le Reality Case devient ainsi une question d'effectivité :
 
