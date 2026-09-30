@@ -1,8 +1,8 @@
 ---
 title: "Contrepoints"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-28"
-status: draft
+date: "2026-09-30"
+status: content-closed-pending-verification
 language: fr
 document_role: derived
 document_kind: magazine-rubric
