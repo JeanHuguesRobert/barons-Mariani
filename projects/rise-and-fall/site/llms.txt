@@ -17,6 +17,12 @@ L'enquête applique les invariants méthodologiques développés dans *Suicide C
 2. **Falsification de l'hypothèse nulle :** L'État français ou les dominations extérieures ne sont pas présumés causes uniques du déclin. L'enquête évalue systématiquement les facteurs endogènes (stratégies claniques, conflits successoraux, ruptures d'alliances, captures institutionnelles locales).
 3. **Reality Cases à haute densité documentaire :** Études de cas micro-historiques s'appuyant exclusivement sur des sources primaires vérifiables (notariat, procès-verbaux d'élection, débats parlementaires, délibérations municipales).
 
+## Jalon d'enquête récent — Minesteggio
+
+Le 30 septembre 2026, Antoine « Tony » Toma a été identifié comme la personne ayant transmis oralement à Jean Hugues Noël Robert l'une des hypothèses étymologiques concurrentes de *Minesteggio* (*mini-/minus + stadium/staggio*). Des sources publiques corroborent Tony Toma comme maître de conférences à Toulouse III et comme mandoliniste cortenais. Cette corroboration établit l'identité et la provenance de la piste, pas sa validité philologique, qui reste ouverte.
+
+Source de provenance : `projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md`
+
 ## Premiers Reality Cases
 
 - **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, baron d'Empire) et Sampiero Gavini. Analyse de la mécanique du clientélisme insulaire, de l'intervention préfectorale et de l'annulation du scrutin.
