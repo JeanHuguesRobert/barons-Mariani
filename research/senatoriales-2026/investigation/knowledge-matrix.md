@@ -51,6 +51,11 @@ Cette matrice suit les principales questions factuelles encore susceptibles de m
 
 | Q30 | Qu'est devenue la demande de rectification des données candidates publiées par le ministère ? | **institutional response received / bounded** | le DPO du ministère de l’Intérieur répond le 25/09 que, la candidature ayant été annulée et les données n'étant plus présentes sur le site, la rectification demandée ne peut plus être effectuée sur cette publication | ministère de l’Intérieur / éventuelles archives techniques | distinguer correction d'une publication active, conservation historique et traçabilité ; ne pas déduire de la disparition en ligne l'effacement de toute archive ou donnée sous-jacente |
 
+| Q31 | Quel train a effectivement conduit Jean Hugues vers Bastia le 11/09 ? | **strongly established** | grille CFC du train n°2 : Corte 09:45, Lucciana 11:04, U Borgu 11:08, Lupinu 11:37, Bastia 11:39 ; traces contemporaines : Lupinu vers 11:51:22 et gare de Bastia vers 11:55:39 ; l'ensemble est cohérent avec environ 14 min de retard à Lupinu et 16–17 min à Bastia | grille CFC + photos/conversation | conserver la fiche source et ne plus utiliser l'hypothèse erronée du train n°214 |
+| Q32 | À quelle gare Jean Hugues est-il monté après le stop ? | **strong hypothesis: Lucciana L’Alivella** | souvenir direct du principal ; horaire du train n°2 compatible ; trajet depuis Corte et séquence ultérieure cohérents | éventuelle Timeline détaillée / autre trace / souvenir de la dépose | rechercher seulement une corroboration indépendante ; ne pas convertir le souvenir en certitude documentaire |
+| Q33 | Que signifie l'heure 11:25 du billet CFC ? | **resolved as context** | le billet photographié est émis à 11:25 ; Jean Hugues précise le 30/09 qu'il a été vendu à bord | témoignage direct + billet | ne pas utiliser 11:25 comme heure de montée |
+| Q34 | Le trajet du matin correspond-il au plan initial Corte 09:45 → Bastia 11:39 ? | **partly yes** | même train n°2 et même arrivée théorique 11:39, mais point de montée modifié : départ réel de Corte plus tard, stop puis montée très probable à Lucciana | chronologie + grille CFC + Google Maps | distinction à conserver entre plan initial et trajet effectivement exécuté |
+
 ## Questions résolues à conserver
 
 Une question résolue n'est pas supprimée.
