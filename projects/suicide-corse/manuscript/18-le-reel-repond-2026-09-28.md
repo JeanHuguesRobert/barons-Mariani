@@ -1,9 +1,9 @@
 ---
-title: "Le Réel répond — état au bouclage du Spécial sénatoriales du 29 septembre 2026"
+title: "Le Réel répond — état au bouclage du Spécial sénatoriales du 30 septembre 2026"
 subtitle: "Témoignages recueillis, capacité électorale de Marie-Louise, scrutin sénatorial et ouverture de l'appel à compétences"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-29"
-status: "render-candidate"
+date: "2026-09-30"
+status: "content-closed-pending-verification"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
@@ -34,13 +34,13 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 # Le Réel répond — état au bouclage du Spécial sénatoriales du 30 septembre 2026
 
-Ce chapitre constitue la **couche magazine** du numéro 3 — **Spécial sénatoriales**. Il enregistre ce que le Réel a produit, déplacé ou contredit entre le gel du numéro 2 (21 septembre) et le bouclage exceptionnel du mardi 29 septembre.
+Ce chapitre constitue une **couche magazine historique** du numéro 3 — **Spécial sénatoriales**. Il enregistre ce que le Réel a produit, déplacé ou contredit entre le gel du numéro 2 (21 septembre) et la clôture éditoriale de contenu du mercredi 30 septembre.
 
 Conformément à la règle de méthode instituée ce jour, le lundi devient la journée hebdomadaire de **bouclage actif (*Magazine Close*)** : les faits de dernière minute du week-end sont absorbés, vérifiés et soumis à une fenêtre contradictoire avant scellement définitif.
 
 Pour ce numéro précis, le scrutin ayant eu lieu le dimanche 27 septembre, le bouclage a d'abord été décalé d'un jour afin d'intégrer les réactions publiées le lundi et de corriger l'analyse contrefactuelle avant freeze. Ce mardi constitue une exception bornée à la cadence du lundi, documentée par l'audit `2026-09-29-special-senatoriales-late-close.md`.
 
-Le 30 septembre 2026, la date éditoriale du Spécial sénatoriales est portée au mercredi 30 septembre. Le présent chapitre reste l'état enregistré au 29 septembre. Il n'est pas un gel.
+Le 30 septembre 2026, la date éditoriale du Spécial sénatoriales est portée au mercredi 30 septembre. Le dernier fait inclus est l'organisation du rendez-vous du 1er octobre à 14 h pour consulter les pièces électorales, rendez-vous accepté le 30 septembre avec une demande resserrée. Ce chapitre n'est pas un gel.
 
 ---
 
@@ -113,7 +113,7 @@ Le calcul contrefactuel a depuis été resserré : les 76 blancs et nuls ne suff
 La proclamation du 27 septembre ouvre la phase de contestation électorale étudiée dans le dossier sénatorial. Le calcul exact du délai et ses modalités sont conservés dans les documents juridiques spécialisés du Corpus plutôt que développés ici.
 
 Deux actes majeurs structurent cette phase :
-1. **La consultation légale des pièces électorales (RP-SEN-08) :** La demande adressée à la préfecture a reçu une réponse le **30 septembre à 08 h 16** : le Bureau des élections confirme que les pièces peuvent être consultées et propose un rendez-vous en préfecture le **1er octobre à 14 h**. Il cite les procès-verbaux, listes d’émargement, bulletins nuls, annexes et feuilles de dépouillement. Le contenu des 40 bulletins nuls reste inconnu à ce stade ; la transmission dématérialisée demandée n’est pas explicitement traitée dans la réponse.
+1. **La consultation légale des pièces électorales (RP-SEN-08) :** La demande adressée à la préfecture a reçu une réponse le **30 septembre à 08 h 16** : le Bureau des élections confirme que les pièces peuvent être consultées et propose un rendez-vous en préfecture le **1er octobre à 14 h**. À **10 h 37**, ce rendez-vous est accepté et la demande est resserrée : aucune numérisation nouvelle ; transmission, si possible, des seuls documents déjà dématérialisés ; explication demandée en cas d'impossibilité ; vérification ciblée parmi les 40 bulletins nuls des mentions « Baron Mariani », « Mariani », « Jean Hugues Robert » ou graphie approchante. Le résultat de cette consultation reste inconnu au bouclage et relève du prochain numéro.
 2. **La requête en annulation (RP-SEN-09) :** Finalisation d'un mémoire au fond assorti d'un **inventaire probatoire exhaustif de 25 pièces**, articulé autour de principes fermes :
    - Pleine coopération et diligence continue du candidat (présence à 12h10, régularisation financière en 1h54, courriel vidéo à 17h57) ;
    - contestation de la portée juridique donnée à l'exigence d'originaux et de signatures manuscrites ;
