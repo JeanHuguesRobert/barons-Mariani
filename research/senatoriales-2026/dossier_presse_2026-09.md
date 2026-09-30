@@ -1,9 +1,9 @@
 ---
 title: "Sénatoriales 2026 — dossier presse et page d’aiguillage"
-subtitle: "Statut de la candidature, résultat et analyses post-scrutin, amendement d’effectivité, requête et pistes QPC — état au 29 septembre 2026"
+subtitle: "Statut de la candidature, résultat et analyses post-scrutin, accès aux pièces, amendement d’effectivité, requête et pistes QPC — état au 30 septembre 2026"
 author: "Jean Hugues Noël Robert, baron Mariani"
-date: "2026-09-29"
-version: "1.16"
+date: "2026-09-30"
+version: "1.17"
 status: "public press index — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -24,6 +24,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
   - "research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md"
   - "research/senatoriales-2026/investigation/convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
+  - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
   - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
@@ -107,6 +108,16 @@ Sources de contrôle :
 - Corse Net Infos, 27 septembre 2026 : https://www.corsenetinfos.corsica/Haute-Corse-le-senateur-sortant-Paulu-Santu-Parigi-reelu_a92845.html
 - Ministère de l'Intérieur, page Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Sénat, page Haute-Corse : https://senatoriales2026.senat.fr/departement/2B-haute-corse
+
+### 30 septembre 2026 — accès aux pièces et rendez-vous de consultation
+
+Le **30 septembre à 08 h 16**, le Bureau des élections de la préfecture de la Haute-Corse a confirmé que les pièces du scrutin peuvent être consultées et a proposé un rendez-vous en préfecture le **1er octobre à 14 h**.
+
+À **10 h 37**, Jean Hugues Noël Robert a accepté ce rendez-vous et réduit sa demande afin de limiter la charge du service : aucune numérisation nouvelle ; transmission, si possible, des seuls documents déjà détenus sous forme dématérialisée ; indication des raisons en cas d'impossibilité ; vérification ciblée parmi les **40 bulletins nuls** d'une éventuelle mention « Baron Mariani », « Mariani », « Jean Hugues Robert » ou approchante.
+
+Le motif de cette dernière vérification est un signal rapporté selon lequel un grand électeur aurait déclaré publiquement avoir voté « Baron Mariani » sur un média de service public. Ce signal n'est pas utilisé pour attribuer un bulletin à une personne ni pour lever le secret du vote.
+
+**État au 30 septembre :** accès proposé et rendez-vous accepté ; contenu des pièces non encore examiné.
 
 ### Pièce primaire préfectorale du 17 septembre
 
@@ -894,7 +905,7 @@ L’enquête conserve notamment comme ouvertes :
 
 Une question ouverte n’est pas une preuve de l’hypothèse la plus défavorable.
 
-S'ajoutent au suivi post-scrutin : les motifs documentaires des 40 bulletins nuls et le procès-verbal général lorsqu'ils seront accessibles ; les réactions attribuables et datées qui pourraient éclairer l'incidence d'une troisième offre sans révéler de vote individuel ; le statut effectif de la requête et des deux pistes QPC. Leur absence actuelle ne doit être transformée ni en conclusion électorale ni en acte procédural accompli.
+S'ajoutent au suivi post-scrutin : l'examen effectif du procès-verbal et des 40 bulletins nuls, dont l'accès a été proposé pour le 1er octobre à 14 h ; les réactions attribuables et datées qui pourraient éclairer l'incidence d'une troisième offre sans révéler de vote individuel ; le statut effectif de la requête et des deux pistes QPC. Leur absence actuelle ne doit être transformée ni en conclusion électorale ni en acte procédural accompli.
 
 ## Documents de référence
 
