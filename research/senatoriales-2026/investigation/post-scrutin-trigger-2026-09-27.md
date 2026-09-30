@@ -2,7 +2,7 @@
 title: "Sénatoriales 2026 — trigger packet post-scrutin"
 date: "2026-09-26"
 target_event: "scrutin et proclamation du 27 septembre 2026"
-status: "prepared_for_execution_after_proclamation"
+status: "active — RP-SEN-08 response received"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "operational-readiness"
@@ -172,9 +172,9 @@ La décision de demander une mesure d'instruction reste distincte de son éventu
 proclamation
     ↓
 RP-SEN-07 fixe l'horloge
-    ├── RP-SEN-08 consultation PV / annexes
+    ├── RP-SEN-08 accès proposé le 01/10 à 14 h
     │       ↓
-    │   nouvelles sources ?
+    │   pièces effectivement examinées ?
     │       ├── oui → nouveaux probes
     │       └── non → fermeture documentée
     │
