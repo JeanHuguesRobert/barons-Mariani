@@ -44,7 +44,7 @@ node scripts/validate-seed.js
 node scripts/serve.js
 ```
 
-The server listens on `http://127.0.0.1:8765/`. Opening the HTML files directly will not load the seed. The checks cover the seed invariants, search, the separation between a place of presence and a Corsican link, and the rule that holding a need does not make an entity a helper.
+The server prefers `http://127.0.0.1:8765/`. If that port is already taken and `PORT` is unset, it tries the next ports and prints the URL that actually opened. Set `PORT` to require one port. `/` redirects to `/web/index.html`. Opening the HTML files directly will not load the seed. The checks cover the seed invariants, search, the separation between a place of presence and a Corsican link, and the rule that holding a need does not make an entity a helper.
 
 `npm test` runs the same check when npm is available. No dependency is required.
 

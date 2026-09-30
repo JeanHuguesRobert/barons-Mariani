@@ -4,7 +4,9 @@ import { extname, join, normalize, sep } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = fileURLToPath(new URL("..", import.meta.url));
-const port = Number(process.env.PORT || 8765);
+const requested = Number(process.env.PORT || 8765);
+const explicitPort = process.env.PORT != null && String(process.env.PORT).trim() !== "";
+let port = requested;
 const types = {
   ".html": "text/html; charset=utf-8",
   ".css": "text/css; charset=utf-8",
@@ -48,6 +50,17 @@ const server = createServer(async (request, response) => {
   }
 });
 
+server.on("error", (error) => {
+  if (error.code === "EADDRINUSE" && !explicitPort && port < requested + 20) {
+    port += 1;
+    server.listen(port, "127.0.0.1");
+    return;
+  }
+  console.error(`DIASPORA static server could not listen on 127.0.0.1:${port}: ${error.code || error.message}`);
+  process.exit(1);
+});
+
 server.listen(port, "127.0.0.1", () => {
-  console.log(`DIASPORA static server http://127.0.0.1:${port}/`);
+  const moved = port === requested ? "" : ` Port ${requested} was already in use.`;
+  console.log(`DIASPORA static server http://127.0.0.1:${port}/${moved}`);
 });
