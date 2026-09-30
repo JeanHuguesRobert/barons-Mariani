@@ -3,8 +3,8 @@ title: "Enquête hydro-toponymique et foncière — Source de Minesteghju, fonta
 subtitle: "Convergence hydrogéologique, épigraphique et cadastrale entre le bassin de l'Orta, la chapelle San Pancraziu et la mémoire des barons Mariani"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-28"
-version: "1.2"
+date: "2026-09-30"
+version: "1.3"
 status: "working-paper — OSINT investigation"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -97,27 +97,48 @@ Au sommet du dispositif patrimonial trône **la Fontaine des Quatre Canons (*A F
 
 ---
 
-## 3. Enquête toponymique et épigraphique : les trois strates de dénomination
+## 3. Enquête toponymique et philologique approfondie : les quatre hypothèses en tension
 
-L'étymologie du toponyme entourant le domaine et la source révèle une stratification linguistique d'une grande valeur heuristique :
+L'étymologie du toponyme entourant le domaine et la source révèle une stratification linguistique et phonétique d'une grande valeur heuristique :
 
-### Strate 1 : La forme archaïque *Monesteggio* (Hypothèse monastique médiévale)
-* **Attestation** : Forme rare relevée dans les mentions anciennes et la tradition manuscrite.
-* **Analyse linguistique** : La présence du *O* initial (*Monest-*) renvoie directement à la famille étymologique de ***Monasterium*** (latin), ***Monastero*** (italien) et ***Munasteru*** (corse).
-* **Corroboration topographique et archivistique** :
-  - La chapelle de **San Pancraziu (Saint-Pancrace)**, édifice d'origine médiévale inscrit aux Monuments historiques, témoigne d'une occupation cultuelle ancienne du promontoire.
-  - Les archives du **Plan Terrier de la Corse (1770–1795)** documentent précisément le secteur de Saint-Pancrace et la richesse aquifère des émergences de l'Orta.
-  - San Pancraziu est également le haut lieu de la **Consulta di San Pancrazio (décembre 1730)**, où les généraux de la nation corse (Giafferi, Ceccaldi) furent désignés au début de la révolution corse. L'existence d'une dépendance conventuelle, d'un prieuré rural ou d'un domaine agricole desservi par des religieux exploitant la source sous le vocable de *Monasteriolum* (*Monesteggio*) constitue l'hypothèse explicative la plus solide.
+### 3.1. Morphologie insulaire : le suffixe corse *-eghju*
+L'élément morphologique constant est sa désinence :
+* **Origine romane** : En toponymie corse, le suffixe **-eghju** (variante cismuntinca de **-aghju**, issue du latin *-aticum* ou *-arium*) désigne un **lieu d'activité, d'installation, de fonction ou d'abondance d'une ressource** (*u locu induve si face o induve si trova...*), à l'instar de *Canaleghju* (canaux), *Funtanegghju* (sources) ou *Castelleghju*.
+* **Toscanisation administrative** : Les chancelleries génoises puis les arpenteurs du Plan Terrier de la Corse (1770–1795) ont systématiquement toscanisé ces terminaisons orales : $\text{-eghju} \to \text{-eggio}$ ou $\text{-aggio}$. La forme administrative *Minesteggio* est la transcription régulière de l'oral *Minesteghju*.
 
-### Strate 2 : La forme classique *Minesteggio* / *Minesteghju* (XIXe siècle)
-* **Attestation** : Cartes d'état-major du XIXe siècle, cadastre napoléonien, publications administratives sous le Premier Empire et la Restauration, et nomenclature hydrogéologique moderne du BRGM et de l'OEC.
-* **Analyse linguistique** : Fermeture classique de la voyelle prétonique *o* en *i* dans le système phonologique corse et toscan (*Monest-* $\to$ *Minest-*).
-* **Contexte historique** : C'est la dénomination contemporaine du baron Antoine Dominique Mariani (1776–1845), sous-préfet de Corte en 1811, qui y fait bâtir sa résidence de campagne florentine (« Château Mariani ») au cœur de son domaine agricole.
+### 3.2. L'alternance vocalique $O \longleftrightarrow I \longleftrightarrow \acute{E}$
+Trois strates graphiques ont été relevées :
+1. **Strate archaïque** : ***mOnesteggio*** (mentions anciennes, traditions manuscrites et notariées pré-napoléoniennes) ;
+2. **Strate classique et cadastrale** : ***mInesteggio*** / ***Minesteghju*** (cadastre napoléonien de 1845, cartes d'état-major du XIXe siècle, acquisition sous le Premier Empire par le baron Antoine Dominique Mariani en 1811, nomenclature hydrogéologique moderne BRGM/OEC) ;
+3. **Strate lapidaire patricienne** : ***Ménesteggio*** (plaque de marbre gravée par le baron Pierre Mariani au début du XXe siècle).
 
-### Strate 3 : L'attestation épigraphique in situ *Ménesteggio* (Début XXe siècle)
-* **Preuve matérielle** : **Plaque de marbre gravée**, scellée sur le pilier gauche à l'entrée du chemin carrossable du domaine.
-* **Auteur** : Le baron **Pierre Mariani** (décédé en 1938), époux de Marguerite de Casabianca (1861–1919) et père de Marie-Louise Mariani (1901–1983).
-* **Portée probatoire** : Cette inscription lapidaire fixe la volonté explicite du propriétaire d'enraciner le nom dans la pierre au moment de la modernisation des accès du domaine. L'orthographe avec accent aigu (*Ménesteggio*) reflète l'usage francophone et italianisant de la bourgeoisie corse de la Belle Époque, évoquant phonétiquement le terme d'intendance ou d'office (*ménage / mestiere*).
+En phonétique historique comparée, deux mécanismes expliquent cette alternance :
+* **Sens $O \to I$ (Fermeture prétonique et dissimilation)** : En corse cismuntincu, les voyelles atones prétoniques /o/ tendent à se fermer. Devant consonne nasale suivie de sifflante ou dentale ($-n-s-$, $-n-t-$), une délabialisation palatale en /i/ est attestée (*monumentum* $\to$ *minumentu* ; *domenica* $\to$ *dimenica* ; *bonitatem* $\to$ *binità*).
+* **Sens $I \to O$ (Hypercorrection savante des greffiers)** : Si la racine primitive est en *I* (*Ministerium*), les notaires écrivant en toscan ont pu opérer une attraction paronymique spontanée sous l'influence de la chapelle médiévale San Pancraziu, écrivant *mOnesteggio* par rapprochement supposé avec *monastero*.
+
+### 3.3. Confrontation des quatre hypothèses étymologiques
+
+#### Hypothèse 1 : Le filon monastique médiéval (*Monasterium* $\to$ *Monasteriolum* $\to$ *Monesteggio*)
+* **Ancrage matériel** : La chapelle romane de **San Pancraziu (Saint-Pancrace)**, édifice en pierres grises daté du **Xe–XIIe siècle** (période pisane).
+* **Modèle domanial** : À l'époque des donations massives aux abbayes bénédictines et camaldules toscanes (Montecristo, Gorgona, Pise) ou victorines, les chapelles rurales constituaient le centre d'une grange monastique (*grangia*) ou d'un petit prieuré rural qualifié dans les chartes de ***monasteriolum*** (« petit monastère »).
+* **Dynamique linguistique** : *Monasterium* / *monasteriolum* + suffixe *-aticum*, syncope médiane fréquente (*monast-[er]-eggio*), toscan médiéval *monestero*, aboutissant à *Monesteggio* (le domaine dépendant du prieuré).
+
+#### Hypothèse 2 : Le filon domanial et ministérial (*Ministerium* $\to$ *Ministeriale* $\to$ *Minesteghju*)
+* **Ancrage féodal** : Dans le droit domanial médiéval pisan et génois, le latin ***ministerium*** désignait **une circonscription d'exploitation domaniale** ou un office terrien confié à un régisseur seigneurial, le ***ministerialis*** (gestionnaire des terres, bois et eaux).
+* **Dynamique linguistique** : *Ministerium* + *-aticum* $\to$ *Ministeriaticum* $\to$ *Minesteghju* / *Minesteggio*.
+* **Portée** : Cette hypothèse rend compte **directement de la voyelle *I*** primitive sans nécessiter de fermeture phonétique ultérieure ; la graphie avec *O* (*Monesteggio*) ne serait alors qu'une fausse étymologie savante de notaire.
+
+#### Hypothèse 3 : Le double filon hospitalier et hydraulique (*Ministrare* $\to$ *Minestra*)
+Le verbe latin *ministrare* signifie « servir, pourvoir, distribuer, alimenter » :
+1. **L'aumônerie de subsistance (la « minestra » des voyageurs)** : Au pied des lacets montant au **Col d'Ominanda** (654 m), voie de passage vers le Niolo et le Bozio, les religieux ou seigneurs servaient la pitance (*minestra*, soupe nourricière cuite au chaudron) aux voyageurs et bergers transhumants (*u locu di a minestra* $\to$ *Minesteghju*).
+2. **La métaphore hydraulique (la répartition de l'eau)** : En dialectologie agraire toscane et corse, *« ministrare l'acqua »* signifie **distribuer et réguler le partage des débits d'eau** d'une prise ou d'un canal. La source de Minesteghju étant le régulateur hydraulique majeur de Corte (captée pour la garnison, la citadelle et les fontaines), le toponyme désignerait le site du répartiteur d'eau.
+
+#### Hypothèse 4 : L'affirmation lapidaire patricienne (*Ménesteggio* / *Ménage* / *Ménestrel*)
+* **Preuve matérielle in situ** : **Plaque de marbre gravée**, scellée au début du XXe siècle par le baron **Pierre Mariani** sur le pilier gauche du portail d'entrée du chemin carrossable.
+* **Portée symbolique de l'accent aigu (*Mén-*)** : L'accent aigu, absent de l'italien et du corse, affirme l'adoption des codes culturels de la haute société insulaire de la Belle Époque :
+  * Le noble terme de **« ménage »** (au sens classique d'exploitation terrienne ordonnée, de gentilhommière rurale et d'intendance domestique d'un grand propriétaire « bon ménager ») ;
+  * La consonance poétique du **ménestrel** (partageant la même étymologie latine *ministerialis*) ;
+  * La synthèse franco-toscane distinguant la **demeure patricienne** (*Ménesteggio*) du simple lieu-dit cadastral ou de la station de captage (*Minesteghju*).
 
 ---
 
