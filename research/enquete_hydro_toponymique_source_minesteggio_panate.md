@@ -141,7 +141,7 @@ Le verbe latin *ministrare* signifie « servir, pourvoir, distribuer, alimenter 
   * La synthèse franco-toscane distinguant la **demeure patricienne** (*Ménesteggio*) du simple lieu-dit cadastral ou de la station de captage (*Minesteghju*).
 
 #### Hypothèse 5 : Le filon micro-toponymique agraire du « mini-stadium » / champ enclos (*staggio*)
-* **Attribution intellectuelle** : Hypothèse formulée et transmise oralement à Jean Hugues Noël Robert par son ami **Tony** (universitaire et linguiste, professeur à l'Université de Toulouse, décédé récemment, dont le frère musicien réside à Corte ; patronyme en cours de réindexation canonique).
+* **Attribution intellectuelle** : Hypothèse formulée et transmise oralement à Jean Hugues Noël Robert par son ami **Antoine « Tony » Toma**. Son identité est désormais corroborée par des sources publiques convergentes : publications universitaires le présentant comme maître de conférences à l'Université Toulouse III, article de *Corse Net Infos* lui rendant hommage comme « mandoliniste cortenais » en août 2026, et avis de décès public d'Antoine (Tony) Toma, décédé le 2 mai 2026. **La paternité orale de l'hypothèse est un témoignage direct de Jean Hugues Noël Robert ; l'étymologie elle-même demeure une hypothèse à tester.** Voir le jalon de provenance : [`projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md`](../projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md).
 * **Découpage morphologique binaire** : Au lieu de découper le mot en radical + suffixe ($\text{Minest-} + \text{-eghju}$), cette approche propose la composition d'un diminutif (*mini-* / latin *minus*) et du substantif roman issu du latin *stadium* :
   $$\mathbf{Mini-} \quad + \quad \mathbf{stadium} \quad \longrightarrow \quad \mathbf{Minesteghju} \; / \; \mathbf{Minesteggio}$$
 * **Loi phonétique régulière** : En phonétique romane et corse, le groupe intervocalique latin **$-di-$ devant voyelle** se palatalise régulièrement en affriquée sonore (latin *podium* $\to$ corse *poghju* / toscan *poggio* ; latin *radium* $\to$ *raghju* / *raggio* ; latin *stadium* $\to$ ***steghju*** / ***staggio***).
@@ -200,3 +200,9 @@ Ce dossier est versé à la section scientifique du **Musée Mariani des Possibl
    - Plaque de marbre in situ sur le pilier gauche du chemin carrossable : mention gravée *Ménesteggio*, aménagée par le baron Pierre Mariani.
    - Correspondance administrative adressée à la Collectivité de Corse relative au délaissé de voirie de la D18 (bifurcation d'Ominanda).
    - *Scoutwiki* : Notices historiques sur les séjours de meutes de louveteaux accueillies par la cheftaine Marie-Louise Mariani à Minesteggio.
+5. **Provenance de l'hypothèse toponymique Tony Toma** :
+   - Jean Hugues Noël Robert : témoignage direct sur la transmission orale de l'hypothèse *mini-/minus + stadium/staggio*.
+   - Tony Toma, Université Toulouse III / publications en didactique des langues et du multimédia.
+   - *Corse Net Infos*, 2 août 2026 : hommage à Tony Toma, « mandoliniste cortenais ».
+   - Avis de décès public d'Antoine (Tony) Toma, 2 mai 2026.
+   - Jalon détaillé : [`projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md`](../projects/rise-and-fall/investigation/notes/2026-09-30-tony-toma-minesteggio.md).
