@@ -1,0 +1,9 @@
+{
+  "name": "Rise & Fall of the Mariani Family",
+  "short_name": "Rise & Fall",
+  "description": "Grandeur et déchéance de la famille Mariani (1776–2026) — Enquête historique et contrefactuelle.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfbf7",
+  "theme_color": "#8b1e1e"
+}

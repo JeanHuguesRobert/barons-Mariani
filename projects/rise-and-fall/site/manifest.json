@@ -1,0 +1,31 @@
+{
+  "schema": "riseandfall.site.manifest.v1",
+  "name": "Rise & Fall of the Mariani Family",
+  "url": "https://riseandfall.baronsmariani.org",
+  "generated_at": "2026-09-30T11:53:00Z",
+  "author": "Jean Hugues Noël Robert",
+  "institution": "Institut Mariani / C.O.R.S.I.C.A.",
+  "source_repository": "JeanHuguesRobert/barons-Mariani",
+  "source_path": "projects/rise-and-fall",
+  "source_commit": "e543ab7a8581e18ca797bf682956cf574ce20412",
+  "reality_cases": [
+    {
+      "id": "RC-01",
+      "date": "1863",
+      "title": "Élection au Corps législatif — Louis-Thomas Mariani vs Sampiero Gavini",
+      "path": "investigation/reality_cases/RC-01-1863-gavini.md"
+    },
+    {
+      "id": "RC-02",
+      "date": "1924",
+      "title": "Donation du terrain du monument aux morts de Corte",
+      "path": "investigation/reality_cases/RC-02-1924-donation-corte.md"
+    }
+  ],
+  "timeline": {
+    "path": "chronology/00_master_timeline.tsv",
+    "bifurcations_count": 14,
+    "date_range": "1776-2026"
+  },
+  "license": "CC-BY-SA-4.0"
+}

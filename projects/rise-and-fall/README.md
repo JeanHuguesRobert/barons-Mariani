@@ -124,18 +124,19 @@ projects/rise-and-fall/
 ├── architecture.md           # Architecture d'enquête, grammaire capacitaire, causalité
 ├── editorial-architecture.md # Architecture éditoriale, tripartition, protocole de gel
 ├── schemas/                  # Schémas machine-readable (bifurcations, causalité)
-├── chronology/               # Master timeline critique intégrée
-├── investigation/            # Dossiers d'enquête, passes A/B et Reality Cases
+├── chronology/               # Master timeline critique intégrée (14 bifurcations 1776–2026)
+├── investigation/            # Dossiers d'enquête, passes A/B et Reality Cases (RC-01, RC-02)
 ├── manuscript/               # Manuscrit éditorial (Livre, Magazine, Annexes)
 ├── sources/                  # Bibliographie critique, inventaire des actes primaires
 ├── projections/              # Contrats de projection Quarto / Ubikia
+├── site/                     # Vitrine web statique préparée pour riseandfall.baronsmariani.org
 └── editions/                 # Registre des éditions gelées et déclarations de freeze
 ```
 
 ---
 
-## 6. Règle de non-dispersion et périmètre
+## 6. Identité web et diffusion publique
 
-Conformément à la règle d'Occam du Corpus :
-- Le projet est logé au sein de `JeanHuguesRobert/barons-Mariani` pour bénéficier de l'accès direct aux sources patrimoniales et généalogiques existantes.
-- La création d'un dépôt séparé ou la réservation d'infrastructures DNS externes (`riseandfall.baronsmariani.org`) ne sera mise en œuvre que si l'autonomie éditoriale et le volume de diffusion le justifient, après accord explicite.
+- **Site public :** [`https://riseandfall.baronsmariani.org`](https://riseandfall.baronsmariani.org)
+- **Scaffold web :** Logé dans [`projects/rise-and-fall/site/`](site/) (landing page, appel à contribution, index des bifurcations, Reality Cases, `llms.txt`, manifeste de provenance).
+- **Règle de publication :** Conformément au mandat de l'issue #94 et aux directives de l'opérateur, la vitrine est amorcée localement. Tout hébergement externe ou création d'un dépôt d'artefacts dédié (sur le modèle de `JeanHuguesRobert/suicide-corse`) fait l'objet d'une validation explicite préalable.

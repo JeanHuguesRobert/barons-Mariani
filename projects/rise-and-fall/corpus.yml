@@ -13,6 +13,7 @@ architecture:
   editorial: projects/rise-and-fall/editorial-architecture.md
   project_index: projects/rise-and-fall/README.md
   editions: projects/rise-and-fall/editions/index.md
+  site: projects/rise-and-fall/site/
   rule: "Inquiry architecture, documentary base, and editorial projections are distinct but interoperable."
 
 sources:

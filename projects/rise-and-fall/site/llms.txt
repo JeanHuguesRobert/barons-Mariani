@@ -1,0 +1,37 @@
+# Rise & Fall of the Mariani Family (1776–2026)
+
+> Grandeur et déchéance de la famille Mariani : Une enquête historique, sociopolitique et contrefactuelle sur 250 ans de trajectoire corse, méditerranéenne et impériale.
+
+- **Auteur :** Jean Hugues Noël Robert, baron Mariani
+- **Institution :** Institut Mariani / C.O.R.S.I.C.A. (1 cours Paoli, F-20250 Corte, Corse)
+- **Contact :** jhr@baronsmariani.org
+- **Site public :** https://riseandfall.baronsmariani.org
+- **Dépôt source :** https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/rise-and-fall
+
+## Objet d'enquête
+
+Ce projet analyse la trajectoire séculaire de la famille Mariani de Corte, titrée baronne d'Empire en 1810, à travers ses bifurcations politiques, foncières, matrimoniales et judiciaires entre 1776 et 2026.
+
+L'enquête applique les invariants méthodologiques développés dans *Suicide Corse* :
+1. **Méthode en deux passes :** Passe A (régressive, de 2026 à 1776) pour remonter la chaîne causale sans anachronisme ; Passe B (prospective, de 1776 à 2026) pour tester l'arbre des possibles à chaque embranchement.
+2. **Falsification de l'hypothèse nulle :** L'État français ou les dominations extérieures ne sont pas présumés causes uniques du déclin. L'enquête évalue systématiquement les facteurs endogènes (stratégies claniques, conflits successoraux, ruptures d'alliances, captures institutionnelles locales).
+3. **Reality Cases à haute densité documentaire :** Études de cas micro-historiques s'appuyant exclusivement sur des sources primaires vérifiables (notariat, procès-verbaux d'élection, débats parlementaires, délibérations municipales).
+
+## Premiers Reality Cases
+
+- **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, baron d'Empire) et Sampiero Gavini. Analyse de la mécanique du clientélisme insulaire, de l'intervention préfectorale et de l'annulation du scrutin.
+- **RC-02 (1924) :** Donation du terrain du monument aux morts de Corte par Hyacinthe Mariani. Analyse de la patrimonialisation civique, des transactions notariées et de la position d'arbitre local des Mariani dans l'après-guerre.
+
+## Lignée principale examinée
+
+- **Hyacinthe Mariani (1743–1824) :** Podestà de Corte, capitaine au Royal-Corse, pivot de la transition génoise/paolienne/française.
+- **Louis-Hugues Mariani (1776–1858) :** 1er baron Mariani (1810), magistrat, président de chambre à la Cour de Paris.
+- **Louis-Thomas Mariani (1815–1890) :** 2e baron Mariani, député de la Corse au Corps législatif sous le Second Empire.
+- **Hyacinthe Joseph Louis Mariani (1853–1932) :** Magistrat, conseiller à la Cour d'appel de Bastia, bienfaiteur de Corte (donation 1924).
+- **Pierre Mariani (1888–1968) :** Avocat, héritier du domaine de Panate et des archives familiales.
+- **Marie-Louise Mariani (1930–2016) :** Dernière résidente du domaine de Panate, dépositaire de la mémoire et des contentieux familiaux.
+- **Jean Hugues Noël Robert (1966–) :** Baron Mariani, réouverture de l'enquête, reconstitution documentaire et réexamen des bifurcations.
+
+## Formats et licences
+
+Les textes et données sont publiés sous licence Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
