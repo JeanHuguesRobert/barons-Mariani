@@ -236,7 +236,7 @@ Le nombre de mots n'est qu'un indicateur secondaire. Une variation de longueur n
 
 Le Magazine ne répète pas le Livre. Il montre le **diff de connaissance** depuis le numéro précédent.
 
-Pour ce numéro, la cadence ordinaire du lundi a d'abord été décalée au mardi 29 septembre : le scrutin principal a eu lieu le dimanche 27 septembre et les réactions du lundi modifient matériellement l'analyse du Reality Case. La date éditoriale courante est le mercredi 30 septembre 2026. Ce décalage reste une exception bornée, non une nouvelle cadence, et il ne constitue pas un gel.
+Pour ce numéro, la cadence ordinaire du lundi a d'abord été décalée au mardi 29 septembre : le scrutin principal a eu lieu le dimanche 27 septembre et les réactions du lundi modifient matériellement l'analyse du Reality Case. La date éditoriale est le mercredi 30 septembre 2026. La **borne de contenu** est désormais fixée à cette journée : les conditions du rendez-vous préfectoral du 1er octobre à 14 h sont incluses ; son déroulement et ses résultats appartiennent au n°4. Cette clôture éditoriale ne constitue pas le gel technique de l'édition.
 
 ## M1 — Le Réel répond
 
@@ -459,3 +459,14 @@ Ordre recommandé :
 6. produire la projection finale Livre + Magazine + Annexes ;
 7. exécuter un nouvel audit de lisibilité et de cohérence ;
 8. seulement alors remettre `render_ready: true`.
+
+
+## Borne finale du Spécial sénatoriales
+
+Décision canonique : `../audits/2026-09-30-special-senatoriales-content-close.md`.
+
+Le Magazine se ferme sur l'accès aux pièces confirmé et le rendez-vous du 1er octobre accepté, avec la formule :
+
+> **La suite dans le prochain numéro.**
+
+Toute observation issue du rendez-vous lui-même relève du n°4. Un nouveau rendu de vérification du n°3 doit précéder tout freeze.
