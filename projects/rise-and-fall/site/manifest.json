@@ -2,12 +2,19 @@
   "schema": "riseandfall.site.manifest.v1",
   "name": "Rise & Fall of the Mariani Family",
   "url": "https://riseandfall.baronsmariani.org",
-  "generated_at": "2026-09-30T11:53:00Z",
+  "generated_at": "2026-09-30T17:35:00Z",
   "author": "Jean Hugues Noël Robert",
   "institution": "Institut Mariani / C.O.R.S.I.C.A.",
   "source_repository": "JeanHuguesRobert/barons-Mariani",
   "source_path": "projects/rise-and-fall",
-  "source_commit": "e543ab7a8581e18ca797bf682956cf574ce20412",
+  "source_commit": "e2d0bb0",
+  "cover": {
+    "image": "assets/cover/couverture_rise_and_fall1.png",
+    "motto": "FIDELITAS · PARVORVM · FORTITVDO",
+    "description": "Armoiries historiques des barons Mariani"
+  },
+  "estate": "Minesteggio (Corte)",
+  "barony": "Westphalie (1813, Roi Jérôme Bonaparte)",
   "reality_cases": [
     {
       "id": "RC-01",

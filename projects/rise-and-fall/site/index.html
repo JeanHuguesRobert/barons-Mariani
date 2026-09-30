@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Rise & Fall of the Mariani Family — Enquête historique (1776–2026)</title>
-<meta name="description" content="Grandeur et déchéance de la famille Mariani (1776–2026) : enquête historique, sociopolitique et contrefactuelle sur 250 ans de trajectoire corse et impériale.">
+<meta name="description" content="Grandeur et déchéance de la famille Mariani (1776–2026) : enquête historique, sociopolitique et contrefactuelle sur 250 ans de trajectoire corse, le titre westphalien de 1813 et le domaine de Minesteggio.">
 <link rel="canonical" href="https://riseandfall.baronsmariani.org/">
 <link rel="manifest" href="/site.webmanifest">
 <meta property="og:type" content="website">
@@ -13,9 +13,11 @@
 <meta property="og:url" content="https://riseandfall.baronsmariani.org/">
 <meta property="og:title" content="Rise & Fall of the Mariani Family (1776–2026)">
 <meta property="og:description" content="Grandeur et déchéance de la famille Mariani : 250 ans d'histoire, de bifurcations politiques et de mémoire corse.">
+<meta property="og:image" content="https://riseandfall.baronsmariani.org/assets/cover/couverture_rise_and_fall1.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Rise & Fall of the Mariani Family (1776–2026)">
 <meta name="twitter:description" content="Grandeur et déchéance de la famille Mariani : 250 ans d'histoire, de bifurcations politiques et de mémoire corse.">
+<meta name="twitter:image" content="https://riseandfall.baronsmariani.org/assets/cover/couverture_rise_and_fall1.png">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -24,6 +26,7 @@
   "url": "https://riseandfall.baronsmariani.org/",
   "description": "Grandeur et déchéance de la famille Mariani (1776–2026) : enquête historique, sociopolitique et contrefactuelle.",
   "inLanguage": "fr",
+  "image": "https://riseandfall.baronsmariani.org/assets/cover/couverture_rise_and_fall1.png",
   "author": {
     "@type": "Person",
     "name": "Jean Hugues Noël Robert",
@@ -56,6 +59,7 @@
     --badge-color: #333;
     --table-header-bg: #f4f3ee;
     --link-color: #8b1e1e;
+    --card-bg: #ffffff;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -68,6 +72,7 @@
       --badge-color: #ccc;
       --table-header-bg: #222;
       --link-color: #e06c6c;
+      --card-bg: #1f1f1f;
     }
   }
   body {
@@ -79,10 +84,10 @@
     color: var(--text-color);
     background: var(--bg-color);
   }
-  header { margin-bottom: 2.5rem; }
-  h1 { font-size: 2.1rem; margin-bottom: 0.3rem; letter-spacing: -0.01em; line-height: 1.2; }
-  .subtitle { font-style: italic; color: #666; font-size: 1.15rem; margin-top: 0; }
-  .byline { color: #555; margin-top: 0.8rem; font-size: 0.95rem; }
+  header { margin-bottom: 2.5rem; text-align: center; }
+  h1 { font-size: 2.1rem; margin-bottom: 0.3rem; letter-spacing: -0.01em; line-height: 1.2; text-align: left; }
+  .subtitle { font-style: italic; color: #666; font-size: 1.15rem; margin-top: 0; text-align: left; }
+  .byline { color: #555; margin-top: 0.8rem; font-size: 0.95rem; text-align: left; }
   .byline strong { color: var(--text-color); }
   a { color: var(--link-color); text-decoration: none; }
   a:hover { text-decoration: underline; }
@@ -99,6 +104,39 @@
     color: #1b4965;
     margin-bottom: 1.5rem;
   }
+  .cover-card {
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    background: var(--card-bg);
+    padding: 2rem;
+    margin: 1.5rem 0 2.5rem;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  }
+  .cover-img {
+    max-width: 280px;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: 1rem auto;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  .cover-motto {
+    font-family: "Trajan Pro", Georgia, serif;
+    font-size: 1rem;
+    letter-spacing: 0.15em;
+    font-weight: bold;
+    color: var(--call-border);
+    margin-top: 0.8rem;
+    text-transform: uppercase;
+  }
+  .cover-motto-sub {
+    font-size: 0.82rem;
+    color: #777;
+    font-style: italic;
+    margin-top: 0.2rem;
+  }
   .call {
     border: 1px solid var(--call-border);
     background: var(--call-bg);
@@ -112,6 +150,7 @@
     border-radius: 6px;
     padding: 1.4rem 1.6rem;
     margin: 1.5rem 0;
+    background: var(--card-bg);
   }
   .card h3 { margin-top: 0; font-size: 1.2rem; }
   .proof-pill {
@@ -145,6 +184,33 @@
     background: rgba(0,0,0,0.02);
     font-size: 0.98rem;
   }
+  .genealogy-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  .genealogy-list li {
+    padding: 0.6rem 0;
+    border-bottom: 1px dashed var(--border-color);
+  }
+  .genealogy-list li:last-child {
+    border-bottom: none;
+  }
+  .genealogy-name {
+    font-weight: bold;
+    font-size: 1.05rem;
+  }
+  .genealogy-dates {
+    font-family: monospace;
+    font-size: 0.9rem;
+    color: var(--call-border);
+    margin-left: 0.4rem;
+  }
+  .genealogy-desc {
+    display: block;
+    font-size: 0.92rem;
+    color: #555;
+    margin-top: 0.2rem;
+  }
   footer {
     margin-top: 4rem;
     padding-top: 1.5rem;
@@ -157,18 +223,29 @@
 <body>
 
 <header>
-  <div class="status-badge">Chantier d'enquête ouvert — Septembre 2026</div>
-  <h1>Rise & Fall of the Mariani Family</h1>
-  <p class="subtitle">Grandeur et déchéance de la famille Mariani : Une enquête historique, sociopolitique et contrefactuelle (1776–2026)</p>
-  <div class="byline">
-    Par <strong>Jean Hugues Noël Robert</strong>, baron Mariani<br>
-    <em>Institut Mariani / C.O.R.S.I.C.A. — 1 cours Paoli, F-20250 Corte, Corse</em>
+  <div style="text-align:left;">
+    <div class="status-badge">Chantier d'enquête ouvert — Septembre 2026</div>
+    <h1>Rise & Fall of the Mariani Family</h1>
+    <p class="subtitle">Grandeur et déchéance de la famille Mariani : Une enquête historique, sociopolitique et contrefactuelle (1776–2026)</p>
+    <div class="byline">
+      Par <strong>Jean Hugues Noël Robert</strong>, baron Mariani<br>
+      <em>Institut Mariani / C.O.R.S.I.C.A. — 1 cours Paoli, F-20250 Corte, Corse</em>
+    </div>
   </div>
 </header>
 
+<div class="cover-card">
+  <div style="text-transform:uppercase; font-size:0.8rem; letter-spacing:0.12em; color:#777; margin-bottom:0.5rem;">
+    Livre / Magazine — Volume I
+  </div>
+  <img src="/assets/cover/couverture_rise_and_fall1.png" alt="Armoiries des barons Mariani — Fidelitas Parvorum Fortitudo" class="cover-img">
+  <div class="cover-motto">FIDELITAS · PARVORVM · FORTITVDO</div>
+  <div class="cover-motto-sub">La fidélité est la force des humbles — Armoiries historiques de la famille Mariani</div>
+</div>
+
 <section id="introduction">
   <p>
-    Entre le XVIIIe siècle et l'aube du XXIe siècle, la trajectoire de la famille Mariani de Corte concentre en un quart de millénaire toutes les grandeurs, tensions et ruptures de l'histoire corse et méditerranéenne : notabilité patricienne sous la République de Gênes et Pascal Paoli, ralliement au royaume de France, ascension sous le Premier Empire jusqu'à la pairie et au titre baronal (1810), députation sous le Second Empire, puis désagrégation patrimoniale progressive sous la IIIe République jusqu'à l'isolement foncier et tragique du domaine de Panate.
+    Entre le XVIIIe siècle et l'aube du XXIe siècle, la trajectoire de la famille Mariani de Corte concentre en un quart de millénaire toutes les grandeurs, tensions et ruptures de l'histoire corse et méditerranéenne : notabilité patricienne et fidélité d'Empire, attribution du <strong>titre de baron westphalien en 1813</strong> sous le règne de Jérôme Bonaparte, constitution et aménagement du <strong>domaine familial de Minesteggio</strong>, députation sous le Second Empire, puis désagrégation patrimoniale progressive sous la IIIe République jusqu'à l'isolement foncier et les contentieux successoraux du XXe siècle.
   </p>
   <p>
     Ce projet ne se contente pas d'aligner une chronique généalogique. Il applique la méthode d'investigation contrefactuelle et les invariants épistémiques issus de <em><a href="https://suicidecorse.baronsmariani.org">Suicide Corse</a></em> pour élucider les mécanismes de chaque bifurcation historique : qu'est-ce qui relevait d'une nécessité macro-politique, de la capture clanique locale, ou de décisions familiales délibérées ?
@@ -176,13 +253,80 @@
 </section>
 
 <div class="method-box">
-  <strong>Principes de la méthode :</strong>
+  <strong>Précisions historiques et méthodologiques majeures :</strong>
   <ul>
-    <li><strong>Deux passes rigoureuses :</strong> Passe A (régressive, de 2026 à 1776) pour remonter les chaînes causales à partir de preuves matérielles contemporaines ; Passe B (prospective, de 1776 à 2026) pour reconstituer l'horizon d'incertitude des acteurs à chaque tournant.</li>
-    <li><strong>Falsification de l'hypothèse nulle :</strong> Refus du réflexe victimaire simplificateur. Le déclin n'est pas imputé unilatéralement à « l'État » : l'enquête mesure précisément les facteurs endogènes insulaires (clientélisme, inertie successorale, ruptures de transmission, transactions notariées).</li>
-    <li><strong>Indépendance des faits et des interprétations :</strong> Chaque fait invoqué est ancré dans une archive primaire cotée (notariat, scrutins officiels, délibérations, correspondances).</li>
+    <li><strong>Le titre de baron (1813) :</strong> Le titre baronal originel est un titre <em>westphalien</em> conféré à Antoine Dominique Mariani par le <strong>Roi Jérôme Bonaparte</strong> (le plus jeune frère, et « turbulent », de Napoléon Ier), dans les conditions mouvementées de la fin du Royaume de Westphalie en <strong>1813</strong>, au moment précis où le Journal Officiel cessait de paraître.</li>
+    <li><strong>Le domaine de Minesteggio :</strong> Le domaine familial historique se nomme <strong>Minesteggio</strong> (dont la graphie a évolué au fil du temps : <em>Minesteghju</em>, <em>Minesteggio</em>, <em>Ménesteggio</em>). Bien que des parcelles et fontaines urbaines cortenaises associées portent le nom de <em>Panate</em> (au cours Paoli), le domaine foncier et château familial est celui de Minesteggio.</li>
+    <li><strong>Deux passes rigoureuses :</strong> Passe A (régressive, de 2026 à 1776) pour remonter les chaînes causales à partir des archives contemporaines ; Passe B (prospective, de 1776 à 2026) pour reconstituer l'horizon d'incertitude des acteurs à chaque tournant.</li>
+    <li><strong>Falsification de l'hypothèse nulle :</strong> Refus de l'accusation globale ou unilatérale contre « l'État ». L'enquête évalue rigoureusement les facteurs endogènes insulaires (clientélisme, partage égalitaire du Code civil de 1804, inertie indivisaire, ruptures d'alliances).</li>
   </ul>
 </div>
+
+<section id="genealogie">
+  <h2>Lignée canonique examinée (Corpus Mariani)</h2>
+  <p>
+    D'après les données stabilisées du sous-corpus généalogique (<code>musee-mariani/mariani/personnes.tsv</code> et <code>musee-mariani/personnes/README.md</code>) :
+  </p>
+
+  <ul class="genealogy-list">
+    <li>
+      <span class="genealogy-name">Antoine Dominique Mariani</span>
+      <span class="genealogy-dates">1776 – 1845</span>
+      <span class="genealogy-desc">
+        Premier baron Mariani (titre westphalien conféré en 1813 par le Roi Jérôme Bonaparte). Sous-préfet à Corte (1811), acquéreur et constructeur du domaine de Minesteggio.
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Louis-Thomas Joseph Maurice Jérôme Mariani</span>
+      <span class="genealogy-dates">1815 – 1890</span>
+      <span class="genealogy-desc">
+        Fils d'Antoine Dominique. 2e baron Mariani, député de la Corse au Corps législatif sous le Second Empire (1857–1863, 1864–1869). Auteur de la protestation électorale de 1863 contre Sampiero Gavini (RC-01). Portrait catalogué au Musée d'Orsay.
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Louis-Hugues Ferdinand Marie Mariani</span>
+      <span class="genealogy-dates">1815/1818 – 1886/1890</span>
+      <span class="genealogy-desc">
+        Frère de Louis-Thomas, magistrat. Époux le 12 juin 1853 à Bastia de <strong>Marie Joséphine d'Angelis</strong>. Maillon central de la transmission matrimoniale d'Angelis / Mariani et de la chapelle funéraire de Bastia (AR 186).
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Pierre Mariani (baron Pierre Mariani)</span>
+      <span class="genealogy-dates">† 17 février 1938</span>
+      <span class="genealogy-desc">
+        Fils de Louis-Hugues. Épouse en 1893 <strong>Marguerite de Casabianca</strong> (1861 – 17 septembre 1919). Maître du domaine de Minesteggio au début du XXe siècle, donateur à la Ville de Corte du terrain pour le monument aux morts en 1924 (RC-02).
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Marie-Louise Mariani, épouse Robert</span>
+      <span class="genealogy-dates">3 août 1901 – 26 février 1983</span>
+      <span class="genealogy-desc">
+        Fille unique du baron Pierre Mariani et de Marguerite de Casabianca. Épouse en juillet 1939 <strong>Jean Robert</strong> (1900/1903 – 27 décembre 1969). Héritière et gardienne de Minesteggio et des archives familiales. Transférée en 1983 dans le caveau familial de Bastia.
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Marguerite Robert</span>
+      <span class="genealogy-dates">12 décembre 1940 – 9 septembre 1993</span>
+      <span class="genealogy-desc">
+        Fille unique de Marie-Louise Mariani et Jean Robert. Mère de Jean Hugues Noël Robert.
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Jean Hugues Noël Robert (baron Mariani)</span>
+      <span class="genealogy-dates">né le 25 décembre 1965</span>
+      <span class="genealogy-desc">
+        Fils unique de Marguerite Robert. Auteur et conservateur du corpus, fondateur de l'Institut Mariani / C.O.R.S.I.C.A., candidat sous le nom d'usage de baron Mariani (admis par le Conseil constitutionnel en 2024), initiateur du Fonds Minesteggio.
+      </span>
+    </li>
+    <li>
+      <span class="genealogy-name">Marie-Louise Isabelle Garance Robert</span>
+      <span class="genealogy-dates">décédée le 17 septembre 2024</span>
+      <span class="genealogy-desc">
+        Fille de Jean Hugues Noël Robert. Artiste et figure centrale dont la disparition tragique a déclenché l'enquête et la méthode d'investigation de <em>Suicide Corse</em>.
+      </span>
+    </li>
+  </ul>
+</section>
 
 <section id="call" class="call">
   <h2>Appel public à contribution & archives familiales</h2>
@@ -190,7 +334,7 @@
     L'Institut Mariani lance un appel ouvert aux historiens, généalogistes, archivistes, descendants des familles alliées ou adverses de Corte et de Corse, ainsi qu'aux détenteurs d'archives privées (notariat, correspondance, photographies d'époque 1776–1970).
   </p>
   <p>
-    Toute pièce attestée permettant d'éclairer les transactions foncières de Panate et Minesteggio, les scrutins électoraux de 1848 à 1889, ou la vie civile de Corte au XXe siècle est la bienvenue.
+    Toute pièce attestée permettant d'éclairer l'histoire foncière du <strong>domaine de Minesteggio</strong>, les décrets du Royaume de Westphalie de 1813, les scrutins électoraux de 1848 à 1889, ou la vie civile de Corte au XXe siècle est la bienvenue.
   </p>
   <p>
     📧 Contact direct : <a href="mailto:jhr@baronsmariani.org"><strong>jhr@baronsmariani.org</strong></a>
@@ -248,7 +392,7 @@
   <div class="card">
     <h3>RC-01 (1863) — L'élection au Corps législatif : Louis-Thomas Mariani vs Sampiero Gavini</h3>
     <p>
-      Élection de la 2e circonscription de la Corse (Corte-Bastia). Confrontation entre le candidat officiel impérial Louis-Thomas Mariani, 2e baron Mariani, et Sampiero Gavini, candidat bonapartiste non officiel. Gavini l'emporte en 1863 ; Mariani publie une protestation détaillée contre les opérations électorales. La contestation n'aboutit pas à l'annulation : Gavini conserve son mandat jusqu'en 1869.
+      Élection de la 2e circonscription de la Corse (Corte-Bastia). Confrontation directe entre le candidat officiel impérial (Louis-Thomas Mariani, 2e baron) et l'opposition libérale menée par le clan Gavini. Scrutin d'abord proclamé favorable à Gavini, contesté par Mariani pour fraude électorale massive et pression illégale, puis annulé par le Corps législatif le 11 décembre 1863 avant réélection de Mariani en 1864.
     </p>
     <p>
       <strong>Enseignement :</strong> Démonstration documentaire du rôle central des Mariani dans l'arbitrage étatique impérial insulaire et radiographie des rivalités dynastiques cortenaises.
@@ -258,7 +402,7 @@
   <div class="card">
     <h3>RC-02 (1924) — La donation du monument aux morts de Corte</h3>
     <p>
-      Donation notariée consentie par le magistrat Hyacinthe Joseph Louis Mariani à la Ville de Corte pour l'érection du monument aux morts de la Grande Guerre, place du Poilu.
+      Donation notariée consentie par le baron Pierre Mariani à la Ville de Corte pour l'érection du monument aux morts de la Grande Guerre, place du Poilu.
     </p>
     <p>
       <strong>Enseignement :</strong> Preuve de la permanence de la générosité civique des Mariani au cœur du XXe siècle, mais prélude à la dissociation progressive entre visibilité publique et maîtrise foncière dans le bassin de Corte.
@@ -269,7 +413,7 @@
 <section id="timeline">
   <h2>Index des 14 bifurcations historiques (1776–2026)</h2>
   <p>
-    Reconstitution chronologique issue du tableau directeur des bifurcations, classée par date, acteurs et typologie de preuve :
+    Reconstitution chronologique issue du tableau directeur des bifurcations (<code>00_master_timeline.tsv</code>), classée par date, acteurs et typologie de preuve :
   </p>
 
   <table>
@@ -284,85 +428,109 @@
     <tbody>
       <tr>
         <td>1776</td>
-        <td>Transition de notabilité : consolidation de la lignée de Corte sous le régime français</td>
-        <td>Hyacinthe Mariani (1743–1824)</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">D</span></td>
+        <td>Naissance d’Antoine Dominique Mariani (15 septembre à Muracciole)</td>
+        <td>A.D. Mariani, Marie Madeleine Arrighi de Casanova</td>
+        <td><span class="proof-pill">P</span></td>
       </tr>
       <tr>
-        <td>1794</td>
-        <td>Royaume Anglo-Corse et fidélités divisées à Corte</td>
-        <td>Hyacinthe Mariani, Pascal Paoli</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">S</span></td>
+        <td>1806</td>
+        <td>Mission à Naples au service de Joseph Bonaparte avec Saliceti</td>
+        <td>A.D. Mariani, Christophe Saliceti</td>
+        <td><span class="proof-pill">E</span><span class="proof-pill">P</span></td>
       </tr>
       <tr>
-        <td>1810</td>
-        <td>Création du titre de Baron de l'Empire par lettres patentes</td>
-        <td>Louis-Hugues Mariani, Napoléon Ier</td>
+        <td>1811</td>
+        <td>Nomination comme sous-préfet à Corte ; acquisition et aménagement de Minesteggio</td>
+        <td>Antoine Dominique Mariani, Napoléon Ier</td>
+        <td><span class="proof-pill">E</span><span class="proof-pill">P</span></td>
+      </tr>
+      <tr>
+        <td>1813</td>
+        <td>Attribution du titre de baron westphalien par le Roi Jérôme Bonaparte</td>
+        <td>Antoine Dominique Mariani, Roi Jérôme Bonaparte</td>
         <td><span class="proof-pill">E</span><span class="proof-pill">D</span></td>
       </tr>
       <tr>
         <td>1815</td>
-        <td>Restauration et maintien de la position judiciaire</td>
-        <td>Louis-Hugues Mariani</td>
+        <td>Ralliement aux Cent-Jours et maintien territorial malgré la chute de l'Empire</td>
+        <td>A.D. Mariani, duc de Padoue</td>
         <td><span class="proof-pill">E</span></td>
       </tr>
       <tr>
-        <td>1848</td>
-        <td>Chute de la monarchie de Juillet et transition républicaine</td>
-        <td>Louis-Thomas Mariani</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">P</span></td>
+        <td>1845</td>
+        <td>Décès d’Antoine Dominique Mariani (8 décembre) ; partage successoral</td>
+        <td>A.D. Mariani, cohéritiers</td>
+        <td><span class="proof-pill">P</span><span class="proof-pill">O</span></td>
+      </tr>
+      <tr>
+        <td>1853</td>
+        <td>Mariage de Louis-Hugues Mariani et Marie Joséphine d’Angelis à Bastia (12 juin)</td>
+        <td>Louis-Hugues Mariani, M.J. d’Angelis</td>
+        <td><span class="proof-pill">P</span><span class="proof-pill">O</span></td>
+      </tr>
+      <tr>
+        <td>1857</td>
+        <td>Élection de Louis-Thomas Mariani au Corps législatif (2e baron)</td>
+        <td>Louis-Thomas Mariani, Napoléon III</td>
+        <td><span class="proof-pill">E</span></td>
       </tr>
       <tr>
         <td>1863</td>
-        <td>Élection législative contestée de Corte (RC-01)</td>
+        <td>Élection législative contestée de Corte : Mariani contre Gavini (RC-01)</td>
         <td>Louis-Thomas Mariani, Sampiero Gavini</td>
         <td><span class="proof-pill">E</span><span class="proof-pill">P</span><span class="proof-pill">S</span></td>
       </tr>
       <tr>
-        <td>1870</td>
-        <td>Chute du Second Empire : perte de l'appui d'État</td>
-        <td>Louis-Thomas Mariani</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">P</span></td>
-      </tr>
-      <tr>
-        <td>1890</td>
-        <td>Succession de Louis-Thomas et repli sur la magistrature</td>
-        <td>Hyacinthe Joseph Louis Mariani</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">D</span></td>
-      </tr>
-      <tr>
-        <td>1914</td>
-        <td>La Grande Guerre : saignée démographique et rupture générationnelle</td>
-        <td>Famille Mariani, conscrits cortenais</td>
+        <td>1870–1876</td>
+        <td>Érection de la chapelle funéraire de Bastia (AR 186) et reconnaissance de propriété</td>
+        <td>M.J. d’Angelis, Sylvestre d’Angelis</td>
         <td><span class="proof-pill">E</span></td>
       </tr>
       <tr>
+        <td>1893</td>
+        <td>Mariage du baron Pierre Mariani et de Marguerite de Casabianca</td>
+        <td>Pierre Mariani, Marguerite de Casabianca</td>
+        <td><span class="proof-pill">S</span></td>
+      </tr>
+      <tr>
+        <td>1901</td>
+        <td>Naissance de Marie-Louise Mariani à Bastia (3 août)</td>
+        <td>Marie-Louise Mariani, Pierre Mariani</td>
+        <td><span class="proof-pill">S</span><span class="proof-pill">P</span></td>
+      </tr>
+      <tr>
         <td>1924</td>
-        <td>Donation civique du terrain du monument aux morts (RC-02)</td>
-        <td>Hyacinthe Mariani, Ville de Corte</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">D</span></td>
+        <td>Donation du terrain du monument aux morts de Corte (RC-02)</td>
+        <td>Le Baron Pierre Mariani, Ville de Corte</td>
+        <td><span class="proof-pill">E</span><span class="proof-pill">P</span></td>
       </tr>
       <tr>
-        <td>1945</td>
-        <td>Après-guerre : effacement politique et gestion de Panate</td>
-        <td>Pierre Mariani (1888–1968)</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">D</span></td>
+        <td>1938–1939</td>
+        <td>Décès de Pierre Mariani (1938) ; mariage de Marie-Louise avec Jean Robert (1939)</td>
+        <td>Marie-Louise Mariani, Jean Robert</td>
+        <td><span class="proof-pill">S</span><span class="proof-pill">E</span></td>
       </tr>
       <tr>
-        <td>1968</td>
-        <td>Succession de Pierre : repli du domaine sur Marie-Louise</td>
-        <td>Pierre Mariani, Marie-Louise Mariani</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">D</span><span class="proof-pill">O</span></td>
+        <td>1983</td>
+        <td>Décès de Marie-Louise Mariani (26 février) et transfert au caveau de Bastia</td>
+        <td>Marie-Louise Mariani, Marguerite Robert</td>
+        <td><span class="proof-pill">E</span><span class="proof-pill">S</span></td>
       </tr>
       <tr>
-        <td>2016</td>
-        <td>Décès de Marie-Louise Mariani : fin de la présence continue à Panate</td>
-        <td>Marie-Louise Mariani, Jean Hugues Noël Robert</td>
-        <td><span class="proof-pill">E</span><span class="proof-pill">O</span></td>
+        <td>1993–1995</td>
+        <td>Décès de Marguerite Robert (1993) ; création de l'association C.O.R.S.I.C.A. (1995)</td>
+        <td>Marguerite Robert, Jean Hugues Noël Robert</td>
+        <td><span class="proof-pill">E</span></td>
+      </tr>
+      <tr>
+        <td>2024</td>
+        <td>Disparition de Marie-Louise Isabelle Garance Robert ; validation nom d'usage JORF</td>
+        <td>M.L. Robert, J.H.N. Robert, Conseil constitutionnel</td>
+        <td><span class="proof-pill">E</span></td>
       </tr>
       <tr>
         <td>2026</td>
-        <td>Ouverture de l'enquête méthodologique et reconstruction contrefactuelle</td>
+        <td>Fonds Barons Mariani pour Minesteggio et ouverture de l'enquête méthodologique</td>
         <td>Jean Hugues Noël Robert (baron Mariani)</td>
         <td><span class="proof-pill">E</span><span class="proof-pill">P</span><span class="proof-pill">S</span><span class="proof-pill">D</span></td>
       </tr>
@@ -376,16 +544,16 @@
 <section id="editions">
   <h2>Programme des éditions</h2>
   <div class="card">
-    <h3>Volume I (1776–1870) — De la notabilité génoise à l'apogée impériale</h3>
-    <p><em>En cours de rédaction</em> — L'ascension, la magistrature parisienne, les lettres patentes de 1810 et les batailles parlementaires de Corte.</p>
+    <h3>Volume I (1776–1870) — De la notabilité cortenaise à l'apogée impériale</h3>
+    <p><em>En cours de rédaction</em> — L'ascension d'Antoine Dominique Mariani, la sous-préfecture de Corte (1811), le titre de baron westphalien (1813), l'édification de Minesteggio, et les batailles parlementaires de Louis-Thomas Mariani face à Sampiero Gavini.</p>
   </div>
   <div class="card">
-    <h3>Volume II (1870–1945) — Le déclin sous la République et la rupture de transmission</h3>
-    <p><em>À paraître</em> — La perte des relais ministériels, la Grande Guerre, la donation de 1924 et l'entrée dans le XXe siècle.</p>
+    <h3>Volume II (1870–1945) — Le repli patrimonial sous la IIIe République</h3>
+    <p><em>À paraître</em> — La chute de l'Empire, les alliances d'Angelis et Casabianca, le baron Pierre Mariani à Minesteggio, la Grande Guerre et la donation de 1924.</p>
   </div>
   <div class="card">
-    <h3>Volume III (1945–2026) — L'amnésie patrimoniale et la réouverture du dossier</h3>
-    <p><em>À paraître</em> — De la résidence isolée de Panate aux enquêtes contemporaines sur la capacité d'autonomie et le droit.</p>
+    <h3>Volume III (1945–2026) — De Marie-Louise à la réouverture du dossier</h3>
+    <p><em>À paraître</em> — La mémoire de Marie-Louise Mariani-Robert, les contentieux fonciers, la préservation de Minesteggio et la démarche d'autonomie de capacité contemporaine.</p>
   </div>
 </section>
 

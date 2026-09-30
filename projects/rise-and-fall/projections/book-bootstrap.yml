@@ -8,6 +8,18 @@ subtitle: "Reconstitution régressive et prospective des bifurcations de capacit
 author: "Jean Hugues Noël Robert"
 edition_label: "Édition d'amorçage — Cadre d'enquête et Reality Case pilote 1863"
 
+cover:
+  title: "Rise & Fall of the Mariani Family"
+  subtitle: "Grandeur et déchéance de la famille Mariani (1776–2026)"
+  issue: "Volume I"
+  edition: "Édition d'amorçage — 30 septembre 2026"
+  author: "Jean Hugues Noël Robert"
+  author_title: "baron Mariani"
+  image: "../assets/cover/couverture_rise_and_fall1.png"
+  image_role: "élément graphique central"
+  preserve_source_image: true
+  motto: "FIDELITAS · PARVORVM · FORTITVDO"
+
 source_manifest: ../corpus.yml
 related_issue: 94
 editorial_architecture: ../editorial-architecture.md

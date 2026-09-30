@@ -7,14 +7,15 @@
 - **Contact :** jhr@baronsmariani.org
 - **Site public :** https://riseandfall.baronsmariani.org
 - **Dépôt source :** https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/rise-and-fall
+- **Couverture :** Armoiries des barons Mariani — Devise : *FIDELITAS · PARVORVM · FORTITVDO* (`assets/cover/couverture_rise_and_fall1.png`)
 
 ## Objet d'enquête
 
-Ce projet analyse la trajectoire séculaire de la famille Mariani de Corte, titrée baronne d'Empire en 1810, à travers ses bifurcations politiques, foncières, matrimoniales et judiciaires entre 1776 et 2026.
+Ce projet analyse la trajectoire séculaire de la famille Mariani de Corte, titrée baronne (titre westphalien conféré en 1813 par le Roi Jérôme Bonaparte dans la débâcle finale du Royaume de Westphalie), à travers ses bifurcations politiques, foncières (domaine familial historique de Minesteggio), matrimoniales et judiciaires entre 1776 et 2026.
 
 L'enquête applique les invariants méthodologiques développés dans *Suicide Corse* :
 1. **Méthode en deux passes :** Passe A (régressive, de 2026 à 1776) pour remonter la chaîne causale sans anachronisme ; Passe B (prospective, de 1776 à 2026) pour tester l'arbre des possibles à chaque embranchement.
-2. **Falsification de l'hypothèse nulle :** L'État français ou les dominations extérieures ne sont pas présumés causes uniques du déclin. L'enquête évalue systématiquement les facteurs endogènes (stratégies claniques, conflits successoraux, ruptures d'alliances, captures institutionnelles locales).
+2. **Falsification de l'hypothèse nulle :** L'État français ou les dominations extérieures ne sont pas présumés causes uniques du déclin. L'enquête évalue systématiquement les facteurs endogènes (stratégies claniques, conflits successoraux sous le Code civil de 1804, ruptures d'alliances, transactions notariées).
 3. **Reality Cases à haute densité documentaire :** Études de cas micro-historiques s'appuyant exclusivement sur des sources primaires vérifiables (notariat, procès-verbaux d'élection, débats parlementaires, délibérations municipales).
 
 ## Jalon d'enquête récent — Minesteggio
@@ -25,7 +26,7 @@ Source de provenance : `projects/rise-and-fall/investigation/notes/2026-09-30-to
 
 ## Pivot 1863 ↔ 2026
 
-Un nouveau chapitre met en regard la protestation électorale de Louis-Thomas Mariani en 1863 et le dossier électoral contemporain de 2026. Le parallèle est traité comme une résonance documentaire et heuristique, non comme une répétition causale.
+Un chapitre met en regard la protestation électorale de Louis-Thomas Mariani en 1863 et le dossier électoral contemporain de 2026. Le parallèle est traité comme une résonance documentaire et heuristique, non comme une répétition causale.
 
 Ce pivot relie explicitement les deux Livres vivants :
 - *Rise & Fall* : profondeur historique des bifurcations de capacité ;
@@ -36,18 +37,19 @@ Projet relié : https://suicidecorse.baronsmariani.org/
 
 ## Premiers Reality Cases
 
-- **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, baron d'Empire) et Sampiero Gavini. Mariani publie une protestation détaillée ; Gavini conserve néanmoins son mandat de 1863 à 1869.
-- **RC-02 (1924) :** Donation du terrain du monument aux morts de Corte par Hyacinthe Mariani. Analyse de la patrimonialisation civique, des transactions notariées et de la position d'arbitre local des Mariani dans l'après-guerre.
+- **RC-01 (1863) :** Contestation électorale au Corps législatif entre Louis-Thomas Mariani (candidat officiel, 2e baron) et Sampiero Gavini. Mariani publie une protestation détaillée contre les fraudes électorales ; élection d'abord annulée le 11 décembre 1863.
+- **RC-02 (1924) :** Donation du terrain du monument aux morts de Corte par le baron Pierre Mariani. Analyse de la patrimonialisation civique, des transactions notariées et de la position d'arbitre local des Mariani dans l'après-guerre.
 
-## Lignée principale examinée
+## Lignée canonique examinée (Sources du Corpus Mariani)
 
-- **Hyacinthe Mariani (1743–1824) :** Podestà de Corte, capitaine au Royal-Corse, pivot de la transition génoise/paolienne/française.
-- **Louis-Hugues Mariani (1776–1858) :** 1er baron Mariani (1810), magistrat, président de chambre à la Cour de Paris.
-- **Louis-Thomas Mariani (1815–1890) :** 2e baron Mariani, député de la Corse au Corps législatif sous le Second Empire.
-- **Hyacinthe Joseph Louis Mariani (1853–1932) :** Magistrat, conseiller à la Cour d'appel de Bastia, bienfaiteur de Corte (donation 1924).
-- **Pierre Mariani (1888–1968) :** Avocat, héritier du domaine de Panate et des archives familiales.
-- **Marie-Louise Mariani (1930–2016) :** Dernière résidente du domaine de Panate, dépositaire de la mémoire et des contentieux familiaux.
-- **Jean Hugues Noël Robert (1966–) :** Baron Mariani, réouverture de l'enquête, reconstitution documentaire et réexamen des bifurcations.
+- **Antoine Dominique Mariani (1776–1845) :** 1er baron Mariani (titre westphalien conféré en 1813 par le Roi Jérôme Bonaparte), sous-préfet de Corte (1811), acquéreur et constructeur du domaine de Minesteggio.
+- **Louis-Thomas Joseph Maurice Jérôme Mariani (1815–1890) :** Fils d'Antoine Dominique. 2e baron Mariani, député de la Corse au Corps législatif sous le Second Empire (1857–1863, 1864–1869). Portrait conservé au Musée d'Orsay.
+- **Louis-Hugues Ferdinand Marie Mariani (1815/1818–1886/1890) :** Frère de Louis-Thomas, magistrat. Époux (1853) de Marie Joséphine d'Angelis. Maillon central de la chapelle funéraire de Bastia (AR 186).
+- **Pierre Mariani (baron Pierre Mariani) († 17 février 1938) :** Fils de Louis-Hugues. Époux (1893) de Marguerite de Casabianca (1861–1919). Maître du domaine de Minesteggio, donateur du terrain du monument aux morts de Corte en 1924.
+- **Marie-Louise Mariani, épouse Robert (3 août 1901 – 26 février 1983) :** Fille unique du baron Pierre Mariani et de Marguerite de Casabianca. Épouse (1939) de Jean Robert (1900/1903–1969). Héritière et gardienne de Minesteggio et des archives familiales.
+- **Marguerite Robert (12 décembre 1940 – 9 septembre 1993) :** Fille unique de Marie-Louise Mariani et Jean Robert. Mère de Jean-Hugues.
+- **Jean Hugues Noël Robert, baron Mariani (né le 25 décembre 1965) :** Fils unique de Marguerite Robert. Auteur et conservateur du corpus, fondateur de C.O.R.S.I.C.A., réouverture de l'enquête historique et constitution du Fonds Minesteggio.
+- **Marie-Louise Isabelle Garance Robert († 17 septembre 2024) :** Fille de Jean Hugues Noël Robert. Disparition tragique ayant déclenché l'enquête et la méthode d'investigation de *Suicide Corse*.
 
 ## Formats et licences
 
