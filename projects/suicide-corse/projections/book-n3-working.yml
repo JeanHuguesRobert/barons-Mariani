@@ -1,7 +1,7 @@
 schema: suicide-corse.projection.book.v0
 id: suicide-corse-n3-working
-status: render-candidate
-render_ready: false
+status: content-closed-render-candidate
+render_ready: true
 language: fr
 title: "Suicide Corse"
 subtitle: "ou comment réaliser l'impossible"
@@ -15,6 +15,7 @@ reader_audit: ../audits/2026-09-28-reader-audit-n3.md
 final_content_sweep: ../audits/2026-09-28-final-content-sweep-n3.md
 late_close_audit: ../audits/2026-09-29-special-senatoriales-late-close.md
 editorial_date_audit: ../audits/2026-09-30-special-senatoriales-editorial-date.md
+content_close_audit: ../audits/2026-09-30-special-senatoriales-content-close.md
 
 edition:
   number: 3
@@ -27,11 +28,11 @@ edition:
 
 
 construction:
-  state: active
+  state: content_closed_pending_verification
   final_content_sweep_applied: true
   final_content_sweep_date: "2026-09-28"
-  final_content_sweep_note: "28 Sep sweep remains a historical checkpoint. A 29 Sep late-close audit superseded it, and the 29 Sep Book rewrite around the three Machines / Revealer-Stabilizer / effectivity now requires a fresh Phase A render and reader audit before freeze."
-  human_decision: "Le numéro 2 est totalement bouclé ; le numéro 3 est désormais en construction."
+  final_content_sweep_note: "28 Sep sweep and 29 Sep late-close remain historical checkpoints. The 30 Sep content-close includes the prefecture access reply and accepted 1 Oct appointment as the final fact; a fresh Phase A render from current main is required before freeze."
+  human_decision: "Le contenu éditorial du numéro 3 est clos au 30 septembre 2026 ; le résultat du rendez-vous préfectoral du 1er octobre appartient au numéro 4."
   decided_by: "Jean Hugues Noël Robert"
   decided_at: "2026-09-23T21:47+02:00"
   previous_frozen_edition:
@@ -55,6 +56,15 @@ editorial_date_2026_09_30:
   audit: ../audits/2026-09-30-special-senatoriales-editorial-date.md
   freeze: "not decided"
   rule: "The editorial date is Wednesday 30 September 2026. The edition is not frozen, and no source commit is pinned."
+
+content_close_2026_09_30:
+  status: "human content boundary fixed; technical freeze pending"
+  audit: ../audits/2026-09-30-special-senatoriales-content-close.md
+  last_included_fact: "Prefecture access confirmed; 1 Oct 14:00 consultation accepted; request narrowed to existing digital documents and targeted invalid-ballot check."
+  excluded_future_fact: "Outcome of the 1 Oct prefecture consultation belongs to n4."
+  closing_line: "La suite dans le prochain numéro."
+  phase_a_required: true
+  freeze_snapshot: "UNSET"
 
 special_senatoriales_close_2026_09_29:
   label: "Spécial sénatoriales"
