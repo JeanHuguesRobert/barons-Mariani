@@ -288,9 +288,9 @@ sources:
 
   - id: senatoriales-2026-pv-consultation-2026-09-28
     path: research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md
-    role: sent-document-access-probe
+    role: document-access-probe-with-response
     required: false
-    note: "Request sent for consultation of the general minutes and invalid ballots; sent request is not an obtained response."
+    note: "Request sent 27–28 Sep; Bureau des élections replied 30 Sep confirming access and proposing in-person consultation on 1 Oct at 14:00. Contents of the invalid ballots remain unexamined; requested dematerialized transmission was not explicitly addressed."
 
   - id: senatoriales-2026-corte-subprefecture-channel-probe
     path: research/senatoriales-2026/demande_information_sous_prefecture_corte_2026-09-28.md
