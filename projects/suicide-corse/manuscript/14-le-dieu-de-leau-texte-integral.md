@@ -42,8 +42,8 @@ Ce chapitre applique la même discipline que le reste du Corpus (voir « Quand l
 
 **Statut : `VOICE` + `TRACE` — source primaire.**
 
-- **De :** Marie-Louise Robert <marielouiserobert@yahoo.fr>
-- **À :** Papa <jean_hugues_robert@yahoo.com>
+- **De :** Marie-Louise Robert — adresse conservée dans la source primaire
+- **À :** Papa — adresse conservée dans la source primaire
 - **Date :** mercredi 3 décembre 2008, 18 h 57
 - **Objet :** *jouyeux Noel de lilou*
 
