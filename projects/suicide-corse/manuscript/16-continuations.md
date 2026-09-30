@@ -2,8 +2,8 @@
 title: "Continuations — chantiers ouverts au bouclage du numéro 3"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-17"
-last_modified_at: 2026-09-28
-status: draft
+last_modified_at: 2026-09-30
+status: content-closed-pending-verification
 language: fr
 license: CC BY-SA 4.0
 document_role: derived
@@ -37,6 +37,8 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architecture.md`, « Continuations immédiates » ; `cop-core`, artefact `Continuation` : une exécution différée qui existe tant que sa condition de clôture n'est pas satisfaite), l'ensemble des chantiers que cette édition laisse volontairement ouverts. Une Continuation n'est pas un oubli : c'est un engagement enregistré, avec sa condition de clôture explicite, pour que l'édition suivante puisse être évaluée sur ce qu'elle a effectivement fait avancer.
 
+**Borne du n°3 : 30 septembre 2026.** Les conditions du rendez-vous électoral du 1er octobre appartiennent encore au n°3 ; son déroulement et ses résultats appartiendront au n°4.
+
 ## Sur Marie-Louise
 
 - [ ] **Décryptage de 2009.** Localiser le texte des deux documents « Décryptage de l'histoire de Marie Louise » (31 janvier 2009). Condition de clôture : texte retrouvé et revue de publication séparée effectuée, ou exploration documentée comme épuisée. Suivi : `registre-mariani`, `EXP-ML-2009-DECRYPTAGE-CONTEXT`.
@@ -58,7 +60,7 @@ Ce chapitre reprend, au sens où le Corpus l'entend déjà ailleurs (`architectu
 ## Sur les probes institutionnels du 26–28 septembre
 
 - [ ] **Défenseur des droits — DDD-01.** Une saisine initiale a été envoyée le 26 septembre sous l'angle de l'effectivité des droits et de la continuité administrative. Condition de clôture : référence stable obtenue, périmètre et mode de traitement compris, éventuelles transmissions/requalifications documentées, et résultat conservé sans substitution silencieuse aux autres voies.
-- [ ] **Sénatoriales — consultation du procès-verbal et des bulletins nuls.** La demande de consultation dématérialisée a été envoyée le 28 septembre. Condition de clôture : réponse reçue et pièces effectivement consultées / copiées selon les règles applicables, ou refus / impossibilité précisément documenté ; les motifs observés doivent remplacer toute spéculation sur le contenu des bulletins.
+- [ ] **Sénatoriales — consultation du procès-verbal et des bulletins nuls.** Le Bureau des élections a répondu le 30 septembre : consultation proposée le 1er octobre à 14 h, rendez-vous accepté. La demande est désormais ciblée sur les documents déjà détenus sous forme dématérialisée, les raisons d'une éventuelle impossibilité de transmission, et l'existence éventuelle parmi les 40 bulletins nuls d'une mention « Baron Mariani », « Mariani », « Jean Hugues Robert » ou approchante. Condition de clôture : pièces effectivement examinées / copiées ou impossibilité documentée ; **la suite est transférée au n°4**.
 - [ ] **Sénatoriales — canal de saisine via la Sous-Préfecture de Corte.** Une demande de confirmation des modalités de remise a été envoyée le 28 septembre. Condition de clôture : réponse explicite sur la capacité ou non de ce canal à recevoir la requête pour transmission, avec modalités pratiques si positives ou redirection identifiable si négatives.
 - [ ] **Projet de requête au Conseil constitutionnel.** Une version `v0.2` existe comme `working-draft — for human review`. Condition de clôture : décision explicite de déposer, modifier ou abandonner ; si dépôt, preuve de réception et version effectivement déposée conservées séparément du brouillon. Un brouillon ne doit jamais être décrit rétrospectivement comme acte accompli.
 
