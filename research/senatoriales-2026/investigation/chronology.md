@@ -51,6 +51,9 @@ Elle est volontairement factuelle et évolutive.
 | 11:57:45 env. | arrivée aux abords de la préfecture | established | photographie contemporaine |
 | 12:02:31 env. | nouvel accueil de la préfecture atteint | established | photographie/conversation contemporaine |
 | 12:20 | récépissé provisoire daté de cette heure | established | document primaire ; comparution physique et prise en charge du dépôt établies |
+| pendant la présence en préfecture | un agent masculin, distinct d'Adrien Vidal, indique oralement que deux documents relatifs au mandataire financier n'ont pas été produits | reported | témoignage direct de Jean Hugues Noël Robert ; identité de l'agent et formulation exacte à établir indépendamment |
+| pendant la présence en préfecture | aucune proposition d'imprimer le CERFA du candidat pour signature manuscrite sur place n'est rapportée | reported | témoignage direct ; absence de proposition non encore corroborée par une trace institutionnelle |
+| après ce signalement | récupération et remplissage des deux imprimés relatifs au mandataire financier | reported + supporting traces | accomplissement matériel rapporté ; transmission et réception ultérieures établies par courriel |
 | ~12:23 | récépissé « normal », commission de propagande et projet de bulletin évoqués en conversation | established as conversation trace | commission du 15/09 à 14 h et possibilité d'envoyer le projet de bulletin en amont mentionnées |
 | 12:41:31–12:41:44 | sortie de la préfecture | established | photographie + conversation ; Jean Hugues indique que plusieurs propos des agents sont restés oraux |
 | 12:42–12:48 | marche après la préfecture | established as Google Timeline trace | 350 m en 6 min |
@@ -75,16 +78,6 @@ Elle est volontairement factuelle et évolutive.
 
 Voir [source CFC — train n°2 Ajaccio–Bastia](./sources/cfc_horaire_train_2_2026-09-11.md).
 
-| ~12:10 | présentation personnelle de Jean Hugues Noël Robert à la préfecture | established | heure reprise dans la saisine préfectorale ; reçu provisoire délivré |
-| pendant la présence en préfecture | un agent masculin, distinct d'Adrien Vidal, indique oralement que deux documents relatifs au mandataire financier n'ont pas été produits | reported | témoignage direct de Jean Hugues Noël Robert ; l'identité de l'agent et la formulation exacte restent à établir indépendamment |
-| pendant la présence en préfecture | aucun agent ne propose, selon Jean Hugues Noël Robert, d'imprimer le CERFA de sa propre déclaration afin qu'il y appose sa signature manuscrite sur place | reported | témoignage direct ; le candidat se décrit comme physiquement présent, disponible et coopératif ; cette absence de proposition n'est pas encore corroborée par une trace institutionnelle |
-| après ce signalement | récupération et remplissage des deux imprimés relatifs au mandataire financier | reported + supporting traces | l'accomplissement matériel sur place est rapporté ; la transmission ultérieure des documents et leur réception sont établies par courriel |
-| 14:14:39 | transmission électronique des documents relatifs au mandataire financier | established | envoi au BEDL après la demande de complétion rapportée ; le candidat écrit que, sauf avis contraire, la seule difficulté subsistante lui paraît concerner les « originaux », demande tout autre élément manquant sans délai et se dit disponible jusqu'à 18 h |
-| 16:14:05 | réponse humaine du BEDL : « J'accuse réception des documents. » | established | réponse de Jean-Pierre Cavaillé ; confirme qu'une complétion documentaire demandée le jour même a été reçue avant 18 heures ; aucun nouveau défaut n'est mentionné dans ce message ; audit Gmail du 25/09 : aucun autre message entrant `@haute-corse.gouv.fr` retrouvé le 11/09 |
-| 17:57:55 | envoi au BEDL du courriel « déclaration vidéo complémentaire » | established | contient un lien vers une vidéo enregistrée avec Laurence Vernerey ; l'envoi est établi, l'heure de réception côté destinataire reste à établir |
-| 18:00 | échéance du dépôt des candidatures | established | borne temporelle de la procédure |
-| 18:16 | réception par Télérecours de la saisine préfectorale | established | inventaire initial comprenant les pièces 1 à 16 |
-| 18:16 | absence du courriel/vidéo de 17:57 dans l'inventaire initial Télérecours | established | établit son absence de cet inventaire ; ne permet pas, à elle seule, de déterminer s'il a été transmis ultérieurement |
 
 ## 14 septembre 2026
 
