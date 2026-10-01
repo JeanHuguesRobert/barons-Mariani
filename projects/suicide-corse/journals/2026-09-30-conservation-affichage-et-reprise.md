@@ -2,13 +2,13 @@
 title: "Suicide Corse — conservation de reprise, 30 septembre 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-30"
-status: "conservation-record"
+status: "superseded"
 language: fr
 license: "CC BY-SA 4.0"
 document_role: "source"
 document_kind: "conservation-record"
 visibility: public
-lifecycle_state: active
+lifecycle_state: superseded
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "handler-conservation"
@@ -26,6 +26,8 @@ review:
 ---
 
 # Conservation de reprise — 30 septembre 2026
+
+> Au 1er octobre 2026, la phrase qui dit que le site sert `releases/2026-09-30-f85da3d` est fausse. L'état courant est [`2026-10-01-conservation-reprise.md`](2026-10-01-conservation-reprise.md). Le reste de cette note conserve les décisions du 30 septembre.
 
 Cette note conserve ce qu'un handler froid doit savoir lorsque le fil de travail qui l'a produite n'est plus disponible. Elle n'est pas une source nouvelle sur Marie-Louise, ni un gel, ni un PASS de Phase A.
 

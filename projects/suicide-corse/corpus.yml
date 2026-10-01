@@ -241,7 +241,13 @@ sources:
     path: projects/suicide-corse/journals/2026-09-30-conservation-affichage-et-reprise.md
     role: conservation-record
     required: false
-    note: "Cold-handler record for 30 September 2026: public site release pointer, principal preference that the site show the latest publication commit, and resume of issue #91 Phase A from current main. Not a Phase A result and not a freeze."
+    note: "Cold-handler record for 30 September 2026. Its release pointer f85da3d was superseded on 1 October 2026. Read the 2026-10-01 conservation note for the current public releases."
+
+  - id: suicide-corse-conservation-reprise-2026-10-01
+    path: projects/suicide-corse/journals/2026-10-01-conservation-reprise.md
+    role: conservation-record
+    required: false
+    note: "Cold-handler record for 1 October 2026. Supersedes the release pointer in the 30 September note. Not a Phase A PASS and not a freeze."
 
   - id: senatoriales-2026-third-candidate-uchronia-probes
     path: research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md
