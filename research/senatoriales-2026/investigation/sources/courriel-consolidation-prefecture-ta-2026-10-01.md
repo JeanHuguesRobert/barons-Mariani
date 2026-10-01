@@ -328,7 +328,7 @@ Rond-point
 
 Maréchal Leclerc de Hautecloque - 20401 Bastia
 
-Tél : 04 95 34 50 70
+Tél : [REDACTED — numéro de téléphone]
 
 [www.haute-corse.gouv.fr](http://www.haute-corse.gouv.fr)
 
