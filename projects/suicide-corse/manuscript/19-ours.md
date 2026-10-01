@@ -159,11 +159,9 @@ Au moment de cette preview :
 - il a passé un audit de lecture grand public ;
 - son rendu technique de vérification a déjà été produit une première fois ;
 - il reste **non gelé** ;
-- il reste **non publié** ;
+- il reste **non publié en édition close** : seule une prévisualisation révisable est accessible ;
 - le **contenu éditorial est désormais clos** au 30 septembre ;
-- les corrections détectées par le prochain rendu doivent être intégrées puis vérifiées avant décision de freeze ;
+- toute correction détectée par un rendu doit être intégrée puis vérifiée avant décision de gel ;
 - tout fait nouveau postérieur à la borne, notamment le résultat du rendez-vous du 1er octobre, appartient au n°4 ou à un erratum explicitement décidé.
 
-Invariant :
-
-> **Freeze the edition, never the next projection.**
+Invariant : **Freeze the edition, never the next projection.**
