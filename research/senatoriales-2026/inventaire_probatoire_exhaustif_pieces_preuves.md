@@ -246,20 +246,3 @@ Fait à Corte, le 1er octobre 2026.
 
 **Jean Hugues Noël ROBERT**  
 *(Baron Mariani)*
-
-
-
-Lors de l'envoi de la requête au greffe du Conseil constitutionnel (`greffe@conseil-constitutionnel.fr` / formulaire de télé-saisine contentieuse), le message électronique respectera les prescriptions suivantes :
-
-1. **Corps du courriel** :
-   - Exposé formel des conclusions et visa des articles 59 de la Constitution et L. 303 du code électoral.
-   - Exposé synthétique des 7 griefs majeurs.
-   - Présentation de la justification technique d'autorité de Git (standard Merkle DAG éprouvé sur le noyau Linux).
-   - Intégration du présent **Bordereau récapitulatif des 25 pièces** avec leurs empreintes SHA-256 respectives.
-2. **Fichier joint principal** :
-   - `REQUETE_ET_PIECES_CONSOLIDEES_ROBERT_SENATORIALES_2026.pdf` (Recueil consolidé incluant l'intégralité des pièces écrites de P-01 à P-25).
-3. **Fichiers joints complémentaires** :
-   - Fichiers individuels des pièces écrites décisives (P-09 récépissé, P-18 attestation CAF AAH, P-20 jugement du TA, logs .eml de P-04, P-06, P-10, P-11, P-12).
-4. **Pièces lourdes et dépôts de code (Liens certifiés)** :
-   - Lien pérenne vers le dépôt Git public : `https://github.com/JeanHuguesRobert/barons-Mariani`
-   - Empreinte SHA-256 du fichier vidéo original de la remplaçante (P-13) conservé en coffre-fort numérique et immédiatement communicable sur support USB ou transmission sécurisée ordonnée par le rapporteur désigné (art. 42 ord. n° 58-1067).
