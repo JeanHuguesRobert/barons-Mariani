@@ -96,15 +96,17 @@ M. Jean Hugues Noël Robert justifie d'un intérêt direct et personnel pour agi
 
 ## II. RÉSUMÉ EXÉCUTIF
 
-Le présent contentieux soumet au Conseil constitutionnel une question de principe délicate et fondamentale pour la démocratie républicaine : **L'administration préfectorale et le juge électoral peuvent-ils exclure d'un scrutin parlementaire un candidat dont la démarche et l'engagement sont documentés de longue date, au motif exclusif de l'absence d'un « support papier original physique » signé à l'encre par sa remplaçante handicapée, lorsque la réalité, la liberté et la contemporanéité du consentement sont étayées par des éléments matériels tangibles, dont un enregistrement vidéo authentifié et une chaîne de traçabilité électronique sous Git répondant aux exigences de l'article 1366 du code civil ?**
+La présente requête conteste à la fois le refus d'enregistrement de la candidature et les conséquences de ce refus sur le scrutin du 27 septembre 2026. Elle demande au Conseil constitutionnel d'identifier avec précision quelles formalités étaient juridiquement exigées, quels éléments avaient été produits ou proposés dans le délai utile, quels éléments ont effectivement été portés devant le Tribunal administratif de Bastia, et si l'éviction qui en a résulté peut être tenue pour régulière et sans incidence sur le scrutin.
 
-Le vendredi 11 septembre 2026, M. Jean Hugues Noël Robert s'est présenté personnellement aux guichets de la préfecture de Bastia dès 12h10 pour déposer son dossier, obtenant un récépissé provisoire à 12h20. En réponse aux demandes orales des services, il a régularisé les pièces du mandataire financier en un temps record de 1h54 (reçues à 14h14:39, accusé de réception préfectoral sans nouvelle réserve à 16h14:05). Face à l'objection abrupte exigeant un papier physique original sous 24h — matériellement impossible à acheminer depuis la Corse-du-Sud où résidait sa remplaçante handicapée —, le requérant a transmis à 17h57:55 un courriel avec la déclaration vidéo solennelle de Mme Laurence Vernerey confirmant son acceptation.
+Le 11 septembre 2026, M. Jean Hugues Noël Robert s'est présenté personnellement à la préfecture de la Haute-Corse et a reçu à 12 h 20 un reçu provisoire de déclaration de candidature. Il a ensuite transmis à 14 h 14 min 39 s deux documents relatifs au mandataire financier et a reçu à 16 h 14 min 05 s un accusé humain de réception. À 17 h 57 min 55 s, il a adressé au bureau des élections un courriel complémentaire contenant le lien vers une déclaration vidéo contemporaine de Mme Laurence Vernerey confirmant son identité, sa volonté et son consentement. L'émission de ce courriel avant 18 heures est établie ; l'heure exacte de son acceptation par l'infrastructure de messagerie de l'État et son traitement interne restent à établir.
 
-Saisi à 18h16 par la préfète, le Tribunal administratif de Bastia a statué dans l'urgence le 14 septembre à 18h00, en écartant l'enregistrement vidéo qui lui était proposé et sans faire application de l'obligation d'aménagement raisonnable des formalités manuscrites dégagée au bénéfice des personnes handicapées (*CE, 14 mai 2021, n° 445497*).
+La requête préfectorale originale du 11 septembre, retrouvée dans le dossier communiqué par le TA, permet désormais de reconstituer précisément son inventaire initial de pièces 1 à 16. Cet inventaire comprend notamment le courriel du 10 septembre et ses huit pièces jointes, le courriel préfectoral de 20 h 05, le dossier physique présenté le 11 septembre, la circulaire ministérielle, le reçu provisoire et le courriel de 14 h 14 avec ses deux pièces jointes. Il ne mentionne ni l'accusé préfectoral de 16 h 14 min 05 s, ni le courriel de 17 h 57 min 55 s. Cette absence dans l'inventaire initial est établie ; en revanche, la réception effective du second de ces messages avant 18 heures et l'existence d'une transmission complémentaire au TA restent ouvertes.
 
-Le scrutin du 27 septembre 2026 éclaire sous un jour particulier la question de l'offre électorale : sur 606 votants, **76 bulletins blancs et nuls (12,54 % des suffrages)** ont été enregistrés, un niveau remarquable qui avoisine le score du second candidat (88 voix pour M. Battini). Sans prétendre déduire les intentions individuelles des électeurs ni affirmer de certitude prématurée, cette proportion substantielle de suffrages non-exprimés pose sérieusement la question d'une perte de chance démocratique liée au resserrement binaire de l'offre électorale. C'est à la haute juridiction qu'il revient d'apprécier avec prudence si cette altération a pu peser sur la sincérité globale du scrutin.
+À l'audience du 14 septembre, le requérant a remis au début des débats un document manuscrit recto-verso sur papier libre, daté, signé et portant les deux numéros d'instance. Son existence et son contenu sont conservés photographiquement ; la remise en main propre est rapportée par le requérant, tandis que le jugement confirme l'existence d'« observations écrites et orales ». Le requérant rapporte également avoir proposé le visionnage immédiat de la vidéo et avoir entendu la présidente indiquer, en substance, que l'absence des CERFA originaux sur support papier suffisait à ses yeux sans qu'il soit nécessaire d'examiner davantage les autres pièces. Cette déclaration d'audience n'est pas, à ce stade, corroborée par une trace institutionnelle identifiée et est donc présentée comme témoignage du requérant, non comme fait juridictionnel établi.
 
----
+Après le jugement, plusieurs demandes ont été adressées au greffe pour identifier les pièces, traces et métadonnées du dossier. Le 1er octobre 2026, la greffière en chef a refusé de donner suite aux six questions matérielles résiduelles en les rattachant globalement à des « explications ou commentaires complémentaires », tout en invitant le requérant à saisir le Conseil constitutionnel. La présente requête suit cette orientation substantielle sur le fondement de l'article L.303 du code électoral, et non de l'article L.292 cité dans ce courriel.
+
+Le scrutin du 27 septembre a donné 442 voix à M. Parigi, 88 à M. Battini, avec 36 bulletins blancs et 40 bulletins nuls. Ces nombres ne permettent pas, à eux seuls, d'inférer ce qu'aurait été le vote en présence d'une troisième candidature. Ils constituent néanmoins des données du scrutin réel à rapprocher, avec prudence, de l'exclusion préalable d'une offre électorale distincte. Le requérant sollicite donc une appréciation contentieuse fondée sur les faits établis et, pour les zones demeurées inconnues, les mesures d'instruction que le Conseil jugera utiles.
 
 ## III. CHRONOLOGIE PROBATOIRE EN TROIS PÉRIODES DISTINCTES
 
@@ -131,22 +133,28 @@ Période 3 : Postérieurement au 14 septembre 2026 (Traces réseau, scrutin et p
 
 ### 2. Période 2 : L'instruction préfectorale et le jugement du TA de Bastia (11–14 septembre)
 
-* **Vendredi 11 septembre 2026 à 18h16** : Saisine du Tribunal administratif par la préfète de la Haute-Corse (instances n° 2601714-1 et n° 2601715-1) (**Pièce P-14**). La préfecture omet de joindre à son bordereau son propre accusé de réception de 16h14 (**P-11**) et le courriel de 17h57:55 (**P-12**).
-* **Lundi 14 septembre 2026 à 14h09:17** : Courriel d'alerte adressé par le requérant à la préfète (avec copie au greffe du TA), signalant formellement l'omission des pièces de complétude dans le dossier transmis au juge (**Pièce P-15**).
-* **Lundi 14 septembre 2026 à 15h00** : Audience publique devant le Tribunal administratif de Bastia. Dépôt du mémoire en défense de 15 pages (**Pièce P-16**), remise au greffier d'une note manuscrite d'audience (**Pièce P-17**) et offre réitérée de visionner immédiatement l'enregistrement vidéo contemporain (**P-13**) sur l'ordinateur portable du requérant.
-* **Lundi 14 septembre 2026 à 15h30–15h49** : Réception de l'attestation officielle de la CAF de Corse-du-Sud certifiant que Mme Laurence Vernerey perçoit l'**Allocation aux Adultes Handicapés (AAH)** (**Pièce P-18**, *SHA-256: 308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2*). Transmission immédiate d'une note en délibéré enregistrée à **15h48:32** par le greffe du TA (**Pièce P-19**).
-* **Lundi 14 septembre 2026 à 18h00** : Lecture du jugement du Tribunal administratif de Bastia prononçant le refus d'enregistrement de la candidature (**Pièce P-20**).
+* **11 septembre 2026 à 18 h 16** : saisine du Tribunal administratif par la préfète de la Haute-Corse (instances n° 2601714-1 et n° 2601715-1) (**P-14**).
+* **Inventaire initial désormais établi par P-14** : la requête décrit seize pièces : **PREF-1** courriel du candidat du 10 septembre à 17 h 54 ; **PREF-2 à PREF-9** ses huit pièces jointes ; **PREF-10** courriel préfectoral du 10 septembre à 20 h 05 ; **PREF-11** dossier physique du 11 septembre contenant une pièce unique ; **PREF-12** circulaire ministérielle du 20 juillet 2026 ; **PREF-13** reçu provisoire ; **PREF-14** courriel du candidat du 11 septembre à 14 h 14 ; **PREF-15 et PREF-16** les deux pièces relatives au mandataire financier jointes à ce courriel.
+* **Absences établies de cet inventaire initial** : l'accusé humain du BEDL de 16 h 14 min 05 s (**P-11**) et le courriel de 17 h 57 min 55 s contenant le lien vidéo (**P-12**) n'apparaissent pas parmi les seize pièces énumérées. Cette constatation ne permet pas, à elle seule, d'établir que P-12 avait déjà été reçu par la préfecture avant 18 heures ni qu'aucune production ultérieure n'a été faite.
+* **11 septembre 2026 à 18 h 45 min 53 s** : le TA adresse au requérant, via France Transfert, un pli annonçant deux requêtes relatives aux élections sénatoriales et contenant les deux requêtes ainsi que les deux PDF préfectoraux correspondants. Cette transmission établit que les requêtes préfectorales et leurs bundles ont été communiqués au requérant le soir même (**P-14**).
+* **14 septembre 2026 à 14 h 09 min 17 s** : courriel d'alerte adressé par le requérant à la préfète avec copie au greffe du TA, signalant que certaines transmissions de l'après-midi du 11 septembre ne paraissaient pas figurer dans le dossier communiqué (**P-15**).
+* **14 septembre 2026 à 15 h 00** : audience publique. Le requérant dépose son mémoire en défense (**P-16**) et remet, dès l'ouverture des débats selon son témoignage, un document manuscrit recto-verso sur papier libre (**P-17**). Deux photographies permettent d'en établir aujourd'hui l'existence et le contenu ; le jugement confirme par ailleurs que M. Robert a présenté des « observations écrites et orales ». Le rattachement exact de P-17 à l'entrée Sagace « Réception d'une lettre » reste à établir.
+* **Audience — élément rapporté** : le requérant rapporte avoir proposé le visionnage immédiat de la vidéo P-13 et avoir entendu la présidente indiquer, en substance, que l'absence des CERFA originaux papier suffisait à écarter la candidature sans examen supplémentaire des autres pièces. Aucune trace écrite institutionnelle identifiée ne corrobore encore cette déclaration ; une éventuelle trace d'audience est sollicitée à titre d'instruction.
+* **14 septembre 2026 à 15 h 48 min 32 s / 15 h 49** : envoi au greffe d'une note en délibéré avec l'attestation CAF relative à Mme Vernerey (**P-18 / P-19**) ; le jugement mentionne son enregistrement à 15 h 49 et le greffe confirmera le 16 septembre que la formation en avait pris connaissance avant de décider.
+* **14 septembre 2026** : jugement du Tribunal administratif de Bastia refusant l'enregistrement de la candidature (**P-20**). L'heure exacte de sa mise à disposition au greffe reste à établir.
 
 ### 3. Période 3 : Les vérifications probatoires, le scrutin du 27 septembre et le contentieux constitutionnel
 
-* **15 au 25 septembre 2026** : Envoi de six demandes administratives formelles (sous le CRPA et le RGPD) pour obtenir la communication des journaux d'acheminement réseau (logs SMTP) et préserver les traces techniques (**Pièce P-21**).
-* **25 septembre 2026 à 16h59:13** : Demande formelle adressée à la préfecture de préserver les journaux informatiques encore existants (**Pièce P-22**).
-* **Dimanche 27 septembre 2026** : Déroulement du scrutin sénatorial. Proclamation des résultats officiels : 606 votants, 442 voix Parigi, 88 voix Battini, **76 bulletins blancs et nuls (12,54 %)**.
-* **Lundi 28 septembre 2026** : Notification à la préfecture de la demande de communication dématérialisée du procès-verbal et des 40 bulletins nuls au titre de l'article 32 de l'ordonnance n° 58-1067 (**Pièce P-26**).
-* **Mercredi 30 septembre 2026 à 08h16:30** : Réponse du chef du Bureau des élections confirmant que les pièces peuvent être consultées et proposant un accès en préfecture le **jeudi 1er octobre à 14h00**. La réponse cite notamment les procès-verbaux de chaque bureau, le procès-verbal du bureau centralisateur, les listes d'émargement, les bulletins nuls, les annexes et les feuilles de dépouillement. La demande de transmission dématérialisée n'est pas traitée explicitement.
-
----
-
+* **16 septembre 2026 à 08 h 38 min 28 s** : première demande explicite au greffe portant notamment sur la liste chronologique des pièces enregistrées dans chacun des deux dossiers (**P-29**).
+* **16 septembre 2026** : le greffe répond que les écritures de la préfecture ont été communiquées « dans leur totalité », confirme que la note en délibéré a été prise en compte avant la décision et renvoie notamment vers Sagace (**P-30**).
+* **21 septembre 2026** : le greffe invite le requérant à retirer le jugement envoyé par voie postale, indique que le jugement répond à ses interrogations et précise rester à sa disposition si des questions subsistent après lecture (**P-31**).
+* **25 septembre 2026 à 16 h 50 min 46 s** : après retrait et lecture du jugement, le requérant réduit ses demandes à six questions matérielles résiduelles (**P-32**).
+* **25 septembre 2026 à 16 h 59 min 13 s** : demande distincte à la préfecture portant sur les traces du courriel de 17 h 57 min 55 s, les demandes d'originaux et les transmissions au TA, avec demande de conservation des journaux techniques encore existants (**P-22**).
+* **27 septembre 2026** : scrutin sénatorial et proclamation des résultats officiels : 606 votants ; 36 blancs ; 40 nuls ; 530 exprimés ; 442 voix Parigi ; 88 voix Battini (**P-27**).
+* **28 septembre 2026** : demande à la préfecture de consultation et de transmission des procès-verbaux et pièces électorales disponibles dans le délai organique (**P-26**).
+* **30 septembre 2026 à 08 h 16 min 30 s** : le chef du Bureau des élections confirme la possibilité de consulter les pièces et propose un rendez-vous le 1er octobre à 14 h ; la demande de transmission dématérialisée n'est pas explicitement tranchée (**P-28**).
+* **1er octobre 2026 à 15 h 13 min 26 s** : la greffière en chef du TA refuse de donner suite aux six questions résiduelles, les rattachant globalement à des éléments de procédure et au jugement et indiquant que le greffe n'a pas vocation à apporter des « explications ou commentaires complémentaires ». Elle invite simultanément le requérant à saisir le Conseil constitutionnel et cite l'article L.292 du code électoral (**P-33**).
+* **1er octobre 2026** : le requérant consolide parallèlement auprès de la préfecture cinq questions relatives à la réception et à la transmission du courriel/vidéo du 11 septembre et rappelle l'échéance contentieuse du 7 octobre à 18 h (**P-34**).
 
 ### 4. Séquence post-jugement : accès aux éléments matériels et effectivité du recours
 
@@ -170,7 +178,7 @@ Le requérant distingue deux éléments :
 1. **l'orientation substantielle** — saisir le Conseil constitutionnel — est cohérente avec l'article L.303 et est suivie par la présente requête ;
 2. **la référence textuelle L.292** paraît, sous réserve de correction, viser un autre contentieux, relatif au tableau des électeurs sénatoriaux et à l'élection des délégués et suppléants communaux.
 
-Le présent grief ne soutient pas qu'un silence, une réponse générique ou un refus de communication prouve à lui seul l'irrégularité initiale. Il soutient plus étroitement que certains faits matériels susceptibles d'éclairer la contestation restent **UNKNOWN / non communiqués** dans une fenêtre contentieuse très brève, malgré des demandes répétées.
+Le présent grief ne soutient pas qu'un silence, une réponse générique ou un refus de communication prouve à lui seul l'irrégularité initiale. Il soutient plus étroitement que, si l'**inventaire initial des seize pièces préfectorales est désormais établi grâce à P-14**, plusieurs faits matériels susceptibles d'éclairer la contestation restent **UNKNOWN / non communiqués** : éventuelles productions ultérieures, identification de « Réception d'une lettre », heure de mise à disposition, trace d'audience, identité du greffier d'audience et modalités d'accès à la minute.
 
 Cette situation justifie que le Conseil use, s'il l'estime utile, de ses pouvoirs d'instruction prévus par l'article 42 de l'ordonnance n° 58-1067 pour se faire communiquer les documents et rapports ayant trait à l'élection.
 
@@ -213,9 +221,9 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ---
 
-### GRIEF N° 1 : Erreur de droit sur l'exigence non textuelle d'un « support papier original » et méconnaissance de l'article 1366 du code civil
+### GRIEF N° 1 : Fondement et portée de l'exigence d'un original matériel au regard des textes électoraux applicables
 
-* **FAIT** : Le Bureau des élections de la préfecture de la Haute-Corse a rejeté la déclaration de candidature au motif que l'acceptation de la remplaçante n'était pas fournie sur un « original papier », tout en refusant d'imprimer les documents haute résolution reçus par voie électronique.
+* **FAIT** : Le courriel préfectoral du 10 septembre et la requête préfectorale P-14 soutiennent qu'un envoi dématérialisé ne satisfait pas aux exigences applicables et invoquent l'absence de CERFA originaux physiquement produits. Le requérant rapporte qu'aucune impression suivie d'une signature sur place de son propre CERFA ne lui a été proposée ; ce dernier point reste un fait rapporté, non une trace institutionnelle établie.
 * **PREUVE** : Courriel du BEDL du 10 septembre à 20h05 (**P-06**) ; jugement du TA de Bastia du 14 septembre (**P-20**).
 * **RÈGLE** : Articles L. 299, L. 300 et R. 149 du code électoral ; article 1366 du code civil, qui reconnaît à l'écrit électronique la même force probante que l'écrit sur support papier sous les conditions qu'il énonce.
 * **ÉCART** : Le requérant soutient que l'exigence matérielle appliquée doit être rattachée avec précision aux textes électoraux pertinents et confrontée aux règles de preuve invoquées, sans confondre automatiquement originalité du document et support.
@@ -227,15 +235,14 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ### GRIEF N° 2 : Accessibilité effective de la formalité et prise en compte de la situation de la remplaçante
 
-* **FAIT** : Mme Laurence Vernerey est en situation de handicap reconnu, bénéficiaire de l'AAH, résidant en Corse-du-Sud. Placée dans l'impossibilité physique d'accomplir un déplacement impromptu vers Bastia ou de surmonter la barrière matérielle sous stress dans un délai de 24h, son consentement a été attesté par déclaration numérique et vidéo.
-* **PREUVE** : Attestation officielle CAF de Corse-du-Sud du 14 septembre 2026 (**P-18**) ; note en délibéré enregistrée à 15h48:32 (**P-19**).
-* **RÈGLE** : Article 6 de la Déclaration de 1789 (égal accès aux fonctions publiques) ; article 26 du Pacte international relatif aux droits civils et politiques ; jurisprudence *Conseil d'État, 14 mai 2021, n° 445497*.
-* **ÉCART** : L'administration préfectorale et le Tribunal administratif ont appliqué un formalisme mécanique aveugle sans rechercher si un aménagement des formalités permettait de garantir l'effectivité du droit d'éligibilité de la personne handicapée.
-* **INCIDENCE** : Privation du droit fondamental de concourir au suffrage pour une candidate remplaçante en raison de son handicap.
-* **INCERTITUDE RÉSIDUELLE** : Détermination des motifs pour lesquels le TA a visé la note en délibéré sans appliquer la jurisprudence CE 2021.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : Enjoindre la production des pièces de l'instance n° 2601714 devant le TA et constater la méconnaissance du principe d'accessibilité électorale.
-
----
+* **FAIT ÉTABLI** : Mme Laurence Vernerey bénéficiait de l'AAH au moment des faits ; une attestation CAF a été transmise au greffe dans la note en délibéré du 14 septembre, dont la prise de connaissance avant décision a été confirmée.
+* **FAITS RAPPORTÉS / CONTEXTE** : le requérant décrit des difficultés fonctionnelles et géographiques ayant compliqué la production matérielle d'un original à Bastia dans le temps restant. Le seul bénéfice de l'AAH ne permet pas, à lui seul, de déduire la nature précise d'un handicap ni l'impossibilité d'accomplir une formalité déterminée.
+* **PREUVE** : Attestation CAF (**P-18**) ; note en délibéré (**P-19**) ; courriel du greffe du 16 septembre (**P-30**) ; éléments contemporains relatifs à l'identité et au consentement.
+* **RÈGLE / QUESTION JURIDIQUE** : le requérant invoque les garanties d'égal accès et d'effectivité ainsi que les normes pertinentes relatives au handicap ; il appartient au Conseil d'apprécier leur applicabilité exacte aux formalités litigieuses et aux circonstances documentées de l'espèce.
+* **ÉCART ALLÉGUÉ** : le requérant soutient que la situation fonctionnelle portée à la connaissance du juge aurait dû être mise en relation avec la finalité de la formalité et avec les éléments alternatifs contemporains proposés pour établir identité et consentement.
+* **INCIDENCE** : si cette argumentation est retenue, l'application du formalisme sans prise en compte suffisante de la situation concrète a contribué à l'éviction définitive de la candidature.
+* **INCERTITUDE RÉSIDUELLE** : portée juridique exacte des garanties invoquées ; faits fonctionnels pertinents au-delà du seul statut AAH ; traitement précis de cet argument par la formation.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : verser au dossier la note en délibéré, l'attestation CAF et les pièces de l'instance permettant d'établir ce qui a été soumis à la formation, sans déduire du seul statut administratif davantage qu'il ne prouve.
 
 ### GRIEF N° 3 : Étendue de l'examen effectif des pièces et office du juge électoral
 
@@ -252,27 +259,27 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ---
 
-### GRIEF N° 4 : Manquement à la loyauté de l'instruction préfectorale et asymétrie d'information procédurale
+### GRIEF N° 4 : Complétude de la transmission préfectorale et asymétrie d'information procédurale
 
-* **FAIT** : En déférant la candidature au Tribunal administratif à 18h16 le 11 septembre, la préfecture n'a pas joint à son bordereau son propre accusé de réception de 16h14 (**P-11**) ni le courriel de complétude de 17h57:55 (**P-12**), laissant croire au juge que le candidat était resté passif l'après-midi.
-* **PREUVE** : Requête préfectorale n° 2601714 (**P-14**) ; courriel d'alerte du candidat du 14 septembre à 14h09 (**P-15**).
-* **RÈGLE** : Principes généraux de loyauté procédurale, respect des droits de la défense et complétude des dossiers administratifs transmis au juge.
-* **ÉCART** : Le dossier initial consulté ne contient pas certaines pièces contemporaines favorables au requérant ; leur transmission éventuelle ultérieure reste partiellement inconnue et doit être établie avant toute qualification d'une omission.
-* **INCIDENCE** : Il demeure à établir si la formation de jugement disposait de l'ensemble des éléments contemporains permettant d'apprécier la diligence du candidat.
-* **INCERTITUDE RÉSIDUELLE** : Heure exacte d'atterrissage sur le serveur de messagerie de la préfecture du courriel de 17h57:55.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : Ordonner à la préfecture de la Haute-Corse la production des journaux de messagerie (logs SMTP complets) du 11 septembre 2026 entre 17h45 et 18h30.
-
----
+* **FAIT ÉTABLI** : la requête préfectorale P-14 énumère désormais précisément les seize pièces de son bundle initial. Cet inventaire ne comprend ni le courriel préfectoral de 16 h 14 min 05 s accusant réception des documents (**P-11**), ni le courriel du candidat de 17 h 57 min 55 s contenant le lien vers la vidéo (**P-12**).
+* **FAIT NON ÉTABLI** : l'heure exacte à laquelle P-12 a été accepté par l'infrastructure de messagerie de la préfecture et son traitement avant ou après la saisine de 18 h 16 restent inconnus. Il n'est donc pas soutenu comme fait acquis que la préfecture aurait matériellement détenu P-12 avant de saisir le TA.
+* **FAIT OUVERT** : l'existence d'une production préfectorale complémentaire entre la saisine initiale et le jugement demeure à établir.
+* **PREUVE** : requête préfectorale et bundle initial (**P-14**) ; courriel de 16 h 14 (**P-11**) ; courriel de 17 h 57 min 55 s (**P-12**) ; alerte du 14 septembre (**P-15**) ; échanges ultérieurs avec le greffe (**P-29 à P-33**).
+* **RÈGLE** : principe du contradictoire et régime de communication des productions ; l'article R.611-1 CJA prévoit notamment la communication aux parties de la requête, du premier mémoire de chaque défendeur et de leurs pièces jointes, ainsi que des autres productions lorsqu'elles contiennent des éléments nouveaux.
+* **ÉCART ALLÉGUÉ** : le requérant soutient qu'il est nécessaire d'établir complètement la chaîne « reçu par la préfecture → versé au TA → communiqué aux parties → disponible pour la formation » avant de qualifier juridiquement l'éventuelle lacune.
+* **INCIDENCE** : la réponse conditionne l'appréciation de ce dont le juge disposait effectivement pour examiner la diligence du candidat et les éléments contemporains relatifs au consentement.
+* **INCERTITUDE RÉSIDUELLE** : heure d'acceptation de P-12 par l'infrastructure de l'État ; éventuelles transmissions ultérieures ; date et heure de leur enregistrement et communication.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : demander à la préfecture les traces techniques utiles et l'historique de transmission au TA ; demander au TA le dossier complet des productions initiales et complémentaires avec leurs métadonnées d'enregistrement.
 
 ### GRIEF N° 4 bis : Difficulté d'exercice effectif du recours prévu par l'article L.303 et persistance d'éléments matériels non communiqués
 
-* **FAIT** : Depuis le 16 septembre 2026 à 08 h 38 min 28 s CEST, le requérant demande notamment l'identification des pièces portées aux dossiers n° 2601714 et 2601715. Après consultation de Sagace, examen de Télérecours Citoyens, retrait et lecture du jugement, puis réduction des demandes aux seuls points demeurés ouverts, six éléments matériels restaient non communiqués au 1er octobre.
+* **FAIT** : Depuis le 16 septembre 2026 à 08 h 38 min 28 s CEST, le requérant demande notamment l'identification des pièces portées aux dossiers n° 2601714 et 2601715. L'inventaire initial des seize pièces est désormais établi grâce à P-14. Restent toutefois ouverts l'existence de productions ultérieures, l'identification de « Réception d'une lettre », l'heure de mise à disposition, l'existence d'une trace d'audience, l'identité du greffier d'audience et les modalités d'accès à la minute.
 * **PREUVE** : Chaîne de courriels du greffe du TA des 16, 18 et 21 septembre ; demande résiduelle du 25 septembre ; réponse de la greffière en chef du 1er octobre à 15 h 13 min 26 s CEST ; registre public des interactions.
 * **RÈGLE** : Article L.303 du code électoral ; articles 33, 35 et 42 de l'ordonnance n° 58-1067 ; article 3 du Protocole n° 1 CEDH invoqué comme cadre d'effectivité du droit de se porter candidat.
 * **ÉCART** : Le requérant ne soutient pas qu'il existerait un délai légal autonome imposant au greffe de répondre sous quelques heures. Il soutient que la combinaison d'une voie de recours différée, d'un délai de dix jours post-proclamation et de l'indisponibilité persistante de faits matériels détenus ou vérifiables par les institutions concernées peut réduire la capacité pratique à présenter la contestation de manière complètement informée.
 * **INCIDENCE** : Plusieurs moyens doivent être formulés avant le 7 octobre à 18 h alors que des faits utiles à leur qualification restent non établis.
 * **INCERTITUDE RÉSIDUELLE** : Existence, contenu et communicabilité exacts de certains documents ; justification propre à chacun des refus ou non-réponses ; effet réel de ces éléments sur le jugement initial.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : Se faire communiquer, sur le fondement de l'article 42 de l'ordonnance, le dossier matériel des instances, la minute signée, l'inventaire des pièces initiales et complémentaires, les éléments permettant d'identifier l'entrée Sagace « Réception d'une lettre » et, s'ils existent, les documents retraçant matériellement l'audience.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : Se faire communiquer, sur le fondement de l'article 42 de l'ordonnance, le dossier complet des instances, les éventuelles productions postérieures au bundle initial P-14, la minute signée du jugement, les éléments permettant d'identifier l'entrée Sagace « Réception d'une lettre » et, s'ils existent, les documents retraçant matériellement l'audience.
 
 ---
 
@@ -353,10 +360,10 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
 1. **DÉCLARER RECEVABLE** la présente requête en contestation d'élection ;
 2. **ORDONNER AVANT-DIRE DROIT**, sur le fondement de l'article 42 de l'ordonnance n° 58-1067 du 7 novembre 1958 :
    - La production par la préfecture de la Haute-Corse des journaux d'acheminement réseau complets (logs SMTP) certifiant la remise sur ses serveurs du message électronique du 11 septembre 2026 à 17h57:55 ;
-   - La communication immédiate du procès-verbal général de recensement des votes du scrutin du 27 septembre 2026 et des quarante (40) bulletins de vote déclarés nuls ainsi que des trente-six (36) bulletins blancs annexés ;
+   - La communication du procès-verbal général de recensement et de ses annexes disponibles, notamment les quarante (40) bulletins déclarés nuls lorsqu'ils y sont annexés, ainsi que les documents permettant d'établir le décompte des trente-six (36) bulletins blancs ;
    - Le versement aux débats et le visionnage de l'enregistrement vidéo contemporain du 11 septembre 2026 (Pièce P-13) conservé au registre d'intégrité de la défense ;
-   - La production par le Tribunal administratif de Bastia de la minute de l'audience publique du 14 septembre 2026 ;
-   - La production de l'inventaire des pièces initialement et ultérieurement versées aux dossiers n° 2601714 et 2601715, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
+   - La production par le Tribunal administratif de Bastia de la **minute signée du jugement** du 14 septembre 2026 et, s'ils existent, des procès-verbaux, plumitifs, fiches, notes d'audience ou documents équivalents retraçant matériellement l'audience ;
+   - La production de l'historique des pièces postérieures au bundle initial PREF-1 à PREF-16 désormais identifié, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
    - La communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
 3. **DÉCLARER ILLÉGALE ET NULLE** la décision de refus d'enregistrement opposée à la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey ;
 4. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) PARIGI en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
@@ -366,49 +373,65 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
 
 ## VIII. BORDEREAU MATRICIEL DES PIÈCES PROBATOIRES VERSÉES AU DÉBAT
 
-Les 25 pièces probatoires scellées au registre d'intégrité décentralisé de Git sont versées au soutien de la présente requête :
+Le présent bordereau est synchronisé avec l'inventaire probatoire détaillé. Une référence de pièce indique ce qui doit être produit ou rendu accessible au Conseil ; elle ne signifie pas que le support public contienne nécessairement les données personnelles ou pièces privées non destinées à la publication.
 
-| N° | Date / Heure | Intitulé exact de la pièce | Portée probatoire spécifique | Support & Format | Réf. Git / SHA-256 |
-|:---|:---|:---|:---|:---|:---|
-| **P-01** | 01/10/2025 | Annonce publique de candidature sur X | Antériorité publique et préméditation civique constante | Capture numérique | `trace/2025-10-01_x_post` |
-| **P-02** | 20/05/2026 | Publication « Autonomia - 1974, 1991, 2026 » | Lien indissociable entre candidature et mandat d'effectivité | Document Markdown | `research/autonomia.md` |
-| **P-03** | 24/05/2026 | Courriel à Mario Grazi (*Corse Net Infos*) | Information de la presse régionale 4 mois avant scrutin | Fichier .eml horodaté | `trace/email_cni_grazi` |
-| **P-04** | 10/09 17:54 | Courriel d'envoi du dossier à la préfecture | Transmission proactive complète 24h avant la clôture | Fichier .eml avec PJ | `trace/2026-09-10_envoi_pref` |
-| **P-05** | 10/09 17:56 | Accusé de réception automatique préfecture | Preuve matérielle de délivrance sur les serveurs d'État | Fichier .eml horodaté | `trace/2026-09-10_ar_pref` |
-| **P-06** | 10/09 20:05 | Courriel du BEDL exigeant les originaux papier | Première trace écrite de l'exigence non textuelle | Fichier .eml horodaté | `trace/2026-09-10_reponse_bedl` |
-| **P-07** | 11/09 08:14 | Réponse du candidat annonçant son train | Démontre la pleine coopération dès l'ouverture des guichets | Fichier .eml horodaté | `trace/2026-09-11_reponse_robert` |
-| **P-08** | 11/09 matin | Photographies EXIF du retard ferroviaire | Établit l'aléa de transport expliquant l'arrivée à midi | Fichiers JPEG certifiés | `trace/photos_train_exif.zip` |
-| **P-09** | 11/09 12:20 | **Récépissé provisoire de dépôt préfecture** | Preuve de la comparution physique et prise en charge légale | Scan officiel certifié | `research/senatoriales-2026/data/recepisse` |
-| **P-10** | 11/09 14:14 | Courriel formulaires mandataire financier | Complétion en 1h54 et offre de rester disponible | Fichier .eml avec PJ | `trace/2026-09-11_envoi_mandataire` |
-| **P-11** | 11/09 16:14 | Courriel BEDL : « J'accuse réception des docs » | Complétude reçue sans nouveau défaut signalé avant 18h | Fichier .eml horodaté | `trace/2026-09-11_ar_bedl` |
-| **P-12** | 11/09 17:57 | Courriel d'envoi du lien vidéo de consentement | Transmission avant 18h00 de la preuve contemporaine | Fichier .eml / Log SMTP | `trace/2026-09-11_envoi_video` |
-| **P-13** | 11/09 17h30 | **Fichier vidéo de la remplaçante L. Vernerey** | Preuve directe et contemporaine de la volonté libre et de l'identité | Fichier MP4 certifié | `SHA-256: [Master Vidéo]` |
-| **P-14** | 11/09 18:16 | Requête introductive de la préfète au TA | Établit l'omission préfectorale des pièces P-11 et P-12 | Télérecours n° 2601714 | `trace/ta_bastia_saisine_pref` |
-| **P-15** | 14/09 14:09 | Courriel d'alerte complétude à la préfète | Alerte formelle sur la carence de transmission au juge | Fichier .eml horodaté | `trace/2026-09-14_alerte_completude` |
-| **P-16** | 14/09 15:00 | Mémoire « Observations communes en défense » | Moyens de droit exhaustifs (CE 2021, handicap, textualité) | Document juridique | `research/senatoriales-2026/dossier-ta` |
-| **P-17** | 14/09 15:00 | Note manuscrite d'audience remise au greffier | Offre réitérée de visionner immédiatement la vidéo | Document manuscrit | `trace/ta_bastia_note_audience` |
-| **P-18** | 14/09 15:30 | **Attestation officielle CAF de Haute-Corse (AAH)** | Établit le handicap légalement reconnu de la remplaçante | Document CAF certifié | `308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2` |
-| **P-19** | 14/09 15:48 | Note en délibéré avec attestation CAF AAH | Communication de la preuve du handicap avant délibéré | Fichier .eml avec PJ | `trace/2026-09-14_note_delibere` |
-| **P-20** | 14/09 18:00 | **Jugement du Tribunal administratif de Bastia** | Décision attaquée ayant refusé l'enregistrement | Jugement administratif | `research/senatoriales-2026/jugement_ta` |
-| **P-21** | 15–25/09 | 6 demandes administratives (CRPA/RGPD) | Diligences continues pour obtenir les journaux de connexion | Fichiers .eml certifiés | `trace/relances_crpa_rgpd` |
-| **P-22** | 25/09 16:59 | Mise en demeure de conservation des logs SMTP | Met l'État en demeure formelle de préserver les traces | Fichier .eml horodaté | `trace/2026-09-25_mise_en_demeure` |
-| **P-23** | 26/09/2026 | Amendement à l'article 72-5 (**v0.4-rc4**, état public pré-scrutin) | Établit la substance du mandat parlementaire documenté avant le scrutin | Document public de doctrine / proposition | `research/autonomia/amendement_effectivite_article_72-5.md` (historique de version) |
-| **P-24** | 27/09/2026 | Dossier méthodologique des 6 cas d'Effectivité | Démonstration scientifique du Principe d'Effectivité | Rapport d'étude | `case_studies/capable_test_72_5` |
-| **P-25** | 28/09/2026 | Annuaire public et étude d'exposition (616 électeurs) | Cartographie du collège électoral et hypothèses d'exposition | Base CSV + Analyse | `research/senatoriales-2026/data/annuaire` |
-| **P-26** | 28/09/2026 | Demande de communication des PV et bulletins nuls | Mise en œuvre de l'article 32 ord. n° 58-1067 (RP-SEN-08) | Acte administratif formel | `research/senatoriales-2026/demande_pv` |
-| **P-27** | 27/09/2026 | Résultats officiels proclamés du scrutin | Constat officiel des 76 votes blancs/nuls et des résultats proclamés | Données certifiées | `research/senatoriales-2026/data/resultats` |
+| N° | Date / Heure | Intitulé | Portée principale |
+|:---|:---|:---|:---|
+| **P-01** | 01/10/2025 | Annonce publique de candidature | Antériorité publique de la démarche |
+| **P-02** | 20/05/2026 | Publication « Autonomia - 1974, 1991, 2026 » | Contexte doctrinal antérieur |
+| **P-03** | 24/05/2026 | Courriel à Corse Net Infos | Information précoce de la presse |
+| **P-04** | 10/09 17:54:50 | Courriel d'envoi du dossier | Dossier dématérialisé et huit PJ |
+| **P-05** | 10/09 17:56:53 | Accusé automatique préfecture | Réception de l'envoi du 10 septembre |
+| **P-06** | 10/09 20:05:04 | Réponse BEDL sur les originaux | Position préfectorale préalable au dépôt |
+| **P-07** | 11/09 08:14:11 | Réponse du candidat | Déplacement annoncé et coopération |
+| **P-08** | 11/09 matin | Traces de trajet / photographies | Contexte matériel du déplacement |
+| **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration |
+| **P-10** | 11/09 14:14:39 | Courriel mandataire financier + 2 PJ | Complétion et disponibilité jusqu'à 18 h |
+| **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain sans nouvelle réserve écrite |
+| **P-12** | 11/09 17:57:55 | Courriel avec lien vidéo | Émission avant 18 h ; réception serveur à établir |
+| **P-13** | 11/09 | Vidéo commune de déclaration | Identité, volonté et consentement contemporains |
+| **P-14** | 11/09 | Requêtes préfectorales 2601714/2601715 + bundles | Saisine, motivation et inventaire initial PREF-1 à PREF-16 |
+| **P-15** | 14/09 14:09:17 | Courriel d'alerte avant audience | Signalement des transmissions manquantes alléguées |
+| **P-16** | 14/09 | Mémoire en défense | Argumentation soumise au TA |
+| **P-17** | 14/09 audience | Note manuscrite recto-verso | Observations écrites ; remise rapportée ; contenu photographié |
+| **P-18** | 14/09 | Attestation CAF | Statut administratif AAH |
+| **P-19** | 14/09 15:48:32 | Note en délibéré | Transmission et enregistrement à 15 h 49 |
+| **P-20** | 14/09 | Jugement TA Bastia | Décision dont L.303 diffère la contestation |
+| **P-21** | 15–25/09 | Ensemble de demandes documentaires | Diligences post-jugement |
+| **P-22** | 25/09 16:59:13 | Demande préfecture / conservation des traces | Logs, transmissions, demandes d'originaux |
+| **P-23** | 26/09 | Amendement d'effectivité art. 72-5 | Contexte doctrinal distinct du grief électoral |
+| **P-24** | 27/09 | Capable Test / cas d'effectivité | Contexte méthodologique |
+| **P-25** | 28/09 | Annuaire / étude d'exposition | Structure du collège, sans inférence d'intention |
+| **P-26** | 28/09 | Demande PV et pièces électorales | Consultation post-scrutin |
+| **P-27** | 27/09 | Résultats officiels | 606 votants, 36 blancs, 40 nuls, 530 exprimés, 442/88 |
+| **P-28** | 30/09 08:16:30 | Réponse BEDL proposant consultation | Accès sur place confirmé |
+| **P-29** | 16/09 08:38:28 | Première demande TA de liste des pièces | Point de départ explicite de la demande d'inventaire |
+| **P-30** | 16/09 | Réponse du greffe TA | Écritures préfectorales dites communiquées en totalité ; note prise en compte |
+| **P-31** | 21/09 | Réponse du greffe TA | Renvoi au jugement et disponibilité annoncée |
+| **P-32** | 25/09 16:50:46 | Six questions matérielles résiduelles | Questions limitées après lecture du jugement |
+| **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation à saisir le CC ; référence L.292 |
+| **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 |
 
----
+### Sous-inventaire de P-14 — bundle initial de la saisine préfectorale
 
-Fait à Corte, le 28 septembre 2026.
+1. **PREF-1** — courriel du candidat du 10 septembre 2026 à 17 h 54 ;
+2. **PREF-2** — CERFA n° 15217*04 du candidat ;
+3. **PREF-3** — justificatif d'identité du candidat ;
+4. **PREF-4** — attestation de situation électorale du candidat ;
+5. **PREF-5** — CERFA n° 15218*04 de la remplaçante ;
+6. **PREF-6** — justificatif d'identité de la remplaçante ;
+7. **PREF-7** — attestation de situation électorale de la remplaçante ;
+8. **PREF-8** — déclaration de désignation de Mme Marguerite Ghionga comme mandataire financier ;
+9. **PREF-9** — acceptation manuscrite du mandataire financier accompagnée de son justificatif d'identité ;
+10. **PREF-10** — courriel préfectoral du 10 septembre 2026 à 20 h 05 ;
+11. **PREF-11** — dossier physique présenté le 11 septembre, décrit par la requête comme contenant une pièce unique ; son rapprochement avec l'acceptation du mandataire est suggéré par la requête mais reste à isoler dans la pièce primaire ;
+12. **PREF-12** — circulaire ministérielle du 20 juillet 2026 ;
+13. **PREF-13** — reçu provisoire délivré au candidat ;
+14. **PREF-14** — courriel du candidat du 11 septembre 2026 à 14 h 14 ;
+15. **PREF-15** — déclaration de désignation du mandataire financier jointe à PREF-14 ;
+16. **PREF-16** — accord / acceptation du mandataire financier joint à PREF-14.
 
-**Jean Hugues Noël ROBERT**  
-*(Baron Mariani)*  
-1 cours Paoli, F-20250 Corte  
-Courriel : `institutmariani@gmail.com`
-
-
----
+**Constat borné :** P-11 et P-12 ne figurent pas dans cette énumération initiale. L'éventuelle réception de P-12 avant 18 heures et toute transmission préfectorale postérieure restent des questions distinctes.
 
 ## CHANGELOG v0.3 — 1er octobre 2026
 
@@ -419,4 +442,8 @@ Courriel : `institutmariani@gmail.com`
 - raccorde explicitement l'article 3 du Protocole n° 1 CEDH au droit de se porter candidat, sous réserve de la marge d'appréciation des États ;
 - renforce les demandes d'instruction fondées sur l'article 42 de l'ordonnance n° 58-1067 ;
 - remplace plusieurs qualifications trop affirmatives par des formulations distinguant fait, inférence, grief et UNKNOWN ;
+- récupère dans la bibliothèque le PDF préfectoral original communiqué par le TA et fixe le sous-inventaire PREF-1 à PREF-16 ;
+- distingue l'absence de P-11/P-12 dans le bundle initial de la question séparée de leur réception ou transmission ultérieure ;
+- qualifie explicitement la note manuscrite recto-verso P-17 et le témoignage relatif aux propos d'audience sans convertir ce témoignage en fait institutionnel ;
+- synchronise le bordereau jusqu'à P-34 et corrige la terminologie « minute signée du jugement » / éventuelles traces d'audience ;
 - conserve la requête comme document public, contradictoire, corrigible et non encore déposé.
