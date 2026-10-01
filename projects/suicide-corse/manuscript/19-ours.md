@@ -1,17 +1,18 @@
 ---
 title: "Ours — Suicide Corse n°3"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-status: "content-closed-pending-verification"
+status: "working-paper — freeze-render-candidate"
 language: fr
 license: "CC BY-SA 4.0"
-document_role: editorial-metadata
+document_role: source
 document_kind: masthead
 visibility: public
 lifecycle_state: working
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: editorial-recomposition
+  origin_type: repository
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_ref: main
   origin_date: "2026-09-28"
@@ -23,7 +24,7 @@ provenance:
     - GitHub issue #84
     - GitHub issue #89
 review:
-  status: "content-closed-new-preview-required-not-frozen"
+  status: "human-freeze-authorized-pending-publication"
   reviewed_by:
     - "Jean Hugues Noël Robert"
     - "GPT-5.6 Sol — editorial reader audit"
@@ -34,7 +35,7 @@ review:
 **Titre :** *Suicide Corse — ou comment réaliser l'impossible*  
 **Numéro :** 3 — **Spécial sénatoriales**  
 **Date éditoriale :** mercredi 30 septembre 2026.  
-**Statut :** contenu éditorial clos au 30 septembre — **nouveau rendu de vérification requis ; édition non gelée et non publiée**.
+**Édition :** contenu arrêté au 30 septembre 2026. Les faits ultérieurs relèvent du numéro suivant ou d'un erratum explicite.
 
 **Cadence :** la date éditoriale est le mercredi 30 septembre 2026. Le dernier fait intégré est l'organisation du rendez-vous préfectoral du 1er octobre à 14 h et l'acceptation, le 30 septembre, de ce rendez-vous avec une demande volontairement resserrée. Le déroulement du rendez-vous appartient au prochain numéro. La cadence ordinaire du lundi n'est pas modifiée.
 
@@ -93,7 +94,9 @@ Les agents IA ne portent pas la responsabilité éditoriale finale et leurs prop
 `projects/suicide-corse/audits/2026-09-28-reader-audit-n3.md`
 
 **Chantier éditorial :** GitHub issue #84.  
-**Preview de vérification :** GitHub issue #89, structurée comme Resumable GitHub Issue / Cognitive Packet by reference.
+**Prévisualisation de vérification :** GitHub issue #89.
+
+**Décision de gel et traçabilité :** GitHub issue #91.
 
 Le rendu est produit par **Ubikia** à partir du Corpus versionné. Le manifeste technique `manifest.json` associé à chaque rendu constitue la référence pour :
 
@@ -105,13 +108,13 @@ Le rendu est produit par **Ubikia** à partir du Corpus versionné. Le manifeste
 
 Une projection éditoriale ou un texte dérivé ne constitue jamais, par lui-même, une preuve indépendante de ses sources.
 
-## Statut de cette preview
+## Gel éditorial et provenance
 
-Le premier rendu de vérification du n°3 a produit les trois formats attendus — HTML, PDF et EPUB. Une prévisualisation publique non gelée a ensuite été servie. Elle ne constitue pas l'édition close.
+Une prévisualisation publique révisable a permis de contrôler les formats HTML, PDF et EPUB, la couverture, la mise en page et la provenance. Elle reste un checkpoint distinct de l'édition close.
 
-Cette preview sert à détecter les défauts de composition, de transformation et de mise en page avant toute décision de gel.
+La décision humaine de gel est tracée dans l'issue #91. La déclaration de gel et le manifeste de la release identifient le snapshot source, les artefacts et leurs empreintes.
 
-Le passage d'une preview à une édition gelée exige une décision éditoriale explicite et une trace de provenance propre. Le gel d'une édition ne gèle jamais l'enquête ni le Corpus vivant.
+Le gel de cette édition ne gèle jamais l'enquête ni le Corpus vivant.
 
 ## Corrections, contributions et droit de suite
 
@@ -153,15 +156,6 @@ La présence d'une trace dans le Corpus n'emporte ni transfert de droits ni auto
 
 ## État de clôture
 
-Au moment de cette preview :
-
-- le n°3 est **rendable** ;
-- il a passé un audit de lecture grand public ;
-- son rendu technique de vérification a déjà été produit une première fois ;
-- il reste **non gelé** ;
-- il reste **non publié en édition close** : seule une prévisualisation révisable est accessible ;
-- le **contenu éditorial est désormais clos** au 30 septembre ;
-- toute correction détectée par un rendu doit être intégrée puis vérifiée avant décision de gel ;
-- tout fait nouveau postérieur à la borne, notamment le résultat du rendez-vous du 1er octobre, appartient au n°4 ou à un erratum explicitement décidé.
+Le n°3 fixe un état du Corpus au 30 septembre 2026. Il a passé un audit de lecture et un contrôle technique de ses formats. Tout fait nouveau postérieur à cette borne, notamment le résultat du rendez-vous du 1er octobre, appartient au n°4 ou à un erratum explicitement décidé. Une correction ultérieure ne modifie pas silencieusement le snapshot gelé.
 
 Invariant : **Freeze the edition, never the next projection.**

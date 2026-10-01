@@ -2,18 +2,28 @@
 title: "Généalogie — Marie-Louise dans une histoire familiale plus longue"
 description: "Projection généalogique des dossiers Casabianca, Mariani et d’Angelis vers Suicide Corse."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-status: "draft — preview"
+status: "working-paper — edition snapshot"
 language: "fr"
+license: "CC BY-SA 4.0"
 visibility: "public"
-document_role: "projection"
+document_role: "derived"
 document_kind: "genealogical-chapter"
 update_policy: "UP-DEFAULT-REVIEWED"
-derived_from:
-  - "musee-mariani/casabianca/"
-  - "musee-mariani/mariani/"
-  - "musee-mariani/dangelis/"
-  - "musee-mariani/personnes/README.md"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: unknown
+  derived_from:
+    - musee-mariani/casabianca/
+    - musee-mariani/mariani/
+    - musee-mariani/dangelis/
+    - musee-mariani/personnes/README.md
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Généalogie
@@ -118,4 +128,4 @@ chapitre Généalogie de Suicide Corse
 
 Une formulation publiée dans *Suicide Corse* ne devient jamais, par sa seule publication, une preuve généalogique. Inversement, lorsqu'un dossier canonique est corrigé ou enrichi, cette projection doit pouvoir évoluer avec lui.
 
-Ce chapitre est donc **en preview** : suffisamment structuré pour être lu, mais explicitement ouvert aux enrichissements et corrections du Corpus.
+Ce chapitre fixe, pour cette édition, l'état de la projection généalogique au 30 septembre 2026. Le Corpus courant reste ouvert aux enrichissements et aux corrections, qui ne réécrivent pas silencieusement ce snapshot daté.
