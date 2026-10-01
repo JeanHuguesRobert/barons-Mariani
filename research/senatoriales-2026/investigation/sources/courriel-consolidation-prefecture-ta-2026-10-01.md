@@ -57,6 +57,7 @@ Aucune expurgation ne doit être interprétée comme une lacune de l'original : 
 
 - [Interaction lisible — candidature sénatoriale Haute-Corse 2026](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-09-10-candidature-senatoriale-haute-corse.md)
 - [Registre transversal des interactions](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md)
+- [Paquet structuré de la candidature sénatoriale](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-09-10-candidature-senatoriale-haute-corse.yaml)
 - [Chronologie probatoire](../chronology.md)
 
 ## Corps du courriel envoyé — projection expurgée
