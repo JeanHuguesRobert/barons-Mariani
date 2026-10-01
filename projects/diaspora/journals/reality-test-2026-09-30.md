@@ -64,3 +64,37 @@ next discriminating step: human decision on publishing the static projection, or
 Counts above are the ones printed by the validator against `data/seed.json`. They are not a second handwritten census.
 
 The two-hour mark is 2026-10-01T00:31:58+02:00. This milestone is inside that window. Being inside the window does not make the worldwide hypothesis true.
+
+## Jalon — publication du nom
+
+Ce jalon ne corrige pas le constat de 23:22. À cette heure-là, le nom n'était pas publié. La publication vient après.
+
+```text
+date: 2026-10-01
+place: after the two-hour mark 2026-10-01T00:31:58+02:00
+state: partial
+authorization: the Principal wrote "ok, let's do it" after issue comment 5920634253
+scope of that phrase: publish the existing static tree at diaspora.acorsica.org
+not included: a frozen edition, a new seed, personal records, a Suna text, DNS for any other name
+public url: https://diaspora.acorsica.org/
+redirect: / -> /web/index.html
+seed: /data/seed.json schema diaspora.seed.v0, 30 entities, 0 people
+source commit: 6de2f1689db351321967fdabc2025adca62a426d
+release: /srv/www/diaspora/current -> releases/2026-10-01-6de2f16
+rollback release left in place: releases/2026-10-01-82c261c
+dns: DNS-only CNAME diaspora.acorsica.org to fracta.fractavolta.com, TTL 300
+edge: Fracta TLS reverse_proxy to http://100.84.109.87:80
+origin: Fracta2 HTTP file server, no new public ingress
+checks: 302, 200 on the home page, seed schema and count, sibling sites still 200
+validator: node scripts/validate-seed.js passed before 6de2f16
+external monetary spend: 0
+later workstation check: the name resolved to 82.70.234.207 and the home page returned 200
+earlier NXDOMAIN: Wi-Fi resolver 10.198.17.11 had a negative cache at the first public check; authoritative DNS and 8.8.8.8 already answered
+local port: 127.0.0.1:8765 stays occupied by the nssm-supervised Node process; do not stop it
+operium note: JeanHuguesRobert/operium docs/diaspora-acorsica-static.md
+issue receipt: https://github.com/JeanHuguesRobert/barons-Mariani/issues/96#issuecomment-5921089658
+```
+
+Le résultat reste partiel. Quatre organisations, deux projets, aucune personne. La source primaire de l'appel Suna et le prototype SQL/Tcl de 1996-1997 restent ouverts. Les pages françaises sont une projection, pas la doctrine canonique.
+
+Prochaine action reprenable : ajouter une organisation ou un projet public seulement avec une source publique en main. Ne pas refaire l'échafaudage, le repli de port, ni cette publication.

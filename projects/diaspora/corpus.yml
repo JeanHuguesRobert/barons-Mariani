@@ -26,6 +26,9 @@ realities:
   - id: prototype-1996
     status: open
     statement: "A personal SQL/Tcl Corsica directory from 1996-1997 is reported by the Principal and is not corroborated here."
+  - id: public-host
+    status: observed
+    statement: "https://diaspora.acorsica.org serves the working static projection as of 2026-10-01. The release, the checks, and the resume boundary are in journals/reality-test-2026-09-30.md. This is not a frozen edition."
 
 sources:
   - id: issue-96

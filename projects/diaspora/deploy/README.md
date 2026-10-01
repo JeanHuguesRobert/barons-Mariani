@@ -6,9 +6,9 @@ Observed on 2026-10-01. A DNS-only Cloudflare CNAME `diaspora.acorsica.org` poin
 
 The published root is the `projects/diaspora/` tree, so `web/*.html` can fetch `../data/seed.json`. A host that publishes only `web/` breaks the seed. `/` redirects to `/web/index.html`. There is still no `CNAME` file in this tree.
 
-This is a static publication of the working projection, not a frozen edition. Operational placement stays with Operium. Do not add a second runbook here.
+This is a static publication of the working projection, not a frozen edition. The cold-start record inside this repository is the 2026-10-01 milestone in `journals/reality-test-2026-09-30.md`. Operational placement stays with Operium: `docs/diaspora-acorsica-static.md`. Do not add a second runbook here.
 
-Until then, local use is:
+Local use remains:
 
 ```text
 cd projects/diaspora
