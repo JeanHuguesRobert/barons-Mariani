@@ -106,6 +106,7 @@ Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`
 - **EPUB :** [édition n°3](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/suicide-corse-edition-2026-09-30-n3.epub).
 - **Manifeste :** [manifest.json](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/manifest.json).
 - **Commit source :** `a20919f95be54c8226bcd3df08b21f731d1d2e34` ; **commit des artefacts :** [`fc3de4a`](https://github.com/JeanHuguesRobert/suicide-corse/commit/fc3de4a).
+- **Release publique :** `2026-10-01-n3-frozen-fc3de4a` sur `fracta2`, promue le 1er octobre 2026 à 11:14:06 UTC et vérifiée en HTTPS.
 - **Revue :** auto-contrôles techniques et visuels réalisés ; revue contradictoire indépendante non achevée.
 
 Le chantier historique reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). La projection gelée est le contenu de [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) au commit source indiqué, même si le chemin conserve son nom historique. Le journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
