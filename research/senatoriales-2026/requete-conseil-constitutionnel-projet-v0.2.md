@@ -3,9 +3,9 @@ title: "Requête en annulation d'élection sénatoriale — Haute-Corse 2026"
 subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembre 2026 (circonscription de la Haute-Corse)"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-09-28"
-version: "0.2"
-status: "working-draft — for human review"
+date: "2026-10-01"
+version: "0.3"
+status: "working-draft — active post-scrutin petition, not filed — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "legal-brief"
@@ -30,6 +30,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/chronology.md"
   - "research/senatoriales-2026/investigation/defect-ledger.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
+  - "research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md"
   - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
@@ -45,6 +46,15 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 ## Devant le Conseil constitutionnel
 ### Statuant en application de l'article 59 de la Constitution, des articles 32 à 45 de l'ordonnance n° 58-1067 du 7 novembre 1958 et de l'article L. 303 du code électoral
 
+## STATUT DE LA VERSION 0.3
+
+> **Projet public de requête — non déposé au Conseil constitutionnel.**
+>
+> Cette version 0.3 est ouverte après le courriel du **1er octobre 2026** de la greffière en chef du Tribunal administratif de Bastia invitant le requérant à saisir le Conseil constitutionnel pour contester les jugements du 14 septembre. Ce courriel vise l'article **L.292** du code électoral ; la présente requête retient, sous réserve de correction contradictoire, l'article **L.303**, qui régit le refus d'enregistrement d'une candidature sénatoriale et prévoit que le jugement du tribunal administratif ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection.
+>
+> La version 0.3 intègre également l'état documentaire post-scrutin et les difficultés persistantes d'accès à certains éléments matériels des dossiers n° 2601714 et 2601715. Elle distingue strictement **faits établis, faits rapportés, inférences et inconnues**. La publication de ce projet ne transforme aucune hypothèse en fait et reste ouverte à correction avant dépôt.
+
+
 ---
 
 ## PREMIER ÉCRAN CONTENTIEUX
@@ -58,7 +68,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 | **Élu dont l'élection est attaquée** | **Monsieur Paulu Santu (Paul-Toussaint) PARIGI** (et sa remplaçante Mme Livia VOLPEI), proclamé élu sénateur au premier tour de scrutin le 27 septembre 2026. |
 | **Décision initiale contestée** | Jugement du **Tribunal administratif de Bastia du 14 septembre 2026** (instances n° 2601714-1 et n° 2601715-1) ayant prononcé le refus d'enregistrement de la déclaration de candidature du requérant à la suite de la saisine préfectorale. |
 | **Délai légal de saisine** | Requête formée dans le délai impératif de **dix jours** suivant la proclamation du résultat (art. 33 de l'ordonnance n° 58-1067), expirant le **mercredi 7 octobre 2026 à 18h00**. |
-| **Griefs principaux au fond** | **1.** Erreur de droit sur l'exigence non textuelle d'un « support papier original » et méconnaissance de la force probante de l'écrit électronique sous Git (art. 1366 C. civ.).<br>**2.** Méconnaissance de l'obligation d'aménagement raisonnable face au handicap AAH de la candidate remplaçante (art. 6 DDHC, art. 26 PIDCP, jurisprudence *CE, 14 mai 2021, n° 445497*).<br>**3.** Méconnaissance de l'office du juge électoral par le TA de Bastia (refus d'instruire l'enregistrement vidéo contemporain du consentement).<br>**4.** Déloyauté de l'instruction préfectorale et asymétrie d'information (omission de la transmission des accusés de réception et du courriel de 17:57:55 au tribunal).<br>**5.** Altération de l'offre électorale, proportion notable de suffrages non-exprimés (76 blancs et nuls, soit 12,54 % des votants) et question de la perte de chance démocratique.<br>**6.** Privation illégale du débat démocratique sénatorial sur l'Autonomie de Capacité et la révision de l'article 72-5 de la Constitution.<br>**7.** Aggravation cumulative de la perte de chance et rupture du piège de l'éviction audiovisuelle sous la doctrine ARCOM (*Nemo auditur*). |
+| **Griefs principaux au fond** | **1.** Contestation du fondement et de la portée de l’exigence d’un support matériel original, au regard des textes électoraux applicables et des règles de preuve invoquées.<br>**2.** Question de l’accessibilité effective de la formalité au regard de la situation de la remplaçante et des éléments portés à la connaissance du juge.<br>**3.** Question de l’examen effectif des éléments contemporains établissant identité, volonté et consentement, notamment de la vidéo du 11 septembre.<br>**4.** Question de la complétude des éléments transmis par la préfecture au TA, plusieurs transmissions restant partiellement inconnues.<br>**4 bis.** Difficulté d’exercice effectif du recours prévu par l’article L.303 du code électoral : plusieurs éléments matériels des dossiers restent non communiqués malgré des demandes répétées depuis le 16 septembre, alors que le délai de saisine du Conseil expire le 7 octobre à 18 h.<br>**5.** Altération de l’offre électorale et incidence possible sur le scrutin, sans inférence sur l’intention individuelle des électeurs à partir des seuls bulletins blancs ou nuls.<br>**6.** Incidence alléguée de l’éviction sur la possibilité de soumettre au collège électoral le projet politique porté par la candidature.<br>**7.** Effets cumulatifs allégués de l’éviction sur l’accès ultérieur au débat public, présentés comme un contexte et non comme un grief autonome définitivement établi. |
 | **Conclusions principales** | **Annuler l'élection** de M. Paul-Toussaint Parigi en qualité de sénateur de la Haute-Corse proclamée le 27 septembre 2026 ; ordonner l'organisation de nouvelles opérations électorales ; subsidiairement, ordonner avant-dire droit les mesures d'instruction indispensables (art. 42 ord. n° 58-1067). |
 
 ---
@@ -130,12 +140,42 @@ Période 3 : Postérieurement au 14 septembre 2026 (Traces réseau, scrutin et p
 ### 3. Période 3 : Les vérifications probatoires, le scrutin du 27 septembre et le contentieux constitutionnel
 
 * **15 au 25 septembre 2026** : Envoi de six demandes administratives formelles (sous le CRPA et le RGPD) pour obtenir la communication des journaux d'acheminement réseau (logs SMTP) et préserver les traces techniques (**Pièce P-21**).
-* **25 septembre 2026 à 16h59:13** : Mise en demeure formelle adressée à la préfecture d'assurer la conservation intégrale sous scellés des journaux informatiques (**Pièce P-22**).
+* **25 septembre 2026 à 16h59:13** : Demande formelle adressée à la préfecture de préserver les journaux informatiques encore existants (**Pièce P-22**).
 * **Dimanche 27 septembre 2026** : Déroulement du scrutin sénatorial. Proclamation des résultats officiels : 606 votants, 442 voix Parigi, 88 voix Battini, **76 bulletins blancs et nuls (12,54 %)**.
 * **Lundi 28 septembre 2026** : Notification à la préfecture de la demande de communication dématérialisée du procès-verbal et des 40 bulletins nuls au titre de l'article 32 de l'ordonnance n° 58-1067 (**Pièce P-26**).
 * **Mercredi 30 septembre 2026 à 08h16:30** : Réponse du chef du Bureau des élections confirmant que les pièces peuvent être consultées et proposant un accès en préfecture le **jeudi 1er octobre à 14h00**. La réponse cite notamment les procès-verbaux de chaque bureau, le procès-verbal du bureau centralisateur, les listes d'émargement, les bulletins nuls, les annexes et les feuilles de dépouillement. La demande de transmission dématérialisée n'est pas traitée explicitement.
 
 ---
+
+
+### 4. Séquence post-jugement : accès aux éléments matériels et effectivité du recours
+
+La voie ouverte par l'article L.303 du code électoral est différée : le jugement rendu sur le refus d'enregistrement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection. Après le scrutin, l'article 33 de l'ordonnance n° 58-1067 enferme cette contestation dans un délai de dix jours suivant la proclamation, expirant en l'espèce le **7 octobre 2026 à 18 heures**.
+
+Dans cette fenêtre, le requérant cherche à établir plusieurs éléments matériels relatifs aux dossiers du Tribunal administratif : inventaire des pièces initiales et complémentaires, identification d'une entrée Sagace « Réception d'une lettre », heure de mise à disposition du jugement, existence éventuelle d'une trace d'audience, identité du greffier d'audience et modalités d'accès à la minute signée.
+
+La première demande explicite portant sur la liste chronologique des pièces enregistrées dans chacun des deux dossiers a été adressée au greffe le **16 septembre 2026 à 08 h 38 min 28 s CEST**, sous l'objet « TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles ».
+
+Le greffe a ensuite successivement :
+- orienté le requérant vers Sagace et le suivi informatique des dossiers ;
+- proposé le rattachement à Télérecours Citoyens pour obtenir davantage de précisions ;
+- invité le requérant à retirer puis lire le jugement, en indiquant le 21 septembre rester disponible si des questions subsistaient après cette lecture.
+
+Le requérant a consulté Sagace, examiné la voie Télérecours Citoyens, retiré et lu le jugement le 25 septembre, puis supprimé de ses demandes les points désormais résolus. Il a alors limité sa demande à six résidus matériels.
+
+Le **1er octobre 2026 à 15 h 13 min 26 s CEST**, la greffière en chef a répondu que ces questions se rapportaient à la procédure et au jugement, que le greffe n'avait pas vocation, après le prononcé d'une décision, à apporter des explications ou commentaires complémentaires, et qu'il n'était pas en mesure de donner suite aux demandes. Elle a simultanément invité le requérant à saisir le Conseil constitutionnel, en visant l'article **L.292** du code électoral.
+
+Le requérant distingue deux éléments :
+
+1. **l'orientation substantielle** — saisir le Conseil constitutionnel — est cohérente avec l'article L.303 et est suivie par la présente requête ;
+2. **la référence textuelle L.292** paraît, sous réserve de correction, viser un autre contentieux, relatif au tableau des électeurs sénatoriaux et à l'élection des délégués et suppléants communaux.
+
+Le présent grief ne soutient pas qu'un silence, une réponse générique ou un refus de communication prouve à lui seul l'irrégularité initiale. Il soutient plus étroitement que certains faits matériels susceptibles d'éclairer la contestation restent **UNKNOWN / non communiqués** dans une fenêtre contentieuse très brève, malgré des demandes répétées.
+
+Cette situation justifie que le Conseil use, s'il l'estime utile, de ses pouvoirs d'instruction prévus par l'article 42 de l'ordonnance n° 58-1067 pour se faire communiquer les documents et rapports ayant trait à l'élection.
+
+Elle soulève également, à titre de grille de lecture, une question d'**effectivité du recours** : un droit de contestation formel n'épuise pas la question de savoir si le requérant dispose, dans le temps utile, des éléments nécessaires pour exposer précisément ses moyens. Cette formulation n'impute aucune intention au greffe et ne transforme pas l'indisponibilité actuelle d'une information en preuve de son inexistence.
+
 
 ## IV. FORMALITÉS DE CANDIDATURE ET DISTINCTION DES RÉGIMES NORMATIFS
 
@@ -144,6 +184,13 @@ L'argumentation du refus d'enregistrement repose sur une confusion méthodique e
 ```text
 Identité ≠ Consentement ≠ Support matériel de transmission ≠ Aménagement face au handicap
 ```
+
+### 0. Droit européen de se porter candidat et exigence d'effectivité
+
+L'article 3 du Protocole n° 1 à la Convention européenne des droits de l'homme garantit, selon la jurisprudence de la Cour européenne, des droits individuels comprenant le droit de vote et le **droit de se porter candidat**. Ces droits ne sont pas absolus et les États disposent d'une marge d'appréciation importante pour fixer les conditions d'éligibilité et de candidature. La Cour contrôle toutefois que les limitations ne portent pas atteinte à la substance du droit et ne le privent pas de son effectivité.
+
+Le requérant invoque ce cadre non pour écarter les formalités électorales prévues par la loi, mais pour demander que leur interprétation et leur application soient examinées au regard de l'exercice effectif du droit de se porter candidat et de la libre expression du choix du corps électoral.
+
 
 ### 1. L'exigence légale du consentement et le silence sur le support
 Aux termes de l'article L. 299 du code électoral, chaque candidat doit joindre à sa déclaration une acceptation écrite de son remplaçant. Les articles L. 300 et R. 149 du même code précisent les mentions d'état civil obligatoires. **Aucune disposition législative ou réglementaire n'exige la production d'un papier original physique à l'exclusion d'un original électronique**.
@@ -170,15 +217,15 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 * **FAIT** : Le Bureau des élections de la préfecture de la Haute-Corse a rejeté la déclaration de candidature au motif que l'acceptation de la remplaçante n'était pas fournie sur un « original papier », tout en refusant d'imprimer les documents haute résolution reçus par voie électronique.
 * **PREUVE** : Courriel du BEDL du 10 septembre à 20h05 (**P-06**) ; jugement du TA de Bastia du 14 septembre (**P-20**).
-* **RÈGLE** : Articles L. 299, L. 300 et R. 149 du code électoral ; article 1366 du code civil consacrant l'égalité probante parfaite entre écrit électronique et écrit papier.
-* **ÉCART** : L'administration a créé une condition de recevabilité matérielle inexistante dans le code électoral et méconnu le principe général d'équivalence des supports posé par le code civil.
-* **INCIDENCE** : Cette exigence a constitué l'unique cause juridique du refus d'enregistrement et de l'éviction du binôme.
-* **INCERTITUDE RÉSIDUELLE** : Néant sur le texte ; l'erreur de droit est patente.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : Constater l'erreur de droit commise par l'autorité préfectorale et confirmée à tort par le premier juge.
+* **RÈGLE** : Articles L. 299, L. 300 et R. 149 du code électoral ; article 1366 du code civil, qui reconnaît à l'écrit électronique la même force probante que l'écrit sur support papier sous les conditions qu'il énonce.
+* **ÉCART** : Le requérant soutient que l'exigence matérielle appliquée doit être rattachée avec précision aux textes électoraux pertinents et confrontée aux règles de preuve invoquées, sans confondre automatiquement originalité du document et support.
+* **INCIDENCE** : Cette exigence figure parmi les motifs déterminants du refus d'enregistrement ; la portée exacte de chacun des motifs retenus doit être appréciée à partir du jugement et du dossier complet.
+* **INCERTITUDE RÉSIDUELLE** : Le fondement exact et la portée de l'exigence d'original matériel demeurent à discuter contradictoirement.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : Apprécier le fondement juridique et la portée de l'exigence matérielle ayant contribué au refus d'enregistrement.
 
 ---
 
-### GRIEF N° 2 : Violation de l'obligation d'aménagement raisonnable des formalités face au handicap de la remplaçante
+### GRIEF N° 2 : Accessibilité effective de la formalité et prise en compte de la situation de la remplaçante
 
 * **FAIT** : Mme Laurence Vernerey est en situation de handicap reconnu, bénéficiaire de l'AAH, résidant en Corse-du-Sud. Placée dans l'impossibilité physique d'accomplir un déplacement impromptu vers Bastia ou de surmonter la barrière matérielle sous stress dans un délai de 24h, son consentement a été attesté par déclaration numérique et vidéo.
 * **PREUVE** : Attestation officielle CAF de Corse-du-Sud du 14 septembre 2026 (**P-18**) ; note en délibéré enregistrée à 15h48:32 (**P-19**).
@@ -192,11 +239,11 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ### GRIEF N° 3 : Méconnaissance de l'office du juge électoral par le Tribunal administratif de Bastia
 
-* **FAIT** : Lors de l'audience du 14 septembre 2026 à 15h00, le requérant a expressément mis à la disposition du tribunal l'enregistrement vidéo contemporain du 11 septembre attestant du consentement solennel de la remplaçante face caméra. Le tribunal a refusé de procéder au visionnage de cette pièce probatoire décisive.
+* **FAIT** : Lors de l'audience du 14 septembre 2026 à 15h00, le requérant a expressément mis à la disposition du tribunal l'enregistrement vidéo contemporain du 11 septembre attestant du consentement solennel de la remplaçante face caméra. Le requérant rapporte avoir offert le visionnage immédiat de cette vidéo à l'audience ; aucun visionnage par la formation n'est actuellement établi.
 * **PREUVE** : Note manuscrite d'audience remise au greffier (**P-17**) ; mémoire en défense (**P-16**) ; fichier vidéo (**P-13**).
 * **RÈGLE** : Article L. 303 du code électoral ; principe selon lequel le juge électoral a pour office de rechercher la sincérité et l'authenticité de la volonté des candidats par tous moyens probatoires loyaux.
-* **ÉCART** : Le juge électoral s'est comporté en simple censeur de conformité matérielle immédiate au lieu d'exercer ses pouvoirs d'instruction pour éclairer la vérité électorale.
-* **INCIDENCE** : Refus d'instruire la preuve matérielle directe et contemporaine du consentement, entraînant la confirmation erronée du rejet de candidature.
+* **ÉCART** : Le requérant soutient que la portée donnée aux éléments matériels du dossier doit être examinée au regard des pouvoirs d'instruction du juge électoral et des preuves contemporaines offertes.
+* **INCIDENCE** : Le défaut actuellement établi de visionnage de la vidéo laisse ouverte la question de la prise en compte effective de cet élément et de son incidence sur l'appréciation du consentement.
 * **INCERTITUDE RÉSIDUELLE** : Mention exacte du refus de visionnage dans le procès-verbal d'audience du 14 septembre.
 * **MESURE D'INSTRUCTION SOLLICITÉE** : Ordonner au Conseil constitutionnel le visionnage de la vidéo P-13 versée au registre et la communication de la minute de l'audience du TA de Bastia.
 
@@ -207,10 +254,22 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 * **FAIT** : En déférant la candidature au Tribunal administratif à 18h16 le 11 septembre, la préfecture n'a pas joint à son bordereau son propre accusé de réception de 16h14 (**P-11**) ni le courriel de complétude de 17h57:55 (**P-12**), laissant croire au juge que le candidat était resté passif l'après-midi.
 * **PREUVE** : Requête préfectorale n° 2601714 (**P-14**) ; courriel d'alerte du candidat du 14 septembre à 14h09 (**P-15**).
 * **RÈGLE** : Principes généraux de loyauté procédurale, respect des droits de la défense et complétude des dossiers administratifs transmis au juge.
-* **ÉCART** : Rétention matérielle de pièces contemporaines favorables au requérant ayant altéré la vision du tribunal sur la réalité de la coopération du candidat.
-* **INCIDENCE** : Jugement rendu au vu d'un dossier tronqué masquant la diligence ininterrompue du candidat.
+* **ÉCART** : Le dossier initial consulté ne contient pas certaines pièces contemporaines favorables au requérant ; leur transmission éventuelle ultérieure reste partiellement inconnue et doit être établie avant toute qualification d'une omission.
+* **INCIDENCE** : Il demeure à établir si la formation de jugement disposait de l'ensemble des éléments contemporains permettant d'apprécier la diligence du candidat.
 * **INCERTITUDE RÉSIDUELLE** : Heure exacte d'atterrissage sur le serveur de messagerie de la préfecture du courriel de 17h57:55.
 * **MESURE D'INSTRUCTION SOLLICITÉE** : Ordonner à la préfecture de la Haute-Corse la production des journaux de messagerie (logs SMTP complets) du 11 septembre 2026 entre 17h45 et 18h30.
+
+---
+
+### GRIEF N° 4 bis : Difficulté d'exercice effectif du recours prévu par l'article L.303 et persistance d'éléments matériels non communiqués
+
+* **FAIT** : Depuis le 16 septembre 2026 à 08 h 38 min 28 s CEST, le requérant demande notamment l'identification des pièces portées aux dossiers n° 2601714 et 2601715. Après consultation de Sagace, examen de Télérecours Citoyens, retrait et lecture du jugement, puis réduction des demandes aux seuls points demeurés ouverts, six éléments matériels restaient non communiqués au 1er octobre.
+* **PREUVE** : Chaîne de courriels du greffe du TA des 16, 18 et 21 septembre ; demande résiduelle du 25 septembre ; réponse de la greffière en chef du 1er octobre à 15 h 13 min 26 s CEST ; registre public des interactions.
+* **RÈGLE** : Article L.303 du code électoral ; articles 33, 35 et 42 de l'ordonnance n° 58-1067 ; article 3 du Protocole n° 1 CEDH invoqué comme cadre d'effectivité du droit de se porter candidat.
+* **ÉCART** : Le requérant ne soutient pas qu'il existerait un délai légal autonome imposant au greffe de répondre sous quelques heures. Il soutient que la combinaison d'une voie de recours différée, d'un délai de dix jours post-proclamation et de l'indisponibilité persistante de faits matériels détenus ou vérifiables par les institutions concernées peut réduire la capacité pratique à présenter la contestation de manière complètement informée.
+* **INCIDENCE** : Plusieurs moyens doivent être formulés avant le 7 octobre à 18 h alors que des faits utiles à leur qualification restent non établis.
+* **INCERTITUDE RÉSIDUELLE** : Existence, contenu et communicabilité exacts de certains documents ; justification propre à chacun des refus ou non-réponses ; effet réel de ces éléments sur le jugement initial.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : Se faire communiquer, sur le fondement de l'article 42 de l'ordonnance, le dossier matériel des instances, la minute signée, l'inventaire des pièces initiales et complémentaires, les éléments permettant d'identifier l'entrée Sagace « Réception d'une lettre » et, s'ils existent, les documents retraçant matériellement l'audience.
 
 ---
 
@@ -294,6 +353,8 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
    - La communication immédiate du procès-verbal général de recensement des votes du scrutin du 27 septembre 2026 et des quarante (40) bulletins de vote déclarés nuls ainsi que des trente-six (36) bulletins blancs annexés ;
    - Le versement aux débats et le visionnage de l'enregistrement vidéo contemporain du 11 septembre 2026 (Pièce P-13) conservé au registre d'intégrité de la défense ;
    - La production par le Tribunal administratif de Bastia de la minute de l'audience publique du 14 septembre 2026 ;
+   - La production de l'inventaire des pièces initialement et ultérieurement versées aux dossiers n° 2601714 et 2601715, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
+   - La communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
 3. **DÉCLARER ILLÉGALE ET NULLE** la décision de refus d'enregistrement opposée à la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey ;
 4. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) PARIGI en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
 5. **ORDONNER** l'organisation de nouvelles opérations électorales dans la circonscription de la Haute-Corse conformément à la loi.
@@ -342,3 +403,17 @@ Fait à Corte, le 28 septembre 2026.
 *(Baron Mariani)*  
 1 cours Paoli, F-20250 Corte  
 Courriel : `institutmariani@gmail.com`
+
+
+---
+
+## CHANGELOG v0.3 — 1er octobre 2026
+
+- transforme le projet préparatoire en **projet actif post-scrutin**, toujours non déposé ;
+- enregistre l'invitation du 1er octobre de la greffière en chef du TA à saisir le Conseil constitutionnel, en distinguant l'orientation substantielle de la référence L.292 utilisée dans le courriel ;
+- ajoute la séquence post-jugement et la question d'effectivité pratique du recours prévu par L.303 ;
+- ajoute un grief 4 bis relatif aux éléments matériels encore non communiqués dans la fenêtre contentieuse ;
+- raccorde explicitement l'article 3 du Protocole n° 1 CEDH au droit de se porter candidat, sous réserve de la marge d'appréciation des États ;
+- renforce les demandes d'instruction fondées sur l'article 42 de l'ordonnance n° 58-1067 ;
+- remplace plusieurs qualifications trop affirmatives par des formulations distinguant fait, inférence, grief et UNKNOWN ;
+- conserve la requête comme document public, contradictoire, corrigible et non encore déposé.
