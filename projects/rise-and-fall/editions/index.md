@@ -44,17 +44,25 @@ Ce document est le registre officiel et immuable des éditions publiées du proj
 
 ## Registre des éditions
 
-### Édition d'amorçage (Bootstrap) — En cours de construction
+### Volume I (1776–1870) — Projection intermédiaire instable (Preview)
 
-**Statut : Édition de travail active (non gelée).**
+**Statut : Projection intermédiaire publique (non gelée).**
 
-- **Date éditoriale cible :** Automne 2026
-- **Objectif :** Établir le cadre d'enquête capacitaire, formaliser la méthode en deux passes (Pass A régressive / Pass B prospective) et tester la méthode de bout en bout sur le premier Reality Case pilote (RC-01 : Élection législative de 1863).
-- **Contrat de projection de travail :** [`projections/book-bootstrap.yml`](../projections/book-bootstrap.yml).
-- **Commit source :** Non fixé (suit la branche principale `main` jusqu'à décision explicite de gel).
-- **Formats cibles :** HTML, PDF, EPUB via le compilateur Quarto / Ubikia.
-- **Statut de revue :** Revue adverse interne en cours ; pas de revue contradictoire externe à ce stade.
+- **Date éditoriale :** 30 septembre 2026
+- **Titre :** *Rise & Fall of the Mariani Family — Volume I : De la notabilité cortenaise à l'apogée impériale (1776–1870)*
+- **Objectif :** Préfigurer ce que sera le Volume 1 bouclé du Livre Vivant : ascension d'Antoine Dominique Mariani, titre westphalien de 1813 conféré par Jérôme Bonaparte dans la débâcle de Cassel, constitution de Minesteggio, Reality Case pilote RC-01 (élection de 1863), Reality Case RC-02 (donation du monument aux morts de 1924) et pivot transhistorique vers *Suicide Corse*.
+- **Contrat de projection :** [`projections/book-bootstrap.yml`](../projections/book-bootstrap.yml)
+- **Manifeste technique :** [`site/editions/volume-1-preview/preview-status.json`](../site/editions/volume-1-preview/preview-status.json)
+- **Consultation publique :** [`https://riseandfall.baronsmariani.org/editions/volume-1-preview/`](https://riseandfall.baronsmariani.org/editions/volume-1-preview/)
+- **Statut de gel :** Non gelé (`frozen: false`). Cette édition est une projection vivante et instable, continuellement enrichie avant la décision formelle de gel.
 
 ---
 
-*Aucune édition gelée antérieure n'est encore enregistrée pour ce projet.*
+### Volumes suivants programmés
+
+- **Volume II (1870–1945) — Le repli patrimonial sous la IIIe République :** alliances d'Angelis et Casabianca, gestion de Minesteggio, la Grande Guerre et la donation civique de 1924.
+- **Volume III (1945–2026) — De Marie-Louise à la réouverture du dossier :** la mémoire de Marie-Louise Mariani-Robert, les contentieux fonciers, la préservation de Minesteggio et l'autonomie de capacité contemporaine.
+
+---
+
+*Aucune édition gelée (immutable) n'est encore enregistrée pour ce projet.*

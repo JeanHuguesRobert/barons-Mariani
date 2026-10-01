@@ -106,12 +106,18 @@ Le projet réutilise les invariants stabilisés dans [*Suicide Corse*](../suicid
 
 ---
 
-## 4. Premier Reality Case pilote
+## 4. Reality Cases et jalons d'enquête
 
-Le modèle est amorcé et testé de bout en bout sur un cas historique à forte densité documentaire primaire :
+Le modèle capacitaire est amorcé et testé de bout en bout sur des cas historiques à forte densité documentaire primaire :
 
-- **Reality Case RC-01 :** [*L'élection de 1863 — Louis-Thomas Mariani contre Sampiero Gavini*](investigation/reality_cases/RC-01-1863-gavini.md).
-- **Enseignement épistémique majeur :** En 1863, le baron Mariani est le *candidat officiel du Gouvernement impérial* battu par un bonapartiste non officiel au terme d'une lutte de factions locales et d'allégations de fraudes de terrain. Ce cas interdit tout récit simpliste d'une hostilité continue de l'État et force à analyser le jeu complexe entre pouvoir central, administration préfectorale et notabilités locales.
+- **Reality Case RC-01 :** [*L'élection de 1863 — Louis-Thomas Mariani contre Sampiero Gavini*](investigation/reality_cases/RC-01-1863-gavini.md).  
+  *Enseignement épistémique :* En 1863, le baron Mariani est le *candidat officiel du Gouvernement impérial* battu par un notable bonapartiste non officiel au terme d'une lutte de factions locales. Ce cas réfute l'hypothèse d'une persécution impériale et démontre le primat de l'ancrage territorial sur la faveur parisienne.
+- **Reality Case RC-02 :** [*La donation du terrain du monument aux morts de Corte (1924)*](investigation/reality_cases/RC-02-1924-donation-corte.md).  
+  *Enseignement épistémique :* En 1924, le baron Pierre Mariani cède gratuitement à la Ville de Corte la parcelle destinée au monument aux morts. Ce cas prouve que l'attrition foncière ne découle pas seulement de la prédation fiscale ou de la faillite, mais aussi d'actes de libéralité patriotique et civique.
+- **Provenance toponymique (Minesteggio) :** [*Note d'enquête sur Antoine « Tony » Toma*](investigation/notes/2026-09-30-tony-toma-minesteggio.md).  
+  Retrouvaille et corroboration de la source orale de l'hypothèse étymologique latine (*mini/minus + stadium/staggio*).
+- **Pivot transhistorique 1863 ↔ 2026 :** [*Deux époques se répondent*](manuscript/book/06-deux-epoques-se-repondent.md).  
+  Mise en symétrie de la protestation électorale de 1863 et du dossier électoral de 2026, reliant *Rise & Fall* à *Suicide Corse*.
 
 ---
 
@@ -119,17 +125,24 @@ Le modèle est amorcé et testé de bout en bout sur un cas historique à forte 
 
 ```text
 projects/rise-and-fall/
-├── README.md                 # Le présent point d'entrée
-├── corpus.yml                # Manifeste de projet, sources et règles
+├── README.md                 # Le présent point d'entrée canonique
+├── corpus.yml                # Manifeste de projet, sources déclarées et règles
 ├── architecture.md           # Architecture d'enquête, grammaire capacitaire, causalité
 ├── editorial-architecture.md # Architecture éditoriale, tripartition, protocole de gel
 ├── schemas/                  # Schémas machine-readable (bifurcations, causalité)
 ├── chronology/               # Master timeline critique intégrée (14 bifurcations 1776–2026)
-├── investigation/            # Dossiers d'enquête, passes A/B et Reality Cases (RC-01, RC-02)
-├── manuscript/               # Manuscrit éditorial (Livre, Magazine, Annexes)
+├── investigation/            # Dossiers d'enquête, notes de provenance et Reality Cases (RC-01, RC-02)
+├── journals/                 # Registre souverain des points d'étape et bilans d'enquête
+├── manuscript/               # Manuscrit éditorial (Livre en 9 chapitres, Magazine, Annexes)
 ├── sources/                  # Bibliographie critique, inventaire des actes primaires
-├── projections/              # Contrats de projection Quarto / Ubikia
-├── site/                     # Vitrine web statique préparée pour riseandfall.baronsmariani.org
+├── projections/              # Contrats de projection Quarto / Ubikia (book-bootstrap.yml)
+├── site/                     # Site web public déployé sur riseandfall.baronsmariani.org
+│   ├── index.html            # Portail d'accueil et synthèse
+│   ├── contribuer.html       # Cadre de participation (4 niveaux, 2 canaux)
+│   ├── guide.html            # Guide public interactif assisté (pont Cogentia)
+│   ├── mentions-legales.html # Mentions légales et cadre RGPD
+│   └── editions/
+│       └── volume-1-preview/ # Lecteur interactif de la préversion du Volume 1
 └── editions/                 # Registre des éditions gelées et déclarations de freeze
 ```
 
@@ -138,5 +151,8 @@ projects/rise-and-fall/
 ## 6. Identité web et diffusion publique
 
 - **Site public :** [`https://riseandfall.baronsmariani.org`](https://riseandfall.baronsmariani.org)
-- **Scaffold web :** Logé dans [`projects/rise-and-fall/site/`](site/) (landing page, appel à contribution, index des bifurcations, Reality Cases, `llms.txt`, manifeste de provenance).
-- **Règle de publication :** Conformément au mandat de l'issue #94 et aux directives de l'opérateur, la vitrine est amorcée localement. Tout hébergement externe ou création d'un dépôt d'artefacts dédié (sur le modèle de `JeanHuguesRobert/suicide-corse`) fait l'objet d'une validation explicite préalable.
+- **Livre Vivant (Volume I Preview) :** [`https://riseandfall.baronsmariani.org/editions/volume-1-preview/`](https://riseandfall.baronsmariani.org/editions/volume-1-preview/)
+- **Participer et contribuer :** [`https://riseandfall.baronsmariani.org/contribuer.html`](https://riseandfall.baronsmariani.org/contribuer.html)
+- **Guide public interactif :** [`https://riseandfall.baronsmariani.org/guide.html`](https://riseandfall.baronsmariani.org/guide.html)
+- **Mentions légales :** [`https://riseandfall.baronsmariani.org/mentions-legales.html`](https://riseandfall.baronsmariani.org/mentions-legales.html)
+- **Infrastructure de production :** Hébergement Oracle Cloud Infrastructure (OCI) / Fracta2 servi par Caddy reverse proxy via Cloudflare.
