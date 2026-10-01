@@ -1,6 +1,6 @@
 schema: suicide-corse.projection.book.v0
-id: suicide-corse-n3-working
-status: content-closed-render-candidate
+id: suicide-corse-edition-2026-09-30-n3
+status: freeze-render-candidate
 render_ready: true
 language: fr
 title: "Suicide Corse"
@@ -22,6 +22,7 @@ cover:
 
 source_manifest: ../corpus.yml
 related_issue: 84
+freeze_issue: 91
 editorial_architecture: ./n3-editorial-architecture.md
 reader_audit: ../audits/2026-09-28-reader-audit-n3.md
 final_content_sweep: ../audits/2026-09-28-final-content-sweep-n3.md
@@ -40,7 +41,7 @@ edition:
 
 
 construction:
-  state: content_closed_pending_verification
+  state: content_closed_freeze_authorized
   final_content_sweep_applied: true
   final_content_sweep_date: "2026-09-28"
   final_content_sweep_note: "28 Sep sweep and 29 Sep late-close remain historical checkpoints. The 30 Sep content-close includes the prefecture access reply and accepted 1 Oct appointment as the final fact; a fresh Phase A render from current main is required before freeze."
@@ -66,8 +67,8 @@ editorial_date_2026_09_30:
   decided_by: "Jean Hugues Noël Robert"
   prior_close_target: "Tuesday 29 September 2026"
   audit: ../audits/2026-09-30-special-senatoriales-editorial-date.md
-  freeze: "not decided"
-  rule: "The editorial date is Wednesday 30 September 2026. The edition is not frozen, and no source commit is pinned."
+  freeze: "authorized separately in issue #91 after Phase A PASS"
+  rule: "The editorial date is Wednesday 30 September 2026; the later technical freeze is traced separately."
 
 content_close_2026_09_30:
   status: "human content boundary fixed; technical freeze pending"
@@ -78,7 +79,8 @@ content_close_2026_09_30:
   excluded_future_fact: "Outcome of the 1 Oct prefecture consultation belongs to n4."
   closing_line: "La suite dans le prochain numéro."
   phase_a_required: true
-  freeze_snapshot: "UNSET"
+  phase_a_result: "PASS; see issue #91"
+  freeze_snapshot_record: ../editions/2026-09-30-n3-freeze.md
 
 special_senatoriales_close_2026_09_29:
   label: "Spécial sénatoriales"
@@ -610,11 +612,12 @@ chapters_note: >
   Publication order now materializes the three reader-facing layers directly:
   Book, Magazine, then Annexes. Source chapters 05 and 07 remain in the Corpus as
   preserved inputs to the merged chapters but are no longer rendered as duplicate reader-facing chapters.
-  reader audit passed on 2026-09-28; render_ready is true for verification rendering only.
+  Reader audit and Phase A verification passed; this projection is the final
+  technical-freeze render candidate authorized in issue #91.
 outputs:
   required: [html, pdf, epub]
   optional: []
-  status: "reader audit passed; ready for verification render, not frozen"
+  status: "required final-edition outputs; verify exact bytes before promotion"
   masthead_required: true
   masthead_rule: "Identify final human editorial responsibility and actual AI assistance; legal publisher/director fields must be verified before final render."
   technical_manifest: required
