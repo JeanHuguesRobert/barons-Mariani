@@ -17,7 +17,7 @@ Le Livre conserve ce qui paraît durable. Le Magazine enregistre ce qui vient de
 
 Cette première édition hebdomadaire répond à une question simple : **qu'est-ce que le Réel a répondu depuis le gel du numéro 2 ?**
 
-La date éditoriale de ce spécial est le mercredi 30 septembre 2026. Le bouclage visait d'abord le mardi 29 septembre, un jour après la cadence du lundi, pour intégrer les réactions au scrutin du dimanche. Le 30 septembre, une dernière réponse institutionnelle a encore réduit une inconnue matérielle du dossier sénatorial. Le contenu éditorial est désormais borné à cette journée ; le gel technique reste un acte séparé après nouveau rendu de vérification.
+La date éditoriale de ce spécial est le mercredi 30 septembre 2026. Le bouclage visait d'abord le mardi 29 septembre, un jour après la cadence du lundi, pour intégrer les réactions au scrutin du dimanche. Le 30 septembre, une dernière réponse institutionnelle a encore réduit une inconnue matérielle du dossier sénatorial. Le contenu de cette édition est borné à cette journée ; les faits ultérieurs alimentent le numéro suivant ou un erratum explicite.
 
 Les rubriques sont conçues pour devenir récurrentes : *Le Réel répond*, *Nouvelles traces*, *Le point de l'enquête*, *Reality Case*, *Contrepoints* et *Continuations*.
 
