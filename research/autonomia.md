@@ -938,6 +938,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 *These documents link to this file:*
 - [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 - [Barons Mariani](../README.md)
+- [Capable — Carte doctrinale](../projects/capable/doctrine.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Démocratie capable](democratie_capable.md)
@@ -949,6 +950,9 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [Sénatoriales 2026 — dossier presse et page d’aiguillage](senatoriales-2026/dossier_presse_2026-09.md)
+- [Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani](notice_candidature_senatoriales_2026_medias.md)
+- [Trail — Capable](trails/capable.md)
 - [Trail — Une Corse capable](trails/une_corse_capable.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
@@ -962,7 +966,6 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->
-
 ---
 
 ## Continuation — 26 septembre 2026 : du concept à une forme parlementaire candidate

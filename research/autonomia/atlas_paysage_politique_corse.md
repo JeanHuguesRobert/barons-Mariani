@@ -7917,7 +7917,6 @@ L’[**Amendement d’effectivité — article 72-5**](amendement_effectivite_ar
 Pour l’Atlas, son intérêt principal est analytique : il matérialise une position qui ne se réduit ni à « davantage d’autonomie » ni à « moins d’autonomie ». Elle demande que les facultés prévues puissent être observées sous l’angle de leur **mise en œuvre effective**, de leur **évaluation périodique** et de leurs effets au regard de **Liberté, Égalité, Fraternité**.
 
 Statut : proposition publique ; aucun dépôt, soutien ou adoption parlementaire ne doit être inféré sans trace spécifique.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

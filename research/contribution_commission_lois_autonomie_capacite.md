@@ -644,5 +644,6 @@ La liste suivante est conservée comme trace de l'état préparatoire du dossier
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
 - [Research Index — barons-Mariani](index.md)
+- [Sénatoriales 2026 — kit presse post-scrutin du 27 septembre](senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md)
 - [Interaction Packets — Tableau de bord (JHR)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md)
 <!-- END_AUTO: backlinks -->

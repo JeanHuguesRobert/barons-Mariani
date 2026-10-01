@@ -1682,7 +1682,6 @@ Le 26 septembre 2026, le Corpus a publié l’[**Amendement d’effectivité —
 Ce lien ne doit pas être lu comme une filiation historique démontrée entre la Constitution corse de 1755 et le texte contemporain. Il documente une **continuité de méthode** : étudier les moments où la Corse produit des formes institutionnelles, puis soumettre une forme contemporaine à la même exigence de traçabilité, de critique et d’épreuve du Réel.
 
 L’amendement est volontairement publiable et appropriable : son but n’est pas de figer une rédaction propriétaire, mais d’augmenter la probabilité qu’un acteur institutionnel puisse la reprendre, la modifier ou la reformuler.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

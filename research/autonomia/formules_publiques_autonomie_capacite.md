@@ -7910,7 +7910,6 @@ Le stock de formules dispose désormais d’une projection institutionnelle publ
 Cette publication ne remplace pas les formules politiques ou pédagogiques du présent document. Elle fournit un point d’ancrage vérifiable pour la distinction entre **autonomie formelle**, **autonomie possible** et **autonomie de capacité** : conditions de mise en œuvre effective, évaluation périodique, accès aux habilitations et observation des effets au regard de **Liberté, Égalité, Fraternité**.
 
 Statut à conserver dans toute réutilisation : **proposition publique en forme parlementaire candidate ; aucun dépôt ni soutien parlementaire n’est présumé tant qu’une trace ne l’établit pas**.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

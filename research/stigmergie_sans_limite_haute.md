@@ -279,8 +279,10 @@ continuation:
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
 - [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
+- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
+- [Suicide Corse — Architecture éditoriale](../projects/suicide-corse/editorial-architecture.md)
 - [Test du critère Rossignol](test_critere_rossignol.md)
 - [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
 - [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)

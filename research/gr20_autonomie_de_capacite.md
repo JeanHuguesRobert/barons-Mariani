@@ -490,7 +490,6 @@ faculté formelle
 Le présent document sur le GR20 ne dépend juridiquement pas de cet amendement et ne doit pas être présenté comme son application directe. Le lien est méthodologique : une politique de capacité se juge aussi à la possibilité de vérifier si les instruments ouverts deviennent praticables et quels effets ils produisent réellement sur le territoire.
 
 ---
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 

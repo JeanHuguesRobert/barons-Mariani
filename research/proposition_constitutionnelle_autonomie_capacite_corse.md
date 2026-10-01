@@ -380,7 +380,6 @@ Le principe directeur reste le suivant :
 - [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->
-
 ## État de continuation — 26 septembre 2026
 
 Une dérivation plus étroite et directement insérable dans le texte parlementaire est désormais publiée : [**Amendement d’effectivité — article 72-5, v0.4-rc4**](autonomia/amendement_effectivite_article_72-5.md).

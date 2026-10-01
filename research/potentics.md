@@ -766,6 +766,7 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 
 *These documents link to this file:*
 - [Barons Mariani](../README.md)
+- [Capable — Carte doctrinale](../projects/capable/doctrine.md)
 - [Concept Index — barons-Mariani](concepts.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
@@ -778,6 +779,7 @@ Robert, J. H. (2026). What is Potentics? Toward a science of organized potential
 - [Rossignol — l’âne qui interroge le Réel](rossignol.fr.md)
 - [Rossignol — the donkey who questions Reality](rossignol.md)
 - [Sailing the Cognitive Waves](cognitive_waves.md)
+- [Trail — Capable](trails/capable.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
 <!-- END_AUTO: backlinks -->

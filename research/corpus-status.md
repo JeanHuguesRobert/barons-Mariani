@@ -43,6 +43,7 @@ provenance:
 | FractaVolta | yes | main | all | public | full |
 | marenostrum | yes | main | all | public | full |
 | barons-Mariani | yes | main | all | public | full |
+| suicide-corse | no | main | all | public | full |
 | inseme | yes | main | research | public | full |
 | survey | yes | main | all | public | full |
 | Inox | yes | master | all | public | full |
@@ -70,6 +71,7 @@ graph LR
   r_fractavolta["FractaVolta"]
   r_marenostrum["marenostrum"]
   r_barons_mariani["barons-Mariani"]
+  r_suicide_corse["suicide-corse"]
   r_inseme["inseme"]
   r_survey["survey"]
   r_inox["Inox"]
@@ -86,14 +88,14 @@ graph LR
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
-  r_cogentia -->|116| r_barons_mariani
-  r_barons_mariani -->|89| r_cogentia
+  r_cogentia -->|121| r_barons_mariani
+  r_barons_mariani -->|93| r_cogentia
   r_jeanhuguesrobert -->|68| r_barons_mariani
   r_fractavolta -->|54| r_cogentia
-  r_inseme -->|43| r_cogentia
+  r_inseme -->|45| r_cogentia
   r_fractavolta -->|37| r_marenostrum
   r_jeanhuguesrobert -->|36| r_cogentia
-  r_cogentia -->|29| r_inseme
+  r_cogentia -->|30| r_inseme
   r_barons_mariani -->|23| r_marenostrum
   r_barons_mariani -->|22| r_fractavolta
   r_fractavolta -->|22| r_inseme
@@ -104,6 +106,7 @@ graph LR
   r_marenostrum -->|19| r_cogentia
   r_inox -->|16| r_cogentia
   r_jeanhuguesrobert -->|16| r_marenostrum
+  r_barons_mariani -->|14| r_jeanhuguesrobert
   r_operium -->|13| r_cogentia
   r_inseme -->|12| r_fractavolta
   r_inseme -->|12| r_inox
@@ -120,7 +123,6 @@ graph LR
   r_cogentia -->|7| r_jeanhuguesrobert
   r_inseme -->|7| r_jeanhuguesrobert
   r_jeanhuguesrobert -->|7| r_inseme
-  r_barons_mariani -->|6| r_jeanhuguesrobert
   r_inseme -->|6| r_kudos
   r_jeanhuguesrobert -->|6| r_inox
   r_cogentia -->|5| r_fractavolta
@@ -132,10 +134,10 @@ graph LR
   r_operium -->|4| r_marenostrum
   r_ubikia -->|4| r_jeanhuguesrobert
   r_github -->|3| r_gouvernance
+  r_cogentia -->|3| r_inox
   r_jeanhuguesrobert -->|3| r_ubikia
   r_kudos -->|3| r_barons_mariani
   r_operium -->|3| r_barons_mariani
-  r_cogentia -->|2| r_inox
   r_gouvernance -->|2| r_barons_mariani
   r_gouvernance -->|2| r_fractavolta
   r_inox -->|2| r_jeanhuguesrobert
@@ -184,6 +186,13 @@ graph LR
 | [Machine à Rendre Capable](./concepts.md#machine-a-rendre-capable) | Global | Defined | abstract concept / capability architecture |
 | [Effet Ubik](./concepts.md#effet-ubik) | Global | Working | sociological / infrastructural pathology |
 | [Stabilisateurs (anti-Ubik / procéduraux)](./concepts.md#stabilisateurs-anti-ubik-proceduraux) | Global | Working | mechanism / anti-capture pattern |
+| [Principe d’effectivité](./concepts.md#principe-d-effectivite) | Global | Working | doctrinal principle / evaluation grammar |
+| [Triangle LEF / tensions capacitaires](./concepts.md#triangle-lef-tensions-capacitaires) | Individual → Collective → Institutional | Working | multi-axis evaluative framework |
+| [Fraternité effective](./concepts.md#fraternite-effective) | Interpersonal → Collective → Institutional | Working | relational-capability concept / evaluative dimension |
+| [Égalité effective](./concepts.md#egalite-effective) | Individual → Group → Collective | Working | capability distribution concept / evaluative dimension |
+| [Liberté effective](./concepts.md#liberte-effective) | Individual → Collective | Defined | capability concept / evaluative dimension |
+| [#Suvranu](./concepts.md#suvranu) | Individual → Collective → Democratic | Working | civic-capability concept / political horizon |
+| [Capable](./concepts.md#capable) | Individual → Local → Territorial → National → European | Working | civic-political projection / movement |
 | [Cogentia](./concepts.md#cogentia) | - | - | - |
 | [Cogentigram](./concepts.md#cogentigram) | Global | Working | representation / map |
 | [Potentics](./concepts.md#potentics) | Global | Defined | proposed transdisciplinary research programme / science of potentiality |
@@ -266,6 +275,13 @@ graph LR
   c_machine_a_rendre_capable["Machine à Rendre Capable"]
   c_effet_ubik["Effet Ubik"]
   c_stabilisateurs_anti_ubik_proceduraux["Stabilisateurs (anti-Ubik / procéduraux)"]
+  c_principe_d_effectivite["Principe d’effectivité"]
+  c_triangle_lef_tensions_capacitaires["Triangle LEF / tensions capacitaires"]
+  c_fraternite_effective["Fraternité effective"]
+  c_egalite_effective["Égalité effective"]
+  c_liberte_effective["Liberté effective"]
+  c_suvranu["#Suvranu"]
+  c_capable["Capable"]
   c_cogentia["Cogentia"]
   c_cogentigram["Cogentigram"]
   c_potentics["Potentics"]
@@ -422,6 +438,64 @@ graph LR
   c_stabilisateurs_anti_ubik_proceduraux -.-> c_continuation_protocol
   c_stabilisateurs_anti_ubik_proceduraux -.-> c_cognitive_packet
   c_stabilisateurs_anti_ubik_proceduraux -.-> c_dhitl_compute_exergy_comme_unite_tracable
+  c_principe_d_effectivite -.-> c_autonomie_de_capacite
+  c_principe_d_effectivite -.-> c_ecart_d_effectivite
+  c_principe_d_effectivite -.-> c_machine_a_empecher
+  c_principe_d_effectivite -.-> c_machine_a_explorer
+  c_principe_d_effectivite -.-> c_machine_a_rendre_capable
+  c_principe_d_effectivite -.-> c_booster_principle
+  c_principe_d_effectivite -.-> c_democratie_capable
+  c_principe_d_effectivite -.-> c_potentique_territoriale
+  c_triangle_lef_tensions_capacitaires -.-> c_liberte_effective
+  c_triangle_lef_tensions_capacitaires -.-> c_egalite_effective
+  c_triangle_lef_tensions_capacitaires -.-> c_fraternite_effective
+  c_triangle_lef_tensions_capacitaires -.-> c_principe_d_effectivite
+  c_triangle_lef_tensions_capacitaires -.-> c_booster_principle
+  c_triangle_lef_tensions_capacitaires -.-> c_methode_des_terrains_feconds
+  c_triangle_lef_tensions_capacitaires -.-> c_machine_a_explorer
+  c_triangle_lef_tensions_capacitaires -.-> c_machine_a_rendre_capable
+  c_triangle_lef_tensions_capacitaires -.-> c_corrigibilite
+  c_fraternite_effective -.-> c_liberte_effective
+  c_fraternite_effective -.-> c_egalite_effective
+  c_fraternite_effective -.-> c_non_abandon_capacitaire
+  c_fraternite_effective -.-> c_assistance_non_directive
+  c_fraternite_effective -.-> c_autonomie_de_capacite
+  c_fraternite_effective -.-> c_suvranu
+  c_fraternite_effective -.-> c_controle_capacite
+  c_fraternite_effective -.-> c_machine_a_rendre_capable
+  c_egalite_effective -.-> c_liberte_effective
+  c_egalite_effective -.-> c_principe_d_effectivite
+  c_egalite_effective -.-> c_autonomie_de_capacite
+  c_egalite_effective -.-> c_facteurs_de_conversion
+  c_egalite_effective -.-> c_ecart_d_egalite_effective
+  c_egalite_effective -.-> c_asymetrie_capacitaire
+  c_egalite_effective -.-> c_suvranu
+  c_egalite_effective -.-> c_machine_a_rendre_capable
+  c_liberte_effective -.-> c_principe_d_effectivite
+  c_liberte_effective -.-> c_autonomie_de_capacite
+  c_liberte_effective -.-> c_potentique
+  c_liberte_effective -.-> c_suvranu
+  c_liberte_effective -.-> c_machine_a_rendre_capable
+  c_liberte_effective -.-> c_liberte_de_non_usage
+  c_liberte_effective -.-> c_bifurcation
+  c_liberte_effective -.-> c_reversibilite
+  c_liberte_effective -.-> c_sortie
+  c_suvranu -.-> c_principe_d_effectivite
+  c_suvranu -.-> c_autonomie_de_capacite
+  c_suvranu -.-> c_democratie_capable
+  c_suvranu -.-> c_kudocracy
+  c_suvranu -.-> c_agent_mandate
+  c_suvranu -.-> c_controle_capacite
+  c_suvranu -.-> c_non_auto_elevation
+  c_suvranu -.-> c_capable
+  c_capable -.-> c_autonomie_de_capacite
+  c_capable -.-> c_democratie_capable
+  c_capable -.-> c_machine_a_explorer
+  c_capable -.-> c_machine_a_empecher
+  c_capable -.-> c_machine_a_rendre_capable
+  c_capable -.-> c_potentique_territoriale
+  c_capable -.-> c_effectivite
+  c_capable -.-> c_suvranu
   c_cogentia --> c_cogentigram
   c_cogentigram -.-> c_map_vs_territory
   c_cogentigram -.-> c_operational_memory
@@ -588,6 +662,13 @@ graph LR
   click c_machine_a_rendre_capable "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#machine-a-rendre-capable" "Open Machine à Rendre Capable"
   click c_effet_ubik "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#effet-ubik" "Open Effet Ubik"
   click c_stabilisateurs_anti_ubik_proceduraux "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#stabilisateurs-anti-ubik-proceduraux" "Open Stabilisateurs (anti-Ubik / procéduraux)"
+  click c_principe_d_effectivite "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#principe-d-effectivite" "Open Principe d’effectivité"
+  click c_triangle_lef_tensions_capacitaires "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#triangle-lef-tensions-capacitaires" "Open Triangle LEF / tensions capacitaires"
+  click c_fraternite_effective "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#fraternite-effective" "Open Fraternité effective"
+  click c_egalite_effective "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#egalite-effective" "Open Égalité effective"
+  click c_liberte_effective "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#liberte-effective" "Open Liberté effective"
+  click c_suvranu "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#suvranu" "Open #Suvranu"
+  click c_capable "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#capable" "Open Capable"
   click c_cogentia "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#cogentia" "Open Cogentia"
   click c_cogentigram "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#cogentigram" "Open Cogentigram"
   click c_potentics "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/concepts.md#potentics" "Open Potentics"
@@ -642,7 +723,7 @@ graph LR
 
 *Orphan concepts: `Civilizational Stakes` (cogentia), `Cogentia` (cogentia), `Cogentia Commons` (cogentia), `Sovereign Digital Twin` (cogentia), `Agent-Resumable CLI` (cogentia), `Kernel Extractor` (cogentia), `KYS (Know Your Self) / Psychocognitive Analysis` (cogentia), `Cogentia Workflows` (cogentia), `Packet Capsule` (cogentia), `Human-Routed Handoff` (cogentia), `Recursive Reality Test` (cogentia), `Eventual Reconciliation` (cogentia), `IPN (Inference Packet Network)` (FractaVolta), `EPN (Energy Packet Network)` (FractaVolta), `PGN (Power Generation Node)` (FractaVolta), `Packet Attractors (Fractanet routing)` (FractaVolta), `Packet as evolutionary attractor` (FractaVolta), `The Unconscious Grid` (FractaVolta), `Mariani Village` (FractaVolta), `Value-Shaped Solar` (FractaVolta), `Containerized Compute (Tera)` (FractaVolta), `Traceable Governance` (FractaVolta), `DHITL (Democratic Human In The Loop)` (marenostrum), `CXU (Compute and Exergy Unit)` (marenostrum), `Safe Compute Exergy` (marenostrum), `Constellia` (marenostrum), `Corsica Forest Synergies` (marenostrum), `Sun to Sovereignty` (marenostrum), `Civilizational Stakes` (barons-Mariani), `Cogentia` (barons-Mariani), `Presencology` (barons-Mariani), `Presence` (barons-Mariani), `Projection of The Possible` (barons-Mariani), `Cognitive Waves` (barons-Mariani), `Mimetic Desynchronization` (barons-Mariani), `Invidia` (barons-Mariani), `Transition Markets` (barons-Mariani), `The Uchronian Museum` (barons-Mariani), `Possibilism` (barons-Mariani), `Territoires Possibilistes` (barons-Mariani), `The Second Method` (barons-Mariani), `Discret Holography` (barons-Mariani), `COP (Continuous Operation Protocol)` (inseme), `Briques` (inseme), `Kudocracy` (inseme), `Agora` (inseme), `Ophélia` (inseme), `COP (Cognitive Orchestration Protocol)` (inseme), `Brique Spec / Multi-Instance` (inseme), `Modular System` (inseme), `Reactive sets` (Inox), `Actors` (Inox), `Dialects` (Inox).*
 
-*Referenced but undefined: `Democratic AI Safety`, `Cogentia Commons (déclinaison manuelle)`, `Fractanet / COP (déclinaison automatisée)`, `Stabilisateurs (anti-Ubik)`, `DHITL (couches 4/5)`, `Effet Ubik (opposé)`, `Machine à explorer (opposé symétrique)`, `FM-11 (outer optimizer capture)`, `Concentration de compute (85% frontier)`, `Invidia (densité sociale destructrice)`, `DHITL (Compute Exergy comme unité traçable)`, `Map vs territory`, `Operational memory`, `Traceable agency`, `Non-deterministic Cognitive Step`, `Causal Trace Replay`, `COP/HITL Profile`, `Rule 0 (seconde méthode)`, `DHITL Layer 5`, `Engagement levels (E3/E4)`, `Envelope (kind-agnostic metadata layer)`, `Payload (kind-specific content layer)`, `Continuation payload`, `Objection payload`, `Hypothesis payload`, `Decision payload`, `Failure payload`, `Routing payload`, `Source Document`, `DHITL`, `Machine à explorer (contrepartie exploratoire)`, `Machine à Rendre Capable (symétrique constructif)`, `Machine à empêcher (symétrique critique)`, `Machine à explorer (complément exploratoire)`, `Écart capacitaire`, `Situation de handicap comme écart capacitaire situé`, `Capabilities approach / facteurs de conversion`, `Rational Odyssey`, `Rational Exploration of The Possible`, `Potentiality Map`, `Explicit Supermap`, `Rich Stigmergy`, `Flotilla Architecture`, `Cartographer`, `Possibilism (academic framework)`, `COP (stigmergic orchestration)`, `DHITL (democratic human-in-the-loop)`, `Digital twins as cognitive liberation`, `Attractor-based exploration`, `Stateless agents for scalable exploration`, `Joy as method (against grim optimization)`, `Musée Mariani des Possibles (muséological application)`, `Applied Possibilism in agile style`, `Continuations as resumable exploration`, `Capabilities approach (Sen, Nussbaum)`, `Spécificité de phase`, `Flexibilité d'usage (redistributive vs. predatory)`, `Auto-institution démocratique (Castoriadis)`, `Communs (Ostrom)`, `Mauss — gift / counter-gift`, `Democratic AI Safety (thesis kernel)`, `DHITL — Democratic Humans in the Loop`, `Cogentia Commons (auditable knowledge)`, `Traçabilité civique anti-mafieuse`, `Muséologie capacitaire`, `Indice de friction administrative`, `Indice de capacité retrouvée`, `Grille de remise en service`, `Deterministic Replay (protocol layer only)`, `Energy Packet Network (FractaVolta)`, `Cognitive Packet envelope/payload (Cogentia)`, `Auxilia (Inseme brique — human-scale Fractanet exchange)`.*
+*Referenced but undefined: `Democratic AI Safety`, `Cogentia Commons (déclinaison manuelle)`, `Fractanet / COP (déclinaison automatisée)`, `Stabilisateurs (anti-Ubik)`, `DHITL (couches 4/5)`, `Effet Ubik (opposé)`, `Machine à explorer (opposé symétrique)`, `FM-11 (outer optimizer capture)`, `Concentration de compute (85% frontier)`, `Invidia (densité sociale destructrice)`, `DHITL (Compute Exergy comme unité traçable)`, `Map vs territory`, `Operational memory`, `Traceable agency`, `Non-deterministic Cognitive Step`, `Causal Trace Replay`, `COP/HITL Profile`, `Rule 0 (seconde méthode)`, `DHITL Layer 5`, `Engagement levels (E3/E4)`, `Envelope (kind-agnostic metadata layer)`, `Payload (kind-specific content layer)`, `Continuation payload`, `Objection payload`, `Hypothesis payload`, `Decision payload`, `Failure payload`, `Routing payload`, `Source Document`, `DHITL`, `Machine à explorer (contrepartie exploratoire)`, `Machine à Rendre Capable (symétrique constructif)`, `Machine à empêcher (symétrique critique)`, `Machine à explorer (complément exploratoire)`, `Écart capacitaire`, `Situation de handicap comme écart capacitaire situé`, `Capabilities approach / facteurs de conversion`, `Écart d’effectivité`, `Booster Principle`, `Démocratie capable`, `Potentique territoriale`, `Méthode des terrains féconds`, `corrigibilité`, `non-abandon capacitaire`, `assistance non directive`, `contrôle-capacité`, `facteurs de conversion`, `écart d’égalité effective`, `asymétrie capacitaire`, `Potentique`, `liberté de non-usage`, `bifurcation`, `réversibilité`, `sortie`, `Agent Mandaté`, `non-auto-élévation`, `Effectivité`, `Rational Odyssey`, `Rational Exploration of The Possible`, `Potentiality Map`, `Explicit Supermap`, `Rich Stigmergy`, `Flotilla Architecture`, `Cartographer`, `Possibilism (academic framework)`, `COP (stigmergic orchestration)`, `DHITL (democratic human-in-the-loop)`, `Digital twins as cognitive liberation`, `Attractor-based exploration`, `Stateless agents for scalable exploration`, `Joy as method (against grim optimization)`, `Musée Mariani des Possibles (muséological application)`, `Applied Possibilism in agile style`, `Continuations as resumable exploration`, `Capabilities approach (Sen, Nussbaum)`, `Spécificité de phase`, `Flexibilité d'usage (redistributive vs. predatory)`, `Auto-institution démocratique (Castoriadis)`, `Communs (Ostrom)`, `Mauss — gift / counter-gift`, `Democratic AI Safety (thesis kernel)`, `DHITL — Democratic Humans in the Loop`, `Cogentia Commons (auditable knowledge)`, `Traçabilité civique anti-mafieuse`, `Muséologie capacitaire`, `Indice de friction administrative`, `Indice de capacité retrouvée`, `Grille de remise en service`, `Deterministic Replay (protocol layer only)`, `Energy Packet Network (FractaVolta)`, `Cognitive Packet envelope/payload (Cogentia)`, `Auxilia (Inseme brique — human-scale Fractanet exchange)`.*
 <!-- END_AUTO: concept_graph -->
 ---
 
@@ -652,9 +733,15 @@ graph LR
 |---|---|---|
 | [Discours de la seconde méthode](second_method.md) *(founding methodological doctrine — v1.0)* | this repo | 2026-05-08 |
 | [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md) *(doctrinal kernel v0.5.1 — possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations and corpus vivant)* | this repo | 2026-06-16 |
+| [Égalité effective — Des mêmes droits aux capacités réellement accessibles](egalite_effective.md) *(source doctrinale v0.1-draft — distribution des capacités, facteurs de conversion, écarts d’effectivité, asymétries et anti-nivellement par le bas)* | this repo | 2026-09-27 |
+| [Fraternité effective — Ne pas abandonner, rendre capable](fraternite_effective.md) *(source doctrinale v0.1-draft — non-abandon capacitaire, entraide dans le temps utile, assistance sans substitution, anti-capture et soutenabilité)* | this repo | 2026-09-27 |
+| [Tensions entre Liberté, Égalité et Fraternité effectives](tensions_liberte_egalite_fraternite_effectives.md) *(source doctrinale v0.1-draft — triangle LEF, arbitrages gouvernés, refus du score unique, externalités et corrigibilité)* | this repo | 2026-09-27 |
+| [Capable Test v0.3-draft](../projects/capable/capable-test.md) *(grille intégrée d’effectivité, Liberté, Égalité, Fraternité, souveraineté, tensions et correction)* | this repo | 2026-09-27 |
+| [Principe d’effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md) *(source doctrinale v0.1-draft — validité, effectivité, efficacité, efficience, impact et boucle de confrontation gouvernée avec le Réel)* | this repo | 2026-09-27 |
+| [Capable — mouvement civique et politique](../projects/capable/README.md) *(project index — projection politique de l’Autonomie de Capacité, du triptyque des Machines, de l’effectivité et de #Suvranu ; doctrine source conservée dans les documents de recherche)* | this repo | 2026-09-25 |
 | [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
-| [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.14 — succède à `autonomie.md`)* | this repo | 2026-05-18 |
+| [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.15 — continuation constitutionnelle du 26 septembre reliée à l’amendement d’effectivité)* | this repo | 2026-05-18 |
 | [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.14 — dossier historique et Reality Test capacitaire ; tableau de bord public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
 | [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md) *(dashboard public v0.8 — actes, réponses, silences et enseignements du Reality Test ; distinct du document source [`autonomia/projet_1755.md`](autonomia/projet_1755.md))* | this repo | 2026-05 → |
@@ -725,7 +812,7 @@ graph LR
 | [PLU de Corte — Rapport OSINT provisoire sur Riacquistu Data-Driven (FR)](autonomia/plu_de_corte.md) *(enquête OSINT politique v0.5 — document source long pour publication ; statut explicitement exploratoire, non stabilisée doctrinalement)* | this repo | 2026-06-01 |
 | [Le théâtre des pays imaginaires de Corse — Fables sérieuses sur le processus de Beauvau (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau.md) *(produit décliné satirique et documentaire v0.1)* | this repo | 2026-05-28 |
 | [Le théâtre des pays imaginaires de Corse — version blogpost (FR)](autonomia/theatre_pays_imaginaires_corse_beauvau_blogpost.md) *(blogpost v0.1, dérivé du satirique)* | this repo | 2026-05-28 |
-| [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse (FR)](contribution_commission_lois_autonomie_capacite.md) *(v0.2 — contribution transmise le 28 mai 2026 et mentionnée dans le rapport n° 2865 ; influence causale précise non établie)* | this repo | 2026-05-28 |
+| [Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse (FR)](contribution_commission_lois_autonomie_capacite.md) *(v0.3 — trace historique du 28 mai reliée à la continuation constitutionnelle publiée le 26 septembre ; influence causale précise non établie)* | this repo | 2026-05-28 |
 | [Note synthétique pour examen parlementaire — Autonomie de capacité de la Corse (FR)](note_synthetique_autonomie_capacite_corse.md) *(operational note v0.1 — proposition de finalité constitutionnelle)* | this repo | 2026-05-24 |
 | [Courrier public aux six parlementaires de Corse — Pour une autonomie de capacité réelle (FR)](courrier_public_six_parlementaires_corse.md) *(public letter v0.6)* | this repo | 2026-05-24 |
 | [Proposition constitutionnelle — autonomie de capacité de la Corse (FR)](proposition_constitutionnelle_autonomie_capacite_corse.md) *(constitutional proposal v0.1 — contribution à la rédaction du futur article 72-5)* | this repo | 2026-05-24 |

@@ -1075,8 +1075,10 @@ Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent s
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
 - [Incremental Transmissible Corpus Model](modele_corpus_transmissible_incremental.md)
+- [Kudos : une monnaie complémentaire maussienne, adossée à l’euro, pour révéler les entraves à l’exploration rationnelle des possibles](kudos.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
+- [Suicide Corse — Architecture éditoriale](../projects/suicide-corse/editorial-architecture.md)
 - [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
 - [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
 <!-- END_AUTO: backlinks -->

@@ -550,6 +550,8 @@ continuation:
 - [La personne numérique mandatée](personne_numerique_mandatee.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [Sénatoriales 2026 — dossier presse et page d’aiguillage](senatoriales-2026/dossier_presse_2026-09.md)
+- [Trail — Capable](trails/capable.md)
 - [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
 - [Informational Gravity — Contextual Attraction for Cognitive-Packet Routing](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)
 - [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
@@ -559,7 +561,6 @@ continuation:
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->
-
 ## Cas d’application — publication de l’amendement d’effectivité
 
 La publication, le 26 septembre 2026, de l’[amendement d’effectivité — article 72-5](autonomia/amendement_effectivite_article_72-5.md) constitue un cas d’**Act** au sens de cette méthode : un état doctrinal a été transformé en objet public, daté, versionné et techniquement réutilisable.
