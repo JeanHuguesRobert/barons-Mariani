@@ -97,15 +97,20 @@ Journal de campagne correspondant : [`journals/2026-09-21-n2-bouclage-et-gel.md`
 
 ---
 
-Aucune autre édition figée n'est encore enregistrée au-delà des deux ci-dessus.
-
 ## Numéro 3 — Spécial sénatoriales — 30 septembre 2026
 
-Le 23 septembre 2026, Jean Hugues Robert a confirmé explicitement que **le numéro 2 est totalement bouclé** et que **le numéro 3 est désormais en construction**.
+**Statut : édition gelée sur décision explicite du 1er octobre 2026.** La [déclaration de gel](2026-09-30-n3-freeze.md) fixe le snapshot source, les empreintes et la portée du gel ; [l'issue #91](https://github.com/JeanHuguesRobert/barons-Mariani/issues/91) conserve le checkpoint de bouclage.
 
-Le chantier reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) et son journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
+- **Lecture HTML :** [édition n°3](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/index.html).
+- **PDF :** [édition n°3](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/suicide-corse-edition-2026-09-30-n3.pdf).
+- **EPUB :** [édition n°3](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/suicide-corse-edition-2026-09-30-n3.epub).
+- **Manifeste :** [manifest.json](https://suicidecorse.baronsmariani.org/editions/2026-09-30-n3/manifest.json).
+- **Commit source :** `a20919f95be54c8226bcd3df08b21f731d1d2e34` ; **commit des artefacts :** [`fc3de4a`](https://github.com/JeanHuguesRobert/suicide-corse/commit/fc3de4a).
+- **Revue :** auto-contrôles techniques et visuels réalisés ; revue contradictoire indépendante non achevée.
 
-Le numéro 3 est **« Spécial sénatoriales »**, avec une date éditoriale au **mercredi 30 septembre 2026**. Son **contenu éditorial est clos** au 30 septembre, mais son freeze reste à décider explicitement après rerender et vérification. La décision de date est [`audits/2026-09-30-special-senatoriales-editorial-date.md`](../audits/2026-09-30-special-senatoriales-editorial-date.md) et la borne de contenu est [`audits/2026-09-30-special-senatoriales-content-close.md`](../audits/2026-09-30-special-senatoriales-content-close.md).
+Le chantier historique reste suivi par [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). La projection gelée est le contenu de [`projections/book-n3-working.yml`](../projections/book-n3-working.yml) au commit source indiqué, même si le chemin conserve son nom historique. Le journal d'ouverture est [`journals/2026-09-23-n3-construction.md`](../journals/2026-09-23-n3-construction.md).
+
+Le numéro 3 est **« Spécial sénatoriales »**, daté du **mercredi 30 septembre 2026**. Sa borne de contenu est documentée par [`audits/2026-09-30-special-senatoriales-content-close.md`](../audits/2026-09-30-special-senatoriales-content-close.md) et sa décision de date par [`audits/2026-09-30-special-senatoriales-editorial-date.md`](../audits/2026-09-30-special-senatoriales-editorial-date.md).
 
 Le bouclage visait le lundi, puis le mardi 29 septembre : le scrutin a eu lieu dimanche 27 septembre et les réactions du lundi ont matériellement amélioré l'analyse du Reality Case. Cette étape reste documentée par [`audits/2026-09-29-special-senatoriales-late-close.md`](../audits/2026-09-29-special-senatoriales-late-close.md).
 
@@ -119,20 +124,4 @@ Son point de départ est le delta postérieur au n°2 gelé, notamment :
 - l'analyse post-scrutin du 29 septembre : résultats officiels, réactions publiques, correction des inférences excessives et **borne contrefactuelle 134–177 voix** pour le scénario de second tour, conservée comme borne et non comme prédiction ;
 - le dernier jalon du 30 septembre : accès préfectoral aux pièces confirmé, rendez-vous du **1er octobre à 14 h** accepté, demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. Le résultat de ce rendez-vous appartient au n°4.
 
-Pour ce dernier axe, le matériau canonique reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Il est enregistré comme **candidat éditorial** et non comme chapitre déjà décidé.
-
-Ces éléments sont des **entrées de construction**, non un sommaire arrêté.
-
-Jusqu'à cette décision de gel, **aucun HEAD courant n'est le snapshot définitif** : les previews suivent `main` sous Optimistic Locking afin de permettre les corrections de dernière minute. Le commit source est fixé seulement après le dernier refresh et la validation finale.
-
-Une édition effectivement gelée devra recevoir sa propre identité stable et référencer au minimum :
-
-- date du build ;
-- commit source ;
-- contrat de projection ;
-- version du renderer ;
-- artefacts HTML/PDF disponibles ;
-- éventuel tag ou release ;
-- statut de revue.
-
-Voir #44 pour le premier snapshot hebdomadaire.
+Le matériau canonique de cet axe reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Le gel interdit sa réinjection silencieuse dans le n°3 ; les développements ultérieurs relèvent du n°4 ou d'un erratum explicite. Le n°4 est [en construction dans l'issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90).

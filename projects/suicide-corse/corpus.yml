@@ -235,7 +235,7 @@ sources:
     path: projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md
     role: editorial-content-close-decision
     required: true
-    note: "Human content boundary for n°3: final included fact is the accepted 1 Oct prefecture consultation and narrowed request. Outcome of that appointment belongs to n°4. Technical freeze remains pending a fresh Phase A render."
+    note: "Historical human content boundary for n°3: final included fact is the accepted 1 Oct prefecture consultation and narrowed request. Outcome of that appointment belongs to n°4. At the time of this audit the technical freeze was pending; see the later freeze declaration."
 
   - id: suicide-corse-conservation-reprise-2026-09-30
     path: projects/suicide-corse/journals/2026-09-30-conservation-affichage-et-reprise.md
@@ -384,16 +384,25 @@ projections:
     rule: "Reproject the current Corpus freely; the previous edition constrains provenance and coverage, not form."
   numero_3:
     issue: 84
-    state: content-closed-pending-verification
+    freeze_issue: 91
+    state: frozen
     editorial_date: "2026-09-30"
     edition_label: "Spécial sénatoriales"
-    close_target: "Content closed Wednesday 30 September 2026; technical freeze pending verification"
+    close_target: "Content closed Wednesday 30 September 2026; freeze authorized 1 October 2026"
     editorial_date_audit: projects/suicide-corse/audits/2026-09-30-special-senatoriales-editorial-date.md
     content_close_audit: projects/suicide-corse/audits/2026-09-30-special-senatoriales-content-close.md
     contract: projects/suicide-corse/projections/book-n3-working.yml
+    freeze: projects/suicide-corse/editions/2026-09-30-n3-freeze.md
+    source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
+    artifact_commit: fc3de4a1c2d2738dee915a35c0922b25353edbd2
     journal: projects/suicide-corse/journals/2026-09-23-n3-construction.md
     baseline_commit: f061abb2484dc5ee973d81865db5c9d3b5854d58
     rule: "Collect the post-n2 delta without inheriting n2 composition or silently modifying frozen editions."
+  numero_4:
+    issue: 90
+    state: in-construction
+    contract: projects/suicide-corse/projections/book-n4-working.yml
+    rule: "Continue the live Corpus without silently changing frozen n3."
   screenplay:
     path: projects/suicide-corse/projections/screenplay.yml
   conversational_agent:
@@ -417,6 +426,8 @@ issues:
   testimony_intake: 80
   numero_2: 81
   numero_3: 84
+  numero_3_freeze: 91
+  numero_4: 90
 
 external_dependencies:
   - repository: JeanHuguesRobert/ubikia
@@ -483,4 +494,3 @@ open_gaps:
   - "Resolve the 25 September senatorial access-to-traces probes: server-side receipt of the 17:57:55 email, prefecture-to-TA transmission history, exact Sagace letter identity/time, judgment availability time, hearing trace/clerk/minute access, and the documentary basis of the judgment's reference to prefecture requests."
   - "Test the 26 September handicap / insularity cross-scale analogy: identify what structural invariant survives and where the analogy breaks; preserve privacy and do not equate individual disability law with territorial constitutional law."
   - "Open a longitudinal Reality Test of Capable itself: observe whether its public projections increase effective capacities, preserve sovereignty and correction, and react to adverse or unexpected effects. Condition of maturation: enough dated public traces to compare declared principles with observed effects without presuming success."
-

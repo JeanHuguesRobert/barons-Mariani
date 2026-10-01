@@ -67,17 +67,21 @@ Le gel interdit toute réinjection silencieuse de découvertes ultérieures. Les
 
 ### Suicide Corse n°3 — Spécial sénatoriales — mercredi 30 septembre 2026
 
-Le chantier éditorial actif est [l'issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84). Sa surface de travail est [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et son journal courant [`journals/2026-09-23-n3-construction.md`](journals/2026-09-23-n3-construction.md).
+Le n°3 est **gelé** sur décision explicite du 1er octobre 2026. Sa [déclaration de gel](editions/2026-09-30-n3-freeze.md) identifie le snapshot source `a20919f`, la projection rendue et ses empreintes ; [l'issue #91](https://github.com/JeanHuguesRobert/barons-Mariani/issues/91) trace le bouclage. L'ancienne [issue #84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84), le contrat [`projections/book-n3-working.yml`](projections/book-n3-working.yml) et le [journal de construction](journals/2026-09-23-n3-construction.md) restent des traces historiques.
 
 Le n°3 est **« Spécial sénatoriales »**, daté du **mercredi 30 septembre 2026**.
 
 Le bouclage visait d'abord le lundi 28 septembre, puis le mardi 29 septembre, pour laisser le scrutin du dimanche 27 et les réactions du lundi entrer dans l'analyse. Le 30 septembre 2026, la date éditoriale courante est portée au mercredi. Cette décision est enregistrée dans [`audits/2026-09-30-special-senatoriales-editorial-date.md`](audits/2026-09-30-special-senatoriales-editorial-date.md). L'audit du mardi reste dans [`audits/2026-09-29-special-senatoriales-late-close.md`](audits/2026-09-29-special-senatoriales-late-close.md).
 
-La cadence hebdomadaire du lundi reste la règle ordinaire. **Le contenu éditorial du n°3 est désormais clos au 30 septembre**, selon [`audits/2026-09-30-special-senatoriales-content-close.md`](audits/2026-09-30-special-senatoriales-content-close.md). Le numéro n'est pas encore gelé : un nouveau rendu HTML/PDF/EPUB de vérification doit être produit depuis le `main` courant.
+La cadence hebdomadaire du lundi reste la règle ordinaire. **Le contenu éditorial du n°3 a été clos au 30 septembre**, selon [`audits/2026-09-30-special-senatoriales-content-close.md`](audits/2026-09-30-special-senatoriales-content-close.md). Son rendu HTML/PDF/EPUB a ensuite été vérifié depuis le commit source fixé, sans confondre gel et revue contradictoire indépendante.
 
 Le principal delta tardif comprend la **borne contrefactuelle du second tour** : les 76 blancs et nuls ne suffisaient pas à eux seuls à empêcher l'élection au premier tour ; selon la conversion des non-exprimés, une troisième candidature aurait dû déplacer en outre entre **134 et 177 voix observées sur Parigi**. Cette plage mesure une condition arithmétique minimale ; elle n'est pas une prédiction.
 
 Le **dernier fait du numéro** est la réponse du Bureau des élections du 30 septembre : accès aux pièces confirmé, rendez-vous proposé puis accepté pour le **1er octobre à 14 h**, avec une demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. **Le résultat du rendez-vous appartient au n°4.**
+
+### Suicide Corse n°4 — en construction
+
+Le prochain numéro est suivi par [l'issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90). Il accueille les traces postérieures au snapshot du n°3 sans modifier l'édition gelée ; une correction du n°3 exige un erratum explicite ou une nouvelle édition.
 
 Principe : **attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre le bouclage indéfini.**
 
@@ -219,7 +223,9 @@ Une projection ne devient jamais automatiquement source de vérité pour les aut
 - [#75](https://github.com/JeanHuguesRobert/barons-Mariani/issues/75) — édition anniversaire et gel ;
 - [#80](https://github.com/JeanHuguesRobert/barons-Mariani/issues/80) — réception structurée des témoignages ;
 - [#81](https://github.com/JeanHuguesRobert/barons-Mariani/issues/81) — chantier historique du n°2 désormais gelé ;
-- [#84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84) — préparation active du n°3.
+- [#84](https://github.com/JeanHuguesRobert/barons-Mariani/issues/84) — construction historique du n°3 ;
+- [#91](https://github.com/JeanHuguesRobert/barons-Mariani/issues/91) — bouclage et gel du n°3 ;
+- [#90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90) — construction du n°4.
 
 Les issues spécialisées historiques restent partie du Corpus lorsqu'elles portent des traces, décisions, objections ou Continuations, sans devenir pour autant des sources canoniques stabilisées.
 
@@ -242,4 +248,3 @@ Le projet reste volontairement incomplet, mais l'incomplétude doit être visibl
 La publication de l’[amendement d’effectivité relatif au futur article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un Reality Case institutionnel extérieur au cas de Marie-Louise mais pertinent pour l’architecture de *Suicide Corse* : **droit ou faculté formelle → conditions de mise en œuvre → exercice ou non-usage → effets observables → correction possible**.
 
 Cette récurrence de structure ne doit jamais être traitée comme une identité de mécanisme ou comme une preuve causale transposable entre échelles. Elle sert à éprouver la robustesse de la grammaire capacitaire.
-
