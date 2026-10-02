@@ -131,6 +131,35 @@ ce qui fut possible
 → à quelles conditions cela pourrait le redevenir
 ```
 
+## 5 bis. Structure janusienne
+
+Le lien entre Musée uchronique et Musée des Possibles peut être formulé par la figure de **Janus**.
+
+~~~text
+PASSÉ                                      AVENIR
+ce qui fut / aurait pu être               ce qui pourrait être
+        \                                  /
+         \                                /
+          ─────── JANUS / PRÉSENT ───────
+         /                                \
+reconstruction                         exploration
+preuve / provenance                    hypothèse / expérience
+causalité bornée                       capacité / effectivité
+~~~
+
+Le présent est le seuil où ces deux regards se rencontrent.
+
+Le regard rétrospectif sert à reconstruire les conditions du possible : quels objets, savoirs, institutions, droits, ressources et pratiques ont permis à une forme de vie de tenir ?
+
+Le regard prospectif demande : parmi ces conditions, lesquelles peuvent être recomposées aujourd'hui, lesquelles doivent être inventées, et quels nouveaux possibles deviennent alors praticables ?
+
+La discipline janusienne interdit deux erreurs symétriques :
+
+- projeter les désirs du présent dans le passé comme s'ils avaient été des faits ;
+- traiter les futurs imaginés comme s'ils étaient déjà des résultats.
+
+Janus devient ainsi un opérateur de séparation et de circulation entre **preuve historique** et **exploration prospective**.
+
 ## 6. Méthode commune
 
 Le Musée uchronique et le Musée des Possibles ne sont pas deux projets séparés. Ils explorent le même espace selon deux axes temporels.
