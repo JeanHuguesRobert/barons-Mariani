@@ -419,7 +419,37 @@ Fonctions probatoires :
 
 Limite : cette pièce est antérieure au scrutin et n'établit ni l'heure de proclamation ni le résultat du 27 septembre.
 
-## 16. Principe de provenance
+
+## 16. Courriel au greffe du TA du 2 octobre — dix demandes factuelles numérotées
+
+Source publique expurgée :
+
+- `research/senatoriales-2026/investigation/sources/courriel-greffe-ta-demandes-numerotees-2026-10-02.md`
+- Gmail source : `1a0fbc6018fac906`
+- envoi : **2 octobre 2026 à 10:40:46 CEST**
+- fil Gmail : réponse directe au courriel de la greffière en chef du 1er octobre.
+
+Le message :
+
+- corrige la référence faite par le greffe à l'article L.292 en rappelant que l'article **L.303** régit le contentieux du refus d'enregistrement d'une candidature sénatoriale ;
+- rappelle l'échéance du **7 octobre 2026 à 18 heures** pour la contestation de l'élection ;
+- reformule les inconnues résiduelles en **dix demandes numérotées D1 à D10**, conçues pour recevoir chacune une réponse autonome et, si nécessaire, partielle ;
+- distingue explicitement la **présence actuelle** d'une pièce dans un dossier de sa **disponibilité effective pour la formation avant qu'elle statue** ;
+- demande l'identification d'un éventuel état chronologique complet du dossier ;
+- demande que les réponses soient communiquées « au fil de l'eau » sans attendre la résolution de tous les points ;
+- précise qu'une absence de réponse ne sera pas assimilée à une preuve d'inexistence ;
+- annonce qu'en cas d'inconnues persistantes, elles seront présentées comme telles au Conseil constitutionnel, avec possibilité de solliciter l'usage des pouvoirs d'instruction de l'article 42 de l'ordonnance n° 58-1067.
+
+Fonction probatoire :
+
+1. fixer exactement l'état des demandes adressées au greffe avant le dépôt de la requête au Conseil constitutionnel ;
+2. permettre une qualification ultérieure **demande par demande**, sans préjuger de la réponse ;
+3. documenter la diligence du requérant et l'évolution progressive des demandes à mesure que certaines inconnues sont fermées ;
+4. fournir un support à la matrice « trace recherchée / action possible / conséquence / réponse institutionnelle ».
+
+Les adresses personnelles des deux personnes mises en copie sont masquées dans la projection publique.
+
+## 17. Principe de provenance
 
 
 Pour toute assertion importante :
