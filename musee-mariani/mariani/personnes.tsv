@@ -1,7 +1,7 @@
 id	nom	prenoms_alias	naissance	deces	lieux	statut_source	source	notes
 MAR-ANTOINE-DOMINIQUE	Mariani	Antoine Dominique	1776	1845	Corse	probable	CORPUS-MARIANI	Premier baron Mariani selon le corpus; sources secondaires convergentes
 MAR-LOUIS-THOMAS	Mariani	Louis-Thomas Joseph Maurice Jérôme	1815	1890	Corse; Paris	etabli_mixte	CORPUS-MARIANI	Député de la Corse; sources institutionnelles déjà indexées
-MAR-LOUIS-HUGUES	Mariani	Louis-Hugues Ferdinand Marie	1815 ou 1818	1890 ou 1886	Bastia; Corse	discordant	CORPUS-MARIANI	Dates secondaires discordantes; époux indiqué de Marie Joséphine d’Angelis
+MAR-LOUIS-HUGUES	Mariani	Louis Hugues Ferdinand Marie; Louis-Hugues Ferdinand Marie; Louis Hugues Ferdinand-Marie	1815 ou 1818	1890 ou 1886	Corte; Bastia; Corse	discordant	CORPUS-MARIANI	Dates secondaires discordantes; graphie Louis/Hugues à fermer par acte primaire; plusieurs sources donnent Louis Hugues sans tiret; époux indiqué de Marie Joséphine d’Angelis
 DAN-MARIE-JOSEPHINE	d’Angelis	Marie Joséphine			Bastia	rapporte	DANGELIS-RELEVEMENT	Épouse indiquée de Louis-Hugues Mariani
 MAR-PIERRE	Mariani	Pierre; baron Pierre Mariani		1938-02-17	Corte; Bastia	rapporte	CASABIANCA-2010-MOUSSIA	Fils de Louis-Hugues selon Moussia; époux de Marguerite de Casabianca
 CAS-MARGUERITE-1861	de Casabianca	Marguerite	1861	1919-09-17	Bastia; Minesteggio	rapporte	CASABIANCA-2010-MOUSSIA	Épouse Pierre Mariani en 1893
