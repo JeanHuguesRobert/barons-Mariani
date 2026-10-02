@@ -121,6 +121,32 @@ analogie
 ```
 
 
+## 0.0 ter. Couche commune des Livres Vivants
+
+*Suicide Corse* instancie explicitement une grammaire commune décrite dans [Livre Vivant](../../research/livre_vivant.md) :
+
+~~~text
+niveau opérationnel
+Machine à Empêcher
+→ Machine à Explorer
+→ Machine à Rendre Capable
+
+niveau transversal
+Révélateur ↔ Stabilisateur
+~~~
+
+Le couple Révélateur/Stabilisateur est plus général que le triptyque. Il décrit comment l'enquête rend visibles les écarts puis rend durables les capacités, connaissances et traces suffisamment robustes, sans cacher leurs futurs échecs.
+
+Dans *Suicide Corse* :
+
+- le **Révélateur** rend reconstructibles les fermetures, écarts d'effectivité, contradictions et UNKNOWN ;
+- le **Stabilisateur** conserve les traces, diversifie les chemins, maintient les capacités ouvertes et rend leurs défaillances visibles ;
+- les trois Machines décrivent les mécanismes concrets sur lesquels cette méta-boucle opère.
+
+> **Pas de Révélateur sans perspective de stabilisation ; pas de Stabilisateur sans capacité de révéler ses propres échecs.**
+
+Cette couche est partagée avec [Rise & Fall](../rise-and-fall/architecture.md) et [DIASPORA](../diaspora/editorial-architecture.md), sans imposer à ces projets les mêmes Reality Cases ni les mêmes mécanismes.
+
 ## 0.1. Centre structural : Empêcher → Explorer → Rendre Capable
 
 Le centre structural de *Suicide Corse* est désormais le triptyque :
