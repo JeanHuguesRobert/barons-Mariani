@@ -172,6 +172,54 @@ Livre Vivant comme Stabilisateur
   méthodes, capacités et chemins de reprise
 ~~~
 
+### Cas particulier : le Livre Vivant du Musée Mariani des Possibles
+
+Le futur Livre Vivant consacré au **Musée Mariani des Possibles** fournit une instanciation particulièrement complète de cette grammaire commune.
+
+Il relève à la fois de la muséologie théorique, de la muséologie pratique et de la recherche épistémique :
+
+~~~text
+méthodes
+→ outils
+→ dispositifs muséaux
+→ réalisations
+→ observation des effets
+→ correction des méthodes
+~~~
+
+Sa structure temporelle est explicitement **janusienne** :
+
+~~~text
+regarder vers le passé
+→ reconstruire ce qui fut possible
+→ identifier les bifurcations, pertes, oublis et chemins non advenus
+
+JANUS
+
+regarder vers l'avenir
+→ explorer les futurs praticables
+→ rendre visibles les capacités latentes
+→ expérimenter, stabiliser et transmettre
+~~~
+
+Janus n'est pas ici une métaphore décorative. Il nomme une opération épistémique : **tenir simultanément la reconstruction du passé et l'exploration de l'avenir sans confondre les deux régimes de preuve**.
+
+Le passé impose des exigences de source, de provenance, de chronologie et de causalité. L'avenir relève de scénarios, capacités, conditions de possibilité, expériences et contrefactuels explicitement bornés.
+
+Le couple Révélateur/Stabilisateur traverse les deux faces :
+
+~~~text
+face passée
+Révélateur → rendre visibles les bifurcations et pertes
+Stabilisateur → conserver preuves, objets, gestes, provenance et mémoire
+
+face future
+Révélateur → rendre visibles les possibles latents et empêchements actuels
+Stabilisateur → transformer certains possibles en capacités durables et transmissibles
+~~~
+
+Le Musée Mariani des Possibles peut ainsi être compris comme un **Livre Vivant janusien** : une institution qui regarde en arrière pour comprendre ce qui a rendu le passé possible et en avant pour instruire ce qui pourrait encore le devenir.
+
 Les projets particuliers peuvent accentuer différemment ces fonctions :
 
 - *Suicide Corse* : révéler les écarts d'effectivité et tester les conditions de maintien/réouverture de capacités ;
