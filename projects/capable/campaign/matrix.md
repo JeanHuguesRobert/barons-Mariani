@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-02'
 last_modified_at: '2026-10-02'
-version: '0.2'
+version: '0.3'
 status: "working-note — operational matrix"
 language: fr
 license: CC BY-SA 4.0
@@ -159,7 +159,7 @@ Cas canonique :
 | 14/09 12:09 | demande, avant audience, que l'élément soit communiqué au TA s'il manque |
 | 15/09 08:42 | première demande structurée de traçabilité réception → transmission → disponibilité |
 | 01/10 | le TA indique que la contestation des jugements relève de la saisine du Conseil constitutionnel |
-| 02/10 | relance consolidée : les mêmes inconnues deviennent immédiatement utiles à la préparation du recours |
+| 02/10 13:33:55 | relance consolidée P1–P18 effectivement envoyée ; source primaire archivée |
 
 Cette chronologie interdit de traiter la relance du 2 octobre comme si elle créait ex nihilo une nouvelle série de questions.
 
@@ -174,6 +174,10 @@ Cette chronologie interdit de traiter la relance du 2 octobre comme si elle cré
 | CR-005 | Sous-préfecture de Corte | Modalités et heure limite de remise au représentant de l'État | 28/09 | Dépôt CC devenu imminent | P1 | PENDING |
 | CR-006 | Défenseur des droits | Enregistrement / traitement de la saisine sur l'effectivité | 26/09 | Chaîne institutionnelle et recours en cours | P4 | PENDING |
 | CR-007 | Conseil constitutionnel — élection | Requête et éventuelles mesures d'instruction | futur dépôt | Voie indiquée par le TA | MAIN EFFORT | NOT_TREATED |
+| CR-008 | Préfecture / Bureau élections | Relance consolidée P1–P18 envoyée le 02/10 à 13:33:55 | 02/10 13:33:55 | Invitation du TA à saisir le CC | P1→P4 selon groupe | PENDING |
+| CR-009 | Préfecture / Télérecours | Fichier natif, empreintes, PVN, accusés et provenance numérique | 02/10 13:33:55 | Besoin de vérifiabilité des pièces | P3 | PENDING |
+| CR-010 | Préfecture / chaîne décisionnelle | Création, finalisation, validation, signature et transmission de la saisine | 02/10 13:33:55 | Stabilisation factuelle avant recours | P3 | PENDING |
+| CR-011 | Préfecture / routage | Compétence, délégation et transmission à l'autorité compétente | 02/10 13:33:55 | Réponses partielles et routage demandés | P4 | PENDING |
 
 ## 7. Vue campagne : fronts et fonctions
 
@@ -298,7 +302,8 @@ Les QPC, Conseil d'État et CEDH sont des réserves à préparer sans détourner
 ## 13. Continuations
 
 - importer D1–D10 sous forme structurée ;
-- importer P1–P12 sous forme structurée avec `priority_mode: procedural` ;
+- source primaire : [courriel-tracabilite-prefecture-2026-10-02.md](../../research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md) ;
+- importer P1–P18 sous forme structurée avec `priority_mode: procedural` ;
 - documenter la saisine du Défenseur des droits et son état de réponse ;
 - intégrer les décisions primaires de 2017 et 2024 ;
 - construire une vue `acteur × demande` ;
