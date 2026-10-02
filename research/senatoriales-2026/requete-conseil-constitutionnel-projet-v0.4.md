@@ -17,7 +17,7 @@ classification_source: "cogentia.js"
 classification_version: "1"
 classification_rule: "corpus-legal"
 classification_confidence: "strong"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md"
 related_probe: "RP-SEN-09"
 focus: "examen effectif de la candidature — préfecture, handicap, régularisations praticables, contrôle propre du TA"
 source_documents:
@@ -32,6 +32,8 @@ source_documents:
   - "research/senatoriales-2026/investigation/defect-ledger.md"
   - "research/senatoriales-2026/investigation/knowledge-matrix.md"
   - "research/senatoriales-2026/investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md"
+  - "research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
+  - "research/senatoriales-2026/investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
   - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
@@ -54,6 +56,8 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 > Cette version 0.4 est centrée sur l'**examen effectif de la candidature** : nature exacte des formalités opposées, solutions matériellement praticables avant l'échéance, incidence de la situation de handicap de Mme Laurence Vernerey, comportement de régularisation du candidat et contrôle propre exercé — ou non — par le Tribunal administratif. Elle conserve le cadre procédural ouvert après le courriel du **1er octobre 2026** de la greffière en chef du Tribunal administratif de Bastia invitant le requérant à saisir le Conseil constitutionnel pour contester les jugements du 14 septembre. Ce courriel vise l'article **L.292** du code électoral ; la présente requête retient, sous réserve de correction contradictoire, l'article **L.303**, qui régit le refus d'enregistrement d'une candidature sénatoriale et prévoit que le jugement du tribunal administratif ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection.
 >
 > La version 0.4 intègre également l'état documentaire post-scrutin et les difficultés persistantes d'accès à certains éléments matériels des dossiers n° 2601714 et 2601715. Elle distingue strictement **faits établis, faits rapportés, inférences et inconnues**. La publication de ce projet ne transforme aucune hypothèse en fait et reste ouverte à correction avant dépôt.
+>
+> Depuis le **2 octobre à 13 h 33 min 55 s**, un front probatoire supplémentaire est formalisé : provenance numérique de la saisine préfectorale, chronologie de sa préparation et de sa validation, chaîne de décision/délégation, conservation des traces et éléments Télérecours. L'envoi de ces demandes est établi ; les réponses restent à ce stade **PENDING** et ne sont pas présumées.
 
 
 ---
@@ -106,6 +110,14 @@ La requête préfectorale originale du 11 septembre, retrouvée dans le dossier 
 À l'audience du 14 septembre, le requérant a remis au début des débats un document manuscrit recto-verso sur papier libre, daté, signé et portant les deux numéros d'instance. Son existence et son contenu sont conservés photographiquement ; la remise en main propre est rapportée par le requérant, tandis que le jugement confirme l'existence d'« observations écrites et orales ». Le requérant rapporte également avoir proposé le visionnage immédiat de la vidéo et avoir entendu la présidente indiquer, en substance, que l'absence des CERFA originaux sur support papier suffisait à ses yeux sans qu'il soit nécessaire d'examiner davantage les autres pièces. Cette déclaration d'audience n'est pas, à ce stade, corroborée par une trace institutionnelle identifiée et est donc présentée comme témoignage du requérant, non comme fait juridictionnel établi.
 
 Après le jugement, plusieurs demandes ont été adressées au greffe pour identifier les pièces, traces et métadonnées du dossier. Le 1er octobre 2026, la greffière en chef a refusé de donner suite aux six questions matérielles résiduelles en les rattachant globalement à des « explications ou commentaires complémentaires », tout en invitant le requérant à saisir le Conseil constitutionnel. La présente requête suit cette orientation substantielle sur le fondement de l'article L.303 du code électoral, et non de l'article L.292 cité dans ce courriel.
+
+### Nouveau front probatoire — provenance numérique et chaîne décisionnelle préfectorale
+
+Le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une relance consolidée comportant dix-huit demandes autonomes (P1–P18). Elles portent notamment sur la réception et le traitement du courriel de 17 h 57 min 55 s, les transmissions au TA, la chronologie de création/finalisation/validation de la saisine préfectorale, la compétence et la délégation, la conservation des traces, ainsi que le fichier natif effectivement transmis via Télérecours, ses noms de fichiers, empreintes, procès-verbal numérique et accusés.
+
+Une note forensic séparée constate que les PDF communiqués par le TA sont des bundles ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace primaire.
+
+À ce stade, la situation probatoire est donc volontairement dissociée : **demande envoyée = établie ; réponses demandées = non encore établies**. Si ces éléments demeurent indisponibles au moment du dépôt, ils pourront être identifiés comme inconnues et, le cas échéant, faire l'objet d'une demande d'instruction au titre de l'article 42 de l'ordonnance du 7 novembre 1958.
 
 Le scrutin du 27 septembre a donné 442 voix à M. Parigi, 88 à M. Battini, avec 36 bulletins blancs et 40 bulletins nuls. Ces nombres ne permettent pas, à eux seuls, d'inférer ce qu'aurait été le vote en présence d'une troisième candidature. Ils constituent néanmoins des données du scrutin réel à rapprocher, avec prudence, de l'exclusion préalable d'une offre électorale distincte. Le requérant sollicite donc une appréciation contentieuse fondée sur les faits établis et, pour les zones demeurées inconnues, les mesures d'instruction que le Conseil jugera utiles.
 
