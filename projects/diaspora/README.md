@@ -42,9 +42,10 @@ Le nom public visé est `diaspora.acorsica.org`. Ce dépôt ne le sert pas encor
 
 Entrées :
 
-- livre : [`web/book.html`](web/book.html) et [`manuscript/00-ouverture.md`](manuscript/00-ouverture.md)
+- livre : [`web/book.html`](web/book.html), [`manuscript/00-ouverture.md`](manuscript/00-ouverture.md) et [`manuscript/01-la-corse-furtive.md`](manuscript/01-la-corse-furtive.md)
 - annuaire : [`web/directory.html`](web/directory.html)
 - jeu de données : [`data/seed.json`](data/seed.json)
+- chantier « Corse furtive » : [`annexes/corse-furtive/README.md`](annexes/corse-furtive/README.md) et [`magazine/2026-10-02-corse-furtive.md`](magazine/2026-10-02-corse-furtive.md)
 - journal du Reality Test : [`journals/reality-test-2026-09-30.md`](journals/reality-test-2026-09-30.md)
 - issue : <https://github.com/JeanHuguesRobert/barons-Mariani/issues/96>
 
