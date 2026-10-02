@@ -38,6 +38,30 @@ Règle héritée : **geler l'édition, jamais la projection suivante.**
 
 Au 30 septembre 2026, aucune édition DIASPORA n'est gelée. `editions/index.md` le dit. Le site dans `web/` est une projection de travail.
 
+## Grammaire commune : trois Machines, Révélateur / Stabilisateur
+
+DIASPORA reprend aussi la couche doctrinale commune des Livres Vivants définie dans [Livre Vivant](../../research/livre_vivant.md).
+
+~~~text
+Machine à Empêcher
+→ Machine à Explorer
+→ Machine à Rendre Capable
+
+Révélateur ↔ Stabilisateur
+~~~
+
+Ici, la lecture candidate est :
+
+- **Machine à Empêcher** : invisibilité des capacités, fragmentation des réseaux, asymétries d'information, absence de chemin entre besoin et aide disponible ;
+- **Machine à Explorer** : annuaire, graphes de capacités, recherche, matching explicable, appels à contribution ;
+- **Machine à Rendre Capable** : mise en relation effective permettant à une personne, un projet ou une communauté d'accéder à une ressource ou compétence utilisable ;
+- **Révélateur** : rendre visibles les capacités dispersées, besoins non satisfaits, liens manquants et erreurs du graphe ;
+- **Stabilisateur** : préserver provenance, consentement, corrections, liens vérifiés, états du corpus et mécanismes reproductibles de mise en relation.
+
+> **Pas de Révélateur sans perspective de stabilisation ; pas de Stabilisateur sans capacité de révéler ses propres échecs.**
+
+Un annuaire figé et opaque pourrait devenir lui-même Machine à Empêcher ; un graphe vivant doit donc pouvoir signaler ses données périmées, ses faux positifs et ses capacités devenues inaccessibles.
+
 ## Triptyque
 
 > Le corps principal raconte. Le magazine actualise. Les annexes démontrent.
