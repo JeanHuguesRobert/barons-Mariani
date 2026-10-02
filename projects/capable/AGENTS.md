@@ -37,3 +37,16 @@ Pour chaque étape significative, produire si utile un encadré mental ou une co
 **Lentille Napoléon — action vraisemblablement évaluée**
 
 Cette section doit être concise, reliée aux faits du dossier et explicitement séparée de l'analyse juridique.
+
+
+## Provisional Cogentia Twin — Napoléon
+
+La lentille napoléonienne est désormais formalisée comme **Provisional Cogentia Twin — Napoléon Bonaparte**, hébergé par **Agent JHN / John** (`agent:jhn:john`).
+
+Source canonique :
+
+- https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/twin/profiles/napoleon-provisional.md
+
+Ce Twin provisoire n'est pas un `LogicalAgent` autonome. Il est exécuté comme spécialisation cognitive d'Agent JHN tant qu'aucun besoin distinct de mandat, budget, révocation ou imputabilité autonome ne justifie sa promotion.
+
+Ses sorties doivent rester explicitement séparées des faits, de la qualification juridique et de la décision humaine.
