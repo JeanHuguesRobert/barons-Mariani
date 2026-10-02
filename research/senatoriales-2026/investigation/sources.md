@@ -479,3 +479,20 @@ limitations: ""
 La provenance fait partie de l'information.
 
 Une assertion sans provenance identifiable doit être considérée comme incomplète jusqu'à qualification.
+
+## 19. Courriels du 1er octobre sur le lieu du rendez-vous — pièces P-37 et P-38
+
+Sources publiques :
+
+- `research/senatoriales-2026/investigation/sources/courriel-prefecture-adresse-rendez-vous-2026-10-01.md`
+- Gmail source : `1a0f684784d5932a`
+- réception : **1er octobre 2026 à 10:11:07 CEST**
+- expéditeur : Adrien Vidal, chef du Bureau des élections et de la démocratie locale
+
+Le message indique que le rendez-vous de 14 h a lieu au 15 Avenue Jean Zuccarelli, et que les salons de la préfecture ne sont pas disponibles ce jour-là. Les adresses électroniques et le téléphone de la signature ne sont pas reproduits.
+
+- `research/senatoriales-2026/investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md`
+- Gmail source : `1a0f703e9f4e8814`
+- envoi : **1er octobre 2026 à 12:30:20 CEST**
+
+La réponse remercie, situe l'avenue par rapport à un souvenir familial et à des terrains dont la famille a été expropriée, puis annonce un train arrivant en principe à 15 h à Bastia et un retard. Elle n'établit pas l'heure d'arrivée effective. Elle ne dresse aucun inventaire des pièces de la consultation.

@@ -204,6 +204,8 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 | investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md |
 | **P-35** | 02/10 13:33:55 | Relance consolidée P1–P18 à la préfecture | Établit les demandes de traçabilité, provenance numérique, chaîne de décision, conservation et routage ; réponses encore PENDING | investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md |
 | **P-36** | 02/10 | Note forensic sur la provenance numérique de la requête préfectorale | Analyse dérivée : bundles TA recomposés, contenu lisible mais provenance native non exposée ; ne prouve ni disparition ni altération fautive | investigation/forensic-provenance-requete-prefectorale-2026-10-02.md |
+| **P-37** | 01/10 10:11:07 | Adresse du rendez-vous | 15 Avenue Jean Zuccarelli ; salons de la préfecture indisponibles ce jour-là | investigation/sources/courriel-prefecture-adresse-rendez-vous-2026-10-01.md |
+| **P-38** | 01/10 12:30:20 | Réponse sur cette adresse | Phrase familiale et expropriation ; train annoncé en principe à 15 h ; retard annoncé. Ni l'arrivée effective ni l'inventaire des pièces | investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -249,7 +251,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v1.2
 
-- La requête et le présent inventaire utilisent désormais les identifiants P-01 à P-36.
+- La requête, non modifiée par l'ajout suivant, s'arrête à P-36. L'inventaire d'enquête comprend en outre P-37 et P-38, l'adresse du rendez-vous du 1er octobre et la réponse de 12 h 30.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
