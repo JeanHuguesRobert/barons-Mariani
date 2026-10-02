@@ -1,0 +1,5 @@
+year,department,candidates,registered,voters,blank,null,nonexpressed,expressed,nonexpressed_rate_pct,first_round_window,source
+2020,2A,2,427,404,29,31,60,344,14.8515,"08:30-11:00","https://www.archives-resultats-elections.interieur.gouv.fr/resultats/senatoriales-2020/02A/index.php"
+2020,2B,5,575,572,8,6,14,558,2.4476,"08:30-11:00","https://www.archives-resultats-elections.interieur.gouv.fr/resultats/senatoriales-2020/02B/index.php"
+2026,2A,4,465,458,2,4,6,452,1.3100,"08:30-11:00","https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html"
+2026,2B,2,616,606,36,40,76,530,12.5413,"08:30-11:00","https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html"
