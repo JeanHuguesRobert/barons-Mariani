@@ -14,6 +14,12 @@ architecture:
   rule: "Corpus, inquiry architecture, documentary architecture and editorial architecture are distinct but interoperable."
 
 sources:
+  - id: senatoriales-2026-statistical-comparison-2a-2b-2020-2026
+    path: research/senatoriales-2026/investigation/analyse_statistique_comparee_2A_2B_2020_2026.md
+    role: comparative-electoral-statistical-analysis
+    required: true
+    note: "Matched 2A/2B comparison for 2020 and 2026; publishes model-based uncertainty for non-expression rates, while explicitly excluding causal or counterfactual outcome probabilities."
+
   - id: procedures-2024-2026-reactivation-register
     path: memory/marie-louise/procedures_2024_2026_reactivation_register.md
     role: procedural-reactivation-and-reparation-register
