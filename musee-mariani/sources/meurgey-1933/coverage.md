@@ -14,7 +14,7 @@ github_issue: 97
 | hors-texte Corte / Minesteggio | Pièces Mariani DRAC | identified | photographies |
 | p. 1 | Pièces Mariani DRAC, sous-ensemble Meurgey, scan 4 haut | draft-transcription | première passe visuelle effectuée |
 | p. 2 | Pièces Mariani DRAC, sous-ensemble Meurgey, scan 4 bas | draft-transcription | deux passes visuelles ; quelques noms propres restent incertains |
-| p. 3 | Pièces Mariani DRAC, scan 5 haut | identified | numéro papier visible |
+| p. 3 | Pièces Mariani DRAC, scan 5 haut | draft-transcription | deux passes visuelles ; citation Louis Mariani / « Papiers de la famille Mariani » |
 | p. 4 | Pièces Mariani DRAC, scan 5 bas | identified | numéro papier visible |
 | p. 5 | Pièces Mariani DRAC, scan 6 haut | identified | numéro papier visible |
 | p. 6 | Pièces Mariani DRAC, scan 6 bas | identified | numéro papier visible |
