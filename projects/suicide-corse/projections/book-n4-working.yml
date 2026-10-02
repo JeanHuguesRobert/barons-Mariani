@@ -17,7 +17,7 @@ predecessor_verification_issue: 89
 construction:
   state: zero-state-recorded
   activation: "editorial activation recorded on 2026-10-02, after the explicit n3 freeze"
-  baseline_repository_commit: 97d66af4ea482732f605cfed56265d4990a4eff3
+  baseline_repository_commit: 88c4d11f5d1aef2a9eaa9a32b6b8c5eade777f9d
   zero_state_journal: ../journals/2026-10-02-n4-etat-zero.md
   predecessor_freeze:
     source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
@@ -56,6 +56,7 @@ campaign_references:
   prefecture_email: ../../../research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
   ta_email: ../../../research/senatoriales-2026/investigation/sources/courriel-greffe-ta-demandes-numerotees-2026-10-02.md
   petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
+  forensic_note: ../../../research/senatoriales-2026/investigation/forensic-provenance-requete-prefectorale-2026-10-02.md
   eim_instance: "JeanHuguesRobert/cogentia@de6e9cfc685777d00e4ee81c60ae7998d6543516:research/eim_examples/2026-10-02-prefecture-p1-p18.yaml"
   issues: [98, 101, 102, 95, 88]
 
