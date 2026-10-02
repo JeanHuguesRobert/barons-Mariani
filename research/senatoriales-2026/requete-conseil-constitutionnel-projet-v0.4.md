@@ -322,17 +322,19 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 ---
 
-### GRIEF N° 4 : Complétude de la transmission préfectorale et asymétrie d'information procédurale
+### GRIEF N° 4 : Complétude de la transmission préfectorale, provenance numérique et asymétrie d'information procédurale
 
-* **FAIT ÉTABLI** : la requête préfectorale P-14 énumère désormais précisément les seize pièces de son bundle initial. Cet inventaire ne comprend ni le courriel préfectoral de 16 h 14 min 05 s accusant réception des documents (**P-11**), ni le courriel du candidat de 17 h 57 min 55 s contenant le lien vers la vidéo (**P-12**).
+* **FAIT ÉTABLI** : la requête préfectorale P-14 énumère précisément les seize pièces de son bundle initial. Cet inventaire ne comprend ni le courriel préfectoral de 16 h 14 min 05 s accusant réception des documents (**P-11**), ni le courriel du candidat de 17 h 57 min 55 s contenant le lien vers la vidéo (**P-12**).
+* **FAIT ÉTABLI POSTÉRIEUREMENT** : le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une demande consolidée de traçabilité (**P-35**) visant notamment le fichier électronique natif de la saisine, son nom original, ses éventuelles empreintes, le procès-verbal numérique Télérecours, les accusés de dépôt/enregistrement et la chronologie de création, finalisation, validation et transmission.
+* **OBSERVATION TECHNIQUE BORNÉE** : l'analyse P-36 montre que les bundles communiqués par le TA sont des objets recomposés ultérieurement ; ils permettent de lire le contenu de la requête mais n'exposent pas, à eux seuls, la provenance numérique complète du fichier natif préfectoral. Il n'en est déduit ni disparition de l'original numérique ni irrégularité de la recomposition.
 * **FAIT NON ÉTABLI** : l'heure exacte à laquelle P-12 a été accepté par l'infrastructure de messagerie de la préfecture et son traitement avant ou après la saisine de 18 h 16 restent inconnus. Il n'est donc pas soutenu comme fait acquis que la préfecture aurait matériellement détenu P-12 avant de saisir le TA.
-* **FAIT OUVERT** : l'existence d'une production préfectorale complémentaire entre la saisine initiale et le jugement demeure à établir.
-* **PREUVE** : requête préfectorale et bundle initial (**P-14**) ; courriel de 16 h 14 (**P-11**) ; courriel de 17 h 57 min 55 s (**P-12**) ; alerte du 14 septembre (**P-15**) ; échanges ultérieurs avec le greffe (**P-29 à P-33**).
-* **RÈGLE** : principe du contradictoire et régime de communication des productions ; l'article R.611-1 CJA prévoit notamment la communication aux parties de la requête, du premier mémoire de chaque défendeur et de leurs pièces jointes, ainsi que des autres productions lorsqu'elles contiennent des éléments nouveaux.
-* **ÉCART ALLÉGUÉ** : le requérant soutient qu'il est nécessaire d'établir complètement la chaîne « reçu par la préfecture → versé au TA → communiqué aux parties → disponible pour la formation » avant de qualifier juridiquement l'éventuelle lacune.
-* **INCIDENCE** : la réponse conditionne l'appréciation de ce dont le juge disposait effectivement pour examiner la diligence du candidat et les éléments contemporains relatifs au consentement.
-* **INCERTITUDE RÉSIDUELLE** : heure d'acceptation de P-12 par l'infrastructure de l'État ; éventuelles transmissions ultérieures ; date et heure de leur enregistrement et communication.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : demander à la préfecture les traces techniques utiles et l'historique de transmission au TA ; demander au TA le dossier complet des productions initiales et complémentaires avec leurs métadonnées d'enregistrement.
+* **FAITS OUVERTS** : l'existence d'une production préfectorale complémentaire entre la saisine initiale et le jugement ; le fichier exact déposé dans Télérecours ; les empreintes/PVN et accusés correspondants ; la chronologie de préparation et de validation de la saisine.
+* **PREUVE** : requête préfectorale et bundle initial (**P-14**) ; courriel de 16 h 14 (**P-11**) ; courriel de 17 h 57 min 55 s (**P-12**) ; alerte du 14 septembre (**P-15**) ; échanges ultérieurs avec le greffe (**P-29 à P-33**) ; demande P1–P18 (**P-35**) ; note forensic (**P-36**).
+* **RÈGLE** : principe du contradictoire et régime de communication des productions. En outre, l'arrêté du 2 mai 2018 relatif à Télérecours prévoit un dispositif de procès-verbal numérique calculant une empreinte pour chaque document transmis et des accusés permettant d'établir les dates et heures de dépôt et d'enregistrement.
+* **ÉCART ALLÉGUÉ** : le requérant soutient qu'il est nécessaire d'établir complètement la chaîne « reçu par la préfecture → préparé/validé → déposé dans Télérecours → versé au dossier → communiqué aux parties → disponible pour la formation » avant de qualifier juridiquement l'éventuelle lacune.
+* **INCIDENCE** : la réponse conditionne l'appréciation de ce dont le juge disposait effectivement pour examiner la diligence du candidat et les éléments contemporains relatifs au consentement, ainsi que la possibilité de dater précisément l'état du dossier préfectoral au moment de la saisine.
+* **INCERTITUDE RÉSIDUELLE** : heure d'acceptation de P-12 par l'infrastructure de l'État ; éventuelles transmissions ultérieures ; fichier natif déposé ; empreintes/PVN ; accusés ; date et heure de création, finalisation, validation et transmission.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : demander à la préfecture et, si nécessaire, au TA les traces techniques utiles, le fichier natif de la saisine, les fichiers joints dans leur état de dépôt, leurs noms originaux, le PVN/XML d'empreintes et les accusés de dépôt/enregistrement ; demander le dossier complet des productions initiales et complémentaires avec leurs métadonnées d'enregistrement.
 
 ### GRIEF N° 4 bis : Difficulté d'exercice effectif du recours prévu par l'article L.303 et persistance d'éléments matériels non communiqués
 
@@ -341,8 +343,8 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 * **RÈGLE** : Article L.303 du code électoral ; articles 33, 35 et 42 de l'ordonnance n° 58-1067 ; article 3 du Protocole n° 1 CEDH invoqué comme cadre d'effectivité du droit de se porter candidat.
 * **ÉCART** : Le requérant ne soutient pas qu'il existerait un délai légal autonome imposant au greffe de répondre sous quelques heures. Il soutient que la combinaison d'une voie de recours différée, d'un délai de dix jours post-proclamation et de l'indisponibilité persistante de faits matériels détenus ou vérifiables par les institutions concernées peut réduire la capacité pratique à présenter la contestation de manière complètement informée.
 * **INCIDENCE** : Plusieurs moyens doivent être formulés avant le 7 octobre à 18 h alors que des faits utiles à leur qualification restent non établis.
-* **INCERTITUDE RÉSIDUELLE** : Existence, contenu et communicabilité exacts de certains documents ; justification propre à chacun des refus ou non-réponses ; effet réel de ces éléments sur le jugement initial.
-* **MESURE D'INSTRUCTION SOLLICITÉE** : Se faire communiquer, sur le fondement de l'article 42 de l'ordonnance, le dossier complet des instances, les éventuelles productions postérieures au bundle initial P-14, la minute signée du jugement, les éléments permettant d'identifier l'entrée Sagace « Réception d'une lettre » et, s'ils existent, les documents retraçant matériellement l'audience.
+* **INCERTITUDE RÉSIDUELLE** : Existence, contenu et communicabilité exacts de certains documents ; justification propre à chacun des refus ou non-réponses ; état des réponses P1–P18 ; effet réel de ces éléments sur le jugement initial.
+* **MESURE D'INSTRUCTION SOLLICITÉE** : Se faire communiquer, sur le fondement de l'article 42 de l'ordonnance, le dossier complet des instances, les éventuelles productions postérieures au bundle initial P-14, la minute signée du jugement, les éléments permettant d'identifier l'entrée Sagace « Réception d'une lettre » et, s'ils existent, les documents retraçant matériellement l'audience ; obtenir également les éléments de Télérecours permettant d'objectiver la chronologie et l'intégrité des dépôts lorsque ces éléments sont utiles à la résolution des inconnues documentaires.
 
 ---
 
@@ -431,7 +433,8 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
    - Le versement aux débats et le visionnage de l'enregistrement vidéo contemporain du 11 septembre 2026 (Pièce P-13) conservé au registre d'intégrité de la défense ;
    - La production par le Tribunal administratif de Bastia de la **minute signée du jugement** du 14 septembre 2026 et, s'ils existent, des procès-verbaux, plumitifs, fiches, notes d'audience ou documents équivalents retraçant matériellement l'audience ;
    - La production de l'historique des pièces postérieures au bundle initial PREF-1 à PREF-16 désormais identifié, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
-   - La communication, si elles existent, des métadonnées permettant de dater la rédaction, la génération, la signature et la finalisation de la requête préfectorale P-14, distinctement de son enregistrement Télérecours à 18 h 16 ;
+   - La communication du **fichier électronique natif effectivement déposé dans Télérecours** au titre de la saisine préfectorale P-14, dans son état de dépôt, ainsi que, s'ils existent séparément, du fichier source ayant servi à le générer, des noms originaux des fichiers joints, du procès-verbal numérique/XML contenant leurs empreintes et des accusés de dépôt et d'enregistrement horodatés ;
+   - La communication, si elles existent, des métadonnées et traces permettant de dater séparément la création, la rédaction, la génération, la modification, la validation/signature et la finalisation de la requête préfectorale P-14, distinctement de son enregistrement Télérecours à 18 h 16 ;
    - La production des éléments permettant d'établir comment la situation de handicap de Mme Vernerey, l'autorisation donnée au candidat et la jurisprudence du Conseil d'État du 14 mai 2021 ont été examinées, tant par l'administration que par la formation de jugement ;
    - La communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
 3. **DÉCLARER ILLÉGALE ET NULLE** la décision de refus d'enregistrement opposée à la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey ;
@@ -480,6 +483,8 @@ Le présent bordereau est synchronisé avec l'inventaire probatoire détaillé. 
 | **P-32** | 25/09 16:50:46 | Six questions matérielles résiduelles | Questions limitées après lecture du jugement |
 | **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation à saisir le CC ; référence L.292 |
 | **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 |
+| **P-35** | 02/10 13:33:55 | Relance consolidée P1–P18 à la préfecture | Demandes de traçabilité, provenance numérique, chaîne de décision, conservation et routage ; réponses PENDING |
+| **P-36** | 02/10 | Note forensic sur la provenance numérique de P-14 | Analyse dérivée des bundles TA ; provenance native encore ouverte |
 
 ### Sous-inventaire de P-14 — bundle initial de la saisine préfectorale
 
@@ -514,7 +519,9 @@ Le présent bordereau est synchronisé avec l'inventaire probatoire détaillé. 
 - distingue désormais explicitement deux griefs institutionnels : traitement préfectoral de la candidature et contrôle propre du TA au titre de L.303 ;
 - ajoute une demande d'instruction sur la date réelle de rédaction, génération, signature et finalisation de la requête préfectorale, distincte de son dépôt Télérecours à 18 h 16 ;
 - réserve à une **v0.5** la démonstration spécifique du caractère réel et sérieux de la perte de chance et des dommages temporels irréversibles ;
-- conserve la discipline « fait établi / fait rapporté / inférence / UNKNOWN ».
+- conserve la discipline « fait établi / fait rapporté / inférence / UNKNOWN » ;
+- ajoute **P-35 et P-36** au bordereau et renforce le grief n°4 autour de la provenance numérique, du PVN Télérecours et de la chaîne de validation, sans transformer les inconnues en fautes établies ;
+- précise les mesures d'instruction demandées sur le fichier natif, les empreintes/PVN et les accusés de dépôt/enregistrement.
 
 ## CHANGELOG v0.3 — 1er octobre 2026
 
