@@ -459,3 +459,33 @@ ou laisser inchangée
 ```
 
 chacune des branches.
+
+
+---
+
+## P12 — cross-over 2A/2B, 2020/2026
+
+Jalon statistique canonique :
+
+`research/senatoriales-2026/investigation/analyse_statistique_comparee_2A_2B_2020_2026.md`
+
+Le motif descriptif est répliqué sur deux renouvellements :
+
+~~~text
+2020
+2 candidats en 2A  → 14,85 % blancs+nuls
+5 candidats en 2B  →  2,45 %
+
+2026
+4 candidats en 2A  →  1,31 %
+2 candidats en 2B  → 12,54 %
+~~~
+
+Dans chaque année, les deux scrutins corses majoritaires se déroulent le même jour et dans la même fenêtre légale 08:30–11:00.
+
+Sous un modèle binomial de travail, les différences de propension de non-expression sont très nettement séparées, mais le nombre d'élections reste égal à quatre : aucune causalité ne doit être déduite par pseudo-réplication des bulletins.
+
+Effet sur l'uchronie :
+- renforce l'intérêt empirique de U1/U2/U4 comme mécanismes à instruire ;
+- ne quantifie toujours pas U3 ;
+- interdit de convertir cette association en probabilité de second tour.
