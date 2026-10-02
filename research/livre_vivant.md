@@ -110,6 +110,93 @@ Une édition n'est donc jamais le Corpus.
 
 Elle est un **état daté, sélectionné, composé et éventuellement gelé du Corpus**.
 
+## 1 bis. Grammaire commune des Livres Vivants : trois Machines et une méta-boucle
+
+Les Livres Vivants du Corpus tendent à partager une grammaire plus générale que leur objet éditorial propre.
+
+Au niveau **opérationnel**, trois fonctions reviennent :
+
+~~~text
+Machine à Empêcher
+→ réduit, ferme, fragilise ou retire des capacités effectives
+
+Machine à Explorer
+→ recherche les branches, alternatives, contradictions et futurs encore ouverts
+
+Machine à Rendre Capable
+→ transforme certains possibles en capacités effectivement praticables
+~~~
+
+Ces trois fonctions ne sont pas des institutions ni des catégories morales. Une même personne, règle, procédure, infrastructure ou publication peut participer à plusieurs fonctions selon le contexte.
+
+Au niveau **transversal**, un couple plus général encore organise la relation du Livre Vivant au Réel :
+
+~~~text
+Révélateur
+↔
+Stabilisateur
+~~~
+
+Le **Révélateur** rend visibles les écarts, contradictions, pertes de capacité, inconnues, erreurs de carte, effets inattendus et échecs d'effectivité.
+
+Le **Stabilisateur** rend durables, transmissibles, reproductibles et corrigibles les capacités, connaissances, procédures ou états du Corpus qui méritent de tenir dans le temps.
+
+Le couple n'est pas une quatrième et une cinquième Machine. Il constitue une **méta-boucle épistémique et temporelle** qui traverse les trois Machines :
+
+~~~text
+empêchement
+→ révélation
+→ exploration
+→ capacité ouverte
+→ stabilisation
+→ mesure d'effectivité
+→ nouvel écart éventuel
+→ révélation
+→ correction
+~~~
+
+Invariant :
+
+> **Pas de Révélateur sans perspective de stabilisation ; pas de Stabilisateur sans capacité de révéler ses propres échecs.**
+
+Un Révélateur qui ne laisse aucune prise pour agir risque de produire seulement de l'impuissance descriptive. Un Stabilisateur qui masque ses écarts ou rend ses erreurs difficiles à voir peut devenir lui-même une Machine à Empêcher.
+
+Cette méta-boucle donne une fonction générale au Livre Vivant lui-même :
+
+~~~text
+Livre Vivant comme Révélateur
+→ rendre le Réel reconstructible, contestable et interrogeable
+
+Livre Vivant comme Stabilisateur
+→ préserver provenance, états, corrections, éditions gelées,
+  méthodes, capacités et chemins de reprise
+~~~
+
+Les projets particuliers peuvent accentuer différemment ces fonctions :
+
+- *Suicide Corse* : révéler les écarts d'effectivité et tester les conditions de maintien/réouverture de capacités ;
+- *Rise & Fall of the Mariani Family* : révéler les bifurcations intergénérationnelles et stabiliser une mémoire patrimoniale et causale falsifiable ;
+- *DIASPORA* : révéler des capacités dispersées et stabiliser des liens, offres, besoins, preuves et mécanismes de mise en relation ;
+- futurs Livres Vivants : réemployer cette grammaire seulement si elle résiste à leurs Reality Cases propres.
+
+Le modèle commun proposé est donc :
+
+~~~text
+niveau opérationnel
+= Machine à Empêcher
+  → Machine à Explorer
+  → Machine à Rendre Capable
+
+niveau transversal
+= Révélateur ↔ Stabilisateur
+
+critère de confrontation
+= effectivité
+
+méthode de correction
+= retour du Réel → trace → qualification → révision
+~~~
+
 L'invariant hérité de *Suicide Corse* et déjà réemployé dans *Rise & Fall* et *DIASPORA* demeure :
 
 > **Freeze the edition, never the next projection.**  
