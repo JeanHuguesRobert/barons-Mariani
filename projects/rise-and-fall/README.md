@@ -60,6 +60,46 @@ L'enquête a pour devoir explicite de tester symétriquement l'hypothèse nulle 
 
 Le projet n'a de valeur que par sa capacité à discriminer, affaiblir, requalifier ou rejeter les responsabilités alléguées.
 
+## 1 bis. Principe de double échelle — famille Mariani ↔ Corse
+
+*Rise & Fall* revendique explicitement une architecture à deux échelles :
+
+```text
+petite échelle
+famille Mariani / plusieurs générations
+        ↕
+grande échelle
+Corse / habitants / territoire
+```
+
+Le projet n'utilise pas l'histoire familiale comme preuve automatique d'une histoire collective. Il met en dialogue des **relations capacitaires** : acquérir, exercer, conserver, protéger, transmettre, perdre ou retrouver une capacité, un patrimoine ou une marge d'action.
+
+Cette architecture est délibérément parallèle à celle de [*Suicide Corse*](../suicide-corse/README.md) :
+
+```text
+Suicide Corse
+Marie-Louise ↔ Corse
+
+Rise & Fall
+famille Mariani ↔ Corse
+```
+
+Les deux Livres Vivants peuvent donc rencontrer les mêmes objets depuis deux petites échelles différentes. Deux convergences sont déjà identifiées :
+
+1. **contestation électorale** — protestation Mariani de 1863 et dossier contemporain de 2026 ;
+2. **perte de patrimoine / capacité de conserver ce que l'on a** — expropriations et pertes patrimoniales familiales, puis saisie-adjudication du 53 rue Séguier, à confronter séparément aux phénomènes territoriaux corses documentés.
+
+Invariant :
+
+```text
+même structure capacitaire
+≠ même cause
+≠ même responsabilité
+≠ même régime juridique
+≠ preuve d'une continuité intentionnelle
+```
+
+
 ---
 
 ## 2. Méthodologie en deux passes
