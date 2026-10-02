@@ -420,7 +420,18 @@ Fonctions probatoires :
 Limite : cette pièce est antérieure au scrutin et n'établit ni l'heure de proclamation ni le résultat du 27 septembre.
 
 
-## 16. Courriel au greffe du TA du 2 octobre — dix demandes factuelles numérotées
+## 16. Courriel reçu du greffe le 1er octobre — pièce P-33
+
+Source publique expurgée :
+
+- `research/senatoriales-2026/investigation/sources/courriel-greffe-ta-reponse-2026-10-01.md`
+- Gmail source : `1a0f799394da9a39`
+- réception : **1er octobre 2026 à 15:13:26 CEST**
+- signataire : Hülya Celik, greffière en chef
+
+Le message refuse de donner suite aux questions matérielles résiduelles, les rattache à la procédure et au jugement déjà notifié, et invite à saisir le Conseil constitutionnel en citant l'article L.292 du code électoral. La citation du courriel du 25 septembre et les adresses personnelles qui y étaient en copie ne sont pas reproduites.
+
+## 17. Courriel au greffe du TA du 2 octobre — dix demandes factuelles numérotées
 
 Source publique expurgée :
 
@@ -449,7 +460,7 @@ Fonction probatoire :
 
 Les adresses personnelles des deux personnes mises en copie sont masquées dans la projection publique.
 
-## 17. Principe de provenance
+## 18. Principe de provenance
 
 
 Pour toute assertion importante :
