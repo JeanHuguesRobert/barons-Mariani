@@ -44,6 +44,52 @@ Elle ne constitue ni un récit prédéterminé, ni une table des matières litt�
 
 Son rôle est d'assurer que l'enquête fonctionne comme un dispositif scientifique et falsifiable, capable d'être surpris, contredit ou réorienté par les découvertes d'archives.
 
+## 0.1. Changement d'échelle revendiqué : famille ↔ Corse
+
+*Rise & Fall* est à l'échelle de la **famille Mariani** ce que *Suicide Corse* est à l'échelle de **Marie-Louise** : dans les deux cas, une petite échelle fortement documentée est mise en dialogue avec la grande échelle corse.
+
+```text
+Suicide Corse
+Marie-Louise / individu      ↔ Corse
+
+Rise & Fall
+famille / générations        ↔ Corse
+```
+
+Ce parallélisme est méthodologique, non causal. Il sert à tester la robustesse des invariants capacitaires lors d'un changement de résolution.
+
+La circulation entre les deux projets doit être explicite et bidirectionnelle :
+
+- [Architecture de *Suicide Corse*](../suicide-corse/architecture.md) ;
+- [Point d'entrée de *Suicide Corse*](../suicide-corse/README.md) ;
+- pivot électoral déjà matérialisé : [1863 ↔ 2026](investigation/notes/2026-09-30-echo-electoral-1863-2026.md).
+
+Les objets communs restent des **ponts**, jamais des fusions de dossiers. À ce jour :
+
+1. **capacité politique / contestation électorale** ;
+2. **capacité patrimoniale / conserver et transmettre ce qui est déjà acquis**.
+
+Pour le second objet, *Rise & Fall* doit instruire comme épisodes distincts les expropriations ou pertes patrimoniales rapportées aux générations successives de la famille, tandis que *Suicide Corse* examine le cas contemporain du 53 rue Séguier et des œuvres/archives de Marie-Louise. Le changement d'échelle vers la Corse porte ensuite sur le foncier, le logement, les usages du sol et les formes documentées de dépossession territoriale.
+
+La discipline reste :
+
+```text
+petite échelle
+→ mécanisme documenté
+→ invariant candidat
+→ test à grande échelle
+→ différences et objections
+→ retour à la petite échelle
+```
+
+et non :
+
+```text
+histoire familiale
+→ généralisation automatique à la Corse
+```
+
+
 ---
 
 ## 1. La question de recherche : Attrition institutionnelle vs Hypothèse nulle
