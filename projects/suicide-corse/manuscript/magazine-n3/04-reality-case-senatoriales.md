@@ -13,6 +13,7 @@ source_documents:
   - "../../../research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_2026-09-29.md"
   - "../../../research/senatoriales-2026/investigation/uchronie_troisieme_candidat_matrice_probes_2026-09-29.md"
+  - "../../../research/senatoriales-2026/investigation/analyse_statistique_comparee_2A_2B_2020_2026.md"
   - "../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
   - "../../../research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
 ---
@@ -127,3 +128,14 @@ Depuis le numéro 2, cette question a convergé avec deux chantiers qui existaie
 Le Magazine n'a pas à reproduire ici leur démonstration juridique. Ce qui est nouveau cette semaine est plus simple : le même écart entre **faculté proclamée** et **capacité effectivement exerçable** apparaît désormais dans plusieurs travaux du Corpus.
 
 Le détail des QPC possibles, de la jurisprudence et de l'amendement reste dans les Annexes / Corpus. Dans le Magazine, ce rapprochement est seulement enregistré comme un changement de la carte.
+
+
+### Le comparateur 2020–2026 : un cross-over à documenter
+
+L'analyse ne repose plus seulement sur la comparaison 2A/2B de 2026.
+
+En 2020, au même premier tour sénatorial, la Corse-du-Sud avait **deux candidats** et 60 blancs+nuls sur 404 votants, soit **14,85 %** ; la Haute-Corse avait **cinq candidats** et 14 blancs+nuls sur 572 votants, soit **2,45 %**.
+
+En 2026, la configuration s'inverse : quatre candidats en Corse-du-Sud avec **1,31 %** de blancs+nuls, deux candidats admis en Haute-Corse avec **12,54 %**.
+
+Le motif est donc répété en changeant d'année et de département. Il est statistiquement descriptif, pas causal : quatre élections ne suffisent pas à isoler l'effet propre du nombre de candidatures. Le Corpus publie désormais les intervalles de modèle et les limites de cette comparaison au lieu de transformer ce contraste en prédiction.
