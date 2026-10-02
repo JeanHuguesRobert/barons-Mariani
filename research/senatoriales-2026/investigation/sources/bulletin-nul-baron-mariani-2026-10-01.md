@@ -30,8 +30,16 @@ drive:
     size_bytes: 180668
 sharing:
   intended: "shared-link evidence, modelled on VID_20260911_174455.mp4"
-  current_drive_state: "private-owner-only at verification time"
-  action_required: "set Google Drive link sharing manually to anyone-with-link (reader or commenter) if public/external access is required"
+  verified_at: "2026-10-02"
+  bulletin:
+    type: "anyone"
+    role: "commenter"
+    allow_file_discovery: false
+  envelope:
+    type: "anyone"
+    role: "commenter"
+    allow_file_discovery: false
+  current_drive_state: "anyone-with-link commenter; not discoverable in search"
 review:
   status: "primary trace recorded; legal interpretation separate"
   reviewed_by: []
@@ -113,9 +121,14 @@ Les deux fichiers sont bien copiés dans le dossier Google Drive :
 
 `Sénatoriales 2026 – Baron Mariani`
 
-Au moment de la vérification du 2 octobre, les métadonnées Drive les indiquent encore **privés / propriétaire uniquement**. Le connecteur disponible permet l'upload et certaines formes de partage, mais ne permet pas de créer directement une permission publique **« toute personne disposant du lien »** identique à celle actuellement observée sur `VID_20260911_174455.mp4`.
+Le **2 octobre 2026**, après modification manuelle par le propriétaire, les permissions ont été vérifiées directement dans les métadonnées Google Drive :
 
-Les URLs sont donc déjà stables et enregistrées ci-dessus ; si un accès externe public est requis pour le dossier contentieux ou la publication, la permission « toute personne disposant du lien » doit encore être activée dans Google Drive.
+- bulletin : `type=anyone`, `role=commenter`, `allowFileDiscovery=false` ;
+- enveloppe : `type=anyone`, `role=commenter`, `allowFileDiscovery=false`.
+
+Les deux liens sont donc accessibles à **toute personne disposant du lien**, avec droit de commentaire, mais ils ne sont pas rendus découvrables par recherche publique.
+
+Ce réglage reproduit le type de partage observé sur la vidéo `VID_20260911_174455.mp4` du 11 septembre.
 
 ## 7. Intégrité
 
