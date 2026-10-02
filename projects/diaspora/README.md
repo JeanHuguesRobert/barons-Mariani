@@ -23,6 +23,19 @@ provenance:
 
 DIASPORA est une initiative de C.O.R.S.I.C.A. dont la phrase directrice est : **mobiliser les Corses du monde entier.**
 
+
+Comme les autres Livres Vivants du Corpus, DIASPORA peut être lu avec une grammaire commune :
+
+~~~text
+Empêcher
+→ Explorer
+→ Rendre Capable
+
+Révélateur ↔ Stabilisateur
+~~~
+
+Dans DIASPORA, l'annuaire et le graphe jouent d'abord un rôle de **Révélateur** des capacités dispersées ; leur valeur durable dépend ensuite de **Stabilisateurs** de provenance, consentement, correction, actualisation et reprise. Voir [architecture éditoriale](editorial-architecture.md) et [Livre Vivant](../../research/livre_vivant.md).
+
 Le projet est à la fois un livre vivant et un annuaire de capacités. Il passe de « qui est où ? » à « qui peut aider qui à faire quoi ? ». Il ne prétend pas être la première tentative. Corsica Diaspora, depuis 2004, et d'autres réseaux publics, dont communiti, existent déjà.
 
 Le nom public visé est `diaspora.acorsica.org`. Ce dépôt ne le sert pas encore.
