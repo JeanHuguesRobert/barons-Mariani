@@ -4,7 +4,7 @@ slug: diaspora
 status: working
 language: fr
 visibility: public
-updated: "2026-10-01"
+updated: "2026-10-02"
 source_of_truth: "repository files under projects/diaspora and GitHub issue 96; this manifest points at them and does not replace them"
 issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
 target_identity: "https://diaspora.acorsica.org"
@@ -17,6 +17,8 @@ architecture:
   editions: projects/diaspora/editions/index.md
   web: projects/diaspora/web/
   seed: projects/diaspora/data/seed.json
+  manuscript_corse_furtive: projects/diaspora/manuscript/01-la-corse-furtive.md
+  annexes_corse_furtive: projects/diaspora/annexes/corse-furtive/README.md
   rule: "The living corpus, the directory projection, and a future frozen edition are distinct."
 
 realities:
@@ -29,6 +31,15 @@ realities:
   - id: public-host
     status: observed
     statement: "https://diaspora.acorsica.org serves the working static projection as of 2026-10-01. The release, the checks, and the resume boundary are in journals/reality-test-2026-09-30.md. This is not a frozen edition."
+
+research_threads:
+  - id: corse-furtive
+    status: open
+    statement: "Rendre visibles des surreprésentations ou capacités collectives qui restent peu perceptibles lorsque les trajectoires sont observées séparément."
+    probes:
+      - "CF-P1: cadres militaires et administratifs coloniaux; reconstruire les dénominateurs, notamment l’écart ~×27 / ~×66"
+      - "CF-P2: agrégés; tester la surreprésentation par triangulation de proxys sans inférer une origine individuelle d’un seul indice"
+      - "CF-P3: anthroponymie; calibrer Jean, Marie, prénoms composés et usages par cohorte"
 
 sources:
   - id: issue-96
