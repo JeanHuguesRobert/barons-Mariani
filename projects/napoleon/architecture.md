@@ -97,3 +97,63 @@ Toute thèse stratégique importante doit recevoir :
 - une objection logistique ;
 - une objection politique ;
 - une objection juridique contemporaine lorsqu'une application actuelle est proposée.
+
+
+## 7. Effet Janus — exploration bidirectionnelle du temps
+
+Le Livre Vivant **Napoléon** applique explicitement l'**Effet Janus**.
+
+Janus est ici un opérateur épistémique : tenir simultanément la reconstruction du passé et l'exploration de l'avenir, sans confondre leurs régimes de preuve.
+
+### Face rétrospective
+
+`présent → traces → reconstruction → hypothèses sur le passé → qualification`
+
+Cette face cherche à :
+
+- reconstituer des décisions et bifurcations ;
+- mesurer la qualité des sources ;
+- distinguer ce qui était su, supposé ou ignoré ;
+- comprendre pourquoi une action a réussi ou échoué ;
+- identifier les capacités effectivement disponibles à un instant donné.
+
+### Face prospective
+
+`présent → hypothèse → continuation → action possible → traces futures → vérification`
+
+Cette face autorise :
+
+- l'exploration de stratégies alternatives ;
+- la formulation d'actions qu'un Twin Napoléon aurait vraisemblablement évaluées ;
+- l'étude de futurs possibles ;
+- la création de continuations explicitement révisables ;
+- la comparaison ultérieure entre prédiction, décision et Réel.
+
+### Centre : le présent traçable
+
+Le présent est le seuil entre les deux faces.
+
+Le contrat est :
+
+> **Dire avant, tracer après, répondre du lien entre les deux.**
+
+Une assertion prospective devient donc un objet futur de vérification.
+
+Une reconstruction historique reste, elle, dépendante des traces survivantes et de leur provenance.
+
+### Application au Twin Napoléon
+
+Chaque sortie prospective importante devrait pouvoir produire :
+
+- date et contexte ;
+- information disponible au moment de l'inférence ;
+- recommandation ou hypothèse ;
+- degré de confiance ;
+- alternatives considérées ;
+- événements ultérieurs observés ;
+- écart entre anticipation et Réel ;
+- correction éventuelle du Twin.
+
+Ainsi, le Livre Vivant n'est pas seulement un livre sur Napoléon.
+
+Il devient aussi un laboratoire longitudinal où le passé instruit le futur et où le futur, une fois devenu passé, revient corriger le modèle.
