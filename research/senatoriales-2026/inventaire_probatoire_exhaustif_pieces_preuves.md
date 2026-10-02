@@ -3,9 +3,9 @@ title: "Sénatoriales Haute-Corse 2026 — Inventaire probatoire exhaustif et re
 subtitle: "Faisceau probatoire complet : pleine coopération du candidat, impossibilité matérielle et fonctionnelle dans des délais contraints, sincérité de la candidature et traçabilité cryptographique Git"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-10-01"
-version: "1.1"
-status: "working-draft — aligned with CC petition v0.3 — for human review"
+date: "2026-10-02"
+version: "1.2"
+status: "working-draft — aligned with CC petition v0.4 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -21,6 +21,9 @@ canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/res
 source_documents:
   - "requete-conseil-constitutionnel-projet-v0.1.md"
   - "requete-conseil-constitutionnel-projet-v0.2.md"
+  - "requete-conseil-constitutionnel-projet-v0.4.md"
+  - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
+  - "investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
   - "requete-conseil-constitutionnel-cahier-des-charges.md"
   - "dossier-ta-bastia-2026-09-14.md"
   - "investigation/chronology.md"
@@ -244,7 +247,7 @@ Avant dépôt, produire un manifeste final séparant :
 
 L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant la proclamation, à 18 heures. L'article 34 permet une requête écrite adressée au secrétariat général du Conseil constitutionnel ou au représentant de l'État. Le canal matériel retenu devra être vérifié au moment du dépôt et documenté sans confondre préparation et saisine effectivement accomplie.
 
-### Contrôle de cohérence v0.3
+### Contrôle de cohérence v1.2
 
 - La requête et le présent inventaire utilisent désormais les identifiants P-01 à P-36.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
