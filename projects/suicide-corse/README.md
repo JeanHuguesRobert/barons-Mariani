@@ -51,6 +51,49 @@ Corpus vivant
 
 Une édition peut donc être gelée tandis que le Corpus continue d'évoluer.
 
+## Principe de double échelle — Marie-Louise ↔ Corse
+
+*Suicide Corse* revendique explicitement une architecture à deux échelles :
+
+```text
+petite échelle
+Marie-Louise / trajectoire individuelle
+        ↕
+grande échelle
+Corse / habitants / territoire
+```
+
+Le projet ne transforme jamais la Corse en personne ni Marie-Louise en métaphore du territoire. Il met en dialogue des **relations capacitaires** observables aux deux échelles : accès à un possible, exercice d'un droit, continuité d'une protection, conservation d'une capacité, perte, transmission, réouverture.
+
+Cette architecture possède désormais un projet jumeau à l'échelle familiale : [*Rise & Fall of the Mariani Family*](../rise-and-fall/README.md).
+
+```text
+Suicide Corse
+Marie-Louise ↔ Corse
+
+Rise & Fall
+famille Mariani ↔ Corse
+```
+
+Les deux Livres Vivants partagent donc une même opération méthodologique : partir d'une petite échelle documentable, changer d'échelle vers la Corse, puis revenir vers le cas source pour vérifier ce que la comparaison éclaire réellement.
+
+Deux objets communs sont déjà apparus :
+
+1. **contestation électorale** — 1863 ↔ 2026 ;
+2. **perte de patrimoine / capacité de conserver ce que l'on a** — expropriations et aliénations familiales ↔ 53 rue Séguier ↔ phénomènes territoriaux corses de dépossession à documenter.
+
+Invariant de prudence :
+
+```text
+même structure capacitaire
+≠ même cause
+≠ même acteur
+≠ même droit
+≠ même intention
+≠ preuve d'un mécanisme historique unique
+```
+
+
 ## État courant — 30 septembre 2026
 
 ### Numéro spécial anniversaire — 17 septembre 2026
