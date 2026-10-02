@@ -129,3 +129,21 @@ L’[amendement d’effectivité — article 72-5](../../research/autonomia/amen
 
 Il éclaire la grille sans devenir un « amendement de Capable » : sa provenance propre — C.O.R.S.I.C.A., contribution parlementaire et Autonomie de Capacité — reste distincte. Sa forme parlementaire candidate permet d’éprouver trois niveaux observables : **mise en œuvre effective**, **évaluation périodique**, **effets au regard de Liberté, Égalité, Fraternité**.
 
+
+## Capable comme Livre Vivant — Campagne du Réel
+
+À compter du 2 octobre 2026, **Capable** est également structuré comme **Livre Vivant**. Sa première campagne documentée en continu est la **Campagne du Réel**.
+
+> **Établir. Relier. Qualifier.**
+
+Le plan de campagne est public, critiquable et amendable. Les institutions concernées, chercheurs, juristes, journalistes, citoyens et agents IA peuvent proposer corrections, contradictions, sources et objections. Une réponse institutionnelle peut fermer une case ; une absence de réponse laisse la case ouverte et ne prouve pas l'inexistence du fait recherché.
+
+Infrastructure :
+
+- [Architecture du Livre Vivant](architecture.md)
+- [Matrice publique de la Campagne du Réel](campaign/matrix.md)
+- [Registre machine-readable des acteurs](campaign/actors.yml)
+- [Contribuer / corriger / contredire](contribuer.md)
+- [Contrat de publication de capable.leppe.fr](site/README.md)
+
+Sources canoniques reliées, sans duplication : `research/senatoriales-2026/`, la matrice TA D1–D10, la *Seconde Méthode*, la *Triangulation du Réel* et `research/livre_vivant.md`.
