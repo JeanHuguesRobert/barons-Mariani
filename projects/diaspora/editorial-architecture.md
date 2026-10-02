@@ -68,11 +68,13 @@ Un annuaire figé et opaque pourrait devenir lui-même Machine à Empêcher ; un
 
 | Partie | Rôle | Entrée |
 | --- | --- | --- |
-| Livre | synthèse durable | `manuscript/00-ouverture.md`, `web/book.html` |
+| Livre | synthèse durable | `manuscript/00-ouverture.md`, `manuscript/01-la-corse-furtive.md`, `web/book.html` |
 | Magazine | écarts, essais, initiatives en cours | `magazine/` |
 | Annexes | modèle, sources, mesures, revue, méthode | `annexes/`, `journals/`, `data/` |
 
 L'annuaire n'est pas le livre. C'est une projection outillée du corpus. Une fiche publiée reste une trace sourcée, pas un jugement sur une personne.
+
+Le chantier **« Corse furtive »** étend le rôle du Révélateur : non seulement rendre visibles des personnes ou capacités dispersées, mais aussi détecter des **structures collectives invisibles à l'échelle des trajectoires individuelles**. La règle probatoire reste inchangée : proxy ≠ preuve individuelle ; surreprésentation ≠ coordination ; toute mesure doit expliciter son dénominateur.
 
 ## Asymétrie
 
