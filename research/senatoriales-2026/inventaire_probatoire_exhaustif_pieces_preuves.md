@@ -132,6 +132,16 @@ La récupération du PDF préfectoral original permet désormais de séparer ce 
 * **Productions préfectorales ultérieures : ouvertes** : le dossier doit encore établir si des éléments ont été transmis au TA après le bundle initial et avant le jugement.
 * **Qualification juridique : ouverte** : l'absence d'une pièce du bundle initial ne doit être qualifiée de rétention, omission fautive ou déloyauté qu'après établissement de sa disponibilité pour l'administration et de la chaîne de transmission pertinente.
 
+## V bis. PROVENANCE NUMÉRIQUE ET CHAÎNE DÉCISIONNELLE PRÉFECTORALE
+
+Ce front est ouvert par **P-35** et documenté méthodologiquement par **P-36**.
+
+* **Établi** : le 2 octobre à 13 h 33 min 55 s, dix-huit demandes autonomes ont été adressées à la préfecture.
+* **Établi** : la copie de la requête préfectorale disponible dans les bundles du TA est lisible mais issue d'une recomposition ultérieure qui n'expose pas, à elle seule, les métadonnées natives du fichier source.
+* **Ouvert** : fichier exact effectivement transmis, nom original, empreintes, PVN Télérecours, accusés, chronologie de création/finalisation/validation/transmission.
+* **Ouvert** : auteur de préparation, validateur, autorité de décision, délégation utilisée et base informationnelle effectivement disponible au moment où les motifs de saisine ont été arrêtés.
+* **Règle** : la demande d'une trace primaire ne vaut pas affirmation que cette trace a disparu ou qu'une irrégularité a été commise.
+
 ## VI. CATÉGORIE E — EXAMEN DU DOSSIER PAR LE TRIBUNAL ADMINISTRATIF : ÉTABLI, RAPPORTÉ, OUVERT
 
 * **Établi** : le jugement mentionne des « observations écrites et orales » du requérant ; la note en délibéré a été enregistrée à 15 h 49 et le greffe a confirmé que la formation en avait pris connaissance avant de décider.
@@ -151,7 +161,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 
 ---
 
-## VIII. BORDEREAU MATRICIEL — 34 PIÈCES / ENSEMBLES DE PIÈCES
+## VIII. BORDEREAU MATRICIEL — 36 PIÈCES / ENSEMBLES DE PIÈCES
 
 | N° | Date & heure | Intitulé | Portée probatoire bornée | Source / support |
 |---|---|---|---|---|
@@ -189,6 +199,8 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-32** | 25/09 16:50:46 | Six questions résiduelles au TA | Questions factuelles après lecture du jugement | Courriel source |
 | **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation au CC ; référence L.292 | Courriel greffe / registre interaction |
 | **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 | investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md |
+| **P-35** | 02/10 13:33:55 | Relance consolidée P1–P18 à la préfecture | Établit les demandes de traçabilité, provenance numérique, chaîne de décision, conservation et routage ; réponses encore PENDING | investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md |
+| **P-36** | 02/10 | Note forensic sur la provenance numérique de la requête préfectorale | Analyse dérivée : bundles TA recomposés, contenu lisible mais provenance native non exposée ; ne prouve ni disparition ni altération fautive | investigation/forensic-provenance-requete-prefectorale-2026-10-02.md |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -224,7 +236,7 @@ La requête précise que le dossier avait été transmis principalement sous for
 Avant dépôt, produire un manifeste final séparant :
 
 1. **la requête signée** avec l'identité et la qualité du requérant, l'élu dont l'élection est contestée et les moyens invoqués ;
-2. **le bordereau P-01 à P-34**, avec pour chaque pièce son fichier réel, son statut public/privé, sa pagination dans le recueil et, si utile, son empreinte ;
+2. **le bordereau P-01 à P-36**, avec pour chaque pièce son fichier réel, son statut public/privé, sa pagination dans le recueil et, si utile, son empreinte ;
 3. **le recueil PDF consolidé**, sans faire dépendre l'accès du Conseil d'un simple lien web ;
 4. **les pièces natives décisives**, notamment les courriels dont les métadonnées sont probatoires, la vidéo P-13 et les PDF originaux P-14 ;
 5. **un registre des UNKNOWN**, afin qu'une demande d'instruction soit formulée là où le requérant ne dispose pas lui-même de la pièce ;
@@ -234,7 +246,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v0.3
 
-- La requête et le présent inventaire utilisent les mêmes identifiants P-01 à P-34.
+- La requête et le présent inventaire utilisent désormais les identifiants P-01 à P-36.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
