@@ -1,0 +1,74 @@
+schema: capable.actors.v0
+updated: 2026-10-02
+campaign: campagne-du-reel
+
+actors:
+  - id: prefecture-haute-corse
+    label: Préfecture de Haute-Corse
+    state: CURRENT
+    roles: [information-holder, administrative-authority, transmitter]
+
+  - id: bureau-elections
+    label: Bureau des élections et de la démocratie locale
+    state: CURRENT
+    roles: [information-holder, operational-service]
+
+  - id: sous-prefecture-corte
+    label: Sous-préfecture de Corte
+    state: CURRENT
+    roles: [territorial-state-representation, possible-receiving-channel]
+    notes:
+      - "Compétence effective pour la réception de la requête à confirmer."
+
+  - id: ta-bastia
+    label: Tribunal administratif de Bastia
+    state: CURRENT
+    roles: [jurisdiction, judicial-record-holder]
+    notes:
+      - "A statué le 14 septembre 2026."
+      - "A invité le 1er octobre 2026 à saisir le Conseil constitutionnel pour contester les jugements."
+
+  - id: defenseur-droits
+    label: Défenseur des droits — délégation territoriale
+    state: CURRENT
+    roles: [independent-rights-authority]
+    notes:
+      - "Saisine directe du 26 septembre 2026 ; état de réponse à suivre."
+
+  - id: conseil-constitutionnel-election
+    label: Conseil constitutionnel — contentieux électoral
+    state: IMMINENT
+    roles: [election-judge, instruction-authority]
+
+  - id: conseil-etat-qpc
+    label: Conseil d'État — QPC
+    state: PROSPECTIVE
+    roles: [qpc-filter, supreme-administrative-jurisdiction]
+
+  - id: conseil-constitutionnel-qpc
+    label: Conseil constitutionnel — QPC
+    state: PROSPECTIVE
+    roles: [constitutional-review]
+
+  - id: cada
+    label: CADA
+    state: CONDITIONAL
+    roles: [access-to-documents]
+
+  - id: cnil
+    label: CNIL
+    state: CONDITIONAL
+    roles: [data-protection]
+
+  - id: cedh
+    label: Cour européenne des droits de l'homme
+    state: PROSPECTIVE
+    roles: [international-human-rights-court]
+    notes:
+      - "Branche distincte, soumise notamment aux règles d'épuisement des voies de recours internes et de délai."
+      - "La profondeur 2017 / 2024 / 2026 peut être documentée comme contexte sans confondre les griefs."
+
+  - id: committee-ministers-coe
+    label: Comité des ministres du Conseil de l'Europe
+    state: TERMINAL
+    roles: [echr-judgment-execution]
