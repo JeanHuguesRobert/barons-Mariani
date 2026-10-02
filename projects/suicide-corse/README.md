@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-09-30"
+last_modified_at: "2026-10-02"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -124,7 +124,7 @@ Le **dernier fait du numéro** est la réponse du Bureau des élections du 30 se
 
 ### Suicide Corse n°4 — en construction
 
-Le prochain numéro est suivi par [l'issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90). Il accueille les traces postérieures au snapshot du n°3 sans modifier l'édition gelée ; une correction du n°3 exige un erratum explicite ou une nouvelle édition.
+Le prochain numéro est suivi par [l'issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90). Il accueille les traces postérieures au snapshot du n°3 sans modifier l'édition gelée ; une correction du n°3 exige un erratum explicite ou une nouvelle édition. L'état zéro du 2 octobre 2026 est [`journals/2026-10-02-n4-etat-zero.md`](journals/2026-10-02-n4-etat-zero.md) : le delta est classé, le sommaire reste ouvert, et aucun rendu n°4 n'est produit.
 
 Principe : **attendre juste assez pour laisser le Réel répondre, mais pas assez pour rendre le bouclage indéfini.**
 

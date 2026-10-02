@@ -65,3 +65,7 @@ Le n°4 devra reprendre, comme premier delta post-borne :
 La règle de reprise est simple :
 
 > **La suite dans le prochain numéro.**
+
+## Suite — état zéro du 2 octobre 2026
+
+L'état courant n'est plus cette note d'ouverture. Il est le journal [`2026-10-02-n4-etat-zero.md`](2026-10-02-n4-etat-zero.md). Le n°3 est gelé au commit `a20919f95be54c8226bcd3df08b21f731d1d2e34`. Le sommaire du n°4 reste ouvert. Le constat de la consultation du 1er octobre n'est pas dans le dépôt.

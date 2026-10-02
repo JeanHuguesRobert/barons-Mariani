@@ -15,8 +15,16 @@ predecessor_issue: 84
 predecessor_verification_issue: 89
 
 construction:
-  state: prepared
-  activation: "after explicit freeze of n3"
+  state: zero-state-recorded
+  activation: "editorial activation recorded on 2026-10-02, after the explicit n3 freeze"
+  baseline_repository_commit: 97d66af4ea482732f605cfed56265d4990a4eff3
+  zero_state_journal: ../journals/2026-10-02-n4-etat-zero.md
+  predecessor_freeze:
+    source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
+    artifact_commit: fc3de4a1c2d2738dee915a35c0922b25353edbd2
+    renderer_commit: 86697e4717e7815d39a072a7a273e54745db34cc
+    public_release: 2026-10-01-n3-frozen-fc3de4a
+    declaration: ../editions/2026-09-30-n3-freeze.md
   principle: "The n4 selection begins from the post-freeze delta; the delta constrains attention but does not dictate the table of contents."
   inherited_from_n3:
     - ../manuscript/16-continuations.md
@@ -28,18 +36,34 @@ construction:
     - "Do not assign posthumous political intent to Marie-Louise."
     - "Do not publish private material without a separate publication decision."
     - "Keep contradictions and negative results visible."
+    - "Silence is not evidence of absence."
+    - "Do not invent the missing 1 October consultation inventory."
 
 editorial_plan:
-  state: intentionally_unset
+  state: open
+  zero_state: ../journals/2026-10-02-n4-etat-zero.md
   note: >
-    No Book/Magazine/Annexes selection is inherited automatically.
-    The first n4 act is a zero-state audit after n3 freeze.
+    The 2026-10-02 zero-state classifies the post-n3 delta.
+    Livre, Magazine and Annexes remain candidates.
+    No table of contents is fixed.
+    A working render stays unjustified while chapters are empty
+    and the 1 October consultation inventory is absent.
+
+campaign_references:
+  matrix: ../../capable/campaign/matrix.md
+  actors: ../../capable/campaign/actors.yml
+  ta_matrix: ../../../research/senatoriales-2026/matrice-reponses-ta-d1-d10-2026-10-02.md
+  prefecture_email: ../../../research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
+  ta_email: ../../../research/senatoriales-2026/investigation/sources/courriel-greffe-ta-demandes-numerotees-2026-10-02.md
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
+  eim_instance: "JeanHuguesRobert/cogentia@de6e9cfc685777d00e4ee81c60ae7998d6543516:research/eim_examples/2026-10-02-prefecture-p1-p18.yaml"
+  issues: [98, 101, 102, 95, 88]
 
 chapters: []
 
 chapters_note: >
-  Empty by design before n3 freeze. n4 starts from current Corpus plus
-  post-freeze delta and explicit continuations; it must not copy n3 mechanically.
+  Still empty after the 2026-10-02 zero-state. The classification
+  constrains attention. It does not select chapters.
 
 outputs:
   html: true

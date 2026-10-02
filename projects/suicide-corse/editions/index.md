@@ -2,7 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
-last_modified_at: '2026-09-30'
+last_modified_at: '2026-10-02'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -126,3 +126,16 @@ Son point de départ est le delta postérieur au n°2 gelé, notamment :
 - le dernier jalon du 30 septembre : accès préfectoral aux pièces confirmé, rendez-vous du **1er octobre à 14 h** accepté, demande resserrée sur les documents déjà dématérialisés et sur une vérification ciblée des bulletins nuls. Le résultat de ce rendez-vous appartient au n°4.
 
 Le matériau canonique de cet axe reste le dossier [`research/senatoriales-2026/`](../../../research/senatoriales-2026/README.md). Le gel interdit sa réinjection silencieuse dans le n°3 ; les développements ultérieurs relèvent du n°4 ou d'un erratum explicite. Le n°4 est [en construction dans l'issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90).
+
+---
+
+## Numéro 4 — en construction
+
+**Statut : travaux en cours. Pas une édition gelée. Aucun artefact HTML, PDF ou EPUB.**
+
+- **Chantier :** [issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90).
+- **Contrat :** [`projections/book-n4-working.yml`](../projections/book-n4-working.yml) — `render_ready: false`, sommaire vide.
+- **État zéro du 2 octobre 2026 :** [`journals/2026-10-02-n4-etat-zero.md`](../journals/2026-10-02-n4-etat-zero.md).
+- **Ouverture historique :** [`journals/2026-09-28-n4-ouverture.md`](../journals/2026-09-28-n4-ouverture.md).
+
+Le delta postérieur au snapshot `a20919f` est classé dans cet état zéro. Le sommaire n'est pas fixé. Le constat de la consultation préfectorale du 1er octobre n'est pas encore dans le dépôt.
