@@ -76,6 +76,49 @@ Duncan Cameron avait posé, près de trente ans plus tôt, l'alternative fondatr
 
 ---
 
+# 1 bis. Janus : regarder le passé et l'avenir sans les confondre
+
+Le Musée Mariani des Possibles possède une structure temporelle que l'on peut désormais nommer explicitement **janusienne**.
+
+Janus, dieu romain des passages, des commencements et des seuils, est traditionnellement représenté avec deux visages tournés dans des directions opposées. Le Musée reprend cette figure non comme emblème décoratif, mais comme **opérateur muséologique et épistémique**.
+
+~~~text
+un visage vers le passé
+→ reconstituer ce qui fut possible
+→ comprendre les conditions qui l'ont rendu possible
+→ documenter bifurcations, pertes et transmissions
+
+un visage vers l'avenir
+→ identifier ce qui pourrait devenir possible
+→ explorer les capacités latentes
+→ tester les conditions de réactivation
+→ stabiliser ce qui peut être transmis
+~~~
+
+La règle centrale est de ne jamais confondre les deux régimes.
+
+Le passé demande des sources, des traces, des provenances, des chronologies et une discipline de causalité. L'avenir demande des hypothèses explicites, des scénarios bornés, des conditions de possibilité, des expériences et des critères d'effectivité.
+
+Cette structure articule directement les trois Machines et la méta-boucle commune des Livres Vivants :
+
+~~~text
+Machine à Empêcher
+→ ce qui a fermé ou ferme les possibles
+
+Machine à Explorer
+→ ce qui reconstruit les bifurcations passées
+  et ouvre les branches futures
+
+Machine à Rendre Capable
+→ ce qui transforme certains possibles en capacités praticables
+
+Révélateur ↔ Stabilisateur
+→ rendre visibles les écarts
+  puis faire tenir dans le temps ce qui mérite de tenir
+~~~
+
+Le Musée est ainsi doublement orienté : **archéologie des capacités passées** et **prospective des capacités futures**.
+
 # 2. Le présent ne doit pas se croire nécessaire
 
 Une société enfermée dans son présent finit par le croire naturel, rationnel, inévitable. Elle confond l'état actuel du droit, des techniques, de l'économie, des institutions et des habitudes avec la structure même du réel. Le musée défait cette confusion : il montre que d'autres configurations ont existé, que les êtres humains ont su vivre, produire, transmettre, décider et échanger selon d'autres règles. En cela il n'est pas seulement conservatoire, il est anti-déterministe — il empêche le présent de se présenter comme la seule forme possible du monde.
