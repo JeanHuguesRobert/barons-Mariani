@@ -92,6 +92,44 @@ histoire familiale
 
 ---
 
+## 0.2. Trois Machines et méta-boucle Révélateur / Stabilisateur
+
+*Rise & Fall* reprend explicitement la grammaire commune des Livres Vivants définie dans [Livre Vivant](../../research/livre_vivant.md).
+
+~~~text
+Machine à Empêcher
+→ Machine à Explorer
+→ Machine à Rendre Capable
+~~~
+
+Dans le substrat familial :
+
+- **Empêcher** : mécanismes qui ferment, réduisent, fragilisent ou retirent des capacités patrimoniales, politiques, économiques, sociales ou intergénérationnelles ;
+- **Explorer** : reconstruction régressive et prospective des bifurcations, alternatives, objections et contrefactuels admissibles ;
+- **Rendre Capable** : mécanismes par lesquels une famille conserve, reconstruit, transmet ou recrée une capacité effective.
+
+Au niveau transversal :
+
+~~~text
+Révélateur ↔ Stabilisateur
+~~~
+
+Le **Révélateur** fait apparaître les bifurcations, pertes, contributions publiques ou privées, alternatives négligées, contradictions de sources et UNKNOWN.
+
+Le **Stabilisateur** vise la conservation durable et corrigible de la mémoire, des preuves, des patrimoines, des chaînes de transmission et des capacités qui peuvent encore être maintenues ou restaurées.
+
+~~~text
+perte observée
+→ Révélateur : reconstruire comment et pourquoi elle s'est produite
+→ Explorer : rechercher les mécanismes et alternatives
+→ Rendre Capable : identifier ce qui peut encore être conservé / restauré / transmis
+→ Stabilisateur : rendre cette conservation durable, traçable et révisable
+~~~
+
+> **Pas de Révélateur sans perspective de stabilisation ; pas de Stabilisateur sans capacité de révéler ses propres échecs.**
+
+Le couple est une méta-boucle, non une quatrième et une cinquième Machine.
+
 ## 1. La question de recherche : Attrition institutionnelle vs Hypothèse nulle
 
 ### 1.1. L'hypothèse de travail
