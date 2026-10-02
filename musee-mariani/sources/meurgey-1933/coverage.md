@@ -13,8 +13,12 @@ github_issue: 97
 | dédicace | Pièces Mariani DRAC / scan transmis 2025-04-30 | identified | manuscrite, à transcrire séparément |
 | hors-texte Corte / Minesteggio | Pièces Mariani DRAC | identified | photographies |
 | p. 1 | Pièces Mariani DRAC, sous-ensemble Meurgey, scan 4 haut | draft-transcription | première passe visuelle effectuée |
-| p. 2 | Pièces Mariani DRAC, sous-ensemble Meurgey, scan 4 bas | identified | prochain fragment |
-| p. 3 et suivantes | Pièces Mariani DRAC | unseen | à inventorier progressivement |
+| p. 2 | Pièces Mariani DRAC, sous-ensemble Meurgey, scan 4 bas | draft-transcription | deux passes visuelles ; quelques noms propres restent incertains |
+| p. 3 | Pièces Mariani DRAC, scan 5 haut | identified | numéro papier visible |
+| p. 4 | Pièces Mariani DRAC, scan 5 bas | identified | numéro papier visible |
+| p. 5 | Pièces Mariani DRAC, scan 6 haut | identified | numéro papier visible |
+| p. 6 | Pièces Mariani DRAC, scan 6 bas | identified | numéro papier visible |
+| p. 7 et suivantes | Pièces Mariani DRAC | unseen | à inventorier progressivement |
 
 ## États
 
