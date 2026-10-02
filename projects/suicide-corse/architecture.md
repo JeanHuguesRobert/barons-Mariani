@@ -76,6 +76,51 @@ Le projet doit pouvoir :
 
 La v2 est donc une **architecture d'enquête**, non un plan littéraire fermé.
 
+## 0.0 bis. Architecture revendiquée à deux échelles
+
+Le changement d'échelle n'est plus seulement une possibilité méthodologique de *Suicide Corse* : il constitue un **principe revendiqué du projet**.
+
+```text
+petite échelle                     grande échelle
+Marie-Louise                       Corse
+trajectoire individuelle     ↔     habitants / territoire
+```
+
+La fonction de cette mise en dialogue est comparative et expérimentale : tester si certaines relations capacitaires restent descriptivement utiles lorsqu'on change d'échelle, puis revenir au cas individuel pour contrôler ce que la comparaison a réellement appris.
+
+Ce principe possède un jumeau explicite dans [*Rise & Fall of the Mariani Family*](../rise-and-fall/architecture.md) :
+
+```text
+Suicide Corse : Marie-Louise ↔ Corse
+Rise & Fall    : famille Mariani ↔ Corse
+```
+
+Les deux Livres ne fusionnent pas. Ils peuvent cependant rencontrer des **objets communs** et les instruire depuis leurs petites échelles respectives. Deux pivots sont déjà identifiés :
+
+- la **contestation électorale** ;
+- la **perte de patrimoine / capacité de conserver et transmettre**.
+
+Le premier a déjà produit le pivot 1863 ↔ 2026. Le second ouvre une nouvelle comparaison : expropriations et pertes patrimoniales familiales dans *Rise & Fall* ; 53 rue Séguier, œuvres et archives de Marie-Louise dans *Suicide Corse* ; puis changement d'échelle vers les questions corses de foncier, logement, usages du sol et dépossession.
+
+Règle :
+
+```text
+objet commun
+→ enquêtes autonomes
+→ sources et droits propres
+→ comparaison contrôlée
+→ invariant candidat
+→ retour au Réel
+```
+
+Jamais :
+
+```text
+analogie
+→ causalité supposée
+```
+
+
 ## 0.1. Centre structural : Empêcher → Explorer → Rendre Capable
 
 Le centre structural de *Suicide Corse* est désormais le triptyque :
