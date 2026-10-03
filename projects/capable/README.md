@@ -76,6 +76,7 @@ exprime le premier niveau de cette exigence, sans l’épuiser : l’indépendan
 
 ## Architecture du projet
 
+- [Manuscrit du Livre](manuscript/README.md)
 - [Généalogie](genesis.md)
 - [Doctrine — carte des sources](doctrine.md)
 - [Capable Test](capable-test.md)
