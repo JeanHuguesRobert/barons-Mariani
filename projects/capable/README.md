@@ -144,6 +144,6 @@ Infrastructure :
 - [Matrice publique de la Campagne du Réel](campaign/matrix.md)
 - [Registre machine-readable des acteurs](campaign/actors.yml)
 - [Contribuer / corriger / contredire](contribuer.md)
-- [Contrat de publication de capable.leppe.fr](site/README.md)
+- [Contrat de publication de capable.lepp.fr](site/README.md)
 
 Sources canoniques reliées, sans duplication : `research/senatoriales-2026/`, la matrice TA D1–D10, la *Seconde Méthode*, la *Triangulation du Réel* et `research/livre_vivant.md`.
