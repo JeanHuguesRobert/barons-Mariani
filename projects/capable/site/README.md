@@ -1,6 +1,6 @@
-# capable.leppe.fr — contrat de publication
+# capable.lepp.fr — contrat de publication
 
-Domaine cible : **https://capable.leppe.fr**
+Domaine cible : **https://capable.lepp.fr**
 
 ## MVP
 
