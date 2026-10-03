@@ -3,7 +3,7 @@ title: "Contre « cela n’aurait rien changé » — premier tour, Haute-Corse,
 subtitle: "Pièce sur l’influence du refus d’enregistrement"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-10-02"
-version: "0.2"
+version: "0.3"
 status: "working — public — relié au projet de requête au Conseil constitutionnel"
 language: "fr"
 document_role: "source"
@@ -149,9 +149,15 @@ Le scrutin du 27 septembre fournit lui-même un exemple particulièrement instru
 
 Après le scrutin, Alta Frequenza relève que Nicolas Battini disposait d’une **base institutionnelle directement identifiable de cinq grands électeurs : quatre à Bastia et une à Biguglia**.
 
-À Bastia, les résultats municipaux officiels permettent d’identifier trois élus de la liste Populu di Bastia : **Nicolas Battini, Valérie Idda et Michel Bruschini**. La quatrième voix bastiaise mentionnée par Alta Frequenza correspond donc à un autre grand électeur de son environnement politique, non identifié ici avec suffisamment de certitude pour être nommé.
+Le noyau institutionnel directement documenté peut être nommé sans déduire pour autant le bulletin secret de chacun :
 
-À Biguglia, **Audrey Mori**, remplaçante de Nicolas Battini aux sénatoriales, est conseillère municipale d’opposition et constitue l’ancrage institutionnel directement identifiable de sa candidature dans cette commune.
+1. **Nicolas Battini** — conseiller municipal de Bastia, tête de la liste Populu di Bastia et candidat aux sénatoriales ;
+2. **Valérie Idda** — conseillère municipale de Bastia élue sur la liste Populu di Bastia ;
+3. **Michel Bruschini** — conseiller municipal de Bastia élu sur la même liste ;
+4. **Philippe Serra** — candidat Populu di Bastia aux municipales puis élu délégué sénatorial supplémentaire à Bastia lors de la séance du 5 juin 2026 ;
+5. **Audrey Mori** — conseillère municipale d’opposition à Biguglia et remplaçante officielle de Nicolas Battini pour les sénatoriales.
+
+La Ville de Bastia publie la liste des 64 grands électeurs bastiais, où figurent Battini, Idda, Bruschini et Serra ; les résultats municipaux officiels identifient les trois premiers comme élus de Populu di Bastia, tandis que la délibération du 5 juin permet d’identifier Serra comme délégué supplémentaire. La mairie de Biguglia identifie Audrey Mori parmi les élus d’opposition, et sa qualité de remplaçante de Nicolas Battini est attestée par les candidatures sénatoriales publiques.
 
 Cette base visible de cinq grands électeurs représente **moins de 1 % du collège (5 sur 616)**.
 
@@ -175,7 +181,9 @@ Il ne s’agit pas d’affirmer que « les Corses cachent leur vote » comme rè
 
 Il s’agit d’observer, dans **ce scrutin précis**, que :
 
-> **5 soutiens institutionnels directement lisibles n’ont pas produit 5 voix, mais 88.**
+> **un noyau institutionnel directement lisible de 5 grands électeurs a coexisté avec un résultat de 88 voix.**
+
+Le secret du vote interdit d’écrire que ces cinq personnes ont effectivement déposé un bulletin Battini ; en revanche, l’écart entre le noyau politiquement documenté et le score agrégé est, lui, observable.
 
 Cette observation a une conséquence directe pour le raisonnement contrefactuel :
 
@@ -270,6 +278,9 @@ La conclusion est plus étroite et suffisante :
 - Alta Frequenza, 23 septembre 2026, candidature Battini et droite sans candidat : https://www.alta-frequenza.corsica/senatoriales-en-haute-corse-nicolas-battini-va-tester-linfusion-du-message-de-lunione-di-i-patriotti-aupres-des-elus
 - Corse Net Infos, 25 septembre 2026, quelques maires de droite déjà positionnés en faveur de Battini : https://www.corsenetinfos.corsica/Senatoriales-Une-election-a-fort-enjeu-avec-le-vote-du-projet-de-loi-sur-l-autonomie-au-Senat_a92811.html
 - Alta Frequenza, 27 septembre 2026, quatre grands électeurs à Bastia, un à Biguglia, 88 voix finales et interprétation du ralliement partiel de la droite : https://www.alta-frequenza.corsica/senatoriales-en-haute-corse-quels-enseignements-tirer-de-la-reelection-de-paulu-santu-parigi-et-du-score-significatif-de-lextreme-droite-de-nicolas-battini
+- Ville de Bastia, 5 juin 2026, liste officielle des 64 grands électeurs bastiais : https://www.bastia.corsica/blog/2026/06/05/election-des-delegues-et-suppleants-qui-representeront-la-commune-au-sein-du-college-electoral-senatorial/
+- Ministère de l’Intérieur, municipales 2026 à Bastia, élus Populu di Bastia : https://www.resultats-elections.interieur.gouv.fr/municipales2026/ensemble_geographique/94/2B/2B033/rappel_candidature/2/5.html
+- Mairie de Biguglia, conseil municipal, Audrey Mori parmi les élus d’opposition : https://biguglia.corsica/nos-elus/
 
 ## Note méthodologique
 
