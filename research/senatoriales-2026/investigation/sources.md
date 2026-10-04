@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — index des sources de l'enquête"
-date: "2026-09-27"
+date: "2026-10-04"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
