@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -18,7 +18,7 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
-  - "projects/institut/preparation/statuts-1995-transcription.md"
+  - "projects/institut/sources/statuts-corsica-1995-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
 provenance:
@@ -39,6 +39,13 @@ review:
 ---
 
 # C.O.R.S.I.C.A. — généalogie statutaire 1995–2026
+
+## 0. Source canonique
+
+La transcription recherchable faisant autorité comme **projection dérivée** du scan est :
+`projects/institut/sources/statuts-corsica-1995-transcription.md`.
+
+Les autres transcriptions conservées sous `preparation/` sont des contrôles / projections historiques et ne doivent pas être choisies comme source par défaut.
 
 ## 1. Conclusion provisoire
 
