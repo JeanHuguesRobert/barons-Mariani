@@ -91,3 +91,30 @@ Le Livre Vivant pourra produire :
 > Le plan peut être public sans que le résultat soit connu d'avance.
 
 Capable ne cherche pas à cacher la manœuvre. Il cherche à rendre ses hypothèses falsifiables et ses erreurs corrigeables.
+
+## 9. Campagnes et grammaire réutilisable
+
+La **Campagne du Réel** désigne historiquement la première grande campagne documentée, liée aux Sénatoriales 2026.
+
+Elle fournit progressivement une grammaire réutilisable :
+
+```text
+trace
+→ Révélateur
+→ écart
+→ exploration
+→ Reality Test / Act
+→ mesure
+→ Stabilisateur
+→ nouvelle confrontation au Réel
+```
+
+La présidentielle 2027 constitue une autre instance, à une autre échelle. Elle peut réemployer cette grammaire sans effacer la provenance de la première campagne.
+
+Documents de travail :
+
+- [Architecture des campagnes](campaign/architecture-des-campagnes.md)
+- [Marche du Soleil](campaign/marche-du-soleil.md)
+- [Observatoire des Présentations 2027](campaign/observatoire-presentations-2027.md)
+
+La règle de symétrie s'applique : les Révélateurs construits par Capable doivent pouvoir révéler les propres écarts de Capable.
