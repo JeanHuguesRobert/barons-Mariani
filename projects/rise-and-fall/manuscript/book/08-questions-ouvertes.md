@@ -15,7 +15,7 @@ source_of_truth: false
 
 Un livre vivant ne dissimule jamais ses zones d'ombre. Là où un ouvrage traditionnel farde ses ignorances sous des tournures évasives, *Rise & Fall* fait de ses lacunes documentaires un **programme de travail explicite et public**.
 
-Pour ce Volume I (1776–1870) et sa transition vers l'époque contemporaine, cinq chantiers prioritaires demeurent ouverts.
+Pour ce Volume I (1776–1870) et sa transition vers l'époque contemporaine, six chantiers prioritaires demeurent ouverts.
 
 ---
 
