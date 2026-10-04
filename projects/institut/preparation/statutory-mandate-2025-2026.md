@@ -133,3 +133,31 @@ réforme 2025–2026
 confirmation finale du greffe
 → encore nécessaire
 ~~~
+
+
+## 9. Statuts actuellement prouvés
+
+Le scan préfectoral historique a désormais été transcrit manuellement dans `projects/institut/preparation/statutes-1995-transcription.md`.
+
+L’analyse comparative est tenue dans `projects/institut/preparation/statutes-applicability-1995-2026.md`.
+
+État de travail :
+
+~~~text
+texte signé en décembre 1995
+→ dernière version dont le dépôt administratif est directement documenté
+
+projet Statuts_2018-2019
+→ rédaction ESTABLISHED
+→ adoption NOT FOUND
+→ déclaration NOT FOUND
+
+refonte 2025–2026
+→ PREPARATORY
+~~~
+
+La correspondance du 9 décembre 2018 indique encore que les statuts « feront l’objet d’une modification prochaine », alors que le projet 2018 existait déjà. Le même scan historique est ensuite transmis comme statuts en 2021, utilisé pour la banque en 2022–2023, puis adressé au greffe en mai 2024 comme statuts déposés.
+
+Conséquence prudente : préparer l’AGE selon les exigences de la version 1995 tant qu’une modification ultérieure régulièrement adoptée et déclarée n’est pas établie.
+
+Cela implique notamment, pour la modification statutaire : ordre du jour adressé au moins quinze jours à l’avance ; quorum initial d’un quart des membres en exercice ; nouvelle convocation possible après quinze jours si le quorum manque ; majorité des deux tiers des membres présents ou représentés.
