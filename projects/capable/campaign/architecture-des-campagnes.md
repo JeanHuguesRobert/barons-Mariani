@@ -31,8 +31,11 @@ provenance:
     - "../manuscript/08-presidentielle-2027.md"
     - "../manuscript/05-machines-et-correction.md"
 review:
-  status: "unreviewed"
-  reviewed_by: []
+  status: "partial"
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+  reviewed_at: "2026-10-04"
+  scope: "Architecture, principes et cohérence générale approuvés ; revue détaillée ligne par ligne et revue adverse encore ouvertes."
 ---
 
 # Capable — architecture des campagnes
