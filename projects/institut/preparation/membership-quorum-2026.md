@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.5"
+version: "0.6"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -170,6 +170,61 @@ personne
 ~~~
 
 Le Corpus public ne conservera ensuite que les agrégats et la méthode.
+
+
+## 3 sexies. Audit quantitatif du registre privé
+
+Un nouveau passage direct sur le tableur privé confirme, sans publier aucune identité ni coordonnée :
+
+~~~yaml
+historical_register_2018_2019:
+  person_rows: 33
+  operational_status_filled: 32
+  explicit_adhesion_or_payment_field_filled: 2
+  entry_date_filled: 9
+  operational_labels:
+    benevole: 16
+    usager: 10
+    function_or_responsibility: 6
+    blank: 1
+~~~
+
+Cette structure renforce le diagnostic précédent.
+
+Le tableur est principalement un **registre opérationnel de personnes gravitant autour des activités**, pas un registre statutaire suffisamment probant pour calculer le corps électoral.
+
+En particulier :
+
+~~~text
+33 lignes historiques
+≠ 33 membres statutaires
+
+32 statuts opérationnels renseignés
+≠ 32 membres votants
+
+2 mentions d’adhésion / paiement
+≠ 2 seuls membres
+
+9 dates d’entrée
+≠ 9 admissions statutaires prouvées
+~~~
+
+Aucune colonne ne fournit à elle seule :
+
+- la décision d’agrément du conseil d’administration exigée par l’article 3 ;
+- la catégorie juridique 1995 attribuée ;
+- une éventuelle démission ;
+- une éventuelle radiation ;
+- la continuité de la qualité de membre jusqu’en 2026.
+
+### Conséquence quantitative
+
+Le dénominateur juridique reste donc **UNKNOWN**.
+
+Il serait méthodologiquement incorrect de calculer un « quorum conservatoire » à partir de 33 ou de 40 sans reconstruire les admissions statutaires.
+
+Le prochain gain probatoire ne viendra probablement pas d’un calcul supplémentaire, mais de traces d’agrément, de PV, de cotisations qualifiées ou d’une validation collective préalable de la liste des membres en exercice.
+
 
 ## 4. Reconstruction requise
 
