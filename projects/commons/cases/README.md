@@ -60,3 +60,7 @@ Ce répertoire couvre un spectre équilibré entre les quatre mouvements du Livr
    *Mouvement IV — Futurs possibles.* Plateforme cognitive collaborative pour l'exploration possibiliste sous traçabilité scientifique persistante.
 8. [**Cas 08 : Compute mutualisé et modèles d'IA à poids ouverts**](case-08-compute-et-modeles-ia.md)  
    *Mouvement IV — Futurs possibles.* Défis de l'infrastructure de calcul face à l'hyper-concentration des hyperscalers.
+9. [**Cas 09 : Protocoles de données souveraines décentralisées (Solid, IPFS, ATProto)**](case-09-protocoles-donnees-souveraines.md)  
+   *Mouvement IV — Futurs possibles.* Réconciliation entre protocoles communs ouverts et sanctuarisation de la souveraineté personnelle (Pods, profils KYS).
+10. [**Cas 10 : Canaux d'irrigation et consorzi de l'eau en Méditerranée montagnarde**](case-10-canaux-et-consorzi-eau-corse.md)  
+    *Mouvement I — Héritages & Institutions.* Gestion solidaire d'une ressource hydrique rivale par les tours d'eau (*a roda*) et les corvées partagées (*canali* de Corse et Piémont).
