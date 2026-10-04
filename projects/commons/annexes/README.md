@@ -24,6 +24,7 @@ Les **Annexes** fournissent le substrat probatoire du Livre Vivant. Elles rassem
 ## Sections
 
 1. **Textes et Chartes Historiques**  
+   - [**Archives des biens communaux et droits d'usage en Corse (XVIe - XXe siècle)**](archives-communaux-corse.md) : Étude archivistique approfondie des *Statuti* génois de 1571, du Plan Terrier (1770–1795), des enquêtes de terrain de Georges Ravis-Giordani (*Niolu*, 1983) et de la résistance pastorale au Code forestier de 1827.
    - Traduction française et transcription de la *Carta de Foresta* (1217).  
    - Règlements coutumiers du Tribunal des Eaux de Valence (*Ordenanzas de la Vega de Valencia*).  
    - Extraits choisis des *Parliamentary Enclosure Acts* (1760-1830).  

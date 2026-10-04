@@ -45,12 +45,21 @@ Trois régimes de preuve sont strictement séparés :
 
 * **Charte des Forêts (*Carta de Foresta*, 1217)**  
   Texte juridique majeur concédé par Henri III d'Angleterre, complétant la *Magna Carta*. Première reconnaissance codifiée des droits d'usage coutumiers pour les hommes libres : affouage (*estover*), glandée/panage (*pannage*), pacage (*agistment*), tourbage (*turbary*).
+* **Statuti Civili e Criminali di Corsica (1571)**  
+  Corpus juridique de la Corse génoise (éditions Doria) réglementant les *terre comuni*, l'institution municipale élue des *Padri del Comune*, la police des gardes-champêtres assermentés (*campari*) et l'interdiction stricte des clôtures abusives (*chiudende*) sur les parcours collectifs.
+* **Plan Terrier de la Corse (1770–1795)**  
+  Levés cadastraux et mémoires des ingénieurs du roi (Archives nationales et Archives de Corse), documentant la confrontation entre la volonté royale de privatiser les terres réputées « vaines et vagues » et la résistance unanime des communautés villageoises défendant l'indivision de leurs parcours pastoraux.
+* **Ravis-Giordani, Georges (1983)**, *Bergers corses : les communautés villageoises du Niolu*, Édisud.  
+  Étude ethnologique de référence sur la régulation collective des estives (*i monti*), l'organisation des groupes de bergerie (*a cumpagnia*), la rotation saisonnière et l'économie morale du contrôle de la charge pastorale.
+* **Graziani, Antoine-Marie (2000)**, *La Corse génoise : économie, société, culture*, Éditions Alain Piazzola.  
+  Analyse des structures communautaires villageoises et de l'encadrement juridique des communaux sous la République de Gênes.
 * **Thompson, E.P. (1991)**, *Customs in Common: Studies in Traditional Popular Culture*, Merlin Press.  
   Ouvrage de référence sur l'économie morale de la foule (*moral economy*) et la rationalité des droits coutumiers face à la rationalisation marchande.
 * **Bloch, Marc (1931)**, *Les caractères originaux de l'histoire rurale française*, Armand Colin.  
   Démonstration magistrale de l'interdépendance entre rotation triennale, contrainte collective d'assolement, vaine pâture et cohésion communautaire dans les campagnes européennes.
 * **Vivier, Nadine (1998)**, *Propriété collective et communauté de village en France (1750-1870)*, Presses Universitaires de Rennes.  
-  Histoire exhaustive de la résistance et de l'adaptation des communaux face aux velléités de partage étatiques et privées au XVIIIe et XIXe siècles en France.
+  Histoire exhaustive de la résistance et de l'adaptation des communaux face aux velléités de partage étatiques et privées au XVIIIe et XIXe siècles en France, soulignant la préservation exceptionnelle des communaux insulaires.
+* *Voir l'étude archivistique détaillée :* [Archives des communaux en Corse (XVIe - XXe siècle)](../annexes/archives-communaux-corse.md).
 
 ### B. Captures et Enclosures
 
