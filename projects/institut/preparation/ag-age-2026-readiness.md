@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -51,8 +51,8 @@ PREPARED
 
 | Gate | État | Base | Condition de sortie |
 |---|---|---|---|
-| Statuts de référence | READY_WITH_RESERVATION | scan 1995 + chaîne 2018/2021/2023/2024 | confirmation finale du greffe souhaitable mais non nécessaire pour continuer la préparation |
-| Transcription recherchable | READY | transcription visuelle des 6 pages + SHA-256 | revue humaine ligne à ligne avant freeze juridique |
+| Statuts de référence | READY_WITH_RESERVATION | scan signé 1995 + copie préfectorale 2018 + chaîne d’usage 2021/2023/2024 ; dates fines récépissé/JO 1996 non revalidées | confirmation finale du greffe souhaitable mais non nécessaire pour continuer la préparation |
+| Transcription recherchable | READY | source canonique `projects/institut/sources/statuts-corsica-1995-transcription.md` issue des 6 pages scannées | revue humaine ligne à ligne avant freeze juridique |
 | Procédure de modification | READY | article 17 : 15 jours, quorum 1/4, seconde convocation, majorité 2/3 | reporter ces règles dans la convocation |
 | Composition de l’AG | BLOCKED | catégories 1995 connues, individus 2026 non qualifiés | reconstruire registre privé des membres en exercice |
 | Quorum chiffré | BLOCKED | dénominateur inconnu | obtenir N votants établis / conservatoires |
@@ -77,6 +77,28 @@ qui est membre en exercice ?
 ~~~
 
 Le registre privé 2018–2019 contient 33 entrées mais ses catégories opérationnelles ne permettent pas de répondre à ces questions. Une déclaration de mars 2026 évoque 40 « membres actifs », mais elle ne constitue pas à elle seule un registre statutaire.
+
+
+## 3 bis. Résultat de l’audit privé du registre historique
+
+Le registre 2018–2019 a été relu directement sans publication des identités ni coordonnées.
+
+~~~yaml
+historical_rows: 33
+operational_status_filled: 32
+adhesion_or_payment_field_filled: 2
+entry_date_filled: 9
+statutory_admission_decisions_found_in_sheet: 0
+~~~
+
+Des recherches Gmail ciblées 2018–2020 retrouvent une pratique décrite comme « membres actifs qui votent » / « membres inactifs qui ne votent pas », mais **aucune décision d’agrément nominative du conseil d’administration** correspondant aux lignes du registre n’a été retrouvée.
+
+Conséquence :
+
+> le blocker \`Composition de l’AG\` est confirmé comme documentaire et non arithmétique.
+
+Le dénominateur ne doit être ni 33, ni 40, ni le nombre de participants aux AG récentes, tant qu’une méthode de qualification juridiquement défendable n’est pas arrêtée.
+
 
 ## 4. Stratégie de robustesse
 
