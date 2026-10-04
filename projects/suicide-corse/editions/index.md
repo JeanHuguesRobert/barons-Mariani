@@ -133,9 +133,11 @@ Le matériau canonique de cet axe reste le dossier [`research/senatoriales-2026/
 
 **Statut : travaux en cours. Pas une édition gelée. Aucun artefact HTML, PDF ou EPUB.**
 
+- **Vue vivante :** [`suivi.md`](../suivi.md). Elle suit `main`. Elle n'est pas une édition.
 - **Chantier :** [issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90).
 - **Contrat :** [`projections/book-n4-working.yml`](../projections/book-n4-working.yml) — `render_ready: false`, sommaire vide.
 - **État zéro du 2 octobre 2026 :** [`journals/2026-10-02-n4-etat-zero.md`](../journals/2026-10-02-n4-etat-zero.md).
 - **Ouverture historique :** [`journals/2026-09-28-n4-ouverture.md`](../journals/2026-09-28-n4-ouverture.md).
+- **Constat du 1er octobre :** [`constat-consultation-2026-10-01-rp-sen-08-c.md`](../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md).
 
-Le delta postérieur au snapshot `a20919f` est classé dans cet état zéro. Le sommaire n'est pas fixé. Le constat de la consultation préfectorale du 1er octobre n'est pas encore dans le dépôt.
+Le delta postérieur au snapshot `a20919f` est classé dans l'état zéro. Le sommaire n'est pas fixé. Le constat du rendez-vous est dans le dépôt. Il ne dresse pas l'inventaire de toutes les pièces feuilletées.

@@ -15,9 +15,10 @@ predecessor_issue: 84
 predecessor_verification_issue: 89
 
 construction:
-  state: zero-state-recorded
+  state: living-view
   activation: "editorial activation recorded on 2026-10-02, after the explicit n3 freeze"
   baseline_repository_commit: 88c4d11f5d1aef2a9eaa9a32b6b8c5eade777f9d
+  living_view: ../suivi.md
   zero_state_journal: ../journals/2026-10-02-n4-etat-zero.md
   predecessor_freeze:
     source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
@@ -37,17 +38,18 @@ construction:
     - "Do not publish private material without a separate publication decision."
     - "Keep contradictions and negative results visible."
     - "Silence is not evidence of absence."
-    - "Do not invent the missing 1 October consultation inventory."
+    - "Do not invent pieces the 1 October constat does not document."
 
 editorial_plan:
   state: open
   zero_state: ../journals/2026-10-02-n4-etat-zero.md
   note: >
     The 2026-10-02 zero-state classifies the post-n3 delta.
+    The living view is ../suivi.md. It moves with main and is not a frozen edition.
     Livre, Magazine and Annexes remain candidates.
     No table of contents is fixed.
-    A working render stays unjustified while chapters are empty
-    and the 1 October consultation inventory is absent.
+    A working render stays unjustified while chapters are empty.
+    The 1 October visit has a constat. It is not an inventory of every piece leafed.
 
 campaign_references:
   matrix: ../../capable/campaign/matrix.md
@@ -56,6 +58,8 @@ campaign_references:
   prefecture_email: ../../../research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
   ta_email: ../../../research/senatoriales-2026/investigation/sources/courriel-greffe-ta-demandes-numerotees-2026-10-02.md
   petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
+  consultation_constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
+  living_view: ../suivi.md
   forensic_note: ../../../research/senatoriales-2026/investigation/forensic-provenance-requete-prefectorale-2026-10-02.md
   eim_instance: "JeanHuguesRobert/cogentia@de6e9cfc685777d00e4ee81c60ae7998d6543516:research/eim_examples/2026-10-02-prefecture-p1-p18.yaml"
   issues: [98, 101, 102, 95, 88]
