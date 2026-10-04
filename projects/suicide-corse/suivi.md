@@ -26,6 +26,10 @@ Niveaux de preuve, les mêmes que dans le constat du 1er octobre :
 - **rapporté** : récit direct du participant, ou propos oral attribué ;
 - **inconnu** : non établi par une source de cette page.
 
+## 4 octobre 2026 — version en préparation
+
+Une projection remplaçable est ouverte : `projects/suicide-corse/projections/book-n4-preparation.yml`. Elle rend quatre chapitres de magazine. Elle n'est pas gelée. Le contrat de travail du numéro 4 reste `render_ready: false`, et son sommaire définitif reste vide. Le numéro 3 gelé n'est pas recomposé.
+
 ## 4 octobre 2026 — le site public ouvre cette page
 
 Le bouton « Suivre le n°4 » de [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org) pointe ici. La release servie est `2026-10-04-n4-suivi-66727f1`, commit d'artefact `66727f190bbf3d3028636bd82e925ef8d32d4662`. L'édition gelée du numéro 3 est la même : le PDF public pèse 907240 octets, empreinte inchangée. Cette promotion n'est pas un gel du numéro 4.

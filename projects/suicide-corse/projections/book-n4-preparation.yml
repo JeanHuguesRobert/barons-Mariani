@@ -1,0 +1,57 @@
+schema: suicide-corse.projection.book.v0
+id: suicide-corse-n4-preparation
+status: preparation
+render_ready: true
+language: fr
+
+title: "Suicide Corse"
+subtitle: "ou comment réaliser l'impossible"
+author: "Jean Hugues Noël Robert"
+edition_label: "Numéro 4 — en préparation"
+
+cover:
+  title: "Suicide Corse"
+  subtitle: "ou comment réaliser l'impossible"
+  issue: "N° 4"
+  edition: "En préparation — non gelée"
+  author: "Jean Hugues Noël Robert"
+  author_title: "baron Mariani"
+  image: "../assets/cover/bulletin_senatoriales_2026_baron_mariani_retenu.png"
+  image_role: "élément graphique central"
+  preserve_source_image: true
+
+source_manifest: ../corpus.yml
+related_issue: 90
+predecessor_freeze:
+  source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
+  artifact_commit: fc3de4a1c2d2738dee915a35c0922b25353edbd2
+  declaration: ../editions/2026-09-30-n3-freeze.md
+
+edition:
+  number: 4
+  editorial_date: null
+  publication_date: null
+  date_is_intentionally_unset: true
+  label: "en préparation"
+  rule: "This render is replaceable. It is not a freeze. The final table of contents remains open."
+
+preparation:
+  state: public-preview
+  frozen: false
+  living_view: ../suivi.md
+  constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
+  petition_status: "working draft, not filed, content not fixed"
+  note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
+
+chapters:
+  - ../manuscript/magazine-n4/00-en-preparation.md
+  - ../manuscript/magazine-n4/01-rendez-vous-1er-octobre.md
+  - ../manuscript/magazine-n4/02-influence-et-comparaison.md
+  - ../manuscript/magazine-n4/03-ce-qui-reste-ouvert.md
+
+outputs:
+  required: [html, pdf, epub]
+  optional: []
+  status: "preparation render; publication_status remains draft; not a freeze"
+  technical_manifest: required

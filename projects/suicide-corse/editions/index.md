@@ -131,8 +131,9 @@ Le matériau canonique de cet axe reste le dossier [`research/senatoriales-2026/
 
 ## Numéro 4 — en construction
 
-**Statut : travaux en cours. Pas une édition gelée. Aucun artefact HTML, PDF ou EPUB.**
+**Statut : en préparation. Pas une édition gelée. Le rendu public est remplaçable.**
 
+- **Préparation :** [`projections/book-n4-preparation.yml`](../projections/book-n4-preparation.yml). Magazine provisoire du delta connu. Le sommaire définitif reste ouvert.
 - **Vue vivante :** [`suivi.md`](../suivi.md). Elle suit `main`. Elle n'est pas une édition.
 - **Chantier :** [issue #90](https://github.com/JeanHuguesRobert/barons-Mariani/issues/90).
 - **Contrat :** [`projections/book-n4-working.yml`](../projections/book-n4-working.yml) — `render_ready: false`, sommaire vide.

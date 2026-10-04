@@ -19,6 +19,7 @@ construction:
   activation: "editorial activation recorded on 2026-10-02, after the explicit n3 freeze"
   baseline_repository_commit: 88c4d11f5d1aef2a9eaa9a32b6b8c5eade777f9d
   living_view: ../suivi.md
+  preparation_projection: ./book-n4-preparation.yml
   zero_state_journal: ../journals/2026-10-02-n4-etat-zero.md
   predecessor_freeze:
     source_commit: a20919f95be54c8226bcd3df08b21f731d1d2e34
@@ -47,8 +48,9 @@ editorial_plan:
     The 2026-10-02 zero-state classifies the post-n3 delta.
     The living view is ../suivi.md. It moves with main and is not a frozen edition.
     Livre, Magazine and Annexes remain candidates.
-    No table of contents is fixed.
-    A working render stays unjustified while chapters are empty.
+    No final table of contents is fixed.
+    book-n4-preparation.yml is the replaceable public preview.
+    This working contract stays render_ready false.
     The 1 October visit has a constat. It is not an inventory of every piece leafed.
 
 campaign_references:
