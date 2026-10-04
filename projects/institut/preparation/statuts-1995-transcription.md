@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "source-transcription — under-review"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -26,6 +26,10 @@ provenance:
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "unknown"
   origin_date: "2026-10-04"
+  source_file_title: "Status CORSICA.pdf"
+  source_file_id: "1m_9CwRPVAyqWVhOr-Hv1z-bxU_6gvIf4"
+  source_sha256: "d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611"
+  source_pages: 6
   derived_from:
     - "Google Drive: Status CORSICA.pdf — file id 1m_9CwRPVAyqWVhOr-Hv1z-bxU_6gvIf4"
     - "Gmail: Statuts association — 2018-12-09, thread reproducing prefecture exchange of 2018-04-03/05"
@@ -69,6 +73,21 @@ Il faut donc distinguer :
 date exacte de dépôt / enregistrement
 → à confirmer par récépissé ou registre préfectoral primaire
 ~~~
+
+### Chaîne de conservation et d'usage ultérieur
+
+La provenance est renforcée par plusieurs traces indépendantes :
+
+- **3 avril 2018** : le secrétaire demande à la préfecture une copie des statuts, en les désignant comme ceux « du 26 janvier 1996 » ; la préfecture renvoie le jour même la copie demandée ;
+- **9 décembre 2018** : cette copie préfectorale est retransmise à un tiers et le président indique que les statuts feront l'objet d'une « modification prochaine » pour tenir compte des nouvelles orientations — ce qui constitue un indice fort que la refonte 2018 n'était pas encore adoptée à cette date ;
+- **12 janvier 2021** : un PDF intitulé `Statuts CORSICA.pdf`, correspondant à la même famille de scan, est encore utilisé comme statuts de l'association ;
+- **14 mars 2023** : Société Générale demande une confirmation que les statuts datés du 25/12/1995 sont « les derniers en date » ;
+- **mai 2024** : la même copie 1995 est adressée au greffe des associations dans le cadre de la recherche / attribution d'un numéro RNA ; la sous-préfecture demande ensuite un PV d'assemblée générale et les CERFA modificatifs nécessaires ;
+- **30 septembre 2026** : les données administratives publiques indiquent toujours l'association en activité, créée le 26/12/1995, sans numéro RNA affiché.
+
+Ces traces ne remplacent pas un récépissé préfectoral complet, mais elles rendent la version 1995 **de très loin la meilleure candidate actuelle pour les statuts opposables**, tant qu'une adoption ultérieure n'est pas retrouvée.
+
+La date du **26/12/1995** est par ailleurs aujourd'hui corroborée comme date de création dans la base publique INSEE ; elle doit être distinguée de la date manuscrite de signature **25/12/1995** et de la référence « 26 janvier 1996 » utilisée dans la demande de copie à la préfecture en 2018.
 
 ### Convention de transcription
 
