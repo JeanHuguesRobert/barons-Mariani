@@ -19,6 +19,7 @@ architecture:
   doctrine: projects/privai/doctrine/anti-demos.md
   project_index: projects/privai/README.md
   editions: projects/privai/editions/index.md
+  cases: projects/privai/cases/
   sources: projects/privai/sources/README.md
   manuscript_n1: projects/privai/manuscript/n1/00-qui-restera-souverain.md
   site: projects/privai/site/
