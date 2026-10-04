@@ -27,8 +27,11 @@ provenance:
     - "architecture-des-campagnes.md"
     - "../manuscript/08-presidentielle-2027.md"
 review:
-  status: "unreviewed"
-  reviewed_by: []
+  status: "partial"
+  reviewed_by:
+    - "Jean Hugues Noël Robert"
+  reviewed_at: "2026-10-04"
+  scope: "Architecture, principes et cohérence générale approuvés ; revue détaillée ligne par ligne et revue adverse encore ouvertes."
 ---
 
 # Marche du Soleil
@@ -41,7 +44,7 @@ Elle n'est pas un élément historique de la campagne sénatoriale 2026 et ne do
 
 ## Définition de travail
 
-> **La Marche du Soleil est la Campagne du Réel en mouvement : une exploration publique destinée à révéler les capacités existantes, les empêchements qui les limitent et les moyens concrets de rendre les personnes et les territoires plus capables.**
+> **La Marche du Soleil est la mise en mouvement territoriale de la grammaire éprouvée par la Campagne du Réel : une exploration publique destinée à révéler les capacités existantes, les empêchements qui les limitent et les moyens concrets de rendre les personnes et les territoires plus capables.**
 
 Elle constitue un dispositif territorial de la seconde campagne, non une simple tournée de meetings.
 
