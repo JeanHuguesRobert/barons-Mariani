@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -18,6 +18,7 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
+  - "projects/institut/sources/statuts-corsica-1995-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
   - "projects/institut/preparation/janus-master.md"
@@ -57,6 +58,17 @@ texte de travail
 ≠ texte déclaré
 ≠ texte opposable aux tiers
 ~~~
+
+## 0 bis. Source textuelle vérifiée
+
+La transcription vérifiée du scan est publiée dans `projects/institut/sources/statuts-corsica-1995-transcription.md`.
+
+Deux copies indépendamment conservées du même document ont été retrouvées :
+
+- copie Drive issue de la chaîne préfectorale 2018 : SHA-256 `d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611` ;
+- copie jointe au courrier au greffe en mai 2024 : SHA-256 `5e2afef1101526b0e6ec1f33dbfe197de6a548c0c2f6e21195cdf9939ee97e49`.
+
+Les rendus des six pages correspondent au même contenu documentaire, malgré des enveloppes PDF différentes. Cette redondance renforce la provenance de la baseline sans transformer la transcription en original.
 
 ## 1. Chaîne primaire 1995–1996
 
