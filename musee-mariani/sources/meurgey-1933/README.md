@@ -30,3 +30,23 @@ La pagination canonique est celle du **livre papier**. Les numéros de PDF, scan
 6. interprétation historique et généalogique séparée de la transcription.
 
 Issue Cognitive Packet : #97.
+
+
+## Projection de recherche aval — sans contaminer la transcription
+
+La reconstitution de Meurgey est désormais reliée à un chantier transversal de *Rise & Fall* :
+
+- [Meurgey 1933 → 2026 — exil, impinzutimentu, diaspora et réancrage](../../../projects/rise-and-fall/investigation/notes/2026-10-04-meurgey-diaspora-impinzutimentu.md).
+
+La séparation reste stricte :
+
+```text
+scan / page papier
+→ transcription fidèle
+→ vérification
+→ structure généalogique dérivée
+→ enquête 1933–2026
+→ interprétation comparative
+```
+
+Les cinq tableaux généalogiques signalés dans les descriptions bibliographiques constituent une priorité de récupération parce qu'ils peuvent fournir le snapshot `t0 = 1933`. Leur transcription et leur reconstruction doivent néanmoins rester indépendantes de toute hypothèse sur la diaspora, le désancrage territorial ou la survie contemporaine des branches.
