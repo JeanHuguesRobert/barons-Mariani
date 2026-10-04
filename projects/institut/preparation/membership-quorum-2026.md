@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.4"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -103,6 +103,73 @@ declared_active_population_2026:
 ~~~
 
 Elle devient néanmoins une piste importante : un écart éventuel entre un registre statutaire reconstitué et cet ordre de grandeur devra être expliqué.
+
+## 3 ter. Structure agrégée du registre privé 2018–2019
+
+Le tableur privé contient 33 entrées. Sans publier aucune identité ni coordonnée, les libellés opérationnels observés se répartissent ainsi :
+
+| Libellé opérationnel dominant | Nombre |
+|---|---:|
+| « usager » | 10 |
+| « bénévole » (avec ou sans spécialité) | 16 |
+| fonction / responsabilité opérationnelle | 6 |
+| statut vide | 1 |
+
+Seules 9 entrées comportent une date d’entrée renseignée dans la colonne correspondante.
+
+Ces libellés ne sont **pas** les catégories juridiques de l’article 3 des statuts 1995. En particulier :
+
+~~~text
+bénévole
+≠ automatiquement membre actif statutaire
+
+usager
+≠ automatiquement membre adhérent statutaire
+
+fonction de projet
+≠ admission par le conseil d’administration
+~~~
+
+L’article 3 exige en effet, pour devenir membre, un agrément du conseil d’administration après présentation par plusieurs membres. Le présent passage n’a pas retrouvé de registre d’agréments correspondant aux 33 lignes.
+
+## 3 quater. Pratique 2019–2020 : indice de divergence entre texte et usage
+
+Un courrier d’octobre 2019 décrit C.O.R.S.I.C.A. comme ayant des « membres actifs qui votent » et des « membres inactifs qui ne votent pas ». Cette grammaire correspond davantage au projet de refonte 2018–2019 qu’au vocabulaire exact des statuts 1995.
+
+Un PV du 15 octobre 2020 retrouvé dans un dossier bancaire décrit ensuite un bureau composé de trois fonctions : président, trésorier, secrétaire. La copie retrouvée est non signée et Société Générale en demandera une version signée en 2023.
+
+Or l’article 5 des statuts 1995 prévoit un bureau comprenant aussi un ou deux vice-présidents.
+
+La meilleure lecture provisoire est donc :
+
+~~~text
+pratique associative ayant évolué
+→ ESTABLISHED / RECONSTRUCTED
+
+adoption formelle du modèle 2018
+→ NOT FOUND
+
+correspondance parfaite entre pratique et statuts 1995
+→ FALSE / NON OBSERVED
+~~~
+
+Cette divergence interdit d’utiliser sans contrôle les catégories historiques du tableur pour calculer le corps électoral 2026.
+
+## 3 quinquies. Conséquence opérationnelle pour la convocation
+
+Avant d’envoyer une convocation modificative, il faut produire en privé une matrice minimale :
+
+~~~text
+personne
+→ preuve d’admission
+→ catégorie statutaire 1995
+→ preuve éventuelle de démission / radiation
+→ membre en exercice ?
+→ droit de participer à l’AG ?
+→ droit de vote ?
+~~~
+
+Le Corpus public ne conservera ensuite que les agrégats et la méthode.
 
 ## 4. Reconstruction requise
 
