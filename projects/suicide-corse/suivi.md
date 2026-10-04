@@ -26,6 +26,10 @@ Niveaux de preuve, les mêmes que dans le constat du 1er octobre :
 - **rapporté** : récit direct du participant, ou propos oral attribué ;
 - **inconnu** : non établi par une source de cette page.
 
+## 4 octobre 2026 — le site public ouvre cette page
+
+Le bouton « Suivre le n°4 » de [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org) pointe ici. La release servie est `2026-10-04-n4-suivi-66727f1`, commit d'artefact `66727f190bbf3d3028636bd82e925ef8d32d4662`. L'édition gelée du numéro 3 est la même : le PDF public pèse 907240 octets, empreinte inchangée. Cette promotion n'est pas un gel du numéro 4.
+
 ## 4 octobre 2026 — cette page devient la vue
 
 Le chantier public du numéro 4 était dispersé entre l'issue n°90, un contrat de projection encore à l'état zéro, et le journal d'ouverture du 28 septembre. Le constat du rendez-vous était déjà dans le dépôt. Ces portes ne le montraient pas.
