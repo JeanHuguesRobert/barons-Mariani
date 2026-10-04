@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -29,8 +29,7 @@ provenance:
   origin_date: "2026-10-04"
   derived_from:
     - "statuts C.O.R.S.I.C.A. signés à Corte le 25/12/1995"
-    - "récépissé sous-préfecture de Corte de janvier 1996"
-    - "publication au Journal officiel du 24/01/1996"
+    - "dates de récépissé/publication 1996 précédemment reconstruites — source primaire à retrouver"
     - "copie préfectorale transmise en 2018"
     - "draft Statuts_2018-2019_C.O.R.S.I.C"
     - "dossiers de conformité bancaire 2022-2023"
@@ -70,19 +69,51 @@ Deux copies indépendamment conservées du même document ont été retrouvées 
 
 Les rendus des six pages correspondent au même contenu documentaire, malgré des enveloppes PDF différentes. Cette redondance renforce la provenance de la baseline sans transformer la transcription en original.
 
-## 1. Chaîne primaire 1995–1996
+## 1. Chaîne primaire 1995–1996 — état vérifié au 5 octobre 2026
 
-Les pièces primaires retrouvées produisent une chronologie légèrement dissonante qu’il faut conserver plutôt que lisser.
+Une revue de provenance a été effectuée après l’apparition, dans une version précédente de ce document, de dates précises de récépissé et de publication.
+
+### Pièces directement retrouvées / vérifiées
 
 | Date | Pièce | Ce qu’elle indique | Qualification |
 |---|---|---|---|
-| 25/12/1995 | statuts signés | signature à Corte par les fondateurs | ESTABLISHED |
-| 26/12/1995 | Journal officiel du 24/01/1996 | « Date de la déclaration : 26 décembre 1995 » | ESTABLISHED |
-| 04/01/1996 | récépissé sous-préfecture | date manuscrite de déclaration reçue | ESTABLISHED |
-| 08/01/1996 | récépissé sous-préfecture | récépissé délivré à Corte | ESTABLISHED |
-| 24/01/1996 | Journal officiel | publication de la création de C.O.R.S.I.C.A. | ESTABLISHED |
+| 25/12/1995 | statuts signés scannés | mention manuscrite « Corte le 25/12/95 » et signatures | ESTABLISHED |
+| 26/12/1995 | courrier de transmission au greffe en 2024 + base publique INSEE/Annuaire | date de création / dépôt alléguée et date de création administrative actuelle | ESTABLISHED pour la date publique INSEE ; REPORTED pour le dépôt historique précis |
+| 03/04/2018 | réponse PREF2B avec copie des statuts | la préfecture possédait et a retransmis le scan ancien | ESTABLISHED |
+| 14/05/2024 | email au greffe | les statuts sont décrits comme « tels que déposés à la sous-préfecture de Corte le 26 décembre 1995 » | ESTABLISHED comme déclaration contemporaine ; dépôt historique REPORTED |
 
-La divergence entre 26 décembre 1995 et 4 janvier 1996 reste à expliquer. Elle n’empêche pas d’établir la continuité de la création et de la publicité administrative.
+### Dates apparues dans la reconstruction mais source primaire non retrouvée dans le présent audit
+
+Une version précédente de ce fichier mentionnait :
+
+~~~text
+04/01/1996
+→ date manuscrite de déclaration reçue
+
+08/01/1996
+→ récépissé délivré
+
+24/01/1996
+→ publication au Journal officiel
+~~~
+
+Le présent audit n’a retrouvé ni le récépissé correspondant dans Drive/Gmail, ni une copie primaire de cette publication au Journal officiel, ni une source publique en ligne permettant d’en vérifier directement les mentions.
+
+Ces dates sont donc rétrogradées :
+
+~~~yaml
+receipt_1996:
+  epistemic_status: REPORTED_OR_PREVIOUSLY_RECONSTRUCTED
+  primary_source_currently_available: false
+
+journal_officiel_1996:
+  epistemic_status: REPORTED_OR_PREVIOUSLY_RECONSTRUCTED
+  primary_source_currently_available: false
+~~~
+
+Elles ne doivent plus être citées comme `ESTABLISHED` tant que la pièce source n’est pas retrouvée.
+
+La chaîne robuste demeure néanmoins forte : statuts signés en 1995, copie détenue par la préfecture et renvoyée en 2018, usage continu du même texte jusqu’en 2024, et date administrative publique de création au 26/12/1995.
 
 ## 2. Contenu pertinent des statuts signés de 1995
 
