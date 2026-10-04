@@ -65,13 +65,14 @@ related_documents:
   - "research/tensions_liberte_egalite_fraternite_effectives.md"
   - "research/triangulation_du_reel.md"
   - "research/review_protocol.md"
+  - "research/reviews/review_claude_moyens_et_finalites_2026-10-04.md"
   - "projects/capable/doctrine.md"
   - "JeanHuguesRobert/cogentia:research/documents_as_cognitive_packets.md"
   - "JeanHuguesRobert/cogentia:research/trace_treatment_packet.md"
 x-cognitive-packet:
   candidate: true
   profile: "document-backed-capsule"
-  causal_frontier: "v0.3-draft-local-copy"
+  causal_frontier: "git:10970fa7795b826e2359769532d49ddd5edbbaaa"
   transmission_modes:
     - "markdown-file"
     - "copy-paste"
