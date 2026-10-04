@@ -114,6 +114,27 @@ Voir [source CFC — train n°2 Ajaccio–Bastia](./sources/cfc_horaire_train_2_
 | 25/09 16:59:31–16:59:36 | deux accusés automatiques de réception de la préfecture / bureau des élections | established | confirment la réception électronique de la saisine ; ne préjugent ni de la complétude, ni de la recevabilité, ni du fond de la réponse |
 | 25/09 17:28:07 | réponse du DPO du ministère de l’Intérieur à la demande antérieure de rectification des données publiées | established as institutional response | indique qu'après annulation de la candidature les données concernées ne figurent plus sur le site du ministère et que la rectification demandée ne peut donc plus être effectuée sur cette publication ; ce résultat documente la disparition de l'objet publié à corriger, sans résoudre les questions de conservation ou de traçabilité historique |
 
+
+## 1er octobre 2026 — consultation post-scrutin et pièces matérielles
+
+| Heure CEST | Événement | Statut | Observation |
+|---|---|---|---|
+| 10:11:07 | Adrien Vidal communique l'adresse matérielle du rendez-vous | established | 15 avenue Jean Zuccarelli, Bastia ; les salons de la préfecture sont indiqués indisponibles ce jour-là ; P-37 |
+| 12:30:20 | réponse de Jean Hugues Noël Robert sur l'adresse et son déplacement | established | P-38 ; l'arrivée effective est distincte de l'horaire annoncé |
+| 14:00 | rendez-vous de consultation prévu | established | créneau fixé par le Bureau des élections |
+| pendant la consultation | accueil par Adrien Vidal et une agente de la préfecture non encore identifiée | established for Vidal + reported for second agent | le principal rapporte que la seconde agente a étudié le droit notamment à Blois et Toulouse et suit les intercommunalités de Haute-Corse ; identité UNKNOWN |
+| début de consultation | formulaire de demande de consultation rempli, signé et photographié | established by contemporaneous photograph | formalité préalable à l'accès aux pièces |
+| pendant la consultation | quatre dossiers de section sont matériellement présentés | established by contemporaneous photographs + principal report | dossiers identifiés Section 1 à Section 4 |
+| pendant la consultation | à la demande du consultant, orientation vers le dossier contenant le bulletin recherché | reported | aucune difficulté particulière d'accès à cette séquence n'est rapportée |
+| pendant la consultation | photographie d'un bulletin imprimé portant « (Elections Sénatoriales 2027) BARON MARIANI » et de son enveloppe contresignée | established | source dédiée avec SHA-256 et copies Drive : `sources/bulletin-nul-baron-mariani-2026-10-01.md` |
+| pendant la consultation | photographie de la double page de la section concernée et de plusieurs pièces de dépouillement | established by photographs | la section 4 montre notamment 122 voix Parigi + 25 voix Battini = 147 exprimés, cohérent avec le total visible au PV |
+| pendant la consultation | Adrien Vidal indique oralement, selon le principal, connaître des dysfonctionnements intermittents des réponses automatiques et un problème concernant les courriels volumineux | reported oral statement | ne vaut pas reconnaissance écrite d'un incident précis et ne résout pas le statut du courriel du 11/09 à 17:57:55 |
+| 15:13:26 | réponse de la greffière en chef du TA de Bastia | established | P-33 ; invitation à saisir le Conseil constitutionnel si le requérant entend contester les jugements |
+| après la consultation | retour vers le centre de Bastia puis retour ferroviaire vers Corte en fin de journée | established in part by photographs and CFC ticket + reported segments | snapshot dédié : `snapshots/chronologie-1-octobre-etat-2026-10-04.md` |
+
+Compte rendu probatoire détaillé : [`constat-consultation-2026-10-01-rp-sen-08-c.md`](constat-consultation-2026-10-01-rp-sen-08-c.md).
+
+
 ## Discipline de lecture
 
 Cette chronologie ne permet notamment pas encore d'affirmer :
