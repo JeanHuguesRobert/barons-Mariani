@@ -17,5 +17,9 @@ outline: projects/commons/manuscript/n1/README.md
 cases: projects/commons/cases/
 chronology: projects/commons/chronology/README.md
 sources: projects/commons/sources/README.md
+annexes: projects/commons/annexes/README.md
+magazine: projects/commons/magazine/README.md
+guide_profile: projects/commons/guide-profile.yml
+deploy: projects/commons/deploy/README.md
 public_page: projects/commons/site/n1.html
 rule: "This projection is not a frozen edition. If the public site pages and the manuscript diverge, the manuscript is the canonical corpus source."

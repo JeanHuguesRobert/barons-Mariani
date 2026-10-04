@@ -1005,6 +1005,25 @@ Le Musée fournit un terrain naturel pour tester :
 - la contribution du public ;
 - le passage de la trace au stabilisateur.
 
+### 20.5. PrivAI
+
+Cinquième application majeure, centrée sur la thèse de la souveraineté humaine face aux personnes morales augmentées par l'intelligence artificielle. PrivAI met à l'épreuve le Livre Vivant sur un terrain de haute autorité constitutionnelle et politique :
+- le principe **Anti-Demos** (interdiction de la personnalité politique et du droit de vote accordés aux entités algorithmiques ou personnes morales) ;
+- la grille d'asymétrie cognitive et capacitaire ;
+- la traçabilité des actes publics ;
+- la doctrine de non-substitution du jugement humain.
+
+### 20.6. Commons
+
+Sixième application, dédiée à l'histoire, au présent et aux avenirs possibles des biens communs sous tous leurs substrats (« Des communaux au cloud »). Commons instancie de manière exemplaire l'architecture complète des **cinq faces** du Livre Vivant :
+- **Livre :** récit en 4 mouvements et annexes démonstratives (*Carta de Foresta*, archives corses, grille d'audit Ostrom, comparatif des licences d'IA) ;
+- **Magazine :** chroniques vivantes de terrain (enclosure du cloud et calcul GPU, microréseaux solaires FractaVolta et monnaie d'utilité collective Kudos/CXU) ;
+- **Site Web :** surface statique de lecture publique universelle (`commons.acorsica.org`) ;
+- **Agent conversationnel :** profil de Guide public borné fondé sur 8 invariants stricts et zéro rétention de données ;
+- **Surface de collecte engageante :** interface locale de génération de brouillons d'objections et de corrections.
+
+Elle illustre comment le Livre Vivant relie une mémoire territoriale profonde (les communaux pastoraux du Niolu) aux architectures contemporaines de souveraineté cognitive et énergétique.
+
 ---
 
 ## 21. Revue interne Redactor / Reviewer
