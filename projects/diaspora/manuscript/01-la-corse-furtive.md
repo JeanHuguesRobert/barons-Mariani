@@ -78,6 +78,32 @@ https://www.insee.fr/fr/statistiques/6483268
 
 Le Corpus fournit déjà un exemple familial utile : **Jean Hugues Noël Robert** est inscrit à l'état civil avec plusieurs prénoms séparés mais est appelé socialement **Jean-Hugues**. Dans la génération antérieure étudiée au Musée Mariani, **Louis Hugues Ferdinand Marie Mariani** apparaît lui-même sous plusieurs graphies, avec ou sans traits d'union selon les sources. La ponctuation administrative ne suffit donc pas à capturer l'usage anthroponymique.
 
+## Probe 3 — Meurgey 1933 → 2026 : comment la diaspora se forme-t-elle ?
+
+Le chantier transversal de *Rise & Fall* [Meurgey 1933 → 2026](../../rise-and-fall/investigation/notes/2026-10-04-meurgey-diaspora-impinzutimentu.md) offre une cohorte familiale historique pour poser une question complémentaire à celle de la *Corse furtive*.
+
+DIASPORA demande déjà :
+
+> **où se trouvent les capacités corses distribuées ?**
+
+Le nouveau test ajoute :
+
+> **par quelles trajectoires ces capacités ont-elles quitté l'île, sont-elles restées reliées à elle, s'en sont-elles désancrées ou y sont-elles revenues ?**
+
+L'hypothèse n'est pas que toute mobilité constitue une « fuite ». Un départ peut augmenter fortement la capacité effective d'une personne. L'objet est de mesurer séparément :
+
+```text
+gain de capacité individuelle
+≠
+maintien de capacité territoriale en Corse
+≠
+maintien du lien diasporique
+≠
+retour / réancrage
+```
+
+Le corpus familial ne peut pas prouver à lui seul une loi corse générale. Il sert de **probe longitudinal** : une trajectoire particulièrement documentée à confronter ensuite à des données et comparateurs indépendants.
+
 ## Méthode : révéler sans inventer
 
 ~~~text
