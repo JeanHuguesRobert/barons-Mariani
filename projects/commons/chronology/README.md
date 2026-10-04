@@ -29,6 +29,8 @@ Cette chronologie jalonne l'évolution historique, institutionnelle et technique
   Mise en place en Espagne des tribunaux et règlements d'irrigants organisant l'arbitrage oral et la répartition de l'eau sans dépendance royale.
 * **XVe – XVIIIe siècles — Première vague d'enclosures anglaises**  
   Conversion des terres arables et des communaux en pâturages clos pour l'élevage des moutons (commerce de la laine). Thomas More dénonce dans *Utopia* (1516) les « moutons qui mangent les hommes ».
+* **1571 — Promulgation des *Statuti di Corsica* (République de Gênes)**  
+  Codification juridique des institutions villageoises corses : élection annuelle des *Padri del Comune*, nomination des gardes-champêtres assermentés (*campari*), protection stricte des communaux pastoraux (*terreni communi*), réglementation des canaux d'irrigation et interdiction pénale des clôtures privatives abusives (*chiudende*).
 * **1760 – 1840 — Les *Parliamentary Enclosure Acts* britanniques**  
   Parlementarisation massive de l'expropriation des communaux : plus de 4 000 lois d'enclosure votées par la Chambre des communes pour clôturer plus de 7 millions d'acres de terres communes, détruisant l'autonomie des paysans ruraux.
 * **10 juin 1793 — Décret de la Convention nationale sur le partage des communaux (France)**  
@@ -72,6 +74,8 @@ Cette chronologie jalonne l'évolution historique, institutionnelle et technique
 
 * **2010 – 2020 — Enclosure du Web : centralisation par les Hyperscalers**  
   Le logiciel libre s'exécute désormais sur les serveurs de géants monopolistiques du cloud (AWS, Azure, Google Cloud). Mécanisme d'enclosure de services : l'utilisateur consomme du logiciel sans jamais avoir accès au code déployé ni à la souveraineté sur ses propres données.
+* **2018 – 2024 — Émergence des protocoles de données souveraines (Solid, IPFS, ActivityPub, AT Protocol)**  
+  Riposte décentralisée face au modèle féodal des méga-plateformes de surveillance : dissociation entre l'infrastructure protocolaire ouverte (commun) et les capsules personnelles de données (souveraineté individuelle, Pods Solid, identités DIDs, profils KYS) permettant le droit de sortie unilatéral (*exit rights*).
 * **2023 – 2024 — Le choc de l'IA générative et l'enclosure du calcul**  
   Les modèles d'IA de frontière exigent des milliards de dollars d'infrastructure de calcul (GPU/TPU) et des térawattheures d'électricité, créant une barrière capitalistique sans précédent. Tentatives de captation réglementaire visant à interdire ou brider les modèles à poids ouverts.
 * **2024 – 2025 — Définition de l'Open Source AI (OSI)**  

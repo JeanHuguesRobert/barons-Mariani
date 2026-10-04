@@ -43,3 +43,5 @@ Le **Magazine** accueille des articles d'actualité, des enquêtes de terrain, d
   *Par Jean Hugues Noël Robert, baron Mariani.* Enquête sur le passage de l'enclosure SaaS à l'enclosure matérielle du calcul dans l'intelligence artificielle, et les voies d'une contre-offensive par les modèles frugaux et les communs cognitifs.
 - **[Le soleil comme commun démocratique : retour sur l'architecture FractaVolta et les microréseaux méditerranéens](2026-10-04-communs-energetiques-fractavolta.md)** (4 octobre 2026)  
   *Par Jean Hugues Noël Robert, baron Mariani.* Analyse de terrain sur l'autoconsommation collective en Corse, la mutualisation coopérative de l'infrastructure de stockage et l'adossement à la monnaie d'utilité collective (Kudos / CXU).
+- **[L'eau rare en Méditerranée : les leçons des consorzi corses face aux mégabassines](2026-10-04-eau-rare-et-consorzi-mediterraneens.md)** (4 octobre 2026)  
+  *Par Jean Hugues Noël Robert, baron Mariani.* Enquête comparée entre le modèle extractif capitalistique des retenues de substitution et l'autogouvernance millénaire des canaux de montagne par les tours d'eau (*a roda*) et les corvées solidaires.
