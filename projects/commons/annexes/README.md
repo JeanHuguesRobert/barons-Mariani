@@ -30,9 +30,9 @@ Les **Annexes** fournissent le substrat probatoire du Livre Vivant. Elles rassem
    - Extraits choisis des *Parliamentary Enclosure Acts* (1760-1830).  
    - Décrets de la Convention nationale sur les biens communaux (juin 1793).
 2. **Instruments Juridiques Contemporains**  
+   - [**Comparatif critique des licences d'IA**](comparatif-licences-ia.md) : Analyse comparative des licences Apache 2.0, AGPLv3, Llama Community (Meta), OpenRAIL et conformité avec l'Open Source AI Definition de l'OSI.
    - Texte intégral de la GNU General Public License v3 (GPLv3).  
    - Licences Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).  
-   - Comparatif juridique des licences de modèles d'IA (Llama Community License vs Apache 2.0 vs OpenRAIL).
 3. **Outils d'Audit et Grilles d'Évaluation**  
    - [**Grille d'audit institutionnel d'Ostrom**](grille-ostrom-audit.md) : Opérationnalisation des 8 principes de conception d'Elinor Ostrom et diagnostic de vulnérabilité aux 7 modes de capture.
    - Protocole de test de robustesse anti-capture.
