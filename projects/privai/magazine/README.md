@@ -25,3 +25,5 @@ Le Magazine accueille le delta vivant entre la doctrine et l'actualité technolo
 
 - **2026-10-04** — [**L'illusion de l'électeur synthétique : pourquoi déléguer son vote à un agent détruit la souveraineté**](2026-10-04-illusion-electeur-synthetique.md)  
   *Critique doctrinale.* Analyse des propositions d'« agents électoraux automatisés » et démonstration de la capture inévitable du corps politique par les opérateurs de modèles.
+- **2026-10-04** — [**Le syndrome des Nobles Douze algorithmiques : quand les corps intermédiaires automatisés capturent la volonté générale**](2026-10-04-le-syndrome-des-nobles-douze-algorithmiques.md)  
+  *Généalogie comparée.* Parallèle entre la défaillance des corps intermédiaires génois (1571–1729) et les nouveaux automates décisionnels interposés entre le citoyen et les personnes morales augmentées.

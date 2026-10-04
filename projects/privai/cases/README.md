@@ -46,3 +46,5 @@ effectiveness_criterion:  # La personne dispose-t-elle de davantage de capacité
    *Axe : Contentieux & imputabilité.* Briser l'alibi « l'algorithme a recommandé » par la chaîne minimale d'imputation humaine.
 4. [**Cas 04 : KYS et projection cognitive bornée vs captation comportementale**](case-04-kys-profilage-cognitif-borne.md)  
    *Axe : Protection psychocognitive.* Déléguer une projection spécialisée sans exposer sa mémoire épisodique aux opérateurs de modèles.
+5. [**Cas 05 : Parcoursup et l'opacité décisionnelle des algorithmes locaux**](case-05-parcoursup-et-la-boite-noire-decisionnelle.md)  
+   *Axe : Décision publique automatisée & secret des barèmes.* L'épreuve de l'asymétrie cognitive entre candidats lycéens et algorithmes locaux discrétionnaires.

@@ -99,3 +99,13 @@ sources:
     path: "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md"
     role: infrastructure-axiom
     required: true
+  - id: commons-corpus
+    path: projects/commons/corpus.yml
+    role: material-commons-substrate
+    required: false
+    note: "L'ancrage des communs matériels face aux enclosures cognitives."
+  - id: projet-1755-corpus
+    path: projects/1755/corpus.yml
+    role: constitutional-sovereignty-lineage
+    required: false
+    note: "La filiation historique de la souveraineté constituante et du Sindacato face aux pouvoirs abusifs."
