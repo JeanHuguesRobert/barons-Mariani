@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide public — Commons</title>
+<meta name="description" content="Le Guide public Commons répond à partir du corpus documentaire (communaux, Ostrom, enclosures, cloud, énergie, cognition). Il n'enregistre rien sur un serveur.">
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://commons.acorsica.org/guide.html">
+</head>
+<body data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="commons">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Commons · Livre Vivant</a></p>
+  <nav aria-label="Sections">
+    <a href="index.html">Accueil</a>
+    <a href="n1.html">Numéro 1</a>
+    <a href="cases.html">Cas</a>
+    <a href="chronologie.html">Chronologie</a>
+    <a href="magazine.html">Magazine</a>
+    <a href="annexes.html">Annexes</a>
+    <a href="sources.html">Sources</a>
+    <a href="glossaire.html">Glossaire</a>
+    <a href="contribuer.html">Contribuer</a>
+    <a href="guide.html" aria-current="page">Guide</a>
+    <a href="mentions.html">Mentions</a>
+  </nav>
+</header>
+<main id="contenu">
+  <h1>Guide public</h1>
+  <p class="pill">Profil spécifié · en attente de déploiement serveur</p>
+  <p class="lede">Ce Guide explore le corpus public de <strong>Commons</strong> (histoire des communaux, grille d'Ostrom, enclosures médiévales et contemporaines, énergie partagée, communs de calcul et cognitifs). Il peut préparer un brouillon d'objection, d'observation ou de signalement. <strong>Il n'envoie aucune donnée personnelle, n'enregistre rien sur un serveur, et n'engage pas l'auteur.</strong></p>
+
+  <div class="card">
+    <p>Le profil d'inférence borné est spécifié dans <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/commons/guide-profile.yml"><code>projects/commons/guide-profile.yml</code></a>. Si le service commun (<code>cogentia.fractavolta.com</code>) ne répond pas encore sur ce profil, consultez directement la <a href="n1.html">projection n°1</a>, les <a href="cases.html">Cas de référence</a> et les <a href="annexes.html">Annexes documentaires</a>.</p>
+  </div>
+
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <form id="ask">
+    <label for="question"><strong>Votre question sur l'histoire des communs, un cas d'étude ou un principe de gouvernance :</strong></label>
+    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. Quelle est la différence entre les biens de club et les ressources communes selon Ostrom ? Ou comment FractaVolta évite-t-il la capture marchande ?" required style="width:100%;margin-top:0.5rem;padding:0.75rem;border-radius:4px;border:1px solid #cbd5e1;font-family:inherit;"></textarea>
+    <button type="submit" style="margin-top:0.5rem;padding:0.6rem 1.2rem;background:#0f172a;color:#fff;border:none;border-radius:4px;cursor:pointer;font-weight:600;">Interroger le Guide</button>
+  </form>
+
+  <section class="draft" aria-labelledby="draft-title" style="margin-top:2.5rem;border-top:1px solid #e2e8f0;padding-top:1.5rem;">
+    <h2 id="draft-title">Préparer une observation, objection ou correction</h2>
+    <p>Le modèle ci-dessous est généré localement dans votre navigateur. Vous pouvez le modifier avant de le copier pour ouvrir une issue sur GitHub ou soumettre une contribution.</p>
+    <div class="acts" style="display:flex;gap:0.75rem;margin-bottom:1rem;flex-wrap:wrap;">
+      <button type="button" id="prepare-contribution" style="padding:0.5rem 1rem;background:#e2e8f0;border:1px solid #cbd5e1;border-radius:4px;cursor:pointer;">Préparer une observation doctrinale</button>
+      <button type="button" id="prepare-correction" style="padding:0.5rem 1rem;background:#e2e8f0;border:1px solid #cbd5e1;border-radius:4px;cursor:pointer;">Signaler une erreur ou une source manquante</button>
+    </div>
+    <label for="draft-subject" style="display:block;margin-top:0.5rem;font-weight:600;">Objet</label>
+    <input id="draft-subject" name="subject" type="text" value="[Observation Commons] " style="width:100%;padding:0.5rem;margin-bottom:0.75rem;border:1px solid #cbd5e1;border-radius:4px;">
+    <label for="draft-body" style="display:block;font-weight:600;">Corps du message</label>
+    <textarea id="draft-body" name="body" rows="10" style="width:100%;padding:0.75rem;border:1px solid #cbd5e1;border-radius:4px;font-family:inherit;"></textarea>
+    <button type="button" id="copy-draft" style="margin-top:0.5rem;padding:0.6rem 1.2rem;background:#1e293b;color:#fff;border:none;border-radius:4px;cursor:pointer;">Copier le brouillon dans le presse-papier</button>
+    <p id="draft-status" class="status" role="status" style="margin-top:0.5rem;color:#047857;font-weight:500;"></p>
+  </section>
+</main>
+<footer>
+  <p>Commons · Corpus source : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/commons">projects/commons/</a> · Institut Mariani / C.O.R.S.I.C.A. · Aucun profil privé n'est collecté.</p>
+</footer>
+<script src="guide.js"></script>
+</body>
+</html>

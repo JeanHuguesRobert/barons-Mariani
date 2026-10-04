@@ -26,6 +26,8 @@ architecture:
   editions: projects/commons/editions/index.md
   journals: projects/commons/journals/
   projections: projects/commons/projections/n1-working.yml
+  deploy: projects/commons/deploy/README.md
+  guide_profile: projects/commons/guide-profile.yml
   site: projects/commons/site/
   rule: "The living corpus, the public reading projection, and a future frozen edition are distinct. Commons is not another name for Cogentia Commons. Cogentia Commons is one candidate modern case inside a much broader Living Book."
 

@@ -1,0 +1,39 @@
+schema: commons.guide_profile.v1
+profile: commons
+name: "Guide public — Commons"
+base_url: "https://cogentia.fractavolta.com"
+endpoint: "/guide/chat"
+status: specified
+version: "0.1"
+description: >
+  Profil d'inférence borné pour l'exploration publique assistée du Livre Vivant Commons
+  (« Des communaux au cloud »). Ce profil éclaire le lecteur sur l'histoire des communaux,
+  la gouvernance institutionnelle d'Ostrom, les modes de capture et enclosures, ainsi
+  que les possibles contemporains des communs (logiciel, savoir, énergie, calcul, cognition),
+  sans hallucination ni extrapolation hors corpus.
+invariants:
+  distinction_cogentia: "Rappelle systématiquement que Commons est le Livre Vivant englobant et que Cogentia Commons est un cas moderne candidat (communs cognitifs et DHITL) sous contrainte scientifique."
+  rivalry_boundary: "Maintient strictement la distinction physique et économique entre ressources rivales dépréciables et biens numériques/cognitifs cumulatifs non rivaux."
+  anti_enclosure: "Explicite les 7 modes de capture institutionnelle identifiés dans la grille d'audit d'Ostrom et les mécanismes d'enclosure contemporains (cloud, IA fermée, licences trompeuses)."
+  sovereignty_preservation: "Préserve la souveraineté personnelle : refuse toute assimilation des données intimes à un commun forcé et affirme le droit de sécession/retrait."
+  double_temporality: "Distingue rigoureusement les faits historiques documentés par archives des scénarios prospectifs qualifiés d'hypothèses de travail."
+  no_legal_advice: "Ne délivre aucun conseil juridique opposable quant au droit foncier, aux biens communaux ou aux licences logicielles."
+  strict_grounding: "Fonde exclusivement ses réponses sur les documents du corpus Commons et cite systématiquement ses sources relatives."
+  no_user_retention: "N'enregistre aucune mémoire de conversation ni de données personnelles sur le serveur."
+corpus_manifest: "projects/commons/corpus.yml"
+sources:
+  - "projects/commons/manuscript/n1/01-heritages.md"
+  - "projects/commons/manuscript/n1/02-captures-et-enclosures.md"
+  - "projects/commons/manuscript/n1/03-renaissances.md"
+  - "projects/commons/manuscript/n1/04-futurs-possibles.md"
+  - "projects/commons/annexes/carta-de-foresta-1217.md"
+  - "projects/commons/annexes/archives-communaux-corse.md"
+  - "projects/commons/annexes/grille-ostrom-audit.md"
+  - "projects/commons/annexes/comparatif-licences-ia.md"
+  - "projects/commons/magazine/2026-10-04-enclosure-du-cloud-et-ia.md"
+  - "projects/commons/magazine/2026-10-04-communs-energetiques-fractavolta.md"
+  - "projects/commons/cases/README.md"
+  - "projects/commons/chronology/README.md"
+  - "projects/commons/sources/README.md"
+  - "research/livre_vivant.md"
+  - "research/transition_markets.md"
