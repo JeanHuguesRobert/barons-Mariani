@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.6"
+version: "0.7"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -225,6 +225,62 @@ Il serait méthodologiquement incorrect de calculer un « quorum conservatoire �
 
 Le prochain gain probatoire ne viendra probablement pas d’un calcul supplémentaire, mais de traces d’agrément, de PV, de cotisations qualifiées ou d’une validation collective préalable de la liste des membres en exercice.
 
+
+
+
+## 3 septies. Recherche ciblée des agréments — résultat au 5 octobre 2026
+
+Une recherche Gmail ciblée sur 2018–2026 a été effectuée avec les termes relatifs à l'adhésion, aux membres actifs, aux bénévoles, aux cotisations et à C.O.R.S.I.C.A.
+
+Résultat utile :
+
+- un courrier du 14 octobre 2019 décrit explicitement l'association comme ayant des « membres actifs qui votent » et des « membres inactifs qui ne votent pas » ;
+- cette formulation confirme une pratique de qualification interne, mais correspond davantage à la grammaire du projet statutaire 2018 qu'au texte déposé de 1995 ;
+- aucun procès-verbal ou acte individualisé d'agrément du conseil d'administration correspondant aux personnes du registre 2018–2019 n'a été retrouvé lors de cette recherche ;
+- aucune campagne d'adhésion interne 2021–2026 suffisamment qualifiée pour reconstruire à elle seule le corps électoral n'a été retrouvée ;
+- la déclaration de mars 2026 de « 40 membres actifs » reste donc un ordre de grandeur opérationnel, pas un dénominateur statutaire.
+
+Qualification :
+
+~~~text
+existence d'une pratique membres actifs / inactifs
+→ ESTABLISHED
+
+équivalence avec catégories des statuts 1995
+→ NOT ESTABLISHED
+
+agréments nominatifs du CA
+→ NOT FOUND
+
+corps électoral 2026
+→ BLOCKED / PRIVATE RECONSTRUCTION REQUIRED
+~~~
+
+Cette recherche confirme que la prochaine étape n'est plus une recherche plein texte générale, mais une **qualification nominative privée et contradictoire** des cas plausibles.
+
+## 3 octies. Protocole minimal de qualification privée
+
+Pour chaque personne plausible, la matrice privée doit conserver :
+
+| Champ | Valeur candidate |
+|---|---|
+| trace d'entrée / relation | source datée |
+| agrément du CA | ESTABLISHED / RECONSTRUCTED / NOT FOUND |
+| catégorie statutaire 1995 | fondateur / honneur / bienfaiteur / actif / adhérent / UNKNOWN |
+| pratique 2018–2020 | actif-votant / inactif / bénévole / usager / fonction / UNKNOWN |
+| démission | ESTABLISHED / NOT FOUND |
+| radiation | ESTABLISHED / NOT FOUND |
+| membre en exercice au cut-off | YES / PROBABLE / DISPUTED / NO / UNKNOWN |
+| appartient à l'AG | YES / PROBABLE / DISPUTED / NO / UNKNOWN |
+| source de qualification | référence privée |
+
+Le Corpus public ne doit recevoir que les agrégats et la méthode.
+
+Principe conservatoire pour la convocation :
+
+> toute personne dont la qualité votante reste raisonnablement plausible doit être traitée de manière à ne pas être silencieusement privée de la possibilité de faire valoir sa qualité ; la qualification définitive doit être traçable avant le calcul du quorum.
+
+Cette formulation est une règle de robustesse documentaire, non une conclusion juridique sur un cas individuel.
 
 ## 4. Reconstruction requise
 
