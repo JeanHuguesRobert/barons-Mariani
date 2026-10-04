@@ -34,3 +34,10 @@ Le **Magazine** accueille des articles d'actualité, des enquêtes de terrain, d
    Débats contradictoires sur les frontières des communs : licences réciproques vs permissives, statut des poids d'IA (*open weights vs open source*), rémunération des contributeurs sans réintroduction de la rente.
 4. **Voisins & Alliances**  
    Présentation d'initiatives sœurs menées par des collectifs amis à travers le monde, en appliquant le principe *Friends before competitors*.
+
+---
+
+## Chroniques publiées
+
+- **[De la licence GPL aux clusters de GPU : comment le cloud et l'IA contournent le logiciel libre](2026-10-04-enclosure-du-cloud-et-ia.md)** (4 octobre 2026)  
+  *Par Jean Hugues Noël Robert, baron Mariani.* Enquête sur le passage de l'enclosure SaaS à l'enclosure matérielle du calcul dans l'intelligence artificielle, et les voies d'une contre-offensive par les modèles frugaux et les communs cognitifs.

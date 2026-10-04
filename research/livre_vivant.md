@@ -745,6 +745,7 @@ La liste suivante décrit un chantier, non un registre fermé.
 | **Autonomia** | C.O.R.S.I.C.A. | matérialisations historiques, présentes et possibles de l'autonomie de la Corse |
 | **1755** | Fonds Barons Mariani | travail scientifique sur la Constitution corse de 1755 et ses contributions |
 | **PrivAI** | Institut Mariani / C.O.R.S.I.C.A. (préfiguration PrivAI Foundation) | AI Safety politique, souveraineté humaine effective et contre-pouvoirs cognitifs face aux personnes morales augmentées |
+| **Commons** | Institut Mariani / C.O.R.S.I.C.A. | Histoire, présent et futurs possibles des biens communs, du pastoralisme traditionnel au cloud et à la cognition |
 
 D'autres candidats présents dans le Corpus pourront être instruits sans être promus mécaniquement au rang de Livre Vivant : Kudos, Kudocracy, FractaVolta, Cogentia, Bien Vivre, Corte / Minesteggio, entre autres.
 

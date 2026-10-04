@@ -25,7 +25,7 @@ Les **Annexes** fournissent le substrat probatoire du Livre Vivant. Elles rassem
 
 1. **Textes et Chartes Historiques**  
    - [**Archives des biens communaux et droits d'usage en Corse (XVIe - XXe siècle)**](archives-communaux-corse.md) : Étude archivistique approfondie des *Statuti* génois de 1571, du Plan Terrier (1770–1795), des enquêtes de terrain de Georges Ravis-Giordani (*Niolu*, 1983) et de la résistance pastorale au Code forestier de 1827.
-   - Traduction française et transcription de la *Carta de Foresta* (1217).  
+   - [**La Charte des Forêts (*Carta de Foresta*, 1217)**](carta-de-foresta-1217.md) : Texte fondateur de protection des droits d'usage coutumiers (*estover*, panage, pacage, tourbage) et dépénalisation des délits de subsistance.
    - Règlements coutumiers du Tribunal des Eaux de Valence (*Ordenanzas de la Vega de Valencia*).  
    - Extraits choisis des *Parliamentary Enclosure Acts* (1760-1830).  
    - Décrets de la Convention nationale sur les biens communaux (juin 1793).
@@ -34,8 +34,8 @@ Les **Annexes** fournissent le substrat probatoire du Livre Vivant. Elles rassem
    - Licences Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).  
    - Comparatif juridique des licences de modèles d'IA (Llama Community License vs Apache 2.0 vs OpenRAIL).
 3. **Outils d'Audit et Grilles d'Évaluation**  
-   - Grille d'évaluation institutionnelle dérivée du cadre IAD (*Institutional Analysis and Development*) d'Elinor Ostrom.  
-   - Protocole de test de robustesse anti-capture (Audit des sept modes de prédation).
+   - [**Grille d'audit institutionnel d'Ostrom**](grille-ostrom-audit.md) : Opérationnalisation des 8 principes de conception d'Elinor Ostrom et diagnostic de vulnérabilité aux 7 modes de capture.
+   - Protocole de test de robustesse anti-capture.
 4. **Objections et Registre des Falsifications**  
    - Répertoire systématique des objections historiques et économiques opposées aux communs.  
    - Enregistrement des contre-exemples empiriques où des institutions de communs se sont effondrées (cas d'échec documentés et causes structurelles).
