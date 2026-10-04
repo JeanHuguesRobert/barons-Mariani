@@ -147,15 +147,28 @@ Leur cause ne doit pas être transformée en fait sans élément indépendant pe
 
 ## 7. État actuel
 
-### 30 septembre 2026 — accès post-scrutin aux pièces
+### 1er octobre 2026 — consultation post-scrutin effectuée
 
-Le scrutin du 27 septembre est terminé et les résultats sont documentés. Après les demandes des 27–28 septembre, le Bureau des élections a confirmé le **30 septembre à 08 h 16** que les pièces du scrutin pouvaient être consultées et a proposé un rendez-vous en préfecture le **1er octobre à 14 h**.
+Le scrutin du 27 septembre est terminé et les résultats sont documentés. Après les demandes des 27–28 septembre, le Bureau des élections a confirmé le **30 septembre à 08 h 16** que les pièces du scrutin pouvaient être consultées et a proposé un rendez-vous le **1er octobre à 14 h**.
 
-Le rendez-vous a été accepté à **10 h 37** avec une demande volontairement réduite : aucune numérisation nouvelle, priorité aux pièces déjà dématérialisées, demande des raisons si leur transmission est impossible, et vérification ciblée parmi les 40 bulletins nuls de mentions rapprochables de la candidature.
+Le rendez-vous a été accepté à **10 h 37**. Le 1er octobre à **10 h 11**, Adrien Vidal a précisé que la consultation aurait matériellement lieu au **15 avenue Jean Zuccarelli, Bastia**, les salons de la préfecture étant indisponibles ce jour-là.
 
-Le contenu effectif des pièces reste `UNKNOWN` jusqu'à leur examen. La déclaration rapportée d'un grand électeur disant avoir voté « Baron Mariani » sert uniquement à motiver une vérification matérielle ; elle n'identifie aucun bulletin.
+La consultation a effectivement eu lieu. Le constat probatoire `RP-SEN-08-C`, stabilisé le 4 octobre, documente notamment :
 
-Le dossier de presse et les projections de *Suicide Corse n°3* intègrent les **conditions** de ce rendez-vous. Son déroulement et ses résultats appartiendront au delta postérieur.
+- l'accueil par Adrien Vidal, accompagné d'une agente dont l'identité reste `UNKNOWN` ;
+- un formulaire de consultation rempli, signé et photographié ;
+- quatre dossiers physiques correspondant aux quatre sections ;
+- l'accès au dossier contenant le bulletin recherché ;
+- la photographie d'un bulletin imprimé portant **« (Elections Sénatoriales 2027) BARON MARIANI »**, de son enveloppe et de pages de dépouillement ;
+- des propos oraux attribués à M. Vidal sur des dysfonctionnements intermittents des réponses automatiques et sur des difficultés liées aux courriels volumineux, conservés comme `reported` et non comme reconnaissance institutionnelle écrite d'un incident précis.
+
+Voir :
+
+- [constat RP-SEN-08-C](investigation/constat-consultation-2026-10-01-rp-sen-08-c.md) ;
+- [trace du bulletin et de l'enveloppe](investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md) ;
+- [snapshot de la journée du 1er octobre](investigation/snapshots/chronologie-1-octobre-etat-2026-10-04.md).
+
+Le dossier de presse et les projections de *Suicide Corse n°3* restent historiquement bornés à l'organisation du rendez-vous. Son déroulement et ses résultats appartiennent au delta du n°4.
 
 L’[amendement d’effectivité](../autonomia/amendement_effectivite_article_72-5.md) est désormais publié en version **0.4-rc4** sous une forme parlementaire candidate. Il reformule le mécanisme existant de la loi organique et de l’évaluation afin de traiter la mise en œuvre effective des facultés, leur évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité. Cette publication est postérieure au contentieux de candidature et ne doit être confondue ni avec une pièce du dossier initial, ni avec un amendement déjà déposé.
 
