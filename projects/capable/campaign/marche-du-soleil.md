@@ -1,22 +1,34 @@
 ---
 title: "Marche du Soleil — working paper"
+description: "Working paper définissant la Marche du Soleil comme dispositif territorial de la campagne présidentielle 2027."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
+last_modified_at: "2026-10-04"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/marche-du-soleil.md"
+update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source"
 document_kind: "campaign-device"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 provenance:
-  origin_type: "conversation-to-corpus"
+  origin_type: "conversation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: "f40b6c749bee917a433308a1bad9d19dcb4df4e7"
   origin_date: "2026-10-04"
   derived_from:
     - "architecture-des-campagnes.md"
     - "../manuscript/08-presidentielle-2027.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Marche du Soleil
