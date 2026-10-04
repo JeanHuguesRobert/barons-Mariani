@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.1"
-status: "working-paper — legal/documentary analysis"
+version: "0.2"
+status: "superseded — retained for provenance"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/statutory-applicability-analysis.md"
@@ -15,8 +15,9 @@ document_role: "analysis"
 document_kind: "institutional-legal-analysis"
 document_function: "identify currently applicable statutes"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
+superseded_by: "projects/institut/preparation/statutes-applicability-1995-2026.md"
 related_documents:
   - "projects/institut/preparation/statuts-1995-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
@@ -32,6 +33,8 @@ review:
 ---
 
 # C.O.R.S.I.C.A. — analyse d'applicabilité des statuts
+
+> **Document superseded.** La projection canonique active est désormais `projects/institut/preparation/statutes-applicability-1995-2026.md`. Ce fichier est conservé pour la provenance de la reconstruction concurrente et ne doit plus être utilisé comme référentiel opérationnel.
 
 ## 1. Conclusion de travail
 
