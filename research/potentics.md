@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-09-05T00:00:00.000Z
-last_modified_at: '2026-09-15'
+last_modified_at: '2026-10-04'
 title: What is Potentics?
 date: '2026-05-09'
 status: draft — auto-filled (frontmatter cleanup)
@@ -22,6 +22,7 @@ related_documents:
   - cogentia/research/learning_computer_genese_et_architecture.md
   - research/principe_rossignol.md
 changelog:
+  - '2026-10-04 — pointed the word latent, in §1.1, at the distinction proposed in le_reel_le_virtuel_et_l_actuel.md: already structured and present, not yet exercised. No Potentics claim was changed. The clarification itself is not yet a stabilized publication.'
   - '2026-09-27 — added the Necessary Means Principle as the reciprocal of early impossibility detection: when a valuable possible lacks a required capability, explore admissible means-to-the-means under Measured Risk rather than confusing absence with impossibility.'
   - '2026-09-27 — linked Potentics/ERP to early impossibility detection and the Accessible Inputs Gate: prune branches with decisively impossible preconditions early while distinguishing impossible from blocked, unknown or not-yet-available.'
   - '2026-08-15 — integrated research/potentics_the_possible_addendum.md: The Possible vs possibilities (§1.1-1.3), the expanding Realized and Spirit of Synthesis (§3.4-3.5), Rational Exploration as deliberate acceleration (§4.4); addendum marked integrated.'
@@ -122,6 +123,8 @@ physically possible but institutionally prevented states
 technically possible but socially unseen states
 socially possible but cognitively unnamed states
 ```
+
+In this list, *latent* is not a synonym of unreal, absent, or merely virtual. [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md) proposes to reserve it for a power that is already structured and present, and not yet exercised. A corpus document may be actual as a text and latent as a sovereign authority. Materializing that authority would be an actualization, not the creation of the file. That distinction is a proposed arbitration dated 2026-10-04; it is not yet a stabilized publication.
 
 **The Possible** is stronger because it goes down to the deep constraint layer: what is logically, physically, biologically, technically, institutionally, socially, or economically capable of becoming actual under some configuration of conditions and effort.
 

@@ -4,7 +4,7 @@ subtitle: Accès indirect au monde, puissance des fictions et Possibilisme à l�
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-07-14'
-version: '0.3'
+version: '0.4'
 language: fr
 license: CC BY-SA 4.0
 status: published-source — initial public version
@@ -35,10 +35,11 @@ review_lineage:
   - ChatGPT — final consolidation into publication candidate — 2026-07-14
   - 'Jean Hugues Noël Robert — final doctrinal arbitration: Possibilist approach retained; Virteal preserved only as genealogy; Almost Real reframed as inquiry into the distance to Now — 2026-07-14'
   - ChatGPT — publication metadata and canonical-path preparation — 2026-07-14
+  - '2026-10-04 — clarification proposée du latent, rédigée pour arbitrage. Elle n’est pas couverte par la publication du 2026-07-14 et n’est pas encore stabilisée.'
 review_status: two Grok reviews integrated selectively; final doctrinal arbitration and publication validated by the author on 2026-07-14
 published_at: '2026-07-14'
-last_modified_at: '2026-07-14'
-last_stamped_at: '2026-07-14'
+last_modified_at: '2026-10-04'
+last_stamped_at: '2026-10-04'
 classification_source: cogentia.js
 classification_version: '1'
 classification_rule: research-paper
@@ -130,7 +131,7 @@ Le document reprend enfin la formule autobiographique **Almost Real**, autrefois
 
 Enfin, le texte rattache cette architecture au **Possibilisme**, philosophie de l’exploration rationnelle et joyeuse de ce que le Réel n’a pas interdit. Le Possibilisme conserve d’Épicure la libération à l’égard des peurs et des désirs qui asservissent, mais y ajoute une orientation vers l’exploration, l’augmentation de capacité, la correction et la transformation des terrains de possibilité. Sa joie est sans garantie : celle de pouvoir encore agir, apprendre, corriger, transmettre et rendre accessibles des futurs dignes d’être vécus.
 
-**Mots-clés :** Réel ; réalité ; virtualité ; actualité ; possibilité ; Possibilisme ; Potentique ; Almost Real ; actualisation ; fiction ; intelligence artificielle ; médias synthétiques ; intersubjectivité ; provenance ; stabilisation procédurale ; Corpus ; pluralisation cognitive.
+**Mots-clés :** Réel ; réalité ; virtualité ; actualité ; latent ; possibilité ; Possibilisme ; Potentique ; Almost Real ; actualisation ; fiction ; intelligence artificielle ; médias synthétiques ; intersubjectivité ; provenance ; stabilisation procédurale ; Corpus ; pluralisation cognitive.
 
 ## 1. Pourquoi reprendre aujourd’hui la question du Réel ?
 
@@ -274,7 +275,10 @@ Dans la philosophie analytique, les mondes possibles servent à examiner les man
 - **Le Virtuel** désigne le champ structuré des puissances, configurations et trajectoires non actualisées, mais susceptibles d’actualisation.
 - **L’Actuel** désigne la part de ce champ effectivement réalisée.
 - **Une possibilité** est une option identifiable dans une situation.
-- **Le Possible**, avec une majuscule, désigne le domaine plus vaste de ce que le Réel n’a pas interdit, même lorsque cela reste latent, bloqué ou invisible.
+- **Le Possible**, avec une majuscule, désigne le domaine plus vaste de ce que le Réel n’a pas interdit, même lorsque cela reste bloqué ou invisible.
+- **Le Latent** désigne une puissance déjà structurée et présente, qui n’est pas encore exercée. Il ne désigne ni le faux, ni un fichier absent, ni l’ensemble du champ virtuel.
+
+Proposition d’arbitrage du 2026-10-04, non encore stabilisée comme publication. Un document du Corpus peut être actuel comme artefact : il existe, il peut être lu, versionné et critiqué. Sa fonction d’autorité souveraine peut rester latente : cette puissance est déjà structurée dans le document, et elle n’est pas encore exercée. La matérialisation est l’actualisation de cette fonction. Elle ne crée pas le fichier.
 
 ### 4.4 Formule canonique
 
@@ -733,6 +737,7 @@ Le dispositif conceptuel complet peut être résumé ainsi :
 Le Réel      : ouvre, structure, contraint et répond.
 Le Virtuel   : porte les puissances et trajectoires non actualisées.
 L’Actuel     : est la part effectivement réalisée.
+Le Latent    : puissance déjà structurée, présente, non encore exercée.
 Almost Real  : interroge la distance entre potentialité et actualisation.
 Le Possible  : désigne ce que le Réel n’a pas interdit.
 Possibilisme : propose une éthique de l’exploration.
@@ -855,13 +860,17 @@ Production narrative ou représentative qui existe comme artefact et peut produi
 
 Espace de confrontation et de correction entre perspectives situées.
 
+## Latent
+
+Puissance déjà structurée et présente, non encore exercée. Le latent n’est pas le faux, ni l’absence d’un artefact, ni le champ virtuel tout entier. Dans le Corpus, un document peut être actuel comme texte et latent comme autorité souveraine. Le faire sortir de cet état est une actualisation de cette autorité. Cette entrée est une proposition d’arbitrage du 2026-10-04 ; elle n’était pas dans la publication du 2026-07-14.
+
 ## Mandat souverain
 
 Délégation bornée dans laquelle le mandant vivant conserve orientation, contrôle, révocation et arbitrage.
 
 ## Le Possible
 
-Domaine de ce que le Réel n’a pas interdit, y compris ce qui demeure latent, bloqué ou invisible.
+Domaine de ce que le Réel n’a pas interdit, y compris ce qui demeure bloqué ou invisible. Le latent est défini à part : une puissance déjà structurée et présente, non encore exercée.
 
 ## Possibilisme
 
