@@ -29,6 +29,40 @@ review:
 
 # Suivi du mandat statutaire 2025–2026
 
+## 0 bis. Statuts de référence désormais retrouvés
+
+Le scan signé des statuts originaires a été transcrit dans :
+
+- `projects/institut/preparation/statuts-1995-transcription.md`.
+
+La chaîne documentaire complète est analysée dans :
+
+- `projects/institut/preparation/statutes-lineage.md`.
+
+Le faisceau actuel est fort en faveur des statuts signés le **25 décembre 1995** comme dernière version effectivement utilisée dans les démarches institutionnelles jusqu'en 2024 :
+
+- copie provenant directement de la préfecture en 2018 ;
+- projet de refonte 2018 encore présenté comme modification « prochaine » en décembre 2018 ;
+- scan 1995 encore transmis comme statuts en 2021 ;
+- banque demandant en 2023 de confirmer que les statuts 25/12/1995 sont les derniers ;
+- même scan fourni au greffe en 2024 ;
+- aucune adoption / déclaration ultérieure retrouvée.
+
+Le statut prudent devient :
+
+~~~text
+statuts 1995
+→ STRONG CANDIDATE FOR CURRENT APPLICABLE TEXT
+
+projet 2018
+→ PREPARATORY / NOT ADOPTED IN EVIDENCE
+
+refonte 2025–2026
+→ PREPARATORY / NOT EFFECTIVE
+~~~
+
+Tant qu'une pièce contraire n'est pas retrouvée, la préparation de l'AGE doit donc appliquer conservatoirement les contraintes de l'article 17 des statuts 1995.
+
 ## État synthétique
 
 - AG du 28 juin 2025 : programmée par Agenda/Gmail ; occurrence fortement reconstruite.
@@ -36,7 +70,7 @@ review:
 - Email du 27 avril 2026 : PV dit rédigé « de mémoire », soumis aux participants pour correction avant signatures et envoi à Qonto.
 - Email du 13 juin 2026 à la sous-préfecture : refonte des statuts encore décrite comme « en cours ».
 - Aucune nouvelle version adoptée des statuts ni récépissé de modification n’a été retrouvée lors de cette recherche.
-- Le registre administratif public consulté fin septembre 2026 indique encore le siège route de Castirla / Minesteggio, tandis que le Corpus utilise 1 cours Paoli comme adresse publique d’usage.
+- Le registre administratif public consulté fin septembre 2026 indique encore l'adresse route de Castirla / Minesteggio, tandis que le Corpus utilise 1 cours Paoli comme adresse publique d’usage. Les statuts 1995 ne fixent cependant le siège qu'à « Corte, Corse » : le changement d'adresse à l'intérieur de Corte ne doit donc pas être assimilé automatiquement à une modification statutaire.
 
 ## Qualification
 
