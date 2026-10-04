@@ -130,7 +130,6 @@ L’[amendement d’effectivité — article 72-5](../../research/autonomia/amen
 
 Il éclaire la grille sans devenir un « amendement de Capable » : sa provenance propre — C.O.R.S.I.C.A., contribution parlementaire et Autonomie de Capacité — reste distincte. Sa forme parlementaire candidate permet d’éprouver trois niveaux observables : **mise en œuvre effective**, **évaluation périodique**, **effets au regard de Liberté, Égalité, Fraternité**.
 
-
 ## Capable comme Livre Vivant — Campagne du Réel
 
 À compter du 2 octobre 2026, **Capable** est également structuré comme **Livre Vivant**. Sa première campagne documentée en continu est la **Campagne du Réel**.
@@ -138,6 +137,20 @@ Il éclaire la grille sans devenir un « amendement de Capable » : sa provenanc
 > **Établir. Relier. Qualifier.**
 
 Le plan de campagne est public, critiquable et amendable. Les institutions concernées, chercheurs, juristes, journalistes, citoyens et agents IA peuvent proposer corrections, contradictions, sources et objections. Une réponse institutionnelle peut fermer une case ; une absence de réponse laisse la case ouverte et ne prouve pas l'inexistence du fait recherché.
+
+## Architecture fractale des campagnes
+
+La **Campagne du Réel** reste le nom historique de la première grande campagne, liée aux Sénatoriales 2026 et à leurs prolongements contentieux.
+
+Le 4 octobre 2026, le Corpus distingue explicitement cette première instance de la **grammaire réutilisable des campagnes du Réel** qu'elle permet progressivement d'extraire.
+
+La campagne présidentielle 2027 constitue la seconde grande campagne. Elle peut réemployer les primitives éprouvées sans réécrire rétroactivement l'histoire de la première.
+
+Voir :
+
+- [Architecture des campagnes](campaign/architecture-des-campagnes.md)
+- [Marche du Soleil — working paper](campaign/marche-du-soleil.md)
+- [Observatoire des Présentations 2027 — working paper](campaign/observatoire-presentations-2027.md)
 
 Infrastructure :
 
