@@ -83,3 +83,15 @@ La projection publique utilise la phrase déjà publiée par `acorsica/privai` :
 - vérifier les statuts de C.O.R.S.I.C.A. si une portée juridique plus précise est affirmée ;
 - relire `acorsica/institut-mariani` avant de dire ce qu'est l'émanation de recherche ;
 - aucune occurrence résiduelle de `PrivaAI` n'a été trouvée dans ce dépôt le 4 octobre 2026, hors la présente consigne de recherche.
+
+## Résolution doctrinale : le cadre de préfiguration institutionnelle
+
+La contradiction apparente entre la formule « ni portage juridique » et la mention d'une « PrivAI Foundation portée par C.O.R.S.I.C.A. » est résolue par la doctrine d'émanation établie dans `acorsica/institut-mariani` (`mission.md`) et la charte d'étanchéité (`gouvernance/interet-general-et-separation-politique.md`) :
+
+1. **Nature de l'Institut Mariani** : L'Institut Mariani n'est pas une personne morale distincte, mais l'émanation fonctionnelle de R&D de l'association C.O.R.S.I.C.A. (SIREN 840 998 520).
+2. **Mission de préfiguration** : Les statuts et la lettre de mission de l'Institut Mariani lui confient expressément la *préfiguration institutionnelle* d'initiatives appelées à acquérir à terme leur propre personnalité juridique (dont PrivAI, FractaVolta et le futur fonds Barons Mariani).
+3. **Périmètre d'hébergement R&D** : PrivAI est hébergé fonctionnellement dans ce périmètre de préfiguration pour la recherche, la production de communs et les épreuves de conformance.
+4. **Stricte étanchéité** : Cet hébergement fonctionnel ne vaut ni fusion des personnes, ni exploitation commerciale par C.O.R.S.I.C.A., ni engagement politique, ni responsabilité conjointe indifférenciée.
+5. **Formulation canonique stabilisée** :
+   > « PrivAI est une initiative en préfiguration institutionnelle au sein de l'Institut Mariani, émanation recherche et développement de l'association C.O.R.S.I.C.A., en vue de la constitution future d'une fondation indépendante (PrivAI Foundation). »
+

@@ -16,6 +16,7 @@ architecture:
   implementation: projects/privai/architecture.md
   editorial: projects/privai/editorial-architecture.md
   institutional_note: projects/privai/institutional-status.md
+  doctrine: projects/privai/doctrine/anti-demos.md
   project_index: projects/privai/README.md
   editions: projects/privai/editions/index.md
   sources: projects/privai/sources/README.md
@@ -51,6 +52,10 @@ sources:
     role: initiative-source
     required: true
     note: "Checkpoint f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55 (2026-09-20). Charter, KYS profiles, contracts, conformance prefigurations. Not copied into this tree."
+  - id: anti-demos
+    path: projects/privai/doctrine/anti-demos.md
+    role: political-doctrine
+    required: true
   - id: democratic-ai-safety
     path: research/democratic_ai_safety.md
     role: thesis-kernel

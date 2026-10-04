@@ -40,13 +40,15 @@ Les fichiers de ce dossier ne sont pas des sources primaires. Ce tableau dit où
 | Democratic AI Safety | `research/democratic_ai_safety.md` | Thèse : l'AI Safety est incomplète sans l'agence politique des personnes morales augmentées. Le protocole PrivAI du §12.2 est une couche de protection des profils cognitifs, pas le Livre. |
 | Pathologie du secret | `research/pathologie_du_secret.md` | On ne peut pas exiger un humain pour posséder, puis accepter une machine pour gouverner. |
 | Traçabilité des actes | `research/traceabilite_des_actes.md` | Chaîne minimale : trace, imputation, justification, correction, révocation ou sanction. Quatre dilutions de l'imputabilité. |
-| Livre Vivant | `research/livre_vivant.md` | Livre, magazine, annexes, site, agent, collecte. Link, don't clone. PrivAI n'y figure pas encore dans la liste du §13. |
+| Livre Vivant | `research/livre_vivant.md` | Livre, magazine, annexes, site, agent, collecte. Link, don't clone. PrivAI y figure désormais au §13 comme initiative en préfiguration. |
+| Principe Anti-Demos | `projects/privai/doctrine/anti-demos.md` | Interdiction de la personnalité politique de l'IA, non-substitution décisionnelle, imputabilité humaine irréductible et contre-pouvoirs cognitifs. |
 | Autonomie de capacité | `research/autonomia/grammaire_autonomie_de_capacite.md` | Grammaire pour produire des mesures capables. Son application à l'IA dans le n°1 est une projection, pas un théorème de ce fichier. |
 | DHITL | [marenostrum/research/DHITL.md](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md) | La sécurité de modèle est nécessaire et insuffisante si l'infrastructure de calcul est capturée. |
 | KYS | [kys_profile_privacy_and_public_specialized_profiles.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/kys_profile_privacy_and_public_specialized_profiles.md) | La personne décide ce qui est partagé et l'usage permis. Prototypes, pas le produit final, pas une preuve judiciaire. |
 | Séparation, ce dépôt | `research/acorsica-institut-mariani.md` | Les liens documentaires, y compris PrivAI, ne valent pas portage juridique automatique. Le portage transitoire nommé dans cette note concerne la préfiguration du fonds Barons Mariani, pas une PrivAI Foundation. |
 | Séparation, Cogentia | [cogentia/research/acorsica-institut-mariani.md](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md) | Les liens ne valent pas portage juridique. |
+| Institut Mariani | [acorsica/institut-mariani/mission.md](https://github.com/acorsica/institut-mariani/blob/main/mission.md) | Émanation fonctionnelle R&D de C.O.R.S.I.C.A. chargée de la préfiguration institutionnelle de structures destinées à acquérir leur propre personnalité juridique. |
 
-## Ce qui n'a pas été relu
+## Ce qui reste ouvert
 
-Les statuts de C.O.R.S.I.C.A., le dépôt `acorsica/institut-mariani`, et l'intégralité de DHITL au-delà de son résumé d'ouverture. Une affirmation plus précise sur la personnalité juridique attend ces lectures.
+L'adoption définitive de la personnalité juridique propre de la PrivAI Foundation dépendra de la constitution de la structure dédiée ou de formalités administratives complémentaires de l'association C.O.R.S.I.C.A.
