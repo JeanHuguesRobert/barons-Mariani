@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -115,6 +115,35 @@ membres votants établis : N
 cas probables : M
 cas à vérifier : K
 quorum conservatoire : Q
+~~~
+
+## 4 bis. Perte de qualité de membre : conséquence pour la reconstruction
+
+L'article 4 des statuts 1995 prévoit que la qualité de membre se perd :
+
+- par démission ;
+- ou par **radiation prononcée** par le conseil d'administration, notamment pour non-paiement de cotisation ou motif grave, avec possibilité de recours à l'assemblée générale.
+
+Cela interdit une simplification fréquente mais ici dangereuse :
+
+~~~text
+pas de cotisation retrouvée
+≠
+perte automatique de la qualité de membre
+~~~
+
+Pour les personnes qui auraient réellement acquis une catégorie statutaire votante, il faut donc rechercher une démission, une radiation ou une autre cause certaine de sortie avant de les retirer du dénominateur.
+
+Inversement, l'ancien tableur 2018–2019 ne prouve pas à lui seul que ses 33 entrées avaient acquis une catégorie statutaire votante : plusieurs y apparaissent seulement comme « usager » ou « bénévole ».
+
+La reconstruction correcte est donc bilatérale :
+
+~~~text
+admission / catégorie votante à établir
++
+sortie éventuelle à établir
+=
+qualité de membre en exercice
 ~~~
 
 ## 5. Principe conservatoire
