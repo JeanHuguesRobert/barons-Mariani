@@ -22,6 +22,8 @@ architecture:
   cases: projects/privai/cases/
   sources: projects/privai/sources/README.md
   manuscript_n1: projects/privai/manuscript/n1/00-qui-restera-souverain.md
+  guide_profile: projects/privai/guide-profile.yml
+  deploy: projects/privai/deploy/README.md
   site: projects/privai/site/
   projection: projects/privai/projections/n1-working.yml
   rule: "The living corpus, the public reading projection, and a future frozen edition are distinct. The October 2026 Living Book does not replace acorsica/privai."
@@ -31,14 +33,14 @@ realities:
     status: open
     statement: "The name PrivAI already names an initiative and a privacy protocol. The Living Book is a later editorial projection of that lineage, not a new organization and not a certification."
   - id: legal-carriage
-    status: open
-    statement: "acorsica/privai at f7fe0c0 says documentary links are not legal carriage. The 2026-10-04 working note proposes transitional legal carriage of a future PrivAI Foundation by C.O.R.S.I.C.A. Statutes were not read. Public pages use the narrower published wording."
+    status: consolidated
+    statement: "PrivAI is developed in the prefiguration perimeter of Institut Mariani (R&D emanation of C.O.R.S.I.C.A.) without commercial carriage or person confusion, preparing a future independent PrivAI Foundation."
   - id: public-host
-    status: absent
-    statement: "On 2026-10-04 the name privai.acorsica.org did not resolve from this workstation. No DNS or server change was made."
+    status: prepared
+    statement: "On 2026-10-04 the name privai.acorsica.org did not resolve. Deployment architecture is documented in projects/privai/deploy/README.md (Cloudflare CNAME to fracta.fractavolta.com -> Fracta2 origin). DNS and server activation stay with Operium."
   - id: guide-profile
-    status: absent
-    statement: "Rise & Fall already calls the shared public guide with a profile. No privai profile was registered in this slice."
+    status: specified
+    statement: "Guide profile is formally specified in projects/privai/guide-profile.yml and wired in site/guide.html and site/guide.js. Backend registration on cogentia.fractavolta.com remains to be loaded."
   - id: certification
     status: absent
     statement: "No PrivAI certification is claimed. Cogentia is a candidate implementation and does not self-certify, per acorsica/privai."
