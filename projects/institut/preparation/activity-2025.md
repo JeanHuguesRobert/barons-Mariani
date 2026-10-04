@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.3"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -241,7 +241,7 @@ La couche privée de reconstruction apporte désormais des traces qui attribuent
 
 | Date | Trace reconstruite | Qualification | Statut épistémique | Statut institutionnel |
 |---|---|---|---|---|
-| 2025-06-28 | événement Agenda « AG C.O.R.S.I.C.A. », 15h–16h à Corte, également notifié par email la veille | AG programmée | ESTABLISHED | occurrence / décisions à vérifier |
+| 2025-06-28 | événement Agenda « AG C.O.R.S.I.C.A. », 15h–16h à Corte, notifié par email la veille ; PV rétrospectif retrouvé dans Drive | AG fortement reconstruite | RECONSTRUCTED | occurrence et décisions décrites par PV rédigé le 27 avril 2026 ; signatures contemporaines non établies |
 | juin–juil. 2025 | contrat d’assurance multirisque de l’association et avenant à signer ; tentative de signature du Président | administration associative | ESTABLISHED | EFFECTIVE pour l’existence du contrat ; avenant à qualifier |
 | 2025-07-02 | démarche auprès de l’aviation civile pour un projet expérimental de démonstration VTOL à Corte, explicitement portée comme Président de C.O.R.S.I.C.A. | mobilité verte / innovation | ESTABLISHED | démarche externe effectuée |
 | 2025-09-18 | courrier à EDF SEI Corse au nom de C.O.R.S.I.C.A. sur un projet d’autoconsommation collective photovoltaïque pilotée de 1 MWc à Corte, avec future SCIC « Vin Solaire Mariani » | énergie / autoconsommation / flexibilité | ESTABLISHED | démarche externe effectuée ; projet non réalisé à ce stade |
@@ -251,29 +251,48 @@ La couche privée de reconstruction apporte désormais des traces qui attribuent
 
 ### 7.1 AG du 28 juin 2025
 
-Le calendrier et la notification Gmail établissent qu’une AG C.O.R.S.I.C.A. était programmée le **28 juin 2025 de 15h à 16h à Corte**.
+Trois couches de preuve sont désormais distinguées.
 
-Ils ne suffisent pas encore à établir :
+**Trace contemporaine :**
+- événement Agenda « AG C.O.R.S.I.C.A. » le **28 juin 2025 de 15h à 16h à Corte** ;
+- notification Gmail correspondante le 27 juin 2025.
 
-- que la séance s’est effectivement tenue ;
-- qui y a participé ;
-- quel exercice elle couvrait ;
-- l’ordre du jour ;
-- les décisions prises ;
-- l’existence d’un PV signé.
+**Trace rétrospective :**
+- Google Doc intitulé « PV AG 2025 » ;
+- contenu : Assemblée Générale Ordinaire du 28 juin 2025 à 15h à Corte ;
+- participants indiqués : Jean Hugues Noël Robert, Yvon Ambrosi, Maguy Ghionga ;
+- ordre du jour : rapport moral, rapport financier, réorganisation du bureau / mise à jour statutaire, poursuite des projets ;
+- résolutions décrites comme adoptées à l’unanimité ;
+- poursuite du Fonds Barons Mariani et du Mariani Motion Lab ;
+- principe d’un bureau simplifié Président / Trésorier et mandat au Président pour préparer la modification statutaire.
 
-Le registre doit donc éviter pour l’instant la formulation « AG tenue » et conserver :
+**Temporalité du PV :**
+- la liste de révisions Drive montre une création le **27 avril 2026** ;
+- première révision vide à 15:34:36 UTC ;
+- contenu complet ajouté à 15:35:01 UTC ;
+- le document est donc un **PV rédigé rétrospectivement**, environ dix mois après la date de l’Assemblée ;
+- aucun scan signé contemporain n’a été retrouvé lors de cette recherche.
+
+Qualification prudente :
 
 ~~~text
-AG programmée
-→ ESTABLISHED
+AG programmée le 28/06/2025
+→ ESTABLISHED par traces contemporaines
 
 AG effectivement tenue
-→ TO VERIFY
+→ RECONSTRUCTED avec soutien fort
+   (trace contemporaine + PV rétrospectif détaillé)
 
-délibérations / PV / exercice couvert
-→ UNKNOWN
+contenu des décisions
+→ RECONSTRUCTED à partir du PV rétrospectif
+
+PV contemporain signé
+→ NOT FOUND / UNKNOWN
 ~~~
+
+Le PV rétrospectif indique que « l’exercice écoulé » avait été volontairement calme et mentionne notamment Minesteggio, le Fonds Barons Mariani, le Mariani Motion Lab, un véhicule donné à l’association pour mobilité décarbonée, une trésorerie supérieure à 15 000 € à la Société Générale, ainsi que des dépenses principalement limitées à l’assurance MAIF et aux frais de compte.
+
+Ces éléments doivent être recoupés avant usage comptable ou juridique définitif.
 
 ### 7.2 Une chronologie associative plus dense à partir de juin
 
