@@ -23,11 +23,11 @@
 </header>
 <main id="contenu">
   <h1>Guide public</h1>
-  <p class="pill">Profil spécifié · en attente de déploiement serveur</p>
-  <p class="lede">Ce Guide explore le corpus public de <strong>PrivAI</strong> (thèse de souveraineté humaine, principe Anti-Demos, Reality Cases, traçabilité des actes). Il peut préparer un brouillon d'objection ou de signalement. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et n'engage pas l'auteur.</strong></p>
+  <p class="pill">Profil privai · corpus borné</p>
+  <p class="lede">Ce Guide répond à partir du corpus public de <strong>PrivAI</strong> déjà indexé pour ce profil. Il peut préparer un brouillon. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et n'engage pas l'auteur.</strong></p>
 
   <div class="call">
-    <p>Le profil d'inférence borné est spécifié dans <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/guide-profile.yml"><code>projects/privai/guide-profile.yml</code></a>. Si le service commun (<code>cogentia.fractavolta.com</code>) ne répond pas encore sur ce profil, consultez directement la <a href="n1.html">projection n°1</a> et les <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/cases/README.md">Reality Cases</a>.</p>
+    <p>Le périmètre est <code>projects/privai/</code> plus les sources nommées dans <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/corpus.yml"><code>corpus.yml</code></a>. La lecture directe reste <a href="n1.html">la projection n°1</a>.</p>
   </div>
 
   <div id="log" class="log" aria-live="polite"></div>
@@ -39,12 +39,14 @@
   </form>
 
   <section class="draft" aria-labelledby="draft-title">
-    <h2 id="draft-title">Préparer une objection ou une contribution</h2>
-    <p>Le texte ci-dessous est un modèle généré que vous pouvez modifier librement avant de le copier pour ouvrir une issue sur GitHub ou envoyer un courriel.</p>
+    <h2 id="draft-title">Brouillon — non envoyé</h2>
+    <p>Le texte ci-dessous est préparé par le Guide. Le préparer n'envoie rien. Vous pouvez le modifier, puis le copier pour votre propre courriel ou une issue.</p>
     <div class="acts">
-      <button type="button" id="prepare-contribution">Préparer une objection doctrinale</button>
-      <button type="button" id="prepare-correction">Signaler une erreur ou une coquille</button>
+      <button type="button" id="prepare-contribution">Préparer une objection</button>
+      <button type="button" id="prepare-correction">Préparer une correction</button>
     </div>
+    <label for="draft-to">Destinataire</label>
+    <input id="draft-to" name="to" type="text" readonly value="">
     <label for="draft-subject">Objet</label>
     <input id="draft-subject" name="subject" type="text" value="[Observation PrivAI] ">
     <label for="draft-body">Corps du message</label>

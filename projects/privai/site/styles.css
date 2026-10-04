@@ -97,6 +97,23 @@ footer {
   color: var(--muted);
   font-size: 0.92rem;
 }
+.log { display: grid; gap: 0.6rem; margin: 1rem 0; }
+.msg { border: 1px solid var(--line); background: var(--card); padding: 0.7rem 0.85rem; }
+.msg p { margin: 0; }
+label { display: block; margin-top: 0.8rem; }
+textarea, input[type="text"] {
+  width: 100%;
+  margin-top: 0.25rem;
+  font: inherit;
+  color: var(--text);
+  background: var(--card);
+  border: 1px solid var(--line);
+  padding: 0.45rem 0.55rem;
+}
+button {
+  margin: 0.7rem 0.4rem 0 0;
+  font-family: "Segoe UI", system-ui, sans-serif;
+}
 code { font-family: Consolas, ui-monospace, monospace; font-size: 0.9em; }
 @media (max-width: 40rem) {
   body { padding: 1rem 0.9rem 3rem; }

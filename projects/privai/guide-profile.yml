@@ -3,7 +3,7 @@ profile: privai
 name: "Guide public — PrivAI"
 base_url: "https://cogentia.fractavolta.com"
 endpoint: "/guide/chat"
-status: specified
+status: registered
 version: "0.1"
 description: >
   Profil d'inférence borné pour l'exploration publique assistée du Livre Vivant PrivAI.

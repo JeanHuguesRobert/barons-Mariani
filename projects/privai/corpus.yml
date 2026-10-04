@@ -42,8 +42,8 @@ realities:
     status: prepared
     statement: "On 2026-10-04 the name privai.acorsica.org did not resolve. Deployment architecture is documented in projects/privai/deploy/README.md (Cloudflare CNAME to fracta.fractavolta.com -> Fracta2 origin). DNS and server activation stay with Operium."
   - id: guide-profile
-    status: specified
-    statement: "Guide profile is formally specified in projects/privai/guide-profile.yml and wired in site/guide.html and site/guide.js. Backend registration on cogentia.fractavolta.com remains to be loaded."
+    status: registered
+    statement: "Profile id privai is registered in cogentia scripts/lib/public-guide-profiles.js. It allows projects/privai/ plus exact paths from this manifest, refuses other Barons paths, and prepares drafts without sending them. The live cogentia.fractavolta.com process serves the profile only after that cogentia commit is loaded."
   - id: certification
     status: absent
     statement: "No PrivAI certification is claimed. Cogentia is a candidate implementation and does not self-certify, per acorsica/privai."
