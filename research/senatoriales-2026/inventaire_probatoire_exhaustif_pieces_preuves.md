@@ -22,6 +22,7 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.1.md"
   - "requete-conseil-constitutionnel-projet-v0.2.md"
   - "requete-conseil-constitutionnel-projet-v0.4.md"
+  - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
   - "investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
   - "investigation/constat-consultation-2026-10-01-rp-sen-08-c.md"
@@ -254,7 +255,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v1.2
 
-- La requête, non modifiée par l'ajout suivant, s'arrête à P-36. L'inventaire d'enquête comprend en outre P-37 et P-38, l'adresse du rendez-vous du 1er octobre et la réponse de 12 h 30.
+- La requête **v0.5** est désormais synchronisée jusqu'à **P-40**. L'inventaire et le bordereau de la requête doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
