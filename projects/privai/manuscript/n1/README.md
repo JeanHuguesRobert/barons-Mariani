@@ -54,42 +54,42 @@ La projection de lecture, reliée aux sources et distincte de ce plan, est [`00-
 
 > **Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?**
 
-## Proposition de sommaire
+## Sommaire et chapitres rédigés
 
-1. **Le mauvais scénario de science-fiction**  
+1. [**Le mauvais scénario de science-fiction**](01-mauvais-scenario-science-fiction.md)  
    Pourquoi la question ne se réduit pas à une IA qui "se révolterait".
 
-2. **L'asymétrie est déjà là**  
+2. [**L'asymétrie est déjà là**](02-asymetrie-est-deja-la.md)  
    Mémoire, données, capital, procédures, temps, juristes, compute et agents.
 
-3. **La personne morale augmentée**  
+3. [**La personne morale augmentée**](03-personne-morale-augmentee.md)  
    De l'assistance à l'autonomisation fonctionnelle.
 
-4. **Liberté formelle, capacité réelle**  
+4. [**Liberté formelle, capacité réelle**](04-liberte-formelle-capacite-reelle.md)  
    L'Autonomie de Capacité appliquée à l'IA.
 
-5. **La pathologie du secret**  
+5. [**La pathologie du secret**](05-pathologie-du-secret.md)  
    Quand l'algorithme dilue mandat, responsabilité et imputabilité.
 
-6. **Prouver face à une machine institutionnelle**  
+6. [**Prouver face à une machine institutionnelle**](06-prouver-face-a-une-machine-institutionnelle.md)  
    Traces, chronologie, conservation, provenance et reconstruction.
 
-7. **Le jumeau numérique souverain**  
+7. [**Le jumeau numérique souverain**](07-jumeau-numerique-souverain.md)  
    Mémoire et continuité au service de la personne, non à sa place.
 
-8. **KYS : qui a le droit de me représenter ?**  
+8. [**KYS : qui a le droit de me représenter ?**](08-kys-qui-a-le-droit-de-me-representer.md)  
    Consentement, correction, révocation et usages autorisés.
 
-9. **Democratic Humans in the Loop**  
+9. [**Democratic Humans in the Loop**](09-democratic-humans-in-the-loop.md)  
    L'humain doit garder une capacité réelle, pas une présence cérémonielle.
 
-10. **L'infrastructure est l'AI Safety**  
+10. [**L'infrastructure est l'AI Safety**](10-infrastructure-est-ai-safety.md)  
     Compute, données, énergie, modèles et dépendances.
 
-11. **Des individus capables ensemble**  
+11. [**Des individus capables ensemble**](11-individus-capables-ensemble.md)  
     Articulation avec les communs cognitifs sans capture collective.
 
-12. **PrivAI comme Reality Test**  
+12. [**PrivAI comme Reality Test**](12-privai-comme-reality-test.md)  
     Mesurer les capacités réellement rendues à la personne.
 
 ## Cas et annexes candidates déjà présentes dans le Corpus

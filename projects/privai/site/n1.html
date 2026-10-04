@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>PrivAI n°1 — Qui restera souverain ?</title>
-<meta name="description" content="Projection de lecture du n°1 de PrivAI. Quatre niveaux d'AI Safety, sommaire relié aux sources, aucun sceau de certification.">
+<meta name="description" content="Projection de lecture et manuscrit intégral du n°1 de PrivAI. 12 chapitres sur l'asymétrie institutionnelle, l'Autonomie de Capacité, la traçabilité des actes et les contre-pouvoirs cognitifs.">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -14,6 +14,8 @@
   <nav aria-label="Sections">
     <a href="index.html">Accueil</a>
     <a href="n1.html" aria-current="page">n°1</a>
+    <a href="magazine.html">Magazine</a>
+    <a href="annexes.html">Annexes</a>
     <a href="sources.html">Sources</a>
     <a href="glossaire.html">Glossaire</a>
     <a href="contribuer.html">Contribuer</a>
@@ -22,62 +24,105 @@
   </nav>
 </header>
 <main id="contenu">
-  <p class="pill">Projection · pas une édition</p>
+  <p class="pill">Manuscrit de travail · projection de lecture</p>
   <h1>PrivAI n°1 — Qui restera souverain ?</h1>
   <p class="lede">AI Safety, personnes morales augmentées et contre-pouvoir cognitif humain.</p>
-  <p>Le texte de corpus est <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/00-qui-restera-souverain.md"><code>manuscript/n1/00-qui-restera-souverain.md</code></a>. S'il diverge de cette page, le fichier fait foi.</p>
-  <h2>Deux questions déjà écrites</h2>
-  <blockquote><p>Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?</p></blockquote>
-  <p>C'est la question du Livre, reprise de <cite>Democratic AI Safety</cite> et du plan de numéro.</p>
-  <blockquote><p>Qui peut agir, au nom de qui, dans quelles limites, et avec quelles preuves ?</p></blockquote>
-  <p>C'est la question déjà publiée par <a href="https://github.com/acorsica/privai">l'initiative PrivAI</a>. Le Livre ne réécrit pas la charte.</p>
-  <h2>Quatre niveaux</h2>
+  <p>L'ensemble du manuscrit est rédigé et archivé sous <a href="https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/privai/manuscript/n1"><code>projects/privai/manuscript/n1/</code></a>. S'il diverge de cette page, le texte du dépôt fait foi.</p>
+
+  <div class="call">
+    <p><strong>Question directrice :</strong> <em>Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?</em></p>
+    <p><strong>Axiome opérationnel :</strong> <em>Qui peut agir, au nom de qui, dans quelles limites, et avec quelles preuves ?</em></p>
+  </div>
+
+  <h2>Quatre niveaux à ne pas confondre</h2>
   <ol>
-    <li>IA dangereuse en soi.</li>
-    <li>Usage dangereux de l'IA.</li>
-    <li>Asymétrie institutionnelle amplifiée par l'IA.</li>
-    <li>Perte de souveraineté humaine.</li>
+    <li><strong>IA dangereuse en soi :</strong> failles intrinsèques, dérives d'alignement technique, hallucinations critiques.</li>
+    <li><strong>Usage dangereux de l'IA :</strong> cyberattaques, armes autonomes, fraudes et désinformation criminelle.</li>
+    <li><strong>Asymétrie institutionnelle amplifiée :</strong> personnes morales ordinaires (firmes, banques, administrations) décuplées par l'IA face aux personnes physiques.</li>
+    <li><strong>Perte de souveraineté humaine :</strong> citoyens formellement électeurs mais devenant politiquement obsolètes dans les faits.</li>
   </ol>
-  <p>Le n°1 porte d'abord sur les deux derniers. Le claim C1 de <cite>Democratic AI Safety</cite> reste une thèse analytique : les cadres centrés sur le modèle sont nécessaires et insuffisants s'ils ignorent l'agence politique des institutions augmentées.</p>
-  <h2>Sommaire</h2>
-  <div class="card">
-    <h3>1. Le mauvais scénario</h3>
-    <p>La question ne commence pas par une machine qui se révolte. Les personnes morales existent déjà. L'IA s'y ajoute.</p>
-  </div>
-  <div class="card">
-    <h3>2. et 3. L'asymétrie, puis la personne morale augmentée</h3>
-    <p>Veille, rédaction, simulation, lobbying assisté : capacités descriptibles dans <cite>Traçabilité des actes</cite>, §8. L'augmentation politique est une hypothèse (claim C3), pas une mesure déjà faite.</p>
-  </div>
-  <div class="card">
-    <h3>4. Liberté formelle, capacité réelle</h3>
-    <p>L'Autonomie de Capacité est une grammaire pour produire des mesures capables. L'appliquer ici est un geste du Livre, pas un théorème de ce fichier.</p>
-  </div>
-  <div class="card">
-    <h3>5. La pathologie du secret</h3>
-    <p>On ne peut pas exiger un humain pour posséder, puis accepter une machine pour gouverner. Le secret tactique n'est pas l'opacité structurelle.</p>
-  </div>
-  <div class="card">
-    <h3>6. Prouver</h3>
-    <p>Chaîne minimale : trace, imputation, justification, correction, révocation ou sanction. Une trace négative n'est pas une intention.</p>
-  </div>
-  <div class="card">
-    <h3>7. et 8. Jumeau et KYS</h3>
-    <p>Un jumeau peut assister. Il ne vote pas à la place de la personne. La personne décide ce qui est partagé et l'usage permis. Les profils publics sont des prototypes, pas une preuve judiciaire, pas un produit livré.</p>
-  </div>
-  <div class="card">
-    <h3>9. et 10. DHITL et infrastructure</h3>
-    <p>La sécurité de modèle ne suffit pas si le calcul est capturé. La tension entre « l'infrastructure suffit » et « la gouvernance démocratique est un niveau au-dessus » reste ouverte. Solid et PrivAI sont complémentaires dans le README de l'initiative.</p>
-  </div>
-  <div class="card">
-    <h3>11. et 12. Communs et Reality Test</h3>
-    <p>Un commun peut aussi être capturé. Aucun Reality Case de ce dossier ne mesure encore si une personne a, après PrivAI, plus de capacité autonome, vérifiable et révocable qu'avant.</p>
-  </div>
+  <p>PrivAI traite prioritairement les niveaux 3 et 4 sans nier les deux premiers.</p>
+
+  <h2>Sommaire intégral du n°1</h2>
+
+  <section class="card" aria-labelledby="mvt1-title">
+    <h3 id="mvt1-title">Mouvement I : L'illusion et l'asymétrie institutionnelle</h3>
+    <ol>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/01-mauvais-scenario-science-fiction.md">Le mauvais scénario de science-fiction</a></strong><br>
+        Dépassement du mythe de la « révolte des machines ». Le péril politique commence avec un acteur séculaire bien réel : la personne morale (<em>persona ficta</em>), automate juridique immortel doté d'ailes algorithmiques.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/02-asymetrie-est-deja-la.md">L'asymétrie est déjà là</a></strong><br>
+        La fiction de l'égalité formelle des parties fracassée par les 8 vecteurs de disproportion : calcul, mémoire, temps, vitesse, présence continue, capture cognitive, imputabilité et souveraineté effective.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/03-personne-morale-augmentee.md">La personne morale augmentée</a></strong><br>
+        De l'assistance bureautique à l'autonomisation fonctionnelle. L'hypothèse centrale C3, sa condition de falsification, et l'émergence de souverainetés privées de fait capables d'exercer une contrainte unilatérale.
+      </li>
+    </ol>
+  </section>
+
+  <section class="card" aria-labelledby="mvt2-title">
+    <h3 id="mvt2-title">Mouvement II : Droit, opacité et imputabilité</h3>
+    <ol start="4">
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/04-liberte-formelle-capacite-reelle.md">Liberté formelle, capacité réelle</a></strong><br>
+        Application de la grammaire d'Autonomie de Capacité. Pourquoi les droits numériques sur le papier sont nuls sans capacité matérielle d'exercice. L'hypothèse C4 de l'obsolescence politique du citoyen.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/05-pathologie-du-secret.md">La pathologie du secret</a></strong><br>
+        L'axiome de symétrie : <em>on ne peut exiger un humain pour posséder et accepter une machine pour gouverner</em>. Secret tactique contre opacité structurelle. La leçon démocratique de l'abrogation de DataJust.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/06-prouver-face-a-une-machine-institutionnelle.md">Prouver face à une machine institutionnelle</a></strong><br>
+        La chaîne minimale d'imputabilité : <em>trace → imputation → justification → correction → sanction</em>. Le refus des quatre alibis de dilution. Traces négatives et reconstructibilité temporelle intégrale.
+      </li>
+    </ol>
+  </section>
+
+  <section class="card" aria-labelledby="mvt3-title">
+    <h3 id="mvt3-title">Mouvement III : Les armes de la souveraineté personnelle</h3>
+    <ol start="7">
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/07-jumeau-numerique-souverain.md">Le jumeau numérique souverain</a></strong><br>
+        L'agent local-first comme bouclier cognitif face aux avatars captifs du cloud marchand. La règle constitutionnelle Anti-Demos : non-substitution politique absolue. L'épreuve de portabilité Migration-Tested.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/08-kys-qui-a-le-droit-de-me-representer.md">KYS : qui a le droit de me représenter ?</a></strong><br>
+        Know Your Sources / Know Your Self. Refus du profilage comportemental universel au profit de la projection cognitive bornée par finalité. Révocation physique immédiate et droit de correction contradictoire.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/09-democratic-humans-in-the-loop.md">Democratic Humans in the Loop</a></strong><br>
+        Refus du « Human-in-the-Loop » cérémoniel où l'opérateur précaire sert de fusible juridique. La doctrine DHITL : contrôle citoyen indépendant, temps de délibération garanti, et gouvernance démocratique du calcul.
+      </li>
+    </ol>
+  </section>
+
+  <section class="card" aria-labelledby="mvt4-title">
+    <h3 id="mvt4-title">Mouvement IV : Infrastructures, communs et Reality Test</h3>
+    <ol start="10">
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/10-infrastructure-est-ai-safety.md">L'infrastructure est l'AI Safety</a></strong><br>
+        La matérialité de silicium, de watts et de câbles. Dépasser le modèle de stockage Solid en sécurisant le calcul et la chaîne de mandat. L'indépendance par les modèles ouverts (open-weights) et locaux.
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/11-individus-capables-ensemble.md">Des individus capables ensemble</a></strong><br>
+        Le piège du collectivisme cognitif et le risque de capture du commun (Objection 7). Le principe confédéral : <em>référencer, ne pas cloner</em>. L'alliance féconde entre le bouclier privé (PrivAI) et l'agora publique (Cogentia Commons).
+      </li>
+      <li>
+        <strong><a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/manuscript/n1/12-privai-comme-reality-test.md">PrivAI comme Reality Test</a></strong><br>
+        Le refus de la rhétorique sans épreuve. Le protocole des 5 épreuves de Réalité : portabilité, résistance au secret, égalité procédurale, révocation matérielle et pureté démocratique. L'appel au contre-pouvoir cognitif.
+      </li>
+    </ol>
+  </section>
+
   <div class="warn">
-    <p>Pas de certification. Pas de fondation constatée. Pas de Guide branché. Le détail institutionnel est sur la page <a href="mentions.html">Mentions</a>.</p>
+    <p>Ce manuscrit n'est pas une édition gelée au sens du Livre Vivant : il constitue la projection de référence en cours d'instruction. Aucune certification n'est délivrée ici. Le cadre institutionnel est précisé sur la page <a href="mentions.html">Mentions</a>.</p>
   </div>
 </main>
 <footer>
-  <p><a href="sources.html">Sources</a> · <a href="contribuer.html">Objecter</a></p>
+  <p><a href="sources.html">Sources</a> · <a href="contribuer.html">Objecter</a> · <a href="annexes.html">Annexes</a> · <a href="magazine.html">Magazine</a></p>
 </footer>
 </body>
 </html>

@@ -9,5 +9,6 @@ subtitle: "AI Safety, personnes morales augmentées et contre-pouvoir cognitif h
 question: "Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?"
 corpus_text: projects/privai/manuscript/n1/00-qui-restera-souverain.md
 outline: projects/privai/manuscript/n1/README.md
+chapters: projects/privai/manuscript/n1/
 public_page: projects/privai/site/n1.html
 rule: "This projection is not an edition. If the public page and the manuscript diverge, the manuscript is the corpus source."
