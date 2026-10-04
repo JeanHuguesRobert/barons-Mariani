@@ -206,6 +206,8 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-36** | 02/10 | Note forensic sur la provenance numérique de la requête préfectorale | Analyse dérivée : bundles TA recomposés, contenu lisible mais provenance native non exposée ; ne prouve ni disparition ni altération fautive | investigation/forensic-provenance-requete-prefectorale-2026-10-02.md |
 | **P-37** | 01/10 10:11:07 | Adresse du rendez-vous | 15 Avenue Jean Zuccarelli ; salons de la préfecture indisponibles ce jour-là | investigation/sources/courriel-prefecture-adresse-rendez-vous-2026-10-01.md |
 | **P-38** | 01/10 12:30:20 | Réponse sur cette adresse | Phrase familiale et expropriation ; train annoncé en principe à 15 h ; retard annoncé. Ni l'arrivée effective ni l'inventaire des pièces | investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md |
+| **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
+| **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -241,7 +243,7 @@ La requête précise que le dossier avait été transmis principalement sous for
 Avant dépôt, produire un manifeste final séparant :
 
 1. **la requête signée** avec l'identité et la qualité du requérant, l'élu dont l'élection est contestée et les moyens invoqués ;
-2. **le bordereau P-01 à P-36**, avec pour chaque pièce son fichier réel, son statut public/privé, sa pagination dans le recueil et, si utile, son empreinte ;
+2. **le bordereau P-01 à P-40**, avec pour chaque pièce son fichier réel, son statut public/privé, sa pagination dans le recueil et, si utile, son empreinte ;
 3. **le recueil PDF consolidé**, sans faire dépendre l'accès du Conseil d'un simple lien web ;
 4. **les pièces natives décisives**, notamment les courriels dont les métadonnées sont probatoires, la vidéo P-13 et les PDF originaux P-14 ;
 5. **un registre des UNKNOWN**, afin qu'une demande d'instruction soit formulée là où le requérant ne dispose pas lui-même de la pièce ;
