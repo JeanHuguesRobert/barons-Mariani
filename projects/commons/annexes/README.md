@@ -25,6 +25,7 @@ Les **Annexes** fournissent le substrat probatoire du Livre Vivant. Elles rassem
 
 1. **Textes et Chartes Historiques**  
    - [**Archives des biens communaux et droits d'usage en Corse (XVIe - XXe siècle)**](archives-communaux-corse.md) : Étude archivistique approfondie des *Statuti* génois de 1571, du Plan Terrier (1770–1795), des enquêtes de terrain de Georges Ravis-Giordani (*Niolu*, 1983) et de la résistance pastorale au Code forestier de 1827.
+   - [**L'institution des « Nobles Douze » (Nobili Dodici) en Corse (XVIe–XVIIIe siècle)**](nobles-douze-et-gouvernance-corse.md) : Étude institutionnelle de la représentation territoriale de la *Terra di Comune*, de la médiation des droits d'usage auprès du gouverneur génois, de sa capture oligarchique et de son dépassement par la Constitution paolienne de 1755.
    - [**La Charte des Forêts (*Carta de Foresta*, 1217)**](carta-de-foresta-1217.md) : Texte fondateur de protection des droits d'usage coutumiers (*estover*, panage, pacage, tourbage) et dépénalisation des délits de subsistance.
    - Règlements coutumiers du Tribunal des Eaux de Valence (*Ordenanzas de la Vega de Valencia*).  
    - Extraits choisis des *Parliamentary Enclosure Acts* (1760-1830).  

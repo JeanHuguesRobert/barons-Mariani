@@ -49,6 +49,11 @@ Enclos temporaires de culture céréalière ou maraîchère, strictement délimi
 4. **La protection des arbres fruitiers et l'affouage (*legnatico*) :**  
    Les décrets génois punissaient sévèrement l'abattage d'arbres nobles (châtaigniers, oliviers, chênes verts), tout en codifiant le droit coutumier de ramassage du bois mort et de glandée (*ghjandaticu* / *ghiandatico*) pour l'alimentation des porcs en automne.
 
+### 1.2. L'échelon intermédiaire : l'institution des « Nobles Douze » (*Nobili Dodici*)
+Au-dessus des *Padri del Comune* villageois, les *Statuti* institutionnalisaient auprès du gouverneur génois de Bastia un conseil représentatif insulaire : les **Nobles Douze** (*Nobili Dodici*) pour le Deçà-des-Monts (*Cismonte*) et les **Six Nobles** (*Nobili Sei*) pour le Delà-des-Monts (*Pumonte*).
+
+Issus des *principali* (notables roturiers de la *Terra di Comune*), les Douze avaient pour mandat d'arbitrer les conflits territoriaux majeurs de transhumance entre communautés, de contrôler les stocks de blé (*Magistrato dell'Abbondanza*) et de négocier les suppliques fiscales. L'analyse détaillée de cette institution, de sa dérive oligarchique et de son dépassement par la Constitution paolienne de 1755 fait l'objet d'une étude probatoire dédiée : [**L'institution des « Nobles Douze » (Nobili Dodici) en Corse**](nobles-douze-et-gouvernance-corse.md).
+
 ---
 
 ## 2. L'écologie pastorale verticale et l'ethnologie de terrain
