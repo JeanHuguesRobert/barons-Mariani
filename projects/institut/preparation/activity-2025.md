@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.4"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -339,6 +339,48 @@ C. ÉCOSYSTÈME PERSONNEL / POLITIQUE / OPEN SOURCE
 ~~~
 
 Cette distinction devra guider le futur rapport d’activité et éviter de gonfler artificiellement le périmètre de l’association.
+
+
+
+### 7.4 Décembre 2025 — souscription publique « Pascal Paoli »
+
+Une trace publique indépendante, hors GitHub, documente une activité directement portée par C.O.R.S.I.C.A. en décembre 2025.
+
+La page HelloAsso « Pascal Paoli » présente C.O.R.S.I.C.A. comme **porteur opérationnel** d'une souscription citoyenne destinée à tenter de conserver en Corse un portrait de Pasquale Paoli mis en vente à Bastia le 13 décembre 2025.
+
+La page décrit notamment :
+
+- objectif patrimonial : éviter la sortie de Corse de l'œuvre et organiser son accès public ;
+- portage de la collecte par C.O.R.S.I.C.A. ;
+- rôle R&D / communication attribué à l'Institut Mariani ;
+- projet de reversement à une future structure patrimoniale en cas de succès ;
+- engagement de transparence sur prix, frais, assurance, transport et emploi des fonds ;
+- objectif affiché de collecte : 1 000 000 € ;
+- résultat public actuellement affiché : **0 € collecté / 0 contributeur**.
+
+Source publique :
+`https://www.helloasso.com/associations/corse-organisant-la-reunion-sur-internet-de-competences-autonomes/collectes/pascal-paoli`
+
+Qualification :
+
+~~~text
+existence de la campagne
+→ ESTABLISHED
+
+portage public par C.O.R.S.I.C.A.
+→ ESTABLISHED
+
+succès financier
+→ FALSE selon état public de la page
+
+flux financier collecté
+→ 0 € affiché publiquement
+
+travail bénévole consacré à la campagne
+→ UNKNOWN / à reconstruire
+~~~
+
+Cet élément doit figurer dans le rapport d'activité même en l'absence de recette : une tentative documentée et infructueuse reste une activité et un Reality Test.
 
 ## 7. Ce qui reste inconnu
 
