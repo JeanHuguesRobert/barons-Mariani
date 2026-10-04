@@ -1,18 +1,27 @@
 ---
 title: "Capable — architecture des campagnes"
+description: "Architecture fractale des campagnes de Capable, distinguant la Campagne du Réel sénatoriale de la grammaire réutilisable pour la présidentielle 2027."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
+last_modified_at: "2026-10-04"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/architecture-des-campagnes.md"
+update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source"
 document_kind: "campaign-architecture"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 provenance:
-  origin_type: "corpus-consolidation"
+  origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: "1e5d0cd0848185d4fe20637dac7cfeda010db287"
   origin_date: "2026-10-04"
   derived_from:
     - "../README.md"
@@ -21,6 +30,9 @@ provenance:
     - "../manuscript/07-campagnes-comme-reality-tests.md"
     - "../manuscript/08-presidentielle-2027.md"
     - "../manuscript/05-machines-et-correction.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Capable — architecture des campagnes
