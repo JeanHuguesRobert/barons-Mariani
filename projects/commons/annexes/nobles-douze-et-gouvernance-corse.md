@@ -100,3 +100,13 @@ La leçon des *Nobili Dodici* et de leur dépassement paolien impose trois garan
 1. **La révocabilité des mandats** et la rotation obligatoire des représentants ;
 2. **La transparence absolue des délibérations et des votes** (traçabilité persistante des actes) ;
 3. **Le droit d'objection directe et de sécession (*exit rights*)** sanctuarisé pour chaque communauté locale.
+
+---
+
+## 6. Articulation organique avec le Livre Vivant « 1755 »
+
+La présente étude sur les *Nobili Dodici* constitue la passerelle institutionnelle et causale directe entre le Livre Vivant **Commons** et le Livre Vivant **1755** ([`research/autonomia/projet_1755.md`](../../research/autonomia/projet_1755.md)) :
+
+1. **L'état zéro pré-constitutionnel :** Le projet *1755* documente l'irruption du constitutionnalisme écrit moderne et de la souveraineté populaire lors de la Consulte de Corte. L'étude des *Nobili Dodici* fournit l'anatomie de l'échec institutionnel qui a rendu cette rupture inévitable : c'est parce que le conseil représentatif génois s'est avéré incapable d'arbitrer les tensions sur les communaux et l'impôt que le peuple a dû réinventer sa propre souveraineté.
+2. **La matérialité des Communs derrière l'idéal démocratique :** La Constitution de 1755 n'a pas été conçue dans un salon abstrait des Lumières : elle a été votée par des chefs de famille pour sanctuariser la paix civile, l'accès aux pacages, la régulation des moulins et la sécurité des récoltes de la *Terra di Comune*.
+3. **Lien de corpus :** Cette pièce probatoire est enregistrée comme source commune opposable pour les deux chantiers du Corpus Barons Mariani.

@@ -1,0 +1,83 @@
+schema: "1755.corpus.v0"
+project: "1755"
+slug: "1755"
+status: "working"
+language: "fr"
+visibility: "public"
+updated: "2026-10-04"
+source_of_truth: "repository files under projects/1755, research/autonomia/projet_1755.md, research/autonomia/1755.md, research/livre_vivant.md, and referenced historical archives; this manifest points at them and does not replace them"
+issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues"
+target_identity: "https://1755.acorsica.org"
+target_identity_status: "prepared name only; workstation DNS check on 2026-10-04 did not resolve 1755.acorsica.org; not a deployment and not a frozen edition"
+institutional_frame: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+editorial_lineage: "Living Book / histoire mondiale du constitutionnalisme moderne et souveraineté populaire"
+implementation_class: "living publication + open evidentiary dossier"
+
+architecture:
+  implementation: projects/1755/architecture.md
+  editorial: projects/1755/editorial-architecture.md
+  project_index: projects/1755/README.md
+  manuscript_n1: projects/1755/manuscript/n1/
+  annexes: projects/1755/annexes/README.md
+  magazine: projects/1755/magazine/README.md
+  chronology: projects/1755/chronology/README.md
+  sources: projects/1755/sources/README.md
+  editions: projects/1755/editions/index.md
+  journals: projects/1755/journals/
+  projections: projects/1755/projections/n1-working.yml
+  deploy: projects/1755/deploy/README.md
+  guide_profile: projects/1755/guide-profile.yml
+  site: projects/1755/site/
+  rule: "Le Livre Vivant 1755 est un dossier probatoire ouvert et une surface éditoriale vivante. Il ne revendique pas un monopole mémoriel mais instruit l'hypothèse de la contribution corse au constitutionnalisme démocratique moderne sous contrainte scientifique stricte."
+
+realities:
+  - id: distinction-histoire-et-mythe
+    status: active
+    statement: "Séparation stricte entre faits historiques documentés (Level A : Consulte de Corte, Constitution écrite de 1755, Dieta, Boswell, Rousseau), vérifications archivistiques requises (Level A/B : manuscrit original, cote, conservation) et interprétations historiographiques (Level B : précocité démocratique, séparation des pouvoirs, droit écrit transformateur)."
+  - id: amont-communs-et-nobles-douze
+    status: active
+    statement: "La rupture constitutionnelle de 1755 prend racine dans la faillite de la médiation corporatiste génoise des Nobles Douze (1571-1729) et la crise de régulation de la Terra di Comune (documentée dans le Livre Vivant Commons)."
+  - id: non-nationalisme-et-universalisme
+    status: active
+    statement: "Le Projet 1755 n'est pas un plaidoyer nationaliste ou une revendication d'exception insulaire ; c'est un examen historiographique transnational portant sur la circulation européenne et atlantique des formes démocratiques."
+  - id: double-temporality
+    status: active
+    statement: "Tenue rigoureuse de la double temporalité : l'histoire du XVIIIe siècle repose sur des pièces primaires et secondaires vérifiées ; les résonances contemporaines (Autonomie de Capacité, Kudocracy) sont explicitement typées comme hypothèses prospectives."
+
+sources:
+  - id: projet-1755-source
+    path: "research/autonomia/projet_1755.md"
+    role: "dossier-source-fondateur"
+    required: true
+  - id: projet-1755-dashboard
+    path: "research/autonomia/1755.md"
+    role: "tableau-de-bord-public"
+    required: true
+  - id: act-1755-01
+    path: "research/autonomia/act_1755_01_verification_manuscrit.md"
+    role: "protocole-probatoire-archivistique"
+    required: true
+  - id: commons-nobili-dodici
+    path: "projects/commons/annexes/nobles-douze-et-gouvernance-corse.md"
+    role: "amont-institutionnel-et-etat-zero"
+    required: true
+  - id: livre-vivant-doctrine
+    path: "research/livre_vivant.md"
+    role: "grammaire-editoriale"
+    required: true
+  - id: constitution-1755-lamotte-carrington
+    path: "Dorothy Carrington & François-J. Lamotte, La Constitution de Pascal Paoli (1755), Éditions La Marge, 1996."
+    role: "edition-critique-de-reference"
+    required: true
+  - id: boswell-1768
+    path: "James Boswell, An Account of Corsica, The Journal of a Tour to that Island; and Memoirs of Pascal Paoli, Glasgow, 1768."
+    role: "temoignage-et-reception-britannique"
+    required: true
+  - id: rousseau-1765
+    path: "Jean-Jacques Rousseau, Projet de constitution pour la Corse, 1765."
+    role: "philosophie-politique-des-lumieres"
+    required: true
+  - id: pomponi-1979
+    path: "Francis Pomponi, Histoire de la Corse, Hachette, 1979."
+    role: "synthese-historiographique"
+    required: true

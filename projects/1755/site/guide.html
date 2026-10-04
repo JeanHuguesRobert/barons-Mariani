@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Le Guide Conversationnel — 1755</title>
+  <meta name="description" content="Guide conversationnel public borné pour l'exploration du Livre Vivant 1755.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="guide.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu principal</a>
+  <header class="site">
+    <p class="mark"><a href="index.html">1755 · Livre Vivant</a></p>
+    <nav aria-label="Navigation principale">
+      <a href="index.html">Accueil</a>
+      <a href="manuscrit.html">Manuscrit</a>
+      <a href="annexes.html">Annexes</a>
+      <a href="chronologie.html">Chronologie</a>
+      <a href="magazine.html">Magazine</a>
+      <a href="sources.html">Sources</a>
+      <a href="guide.html" aria-current="page">Guide</a>
+      <a href="contribuer.html">Contribuer</a>
+      <a href="mentions.html">Mentions</a>
+    </nav>
+  </header>
+
+  <main id="contenu">
+    <span class="pill">Face 4 · Agent Conversationnel Borné</span>
+    <h1>Le Guide Public de 1755</h1>
+    <p class="lede">Ce guide interactif vous assiste dans l'exploration du corpus probatoire de 1755. Il est strictement borné par 8 invariants éthiques et épistémiques et ne conserve aucune donnée personnelle.</p>
+
+    <div class="interactive-box">
+      <form id="guide-form">
+        <label for="guide-prompt">Posez une question sur la Constitution de 1755, Pascal Paoli ou les institutions :</label>
+        <input type="text" id="guide-prompt" placeholder="Ex: Le vote des femmes, les Nobles Douze, le Sindacato, Boswell, l'Amérique..." required>
+        <button type="submit">Interroger le Guide</button>
+      </form>
+      <div id="guide-response" style="margin-top: 1.2rem;"></div>
+    </div>
+
+    <h2>Les 8 Invariants du Guide</h2>
+    <ol>
+      <li><strong>Niveaux de preuve (Level A à C) :</strong> Séparation absolue entre faits avérés, points à vérifier et hypothèses.</li>
+      <li><strong>Ancrage matériel dans les Communs :</strong> Rappel permanent de la crise des communaux et de la faillite des <em>Nobles Douze</em>.</li>
+      <li><strong>Refus du chauvinisme :</strong> Inscription de la Corse dans l'histoire transnationale des idées universelles.</li>
+      <li><strong>Mécanique constitutionnelle :</strong> Précision sur la Diète, le Conseil d'État et le <em>Sindacato</em>.</li>
+      <li><strong>Rigueur sur le vote des femmes :</strong> Distinguer le vote patrimonial effectif de la cheffe de foyer du suffrage individuel contemporain.</li>
+      <li><strong>Pas de conseil juridique contemporain :</strong> Aucun avis sur le droit positif actuel.</li>
+      <li><strong>Ancrage strict au corpus :</strong> Interdiction totale d'extrapolation hors des pièces vérifiées.</li>
+      <li><strong>Zéro rétention de données :</strong> Aucun stockage d'adresses IP ni d'historique de conversation.</li>
+    </ol>
+  </main>
+
+  <footer>
+    <p class="byline">Projet porté par l'Institut Mariani / C.O.R.S.I.C.A. (1 cours Paoli, Corte) · Licence CC BY-SA 4.0</p>
+  </footer>
+</body>
+</html>

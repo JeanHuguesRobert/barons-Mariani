@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contribuer & Soumettre une Objection — 1755</title>
+  <meta name="description" content="Espace contributif citoyen et scientifique du Livre Vivant 1755.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="guide.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#contenu">Aller au contenu principal</a>
+  <header class="site">
+    <p class="mark"><a href="index.html">1755 · Livre Vivant</a></p>
+    <nav aria-label="Navigation principale">
+      <a href="index.html">Accueil</a>
+      <a href="manuscrit.html">Manuscrit</a>
+      <a href="annexes.html">Annexes</a>
+      <a href="chronologie.html">Chronologie</a>
+      <a href="magazine.html">Magazine</a>
+      <a href="sources.html">Sources</a>
+      <a href="guide.html">Guide</a>
+      <a href="contribuer.html" aria-current="page">Contribuer</a>
+      <a href="mentions.html">Mentions</a>
+    </nav>
+  </header>
+
+  <main id="contenu">
+    <span class="pill">Face 5 · Collecte Engageante</span>
+    <h1>Contribuer au Livre Vivant 1755</h1>
+    <p class="lede">Un Livre Vivant vit des objections, des rectifications d'archives et des contributions critiques de ses lecteurs. Vous pouvez soumettre une pièce inédite, contester une interprétation ou proposer un amendement textuel.</p>
+
+    <div class="interactive-box">
+      <h2>Générateur local de contribution / objection</h2>
+      <p class="muted">Ce formulaire fonctionne exclusivement dans votre navigateur (aucun envoi serveur occulte). Il produit un bloc textuel normalisé prêt à être versé au corpus.</p>
+      
+      <form id="contrib-form">
+        <label for="contrib-type">Nature de la contribution :</label>
+        <select id="contrib-type">
+          <option value="signalement_archive">Signalement d'une cote d'archive inédite (Level A/B)</option>
+          <option value="objection_historiographique">Objection ou nuance historiographique (Level B)</option>
+          <option value="correction_textuelle">Correction philologique ou de transcription (Level A)</option>
+          <option value="proposition_prospective">Résonance ou hypothèse prospective (Level C)</option>
+        </select>
+
+        <label for="contrib-ref">Document ou chapitre visé :</label>
+        <input type="text" id="contrib-ref" placeholder="Ex: Manuscrit Mouvement 2, Annexe 02, etc." required>
+
+        <label for="contrib-author">Votre nom ou affiliation (facultatif) :</label>
+        <input type="text" id="contrib-author" placeholder="Chercheur indépendant, étudiant, archiviste...">
+
+        <label for="contrib-text">Exposé argumenté de votre contribution :</label>
+        <textarea id="contrib-text" rows="5" placeholder="Décrivez les sources primaires, la cote d'archive ou la contradiction constatée..." required></textarea>
+
+        <button type="submit">Générer le bordereau de contribution</button>
+      </form>
+
+      <div id="contrib-result-box" style="display: none; margin-top: 1.5rem;">
+        <label for="contrib-output">Votre bordereau prêt à l'emploi (format Markdown) :</label>
+        <textarea id="contrib-output" rows="8" readonly style="font-family: monospace; font-size: 0.88rem;"></textarea>
+        <p class="muted" style="font-size: 0.85rem;">Copiez ce texte et ouvrez une issue sur le dépôt GitHub de Barons-Mariani ou transmettez-le au comité de rédaction de l'Institut Mariani.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p class="byline">Projet porté par l'Institut Mariani / C.O.R.S.I.C.A. (1 cours Paoli, Corte) · Licence CC BY-SA 4.0</p>
+  </footer>
+</body>
+</html>

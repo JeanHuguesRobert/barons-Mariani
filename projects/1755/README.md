@@ -1,0 +1,102 @@
+---
+title: 1755 — Livre Vivant du constitutionnalisme démocratique moderne
+description: Point d'entrée du Livre Vivant 1755 sur la Constitution corse de 1755 et sa réintégration dans l'histoire constitutionnelle mondiale.
+author: Jean Hugues Noël Robert, baron Mariani
+affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
+date: '2026-10-04'
+last_modified_at: '2026-10-04'
+version: '0.1'
+status: working-paper
+license: CC BY-SA 4.0
+language: fr
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/README.md
+document_role: source
+document_kind: project-readme
+visibility: public
+lifecycle_state: working
+target_audience:
+  - historiens
+  - constitutionnalistes
+  - citoyens
+  - contributeurs
+document_function: point d'entrée canonique du projet 1755
+ai_assisted_by:
+  - Antigravity — project bootstrap, 2026-10-04
+provenance:
+  origin_type: synthesis
+  origin_repository: barons-Mariani
+  derived_from:
+    - research/autonomia/projet_1755.md
+    - research/autonomia/1755.md
+    - research/livre_vivant.md
+    - projects/commons/annexes/nobles-douze-et-gouvernance-corse.md
+review:
+  status: unreviewed
+  reviewed_by: []
+related_documents:
+  - projects/1755/corpus.yml
+  - projects/1755/architecture.md
+  - projects/1755/editorial-architecture.md
+  - research/autonomia/projet_1755.md
+changelog:
+  - v0.1 (2026-10-04) — initial candidate bootstrap of Living Book 1755 under five-face architecture.
+---
+
+# 1755 — La Constitution de Pascal Paoli et le constitutionnalisme moderne
+
+**1755** est un **Livre Vivant** consacré à la révolution constitutionnelle corse de 1755 et à sa réintégration argumentée dans l'histoire mondiale de la démocratie représentative moderne.
+
+Il ne s'agit ni d'un repli mémoriel insulaire ni d'une sanctification anachronique, mais d'une **enquête probatoire ouverte** :
+
+> **La Constitution votée à Corte en novembre 1755 est-elle l'un des premiers textes constitutionnels écrits de l'histoire moderne fondant la légitimité politique sur la souveraineté populaire, la séparation des pouvoirs et la désignation élective des magistrats par les chefs de famille ?**
+
+---
+
+## 1. Origine et articulation avec Commons
+
+Le Livre Vivant 1755 est le prolongement politique direct du Livre Vivant **Commons** ([`projects/commons/`](../commons/README.md)) :
+- La démocratie paolienne prend sa source dans la défense de la *Terra di Comune* (communaux pastoraux, forêts indivises et droits d'usage collectifs institués en 1358).
+- C'est l'effondrement et la trahison oligarchique de la médiation corporatiste génoise — les **Nobles Douze** (*Nobili Dodici*, analysés dans [`annexes/01-nobles-douze-et-faillite-corporatiste.md`](annexes/01-nobles-douze-et-faillite-corporatiste.md)) — qui a poussé les communautés paysannes à briser le cadre colonial en 1729 et à instituer leur propre souveraineté constituante à Corte en 1755.
+
+---
+
+## 2. L'architecture des Cinq Faces
+
+Conformément à la spécification canonique du Livre Vivant ([`architecture.md`](architecture.md)), **1755** s'articule autour de cinq faces publiques :
+
+1. **Le Livre & les Annexes ([`manuscript/n1/`](manuscript/n1/) & [`annexes/`](annexes/)) :** Le récit fondamental en 4 mouvements et ses dossiers probatoires (texte critique de la Constitution, analyse des Nobili Dodici, inventaire archivistique, pistes de reconnaissance internationale).
+2. **Le Magazine ([`magazine/`](magazine/)) :** Chroniques de vulgarisation et débats historiographiques vivants (le vote des femmes en 1755, l'écho américain et les *Sons of Liberty*).
+3. **Le Site Web ([`site/`](site/)) :** Surface de lecture publique universelle statique, sans cookie ni pistage, conforme aux standards du Web ouvert et aux spécifications `llms.txt`.
+4. **Le Guide Conversationnel ([`guide-profile.yml`](guide-profile.yml) & [`site/guide.html`](site/guide.html)) :** Agent d'exploration publique borné par 8 invariants stricts et le respect des 4 niveaux de preuve (Level A à C).
+5. **La Collecte Engageante ([`site/contribuer.html`](site/contribuer.html)) :** Interface citoyenne locale de génération d'objections, de transcriptions archivistiques et de propositions d'amendements.
+
+---
+
+## 3. Plan du dossier
+
+```text
+projects/1755/
+├── corpus.yml                  # Manifeste canonique du corpus 1755
+├── architecture.md             # Spécification des 5 faces et des invariants
+├── editorial-architecture.md   # Cadrage narratif et double temporalité janusienne
+├── guide-profile.yml           # Invariants de l'agent conversationnel borné
+├── README.md                   # Le présent fichier d'orientation
+├── manuscript/n1/              # Les 4 mouvements du livre fondamental
+├── annexes/                    # Pièces d'archives et traductions critiques
+├── magazine/                   # Chroniques d'actualité et vulgarisation
+├── chronology/                 # Chronologie comparée 1729–1769–présent
+├── sources/                    # Registre des sources d'archives et bibliographie
+├── editions/                   # Spécification de la Release Candidate 1 (RC1)
+├── projections/                # Spécification de projection n1-working
+├── deploy/                     # Cadrage d'hébergement pour 1755.acorsica.org
+├── journals/                   # Journal d'amorçage et audit trails
+└── site/                       # Surface statique de lecture universelle
+```
+
+---
+
+## 4. Cadre institutionnel et licence
+
+- **Porteur éditorial :** Institut Mariani, émanation R&D de l'association C.O.R.S.I.C.A., en lien avec le futur Fonds de dotation Barons Mariani.
+- **Licence :** Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
+- **Gouvernance :** Projet ouvert non lucratif orienté vers le bien commun documentaire mondial.

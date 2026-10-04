@@ -1,0 +1,20 @@
+schema: 1755.projection.v0
+projection_id: n1-working
+project: "1755"
+status: active
+date: "2026-10-04"
+target_surface: "projects/1755/site/"
+language: fr
+faces:
+  face1_livre:
+    manuscript_dir: "projects/1755/manuscript/n1/"
+    annexes_dir: "projects/1755/annexes/"
+  face2_magazine:
+    magazine_dir: "projects/1755/magazine/"
+  face3_site:
+    site_dir: "projects/1755/site/"
+  face4_guide:
+    profile: "projects/1755/guide-profile.yml"
+    client: "projects/1755/site/guide.html"
+  face5_collecte:
+    surface: "projects/1755/site/contribuer.html"

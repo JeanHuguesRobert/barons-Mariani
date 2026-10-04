@@ -1,0 +1,19 @@
+# 1755 — Livre Vivant du constitutionnalisme démocratique moderne
+> Dossier probatoire ouvert sur la Constitution corse de 1755, Pascal Paoli, la souveraineté constituante et l'histoire mondiale de la démocratie.
+
+## Surfaces principales
+- [Accueil](https://1755.acorsica.org/index.html) : Thèse centrale, cadrage scientifique et architecture des 5 faces.
+- [Manuscrit Fondamental](https://1755.acorsica.org/manuscrit.html) : Les 4 mouvements et l'épilogue contemporain.
+- [Annexes & Dossiers Probatoires](https://1755.acorsica.org/annexes.html) : Nobles Douze, texte critique bilingue, inventaire archivistique et UNESCO.
+- [Chronologie Comparée](https://1755.acorsica.org/chronologie.html) : De la Terre de la Communauté (1358) aux révolutions atlantiques et à l'époque contemporaine.
+- [Le Magazine](https://1755.acorsica.org/magazine.html) : Chroniques vivantes sur le vote des femmes et la résonance américaine.
+- [Sources & Bibliographie](https://1755.acorsica.org/sources.html) : Dépôts d'archives à Bastia, Ajaccio, Gênes, Londres, Paris.
+- [Guide Public](https://1755.acorsica.org/guide.html) : Agent conversationnel borné par 8 invariants.
+- [Contribuer](https://1755.acorsica.org/contribuer.html) : Collecte engageante et bordereaux d'objections.
+- [Mentions Légales](https://1755.acorsica.org/mentions.html) : Institut Mariani / C.O.R.S.I.C.A., licence CC BY-SA 4.0.
+
+## Fichiers sources et corpus
+- [Manifeste de Corpus](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/corpus.yml)
+- [Architecture du Livre Vivant](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/architecture.md)
+- [Architecture Éditoriale](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/editorial-architecture.md)
+- [Profil du Guide](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/1755/guide-profile.yml)

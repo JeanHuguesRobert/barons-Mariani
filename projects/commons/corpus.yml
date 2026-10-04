@@ -89,3 +89,7 @@ sources:
     path: research/the_republic_of_donkeys.md
     role: territorial-commons-micro-experiment
     required: true
+  - id: projet-1755
+    path: research/autonomia/projet_1755.md
+    role: constitutional-horizon-and-state-zero-link
+    required: true

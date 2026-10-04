@@ -1025,6 +1025,10 @@ Sixième application, dédiée à l'histoire, au présent et aux avenirs possibl
 
 Elle illustre comment le Livre Vivant relie une mémoire territoriale profonde (les communaux pastoraux du Niolu) aux architectures contemporaines de souveraineté cognitive et énergétique.
 
+### 20.7. 1755
+
+Septième application, consacrée à l'irruption du constitutionnalisme écrit moderne et de la souveraineté populaire (Constitution corse de 1755). Le Livre Vivant *1755* ([`research/autonomia/projet_1755.md`](autonomia/projet_1755.md)) s'ancre organiquement dans l'état zéro institutionnel documenté par *Commons* : la capture oligarchique de la représentation intermédiaire génoise (*Nobili Dodici*) et l'incapacité à arbitrer les équilibres de la *Terra di Comune* ont conduit au soulèvement de 1729 et à la souveraineté constituante de 1755. Il met à l'épreuve le Livre Vivant comme dossier probatoire d'histoire constitutionnelle mondiale et instrument de réexamen transnational.
+
 ---
 
 ## 21. Revue interne Redactor / Reviewer

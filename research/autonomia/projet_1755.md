@@ -53,6 +53,7 @@ related_projects:
   - Kudocracy
   - Cogentia
   - Paese Capace
+  - Commons
 ai_assisted_by:
   - ChatGPT
   - Grok
@@ -1350,6 +1351,7 @@ Réponse : non. Leur caractère **envisagé** est publié avant toute éventuell
 
 - Existence d’un texte constitutionnel corse de 1755 associé à Paoli et à la séquence paolienne.
 - Existence d’éditions et traductions modernes du texte, notamment autour du travail Lamotte / Carrington.
+- Régime génois des *Statuti di Corsica* (1571) et représentation corporatiste de la *Terra di Comune* par les Nobles Douze (*Nobili Dodici*), dont la faillite institutionnelle et la cooptation oligarchique mènent à l'embrasement populaire de 1729 (voir l'étude probatoire dans le Livre Vivant *Commons* : [`projects/commons/annexes/nobles-douze-et-gouvernance-corse.md`](../../projects/commons/annexes/nobles-douze-et-gouvernance-corse.md)).
 - Début de la Révolution corse en 1729.
 - Épisode du roi Théodore en 1736.
 - Constitution paolienne de 1755.
@@ -1370,6 +1372,7 @@ Réponse : non. Leur caractère **envisagé** est publié avant toute éventuell
 ### Level B — Interprétations défendables
 
 - La séquence corse 1729–1755 comme cas précoce du constitutionnalisme démocratique moderne à documenter comparativement.
+- L'articulation entre gouvernance des biens communs (*Terra di Comune*, pacages, forêts, moulins) et émergence de la démocratie constituante : la Constitution de 1755 comme sanctuarisation politique des équilibres socio-économiques de la communauté face à la faillite des corps intermédiaires génois.
 - La Constitution de 1755 comme moment de souveraineté constituante.
 - La réception de Paoli comme élément de circulation transnationale des idées de liberté.
 - La qualification de Paoli comme figure européenne des Lumières politiques.
