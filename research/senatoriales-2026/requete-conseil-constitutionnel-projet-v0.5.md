@@ -497,6 +497,10 @@ Le présent bordereau est synchronisé avec l'inventaire probatoire détaillé. 
 | **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 |
 | **P-35** | 02/10 13:33:55 | Relance consolidée P1–P18 à la préfecture | Demandes de traçabilité, provenance numérique, chaîne de décision, conservation et routage ; réponses PENDING |
 | **P-36** | 02/10 | Note forensic sur la provenance numérique de P-14 | Analyse dérivée des bundles TA ; provenance native encore ouverte |
+| **P-37** | 01/10 10:11:07 | Adresse du rendez-vous de consultation | Lieu matériel : 15 avenue Jean Zuccarelli, Bastia |
+| **P-38** | 01/10 12:30:20 | Réponse sur l'adresse / déplacement | Contexte logistique du rendez-vous |
+| **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Consultation tenue, quatre dossiers, formulaire signé, pièces photographiées ; séparation documenté/rapporté |
+| **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; portée bornée, sans identification d'électeur ni motif de nullité autonome |
 
 ### Sous-inventaire de P-14 — bundle initial de la saisine préfectorale
 
