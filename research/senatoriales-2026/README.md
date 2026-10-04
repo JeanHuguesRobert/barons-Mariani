@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales 2026 — dossier canonique"
 description: "Point d'entrée du Corpus relatif à la candidature sénatoriale de Haute-Corse de septembre 2026, à son contentieux et à l'enquête documentaire qui en résulte."
-date: "2026-09-30"
+date: "2026-10-04"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
