@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -119,6 +119,47 @@ Le choix final doit reposer sur des personnes dont la qualité statutaire est su
 L’article 1er fixe seulement le siège à « Corte, Corse ». Le passage matériel de Minesteggio au 1 cours Paoli n’exige donc pas nécessairement, pour ce seul changement de rue dans la même commune, une réécriture de cet article.
 
 En revanche, l’adresse administrative enregistrée doit être mise à jour par la démarche applicable. Cette formalité est distincte de la modification statutaire elle-même.
+
+
+
+## 5 bis. Formalités post-vote — chaîne d'effectivité
+
+Les sources administratives officielles consultées le 5 octobre 2026 confirment que, pour une association loi 1901 :
+
+- les modifications statutaires doivent être déclarées au greffe dans les **3 mois** ;
+- le dossier de modification comprend notamment la délibération et les statuts mis à jour, signés par au moins **deux dirigeants** ;
+- un récépissé est délivré et doit être conservé ;
+- les changements de dirigeants doivent également être déclarés dans les **3 mois**, avec une liste définitive et à jour de l'équipe dirigeante ;
+- si une association est inscrite au répertoire Sirene, une modification du nom, de l'objet ou de l'adresse du siège doit aussi être répercutée vers le référentiel compétent.
+
+Sources :
+- `https://associations.gouv.fr/modification-des-statuts`
+- `https://associations.gouv.fr/changement-de-dirigeants`
+- `https://associations.gouv.fr/declarer-un-changement-de-situation`
+
+Pour C.O.R.S.I.C.A., la chaîne cible devient :
+
+~~~text
+délibération conforme aux statuts applicables
+→ ADOPTED
+
+PV signé + statuts consolidés signés
+→ DOCUMENTED
+
+déclaration au greffe
+→ SUBMITTED
+
+récépissé
+→ DECLARED
+
+mise à jour des référentiels publics pertinents
+→ ADMINISTRATIVELY OBSERVED
+
+fonctionnement réel conforme au nouveau texte
+→ EFFECTIVE / à mesurer
+~~~
+
+Le changement d'adresse mérite une distinction fine : les statuts 1995 ne mentionnent que « Corte, Corse ». Un déplacement matériel du siège à l'intérieur de Corte peut donc ne pas modifier littéralement cet article, mais **l'adresse administrative du siège doit dans tous les cas être actualisée dans les référentiels applicables**. Ne pas confondre modification textuelle des statuts et déclaration d'un changement de situation.
 
 ## 6. Prochaine action
 
