@@ -31,6 +31,7 @@ related_documents:
   - "projects/diaspora/architecture.md"
   - "musee-mariani/doctrine_musee_mariani_des_possibles.md"
   - "research/review_protocol.md"
+  - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/living_book_factory.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/derived_products.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trace_treatment_packet.md"
