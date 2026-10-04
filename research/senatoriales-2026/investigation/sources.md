@@ -496,3 +496,28 @@ Le message indique que le rendez-vous de 14 h a lieu au 15 Avenue Jean Zuccarell
 - envoi : **1er octobre 2026 à 12:30:20 CEST**
 
 La réponse remercie, situe l'avenue par rapport à un souvenir familial et à des terrains dont la famille a été expropriée, puis annonce un train arrivant en principe à 15 h à Bastia et un retard. Elle n'établit pas l'heure d'arrivée effective. Elle ne dresse aucun inventaire des pièces de la consultation.
+
+## 20. Constat de consultation du 1er octobre 2026 — RP-SEN-08-C
+
+Document de synthèse probatoire :
+
+- `research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md`
+- événement : **1er octobre 2026**
+- stabilisation dans le Corpus : **4 octobre 2026**
+- lieu matériel : **15 avenue Jean Zuccarelli, Bastia**
+- réception : **Adrien Vidal**, accompagné d'une agente dont l'identité reste `UNKNOWN`
+- quatre dossiers de section mis à disposition
+- formulaire de consultation rempli, signé et photographié
+- bulletin « BARON MARIANI », enveloppe et pages de dépouillement photographiés
+- propos sur la messagerie conservés comme **reported oral statement**, sans les promouvoir en reconnaissance institutionnelle écrite
+
+Source photographique dédiée au bulletin et à l'enveloppe :
+
+- `research/senatoriales-2026/investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md`
+
+Snapshot de la journée :
+
+- `research/senatoriales-2026/investigation/snapshots/chronologie-1-octobre-etat-2026-10-04.md`
+
+Discipline : le constat distingue ce qui a été documenté, photographié, rapporté oralement et ce qui reste inconnu.
+
