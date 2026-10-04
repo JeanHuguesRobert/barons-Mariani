@@ -1,0 +1,21 @@
+schema: commons.projection.v0
+id: n1-working
+status: working
+frozen: false
+language: fr
+updated: "2026-10-04"
+title: "Commons n°1 — Les biens communs, du passé au futur"
+subtitle: "Des communaux au cloud"
+question: "Qu'est-ce qui peut être possédé, gouverné, entretenu ou transmis en commun sans être capturé ni détruit ?"
+closing_question: "Qu'allons-nous décider de mettre en commun au XXIe siècle ?"
+corpus_texts:
+  movement_1: projects/commons/manuscript/n1/01-heritages.md
+  movement_2: projects/commons/manuscript/n1/02-captures-et-enclosures.md
+  movement_3: projects/commons/manuscript/n1/03-renaissances.md
+  movement_4: projects/commons/manuscript/n1/04-futurs-possibles.md
+outline: projects/commons/manuscript/n1/README.md
+cases: projects/commons/cases/
+chronology: projects/commons/chronology/README.md
+sources: projects/commons/sources/README.md
+public_page: projects/commons/site/n1.html
+rule: "This projection is not a frozen edition. If the public site pages and the manuscript diverge, the manuscript is the canonical corpus source."

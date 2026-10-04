@@ -83,61 +83,29 @@ capture
 transmission
 ```
 
-## Quatre mouvements
+## Quatre mouvements rédigés
 
-### I — Héritages
+1. [**Mouvement I — Héritages**](01-heritages.md) : Les communaux, la coutume et l'art de gouverner le partagé (sources : Carta de Foresta 1217, Thompson, Bloch, Vivier, Huertas de Valence).
+2. [**Mouvement II — Captures et destructions**](02-captures-et-enclosures.md) : Enclosures, expropriation légale et déconstruction de la fable de la tragédie d'Hardin (Polanyi, Boyle, Ciriacy-Wantrup).
+3. [**Mouvement III — Renaissances**](03-renaissances.md) : La rupture Ostrom, le logiciel libre, le copyleft comme contre-enclosure juridique et l'explosion de Wikipédia (Stallman, Benkler, Hess & Ostrom).
+4. [**Mouvement IV — Futurs possibles**](04-futurs-possibles.md) : Énergie distribuée (FractaVolta), souveraineté des données, compute/modèles d'IA, Cogentia Commons et l'épreuve de l'Ouvert-Possible.
 
-- communaux ;
-- droits d'usage ;
-- ressources villageoises ;
-- communautés locales ;
-- diversité historique des régimes.
+## Chapitres et sections du numéro
 
-### II — Captures et destructions
-
-- enclosures ;
-- privatisation ;
-- centralisation ;
-- surexploitation ;
-- disparition des règles locales ;
-- perte de capacité de la communauté.
-
-### III — Renaissances
-
-- Ostrom ;
-- logiciel libre ;
-- Creative Commons ;
-- Wikipédia ;
-- open data / open science ;
-- coopératives et nouvelles formes de gouvernance partagée.
-
-### IV — Futurs possibles
-
-- énergie distribuée ;
-- données en commun ;
-- infrastructures numériques ;
-- compute partagé ;
-- modèles ouverts ;
-- communs cognitifs ;
-- mémoire collective ;
-- agents IA au service de communautés gouvernables.
-
-## Chapitres candidats
-
-1. **Avant le mot "commons"**
-2. **Ce qu'un commun est — et n'est pas**
-3. **Les communaux**
-4. **Enclosures : fermer le commun**
-5. **La tragédie n'est pas une loi**
-6. **Ostrom : gouverner sans simplifier**
-7. **Le logiciel libre : un commun reproductible**
-8. **Connaissance, science, Wikipédia**
-9. **Énergie : remettre l'infrastructure en partage**
-10. **Données : commun ou souveraineté individuelle ?**
-11. **Compute et IA : le prochain terrain**
-12. **Cogentia Commons : un commun cognitif expérimental**
-13. **Les dangers du commun lui-même**
-14. **Qu'allons-nous décider de mettre en commun au XXIe siècle ?**
+1. **Avant le mot "commons"** (Mouvement I, §1)
+2. **Ce qu'un commun est — et n'est pas** (Mouvement I, §2)
+3. **Les communaux et les droits d'usage** (Mouvement I, §2-3)
+4. **Enclosures : fermer le commun par la loi** (Mouvement II, §1)
+5. **La tragédie n'est pas une fatalité : réfutation d'Hardin** (Mouvement II, §2)
+6. **Ostrom : les huit principes d'une gouvernance polycentrique** (Mouvement III, §1)
+7. **Le logiciel libre et le copyleft : la contre-enclosure institutionnelle** (Mouvement III, §2)
+8. **Connaissance, science ouverte et production entre pairs** (Mouvement III, §3)
+9. **Énergie : le rayonnement solaire comme commun territorial distribué** (Mouvement IV, §2)
+10. **Données personnelles : le piège du faux commun et l'impératif de souveraineté** (Mouvement IV, §3)
+11. **Compute et modèles d'IA : empêcher le péage cognitif** (Mouvement IV, §4)
+12. **Cogentia Commons : un commun cognitif d'exploration possibiliste** (Mouvement IV, §5)
+13. **L'épreuve de l'Ouvert-Possible : les cinq questions critiques** (Mouvement IV, §6)
+14. **Question de clôture : Qu'allons-nous décider de mettre en commun au XXIe siècle ?** (Mouvement IV, §7)
 
 ## Tension centrale
 

@@ -1,0 +1,89 @@
+schema: commons.corpus.v0
+project: "Commons"
+slug: commons
+status: working
+language: fr
+visibility: public
+updated: "2026-10-04"
+source_of_truth: "repository files under projects/commons, GitHub issue 108, and the referenced historical and doctrinal sources; this manifest points at them and does not replace them"
+issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/108"
+target_identity: "https://commons.acorsica.org"
+target_identity_status: "prepared name only; workstation DNS check on 2026-10-04 did not resolve commons.acorsica.org; not a deployment and not a frozen edition"
+institutional_frame: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+editorial_lineage: "Living Book / commons research"
+implementation_class: "living publication + historical/prospective knowledge surface"
+
+architecture:
+  implementation: projects/commons/architecture.md
+  editorial: projects/commons/editorial-architecture.md
+  project_index: projects/commons/README.md
+  manuscript_n1: projects/commons/manuscript/n1/
+  cases: projects/commons/cases/
+  chronology: projects/commons/chronology/
+  sources: projects/commons/sources/README.md
+  annexes: projects/commons/annexes/README.md
+  magazine: projects/commons/magazine/README.md
+  editions: projects/commons/editions/index.md
+  journals: projects/commons/journals/
+  projections: projects/commons/projections/n1-working.yml
+  site: projects/commons/site/
+  rule: "The living corpus, the public reading projection, and a future frozen edition are distinct. Commons is not another name for Cogentia Commons. Cogentia Commons is one candidate modern case inside a much broader Living Book."
+
+realities:
+  - id: distinction-cogentia-commons
+    status: verified
+    statement: "Commons is a broad Living Book exploring the history, present, and possible futures of commons across all substrates (communaux, water, forests, open source, knowledge, data, energy, compute, cognition). Cogentia Commons is a specific candidate modern case — a cognitive commons / epistemic exploration platform under scientific constraint."
+  - id: double-temporality
+    status: active
+    statement: "A Janus-faced double temporality is strictly maintained: historical claims require established empirical sources and primary/secondary documentation; prospective claims are explicitly marked as scenarios, hypotheses, and Reality Tests."
+  - id: rivalry-and-goods-distinction
+    status: active
+    statement: "No silent equivalence between historical common-pool resources (rival, depletable, natural) and digital commons (non-rival, cumulative, artificially excludable). Substrate shifts change the governance equations."
+  - id: public-host
+    status: absent
+    statement: "On 2026-10-04 the name commons.acorsica.org did not resolve from this workstation. No DNS or server change was made."
+  - id: sovereignty-boundary
+    status: active
+    statement: "Not everything that can be shared should be pooled. Personal sovereignty, private spheres, dissent, and exit rights must be preserved against institutional over-communalization."
+
+sources:
+  - id: issue-108
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/108"
+    role: continuation-packet
+    required: true
+  - id: ostrom-1990
+    path: "Ostrom, Elinor. Governing the Commons: The Evolution of Institutions for Collective Action. Cambridge University Press, 1990."
+    role: theoretical-foundation
+    required: true
+  - id: hess-ostrom-2007
+    path: "Hess, Charlotte & Ostrom, Elinor. Understanding Knowledge as a Commons: From Theory to Practice. MIT Press, 2007."
+    role: knowledge-commons-foundation
+    required: true
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true
+  - id: cogentia-commons-paper
+    path: "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/Cogentia_Commons_Working_Paper.md"
+    role: candidate-case-source
+    required: true
+  - id: hardin-1968
+    path: "Hardin, Garrett. 'The Tragedy of the Commons'. Science, 162(3859), 1968."
+    role: historical-counter-thesis
+    required: true
+  - id: thompson-1991
+    path: "Thompson, E.P. Customs in Common. Merlin Press, 1991."
+    role: enclosure-historical-source
+    required: true
+  - id: marenostrum-energy
+    path: "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md"
+    role: energy-commons-source
+    required: true
+  - id: transition-markets
+    path: research/transition_markets.md
+    role: institutional-third-way-source
+    required: true
+  - id: republic-of-donkeys
+    path: research/the_republic_of_donkeys.md
+    role: territorial-commons-micro-experiment
+    required: true

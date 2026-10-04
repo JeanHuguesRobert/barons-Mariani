@@ -1,0 +1,21 @@
+# Commons — Livre Vivant des biens communs
+
+Projection de travail d'un Livre Vivant (Phase 1). Pas une édition gelée.
+
+- Question fondatrice : Qu'est-ce qui peut être possédé, gouverné, entretenu ou transmis en commun sans être capturé ni détruit ?
+- Question de clôture : Qu'allons-nous décider de mettre en commun au XXIe siècle ?
+- Dépôt de cette projection : https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/commons
+- Issue de continuation : https://github.com/JeanHuguesRobert/barons-Mariani/issues/108
+- Distinction majeure : Commons est le grand Livre Vivant généraliste. Cogentia Commons est un cas contemporain précis (commun cognitif d'exploration possibiliste), et non un synonyme de Commons.
+- Double orientation : Passé (histoire documentée par sources primaires/secondaires) vs Futur (conjectures et hypothèses prospectives révisables).
+- Lecture du numéro 1 : n1.html
+- Études de cas (modèle à 14 descripteurs) : cases.html
+- Frise chronologique (1217-2026) : chronologie.html
+- Sources et cartographie d'amitié : sources.html
+- Glossaire conceptuel : glossaire.html
+- Corrections et contributions : contribuer.html
+- Mentions légales : mentions.html
+- Nom préparé : https://commons.acorsica.org — non résolu le 2026-10-04, non déployé par cette tranche.
+- Licence : CC BY-SA 4.0
+- Langue publique : fr
+- Langue d'implémentation/code : en
