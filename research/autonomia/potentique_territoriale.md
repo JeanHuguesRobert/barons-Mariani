@@ -341,6 +341,28 @@ Premières questions ouvertes :
 12. Quels comparateurs territoriaux permettent de tester des contrefactuels suffisamment bornés ?
 13. Dans quels cas une perte potentique peut-elle être rouverte, compensée ou transformée par une Machine à Explorer ?
 
+## 9 bis. Cas candidat — capacité produite ici, actualisée ailleurs
+
+Le chantier [Meurgey 1933 → 2026 — exil, impinzutimentu, diaspora et réancrage](../../projects/rise-and-fall/investigation/notes/2026-10-04-meurgey-diaspora-impinzutimentu.md) fournit un cas empirique candidat pour tester une dissociation importante :
+
+```text
+capacité produite dans un territoire
+≠
+capacité aisément actualisable dans ce territoire
+```
+
+Pour un sujet `s`, un possible `p` et un instant `t`, il peut exister des situations où :
+
+```text
+φ(p | s, hors Corse, t) > φ(p | s, Corse, t)
+```
+
+Cette écriture n'explique pas la cause de l'écart. Elle ouvre une enquête sur les facteurs de conversion : formation disponible, marché du travail, institutions, réseaux, infrastructures, capital, taille du marché, choix familiaux, contingences ou autres mécanismes.
+
+Le départ ne doit donc pas être classé automatiquement comme perte potentique. Il peut être une augmentation nette de capacité pour la personne. Une **perte territoriale candidate** ne peut être discutée qu'en observant ensuite ce qui arrive aux capacités, réseaux, patrimoines et possibilités de retour ou de contribution à distance.
+
+La généalogie des alliances Mariani fournit une petite échelle très documentée ; elle ne doit être généralisée à la Corse qu'après comparaison avec des données indépendantes.
+
 ## 10. Principe de prudence épistémique
 
 La Potentique territoriale ne doit pas partir à la recherche de preuves qu'un territoire « empêche » ou « permet ».
