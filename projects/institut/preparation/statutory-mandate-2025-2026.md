@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -33,7 +33,7 @@ review:
 
 Le scan signé des statuts originaires a été transcrit dans :
 
-- `projects/institut/preparation/statuts-1995-transcription.md`.
+- `projects/institut/sources/statuts-corsica-1995-transcription.md`.
 
 La chaîne documentaire complète est analysée dans :
 
