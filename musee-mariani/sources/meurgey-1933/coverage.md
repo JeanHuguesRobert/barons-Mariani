@@ -29,3 +29,19 @@ github_issue: 97
 ## Règle de reprise
 
 Reprendre au premier élément qui n'a pas atteint `visually-reviewed`, sans sauter une page papier identifiée.
+
+
+## Tableaux généalogiques retrouvés dans le Google Doc DRAC
+
+Source : Google Doc `Pièces Mariani DRAC`, créé le 30 avril 2025 et transmis le même jour à Éléonore Bozzi (DRAC Corse). Le document contient 80 images intégrées ; son export PDF courant compte 50 pages.
+
+| Tableau / arbre | Localisation dans l'export PDF du Google Doc | État | Notes |
+|---|---|---|---|
+| **Tableau I — Les Mariani** | PDF p. 48–49 | identified | grand tableau plié photographié en deux vues ; annotations manuscrites visibles ; à reconstruire séparément de la transcription courante |
+| **Arrighi de Casanova — Barons de l'Empire, Ducs de Padoue** | PDF p. 50 | identified | arbre plié photographié ; annotations manuscrites visibles |
+| autres tableaux annoncés dans l'ouvrage | non localisés à ce stade | unseen / to-locate | poursuivre l'inventaire des 80 images et, si nécessaire, de l'album Google Photos transmis à la DRAC |
+
+### Règle
+
+Les numéros 48–50 ci-dessus sont des **pages techniques de l'export PDF du Google Doc**, pas des pages papier de Meurgey. La référence canonique reste le tableau imprimé et sa désignation dans l'ouvrage.
+
