@@ -1,0 +1,22 @@
+# PrivAI
+
+Projection de travail d'un Livre Vivant. Pas une édition gelée. Pas une certification. Pas une fondation constatée.
+
+- Question du Livre : Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?
+- Question déjà publiée par l'initiative : Qui peut agir, au nom de qui, dans quelles limites, et avec quelles preuves ?
+- Initiative : https://github.com/acorsica/privai (commit f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55)
+- Dépôt de cette projection : https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/privai
+- Issue : https://github.com/JeanHuguesRobert/barons-Mariani/issues/107
+- Lecture : n1.html
+- Sources : sources.html
+- Glossaire : glossaire.html
+- Corrections : contribuer.html
+- Guide : non branché (guide.html). Ne pas inventer de profil.
+- Mentions : mentions.html
+- Nom préparé : https://privai.acorsica.org — non résolu le 2026-10-04, non déployé par cette tranche.
+- Licence : CC BY-SA 4.0
+- Langue publique : fr
+
+Quatre niveaux à garder distincts : IA dangereuse en soi ; usage dangereux ; asymétrie institutionnelle amplifiée ; perte de souveraineté humaine.
+
+Les liens documentaires ne valent pas portage juridique. Cogentia est une implémentation candidate et ne s'auto-certifie pas.

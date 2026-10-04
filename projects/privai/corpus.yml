@@ -1,0 +1,90 @@
+schema: privai.corpus.v0
+project: "PrivAI"
+slug: privai
+status: working
+language: fr
+visibility: public
+updated: "2026-10-04"
+source_of_truth: "repository files under projects/privai, GitHub issue 107, and the referenced sources; this manifest points at them and does not replace them"
+issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/107"
+target_identity: "https://privai.acorsica.org"
+target_identity_status: "prepared name only; workstation DNS check on 2026-10-04 did not resolve privai.acorsica.org; not a deployment and not a frozen edition"
+initiative_repository: "https://github.com/acorsica/privai"
+initiative_repository_checkpoint: "f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55"
+
+architecture:
+  implementation: projects/privai/architecture.md
+  editorial: projects/privai/editorial-architecture.md
+  institutional_note: projects/privai/institutional-status.md
+  project_index: projects/privai/README.md
+  editions: projects/privai/editions/index.md
+  sources: projects/privai/sources/README.md
+  manuscript_n1: projects/privai/manuscript/n1/00-qui-restera-souverain.md
+  site: projects/privai/site/
+  projection: projects/privai/projections/n1-working.yml
+  rule: "The living corpus, the public reading projection, and a future frozen edition are distinct. The October 2026 Living Book does not replace acorsica/privai."
+
+realities:
+  - id: name-collision
+    status: open
+    statement: "The name PrivAI already names an initiative and a privacy protocol. The Living Book is a later editorial projection of that lineage, not a new organization and not a certification."
+  - id: legal-carriage
+    status: open
+    statement: "acorsica/privai at f7fe0c0 says documentary links are not legal carriage. The 2026-10-04 working note proposes transitional legal carriage of a future PrivAI Foundation by C.O.R.S.I.C.A. Statutes were not read. Public pages use the narrower published wording."
+  - id: public-host
+    status: absent
+    statement: "On 2026-10-04 the name privai.acorsica.org did not resolve from this workstation. No DNS or server change was made."
+  - id: guide-profile
+    status: absent
+    statement: "Rise & Fall already calls the shared public guide with a profile. No privai profile was registered in this slice."
+  - id: certification
+    status: absent
+    statement: "No PrivAI certification is claimed. Cogentia is a candidate implementation and does not self-certify, per acorsica/privai."
+
+sources:
+  - id: issue-107
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/107"
+    role: continuation-packet
+    required: true
+  - id: acorsica-privai
+    path: "https://github.com/acorsica/privai"
+    role: initiative-source
+    required: true
+    note: "Checkpoint f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55 (2026-09-20). Charter, KYS profiles, contracts, conformance prefigurations. Not copied into this tree."
+  - id: democratic-ai-safety
+    path: research/democratic_ai_safety.md
+    role: thesis-kernel
+    required: true
+  - id: pathologie-du-secret
+    path: research/pathologie_du_secret.md
+    role: imputability-source
+    required: true
+  - id: traceabilite-des-actes
+    path: research/traceabilite_des_actes.md
+    role: trace-source
+    required: true
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true
+  - id: autonomie-de-capacite
+    path: research/autonomia/grammaire_autonomie_de_capacite.md
+    role: method-source
+    required: true
+    note: "A generative grammar for capable political measures. Its application to AI in n°1 is an editorial projection, not a result already proved by that file."
+  - id: separation-barons
+    path: research/acorsica-institut-mariani.md
+    role: institutional-distinction
+    required: true
+  - id: separation-cogentia
+    path: "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md"
+    role: institutional-distinction
+    required: true
+  - id: kys-disclosure
+    path: "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/kys_profile_privacy_and_public_specialized_profiles.md"
+    role: disclosure-rule
+    required: false
+  - id: dhitl
+    path: "https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md"
+    role: infrastructure-axiom
+    required: true

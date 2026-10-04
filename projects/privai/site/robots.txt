@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Prepared canonical name. The name did not resolve on 2026-10-04.
+Sitemap: https://privai.acorsica.org/sitemap.xml

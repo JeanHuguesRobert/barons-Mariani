@@ -48,6 +48,8 @@ changelog:
 
 **AI Safety, personnes morales augmentées et contre-pouvoir cognitif humain**
 
+La projection de lecture, reliée aux sources et distincte de ce plan, est [`00-qui-restera-souverain.md`](00-qui-restera-souverain.md).
+
 ## Question
 
 > **Qui restera souverain à l'âge des personnes morales augmentées par l'IA ?**

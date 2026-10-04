@@ -43,6 +43,7 @@ related_documents:
 - research/pathologie_du_secret.md
 changelog:
 - v0.1 (2026-10-04) — initial candidate drafted from the existing Corpus and current conversation; published to the canonical repository on 2026-10-04.
+- v0.1.1 (2026-10-04) — institutional sentence narrowed to the wording already published by acorsica/privai; broken plan link replaced. The Foundation carriage sentence stays a candidate in institutional-status.md.
 ---
 
 # PrivAI
@@ -86,11 +87,11 @@ PrivAI couvre notamment :
 
 ## Statut institutionnel
 
-La **PrivAI Foundation** est, à ce stade, une fondation en devenir et ne dispose pas encore de personnalité juridique propre.
+Formulation étroite, alignée sur [acorsica/privai](https://github.com/acorsica/privai) au commit `f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55` :
 
-Jusqu'à changement de ce statut, l'initiative **PrivAI Foundation est portée juridiquement par l'association C.O.R.S.I.C.A.**
+PrivAI est une initiative en développement dans le périmètre de l'Institut Mariani et de l'association C.O.R.S.I.C.A. Les liens documentaires ne valent ni fusion, ni transfert de données, ni portage juridique, ni financement, ni endorsement politique. Aucune certification n'est délivrée ici.
 
-Cette relation de portage ne signifie pas que tous les objets du Corpus, ni tous les travaux de Cogentia ou de l'Institut Mariani, deviennent des actifs ou engagements de PrivAI.
+Une note de travail du même jour, `institutional-status.md`, propose en plus une future PrivAI Foundation sans personnalité juridique propre, qui serait portée par C.O.R.S.I.C.A. Les statuts n'ont pas été relus. Cette phrase reste candidate. Elle ne décrit pas l'état publié par le dépôt de l'initiative.
 
 ## Architecture de Livre Vivant
 
@@ -130,4 +131,4 @@ Sous-titre possible :
 
 > **AI Safety, personnes morales augmentées et contre-pouvoir cognitif humain**
 
-Le plan de travail est décrit dans `PRIVAI_NUMERO_1.md`.
+Le plan de travail est `manuscript/n1/README.md`. La projection de lecture est `manuscript/n1/00-qui-restera-souverain.md`.

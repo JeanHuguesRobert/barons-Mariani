@@ -37,24 +37,33 @@ related_documents:
 - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md
 changelog:
 - v0.1 (2026-10-04) — initial candidate drafted from the existing Corpus and current conversation; published to the canonical repository on 2026-10-04.
+- v0.1.1 (2026-10-04) — reread against acorsica/privai f7fe0c0 and the two separation notes. Public projection keeps the narrower no-carriage wording. Foundation sentence stays a candidate.
 ---
 
 # Correction institutionnelle candidate — PrivAI / C.O.R.S.I.C.A.
 
 ## Contradiction actuelle à corriger
 
-La note existante `research/acorsica-institut-mariani.md` indique actuellement que les liens avec PrivAI ne valent notamment pas « portage juridique ».
+La note `research/acorsica-institut-mariani.md` dit que les liens documentaires, PrivAI compris, ne valent pas « portage juridique automatique ». Le portage transitoire nommé dans cette même note concerne la préfiguration du fonds de dotation Barons Mariani, pas une PrivAI Foundation.
 
-Cette formulation est désormais trop générale pour PrivAI.
+La note homonyme de Cogentia dit « ni portage juridique », sans le mot « automatique ».
 
-## État déclaré au 4 octobre 2026
+Le dépôt [acorsica/privai](https://github.com/acorsica/privai), commit `f7fe0c03e718bef1deb6c6f8beb2b3af84e39e55` (2026-09-20), est plus direct encore : les liens ne valent pas portage juridique. Il situe le travail dans le périmètre de C.O.R.S.I.C.A. et de l'Institut Mariani. Il ne constate pas une Foundation.
+
+La première rédaction de ce fichier résumait trop vite la note locale par « ne valent notamment pas portage juridique ». La phrase réelle est plus étroite, et elle ne vise pas le même objet que la candidate ci-dessous.
+
+## Formulation proposée le 4 octobre 2026, non retenue comme fait
 
 - la forme canonique est **PrivAI** ;
 - la **PrivAI Foundation** est un projet de future entité dotée de sa propre personnalité juridique ;
 - cette personnalité juridique propre n'est pas encore acquise ;
-- dans l'intervalle, **l'initiative PrivAI Foundation est portée juridiquement par l'association C.O.R.S.I.C.A.**
+- une phrase candidate ajoute que, dans l'intervalle, l'initiative serait portée juridiquement par l'association C.O.R.S.I.C.A.
+
+Cette dernière phrase contredit les sources déjà publiées tant que les statuts ne l'établissent pas. Elle n'est pas l'état public de la projection.
 
 ## Formulation candidate
+
+Bloc conservé comme proposition non adoptée. La projection du 4 octobre 2026 ne l'applique pas.
 
 Remplacer la négation générale du portage juridique par une formulation distinguant les cas :
 
@@ -64,9 +73,13 @@ Remplacer la négation générale du portage juridique par une formulation disti
 >
 > Ce portage transitoire ne transforme pas Cogentia, l'Institut Mariani ni l'ensemble du Corpus en composantes juridiques de PrivAI.
 
+## Lecture retenue le 4 octobre 2026
+
+La projection publique utilise la phrase déjà publiée par `acorsica/privai` : périmètre de développement, pas portage juridique. La candidate de Foundation n'est pas promue au rang de fait. Les notes de juin et le dépôt de septembre ne sont pas réécrits. Les statuts de C.O.R.S.I.C.A. n'ont pas été ouverts.
+
 ## Vérifications avant stabilisation
 
-- confirmer le vocabulaire exact : « portée juridiquement », « hébergée » ou les deux ;
+- confirmer le vocabulaire exact : « portée juridiquement », « hébergée », ou seulement « périmètre » ;
 - vérifier les statuts de C.O.R.S.I.C.A. si une portée juridique plus précise est affirmée ;
-- rechercher les autres documents reprenant la phrase « ni portage juridique » ;
-- rechercher les occurrences résiduelles de `PrivaAI` et les corriger si elles désignent bien PrivAI.
+- relire `acorsica/institut-mariani` avant de dire ce qu'est l'émanation de recherche ;
+- aucune occurrence résiduelle de `PrivaAI` n'a été trouvée dans ce dépôt le 4 octobre 2026, hors la présente consigne de recherche.
