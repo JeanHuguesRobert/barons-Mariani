@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "source-transcription — under-review"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -37,6 +37,16 @@ review:
   status: "unreviewed"
   reviewed_by: []
 ---
+
+## 0 bis. Consolidation de la transcription
+
+Une seconde copie du même document, transmise au greffe des associations en mai 2024 comme les statuts déposés à la sous-préfecture de Corte le 26 décembre 1995, a été rendue et vérifiée indépendamment.
+
+La transcription de référence consolidée est désormais :
+
+- `projects/institut/sources/statuts-corsica-1995-transcription.md`.
+
+Les deux PDF ont des empreintes binaires différentes en raison de leur chaîne de numérisation / conservation, mais leurs six pages présentent le même contenu documentaire. Le présent fichier est conservé comme transcription de travail antérieure et comme contrôle indépendant.
 
 # C.O.R.S.I.C.A. — statuts originaires 1995
 
