@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — legal/documentary analysis"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -134,6 +134,53 @@ Le PV rétrospectif de l’AG du 28 juin 2025 indique que l’Assemblée :
 - mandate le Président pour préparer et soumettre cette modification.
 
 À défaut de preuve inverse, cela renforce l’hypothèse que la version historique demeurait la référence institutionnelle.
+
+## 6 bis. La trace 2020 : usage d’un bureau à trois membres, mais PV rétrospectif
+
+Un document intitulé « PV AG ASSO CORSICA - Membres du bureau.docx » a été retrouvé dans les pièces bancaires transmises en 2022–2023.
+
+Il décrit une assemblée générale du **15 octobre 2020** qui aurait désigné :
+
+- Jean Hugues Noël Robert, président ;
+- Lancelot Daniel Léon Reybel, trésorier ;
+- Marguerite Ghionga, secrétaire ;
+
+et indique le siège au **1 cours Paoli, 20250 Corte**.
+
+Cette trace est importante parce qu’elle montre un fonctionnement de fait compatible avec une gouvernance à trois personnes et avec le siège au cours Paoli.
+
+Mais sa provenance impose de la prudence : les métadonnées internes du fichier DOCX indiquent une création le **18 août 2022** et une dernière modification le **26 août 2022**. Aucun événement Agenda ni email contemporain du 15 octobre 2020 établissant cette AG n’a été retrouvé lors du premier passage.
+
+Qualification :
+
+~~~text
+AG du 15/10/2020
+→ RECONSTRUCTED
+
+PV numérique contemporain
+→ NOT FOUND
+
+document de formalisation
+→ créé en août 2022
+
+usage d’un bureau Président / Trésorier / Secrétaire
+→ RECONSTRUCTED / OPERATIONAL TRACE
+
+preuve d’une modification statutaire préalable
+→ NOT FOUND
+~~~
+
+Cette trace affaiblit l’idée d’une continuité pratique parfaite du texte 1995, mais **ne suffit pas à établir juridiquement l’adoption du projet 2018**.
+
+Elle rend au contraire plus importante la distinction entre :
+
+~~~text
+statuts formellement déposés
+≠ gouvernance effectivement pratiquée
+≠ documents rétrospectifs produits pour des tiers
+~~~
+
+Le futur Livre Institut devra préserver ces trois niveaux sans les fusionner.
 
 ## 7. Juin 2026 : la refonte est encore en cours
 
