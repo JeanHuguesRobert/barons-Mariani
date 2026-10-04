@@ -7,8 +7,8 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
-last_modified_at: '2026-09-12'
-version: '0.3'
+last_modified_at: '2026-10-04'
+version: '0.4'
 status: working paper — public research roadmap
 language: fr
 license: CC BY-SA 4.0
@@ -71,6 +71,39 @@ Chaque notice doit distinguer strictement :
 - degré de maintien, d’éloignement ou de réactivation du lien corse lorsque cela est documentable.
 
 La notice n’est donc pas seulement une fiche d’identité. Elle doit permettre de reconstruire un **parcours relationnel et territorial**.
+
+## 1 bis. Dimension territoriale et transitions d'ancrage
+
+Pour les branches étudiées dans le chantier [Meurgey 1933 → 2026](../../projects/rise-and-fall/investigation/notes/2026-10-04-meurgey-diaspora-impinzutimentu.md), les notices doivent permettre de suivre des **transitions territoriales** plutôt que de coller une étiquette définitive à une personne.
+
+Champs candidats, à remplir seulement lorsque les sources le permettent :
+
+```yaml
+birth_place:
+education_places:
+career_places:
+residence_periods:
+departure_from_corsica:
+return_to_corsica:
+corsican_links:
+patrimony_in_corsica:
+patrimony_changes:
+territorial_state:
+territorial_state_period:
+territorial_evidence:
+```
+
+États de travail :
+
+- **demeuré** : centre de vie documenté en Corse ;
+- **parti mais relié** : centre de vie extérieur avec liens corses substantiels documentés ;
+- **désancré** : lien matériel ou territorial devenu faible ou principalement mémoriel ;
+- **revenu / réancré** : retour ou reconstruction d'un ancrage effectif ;
+- **inconnu** : documentation insuffisante.
+
+Ces catégories sont analytiques et révisables. Elles ne constituent ni un jugement de valeur ni une identité culturelle. Le terme `impinzutimentu`, utilisé dans le chantier transversal comme étiquette heuristique, doit rester séparé de ces champs factuels tant que son emploi précis et son histoire lexicale ne sont pas stabilisés.
+
+Pour une personne vivante, ne publier aucune adresse privée ni localisation fine obtenue par recoupement indirect. La localisation publique doit rester au niveau minimal nécessaire à la question de recherche.
 
 ## 2. Premier cas pilote : Albert Mariani et la génération Hyacinthe
 
