@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -235,13 +235,99 @@ Les traces permettent au minimum de documenter quatre capacités travaillées fi
 
 Cette classification reste une projection analytique : les commits sont établis ; leur regroupement en capacités est RECONSTRUCTED.
 
+## 7. Traces institutionnelles directes retrouvées dans Gmail / Agenda
+
+La couche privée de reconstruction apporte désormais des traces qui attribuent explicitement certaines activités à C.O.R.S.I.C.A. ou au canal Institut. Les détails personnels, coordonnées et pièces privées ne sont pas reproduits ici.
+
+| Date | Trace reconstruite | Qualification | Statut épistémique | Statut institutionnel |
+|---|---|---|---|---|
+| 2025-06-28 | événement Agenda « AG C.O.R.S.I.C.A. », 15h–16h à Corte, également notifié par email la veille | AG programmée | ESTABLISHED | occurrence / décisions à vérifier |
+| juin–juil. 2025 | contrat d’assurance multirisque de l’association et avenant à signer ; tentative de signature du Président | administration associative | ESTABLISHED | EFFECTIVE pour l’existence du contrat ; avenant à qualifier |
+| 2025-07-02 | démarche auprès de l’aviation civile pour un projet expérimental de démonstration VTOL à Corte, explicitement portée comme Président de C.O.R.S.I.C.A. | mobilité verte / innovation | ESTABLISHED | démarche externe effectuée |
+| 2025-09-18 | courrier à EDF SEI Corse au nom de C.O.R.S.I.C.A. sur un projet d’autoconsommation collective photovoltaïque pilotée de 1 MWc à Corte, avec future SCIC « Vin Solaire Mariani » | énergie / autoconsommation / flexibilité | ESTABLISHED | démarche externe effectuée ; projet non réalisé à ce stade |
+| 2025-10-13 | confirmation de dépôt à une Call for Ideas META-DEST reçue sur le canal Institut Mariani | candidature / innovation territoriale | ESTABLISHED pour le dépôt | contenu et portage exact à vérifier |
+| 2025-10-18 | échange Web Summit : présentation d’une organisation à faible budget développant deux projets à fort impact — monnaie incitative et solution scalable pour green AI data centers | candidature / financement / mise en réseau | ESTABLISHED | rattachement juridique exact à C.O.R.S.I.C.A. à vérifier |
+| 2025-10-21 | demande de conseils et partenaires ONG pour un projet Corse–Cuba : container, distillation pilotée, solaire, transfert de savoir-faire et commerce éthique, signée Président de C.O.R.S.I.C.A. | coopération / énergie / transmission | ESTABLISHED | démarche externe effectuée |
+
+### 7.1 AG du 28 juin 2025
+
+Le calendrier et la notification Gmail établissent qu’une AG C.O.R.S.I.C.A. était programmée le **28 juin 2025 de 15h à 16h à Corte**.
+
+Ils ne suffisent pas encore à établir :
+
+- que la séance s’est effectivement tenue ;
+- qui y a participé ;
+- quel exercice elle couvrait ;
+- l’ordre du jour ;
+- les décisions prises ;
+- l’existence d’un PV signé.
+
+Le registre doit donc éviter pour l’instant la formulation « AG tenue » et conserver :
+
+~~~text
+AG programmée
+→ ESTABLISHED
+
+AG effectivement tenue
+→ TO VERIFY
+
+délibérations / PV / exercice couvert
+→ UNKNOWN
+~~~
+
+### 7.2 Une chronologie associative plus dense à partir de juin
+
+Les traces directes modifient la reconstruction provisoire :
+
+~~~text
+janvier–mai
+→ canal institutionnel actif, assurances / réseaux / newsletters reçues
+→ peu d’actes sortants explicitement attribuables retrouvés au premier passage
+
+juin
+→ AG programmée
+→ administration assurance
+
+juillet
+→ projet VTOL / mobilité verte
+
+septembre
+→ projet photovoltaïque ACC 1 MWc / flexibilité
+
+octobre
+→ META-DEST
+→ Web Summit
+→ Corse–Cuba
+→ puis accélération Survey / Pertitellu dans l’écosystème technique et civique
+~~~
+
+L’absence d’acte sortant retrouvé entre janvier et mai n’est pas une preuve d’absence d’activité ; c’est seulement l’état de cette recherche ciblée.
+
+### 7.3 Distinction désormais utile
+
+Le registre 2025 peut maintenant séparer trois niveaux :
+
+~~~text
+A. ACTIVITÉ ASSOCIATIVE DIRECTEMENT ATTRIBUÉE
+→ signature / canal / qualité Président C.O.R.S.I.C.A.
+
+B. ACTIVITÉ INSTITUT / R&D À RATTACHEMENT À QUALIFIER
+→ canal Institut, candidature, projet technique
+
+C. ÉCOSYSTÈME PERSONNEL / POLITIQUE / OPEN SOURCE
+→ continuité intellectuelle possible
+→ ne pas intégrer comptablement sans mandat ou trace supplémentaire
+~~~
+
+Cette distinction devra guider le futur rapport d’activité et éviter de gonfler artificiellement le périmètre de l’association.
+
 ## 7. Ce qui reste inconnu
 
 À ce stade, le registre ne permet pas encore de répondre de façon fiable à l’activité de janvier à novembre 2025, au temps bénévole total, aux dépenses ou recettes associées, aux ressources cloud ou compute consommées, aux réunions et actes de gouvernance, aux démarches extérieures, aux outputs non GitHub ni au lien institutionnel exact de chaque tâche.
 
 Ces inconnues doivent être résolues par rapprochement avec d’autres traces, sans extrapoler depuis les 13 commits connus.
 
-## 8. Prochain enrichissement
+## 9. Prochain enrichissement
 
 ~~~text
 GitHub autres dépôts / historiques plus anciens
