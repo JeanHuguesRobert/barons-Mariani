@@ -22,6 +22,7 @@ architecture:
   cases: projects/privai/cases/
   annexes: projects/privai/annexes/
   magazine: projects/privai/magazine/
+  journals: projects/privai/journals/
   sources: projects/privai/sources/README.md
   manuscript_n1: projects/privai/manuscript/n1/00-qui-restera-souverain.md
   guide_profile: projects/privai/guide-profile.yml
