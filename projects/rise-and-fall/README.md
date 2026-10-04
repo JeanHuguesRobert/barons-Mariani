@@ -158,6 +158,8 @@ Le modèle capacitaire est amorcé et testé de bout en bout sur des cas histori
   Retrouvaille et corroboration de la source orale de l'hypothèse étymologique latine (*mini/minus + stadium/staggio*).
 - **Pivot transhistorique 1863 ↔ 2026 :** [*Deux époques se répondent*](manuscript/book/06-deux-epoques-se-repondent.md).  
   Mise en symétrie de la protestation électorale de 1863 et du dossier électoral de 2026, reliant *Rise & Fall* à *Suicide Corse*.
+- **Reality Case transversal candidat — Meurgey 1933 → 2026 :** [*Exil, impinzutimentu, diaspora et réancrage*](investigation/notes/2026-10-04-meurgey-diaspora-impinzutimentu.md).  
+  Test explicite de l’hypothèse nulle par le suivi des branches et alliances de Meurgey : survie généalogique, déplacements du centre de gravité, maintien ou aliénation du patrimoine corse, diaspora et retours. Ce chantier est relié au Musée Mariani, à DIASPORA et à la Potentique territoriale sans présumer sa conclusion.
 
 ---
 
