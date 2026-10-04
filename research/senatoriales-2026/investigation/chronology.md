@@ -1,6 +1,6 @@
 ---
 title: "Sénatoriales 2026 — chronologie probatoire"
-date: "2026-09-25"
+date: "2026-10-04"
 status: "active"
 language: "fr"
 license: "CC BY-SA 4.0"
