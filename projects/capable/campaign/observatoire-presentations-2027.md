@@ -1,24 +1,36 @@
 ---
 title: "Observatoire des Présentations 2027 — working paper"
+description: "Working paper définissant un observatoire public et traçable des proclamations et présentations présidentielles de 2027."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
+last_modified_at: "2026-10-04"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/observatoire-presentations-2027.md"
+update_policy: "UP-DEFAULT-REVIEWED"
 document_role: "source"
 document_kind: "campaign-observatory"
 visibility: "public"
 lifecycle_state: "working"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "explicit-metadata"
+classification_confidence: "medium"
 provenance:
-  origin_type: "conversation-to-corpus"
+  origin_type: "conversation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: "e9a46dce274187a3bd6947da56f107b6cec705d2"
   origin_date: "2026-10-04"
   derived_from:
     - "architecture-des-campagnes.md"
     - "../public-claims.md"
     - "../manuscript/05-machines-et-correction.md"
     - "../manuscript/08-presidentielle-2027.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Observatoire des Présentations 2027
