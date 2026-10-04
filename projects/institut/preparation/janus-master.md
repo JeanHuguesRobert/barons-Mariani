@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -73,7 +73,7 @@ Elle provient du Reality Test RT-LBF-001 de la Living Book Factory et reste rév
 
 | Période | Objet / trace | Statut épistémique | Statut institutionnel | Effectivité | Capacité produite | Ressources mobilisées | Output | Question ouverte | Prochaine décision |
 |---|---|---|---|---|---|---|---|---|---|
-| Noël 1995 | Création de C.O.R.S.I.C.A. à Corte ; développement public du sigle « Corse Organisant la Réunion Sur Internet de Compétences Autonomes » | ESTABLISHED pour la création fin 1995 dans le Corpus ; REPORTED pour la date précise du 26 décembre tant que l'acte primaire n'est pas relu ici | HISTORICAL / ADOPTED à qualifier depuis les statuts originaux | HISTORICAL | Réunir des compétences distribuées au moyen d'Internet | Temps bénévole, réseau, outils numériques de l'époque | Association et premières activités | Relire les statuts déposés et confirmer date, objet, siège, gouvernance initiaux | Vérification documentaire |
+| 25–26 décembre 1995 | Statuts signés à Corte le 25/12/1995 ; création administrative publiée au 26/12/1995 | ESTABLISHED : scan signé + copies institutionnelles + registre public | HISTORICAL / ADOPTED | HISTORICAL | Promotion de la Corse sur Internet ; association de compétences autonomes | Temps bénévole, réseau, outils Internet de l’époque | C.O.R.S.I.C.A. ; statuts fondateurs | Reconstituer récépissé/publication et histoire 1996+ | Reconstruction historique |
 | 1996–2017 | Activités historiques de C.O.R.S.I.C.A., outils Internet, Minesteggio, camps, Casa Mariani et autres traces à reconstituer | RECONSTRUCTED / UNKNOWN selon sous-période | N/A sauf actes de gouvernance retrouvés | UNKNOWN | Continuité associative et expériences distribuées à documenter | À reconstruire | Traces dispersées | Éviter toute continuité narrative artificielle | Revue d'archives |
 | 2018 | Apparition documentée de l'Institut Mariani dans le Corpus | ESTABLISHED pour l'usage public du nom depuis 2018 ; statut juridique exact encore ouvert | UNKNOWN / à qualifier | EFFECTIVE comme activité/documentation ; qualification juridique séparée | Couche R&D / documentaire / expérimentale | Bénévolat, outils, patrimoine, réseau | Travaux Institut | Organe interne, nom d'usage, projet distinct ou autre ? | Relecture archives 2018 et Trello |
 | 2019–2024 | Développement d'activités associatives, patrimoniales, documentaires et numériques | RECONSTRUCTED à partir du Corpus ; détail annuel à compléter | À qualifier acte par acte | PARTIALLY_EFFECTIVE / UNKNOWN selon objet | Accumulation de capacités et de traces | Bénévolat, outils, hébergement, biens et réseaux | Projets et corpus | Reconstituer les actes de gouvernance et ressources par année | Audit annuel |
