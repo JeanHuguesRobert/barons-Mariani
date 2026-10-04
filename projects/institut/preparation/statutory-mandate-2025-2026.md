@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -71,3 +71,31 @@ La future AGE doit reprendre ce fil comme l’achèvement documenté d’un chan
 6. liste des dirigeants déclarés ;
 7. toute déclaration de changement de siège ;
 8. réponse éventuelle de la sous-préfecture sur la refonte.
+
+## 9. Référentiel statutaire retrouvé
+
+La recherche a retrouvé les statuts originaux signés à Corte le 25 décembre 1995, ainsi que le récépissé et la publication administrative de janvier 1996.
+
+Elle a également retrouvé une refonte de travail de 2018, mais aucune preuve de son adoption puis de sa déclaration.
+
+Les dossiers bancaires 2022–2023 continuent d’utiliser les statuts de 1995 et demandent explicitement confirmation qu’ils sont les derniers en date. La procédure RNA 2024 repart elle aussi des statuts de 1995 et demande PV + Cerfa modificatif.
+
+Le référentiel détaillé est désormais :
+
+- `projects/institut/preparation/current-statutes-baseline.md`.
+
+État prudent :
+
+~~~text
+statuts 1995
+→ dernière version dont dépôt/publicité sont directement établis
+
+draft 2018
+→ document réel, adoption/effectivité non établies
+
+réforme 2025–2026
+→ PREPARATORY
+
+confirmation finale du greffe
+→ encore nécessaire
+~~~
