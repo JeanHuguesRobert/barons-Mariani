@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -66,6 +66,43 @@ voting_members_2026:
 ~~~
 
 Le nombre historique de 33 entrées ne doit pas être utilisé automatiquement comme dénominateur. Le nombre de personnes présentes dans un PV récent ne doit pas davantage être assimilé à l’effectif total.
+
+## 3 bis. Traces postérieures retrouvées
+
+### Adhésion 2020
+
+Un email intitulé `Adhésion 2020` a été retrouvé. Il ne s'agit **pas** de l'adhésion d'une personne à C.O.R.S.I.C.A. : il s'agit de **C.O.R.S.I.C.A. adhérant elle-même à Énergie Partagée Association**.
+
+Cette trace confirme une activité institutionnelle en 2020 mais n'ajoute aucun membre au corps votant interne.
+
+### Usage d'AssoConnect
+
+Des traces 2021–2022 montrent que C.O.R.S.I.C.A. disposait d'un compte AssoConnect. Le présent passage n'a cependant retrouvé ni export d'adhérents ni liste de membres issue de cet outil.
+
+~~~text
+outil de gestion utilisé
+≠
+registre de membres retrouvé
+~~~
+
+### Déclaration de mars 2026 : « 40 membres actifs »
+
+Le 12 mars 2026, dans le cadre d'une demande extérieure relative à des vélos cargos, le Président écrit qu'« une population de 40 membres actifs de l'association C.O.R.S.I.C.A. va raisonnablement participer » à l'initiative.
+
+Cette phrase constitue une **déclaration contemporaine d'ordre de grandeur**, mais elle ne suffit pas à établir que 40 personnes possèdent juridiquement la qualité de `membre actif` au sens précis de l'article 8 des statuts 1995.
+
+Qualification :
+
+~~~yaml
+declared_active_population_2026:
+  value: 40
+  epistemic_status: REPORTED_BY_ASSOCIATION_PRESIDENT
+  context: external_project_participation_estimate
+  statutory_membership_equivalence: NOT_ESTABLISHED
+  use_as_quorum_denominator: PROHIBITED_WITHOUT_RECONCILIATION
+~~~
+
+Elle devient néanmoins une piste importante : un écart éventuel entre un registre statutaire reconstitué et cet ordre de grandeur devra être expliqué.
 
 ## 4. Reconstruction requise
 
