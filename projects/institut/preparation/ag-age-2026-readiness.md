@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.5"
+version: "0.6"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -54,8 +54,8 @@ PREPARED
 | Statuts de référence | READY_WITH_RESERVATION | scan signé 1995 + copie préfectorale 2018 + chaîne d’usage 2021/2023/2024 ; dates fines récépissé/JO 1996 non revalidées | confirmation finale du greffe souhaitable mais non nécessaire pour continuer la préparation |
 | Transcription recherchable | READY | source canonique `projects/institut/sources/statuts-corsica-1995-transcription.md` issue des 6 pages scannées | revue humaine ligne à ligne avant freeze juridique |
 | Procédure de modification | READY | article 17 : 15 jours, quorum 1/4, seconde convocation, majorité 2/3 | reporter ces règles dans la convocation |
-| Composition de l’AG | CRITICAL_BLOCKER | catégories 1995 connues, individus 2026 non qualifiés ; jurisprudence sur agrément statutaire identifiée | reconstruire et sécuriser la qualité des membres avant convocation |
-| Quorum chiffré | CRITICAL_BLOCKER | dénominateur inconnu tant que les admissions ne sont pas qualifiées | obtenir N votants juridiquement défendables |
+| Composition de l’AG | CRITICAL_BLOCKER — ACTIVE_VERIFICATION | archives passives largement épuisées ; protocole actif publié ; jurisprudence agrément/persistance examinée | qualification privée contradictoire des personnes plausibles avant convocation |
+| Quorum chiffré | CRITICAL_BLOCKER — DEPENDS_ON_MEMBERSHIP | dénominateur inconnu tant que les admissions et sorties ne sont pas qualifiées | geler N votants défendables puis calculer 1/4 |
 | Autorité proposant la modification | PARTIAL | CA actuel incertain ; route alternative par 1/10 des membres | sécuriser CA ou réunir une proposition de membres statutairement qualifiés |
 | Projet de nouveaux statuts | PARTIAL | drafts 2018 + chantier 2025–2026 | produire version consolidée explicitement PREPARATORY |
 | Rapport exercice 2025 | PARTIAL | activity-2025 + PV rétrospectif + traces | compléter activité / comptes / ressources |
@@ -225,3 +225,27 @@ méthode de qualification
 ~~~
 
 Aucune coordonnée personnelle ne doit être publiée.
+
+## 6 bis. Passage en vérification active
+
+La recherche passive a désormais un rendement décroissant.
+
+Les archives ont établi les fondateurs de 1995, des rôles de gouvernance ultérieurs, un registre opérationnel 2018–2019 et des participants rapportés aux AG. Elles n'ont pas livré un registre d'agrément complet ni, pour les fondateurs recherchés, de démissions/radiations.
+
+La jurisprudence examinée conduit à ne pas traiter une ancienne qualité positivement établie comme disparue par simple silence documentaire, tout en imposant d'examiner toute preuve contraire.
+
+~~~text
+PASSIVE ARCHIVE SEARCH
+→ substantially saturated
+
+ACTIVE PRIVATE VERIFICATION
+→ next required action
+
+PUBLIC OUTPUT
+→ aggregates + method only
+~~~
+
+Le protocole applicable est :
+`projects/institut/preparation/membership-active-verification-protocol.md`.
+
+Aucun message externe ne doit être envoyé automatiquement sans validation humaine du destinataire et du texte.
