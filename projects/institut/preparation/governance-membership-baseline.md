@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.2"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -153,6 +153,31 @@ last_modified: 2019-10
 
 Aucune coordonnée privée de ce tableur n'est reproduite ici.
 
+## 3 bis. Pratique opérationnelle documentée en 2019
+
+Un email du 14 octobre 2019, relatif aux structures juridiques du projet Mariani Village, décrit explicitement C.O.R.S.I.C.A. comme ayant :
+
+> des membres actifs qui votent, des membres inactifs qui ne votent pas.
+
+Cette trace est contemporaine de la dernière période de mise à jour du tableur `Adhérents CORSICA`.
+
+Elle établit une **pratique opérationnelle de classement** en 2019, mais elle ne suffit pas à démontrer que chaque personne du tableur avait été agréée selon l'article 3 des statuts de 1995, ni à déterminer le corps électoral de 2026.
+
+Qualification :
+
+~~~text
+distinction active / inactive utilisée en pratique en 2019
+→ ESTABLISHED
+
+équivalence "actif opérationnel" = "membre actif statutaire 1995"
+→ NOT ESTABLISHED
+
+droit de vote 2026 dérivé automatiquement de cette pratique
+→ NO
+~~~
+
+Cette trace explique néanmoins pourquoi des documents ultérieurs parlent de « membres actifs » : il existe une continuité lexicale réelle, qui doit être distinguée d'une continuité juridique démontrée.
+
 ## 4. Bureau du 15 octobre 2020
 
 Une pièce intitulée « Procès verbale de l'assemblé générale désignant les nouveaux membres du bureau » a été retrouvée dans la correspondance bancaire de 2023.
@@ -204,6 +229,45 @@ Des traces ultérieures montrent néanmoins une activité administrative cohére
 - la banque demande alors des pièces concernant président, secrétaire et trésorier ainsi qu'un PV signé.
 
 Ces traces renforcent l'hypothèse d'un rôle administratif réel de Lancelot Reybel dans cette période, sans résoudre à elles seules la validité formelle de son élection ou de sa déclaration.
+
+## 5 bis. Tentative de régularisation RNA en 2024
+
+La chaîne Gmail avec le greffe et la sous-préfecture établit :
+
+~~~text
+12–15 mai 2024
+→ recherche du numéro RNA
+→ greffe : association non retrouvée au RNA
+→ transmission du scan des statuts historiques
+
+30 mai 2024
+→ sous-préfecture demande :
+   PV d'assemblée générale
+   + Cerfa modificatif
+
+14 août 2024
+→ après nouvel entretien téléphonique,
+   la sous-préfecture redemande :
+   Cerfa dûment complété
+   + PV d'assemblée générale
+~~~
+
+Aucun email ultérieur retrouvé dans cette séquence ne montre le retour du Cerfa/PV ou l'attribution effective d'un numéro RNA.
+
+Cela ne prouve pas qu'aucun autre canal n'a été utilisé, mais renforce le statut :
+
+~~~text
+régularisation engagée
+→ ESTABLISHED
+
+pièces finales retournées
+→ NOT FOUND
+
+dirigeants administrativement régularisés par cette séquence
+→ NOT ESTABLISHED
+~~~
+
+Cette lacune est directement pertinente pour le CA et le bureau : une fonction exercée en pratique ne doit pas être assimilée sans preuve à une fonction déclarée dans le registre administratif.
 
 ## 6. AG du 28 juin 2025
 
