@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.5"
+version: "0.6"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -420,6 +420,39 @@ responsable
 La procédure exacte d’acquisition, de maintien et de perte de la qualité de membre actif devra être définie assez clairement pour qu’un futur quorum ne dépende plus de souvenirs ou d’inférences.
 
 Cette proposition reste PREPARATORY et ne décrit pas les statuts en vigueur.
+
+## 7 quinquies. Fonction de Trésorière et compte Société Générale
+
+Le Président précise le 5 octobre 2026 que la fonction de Trésorière exercée actuellement par Maguy Ghionga est **largement réduite en pratique** depuis le blocage du compte bancaire Société Générale de l’association.
+
+Qualification :
+
+~~~text
+Maguy Ghionga exerce actuellement la fonction de Trésorière
+→ REPORTED_BY_PRESIDENT
+
+charge opérationnelle de trésorerie fortement réduite
+→ REPORTED_BY_PRESIDENT
+
+cause : compte Société Générale bloqué
+→ REPORTED_BY_PRESIDENT
+
+correspondance bancaire antérieure demandant régularisation / conformité
+→ ESTABLISHED
+
+preuve bancaire indépendante du blocage lui-même
+→ NOT YET FOUND
+~~~
+
+Cette distinction est importante :
+
+~~~text
+office / titre
+≠ activité opérationnelle réelle
+≠ accès effectif aux moyens bancaires
+~~~
+
+Pour l’histoire des membres actifs, l’activité de Maguy ne doit donc pas être sous-estimée ou surinterprétée à partir du seul volume d’opérations bancaires : une fonction peut subsister alors que sa capacité d’action est contrainte par un blocage externe.
 
 ## 8. Ce qui manque pour calculer le quorum
 
