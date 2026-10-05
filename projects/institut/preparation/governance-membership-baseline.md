@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -23,6 +23,7 @@ related_documents:
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/statutes-1995-2018-comparison.md"
   - "projects/institut/sources/statuts-corsica-1995-transcription.md"
+  - "projects/institut/sources/pv-ag-corsica-2020-institutional-extract.md"
 provenance:
   origin_type: "multi-source-governance-reconstruction"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -165,6 +166,8 @@ Elle porte la date du **15 octobre 2020** et indique :
 Elle décrit donc un bureau à trois fonctions compatible, dans sa structure minimale, avec les statuts 1995.
 
 ### Provenance et limites
+
+Un extrait institutionnel public, expurgé des adresses privées, est publié dans `projects/institut/sources/pv-ag-corsica-2020-institutional-extract.md`.
 
 Le PDF retrouvé :
 
