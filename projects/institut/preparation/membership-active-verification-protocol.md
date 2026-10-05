@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -78,6 +78,29 @@ Le contact doit être neutre et ne pas suggérer la réponse :
 > C.O.R.S.I.C.A. prépare une mise à jour de sa gouvernance et reconstitue son registre de membres à partir d’archives anciennes incomplètes. Vous apparaissez dans une ancienne trace liée à l’association ou à ses activités. Afin de ne ni vous exclure à tort ni vous attribuer une qualité que vous n’avez pas, pouvez-vous indiquer : si vous avez été membre de C.O.R.S.I.C.A. ; si vous vous souvenez de la forme de votre admission ou de votre catégorie ; si vous avez ensuite démissionné ou reçu notification d’une radiation ; et si vous disposez d’un document utile ? Cette demande ne préjuge pas de votre qualification finale au regard des statuts.
 
 Toute réponse est une trace déclarative, pas une décision juridique automatique.
+
+## 3 bis. Ordre de vérification
+
+Pour maximiser le gain probatoire et minimiser les sollicitations, commencer par :
+
+~~~text
+A. fondateurs nommés dans les statuts 1995
+→ admission initiale déjà ESTABLISHED
+→ vérifier seulement sortie / maintien
+
+B. personnes ayant exercé une fonction de gouvernance documentée
+→ vérifier admission, catégorie, fonction et sortie éventuelle
+
+C. participants rapportés aux AG récentes
+→ vérifier qualité statutaire
+
+D. autres cas du registre historique
+→ seulement si leur qualification peut affecter le dénominateur
+~~~
+
+Pour un fondateur, le questionnaire doit être plus court : il n'est pas nécessaire de lui demander de prouver une admission déjà établie par les statuts. Il faut principalement vérifier s'il a démissionné, reçu notification d'une radiation, ou conteste encore être membre.
+
+La recherche privée montre qu'au moins un des fondateurs historiques dispose encore d'un canal de contact récent. Cette donnée de contact n'est pas publiée ici.
 
 ## 4. Règles de qualification
 
