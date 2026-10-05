@@ -1,12 +1,12 @@
 ---
 title: "C.O.R.S.I.C.A. — référentiel statutaire actuellement démontré"
-subtitle: "Statuts signés en 1995, drafts ultérieurs et règles prudentes pour préparer l’AGE 2026"
-description: "Reconstruction probatoire de la dernière version statutaire dont le dépôt et la publicité administrative sont directement établis, avec distinction entre textes officiels, drafts et régularisations inachevées."
+subtitle: "Statuts fondateurs, chaîne administrative et base prudente pour l'assemblée 2026"
+description: "Référentiel consolidé de la dernière version statutaire dont l'adoption et la déclaration sont positivement établies."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.3"
+last_modified_at: "2026-10-05"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -19,21 +19,24 @@ lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "projects/institut/sources/statuts-corsica-1995-transcription.md"
+  - "projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md"
+  - "projects/institut/preparation/statutes-lineage.md"
+  - "projects/institut/preparation/statutes-1995-2018-comparison.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
-  - "projects/institut/preparation/janus-master.md"
 provenance:
   origin_type: "multi-source-reconstruction"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "unknown"
   origin_date: "2026-10-04"
   derived_from:
-    - "statuts C.O.R.S.I.C.A. signés à Corte le 25/12/1995"
-    - "dates de récépissé/publication 1996 précédemment reconstruites — source primaire à retrouver"
-    - "copie préfectorale transmise en 2018"
-    - "draft Statuts_2018-2019_C.O.R.S.I.C"
-    - "dossiers de conformité bancaire 2022-2023"
-    - "échanges RNA avec la sous-préfecture de Corte en 2024"
+    - "signed 1995 statutes scan"
+    - "1996 sous-préfecture receipt scan"
+    - "1996 Journal officiel scan"
+    - "2018 prefectural copy chain"
+    - "2018 draft statutes and revision history"
+    - "2023 bank compliance correspondence"
+    - "2024 RNA correspondence"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -41,277 +44,131 @@ review:
 
 # C.O.R.S.I.C.A. — référentiel statutaire actuellement démontré
 
-## 0. Conclusion de travail
+## 1. Conclusion
 
-En l’état des pièces retrouvées au 4 octobre 2026 :
+Au 5 octobre 2026 :
 
-> **Les statuts signés à Corte le 25 décembre 1995 sont la dernière version dont le dépôt/publicité administrative est directement établi. Aucun acte de modification statutaire postérieur effectivement adopté puis déclaré n’a été retrouvé.**
+> **Les statuts signés à Corte le 25 décembre 1995 sont la dernière version dont l'adoption et la déclaration sont positivement établies par des pièces primaires retrouvées.**
 
-Ils constituent donc le **référentiel prudent** pour préparer la future assemblée appelée à modifier les statuts, sous réserve d’une confirmation finale auprès du greffe de la sous-préfecture de Corte.
+Aucune modification postérieure valablement adoptée puis déclarée n'a été retrouvée.
 
-Cette conclusion ne signifie pas que des projets ultérieurs n’existent pas. Elle distingue :
-
-~~~text
-texte de travail
-≠ texte adopté
-≠ texte déclaré
-≠ texte opposable aux tiers
-~~~
-
-## 0 bis. Source textuelle vérifiée
-
-La transcription vérifiée du scan est publiée dans `projects/institut/sources/statuts-corsica-1995-transcription.md`.
-
-Deux copies indépendamment conservées du même document ont été retrouvées :
-
-- copie Drive issue de la chaîne préfectorale 2018 : SHA-256 `d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611` ;
-- copie jointe au courrier au greffe en mai 2024 : SHA-256 `5e2afef1101526b0e6ec1f33dbfe197de6a548c0c2f6e21195cdf9939ee97e49`.
-
-Les rendus des six pages correspondent au même contenu documentaire, malgré des enveloppes PDF différentes. Cette redondance renforce la provenance de la baseline sans transformer la transcription en original.
-
-## 1. Chaîne primaire 1995–1996 — état vérifié au 5 octobre 2026
-
-Une revue de provenance a été effectuée après l’apparition, dans une version précédente de ce document, de dates précises de récépissé et de publication.
-
-### Pièces directement retrouvées / vérifiées
-
-| Date | Pièce | Ce qu’elle indique | Qualification |
-|---|---|---|---|
-| 25/12/1995 | statuts signés scannés | mention manuscrite « Corte le 25/12/95 » et signatures | ESTABLISHED |
-| 26/12/1995 | courrier de transmission au greffe en 2024 + base publique INSEE/Annuaire | date de création / dépôt alléguée et date de création administrative actuelle | ESTABLISHED pour la date publique INSEE ; REPORTED pour le dépôt historique précis |
-| 03/04/2018 | réponse PREF2B avec copie des statuts | la préfecture possédait et a retransmis le scan ancien | ESTABLISHED |
-| 14/05/2024 | email au greffe | les statuts sont décrits comme « tels que déposés à la sous-préfecture de Corte le 26 décembre 1995 » | ESTABLISHED comme déclaration contemporaine ; dépôt historique REPORTED |
-
-### Dates apparues dans la reconstruction mais source primaire non retrouvée dans le présent audit
-
-Une version précédente de ce fichier mentionnait :
+Cette conclusion reste révisable si une pièce contraire apparaît, mais le niveau de confiance est désormais très élevé.
 
 ~~~text
-04/01/1996
-→ date manuscrite de déclaration reçue
+statuts 1995
+→ ADOPTED + DECLARED : ESTABLISHED
 
-08/01/1996
-→ récépissé délivré
+projet 2018
+→ DRAFT / PREPARATORY : ESTABLISHED
+→ adoption : NOT FOUND
+→ déclaration : NOT FOUND
+→ effectivité : NOT ESTABLISHED
 
-24/01/1996
-→ publication au Journal officiel
+refonte 2025–2026
+→ mandat : RECONSTRUCTED
+→ préparation : ESTABLISHED
+→ adoption : NOT FOUND
+→ déclaration : NOT FOUND
 ~~~
 
-Le présent audit n’a retrouvé ni le récépissé correspondant dans Drive/Gmail, ni une copie primaire de cette publication au Journal officiel, ni une source publique en ligne permettant d’en vérifier directement les mentions.
+## 2. Chaîne primaire 1995–1996
 
-Ces dates sont donc rétrogradées :
+| Date | Pièce | Qualification |
+|---|---|---|
+| 25/12/1995 | statuts signés à Corte, trois signatures visibles | ESTABLISHED |
+| 26/12/1995 | date de déclaration publiée au Journal officiel | ESTABLISHED |
+| 04/01/1996 | date de déclaration portée sur le récépissé | ESTABLISHED |
+| 08/01/1996 | récépissé n° 02 délivré par la sous-préfecture de Corte | ESTABLISHED |
+| 24/01/1996 | publication au Journal officiel, annonce n° 646 | ESTABLISHED |
+
+Les dates du **26 décembre 1995** et du **4 janvier 1996** divergent entre Journal officiel et récépissé. Cette divergence documentaire est conservée ; elle ne doit pas être résolue par hypothèse.
+
+Sources textuelles vérifiables :
+
+- `projects/institut/sources/statuts-corsica-1995-transcription.md`
+- `projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md`
+
+## 3. Contenu qui gouverne la préparation
+
+Les statuts 1995 prévoient notamment :
+
+- objet originel : promotion de la Corse sur Internet ;
+- durée illimitée ;
+- siège statutaire : **Corte, Corse** ;
+- conseil d'administration : **3 à 12 membres** ;
+- membres fondateurs membres de droit du conseil ;
+- bureau comprenant président, un ou deux vice-présidents, secrétaire, trésorier et éventuellement trésorier adjoint ;
+- AG annuelle ;
+- catégories participant à l'AG : fondateurs, membres d'honneur, bienfaiteurs et actifs ; adhérents exclus ;
+- changements d'administration ou de direction à notifier dans les trois mois.
+
+## 4. Modification des statuts — article 17
+
+La base préparatoire est :
+
+~~~text
+initiative
+→ conseil d'administration
+  OU un dixième des membres composant l'AG
+
+ordre du jour
+→ proposition de modification inscrite
+→ envoyée à tous les membres de l'AG
+→ au moins 15 jours à l'avance
+
+première réunion
+→ quorum : 1/4 au moins des membres en exercice
+
+si quorum non atteint
+→ nouvelle convocation
+→ au moins 15 jours plus tard
+→ pas de quorum minimal au second appel
+
+adoption
+→ majorité des 2/3 des présents ou représentés
+~~~
+
+## 5. Le projet 2018
+
+Le Google Doc `Statuts_2018-2019_C.O.R.S.I.C` a été créé le 16 août 2018 et révisé jusqu'au 14 septembre.
+
+Il modifie substantiellement l'objet, la gouvernance, les catégories de membres et le fonctionnement.
+
+Mais le 9 décembre 2018, le Président retransmettait encore à un tiers la copie des statuts venant de la préfecture et indiquait que ceux-ci feraient l'objet d'une « modification prochaine ».
+
+En 2023, Société Générale demandait encore confirmation que les statuts du 25/12/1995 étaient les derniers en date.
+
+En 2024, les statuts 1995 ont encore été transmis au greffe pour la régularisation RNA.
+
+Le projet 2018 doit donc rester classé :
 
 ~~~yaml
-receipt_1996:
-  epistemic_status: REPORTED_OR_PREVIOUSLY_RECONSTRUCTED
-  primary_source_currently_available: false
-
-journal_officiel_1996:
-  epistemic_status: REPORTED_OR_PREVIOUSLY_RECONSTRUCTED
-  primary_source_currently_available: false
-~~~
-
-Elles ne doivent plus être citées comme `ESTABLISHED` tant que la pièce source n’est pas retrouvée.
-
-La chaîne robuste demeure néanmoins forte : statuts signés en 1995, copie détenue par la préfecture et renvoyée en 2018, usage continu du même texte jusqu’en 2024, et date administrative publique de création au 26/12/1995.
-
-## 2. Contenu pertinent des statuts signés de 1995
-
-### 2.1 Objet, durée, siège
-
-Le texte signé :
-
-- dénomme l’association « Corse Organisant la Réunion Sur Internet de Compétences Autonomes (C.O.R.S.I.C.A.) » ;
-- indique qu’elle est fondée en 1995 ;
-- fixe comme objet la promotion de la Corse sur Internet ;
-- prévoit une durée illimitée ;
-- indique le siège comme « Corte, Corse ».
-
-Les pièces administratives de 1996 publient plus précisément le siège à Villa Menesteggio / route de Castirla à Corte.
-
-### 2.2 Gouvernance
-
-L’article 5 prévoit un conseil d’administration de **3 à 12 membres**, élus pour cinq ans.
-
-Le bureau comprend :
-
-- un président ;
-- un ou deux vice-présidents ;
-- un secrétaire ;
-- un trésorier ;
-- éventuellement un trésorier adjoint.
-
-Cette architecture est importante pour qualifier le projet 2025 de simplification du bureau à deux fonctions : tant que les statuts ne sont pas valablement modifiés, cette simplification ne doit pas être présentée comme ayant remplacé à elle seule l’architecture statutaire de 1995.
-
-### 2.3 Assemblée générale
-
-L’article 8 prévoit notamment :
-
-- une assemblée générale au moins une fois par an ;
-- un ordre du jour réglé par le conseil d’administration ;
-- examen des rapports moral et financier ;
-- approbation des comptes de l’exercice clos ;
-- possibilité de vote par correspondance, y compris électronique ;
-- procès-verbal de séance.
-
-### 2.4 Modification des statuts — article 17
-
-Le texte signé prévoit :
-
-1. modification par l’assemblée générale ;
-2. sur proposition du conseil d’administration **ou d’un dixième des membres de l’assemblée générale** ;
-3. inscription de la proposition à l’ordre du jour ;
-4. ordre du jour adressé au moins **15 jours à l’avance** ;
-5. premier quorum : **au moins un quart des membres en exercice** ;
-6. si ce quorum n’est pas atteint, nouvelle convocation au moins 15 jours plus tard ;
-7. seconde assemblée pouvant alors délibérer quel que soit le nombre de présents/représentés ;
-8. majorité requise : **deux tiers des membres présents ou représentés**.
-
-Le texte ne fait pas dépendre la modification de l’emploi du terme « AGE » : ce sont les conditions matérielles de l’article 17 qui gouvernent la modification.
-
-### 2.5 Changements de direction
-
-L’article 21 prévoit que les changements dans l’administration ou la direction doivent être signalés à la préfecture ou sous-préfecture dans les trois mois.
-
-Cette règle statutaire rejoint l’article 5 de la loi du 1er juillet 1901, qui impose actuellement la déclaration des changements dans l’administration et des modifications statutaires dans les trois mois et prévoit que ces changements ne sont opposables aux tiers qu’à compter de leur déclaration.
-
-## 3. 2018 : une refonte existe, mais comme draft
-
-Le dossier administratif Drive contient :
-
-- `Statuts_2018-2019_C.O.R.S.I.C` ;
-- une version DOCX de même nom ;
-- un PDF de statuts ;
-- divers règlements intérieurs.
-
-Le document 2018 modifie substantiellement l’objet, la gouvernance et le siège, avec notamment démocratie directe numérique, économie sociale et solidaire, entraide sociale et promotion de la Corse.
-
-Mais aucune pièce actuellement retrouvée n’établit :
-
-~~~text
-adoption par l’AG
-→ NOT FOUND
-
-signature conforme de la version finale
-→ NOT FOUND
-
-déclaration au greffe
-→ NOT FOUND
-
-récépissé de modification
-→ NOT FOUND
-~~~
-
-Au contraire, un email du 9 décembre 2018 transmet à un tiers une copie des statuts reçue de la préfecture et indique que les statuts feront l’objet d’une « modification prochaine ».
-
-Qualification :
-
-~~~text
-Statuts_2018-2019
-epistemic_status: ESTABLISHED_AS_DOCUMENT
-institutional_status: DRAFT
+epistemic_status: ESTABLISHED
+institutional_status: PREPARATORY
 effect_status: NOT_ESTABLISHED
 ~~~
 
-## 4. 2020–2023 : gouvernance pratiquée, mais statuts 1995 toujours utilisés
+## 6. Adresse du siège
 
-Un PV daté du 15 octobre 2020 désigne :
+Les statuts 1995 indiquent seulement **« Corte, Corse »**.
 
-- Jean Hugues Noël Robert, président ;
-- Lancelot Reybel, trésorier ;
-- Maguy Ghionga, secrétaire.
+Le récépissé et le Journal officiel précisent historiquement Villa Menesteggio / route de Castirla.
 
-La copie PDF retrouvée en 2023 est **non signée**. Société Générale demande explicitement en juillet 2023 une version signée.
+Le Corpus utilise aujourd'hui 1 cours Paoli comme adresse publique de travail et d'affiliation.
 
-Le même établissement demande également soit des statuts récents, soit une confirmation écrite que **les statuts du 25/12/1995 sont les derniers en date**.
+Ainsi :
 
-Le dossier bancaire transmis en 2022–2023 contient précisément le PDF des statuts 1995.
+> un changement d'adresse à l'intérieur de Corte n'est pas, sur le seul texte de l'article 1, nécessairement une modification statutaire ; il reste en revanche à traiter correctement comme donnée administrative déclarée.
 
-Cela ne vaut pas certification préfectorale, mais constitue un indice convergent fort que les statuts 1995 étaient encore traités comme la base en vigueur.
+## 7. Verrou pratique suivant
 
-## 5. 2024 : tentative de régularisation RNA
+Avant convocation de l'assemblée modificative, il faut établir :
 
-En mai 2024, le greffe indique que l’association ne semble pas enregistrée au RNA sous ce nom.
+1. qui est aujourd'hui membre de l'association ;
+2. dans quelle catégorie statutaire chacun se trouve ;
+3. qui compose le conseil d'administration ;
+4. qui a droit de vote à l'AG ;
+5. le dénominateur exact du quorum d'un quart ;
+6. qui peut valablement porter la proposition de modification.
 
-Les statuts de 1995 sont alors retransmis comme « statuts tels que déposés à la sous-préfecture de Corte ».
-
-Le 30 mai 2024, la sous-préfecture indique que, pour attribuer un numéro RNA, il faut adresser :
-
-- le PV d’assemblée générale ;
-- le Cerfa modificatif.
-
-En août 2024, un nouveau Cerfa dirigeants est adressé avec demande de retour accompagné du PV d’AG.
-
-Aucun récépissé final, numéro RNA nouvellement attribué ou déclaration de modification accomplie n’a été retrouvé dans le présent passage.
-
-Qualification :
-
-~~~text
-régularisation RNA 2024
-institutional_status: PREPARATORY / SUBMITTED_PARTIALLY
-effect_status: UNKNOWN
-~~~
-
-## 6. 2025–2026 : nouveau mandat de refonte, toujours non achevé
-
-Le PV rétrospectif de l’AG du 28 juin 2025 attribue à cette assemblée :
-
-- le principe de simplification du bureau ;
-- un mandat au Président pour préparer et soumettre une modification statutaire.
-
-Le 27 avril 2026, ce PV est formalisé rétrospectivement et soumis aux participants pour correction avant signature.
-
-Le 13 juin 2026, un courrier à la sous-préfecture décrit encore la « refonte des statuts » comme un travail en cours.
-
-Aucune adoption ni déclaration finale n’a été retrouvée depuis.
-
-## 7. Baseline pour préparer l’assemblée 2026
-
-Tant qu’une pièce administrative contraire n’est pas retrouvée, la préparation doit partir des statuts de 1995.
-
-Conséquences pratiques :
-
-~~~text
-référentiel de procédure
-→ statuts signés 25/12/1995
-
-proposition de refonte
-→ PREPARATORY
-
-simplification du bureau à deux fonctions
-→ ne pas considérer comme substituée aux statuts avant modification valable
-
-changement de siège vers 1 cours Paoli
-→ à décider / déclarer si retenu
-
-nouveaux droits de vote / catégories de membres
-→ à décider dans le respect de l’article 17
-
-effet envers les tiers
-→ à vérifier après déclaration
-~~~
-
-## 8. Droit positif actuel — garde-fou
-
-L’article 5 de la loi du 1er juillet 1901 impose aujourd’hui de déclarer dans les trois mois les changements dans l’administration ainsi que les modifications des statuts ; ces changements ne sont opposables aux tiers qu’à compter de leur déclaration.
-
-Le portail officiel Associations.gouv.fr indique également qu’une modification du siège, de l’objet ou des dispositions statutaires doit être déclarée au greffe, avec la délibération et les statuts mis à jour signés.
-
-Ces règles générales ne remplacent pas les conditions internes de décision prévues par les statuts de C.O.R.S.I.C.A.
-
-## 9. Dernière vérification à obtenir
-
-Avant convocation définitive de l’assemblée modificative, demander au greffe de la sous-préfecture de Corte confirmation de :
-
-1. la dernière version des statuts enregistrée dans son dossier ;
-2. l’existence ou non d’une modification postérieure à 1995 ;
-3. l’état de la régularisation RNA ouverte en 2024 ;
-4. la dernière liste de dirigeants déclarée ;
-5. l’adresse du siège actuellement enregistrée.
-
-Cette réponse donnera le passage de :
-
-~~~text
-BASELINE FORTEMENT RECONSTRUITE
-→ BASELINE ADMINISTRATIVEMENT CONFIRMÉE
-~~~
+Ce registre des personnes et qualités est désormais le prochain Reality Test institutionnel.
