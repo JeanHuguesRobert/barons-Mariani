@@ -32,8 +32,7 @@ provenance:
 
 # Traçabilité civique anti-mafieuse
 <!-- BEGIN_AUTO: trails -->
-> 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Projet #1755](autonomia/projet_1755.md) | ➡️ Next: [The Republic of Donkeys](the_republic_of_donkeys.md)
+
 <!-- END_AUTO: trails -->
 **Documenter l’emprise sans créer une société de surveillance**
 
@@ -275,6 +274,4 @@ Son objet est de fixer une ligne : ne pas opposer sécurité et liberté, mais c
 *These documents link to this file:*
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
-- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 <!-- END_AUTO: backlinks -->

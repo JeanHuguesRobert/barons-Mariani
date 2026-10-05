@@ -190,6 +190,4 @@ La question qui s'ouvre — et qui excède cet article — est celle des conditi
 - [Concept Index — barons-Mariani](concepts.md)
 - [invidia - moved](../invidia.md)
 - [Research Index — barons-Mariani](index.md)
-- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
-- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: backlinks -->

@@ -608,5 +608,4 @@ This paper is simultaneously a contribution to the understanding of AI adoption 
 *These documents link to this file:*
 - [Research Index — barons-Mariani](index.md)
 - [toy story - moved](../toy_story.md)
-- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
 <!-- END_AUTO: backlinks -->

@@ -33,8 +33,7 @@ provenance:
 
 # GR20 : du quota à l’autonomie de capacité
 <!-- BEGIN_AUTO: trails -->
-> 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md) | ➡️ Next: [Projet #1755](autonomia/projet_1755.md)
+
 <!-- END_AUTO: trails -->
 ## Note de campagne pour une politique corse de la montagne capable
 
@@ -497,5 +496,4 @@ Le présent document sur le GR20 ne dépend juridiquement pas de cet amendement 
 - [Concept Index — barons-Mariani](concepts.md)
 - [Research Index — barons-Mariani](index.md)
 - [Trail — Une Corse capable](trails/une_corse_capable.md)
-- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
 <!-- END_AUTO: backlinks -->

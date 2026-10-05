@@ -37,11 +37,7 @@ provenance:
 
 # Democratic AI Safety
 <!-- BEGIN_AUTO: trails -->
-> 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [The Republic of Donkeys](the_republic_of_donkeys.md) | ➡️ Next: [La pathologie du secret](pathologie_du_secret.md)
 
-> 🧭 **Trail: From Method to Machine**
-> ⬅️ Previous: [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/COGENTIA.md) | ➡️ Next: [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
 <!-- END_AUTO: trails -->
 ## Why AI Safety Must Protect Human Sovereignty Against AI-Augmented Legal Persons
 
@@ -1028,13 +1024,4 @@ It is constitutional.
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
-- [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/README.md)
-- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
-- [Simplicité d'action](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/simplicite_action.md)
-- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Trail: From Method to Machine](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_method_to_machine.md)
-- For researchers
-- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
-- [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
-- [Open Strategy for Model Selector: DHITL-Aligned Architecture](https://github.com/JeanHuguesRobert/operium/blob/main/research/open-strategy-model-selector.md)
 <!-- END_AUTO: backlinks -->

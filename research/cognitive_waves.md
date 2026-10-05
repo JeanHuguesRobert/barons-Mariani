@@ -1079,6 +1079,4 @@ Weyns, D., & Holvoet, T. (2006). From reactive robotics to situated multiagent s
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [Suicide Corse — Architecture éditoriale](../projects/suicide-corse/editorial-architecture.md)
-- [Cogentia Workflows](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_workflows.md)
-- [La trace protège](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/stigmergie_repressive_mouches_trace_protege_v0_1.md)
 <!-- END_AUTO: backlinks -->

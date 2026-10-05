@@ -1211,7 +1211,4 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [Test du critère Rossignol](test_critere_rossignol.md)
 - [Trail — Capable](trails/capable.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
-- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
-- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

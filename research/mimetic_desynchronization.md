@@ -221,7 +221,4 @@ Mimetic desynchronization is the name for that action.
 - [mimetic desynchronization - moved](../mimetic_desynchronization.md)
 - [Research Index — barons-Mariani](index.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [Cogentia Commons — COMMUNITY.md Sub-Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_community_manifest.md)
-- [Cogentia Commons — MVP Specification](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_mvp_spec.md)
-- [Cogentia Commons — Session Continuation Snapshot](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia_commons_continuation.md)
 <!-- END_AUTO: backlinks -->

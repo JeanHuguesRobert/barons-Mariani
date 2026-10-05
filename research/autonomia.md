@@ -34,8 +34,7 @@ provenance:
 
 # Autonomia[^titre]
 <!-- BEGIN_AUTO: trails -->
-> 🧭 **Trail: From Autonomia to DHITL**
-> ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md)
+
 <!-- END_AUTO: trails -->
 ## Orientation
 
@@ -942,6 +941,7 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Concept Index — barons-Mariani](concepts.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Démocratie capable](democratie_capable.md)
+- [Genèse probatoire de l’amendement d’effectivité — article 72-5](autonomia/genese_probatoire_amendement_effectivite_2026.md)
 - [La constitution minimale des communs](constitution_minimale_des_communs.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
@@ -956,15 +956,6 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - [Trail — Une Corse capable](trails/une_corse_capable.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
-- [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
-- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
-- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
-- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
-- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
-- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
-- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
-- [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->
 ---
 

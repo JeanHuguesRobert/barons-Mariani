@@ -723,5 +723,4 @@ Cette expérimentation aurait une valeur démonstrative :
 - [In deserto](../in_deserto.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Sénatoriales 2026 — dossier presse et page d’aiguillage](../senatoriales-2026/dossier_presse_2026-09.md)
-- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

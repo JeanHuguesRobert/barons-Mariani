@@ -88,91 +88,9 @@ graph LR
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
-  r_cogentia -->|121| r_barons_mariani
-  r_barons_mariani -->|93| r_cogentia
-  r_jeanhuguesrobert -->|68| r_barons_mariani
-  r_fractavolta -->|54| r_cogentia
-  r_inseme -->|45| r_cogentia
-  r_fractavolta -->|37| r_marenostrum
-  r_jeanhuguesrobert -->|36| r_cogentia
-  r_cogentia -->|30| r_inseme
-  r_barons_mariani -->|23| r_marenostrum
-  r_barons_mariani -->|22| r_fractavolta
-  r_fractavolta -->|22| r_inseme
-  r_fractavolta -->|21| r_barons_mariani
-  r_inseme -->|20| r_barons_mariani
-  r_barons_mariani -->|19| r_inseme
-  r_cogentia -->|19| r_marenostrum
-  r_marenostrum -->|19| r_cogentia
-  r_inox -->|16| r_cogentia
-  r_jeanhuguesrobert -->|16| r_marenostrum
-  r_barons_mariani -->|14| r_jeanhuguesrobert
-  r_operium -->|13| r_cogentia
-  r_inseme -->|12| r_fractavolta
-  r_inseme -->|12| r_inox
-  r_marenostrum -->|12| r_fractavolta
-  r_inox -->|11| r_barons_mariani
-  r_marenostrum -->|11| r_barons_mariani
-  r_inox -->|10| r_fractavolta
-  r_inox -->|9| r_inseme
-  r_jeanhuguesrobert -->|9| r_fractavolta
-  r_fractavolta -->|8| r_inox
-  r_inox -->|8| r_marenostrum
-  r_ubikia -->|8| r_cogentia
-  r_barons_mariani -->|7| r_inox
-  r_cogentia -->|7| r_jeanhuguesrobert
-  r_inseme -->|7| r_jeanhuguesrobert
-  r_jeanhuguesrobert -->|7| r_inseme
-  r_inseme -->|6| r_kudos
-  r_jeanhuguesrobert -->|6| r_inox
-  r_cogentia -->|5| r_fractavolta
-  r_ubikia -->|5| r_barons_mariani
-  r_barons_mariani -->|4| r_ubikia
-  r_fractavolta -->|4| r_jeanhuguesrobert
-  r_marianivillage -->|4| r_fractavolta
-  r_operium -->|4| r_inseme
-  r_operium -->|4| r_marenostrum
-  r_ubikia -->|4| r_jeanhuguesrobert
-  r_github -->|3| r_gouvernance
-  r_cogentia -->|3| r_inox
-  r_jeanhuguesrobert -->|3| r_ubikia
-  r_kudos -->|3| r_barons_mariani
-  r_operium -->|3| r_barons_mariani
-  r_gouvernance -->|2| r_barons_mariani
-  r_gouvernance -->|2| r_fractavolta
-  r_inox -->|2| r_jeanhuguesrobert
-  r_inseme -->|2| r_marenostrum
-  r_institut_mariani -->|2| r_barons_mariani
-  r_institut_mariani -->|2| r_fractavolta
-  r_marenostrum -->|2| r_jeanhuguesrobert
-  r_marenostrum -->|2| r_inseme
-  r_marenostrum -->|2| r_inox
-  r_github -->|1| r_institut_mariani
-  r_cogentia -->|1| r_operium
-  r_cogentia -->|1| r_kudos
-  r_gouvernance -->|1| r_jeanhuguesrobert
-  r_gouvernance -->|1| r_cogentia
-  r_gouvernance -->|1| r_inseme
-  r_gouvernance -->|1| r_marenostrum
-  r_gouvernance -->|1| r_inox
-  r_gouvernance -->|1| r_kudos
-  r_gouvernance -->|1| r_marianivillage
-  r_inseme -->|1| r_operium
-  r_inseme -->|1| r_privai
-  r_inseme -->|1| r_ubikia
-  r_institut_mariani -->|1| r_privai
-  r_institut_mariani -->|1| r_kudos
-  r_institut_mariani -->|1| r_marianivillage
-  r_institut_mariani -->|1| r_inseme
-  r_institut_mariani -->|1| r_cogentia
-  r_institut_mariani -->|1| r_marenostrum
-  r_institut_mariani -->|1| r_inox
-  r_jeanhuguesrobert -->|1| r_operium
-  r_kudos -->|1| r_institut_mariani
-  r_marianivillage -->|1| r_institut_mariani
-  r_privai -->|1| r_barons_mariani
-  r_privai -->|1| r_institut_mariani
 ```
+
+*(No cross-repo links detected.)*
 <!-- END_AUTO: graph -->
 ---
 
@@ -873,12 +791,6 @@ graph LR
 - [Barons Mariani](../README.md)
 - [Continuation — Constitution minimale des communs : expérimentations et règlements dérivés](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00016.md)
 - [Discours de la seconde méthode](second_method.md)
-- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
-- [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
-- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
-- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
-- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md)
-- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: possibilities -->
 ---
 

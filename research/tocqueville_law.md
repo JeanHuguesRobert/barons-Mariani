@@ -28,8 +28,7 @@ provenance:
   derived_from: []
 ---
 <!-- BEGIN_AUTO: trails -->
-> 🧭 **Trail: From Autonomia to DHITL**
-> ⬅️ Previous: [Autonomia](autonomia.md) | ➡️ Next: [GR20 : du quota à l’autonomie de capacité](gr20_autonomie_de_capacite.md)
+
 <!-- END_AUTO: trails -->
 ---
 
@@ -418,6 +417,4 @@ YouTube (2023). *YouTube Community Guidelines Enforcement: Q4 2022 Report*. San 
 - [Barons Mariani](../README.md)
 - [Research Index — barons-Mariani](index.md)
 - [tocqueville law - moved](../tocqueville_law.md)
-- [The Sovereign Digital Twin: Cogentia, Cogentigram, Cogentiscope](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cogentia-digital-twin.md)
-- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
 <!-- END_AUTO: backlinks -->

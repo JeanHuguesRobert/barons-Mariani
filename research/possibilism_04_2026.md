@@ -297,5 +297,4 @@ Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - [possibilism 04 2026 - moved](../possibilism_04_2026.md)
 - [Quand le Réel répond](quand_le_reel_repond_pkd.md)
 - [Research Index — barons-Mariani](index.md)
-- [Possibilism](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md)
 <!-- END_AUTO: backlinks -->
