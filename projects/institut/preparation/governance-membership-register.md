@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -82,11 +82,40 @@ L'absence de pièce retrouvée ne suffit pas à reconstituer trente ans de manda
 
 ## 4. Registre d'adhérents retrouvé
 
-Un Google Sheet intitulé **« Adhérents CORSICA »**, construit autour de 2018–2019, contient une trentaine de lignes avec des statuts opérationnels tels que Président, Secrétaire, Ancien secrétaire, Chargée de communication, Bénévole, Usager ou Incubé.
+Le Google Sheet **« Adhérents CORSICA »** comporte, dans l'état lu le 5 octobre 2026, **33 lignes de personnes** sous une ligne d'en-tête.
 
-Ce tableau constitue une trace d'activité et de participation, mais il ne contient pas une colonne canonique distinguant sûrement les catégories statutaires de l'article 3.
+Le tableau est manifestement un registre opérationnel construit autour de 2018–2019. Il contient notamment des étiquettes telles que :
 
-Il ne peut donc pas être utilisé seul pour calculer le quorum.
+~~~text
+Président
+Secrétaire
+Ancien secrétaire
+Chargée / chargé de communication
+Bénévole
+Bénévole + fonction
+Usager
+Incubé
+~~~
+
+Il contient également des coordonnées et données personnelles qui ne sont pas reproduites dans le Corpus public.
+
+Point déterminant : **aucune colonne ne qualifie de façon fiable les catégories juridiques de l'article 3 des statuts 1995** :
+
+~~~text
+fondateur
+membre d'honneur
+membre bienfaiteur
+membre actif
+membre adhérent
+~~~
+
+Le mot « bénévole », par exemple, ne permet pas de conclure automatiquement à « membre actif ». Le mot « usager » ne correspond à aucune catégorie du texte 1995. De même, une ligne du tableur ne prouve pas à elle seule l'agrément par le conseil d'administration exigé par l'article 3.
+
+Conséquence :
+
+> **33 lignes dans le registre ≠ 33 membres de l'AG ≠ dénominateur de quorum de 33.**
+
+Le tableur constitue une excellente piste de reconstruction, mais pas encore la liste électorale statutaire de l'association.
 
 ## 5. Bureau rapporté en 2020
 
@@ -113,6 +142,66 @@ pv_2020:
 ~~~
 
 Lancelot Reybel est directement impliqué dans la gestion bancaire de l'association en 2022–2023, ce qui soutient une fonction opérationnelle réelle sans remplacer la preuve formelle du PV.
+
+## 5 bis. Confirmation bancaire 2022–2024
+
+Les échanges de conformité bancaire permettent de mieux qualifier le PV 2020.
+
+### 2022
+
+En septembre 2022, le dossier bancaire transmis à Société Générale comprend :
+
+- les statuts 1995 ;
+- le document `PV AG ASSO CORSICA - Membres du bureau.docx` ;
+- les pièces d'identité demandées pour les responsables.
+
+Le document 2020 indique un bureau composé de :
+
+- Jean Hugues Noël Robert, Président ;
+- Lancelot Reybel, Trésorier ;
+- Marguerite Ghionga, Secrétaire.
+
+### 2023
+
+Le 14 mars 2023, Société Générale demande :
+
+- confirmation que les statuts du 25/12/1995 sont les derniers en date ;
+- les pièces d'identité du Président, du Secrétaire et du Trésorier ;
+- le dernier PV de nomination.
+
+Le 17 juillet 2023, après réception du dossier, la banque demande explicitement :
+
+> une version signée du PV du 15/10/2020, « car le PV n'est pas signé ».
+
+Elle demande également soit des statuts récents, soit une confirmation écrite que ceux du 25/12/1995 sont toujours les derniers en date.
+
+### 2024
+
+Le 6 février 2024, la conformité Société Générale écrit que :
+
+- les derniers statuts en sa possession sont ceux du 25/12/1995 ;
+- le dernier PV de nomination en sa possession est celui d'octobre 2020 ;
+- son état de connaissance du bureau est Président / Secrétaire / Trésorier selon ce PV.
+
+Cette chaîne est utile mais ne transforme pas le PV 2020 non signé en délibération pleinement prouvée.
+
+Qualification consolidée :
+
+~~~yaml
+pv_2020:
+  text_exists: ESTABLISHED
+  use_in_bank_compliance: ESTABLISHED
+  reported_bureau:
+    president: ESTABLISHED_AS_REPORTED
+    treasurer: ESTABLISHED_AS_REPORTED
+    secretary: ESTABLISHED_AS_REPORTED
+  signed_copy:
+    status: NOT_FOUND
+    corroboration: "SG explicitly reported unsigned copy in 2023"
+  institutional_effect:
+    status: PARTIALLY_CORROBORATED_BY_PRACTICE
+    note: "banking practice supports operational roles but does not replace a signed deliberation"
+~~~
 
 ## 6. Régularisation administrative 2024
 
@@ -173,6 +262,68 @@ registre 2018
 → nombre de membres en exercice
 → quorum 1/4
 → liste de convocation
+~~~
+
+## 9 bis. État du calcul de quorum au 5 octobre 2026
+
+Le calcul numérique n'est toujours pas défendable.
+
+Ce qui est établi :
+
+~~~text
+statuts 1995
+→ corps de l'AG défini par catégories
+
+registre opérationnel 2018–2019
+→ 33 personnes recensées
+→ catégories statutaires non établies
+
+PV 2020
+→ bureau rapporté
+→ signature non retrouvée
+
+PV 2025
+→ trois participants rapportés
+→ document rétrospectif
+
+membres fondateurs
+→ trois désignés par les statuts
+→ situation actuelle de deux d'entre eux à clarifier
+~~~
+
+Il serait donc incorrect de fixer aujourd'hui :
+
+~~~text
+quorum = ceil(33 / 4)
+~~~
+
+ou toute autre valeur déduite mécaniquement du tableur.
+
+La prochaine étape n'est pas un calcul : c'est une **qualification par personne** à partir d'une chaîne probatoire minimale :
+
+~~~text
+admission / qualité historique
++ éventuelle cotisation ou participation pertinente
++ absence / présence de démission ou radiation
++ décisions ultérieures
+→ catégorie statutaire candidate
+→ droit de participer à l'AG
+→ corps électoral consolidé
+→ quorum
+~~~
+
+Une fois le corps électoral consolidé, l'article 17 donne :
+
+~~~text
+première convocation
+→ quorum = 1/4 des membres en exercice
+
+seconde convocation si échec
+→ au moins 15 jours plus tard
+→ pas de quorum minimum selon le texte 1995
+
+adoption
+→ 2/3 des présents ou représentés
 ~~~
 
 ## 10. Alternative d'initiative
