@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.3"
+version: "0.4"
 status: "working-transcription — human review required"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -135,9 +135,9 @@ Elle peut être rachetée en versant une somme fixée forfaitairement à 10% de 
 
 Les cotisations annuelles peuvent être relevées par décision de l’assemblée générale. Sur décision de l’assemblée générale un taux spécial pourra être prévu pour les personnes morales.
 
-Le titre de membre d’honneur peut être décerné par le conseil d’administration aux personnes qui rendent ou qui ont rendu des services signalés à l’association. Ce titre confère aux personnes qui l’ont obtenu le droit de faire partie des l’assemblée générale sans être tenues de payer une cotisation.
+Le titre de membre d’honneur peut être décerné par le conseil d’administration aux personnes qui rendent ou qui ont rendu des services signalés à l’association. Ce titre confère aux personnes qui l’ont obtenu le droit de faire partie de l’assemblée générale sans être tenues de payer une cotisation.
 
-Le titre de membre bienfaiteur peut être décerné par le conseil d’administration aux personnes qui rendent ou ont rendu des services signalés à l’association. Contrairement aux membre d’honneur, les membres bienfaiteurs sont tenu de cotiser pour faire partie de l’assemblée générale.
+Le titre de membre bienfaiteur peut être décerné par le conseil d’administration aux personnes qui rendent ou ont rendu des services signalés à l’association. Contrairement aux membres d’honneur, les membres bienfaiteurs sont tenus de cotiser pour faire partie de l’assemblée générale.
 
 ## Article 4
 
@@ -145,7 +145,7 @@ La qualité de membre de l’association se perd :
 
 1° Par la démission ;
 
-2° Par la radiation prononcée, pour non-paiement de la cotisation ou pour motif graves, par le conseil d’administration, sauf recours à l’assemblée générale. Le membre intéressé est préalablement appelé à fournir ses explications.
+2° Par la radiation prononcée, pour non-paiement de la cotisation ou pour motifs graves, par le conseil d’administration, sauf recours à l’assemblée générale. Le membre intéressé est préalablement appelé à fournir ses explications.
 
 ---
 
@@ -235,7 +235,7 @@ Les délibérations du conseil d’administration relatives aux acquisitions, é
 
 ## Article 11
 
-Si nécessaire, les délibérations du conseil d’administration relatives à l’acceptation des dos et legs ne sont valables qu’après approbation administrative données dans les conditions prévues par l’article 910 du code civil, l’article 7 de la loi du 4 février 1901 et le décret n° 66-388 du 13 juin 1966 modifiés.
+Si nécessaire, les délibérations du conseil d’administration relatives à l’acceptation des dons et legs ne sont valables qu’après approbation administrative données dans les conditions prévues par l’article 910 du code civil, l’article 7 de la loi du 4 février 1901 et le décret n° 66-388 du 13 juin 1966 modifiés.
 
 Si nécessaire, les délibérations de l’assemblées générale relatives aux aliénations de biens mobiliers ou immobiliers dépendant de la dotation, à la constitution d’hypothèques et aux emprunts, ne sont valables qu’après approbation administrative.
 
@@ -263,7 +263,7 @@ La dotation comprend :
 
 ## Article 14
 
-Tous les capitaux mobiliers, y compris ceux de la dotation, sont placés en titre nominatifs, en titres pour lesquels est établi le bordereau de références nominatives prévu à l’article 55 de la loi n° 87-416 du 17 juin 1987 sur l’épargne ou en valeurs admises par la Banque de France en garantie d’avance.
+Tous les capitaux mobiliers, y compris ceux de la dotation, sont placés en titres nominatifs, en titres pour lesquels est établi le bordereau de références nominatives prévu à l’article 55 de la loi n° 87-416 du 17 juin 1987 sur l’épargne ou en valeurs admises par la Banque de France en garantie d’avance.
 
 ## Article 15
 
@@ -297,7 +297,7 @@ Si nécessaire il est justifié chaque année auprès du préfet du département
 
 ## Article 17
 
-Les statuts peuvent être modifiés par l’assemblée générale sur la proposition du conseil d’administration ou sur la proposition de dixième des membres dont se compose l’assemblée générale.
+Les statuts peuvent être modifiés par l’assemblée générale sur la proposition du conseil d’administration ou sur la proposition du dixième des membres dont se compose l’assemblée générale.
 
 Dans l’un et l’autre cas, les propositions de modifications sont inscrites à l’ordre du jour de la prochaine assemblée générale, lequel doit être envoyé à tous les membres de l’assemblée au moins quinze jours à l’avance, par courrier électronique éventuellement.
 
@@ -354,3 +354,11 @@ ainsi que trois signatures manuscrites correspondant au bloc des trois administr
 Quelques formulations présentent des fautes grammaticales ou typographiques visibles dans le scan (« des l’assemblée », « membre », « fixé », « remboursement », « dos et legs », « assemblées générale », etc.). Elles ont été conservées plutôt que corrigées silencieusement.
 
 La prochaine revue doit comparer ligne à ligne cette transcription au scan et, le cas échéant, consigner chaque correction dans l’historique Git.
+
+## Revue visuelle du 5 octobre 2026
+
+Une seconde lecture visuelle page par page a été comparée à la transcription. Les corrections de lecture consignées dans `statuts-corsica-1995-transcription-errata.md` ont été intégrées à cette v0.4.
+
+Le fichier alternatif `Status CORSICA.pdf` (SHA-256 `d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611`) a été rendu et comparé à l'autre copie d'archive : le contenu documentaire rendu des six pages est identique.
+
+La transcription reste `human_validation_required: true` : en cas de divergence future, le scan primaire prévaut.
