@@ -65,14 +65,13 @@ related_documents:
   - "research/tensions_liberte_egalite_fraternite_effectives.md"
   - "research/triangulation_du_reel.md"
   - "research/review_protocol.md"
-  - "research/reviews/review_claude_moyens_et_finalites_2026-10-04.md"
   - "projects/capable/doctrine.md"
   - "JeanHuguesRobert/cogentia:research/documents_as_cognitive_packets.md"
   - "JeanHuguesRobert/cogentia:research/trace_treatment_packet.md"
 x-cognitive-packet:
   candidate: true
   profile: "document-backed-capsule"
-  causal_frontier: "git:10970fa7795b826e2359769532d49ddd5edbbaaa"
+  causal_frontier: "v0.3-draft-local-copy"
   transmission_modes:
     - "markdown-file"
     - "copy-paste"
@@ -998,3 +997,389 @@ mais également éviter de présenter la suppression d'une possibilité comme é
 ## IA7 — Risque de multiplication ontologique
 
 Termes proposés :
+
+- voie capacitaire ;
+- cascade capacitaire ;
+- dépendance capacitaire ;
+- redondance capacitaire ;
+- fenêtre capacitaire ;
+- acteur de seuil.
+
+**Objection**
+
+Le Corpus pourrait simplement accumuler des substantifs nouveaux pour décrire des phénomènes connus.
+
+**Disposition proposée : `conceded:load-bearing`**
+
+Chaque terme doit réussir un test d'utilité :
+
+```text
+permet-il une distinction ou une prédiction
+que le vocabulaire existant exprime moins bien ?
+```
+
+Sinon, le terme doit être supprimé.
+
+`acteur de seuil` reste volontairement absent du noyau normatif de cette version.
+
+## IA8 — La devise républicaine ne constitue pas seule un standard juridique opérationnel
+
+**Objection**
+
+Relier Liberté, Égalité, Fraternité à l'effectivité pourrait donner l'impression de déduire directement des obligations juridiques déterminées de la devise constitutionnelle.
+
+**Disposition proposée : `corrected`**
+
+Le document doit maintenir la distinction :
+
+```text
+orientation doctrinale
+≠
+standard juridictionnel déjà consacré
+```
+
+L'amendement d'effectivité lui-même formule cette prudence.
+
+## IA9 — Le document risque de confondre défaut du moyen et mauvaise application du moyen
+
+**Objection**
+
+Un mécanisme peut être correctement conçu mais mal appliqué localement.
+
+**Disposition proposée : `integrated`**
+
+Chaque cas devra distinguer :
+
+```text
+défaut de conception
+défaut de règle
+défaut d'interprétation
+défaut d'application
+défaut de correction
+effet émergent de plusieurs règles
+```
+
+Cette distinction devra être renforcée en v0.2.
+
+## IA10 — Le concept d'inversion risque d'être trop spectaculaire
+
+**Objection**
+
+La majorité des cas observés pourraient relever d'un simple arbitrage imparfait et non d'une inversion.
+
+**Disposition proposée : `integrated`**
+
+La gradation :
+
+```text
+friction
+→ désajustement
+→ inversion
+```
+
+doit rester obligatoire.
+
+Le terme « inversion » constitue une conclusion exigeante.
+
+## IA11 — Document et Cognitive Packet étaient trop directement identifiés
+
+**Objection**
+
+La v0.1 assimilait le document au Cognitive Packet lui-même, alors que le Corpus distingue désormais Logical Packet, Packet Capsule, document, placement et transport.
+
+**Disposition proposée : `corrected`**
+
+La v0.2 remplace cette assimilation par une identité logique du travail représentée par des Capsules documentaires successives.
+
+## IA12 — Le cycle de vie de la revue brute était sous-spécifié
+
+**Objection**
+
+Conserver automatiquement toutes les revues brutes augmenterait le bruit et confondrait durabilité du Packet avec rétention permanente dans le Corpus.
+
+**Disposition proposée : `integrated`**
+
+Une revue brute peut rester transitoire après assimilation complète de ses findings, résidus ouverts, identité et dispositions. Les anciennes versions du document principal sont `SUPERSEDE`, non effacées.
+
+# 17. Rapport de dispositions de la revue interne
+
+| ID | Objection | Disposition | État |
+|---|---|---|---|
+| IA1 | auto-confirmation | `integrated` | garde-fou explicite |
+| IA2 | prior art / renommage | `conceded:load-bearing` | ouvert |
+| IA3 | capacité trop extensive | `reformulate` | ouvert |
+| IA4 | secret peut être optimal | `conceded:load-bearing` | ouvert |
+| IA5 | présentation ≠ suffrage | `conceded:bounding` | borné |
+| IA6 | poids pratique de la voie perdue | `integrated` | distinction ajoutée |
+| IA7 | inflation terminologique | `conceded:load-bearing` | ouvert |
+| IA8 | devise ≠ standard juridictionnel autonome | `corrected` | corrigé |
+| IA9 | conception ≠ application | `integrated` | à développer |
+| IA10 | « inversion » trop facile | `integrated` | gradation conservée |
+| IA11 | document ≠ Packet logique | `corrected` | architecture mise à niveau |
+| IA12 | rétention des revues | `integrated` | revue brute transitoire possible après assimilation |
+
+La prochaine revue ne doit pas recompter comme découvertes les objections déjà présentes ici, sauf si leur traitement est inadéquat ou `load-bearing`.
+
+
+# 17 bis. Dispositions préparatoires de la revue adverse externe Claude — 2026-10-04
+
+La revue externe Claude Sonnet 5.5 est décorrélée de la rédaction par fournisseur et famille de modèle, mais le Reviewer déclare avoir déjà vu la v0.1 ; sa décorrélation globale est donc **moyenne**, non maximale.
+
+Les dispositions ci-dessous sont préparatoires à l'arbitrage humain :
+
+| ID | Finding | Disposition proposée | Effet v0.3 |
+|---|---|---|---|
+| E-A | références à v0.2 comme version future | `corrected` | prochaine version = v0.3 / version suivante |
+| E-B | identité du Packet tenue pour acquise | `corrected` | identité explicitement provisoire |
+| D1 | ontologie Packet envahissante | `integrated` | architecture déclarée méthodologique, non prémisse de H1–H6 |
+| D2 | prior art identité documentaire | `piste` | à traiter dans le chantier Documents as Cognitive Packets, pas ici |
+| D3 | finalité supposée stable | `reformulate` | finalité relativement stable, explicitée et elle-même révisable |
+| D4 | TTP non validé + asymétrie confirmante | `integrated` | statut expérimental + exemple adverse ajouté |
+| D5 | destruction possible de la revue brute | `corrected` | revue adverse matérielle → COOL / ARCHIVE |
+| D6 | frontmatter Packet insuffisant | `reformulate` | Minimum Sufficient Locality conservé ; métadonnées expérimentales minimales |
+| D7 | H4 sans prédiction datée | `integrated` | pré-enregistrement ajouté ci-dessous |
+| D8 | incohérence d'alinéa dans l'amendement | `arbitration` | à vérifier dans le document source de l'amendement |
+
+Les findings de la revue v0.1 de Claude restent ouverts lorsqu'ils concernent des sections inchangées ; ils ne sont pas recomptés ici.
+
+# 18. Mandat embarqué pour le Reviewer externe décorrélé
+
+## 18.1 Ciblage
+
+Le Reviewer doit commencer sa réponse par un frontmatter conforme au `research/review_protocol.md`, indiquant au minimum :
+
+```yaml
+review_target:
+  repository: "JeanHuguesRobert/barons-Mariani"
+  files:
+    - "research/moyens_et_finalites.md"
+  reviewed_version: "v0.3-draft"
+  reviewed_commit: "<commit exact si publié ; sinon SHA256 ou identifiant stable de la copie transmise>"
+  review_scope: "conceptual / constitutional / electoral / empirical / methodological"
+  requested_by: "Jean Hugues Noël Robert"
+  reviewer: "<agent et modèle>"
+  review_date: "<date>"
+  human_validation_required: true
+```
+
+Le Reviewer doit également traiter la transmission elle-même comme un Reality Test de **Packet Closure** :
+
+```text
+Closed(p,h,E)
+```
+
+où `p` est la Capsule reçue, `h` le Reviewer externe, et `E` la copie Markdown plus les références publiques effectivement résolubles.
+
+Il doit indiquer s'il a pu reconstruire et critiquer le travail sans contexte conversationnel privé du prédécesseur.
+
+Le Reviewer doit déclarer :
+
+- son accès réel aux sources ;
+- ses indisponibilités ;
+- toute exposition préalable au raisonnement ;
+- son degré de décorrélation ;
+- les risques de cadre partagé.
+
+## 18.2 Instruction au Reviewer
+
+> Vous êtes **Reviewer adverse et non décisionnel** d'un document source vivant.
+>
+> Votre tâche n'est pas d'améliorer charitablement sa thèse. Cherchez d'abord à déterminer **où elle est fausse, redondante, triviale, insuffisamment distinguée, auto-confirmatrice ou empiriquement indécidable**.
+>
+> Appliquez le contrat canonique `JeanHuguesRobert/cogentia/prompts/reviewer.md` et le protocole `JeanHuguesRobert/barons-Mariani/research/review_protocol.md`.
+>
+> L'auteur du document est personnellement impliqué dans l'un des cas étudiés. Considérez ce conflit d'intérêt épistémique comme matériel.
+>
+> Testez particulièrement les propositions suivantes :
+>
+> 1. L'« Autonomie de Capacité » et le vocabulaire proposé apportent-ils quelque chose qui ne soit déjà correctement couvert par la proportionnalité, l'effectivité des droits, la capabilities approach, les veto points, les coûts de transaction ou la résilience institutionnelle ?
+> 2. Le cas de candidature sénatoriale permet-il réellement une généralisation ou le document transforme-t-il un contentieux individuel en théorie ?
+> 3. Le secret du vote des grands électeurs produit-il un véritable déficit évitable d'imputabilité, ou ce déficit est-il inséparable de la protection contre la coercition et l'achat vérifiable du vote ?
+> 4. L'obligation de participation et le secret sont-ils réellement en tension fonctionnelle une fois prise en compte la théorie de l'électorat-fonction ?
+> 5. L'interdiction du mandat impératif est-elle correctement utilisée ou surinterprétée ?
+> 6. La comparaison avec les présentations présidentielles est-elle heuristique ou fallacieuse compte tenu de leur différence de nature juridique ?
+> 7. Existe-t-il des données empiriques sérieuses contredisant l'hypothèse selon laquelle la publicité des présentations crée un filtre politique ou réputationnel matériel ?
+> 8. La « perte de voie personnelle » possède-t-elle une portée analytique réelle lorsqu'existent plusieurs voies alternatives vers le même amendement ?
+> 9. Les concepts de voie, cascade, dépendance, redondance, fenêtre et irréversibilité capacitaires produisent-ils des distinctions testables, ou constituent-ils une inflation terminologique ?
+> 10. Le document distingue-t-il suffisamment défaut de conception, défaut normatif, mauvaise application, erreur administrative, absence de correction et effet émergent ?
+> 11. Les références à Liberté, Égalité, Fraternité restent-elles descriptives/doctrinales là où aucun standard juridictionnel précis ne peut être déduit de la devise ?
+> 12. Quelle observation, jurisprudence, donnée ou théorie ferait le plus fortement **échouer** la thèse générale du document ?
+>
+> Ne répétez pas les concessions déjà présentes comme découvertes nouvelles. Appliquez **Rule N**. Les concessions `load-bearing` restent en revanche ouvertes.
+>
+> Vérifiez les faits juridiques importants sur des sources primaires et actuelles.
+>
+> Lorsque l'état de l'art importe, ne vous limitez pas aux références académiques historiques : recherchez également travaux contemporains, jurisprudence, institutions comparées et données empiriques pertinentes.
+>
+> Vous pouvez conclure :
+>
+> - `No findings`
+> - `No revision warranted`
+>
+> pour toute section où aucun apport substantiel n'existe.
+>
+> Ne gonflez pas artificiellement la revue.
+
+## 18.3 Livrable demandé
+
+Le Reviewer doit fournir les sections prévues par le contrat canonique, avec une attention particulière à :
+
+1. **Errors**
+2. **Novel objections**
+3. **Concessions assessed**
+4. **Fragile concepts**
+5. **Prior art / state of the art**
+6. **Blind spots**
+7. **Correlation risks**
+8. **Booster opportunities**
+9. **Falsification opportunities**
+10. **Recommendation**
+
+Pour chaque finding :
+
+```text
+localisation
+→ objection
+→ preuve / raisonnement
+→ gravité
+→ action proposée
+```
+
+Le Reviewer **ne décide pas** de son intégration.
+
+# 19. Contrat de reprise après revue externe
+
+Lorsque la revue externe revient :
+
+```text
+review
+→ vérification du ciblage
+→ rejet si mauvais document/version
+→ extraction des findings
+→ disposition Redactor pour chacun
+→ table d'intégration
+→ arbitrage humain de Jean Hugues Noël Robert
+→ version suivante
+```
+
+Chaque finding reçoit exactement une disposition :
+
+- `corrected`
+- `integrated`
+- `conceded:bounding`
+- `conceded:load-bearing`
+- `piste`
+- `reformulate`
+- `rejected`
+- `arbitration`
+
+Les marqueurs `[unverified]` et `[provisional]` ne sont jamais silencieusement supprimés.
+
+
+# 19 bis. Politique de cycle de vie
+
+Le cycle de vie distingue au moins quatre opérations :
+
+- `DISCARD` — destruction d'un travail explicitement transitoire une fois son rendement assimilé ;
+- `COOL / ARCHIVE` — réduction de disponibilité cognitive sans perte d'historique ;
+- `SUPERSEDE` — remplacement de l'état de référence par une version ultérieure avec conservation de la relation ancienne→nouvelle ;
+- `ERASE` — suppression intentionnelle de contenu historique durable, qui exige une autorité distincte.
+
+Application au présent Packet :
+
+```text
+ancienne version du document
+→ SUPERSEDE
+
+revue adverse matérielle, surtout en présence d'un conflit d'intérêt ou d'une contestation substantielle
+→ COOL / ARCHIVE après assimilation
+
+travail réellement transitoire, redondant et sans valeur d'audit résiduelle
+→ peut être DISCARD
+
+résidu non résolu
+→ doit rester visible / routable
+
+historique doctrinal
+→ ne doit pas être silencieusement ERASE
+```
+
+Principe local retenu après revue adverse :
+
+> **Une revue externe substantielle ne doit pas être détruite lorsque sa conservation permet d'auditer l'assimilation par la partie revue.**
+
+La table de dispositions est une synthèse ; elle ne remplace pas nécessairement la trace brute lorsque cette trace a une valeur d'audit.
+
+
+# 20. Critère de sortie du cycle
+
+Le document ne doit pas être stabilisé parce qu'il a reçu « beaucoup de revues ».
+
+Le plateau est atteint lorsque :
+
+- les erreurs factuelles significatives sont corrigées ;
+- les objections nouvelles deviennent majoritairement répétitives ;
+- les concessions load-bearing restantes sont explicitement visibles ;
+- les termes conservés ont démontré leur utilité ;
+- les principales hypothèses disposent d'un critère de réfutation ;
+- une nouvelle passe risquerait davantage d'augmenter le bruit que la robustesse.
+
+Alors seulement :
+
+```text
+working-paper
+→ release_candidate
+→ validation humaine
+→ stable
+```
+
+Une nouvelle observation du Réel pourra toujours rouvrir le paquet.
+
+
+# Annexe A — Enveloppe méthodologique du Packet
+
+Cette annexe contient ce qui relève du transport et de la reprise du travail, non de l'argument institutionnel lui-même.
+
+Le document principal doit rester critiquable par un lecteur ignorant Cogentia. Les notions de Logical Packet, Packet Capsule, causal frontier, Review Packet, Hypothesis Packet et Trace Treatment Packet ne sont pas nécessaires pour accepter ou réfuter H1–H6.
+
+Elles servent uniquement à :
+
+```text
+préserver la provenance
+router la revue
+rendre la continuation explicite
+conserver les objections
+préparer l'assimilation
+```
+
+Leur utilité est elle-même soumise au test :
+
+> si elles n'améliorent ni la reprise, ni l'auditabilité, ni la qualité de la contradiction, elles doivent être réduites ou supprimées de cette Capsule.
+
+# 21. Prochain état attendu
+
+```text
+CURRENT
+v0.3-draft
++ revue adverse interne corrélée
++ revue adverse externe Claude du 2026-10-04
++ dispositions préparatoires intégrées, arbitrage humain encore requis
+
+NEXT
+transmission par copie à un Reviewer externe décorrélé
+→ Reality Test de Packet Closure
+
+THEN
+dispositions
+→ arbitrage humain
+→ version suivante
+```
+
+Le document reste actuellement :
+
+```text
+open
+revisable
+unreviewed externally
+human arbitration required
+```
