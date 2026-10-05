@@ -5,8 +5,8 @@ description: "Registre public minimal des conditions de calcul du quorum, sans p
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.7"
+last_modified_at: "2026-10-05"
+version: "0.8"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -281,6 +281,39 @@ Principe conservatoire pour la convocation :
 > toute personne dont la qualité votante reste raisonnablement plausible doit être traitée de manière à ne pas être silencieusement privée de la possibilité de faire valoir sa qualité ; la qualification définitive doit être traçable avant le calcul du quorum.
 
 Cette formulation est une règle de robustesse documentaire, non une conclusion juridique sur un cas individuel.
+
+## 3 novies. Triangulation avec les trois participants décrits à l'AG 2025
+
+Un rapprochement privé a été effectué entre le PV rétrospectif de l'AG 2025 et le registre opérationnel 2018–2019.
+
+Résultat agrégé :
+
+~~~yaml
+ag_2025_reported_participants: 3
+found_in_2018_2019_operational_register: 3
+operational_labels:
+  president: 1
+  volunteer: 1
+  volunteer_incubated: 1
+explicit_adhesion_field_filled_for_these_rows: 0
+entry_date_filled_for_these_rows: 0
+~~~
+
+Cette convergence confirme que les personnes décrites dans le PV 2025 appartenaient bien à l'écosystème opérationnel historique de l'association.
+
+Elle **ne résout pas** le problème statutaire :
+
+~~~text
+présence dans un ancien registre opérationnel
++
+présence rapportée à une AG
+≠
+preuve d'agrément au sens de l'article 3
+≠
+catégorie statutaire 1995 établie
+~~~
+
+Le cas est particulièrement instructif : même les participants les mieux documentés de l'AG récente ne permettent pas de déduire mécaniquement le dénominateur juridique du quorum.
 
 ## 4. Reconstruction requise
 
