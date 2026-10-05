@@ -1,0 +1,60 @@
+schema: napoleon.corpus.v0
+project: "Napoléon"
+slug: napoleon
+status: working
+language: fr
+visibility: public
+updated: "2026-10-05"
+source_of_truth: "repository files under projects/napoleon, GitHub issue 99, and Cogentia Twin #103"
+issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/99"
+target_identity: "https://napoleon.acorsica.org"
+target_identity_status: "prepared name only; DNS and deployment managed via Operium; not a frozen edition"
+canonical_question: "Comment dissocier rigoureusement les faits historiques, les lectures historiographiques, le modèle stratégique probabiliste (Twin) et ses transpositions contemporaines sans céder au biais du survivant ?"
+
+architecture:
+  implementation: projects/napoleon/architecture.md
+  editorial: projects/napoleon/README.md
+  sources_policy: projects/napoleon/sources.md
+  contribuer: projects/napoleon/contribuer.md
+  manuscript: projects/napoleon/manuscript/
+  magazine: projects/napoleon/magazine/
+  guide_profile: projects/napoleon/guide-profile.yml
+  site: projects/napoleon/site/
+  deploy: projects/napoleon/deploy/README.md
+  rule: "Napoléon historique ≠ historiographie ≠ Twin ≠ application contemporaine. Les échecs sont des données de première classe."
+
+realities:
+  - id: four-planes-separation
+    status: consolidated
+    statement: "Le corpus interdit formellement de mélanger les faits attestés (sources primaires), les débats historiographiques, les hypothèses du Twin et les transpositions dans l'actualité."
+  - id: balanced-campaigns
+    status: consolidated
+    statement: "L'analyse stratégique refuse le biais du vainqueur : les campagnes catastrophiques (Russie, Espagne, Leipzig, Waterloo, Acre) sont instruites avec la même rigueur analytique que les victoires (Ulm, Austerlitz, Italie)."
+  - id: twin-provisional
+    status: consolidated
+    statement: "Le Provisional Cogentia Twin Napoléon (Issue #103) ne parle jamais à la première personne et ne forge aucune citation. Il formule des inférences stratégiques probabilistes et falsifiables."
+  - id: public-host
+    status: prepared
+    statement: "Nom de domaine cible : napoleon.acorsica.org. Déploiement statique autonome sans modification DNS ou serveur non autorisée."
+
+sources:
+  - id: issue-99
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/99"
+    role: continuation-packet
+    required: true
+  - id: issue-100
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/100"
+    role: umbrella-programme
+    required: true
+  - id: issue-103
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/103"
+    role: provisional-twin
+    required: true
+  - id: twin-napoleon-profile
+    path: "https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/twin/profiles/napoleon-provisional.md"
+    role: twin-canonical-profile
+    required: true
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true

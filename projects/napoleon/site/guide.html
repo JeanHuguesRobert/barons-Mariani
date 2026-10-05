@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Guide Conversationnel Borné — Napoléon</title>
+<meta name="description" content="Guide public conversationnel borné du Livre Vivant Napoléon. Réponses ancrées sur les sources primaires et le profil du Twin, sans hallucination ni oracle.">
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://napoleon.acorsica.org/guide.html">
+</head>
+<body data-page="guide" data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="napoleon">
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Napoléon</a></p>
+  <nav aria-label="Navigation principale">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="campagnes.html">Campagnes</a>
+    <a href="controverses.html">Controverses</a>
+    <a href="sources.html">Sources</a>
+    <a href="twin.html">Twin</a>
+    <a href="magazine.html">Magazine</a>
+    <a href="guide.html" aria-current="page">Guide</a>
+    <a href="contribuer.html">Contribuer</a>
+  </nav>
+</header>
+<main id="contenu">
+  <p class="pill">Face 4 · Profil napoleon · 8 Invariants Stricts</p>
+  <h1>Guide Public Conversationnel Borné</h1>
+  <p class="lede">Ce Guide interroge le corpus du Livre Vivant Napoléon. Il répond exclusivement à partir des sources vérifiées, des 10 campagnes et des règles d'inférence du <em>Provisional Cogentia Twin</em> (#103). <strong>Il ne s'exprime jamais à la première personne (« je »), n'invente aucune citation apocryphe et ne conserve aucune donnée sur serveur.</strong></p>
+
+  <div class="card">
+    <h3>Les 8 invariants appliqués en temps réel</h3>
+    <ul>
+      <li><strong>1. Séparation des 4 plans :</strong> distinction impérative entre Histoire (Plan A), Historiographie (Plan B), Inférence du Twin (Plan C) et Transposition contemporaine (Plan D).</li>
+      <li><strong>2. Ancrage strict :</strong> citation systématique des sources documentées (archives SHD, Correspondance générale Fayard, travaux universitaires).</li>
+      <li><strong>3. Statut probabiliste :</strong> les analyses stratégiques sont énoncées comme des hypothèses falsifiables du Twin et non comme des vérités absolues.</li>
+      <li><strong>4. Échecs comme données de premier rang :</strong> les revers (Russie, Espagne, Acre, Leipzig, Waterloo) sont analysés avec la même précision que les victoires d'Ulm ou d'Austerlitz.</li>
+      <li><strong>5. Limites de transposition :</strong> identification formelle des ruptures matérielles et juridiques avant toute analogie contemporaine (ex. avec la <em>Campagne du Réel</em>).</li>
+      <li><strong>6. Zéro oracle, zéro citation inventée :</strong> interdiction absolue du pastiche théâtral et des maximes apocryphes.</li>
+      <li><strong>7. Rigueur Janus :</strong> séparation entre la reconstitution causale du passé et l'exploration prospective du futur.</li>
+      <li><strong>8. Zéro rétention :</strong> traitement respectueux de la vie privée sans profilage ni enregistrement de vos requêtes.</li>
+    </ul>
+  </div>
+
+  <h2>Interroger le Guide</h2>
+  <div class="filter-bar" role="group" aria-label="Questions suggérées">
+    <button type="button" class="filter-btn" data-sample="Quelle est la doctrine de manœuvre sur les lignes intérieures dans la Première campagne d'Italie ?">Lignes intérieures (1796)</button>
+    <button type="button" class="filter-btn" data-sample="Comment le Twin analyse-t-il la rupture logistique de la campagne de Russie en 1812 ?">Rupture logistique (Russie 1812)</button>
+    <button type="button" class="filter-btn" data-sample="Quelles sont les sources authentifiées sur le rétablissement de l'esclavage en 1802 ?">Esclavage (1802)</button>
+    <button type="button" class="filter-btn" data-sample="En quoi le siège de Saint-Jean-d'Acre illustre-t-il une limite de soutenabilité maritime ?">Saint-Jean-d'Acre (1799)</button>
+  </div>
+
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <form id="ask">
+    <label for="question">Votre question sur les faits historiques, les campagnes ou le modèle stratégique du Twin :</label>
+    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. Quelles sont les faiblesses opérationnelles identifiées lors de la campagne de 1813 à Leipzig ?" required></textarea>
+    <button type="submit" id="ask-btn">Interroger le Guide</button>
+    <button type="button" class="secondary" id="clear-log">Effacer l'historique local</button>
+  </form>
+
+  <section class="card" aria-labelledby="draft-title" style="margin-top: 2.5rem;">
+    <h2 id="draft-title">Préparer une contribution ou objection locale</h2>
+    <p>Vous souhaitez contester une hypothèse du Twin ou signaler une source primaire absente ? Préparez votre texte sur votre appareil. Rien n'est envoyé automatiquement.</p>
+    <div class="row" style="margin-bottom: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <button type="button" class="button" id="prepare-objection">Préparer une objection contre le Twin</button>
+      <button type="button" class="button secondary" id="prepare-source">Signaler une source primaire</button>
+    </div>
+    <label for="draft-to">Destinataire suggéré</label>
+    <input id="draft-to" name="to" type="text" readonly value="direction@baronsmariani.org">
+    <label for="draft-subject">Objet du message</label>
+    <input id="draft-subject" name="subject" type="text" value="[Observation Livre Vivant Napoléon] ">
+    <label for="draft-body">Corps du message (éditable)</label>
+    <textarea id="draft-body" name="body" rows="8"></textarea>
+    <button type="button" class="button" id="copy-draft">Copier le brouillon dans le presse-papier</button>
+    <p id="draft-status" class="byline" role="status" style="margin-top: 0.5rem;"></p>
+  </section>
+
+</main>
+<footer>
+  <p>Napoléon · Direction éditoriale : Jean Hugues Noël Robert, baron Mariani · Institut Mariani / C.O.R.S.I.C.A. · Licence CC BY-SA 4.0</p>
+  <p><a href="index.html">Accueil</a> · <a href="book.html">Livre</a> · <a href="campagnes.html">Campagnes</a> · <a href="controverses.html">Controverses</a> · <a href="sources.html">Sources</a> · <a href="twin.html">Twin</a> · <a href="magazine.html">Magazine</a> · <a href="guide.html">Guide</a> · <a href="contribuer.html">Contribuer</a> · <a href="mentions.html">Mentions légales</a></p>
+</footer>
+
+<script src="guide.js"></script>
+</body>
+</html>

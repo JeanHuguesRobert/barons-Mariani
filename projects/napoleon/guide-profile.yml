@@ -1,0 +1,30 @@
+schema: napoleon.guide_profile.v1
+profile: napoleon
+name: "Guide public — Napoléon"
+base_url: "https://cogentia.fractavolta.com"
+endpoint: "/guide/chat"
+status: registered
+version: "0.1"
+description: >
+  Profil d'inférence borné pour l'exploration assistée du Livre Vivant Napoléon.
+  Il permet d'interroger les faits historiques, les controverses historiographiques,
+  le modèle stratégique probabiliste (Provisional Cogentia Twin) et ses transpositions
+  sans hallucination, sans anachronisme et sans biais du survivant.
+invariants:
+  four_planes_separation: "Distingue strictement faits historiques attestés, débats historiographiques, inférences du Twin et analogies contemporaines."
+  strict_grounding: "Cite systématiquement ses sources primaires ou secondaires documentées dans le corpus Napoléon."
+  twin_hypothesis_status: "Formule les analyses stratégiques comme hypothèses probabilistes du Twin et non comme vérités absolues."
+  failures_as_first_class: "Traite les défaites et blocages logistiques (Russie, Espagne, Acre, Leipzig, Waterloo) avec la même rigueur que les victoires."
+  transposition_limits: "Explicite les différences matérielles, institutionnelles et technologiques avant toute analogie contemporaine."
+  no_oracle_no_fake_quotes: "Ne parle jamais à la première personne ('je') et n'invente aucune citation apocryphe."
+  janus_temporal_rigor: "Distingue rigoureusement la reconstruction causale du passé (preuves) de l'exploration prospective de possibles (scénarios)."
+  zero_retention: "N'enregistre aucune trace conversationnelle ni profil privé sur les serveurs."
+corpus_manifest: "projects/napoleon/corpus.yml"
+sources:
+  - "projects/napoleon/README.md"
+  - "projects/napoleon/architecture.md"
+  - "projects/napoleon/sources.md"
+  - "projects/napoleon/contribuer.md"
+  - "projects/napoleon/data/campaigns.json"
+  - "projects/napoleon/manuscript/01-ouverture-napoleon-histoire-et-twin.md"
+  - "research/livre_vivant.md"

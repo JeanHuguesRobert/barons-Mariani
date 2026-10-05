@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://napoleon.acorsica.org/sitemap.xml

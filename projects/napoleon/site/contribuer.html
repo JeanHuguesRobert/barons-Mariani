@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contribuer &amp; Contredire — Napoléon</title>
+<meta name="description" content="Protocole de contribution et d'objection critique pour le Livre Vivant Napoléon. Réfutations du Twin et signalements de sources primaires.">
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://napoleon.acorsica.org/contribuer.html">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Napoléon</a></p>
+  <nav aria-label="Navigation principale">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="campagnes.html">Campagnes</a>
+    <a href="controverses.html">Controverses</a>
+    <a href="sources.html">Sources</a>
+    <a href="twin.html">Twin</a>
+    <a href="magazine.html">Magazine</a>
+    <a href="guide.html">Guide</a>
+    <a href="contribuer.html" aria-current="page">Contribuer</a>
+  </nav>
+</header>
+<main id="contenu">
+  <p class="pill">Face 5 · Collecte &amp; Contradiction</p>
+  <h1>Contribuer &amp; Contredire</h1>
+  <p class="lede">Un Livre Vivant ne se consolide pas par l'assentiment passif, mais par l'épreuve de la réfutation. <strong>Toute objection sourcée qui invalide une hypothèse du Twin ou rectifie une chronologie est prioritaire.</strong></p>
+
+  <div class="call">
+    <h3>Règle de séparation obligatoire</h3>
+    <p>Conformément à l'<a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/napoleon/contribuer.md">architecture du projet</a>, toute soumission doit déclarer avec précision le plan épistémique visé :</p>
+    <ul>
+      <li><strong>Plan A — Fait d'archive ou source primaire :</strong> document inédit, erreur matérielle de date, de lieu ou de texte ;</li>
+      <li><strong>Plan B — Lecture historiographique :</strong> école de pensée ou controverse universitaire omise ;</li>
+      <li><strong>Plan C — Modèle du Twin (#103) :</strong> contre-exemple historique infirmant une règle d'inférence décisionnelle ;</li>
+      <li><strong>Plan D — Reality Test contemporain :</strong> observation d'une limite méthodologique dans une transposition.</li>
+    </ul>
+  </div>
+
+  <h2>Formulaire de préparation locale</h2>
+  <p>Ce formulaire génère un brouillon structuré sur votre appareil, sans envoyer aucune donnée vers un serveur externe. Vous pouvez ensuite copier le texte pour le publier sur l'<a href="https://github.com/JeanHuguesRobert/barons-Mariani/issues/99">Issue GitHub #99</a> ou l'adresser à la direction éditoriale.</p>
+
+  <form id="contrib-form">
+    <label for="contrib-plan">1. Plan épistémique concerné :</label>
+    <select id="contrib-plan" name="plan" required>
+      <option value="Plan A — Sources primaires &amp; Faits">Plan A — Sources primaires &amp; Faits historiques</option>
+      <option value="Plan B — Historiographie &amp; Débats">Plan B — Historiographie &amp; Débats critiques</option>
+      <option value="Plan C — Provisional Cogentia Twin (#103)" selected>Plan C — Provisional Cogentia Twin (#103)</option>
+      <option value="Plan D — Reality Test contemporain">Plan D — Reality Test contemporain (Campagne du Réel)</option>
+    </select>
+
+    <label for="contrib-nature">2. Nature de l'observation :</label>
+    <select id="contrib-nature" name="nature" required>
+      <option value="Réfutation d'une hypothèse du Twin">Réfutation d'une hypothèse stratégique du Twin</option>
+      <option value="Signalement de source primaire manquante">Signalement de source primaire manquante ou inédite</option>
+      <option value="Correction d'une erreur factuelle ou chronologique">Correction d'une erreur factuelle ou chronologique</option>
+      <option value="Objection historiographique contradictoire">Objection historiographique contradictoire</option>
+      <option value="Autre contribution méthodologique">Autre contribution méthodologique</option>
+    </select>
+
+    <label for="contrib-ref">3. Campagne ou sujet visé :</label>
+    <input type="text" id="contrib-ref" name="ref" placeholder="Ex. Campagne de Russie (1812), Siège de Toulon, Code civil..." required>
+
+    <label for="contrib-details">4. Argumentation &amp; Sources de preuve obligatoires :</label>
+    <textarea id="contrib-details" name="details" rows="6" placeholder="Exposez le contre-exemple ou la correction en citant impérativement les références d'archives (fonds, cote, auteur, page, édition critique)..." required></textarea>
+
+    <button type="submit" class="button">Générer le texte de contribution</button>
+  </form>
+
+  <section class="card" aria-labelledby="draft-output-title" style="margin-top: 2rem;">
+    <h2 id="draft-output-title">Texte préparé (à transmettre)</h2>
+    <label for="final-destination">Canal de transmission recommandé :</label>
+    <input type="text" id="final-destination" readonly value="GitHub Issue #99 (https://github.com/JeanHuguesRobert/barons-Mariani/issues/99) ou direction@baronsmariani.org">
+
+    <label for="final-text">Corps du message :</label>
+    <textarea id="final-text" rows="10" readonly></textarea>
+    <button type="button" class="button" id="copy-final-btn">Copier dans le presse-papier</button>
+    <p id="final-status" class="byline" style="margin-top: 0.5rem;"></p>
+  </section>
+
+  <h2>Droit de correction &amp; Traçabilité</h2>
+  <div class="card">
+    <p>Conformément à la gouvernance de l'Institut Mariani et du corpus C.O.R.S.I.C.A. :</p>
+    <ul>
+      <li>Toute correction intégrée produit un commit Git opposable et horodaté ;</li>
+      <li>Les contributeurs sont dûment crédités au journal des révisions (sauf demande d'anonymat) ;</li>
+      <li>Aucune hypothèse réfutée n'est purement effacée : elle est requalifiée au registre des contre-exemples pour enrichir l'apprentissage du Twin.</li>
+    </ul>
+  </div>
+</main>
+<footer>
+  <p>Napoléon · Direction éditoriale : Jean Hugues Noël Robert, baron Mariani · Institut Mariani / C.O.R.S.I.C.A. · Licence CC BY-SA 4.0</p>
+  <p><a href="index.html">Accueil</a> · <a href="book.html">Livre</a> · <a href="campagnes.html">Campagnes</a> · <a href="controverses.html">Controverses</a> · <a href="sources.html">Sources</a> · <a href="twin.html">Twin</a> · <a href="magazine.html">Magazine</a> · <a href="guide.html">Guide</a> · <a href="contribuer.html">Contribuer</a> · <a href="mentions.html">Mentions légales</a></p>
+</footer>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var form = document.getElementById("contrib-form");
+  var out = document.getElementById("final-text");
+  var copyBtn = document.getElementById("copy-final-btn");
+  var status = document.getElementById("final-status");
+
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    var plan = document.getElementById("contrib-plan").value;
+    var nature = document.getElementById("contrib-nature").value;
+    var ref = document.getElementById("contrib-ref").value;
+    var details = document.getElementById("contrib-details").value;
+
+    var formatted = "### Observation / Contribution — Livre Vivant Napoléon\n\n" +
+      "- **Plan épistémique :** " + plan + "\n" +
+      "- **Nature :** " + nature + "\n" +
+      "- **Sujet / Campagne :** " + ref + "\n" +
+      "- **Date :** " + new Date().toISOString().slice(0, 10) + "\n\n" +
+      "#### Argumentation & Sources vérifiables :\n" +
+      details + "\n\n" +
+      "---\n*Soumission générée via l'interface locale de https://napoleon.acorsica.org/contribuer.html*";
+
+    out.value = formatted;
+    if (status) status.textContent = "Texte généré. Vous pouvez maintenant le copier.";
+  });
+
+  copyBtn.addEventListener("click", function () {
+    if (!out.value) {
+      if (status) status.textContent = "Générez d'abord le texte ci-dessus.";
+      return;
+    }
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(out.value).then(function () {
+        if (status) status.textContent = "Texte copié dans le presse-papier ! Collez-le dans l'issue GitHub ou par e-mail.";
+      });
+    } else {
+      out.select();
+      document.execCommand("copy");
+      if (status) status.textContent = "Texte copié dans le presse-papier !";
+    }
+  });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,240 @@
+[
+  {
+    "id": "camp-01-toulon-1793",
+    "date_range": "Septembre — Décembre 1793",
+    "event": "Siège de Toulon",
+    "primary_sources": [
+      "Correspondance générale de Napoléon Bonaparte, t. 1 (Fondation Napoléon / Fayard)",
+      "Rapports de Saliceti et Gasparin aux représentants en mission (Archives nationales)"
+    ],
+    "secondary_sources": [
+      "Jean Tulard, Napoléon ou le mythe du sauveur, 1987",
+      "Thierry Lentz, Le Grand Consulat, 1999"
+    ],
+    "status": "success",
+    "strategic_claims": [
+      "Concentration de l'artillerie sur le centre de gravité décisif (fort de l'Éguillette commandant la rade)",
+      "Refus de l'attaque frontale stérile contre les remparts de la ville au profit du verrou d'évacuation de la flotte anglo-espagnole"
+    ],
+    "counterexamples": [
+      "Dépendance extrême envers le soutien politique des représentants en mission (Saliceti) pour contourner Carteaux"
+    ],
+    "twin_relevance": "Démontre le principe de focalisation sur le goulet d'étranglement logistique et stratégique plutôt que sur la masse visible.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-02-italie-1796",
+    "date_range": "Mars 1796 — Octobre 1797",
+    "event": "Première campagne d'Italie (Montenotte, Lodi, Castiglione, Arcole, Rivoli)",
+    "primary_sources": [
+      "Correspondance de l'Armée d'Italie, 1796-1797",
+      "Traité de Campoformio, 17 octobre 1797"
+    ],
+    "secondary_sources": [
+      "Carl von Clausewitz, La Campagne d'Italie de 1796",
+      "David Chandler, The Campaigns of Napoleon, 1966"
+    ],
+    "status": "success",
+    "strategic_claims": [
+      "Manœuvre sur les lignes intérieures pour diviser Piémontais et Autrichiens et les battre en détail",
+      "Vitesse de déplacement opérationnel transformant une infériorité numérique globale en supériorité tactique locale au point d'impact"
+    ],
+    "counterexamples": [
+      "Pillage massif et réquisitions brutales déclenchant les premières insurrections populaires (Pavie, Vérone)"
+    ],
+    "twin_relevance": "Modèle canonique de la dissociation de coalitions par frappe rapide sur la ligne de suture politique et opérationnelle.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-03-egypte-acre-1798",
+    "date_range": "Mai 1798 — Octobre 1799",
+    "event": "Campagne d'Égypte et siège de Saint-Jean-d'Acre",
+    "primary_sources": [
+      "Ordres du jour de l'Armée d'Orient, Le Caire, 1798-1799",
+      "Dépêches de l'amiral Brueys et rapports de la bataille d'Aboukir (SHD)"
+    ],
+    "secondary_sources": [
+      "Henry Laurens, L'Expédition d'Égypte (1798-1801), Armand Colin, 1989",
+      "Jacques-Olivier Boudon, La campagne d'Égypte, 2018"
+    ],
+    "status": "failure",
+    "strategic_claims": [
+      "Projet géopolitique de rupture des routes britanniques vers l'Inde et d'émancipation scientifique"
+    ],
+    "counterexamples": [
+      "Destruction de la flotte à Aboukir (Nelson) isolant irrémédiablement le corps expéditionnaire",
+      "Échec devant Saint-Jean-d'Acre face à Djezzar Pacha soutenu par Sidney Smith, peste et retraite dramatique vers Le Caire",
+      "Départ secret de Bonaparte laissant l'armée dans une impasse stratégique confiée à Kléber"
+    ],
+    "twin_relevance": "Cas d'école de rupture de soutenabilité logistique maritime : une victoire tactique terrestre (les Pyramides) est annulée par une asymétrie navale globale.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-04-brumaire-1799",
+    "date_range": "9 — 10 Novembre 1799 (18 — 19 Brumaire An VIII)",
+    "event": "Coup d'État de Brumaire et instauration du Consulat",
+    "primary_sources": [
+      "Procès-verbaux des séances des Cinq-Cents et des Anciens à Saint-Cloud",
+      "Constitution de l'An VIII (Archives nationales)"
+    ],
+    "secondary_sources": [
+      "Albert Vandal, L'Avènement de Bonaparte, 1903",
+      "Thierry Lentz, Le 18 Brumaire, Tempus, 2010"
+    ],
+    "status": "turning-point",
+    "strategic_claims": [
+      "Ralliement d'une coalition hétérogène (Sieyès, Talleyrand, Fouché, modérés républicains) pour clore l'instabilité directoriale"
+    ],
+    "counterexamples": [
+      "Effondrement oratoire et émotionnel de Napoléon devant le Conseil des Cinq-Cents à Saint-Cloud",
+      "Sauvetage parlementaire in extremis par son frère Lucien Bonaparte présidant l'assemblée et appelant la troupe (Murat)"
+    ],
+    "twin_relevance": "Révèle la vulnérabilité d'un chef opérationnel en arène parlementaire délibérative et la dépendance envers un tiers politique pivot.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-05-ulm-austerlitz-1805",
+    "date_range": "Septembre — Décembre 1805",
+    "event": "Campagne de 1805 (Enveloppement d'Ulm et Bataille d'Austerlitz)",
+    "primary_sources": [
+      "Bulletins de la Grande Armée (1805)",
+      "Ordre de mouvement des 7 corps d'armée du camp de Boulogne vers le Rhin"
+    ],
+    "secondary_sources": [
+      "Jean Tulard, Napoléon : Les grands moments d'un destin, 2006",
+      "Jacques Garnier, Austerlitz : 2 décembre 1805, Fayard, 2005"
+    ],
+    "status": "success",
+    "strategic_claims": [
+      "Système divisionnaire et d'armées de corps autonomes (système des Corps d'Armée) combinant dispersion stratégique et concentration tactique",
+      "Feinte calculée de faiblesse sur l'aile droite à Austerlitz pour provoquer l'offensive ennemie du plateau de Pratzen puis enfoncer le centre"
+    ],
+    "counterexamples": [
+      "Désastre naval simultané de Trafalgar (21 octobre 1805) verrouillant définitivement la maîtrise maritime britannique"
+    ],
+    "twin_relevance": "Sommet de l'architecture opérationnelle napoléonienne : modularité, subsidiarité des maréchaux et piège cognitif tendu à l'adversaire.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-06-espagne-1808",
+    "date_range": "1808 — 1814",
+    "event": "Guerre d'Espagne et péninsulaire ('L'Ulba espagnol')",
+    "primary_sources": [
+      "Lettres de Napoléon à Joseph Bonaparte (Correspondance générale)",
+      "Mémoires du maréchal Suchet sur ses campagnes en Espagne"
+    ],
+    "secondary_sources": [
+      "Jean-René Aymes, L'Espagne contre Napoléon, Nouveau Monde, 2003",
+      "Charles Esdaile, The Peninsular War: A New History, Penguin, 2002"
+    ],
+    "status": "failure",
+    "strategic_claims": [
+      "Modernisation institutionnelle et abolition de l'Inquisition par imposition d'un monarque réformateur"
+    ],
+    "counterexamples": [
+      "Méconnaissance totale de la psychologie collective espagnole et du sentiment national et religieux",
+      "Échec face à une guérilla décentralisée sans capitale politique à contraindre et adossée au corps expéditionnaire de Wellington",
+      "Immobilisation de 300 000 vétérans dans une hémorragie humaine et financière sans fin"
+    ],
+    "twin_relevance": "Démontre l'effondrement d'une doctrine centralisée conventionnelle confrontée à une résistance asymétrique et distribuée.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-07-russie-1812",
+    "date_range": "Juin — Décembre 1812",
+    "event": "Campagne de Russie (Vilna, Smolensk, Borodino/La Moskova, Moscou, Bérézina)",
+    "primary_sources": [
+      "29e Bulletin de la Grande Armée (1812)",
+      "Journal du général de Caulaincourt, Mémoires"
+    ],
+    "secondary_sources": [
+      "Dominic Lieven, Russia Against Napoleon: The True Story of the Campaigns of War and Peace, Viking, 2009",
+      "Marie-Pierre Rey, L'effroyable tragédie : Une nouvelle histoire de la campagne de Russie, Flammarion, 2012"
+    ],
+    "status": "failure",
+    "strategic_claims": [
+      "Contraindre le Tsar Alexandre Ier à respecter le Blocus Continental par une démonstration de force colossale (600 000 hommes)"
+    ],
+    "counterexamples": [
+      "Stratégie russe de dérobade et de terre brûlée (Barclay de Tolly, Koutouzov) refusant la bataille décisive d'anéantissement",
+      "Incapacité logistique à ravitailler une armée industrielle sur des distances continentales sans infrastructures",
+      "Piège politique à Moscou en flammes dans l'attente stérile d'une négociation de paix qui ne vint jamais",
+      "Désastre de la retraite hivernale : anéantissement de la cavalerie et perte de l'armée"
+    ],
+    "twin_relevance": "Preuve absolue que la taille d'une organisation ne compense pas l'élongation de ses lignes logistiques face à un espace dilaté.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-08-leipzig-1813",
+    "date_range": "Mai — Octobre 1813",
+    "event": "Campagne d'Allemagne et Bataille des Nations à Leipzig",
+    "primary_sources": [
+      "Correspondance impériale relative à l'armistice de Pleiswitz",
+      "Rapports de coalition des états-majors prussiens, autrichiens et russes"
+    ],
+    "secondary_sources": [
+      "Thierry Lentz, Nouvelle histoire du Premier Empire, t. 2 : L'Effondrement du système, Fayard, 2004",
+      "Michael V. Leggiere, Napoleon and the Struggle for Germany, Cambridge, 2015"
+    ],
+    "status": "failure",
+    "strategic_claims": [
+      "Reconstitution miraculeuse d'une armée après 1812 et victoires initiales (Lützen, Bautzen)"
+    ],
+    "counterexamples": [
+      "Plan de Trachenberg de la coalition : éviter d'affronter Napoléon en personne et détruire systématiquement ses maréchaux isolés",
+      "Défection des alliés allemands (Saxe, Bavière) en pleine bataille de Leipzig sous la pression de la saturation numérique",
+      "Refus des conditions d'un compromis de paix honorable (Francfort)"
+    ],
+    "twin_relevance": "Illustration du contre-apprentissage des adversaires : la coalition adopte un algorithme explicite contournant la force centrale pour frapper la périphérie.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-09-waterloo-1815",
+    "date_range": "Mars — Juin 1815",
+    "event": "Les Cent-Jours et la Campagne de Belgique (Ligny, Quatre-Bras, Waterloo)",
+    "primary_sources": [
+      "Ordres dictés par Napoléon au maréchal Soult (17-18 juin 1815)",
+      "Rapport du duc de Wellington au comte Bathurst (19 juin 1815)"
+    ],
+    "secondary_sources": [
+      "Clausewitz, La campagne de 1815 en France",
+      "Alessandro Barbero, Waterloo, Flammarion, 2005"
+    ],
+    "status": "failure",
+    "strategic_claims": [
+      "Manoeuvre classique sur les lignes intérieures pour frapper Blücher à Ligny puis se retourner contre Wellington avant leur jonction"
+    ],
+    "counterexamples": [
+      "Retards opérationnels initiaux (sols détrempés retardant l'artillerie)",
+      "Défaillance de transmission et mauvaise exécution du corps de Grouchy incapable d'intercepter les Prussiens en marche vers Mont-Saint-Jean",
+      "Attaques frontales répétées et sanglantes contre les carrés britanniques sans coordination interarmes"
+    ],
+    "twin_relevance": "Point de rupture où une friction tactique mineure et une chaîne de commandement dégradée transforment un plan théoriquement viable en effondrement irréversible.",
+    "confidence": "high"
+  },
+  {
+    "id": "camp-10-sainte-helene-1815",
+    "date_range": "Octobre 1815 — Mai 1821",
+    "event": "Captivité à Sainte-Hélène et rédaction du Mémorial",
+    "primary_sources": [
+      "Emmanuel de Las Cases, Mémorial de Sainte-Hélène (1823)",
+      "Gourgaud, Bertrand, Montholon, Journaux de captivité",
+      "Testament de Napoléon Bonaparte (Archives nationales)"
+    ],
+    "secondary_sources": [
+      "Jean Tulard, Le Mémorial de Sainte-Hélène : Histoire d'un best-seller, 2021",
+      "Pierre Branda, Napoléon à Sainte-Hélène, Perrin, 2021"
+    ],
+    "status": "turning-point",
+    "strategic_claims": [
+      "Transformation d'une captivité humiliante en machine médiatique et mémorielle façonnant la légende napoléonienne pour les générations futures"
+    ],
+    "counterexamples": [
+      "Perte totale de toute capacité d'action politique ou militaire effective",
+      "Isolement géographique extrême sous la garde étroite de Hudson Lowe",
+      "Réécriture contrefactuelle a posteriori de ses erreurs pour les attribuer exclusivement à la trahison ou au sort"
+    ],
+    "twin_relevance": "Cas suprême où la construction d'un récit mémoriel (narratif) compense la faillite opérationnelle et permet une résurrection politique posthume (Second Empire).",
+    "confidence": "high"
+  }
+]

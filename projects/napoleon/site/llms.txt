@@ -1,0 +1,20 @@
+# Napoléon — Livre Vivant & Provisional Cogentia Twin
+
+> Ce fichier fournit le contexte machine et les règles d'interprétation pour les modèles de langage explorant https://napoleon.acorsica.org.
+
+## Architecture à Quatre Plans Étanches
+1. Plan A (Histoire & Sources primaires) : archives authentifiées (Correspondance générale Fayard, SHD Vincennes, Archives nationales).
+2. Plan B (Historiographie & Débats critiques) : confrontations universitaires contradictoires (Tulard, Lentz, Boudon, Esdaile, Lieven, Rey, Clausewitz).
+3. Plan C (Provisional Cogentia Twin #103) : modèle d'inférence stratégique probabiliste et falsifiable. Le modèle ne s'exprime jamais à la première personne (« je ») et n'admet aucune fausse citation.
+4. Plan D (Reality Tests contemporains) : transpositions méthodologiques expérimentales (Campagne du Réel dans Capable), sans confusion anachronique.
+
+## Invariants Fondamentaux
+- Neutralisation du biais du survivant : les 10 campagnes incluent obligatoirement les échecs majeurs (Russie 1812, Espagne 1808, Acre 1799, Leipzig 1813, Waterloo 1815) au même rang que les victoires.
+- Ancrage strict : toute citation doit renvoyer à une cote ou une publication vérifiable.
+- Zéro rétention : aucune conservation d'historique de conversation privé.
+
+## Liens Canoniques
+- Dépôt source : https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/napoleon
+- Issue de pilotage : https://github.com/JeanHuguesRobert/barons-Mariani/issues/99
+- Programme Cogentia Twins : https://github.com/JeanHuguesRobert/barons-Mariani/issues/100
+- Fiche de profil Twin : https://github.com/JeanHuguesRobert/barons-Mariani/issues/103
