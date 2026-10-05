@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://capable.lepp.fr/sitemap.xml
