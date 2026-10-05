@@ -5,7 +5,7 @@ description: "Registre préparatoire servant de substrat commun au Livre Vivant 
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
+last_modified_at: "2026-10-05"
 version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
@@ -20,6 +20,7 @@ update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "research/institut_mariani.md"
   - "research/livre_vivant.md"
+  - "projects/institut/preparation/statuts-1995-transcription.md"
   - "https://github.com/JeanHuguesRobert/cogentia/blob/main/research/living_book_factory.md"
   - "https://github.com/JeanHuguesRobert/cogentia/issues/229"
 provenance:
