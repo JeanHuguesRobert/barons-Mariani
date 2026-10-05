@@ -1,6 +1,9 @@
 ---
 title: "Suicide Corse — suivi du numéro 4"
-date: "2026-10-04"
+author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-05"
+last_modified_at: "2026-10-05"
 status: "working"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -10,6 +13,17 @@ visibility: "public"
 lifecycle_state: "active"
 related_issue: 90
 update_policy: "same-commit-as-the-movement"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/suivi.md"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/7e7e7ad23c3625d410acc6e1065072e63de56923/projects/suicide-corse/suivi.md"
+  origin_date: "2026-10-04"
+  derived_from:
+    - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/90"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Suivi du numéro 4
@@ -25,6 +39,23 @@ Niveaux de preuve, les mêmes que dans le constat du 1er octobre :
 - **documenté** : pièce ou photographie contemporaine ;
 - **rapporté** : récit direct du participant, ou propos oral attribué ;
 - **inconnu** : non établi par une source de cette page.
+
+
+## 5 octobre 2026 — invariant de synchronisation jusqu'au dépôt
+
+La présente vue suit le **brouillon de requête désigné comme courant par l'état réel du Corpus**. Elle ne maintient pas une copie parallèle de la requête, du bordereau, de l'inventaire probatoire ou des matrices : elle les référence et explique seulement les mouvements qui changent l'état public du dossier.
+
+Jusqu'au dépôt effectif au Conseil constitutionnel, toute promotion d'une nouvelle version comme **requête courante** doit entraîner, dans le même mouvement éditorial ou immédiatement à sa suite :
+
+1. la mise à jour du pointeur de cette page et de `projects/suicide-corse/projections/book-n4-preparation.yml` ;
+2. un bloc daté décrivant le changement substantiel sans recopier le texte de la requête ;
+3. la conservation explicite du statut `non déposé` tant qu'aucune trace de dépôt n'existe ;
+4. la propagation des nouveaux états probatoires utiles : documenté, rapporté, inconnu et, lorsque nécessaire, contesté ;
+5. le maintien du n°3 gelé hors de toute réécriture.
+
+Un simple changement typographique n'impose pas un nouveau rendu PDF/EPUB. Une modification substantielle de la requête, du bordereau, des pièces, de la chronologie ou du statut de dépôt doit en revanche être visible dans cette vue quasi en temps réel.
+
+Le **dépôt effectif** changera le régime : le n°4 devra alors photographier exactement la requête et le bordereau réellement déposés, leur mode de transmission et toute preuve ou référence d'enregistrement disponible, avant décision explicite de gel.
 
 ## 4 octobre 2026 — version en préparation
 
@@ -68,16 +99,16 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 - **P-38**, 1er octobre 12:30:20. Réponse annonçant le train, le retard, et la phrase familiale sur l'avenue. L'arrivée effective en est distincte. [`courriel-reponse-adresse-rendez-vous-2026-10-01.md`](../../research/senatoriales-2026/investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md).
 - **P-33**, 1er octobre 15:13:26. La greffière en chef refuse de donner suite aux questions résiduelles et invite à saisir le Conseil constitutionnel en citant l'article L.292. [`courriel-greffe-ta-reponse-2026-10-01.md`](../../research/senatoriales-2026/investigation/sources/courriel-greffe-ta-reponse-2026-10-01.md).
 
-## Brouillon de requête — non fixé, non déposé
+## Brouillon de requête — version courante, non déposée
 
-Fichier : [`requete-conseil-constitutionnel-projet-v0.4.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md).
+Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.5.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.5.md).
 
-Statut lu dans son en-tête : brouillon de travail, non déposé. Le Principal déposera avant le mercredi 7 octobre 2026 à 18 h. Le contenu n'est pas fixé. Il peut changer jusqu'à cette heure. Cette page le signalera dans le commit du changement, sans le recopier.
+Son en-tête porte : `working-draft — adversarial-review candidate — not filed`. La v0.5 réconcilie notamment le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**). Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
 
-Écart encore ouvert dans le brouillon : le grief sur les bulletins nuls écrit que leur teneur et leurs motifs restent à vérifier au titre de RP-SEN-08. Le constat du 4 octobre documente déjà un bulletin photographié et des pages de la section 4. Les trente-neuf autres bulletins nuls ne sont pas inventoriés. Aligner le brouillon sur ce niveau de preuve fait partie du travail d'ici le dépôt. Ce n'est pas fait dans cette page.
+Le dépôt doit intervenir, s'il est décidé, avant le mercredi 7 octobre 2026 à 18 h. Jusqu'à une trace effective de dépôt, le contenu demeure modifiable et cette page conserve explicitement le statut **non déposé**.
 
-Les demandes P1–P18 et D1–D10 restent ouvertes dans leurs matrices. Le constat ne leur répond pas.
+Les matrices P1–P18 et D1–D10 restent des sources autonomes. Toute évolution de leur état est référencée ici lorsqu'elle change matériellement la préparation du n°4 ; leurs contenus ne sont pas dupliqués.
 
 ## Ce qui reste hors de cette page
 
-Le sommaire du numéro 4 n'est pas choisi. Aucun chapitre n'est rendu. Le matériau privé du 53 rue Séguier n'est pas publié ici. Le numéro 3 gelé n'est pas réécrit.
+Le sommaire définitif du numéro 4 n'est pas choisi. La projection publique de préparation rend actuellement quatre chapitres de magazine, mais elle reste remplaçable et ne constitue pas un gel. Le matériau privé du 53 rue Séguier n'est pas publié ici. Le numéro 3 gelé n'est pas réécrit.
