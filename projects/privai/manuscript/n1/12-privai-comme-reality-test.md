@@ -14,12 +14,16 @@ document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
 ai_assisted_by:
-- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04"
+- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04, 2026-10-05"
 provenance:
   origin_type: "corpus-derivation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "projects/privai/README.md"
   origin_date: "2026-10-04"
+  derived_from:
+    - "barons-Mariani/projects/capable/capable-test.md"
+    - "barons-Mariani/research/principe_effectivite.md"
+    - "barons-Mariani/projects/privai/cases/README.md"
 ---
 
 # Chapitre 12 : PrivAI comme Reality Test
@@ -42,28 +46,40 @@ Si la réponse est affirmative, alors nous aurons tracé une brèche concrète d
 
 ---
 
-## 2. Le protocole des cinq épreuves de Réalité
+## 2. Le Capable Test appliqué à l'IA : de l'illusion formelle à l'exerçabilité réelle
 
-Pour transformer cette interrogation en protocole d'audit opposable, PrivAI soumet chaque avancée technique ou doctrinale à **cinq épreuves de vérité incontournables** (*Reality Tests*) :
+Pour transformer cette exigence en protocole d'audit rigoureux, PrivAI applique le cadre d'évaluation du [Capable Test](file:///C:/tweesic/barons-Mariani/projects/capable/capable-test.md) (issu des travaux sur le [Principe d'effectivité](file:///C:/tweesic/barons-Mariani/research/principe_effectivite.md)) :
 
-### Épreuve 1 : Le test de portabilité radicale (Migration-Tested)
-L'utilisateur peut-il extraire l'intégralité de sa mémoire augmentée, de ses mandats et de ses règles d'arbitrage d'un environnement hébergé pour les réimplanter sur une machine personnelle isolée en moins de soixante minutes, sans perte d'information sémantique et sans dépendance résiduelle envers son ancien opérateur ?
+> **« Une règle ou un outil ne vaut que par ses effets réels sur la capacité d'agir. »**
 
-### Épreuve 2 : Le test de résistance au secret institutionnel
-Face à une décision automatisée d'une administration ou d'une corporation (refus de prêt, redressement fiscal, rejet d'admission scolaire), les outils d'instruction PrivAI permettent-ils au citoyen d'obtenir, sous astreinte légale, l'identité de l'agent humain responsable, la version exacte du modèle et les données d'entrée ayant généré la décision ?
+L'analyse distingue trois seuils fondamentaux :
+1. **L'ouverture d'un possible :** Déclarer abstraitement un « droit d'accès aux données » ou une « portabilité » dans une loi ne crée aucune liberté réelle tant que l'infrastructure technique n'est pas construite.
+2. **L'accessibilité matérielle :** Le citoyen moyen sait-il que le contre-pouvoir existe ? Peut-il en comprendre l'interface sans posséder un doctorat en cryptographie ou des moyens financiers prohibitifs ?
+3. **L'exerçabilité effective (*le test de contrariété*) :** Que se passe-t-il lorsque le système est soumis à une véritable épreuve de force adverse ? Lorsque l'administration fiscale refuse de communiquer les logs de son modèle de ciblage, ou lorsqu'une banque bloque un compte sur une alerte algorithmique, l'individu peut-il effectivement forcer la réouverture contradictoire de la décision et faire condamner l'abus de pouvoir ?
 
-### Épreuve 3 : Le test d'égalité procédurale
-Un citoyen seul, appuyé par son jumeau souverain et ses reçus de traçabilité, peut-il soutenir victorieusement un litige contradictoire face aux mémoires contentieux générés par les armées d'avocats assistés par IA d'une grande entreprise ?
-
-### Épreuve 4 : Le test de révocation matérielle KYS
-Lorsque l'utilisateur coupe une autorisation d'accès à son profil ou révoque un mandat de représentation, cette coupure produit-elle un effet cryptographique physique immédiat rendant impossible toute exploitation ultérieure par la contrepartie, avec constat d'huissier ou preuve mathématique ?
-
-### Épreuve 5 : Le test de pureté démocratique (Anti-Demos)
-Est-il garanti de manière absolue et auditable qu'aucun agent numérique n'a pu participer à un vote, usurper l'expression d'un électeur humain dans une consultation publique, ou diluer la représentation politique des personnes de chair et d'os ?
+Un système technique ou juridique qui échoue au test de contrariété est un hochet managérial. PrivAI ne conçoit que des mécanismes bâtis pour résister au contentieux réel.
 
 ---
 
-## 3. Conclusion du numéro 1 : L'appel au contre-pouvoir cognitif
+## 3. La matrice des sept Reality Cases de PrivAI n°1
+
+Ce premier numéro de PrivAI ancre sa légitimité dans **sept épreuves empiriques documentées**, issues de conflits majeurs entre personnes physiques et bureaucraties augmentées :
+
+| Reality Case | Terrain d'affrontement réel | Pathologie institutionnelle mise au jour | Contre-pouvoir effectif PrivAI validé |
+|---|---|---|---|
+| **[Case 01](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-01-migration-tested-twin.md)** | Portabilité et changement d'opérateur d'IA | Verrouillage propriétaire (*vendor lock-in*) et capture des mémoires personnelles. | **Garantie Migration-Tested v0.1** : extraction à froid, restauration *air-gap* sur modèles ouverts en moins de 60 min. |
+| **[Case 02](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-02-datajust-opacite-administrative.md)** | Barémisation algorithmique de la justice (France) | Tentative d'automatisation de l'indemnisation corporelle sous opacité méthodologique. | **Abandon du projet suite aux recours** : exigence constitutionnelle d'auditabilité publique des jeux de données d'entraînement. |
+| **[Case 03](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-03-traceabilite-dilution-decisionnelle.md)** | Décisions managériales et bancaires automatisées | Les 4 alibis de dilution : *l'institution*, *le processus*, *le système*, *le modèle*. | **Chaîne minimale d'imputation** : nullité de plein droit de tout acte sans mandat humain nominatif et journal de bord opposable. |
+| **[Case 04](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-04-kys-profilage-cognitif-borne.md)** | Profilage psychométrique des plateformes marchandes | Capture universelle, flicage comportemental et consentement extorqué sous contrainte. | **Protocole KYS** : projection cognitive bornée par finalité stricte, révocabilité matérielle instantanée et non-auto-élévation. |
+| **[Case 05](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-05-parcoursup-et-la-boite-noire-decisionnelle.md)** | Affectation universitaire des bacheliers (France) | Décision 2020-834 QPC : sanctuarisation du « secret des délibérations » contre l'explicabilité locale. | **Écologie probatoire citoyenne** : contre-simulations ouvertes, traçabilité des refus et recours pour rupture d'égalité républicaine. |
+| **[Case 06](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-06-horizon-presomption-fiabilite-machine.md)** | Scandale *Post Office Horizon* (Royaume-Uni) | Présomption d'infaillibilité machine (*PACE 1984 s.69*) conduisant à 900 condamnations pénales injustes. | **Renversement de la charge de la preuve** : présomption d'erreur matérielle et production d'alibis non-machine hors-système. |
+| **[Case 07](file:///C:/tweesic/barons-Mariani/projects/privai/cases/case-07-robodebt-automatisation-du-soupcon.md)** | Scandale *Robodebt* (Australie, 2016-2023) | Moyennisation statistique illégale des revenus et extorsion unilatérale de 1,73 Md$ de fausses dettes. | **Principe d'indivisibilité de la faute humaine** : interdiction du soupçon automatique et responsabilité pénale directe des ordonnateurs. |
+
+Ces sept cas ne constituent pas des spéculations prospectives : ce sont les cicatrices bien réelles de milliers de vies broyées par l'impunité des automates institutionnels. Ils définissent le cahier des charges impératif de notre sécurité démocratique.
+
+---
+
+## 4. Conclusion du numéro 1 : L'appel au contre-pouvoir cognitif
 
 À la question inaugurale de ce premier numéro :
 
@@ -79,4 +95,6 @@ Elle commence par le refus de l'alibi algorithmique. Elle passe par l'appropriat
 
 **La machine n'est pas le maître. L'institution n'est pas un dieu. L'humain reste le seul sujet de droit, de souffrance, de parole et d'espérance.**
 
-C'est à cette souveraineté conquise et défendue pied à pied que ce Livre Vivant est dédié.
+Ce premier numéro de PrivAI n'est pas un monument figé dans le marbre : c'est un **Livre Vivant en travail permanent** (`frozen: false`, `status: working`). Il continuera de s'enrichir au gré des luttes judiciaires, des avancées du calcul frugal et des contributions du peuple souverain.
+
+C'est à cette souveraineté conquise et défendue pied à pied que cette œuvre est dédiée.

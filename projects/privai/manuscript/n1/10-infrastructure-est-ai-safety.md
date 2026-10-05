@@ -14,12 +14,16 @@ document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
 ai_assisted_by:
-- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04"
+- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04, 2026-10-05"
 provenance:
   origin_type: "corpus-derivation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "research/democratic_ai_safety.md"
   origin_date: "2026-05-11"
+  derived_from:
+    - "barons-Mariani/research/potentics_of_compute.md"
+    - "barons-Mariani/projects/privai/annexes/matrice-asymetries-personnes-morales.md"
+    - "barons-Mariani/research/the_network_is_the_learning_computer.md"
 ---
 
 # Chapitre 10 : L'infrastructure est l'AI Safety
@@ -66,3 +70,35 @@ La ligne de défense de la souveraineté humaine repose sur le développement vi
 3. **La transparence intégrale des poids :** Seuls les modèles dont les poids sont publics et inspectables permettent de certifier l'absence de portes dérobées, de filtres d'influence idéologique clandestins ou de télémétrie extractive.
 
 La souveraineté cognitive n'est pas un slogan : c'est un poste de calcul personnel, relié à une énergie maîtrisée, exécutant un modèle inspectable, au service d'un esprit libre.
+
+---
+
+## 4. La géopolitique du silicium et la fable des modèles frontières
+
+La rhétorique promotionnelle des laboratoires de pointe impose l'idée que seule une course effrénée vers des architectures géantes (modèles de plus de 500 milliards de paramètres entraînés sur des mégagrid d'énergie de plusieurs centaines de mégawatts) permettrait d'atteindre l'intelligence utile.
+
+Cette fable sert un objectif politique précis : **ériger une barrière capitalistique insurmontable**.
+- En maintenant la frontière de l'état de l'art à un seuil financier inaccessible aux citoyens, aux universités et aux petites nations, les conglomérats s'assurent que toute la cognition avancée de l'humanité transite obligatoirement par leurs serveurs.
+- Ce modèle repose sur une vulnérabilité géopolitique colossale : la dépendance absolue envers les machines de photolithographie extrême UV néerlandaises (ASML) et les usines de fabrication taïwanaises (TSMC), créant un goulet d'étranglement mondial sous la tutelle militaire et réglementaire des superpuissances.
+
+PrivAI dénonce cette fuite en avant : la sécurité démocratique ne consiste pas à courir derrière l'hypertrophie computationnelle des monopoles, mais à concevoir une informatique cognitive résiliente, décentralisée et proportionnée aux besoins réels de la délibération et de l'émancipation.
+
+---
+
+## 5. Le seuil capacitaire des modèles 3B-8B et le triomphe de la frugalité
+
+L'avancée technologique la plus émancipatrice de ces dernières années n'est pas l'inflation des clusters géants, mais l'élévation spectaculaire de l'efficacité des **petits modèles ouverts (de 3 à 8 milliards de paramètres)** :
+
+- Grâce aux techniques de distillation, de quantification agressive (Q4_K_M, AWQ) et d'entraînement sur des corpus synthétiques hautement filtrés, un modèle de 3B ou 7B paramètres en 2026 rivalise, sur les tâches de raisonnement logique, d'analyse documentaire et d'extraction de faits, avec les monstres propriétaires d'il y a trois ans.
+- Ce seuil capacitaire change la donne politique : un modèle 8B quantifié tient sur 5 Go de mémoire vive. Il s'exécute à plus de 30 jetons par seconde sur le processeur neuronal (*NPU*) d'un ordinateur portable grand public ou sur une puce ARM basse consommation, pour une enveloppe énergétique inférieure à 25 watts.
+- La frugalité computationnelle brise l'asymétrie : le citoyen n'a plus besoin de louer les faveurs d'un supercalculateur étranger pour auditer ses contrats ou rédiger ses recours. Son matériel personnel suffit à lui conférer une défense cognitive de premier rang.
+
+---
+
+## 6. Fédérations de calcul citoyen et inférence vérifiable (RAIX)
+
+Pour les opérations complexes exigeant une puissance supérieure (simulations de politiques publiques, audits croisés de grands jeux de données administratifs), la solution PrivAI ne passe pas par la soumission au cloud marchand, mais par la mutualisation coopérative formalisée dans les travaux sur la *Potentique du calcul* (*Potentics of Compute*) et le protocole **RAIX** (*Resource Allocation for Inferred eXecution*) :
+
+1. **La mise en réseau de capacités dormantes :** Des millions de processeurs graphiques et de stations de travail citoyennes restent inactifs la nuit. Des fédérations décentralisées permettent d'agréger ce calcul bénévole ou rétribué en biens communs, sous le contrôle exclusif de collectifs indépendants.
+2. **L'inférence vérifiable sans confiance aveugle :** Le protocole RAIX résout l'inconvénient historique des réseaux distribués par l'introduction de preuves d'inférence cryptographiques et d'audits statistiques croisés. L'administré qui soumet un calcul confidentiel reçoit un reçu d'exécution mathématique certifiant que le code exact a été exécuté sur les données exactes, sans fuite d'information ni falsification du résultat.
+3. **Le découplage infrastructurel :** L'intelligence collective s'affranchit des dépendances captives. Le réseau citoyen devient lui-même un ordinateur apprenant souverain, immunisé contre les censures d'État et les chantages tarifaires des plateformes.

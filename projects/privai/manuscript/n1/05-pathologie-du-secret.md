@@ -61,6 +61,18 @@ Créé par décret en mars 2020, DataJust était un projet du ministère de la J
 
 Face à la mobilisation doctrinale, technique et politique, le gouvernement a été contraint d'abroger formellement le décret DataJust en janvier 2022 (décret n° 2022-55).
 
-Cette abrogation n'était pas un échec technologique : elle a constitué **une victoire majeure de l'imputabilité humaine**. Elle a rappelé que la justice ne peut pas être externalisée vers un moteur statistique dont nul ne peut interroger la conscience ni sanctionner l'arbitraire. 
-
 Un citoyen a le droit imprescriptible de savoir quel esprit humain a pesé sa peine, sur quelles bases de droit explicites, et devant quelle juridiction vivante il peut en appeler.
+
+---
+
+## 4. De DataJust à Parcoursup : le secret algorithmique sanctuarisé
+
+L'abrogation de DataJust a prouvé que la résistance est possible. Mais la tentation du secret renaît sous des formes plus insidieuses dès lors que l'institution sanctuarise ses algorithmes derrière le droit administratif.
+
+L'exemple le plus flagrant en France demeure celui de **Parcoursup et des algorithmes locaux d'évaluation des candidatures** (documenté dans le *Reality Case 05* de PrivAI). Lorsque des collectifs étudiants et des universitaires ont exigé la communication des codes sources et des critères d'apprentissage automatique utilisés par les commissions d'examen des vœux des universités, le Conseil constitutionnel (décision n° 2020-834 QPC du 3 avril 2020) a validé une dérogation extraordinaire au principe de transparence administrative : la sanctuarisation du « secret des délibérations ».
+
+Sous couvert de protéger l'appréciation souveraine des jurys, cette jurisprudence a en réalité légalisé la **boîte noire algorithmique locale** :
+- Des centaines d'établissements d'enseignement supérieur trient désormais des dizaines de milliers de dossiers à l'aide de scripts d'extraction et de coefficients mathématiques opaques, éliminant des lycéens en fonction de leur lycée d'origine ou de mots-clés sémantiques arbitraires.
+- Le candidat rejeté ne reçoit qu'une formule standardisée ne lui permettant jamais de reconstituer pourquoi son dossier a été déclassé par rapport à un autre.
+
+Ce recul du droit commun au profit d'un secret institutionnel protégé par l'État illustre l'urgente nécessité de la doctrine PrivAI : **toute décision publique ou parapublique automatisée doit être intégralement opposable et auditable.** Refuser le secret algorithmique, ce n'est pas être hostile au progrès technique ; c'est rappeler qu'en démocratie, aucune autorité ne peut exercer un pouvoir légitime sur un être humain sans être capable d'en expliquer les motifs et d'en assumer publiquement la responsabilité.

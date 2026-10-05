@@ -48,3 +48,7 @@ effectiveness_criterion:  # La personne dispose-t-elle de davantage de capacité
    *Axe : Protection psychocognitive.* Déléguer une projection spécialisée sans exposer sa mémoire épisodique aux opérateurs de modèles.
 5. [**Cas 05 : Parcoursup et l'opacité décisionnelle des algorithmes locaux**](case-05-parcoursup-et-la-boite-noire-decisionnelle.md)  
    *Axe : Décision publique automatisée & secret des barèmes.* L'épreuve de l'asymétrie cognitive entre candidats lycéens et algorithmes locaux discrétionnaires.
+6. [**Cas 06 : Le scandale Horizon du Post Office et le dogme de l'infaillibilité logicielle**](case-06-horizon-presomption-fiabilite-machine.md)  
+   *Axe : Présomption de fiabilité machine & écrasement institutionnel.* 900 sous-postiers condamnés à tort et la démonstration de l'asymétrie pénale face à l'automate d'entreprise.
+7. [**Cas 07 : Robodebt et l'automatisation du soupçon administratif**](case-07-robodebt-automatisation-du-soupcon.md)  
+   *Axe : Décision publique automatisée & inversion de la charge de la preuve.* Comment l'État fédéral australien a extorqué 1,7 milliard de dollars par extrapolation statistique unilatérale.

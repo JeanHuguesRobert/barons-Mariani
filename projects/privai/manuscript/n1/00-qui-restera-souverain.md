@@ -133,7 +133,7 @@ La question pratique déjà posée dans l'architecture de ce projet est :
 
 > Après intervention de PrivAI, la personne dispose-t-elle réellement de davantage de capacité autonome, vérifiable et révocable qu'avant ?
 
-Aucun Reality Case documenté ne répond encore à cette question dans ce dossier. Le premier objectif de démonstration publié par l'initiative est un export puis un import de Twin, avec conservation vérifiable du principal, des mandats, de la mémoire source, des traces et de la reprise. C'est une épreuve à faire, pas un résultat inscrit ici.
+Cette question s'articule désormais autour du cadre méthodologique du **Capable Test** et des **sept Reality Cases** empiriques documentés dans le dossier `cases/` (le jumeau testé en migration [Case 01], le précédent DataJust [Case 02], la traçabilité contre les dilutions décisionnelles [Case 03], le profilage cognitif borné KYS [Case 04], la boîte noire Parcoursup [Case 05], la présomption de fiabilité machine Horizon [Case 06], et l'automatisation du soupçon Robodebt [Case 07]). L'épreuve fondatrice de démonstration reste l'export puis l'import de Twin sous air-gap avec modèles ouverts, garantissant la conservation vérifiable du principal, des mandats, de la mémoire source, des traces et de la reprise.
 
 ## Statut institutionnel retenu
 

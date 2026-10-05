@@ -70,4 +70,16 @@ Comme le relève le §8 du document source *Traçabilité des actes*, l'augmenta
 3. **Le profilage comportemental et la tarification discriminatoire :** Évaluation dynamique de la vulnérabilité psychologique ou financière d'un citoyen ou consommateur, conduisant à des refus de prêt, des augmentations de prime d'assurance ou des censures de compte sans recours effectif.
 4. **L'alibi algorithmique :** Défausse systématique des dirigeants sur un prétendu « modèle objectif » pour justifier des décisions antisociales ou arbitraires (*« Ce n'est pas nous qui refusons votre droit, c'est l'algorithme de conformité »*).
 
-L'asymétrie n'est pas une projection pour 2040. Elle est déjà là. Chaque fois qu'un citoyen tente de contester une notification d'indu de la Caisse d'Allocations Familiales, un bannissement de compte bancaire en ligne ou une décision de rejet de visa, il fait l'épreuve directe de cette asymétrie impitoyable.
+---
+
+## 4. De Robodebt à la CAF : l'inversion unilatérale de la charge de la preuve
+
+L'asymétrie n'est pas une projection pour 2040. Elle est déjà là, vécue au quotidien par des millions de personnes vulnérables.
+
+L'épreuve la plus saisissante est celle du **scandale Robodebt en Australie** (documenté dans le *Reality Case 07* de PrivAI). Pour traquer de supposés indus chez les allocataires sociaux, l'État fédéral a remplacé les contrôleurs humains par un algorithme extrapolant mécaniquement un revenu moyen sur l'année. En quelques clics, quatre cent mille dettes fictives ont été générées automatiquement, pour un montant de 1,7 milliard de dollars. 
+
+Ce n'était pas seulement une erreur de calcul : c'était une **inversion unilatérale de la charge de la preuve**. L'État sommé le citoyen précaire de prouver, sous vingt et un jours, qu'il ne devait rien à l'ordinateur, en exigeant des fiches de paie vieilles de sept ans. Face à une machine infatigable adossée à la force publique et à des agences privées de recouvrement agressif, des milliers de personnes ont payé des sommes qu'elles ne devaient pas, et plusieurs se sont donné la mort. Il a fallu une décision retentissante de la Cour fédérale en 2019 et une Commission royale d'enquête pour faire reconnaître la cruauté d'un système qui avait éliminé tout humain responsable de la boucle de décision.
+
+Le même mécanisme de profilage prédictif aveugle a été condamné aux Pays-Bas dans l'affaire **SyRI** (*System Risk Indication*, 2020), où le tribunal de La Haye a annulé un algorithme de détection des fraudes ciblant de manière discriminatoire les quartiers défavorisés, au nom de l'article 8 de la Convention européenne des droits de l'homme.
+
+Réduire cette tragédie à une simple « fracture numérique » relève de l'aveuglement idéologique. Il ne s'agit pas d'apprendre au citoyen à « cliquer sur le bon bouton » : il s'agit d'un **différentiel de puissance brute**. Face à une institution dotée de supercalculateurs, de juristes rompus à l'usure procédurale et d'algorithmes opaques, l'individu nu est condamné à plier, tant qu'il ne dispose pas de son propre bouclier cognitif capable de documenter l'erreur, d'exiger la trace et de porter la contradiction à égalité d'armes.

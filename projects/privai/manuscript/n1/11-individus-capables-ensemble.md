@@ -14,12 +14,16 @@ document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
 ai_assisted_by:
-- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04"
+- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04, 2026-10-05"
 provenance:
   origin_type: "corpus-derivation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "research/democratic_ai_safety.md"
   origin_date: "2026-05-11"
+  derived_from:
+    - "barons-Mariani/research/noyau_doctrinal_rendre_capable.md"
+    - "barons-Mariani/research/tensions_liberte_egalite_fraternite_effectives.md"
+    - "barons-Mariani/research/stigmergie_sans_limite_haute.md"
 ---
 
 # Chapitre 11 : Des individus capables ensemble
@@ -77,3 +81,42 @@ Cette dialectique trouve son incarnation technique dans la complémentarité ent
 2. **Cogentia Commons est l'espace public :** Il mutualise les enquêtes citoyennes, documente les dérives institutionnelles, confronte les théories à l'épreuve des faits (Seconde Méthode) et bâtit des corpus de référence opposables au pouvoir.
 
 L'individu capable et la communauté solidaire cessent de s'opposer : le premier nourrit le second de ses découvertes libres ; le second protège le premier en garantissant l'accès à une vérité partagée et vérifiable.
+
+---
+
+## 4. La fraternité effective comme non-abandon capacitaire sans capture
+
+Dans le triptyque républicain revisité par la doctrine de l'Autonomie de Capacité (*Rendre capable*, §4), la fraternité cesse d'être une pétition morale sentimentale ou un alibi pour l'assistanat clientéliste. Elle est redéfinie comme un impératif d'action matérielle :
+
+> **La Fraternité effective :** Le devoir constitutionnel et collectif de **non-abandon capacitaire sans capture relationnelle**.
+
+Face au choc de l'automatisation institutionnelle, laisser un citoyen démuni, sans compétences ou sans équipement cognitif pour affronter l'administration numérique constitue une forme moderne de violence d'État. La fraternité effective impose :
+1. **L'équipement capacitaire garanti :** La collectivité doit assurer à chaque personne, quels que soient son âge, son statut ou ses moyens financiers, l'accès à un environnement de calcul local souverain et à une formation critique aux outils d'investigation.
+2. **Le refus du paternalisme algorithmique :** Aider une personne ne signifie pas penser à sa place ni la soumettre à un tuteur numérique bienveillant qui filtre ce qu'elle a le droit de lire ou d'écrire. L'aide capacitaire doit renforcer l'autonomie de décision de l'individu, jamais la remplacer par une dépendance docile.
+3. **Le secours probatoire mutuel :** Lorsqu'un individu vulnérable est broyé par une injustice algorithmique (comme les victimes de Robodebt ou du profilage CAF), la fraternité civique organise la mutualisation immédiate de l'expertise juridique et des contre-traces pour briser l'isolement du requérant.
+
+---
+
+## 5. La coopération stigmergique par les traces
+
+Comment des milliers de citoyens souverains et d'organisations autonomes peuvent-ils coordonner leurs efforts sans récréer un appareil bureaucratique centralisé et pesant ?
+
+La réponse réside dans la **coopération stigmergique** (*Stigmergie sans limite haute*), empruntée aux systèmes vivants décentralisés :
+- Dans une termitière, aucun chef d'orchestre ne commande aux ouvrières : chaque individu agit en modifiant son environnement matériel, et la trace de son travail (*la phéromone*) guide l'action du suivant.
+- Dans l'écosystème PrivAI / Cogentia, les enquêteurs, juristes, codeurs et citoyens agissent en déposant des traces qualifiées dans le corpus ouvert : un précédent juridique documenté, une faille d'algorithme public signalée, un script de vérification d'inférence publié sous licence libre.
+- D'autres agents et humains s'emparent de ces traces pour bâtir des recours collectifs, affiner les modèles frugaux ou alerter la presse. 
+
+La coordination s'opère par la richesse et l'exactitude des traces partagées, non par la soumission à une chaîne de commandement hiérarchique.
+
+---
+
+## 6. Le pacte anti-capture et le droit de sécession cognitive
+
+Tout regroupement humain et tout bien commun court le risque permanent d'être détourné de sa mission originelle par des groupes d'intérêt ou des bureaucraties professionnelles (loi d'airain de l'oligarchie de Robert Michels).
+
+Pour prémunir durablement les coopératives cognitives contre ce péril, PrivAI intègre un **pacte anti-capture** reposant sur le **droit de sécession cognitive inconditionnel** :
+1. **Zéro enfermement propriétaire :** Tout le code, tous les formats de métadonnées et tous les corpus méthodologiques d'un commun doivent être publiés sous licences réputées libres et virales (ex. CC BY-SA 4.0, AGPLv3).
+2. **Le droit de fork intégral :** Si la gouvernance d'une fédération de calcul ou d'une association civique commence à censurer des membres, à transiger avec des monopoles industriels ou à privatiser des connaissances, toute minorité dissidente a le droit technique et juridique instantané de cloner l'intégralité du corpus, des traces publiques et des outils pour poursuivre l'œuvre sous une autre bannière.
+3. **L'intégrité des ancres personnelles :** La sécession collective n'affecte en rien les jumeaux privés des participants, qui demeurent hébergés sur leurs postes personnels indépendants.
+
+Le commun n'est pas une prison dorée : c'est un foyer ouvert de pairs libres, qui ne tient que par la confiance mutuelle et l'utilité réelle qu'il apporte à chacun de ses membres.

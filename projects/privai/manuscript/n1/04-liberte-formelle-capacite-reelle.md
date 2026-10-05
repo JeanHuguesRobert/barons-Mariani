@@ -47,16 +47,35 @@ Le droit existe en théorie ; la capacité réelle d'agir, de comprendre et de r
 
 Pour sortir de cette impuissance institutionnelle, PrivAI s'appuie sur la matrice conceptuelle forgée par l'Institut Mariani : **l'Autonomie de Capacité** (*research/autonomia/grammaire_autonomie_de_capacite.md*).
 
-Conçue initialement pour penser la souveraineté territoriale et collective contre la dépendance statutaire, cette grammaire politique pose qu'une souveraineté ne se mesure pas au nombre de compétences concédées sur un parchemin législatif, mais à la possession effective des leviers concrets d'autodétermination :
-1. **L'autonomie matérielle et technique :** disposer de ses propres outils, de ses serveurs, de ses modèles et de son énergie, sans dépendre d'un tiers souverain révocable ;
-2. **L'autonomie de preuve et d'instruction :** être en mesure d'établir des faits vérifiables indépendamment des registres du prince ou de la corporation ;
-3. **L'autonomie de décision :** ne déléguer aucun pouvoir arbitraire sans mandat borné, révocable et auditable à chaque instant.
+Conçue initialement pour penser la souveraineté territoriale et collective contre la dépendance statutaire, cette grammaire politique pose qu'une souveraineté ne se mesure pas au nombre de compétences concédées sur un parchemin législatif, mais à la possession effective des leviers concrets d'autodétermination. 
+
+Comme le formalise la règle générative de l'Institut Mariani, une capacité réelle face aux systèmes algorithmiques doit satisfaire à **sept critères stricts d'effectivité** :
+1. **Réelle :** Elle modifie immédiatement une possibilité matérielle d'action pour l'individu (lire, vérifier, riposter), et ne se réduit pas à une promesse d'assistance future.
+2. **Traçable :** Chaque interaction, inférence et échange produit une trace opposable et horodatée, échappant à la suppression unilatérale par la plateforme.
+3. **Imputable :** L'auteur ou le mandant humain de l'acte est immédiatement identifiable ; l'alibi du modèle autonome est expressément neutralisé.
+4. **Contrôlable :** Les audits, contestations, requêtes d'explication et révocations de mandats peuvent être exercés directement par la personne physique, sans dépendre du bon vouloir d'un service client algorithmique.
+5. **Transmissible :** Les savoirs, archives et prothèses cognitives accumulés augmentent le capital d'action des générations suivantes au lieu d'être confisqués par un abonnement propriétaire résiliable.
+6. **Anti-capture :** L'architecture technique et juridique est immunisée contre l'accaparement technocratique, oligarchique ou étatique ; elle interdit le verrouillage par le fournisseur (*vendor lock-in*).
+7. **Située :** Elle s'ancre dans le territoire, le matériel possédé en propre et les contraintes physiques réelles, plutôt que dans l'abstraction flottante d'un cloud distant.
 
 Appliquer l'Autonomie de Capacité à l'intelligence artificielle est le geste politique novateur de PrivAI. Il s'agit de substituer à l'attitude passive de l'utilisateur assisté ou du consommateur plaignant une posture de **souveraineté cognitive outillée**.
 
 ---
 
-## 3. L'hypothèse C4 : l'obsolescence politique de l'humain
+## 3. L'illusion de l'AI Act : la capture réglementaire par la bureaucratie de conformité
+
+C'est à cette aune capacitaire qu'il convient de juger les initiatives réglementaires contemporaines, au premier rang desquelles l'**AI Act européen**.
+
+En adoptant une approche par les risques couplée à des obligations procédurales titanesques (analyses d'impact, marquages CE, audits de conformité par des tiers notifiés), le législateur européen a cru réguler la puissance des géants de l'IA. En réalité, il a organisé une immense **capture réglementaire** :
+- Seuls les oligopoles transnationaux et les cabinets d'audit internationaux disposent des millions d'euros et des armées d'avocats nécessaires pour absorber le coût de la conformité réglementaire.
+- L'écosystème des logiciels libres, des modèles ouverts (*open-weights*) et des initiatives civiques locales se retrouve étranglé sous des contraintes bureaucratiques pensées pour des multinationales.
+- Pour le citoyen individuel, l'AI Act ne change strictement rien : il ne lui confère aucun outil de calcul autonome, aucun moyen matériel d'inspecter un modèle, aucune capacité de riposte face à sa banque ou à son administration.
+
+L'AI Act produit une **autonomie de papier** pour les citoyens, et une rente de situation pour les personnes morales dominantes. L'Autonomie de Capacité refuse ce leurre : le citoyen n'a pas besoin de règlements de cinq cents pages que personne ne peut actionner ; il a besoin de **son propre jumeau numérique**, de **poids ouverts tournant sur son silicium local**, et de **protocoles cryptographiques de mandat** qui lui rendent la mainmise sur ses données.
+
+---
+
+## 4. L'hypothèse C4 : l'obsolescence politique de l'humain
 
 Ce passage de la liberté formelle à l'impuissance réelle fonde l'hypothèse centrale **C4** du projet PrivAI (*Democratic AI Safety*, §1) :
 

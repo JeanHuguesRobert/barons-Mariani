@@ -71,8 +71,18 @@ Comme l'ont formalisé les canonistes du XIIIe siècle (notamment le pape Innoce
 - d'accumuler du capital génération après génération ;
 - de diluer la responsabilité pénale et morale individuelle derrière l'écran de l'intérêt social.
 
-La corporation moderne fonctionnait déjà comme un algorithme institutionnel avant l'informatique : un ensemble de règles, de statuts, d'optimisations fiscales, de procédures hiérarchiques et de mandats visant à maximiser un objectif défini (le profit des actionnaires ou la perpétuation de l'appareil administratif).
+La corporation moderne fonctionnait déjà comme un algorithme institutionnel avant l'informatique : un ensemble de règles, de statuts, d'optimisations fiscales, de procédures hiérarchiques et de mandats visant à maximiser un objectif défini (le profit des actionnaires ou la perpétuation de l'appareil administratif). Dès le début du XXe siècle, Max Weber décrivait la bureaucratie moderne comme une machinerie sociale fondée sur la calculabilité impersonnelle, observant que sa perfection technique s'accroît à mesure qu'elle se « déshumanise », c'est-à-dire qu'elle élimine de la gestion des affaires publiques les sentiments, l'empathie et les considérations personnelles insoumises au calcul formel.
 
-L'introduction de l'intelligence artificielle ne crée pas ce pouvoir institutionnel autonome ex nihilo : **elle lui donne des ailes algorithmiques**. L'IA confère à la personne morale une vitesse de calcul, une capacité de surveillance, une mémoire documentaire infinie et une réactivité tactique qui achèvent d'écraser l'échelle humaine.
+L'introduction de l'intelligence artificielle ne crée pas ce pouvoir institutionnel autonome ex nihilo : **elle lui donne des ailes algorithmiques**. L'IA confère à la personne morale une vitesse de calcul, une capacité de surveillance, une mémoire documentaire infinie et une réactivité tactique qui achèvent d'écraser l'échelle humaine. Ce que Weber qualifiait de « cage d'acier » de la rationalité instrumentale n'est plus seulement codifié dans des classeurs administratifs : il s'exécute désormais à la milliseconde, dans le langage naturel des grands modèles de fondation, simulant la conversation humaine pour mieux imposer des arbitrages automatisés.
 
-Le danger n'est donc pas une créature cybernétique échappée d'un laboratoire ; le danger est la consolidation d'un féodalisme institutionnel où des personnes morales surpuissantes transforment les êtres humains en simples variables d'ajustement de leurs modèles prédictifs.
+---
+
+## 4. De la Compagnie des Indes au scandale Horizon : la machine contre la chair
+
+Ce processus n'a rien de virtuel. L'histoire récente regorge d'exemples tragiques où la personne morale, armée d'un automate logiciel défaillant, a préféré broyer méthodiquement des centaines d'êtres humains plutôt que d'admettre la faillibilité de ses systèmes.
+
+L'archétype mondial de cette dérive est le **scandale du Post Office britannique et du logiciel Horizon** (documenté dans le *Reality Case 06* de PrivAI). Entre 1999 et 2015, plus de neuf cents sous-postiers de village ont été condamnés au pénal, ruinés ou emprisonnés pour de prétendus déficits de caisse qui n'étaient que des bugs informatiques et des corruptions de base de données. Face aux gérants désespérés jurant qu'ils n'avaient rien volé, l'institution a répété pendant quinze ans la même formule mécanique : *« Le système informatique ne peut pas se tromper ; vous êtes le seul »*. 
+
+Dans cette tragédie institutionnelle, nul besoin d'une IA devenue consciente : une personne morale poursuivant sa propre préservation financière, adossée à la présomption juridique d'infaillibilité de l'ordinateur et à des armées d'avocats procéduriers, a suffi pour suspendre l'état de droit pour des centaines de citoyens innocents.
+
+Le danger n'est donc pas une créature cybernétique échappée d'un laboratoire de science-fiction ; le danger est la consolidation d'un féodalisme institutionnel où des personnes morales surpuissantes transforment les êtres humains en simples variables d'ajustement de leurs modèles prédictifs. La vraie AI Safety commence par la protection des personnes physiques contre cette domination machinale.

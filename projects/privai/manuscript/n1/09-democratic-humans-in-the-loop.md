@@ -14,12 +14,17 @@ document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
 ai_assisted_by:
-- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04"
+- "Antigravity (Gemini 3.8 Flash High) — drafting assistance, 2026-10-04, 2026-10-05"
 provenance:
   origin_type: "corpus-derivation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "research/democratic_ai_safety.md"
   origin_date: "2026-05-11"
+  derived_from:
+    - "barons-Mariani/projects/privai/doctrine/anti-demos.md"
+    - "barons-Mariani/research/personne_numerique_mandatee.md"
+    - "barons-Mariani/projects/privai/annexes/precedents-juridiques-inventeur-humain.md"
+    - "barons-Mariani/projects/privai/magazine/2026-10-04-illusion-electeur-synthetique.md"
 ---
 
 # Chapitre 9 : Democratic Humans in the Loop
@@ -66,3 +71,43 @@ Un système d'IA véritablement aligné sur la démocratie exige que le peuple s
 - participe à la qualification contradictoire des corpus servant à l'entraînement public.
 
 Sans DHITL, le gouvernement par les algorithmes réalise le vieux rêve de la technocratie autoritaire : une administration des choses sans citoyens, où l'humain n'est plus qu'un spectateur impuissant de sa propre dépossession.
+
+---
+
+## 4. Les quatre séparations architecturales de DHITL
+
+Pour traduire cette exigence politique en architecture logicielle concrète, la doctrine PrivAI (*La personne numérique mandatée*, §8) impose **quatre séparations étanches** au sein de tout flux institutionnel :
+
+1. **Séparation Proposition / Décision :** Un agent ou un modèle peut analyser, synthétiser, recommander ou classer des options ; il ne transforme jamais de lui-même une proposition en décision exécutoire. La décision demeure un acte de volonté humaine souveraine.
+2. **Séparation Autorisation / Exécution :** Une action validée peut être exécutée à la vitesse de la machine (déclenchement de paiements, mise à jour d'un registre), mais le jeton d'autorisation qui a déclenché l'exécution doit être signé cryptographiquement par une clé humaine nominative et auditable.
+3. **Séparation Exécution / Responsabilité :** Un algorithme d'optimisation peut accomplir la tâche technique sans jamais devenir le répondant légal. En cas de dommage, l'institution ne peut se réfugier derrière l'outil : la responsabilité remonte sans atténuation vers l'ordonnateur humain.
+4. **Séparation Traçabilité des actes / Surveillance des personnes :** DHITL exige la traçabilité absolue des actes de puissance publique et des décisions corporatives engageantes, tout en interdisant le flicage biométrique et cognitif permanent des administrés et des travailleurs. On trace le pouvoir, on sanctuarise le citoyen.
+
+---
+
+## 5. L'argument de symétrie DABUS : posséder contre gouverner
+
+La nécessité d'exclure les machines du pouvoir décisionnel souverain trouve son ancrage le plus solide dans un précédent juridique international majeur : la jurisprudence **DABUS** (*Device for the Autonomous Bootstrapping of Unified Sentience*).
+
+Entre 2020 et 2024, le promoteur de ce système a tenté de faire enregistrer des brevets d'invention désignant l'algorithme lui-même comme inventeur officiel. La Cour suprême du Royaume-Uni (*Thaler v Comptroller-General of Patents [2023] UKSC 49*), l'Office européen des brevets (OEB) et les tribunaux fédéraux américains ont unanimement rejeté cette prétention : une invention brevetable exige un inventeur humain, seul titulaire possible de droits et devoirs patrimoniaux.
+
+PrivAI dérive de ce précédent un **axiome de symétrie constitutionnelle fondamental** :
+
+> **Axiome de symétrie de l'autorité :** Si une machine ne peut pas être déclarée inventeur pour détenir un monopole de propriété privée, elle ne peut à aucun titre être déclarée autorité pour exercer une prérogative de puissance publique ou gouverner des humains.
+
+Ce que le capitalisme refuse à l'IA pour préserver l'ordre patrimonial des entreprises, la République doit *a fortiori* le refuser à l'IA pour préserver l'ordre démocratique des citoyens.
+
+---
+
+## 6. L'illusion de l'électeur synthétique et la sanctuarisation du Demos
+
+La forme la plus insidieuse de subversion démocratique ne vient pas d'une rébellion brutale des robots, mais de ce que le magazine PrivAI dénonce sous le titre de *« L'illusion de l'électeur synthétique »* :
+
+Sous prétexte de fluidifier la démocratie participative ou de mesurer « l'opinion publique », des cabinets de conseil et des gouvernements technocratiques déploient déjà des grappes d'agents conversationnels calibrés pour simuler des panels sociologiques de citoyens (*synthetic personas*). Ces agents sont interrogés pour valider des projets de loi, tester des discours électoraux ou justifier des réformes régressives en affirmant que *« 87 % des citoyens synthétiques consultés approuvent cette mesure »*.
+
+Cette dérive constitue un véritable coup d'État cybernétique contre le *demos* :
+- Elle remplace le peuple réel, contradictoire, souffrant et vivant, par un simulacre mathématique aligné sur les préjugés statistiques de ses concepteurs ;
+- Elle permet aux détenteurs de supercalculateurs de fabriquer un consentement artificiel sur mesure à des coûts marginaux nuls ;
+- Elle détruit l'essence même du suffrage universel, qui repose sur l'égalité stricte : un être humain vivant, une voix.
+
+Le principe Anti-Demos est sans appel : **le corps électoral est une communauté biologique et morale inviolable.** Tout sondage, toute consultation et tout arbitrage politique fondé sur des entités synthétiques doit être frappé d'illégalité républicaine absolue.
