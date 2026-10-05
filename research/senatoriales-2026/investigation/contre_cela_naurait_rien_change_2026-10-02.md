@@ -3,7 +3,7 @@ title: "Contre « cela n’aurait rien changé » — premier tour, Haute-Corse,
 subtitle: "Pièce sur l’influence du refus d’enregistrement"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-10-02"
-version: "0.3"
+version: "0.4"
 status: "working — public — relié au projet de requête au Conseil constitutionnel"
 language: "fr"
 document_role: "source"
@@ -14,7 +14,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 conditional_premise: "Le refus d’enregistrement est supposé illégal dans cette pièce. Ce point est traité ailleurs et n’est pas démontré ici."
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.4.md"
+  - "../requete-conseil-constitutionnel-projet-v0.7.md"
   - "borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "analyse_statistique_comparee_2A_2B_2020_2026.md"
   - "analyse_exposition_collegial_senatoriales_2026.md"
@@ -291,3 +291,15 @@ Le texte applique deux règles de FractaCognition :
 et :
 
 > **Dans une estimation, éviter la fausse précision : entiers dans le framing, décimales dans la vérification.**
+
+
+## 10. Trace publique — 5 octobre 2026
+
+Le requérant a publié publiquement sur Facebook la photographie du bulletin « (Elections Sénatoriales 2027) BARON MARIANI » issue de la consultation préfectorale du 1er octobre, en reliant cette pièce à la préparation de la requête au Conseil constitutionnel.
+
+URL publique déclarée :
+https://www.facebook.com/jeanhuguesrobert/posts/pfbid02CnJSnzUcbDL8duYuaLd8bSCxTLwsq5havGviXxHS925Q4tp4nXW7GE7GaqcBMAvxl
+
+Le texte de la publication a été modifié après publication. Le Corpus enregistre ici l'existence et l'URL de cette communication publique, mais ne prétend pas figer mot pour mot sa version Facebook courante tant qu'une copie exacte de l'état final n'a pas été archivée.
+
+Le framing public retenu est cohérent avec la présente note : **l'écart 442–88 ne répond pas à la question du second tour ; l'ordre de grandeur pertinent est 22–29 %, à comparer à 33 % effectivement observés au sud le même jour.**
