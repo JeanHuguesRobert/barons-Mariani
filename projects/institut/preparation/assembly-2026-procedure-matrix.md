@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -211,3 +211,75 @@ Ne pas passer à une convocation définitive tant que ces quatre cases ne sont p
 - [ ] liste des destinataires de la convocation.
 
 Le reste — délai, majorité, seconde convocation, PV et formalités — est désormais suffisamment explicite pour être préparé mécaniquement une fois ces verrous levés.
+## 9. Procédure robuste à l’incertitude du corps électoral
+
+La procédure peut être préparée sans prétendre que le registre des membres est déjà certain.
+
+### 9.1 Trois projections séparées
+
+~~~text
+NOTIFICATION UNIVERSE
+toutes les personnes plausiblement concernées
+
+QUALIFIED VOTING ROLL
+droits de vote suffisamment établis
+
+UNRESOLVED SET
+qualité encore à instruire
+~~~
+
+Une personne peut donc recevoir une convocation par prudence sans que cette convocation constitue, à elle seule, une décision sur sa qualité statutaire.
+
+### 9.2 Premier appel
+
+Le quorum du quart doit être testé contre une borne conservatrice du nombre de membres de l’AG.
+
+Si plusieurs dénominateurs restent plausibles :
+
+~~~text
+quorum robuste
+→ atteint sous toutes les variantes raisonnablement soutenues
+
+quorum non robuste
+→ ne pas déclarer le premier appel suffisamment sécurisé
+→ utiliser, si les autres conditions sont remplies, le mécanisme de seconde convocation prévu par l’article 17
+~~~
+
+### 9.3 Second appel
+
+Le texte 1995 prévoit qu’après échec du premier quorum, une nouvelle assemblée convoquée à au moins quinze jours d’intervalle peut délibérer quel que soit le nombre de présents ou représentés.
+
+Ce mécanisme réduit la sensibilité au **nombre total** de membres, mais il ne résout pas :
+
+- la nécessité d’une convocation régulière ;
+- l’identification des destinataires ;
+- la qualité de ceux qui votent ;
+- l’initiative et l’ordre du jour ;
+- la majorité des deux tiers.
+
+### 9.4 Vote
+
+Lorsque la qualité d’un participant reste litigieuse, conserver des tallies de sensibilité :
+
+~~~text
+T0
+→ seuls votes qualifiés avec confiance forte
+
+T1…Tn
+→ inclusion des cas non résolus selon chaque hypothèse soutenable
+~~~
+
+Une résolution dont l’adoption reste acquise dans tous les scénarios plausibles est institutionnellement plus robuste qu’une résolution qui dépend d’une seule qualification contestable.
+
+## 10. Reality Test FractaCognition
+
+Ce chantier révèle un motif réutilisable : **une incertitude institutionnelle ne doit pas être écrasée en booléen avant que le Réel ne l’autorise**.
+
+~~~text
+unknown membership
+→ ensemble de possibilités explicites
+→ procédure testée sur plusieurs variantes
+→ décision robuste ou besoin de nouvelle preuve
+~~~
+
+C’est un candidat de Pattern Mining, pas encore un nouveau principe canonique.
