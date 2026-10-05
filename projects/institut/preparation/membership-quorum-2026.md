@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "1.1"
+version: "1.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -414,6 +414,24 @@ statut opérationnel saisi
 Un dossier de réponses avec pièces d'identité existe également. Il n'a pas été inspecté : ces pièces privées ne sont pas nécessaires à la qualification juridique recherchée et leur consultation ajouterait une exposition de données sans gain probatoire proportionné.
 
 Cette découverte renforce la distinction entre **onboarding opérationnel** et **admission institutionnelle**.
+
+## 3 undecies. Déclaration contemporaine sur la pratique active
+
+Au 5 octobre 2026, le Président précise que la pratique ancienne de C.O.R.S.I.C.A. distingue les membres actifs des autres membres principalement usagers, l’adhésion étant libre.
+
+Selon cette déclaration, seuls deux membres sont aujourd’hui actifs de manière continue : le Président et Maguy Ghionga, actuellement décrite comme Trésorière. Quelques usagers sont actifs épisodiquement.
+
+Cette information modifie fortement la lecture de l’ordre de grandeur « 40 membres actifs » employé en mars 2026 : ce dernier doit être compris comme une estimation de population participante à un projet, et non comme un état nominatif du corps actif continu.
+
+~~~text
+40 participants / actifs potentiels dans un projet
+≠
+40 membres actifs continus
+≠
+40 membres votants statutaires
+~~~
+
+Pour le quorum, la déclaration actuelle est un indice important mais ne suffit toujours pas à résoudre seule les catégories juridiques de 1995. Elle oriente cependant la reconstruction privée vers un petit noyau actif continu + une périphérie d’usagers / participants épisodiques, plutôt que vers l’hypothèse d’un grand corps actif permanent.
 
 ## 4. Reconstruction requise
 
