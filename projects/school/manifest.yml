@@ -1,0 +1,40 @@
+schema: living-book/v1
+
+book:
+  id: school
+  title: Mariani School of Autonomy
+  subtitle: "L'Autonomie de Capacité : méthode, formation de coachs et transmission"
+  canonical_host: school.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant consacré à la Mariani School of Autonomy (École Mariani de l'Autonomie)
+    et à la grammaire générative de l'Autonomie de Capacité. Pédagogie de terrain,
+    formation des coachs d'autonomie augmentée par IA, homéostasie de l'habitat,
+    et émancipation cognitive des personnes et territoires.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: federated
+  sources:
+    - institut
+    - capable
+    - privai
+
+extensions:
+  - chronology
+  - cases
+  - people-registry
+  - living-book-press

@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: rise-and-fall
+status: working
+frozen: false
+generated_at: '2026-10-04T19:35:39.934Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: a7f5a45d07670fdf7988503bfb53dfe82d24cc7618edd4bec98251e5aec3c7ac
+    size: 45466
+  pdf:
+    path: projections/preview.pdf
+    sha256: bb921ddc9c97701c7b3831cb76263ed0d6eeffb84f5db6378a3b939a35d07470
+    size: 65732
+  epub:
+    path: projections/preview.epub
+    sha256: d9e0b82e38678efcf3cf8d71c766432f37097ca1d4911963fe7cc12b7c1f4e66
+    size: 24162
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

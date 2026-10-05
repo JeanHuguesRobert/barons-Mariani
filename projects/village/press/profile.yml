@@ -1,0 +1,20 @@
+schema: living-book-press.profile/v1
+book_id: village
+prefix: VILLAGE
+title: "Mariani Village — Livre Vivant"
+verification_base_url: "https://village.acorsica.org/press/verify"
+default_edition: "living-v0"
+editions:
+  living-v0:
+    id: "living-v0"
+    title: "Édition initiale de travail"
+    date: "2026-10-04"
+    status: active
+material_profiles:
+  accessible:
+    name: "Accessible"
+    description: "Impression fluide A4"
+  luxe:
+    name: "Luxe"
+    description: "Tirage soigné avec plans d'architecture"
+singularization_default: singulier

@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: napoleon
+status: working
+frozen: false
+generated_at: '2026-10-04T19:57:41.041Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 55018bfe57d6fb054b20ca70c8ed75f9152e1a27fa824542a15387af82758355
+    size: 6827
+  pdf:
+    path: projections/preview.pdf
+    sha256: 066777d0b540a80a193e95180237aa89125c4e98041c2c8e8ab5acff61e7a8d0
+    size: 8842
+  epub:
+    path: projections/preview.epub
+    sha256: 1b90e2fb5a9049bdcf91fc34358b4fa0e3a7c61fb410a0351f3f19cd2025e0a7
+    size: 5023
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

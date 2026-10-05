@@ -1,0 +1,34 @@
+schema: living-book/v1
+
+book:
+  id: suicide-corse
+  title: "Suicide Corse"
+  subtitle: "Enquête sur la violence systémique, la fermeture des possibles et les voies de réparation"
+  canonical_host: suicidecorse.baronsmariani.org
+  language: fr
+  description: >
+    Livre Vivant pionnier d'enquête documentaire et prospective sur la violence systémique,
+    l'impunité par obscurité, la mémoire de Marie-Louise Robert, et la conversion de la douleur
+    en machines à rendre capable de vivre et de transmettre. Numéro 4 en préparation.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: local
+
+extensions:
+  - chronology
+  - cases
+  - living-book-press

@@ -1,0 +1,96 @@
+schema: capable.corpus.v0
+project: "Capable"
+slug: capable
+status: working
+language: fr
+visibility: public
+updated: "2026-10-05"
+source_of_truth: "repository files under projects/capable, GitHub issue 98, and the referenced sources; this manifest points at them and does not replace them"
+issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/98"
+target_identity: "https://capable.lepp.fr"
+target_identity_status: "prepared name only; DNS and deployment managed via Operium; not a frozen edition"
+canonical_question: "Qu’est-ce qu’un système ouvre réellement comme possibles, qui peut les transformer en capacités, quels effets leur exercice produit-il, et qui peut contrôler et corriger le dispositif ?"
+
+architecture:
+  implementation: projects/capable/architecture.md
+  editorial: projects/capable/README.md
+  capable_test: projects/capable/capable-test.md
+  doctrine: projects/capable/doctrine.md
+  genesis: projects/capable/genesis.md
+  public_claims: projects/capable/public-claims.md
+  contribuer: projects/capable/contribuer.md
+  manuscript: projects/capable/manuscript/
+  campaign: projects/capable/campaign/
+  reality_tests: projects/capable/reality-tests/
+  guide_profile: projects/capable/guide-profile.yml
+  site: projects/capable/site/
+  projection: projects/capable/projections/n1-working.yml
+  rule: "Le Livre porte ce qui doit durer ; les numéros portent l'état daté du Réel. La campagne présidentielle 2027 est le sujet du n°1, elle n'est pas la définition de Capable."
+
+realities:
+  - id: name-definition
+    status: consolidated
+    statement: "Capable est un adjectif qualifiant les propriétés d'un système (possibles ouverts, accessibles, exerçables, observables, corrigibles) et non un verdict moral sur les personnes."
+  - id: institutional-carriage
+    status: consolidated
+    statement: "Capable s'articule à trois niveaux : C.O.R.S.I.C.A. (matrice associative 1995), Capable (mouvement civique et politique transversal), et Le Petit Parti (véhicule pratique de participation électorale)."
+  - id: silence-rule
+    status: consolidated
+    statement: "Une absence de réponse ne transforme jamais automatiquement UNKNOWN ou PENDING en ESTABLISHED. Aucun état n'est dérivé d'un silence administratif comme s'il s'agissait d'une preuve négative."
+  - id: public-host
+    status: prepared
+    statement: "Domaine public cible : capable.lepp.fr. Déploiement statique autonome sans modification DNS ou serveur non autorisée."
+
+sources:
+  - id: issue-98
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/98"
+    role: continuation-packet
+    required: true
+  - id: principe-effectivite
+    path: research/principe_effectivite.md
+    role: effectivity-principle
+    required: true
+  - id: noyau-doctrinal
+    path: research/noyau_doctrinal_rendre_capable.md
+    role: doctrine-core
+    required: true
+  - id: grammaire-autonomie
+    path: research/autonomia/grammaire_autonomie_de_capacite.md
+    role: generative-grammar
+    required: true
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true
+  - id: potentique-territoriale
+    path: research/autonomia/potentique_territoriale.md
+    role: potentics-source
+    required: true
+  - id: seconde-methode
+    path: research/second_method.md
+    role: method-source
+    required: true
+  - id: tensions-lef
+    path: research/tensions_liberte_egalite_fraternite_effectives.md
+    role: lef-source
+    required: true
+  - id: matrice-ta-d1-d10
+    path: research/senatoriales-2026/matrice-reponses-ta-d1-d10-2026-10-02.md
+    role: empirical-matrix-ta
+    required: true
+  - id: courriel-prefecture-p1-p18
+    path: research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
+    role: primary-trace-prefecture
+    required: true
+  - id: commons-corpus
+    path: projects/commons/corpus.yml
+    role: material-commons-substrate
+    required: false
+  - id: privai-corpus
+    path: projects/privai/corpus.yml
+    role: cognitive-sovereignty-lineage
+    required: false
+  - id: projet-1755-corpus
+    path: projects/1755/corpus.yml
+    role: constitutional-sovereignty-lineage
+    required: false

@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: village
+status: working
+frozen: false
+generated_at: '2026-10-04T18:11:22.862Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: ae011b12e7ebf7b39d1815ccea28f99f7db86caa3c8e89e6d74b0f4c4c9478f3
+    size: 15938
+  pdf:
+    path: projections/preview.pdf
+    sha256: 74574e2c0271cf4f7e1a9a3c29086f39cd2b631c9bd9140a0ba393fa149ac077
+    size: 20045
+  epub:
+    path: projections/preview.epub
+    sha256: 9a27519e1d19711e3435aaf729a57c86640eef6cbec36a33f7f806a0e19a3a73
+    size: 9787
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

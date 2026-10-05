@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: institut
+status: working
+frozen: false
+generated_at: '2026-10-04T18:25:26.812Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: e1d58f6d77fa04572b845dbbe2eb11e4587ae6b2db8909c607a6c9e00988fea3
+    size: 13677
+  pdf:
+    path: projections/preview.pdf
+    sha256: 5438701da750fc4cb0a8a636e092d4847178a994e90fa82fbc31e72b9361ac0c
+    size: 18100
+  epub:
+    path: projections/preview.epub
+    sha256: da53f0e1f80a0bec9224a521c085e597fd138309df9d6552fe8b8d826363ebc9
+    size: 8571
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

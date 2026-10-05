@@ -1,0 +1,35 @@
+schema: living-book/v1
+
+book:
+  id: rise-and-fall
+  title: "Rise & Fall of the Mariani Family"
+  subtitle: "Volume I : De la notabilité cortenaise à l'apogée impériale (1776–1870)"
+  canonical_host: riseandfall.baronsmariani.org
+  language: fr
+  description: >
+    Livre Vivant d'enquête historique et généalogique sur l'ascension et la trajectoire des barons Mariani,
+    du titre westphalien de 1813 à la constitution du domaine de Minesteggio,
+    les Reality Cases électoraux et la transmission mémorielle.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: local
+
+extensions:
+  - chronology
+  - cases
+  - genealogy
+  - living-book-press

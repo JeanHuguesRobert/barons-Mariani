@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: suicide-corse
+status: working
+frozen: false
+generated_at: '2026-10-04T19:43:16.133Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: bbe5d8d9e33a370ba8fd079bb53dab3f7a3ae8e045bcf7bc98a490658222455e
+    size: 293923
+  pdf:
+    path: projections/preview.pdf
+    sha256: 4638e7ecfe68229fb05abb721bd961f6c356ffe6b200bbd6734dcbb8e0ff51bd
+    size: 465260
+  epub:
+    path: projections/preview.epub
+    sha256: 50af993f6136feaf0098a2062b3666f14902e1b9c22bbb0efabd1431a1406893
+    size: 124076
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

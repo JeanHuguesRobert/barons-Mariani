@@ -1,0 +1,33 @@
+schema: living-book/v1
+
+book:
+  id: napoleon
+  title: "Napoléon"
+  subtitle: "Histoire, stratégie, sources, controverses et Provisional Cogentia Twin"
+  canonical_host: napoleon.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant consacré à Napoléon Bonaparte comme objet historique, stratégique et historiographique,
+    articulé à une couche d'expérimentation distincte : le Provisional Cogentia Twin hébergé par Agent JHN.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: local
+
+extensions:
+  - chronology
+  - cases
+  - living-book-press

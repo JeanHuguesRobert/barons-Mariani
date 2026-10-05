@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: '1755'
+status: working
+frozen: false
+generated_at: '2026-10-04T19:27:17.294Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 7be9b6c85ea37bad327aa8af1ae13f89791727b0b8f73e27750981245d527118
+    size: 35579
+  pdf:
+    path: projections/preview.pdf
+    sha256: 0c38066c4367e75eb03710c90ae7d179579871e324ed3198fbb5d291166a2ae9
+    size: 54106
+  epub:
+    path: projections/preview.epub
+    sha256: d6e00052104c6fae60b344e4ba314c92e12ac47c7ce1ae69ac2f54b61efddae3
+    size: 19592
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

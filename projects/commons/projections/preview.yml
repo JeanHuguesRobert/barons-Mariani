@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: commons
+status: working
+frozen: false
+generated_at: '2026-10-04T19:22:23.560Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 8656929f0e11492e62ea0fe33addd80ab95be67bf8eedd47733a7d5dfe19fcfa
+    size: 40646
+  pdf:
+    path: projections/preview.pdf
+    sha256: 260e248c3e1d7835531f6d0058cffb9dbe1912b384e7dcabdc86792c4793d786
+    size: 59801
+  epub:
+    path: projections/preview.epub
+    sha256: 85c8c786552131ea62aedb34b5b0718948b6fa9371c550d5def645de14537502
+    size: 20561
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

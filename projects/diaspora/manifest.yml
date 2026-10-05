@@ -1,0 +1,33 @@
+schema: living-book/v1
+
+book:
+  id: diaspora
+  title: "DIASPORA — La Corse furtive et le réseau mondial des compétences"
+  subtitle: "Atlas des compétences et capacités distribuées"
+  canonical_host: diaspora.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant et atlas interactif de la diaspora corse et de ses capacités distribuées,
+    explorant l'histoire de la Corse furtive, les surreprésentations administratives et académiques,
+    et le graphe de compétences reliant la diaspora à l'île.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: false
+
+magazine:
+  mode: local
+
+extensions:
+  - maps
+  - living-book-press

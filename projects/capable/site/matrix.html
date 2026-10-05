@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Capable — Matrice publique d'interaction d'effectivité</title>
+<meta name="description" content="Cartographie dynamique et vérifiable des demandes (D1-D10 TA, P1-P18 Préfecture), déclencheurs, réponses, silences et statuts probatoires de la Campagne du Réel.">
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://capable.lepp.fr/matrix.html">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Capable</a></p>
+  <nav aria-label="Navigation principale">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="n1.html">n°1</a>
+    <a href="matrix.html" aria-current="page">Matrice</a>
+    <a href="acteurs.html">Acteurs</a>
+    <a href="chronologie.html">Chronologie</a>
+    <a href="sources.html">Sources</a>
+    <a href="guide.html">Guide</a>
+    <a href="contribuer.html">Contribuer</a>
+    <a href="mentions.html">Mentions</a>
+  </nav>
+</header>
+
+<main id="contenu">
+  <p class="pill">Campagne du Réel · Matrice d'interaction v0.3</p>
+  <h1>Matrice publique d'interaction d'effectivité</h1>
+  <p class="lede">Cartographie dynamique et opposable des demandes adressées aux institutions, des déclencheurs procéduraux, des réponses observables et de l'état des preuves.</p>
+
+  <div class="call">
+    <h3>Règles cardinales de lecture probatoire</h3>
+    <ul>
+      <li><strong>R1 — Règle du silence :</strong> Une absence de réponse ne prouve jamais l'inexistence d'un document, d'une trace ou d'un acte. Le silence maintient les états <code>PENDING</code> ou <code>UNKNOWN</code>, il ne les transforme jamais en <code>ESTABLISHED</code>.</li>
+      <li><strong>R2 — Déclencheur :</strong> Une relance n'est pas une répétition isolée ; elle est justifiée par un événement procédural nouveau (ex. l'invitation du TA à saisir le Conseil constitutionnel).</li>
+      <li><strong>R3 — Acteur :</strong> <em>Détient l'information</em> ≠ <em>peut décider</em> ≠ <em>peut répondre</em> ≠ <em>peut transmettre</em>.</li>
+      <li><strong>R4 — Corrigibilité :</strong> Toute case de cette matrice est publique et peut être contredite sur pièces via la page <a href="contribuer.html">Contribuer</a>.</li>
+    </ul>
+  </div>
+
+  <h2>Filtres d'exploration</h2>
+  <div class="filter-bar" role="toolbar" aria-label="Filtrer les lignes de la matrice">
+    <span>Filtrer par acteur :</span>
+    <button type="button" class="filter-btn active" data-filter="all">Tous</button>
+    <button type="button" class="filter-btn" data-filter="ta">TA de Bastia (D1–D10)</button>
+    <button type="button" class="filter-btn" data-filter="pref">Préfecture (P1–P18)</button>
+    <span style="margin-left: 1rem;">Filtrer par statut :</span>
+    <button type="button" class="filter-btn" data-status="pending">PENDING</button>
+    <button type="button" class="filter-btn" data-status="unknown">UNKNOWN</button>
+    <button type="button" class="filter-btn" data-status="established">ESTABLISHED</button>
+  </div>
+
+  <!-- TABLE TA D1-D10 -->
+  <section id="section-ta">
+    <h2>1. Tribunal administratif de Bastia — Demandes D1 à D10</h2>
+    <p><em>Mode de priorité : aucun (exhaustivité horizontale). Les dix demandes visent à établir l'état complet du dossier juridictionnel avant jugement.</em></p>
+    
+    <div class="table-container">
+      <table id="table-ta">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Fait recherché &amp; Objet</th>
+            <th>Trace pertinente</th>
+            <th>Déclencheur</th>
+            <th>Réponse observable</th>
+            <th>Statut</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D1</strong></td>
+            <td>Nature et heure exacte de l'entrée Sagace « Réception d'une lettre » du 14/09</td>
+            <td>Sagace, journal applicatif, pièce correspondante</td>
+            <td>Invitation du TA à saisir le CC (01/10)</td>
+            <td>Aucune réponse détaillée reçue</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D1">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D2</strong></td>
+            <td>Productions préfectorales enregistrées après les 16 pièces initiales et avant jugement</td>
+            <td>Dossier TA, Télérecours, bordereaux de transmission</td>
+            <td>Invitation du TA à saisir le CC (01/10)</td>
+            <td>Dossier en cours de reconstitution</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D2">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D3a</strong></td>
+            <td>Présence du courriel de transmission du 11/09 à 17:57:55 dans le dossier</td>
+            <td>Dossier juridictionnel, correspondances</td>
+            <td>Demande de versement du 14/09 12:09</td>
+            <td>Absence de confirmation formelle</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D3a">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D3b</strong></td>
+            <td>Présence et communicabilité du lien vidéo de déclaration</td>
+            <td>Dossier TA, pièces jointes dématérialisées</td>
+            <td>Relance traçabilité du 15/09 08:42</td>
+            <td>En attente d'instruction</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D3b">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D3c</strong></td>
+            <td>Matérialisation effective du fichier vidéo ou de sa transcription</td>
+            <td>Dossier physique, copie d'audience, note de greffe</td>
+            <td>Audience du 14/09 14h</td>
+            <td>Non établi</td>
+            <td><span class="badge status-unk">UNKNOWN</span></td>
+            <td><a href="contribuer.html?case=D3c">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D4</strong></td>
+            <td>Trace d'une transmission complémentaire Préfecture &rarr; TA avant délibéré</td>
+            <td>Bordereau Télérecours, journal de transmission</td>
+            <td>Invitation CC du 01/10</td>
+            <td>Absence de trace communiquée</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D4">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D5</strong></td>
+            <td>Existence et communicabilité d'une note ou d'un plumitif d'audience</td>
+            <td>Procès-verbal d'audience, plumitif de greffe</td>
+            <td>Contestation contradictoire</td>
+            <td>Non communiqué</td>
+            <td><span class="badge status-unk">UNKNOWN</span></td>
+            <td><a href="contribuer.html?case=D5">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D6</strong></td>
+            <td>Identité du greffier d'audience ayant assisté la formation de jugement</td>
+            <td>Minute originale du jugement</td>
+            <td>Demande de transparence statutaire</td>
+            <td>En attente de communication</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D6">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D7</strong></td>
+            <td>Consultabilité et communicabilité de la minute signée du jugement</td>
+            <td>Minute originale conservée au greffe</td>
+            <td>Vérification de l'authenticité et des motifs</td>
+            <td>Non mise à disposition</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D7">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D8</strong></td>
+            <td>Heure exacte du prononcé, de la mise à disposition et de l'enregistrement</td>
+            <td>Journal applicatif Télérecours, horodatage serveur</td>
+            <td>Bornage temporel avant clôture de scrutin</td>
+            <td>Inconnu des pièces notifiées</td>
+            <td><span class="badge status-unk">UNKNOWN</span></td>
+            <td><a href="contribuer.html?case=D8">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D9</strong></td>
+            <td>État chronologique complet et exhaustif du dossier juridictionnel</td>
+            <td>Relevé intégral des mouvements de pièces Télérecours</td>
+            <td>Préparation de la requête au Conseil constitutionnel</td>
+            <td>En attente de transmission</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=D9">Objecter</a></td>
+          </tr>
+          <tr data-actor="ta" data-status="pending">
+            <td><strong>D10</strong></td>
+            <td>Disponibilité effective des pièces pour les magistrats avant qu'ils statuent</td>
+            <td>Horodatages d'accès dossier, avis de mise à disposition</td>
+            <td>Garantie du contradictoire et de l'effectivité de l'instruction</td>
+            <td>Non établi sur pièces contradictoires</td>
+            <td><span class="badge status-unk">UNKNOWN</span></td>
+            <td><a href="contribuer.html?case=D10">Objecter</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- TABLE PREFECTURE P1-P18 -->
+  <section id="section-prefecture">
+    <h2>2. Préfecture de Haute-Corse — Relance P1 à P18</h2>
+    <p><em>Mode de priorité : procédural (P1 à P4). Relance envoyée le 2 octobre 2026 à 13:33:55 CEST à la suite de la consultation matérielle du 1er octobre.</em></p>
+    
+    <div class="table-container">
+      <table id="table-pref">
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Priorité</th>
+            <th>Objet de la demande</th>
+            <th>Première trace</th>
+            <th>Détenteur</th>
+            <th>Réponse observable</th>
+            <th>Statut</th>
+            <th>Action</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-actor="pref" data-status="pending">
+            <td><strong>P1–P4</strong></td>
+            <td><strong>P1</strong> (Urgence CC)</td>
+            <td>Modalités, récépissé et heure limite effective de dépôt de la requête auprès du représentant de l'État</td>
+            <td>28/09 (Corte)</td>
+            <td>Sous-préfecture Corte / Bureau élections</td>
+            <td>Informations partielles données oralement le 01/10</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=P1-P4">Objecter</a></td>
+          </tr>
+          <tr data-actor="pref" data-status="pending">
+            <td><strong>P5–P8</strong></td>
+            <td><strong>P2</strong> (Preuve vidéo)</td>
+            <td>Heure d'arrivée sur le serveur, transmission au TA, horodatage certifié et accusé de réception du courriel du 11/09 17:57:55</td>
+            <td>11/09 17:57:55</td>
+            <td>Bureau des élections / DSI Préfecture</td>
+            <td>Aucun accusé formel écrit fourni</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=P5-P8">Objecter</a></td>
+          </tr>
+          <tr data-actor="pref" data-status="pending">
+            <td><strong>P9–P12</strong></td>
+            <td><strong>P3</strong> (Télérecours)</td>
+            <td>Fichiers natifs de saisine du TA, bordereaux d'empreintes numériques (SHA-256), procès-verbal numérique (PVN)</td>
+            <td>15/09 08:42</td>
+            <td>Préfecture / Service juridique</td>
+            <td>Consultation visuelle partielle le 01/10, pas de copie native</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=P9-P12">Objecter</a></td>
+          </tr>
+          <tr data-actor="pref" data-status="pending">
+            <td><strong>P13–P16</strong></td>
+            <td><strong>P3</strong> (Chaîne décisionnelle)</td>
+            <td>Horodatage de la validation par le Préfet, signature de l'arrêté de refus et transmission au greffe</td>
+            <td>02/10 13:33:55</td>
+            <td>Cabinet du Préfet / Bureau des élections</td>
+            <td>En attente d'instruction</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=P13-P16">Objecter</a></td>
+          </tr>
+          <tr data-actor="pref" data-status="pending">
+            <td><strong>P17–P18</strong></td>
+            <td><strong>P4</strong> (Compétence &amp; Routage)</td>
+            <td>Confirmation de compétence, délégations de signature et transmission à l'autorité compétente en cas d'incompétence</td>
+            <td>02/10 13:33:55</td>
+            <td>Préfecture de Haute-Corse</td>
+            <td>Routage interne non tracé</td>
+            <td><span class="badge status-pend">PENDING</span></td>
+            <td><a href="contribuer.html?case=P17-P18">Objecter</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="call">
+    <h3>Exportation et intégration</h3>
+    <p>Cette matrice est synchronisée avec la spécification générique d'interaction d'effectivité :</p>
+    <ul>
+      <li>Fichier de configuration des acteurs : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/campaign/actors.yml"><code>projects/capable/campaign/actors.yml</code></a></li>
+      <li>Source d'investigation préfecture : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"><code>courriel-tracabilite-prefecture-2026-10-02.md</code></a></li>
+      <li>Matrice probatoire TA : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/matrice-reponses-ta-d1-d10-2026-10-02.md"><code>matrice-reponses-ta-d1-d10-2026-10-02.md</code></a></li>
+    </ul>
+  </div>
+</main>
+
+<footer>
+  <p>Livre Vivant Capable · Domaine public : <code>capable.lepp.fr</code> · Code source : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/capable">projects/capable/</a> · Paquet GitHub : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/issues/98">issue 98</a>.</p>
+</footer>
+
+<script>
+(function() {
+  var filterButtons = document.querySelectorAll('.filter-btn');
+  var allRows = document.querySelectorAll('tbody tr');
+
+  filterButtons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      filterButtons.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+
+      var actorFilter = btn.getAttribute('data-filter');
+      var statusFilter = btn.getAttribute('data-status');
+
+      allRows.forEach(function(row) {
+        var rowActor = row.getAttribute('data-actor');
+        var rowStatus = row.getAttribute('data-status');
+        var show = true;
+
+        if (actorFilter && actorFilter !== 'all') {
+          if (rowActor !== actorFilter) show = false;
+        }
+        if (statusFilter) {
+          if (rowStatus !== statusFilter) show = false;
+        }
+
+        row.style.display = show ? '' : 'none';
+      });
+    });
+  });
+})();
+</script>
+</body>
+</html>

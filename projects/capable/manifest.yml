@@ -1,0 +1,32 @@
+schema: living-book/v1
+
+book:
+  id: capable
+  title: "Capable — Rendre possible, effectif et corrigible"
+  subtitle: "Mouvement civique et politique d'autonomie de capacité"
+  canonical_host: capable.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant documentant le mouvement Capable, l'épreuve de l'effectivité républicaine,
+    les trois machines (Empêcher, Explorer, Rendre Capable), le Capable Test et la Campagne du Réel.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Petit Parti / Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: local
+
+extensions:
+  - cases
+  - living-book-press

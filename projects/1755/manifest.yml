@@ -1,0 +1,38 @@
+schema: living-book/v1
+
+book:
+  id: "1755"
+  title: "1755 — La Constitution corse et l'invention de la démocratie moderne"
+  subtitle: "De la rupture de 1729 aux échos transatlantiques"
+  canonical_host: 1755.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant documentant la Constitution corse de novembre 1755 à Corte,
+    l'institution de la souveraineté populaire, la séparation des pouvoirs,
+    le vote des chefs de famille, et la réception transnationale des Lumières corses (Rousseau, Boswell, Sons of Liberty).
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: federated
+  sources:
+    - commons
+    - institut
+    - school
+
+extensions:
+  - chronology
+  - cases
+  - living-book-press

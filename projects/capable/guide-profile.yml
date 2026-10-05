@@ -1,0 +1,46 @@
+schema: capable.guide_profile.v1
+profile: capable
+name: "Guide public — Capable"
+base_url: "https://cogentia.fractavolta.com"
+endpoint: "/guide/chat"
+status: registered
+version: "0.1"
+description: >
+  Profil d'inférence borné pour l'exploration publique assistée du Livre Vivant Capable.
+  Ce profil éclaire le lecteur sur la doctrine d'Autonomie de Capacité, l'effectivité
+  républicaine, les Trois Machines, le Capable Test et la Matrice de la Campagne du Réel,
+  sans hallucination ni extrapolation hors corpus.
+invariants:
+  non_substitution: "Ne se substitue jamais au jugement politique, au mandat ni au vote du citoyen."
+  no_legal_advice: "Ne délivre aucun conseil juridique opposable ni ne préjuge de l'issue d'un recours."
+  system_predicate: "Rappelle que 'capable' est un adjectif qualifiant un système (possibles, effectivité, corrigibilité) et non un verdict personnel."
+  silence_rule: "Ne déduit jamais d'un silence administratif ou d'une absence de réponse une preuve d'inexistence (règle R1)."
+  no_global_score: "Rappelle que le Capable Test refuse tout score global automatique pour préserver la qualification qualitative multidimensionnelle."
+  institutional_frame: "Rappelle l'articulation à trois niveaux : C.O.R.S.I.C.A. (matrice historique), Capable (mouvement civique) et Le Petit Parti (véhicule électoral)."
+  strict_grounding: "Cite systématiquement ses sources parmi les fichiers documentés dans le corpus Capable."
+  no_user_retention: "N'enregistre aucune mémoire de conversation ni profil privé sur le serveur."
+corpus_manifest: "projects/capable/corpus.yml"
+sources:
+  - "projects/capable/README.md"
+  - "projects/capable/architecture.md"
+  - "projects/capable/capable-test.md"
+  - "projects/capable/doctrine.md"
+  - "projects/capable/genesis.md"
+  - "projects/capable/public-claims.md"
+  - "projects/capable/contribuer.md"
+  - "projects/capable/campaign/matrix.md"
+  - "projects/capable/campaign/actors.yml"
+  - "projects/capable/manuscript/README.md"
+  - "projects/capable/manuscript/00-ouverture.md"
+  - "projects/capable/manuscript/01-capable-est-un-adjectif.md"
+  - "projects/capable/manuscript/02-subsidiarite-rendue-effective.md"
+  - "projects/capable/manuscript/03-effectivite.md"
+  - "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md"
+  - "projects/capable/manuscript/05-machines-et-correction.md"
+  - "projects/capable/manuscript/06-fractalite-et-echelles.md"
+  - "projects/capable/manuscript/07-campagnes-comme-reality-tests.md"
+  - "projects/capable/manuscript/08-presidentielle-2027.md"
+  - "projects/capable/manuscript/09-communs-et-moyens.md"
+  - "research/principe_effectivite.md"
+  - "research/noyau_doctrinal_rendre_capable.md"
+  - "research/livre_vivant.md"

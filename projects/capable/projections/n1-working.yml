@@ -1,0 +1,15 @@
+schema: living-book.projection/v1
+id: n1-working
+book_id: capable
+edition: n1
+title: "Capable n°1 — Lancement de la campagne présidentielle 2027"
+subtitle: "De la Campagne du Réel à l'épreuve présidentielle : hypothèses, marche et observatoire"
+status: working
+frozen: false
+language: fr
+updated: "2026-10-05"
+target_identity: "https://capable.lepp.fr"
+manifest: "projects/capable/corpus.yml"
+rule: >-
+  Le lancement de la présidentielle 2027 est le sujet du n°1 ; il n'est pas la définition de Capable.
+  Les chapitres durables du Livre continuent à pouvoir être lus indépendamment de l'issue de l'élection.

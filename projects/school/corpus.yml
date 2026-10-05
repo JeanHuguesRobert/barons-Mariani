@@ -1,0 +1,38 @@
+schema: school.corpus.v0
+project: "Mariani School of Autonomy"
+slug: school
+status: working
+language: fr
+visibility: public
+updated: "2026-10-04"
+source_of_truth: "repository files under projects/school, and the referenced sources; this manifest points at them and does not replace them"
+target_identity: "https://school.acorsica.org"
+target_identity_status: "prepared name only; workstation DNS check did not resolve school.acorsica.org; not a live deployment and not a frozen edition"
+institutional_frame: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+
+architecture:
+  implementation: projects/school/architecture.md
+  editorial: projects/school/editorial-architecture.md
+  project_index: projects/school/README.md
+  manuscript: projects/school/manuscript/
+  magazine: projects/school/magazine/
+  annexes: projects/school/annexes/
+  editions: projects/school/editions/index.md
+  projections: projects/school/projections/
+  deploy: projects/school/deploy/README.md
+  guide_profile: projects/school/guide-profile.yml
+  site: projects/school/site/
+
+realities:
+  - id: public-host
+    status: prepared
+    statement: "The hostname school.acorsica.org is prepared. Deployment architecture documented in deploy/README.md. Operium owns deployment authority."
+  - id: janus-separation
+    status: active
+    statement: "Past documentary reconstruction and future prospective scenarios follow strictly distinct proof regimes."
+
+sources:
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true

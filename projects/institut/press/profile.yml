@@ -1,0 +1,20 @@
+schema: living-book-press.profile/v1
+book_id: institut
+prefix: INSTITUT
+title: "Institut Mariani — Livre Vivant"
+verification_base_url: "https://institut.acorsica.org/press/verify"
+default_edition: "living-v0"
+editions:
+  living-v0:
+    id: "living-v0"
+    title: "Édition de travail initiale"
+    date: "2026-10-04"
+    status: active
+material_profiles:
+  accessible:
+    name: "Accessible"
+    description: "Impression fluide / personnelle A4"
+  luxe:
+    name: "Luxe"
+    description: "Papier noble et reliure artisanale"
+singularization_default: singulier

@@ -1,0 +1,30 @@
+{
+  "schema": "living-book.magazine-item/v1",
+  "id": "institut-2026-10-04-fondation-du-livre-vivant-institut",
+  "source_book": "institut",
+  "published_at": "2026-10-04",
+  "title": "Naissance du Livre Vivant Institut Mariani et première épreuve de la Factory",
+  "summary": {
+    "short": "Mise en service du Livre Vivant de l'Institut Mariani comme premier Reality Test (RT-LBF-001) de la Living Book Factory.",
+    "medium": "# Naissance du Livre Vivant Institut Mariani et première épreuve de la Factory  Le 4 octobre 2026 marque une étape décisive pour l'architecture ouverte des Livres Vivants : l'instanciation du Livre Vivant de l'**Institut Mariani** comme première épreuve de réalité contrôlée (**RT-LBF-001**) de la Living Book Factory.  ## 1. Objectif de l'épreuve  Prouver par les faits qu'un nouveau Livre Vivant co"
+  },
+  "topics": [
+    "living-book-factory",
+    "rt-lbf-001",
+    "institut-mariani",
+    "corsica"
+  ],
+  "epistemic_status": "established",
+  "canonical_ref": "https://institut.acorsica.org/magazine/2026-10-04-fondation-du-livre-vivant-institut.html",
+  "provenance": {
+    "author": "Jean Hugues Noël Robert, baron Mariani",
+    "affiliation": "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica",
+    "derived_from": []
+  },
+  "syndication": {
+    "syndicated_by": "school",
+    "syndicated_at": "2026-10-04",
+    "contextual_note": "Présentation du cadre d'ingénierie et de recherche de l'Institut Mariani appuyant les modules de l'École de l'Autonomie.",
+    "source_authority_preserved": true
+  }
+}

@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: privai
+status: working
+frozen: false
+generated_at: '2026-10-04T19:24:41.344Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 95362b9c54b479fdac08dc213f961de5bdaa2a98b097253be678a79f2c927264
+    size: 84607
+  pdf:
+    path: projections/preview.pdf
+    sha256: d227970cd604830a779816daa1c18677195e96e8e9d8062336c23c77423a935a
+    size: 129862
+  epub:
+    path: projections/preview.epub
+    sha256: 1986d027aff591c55d793d76e4459363cff6cac13ff219546182acb596afc007
+    size: 41988
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

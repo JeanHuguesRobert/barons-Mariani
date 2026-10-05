@@ -1,0 +1,20 @@
+schema: living-book-press.profile/v1
+book_id: school
+prefix: SCHOOL
+title: "Mariani School of Autonomy — Livre Vivant"
+verification_base_url: "https://school.acorsica.org/press/verify"
+default_edition: "living-v0"
+editions:
+  living-v0:
+    id: "living-v0"
+    title: "Édition de lancement du cursus"
+    date: "2026-10-04"
+    status: active
+material_profiles:
+  accessible:
+    name: "Accessible"
+    description: "Guide pédagogique A4"
+  luxe:
+    name: "Luxe"
+    description: "Manuel de l'Autonomie de Capacité relié"
+singularization_default: singulier

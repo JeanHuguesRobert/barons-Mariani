@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Capable — Guide public conversationnel borné</title>
+<meta name="description" content="Guide public borné explorant le corpus du Livre Vivant Capable. Il répond exclusivement à partir des sources vérifiées et prépare des brouillons d'objections sans rien envoyer.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="capable">
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Capable</a></p>
+  <nav aria-label="Navigation principale">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="n1.html">n°1</a>
+    <a href="matrix.html">Matrice</a>
+    <a href="acteurs.html">Acteurs</a>
+    <a href="chronologie.html">Chronologie</a>
+    <a href="sources.html">Sources</a>
+    <a href="guide.html" aria-current="page">Guide</a>
+    <a href="contribuer.html">Contribuer</a>
+    <a href="mentions.html">Mentions</a>
+  </nav>
+</header>
+
+<main id="contenu">
+  <p class="pill">Profil capable · Corpus borné · 8 invariants</p>
+  <h1>Guide public conversationnel</h1>
+  <p class="lede">Ce Guide interroge le profil public <strong>capable</strong>. Il ne répond qu'à partir des sources documentées du corpus Capable. Il peut préparer un brouillon d'objection ou de contribution. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et ne constitue pas un conseil juridique opposable.</strong></p>
+
+  <div class="call">
+    <p>Le Guide applique les 8 invariants stricts de la doctrine Capable : non-substitution au citoyen, pas de conseil juridique, définition de "capable" comme prédicat de système, neutralisation du silence comme preuve, articulation à trois niveaux (C.O.R.S.I.C.A., Capable, Le Petit Parti), refus de tout score global automatique, traçabilité stricte et zéro rétention de données privées.</p>
+  </div>
+
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <form id="ask">
+    <label for="question">Votre question sur la doctrine, la matrice ou le Capable Test :</label>
+    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. Pourquoi le Capable Test refuse-t-il d'attribuer un score global chiffré à une politique publique ?" required></textarea>
+    <button type="submit">Interroger le Guide</button>
+  </form>
+
+  <section class="card" aria-labelledby="draft-title" style="margin-top: 2rem;">
+    <h2 id="draft-title">Brouillon préparé localement (non envoyé)</h2>
+    <p>Le texte ci-dessous est préparé sur votre appareil. Le préparer n'envoie aucune donnée. Vous pouvez le modifier, puis le copier pour votre propre usage, une saisine ou une contribution.</p>
+    <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1rem;">
+      <button type="button" class="action-btn" id="prepare-contribution">Préparer une contribution</button>
+      <button type="button" class="action-btn" id="prepare-correction">Préparer une objection sur la matrice</button>
+    </div>
+    <label for="draft-to">Destinataire suggéré</label>
+    <input id="draft-to" name="to" type="text" readonly value="">
+    <label for="draft-subject">Objet du message</label>
+    <input id="draft-subject" name="subject" type="text" value="[Observation Capable] ">
+    <label for="draft-body">Corps du message</label>
+    <textarea id="draft-body" name="body" rows="10"></textarea>
+    <button type="button" class="action-btn" id="copy-draft">Copier le brouillon dans le presse-papier</button>
+    <p id="draft-status" class="status-msg" role="status"></p>
+  </section>
+</main>
+
+<footer>
+  <p>Livre Vivant Capable · Domaine public : <code>capable.lepp.fr</code> · Aucun profil privé n'est collecté par cette page.</p>
+</footer>
+<script src="guide.js"></script>
+</body>
+</html>

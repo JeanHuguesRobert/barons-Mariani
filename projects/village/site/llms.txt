@@ -1,0 +1,7 @@
+# Mariani Village
+> Livre Vivant documentant l'architecture de flotte d'habitat minimaliste autonome Mariani Village, ses fondations énergétiques DC-native (48V SELV), sa péréquation saisonnière solidaire, et ses deux évolutions majeures : l'habitat adapté aux aînés (version Séniors) et l'autonomie nomade (version Van life).
+
+
+- Canonical: https://village.acorsica.org/
+- Corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/village
+- License: CC BY-SA 4.0

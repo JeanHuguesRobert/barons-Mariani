@@ -1,0 +1,38 @@
+schema: living-book/v1
+
+book:
+  id: privai
+  title: "PrivAI — L'illusion de l'électeur synthétique et la souveraineté humaine"
+  subtitle: "Pourquoi l'AI Safety doit protéger le démos contre les personnes morales augmentées"
+  canonical_host: privai.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant exposant la doctrine Anti-Demos et la Democratic AI Safety :
+    défense de la souveraineté humaine contre les personnes morales augmentées par l'IA,
+    refus de l'électeur synthétique et de la capture algorithmique des corps délibérants,
+    et protocoles d'audit de systèmes cognitifs (KYS).
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: false
+
+magazine:
+  mode: federated
+  sources:
+    - institut
+    - commons
+    - school
+
+extensions:
+  - cases
+  - living-book-press

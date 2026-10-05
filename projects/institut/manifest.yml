@@ -1,0 +1,40 @@
+schema: living-book/v1
+
+book:
+  id: institut
+  title: Institut Mariani
+  subtitle: Histoire, recherche possibiliste et avenirs de C.O.R.S.I.C.A.
+  canonical_host: institut.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant dédié à l'histoire, aux réalisations et aux explorations
+    institutionnelles de C.O.R.S.I.C.A. et de son unité de recherche Institut Mariani.
+    Architecture janusienne articulant passé documenté et futurs explorés.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: federated
+  sources:
+    - privai
+    - commons
+    - capable
+    - diaspora
+
+extensions:
+  - chronology
+  - people-registry
+  - accounting
+  - living-book-press

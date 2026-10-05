@@ -1,0 +1,38 @@
+schema: village.corpus.v0
+project: "Mariani Village"
+slug: village
+status: working
+language: fr
+visibility: public
+updated: "2026-10-04"
+source_of_truth: "repository files under projects/village, and the referenced sources; this manifest points at them and does not replace them"
+target_identity: "https://village.acorsica.org"
+target_identity_status: "prepared name only; workstation DNS check did not resolve village.acorsica.org; not a live deployment and not a frozen edition"
+institutional_frame: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+
+architecture:
+  implementation: projects/village/architecture.md
+  editorial: projects/village/editorial-architecture.md
+  project_index: projects/village/README.md
+  manuscript: projects/village/manuscript/
+  magazine: projects/village/magazine/
+  annexes: projects/village/annexes/
+  editions: projects/village/editions/index.md
+  projections: projects/village/projections/
+  deploy: projects/village/deploy/README.md
+  guide_profile: projects/village/guide-profile.yml
+  site: projects/village/site/
+
+realities:
+  - id: public-host
+    status: prepared
+    statement: "The hostname village.acorsica.org is prepared. Deployment architecture documented in deploy/README.md. Operium owns deployment authority."
+  - id: janus-separation
+    status: active
+    statement: "Past documentary reconstruction and future prospective scenarios follow strictly distinct proof regimes."
+
+sources:
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true

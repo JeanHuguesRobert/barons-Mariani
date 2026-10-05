@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: school
+status: working
+frozen: false
+generated_at: '2026-10-04T18:12:36.092Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 3d5c0d8269614f739d96fafb47fb92f60dda2c41257b7b483efe115b3f6965b5
+    size: 15500
+  pdf:
+    path: projections/preview.pdf
+    sha256: 2826d8675e2904181f813f40b85236dbbf18679589c9004f4eb1d5f2bae963a1
+    size: 20105
+  epub:
+    path: projections/preview.epub
+    sha256: 0712bffeafb5988d8191685ddf8b39884658c863507be336fb4ca7f2dd885718
+    size: 9570
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

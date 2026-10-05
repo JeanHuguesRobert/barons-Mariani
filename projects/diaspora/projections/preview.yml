@@ -1,0 +1,22 @@
+schema: living-book.projection/v1
+id: preview-working
+book_id: diaspora
+status: working
+frozen: false
+generated_at: '2026-10-04T19:39:53.385Z'
+formats:
+  html:
+    path: projections/preview.html
+    sha256: 0e6f7be7eb274774c1cf71795d9ddb90da8a2118a327923b3fe9e215534f0086
+    size: 13913
+  pdf:
+    path: projections/preview.pdf
+    sha256: d04ceb1da9195a744d1c3f83ed8cf61091f9c5a8d0f38b030375642f7049f247
+    size: 20813
+  epub:
+    path: projections/preview.epub
+    sha256: c6ae6321bf55923ab37f42fddab4dcbd33858cccbe7d1fd08f010528ed2cecb8
+    size: 8388
+rule: >-
+  This projection is a working preview in preparation. It does not constitute a
+  frozen edition.

@@ -29,6 +29,7 @@ Ce répertoire contient la face **Livre** de *Capable*. Le manuscrit est un prod
 8. [Des campagnes comme Reality Tests](07-campagnes-comme-reality-tests.md)
 9. [Présidentielle 2027 — seconde campagne](08-presidentielle-2027.md)
 10. [Communs ouverts, moyens partagés et coût marginal](09-communs-et-moyens.md)
+11. [Le Capable Test — Évaluer une règle par ses effets](10-capable-test.md)
 
 Le **n°1 de Capable** documente le lancement de la campagne présidentielle 2027. Il puise dans ces chapitres sans les figer.
 

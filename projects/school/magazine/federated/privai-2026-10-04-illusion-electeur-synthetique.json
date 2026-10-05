@@ -1,0 +1,30 @@
+{
+  "schema": "living-book.magazine-item/v1",
+  "id": "privai-2026-10-04-illusion-electeur-synthetique",
+  "source_book": "privai",
+  "published_at": "2026-10-04",
+  "title": "L'illusion de l'électeur synthétique : pourquoi déléguer son vote à un agent détruit la souveraineté",
+  "summary": {
+    "short": "Analyse critique des tentations de vote automatisé par IA et rappel de l'indivisibilité du jugement démocratique humain.",
+    "medium": "# L'illusion de l'électeur synthétique : pourquoi déléguer son vote à un agent détruit la souveraineté  Une tentation récurrente traverse les discours technophiles : puisque la délibération démocratique est lente, complexe et chronophage, pourquoi ne pas confier notre voix à un agent d'IA personnel entraîné sur nos préférences, qui voterait en continu à notre place dans des assemblées dématérialis"
+  },
+  "topics": [
+    "editorial"
+  ],
+  "epistemic_status": "established",
+  "canonical_ref": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/magazine/2026-10-04-illusion-electeur-synthetique.md",
+  "provenance": {
+    "author": "Jean Hugues Noël Robert, baron Mariani",
+    "affiliation": "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica",
+    "derived_from": [
+      "projects/privai/doctrine/anti-demos.md",
+      "research/democratic_ai_safety.md"
+    ]
+  },
+  "syndication": {
+    "syndicated_by": "school",
+    "syndicated_at": "2026-10-04",
+    "contextual_note": "Module pédagogique fondamental sur les dérives de substitution politique par l'IA et le principe Anti-Demos.",
+    "source_authority_preserved": true
+  }
+}

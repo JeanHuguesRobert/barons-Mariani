@@ -1,0 +1,38 @@
+schema: living-book/v1
+book:
+  id: village
+  title: Mariani Village
+  subtitle: >-
+    Habitat minimaliste autonome, réseau DC-native, déclinaisons Séniors et Van
+    life
+  canonical_host: village.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant documentant l'architecture de flotte d'habitat minimaliste
+    autonome Mariani Village, ses fondations énergétiques DC-native (48V SELV),
+    sa péréquation saisonnière solidaire, et ses deux évolutions majeures :
+    l'habitat adapté aux aînés (version Séniors) et l'autonomie nomade (version
+    Van life).
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+magazine:
+  mode: federated
+  sources:
+    - institut
+    - commons
+    - privai
+extensions:
+  - chronology
+  - cases
+  - accounting
+  - living-book-press

@@ -1,0 +1,27 @@
+{
+  "schema": "living-book.magazine-item/v1",
+  "id": "commons-2026-10-04-communs-energetiques-fractavolta",
+  "source_book": "commons",
+  "published_at": "2026-10-04",
+  "title": "Le soleil comme commun démocratique : retour sur l'architecture FractaVolta et les microréseaux méditerranéens",
+  "summary": {
+    "short": "# Le soleil comme commun démocratique : l'expérience FractaVolta en Méditerranée  **Par Jean Hugues Noël Robert, baron Mariani**   *Institut Mariani / C.O.R.S.I",
+    "medium": "# Le soleil comme commun démocratique : l'expérience FractaVolta en Méditerranée  **Par Jean Hugues Noël Robert, baron Mariani**   *Institut Mariani / C.O.R.S.I.C.A. — Corte, 4 octobre 2026*  ---  ## 1. La Corse comme laboratoire énergétique insulaire  En matière d'énergie, les îles préfigurent avec dix ans d'avance les crises et les bifurcations des continents.  Dépourvue de ressources fossiles p"
+  },
+  "topics": [
+    "editorial"
+  ],
+  "epistemic_status": "established",
+  "canonical_ref": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/commons/magazine/2026-10-04-communs-energetiques-fractavolta.md",
+  "provenance": {
+    "author": "Jean Hugues Noël Robert, baron Mariani",
+    "affiliation": "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica",
+    "derived_from": []
+  },
+  "syndication": {
+    "syndicated_by": "village",
+    "syndicated_at": "2026-10-04",
+    "contextual_note": "Le fondement technique de l'autoconsommation collective solaire appliqué à l'habitat modulaire Mariani Village.",
+    "source_authority_preserved": true
+  }
+}

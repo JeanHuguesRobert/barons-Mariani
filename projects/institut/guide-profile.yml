@@ -1,0 +1,20 @@
+schema: institut.guide_profile.v1
+profile: institut
+name: "Guide public — Institut Mariani"
+base_url: "https://cogentia.fractavolta.com"
+endpoint: "/guide/chat"
+status: prepared
+version: "0.1"
+description: >
+  Profil d'exploration publique assistée pour le Livre Vivant Institut Mariani.
+  Fournit des réponses strictement bornées au Corpus sans hallucination hors périmètre.
+invariants:
+  non_substitution: "Ne se substitue jamais au jugement ni aux décisions de l'utilisateur."
+  strict_grounding: "Cite systématiquement ses sources parmi les fichiers listés dans le manifeste de corpus."
+  no_user_retention: "N'enregistre aucune mémoire de conversation ni de profil privé sur le serveur."
+  institutional_frame: "Rappelle le cadre institutionnel (Institut Mariani / C.O.R.S.I.C.A.) sans confusion de personnes."
+corpus_manifest: "projects/institut/corpus.yml"
+sources:
+  - "projects/institut/manuscript/README.md"
+  - "projects/institut/editorial-architecture.md"
+  - "research/livre_vivant.md"

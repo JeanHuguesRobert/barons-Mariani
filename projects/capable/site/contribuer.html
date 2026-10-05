@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Capable — Corriger, contredire, contribuer</title>
+<meta name="description" content="Protocole de contribution et d'objection citoyenne sur le Livre Vivant Capable. Ciblez une case précise de la matrice pour augmenter la résolution du Réel.">
+<link rel="stylesheet" href="styles.css">
+<link rel="canonical" href="https://capable.lepp.fr/contribuer.html">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu principal</a>
+<header class="site">
+  <p class="mark"><a href="index.html">Capable</a></p>
+  <nav aria-label="Navigation principale">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="n1.html">n°1</a>
+    <a href="matrix.html">Matrice</a>
+    <a href="acteurs.html">Acteurs</a>
+    <a href="chronologie.html">Chronologie</a>
+    <a href="sources.html">Sources</a>
+    <a href="guide.html">Guide</a>
+    <a href="contribuer.html" aria-current="page">Contribuer</a>
+    <a href="mentions.html">Mentions</a>
+  </nav>
+</header>
+
+<main id="contenu">
+  <p class="pill">Épistémologie ouverte · Corrigibilité continue</p>
+  <h1>Corriger, contredire, contribuer</h1>
+  <p class="lede">Une contradiction sourcée n'est jamais reçue comme une agression : elle augmente la résolution de la carte et affine l'épreuve du Réel.</p>
+
+  <div class="call">
+    <h3>Protocole d'objection et de falsification</h3>
+    <p>Toute personne physique ou institutionnelle peut intervenir pour :</p>
+    <ul>
+      <li>Produire une trace écrite manquante ou contestée ;</li>
+      <li>Contredire une ligne ou une case spécifique de la <a href="matrix.html">Matrice d'interaction</a> ;</li>
+      <li>Signaler une erreur d'horodatage ou de chronologie ;</li>
+      <li>Préciser une règle de compétence ou proposer un routage administratif alternatif ;</li>
+      <li>Fournir un élément documentaire éclairant une inconnue (<code>UNKNOWN</code>) ou fermant une attente (<code>PENDING</code>).</li>
+    </ul>
+  </div>
+
+  <h2>Formulaire d'objection ciblée sur la matrice</h2>
+  <form id="contrib-form">
+    <label for="target-case">Case ou identifiant ciblé dans la matrice :</label>
+    <select id="target-case" name="target_case">
+      <option value="GENERAL">Observation générale sur le Livre</option>
+      <optgroup label="Tribunal administratif (D1–D10)">
+        <option value="D1">D1 — Sagace : nature et heure de l'entrée du 14/09</option>
+        <option value="D2">D2 — Productions préfectorales avant jugement</option>
+        <option value="D3a">D3a — Présence du courriel de 17:57:55</option>
+        <option value="D3b">D3b — Présence du lien vidéo</option>
+        <option value="D3c">D3c — Matérialisation de la vidéo</option>
+        <option value="D4">D4 — Trace de transmission complémentaire</option>
+        <option value="D5">D5 — Trace ou plumitif d'audience</option>
+        <option value="D6">D6 — Identité du greffier d'audience</option>
+        <option value="D7">D7 — Consultabilité de la minute originale</option>
+        <option value="D8">D8 — Horodatages prononcé et mise à disposition</option>
+        <option value="D9">D9 — État chronologique complet du dossier</option>
+        <option value="D10">D10 — Disponibilité effective avant délibéré</option>
+      </optgroup>
+      <optgroup label="Préfecture de Haute-Corse (P1–P18)">
+        <option value="P1-P4">P1–P4 — Modalités et heure limite de dépôt CC</option>
+        <option value="P5-P8">P5–P8 — Traçabilité et accusé vidéo du 11/09 17:57:55</option>
+        <option value="P9-P12">P9–P12 — Télérecours : fichiers natifs et PVN</option>
+        <option value="P13-P16">P13–P16 — Chaîne décisionnelle et arrêté de refus</option>
+        <option value="P17-P18">P17–P18 — Compétence, délégations et routage</option>
+      </optgroup>
+    </select>
+
+    <label for="author-info">Votre nom / affiliation (optionnel) :</label>
+    <input type="text" id="author-info" name="author" placeholder="Ex. Citoyen, juriste, observateur, agent public...">
+
+    <label for="trace-evidence">Trace ou élément de preuve à l'appui de la contradiction :</label>
+    <input type="text" id="trace-evidence" name="evidence" placeholder="Ex. Référence d'un texte, numéro d'acte, horodatage, lien vers pièce...">
+
+    <label for="observation">Détail de votre objection, correction ou apport :</label>
+    <textarea id="observation" name="observation" rows="6" placeholder="Décrivez précisément le point factuel à rectifier ou l'information à intégrer..." required></textarea>
+
+    <button type="submit" class="action-btn">Formater et préparer le message</button>
+  </form>
+
+  <section id="preview-section" class="card" style="display: none; margin-top: 2rem;">
+    <h3>Message préparé (prêt à expédier ou copier)</h3>
+    <p>Aucune donnée n'a été transmise par internet. Vous pouvez copier ce texte pour ouvrir une issue sur GitHub ou nous l'adresser par courriel.</p>
+    <textarea id="formatted-text" rows="10" readonly></textarea>
+    <div style="margin-top: 1rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+      <button type="button" class="action-btn" id="btn-copy">Copier dans le presse-papier</button>
+      <a id="btn-mail" class="action-btn" href="#" style="display: inline-block; text-decoration: none; text-align: center;">Ouvrir votre client de messagerie</a>
+      <a id="btn-gh" class="action-btn" href="https://github.com/JeanHuguesRobert/barons-Mariani/issues/new" target="_blank" rel="noopener" style="display: inline-block; text-decoration: none; text-align: center; background: #24292e;">Ouvrir une issue sur GitHub</a>
+    </div>
+    <p id="copy-status" class="status-msg" role="status"></p>
+  </section>
+</main>
+
+<footer>
+  <p>Livre Vivant Capable · Domaine public : <code>capable.lepp.fr</code> · Code source : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/capable">projects/capable/</a> · Paquet GitHub : <a href="https://github.com/JeanHuguesRobert/barons-Mariani/issues/98">issue 98</a>.</p>
+</footer>
+
+<script>
+(function() {
+  // Pré-remplissage via paramètre URL ?case=XXX
+  var params = new URLSearchParams(window.location.search);
+  var targetCase = params.get('case');
+  var select = document.getElementById('target-case');
+  if (targetCase && select) {
+    for (var i = 0; i < select.options.length; i++) {
+      if (select.options[i].value === targetCase) {
+        select.selectedIndex = i;
+        break;
+      }
+    }
+  }
+
+  var form = document.getElementById('contrib-form');
+  var previewSection = document.getElementById('preview-section');
+  var formattedText = document.getElementById('formatted-text');
+  var btnCopy = document.getElementById('btn-copy');
+  var btnMail = document.getElementById('btn-mail');
+  var copyStatus = document.getElementById('copy-status');
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var cCase = select.value;
+    var author = document.getElementById('author-info').value || 'Anonyme / Citoyen';
+    var evidence = document.getElementById('trace-evidence').value || 'Non renseignée';
+    var obs = document.getElementById('observation').value;
+
+    var text = [
+      '### Contribution / Objection au Livre Vivant Capable',
+      '',
+      '- **Cible dans la matrice :** ' + cCase,
+      '- **Auteur :** ' + author,
+      '- **Trace / Pièce invoquée :** ' + evidence,
+      '',
+      '#### Exposé de l\'objection :',
+      obs,
+      '',
+      '---',
+      '*Généré depuis capable.lepp.fr/contribuer.html*'
+    ].join('\n');
+
+    formattedText.value = text;
+    previewSection.style.display = 'block';
+
+    var mailSubject = encodeURIComponent('[Objection Capable - ' + cCase + '] ' + author);
+    var mailBody = encodeURIComponent(text);
+    btnMail.href = 'mailto:contact@lepp.fr?subject=' + mailSubject + '&body=' + mailBody;
+    previewSection.scrollIntoView({ behavior: 'smooth' });
+  });
+
+  btnCopy.addEventListener('click', function() {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(formattedText.value).then(function() {
+        copyStatus.textContent = 'Texte copié avec succès dans le presse-papier.';
+      });
+    } else {
+      formattedText.select();
+      copyStatus.textContent = 'Sélectionnez le texte et utilisez Ctrl+C pour copier.';
+    }
+  });
+})();
+</script>
+</body>
+</html>

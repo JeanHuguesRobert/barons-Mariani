@@ -1,0 +1,40 @@
+schema: living-book/v1
+
+book:
+  id: commons
+  title: "Commons — Des communaux au cloud"
+  subtitle: "Les biens communs, du passé au futur"
+  canonical_host: commons.acorsica.org
+  language: fr
+  description: >
+    Livre Vivant documentant la longue histoire des biens communs,
+    de la Carta de Foresta de 1217 aux enclosures numériques contemporaines,
+    la gouvernance polycentrique d'Elinor Ostrom, et l'émergence des nouveaux communs
+    énergétiques, calculatoires et cognitifs en Méditerranée.
+
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: true
+  contributions: true
+  janus: true
+
+magazine:
+  mode: federated
+  sources:
+    - privai
+    - institut
+    - village
+
+extensions:
+  - chronology
+  - cases
+  - accounting
+  - living-book-press

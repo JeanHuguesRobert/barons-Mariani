@@ -1,0 +1,7 @@
+# Institut Mariani
+> Livre Vivant dédié à l'histoire, aux réalisations et aux explorations institutionnelles de C.O.R.S.I.C.A. et de son unité de recherche Institut Mariani. Architecture janusienne articulant passé documenté et futurs explorés.
+
+
+- Canonical: https://institut.acorsica.org/
+- Corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/institut
+- License: CC BY-SA 4.0

@@ -1,0 +1,7 @@
+# Mariani School of Autonomy
+> Livre Vivant consacré à la Mariani School of Autonomy (École Mariani de l'Autonomie) et à la grammaire générative de l'Autonomie de Capacité. Pédagogie de terrain, formation des coachs d'autonomie augmentée par IA, homéostasie de l'habitat, et émancipation cognitive des personnes et territoires.
+
+
+- Canonical: https://school.acorsica.org/
+- Corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/school
+- License: CC BY-SA 4.0
