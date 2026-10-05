@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "1.0"
+version: "1.1"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -373,6 +373,47 @@ La suite doit donc privilégier :
 4. si nécessaire, accompagnement Guid'Asso / greffe sur la régularisation d'une association ancienne dont le registre d'admission est incomplet.
 
 Une attestation ou un souvenir n'est pas traité comme équivalent automatique à l'agrément : il constitue une trace supplémentaire à trianguler avec les pratiques, PV et règles statutaires.
+
+
+## 3 undecies. Formulaire d'inscription Institut Mariani 2018
+
+Le dossier privé `Adhérents/INSTITUT` contient un Google Form et sa feuille de réponses, créés en juillet 2018.
+
+Audit agrégé, sans identité ni coordonnée :
+
+~~~yaml
+registration_form_2018:
+  response_rows: 6
+  fields_include:
+    - identity
+    - operational_status
+    - email
+    - phone
+    - identity_document_upload
+    - "Cotisation association payée"
+  payment_field_filled_in_visible_responses: 0
+  statutory_ca_approval_field: absent
+  statutory_1995_category_field: absent
+~~~
+
+Le formulaire confirme qu'une procédure pratique d'inscription à l'écosystème Institut existait en 2018.
+
+Il ne constitue pas une preuve suffisante d'admission comme membre C.O.R.S.I.C.A. au sens de l'article 3 :
+
+~~~text
+formulaire d'inscription Institut
+≠ demande statutaire C.O.R.S.I.C.A. démontrée
+
+réponse au formulaire
+≠ agrément du conseil d'administration
+
+statut opérationnel saisi
+≠ catégorie juridique 1995
+~~~
+
+Un dossier de réponses avec pièces d'identité existe également. Il n'a pas été inspecté : ces pièces privées ne sont pas nécessaires à la qualification juridique recherchée et leur consultation ajouterait une exposition de données sans gain probatoire proportionné.
+
+Cette découverte renforce la distinction entre **onboarding opérationnel** et **admission institutionnelle**.
 
 ## 4. Reconstruction requise
 
