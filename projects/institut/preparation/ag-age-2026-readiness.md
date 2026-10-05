@@ -5,8 +5,8 @@ description: "Registre préparatoire des conditions nécessaires pour convoquer 
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.3"
+last_modified_at: "2026-10-05"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -160,6 +160,25 @@ fonctionnement réel conforme au nouveau texte
 ~~~
 
 Le changement d'adresse mérite une distinction fine : les statuts 1995 ne mentionnent que « Corte, Corse ». Un déplacement matériel du siège à l'intérieur de Corte peut donc ne pas modifier littéralement cet article, mais **l'adresse administrative du siège doit dans tous les cas être actualisée dans les référentiels applicables**. Ne pas confondre modification textuelle des statuts et déclaration d'un changement de situation.
+
+## 5 ter. RNA des associations créées avant 2009
+
+La documentation officielle Associations.gouv.fr consultée le 5 octobre 2026 précise qu'une association créée avant 2009 et ne disposant pas encore de numéro RNA **s'en voit attribuer un lors d'une modification effectuée auprès du greffe**.
+
+Conséquence pratique pour C.O.R.S.I.C.A. :
+
+~~~text
+absence actuelle de RNA retrouvé
+→ n'impose pas nécessairement une procédure séparée préalable
+
+déclaration régulière d'une modification
+→ doit permettre l'attribution du RNA par le greffe
+~~~
+
+Source officielle :
+- https://associations.gouv.fr/le-registre-national-des-associations
+
+La séquence 2024 reste néanmoins utile : la sous-préfecture avait déjà demandé PV + Cerfa modificatif en mai puis de nouveau Cerfa + PV en août, sans récépissé final retrouvé.
 
 ## 6. Prochaine action
 
