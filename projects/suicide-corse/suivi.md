@@ -57,6 +57,19 @@ Un simple changement typographique n'impose pas un nouveau rendu PDF/EPUB. Une m
 
 Le **dépôt effectif** changera le régime : le n°4 devra alors photographier exactement la requête et le bordereau réellement déposés, leur mode de transmission et toute preuve ou référence d'enregistrement disponible, avant décision explicite de gel.
 
+## 5 octobre 2026 — architecture des recours et des remèdes
+
+Une note publique autonome est ajoutée au Corpus : [`architecture-recours-cc-cedh-remedes-2026-10-05.md`](../../research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md).
+
+Elle cristallise quatre distinctions devenues importantes dans la préparation du n°4 et de la requête :
+
+- la décision du Conseil constitutionnel ferme la voie de recours interne ordinaire, quelle que soit la partie défavorisée ;
+- Strasbourg n'est pas un appel du Conseil constitutionnel, mais un éventuel contrôle conventionnel ultérieur soumis à ses propres conditions de recevabilité ;
+- les épisodes 2017 et 2024 peuvent documenter une répétition ou un contexte, mais ne rouvrent pas automatiquement les délais européens expirés ;
+- l'hypothèse d'une proclamation directe du requérant est conservée comme **probe de remède**, non comme conclusion acquise : l'article 41 montre qu'un pouvoir de réformation/proclamation existe en droit, tandis que son applicabilité à une candidature empêchée avant le scrutin reste à démontrer.
+
+Le point éditorial pour le n°4 est l'**effectivité dans le temps** : une réparation tardive peut juridiquement corriger l'élection sans restaurer toutes les occasions politiques déjà perdues. La note refuse néanmoins de transformer cette irréversibilité en axiome « aucun remède n'existe ».
+
 ## 5 octobre 2026 — consolidation pré-dépôt v0.6
 
 Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.6.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.6 distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
