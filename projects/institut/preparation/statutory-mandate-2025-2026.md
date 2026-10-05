@@ -205,3 +205,169 @@ L'article 8 réserve l'assemblée générale aux membres fondateurs, d'honneur, 
 L'article 21 prévoit que le secrétaire fait connaître à la préfecture ou sous-préfecture, dans les trois mois, les changements dans l'administration ou la direction.
 
 Ces règles deviennent le point de départ documentaire du travail préparatoire, mais leur application juridique actuelle doit encore être vérifiée avant convocation.
+
+
+## 10. Renouvellement du bureau en 2020
+
+Un PV daté du **15 octobre 2020** a été retrouvé dans le dossier bancaire.
+
+Il décrit un renouvellement du bureau :
+
+- Jean Hugues Noël Robert : président réélu ;
+- Lancelot Reybel : trésorier élu ;
+- Marguerite Ghionga : secrétaire élue.
+
+Le document utilise déjà **1 cours Paoli, 20250 Corte** comme siège de l'association et rappelle une déclaration à la sous-préfecture en janvier 1996.
+
+Cependant, les échanges avec Société Générale de 2023 montrent que la banque disposait d'une version **non signée** de ce PV et demandait une version signée.
+
+Qualification :
+
+~~~text
+existence du PV 15/10/2020
+→ ESTABLISHED
+
+contenu du renouvellement
+→ ESTABLISHED comme document
+
+signature de la version bancaire retrouvée
+→ NOT ESTABLISHED
+
+déclaration administrative du changement de bureau
+→ NOT FOUND
+~~~
+
+Le PV de 2020 ne constitue donc pas, à lui seul, une preuve de déclaration administrative.
+
+## 11. Ce que les dossiers bancaires 2022–2023 montrent sur les statuts
+
+En mars 2023, Société Générale demande explicitement :
+
+> confirmation que les statuts datant du 25/12/1995 sont les derniers en date.
+
+En juillet 2023, elle renouvelle l'alternative :
+
+~~~text
+statuts complets, datés et signés de moins de quatre ans
+OU
+confirmation écrite que les statuts du 25/12/1995 sont les derniers en date
+~~~
+
+Le dossier transmis à la banque contient précisément le scan des statuts fondateurs.
+
+Cette trace ne remplace pas le registre préfectoral, mais elle renforce fortement l'hypothèse documentaire suivante :
+
+> **En 2023, aucune version postérieure adoptée et signée n'était disponible dans le dossier de conformité utilisé par l'association et sa banque.**
+
+## 12. Régularisation RNA 2024
+
+La séquence retrouvée est désormais précise :
+
+~~~text
+12/05/2024
+→ demande du numéro RNA
+
+13/05/2024
+→ préfecture : association non retrouvée au RNA
+
+14/05/2024
+→ transmission par le Président du scan des statuts fondateurs
+
+14–15/05/2024
+→ dossier transmis vers le greffe de Corte
+
+30/05/2024
+→ sous-préfecture : pour attribuer un numéro RNA,
+   fournir PV d'AG + CERFA modificatif
+
+14/08/2024
+→ nouveau rappel :
+   CERFA dirigeants dûment complété + PV d'AG
+~~~
+
+Aucun email ultérieur retrouvé dans ce passage ne contient un récépissé ou un numéro RNA attribué.
+
+Toutefois, l'Annuaire des Entreprises consulté en 2026 indique désormais que la structure est **inscrite au Répertoire National des Associations**, avec source Ministère de l'Intérieur / DJEPVA, tout en laissant le champ du numéro RNA non renseigné dans la page publique consultée.
+
+La conclusion correcte est donc :
+
+~~~text
+absence RNA constatée en mai 2024
+→ ESTABLISHED
+
+procédure de régularisation engagée
+→ ESTABLISHED
+
+achèvement exact / date / numéro
+→ UNKNOWN
+
+présence dans le RNA au 30/09/2026
+→ ESTABLISHED par registre public
+~~~
+
+## 13. Effet juridique de la déclaration — ancrage actuel
+
+L'article 5 de la loi du 1er juillet 1901, dans sa version actuellement en vigueur, prévoit que les associations déclarent dans les trois mois les changements survenus dans leur administration ainsi que les modifications apportées à leurs statuts.
+
+Il précise également que :
+
+> **ces modifications et changements ne sont opposables aux tiers qu'à partir du jour où ils auront été déclarés.**
+
+Source officielle : Légifrance, loi du 1er juillet 1901, article 5.
+
+Service-Public rappelle en 2026 que, lorsque les statuts prévoient les conditions de leur modification, ces conditions gouvernent l'organe compétent, le quorum et la majorité ; après adoption, la modification statutaire doit être déclarée au greffe dans les trois mois.
+
+Conséquence pour C.O.R.S.I.C.A. :
+
+~~~text
+délibération interne
+≠
+déclaration administrative
+
+déclaration administrative
+→ condition d'opposabilité aux tiers des changements concernés
+~~~
+
+Cette règle donne une base juridique externe à la grammaire observée dans le Reality Test :
+
+~~~text
+DECISION
+≠ FORMALITY
+≠ THIRD-PARTY EFFECT
+~~~
+
+## 14. État de preuve au 5 octobre 2026
+
+La reconstruction la plus conservatrice est désormais :
+
+~~~text
+statuts fondateurs signés 25/12/1995
+→ PRIMARY SOURCE
+
+déclaration 04/01/1996 / récépissé 08/01 / JO 24/01
+→ PRIMARY ADMINISTRATIVE SOURCES
+
+refonte 2018
+→ DRAFT / NOT SHOWN ADOPTED
+
+bureau 2020
+→ PV EXISTS / SIGNED VERSION NOT FOUND
+
+banque 2023
+→ STILL TREATS 1995 STATUTES AS LAST KNOWN VERSION
+
+RNA regularization 2024
+→ PROCESS ESTABLISHED / COMPLETION DATE UNKNOWN
+
+AG 2025
+→ OCCURRENCE STRONGLY RECONSTRUCTED / MINUTES RETROSPECTIVE
+
+statutory reform 2026
+→ PREPARATORY
+
+public registry 2026
+→ RNA PRESENCE OBSERVED
+→ SEAT STILL ROUTE DE CASTIRLA
+~~~
+
+À ce stade, aucune trace retrouvée n'établit qu'une refonte complète des statuts postérieure à 1995 a été adoptée **et déclarée**.
