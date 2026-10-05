@@ -39,6 +39,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md"
   - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "research/senatoriales-2026/investigation/contre_cela_naurait_rien_change_2026-10-02.md"
+  - "research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
   - "research/senatoriales-2026/case_studies/capable_test_senatoriales_2026_accessibilite.md"
@@ -419,6 +420,18 @@ Une piste de **question prioritaire de constitutionnalité** est étudiée sépa
 Elle **n'est pas intégrée comme moyen déjà recevable dans la présente requête**.
 
 Le contentieux des élections parlementaires relève directement du Conseil constitutionnel au titre de l'article 59 de la Constitution, tandis que le mécanisme de l'article 61-1 et des articles 23-1 et suivants de l'ordonnance du 7 novembre 1958 organise la QPC à partir d'une juridiction relevant du Conseil d'État ou de la Cour de cassation.
+
+### Note de séparation procédurale — Conseil constitutionnel, remèdes et CEDH
+
+La note `research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md` cartographie séparément l'après-décision et les remèdes.
+
+Trois invariants sont conservés dans la présente requête :
+
+1. **le Conseil constitutionnel est le juge national de l'élection** ; sa décision ferme la voie de recours interne ordinaire ;
+2. **la CEDH n'est pas une cour d'appel du Conseil constitutionnel** ; une éventuelle requête européenne ne peut porter que sur un grief conventionnel propre, après épuisement des recours internes pertinents et dans le délai applicable ;
+3. **l'article 41 de l'ordonnance du 7 novembre 1958 distingue annulation et réformation de la proclamation**. L'idée d'une proclamation directe du requérant est conservée comme *remedial probe* très subsidiaire : elle n'est pas, à ce stade, promue dans les conclusions formelles de la v0.6.
+
+Cette séparation permet de discuter l'effectivité des remèdes sans transformer une hypothèse exploratoire en prétention acquise.
 
 La piste QPC ne pourra donc être cristallisée qu'après identification :
 
