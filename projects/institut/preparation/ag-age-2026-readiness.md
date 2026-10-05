@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.4"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -54,8 +54,8 @@ PREPARED
 | Statuts de référence | READY_WITH_RESERVATION | scan signé 1995 + copie préfectorale 2018 + chaîne d’usage 2021/2023/2024 ; dates fines récépissé/JO 1996 non revalidées | confirmation finale du greffe souhaitable mais non nécessaire pour continuer la préparation |
 | Transcription recherchable | READY | source canonique `projects/institut/sources/statuts-corsica-1995-transcription.md` issue des 6 pages scannées | revue humaine ligne à ligne avant freeze juridique |
 | Procédure de modification | READY | article 17 : 15 jours, quorum 1/4, seconde convocation, majorité 2/3 | reporter ces règles dans la convocation |
-| Composition de l’AG | BLOCKED | catégories 1995 connues, individus 2026 non qualifiés | reconstruire registre privé des membres en exercice |
-| Quorum chiffré | BLOCKED | dénominateur inconnu | obtenir N votants établis / conservatoires |
+| Composition de l’AG | CRITICAL_BLOCKER | catégories 1995 connues, individus 2026 non qualifiés ; jurisprudence sur agrément statutaire identifiée | reconstruire et sécuriser la qualité des membres avant convocation |
+| Quorum chiffré | CRITICAL_BLOCKER | dénominateur inconnu tant que les admissions ne sont pas qualifiées | obtenir N votants juridiquement défendables |
 | Autorité proposant la modification | PARTIAL | CA actuel incertain ; route alternative par 1/10 des membres | sécuriser CA ou réunir une proposition de membres statutairement qualifiés |
 | Projet de nouveaux statuts | PARTIAL | drafts 2018 + chantier 2025–2026 | produire version consolidée explicitement PREPARATORY |
 | Rapport exercice 2025 | PARTIAL | activity-2025 + PV rétrospectif + traces | compléter activité / comptes / ressources |
@@ -99,6 +99,37 @@ Conséquence :
 
 Le dénominateur ne doit être ni 33, ni 40, ni le nombre de participants aux AG récentes, tant qu’une méthode de qualification juridiquement défendable n’est pas arrêtée.
 
+
+## 3 ter. Pourquoi le blocker est désormais critique
+
+La Cour de cassation (2e civ., 6 septembre 2018, n° 17-19.657) fournit un avertissement directement pertinent : lorsque les statuts imposent un agrément du conseil pour devenir membre, l'absence de preuve de cet agrément peut affecter la régularité de la composition de l'assemblée et conduire à l'annulation de ses décisions.
+
+Source officielle :
+- https://www.legifrance.gouv.fr/juri/id/JURITEXT000037450583
+
+Les statuts C.O.R.S.I.C.A. de 1995 prévoient eux-mêmes un agrément par le conseil d'administration après présentation par plusieurs membres.
+
+Il faut donc résister à une solution administrativement séduisante mais fragile :
+
+~~~text
+prendre les 33 personnes du vieux tableur
+OU les 40 "membres actifs" évoqués en 2026
+OU les participants d'une AG antérieure
+→ calculer un quorum
+→ convoquer
+~~~
+
+Cette chaîne n'est pas suffisamment sûre.
+
+La condition de sortie du blocker devient :
+
+~~~text
+qualification privée personne par personne
+→ admission / catégorie / sortie éventuelle
+→ revue contradictoire des cas incertains
+→ gel d'une liste de convocation traçable
+→ seulement ensuite calcul du quorum
+~~~
 
 ## 4. Stratégie de robustesse
 
