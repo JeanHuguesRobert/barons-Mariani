@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.3"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -152,6 +152,40 @@ last_modified: 2019-10
 ~~~
 
 Aucune coordonnée privée de ce tableur n'est reproduite ici.
+
+### 3.1 Distribution des qualifications opérationnelles
+
+Sur les **33 lignes de personnes** du registre historique :
+
+| Qualification principale observée | Nombre |
+|---|---:|
+| Bénévole | 16 |
+| Usager | 10 |
+| Secrétaire | 1 |
+| Président | 1 |
+| Ancien secrétaire | 2 |
+| Chargée / chargé de communication | 2 |
+| Qualification vide | 1 |
+
+Ces nombres décrivent le vocabulaire du tableur, **pas des catégories statutaires**.
+
+Pour les seules personnes déjà documentées par des actes institutionnels ultérieurs, le registre historique indique :
+
+~~~text
+Jean Hugues Noël Robert
+→ Président
+
+Lancelot Reybel
+→ Ancien secrétaire
+
+Marguerite / Maguy Ghionga
+→ Bénévole
+
+Yvon Ambrosi
+→ Bénévole, incubé
+~~~
+
+Cette continuité est informative mais ne transforme aucune de ces qualifications opérationnelles en preuve automatique de catégorie statutaire 1995, de qualité d'administrateur ou de droit de vote en 2026.
 
 ## 3 bis. Pratique opérationnelle documentée en 2019
 
