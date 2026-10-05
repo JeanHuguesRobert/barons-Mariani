@@ -40,6 +40,7 @@ preparation:
   frozen: false
   living_view: ../suivi.md
   constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
+  remedies_strategy: ../../../research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md
   petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md
   petition_version: "0.6"
   petition_status: "working-draft — pre-filing consolidation — not filed"
