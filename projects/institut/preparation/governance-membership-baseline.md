@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.4"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -348,6 +348,78 @@ Le fait que Maguy Ghionga soit décrite comme « membre active » dans le PV 202
 | liste 2018–2019 | personnes impliquées | HISTORICAL ; not a 2026 voting roll |
 
 Ce tableau ne constitue pas encore une liste électorale de l'association.
+
+## 7 bis. État courant déclaré au 5 octobre 2026
+
+Une clarification contemporaine du Président précise la pratique actuelle :
+
+- l’adhésion est libre et le nombre total des membres / usagers n’est pas exhaustivement connu ;
+- la pratique ancienne distingue les membres actifs des autres membres principalement usagers des activités ;
+- le nombre de membres actifs continus a diminué au fil des années ;
+- au 5 octobre 2026, deux personnes sont décrites comme actives de façon continue : Jean Hugues Noël Robert, Président, et Maguy Ghionga, Trésorière ;
+- quelques usagers peuvent redevenir actifs de manière épisodique selon les projets.
+
+Qualification : déclaration contemporaine du Président sur la pratique réelle ; elle ne vaut pas preuve rétroactive d’une catégorie juridique des statuts 1995.
+
+~~~yaml
+current_practice_2026:
+  source: president_contemporary_declaration
+  epistemic_status: REPORTED_BY_PRESIDENT
+  continuous_active_members_count: 2
+  continuous_roles:
+    - president
+    - treasurer
+  episodically_active_users_count: UNKNOWN
+  total_users_or_members_count: UNKNOWN
+  statutory_1995_equivalence: NOT_ESTABLISHED
+~~~
+
+La date exacte à laquelle Maguy Ghionga a commencé à exercer la fonction de Trésorière dans la pratique actuelle n’est pas encore établie. Le PV rétrospectif attribuant la trésorerie à Yvon Ambrosi en 2025 décrit donc un état antérieur ou une reconstruction partielle ; la transition doit rester UNKNOWN jusqu’à nouvelle trace.
+
+## 7 ter. Conséquence pour la reconstruction historique
+
+Il serait irréaliste de chercher une liste exhaustive et continue de tous les membres / usagers depuis la création.
+
+La reconstruction doit distinguer :
+
+~~~text
+USAGER / MEMBRE AU SENS LARGE
+→ accès ou usage de l’association
+→ population ouverte, historiquement difficile à exhaustiver
+
+MEMBRE ACTIF
+→ participation réelle à la vie de l’association
+→ continuité ou épisodes d’activité à reconstruire
+
+RESPONSABLE / OFFICE HOLDER
+→ fonction explicite de gouvernance
+→ Président, Trésorier, Secrétaire, etc.
+~~~
+
+Pour l’histoire, l’unité pertinente devient : personne → période documentée → type de relation → niveau d’activité → fonction éventuelle → sources → confiance.
+
+Un usager ayant été locataire, bénéficiaire, participant ou utilisateur d’un service ne doit pas être transformé automatiquement en membre actif ni en électeur.
+
+## 7 quater. Modèle candidat pour la refonte
+
+Le projet de refonte peut formaliser la pratique historique en séparant au minimum :
+
+~~~text
+membre / usager
+→ adhésion libre
+→ bénéficie ou utilise les activités
+
+membre actif
+→ participe de manière effective à la vie associative
+→ catégorie de gouvernance explicite
+
+responsable
+→ membre actif titulaire d’un mandat ou d’une fonction
+~~~
+
+La procédure exacte d’acquisition, de maintien et de perte de la qualité de membre actif devra être définie assez clairement pour qu’un futur quorum ne dépende plus de souvenirs ou d’inférences.
+
+Cette proposition reste PREPARATORY et ne décrit pas les statuts en vigueur.
 
 ## 8. Ce qui manque pour calculer le quorum
 
