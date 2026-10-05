@@ -5,9 +5,9 @@ description: "Comparaison entre les statuts signés de 1995 obtenus de la préfe
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
+last_modified_at: "2026-10-05"
 version: "0.1"
-status: "working-paper — documentary analysis"
+status: "superseded — retained for provenance"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/statuts-1995-vs-2018-draft.md"
@@ -15,8 +15,9 @@ document_role: "analysis"
 document_kind: "institutional-source-comparison"
 document_function: "determine working applicable statutes"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
+superseded_by: "projects/institut/preparation/statutes-1995-2018-comparison.md"
 related_documents:
   - "projects/institut/preparation/statuts-1995-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
@@ -32,6 +33,8 @@ review:
 ---
 
 # Statuts 1995 et projet 2018–2019
+
+> **Document superseded.** La comparaison canonique active est `projects/institut/preparation/statutes-1995-2018-comparison.md`.
 
 ## 1. Sources
 
