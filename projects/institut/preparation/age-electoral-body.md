@@ -1,1 +1,134 @@
----\ntitle: "C.O.R.S.I.C.A. — corps électoral préparatoire de l’AGE"\nsubtitle: "Qui peut voter, et sur quelle base documentaire ?"\ndescription: "Registre préparatoire destiné à reconstruire le corps électoral statutaire avant toute convocation d’une AGE, sans publier les données personnelles du registre d’adhérents."\nauthor: "Jean Hugues Noël Robert, baron Mariani"\naffiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"\ndate: "2026-10-05"\nlast_modified_at: "2026-10-05"\nversion: "0.1"\nstatus: "working-paper — preparatory"\nlicense: "CC BY-SA 4.0"\nlanguage: "fr"\ncanonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/age-electoral-body.md"\ndocument_role: "operational"\ndocument_kind: "governance-register"\ndocument_function: "AGE electoral body reconstruction"\nvisibility: "public"\nlifecycle_state: "working"\nupdate_policy: "UP-DEFAULT-REVIEWED"\nrelated_documents:\n  - "projects/institut/preparation/statuts-1995-transcription.md"\n  - "projects/institut/preparation/statutory-mandate-2025-2026.md"\n  - "projects/institut/preparation/ag-age-2025-2026.md"\nprovenance:\n  origin_type: "multi-source-reconstruction"\n  origin_repository: "JeanHuguesRobert/barons-Mariani"\n  origin_ref: "unknown"\n  origin_date: "2026-10-05"\n  derived_from:\n    - "founding statutes scan"\n    - "Adhérents CORSICA spreadsheet, 2018-2019"\n    - "PV bureau dated 2020-10-15"\n    - "retrospective PV AG 2025"\nreview:\n  status: "unreviewed"\n  reviewed_by: []\n---\n\n# C.O.R.S.I.C.A. — corps électoral préparatoire de l’AGE\n\n## 1. Règle statutaire retrouvée\n\nSous réserve de confirmation finale que les statuts signés le 25 décembre 1995 sont toujours les statuts applicables, leur article 8 prévoit que l’assemblée générale comprend les membres fondateurs, les membres d’honneur, les membres bienfaiteurs et les membres actifs. Les membres adhérents n’en font pas partie.\n\nL’article 3 précise que les membres d’honneur et bienfaiteurs sont nommés par le conseil d’administration. L’admission comme membre relève également du conseil d’administration.\n\n> **Le simple fait d’apparaître dans un fichier d’adhérents, d’usagers ou de bénévoles ne suffit pas à établir le droit de vote.**\n\n## 2. Registre « Adhérents CORSICA »\n\nUn tableur intitulé « Adhérents CORSICA » existe dans les archives.\n\n~~~text\ncréé : 3 juillet 2018\ndernière modification observée : 10 octobre 2019\nenviron 33 personnes renseignées dans la plage utilisée\n~~~\n\nLe tableur utilise des catégories pratiques telles que Président, secrétaire / ancien secrétaire, chargé de communication, bénévole, usager ou bénévole incubé.\n\nCes catégories ne constituent pas une table de correspondance fiable vers les catégories statutaires fondateur / membre d’honneur / membre bienfaiteur / membre actif / membre adhérent.\n\nLe tableur est donc une **trace historique de personnes liées à l’activité**, pas un registre électoral actuel.\n\nLes coordonnées personnelles et données bancaires présentes dans cette source privée ne sont pas reproduites dans le Corpus public.\n\n## 3. Jalons ultérieurs\n\n### 15 octobre 2020\n\nUn PV de renouvellement du bureau identifie un président réélu, un trésorier élu et une secrétaire élue.\n\nLa version retrouvée dans le dossier bancaire était signalée comme non signée par Société Générale en 2023. Ce PV renseigne le bureau mais ne fournit pas la liste complète des membres de l’assemblée ni leur catégorie statutaire.\n\n### 28 juin 2025\n\nLe PV rétrospectif de l’AG 2025 indique trois personnes présentes et qualifie l’une d’elles de membre active après simplification envisagée du bureau.\n\nIl ne fournit pas une liste exhaustive de tous les membres ayant alors droit de vote.\n\n## 4. État courant\n\n~~~text\nliste historique de personnes liées à l’association\n→ ESTABLISHED\n\nbureau 2020\n→ RECONSTRUCTED / document non signé dans le dossier bancaire retrouvé\n\nparticipants AG 2025\n→ RECONSTRUCTED depuis PV rétrospectif\n\nliste actuelle des membres ayant droit de vote\n→ UNKNOWN\n\nnombre servant au quorum de l’AGE\n→ UNKNOWN\n~~~\n\nAucun quorum ne doit être calculé avant résolution de cette inconnue.\n\n## 5. Reconstruction nécessaire avant convocation\n\nPour chaque personne potentiellement électrice, il faut établir : qualité de membre, catégorie statutaire, continuité de cette qualité, droit de vote et règles de pouvoir.\n\nLa reconstruction doit privilégier les décisions et PV plutôt que les simples listes de contacts.\n\n## 6. Reality Test\n\nLe futur outillage de gouvernance devra rendre impossible la confusion suivante :\n\n~~~text\nliste de contacts\n≠ registre des membres\n≠ catégories statutaires\n≠ corps électoral\n~~~\n\nUne future structure machine-readable pourrait conserver séparément :\n\n~~~yaml\nperson_id: ...\nmembership:\n  status: active\n  category: active_member\n  admitted_by: ...\n  admitted_at: ...\n  evidence: ...\ngovernance:\n  voting_right: true\n  voting_basis: statutes_article_8\n~~~\n\nCette proposition reste préparatoire et ne modifie pas rétroactivement les qualités des personnes.
+---
+title: "C.O.R.S.I.C.A. — corps électoral préparatoire de l’AGE"
+subtitle: "Qui peut voter, et sur quelle base documentaire ?"
+description: "Registre préparatoire destiné à reconstruire le corps électoral statutaire avant toute convocation d’une AGE, sans publier les données personnelles du registre d’adhérents."
+author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-05"
+last_modified_at: "2026-10-05"
+version: "0.1"
+status: "working-paper — preparatory"
+license: "CC BY-SA 4.0"
+language: "fr"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/age-electoral-body.md"
+document_role: "operational"
+document_kind: "governance-register"
+document_function: "AGE electoral body reconstruction"
+visibility: "public"
+lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
+related_documents:
+  - "projects/institut/preparation/statuts-1995-transcription.md"
+  - "projects/institut/preparation/statutory-mandate-2025-2026.md"
+  - "projects/institut/preparation/ag-age-2025-2026.md"
+provenance:
+  origin_type: "multi-source-reconstruction"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "unknown"
+  origin_date: "2026-10-05"
+  derived_from:
+    - "founding statutes scan"
+    - "Adhérents CORSICA spreadsheet, 2018-2019"
+    - "PV bureau dated 2020-10-15"
+    - "retrospective PV AG 2025"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+---
+
+# C.O.R.S.I.C.A. — corps électoral préparatoire de l’AGE
+
+## 1. Règle statutaire retrouvée
+
+Sous réserve de confirmation finale que les statuts signés le 25 décembre 1995 sont toujours les statuts applicables, leur article 8 prévoit que l’assemblée générale comprend les membres fondateurs, les membres d’honneur, les membres bienfaiteurs et les membres actifs. Les membres adhérents n’en font pas partie.
+
+L’article 3 précise que les membres d’honneur et bienfaiteurs sont nommés par le conseil d’administration. L’admission comme membre relève également du conseil d’administration.
+
+> **Le simple fait d’apparaître dans un fichier d’adhérents, d’usagers ou de bénévoles ne suffit pas à établir le droit de vote.**
+
+## 2. Registre « Adhérents CORSICA »
+
+Un tableur intitulé « Adhérents CORSICA » existe dans les archives.
+
+~~~text
+créé : 3 juillet 2018
+dernière modification observée : 10 octobre 2019
+environ 33 personnes renseignées dans la plage utilisée
+~~~
+
+Le tableur utilise des catégories pratiques telles que Président, secrétaire / ancien secrétaire, chargé de communication, bénévole, usager ou bénévole incubé.
+
+Ces catégories ne constituent pas une table de correspondance fiable vers les catégories statutaires fondateur / membre d’honneur / membre bienfaiteur / membre actif / membre adhérent.
+
+Le tableur est donc une **trace historique de personnes liées à l’activité**, pas un registre électoral actuel.
+
+Les coordonnées personnelles et données bancaires présentes dans cette source privée ne sont pas reproduites dans le Corpus public.
+
+## 3. Jalons ultérieurs
+
+### 15 octobre 2020
+
+Un PV de renouvellement du bureau identifie un président réélu, un trésorier élu et une secrétaire élue.
+
+La version retrouvée dans le dossier bancaire était signalée comme non signée par Société Générale en 2023. Ce PV renseigne le bureau mais ne fournit pas la liste complète des membres de l’assemblée ni leur catégorie statutaire.
+
+### 28 juin 2025
+
+Le PV rétrospectif de l’AG 2025 indique trois personnes présentes et qualifie l’une d’elles de membre active après simplification envisagée du bureau.
+
+Il ne fournit pas une liste exhaustive de tous les membres ayant alors droit de vote.
+
+## 4. État courant
+
+~~~text
+liste historique de personnes liées à l’association
+→ ESTABLISHED
+
+bureau 2020
+→ RECONSTRUCTED / document non signé dans le dossier bancaire retrouvé
+
+participants AG 2025
+→ RECONSTRUCTED depuis PV rétrospectif
+
+liste actuelle des membres ayant droit de vote
+→ UNKNOWN
+
+nombre servant au quorum de l’AGE
+→ UNKNOWN
+~~~
+
+Aucun quorum ne doit être calculé avant résolution de cette inconnue.
+
+## 5. Reconstruction nécessaire avant convocation
+
+Pour chaque personne potentiellement électrice, il faut établir : qualité de membre, catégorie statutaire, continuité de cette qualité, droit de vote et règles de pouvoir.
+
+La reconstruction doit privilégier les décisions et PV plutôt que les simples listes de contacts.
+
+## 6. Reality Test
+
+Le futur outillage de gouvernance devra rendre impossible la confusion suivante :
+
+~~~text
+liste de contacts
+≠ registre des membres
+≠ catégories statutaires
+≠ corps électoral
+~~~
+
+Une future structure machine-readable pourrait conserver séparément :
+
+~~~yaml
+person_id: ...
+membership:
+  status: active
+  category: active_member
+  admitted_by: ...
+  admitted_at: ...
+  evidence: ...
+governance:
+  voting_right: true
+  voting_basis: statutes_article_8
+~~~
+
+Cette proposition reste préparatoire et ne modifie pas rétroactivement les qualités des personnes.
