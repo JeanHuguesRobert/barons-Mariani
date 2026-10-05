@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.6"
+version: "0.7"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -453,6 +453,62 @@ office / titre
 ~~~
 
 Pour l’histoire des membres actifs, l’activité de Maguy ne doit donc pas être sous-estimée ou surinterprétée à partir du seul volume d’opérations bancaires : une fonction peut subsister alors que sa capacité d’action est contrainte par un blocage externe.
+
+## 7 sexies. Mars 2026 — « 40 membres actifs » corrigé en « quarantaine d’usagers »
+
+Une séquence de correspondance relative à un projet de vélos cargos apporte une trace utile mais aussi un exemple de vocabulaire à ne pas surinterpréter.
+
+Le 12 mars 2026, un courrier externe emploie la formule :
+
+> « une population de 40 membres actifs »
+
+pour décrire les personnes susceptibles de participer à l’initiative.
+
+Le 23 mars 2026, dans le suivi du **même dossier**, la formulation est précisée :
+
+~~~text
+l’association n’a pas de salariés
+→ uniquement des bénévoles et des usagers
+
+pour les vélos
+→ une quarantaine d’usagers
+~~~
+
+Cette seconde formulation est plus précise quant à la nature de la population visée et montre que le terme « membres actifs » du 12 mars ne peut pas être repris comme une qualification statutaire fiable.
+
+Qualification :
+
+~~~yaml
+trace_2026_03_12:
+  wording: "40 membres actifs"
+  epistemic_status: ESTABLISHED_AS_WORDING
+  statutory_membership_effect: NOT_SUFFICIENT
+
+trace_2026_03_23:
+  wording: "une quarantaine d’usagers"
+  context: "même projet de mobilité"
+  epistemic_status: ESTABLISHED
+  interpretive_weight: HIGHER_FOR_PROJECT_POPULATION
+
+quorum_effect:
+  value: NONE
+  reason: "population d’usagers projetée ≠ membres composant l’AG"
+~~~
+
+Cette séquence fournit un Reality Test particulièrement clair :
+
+~~~text
+vocabulaire externe approximatif
+≠ catégorie statutaire
+
+population d’usagers
+≠ corps électoral associatif
+
+estimation de bénéficiaires
+≠ nombre de membres en exercice
+~~~
+
+Le chiffre 40 **ne doit donc pas être utilisé** pour calculer le quorum de l’assemblée 2026.
 
 ## 8. Ce qui manque pour calculer le quorum
 
