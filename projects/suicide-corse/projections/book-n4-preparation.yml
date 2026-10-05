@@ -40,9 +40,20 @@ preparation:
   frozen: false
   living_view: ../suivi.md
   constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
-  petition_status: "working draft, not filed, content not fixed"
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.5.md
+  petition_version: "0.5"
+  petition_status: "working-draft — adversarial-review candidate — not filed"
+  petition_sync_policy: "When the Corpus promotes a newer petition as current before filing, update this pointer and the living view in the same editorial movement; do not duplicate the petition text."
   note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
+  synchronization:
+    regime: "quasi-real-time-until-filing"
+    trigger: "material movement of the current petition, evidence schedule, evidence inventory, chronology, institutional response, or filing status"
+    targets:
+      - ../suivi.md
+      - ./book-n4-preparation.yml
+    source_rule: "Reference canonical source artifacts; do not maintain divergent copies."
+    render_rule: "HTML may move frequently; PDF/EPUB rerender is required only for substantive editorial milestones."
+    filing_boundary: "After effective filing, snapshot the actually filed petition, schedule, transmission mode, and available filing proof before any freeze decision."
 
 chapters:
   - ../manuscript/magazine-n4/00-en-preparation.md
