@@ -5,8 +5,8 @@ description: "Transcription dérivée des six pages scannées des statuts fondat
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.1"
+last_modified_at: "2026-10-05"
+version: "0.2"
 status: "working-transcription — human review required"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -25,12 +25,23 @@ source_scan:
   scan_text_layer: false
   signed_date_visible: "1995-12-25"
   deposit_date_reported: "1995-12-26"
+alternate_scan_copy:
+  title: "Status CORSICA.pdf"
+  sha256: "d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611"
+  pages: 6
+  comparison:
+    method: "independent page rendering comparison"
+    dpi: 120
+    changed_pages: 0
+    pixel_change_ratio: 0.0
+    conclusion: "binary files differ, rendered documentary content matches on all six pages"
 transcription:
   method: "visual transcription from 220 dpi renders"
   layout_normalized: true
   signatures_transcribed_as_description: true
   silent_legal_modernization: false
 related_documents:
+  - "projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
   - "projects/institut/preparation/janus-master.md"
@@ -54,6 +65,8 @@ review:
 Le PDF source ne contient aucune couche texte. La présente transcription a été effectuée visuellement à partir de rendus haute résolution des six pages.
 
 Les retours à la ligne ont été normalisés. La ponctuation, les capitales et les formulations anciennes ou possiblement fautives sont conservées autant que possible. Aucun texte légal moderne n’est substitué au texte de 1995. Les signatures manuscrites sont décrites mais non reproduites graphiquement.
+
+Deux copies PDF archivées ont été comparées indépendamment. Leurs empreintes SHA-256 diffèrent, mais leurs six pages rendues à 120 dpi ne présentent aucune différence de pixels détectée. Cette convergence renforce l'identité documentaire sans prétendre à une identité binaire des fichiers.
 
 La page 6 porte manuscritement : **« Corte le 25/12/95 »**. Le courrier de transmission au greffe des associations en 2024 décrit ce scan comme les statuts déposés à la sous-préfecture de Corte le **26 décembre 1995**. Le registre public consulté en 2026 donne également le 26 décembre 1995 comme date de création.
 
