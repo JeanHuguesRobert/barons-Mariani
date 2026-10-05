@@ -1,11 +1,11 @@
 ---
 title: "Sénatoriales Haute-Corse 2026 — Inventaire probatoire exhaustif et registre des pièces (Conseil constitutionnel)"
-subtitle: "Faisceau probatoire complet : pleine coopération du candidat, impossibilité matérielle et fonctionnelle dans des délais contraints, sincérité de la candidature et traçabilité cryptographique Git"
+subtitle: "Registre analytique des sources, pièces, statuts de preuve et éléments de matérialisation du dossier contentieux"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-10-04"
-version: "1.3"
-status: "working-draft — aligned with CC petition v0.4 — for human review"
+date: "2026-10-05"
+version: "1.4"
+status: "working-draft — aligned with CC petition v0.6 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -23,6 +23,8 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.2.md"
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
+  - "requete-conseil-constitutionnel-projet-v0.6.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.6.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
   - "investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
   - "investigation/constat-consultation-2026-10-01-rp-sen-08-c.md"
@@ -36,19 +38,44 @@ source_documents:
   - "case_studies/capable_test_article_72_5.md"
   - "case_studies/capable_test_senatoriales_2026_accessibilite.md"
   - "case_studies/capable_test_personnes_hypothetiques_72_5_effectivite.md"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "e7f6a11ff4495debd5abe8a792142d59dab87dad"
+  origin_date: "2026-10-04"
+  derived_from:
+    - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
 review:
   status: "unreviewed"
   reviewed_by: []
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# INVENTAIRE PROBATOIRE EXHAUSTIF ET REGISTRE DES PIÈCES
+# INVENTAIRE PROBATOIRE DE TRAVAIL ET REGISTRE DES SOURCES / PIÈCES
 ## Contentieux de l'élection sénatoriale du 27 septembre 2026 — Haute-Corse
 ### Devant le Conseil constitutionnel (art. 59 de la Constitution et L. 303 du code électoral)
 
 ---
 
 ## I. PRINCIPES D'ARCHITECTURE PROBATOIRE ET DISCIPLINE DE QUALIFICATION
+
+### Terminologie procédurale
+
+Le présent document conserve le nom historique d'**inventaire probatoire**, mais il s'agit d'un **instrument analytique interne au Corpus**, plus large que la liste procédurale des pièces effectivement produites.
+
+Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.6 est :
+
+`bordereau-pieces-requete-conseil-constitutionnel-v0.6.md`
+
+La distinction est impérative :
+
+`inventaire probatoire = ce qui est connu / disponible / analysé`
+
+`bordereau de pièces = ce qui est identifié pour être effectivement annexé ou tenu en réserve de production`
+
+Une pièce présente dans cet inventaire n'est donc **pas réputée produite** au Conseil constitutionnel par sa seule présence dans GitHub.
+
+
 
 ### 1. Structure de production
 
@@ -166,7 +193,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 
 ---
 
-## VIII. BORDEREAU MATRICIEL — 36 PIÈCES / ENSEMBLES DE PIÈCES
+## VIII. REGISTRE MATRICIEL — 40 PIÈCES / ENSEMBLES DE PIÈCES
 
 | N° | Date & heure | Intitulé | Portée probatoire bornée | Source / support |
 |---|---|---|---|---|
@@ -245,7 +272,7 @@ La requête précise que le dossier avait été transmis principalement sous for
 Avant dépôt, produire un manifeste final séparant :
 
 1. **la requête signée** avec l'identité et la qualité du requérant, l'élu dont l'élection est contestée et les moyens invoqués ;
-2. **le bordereau P-01 à P-40**, avec pour chaque pièce son fichier réel, son statut public/privé, sa pagination dans le recueil et, si utile, son empreinte ;
+2. **le bordereau autonome v0.6**, avec pour chaque pièce candidate son numéro P-xx, son intitulé, son rôle, son statut de production, son support réel, sa pagination dans le recueil et, si utile, son empreinte ;
 3. **le recueil PDF consolidé**, sans faire dépendre l'accès du Conseil d'un simple lien web ;
 4. **les pièces natives décisives**, notamment les courriels dont les métadonnées sont probatoires, la vidéo P-13 et les PDF originaux P-14 ;
 5. **un registre des UNKNOWN**, afin qu'une demande d'instruction soit formulée là où le requérant ne dispose pas lui-même de la pièce ;
@@ -253,9 +280,9 @@ Avant dépôt, produire un manifeste final séparant :
 
 L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant la proclamation, à 18 heures. L'article 34 permet une requête écrite adressée au secrétariat général du Conseil constitutionnel ou au représentant de l'État. Le canal matériel retenu devra être vérifié au moment du dépôt et documenté sans confondre préparation et saisine effectivement accomplie.
 
-### Contrôle de cohérence v1.2
+### Contrôle de cohérence v1.4
 
-- La requête **v0.5** est désormais synchronisée jusqu'à **P-40**. L'inventaire et le bordereau de la requête doivent rester alignés avant tout dépôt.
+- La requête **v0.6**, le présent inventaire **v1.4** et le **bordereau autonome v0.6** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
