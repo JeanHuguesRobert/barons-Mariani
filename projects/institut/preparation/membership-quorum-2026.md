@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.9"
+version: "1.0"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -314,6 +314,65 @@ catégorie statutaire 1995 établie
 ~~~
 
 Le cas est particulièrement instructif : même les participants les mieux documentés de l'AG récente ne permettent pas de déduire mécaniquement le dénominateur juridique du quorum.
+
+
+## 3 decies. Recherche nominative ciblée — saturation des archives passives
+
+Un passage nominatif privé a ensuite été effectué sur les personnes les mieux documentées dans les rôles de gouvernance et sur les deux fondateurs historiques autres que le Président.
+
+### Résultat général
+
+Aucun acte nominatif d'agrément du conseil d'administration conforme à l'article 3 n'a été retrouvé.
+
+Aucune démission ou radiation statutaire explicite des fondateurs recherchés n'a été retrouvée non plus.
+
+Cette seconde absence ne vaut pas preuve de maintien de la qualité : elle signifie seulement `NOT FOUND`.
+
+### Indices de pratique retrouvés
+
+Les archives montrent cependant plusieurs indices forts de fonctions exercées :
+
+- dès mai 2018, une carte de travail de l'Institut porte sur un rendez-vous bancaire pour « déclarer statut trésorier et compte en ligne » et est manipulée par la personne concernée ;
+- de 2020 à 2022, une carte récurrente porte le libellé « Frais de l'adhérant LR » ;
+- la même personne intervient ensuite de manière répétée sur la banque C.O.R.S.I.C.A. et la conformité documentaire jusqu'en 2023 ;
+- le registre 2018–2019 la qualifie d'« ancien secrétaire » ;
+- les participants rapportés à l'AG 2025 apparaissent tous dans le registre opérationnel historique.
+
+Ces éléments renforcent l'existence d'une pratique institutionnelle réelle, mais ils ne résolvent pas le point de droit documentaire :
+
+~~~text
+fonction effectivement exercée
+≠ preuve de l'agrément initial comme membre
+
+libellé « adhérant »
+≠ qualification certaine « membre adhérent » au sens technique de l'article 3
+
+présence durable dans la gouvernance
+≠ acte d'admission retrouvé
+~~~
+
+Le terme « adhérant » utilisé dans une carte de frais est trop ambigu pour classer rétroactivement la personne dans la catégorie statutaire non-votante des « membres adhérents ».
+
+### Changement de phase
+
+La recherche plein texte générale et nominative atteint désormais un rendement décroissant.
+
+~~~text
+ARCHIVE SEARCH
+→ substantially exhausted for admission acts
+
+NEXT
+→ ACTIVE QUALIFICATION
+~~~
+
+La suite doit donc privilégier :
+
+1. sollicitation privée des personnes plausibles pour retrouver leurs propres pièces ou souvenirs documentables ;
+2. recherche ciblée des anciens PV / registres papier éventuellement hors Drive ;
+3. confrontation contradictoire d'une liste candidate avant son gel ;
+4. si nécessaire, accompagnement Guid'Asso / greffe sur la régularisation d'une association ancienne dont le registre d'admission est incomplet.
+
+Une attestation ou un souvenir n'est pas traité comme équivalent automatique à l'agrément : il constitue une trace supplémentaire à trianguler avec les pratiques, PV et règles statutaires.
 
 ## 4. Reconstruction requise
 
