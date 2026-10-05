@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.8"
+version: "0.9"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -356,6 +356,34 @@ sortie éventuelle à établir
 =
 qualité de membre en exercice
 ~~~
+
+## 4 ter. Risque juridique : l'agrément statutaire n'est pas une formalité décorative
+
+Une jurisprudence de la Cour de cassation directement pertinente pour la méthode de reconstruction a été identifiée :
+
+- Cour de cassation, 2e chambre civile, 6 septembre 2018, n° 17-19.657 ;
+- source officielle : https://www.legifrance.gouv.fr/juri/id/JURITEXT000037450583
+
+Dans l'affaire jugée, les statuts prévoyaient une demande d'adhésion suivie d'une décision du conseil d'administration. La juridiction a notamment retenu que le seul paiement de la cotisation ne suffisait pas à établir la qualité de membre lorsque l'agrément du conseil était statutairement requis ; la présence de personnes dont la qualité de membre n'était pas démontrée avait contribué à l'irrégularité de la composition des organes et à l'annulation des décisions.
+
+Cette décision ne préjuge pas automatiquement du cas C.O.R.S.I.C.A., dont les faits et le texte sont propres. Elle confirme toutefois le risque méthodologique :
+
+~~~text
+participation aux activités
+≠ qualité de membre
+
+paiement / adhésion pratique
+≠ nécessairement agrément statutaire
+
+présence à une AG antérieure
+≠ preuve suffisante si la qualité de membre est contestable
+~~~
+
+Pour C.O.R.S.I.C.A., l'article 3 des statuts 1995 exige précisément un agrément par le conseil d'administration après présentation par plusieurs membres.
+
+Conséquence de prudence :
+
+> **Le corps électoral ne doit pas être construit par simple présomption à partir du tableur, des cotisations, du bénévolat ou de la participation à des réunions. Il faut rechercher l'acte d'admission ou un faisceau suffisamment robuste permettant d'établir qu'une admission statutaire a réellement eu lieu.**
 
 ## 5. Principe conservatoire
 
