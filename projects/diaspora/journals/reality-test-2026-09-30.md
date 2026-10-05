@@ -98,3 +98,45 @@ issue receipt: https://github.com/JeanHuguesRobert/barons-Mariani/issues/96#issu
 Le résultat reste partiel. Quatre organisations, deux projets, aucune personne. La source primaire de l'appel Suna et le prototype SQL/Tcl de 1996-1997 restent ouverts. Les pages françaises sont une projection, pas la doctrine canonique.
 
 Prochaine action reprenable : ajouter une organisation ou un projet public seulement avec une source publique en main. Ne pas refaire l'échafaudage, le repli de port, ni cette publication.
+
+## Jalon — enrichissement sourcé du graphe et 5 faces du Livre Vivant
+
+```text
+date: 2026-10-05
+state: partial
+scope: issues #96 et #109 (enrichissement sourcé du graphe, 5 faces du Livre Vivant)
+not included: personnes individuelles, modification DNS/serveur, gel d'édition
+
+records published: 59 entities, of which
+  people: 0
+  organizations: 9
+  projects: 3
+  places: 8
+  skills: 10
+  offers: 13
+  needs: 3
+  sources: 13
+  relations: 58
+countries of presence: 1 (France)
+corsican communes sourced: Ajaccio, Bastia, Corte
+contributions awaiting review: 0
+offers with open_to_help true: 3 (correction DIASPORA, accompagnement retour Vultà)
+
+queries checked:
+  query A (mobilité retour Vultà): pass, open_to_help true
+  query B (coordination Bouches-du-Rhône): pass, Fédération Marseille
+  query C (solidarité Alpes-Maritimes): pass, Anima Corsa Nice
+  query D (anti-hallucination répondant): pass, holder is not helper
+
+5 faces complétées:
+  1. Livre: manuscript/, web/book.html, annexes
+  2. Magazine: magazine/, web/magazine.html (3 numéros)
+  3. Site: index.html, directory.html, map.html, match.html, entity.html, privacy.html
+  4. Guide conversationnel: guide.html, guide.js, guide-profile.yml (8 invariants)
+  5. Collecte engageante: contribute.html (schéma diaspora.contribution.v0)
+
+validator: node scripts/validate-seed.js passed (all checks passed)
+```
+
+Le graphe intègre désormais des fonctions collectives différenciées (réseau professionnel, programme opérationnel de retour insulaire, coordination territoriale, solidarité éducative, sociabilité diasporique) tout en maintenant l'interdiction d'ingérer des profils individuels et le conservatisme d'open_to_help.
+

@@ -17,7 +17,11 @@ architecture:
   editions: projects/diaspora/editions/index.md
   web: projects/diaspora/web/
   seed: projects/diaspora/data/seed.json
+  guide_profile: projects/diaspora/guide-profile.yml
+  manuscript: projects/diaspora/manuscript/
   manuscript_corse_furtive: projects/diaspora/manuscript/01-la-corse-furtive.md
+  magazine: projects/diaspora/magazine/
+  annexes: projects/diaspora/annexes/
   annexes_corse_furtive: projects/diaspora/annexes/corse-furtive/README.md
   rule: "The living corpus, the directory projection, and a future frozen edition are distinct."
 
@@ -44,6 +48,10 @@ research_threads:
 sources:
   - id: issue-96
     path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
+    role: continuation-packet
+    required: true
+  - id: issue-109
+    path: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/109"
     role: continuation-packet
     required: true
   - id: capable-genesis

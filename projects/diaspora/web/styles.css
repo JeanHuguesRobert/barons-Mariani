@@ -170,3 +170,49 @@ pre {
   .filters { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1rem; }
   .filters .wide { grid-column: 1 / -1; }
 }
+
+.pill {
+  display: inline-block;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  padding: 0.2rem 0.6rem;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.log {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin: 1.2rem 0;
+}
+
+.msg {
+  padding: 0.8rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--line);
+  background: var(--card);
+}
+
+.msg.user {
+  border-left: 4px solid var(--accent);
+}
+
+.msg.assistant {
+  border-left: 4px solid var(--ok);
+}
+
+.msg strong {
+  display: block;
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+.msg p {
+  margin: 0;
+}
+

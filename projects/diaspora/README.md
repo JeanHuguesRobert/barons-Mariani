@@ -38,7 +38,7 @@ Dans DIASPORA, l'annuaire et le graphe jouent d'abord un rôle de **Révélateur
 
 Le projet est à la fois un livre vivant et un annuaire de capacités. Il passe de « qui est où ? » à « qui peut aider qui à faire quoi ? ». Il ne prétend pas être la première tentative. Corsica Diaspora, depuis 2004, et d'autres réseaux publics, dont communiti, existent déjà.
 
-Le nom public visé est `diaspora.acorsica.org`. Ce dépôt ne le sert pas encore.
+La projection publique de travail est servie à `https://diaspora.acorsica.org/`. Elle n'est pas une édition gelée.
 
 Entrées :
 

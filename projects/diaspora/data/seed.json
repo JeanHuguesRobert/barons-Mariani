@@ -1,7 +1,7 @@
 {
   "schema": "diaspora.seed.v0",
   "description": "Public seed for the DIASPORA phase-1 directory. Facts are limited to sources named on each record. No person records are included.",
-  "updated_at": "2026-09-30",
+  "updated_at": "2026-10-05",
   "entities": [
     {
       "id": "source-cd-website-2026-09-30",
@@ -12,7 +12,9 @@
       "publication_status": "published",
       "verification_status": "fetched",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Page d'accueil lue le 2026-09-30. Le site publie une adresse de correspondance, un email organisationnel, et un IBAN. L'IBAN n'est pas recopié dans cet annuaire."
       },
@@ -27,7 +29,9 @@
       "publication_status": "published",
       "verification_status": "fetched",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Réponse lue le 2026-09-30. statut_diffusion O. date_mise_a_jour du résultat : 2026-09-30T10:03:48. dirigeants : tableau vide dans cette réponse."
       },
@@ -42,7 +46,9 @@
       "publication_status": "published",
       "verification_status": "fetched",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "La fiche municipale publie aussi un prénom et nom, un téléphone mobile et un email personnel. Ces trois éléments ne sont pas recopiés. Le lien http://sucorsu.free.fr indiqué sur la fiche n'a pas répondu le 2026-09-30 et n'est pas présenté comme un site vivant."
       },
@@ -58,7 +64,9 @@
       "publication_status": "published",
       "verification_status": "repository-file",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Aussi projects/capable/README.md. Énonce le développement du nom C.O.R.S.I.C.A. et la création associative à Noël 1995. Ce n'est pas un extrait de statut déposé relu dans ce passage."
       },
@@ -74,7 +82,9 @@
       "publication_status": "published",
       "verification_status": "repository-file",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Le document distingue la couche associative C.O.R.S.I.C.A. (1995) et la couche documentaire Institut Mariani. Les fichiers du corpus signent souvent les deux ensemble."
       },
@@ -89,7 +99,9 @@
       "publication_status": "published",
       "verification_status": "github-issue",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Source du cadre institutionnel déclaré, du déclencheur Suna non sourcé, et de la politique de contribution de ce projet. Auto-référence assumée pour les enregistrements de ce dépôt."
       },
@@ -115,7 +127,9 @@
       "publication_status": "published",
       "verification_status": "geographic-convention",
       "provenance": {
-        "sources": ["source-cd-registry-2026-09-30"],
+        "sources": [
+          "source-cd-registry-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "La commune est attestée par le répertoire. Les coordonnées de ce lieu sont un centroïde arrondi, pas le point du siège."
       },
@@ -141,7 +155,10 @@
       "publication_status": "published",
       "verification_status": "geographic-convention",
       "provenance": {
-        "sources": ["source-corpus-institut", "source-corpus-capable"],
+        "sources": [
+          "source-corpus-institut",
+          "source-corpus-capable"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -166,7 +183,9 @@
       "publication_status": "published",
       "verification_status": "geographic-convention",
       "provenance": {
-        "sources": ["source-amicale-eysines-2026-09-30"],
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -191,7 +210,9 @@
       "publication_status": "published",
       "verification_status": "geographic-convention",
       "provenance": {
-        "sources": ["source-amicale-eysines-2026-09-30"],
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Ce lieu ne désigne pas un village d'origine."
       },
@@ -206,7 +227,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Fonction déclarée par le site de l'association. Ce n'est pas une mesure de performance."
       },
@@ -221,7 +244,9 @@
       "publication_status": "published",
       "verification_status": "municipal-statement",
       "provenance": {
-        "sources": ["source-amicale-eysines-2026-09-30"],
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -235,7 +260,9 @@
       "publication_status": "published",
       "verification_status": "corpus-statement",
       "provenance": {
-        "sources": ["source-corpus-capable"],
+        "sources": [
+          "source-corpus-capable"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Développement du nom de 1995. Pas une offre de service actuelle mesurée."
       },
@@ -250,7 +277,10 @@
       "publication_status": "published",
       "verification_status": "corpus-statement",
       "provenance": {
-        "sources": ["source-corpus-institut", "source-issue-96"],
+        "sources": [
+          "source-corpus-institut",
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -264,7 +294,9 @@
       "publication_status": "published",
       "verification_status": "this-repository",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Capacité du logiciel de ce dépôt, pas une compétence personnelle."
       },
@@ -280,7 +312,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Le site inscrit ce point dans un projet de cinq ans. Aucun engagement d'aide envers un demandeur précis n'est affirmé ici."
       },
@@ -296,7 +330,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Objectif déclaré : imaginer et développer des outils numériques. Leur livraison n'a pas été constatée dans ce passage."
       },
@@ -312,7 +348,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -327,7 +365,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Le site annonce la création d'un dispositif interactif. Ce n'est pas observé ici comme un service ouvert."
       },
@@ -343,7 +383,9 @@
       "publication_status": "published",
       "verification_status": "municipal-statement",
       "provenance": {
-        "sources": ["source-amicale-eysines-2026-09-30"],
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "La fiche dit aussi que des événements font découvrir la culture corse. Cela ne vaut pas acceptation d'une demande d'aide."
       },
@@ -359,7 +401,9 @@
       "publication_status": "published",
       "verification_status": "corpus-statement",
       "provenance": {
-        "sources": ["source-corpus-capable"],
+        "sources": [
+          "source-corpus-capable"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Finalité historique portée par le nom de 1995. Pas un guichet ouvert en 2026."
       },
@@ -375,7 +419,9 @@
       "publication_status": "published",
       "verification_status": "this-repository",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Seule offre de ce jeu dont open_to_help est true. Elle porte sur le chemin de contribution de DIASPORA, pas sur une aide personnelle du Principal."
       },
@@ -390,7 +436,9 @@
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Modélisé comme objectif que le projet de cinq ans dit vouloir développer. Ce n'est pas une demande d'aide adressée à DIASPORA, et aucune offre de ce jeu ne prétend y répondre."
       },
@@ -405,7 +453,9 @@
       "publication_status": "published",
       "verification_status": "this-repository",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30"
       },
       "updated_at": "2026-09-30"
@@ -439,7 +489,9 @@
           "note": "Commune du siège déclaré. Aucun village d'origine des membres n'est inféré."
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "language_basis": "langue de la page d'accueil observée le 2026-09-30",
       "open_to_help": "unknown",
       "contact": {
@@ -471,7 +523,10 @@
       "verification_status": "public-registry-and-website",
       "public_private": "public-source",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30", "source-cd-registry-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30",
+          "source-cd-registry-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "last_reviewed": "2026-09-30",
         "notes": "Deux adresses publiques coexistent. L'IBAN du site n'est pas recopié. Aucun dirigeant n'était diffusé dans la réponse d'API lue."
@@ -505,14 +560,18 @@
           "declared_by": "public-website"
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "open_to_help": "unknown",
       "contact": {},
       "visibility": "public",
       "publication_status": "published",
       "verification_status": "public-statement",
       "provenance": {
-        "sources": ["source-cd-website-2026-09-30"],
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "notes": "La durée de cinq ans et les partenaires sont des énoncés du site, pas une convention relue dans ce passage."
       },
@@ -548,7 +607,9 @@
           "note": "Lien corse de finalité, sans village ni commune d'origine."
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "language_basis": "langue de la fiche municipale",
       "open_to_help": "unknown",
       "contact": {
@@ -559,7 +620,9 @@
       "verification_status": "municipal-directory",
       "public_private": "public-source",
       "provenance": {
-        "sources": ["source-amicale-eysines-2026-09-30"],
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
         "observed_at": "2026-09-30",
         "last_reviewed": "2026-09-30",
         "notes": "Minimisation : pas de nom de responsable, pas de téléphone, pas d'email personnel, pas de voie."
@@ -594,7 +657,9 @@
           "declared_by": "corpus"
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "open_to_help": "unknown",
       "contact": {
         "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani",
@@ -606,7 +671,10 @@
       "verification_status": "corpus-statement",
       "public_private": "public-corpus",
       "provenance": {
-        "sources": ["source-corpus-capable", "source-issue-96"],
+        "sources": [
+          "source-corpus-capable",
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "last_reviewed": "2026-09-30",
         "notes": "Distincte de l'Institut Mariani. Aucune immatriculation courante n'a été vérifiée dans ce passage."
@@ -640,7 +708,9 @@
           "declared_by": "corpus"
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "open_to_help": "unknown",
       "contact": {
         "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/institut_mariani.md"
@@ -650,7 +720,9 @@
       "verification_status": "corpus-statement",
       "public_private": "public-corpus",
       "provenance": {
-        "sources": ["source-corpus-institut"],
+        "sources": [
+          "source-corpus-institut"
+        ],
         "observed_at": "2026-09-30",
         "last_reviewed": "2026-09-30"
       },
@@ -683,7 +755,9 @@
           "declared_by": "issue-96"
         }
       ],
-      "languages": ["fr"],
+      "languages": [
+        "fr"
+      ],
       "open_to_help": "unknown",
       "contact": {
         "public_url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
@@ -693,12 +767,758 @@
       "verification_status": "this-repository",
       "public_private": "public-corpus",
       "provenance": {
-        "sources": ["source-issue-96", "source-corpus-capable"],
+        "sources": [
+          "source-issue-96",
+          "source-corpus-capable"
+        ],
         "observed_at": "2026-09-30",
         "last_reviewed": "2026-09-30",
         "notes": "open_to_help reste unknown au niveau du projet. Seule l'offre de correction est marquée true."
       },
       "updated_at": "2026-09-30"
+    },
+    {
+      "id": "source-issue-109",
+      "type": "source",
+      "name": "GitHub issue 109, enrichissement sourcé du graphe de capacités",
+      "url": "https://github.com/JeanHuguesRobert/barons-Mariani/issues/109",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "github-issue",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Spécification de l'extension du graphe de capacités : acteurs publics, fonctions collectives, programmes de retour et validation épistémique."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-communiti-about-2026-10-04",
+      "type": "source",
+      "name": "Site public communiti, page À propos",
+      "url": "https://www.communiti.corsica/a-propos",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "fetched",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Réseau professionnel corse reliant talents, entreprises et opportunités sur l'île et dans la diaspora. Opéré depuis Ajaccio."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-communiti-vulta-2026-10-04",
+      "type": "source",
+      "name": "Site public communiti, programme Vultà",
+      "url": "https://www.communiti.corsica/vulta",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "fetched",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Dispositif d'accompagnement au retour professionnel en Corse. Instruction de candidature, qualification du profil et mise en relation directe avec employeurs corses."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-federation-corses-marseille-rna-2026-10-04",
+      "type": "source",
+      "name": "Répertoire national des associations (RNA), W133003272",
+      "url": "https://manafrance.org/association/federation-des-groupements-corses-de-marseille-et-des-bouches-du-rhone-W133003272",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Fédération des Groupements Corses de Marseille et des Bouches-du-Rhône, RNA W133003272, SIREN 397649187. Déclaration 14 mai 1959. Coordination, solidarité, culture et langue corses."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-corses-education-rna-2026-10-04",
+      "type": "source",
+      "name": "Répertoire national des associations (RNA), W133010679",
+      "url": "https://manafrance.org/association/association-des-corses-de-l-education-nationale-W133010679",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Association des Corses de l'Éducation Nationale, RNA W133010679, Marseille. Amitié, entraide, solidarité, promotion de la langue et culture corses, jeunesse."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-anima-corsa-nice-rna-2026-10-04",
+      "type": "source",
+      "name": "Répertoire national des associations (RNA), W062007254",
+      "url": "https://manafrance.org/association/anima-corsa-W062007254",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Anima Corsa, RNA W062007254, Nice. Rassemblement des Corses et amis de la Corse, convivialité, entraide, activités culturelles et sociales."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "source-anima-corsa-06-rna-2026-10-04",
+      "type": "source",
+      "name": "Répertoire national des associations (RNA), W061008755",
+      "url": "https://manafrance.org/association/anima-corsa-06-W061008755",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Anima Corsa 06, RNA W061008755, SIREN 824778468, Cannes. Lien social, économique et culturel entre la Corse, le Continent et l'étranger."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "place-ajaccio",
+      "type": "place",
+      "name": "Ajaccio",
+      "display_name": "Ajaccio",
+      "location": {
+        "kind": "corsican_origin_or_link",
+        "city": "Ajaccio",
+        "region": "Corse-du-Sud",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 41.927,
+        "lon": 8.737,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal approximatif d'Ajaccio."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "place-marseille",
+      "type": "place",
+      "name": "Marseille",
+      "display_name": "Marseille",
+      "location": {
+        "kind": "organization_location",
+        "city": "Marseille",
+        "region": "Bouches-du-Rhône",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.296,
+        "lon": 5.37,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal approximatif de Marseille."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04",
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "place-nice",
+      "type": "place",
+      "name": "Nice",
+      "display_name": "Nice",
+      "location": {
+        "kind": "organization_location",
+        "city": "Nice",
+        "region": "Alpes-Maritimes",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.703,
+        "lon": 7.266,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal approximatif de Nice."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "place-cannes",
+      "type": "place",
+      "name": "Cannes",
+      "display_name": "Cannes",
+      "location": {
+        "kind": "organization_location",
+        "city": "Cannes",
+        "region": "Alpes-Maritimes",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.551,
+        "lon": 7.017,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal approximatif de Cannes."
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "geographic-convention",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "skill-professional-networking",
+      "type": "skill",
+      "name": "Mise en relation professionnelle Corse-diaspora",
+      "statement_status": "stated-public-function",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "skill-return-to-corsica",
+      "type": "skill",
+      "name": "Accompagnement du retour professionnel en Corse",
+      "statement_status": "operational-service-path",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "skill-federation-coordination",
+      "type": "skill",
+      "name": "Fédération et coordination de groupements corses",
+      "statement_status": "stated-public-purpose",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "skill-mutual-aid-solidarity",
+      "type": "skill",
+      "name": "Entraide et solidarité au sein de réseaux corses",
+      "statement_status": "stated-public-purpose",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04",
+          "source-corses-education-rna-2026-10-04",
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "skill-language-culture",
+      "type": "skill",
+      "name": "Transmission de la culture et de la langue corses",
+      "statement_status": "stated-public-purpose",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04",
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-communiti-visibility",
+      "type": "offer",
+      "name": "Rendre professionnels, organisations et opportunités visibles et joignables",
+      "statement_status": "stated-public-function",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-vulta-accompaniment",
+      "type": "offer",
+      "name": "Accompagner un retour professionnel en Corse via Vultà",
+      "statement_status": "operational-service-path",
+      "open_to_help": "true",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Parcours opérationnel explicite : dépôt de candidature, reformulation du profil et présentation aux employeurs insulaires."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-federation-marseille-coord",
+      "type": "offer",
+      "name": "Coordonner les groupements corses des Bouches-du-Rhône",
+      "statement_status": "stated-public-purpose",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-corses-education-solidarity",
+      "type": "offer",
+      "name": "Entretenir entraide, solidarité et service de la jeunesse",
+      "statement_status": "stated-public-purpose",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-anima-corsa-nice-gathering",
+      "type": "offer",
+      "name": "Créer un espace de convivialité et d'entraide pour Corses et amis de la Corse à Nice",
+      "statement_status": "stated-public-purpose",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "offer-anima-corsa-06-gathering",
+      "type": "offer",
+      "name": "Rassembler en Corse, sur le Continent et à l'étranger autour de la vie sociale, économique et culturelle corse",
+      "statement_status": "stated-public-purpose",
+      "open_to_help": "unknown",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "need-return-to-corsica",
+      "type": "need",
+      "name": "Revenir travailler en Corse",
+      "statement_status": "public-diaspora-need",
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-statement",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "org-communiti",
+      "type": "organization",
+      "organization_kind": "platform",
+      "name": "communiti",
+      "display_name": "communiti",
+      "summary": "Réseau professionnel corse reliant talents, entreprises et opportunités sur l'île et dans la diaspora. Opéré depuis Ajaccio. Aucun profil individuel n'est importé dans cet annuaire.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Ajaccio",
+        "region": "Corse-du-Sud",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 41.927,
+        "lon": 8.737,
+        "coordinate_precision": "city-centroid-approximate",
+        "coordinate_note": "Centroïde communal d'Ajaccio."
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "operational-seat",
+          "commune": "Ajaccio",
+          "village": null,
+          "place_id": "place-ajaccio",
+          "declared_by": "public-website"
+        }
+      ],
+      "languages": [
+        "fr",
+        "co"
+      ],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://www.communiti.corsica/"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-website",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Les chiffres globaux d'utilisateurs déclarés ne sont pas repris comme métriques du présent annuaire."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "project-communiti-vulta",
+      "type": "project",
+      "name": "Programme Vultà",
+      "display_name": "Programme Vultà",
+      "summary": "Programme opéré par communiti pour accompagner les actifs et diplômés souhaitant revenir travailler en Corse. Analyse des profils et mise en relation directe avec les employeurs insulaires.",
+      "location": {
+        "kind": "project_location",
+        "city": "Ajaccio",
+        "region": "Corse-du-Sud",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 41.927,
+        "lon": 8.737,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "carrier-seat",
+          "commune": "Ajaccio",
+          "village": null,
+          "place_id": "place-ajaccio",
+          "declared_by": "public-website"
+        }
+      ],
+      "languages": [
+        "fr"
+      ],
+      "open_to_help": "true",
+      "contact": {
+        "public_url": "https://www.communiti.corsica/vulta"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-website",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04",
+        "notes": "Parcours ouvert au public pour les personnes souhaitant revenir en Corse."
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "org-federation-corses-marseille",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Fédération des Groupements Corses de Marseille et des Bouches-du-Rhône",
+      "display_name": "Fédération des Groupements Corses de Marseille",
+      "summary": "Fédération d'associations corse assurant la coordination des groupements insulaires dans les Bouches-du-Rhône, la solidarité, l'entraide et le rayonnement culturel.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Marseille",
+        "region": "Bouches-du-Rhône",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.296,
+        "lon": 5.37,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "stated-diaspora-purpose",
+          "commune": null,
+          "village": null,
+          "place_id": "place-corsica",
+          "declared_by": "rna-registry",
+          "note": "Lien corse de finalité statutaire."
+        }
+      ],
+      "languages": [
+        "fr"
+      ],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://manafrance.org/association/federation-des-groupements-corses-de-marseille-et-des-bouches-du-rhone-W133003272"
+      },
+      "registry": {
+        "source_id": "source-federation-corses-marseille-rna-2026-10-04",
+        "siren": "397649187",
+        "rna": "W133003272",
+        "date_creation": "1959-05-14",
+        "etat_administratif": "A",
+        "observed_at": "2026-10-04"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "org-corses-education-nationale",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Association des Corses de l'Éducation Nationale",
+      "display_name": "Corses de l'Éducation Nationale",
+      "summary": "Association favorisant les liens d'amitié, l'entraide, le soutien à la jeunesse et la transmission de la langue et de la culture corses.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Marseille",
+        "region": "Bouches-du-Rhône",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.296,
+        "lon": 5.37,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "stated-diaspora-purpose",
+          "commune": null,
+          "village": null,
+          "place_id": "place-corsica",
+          "declared_by": "rna-registry"
+        }
+      ],
+      "languages": [
+        "fr"
+      ],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://manafrance.org/association/association-des-corses-de-l-education-nationale-W133010679"
+      },
+      "registry": {
+        "source_id": "source-corses-education-rna-2026-10-04",
+        "rna": "W133010679",
+        "etat_administratif": "A",
+        "observed_at": "2026-10-04"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "org-anima-corsa-nice",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Anima Corsa",
+      "display_name": "Anima Corsa (Nice)",
+      "summary": "Association à Nice réunissant Corses et amis de la Corse autour d'activités culturelles, festives et d'entraide, portant le projet d'une Maison de la Corse.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Nice",
+        "region": "Alpes-Maritimes",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.703,
+        "lon": 7.266,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "stated-diaspora-purpose",
+          "commune": null,
+          "village": null,
+          "place_id": "place-corsica",
+          "declared_by": "rna-registry"
+        }
+      ],
+      "languages": [
+        "fr"
+      ],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://manafrance.org/association/anima-corsa-W062007254"
+      },
+      "registry": {
+        "source_id": "source-anima-corsa-nice-rna-2026-10-04",
+        "rna": "W062007254",
+        "etat_administratif": "A",
+        "observed_at": "2026-10-04"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
+    },
+    {
+      "id": "org-anima-corsa-06",
+      "type": "organization",
+      "organization_kind": "association",
+      "name": "Anima Corsa 06",
+      "display_name": "Anima Corsa 06 (Cannes)",
+      "summary": "Association cannoise active dans le lien social, économique et culturel unissant la Corse, le Continent et les diasporas d'outre-mer et d'Europe.",
+      "location": {
+        "kind": "organization_location",
+        "city": "Cannes",
+        "region": "Alpes-Maritimes",
+        "country": "France",
+        "country_code": "FR",
+        "lat": 43.551,
+        "lon": 7.017,
+        "coordinate_precision": "city-centroid-approximate"
+      },
+      "corsican_links": [
+        {
+          "kind": "corsican_origin_or_link",
+          "role": "stated-diaspora-purpose",
+          "commune": null,
+          "village": null,
+          "place_id": "place-corsica",
+          "declared_by": "rna-registry"
+        }
+      ],
+      "languages": [
+        "fr"
+      ],
+      "open_to_help": "unknown",
+      "contact": {
+        "public_url": "https://manafrance.org/association/anima-corsa-06-W061008755"
+      },
+      "registry": {
+        "source_id": "source-anima-corsa-06-rna-2026-10-04",
+        "siren": "824778468",
+        "rna": "W061008755",
+        "etat_administratif": "A",
+        "observed_at": "2026-10-04"
+      },
+      "visibility": "public",
+      "publication_status": "published",
+      "verification_status": "public-registry",
+      "public_private": "public-source",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04"
+      },
+      "updated_at": "2026-10-05"
     }
   ],
   "relations": [
@@ -708,7 +1528,12 @@
       "from": "org-corsica-diaspora",
       "to": "place-bastia",
       "location_kind": "organization_location",
-      "provenance": { "sources": ["source-cd-registry-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-registry-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-corsican-link",
@@ -717,49 +1542,84 @@
       "to": "place-bastia",
       "location_kind": "corsican_origin_or_link",
       "qualifier": "legal-seat-commune",
-      "provenance": { "sources": ["source-cd-registry-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-registry-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-skill",
       "type": "HAS_SKILL",
       "from": "org-corsica-diaspora",
       "to": "skill-diaspora-network",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-offer-animation",
       "type": "OFFERS",
       "from": "org-corsica-diaspora",
       "to": "offer-cd-animation",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-offer-digital",
       "type": "OFFERS",
       "from": "org-corsica-diaspora",
       "to": "offer-cd-digital",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-offer-employment",
       "type": "OFFERS",
       "from": "org-corsica-diaspora",
       "to": "offer-cd-employment",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-offer-assistance",
       "type": "OFFERS",
       "from": "org-corsica-diaspora",
       "to": "offer-cd-assistance",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-runs",
       "type": "RUNS",
       "from": "org-corsica-diaspora",
       "to": "project-cd-five-year",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-project-located",
@@ -767,14 +1627,25 @@
       "from": "project-cd-five-year",
       "to": "place-bastia",
       "location_kind": "project_location",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-cd-project-needs",
       "type": "NEEDS",
       "from": "project-cd-five-year",
       "to": "need-cd-digital-tools",
-      "provenance": { "sources": ["source-cd-website-2026-09-30"], "observed_at": "2026-09-30", "notes": "Le porteur énonce l'objectif. Il n'est pas un répondant à ce besoin." }
+      "provenance": {
+        "sources": [
+          "source-cd-website-2026-09-30"
+        ],
+        "observed_at": "2026-09-30",
+        "notes": "Le porteur énonce l'objectif. Il n'est pas un répondant à ce besoin."
+      }
     },
     {
       "id": "rel-amicale-located",
@@ -782,7 +1653,12 @@
       "from": "org-amicale-corsica",
       "to": "place-eysines",
       "location_kind": "organization_location",
-      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-amicale-corsican-link",
@@ -791,21 +1667,36 @@
       "to": "place-corsica",
       "location_kind": "corsican_origin_or_link",
       "qualifier": "stated-purpose-no-commune",
-      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-amicale-skill",
       "type": "HAS_SKILL",
       "from": "org-amicale-corsica",
       "to": "skill-local-gathering",
-      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-amicale-offer",
       "type": "OFFERS",
       "from": "org-amicale-corsica",
       "to": "offer-amicale-gathering",
-      "provenance": { "sources": ["source-amicale-eysines-2026-09-30"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-amicale-eysines-2026-09-30"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-corsica-located",
@@ -813,7 +1704,12 @@
       "from": "org-corsica-association",
       "to": "place-corte",
       "location_kind": "organization_location",
-      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-capable"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-corsica-link",
@@ -822,21 +1718,36 @@
       "to": "place-corte",
       "location_kind": "corsican_origin_or_link",
       "qualifier": "corpus-affiliation",
-      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-capable"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-corsica-skill",
       "type": "HAS_SKILL",
       "from": "org-corsica-association",
       "to": "skill-distributed-competencies",
-      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-capable"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-corsica-offer",
       "type": "OFFERS",
       "from": "org-corsica-association",
       "to": "offer-corsica-1995",
-      "provenance": { "sources": ["source-corpus-capable"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-capable"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-corsica-runs-diaspora",
@@ -844,7 +1755,9 @@
       "from": "org-corsica-association",
       "to": "project-diaspora",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Enregistre le cadre institutionnel déclaré par l'issue 96. Pas une lecture de statut."
       }
@@ -855,7 +1768,12 @@
       "from": "org-institut-mariani",
       "to": "place-corte",
       "location_kind": "organization_location",
-      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-institut"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-institut-link",
@@ -864,14 +1782,24 @@
       "to": "place-corte",
       "location_kind": "corsican_origin_or_link",
       "qualifier": "corpus-affiliation",
-      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-institut"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-institut-skill",
       "type": "HAS_SKILL",
       "from": "org-institut-mariani",
       "to": "skill-living-publication",
-      "provenance": { "sources": ["source-corpus-institut"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-corpus-institut"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-diaspora-located",
@@ -879,35 +1807,60 @@
       "from": "project-diaspora",
       "to": "place-corte",
       "location_kind": "project_location",
-      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-issue-96"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-diaspora-needs",
       "type": "NEEDS",
       "from": "project-diaspora",
       "to": "need-sourced-public-records",
-      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-issue-96"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-diaspora-offer",
       "type": "OFFERS",
       "from": "project-diaspora",
       "to": "offer-diaspora-correction",
-      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-issue-96"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-diaspora-skill-book",
       "type": "HAS_SKILL",
       "from": "project-diaspora",
       "to": "skill-living-publication",
-      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-issue-96"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-diaspora-skill-directory",
       "type": "HAS_SKILL",
       "from": "project-diaspora",
       "to": "skill-public-directory",
-      "provenance": { "sources": ["source-issue-96"], "observed_at": "2026-09-30" }
+      "provenance": {
+        "sources": [
+          "source-issue-96"
+        ],
+        "observed_at": "2026-09-30"
+      }
     },
     {
       "id": "rel-correction-addresses-need",
@@ -915,9 +1868,390 @@
       "from": "offer-diaspora-correction",
       "to": "need-sourced-public-records",
       "provenance": {
-        "sources": ["source-issue-96"],
+        "sources": [
+          "source-issue-96"
+        ],
         "observed_at": "2026-09-30",
         "notes": "Seul CAN_ADDRESS du jeu. Il relie l'offre de correction de ce projet au besoin que ce projet énonce. Il ne répond pas au projet quinquennal de Corsica Diaspora."
+      }
+    },
+    {
+      "id": "rel-communiti-located",
+      "type": "LOCATED_AT",
+      "from": "org-communiti",
+      "to": "place-ajaccio",
+      "location_kind": "organization_location",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-communiti-corsican-link",
+      "type": "CONNECTED_TO",
+      "from": "org-communiti",
+      "to": "place-ajaccio",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "operational-seat",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-communiti-skill-networking",
+      "type": "HAS_SKILL",
+      "from": "org-communiti",
+      "to": "skill-professional-networking",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-communiti-offer-visibility",
+      "type": "OFFERS",
+      "from": "org-communiti",
+      "to": "offer-communiti-visibility",
+      "provenance": {
+        "sources": [
+          "source-communiti-about-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-communiti-runs-vulta",
+      "type": "RUNS",
+      "from": "org-communiti",
+      "to": "project-communiti-vulta",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-vulta-located",
+      "type": "LOCATED_AT",
+      "from": "project-communiti-vulta",
+      "to": "place-ajaccio",
+      "location_kind": "project_location",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-vulta-corsican-link",
+      "type": "CONNECTED_TO",
+      "from": "project-communiti-vulta",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "island-return-destination",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-vulta-skill-return",
+      "type": "HAS_SKILL",
+      "from": "project-communiti-vulta",
+      "to": "skill-return-to-corsica",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-vulta-offer",
+      "type": "OFFERS",
+      "from": "project-communiti-vulta",
+      "to": "offer-vulta-accompaniment",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-vulta-addresses-return",
+      "type": "CAN_ADDRESS",
+      "from": "offer-vulta-accompaniment",
+      "to": "need-return-to-corsica",
+      "provenance": {
+        "sources": [
+          "source-communiti-vulta-2026-10-04",
+          "source-issue-109"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-fed-marseille-located",
+      "type": "LOCATED_AT",
+      "from": "org-federation-corses-marseille",
+      "to": "place-marseille",
+      "location_kind": "organization_location",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-fed-marseille-link",
+      "type": "CONNECTED_TO",
+      "from": "org-federation-corses-marseille",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "stated-diaspora-purpose",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-fed-marseille-skill-coord",
+      "type": "HAS_SKILL",
+      "from": "org-federation-corses-marseille",
+      "to": "skill-federation-coordination",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-fed-marseille-skill-solidarity",
+      "type": "HAS_SKILL",
+      "from": "org-federation-corses-marseille",
+      "to": "skill-mutual-aid-solidarity",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-fed-marseille-offer",
+      "type": "OFFERS",
+      "from": "org-federation-corses-marseille",
+      "to": "offer-federation-marseille-coord",
+      "provenance": {
+        "sources": [
+          "source-federation-corses-marseille-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-corses-edu-located",
+      "type": "LOCATED_AT",
+      "from": "org-corses-education-nationale",
+      "to": "place-marseille",
+      "location_kind": "organization_location",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-corses-edu-link",
+      "type": "CONNECTED_TO",
+      "from": "org-corses-education-nationale",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "stated-diaspora-purpose",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-corses-edu-skill-solidarity",
+      "type": "HAS_SKILL",
+      "from": "org-corses-education-nationale",
+      "to": "skill-mutual-aid-solidarity",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-corses-edu-skill-culture",
+      "type": "HAS_SKILL",
+      "from": "org-corses-education-nationale",
+      "to": "skill-language-culture",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-corses-edu-offer",
+      "type": "OFFERS",
+      "from": "org-corses-education-nationale",
+      "to": "offer-corses-education-solidarity",
+      "provenance": {
+        "sources": [
+          "source-corses-education-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-nice-located",
+      "type": "LOCATED_AT",
+      "from": "org-anima-corsa-nice",
+      "to": "place-nice",
+      "location_kind": "organization_location",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-nice-link",
+      "type": "CONNECTED_TO",
+      "from": "org-anima-corsa-nice",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "stated-diaspora-purpose",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-nice-skill-solidarity",
+      "type": "HAS_SKILL",
+      "from": "org-anima-corsa-nice",
+      "to": "skill-mutual-aid-solidarity",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-nice-skill-gathering",
+      "type": "HAS_SKILL",
+      "from": "org-anima-corsa-nice",
+      "to": "skill-local-gathering",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-nice-offer",
+      "type": "OFFERS",
+      "from": "org-anima-corsa-nice",
+      "to": "offer-anima-corsa-nice-gathering",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-nice-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-cannes-located",
+      "type": "LOCATED_AT",
+      "from": "org-anima-corsa-06",
+      "to": "place-cannes",
+      "location_kind": "organization_location",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-cannes-link",
+      "type": "CONNECTED_TO",
+      "from": "org-anima-corsa-06",
+      "to": "place-corsica",
+      "location_kind": "corsican_origin_or_link",
+      "qualifier": "stated-diaspora-purpose",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-cannes-skill-gathering",
+      "type": "HAS_SKILL",
+      "from": "org-anima-corsa-06",
+      "to": "skill-local-gathering",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-cannes-skill-culture",
+      "type": "HAS_SKILL",
+      "from": "org-anima-corsa-06",
+      "to": "skill-language-culture",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
+      }
+    },
+    {
+      "id": "rel-anima-cannes-offer",
+      "type": "OFFERS",
+      "from": "org-anima-corsa-06",
+      "to": "offer-anima-corsa-06-gathering",
+      "provenance": {
+        "sources": [
+          "source-anima-corsa-06-rna-2026-10-04"
+        ],
+        "observed_at": "2026-10-04"
       }
     }
   ]

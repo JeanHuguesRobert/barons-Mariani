@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DIASPORA — Guide public conversationnel borné</title>
+<meta name="description" content="Guide public borné explorant le corpus du Livre Vivant DIASPORA. Il répond exclusivement à partir des sources vérifiées et du graphe de capacités, sans aucune inférence arbitraire.">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-page="guide" data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="diaspora">
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="site-header">
+  <p class="mark"><a href="index.html">DIASPORA</a></p>
+  <nav aria-label="Sections">
+    <a href="index.html">Accueil</a>
+    <a href="book.html">Livre</a>
+    <a href="magazine.html">Magazine</a>
+    <a href="directory.html">Annuaire</a>
+    <a href="map.html">Carte</a>
+    <a href="match.html">Correspondance</a>
+    <a href="guide.html" aria-current="page">Guide</a>
+    <a href="contribute.html">Contribuer</a>
+    <a href="privacy.html">Confidentialité</a>
+  </nav>
+</header>
+<main id="contenu">
+  <p class="pill">Profil diaspora · Corpus borné · 8 invariants</p>
+  <h1>Guide public conversationnel</h1>
+  <p class="lede">Ce Guide interroge le profil public <strong>diaspora</strong>. Il répond exclusivement à partir des sources documentées du corpus DIASPORA, de l'annuaire de capacités et des chantiers de la Corse furtive. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et n'invente aucune identité personnelle.</strong></p>
+
+  <div class="card">
+    <p>Le Guide applique strictement les 8 invariants du profil DIASPORA :</p>
+    <ul>
+      <li><strong>Pas d'inférence d'origine</strong> : aucun patronyme ou lieu n'infère une identité corse sans source explicite ;</li>
+      <li><strong>Déclaré vs opérationnel</strong> : distinction nette entre objet statutaire déposé et service effectif ;</li>
+      <li><strong>Non-inflation d'open_to_help</strong> : détenir un besoin ou mentionner un thème ne fait pas d'une entité une aidante ;</li>
+      <li><strong>Protection absolue des données privées</strong> : zéro ingestion ni diffusion de contacts personnels ;</li>
+      <li><strong>Pas de mandat légal ou consulaire</strong> : aucun conseil juridique ou diplomatique opposable ;</li>
+      <li><strong>Rigueur épistémique sur Suna</strong> : maintien de l'état ouvert de la source primaire de l'appel ;</li>
+      <li><strong>Ancrage strict</strong> : citation systématique des sources et identifiants du graphe ;</li>
+      <li><strong>Zéro rétention</strong> : aucune conservation d'historique privé sur le serveur.</li>
+    </ul>
+  </div>
+
+  <div id="log" class="log" aria-live="polite"></div>
+
+  <form id="ask">
+    <label for="question">Votre question sur le réseau de la diaspora, les organisations ou la méthode :</label>
+    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. Quelle est la différence entre l'association Corsica Diaspora et le programme Vultà de communiti ?" required></textarea>
+    <button type="submit">Interroger le Guide</button>
+  </form>
+
+  <section class="card" aria-labelledby="draft-title" style="margin-top: 2rem;">
+    <h2 id="draft-title">Brouillon préparé localement (non envoyé)</h2>
+    <p>Le texte ci-dessous est préparé sur votre appareil. Le préparer n'envoie aucune donnée. Vous pouvez le modifier, puis le copier pour votre propre usage ou pour une soumission manuelle.</p>
+    <div class="row" style="margin-bottom: 1rem;">
+      <button type="button" class="button" id="prepare-contribution">Préparer une contribution d'entité</button>
+      <button type="button" class="button" id="prepare-correction">Préparer une correction ou objection</button>
+    </div>
+    <label for="draft-to">Destinataire suggéré</label>
+    <input id="draft-to" name="to" type="text" readonly value="">
+    <label for="draft-subject">Objet du message</label>
+    <input id="draft-subject" name="subject" type="text" value="[Observation DIASPORA] ">
+    <label for="draft-body">Corps du message</label>
+    <textarea id="draft-body" name="body" rows="10"></textarea>
+    <button type="button" class="button" id="copy-draft">Copier le brouillon dans le presse-papier</button>
+    <p id="draft-status" class="muted" role="status"></p>
+  </section>
+</main>
+<footer class="site-footer">
+  <p>Corpus vivant. Cette page n'est pas une édition gelée. <a href="book.html">Livre</a> · <a href="privacy.html">Règles de confidentialité</a></p>
+</footer>
+<script type="module" src="app.js"></script>
+<script src="guide.js"></script>
+</body>
+</html>

@@ -2,7 +2,7 @@ schema: diaspora.projection.v0
 id: web-v0
 status: working-projection
 frozen: false
-date: 2026-09-30
+date: 2026-10-05
 language: fr
 entry: projects/diaspora/web/index.html
 seed: projects/diaspora/data/seed.json
@@ -11,5 +11,5 @@ host_note: "Preferred local port. scripts/serve.js moves to the next free port w
 public_host_declared: "https://diaspora.acorsica.org"
 public_host_deployed: true
 notes:
-  - "Local static projection. Not an immutable edition."
+  - "Local static projection under 5-face living book architecture (Livre, Magazine, Site, Guide borné, Collecte). Not an immutable edition."
   - "Public HTTPS serves this projection. The release pointer is recorded in deploy/README.md."

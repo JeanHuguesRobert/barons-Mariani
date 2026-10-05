@@ -11,11 +11,13 @@ import {
 
 const NAV = [
   ["index.html", "Accueil", "home"],
+  ["book.html", "Livre", "book"],
+  ["magazine.html", "Magazine", "magazine"],
   ["directory.html", "Annuaire", "directory"],
   ["map.html", "Carte", "map"],
   ["match.html", "Correspondance", "match"],
+  ["guide.html", "Guide", "guide"],
   ["contribute.html", "Contribuer", "contribute"],
-  ["book.html", "Livre", "book"],
   ["privacy.html", "Confidentialité", "privacy"]
 ];
 
@@ -310,7 +312,7 @@ async function main() {
     initContribute();
     return;
   }
-  if (page === "book" || page === "privacy") return;
+  if (page === "book" || page === "privacy" || page === "magazine" || page === "guide") return;
   const slot = document.querySelector("[data-seed-status]");
   try {
     const seed = await loadSeed();
