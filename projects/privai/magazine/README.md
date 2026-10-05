@@ -23,6 +23,8 @@ Le Magazine accueille le delta vivant entre la doctrine et l'actualité technolo
 
 ## Articles publiés
 
+- **2026-10-05** — [**De Horizon à Robodebt : pourquoi les personnes morales augmentées exigent le Capable Test**](2026-10-05-de-horizon-a-robodebt-lepreuve-du-capable-test.md)  
+  *Retour d'expérience & contrariété.* Analyse des scandales d'automates institutionnels au Royaume-Uni et en Australie, et démonstration du Capable Test pour garantir l'égalité réelle des armes face aux personnes morales.
 - **2026-10-04** — [**L'illusion de l'électeur synthétique : pourquoi déléguer son vote à un agent détruit la souveraineté**](2026-10-04-illusion-electeur-synthetique.md)  
   *Critique doctrinale.* Analyse des propositions d'« agents électoraux automatisés » et démonstration de la capture inévitable du corps politique par les opérateurs de modèles.
 - **2026-10-04** — [**Le syndrome des Nobles Douze algorithmiques : quand les corps intermédiaires automatisés capturent la volonté générale**](2026-10-04-le-syndrome-des-nobles-douze-algorithmiques.md)  
