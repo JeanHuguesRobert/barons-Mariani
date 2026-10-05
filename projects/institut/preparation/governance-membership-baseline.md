@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
 last_modified_at: "2026-10-05"
-version: "0.7"
+version: "0.8"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -569,3 +569,57 @@ fonction utilisée en pratique
 ~~~
 
 La future Factory institutionnelle doit conserver ces relations explicitement plutôt que réduire une personne à un champ unique `role`.
+
+## 11. Stratégie de reconstruction par ensembles, pas par faux binaire
+
+À ce stade, forcer chaque personne dans `membre / non-membre` créerait une fausse précision.
+
+Le registre doit distinguer trois ensembles :
+
+~~~text
+QUALIFIED
+→ qualité et droit de vote suffisamment établis
+
+POTENTIAL
+→ trace sérieuse de relation statutaire ou historique
+→ perte de qualité non établie
+
+NOT_STATUTORY_FROM_CURRENT_EVIDENCE
+→ usager, bénéficiaire ou participant sans preuve suffisante de qualité de membre votant
+~~~
+
+Application actuelle :
+
+- Jean Hugues Noël Robert : `QUALIFIED` comme fondateur ; présidence actuelle fortement attestée ;
+- Maguy Ghionga : relation active actuelle fortement attestée, mais équivalence exacte avec la catégorie statutaire 1995 encore à consolider ;
+- Ferdinand Pancrazi et Anne Pancrazi : fondateurs historiques, donc `POTENTIAL_CURRENT` tant qu’une perte de qualité n’est pas établie ;
+- registre 2018–2019 : ensemble de contrôle historique, non transformé en corps électoral ;
+- quarantaine d’usagers du projet vélos cargos : `NOT_STATUTORY_FROM_CURRENT_EVIDENCE`.
+
+Une recherche ciblée n’a retrouvé aucune trace explicite de démission ou radiation statutaire des deux autres fondateurs. **L’absence de trace n’établit pas leur qualité actuelle** ; elle interdit seulement de les exclure silencieusement.
+
+## 12. Conséquence procédurale conservatrice
+
+Pour la préparation de l’assemblée, construire séparément :
+
+~~~text
+notification_universe
+→ toutes les personnes plausiblement concernées par l’AG
+
+qualified_voting_roll
+→ personnes dont le droit de vote est suffisamment démontré
+
+unresolved_set
+→ personnes invitées / contrôlées mais dont le vote ne doit pas être qualifié silencieusement
+~~~
+
+Le but est double :
+
+1. réduire le risque d’omettre une personne qui aurait dû être informée ;
+2. ne pas transformer l’invitation prudente d’une personne en reconnaissance automatique d’un droit de vote.
+
+Pour le quorum du premier appel, une **borne conservatrice** peut être calculée en incluant les cas non résolus susceptibles d’appartenir à l’AG. Si le quorum ne peut pas être démontré de façon robuste, l’article 17 prévoit un second appel au moins quinze jours plus tard sans minimum de présents ou représentés.
+
+Pour la majorité des deux tiers, conserver plusieurs scénarios de tally lorsque des qualités restent incertaines et rechercher une décision dont le résultat ne dépend pas de l’inclusion ou de l’exclusion d’un cas litigieux.
+
+Cette méthode ne remplace pas une validation juridique ; elle rend seulement l’incertitude **explicite, calculable et réversible**.
