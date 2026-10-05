@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.2"
+version: "0.3"
 status: "working-transcription — human review required"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -25,6 +25,15 @@ source_scan:
   scan_text_layer: false
   signed_date_visible: "1995-12-25"
   deposit_date_reported: "1995-12-26"
+  receipt_declaration_date: "1996-01-04"
+  receipt_issued_date: "1996-01-08"
+  journal_officiel_publication_date: "1996-01-24"
+prefecture_email_copy:
+  title: "C.O.R.S.I.C.A .pdf"
+  provenance: "attached to the 2018-04-03 Haute-Corse prefecture reply supplying the requested statutes"
+  sha256: "86bfe997dfe09c31621eaf5c94534119a062041703337733f4f836e74b1a76fa"
+  pages: 6
+  note: "request described them as statutes of 26 January 1996; this label is preserved as a historical trace, not substituted for the dates visible in the primary administrative records"
 alternate_scan_copy:
   title: "Status CORSICA.pdf"
   sha256: "d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611"
@@ -53,6 +62,7 @@ provenance:
   derived_from:
     - "six-page scan transmitted to the Haute-Corse association registry in May 2024 as the statutes deposited at the sous-préfecture de Corte on 1995-12-26"
     - "same-size copies retained in earlier C.O.R.S.I.C.A. banking and institutional correspondence"
+    - "prefecture email attachment supplied on 2018-04-03, SHA-256 86bfe997dfe09c31621eaf5c94534119a062041703337733f4f836e74b1a76fa"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -68,7 +78,30 @@ Les retours à la ligne ont été normalisés. La ponctuation, les capitales et 
 
 Deux copies PDF archivées ont été comparées indépendamment. Leurs empreintes SHA-256 diffèrent, mais leurs six pages rendues à 120 dpi ne présentent aucune différence de pixels détectée. Cette convergence renforce l'identité documentaire sans prétendre à une identité binaire des fichiers.
 
-La page 6 porte manuscritement : **« Corte le 25/12/95 »**. Le courrier de transmission au greffe des associations en 2024 décrit ce scan comme les statuts déposés à la sous-préfecture de Corte le **26 décembre 1995**. Le registre public consulté en 2026 donne également le 26 décembre 1995 comme date de création.
+La page 6 porte manuscritement : **« Corte le 25/12/95 »**.
+
+La chaîne administrative primaire doit conserver plusieurs dates distinctes :
+
+~~~text
+25 décembre 1995
+→ signature visible des statuts
+
+26 décembre 1995
+→ date de déclaration indiquée dans l'annonce du Journal officiel
+
+4 janvier 1996
+→ date de déclaration indiquée sur le récépissé de sous-préfecture
+
+8 janvier 1996
+→ date de délivrance du récépissé
+
+24 janvier 1996
+→ date de publication au Journal officiel
+~~~
+
+Une autre trace doit être conservée sans la substituer aux pièces primaires : le 3 avril 2018, le secrétaire a demandé à la préfecture une copie des « statuts [...] du 26 janvier 1996 » ; la préfecture a répondu en joignant le même document de six pages. Cette formulation de 2018 constitue un **libellé de recherche administratif**, pas une preuve suffisante que les statuts auraient été signés ou déposés le 26 janvier.
+
+Le détail des pièces administratives est transcrit dans `projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md`.
 
 ---
 
