@@ -5,8 +5,8 @@ description: "Analyse documentaire comparant les statuts signés en 1995, le pro
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.1"
+last_modified_at: "2026-10-05"
+version: "0.2"
 status: "working-paper — preparatory legal-documentary analysis"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -18,7 +18,8 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
-  - "projects/institut/preparation/sources/statuts-1995-transcription.md"
+  - "projects/institut/sources/statuts-corsica-1995-transcription.md"
+  - "projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
 provenance:
@@ -43,9 +44,9 @@ review:
 
 ## 1. Conclusion documentaire provisoire
 
-Au 4 octobre 2026, la **dernière version dont l'opposabilité est positivement étayée par le faisceau documentaire est celle signée le 25 décembre 1995**.
+Au 5 octobre 2026, la **dernière version dont l'adoption et la déclaration sont positivement étayées par des pièces primaires est celle signée le 25 décembre 1995**.
 
-Niveau de confiance : **élevé mais non absolu**, tant que le dossier préfectoral complet et le récépissé originel ne sont pas obtenus.
+Le récépissé de sous-préfecture et l'extrait du Journal officiel ont désormais été retrouvés et transcrits. Le niveau de confiance est donc **très élevé**, sous la seule réserve qu'une modification ultérieure valablement adoptée et déclarée puisse encore être retrouvée.
 
 Le document intitulé Statuts_2018-2019_C.O.R.S.I.C, daté du 15 août 2018, est une réécriture substantielle, mais aucune trace retrouvée ne démontre son adoption puis sa déclaration.
 
@@ -53,9 +54,16 @@ Plusieurs traces convergent au contraire vers son statut de **projet non devenu 
 
 ## 2. Faisceau chronologique
 
-### 25 décembre 1995
+### 25 décembre 1995 — 24 janvier 1996
 
 Les statuts scannés sont signés à Corte et datés du 25/12/95.
+
+Le dossier d'archives contient également :
+
+- un récépissé n° 02 de la sous-préfecture de Corte, délivré le **8 janvier 1996**, indiquant une déclaration en date du **4 janvier 1996** ;
+- l'extrait du Journal officiel du **24 janvier 1996**, annonce n° 646, indiquant comme **date de déclaration le 26 décembre 1995**.
+
+La divergence 26 décembre / 4 janvier est conservée comme divergence de source ; elle ne remet pas en cause l'identité de l'association ni l'existence de sa déclaration.
 
 Ils prévoient notamment :
 
@@ -205,12 +213,11 @@ et non comme les statuts actuellement en vigueur.
 
 La conclusion deviendrait quasi définitive si l'on récupère :
 
-- le récépissé de déclaration originel de 1995/1996 ;
-- la copie intégrale du dossier détenu par la préfecture / sous-préfecture ;
+- la copie intégrale du dossier détenu par la préfecture / sous-préfecture, au-delà du récépissé et du JO désormais retrouvés ;
 - l'historique des déclarations ultérieures ;
 - le statut RNA attribué ou non après les échanges de mai 2024 ;
 - les éventuels Cerfa/PV de modification jamais retrouvés.
 
 En attendant, la règle opérationnelle est simple :
 
-> **préparer l'AGE 2026 sur la base des statuts signés de 1995, tout en maintenant explicitement la possibilité qu'une pièce administrative ultérieure impose une correction.**
+> **préparer l'AGE 2026 sur la base des statuts signés et déclarés de 1995, tout en maintenant explicitement la possibilité qu'une modification ultérieure valablement adoptée et déclarée impose une correction.**
