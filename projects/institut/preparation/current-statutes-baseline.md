@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.4"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -23,6 +23,7 @@ related_documents:
   - "projects/institut/preparation/statutes-lineage.md"
   - "projects/institut/preparation/statutes-1995-2018-comparison.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
+  - "projects/institut/preparation/governance-membership-baseline.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
 provenance:
   origin_type: "multi-source-reconstruction"
@@ -171,4 +172,4 @@ Avant convocation de l'assemblée modificative, il faut établir :
 5. le dénominateur exact du quorum d'un quart ;
 6. qui peut valablement porter la proposition de modification.
 
-Ce registre des personnes et qualités est désormais le prochain Reality Test institutionnel.
+Ce Reality Test est désormais ouvert dans `projects/institut/preparation/governance-membership-baseline.md`. La première reconstruction confirme que le tableur historique des adhérents ne suffit pas à établir le corps électoral 2026 et que les PV 2020/2025 exigent une qualification de provenance avant tout calcul de quorum.
