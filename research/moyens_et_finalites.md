@@ -73,7 +73,7 @@ related_documents:
 x-cognitive-packet:
   candidate: true
   profile: "document-backed-capsule"
-  causal_frontier: "v0.4-draft-local-copy"
+  causal_frontier: "git:ec5bd2ac420f29ef79d492c3cb0ecc1489879beb"
   transmission_modes:
     - "markdown-file"
     - "copy-paste"
