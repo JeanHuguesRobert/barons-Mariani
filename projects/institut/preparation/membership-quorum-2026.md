@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "1.2"
+version: "1.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -506,3 +506,48 @@ Conséquence de prudence :
 ## 5. Principe conservatoire
 
 En cas d’incertitude sur une qualité de membre encore plausible, le cas doit rester explicitement à vérifier. Aucune exclusion du corps votant ne doit être déduite d’un simple silence documentaire.
+
+## 4 quater. Jurisprudence complémentaire — persistance d’une qualité anciennement établie
+
+Une seconde décision utile a été examinée :
+
+- Cour de cassation, 3e chambre civile, 8 juin 2023, n° 22-12.732.
+
+Dans le litige examiné, l'association ne disposait pas d'un registre exhaustif de ses membres. Les juges du fond s'étaient notamment appuyés sur un ancien procès-verbal ayant agréé et élu certaines personnes, et avaient retenu que leur légitimité persistait faute d'exclusion ou de démission établie entre-temps. La Cour de cassation a cassé partiellement l'arrêt pour défaut d'examen d'éléments contraires produits en appel ; elle n'a donc pas transformé cette formule en présomption irréfragable.
+
+Portée méthodologique pour C.O.R.S.I.C.A. :
+
+~~~text
+admission ancienne positivement établie
++
+aucune sortie retrouvée
+→ forte raison de maintenir le cas dans le corps plausible
+
+mais
+
+absence de sortie retrouvée
+≠ preuve définitive d'absence de sortie
+
+et
+
+tout élément contraire
+→ doit être examiné
+~~~
+
+Cette nuance est particulièrement pertinente pour les membres fondateurs : leur admission initiale ne dépend pas d'un agrément à retrouver puisqu'ils sont directement nommés comme fondateurs dans les statuts signés de 1995.
+
+~~~text
+qualité de fondateur en 1995
+→ ESTABLISHED
+
+qualité actuelle
+→ PLAUSIBLE / à vérifier activement
+
+exclusion silencieuse pour simple inactivité
+→ non justifiée par les seules archives actuelles
+~~~
+
+La vérification active doit donc demander prioritairement aux fondateurs encore joignables s'ils ont démissionné, reçu une radiation, ou considèrent disposer encore de leur qualité de membre.
+
+Source officielle :
+- https://www.legifrance.gouv.fr/juri/id/JURITEXT000047700696
