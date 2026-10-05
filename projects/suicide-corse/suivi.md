@@ -57,9 +57,15 @@ Un simple changement typographique n'impose pas un nouveau rendu PDF/EPUB. Une m
 
 Le **dépôt effectif** changera le régime : le n°4 devra alors photographier exactement la requête et le bordereau réellement déposés, leur mode de transmission et toute preuve ou référence d'enregistrement disponible, avant décision explicite de gel.
 
+## 5 octobre 2026 — consolidation pré-dépôt v0.6
+
+Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.6.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.6 distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
+
+Le pointeur de la projection n°4 suit cette version. Cette mise à jour de la vue ne recopie pas la requête et ne modifie pas le numéro 3 gelé.
+
 ## 4 octobre 2026 — version en préparation
 
-Une projection remplaçable est ouverte : `projects/suicide-corse/projections/book-n4-preparation.yml`. Elle rend quatre chapitres de magazine. Elle n'est pas gelée. Le contrat de travail du numéro 4 reste `render_ready: false`, et son sommaire définitif reste vide. Le numéro 3 gelé n'est pas recomposé.
+Une projection remplaçable est ouverte : `projects/suicide-corse/projections/book-n4-preparation.yml`. Elle rend quatre chapitres de magazine. Le contrat porte `render_ready: true` pour permettre ce rendu de préparation ; cela ne vaut ni sommaire définitif ni gel éditorial. Le numéro 3 gelé n'est pas recomposé.
 
 Le rendu est public : [préparation du numéro 4](https://suicidecorse.baronsmariani.org/editions/2026-10-n4-preparation/index.html). Source `405b2233fc0ee3fe63b3cddacaa9dbe1419ee1e7`. Release servie `2026-10-04-n4-preparation-de4f9b7`. Le PDF gelé du numéro 3 pèse toujours 907240 octets.
 
@@ -101,9 +107,9 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 ## Brouillon de requête — version courante, non déposée
 
-Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.5.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.5.md).
+Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.6.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md).
 
-Son en-tête porte : `working-draft — adversarial-review candidate — not filed`. La v0.5 réconcilie notamment le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**). Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
+Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.6 part de la v0.5, réconcilie le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**), puis sépare le projet de bordereau de l'inventaire analytique. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
 
 Le dépôt doit intervenir, s'il est décidé, avant le mercredi 7 octobre 2026 à 18 h. Jusqu'à une trace effective de dépôt, le contenu demeure modifiable et cette page conserve explicitement le statut **non déposé**.
 
