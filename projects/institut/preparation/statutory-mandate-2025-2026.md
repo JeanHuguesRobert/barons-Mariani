@@ -1,12 +1,12 @@
 ---
 title: "C.O.R.S.I.C.A. — suivi du mandat statutaire 2025–2026"
-subtitle: "État documentaire au 4 octobre 2026"
-description: "Registre préparatoire public des traces relatives à la refonte statutaire."
+subtitle: "Du mandat reconstruit de 2025 à la préparation de l'assemblée 2026"
+description: "Registre consolidé du mandat de refonte statutaire et de son état d'exécution."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.3"
+last_modified_at: "2026-10-05"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -17,6 +17,12 @@ document_function: "statutory mandate follow-up"
 visibility: "public"
 lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
+related_documents:
+  - "projects/institut/preparation/current-statutes-baseline.md"
+  - "projects/institut/preparation/statutes-lineage.md"
+  - "projects/institut/preparation/ag-age-2025-2026.md"
+  - "projects/institut/sources/statuts-corsica-1995-transcription.md"
+  - "projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md"
 provenance:
   origin_type: "multi-source-reconstruction"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -29,135 +35,104 @@ review:
 
 # Suivi du mandat statutaire 2025–2026
 
-## 0 bis. Statuts de référence désormais retrouvés
+## 1. Baseline
 
-Le scan signé des statuts originaires a été transcrit dans :
+Les statuts fondateurs de 1995 sont désormais établis par :
 
-- `projects/institut/sources/statuts-corsica-1995-transcription.md`.
+- le scan signé du 25 décembre 1995 ;
+- le récépissé de sous-préfecture du 8 janvier 1996 ;
+- la publication au Journal officiel du 24 janvier 1996.
 
-La chaîne documentaire complète est analysée dans :
+Aucune modification postérieure adoptée puis déclarée n'a été retrouvée.
 
-- `projects/institut/preparation/statutes-lineage.md`.
+## 2. Mandat 2025
 
-Le faisceau actuel est fort en faveur des statuts signés le **25 décembre 1995** comme dernière version effectivement utilisée dans les démarches institutionnelles jusqu'en 2024 :
+Une AG C.O.R.S.I.C.A. était programmée le 28 juin 2025 à Corte.
 
-- copie provenant directement de la préfecture en 2018 ;
-- projet de refonte 2018 encore présenté comme modification « prochaine » en décembre 2018 ;
-- scan 1995 encore transmis comme statuts en 2021 ;
-- banque demandant en 2023 de confirmer que les statuts 25/12/1995 sont les derniers ;
-- même scan fourni au greffe en 2024 ;
-- aucune adoption / déclaration ultérieure retrouvée.
+Le PV rétrospectif créé le 27 avril 2026 attribue à cette AG :
 
-Le statut prudent devient :
+- l'approbation des rapports moral et financier ;
+- la poursuite des projets associatifs ;
+- le principe d'une simplification du bureau autour d'un Président et d'un Trésorier ;
+- le constat qu'une modification des statuts est nécessaire ;
+- un mandat au Président pour préparer et soumettre cette modification.
 
-~~~text
-statuts 1995
-→ STRONG CANDIDATE FOR CURRENT APPLICABLE TEXT
-
-projet 2018
-→ PREPARATORY / NOT ADOPTED IN EVIDENCE
-
-refonte 2025–2026
-→ PREPARATORY / NOT EFFECTIVE
-~~~
-
-Tant qu'une pièce contraire n'est pas retrouvée, la préparation de l'AGE doit donc appliquer conservatoirement les contraintes de l'article 17 des statuts 1995.
-
-## État synthétique
-
-- AG du 28 juin 2025 : programmée par Agenda/Gmail ; occurrence fortement reconstruite.
-- PV AG 2025 : document rétrospectif créé le 27 avril 2026.
-- Email du 27 avril 2026 : PV dit rédigé « de mémoire », soumis aux participants pour correction avant signatures et envoi à Qonto.
-- Email du 13 juin 2026 à la sous-préfecture : refonte des statuts encore décrite comme « en cours ».
-- Aucune nouvelle version adoptée des statuts ni récépissé de modification n’a été retrouvée lors de cette recherche.
-- Le registre administratif public consulté fin septembre 2026 indique encore l'adresse route de Castirla / Minesteggio, tandis que le Corpus utilise 1 cours Paoli comme adresse publique d’usage. Les statuts 1995 ne fixent cependant le siège qu'à « Corte, Corse » : le changement d'adresse à l'intérieur de Corte ne doit donc pas être assimilé automatiquement à une modification statutaire.
-
-## Qualification
+Qualification :
 
 ~~~text
-mandat de préparation 2025
-→ RECONSTRUCTED
-
-travaux préparatoires 2026
+AG programmée
 → ESTABLISHED
 
-nouveaux statuts adoptés
-→ NOT FOUND
+occurrence de l'AG
+→ RECONSTRUCTED, soutien fort
 
-déclaration / récépissé
-→ NOT FOUND
+mandat de refonte
+→ RECONSTRUCTED
 
-mise à jour du siège dans le registre public
-→ NOT OBSERVED
+nouvelle architecture statutaire effective
+→ NON
 ~~~
 
-## Conséquence
+## 3. Reprise en avril 2026
 
-La future AGE doit reprendre ce fil comme l’achèvement documenté d’un chantier antérieur : vérifier les statuts actuellement applicables, préparer la version proposée, soumettre, décider, accomplir les formalités nécessaires puis vérifier leur effet public.
+Le 27 avril 2026, le PV est rédigé « de mémoire », envoyé aux personnes indiquées présentes pour signaler les oublis significatifs, avec intention de l'imprimer, le signer, le scanner puis l'utiliser pour une démarche bancaire.
 
-## Pièces encore à rechercher
+Aucune réponse corrective, copie signée ou preuve d'achèvement de cette séquence n'a été retrouvée dans le passage ciblé.
 
-1. statuts actuellement applicables ;
-2. dernière version déclarée ;
-3. éventuel récépissé 2024–2026 ;
-4. éventuel scan signé du PV 2025 ;
-5. éventuels échanges Qonto confirmant l’acceptation du PV ;
-6. liste des dirigeants déclarés ;
-7. toute déclaration de changement de siège ;
-8. réponse éventuelle de la sous-préfecture sur la refonte.
+## 4. État en juin 2026
 
-## 9. Référentiel statutaire retrouvé
+Le 13 juin 2026, un courrier adressé à la sous-préfecture indique encore qu'un « travail parallèle de refonte des statuts de l'association » est en cours.
 
-La recherche a retrouvé les statuts originaux signés à Corte le 25 décembre 1995, ainsi que le récépissé et la publication administrative de janvier 1996.
+Le mandat n'est donc pas éteint par une réforme déjà devenue effective.
 
-Elle a également retrouvé une refonte de travail de 2018, mais aucune preuve de son adoption puis de sa déclaration.
+## 5. État au 5 octobre 2026
 
-Les dossiers bancaires 2022–2023 continuent d’utiliser les statuts de 1995 et demandent explicitement confirmation qu’ils sont les derniers en date. La procédure RNA 2024 repart elle aussi des statuts de 1995 et demande PV + Cerfa modificatif.
+~~~yaml
+baseline_1995:
+  epistemic_status: ESTABLISHED
+  institutional_status: ADOPTED_AND_DECLARED
+  effect_status: PRESUMED_CURRENT_PENDING_CONTRARY_EVIDENCE
 
-Le référentiel détaillé est désormais :
+draft_2018:
+  epistemic_status: ESTABLISHED
+  institutional_status: PREPARATORY
+  effect_status: NOT_ESTABLISHED
 
-- `projects/institut/preparation/current-statutes-baseline.md`.
+mandate_2025:
+  epistemic_status: RECONSTRUCTED
+  institutional_status: ADOPTED_AS_REPORTED_IN_RETROSPECTIVE_MINUTES
+  effect_status: PARTIAL_PREPARATION_ONLY
 
-État prudent :
+reform_2026:
+  epistemic_status: ESTABLISHED_AS_WORK
+  institutional_status: PREPARATORY
+  effect_status: NOT_EFFECTIVE
+~~~
+
+## 6. Adresse
+
+Le texte statutaire 1995 fixe le siège à « Corte, Corse ».
+
+Les pièces administratives historiques donnent Villa Menesteggio / route de Castirla.
+
+Le Corpus utilise aujourd'hui 1 cours Paoli comme adresse publique de travail.
+
+Le passage d'une adresse cortenaise à une autre ne doit pas être qualifié automatiquement de modification statutaire ; il faut toutefois traiter correctement la déclaration administrative de l'adresse effective.
+
+## 7. Ce que l'assemblée future doit accomplir
 
 ~~~text
-statuts 1995
-→ dernière version dont dépôt/publicité sont directement établis
-
-draft 2018
-→ document réel, adoption/effectivité non établies
-
-réforme 2025–2026
-→ PREPARATORY
-
-confirmation finale du greffe
-→ encore nécessaire
+baseline établie
+→ déterminer membres / votants / CA actuels
+→ produire proposition de nouveaux statuts
+→ inscrire à l'ordre du jour
+→ convoquer dans les délais
+→ délibérer
+→ adopter / amender / rejeter
+→ signer le texte adopté
+→ déclarer les modifications
+→ obtenir récépissé
+→ vérifier l'état public
 ~~~
 
-
-## 9. Statuts actuellement prouvés
-
-Le scan préfectoral historique a désormais été transcrit manuellement dans `projects/institut/preparation/statutes-1995-transcription.md`.
-
-L’analyse comparative est tenue dans `projects/institut/preparation/statutes-applicability-1995-2026.md`.
-
-État de travail :
-
-~~~text
-texte signé en décembre 1995
-→ dernière version dont le dépôt administratif est directement documenté
-
-projet Statuts_2018-2019
-→ rédaction ESTABLISHED
-→ adoption NOT FOUND
-→ déclaration NOT FOUND
-
-refonte 2025–2026
-→ PREPARATORY
-~~~
-
-La correspondance du 9 décembre 2018 indique encore que les statuts « feront l’objet d’une modification prochaine », alors que le projet 2018 existait déjà. Le même scan historique est ensuite transmis comme statuts en 2021, utilisé pour la banque en 2022–2023, puis adressé au greffe en mai 2024 comme statuts déposés.
-
-Conséquence prudente : préparer l’AGE selon les exigences de la version 1995 tant qu’une modification ultérieure régulièrement adoptée et déclarée n’est pas établie.
-
-Cela implique notamment, pour la modification statutaire : ordre du jour adressé au moins quinze jours à l’avance ; quorum initial d’un quart des membres en exercice ; nouvelle convocation possible après quinze jours si le quorum manque ; majorité des deux tiers des membres présents ou représentés.
+Le premier verrou n'est donc plus le texte historique : c'est **la composition actuelle de l'AG et du conseil d'administration**.
