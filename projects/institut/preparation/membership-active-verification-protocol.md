@@ -19,7 +19,7 @@ lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "projects/institut/preparation/membership-quorum-2026.md"
-  - "projects/institut/preparation/governance-membership-register.md"
+  - "projects/institut/preparation/governance-membership-baseline.md"
   - "projects/institut/preparation/ag-age-2026-readiness.md"
   - "projects/institut/sources/statuts-corsica-1995-transcription.md"
 provenance:
