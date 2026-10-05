@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-04"
-version: "0.1"
+version: "0.2"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -19,6 +19,7 @@ lifecycle_state: "working"
 update_policy: "UP-DEFAULT-REVIEWED"
 related_documents:
   - "projects/institut/preparation/janus-master.md"
+  - "projects/institut/preparation/history-corsica-master.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
   - "projects/institut/preparation/resources-2025-2026.md"
   - "research/livre_vivant.md"
@@ -76,6 +77,18 @@ RECONSTRUIRE         ÉTABLIR                   EXPLORER
                         │
                    nouvel état réel
 ~~~
+
+## 2 bis. Priorité éditoriale
+
+Le **fil principal du n°1 est l'histoire de C.O.R.S.I.C.A.** Le dossier AG/AGE, la refonte statutaire et les travaux préparatoires restent importants, mais ils doivent apparaître comme le présent d'une histoire longue et non comme l'objet principal du Livre.
+
+Le socle historique de référence est :
+
+- `projects/institut/preparation/history-corsica-master.md`.
+
+Question directrice :
+
+> **Comment une association créée à Corte en 1995 pour relier la Corse, Internet et des compétences autonomes s'est-elle transformée, par couches successives, en une infrastructure documentaire et R&D capable de produire aujourd'hui des outils, des recherches et des Livres Vivants ?**
 
 ## 3. Sommaire candidat
 
