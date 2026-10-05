@@ -70,9 +70,22 @@ Elle cristallise quatre distinctions devenues importantes dans la préparation d
 
 Le point éditorial pour le n°4 est l'**effectivité dans le temps** : une réparation tardive peut juridiquement corriger l'élection sans restaurer toutes les occasions politiques déjà perdues. La note refuse néanmoins de transformer cette irréversibilité en axiome « aucun remède n'existe ».
 
-## 5 octobre 2026 — consolidation pré-dépôt v0.6
+## 5 octobre 2026 — framing public, A Voce et « acqua in bocca »
 
-Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.6.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.6 distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
+La note d'influence passe en v0.4 et devient une source explicite de la requête v0.7. Son framing public privilégie les ordres de grandeur : **22–29 %** du collège au nord selon les scénarios, contre **33 %** effectivement observés au sud le même jour.
+
+Deux éléments sont ajoutés sans en faire des prédictions :
+
+- la candidature Robert / Vernerey de 2026 bénéficiait d'un soutien public identifié dans le cadre d'**A Voce di a Natura Corsa** ; elle ne peut donc être réduite mécaniquement aux huit voix obtenues dans un autre département en 2020 ;
+- le résultat Battini rappelle que soutien visible et vote secret ne se confondent pas : une base institutionnelle directement identifiable d'environ cinq grands électeurs a coexisté avec **88 voix** au scrutin.
+
+La formule **« acqua in bocca »** est conservée comme image méthodologique, non comme règle sociologique générale.
+
+La publication Facebook publique du 5 octobre utilisant la photographie du bulletin « BARON MARIANI » est tracée dans `research/senatoriales-2026/investigation/sources/facebook-publication-bulletin-baron-mariani-2026-10-05.md`. Son texte final reste modifiable sur Facebook et n'est pas prétendu archivé mot pour mot dans cette passe.
+
+## 5 octobre 2026 — consolidation pré-dépôt v0.7
+
+Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.7 renforce le grief d'influence par le framing 22–29 % / 33 %, le soutien A Voce et l'écart entre base visible et vote réel ; elle distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
 
 Le pointeur de la projection n°4 suit cette version. Cette mise à jour de la vue ne recopie pas la requête et ne modifie pas le numéro 3 gelé.
 
@@ -120,7 +133,7 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 ## Brouillon de requête — version courante, non déposée
 
-Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.6.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.6.md).
+Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md).
 
 Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.6 part de la v0.5, réconcilie le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**), puis sépare le projet de bordereau de l'inventaire analytique. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
 
