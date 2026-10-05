@@ -10,8 +10,8 @@ description: >
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-last_modified_at: "2026-10-04"
-version: "0.3-draft"
+last_modified_at: "2026-10-05"
+version: "0.4-draft"
 status: "working-paper"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/moyens_et_finalites.md"
 license: "CC BY-SA 4.0"
@@ -53,11 +53,13 @@ review:
   reviewed_by: []
 review_lineage:
   - "2026-09-30 — internal adverse pass by GPT-5.6 Sol; correlated; does not clear review.status"
-  - "2026-10-04 — external adverse review by Claude Sonnet 5.5; decorrelation assessed as medium; findings pending human arbitration and v0.3 integration"
+  - "2026-10-04 — external adverse review by Claude Sonnet 5.5; decorrelation assessed as medium; findings assimilated provisionally in v0.3"
+  - "2026-10-05 — external adverse review by Grok 4.7; high decorrelation on target text, medium-low on author doctrine; first pass frozen before cross-review"
 version_history:
   - "v0.1-draft (2026-09-30) — première formalisation ; trois cas électoraux, chaîne capacitaire, hypothèses falsifiables, revue adverse interne et contrat de revue externe."
   - "v0.2-draft (2026-10-04) — réévaluation contre le Corpus ; distinction Logical Packet / Packet Capsule / document / transport, causal frontier, Review Packet dérivé, Trace Treatment Packet et cycle de vie."
   - "v0.3-draft (2026-10-04) — assimilation préparatoire de la revue adverse Claude : correction des incohérences internes, allègement de l'enveloppe Packet, rétention des revues matérielles, symétrisation des traces, pré-enregistrement de H4, et séparation plus nette entre papier de fond et méthode."
+  - "v0.4-draft (2026-10-05) — assimilation préparatoire des revues Claude + Grok : H1 requalifiée en critère normatif conditionnel ; article 3 distingué de l'article 27 ; H3 scindée agrégée/distributionnelle ; H4 reformulée en voies alternatives hétérogènes ; finalités pluralisées et sourcées ; ajout d'un cas adverse ; H5/H6 ramenées à des heuristiques tant qu'aucun cas discriminant n'est établi."
 related_documents:
   - "research/autonomia/amendement_effectivite_article_72-5.md"
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
@@ -71,11 +73,11 @@ related_documents:
 x-cognitive-packet:
   candidate: true
   profile: "document-backed-capsule"
-  causal_frontier: "git:22d557ddc94ef83780daf3de72ef5bde1c399358"
+  causal_frontier: "v0.4-draft-local-copy"
   transmission_modes:
     - "markdown-file"
     - "copy-paste"
-  current_phase: "external-review"
+  current_phase: "post-grok-integration"
 ---
 
 # Moyens et finalités
@@ -153,45 +155,40 @@ Elles ne peuvent agir autrement.
 Le problème commence lorsqu'un moyen devient suffisamment autonome pour que sa conservation prenne le pas sur l'examen de ses effets.
 
 
-# 1 bis. Finalité et incarnation institutionnelle
+# 1 bis. Finalités explicitées, pluralité et révision
 
-Le Corpus distingue désormais explicitement l'identité logique d'un Cognitive Packet de ses incarnations documentaires ou matérielles.
+Le présent document ne suppose plus une finalité unique `F`.
 
-Cette distinction fournit une analogie utile pour les institutions :
-
-```text
-finalité institutionnelle
-≠ incarnation institutionnelle choisie pour la servir
-```
-
-Si une finalité `F` est suffisamment explicitée et juridiquement ou politiquement établie à un instant donné, cela ne rend pas intangible le moyen historique `M1` qui l'incarne. La finalité elle-même peut évoluer par ses procédures propres ; le document ne la suppose donc ni unique ni immuable.
+Un même moyen institutionnel peut poursuivre plusieurs finalités simultanées, issues de sources différentes :
 
 ```text
-F
-→ M1
-→ effets E1
+texte positif
+jurisprudence
+travaux préparatoires
+justification institutionnelle explicite
+reconstruction historique ou doctrinale
 ```
 
-Si le Réel montre que `E1` protège insuffisamment `F`, ou impose des coûts capacitaires devenus évitables, la question devient :
+L'analyse doit donc commencer par une famille de finalités :
 
 ```text
-existe-t-il M2, M3, ... tels que
-E(Mi) serve mieux F
-avec un coût capacitaire moindre ?
+F = {F1, F2, ..., Fn}
 ```
 
-Le principe est donc :
+et préciser, pour chacune :
 
-> **stabilité relative et explicitée de la finalité, révisabilité de son incarnation institutionnelle.**
+- sa source ;
+- son niveau d'autorité ;
+- l'acteur ou l'institution qui la formule ou la hiérarchise ;
+- les tensions éventuelles avec les autres finalités.
 
-Cette distinction interdit deux erreurs symétriques :
+Le moyen `M` n'est pas rendu intangible par le seul fait qu'il sert une finalité légitime. Inversement, l'échec ou le coût d'un moyen ne suffit pas à invalider la finalité qu'il prétend servir.
 
-- conserver un moyen parce qu'il est historiquement associé à une finalité légitime ;
-- abandonner une finalité parce que son incarnation actuelle produit des effets indésirables.
+Hypothèse méthodologique, et non principe démontré :
 
-Elle rejoint directement la Seconde Méthode : garder l'intention explicite, rendre les moyens révisables par confrontation au Réel.
+> **les moyens doivent rester révisables lorsque le Réel montre qu'une autre configuration protège mieux l'ensemble des finalités pertinentes, sous réserve des procédures qui permettent également de réviser ces finalités elles-mêmes.**
 
-Cette analogie est méthodologique. Elle ne constitue pas une prémisse de H1–H6 et ne démontre rien, à elle seule, sur les institutions étudiées.
+Cette formulation ne dérive pas d'une analogie avec les Cognitive Packets et ne constitue pas une prémisse de H1–H6.
 
 # 2. Principe d'effectivité
 
@@ -327,26 +324,26 @@ Trois concepts doivent être séparés :
 ```text
 liberté de décider
 ≠
-secret de la décision
+secret du suffrage
 ≠
-absence d'imputabilité
+imputabilité politique
 ```
 
-L'interdiction du mandat impératif protège la liberté du représentant.
+En droit positif français, l'article 3 de la Constitution dispose que le suffrage, direct ou indirect, est toujours universel, égal et secret. L'article 27, qui prohibe le mandat impératif et rend personnel le vote des membres du Parlement, porte sur les parlementaires et ne doit pas être transféré par analogie aux grands électeurs.
 
-Elle ne démontre pas, à elle seule, que son comportement doit rester inconnaissable.
+Ainsi, les votes publics des parlementaires montrent seulement que liberté de décision et publicité peuvent coexister pour certains actes parlementaires. Ils ne démontrent pas qu'un suffrage indirect pourrait être rendu publiquement imputable sans toucher au principe constitutionnel de secret.
 
-Les votes publics des parlementaires suffisent à montrer que :
+Le secret possède par ailleurs une fonction instrumentale substantielle : rendre impossible ou difficile la preuve de l'exécution d'une consigne, d'une menace ou d'un achat de vote.
 
-```text
-liberté de décision
-+
-publicité
-```
+Le problème analytique devient donc plus étroit :
 
-peuvent juridiquement coexister.
+> **quelles formes d'imputabilité de rôle, de participation, de mandat ou d'agrégat existent déjà autour du bulletin secret, et reste-t-il un déficit d'imputabilité qui puisse être réduit sans rendre le choix individuel prouvable en pratique ?**
 
-Inversement, le secret peut remplir une fonction supplémentaire : empêcher qu'un tiers puisse contrôler matériellement l'exécution d'une consigne, d'une menace ou d'une transaction.
+Sources primaires vérifiées lors de la préparation de la v0.4 :
+
+- Constitution, article 3 : https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240995/
+- Constitution, article 27 : https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527492/
+- Code électoral, article L.318 : https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039278633/
 
 # 5. Cas I — Empêchement allégué de la candidature sénatoriale
 
@@ -391,26 +388,30 @@ Certaines formalités doivent avoir un effet éliminatoire.
 
 Une élection ne peut rester perpétuellement ouverte à régularisation.
 
-## 5.3 Hypothèse falsifiable H1
+## 5.3 Critère normatif conditionnel H1
 
-> **H1 — Une procédure de candidature entre en défaut d'effectivité lorsqu'elle produit l'exclusion définitive d'une candidature pour une irrégularité qui ne protège aucune exigence substantielle non satisfaite autrement, alors qu'une régularisation restait matériellement possible dans le temps utile sans compromettre l'égalité ni la sécurité du scrutin.**
+H1 n'est plus présenté comme une hypothèse empirique falsifiable.
 
-H1 serait renforcée si l'on établit notamment que :
+> **H1 — Critère d'effectivité procédurale : lorsqu'une irrégularité est préalablement qualifiée de non substantielle, qu'elle reste régularisable dans le temps utile et que cette régularisation ne compromet ni l'égalité ni la sécurité du scrutin, une exclusion définitive exige une justification supplémentaire par rapport à la finalité protégée par la formalité.**
 
-- l'identité n'était pas incertaine ;
-- la volonté de candidater ne l'était pas davantage ;
-- une correction immédiatement disponible aurait rempli la fonction de la formalité ;
-- aucun candidat concurrent n'aurait été désavantagé ;
-- le temps disponible permettait cette correction.
+Les prédicats suivants doivent donc être établis séparément, et ne peuvent pas être supposés dans la conclusion :
 
-H1 serait affaiblie ou réfutée si la condition litigieuse était :
+- caractère substantiel ou non de la condition ;
+- forme légalement exigée ;
+- possibilité juridique et matérielle de régularisation ;
+- moment de fermeture de la fenêtre utile ;
+- effet d'une régularisation sur l'égalité entre candidats ;
+- effet sur la sécurité et la stabilité du scrutin.
 
-- substantielle ;
-- légalement impérative sous sa forme précise ;
-- impossible à régulariser à ce stade ;
-- ou régularisable seulement au prix d'une inégalité significative.
+H1 est donc une **règle d'analyse normative conditionnelle**, proche d'un raisonnement de nécessité/proportionnalité. Elle ne prouve rien par elle-même sur le dossier sénatorial de 2026.
 
-La conclusion éventuelle serait alors une **défaillance d'effectivité procédurale**, et non automatiquement une qualification contentieuse déterminée.
+### Cas adverse nécessaire
+
+La même grille doit pouvoir conclure contre l'intérêt de l'auteur.
+
+Exemple : si une formalité fermée dans le temps est nécessaire pour établir l'identité, le consentement, l'éligibilité ou l'égalité de traitement, et qu'une régularisation tardive créerait une possibilité dont les autres candidats n'ont pas disposé, l'effet éliminatoire peut être fonctionnellement justifié même lorsque son coût individuel est maximal.
+
+Le papier ne peut monter en généralité que s'il sait expliquer ce cas aussi bien que le cas de régularisation.
 
 # 6. Cas II — Vote obligatoire et secret du grand électeur
 
@@ -484,21 +485,26 @@ vérification démocratique
 
 puisqu'il empêche les deux.
 
-## 6.4 Hypothèse falsifiable H2
+## 6.4 Question ouverte H2 — imputabilité compatible avec le secret constitutionnel
 
-> **H2 — Le secret du bulletin protège une autonomie nécessaire, mais il est possible qu'une partie de l'imputabilité politique perdue puisse être restaurée sans rendre le bulletin individuel vérifiable.**
+> **H2 — Une partie de l'imputabilité politique peut éventuellement être organisée autour du suffrage sénatorial sans rendre le bulletin individuel prouvable.**
 
-La question n'est donc pas prioritairement :
+H2 reste **load-bearing et non opérationnalisée**.
 
-> faut-il rendre le vote public ?
+Avant d'imaginer un mécanisme nouveau, il faut inventorier ce qui existe déjà :
 
-mais :
+- obligation et émargement de la participation ;
+- identité et qualité publiques d'une grande partie des membres du collège ;
+- appartenance ou proximité politique connue dans certains cas ;
+- résultats agrégés ;
+- scrutin de liste lorsque le régime applicable le prévoit ;
+- engagements politiques volontaires formulés avant le vote.
 
-> **quelle imputabilité peut être construite autour du bulletin sans casser le secret du bulletin ?**
+La question résiduelle devient :
 
-H2 serait renforcée par l'identification de mécanismes augmentant l'observabilité sans permettre de prouver individuellement le vote.
+> **quelle information politiquement utile manque encore une fois ces mécanismes pris en compte, et peut-elle être rendue observable sans constituer directement ou pratiquement une preuve du bulletin individuel ?**
 
-Elle serait affaiblie si ces mécanismes recréaient en pratique la possibilité d'une coercition équivalente.
+H2 doit être abandonnée comme piste de réforme si tout signal suffisamment corrélé au choix individuel recrée, dans un collège de petite taille, la contrôlabilité que le secret constitutionnel cherche précisément à empêcher.
 
 # 7. Cas III — Présentations à l'élection présidentielle
 
@@ -571,17 +577,35 @@ présentation
 
 Le mécanisme réel doit être mesuré et non présumé.
 
-## 7.4 Hypothèse falsifiable H3
+## 7.4 H3 — distinguer effet agrégé et effet distributionnel
 
-> **H3 — La publicité intégrale des présentations ajoute éventuellement au filtre institutionnel recherché un filtre fondé sur le coût politique ou réputationnel assumé par le présentateur.**
+La version initiale de H3 mélangeait deux propositions.
 
-La meilleure observation en faveur de H3 serait, par exemple :
+### H3-A — effet agrégé
 
-> « J'estime que cette candidature devrait pouvoir être présentée aux électeurs mais je ne la présenterai pas parce que mon nom sera publié et que cet acte sera interprété comme un soutien. »
+> **La publicité intégrale réduirait sensiblement le volume total des présentations ou le nombre de candidats effectivement qualifiés.**
 
-Une éventuelle tentative de candidature présidentielle issue de **Capable**, si elle devait être engagée, pourrait fournir un Reality Test documenté de H3.
+Cette version est **affaiblie** par les observations publiques disponibles après la réforme de 2016. La revue Grok relève notamment la décision du Conseil constitutionnel du 20 juillet 2017, qui n'a pas constaté de conséquence négative significative sur le nombre total de présentations, ainsi que la stabilité approximative du nombre de candidats qualifiés entre plusieurs scrutins.
 
-Elle ne constituerait qu'un cas d'étude situé et ne permettrait pas, seule, de généraliser à l'ensemble du système français.
+H3-A ne doit donc pas être utilisée comme prémisse sans nouvelles données contraires.
+
+### H3-D — effet distributionnel
+
+> **La publicité peut modifier qui accepte de présenter qui, en imposant à certains présentateurs ou certaines candidatures un coût politique ou réputationnel asymétrique, même si les totaux agrégés restent stables.**
+
+Cette version demeure ouverte.
+
+Une observation favorable serait une déclaration datée et vérifiable d'un présentateur habilité qui distingue explicitement :
+
+```text
+je considère que la candidature devrait pouvoir accéder au scrutin
+mais
+je refuse de la présenter parce que la publicité de mon nom serait interprétée comme un soutien
+```
+
+Cette déclaration resterait une trace de motif déclaré, non une preuve causale suffisante. Elle doit être confrontée aux autres motifs possibles et aux données agrégées adverses.
+
+Une éventuelle expérience Capable ne pourrait tester que H3-D de manière située. Elle ne permettrait pas, seule, de conclure sur l'ensemble du régime français.
 
 # 8. Fil rouge — Autonomie de la Corse
 
@@ -647,39 +671,39 @@ Il ne faut pas présenter cette symétrie comme une preuve.
 
 Elle constitue un **Reality Case involontaire** de la doctrine.
 
-# 10. Redondance institutionnelle
+# 10. Pluralité de voies, substituabilité et redondance
 
-La disparition d'une voie n'implique pas la disparition du résultat possible.
+La disparition d'une voie n'implique pas nécessairement la disparition du résultat possible.
 
-Pour l'amendement :
+Mais toutes les voies alternatives ne sont pas redondantes.
 
-```text
-auteur citoyen
-→ sénateur
-→ commission
-→ rapporteur
-→ Gouvernement
-→ exécutif
-```
-
-constituent plusieurs voies, de nature et de puissance différentes.
-
-Nous appelons provisoirement :
-
-> **redondance capacitaire** : existence de plusieurs voies vers un effet suffisamment proche pour que la fermeture de l'une n'annule pas automatiquement la capacité systémique.
-
-Une voie alternative n'est toutefois pas nécessairement équivalente.
-
-Il faut comparer au moins :
+Nous distinguons désormais :
 
 ```text
-autonomie
-temps
-coût
-probabilité pratique
-dépendance
-réversibilité
+pluralité de voies
+= plusieurs chemins institutionnels vers un effet voisin
+
+redondance
+= voies suffisamment substituables pour que la perte de l'une soit compensable par l'autre
 ```
+
+La substituabilité doit être évaluée au moins selon :
+
+- pouvoir juridique détenu ;
+- autonomie ;
+- dépendance à un tiers ;
+- coût ;
+- fenêtre temporelle ;
+- probabilité pratique ;
+- capacité d'initiative ;
+- contrôle du contenu ;
+- réversibilité.
+
+Un citoyen qui demande à un sénateur de déposer un amendement, un sénateur qui peut le déposer lui-même, un rapporteur, une commission et le Gouvernement ne sont donc pas automatiquement des composants redondants.
+
+Ils constituent d'abord des **voies alternatives hétérogènes**.
+
+La notion de redondance ne sera utilisée que si la substituabilité est suffisamment établie pour l'effet étudié.
 
 # 11. Fenêtre capacitaire et correction
 
@@ -733,18 +757,30 @@ inversion
 
 Pour chaque dispositif étudié :
 
-1. Quelle est sa finalité ?
-2. Quelle menace cherche-t-il à prévenir ?
-3. Quelle capacité crée-t-il ou protège-t-il ?
-4. Quelle capacité réduit-il ou détruit-il ?
-5. Qui devient dépendant de qui ?
-6. Jusqu'à quand une correction reste-t-elle utile ?
-7. Existe-t-il un moyen moins destructeur produisant substantiellement la même protection ?
-8. Quelle observation nous ferait changer de conclusion ?
+1. Quelles sont ses finalités pertinentes, au pluriel ?
+2. Quelle est la source de chacune : texte, jurisprudence, travaux préparatoires, justification historique, reconstruction doctrinale ?
+3. Quelle autorité les formule ou les hiérarchise ?
+4. Quelle menace le moyen cherche-t-il à prévenir ?
+5. Quelle capacité crée-t-il ou protège-t-il ?
+6. Quelle capacité réduit-il ou détruit-il ?
+7. Qui devient dépendant de qui ?
+8. Jusqu'à quand une correction reste-t-elle utile ?
+9. Existe-t-il une alternative nommée, juridiquement ou institutionnellement plausible, qui préserve les protections identifiées avec un coût capacitaire moindre ?
+10. Quelle observation nous ferait changer de conclusion ?
+
+Une conclusion d'**inversion moyen–fin** est interdite si :
+
+```text
+les finalités concurrentes ne sont pas explicitées
+ou
+leur hiérarchie n'est pas attribuée
+ou
+aucune alternative moins destructive n'est nommée
+```
 
 Règle méthodologique :
 
-> **Ne jamais déduire du coût d'un moyen son inutilité ; rechercher d'abord la capacité qu'il protège. Ne jamais déduire de sa finalité légitime que tous ses coûts sont nécessaires ; rechercher ensuite s'il existe une solution moins destructrice.**
+> **Ne jamais déduire du coût d'un moyen son inutilité ; rechercher d'abord les capacités et finalités qu'il protège. Ne jamais déduire de ses finalités légitimes que tous ses coûts sont nécessaires ; rechercher ensuite s'il existe une solution moins destructive.**
 
 # 14. Liberté, Égalité, Fraternité : trois axes, pas un score
 
@@ -812,67 +848,76 @@ ne réfute pas à lui seul H3, mais constitue une trace adverse qui doit être r
 
 Lorsqu'une hypothèse acquiert son propre ensemble de traces, tests, objections, branches et décisions, elle peut être externalisée comme **Hypothesis Packet** lié au Packet principal plutôt que de faire croître indéfiniment le document source.
 
-# 15. Hypothèses actuellement ouvertes
+# 15. État des propositions après deux revues externes
 
 ### H1 — Formalisme électoral
 
-Une irrégularité non substantielle, régularisable dans le temps utile sans atteinte à l'égalité ou à la sécurité du scrutin, ne devrait pas mécaniquement produire une suppression définitive de candidature.
+**Statut : critère normatif conditionnel, non hypothèse empirique.**
 
-**Statut :** ouverte ; fortement dépendante de l'établissement précis des faits et du droit applicable.
+Voir §5.3. Son application au dossier sénatorial suppose un travail juridique et factuel séparé sur la substantialité, la régularisabilité, l'égalité et le temps utile.
 
 ### H2 — Secret sénatorial
 
-Une zone d'imputabilité supplémentaire pourrait peut-être être obtenue autour du bulletin sans rendre le vote individuel vérifiable.
+**Statut : question ouverte, load-bearing, non opérationnalisée.**
 
-**Statut :** ouverte.
+Le secret du suffrage indirect est d'abord gouverné par l'article 3 de la Constitution. Toute proposition doit préserver l'impossibilité de prouver le bulletin individuel en droit et en pratique.
 
-### H3 — Présentations présidentielles
+### H3-A — effet agrégé de la publicité des présentations
 
-La publicité peut ajouter au filtre institutionnel un coût politique ou réputationnel asymétrique.
+**Statut : affaiblie.**
 
-**Statut :** plausible mais non démontrée ; test empirique possible.
+Les données agrégées postérieures à 2016 ne montrent pas, en l'état du dossier, une baisse suffisamment nette du nombre total de présentations ou de candidats qualifiés pour soutenir une version forte.
 
-### H4 — Redondance institutionnelle
+### H3-D — effet distributionnel de la publicité
 
-La perte d'une voie personnelle n'équivaut pas à une perte systémique lorsque d'autres voies effectivement accessibles subsistent.
+**Statut : ouverte et testable de façon située.**
 
-**Statut :** fortement plausible ; Reality Test en cours avec l'amendement d'effectivité.
+Le test doit porter sur la distribution des refus et leurs motifs, non sur la seule quantité totale.
 
-**Pré-enregistrement du Reality Test — 2026-10-04**
+### H4 — voies alternatives hétérogènes vers l'amendement
 
-Avant la clôture de la fenêtre parlementaire pertinente, observer si une voie alternative transforme effectivement la proposition en acte parlementaire identifiable.
+**Statut : observation en cours ; ne pas appeler automatiquement cela redondance.**
 
-Prédiction minimale :
+Le pré-enregistrement de v0.3 était insuffisamment discriminant. Toute nouvelle version devra fixer avant observation :
 
-```text
-au moins un acteur disposant du droit d'amendement
-→ dépose, reprend ou transforme substantiellement
-la proposition d'effectivité
-avant la clôture utile
-```
+- les destinataires saisis ;
+- la date de transmission ;
+- le contenu transmis ;
+- la date limite utile ;
+- ce qui compte comme réponse, reprise, refus explicite et silence ;
+- la distinction entre refus de canal et désaccord substantiel ;
+- la causalité minimale exigée pour attribuer une reprise à la transmission.
 
-Interprétation :
+Un dépôt peut démontrer qu'une autre voie a fonctionné dans ce cas ; il ne prouve pas automatiquement la substituabilité avec la voie personnelle perdue.
 
-- **si oui** : preuve positive d'une redondance institutionnelle effectivement mobilisable, sans restaurer pour autant la voie personnelle perdue ;
-- **si non** : la redondance juridique demeure formelle dans ce cas, mais l'absence de dépôt ne suffit pas à établir la fermeture du système ; il faut distinguer absence de canal, désaccord substantiel, priorité concurrente, calendrier, non-réponse et refus explicite.
+### H5 — temporalité
 
-Critère de falsification de la version forte de H4 :
+**Statut : heuristique descriptive, non contribution distincte établie.**
 
-> si les voies alternatives existent juridiquement mais ne sont pas pratiquement accessibles dans la fenêtre utile malgré transmission traçable et suffisamment précoce, l'idée d'une redondance effectivement compensatrice doit être réduite.
+La distinction entre réparation juridique, restauration fonctionnelle et restitution historique reste utile. La prétention de nouveauté est suspendue tant qu'aucun cas ne montre un résultat opérationnel différent de la forclusion, de la perte de chance, du recours effectif ou de la path dependence.
 
-### H5 — Temporalité
+### H6 — effets cumulatifs
 
-Le temps constitue une composante de la capacité ; une correction tardive peut restaurer le droit sans restituer complètement la possibilité historique disparue.
+**Statut : heuristique de contrôle, non théorie propre établie.**
 
-**Statut :** fortement plausible ; portée juridique à ne pas présumer.
+Elle demande d'examiner la chaîne lorsque chaque maillon pris séparément paraît régulier. La notion ne justifie un apport propre que si un cas précis échappe réellement aux analyses ordinaires de composition, proportionnalité ou coûts cumulés.
 
-### H6 — Effets cumulatifs
+# 15 bis. Sources primaires vérifiées pour la v0.4
 
-La conformité de chaque mécanisme pris séparément n'établit pas nécessairement l'effectivité de la chaîne constituée par leur combinaison.
+La préparation de cette version a vérifié directement :
 
-**Statut :** hypothèse générale à tester cas par cas.
+- Constitution du 4 octobre 1958, article 3 — suffrage direct ou indirect, universel, égal et secret :  
+  https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240995/
+- Constitution du 4 octobre 1958, article 27 — mandat impératif et vote personnel des parlementaires :  
+  https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527492/
+- Code électoral, article L.318 — sanction de la non-participation du membre du collège électoral sans cause légitime :  
+  https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039278633/
+- Loi du 6 novembre 1962 relative à l'élection présidentielle, article 3 dans sa version applicable en 2026 :  
+  https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044248785/
 
-# 16. Revue adverse interne — passe corrélée cumulée
+La décision `2017-172 PDR` et les données détaillées de présentations citées par la revue Grok doivent encore être intégrées avec une URL primaire stable vérifiée avant stabilisation de la v0.4. Elles restent donc, dans cette version, **revue-sourcées mais non re-vérifiées par le Redactor**.
+
+# 16. Revue adverse interne — historique corrélé
 
 Cette passe est réalisée dans le même atelier cognitif que la rédaction.
 
@@ -953,433 +998,3 @@ Définir la capacité comme objet situé et multidimensionnel, sans prétendre r
 À stabiliser avec le Reviewer.
 
 ## IA4 — Le secret du vote pourrait être beaucoup mieux calibré qu'imaginé
-
-**Objection**
-
-La perte d'imputabilité n'est peut-être pas un défaut collatéral mais le prix intrinsèque de l'impossibilité de vérifier l'exécution d'une pression.
-
-**Disposition proposée : `conceded:load-bearing`**
-
-H2 doit être falsifiable :
-
-> si aucune imputabilité supplémentaire significative ne peut être ajoutée sans recréer la contrôlabilité du vote, le régime actuel pourra être jugé fonctionnellement bien calibré.
-
-## IA5 — La comparaison présentation présidentielle / vote sénatorial risque d'être trompeuse
-
-**Objection**
-
-Une présentation n'est pas un suffrage. Un vote sénatorial en est un. Leur différence de régime peut donc être entièrement justifiée par leur différence de nature juridique.
-
-**Disposition proposée : `conceded:bounding`**
-
-Le document accepte cette différence.
-
-La comparaison ne sert pas à déduire que les régimes devraient être identiques ; elle sert à montrer que liberté individuelle et publicité ne sont pas logiquement incompatibles dans tout acte politique.
-
-## IA6 — « Perte de voie personnelle » pourrait être pratiquement négligeable
-
-**Objection**
-
-Compte tenu de la probabilité nécessairement incertaine d'être élu puis de faire adopter l'amendement, la voie personnelle perdue pourrait avoir eu une importance pratique faible.
-
-**Disposition proposée : `integrated`**
-
-Le document doit distinguer :
-
-```text
-existence d'une capacité
-≠
-probabilité de succès final
-```
-
-mais également éviter de présenter la suppression d'une possibilité comme équivalente à la perte du résultat final.
-
-## IA7 — Risque de multiplication ontologique
-
-Termes proposés :
-
-- voie capacitaire ;
-- cascade capacitaire ;
-- dépendance capacitaire ;
-- redondance capacitaire ;
-- fenêtre capacitaire ;
-- acteur de seuil.
-
-**Objection**
-
-Le Corpus pourrait simplement accumuler des substantifs nouveaux pour décrire des phénomènes connus.
-
-**Disposition proposée : `conceded:load-bearing`**
-
-Chaque terme doit réussir un test d'utilité :
-
-```text
-permet-il une distinction ou une prédiction
-que le vocabulaire existant exprime moins bien ?
-```
-
-Sinon, le terme doit être supprimé.
-
-`acteur de seuil` reste volontairement absent du noyau normatif de cette version.
-
-## IA8 — La devise républicaine ne constitue pas seule un standard juridique opérationnel
-
-**Objection**
-
-Relier Liberté, Égalité, Fraternité à l'effectivité pourrait donner l'impression de déduire directement des obligations juridiques déterminées de la devise constitutionnelle.
-
-**Disposition proposée : `corrected`**
-
-Le document doit maintenir la distinction :
-
-```text
-orientation doctrinale
-≠
-standard juridictionnel déjà consacré
-```
-
-L'amendement d'effectivité lui-même formule cette prudence.
-
-## IA9 — Le document risque de confondre défaut du moyen et mauvaise application du moyen
-
-**Objection**
-
-Un mécanisme peut être correctement conçu mais mal appliqué localement.
-
-**Disposition proposée : `integrated`**
-
-Chaque cas devra distinguer :
-
-```text
-défaut de conception
-défaut de règle
-défaut d'interprétation
-défaut d'application
-défaut de correction
-effet émergent de plusieurs règles
-```
-
-Cette distinction devra être renforcée en v0.2.
-
-## IA10 — Le concept d'inversion risque d'être trop spectaculaire
-
-**Objection**
-
-La majorité des cas observés pourraient relever d'un simple arbitrage imparfait et non d'une inversion.
-
-**Disposition proposée : `integrated`**
-
-La gradation :
-
-```text
-friction
-→ désajustement
-→ inversion
-```
-
-doit rester obligatoire.
-
-Le terme « inversion » constitue une conclusion exigeante.
-
-## IA11 — Document et Cognitive Packet étaient trop directement identifiés
-
-**Objection**
-
-La v0.1 assimilait le document au Cognitive Packet lui-même, alors que le Corpus distingue désormais Logical Packet, Packet Capsule, document, placement et transport.
-
-**Disposition proposée : `corrected`**
-
-La v0.2 remplace cette assimilation par une identité logique du travail représentée par des Capsules documentaires successives.
-
-## IA12 — Le cycle de vie de la revue brute était sous-spécifié
-
-**Objection**
-
-Conserver automatiquement toutes les revues brutes augmenterait le bruit et confondrait durabilité du Packet avec rétention permanente dans le Corpus.
-
-**Disposition proposée : `integrated`**
-
-Une revue brute peut rester transitoire après assimilation complète de ses findings, résidus ouverts, identité et dispositions. Les anciennes versions du document principal sont `SUPERSEDE`, non effacées.
-
-# 17. Rapport de dispositions de la revue interne
-
-| ID | Objection | Disposition | État |
-|---|---|---|---|
-| IA1 | auto-confirmation | `integrated` | garde-fou explicite |
-| IA2 | prior art / renommage | `conceded:load-bearing` | ouvert |
-| IA3 | capacité trop extensive | `reformulate` | ouvert |
-| IA4 | secret peut être optimal | `conceded:load-bearing` | ouvert |
-| IA5 | présentation ≠ suffrage | `conceded:bounding` | borné |
-| IA6 | poids pratique de la voie perdue | `integrated` | distinction ajoutée |
-| IA7 | inflation terminologique | `conceded:load-bearing` | ouvert |
-| IA8 | devise ≠ standard juridictionnel autonome | `corrected` | corrigé |
-| IA9 | conception ≠ application | `integrated` | à développer |
-| IA10 | « inversion » trop facile | `integrated` | gradation conservée |
-| IA11 | document ≠ Packet logique | `corrected` | architecture mise à niveau |
-| IA12 | rétention des revues | `integrated` | revue brute transitoire possible après assimilation |
-
-La prochaine revue ne doit pas recompter comme découvertes les objections déjà présentes ici, sauf si leur traitement est inadéquat ou `load-bearing`.
-
-
-# 17 bis. Dispositions préparatoires de la revue adverse externe Claude — 2026-10-04
-
-La revue externe Claude Sonnet 5.5 est décorrélée de la rédaction par fournisseur et famille de modèle, mais le Reviewer déclare avoir déjà vu la v0.1 ; sa décorrélation globale est donc **moyenne**, non maximale.
-
-Les dispositions ci-dessous sont préparatoires à l'arbitrage humain :
-
-| ID | Finding | Disposition proposée | Effet v0.3 |
-|---|---|---|---|
-| E-A | références à v0.2 comme version future | `corrected` | prochaine version = v0.3 / version suivante |
-| E-B | identité du Packet tenue pour acquise | `corrected` | identité explicitement provisoire |
-| D1 | ontologie Packet envahissante | `integrated` | architecture déclarée méthodologique, non prémisse de H1–H6 |
-| D2 | prior art identité documentaire | `piste` | à traiter dans le chantier Documents as Cognitive Packets, pas ici |
-| D3 | finalité supposée stable | `reformulate` | finalité relativement stable, explicitée et elle-même révisable |
-| D4 | TTP non validé + asymétrie confirmante | `integrated` | statut expérimental + exemple adverse ajouté |
-| D5 | destruction possible de la revue brute | `corrected` | revue adverse matérielle → COOL / ARCHIVE |
-| D6 | frontmatter Packet insuffisant | `reformulate` | Minimum Sufficient Locality conservé ; métadonnées expérimentales minimales |
-| D7 | H4 sans prédiction datée | `integrated` | pré-enregistrement ajouté ci-dessous |
-| D8 | incohérence d'alinéa dans l'amendement | `arbitration` | à vérifier dans le document source de l'amendement |
-
-Les findings de la revue v0.1 de Claude restent ouverts lorsqu'ils concernent des sections inchangées ; ils ne sont pas recomptés ici.
-
-# 18. Mandat embarqué pour le Reviewer externe décorrélé
-
-## 18.1 Ciblage
-
-Le Reviewer doit commencer sa réponse par un frontmatter conforme au `research/review_protocol.md`, indiquant au minimum :
-
-```yaml
-review_target:
-  repository: "JeanHuguesRobert/barons-Mariani"
-  files:
-    - "research/moyens_et_finalites.md"
-  reviewed_version: "v0.3-draft"
-  reviewed_commit: "<commit exact si publié ; sinon SHA256 ou identifiant stable de la copie transmise>"
-  review_scope: "conceptual / constitutional / electoral / empirical / methodological"
-  requested_by: "Jean Hugues Noël Robert"
-  reviewer: "<agent et modèle>"
-  review_date: "<date>"
-  human_validation_required: true
-```
-
-Le Reviewer doit également traiter la transmission elle-même comme un Reality Test de **Packet Closure** :
-
-```text
-Closed(p,h,E)
-```
-
-où `p` est la Capsule reçue, `h` le Reviewer externe, et `E` la copie Markdown plus les références publiques effectivement résolubles.
-
-Il doit indiquer s'il a pu reconstruire et critiquer le travail sans contexte conversationnel privé du prédécesseur.
-
-Le Reviewer doit déclarer :
-
-- son accès réel aux sources ;
-- ses indisponibilités ;
-- toute exposition préalable au raisonnement ;
-- son degré de décorrélation ;
-- les risques de cadre partagé.
-
-## 18.2 Instruction au Reviewer
-
-> Vous êtes **Reviewer adverse et non décisionnel** d'un document source vivant.
->
-> Votre tâche n'est pas d'améliorer charitablement sa thèse. Cherchez d'abord à déterminer **où elle est fausse, redondante, triviale, insuffisamment distinguée, auto-confirmatrice ou empiriquement indécidable**.
->
-> Appliquez le contrat canonique `JeanHuguesRobert/cogentia/prompts/reviewer.md` et le protocole `JeanHuguesRobert/barons-Mariani/research/review_protocol.md`.
->
-> L'auteur du document est personnellement impliqué dans l'un des cas étudiés. Considérez ce conflit d'intérêt épistémique comme matériel.
->
-> Testez particulièrement les propositions suivantes :
->
-> 1. L'« Autonomie de Capacité » et le vocabulaire proposé apportent-ils quelque chose qui ne soit déjà correctement couvert par la proportionnalité, l'effectivité des droits, la capabilities approach, les veto points, les coûts de transaction ou la résilience institutionnelle ?
-> 2. Le cas de candidature sénatoriale permet-il réellement une généralisation ou le document transforme-t-il un contentieux individuel en théorie ?
-> 3. Le secret du vote des grands électeurs produit-il un véritable déficit évitable d'imputabilité, ou ce déficit est-il inséparable de la protection contre la coercition et l'achat vérifiable du vote ?
-> 4. L'obligation de participation et le secret sont-ils réellement en tension fonctionnelle une fois prise en compte la théorie de l'électorat-fonction ?
-> 5. L'interdiction du mandat impératif est-elle correctement utilisée ou surinterprétée ?
-> 6. La comparaison avec les présentations présidentielles est-elle heuristique ou fallacieuse compte tenu de leur différence de nature juridique ?
-> 7. Existe-t-il des données empiriques sérieuses contredisant l'hypothèse selon laquelle la publicité des présentations crée un filtre politique ou réputationnel matériel ?
-> 8. La « perte de voie personnelle » possède-t-elle une portée analytique réelle lorsqu'existent plusieurs voies alternatives vers le même amendement ?
-> 9. Les concepts de voie, cascade, dépendance, redondance, fenêtre et irréversibilité capacitaires produisent-ils des distinctions testables, ou constituent-ils une inflation terminologique ?
-> 10. Le document distingue-t-il suffisamment défaut de conception, défaut normatif, mauvaise application, erreur administrative, absence de correction et effet émergent ?
-> 11. Les références à Liberté, Égalité, Fraternité restent-elles descriptives/doctrinales là où aucun standard juridictionnel précis ne peut être déduit de la devise ?
-> 12. Quelle observation, jurisprudence, donnée ou théorie ferait le plus fortement **échouer** la thèse générale du document ?
->
-> Ne répétez pas les concessions déjà présentes comme découvertes nouvelles. Appliquez **Rule N**. Les concessions `load-bearing` restent en revanche ouvertes.
->
-> Vérifiez les faits juridiques importants sur des sources primaires et actuelles.
->
-> Lorsque l'état de l'art importe, ne vous limitez pas aux références académiques historiques : recherchez également travaux contemporains, jurisprudence, institutions comparées et données empiriques pertinentes.
->
-> Vous pouvez conclure :
->
-> - `No findings`
-> - `No revision warranted`
->
-> pour toute section où aucun apport substantiel n'existe.
->
-> Ne gonflez pas artificiellement la revue.
-
-## 18.3 Livrable demandé
-
-Le Reviewer doit fournir les sections prévues par le contrat canonique, avec une attention particulière à :
-
-1. **Errors**
-2. **Novel objections**
-3. **Concessions assessed**
-4. **Fragile concepts**
-5. **Prior art / state of the art**
-6. **Blind spots**
-7. **Correlation risks**
-8. **Booster opportunities**
-9. **Falsification opportunities**
-10. **Recommendation**
-
-Pour chaque finding :
-
-```text
-localisation
-→ objection
-→ preuve / raisonnement
-→ gravité
-→ action proposée
-```
-
-Le Reviewer **ne décide pas** de son intégration.
-
-# 19. Contrat de reprise après revue externe
-
-Lorsque la revue externe revient :
-
-```text
-review
-→ vérification du ciblage
-→ rejet si mauvais document/version
-→ extraction des findings
-→ disposition Redactor pour chacun
-→ table d'intégration
-→ arbitrage humain de Jean Hugues Noël Robert
-→ version suivante
-```
-
-Chaque finding reçoit exactement une disposition :
-
-- `corrected`
-- `integrated`
-- `conceded:bounding`
-- `conceded:load-bearing`
-- `piste`
-- `reformulate`
-- `rejected`
-- `arbitration`
-
-Les marqueurs `[unverified]` et `[provisional]` ne sont jamais silencieusement supprimés.
-
-
-# 19 bis. Politique de cycle de vie
-
-Le cycle de vie distingue au moins quatre opérations :
-
-- `DISCARD` — destruction d'un travail explicitement transitoire une fois son rendement assimilé ;
-- `COOL / ARCHIVE` — réduction de disponibilité cognitive sans perte d'historique ;
-- `SUPERSEDE` — remplacement de l'état de référence par une version ultérieure avec conservation de la relation ancienne→nouvelle ;
-- `ERASE` — suppression intentionnelle de contenu historique durable, qui exige une autorité distincte.
-
-Application au présent Packet :
-
-```text
-ancienne version du document
-→ SUPERSEDE
-
-revue adverse matérielle, surtout en présence d'un conflit d'intérêt ou d'une contestation substantielle
-→ COOL / ARCHIVE après assimilation
-
-travail réellement transitoire, redondant et sans valeur d'audit résiduelle
-→ peut être DISCARD
-
-résidu non résolu
-→ doit rester visible / routable
-
-historique doctrinal
-→ ne doit pas être silencieusement ERASE
-```
-
-Principe local retenu après revue adverse :
-
-> **Une revue externe substantielle ne doit pas être détruite lorsque sa conservation permet d'auditer l'assimilation par la partie revue.**
-
-La table de dispositions est une synthèse ; elle ne remplace pas nécessairement la trace brute lorsque cette trace a une valeur d'audit.
-
-
-# 20. Critère de sortie du cycle
-
-Le document ne doit pas être stabilisé parce qu'il a reçu « beaucoup de revues ».
-
-Le plateau est atteint lorsque :
-
-- les erreurs factuelles significatives sont corrigées ;
-- les objections nouvelles deviennent majoritairement répétitives ;
-- les concessions load-bearing restantes sont explicitement visibles ;
-- les termes conservés ont démontré leur utilité ;
-- les principales hypothèses disposent d'un critère de réfutation ;
-- une nouvelle passe risquerait davantage d'augmenter le bruit que la robustesse.
-
-Alors seulement :
-
-```text
-working-paper
-→ release_candidate
-→ validation humaine
-→ stable
-```
-
-Une nouvelle observation du Réel pourra toujours rouvrir le paquet.
-
-
-# Annexe A — Enveloppe méthodologique du Packet
-
-Cette annexe contient ce qui relève du transport et de la reprise du travail, non de l'argument institutionnel lui-même.
-
-Le document principal doit rester critiquable par un lecteur ignorant Cogentia. Les notions de Logical Packet, Packet Capsule, causal frontier, Review Packet, Hypothesis Packet et Trace Treatment Packet ne sont pas nécessaires pour accepter ou réfuter H1–H6.
-
-Elles servent uniquement à :
-
-```text
-préserver la provenance
-router la revue
-rendre la continuation explicite
-conserver les objections
-préparer l'assimilation
-```
-
-Leur utilité est elle-même soumise au test :
-
-> si elles n'améliorent ni la reprise, ni l'auditabilité, ni la qualité de la contradiction, elles doivent être réduites ou supprimées de cette Capsule.
-
-# 21. Prochain état attendu
-
-```text
-CURRENT
-v0.3-draft
-+ revue adverse interne corrélée
-+ revue adverse externe Claude du 2026-10-04
-+ dispositions préparatoires intégrées, arbitrage humain encore requis
-
-NEXT
-transmission par copie à un Reviewer externe décorrélé
-→ Reality Test de Packet Closure
-
-THEN
-dispositions
-→ arbitrage humain
-→ version suivante
-```
-
-Le document reste actuellement :
-
-```text
-open
-revisable
-unreviewed externally
-human arbitration required
-```
