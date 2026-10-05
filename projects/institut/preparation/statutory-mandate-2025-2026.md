@@ -136,3 +136,72 @@ baseline établie
 ~~~
 
 Le premier verrou n'est donc plus le texte historique : c'est **la composition actuelle de l'AG et du conseil d'administration**.
+
+
+## 9. Statuts de référence retrouvés
+
+La recherche documentaire a retrouvé le scan de six pages transmis par la préfecture le 3 avril 2018 et l'archive du récépissé / Journal officiel.
+
+Chronologie primaire :
+
+~~~text
+25/12/1995
+→ statuts signés à Corte
+
+04/01/1996
+→ déclaration de constitution
+
+08/01/1996
+→ récépissé n° 02 de la sous-préfecture de Corte
+
+24/01/1996
+→ publication au Journal officiel
+~~~
+
+Le texte intégral est transcrit dans `projects/institut/preparation/statuts-1995-transcription.md`.
+
+### 9.1 Projet de refonte 2018
+
+Une version `Statuts_2018-2019_C.O.R.S.I.C` existe dans Drive et porte une refonte substantielle.
+
+Cependant, le 9 décembre 2018, un courrier transmet à un tiers la copie des statuts reçue de la préfecture et précise que les statuts **feront l'objet d'une modification prochaine**. La version 2018 doit donc rester qualifiée :
+
+~~~text
+document de refonte
+→ ESTABLISHED
+
+adoption
+→ NOT ESTABLISHED
+
+déclaration
+→ NOT FOUND
+
+effectivité
+→ NOT ESTABLISHED
+~~~
+
+### 9.2 Continuité documentaire jusqu'en 2024
+
+En 2023, Société Générale demande explicitement une confirmation que les statuts du **25/12/1995** sont les derniers en date, faute de statuts plus récents.
+
+En mai 2024, la préfecture constate que C.O.R.S.I.C.A. ne semble pas encore enregistrée au RNA et demande, pour l'attribution d'un numéro, un PV d'assemblée générale accompagné du CERFA modificatif. En août 2024, le greffe demande encore un CERFA dirigeants complété accompagné d'un PV.
+
+Aucune version ultérieure adoptée et déclarée n'a été retrouvée dans ce passage.
+
+### 9.3 Règles internes pertinentes pour la future AGE
+
+Sous réserve d'une vérification finale que les statuts de 1995 sont bien ceux actuellement applicables, leur article 17 prévoit notamment :
+
+- modification par l'assemblée générale ;
+- proposition du conseil d'administration **ou d'un dixième des membres composant l'assemblée générale** ;
+- inscription à l'ordre du jour ;
+- envoi à tous les membres au moins quinze jours à l'avance ;
+- quorum initial d'un quart des membres en exercice ;
+- seconde assemblée au moins quinze jours plus tard si le quorum n'est pas atteint, alors sans minimum de présents/représentés ;
+- majorité des deux tiers des membres présents ou représentés.
+
+L'article 8 réserve l'assemblée générale aux membres fondateurs, d'honneur, bienfaiteurs et actifs ; les membres adhérents n'en font pas partie. Chaque membre présent peut détenir au plus dix pouvoirs en plus du sien.
+
+L'article 21 prévoit que le secrétaire fait connaître à la préfecture ou sous-préfecture, dans les trois mois, les changements dans l'administration ou la direction.
+
+Ces règles deviennent le point de départ documentaire du travail préparatoire, mais leur application juridique actuelle doit encore être vérifiée avant convocation.
