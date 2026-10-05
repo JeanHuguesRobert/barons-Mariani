@@ -21,7 +21,7 @@ human_validation_required: true
 related_documents:
   - "projects/institut/preparation/current-statutes-baseline.md"
   - "projects/institut/preparation/governance-membership-baseline.md"
-  - "projects/institut/preparation/governance-membership-register.md"
+  - "projects/institut/preparation/governance-membership-baseline.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
   - "projects/institut/sources/statuts-corsica-1995-transcription.md"
 provenance:
