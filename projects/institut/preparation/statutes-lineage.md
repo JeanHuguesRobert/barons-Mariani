@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.3"
+version: "0.4"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -85,9 +85,11 @@ En 2021, le scan ancien est encore utilisé comme statuts.
 
 En mars 2023, Société Générale demande confirmation que les statuts du 25/12/1995 sont les derniers en date.
 
-En mai 2024, ils sont transmis au greffe comme les statuts déposés à la sous-préfecture lors de la création. Le greffe ne retrouve pas alors l'association au RNA et la sous-préfecture demande PV d'AG + Cerfa modificatif pour régulariser/attribuer le numéro.
+En mai 2024, ils sont transmis au greffe comme les statuts déposés à la sous-préfecture lors de la création. Le greffe ne retrouve pas alors l'association au RNA. Le 30 mai, la sous-préfecture demande un PV d'AG accompagné d'un Cerfa modificatif afin d'attribuer un numéro RNA.
 
-Aucun récépissé final de cette régularisation n'a été retrouvé.
+Le 14 août 2024, après un nouvel entretien téléphonique, la sous-préfecture redemande un Cerfa dûment complété accompagné du PV d'assemblée générale.
+
+Aucun retour ultérieur de ces pièces ni récépissé final d'attribution RNA n'a été retrouvé dans la séquence Gmail examinée.
 
 ## 4. 2025–2026 — nouveau mandat
 
