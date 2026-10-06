@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.5"
+version: "0.6"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,8 +13,8 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.10.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
+  - "requete-conseil-constitutionnel-projet-v0.11.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
@@ -65,6 +65,9 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
 - [~] **QPC** — correction procédurale acquise : une QPC peut être posée directement au Conseil constitutionnel dans le contentieux électoral parlementaire. Reste à cristalliser séparément chaque mémoire : disposition législative précise, applicabilité au litige, droit/liberté garanti, nouveauté/sérieux. QPC A : L.299 est le premier candidat à tester. QPC B reste ouverte faute de disposition législative applicable identifiée.
 - [ ] **Défenseur des droits** — garder sa saisine distincte du recours CC ; ne lui attribuer aucun effet suspensif sur les délais.
+- [x] **Trace Défenseur des droits — P-42** — saisine du 26 septembre vérifiée dans Gmail ; déléguée mise en copie les 1er et 2 octobre ; aucune réponse provenant de son adresse retrouvée dans la recherche ciblée au 6 octobre. Ne pas écrire « aucune réponse n'existe », mais « aucune réponse retrouvée ».
+- [ ] **Corpus complet des courriels** — conserver et indexer tous les courriels matériellement pertinents avec préfecture, TA, Défenseur des droits, remplaçante et autres acteurs ; distinguer **complétude de conservation** et **sélectivité de production au Conseil**.
+- [x] **Correspondance Laurence — P-43** — index vérifié créé à partir de Gmail ; messages décisifs identifiés (préparation, identité, autorisation expresse, porte-parole, vidéo, AAH). Ne pas republier dans GitHub le contenu privé intégral ; produire au Conseil seulement ce qui est nécessaire, avec minimisation.
 - [ ] **CEDH** — ne pas présenter Strasbourg comme un appel du Conseil constitutionnel ; conserver la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
 - [ ] **2017 / 2024 / 2026** — utiliser la répétition comme contexte et hypothèse de mécanisme récurrent, non comme moyen de rouvrir les délais expirés.
 - [ ] **Comparatif média service public — 2017 / 2020 / 2024 / 2026** — inventorier, pour chacune des quatre candidatures, France 3 Corse ViaStella / France Télévisions et Radio France-ICI/RCFM : invitation ou non aux débats, entretiens, durée/format, date dans la campagne, présentation éditoriale, comparateurs parmi les autres petites candidatures ; distinguer trace d'absence de couverture, absence réellement vérifiée et refus explicite.
@@ -157,7 +160,7 @@ S'il est matériel et vérifiable :
 ## UPDATE — 6 octobre 2026 — v0.10 / annexe P-41
 
 - brouillon courant promu : `requete-conseil-constitutionnel-projet-v0.10.md` ;
-- bordereau courant : `bordereau-pieces-requete-conseil-constitutionnel-v0.7.md` ;
+- bordereau courant : `bordereau-pieces-requete-conseil-constitutionnel-v0.8.md` ;
 - création de P-41 : annexe ciblée de déclarations publiques et commentaires de presse contemporains ;
 - règle de crible : conserver les sources favorables **et** le framing adverse ; distinguer acteur / journaliste / résultat primaire / inférence ;
 - point de vigilance renforcé : « cinq grands électeurs » désigne une **base institutionnelle minimale directement identifiable**, jamais l'ensemble des soutiens publics ni cinq bulletins attribuables ;
@@ -181,3 +184,13 @@ S'il est matériel et vérifiable :
 - la saisine du Défenseur des droits est utile comme probe et source institutionnelle, mais n'interrompt pas le délai CEDH ;
 - 2017 et 2024 servent d'abord à tester la **répétition** et la connaissance du problème ; ils ne ressuscitent pas une requête autonome hors délai ;
 - le plateau pré-dépôt sera atteint lorsque les nouvelles objections deviennent répétitives et qu'aucun point nouveau ne change matériellement recevabilité, grief, pièce, conclusion, QPC ou préservation CEDH.
+
+
+## UPDATE — 6 octobre 2026 — v0.11 / corpus courriels
+
+- brouillon courant : `requete-conseil-constitutionnel-projet-v0.11.md` ;
+- bordereau courant : `bordereau-pieces-requete-conseil-constitutionnel-v0.8.md` ;
+- ajout **P-42** : saisine Défenseur des droits et suivi vérifié ;
+- ajout **P-43** : index probatoire de la correspondance avec Laurence Vernerey ;
+- règle nouvelle : **tout courriel matériellement pertinent doit être conservé et indexé ; tout courriel conservé n'a pas vocation à être annexé** ;
+- priorité pré-dépôt : matérialiser les messages natifs effectivement cités dans la requête et vérifier qu'aucune pièce privée redondante n'alourdit le dossier.
