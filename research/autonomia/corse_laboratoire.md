@@ -4,8 +4,8 @@ subtitle: "Exploration rationnelle du Possible, autonomie de capacité et Machin
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-09"
-last_modified_at: "2026-09-09"
-version: "0.3"
+last_modified_at: "2026-10-06"
+version: "0.4"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -46,6 +46,7 @@ changelog:
   - "v0.1 (2026-09-09) — initial atelier source draft."
   - "v0.2 (2026-09-09) — incorporates dispositions from Grok 4.6 first review: non-entailment, bounded Reality Tests, non-scalar capability learning, anti-capture and exit, distributed principals, prior-art contrasts, revers ledger, and separation of doctrine from applications."
   - "v0.3 (2026-09-09) — incorporates second-pass review: prior-art failure modes, constrained reopening, hard C3 anti-capture criterion, Act permission/finance/liability fields, observer independence, temporal affected populations, anti-triviality escalation, and explicit method-only status without a filled Reality Test."
+  - "v0.4 (2026-10-06) — adds the verified historical anchor of Corsica as a parliamentary-described laboratory of decentralisation, and distinguishes that fact from broader claims of later generalisation requiring case-by-case proof."
 visibility: "public"
 lifecycle_state: "working"
 classification_source: "cogentia.js"
@@ -65,6 +66,30 @@ Ce document propose un **cadre doctrinal territorial** : utiliser la Seconde Mé
 La Corse est ici un **terrain proposé d’application**. Elle n’est pas la conclusion nécessaire de la Seconde Méthode ni d’Autonomia. Le choix d’en faire un laboratoire est un choix politique, méthodologique et expérimental qui doit lui-même être justifié et révisable.
 
 Le présent document n’est pas un diagnostic exhaustif de la Corse, ni un programme électoral, ni une description d’une société idéale.
+
+
+### Ancrage historique vérifié : « laboratoire de la décentralisation »
+
+L'expression « laboratoire » n'est pas seulement une métaphore contemporaine du Corpus.
+
+Un rapport de la commission d'enquête de l'Assemblée nationale sur les fonds publics et les services publics en Corse consacre une section à la période **1982-1992** sous le titre **« le “laboratoire” institutionnel »**. Il indique que le statut particulier de 1982 apparaît rétrospectivement comme une **anticipation du mouvement de décentralisation** qui concerna ensuite l'ensemble des régions françaises, et conclut que c'est en ce sens que la Corse a constitué un **« laboratoire de la décentralisation en France »**.
+
+Source primaire parlementaire :
+https://www.assemblee-nationale.fr/11/dossiers/corse/corse303.asp
+
+Cet ancrage autorise une affirmation forte mais bornée :
+
+> **Il existe au moins un précédent institutionnel explicitement décrit par le Parlement comme une anticipation corse suivie d'une diffusion nationale du principe de décentralisation régionale.**
+
+Il n'autorise pas encore la généralisation :
+
+> « de nombreuses innovations testées en Corse ont ensuite été généralisées ailleurs ».
+
+Cette proposition plus large doit être démontrée par une série de cas indépendants, avec pour chacun : innovation corse, date, mécanisme juridique, reprise hors de Corse, filiation documentée ou simple convergence.
+
+Le droit positif fournit par ailleurs un voisin méthodologique distinct : l'article 72 de la Constitution et les articles LO1113-1 et suivants du CGCT organisent des **expérimentations territoriales bornées**, avec durée, objet, conditions d'entrée et évaluation avant poursuite, modification, généralisation ou abandon.
+
+La doctrine de *Corse Laboratoire* peut donc parler de **droit à l'expérimentation mesurée et modérée** comme proposition politique/méthodologique adossée à des précédents juridiques réels, sans prétendre que le droit positif reconnaît déjà un droit général de la Corse à toute dérogation expérimentale.
 
 ### What this document does not claim
 
