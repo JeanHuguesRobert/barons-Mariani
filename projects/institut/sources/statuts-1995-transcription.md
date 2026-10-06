@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.2"
-status: "source-transcription — unreviewed"
+version: "0.3"
+status: "superseded — retained for provenance"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/sources/statuts-1995-transcription.md"
@@ -15,8 +15,9 @@ document_role: "derived"
 document_kind: "source-transcription"
 document_function: "historical statutes transcription"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
+superseded_by: "projects/institut/sources/statuts-corsica-1995-transcription.md"
 related_documents:
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
   - "projects/institut/preparation/ag-age-2025-2026.md"
@@ -35,6 +36,8 @@ review:
 ---
 
 # C.O.R.S.I.C.A. — transcription des statuts historiques signés
+
+> **Statut documentaire : SUPERSEDED.** La transcription canonique, revue visuellement et accompagnée de son errata, est désormais `projects/institut/sources/statuts-corsica-1995-transcription.md`. Ce fichier est conservé pour la provenance et l’historique Git ; il ne doit plus être cité comme transcription de référence.
 
 ## 0. Provenance et portée
 
