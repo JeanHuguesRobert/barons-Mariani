@@ -56,7 +56,7 @@ provenance:
 
 ## Documents compagnons
 
-Ce document appartient à un ensemble de quatre fichiers destinés à être publiés dans `research/autonomia/` :
+Ce document appartient à un ensemble de cinq fichiers destinés à être publiés dans `research/autonomia/` :
 
 - [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
 - [Atlas du paysage politique et discursif corse](atlas_paysage_politique_corse.md)
