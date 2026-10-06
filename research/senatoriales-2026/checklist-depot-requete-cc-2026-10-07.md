@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.11"
+version: "0.12"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -59,6 +59,8 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
 - [ ] **Pièces critiques** — vérifier présence, lisibilité, date, origine et concordance des pièces relatives au dépôt de candidature, aux formalités de la remplaçante, au TA, aux échanges préfectoraux et au scrutin.
+- [ ] **P-09 — récépissé provisoire : scan + transcription textuelle** — joindre au paquet remis le scan/reproduction lisible du récépissé provisoire délivré le **11 septembre 2026 à 12 h 20** et une transcription textuelle fidèle de tous les champs lisibles. La transcription déjà conservée dans le Corpus peut servir de base, mais la version de dépôt doit être contrôlée ligne à ligne contre l'image primaire ; signaler explicitement toute mention illisible, anomalie ou lacune au lieu de la compléter par inférence.
+- [ ] **P-17 — note manuscrite recto-verso remise à l'audience : scan + transcription textuelle** — joindre la reproduction recto-verso de la feuille manuscrite remise en main propre au début de l'audience du **14 septembre 2026**, ainsi qu'une transcription textuelle fidèle. Le texte avait été dicté dans une conversation contemporaine, mais le libellé exact doit être récupéré ou vérifié contre le scan : **ne pas reconstruire silencieusement de mémoire**. Cette pièce doit être traitée comme une production autonome de l'audience et reliée à la chronologie et au bordereau.
 - [x] **P-14 — deux requêtes préfectorales retrouvées et comparées** — les bundles `2601714` et `2601715` contiennent une saisine signée de trois pages au même contenu substantiel ; leur position dans les bundles diffère. Ne pas parler d'identité binaire des PDF complets sans comparaison de fichiers.
 - [x] **P-14 — distinction L.298 / L.299 dans la saisine** — l'exposé des faits rappelle **L.298 et L.299** ; la partie « Discussion » reproduit et développe expressément **L.299** pour l'exigence d'« original », sans développement autonome de L.298.
 - [x] **e-Sagace — sens des conclusions** — les deux dossiers affichent un refus pour méconnaissance alléguée de **L.298, L.299 et L.301**. Qualifier correctement : il s'agit du sens des conclusions, pas du jugement.
@@ -297,3 +299,11 @@ La fermeture complète du dépôt reste impossible avant vérification matériel
 - distingue explicitement **L.298/L.299 dans la saisine**, **L.298/L.299/L.301 dans le sens des conclusions e-Sagace**, et le contrôle encore à effectuer sur les motifs exacts du jugement primaire ;
 - ajoute **P-44** comme chaîne de provenance France Transfert en deux courriels, avec règle de non-publication des secrets techniques ;
 - maintient ouvert uniquement le travail matériel restant sur ce sous-front : contrôle primaire du jugement et matérialisation expurgée de P-44 dans le paquet de dépôt.
+
+## UPDATE — 6 octobre 2026 — P-09 / P-17 : image primaire + transcription
+
+- **P-09** : le récépissé provisoire ne doit pas être seulement cité ; le paquet de dépôt doit contenir son **scan lisible** et une **transcription textuelle vérifiée** ;
+- **P-17** : la note manuscrite recto-verso remise à l'audience doit être produite sous les deux formes, **reproduction recto-verso + transcription textuelle** ;
+- règle commune : l'image primaire fait foi ; toute transcription est dérivée et doit signaler ses incertitudes ; aucune lacune ne doit être comblée par inférence ;
+- le texte exact de P-17 est à récupérer de la conversation contemporaine et/ou à vérifier sur le scan dès qu'il est retrouvé ;
+- les scans du jugement du TA recherchés parallèlement feront l'objet du contrôle primaire déjà ouvert sur P-20.
