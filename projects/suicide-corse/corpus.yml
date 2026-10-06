@@ -347,7 +347,7 @@ sources:
     note: "Working draft for human review. It must not be described as filed unless a separate receipt trace establishes filing."
 
   - id: senatoriales-2026-constitutional-petition-current
-    path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md
+    path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.15.md
     role: current-pre-filing-legal-draft
     required: false
     note: "Current public pre-filing draft as of 2026-10-06; not filed unless and until a separate filing trace establishes submission."
