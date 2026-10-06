@@ -79,7 +79,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 >
 > Les griefs directement liés à l'enregistrement de la candidature, au contrôle du TA, à la complétude du dossier, à l'effectivité du recours et à l'incidence possible sur le scrutin forment le **noyau contentieux**. Les éléments doctrinaux, médiatiques ou politiques restent du contexte et ne doivent pas alourdir le dossier de dépôt s'ils ne soutiennent pas un moyen identifié.
 >
-> **Passe de plateau — 6 octobre 2026.** Cette v0.14 privilégie les causes de rejet réellement porteuses. Trois sécurités deviennent cardinales : **tous les griefs matériels doivent être présents en substance avant l'expiration du délai de l'article 33** ; **L.299 est assumé comme imposant signature et mention manuscrite**, le débat se déplaçant vers la portée de l'exigence d'un original matériel et l'exception fonctionnelle liée au handicap ; enfin, la perte temporelle est objectivée par le calendrier officiel du Sénat : audition en commission le **7 octobre à 15 h**, rapport de commission le **21 octobre**, discussion en séance publique le **26 octobre 2026**.
+> **Passe de plateau — 6 octobre 2026.** Cette v0.15 privilégie les causes de rejet réellement porteuses. Trois sécurités deviennent cardinales : **tous les griefs matériels doivent être présents en substance avant l'expiration du délai de l'article 33** ; **L.299 est assumé comme imposant signature et mention manuscrite**, le débat se déplaçant vers la portée de l'exigence d'un original matériel et l'exception fonctionnelle liée au handicap ; enfin, la perte temporelle est objectivée par le calendrier officiel du Sénat : audition en commission le **7 octobre à 15 h**, rapport de commission le **21 octobre**, discussion en séance publique le **26 octobre 2026**.
 
 > **Correction remèdes / Strasbourg — 6 octobre 2026.** La voie normale demandée au Conseil demeure l'annulation. En cas d'annulation, l'article LO 322 du code électoral prévoit une élection partielle dans un délai de trois mois. La proclamation directe du requérant, si elle est conservée plus loin, n'est qu'une conclusion infiniment subsidiaire et exploratoire au regard de l'article 41 : aucun suffrage valable n'ayant pu être exprimé pour une candidature non enregistrée, elle ne doit jamais être présentée comme le remède normalement disponible. La CEDH n'est pas une juridiction d'appel du Conseil constitutionnel : après la décision interne définitive, chaque personne qui se prétend victime d'une violation conventionnelle doit satisfaire séparément aux conditions de recevabilité, notamment l'épuisement des recours internes normaux et effectifs et le délai de quatre mois.
 
@@ -89,7 +89,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 ---
 
-## PROTOCOLE DE REVUE ADVERSE — v0.14
+## PROTOCOLE DE REVUE ADVERSE — v0.15
 
 La revue externe est invitée à chercher prioritairement les **motifs de rejet** plutôt que les arguments confirmatoires.
 
