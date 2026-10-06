@@ -4,7 +4,7 @@ subtitle: "Registre analytique des sources, pièces, statuts de preuve et élém
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
-version: "1.6"
+version: "1.7"
 status: "working-draft — aligned with CC petition v0.14 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -197,7 +197,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 
 ---
 
-## VIII. REGISTRE MATRICIEL — 43 PIÈCES / ENSEMBLES DE PIÈCES
+## VIII. REGISTRE MATRICIEL — 44 PIÈCES / ENSEMBLES DE PIÈCES
 
 | N° | Date & heure | Intitulé | Portée probatoire bornée | Source / support |
 |---|---|---|---|---|
@@ -244,8 +244,11 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-41** | 06/10 | Annexe — déclarations publiques et commentaires de presse | Source contextuelle structurée ; distingue déclarations d'acteurs, commentaires journalistiques, faits officiels et inférences ; documente A Voce, intentions Battini rapportées, cadre adverse, Giuseppi et autonomie | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
 | **P-42** | 26/09 + 01–02/10 | Saisine Défenseur des droits et suivi | Saisine sur l’effectivité ; aucune réponse de la déléguée retrouvée au 06/10 dans la recherche Gmail ciblée ; état de trace, pas preuve d’absence de traitement | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
 | **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Participation, consentement, aide matérielle, porte-parole, vidéo, accessibilité ; source privée, production sélective/minimisée | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + Gmail natif |
+| **P-44** | 11/09 18:45:53 | France Transfert — deux courriels de communication des requêtes 2601714 / 2601715 | Établit la provenance de transmission au requérant : avis de pli du greffe + mot de passe séparé ; secrets techniques non publiés | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + Gmail natif |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
+
+La comparaison des deux bundles confirme que les saisines préfectorales signées de trois pages ont le **même contenu substantiel**. Dans l'exposé des faits, elles mentionnent le rappel de **L.298 et L.299** ; dans la partie « Discussion », l'exigence d'« original » est développée en reproduisant expressément **L.299**, sans développement autonome de L.298. Le sens des conclusions e-Sagace mentionne pour sa part **L.298, L.299 et L.301** : ne pas confondre ces trois niveaux documentaires.
 
 La requête préfectorale n° 2601714 indique elle-même la structure suivante :
 
@@ -289,7 +292,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v1.5
 
-- La requête **v0.14**, le présent inventaire **v1.6** et le **bordereau autonome v0.8** doivent rester alignés avant tout dépôt.
+- La requête **v0.17**, le présent inventaire **v1.7** et le **bordereau autonome v0.9** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
@@ -302,3 +305,11 @@ Fait à Corte, le 1er octobre 2026.
 
 **Jean Hugues Noël ROBERT**  
 *(Baron Mariani)*
+
+
+## UPDATE v1.7 — 6 octobre 2026
+
+- ajoute **P-44**, chaîne France Transfert en deux courriels ;
+- documente la comparaison des deux saisines préfectorales et la distinction **L.298 / L.299** dans leur motivation ;
+- conserve séparément le **sens des conclusions e-Sagace (L.298, L.299, L.301)** et les motifs du jugement, qui doivent être vérifiés sur l'expédition primaire ;
+- aligne le contrôle de cohérence sur **requête v0.17 / inventaire v1.7 / bordereau v0.9**.
