@@ -30,7 +30,7 @@ review:
 
 ## 6 octobre 2026 — propagation de la stratégie de recours et des remèdes
 
-Le n°4 est désormais synchronisé avec la **v0.14** de la requête et l'annexe stratégique du 6 octobre. Quatre étages sont conservés séparément : **Conseil constitutionnel**, **QPC distinctes si elles passent leur propre test de qualité**, **Défenseur des droits**, puis **éventuelle CEDH après la décision interne définitive**.
+Le n°4 est désormais synchronisé avec la **v0.15** de la requête et l'annexe stratégique du 6 octobre. Quatre étages sont conservés séparément : **Conseil constitutionnel**, **QPC distinctes si elles passent leur propre test de qualité**, **Défenseur des droits**, puis **éventuelle CEDH après la décision interne définitive**.
 
 Deux invariants éditoriaux sont ajoutés au suivi :
 
@@ -72,7 +72,7 @@ Sources canoniques :
 
 ## 6 octobre 2026 — plateau pré-dépôt v0.14
 
-La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.14.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md). Son statut reste **non déposé**.
+La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.15.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.15.md). Son statut reste **non déposé**.
 
 La v0.14 consolide explicitement l'architecture **Conseil constitutionnel → QPC distinctes → Défenseur des droits → éventuelle CEDH**, la symétrie procédurale post-Conseil pour M. Robert comme pour M. Parigi, la répétition **2017 / 2024 / 2026** comme contexte d'effectivité sans réouverture artificielle des délais, et la proclamation directe du requérant comme **probe de remède infiniment subsidiaire**. L'annexe stratégique associée est [`annexe-strategie-recours-remedes-repetition-2026-10-06.md`](../../research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md).
 
