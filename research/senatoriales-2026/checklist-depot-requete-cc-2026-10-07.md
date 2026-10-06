@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.13.md"
+  - "requete-conseil-constitutionnel-projet-v0.14.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -195,7 +195,7 @@ S'il est matériel et vérifiable :
 
 ## UPDATE — 6 octobre 2026 — v0.8 / plateau pré-dépôt
 
-- brouillon courant : `requete-conseil-constitutionnel-projet-v0.13.md` ;
+- brouillon courant : `requete-conseil-constitutionnel-projet-v0.14.md` ;
 - découverte load-bearing : **les griefs nouveaux sont forclos après le délai de l’article 33** ; toutes les branches matérielles doivent donc être présentes en substance dans la requête initiale ;
 - distinction durcie : article 35 = délai exceptionnel pour certaines **pièces**, pas réserve générale de moyens ;
 - canal de dépôt de l’article 34 ajouté comme contrôle opérationnel prioritaire ;
