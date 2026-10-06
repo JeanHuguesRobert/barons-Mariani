@@ -77,6 +77,8 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 > Elle consolide en outre la séquence post-jugement : demandes de pièces depuis le 16 septembre, réponse de la greffière en chef du 1er octobre, invitation à saisir le Conseil constitutionnel avec référence à L.292, et maintien du fondement pertinent de **L.303** pour la contestation du jugement relatif au refus d'enregistrement.
 >
 > Les griefs directement liés à l'enregistrement de la candidature, au contrôle du TA, à la complétude du dossier, à l'effectivité du recours et à l'incidence possible sur le scrutin forment le **noyau contentieux**. Les éléments doctrinaux, médiatiques ou politiques restent du contexte et ne doivent pas alourdir le dossier de dépôt s'ils ne soutiennent pas un moyen identifié.
+>
+> **Passe de plateau — 6 octobre 2026.** Cette v0.13 privilégie les causes de rejet réellement porteuses. Trois sécurités deviennent cardinales : **tous les griefs matériels doivent être présents en substance avant l'expiration du délai de l'article 33** ; **L.299 est assumé comme imposant signature et mention manuscrite**, le débat se déplaçant vers la portée de l'exigence d'un original matériel et l'exception fonctionnelle liée au handicap ; enfin, la perte temporelle est objectivée par le calendrier officiel du Sénat : audition en commission le **7 octobre à 15 h**, rapport de commission le **21 octobre**, discussion en séance publique le **26 octobre 2026**.
 
 > **Correction remèdes / Strasbourg — 6 octobre 2026.** La voie normale demandée au Conseil demeure l'annulation. En cas d'annulation, l'article LO 322 du code électoral prévoit une élection partielle dans un délai de trois mois. La proclamation directe du requérant, si elle est conservée plus loin, n'est qu'une conclusion infiniment subsidiaire et exploratoire au regard de l'article 41 : aucun suffrage valable n'ayant pu être exprimé pour une candidature non enregistrée, elle ne doit jamais être présentée comme le remède normalement disponible. La CEDH n'est pas une juridiction d'appel du Conseil constitutionnel : après la décision interne définitive, chaque personne qui se prétend victime d'une violation conventionnelle doit satisfaire séparément aux conditions de recevabilité, notamment l'épuisement des recours internes normaux et effectifs et le délai de quatre mois.
 
@@ -97,6 +99,11 @@ Questions minimales :
 8. **Influence sur le scrutin** — tester sévèrement le raisonnement 134–177, les comparaisons Haute-Corse / Corse-du-Sud et toute référence aux bases politiques visibles.
 9. **Mesures d'instruction** — vérifier qu'elles sont utiles, proportionnées et formulées comme demandes de pièces existantes ou, à défaut, d'indication de leur indisponibilité.
 10. **Élagage** — identifier tout développement doctrinal, médiatique ou politique qui pourrait distraire du noyau contentieux.
+11. **Forclusion des griefs nouveaux** — vérifier que tous les moyens matériels sont contenus en substance dans la requête initiale ; un grief soulevé pour la première fois après le délai de l'article 33 peut être déclaré irrecevable.
+12. **Pièces ≠ moyens** — distinguer la faculté exceptionnelle de compléter certaines pièces au titre de l'article 35 de la possibilité d'introduire un moyen nouveau, qui n'en découle pas.
+13. **Canal de dépôt** — sécuriser un dépôt écrit, traçable et suffisamment anticipé par l'un des canaux de l'article 34 ; ne pas viser la dernière minute.
+14. **QPC A** — vérifier qu'elle attaque une disposition législative précise et non seulement une pratique administrative ou une erreur d'application ; ne pas déposer une QPC faible pour satisfaire un objectif numérique.
+15. **CEDH / répétition** — vérifier que 2017 et 2024 servent de contexte documenté et non de mécanisme artificiel de réouverture du délai ; distinguer la qualité de victime de M. Robert de celle de Mme Vernerey.
 
 Une objection adverse doit idéalement être enregistrée sous la forme :
 `proposition contestée → meilleur contre-argument → source → gravité → correction possible → effet sur les conclusions`.
@@ -335,8 +342,8 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 * **FAIT** : Le courriel préfectoral du 10 septembre et la requête préfectorale P-14 soutiennent qu'un envoi dématérialisé ne satisfait pas aux exigences applicables et invoquent l'absence de CERFA originaux physiquement produits. Le requérant rapporte qu'aucune impression suivie d'une signature sur place de son propre CERFA ne lui a été proposée ; ce dernier point reste un fait rapporté, non une trace institutionnelle établie.
 * **PREUVE** : Courriel du BEDL du 10 septembre à 20h05 (**P-06**) ; jugement du TA de Bastia du 14 septembre (**P-20**).
-* **RÈGLE** : Articles L.299 et suivants du code électoral ; article 1366 du code civil invoqué seulement pour sa portée probatoire, sous réserve de son articulation avec le formalisme électoral spécial.
-* **ÉCART** : Le requérant soutient que l'exigence matérielle appliquée doit être rattachée avec précision aux textes électoraux pertinents et confrontée aux règles de preuve invoquées, sans confondre automatiquement originalité du document et support.
+* **RÈGLE** : L'article **L.299** impose une acceptation écrite du remplaçant, revêtue de sa signature, suivie de la mention manuscrite légalement prescrite. Cette exigence est pleinement prise en compte. L'article 1366 du code civil n'est invoqué qu'à titre probatoire et ne neutralise pas, à lui seul, ce formalisme électoral spécial. La question devient donc double : **(a)** le droit applicable imposait-il, au-delà de ces exigences, un « original papier » matériel selon la portée retenue par l'administration et le TA ; **(b)** la formalité personnelle devait-elle être appréciée à la lumière de l'exception fonctionnelle reconnue en cas de handicap empêchant son accomplissement personnel ?
+* **ÉCART** : Le requérant ne nie pas le formalisme de L.299. Il soutient que le dossier a pu **sur-ajouter** à ce formalisme une exigence d'original matériel non explicitée par le texte et, surtout, traiter la formalité comme absolument personnelle sans examiner l'exception liée au handicap, au consentement éclairé et à la demande faite au tiers. Le grief porte donc moins sur une opposition abstraite « papier contre numérique » que sur la **qualification exacte de la formalité et des solutions légalement admissibles dans la situation concrète**.
 * **INCIDENCE** : Cette exigence figure parmi les motifs déterminants du refus d'enregistrement ; la portée exacte de chacun des motifs retenus doit être appréciée à partir du jugement et du dossier complet.
 * **INCERTITUDE RÉSIDUELLE** : Le fondement exact et la portée de l'exigence d'original matériel demeurent à discuter contradictoirement.
 * **MESURE D'INSTRUCTION SOLLICITÉE** : Apprécier le fondement juridique et la portée de l'exigence matérielle ayant contribué au refus d'enregistrement.
@@ -349,7 +356,7 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 * **FAITS À INSTRUIRE** : Le requérant rapporte que Mme Vernerey ne disposait pas d'imprimante, éprouvait d'importantes difficultés de déplacement et avait déjà dû être longuement assistée par téléphone pour obtenir son attestation d'inscription électorale. Il rapporte qu'après environ 1 h 30 d'assistance elle était épuisée et qu'une séquence supplémentaire consistant à sortir, imprimer, remplir ou signer, scanner puis renvoyer les documents était matériellement disproportionnée dans le temps restant. Ces circonstances fonctionnelles doivent être corroborées par les échanges contemporains et, si utile, par une déclaration de Mme Vernerey.
 * **CONSENTEMENT ET DEMANDE AU TIERS** : Le dossier contient un courriel antérieur à l'échéance dans lequel Mme Vernerey autorise expressément M. Robert à utiliser sa signature sur le formulaire où elle se porte remplaçante. Son identité et son consentement sont en outre documentés par ses pièces électorales, ses échanges et la vidéo contemporaine du 11 septembre.
 * **PREUVE** : Attestation CAF (**P-18**) ; note en délibéré (**P-19**) ; courriel du greffe du 16 septembre (**P-30**) ; courriel d'autorisation de Mme Vernerey ; attestation électorale portant sa signature ; vidéo contemporaine (**P-13**) ; échanges contemporains à verser au dossier.
-* **RÈGLE / QUESTION JURIDIQUE** : Décision du Conseil d'État du **14 mai 2021, n° 445497**, relative à l'accomplissement par un tiers de formalités manuscrites électorales lorsqu'un handicap permanent ou provisoire fait obstacle à leur accomplissement personnel, sous réserve du consentement éclairé et de la demande de l'intéressé. La présente affaire relève de L.299 ; la question est donc celle de l'applicabilité ou de la transposabilité de cette jurisprudence.
+* **RÈGLE / QUESTION JURIDIQUE** : Dans sa décision **CE, 14 mai 2021, n° 445497**, le Conseil d'État juge que la signature et la mention manuscrite normalement personnelles constituent bien des formalités nécessaires, mais admet une exception lorsqu'un **handicap permanent ou provisoire** empêche leur accomplissement personnel et que le **consentement éclairé** de l'intéressé est établi : la signature ou la mention peut alors être apposée, à sa demande, par un tiers. Cette décision concernait L.265 ; L.299 présente une structure formelle proche. La question centrale est donc celle de la transposabilité de cette exception fonctionnelle au remplaçant d'un candidat sénatorial.
 * **ÉCART ALLÉGUÉ** : Le requérant ne soutient pas que la seule perception de l'AAH dispensait Mme Vernerey des formalités. Il soutient que la combinaison d'un handicap officiellement documenté, d'un empêchement fonctionnel allégué et vérifiable, d'un consentement convergent et d'une autorisation expresse donnée au tiers imposait au minimum que cette question soit instruite avant de traiter le défaut de geste manuscrit personnel comme irrémédiablement dirimant.
 * **INCIDENCE** : Si l'exception jurisprudentielle était applicable ou transposable, la prémisse selon laquelle l'absence du geste personnel suffisait à exclure la candidature pouvait être juridiquement erronée.
 * **INCERTITUDE RÉSIDUELLE** : Étendue exacte de l'empêchement fonctionnel les 10 et 11 septembre ; contenu exhaustif des échanges ; traitement précis de la jurisprudence et du moyen handicap par la préfecture puis par la formation de jugement.
@@ -388,7 +395,7 @@ Chaque moyen d'annulation est développé selon la matrice méthodologique stric
 
 * **FAIT** : Depuis le 16 septembre 2026 à 08 h 38 min 28 s CEST, le requérant demande notamment l'identification des pièces portées aux dossiers n° 2601714 et 2601715. L'inventaire initial des seize pièces est désormais établi grâce à P-14. Restent toutefois ouverts l'existence de productions ultérieures, l'identification de « Réception d'une lettre », l'heure de mise à disposition, l'existence d'une trace d'audience, l'identité du greffier d'audience et les modalités d'accès à la minute.
 * **PREUVE** : Chaîne de courriels du greffe du TA des 16, 18 et 21 septembre ; demande résiduelle du 25 septembre ; réponse de la greffière en chef du 1er octobre à 15 h 13 min 26 s CEST ; registre public des interactions.
-* **RÈGLE** : Article L.303 du code électoral ; articles 33, 35 et 42 de l'ordonnance n° 58-1067 ; article 3 du Protocole n° 1 CEDH invoqué comme cadre d'effectivité du droit de se porter candidat.
+* **RÈGLE** : Article L.303 du code électoral ; articles 33, 35 et 42 de l'ordonnance n° 58-1067 ; article 3 du Protocole n° 1 CEDH invoqué comme cadre d'effectivité du droit de se porter candidat. La jurisprudence européenne exige en outre que le droit de se présenter soit pratique et effectif et que les procédures relatives à l'éligibilité comportent des garanties suffisantes contre l'arbitraire. Cet appui conventionnel est un cadre d'effectivité et de contrôle, non un substitut au droit électoral interne.
 * **ÉCART** : Le requérant ne soutient pas qu'il existerait un délai légal autonome imposant au greffe de répondre sous quelques heures. Il soutient que la combinaison d'une voie de recours différée, d'un délai de dix jours post-proclamation et de l'indisponibilité persistante de faits matériels détenus ou vérifiables par les institutions concernées peut réduire la capacité pratique à présenter la contestation de manière complètement informée.
 * **INCIDENCE** : Plusieurs moyens doivent être formulés avant le 7 octobre à 18 h alors que des faits utiles à leur qualification restent non établis.
 * **INCERTITUDE RÉSIDUELLE** : Existence, contenu et communicabilité exacts de certains documents ; justification propre à chacun des refus ou non-réponses ; état des réponses P1–P18 ; effet réel de ces éléments sur le jugement initial.
@@ -471,7 +478,11 @@ Il est solennellement rappelé au Conseil constitutionnel l'urgence et la gravit
    - Rendre hommage au principe d'accessibilité des personnes handicapées aux charges publiques.
 
 2. **Ce qu'une décision tardive ne pourra plus restaurer** :
-   - Si le Conseil constitutionnel ne statuait pas avant l'examen parlementaire de la révision constitutionnelle relative à la Corse au Sénat (fin octobre 2026), le mandat sénatorial de la Haute-Corse serait exercé sans que la voix de l'Autonomie de Capacité ait pu être soumise au vote des représentants territoriaux.
+   - Le calendrier officiel du Sénat rend désormais la perte temporelle mesurable : **audition de la ministre par la commission des lois le 7 octobre 2026 à 15 h**, **réunion de la commission pour le rapport le 21 octobre**, puis **discussion en séance publique le 26 octobre 2026** du projet de loi constitutionnelle pour une Corse autonome au sein de la République.
+   - Si le Conseil constitutionnel ne statuait qu'après ces étapes, tout remède ultérieur pourrait réparer l'élection elle-même sans restaurer la possibilité, déjà perdue, que l'offre « Autonomie de Capacité » soit soumise au collège électoral avant la participation du sénateur de Haute-Corse à cette séquence parlementaire.
+
+3. **Conséquence procédurale demandée sans créer de faux droit à l'urgence** :
+   - le requérant sollicite respectueusement un examen **dans les meilleurs délais compatibles avec une instruction effective**, en exposant ces dates comme un fait objectif de temporalité et non comme l'existence alléguée d'une procédure d'urgence autonome.
 
 ---
 
@@ -492,8 +503,9 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
    - La communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
 3. **JUGER, pour les besoins du contentieux de l'élection**, que le refus d'enregistrement de la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey n'était pas légalement fondé, si le Conseil retient les moyens développés ci-dessus ;
 4. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) PARIGI en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
-5. **ORDONNER** l'organisation de nouvelles opérations électorales dans la circonscription de la Haute-Corse conformément à la loi ;
+5. **TIRER LES CONSÉQUENCES LÉGALES** de cette annulation, l'article LO 322 du code électoral prévoyant qu'il est procédé à une élection partielle dans un délai de trois mois ;
 6. **À TITRE INFINIMENT SUBSIDIAIRE**, et seulement si le Conseil estime que les conditions de l'article 41 de l'ordonnance n° 58-1067 sont juridiquement réunies malgré l'empêchement de la candidature avant le scrutin, **RÉFORMER LA PROCLAMATION** de manière à assurer le remède effectif qu'il jugera légalement possible, y compris, si et seulement si son office le permet, la proclamation du requérant. Cette conclusion est volontairement exploratoire : elle ne prétend pas que le requérant a recueilli des suffrages valides permettant de constater qu'il a été « régulièrement élu » ; elle demande au Conseil de ne pas confondre l'éventuelle indisponibilité de ce remède extrême avec l'absence de tout pouvoir correctif.
+7. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu du calendrier officiel du Sénat rappelé au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
 
 ---
 
@@ -554,6 +566,9 @@ Légende :
 - [x] **Article 59 de la Constitution** : le Conseil constitutionnel est le juge de l'élection sénatoriale contestée.
 - [x] **Qualité pour agir** : candidat dont l'enregistrement a été refusé, partie au contentieux L.303 et électeur sénatorial.
 - [x] **Délai organique** : dépôt avant le **7 octobre 2026 à 18 h**.
+- [x] **Forclusion des griefs nouveaux** : tous les moyens matériels doivent être présents en substance avant l'expiration du délai. Un mémoire ultérieur peut développer un grief déjà soulevé ; il ne doit pas être utilisé pour introduire un grief électoral entièrement nouveau.
+- [x] **Article 35 ≠ délai pour de nouveaux moyens** : le Conseil peut exceptionnellement accorder un délai pour une partie des **pièces** ; cette faculté ne vaut pas réserve générale de griefs futurs.
+- [ ] **Canal de dépôt et preuve** : figer le canal de l'article 34, l'heure cible avec marge de sécurité et le mode de preuve de remise. Ne pas viser 17 h 59.
 - [x] **Articulation avec L.303** : le jugement du TA relatif au refus d'enregistrement est intégré à la contestation de l'élection après le scrutin.
 - [x] Ne pas présenter la requête comme déjà déposée ou enregistrée tant que le dépôt n'est pas effectivement accompli et tracé.
 
@@ -664,9 +679,13 @@ Légende :
 
 ### N. QPC, CEDH et Défenseur des droits : articulation sans fusion
 
-- [x] **QPC A** : accès effectif à la candidature ; pas de cristallisation sans disposition législative précise + instance admissible + droit/liberté garanti.
+- [~] **QPC A** : L.299 est la disposition candidate clairement identifiée ; il reste à formuler un grief visant **la disposition elle-même**, et non la seule mauvaise application alléguée du texte. Tester en priorité l'absence éventuelle d'aménagement législatif permettant de préserver l'effectivité de la candidature lorsque le remplaçant est empêché par un handicap d'accomplir personnellement la signature ou la mention. Une QPC faible ne doit pas être déposée uniquement pour « faire deux QPC ».
+- [x] **Précédent direct de refus de candidature sénatoriale** : la décision n° **2014-4909 SEN du 23 janvier 2015** confirme que le Conseil, saisi de l'élection, contrôle la régularité d'un refus d'enregistrement d'une candidature sénatoriale ; le précédent ne préjuge pas du fond de la présente affaire.
 - [x] **QPC B** : autonomie / effectivité ; ne pas la greffer artificiellement à la requête électorale si les conditions de l'article 61-1 ne sont pas réunies.
 - [x] **CEDH** : étage international éventuel après la décision interne définitive, pour un grief conventionnel propre et dans son délai ; pas une menace au Conseil ni un appel.
+- [x] **Article 3 P1 — effectivité / anti-arbitraire** : préserver dans la requête nationale la substance du grief selon lequel le droit de se porter candidat doit être pratique et effectif et la procédure d'éligibilité entourée de garanties suffisantes contre l'arbitraire.
+- [x] **Répétition ≠ situation continue** : 2017 et 2024 peuvent éclairer un pattern allégué ou la connaissance institutionnelle ; leur répétition ne transforme pas, sans fondement distinct, des événements achevés en violation continue rouvrant le délai européen.
+- [ ] **Matrice des victimes potentielles** : distinguer ce qui affecte directement M. Robert de ce qui affecte directement Mme Vernerey ; ne pas supposer que l'un porte automatiquement les griefs personnels de l'autre.
 - [x] **Défenseur des droits** : canal institutionnel distinct pouvant documenter accessibilité, discrimination éventuelle et effectivité ; il ne suspend pas les délais du Conseil, d'une QPC ou de Strasbourg.
 - [x] **Trace de saisine** : le 26 septembre 2026, le requérant a saisi par courriel la déléguée du Défenseur des droits en Haute-Corse sur l'effectivité des droits et des recours (**P-42**). La déléguée a ensuite été mise en copie de transmissions des 1er et 2 octobre. Au 6 octobre, aucune réponse provenant de son adresse n'a été retrouvée dans la recherche Gmail ciblée. Cette absence de réponse retrouvée est une trace d'état, non la preuve qu'aucun traitement interne n'existe.
 - [x] Invariant : **même problème d'effectivité ≠ même procédure ≠ même norme ≠ même standard de preuve**.
@@ -711,6 +730,20 @@ Lire la check-list de couverture de la version courante.
 Traiter en priorité les [ ], [~] et [?].
 Ne pas créer de document parallèle si la requête peut porter directement l'état.
 ```
+
+---
+
+## CHANGELOG v0.13 — 6 octobre 2026
+
+- passe de **plateau** orientée vers les causes de rejet plutôt que vers l'accumulation ;
+- ajoute la règle load-bearing de **forclusion des griefs nouveaux** après le délai de l'article 33, distincte de la faculté exceptionnelle de compléter des pièces prévue par l'article 35 ;
+- recentre le grief n°1 : **L.299 impose réellement signature et mention manuscrite** ; l'article 1366 reste probatoire et ne neutralise pas ce formalisme ;
+- renforce le grief n°2 par la structure exacte de **CE, 14 mai 2021, n° 445497** ;
+- ajoute le standard conventionnel d'**effectivité et de garanties contre l'arbitraire** ;
+- objective la perte temporelle avec le calendrier officiel du Sénat : **7 octobre audition, 21 octobre commission, 26 octobre séance publique** ;
+- corrige les conclusions : l'annulation entraîne l'élection partielle selon **LO 322** ;
+- ajoute une demande d'examen dans les meilleurs délais, sans prétendre à une procédure d'urgence autonome ;
+- durcit la discipline QPC et la préservation CEDH.
 
 ---
 
