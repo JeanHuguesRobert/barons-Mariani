@@ -3,9 +3,9 @@ title: "Sénatoriales Haute-Corse 2026 — Inventaire probatoire exhaustif et re
 subtitle: "Registre analytique des sources, pièces, statuts de preuve et éléments de matérialisation du dossier contentieux"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-10-05"
-version: "1.4"
-status: "working-draft — aligned with CC petition v0.6 — for human review"
+date: "2026-10-06"
+version: "1.5"
+status: "working-draft — aligned with CC petition v0.10 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -24,7 +24,9 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.6.md"
+  - "requete-conseil-constitutionnel-projet-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
+  - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
   - "investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
   - "investigation/constat-consultation-2026-10-01-rp-sen-08-c.md"
@@ -63,9 +65,9 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 Le présent document conserve le nom historique d'**inventaire probatoire**, mais il s'agit d'un **instrument analytique interne au Corpus**, plus large que la liste procédurale des pièces effectivement produites.
 
-Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.6 est :
+Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.10 est :
 
-`bordereau-pieces-requete-conseil-constitutionnel-v0.6.md`
+`bordereau-pieces-requete-conseil-constitutionnel-v0.7.md`
 
 La distinction est impérative :
 
@@ -237,6 +239,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-38** | 01/10 12:30:20 | Réponse sur cette adresse | Phrase familiale et expropriation ; train annoncé en principe à 15 h ; retard annoncé. Ni l'arrivée effective ni l'inventaire des pièces | investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md |
 | **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
 | **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
+| **P-41** | 06/10 | Annexe — déclarations publiques et commentaires de presse | Source contextuelle structurée ; distingue déclarations d'acteurs, commentaires journalistiques, faits officiels et inférences ; documente A Voce, intentions Battini rapportées, cadre adverse, Giuseppi et autonomie | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -280,15 +283,16 @@ Avant dépôt, produire un manifeste final séparant :
 
 L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant la proclamation, à 18 heures. L'article 34 permet une requête écrite adressée au secrétariat général du Conseil constitutionnel ou au représentant de l'État. Le canal matériel retenu devra être vérifié au moment du dépôt et documenté sans confondre préparation et saisine effectivement accomplie.
 
-### Contrôle de cohérence v1.4
+### Contrôle de cohérence v1.5
 
-- La requête **v0.6**, le présent inventaire **v1.4** et le **bordereau autonome v0.6** doivent rester alignés avant tout dépôt.
+- La requête **v0.10**, le présent inventaire **v1.5** et le **bordereau autonome v0.7** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
 - La « minute » demandée est la minute signée du **jugement** ; une éventuelle trace d'audience constitue un objet documentaire distinct.
 - Les pièces doctrinales P-23/P-24 ne sont pas présentées comme des normes juridiques positives applicables au litige.
 - Les résultats P-27 ne sont pas utilisés pour attribuer une intention aux électeurs blancs ou nuls.
+- P-41 conserve séparément propos politiques, commentaires de presse, résultats officiels et inférences ; elle ne sert jamais à attribuer un bulletin secret à une personne nommée.
 
 Fait à Corte, le 1er octobre 2026.
 
