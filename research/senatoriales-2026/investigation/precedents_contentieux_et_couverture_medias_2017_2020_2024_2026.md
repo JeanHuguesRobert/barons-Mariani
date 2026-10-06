@@ -11,7 +11,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.9.md"
+  - "../requete-conseil-constitutionnel-projet-v0.10.md"
   - "../media/chronologie_mentions_publiques_2026-09.md"
   - "contre_cela_naurait_rien_change_2026-10-02.md"
 ---
@@ -71,7 +71,7 @@ Le premier envoi à l'adresse de greffe fournie a échoué avec une erreur SMTP 
 
 La candidature a ensuite été déposée et maintenue en Corse-du-Sud, où le scrutin a opposé Jean-Jacques Panunzi à Jean Hugues Noël Robert / Baron Mariani.
 
-### Conclusion provisoire 2020
+### 14. Conclusion provisoire 2020
 
 À ce stade :
 
@@ -217,23 +217,126 @@ Il établit toutefois un point méthodologique fort :
 
 Cette règle est particulièrement pertinente lorsqu'on apprécie l'incidence possible d'une candidature empêchée : exiger avant le scrutin 134, 159 ou 177 soutiens publics identifiables reviendrait à utiliser un indicateur dont le scrutin lui-même montre la faiblesse.
 
-## 9. Probes restant ouverts
+## 9. Couverture médiatique longitudinale : protocole 2017 / 2020 / 2024 / 2026
+
+La répétition ne doit pas être étudiée uniquement comme une suite de contentieux. Elle doit aussi être mesurée comme une suite de **scènes médiatiques comparables**.
+
+Pour chacune des quatre candidatures, construire deux matrices séparées.
+
+### 9.1. Service public
+
+Mesurer, pour France 3 Corse ViaStella / France Télévisions et Radio France-ICI/RCFM :
+
+| Variable | Question |
+|---|---|
+| existence | la candidature est-elle simplement mentionnée ? |
+| parole directe | le candidat ou son porte-parole parle-t-il lui-même ? |
+| débat | invitation, participation, absence, refus, condition préalable ? |
+| durée | combien de minutes / quel format ? |
+| temporalité | à combien de jours du scrutin ? |
+| comparateurs | que reçoivent les autres petites candidatures ? |
+| framing | comment l'offre est-elle résumée dans le titre, le lancement et les questions ? |
+| fond | quelles propositions substantielles sont effectivement exposées ? |
+
+Le contrôle doit être comparatif. Une faible couverture n'est informative qu'en regard de la pratique envers des candidatures de taille ou de notoriété comparable.
+
+### 9.2. Médias privés et indépendants
+
+Appliquer la même grille à Corse-Matin, Corse Net Infos, Alta Frequenza et aux autres médias pertinents.
+
+Ne pas appeler « ostracisme » une simple absence de résultat de recherche. Distinguer :
+
+~~~text
+aucune trace retrouvée
+≠ aucune couverture
+≠ refus éditorial
+≠ traitement défavorable
+~~~
+
+En revanche, conserver comme trace probante tout refus explicite, toute condition éditoriale documentée, tout droit de réponse demandé, et toute différence de traitement objectivable.
+
+## 10. Traces déjà vérifiées : régulateur audiovisuel et recours
+
+### 10.1. 2017 — CSA
+
+La boîte Gmail contient un accusé du **7 juin 2017**, ticket **CSA 227435**. Le message indique que le CSA a reçu l'interpellation et renvoie, pour une émission précise, vers son formulaire de signalement.
+
+Une recherche exacte sur l'identifiant `227435` ne retrouve à ce stade que cet accusé.
+
+Une trace du 14 juin 2017 indique parallèlement que le requérant considérait alors le CSA comme n'ayant pas apporté de réponse de fond et documente sa contestation de l'absence au débat France 3.
+
+Conclusion bornée :
+
+> **saisine et accusé établis ; réponse de fond ultérieure non retrouvée dans la recherche ciblée actuelle.**
+
+### 10.2. 2024 — Arcom
+
+La boîte Gmail contient :
+
+- le 21 juin 2024, validation par l'Arcom de l'alerte **n°807989** ;
+- le 5 juillet 2024, un message de campagne adressé à plusieurs autorités avec `contact@arcom.fr`, France 3 Corse et les relations téléspectateurs de France Télévisions en copie.
+
+Une recherche exacte sur `807989` retrouve l'accusé de validation et les reprises du dossier, mais pas de décision ou réponse substantielle de l'Arcom.
+
+Conclusion bornée :
+
+> **alerte Arcom enregistrée ; réponse de fond ultérieure non retrouvée à ce stade.**
+
+Ce point est méthodologiquement important pour l'étude de l'**effectivité** : il faut distinguer l'existence d'un canal de saisine de la capacité observée de ce canal à produire une réponse motivée ou un remède.
+
+## 11. Forme, fond et framing des quatre candidatures
+
+Le comparatif 2017 / 2020 / 2024 / 2026 doit séparer trois objets :
+
+1. **l'offre réelle** : programme, propositions, alliance, titulaire/remplaçant, positionnement déclaré ;
+2. **la forme choisie par les candidats** : noms d'usage, humour, ironie, mise en scène, campagne familiale, supports, gestes symboliques ;
+3. **le framing médiatique** : termes tels que « iconoclaste », « original », anecdote, score attendu, personnalisation, ou au contraire présentation détaillée des propositions.
+
+Exemple public déjà vérifié en 2024 : Alta Frequenza décrit la candidature familiale comme « iconoclaste » et son « message original », mais son article donne aussi un contenu substantiel — RIC révocatoire, positionnement proche du Parti Pirate, critique du primat de la forme sur le fond. La bonne analyse n'est donc pas binaire « caricature / pas de caricature » : elle doit mesurer la proportion et la hiérarchie entre **personnage**, **forme** et **propositions**.
+
+Le même protocole doit être appliqué aux autres petites candidatures de la circonscription et aux quatre années, afin d'éviter de prendre une impression autobiographique pour une comparaison.
+
+### Hypothèse de travail : décoratif / effectif
+
+La proposition à tester est :
+
+~~~text
+droit formel de candidater / parler / saisir
+→ accès réel ?
+→ examen réel ?
+→ réponse motivée ?
+→ remède encore utile ?
+~~~
+
+Si la chaîne s'arrête régulièrement au stade formel, on pourra documenter un **écart d'effectivité**.
+
+Ce n'est pas, à ce stade, une qualification générale de l'État, des médias ou des juridictions. C'est une hypothèse transversale à soumettre aux traces 2017 / 2020 / 2024 / 2026.
+
+## 12. Probes restant ouverts
 
 1. retrouver, si elle existe, une preuve de réception ou d'enregistrement de la requête 2017 par le Conseil constitutionnel ;
 2. vérifier dans les autres comptes de messagerie et archives papier l'absence ou l'existence d'une saisine CC en 2020 ;
 3. archiver l'URL primaire France 3 du débat sénatorial 2A du 17 septembre 2026 ;
 4. rechercher s'il a existé un débat équivalent consacré à la Haute-Corse et en archiver la liste exacte des invités ;
 5. mesurer quantitativement les formats accordés à Pérès et Robert : nombre d'articles, interviews, durée audiovisuelle, date dans la campagne, portée potentielle ;
-6. réexaminer les traces 2017 et 2024 sous le même schéma de variables afin d'éviter une simple accumulation anecdotique.
+6. réexaminer les traces 2017 et 2024 sous le même schéma de variables afin d'éviter une simple accumulation anecdotique ;
+7. établir le comparatif service public pour les quatre candidatures 2017 / 2020 / 2024 / 2026 ;
+8. établir le comparatif médias généraux avec un échantillon de petites candidatures de contrôle ;
+9. retrouver, si elle existe, toute réponse de fond postérieure aux identifiants CSA 227435 et Arcom 807989 ;
+10. coder séparément, pour chaque article ou émission, la part « forme/personnage » et la part « propositions/fond » ;
+11. relier les résultats à la grille d'effectivité sans transformer une régularité descriptive en causalité institutionnelle.
 
-## 10. Sources de travail
+## 13. Sources de travail
 
 ### Traces Gmail relues le 6 octobre 2026
 
 - 28 juin 2017 — courriel `requete conseil constitutionnel`, pièce jointe `requête conseil constitutionnel.pdf`.
+- 7 juin 2017 — accusé CSA, ticket **227435**.
 - 14 juin 2017 — courriel `Re: Législatives, baron Mariani`.
 - 11 septembre 2020 — `Dépôt candidature sénatoriale- Refus d'enregistrement - Recours Contentieux`.
 - 12 septembre 2020 — relance documentant l'échec SMTP vers le greffe du TA.
+- 21 juin 2024 — validation Arcom de l'alerte **807989**.
+- 5 juillet 2024 — courriel de campagne avec Arcom et France Télévisions parmi les destinataires en copie.
 - 8 juillet 2024 — accusé de réception du dossier `2024-6309 AN`.
 - 9–10 juillet 2024 — demande d'informations procédurales et réponse du greffe.
 - 27 septembre 2024 — notification de la décision `2024-6309 AN`.
