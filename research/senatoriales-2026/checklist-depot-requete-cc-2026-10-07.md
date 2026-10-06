@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.1"
+version: "0.2"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -65,6 +65,8 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **2017 / 2024 / 2026** — utiliser la répétition comme contexte et hypothèse de mécanisme récurrent, non comme moyen de rouvrir les délais expirés.
 - [ ] **Revue adverse finale** — chercher d'abord les motifs de rejet : recevabilité, formalités de candidature, preuve électronique, handicap, influence, office du Conseil, demandes d'instruction, conclusions.
 - [ ] **Faits / hypothèses / arguments** — dernière passe de qualification : aucun élément rapporté ou inféré ne doit être promu silencieusement en fait acquis.
+- [ ] **Intelligible par le grand public** — vérifier qu'un lecteur non juriste peut comprendre en une lecture : ce qui s'est passé, pourquoi cela compte, quel est le seuil ou l'ordre de grandeur pertinent, et ce qui est demandé au Conseil, sans devoir reconstruire l'argument à partir des annexes.
+- [ ] **Intelligible par un juriste junior du Conseil constitutionnel** — vérifier qu'un juriste découvrant le dossier peut identifier immédiatement : compétence, recevabilité, faits matériels, griefs, normes invoquées, pièces utiles, démonstration d'influence, conclusions principales/subsidiaires et points restant incertains, sans connaissance préalable du Corpus.
 
 ## B. SHOULD BEFORE FILING
 
@@ -102,3 +104,9 @@ S'il est matériel et vérifiable :
 - QPC A : `L.299` devient le premier candidat à tester dans un mémoire distinct ;
 - QPC B : non cristallisée à ce stade ;
 - proclamation directe : désormais conclusion **infiniment subsidiaire**, explicitement exploratoire, à revoir avant dépôt.
+
+## UPDATE — 6 octobre 2026 — lisibilité double public / juriste junior
+
+- ajout d'un contrôle d'intelligibilité grand public ;
+- ajout d'un contrôle d'intelligibilité pour un juriste junior du Conseil constitutionnel ;
+- ces deux contrôles sont classés **MUST BEFORE FILING** : la requête doit être simultanément compréhensible sans jargon inutile et navigable juridiquement sans connaissance préalable du Corpus.
