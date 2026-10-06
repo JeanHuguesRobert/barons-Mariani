@@ -84,7 +84,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 ---
 
-## PROTOCOLE DE REVUE ADVERSE — v0.12
+## PROTOCOLE DE REVUE ADVERSE — v0.13
 
 La revue externe est invitée à chercher prioritairement les **motifs de rejet** plutôt que les arguments confirmatoires.
 
