@@ -83,6 +83,16 @@ La formule **« acqua in bocca »** est conservée comme image méthodologique, 
 
 La publication Facebook publique du 5 octobre utilisant la photographie du bulletin « BARON MARIANI » est tracée dans `research/senatoriales-2026/investigation/sources/facebook-publication-bulletin-baron-mariani-2026-10-05.md`. Son texte final reste modifiable sur Facebook et n'est pas prétendu archivé mot pour mot dans cette passe.
 
+## 6 octobre 2026 — déclarations publiques, presse et v0.10
+
+La requête courante passe à **v0.10** et le bordereau à **v0.7**.
+
+Une annexe publique autonome est ajoutée : [`annexe-declarations-publiques-commentaires-presse-2026-10-06.md`](../../research/senatoriales-2026/investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md).
+
+Elle conserve à la fois les éléments favorables et les formulations adverses : soutien public d'A Voce / Jean-François Baccarelli, intentions de vote Battini rapportées *sotto voce* avant le scrutin, contraste entre base institutionnelle minimale visible et **88 voix**, commentaire de M. Parigi sur une partie de la droite républicaine, cadre de presse « sans surprise » / « largement réélu », déclarations de Jean Giuseppi sur le rassemblement et l'enjeu de l'autonomie.
+
+Le point méthodologique est borné : **cinq grands électeurs** désigne une base institutionnelle minimale directement identifiable, non l'ensemble des soutiens publics et encore moins cinq bulletins attribuables. La nouvelle annexe devient **P-41**, pièce de soutien à arbitrer avant dépôt.
+
 ## 6 octobre 2026 — bulletin « BARON MARIANI » : pièce matérielle et revendication publique rapportée
 
 La photographie du bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » reste une trace matérielle établie de la consultation du 1er octobre. Elle est désormais distinguée d'un second élément : le Principal rapporte qu'un grand électeur aurait revendiqué publiquement, sur une chaîne locale, avoir déposé ce bulletin. L'identité de l'électeur, la chaîne, l'émission et l'extrait ne sont pas encore documentés dans le Corpus ; cette revendication reste donc `REPORTED` jusqu'à vérification.
@@ -157,9 +167,9 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 ## Brouillon de requête — version courante, non déposée
 
-Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.9.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md).
+Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.10.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.10.md).
 
-Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.9 part de la v0.8, consolide l'état probatoire au 6 octobre, maintient P-39 et P-40, sépare le bordereau procédural de l'inventaire analytique, et corrige la stratégie QPC en reconnaissant qu'une QPC peut être posée directement dans ce contentieux électoral sous les conditions de recevabilité propres à cette voie. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
+Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.10 part de la v0.9, ajoute l'annexe P-41 de déclarations publiques et commentaires de presse, conserve P-39 et P-40, et maintient la séparation entre bordereau procédural et inventaire analytique. Elle ne transforme ni une déclaration publique ni un commentaire journalistique en bulletin individuel.
 
 Le dépôt doit intervenir, s'il est décidé, avant le mercredi 7 octobre 2026 à 18 h. Jusqu'à une trace effective de dépôt, le contenu demeure modifiable et cette page conserve explicitement le statut **non déposé**.
 
