@@ -18,6 +18,9 @@ related:
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
+  - "pre-filing-operational-plan-2026-10-07.md"
+  - "filing-package-manifest-2026-10-07.md"
+  - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
   - "../autonomia/corse_laboratoire.md"
   - "../autonomia/amendement_effectivite_article_72-5.md"
 ---
@@ -50,7 +53,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.14.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
-- [ ] **Canal de dépôt — article 34** — décider et tester le canal : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État ; préparer une preuve horodatée de remise/transmission et une marge de sécurité significative avant 18 h.
+- [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. Le plan opérationnel recommande une remise locale anticipée au représentant de l’État avec preuve horodatée ; l’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -63,7 +66,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [x] **22–29 % / 33 %** — pourcentages entiers dans le framing public et la démonstration principale ; valeurs exactes et dénominateurs conservés dans la couche de vérification.
 - [x] **A Voce** — nature politique de l’offre 2026 intégrée et sourcée ; ne pas réduire 2026 à une répétition mécanique de la candidature de 2020.
 - [x] **"Acqua in bocca" / soutien public ≠ vote réel** — intégré comme problème d’inférence électorale, non comme essence culturelle : base institutionnelle minimale identifiable d’environ **1 % (5 grands électeurs)** contre **14 % (88 voix)** au résultat, sans attribution individuelle des bulletins.
-- [ ] **Déclarations publiques / commentaires de presse — P-41** — vérifier l'annexe ciblée avant dépôt : distinguer propos d'acteurs politiques, commentaires journalistiques, résultats officiels et inférences ; conserver aussi les formulations adverses (« sans surprise », « largement réélu ») ; vérifier chaque URL/date/auteur ; ne jamais transformer une intention rapportée ou une appartenance institutionnelle en bulletin secret.
+- [x] **Déclarations publiques / commentaires de presse — P-41** — principales sources et bornes revérifiées ; conserver comme **B — soutien / réserve**, non comme pièce du noyau à joindre par défaut. Les formulations adverses restent conservées ; aucune intention rapportée ni appartenance institutionnelle n’est transformée en bulletin secret.
 - [x] **Bulletin nul "BARON MARIANI"** — statut borné dans la v0.14 et le bordereau : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
 - [x] **Conclusions** — la v0.14 distingue annulation comme conclusion principale, mesures d’instruction subsidiaires et proclamation directe comme conclusion infiniment subsidiaire / probe exploratoire.
 - [x] **Effet de l’annulation — LO 322** — v0.14 corrigée : demander l’annulation comme remède principal et demander au Conseil d’en tirer les conséquences légales ; LO 322 prévoit l’élection partielle dans les trois mois.
@@ -86,7 +89,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Hypothèse “décoratif vs effectif”** — ne pas l'énoncer comme fait global avant matrice comparative. Tester : droit formel d'être candidat / accès réel au débat / recours accessible / réponse obtenue / remède capable de réparer. Relier cette grille à l'amendement d'effectivité sans prétendre que le droit positif consacre déjà un principe général d'effectivité.
 - [ ] **Corse laboratoire / expérimentation mesurée** — conserver l'ancrage historique vérifié : un rapport de l'Assemblée nationale qualifie explicitement 1982-1992 de « laboratoire institutionnel » et le statut de 1982 d'anticipation de la décentralisation ensuite étendue aux régions. Pour toute affirmation plus large (« nombreuses innovations généralisées »), exiger une série de cas documentés avant publication.
 - [ ] **Droit positif de l'expérimentation** — rappeler que l'article 72 de la Constitution et les articles LO1113-1 s. CGCT organisent déjà des expérimentations territoriales bornées dans le temps et évaluées ; utiliser ce voisin juridique comme précédent de méthode, non comme validation automatique de l'amendement 72-5.
-- [ ] **Revue adverse finale** — chercher d'abord les motifs de rejet : recevabilité, formalités de candidature, preuve électronique, handicap, influence, office du Conseil, demandes d'instruction, conclusions.
+- [~] **Revue adverse finale** — passe interne corrélée « motifs de rejet » effectuée et archivée ; trois risques dominants : dépôt/preuve, L.299 + exception handicap, incidence sur le scrutin. Une revue externe décorrélée reste souhaitable si disponible mais ne doit pas retarder le dépôt.
 - [x] **Précédent refus d’enregistrement — 2014-4909 SEN** — conserver le précédent direct : le Conseil, saisi de l’élection, a examiné un refus préfectoral d’enregistrement d’une candidature sénatoriale ; ne pas lui faire dire davantage sur le fond de 2026.
 - [x] **Calendrier Sénat objectivé** — 7 octobre 15 h : audition de la ministre ; 21 octobre matin : réunion de la commission pour le rapport ; 26 octobre : discussion en séance publique. Utiliser ces dates pour la perte temporelle et une demande d’examen dans les meilleurs délais, sans inventer de procédure d’urgence.
 - [ ] **Faits / hypothèses / arguments** — dernière passe de qualification : aucun élément rapporté ou inféré ne doit être promu silencieusement en fait acquis.
@@ -246,3 +249,16 @@ Passe **Fix Bugs First** sur le paquet pré-dépôt :
 - fermetures de checklist sur les points déjà effectivement résolus par la v0.14 : premier écran contentieux, statut du bulletin nul, architecture des conclusions, remedial probe, séparation Défenseur des droits, cadrage CEDH et symétrie conditionnelle.
 
 Restent volontairement ouverts les points qui exigent un acte matériel ou une vérification du paquet réellement déposé : canal et preuve de dépôt, gel pré-dépôt, concordance exacte bordereau ↔ fichiers joints, lisibilité des pièces critiques, P-41, matérialisation P-21/P-29 à P-33, et revue adverse finale centrée sur les motifs de rejet.
+
+
+## UPDATE — 6 octobre 2026 — plan de dépôt et revue de rejet
+
+Objets ajoutés :
+
+- `pre-filing-operational-plan-2026-10-07.md` — articles 33–35, canal légal, preuve de remise et marge opérationnelle ;
+- `filing-package-manifest-2026-10-07.md` — distinction Corpus / bordereau / paquet matériel / paquet remis ;
+- `../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md` — revue interne corrélée centrée sur les voies de rejet.
+
+Arbitrage P-41 : **soutien/réserve**, ne pas joindre par défaut au noyau initial.
+
+La fermeture complète du dépôt reste impossible avant vérification matérielle des pièces et obtention de la preuve réelle de remise.
