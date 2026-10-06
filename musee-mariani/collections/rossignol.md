@@ -6,7 +6,8 @@ license: CC BY-SA 4.0
 title: Rossignol — collection vivante du Musée Mariani des Possibles
 subtitle: Provenance, chronologie et statut épistémique
 date: '2026-08-22'
-version: '0.1'
+version: '0.2'
+last_modified_at: '2026-10-06'
 status: draft
 document_role: source
 document_kind: living-collection-notice
@@ -103,6 +104,35 @@ Les documents SIRE et les éventuelles pièces de reconnaissance de race devront
 | 2020–2021 | Démarches SIRE/IFCE | établi |
 | 2026 | Suivi vétérinaire ; nouvelles expérimentations à Corte | établi / en cours |
 | 2026 | Rossignol devient explicitement mascotte et ambassadeur vivant du Musée Mariani des Possibles | doctrine en cours de stabilisation |
+| 6 octobre 2026 | Appel d'une gendarme de Corte à propos d'un « signalement » concernant Rossignol ; mise en relation annoncée avec un enquêteur tiers basé à Ajaccio | témoignage direct du détenteur ; identités et cadre exact à vérifier |
+
+### 4.1 6 octobre 2026 — signalement, protection animale et mise en relation
+
+**TÉMOIGNAGE DIRECT — interaction institutionnelle, éléments externes à vérifier.** Jean Hugues Robert indique avoir reçu, le 6 octobre 2026, l'appel d'une gendarme de Corte se présentant comme **Mme Moncharmont** — nom à confirmer — et disant s'occuper notamment de protection animale.
+
+Selon le compte rendu de l'appel, elle a demandé l'autorisation de communiquer le numéro de téléphone de Jean Hugues Robert à un homme prénommé **Christophe**, basé à Ajaccio, qui serait chargé d'une enquête concernant Rossignol à la suite d'un « signalement » et interviendrait pour une fondation dont la dénomination a été comprise comme **« Assistance aux Animaux »**.
+
+Jean Hugues Robert a donné son accord à cette transmission. La gendarme a ensuite indiqué avoir envoyé un courriel à ce Christophe avec son numéro de téléphone. Le dossier public ne reproduit pas ce numéro.
+
+Au cours de l'échange, Jean Hugues Robert a présenté la **campagne pour la réintroduction de l'Âne Corse dans la vie quotidienne en ville** et a corrigé deux points :
+
+- la gendarme semblait considérer que Rossignol se trouvait en permanence sur le terrain Castelli Pochon ; Jean Hugues Robert lui a indiqué que cette représentation était fausse ;
+- elle a exprimé l'idée qu'un âne « à l'attache » serait « malheureux » ; Jean Hugues Robert a signalé, sans insister, qu'il pouvait s'agir d'une projection anthropocentrique.
+
+Ces deux éléments sont conservés comme **perceptions ou appréciations rapportées de l'interlocutrice**, et non comme constatations techniques ou vétérinaires.
+
+Toujours selon ce compte rendu, Mme Moncharmont aurait déclaré être en Corse depuis neuf ans, être logée à la gendarmerie, être « très discrète », ne pas connaître le domicile de Jean Hugues Robert au 1 cours Paoli et ne l'avoir jamais vu en personne. Ces mentions sont conservées comme **propos rapportés**, sans inférence supplémentaire.
+
+À ce stade, le dossier établit uniquement l'existence rapportée d'un **signalement** et d'une **démarche d'enquête ou de vérification**. Il ne qualifie pas ce signalement comme preuve de maltraitance, de manquement ou d'infraction.
+
+**À vérifier :**
+
+1. l'orthographe et l'identité professionnelle exacte de Mme Moncharmont ;
+2. l'identité complète de « Christophe » et son rôle exact ;
+3. son statut — salarié, bénévole, enquêteur mandaté ou autre ;
+4. la dénomination juridique exacte de la fondation évoquée ;
+5. le cadre, l'origine et l'objet précis du « signalement » ;
+6. le cas échéant, l'existence d'un mandat, d'une saisine ou d'une demande formelle liée à cette enquête.
 
 ## 5. Un cas longitudinal
 
@@ -229,6 +259,8 @@ La notice publique décrit l'existence et la portée de ces sources. Les pièces
 | Rossignol a été acheté à Eugène Tramini | **TÉMOIGNAGE DIRECT À CORROBORER** |
 | Rossignol possède une reconnaissance administrative officielle comme Âne Corse | **À VÉRIFIER** |
 | Sa présence produit des actes spontanés de soin par des tiers | **OBSERVÉ / TÉMOIGNAGES DE TERRAIN** — à documenter systématiquement |
+| Un appel d'une gendarme de Corte a eu lieu le 6 octobre 2026 à propos d'un « signalement » concernant Rossignol | **TÉMOIGNAGE DIRECT DU DÉTENTEUR** — interlocutrice, fondation, enquêteur et cadre exact à vérifier |
+| Le « signalement » établit une maltraitance ou une infraction | **NON ÉTABLI** — aucune conclusion de cette nature n'est documentée dans le dossier à ce stade |
 | Plusieurs usages contemporains peuvent contribuer à financer durablement un petit cheptel | **HYPOTHÈSE DE FAISABILITÉ** |
 | Le retour de l'âne peut constituer un commun territorial vivant | **HYPOTHÈSE DE RECHERCHE** |
 
@@ -241,13 +273,16 @@ La notice publique décrit l'existence et la portée de ces sources. Les pièces
 5. Constituer une chronologie minimale des soins sans publier les données inutiles.
 6. Documenter prospectivement les observations de terrain : pâturage, interactions, incidents, soins distribués et usages.
 7. Relier la future étude de faisabilité du retour de l'âne aux quatre fonctions économiques testées.
+8. Identifier précisément Mme Moncharmont et « Christophe » à partir d'une source institutionnelle ou documentaire.
+9. Vérifier la dénomination et le statut exacts de la fondation évoquée comme « Assistance aux Animaux ».
+10. Documenter l'objet précis du « signalement » et toute suite formelle donnée à l'enquête, sans publier de données personnelles inutiles.
 
 ## 16. Continuation
 
 ```yaml
 continuation:
   document: "Rossignol — collection vivante du Musée Mariani des Possibles"
-  version: "0.1"
+  version: "0.2"
   status: "working"
 
   acquis:
@@ -255,6 +290,7 @@ continuation:
     - "Rossignol est un cas longitudinal de présence asine à Minesteggio et Corte."
     - "La distinction faits / témoignages / interprétations / vérifications est explicitée."
     - "Le lien avec Musée des Possibles, République des Ânes, communs et critère Rossignol est posé."
+    - "L'appel du 6 octobre 2026 relatif à un signalement de protection animale est conservé comme témoignage direct, avec séparation entre faits rapportés, appréciations et vérifications."
 
   prochaine_action:
     - "Corroborer l'achat auprès d'Eugène Tramini."
@@ -262,6 +298,7 @@ continuation:
     - "Créer la fiche de possible 'Retour de l'âne corse dans la vie quotidienne'."
     - "Créer ou compléter l'atelier 'culture de l'âne' à Minesteggio."
     - "Documenter les quatre fonctions : éco-pâturage, guide, médiation animale, petit élevage conservatoire."
+    - "Identifier les acteurs et le cadre exact du signalement du 6 octobre 2026 ; documenter toute suite institutionnelle sans surqualifier les faits."
 
   principe:
     - "Ne jamais sacrifier le bien-être animal à la démonstration."
