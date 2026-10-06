@@ -41,8 +41,8 @@ preparation:
   living_view: ../suivi.md
   constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
   remedies_strategy: ../../../research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md
-  petition_version: "0.9"
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.10.md
+  petition_version: "0.10"
   petition_status: "working-draft — pre-filing consolidation — not filed"
   petition_sync_policy: "When the Corpus promotes a newer petition as current before filing, update this pointer and the living view in the same editorial movement; do not duplicate the petition text."
   note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
