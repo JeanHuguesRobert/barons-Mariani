@@ -115,6 +115,20 @@ Elle ne permet pas, à elle seule :
 
 Ces questions doivent rester séparées et faire l'objet de probes distincts.
 
+## 5 bis. Manifestation publique rapportée — statut distinct de la pièce matérielle
+
+Le Principal rapporte en outre qu'un grand électeur aurait revendiqué publiquement, sur une chaîne de télévision locale, avoir déposé ce bulletin.
+
+À ce stade du Corpus :
+
+- **l'existence matérielle du bulletin** est documentée par la consultation et les photographies du 1er octobre ;
+- **l'existence d'une revendication publique** est `REPORTED` par le Principal ;
+- **l'identité de l'électeur**, **la chaîne**, **l'émission**, **la date de diffusion** et **l'extrait vidéo** ne sont pas encore identifiés dans une source indépendante accessible ;
+- il ne faut donc pas fusionner la pièce matérielle établie avec l'attribution personnelle encore non vérifiée.
+
+Même sans identification de son auteur, le bulletin constitue au minimum une **trace matérielle d'une expression électorale en faveur d'une offre absente du bulletin officiel**. La revendication publique, si elle est retrouvée et authentifiée, pourrait ajouter un lien entre cette trace et une intention explicitement assumée ; elle ne doit pas être présentée comme établie avant ce probe.
+
+
 ## 6. Partage Google Drive
 
 Les deux fichiers sont bien copiés dans le dossier Google Drive :
