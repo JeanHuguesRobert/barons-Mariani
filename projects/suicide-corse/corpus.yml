@@ -346,6 +346,18 @@ sources:
     required: false
     note: "Working draft for human review. It must not be described as filed unless a separate receipt trace establishes filing."
 
+  - id: senatoriales-2026-constitutional-petition-current
+    path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md
+    role: current-pre-filing-legal-draft
+    required: false
+    note: "Current public pre-filing draft as of 2026-10-06; not filed unless and until a separate filing trace establishes submission."
+
+  - id: senatoriales-2026-remedies-repetition-strategy
+    path: research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md
+    role: remedies-and-escalation-strategy
+    required: false
+    note: "Separates CC election litigation, candidate QPCs, Defender of Rights, and a possible later ECHR application; treats 2017/2024/2026 as repetition context, not automatic revival of expired deadlines, and keeps direct proclamation as an explicitly exploratory remedial probe."
+
 
   - id: possible
     path: research/rational_odysseys_the_possible.md
