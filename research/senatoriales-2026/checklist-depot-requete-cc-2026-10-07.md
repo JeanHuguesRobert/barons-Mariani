@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.7.md"
+  - "requete-conseil-constitutionnel-projet-v0.9.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.6.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -43,7 +43,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 ## A. MUST BEFORE FILING
 
 - [ ] **Délai** — confirmer et respecter l'échéance du **7 octobre 2026 à 18 h**.
-- [ ] **Version canonique de dépôt** — identifier explicitement la version de requête réellement déposée ; ne pas déposer une version portant encore un statut ambigu ou une numérotation incohérente.
+- [~] **Version canonique de dépôt** — la v0.9 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
 - [ ] **Premier écran contentieux** — vérifier juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions.
 - [ ] **Fondement du recours** — vérifier l'articulation Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -59,7 +59,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Bulletin nul "BARON MARIANI"** — conserver son statut exact : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
 - [ ] **Conclusions** — distinguer nettement conclusions principales, subsidiaires et probes exploratoires.
 - [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
-- [ ] **QPC** — ne pas présenter "deux QPC" comme disponibles par simple volonté : pour chaque QPC, identifier disposition législative précise, instance admissible, applicabilité et question nouvelle/sérieuse.
+- [~] **QPC** — correction procédurale acquise : une QPC peut être posée directement au Conseil constitutionnel dans le contentieux électoral parlementaire. Reste à cristalliser séparément chaque mémoire : disposition législative précise, applicabilité au litige, droit/liberté garanti, nouveauté/sérieux. QPC A : L.299 est le premier candidat à tester. QPC B reste ouverte faute de disposition législative applicable identifiée.
 - [ ] **Défenseur des droits** — garder sa saisine distincte du recours CC ; ne lui attribuer aucun effet suspensif sur les délais.
 - [ ] **CEDH** — ne pas présenter Strasbourg comme un appel du Conseil constitutionnel ; conserver la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
 - [ ] **2017 / 2024 / 2026** — utiliser la répétition comme contexte et hypothèse de mécanisme récurrent, non comme moyen de rouvrir les délais expirés.
@@ -93,3 +93,12 @@ Un point découvert en chemin n'a pas besoin d'attendre la prochaine "grande ver
 S'il est matériel et vérifiable :
 
 > **on l'ajoute, on le relie, on le qualifie, puis on le ferme quand la Réalité a répondu.**
+
+
+## UPDATE — 6 octobre 2026 — v0.9
+
+- brouillon courant promu : `requete-conseil-constitutionnel-projet-v0.9.md` ;
+- correction matérielle : la QPC est directement possible à l'occasion du contentieux électoral parlementaire devant le Conseil constitutionnel ; le verrou n'est donc plus l'instance mais la **qualité juridique de chaque question** ;
+- QPC A : `L.299` devient le premier candidat à tester dans un mémoire distinct ;
+- QPC B : non cristallisée à ce stade ;
+- proclamation directe : désormais conclusion **infiniment subsidiaire**, explicitement exploratoire, à revoir avant dépôt.
