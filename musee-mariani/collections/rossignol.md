@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 title: Rossignol — collection vivante du Musée Mariani des Possibles
 subtitle: Provenance, chronologie et statut épistémique
 date: '2026-08-22'
-version: '0.2'
+version: '0.3'
 last_modified_at: '2026-10-06'
 status: draft
 document_role: source
@@ -37,7 +37,7 @@ provenance:
 
 # Rossignol — collection vivante du Musée Mariani des Possibles
 
-> **Statut.** Notice canonique provisoire v0.1. Elle distingue explicitement les faits documentés, le témoignage du détenteur, les inférences et les éléments restant à vérifier. Les sources privées sont décrites sans être publiées.
+> **Statut.** Notice canonique provisoire v0.3. Elle distingue explicitement les faits documentés, le témoignage du détenteur, les inférences et les éléments restant à vérifier. Les sources privées sont décrites sans être publiées.
 
 ## 1. Résumé public
 
@@ -93,6 +93,27 @@ Les recherches menées dans les courriels anciens n'ont pas encore retrouvé la 
 
 Les documents SIRE et les éventuelles pièces de reconnaissance de race devront être relus avant toute affirmation administrative précise.
 
+### 3.4 Identité et caractéristiques actuelles
+
+Cette section rassemble les éléments d'identité utiles sans transformer les observations du détenteur en diagnostic vétérinaire.
+
+| Caractéristique | État actuel |
+|---|---|
+| Nom | **Rossignol** |
+| Espèce | âne (*Equus asinus*) |
+| Type / race | qualifié usuellement d'**Âne Corse** ; statut administratif exact à vérifier dans les documents SIRE/IFCE |
+| Âge | environ **20 ans en 2026** selon le détenteur ; date de naissance exacte à vérifier |
+| Présence documentée auprès du détenteur | depuis juillet 2009 |
+| Historique de travail | **aucun travail régulier** selon le détenteur : Rossignol n'a jamais été employé pour la traction, le portage ou une autre activité de travail imposée |
+| État apparent actuel | **excellent selon les observations du détenteur** ; cette appréciation ne se substitue pas à un examen vétérinaire |
+| Suivi vétérinaire | suivi documenté en 2026, notamment par un devis de bilan de santé de la Clinique vétérinaire de l'Orta |
+| Lieux de vie documentés | Minesteggio puis environnement de Corte ; présence temporaire sur différentes parcelles, dont Castelli Pochon |
+| Fonctions actuelles explorées | compagnie et présence patrimoniale, éco-pâturage expérimental, ambassadeur vivant du Musée Mariani des Possibles, participant à *La République des Ânes* |
+
+**TÉMOIGNAGE DIRECT — historique d'effort.** Jean Hugues Robert indique que Rossignol n'a jamais été utilisé comme animal de travail. Ce point doit être distingué de l'exercice spontané, des déplacements, de la pâture et des activités expérimentales non assimilables à un historique de travail régulier.
+
+**OBSERVATION DU DÉTENTEUR — état actuel.** Selon toutes les apparences observables par son détenteur, Rossignol est actuellement en excellente santé générale. Cette observation est conservée comme telle ; elle ne constitue ni un diagnostic clinique ni une certification vétérinaire.
+
 ## 4. Chronologie minimale
 
 | Date | Événement | Statut |
@@ -117,9 +138,12 @@ Jean Hugues Robert a donné son accord à cette transmission. La gendarme a ensu
 Au cours de l'échange, Jean Hugues Robert a présenté la **campagne pour la réintroduction de l'Âne Corse dans la vie quotidienne en ville** et a corrigé deux points :
 
 - la gendarme semblait considérer que Rossignol se trouvait en permanence sur le terrain Castelli Pochon ; Jean Hugues Robert lui a indiqué que cette représentation était fausse ;
-- elle a exprimé l'idée qu'un âne « à l'attache » serait « malheureux » ; Jean Hugues Robert a signalé, sans insister, qu'il pouvait s'agir d'une projection anthropocentrique.
+- elle a exprimé l'idée qu'un âne « à l'attache » serait « malheureux » ; Jean Hugues Robert a signalé, sans insister, qu'il pouvait s'agir d'une projection anthropocentrique ;
+- la gendarme a également semblé présenter Rossignol comme un âne « vieux ». Jean Hugues Robert lui a répondu que Rossignol avait environ **20 ans** et qu'un âne pouvait vivre couramment au-delà de 30 ans, certains individus atteignant 40 ans ou davantage.
 
-Ces deux éléments sont conservés comme **perceptions ou appréciations rapportées de l'interlocutrice**, et non comme constatations techniques ou vétérinaires.
+Ces éléments sont conservés comme **perceptions ou appréciations rapportées de l'interlocutrice**, et non comme constatations techniques ou vétérinaires.
+
+**VÉRIFICATION POSTÉRIEURE — 6 octobre 2026.** Les références vétérinaires consultées après l'appel confirment qu'un âne de 20 ans entre dans une catégorie d'âge justifiant une surveillance accrue, sans que cet âge signifie à lui seul une proximité de fin de vie. L'âge chronologique doit être distingué de l'état sanitaire et fonctionnel réel de l'animal. Pour Rossignol, le détenteur indique en outre une absence d'historique de travail et un excellent état apparent actuel ; ces deux éléments restent respectivement un témoignage direct et une observation du détenteur tant qu'ils ne sont pas corroborés par des pièces ou un examen clinique.
 
 Toujours selon ce compte rendu, Mme Moncharmont aurait déclaré être en Corse depuis neuf ans, être logée à la gendarmerie, être « très discrète », ne pas connaître le domicile de Jean Hugues Robert au 1 cours Paoli et ne l'avoir jamais vu en personne. Ces mentions sont conservées comme **propos rapportés**, sans inférence supplémentaire.
 
@@ -258,6 +282,10 @@ La notice publique décrit l'existence et la portée de ces sources. Les pièces
 | Rossignol vit dans l'environnement de Minesteggio/Corte depuis environ 17 ans | **ÉTABLI** dans la limite de la continuité documentaire disponible |
 | Rossignol a été acheté à Eugène Tramini | **TÉMOIGNAGE DIRECT À CORROBORER** |
 | Rossignol possède une reconnaissance administrative officielle comme Âne Corse | **À VÉRIFIER** |
+| Rossignol a environ 20 ans en 2026 | **TÉMOIGNAGE DIRECT DU DÉTENTEUR** — date de naissance exacte à vérifier |
+| Rossignol n'a jamais été utilisé comme animal de travail régulier | **TÉMOIGNAGE DIRECT DU DÉTENTEUR** |
+| Rossignol paraît actuellement en excellente santé générale | **OBSERVATION DU DÉTENTEUR** — ne vaut pas diagnostic vétérinaire |
+| L'âge de 20 ans suffit à qualifier Rossignol comme animal en fin de vie ou nécessitant un placement | **NON ÉTABLI** — l'âge chronologique seul ne suffit pas |
 | Sa présence produit des actes spontanés de soin par des tiers | **OBSERVÉ / TÉMOIGNAGES DE TERRAIN** — à documenter systématiquement |
 | Un appel d'une gendarme de Corte a eu lieu le 6 octobre 2026 à propos d'un « signalement » concernant Rossignol | **TÉMOIGNAGE DIRECT DU DÉTENTEUR** — interlocutrice, fondation, enquêteur et cadre exact à vérifier |
 | Le « signalement » établit une maltraitance ou une infraction | **NON ÉTABLI** — aucune conclusion de cette nature n'est documentée dans le dossier à ce stade |
@@ -282,7 +310,7 @@ La notice publique décrit l'existence et la portée de ces sources. Les pièces
 ```yaml
 continuation:
   document: "Rossignol — collection vivante du Musée Mariani des Possibles"
-  version: "0.2"
+  version: "0.3"
   status: "working"
 
   acquis:
@@ -291,6 +319,8 @@ continuation:
     - "La distinction faits / témoignages / interprétations / vérifications est explicitée."
     - "Le lien avec Musée des Possibles, République des Ânes, communs et critère Rossignol est posé."
     - "L'appel du 6 octobre 2026 relatif à un signalement de protection animale est conservé comme témoignage direct, avec séparation entre faits rapportés, appréciations et vérifications."
+    - "Une fiche d'identité et de caractéristiques distingue désormais âge, historique de travail, état apparent et suivi vétérinaire."
+    - "La remarque rapportée de la gendarme sur le caractère « vieux » de Rossignol est conservée avec la réponse du détenteur et une vérification postérieure bornée."
 
   prochaine_action:
     - "Corroborer l'achat auprès d'Eugène Tramini."
