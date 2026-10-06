@@ -41,8 +41,8 @@ preparation:
   living_view: ../suivi.md
   constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
   remedies_strategy: ../../../research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.10.md
-  petition_version: "0.10"
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.11.md
+  petition_version: "0.11"
   petition_status: "working-draft — pre-filing consolidation — not filed"
   petition_sync_policy: "When the Corpus promotes a newer petition as current before filing, update this pointer and the living view in the same editorial movement; do not duplicate the petition text."
   note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
@@ -67,3 +67,20 @@ outputs:
   optional: []
   status: "preparation render; publication_status remains draft; not a freeze"
   technical_manifest: required
+
+editorial_checklist:
+  - id: n4-close-revolution-unfinished
+    status: open
+    priority: medium
+    purpose: "Préparer une conclusion historique et métacognitive distincte du noyau contentieux, sans l'insérer dans la requête sauf décision expresse."
+    requirements:
+      - "Partir de la formule authentifiée du 15 décembre 1799 : « La Révolution est fixée aux principes qui l'ont commencée : elle est finie. »"
+      - "Mettre cette formule en tension, sans téléologie, avec les débats historiographiques sur continuité/rupture, société d'ordres, société de classes et reproduction sociale."
+      - "Ne pas écrire que les privilèges contemporains sont juridiquement ceux de l'Ancien Régime ; distinguer privilège de droit, inégalité de fait, reproduction sociale et concentration patrimoniale."
+      - "Traiter « la Révolution n'est pas finie » et « l'Histoire n'est pas finie » comme thèses éditoriales / métaphores, non comme résultats historiques démontrés."
+      - "Corriger Spartacus : il est mort au combat et son corps n'a pas été retrouvé ; environ 6 000 survivants/captifs de son armée furent crucifiés sur la voie Appienne."
+      - "Pour Napoléon, privilégier la maxime documentable sur le sabre et l'esprit ; ne pas attribuer sans source une préférence rétrospective personnelle pour la plume."
+      - "Relier Paoli/Napoléon au Projet #1755 avec prudence : influence et réception documentables, filiation constitutionnelle à démontrer."
+      - "Prévoir un lien documentaire vers projects/1755 / research/autonomia/projet_1755.md."
+      - "Classer les annexes par thème et priorité de lecture : A essentiel juridico-probatoire ; B contexte politique/électoral ; C histoire des idées / 1755 ; D prolongements européens et métacognitifs."
+      - "Conserver la conclusion littéraire hors du bordereau probatoire sauf utilité juridique identifiée."
