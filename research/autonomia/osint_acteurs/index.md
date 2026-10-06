@@ -76,6 +76,15 @@ Une qualification d’influence n’est jamais déduite d’un simple titre.
 | [Aurélia Beauchier Dompietrini](aurelia_beauchier_dompietrini.md) | collaboratrice déclarée à la HATVP en 2022 ; statut sénatorial courant à reconfirmer | moyenne |
 | [Mélissa Savalli Sarrola](melissa_savalli_sarrola.md) | collaboratrice parlementaire actuellement visible dans le trombinoscope du Sénat | moyenne |
 
+## Deuxième vague — cabinet de Jean-Jacques Panunzi
+
+| Acteur | Situation | Priorité |
+|---|---|---:|
+| [Jean-Jacques Panunzi](jean_jacques_panunzi.md) | sénateur de Corse-du-Sud réélu le 27 septembre 2026 ; vote direct sur le texte constitutionnel | maximale |
+| [Marie-Paule Berti](marie_paule_berti.md) | collaboratrice parlementaire ; activité publique déclarée au cabinet du maire d’Ajaccio | moyenne |
+| [Arnaud Costantini](arnaud_costantini.md) | collaborateur parlementaire ; collaborateur de groupe à la Collectivité de Corse, anciennement identifié comme attaché de Per l’Avvene | moyenne à élevée |
+| [Thu Van de Gouvion Saint Cyr](thu_van_de_gouvion_saint_cyr.md) | collaboratrice parlementaire ; autre collaboration sénatoriale documentée | moyenne |
+
 ## État documentaire notable au 6 octobre 2026
 
 La déclaration d’intérêts HATVP déposée par Paul Toussaint Parigi le 2 décembre 2022 énumère trois collaborateurs : Anne Barbolosi, Mélissa Savalli Sarrola et Aurélia Beauchier-Dompietrini.
@@ -91,7 +100,7 @@ Prochaine vague recommandée :
 1. composition 2026 de la commission des lois et rapporteur du texte sur l’autonomie ;
 2. présidence et rapporteurs capables d’influer sur le texte ;
 3. responsables du groupe auquel Parigi est rattaché ;
-4. Jean-Jacques Panunzi et autres acteurs parlementaires corses ;
+4. autres acteurs parlementaires corses et responsables de groupes sénatoriaux ;
 5. Gouvernement et ministres directement porteurs du dossier ;
 6. exécutif et Assemblée de Corse ;
 7. acteurs politiques corses disposant d’une capacité de coalition ou d’obstruction ;
@@ -102,6 +111,9 @@ Prochaine vague recommandée :
 - Sénat — dossier législatif autonomie : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Sénat — trombinoscope des collaborateurs par département : https://www.senat.fr/trombinoaga/trombinoDP_2B.html
 - HATVP — fiche Paul Toussaint Parigi : https://www.hatvp.fr/fiche-nominative/?declarant=parigi-paul-toussaint-20910
+- Sénat — fiche Jean-Jacques Panunzi : https://www.senat.fr/senateur/panunzi_jean_jacques14191v.html
+- HATVP — fiche Jean-Jacques Panunzi : https://www.hatvp.fr/fiche-nominative/?declarant=panunzi-jean-jacques
+- Ministère de l’Intérieur — sénatoriales 2026, Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
 - Corpus — Atlas : ../atlas_paysage_politique_corse.md
 - Corpus — addendum septembre 2026 : ../atlas_paysage_politique_corse_addendum_2026-09.md
 - Corpus — chronologie Beauvau : ../../chronologie_processus_beauvau_corse.md
@@ -112,3 +124,5 @@ Prochaine vague recommandée :
 - Quelle répartition publique des fonctions entre collaborateurs peut être établie sans inférence ?
 - Quel sénateur sera rapporteur du texte lors de l’examen d’octobre 2026 ?
 - Quels acteurs détiennent réellement les principaux leviers d’amendement, de coalition et de verrouillage du texte ?
+- Quelle est la composition exacte de l’équipe de Panunzi après sa réélection de septembre 2026 ?
+- Quel rôle public documentable jouent les interfaces Sénat / mairie d’Ajaccio / Assemblée de Corse autour de son cabinet ?
