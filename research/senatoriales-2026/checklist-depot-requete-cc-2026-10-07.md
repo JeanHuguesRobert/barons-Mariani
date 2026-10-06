@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.8"
+version: "0.9"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -47,7 +47,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
 - [~] **Version canonique de dépôt** — la v0.14 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [ ] **Premier écran contentieux** — vérifier juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.14.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [ ] **Canal de dépôt — article 34** — décider et tester le canal : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État ; préparer une preuve horodatée de remise/transmission et une marge de sécurité significative avant 18 h.
@@ -64,19 +64,19 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [x] **A Voce** — nature politique de l’offre 2026 intégrée et sourcée ; ne pas réduire 2026 à une répétition mécanique de la candidature de 2020.
 - [x] **"Acqua in bocca" / soutien public ≠ vote réel** — intégré comme problème d’inférence électorale, non comme essence culturelle : base institutionnelle minimale identifiable d’environ **1 % (5 grands électeurs)** contre **14 % (88 voix)** au résultat, sans attribution individuelle des bulletins.
 - [ ] **Déclarations publiques / commentaires de presse — P-41** — vérifier l'annexe ciblée avant dépôt : distinguer propos d'acteurs politiques, commentaires journalistiques, résultats officiels et inférences ; conserver aussi les formulations adverses (« sans surprise », « largement réélu ») ; vérifier chaque URL/date/auteur ; ne jamais transformer une intention rapportée ou une appartenance institutionnelle en bulletin secret.
-- [ ] **Bulletin nul "BARON MARIANI"** — conserver son statut exact : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
-- [ ] **Conclusions** — distinguer nettement conclusions principales, subsidiaires et probes exploratoires.
+- [x] **Bulletin nul "BARON MARIANI"** — statut borné dans la v0.14 et le bordereau : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
+- [x] **Conclusions** — la v0.14 distingue annulation comme conclusion principale, mesures d’instruction subsidiaires et proclamation directe comme conclusion infiniment subsidiaire / probe exploratoire.
 - [x] **Effet de l’annulation — LO 322** — v0.14 corrigée : demander l’annulation comme remède principal et demander au Conseil d’en tirer les conséquences légales ; LO 322 prévoit l’élection partielle dans les trois mois.
-- [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
+- [x] **Remède extrême** — décision explicite : la proclamation directe est conservée comme conclusion infiniment subsidiaire et probe exploratoire ; elle n’est pas présentée comme le remède normalement disponible.
 - [~] **QPC** — correction procédurale acquise : une QPC peut être posée directement au Conseil constitutionnel dans le contentieux électoral parlementaire. Reste à cristalliser séparément chaque mémoire : disposition législative précise, applicabilité au litige, droit/liberté garanti, nouveauté/sérieux. QPC A : L.299 est le premier candidat à tester. QPC B reste ouverte faute de disposition législative applicable identifiée.
 - [~] **Kill-switch QPC** — ne pas faire du nombre de QPC un objectif. QPC A n’est déposée que si le grief attaque réellement L.299 lui-même et satisfait les conditions organiques ; QPC B reste hors dépôt si aucune disposition législative applicable et question sérieuse ne sont stabilisées.
-- [ ] **Défenseur des droits** — garder sa saisine distincte du recours CC ; ne lui attribuer aucun effet suspensif sur les délais.
+- [x] **Défenseur des droits** — saisine maintenue distincte du recours CC ; aucun effet suspensif sur les délais ne lui est attribué.
 - [x] **Trace Défenseur des droits — P-42** — saisine du 26 septembre vérifiée dans Gmail ; déléguée mise en copie les 1er et 2 octobre ; aucune réponse provenant de son adresse retrouvée dans la recherche ciblée au 6 octobre. Ne pas écrire « aucune réponse n'existe », mais « aucune réponse retrouvée ».
 - [ ] **Corpus complet des courriels** — conserver et indexer tous les courriels matériellement pertinents avec préfecture, TA, Défenseur des droits, remplaçante et autres acteurs ; distinguer **complétude de conservation** et **sélectivité de production au Conseil**.
 - [ ] **Minute du jugement / demandes réitérées au TA — P-21, P-29 à P-33** — matérialiser dans le recueil la chaîne native des courriels établissant que l’accès à la **minute signée du jugement**, l’identité du greffier d’audience et les éventuelles traces matérielles d’audience ont été recherchés de façon réitérée dans la fenêtre contentieuse, sans communication de la minute à ce jour. Faire apparaître au minimum la séquence des **16, 21 et 25 septembre**, puis la réponse du **1er octobre** ; distinguer strictement **demande établie**, **réponse reçue** et **pièce non communiquée**. La requête doit renvoyer explicitement à cette chaîne lorsqu’elle sollicite la production de la minute au titre des mesures d’instruction.
 - [x] **Correspondance Laurence — P-43** — index vérifié créé à partir de Gmail ; messages décisifs identifiés (préparation, identité, autorisation expresse, porte-parole, vidéo, AAH). Ne pas republier dans GitHub le contenu privé intégral ; produire au Conseil seulement ce qui est nécessaire, avec minimisation.
-- [ ] **CEDH** — ne pas présenter Strasbourg comme un appel du Conseil constitutionnel ; conserver la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
-- [ ] **Symétrie seulement conditionnelle** — Robert comme Parigi ne peuvent envisager Strasbourg qu’en qualité personnelle de victime d’un grief conventionnel défendable. La fermeture de la voie interne ne crée pas, à elle seule, un droit à un examen au fond par la CEDH et n’a pas d’effet suspensif automatique sur la décision du Conseil constitutionnel.
+- [x] **CEDH** — la v0.14 ne présente pas Strasbourg comme un appel du Conseil constitutionnel et conserve la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
+- [x] **Symétrie seulement conditionnelle** — la v0.14 explicite que Robert comme Parigi ne peuvent envisager Strasbourg qu’en qualité personnelle de victime d’un grief conventionnel défendable ; la fermeture de la voie interne ne crée pas à elle seule un droit à un examen au fond.
 - [x] **2017 / 2024 / 2026** — répétition conservée comme contexte, connaissance institutionnelle et hypothèse de mécanisme récurrent ; **répétition ≠ situation continue** et ne rouvre pas, à elle seule, les délais expirés.
 - [ ] **Qualité de victime CEDH — matrice Robert / Vernerey** — séparer les griefs directement subis par le candidat de ceux directement liés à la remplaçante et au handicap ; ne pas présumer qu’un requérant peut porter automatiquement le grief personnel de l’autre.
 - [ ] **Comparatif média service public — 2017 / 2020 / 2024 / 2026** — inventorier, pour chacune des quatre candidatures, France 3 Corse ViaStella / France Télévisions et Radio France-ICI/RCFM : invitation ou non aux débats, entretiens, durée/format, date dans la campagne, présentation éditoriale, comparateurs parmi les autres petites candidatures ; distinguer trace d'absence de couverture, absence réellement vérifiée et refus explicite.
@@ -232,3 +232,17 @@ S'il est matériel et vérifiable :
 - ajout **P-43** : index probatoire de la correspondance avec Laurence Vernerey ;
 - règle nouvelle : **tout courriel matériellement pertinent doit être conservé et indexé ; tout courriel conservé n'a pas vocation à être annexé** ;
 - priorité pré-dépôt : matérialiser les messages natifs effectivement cités dans la requête et vérifier qu'aucune pièce privée redondante n'alourdit le dossier.
+
+
+## UPDATE — 6 octobre 2026 — FBF v0.9
+
+Passe **Fix Bugs First** sur le paquet pré-dépôt :
+
+- requête courante : `v0.14` ;
+- bordereau courant : `v0.8` ;
+- inventaire probatoire : aligné sur `v0.14` ;
+- corrections des références résiduelles `v0.13` / `v0.11` / bordereau `v0.7` lorsqu’elles prétendaient décrire l’état courant ;
+- contrôle mécanique du bordereau : séquence continue `P-01` à `P-43`, aucune pièce citée par la requête n’est absente du bordereau ;
+- fermetures de checklist sur les points déjà effectivement résolus par la v0.14 : premier écran contentieux, statut du bulletin nul, architecture des conclusions, remedial probe, séparation Défenseur des droits, cadrage CEDH et symétrie conditionnelle.
+
+Restent volontairement ouverts les points qui exigent un acte matériel ou une vérification du paquet réellement déposé : canal et preuve de dépôt, gel pré-dépôt, concordance exacte bordereau ↔ fichiers joints, lisibilité des pièces critiques, P-41, matérialisation P-21/P-29 à P-33, et revue adverse finale centrée sur les motifs de rejet.
