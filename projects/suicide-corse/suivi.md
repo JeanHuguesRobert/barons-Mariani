@@ -28,6 +28,19 @@ review:
 
 # Suivi du numéro 4
 
+## 6 octobre 2026 — sécurisation opérationnelle du dépôt
+
+La branche pré-dépôt dispose désormais de trois objets opérationnels supplémentaires :
+
+- `pre-filing-operational-plan-2026-10-07.md` : canal légal, preuve de remise et marge de sécurité ;
+- `filing-package-manifest-2026-10-07.md` : distinction entre Corpus, bordereau, paquet matériel et paquet effectivement remis ;
+- `review_internal_requete_cc_motifs_rejet_2026-10-06.md` : revue interne corrélée centrée sur les motifs de rejet.
+
+La chaîne TA P-29 à P-33 est également indexée dans `investigation/chaine-ta-p29-p33-2026-10-06.md`.
+
+Le statut reste **non déposé**. Aucun de ces objets ne vaut preuve de saisine. Le prochain changement d'état éditorial pertinent sera la matérialisation du paquet réellement remis puis la preuve effective de dépôt.
+
+
 ## 6 octobre 2026 — instrumentation de l’effectivité
 
 Deux objets de recherche deviennent désormais des sources canoniques utiles au n°4 sans être recopiés dans le magazine :
