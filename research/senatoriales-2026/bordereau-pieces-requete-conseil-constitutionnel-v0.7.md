@@ -1,5 +1,5 @@
 ---
-title: "Sénatoriales Haute-Corse 2026 — bordereau de pièces — projet v0.6"
+title: "Sénatoriales Haute-Corse 2026 — bordereau de pièces — projet v0.7"
 subtitle: "Projet autonome de liste des pièces destinées à soutenir la requête au Conseil constitutionnel"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
