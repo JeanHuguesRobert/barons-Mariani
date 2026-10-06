@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.3"
+version: "0.4"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -17,6 +17,9 @@ related:
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
+  - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
+  - "../autonomia/corse_laboratoire.md"
+  - "../autonomia/amendement_effectivite_article_72-5.md"
 ---
 
 # Checklist agile — dépôt de la requête au Conseil constitutionnel
@@ -64,6 +67,13 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Défenseur des droits** — garder sa saisine distincte du recours CC ; ne lui attribuer aucun effet suspensif sur les délais.
 - [ ] **CEDH** — ne pas présenter Strasbourg comme un appel du Conseil constitutionnel ; conserver la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
 - [ ] **2017 / 2024 / 2026** — utiliser la répétition comme contexte et hypothèse de mécanisme récurrent, non comme moyen de rouvrir les délais expirés.
+- [ ] **Comparatif média service public — 2017 / 2020 / 2024 / 2026** — inventorier, pour chacune des quatre candidatures, France 3 Corse ViaStella / France Télévisions et Radio France-ICI/RCFM : invitation ou non aux débats, entretiens, durée/format, date dans la campagne, présentation éditoriale, comparateurs parmi les autres petites candidatures ; distinguer trace d'absence de couverture, absence réellement vérifiée et refus explicite.
+- [ ] **Comparatif média général — 2017 / 2020 / 2024 / 2026** — même grille pour Corse-Matin, Corse Net Infos, Alta Frequenza et autres médias significatifs ; comparer les petites candidatures entre elles, pas seulement aux favoris.
+- [ ] **Forme et fond des quatre candidatures** — documenter séparément : titulaire/remplaçant, étiquette ou alliance, offre politique effectivement formulée, thèmes de fond, dispositif de campagne, originalités de forme, et manière dont les médias résument ou caricaturent éventuellement cette offre ; ne pas confondre ton éditorial et description du programme.
+- [ ] **CSA / Arcom / juridictions — effectivité des recours** — tracer pour 2017 et 2024 les saisines, accusés, numéros, réponses de fond éventuelles et absence de suite retrouvée. État vérifié au 6 octobre : ticket CSA **227435** accusé le 7 juin 2017 ; alerte Arcom **807989** validée le 21 juin 2024 ; recherche ciblée actuelle sans réponse de fond retrouvée sous ces identifiants. Une absence de réponse retrouvée n'est pas encore une preuve d'absence absolue.
+- [ ] **Hypothèse “décoratif vs effectif”** — ne pas l'énoncer comme fait global avant matrice comparative. Tester : droit formel d'être candidat / accès réel au débat / recours accessible / réponse obtenue / remède capable de réparer. Relier cette grille à l'amendement d'effectivité sans prétendre que le droit positif consacre déjà un principe général d'effectivité.
+- [ ] **Corse laboratoire / expérimentation mesurée** — conserver l'ancrage historique vérifié : un rapport de l'Assemblée nationale qualifie explicitement 1982-1992 de « laboratoire institutionnel » et le statut de 1982 d'anticipation de la décentralisation ensuite étendue aux régions. Pour toute affirmation plus large (« nombreuses innovations généralisées »), exiger une série de cas documentés avant publication.
+- [ ] **Droit positif de l'expérimentation** — rappeler que l'article 72 de la Constitution et les articles LO1113-1 s. CGCT organisent déjà des expérimentations territoriales bornées dans le temps et évaluées ; utiliser ce voisin juridique comme précédent de méthode, non comme validation automatique de l'amendement 72-5.
 - [ ] **Revue adverse finale** — chercher d'abord les motifs de rejet : recevabilité, formalités de candidature, preuve électronique, handicap, influence, office du Conseil, demandes d'instruction, conclusions.
 - [ ] **Faits / hypothèses / arguments** — dernière passe de qualification : aucun élément rapporté ou inféré ne doit être promu silencieusement en fait acquis.
 - [ ] **Intelligible par le grand public** — vérifier qu'un lecteur non juriste peut comprendre en une lecture : ce qui s'est passé, pourquoi cela compte, quel est le seuil ou l'ordre de grandeur pertinent, et ce qui est demandé au Conseil, sans devoir reconstruire l'argument à partir des annexes.
@@ -121,3 +131,13 @@ S'il est matériel et vérifiable :
 - règle de crible : conserver les sources favorables **et** le framing adverse ; distinguer acteur / journaliste / résultat primaire / inférence ;
 - point de vigilance renforcé : « cinq grands électeurs » désigne une **base institutionnelle minimale directement identifiable**, jamais l'ensemble des soutiens publics ni cinq bulletins attribuables ;
 - avant dépôt, décider si P-41 est effectivement jointe ou reste une pièce de soutien/réserve.
+
+
+## UPDATE — 6 octobre 2026 — répétition, médias, effectivité, Corse laboratoire
+
+- ouverture d'un comparatif longitudinal **2017 / 2020 / 2024 / 2026** de la couverture du service public et de la couverture médiatique générale, avec comparateurs parmi les petites candidatures ;
+- ajout d'une analyse séparée de la **forme** et du **fond** des quatre candidatures afin de mesurer les écarts entre offre réellement formulée et présentation médiatique ;
+- traces institutionnelles confirmées : CSA ticket **227435** (2017) et Arcom alerte **807989** (2024) ; aucune réponse de fond retrouvée sous ces identifiants dans la recherche Gmail ciblée au 6 octobre ;
+- l'hypothèse « droit décoratif / droit effectif » devient une **hypothèse à tester par chaîne d'effectivité**, pas une conclusion présupposée ;
+- ancrage historique confirmé par une source parlementaire : la Corse est explicitement décrite comme **« laboratoire de la décentralisation »** pour la séquence ouverte en 1982 ;
+- la généralisation « de nombreuses innovations corses ont ensuite été reprises ailleurs » reste à démontrer cas par cas ; ne pas sur-vendre ce point avant inventaire.
