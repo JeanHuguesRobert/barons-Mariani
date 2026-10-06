@@ -12,7 +12,7 @@ lifecycle_state: active
 update_policy: UP-DEFAULT-REVIEWED
 related_case: "Sénatoriales Haute-Corse 2026"
 related_documents:
-  - "../requete-conseil-constitutionnel-projet-v0.13.md"
+  - "../requete-conseil-constitutionnel-projet-v0.14.md"
   - "../investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "../../autonomia/amendement_effectivite_article_72-5.md"
 review:
