@@ -14,7 +14,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 conditional_premise: "Le refus d’enregistrement est supposé illégal dans cette pièce. Ce point est traité ailleurs et n’est pas démontré ici."
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.11.md"
+  - "../requete-conseil-constitutionnel-projet-v0.12.md"
   - "borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "analyse_statistique_comparee_2A_2B_2020_2026.md"
   - "analyse_exposition_collegial_senatoriales_2026.md"
