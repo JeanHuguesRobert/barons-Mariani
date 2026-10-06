@@ -23,6 +23,9 @@ related_documents:
   - title: Amendement d’effectivité — article 72-5
     path: research/autonomia/amendement_effectivite_article_72-5.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
+  - title: OSINT — acteurs du processus d’autonomie de la Corse
+    path: research/autonomia/osint_acteurs/index.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/osint_acteurs/index.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 last_stamped_at: 2026-09-26T00:00:00.000Z
 document_role: source
@@ -59,6 +62,7 @@ Ce document appartient à un ensemble de quatre fichiers destinés à être publ
 - [Atlas du paysage politique et discursif corse](atlas_paysage_politique_corse.md)
 - [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
 - [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
+- [OSINT — acteurs du processus d’autonomie de la Corse](osint_acteurs/index.md)
 
 Formule de travail :
 
