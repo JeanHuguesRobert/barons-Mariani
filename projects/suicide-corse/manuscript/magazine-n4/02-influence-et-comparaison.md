@@ -12,6 +12,7 @@ lifecycle_state: working
 source_documents:
   - "../../../research/senatoriales-2026/investigation/contre_cela_naurait_rien_change_2026-10-02.md"
   - "../../../research/senatoriales-2026/investigation/analyse_statistique_comparee_2A_2B_2020_2026.md"
+  - "../../../research/senatoriales-2026/investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
 ---
 
 # Deux analyses, pas une prédiction
@@ -48,6 +49,10 @@ Autour de Nicolas Battini, la base institutionnelle directement identifiable doc
 Le vote étant secret, cela ne permet pas d'attribuer 88 bulletins à des soutiens nommés. Cela montre en revanche qu'une carte des soutiens publics n'est pas une carte des bulletins.
 
 La formule corse **« acqua in bocca »** résume ici une discipline d'enquête : ne pas confondre ce qui est publiquement déclaré avec ce qui se produit effectivement dans l'isoloir.
+
+Une annexe spécifique ajoute les déclarations et commentaires contemporains qui permettent de tester cette idée. Elle conserve aussi les formulations adverses — « sans surprise », « largement réélu » — parce qu'elles décrivent honnêtement le duel observé. La question contentieuse reste différente : ces commentaires ne mesurent pas le scrutin à trois offres qui n'a pas eu lieu.
+
+Avant le vote, Alta Frequenza rapportait déjà que des grands électeurs, *sotto voce*, envisageaient de voter Battini plutôt que blanc. Après le vote, le même média souligne le contraste entre cinq grands électeurs institutionnellement lisibles et 88 voix. Ce double temps renforce le point méthodologique : la carte publique n'est pas le vote.
 
 ## Une trace publique du 5 octobre
 
