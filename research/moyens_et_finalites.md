@@ -10,8 +10,8 @@ description: >
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-last_modified_at: "2026-10-05"
-version: "0.4-draft"
+last_modified_at: "2026-10-06"
+version: "0.5-draft"
 status: "working-paper"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/moyens_et_finalites.md"
 license: "CC BY-SA 4.0"
@@ -55,11 +55,13 @@ review_lineage:
   - "2026-09-30 — internal adverse pass by GPT-5.6 Sol; correlated; does not clear review.status"
   - "2026-10-04 — external adverse review by Claude Sonnet 5.5; decorrelation assessed as medium; findings assimilated provisionally in v0.3"
   - "2026-10-05 — external adverse review by Grok 4.7; high decorrelation on target text, medium-low on author doctrine; first pass frozen before cross-review"
+  - "2026-10-06 — internal adverse review by GPT-5.6 Sol; highly correlated; used only for instrumentation and corpus-integration; does not clear review.status"
 version_history:
   - "v0.1-draft (2026-09-30) — première formalisation ; trois cas électoraux, chaîne capacitaire, hypothèses falsifiables, revue adverse interne et contrat de revue externe."
   - "v0.2-draft (2026-10-04) — réévaluation contre le Corpus ; distinction Logical Packet / Packet Capsule / document / transport, causal frontier, Review Packet dérivé, Trace Treatment Packet et cycle de vie."
   - "v0.3-draft (2026-10-04) — assimilation préparatoire de la revue adverse Claude : correction des incohérences internes, allègement de l'enveloppe Packet, rétention des revues matérielles, symétrisation des traces, pré-enregistrement de H4, et séparation plus nette entre papier de fond et méthode."
   - "v0.4-draft (2026-10-05) — assimilation préparatoire des revues Claude + Grok : H1 requalifiée en critère normatif conditionnel ; article 3 distingué de l'article 27 ; H3 scindée agrégée/distributionnelle ; H4 reformulée en voies alternatives hétérogènes ; finalités pluralisées et sourcées ; ajout d'un cas adverse ; H5/H6 ramenées à des heuristiques tant qu'aucun cas discriminant n'est établi."
+  - "v0.5-draft (2026-10-06) — instrumentation de la grille par EIM v0.2 ; H4 gelée comme baseline prospective ; ajout du remedial probe comme quatrième cas ; H5 reformulée comme décomposition de l'effectivité des remèdes ; enveloppe Packet déplacée hors du noyau argumentatif."
 related_documents:
   - "research/autonomia/amendement_effectivite_article_72-5.md"
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
@@ -70,6 +72,9 @@ related_documents:
   - "projects/capable/doctrine.md"
   - "JeanHuguesRobert/cogentia:research/documents_as_cognitive_packets.md"
   - "JeanHuguesRobert/cogentia:research/trace_treatment_packet.md"
+  - "JeanHuguesRobert/cogentia:research/effectivity_interaction_matrix.md"
+  - "JeanHuguesRobert/cogentia:research/eim_examples/2026-10-06-moyens-finalites-h4.yaml"
+  - "JeanHuguesRobert/cogentia:research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml"
 x-cognitive-packet:
   candidate: true
   profile: "document-backed-capsule"
@@ -78,52 +83,24 @@ x-cognitive-packet:
   transmission_modes:
     - "markdown-file"
     - "copy-paste"
-  current_phase: "post-grok-integration"
+  current_phase: "instrumented-internal-review"
 ---
 
 # Moyens et finalités
 
 ## 0. Statut du document
 
-Ce document est la **représentation documentaire courante d'un travail cognitif vivant** et constitue une **Packet Capsule candidate** du Cognitive Packet logique « Moyens et finalités ».
+Ce document est un **working paper vivant, non stabilisé et soumis à revue adverse**.
 
-Il faut distinguer :
-
-```text
-Logical Cognitive Packet
-≠ Packet Capsule
-≠ document Markdown
-≠ emplacement Git
-≠ copie transmise à un Reviewer
-```
-
-L'hypothèse de travail est que plusieurs représentations peuvent porter la continuité d'un même travail cognitif sans que leur support, leur chemin ou leur sérialisation en constitue l'identité. Cette identité reste provisoire : le Corpus ne dispose pas encore d'un identifiant de Packet indépendant du stockage ni d'un critère entièrement stabilisé de continuité logique.
-
-Il n'est ni une conclusion juridique sur le contentieux sénatorial de 2026, ni un programme institutionnel arrêté, ni une démonstration déjà stabilisée.
+Il n'est ni une conclusion juridique sur le contentieux sénatorial de 2026, ni un programme institutionnel arrêté, ni une démonstration déjà acquise.
 
 Son objet est de faire progresser une question :
 
-> **Que devient la légitimité d'un moyen institutionnel lorsque ses effets réels commencent à réduire les capacités nécessaires à la finalité qui justifiait ce moyen ?**
+> **Que devient la légitimité d'un moyen institutionnel lorsque ses effets réels commencent à réduire les capacités nécessaires aux finalités qui justifiaient ce moyen ?**
 
-Le document doit pouvoir évoluer par :
+Les cas contentieux ou parlementaires étudiés sont des **Reality Cases** : ils servent à tester la grille, non à transformer la grille en preuve du dossier.
 
-```text
-exploration
-→ Redactor
-→ Packet Capsule documentaire
-→ Reviewer décorrélé
-→ Review / Objection Packet
-→ dispositions
-→ arbitrage humain
-→ assimilation
-→ nouvelle Packet Capsule
-→ Reality Tests
-→ nouvelles traces
-→ éventuels Hypothesis / Trace Treatment Packets
-→ stabilisation éventuelle
-```
-
-Son cycle de vie fait partie de son contenu méthodologique.
+La mécanique Cognitive Packet, le cycle de revue et les questions d'identité documentaire sont conservés en annexe méthodologique. Ils ne constituent aucune prémisse nécessaire à H1-H6.
 
 # 1. Point de départ : une finalité ne se confond pas avec son moyen
 
@@ -251,6 +228,56 @@ possibilité
 ```
 
 Une possibilité restaurée après la fermeture de sa fenêtre d'action n'est pas nécessairement équivalente à celle qui existait avant sa disparition.
+
+# 3 bis. Instrument d'observation : Effectivity Interaction Matrix
+
+Depuis octobre 2026, le Corpus dispose d'une **Effectivity Interaction Matrix (EIM) v0.2** qui fournit une représentation source-first des interactions :
+
+```text
+subject
+→ request / expected effect
+→ target actor
+→ trigger
+→ response / silence
+→ routing
+→ evidence
+→ capability effect
+→ continuation
+```
+
+Elle distingue notamment :
+
+- la demande et l'effet attendu ;
+- le détenteur de l'information, l'autorité de décision, le transmetteur et le contrôleur ;
+- l'état observable de la réponse ;
+- l'état de la preuve ;
+- l'effet sur la capacité ;
+- la temporalité, l'irréversibilité et les continuations possibles.
+
+Cette matrice ne démontre pas *Moyens et finalités*.
+
+Elle lui fournit une **surface d'observation**.
+
+La relation proposée est donc :
+
+```text
+Moyens et finalités
+= cadre d'interprétation
+
+EIM
+= instrument d'observation, de gel et de continuation
+
+Reality Test
+= confrontation de la prédiction ou qualification au résultat observable
+```
+
+Une notion du présent papier qui ne peut être reliée à aucune observation, trace ou critère de changement de conclusion doit rester une hypothèse ou une heuristique.
+
+Sources :
+
+- https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md
+- https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml
+- https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml
 
 # 4. Trois distinctions indispensables
 
@@ -726,6 +753,56 @@ Il faut distinguer :
 
 Une nouvelle élection peut, par exemple, restaurer substantiellement une possibilité juridique sans recréer exactement l'événement historique qui n'a pas eu lieu.
 
+# 11 bis. Cas IV — Effectivité des remèdes
+
+L'architecture contentieuse récente fournit un quatrième cas, distinct du grief électoral lui-même.
+
+Elle oblige à séparer :
+
+```text
+un remède existe en droit
+≠
+ce remède est disponible dans ce cas
+≠
+ce remède est accessible dans le temps utile
+≠
+ce remède restaure effectivement la capacité perdue
+```
+
+L'article 41 de l'ordonnance organique du 7 novembre 1958 montre que le Conseil constitutionnel dispose abstraitement de pouvoirs correctifs dans le contentieux des élections parlementaires.
+
+Cela ne démontre pas que chacun de ces pouvoirs est disponible dans la présente affaire.
+
+En particulier, la proclamation directe de l'auteur demeure un **remedial probe infiniment subsidiaire et exploratoire**, non l'affirmation qu'il aurait été régulièrement élu.
+
+Le test est utile parce qu'il empêche une inférence trop rapide :
+
+```text
+ce remède extrême est probablement indisponible ici
+→ donc aucun remède n'existe
+```
+
+qui serait invalide.
+
+Inversement, l'existence abstraite d'un pouvoir correctif ne permet pas non plus de conclure :
+
+```text
+un remède existe
+→ donc la capacité historique perdue est restaurable
+```
+
+Le cas est instrumenté dans l'EIM :
+
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml
+
+Trois questions y sont séparées :
+
+1. existence abstraite d'un pouvoir correctif ;
+2. disponibilité de ce pouvoir dans le cas ;
+3. capacité réellement restaurée compte tenu du temps écoulé.
+
+Ce cas donne à H5 une fonction opérationnelle plus précise sans établir une théorie nouvelle du temps ou du recours effectif.
+
 # 12. Friction, désajustement, inversion
 
 Le document réserve le terme **inversion moyen–fin** aux cas suffisamment établis.
@@ -877,25 +954,50 @@ Le test doit porter sur la distribution des refus et leurs motifs, non sur la se
 
 ### H4 — voies alternatives hétérogènes vers l'amendement
 
-**Statut : observation en cours ; ne pas appeler automatiquement cela redondance.**
+**Statut : baseline prospective instrumentée ; ne pas appeler automatiquement cela redondance.**
 
-Le pré-enregistrement de v0.3 était insuffisamment discriminant. Toute nouvelle version devra fixer avant observation :
+H4 est désormais gelée dans une incarnation EIM :
 
-- les destinataires saisis ;
-- la date de transmission ;
-- le contenu transmis ;
-- la date limite utile ;
-- ce qui compte comme réponse, reprise, refus explicite et silence ;
-- la distinction entre refus de canal et désaccord substantiel ;
-- la causalité minimale exigée pour attribuer une reprise à la transmission.
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml
 
-Un dépôt peut démontrer qu'une autre voie a fonctionné dans ce cas ; il ne prouve pas automatiquement la substituabilité avec la voie personnelle perdue.
+Cette baseline enregistre ce qui est établi et, surtout, ce qui ne l'est pas encore.
 
-### H5 — temporalité
+Établi :
 
-**Statut : heuristique descriptive, non contribution distincte établie.**
+- une proposition d'amendement candidate est publiquement disponible ;
+- des canaux parlementaires antérieurs de contribution sont documentés.
 
-La distinction entre réparation juridique, restauration fonctionnelle et restitution historique reste utile. La prétention de nouveauté est suspendue tant qu'aucun cas ne montre un résultat opérationnel différent de la forclusion, de la perte de chance, du recours effectif ou de la path dependence.
+Non établi dans le corpus examiné au moment du gel :
+
+- quels titulaires précis du droit d'amendement ont reçu directement cette version ;
+- à quelle date ;
+- selon quel routage ;
+- quelle était, pour chaque voie, la date limite utile officiellement vérifiée ;
+- si une éventuelle reprise parlementaire serait causalement liée à cette transmission.
+
+Le test ne transforme donc ni la publication en réception, ni le silence en refus, ni un éventuel dépôt indépendant en validation automatique de H4.
+
+Un acte parlementaire ultérieur pourra démontrer qu'une autre voie a fonctionné dans ce cas seulement si la relation entre la transmission et cet acte est suffisamment traçable. Il ne prouvera pas automatiquement la substituabilité avec la voie personnelle perdue.
+
+### H5 — temporalité et effectivité des remèdes
+
+**Statut : heuristique instrumentée, non contribution théorique distincte établie.**
+
+H5 est désormais testée sur l'architecture des remèdes :
+
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml
+
+La question opérationnelle devient :
+
+```text
+remède juridiquement existant
+→ disponible dans ce cas ?
+→ accessible à temps ?
+→ quelle capacité restaure-t-il ?
+→ quelle part demeure irréversible ?
+```
+
+La distinction entre réparation juridique, restauration fonctionnelle et restitution historique reste utile. La prétention de nouveauté demeure suspendue tant qu'aucun cas ne montre un résultat analytique ou décisionnel différent de la forclusion, de la perte de chance, du recours effectif ou de la path dependence.
 
 ### H6 — effets cumulatifs
 
@@ -917,6 +1019,37 @@ La préparation de cette version a vérifié directement :
   https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044248785/
 
 La décision `2017-172 PDR` et les données détaillées de présentations citées par la revue Grok doivent encore être intégrées avec une URL primaire stable vérifiée avant stabilisation de la v0.4. Elles restent donc, dans cette version, **revue-sourcées mais non re-vérifiées par le Redactor**.
+
+# Annexe A — Enveloppe documentaire et cycle de revue
+
+Le travail reste compatible avec l'architecture Cognitive Packet du Corpus.
+
+Il faut distinguer :
+
+```text
+Logical Cognitive Packet
+≠ Packet Capsule
+≠ document Markdown
+≠ emplacement Git
+≠ copie transmise à un Reviewer
+```
+
+Cette distinction concerne la transmission, la reprise et l'audit du travail. Elle ne fonde aucune proposition institutionnelle de ce papier et peut être ignorée par un lecteur intéressé seulement par *Moyens et finalités*.
+
+Le cycle documentaire reste :
+
+```text
+exploration
+→ Redactor
+→ capsule documentaire
+→ Reviewer
+→ objections
+→ dispositions
+→ arbitrage humain
+→ nouvelle capsule
+→ Reality Tests
+→ nouvelles traces
+```
 
 # 16. Revue adverse interne — historique corrélé
 
