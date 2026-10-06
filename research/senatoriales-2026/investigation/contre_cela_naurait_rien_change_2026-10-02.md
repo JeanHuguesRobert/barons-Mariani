@@ -148,7 +148,7 @@ Le vote sénatorial est secret.
 
 Le scrutin du 27 septembre fournit lui-même un exemple particulièrement instructif de la distance entre les soutiens politiquement visibles et les suffrages effectivement déposés.
 
-Après le scrutin, Alta Frequenza relève que Nicolas Battini disposait d’une **base institutionnelle directement identifiable de cinq grands électeurs : quatre à Bastia et une à Biguglia**.
+Après le scrutin, Alta Frequenza décrit Nicolas Battini comme disposant de **« seulement quatre grands électeurs à Bastia, et une à Biguglia »**. Cette formulation journalistique fournit une **borne institutionnelle minimale publiquement rattachable à son camp** ; elle ne constitue ni cinq déclarations individuelles de vote, ni la preuve de cinq bulletins Battini.
 
 Le noyau institutionnel directement documenté peut être nommé sans déduire pour autant le bulletin secret de chacun :
 
@@ -160,13 +160,13 @@ Le noyau institutionnel directement documenté peut être nommé sans déduire p
 
 La Ville de Bastia publie la liste des 64 grands électeurs bastiais, où figurent Battini, Idda, Bruschini et Serra ; les résultats municipaux officiels identifient les trois premiers comme élus de Populu di Bastia, tandis que la délibération du 5 juin permet d’identifier Serra comme délégué supplémentaire. La mairie de Biguglia identifie Audrey Mori parmi les élus d’opposition, et sa qualité de remplaçante de Nicolas Battini est attestée par les candidatures sénatoriales publiques.
 
-Cette base visible de cinq grands électeurs représente **moins de 1 % du collège (5 sur 616)**.
+Cette base institutionnelle minimale publiquement rattachable représente **moins de 1 % du collège (5 sur 616)**.
 
 Le résultat réel de Nicolas Battini est pourtant de :
 
 > **14 % du collège (88 voix).**
 
-Il obtient donc **83 voix de plus** que cette base institutionnelle minimale directement identifiable, soit un score environ **18 fois supérieur**.
+Son score agrégé est donc **83 voix supérieur** à cette base institutionnelle minimale publiquement rattachable, soit environ **18 fois sa taille**. Cela ne permet pas d'attribuer individuellement les 88 bulletins.
 
 La presse d’avant-scrutin signalait déjà que « quelques maires de droite » s’étaient positionnés en sa faveur ; après le scrutin, Alta Frequenza attribue une partie importante de son score au ralliement d’électeurs de la droite républicaine privée de candidat.
 
@@ -182,7 +182,7 @@ Il ne s’agit pas d’affirmer que « les Corses cachent leur vote » comme rè
 
 Il s’agit d’observer, dans **ce scrutin précis**, que :
 
-> **un noyau institutionnel directement lisible de 5 grands électeurs a coexisté avec un résultat de 88 voix.**
+> **une base institutionnelle minimale publiquement rattachable de 5 grands électeurs a coexisté avec un résultat agrégé de 88 voix.**
 
 Le secret du vote interdit d’écrire que ces cinq personnes ont effectivement déposé un bulletin Battini ; en revanche, l’écart entre le noyau politiquement documenté et le score agrégé est, lui, observable.
 
