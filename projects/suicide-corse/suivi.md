@@ -83,6 +83,12 @@ La formule **« acqua in bocca »** est conservée comme image méthodologique, 
 
 La publication Facebook publique du 5 octobre utilisant la photographie du bulletin « BARON MARIANI » est tracée dans `research/senatoriales-2026/investigation/sources/facebook-publication-bulletin-baron-mariani-2026-10-05.md`. Son texte final reste modifiable sur Facebook et n'est pas prétendu archivé mot pour mot dans cette passe.
 
+## 6 octobre 2026 — bulletin « BARON MARIANI » : pièce matérielle et revendication publique rapportée
+
+La photographie du bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » reste une trace matérielle établie de la consultation du 1er octobre. Elle est désormais distinguée d'un second élément : le Principal rapporte qu'un grand électeur aurait revendiqué publiquement, sur une chaîne locale, avoir déposé ce bulletin. L'identité de l'électeur, la chaîne, l'émission et l'extrait ne sont pas encore documentés dans le Corpus ; cette revendication reste donc `REPORTED` jusqu'à vérification.
+
+Pour le n°4, la portée éditoriale est précise : le bulletin ne mesure pas un score, mais il montre qu'une expression électorale en faveur de l'offre absente a matériellement existé dans l'urne. Si la revendication publique est retrouvée et authentifiée, elle pourra renforcer la chaîne d'imputabilité sans extrapolation aux 39 autres bulletins nuls.
+
 ## 5 octobre 2026 — consolidation pré-dépôt v0.7
 
 Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.7 renforce le grief d'influence par le framing 22–29 % / 33 %, le soutien A Voce et l'écart entre base visible et vote réel ; elle distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
