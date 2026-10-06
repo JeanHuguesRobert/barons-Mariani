@@ -50,6 +50,8 @@ Statut de ce manifeste :
 
 ## 4. Chaîne TA
 
+Index de lecture : `investigation/chaine-ta-p29-p33-2026-10-06.md`.
+
 La séquence P-29 à P-33 doit être matérialisée comme une chaîne intelligible :
 
 ~~~text
