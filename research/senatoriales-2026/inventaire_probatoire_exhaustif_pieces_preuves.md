@@ -4,8 +4,8 @@ subtitle: "Registre analytique des sources, pièces, statuts de preuve et élém
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
-version: "1.5"
-status: "working-draft — aligned with CC petition v0.10 — for human review"
+version: "1.6"
+status: "working-draft — aligned with CC petition v0.11 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -24,8 +24,8 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "requete-conseil-constitutionnel-projet-v0.10.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
+  - "requete-conseil-constitutionnel-projet-v0.11.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
   - "investigation/forensic-provenance-requete-prefectorale-2026-10-02.md"
@@ -65,6 +65,8 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 Le présent document conserve le nom historique d'**inventaire probatoire**, mais il s'agit d'un **instrument analytique interne au Corpus**, plus large que la liste procédurale des pièces effectivement produites.
 
+**Règle de complétude des courriels :** tous les courriels matériellement pertinents doivent rester identifiables et préservés dans le corpus probatoire, idéalement sous leur forme native. Cette complétude de conservation ne signifie pas que tous doivent être annexés au dépôt initial : la production demeure sélective, liée aux moyens invoqués, et minimisée lorsqu'elle implique des données privées ou sensibles.
+
 Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.10 est :
 
 `bordereau-pieces-requete-conseil-constitutionnel-v0.7.md`
@@ -87,7 +89,7 @@ Le dossier probatoire est organisé autour de trois supports complémentaires :
 2. **des pièces individuelles**, conservant leur format natif lorsque cela est utile à la preuve des métadonnées ;
 3. **un registre d'intégrité**, contenant pour les pièces volumineuses ou non publiques leur désignation, leur empreinte cryptographique lorsqu'elle est disponible, leur détenteur et leur mode de communication possible.
 
-La version publique du Corpus ne doit pas devenir le seul support d'une pièce nécessaire au contentieux. Les pièces comportant des données personnelles non nécessaires à la publicité sont produites institutionnellement sans publication intégrale.
+La version publique du Corpus ne doit pas devenir le seul support d'une pièce nécessaire au contentieux. Les pièces comportant des données personnelles non nécessaires à la publicité sont produites institutionnellement sans publication intégrale. Cela vaut en particulier pour **P-43**, dont le Corpus public conserve l'index et la fonction probatoire, non le contenu privé intégral.
 
 ### 2. Portée de Git et des empreintes cryptographiques
 
@@ -195,7 +197,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 
 ---
 
-## VIII. REGISTRE MATRICIEL — 40 PIÈCES / ENSEMBLES DE PIÈCES
+## VIII. REGISTRE MATRICIEL — 43 PIÈCES / ENSEMBLES DE PIÈCES
 
 | N° | Date & heure | Intitulé | Portée probatoire bornée | Source / support |
 |---|---|---|---|---|
@@ -240,6 +242,8 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
 | **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
 | **P-41** | 06/10 | Annexe — déclarations publiques et commentaires de presse | Source contextuelle structurée ; distingue déclarations d'acteurs, commentaires journalistiques, faits officiels et inférences ; documente A Voce, intentions Battini rapportées, cadre adverse, Giuseppi et autonomie | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
+| **P-42** | 26/09 + 01–02/10 | Saisine Défenseur des droits et suivi | Saisine sur l’effectivité ; aucune réponse de la déléguée retrouvée au 06/10 dans la recherche Gmail ciblée ; état de trace, pas preuve d’absence de traitement | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
+| **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Participation, consentement, aide matérielle, porte-parole, vidéo, accessibilité ; source privée, production sélective/minimisée | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + Gmail natif |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -285,7 +289,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v1.5
 
-- La requête **v0.10**, le présent inventaire **v1.5** et le **bordereau autonome v0.7** doivent rester alignés avant tout dépôt.
+- La requête **v0.11**, le présent inventaire **v1.6** et le **bordereau autonome v0.8** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
