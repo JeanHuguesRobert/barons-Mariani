@@ -3,7 +3,7 @@ title: "Contre « cela n’aurait rien changé » — premier tour, Haute-Corse,
 subtitle: "Pièce sur l’influence du refus d’enregistrement"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-10-02"
-version: "0.6"
+version: "0.7"
 status: "working — public — relié au projet de requête au Conseil constitutionnel"
 language: "fr"
 document_role: "source"
@@ -215,6 +215,8 @@ Son attribution au seul nombre de candidats ne l’est pas.
 Mais son attribution à une prétendue inertie du collège ne l’est pas davantage.
 
 ## 7. La question posée au Conseil constitutionnel
+
+L'article 38 de l'ordonnance n° 58-1067 du 7 novembre 1958 fournit ici le critère procédural direct : le Conseil peut rejeter sans instruction contradictoire préalable une requête irrecevable ou ne contenant que des griefs qui « manifestement ne peuvent avoir une influence sur les résultats de l'élection ».
 
 La présente pièce ne soutient pas :
 
