@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.1"
+version: "0.2"
 status: "working-paper — documentary analysis"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -120,9 +120,9 @@ Le registre public consulté en 2026 indique toujours :
 - siège INSEE : Villa Minesteggio, route de Castirla ;
 - association non reconnue d'utilité publique.
 
-Le fait que le siège public soit route de Castirla est cohérent avec le **projet 2018**, mais ne suffit pas à prouver que l'ensemble de ce projet a été adopté : un changement d'adresse peut résulter d'une déclaration distincte.
+Le siège public route de Castirla **ne constitue plus aucun indice en faveur d'une adoption du projet 2018** : le récépissé et le Journal officiel montrent que Villa Menesteggio / route de Castirla était déjà le siège déclaré lors de la constitution administrative en 1995–1996.
 
-Inversement, le scan historique de 1995 ne précise que « Corte, Corse », donc il n'explique pas à lui seul l'adresse route de Castirla publiée aujourd'hui.
+Le scan statutaire formule seulement « Corte, Corse », tandis que les pièces administratives de constitution apportent la précision d'adresse.
 
 ## 6. Base procédurale prudente pour l'AGE
 
