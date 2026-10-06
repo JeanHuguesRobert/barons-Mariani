@@ -40,6 +40,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "research/senatoriales-2026/investigation/contre_cela_naurait_rien_change_2026-10-02.md"
   - "research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
+  - "research/senatoriales-2026/investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
   - "research/senatoriales-2026/qpc/qpc-a-candidature-senatoriale-2026.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
   - "research/senatoriales-2026/case_studies/capable_test_senatoriales_2026_accessibilite.md"
