@@ -1,11 +1,21 @@
 ---
 title: "DIASPORA — architecture éditoriale"
+author: unknown
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
 date: "2026-09-30"
+last_modified_at: "2026-10-06"
 status: "working-paper"
 language: "fr"
 document_role: "editorial-architecture"
 document_kind: "working-note"
 visibility: "public"
+lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/diaspora/editorial-architecture.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ai_assisted_by:
   - "Grok 4.7 (xAI), handler froid de l'issue GitHub 96"
 provenance:
@@ -73,6 +83,24 @@ Un annuaire figé et opaque pourrait devenir lui-même Machine à Empêcher ; un
 | Annexes | modèle, sources, mesures, revue, méthode | `annexes/`, `journals/`, `data/` |
 
 L'annuaire n'est pas le livre. C'est une projection outillée du corpus. Une fiche publiée reste une trace sourcée, pas un jugement sur une personne.
+
+### Reality Case — registre local et projection d'annuaire
+
+DIASPORA constitue un Reality Case du pattern générique **registre local → projection d'annuaire** désormais explicité dans le *Living Book Factory*.
+
+Son `data/seed.json` reste une implémentation locale souveraine. Il n'a pas à être refactoré pour satisfaire une abstraction commune tant qu'aucune friction réelle ne le justifie.
+
+Règle d'Occam :
+
+~~~text
+implémentation locale suffisante
+→ ne pas ajouter de couche
+
+friction répétée et démontrée
+→ extraire seulement le plus petit mécanisme commun utile
+~~~
+
+L'annuaire, la carte, la recherche et les autres surfaces restent des projections : elles ne deviennent pas une nouvelle source d'autorité sur les entrées.
 
 Le chantier **« Corse furtive »** étend le rôle du Révélateur : non seulement rendre visibles des personnes ou capacités dispersées, mais aussi détecter des **structures collectives invisibles à l'échelle des trajectoires individuelles**. La règle probatoire reste inchangée : proxy ≠ preuve individuelle ; surreprésentation ≠ coordination ; toute mesure doit expliciter son dénominateur.
 
