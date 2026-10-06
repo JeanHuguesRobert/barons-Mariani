@@ -4,6 +4,7 @@ description: "Index méthodologique et file d’exploration des acteurs publics 
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-06'
+last_modified_at: '2026-10-06'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
@@ -66,6 +67,33 @@ Chaque fiche distingue, lorsque les sources le permettent :
 - **pouvoir de réseau** : relations publiques documentées utiles au processus.
 
 Une qualification d’influence n’est jamais déduite d’un simple titre.
+
+## Registre local des acteurs — projection humaine actuelle
+
+Les fiches de ce répertoire constituent les **enregistrements canoniques locaux** de cette enquête OSINT. Le présent index en est, à ce stade, une **projection humaine suffisante** pour la navigation et la priorisation.
+
+Cette organisation instancie le pattern générique **registre local → projection d’annuaire** documenté dans le *Living Book Factory* :
+
+~~~text
+fiches OSINT sourcées
+→ identité locale stable + provenance + état temporel
+→ index humain
+→ futures projections éventuelles : annuaire / graphe / carte / recherche
+~~~
+
+**Occam et Minimum Sufficient Locality s’appliquent.** Aucun `registry.yml`, `registry.json`, graphe ou autre représentation machine supplémentaire n’est requis tant que les fiches et cet index suffisent.
+
+Le passage à une représentation structurée supplémentaire devra répondre à une **friction concrète et répétée**, par exemple :
+- duplication de données ;
+- génération répétitive ;
+- besoin de recherche structurée ;
+- construction d’un graphe ;
+- déduplication ;
+- fédération avec d’autres registres.
+
+L’éventuelle projection structurée ne deviendra pas une nouvelle autorité : elle devra rester dérivée des fiches locales ou d’une source locale explicitement désignée.
+
+> **Généraliser la relation, pas centraliser les enregistrements.**
 
 ## Première vague — cabinet de Paulu Santu Parigi
 
