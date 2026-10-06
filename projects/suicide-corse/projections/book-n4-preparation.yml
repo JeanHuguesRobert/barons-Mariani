@@ -41,6 +41,9 @@ preparation:
   living_view: ../suivi.md
   constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
   remedies_strategy: ../../../research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md
+  moyens_finalites: ../../../research/moyens_et_finalites.md
+  eim_h4: https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml
+  eim_remedial_probe: https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml
   petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md
   petition_version: "0.14"
   petition_status: "working-draft — pre-filing consolidation — not filed"
