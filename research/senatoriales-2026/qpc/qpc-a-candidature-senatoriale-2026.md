@@ -12,7 +12,7 @@ lifecycle_state: active
 update_policy: UP-DEFAULT-REVIEWED
 related_case: "Sénatoriales Haute-Corse 2026"
 related_documents:
-  - "../requete-conseil-constitutionnel-projet-v0.2.md"
+  - "../requete-conseil-constitutionnel-projet-v0.11.md"
   - "../investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "../../autonomia/amendement_effectivite_article_72-5.md"
 review:
@@ -24,7 +24,7 @@ review:
 
 ## 1. Objet
 
-Cette note qualifie la piste dite **QPC A** sans présumer qu'elle constitue une voie directement disponible dans le contentieux de l'élection sénatoriale actuellement préparé devant le Conseil constitutionnel.
+Cette note qualifie la piste dite **QPC A**. La voie procédurale directe dans le contentieux de l'élection sénatoriale devant le Conseil constitutionnel est désormais identifiée ; ce qui reste à établir est la recevabilité et le bien-fondé d'une QPC déterminée, visant une disposition législative précise et applicable au litige.
 
 La question de fond étudiée est celle de l'**effectivité de l'accès à la candidature** lorsqu'une disposition législative applicable organise des conditions formelles susceptibles, selon leur interprétation et leur mise en œuvre, d'affecter un droit ou une liberté que la Constitution garantit.
 
