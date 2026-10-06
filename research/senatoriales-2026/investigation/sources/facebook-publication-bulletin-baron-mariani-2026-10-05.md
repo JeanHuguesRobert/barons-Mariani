@@ -10,7 +10,7 @@ visibility: public
 lifecycle_state: active
 related:
   - "../contre_cela_naurait_rien_change_2026-10-02.md"
-  - "../../requete-conseil-constitutionnel-projet-v0.7.md"
+  - "../../requete-conseil-constitutionnel-projet-v0.9.md"
   - "bulletin-nul-baron-mariani-2026-10-01.md"
 ---
 
