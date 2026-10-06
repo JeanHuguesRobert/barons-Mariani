@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.6"
+version: "0.7"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -88,6 +88,11 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Architecture recours** — vérifier la cohérence entre requête, QPC, Défenseur des droits, éventuelle CEDH et probes de remèdes.
 - [ ] **Synchronisation Suicide Corse n°4** — refléter les changements substantiels de la requête sans prétendre qu'un brouillon est déjà déposé.
 - [ ] **Communication publique** — vérifier que les publications publiques restent compatibles avec la requête sans lui substituer une rhétorique différente sur les faits.
+- [ ] **Ouverture assumée — texte à préserver sans altération** — si l'ouverture est retenue dans la requête ou dans une version publique associée, conserver exactement : **« Obtenir le respect, en Corse comme ailleurs, réclame d'en manifester ; le mépris appelle le mépris ».** Ne pas lisser cette phrase au nom d'une prudence stylistique ; contrôler seulement sa place, sa fonction et la transition immédiate vers les faits et le droit.
+- [ ] **Style / panache sans perte probatoire** — le texte peut mobiliser avec parcimonie des références historiques, maximes et proverbes corses lorsqu'ils servent la compréhension ou la mémorisation. Chaque citation doit être soit vérifiée, soit explicitement présentée comme attribution traditionnelle. Éviter l'empilement décoratif : une référence doit porter une idée ou une transition, pas remplacer une démonstration.
+- [ ] **Danton / audace** — si mobilisé, préférer la formulation historiquement attestée du discours du 2 septembre 1792 : « de l'audace, encore de l'audace, toujours de l'audace » ; l'utiliser comme signal de méthode ou de ton, non comme argument juridique.
+- [ ] **Talleyrand / explicitation** — rappeler si utile la maxime traditionnellement attribuée à Talleyrand, « Ce qui va sans dire va encore mieux en le disant », comme principe de lisibilité : expliciter ce qui est décisif même si cela paraît évident.
+- [ ] **Proverbes corses** — avant insertion, vérifier graphie, sens, source et adéquation au passage ; éviter toute formule dont le sens serait ambigu pour un lecteur non corsophone.
 - [ ] **Framing** — appliquer la règle : fait fort → conséquence → borne ; éviter le defensive-first.
 - [ ] **Estimations** — éviter les décimales dans le framing lorsqu'elles créent une fausse précision ; conserver l'exact dans les annexes.
 - [ ] **Traçabilité** — conserver pour chaque nouvelle source le lien, la date, l'auteur, le statut de vérification et l'usage exact envisagé.
@@ -186,6 +191,15 @@ S'il est matériel et vérifiable :
 - 2017 et 2024 servent d'abord à tester la **répétition** et la connaissance du problème ; ils ne ressuscitent pas une requête autonome hors délai ;
 - le plateau pré-dépôt sera atteint lorsque les nouvelles objections deviennent répétitives et qu'aucun point nouveau ne change matériellement recevabilité, grief, pièce, conclusion, QPC ou préservation CEDH.
 
+
+
+## UPDATE — 6 octobre 2026 — style, audace et lisibilité publique
+
+- conservation verbatim demandée pour l'ouverture possible : **« Obtenir le respect, en Corse comme ailleurs, réclame d'en manifester ; le mépris appelle le mépris ».** ;
+- ajout d'un contrôle **style / panache sans perte probatoire** : références historiques et proverbes peuvent rythmer le texte s'ils servent une idée et restent séparés de la démonstration juridique ;
+- Danton : formulation de référence « de l'audace, encore de l'audace, toujours de l'audace » ;
+- Talleyrand : l'explicitation reste un principe de lisibilité et de FractaCognition ;
+- toute formule corse doit être vérifiée avant insertion afin d'éviter un effet de style au prix d'une ambiguïté de sens.
 
 ## UPDATE — 6 octobre 2026 — v0.11 / corpus courriels
 
