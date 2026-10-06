@@ -24,7 +24,7 @@ source_documents:
   - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
   - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
   - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
-  - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
+  - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
   - "research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
   - "research/senatoriales-2026/data/annuaire_electeurs_senatoriaux_2B_2026.csv"
@@ -70,7 +70,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 >
 > Cette version 0.10 part de la v0.9 et de l'état probatoire consolidé au **6 octobre 2026**. Elle ne transforme aucune inconnue en fait acquis et conserve la séparation entre faits établis, faits rapportés, inférences et questions ouvertes.
 >
-> Elle corrige deux incohérences de préparation au dépôt : la requête n'est **pas encore enregistrée** au Conseil constitutionnel ; et la liste procédurale des pièces est désormais séparée de l'inventaire analytique interne. Le document autonome `bordereau-pieces-requete-conseil-constitutionnel-v0.7.md` devient le projet de **bordereau de pièces** destiné à accompagner la requête, tandis que l'inventaire probatoire demeure un instrument de travail plus large.
+> Elle corrige deux incohérences de préparation au dépôt : la requête n'est **pas encore enregistrée** au Conseil constitutionnel ; et la liste procédurale des pièces est désormais séparée de l'inventaire analytique interne. Le document autonome `bordereau-pieces-requete-conseil-constitutionnel-v0.8.md` devient le projet de **bordereau de pièces** destiné à accompagner la requête, tandis que l'inventaire probatoire demeure un instrument de travail plus large.
 >
 > Elle ajoute une annexe ciblée de **déclarations publiques et commentaires de presse contemporains** afin de documenter, sans leur faire dire davantage, la réalité politique de l'offre 2026, la différence entre soutiens visibles et vote secret, les circulations évoquées autour du vote Battini et l'enjeu public de l'autonomie. Les commentaires « sans surprise » ou « largement réélu » y sont également conservés comme cadre adverse, et non effacés.
 >
