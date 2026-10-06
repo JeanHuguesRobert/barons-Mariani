@@ -167,9 +167,9 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 ## Brouillon de requête — version courante, non déposée
 
-Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.10.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.10.md).
+Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.11.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.11.md).
 
-Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.10 part de la v0.9, ajoute l'annexe P-41 de déclarations publiques et commentaires de presse, conserve P-39 et P-40, et maintient la séparation entre bordereau procédural et inventaire analytique. Elle ne transforme ni une déclaration publique ni un commentaire journalistique en bulletin individuel.
+Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.11 est le brouillon courant ; elle reprend la consolidation de la v0.10 et conserve l'annexe P-41 de déclarations publiques et commentaires de presse, P-39 et P-40, ainsi que la séparation entre bordereau procédural et inventaire analytique. Elle ne transforme ni une déclaration publique ni un commentaire journalistique en bulletin individuel.
 
 Le dépôt doit intervenir, s'il est décidé, avant le mercredi 7 octobre 2026 à 18 h. Jusqu'à une trace effective de dépôt, le contenu demeure modifiable et cette page conserve explicitement le statut **non déposé**.
 
