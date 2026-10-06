@@ -3,7 +3,7 @@ title: "Architecture des recours — Conseil constitutionnel, QPC, CEDH et remè
 subtitle: "Sénatoriales Haute-Corse 2026 — finalité, symétrie des voies et réparation d'un dommage temporel"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-05"
-version: "0.3"
+version: "0.4"
 status: "working — public — stratégie procédurale à vérifier avant dépôt"
 language: "fr"
 document_role: "source"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.10.md"
+  - "../requete-conseil-constitutionnel-projet-v0.13.md"
   - "../checklist-depot-requete-cc-2026-10-07.md"
   - "../qpc/qpc-a-candidature-senatoriale-2026.md"
   - "convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
@@ -283,7 +283,27 @@ La répétition 2017 / 2024 / 2026 est donc juridiquement utile lorsqu'elle rép
 
 Elle n'est pas un mécanisme de réouverture automatique des délais.
 
-## 13. Boucle vers le plateau pré-dépôt
+## 13. Préservation avant l’échéance : griefs, pièces et canal
+
+La revue de plateau ajoute une contrainte procédurale décisive : **tout grief électoral matériel doit être présent en substance dans la requête déposée dans le délai de l’article 33**. La jurisprudence récente du Conseil déclare irrecevable un grief invoqué pour la première fois après ce délai. L’article 35 permet exceptionnellement un délai pour une partie des **pièces** ; il ne doit pas être lu comme une réserve générale permettant de créer ensuite un moyen nouveau.
+
+Conséquence : la stratégie de préservation européenne et constitutionnelle doit être visible **avant le dépôt**, au moins dans sa substance, sans transformer la requête en catalogue. Ce qui pourra être développé ensuite doit déjà avoir un ancrage identifiable dans les moyens initiaux.
+
+Le canal de dépôt est lui aussi un objet de preuve : l’article 34 prévoit une requête écrite adressée au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La stratégie doit donc préserver la preuve de la version, du canal, de la date et de l’heure de remise.
+
+## 14. Temporalité objectivée par le calendrier sénatorial
+
+Le dommage temporel n’est plus formulé comme une simple référence à « fin octobre ». Le calendrier officiel du Sénat fixe trois jalons : **7 octobre 2026 à 15 h**, audition de la ministre par la commission des lois ; **21 octobre matin**, réunion de la commission pour le rapport ; **26 octobre**, discussion en séance publique du projet de loi constitutionnelle pour une Corse autonome au sein de la République.
+
+Ces dates n’ouvrent pas, à elles seules, une procédure d’urgence spéciale. Elles permettent en revanche de demander un examen dans les meilleurs délais compatibles avec une instruction effective et de mesurer ce qu’un remède tardif ne pourrait plus restaurer.
+
+## 15. Répétition, situation continue et qualité de victime
+
+La série **2017 / 2024 / 2026** reste utile comme contexte, connaissance institutionnelle et hypothèse de répétition. Elle ne doit pas être transformée sans fondement supplémentaire en « situation continue » destinée à rouvrir le délai européen d’événements achevés.
+
+La future analyse CEDH doit en outre distinguer les victimes potentielles : les griefs directement subis par M. Robert ne se confondent pas nécessairement avec ceux directement liés à Mme Vernerey et à son handicap. La qualité de victime doit être cartographiée grief par grief.
+
+## 16. Boucle vers le plateau pré-dépôt
 
 Le dossier doit maintenant converger, pas simplement grossir.
 
