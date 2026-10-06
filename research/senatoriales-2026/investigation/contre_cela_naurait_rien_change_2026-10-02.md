@@ -3,7 +3,7 @@ title: "Contre « cela n’aurait rien changé » — premier tour, Haute-Corse,
 subtitle: "Pièce sur l’influence du refus d’enregistrement"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-10-02"
-version: "0.5"
+version: "0.6"
 status: "working — public — relié au projet de requête au Conseil constitutionnel"
 language: "fr"
 document_role: "source"
@@ -14,12 +14,12 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 conditional_premise: "Le refus d’enregistrement est supposé illégal dans cette pièce. Ce point est traité ailleurs et n’est pas démontré ici."
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.9.md"
+  - "../requete-conseil-constitutionnel-projet-v0.11.md"
   - "borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "analyse_statistique_comparee_2A_2B_2020_2026.md"
   - "analyse_exposition_collegial_senatoriales_2026.md"
 framing_rule: "Dans le corps public, les estimations sont arrondies à l’entier ; les valeurs exactes et les dénominateurs restent disponibles dans la démonstration."
-current_petition: "../requete-conseil-constitutionnel-projet-v0.9.md"
+current_petition: "../requete-conseil-constitutionnel-projet-v0.11.md"
 ---
 
 # Contre « cela n’aurait rien changé »
