@@ -62,7 +62,7 @@ Le **bordereau final** ne devra conserver que les pièces effectivement annexée
 | **P-06** | 10/09 20:05:04 | Réponse BEDL | Position préfectorale sur les originaux | **A — production proposée** | Courriel source / PREF-10 |
 | **P-07** | 11/09 08:14:11 | Réponse du candidat | Déplacement annoncé | **B — soutien** | Courriel source |
 | **P-08** | 11/09 matin | Traces de trajet | Contexte matériel, sans portée juridique automatique | **C — contexte / réserve** | Photos / chronologie |
-| **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration, pas preuve de conformité | **A — production proposée** | Document officiel / PREF-13 |
+| **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration, pas preuve de conformité | **A — production proposée** | Document officiel / PREF-13 — **scan lisible + transcription textuelle vérifiée** |
 | **P-10** | 11/09 14:14:39 | Courriel mandataire + 2 PJ | Complétion et disponibilité jusqu'à 18 h | **A — production proposée** | Courriel / PREF-14 à PREF-16 |
 | **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain ; absent du bundle initial PREF-1 à 16 | **A — production proposée** | Courriel source |
 | **P-12** | 11/09 17:57:55 | Courriel complémentaire avec lien vidéo | Émission avant 18 h ; réception serveur à établir | **A — production proposée** | Courriel source |
@@ -70,7 +70,7 @@ Le **bordereau final** ne devra conserver que les pièces effectivement annexée
 | **P-14** | 11/09 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | Motivation préfectorale et inventaire initial 1–16 | **A — production proposée** | PDF originaux reçus via France Transfert |
 | **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — production proposée** | Courriel source |
 | **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — production proposée** | dossier-ta-bastia-2026-09-14.md |
-| **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | Photos privées / transcription |
+| **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
 | **P-18** | 14/09 | Attestation CAF | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle | **D — sensible / production si nécessaire** | Document privé |
 | **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — production proposée** | Courriel + jugement + P-30 |
 | **P-20** | 14/09 | Jugement TA Bastia | Décision attaquable via L.303 devant le CC saisi de l'élection | **A — production proposée** | Jugement |
@@ -152,6 +152,7 @@ Pour chaque pièce effectivement annexée, le dossier final devrait enregistrer 
 - [ ] les pièces sensibles ont fait l'objet d'une minimisation adaptée ;
 - [ ] les pièces électroniques décisives conservent, lorsque possible, leur version native en plus d'une version lisible ;
 - [ ] P-14 contient bien les fichiers reçus du TA, et non une reconstruction secondaire ;
+- [ ] P-09 est accompagné du scan/reproduction lisible et d'une transcription textuelle vérifiée ligne à ligne contre l'image primaire ;
 - [ ] P-17 est accompagnée de la reproduction recto-verso et d'une transcription clairement qualifiée comme transcription ;
 - [ ] le motif exact de nullité de P-40 n'est pas affirmé au-delà de ce que la pièce permet d'établir ;
 - [ ] P-41 distingue clairement déclarations d'acteurs, commentaires journalistiques, faits électoraux officiels et inférences ; aucun soutien visible n'est converti en bulletin secret ;
