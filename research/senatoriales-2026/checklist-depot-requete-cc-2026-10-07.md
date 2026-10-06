@@ -20,6 +20,7 @@ related:
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
   - "pre-filing-operational-plan-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
+  - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
   - "../autonomia/corse_laboratoire.md"
   - "../autonomia/amendement_effectivite_article_72-5.md"
