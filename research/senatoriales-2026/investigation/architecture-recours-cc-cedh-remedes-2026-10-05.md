@@ -3,7 +3,7 @@ title: "Architecture des recours — Conseil constitutionnel, QPC, CEDH et remè
 subtitle: "Sénatoriales Haute-Corse 2026 — finalité, symétrie des voies et réparation d'un dommage temporel"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-05"
-version: "0.1"
+version: "0.2"
 status: "working — public — stratégie procédurale à vérifier avant dépôt"
 language: "fr"
 document_role: "source"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.6.md"
+  - "../requete-conseil-constitutionnel-projet-v0.9.md"
   - "../checklist-depot-requete-cc-2026-10-07.md"
   - "../qpc/qpc-a-candidature-senatoriale-2026.md"
   - "convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
@@ -155,7 +155,7 @@ Cette distinction est importante pour l'argument d'effectivité.
 3. annulation de l'élection ;
 4. nouvelles opérations électorales.
 
-Le **probe de proclamation directe du requérant** n'est pas encore promu en conclusion formelle.
+Le **probe de proclamation directe du requérant** est désormais, par arbitrage humain, promu dans la v0.9 en **conclusion infiniment subsidiaire et explicitement exploratoire**.
 
 Avant toute promotion, une revue juridique spécifique doit répondre à deux questions :
 
@@ -168,7 +168,7 @@ Tant que ces questions ne sont pas tranchées, le Corpus conserve l'idée comme 
 
 La stratégie globale envisage deux pistes de QPC, mais leur existence politique ne suffit pas à leur disponibilité procédurale.
 
-- **QPC A — candidature / accès effectif** : elle vise la difficulté d'exercice effectif du droit de candidature et/ou du recours, à condition d'identifier une disposition législative précise, applicable dans une instance admissible.
+- **QPC A — candidature / accès effectif** : la voie procédurale directe devant le Conseil constitutionnel est disponible dans le contentieux électoral parlementaire. La difficulté est désormais de viser une disposition législative précise et applicable, dans un mémoire distinct et motivé ; l'article L.299 du code électoral est le premier candidat à tester.
 - **QPC B — autonomie / effectivité** : elle concerne l'effectivité d'un futur régime ou mécanisme législatif relatif à l'autonomie ; elle ne doit pas être artificiellement greffée au contentieux sénatorial si les conditions de l'article 61-1 ne sont pas réunies.
 
 Invariant :
@@ -217,3 +217,31 @@ Un rejet de recevabilité européen serait lui-même une **réponse du Réel** s
 ## Formule courte
 
 > **Le Conseil constitutionnel ferme la voie interne, pas nécessairement toute voie de contrôle. Sa décision n'est susceptible d'aucun recours en France. Strasbourg n'est pas son juge d'appel : c'est, sous conditions, l'étage international où chacune des parties peut ensuite soumettre un grief conventionnel. Entre les deux, les QPC et le Défenseur des droits ont leurs offices propres. Quant aux remèdes, l'article 41 interdit de confondre “ce remède paraît juridiquement inadapté” avec “aucun remède n'existe”.**
+
+
+## 11. Correction procédurale QPC — 6 octobre 2026
+
+La version antérieure était trop restrictive sur la possibilité de poser une QPC directement dans le contentieux électoral parlementaire.
+
+Reality check :
+- décision n° 2023-6281 SEN/QPC du 8 décembre 2023 : QPC posée directement à l'occasion d'un recours contre une élection sénatoriale ;
+- décision n° 2011-4538 SEN du 12 janvier 2012 : précédent analogue ;
+- guide QPC360 : exception explicite lorsque le Conseil constitutionnel est lui-même juge de l'élection.
+
+Conséquence :
+
+~~~text
+QPC directe devant le Conseil constitutionnel
+= procéduralement possible en contentieux électoral
+≠ recevabilité automatique
+≠ sérieux automatique
+
+vrai verrou
+= disposition précise
++ applicabilité
++ droit/liberté garanti
++ absence de conformité déjà tranchée sauf changement de circonstances
++ nouveauté ou caractère sérieux
+~~~
+
+Cette correction change la stratégie : **QPC A peut être préparée maintenant comme mémoire distinct accompagnant la requête**, tandis que QPC B reste à l'état de piste tant qu'aucune disposition législative applicable au litige 2026 n'est identifiée.
