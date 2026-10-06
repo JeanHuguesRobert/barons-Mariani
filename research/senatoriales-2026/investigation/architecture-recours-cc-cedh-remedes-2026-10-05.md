@@ -14,6 +14,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
   - "../requete-conseil-constitutionnel-projet-v0.6.md"
+  - "../checklist-depot-requete-cc-2026-10-07.md"
   - "../qpc/qpc-a-candidature-senatoriale-2026.md"
   - "convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
   - "../../../projects/suicide-corse/suivi.md"
