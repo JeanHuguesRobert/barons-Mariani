@@ -15,7 +15,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
 source_documents:
-  - "requete-conseil-constitutionnel-projet-v0.11.md"
+  - "requete-conseil-constitutionnel-projet-v0.14.md"
   - "inventaire_probatoire_exhaustif_pieces_preuves.md"
 provenance:
   origin_type: "repository"
@@ -31,7 +31,7 @@ review:
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# BORDEREAU DE PIÈCES — PROJET v0.7
+# BORDEREAU DE PIÈCES — PROJET v0.8
 
 ## Requête en contestation de l'élection sénatoriale du 27 septembre 2026 — Haute-Corse
 
