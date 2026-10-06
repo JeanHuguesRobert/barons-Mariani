@@ -46,7 +46,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 ## A. MUST BEFORE FILING
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.13 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [~] **Version canonique de dépôt** — la v0.14 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
 - [ ] **Premier écran contentieux** — vérifier juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
@@ -66,7 +66,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Déclarations publiques / commentaires de presse — P-41** — vérifier l'annexe ciblée avant dépôt : distinguer propos d'acteurs politiques, commentaires journalistiques, résultats officiels et inférences ; conserver aussi les formulations adverses (« sans surprise », « largement réélu ») ; vérifier chaque URL/date/auteur ; ne jamais transformer une intention rapportée ou une appartenance institutionnelle en bulletin secret.
 - [ ] **Bulletin nul "BARON MARIANI"** — conserver son statut exact : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
 - [ ] **Conclusions** — distinguer nettement conclusions principales, subsidiaires et probes exploratoires.
-- [x] **Effet de l’annulation — LO 322** — v0.13 corrigée : demander l’annulation comme remède principal et demander au Conseil d’en tirer les conséquences légales ; LO 322 prévoit l’élection partielle dans les trois mois.
+- [x] **Effet de l’annulation — LO 322** — v0.14 corrigée : demander l’annulation comme remède principal et demander au Conseil d’en tirer les conséquences légales ; LO 322 prévoit l’élection partielle dans les trois mois.
 - [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
 - [~] **QPC** — correction procédurale acquise : une QPC peut être posée directement au Conseil constitutionnel dans le contentieux électoral parlementaire. Reste à cristalliser séparément chaque mémoire : disposition législative précise, applicabilité au litige, droit/liberté garanti, nouveauté/sérieux. QPC A : L.299 est le premier candidat à tester. QPC B reste ouverte faute de disposition législative applicable identifiée.
 - [~] **Kill-switch QPC** — ne pas faire du nombre de QPC un objectif. QPC A n’est déposée que si le grief attaque réellement L.299 lui-même et satisfait les conditions organiques ; QPC B reste hors dépôt si aucune disposition législative applicable et question sérieuse ne sont stabilisées.
