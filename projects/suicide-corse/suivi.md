@@ -28,6 +28,18 @@ review:
 
 # Suivi du numéro 4
 
+## 6 octobre 2026 — plateau pré-dépôt v0.13
+
+La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.13.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.13.md). Son statut reste **non déposé**.
+
+La passe de plateau a produit des corrections matérielles plutôt qu'un simple enrichissement : tous les griefs doivent être présents en substance avant l'expiration du délai de l'article 33 ; l'article 35 permet exceptionnellement de compléter certaines **pièces**, pas de créer librement de nouveaux griefs ; L.299 est assumé comme imposant signature et mention manuscrite et le débat est recentré sur l'exception fonctionnelle liée au handicap et sur la portée exacte de l'exigence d'un original matériel ; l'effet d'une annulation est raccordé à LO 322 plutôt qu'à une injonction autonome inventée.
+
+La perte temporelle est maintenant objectivée par le calendrier du Sénat : **7 octobre à 15 h** audition de la ministre par la commission des lois ; **21 octobre matin** réunion de la commission pour le rapport ; **26 octobre** discussion en séance publique du projet de loi constitutionnelle pour une Corse autonome au sein de la République. La requête peut donc demander un examen dans les meilleurs délais compatibles avec une instruction effective sans prétendre qu'il existe une procédure d'urgence spéciale.
+
+La stratégie QPC reçoit un **kill-switch de qualité** : L.299 est la cible naturelle de QPC A, mais aucune QPC n'est déposée pour satisfaire un objectif numérique si la disposition elle-même, le droit constitutionnel invoqué et le caractère sérieux ne sont pas stabilisés. Pour Strasbourg, la répétition 2017 / 2024 / 2026 reste un contexte et une hypothèse de pattern ; elle n'est pas transformée artificiellement en situation continue. La qualité de victime de M. Robert et celle de Mme Vernerey doivent être distinguées grief par grief.
+
+Le gain marginal est désormais faible sur l'architecture générale. Les points encore réellement porteurs avant dépôt sont matériels : **canal et preuve de dépôt, bordereau et pièces effectivement jointes, éventuelle cristallisation de QPC A, puis revue adverse finale centrée sur les motifs de rejet**.
+
 Travaux en cours. Cette page n'est pas une édition gelée, ni un rendu HTML, PDF ou EPUB.
 
 Elle est la vue du Corpus pendant que le brouillon de requête continue de bouger. La version lisible est celle de `main` au moment de la lecture. Chaque bloc est daté et renvoie au fichier source. Le texte du brouillon n'est pas recopié ici.
@@ -119,7 +131,7 @@ Le statut reste **non déposé**. Le n°4 suit ce mouvement sans modifier le n°
 
 ## 5 octobre 2026 — consolidation pré-dépôt v0.7
 
-Le **5 octobre**, la v0.7 a constitué une étape de consolidation pré-dépôt : framing 22–29 % / 33 %, soutien A Voce, écart entre base visible et vote réel, séparation du bordereau procédural et de l'inventaire probatoire. Elle est désormais **historique**. Le brouillon courant est la **v0.11**, comme indiqué plus bas et dans la projection n°4 ; son statut reste **non déposé** et **non enregistré** tant qu'aucune trace effective de saisine n'est acquise.
+Le **5 octobre**, la v0.7 a constitué une étape de consolidation pré-dépôt : framing 22–29 % / 33 %, soutien A Voce, écart entre base visible et vote réel, séparation du bordereau procédural et de l'inventaire probatoire. Elle est désormais **historique**. Le brouillon courant est la **v0.13**, comme indiqué plus haut et dans la projection n°4 ; son statut reste **non déposé** et **non enregistré** tant qu'aucune trace effective de saisine n'est acquise.
 
 Le pointeur de la projection n°4 suit cette version. Cette mise à jour de la vue ne recopie pas la requête et ne modifie pas le numéro 3 gelé.
 
