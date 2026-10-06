@@ -5,8 +5,8 @@ description: "Matrice opérationnelle dérivée des statuts 1995 actuellement d�
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
-last_modified_at: "2026-10-05"
-version: "0.2"
+last_modified_at: "2026-10-06"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -283,3 +283,14 @@ unknown membership
 ~~~
 
 C’est un candidat de Pattern Mining, pas encore un nouveau principe canonique.
+
+
+## 13. Verrou administratif RNA
+
+La recherche passive a atteint un rendement décroissant. Une contradiction temporelle doit maintenant être résolue directement auprès du greffe : en mai–août 2024 l’association n’était pas retrouvée au RNA et des pièces étaient demandées pour régularisation ; en septembre 2026 le registre public l’indique inscrite au RNA, mais sans numéro affiché dans la page consultée.
+
+Le paquet de demande est préparé dans `projects/institut/preparation/rna-dossier-request-2026.md`.
+
+Priorité procédurale : **obtenir l’état administratif courant avant de figer le CA, le bureau ou la liste de pièces post-assemblée.**
+
+Cela ne remplace pas la reconstruction privée du corps électoral : les deux verrous sont parallèles.
