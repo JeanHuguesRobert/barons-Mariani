@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.11.md"
+  - "requete-conseil-constitutionnel-projet-v0.12.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -46,7 +46,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 ## A. MUST BEFORE FILING
 
 - [ ] **Délai** — confirmer et respecter l'échéance du **7 octobre 2026 à 18 h**.
-- [~] **Version canonique de dépôt** — la v0.10 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [~] **Version canonique de dépôt** — la v0.12 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
 - [ ] **Premier écran contentieux** — vérifier juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions.
 - [ ] **Fondement du recours** — vérifier l'articulation Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -62,6 +62,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Déclarations publiques / commentaires de presse — P-41** — vérifier l'annexe ciblée avant dépôt : distinguer propos d'acteurs politiques, commentaires journalistiques, résultats officiels et inférences ; conserver aussi les formulations adverses (« sans surprise », « largement réélu ») ; vérifier chaque URL/date/auteur ; ne jamais transformer une intention rapportée ou une appartenance institutionnelle en bulletin secret.
 - [ ] **Bulletin nul "BARON MARIANI"** — conserver son statut exact : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
 - [ ] **Conclusions** — distinguer nettement conclusions principales, subsidiaires et probes exploratoires.
+- [ ] **Effet de l’annulation — LO 322** — demander l’annulation comme remède principal ; rappeler qu’en cas d’annulation des opérations électorales sénatoriales, une élection partielle est organisée dans un délai de trois mois. Ne pas présenter comme nécessaire une injonction autonome du Conseil d’« organiser » le scrutin si la conséquence découle déjà de la loi.
 - [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
 - [~] **QPC** — correction procédurale acquise : une QPC peut être posée directement au Conseil constitutionnel dans le contentieux électoral parlementaire. Reste à cristalliser séparément chaque mémoire : disposition législative précise, applicabilité au litige, droit/liberté garanti, nouveauté/sérieux. QPC A : L.299 est le premier candidat à tester. QPC B reste ouverte faute de disposition législative applicable identifiée.
 - [ ] **Défenseur des droits** — garder sa saisine distincte du recours CC ; ne lui attribuer aucun effet suspensif sur les délais.
@@ -70,6 +71,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Minute du jugement / demandes réitérées au TA — P-21, P-29 à P-33** — matérialiser dans le recueil la chaîne native des courriels établissant que l’accès à la **minute signée du jugement**, l’identité du greffier d’audience et les éventuelles traces matérielles d’audience ont été recherchés de façon réitérée dans la fenêtre contentieuse, sans communication de la minute à ce jour. Faire apparaître au minimum la séquence des **16, 21 et 25 septembre**, puis la réponse du **1er octobre** ; distinguer strictement **demande établie**, **réponse reçue** et **pièce non communiquée**. La requête doit renvoyer explicitement à cette chaîne lorsqu’elle sollicite la production de la minute au titre des mesures d’instruction.
 - [x] **Correspondance Laurence — P-43** — index vérifié créé à partir de Gmail ; messages décisifs identifiés (préparation, identité, autorisation expresse, porte-parole, vidéo, AAH). Ne pas republier dans GitHub le contenu privé intégral ; produire au Conseil seulement ce qui est nécessaire, avec minimisation.
 - [ ] **CEDH** — ne pas présenter Strasbourg comme un appel du Conseil constitutionnel ; conserver la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
+- [ ] **Symétrie seulement conditionnelle** — Robert comme Parigi ne peuvent envisager Strasbourg qu’en qualité personnelle de victime d’un grief conventionnel défendable. La fermeture de la voie interne ne crée pas, à elle seule, un droit à un examen au fond par la CEDH et n’a pas d’effet suspensif automatique sur la décision du Conseil constitutionnel.
 - [ ] **2017 / 2024 / 2026** — utiliser la répétition comme contexte et hypothèse de mécanisme récurrent, non comme moyen de rouvrir les délais expirés.
 - [ ] **Comparatif média service public — 2017 / 2020 / 2024 / 2026** — inventorier, pour chacune des quatre candidatures, France 3 Corse ViaStella / France Télévisions et Radio France-ICI/RCFM : invitation ou non aux débats, entretiens, durée/format, date dans la campagne, présentation éditoriale, comparateurs parmi les autres petites candidatures ; distinguer trace d'absence de couverture, absence réellement vérifiée et refus explicite.
 - [ ] **Comparatif média général — 2017 / 2020 / 2024 / 2026** — même grille pour Corse-Matin, Corse Net Infos, Alta Frequenza et autres médias significatifs ; comparer les petites candidatures entre elles, pas seulement aux favoris.
