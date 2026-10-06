@@ -119,7 +119,7 @@ Le statut reste **non déposé**. Le n°4 suit ce mouvement sans modifier le n°
 
 ## 5 octobre 2026 — consolidation pré-dépôt v0.7
 
-Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.7 renforce le grief d'influence par le framing 22–29 % / 33 %, le soutien A Voce et l'écart entre base visible et vote réel ; elle distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
+Le **5 octobre**, la v0.7 a constitué une étape de consolidation pré-dépôt : framing 22–29 % / 33 %, soutien A Voce, écart entre base visible et vote réel, séparation du bordereau procédural et de l'inventaire probatoire. Elle est désormais **historique**. Le brouillon courant est la **v0.11**, comme indiqué plus bas et dans la projection n°4 ; son statut reste **non déposé** et **non enregistré** tant qu'aucune trace effective de saisine n'est acquise.
 
 Le pointeur de la projection n°4 suit cette version. Cette mise à jour de la vue ne recopie pas la requête et ne modifie pas le numéro 3 gelé.
 
