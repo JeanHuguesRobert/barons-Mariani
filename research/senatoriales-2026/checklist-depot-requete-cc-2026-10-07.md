@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.10"
+version: "0.11"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,8 +13,8 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.14.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
+  - "requete-conseil-constitutionnel-projet-v0.17.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.9.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
@@ -50,8 +50,8 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 ## A. MUST BEFORE FILING
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.14 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.14.
+- [~] **Version canonique de dépôt** — la v0.17 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.17.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. Le plan opérationnel recommande une remise locale anticipée au représentant de l’État avec preuve horodatée ; l’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
@@ -59,6 +59,12 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
 - [ ] **Pièces critiques** — vérifier présence, lisibilité, date, origine et concordance des pièces relatives au dépôt de candidature, aux formalités de la remplaçante, au TA, aux échanges préfectoraux et au scrutin.
+- [x] **P-14 — deux requêtes préfectorales retrouvées et comparées** — les bundles `2601714` et `2601715` contiennent une saisine signée de trois pages au même contenu substantiel ; leur position dans les bundles diffère. Ne pas parler d'identité binaire des PDF complets sans comparaison de fichiers.
+- [x] **P-14 — distinction L.298 / L.299 dans la saisine** — l'exposé des faits rappelle **L.298 et L.299** ; la partie « Discussion » reproduit et développe expressément **L.299** pour l'exigence d'« original », sans développement autonome de L.298.
+- [x] **e-Sagace — sens des conclusions** — les deux dossiers affichent un refus pour méconnaissance alléguée de **L.298, L.299 et L.301**. Qualifier correctement : il s'agit du sens des conclusions, pas du jugement.
+- [ ] **Jugement primaire — contrôle L.298 / L.299 / L.301** — relire ligne à ligne l'expédition primaire P-20 et enregistrer exactement les dispositions visées et développées. Si L.298 est absent de la motivation alors qu'il figure dans le sens des conclusions e-Sagace, décrire cette différence sans en déduire automatiquement qu'un moyen aurait été ignoré.
+- [x] **P-44 — chaîne France Transfert retrouvée** — deux courriels reçus le 11 septembre à **18 h 45 min 53 s** : avis de pli provenant du greffe et mot de passe transmis séparément. Le premier annonce les quatre fichiers (deux CRAASE + deux PDF préfectoraux). Mot de passe et liens non publiés.
+- [ ] **P-44 — pièce à matérialiser pour le dépôt** — joindre au paquet Conseil une copie des deux courriels France Transfert établissant la provenance de P-14, en masquant mot de passe, lien et jetons inutiles ; conserver les originaux natifs disponibles pour vérification.
 - [x] **Influence sur le scrutin** — la requête distingue clairement :
   - l'écart entre candidats présents ;
   - la distance à la majorité absolue ;
@@ -86,7 +92,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Vidéo — triptyque probatoire** — distinguer et documenter séparément : **(a) produite/envoyée**, **(b) reçue/versée au dossier**, **(c) effectivement examinée/visionnée**. À ce stade : (a) établi côté expéditeur ; (b) non établi pour P-12/P-13 ; (c) aucune trace institutionnelle identifiée. Ne jamais convertir l’absence de preuve de (b) ou (c) en preuve positive de non-transmission ou de non-examen.
 - [ ] **Diligences maximales sur le consentement** — vérifier que la requête expose cumulativement, et non en fragments dispersés : autorisation écrite de Laurence, pièces d’identité et électorales, présence physique du candidat, déplacement pour rencontre physique commune, déclaration vidéo en prise continue, transmission avant 18 h, offre de visionnage au TA rapportée, puis production AAH. L’objet est de permettre au Conseil d’apprécier la réalité et l’intensité des garanties apportées sur l’authenticité du consentement.
 - [ ] **Biais de cadrage / propagation de prémisse** — vérifier que la requête explique, sans psychologie attribuée aux personnes, le risque qu’une prémisse administrative globale (« originaux papier ») ait structuré l’examen juridictionnel au point de rendre périphériques les éléments dissonants : consentement documenté, handicap, présence physique du candidat, solutions praticables, vidéo et distinction L.298/L.299. Employer un vocabulaire de cadrage institutionnel / propagation de prémisse, pas un diagnostic cognitif individuel.
-- [ ] **Test de cohérence candidat / remplaçante** — isoler la question suivante : si la dématérialisation était en elle-même rédhibitoire, pourquoi distinguer le traitement du candidat physiquement présent et celui de la remplaçante absente, alors que la saisine mobilise spécialement L.299 ? Si le vrai nœud est l’acte personnel de la remplaçante, vérifier que handicap, consentement éclairé et CE 14 mai 2021, n° 445497 sont examinés explicitement.
+- [~] **Test de cohérence candidat / remplaçante** — isoler la question suivante : si la dématérialisation était en elle-même rédhibitoire, pourquoi distinguer le traitement du candidat physiquement présent et celui de la remplaçante absente, alors que la saisine mobilise spécialement L.299 ? Si le vrai nœud est l’acte personnel de la remplaçante, vérifier que handicap, consentement éclairé et CE 14 mai 2021, n° 445497 sont examinés explicitement.
 - [x] **CEDH** — la v0.14 ne présente pas Strasbourg comme un appel du Conseil constitutionnel et conserve la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
 - [x] **Symétrie seulement conditionnelle** — la v0.14 explicite que Robert comme Parigi ne peuvent envisager Strasbourg qu’en qualité personnelle de victime d’un grief conventionnel défendable ; la fermeture de la voie interne ne crée pas à elle seule un droit à un examen au fond.
 - [x] **2017 / 2024 / 2026** — répétition conservée comme contexte, connaissance institutionnelle et hypothèse de mécanisme récurrent ; **répétition ≠ situation continue** et ne rouvre pas, à elle seule, les délais expirés.
@@ -207,7 +213,7 @@ S'il est matériel et vérifiable :
 
 ## UPDATE — 6 octobre 2026 — v0.8 / plateau pré-dépôt
 
-- brouillon courant : `requete-conseil-constitutionnel-projet-v0.14.md` ;
+- brouillon courant : `requete-conseil-constitutionnel-projet-v0.17.md` ;
 - découverte load-bearing : **les griefs nouveaux sont forclos après le délai de l’article 33** ; toutes les branches matérielles doivent donc être présentes en substance dans la requête initiale ;
 - distinction durcie : article 35 = délai exceptionnel pour certaines **pièces**, pas réserve générale de moyens ;
 - canal de dépôt de l’article 34 ajouté comme contrôle opérationnel prioritaire ;
@@ -250,9 +256,9 @@ S'il est matériel et vérifiable :
 
 Passe **Fix Bugs First** sur le paquet pré-dépôt :
 
-- requête courante : `v0.14` ;
+- requête courante : `v0.17` ;
 - bordereau courant : `v0.8` ;
-- inventaire probatoire : aligné sur `v0.14` ;
+- inventaire probatoire : aligné sur `v0.17` ;
 - corrections des références résiduelles `v0.13` / `v0.11` / bordereau `v0.7` lorsqu’elles prétendaient décrire l’état courant ;
 - contrôle mécanique du bordereau : séquence continue `P-01` à `P-43`, aucune pièce citée par la requête n’est absente du bordereau ;
 - fermetures de checklist sur les points déjà effectivement résolus par la v0.14 : premier écran contentieux, statut du bulletin nul, architecture des conclusions, remedial probe, séparation Défenseur des droits, cadrage CEDH et symétrie conditionnelle.
@@ -282,3 +288,12 @@ La fermeture complète du dépôt reste impossible avant vérification matériel
 - ajout d’un contrôle des **diligences cumulatives** destinées à garantir l’authenticité du consentement de la remplaçante ;
 - ajout du **biais de cadrage / propagation de prémisse** comme test institutionnel et non psychologique ;
 - ajout du **test de cohérence candidat/remplaçante**, articulé à L.298, L.299, au handicap et à CE, 14 mai 2021, n° 445497.
+
+
+## UPDATE — 6 octobre 2026 — v0.11 / requêtes préfectorales et France Transfert
+
+- synchronise la checklist avec la **requête v0.17** et le **bordereau v0.9** ;
+- ferme la récupération et la comparaison des deux saisines préfectorales ;
+- distingue explicitement **L.298/L.299 dans la saisine**, **L.298/L.299/L.301 dans le sens des conclusions e-Sagace**, et le contrôle encore à effectuer sur les motifs exacts du jugement primaire ;
+- ajoute **P-44** comme chaîne de provenance France Transfert en deux courriels, avec règle de non-publication des secrets techniques ;
+- maintient ouvert uniquement le travail matériel restant sur ce sous-front : contrôle primaire du jugement et matérialisation expurgée de P-44 dans le paquet de dépôt.
