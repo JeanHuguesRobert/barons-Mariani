@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.4"
+version: "0.5"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -88,7 +88,38 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Estimations** — éviter les décimales dans le framing lorsqu'elles créent une fausse précision ; conserver l'exact dans les annexes.
 - [ ] **Traçabilité** — conserver pour chaque nouvelle source le lien, la date, l'auteur, le statut de vérification et l'usage exact envisagé.
 
-## C. POST-FILING / NEXT REALITY TESTS
+## C. CEDH — CHECKLIST DE PRÉSERVATION DU GRIEF
+
+Ces points ne remplacent pas le dépôt au Conseil constitutionnel. Ils servent à éviter qu'une future voie européenne soit affaiblie aujourd'hui par omission.
+
+### MUST BEFORE FILING AU CONSEIL CONSTITUTIONNEL
+
+- [ ] **Soulever en substance le grief conventionnel pertinent** — faire apparaître dans la requête nationale, sans transformer celle-ci en requête CEDH, la substance du droit invoqué : droit de se porter candidat et effectivité du recours électoral au titre de l'article 3 du Protocole n° 1.
+- [ ] **Ne pas surcharger l'article 13** — le traiter, s'il est maintenu, comme grief conventionnel distinct à vérifier ; ne pas supposer qu'il ajoute automatiquement une garantie autonome à celle que la jurisprudence déduit déjà de l'article 3 du Protocole n° 1.
+- [ ] **Article 14 / handicap** — ne l'ouvrir que si le dossier permet d'identifier un traitement défavorable suffisamment rattachable à un critère protégé et au champ d'un droit conventionnel ; conserver séparément les faits d'accessibilité et la qualification de discrimination.
+- [ ] **Applicabilité au Sénat** — documenter que l'article 3 du Protocole n° 1 couvre le choix de la législature et peut s'appliquer à une chambre haute disposant de pouvoirs législatifs ; ne pas traiter ce point comme acquis par simple analogie.
+- [ ] **Épuisement utile** — identifier les recours internes **normaux et effectifs** pour chaque grief. Ne pas croire qu'une démarche extraordinaire, discrétionnaire ou dépourvue de pouvoir de redressement prolonge le délai de Strasbourg.
+- [ ] **Défenseur des droits ≠ suspension du délai CEDH** — le mobiliser pour documenter, recommander, intervenir ou qualifier une difficulté ; ne jamais lui attribuer un effet interruptif ou suspensif sur le délai européen.
+- [ ] **2017 / 2024** — les conserver comme contexte de répétition et éléments de connaissance institutionnelle ; ne pas les présenter comme rouvrant le délai de quatre mois d'une décision ancienne.
+- [ ] **2024 hors délai autonome** — à défaut d'un fondement exceptionnel précis et vérifié, traiter la contestation autonome de la décision 2024 comme hors délai CEDH.
+- [ ] **2026 : point de départ à calculer après la décision finale pertinente** — ne pas pré-calculer aujourd'hui une date de Strasbourg ; enregistrer exactement la date de la décision définitive et, le cas échéant, sa date de notification.
+- [ ] **Formulaire complet** — rappeler que seul l'envoi d'une requête complète conforme aux exigences de la Cour interrompt le délai de quatre mois ; une lettre d'intention ou une démarche incomplète ne doit pas être utilisée comme filet de sécurité.
+- [ ] **Même grief, même substance** — conserver la trace de l'endroit où chaque grief conventionnel a été soulevé devant le juge national afin de pouvoir démontrer l'épuisement.
+- [ ] **Qualité de victime** — après décision nationale, vérifier séparément que le requérant demeure directement affecté par chaque violation alléguée et qu'aucun remède national n'a effacé cette qualité.
+- [ ] **Remède demandé à Strasbourg** — ne pas présenter la CEDH comme pouvant "proclamer un sénateur". Distinguer constat de violation, satisfaction équitable éventuelle et mesures générales/individuelles relevant ensuite de l'exécution.
+- [ ] **Réponse du Réel** — si Strasbourg rejette pour irrecevabilité, classer la cause exacte : délai, non-épuisement, incompatibilité ratione materiae/personae, défaut manifeste de fondement, absence de désavantage significatif, autre. Ne jamais convertir une irrecevabilité en validation du fond.
+
+### POST-DÉCISION DU CONSEIL CONSTITUTIONNEL
+
+- [ ] Geler immédiatement la décision, sa date de publication, sa date de notification éventuelle et le dossier national réellement examiné.
+- [ ] Dresser une matrice **grief CEDH → fait → norme → endroit où le grief a été soulevé en France → réponse nationale → résidu**.
+- [ ] Calculer le délai de quatre mois **par grief**, à partir de la décision finale pertinente dans le processus d'épuisement.
+- [ ] Vérifier si un recours supplémentaire invoqué est réellement normal et effectif avant de considérer qu'il retarde le point de départ.
+- [ ] Préparer le formulaire Rule 47 et les annexes suffisamment tôt pour qu'une requête complète parte avant l'échéance, sans compter sur un week-end ou un jour férié pour prolonger le délai.
+- [ ] Séparer clairement : **2026 = objet potentiel de la requête** ; **2017/2024 = contexte, répétition, connaissance, éventuellement preuve de pattern**, sauf grief autonome encore recevable démontré.
+
+
+## D. POST-FILING / NEXT REALITY TESTS
 
 - [ ] Enregistrer la preuve du dépôt : date, heure, canal, récépissé / accusé, version exacte, liste exacte des pièces.
 - [ ] Geler une copie forensique de la requête déposée et du bordereau.
@@ -99,7 +130,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] En cas de rejet, classer précisément : recevabilité, absence d'influence, fond, office, preuve, autre.
 - [ ] En cas d'accueil partiel ou total, cartographier immédiatement les conséquences et voies possibles pour chaque partie.
 
-## D. Règle agile
+## E. Règle agile
 
 Un point découvert en chemin n'a pas besoin d'attendre la prochaine "grande version".
 
@@ -141,3 +172,12 @@ S'il est matériel et vérifiable :
 - l'hypothèse « droit décoratif / droit effectif » devient une **hypothèse à tester par chaîne d'effectivité**, pas une conclusion présupposée ;
 - ancrage historique confirmé par une source parlementaire : la Corse est explicitement décrite comme **« laboratoire de la décentralisation »** pour la séquence ouverte en 1982 ;
 - la généralisation « de nombreuses innovations corses ont ensuite été reprises ailleurs » reste à démontrer cas par cas ; ne pas sur-vendre ce point avant inventaire.
+
+
+## UPDATE — 6 octobre 2026 — CEDH / boucle vers le plateau
+
+- le volet CEDH est désormais traité comme une **préservation de griefs dès le dépôt national**, non comme un travail à commencer après coup ;
+- la règle des quatre mois est couplée à l'épuisement des seuls recours **normaux et effectifs** : une démarche extraordinaire ou sans pouvoir de redressement ne sert pas à étirer le délai ;
+- la saisine du Défenseur des droits est utile comme probe et source institutionnelle, mais n'interrompt pas le délai CEDH ;
+- 2017 et 2024 servent d'abord à tester la **répétition** et la connaissance du problème ; ils ne ressuscitent pas une requête autonome hors délai ;
+- le plateau pré-dépôt sera atteint lorsque les nouvelles objections deviennent répétitives et qu'aucun point nouveau ne change matériellement recevabilité, grief, pièce, conclusion, QPC ou préservation CEDH.
