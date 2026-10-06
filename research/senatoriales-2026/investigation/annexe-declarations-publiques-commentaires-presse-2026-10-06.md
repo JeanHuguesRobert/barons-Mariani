@@ -116,6 +116,18 @@ Sans inférer leur bulletin secret :
 
 Cette liste sert uniquement à documenter un **minimum institutionnel visible**.
 
+Références institutionnelles / publiques pour cette qualification :
+- Ville de Bastia, 5 juin 2026, liste définitive des grands électeurs : Nicolas Battini, Valérie Idda, Michel Bruschini et Philippe Serra y figurent :
+  https://www.bastia.corsica/blog/2026/06/05/election-des-delegues-et-suppleants-qui-representeront-la-commune-au-sein-du-college-electoral-senatorial/
+- Ville de Bastia, composition du conseil municipal : Battini, Idda et Bruschini sont identifiés comme élus du groupe Populu di Bastia :
+  https://www.bastia.corsica/municipalita/vos-elu-e-s/les-elu-e-s-du-conseil-municipal/
+- Mairie de Biguglia : Audrey Mori est identifiée parmi les membres de l'opposition municipale :
+  https://biguglia.corsica/nos-elus/
+- Corse Net Infos, 11 septembre 2026 : Audrey Mori est donnée comme remplaçante de Nicolas Battini pour la sénatoriale :
+  https://www.corsenetinfos.corsica/Senatoriales-2026-trois-candidatures-deposees-en-Haute-Corse-quatre-noms-attendus-en-Corse-du-Sud_a92593.html
+
+Ces références établissent les qualités publiques ; elles n'établissent pas le contenu du bulletin secret de ces personnes.
+
 ---
 
 ## 5. Le cadre adverse : « sans surprise », « largement réélu »
