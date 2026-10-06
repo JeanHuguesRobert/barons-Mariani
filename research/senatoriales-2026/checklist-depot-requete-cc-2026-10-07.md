@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.2"
+version: "0.3"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,8 +13,8 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.9.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.6.md"
+  - "requete-conseil-constitutionnel-projet-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.7.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
 ---
@@ -43,7 +43,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 ## A. MUST BEFORE FILING
 
 - [ ] **Délai** — confirmer et respecter l'échéance du **7 octobre 2026 à 18 h**.
-- [~] **Version canonique de dépôt** — la v0.9 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [~] **Version canonique de dépôt** — la v0.10 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
 - [ ] **Premier écran contentieux** — vérifier juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions.
 - [ ] **Fondement du recours** — vérifier l'articulation Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -56,6 +56,7 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **22–29 % / 33 %** — utiliser les pourcentages entiers dans le framing public et la démonstration principale ; conserver les valeurs exactes et dénominateurs dans la couche de vérification.
 - [ ] **A Voce** — intégrer la nature politique de l'offre 2026 si elle est suffisamment sourcée : ne pas laisser croire à une simple répétition mécanique de la candidature individuelle de 2020.
 - [ ] **"Acqua in bocca" / soutien public ≠ vote réel** — si utilisé, le présenter comme un problème d'inférence électorale et non comme une essence culturelle : documenter l'écart entre base publique identifiable de M. Battini et score observé, sans attribuer individuellement les votes.
+- [ ] **Déclarations publiques / commentaires de presse — P-41** — vérifier l'annexe ciblée avant dépôt : distinguer propos d'acteurs politiques, commentaires journalistiques, résultats officiels et inférences ; conserver aussi les formulations adverses (« sans surprise », « largement réélu ») ; vérifier chaque URL/date/auteur ; ne jamais transformer une intention rapportée ou une appartenance institutionnelle en bulletin secret.
 - [ ] **Bulletin nul "BARON MARIANI"** — conserver son statut exact : trace matérielle d'une offre absente ; ni suffrage valide, ni identification certaine d'un électeur, ni preuve autonome d'influence déterminante.
 - [ ] **Conclusions** — distinguer nettement conclusions principales, subsidiaires et probes exploratoires.
 - [ ] **Remède extrême** — décider explicitement si la proclamation directe du requérant reste un probe ou devient une conclusion subsidiaire ; ne pas laisser la requête ambiguë sur ce point.
@@ -110,3 +111,13 @@ S'il est matériel et vérifiable :
 - ajout d'un contrôle d'intelligibilité grand public ;
 - ajout d'un contrôle d'intelligibilité pour un juriste junior du Conseil constitutionnel ;
 - ces deux contrôles sont classés **MUST BEFORE FILING** : la requête doit être simultanément compréhensible sans jargon inutile et navigable juridiquement sans connaissance préalable du Corpus.
+
+
+## UPDATE — 6 octobre 2026 — v0.10 / annexe P-41
+
+- brouillon courant promu : `requete-conseil-constitutionnel-projet-v0.10.md` ;
+- bordereau courant : `bordereau-pieces-requete-conseil-constitutionnel-v0.7.md` ;
+- création de P-41 : annexe ciblée de déclarations publiques et commentaires de presse contemporains ;
+- règle de crible : conserver les sources favorables **et** le framing adverse ; distinguer acteur / journaliste / résultat primaire / inférence ;
+- point de vigilance renforcé : « cinq grands électeurs » désigne une **base institutionnelle minimale directement identifiable**, jamais l'ensemble des soutiens publics ni cinq bulletins attribuables ;
+- avant dépôt, décider si P-41 est effectivement jointe ou reste une pièce de soutien/réserve.
