@@ -530,10 +530,10 @@ Cette annexe sert de **table de contrôle avant dépôt**. Elle ne crée pas de 
 
 Légende :
 
-- \`[x]\` : présent et exploitable dans le corps de la requête ;
-- \`[~]\` : présent mais à renforcer, sourcer ou reformuler avant dépôt ;
-- \`[ ]\` : à intégrer ou vérifier ;
-- \`[?]\` : arbitrage humain requis avant dépôt.
+- `[x]` : présent et exploitable dans le corps de la requête ;
+- `[~]` : présent mais à renforcer, sourcer ou reformuler avant dépôt ;
+- `[ ]` : à intégrer ou vérifier ;
+- `[?]` : arbitrage humain requis avant dépôt.
 
 ### A. Recevabilité, office du Conseil et délai
 
@@ -678,7 +678,7 @@ Légende :
 Un handler froid doit pouvoir reprendre la requête en procédant dans cet ordre :
 
 1. lire le **Premier écran contentieux** ;
-2. parcourir la présente **check-list** et identifier uniquement les cases \`[ ]\`, \`[~]\` et \`[?]\` ;
+2. parcourir la présente **check-list** et identifier uniquement les cases `[ ]`, `[~]` et `[?]` ;
 3. résoudre d'abord les points susceptibles de provoquer un **rejet ou une irrecevabilité**, avant les enrichissements ;
 4. mettre à jour le corps de la requête, **pas un document parallèle**, lorsqu'un point devient stabilisé ;
 5. mettre à jour simultanément le bordereau uniquement si une pièce réellement produite change ;
@@ -688,12 +688,12 @@ Un handler froid doit pouvoir reprendre la requête en procédant dans cet ordre
 
 Commande de reprise conceptuelle :
 
-\`\`\`text
+```text
 Reprendre la requête sénatoriale Haute-Corse 2026.
 Lire la check-list de couverture de la version courante.
 Traiter en priorité les [ ], [~] et [?].
 Ne pas créer de document parallèle si la requête peut porter directement l'état.
-\`\`\`
+```
 
 ---
 
@@ -704,7 +704,7 @@ Ne pas créer de document parallèle si la requête peut porter directement l'é
 - réintègre explicitement parmi les contrôles l'**obligation de participation des grands électeurs** de l'article L.318, sans en tirer d'inférence sur leur choix ;
 - conserve et rend contrôlables les axes **22–29 % / 33 %**, **A Voce**, **P-40**, **Acqua in bocca / 5 visibles contre 88 voix**, et le précédent 2020 ;
 - sépare clairement ce qui relève du noyau CC 2026 de ce qui appartient aux pistes **QPC / CEDH / Défenseur des droits / campagnes politiques** ;
-- transforme la requête elle-même en support de reprise : les points non stabilisés sont explicitement marqués \`[ ]\`, \`[~]\` ou \`[?]\`.
+- transforme la requête elle-même en support de reprise : les points non stabilisés sont explicitement marqués `[ ]`, `[~]` ou `[?]`.
 
 ---
 
