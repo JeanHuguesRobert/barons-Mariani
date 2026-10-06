@@ -1,8 +1,8 @@
 ---
 title: "QPC A — candidature sénatoriale 2026 — note de qualification procédurale"
 author: "Jean Hugues Noël Robert"
-date: "2026-09-29"
-status: "working-analysis"
+date: "2026-10-06"
+status: "working-analysis — direct electoral-QPC route identified"
 language: fr
 license: "CC BY-SA 4.0"
 document_role: "legal-research"
@@ -48,19 +48,24 @@ L'article 23-2 impose notamment trois conditions de transmission :
 
 Le contentieux de l'élection parlementaire est porté directement devant le Conseil constitutionnel sur le fondement de l'article 59 de la Constitution.
 
-À ce stade, **le Corpus ne doit donc pas présenter comme acquise la possibilité de greffer directement une QPC sur la requête en annulation de l'élection**.
+**Correction procédurale du 6 octobre 2026 : une QPC peut être posée directement au Conseil constitutionnel à l'occasion d'un contentieux électoral parlementaire dont il est lui-même le juge.** QPC360 l'indique expressément dans sa présentation de la procédure, et la décision n° 2023-6281 SEN/QPC du 8 décembre 2023 en fournit un exemple récent : une QPC a été posée directement à l'occasion d'une requête contre une élection sénatoriale. La décision n° 2011-4538 SEN constitue également un précédent de QPC déposée à l'occasion d'un recours sénatorial.
 
-La raison est structurelle : le mécanisme organique de la QPC part d'une juridiction relevant du Conseil d'État ou de la Cour de cassation, puis transite par l'une de ces deux juridictions suprêmes avant de parvenir au Conseil constitutionnel.
+Le régime ordinaire de l'article 61-1 — saisine du Conseil constitutionnel par le Conseil d'État ou la Cour de cassation — connaît donc cette particularité lorsque le Conseil constitutionnel est déjà saisi comme juge de l'élection.
 
 Cela conduit à distinguer :
 
 ```text
-requête électorale art. 59 devant le Conseil constitutionnel
-≠
-QPC art. 61-1 transmise par Conseil d'État / Cour de cassation
+régime ordinaire QPC
+→ juridiction administrative/judiciaire
+→ Conseil d'État / Cour de cassation
+→ Conseil constitutionnel
+
+contentieux électoral parlementaire
+→ Conseil constitutionnel déjà juge de l'instance
+→ QPC directement posée à l'occasion de cette instance
 ```
 
-Cette distinction ne préjuge pas de la possibilité de contester constitutionnellement une disposition législative dans **une autre instance admissible** où cette disposition serait applicable.
+Cette disponibilité procédurale ne dispense d'aucune condition de fond : la QPC doit viser une disposition législative applicable au litige ou à la procédure, être présentée dans un mémoire distinct et motivé, et satisfaire aux conditions organiques applicables.
 
 ## 4. Ce qui reste à identifier avant toute QPC A
 
@@ -100,7 +105,7 @@ La requête électorale peut exposer :
 
 La QPC A, elle, ne devient pertinente que si une **disposition législative applicable dans une instance admissible** est identifiée comme portant potentiellement atteinte à un droit ou une liberté constitutionnellement garanti.
 
-La requête ne doit donc pas présenter la QPC comme un moyen déjà disponible devant le Conseil constitutionnel statuant comme juge de l'élection.
+La requête peut donc être accompagnée d'un **mémoire QPC distinct et motivé**, à condition d'identifier exactement la disposition contestée et de satisfaire aux conditions organiques.
 
 ## 7. Lien avec le Principe d'effectivité
 
@@ -143,8 +148,8 @@ Avant de rédiger une QPC A :
 1. inventorier les dispositions législatives effectivement appliquées au dépôt et au refus d'enregistrement ;
 2. distinguer texte légal, texte réglementaire, formulaire, instruction et pratique ;
 3. vérifier pour chaque disposition législative la jurisprudence constitutionnelle antérieure ;
-4. identifier une instance admissible encore ouverte ou future où la disposition serait applicable ;
-5. seulement alors rédiger, si possible, un mémoire distinct et motivé.
+4. vérifier l'applicabilité de la disposition au contentieux électoral actuellement pendant devant le Conseil constitutionnel ;
+5. rédiger, si les conditions sont réunies, un mémoire QPC distinct et motivé à déposer à l'occasion de cette instance.
 
 ## 10. Sources juridiques primaires
 
@@ -156,11 +161,25 @@ Avant de rédiger une QPC A :
 
 ```text
 QPC A
-= piste juridiquement intéressante
-≠ moyen déjà recevable dans la requête art. 59
+= voie procéduralement possible dans le contentieux art. 59
+≠ question automatiquement recevable ou fondée
 ≠ question déjà cristallisée
 
 prochaine condition
 = identifier la disposition législative exacte
-+ l'instance admissible
++ démontrer son applicabilité au litige
++ formuler le droit/liberté garanti
++ tester nouveauté / sérieux
 ```
+
+
+## 12. Reality check du 6 octobre 2026
+
+Sources primaires / institutionnelles à conserver :
+
+- Conseil constitutionnel, décision n° 2023-6281 SEN/QPC du 8 décembre 2023 : QPC posée à l'occasion d'une requête contre une élection sénatoriale ; rejet pour défaut d'identification d'une disposition législative applicable et griefs insuffisamment précisés.
+- Conseil constitutionnel, décision n° 2011-4538 SEN du 12 janvier 2012 : QPC déposée à l'occasion d'une requête sénatoriale.
+- QPC360, « Quelle procédure suivre pour poser une QPC ? » : exception explicite pour les procédures où le Conseil constitutionnel est juge des élections présidentielles, législatives et sénatoriales.
+- Code électoral, article L.299 : candidat naturel actuel pour QPC A, sous réserve d'une revue spécifique de sa constitutionnalité antérieure et de l'angle exact du grief.
+
+Conséquence opérationnelle : **la question n'est plus “peut-on poser directement une QPC ?”, mais “quelle disposition précise attaquer, par quel grief constitutionnel sérieux, dans un mémoire distinct ?”**
