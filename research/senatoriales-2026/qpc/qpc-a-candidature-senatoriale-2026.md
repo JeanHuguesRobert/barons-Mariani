@@ -2,7 +2,7 @@
 title: "QPC A — candidature sénatoriale 2026 — note de qualification procédurale"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-status: "working-analysis — direct electoral-QPC route identified"
+status: "working-analysis — statutory target identified, constitutional theory still to crystallize"
 language: fr
 license: "CC BY-SA 4.0"
 document_role: "legal-research"
@@ -12,7 +12,7 @@ lifecycle_state: active
 update_policy: UP-DEFAULT-REVIEWED
 related_case: "Sénatoriales Haute-Corse 2026"
 related_documents:
-  - "../requete-conseil-constitutionnel-projet-v0.11.md"
+  - "../requete-conseil-constitutionnel-projet-v0.13.md"
   - "../investigation/borne_contrefactuelle_offre_troisieme_candidature_2026-09-29.md"
   - "../../autonomia/amendement_effectivite_article_72-5.md"
 review:
@@ -141,7 +141,25 @@ L'amendement d'effectivité au futur article 72-5 et la QPC A partagent un thèm
 
 > **Convergence doctrinale ≠ fusion procédurale.**
 
-## 9. Prochain probe
+## 9. Plateau du 6 octobre — L.299 comme cible, mais pas de QPC de remplissage
+
+L’article **L.299** est désormais le candidat législatif naturel : il impose l’acceptation écrite du remplaçant, sa signature et une mention manuscrite déterminée. Le litige 2026 lui est directement rattaché.
+
+Mais cette identification ne suffit pas. Une QPC ne peut pas se borner à soutenir que la préfecture ou le tribunal aurait mal appliqué L.299. Elle doit soutenir que **la disposition législative elle-même**, par son contenu ou par une interprétation jurisprudentielle constante qui lui serait imputable, porte atteinte à un droit ou une liberté que la Constitution garantit.
+
+Le point à tester est donc plus précis :
+
+> **L.299, en tant qu’il impose une signature et une mention manuscrite sans prévoir expressément le traitement d’un remplaçant empêché par un handicap de les accomplir personnellement, porte-t-il une atteinte disproportionnée à un droit ou une liberté constitutionnellement garanti, alors que le Conseil d’État a déjà admis, sous L.265, qu’un tiers puisse accomplir une formalité manuscrite à la demande d’un candidat empêché par un handicap, dès lors que son consentement éclairé est établi ?**
+
+Cette formulation reste un **candidat de QPC**, pas encore une QPC prête au dépôt. Il faut encore identifier avec précision le droit ou la liberté constitutionnelle invoqué, l’état de la jurisprudence constitutionnelle sur L.299, et vérifier si l’obstacle vient réellement du texte plutôt que de son application.
+
+**Kill-switch** : si ces conditions ne sont pas stabilisées avant le dépôt, ne pas déposer une QPC faible uniquement pour atteindre un nombre de QPC annoncé. Une QPC supplémentaire n’est utile que si elle ouvre une vraie question constitutionnelle.
+
+### Précédent contentieux directement utile
+
+La décision **n° 2014-4909 SEN du 23 janvier 2015** confirme que le Conseil constitutionnel, saisi de l’élection sénatoriale, peut examiner la régularité d’un refus préfectoral d’enregistrement d’une candidature. Dans cette affaire, le refus a finalement été jugé fondé. Ce précédent établit l’office du Conseil sur ce type de refus ; il ne tranche pas le fond de l’affaire 2026.
+
+## 10. Prochain probe
 
 Avant de rédiger une QPC A :
 
@@ -151,13 +169,13 @@ Avant de rédiger une QPC A :
 4. vérifier l'applicabilité de la disposition au contentieux électoral actuellement pendant devant le Conseil constitutionnel ;
 5. rédiger, si les conditions sont réunies, un mémoire QPC distinct et motivé à déposer à l'occasion de cette instance.
 
-## 10. Sources juridiques primaires
+## 11. Sources juridiques primaires
 
 - Constitution, article 61-1.
 - Ordonnance n° 58-1067 du 7 novembre 1958, articles 23-1 et 23-2.
 - Constitution, article 59, pour le contentieux des élections parlementaires.
 
-## 11. Statut de clôture provisoire
+## 12. Statut de clôture provisoire
 
 ```text
 QPC A
@@ -173,7 +191,7 @@ prochaine condition
 ```
 
 
-## 12. Reality check du 6 octobre 2026
+## 13. Reality check du 6 octobre 2026
 
 Sources primaires / institutionnelles à conserver :
 
