@@ -28,6 +28,22 @@ review:
 
 # Suivi du numéro 4
 
+## 6 octobre 2026 — instrumentation de l’effectivité
+
+Deux objets de recherche deviennent désormais des sources canoniques utiles au n°4 sans être recopiés dans le magazine :
+
+- [*Moyens et finalités* v0.5](../../research/moyens_et_finalites.md), qui distingue cadre d’interprétation, instrument d’observation et Reality Test ;
+- les deux incarnations EIM publiées dans Cogentia pour H4 et l’architecture des remèdes.
+
+Pour le n°4, la conséquence éditoriale est bornée : l’architecture déjà décrite comme **remède existant / remède disponible / remède utile dans le temps / capacité réellement restaurée** dispose maintenant d’une surface d’observation explicite. Cela ne modifie ni les conclusions juridiques de la requête ni le statut exploratoire du remedial probe.
+
+L’EIM-H4 ajoute un garde-fou utile à la convergence scrutin → amendement : la publication publique d’une proposition n’est pas assimilée à sa réception par un parlementaire, son routage, son examen ou sa reprise. Les champs encore inconnus restent UNKNOWN/PENDING jusqu’à trace contraire.
+
+Sources canoniques :
+- https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml
+- https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml
+
+
 ## 6 octobre 2026 — plateau pré-dépôt v0.14
 
 La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.14.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md). Son statut reste **non déposé**.
