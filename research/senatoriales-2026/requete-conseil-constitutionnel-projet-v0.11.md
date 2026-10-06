@@ -53,7 +53,7 @@ provenance:
   origin_ref: "34c5f13248b1e619fab7cd4d6a490c3fe3cb400d"
   origin_date: "2026-10-04"
   derived_from:
-    - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md"
+    - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.10.md"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -64,11 +64,11 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 ## Devant le Conseil constitutionnel
 ### Statuant en application de l'article 59 de la Constitution, des articles 32 à 45 de l'ordonnance n° 58-1067 du 7 novembre 1958 et de l'article L. 303 du code électoral
 
-## STATUT DE LA VERSION 0.10
+## STATUT DE LA VERSION 0.11
 
 > **Projet public de requête — non déposé au Conseil constitutionnel — consolidation pré-dépôt.**
 >
-> Cette version 0.10 part de la v0.9 et de l'état probatoire consolidé au **6 octobre 2026**. Elle ne transforme aucune inconnue en fait acquis et conserve la séparation entre faits établis, faits rapportés, inférences et questions ouvertes.
+> Cette version 0.11 part de la v0.10 et de l'état probatoire consolidé au **6 octobre 2026**. Elle ne transforme aucune inconnue en fait acquis et conserve la séparation entre faits établis, faits rapportés, inférences et questions ouvertes.
 >
 > Elle corrige deux incohérences de préparation au dépôt : la requête n'est **pas encore enregistrée** au Conseil constitutionnel ; et la liste procédurale des pièces est désormais séparée de l'inventaire analytique interne. Le document autonome `bordereau-pieces-requete-conseil-constitutionnel-v0.8.md` devient le projet de **bordereau de pièces** destiné à accompagner la requête, tandis que l'inventaire probatoire demeure un instrument de travail plus large.
 >
@@ -80,7 +80,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 ---
 
-## PROTOCOLE DE REVUE ADVERSE — v0.8
+## PROTOCOLE DE REVUE ADVERSE — v0.11
 
 La revue externe est invitée à chercher prioritairement les **motifs de rejet** plutôt que les arguments confirmatoires.
 
