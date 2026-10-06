@@ -56,7 +56,7 @@ Cette absence de recours interne vaut quelle que soit l'issue :
 Source officielle : Constitution, art. 62  
 https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019241079/
 
-## 3. La CEDH n'est pas un appel : c'est l'étage externe commun
+## 3. La CEDH n’est pas un appel : c’est une voie internationale ultérieure et conditionnelle
 
 La conséquence ne doit pas être formulée comme « la CEDH cassera la décision du Conseil constitutionnel ».
 
@@ -81,7 +81,14 @@ Cette architecture vaut potentiellement pour les deux parties :
 
 > **si Robert perd définitivement en France, une voie CEDH peut être étudiée pour ses griefs conventionnels ; si Parigi subit une décision définitive qu'il estime contraire à ses droits conventionnels, il peut lui aussi tenter une requête européenne, sous réserve de sa qualité de victime et des autres conditions de recevabilité.**
 
-La CEDH constitue donc l'étage international commun après la fermeture du contentieux interne, et non une arme réservée à une partie.
+La CEDH peut donc constituer, après la fermeture du contentieux interne, une voie internationale pour la personne qui demeure personnellement victime d’un grief conventionnel recevable. Cette possibilité est symétrique en droit abstrait, non automatique en pratique : chaque requérant doit établir sa propre qualité de victime et satisfaire séparément aux conditions de recevabilité.
+
+
+### 3.1. Ce que Strasbourg ne fait pas
+
+La CEDH ne suspend pas automatiquement une décision du Conseil constitutionnel, ne « casse » pas cette décision comme une juridiction d’appel et ne proclame pas elle-même un sénateur. Elle contrôle la responsabilité internationale de l’État au regard de la Convention. Un éventuel constat de violation relève ensuite du régime d’exécution de l’arrêt, avec, selon les cas, satisfaction équitable et mesures individuelles ou générales appropriées.
+
+Le délai de quatre mois n’est pas prolongé par la simple existence d’une démarche parallèle ou extraordinaire. Il se calcule à partir de la décision interne définitive rendue au terme des recours normaux et effectifs pertinents pour le grief considéré. Une saisine du Défenseur des droits ne doit donc pas être traitée comme interruptive ou suspensive de ce délai.
 
 ## 4. 2017, 2024, 2026 : répétition comme contexte, pas comme machine à rouvrir les délais
 
