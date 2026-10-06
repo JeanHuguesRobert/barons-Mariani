@@ -3,7 +3,7 @@ title: "Architecture des recours — Conseil constitutionnel, QPC, CEDH et remè
 subtitle: "Sénatoriales Haute-Corse 2026 — finalité, symétrie des voies et réparation d'un dommage temporel"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-05"
-version: "0.2"
+version: "0.3"
 status: "working — public — stratégie procédurale à vérifier avant dépôt"
 language: "fr"
 document_role: "source"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.9.md"
+  - "../requete-conseil-constitutionnel-projet-v0.10.md"
   - "../checklist-depot-requete-cc-2026-10-07.md"
   - "../qpc/qpc-a-candidature-senatoriale-2026.md"
   - "convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
@@ -245,3 +245,75 @@ vrai verrou
 ~~~
 
 Cette correction change la stratégie : **QPC A peut être préparée maintenant comme mémoire distinct accompagnant la requête**, tandis que QPC B reste à l'état de piste tant qu'aucune disposition législative applicable au litige 2026 n'est identifiée.
+
+
+## 12. CEDH : fermer le « trou » apparent
+
+L'articulation `épuisement des recours internes ↔ délai de quatre mois` ne crée pas une période indéfinie.
+
+La règle opératoire est :
+
+~~~text
+grief conventionnel
+→ recours internes normaux et effectifs
+→ décision finale pertinente
+→ quatre mois
+~~~
+
+Un recours extraordinaire, discrétionnaire, manifestement inapte à redresser le grief, ou engagé seulement pour tenter de prolonger le temps n'est pas nécessairement pris en compte par la Cour pour déplacer le point de départ.
+
+Conséquences pour la stratégie :
+
+1. **2024** : la décision ancienne ne redevient pas recevable du seul fait qu'un épisode similaire survient en 2026. Elle sert surtout de contexte de répétition, de connaissance et de comparaison.
+2. **2026** : le point de départ européen sera fixé à partir de la décision nationale finale pertinente pour le grief, sous réserve des règles propres de recevabilité.
+3. **Défenseur des droits** : sa saisine peut enrichir la trace, aider à qualifier l'accessibilité ou une discrimination et produire une réponse institutionnelle ; elle n'est pas traitée comme un mécanisme automatique de suspension du délai CEDH.
+4. **Préservation immédiate** : la substance du grief conventionnel doit être portée au niveau national dès maintenant, afin que l'État ait l'occasion de le redresser avant Strasbourg.
+5. **Requête complète** : la stratégie ne doit pas compter sur une lettre sommaire pour interrompre le délai ; la préparation post-CC doit viser un dossier complet conforme à la Rule 47.
+
+La répétition 2017 / 2024 / 2026 est donc juridiquement utile lorsqu'elle répond à une question précise :
+
+> **le cas 2026 est-il un incident isolé, ou la nouvelle manifestation d'une difficulté déjà portée à la connaissance des institutions et demeurée sans correction effective ?**
+
+Elle n'est pas un mécanisme de réouverture automatique des délais.
+
+## 13. Boucle vers le plateau pré-dépôt
+
+Le dossier doit maintenant converger, pas simplement grossir.
+
+Boucle :
+
+~~~text
+nouvelle trace / nouvelle objection
+→ change-t-elle matériellement la recevabilité, un grief, une pièce,
+  une conclusion, une QPC ou la préservation CEDH ?
+    → non : classer / référencer / ne pas gonfler la requête
+    → oui : corriger le document concerné
+→ revue adverse ciblée
+→ objections nouvelles ?
+    → principalement répétitives : plateau
+    → load-bearing : nouveau tour
+~~~
+
+### État au 6 octobre
+
+**Déjà suffisamment mûr pour ne plus être rouvert sans raison nouvelle :**
+- compétence du Conseil constitutionnel et fondement L.303 ;
+- distinction 354 voix / distance à la majorité absolue ;
+- framing 22–29 % / 33 % ;
+- A Voce et contrôle `soutien visible ≠ vote secret` ;
+- statut du bulletin « BARON MARIANI » ;
+- possibilité procédurale d'une QPC directement dans le contentieux sénatorial ;
+- architecture France → contrôle constitutionnel → éventuel contrôle conventionnel.
+
+**Encore load-bearing avant dépôt :**
+- cristalliser QPC A en mémoire distinct juridiquement autonome ;
+- décider si une QPC B dispose réellement d'une disposition législative précise, applicable et sérieusement contestable ;
+- vérifier le bordereau P-1…P-41 et décider si P-41 est jointe ;
+- finaliser les conclusions, notamment la place exacte du remedial probe de proclamation directe ;
+- faire la dernière revue adverse orientée vers les motifs de rejet ;
+- vérifier que la substance des griefs conventionnels qu'on voudrait éventuellement porter à Strasbourg a bien été soulevée devant le Conseil.
+
+### Règle de plateau
+
+> **À quelques heures du dépôt, une idée nouvelle n'entre plus dans la requête parce qu'elle est intéressante ; elle n'y entre que si elle modifie matériellement une condition de succès, de recevabilité, de preuve, de remède ou de préservation d'une voie ultérieure.**
+
