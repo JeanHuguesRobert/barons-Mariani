@@ -111,6 +111,28 @@ La Responsabilité d’effectivité complète cette boucle au point où l’obse
 
 La version publique `0.4-rc4` constitue un **Reality Case légistique** de ce principe. Elle reformule le mécanisme déjà consacré à la loi organique et à l’évaluation pour y intégrer la **mise en œuvre effective** du régime, son **évaluation périodique** et ses effets sur Liberté, Égalité, Fraternité. Elle ne constitue ni la source exclusive du principe ni un amendement propre au mouvement Capable ; sa provenance C.O.R.S.I.C.A. / Autonomie de Capacité reste distincte.
 
+### Grille et instrument d’observation
+
+➡️ [Moyens et finalités](../../research/moyens_et_finalites.md)
+
+Le mouvement doctrinal distingue désormais trois niveaux qui ne doivent pas être confondus :
+
+```text
+Principe d'effectivité / Rendre capable
+→ finalité doctrinale
+
+Moyens et finalités
+→ grille d'analyse des moyens, capacités, dépendances et fenêtres temporelles
+
+Effectivity Interaction Matrix (Cogentia)
+→ instrument d'observation, de gel et de continuation
+```
+
+L'EIM ne prouve pas la doctrine Capable et *Moyens et finalités* n'est pas un programme électoral. Leur fonction est méthodologique : rendre les écarts entre possibilité formelle et capacité praticable plus observables et plus falsifiables.
+
+Référence instrumentale :
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md
+
 ## Devise républicaine
 
 Capable traite **Liberté, Égalité, Fraternité** non seulement comme des principes déclarés mais comme des finalités dont l’effectivité peut être observée. L’amendement d’effectivité constitue la première projection constitutionnelle explicite de cette orientation.
