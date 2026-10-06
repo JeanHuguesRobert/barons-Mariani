@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.2"
-status: "working-paper — documentary analysis"
+version: "0.3"
+status: "superseded — retained for provenance"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/statutes-applicability-1995-2018-2026.md"
@@ -15,8 +15,9 @@ document_role: "operational"
 document_kind: "institutional-analysis"
 document_function: "statutes applicability assessment"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
+superseded_by: "projects/institut/preparation/statutes-1995-2018-comparison.md"
 related_documents:
   - "projects/institut/sources/statuts-1995-transcription.md"
   - "projects/institut/preparation/statutory-mandate-2025-2026.md"
@@ -38,6 +39,8 @@ review:
 ---
 
 # Quels statuts sont actuellement applicables ?
+
+> **SUPERSEDED.** La consolidation canonique actuelle est `projects/institut/preparation/statutes-1995-2018-comparison.md`, complétée par `current-statutes-baseline.md` et `statutes-lineage.md`. Ce fichier est conservé pour retracer le chemin d’analyse.
 
 ## 1. Conclusion provisoire
 
