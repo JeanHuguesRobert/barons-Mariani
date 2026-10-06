@@ -89,6 +89,16 @@ La photographie du bulletin imprimé « (Elections Sénatoriales 2027) BARON MAR
 
 Pour le n°4, la portée éditoriale est précise : le bulletin ne mesure pas un score, mais il montre qu'une expression électorale en faveur de l'offre absente a matériellement existé dans l'urne. Si la revendication publique est retrouvée et authentifiée, elle pourra renforcer la chaîne d'imputabilité sans extrapolation aux 39 autres bulletins nuls.
 
+## 6 octobre 2026 — synchronisation de la branche « influence » avec la v0.9
+
+La note publique [`contre_cela_naurait_rien_change_2026-10-02.md`](../../research/senatoriales-2026/investigation/contre_cela_naurait_rien_change_2026-10-02.md) passe en **v0.5** et pointe désormais explicitement vers la requête courante **v0.9**.
+
+Le noyau conservé est : **22–29 %** du collège selon les scénarios pour faire disparaître la majorité absolue au premier tour ; **33 %** effectivement observés le même jour en Corse-du-Sud pour une offre distincte ; soutien public d'**A Voce di a Natura Corsa** à la candidature Robert / Vernerey ; et contrôle empirique « **acqua in bocca** » fourni par l'écart entre la base institutionnelle immédiatement lisible autour de Nicolas Battini et ses **88 voix** finales.
+
+Les cinq personnes constituant cette base institutionnelle minimale documentée sont désormais nommées dans la note source — Nicolas Battini, Valérie Idda, Michel Bruschini, Philippe Serra et Audrey Mori — sans inférer de leur qualité leur bulletin secret. La fonction de cet exemple est uniquement de montrer que **visibilité publique des soutiens ≠ mesure du vote secret**.
+
+La trace Facebook du bulletin « BARON MARIANI » est elle aussi reliée à la v0.9. Le n°4 conserve donc la même chaîne : **pièce matérielle → analyse d'influence → requête courante → trace publique**, sans modifier le n°3 gelé.
+
 ## 6 octobre 2026 — consolidation pré-dépôt v0.9
 
 La v0.9 devient le brouillon courant. Elle conserve le noyau contentieux de la v0.8 mais corrige un point procédural matériel : **une QPC peut être posée directement au Conseil constitutionnel à l'occasion du contentieux électoral parlementaire**. La QPC A peut donc être préparée comme mémoire distinct, sous réserve de viser une disposition législative précise et applicable ; L.299 est le premier candidat à tester. La QPC B reste ouverte.
@@ -149,7 +159,7 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.9.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md).
 
-Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.6 part de la v0.5, réconcilie le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**), puis sépare le projet de bordereau de l'inventaire analytique. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
+Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.9 part de la v0.8, consolide l'état probatoire au 6 octobre, maintient P-39 et P-40, sépare le bordereau procédural de l'inventaire analytique, et corrige la stratégie QPC en reconnaissant qu'une QPC peut être posée directement dans ce contentieux électoral sous les conditions de recevabilité propres à cette voie. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
 
 Le dépôt doit intervenir, s'il est décidé, avant le mercredi 7 octobre 2026 à 18 h. Jusqu'à une trace effective de dépôt, le contenu demeure modifiable et cette page conserve explicitement le statut **non déposé**.
 
