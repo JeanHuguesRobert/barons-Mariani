@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 version: "1.6"
-status: "working-draft — aligned with CC petition v0.11 — for human review"
+status: "working-draft — aligned with CC petition v0.14 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -24,7 +24,7 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "requete-conseil-constitutionnel-projet-v0.11.md"
+  - "requete-conseil-constitutionnel-projet-v0.14.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
@@ -69,7 +69,7 @@ Le présent document conserve le nom historique d'**inventaire probatoire**, mai
 
 Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.10 est :
 
-`bordereau-pieces-requete-conseil-constitutionnel-v0.7.md`
+`bordereau-pieces-requete-conseil-constitutionnel-v0.8.md`
 
 La distinction est impérative :
 
@@ -289,7 +289,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 
 ### Contrôle de cohérence v1.5
 
-- La requête **v0.11**, le présent inventaire **v1.6** et le **bordereau autonome v0.8** doivent rester alignés avant tout dépôt.
+- La requête **v0.14**, le présent inventaire **v1.6** et le **bordereau autonome v0.8** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
 - Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
