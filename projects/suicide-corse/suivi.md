@@ -3,7 +3,7 @@ title: "Suicide Corse — suivi du numéro 4"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
-last_modified_at: "2026-10-05"
+last_modified_at: "2026-10-06"
 status: "working"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -89,6 +89,14 @@ La photographie du bulletin imprimé « (Elections Sénatoriales 2027) BARON MAR
 
 Pour le n°4, la portée éditoriale est précise : le bulletin ne mesure pas un score, mais il montre qu'une expression électorale en faveur de l'offre absente a matériellement existé dans l'urne. Si la revendication publique est retrouvée et authentifiée, elle pourra renforcer la chaîne d'imputabilité sans extrapolation aux 39 autres bulletins nuls.
 
+## 6 octobre 2026 — consolidation pré-dépôt v0.9
+
+La v0.9 devient le brouillon courant. Elle conserve le noyau contentieux de la v0.8 mais corrige un point procédural matériel : **une QPC peut être posée directement au Conseil constitutionnel à l'occasion du contentieux électoral parlementaire**. La QPC A peut donc être préparée comme mémoire distinct, sous réserve de viser une disposition législative précise et applicable ; L.299 est le premier candidat à tester. La QPC B reste ouverte.
+
+La v0.9 inclut aussi, conformément à l'arbitrage du requérant, une conclusion **infiniment subsidiaire** fondée sur l'article 41 : demander au Conseil, seulement s'il estime son office compatible avec cette hypothèse, d'envisager une réformation de la proclamation pouvant aller jusqu'à la proclamation du requérant. Cette demande est explicitement présentée comme exploratoire et non comme conséquence acquise.
+
+Le statut reste **non déposé**. Le n°4 suit ce mouvement sans modifier le n°3 gelé.
+
 ## 5 octobre 2026 — consolidation pré-dépôt v0.7
 
 Le projet courant désigné dans le Corpus est désormais [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md), version de consolidation pré-dépôt datée du 5 octobre. Son statut reste **non déposé** et **non enregistré**. La v0.7 renforce le grief d'influence par le framing 22–29 % / 33 %, le soutien A Voce et l'écart entre base visible et vote réel ; elle distingue le projet de bordereau procédural de l'inventaire probatoire analytique et consolide le dossier autour du contrôle de l'enregistrement, sans présenter les inconnues comme des faits établis.
@@ -139,7 +147,7 @@ La comparaison [`analyse_statistique_comparee_2A_2B_2020_2026.md`](../../researc
 
 ## Brouillon de requête — version courante, non déposée
 
-Fichier courant au 5 octobre : [`requete-conseil-constitutionnel-projet-v0.7.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.7.md).
+Fichier courant au 6 octobre : [`requete-conseil-constitutionnel-projet-v0.9.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md).
 
 Son en-tête porte : `working-draft — pre-filing consolidation — not filed`. La v0.6 part de la v0.5, réconcilie le projet avec le constat de consultation du 1er octobre (**P-39**) et le bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe (**P-40**), puis sépare le projet de bordereau de l'inventaire analytique. Elle ne transforme pas les réponses P1–P18 encore absentes en faits établis.
 
