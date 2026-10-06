@@ -28,6 +28,19 @@ review:
 
 # Suivi du numéro 4
 
+## 6 octobre 2026 — propagation de la stratégie de recours et des remèdes
+
+Le n°4 est désormais synchronisé avec la **v0.14** de la requête et l'annexe stratégique du 6 octobre. Quatre étages sont conservés séparément : **Conseil constitutionnel**, **QPC distinctes si elles passent leur propre test de qualité**, **Défenseur des droits**, puis **éventuelle CEDH après la décision interne définitive**.
+
+Deux invariants éditoriaux sont ajoutés au suivi :
+
+- **répétition 2017 / 2024 / 2026** : contexte d'effectivité et hypothèse de mécanisme récurrent, jamais procédé automatique de réouverture des délais ;
+- **remède extrême ≠ remède normalement disponible** : la proclamation directe de Jean Hugues Robert reste un *remedial probe* infiniment subsidiaire, utilisé pour tester l'affirmation « aucun remède n'existe » face à une perte temporelle potentiellement irréversible.
+
+La symétrie post-Conseil est également conservée : aucune des parties ne dispose d'un appel interne ordinaire contre une décision définitive du Conseil constitutionnel ; une éventuelle voie européenne exige, pour chaque personne, un grief conventionnel propre et ses propres conditions de recevabilité.
+
+Le chapitre `03-ce-qui-reste-ouvert.md`, la projection `book-n4-preparation.yml` et le manifeste `corpus.yml` ont été alignés sur cette architecture.
+
 ## 6 octobre 2026 — sécurisation opérationnelle du dépôt
 
 La branche pré-dépôt dispose désormais de trois objets opérationnels supplémentaires :
