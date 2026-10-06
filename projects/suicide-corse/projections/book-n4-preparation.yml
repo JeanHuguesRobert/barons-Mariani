@@ -48,8 +48,8 @@ preparation:
   filing_operational_plan: ../../../research/senatoriales-2026/pre-filing-operational-plan-2026-10-07.md
   filing_package_manifest: ../../../research/senatoriales-2026/filing-package-manifest-2026-10-07.md
   filing_receipt_template: ../../../research/senatoriales-2026/fiche-remise-requete-cc-2026-10-07.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md
-  petition_version: "0.14"
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.15.md
+  petition_version: "0.15"
   petition_status: "working-draft — pre-filing consolidation — not filed"
   petition_sync_policy: "When the Corpus promotes a newer petition as current before filing, update this pointer and the living view in the same editorial movement; do not duplicate the petition text."
   note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
