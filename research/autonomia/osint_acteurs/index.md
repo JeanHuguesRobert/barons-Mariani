@@ -1,0 +1,114 @@
+---
+title: "OSINT — acteurs du processus d’autonomie de la Corse"
+description: "Index méthodologique et file d’exploration des acteurs publics impliqués dans le processus d’autonomie de la Corse."
+author: unknown
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: '2026-10-06'
+license: CC BY-SA 4.0
+language: fr
+status: "working-paper — OSINT public-role dossier"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/osint_acteurs/index.md"
+document_role: source
+document_kind: research-note
+visibility: public
+lifecycle_state: working
+generated_by: "GPT-5.6 Sol"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: conversation
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-06'
+  derived_from:
+    - "research/autonomia/atlas_paysage_politique_corse.md"
+    - "research/chronologie_processus_beauvau_corse.md"
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
+# OSINT — acteurs du processus d’autonomie de la Corse
+
+## Objet
+
+Cette couche documentaire recense des **informations publiques relatives au rôle public** des personnes impliquées dans le processus d’autonomie de la Corse.
+
+Elle alimente notamment l’[Atlas du paysage politique et discursif corse](../atlas_paysage_politique_corse.md), la chronologie du processus de Beauvau et le Livre Vivant *Autonomia*.
+
+## Périmètre et règles
+
+- données biographiques publiques strictement pertinentes pour le rôle public ;
+- aucune donnée privée ni recherche sur la vie privée ;
+- séparation stricte entre **fait documenté**, **interprétation**, **hypothèse** et **inconnu** ;
+- aucune opinion attribuée à un collaborateur sur la seule base de la position de l’élu qui l’emploie ;
+- les absences de traces sont formulées comme « non retrouvé lors de la recherche », jamais comme preuve d’absence ;
+- priorité de recherche proportionnelle au **pouvoir détenu dans le processus** ;
+- progression **en largeur d’abord**, puis approfondissement des nœuds à fort pouvoir.
+
+## Typologie des sources
+
+| Catégorie | Définition |
+|---|---|
+| Institutionnelle / officielle | Sénat, Assemblée nationale, Gouvernement, Collectivité de Corse, HATVP, résultats électoraux officiels, rapports et comptes rendus publics. |
+| Politique | Parti, groupe, candidature, communiqué, discours ou publication politique attribuable. |
+| Médiatique | Presse, radio, télévision, agence ou média identifié. |
+| Professionnelle / documentaire | Profil professionnel public, université, colloque, organisme public ou parapublic, publication signée. |
+| Corpus | Document du Corpus servant de contexte, de chronologie ou de piste, sans être traité comme source externe indépendante. |
+
+## Matrice de pouvoir
+
+Chaque fiche distingue, lorsque les sources le permettent :
+
+- **pouvoir formel** : vote, compétence juridique, fonction institutionnelle ;
+- **pouvoir procédural** : rapport, amendement, ordre du jour, commission, accès au texte ;
+- **pouvoir politique** : capacité publique de coalition ou d’orientation ;
+- **pouvoir informationnel** : préparation, expertise, circulation de l’information ;
+- **pouvoir de réseau** : relations publiques documentées utiles au processus.
+
+Une qualification d’influence n’est jamais déduite d’un simple titre.
+
+## Première vague — cabinet de Paulu Santu Parigi
+
+| Acteur | Situation | Priorité |
+|---|---|---:|
+| [Paulu Santu Parigi](paulu_santu_parigi.md) | Sénateur de Haute-Corse ; nœud institutionnel direct du vote sénatorial | maximale |
+| [Anne Barbolosi](anne_barbolosi.md) | collaboratrice parlementaire actuellement visible dans le trombinoscope du Sénat | moyenne |
+| [Aurélia Beauchier Dompietrini](aurelia_beauchier_dompietrini.md) | collaboratrice déclarée à la HATVP en 2022 ; statut sénatorial courant à reconfirmer | moyenne |
+| [Mélissa Savalli Sarrola](melissa_savalli_sarrola.md) | collaboratrice parlementaire actuellement visible dans le trombinoscope du Sénat | moyenne |
+
+## État documentaire notable au 6 octobre 2026
+
+La déclaration d’intérêts HATVP déposée par Paul Toussaint Parigi le 2 décembre 2022 énumère trois collaborateurs : Anne Barbolosi, Mélissa Savalli Sarrola et Aurélia Beauchier-Dompietrini.
+
+Le trombinoscope public courant du Sénat consulté début octobre 2026 fait apparaître Anne Barbolosi et Mélissa Savalli Sarrola auprès de Parigi. Il ne fait pas apparaître Aurélia Beauchier-Dompietrini dans les pages consultées.
+
+**Conclusion bornée :** deux collaborations sont confirmées par une source sénatoriale courante ; la troisième est établie historiquement par la HATVP mais son état courant reste à vérifier. L’absence du trombinoscope ne vaut pas preuve de départ.
+
+## File d’exploration — largeur d’abord
+
+Prochaine vague recommandée :
+
+1. composition 2026 de la commission des lois et rapporteur du texte sur l’autonomie ;
+2. présidence et rapporteurs capables d’influer sur le texte ;
+3. responsables du groupe auquel Parigi est rattaché ;
+4. Jean-Jacques Panunzi et autres acteurs parlementaires corses ;
+5. Gouvernement et ministres directement porteurs du dossier ;
+6. exécutif et Assemblée de Corse ;
+7. acteurs politiques corses disposant d’une capacité de coalition ou d’obstruction ;
+8. experts et participants aux travaux Beauvau et au chantier organique.
+
+## Sources transversales de départ
+
+- Sénat — dossier législatif autonomie : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Sénat — trombinoscope des collaborateurs par département : https://www.senat.fr/trombinoaga/trombinoDP_2B.html
+- HATVP — fiche Paul Toussaint Parigi : https://www.hatvp.fr/fiche-nominative/?declarant=parigi-paul-toussaint-20910
+- Corpus — Atlas : ../atlas_paysage_politique_corse.md
+- Corpus — addendum septembre 2026 : ../atlas_paysage_politique_corse_addendum_2026-09.md
+- Corpus — chronologie Beauvau : ../../chronologie_processus_beauvau_corse.md
+
+## Questions ouvertes
+
+- Quelle est la composition exacte de l’équipe de Parigi après sa réélection de septembre 2026 ?
+- Quelle répartition publique des fonctions entre collaborateurs peut être établie sans inférence ?
+- Quel sénateur sera rapporteur du texte lors de l’examen d’octobre 2026 ?
+- Quels acteurs détiennent réellement les principaux leviers d’amendement, de coalition et de verrouillage du texte ?
