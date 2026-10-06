@@ -22,6 +22,7 @@ related_probe: "RP-SEN-09"
 focus: "examen effectif de la candidature — préfecture, handicap, régularisations praticables, contrôle propre du TA"
 source_documents:
   - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+  - "research/senatoriales-2026/checklist-depot-requete-cc-2026-10-07.md"
   - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
   - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
   - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.6.md"
