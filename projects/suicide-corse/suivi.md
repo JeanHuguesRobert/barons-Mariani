@@ -28,9 +28,11 @@ review:
 
 # Suivi du numéro 4
 
-## 6 octobre 2026 — plateau pré-dépôt v0.13
+## 6 octobre 2026 — plateau pré-dépôt v0.14
 
-La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.13.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.13.md). Son statut reste **non déposé**.
+La requête courante est désormais [`requete-conseil-constitutionnel-projet-v0.14.md`](../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.14.md). Son statut reste **non déposé**.
+
+La v0.14 consolide explicitement l'architecture **Conseil constitutionnel → QPC distinctes → Défenseur des droits → éventuelle CEDH**, la symétrie procédurale post-Conseil pour M. Robert comme pour M. Parigi, la répétition **2017 / 2024 / 2026** comme contexte d'effectivité sans réouverture artificielle des délais, et la proclamation directe du requérant comme **probe de remède infiniment subsidiaire**. L'annexe stratégique associée est [`annexe-strategie-recours-remedes-repetition-2026-10-06.md`](../../research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md).
 
 La passe de plateau a produit des corrections matérielles plutôt qu'un simple enrichissement : tous les griefs doivent être présents en substance avant l'expiration du délai de l'article 33 ; l'article 35 permet exceptionnellement de compléter certaines **pièces**, pas de créer librement de nouveaux griefs ; L.299 est assumé comme imposant signature et mention manuscrite et le débat est recentré sur l'exception fonctionnelle liée au handicap et sur la portée exacte de l'exigence d'un original matériel ; l'effet d'une annulation est raccordé à LO 322 plutôt qu'à une injonction autonome inventée.
 
