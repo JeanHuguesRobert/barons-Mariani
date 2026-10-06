@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.1"
+version: "0.2"
 status: "source-transcription — unreviewed"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -44,15 +44,19 @@ Les images montrent, sur chaque page, les signatures / paraphes des trois fondat
 
 > **Corte le 25/12/95**
 
-Trois dates doivent rester distinctes :
+Les pièces administratives retrouvées permettent désormais de distinguer cinq dates :
 
 - **25 décembre 1995** : date manuscrite portée sur l'exemplaire signé ;
-- **26 décembre 1995** : date de création actuellement publiée par l'Annuaire des Entreprises / INSEE ;
-- **26 janvier 1996** : date citée dans une demande adressée en avril 2018 à la préfecture pour obtenir « les statuts de l'association CORSICA du 26 janvier 1996 ».
+- **26 décembre 1995** : date de déclaration publiée au Journal officiel, aujourd'hui reprise comme date de création par l'INSEE ;
+- **04 janvier 1996** : date de déclaration portée sur le récépissé de sous-préfecture ;
+- **08 janvier 1996** : date du récépissé ;
+- **24 janvier 1996** : date du Journal officiel.
 
-La signification administrative exacte du 26 janvier 1996 reste à documenter. Elle ne doit pas être confondue avec la date manuscrite de signature.
+Le décalage entre le 26 décembre et le 4 janvier est conservé comme divergence documentaire, sans tentative de résolution spéculative.
 
 Le 3 avril 2018, la préfecture de Haute-Corse a transmis par email une copie de ces statuts à la demande du secrétaire. Le 9 décembre 2018, cette copie a été retransmise à un tiers comme « copie des statuts de l'association C.O.R.S.I.C.A. venant de la préfecture ».
+
+Le récépissé et le Journal officiel sont transcrits séparément dans `projects/institut/sources/recepisse-jo-1996-transcription.md`.
 
 Cette transcription vise la lisibilité. Le scan reste la source primaire.
 
