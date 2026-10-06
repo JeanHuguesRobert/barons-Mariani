@@ -495,7 +495,7 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
 
 Le **bordereau procédural autonome** de la présente version est :
 
-`research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.6.md`
+`research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.7.md`
 
 Il doit être lu comme un **projet de bordereau de production**, non comme la preuve que toutes les pièces qui y sont recensées ont déjà été déposées au Conseil constitutionnel.
 
@@ -505,7 +505,7 @@ Cette séparation est volontaire :
 - l'**inventaire probatoire** conserve un champ plus large, incluant contexte, traces privées, éléments à occulter et objets qui peuvent rester en réserve ;
 - la **requête** ne doit présenter comme « pièce produite » qu'un document effectivement joint ou remis selon le canal de saisine retenu.
 
-Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au soutien des moyens doivent être annexées à la requête ; le Conseil peut exceptionnellement accorder un délai pour une partie d'entre elles. La v0.6 privilégie donc un dossier initial autonome et lisible, sans faire dépendre la compréhension du Conseil d'un lien GitHub ou d'une ressource web.
+Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au soutien des moyens doivent être annexées à la requête ; le Conseil peut exceptionnellement accorder un délai pour une partie d'entre elles. La présente version privilégie donc un dossier initial autonome et lisible, sans faire dépendre la compréhension du Conseil d'un lien GitHub ou d'une ressource web.
 
 ### Sous-inventaire P-14 — bundle initial de la saisine préfectorale
 
