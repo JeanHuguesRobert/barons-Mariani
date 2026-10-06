@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.9"
+version: "0.10"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -79,6 +79,14 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Corpus complet des courriels** — conserver et indexer tous les courriels matériellement pertinents avec préfecture, TA, Défenseur des droits, remplaçante et autres acteurs ; distinguer **complétude de conservation** et **sélectivité de production au Conseil**.
 - [~] **Minute du jugement / demandes réitérées au TA — P-21, P-29 à P-33** — chaîne documentaire matérialisée dans `investigation/chaine-ta-p29-p33-2026-10-06.md`, avec séparation demande/réponse/inconnu. Reste à vérifier que les courriels natifs P-29 à P-33 sont effectivement présents et lisibles dans le paquet matériel remis ; l’index ne les remplace pas.
 - [x] **Correspondance Laurence — P-43** — index vérifié créé à partir de Gmail ; messages décisifs identifiés (préparation, identité, autorisation expresse, porte-parole, vidéo, AAH). Ne pas republier dans GitHub le contenu privé intégral ; produire au Conseil seulement ce qui est nécessaire, avec minimisation.
+- [ ] **Diligence Bastia → Ajaccio du 11 septembre** — documenter explicitement la séquence matérielle après le dépôt physique à Bastia : déplacement du candidat jusqu’à Ajaccio pour rejoindre Mme Vernerey et enregistrer avec elle, avant 18 h, une déclaration vidéo commune. Vérifier et relier les traces disponibles du déplacement et de l’horaire ; ne pas réduire cette diligence à la simple existence abstraite d’une « vidéo ».
+- [ ] **Vidéo P-13 — texte exact lu en commun** — retrouver ou établir une transcription fidèle du texte effectivement lu par M. Robert et Mme Vernerey dans la prise continue du 11 septembre ; permettre au Conseil de lire immédiatement les affirmations d’identité, de volonté et de consentement sans dépendre du seul visionnage. Conserver la distinction : force probatoire du consentement ≠ substitution automatique aux formalités de L.299.
+- [x] **P-12/P-13 — émission avant l’échéance** — courriel de transmission envoyé au Bureau des élections le 11 septembre à **17 h 57 min 55 s**, avec lien vers la déclaration vidéo commune ; l’inventaire initial P-14 ne mentionne ni P-11 ni P-12. Ne pas confondre émission établie avec réception par l’infrastructure de l’État ou versement au TA, qui restent des questions distinctes.
+- [ ] **Chaîne de relances vidéo — 14–18 septembre** — faire apparaître dans la requête, pièces à l’appui, la continuité des démarches : **14/09 avant audience**, demande à la préfecture avec greffe en copie de faire verser le courriel/vidéo manquant ; **15/09**, trois questions factuelles (reçu avant 18 h ? transmis avec la saisine ? transmis ultérieurement ?) ; **16/09**, relance ; réponse Vidal ne répondant pas matériellement aux trois questions ; **17/09**, reformulation « oui / non / information non disponible » ; **18/09**, nouvelle relance constatant l’absence de réponse. Relier ensuite les demandes des 25/09, 01/10 et 02/10.
+- [ ] **Vidéo — triptyque probatoire** — distinguer et documenter séparément : **(a) produite/envoyée**, **(b) reçue/versée au dossier**, **(c) effectivement examinée/visionnée**. À ce stade : (a) établi côté expéditeur ; (b) non établi pour P-12/P-13 ; (c) aucune trace institutionnelle identifiée. Ne jamais convertir l’absence de preuve de (b) ou (c) en preuve positive de non-transmission ou de non-examen.
+- [ ] **Diligences maximales sur le consentement** — vérifier que la requête expose cumulativement, et non en fragments dispersés : autorisation écrite de Laurence, pièces d’identité et électorales, présence physique du candidat, déplacement pour rencontre physique commune, déclaration vidéo en prise continue, transmission avant 18 h, offre de visionnage au TA rapportée, puis production AAH. L’objet est de permettre au Conseil d’apprécier la réalité et l’intensité des garanties apportées sur l’authenticité du consentement.
+- [ ] **Biais de cadrage / propagation de prémisse** — vérifier que la requête explique, sans psychologie attribuée aux personnes, le risque qu’une prémisse administrative globale (« originaux papier ») ait structuré l’examen juridictionnel au point de rendre périphériques les éléments dissonants : consentement documenté, handicap, présence physique du candidat, solutions praticables, vidéo et distinction L.298/L.299. Employer un vocabulaire de cadrage institutionnel / propagation de prémisse, pas un diagnostic cognitif individuel.
+- [ ] **Test de cohérence candidat / remplaçante** — isoler la question suivante : si la dématérialisation était en elle-même rédhibitoire, pourquoi distinguer le traitement du candidat physiquement présent et celui de la remplaçante absente, alors que la saisine mobilise spécialement L.299 ? Si le vrai nœud est l’acte personnel de la remplaçante, vérifier que handicap, consentement éclairé et CE 14 mai 2021, n° 445497 sont examinés explicitement.
 - [x] **CEDH** — la v0.14 ne présente pas Strasbourg comme un appel du Conseil constitutionnel et conserve la logique recours internes pertinents → décision interne définitive → délai de quatre mois.
 - [x] **Symétrie seulement conditionnelle** — la v0.14 explicite que Robert comme Parigi ne peuvent envisager Strasbourg qu’en qualité personnelle de victime d’un grief conventionnel défendable ; la fermeture de la voie interne ne crée pas à elle seule un droit à un examen au fond.
 - [x] **2017 / 2024 / 2026** — répétition conservée comme contexte, connaissance institutionnelle et hypothèse de mécanisme récurrent ; **répétition ≠ situation continue** et ne rouvre pas, à elle seule, les délais expirés.
@@ -263,3 +271,14 @@ Objets ajoutés :
 Arbitrage P-41 : **soutien/réserve**, ne pas joindre par défaut au noyau initial.
 
 La fermeture complète du dépôt reste impossible avant vérification matérielle des pièces et obtention de la preuve réelle de remise.
+
+
+## UPDATE — 6 octobre 2026 — v0.10 / vidéo, consentement et traçabilité
+
+- ajout du contrôle de la **diligence Bastia → Ajaccio** du 11 septembre, à documenter par traces disponibles ;
+- ajout d’un contrôle de **transcription exacte de P-13**, afin que le contenu probatoire de la déclaration commune soit immédiatement lisible ;
+- ajout de la chaîne de demandes **14–18 septembre** portant spécifiquement sur la réception, le versement et le traitement du courriel de 17 h 57 / vidéo, avant les relances des 25 septembre, 1er et 2 octobre ;
+- ajout du triptyque **produite/envoyée → reçue/versée → effectivement examinée**, avec interdiction de transformer une inconnue en fait négatif acquis ;
+- ajout d’un contrôle des **diligences cumulatives** destinées à garantir l’authenticité du consentement de la remplaçante ;
+- ajout du **biais de cadrage / propagation de prémisse** comme test institutionnel et non psychologique ;
+- ajout du **test de cohérence candidat/remplaçante**, articulé à L.298, L.299, au handicap et à CE, 14 mai 2021, n° 445497.
