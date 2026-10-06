@@ -4,8 +4,8 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-26'
-version: '0.5'
-status: working-paper — observatory_v0.5
+version: '0.6'
+status: working-paper — observatory_v0.6
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
@@ -46,7 +46,8 @@ changelog:
   - 'v0.3 (2026-09-15) — propagation documentaire : contribution parlementaire alignée sur son état historique v0.2 et chantier #73 constaté comme achevé.'
   - 'v0.4 (2026-09-26) — ajout de la distinction autonomie formelle / possible / de capacité, de l’amendement d’effectivité v0.3-rc1 et de la fenêtre post-scrutin du 27 septembre.'
   - 'v0.5 (2026-09-26) — propagation de la publication de l’amendement d’effectivité v0.4-rc4 : forme parlementaire candidate, intégration dans l’alinéa organique existant, revue adverse accomplie et fenêtre sénatoriale explicitée.'
-last_modified_at: '2026-09-26'
+  - 'v0.6 (2026-10-06) — instrumentation EIM-H4 : séparation explicite entre publication, réception, routage, examen et reprise parlementaire ; inconnues conservées.'
+last_modified_at: '2026-10-06'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -100,6 +101,24 @@ Toute affirmation de capacité doit pouvoir être décomposée, lorsque cela est
 Les expressions telles que « la Corse décide », « la Corse gagne du pouvoir » ou « les Corses peuvent agir » sont donc des compressions rédactionnelles qui doivent être décomposées dès que l’analyse l’exige.
 
 ---
+
+## 0 bis. Effectivité du canal parlementaire — EIM-H4
+
+Le processus dispose désormais d'une baseline instrumentée pour éviter une confusion fréquente :
+
+```text
+publication publique
+≠ réception par un acteur compétent
+≠ routage interne
+≠ examen
+≠ reprise parlementaire
+```
+
+L'[EIM-H4](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml) enregistre séparément ces états.
+
+À la date du gel, le Corpus établit l'existence publique de la proposition d'amendement et des canaux parlementaires antérieurs de contribution. Il n'établit pas encore, pour la version candidate considérée, quels titulaires précis du droit d'amendement l'ont reçue directement, quand, par quel routage, ni si une éventuelle reprise ultérieure lui serait causalement attribuable.
+
+Cette absence de trace reste un **inconnu**, non un refus imputé.
 
 # 1. État courant — 26 septembre 2026
 
