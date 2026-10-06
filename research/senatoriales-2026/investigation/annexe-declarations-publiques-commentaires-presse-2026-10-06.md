@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.10.md"
+  - "../requete-conseil-constitutionnel-projet-v0.14.md"
   - "contre_cela_naurait_rien_change_2026-10-02.md"
   - "../data/resultats_officiels_scrutin_2026-09-27.md"
 ---
@@ -238,3 +238,14 @@ Son usage utile est ciblé :
 > **documenter que l'offre politique était réelle, que le vote secret ne se lit pas dans les seuls soutiens visibles, que des circulations étaient publiquement évoquées avant le scrutin, et que les ordres de grandeur nécessaires au nord ne sont pas étrangers au scrutin corse contemporain.**
 
 Elle doit rester subordonnée au noyau juridique : légalité du refus, effet sur l'offre électorale, seuil de majorité absolue et impossibilité de tenir l'influence pour manifestement inexistante par la seule lecture de 442 contre 88.
+
+
+## 10. Arbitrage pré-dépôt — 6 octobre 2026
+
+Les principales URLs et affirmations structurantes de cette annexe ont été revérifiées avant dépôt.
+
+Disposition :
+
+> **P-41 reste une pièce B — soutien / réserve et n'est pas destinée à être jointe par défaut au noyau initial.**
+
+Sa fonction est contextuelle : montrer que le vote secret n'est pas lisible dans les seuls soutiens visibles et préserver des formulations adverses contemporaines. Elle ne remplace ni les résultats officiels, ni les pièces primaires du dépôt de candidature, ni la démonstration juridique du grief.
