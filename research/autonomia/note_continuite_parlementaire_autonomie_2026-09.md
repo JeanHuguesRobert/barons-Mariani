@@ -293,6 +293,26 @@ La continuité institutionnelle avec Florent Boudié est documentée : son servi
 
 ---
 
+### Instrumentation du canal — 6 octobre 2026
+
+La continuité documentaire dispose désormais d'une observation EIM dédiée :
+
+https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-h4.yaml
+
+Elle formalise la distinction suivante :
+
+```text
+mise à disposition publique
+→ réception éventuelle
+→ routage éventuel
+→ examen éventuel
+→ reprise éventuelle
+```
+
+Le canal de mai 2026 fournit un précédent où la transmission à la commission puis la mention dans le rapport sont documentées. Pour l'amendement de septembre, ces états ne sont pas présumés : ce que le Corpus ne documente pas encore reste `UNKNOWN` ou `PENDING`.
+
+Cette instrumentation ne transforme donc ni l'existence publique du texte en preuve d'influence, ni un silence en refus.
+
 ## 9. Position méthodologique
 
 Le corpus est public, versionné et corrigible.
