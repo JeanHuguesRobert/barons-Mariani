@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.1"
-status: "source-transcription — unreviewed"
+version: "0.2"
+status: "superseded — retained for provenance"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/sources/recepisse-jo-1996-transcription.md"
@@ -15,8 +15,9 @@ document_role: "derived"
 document_kind: "source-transcription"
 document_function: "administrative founding records transcription"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
+superseded_by: "projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md"
 related_documents:
   - "projects/institut/sources/statuts-1995-transcription.md"
   - "projects/institut/preparation/statutes-applicability-1995-2018-2026.md"
@@ -33,6 +34,8 @@ review:
 ---
 
 # C.O.R.S.I.C.A. — récépissé et Journal officiel 1996
+
+> **Statut documentaire : SUPERSEDED.** La transcription canonique vérifiée contre le scan est `projects/institut/sources/declaration-jo-corsica-1995-1996-transcription.md`. Ce fichier reste conservé comme trace de travail.
 
 ## 1. Récépissé de déclaration
 
