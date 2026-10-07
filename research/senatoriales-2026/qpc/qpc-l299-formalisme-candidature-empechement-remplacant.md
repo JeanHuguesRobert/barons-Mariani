@@ -202,3 +202,70 @@ Sources primaires / institutionnelles à conserver :
 - Code électoral, article L.299 : candidat naturel actuel pour QPC relative à l’article L.299, sous réserve d'une revue spécifique de sa constitutionnalité antérieure et de l'angle exact du grief.
 
 Conséquence opérationnelle : **la question n'est plus “peut-on poser directement une QPC ?”, mais “quelle disposition précise attaquer, par quel grief constitutionnel sérieux, dans un mémoire distinct ?”**
+
+
+## Revue approfondie — 7 octobre 2026
+
+### Norme constitutionnelle centrale
+
+Le meilleur fondement est le **droit d'éligibilité** tiré de l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789.
+
+Le Conseil constitutionnel juge que le législateur ne saurait priver un citoyen du droit d'éligibilité dont il jouit en vertu de l'article 6 de la Déclaration que dans la mesure nécessaire au respect du principe d'égalité devant le suffrage et à la préservation de la liberté de l'électeur.
+
+L'article 3 de la Constitution, qui garantit l'universalité et l'égalité du suffrage, et l'article 4, relatif au pluralisme des courants d'idées et d'opinions, peuvent compléter cet ancrage.
+
+### Finalité légitime de L.299
+
+L'article L.299 poursuit une finalité probatoire légitime : garantir que le remplaçant a personnellement consenti à cette qualité et éviter les candidatures ou désignations frauduleuses.
+
+Le grief ne doit donc pas contester le principe d'une acceptation écrite, d'une signature ou d'une manifestation claire du consentement.
+
+La question est celle de la **proportionnalité du moyen** lorsque le geste matériel personnel est rendu impossible par un handicap mais que l'identité et le consentement éclairé peuvent être établis de façon certaine.
+
+### Jurisprudence administrative déterminante
+
+Dans sa décision du 14 mai 2021, n° 445497, le Conseil d'État a jugé, à propos de l'article L.265 du code électoral, que la signature et la mention manuscrite sont en principe des formalités personnellement accomplies.
+
+Il a toutefois admis une exception lorsqu'un handicap permanent ou provisoire empêche le candidat de signer ou d'apposer personnellement la mention manuscrite : dès lors que son consentement éclairé est établi, un tiers peut accomplir matériellement le geste à sa demande.
+
+La proximité fonctionnelle avec L.299 est forte : dans les deux cas, la signature et la mention manuscrite ont pour fonction d'attester un consentement électoral personnel.
+
+### Force constitutionnelle du grief
+
+La QPC peut être formulée ainsi :
+
+- la loi poursuit une finalité légitime de preuve du consentement ;
+- elle impose un moyen matériel déterminé ;
+- appliqué sans possibilité d'adaptation à une personne empêchée par un handicap, ce moyen peut exclure la candidature tout entière ;
+- cette exclusion affecte le droit d'éligibilité du candidat principal et la participation politique du remplaçant ;
+- une solution moins restrictive existe et a déjà été reconnue par le Conseil d'État dans un régime électoral voisin : accomplissement matériel par un tiers, sur demande, avec consentement éclairé établi.
+
+### Objection principale
+
+**Objection :** aucune inconstitutionnalité du texte n'existe, puisque L.299 peut être interprété, comme L.265, de manière à admettre l'assistance d'un tiers en cas de handicap. Le litige ne porterait alors que sur une mauvaise application de la loi.
+
+**Réponse :** cette objection est sérieuse et peut conduire à une réserve d'interprétation plutôt qu'à une censure. Elle ne détruit pas nécessairement la QPC : elle peut précisément justifier que le Conseil constitutionnel dise que L.299 n'est conforme à la Constitution que sous réserve qu'il ne fasse pas obstacle, lorsqu'un handicap empêche l'accomplissement personnel du geste, à ce qu'un tiers l'accomplisse à la demande du remplaçant dès lors que son consentement éclairé est établi.
+
+Cette voie paraît plus juridiquement proportionnée qu'une demande de censure pure et simple.
+
+### Égalité et handicap
+
+Le principe général d'égalité ne suffit pas, à lui seul, à imposer au législateur de traiter différemment toutes les situations différentes. Il est donc préférable de ne pas bâtir la QPC sur l'idée générale qu'une personne handicapée devrait nécessairement recevoir un traitement distinct.
+
+Le grief doit rester centré sur le **droit d'éligibilité** et la disproportion entre la finalité probatoire de la formalité et l'effet éliminatoire résultant d'un empêchement matériel indépendant de la volonté de l'intéressé.
+
+### Formulation candidate
+
+> **Les dispositions de l'article L.299 du code électoral, en ce qu'elles imposent au remplaçant d'un candidat aux élections sénatoriales une signature et une mention manuscrite sans prévoir expressément le cas où un handicap permanent ou provisoire l'empêche d'accomplir personnellement ces gestes, portent-elles une atteinte disproportionnée au droit d'éligibilité garanti par l'article 6 de la Déclaration de 1789, alors que l'identité et le consentement éclairé du remplaçant peuvent être établis et que l'accomplissement matériel de la formalité par un tiers à sa demande permet d'en préserver la finalité probatoire ?**
+
+### Réserve d'interprétation candidate
+
+À titre principal ou subsidiaire dans le mémoire :
+
+> **L'article L.299 ne saurait, sans porter une atteinte disproportionnée au droit d'éligibilité, être interprété comme interdisant qu'un tiers appose matériellement la signature ou la mention manuscrite à la demande d'un remplaçant qu'un handicap permanent ou provisoire empêche de le faire lui-même, dès lors que son identité et son consentement éclairé sont établis.**
+
+### Statut après revue
+
+**Piste forte pour une demande de conformité sous réserve ; piste plus fragile pour une censure pure.**
+
+Le précédent du Conseil d'État du 14 mai 2021 renforce considérablement la démonstration de proportionnalité, mais il fournit en même temps au Conseil constitutionnel une voie de sortie par interprétation conforme.
