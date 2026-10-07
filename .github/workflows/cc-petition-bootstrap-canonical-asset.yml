@@ -1,4 +1,4 @@
-name: Bootstrap CC canonical PDF asset
+name: Bootstrap CC pre-freeze build asset
 
 on:
   push:
@@ -15,10 +15,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Promote existing REVIEW PDF to canonical release asset
+      - name: Promote existing REVIEW PDF to immutable build release
         env:
           GH_TOKEN: ${{ github.token }}
-          TAG: senatoriales-2026-cc-depot-2026-10-07
+          TAG: senatoriales-2026-cc-build-66f34d0cb32e94509988b6f83a87c8a215b3fb81
           SOURCE: research/senatoriales-2026/review-pdf/66f34d0cb32e94509988b6f83a87c8a215b3fb81/requete-conseil-constitutionnel-REVIEW.pdf
           ASSET: requete-conseil-constitutionnel-haute-corse-2026.pdf
         shell: bash
@@ -27,12 +27,18 @@ jobs:
           test -s "$SOURCE"
           cp "$SOURCE" "$RUNNER_TEMP/$ASSET"
 
-          if ! gh release view "$TAG" --repo "${{ github.repository }}" >/dev/null 2>&1; then
-            gh release create "$TAG"               --repo "${{ github.repository }}"               --target "${{ github.sha }}"               --prerelease               --title "Sénatoriales Haute-Corse 2026 — PDF pré-gel"               --notes "Asset de build à URL canonique stable. Contenu actuel : version pré-gel. Le binaire n'a pas vocation à être versionné dans Git."
+          if gh release view "$TAG" --repo "${{ github.repository }}" >/dev/null 2>&1; then
+            echo "Build release already exists: $TAG"
+            exit 0
           fi
 
-          gh release delete-asset "$TAG" "$ASSET" --repo "${{ github.repository }}" --yes >/dev/null 2>&1 || true
-          gh release upload "$TAG" "$RUNNER_TEMP/$ASSET#$ASSET" --repo "${{ github.repository }}" --clobber
+          # Immutable Releases require assets to be attached at creation time.
+          gh release create "$TAG" "$RUNNER_TEMP/$ASSET#$ASSET" \
+            --repo "${{ github.repository }}" \
+            --target "66f34d0cb32e94509988b6f83a87c8a215b3fb81" \
+            --prerelease \
+            --title "Sénatoriales Haute-Corse 2026 — build pré-gel 66f34d0c" \
+            --notes "Asset de build pré-gel. Le PDF est conservé comme asset de Release et n'a pas vocation à être versionné dans Git."
 
-          echo "Canonical URL:"
+          echo "Build asset URL:"
           echo "https://github.com/${{ github.repository }}/releases/download/$TAG/$ASSET"
