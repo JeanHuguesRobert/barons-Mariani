@@ -148,3 +148,35 @@ Utiliser en parallèle :
 5. remise physique redondante à Paris si possible.
 
 Tous ces canaux doivent transporter le **même paquet figé**.
+
+## 9. Chronologie critique du 7 octobre 2026 — existence du document et disponibilité du lien
+
+Pour l'analyse probatoire du dépôt, quatre événements doivent être distingués sans les confondre :
+
+1. **Le PDF de la requête existait matériellement avant 18 h.** Il avait été produit et matérialisé dans GitHub sous forme de snapshot REVIEW avant les envois institutionnels.
+2. **Les envois de saisine / transmission ont été effectués avant 18 h**, entre 17:48:42 et 17:49:25 CEST.
+3. **Deux réceptions institutionnelles sont positivement attestées avant 18 h** : la Préfecture de la Haute-Corse et son Bureau des élections ont chacun émis à 17:49:24 CEST un accusé indiquant explicitement que « le présent accusé de réception atteste de la réception de votre saisine ».
+4. **Le résolveur public communiqué dans les courriels a connu une défaillance temporaire distincte.** Entre 17:58:20 et 18:01:21 CEST, l'URL
+   `https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf`
+   répondait HTTP 200 mais retournait encore la page HTML du site. Après réactivation des builds Netlify et nouveau déploiement, cette même URL a été vérifiée à **18:05:05 CEST** comme servant effectivement un PDF valide :
+   - HTTP 200 ;
+   - `Content-Type: application/pdf` ;
+   - signature initiale `%PDF-` ;
+   - taille 200935 octets ;
+   - SHA-256 `2968cbe0a5de0f5e279e70d28c0769d4a8dbf8ca8f6f7e4571864333ecaa02a0`.
+
+### Qualification probatoire
+
+La panne temporaire du chemin HTTP public **ne doit pas être reformulée comme une inexistence de la requête avant 18 h**.
+
+Elle affecte un **mécanisme d'accès** à un document qui existait déjà matériellement. La chronologie doit donc conserver quatre catégories indépendantes :
+
+~~~text
+existence matérielle du document
+≠ envoi
+≠ réception de la saisine
+≠ disponibilité correcte du résolveur HTTP
+~~~
+
+Cette distinction est essentielle pour toute analyse ultérieure de la preuve du dépôt et de sa transmission.
+
