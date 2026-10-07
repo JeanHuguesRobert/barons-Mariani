@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.16"
+version: "0.17"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -137,6 +137,44 @@ Une règle de contrôle qui ne produit aucun effet observable sur le data plane 
 
 Références conceptuelles canoniques du Corpus : séparation control/data plane dans Inox/Cogentia et principe de localité / FractaCognition.
 
+### Règle de style à deux vitesses
+
+**Grand public :**
+~~~text
+lecteur intelligent
++ attention rare
++ temps rare
+→ phrases courtes
+→ une idée par phrase
+→ mots concrets
+→ métaphores parlantes
+→ conclusion explicite
+~~~
+
+**Expert :**
+~~~text
+juriste junior
++ aucune connaissance préalable du dossier
+→ règle
+→ source
+→ application
+→ objection
+→ réponse
+→ conséquence
+~~~
+
+**Talleyrand :**
+~~~text
+implicite utile
+→ expliciter
+ambiguïté plausible
+→ fermer
+enchaînement logique
+→ écrire
+~~~
+
+Une section qui ne peut être comprise qu'en « lisant entre les lignes » échoue au contrôle.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -169,6 +207,10 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 
 ## A. MUST BEFORE FILING
 
+- [ ] **Intelligibilité grand public — budget attentionnel minimal** — écrire comme pour un lecteur intelligent mais disposant de très peu de temps et d’attention. Une phrase courte = une idée principale. Préférer sujet + verbe + conséquence. Définir tout terme technique avant usage. Employer des métaphores concrètes seulement si elles éclairent réellement (« une porte », « une chaîne », « une horloge », « un filet de sécurité »). Éviter les phrases à tiroirs, les doubles négations, les renvois implicites et les acronymes non expliqués. Le but n’est pas de simplifier la pensée, mais de **réduire la charge mentale** nécessaire pour la comprendre.
+- [ ] **Intelligibilité expert — niveau juriste junior** — écrire pour un juriste compétent qui ne connaît ni le dossier ni toutes les spécialités mobilisées. Être didactique : rappeler la règle, son rang, sa fonction, la jurisprudence utile, le fait auquel elle s’applique, le meilleur contre-argument et la conséquence. Un lecteur expert doit pouvoir apprendre quelque chose sans avoir à reconstruire les prémisses.
+- [ ] **Principe de Talleyrand — expliciter ce qui “va sans dire”** — toute prémisse utile, tout lien causal, toute distinction de régime, toute limitation et toute conséquence doivent être écrits. Interdire les sous-entendus décisifs, les pronoms ambigus, les « donc » non démontrés, les références floues (« cela », « cette pièce », « ce point ») et les transitions qui obligent le lecteur à deviner le raisonnement. **Ce qui va sans dire va encore mieux en le disant.**
+- [ ] **Test anti-malentendu** — pour chaque grande section, demander : « quelles sont les trois mauvaises interprétations les plus faciles ? ». Ajouter une phrase explicite qui les empêche si elles sont plausibles.
 - [ ] **Double lecture grand public / expert — MUST ABSOLU** — chaque grande section de la requête doit proposer deux niveaux cohérents : **GP** (explication complète en langage courant, contexte, finalité, moyens, intentions alléguées seulement si prouvées, chronologie) et **EXPERT** (règle, source, jurisprudence, pièce, qualification, objection adverse, conséquence). Les deux formulations doivent exprimer le même claim et les mêmes réserves. Audit courant : `../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md` = **non satisfait / bloquant**.
 - [ ] **Documentation annexée** — joindre `investigation/annexe-documentation-double-lecture-2026-10-07.md` comme couche pédagogique : glossaire, acteurs, carte de procédure, chronologie, explication L.298/L.299/L.303, article 34, preuve électronique, statuts probatoires, guide du bordereau, tableaux question→trace→réponse→UNKNOWN et solutions praticables.
 - [ ] **Complétude initiale maximale raisonnable** — privilégier un dossier initial aussi complet que possible, même long, dès lors que la longueur sert la compréhension, la preuve ou la préservation d’un grief. Raison juridique : les griefs nouveaux après le délai de l’article 33 peuvent être irrecevables ; l’article 35 ne prévoit qu’une faculté exceptionnelle de compléter certaines pièces. La longueur doit être structurée pour ne pas masquer le noyau contentieux.
