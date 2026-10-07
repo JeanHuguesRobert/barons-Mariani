@@ -78,3 +78,24 @@ Le fait que l'exemplaire JHR porte une longue dédicace à **Harald Fleetwood** 
 L'identité du Harald Fleetwood destinataire de la dédicace, sa relation à Meurgey et la circulation ultérieure de l'exemplaire doivent être recherchées.
 
 Une attribution éventuelle des annotations manuscrites à Meurgey, à Fleetwood, à une famille alliée ou à un propriétaire ultérieur devra reposer sur comparaison d'écritures ou provenance documentaire, jamais sur simple ressemblance.
+
+## Harald Fleetwood — identification
+
+La dédicace signalée par le libraire en 2011 peut désormais être contextualisée.
+
+**Harald Gustaf Fleetwood (1879–1960)** était un héraldista et dignitaire suédois, dernier **Riksheraldiker / National Herald** de Suède de 1931 à 1953. Il avait travaillé au Riksarkivet suédois, étudié à l'École des chartes à Paris en 1913–1914 et publié de nombreux travaux d'héraldique et de sigillographie.
+
+La Revue française d'héraldique et de sigillographie le cite en 1938 parmi les membres/contacts suédois comme « baron Harald Fleetwood, grand-maître d'Armes ».
+
+Cette identification rend une dédicace de Jacques Meurgey à Fleetwood **professionnellement cohérente** : les deux hommes appartenaient au même milieu européen de l'héraldique, de la sigillographie et des archives.
+
+Elle ne prouve pas à elle seule :
+
+- la date exacte de la dédicace ;
+- l'existence d'une relation personnelle suivie entre Meurgey et Fleetwood ;
+- l'auteur des annotations manuscrites visibles dans l'exemplaire JHR.
+
+Sources de contrôle :
+- Harald Fleetwood, 1879–1960, notices biographiques suédoises ;
+- Revue française d'héraldique et de sigillographie, 1938 ;
+- notices historiques du Riksheraldikerämbetet.
