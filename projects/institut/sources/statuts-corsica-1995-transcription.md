@@ -5,9 +5,9 @@ description: "Transcription dérivée des six pages scannées des statuts fondat
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-05"
-version: "0.4"
-status: "working-transcription — human review required"
+last_modified_at: "2026-10-07"
+version: "0.5"
+status: "source-transcription — visually reviewed, human validation required"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/sources/statuts-corsica-1995-transcription.md"
@@ -64,8 +64,9 @@ provenance:
     - "same-size copies retained in earlier C.O.R.S.I.C.A. banking and institutional correspondence"
     - "prefecture email attachment supplied on 2018-04-03, SHA-256 86bfe997dfe09c31621eaf5c94534119a062041703337733f4f836e74b1a76fa"
 review:
-  status: "unreviewed"
-  reviewed_by: []
+  status: "reviewed-against-scan"
+  reviewed_by:
+    - "ChatGPT GPT-5.6 Sol — independent visual verification of all six pages, 2026-10-07"
 ---
 
 # C.O.R.S.I.C.A. — statuts du 25 décembre 1995
@@ -362,3 +363,30 @@ Une seconde lecture visuelle page par page a été comparée à la transcription
 Le fichier alternatif `Status CORSICA.pdf` (SHA-256 `d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611`) a été rendu et comparé à l'autre copie d'archive : le contenu documentaire rendu des six pages est identique.
 
 La transcription reste `human_validation_required: true` : en cas de divergence future, le scan primaire prévaut.
+
+
+## Revue visuelle indépendante du 7 octobre 2026
+
+Une nouvelle vérification a été menée directement sur les six pages rendues du PDF `C.O.R.S.I.C.A .pdf` joint à l'échange préfectoral du 3 avril 2018.
+
+Cette copie possède l'empreinte SHA-256 :
+
+`86bfe997dfe09c31621eaf5c94534119a062041703337733f4f836e74b1a76fa`
+
+La copie Drive `Status CORSICA.pdf` possède l'empreinte :
+
+`d83540abbc0b8a6c0a72c20d65be6d7a17d6695928a01869acfca4ad72c38611`
+
+La vérification visuelle confirme notamment :
+
+- article 1 : objet originel « promotion de la Corse sur Internet », durée illimitée, siège à Corte ;
+- article 5 : conseil de 3 à 12 membres, fondateurs membres de droit du CA, bureau élu pour cinq ans, trois fondateurs nommés dans le texte ;
+- article 8 : composition de l'AG et possibilité de vote par correspondance, éventuellement électronique ;
+- article 17 : initiative CA ou dixième des membres de l'AG, préavis de quinze jours, quorum du quart au premier appel, seconde convocation à quinze jours au moins, majorité des deux tiers ;
+- article 21 : obligation de faire connaître dans les trois mois les changements dans l'administration ou la direction ;
+- dernière page : mention manuscrite « Corte le 25/12/95 » et trois signatures.
+
+Aucune correction substantielle supplémentaire n'a été identifiée lors de cette passe. Le scan primaire reste souverain en cas de divergence future.
+
+La provenance préfectorale est également renforcée par la chaîne Gmail de 2018 : le 3 avril 2018, un responsable de la préfecture de Haute-Corse répond à une demande de copie des statuts en joignant précisément ce document de six pages ; le 9 décembre 2018, cette copie est retransmise comme « venant de la préfecture ».
+
