@@ -41,6 +41,10 @@ sections:
         kind: markdown
         path: research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md
         status: ready
+      - id: annexe-vues-tabellaires
+        kind: markdown
+        path: research/senatoriales-2026/investigation/annexe-vues-tabellaires-requete-cc-2026-10-07.md
+        status: ready
       - id: annexe-double-lecture
         kind: markdown
         path: research/senatoriales-2026/investigation/annexe-documentation-double-lecture-2026-10-07.md
@@ -57,140 +61,160 @@ sections:
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-04 — fichier final à matérialiser et contrôler"
+        label: "P-04 — Premier envoi, DSN d’échec pour taille et retransmission allégée"
       - id: P-05
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-05 — fichier final à matérialiser et contrôler"
+        label: "P-05 — Accusé automatique"
       - id: P-06
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-06 — fichier final à matérialiser et contrôler"
+        label: "P-06 — Réponse BEDL"
       - id: P-09
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-09 — fichier final à matérialiser et contrôler"
+        label: "P-09 — Reçu provisoire"
       - id: P-10
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-10 — fichier final à matérialiser et contrôler"
+        label: "P-10 — Courriel mandataire + 2 PJ"
       - id: P-11
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-11 — fichier final à matérialiser et contrôler"
+        label: "P-11 — « J'accuse réception des documents »"
       - id: P-12
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-12 — fichier final à matérialiser et contrôler"
+        label: "P-12 — Courriel complémentaire avec lien vidéo"
       - id: P-13
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-13 — fichier final à matérialiser et contrôler"
+        label: "P-13 — Vidéo commune"
       - id: P-14
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-14 — fichier final à matérialiser et contrôler"
+        label: "P-14 — Requêtes préfectorales n° 2601714 et 2601715 + bundles"
       - id: P-15
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-15 — fichier final à matérialiser et contrôler"
+        label: "P-15 — Alerte avant audience"
       - id: P-16
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-16 — fichier final à matérialiser et contrôler"
+        label: "P-16 — Mémoire en défense"
       - id: P-17
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-17 — fichier final à matérialiser et contrôler"
+        label: "P-17 — Note manuscrite recto-verso"
       - id: P-18
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-18 — attestation CAF relative à Mme Vernerey — version minimisée à matérialiser et contrôler"
+        label: "P-18 — Attestation CAF relative à Mme Vernerey — version minimisée"
       - id: P-19
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-19 — fichier final à matérialiser et contrôler"
+        label: "P-19 — Note en délibéré"
       - id: P-20
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-20 — fichier final à matérialiser et contrôler"
+        label: "P-20 — Jugement TA Bastia + chaîne matérielle de notification"
       - id: P-22
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-22 — fichier final à matérialiser et contrôler"
+        label: "P-22 — Demande à la préfecture / conservation des traces"
       - id: P-27
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-27 — fichier final à matérialiser et contrôler"
+        label: "P-27 — Résultats officiels"
       - id: P-29
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-29 — fichier final à matérialiser et contrôler"
+        label: "P-29 — Première demande TA sur la liste des pièces"
       - id: P-30
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-30 — fichier final à matérialiser et contrôler"
+        label: "P-30 — Réponse du greffe TA"
       - id: P-31
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-31 — fichier final à matérialiser et contrôler"
+        label: "P-31 — Réponse du greffe TA"
       - id: P-32
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-32 — fichier final à matérialiser et contrôler"
+        label: "P-32 — Six questions résiduelles au TA"
       - id: P-33
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-33 — fichier final à matérialiser et contrôler"
+        label: "P-33 — Réponse de la greffière en chef"
       - id: P-39
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-39 — fichier final à matérialiser et contrôler"
+        label: "P-39 — Constat de consultation RP-SEN-08-C"
       - id: P-40
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-40 — fichier final à matérialiser et contrôler"
+        label: "P-40 — Bulletin « BARON MARIANI » et enveloppe"
       - id: P-43.a
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-43.a — courriel « Autorisation » de Laurence Vernerey — reproduction minimisée à matérialiser et contrôler"
+        label: "P-43.a — Courriel « Autorisation » de Laurence Vernerey"
       - id: P-43.b
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-43.b — courriel « Porte-parole » de Laurence Vernerey — reproduction minimisée à matérialiser et contrôler"
+        label: "P-43.b — Courriel « Porte-parole » de Laurence Vernerey"
       - id: P-44
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-44 — fichier final à matérialiser et contrôler"
-      - id: P-45
+        label: "P-44 — France Transfert — communication TA des requêtes 2601714 / 2601715 (2 courriels)"
+      - id: P-45.a
         kind: pdf
         path: null
         status: to_materialize
-        label: "P-45 — fichier final à matérialiser et contrôler"
+        label: "P-45.a — Demande du 26 septembre 2026 au Bureau des élections sur la modalité matérielle d’une saisine au titre de l’article 34"
+      - id: P-45.b
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-45.b — Demande du 28 septembre 2026 à la Sous-préfecture de Corte sur la réception de la requête"
+      - id: P-45.c
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-45.c — Courriel de consolidation du 1er octobre 2026 adressé à la préfecture avec la Sous-préfecture de Corte en copie"
+      - id: P-45.d
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-45.d — Relance numérotée P1–P18 du 2 octobre 2026"
+      - id: P-46
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-46 — Registre exhaustif des courriels Préfecture / Tribunal administratif"
 
