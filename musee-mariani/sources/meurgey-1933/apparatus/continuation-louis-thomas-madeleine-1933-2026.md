@@ -209,3 +209,19 @@ Sources de cadrage :
 - https://www.kering.com/fr/actualites/kering-est-fier-d-avoir-reuni-boucheron-et-balenciaga-pour-la-reception-a-l-academie-francaise-d-antoine-compagnon/
 
 Qualification territoriale provisoire de cette branche : **partie puis largement désancrée de Corse au sens matériel observable**, avec `corsican_link_current = UNKNOWN` plutôt que `none`.
+
+## 10. Garde-fou sur les bases généalogiques
+
+Les bases publiques consultées servent à ouvrir et recouper des pistes, mais leur présentation peut être ambiguë lorsque des personnes privées sont masquées.
+
+Exemple rencontré le 7 octobre 2026 : une page de famille Mariani affiche successivement `Albert × Sophie Fantauzzi` puis un couple `Private × Marie Rose Franceschi` avec deux descendants privés. La structure visible ne permet pas de démontrer que le second couple descend du premier.
+
+Aucun lien de filiation ne doit donc être créé à partir de cette proximité d'affichage.
+
+Règle renforcée :
+
+```text
+même page / même patronyme / proximité d'affichage
+≠
+relation généalogique démontrée
+```
