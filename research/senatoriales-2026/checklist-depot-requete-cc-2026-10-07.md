@@ -1189,6 +1189,25 @@ Règle de rédaction :
 - ajouter que l'existence d'observations écrites est corroborée par le jugement ;
 - maintenir ouverte l'identification matérielle exacte du PDF.
 
+
+### P-46 index lisible créé — v0.57
+
+Support canonique :
+`investigation/p46-index-registre-courriels-prefecture-ta-2026-10-07.md`
+
+L'index recense les 46 messages avec :
+- heure locale Europe/Paris ;
+- sens de l'échange ;
+- objet ;
+- fonction probatoire ;
+- Gmail ID ;
+- rattachement à la pièce fonctionnelle P-xx lorsqu'il existe.
+
+Règle de production :
+- P-46 est un registre transversal et ne doit pas conduire à dupliquer inutilement les mêmes courriels déjà produits sous P-04, P-05, P-12, P-45, etc. ;
+- lorsqu'un message possède à la fois une référence P-46.xx et une référence fonctionnelle P-xx, une seule reproduction matérielle peut porter les deux références ;
+- le contrôle final porte sur l'exhaustivité de l'index et la présence physique des messages décisifs dans le paquet.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
