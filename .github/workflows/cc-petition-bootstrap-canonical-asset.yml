@@ -1,0 +1,38 @@
+name: Bootstrap CC canonical PDF asset
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/cc-petition-bootstrap-canonical-asset.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  promote-existing-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Promote existing REVIEW PDF to canonical release asset
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: senatoriales-2026-cc-depot-2026-10-07
+          SOURCE: research/senatoriales-2026/review-pdf/66f34d0cb32e94509988b6f83a87c8a215b3fb81/requete-conseil-constitutionnel-REVIEW.pdf
+          ASSET: requete-conseil-constitutionnel-haute-corse-2026.pdf
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s "$SOURCE"
+          cp "$SOURCE" "$RUNNER_TEMP/$ASSET"
+
+          if ! gh release view "$TAG" --repo "${{ github.repository }}" >/dev/null 2>&1; then
+            gh release create "$TAG"               --repo "${{ github.repository }}"               --target "${{ github.sha }}"               --prerelease               --title "Sénatoriales Haute-Corse 2026 — PDF pré-gel"               --notes "Asset de build à URL canonique stable. Contenu actuel : version pré-gel. Le binaire n'a pas vocation à être versionné dans Git."
+          fi
+
+          gh release delete-asset "$TAG" "$ASSET" --repo "${{ github.repository }}" --yes >/dev/null 2>&1 || true
+          gh release upload "$TAG" "$RUNNER_TEMP/$ASSET#$ASSET" --repo "${{ github.repository }}" --clobber
+
+          echo "Canonical URL:"
+          echo "https://github.com/${{ github.repository }}/releases/download/$TAG/$ASSET"
