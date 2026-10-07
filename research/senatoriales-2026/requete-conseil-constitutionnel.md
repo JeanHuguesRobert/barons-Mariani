@@ -81,16 +81,17 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 ## SOMMAIRE
 
-1. Recevabilité et qualité pour agir
-2. Résumé de l'affaire
-3. Chronologie des faits et des diligences
-4. Formalités de candidature et règles applicables
-5. Solutions qui demeuraient praticables avant l'échéance
-6. Griefs soumis au Conseil constitutionnel
-7. Temporalité et effets devenus irréversibles
-8. Conclusions du requérant
-9. Bordereau des pièces et constitution matérielle du dossier
-10. État du dossier au moment de la signature
+1. Canal de suivi de l’instruction et traçabilité du contradictoire
+2. Recevabilité et qualité pour agir
+3. Résumé de l'affaire
+4. Chronologie des faits et des diligences
+5. Formalités de candidature et règles applicables
+6. Solutions qui demeuraient praticables avant l'échéance
+7. Griefs soumis au Conseil constitutionnel
+8. Temporalité et effets devenus irréversibles
+9. Conclusions du requérant
+10. Bordereau des pièces et constitution matérielle du dossier
+11. État du dossier au moment de la signature
 
 ## NOTE DE LECTURE — UN DOSSIER QUI DOIT RESTER COMPRÉHENSIBLE
 
