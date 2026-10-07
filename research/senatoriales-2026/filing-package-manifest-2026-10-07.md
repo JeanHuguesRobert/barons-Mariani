@@ -24,7 +24,7 @@ related:
 | Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
 | Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
 | Inventaire probatoire | v1.6 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.20 | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.21 | outil interne ; ne pas annexer par défaut |
 
 ## 1 bis. Annexe chronologique obligatoire
 
@@ -41,7 +41,7 @@ Cette annexe n'est pas une preuve primaire P-xx. Elle explique le dossier selon 
 - grand public : narration, contexte, concepts, finalités et enchaînement des actes ;
 - experts : compression référencée, textes, jurisprudence, pièces et qualifications.
 
-L'audit `../reviews/audit-double-lecture-requete-v0.20-2026-10-07.md` reste **bloquant** : la v0.19 n'applique pas encore ce double niveau uniformément dans toutes ses grandes sections.
+L'audit `../reviews/audit-double-lecture-requete-v0.23-2026-10-07.md` conclut **PASS** sur la double lecture et la séparation data plane / control plane. Le blocage restant est matériel : pièces, concordance, pagination, SHA-256, gel et preuve de réception.
 
 ## 2. Production A proposée
 
