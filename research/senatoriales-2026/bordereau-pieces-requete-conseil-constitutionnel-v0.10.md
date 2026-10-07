@@ -4,7 +4,7 @@ subtitle: "Projet autonome de liste des pièces destinées à soutenir la requê
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.13"
+version: "0.14"
 status: "active — pre-filing piece schedule — not filed"
 language: "fr"
 license: "CC BY-SA 4.0"
