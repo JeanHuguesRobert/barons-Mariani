@@ -72,6 +72,16 @@ sections:
         path: null
         status: to_materialize
         label: "P-06 — Réponse BEDL"
+      - id: P-07
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-07 — Courriel du candidat du 11 septembre à 8 h 14 annonçant son déplacement vers Bastia"
+      - id: P-08
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-08 — Traces du trajet du 11 septembre vers Bastia"
       - id: P-09
         kind: pdf
         path: null
@@ -137,11 +147,21 @@ sections:
         path: null
         status: to_materialize
         label: "P-22 — Demande à la préfecture / conservation des traces"
+      - id: P-26
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-26 — Demande du 28 septembre de communication du procès-verbal et des pièces électorales"
       - id: P-27
         kind: pdf
         path: null
         status: to_materialize
         label: "P-27 — Résultats officiels"
+      - id: P-28
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-28 — Proposition de consultation des pièces électorales du 30 septembre 2026"
       - id: P-29
         kind: pdf
         path: null
@@ -177,6 +197,11 @@ sections:
         path: null
         status: to_materialize
         label: "P-40 — Bulletin « BARON MARIANI » et enveloppe"
+      - id: P-41
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-41 — Annexe de déclarations publiques et commentaires de presse"
       - id: P-43.a
         kind: pdf
         path: null
