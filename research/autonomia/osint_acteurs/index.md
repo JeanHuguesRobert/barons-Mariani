@@ -37,7 +37,7 @@ Le scrutin du 27 septembre a reconduit **Paul Toussaint Parigi** en Haute-Corse 
 
 Le renouvellement des instances du Sénat est en cours. À l’heure de cette photographie :
 
-- les listes des commissions permanentes ont été publiées le 6 octobre ;
+- les listes des candidats aux commissions permanentes ont été publiées le 6 octobre ;
 - le bureau de la commission des lois doit être constitué à 9 h 30 ;
 - l’audition de Françoise Gatel sur le projet corse est annoncée à 15 h ;
 - l’identité du rapporteur du texte n° 782 reste à établir officiellement dans le Corpus.
