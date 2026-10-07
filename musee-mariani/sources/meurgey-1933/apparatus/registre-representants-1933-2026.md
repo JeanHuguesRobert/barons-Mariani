@@ -144,3 +144,23 @@ Sources publiques de contrôle :
 - https://www.pappers.fr/entreprise/scea-fantauzzi-325019834
 - publication foncière de la préfecture de l’Oise (2025) ;
 - fichier INSEE des décès pour Janine Fantauzzi.
+
+### Joseph Fantauzzi × Louise Gautier — clarification
+
+Une source généalogique secondaire citant l'acte de mariage conservé aux Archives de Haute-Corse fixe le couple :
+
+- **Joseph Fantauzzi (1832–1905)** ;
+- épouse à Corte le 19 avril 1876 **Louise Marie Antoinette Thérèse Gautier** (née en 1856) ;
+- enfants : **Sophie Fantauzzi (1879–1913)**, **Antoine Mathieu Fantauzzi (1880–1957)**, **Jules Fantauzzi (né en 1881)**.
+
+Cette donnée clarifie le registre de 1933 :
+
+```text
+Sophie Fantauzzi († 1913)
+≠
+« Mlle Sophie Gautier » citée vivante par Meurgey en 1933
+```
+
+L'identité de Sophie Gautier reste donc ouverte. Le Corpus interdit toute correction silencieuse du patronyme.
+
+Source : https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph
