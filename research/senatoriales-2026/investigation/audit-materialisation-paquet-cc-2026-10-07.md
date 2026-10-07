@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.7"
+version: "0.8"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -291,4 +291,48 @@ Le recueil **P-46** est assemblé en trois volumes et un index.
 **P-18 — attestation CAF relative à Mme Vernerey** n'est plus un verrou de localisation : le PDF primaire et sa chaîne de transmission au greffe sont établis.
 
 **P-20 — jugement TA + notification** n'est plus un verrou de localisation : les trois pages du jugement et la chaîne postale complète ont été retrouvées dans la bibliothèque ; il reste seulement à les assembler.
+
+
+
+## 8. PDF de production générés dans le staging de la conversation
+
+Les fichiers suivants ont été effectivement générés, rendus puis contrôlés visuellement dans le runtime de travail du 7 octobre 2026.
+
+Ils ne doivent être considérés comme présents dans le paquet juridictionnel définitif qu'après copie dans le staging local du dépôt et contrôle de leur présence par l'assembleur.
+
+### P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre
+
+- PDF de représentation : `P-13.pdf`
+- taille : **2 932 octets**
+- SHA-256 : `1cccc5a65df7d07401aa5d09923287509e085b6290abb815d6417d79c13fb03a`
+- natif vidéo : `P-13-VID_20260911_174455.mp4`
+- taille native : **79 663 474 octets**
+- SHA-256 natif : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`
+
+### P-16 — mémoire en défense devant le Tribunal administratif
+
+- PDF de production : `P-16.pdf`
+- taille : **58 497 octets**
+- SHA-256 : `54387f8cc8a109712136ea94288c5e7ede0186cba4294e2196ec0ebd41b3a4df`
+- source candidate incorporée : 55 546 octets
+- SHA-256 source : `d9e2b1672df34526c884b6ef10af01e46ef9d4ee21c925eeb6811d3d4ddcb60a`
+- la page de garde conserve explicitement la réserve sur l'identité binaire avec l'exemplaire matériel remis au TA.
+
+### P-18 — attestation CAF relative à Mme Laurence Vernerey
+
+- PDF minimisé : `P-18.pdf`
+- taille : **89 274 octets**
+- SHA-256 : `836bf9a0f350b7cb2f5a51b1fa82c5b050ab931274254003e9757d5020001fcd`
+- données non nécessaires retirées : numéro de dossier, adresse personnelle, date de naissance, montants et prestations étrangères au grief ;
+- la ligne AAH et l'identité de Mme Vernerey sont conservées ;
+- l'original natif reste conservé séparément.
+
+### P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification
+
+- PDF composite : `P-20.pdf`
+- taille : **25 162 796 octets**
+- SHA-256 : `c0062283f7049da075f26ff2d92363ed9fbbe10bdd6bf8c2c3ff1137d713b2a7`
+- composition : page de garde + P-20.a + quatre éléments P-20.b + P-20.c + P-20.d + P-20.e/f/g ;
+- les photographies primaires sont incorporées sans remplacement par la transcription ;
+- rendu visuel contrôlé sur la notification et les pages du jugement.
 
