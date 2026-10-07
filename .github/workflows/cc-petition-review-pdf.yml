@@ -1,0 +1,96 @@
+name: Conseil constitutionnel petition REVIEW PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+      - ".github/workflows/cc-petition-review-pdf.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  build-review-pdf:
+    name: Build ephemeral REVIEW PDF
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout exact source
+        uses: actions/checkout@v4
+
+      - name: Install PDF toolchain
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex fonts-dejavu-core poppler-utils
+
+      - name: Prepare REVIEW source
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          src = Path("research/senatoriales-2026/requete-conseil-constitutionnel.md")
+          text = src.read_text(encoding="utf-8")
+
+          # Remove YAML frontmatter only; do not modify the legal source itself.
+          if text.startswith("---\n"):
+              end = text.find("\n---\n", 4)
+              if end != -1:
+                  text = text[end + 5:]
+
+          notice = """# BROUILLON DE REVUE - NON DEPOSE
+
+> **PDF REVIEW genere automatiquement depuis le chemin canonique de travail.**
+> Ce fichier n'est ni la version gelee, ni la preuve d'un depot, ni une GitHub Release.
+> Sa finalite est exclusivement la relecture et la transmission preparatoire.
+
+---
+
+"""
+          out = Path("$RUNNER_TEMP/requete-review.md")
+          out.write_text(notice + text, encoding="utf-8")
+          PY
+
+      - name: Render PDF
+        shell: bash
+        run: |
+          mkdir -p "$RUNNER_TEMP/cc-review"
+          pandoc "$RUNNER_TEMP/requete-review.md" \
+            --from=gfm \
+            --pdf-engine=xelatex \
+            -V lang=fr-FR \
+            -V geometry:margin=22mm \
+            -V fontsize=10.5pt \
+            -V papersize=a4 \
+            -V colorlinks=true \
+            -V linkcolor=blue \
+            -V urlcolor=blue \
+            -o "$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+
+      - name: Verify PDF structure and renderability
+        shell: bash
+        run: |
+          PDF="$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+          test -s "$PDF"
+          head -c 5 "$PDF" | grep -q '%PDF-'
+          pdfinfo "$PDF"
+          mkdir -p "$RUNNER_TEMP/render-check"
+          pdftoppm -f 1 -singlefile -png -r 120 "$PDF" "$RUNNER_TEMP/render-check/page-1"
+          test -s "$RUNNER_TEMP/render-check/page-1.png"
+          sha256sum "$PDF" | tee "$RUNNER_TEMP/cc-review/SHA256SUMS.txt"
+          printf '%s\n' "${{ github.sha }}" > "$RUNNER_TEMP/cc-review/SOURCE_COMMIT.txt"
+
+      - name: Upload ephemeral REVIEW artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: requete-conseil-constitutionnel-REVIEW-${{ github.sha }}
+          path: |
+            ${{ runner.temp }}/cc-review/requete-conseil-constitutionnel-REVIEW.pdf
+            ${{ runner.temp }}/cc-review/SHA256SUMS.txt
+            ${{ runner.temp }}/cc-review/SOURCE_COMMIT.txt
+          retention-days: 7
+          if-no-files-found: error
