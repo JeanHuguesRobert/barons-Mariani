@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.56"
+version: "0.57"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1131,6 +1131,21 @@ P-13 n'est plus un verrou de localisation ou d'intégrité. Reste seulement l'ar
 - cohérence avec les courriels du greffe des 16 et 21 septembre.
 
 P-20 n'est plus un verrou de localisation. Reste à assembler les sources sous P-20/P-20.a et à fixer les empreintes des fichiers effectivement retenus.
+
+
+### P-46 matérialisée — contrôle de complétude et occultation
+
+**P-46 — registre exhaustif des courriels Préfecture / Tribunal administratif** est désormais matérialisé :
+- volume 1 : P-46.01 à P-46.15 ;
+- volume 2 : P-46.16 à P-46.30 ;
+- volume 3 : P-46.31 à P-46.46 ;
+- index : `investigation/p46/README.md`.
+
+Contrôle : **46/46** messages présents.
+
+Contrôle anti-fuite sur les copies publiques : aucune adresse privée ciblée de Laurence/Maguy, aucun lien France Transfert et aucun mot de passe non occulté détectés.
+
+Les Gmail natifs restent les sources primaires.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
