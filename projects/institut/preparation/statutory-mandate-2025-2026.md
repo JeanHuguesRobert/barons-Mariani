@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.5"
+version: "0.6"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -43,7 +43,7 @@ Les statuts fondateurs de 1995 sont désormais établis par :
 - le récépissé de sous-préfecture du 8 janvier 1996 ;
 - la publication au Journal officiel du 24 janvier 1996.
 
-Aucune modification postérieure adoptée puis déclarée n'a été retrouvée.
+Le Président confirme le 7 octobre 2026 qu’aucune modification statutaire postérieure n’a été communiquée aux autorités. Cette confirmation est cohérente avec les pièces retrouvées ; les statuts 1995 constituent donc la baseline opératoire.
 
 ## 2. Mandat 2025
 
@@ -91,7 +91,7 @@ Le mandat n'est donc pas éteint par une réforme déjà devenue effective.
 baseline_1995:
   epistemic_status: ESTABLISHED
   institutional_status: ADOPTED_AND_DECLARED
-  effect_status: PRESUMED_CURRENT_PENDING_CONTRARY_EVIDENCE
+  effect_status: CURRENT_OPERATIVE_BASELINE
 
 draft_2018:
   epistemic_status: ESTABLISHED
@@ -204,7 +204,7 @@ L'article 8 réserve l'assemblée générale aux membres fondateurs, d'honneur, 
 
 L'article 21 prévoit que le secrétaire fait connaître à la préfecture ou sous-préfecture, dans les trois mois, les changements dans l'administration ou la direction.
 
-Ces règles deviennent le point de départ documentaire du travail préparatoire, mais leur application juridique actuelle doit encore être vérifiée avant convocation.
+Ces règles constituent désormais la base statutaire du travail préparatoire. Leur application factuelle dépend encore de la composition actuelle des membres et organes, qui reste à qualifier avant convocation.
 
 
 ## 10. Renouvellement du bureau en 2020
