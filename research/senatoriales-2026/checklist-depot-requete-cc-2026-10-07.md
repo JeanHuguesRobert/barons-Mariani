@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.29"
+version: "0.30"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -433,6 +433,25 @@ Test :
 > **Le mot temporel décrit-il un événement du dossier, ou seulement le fait que nous savons aujourd'hui quelque chose que nous ne savions pas hier ?**
 
 Dans le second cas, il doit être retiré de la requête.
+
+
+### Règle de force argumentative — ne pas plaider contre soi-même
+
+La requête doit exposer avec netteté les faits, les règles, les analogies et les moyens soutenus par le requérant. Elle ne doit pas multiplier les formules qui en diminuent spontanément la portée avant même que le juge ne les apprécie.
+
+Il faut distinguer deux choses :
+- les limites factuelles ou juridiques réellement nécessaires à l'exactitude du dossier, qui doivent être conservées ;
+- les précautions rhétoriques redondantes, qui reviennent à faire nous-mêmes le travail d'objection, de minoration ou de rejet.
+
+La seconde catégorie doit disparaître du corps de la requête.
+
+Règle pratique : dire ce que la pièce établit, ce que le texte permet de soutenir et quelle conséquence est demandée. L'appréciation finale de la force du moyen appartient au juge.
+
+Les formulations telles que « au mieux », « seulement », « au minimum », « n'est pas automatiquement transposable », « volontairement borné », « infiniment subsidiaire » ou toute autre précaution analogue doivent être conservées uniquement lorsqu'elles correspondent à une véritable limite juridique, probatoire ou procédurale indispensable.
+
+Le contrôle critique ne disparaît pas. Il est déplacé vers le plan de contrôle : lorsqu'une affirmation paraît fragile, excessive ou insuffisamment établie, elle doit être signalée au requérant pour décision, et non affaiblie automatiquement dans le texte au nom d'une protection paternaliste.
+
+Le style recherché est ferme, exact et audacieux. Il ne doit être ni téméraire ni timoré.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -996,3 +1015,7 @@ Première passe appliquée à la requête sans gel :
 - retrait du mécanisme interne d'audit Gmail de la requête.
 
 Cette promotion reste une version de travail ; d'autres paquets de corrections peuvent être intégrés avant tout gel.
+
+## UPDATE — 7 octobre 2026 — v0.30 / force argumentative
+
+Nouvel invariant : la requête ne doit pas affaiblir spontanément ses propres moyens par des précautions rhétoriques redondantes. Les limites réellement nécessaires sont conservées ; les atténuations qui relèvent de l'appréciation du juge sont retirées. La revue critique reste dans le plan de contrôle et fait l'objet d'un signalement au requérant lorsqu'une affirmation paraît excessive ou fragile.
