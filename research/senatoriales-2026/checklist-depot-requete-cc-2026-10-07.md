@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.60"
+version: "0.61"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1303,6 +1303,15 @@ La matrice de matérialisation, le manifeste et le contrat juridictionnel local-
 - **P-41 — annexe de déclarations publiques et commentaires de presse** : retirée du contrat juridictionnel initial et maintenue en réserve contextuelle.
 
 Le prochain blocage n'est plus la localisation de ces sources, mais la génération des PDF de production dans `.filing-materials/senatoriales-2026/` et leur contrôle terminal.
+
+
+### PDF critiques générés dans le staging conversationnel
+
+Les PDF de production de **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**, **P-16 — mémoire en défense devant le Tribunal administratif**, **P-18 — attestation CAF relative à Mme Laurence Vernerey** et **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** ont été générés, rendus et contrôlés dans le runtime de la conversation.
+
+Ils ne sont pas encore réputés présents dans le clone local du build. Condition de passage : copie exacte dans `.filing-materials/senatoriales-2026/` puis vérification SHA-256.
+
+Voir les empreintes dans `investigation/audit-materialisation-paquet-cc-2026-10-07.md`.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
