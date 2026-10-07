@@ -256,6 +256,12 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 
 **Convention horaire P-46.** Les horodatages P-46 doivent être lus en heure locale Europe/Paris. Le bordereau v0.13 les normalise à partir du champ temporel Gmail ; les en-têtes RFC822 natifs sont conservés comme référence de contrôle.
 
+
+
+### Sous-pièce P-20.a — chaîne postale et contexte matériel
+
+**P-20.a** désigne, dans le bordereau, la sous-partie de **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** relative à la notification postale : avis de passage, enveloppe, retrait, page de notification et éléments matériels associés. Elle n'est pas une pièce autonome distincte du jugement ; l'inventaire la traite comme sous-pièce de P-20 afin d'éviter une divergence de numérotation.
+
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
 La comparaison des deux bundles confirme que les saisines préfectorales signées de trois pages ont le **même contenu substantiel**. Dans l'exposé des faits, elles mentionnent le rappel de **L.298 et L.299** ; dans la partie « Discussion », l'exigence d'« original » est développée en reproduisant expressément **L.299**, sans développement autonome de L.298. Le sens des conclusions e-Sagace mentionne pour sa part **L.298, L.299 et L.301** : ne pas confondre ces trois niveaux documentaires.
