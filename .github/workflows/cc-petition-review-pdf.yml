@@ -37,7 +37,7 @@ jobs:
           sudo apt-get update
           update_code=$?
           if [ "$update_code" -eq 0 ]; then
-            sudo apt-get install -y --no-install-recommends pandoc texlive-xetex fonts-dejavu-core poppler-utils
+            sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-fonts-recommended lmodern fonts-dejavu-core poppler-utils
             install_code=$?
           else
             install_code=125
