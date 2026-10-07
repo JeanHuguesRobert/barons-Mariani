@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.26"
+version: "0.27"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -324,6 +324,35 @@ Cette règle vaut particulièrement pour :
 - les expressions abrégées (« offre absente », « base institutionnelle », « chaîne de transmission », etc.) ;
 - les références à un événement antérieur dont la chronologie n'a pas encore été racontée ;
 - les raisonnements causaux dont une prémisse est exposée seulement dans une section ultérieure.
+
+
+### Règle de langue — français d'abord, anglais technique traduit immédiatement
+
+La langue de la République étant le français, la requête, ses annexes et ses documents de contrôle doivent être rédigés en français.
+
+Lorsqu'un terme anglais est conservé parce qu'il constitue un marqueur technique utile, une convention du Corpus, un statut machine ou un terme difficilement substituable sans perte de précision, sa traduction française doit apparaître **immédiatement** à sa première occurrence utile et, si le contexte l'exige, être répétée lorsque le lecteur pourrait ne plus se souvenir de la convention.
+
+Forme attendue :
+
+~~~text
+UNKNOWN (inconnu)
+working draft (brouillon de travail)
+control plane (plan de contrôle)
+data plane (plan de données)
+hash (empreinte cryptographique)
+bundle (ensemble de fichiers / paquet documentaire)
+~~~
+
+Règles :
+- ne pas supprimer automatiquement le terme anglais lorsqu'il porte une valeur technique ou une convention stable ;
+- ne jamais laisser un terme anglais technique essentiel sans traduction française immédiate ;
+- préférer ensuite le français dans le corps du raisonnement, sauf lorsqu'il faut citer exactement un statut, un nom de champ, un terme informatique, un intitulé de fichier ou une convention machine ;
+- pour les citations exactes en anglais, fournir une traduction française adjacente si leur compréhension est nécessaire au raisonnement ;
+- ne pas transformer cette règle en surcharge : la traduction doit être courte, exacte et située au point d'usage.
+
+Test de lecture :
+
+> **Un lecteur francophone qui ne connaît pas le jargon technique peut-il comprendre la phrase sans devoir deviner le sens du terme anglais ?**
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -839,3 +868,12 @@ Audit initial de la requête v0.24 : le passage d'incidence situé avant la chro
 - plus largement, plusieurs démonstratifs ou raccourcis (« cette offre », « cette pièce », « ce contexte », « cette séquence ») doivent être contrôlés phrase par phrase.
 
 La correction ne consiste pas seulement à remplacer des pronoms : l'ordre des informations doit être restructuré lorsqu'une prémisse apparaît après la conclusion qu'elle est censée rendre intelligible.
+
+
+## UPDATE — 7 octobre 2026 — v0.27 / français d'abord
+
+Nouvel invariant linguistique : tout terme anglais conservé pour sa valeur technique doit être immédiatement traduit en français.
+
+Exemple canonique : **UNKNOWN (inconnu)**.
+
+Cette règle vaut pour la requête, les annexes, les tableaux, les statuts probatoires, les documents de contrôle et les explications destinées au lecteur. Les termes anglais peuvent rester lorsqu'ils constituent une convention technique utile, mais ils ne doivent jamais être supposés compris sans traduction.
