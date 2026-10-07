@@ -151,7 +151,8 @@ Cette série documente les contraintes invoquées par le requérant. Certaines s
 Cette série rassemble les éléments invoqués pour établir l'identité et le consentement. Leur force probante doit être distinguée de la question séparée de la satisfaction du formalisme électoral :
 
 * **L'attestation d'inscription sur les listes électorales** : Établie et signée par Mme Laurence Vernerey, transmise dès le 10 septembre.
-* **L'autorisation expresse d'apposition de signature** : Courriel explicite de Mme Vernerey autorisant M. Robert à faire usage de son fac-similé de signature pour le dépôt du formulaire officiel.
+* **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** : Courriel explicite de Mme Vernerey autorisant M. Robert à faire usage de sa signature sur le CERFA où elle se porte remplaçante. Cette pièce établit une demande faite au tiers et son consentement à cette intervention matérielle. **Production obligatoire**, sous forme native et lisible, avec minimisation des données privées non nécessaires.
+* **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** : Désignation expresse de M. Robert comme porte-parole de la campagne sénatoriale. Cette pièce documente la volonté de représentation dans la campagne et la continuité du consentement. **Production obligatoire**, avec la même règle de minimisation.
 * **L'enregistrement vidéo contemporain du 11 septembre 2026** : Mme Vernerey y décline son identité et confirme oralement son acceptation d'être la remplaçante de M. Robert ; la vidéo est un élément de consentement et d'identification, sans se substituer automatiquement aux formalités prévues par le code électoral.
 * **L'attestation officielle de la CAF de Corse-du-Sud** : Établissant le bénéfice de l'AAH au titre d'un handicap légalement reconnu immédiatement contemporain des opérations de candidature (*SHA-256: 308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2*).
 
