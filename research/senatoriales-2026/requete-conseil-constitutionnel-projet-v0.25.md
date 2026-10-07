@@ -668,9 +668,9 @@ Trois questions doivent rester séparées :
 
 L'article 1366 du code civil ne neutralise pas automatiquement le droit électoral spécial.
 
-La décision CE, 14 mai 2021, n°445497 n'est pas non plus automatiquement transposable.
+Dans une décision du **14 mai 2021 (Conseil d'État, n° 445497)**, rendue dans un autre contentieux électoral, le Conseil d'État a admis qu'en cas de handicap faisant obstacle à l'accomplissement personnel d'une signature ou d'une mention manuscrite, un tiers puisse matériellement accomplir ce geste à la demande de l'intéressé, sous réserve que son consentement soit établi.
 
-Elle fournit au mieux un raisonnement fonctionnel à tester sur les faits et le texte applicables ici.
+Ce précédent n'est pas automatiquement transposable au régime sénatorial de l'article L.299. Il fournit en revanche un raisonnement fonctionnel à examiner au regard du texte applicable ici, de la nature de l'empêchement invoqué et des garanties de consentement disponibles.
 
 L'argumentation du refus d'enregistrement repose sur une confusion méthodique entre plusieurs exigences juridiques distinctes qu'il convient de dissocier rigoureusement :
 
@@ -1053,7 +1053,7 @@ Le troisième est que le moyen tiré du handicap a été expressément soulevé.
 
 Le quatrième est qu'une pièce relative à l'AAH a été portée à la connaissance de la formation.
 
-À ce stade, aucun examen individualisé de la jurisprudence du 14 mai 2021 n'est identifié dans les traces disponibles.
+Aucun examen individualisé de la jurisprudence du 14 mai 2021 n'est identifié dans les traces disponibles.
 
 Le requérant n'attribue pas un biais psychologique aux membres de la juridiction.
 
