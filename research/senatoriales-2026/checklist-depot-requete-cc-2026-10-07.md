@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.35"
+version: "0.36"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -616,6 +616,43 @@ Test obligatoire :
 
 Si l'une des réponses est non, la référence est insuffisante.
 
+
+### Règle d'amélioration continue des libellés de pièces
+
+Le numéro d'une pièce est un identifiant stable. Son libellé, en revanche, peut être amélioré lorsqu'une formulation plus claire facilite la compréhension du dossier.
+
+Il ne faut donc pas conserver un intitulé médiocre par inertie.
+
+Lorsqu'un libellé paraît :
+- trop vague ;
+- trop technique ;
+- trop long sans nécessité ;
+- ambigu ;
+- difficile à mémoriser ;
+- insuffisamment descriptif de la fonction réelle de la pièce ;
+
+il doit être reformulé dans un français naturel, précis et immédiatement intelligible.
+
+L'amélioration du libellé ne doit modifier ni l'identité matérielle de la pièce, ni son numéro, ni sa portée probatoire.
+
+Toute modification d'un libellé doit être propagée de manière cohérente dans l'ensemble du dossier :
+- requête ;
+- bordereau de pièces ;
+- inventaire probatoire ;
+- annexes ;
+- chronologies ;
+- notes d'enquête ;
+- sous-inventaires ;
+- renvois internes.
+
+Le couple canonique est donc :
+
+**numéro stable + meilleur libellé disponible à l'état courant du dossier.**
+
+Avant toute propagation, vérifier qu'aucun changement de libellé ne crée une ambiguïté avec une autre pièce ou ne donne à la pièce une portée qu'elle n'a pas.
+
+L'objectif n'est pas la stabilité lexicale pour elle-même, mais l'intelligibilité du dossier.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1215,3 +1252,8 @@ Ajout d'un exemple explicite à la règle de français idiomatique : éviter le 
 ## UPDATE — 7 octobre 2026 — v0.35 / références de pièces autoporteuses
 
 Nouvel invariant : chaque référence documentaire associe le numéro de pièce et son libellé intelligible. La règle vaut dans les deux sens : aucun numéro isolé lorsque son contenu n'est pas immédiatement connu, et aucun libellé d'une pièce identifiée sans son numéro. Une passe exhaustive doit harmoniser la requête, le bordereau et les annexes.
+
+
+## UPDATE — 7 octobre 2026 — v0.36 / libellés de pièces vivants
+
+Les numéros de pièces restent stables, mais leurs libellés peuvent et doivent être améliorés lorsqu'une formulation plus claire rend le dossier plus facile à comprendre. Toute amélioration doit ensuite être propagée dans tous les documents qui référencent la pièce.
