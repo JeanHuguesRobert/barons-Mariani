@@ -24,7 +24,7 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "requete-conseil-constitutionnel-projet-v0.14.md"
+  - "requete-conseil-constitutionnel-projet-v0.18.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
@@ -245,6 +245,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-42** | 26/09 + 01–02/10 | Saisine Défenseur des droits et suivi | Saisine sur l’effectivité ; aucune réponse de la déléguée retrouvée au 06/10 dans la recherche Gmail ciblée ; état de trace, pas preuve d’absence de traitement | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
 | **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Participation, consentement, aide matérielle, porte-parole, vidéo, accessibilité ; source privée, production sélective/minimisée | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + Gmail natif |
 | **P-44** | 11/09 18:45:53 | France Transfert — deux courriels de communication des requêtes 2601714 / 2601715 | Établit la provenance de transmission au requérant : avis de pli du greffe + mot de passe séparé ; secrets techniques non publiés | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + Gmail natif |
+| **P-45** | 26/09–02/10 | Modalités de dépôt article 34 — demandes et relances | Pièce composite P-45.a à P-45.d ; documente l'absence de réponse substantielle retrouvée sur la modalité de dépôt malgré relances, sans imputer d'intention | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
