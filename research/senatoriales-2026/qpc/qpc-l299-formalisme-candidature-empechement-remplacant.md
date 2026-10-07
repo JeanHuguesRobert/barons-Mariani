@@ -204,6 +204,86 @@ Sources primaires / institutionnelles à conserver :
 Conséquence opérationnelle : **la question n'est plus “peut-on poser directement une QPC ?”, mais “quelle disposition précise attaquer, par quel grief constitutionnel sérieux, dans un mémoire distinct ?”**
 
 
+
+
+## Lecture descendante — du droit conventionnel clairement protégé à la QPC
+
+### 1. Point de départ : le droit de se porter candidat
+
+L'article 3 du Protocole n° 1 à la Convention européenne des droits de l'homme protège le droit de se porter candidat aux élections du corps législatif.
+
+La Cour européenne reconnaît aux États une marge d'appréciation pour fixer les conditions d'éligibilité, mais elle vérifie que ces conditions :
+
+- ne portent pas atteinte à la substance même du droit ;
+- ne le privent pas de son effectivité ;
+- poursuivent un but légitime ;
+- demeurent proportionnées.
+
+Elle exige également que la procédure d'éligibilité comporte des garanties suffisantes contre l'arbitraire.
+
+Le point de départ n'est donc pas le handicap en tant que catégorie abstraite. Il est le **droit effectif de participer comme candidat au choix du corps législatif**.
+
+### 2. Application fonctionnelle au formalisme de L.299
+
+L'article L.299 poursuit une finalité légitime : établir de manière fiable le consentement personnel du remplaçant.
+
+La Convention n'interdit pas un formalisme électoral.
+
+La question surgit lorsque le moyen choisi pour établir le consentement — signature et mention manuscrite — devient matériellement impossible à accomplir personnellement en raison d'un handicap, alors que :
+
+- l'identité est vérifiable ;
+- la volonté est établie ;
+- le consentement éclairé est établi ;
+- l'accomplissement matériel du geste par un tiers permettrait de conserver la finalité probatoire de la formalité.
+
+Le test conventionnel conduit alors à demander si l'exclusion de la candidature constitue encore un moyen proportionné au but poursuivi ou si le formalisme a absorbé sa propre finalité.
+
+### 3. Handicap et discrimination : axe complémentaire
+
+L'article 14 de la Convention, combiné avec l'article 3 du Protocole n° 1, peut constituer un axe complémentaire lorsqu'une règle apparemment générale produit un désavantage particulier lié au handicap.
+
+Cet axe doit être manié séparément du grief principal de proportionnalité. Il ne faut pas supposer qu'une différence de situation commande automatiquement une différence de traitement.
+
+Le cœur du dossier reste plus simple : une condition de candidature légitime dans son principe peut-elle éliminer toute l'offre électorale lorsque le geste matériel requis est empêché par le handicap mais que la finalité de preuve du consentement peut être pleinement préservée par une adaptation ?
+
+### 4. Traduction constitutionnelle française
+
+La Convention ne constitue pas la norme de contrôle directe de la QPC.
+
+Le droit conventionnel de se porter candidat doit être traduit dans les droits et libertés constitutionnels pertinents.
+
+L'ancrage principal est :
+
+- **article 6 de la Déclaration de 1789** : droit d'éligibilité ;
+- **article 3 de la Constitution** : égalité du suffrage ;
+- le pluralisme des courants d'idées et d'opinions peut compléter l'analyse de l'effet d'une exclusion de candidature.
+
+Le principe d'égalité peut être invoqué avec prudence, mais la QPC gagne à demeurer centrée sur la proportionnalité de l'atteinte au droit d'éligibilité.
+
+### 5. Le précédent administratif comme pont fonctionnel
+
+La décision du Conseil d'État du 14 mai 2021, n° 445497, est importante parce qu'elle montre qu'une adaptation de la formalité manuscrite est juridiquement concevable sans sacrifier sa finalité.
+
+Le Conseil d'État a admis, dans un régime électoral voisin, qu'en cas de handicap permanent ou provisoire empêchant l'accomplissement personnel du geste, un tiers puisse intervenir matériellement à la demande de l'intéressé dès lors que son consentement éclairé est établi.
+
+Cela fournit un test de proportionnalité particulièrement concret :
+
+> **si la même finalité probatoire peut être préservée par une mesure moins restrictive, l'exclusion totale de la candidature est-elle nécessaire ?**
+
+### 6. Remède constitutionnel recherché
+
+La logique descendante conduit moins naturellement à une abrogation générale de L.299 qu'à une **réserve d'interprétation**.
+
+Le Conseil pourrait dire que la disposition est conforme à la Constitution sous réserve qu'elle ne soit pas interprétée comme interdisant une adaptation matérielle de la signature ou de la mention manuscrite lorsqu'un handicap empêche le remplaçant d'accomplir personnellement le geste et que son identité, sa volonté et son consentement éclairé sont établis.
+
+Cette solution préserverait simultanément :
+
+- la finalité probatoire du formalisme électoral ;
+- le droit d'éligibilité ;
+- l'égalité du suffrage ;
+- l'effectivité concrète du droit de candidature.
+
+
 ## Revue approfondie — 7 octobre 2026
 
 ### Norme constitutionnelle centrale
