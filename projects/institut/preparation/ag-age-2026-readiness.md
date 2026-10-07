@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-05"
-version: "0.6"
+version: "0.7"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -51,7 +51,7 @@ PREPARED
 
 | Gate | État | Base | Condition de sortie |
 |---|---|---|---|
-| Statuts de référence | READY_WITH_RESERVATION | scan signé 1995 + copie préfectorale 2018 + chaîne d’usage 2021/2023/2024 ; dates fines récépissé/JO 1996 non revalidées | confirmation finale du greffe souhaitable mais non nécessaire pour continuer la préparation |
+| Statuts de référence | **READY** | scan signé 1995 + copie préfectorale 2018 + chaîne d’usage 2021/2023/2024 + confirmation du Président le 07/10/2026 qu’aucune autre version n’a été communiquée aux autorités | aucune interrogation supplémentaire du greffe nécessaire sur l’existence d’une autre version |
 | Transcription recherchable | READY | source canonique `projects/institut/sources/statuts-corsica-1995-transcription.md` issue des 6 pages scannées | revue humaine ligne à ligne avant freeze juridique |
 | Procédure de modification | READY | article 17 : 15 jours, quorum 1/4, seconde convocation, majorité 2/3 | reporter ces règles dans la convocation |
 | Composition de l’AG | CRITICAL_BLOCKER — ACTIVE_VERIFICATION | archives passives largement épuisées ; protocole actif publié ; jurisprudence agrément/persistance examinée | qualification privée contradictoire des personnes plausibles avant convocation |
