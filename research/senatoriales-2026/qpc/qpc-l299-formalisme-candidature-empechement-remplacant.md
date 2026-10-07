@@ -365,3 +365,16 @@ Ces pièces, rapprochées de **P-13 — déclaration vidéo commune Robert–Ver
 La question constitutionnelle doit donc rendre visible l'effet propre de la loi sur la remplaçante : une personne qui consent à participer à une candidature peut-elle en être matériellement exclue parce qu'un handicap l'empêche d'accomplir personnellement un geste probatoire, alors que la même finalité de preuve peut être préservée par une assistance matérielle demandée et contrôlable ?
 
 Cette individualisation du grief est également importante pour la subsidiarité européenne : elle permet au juge national d'examiner dès maintenant la substance de la difficulté qui pourrait ultérieurement être invoquée au titre de l'article 14 de la Convention combiné avec l'article 3 du Protocole n° 1.
+
+
+## Portée générale de la question constitutionnelle
+
+La présente QPC n'est pas une demande de traitement constitutionnel particulier de Mme Laurence Vernerey.
+
+Son cas rend la difficulté concrète et établit l'applicabilité de l'article L.299 au litige. Mais la question soumise au Conseil doit être formulée au niveau de la norme :
+
+> **quelle garantie constitutionnelle doit entourer l'application des exigences de signature et de mention manuscrite à tout remplaçant qu'un handicap permanent ou provisoire empêche d'accomplir personnellement le geste, lorsque son identité et son consentement éclairé peuvent être établis par des garanties équivalentes ?**
+
+La réponse recherchée doit donc pouvoir gouverner les situations futures comparables, indépendamment des personnes impliquées dans le présent contentieux.
+
+La situation de Mme Vernerey a une fonction probatoire et contentieuse : elle montre que la question n'est ni abstraite ni hypothétique. Elle ne constitue pas la limite matérielle de la QPC.
