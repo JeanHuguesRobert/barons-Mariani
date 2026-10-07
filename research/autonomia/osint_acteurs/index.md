@@ -8,6 +8,7 @@ last_modified_at: '2026-10-07'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
+snapshot_as_of: '2026-10-07T07:36:00+02:00'
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/osint_acteurs/index.md"
 document_role: source
 document_kind: research-note
