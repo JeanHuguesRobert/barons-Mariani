@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.50"
+version: "0.51"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -170,6 +170,85 @@ Cette priorité est une règle d'**activation**, non une règle de supériorité
 
 Références conceptuelles canoniques du Corpus : séparation control/data plane dans Inox/Cogentia et principe de localité / FractaCognition.
 
+
+
+### Gate terminal de contrôle des sorties — validation avant émission
+
+Le control plane s'applique aussi à la **sortie candidate** produite après l'analyse.
+
+Il ne suffit pas de charger les règles avant d'agir : toute restitution humaine, toute écriture destinée au data plane et toute publication doivent être relues contre les invariants locaux immédiatement avant émission.
+
+Boucle obligatoire :
+
+~~~text
+SORTIE CANDIDATE
+→ identifier les règles locales applicables au rendu
+→ vérifier les références documentaires
+→ vérifier les libellés canoniques
+→ vérifier les qualifications probatoires et juridiques
+→ vérifier les bornes / incertitudes requises
+→ vérifier l'absence de marqueurs internes interdits
+→ corriger
+→ seulement ensuite émettre / écrire / publier
+~~~
+
+### Contrôle terminal des références de pièces
+
+Toute occurrence d'un identifiant documentaire stable doit être contrôlée avant émission :
+
+~~~text
+P-xx / P-xx.a / PREF-xx
+→ le numéro est-il présent ?
+→ le libellé intelligible est-il présent ?
+→ le libellé correspond-il au meilleur libellé canonique courant ?
+→ la référence reste-t-elle compréhensible hors contexte immédiat ?
+~~~
+
+Règle impérative :
+
+> **Aucune référence de pièce ne doit sortir du système sous la forme d'un identifiant nu lorsqu'un libellé canonique est disponible.**
+
+Exemples :
+
+~~~text
+À ÉVITER :
+P-46
+
+À ÉCRIRE :
+P-46 — Registre exhaustif des courriels Préfecture / Tribunal administratif
+~~~
+
+Cette exigence vaut pour :
+- la requête ;
+- les annexes ;
+- le bordereau ;
+- les revues ;
+- les comptes rendus de contrôle ;
+- les réponses conversationnelles destinées à Jean Hugues Robert ;
+- toute autre explication humaine produite à partir du dossier.
+
+### Défaillance d'activation au stade de sortie
+
+Si une règle locale correctement chargée aurait empêché une erreur mais que l'erreur apparaît malgré tout dans une restitution, classer l'incident comme :
+
+> **défaillance d'activation du control plane au stade de sortie**
+
+La correction doit alors porter sur deux niveaux :
+
+1. **objet erroné** — corriger immédiatement la formulation ou la référence ;
+2. **boucle de contrôle** — renforcer le gate terminal afin que le même type d'erreur soit détecté avant émission.
+
+Cas canonique du 7 octobre 2026 :
+- la règle « numéro + libellé intelligible » était déjà présente ;
+- une analyse mécanique a produit l'identifiant `P-46` ;
+- cet identifiant a été restitué sans résolution vers son libellé canonique ;
+- l'incident est donc un défaut d'activation terminale, non une absence de règle.
+
+Test final avant émission :
+
+> **Si cette sortie était l'unique page lue par un tiers, comprendrait-il chaque référence documentaire sans devoir connaître le code interne du dossier ?**
+
+Si la réponse est non, la sortie ne doit pas être émise en l'état.
 
 
 ### Gel du paquet PDF — builds éphémères, artefact unique, Release immuable
@@ -1629,3 +1708,8 @@ Création de deux mémoires distincts et motivés candidats au dépôt :
 - `qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`.
 
 Les anciennes notes QPC restent des dossiers de recherche. Les mémoires deviennent les objets à contrôler pour le paquet final.
+
+
+## UPDATE — 7 octobre 2026 — v0.51 / gate terminal de contrôle des sorties
+
+Ajout d'un gate terminal obligatoire : toute sortie candidate est relue contre le control plane local avant émission. Les références documentaires doivent notamment être résolues sous la forme **numéro + libellé intelligible** ; un identifiant nu comme `P-46` est interdit lorsqu'un libellé canonique est disponible. L'incident ayant motivé cette correction est classé comme **défaillance d'activation du control plane au stade de sortie**.
