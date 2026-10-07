@@ -2,8 +2,8 @@
 title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
-date: "2026-10-06"
-version: "0.12"
+date: "2026-10-07"
+version: "0.13"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -19,6 +19,7 @@ related:
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
   - "pre-filing-operational-plan-2026-10-07.md"
+  - "matrice-canaux-materiels-depot-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
@@ -92,7 +93,14 @@ Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au
 - [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.17.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
-- [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. Le plan opérationnel recommande une remise locale anticipée au représentant de l’État avec preuve horodatée ; l’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
+- [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La matrice `matrice-canaux-materiels-depot-2026-10-07.md` distingue désormais destinataire juridique, modalité matérielle, preuve et risque. L’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
+- [ ] **Redondance matérielle du dépôt — même paquet, plusieurs voies** — mobiliser autant que raisonnablement possible plusieurs voies indépendantes **du même paquet gelé** : au minimum remise physique au représentant de l’État à Bastia ; si possible remise directe d’un exemplaire strictement identique au secrétariat général du Conseil constitutionnel à Paris par porteur/coursier ; envisager un commissaire de justice comme renfort probatoire de remise. Chaque voie doit produire sa propre preuve datée et horodatée.
+- [ ] **Anti-divergence entre dépôts redondants** — avant toute remise multiple, figer une seule requête canonique, un seul bordereau et un seul jeu de pièces ; calculer les SHA-256 et identifier les exemplaires physiques. Interdiction de déposer silencieusement des versions différentes par des canaux parallèles. Une correction postérieure devient un objet distinct et explicitement daté.
+- [ ] **Réception avant délai ≠ expédition avant délai** — pour tout canal postal, express ou coursier, exiger une preuve de **réception** avant l’échéance ; ne pas considérer le cachet d’expédition comme filet suffisant. Jurisprudence de contrôle : décisions 2017-5267 QPC/SEN et 2017-5256 QPC/AN.
+- [ ] **Préfecture Bastia — sécuriser l’accès pratique** — l’accueil public ordinaire publié est 8 h 30–11 h 30 et 13 h 30–15 h 30, sur rendez-vous. Confirmer dès l’ouverture le service concret receveur, l’accès et la possibilité d’obtenir récépissé/cachet avec heure ; viser une remise très antérieure à 15 h 30, sans organiser le dépôt autour de 18 h.
+- [ ] **Conseil constitutionnel — remise directe à Paris** — confirmer dès l’ouverture les modalités pratiques de réception d’une requête électorale au secrétariat général, 2 rue de Montpensier, et, si une personne/coursier est mobilisable à Paris, lui transmettre un exemplaire strictement identique avec instruction d’obtenir une preuve de remise datée et horodatée.
+- [ ] **Sous-préfecture de Corte — ne pas présumer l’habilitation** — aucune source examinée ne suffit à établir qu’une remise à la sous-préfecture vaut à elle seule saisine du « représentant de l’État » au sens de l’article 34. Ne compter cette voie qu’après confirmation explicite qu’elle reçoit la requête pour le compte du représentant de l’État ; sinon la traiter comme tentative/trace complémentaire.
+- [ ] **Courriel / télécopie — copie de traçabilité seulement** — sauf confirmation institutionnelle expresse d’un mode de saisine électronique, ne jamais utiliser courriel ou fax comme seul dépôt. Une copie numérique peut être envoyée parallèlement ou après la remise matérielle, clairement étiquetée comme copie de traçabilité ne se substituant pas au dépôt article 34.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -349,3 +357,34 @@ La fermeture complète du dépôt reste impossible avant vérification matériel
 - règle commune : l'image primaire fait foi ; toute transcription est dérivée et doit signaler ses incertitudes ; aucune lacune ne doit être comblée par inférence ;
 - le texte exact de P-17 est à récupérer de la conversation contemporaine et/ou à vérifier sur le scan dès qu'il est retrouvé ;
 - les scans du jugement du TA recherchés parallèlement feront l'objet du contrôle primaire déjà ouvert sur P-20.
+
+
+## UPDATE — 7 octobre 2026 — redondance des canaux de dépôt
+
+La stratégie de dépôt devient explicitement **redondante**, sous une contrainte d'identité stricte du paquet.
+
+Source de travail : `matrice-canaux-materiels-depot-2026-10-07.md`.
+
+Invariants ajoutés :
+
+~~~text
+plusieurs voies de remise
+≠ plusieurs versions du recours
+
+preuve d'expédition
+≠ preuve de réception
+
+courriel de copie
+≠ saisine acquise
+
+sous-préfecture
+≠ représentant de l'État sans confirmation
+~~~
+
+Priorité opérationnelle :
+1. remise physique anticipée à la préfecture de Bastia avec récépissé horodaté ;
+2. si matériellement possible, remise directe redondante du même paquet au Conseil constitutionnel à Paris ;
+3. commissaire de justice / porteur comme renfort probatoire ;
+4. copies numériques ou fax uniquement comme traces supplémentaires, jamais comme unique fondement de la saisine.
+
+La jurisprudence retrouvée impose une prudence maximale sur le temps : le Conseil a déjà rejeté des requêtes en se fondant sur leur **date de réception** au secrétariat général, postérieure au délai.
