@@ -1225,6 +1225,28 @@ Transcription canonique :
 
 Règle : les scans primaires prévalent sur la transcription. La lettre de notification vise explicitement l'article L.292 ; ne pas corriger cette référence dans la transcription.
 
+
+### P-13 et P-20 verrouillées — v0.55
+
+**P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**
+- MP4 primaire récupéré depuis Google Drive ;
+- taille : 79 663 474 octets ;
+- SHA-256 recalculé : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ;
+- concordance exacte avec la fiche d'intégrité.
+P-13 n'est plus un verrou de localisation ou d'intégrité ; seul son mode pratique de production reste à arrêter.
+
+**P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification**
+Sources primaires photographiques retrouvées :
+- P-20.a avis de passage ;
+- P-20.b AR / preuve de distribution ;
+- P-20.c photographie contextuelle Avenue du Baron Mariani ;
+- P-20.d lettre de notification ;
+- P-20.e jugement page 1 ;
+- P-20.f jugement page 2 ;
+- P-20.g jugement page 3, expédition conforme signée/cachetée.
+
+P-20 n'est plus un verrou de localisation. Priorité restante : matérialiser cette séquence dans le recueil final sans modifier les originaux.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
