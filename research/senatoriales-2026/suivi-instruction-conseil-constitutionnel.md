@@ -62,18 +62,20 @@ https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatorial
 
 https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/research/senatoriales-2026/requete-conseil-constitutionnel.md
 
-### PDF définitif gelé
+### PDF canonique actuellement servi
 
-**À renseigner après gel et publication de l’artefact définitif.**
+https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf
 
-Cette ligne devra alors indiquer :
+Vérification externe positive du 7 octobre 2026 à **18:05:05.882 CEST** :
 
-- l’URL directe du PDF définitif ;
-- sa référence de publication immuable ;
-- son nom de fichier exact ;
-- son empreinte SHA-256 calculée sur les octets définitifs.
+- HTTP : `200`
+- type : `application/pdf`
+- taille : `200935` octets
+- SHA-256 : `2968cbe0a5de0f5e279e70d28c0769d4a8dbf8ca8f6f7e4571864333ecaa02a0`
 
-Tant que ces éléments ne sont pas disponibles, aucune URL ni empreinte ne doit être anticipée.
+Note d’incident et de remédiation :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/incidents/2026-10-07-resolveur-pdf-netlify.md
 
 ## Liens utiles pour comprendre et vérifier le dossier
 
@@ -175,11 +177,18 @@ Pour chaque élément postérieur au dépôt, conserver autant que possible :
 | Version / empreinte | version ou SHA-256 lorsqu’utile |
 | Observation | portée, limite, lien avec un moyen déjà invoqué |
 
-## État initial au 7 octobre 2026
+## État au 7 octobre 2026 après dépôt
 
-La requête est encore en phase de finalisation avant son gel et son dépôt.
+La requête a été reçue par le Conseil constitutionnel le **7 octobre 2026** et enregistrée sous la référence **2026-6589 SEN**.
 
-Aucun complément postérieur au dépôt n’est donc encore enregistré ici comme production juridictionnelle.
+Le greffe a notifié cet enregistrement par courriel horodaté **18:19:57 CEST**.
+
+Le requérant a répondu au greffe à **19:40:46 CEST** dans le même fil que le signalement de l’incident d’accès au PDF, en :
+- accusant réception de l’enregistrement ;
+- confirmant l’adresse électronique de notification ;
+- documentant la chronologie technique de l’incident ;
+- rappelant l’URL canonique du PDF et la source Git versionnée ;
+- indiquant que le recours à TransfertPro ne paraissait plus nécessaire, sauf demande expresse du greffe.
 
 Les futurs ajouts devront distinguer explicitement :
 
@@ -190,7 +199,18 @@ Les futurs ajouts devront distinguer explicitement :
 
 ## Registre chronologique
 
-_Aucune entrée postérieure au dépôt à ce stade._
+| Date et heure (CEST) | Sens | Nature | Objet | Statut procédural | Référence / trace |
+|---|---|---|---|---|---|
+| 2026-10-07 17:49:20 | requérant → Conseil | saisine / transmission | Courriel direct au greffe avec accès canonique vers la requête | envoyé | Gmail `1a1170e127669fc4` |
+| 2026-10-07 18:00:34 | Conseil → requérant | canal de secours | Invitation TransfertPro pour déposer requête et pièces | proposé, non utilisé à ce stade | message TransfertPro |
+| 2026-10-07 18:03:49 | Conseil → requérant | signalement | Le greffe indique que le lien communiqué ne fonctionne pas | reçu | Gmail `1a1171b57a6e8c1d` |
+| 2026-10-07 18:05:05.882 | externe | vérification technique | URL canonique vérifiée comme servant effectivement le PDF | effectif | HTTP 200, `application/pdf`, SHA-256 conservé |
+| 2026-10-07 18:19:57 | Conseil → requérant | accusé de réception / enregistrement | Requête reçue le 7 octobre 2026 et enregistrée | **enregistré** | **2026-6589 SEN**, Gmail `1a1172a1f659761e` |
+| 2026-10-07 19:40:46 | requérant → Conseil | réponse / accusé de réception | Confirmation de l’adresse de notification et explication documentée de l’incident | envoyé dans le même fil | Gmail `1a117741d9797649` |
+
+### Distinction à conserver
+
+L’enregistrement `2026-6589 SEN` établit que le Conseil constitutionnel a reçu et enregistré une requête le 7 octobre 2026. Il ne préjuge ni de la recevabilité finale, ni du fond, ni de l’étendue de l’instruction à venir.
 
 ## Point de contact du requérant
 
