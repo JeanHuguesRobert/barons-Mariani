@@ -29,8 +29,8 @@ related_documents:
     path: "../chronologie_processus_beauvau_corse.md"
   - title: "Atlas du paysage politique et discursif corse — addendum septembre 2026"
     path: "atlas_paysage_politique_corse_addendum_2026-09.md"
-  - title: "Atlas du paysage politique et institutionnel corse — addendum octobre 2026"
-    path: "atlas_paysage_politique_corse_addendum_2026-10.md"
+  - title: "Atlas consolidé du paysage politique et discursif corse"
+    path: "atlas_paysage_politique_corse.md"
 provenance:
   origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -60,7 +60,7 @@ Depuis la rédaction initiale de cette note, trois changements doivent être int
 
 La proposition C.O.R.S.I.C.A. a également évolué : la rédaction parlementaire courante est désormais l’[amendement d’effectivité](amendement_effectivite_article_72-5.md), et la [note synthétique](../note_synthetique_autonomie_capacite_corse.md) en donne l’état opérationnel au 7 octobre.
 
-La carte institutionnelle et politique courante est portée par l’[addendum Atlas d’octobre 2026](atlas_paysage_politique_corse_addendum_2026-10.md).
+La carte institutionnelle et politique courante est portée par l’[addendum Atlas d’octobre 2026](atlas_paysage_politique_corse.md).
 
 ---
 
