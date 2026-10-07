@@ -4,10 +4,12 @@ subtitle: Du consensus apparent au test de l’Autonomie de Capacité
 author: Jean Hugues Noël Robert
 date: '2026-06-06'
 status: working-paper — actualisation à intégrer dans atlas_paysage_politique_corse.md
+historical_layer: true
 version: 0.1-actualisation-juin-2026
 x-type: political and discursive atlas update
 x-parent_document: research/autonomia/atlas_paysage_politique_corse.md
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse_actualisation_2026-06.md
+absorbed_into: "research/autonomia/atlas_paysage_politique_corse.md"
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 document_role: source
