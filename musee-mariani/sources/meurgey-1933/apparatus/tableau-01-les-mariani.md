@@ -126,10 +126,10 @@ Le tableau rappelle sa carrière : officier, député de la Corse, chambellan de
 
 Descendance visible en IX :
 
-- **Antoine dit Tony, baron Mariani**, époux d'**Amélina-Marie-Madeleine Davillier-Regnault de Saint-Jean-d'Angély** ; le tableau porte **« Trois enfants morts jeunes »** ;
+- **Antoine dit Tony, baron Mariani** (sources externes : **1850–1896**), époux d'**Amélina/ Madeleine Davillier-Regnault de Saint-Jean-d'Angély** (1855–1926) ; le tableau porte explicitement **« Trois enfants morts jeunes »**. Une revue nobiliaire contemporaine confirme leur mariage en avril 1876 ;
 - **Madeleine Mariani**, dont les prénoms complets sont donnés par des sources généalogiques secondaires concordantes comme **Fernande-Marie-Louise-Caroline-Madeleine** (1850–1924), épouse en 1870 **Abdomar Alexandre Maurice Eugène William d’Adhémar de Lantagnac** (1834–1878), lieutenant de vaisseau.  
   **Correction de la première lecture visuelle :** la forme initialement relevée comme « Fernande » désignait la même personne ; « Madeleine » est le prénom d’usage qui ressort de plusieurs sources secondaires indépendantes. Cette correction est externe à la transcription et doit rester signalée comme telle ;
-- **Essey Mariani**, capitaine d'infanterie **(1856–1891)**.
+- **Essey Mariani**, capitaine d'infanterie **(1856–1891)**. La vue redressée confirme la graphie `Essey`; aucune ligne de descendance n'est dessinée sous son nœud dans le Tableau I.
 
 La branche de **Madeleine Mariani** est développée jusqu'aux générations XII et montre des descendances par les femmes dans plusieurs familles alliées.
 
@@ -333,3 +333,19 @@ Cela explique pourquoi Antoine et Jules apparaissent dans l'environnement graphi
 ### Conséquence
 
 La catégorie `représentant_1933` doit rester distincte de `descendant_de_Mariani`.
+
+### Fermeture partielle Tony / Essey — 2026-10-07
+
+**Antoine « Tony » Mariani** est corroboré par une source contemporaine de 1876 : la *Revue historique nobiliaire et biographique* annonce son mariage, alors lieutenant au 3e dragons, avec Madeleine Davillier-Regnaud de Saint-Jean-d'Angély. Des synthèses publiques donnent 1850–1896 pour Tony et 1855–1926 pour Madeleine.
+
+Meurgey imprime sous leur couple : **« Trois enfants morts jeunes »**. En l'état, cette sous-branche est qualifiée **ÉTEINTE SELON MEURGEY / corroboration primaire des trois décès encore à obtenir**.
+
+**Essey Mariani (1856–1891)** est clairement lisible sur la vue redressée comme capitaine d'infanterie. Contrairement aux branches avec postérité, aucun trait descendant n'est dessiné sous son nœud.
+
+Cette absence graphique, dans un tableau de 1933, quarante-deux ans après sa mort, constitue un indice secondaire sérieux mais non une preuve primaire.
+
+Statut : **PROBABLEMENT ÉTEINTE SELON MEURGEY — à corroborer**.
+
+Sources externes Tony :
+- Revue historique nobiliaire et biographique, mariage 1876 ;
+- synthèses famille Davillier / Man8Rove.
