@@ -96,6 +96,17 @@ Index public : `investigation/sources/chaine-silence-etat-modalites-depot-2026-0
 - **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** : sous-pièces P-20.a à P-20.g identifiées et transcription contrôlée disponible ; assemblage restant.
 - **P-16 — mémoire en défense devant le Tribunal administratif** : reproduction candidate matérialisée, mais identité binaire exacte avec l'exemplaire matériel remis au TA non indépendamment établie.
 
+### Artefacts critiques déjà générés dans le staging conversationnel
+
+Ces artefacts existent dans le runtime de travail mais ne sont pas encore réputés présents dans le clone local servant à l'assembleur :
+
+- **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** : PDF SHA-256 `1cccc5a65df7d07401aa5d09923287509e085b6290abb815d6417d79c13fb03a` + MP4 natif SHA-256 `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ;
+- **P-16 — mémoire en défense devant le Tribunal administratif** : PDF SHA-256 `54387f8cc8a109712136ea94288c5e7ede0186cba4294e2196ec0ebd41b3a4df` ;
+- **P-18 — attestation CAF relative à Mme Laurence Vernerey** : PDF minimisé SHA-256 `836bf9a0f350b7cb2f5a51b1fa82c5b050ab931274254003e9757d5020001fcd` ;
+- **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** : PDF composite SHA-256 `c0062283f7049da075f26ff2d92363ed9fbbe10bdd6bf8c2c3ff1137d713b2a7`.
+
+Ils doivent être copiés dans `.filing-materials/senatoriales-2026/` du clone utilisé pour le build avant que le contrat puisse les considérer matériellement satisfaits.
+
 ## 4. Chaîne TA
 
 Index de lecture : `investigation/chaine-ta-p29-p33-2026-10-06.md`.
