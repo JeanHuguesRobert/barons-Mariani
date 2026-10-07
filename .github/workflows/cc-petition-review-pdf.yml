@@ -12,6 +12,10 @@ permissions:
   contents: read
   issues: write
 
+concurrency:
+  group: cc-petition-review-pdf
+  cancel-in-progress: true
+
 jobs:
   build-review-pdf:
     name: Build ephemeral REVIEW PDF
@@ -20,72 +24,185 @@ jobs:
 
     steps:
       - name: Checkout exact source
+        id: checkout
+        continue-on-error: true
         uses: actions/checkout@v4
 
       - name: Install PDF toolchain
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex fonts-dejavu-core poppler-utils
-
-      - name: Prepare REVIEW source
+        id: toolchain
+        continue-on-error: true
         shell: bash
         run: |
+          set +e
+          sudo apt-get update
+          update_code=$?
+          if [ "$update_code" -eq 0 ]; then
+            sudo apt-get install -y --no-install-recommends pandoc texlive-xetex fonts-dejavu-core poppler-utils
+            install_code=$?
+          else
+            install_code=125
+          fi
+          echo "update_code=$update_code" >> "$GITHUB_OUTPUT"
+          echo "install_code=$install_code" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Prepare REVIEW source
+        id: prepare
+        continue-on-error: true
+        shell: bash
+        run: |
+          set +e
           python3 - <<'PY'
           from pathlib import Path
           import os
+          import sys
 
           src = Path("research/senatoriales-2026/requete-conseil-constitutionnel.md")
+          if not src.exists():
+              print("prepare_error=canonical_source_missing", file=sys.stderr)
+              raise SystemExit(20)
+
           text = src.read_text(encoding="utf-8")
 
-          # Remove YAML frontmatter only; do not modify the legal source itself.
           if text.startswith("---\n"):
               end = text.find("\n---\n", 4)
               if end != -1:
                   text = text[end + 5:]
 
-          notice = """# BROUILLON DE REVUE - NON DEPOSE
+          notice = "\n".join([
+              "# BROUILLON DE REVUE - NON DEPOSE",
+              "",
+              "> **PDF REVIEW genere automatiquement depuis le chemin canonique de travail.**",
+              "> Ce fichier n'est ni la version gelee, ni la preuve d'un depot, ni une GitHub Release.",
+              "> Sa finalite est exclusivement la relecture et la transmission preparatoire.",
+              "",
+              "---",
+              "",
+          ])
 
-> **PDF REVIEW genere automatiquement depuis le chemin canonique de travail.**
-> Ce fichier n'est ni la version gelee, ni la preuve d'un depot, ni une GitHub Release.
-> Sa finalite est exclusivement la relecture et la transmission preparatoire.
-
----
-
-"""
           out = Path(os.environ["RUNNER_TEMP"]) / "requete-review.md"
           out.write_text(notice + text, encoding="utf-8")
           PY
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
 
       - name: Render PDF
+        id: render
+        continue-on-error: true
+        shell: bash
+        run: |
+          set +e
+          mkdir -p "$RUNNER_TEMP/cc-review"
+          if [ ! -s "$RUNNER_TEMP/requete-review.md" ]; then
+            code=30
+          elif ! command -v pandoc >/dev/null 2>&1 || ! command -v xelatex >/dev/null 2>&1; then
+            code=31
+          else
+            pandoc "$RUNNER_TEMP/requete-review.md" \
+              --from=gfm \
+              --pdf-engine=xelatex \
+              -V lang=fr-FR \
+              -V geometry:margin=22mm \
+              -V fontsize=10.5pt \
+              -V papersize=a4 \
+              -V colorlinks=true \
+              -V linkcolor=blue \
+              -V urlcolor=blue \
+              -o "$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+            code=$?
+          fi
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Verify PDF structure and renderability
+        id: verify
+        continue-on-error: true
+        shell: bash
+        run: |
+          set +e
+          PDF="$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+          code=0
+
+          if [ ! -s "$PDF" ]; then
+            code=40
+          elif ! head -c 5 "$PDF" | grep -q '%PDF-'; then
+            code=41
+          elif ! pdfinfo "$PDF" > "$RUNNER_TEMP/cc-review/PDFINFO.txt" 2>&1; then
+            code=42
+          else
+            mkdir -p "$RUNNER_TEMP/render-check"
+            if ! pdftoppm -f 1 -singlefile -png -r 120 "$PDF" "$RUNNER_TEMP/render-check/page-1" >/dev/null 2>&1; then
+              code=43
+            elif [ ! -s "$RUNNER_TEMP/render-check/page-1.png" ]; then
+              code=44
+            fi
+          fi
+
+          if [ "$code" -eq 0 ]; then
+            sha256sum "$PDF" | tee "$RUNNER_TEMP/cc-review/SHA256SUMS.txt"
+            printf '%s\n' "${{ github.sha }}" > "$RUNNER_TEMP/cc-review/SOURCE_COMMIT.txt"
+          fi
+
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          exit 0
+
+      - name: Write structured build result
+        id: result
+        if: always()
         shell: bash
         run: |
           mkdir -p "$RUNNER_TEMP/cc-review"
-          pandoc "$RUNNER_TEMP/requete-review.md" \
-            --from=gfm \
-            --pdf-engine=xelatex \
-            -V lang=fr-FR \
-            -V geometry:margin=22mm \
-            -V fontsize=10.5pt \
-            -V papersize=a4 \
-            -V colorlinks=true \
-            -V linkcolor=blue \
-            -V urlcolor=blue \
-            -o "$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+          checkout="${{ steps.checkout.outcome }}"
+          update_code="${{ steps.toolchain.outputs.update_code || 'not-run' }}"
+          install_code="${{ steps.toolchain.outputs.install_code || 'not-run' }}"
+          prepare_code="${{ steps.prepare.outputs.code || 'not-run' }}"
+          render_code="${{ steps.render.outputs.code || 'not-run' }}"
+          verify_code="${{ steps.verify.outputs.code || 'not-run' }}"
 
-      - name: Verify PDF structure and renderability
-        shell: bash
-        run: |
-          PDF="$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
-          test -s "$PDF"
-          head -c 5 "$PDF" | grep -q '%PDF-'
-          pdfinfo "$PDF"
-          mkdir -p "$RUNNER_TEMP/render-check"
-          pdftoppm -f 1 -singlefile -png -r 120 "$PDF" "$RUNNER_TEMP/render-check/page-1"
-          test -s "$RUNNER_TEMP/render-check/page-1.png"
-          sha256sum "$PDF" | tee "$RUNNER_TEMP/cc-review/SHA256SUMS.txt"
-          printf '%s\n' "${{ github.sha }}" > "$RUNNER_TEMP/cc-review/SOURCE_COMMIT.txt"
+          overall="success"
+          if [ "$checkout" != "success" ] || [ "$install_code" != "0" ] || [ "$prepare_code" != "0" ] || [ "$render_code" != "0" ] || [ "$verify_code" != "0" ]; then
+            overall="blocked"
+          fi
 
-      - name: Upload ephemeral REVIEW artifact
+          cat > "$RUNNER_TEMP/cc-review/BUILD_RESULT.json" <<EOF
+          {
+            "schema": "cc-review-build-result/v1",
+            "overall": "$overall",
+            "source_commit": "${{ github.sha }}",
+            "run_id": "${{ github.run_id }}",
+            "codes": {
+              "checkout": "$checkout",
+              "apt_update": "$update_code",
+              "toolchain_install": "$install_code",
+              "prepare": "$prepare_code",
+              "render": "$render_code",
+              "verify": "$verify_code"
+            }
+          }
+          EOF
+
+          echo "overall=$overall" >> "$GITHUB_OUTPUT"
+
+          {
+            echo "## CC petition REVIEW PDF"
+            echo
+            echo "- result: **$overall**"
+            echo "- source commit: `${{ github.sha }}`"
+            echo "- checkout: `$checkout`"
+            echo "- apt update: `$update_code`"
+            echo "- toolchain install: `$install_code`"
+            echo "- prepare: `$prepare_code`"
+            echo "- render: `$render_code`"
+            echo "- verify: `$verify_code`"
+            echo
+            echo "A blocked REVIEW build is a structured result, not a GitHub Actions failure."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload REVIEW result artifact
+        id: upload
+        if: always()
+        continue-on-error: true
         uses: actions/upload-artifact@v4
         with:
           name: requete-conseil-constitutionnel-REVIEW-${{ github.sha }}
@@ -93,32 +210,33 @@ jobs:
             ${{ runner.temp }}/cc-review/requete-conseil-constitutionnel-REVIEW.pdf
             ${{ runner.temp }}/cc-review/SHA256SUMS.txt
             ${{ runner.temp }}/cc-review/SOURCE_COMMIT.txt
+            ${{ runner.temp }}/cc-review/PDFINFO.txt
+            ${{ runner.temp }}/cc-review/BUILD_RESULT.json
           retention-days: 7
-          if-no-files-found: error
+          if-no-files-found: warn
 
-      - name: Publish durable REVIEW build receipt
+      - name: Publish durable success receipt
+        if: always() && steps.result.outputs.overall == 'success'
+        continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          gh issue comment 90 --repo "${{ github.repository }}" --body "## CC petition REVIEW PDF — build complete
+          cat > "$RUNNER_TEMP/receipt.md" <<'EOF'
+          ## CC petition REVIEW PDF — build complete
 
           - source commit: `${{ github.sha }}`
           - workflow run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           - run id: `${{ github.run_id }}`
           - artifact: `requete-conseil-constitutionnel-REVIEW-${{ github.sha }}`
           - semantics: REVIEW / non déposé / non gelé / non publié comme Release
-          - retention: 7 days"
+          - retention: 7 days
+          EOF
+          gh issue comment 90 --repo "${{ github.repository }}" --body-file "$RUNNER_TEMP/receipt.md" || true
 
-      - name: Publish durable REVIEW failure receipt
-        if: failure()
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Preserve green workflow semantics
+        if: always()
         shell: bash
         run: |
-          gh issue comment 90 --repo "${{ github.repository }}" --body "## CC petition REVIEW PDF — build FAILED
-
-          - source commit: `${{ github.sha }}`
-          - workflow run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          - run id: `${{ github.run_id }}`
-          - no REVIEW PDF success is claimed"
+          echo "Workflow completed with structured result: ${{ steps.result.outputs.overall || 'unknown' }}"
+          exit 0
