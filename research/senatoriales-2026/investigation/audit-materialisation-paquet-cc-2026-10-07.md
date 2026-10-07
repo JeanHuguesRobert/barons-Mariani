@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.6"
+version: "0.7"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -201,7 +201,9 @@ Le jugement photographié comporte notamment :
 
 La chaîne postale est cohérente avec les courriels du greffe : décision rendue le 14 septembre, pli en attente à La Poste depuis le 17 septembre, retrait documenté le 25 septembre.
 
-**Action restante :** assembler les photographies dans l'ordre sous **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification**, avec **P-20.a — chaîne postale et contexte matériel de notification** comme sous-ensemble documentaire.
+**Transcription canonique P-20 :** `sources/p20-jugement-ta-bastia-notification-transcription-2026-09-25.md`.
+
+**Action restante :** assembler les photographies dans l'ordre sous **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification**, avec **P-20.a — chaîne postale et contexte matériel de notification** comme sous-ensemble documentaire. La transcription ne remplace pas les scans primaires.
 
 ### P-08 — traces du trajet du 11 septembre vers Bastia
 
