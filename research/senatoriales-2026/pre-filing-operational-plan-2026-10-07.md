@@ -9,7 +9,7 @@ document_kind: "filing-plan"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.23.md"
+  - "requete-conseil-constitutionnel.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "checklist-depot-requete-cc-2026-10-07.md"
   - "matrice-canaux-materiels-depot-2026-10-07.md"
