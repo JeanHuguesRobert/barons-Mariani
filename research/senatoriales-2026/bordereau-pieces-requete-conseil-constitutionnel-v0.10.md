@@ -15,7 +15,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 source_documents:
-  - "requete-conseil-constitutionnel-projet-v0.23.md"
+  - "requete-conseil-constitutionnel.md"
   - "inventaire_probatoire_exhaustif_pieces_preuves.md"
   - "investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
 provenance:
