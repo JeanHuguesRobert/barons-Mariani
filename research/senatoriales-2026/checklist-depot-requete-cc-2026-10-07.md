@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.48"
+version: "0.49"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1056,7 +1056,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [x] **Conclusions** — la v0.14 distingue annulation comme conclusion principale, mesures d’instruction subsidiaires et proclamation directe comme conclusion infiniment subsidiaire / probe exploratoire.
 - [x] **Effet de l’annulation — LO 322** — v0.14 corrigée : demander l’annulation comme remède principal et demander au Conseil d’en tirer les conséquences légales ; LO 322 prévoit l’élection partielle dans les trois mois.
 - [x] **Remède extrême** — décision explicite : la proclamation directe est conservée comme conclusion infiniment subsidiaire et probe exploratoire ; elle n’est pas présentée comme le remède normalement disponible.
-- [~] **QPC — deux mémoires distincts à finaliser** — la possibilité de soulever directement des QPC dans le contentieux électoral parlementaire est acquise. Les deux questions retenues sont désormais **L.303 — garanties juridictionnelles de l'exclusion d'une candidature** et **L.299 — formalisme de candidature et empêchement fonctionnel du remplaçant**. Reste à transformer chacune des notes de recherche en mémoire juridictionnel distinct et motivé : disposition exacte, applicabilité, droit/liberté garanti, jurisprudence antérieure, caractère nouveau ou sérieux, dispositif demandé.
+- [~] **QPC — deux mémoires distincts créés, revue finale à fermer** — les deux mémoires juridictionnels existent désormais : `qpc/memoire-qpc-l303-garanties-juridictionnelles.md` et `qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`. Avant gel : vérifier une dernière fois la déclaration antérieure de conformité, la formulation exacte du droit/liberté garanti, le caractère sérieux, les références jurisprudentielles et la cohérence exacte avec la requête.
 - [~] **Contrôle de solidité QPC** — les deux QPC ont vocation à être incluses dans le dépôt final, mais chacune doit rester juridiquement autonome et réellement dirigée contre la disposition législative elle-même. Si une formulation ne satisfait pas les conditions propres à la QPC, la corriger avant dépôt plutôt que la conserver sous une qualification inexacte.
 - [x] **Défenseur des droits** — saisine maintenue distincte du recours CC ; aucun effet suspensif sur les délais ne lui est attribué.
 - [x] **Trace Défenseur des droits — P-42** — saisine du 26 septembre vérifiée dans Gmail ; déléguée mise en copie les 1er et 2 octobre ; aucune réponse provenant de son adresse retrouvée dans la recherche ciblée au 6 octobre. Ne pas écrire « aucune réponse n'existe », mais « aucune réponse retrouvée ».
@@ -1601,3 +1601,12 @@ Ajout du protocole de matérialisation du dossier final : les sources et le cont
 ## UPDATE — 7 octobre 2026 — v0.48 / crible de conformité
 
 Le crible de la requête stable a révélé plusieurs divergences du control plane lui-même : pointeurs v0.23 encore présentés comme courants, anciennes désignations QPC A/B et exigence devenue obsolète de rubriques mécaniques « Grand public / Expert ». Les règles actives sont réalignées sur la référence stable, les deux QPC nommées et le principe d'intelligibilité sans perte sémantique.
+
+
+## UPDATE — 7 octobre 2026 — v0.49 / mémoires QPC distincts
+
+Création de deux mémoires distincts et motivés candidats au dépôt :
+- `qpc/memoire-qpc-l303-garanties-juridictionnelles.md` ;
+- `qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`.
+
+Les anciennes notes QPC restent des dossiers de recherche. Les mémoires deviennent les objets à contrôler pour le paquet final.
