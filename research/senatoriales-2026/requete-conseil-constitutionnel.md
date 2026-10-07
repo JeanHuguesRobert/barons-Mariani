@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.33"
+version: "0.34"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -1675,7 +1675,7 @@ Les conclusions doivent rester ordonnées :
 
 Une demande subsidiaire ne doit pas être confondue avec la demande principale.
 
-Par ces motifs, au vu des moyens exposés et des pièces annexées à l'exemplaire déposé, le requérant conclut qu'il plaise au Conseil constitutionnel :
+Par ces motifs, au vu des moyens exposés, des éléments probatoires reproduits dans le présent PDF et des sources primaires identifiées et conservées, le requérant conclut qu'il plaise au Conseil constitutionnel :
 
 1. **DÉCLARER RECEVABLE** la présente requête en contestation d'élection ;
 
@@ -1712,33 +1712,67 @@ Si le Conseil estime qu'une proclamation directe est juridiquement impossible da
 
 ---
 
-## VIII. PIÈCES ET ANNEXES PRODUITES
+## VIII. RELEVÉ PROBATOIRE INTÉGRÉ AU PRÉSENT PDF
 
-### fonction du bordereau et des annexes
+### choix matériel de dépôt : un document autoportant plutôt qu'une multiplication de fichiers
 
-Les moyens de la présente requête sont soutenus par un bordereau numéroté permettant d'identifier chaque pièce par sa nature, sa date, sa provenance et sa fonction probatoire.
+Compte tenu de la brièveté du délai de recours et afin de rendre le dossier immédiatement lisible, le requérant a retenu pour le dépôt initial une règle simple : **les éléments probatoires utiles sont décrits et reproduits textuellement dans le présent PDF unique, avec leur date, leur origine, leur portée et leur niveau de certitude, plutôt que multipliés en dizaines de fichiers PDF séparés**.
 
-Les pièces primaires demeurent la source des faits allégués. Les annexes de synthèse ne s'y substituent pas : elles organisent la lecture d'un dossier volumineux et rendent explicites les distinctions nécessaires entre fait établi, fait rapporté, inférence et question demeurée non résolue.
+Les identifiants **P-xx** sont donc conservés comme **repères documentaires stables** permettant de relier les faits à leurs sources primaires. Ils ne signifient pas, à eux seuls, qu'un fichier autonome portant ce numéro est matériellement annexé au dépôt initial.
 
-Le bordereau joint à l'exemplaire déposé identifie notamment :
+Les sources primaires demeurent conservées dans leur forme native lorsqu'elle existe : courriels Gmail, PDF administratifs, photographies, vidéo, documents reçus par France Transfert et traces postales. Le requérant peut les produire sur demande ou en complément si le Conseil estime leur examen utile. Cette présentation ne transforme pas une transcription ou un relevé en original : chaque fois qu'une proposition repose sur une source primaire non reproduite matériellement dans le PDF, cette distinction est indiquée.
 
-- **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces**, avec son sous-inventaire PREF-1 à PREF-16 ;
-- les éléments contemporains de la candidature et du consentement de Mme Vernerey, notamment **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**, **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** ;
-- les productions et traces du contentieux devant le Tribunal administratif, notamment **P-16 — mémoire en défense devant le Tribunal administratif**, **P-17 — note manuscrite recto-verso remise à l'audience**, **P-18 — attestation CAF relative à Mme Vernerey**, **P-19 — note en délibéré du 14 septembre** et **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** ;
-- les demandes ultérieures de traçabilité et de communication, notamment **P-29 — demande du 16 septembre au Tribunal administratif sur la liste des pièces**, **P-45.a — demande du 26 septembre au Bureau des élections sur les modalités de dépôt au titre de l’article 34**, **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d’une requête au titre de l’article 34**, **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie**, **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**, ainsi que **P-46 — Registre exhaustif des courriels Préfecture / Tribunal administratif**, qui rassemble les quarante-six messages distincts de cette chaîne ;
-- les éléments relatifs au scrutin et à son incidence, notamment **P-27 — résultats officiels du scrutin du 27 septembre**, **P-39 — constat de consultation des pièces électorales du 1er octobre** et **P-40 — bulletin nul imprimé « BARON MARIANI » et enveloppe**.
+Cette méthode poursuit trois objectifs :
 
-Le sous-inventaire PREF-1 à PREF-16 de **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces** distingue ce que la préfecture a elle-même indiqué avoir joint à sa saisine initiale des éléments reçus ou invoqués par ailleurs. En particulier, **P-11 — courriel préfectoral de 16 h 14 accusant réception des documents** et **P-12 — courriel de 17 h 57 min 55 s contenant le lien vers la vidéo** n'apparaissent pas dans cet inventaire initial. Cette absence ne permet pas, à elle seule, d'affirmer qu'aucune production complémentaire n'est intervenue.
+1. **éviter qu'un problème de fabrication documentaire masque le fond du recours** ;
+2. **permettre au Conseil de comprendre immédiatement la séquence sans ouvrir plusieurs dizaines de fichiers** ;
+3. **conserver la possibilité d'une vérification contradictoire sur les originaux**, notamment par les mesures d'instruction sollicitées au titre de l'article 42 de l'ordonnance du 7 novembre 1958.
 
-Sont également jointes, dans la mesure où elles figurent au paquet effectivement déposé, des annexes de lecture qui n'ajoutent aucun fait autonome aux pièces primaires :
+### relevé chronologique des principaux éléments probatoires
 
-- l'**annexe chronologique détaillée**, qui ordonne les événements et indique leur statut probatoire ;
-- l'**annexe de vues tabellaires**, qui présente de manière redondante certains enchaînements factuels et juridiques ;
-- l'**annexe documentaire**, qui explicite les notions d'effectivité, de traçabilité et de remède ;
-- l'**annexe stratégique sur les recours et les remèdes**, qui distingue les offices du Conseil constitutionnel, des QPC et d'une éventuelle saisine européenne ;
-- l'**analyse contrefactuelle de l'incidence d'une troisième offre électorale**, qui borne arithmétiquement l'hypothèse sans attribuer de vote individuel ni prétendre reconstruire un scrutin qui n'a pas eu lieu.
+Les faits suivants sont directement incorporés à la présente requête et développés dans le relevé probatoire intégré qui suit dans le même PDF.
 
-La présente requête doit pouvoir être comprise sans accès à GitHub ni aux conversations préparatoires. Les références publiques éventuellement fournies à titre de vérification supplémentaire ne remplacent donc jamais les pièces et annexes effectivement remises au Conseil.
+- **P-04 — premier envoi du 10 septembre 2026** : à partir de 17 h 01 min 56 s, le candidat tente une première transmission électronique de son dossier ; des avis d'échec liés à la taille sont reçus, puis une retransmission allégée est effectuée avant la clôture. Cette séquence établit une diligence technique, non à elle seule la conformité juridique du dépôt.
+- **P-05 — accusé automatique du 10 septembre à 17 h 56 min 53 s** : la messagerie de l'État accuse réception de la retransmission électronique.
+- **P-06 — réponse du Bureau des élections du 10 septembre à 20 h 05 min 04 s** : l'administration rappelle sa position relative aux originaux à présenter.
+- **P-07 — courriel du 11 septembre à 8 h 14 min 11 s** : le candidat annonce qu'il se déplace vers Bastia afin d'accomplir matériellement les formalités.
+- **P-08 — traces du trajet du 11 septembre** : photographies et chronologie corroborent ce déplacement ; elles n'emportent aucune conséquence juridique automatique.
+- **P-09 — récépissé provisoire du 11 septembre à 12 h 20** : la préfecture prend matériellement en charge une déclaration de candidature. Le récépissé établit cette prise en charge, non la régularité définitive de la candidature.
+- **P-10 — courriel du 11 septembre à 14 h 14 min 39 s** : des documents relatifs au mandataire financier sont transmis en complément.
+- **P-11 — courriel préfectoral du 11 septembre à 16 h 14 min 05 s** : l'administration écrit « J'accuse réception des documents ». Cet accusé humain ne figure pas dans l'inventaire initial PREF-1 à PREF-16 des saisines préfectorales au Tribunal administratif.
+- **P-12 — courriel du 11 septembre à 17 h 57 min 55 s** : le candidat envoie avant 18 heures un complément contenant notamment le lien vers la déclaration vidéo commune ; la réception effective par le serveur destinataire reste un point susceptible d'instruction.
+- **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** : le fichier primaire `VID_20260911_174455.mp4`, d'une durée de 58,137778 secondes, a été retrouvé ; son SHA-256 est `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`. Il documente l'identité, la volonté et le consentement contemporains. Le fichier natif est conservé et peut être produit ou visionné si le Conseil l'ordonne.
+- **P-14 — requêtes préfectorales n° 2601714 et 2601715** : les PDF primaires reçus via France Transfert ont été retrouvés. Leur contenu documente la motivation préfectorale et l'inventaire initial PREF-1 à PREF-16. Cet inventaire ne contient notamment ni P-11 ni P-12 ; cette absence ne permet pas, à elle seule, d'exclure toute production complémentaire.
+- **P-15 — courriel du 14 septembre à 14 h 09 min 17 s** : avant l'audience, le candidat alerte sur des transmissions qu'il estime manquantes.
+- **P-16 — mémoire en défense du 14 septembre** : une reproduction candidate du mémoire existe ; le jugement confirme que le requérant a présenté des observations écrites et orales. L'identité binaire entre le fichier aujourd'hui conservé et l'exemplaire matériel remis au Tribunal administratif n'est toutefois pas indépendamment établie.
+- **P-17 — note manuscrite recto-verso** : deux photographies primaires existent, avec SHA-256 respectifs `85e97dd0b979b4ae7420a65dadf417d56b8de066f0ef2c0f73ab797e1a15ad1f` et `39c34ca847c3c6c1f6657c4412a0ff06850ce80c5eb5bc915a79f202f5f90e58`. La remise en main propre à l'audience est rapportée par le requérant lorsqu'elle n'est pas corroborée par une trace juridictionnelle indépendante.
+- **P-18 — attestation CAF relative à Mme Laurence Vernerey** : l'original PDF a été retrouvé ; il établit le bénéfice de l'AAH et rien de plus sur la nature fonctionnelle de l'empêchement. Les données privées étrangères au grief ne sont pas reproduites dans le présent document.
+- **P-19 — note en délibéré du 14 septembre à 15 h 48 min 32 s** : le message est envoyé au greffe ; le jugement mentionne une note en délibéré enregistrée à 15 h 49.
+- **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** : la séquence primaire photographiée comprend la lettre de notification, les trois pages du jugement et les traces postales du pli recommandé. Le jugement joint les dossiers n° 2601714 et 2601715, mentionne les observations écrites et orales du requérant, la note en délibéré, la motivation fondée sur l'article L.299 et le refus d'enregistrement de la candidature. La chaîne postale documente un pli en attente depuis le 17 septembre et retiré le 25 septembre.
+- **P-22 — demande du 25 septembre** : le requérant demande la conservation et la communication des traces relatives aux transmissions préfectorales.
+- **P-26 — demande du 28 septembre** : le requérant demande communication du procès-verbal et des pièces électorales.
+- **P-27 — résultats officiels du 27 septembre** : 616 inscrits, 606 votants, 36 blancs, 40 nuls, 530 suffrages exprimés ; Paulu Santu Parigi obtient 442 voix et Nicolas Battini 88.
+- **P-28 — réponse du 30 septembre à 8 h 16 min 30 s** : le Bureau des élections propose une consultation des pièces électorales le 1er octobre. Cette réponse constitue un contrepoint à toute formulation trop générale d'une absence de réponse administrative.
+- **P-29 à P-33 — échanges avec le Tribunal administratif après le jugement** : ils documentent les demandes d'inventaire, les réponses du greffe, les questions résiduelles et, le 1er octobre, la réponse de la greffière en chef invitant notamment le requérant à saisir le Conseil constitutionnel.
+- **P-39 — constat de consultation du 1er octobre** : il documente la consultation matérielle de quatre dossiers, le formulaire signé, les pièces photographiées et distingue les constatations matérielles des propos oraux rapportés.
+- **P-40 — bulletin imprimé « BARON MARIANI » et enveloppe** : la photographie primaire établit l'existence matérielle du bulletin et de l'enveloppe observés ; elle n'identifie aucun électeur et ne permet pas, à elle seule, de fixer le motif juridique de nullité.
+- **P-43.a — courriel « Autorisation » du 10 septembre à 12 h 38 min 31 s** : Mme Vernerey autorise expressément M. Robert à utiliser sa signature sur le CERFA où elle se porte remplaçante. Les données privées sans utilité contentieuse ne sont pas reproduites.
+- **P-43.b — courriel « Porte-parole » du 11 septembre à 18 h 25 min 49 s** : Mme Vernerey désigne expressément M. Robert comme porte-parole de la campagne. Ce message est postérieur à 18 heures ; il documente la continuité de sa volonté et de la représentation, non l'accomplissement d'une formalité avant la clôture.
+- **P-44 — France Transfert du 11 septembre** : deux messages documentent la transmission des requêtes préfectorales n° 2601714 et 2601715. Les secrets techniques de téléchargement n'ont aucune utilité pour le fond et ne sont pas reproduits.
+- **P-45.a à P-45.d — modalités de remise du recours** : quatre courriels des 26 septembre, 28 septembre, 1er octobre et 2 octobre documentent les demandes répétées du requérant sur la possibilité matérielle de remettre la requête et la recherche d'une voie de dépôt effectivement praticable.
+- **P-46 — registre exhaustif Préfecture / Tribunal administratif** : quarante-six messages distincts ont été identifiés entre le 10 septembre et le 2 octobre 2026. Leur index, avec horodatage, émetteur, destinataires utiles, objet et fonction documentaire, est reproduit dans le relevé probatoire intégré au présent PDF. Ce registre transversal permet de vérifier la continuité de la chaîne sans transformer chaque message en fichier PDF autonome.
+
+### portée du relevé intégré
+
+Le relevé probatoire intégré n'efface pas la hiérarchie des sources.
+
+Lorsqu'un original existe, l'original reste la source primaire. Le texte ci-dessus et le relevé détaillé permettent au Conseil de savoir **ce que la source établit, où elle se situe dans la chronologie et quelle limite lui est attachée**.
+
+Les annexes de lecture incluses dans le même PDF n'ajoutent aucun fait autonome : elles ordonnent la chronologie, présentent certaines vues tabellaires et explicitent les raisonnements d'effectivité, de traçabilité, de remède et d'incidence électorale.
+
+Si le Conseil estime qu'une source primaire doit être examinée dans sa forme native, le requérant demande qu'elle puisse être produite en complément ou obtenue dans le cadre des mesures d'instruction sollicitées.
+
+La présente requête est ainsi conçue pour être comprise **sans accès à GitHub, sans accès aux conversations préparatoires et sans nécessité d'ouvrir plusieurs dizaines de fichiers annexes**.
 
 ---
 
