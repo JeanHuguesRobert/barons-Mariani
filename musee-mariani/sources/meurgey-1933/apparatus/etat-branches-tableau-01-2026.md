@@ -40,7 +40,7 @@ review:
 | **Louis-Thomas → Essey Mariani** | Essey, capitaine d'infanterie, 1856–1891 | **INCONNUE** | inconnu | inconnu | descendance non encore recherchée |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
 | **Hyacinthe-Louis-Joseph → Albert → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | Meurgey ne montre pas d'autre descendant ; une base publique affiche par ailleurs d'autres Mariani privés mais sans relation topologique suffisamment explicite avec Albert : ne pas les rattacher sans preuve |
-| **Marie-Madeleine Mariani → Filippini / Fantauzzi** | trois enfants documentés avec Michel Filippini ; ligne Ange → Marie-Thérèse Filippini → d’Arlot de Saint-Saud | **SUBSISTANCE AU XXe SIÈCLE ÉTABLIE ; ÉTAT 2026 INCONNU** | non pour les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | mariage Michel Filippini / Madeleine Mariani à Corte en 1843 ; Marie-Thérèse épouse Léonard d’Arlot de Saint-Saud en 1914 |
+| **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : 1 enfant signalé par plusieurs index Geneanet, identité inconnue |
 
 ## Premier enseignement
 
@@ -166,3 +166,25 @@ Sources :
 - https://chateaudillon.com/lhistoire/
 - https://docs.shap.fr/BSHAP/BSHAP_1951-4.pdf
 - https://francearchives.gouv.fr/fr/facomponent/3ba8ccca29df01c293f9f26767717d4b4bc89827
+
+## Mise au point — les trois sous-branches Filippini
+
+Le dossier [`musee-mariani/filippini/README.md`](../../../filippini/README.md) sépare désormais les trois lignes issues de Madeleine Mariani × Michel Filippini.
+
+### 1. Marie-Louise Filippini × Montbrun
+
+Une source généalogique secondaire explicite indique **« sans postérité »**.
+
+Statut : **PROBABLEMENT ÉTEINTE**, fermeture primaire encore souhaitable.
+
+### 2. Ange Filippini → Marie-Thérèse × Saint-Saud
+
+Le mariage est corroboré par une publication savante. Aucune postérité n'est actuellement trouvée.
+
+Statut : **UNKNOWN**, pas « sans postérité ».
+
+### 3. Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi
+
+Plusieurs résultats Geneanet récents indiquent **1 enfant**, alors que Villa Flore n'enregistre aucun enfant.
+
+Statut : **DISCORDANT 0/1 enfant**. Cette sous-branche interdit à elle seule de conclure à l'extinction de toute la descendance Filippini.
