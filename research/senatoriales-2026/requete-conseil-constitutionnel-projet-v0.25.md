@@ -670,7 +670,7 @@ L'article 1366 du code civil ne neutralise pas automatiquement le droit élector
 
 Dans une décision du **14 mai 2021 (Conseil d'État, n° 445497)**, rendue dans un autre contentieux électoral, le Conseil d'État a admis qu'en cas de handicap faisant obstacle à l'accomplissement personnel d'une signature ou d'une mention manuscrite, un tiers puisse matériellement accomplir ce geste à la demande de l'intéressé, sous réserve que son consentement soit établi.
 
-Ce précédent n'est pas automatiquement transposable au régime sénatorial de l'article L.299. Il fournit en revanche un raisonnement fonctionnel à examiner au regard du texte applicable ici, de la nature de l'empêchement invoqué et des garanties de consentement disponibles.
+Ce précédent éclaire directement la question posée ici : lorsqu'un handicap empêche l'accomplissement personnel d'une formalité manuscrite, la règle doit être appréciée au regard de la nature de l'empêchement, du texte applicable et des garanties établissant le consentement de l'intéressé.
 
 L'argumentation du refus d'enregistrement repose sur une confusion méthodique entre plusieurs exigences juridiques distinctes qu'il convient de dissocier rigoureusement :
 
