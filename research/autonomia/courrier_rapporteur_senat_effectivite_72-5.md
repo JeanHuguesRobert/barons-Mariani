@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.3"
+version: "0.4"
 status: "draft — destinataire à compléter après désignation officielle du rapporteur"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -22,7 +22,7 @@ target_audience:
   - "administrateurs et collaborateurs parlementaires"
 target_scene: "political — parliamentary review"
 document_function: "public parliamentary submission draft"
-snapshot_as_of: "2026-10-07T07:36:00+02:00"
+snapshot_as_of: "2026-10-07T09:00:00+02:00"
 derivation_mode: "directed"
 source_document: "research/autonomia/amendement_effectivite_article_72-5.md"
 related_documents:
@@ -73,6 +73,14 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 Monsieur / Madame le Rapporteur,
 
 Dans la perspective de l’examen par la commission des lois du projet de loi constitutionnelle n° 782, *pour une Corse autonome au sein de la République*, **je soumets à votre appréciation** une proposition de rédaction très ciblée concernant le futur article 72-5.
+
+Je suis **Jean Hugues Noël Robert**, président de l’association **C.O.R.S.I.C.A.**, fondée à Corte en 1995, et animateur de l’**Institut Mariani**. J’interviens ici comme membre de la **société civile**, dans la continuité d’une participation qui a été expressément ouverte lors de l’examen du texte à l’Assemblée nationale.
+
+Le 28 mai 2026, après une demande d’audience adressée à M. Florent Boudié et à la commission des lois, un administrateur de la commission a proposé, au nom du président-rapporteur, que C.O.R.S.I.C.A. adresse une **contribution écrite**, en indiquant qu’elle serait mentionnée dans le rapport au même titre que les auditions réalisées. Cette contribution a ensuite été recensée dans le rapport n° 2865 parmi les « Contributions écrites ».
+
+Je souhaite également signaler, par souci de transparence, un élément personnel directement lié à la même séquence institutionnelle. J’ai déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du tribunal administratif de Bastia du **14 septembre**, ce qui m’a empêché de participer au scrutin du 27 septembre. Une **requête en annulation devant le Conseil constitutionnel** est actuellement en cours de finalisation pré-dépôt ; le brouillon courant est la version **0.27**, encore expressément non déposée.
+
+Ce contentieux est distinct du présent travail parlementaire et je ne les confonds pas. Je le mentionne parce qu’il fait partie de la chronologie publique du dossier et éclaire la continuité de mon engagement sur l’effectivité des capacités ouvertes par le droit. Le lien public vers la version effectivement gelée et déposée de la requête sera ajouté au présent courrier avant son envoi.
 
 Elle procède d’une idée simple : **une faculté juridiquement ouverte ne devient une capacité réelle que si ses conditions de mise en œuvre peuvent elles-mêmes être observées et évaluées.**
 
@@ -140,7 +148,8 @@ F-20250 Corte
 - adresse électronique institutionnelle du rapporteur ou canal indiqué par la commission ;
 - éventuelles personnes à mettre en copie ;
 - version courante de l’amendement au moment de l’envoi ;
-- calendrier sénatorial à revérifier immédiatement avant envoi.
+- calendrier sénatorial à revérifier immédiatement avant envoi ;
+- lien public vers la requête au Conseil constitutionnel, à ajouter uniquement après gel de la version effectivement déposée.
 
 ## Règle de synchronisation
 
