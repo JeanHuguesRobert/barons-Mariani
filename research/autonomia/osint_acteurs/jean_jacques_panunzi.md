@@ -73,7 +73,7 @@ Cette synthèse doit être approfondie par extraction systématique de ses décl
 
 ## État sénatorial du 7 octobre
 
-Le Sénat a publié le 6 octobre les listes des membres des commissions permanentes. Le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30**.
+Le Sénat a publié le 6 octobre les listes des candidats aux commissions permanentes ; leur ratification était annoncée sauf opposition dans le délai prévu. Le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30**.
 
 À **7 h 36**, la présente fiche ne présume ni la fonction interne de Panunzi dans la nouvelle architecture des commissions ni l’identité du rapporteur du texte n° 782. Ces données doivent être stabilisées après publication officielle.
 
