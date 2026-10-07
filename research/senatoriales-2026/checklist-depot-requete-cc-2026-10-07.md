@@ -1208,6 +1208,23 @@ Règle de production :
 - lorsqu'un message possède à la fois une référence P-46.xx et une référence fonctionnelle P-xx, une seule reproduction matérielle peut porter les deux références ;
 - le contrôle final porte sur l'exhaustivité de l'index et la présence physique des messages décisifs dans le paquet.
 
+
+### P-20 retrouvée et transcrite — v0.55
+
+**P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** n'est plus un verrou de localisation.
+
+Retrouvés dans la bibliothèque :
+- P-20.a avis de passage ;
+- P-20.b enveloppe, AR et preuve de distribution, recommandé `2C 193 330 3302 9` ;
+- P-20.c photographie de la plaque « Avenue du Baron Mariani / Viale Barone Mariani » ;
+- P-20.d lettre de notification du 14 septembre ;
+- P-20.e à P-20.g trois pages du jugement.
+
+Transcription canonique :
+`investigation/sources/p20-jugement-ta-bastia-notification-transcription-2026-09-25.md`
+
+Règle : les scans primaires prévalent sur la transcription. La lettre de notification vise explicitement l'article L.292 ; ne pas corriger cette référence dans la transcription.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
