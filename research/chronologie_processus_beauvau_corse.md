@@ -7,6 +7,7 @@ created: 2026-05-24T00:00:00.000Z
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 function: documentary_context
 target_scene: journalistic_reuse
+snapshot_as_of: '2026-10-07T07:36:00+02:00'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
@@ -31,7 +32,7 @@ related_documents:
     path: note_synthetique_autonomie_capacite_corse.md
   - title: Démocratie capable
     path: democratie_capable.md
-last_modified_at: Sun Sep 06
+last_modified_at: '2026-10-07'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -401,4 +402,28 @@ La prochaine mise à jour de cette chronologie doit être déclenchée par un ch
 Le Corpus publie l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, sous une forme parlementaire candidate. La proposition reformule le mécanisme existant relatif à la loi organique et à l’évaluation pour y intégrer la mise en œuvre effective des facultés, une évaluation périodique et leurs effets au regard de Liberté, Égalité, Fraternité.
 
 Qualification : **intervention de la société civile / proposition publique**, distincte d’un amendement parlementaire effectivement déposé.
+
+
+
+## Mise à jour — séquence du 27 septembre au 7 octobre 2026
+
+| Date | Type | Fait documenté | Portée / statut |
+|---|---|---|---|
+| 27 septembre 2026 | Élection sénatoriale | Paul Toussaint Parigi est réélu en Haute-Corse avec 442 voix sur 530 exprimées (83,40 %). Jean-Jacques Panunzi est réélu en Corse-du-Sud avec 293 voix sur 452 exprimées (64,82 %). | Fait électoral publié par le ministère de l’Intérieur ; résultats publiés sous réserve des corrections et décisions du juge de l’élection. |
+| 6 octobre 2026, 18 h 30 | Organisation du Sénat | Publication des listes des candidats aux sept commissions permanentes et annonce de leur ratification sauf opposition. | Étape du renouvellement des instances après les sénatoriales. |
+| 7 octobre 2026, 9 h 30 | Agenda | Constitution annoncée du bureau de la commission des lois. | **PENDING** à 7 h 36 ; ne pas anticiper président, vice-présidents ou autres fonctions. |
+| 7 octobre 2026, 15 h | Agenda Corse | Audition annoncée de Françoise Gatel par la commission des lois sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République. | **PENDING** à 7 h 36 ; contenu à documenter après tenue. |
+| 21 octobre 2026, matin | Agenda parlementaire | Réunion annoncée de la commission des lois pour le rapport sur le texte n° 782. | Fenêtre de travail prioritaire avant examen en commission. |
+| 23 octobre 2026, 12 h | Agenda parlementaire | Délai annoncé pour le dépôt des amendements de séance. | À revérifier avant usage opérationnel. |
+| 26 octobre 2026 | Agenda parlementaire | Discussion annoncée en séance publique au Sénat. | À revérifier après la conférence des présidents et toute actualisation de l’ordre du jour. |
+
+### Sources primaires de cette mise à jour
+
+- Ministère de l’Intérieur — Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+- Ministère de l’Intérieur — Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
+- Sénat — calendrier de renouvellement des instances : https://www.senat.fr/travaux-parlementaires/seance-publique/ordre-du-jour/calendrier-de-renouvellement-des-instances-du-senat.html
+- Sénat — audition de Françoise Gatel : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Sénat — dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+
+---
 
