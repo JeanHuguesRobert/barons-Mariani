@@ -244,9 +244,17 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-41** | 06/10 | Annexe — déclarations publiques et commentaires de presse | Source contextuelle structurée ; distingue déclarations d'acteurs, commentaires journalistiques, faits officiels et inférences ; documente A Voce, intentions Battini rapportées, cadre adverse, Giuseppi et autonomie | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
 | **P-42** | 26/09 + 01–02/10 | Saisine Défenseur des droits et suivi | Saisine sur l’effectivité ; aucune réponse de la déléguée retrouvée au 06/10 dans la recherche Gmail ciblée ; état de trace, pas preuve d’absence de traitement | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
 | **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Participation, consentement, aide matérielle, porte-parole, vidéo, accessibilité ; source privée, production sélective/minimisée | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + Gmail natif |
+| **P-43.a** | 10/09 12:38:31 CEST | Courriel « Autorisation » | Autorisation expresse d'utiliser la signature sur le CERFA ; demande faite au tiers et consentement à cette intervention matérielle | Gmail `1a08ae5f35fd72f0` |
+| **P-43.b** | 11/09 18:25:49 CEST | Courriel « Porte-parole » | Désignation expresse comme porte-parole ; postérieur à 18 h, donc utile pour la continuité de volonté/représentation, non comme acte accompli avant la clôture | Gmail `1a0914a4db8cf48b` |
 | **P-44** | 11/09 18:45:53 | France Transfert — deux courriels de communication des requêtes 2601714 / 2601715 | Établit la provenance de transmission au requérant : avis de pli du greffe + mot de passe séparé ; secrets techniques non publiés | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + Gmail natif |
 | **P-45** | 26/09–02/10 | Modalités de dépôt article 34 — demandes et relances | Pièce composite P-45.a à P-45.d ; documente l'absence de réponse substantielle retrouvée sur la modalité de dépôt malgré relances, sans imputer d'intention | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
+| **P-45.a** | 26/09 10:44:22 | Demande au Bureau des élections | Modalités de saisine du représentant de l'État | Gmail `1a0dce31564ec625` |
+| **P-45.b** | 28/09 13:31:35 CEST | Demande à la Sous-préfecture de Corte | Confirmation du lieu/canal/heure pratique/preuve de réception ; aucune réponse retrouvée | Gmail `1a0e7c8da5ef2262` |
+| **P-45.c** | 01/10 09:30:33 | Consolidation générale | Rappel de la question avec Sous-préfecture en copie | Gmail `1a0f65f52d19c6f7` |
+| **P-45.d** | 02/10 13:33:55 | Relance P1–P18 | P11/P12 reprennent les modalités de dépôt et l'état des demandes | Gmail `1a0fc64750fe95b6` |
 | **P-46** | 10/09–02/10 | Correspondance exhaustive Préfecture / TA — 46 messages | Reconstitution complète de la circulation électronique du dossier ; chaque message devient P-46.01…P-46.46 et doit être reproduit intégralement dans le paquet final avec occultations limitées | Gmail natif + recueil final |
+
+**Convention horaire P-46.** Les horodatages P-46 doivent être lus en heure locale Europe/Paris. Le bordereau v0.13 les normalise à partir du champ temporel Gmail ; les en-têtes RFC822 natifs sont conservés comme référence de contrôle.
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
