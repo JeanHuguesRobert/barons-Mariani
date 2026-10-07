@@ -15,6 +15,7 @@ related_documents:
   - musee-mariani/plan-museal.md
   - musee-mariani/intention.md
   - musee-mariani/notes-critiques/preuves-et-incertitudes.md
+  - musee-mariani/methodes/bouteille_a_la_mer.md
   - research/concepts.md
   - research/autonomia/grammaire_autonomie_de_capacite.md
   - research/noyau_doctrinal_rendre_capable.md
@@ -316,6 +317,87 @@ Le musée peut se doter d'un indicateur expérimental, l'indice de friction admi
 # 23. Le corpus versionné
 
 Le Musée Mariani des Possibles produit un corpus, et ce corpus doit être versionné. Chaque atelier laisse une trace exploitable — fiche source, fiche visiteur, fiche juridique, fiche économique, fiche pédagogique, fiche technique, fiche des risques, fiche des décisions, fiche des objections, fiche des stabilisateurs, et l'historique des versions. Le musée devient ainsi une interface entre un lieu physique et un corpus numérique, où chacun trouve son entrée : le visiteur voit l'expérience, le chercheur consulte la documentation, l'artisan réutilise le protocole, le juriste examine le cas, l'élu comprend l'empêchement, l'entrepreneur identifie un chemin, l'habitant retrouve une capacité.
+
+
+## 23.1 Le musée comme réseau de collecte contributive distribuée
+
+Le corpus du Musée Mariani des Possibles n'est pas condamné à s'enrichir seulement par une collecte centripète, où les objets, témoignages et documents viennent vers l'institution. Certains objets peuvent au contraire être mis volontairement en circulation comme des supports adressables de recherche et de contribution. Le musée émet alors un objet, le laisse rencontrer des lieux, des personnes et des situations, puis réintègre les traces produites par cette circulation.
+
+Cette logique prolonge les fonctions muséales classiques de recherche, collecte, conservation, interprétation et transmission. Elle prend aussi au sérieux la participation des communautés : le public ne se contente plus d'interpréter ce que le musée a déjà collecté ; il peut contribuer à faire apparaître de nouvelles traces, de nouveaux récits, de nouvelles questions et de nouvelles sources.
+
+Le Musée nomme provisoirement **collecte contributive distribuée** ce régime dans lequel la production de matière documentaire est partiellement distribuée hors les murs, tandis que la qualification scientifique demeure explicite et traçable.
+
+```text
+objet adressable
+→ circulation
+→ rencontre
+→ contribution / trace
+→ retour matériel ou informationnel
+→ provenance
+→ qualification
+→ corroboration éventuelle
+→ intégration au Corpus
+→ nouvelle interprétation / nouvelle recherche
+```
+
+La contribution n'est jamais assimilée automatiquement à un fait. Une annotation, un témoignage, une photographie, une signature, une localisation déclarée ou une histoire transmise constituent d'abord des **traces contributives**. Leur valeur documentaire dépend de leur provenance, de leur contexte, de leur possibilité de corroboration et de leur statut dans la grille de preuve du Musée.
+
+> **Le musée n'attend pas seulement que les contributions viennent à lui ; il peut mettre en circulation des objets capables de revenir enrichis.**
+
+Cette collecte est exploratoire plutôt que représentative. Les objets circulent selon des trajectoires contingentes, et les personnes qui contribuent ne constituent pas un échantillon statistique de celles qui les rencontrent. Le dispositif est donc particulièrement adapté à la découverte de pistes, de relations, de récits et d'hypothèses nouvelles ; il ne doit pas être utilisé, sans protocole supplémentaire, pour inférer des fréquences ou des opinions représentatives d'une population.
+
+### 23.1.1 La « bouteille à la mer »
+
+La **bouteille à la mer** est une incarnation concrète de cette collecte distribuée. Un objet identifié — flacon, livre, publication, carte, artefact ou autre support — est mis en circulation avec une identité stable et, éventuellement, une mission ouverte. Il peut accumuler des passages, annotations, récits, dessins, signatures, photographies, contradictions, transmissions ou autres traces avant qu'une partie de cette histoire ne revienne vers le Musée.
+
+L'objet joue alors plusieurs rôles à la fois :
+
+```text
+objet muséal
++ support de circulation
++ surface de contribution
++ instrument de recherche
++ sonde dans le réel
++ point d'entrée vers le Corpus
+```
+
+La « bouteille à la mer » n'est donc pas un simple procédé de communication ni une métaphore décorative. C'est un protocole expérimental de collecte dont le Musée peut mesurer les effets, les biais, les réussites et les échecs.
+
+### 23.1.2 Biographie d'objet
+
+Un objet ainsi mis en circulation peut acquérir une **biographie** propre. Son identité matérielle demeure distincte du contenu qu'il transporte, de sa mission éventuelle, de ses détenteurs successifs et des affirmations faites à son sujet.
+
+```text
+objet
+≠ détenteur
+≠ mission
+≠ contribution
+≠ preuve
+≠ valeur
+```
+
+Sa biographie peut enregistrer, selon les cas, fabrication, identification, mise en circulation, passages, transformations, contributions, observations, retours, vérifications et expositions. Deux objets initialement semblables peuvent ainsi devenir non fongibles par leur histoire sans qu'il soit nécessaire de fabriquer artificiellement leur rareté.
+
+### 23.1.3 Le public comme producteur de traces, non comme autorité de vérité
+
+Le dispositif élargit la participation du public sans abaisser le seuil de preuve. Le participant peut produire une observation, transmettre une mémoire, proposer une piste ou transformer matériellement l'objet ; le Musée conserve ensuite la responsabilité de qualifier ce qui entre dans son corpus scientifique.
+
+```text
+contribution brute
+→ provenance
+→ contextualisation
+→ qualification épistémique
+→ vérification si nécessaire
+→ intégration, rejet, réserve ou maintien comme piste
+```
+
+### 23.1.4 Un objet de recherche muséologique
+
+La collecte contributive distribuée est elle-même un objet de recherche. Le Musée peut tester des hypothèses sur les formes de participation qu'elle rend possibles, les biais qu'elle induit, la qualité des traces recueillies et les conditions qui rendent ces traces réintégrables dans un corpus scientifique.
+
+Le Musée devient alors simultanément collection, laboratoire et réseau contributif.
+
+> **Un objet de musée peut être non seulement une source à étudier, mais aussi un instrument permettant d'acquérir de nouvelles sources.**
 
 ---
 
