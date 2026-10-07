@@ -170,42 +170,186 @@ Une vue tabulaire strictement équivalente figure dans l'annexe **« Vues tabula
 
 ## CANAL DE SUIVI DE L’INSTRUCTION ET TRAÇABILITÉ DU CONTRADICTOIRE
 
-### rendre chaque échange vérifiable sans créer une procédure parallèle
+### 1. Lecture immédiate — la requête sera figée, l’affaire continuera
 
-Le requérant souhaite que l’instruction puisse se dérouler avec la meilleure **traçabilité des échanges contradictoires** possible.
+La présente requête a vocation à être **gelée** au moment de son dépôt : son contenu ne devra plus être réécrit rétrospectivement.
 
-En droit, le contradictoire ne signifie pas un dialogue informel ou direct avec le juge. Il signifie que les parties doivent pouvoir connaître et discuter les éléments, pièces et arguments susceptibles d’influencer la décision, selon les modalités fixées par la juridiction.
+L’affaire, en revanche, continuera nécessairement à évoluer.
 
-Le règlement applicable au contentieux de l’élection des députés et des sénateurs organise déjà cette circulation : les mémoires ampliatifs peuvent développer les moyens invoqués dans la requête sans introduire de moyen nouveau ; la section d’instruction peut inviter le requérant à répliquer aux observations produites, ordonner toute communication utile et demander aux autorités administratives les rapports ou documents nécessaires. Les actes de procédure, dépôts de documents et pièces nouvelles ont vocation à être enregistrés par le secrétariat général.
+Après le dépôt, il peut notamment arriver :
 
-Le dispositif proposé ci-dessous **ne se substitue à aucune de ces règles**.
+- qu’une pièce importante, omise ou jusque-là indisponible, soit retrouvée ;
+- qu’une administration réponde à une demande déjà formulée ;
+- qu’une information nouvelle éclaire un fait ou un moyen déjà exposé ;
+- que le Conseil constitutionnel demande une précision, une pièce ou une explication ;
+- que le requérant soit invité à répondre à des observations ;
+- ou que d’autres informations potentiellement pertinentes apparaissent.
 
-Il poursuit deux objectifs pratiques et réciproques.
+Une difficulté pratique en résulte :
 
-**Du requérant vers le Conseil constitutionnel.**  
-Si, après le dépôt de la présente requête, des informations, réponses institutionnelles, pièces ou précisions nouvelles deviennent disponibles et qu’elles peuvent être régulièrement produites dans le cadre des moyens déjà soulevés, le requérant entend les transmettre par la voie procédurale indiquée ou acceptée par le Conseil constitutionnel. Le chemin stable annoncé dès la présente requête est le document public **« Suivi de l’instruction — requête sénatoriale Haute-Corse 2026 »** : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/suivi-instruction-conseil-constitutionnel.md. Il pourra être mis à jour après le gel de la requête afin de rendre découvrables, depuis ce point d’entrée fixé à l’avance, les informations apparues ultérieurement : pièces retrouvées, réponses institutionnelles, demandes du Conseil, réponses du requérant, références d’enregistrement, état de traitement et autres informations potentiellement pertinentes.
+**comment permettre à une personne qui ne dispose que de la requête initiale de retrouver ensuite ce qui s’est passé ?**
 
-Ce document de suivi pourra notamment permettre au requérant, s’il découvre qu’une pièce importante a été omise, de l’identifier immédiatement et de **tenter de la produire par la voie procédurale appropriée**, sous réserve des règles applicables et de l’appréciation du Conseil. Il n’aura cependant **aucune valeur de dépôt par lui-même** : seule la transmission effectuée selon les modalités reconnues par le Conseil constituera l’acte de procédure.
+Le requérant propose une réponse simple : **indiquer dès la présente requête un chemin stable vers un document de suivi qui, lui, pourra continuer à évoluer.**
 
-**Du Conseil constitutionnel vers le requérant.**  
-Le requérant se tient réciproquement à la disposition du Conseil, de sa section d’instruction et de son secrétariat général pour répondre sans délai excessif à toute demande de précision, de pièce, de vérification ou d’explication utile à l’instruction. Il demande simplement que toute demande de cette nature puisse être rattachée à un canal et à une référence identifiables afin que sa réception, sa réponse et les pièces correspondantes puissent être conservées sans ambiguïté.
+Ce point d’entrée est :
 
-À cette fin, le point de contact procédural du requérant est :
+**Suivi de l’instruction — requête sénatoriale Haute-Corse 2026**
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/suivi-instruction-conseil-constitutionnel.md
+
+Ainsi :
+
+**la requête reste figée ; le suivi reste vivant ; le chemin de l’une vers l’autre est fixé avant le dépôt.**
+
+Une personne partant du présent document pourra donc retrouver ultérieurement, à cette même adresse, les informations nouvelles relatives à son traitement.
+
+### 2. À quoi ce suivi pourra-t-il servir ?
+
+Premier exemple.
+
+Si le requérant découvre après le dépôt qu’une pièce importante a été oubliée, il pourra :
+
+**l’identifier → expliquer sa pertinence → indiquer s’il tente de la produire → conserver la trace de sa transmission → indiquer, lorsqu’il le sait, son état procédural.**
+
+Cela ne signifie évidemment pas que cette pièce sera automatiquement admise au dossier.
+
+Cela permet en revanche de distinguer clairement une pièce simplement retrouvée d’une pièce effectivement transmise, et une pièce transmise d’une pièce dont l’enregistrement ou la prise en compte sont établis.
+
+Deuxième exemple.
+
+Si le Conseil constitutionnel demande une information ou une précision, le même dispositif pourra conserver :
+
+**la demande → sa date → son objet → la réponse apportée → les pièces éventuellement transmises → le canal utilisé → la référence disponible.**
+
+Troisième exemple.
+
+Une réponse institutionnelle attendue au moment du dépôt peut arriver plusieurs jours plus tard. Elle pourra être rendue immédiatement découvrable depuis ce même point d’entrée, avec son statut exact et, si elle est transmise au Conseil, la trace de cette transmission.
+
+### 3. Une démarche de coopération
+
+Ce dispositif exprime également une position constante du requérant.
+
+Depuis le début de cette affaire, il s’est efforcé de mettre à la disposition de ses interlocuteurs les informations permettant :
+
+- de vérifier ses affirmations ;
+- de retrouver les documents utiles ;
+- de corriger une éventuelle erreur ;
+- de répondre aux questions posées ;
+- et de conserver la trace des échanges.
+
+Il entend adopter la même attitude devant le Conseil constitutionnel.
+
+Le requérant se tient donc pleinement à la disposition du Conseil, de sa section d’instruction et de son secrétariat général pour fournir toute précision, vérification, explication ou pièce qu’ils estimeraient utile de lui demander.
+
+Le dispositif proposé cherche également à **faciliter matériellement leur travail** : plutôt que de laisser les informations ultérieures se disperser entre courriels, documents, accusés et publications sans lien entre eux, il fournit un point d’entrée unique, connu dès le dépôt.
+
+---
+
+### 4. Lecture procédurale — ce que ce dispositif est, et ce qu’il n’est pas
+
+Le mécanisme décrit ci-dessus **ne crée aucune procédure parallèle**.
+
+En droit, le contradictoire ne signifie pas qu’une partie dispose d’un canal informel permanent avec le juge.
+
+Il signifie que les parties doivent pouvoir connaître et discuter les éléments, pièces et arguments susceptibles d’influencer la décision, dans le cadre organisé par la juridiction.
+
+Le contentieux des élections parlementaires prévoit déjà les mécanismes permettant notamment de produire des pièces, de développer les moyens initialement invoqués, de répondre aux observations produites et de satisfaire aux demandes formulées dans le cadre de l’instruction.
+
+Le document de suivi annoncé ci-dessus reste extérieur à cette mécanique juridictionnelle.
+
+Sa fonction est **documentaire, pratique et probatoire**.
+
+En particulier :
+
+**publication dans le Corpus ≠ dépôt au Conseil constitutionnel ;**
+
+**information potentiellement pertinente ≠ pièce admise au dossier ;**
+
+**pièce retrouvée ≠ pièce produite ;**
+
+**tentative de transmission ≠ transmission établie ;**
+
+**transmission établie ≠ prise en compte juridictionnelle établie ;**
+
+**absence de trace dans ce registre ≠ preuve qu’aucun échange n’a existé.**
+
+Toute pièce, mémoire, précision ou réponse destinée à intégrer effectivement le dossier sera transmise par une voie procédurale reconnue ou indiquée par le Conseil constitutionnel.
+
+Si le Conseil ou son secrétariat général prescrit un canal particulier, **ce canal prévaudra naturellement**.
+
+### 5. Du requérant vers le Conseil
+
+Lorsque des informations, réponses institutionnelles, pièces, précisions ou autres informations potentiellement pertinentes deviennent disponibles après le dépôt, le suivi pourra indiquer :
+
+- ce qui est apparu ;
+- quand cela est apparu ;
+- pourquoi cela pourrait être pertinent ;
+- à quel moyen ou fait déjà exposé cela se rattache ;
+- si une transmission au Conseil a été envisagée ;
+- si elle a effectivement eu lieu ;
+- par quel canal ;
+- avec quelle référence ;
+- et quel est, lorsqu’il est connu, son état de traitement.
+
+Si une pièce importante avait été omise du dépôt initial, le requérant pourrait ainsi la rendre immédiatement identifiable et **tenter de la produire par la voie procédurale appropriée**, sans jamais prétendre que sa simple présence dans le Corpus vaudrait production.
+
+### 6. Du Conseil vers le requérant
+
+Réciproquement, le requérant se tient à la disposition du Conseil constitutionnel, de sa section d’instruction et de son secrétariat général pour répondre à toute demande utile à l’instruction.
+
+Le point de contact procédural du requérant est :
 
 - courriel : `jeanhuguesrobert@gmail.com` ;
 - adresse : 1 cours Paoli, F-20250 Corte.
 
-Si le Conseil constitutionnel ou son secrétariat général utilise ou prescrit un autre canal pour les échanges relatifs à l’instruction, **ce canal prévaudra naturellement**.
+Lorsqu’une demande du Conseil peut être identifiée par une date, une référence ou un canal, le suivi pourra conserver cette référence ainsi que celle de la réponse correspondante.
 
-Le registre miroir tenu dans le Corpus n’a donc qu’une fonction de traçabilité, de consolidation et de contrôle ultérieur. Il ne prétend ni imposer au Conseil constitutionnel un outil extérieur, ni soustraire une pièce au contradictoire, ni contourner le registre du secrétariat général.
+L’objectif n’est pas de demander au Conseil d’utiliser le Corpus.
 
-Cette organisation vise au contraire à éviter trois confusions :
+Il est de permettre au requérant de conserver une correspondance vérifiable entre :
 
-1. qu’une information publiée dans le Corpus soit prise à tort pour une production juridictionnelle ;
-2. qu’une production juridictionnelle ne puisse plus être reliée à sa date, à sa version et à son objet ;
-3. qu’une demande du Conseil et la réponse qui lui est apportée soient ultérieurement difficiles à reconstituer.
+**demande reçue → réponse apportée → transmission → référence disponible.**
 
-Le requérant s’engage enfin à ne pas utiliser ce mécanisme pour introduire après l’expiration du délai contentieux un moyen nouveau qui n’aurait pas été contenu, au moins en substance, dans la présente requête. Les compléments ultérieurs auront pour fonction de **documenter, préciser, répondre ou développer** les moyens déjà soumis au Conseil, dans les limites fixées par les textes et par l’instruction.
+### 7. Ce qui pourra être trouvé dans le suivi
+
+Le document de suivi pourra notamment rendre découvrables :
+
+- les pièces retrouvées après le dépôt ;
+- les réponses institutionnelles reçues ultérieurement ;
+- les demandes du Conseil constitutionnel ;
+- les réponses du requérant ;
+- les mémoires ou compléments éventuellement transmis ;
+- les accusés et références d’enregistrement disponibles ;
+- les corrections d’informations antérieures ;
+- l’état connu du traitement ;
+- les versions et empreintes de documents lorsqu’elles sont utiles ;
+- et **toute autre information potentiellement pertinente pour comprendre le traitement de la requête**.
+
+Cette dernière catégorie est volontairement ouverte.
+
+Elle permet de conserver une information utile sans préjuger de sa qualification juridique ni prétendre qu’elle appartient nécessairement au dossier contentieux.
+
+### 8. Une limite essentielle : aucun moyen nouveau par ce détour
+
+Le requérant n’entend pas utiliser ce mécanisme pour introduire après l’expiration du délai contentieux un moyen nouveau qui n’aurait pas été contenu, au moins en substance, dans la présente requête.
+
+Les compléments ultérieurs auront pour fonction de **documenter, préciser, expliquer, répondre, développer ou éclairer** les moyens déjà soumis au Conseil, dans les limites fixées par les textes et par l’instruction.
+
+### 9. Finalité
+
+Le mécanisme proposé peut donc se résumer ainsi :
+
+**conserver un document initial immuable, tout en indiquant à l’avance où seront rendues découvrables les informations ultérieures relatives à son traitement.**
+
+Il ne demande au Conseil constitutionnel aucune dérogation.
+
+Il ne transforme pas le Corpus en greffe.
+
+Il ne prétend pas qu’une publication vaut dépôt.
+
+Il cherche simplement à faire en sorte que, si quelque chose d’important se produit après le dépôt, **le chemin permettant de le retrouver ait été indiqué avant même que cet événement n’existe**.
+
+C’est une mesure de coopération, de traçabilité et de prudence documentaire.
 
 
 ## I. RECEVABILITÉ ET QUALITÉ POUR AGIR
