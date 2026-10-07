@@ -880,6 +880,18 @@ Le requérant demande au Conseil de Apprécier le fondement juridique et la port
 
 ### GRIEF N° 2 : Défaut d'examen effectif de l'incidence du handicap de la remplaçante sur les formalités manuscrites
 
+#### Situation propre de Mme Laurence Vernerey
+
+La situation de Mme Laurence Vernerey ne constitue pas seulement un élément factuel affectant la candidature de M. Robert.
+
+Elle était personnellement engagée dans la candidature comme remplaçante. Sa volonté et son consentement sont documentés par plusieurs éléments contemporains, notamment **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026**, **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** et **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**.
+
+Le grief porte aussi sur l'effet propre produit à son égard par l'application du formalisme de l'article L.299 : alors qu'elle avait manifesté sa volonté de participer à la candidature et demandé l'assistance matérielle du candidat, son empêchement lié au handicap n'a pas donné lieu, dans les éléments actuellement identifiés, à un examen individualisé d'une adaptation compatible avec la finalité probatoire de la formalité.
+
+Cette question est distincte de celle de savoir si M. Robert peut, à lui seul, exercer ultérieurement un grief conventionnel appartenant personnellement à Mme Vernerey. La présente requête expose néanmoins clairement la substance factuelle et juridique de cette atteinte afin que les juridictions nationales aient la possibilité de l'examiner.
+
+
+
 #### question simple
 
 Une règle peut être identique pour tout le monde et pourtant devenir beaucoup plus difficile à accomplir pour une personne donnée.
@@ -1236,7 +1248,7 @@ Le premier grief relève de l'**article 3 du Protocole n° 1 à la Convention**,
 
 Le deuxième grief relève de l'**article 13 de la Convention combiné avec l'article 3 du Protocole n° 1**. Le requérant soutient que la protection juridictionnelle d'un droit électoral doit être réellement capable d'examiner et, autant que possible, de redresser l'atteinte. Il invoque à ce titre le délai de jugement prévu par l'article L.303, l'étendue de l'examen effectivement accompli, l'accès aux pièces nécessaires à la contestation, le caractère différé du contrôle du Conseil constitutionnel et la question de savoir si un remède intervenant après le scrutin peut réparer suffisamment une éviction déjà consommée.
 
-Le troisième grief relève de l'**article 14 de la Convention combiné avec l'article 3 du Protocole n° 1**, dans la mesure où le traitement d'une formalité apparemment générale peut produire un désavantage particulier lié au handicap. Dans la présente requête, ce grief est invoqué par M. Robert en tant que le traitement des formalités imposées à sa remplaçante a eu pour effet direct d'empêcher sa propre candidature. La question d'un grief conventionnel personnel propre à Mme Laurence Vernerey demeure distincte et dépend de sa propre qualité de victime et de l'épuisement des voies internes la concernant.
+Le troisième grief relève de l'**article 14 de la Convention combiné avec l'article 3 du Protocole n° 1**, dans la mesure où le traitement d'une formalité apparemment générale peut produire un désavantage particulier lié au handicap. M. Robert l'invoque d'abord parce que le traitement des formalités imposées à sa remplaçante a eu pour effet direct d'empêcher sa propre candidature. La requête expose aussi la situation propre de Mme Laurence Vernerey : son engagement comme remplaçante, son consentement, son empêchement fonctionnel, sa demande d'assistance matérielle et l'absence alléguée d'adaptation de la formalité. Cette exposition vise à permettre l'examen national complet de la question, sans préjuger de la recevabilité ultérieure d'un grief personnel qu'elle pourrait elle-même porter devant la Cour européenne.
 
 Le requérant demande ainsi au Conseil de se prononcer sur les faits, les garanties procédurales et les moyens nationaux correspondants de manière à donner à l'État français la possibilité de prévenir ou redresser ces atteintes avant toute éventuelle saisine internationale.
 
