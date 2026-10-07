@@ -349,3 +349,19 @@ Le grief doit rester centré sur le **droit d'éligibilité** et la disproportio
 **Piste forte pour une demande de conformité sous réserve ; piste plus fragile pour une censure pure.**
 
 Le précédent du Conseil d'État du 14 mai 2021 renforce considérablement la démonstration de proportionnalité, mais il fournit en même temps au Conseil constitutionnel une voie de sortie par interprétation conforme.
+
+
+## Situation personnelle de Mme Laurence Vernerey
+
+La QPC relative à l'article L.299 ne doit pas être présentée comme si le handicap de Mme Laurence Vernerey n'était qu'une circonstance extérieure affectant le candidat principal.
+
+Mme Vernerey avait accepté d'être remplaçante et avait participé activement à la constitution du dossier. Deux écrits contemporains sont particulièrement importants :
+
+- **P-43.a — courriel « Autorisation » du 10 septembre 2026** : elle autorise expressément Jean Hugues Robert à utiliser sa signature sur le CERFA où elle se porte remplaçante ;
+- **P-43.b — courriel « Porte-parole » du 11 septembre 2026** : elle le désigne expressément comme porte-parole de la campagne sénatoriale.
+
+Ces pièces, rapprochées de **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**, établissent que le problème n'était pas l'absence de volonté ou de consentement mais la possibilité matérielle d'accomplir personnellement la formalité manuscrite.
+
+La question constitutionnelle doit donc rendre visible l'effet propre de la loi sur la remplaçante : une personne qui consent à participer à une candidature peut-elle en être matériellement exclue parce qu'un handicap l'empêche d'accomplir personnellement un geste probatoire, alors que la même finalité de preuve peut être préservée par une assistance matérielle demandée et contrôlable ?
+
+Cette individualisation du grief est également importante pour la subsidiarité européenne : elle permet au juge national d'examiner dès maintenant la substance de la difficulté qui pourrait ultérieurement être invoquée au titre de l'article 14 de la Convention combiné avec l'article 3 du Protocole n° 1.
