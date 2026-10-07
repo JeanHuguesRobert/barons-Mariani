@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.33"
+version: "0.34"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -483,6 +483,19 @@ Test obligatoire :
 
 Si la réponse est non, il faut réécrire.
 
+
+
+Exemple supplémentaire de calque à proscrire :
+
+À éviter :
+« D'autres questions sont restées ouvertes. »
+
+Préférer selon le sens exact :
+- « D'autres questions sont restées sans réponse suffisante. »
+- « D'autres questions n'ont reçu qu'une réponse partielle. »
+- « Certaines questions demeurent non résolues. »
+
+Le choix dépend du statut probatoire réel de la réponse.
 
 ### Règle de textualité souveraine et de qualité littéraire
 
@@ -1161,3 +1174,8 @@ Nouvel invariant : les tableaux et schémas quittent le corps de la requête lor
 Le corps contient toujours l'équivalent sémantique complet en texte continu. Les annexes peuvent fournir des vues tabulaires ou graphiques, sans ajouter de contenu nouveau.
 
 Cette règle s'applique à tous les tableaux et schémas actuels et futurs de la requête.
+
+
+## UPDATE — 7 octobre 2026 — v0.34 / questions sans réponse
+
+Ajout d'un exemple explicite à la règle de français idiomatique : éviter le calque « question restée ouverte » lorsqu'il signifie en réalité qu'une question est restée sans réponse suffisante, n'a reçu qu'une réponse partielle ou demeure non résolue.
