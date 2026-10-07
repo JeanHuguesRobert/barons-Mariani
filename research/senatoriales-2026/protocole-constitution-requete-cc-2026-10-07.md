@@ -47,6 +47,17 @@ Ne jamais fusionner silencieusement :
 6. **Corpus** — carte et travail préparatoire, jamais substitut aux pièces ;
 7. **sources juridiques officielles** — règles et jurisprudence.
 
+## 2 bis. Séparation data plane / control plane
+
+Le dossier applique la séparation canonique du Corpus :
+
+- **data plane** : requête, annexes, pièces, chronologie, fichiers, preuves, paquet remis ;
+- **control plane** : checklist, présent protocole, audits, revue adverse, règles de gel, règles de dépôt.
+
+Cette séparation est une forme de FractaCognition : le dossier ne se contente pas d'accumuler des données, il observe et contrôle la manière dont il se construit.
+
+Le control plane n'établit pas le fond. Il doit produire des effets observables sur la qualité du data plane ; sinon il devient bureaucratique.
+
 ## 3. Cycle obligatoire pour chaque version
 
 Avant de promouvoir une version :
@@ -117,6 +128,17 @@ Pour chaque affirmation importante de la requête poser six questions :
 4. Existe-t-il une trace **adverse ou contradictoire** ?
 5. La requête qualifie-t-elle correctement ce que la pièce établit **et ce qu'elle n'établit pas** ?
 6. La chronologie et le bordereau racontent-ils exactement la même chose ?
+
+## 6 bis. Double lecture grand public / expert
+
+Chaque grande section doit être lisible selon deux niveaux compatibles :
+
+- **GP** : narration complète, définitions, contexte, finalité, moyens et enjeux ;
+- **EXPERT** : textes, jurisprudence, pièces, qualifications et objections adverses.
+
+Les deux niveaux doivent exprimer la même proposition et les mêmes réserves.
+
+Une divergence GP/EXPERT est traitée comme un bug de dossier.
 
 ## 7. Règle de contradiction
 
