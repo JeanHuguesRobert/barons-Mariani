@@ -3,15 +3,11 @@ id: senatoriales-2026-cc-depot
 title: "Requête au Conseil constitutionnel — Sénatoriales Haute-Corse 2026"
 source_root: ../..
 source_clean_required: true
+distribution: jurisdictional-private
+publication_status: "private — no public release"
 
 artifact:
   filename: requete-conseil-constitutionnel-haute-corse-2026.pdf
-
-release:
-  repository: JeanHuguesRobert/barons-Mariani
-  tag: senatoriales-2026-cc-depot-2026-10-07
-  title: "Dépôt Conseil constitutionnel — Sénatoriales Haute-Corse 2026 — 7 octobre 2026"
-  immutable_required: true
 
 sections:
   - id: requete
