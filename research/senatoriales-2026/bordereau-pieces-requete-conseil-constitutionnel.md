@@ -1,15 +1,15 @@
 ---
-title: "Sénatoriales Haute-Corse 2026 — bordereau de pièces — projet v0.13"
-subtitle: "Projet autonome de liste des pièces destinées à soutenir la requête au Conseil constitutionnel"
+title: "Sénatoriales Haute-Corse 2026 — relevé probatoire intégré — v0.14"
+subtitle: "Index textuel des sources et de leur portée, intégré au PDF unique de la requête"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.13"
-status: "active — pre-filing piece schedule — not filed"
+version: "0.14"
+status: "active — integrated evidentiary register — pre-filing"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "legal-brief"
-document_kind: "exhibit-schedule"
+document_kind: "integrated-evidence-register"
 visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
@@ -32,85 +32,95 @@ review:
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# BORDEREAU DE PIÈCES — PROJET v0.13
+# RELEVÉ PROBATOIRE INTÉGRÉ — v0.14
 
 ## Requête en contestation de l'élection sénatoriale du 27 septembre 2026 — Haute-Corse
 
-> **Statut : projet de bordereau — non déposé.**
+> **Statut : relevé probatoire intégré au PDF unique — non déposé.**
 >
-> Ce document prépare la liste des pièces à annexer à la requête. Il ne vaut ni preuve de dépôt ni affirmation que toutes les pièces recensées ci-dessous seront effectivement produites. Le bordereau final devra correspondre exactement aux fichiers ou originaux remis avec la requête.
+> Ce document n'est plus une liste de dizaines de fichiers PDF à fabriquer. Il constitue le **registre textuel intégré** des sources invoquées par la requête : numéro stable, date, intitulé, provenance, portée et limite probatoire. Lorsqu'une source primaire existe, elle reste conservée dans sa forme native et peut être produite sur demande ou en complément ; son absence comme fichier autonome dans le dépôt initial ne transforme jamais le relevé en original.
 
 ## 1. Règle de lecture
 
-Le bordereau distingue quatre niveaux de production :
+La numérotation **P-xx** est conservée comme système de repérage stable entre la requête, la chronologie et les sources.
 
-- **A — production proposée** : pièce directement liée à un fait ou moyen du noyau contentieux ;
-- **B — soutien** : pièce utile mais susceptible d'être élaguée si elle est redondante ;
-- **C — contexte / réserve** : pièce conservée dans l'inventaire analytique mais non destinée à être jointe par défaut ;
-- **D — sensible** : pièce dont la production suppose une vérification renforcée de nécessité, de minimisation et, le cas échéant, d'occultation.
+Les statuts indiquent désormais le **rôle probatoire dans le PDF unique**, et non une obligation de produire un fichier autonome :
 
-Le **bordereau final** ne devra conserver que les pièces effectivement annexées. La numérotation P-xx est maintenue pendant la préparation pour préserver les renvois de la requête et de l'inventaire ; toute suppression avant dépôt devra être gérée sans créer d'ambiguïté dans les citations.
+- **A — noyau probatoire intégré** : le fait utile, sa provenance et sa limite sont reproduits ou résumés dans le PDF unique ;
+- **B — soutien** : élément utile mais secondaire, intégré seulement dans la mesure nécessaire à l'intelligibilité ;
+- **C — contexte / réserve** : élément conservé dans l'inventaire analytique mais non nécessaire au noyau du dépôt ;
+- **D — sensible** : seules les informations strictement nécessaires au moyen sont reproduites ; les données privées étrangères au litige restent hors du PDF public et hors du dépôt initial sauf nécessité distincte.
+
+Invariant :
+
+```text
+P-xx
+≠ promesse d'un fichier PDF autonome
+= repère documentaire stable vers une source identifiée
+```
+
+Les sources natives (courriels, PDF administratifs, vidéo, photographies, traces postales) sont conservées avec leur provenance et, lorsqu'elle est disponible, leur empreinte. Le Conseil peut en demander la production ; la requête sollicite en outre les mesures d'instruction utiles lorsqu'une vérification institutionnelle est nécessaire.
 
 ### Annexe chronologique — hors numérotation P-xx
 
-La chronologie détaillée est une **annexe de lecture de la requête**, non une pièce primaire supplémentaire. Elle doit être jointe au paquet mais ne reçoit pas un numéro P-xx afin de ne pas être confondue avec les sources qu'elle indexe.
+La chronologie détaillée est une **annexe de lecture incluse dans le même PDF**, non une pièce primaire supplémentaire. Elle ne reçoit pas de numéro P-xx afin de ne pas être confondue avec les sources qu'elle indexe.
 
 Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 
-## 2. Projet de bordereau P-01 à P-46
+## 2. Relevé P-01 à P-46
 
-| N° | Date / heure | Intitulé | Portée bornée | Statut de production | Support / source |
+| N° | Date / heure | Intitulé | Portée bornée | Mode dans le PDF unique | Support / source |
 |---|---|---|---|---|---|
 | **P-01** | 01/10/2025 | Annonce publique de candidature | Antériorité publique | **C — contexte / réserve** | Capture / trace publique |
 | **P-02** | 20/05/2026 | « Autonomia - 1974, 1991, 2026 » | Contexte doctrinal antérieur | **C — contexte / réserve** | research/autonomia.md |
 | **P-03** | 24/05/2026 | Courriel à Corse Net Infos | Information précoce de la presse | **C — contexte / réserve** | Courriel source |
-| **P-04** | 10/09 17:01:56–17:54:50 | Premier envoi, DSN d’échec pour taille et retransmission allégée | Chaîne technique de diligence : tentative initiale, trois DSN, retransmission ; ne préjuge pas de la conformité juridique | **A — production proposée** | `investigation/sources/p04-premier-envoi-dsn-retransmission-2026-09-10.md` + messages Gmail natifs / bundle P-14 |
-| **P-05** | 10/09 17:56:53 | Accusé automatique | Réception de P-04 par la messagerie de l'État | **A — production proposée** | Courriel source |
-| **P-06** | 10/09 20:05:04 | Réponse BEDL | Position préfectorale sur les originaux | **A — production proposée** | Courriel source / PREF-10 |
-| **P-07** | 11/09 08:14:11 | Courriel du candidat annonçant son déplacement vers Bastia | Déplacement annoncé et diligence matérielle avant le dépôt physique | **A — production proposée** | Courriel source |
-| **P-08** | 11/09 matin | Traces du trajet du 11 septembre vers Bastia | Corrobore la diligence matérielle et la chronologie du déplacement, sans portée juridique automatique | **A — production proposée** | Photos / chronologie |
-| **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration, pas preuve de conformité | **A — production proposée** | Document officiel / PREF-13 — **scan lisible + transcription textuelle vérifiée** |
-| **P-10** | 11/09 14:14:39 | Courriel mandataire + 2 PJ | Complétion et disponibilité jusqu'à 18 h | **A — production proposée** | Courriel / PREF-14 à PREF-16 |
-| **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain ; absent du bundle initial PREF-1 à 16 | **A — production proposée** | Courriel source |
-| **P-12** | 11/09 17:57:55 | Courriel complémentaire avec lien vidéo | Émission avant 18 h ; réception serveur à établir | **A — production proposée** | Courriel source |
-| **P-13** | 11/09 | Vidéo commune | Identité, volonté, consentement contemporains | **A — production proposée** | Fichier vidéo / empreinte à fixer |
-| **P-14** | 11/09 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | Motivation préfectorale et inventaire initial 1–16 | **A — production proposée** | PDF originaux reçus via France Transfert |
-| **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — production proposée** | Courriel source |
-| **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — production proposée** | dossier-ta-bastia-2026-09-14.md |
-| **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
-| **P-18** | 14/09 | Attestation CAF relative à Mme Laurence Vernerey | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle ; production strictement minimisée en raison des données personnelles | **A — production obligatoire / minimisée** | Document privé ; original conservé séparément |
-| **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — production proposée** | Courriel + jugement + P-30 |
-| **P-20** | 14/09 puis notification postale | Jugement TA Bastia + chaîne matérielle de notification | Décision attaquable via L.303 ; documente aussi la notification par LRAR : avis de passage, pli retiré à La Poste CORTE (Avenue du Baron Mariani), page de notification, trois pages du jugement, photographie contextuelle de la plaque « Avenue du Baron Mariani », prise à la sortie du bureau selon le requérant ; fonction principale : matérialiser l'ancrage public/local de la désignation « Baron Mariani », sans prétendre établir à elle seule un droit nobiliaire personnel ou une généalogie ; image déjà transmise à ChatGPT au plus tard le 25 septembre 2026 à 15 h 17 CEST | **A — production proposée** | Sous-pièces stables P-20.a… ; relever identifiants postaux, dates/cachets, fichiers, tailles, SHA-256 et provenance |
-| **P-21** | 15–25/09 | Demandes documentaires post-jugement | Diligences pour clarifier le dossier | **B — soutien / sélection à matérialiser** | Ensemble de courriels |
-| **P-22** | 25/09 16:59:13 | Demande à la préfecture / conservation des traces | Logs, demandes d'originaux, transmissions au TA | **A — production proposée** | Courriel source |
+| **P-04** | 10/09 17:01:56–17:54:50 | Premier envoi, DSN d’échec pour taille et retransmission allégée | Chaîne technique de diligence : tentative initiale, trois DSN, retransmission ; ne préjuge pas de la conformité juridique | **A — noyau probatoire intégré** | `investigation/sources/p04-premier-envoi-dsn-retransmission-2026-09-10.md` + messages Gmail natifs / bundle P-14 |
+| **P-05** | 10/09 17:56:53 | Accusé automatique | Réception de P-04 par la messagerie de l'État | **A — noyau probatoire intégré** | Courriel source |
+| **P-06** | 10/09 20:05:04 | Réponse BEDL | Position préfectorale sur les originaux | **A — noyau probatoire intégré** | Courriel source / PREF-10 |
+| **P-07** | 11/09 08:14:11 | Courriel du candidat annonçant son déplacement vers Bastia | Déplacement annoncé et diligence matérielle avant le dépôt physique | **A — noyau probatoire intégré** | Courriel source |
+| **P-08** | 11/09 matin | Traces du trajet du 11 septembre vers Bastia | Corrobore la diligence matérielle et la chronologie du déplacement, sans portée juridique automatique | **A — noyau probatoire intégré** | Photos / chronologie |
+| **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration, pas preuve de conformité | **A — noyau probatoire intégré** | Document officiel / PREF-13 — **scan lisible + transcription textuelle vérifiée** |
+| **P-10** | 11/09 14:14:39 | Courriel mandataire + 2 PJ | Complétion et disponibilité jusqu'à 18 h | **A — noyau probatoire intégré** | Courriel / PREF-14 à PREF-16 |
+| **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain ; absent du bundle initial PREF-1 à 16 | **A — noyau probatoire intégré** | Courriel source |
+| **P-12** | 11/09 17:57:55 | Courriel complémentaire avec lien vidéo | Émission avant 18 h ; réception serveur à établir | **A — noyau probatoire intégré** | Courriel source |
+| **P-13** | 11/09 | Vidéo commune | Identité, volonté, consentement contemporains | **A — noyau probatoire intégré** | Fichier vidéo / empreinte à fixer |
+| **P-14** | 11/09 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | Motivation préfectorale et inventaire initial 1–16 | **A — noyau probatoire intégré** | PDF originaux reçus via France Transfert |
+| **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — noyau probatoire intégré** | Courriel source |
+| **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — noyau probatoire intégré** | dossier-ta-bastia-2026-09-14.md |
+| **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — noyau probatoire intégré** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
+| **P-18** | 14/09 | Attestation CAF relative à Mme Laurence Vernerey | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle ; production strictement minimisée en raison des données personnelles | **A — contenu probatoire intégré / minimisé** | Document privé ; original conservé séparément |
+| **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — noyau probatoire intégré** | Courriel + jugement + P-30 |
+| **P-20** | 14/09 puis notification postale | Jugement TA Bastia + chaîne matérielle de notification | Décision attaquable via L.303 ; documente aussi la notification par LRAR : avis de passage, pli retiré à La Poste CORTE (Avenue du Baron Mariani), page de notification, trois pages du jugement, photographie contextuelle de la plaque « Avenue du Baron Mariani », prise à la sortie du bureau selon le requérant ; fonction principale : matérialiser l'ancrage public/local de la désignation « Baron Mariani », sans prétendre établir à elle seule un droit nobiliaire personnel ou une généalogie ; image déjà transmise à ChatGPT au plus tard le 25 septembre 2026 à 15 h 17 CEST | **A — noyau probatoire intégré** | Sous-pièces stables P-20.a… ; relever identifiants postaux, dates/cachets, fichiers, tailles, SHA-256 et provenance |
+| **P-21** | 15–25/09 | Demandes documentaires post-jugement | Diligences pour clarifier le dossier | **B — soutien textuel intégré si utile** | Ensemble de courriels |
+| **P-22** | 25/09 16:59:13 | Demande à la préfecture / conservation des traces | Logs, demandes d'originaux, transmissions au TA | **A — noyau probatoire intégré** | Courriel source |
 | **P-23** | 26/09 | Amendement d'effectivité art. 72-5 | Contexte doctrinal, non norme positive applicable au litige | **C — contexte / ne pas joindre par défaut** | Document public |
 | **P-24** | 27/09 | Capable Test / cas d'effectivité | Grille méthodologique | **C — contexte / ne pas joindre par défaut** | Document public |
 | **P-25** | 28/09 | Annuaire / étude d'exposition | Structure du collège ; aucune inférence individuelle de vote | **C — contexte / ne pas joindre par défaut** | CSV + analyse |
-| **P-26** | 28/09 | Demande de communication du procès-verbal et des pièces électorales | Diligence post-scrutin dans le délai organique de consultation | **A — production proposée** | Courriel / document source |
-| **P-27** | 27/09 | Résultats officiels | 606 votants, 36 blancs, 40 nuls, 530 exprimés, 442/88 | **A — production proposée** | Source officielle / data |
-| **P-28** | 30/09 08:16:30 | Proposition de consultation des pièces électorales | Réponse du Bureau des élections proposant une consultation sur place le 1er octobre ; contrepoint utile à l'absence de réponse substantielle retrouvée sur les modalités de dépôt | **A — production proposée** | Courriel source |
-| **P-29** | 16/09 08:38:28 | Première demande TA sur la liste des pièces | Première demande explicite d'inventaire identifiée | **A — production proposée** | Courriel source |
-| **P-30** | 16/09 | Réponse du greffe TA | Écritures préfectorales dites communiquées en totalité ; note prise en compte | **A — production proposée** | Courriel greffe |
-| **P-31** | 21/09 | Réponse du greffe TA | Jugement présenté comme répondant aux questions ; disponibilité annoncée | **A — production proposée** | Courriel greffe |
-| **P-32** | 25/09 16:50:46 | Six questions résiduelles au TA | Questions factuelles après lecture du jugement | **A — production proposée** | Courriel source |
-| **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation au CC ; référence L.292 | **A — production proposée** | Courriel greffe / registre interaction |
+| **P-26** | 28/09 | Demande de communication du procès-verbal et des pièces électorales | Diligence post-scrutin dans le délai organique de consultation | **A — noyau probatoire intégré** | Courriel / document source |
+| **P-27** | 27/09 | Résultats officiels | 606 votants, 36 blancs, 40 nuls, 530 exprimés, 442/88 | **A — noyau probatoire intégré** | Source officielle / data |
+| **P-28** | 30/09 08:16:30 | Proposition de consultation des pièces électorales | Réponse du Bureau des élections proposant une consultation sur place le 1er octobre ; contrepoint utile à l'absence de réponse substantielle retrouvée sur les modalités de dépôt | **A — noyau probatoire intégré** | Courriel source |
+| **P-29** | 16/09 08:38:28 | Première demande TA sur la liste des pièces | Première demande explicite d'inventaire identifiée | **A — noyau probatoire intégré** | Courriel source |
+| **P-30** | 16/09 | Réponse du greffe TA | Écritures préfectorales dites communiquées en totalité ; note prise en compte | **A — noyau probatoire intégré** | Courriel greffe |
+| **P-31** | 21/09 | Réponse du greffe TA | Jugement présenté comme répondant aux questions ; disponibilité annoncée | **A — noyau probatoire intégré** | Courriel greffe |
+| **P-32** | 25/09 16:50:46 | Six questions résiduelles au TA | Questions factuelles après lecture du jugement | **A — noyau probatoire intégré** | Courriel source |
+| **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation au CC ; référence L.292 | **A — noyau probatoire intégré** | Courriel greffe / registre interaction |
 | **P-36** | 02/10 | Note forensic sur la provenance numérique de la requête préfectorale | Analyse dérivée : bundles TA recomposés, contenu lisible mais provenance native non exposée ; ne prouve ni disparition ni altération fautive | **B — analyse dérivée / réserve** | investigation/forensic-provenance-requete-prefectorale-2026-10-02.md |
 | **P-37** | 01/10 10:11:07 | Adresse du rendez-vous | 15 Avenue Jean Zuccarelli ; salons de la préfecture indisponibles ce jour-là | **C — contexte / réserve** | investigation/sources/courriel-prefecture-adresse-rendez-vous-2026-10-01.md |
 | **P-38** | 01/10 12:30:20 | Réponse sur cette adresse | Phrase familiale et expropriation ; train annoncé en principe à 15 h ; retard annoncé. Ni l'arrivée effective ni l'inventaire des pièces | **C — contexte / réserve** | investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md |
-| **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | **A — production proposée** | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
-| **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | **A — production proposée** | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
-| **P-41** | 06/10 | Annexe de déclarations publiques et commentaires de presse | Index ciblé de sources contemporaines sur A Voce, intentions/soutiens non lisibles dans les seules affiliations, score Battini, cadre adverse « sans surprise », Giuseppi et enjeu autonomie ; aucune attribution individuelle de vote | **A — production proposée** | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
+| **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | **A — noyau probatoire intégré** | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
+| **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | **A — noyau probatoire intégré** | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
+| **P-41** | 06/10 | Annexe de déclarations publiques et commentaires de presse | Index ciblé de sources contemporaines sur A Voce, intentions/soutiens non lisibles dans les seules affiliations, score Battini, cadre adverse « sans surprise », Giuseppi et enjeu autonomie ; aucune attribution individuelle de vote | **A — noyau probatoire intégré** | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
 | **P-42** | 26/09 + suivi 01–02/10 | Saisine de la déléguée du Défenseur des droits en Haute-Corse | Diligence institutionnelle sur l'effectivité ; absence de réponse retrouvée dans la recherche Gmail ciblée au 06/10 ; aucun effet suspensif attribué | **B — soutien / réserve** | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
-| **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Ensemble parent : identité, participation, consentement, aide matérielle, porte-parole, vidéo et accessibilité ; contenu privé à minimiser | **D — sensible / production sélective** | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + messages Gmail natifs |
-| **P-43.a** | 10/09 12:38:31 CEST | Courriel « Autorisation » de Laurence Vernerey | Autorisation expresse donnée à Jean Hugues Robert d'utiliser sa signature sur le CERFA où elle se porte remplaçante ; établit une demande faite au tiers et son consentement à cette intervention matérielle | **A — production obligatoire** | Gmail natif `1a08ae5f35fd72f0` + reproduction lisible, données privées non nécessaires occultées |
-| **P-43.b** | 11/09 18:25:49 CEST | Courriel « Porte-parole » de Laurence Vernerey | Désignation expresse de Jean Hugues Robert comme porte-parole de la campagne sénatoriale ; **postérieur à la clôture de 18 h**, il documente la continuité de la volonté et de la représentation, non le respect d'une formalité avant l'échéance | **A — production obligatoire** | Gmail natif `1a0914a4db8cf48b` ; en-tête RFC822 16:25:49 UTC ; reproduction lisible, données privées non nécessaires occultées |
-| **P-44** | 11/09 18:45:53 | France Transfert — communication TA des requêtes 2601714 / 2601715 (2 courriels) | Provenance de transmission : avis de pli + mot de passe séparé ; secrets techniques à masquer dans la copie produite | **A — production proposée** | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + messages Gmail natifs |
-| **P-45** | 26/09–02/10 | Modalités de dépôt art. 34 — demandes et relances sans réponse substantielle retrouvée | Pièce composite P-45.a à P-45.d : demandes des 26 et 28 septembre, relances des 1er et 2 octobre ; documente l'effectivité du recours sans imputer d'intention | **A — production proposée / messages intégraux** | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
-| **P-45.a** | 26/09 10:44:22 | Demande au Bureau des élections sur les modalités de dépôt au titre de l'article 34 | Demande lieu/canal/heure pratique/preuve de réception ; aucune réponse substantielle retrouvée dans le fil | **A — production obligatoire** | Gmail `1a0dce31564ec625` |
-| **P-45.b** | 28/09 13:31:35 CEST | Demande à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34 | Demande de confirmation des modalités concrètes ; en-tête RFC822 : 04:31:35 -0700 = 13:31:35 Europe/Paris ; aucune réponse institutionnelle retrouvée | **A — production obligatoire** | Gmail `1a0e7c8da5ef2262` |
-| **P-45.c** | 01/10 09:30:33 | Consolidation générale avec la Sous-préfecture de Corte en copie | Rappelle notamment que la modalité concrète de remise reste sans réponse suffisante | **A — production obligatoire** | Gmail `1a0f65f52d19c6f7` |
-| **P-45.d** | 02/10 13:33:55 | Relance structurée P1–P18 | P11/P12 redemandent les modalités de remise et l'état des demandes antérieures | **A — production obligatoire** | Gmail `1a0fc64750fe95b6` |
-| **P-46** | 10/09–02/10 | Registre exhaustif des courriels Préfecture / TA | 46 messages distincts, envoyés et reçus, incluant accusés automatiques et France Transfert ; chaque message est une sous-pièce P-46.01…P-46.46 avec horodatage, libellé, effet et reproduction intégrale dans le paquet de dépôt ; seules les adresses privées de Maguy et Laurence et les secrets techniques sont occultés | **A — production obligatoire / intégrale** | Gmail natif + représentation lisible dans le recueil final |
+| **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Ensemble parent : identité, participation, consentement, aide matérielle, porte-parole, vidéo et accessibilité ; contenu privé à minimiser | **D — sensible / reproduction textuelle minimisée** | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + messages Gmail natifs |
+| **P-43.a** | 10/09 12:38:31 CEST | Courriel « Autorisation » de Laurence Vernerey | Autorisation expresse donnée à Jean Hugues Robert d'utiliser sa signature sur le CERFA où elle se porte remplaçante ; établit une demande faite au tiers et son consentement à cette intervention matérielle | **A — contenu probatoire intégré** | Gmail natif `1a08ae5f35fd72f0` + reproduction lisible, données privées non nécessaires occultées |
+| **P-43.b** | 11/09 18:25:49 CEST | Courriel « Porte-parole » de Laurence Vernerey | Désignation expresse de Jean Hugues Robert comme porte-parole de la campagne sénatoriale ; **postérieur à la clôture de 18 h**, il documente la continuité de la volonté et de la représentation, non le respect d'une formalité avant l'échéance | **A — contenu probatoire intégré** | Gmail natif `1a0914a4db8cf48b` ; en-tête RFC822 16:25:49 UTC ; reproduction lisible, données privées non nécessaires occultées |
+| **P-44** | 11/09 18:45:53 | France Transfert — communication TA des requêtes 2601714 / 2601715 (2 courriels) | Provenance de transmission : avis de pli + mot de passe séparé ; secrets techniques à masquer dans la copie produite | **A — noyau probatoire intégré** | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + messages Gmail natifs |
+| **P-45** | 26/09–02/10 | Modalités de dépôt art. 34 — demandes et relances sans réponse substantielle retrouvée | Pièce composite P-45.a à P-45.d : demandes des 26 et 28 septembre, relances des 1er et 2 octobre ; documente l'effectivité du recours sans imputer d'intention | **A — noyau probatoire intégré / messages intégraux** | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
+| **P-45.a** | 26/09 10:44:22 | Demande au Bureau des élections sur les modalités de dépôt au titre de l'article 34 | Demande lieu/canal/heure pratique/preuve de réception ; aucune réponse substantielle retrouvée dans le fil | **A — contenu probatoire intégré** | Gmail `1a0dce31564ec625` |
+| **P-45.b** | 28/09 13:31:35 CEST | Demande à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34 | Demande de confirmation des modalités concrètes ; en-tête RFC822 : 04:31:35 -0700 = 13:31:35 Europe/Paris ; aucune réponse institutionnelle retrouvée | **A — contenu probatoire intégré** | Gmail `1a0e7c8da5ef2262` |
+| **P-45.c** | 01/10 09:30:33 | Consolidation générale avec la Sous-préfecture de Corte en copie | Rappelle notamment que la modalité concrète de remise reste sans réponse suffisante | **A — contenu probatoire intégré** | Gmail `1a0f65f52d19c6f7` |
+| **P-45.d** | 02/10 13:33:55 | Relance structurée P1–P18 | P11/P12 redemandent les modalités de remise et l'état des demandes antérieures | **A — contenu probatoire intégré** | Gmail `1a0fc64750fe95b6` |
+| **P-46** | 10/09–02/10 | Registre exhaustif des courriels Préfecture / TA | 46 messages distincts, envoyés et reçus, incluant accusés automatiques et France Transfert ; chaque message est une sous-pièce P-46.01…P-46.46 avec horodatage, libellé, effet et reproduction intégrale dans le paquet de dépôt ; seules les adresses privées de Maguy et Laurence et les secrets techniques sont occultés | **A — contenu probatoire intégré / intégrale** | Gmail natif + représentation lisible dans le recueil final |
 
 
 ## 3. Sous-inventaire de P-14 — pièces décrites dans la saisine préfectorale initiale
@@ -202,42 +212,45 @@ Deux points restent à préserver dans la version de dépôt :
 
 P-46 doit être cité comme registre exhaustif de correspondance et non comme une quarante-sixième preuve autonome d'un fait unique. Les sous-pièces conservent leur rattachement fonctionnel aux pièces principales lorsqu'il existe.
 
-## 4. Pièces à matérialiser en priorité avant dépôt
+## 4. Règle de production pour le dépôt initial
 
-Priorité pratique :
+Pour le dépôt initial sous contrainte de temps, le présent relevé est **intégré au même PDF que la requête**.
 
-1. **P-14** — PDF originaux des requêtes préfectorales et bundles reçus via France Transfert ;
-2. **P-44** — paire de courriels France Transfert établissant la chaîne de communication des mêmes fichiers ; produire une copie où mot de passe, lien et jetons sont masqués, tout en conservant les messages natifs ;
-3. **P-20** — jugement du TA du 14 septembre 2026 ;
-4. **P-04 à P-13** — chaîne documentaire du dépôt et des compléments du 10–11 septembre ;
-5. **P-16, P-17, P-19** — défense, note manuscrite recto-verso et note en délibéré ;
-6. **P-29 à P-33** — demandes et réponses du greffe établissant la séquence post-jugement ;
-7. **P-45.a à P-45.d** — quatre courriels intégraux documentant les demandes et relances sur les modalités de dépôt au titre de l'article 34 ;
-8. **P-27, P-39, P-40** — résultats officiels et pièces post-scrutin directement utiles au grief d'incidence ;
-9. **P-41 — Annexe de déclarations publiques et commentaires de presse** — production proposée car la requête l'invoque directement dans le grief d'incidence ; conserver strictement les bornes sur le secret du vote et l'absence d'inférence individuelle ;
-10. **P-42 / P-43** — diligence Défenseur des droits et correspondance remplaçante : conserver les sources natives, mais ne joindre que ce qui soutient effectivement un moyen et minimiser les données privées.
+Il n'est donc plus exigé de fabriquer un PDF autonome pour chaque P-xx.
 
-Pour chaque pièce effectivement annexée, le dossier final devrait enregistrer au minimum :
+Le dossier suit la règle suivante :
 
-`numéro → nom de fichier → nombre de pages → support → éventuelle occultation → empreinte si utile → renvoi exact dans la requête`
+```text
+fait utile
+→ reproduction / résumé textuel dans la requête ou le présent relevé
+→ identification de la source primaire
+→ borne probatoire explicite
+→ source native conservée
+→ production complémentaire sur demande si nécessaire
+```
+
+Les éléments les plus importants déjà décrits dans le corps de la requête comprennent notamment P-04 à P-20, P-22, P-26 à P-33, P-39, P-40, P-43.a, P-43.b, P-44, P-45.a à P-45.d et P-46.
+
+Le registre P-46 conserve les quarante-six messages identifiés avec leurs métadonnées utiles afin que la continuité de la correspondance puisse être contrôlée sans fabriquer quarante-six reproductions PDF distinctes.
+
+Les données sensibles sont minimisées : une information nécessaire au moyen peut être reproduite ; les informations privées sans utilité contentieuse restent dans la source native et ne sont pas intégrées au PDF.
 
 ## 5. Contrôle avant signature / dépôt
 
-- [ ] chaque numéro cité dans la requête correspond à une pièce réellement annexée ;
-- [ ] aucune pièce « C — contexte » n'est jointe par inertie ;
-- [ ] les pièces sensibles ont fait l'objet d'une minimisation adaptée ;
-- [ ] les pièces électroniques décisives conservent, lorsque possible, leur version native en plus d'une version lisible ;
-- [ ] P-14 contient bien les fichiers reçus du TA, et non une reconstruction secondaire ;
-- [ ] P-09 est accompagné du scan/reproduction lisible et d'une transcription textuelle vérifiée ligne à ligne contre l'image primaire ;
-- [ ] P-17 est accompagnée de la reproduction recto-verso et d'une transcription clairement qualifiée comme transcription ;
-- [ ] le motif exact de nullité de P-40 n'est pas affirmé au-delà de ce que la pièce permet d'établir ;
-- [ ] P-41 distingue clairement déclarations d'acteurs, commentaires journalistiques, faits électoraux officiels et inférences ; aucun soutien visible n'est converti en bulletin secret ;
-- [ ] P-42 est qualifiée comme diligence institutionnelle et état de réponse retrouvé, sans inférence sur un traitement interne non observable ;
-- [ ] P-43 ne reproduit que les messages réellement nécessaires au moyen invoqué ; les données privées et de santé non nécessaires sont occultées ou laissées en réserve ;
-- [ ] **P-45.a à P-45.d sont annexés intégralement** : corps complet, date/heure, objet, destinataires/copies et en-têtes utiles ; l'index public P-45 ne remplace pas les messages eux-mêmes ;
-- [ ] les quatre sous-pièces P-45 correspondent exactement aux Gmail IDs vérifiés et, si possible, disposent d'un export natif EML/RFC822 en plus d'une représentation lisible ;
-- [ ] le PDF/recueil final possède une pagination stable ;
-- [ ] le bordereau final correspond exactement au recueil joint ;
+- [ ] chaque identifiant P-xx cité dans la requête est résolu vers un libellé intelligible ;
+- [ ] le fait matériel utile correspondant est exposé dans la requête, le présent relevé ou une annexe textuelle incluse dans le même PDF ;
+- [ ] aucune formulation ne prétend qu'un fichier autonome est « joint » lorsqu'il ne l'est pas ;
+- [ ] les qualifications restent bornées : original, photographie, transcription, copie, export, reconstruction ou fait rapporté ne sont jamais confondus ;
+- [ ] les éléments sensibles sont minimisés ;
+- [ ] les sources natives sont conservées et identifiables en cas de demande de production complémentaire ;
+- [ ] P-09 reste qualifié comme preuve de prise en charge, non comme validation juridique ;
+- [ ] P-16 conserve la réserve sur l'identité binaire du fichier avec l'exemplaire matériel remis au TA ;
+- [ ] P-17 distingue les photographies primaires de la transcription et de la remise en main propre rapportée ;
+- [ ] P-18 ne reproduit que l'information strictement utile relative à l'AAH ;
+- [ ] P-40 n'est pas utilisé pour identifier un électeur ou fixer sans autre preuve le motif juridique de nullité ;
+- [ ] P-43.b reste expressément qualifié comme postérieur à 18 h ;
+- [ ] P-46 est présenté comme registre transversal de correspondance, non comme preuve autonome d'un fait unique ;
+- [ ] le PDF final contient effectivement la requête, les deux QPC et les annexes textuelles prévues par le contrat d'assemblage ;
 - [ ] la trace de dépôt (date, heure, canal, accusé/récépissé) est conservée séparément après saisine.
 
 ## 6. Base procédurale minimale
