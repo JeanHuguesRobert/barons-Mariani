@@ -34,8 +34,11 @@ review:
   status: unreviewed
   reviewed_by: []
 related_documents:
+- projects/institut/preparation/current-statutes-baseline.md
+- projects/institut/sources/statuts-corsica-1995-transcription.md
 - https://github.com/JeanHuguesRobert/cogentia/blob/main/research/acorsica-institut-mariani.md
 changelog:
+- v0.2 (2026-10-07) — correction après transcription et vérification des statuts 1995 ; séparation entre mission fonctionnelle de préfiguration et pouvoir statutaire de portage juridique.
 - v0.1 (2026-10-04) — initial candidate drafted from the existing Corpus and current conversation; published to the canonical repository on 2026-10-04.
 - v0.1.1 (2026-10-04) — reread against acorsica/privai f7fe0c0 and the two separation notes. Public projection keeps the narrower no-carriage wording. Foundation sentence stays a candidate.
 ---
