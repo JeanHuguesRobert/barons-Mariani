@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.59"
+version: "0.60"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1289,6 +1289,20 @@ Corrections apportées au corps de la requête :
 - suppression de la formule ouverte « sous réserve de tous autres à produire, déduire ou suppléer », afin de ne pas suggérer artificiellement la possibilité de moyens nouveaux hors délai.
 
 Règle maintenue : ces changements sont des corrections de forme et d'architecture ; aucune idée de fond ne doit être supprimée par simplification.
+
+
+### Synchronisation du contrat matériel après audit
+
+La matrice de matérialisation, le manifeste et le contrat juridictionnel local-only ont été réalignés sur l'audit matériel :
+- **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** : primaire et SHA-256 vérifiés ;
+- **P-14 — requêtes préfectorales n° 2601714 et 2601715 + bundles** : primaires localisés ;
+- **P-17 — note manuscrite recto-verso remise à l'audience** : scans primaires localisés ;
+- **P-18 — attestation CAF relative à Mme Laurence Vernerey** : primaire et SHA-256 verrouillés ;
+- **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** : scans P-20.a à P-20.g et transcription contrôlée retrouvés ;
+- **P-16 — mémoire en défense devant le Tribunal administratif** : reproduction candidate disponible, identité binaire avec l'exemplaire remis non indépendamment prouvée ;
+- **P-41 — annexe de déclarations publiques et commentaires de presse** : retirée du contrat juridictionnel initial et maintenue en réserve contextuelle.
+
+Le prochain blocage n'est plus la localisation de ces sources, mais la génération des PDF de production dans `.filing-materials/senatoriales-2026/` et leur contrôle terminal.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
