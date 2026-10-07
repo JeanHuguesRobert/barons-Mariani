@@ -1,0 +1,77 @@
+schema: ubikia.filing-package.v0
+id: senatoriales-2026-cc-public
+title: "Requête au Conseil constitutionnel — Sénatoriales Haute-Corse 2026 — édition publique expurgée"
+source_root: ../..
+source_clean_required: true
+distribution: public-redacted
+publication_status: "not ready — redacted derivatives required"
+
+artifact:
+  filename: requete-conseil-constitutionnel-haute-corse-2026-edition-publique-expurgee.pdf
+
+release:
+  repository: JeanHuguesRobert/barons-Mariani
+  tag: senatoriales-2026-cc-public-2026-10-07
+  title: "Édition publique expurgée — Sénatoriales Haute-Corse 2026 — 7 octobre 2026"
+  immutable_required: true
+
+sections:
+  - id: notice
+    title: Notice de publication
+    items:
+      - id: public-manifest
+        kind: markdown
+        path: research/senatoriales-2026/filing-package-manifest-2026-10-07.md
+        status: ready
+        label: "Notice — distinction entre paquet juridictionnel complet et édition publique expurgée"
+
+  - id: requete
+    title: Requête — édition publique expurgée
+    items:
+      - id: requete-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Requête — dérivé public expurgé à matérialiser"
+
+  - id: qpc
+    title: Questions prioritaires de constitutionnalité — édition publique expurgée
+    items:
+      - id: qpc-l299-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Mémoire QPC L.299 — dérivé public expurgé à matérialiser"
+      - id: qpc-l303-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Mémoire QPC L.303 — dérivé public expurgé à matérialiser"
+
+  - id: annexes
+    title: Annexes publiques expurgées
+    items:
+      - id: annexe-chronologie-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Chronologie — dérivé public expurgé à matérialiser"
+      - id: annexe-vues-tabellaires-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Vues tabulaires — dérivé public expurgé à matérialiser"
+      - id: bordereau-public
+        kind: markdown
+        path: null
+        status: to_materialize
+        label: "Bordereau public — liste des pièces publiées, occultées ou non reproduites"
+
+  - id: pieces
+    title: Pièces publiques
+    items:
+      - id: pieces-publiques
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "Recueil des seules pièces publiables ou correctement expurgées"
