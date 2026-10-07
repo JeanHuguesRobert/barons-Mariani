@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 last_modified_at: "2026-10-06"
-version: "0.1"
-status: "working-paper — preparatory"
+version: "0.2"
+status: "superseded — historical preparation retained"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/institut/preparation/rna-dossier-request-2026.md"
@@ -15,7 +15,7 @@ document_role: "operational"
 document_kind: "administrative-request-packet"
 document_function: "RNA dossier recovery before AGE"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "superseded"
 update_policy: "UP-DEFAULT-REVIEWED"
 human_validation_required: true
 related_documents:
@@ -36,6 +36,8 @@ review:
   status: "unreviewed"
   reviewed_by: []
 ---
+
+> **SUPERSEDED le 7 octobre 2026 pour la recherche d’une baseline statutaire.** Le Président confirme qu’aucune version autre que les statuts initiaux n’a été communiquée aux autorités. Il est donc inutile d’interroger le greffe pour rechercher d’hypothétiques statuts intermédiaires. Ce fichier est conservé comme trace du chemin d’enquête. Une future démarche RNA reste pertinente uniquement pour déclarer ou vérifier les changements effectivement adoptés.
 
 # C.O.R.S.I.C.A. — demande de dossier RNA 2026
 
