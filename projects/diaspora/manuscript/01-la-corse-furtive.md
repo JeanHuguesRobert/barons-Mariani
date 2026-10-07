@@ -145,15 +145,28 @@ personnes / descendants ailleurs
 Dossier source : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ### Troisième résultat du Probe 3 — Fantauzzi / Fournier-Sarlovèze
 
-La liste des « représentants » donnée par Meurgey en 1933 permet de suivre un rameau Fantauzzi devenu continental sans perdre toute continuité patrimoniale.
+La liste des « représentants » donnée par Meurgey en 1933 permet de suivre une **constellation alliée Fantauzzi** devenue continentale sans perdre toute continuité patrimoniale. La seconde lecture du Tableau I montre qu'Antoine et Jules Fantauzzi sont frères de Sophie Fantauzzi, épouse d'Albert Mariani : ils sont ici des collatéraux par alliance, pas des descendants Mariani.
 
 Janine Fantauzzi (1917–2002), fille de Jules Fantauzzi, épouse François Fournier-Sarlovèze. Une **SCEA Fantauzzi** est encore active dans l'Oise en 2026 ; sa documentation publique montre une transmission familiale et une gouvernance actuelle par des Fournier-Sarlovèze et Drach.
 
 La filiation exacte entre Janine et les dirigeants contemporains reste à fermer directement par l'acte notarié indexé. Le fait observable est néanmoins fort : **le nom Fantauzzi subsiste dans un outil économique agricole actif hors de Corse, plusieurs générations après la branche citée par Meurgey**.
 
-Ce cas ajoute à la « Corse furtive » une forme de furtivité économique : une capacité issue d'une généalogie corse peut continuer à produire des effets sans être visible comme capacité corse ni porter le patronyme Mariani.
+Ce cas ajoute à la « Corse furtive » une forme de furtivité économique : une capacité inscrite dans un **réseau familial et matrimonial corse** peut continuer à produire des effets hors de Corse sans être visible comme telle. Il ne doit pas être utilisé comme preuve de survie de la descendance Mariani.
 
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
+### Correctif du Probe 3 — descendance et réseau d'alliance
+
+Le dépouillement du Tableau I impose une nouvelle variable dans DIASPORA :
+
+```text
+descendance
+≠ alliance
+≠ réseau familial
+```
+
+La liste des « représentants » de Meurgey mélange ces catégories. Le graphe DIASPORA devra donc conserver le **type de relation** au lieu de transformer tout membre du réseau familial en descendant.
+
+Cette distinction est particulièrement importante pour l'étude des capacités distribuées : un beau-frère, un neveu par alliance ou une famille alliée peuvent participer à un même réseau de circulation de capital, de métiers ou de patrimoine sans partager la même descendance.
 ## Méthode : révéler sans inventer
 
 ~~~text
