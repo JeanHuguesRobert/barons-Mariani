@@ -1082,7 +1082,7 @@ Pour juger correctement, le tribunal devait recevoir le bon dossier.
 
 Le requérant cherche donc à savoir **ce qui a réellement circulé entre la préfecture et le tribunal**.
 
-L'enjeu est comparable à une chaîne de colis : il faut savoir ce qui a été mis dans le paquet, quand il a été envoyé et ce qui est arrivé.
+L'enjeu est simple : il faut pouvoir suivre le trajet des documents. Quels éléments la préfecture a-t-elle reçus ? À quel moment ? Qu'a-t-elle ensuite transmis au tribunal ? Et quels éléments sont finalement parvenus à la formation de jugement ?
 
 #### Expert — point juridique
 
