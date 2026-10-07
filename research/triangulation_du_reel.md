@@ -306,6 +306,35 @@ Un agent rationnel ne devrait pas seulement « chercher plusieurs sources ». Il
 
 Cette discipline complète la provenance, le versionnage, la contradiction, la revue externe et l'expérimentation réversible déjà présents dans le Corpus.
 
+### 8.1 Principe d'action directement utilisable
+
+Une information utile ne doit pas être livrée sous une forme qui oblige inutilement son destinataire à reconstruire l'action qu'elle permet.
+
+Lorsqu'un agent connaît déjà la ressource, le chemin, l'identifiant ou l'opération nécessaire, il doit fournir autant que possible **l'objet directement utilisable** plutôt qu'une référence intermédiaire.
+
+Exemples :
+
+- si un document doit être ouvert, fournir son lien cliquable ;
+- si un fichier doit être récupéré, fournir le fichier ou le lien de téléchargement disponible ;
+- si une commande doit être exécutée, fournir la commande prête à copier ;
+- si une ressource est identifiée par un numéro technique mais possède un nom intelligible, fournir les deux ;
+- si plusieurs étapes peuvent raisonnablement être condensées en une action directe sans perte de contrôle, préférer cette forme.
+
+Le principe ne consiste pas à masquer la provenance ou les détails techniques. Ceux-ci restent disponibles pour la vérification. Il consiste à ne pas transformer la connaissance technique de l'agent en charge cognitive supplémentaire pour l'humain.
+
+On peut le formuler ainsi :
+
+> **Quand l'action correcte est déjà connue, ne transmettre pas seulement la référence qui permet de la reconstruire ; transmettre directement la capacité d'agir.**
+
+Cette règle est une conséquence pratique de l'Autonomie de Capacité : une information formellement disponible n'est pas encore une capacité effective si son usage réclame des opérations intermédiaires inutiles.
+
+Elle rejoint également le principe d'effectivité : le bon critère n'est pas seulement « l'information a-t-elle été fournie ? », mais « le destinataire peut-il effectivement faire ce qu'il cherchait à faire avec un minimum de friction inutile ? »
+
+Le cas d'un lien GitHub est exemplaire. Fournir seulement un chemin interne comme `research/document.md` transmet une information exacte ; fournir l'URL directement cliquable transmet en plus la capacité immédiate d'ouvrir le document.
+
+Cette règle vaut pour les agents du Corpus, les interfaces, les documents opérationnels et les échanges avec un humain. Elle ne doit toutefois jamais supprimer une étape de contrôle lorsque cette étape protège une décision sensible, irréversible ou juridiquement engageante.
+
+
 ## 9. Formules canoniques
 
 > **Nous n'accédons au Réel que par des voies partielles et médiées. La robustesse d'une connaissance dépend moins du nombre apparent de sources que de la diversité, de l'indépendance et de la confrontabilité de leurs accès au phénomène observé.**
