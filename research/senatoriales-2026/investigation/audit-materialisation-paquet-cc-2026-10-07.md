@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.3"
+version: "0.4"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -168,21 +168,32 @@ Cette double présence établit la source du document et sa transmission au Trib
 
 ### P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification
 
-**Statut : SOURCE PRIMAIRE PAPIER À ISOLER ; CHAÎNE DE NOTIFICATION ÉTABLIE.**
+**Statut : SOURCE PRIMAIRE PHOTOGRAPHIÉE LOCALISÉE + CHAÎNE DE NOTIFICATION COMPLÈTE LOCALISÉE.**
 
-La recherche Gmail confirme qu'aucune expédition du jugement n'a été transmise comme pièce jointe dans la séquence retrouvée.
+La bibliothèque contient désormais la séquence matérielle complète du pli recommandé retiré le 25 septembre :
 
-Deux messages du greffe structurent la chaîne :
-- le **16 septembre 2026**, le greffe confirme que la décision a été rendue le lundi 14 septembre ;
-- le **21 septembre 2026**, le greffe indique que le pli contenant le jugement attend à La Poste **depuis le 17 septembre 2026** et invite M. Robert à le retirer.
+- avis de passage La Poste ;
+- enveloppe recommandée émise par le Tribunal administratif de Bastia ;
+- volet AR / preuve de distribution portant le même identifiant recommandé ;
+- lettre de notification signée du 14 septembre 2026 ;
+- page 1 du jugement n° 2601714–2601715 ;
+- page 2 du jugement ;
+- page 3 du jugement portant le dispositif et l'expédition conforme.
 
-La source primaire pertinente est donc l'expédition papier reçue par recommandé, et non une hypothétique copie jointe par courriel.
+Le jugement photographié comporte notamment :
+- audience du 14 septembre 2026 ;
+- décision du 14 septembre 2026 ;
+- jonction des requêtes n° 2601714 et 2601715 ;
+- référence aux observations écrites et orales de M. Robert ;
+- mention d'une note en délibéré enregistrée à 15 h 49 ;
+- motivation fondée sur L.299 ;
+- refus d'enregistrement de la candidature ;
+- notification à la préfète, à M. Robert et à Mme Vernerey ;
+- expédition conforme signée et tamponnée par le greffe.
 
-**Action restante :**
-- isoler ou rescanner l'expédition primaire du jugement retirée à La Poste ;
-- rattacher **P-20.a — chaîne postale et contexte matériel de notification** : avis de passage, enveloppe, cachets, retrait, page de notification et autres éléments utiles ;
-- vérifier les numéros de dossiers, pages, date de lecture et toute mention de notification ;
-- conserver séparément la photographie de l'avenue du Baron Mariani comme élément contextuel, sans lui attribuer de portée juridique autonome.
+La chaîne postale est cohérente avec les courriels du greffe : décision rendue le 14 septembre, pli en attente à La Poste depuis le 17 septembre, retrait documenté le 25 septembre.
+
+**Action restante :** assembler les photographies dans l'ordre sous **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification**, avec **P-20.a — chaîne postale et contexte matériel de notification** comme sous-ensemble documentaire.
 
 ### P-08 — traces du trajet du 11 septembre vers Bastia
 
@@ -260,11 +271,12 @@ Les principales sources électroniques sont localisées ; plusieurs pièces qui 
 
 Les véritables verrous matériels encore ouverts sont surtout :
 
-1. **P-20 — jugement TA + notification** : expédition primaire papier à isoler et sous-pièces à assembler ;
-2. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
-3. assemblage effectif du recueil **P-46** et du paquet final.
+1. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
+2. assemblage effectif du recueil **P-46** et du paquet final.
 
 **P-13 — vidéo commune** n'est plus un verrou de localisation ou d'intégrité : le MP4 primaire a été récupéré et son SHA-256 vérifié.
 
 **P-18 — attestation CAF relative à Mme Vernerey** n'est plus un verrou de localisation : le PDF primaire et sa chaîne de transmission au greffe sont établis.
+
+**P-20 — jugement TA + notification** n'est plus un verrou de localisation : les trois pages du jugement et la chaîne postale complète ont été retrouvées dans la bibliothèque ; il reste seulement à les assembler.
 
