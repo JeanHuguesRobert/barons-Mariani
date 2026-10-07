@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.15"
+version: "0.16"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -23,6 +23,9 @@ related:
   - "investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
   - "investigation/gmail-audit-requete-2026-09-10-2026-10-07.md"
   - "matrice-canaux-materiels-depot-2026-10-07.md"
+  - "note-depot-dematerialise-requete-cc-2026-10-07.md"
+  - "investigation/annexe-documentation-double-lecture-2026-10-07.md"
+  - "../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
@@ -89,6 +92,51 @@ TOUTE CHOSE INVOQUÉE
 
 Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au minimum : **numéro**, **intitulé bref**, **date**, **origine/provenance**, **description matérielle**, **fait(s) qu'elle établit ou éclaire**, **place dans le raisonnement**, **fichier(s) exact(s)**, **mode de production** (embarqué / annexe / lien externe), **URL vérifiée le cas échéant**, **SHA-256**, **statut de vérification**, **lisibilité**, **éventuelle transcription**, **éventuelle occultation/minimisation**, et **présence effective dans le paquet remis**.
 
+## Data plane / Control plane — application au dossier
+
+Cette requête applique explicitement une séparation ancienne et canonique du Corpus.
+
+### Data plane
+
+Le **data plane** contient ce qui est effectivement porté, transformé ou remis :
+- requête ;
+- annexes ;
+- chronologie ;
+- bordereau ;
+- pièces ;
+- fichiers natifs ;
+- preuves de réception ;
+- versions gelées.
+
+### Control plane
+
+Le **control plane** gouverne la construction, la sélection, la vérification et le gel :
+- présente checklist ;
+- protocole de constitution ;
+- audit Gmail ;
+- revue adverse ;
+- audit double lecture ;
+- règles de provenance / SHA ;
+- matrice des canaux de dépôt ;
+- règles de redondance ;
+- kill-switches.
+
+### Invariant FractaCognition
+
+Le control plane n'est pas une preuve du fond. Il réduit le risque de perdre, déformer, oublier ou surinterpréter les éléments du data plane.
+
+~~~text
+CONTROL PLANE
+→ sélectionne / contraint / vérifie / route / gèle
+
+DATA PLANE
+→ contient / transporte / matérialise / prouve
+~~~
+
+Une règle de contrôle qui ne produit aucun effet observable sur le data plane est suspecte de bureaucratie. Une donnée importante du data plane qui échappe au control plane est un risque de dossier.
+
+Références conceptuelles canoniques du Corpus : séparation control/data plane dans Inox/Cogentia et principe de localité / FractaCognition.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -121,6 +169,11 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 
 ## A. MUST BEFORE FILING
 
+- [ ] **Double lecture grand public / expert — MUST ABSOLU** — chaque grande section de la requête doit proposer deux niveaux cohérents : **GP** (explication complète en langage courant, contexte, finalité, moyens, intentions alléguées seulement si prouvées, chronologie) et **EXPERT** (règle, source, jurisprudence, pièce, qualification, objection adverse, conséquence). Les deux formulations doivent exprimer le même claim et les mêmes réserves. Audit courant : `../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md` = **non satisfait / bloquant**.
+- [ ] **Documentation annexée** — joindre `investigation/annexe-documentation-double-lecture-2026-10-07.md` comme couche pédagogique : glossaire, acteurs, carte de procédure, chronologie, explication L.298/L.299/L.303, article 34, preuve électronique, statuts probatoires, guide du bordereau, tableaux question→trace→réponse→UNKNOWN et solutions praticables.
+- [ ] **Complétude initiale maximale raisonnable** — privilégier un dossier initial aussi complet que possible, même long, dès lors que la longueur sert la compréhension, la preuve ou la préservation d’un grief. Raison juridique : les griefs nouveaux après le délai de l’article 33 peuvent être irrecevables ; l’article 35 ne prévoit qu’une faculté exceptionnelle de compléter certaines pièces. La longueur doit être structurée pour ne pas masquer le noyau contentieux.
+- [ ] **Narration juridiquement contrôlée** — la requête doit expliquer non seulement « quoi », mais aussi le contexte, la finalité recherchée, les moyens employés, les contraintes et les réponses institutionnelles. Toute intention attribuée à un tiers doit être sourcée ou reformulée en fait observable / hypothèse.
+- [ ] **Audit double lecture section par section** — fermer toutes les lignes de l’audit v0.19 : Premier écran, recevabilité, résumé, chronologie, formalités, solutions praticables, griefs 1–5, temporalité, conclusions, bordereau/matérialisation. Ne pas considérer une introduction générale comme suffisante.
 - [ ] **Mode d'emploi de constitution de la requête** — appliquer avant toute promotion de version le protocole `protocole-constitution-requete-cc-2026-10-07.md` : synchroniser requête, chronologie, bordereau, inventaire, Gmail, sources juridiques, contradictions et revue « motifs de rejet ». Aucun de ces objets ne doit diverger silencieusement.
 - [ ] **Annexe chronologique détaillée** — joindre au paquet la chronologie `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`, ordonnée jour par jour puis heure croissante, du premier courriel à la préfecture du **10 septembre à 17:01:56** jusqu'au dépôt effectif ; chaque acte matériel doit pointer vers sa pièce ou sa source et chaque UNKNOWN doit rester explicite.
 - [ ] **Audit Gmail exhaustif avant gel** — exécuter puis fermer le registre `investigation/gmail-audit-requete-2026-09-10-2026-10-07.md`. Toute trace potentiellement pertinente doit recevoir une disposition **INCLUDE / RÉSERVE / EXCLURE + motif / REVIEW** ; tout INCLUDE doit être mappé à une pièce ou à une annexe. Rechercher envoyés et reçus, par domaines/adresses, dates, fils et mots-clefs ; ne pas se limiter aux objets déjà connus.
@@ -140,7 +193,11 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Préfecture Bastia — sécuriser l’accès pratique** — l’accueil public ordinaire publié est 8 h 30–11 h 30 et 13 h 30–15 h 30, sur rendez-vous. Confirmer dès l’ouverture le service concret receveur, l’accès et la possibilité d’obtenir récépissé/cachet avec heure ; viser une remise très antérieure à 15 h 30, sans organiser le dépôt autour de 18 h.
 - [ ] **Conseil constitutionnel — remise directe à Paris** — confirmer dès l’ouverture les modalités pratiques de réception d’une requête électorale au secrétariat général, 2 rue de Montpensier, et, si une personne/coursier est mobilisable à Paris, lui transmettre un exemplaire strictement identique avec instruction d’obtenir une preuve de remise datée et horodatée.
 - [ ] **Sous-préfecture de Corte — ne pas présumer l’habilitation** — aucune source examinée ne suffit à établir qu’une remise à la sous-préfecture vaut à elle seule saisine du « représentant de l’État » au sens de l’article 34. Ne compter cette voie qu’après confirmation explicite qu’elle reçoit la requête pour le compte du représentant de l’État ; sinon la traiter comme tentative/trace complémentaire.
-- [ ] **Courriel / télécopie — copie de traçabilité seulement** — sauf confirmation institutionnelle expresse d’un mode de saisine électronique, ne jamais utiliser courriel ou fax comme seul dépôt. Une copie numérique peut être envoyée parallèlement ou après la remise matérielle, clairement étiquetée comme copie de traçabilité ne se substituant pas au dépôt article 34.
+- [ ] **Dépôt dématérialisé — article 34 + CRPA** — mobiliser une voie électronique vers le représentant de l’État comme **redondance juridiquement argumentée** : l’article 34 exige une « requête écrite adressée » sans imposer le papier ; les articles L.112-8, L.112-9 et R.112-9-2 CRPA organisent en principe la saisine électronique d’une administration, et L.112-11 / R.112-11-1 l’accusé électronique. Vérifier l’absence d’exclusion spécifique et les modalités du téléservice applicable. Tant qu’aucune confirmation explicite ne ferme ce point, **ne pas en faire l’unique canal**.
+- [ ] **SVE / canal électronique officiel de la préfecture** — identifier et utiliser, si matériellement possible avant l’échéance, le téléservice officiel « Saisir l’administration par voie électronique » ou tout canal institutionnel prévu pour les services de l’État ; fournir identité complète, objet explicite « REQUÊTE ARTICLE 34 », paquet canonique figé, manifeste SHA, et demander un accusé indiquant date de réception et service.
+- [ ] **Courriels institutionnels redondants** — envoyer le même paquet figé aux boîtes institutionnelles déjà actives dans le dossier si les limites de taille le permettent ; conserver EML/MIME, DSN, accusés automatiques et humains. Si le paquet est trop volumineux, documenter le mécanisme de transfert et son empreinte. Ne jamais confondre preuve d’envoi et preuve de réception.
+- [ ] **Conseil constitutionnel — voie électronique directe à confirmer** — rechercher/obtenir confirmation du secrétariat général sur l’existence d’une adresse ou téléprocédure acceptant une requête électorale dématérialisée. En l’absence de confirmation, qualifier tout envoi électronique direct comme tentative/copie de traçabilité et maintenir les autres voies.
+- [ ] **Doctrine de support** — documenter explicitement que le choix du dématérialisé vise l’intégrité et la traçabilité : fichiers gelés, SHA-256, horodatage, manifeste, conservation des natifs et preuves de réception. Ne jamais soutenir que « numérique = valide » par nature ; soutenir seulement que le numérique permet une chaîne de preuve plus fine lorsqu’il est admis par le canal juridique.
 - [ ] **P-45 — silence administratif sur les modalités de dépôt** — produire **intégralement** dans le dossier les quatre courriels P-45.a à P-45.d : 26/09 demande au Bureau des élections ; 28/09 demande directe à la Sous-préfecture de Corte ; 01/10 consolidation avec Sous-préfecture en copie ; 02/10 relance numérotée P1–P18 avec P11/P12. L'index public `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md` ne remplace pas les messages natifs.
 - [ ] **P-45 — intégralité et authenticité des courriels** — pour chaque sous-pièce, joindre une représentation lisible du message **complet**, avec date/heure, objet, destinataires/copies et en-têtes utiles ; conserver si possible l'export natif EML/RFC822 ; calculer le SHA-256 du fichier effectivement produit ; vérifier que le sous-identifiant P-45.x du bordereau correspond exactement au fichier annexé.
 - [x] **P-45 — borne probatoire du silence** — recherche Gmail ciblée vérifiée : le fil du 26/09 et celui du 28/09 ne contiennent chacun qu'un message sortant ; aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture de Corte n'a été retrouvée entre le 28/09 et le 07/10. Ne pas écrire « l'État n'a jamais répondu » : P-28 établit une réponse sur la consultation des pièces. La proposition documentée est plus étroite : **aucune réponse substantielle retrouvée sur la modalité de dépôt article 34 malgré les demandes et relances identifiées**.
@@ -476,3 +533,22 @@ Deux contrôles deviennent MUST BEFORE FILING :
 2. **chronologie détaillée annexée** : jour par jour, heure croissante, depuis le premier courriel à la préfecture du 10 septembre à 17:01:56 jusqu'au dépôt effectif.
 
 Un registre d'audit Gmail différentiel est créé pour éviter qu'un message matériel reste hors du dossier. Les messages pertinents ne sont pas automatiquement tous produits : chacun doit être classé INCLUDE / RÉSERVE / EXCLURE avec motif / REVIEW.
+
+
+## UPDATE — 7 octobre 2026 — control/data plane, dématérialisation et double lecture
+
+Le dossier est désormais explicitement structuré en deux plans :
+
+~~~text
+CONTROL PLANE = checklist / protocoles / audits / règles de gel / routage
+DATA PLANE    = requête / annexes / pièces / fichiers / preuves / remises
+~~~
+
+Cette séparation est une application directe de la tradition control/data plane du Corpus et de FractaCognition.
+
+Trois nouveaux MUST :
+1. **dépôt dématérialisé redondant**, fondé sur l’art. 34 et étudié à la lumière du CRPA L.112-8 et suivants, sans en faire l’unique voie tant que l’applicabilité spéciale n’est pas confirmée ;
+2. **double lecture grand public / expert dans chaque grande section** ;
+3. **complétude initiale maximale raisonnable**, car les griefs nouveaux tardifs sont exposés à l’irrecevabilité et l’art. 35 ne garantit aucun complément général après délai.
+
+L’audit de la v0.19 conclut que la double lecture n’est **pas encore satisfaite partout** : point bloquant avant gel.
