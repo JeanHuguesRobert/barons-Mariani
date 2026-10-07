@@ -45,6 +45,7 @@ source_documents:
   - "research/senatoriales-2026/investigation/contre_cela_naurait_rien_change_2026-10-02.md"
   - "research/senatoriales-2026/investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
+  - "research/senatoriales-2026/investigation/preservation-cedh-2026-10-07.md"
   - "research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md"
   - "research/senatoriales-2026/investigation/evolution-reponses-interlocuteurs-etatiques-2026-09-15-2026-10-07.md"
   - "research/traceabilite_des_actes.md"
@@ -1226,6 +1227,20 @@ Chaque voie possède son objet, sa qualité pour agir, son délai et son remède
 La requête les articule sans fusion.
 
 Le recours électoral initial doit donc rester autonome et complet.
+
+### Préservation des griefs conventionnels
+
+Sans demander au Conseil constitutionnel de statuer comme juge de la Convention européenne des droits de l'homme, le requérant entend soumettre dès la présente instance, **au moins en substance**, les griefs conventionnels qu'il pourrait être conduit à porter ultérieurement devant la Cour européenne des droits de l'homme si la décision nationale définitive ne les redresse pas.
+
+Le premier grief relève de l'**article 3 du Protocole n° 1 à la Convention**, qui protège le droit de se porter candidat aux élections du corps législatif. Le requérant soutient que ce droit doit rester concret et effectif et que les conditions de candidature ne peuvent, par leur interprétation ou leur mise en œuvre, produire une exclusion arbitraire ou disproportionnée. Il rattache à ce grief le formalisme appliqué à la candidature, l'exigence alléguée d'un support matériel original, l'absence alléguée de solution praticable proposée au candidat physiquement présent, le traitement des formalités imposées à sa remplaçante malgré l'empêchement fonctionnel lié au handicap, ainsi que l'effet irréversible de l'exclusion avant le scrutin.
+
+Le deuxième grief relève de l'**article 13 de la Convention combiné avec l'article 3 du Protocole n° 1**. Le requérant soutient que la protection juridictionnelle d'un droit électoral doit être réellement capable d'examiner et, autant que possible, de redresser l'atteinte. Il invoque à ce titre le délai de jugement prévu par l'article L.303, l'étendue de l'examen effectivement accompli, l'accès aux pièces nécessaires à la contestation, le caractère différé du contrôle du Conseil constitutionnel et la question de savoir si un remède intervenant après le scrutin peut réparer suffisamment une éviction déjà consommée.
+
+Le troisième grief relève de l'**article 14 de la Convention combiné avec l'article 3 du Protocole n° 1**, dans la mesure où le traitement d'une formalité apparemment générale peut produire un désavantage particulier lié au handicap. Dans la présente requête, ce grief est invoqué par M. Robert en tant que le traitement des formalités imposées à sa remplaçante a eu pour effet direct d'empêcher sa propre candidature. La question d'un grief conventionnel personnel propre à Mme Laurence Vernerey demeure distincte et dépend de sa propre qualité de victime et de l'épuisement des voies internes la concernant.
+
+Le requérant demande ainsi au Conseil de se prononcer sur les faits, les garanties procédurales et les moyens nationaux correspondants de manière à donner à l'État français la possibilité de prévenir ou redresser ces atteintes avant toute éventuelle saisine internationale.
+
+
 
 Les annexes consacrées à l'architecture des recours et aux remèdes cartographient séparément l'après-décision, les remèdes et les voies parallèles.
 
