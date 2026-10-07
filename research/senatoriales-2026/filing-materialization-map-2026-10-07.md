@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "active — pre-filing materialization control"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -23,7 +23,7 @@ provenance:
     - "research/senatoriales-2026/filing-package-2026-10-07.yml"
     - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel.md"
 review:
-  status: "unreviewed"
+  status: "reviewed — synchronized with materialization audit 2026-10-07"
   reviewed_by: []
 ---
 
@@ -72,18 +72,18 @@ Elle ne signifie pas encore : **PDF final produit, occulté, paginé et validé*
 | P-06 | `.filing-materials/senatoriales-2026/P-06.pdf` | Gmail `1a08c7eb62cc13ec` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-07 | `.filing-materials/senatoriales-2026/P-07.pdf` | Gmail `1a08f1a2d612bb08` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-08 | `.filing-materials/senatoriales-2026/P-08.pdf` | photos / chronologie du trajet du 11 septembre | MANUEL/PRIVÉ / COMPOSITE | source photographique à localiser et sélectionner |
-| P-09 | `.filing-materials/senatoriales-2026/P-09.pdf` | reçu provisoire PREF-13 | AUTO-ATTACH ou MANUEL/PRIVÉ | scan exact à isoler |
+| P-09 | `.filing-materials/senatoriales-2026/P-09.pdf` | PREF-13 inclus dans le bundle primaire P-14 | AUTO-ATTACH / COMPOSITE | source primaire localisée ; sous-document à extraire et contrôler contre la transcription |
 | P-10 | `.filing-materials/senatoriales-2026/P-10.pdf` | Gmail `1a0906430ac3adee` + 2 PDF joints | COMPOSITE / AUTO-GMAIL / AUTO-ATTACH | message et deux pièces jointes vérifiés |
 | P-11 | `.filing-materials/senatoriales-2026/P-11.pdf` | Gmail `1a090d1926fe460b` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-12 | `.filing-materials/senatoriales-2026/P-12.pdf` | Gmail `1a0913095d550884` | AUTO-GMAIL | source vérifiée ; PDF à produire |
-| P-13 | `.filing-materials/senatoriales-2026/P-13.pdf` | vidéo commune du 11 septembre | SPÉCIAL / MANUEL/PRIVÉ | **blocage de type** : produire une fiche PDF avec identité, SHA-256, transcription et mode d'accès ; conserver la vidéo native séparément |
-| P-14 | `.filing-materials/senatoriales-2026/P-14.pdf` | PDF originaux des requêtes 2601714/2601715 reçus via France Transfert | COMPOSITE / MANUEL-LOCAL | originaux à localiser ; emails France Transfert vérifiés |
+| P-13 | `.filing-materials/senatoriales-2026/P-13.pdf` | fichier primaire Google Drive `VID_20260911_174455.mp4` | SPÉCIAL / SOURCE PRIMAIRE VÉRIFIÉE | primaire récupéré : 79 663 474 octets ; SHA-256 `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`, concordant avec la fiche d'intégrité ; fiche PDF de représentation encore à produire |
+| P-14 | `.filing-materials/senatoriales-2026/P-14.pdf` | PDF originaux des requêtes 2601714/2601715 reçus via France Transfert | COMPOSITE / SOURCE PRIMAIRE LOCALISÉE | deux bundles primaires retrouvés dans la bibliothèque ; retenir les copies canoniques et assembler |
 | P-15 | `.filing-materials/senatoriales-2026/P-15.pdf` | Gmail `1a09fd25895322fe` | AUTO-GMAIL | source vérifiée ; PDF à produire |
-| P-16 | `.filing-materials/senatoriales-2026/P-16.pdf` | [dossier TA Bastia](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/dossier-ta-bastia-2026-09-14.md) | AUTO-CORPUS / COMPOSITE | contenu source disponible ; vérifier représentation exacte remise au TA |
-| P-17 | `.filing-materials/senatoriales-2026/P-17.pdf` | note manuscrite recto-verso + transcription | MANUEL/PRIVÉ / COMPOSITE | scans exacts à localiser |
-| P-18 | `.filing-materials/senatoriales-2026/P-18.pdf` | Gmail `1a0a02d3fbcb466c`, pièce jointe `1789382961469-cnaf.pdf` | AUTO-ATTACH / SENSIBLE | pièce jointe vérifiée ; produire version minimisée/occultée |
+| P-16 | `.filing-materials/senatoriales-2026/P-16.pdf` | PDF candidat `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` + traces TA | COMPOSITE / REPRODUCTION CANDIDATE | PDF matérialisé, 55 546 octets, SHA-256 `d9e2b1672df34526c884b6ef10af01e46ef9d4ee21c925eeb6811d3d4ddcb60a` ; le jugement établit des observations écrites et orales, mais l'identité binaire exacte avec l'exemplaire remis n'est pas indépendamment prouvée |
+| P-17 | `.filing-materials/senatoriales-2026/P-17.pdf` | deux JPG primaires + transcription contrôlée | COMPOSITE / SOURCE PRIMAIRE LOCALISÉE | images primaires retrouvées ; assembler recto-verso + transcription sans confondre original et dérivé |
+| P-18 | `.filing-materials/senatoriales-2026/P-18.pdf` | Gmail `1a0a02d3fbcb466c`, pièce jointe `1789382961469-cnaf.pdf` | AUTO-ATTACH / SENSIBLE | primaire verrouillé : 94 775 octets, SHA-256 `308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2` ; produire version minimisée/occultée |
 | P-19 | `.filing-materials/senatoriales-2026/P-19.pdf` | Gmail `1a0a02d3fbcb466c` + éléments d'enregistrement | COMPOSITE / AUTO-GMAIL | message vérifié ; compléter avec preuve d'enregistrement utile |
-| P-20 | `.filing-materials/senatoriales-2026/P-20.pdf` | jugement TA + notification LRAR + documents postaux + photographie contextuelle | COMPOSITE / MANUEL-LOCAL | plusieurs originaux/scans à localiser |
+| P-20 | `.filing-materials/senatoriales-2026/P-20.pdf` | [transcription contrôlée et index des scans primaires](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/p20-jugement-ta-bastia-notification-transcription-2026-09-25.md) | COMPOSITE / SOURCES PRIMAIRES LOCALISÉES | P-20.a à P-20.g identifiés : avis de passage, AR/pli, contexte toponymique, lettre de notification et trois pages du jugement ; assemblage PDF restant |
 | P-22 | `.filing-materials/senatoriales-2026/P-22.pdf` | Gmail `1a0d913e4ba70b29` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-26 | `.filing-materials/senatoriales-2026/P-26.pdf` | Gmail `1a0e2a9480a91dfa` + `1a0e6fe59ed9e8f1` | COMPOSITE / AUTO-GMAIL | sources vérifiées ; PDF à produire |
 | P-27 | `.filing-materials/senatoriales-2026/P-27.pdf` | [résultats officiels](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md) + source officielle | AUTO-CORPUS / COMPOSITE | données structurées présentes ; copie source officielle à privilégier |
@@ -95,7 +95,7 @@ Elle ne signifie pas encore : **PDF final produit, occulté, paginé et validé*
 | P-33 | `.filing-materials/senatoriales-2026/P-33.pdf` | Gmail `1a0f799394da9a39` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-39 | `.filing-materials/senatoriales-2026/P-39.pdf` | [constat RP-SEN-08-C](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md) + photographies primaires | COMPOSITE / AUTO-CORPUS / MANUEL-LOCAL | constat disponible ; images primaires à incorporer/contrôler |
 | P-40 | `.filing-materials/senatoriales-2026/P-40.pdf` | [index bulletin/enveloppe](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md) + photographies | COMPOSITE / AUTO-CORPUS / MANUEL-LOCAL | index disponible ; fichiers image primaires à localiser |
-| P-41 | `.filing-materials/senatoriales-2026/P-41.pdf` | [annexe presse](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md) | AUTO-CORPUS | source disponible ; vérifier sources externes avant rendu |
+| P-41 | — | annexe presse | RÉSERVE | non prioritaire et non prévue dans le paquet initial ; ne réintégrer que par arbitrage explicite |
 | P-43.a | `.filing-materials/senatoriales-2026/P-43.a.pdf` | Gmail `1a08ae5f35fd72f0` | AUTO-GMAIL / SENSIBLE | source vérifiée ; occultation des données non nécessaires |
 | P-43.b | `.filing-materials/senatoriales-2026/P-43.b.pdf` | Gmail `1a0914a4db8cf48b` | AUTO-GMAIL / SENSIBLE | source vérifiée ; occultation des données non nécessaires |
 | P-44 | `.filing-materials/senatoriales-2026/P-44.pdf` | [index France Transfert](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/france-transfert-ta-requetes-2026-09-11.md) + Gmail `1a0915c87f89b632` / `1a0915c86f65c427` | COMPOSITE / AUTO-GMAIL | deux messages vérifiés ; secrets techniques à occulter |
