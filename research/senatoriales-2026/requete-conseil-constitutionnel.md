@@ -465,7 +465,7 @@ La chronologie distingue :
 - fait établi ;
 - fait rapporté ;
 - inférence ;
-- UNKNOWN (inconnu).
+- inconnu.
 
 Elle est annexée sous forme détaillée.
 
@@ -545,12 +545,12 @@ Les actes postérieurs ne réparent pas rétroactivement le dossier antérieur. 
 * **21 septembre 2026** : le greffe invite le requérant à retirer le jugement envoyé par voie postale, indique que le jugement répond à ses interrogations et précise rester à sa disposition si des questions subsistent après lecture (**P-31 — réponse du greffe du 21 septembre invitant à lire le jugement**).
 * **25 septembre 2026 à 16 h 50 min 46 s** : après retrait et lecture du jugement, le requérant réduit ses demandes à six questions matérielles résiduelles (**P-32 — six questions matérielles résiduelles adressées au greffe le 25 septembre**).
 * **25 septembre 2026 à 16 h 59 min 13 s** : demande distincte à la préfecture portant sur les traces du courriel de 17 h 57 min 55 s, les demandes d'originaux et les transmissions au TA, avec demande de conservation des journaux techniques encore existants (**P-22 — demande du 25 septembre de conservation et communication des traces préfectorales**).
-* **26 septembre 2026** : demande au Bureau des élections sur la modalité matérielle d'une éventuelle saisine du représentant de l'État au titre de l'article 34 ; le fil Gmail vérifié ne contient aucune réponse (**P-45.a**).
+* **26 septembre 2026** : demande au Bureau des élections sur la modalité matérielle d'une éventuelle saisine du représentant de l'État au titre de l'article 34 ; le fil Gmail vérifié ne contient aucune réponse (**P-45.a — demande du 26 septembre au Bureau des élections sur les modalités de dépôt au titre de l’article 34**).
 * **27 septembre 2026** : scrutin sénatorial et proclamation des résultats officiels : **98,4 % du collège a voté (606 sur 616)** ; **5,8 %** de bulletins blancs (36) ; **6,5 %** de bulletins nuls (40) ; **86,0 %** de suffrages exprimés (530) ; **71,8 %** pour M. Parigi (442 voix) ; **14,3 %** pour M. Battini (88 voix) (**P-27 — résultats officiels du scrutin du 27 septembre 2026**).
 * **28 septembre 2026** : demande à la préfecture de consultation et de transmission des procès-verbaux et pièces électorales disponibles dans le délai organique (**P-26 — demande du 28 septembre de communication du procès-verbal et des pièces électorales**).
-* **28 septembre 2026** : demande directe à la Sous-préfecture de Corte afin de savoir si elle peut recevoir une requête pour le compte du représentant de l'État, selon quel canal, jusqu'à quelle heure et avec quelle preuve de réception ; le fil Gmail vérifié ne contient aucune réponse et aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture n'a été retrouvée dans la recherche ciblée au 7 octobre (**P-45.b**).
-* **1er octobre 2026** : la Sous-préfecture de Corte est mise en copie d'un courriel de consolidation rappelant notamment que la modalité concrète de saisine reste sans réponse suffisante (**P-45.c**).
-* **2 octobre 2026** : nouvelle relance numérotée P1–P18 avec la Sous-préfecture en copie ; P11 redemande la modalité et l'heure limite pratique de remise, P12 l'état des demandes des 26 et 28 septembre (**P-45.d**).
+* **28 septembre 2026** : demande directe à la Sous-préfecture de Corte afin de savoir si elle peut recevoir une requête pour le compte du représentant de l'État, selon quel canal, jusqu'à quelle heure et avec quelle preuve de réception ; le fil Gmail vérifié ne contient aucune réponse et aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture n'a été retrouvée dans la recherche ciblée au 7 octobre (**P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d’une requête au titre de l’article 34**).
+* **1er octobre 2026** : la Sous-préfecture de Corte est mise en copie d'un courriel de consolidation rappelant notamment que la modalité concrète de saisine reste sans réponse suffisante (**P-45.c — consolidation du 1er octobre avec la Sous-préfecture de Corte en copie**).
+* **2 octobre 2026** : nouvelle relance numérotée P1–P18 avec la Sous-préfecture en copie ; P11 redemande la modalité et l'heure limite pratique de remise, P12 l'état des demandes des 26 et 28 septembre (**P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt**).
 * **30 septembre 2026 à 08 h 16 min 30 s** : le chef du Bureau des élections confirme la possibilité de consulter les pièces et propose un rendez-vous le 1er octobre à 14 h ; la demande de transmission dématérialisée n'est pas explicitement tranchée (**P-28 — proposition de consultation des pièces électorales**).
 * **1er octobre 2026 à 15 h 13 min 26 s** : la greffière en chef du TA refuse de donner suite aux six questions résiduelles, les rattachant globalement à des éléments de procédure et au jugement et indiquant que le greffe n'a pas vocation à apporter des « explications ou commentaires complémentaires ». Elle invite simultanément le requérant à saisir le Conseil constitutionnel et cite l'article L.292 du code électoral (**P-33 — réponse de la greffière en chef du 1er octobre**).
 * **1er octobre 2026** : le requérant consolide parallèlement auprès de la préfecture cinq questions relatives à la réception et à la transmission du courriel/vidéo du 11 septembre et rappelle l'échéance contentieuse du 7 octobre à 18 h (**P-34 — courriel consolidé du 1er octobre à la préfecture**).
@@ -589,7 +589,7 @@ Le requérant distingue deux éléments :
 1. **l'orientation substantielle** — saisir le Conseil constitutionnel — est cohérente avec l'article L.303 et est suivie par la présente requête ;
 2. **la référence textuelle L.292** paraît, sous réserve de correction, viser un autre contentieux, relatif au tableau des électeurs sénatoriaux et à l'élection des délégués et suppléants communaux.
 
-Le présent grief ne soutient pas qu'un silence, une réponse générique ou un refus de communication prouve à lui seul l'irrégularité initiale. Il soutient plus étroitement que, si **La requête préfectorale et son inventaire initial des pièces (P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces) établissent l'inventaire initial des seize pièces préfectorales**, plusieurs faits matériels susceptibles d'éclairer la contestation restent **UNKNOWN (inconnus) / non communiqués** : éventuelles productions ultérieures, identification de « Réception d'une lettre », heure de mise à disposition, trace d'audience, identité du greffier d'audience et modalités d'accès à la minute.
+Le présent grief ne soutient pas qu'un silence, une réponse générique ou un refus de communication prouve à lui seul l'irrégularité initiale. Il soutient plus étroitement que, si **La requête préfectorale et son inventaire initial des pièces (P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces) établissent l'inventaire initial des seize pièces préfectorales**, plusieurs faits matériels susceptibles d'éclairer la contestation restent **inconnus / non communiqués** : éventuelles productions ultérieures, identification de « Réception d'une lettre », heure de mise à disposition, trace d'audience, identité du greffier d'audience et modalités d'accès à la minute.
 
 La même difficulté concerne le recours lui-même.
 
@@ -611,7 +611,7 @@ La Sous-préfecture était en copie.
 
 Le courriel du 2 octobre les identifie expressément comme demandes P11 et P12.
 
-Au 7 octobre, aucune réponse substantielle retrouvée ne ferme ces questions (**P-45.a à P-45.d**).
+Au 7 octobre, aucune réponse substantielle retrouvée ne ferme ces questions (**P-45 — demandes et relances sur les modalités pratiques de remise du recours, sous-pièces P-45.a à P-45.d**).
 
 La préfecture a continué à répondre sur plusieurs objets, notamment le 30 septembre lorsqu'elle a proposé la consultation des pièces électorales (**P-28 — proposition de consultation des pièces électorales**). En revanche, les questions portant directement sur la manière de remettre la requête au représentant de l'État, sur le canal à utiliser, l'heure limite pratique et la preuve de réception sont restées sans réponse substantielle retrouvée avant l'échéance.
 
@@ -757,7 +757,7 @@ Ce test ne transforme pas une solution possible en obligation juridique.
 
 Il sert à apprécier la proportionnalité fonctionnelle et l'effectivité de l'accès à la candidature.
 
-La présente version distingue, pour chaque difficulté, **ce qui était matériellement possible avant 18 heures**, ce qui a effectivement été demandé ou retenu par l'administration, et l'effet qu'aurait produit une demande précise de régularisation.
+La requête distingue, pour chaque difficulté, **ce qui était matériellement possible avant 18 heures**, ce qui a effectivement été demandé ou retenu par l'administration, et l'effet qu'aurait produit une demande précise de régularisation.
 
 Plusieurs solutions étaient matériellement envisageables avant 18 heures.
 
@@ -1418,7 +1418,7 @@ L'annexe chronologique et l'annexe documentation sont des aides de lecture.
 
 Elles ne remplacent pas les sources primaires.
 
-Le **bordereau procédural autonome** de la présente version est :
+Le **bordereau procédural autonome** joint à la requête est :
 
 le **bordereau de pièces de la requête**
 
@@ -1430,7 +1430,7 @@ Cette séparation est volontaire :
 - l'**inventaire probatoire** conserve un champ plus large, incluant contexte, traces privées, éléments à occulter et objets qui peuvent rester en réserve ;
 - la **requête** ne doit présenter comme « pièce produite » qu'un document effectivement joint ou remis selon le canal de saisine retenu.
 
-Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au soutien des moyens doivent être annexées à la requête ; le Conseil peut exceptionnellement accorder un délai pour une partie d'entre elles. La présente version privilégie donc un dossier initial autonome et lisible, sans faire dépendre la compréhension du Conseil d'un lien GitHub ou d'une ressource web.
+Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au soutien des moyens doivent être annexées à la requête ; le Conseil peut exceptionnellement accorder un délai pour une partie d'entre elles. La requête privilégie donc un dossier initial autonome et lisible, sans faire dépendre la compréhension du Conseil d'un lien GitHub ou d'une ressource web.
 
 ### Sous-inventaire P-14 — ensemble initial de fichiers de la saisine préfectorale
 
