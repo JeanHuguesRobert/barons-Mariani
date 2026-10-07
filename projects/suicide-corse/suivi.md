@@ -28,6 +28,35 @@ review:
 
 # Suivi du numéro 4
 
+## 7 octobre 2026 — v0.30 canonique et effectivité opérationnelle
+
+La requête courante est désormais la **v0.30**, portée par le chemin stable [research/senatoriales-2026/requete-conseil-constitutionnel.md](../../research/senatoriales-2026/requete-conseil-constitutionnel.md). Son statut reste **non déposé** tant qu'aucune preuve effective de remise ou d'enregistrement n'est acquise.
+
+Le n°4 abandonne donc le suivi par noms de fichiers versionnés pour cette source et suit désormais le **chemin canonique + version de frontmatter**. Le paquet de dépôt, les QPC distinctes L.299/L.303 et le workflow de REVIEW ont été resynchronisés sur cette architecture.
+
+Cette convergence affine aussi le concept d'effectivité employé par *Suicide Corse* :
+
+> **Rendre capable, ce n'est pas seulement ouvrir une possibilité : il faut qu'elle soit accessible, gouvernable, utilisable à temps, observable dans ses effets et corrigible lorsqu'elle s'écarte de sa finalité.**
+
+Le cas des remèdes électoraux fournit un Reality Case particulièrement net :
+
+~~~text
+remède existant
+≠ remède accessible dans ce cas
+≠ remède maîtrisable dans ses règles et dépendances
+≠ remède utile dans le temps
+≠ capacité effectivement restaurée
+~~~
+
+L'Effectivity Interaction Matrix fournit désormais une surface structurée pour observer ces transitions sans confondre silence et refus, routage et décision, preuve disponible aujourd'hui et preuve disponible au moment pertinent.
+
+Sources :
+- [requête canonique v0.30](../../research/senatoriales-2026/requete-conseil-constitutionnel.md)
+- [Effectivity Interaction Matrix](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md)
+- [EIM — remedial probe](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_examples/2026-10-06-moyens-finalites-remedial-probe.yaml)
+- [manifeste du paquet de dépôt](../../research/senatoriales-2026/filing-package-manifest-2026-10-07.md)
+
+
 ## 7 octobre 2026 — v0.19, chronologie annexée et audit Gmail
 
 La requête courante est désormais **v0.19**. Le bordereau courant reste **v0.10** et le statut **non déposé**.
