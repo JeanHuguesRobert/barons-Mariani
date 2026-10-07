@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.5"
+version: "0.6"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -96,16 +96,24 @@ Le récépissé n'est donc pas seulement connu par transcription : il est inclus
 
 ### P-16 — mémoire en défense devant le Tribunal administratif
 
-**Statut : REPRÉSENTATION LISIBLE DISPONIBLE, IDENTITÉ DE LA VERSION DÉPOSÉE À VERROUILLER.**
+**Statut : REPRODUCTION CANDIDATE MATÉRIALISÉE ; IDENTITÉ BINAIRE DE L'EXEMPLAIRE DÉPOSÉ NON INDÉPENDAMMENT PROUVÉE.**
 
-La bibliothèque contient notamment :
+Le PDF candidat a été matérialisé :
 
-- `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` ;
-- plusieurs versions de travail Markdown V3/V4/V5/V6.
+`observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf`
 
-Le PDF `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` constitue le meilleur candidat matériel.
+Données :
+- taille : **55 546 octets** ;
+- SHA-256 : `d9e2b1672df34526c884b6ef10af01e46ef9d4ee21c925eeb6811d3d4ddcb60a`.
 
-**Action restante :** vérifier que ce PDF est bien le document effectivement transmis au Tribunal administratif, et non seulement une version préparée ; produire celui qui correspond à la trace de dépôt.
+Le document est cohérent avec la défense préparée le 14 septembre.
+
+La requête stable indique que M. Robert a déposé son mémoire en défense à l'audience. Le jugement confirme qu'il a présenté des **observations écrites et orales**. Sagace montre également une production écrite le 14 septembre. En revanche :
+- aucun envoi électronique de ce PDF au greffe n'a été retrouvé ;
+- l'entrée Sagace « Réception d'une lettre » n'est pas rattachée avec certitude à ce PDF plutôt qu'à P-17 ;
+- aucune trace indépendante ne permet d'affirmer que ce binaire précis est exactement l'exemplaire matériel remis.
+
+**Règle de production :** si ce PDF est joint comme P-16, le présenter comme la reproduction du mémoire que le requérant indique avoir déposé, sans affirmer une identité binaire institutionnellement vérifiée avec l'exemplaire détenu par le Tribunal administratif.
 
 ### P-17 — note manuscrite recto-verso remise à l'audience
 
@@ -269,11 +277,12 @@ L'audit montre que le risque principal n'est plus l'absence générale de preuve
 
 Les principales sources électroniques sont localisées ; plusieurs pièces qui semblaient manquer existent dans la bibliothèque.
 
-Le verrou matériel encore ouvert est surtout :
+Il ne subsiste plus de verrou de **localisation matérielle** majeur parmi les pièces prioritaires.
 
-1. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée.
+Un point de qualification reste ouvert :
+- **P-16 — mémoire en défense** : une reproduction candidate est matérialisée et hachée, mais l'identité binaire de ce PDF avec l'exemplaire effectivement remis au Tribunal administratif n'est pas indépendamment établie.
 
-Le recueil **P-46** est désormais assemblé en trois volumes et un index.
+Le recueil **P-46** est assemblé en trois volumes et un index.
 
 **P-13 — vidéo commune** n'est plus un verrou de localisation ou d'intégrité : le MP4 primaire a été récupéré et son SHA-256 vérifié.
 
