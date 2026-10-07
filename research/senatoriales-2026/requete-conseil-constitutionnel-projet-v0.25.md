@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 version: "0.25"
-status: "working-draft — pre-filing consolidation — not filed"
+status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "legal-brief"
@@ -25,9 +25,7 @@ source_documents:
   - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
   - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
   - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
-  - "research/senatoriales-2026/protocole-constitution-requete-cc-2026-10-07.md"
   - "research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
-  - "research/senatoriales-2026/investigation/gmail-audit-requete-2026-09-10-2026-10-07.md"
   - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
   - "research/senatoriales-2026/data/resultats_officiels_scrutin_2026-09-27.md"
   - "research/senatoriales-2026/data/annuaire_electeurs_senatoriaux_2B_2026.csv"
@@ -406,13 +404,13 @@ Ici, cette histoire compte autant que le contenu du fichier.
 
 La provenance numérique est traitée comme une chaîne de conservation.
 
-On distingue source native, transmission, copie, transformation, accusé, hash et inventaire juridictionnel.
+On distingue source native, transmission, copie, transformation, accusé, empreinte cryptographique et inventaire juridictionnel.
 
 **À ne pas confondre :** présence d'un fichier dans un ensemble de fichiers, réception par une administration et examen effectif par un juge sont trois propositions différentes.
 
 Le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une relance consolidée comportant dix-huit demandes autonomes (P1–P18). Elles portent notamment sur la réception et le traitement du courriel de 17 h 57 min 55 s, les transmissions au TA, la chronologie de création/finalisation/validation de la saisine préfectorale, la compétence et la délégation, la conservation des traces, ainsi que le fichier natif effectivement transmis via Télérecours, ses noms de fichiers, empreintes, procès-verbal numérique et accusés.
 
-Une note forensic séparée constate que les PDF communiqués par le TA sont des bundles ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace primaire.
+Une note forensique séparée constate que les PDF communiqués par le TA sont des ensembles de fichiers ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace primaire.
 
 À ce stade, la situation probatoire est donc volontairement dissociée : **demande envoyée = établie ; réponses demandées = non encore établies**. Si ces éléments demeurent indisponibles au moment du dépôt, ils pourront être identifiés comme inconnues et, le cas échéant, faire l'objet d'une demande d'instruction au titre de l'article 42 de l'ordonnance du 7 novembre 1958.
 
@@ -533,7 +531,7 @@ La requête évite de déduire une absence de transmission du seul fait qu'une p
 * **Absences établies de cet inventaire initial** : l'accusé humain du BEDL de 16 h 14 min 05 s (**P-11**) et le courriel de 17 h 57 min 55 s contenant le lien vidéo (**P-12**) n'apparaissent pas parmi les seize pièces énumérées. Cette constatation ne permet pas, à elle seule, d'établir que P-12 avait déjà été reçu par la préfecture avant 18 heures ni qu'aucune production ultérieure n'a été faite.
 * **11 septembre 2026 à 18 h 45 min 53 s** : le TA adresse au requérant, via France Transfert, un pli annonçant deux requêtes relatives aux élections sénatoriales et contenant les deux requêtes ainsi que les deux PDF préfectoraux correspondants. Cette transmission établit que les requêtes préfectorales et leurs bundles ont été communiqués au requérant le soir même (**P-14**).
 
-La provenance de cette communication est documentée par deux courriels distincts de France Transfert. France Transfert a adressé **deux courriels distincts au même horodatage** : le premier annonce le pli expédié par le greffe, énumère les quatre fichiers transmis et précise qu'un mot de passe a été envoyé séparément ; le second communique ce mot de passe. Cette paire de messages est conservée comme **P-44**. Les secrets techniques (mot de passe et lien de téléchargement) ne sont pas publiés dans le Corpus ; leur existence et la structure de la transmission sont, elles, vérifiées.
+La provenance de cette communication est documentée par **deux courriels distincts de France Transfert au même horodatage** : le premier annonce le pli expédié par le greffe, énumère les quatre fichiers transmis et précise qu'un mot de passe a été envoyé séparément ; le second communique ce mot de passe. Cette paire de messages est conservée comme **P-44**. Les secrets techniques (mot de passe et lien de téléchargement) ne sont pas publiés dans le Corpus ; leur existence et la structure de la transmission sont, elles, vérifiées.
 * **14 septembre 2026 à 14 h 09 min 17 s** : courriel d'alerte adressé par le requérant à la préfète avec copie au greffe du TA, signalant que certaines transmissions de l'après-midi du 11 septembre ne paraissaient pas figurer dans le dossier communiqué (**P-15**).
 * **14 septembre 2026 à 15 h 00** : audience publique. Le requérant dépose son mémoire en défense (**P-16**) et remet, dès l'ouverture des débats selon son témoignage, un document manuscrit recto-verso sur papier libre (**P-17**). Deux photographies permettent d'en établir aujourd'hui l'existence et le contenu ; le jugement confirme par ailleurs que M. Robert a présenté des « observations écrites et orales ». Le rattachement exact de P-17 à l'entrée Sagace « Réception d'une lettre » reste à établir.
 * **Audience — élément rapporté** : le requérant rapporte avoir proposé le visionnage immédiat de la vidéo P-13 et avoir entendu la présidente indiquer, en substance, que l'absence des CERFA originaux papier suffisait à écarter la candidature sans examen supplémentaire des autres pièces. Aucune trace écrite institutionnelle identifiée ne corrobore encore cette déclaration ; une éventuelle trace d'audience est sollicitée à titre d'instruction.
@@ -1104,7 +1102,7 @@ La bonne qualification est souvent « UNKNOWN (inconnu) » plutôt que « non tr
 * **FAIT NON ÉTABLI** : l'heure exacte à laquelle P-12 a été accepté par l'infrastructure de messagerie de la préfecture et son traitement avant ou après la saisine de 18 h 16 restent inconnus. Il n'est donc pas soutenu comme fait acquis que la préfecture aurait matériellement détenu P-12 avant de saisir le TA.
 * **TRIPTYQUE PROBATOIRE P-12/P-13** : **(a) envoyée** — l'émission du courriel de 17 h 57 min 55 s est établie côté expéditeur ; **(b) reçue / versée** — l'heure de réception par l'infrastructure de l'État et l'éventuel versement au TA ne sont pas établis ; **(c) examinée / visionnée** — aucune trace institutionnelle identifiée ne permet d'affirmer que la formation a visionné la vidéo. Ces trois niveaux doivent rester séparés.
 * **FAITS OUVERTS** : l'existence d'une production préfectorale complémentaire entre la saisine initiale et le jugement ; le fichier exact déposé dans Télérecours ; les empreintes/PVN et accusés correspondants ; la chronologie de préparation et de validation de la saisine.
-* **PREUVE** : requête préfectorale et ensemble initial de fichiers (**P-14**) ; courriel de 16 h 14 (**P-11**) ; courriel de 17 h 57 min 55 s (**P-12**) ; alerte du 14 septembre (**P-15**) ; échanges ultérieurs avec le greffe (**P-29 à P-33**) ; demande P1–P18 (**P-35**) ; note forensic (**P-36**).
+* **PREUVE** : requête préfectorale et ensemble initial de fichiers (**P-14**) ; courriel de 16 h 14 (**P-11**) ; courriel de 17 h 57 min 55 s (**P-12**) ; alerte du 14 septembre (**P-15**) ; échanges ultérieurs avec le greffe (**P-29 à P-33**) ; demande P1–P18 (**P-35**) ; note forensique (**P-36**).
 * **RÈGLE** : principe du contradictoire et régime de communication des productions. En outre, l'arrêté du 2 mai 2018 relatif à Télérecours prévoit un dispositif de procès-verbal numérique calculant une empreinte pour chaque document transmis et des accusés permettant d'établir les dates et heures de dépôt et d'enregistrement.
 * **ÉCART ALLÉGUÉ** : le requérant soutient qu'il est nécessaire d'établir complètement la chaîne « reçu par la préfecture → préparé/validé → déposé dans Télérecours → versé au dossier → communiqué aux parties → disponible pour la formation » avant de qualifier juridiquement l'éventuelle lacune.
 * **INCIDENCE** : la réponse conditionne l'appréciation de ce dont le juge disposait effectivement pour examiner la diligence du candidat et les éléments contemporains relatifs au consentement, ainsi que la possibilité de dater précisément l'état du dossier préfectoral au moment de la saisine.
@@ -1329,7 +1327,7 @@ Sept invariants sont conservés dans la présente requête :
 3. **la CEDH n'est pas une cour d'appel du Conseil constitutionnel** : une éventuelle requête européenne ne peut porter que sur un grief conventionnel propre, après épuisement des recours internes normaux et effectifs et dans le délai de quatre mois prévu par l'article 35 de la Convention ;
 4. cette fermeture interne est **symétrique** : ni M. Robert ni M. Parigi ne disposent d'un appel interne ordinaire contre une décision du Conseil constitutionnel ; chacun devrait, s'il s'estime personnellement victime d'une violation conventionnelle, satisfaire pour lui-même aux conditions d'une éventuelle requête européenne ;
 5. **une irrecevabilité européenne sans examen du fond reste une donnée méthodologique** : elle renseignerait sur la praticabilité de la voie de Strasbourg mais ne vaudrait ni validation du fond par la Cour ni constat d'absence de violation ;
-6. **l'article 41 de l'ordonnance du 7 novembre 1958 distingue annulation et réformation de la proclamation**. L'idée d'une proclamation directe du requérant est maintenue comme *remedial probe* infiniment subsidiaire : son objet n'est pas de soutenir qu'il aurait recueilli des suffrages valides permettant de le tenir pour régulièrement élu, mais de soumettre au Conseil une question simple de théorie du remède : une atteinte devenue temporellement irréversible peut-elle être écartée au seul motif qu'aucune réparation parfaite n'existerait ? ;
+6. **l'article 41 de l'ordonnance du 7 novembre 1958 distingue annulation et réformation de la proclamation**. L'idée d'une proclamation directe du requérant est maintenue comme hypothèse de remède infiniment subsidiaire : son objet n'est pas de soutenir qu'il aurait recueilli des suffrages valides permettant de le tenir pour régulièrement élu, mais de soumettre au Conseil une question simple de théorie du remède : une atteinte devenue temporellement irréversible peut-elle être écartée au seul motif qu'aucune réparation parfaite n'existerait ? ;
 7. la répétition **2017 / 2024 / 2026** peut documenter une question d'effectivité, de connaissance institutionnelle ou de répétition alléguée ; elle ne transforme pas des événements achevés en situation continue et ne rouvre pas, à elle seule, un délai européen expiré.
 
 La stratégie constitutionnelle comporte par ailleurs **deux pistes de QPC distinctes** :
@@ -1422,7 +1420,7 @@ Les conclusions doivent rester ordonnées :
 3. mesures d'instruction utiles ;
 4. seulement à titre exploratoire et infiniment subsidiaire, examen de tout autre pouvoir correctif légalement disponible.
 
-Le lecteur ne doit jamais confondre une demande principale avec un remedial probe.
+Le lecteur ne doit jamais confondre une demande principale avec un hypothèse de remède.
 
 Par ces motifs, et sous réserve de tous autres à produire, déduire ou suppléer, le requérant conclut qu'il plaise au Conseil constitutionnel :
 
@@ -1484,7 +1482,7 @@ Chaque P-xx doit permettre d'identifier :
 - fichier exact ;
 - rôle probatoire ;
 - transformation éventuelle ;
-- hash ;
+- empreinte cryptographique (SHA-256) ;
 - occultation ;
 - présence effective dans le paquet.
 
@@ -1536,7 +1534,7 @@ Avant remise, il faut donc vérifier physiquement chaque élément.
 
 #### Expert
 
-Le contrôle porte sur présence, pagination, lisibilité, concordance du bordereau, occultations, hash et identité entre exemplaires redondants.
+Le contrôle porte sur présence, pagination, lisibilité, concordance du bordereau, occultations, empreintes cryptographiques et identité entre exemplaires redondants.
 
 Avant saisine, vérifier pour chaque ligne du bordereau :
 
