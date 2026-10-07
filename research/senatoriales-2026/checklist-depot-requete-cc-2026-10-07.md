@@ -170,6 +170,46 @@ Cette priorité est une règle d'**activation**, non une règle de supériorité
 
 Références conceptuelles canoniques du Corpus : séparation control/data plane dans Inox/Cogentia et principe de localité / FractaCognition.
 
+
+
+### Gel du paquet PDF — builds éphémères, artefact unique, Release immuable
+
+Le PDF d'assemblage final suit un protocole distinct de la rédaction des sources.
+
+~~~text
+SOURCES / CONTRAT
+→ versionnés dans Git
+
+BUILDS PDF INTERMÉDIAIRES
+→ locaux / temporaires
+→ jamais commités
+
+CANDIDAT VALIDÉ
+→ SHA-256 local
+→ GitHub Release en brouillon
+→ upload
+→ retéléchargement
+→ comparaison SHA-256
+
+PUBLICATION
+→ acte distinct
+→ Release immuable
+→ URL définitive
+~~~
+
+Règles impératives :
+
+- aucun build intermédiaire ne doit polluer l'historique Git ;
+- le contrat d'assemblage doit nommer chaque composant et son ordre ;
+- toute pièce requise sans fichier matérialisé bloque le build final ;
+- `freeze` et `publish` sont des opérations distinctes ;
+- la création de la Release en brouillon ne vaut pas dépôt ;
+- la publication de la Release est un acte externe terminal et doit rester explicitement autorisée ;
+- l'empreinte SHA-256 du fichier local, du fichier retéléchargé depuis la Release en brouillon et du fichier public après publication doit être identique ;
+- le lien communiqué doit désigner l'asset de la Release gelée, non une branche mutable telle que `main`.
+
+Contrat courant : `research/senatoriales-2026/filing-package-2026-10-07.yml`.
+
 ### Règle de style à deux vitesses
 
 **Grand public :**
@@ -1551,3 +1591,8 @@ Cette règle est explicitement rapprochée du couple **cognition / métacognitio
 ## UPDATE — 7 octobre 2026 — v0.47 / conservation sémantique
 
 Ajout d'une règle explicite de non-régression : les passes d'intelligibilité doivent conserver intégralement le sens. Un audit rétrospectif des versions 0.20, 0.23, 0.26, 0.27 et de la requête stable identifie les pertes ou affaiblissements et documente leur restauration.
+
+
+## UPDATE — 7 octobre 2026 — v0.45 / gel PDF et Release immuable
+
+Ajout du protocole de matérialisation du dossier final : les sources et le contrat d'assemblage sont versionnés ; les rendus intermédiaires restent éphémères ; un seul PDF validé peut être promu dans une GitHub Release d'abord en brouillon puis, après contrôle terminal, publiée sous régime d'immutabilité. Le contrôle exige l'égalité SHA-256 avant upload, après retéléchargement du brouillon et après publication.
