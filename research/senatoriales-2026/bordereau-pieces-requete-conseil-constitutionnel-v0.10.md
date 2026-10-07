@@ -15,8 +15,9 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 source_documents:
-  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "requete-conseil-constitutionnel-projet-v0.19.md"
   - "inventaire_probatoire_exhaustif_pieces_preuves.md"
+  - "investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
 provenance:
   origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -49,6 +50,12 @@ Le bordereau distingue quatre niveaux de production :
 - **D — sensible** : pièce dont la production suppose une vérification renforcée de nécessité, de minimisation et, le cas échéant, d'occultation.
 
 Le **bordereau final** ne devra conserver que les pièces effectivement annexées. La numérotation P-xx est maintenue pendant la préparation pour préserver les renvois de la requête et de l'inventaire ; toute suppression avant dépôt devra être gérée sans créer d'ambiguïté dans les citations.
+
+### Annexe chronologique — hors numérotation P-xx
+
+La chronologie détaillée est une **annexe de lecture de la requête**, non une pièce primaire supplémentaire. Elle doit être jointe au paquet mais ne reçoit pas un numéro P-xx afin de ne pas être confondue avec les sources qu'elle indexe.
+
+Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 
 ## 2. Projet de bordereau P-01 à P-45
 
