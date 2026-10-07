@@ -87,3 +87,75 @@ Ces deux questions doivent être distinguées, mais elles se rencontrent sur le 
 Cette piste est substantielle et directement reliée au contentieux 2026.
 
 Elle doit être préparée comme un mémoire distinct et motivé si, après vérification de la jurisprudence constitutionnelle antérieure, le grief peut être cristallisé avec suffisamment de précision.
+
+
+## Revue approfondie — 7 octobre 2026
+
+### Norme constitutionnelle centrale
+
+Le grief ne doit pas être présenté comme un « droit à un double degré de juridiction ». Le Conseil constitutionnel juge de façon constante que le principe du double degré de juridiction n'a pas, en lui-même, valeur constitutionnelle.
+
+L'angle pertinent est le **droit à un recours juridictionnel effectif** garanti par l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789.
+
+La jurisprudence constitutionnelle admet qu'un recours non suspensif n'est pas, par nature, contraire à l'article 16. Elle contrôle cependant concrètement si la décision contestée produit des **effets irrémédiables** qui privent le recours de portée utile.
+
+Deux familles de précédents sont particulièrement utiles :
+
+- la décision n° 2015-500 QPC, dans laquelle le Conseil a censuré une combinaison procédurale qui laissait se produire des effets définitifs avant que le recours puisse offrir une protection effective ;
+- la décision n° 2017-632 QPC, dans laquelle il a exigé, compte tenu de conséquences irrémédiables, que le recours puisse être exercé en temps utile et examiné assez rapidement pour permettre la suspension éventuelle de la décision contestée.
+
+### Application à L.303
+
+L'article L.303 crée une architecture particulière :
+
+1. le préfet saisit le tribunal administratif dans les vingt-quatre heures ;
+2. le tribunal administratif statue dans les trois jours ;
+3. le jugement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection ;
+4. cette saisine du Conseil n'intervient donc utilement qu'après que le scrutin a eu lieu.
+
+Le cœur du grief est que, lorsqu'un jugement rendu sur le fondement de L.303 conduit à l'exclusion d'une candidature, son effet essentiel est consommé le jour du scrutin. Même une décision ultérieure favorable du Conseil constitutionnel ne peut reconstituer la participation de cette candidature au scrutin déjà tenu.
+
+La question n'est donc pas l'absence d'appel en soi. Elle est la suivante : **la loi garantit-elle un contrôle juridictionnel réellement utile avant la consommation d'un effet électoral irréversible ?**
+
+### Droit protégé affecté
+
+L'effet irrémédiable ne doit pas être présenté abstraitement. Il affecte le **droit d'éligibilité**, que le Conseil constitutionnel rattache à l'article 6 de la Déclaration de 1789, ainsi que l'égalité devant le suffrage et la liberté de l'électeur.
+
+L'argument L.303 peut ainsi être construit comme une articulation entre :
+
+- article 16 DDHC : recours juridictionnel effectif ;
+- article 6 DDHC : droit d'éligibilité ;
+- article 3 de la Constitution : égalité du suffrage ;
+- article 4 de la Constitution : pluralisme des courants d'idées et d'opinions, selon la portée retenue.
+
+### Objection principale
+
+**Objection :** L.303 garantit déjà un juge avant le scrutin : le tribunal administratif statue en trois jours. Aucun principe constitutionnel n'exige un appel.
+
+**Réponse :** le grief n'exige pas un second degré de juridiction en tant que tel. Il porte sur l'absence de toute garantie permettant qu'une erreur juridictionnelle déterminante, lorsqu'elle exclut une candidature, soit soumise à un contrôle utile avant que l'élection rende l'atteinte irréversible.
+
+La question est donc celle de la **suffisance globale des garanties** de la procédure, non celle de l'existence abstraite de deux degrés de juridiction.
+
+### Difficulté sérieuse
+
+La difficulté demeure réelle : le Conseil constitutionnel peut considérer que le contrôle rapide du tribunal administratif avant le scrutin, puis son propre contrôle après l'élection avec pouvoir d'annulation, constitue une garantie suffisante.
+
+Il faudra donc montrer que l'annulation postérieure ne restaure pas la même capacité que la participation au scrutin initial et que l'atteinte au droit d'éligibilité est consommée avant que le second contrôle ne devienne accessible.
+
+### Formulation candidate
+
+> **Les dispositions de l'article L.303 du code électoral, en ce qu'elles prévoient qu'un tribunal administratif statue dans les trois jours sur le refus d'enregistrement d'une candidature sénatoriale et que son jugement ne peut être contesté devant le Conseil constitutionnel qu'à l'occasion du contentieux de l'élection, portent-elles atteinte au droit à un recours juridictionnel effectif garanti par l'article 16 de la Déclaration de 1789, combiné au droit d'éligibilité garanti par l'article 6 de cette Déclaration, dès lors que l'exclusion de la candidature produit avant tout contrôle ultérieur un effet électoral irréversible ?**
+
+### Précédents directement utiles
+
+- Conseil constitutionnel, décision n° 2011-4538 SEN du 12 janvier 2012 : admission d'une QPC directement soulevée à l'occasion d'un contentieux sénatorial.
+- Conseil constitutionnel, décision n° 2014-4909 SEN du 23 janvier 2015 : compétence du Conseil pour examiner, dans le contentieux sénatorial, une QPC liée à un refus d'enregistrement d'une candidature.
+- Conseil constitutionnel, décision n° 2023-6281 SEN/QPC du 8 décembre 2023 : rappel des conditions de recevabilité d'une QPC directement soulevée dans une contestation sénatoriale.
+- Conseil constitutionnel, décision n° 2017-632 QPC du 2 juin 2017 : prise en compte des effets irrémédiables pour exiger un recours exerçable en temps utile.
+- Conseil constitutionnel, décision n° 2015-500 QPC : censure d'une procédure dont les effets définitifs pouvaient se produire avant la protection effective du recours.
+
+### Statut après revue
+
+**Piste sérieuse, mais non acquise.**
+
+Sa force dépend de la démonstration que l'atteinte irréversible au droit d'éligibilité ne peut être réparée de façon équivalente par l'annulation postérieure du scrutin. Le mémoire devra éviter toute présentation fondée sur un prétendu droit constitutionnel à l'appel.
