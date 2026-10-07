@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.20"
+version: "0.21"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.22.md"
+  - "requete-conseil-constitutionnel-projet-v0.23.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -219,7 +219,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Narration juridiquement contrôlée** — la requête doit expliquer non seulement « quoi », mais aussi le contexte, la finalité recherchée, les moyens employés, les contraintes et les réponses institutionnelles. Toute intention attribuée à un tiers doit être sourcée ou reformulée en fait observable / hypothèse.
 - [~] **Intelligibilité ≠ brièveté — audit v0.22** — passe substantielle accomplie : plusieurs paragraphes ont été **dépliés** en davantage de phrases afin de réduire la charge cognitive. Le nombre de mots n'est pas un critère de réussite. Audit : `../reviews/audit-intelligibilite-requete-v0.22-2026-10-07.md`.
 - [ ] **Passe micro-style phrase par phrase** — sur le texte hérité des versions antérieures, couper les phrases trop longues, supprimer les enchâssements inutiles, vérifier les antécédents de « cela / ceci / ce point / cette pièce », expliquer les acronymes à la première occurrence et fermer les « donc » dont la prémisse n'est pas écrite. Ne modifier aucun fait ni niveau de certitude.
-- [ ] **Placement final du control plane** — décider avant gel si la section IX reste dans le corps ou passe en annexe documentaire. Critère : elle doit aider l'audit sans distraire du noyau contentieux.
+- [x] **Placement final du control plane** — arbitrage appliqué en v0.23 : la check-list Cognitive Packet, le protocole de revue et les changelogs restent dans le control plane du Corpus et sont retirés du corps de la candidate de dépôt. Le texte juridictionnel conserve seulement les éléments utiles au Conseil.
 - [ ] **Audit double lecture section par section** — fermer toutes les lignes de l’audit v0.20 : Premier écran, recevabilité, résumé, chronologie, formalités, solutions praticables, griefs 1–5, temporalité, conclusions, bordereau/matérialisation. Ne pas considérer une introduction générale comme suffisante.
 - [ ] **Mode d'emploi de constitution de la requête** — appliquer avant toute promotion de version le protocole `protocole-constitution-requete-cc-2026-10-07.md` : synchroniser requête, chronologie, bordereau, inventaire, Gmail, sources juridiques, contradictions et revue « motifs de rejet ». Aucun de ces objets ne doit diverger silencieusement.
 - [ ] **Annexe chronologique détaillée** — joindre au paquet la chronologie `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`, ordonnée jour par jour puis heure croissante, du premier courriel à la préfecture du **10 septembre à 17:01:56** jusqu'au dépôt effectif ; chaque acte matériel doit pointer vers sa pièce ou sa source et chaque UNKNOWN doit rester explicite.
@@ -229,7 +229,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Chronologie ↔ bordereau ↔ requête** — avant gel, contrôler automatiquement/manuellement qu'aucun fait important cité dans la requête n'est absent de la chronologie, qu'aucune pièce importante n'est orpheline de fait, et qu'aucun événement chronologique important n'est dépourvu de source identifiable.
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.22 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [~] **Version canonique de dépôt** — la v0.23 est la candidate de dépôt courante ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
 - [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.22.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
@@ -248,7 +248,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **P-45 — silence administratif sur les modalités de dépôt** — produire **intégralement** dans le dossier les quatre courriels P-45.a à P-45.d : 26/09 demande au Bureau des élections ; 28/09 demande directe à la Sous-préfecture de Corte ; 01/10 consolidation avec Sous-préfecture en copie ; 02/10 relance numérotée P1–P18 avec P11/P12. L'index public `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md` ne remplace pas les messages natifs.
 - [ ] **P-45 — intégralité et authenticité des courriels** — pour chaque sous-pièce, joindre une représentation lisible du message **complet**, avec date/heure, objet, destinataires/copies et en-têtes utiles ; conserver si possible l'export natif EML/RFC822 ; calculer le SHA-256 du fichier effectivement produit ; vérifier que le sous-identifiant P-45.x du bordereau correspond exactement au fichier annexé.
 - [x] **P-45 — borne probatoire du silence** — recherche Gmail ciblée vérifiée : le fil du 26/09 et celui du 28/09 ne contiennent chacun qu'un message sortant ; aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture de Corte n'a été retrouvée entre le 28/09 et le 07/10. Ne pas écrire « l'État n'a jamais répondu » : P-28 établit une réponse sur la consultation des pièces. La proposition documentée est plus étroite : **aucune réponse substantielle retrouvée sur la modalité de dépôt article 34 malgré les demandes et relances identifiées**.
-- [ ] **P-45 — présence dans la requête et le bordereau** — contrôler avant gel que la requête v0.19 cite P-45.a à P-45.d dans la chronologie et dans le grief d'effectivité, et que le bordereau v0.10 les identifie comme pièce A à produire intégralement.
+- [ ] **P-45 — présence dans la requête et le bordereau** — contrôler avant gel que la requête v0.23 cite P-45.a à P-45.d dans la chronologie et dans le grief d'effectivité, et que le bordereau v0.10 les identifie comme pièce A à produire intégralement.
 - [ ] **Marge opérationnelle de dépôt** — fixer une heure-cible interne antérieure à 18 h, un seuil explicite d'arrêt des améliorations non essentielles et une priorité absolue à la remise + preuve de remise. Ne jamais sacrifier le dépôt au perfectionnement tardif du dossier.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
@@ -613,3 +613,13 @@ L’audit de la v0.19 conclut que la double lecture n’est **pas encore satisfa
 
 - recentre la fonction de la photographie : non pas dater prioritairement le retrait postal, mais donner un repère matériel simple montrant l'ancrage public/local de la désignation « Baron Mariani » ;
 - borne explicite : la toponymie publique ne prouve ni titre nobiliaire personnel ni généalogie ; ces questions restent distinctes et réclameraient leurs propres preuves si elles devenaient matérielles.
+
+
+## UPDATE — 7 octobre 2026 — v0.21 / boucle v0.23
+
+- corrige les pointeurs courants vers la candidate de dépôt **v0.23** ;
+- sépare plus strictement data plane et control plane : retrait de la check-list Cognitive Packet, du protocole de revue et des changelogs du corps de la requête ;
+- réintroduit **L.318** de manière bornée dans le grief d'incidence, sans inférence sur le vote individuel ;
+- propage le rôle exact de la photographie « Avenue du Baron Mariani » et sa borne ante quem ;
+- effectue une micro-passe d'intelligibilité sur des pronoms ambigus ;
+- conserve la matérialisation du paquet, le gel et la preuve de réception comme principaux points encore ouverts.
