@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.36"
+version: "0.37"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -653,6 +653,48 @@ Avant toute propagation, vérifier qu'aucun changement de libellé ne crée une 
 
 L'objectif n'est pas la stabilité lexicale pour elle-même, mais l'intelligibilité du dossier.
 
+
+### Principe général d'agilité — ne pas rester prisonnier du passé
+
+Le dossier, le Corpus et leurs conventions sont des objets vivants.
+
+Une décision antérieure, un libellé, une structure, une qualification, un classement, une méthode ou une convention n'acquiert pas de valeur du seul fait qu'elle existe déjà.
+
+Lorsqu'un changement améliore de manière justifiée :
+- l'exactitude ;
+- l'intelligibilité ;
+- la cohérence ;
+- la force probatoire ;
+- la qualité juridique ;
+- la simplicité ;
+- la maintenabilité ;
+- ou l'effectivité du dossier ;
+
+ce changement doit pouvoir être effectué.
+
+Le coût de propagation n'est pas, à lui seul, une raison suffisante pour conserver une solution devenue moins bonne.
+
+Règle pratique :
+
+**conserver ce qui reste juste ; corriger ce qui ne l'est plus ; améliorer ce qui peut l'être ; propager le changement partout où il produit des conséquences.**
+
+L'agilité ne signifie pas réécrire silencieusement le passé.
+
+Tout changement substantiel doit :
+- préserver, lorsqu'il est utile, l'historique permettant de comprendre l'évolution ;
+- éviter de modifier rétroactivement le sens d'une pièce ou d'un fait ancien ;
+- conserver les numéros et identifiants stables lorsqu'ils jouent un rôle de référence ;
+- propager les conséquences dans les documents dépendants ;
+- faire apparaître clairement, lorsque c'est matériel, ce qui a changé et pourquoi.
+
+Le test n'est donc jamais : « est-ce ainsi que nous faisions auparavant ? »
+
+Le test est :
+
+> **À l'état actuel des faits, du droit et du dossier, cette solution reste-t-elle la meilleure ?**
+
+Si la réponse est non, le passé ne doit pas empêcher l'amélioration présente.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1257,3 +1299,8 @@ Nouvel invariant : chaque référence documentaire associe le numéro de pièce 
 ## UPDATE — 7 octobre 2026 — v0.36 / libellés de pièces vivants
 
 Les numéros de pièces restent stables, mais leurs libellés peuvent et doivent être améliorés lorsqu'une formulation plus claire rend le dossier plus facile à comprendre. Toute amélioration doit ensuite être propagée dans tous les documents qui référencent la pièce.
+
+
+## UPDATE — 7 octobre 2026 — v0.37 / principe général d'agilité
+
+Le plan de contrôle explicite une règle plus générale : aucune convention passée n'est intangible par inertie. Lorsqu'un changement améliore réellement le dossier, il doit pouvoir être fait et propagé, même si cela représente du travail. L'historique utile et les identifiants stables sont préservés afin que l'agilité ne devienne jamais une réécriture silencieuse du passé.
