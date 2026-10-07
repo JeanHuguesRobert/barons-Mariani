@@ -178,6 +178,28 @@ Ce cas ne prouve pas encore un mécanisme territorial corse général. Il démon
 Dossier détaillé :
 - `musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
 
+### Contraste interne à la branche Louis-Thomas
+
+Le Tableau I permet désormais une comparaison particulièrement instructive entre les enfants de Louis-Thomas :
+
+```text
+Louis-Thomas Mariani
+├── Antoine « Tony » Mariani (1850–1896)
+│   → trois enfants morts jeunes selon Meurgey
+│   → sous-branche éteinte selon la source, actes à corroborer
+├── Madeleine Mariani (1850–1924)
+│   → d’Adhémar → Girot de Langlade / Hainguerlot / Terlinden / Compagnon
+│   → descendance nombreuse jusqu'au XXIe siècle
+└── Essey Mariani (1856–1891)
+    → aucune descendance dessinée par Meurgey
+    → extinction probable, à corroborer
+```
+
+Ainsi, au sein d'une même fratrie, les lignes qui conservent le patronyme masculin peuvent s'éteindre tandis que la ligne féminine devient démographiquement la plus féconde.
+
+Ce résultat renforce une règle de méthode : **le patronyme est un très mauvais proxy de la survie généalogique**.
+
+Il montre aussi qu'une apparente « disparition des Mariani » peut résulter en partie d'un simple changement de noms au fil des alliances, indépendamment de toute attrition démographique.
 ## 6 ter. Deuxième résultat — Arrighi de Casanova
 
 Le **Tableau II — Arrighi de Casanova** fournit un cas complémentaire au Tableau I.
