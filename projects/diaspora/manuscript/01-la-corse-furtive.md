@@ -104,6 +104,25 @@ retour / réancrage
 
 Le corpus familial ne peut pas prouver à lui seul une loi corse générale. Il sert de **probe longitudinal** : une trajectoire particulièrement documentée à confronter ensuite à des données et comparateurs indépendants.
 
+### Premier résultat du Probe 3
+
+La première branche prolongée depuis Meurgey confirme l'intérêt de suivre les femmes et les changements de patronyme.
+
+La chaîne **Louis-Thomas Mariani → Madeleine Mariani → d’Adhémar → Hainguerlot → Terlinden → Compagnon** mène jusqu'à des descendants contemporains publiquement documentés. Parmi eux figure **Antoine Compagnon**, académicien français et ancien professeur au Collège de France.
+
+Ce résultat doit être lu avec précision :
+
+```text
+descendance Mariani encore vivante
+≠ personnes portant encore le nom Mariani
+≠ présence actuelle en Corse
+```
+
+Pour cette branche, la descendance est clairement subsistante tandis qu'aucun ancrage corse contemporain n'est encore établi. C'est exactement le type de « capacité devenue invisible comme corse » que DIASPORA doit apprendre à détecter sans inférer abusivement une identité ou une appartenance actuelle.
+
+Dossier source :
+`musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
+
 ## Méthode : révéler sans inventer
 
 ~~~text
