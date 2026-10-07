@@ -304,6 +304,28 @@ La préparation du dossier distingue désormais trois objets qui ne doivent plus
 
 ### Nouveau front probatoire — provenance numérique et chaîne décisionnelle préfectorale
 
+#### Grand public
+
+Un fichier numérique a une histoire.
+
+Il faut savoir d'où il vient.
+
+Il faut savoir quand il a été envoyé.
+
+Il faut savoir s'il a été modifié.
+
+Il faut savoir qui l'a reçu.
+
+Ici, cette histoire compte autant que le contenu du fichier.
+
+#### Expert
+
+La provenance numérique est traitée comme une chaîne de conservation.
+
+On distingue source native, transmission, copie, transformation, accusé, hash et inventaire juridictionnel.
+
+**À ne pas confondre :** présence d'un fichier dans un bundle, réception par une administration et examen effectif par un juge sont trois propositions différentes.
+
 Le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une relance consolidée comportant dix-huit demandes autonomes (P1–P18). Elles portent notamment sur la réception et le traitement du courriel de 17 h 57 min 55 s, les transmissions au TA, la chronologie de création/finalisation/validation de la saisine préfectorale, la compétence et la délégation, la conservation des traces, ainsi que le fichier natif effectivement transmis via Télérecours, ses noms de fichiers, empreintes, procès-verbal numérique et accusés.
 
 Une note forensic séparée constate que les PDF communiqués par le TA sont des bundles ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace primaire.
@@ -356,6 +378,18 @@ Période 3 : Postérieurement au 14 septembre 2026 (Traces réseau, scrutin et p
 
 ### 1. Période 1 : Faits et diligences antérieurs à la clôture légale (11 septembre à 18h00)
 
+#### Grand public
+
+Cette période répond à une seule question : **qu'est-ce qui a été fait avant la fermeture de la porte à 18 heures ?**
+
+Chaque minute utile est donc rattachée à une trace.
+
+#### Expert
+
+La borne de 18 h commande la qualification temporelle.
+
+Toute proposition doit préciser s'il s'agit d'une émission, d'une réception connue ou d'un traitement interne encore inconnu.
+
 * **Antécédents documentés (01/10/2025 – 24/05/2026)** : La démarche électorale du requérant est publique, constante et préméditée : annonce sur le réseau public X le 1er octobre 2025 (**Pièce P-01**), publication doctrinale sur l'Autonomie de Capacité le 20 mai 2026 (**Pièce P-02**) et déclaration formelle à la presse insulaire (*Corse Net Infos*) le 24 mai 2026 (**Pièce P-03**).
 * **Jeudi 10 septembre 2026 à 17h54:50** : Transmission dématérialisée proactive de l'ensemble du dossier de candidature à l'adresse officielle du Bureau des élections et de la démocratie locale (`pref-elections@haute-corse.gouv.fr`) (**Pièce P-04**). Accusé de réception automatique du serveur de l'État à 17h56:53 (**Pièce P-05**).
 * **Jeudi 10 septembre 2026 à 20h05:04** : Courriel tardif de l'administration préfectorale exigeant, à la veille de la clôture, le dépôt d'« originaux papier » non spécifiés par le code électoral (**Pièce P-06**).
@@ -371,6 +405,22 @@ Période 3 : Postérieurement au 14 septembre 2026 (Traces réseau, scrutin et p
 
 ### 2. Période 2 : L'instruction préfectorale et le jugement du TA de Bastia (11–14 septembre)
 
+#### Grand public
+
+Après le dépôt, le dossier change de mains.
+
+La préfecture saisit le tribunal.
+
+Le tribunal doit alors décider rapidement.
+
+La question devient : **quelles informations ont effectivement suivi le dossier jusqu'au juge ?**
+
+#### Expert
+
+Cette période porte sur la composition du dossier juridictionnel, les productions complémentaires, l'audience, la note en délibéré et le jugement.
+
+La requête évite de déduire une absence de transmission du seul fait qu'une pièce n'apparaît pas dans l'inventaire initial.
+
 * **11 septembre 2026 à 18 h 16** : saisine du Tribunal administratif par la préfète de la Haute-Corse (instances n° 2601714-1 et n° 2601715-1) (**P-14**).
 * **Inventaire initial désormais établi par P-14** : la requête décrit seize pièces : **PREF-1** courriel du candidat du 10 septembre à 17 h 54 ; **PREF-2 à PREF-9** ses huit pièces jointes ; **PREF-10** courriel préfectoral du 10 septembre à 20 h 05 ; **PREF-11** dossier physique du 11 septembre contenant une pièce unique ; **PREF-12** circulaire ministérielle du 20 juillet 2026 ; **PREF-13** reçu provisoire ; **PREF-14** courriel du candidat du 11 septembre à 14 h 14 ; **PREF-15 et PREF-16** les deux pièces relatives au mandataire financier jointes à ce courriel.
 * **Absences établies de cet inventaire initial** : l'accusé humain du BEDL de 16 h 14 min 05 s (**P-11**) et le courriel de 17 h 57 min 55 s contenant le lien vidéo (**P-12**) n'apparaissent pas parmi les seize pièces énumérées. Cette constatation ne permet pas, à elle seule, d'établir que P-12 avait déjà été reçu par la préfecture avant 18 heures ni qu'aucune production ultérieure n'a été faite.
@@ -385,6 +435,20 @@ La provenance de cette communication est désormais documentée plus finement. F
 * **Notification postale de P-20** : le jugement a été adressé au requérant par **lettre recommandée avec avis de réception**. La chaîne matérielle conservée comprend l'avis de passage trouvé dans la boîte aux lettres, le pli recommandé retiré au bureau de **La Poste CORTE**, la page de notification du greffe et les trois pages du jugement. Le bureau **La Poste CORTE** est officiellement référencé par La Poste à **Avenue du Baron Mariani, 20250 Corte** (source officielle : https://localiser.laposte.fr/haute-corse/corte/corte-200960). Le requérant indique avoir pris, **en sortant de ce bureau après le retrait de ce courrier**, la photographie de la plaque de rue « Avenue du Baron Mariani ». Cette photographie corrobore le lieu ; elle ne doit pas être présentée comme portant, à elle seule, un horodatage certain si aucune métadonnée ou trace indépendante ne fixe son heure de prise de vue.
 
 ### 3. Période 3 : Les vérifications probatoires, le scrutin du 27 septembre et le contentieux constitutionnel
+
+#### Grand public
+
+Après le jugement, le requérant cherche à reconstruire ce qui s'est réellement passé.
+
+Puis l'élection a lieu sans sa candidature.
+
+Enfin commence le délai très court pour saisir le Conseil constitutionnel.
+
+#### Expert
+
+Cette période distingue les démarches de vérification, les résultats officiels, les demandes de pièces et la préparation du recours constitutionnel.
+
+Les actes postérieurs ne réparent pas rétroactivement le dossier antérieur. Ils servent à l'établir.
 
 * **14 septembre 2026 à 14 h 09 min 17 s, avant l'audience** : le requérant alerte la préfète, avec copie au greffe du TA, que le courriel de 17 h 57 et la vidéo ne paraissent pas figurer dans le dossier transmis et demande expressément leur communication aux deux instances (**P-15**).
 * **15 septembre 2026 à 08 h 42 min 17 s** : première demande post-jugement adressée à la préfecture sur trois questions strictement factuelles : le courriel de 17 h 57 a-t-il été reçu avant 18 h ? figurait-il dans la saisine de 18 h 16 ? à défaut, a-t-il été transmis ultérieurement avant que le TA statue ?
@@ -407,6 +471,22 @@ La provenance de cette communication est désormais documentée plus finement. F
 * **1er octobre 2026** : le requérant consolide parallèlement auprès de la préfecture cinq questions relatives à la réception et à la transmission du courriel/vidéo du 11 septembre et rappelle l'échéance contentieuse du 7 octobre à 18 h (**P-34**).
 
 ### 4. Séquence post-jugement : accès aux éléments matériels et effectivité du recours
+
+#### Grand public
+
+Pour contester une décision, il faut pouvoir comprendre le dossier.
+
+Or certaines informations ont dû être demandées plusieurs fois.
+
+Le problème n'est pas que toute l'administration serait restée silencieuse.
+
+Le problème est que **certaines questions utiles sont restées ouvertes pendant que l'horloge du recours continuait de tourner**.
+
+#### Expert
+
+La séquence doit distinguer réponse partielle, non-communication, absence de réponse retrouvée et inexistence prouvée.
+
+Ces catégories ne sont pas interchangeables.
 
 La voie ouverte par l'article L.303 du code électoral est différée : le jugement rendu sur le refus d'enregistrement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection. Après le scrutin, l'article 33 de l'ordonnance n° 58-1067 enferme cette contestation dans un délai de dix jours suivant la proclamation, expirant en l'espèce le **7 octobre 2026 à 18 heures**.
 
@@ -475,22 +555,88 @@ Identité ≠ Consentement ≠ Support matériel de transmission ≠ Aménagemen
 
 ### 0. Droit européen de se porter candidat et exigence d'effectivité
 
+#### Grand public
+
+Le droit de se présenter à une élection ne se réduit pas à une phrase dans un texte.
+
+Il doit pouvoir être exercé dans la réalité.
+
+Cela n'efface pas les formalités.
+
+Cela oblige à regarder leur effet concret.
+
+#### Expert
+
+La référence européenne sert de cadre d'effectivité.
+
+Elle ne dispense pas d'appliquer les conditions nationales licites de candidature.
+
+Le grief doit donc articuler droit d'accès, finalité de la formalité et proportion de la restriction.
+
 L'article 3 du Protocole n° 1 à la Convention européenne des droits de l'homme garantit, selon la jurisprudence de la Cour européenne, des droits individuels comprenant le droit de vote et le **droit de se porter candidat**. Ces droits ne sont pas absolus et les États disposent d'une marge d'appréciation importante pour fixer les conditions d'éligibilité et de candidature. La Cour contrôle toutefois que les limitations ne portent pas atteinte à la substance du droit et ne le privent pas de son effectivité.
 
 Le requérant invoque ce cadre non pour écarter les formalités électorales prévues par la loi, mais pour demander que leur interprétation et leur application soient examinées au regard de l'exercice effectif du droit de se porter candidat et de la libre expression du choix du corps électoral.
 
 
 ### 1. L'exigence légale du consentement, de la signature et de la mention manuscrite
+
+#### Grand public
+
+La remplaçante devait accepter.
+
+Son acceptation devait être écrite.
+
+Elle devait aussi signer et écrire une mention prévue par la loi.
+
+Ces trois exigences doivent être regardées séparément.
+
+#### Expert
+
+L.299 doit être lu littéralement avant toute discussion d'adaptation.
+
+La requête ne soutient pas que consentement prouvé = formalité automatiquement satisfaite.
+
+Elle soutient que la nature exacte de chaque exigence et les effets d'un empêchement fonctionnel doivent être examinés.
 L'article **L.299 du code électoral** exige, pour le remplaçant d'un candidat au scrutin majoritaire sénatorial, une **acceptation écrite**, revêtue de la **signature** du remplaçant et suivie d'une **mention manuscrite** déterminée par la loi.
 
 Le texte ne formule pas lui-même, en ces termes, une règle générale disant que seul un support papier matériel pourrait constituer l'écrit exigé. Mais cette constatation textuelle **ne suffit pas** à conclure qu'un document électronique, une image de signature ou une vidéo satisfait nécessairement les formalités de L.299. La question à trancher est plus étroite : quelles exigences de support, d'accomplissement personnel et d'originalité résultent exactement du régime électoral spécial, de sa finalité probatoire et de la jurisprudence applicable ?
 
 ### 2. Portée éventuelle de l'article 1366 du code civil — articulation à démontrer avec le droit électoral spécial
+
+#### Grand public
+
+Un écrit électronique peut prouver beaucoup de choses.
+
+Mais cela ne signifie pas qu'il remplace toujours une formalité électorale spéciale.
+
+Le dossier sépare donc **preuve** et **formalité**.
+
+#### Expert
+
+L'article 1366 peut éclairer la valeur probante d'un écrit électronique.
+
+Il ne doit pas être utilisé comme règle de substitution automatique à L.299.
+
+Toute articulation doit être démontrée, non présumée.
 L'article **1366 du code civil** reconnaît, sous ses conditions propres, une force probante à l'écrit électronique comparable à celle de l'écrit papier.
 
 Le requérant l'invoque **comme règle de preuve**, non comme disposition ayant pour effet automatique d'écarter une formalité électorale spéciale. L'identification de Mme Laurence Vernerey est soutenue par plusieurs pièces contemporaines ; l'intégrité et la chronologie des fichiers peuvent être documentées par leurs métadonnées, empreintes et traces de conservation. Il reste néanmoins à déterminer si et dans quelle mesure ces éléments sont juridiquement pertinents pour l'accomplissement des exigences spécifiques de L.299.
 
 ### 3. Handicap, empêchement fonctionnel et jurisprudence du Conseil d'État du 14 mai 2021
+
+#### Grand public
+
+Une personne peut vouloir accomplir une formalité et ne pas pouvoir physiquement l'accomplir de la manière habituelle.
+
+Le droit doit alors répondre à une question concrète : **comment vérifier sa volonté sans lui fermer l'accès ?**
+
+#### Expert
+
+CE 445497 constitue un précédent fonctionnel, mais dans un autre régime électoral.
+
+La transposition est donc analogique.
+
+Elle exige de comparer le texte, le type de formalité, la nature de l'empêchement et les garanties de consentement.
 
 Dans sa décision du **14 mai 2021 (n° 445497)**, rendue à propos de formalités électorales comportant une signature et une mention manuscrite, le Conseil d'État a admis que, lorsqu'un **handicap permanent ou provisoire fait obstacle à l'accomplissement personnel** de ces gestes, ceux-ci peuvent être apposés par un tiers à la demande de l'intéressé, sous réserve que son consentement éclairé soit établi.
 
@@ -828,15 +974,61 @@ La causalité électorale doit être défendue sans fabriquer une intention indi
 
 ### CONTEXTE A — projet constitutionnel porté par la candidature
 
+#### Grand public
+
+La candidature portait aussi un projet politique précis.
+
+Ce contexte explique pourquoi l'exclusion n'est pas seulement l'absence d'un nom.
+
+Elle retire aussi une offre politique du choix proposé aux électeurs.
+
+#### Expert
+
+Ce développement reste du **contexte**.
+
+Il ne doit pas devenir un grief autonome sans fondement propre.
+
+Sa fonction est d'identifier le contenu de l'offre absente, pas de présumer son succès électoral.
+
 Les travaux relatifs à l'Autonomie de Capacité et à un amendement envisagé à l'article 72-5 établissent l'existence d'un **contenu politique et parlementaire réel** porté par la candidature. Dans la v0.5, ils ne sont **pas présentés comme un grief autonome d'annulation**. Leur fonction est seulement de documenter que l'offre électorale écartée n'était pas fictive ou purement nominale.
 
 ### CONTEXTE B — exposition médiatique postérieure
+
+#### Grand public
+
+Après l'éviction, le candidat a aussi rencontré des difficultés d'accès au débat public.
+
+Ces faits montrent des effets en chaîne possibles.
+
+Ils ne prouvent pas, à eux seuls, que l'élection est irrégulière.
+
+#### Expert
+
+La couverture médiatique postérieure doit être strictement séparée du moyen électoral principal.
+
+Elle peut documenter un effet contextuel.
+
+Elle ne remplace ni la preuve du vice initial ni celle de son incidence sur le scrutin.
 
 Les analyses relatives à l'accès ultérieur au débat audiovisuel sont conservées hors du noyau des moyens. Elles peuvent documenter des effets contextuels d'une éviction, mais la v0.5 ne demande pas au Conseil d'annuler l'élection sur ce fondement autonome.
 
 ---
 
 ### Note de séparation procédurale — QPC A
+
+#### Grand public
+
+Une QPC n'est pas un autre nom pour la requête électorale.
+
+Elle pose une question différente : **la loi elle-même respecte-t-elle la Constitution ?**
+
+Le Conseil peut donc avoir plusieurs casquettes juridiques, mais les procédures ne se mélangent pas.
+
+#### Expert
+
+La QPC doit viser une disposition législative applicable au litige et satisfaire ses conditions propres.
+
+Une erreur d'application ou une pratique administrative ne devient pas une QPC par changement d'étiquette.
 
 Une piste de **question prioritaire de constitutionnalité** est étudiée séparément dans :
 
@@ -847,6 +1039,28 @@ Une piste de **question prioritaire de constitutionnalité** est étudiée sépa
 La QPC doit toutefois faire l'objet d'un **mémoire distinct et motivé**. Sa disponibilité procédurale ne préjuge ni de son applicabilité, ni de son caractère sérieux. La piste A doit donc maintenant se concentrer sur la disposition législative exacte — en premier lieu l'article L.299 du code électoral comme candidat à tester — et sur le droit ou la liberté constitutionnellement garanti invoqué.
 
 ### Note de séparation procédurale — Conseil constitutionnel, QPC, Défenseur des droits et CEDH
+
+#### Grand public
+
+Il existe plusieurs portes juridiques.
+
+Elles ne mènent pas au même endroit.
+
+Le Conseil juge l'élection.
+
+La QPC contrôle une loi.
+
+Le Défenseur des droits intervient selon ses compétences propres.
+
+La CEDH n'est pas une cour d'appel du Conseil constitutionnel.
+
+#### Expert
+
+Chaque voie possède son objet, sa qualité pour agir, son délai et son remède.
+
+La requête les articule sans fusion.
+
+Le recours électoral initial doit donc rester autonome et complet.
 
 Les notes `research/senatoriales-2026/investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md` et `research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md` cartographient séparément l'après-décision, les remèdes et les voies parallèles.
 
@@ -1018,6 +1232,18 @@ Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au 
 
 ### Sous-inventaire P-14 — bundle initial de la saisine préfectorale
 
+#### Grand public
+
+P-14 est une boîte contenant plusieurs documents.
+
+Pour éviter qu'une boîte cache son contenu, chaque document interne est identifié.
+
+#### Expert
+
+Le sous-inventaire sert à contrôler la composition exacte du bundle et ses limites temporelles.
+
+Il ne permet pas d'inférer qu'aucune transmission ultérieure n'a existé.
+
 Le bordereau autonome reprend également le sous-inventaire **PREF-1 à PREF-16** décrit par la requête préfectorale, afin de distinguer :
 
 1. ce que la préfecture a elle-même indiqué avoir joint à sa saisine initiale ;
@@ -1025,6 +1251,16 @@ Le bordereau autonome reprend également le sous-inventaire **PREF-1 à PREF-16*
 3. les éventuelles productions complémentaires, qui restent à établir lorsqu'aucune trace certaine n'est disponible.
 
 ### Contrôle matériel avant dépôt
+
+#### Grand public
+
+Une bonne requête qui oublie une pièce dans le dossier remis reste un mauvais dépôt.
+
+Avant remise, il faut donc vérifier physiquement chaque élément.
+
+#### Expert
+
+Le contrôle porte sur présence, pagination, lisibilité, concordance du bordereau, occultations, hash et identité entre exemplaires redondants.
 
 Avant saisine, vérifier pour chaque ligne du bordereau :
 
@@ -1037,6 +1273,20 @@ Avant saisine, vérifier pour chaque ligne du bordereau :
 
 
 ### Annexe chronologique incorporée au paquet
+
+#### Grand public
+
+La chronologie sert de fil conducteur.
+
+Le lecteur peut suivre les événements sans devoir reconstruire l'ordre à partir de dizaines de pièces.
+
+#### Expert
+
+L'annexe est un outil de lecture.
+
+Elle n'est pas une preuve autonome.
+
+Chaque entrée matérielle doit renvoyer à une source identifiable et conserver son statut probatoire.
 
 Le paquet de dépôt doit comprendre, sous une forme figée et lisible, l'annexe :
 
