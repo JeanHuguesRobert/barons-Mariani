@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.3"
+version: "0.4"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -208,6 +208,26 @@ trace patrimoniale conservée en Corse
 Le passage de cette maison dans le patrimoine communal doit être étudié séparément ; sa cause et ses modalités ne sont pas inférées à partir du seul statut actuel.
 
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
+## 6 quater. Troisième résultat — Fantauzzi / Fournier-Sarlovèze
+
+La liste des représentants vivants donnée par Meurgey en 1933 ouvre une branche qui ne relève pas seulement de la survie démographique : elle montre une **continuité patrimoniale et productive hors de Corse**.
+
+Meurgey cite Jules Fantauzzi et ses enfants Michel et Janine. Les recherches publiques identifient Janine Fantauzzi (1917–2002), épouse de François Fournier-Sarlovèze (1896–1975). Une société agricole portant toujours le nom **SCEA FANTAUZZI** est active dans l'Oise en 2026. Ses documents sociaux indexés mentionnent une transmission par une Mme Fournier-Sarlovèze à « ses 2 enfants » ; la gouvernance contemporaine comprend des Fournier-Sarlovèze et une génération Drach.
+
+La filiation précise des dirigeants contemporains depuis Janine reste **à fermer par l'acte notarié**. En revanche, la persistance d'un patrimoine/outil agricole portant le nom Fantauzzi dans l'Oise est un fait public actuel.
+
+Ce cas introduit une dimension supplémentaire :
+
+```text
+capacité familiale produite / issue d'un réseau corse
+→ implantation continentale
+→ entreprise agricole durable
+→ transmission intergénérationnelle hors Corse
+```
+
+Il ne démontre pas pourquoi cette capacité s'est implantée hors de Corse, mais il rend le déplacement territorial du capital observable.
+
+Dossier de travail : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
