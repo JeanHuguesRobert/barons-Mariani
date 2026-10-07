@@ -51,8 +51,11 @@ preparation:
   filing_channel_matrix: ../../../research/senatoriales-2026/matrice-canaux-materiels-depot-2026-10-07.md
   filing_channel_silence_evidence: ../../../research/senatoriales-2026/investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md
   evidence_schedule: ../../../research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.18.md
-  petition_version: "0.18"
+  petition_chronology_annex: ../../../research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md
+  gmail_audit: ../../../research/senatoriales-2026/investigation/gmail-audit-requete-2026-09-10-2026-10-07.md
+  petition_construction_protocol: ../../../research/senatoriales-2026/protocole-constitution-requete-cc-2026-10-07.md
+  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.19.md
+  petition_version: "0.19"
   petition_status: "working-draft — pre-filing consolidation — not filed"
   petition_sync_policy: "When the Corpus promotes a newer petition as current before filing, update this pointer and the living view in the same editorial movement; do not duplicate the petition text."
   note: "Magazine of the known post-n3 delta. The Book is not recomposed. Unknowns stay visible."
