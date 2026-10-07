@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.19"
+version: "0.20"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.20.md"
+  - "requete-conseil-constitutionnel-projet-v0.22.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -26,6 +26,7 @@ related:
   - "note-depot-dematerialise-requete-cc-2026-10-07.md"
   - "investigation/annexe-documentation-double-lecture-2026-10-07.md"
   - "../reviews/audit-double-lecture-requete-v0.20-2026-10-07.md"
+  - "../reviews/audit-intelligibilite-requete-v0.22-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
@@ -216,6 +217,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Documentation annexée** — joindre `investigation/annexe-documentation-double-lecture-2026-10-07.md` comme couche pédagogique : glossaire, acteurs, carte de procédure, chronologie, explication L.298/L.299/L.303, article 34, preuve électronique, statuts probatoires, guide du bordereau, tableaux question→trace→réponse→UNKNOWN et solutions praticables.
 - [ ] **Complétude initiale maximale raisonnable** — privilégier un dossier initial aussi complet que possible, même long, dès lors que la longueur sert la compréhension, la preuve ou la préservation d’un grief. Raison juridique : les griefs nouveaux après le délai de l’article 33 peuvent être irrecevables ; l’article 35 ne prévoit qu’une faculté exceptionnelle de compléter certaines pièces. La longueur doit être structurée pour ne pas masquer le noyau contentieux.
 - [ ] **Narration juridiquement contrôlée** — la requête doit expliquer non seulement « quoi », mais aussi le contexte, la finalité recherchée, les moyens employés, les contraintes et les réponses institutionnelles. Toute intention attribuée à un tiers doit être sourcée ou reformulée en fait observable / hypothèse.
+- [~] **Intelligibilité ≠ brièveté — audit v0.22** — passe substantielle accomplie : plusieurs paragraphes ont été **dépliés** en davantage de phrases afin de réduire la charge cognitive. Le nombre de mots n'est pas un critère de réussite. Audit : `../reviews/audit-intelligibilite-requete-v0.22-2026-10-07.md`.
 - [ ] **Passe micro-style phrase par phrase** — sur le texte hérité des versions antérieures, couper les phrases trop longues, supprimer les enchâssements inutiles, vérifier les antécédents de « cela / ceci / ce point / cette pièce », expliquer les acronymes à la première occurrence et fermer les « donc » dont la prémisse n'est pas écrite. Ne modifier aucun fait ni niveau de certitude.
 - [ ] **Placement final du control plane** — décider avant gel si la section IX reste dans le corps ou passe en annexe documentaire. Critère : elle doit aider l'audit sans distraire du noyau contentieux.
 - [ ] **Audit double lecture section par section** — fermer toutes les lignes de l’audit v0.20 : Premier écran, recevabilité, résumé, chronologie, formalités, solutions praticables, griefs 1–5, temporalité, conclusions, bordereau/matérialisation. Ne pas considérer une introduction générale comme suffisante.
@@ -227,8 +229,8 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Chronologie ↔ bordereau ↔ requête** — avant gel, contrôler automatiquement/manuellement qu'aucun fait important cité dans la requête n'est absent de la chronologie, qu'aucune pièce importante n'est orpheline de fait, et qu'aucun événement chronologique important n'est dépourvu de source identifiable.
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.20 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.20.
+- [~] **Version canonique de dépôt** — la v0.22 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.22.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La matrice `matrice-canaux-materiels-depot-2026-10-07.md` distingue désormais destinataire juridique, modalité matérielle, preuve et risque. L’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
