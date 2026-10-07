@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.24.md"
+  - "requete-conseil-constitutionnel-projet-v0.25.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -980,3 +980,19 @@ Audit initial de la v0.24 : plusieurs occurrences doivent être corrigées lors 
 - ainsi que d'autres « désormais / maintenant / actuellement » qui doivent être distingués selon qu'ils décrivent l'affaire ou seulement l'évolution de notre connaissance.
 
 La correction attendue est généralement une formulation directe au présent : **« P-14 établit... »**, **« la provenance est documentée par... »**, etc.
+
+
+## UPDATE — 7 octobre 2026 — requête v0.25 / premier paquet de corrections appliqué
+
+Première passe appliquée à la requête sans gel :
+- adresse de procédure remplacée par `jeanhuguesrobert@gmail.com` ;
+- suppression de l'affirmation erronée selon laquelle le requérant serait grand électeur / membre du collège électoral ; qualité pour agir recentrée sur la personne ayant fait acte de candidature ;
+- résultats électoraux reformulés avec pourcentage du collège d'abord, valeur absolue ensuite ;
+- comparateur Battini introduit avant la conclusion « soutien public visible ≠ vote secret » ;
+- `UNKNOWN` devient `UNKNOWN (inconnu)` ;
+- suppression de « Talleyrand appliqué » et d'autres commentaires sur la fabrication du document ;
+- suppression ou neutralisation des marqueurs `désormais / maintenant / à ce stade` lorsqu'ils ne décrivaient que l'évolution de notre connaissance ;
+- remplacement de `bundle` par une formulation française dans le corps du texte ;
+- retrait du mécanisme interne d'audit Gmail de la requête.
+
+Cette promotion reste une version de travail ; d'autres paquets de corrections peuvent être intégrés avant tout gel.
