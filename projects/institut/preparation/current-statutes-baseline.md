@@ -47,7 +47,7 @@ review:
 
 ## 1. Conclusion
 
-Au 5 octobre 2026 :
+Au 7 octobre 2026 :
 
 > **Les statuts signés à Corte le 25 décembre 1995 sont la dernière version dont l'adoption et la déclaration sont positivement établies par des pièces primaires retrouvées.**
 
