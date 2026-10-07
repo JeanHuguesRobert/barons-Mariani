@@ -242,3 +242,10 @@ Le présent litige établit l'applicabilité de la disposition et rend visible s
 La réponse doit valoir pour toute candidature placée sous le même régime procédural.
 
 Les identités du requérant, de sa remplaçante et du sénateur proclamé élu sont nécessaires au contentieux électoral concret ; elles ne définissent pas la portée de la norme constitutionnelle demandée.
+
+
+## Mémoire candidat au dépôt
+
+La présente note demeure le dossier de recherche. Le mémoire distinct destiné au paquet de dépôt est :
+
+`memoire-qpc-l303-garanties-juridictionnelles.md`
