@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.28"
+version: "0.29"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -398,6 +398,41 @@ Test obligatoire :
 > **Cette phrase apprend-elle quelque chose sur l'affaire, la preuve ou le droit, ou seulement sur la façon dont nous avons construit le document ?**
 
 Si elle ne décrit que la fabrication du document, elle appartient au control plane et doit être retirée de la requête.
+
+
+### Règle d'atemporalité rédactionnelle — ne pas raconter l'évolution de notre connaissance
+
+La requête doit exposer **l'état utile du dossier**, non l'histoire de sa préparation.
+
+Les marqueurs tels que **« désormais »**, **« maintenant »**, **« à ce stade »**, **« dorénavant »**, **« jusqu'ici »**, **« actuellement »** ou **« à présent »** sont à supprimer lorsqu'ils décrivent seulement l'évolution de notre travail, la découverte progressive d'une pièce ou la maturation d'une analyse.
+
+Invariant :
+
+~~~text
+ÉVOLUTION DE NOTRE TRAVAIL
+→ control plane
+
+ÉTAT DU DOSSIER AU MOMENT DU DÉPÔT
+→ requête
+~~~
+
+Exemple :
+
+~~~text
+À ÉVITER :
+« Inventaire initial désormais établi par P-14 »
+
+À ÉCRIRE :
+« P-14 établit l'inventaire initial des seize pièces. »
+~~~
+
+Ces marqueurs temporels restent admissibles uniquement lorsqu'ils décrivent **un fait matériel de l'affaire** ou une situation juridiquement pertinente au moment considéré.
+
+Test :
+
+> **Le mot temporel décrit-il un événement du dossier, ou seulement le fait que nous savons aujourd'hui quelque chose que nous ne savions pas hier ?**
+
+Dans le second cas, il doit être retiré de la requête.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -931,3 +966,17 @@ Nouvel invariant : la requête doit montrer le **résultat** du travail de contr
 Correction différée identifiée dans la v0.24 : supprimer notamment **« Talleyrand appliqué : lorsqu'une heure n'est pas établie, le document le dit. Il ne demande jamais au lecteur de l'inférer silencieusement. »** et reformuler uniquement le constat utile.
 
 Audit à effectuer lors de la prochaine promotion : rechercher dans toute la requête les mentions de Talleyrand, FractaCognition, control/data plane, protocoles, audits, règles de rédaction, commentaires métatextuels et autres traces du processus de fabrication ; ne conserver que ce qui est matériellement nécessaire à la compréhension, à la preuve ou au contradictoire.
+
+
+## UPDATE — 7 octobre 2026 — v0.29 / suppression des marqueurs de progression interne
+
+Ajout d'un invariant : la requête expose l'état du dossier, pas l'histoire de sa fabrication.
+
+Audit initial de la v0.24 : plusieurs occurrences doivent être corrigées lors de la prochaine promotion, notamment :
+- « Inventaire initial désormais établi par P-14 » ;
+- « la provenance ... est désormais documentée plus finement » ;
+- « l'inventaire ... est désormais établi grâce à P-14 » ;
+- « P-14 permet désormais d'établir ... » ;
+- ainsi que d'autres « désormais / maintenant / actuellement » qui doivent être distingués selon qu'ils décrivent l'affaire ou seulement l'évolution de notre connaissance.
+
+La correction attendue est généralement une formulation directe au présent : **« P-14 établit... »**, **« la provenance est documentée par... »**, etc.
