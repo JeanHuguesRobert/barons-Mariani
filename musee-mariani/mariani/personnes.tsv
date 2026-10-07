@@ -19,3 +19,8 @@ HAI-MADELEINE-1895	Hainguerlot	Madeleine	1895	1964	France; Belgique	secondaire_c
 TER-ANDRE-1888	Terlinden	André	1888	1945	Belgique; France	secondaire_convergent	PUBLIC-BIOGRAPHY	Époux de Madeleine Hainguerlot; ingénieur et haut fonctionnaire belge
 TER-JACQUELINE-1921	Terlinden	Jacqueline	1921	1964	Belgique; États-Unis	public_convergent	PUBLIC-BIOGRAPHY	Fille d’André Terlinden et Madeleine Hainguerlot; épouse du général Jean Compagnon
 COM-ANTOINE-1950	Compagnon	Antoine	1950		France; Belgique; États-Unis	public_etabli	PUBLIC-BIOGRAPHY	Fils du général Jean Compagnon et de Jacqueline Terlinden; académicien français, professeur au Collège de France
+MAR-MARIE-MADELEINE-1826	Mariani	Marie-Madeleine Sophie; Madeleine	1826-04-28	1888-04-15	Corte	secondaire_convergent	MEURGEY-TABLEAU-I+VILLAFLORE	Branche Filippini; parentage précis à refermer sur Meurgey/actes
+FIL-MICHEL-1821	Filippini	Michel Louis	1821-06-20		Corte; France continentale	secondaire_convergent	VILLAFLORE+ARCHIVES-FINANCES	Receveur particulier; époux de Madeleine Mariani en 1843
+FIL-ANGE	Filippini	Ange				secondaire	VILLAFLORE	Fils de Michel Filippini et Madeleine Mariani; époux d’une Seignouret
+FIL-MARIE-THERESE	Filippini	Marie-Thérèse Jeanne Louise		1961	Bordeaux; France	secondaire_convergent	VILLAFLORE+SHAP	Fille d’Ange Filippini; épouse Léonard d’Arlot de Saint-Saud en 1914
+ARL-LEONARD-1884	d’Arlot de Saint-Saud	Léonard Marie Pierre Marcel	1884-10-30	1943	France	secondaire_convergent	GENEANET+SHAP	Époux de Marie-Thérèse Filippini
