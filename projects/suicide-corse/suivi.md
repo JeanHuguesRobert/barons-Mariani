@@ -28,6 +28,24 @@ review:
 
 # Suivi du numéro 4
 
+## 7 octobre 2026 — v0.19, chronologie annexée et audit Gmail
+
+La requête courante est désormais **v0.19**. Le bordereau courant reste **v0.10** et le statut **non déposé**.
+
+Le mouvement est méthodologique et probatoire :
+- une annexe chronologique détaillée couvre désormais chaque journée depuis le premier courriel à la préfecture du 10 septembre à 17:01:56 jusqu'au dépôt effectif ;
+- un registre d'audit Gmail différentiel recherche les messages pertinents hors cartographie initiale et impose une disposition INCLUDE / RÉSERVE / EXCLURE avec motif / REVIEW ;
+- le protocole de constitution de la requête interdit la promotion d'une version lorsque requête, chronologie, bordereau, inventaire et Gmail divergent silencieusement.
+
+L'audit Gmail a déjà renforcé **P-04** : trois DSN natifs retrouvés corroborent l'échec technique pour taille du premier envoi du 10 septembre avant la retransmission allégée de 17:54:50.
+
+Sources canoniques :
+- `research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.19.md`
+- `research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`
+- `research/senatoriales-2026/investigation/gmail-audit-requete-2026-09-10-2026-10-07.md`
+- `research/senatoriales-2026/protocole-constitution-requete-cc-2026-10-07.md`
+
+
 ## 7 octobre 2026 — v0.18, P-45 et redondance de dépôt
 
 La requête courante est désormais **v0.18** et le bordereau courant **v0.10**. Le statut reste **non déposé**.
