@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -148,23 +148,41 @@ Une copie privée Google Drive est documentée par l'identifiant `1P0AIJ-FzX69xk
 
 ### P-18 — attestation CAF relative à Mme Laurence Vernerey
 
-**Statut : SOURCE PRIMAIRE À RETROUVER / SENSIBLE.**
+**Statut : SOURCE PRIMAIRE LOCALISÉE / SENSIBLE.**
 
-Son existence et son usage le 14 septembre sont documentés par plusieurs pièces, dont la note manuscrite et la note en délibéré. L'audit de bibliothèque n'a pas encore isolé avec certitude le fichier CAF primaire.
+Le fichier primaire a été retrouvé comme pièce jointe :
 
-**Action restante :** retrouver l'attestation primaire, puis produire une copie minimisée si elle reste nécessaire à la QPC L.299 et au grief handicap.
+`1789382961469-cnaf.pdf`
+
+Données matérielles :
+- taille : **94 775 octets** ;
+- SHA-256 : `308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2`.
+
+Chaîne de provenance :
+1. message reçu le 14 septembre 2026 intitulé **« Papier demandé »**, contenant ce PDF ;
+2. **P-19 — note en délibéré du 14 septembre**, envoyée au greffe à 15 h 48 min 32 s, contenant exactement le même fichier comme pièce jointe.
+
+Cette double présence établit la source du document et sa transmission au Tribunal administratif.
+
+**Action restante :** préparer la copie produite au Conseil constitutionnel en minimisant les données privées étrangères au litige, tout en conservant l'original natif intact et l'empreinte ci-dessus.
 
 ### P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification
 
-**Statut : À VERROUILLER.**
+**Statut : SOURCE PRIMAIRE PAPIER À ISOLER ; CHAÎNE DE NOTIFICATION ÉTABLIE.**
 
-La chronologie et les documents du Corpus établissent le jugement et la chaîne de notification ; le paquet doit néanmoins contenir l'expédition primaire du jugement et les éléments utiles de notification.
+La recherche Gmail confirme qu'aucune expédition du jugement n'a été transmise comme pièce jointe dans la séquence retrouvée.
+
+Deux messages du greffe structurent la chaîne :
+- le **16 septembre 2026**, le greffe confirme que la décision a été rendue le lundi 14 septembre ;
+- le **21 septembre 2026**, le greffe indique que le pli contenant le jugement attend à La Poste **depuis le 17 septembre 2026** et invite M. Robert à le retirer.
+
+La source primaire pertinente est donc l'expédition papier reçue par recommandé, et non une hypothétique copie jointe par courriel.
 
 **Action restante :**
-- localiser l'expédition primaire PDF ou scan du jugement ;
-- rattacher les sous-pièces de notification **P-20.a** ;
-- vérifier dates, numéro de dossier et pages ;
-- conserver la photographie de l'avenue du Baron Mariani comme élément contextuel distinct, sans lui attribuer une portée juridique qu'elle n'a pas.
+- isoler ou rescanner l'expédition primaire du jugement retirée à La Poste ;
+- rattacher **P-20.a — chaîne postale et contexte matériel de notification** : avis de passage, enveloppe, cachets, retrait, page de notification et autres éléments utiles ;
+- vérifier les numéros de dossiers, pages, date de lecture et toute mention de notification ;
+- conserver séparément la photographie de l'avenue du Baron Mariani comme élément contextuel, sans lui attribuer de portée juridique autonome.
 
 ### P-08 — traces du trajet du 11 septembre vers Bastia
 
@@ -242,9 +260,10 @@ Les principales sources électroniques sont localisées ; plusieurs pièces qui 
 
 Les véritables verrous matériels encore ouverts sont surtout :
 
-1. **P-18 — attestation CAF relative à Mme Vernerey** : original primaire à isoler ;
-2. **P-20 — jugement TA + notification** : expédition primaire à isoler et sous-pièces à assembler ;
-3. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
-4. **P-13 — vidéo commune** : rattacher le MP4 primaire ou arrêter son mode de production ;
-5. assemblage effectif du recueil **P-46** et du paquet final.
+1. **P-20 — jugement TA + notification** : expédition primaire papier à isoler et sous-pièces à assembler ;
+2. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
+3. **P-13 — vidéo commune** : rattacher le MP4 primaire ou arrêter son mode de production ;
+4. assemblage effectif du recueil **P-46** et du paquet final.
+
+**P-18 — attestation CAF relative à Mme Vernerey** n'est plus un verrou de localisation : le PDF primaire et sa chaîne de transmission au greffe sont établis.
 
