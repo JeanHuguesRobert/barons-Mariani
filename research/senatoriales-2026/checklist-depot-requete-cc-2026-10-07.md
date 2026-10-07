@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.41"
+version: "0.42"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -762,6 +762,28 @@ Les deux pistes constitutionnelles sont désormais nommées par leur objet :
 
 Une QPC doit toujours être désignée par un intitulé permettant de comprendre immédiatement le texte visé et la question constitutionnelle étudiée. Les lettres, sigles internes ou numéros de travail ne peuvent servir seuls de nom public.
 
+
+### QPC dans le paquet final adressé au Conseil constitutionnel
+
+Les deux QPC ne doivent pas rester des pistes de recherche extérieures à la requête.
+
+Le paquet effectivement adressé au Conseil constitutionnel doit comprendre :
+
+- la requête électorale stable `requete-conseil-constitutionnel.md`, qui **soulève expressément** les deux QPC et en expose l'objet ;
+- un mémoire distinct et motivé **« QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs »** ;
+- un mémoire distinct et motivé **« QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant »**.
+
+Les deux mémoires QPC sont des éléments constitutifs du dépôt final, non de simples annexes facultatives ou notes de recherche.
+
+Avant figement du paquet, vérifier pour chacune :
+1. disposition législative exacte ;
+2. applicabilité au litige ;
+3. droit ou liberté constitutionnellement garanti invoqué ;
+4. état de la jurisprudence constitutionnelle antérieure ;
+5. caractère nouveau ou sérieux ;
+6. rédaction autonome, intelligible et motivée ;
+7. présence effective dans le paquet remis au Conseil.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1386,3 +1408,8 @@ Ajout d'une règle d'ergonomie : lorsqu'un document GitHub est proposé à la le
 ## UPDATE — 7 octobre 2026 — v0.41 / référence stable et QPC nommées
 
 La requête courante est désormais référencée par le chemin stable `requete-conseil-constitutionnel.md`. Les anciennes désignations QPC A / QPC B sont remplacées par des intitulés intelligibles fondés sur les articles L.303 et L.299 et leur objet constitutionnel.
+
+
+## UPDATE — 7 octobre 2026 — v0.42 / QPC constitutives du dépôt final
+
+Les deux QPC L.303 et L.299 doivent être effectivement soulevées dans la requête adressée au Conseil constitutionnel et déposées simultanément sous forme de mémoires distincts et motivés. Elles ne sont plus traitées comme de simples pistes extérieures au paquet final.
