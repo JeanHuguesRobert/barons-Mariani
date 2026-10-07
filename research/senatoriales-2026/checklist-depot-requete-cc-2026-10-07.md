@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.23"
+version: "0.24"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -208,6 +208,43 @@ Pour chaque développement et chaque pièce, tester trois lecteurs :
 Cette troisième exigence n'autorise ni digression gratuite, ni emphase historique, ni surqualification. Elle impose au contraire de conserver le **contexte matériel nécessaire**, de dater les faits, d'identifier les acteurs et institutions, d'expliciter les enjeux contemporains et de séparer strictement faits établis, interprétations, hypothèses et mémoire du requérant.
 
 Le but n'est pas de déclarer dans la requête qu'elle « fera l'Histoire ». Le but est de l'écrire de telle sorte qu'elle puisse, si elle devient une source historique, être comprise et vérifiée sans reconstruction extérieure inutile.
+
+
+### Double horizon contentieux — Conseil constitutionnel + préparation CEDH
+
+Le travail ne poursuit pas un seul objectif juridictionnel.
+
+Il doit simultanément :
+
+1. **contester l'élection sénatoriale du 27 septembre 2026 devant le Conseil constitutionnel**, dans le cadre, les délais, l'office et les remèdes propres au contentieux électoral parlementaire ;
+2. **préserver et préparer dès maintenant un éventuel recours ultérieur devant la Cour européenne des droits de l'homme (CEDH)**, sans attendre l'issue nationale pour commencer à documenter les griefs, les répétitions alléguées, les diligences, les réponses institutionnelles, les préjudices et l'épuisement des voies de recours pertinentes.
+
+Invariant :
+
+~~~text
+DOSSIER CONSEIL CONSTITUTIONNEL
+≠ DOSSIER CEDH
+
+mais
+
+PREUVE / CHRONOLOGIE / TRAÇABILITÉ / GRIEFS PRÉSERVÉS
+→ peuvent alimenter les deux
+~~~
+
+Le control plane doit donc empêcher deux erreurs symétriques :
+
+- **polluer la requête électorale nationale** avec des développements CEDH qui n'y servent aucun moyen recevable ;
+- **perdre aujourd'hui une trace utile à Strasbourg** au motif qu'elle n'est pas décisive pour le Conseil constitutionnel.
+
+Pour chaque élément matériel, poser aussi la question suivante :
+
+> **Cet élément est-il utile seulement au contentieux électoral immédiat, seulement à la préservation d'un futur grief CEDH, aux deux, ou à aucun des deux ?**
+
+Le futur dossier CEDH devra être construit séparément, avec ses propres contrôles de recevabilité, qualité de victime, épuisement des recours internes, délai, griefs conventionnels, causalité et réparation.
+
+La continuité alléguée d'un traitement médiatique défavorable depuis **2017**, y compris lorsqu'elle concerne des médias de service public, doit être documentée comme une **hypothèse longitudinale à tester** et non comme une conclusion acquise. Le dossier devra distinguer, année par année et média par média : information disponible, traitement observé, comparateurs, démarches entreprises, réponses reçues, effet allégué sur le scrutin, effet réputationnel, préjudice moral allégué et preuve disponible.
+
+Les demandes éventuelles de réparation constituent un sous-dossier distinct : leur fondement, leur recevabilité, leur causalité et leur quantification devront être instruits séparément. Toute intention déclarée d'affecter une éventuelle somme à un fonds ou à une structure d'intérêt général ne modifie ni l'existence juridique du préjudice personnel allégué ni les conditions d'octroi d'une satisfaction équitable ; elle doit donc rester séparée de la démonstration du dommage.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -689,3 +726,15 @@ La double lecture est désormais explicitement comprise comme une architecture �
 Nouvel invariant : la valeur d'une pièce ne se réduit pas à sa force probatoire immédiate ni à la décision de la joindre matériellement. Le contrôle doit distinguer **portée contentieuse**, **fonction dans le raisonnement**, **valeur historique/documentaire** et **décision de production**.
 
 La requête v0.24 reçoit une note de lecture bornée : elle affirme son ambition d'être aussi autoporteuse que possible et de documenter intelligiblement la séquence corse de 2026, tout en précisant que cette ambition n'ajoute aucun grief et ne demande pas au Conseil de statuer sur une interprétation historique.
+
+
+## UPDATE — 7 octobre 2026 — v0.24 / double horizon contentieux
+
+Le control plane formalise désormais deux objectifs parallèles :
+
+- **Conseil constitutionnel** : contester l'élection sénatoriale du 27 septembre 2026 et le refus d'enregistrement dans le cadre de L.303 ;
+- **CEDH** : préserver et préparer dès maintenant un éventuel recours européen ultérieur.
+
+Règle de séparation : aucun développement CEDH ne doit encombrer la requête nationale s'il n'y sert aucun moyen recevable ; inversement, aucune trace potentiellement utile à Strasbourg ne doit être perdue au seul motif qu'elle est périphérique pour le Conseil constitutionnel.
+
+La série alléguée **2017 → 2020 → 2024 → 2026** sur le traitement médiatique devient un axe longitudinal à documenter, avec séparation stricte entre faits observés, comparaison, causalité alléguée, atteinte à la réputation, préjudice moral et éventuelle réparation.
