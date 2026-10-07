@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   build-review-pdf:
@@ -94,3 +95,17 @@ jobs:
             ${{ runner.temp }}/cc-review/SOURCE_COMMIT.txt
           retention-days: 7
           if-no-files-found: error
+
+      - name: Publish durable REVIEW build receipt
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh issue comment 90 --repo "${{ github.repository }}" --body "## CC petition REVIEW PDF — build complete
+
+          - source commit: `${{ github.sha }}`
+          - workflow run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - run id: `${{ github.run_id }}`
+          - artifact: `requete-conseil-constitutionnel-REVIEW-${{ github.sha }}`
+          - semantics: REVIEW / non déposé / non gelé / non publié comme Release
+          - retention: 7 days"
