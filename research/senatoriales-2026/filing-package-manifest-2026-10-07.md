@@ -25,7 +25,7 @@ related:
 | Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
 | Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
 | Inventaire probatoire | v1.8 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.53 | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.55 | outil interne ; ne pas annexer par défaut |
 
 ## 1 bis. Annexe chronologique obligatoire
 
