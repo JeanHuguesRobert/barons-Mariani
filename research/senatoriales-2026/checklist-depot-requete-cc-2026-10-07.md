@@ -1247,6 +1247,19 @@ Sources primaires photographiques retrouvées :
 
 P-20 n'est plus un verrou de localisation. Priorité restante : matérialiser cette séquence dans le recueil final sans modifier les originaux.
 
+
+### P-16 qualifiée sans surinterprétation — v0.56
+
+**P-16 — mémoire en défense préparé pour l'audience du Tribunal administratif**
+- PDF de 10 pages retrouvé : `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` ;
+- note minimale d'une page retrouvée : `note_minimale_greffe_TA_Bastia_2026-09-14.pdf` ;
+- les deux ont été créés avant l'audience ;
+- aucune transmission Gmail de ces PDF au greffe avant audience n'a été retrouvée ;
+- e-Sagace mentionne une « Réception d'une lettre » sans identifier son contenu ;
+- le jugement confirme seulement des « observations écrites et orales ».
+
+Règle : ne pas présenter comme établi que le PDF de 10 pages a été physiquement déposé. Produire P-16 comme document de défense préparé pour l'audience et conserver la question de l'identification de la « lettre » comme inconnue probatoire.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
