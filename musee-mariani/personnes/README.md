@@ -7,8 +7,8 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
-last_modified_at: '2026-10-02'
-version: '0.8'
+last_modified_at: '2026-10-07'
+version: '0.9'
 status: working — canonical persons index
 language: fr
 license: CC BY-SA 4.0
@@ -165,3 +165,26 @@ Lorsqu’une notice individuelle est créée :
 5. lorsqu’un sous-corpus spécialisé existe, relier la notice à son index canonique plutôt que dupliquer son contenu.
 
 Le but est un index **navigable, corrigible et probatoire**, non une généalogie déclarative figée.
+## Branche Louis-Thomas — descendance féminine nouvellement reconstruite
+
+Le dépouillement du **Tableau I — Les Mariani** de Meurgey et son prolongement vers 2026 ont montré que l'index initial sous-représentait fortement les descendants par les femmes.
+
+Chaîne de travail désormais intégrée au graphe canonique avec statuts secondaires/publics explicites :
+
+```text
+Louis-Thomas Mariani
+× Thérèse Allesina von Schweitzer
+→ Madeleine Mariani (1850–1924)
+  × Abdomar d’Adhémar de Lantagnac
+  → Thérèse d’Adhémar → Girot de Langlade
+  → Blanche d’Adhémar → Hainguerlot
+      → Madeleine Hainguerlot → Terlinden
+          → Jacqueline Terlinden → Antoine Compagnon
+```
+
+Cette chaîne est importante moins pour les noms eux-mêmes que pour la méthode : **une généalogie du seul patronyme Mariani manquerait une descendance nombreuse et socialement très visible**.
+
+Dossier de continuation :
+[`Meurgey 1933 → 2026 — branche Louis-Thomas par Madeleine Mariani`](../sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md).
+
+Les personnes vivantes privées ne sont pas ajoutées à l'index simplement parce qu'elles apparaissent dans des bases généalogiques ; seules les personnalités publiques ou les maillons strictement nécessaires à la démonstration documentaire sont conservés.
