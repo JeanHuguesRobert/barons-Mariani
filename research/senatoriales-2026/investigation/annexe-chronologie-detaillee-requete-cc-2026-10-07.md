@@ -2,7 +2,7 @@
 title: "Annexe — chronologie probatoire détaillée — requête sénatoriale Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.4"
+version: "0.5"
 status: "active — evolving until filing"
 language: "fr"
 document_role: "legal-annex"
@@ -87,7 +87,7 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 |---|---|---|---|---|
 | 14:09:17 | Courriel préfecture + greffe signalant notamment l'absence apparente de la vidéo dans le dossier transmis | P-15 — Gmail 1a09fd25895322fe | ÉTABLI | Alerte avant audience. |
 | 14:09:26 | Accusé automatique de la préfecture | Gmail 1a09fd28135eb8c3 | ÉTABLI | — |
-| avant audience | **P-16 — mémoire en défense devant le Tribunal administratif** | mémoire produit au dossier | ÉTABLI | Expose la défense du candidat avant le jugement. |
+| audience / avant clôture | Observations écrites correspondant, selon le requérant, à **P-16 — mémoire en défense devant le Tribunal administratif** | jugement : « observations écrites et orales » + PDF conservé | CORROBORÉ, IDENTITÉ MATÉRIELLE À VERROUILLER | L'existence d'observations écrites est établie ; l'identité exacte du PDF conservé avec l'exemplaire matériel présenté à l'audience reste à confirmer. |
 | 15:00 | Ouverture audience | P-20 | ÉTABLI | — |
 | ouverture audience | Remise d'observations manuscrites | P-17 + témoignage | RAPPORTÉ + TRACE | Lien exact avec « Réception d'une lettre » Sagace INCONNU. |
 | 15:15 | Clôture instruction | P-20 | ÉTABLI | — |
