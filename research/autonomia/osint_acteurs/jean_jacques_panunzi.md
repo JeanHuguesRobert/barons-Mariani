@@ -4,9 +4,11 @@ description: "Fiche OSINT publique sur le rôle de Jean-Jacques Panunzi dans le 
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-06'
+last_modified_at: '2026-10-07'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
+snapshot_as_of: '2026-10-07T07:36:00+02:00'
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/osint_acteurs/jean_jacques_panunzi.md"
 document_role: source
 document_kind: research-note
@@ -33,7 +35,7 @@ review:
 
 **Priorité : maximale.** Sénateur de Corse-du-Sud disposant d’un vote direct sur le projet de loi constitutionnelle relatif à l’autonomie de la Corse.
 
-Dernière vérification : **6 octobre 2026**.
+Dernière vérification : **7 octobre 2026 à 7 h 36**.
 
 ## Identité publique minimale
 
@@ -64,10 +66,16 @@ Cette synthèse doit être approfondie par extraction systématique de ses décl
 | Dimension | Niveau provisoire | Fondement |
 |---|---:|---|
 | Pouvoir formel | très élevé | vote sénatorial direct |
-| Pouvoir procédural | moyen à élevé | capacité d’amendement ; commission 2026 à vérifier après renouvellement |
+| Pouvoir procédural | moyen à élevé, état interne à actualiser | capacité d’amendement ; commissions renouvelées le 6 octobre, bureau de la commission des lois en constitution le 7 octobre |
 | Pouvoir politique | élevé en Corse-du-Sud et au sein de la droite corse | sénateur réélu, ancien président du conseil général |
 | Pouvoir informationnel | élevé | accès direct aux travaux sénatoriaux |
 | Pouvoir de réseau | à documenter | entourage connecté à la mairie d’Ajaccio, à l’Assemblée de Corse et au Sénat |
+
+## État sénatorial du 7 octobre
+
+Le Sénat a publié le 6 octobre les listes des membres des commissions permanentes. Le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30**.
+
+À **7 h 36**, la présente fiche ne présume ni la fonction interne de Panunzi dans la nouvelle architecture des commissions ni l’identité du rapporteur du texte n° 782. Ces données doivent être stabilisées après publication officielle.
 
 ## Collaborateurs parlementaires documentés
 
@@ -94,7 +102,7 @@ L’état exact de cette équipe après la réélection du 27 septembre 2026 dev
 
 ## Questions ouvertes
 
-- Quelle est sa commission d’appartenance après le renouvellement sénatorial d’octobre 2026 ?
+- Quelle fonction exacte occupe-t-il dans l’architecture des commissions après constitution des bureaux du 7 octobre 2026 ?
 - Quelles modifications précises entend-il porter au texte n° 782 ?
 - Quels amendements déposera-t-il personnellement ou avec son groupe ?
 - Quelle part de sa ligne est partagée par son groupe au Sénat ?
