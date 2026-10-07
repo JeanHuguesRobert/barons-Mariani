@@ -31,7 +31,7 @@ jobs:
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          import re
+          import os
 
           src = Path("research/senatoriales-2026/requete-conseil-constitutionnel.md")
           text = src.read_text(encoding="utf-8")
@@ -51,7 +51,7 @@ jobs:
 ---
 
 """
-          out = Path("$RUNNER_TEMP/requete-review.md")
+          out = Path(os.environ["RUNNER_TEMP"]) / "requete-review.md"
           out.write_text(notice + text, encoding="utf-8")
           PY
 
