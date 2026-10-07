@@ -12,7 +12,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.25.md"
+  - "../requete-conseil-constitutionnel.md"
   - "annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
   - "sources/courriel-consolidation-prefecture-ta-2026-10-01.md"
   - "sources/courriel-tracabilite-prefecture-2026-10-02.md"
