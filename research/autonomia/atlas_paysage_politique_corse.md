@@ -1,16 +1,24 @@
 ---
 title: Atlas du paysage politique et discursif corse — Une Corse capable
 subtitle: Acteurs, terrains rhétoriques, axes de polarisation, angles morts et formules de reconfiguration
+description: Atlas consolidé du paysage politique, institutionnel et discursif corse, intégrant les séquences parlementaires de juin, septembre et octobre 2026 jusqu'au 7 octobre à 9 h.
 author: Jean Hugues Noël Robert
 date: '2026-05-27'
-status: working-paper — campaign / public rhetoric atlas - source material for derived products (autonomie de capacité)
-version: 1.1-atlas
+last_modified_at: '2026-10-07'
+status: working-paper — consolidated atlas current as of 2026-10-07
+version: 2.0-atlas
 x-type: political and discursive atlas
 x-branch: main
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
 license: CC BY-SA 4.0
 x-source_file: atlas_paysage_politique_corse_v1.0.md
 related_documents:
+  - title: Note synthétique — état au 7 octobre 2026
+    path: research/note_synthetique_autonomie_capacite_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
+  - title: Observatoire public du processus d’autonomie de la Corse
+    path: research/autonomia/observatoire_processus_autonomie_corse.md
+    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
   - title: Stock de formules publiques — Autonomie de Capacité
     path: research/autonomia/formules_publiques_autonomie_capacite.md
     url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/formules_publiques_autonomie_capacite.md
@@ -38,6 +46,11 @@ classification_rule: research-paper
 classification_confidence: medium
 language: fr
 update_policy: UP-DEFAULT-REVIEWED
+snapshot_as_of: '2026-10-07T09:00:00+02:00'
+consolidates:
+  - research/autonomia/atlas_paysage_politique_corse_actualisation_2026-06.md
+  - research/autonomia/atlas_paysage_politique_corse_addendum_2026-09.md
+  - research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md
 review:
   status: unreviewed
   reviewed_by: []
@@ -52,6 +65,167 @@ provenance:
 
 
 # Atlas du paysage politique et discursif corse — Une Corse capable
+
+
+## État consolidé au 7 octobre 2026
+
+Cette version **2.0** est le document consolidé courant. Les fichiers d’actualisation de juin, septembre et octobre 2026 demeurent dans le Corpus comme **traces historiques de couches successives**, mais leur lecture n’est plus nécessaire pour disposer de l’état courant de la carte.
+
+### Séquence institutionnelle
+
+Le projet de loi constitutionnelle pour une Corse autonome au sein de la République a été adopté par l’Assemblée nationale le **23 juin 2026**, puis transmis au Sénat le **24 juin 2026** sous le n° 782.
+
+Au matin du **7 octobre 2026**, le centre de gravité est désormais sénatorial :
+
+```text
+Assemblée nationale — texte adopté
+        ↓
+Sénat renouvelé après le scrutin du 27 septembre
+        ↓
+commission des lois renouvelée
+        ↓
+constitution de son bureau — 7 octobre, 9 h 30
+        ↓
+audition de Françoise Gatel — 7 octobre, 15 h
+        ↓
+rapport annoncé — 21 octobre
+        ↓
+amendements de séance — délai annoncé 23 octobre, 12 h
+        ↓
+séance publique — 26 octobre
+```
+
+À **9 h le 7 octobre**, l’identité du rapporteur du texte n’est pas présumée dans cet Atlas tant qu’elle n’est pas officiellement établie.
+
+### Représentation sénatoriale issue du 27 septembre
+
+**Haute-Corse**
+
+- inscrits : 616 ;
+- votants : 606 ;
+- blancs : 36 ;
+- nuls : 40 ;
+- exprimés : 530 ;
+- Paul Toussaint Parigi : 442 voix, soit **83,40 %** des exprimés ;
+- Nicolas Battini : 88 voix.
+
+Les bulletins blancs et nuls représentent ensemble **76 bulletins**, soit **12,54 % des votants**. Cette proportion est un fait électoral ; sa signification politique ne doit pas être déduite sans éléments supplémentaires.
+
+**Corse-du-Sud**
+
+- inscrits : 465 ;
+- votants : 458 ;
+- blancs : 2 ;
+- nuls : 4 ;
+- exprimés : 452 ;
+- Jean-Jacques Panunzi : 293 voix, soit **64,82 %** des exprimés ;
+- Jean Giuseppi : 153 ;
+- René Pères : 4 ;
+- Christophe Versini : 2.
+
+Les deux sénateurs corses sortants sont donc reconduits. Cette continuité des personnes coexiste avec une recomposition institutionnelle du Sénat.
+
+### Acteurs sénatoriaux corses
+
+**Paul Toussaint Parigi** demeure un acteur central du dossier : sénateur de Haute-Corse réélu, engagé publiquement en faveur du processus d’autonomie et disposant d’un vote et d’une faculté d’amendement sur le texte. Son rôle précis dans la commission renouvelée doit être rattaché aux publications sénatoriales postérieures à la constitution du bureau.
+
+**Jean-Jacques Panunzi**, réélu en Corse-du-Sud, défend publiquement une reconnaissance constitutionnelle de la Corse et une capacité d’adaptation de la loi sous conditions, tout en contestant l’idée d’un pouvoir législatif territorial général. Son positionnement précis sur les amendements à venir doit être établi par ses actes et déclarations de la nouvelle séquence.
+
+Fiches OSINT courantes :
+
+- [Paul Toussaint Parigi](osint_acteurs/paulu_santu_parigi.md)
+- [Jean-Jacques Panunzi](osint_acteurs/jean_jacques_panunzi.md)
+- [Index des acteurs](osint_acteurs/index.md)
+
+### Transformation de la proposition C.O.R.S.I.C.A.
+
+La proposition a évolué sans renier sa finalité.
+
+La première phase cherchait à **nommer constitutionnellement l’Autonomie de Capacité** et à relier l’autonomie à des finalités territoriales concrètes.
+
+La phase courante cherche un **delta constitutionnel plus petit et plus appropriable** :
+
+```text
+facultés juridiques ouvertes
+→ conditions de mise en œuvre effective
+→ observation de l’usage ou du non-usage
+→ évaluation périodique
+→ effets au regard de Liberté, Égalité, Fraternité
+```
+
+Le document parlementaire courant est l’[Amendement d’effectivité — article 72-5](amendement_effectivite_article_72-5.md), version `0.5-rc1`.
+
+La proposition ne crée ni droit automatique à une habilitation, ni résultat garanti, ni architecture d’évaluation parallèle. Elle enrichit le mécanisme organique déjà prévu afin que la faculté juridique puisse être confrontée à sa mise en œuvre réelle.
+
+### Carte des niveaux de capacité
+
+L’autonomie ne doit pas être lue uniquement comme une relation Paris ↔ Ajaccio.
+
+La carte consolidée distingue :
+
+```text
+État
+↓
+Collectivité de Corse
+↓
+communes / intercommunalités
+↓
+organisations / associations / entreprises / communs
+↓
+habitants
+```
+
+À chaque transfert ou faculté nouvelle, quatre questions doivent rester visibles :
+
+1. **qui acquiert une capacité ?**
+2. **à faire quoi ?**
+3. **dans quelles conditions réelles d’accès et d’exercice ?**
+4. **avec quels mécanismes de contrôle, correction et responsabilité ?**
+
+Un gain de capacité institutionnelle pour la Collectivité ne constitue pas automatiquement un gain équivalent pour les habitants ou les communes.
+
+### Continuité documentaire Assemblée nationale → Sénat
+
+Le 28 mai 2026, C.O.R.S.I.C.A. a transmis une contribution écrite à la commission des lois de l’Assemblée nationale après que le service de la commission eut proposé ce canal. Le rapport n° 2865 de Florent Boudié mentionne ensuite **Association C.O.R.S.I.C.A.** dans la rubrique des contributions écrites.
+
+Ce précédent établit une **continuité documentaire et un canal institutionnel**.
+
+Il n’établit pas une causalité entre la contribution et une rédaction adoptée, ni un soutien parlementaire ultérieur à l’amendement d’effectivité.
+
+La chaîne d’observation doit rester :
+
+```text
+publication
+→ réception
+→ routage
+→ examen
+→ reprise éventuelle
+```
+
+Chacun de ces états doit être documenté séparément.
+
+### Fenêtres immédiates d’effectivité
+
+Au 7 octobre, les principaux jalons sont :
+
+- **7 octobre, 9 h 30** : constitution annoncée du bureau de la commission des lois ;
+- **7 octobre, 15 h** : audition annoncée de Françoise Gatel sur le projet corse ;
+- **21 octobre au matin** : réunion annoncée de la commission pour le rapport ;
+- **23 octobre à 12 h** : délai annoncé pour les amendements de séance ;
+- **26 octobre** : discussion annoncée en séance publique.
+
+Ces dates constituent des fenêtres opérationnelles, mais doivent être revérifiées avant tout acte externe.
+
+### Sources primaires de l’état consolidé
+
+- Sénat — projet n° 782 : https://www.senat.fr/leg/pjl25-782.html
+- Sénat — dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Sénat — calendrier de renouvellement des instances : https://www.senat.fr/travaux-parlementaires/seance-publique/ordre-du-jour/calendrier-de-renouvellement-des-instances-du-senat.html
+- Ministère de l’Intérieur — Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+- Ministère de l’Intérieur — Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
+
+---
+
 
 
 ## Documents compagnons
@@ -73,7 +247,7 @@ Formule de travail :
 
 ## Statut
 
-Ce document constitue un atlas de travail du paysage politique, institutionnel, médiatique, social, économique, culturel et moral de la Corse, en vue d’une candidature sénatoriale et de la formalisation de l’Autonomie de Capacité.
+Ce document constitue l’**Atlas consolidé courant** du paysage politique, institutionnel, médiatique, social, économique, culturel et moral de la Corse. Il conserve sa profondeur historique tout en présentant en tête de document l’état courant nécessaire à la phase sénatoriale du projet constitutionnel.
 
 Il rassemble des terrains rhétoriques, acteurs, lignes de fracture, angles morts, formules publiques et reconfigurations possibles vers le but politique : **Une Corse capable**.
 
