@@ -73,6 +73,9 @@ Statut de ce manifeste :
 
 ### P-45 — chaîne intégrale de courriels
 
+**Convention de matérialisation : P-45 est un identifiant parent logique, non un cinquième fichier PDF.** Sa matérialisation est entièrement portée par P-45.a à P-45.d dans le contrat machine. L'absence d'un `P-45.pdf` autonome n'est donc pas un manque.
+
+
 À produire comme pièce A composite :
 - P-45.a — courriel du 26/09 ;
 - P-45.b — courriel du 28/09 à la Sous-préfecture de Corte ;
