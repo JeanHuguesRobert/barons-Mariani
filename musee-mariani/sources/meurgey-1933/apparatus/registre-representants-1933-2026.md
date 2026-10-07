@@ -47,7 +47,7 @@ Source canonique : [`p002.md`](../transcription/p002.md), [MEURGEY-1933 p. 2].
 | **la baronne André Terlinden** | Madeleine Hainguerlot × André Terlinden | Blanche d'Adhémar → Madeleine Hainguerlot | **SUBSISTANTE, nombreuse** | lien corse contemporain non établi | inclut Jacqueline Terlinden → Jean Compagnon → Antoine Compagnon |
 | **la vicomtesse de Saint-Saud** | Marie-Thérèse Filippini × Léonard d'Arlot de Saint-Saud | Marie-Madeleine Mariani → Filippini | **POSTÉRITÉ NON TROUVÉE / UNKNOWN** | aucun | mariage et trajectoire patrimoniale documentés ; absence d'enfants non démontrée |
 | **M. Antoine Fantauzzi et ses fils Christian et Gérard** | Antoine Fantauzzi × Marie-Thérèse Le Clerc de Bussy ; Christian (1916–1990) ; Gérard (1923–2005) | branche Fantauzzi issue d'une alliance Mariani à préciser | **À PROLONGER** | ancrage surtout continental documenté ; origine corse familiale | Christian et Gérard identifiés dans état civil secondaire/public |
-| **M. Jules Fantauzzi et ses enfants Michel et Janine Fantauzzi** | Jules Fantauzzi (1881–...) × Suzanne Meurgey ; Michel ; Janine × François Fournier-Sarlovèze en 1947 | branche Fantauzzi | **Janine : continuation possible à rechercher ; Michel : indiqué mort pour la France dans une source secondaire** | hors Corse dans les données retrouvées | secondaire convergent |
+| **M. Jules Fantauzzi et ses enfants Michel et Janine Fantauzzi** | Jules Fantauzzi (1881–...) × Suzanne Meurgey ; Michel ; Janine (1917–2002) × François Marie Nicolas Fournier-Sarlovèze (1896–1975) | branche Fantauzzi | **SUBSISTANCE TRÈS PROBABLE par Janine ; fermeture notariale encore requise** | implantation patrimoniale/agricole durable dans l’Oise | SCEA Fantauzzi active en 2026 ; actes sociaux indiquant une transmission à deux enfants ; identité des deux maillons à fermer directement par l’acte |
 | **Mlle Sophie Gautier** | identité exacte et rattachement encore à fermer | branche Gautier / Fantauzzi visible au Tableau I | **UNKNOWN** | inconnu | priorité de reconstruction du Tableau I |
 
 ## Correctif Vaufreland
@@ -123,3 +123,24 @@ personne explicitement citée comme représentant en 1933
 3. Sophie Gautier : identification exacte ;
 4. Saint-Saud : preuve positive de postérité ou d'absence de postérité ;
 5. Albert Mariani : reprise à partir d'actes et non de simples arbres publics.
+
+### Janine Fantauzzi → SCEA Fantauzzi — continuité patrimoniale probable
+
+La recherche publique permet désormais de fixer plusieurs jalons indépendants :
+
+- **Janine Sophie Henriette Fantauzzi**, née à Paris en 1917, décédée en 2002 ;
+- mariage documenté avec **François Marie Nicolas Fournier-Sarlovèze (1896–1975)** ;
+- une **SCEA FANTAUZZI**, créée en 1982, est toujours active en 2026 dans l’Oise ;
+- les actes sociaux indexés en 2016 mentionnent un **acte notarié « par Mme FOURNIER SARLOVEZE à ses 2 enfants »**, ainsi qu'un acte relatif au décès de Mme Fournier-Sarlovèze ;
+- la société compte aujourd'hui parmi ses dirigeants/associés **Robert Fournier-Sarlovèze** (né en 1949) et **Bénédicte Drach, née Fournier-Sarlovèze** (née en 1951), ainsi que la génération suivante Drach ;
+- une publication foncière préfectorale récente mentionne encore **Janine Sarlovèze (décédée)** dans le même ensemble foncier de l'Oise, aux côtés de Robert Sarlovèze et Bénédicte Drach.
+
+La convergence rend **très probable** que Robert et Bénédicte soient les deux enfants de Janine Fantauzzi et François Fournier-Sarlovèze. Le Corpus ne transforme cependant pas cette convergence en filiation canonique avant lecture de l'acte notarié ou d'une source familiale/état civil explicite.
+
+Ce cas est déjà significatif sur le plan territorial : un rameau descendant des alliances Mariani possède une **continuité patrimoniale et entrepreneuriale agricole observable dans l’Oise jusque 2026**, sous des patronymes devenus Fournier-Sarlovèze puis, pour une partie, Drach.
+
+Sources publiques de contrôle :
+- https://www.societe.com/societe/scea-fantauzzi-325019834.html
+- https://www.pappers.fr/entreprise/scea-fantauzzi-325019834
+- publication foncière de la préfecture de l’Oise (2025) ;
+- fichier INSEE des décès pour Janine Fantauzzi.
