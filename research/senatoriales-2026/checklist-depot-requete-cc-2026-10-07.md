@@ -47,6 +47,24 @@ NEW TRACE / NEW OBJECTION / NEW REMEDY / NEW DEADLINE
 
 Ne pas attendre une "version finale" pour enregistrer un point utile.
 
+### Standard probatoire — niveau maximal raisonnablement atteignable
+
+Le dossier vise, pour chaque fait matériel important, le **plus haut niveau de preuve raisonnablement accessible**, avec une méthode proche de celle d'un enquêteur judiciaire particulièrement scrupuleux et conscient des risques de falsification, d'altération, d'usurpation et d'attaque informatique.
+
+Conséquences pratiques :
+
+- privilégier les **traces primaires et vérifiables** plutôt que les souvenirs, reconstructions ou affirmations non corroborées ;
+- conserver l'**original natif** chaque fois qu'il existe, sans le remplacer par une capture ou une transcription ;
+- calculer et conserver une **empreinte cryptographique forte (SHA-256 au minimum)** de tout fichier produit ou référencé ;
+- documenter autant que possible la **provenance**, la date, le canal d'acquisition, la chaîne de conservation et toute transformation effectuée ;
+- distinguer strictement **original / copie / photographie / capture / export / transcription / reconstruction** ;
+- rechercher des **corroborations indépendantes** : métadonnées, journaux, accusés, traces serveur, historiques, pièces postales, chronologies, témoins ou systèmes tiers ;
+- ne jamais présenter comme certain ce qui n'est qu'inféré ; qualifier explicitement les niveaux : **établi / fortement corroboré / plausible / non établi** ;
+- pour les éléments numériques sensibles, raisonner comme si une contestation d'authenticité ou une cyberattaque devait être examinée : intégrité, horodatage, identité de la source, continuité de la conservation, cohérence inter-traces et possibilité d'une vérification indépendante ;
+- lorsqu'une preuve plus forte est raisonnablement accessible, ne pas se satisfaire d'une preuve plus faible par commodité.
+
+Ce standard n'impose pas une preuve impossible : il impose de pouvoir expliquer **pourquoi le niveau produit est le meilleur niveau raisonnablement atteignable** au moment du dépôt.
+
 ### Invariant d'autonomie du dossier et des pièces
 
 Le dossier remis au Conseil doit être **autoportant**. Un juriste ne doit jamais avoir à connaître le Corpus, une conversation passée, un dépôt GitHub, un courriel non produit ou une convention interne pour comprendre une affirmation, une pièce ou un raisonnement.
