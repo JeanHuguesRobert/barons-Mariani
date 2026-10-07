@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.22"
+version: "0.23"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.23.md"
+  - "requete-conseil-constitutionnel-projet-v0.24.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -176,6 +176,39 @@ enchaînement logique
 
 Une section qui ne peut être comprise qu'en « lisant entre les lignes » échoue au contrôle.
 
+### Autoportance historique — troisième horizon de lecture
+
+La double lecture **grand public / expert** n'est pas seulement une technique de vulgarisation et de contrôle juridique. Le document doit aussi rester intelligible comme **trace historique autonome de la Corse de 2026**.
+
+Le lecteur futur ne doit pas avoir besoin de connaître le Corpus, les conversations de travail, les acteurs de 2026, les débats alors contemporains sur l'autonomie, ni les usages administratifs implicites pour comprendre :
+- ce qui s'est passé ;
+- pourquoi cela comptait à ce moment de l'histoire de la Corse ;
+- quelles capacités, contraintes et voies de recours existaient ;
+- quelles démarches ont été entreprises ;
+- quelles réponses institutionnelles sont documentées ;
+- quelles questions demeuraient ouvertes au moment du dépôt.
+
+Règle :
+
+~~~text
+PORTÉE CONTENTIEUSE
+≠ VALEUR D'INTELLIGIBILITÉ
+≠ VALEUR HISTORIQUE
+≠ DÉCISION MATÉRIELLE DE PRODUCTION
+~~~
+
+Une pièce peut être non déterminante juridiquement à elle seule et néanmoins structurante pour comprendre la séquence. Inversement, une pièce juridiquement importante n'a pas besoin d'être chargée artificiellement d'une signification historique qu'elle ne porte pas.
+
+Pour chaque développement et chaque pièce, tester trois lecteurs :
+
+1. **lecteur contemporain grand public** — comprend-il sans jargon ni contexte implicite ?
+2. **lecteur expert / juridiction** — peut-il contrôler la règle, le fait, la preuve, l'objection et la conséquence ?
+3. **lecteur historique futur** — pourrait-il reconstruire le sens de la séquence sans accès au Corpus ni connaissance préalable de la Corse politique de 2026 ?
+
+Cette troisième exigence n'autorise ni digression gratuite, ni emphase historique, ni surqualification. Elle impose au contraire de conserver le **contexte matériel nécessaire**, de dater les faits, d'identifier les acteurs et institutions, d'expliciter les enjeux contemporains et de séparer strictement faits établis, interprétations, hypothèses et mémoire du requérant.
+
+Le but n'est pas de déclarer dans la requête qu'elle « fera l'Histoire ». Le but est de l'écrire de telle sorte qu'elle puisse, si elle devient une source historique, être comprise et vérifiée sans reconstruction extérieure inutile.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -255,7 +288,7 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **FBF des pointeurs de version courante** — avant gel, rechercher mécaniquement dans la requête, le bordereau, l'inventaire et la checklist toute mention d'une ancienne version qui prétend encore décrire l'état courant ; conserver les références historiques uniquement lorsqu'elles sont explicitement historiques.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
 - [ ] **Registre probatoire autoportant pièce par pièce** — pour chaque P-xx (et chaque sous-pièce d'un ensemble composite), contrôler numéro, titre, date, provenance, description, rôle probatoire/argumentatif, fichier source, URL éventuelle, empreinte SHA-256, transcription si utile, confidentialité/occultation, et présence effective dans le paquet final. Une référence externe ne remplace jamais une définition suffisante dans la requête ou le bordereau.
-- [ ] **Règle de lisibilité humaine des pièces — “ce que c’est / place dans le raisonnement”** — chaque pièce P-xx doit pouvoir être comprise sans mémoriser la numérotation. Pour chaque pièce (et sous-pièce si nécessaire), maintenir une mini-fiche en deux étages : **(1) Ce que c’est** : description courte, concrète et factuelle de l’objet, de sa date et de son origine ; **(2) Place dans le raisonnement** : proposition exacte qu’elle soutient, étape du raisonnement à laquelle elle se rattache, limite de ce qu’elle n’établit pas, et fonction dans le dossier (**noyau / soutien / contexte-réserve / sensible**). Éviter dans les revues, checklists, bordereaux et explications humaines les références nues du type « P-14 » lorsqu’un lecteur devrait connaître la pièce par cœur ; écrire par exemple **« P-14 — requêtes préfectorales n° 2601714 et 2601715 + bundles TA »**. Une table compacte peut abréger seulement si l’intitulé reste visible sur la même ligne.
+- [ ] **Règle de lisibilité humaine des pièces — “ce que c’est / place dans le raisonnement”** — chaque pièce P-xx doit pouvoir être comprise sans mémoriser la numérotation. Pour chaque pièce (et sous-pièce si nécessaire), maintenir une mini-fiche en deux étages : **(1) Ce que c’est** : description courte, concrète et factuelle de l’objet, de sa date et de son origine ; **(2) Place dans le raisonnement** : proposition exacte qu’elle soutient, étape du raisonnement à laquelle elle se rattache, limite de ce qu’elle n’établit pas, et fonction dans le dossier (**noyau / soutien / contexte-réserve / sensible**). Ajouter, lorsque matériel, sa **valeur historique/documentaire** : ce qu’un lecteur futur perdrait de la compréhension de la séquence si cette pièce ou son contenu n’était pas conservé ou expliqué. Éviter dans les revues, checklists, bordereaux et explications humaines les références nues du type « P-14 » lorsqu’un lecteur devrait connaître la pièce par cœur ; écrire par exemple **« P-14 — requêtes préfectorales n° 2601714 et 2601715 + bundles TA »**. Une table compacte peut abréger seulement si l’intitulé reste visible sur la même ligne.
 - [ ] **Pièces composites — sous-numérotation stable** — lorsqu'une même séquence probatoire comporte plusieurs objets matériels distincts (avis postal, enveloppe, page de notification, jugement, photographie contextuelle, recto/verso, transcription), conserver le numéro principal mais attribuer des sous-identifiants stables (ex. P-20.a, P-20.b…) afin qu'une citation pointe vers un objet précis sans renumérotation globale du dossier.
 - [ ] **Manifeste forensique du paquet** — établir une relation vérifiable `numéro de pièce → fichier exact → nombre de pages → taille → SHA-256 → provenance → transformation/occultation éventuelle → support effectivement remis`. Toute copie transformée ou expurgée reçoit son propre hash ; le hash de l'original natif est conservé séparément.
 - [ ] **Originaux et copies expurgées** — pour toute pièce produite sous forme expurgée (notamment P-44), conserver l'original natif intact, documenter l'opération de dérivation et ne jamais remplacer l'original par la version nettoyée.
@@ -647,3 +680,12 @@ Place dans le raisonnement : ...
 ~~~
 
 Cette règle vaut pour le contrôle pièce par pièce, le bordereau, les revues et les explications destinées à un humain. Elle ne change ni la numérotation P-xx ni le statut matériel des pièces et **n’emporte aucun gel du paquet de dépôt**.
+
+
+## UPDATE — 7 octobre 2026 — v0.23 / autoportance historique
+
+La double lecture est désormais explicitement comprise comme une architecture à **trois horizons de lecture** : grand public contemporain, expert/juridiction, lecteur historique futur.
+
+Nouvel invariant : la valeur d'une pièce ne se réduit pas à sa force probatoire immédiate ni à la décision de la joindre matériellement. Le contrôle doit distinguer **portée contentieuse**, **fonction dans le raisonnement**, **valeur historique/documentaire** et **décision de production**.
+
+La requête v0.24 reçoit une note de lecture bornée : elle affirme son ambition d'être aussi autoporteuse que possible et de documenter intelligiblement la séquence corse de 2026, tout en précisant que cette ambition n'ajoute aucun grief et ne demande pas au Conseil de statuer sur une interprétation historique.
