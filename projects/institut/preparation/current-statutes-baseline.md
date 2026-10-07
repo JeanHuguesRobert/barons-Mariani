@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.6"
+version: "0.7"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -49,11 +49,11 @@ review:
 
 Au 7 octobre 2026 :
 
-> **Les statuts signés à Corte le 25 décembre 1995 sont la dernière version dont l'adoption et la déclaration sont positivement établies par des pièces primaires retrouvées.**
+> **Les statuts signés à Corte le 25 décembre 1995 sont les statuts de référence actuellement applicables pour la préparation de l’assemblée 2026.**
 
-Aucune modification postérieure valablement adoptée puis déclarée n'a été retrouvée.
+Le Président confirme le 7 octobre 2026 qu’aucune autre version des statuts n’a jamais été communiquée aux autorités. Cette déclaration concorde avec la chaîne documentaire retrouvée : projet 2018 resté préparatoire, banque 2023 traitant encore les statuts 1995 comme derniers connus, et transmission des statuts 1995 au greffe en 2024.
 
-Cette conclusion reste révisable si une pièce contraire apparaît, mais le niveau de confiance est désormais très élevé.
+Il n’est donc pas nécessaire d’interroger l’administration pour rechercher une hypothétique version statutaire intermédiaire. Toute pièce contraire découverte ultérieurement resterait naturellement susceptible de réviser ce référentiel.
 
 ~~~text
 statuts 1995
@@ -163,7 +163,7 @@ Ainsi :
 
 ## 7. Verrou pratique suivant
 
-Avant convocation de l'assemblée modificative, il faut établir :
+La baseline statutaire n’est plus un verrou. Avant convocation de l’assemblée modificative, il faut désormais établir :
 
 1. qui est aujourd'hui membre de l'association ;
 2. dans quelle catégorie statutaire chacun se trouve ;
@@ -246,7 +246,7 @@ présence au RNA en 2026
 
 La conclusion la plus conservatrice reste :
 
-> **Pour préparer l'assemblée modificative, les statuts du 25 décembre 1995 constituent la dernière version dont adoption et déclaration sont positivement démontrées.**
+> **Pour préparer l’assemblée modificative, les statuts du 25 décembre 1995 constituent la baseline statutaire opératoire.**
 
 Cette conclusion n'affirme pas qu'aucune modification n'a jamais existé ; elle affirme qu'aucune version postérieure adoptée **et déclarée** n'a été retrouvée malgré les recherches Drive, Gmail, dossiers bancaires et chaîne RNA examinées.
 
