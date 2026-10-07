@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 version: "1.8"
-status: "working-draft — current evidence inventory — canonical petition path synchronized; v0.30 re-audit still required"
+status: "active — current evidence inventory — canonical petition synchronized"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -19,12 +19,6 @@ classification_rule: "corpus-legal"
 classification_confidence: "strong"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
 source_documents:
-  - "requete-conseil-constitutionnel-projet-v0.1.md"
-  - "requete-conseil-constitutionnel-projet-v0.2.md"
-  - "requete-conseil-constitutionnel-projet-v0.4.md"
-  - "requete-conseil-constitutionnel-projet-v0.5.md"
-  - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "requete-conseil-constitutionnel-projet-v0.19.md"
   - "requete-conseil-constitutionnel.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
@@ -108,7 +102,7 @@ Chaque pièce ou affirmation est qualifiée, lorsque nécessaire, selon les cat�
 - **established** : directement établi par une ou plusieurs traces suffisantes ;
 - **reported** : rapporté par un témoin ou le requérant, sans corroboration institutionnelle suffisante ;
 - **inferred** : déduction explicite à partir de traces identifiées ;
-- **open / UNKNOWN** : question non résolue.
+- **ouverte / inconnue** : question non résolue.
 
 L'inventaire décrit la **portée** d'une pièce ; il ne doit pas transformer sa présence au dossier en validation automatique du moyen juridique qui l'invoque.
 
@@ -184,7 +178,7 @@ Ce front est ouvert par **P-35** et documenté méthodologiquement par **P-36**.
 * **Document primaire du requérant** : une note manuscrite recto-verso, datée et signée, portant les deux numéros d'instance, est conservée photographiquement (**P-17**). Sa remise en main propre au début de l'audience est rapportée par le requérant ; son rattachement à l'entrée Sagace « Réception d'une lettre » reste ouvert.
 * **Rapporté** : le requérant indique avoir proposé le visionnage immédiat de la vidéo et avoir entendu la présidente dire, en substance, que l'absence des CERFA originaux papier suffisait sans examen supplémentaire des autres pièces.
 * **Ouvert** : aucune trace institutionnelle actuellement identifiée ne permet de confirmer ou d'infirmer ces propos d'audience, l'offre de visionnage ou l'étendue annoncée de l'examen des pièces.
-* **Probe contentieux** : rechercher, s'ils existent, procès-verbal, plumitif, fiche, note d'audience ou document équivalent ; obtenir la minute signée du jugement et identifier le greffier d'audience.
+* **Recherche contentieuse ciblée** : rechercher, s'ils existent, procès-verbal, plumitif, fiche, note d'audience ou document équivalent ; obtenir la minute signée du jugement et identifier le greffier d'audience.
 
 ## VII. CATÉGORIE F — SCRUTIN, INCIDENCE ALLÉGUÉE ET CONTEXTE D'EFFECTIVITÉ
 
@@ -301,7 +295,7 @@ Avant dépôt, produire un manifeste final séparant :
 2. **le bordereau autonome v0.6**, avec pour chaque pièce candidate son numéro P-xx, son intitulé, son rôle, son statut de production, son support réel, sa pagination dans le recueil et, si utile, son empreinte ;
 3. **le recueil PDF consolidé**, sans faire dépendre l'accès du Conseil d'un simple lien web ;
 4. **les pièces natives décisives**, notamment les courriels dont les métadonnées sont probatoires, la vidéo P-13 et les PDF originaux P-14 ;
-5. **un registre des UNKNOWN**, afin qu'une demande d'instruction soit formulée là où le requérant ne dispose pas lui-même de la pièce ;
+5. **un registre des questions encore inconnues**, afin qu'une demande d'instruction soit formulée là où le requérant ne dispose pas lui-même de la pièce ;
 6. **la trace du dépôt** : canal utilisé, date, heure, récépissé ou accusé, empreinte du PDF final et version Git correspondante.
 
 L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant la proclamation, à 18 heures. L'article 34 permet une requête écrite adressée au secrétariat général du Conseil constitutionnel ou au représentant de l'État. Le canal matériel retenu devra être vérifié au moment du dépôt et documenté sans confondre préparation et saisine effectivement accomplie.
@@ -311,7 +305,7 @@ L'article 33 de l'ordonnance n° 58-1067 fixe le délai au dixième jour suivant
 - La requête **v0.17**, le présent inventaire **v1.7** et le **bordereau autonome v0.9** doivent rester alignés avant tout dépôt.
 - Le bundle préfectoral initial dispose de son sous-inventaire PREF-1 à PREF-16.
 - P-17 est qualifiée comme document manuscrit recto-verso dont l'existence et le contenu sont établis, la remise restant rapportée.
-- Les éventuelles productions postérieures au bundle initial restent UNKNOWN.
+- Les éventuelles productions postérieures au bundle initial restent INCONNU.
 - La « minute » demandée est la minute signée du **jugement** ; une éventuelle trace d'audience constitue un objet documentaire distinct.
 - Les pièces doctrinales P-23/P-24 ne sont pas présentées comme des normes juridiques positives applicables au litige.
 - Les résultats P-27 ne sont pas utilisés pour attribuer une intention aux électeurs blancs ou nuls.
