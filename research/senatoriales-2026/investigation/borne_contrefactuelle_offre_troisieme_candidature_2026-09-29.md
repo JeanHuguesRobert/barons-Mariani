@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — borne contrefactuelle de l’incidence d’une tr
 subtitle: "Ce qu’il aurait fallu, arithmétiquement et politiquement, pour empêcher une élection au premier tour en Haute-Corse"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-29"
-status: "working-analysis"
+status: "active — filing-support analysis"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "source"
@@ -18,7 +18,7 @@ provenance:
 derived_from:
   - "../data/resultats_officiels_scrutin_2026-09-27.md"
   - "analyse_exposition_collegial_senatoriales_2026.md"
-  - "../requete-conseil-constitutionnel-projet-v0.1.md"
+  - "../requete-conseil-constitutionnel.md"
   - "../data/annuaire_electeurs_senatoriaux_2B_2026.csv"
 related_publication:
   - "../../../projects/suicide-corse/manuscript/magazine-n3/04-reality-case-senatoriales.md"
@@ -261,9 +261,42 @@ La formulation prudente est donc :
 
 Cette approche ne transforme pas la perte d’observation produite par l’exclusion en certitude favorable au requérant. Elle interdit simplement de la transformer automatiquement en certitude défavorable.
 
-## 10. Probes et éléments à rechercher
+## 9 bis. Traduction directe pour la requête
 
-Le document doit évoluer en fonction de nouvelles traces. Les probes les plus discriminants sont :
+La présente borne n'est pas un pronostic électoral.
+
+Elle fournit seulement un test de matérialité de l'incidence.
+
+Les résultats observés sont :
+- **71,8 % du collège électoral (442 voix sur 616)** pour M. Parigi ;
+- **14,3 % du collège (88 voix sur 616)** pour M. Battini ;
+- **12,3 % du collège (76 bulletins sur 616)** pour les blancs et nuls ;
+- **86,0 % du collège (530 suffrages exprimés sur 616)**.
+
+Pour faire disparaître la majorité absolue de M. Parigi au premier tour, une troisième offre aurait dû produire, selon les scénarios retenus, une modification équivalente à **134 à 177 voix aujourd'hui observées sur M. Parigi**, éventuellement combinée à une conversion d'une partie des non-exprimés en suffrages valables.
+
+Rapportée au collège électoral total, cette borne correspond à environ **21,8 % à 28,7 % du collège**.
+
+Cette traduction est importante : elle permet de comparer la magnitude nécessaire à des phénomènes observables sans prétendre prédire un score.
+
+Le scrutin de Corse-du-Sud fournit un comparateur descriptif utile : une offre distincte y a recueilli environ **32,9 % du collège électoral** le même jour. Cette comparaison ne permet pas d'assimiler les deux circonscriptions ni les candidatures. Elle montre seulement qu'un ordre de grandeur supérieur à la borne minimale calculée en Haute-Corse n'est pas, en soi, électoralement inconcevable dans le contexte corse du même scrutin.
+
+Le point contentieux peut donc être formulé ainsi :
+
+> **l'incidence d'une troisième candidature n'est pas démontrée ; elle n'est pas non plus manifestement exclue par l'arithmétique du scrutin ni par les seuls soutiens publiquement visibles.**
+
+La disparition de l'offre empêche précisément d'observer :
+- son score ;
+- ses effets sur les choix de premier tour ;
+- ses effets sur les blancs et nuls ;
+- ses effets sur les reports stratégiques ;
+- ses effets sur la campagne et sur les alliances.
+
+Cette perte d'observation ne doit être transformée ni en preuve favorable au requérant ni en preuve de l'absence d'incidence.
+
+## 10. Éléments encore utiles à documenter
+
+Le document doit évoluer en fonction de nouvelles traces. Les recherche ciblées les plus discriminants sont :
 
 1. **procès-verbal et bulletins nuls** — déterminer les motifs matériels des 40 nullités ;
 2. **réactions post-scrutin** — identifier les acteurs qui décrivent explicitement des reports, hésitations ou refus d’offre ;
@@ -304,7 +337,7 @@ Cette articulation suit la règle éditoriale :
 - Ministère de l’Intérieur, résultats des sénatoriales 2026, Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Code électoral, article L.294 : https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000027804524/2026-01-01
 - Annuaire et modèle d’exposition : `research/senatoriales-2026/data/annuaire_electeurs_senatoriaux_2B_2026.csv` et `investigation/analyse_exposition_collegial_senatoriales_2026.md`
-- Projet de requête au Conseil constitutionnel : `research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md`
+- Requête stable au Conseil constitutionnel : `research/senatoriales-2026/requete-conseil-constitutionnel.md`
 
 ## 13. Formule de clôture provisoire
 
