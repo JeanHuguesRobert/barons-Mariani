@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.4"
+version: "0.5"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -269,10 +269,11 @@ L'audit montre que le risque principal n'est plus l'absence générale de preuve
 
 Les principales sources électroniques sont localisées ; plusieurs pièces qui semblaient manquer existent dans la bibliothèque.
 
-Les véritables verrous matériels encore ouverts sont surtout :
+Le verrou matériel encore ouvert est surtout :
 
-1. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
-2. assemblage effectif du recueil **P-46** et du paquet final.
+1. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée.
+
+Le recueil **P-46** est désormais assemblé en trois volumes et un index.
 
 **P-13 — vidéo commune** n'est plus un verrou de localisation ou d'intégrité : le MP4 primaire a été récupéré et son SHA-256 vérifié.
 
