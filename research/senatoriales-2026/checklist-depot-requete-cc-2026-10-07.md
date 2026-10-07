@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.34"
+version: "0.35"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -584,6 +584,37 @@ Test obligatoire :
 Si la réponse est non, le texte principal doit être complété avant de renvoyer à l'annexe.
 
 Réciproquement, l'annexe ne doit pas ajouter subrepticement une affirmation nouvelle sous prétexte de synthèse. Toute information nouvelle doit d'abord être introduite et qualifiée dans le texte de référence.
+
+
+### Règle de référence canonique des pièces — numéro et libellé indissociables
+
+Toute pièce citée dans la requête doit être identifiable immédiatement sans obliger le lecteur à consulter le bordereau.
+
+La référence canonique associe systématiquement :
+- le numéro de la pièce ;
+- son libellé intelligible.
+
+Cette règle vaut dans les deux sens.
+
+À éviter :
+- « P-28 » seul ;
+- « la proposition de consultation des pièces électorales » sans numéro, lorsqu'il s'agit de la pièce identifiée au bordereau.
+
+À écrire :
+- « P-28 — proposition de consultation des pièces électorales » ;
+- ou, dans une phrase, « la proposition de consultation des pièces électorales (P-28) ».
+
+Le même principe s'applique aux sous-pièces PREF-xx et à toute autre numérotation documentaire stable.
+
+Le libellé doit être suffisamment descriptif pour qu'un lecteur comprenne immédiatement de quel document il s'agit. Il ne doit pas se réduire à une catégorie vague comme « courriel », « document » ou « annexe » si un intitulé plus précis existe.
+
+Une première occurrence peut employer le libellé complet. Les occurrences suivantes peuvent être légèrement raccourcies, mais doivent conserver à la fois le numéro et un libellé reconnaissable.
+
+Test obligatoire :
+
+> Si le numéro disparaissait, le lecteur saurait-il encore de quelle pièce il s'agit ? Si le libellé disparaissait, le lecteur saurait-il encore ce que contient la pièce ?
+
+Si l'une des réponses est non, la référence est insuffisante.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -1179,3 +1210,8 @@ Cette règle s'applique à tous les tableaux et schémas actuels et futurs de la
 ## UPDATE — 7 octobre 2026 — v0.34 / questions sans réponse
 
 Ajout d'un exemple explicite à la règle de français idiomatique : éviter le calque « question restée ouverte » lorsqu'il signifie en réalité qu'une question est restée sans réponse suffisante, n'a reçu qu'une réponse partielle ou demeure non résolue.
+
+
+## UPDATE — 7 octobre 2026 — v0.35 / références de pièces autoporteuses
+
+Nouvel invariant : chaque référence documentaire associe le numéro de pièce et son libellé intelligible. La règle vaut dans les deux sens : aucun numéro isolé lorsque son contenu n'est pas immédiatement connu, et aucun libellé d'une pièce identifiée sans son numéro. Une passe exhaustive doit harmoniser la requête, le bordereau et les annexes.
