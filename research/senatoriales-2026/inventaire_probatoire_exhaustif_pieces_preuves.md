@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
 version: "1.8"
-status: "working-draft — aligned with CC petition v0.14 — for human review"
+status: "working-draft — current evidence inventory — canonical petition path synchronized; v0.30 re-audit still required"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "evidence-manifest"
@@ -25,6 +25,7 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
   - "requete-conseil-constitutionnel-projet-v0.19.md"
+  - "requete-conseil-constitutionnel.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
@@ -67,9 +68,7 @@ Le présent document conserve le nom historique d'**inventaire probatoire**, mai
 
 **Règle de complétude des courriels :** tous les courriels échangés avec la Préfecture de Haute-Corse et le Tribunal administratif de Bastia dans la séquence contentieuse doivent être **effectivement produits**, et non seulement conservés ou sélectionnés. Chaque message reçoit une sous-référence stable P-46.xx, un horodatage, un libellé intelligible, une brève description de son contenu et de ses effets, puis une reproduction intégrale dans le paquet de dépôt. Les adresses privées de Maguy et Laurence sont occultées ; les secrets techniques (mots de passe, liens signés, jetons) sont également masqués dans la copie produite, les originaux natifs restant conservés. Cette exhaustivité vaut pour les messages envoyés comme reçus, pour les accusés automatiques, les réponses humaines et les notifications techniques de transmission du TA.
 
-Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.10 est :
-
-`bordereau-pieces-requete-conseil-constitutionnel-v0.8.md`
+Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces**. Le projet autonome courant est le fichier `bordereau-pieces-requete-conseil-constitutionnel-v0.10.md`, dont le frontmatter et le titre interne indiquent actuellement la version **0.12**.
 
 La distinction est impérative :
 
