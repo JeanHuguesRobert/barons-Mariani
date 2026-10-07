@@ -69,7 +69,7 @@ Le présent registre est un **audit différentiel**. Il ne vaut clôture défini
 
 | Date heure | Gmail ID | Objet / fait | État actuel | Disposition proposée |
 |---|---|---|---|---|
-| **10/09 17:01:56** | 1a08bd73bb174a75 | premier envoi de candidature à la préfecture ; la retransmission de 17:54 indique qu'il a été rejeté pour taille | pas de pièce distincte clairement identifiée | **REVIEW → probablement INCLUDE**, car explique la chaîne technique du premier contact |
+| **10/09 17:01:56** | 1a08bd73bb174a75 | premier envoi de candidature à la préfecture ; trois DSN natifs retrouvés confirment l’échec pour taille | intégré à **P-04** | **INCLUDE** |
 | **12/09 22:10:43 CEST env.** | 1a0973e64a185ad0 | demande de vérification/rectification des données de candidature | peu visible dans chronologie actuelle | **RESERVE**, sauf usage dans un grief de traitement des données / identité |
 | **16/09 08:36:59** | 1a0a8eedfff7b68f | demande de rectification au DPO Intérieur | réponse ultérieure connue | **RESERVE**, utile au contexte de données publiées, non noyau |
 | **16/09 08:47:23** | 1a0a8f8675a03073 | commission de propagande — demande de modalités | non mappé | **RESERVE**, chronologie de continuité procédurale |
