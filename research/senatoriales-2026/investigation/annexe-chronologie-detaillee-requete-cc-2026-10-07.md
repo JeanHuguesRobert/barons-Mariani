@@ -26,7 +26,10 @@ La chronologie ne remplace aucune pièce primaire.
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 17:01:56 | Premier courriel à la préfecture demandant un rendez-vous pour le dépôt et transmettant le dossier | Gmail 1a08bd73bb174a75 | ÉTABLI | Premier mail à la préfecture de la séquence. La retransmission ultérieure indique un rejet pour dépassement de taille ; bounce/DSN exact encore à isoler. |
+| 17:01:56 | Premier courriel à la préfecture demandant un rendez-vous pour le dépôt et transmettant le dossier | P-04 / Gmail | ÉTABLI | Premier mail à la préfecture de la séquence. |
+| ~17:02:59 | Premier DSN d'échec de livraison | P-04 / DSN natif | ÉTABLI | Message trop volumineux. |
+| ~17:03:34 | Deuxième DSN d'échec | P-04 / DSN natif | ÉTABLI | Même motif technique. |
+| ~17:04:35 | Troisième DSN d'échec | P-04 / DSN natif | ÉTABLI | Même motif technique. |
 | 17:54:50 | Retransmission allégée après rejet du premier envoi | P-04 — Gmail 1a08c07a7fbb141b | ÉTABLI | Reconstitue la transmission technique. |
 | 17:56:53 | Accusé automatique du Bureau des élections | P-05 — Gmail 1a08c0953c1f9ff2 | ÉTABLI | Réception électronique de la retransmission. |
 | 20:05:04 | Réponse du Bureau des élections, notamment sur les originaux CERFA | P-06 — Gmail 1a08c7eb62cc13ec | ÉTABLI | Établit au moins une demande écrite d'originaux avant déplacement. |
@@ -246,7 +249,7 @@ FBF pré-dépôt : alignement requête / bordereau / inventaire / checklist ; cr
 
 ## Contrôles de complétude encore ouverts
 
-- [ ] isoler le bounce/DSN exact du premier envoi du 10 septembre 17:01:56 ;
+- [x] DSN du premier envoi du 10 septembre retrouvés : trois notifications d’échec entre ~17:02:59 et ~17:04:35 CEST ;
 - [ ] mapper définitivement les courriels des 15–21 septembre encore rattachés à une chaîne générale ;
 - [ ] auditer Gmail pour les jours actuellement « aucun acte identifié » ;
 - [ ] vérifier UTC/CEST des messages à offset non local ;
