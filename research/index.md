@@ -3,7 +3,7 @@ title: Research Index — barons-Mariani
 description: A map of what is, what is in progress, and what could be.
 layout: default
 nav_order: 1
-last_modified_at: 2026-09-15T00:00:00.000Z
+last_modified_at: 2026-10-07
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-06-15T00:00:00.000Z
