@@ -1176,6 +1176,19 @@ Les Gmail natifs restent les sources primaires.
 
 Limite : aucune trace indépendante ne rattache avec certitude **ce binaire précis** à l'exemplaire matériel détenu par le TA. Ne jamais transformer cette concordance en identité binaire prouvée.
 
+
+### P-16 — niveau probatoire corrigé — v0.56
+
+Le jugement confirme que M. Robert a présenté des « observations écrites et orales », ce qui corrobore l'existence d'un écrit à l'audience.
+
+En revanche, aucune transmission Gmail du mémoire n'a été retrouvée et l'identité exacte entre le PDF conservé et l'exemplaire matériel effectivement présenté n'est pas encore établie par une trace indépendante.
+
+Règle de rédaction :
+- ne plus écrire comme fait brut « P-16 a été déposé » sans réserve ;
+- écrire que le requérant indique que ses observations écrites correspondaient à P-16 ;
+- ajouter que l'existence d'observations écrites est corroborée par le jugement ;
+- maintenir ouverte l'identification matérielle exacte du PDF.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
