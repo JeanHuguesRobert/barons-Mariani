@@ -6,7 +6,6 @@ on:
     branches: [main]
     paths:
       - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
-      - ".github/workflows/cc-petition-review-pdf.yml"
 
 permissions:
   contents: write
@@ -15,6 +14,10 @@ permissions:
 concurrency:
   group: cc-petition-review-pdf
   cancel-in-progress: true
+
+env:
+  CANONICAL_RELEASE_TAG: senatoriales-2026-cc-depot-2026-10-07
+  CANONICAL_ASSET_NAME: requete-conseil-constitutionnel-haute-corse-2026.pdf
 
 jobs:
   build-review-pdf:
@@ -73,8 +76,8 @@ jobs:
               "# BROUILLON DE REVUE - NON DEPOSE",
               "",
               "> **PDF REVIEW genere automatiquement depuis le chemin canonique de travail.**",
-              "> Ce fichier n'est ni la version gelee, ni la preuve d'un depot, ni une GitHub Release.",
-              "> Sa finalite est exclusivement la relecture et la transmission preparatoire.",
+              "> Ce fichier n'est ni la version gelee, ni la preuve d'un depot.",
+              "> Il est publie comme asset de build a l'URL canonique qui sera conservee lors du gel final.",
               "",
               "---",
               "",
@@ -109,7 +112,7 @@ jobs:
               -V colorlinks=true \
               -V linkcolor=blue \
               -V urlcolor=blue \
-              -o "$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+              -o "$RUNNER_TEMP/cc-review/$CANONICAL_ASSET_NAME"
             code=$?
           fi
           echo "code=$code" >> "$GITHUB_OUTPUT"
@@ -121,7 +124,7 @@ jobs:
         shell: bash
         run: |
           set +e
-          PDF="$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
+          PDF="$RUNNER_TEMP/cc-review/$CANONICAL_ASSET_NAME"
           code=0
 
           if [ ! -s "$PDF" ]; then
@@ -147,83 +150,30 @@ jobs:
           echo "code=$code" >> "$GITHUB_OUTPUT"
           exit 0
 
-      - name: Publish durable commit-addressed REVIEW PDF
-        id: publish_review
+      - name: Publish canonical build asset
+        id: publish
         if: always() && steps.verify.outputs.code == '0'
         continue-on-error: true
-        shell: bash
         env:
-          SOURCE_SHA: ${{ github.sha }}
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
         run: |
           set -euo pipefail
+          PDF="$RUNNER_TEMP/cc-review/$CANONICAL_ASSET_NAME"
 
-          PDF="$RUNNER_TEMP/cc-review/requete-conseil-constitutionnel-REVIEW.pdf"
-          SUMS="$RUNNER_TEMP/cc-review/SHA256SUMS.txt"
-          SRC="$RUNNER_TEMP/cc-review/SOURCE_COMMIT.txt"
-
-          TARGET_DIR="research/senatoriales-2026/review-pdf/$SOURCE_SHA"
-          TARGET_PDF="$TARGET_DIR/requete-conseil-constitutionnel-REVIEW.pdf"
-
-          if [ ! -s "$PDF" ] || [ ! -s "$SUMS" ] || [ ! -s "$SRC" ]; then
-            echo "Required REVIEW outputs are missing." >&2
-            exit 50
+          if ! gh release view "$CANONICAL_RELEASE_TAG" --repo "${{ github.repository }}" >/dev/null 2>&1; then
+            gh release create "$CANONICAL_RELEASE_TAG" \
+              --repo "${{ github.repository }}" \
+              --target "${{ github.sha }}" \
+              --prerelease \
+              --title "Sénatoriales Haute-Corse 2026 — PDF pré-gel" \
+              --notes "Asset de build à URL canonique stable. Tant que le gel final n'est pas prononcé, son contenu est pré-gel et peut être remplacé. Le binaire n'est pas versionné dans Git."
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          gh release delete-asset "$CANONICAL_RELEASE_TAG" "$CANONICAL_ASSET_NAME" --repo "${{ github.repository }}" --yes >/dev/null 2>&1 || true
+          gh release upload "$CANONICAL_RELEASE_TAG" "$PDF#$CANONICAL_ASSET_NAME" --repo "${{ github.repository }}" --clobber
 
-          # Publish onto the current main tip, while preserving the exact
-          # source commit in the directory name. This avoids stale push
-          # failures when main advanced during the PDF build.
-          git fetch origin main
-          git reset --hard origin/main
-
-          mkdir -p "$TARGET_DIR"
-
-          NEW_SHA="$(sha256sum "$PDF" | awk '{print $1}')"
-          if [ -f "$TARGET_PDF" ]; then
-            OLD_SHA="$(sha256sum "$TARGET_PDF" | awk '{print $1}')"
-            if [ "$OLD_SHA" != "$NEW_SHA" ]; then
-              echo "Refusing to overwrite immutable REVIEW snapshot for $SOURCE_SHA" >&2
-              echo "existing=$OLD_SHA new=$NEW_SHA" >&2
-              exit 51
-            fi
-          else
-            cp "$PDF" "$TARGET_PDF"
-          fi
-
-          printf '%s  %s\n' "$NEW_SHA" "requete-conseil-constitutionnel-REVIEW.pdf" > "$TARGET_DIR/SHA256SUMS.txt"
-          printf '%s\n' "$SOURCE_SHA" > "$TARGET_DIR/SOURCE_COMMIT.txt"
-
-          {
-            printf '# REVIEW PDF — source %s\n\n' "$SOURCE_SHA"
-            printf '%s\n\n' 'This directory is a durable, commit-addressed review snapshot.'
-            printf '%s\n' "- source commit: \`$SOURCE_SHA\`"
-            printf '%s\n' '- status: **REVIEW — non déposé — non gelé**'
-            printf '%s\n' '- PDF: `requete-conseil-constitutionnel-REVIEW.pdf`'
-            printf '%s\n\n' '- integrity: `SHA256SUMS.txt`'
-            printf '%s\n' 'This snapshot must never be confused with the future frozen/final filing artifact.'
-          } > "$TARGET_DIR/README.md"
-
-          git add "$TARGET_DIR"
-
-          if git diff --cached --quiet; then
-            echo "already_published=true" >> "$GITHUB_OUTPUT"
-          else
-            git commit -m "senatoriales: publish REVIEW PDF for $SOURCE_SHA"
-            # One retry handles a concurrent main update without changing the
-            # source-addressed payload.
-            if ! git push origin HEAD:main; then
-              git fetch origin main
-              git rebase origin/main
-              git push origin HEAD:main
-            fi
-            echo "already_published=false" >> "$GITHUB_OUTPUT"
-          fi
-
-          echo "review_path=$TARGET_PDF" >> "$GITHUB_OUTPUT"
-          echo "review_url=https://github.com/${{ github.repository }}/blob/main/$TARGET_PDF" >> "$GITHUB_OUTPUT"
-          echo "raw_url=https://raw.githubusercontent.com/${{ github.repository }}/main/$TARGET_PDF" >> "$GITHUB_OUTPUT"
+          echo "canonical_url=https://github.com/${{ github.repository }}/releases/download/$CANONICAL_RELEASE_TAG/$CANONICAL_ASSET_NAME" >> "$GITHUB_OUTPUT"
 
       - name: Write structured build result
         id: result
@@ -237,25 +187,29 @@ jobs:
           prepare_code="${{ steps.prepare.outputs.code || 'not-run' }}"
           render_code="${{ steps.render.outputs.code || 'not-run' }}"
           verify_code="${{ steps.verify.outputs.code || 'not-run' }}"
+          publish_outcome="${{ steps.publish.outcome || 'not-run' }}"
 
           overall="success"
-          if [ "$checkout" != "success" ] || [ "$install_code" != "0" ] || [ "$prepare_code" != "0" ] || [ "$render_code" != "0" ] || [ "$verify_code" != "0" ]; then
+          if [ "$checkout" != "success" ] || [ "$install_code" != "0" ] || [ "$prepare_code" != "0" ] || [ "$render_code" != "0" ] || [ "$verify_code" != "0" ] || [ "$publish_outcome" != "success" ]; then
             overall="blocked"
           fi
 
           cat > "$RUNNER_TEMP/cc-review/BUILD_RESULT.json" <<EOF
           {
-            "schema": "cc-review-build-result/v1",
+            "schema": "cc-review-build-result/v2",
             "overall": "$overall",
             "source_commit": "${{ github.sha }}",
             "run_id": "${{ github.run_id }}",
+            "canonical_url": "https://github.com/${{ github.repository }}/releases/download/$CANONICAL_RELEASE_TAG/$CANONICAL_ASSET_NAME",
+            "asset_semantics": "build-asset-not-git-versioned",
             "codes": {
               "checkout": "$checkout",
               "apt_update": "$update_code",
               "toolchain_install": "$install_code",
               "prepare": "$prepare_code",
               "render": "$render_code",
-              "verify": "$verify_code"
+              "verify": "$verify_code",
+              "publish": "$publish_outcome"
             }
           }
           EOF
@@ -267,21 +221,11 @@ jobs:
             echo
             echo "- result: **$overall**"
             echo "- source commit: ${{ github.sha }}"
-            echo "- checkout: $checkout"
-            echo "- apt update: $update_code"
-            echo "- toolchain install: $install_code"
-            echo "- prepare: $prepare_code"
-            echo "- render: $render_code"
-            echo "- verify: $verify_code"
-            if [ "$verify_code" = "0" ]; then
-              echo "- durable review: https://github.com/${{ github.repository }}/blob/main/research/senatoriales-2026/review-pdf/${{ github.sha }}/requete-conseil-constitutionnel-REVIEW.pdf"
-              echo "- raw PDF: https://raw.githubusercontent.com/${{ github.repository }}/main/research/senatoriales-2026/review-pdf/${{ github.sha }}/requete-conseil-constitutionnel-REVIEW.pdf"
-            fi
-            echo
-            echo "A blocked REVIEW build is a structured result, not a GitHub Actions failure."
+            echo "- canonical build asset: https://github.com/${{ github.repository }}/releases/download/$CANONICAL_RELEASE_TAG/$CANONICAL_ASSET_NAME"
+            echo "- semantics: build asset / pre-gel / not versioned in Git"
           } >> "$GITHUB_STEP_SUMMARY"
 
-      - name: Upload REVIEW result artifact
+      - name: Upload short-lived Actions artifact
         id: upload
         if: always()
         continue-on-error: true
@@ -289,7 +233,7 @@ jobs:
         with:
           name: requete-conseil-constitutionnel-REVIEW-${{ github.sha }}
           path: |
-            ${{ runner.temp }}/cc-review/requete-conseil-constitutionnel-REVIEW.pdf
+            ${{ runner.temp }}/cc-review/${{ env.CANONICAL_ASSET_NAME }}
             ${{ runner.temp }}/cc-review/SHA256SUMS.txt
             ${{ runner.temp }}/cc-review/SOURCE_COMMIT.txt
             ${{ runner.temp }}/cc-review/PDFINFO.txt
@@ -304,16 +248,13 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
-          cat > "$RUNNER_TEMP/receipt.md" <<'EOF'
+          cat > "$RUNNER_TEMP/receipt.md" <<EOF
           ## CC petition REVIEW PDF — build complete
 
           - source commit: `${{ github.sha }}`
           - workflow run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
-          - run id: `${{ github.run_id }}`
-          - artifact: `requete-conseil-constitutionnel-REVIEW-${{ github.sha }}`
-          - durable REVIEW PDF: https://github.com/${{ github.repository }}/blob/main/research/senatoriales-2026/review-pdf/${{ github.sha }}/requete-conseil-constitutionnel-REVIEW.pdf
-          - raw PDF: https://raw.githubusercontent.com/${{ github.repository }}/main/research/senatoriales-2026/review-pdf/${{ github.sha }}/requete-conseil-constitutionnel-REVIEW.pdf
-          - semantics: REVIEW / non déposé / non gelé / durable snapshot / non publié comme Release
+          - canonical URL: https://github.com/${{ github.repository }}/releases/download/$CANONICAL_RELEASE_TAG/$CANONICAL_ASSET_NAME
+          - semantics: REVIEW / pré-gel / asset de build / non versionné dans Git
           - Actions artifact retention: 7 days
           EOF
           gh issue comment 90 --repo "${{ github.repository }}" --body-file "$RUNNER_TEMP/receipt.md" || true
