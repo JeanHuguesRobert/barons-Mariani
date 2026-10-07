@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.32"
+version: "0.33"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.25.md"
+  - "requete-conseil-constitutionnel-projet-v0.26.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -535,6 +535,42 @@ La traçabilité protège les deux côtés du contradictoire. Elle peut établir
 Une absence de trace ou de réponse ne doit jamais être transformée automatiquement en intention. Elle peut toutefois réduire objectivement la capacité à vérifier contradictoirement ce qui a été fait et, lorsqu'un recours est enfermé dans un délai bref, affecter son effectivité.
 
 La note factuelle relative à l'évolution des réponses institutionnelles doit être reliée aux demandes P1–P18, D1–D10, à P-45 et aux pièces primaires correspondantes.
+
+
+### Règle de redondance sémantique — tableaux et schémas hors du corps
+
+Le corps de la requête doit rester intégralement compréhensible en texte continu.
+
+Les tableaux, schémas, chronologies graphiques et autres présentations visuelles ne doivent jamais contenir une information, une nuance, une qualification ou une relation logique qui n'existe pas déjà dans le texte.
+
+Leur fonction est exclusivement de rendre une information déjà exposée plus rapide à parcourir, comparer ou vérifier.
+
+Règle générale :
+
+1. le corps de la requête expose d'abord l'information en français continu ;
+2. lorsqu'une présentation tabulaire ou graphique améliore la lecture, le texte renvoie vers une annexe ;
+3. l'annexe peut reprendre la même matière sous forme de tableau, schéma ou autre représentation synthétique ;
+4. supprimer le tableau ou le schéma ne doit provoquer aucune perte sémantique.
+
+La règle vaut pour :
+- tableaux de faits ;
+- tableaux de pièces ;
+- comparaisons ;
+- chronologies ;
+- matrices de demandes et réponses ;
+- schémas de circulation documentaire ;
+- représentations causales ou procédurales ;
+- toute autre visualisation.
+
+Un tableau n'est donc jamais une seconde source de contenu. C'est une autre vue du même contenu.
+
+Test obligatoire :
+
+> Si l'annexe tabulaire ou le schéma disparaît, le lecteur du seul corps de la requête dispose-t-il encore de toutes les informations nécessaires, avec la même portée et les mêmes réserves ?
+
+Si la réponse est non, le texte principal doit être complété avant de renvoyer à l'annexe.
+
+Réciproquement, l'annexe ne doit pas ajouter subrepticement une affirmation nouvelle sous prétexte de synthèse. Toute information nouvelle doit d'abord être introduite et qualifiée dans le texte de référence.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -1116,3 +1152,12 @@ Audit à poursuivre sur les expressions techniques ou conceptuelles qui pourraie
 Le plan de contrôle formalise trois exigences supplémentaires : textualité complète sans artifice graphique nécessaire au sens ; style narratif et littéraire ; qualification précise des réponses institutionnelles.
 
 La Traçabilité des Actes est désormais une grille transversale du dossier, y compris pour les modalités de remise du recours. Elle doit rester concrète, symétrique et vérifiable, et ne vaut jamais attribution automatique d'une intention.
+
+
+## UPDATE — 7 octobre 2026 — v0.33 / tableaux et schémas comme vues annexes
+
+Nouvel invariant : les tableaux et schémas quittent le corps de la requête lorsqu'ils servent seulement à présenter plus efficacement une matière déjà exposée.
+
+Le corps contient toujours l'équivalent sémantique complet en texte continu. Les annexes peuvent fournir des vues tabulaires ou graphiques, sans ajouter de contenu nouveau.
+
+Cette règle s'applique à tous les tableaux et schémas actuels et futurs de la requête.
