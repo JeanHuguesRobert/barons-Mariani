@@ -10,6 +10,7 @@ visibility: "public"
 lifecycle_state: "active"
 related:
   - "filing-package-2026-10-07.yml"
+  - "filing-package-public-2026-10-07.yml"
   - "requete-conseil-constitutionnel.md"
   - "bordereau-pieces-requete-conseil-constitutionnel.md"
 ---
@@ -25,7 +26,7 @@ related:
 | Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
 | Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
 | Inventaire probatoire | v1.8 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.55 | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.59 | outil interne ; ne pas annexer par défaut |
 
 ## 1 bis. Annexe chronologique obligatoire
 
@@ -126,42 +127,79 @@ Le paquet papier et le paquet électronique doivent correspondre au même état 
 
 
 
-## 4 ter. Contrat machine d'assemblage et Release immuable
+## 4 ter. Deux contrats machine — dépôt juridictionnel et projection publique
 
-Le contrat machine courant est :
+L'outil générique Ubikia `filing-package` traite désormais deux contrats distincts.
+
+### A. Paquet juridictionnel complet
+
+Contrat :
 
 `filing-package-2026-10-07.yml`
 
-Il est interprété par l'outil générique Ubikia `filing-package`. Le contrat versionne **l'ordre, les sources, les attentes de matérialisation et l'identité de l'artefact final** ; les PDF intermédiaires restent hors Git.
+Statut :
 
-Invariant de production :
+- **local-only** ;
+- aucune configuration `release` ;
+- contient ou référence tout ce qui doit être effectivement remis au Conseil constitutionnel ;
+- peut inclure, dans le staging local hors Git, des pièces non destinées à la publication ;
+- l'artefact effectivement transmis reçoit son propre SHA-256 canonique et sa propre trace de dépôt.
+
+Invariant :
 
 ~~~text
-sources versionnées + contrat versionné
-→ builds locaux jetables
-→ aucun PDF candidat dans Git
-→ validation d'un seul candidat
-→ GitHub Release en brouillon
-→ upload + retéléchargement + égalité SHA-256
-→ publication séparée
-→ Release immuable
+sources versionnées + contrat juridictionnel versionné
+→ staging local des pièces
+→ build local
+→ contrôle
+→ SHA-256
+→ transmission au Conseil
+→ preuve de réception
 ~~~
 
-Release cible :
+Une tentative `freeze` ou `publish` sur ce contrat doit échouer : l'absence du bloc `release` est volontaire.
+
+### B. Édition publique expurgée
+
+Contrat :
+
+`filing-package-public-2026-10-07.yml`
+
+Statut actuel :
+
+> **NOT READY — dérivés publics à matérialiser**
+
+Le contrat public ne réutilise pas silencieusement la requête complète, les mémoires QPC complets ou les pièces privées. Il exige des dérivés explicitement expurgés avant tout build publiable.
+
+Quand ces dérivés auront été contrôlés, la Release cible sera :
 
 - dépôt : `JeanHuguesRobert/barons-Mariani` ;
-- tag : `senatoriales-2026-cc-depot-2026-10-07` ;
-- asset : `requete-conseil-constitutionnel-haute-corse-2026.pdf` ;
-- exigence : **Immutable Releases activé** ; publication seulement après validation humaine terminale.
+- tag : `senatoriales-2026-cc-public-2026-10-07` ;
+- asset : `requete-conseil-constitutionnel-haute-corse-2026-edition-publique-expurgee.pdf` ;
+- exigence : **Immutable Releases activé** ;
+- publication : acte séparé, soumis à validation humaine terminale.
 
-Le `plan` doit échouer tant qu'une pièce requise n'a pas de fichier final matérialisé. Une ligne de bordereau ne vaut jamais, à elle seule, matérialisation de la pièce.
+### C. Relation entre les deux objets
 
+~~~text
+PAQUET JURIDICTIONNEL COMPLET
+≠ ÉDITION PUBLIQUE EXPURGÉE
 
-La matrice opérationnelle de matérialisation est :
+le premier prouve ce qui a été remis
+le second documente publiquement ce qui peut être diffusé
+~~~
+
+Une pièce peut donc être :
+
+- jointe au paquet juridictionnel et reproduite publiquement ;
+- jointe au paquet juridictionnel mais occultée ou non reproduite publiquement ;
+- non jointe au paquet juridictionnel par arbitrage explicite.
+
+Ces statuts ne doivent jamais être confondus.
+
+La matrice opérationnelle de matérialisation reste :
 
 [**Matrice de matérialisation des pièces**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/filing-materialization-map-2026-10-07.md)
-
-Les 37 entrées PDF du contrat disposent désormais d'une cible locale déterministe sous `.filing-materials/senatoriales-2026/`. À ce stade, leur statut reste `to_materialize` tant que le fichier PDF attendu n'existe pas réellement et n'a pas été contrôlé.
 
 ## 5. Contrôle final obligatoire
 
@@ -183,3 +221,20 @@ Corpus source
 ~~~
 
 Le post-filing snapshot devra identifier le quatrième objet sans ambiguïté.
+
+
+## 7. Séparation diffusion / production juridictionnelle
+
+Le présent manifeste est public. Il décrit l'architecture et l'état de contrôle, mais **ne vaut pas publication des pièces non publiques**.
+
+Règle :
+
+~~~text
+nécessaire au juge
+≠ nécessairement publiable
+
+non reproduit publiquement
+≠ non produit juridictionnellement
+~~~
+
+Le manifeste final devra donc enregistrer séparément, pour chaque pièce, son statut de production juridictionnelle et son statut de diffusion publique.
