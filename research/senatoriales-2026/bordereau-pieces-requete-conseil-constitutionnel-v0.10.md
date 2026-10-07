@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 version: "0.13"
-status: "working-draft — pre-filing piece schedule — not filed"
+status: "active — pre-filing piece schedule — not filed"
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "legal-brief"
@@ -24,7 +24,7 @@ provenance:
   origin_ref: "34c5f13248b1e619fab7cd4d6a490c3fe3cb400d"
   origin_date: "2026-10-04"
   derived_from:
-    - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.9.md"
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
     - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
 review:
   status: "unreviewed"
