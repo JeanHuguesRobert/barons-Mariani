@@ -28,6 +28,111 @@ review:
 
 # Suivi de l’instruction — requête sénatoriale Haute-Corse 2026
 
+
+## Mode d’emploi — commencer ici
+
+Cette page est conçue pour pouvoir être utilisée **sans connaître GitHub ni le Corpus**.
+
+La requête initiale, une fois gelée, ne sera plus modifiée. Cette page, au contraire, pourra continuer à évoluer.
+
+Le principe est donc simple :
+
+**requête gelée → adresse stable de la présente page → informations apparues après le dépôt.**
+
+En partant de la requête initiale, le lecteur pourra revenir ici pour savoir notamment :
+
+- si une pièce importante a été retrouvée après le dépôt ;
+- si cette pièce a seulement été identifiée, ou si une tentative de production au Conseil constitutionnel a effectivement eu lieu ;
+- si une administration ou un autre interlocuteur a fourni une réponse nouvelle ;
+- si le Conseil constitutionnel a demandé une information, une pièce ou une précision ;
+- quelle réponse a été apportée et par quel canal ;
+- quelles références d’enregistrement ou de réception sont disponibles ;
+- quelles autres informations potentiellement pertinentes sont apparues depuis le gel.
+
+**Une information publiée ici n’est pas, par ce seul fait, versée au dossier juridictionnel.**  
+La page indique séparément ce qui est seulement disponible, ce qui a été transmis, et ce dont l’enregistrement par le Conseil est effectivement établi.
+
+## Accès à la requête
+
+### Version canonique lisible sur GitHub
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel.md
+
+### Source Markdown brute
+
+https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/research/senatoriales-2026/requete-conseil-constitutionnel.md
+
+### PDF définitif gelé
+
+**À renseigner après gel et publication de l’artefact définitif.**
+
+Cette ligne devra alors indiquer :
+
+- l’URL directe du PDF définitif ;
+- sa référence de publication immuable ;
+- son nom de fichier exact ;
+- son empreinte SHA-256 calculée sur les octets définitifs.
+
+Tant que ces éléments ne sont pas disponibles, aucune URL ni empreinte ne doit être anticipée.
+
+## Liens utiles pour comprendre et vérifier le dossier
+
+### Dossier canonique « Sénatoriales 2026 »
+
+https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/research/senatoriales-2026
+
+### Bordereau de pièces actuellement associé à la préparation du dépôt
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md
+
+Le bordereau permet d’identifier les pièces, leur rôle et leur état de matérialisation. Sa présence dans le Corpus ne signifie pas à elle seule que chaque pièce a effectivement été remise au Conseil.
+
+### Annexe chronologique détaillée
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md
+
+Cette annexe fournit le fil temporel du dossier. Elle constitue une aide de lecture et ne remplace pas les pièces sources.
+
+### Vues tabulaires de la requête
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/annexe-vues-tabellaires-requete-cc-2026-10-07.md
+
+Ces vues offrent une autre représentation du même dossier afin de faciliter la vérification croisée.
+
+### Manifeste du paquet de dépôt
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/filing-package-manifest-2026-10-07.md
+
+Ce document distingue le Corpus, les sources, le paquet matériel à constituer et le paquet effectivement remis.
+
+### Mémoire QPC — article L.303 du code électoral
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
+
+### Mémoire QPC — article L.299 du code électoral
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+
+### Document général sur la traçabilité des actes
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md
+
+Ce dernier document expose la logique générale de traçabilité employée dans le Corpus. Il n’est pas, par lui-même, une pièce du contentieux électoral.
+
+## Comment lire les mises à jour futures
+
+Chaque ajout substantiel devra permettre de répondre à quatre questions simples :
+
+1. **Qu’est-ce qui est nouveau ?**
+2. **Pourquoi cela pourrait-il être pertinent pour la requête ?**
+3. **A-t-il été transmis au Conseil constitutionnel ?**
+4. **Si oui, quelle trace permet de l’établir ?**
+
+Lorsque l’information n’a pas encore été transmise, elle devra être explicitement marquée comme telle.
+
+Lorsque son statut juridique ou procédural est incertain, cette incertitude devra être conservée plutôt que transformée en affirmation.
+
+
 ## Fonction de ce document
 
 Cette page constitue le **point d’entrée stable annoncé dans la requête elle-même** pour retrouver, après le dépôt, les informations nouvelles relatives au traitement de la requête.
