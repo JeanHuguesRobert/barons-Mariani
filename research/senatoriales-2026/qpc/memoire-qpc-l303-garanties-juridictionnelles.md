@@ -3,7 +3,7 @@ title: "Mémoire distinct et motivé — QPC article L.303 du code électoral"
 subtitle: "Garanties juridictionnelles de l'exclusion d'une candidature sénatoriale"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "candidate-filing"
 language: fr
 document_role: "legal-brief"
@@ -44,6 +44,16 @@ Le Tribunal administratif de Bastia a été saisi sur son fondement et a statué
 À l'issue des recherches effectuées dans la jurisprudence constitutionnelle accessible, aucune décision n'a été identifiée comme ayant déclaré l'article L.303 conforme à la Constitution, dans ses motifs et son dispositif, au regard du grief ici soulevé.
 
 Le texte est ancien et a été appliqué à de nombreux contentieux électoraux. Cette application ne se confond pas avec une déclaration de conformité prononcée dans le cadre des articles 61 ou 61-1 de la Constitution.
+
+### III bis. Cadre organique de recevabilité appliqué à la présente QPC
+
+Dans sa décision n° 2023-6281 SEN/QPC du 8 décembre 2023, le Conseil constitutionnel a rappelé que la QPC directement soulevée devant lui à l'occasion d'un contentieux sénatorial doit porter sur une disposition législative applicable au litige ou à la procédure, non déjà déclarée conforme dans les motifs et le dispositif sauf changement des circonstances, et soulever une question nouvelle ou présentant un caractère sérieux.
+
+**Applicabilité.** L'article L.303 est directement applicable : il a organisé la saisine du Tribunal administratif de Bastia et fixe la voie par laquelle son jugement peut ensuite être contesté.
+
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant la seconde phrase de L.303 conforme, dans ses motifs et son dispositif, au regard du grief de recours effectif ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel.
+
+**Caractère sérieux.** La question porte sur une combinaison particulière : une décision d'exclusion rendue très rapidement, la fermeture de toute contestation utile pendant la période qui reste avant le scrutin, puis un contrôle seulement post-électoral après que l'atteinte est devenue irréversible.
 
 ### IV. Droits et libertés constitutionnellement garantis invoqués
 
@@ -112,7 +122,7 @@ Elle examine cependant si l'organisation procédurale laisse se produire des eff
 
 La décision n° 2015-500 QPC du 27 novembre 2015 illustre le contrôle exercé lorsque l'organisation de la procédure prive en pratique une partie d'un redressement utile.
 
-La décision n° 2017-632 QPC du 2 juin 2017 montre également que la prise en compte d'effets irrémédiables peut conduire le Conseil à exiger que le recours puisse être exercé et examiné en temps utile.
+La décision n° 2017-632 QPC du 2 juin 2017 est particulièrement proche par sa logique : face à des conséquences irrémédiables, le Conseil a jugé que le droit au recours effectif impose que les intéressés puissent exercer un recours **en temps utile** et que celui-ci puisse être examiné dans les meilleurs délais afin de permettre, le cas échéant, la suspension de la décision contestée.
 
 Ces précédents ne concernent pas le contentieux électoral sénatorial. Ils établissent néanmoins que l'effectivité du recours s'apprécie aussi au regard du moment où ses effets peuvent encore être utiles.
 
@@ -139,6 +149,18 @@ L'article L.303 ne prévoit aucune voie permettant de soumettre le jugement d'ex
 La QPC ne demande pas au Conseil de constitutionnaliser un appel ordinaire.
 
 Elle lui demande de déterminer si la combinaison retenue par la loi — jugement extrêmement rapide, absence de contrôle constitutionnel avant scrutin et contrôle seulement post-électoral — fournit une garantie suffisante au regard de l'article 16 de la Déclaration de 1789 lorsqu'un droit politique est rendu inexerçable dans l'élection concernée.
+
+### IX bis. Le point précis soumis au Conseil
+
+La QPC ne demande pas au Conseil de créer un double degré de juridiction.
+
+Elle ne demande pas davantage de décider abstraitement qu'il devrait être saisi avant toute élection sénatoriale.
+
+Elle pose un problème plus étroit : **lorsqu'une première décision juridictionnelle exclut une candidature alors qu'il reste encore du temps avant le scrutin, la loi peut-elle interdire toute voie de contestation susceptible d'empêcher que cette exclusion devienne irréversible ?**
+
+Dans le présent cas, le contraste temporel est particulièrement visible : trois jours au maximum pour le Tribunal administratif, puis treize jours entre son jugement et le scrutin sans voie de contestation utile.
+
+Le caractère sérieux de la question tient à cette dissociation entre l'urgence imposée au premier juge et l'attente imposée au justiciable.
 
 ### X. Meilleur contre-argument
 
