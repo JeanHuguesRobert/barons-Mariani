@@ -53,6 +53,8 @@ source_documents:
   - "research/senatoriales-2026/investigation/sources/index-correspondance-laurence-vernerey-2026-09.md"
   - "research/senatoriales-2026/qpc/qpc-l303-garanties-juridictionnelles-office-juge-electoral.md"
   - "research/senatoriales-2026/qpc/qpc-l299-formalisme-candidature-empechement-remplacant.md"
+  - "research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md"
+  - "research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md"
   - "research/senatoriales-2026/case_studies/capable_test_article_72_5.md"
   - "research/senatoriales-2026/case_studies/capable_test_senatoriales_2026_accessibilite.md"
   - "autonomia/amendement_effectivite_article_72-5.md"
