@@ -19,7 +19,7 @@ sections:
     items:
       - id: requete
         kind: markdown
-        path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md
+        path: research/senatoriales-2026/requete-conseil-constitutionnel.md
         status: ready
 
   - id: qpc
@@ -27,11 +27,11 @@ sections:
     items:
       - id: qpc-l299
         kind: markdown
-        path: research/senatoriales-2026/qpc/qpc-l299-formalisme-candidature-empechement-remplacant.md
+        path: research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
         status: ready
       - id: qpc-l303
         kind: markdown
-        path: research/senatoriales-2026/qpc/qpc-l303-garanties-juridictionnelles-office-juge-electoral.md
+        path: research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
         status: ready
 
   - id: annexes
@@ -113,6 +113,11 @@ sections:
         path: null
         status: to_materialize
         label: "P-17 — fichier final à matérialiser et contrôler"
+      - id: P-18
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-18 — attestation CAF relative à Mme Vernerey — version minimisée à matérialiser et contrôler"
       - id: P-19
         kind: pdf
         path: null
@@ -168,6 +173,16 @@ sections:
         path: null
         status: to_materialize
         label: "P-40 — fichier final à matérialiser et contrôler"
+      - id: P-43.a
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-43.a — courriel « Autorisation » de Laurence Vernerey — reproduction minimisée à matérialiser et contrôler"
+      - id: P-43.b
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-43.b — courriel « Porte-parole » de Laurence Vernerey — reproduction minimisée à matérialiser et contrôler"
       - id: P-44
         kind: pdf
         path: null
