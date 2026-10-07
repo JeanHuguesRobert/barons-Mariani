@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.18"
+version: "0.19"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -207,7 +207,8 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 
 ## A. MUST BEFORE FILING
 
-- [ ] **Intelligibilité grand public — budget attentionnel minimal** — écrire comme pour un lecteur intelligent mais disposant de très peu de temps et d’attention. Une phrase courte = une idée principale. Préférer sujet + verbe + conséquence. Définir tout terme technique avant usage. Employer des métaphores concrètes seulement si elles éclairent réellement (« une porte », « une chaîne », « une horloge », « un filet de sécurité »). Éviter les phrases à tiroirs, les doubles négations, les renvois implicites et les acronymes non expliqués. Le but n’est pas de simplifier la pensée, mais de **réduire la charge mentale** nécessaire pour la comprendre.
+- [ ] **Intelligibilité grand public — budget attentionnel minimal** — écrire comme pour un lecteur intelligent mais disposant de très peu de temps et d’attention. **Le but n'est pas de faire court ; le but est de faire facile à comprendre.** Une section peut être longue si cette longueur réduit l'effort cognitif, explicite les étapes et évite au lecteur de reconstruire le raisonnement. Une phrase doit porter une idée principale, mais plusieurs phrases courtes peuvent être préférables à une phrase condensée. Préférer sujet + verbe + conséquence. Définir tout terme technique avant usage. Employer des métaphores concrètes seulement si elles éclairent réellement (« une porte », « une chaîne », « une horloge », « un filet de sécurité »). Éviter les phrases à tiroirs, les doubles négations, les renvois implicites et les acronymes non expliqués. Le but n’est pas de simplifier la pensée, mais de **réduire la charge mentale** nécessaire pour la comprendre.
+- [ ] **Longueur ≠ complexité cognitive** — ne jamais raccourcir pour le seul plaisir de raccourcir. Une explication plus longue est préférable si elle rend les prémisses visibles, découpe les étapes, définit les termes, montre les exemples et ferme les malentendus. Le critère d'échec n'est pas « trop de mots » ; c'est « trop d'effort pour comprendre ». La compression est utile seulement si elle ne transfère pas le travail cognitif au lecteur.
 - [ ] **Intelligibilité expert — niveau juriste junior** — écrire pour un juriste compétent qui ne connaît ni le dossier ni toutes les spécialités mobilisées. Être didactique : rappeler la règle, son rang, sa fonction, la jurisprudence utile, le fait auquel elle s’applique, le meilleur contre-argument et la conséquence. Un lecteur expert doit pouvoir apprendre quelque chose sans avoir à reconstruire les prémisses.
 - [ ] **Principe de Talleyrand — expliciter ce qui “va sans dire”** — toute prémisse utile, tout lien causal, toute distinction de régime, toute limitation et toute conséquence doivent être écrits. Interdire les sous-entendus décisifs, les pronoms ambigus, les « donc » non démontrés, les références floues (« cela », « cette pièce », « ce point ») et les transitions qui obligent le lecteur à deviner le raisonnement. **Ce qui va sans dire va encore mieux en le disant.**
 - [ ] **Test anti-malentendu** — pour chaque grande section, demander : « quelles sont les trois mauvaises interprétations les plus faciles ? ». Ajouter une phrase explicite qui les empêche si elles sont plausibles.
