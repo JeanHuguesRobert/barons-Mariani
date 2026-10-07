@@ -39,7 +39,7 @@ review:
 | **Louis-Thomas → Madeleine Mariani → d’Adhémar** | deux filles : Thérèse et Blanche | **SUBSISTANTE** | non | **LIEN CORSE UNKNOWN** | continuation établie vers Girot de Langlade, Hainguerlot, Terlinden, Compagnon |
 | **Louis-Thomas → Essey Mariani** | Essey, capitaine d'infanterie, 1856–1891 | **INCONNUE** | inconnu | inconnu | descendance non encore recherchée |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
-| **Hyacinthe-Louis-Joseph → Albert → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **PROBABLEMENT ÉTEINTE** | probablement non | aucun | Meurgey ne montre pas d'autre descendant ; recherche publique initiale sans continuation probante ; ne pas stabiliser comme extinction certaine avant seconde revue |
+| **Hyacinthe-Louis-Joseph → Albert → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | Meurgey ne montre pas d'autre descendant ; une base publique affiche par ailleurs d'autres Mariani privés mais sans relation topologique suffisamment explicite avec Albert : ne pas les rattacher sans preuve |
 | **Marie-Madeleine Mariani → Filippini / Fantauzzi** | trois enfants documentés avec Michel Filippini ; ligne Ange → Marie-Thérèse Filippini → d’Arlot de Saint-Saud | **SUBSISTANCE AU XXe SIÈCLE ÉTABLIE ; ÉTAT 2026 INCONNU** | non pour les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | mariage Michel Filippini / Madeleine Mariani à Corte en 1843 ; Marie-Thérèse épouse Léonard d’Arlot de Saint-Saud en 1914 |
 
 ## Premier enseignement
@@ -100,7 +100,7 @@ Hyacinthe-Louis-Joseph Mariani (1827–1894)
 
 Statut correct :
 
-> **PROBABLEMENT ÉTEINTE — à confirmer.**
+> **INCONNUE — l'extinction reste une hypothèse à tester, non une conclusion.**
 
 Le dossier ne doit pas convertir l'absence de résultat en preuve d'extinction.
 
@@ -137,3 +137,32 @@ Sources :
 - https://gw.geneanet.org/pierfit?lang=en&n=filippini&p=marie+therese
 
 À ce stade, la branche est prouvée comme poursuivie au XXe siècle, mais sa survie en 2026 n'est pas encore fermée.
+
+### Correctif du 7 octobre 2026 — branche Hyacinthe
+
+Une recherche secondaire a fait apparaître, sur une page généalogique consacrée aux Mariani, un couple `Private × Marie Rose Franceschi (1902–1986)` avec deux descendants privés. La présentation de la page **ne permet pas de relier ce couple de façon suffisamment explicite à Albert Mariani**.
+
+En conséquence, aucune continuation n'est ajoutée au graphe canonique à partir de cette seule source.
+
+La qualification correcte de la branche est donc :
+
+**INCONNUE — extinction possible mais non démontrée.**
+
+Source examinée : https://man8rove.com/en/family/Mariany
+
+Ce correctif applique directement la règle : **absence de preuve ≠ preuve de l'absence ; proximité visuelle dans une base ≠ relation généalogique démontrée**.
+
+### Filippini → Saint-Saud — fermeture partielle
+
+La ligne Ange Filippini → Marie-Thérèse Filippini → Léonard d'Arlot de Saint-Saud est désormais corroborée par plusieurs sources indépendantes.
+
+Le site historique de Château Dillon confirme que Marie-Thérèse Filippini hérita du domaine en 1937, était veuve du vicomte d'Arlot de Saint-Saud et vendit ensuite la propriété au ministère de l'Agriculture. Une notice de la Société historique et archéologique du Périgord confirme le mariage.
+
+Aucune source consultée à ce stade ne mentionne d'enfant du couple. Cela **ne suffit pas encore à conclure sans postérité**.
+
+Statut de cette sous-branche : **postérité non trouvée / UNKNOWN**, avec extinction possible à confirmer par généalogies d'Arlot ou actes successoraux.
+
+Sources :
+- https://chateaudillon.com/lhistoire/
+- https://docs.shap.fr/BSHAP/BSHAP_1951-4.pdf
+- https://francearchives.gouv.fr/fr/facomponent/3ba8ccca29df01c293f9f26767717d4b4bc89827
