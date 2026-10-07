@@ -5,8 +5,8 @@ description: "Sommaire candidat et contrat éditorial du premier numéro, prévu
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.2"
+last_modified_at: "2026-10-07"
+version: "0.3"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -113,7 +113,7 @@ Question directrice :
 
 ### Partie III — Préparer
 
-14. Pourquoi un rattrapage de l'AG 2025
+14. Pourquoi l'exercice 2025 appelle une AG de rattrapage en 2026
 15. Travaux préparatoires sur les statuts
 16. Reconstruire l'exercice 2025
 17. Établir l'activité 2026
@@ -128,6 +128,20 @@ Question directrice :
 23. Une gouvernance plus légère et plus traçable
 24. Scénarios pour l'Institut
 25. Ce que l'Assemblée décidera réellement
+
+## 3 bis. Ne pas confondre année de l’AG et exercice couvert
+
+La recherche a établi une AG programmée le 28 juin 2025 et fortement reconstruite par un PV rétrospectif. Cette AG appartient à l'histoire de gouvernance 2025 ; elle ne doit pas être confondue avec l'AG à tenir en 2026 pour traiter l'exercice 2025.
+
+~~~text
+AG du 28 juin 2025
+→ antécédent institutionnel
+
+exercice 2025
+→ objet principal du rattrapage 2026
+~~~
+
+Le manuscrit doit utiliser des formulations non ambiguës : « AG du 28 juin 2025 » pour l'événement historique, et « AG 2026 relative à l'exercice 2025 » pour le rattrapage courant.
 
 ## 4. Contrat du chapitre final
 
