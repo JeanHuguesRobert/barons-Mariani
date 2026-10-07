@@ -105,6 +105,10 @@ Elle ne signifie pas encore : **PDF final produit, occulté, paginé et validé*
 | P-45.d | `.filing-materials/senatoriales-2026/P-45.d.pdf` | Gmail `1a0fc64750fe95b6` | AUTO-GMAIL | source vérifiée ; PDF à produire |
 | P-46 | `.filing-materials/senatoriales-2026/P-46.pdf` | 46 messages Gmail P-46.01 à P-46.46 | COMPOSITE / AUTO-GMAIL | **46/46 sources vérifiées** ; recueil PDF à générer avec occultations prévues |
 
+## Cas P-45 — parent logique
+
+P-45 regroupe P-45.a à P-45.d. Le contrat machine matérialise ces quatre sous-pièces séparément et **ne prévoit volontairement aucun `P-45.pdf` autonome**. Le contrôle de complétude doit donc considérer P-45 satisfait lorsque les quatre sous-pièces sont présentes et validées.
+
 ## Cas P-13 — vidéo
 
 Le contrat `ubikia.filing-package.v0` accepte uniquement des entrées `markdown` et `pdf`. La vidéo P-13 ne peut donc pas être incorporée nativement au PDF final.
