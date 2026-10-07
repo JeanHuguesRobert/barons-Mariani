@@ -193,11 +193,6 @@ sections:
         path: .filing-materials/senatoriales-2026/P-40.pdf
         status: to_materialize
         label: "P-40 — Bulletin « BARON MARIANI » et enveloppe"
-      - id: P-41
-        kind: pdf
-        path: .filing-materials/senatoriales-2026/P-41.pdf
-        status: to_materialize
-        label: "P-41 — Annexe de déclarations publiques et commentaires de presse"
       - id: P-43.a
         kind: pdf
         path: .filing-materials/senatoriales-2026/P-43.a.pdf
