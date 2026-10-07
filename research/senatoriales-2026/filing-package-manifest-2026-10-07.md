@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales Haute-Corse 2026 — manifeste du paquet de dépôt"
 author: "Jean Hugues Noël Robert"
-date: "2026-10-06"
+date: "2026-10-07"
 status: "pre-filing — materialization control"
 language: "fr"
 document_role: "operational"
@@ -9,8 +9,8 @@ document_kind: "filing-package-manifest"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.14.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
+  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 ---
 
 # Manifeste du paquet de dépôt
@@ -19,10 +19,10 @@ related:
 
 | Objet | Version courante | État |
 |---|---|---|
-| Requête | v0.14 | texte source prêt pour gel ; non déposé |
-| Bordereau | v0.8 | cohérent P-01 à P-43 ; non déposé |
+| Requête | v0.18 | texte source prêt pour gel ; non déposé |
+| Bordereau | v0.10 | cohérent P-01 à P-45 ; non déposé |
 | Inventaire probatoire | v1.6 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.9+ | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.14 | outil interne ; ne pas annexer par défaut |
 
 ## 2. Production A proposée
 
@@ -35,6 +35,7 @@ P-19 P-20 P-22
 P-27
 P-29 P-30 P-31 P-32 P-33
 P-39 P-40
+P-44 P-45
 ~~~
 
 Statut de ce manifeste :
@@ -47,6 +48,18 @@ Statut de ce manifeste :
 - **P-41** : soutien contextuel ; après vérification des principales URLs et affirmations, **ne pas joindre par défaut** sauf décision expresse de soutenir la branche influence.
 - **P-42** : diligence Défenseur des droits ; réserve/soutien, pas nécessaire au noyau de recevabilité.
 - **P-43** : correspondance privée ; ne produire que les messages strictement nécessaires, sous forme native ou lisible, avec occultation des données non nécessaires.
+
+### P-45 — chaîne intégrale de courriels
+
+À produire comme pièce A composite :
+- P-45.a — courriel du 26/09 ;
+- P-45.b — courriel du 28/09 à la Sous-préfecture de Corte ;
+- P-45.c — courriel intégral du 01/10 ;
+- P-45.d — courriel intégral du 02/10.
+
+Pour chacun : représentation lisible complète + en-têtes utiles + export natif si possible + SHA-256 du fichier produit.
+
+Index public : `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md`.
 
 ## 4. Chaîne TA
 
