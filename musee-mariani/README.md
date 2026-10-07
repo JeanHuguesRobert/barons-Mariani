@@ -65,6 +65,7 @@ musee-mariani/
   casabianca/
   dangelis/
   arrighi-de-casanova/
+  fantauzzi/
   collections/
     README.md
   expositions/
@@ -103,7 +104,8 @@ musee-mariani/
 - [`notes-critiques/preuves-et-incertitudes.md`](notes-critiques/preuves-et-incertitudes.md) — grille de preuve et règles de prudence.
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
 - [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — méthode de généalogie augmentée et feuille de route pour les notices individuelles Mariani et leurs alliances ;
-- [`arrighi-de-casanova/README.md`](arrighi-de-casanova/README.md) — premier sous-corpus d’alliance ouvert depuis les tableaux de Meurgey 1933.
+- [`arrighi-de-casanova/README.md`](arrighi-de-casanova/README.md) — premier sous-corpus d’alliance ouvert depuis les tableaux de Meurgey 1933 ;
+- [`fantauzzi/README.md`](fantauzzi/README.md) — branches Fantauzzi, continuités familiales et économiques continentales.
 
 ## Doctrine des Possibles — méthode, juridique, ateliers
 
