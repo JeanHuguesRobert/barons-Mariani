@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.28"
+version: "0.29"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -166,6 +166,45 @@ La conclusion principale est l'annulation de l'élection de M. Parigi et les con
 Une vue tabulaire strictement équivalente figure dans l'annexe **« Vues tabulaires de la requête sénatoriale Haute-Corse 2026 »**. Elle n'ajoute aucune information au présent texte.
 
 ---
+
+
+## CANAL DE SUIVI DE L’INSTRUCTION ET TRAÇABILITÉ DU CONTRADICTOIRE
+
+### rendre chaque échange vérifiable sans créer une procédure parallèle
+
+Le requérant souhaite que l’instruction puisse se dérouler avec la meilleure **traçabilité des échanges contradictoires** possible.
+
+En droit, le contradictoire ne signifie pas un dialogue informel ou direct avec le juge. Il signifie que les parties doivent pouvoir connaître et discuter les éléments, pièces et arguments susceptibles d’influencer la décision, selon les modalités fixées par la juridiction.
+
+Le règlement applicable au contentieux de l’élection des députés et des sénateurs organise déjà cette circulation : les mémoires ampliatifs peuvent développer les moyens invoqués dans la requête sans introduire de moyen nouveau ; la section d’instruction peut inviter le requérant à répliquer aux observations produites, ordonner toute communication utile et demander aux autorités administratives les rapports ou documents nécessaires. Les actes de procédure, dépôts de documents et pièces nouvelles ont vocation à être enregistrés par le secrétariat général.
+
+Le dispositif proposé ci-dessous **ne se substitue à aucune de ces règles**.
+
+Il poursuit deux objectifs pratiques et réciproques.
+
+**Du requérant vers le Conseil constitutionnel.**  
+Si, après le dépôt de la présente requête, des informations, réponses institutionnelles, pièces ou précisions nouvelles deviennent disponibles et qu’elles peuvent être régulièrement produites dans le cadre des moyens déjà soulevés, le requérant entend les transmettre par la voie procédurale indiquée ou acceptée par le Conseil constitutionnel. Un document de suivi consolidé tenu dans le Corpus public pourra en fournir l’index chronologique : date, nature de l’élément, objet, référence de la transmission officielle, version ou empreinte du document lorsqu’elle existe. Ce document de suivi n’aura **aucune valeur de dépôt par lui-même** : seule la transmission effectuée selon les modalités reconnues par le Conseil constituera l’acte de procédure.
+
+**Du Conseil constitutionnel vers le requérant.**  
+Le requérant se tient réciproquement à la disposition du Conseil, de sa section d’instruction et de son secrétariat général pour répondre sans délai excessif à toute demande de précision, de pièce, de vérification ou d’explication utile à l’instruction. Il demande simplement que toute demande de cette nature puisse être rattachée à un canal et à une référence identifiables afin que sa réception, sa réponse et les pièces correspondantes puissent être conservées sans ambiguïté.
+
+À cette fin, le point de contact procédural du requérant est :
+
+- courriel : `jeanhuguesrobert@gmail.com` ;
+- adresse : 1 cours Paoli, F-20250 Corte.
+
+Si le Conseil constitutionnel ou son secrétariat général utilise ou prescrit un autre canal pour les échanges relatifs à l’instruction, **ce canal prévaudra naturellement**.
+
+Le registre miroir tenu dans le Corpus n’a donc qu’une fonction de traçabilité, de consolidation et de contrôle ultérieur. Il ne prétend ni imposer au Conseil constitutionnel un outil extérieur, ni soustraire une pièce au contradictoire, ni contourner le registre du secrétariat général.
+
+Cette organisation vise au contraire à éviter trois confusions :
+
+1. qu’une information publiée dans le Corpus soit prise à tort pour une production juridictionnelle ;
+2. qu’une production juridictionnelle ne puisse plus être reliée à sa date, à sa version et à son objet ;
+3. qu’une demande du Conseil et la réponse qui lui est apportée soient ultérieurement difficiles à reconstituer.
+
+Le requérant s’engage enfin à ne pas utiliser ce mécanisme pour introduire après l’expiration du délai contentieux un moyen nouveau qui n’aurait pas été contenu, au moins en substance, dans la présente requête. Les compléments ultérieurs auront pour fonction de **documenter, préciser, répondre ou développer** les moyens déjà soumis au Conseil, dans les limites fixées par les textes et par l’instruction.
+
 
 ## I. RECEVABILITÉ ET QUALITÉ POUR AGIR
 
