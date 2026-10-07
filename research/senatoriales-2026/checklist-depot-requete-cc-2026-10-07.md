@@ -47,6 +47,26 @@ NEW TRACE / NEW OBJECTION / NEW REMEDY / NEW DEADLINE
 
 Ne pas attendre une "version finale" pour enregistrer un point utile.
 
+### Invariant d'autonomie du dossier et des pièces
+
+Le dossier remis au Conseil doit être **autoportant**. Un juriste ne doit jamais avoir à connaître le Corpus, une conversation passée, un dépôt GitHub, un courriel non produit ou une convention interne pour comprendre une affirmation, une pièce ou un raisonnement.
+
+Règle impérative :
+
+```text
+TOUTE CHOSE INVOQUÉE
+→ doit être définie avant usage ;
+→ son rôle dans le raisonnement doit être explicite ;
+→ si elle est matériellement utile, elle doit être produite dans le dossier final ;
+→ si l'incorporation est impraticable, fournir un accès Internet stable et vérifié,
+   accompagné d'une empreinte forte (SHA-256 au minimum), d'une date de gel,
+   d'une description suffisante et, si nécessaire, d'une transcription ou extraction lisible ;
+→ aucune référence orpheline à "le Corpus", "la vidéo", "le mail", "le document",
+   "l'annexe" ou à toute notion interne non définie n'est admise.
+```
+
+Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au minimum : **numéro**, **intitulé bref**, **date**, **origine/provenance**, **description matérielle**, **fait(s) qu'elle établit ou éclaire**, **place dans le raisonnement**, **fichier(s) exact(s)**, **mode de production** (embarqué / annexe / lien externe), **URL vérifiée le cas échéant**, **SHA-256**, **statut de vérification**, **lisibilité**, **éventuelle transcription**, **éventuelle occultation/minimisation**, et **présence effective dans le paquet remis**.
+
 ## A. MUST BEFORE FILING
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
@@ -58,13 +78,17 @@ Ne pas attendre une "version finale" pour enregistrer un point utile.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
+- [ ] **Registre probatoire autoportant pièce par pièce** — pour chaque P-xx (et chaque sous-pièce d'un ensemble composite), contrôler numéro, titre, date, provenance, description, rôle probatoire/argumentatif, fichier source, URL éventuelle, empreinte SHA-256, transcription si utile, confidentialité/occultation, et présence effective dans le paquet final. Une référence externe ne remplace jamais une définition suffisante dans la requête ou le bordereau.
+- [ ] **Pièces composites — sous-numérotation stable** — lorsqu'une même séquence probatoire comporte plusieurs objets matériels distincts (avis postal, enveloppe, page de notification, jugement, photographie contextuelle, recto/verso, transcription), conserver le numéro principal mais attribuer des sous-identifiants stables (ex. P-20.a, P-20.b…) afin qu'une citation pointe vers un objet précis sans renumérotation globale du dossier.
 - [ ] **Pièces critiques** — vérifier présence, lisibilité, date, origine et concordance des pièces relatives au dépôt de candidature, aux formalités de la remplaçante, au TA, aux échanges préfectoraux et au scrutin.
 - [ ] **P-09 — récépissé provisoire : scan + transcription textuelle** — joindre au paquet remis le scan/reproduction lisible du récépissé provisoire délivré le **11 septembre 2026 à 12 h 20** et une transcription textuelle fidèle de tous les champs lisibles. La transcription déjà conservée dans le Corpus peut servir de base, mais la version de dépôt doit être contrôlée ligne à ligne contre l'image primaire ; signaler explicitement toute mention illisible, anomalie ou lacune au lieu de la compléter par inférence.
 - [ ] **P-17 — note manuscrite recto-verso remise à l'audience : scan + transcription textuelle** — joindre la reproduction recto-verso de la feuille manuscrite remise en main propre au début de l'audience du **14 septembre 2026**, ainsi qu'une transcription textuelle fidèle. Le texte avait été dicté dans une conversation contemporaine, mais le libellé exact doit être récupéré ou vérifié contre le scan : **ne pas reconstruire silencieusement de mémoire**. Cette pièce doit être traitée comme une production autonome de l'audience et reliée à la chronologie et au bordereau.
+- [ ] **P-17 — granularité matérielle** — distinguer au minimum le recto, le verso et la transcription vérifiée comme trois objets identifiables sous un même numéro principal ; préciser pour chacun le fichier exact et son SHA-256. La transcription est un dérivé de lecture ; les images du manuscrit restent les pièces primaires.
 - [x] **P-14 — deux requêtes préfectorales retrouvées et comparées** — les bundles `2601714` et `2601715` contiennent une saisine signée de trois pages au même contenu substantiel ; leur position dans les bundles diffère. Ne pas parler d'identité binaire des PDF complets sans comparaison de fichiers.
 - [x] **P-14 — distinction L.298 / L.299 dans la saisine** — l'exposé des faits rappelle **L.298 et L.299** ; la partie « Discussion » reproduit et développe expressément **L.299** pour l'exigence d'« original », sans développement autonome de L.298.
 - [x] **e-Sagace — sens des conclusions** — les deux dossiers affichent un refus pour méconnaissance alléguée de **L.298, L.299 et L.301**. Qualifier correctement : il s'agit du sens des conclusions, pas du jugement.
 - [ ] **Jugement primaire — contrôle L.298 / L.299 / L.301** — relire ligne à ligne l'expédition primaire P-20 et enregistrer exactement les dispositions visées et développées. Si L.298 est absent de la motivation alors qu'il figure dans le sens des conclusions e-Sagace, décrire cette différence sans en déduire automatiquement qu'un moyen aurait été ignoré.
+- [ ] **P-20 — chaîne matérielle de notification du jugement du 14 septembre** — traiter séparément, sous P-20 avec sous-identifiants stables, (a) l'avis de passage / notification trouvé dans la boîte aux lettres, (b) l'enveloppe ou pli recommandé retiré à La Poste et les éléments permettant d'en rattacher le retrait au lieu et à la date, y compris la photographie de la plaque « Avenue du Baron Mariani » si elle est utile et datable, (c) la page de notification du greffe, (d) les trois pages du jugement. Pour chaque élément : fichier exact, date/provenance, SHA-256, lisibilité et fonction probatoire. Ne pas présenter une photographie comme horodatée si ses métadonnées ou une autre trace indépendante ne l'établissent pas.
 - [x] **P-44 — chaîne France Transfert retrouvée** — deux courriels reçus le 11 septembre à **18 h 45 min 53 s** : avis de pli provenant du greffe et mot de passe transmis séparément. Le premier annonce les quatre fichiers (deux CRAASE + deux PDF préfectoraux). Mot de passe et liens non publiés.
 - [ ] **P-44 — pièce à matérialiser pour le dépôt** — joindre au paquet Conseil une copie des deux courriels France Transfert établissant la provenance de P-14, en masquant mot de passe, lien et jetons inutiles ; conserver les originaux natifs disponibles pour vérification.
 - [x] **Influence sur le scrutin** — la requête distingue clairement :
