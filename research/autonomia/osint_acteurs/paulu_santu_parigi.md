@@ -62,7 +62,7 @@ Le projet de loi constitutionnelle relatif à l’autonomie de la Corse est soum
 
 Sa fiche sénatoriale antérieure au renouvellement le donnait membre de la **commission des lois constitutionnelles**, commission au centre de l’examen du texte.
 
-Le Sénat a publié le 6 octobre les listes des membres des commissions permanentes et doit constituer le bureau de la commission des lois le 7 octobre à 9 h 30. À 7 h 36, la présente fiche ne transforme pas encore cette séquence en fonction stabilisée : la composition et les responsabilités internes doivent être reprises d’une publication sénatoriale courante après constitution du bureau.
+Le Sénat a publié le 6 octobre les listes des candidats aux commissions permanentes, avec ratification annoncée sauf opposition dans le délai prévu, et doit constituer/g le bureau de la commission des lois le 7 octobre à 9 h 30. À 7 h 36, la présente fiche ne transforme pas encore cette séquence en fonction stabilisée : la composition et les responsabilités internes doivent être reprises d’une publication sénatoriale courante après constitution du bureau.
 
 Dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 
