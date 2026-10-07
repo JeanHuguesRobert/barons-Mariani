@@ -77,3 +77,11 @@ Priorité : retrouver les trois dépliants manquants dans :
 1. l'album Google Photos transmis le 30 avril 2025, si son contenu diffère du Google Doc ;
 2. une autre copie/scanner du livre ;
 3. les archives personnelles ou institutionnelles où une copie de l'ouvrage aurait été photographiée.
+
+### Provenance de l'exemplaire JHR
+
+Un courriel de commande du 12 novembre 2011 établit que l'exemplaire acquis par JHR comportait **5 tableaux imprimés dépliants**. Il est décrit comme broché, partiellement non coupé, avec une **longue dédicace à Harald Fleetwood**.
+
+Dossier : `apparatus/provenance-exemplaire-jhr.md`.
+
+Conséquence : les trois tableaux non présents dans le Google Doc DRAC 2025 sont **manquants de la numérisation actuelle, pas de l'exemplaire acheté**.
