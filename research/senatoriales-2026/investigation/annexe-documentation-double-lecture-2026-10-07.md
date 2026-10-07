@@ -2,7 +2,7 @@
 title: "Annexe documentation — double lecture grand public / experts"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "active — documentation layer"
 language: "fr"
 document_role: "legal-documentation-annex"
@@ -180,3 +180,16 @@ Dans le même temps, les demandes portant sur la réception du courriel de 17 h 
 Cette observation doit être lue avec une qualification précise de chaque cas : réponse absente, réponse non retrouvée, réponse partielle, réponse hors sujet ou information explicitement déclarée indisponible.
 
 La séquence ne permet pas, par elle-même, d'identifier une cause unique. Elle documente en revanche un problème d'effectivité : certaines informations nécessaires à la vérification contradictoire restent difficiles à obtenir dans le temps utile.
+
+
+## Pourquoi les deux QPC sont générales
+
+Une question prioritaire de constitutionnalité naît dans un litige concret, mais elle porte sur une disposition législative générale.
+
+Le cas Robert–Vernerey permet d'établir que L.299 et L.303 sont applicables et que leurs effets ne sont pas hypothétiques. La réponse recherchée doit cependant valoir pour toute situation juridiquement comparable.
+
+Pour **L.299**, la question est générale : comment une formalité manuscrite doit-elle s'appliquer lorsqu'un remplaçant est empêché par un handicap d'accomplir personnellement le geste alors que son consentement peut être établi ?
+
+Pour **L.303**, la question est générale : quelles garanties doivent exister lorsqu'une candidature est exclue avant le scrutin et que la loi ferme toute autre contestation jusqu'au contentieux de l'élection ?
+
+Cette généralité empêche de réduire les QPC aux seules personnes du présent dossier.
