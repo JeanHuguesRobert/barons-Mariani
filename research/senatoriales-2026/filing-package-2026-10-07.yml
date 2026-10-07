@@ -1,0 +1,181 @@
+schema: ubikia.filing-package.v0
+id: senatoriales-2026-cc-depot
+title: "Requête au Conseil constitutionnel — Sénatoriales Haute-Corse 2026"
+source_root: ../..
+source_clean_required: true
+
+artifact:
+  filename: requete-conseil-constitutionnel-haute-corse-2026.pdf
+
+release:
+  repository: JeanHuguesRobert/barons-Mariani
+  tag: senatoriales-2026-cc-depot-2026-10-07
+  title: "Dépôt Conseil constitutionnel — Sénatoriales Haute-Corse 2026 — 7 octobre 2026"
+  immutable_required: true
+
+sections:
+  - id: requete
+    title: Requête
+    items:
+      - id: requete
+        kind: markdown
+        path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md
+        status: ready
+
+  - id: qpc
+    title: Questions prioritaires de constitutionnalité
+    items:
+      - id: qpc-l299
+        kind: markdown
+        path: research/senatoriales-2026/qpc/qpc-l299-formalisme-candidature-empechement-remplacant.md
+        status: ready
+      - id: qpc-l303
+        kind: markdown
+        path: research/senatoriales-2026/qpc/qpc-l303-garanties-juridictionnelles-office-juge-electoral.md
+        status: ready
+
+  - id: annexes
+    title: Annexes de la requête
+    items:
+      - id: annexe-chronologie
+        kind: markdown
+        path: research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md
+        status: ready
+      - id: annexe-double-lecture
+        kind: markdown
+        path: research/senatoriales-2026/investigation/annexe-documentation-double-lecture-2026-10-07.md
+        status: ready
+      - id: bordereau
+        kind: markdown
+        path: research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md
+        status: ready
+
+  - id: pieces
+    title: Pièces produites
+    items:
+      - id: P-04
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-04 — fichier final à matérialiser et contrôler"
+      - id: P-05
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-05 — fichier final à matérialiser et contrôler"
+      - id: P-06
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-06 — fichier final à matérialiser et contrôler"
+      - id: P-09
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-09 — fichier final à matérialiser et contrôler"
+      - id: P-10
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-10 — fichier final à matérialiser et contrôler"
+      - id: P-11
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-11 — fichier final à matérialiser et contrôler"
+      - id: P-12
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-12 — fichier final à matérialiser et contrôler"
+      - id: P-13
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-13 — fichier final à matérialiser et contrôler"
+      - id: P-14
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-14 — fichier final à matérialiser et contrôler"
+      - id: P-15
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-15 — fichier final à matérialiser et contrôler"
+      - id: P-16
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-16 — fichier final à matérialiser et contrôler"
+      - id: P-17
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-17 — fichier final à matérialiser et contrôler"
+      - id: P-19
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-19 — fichier final à matérialiser et contrôler"
+      - id: P-20
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-20 — fichier final à matérialiser et contrôler"
+      - id: P-22
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-22 — fichier final à matérialiser et contrôler"
+      - id: P-27
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-27 — fichier final à matérialiser et contrôler"
+      - id: P-29
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-29 — fichier final à matérialiser et contrôler"
+      - id: P-30
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-30 — fichier final à matérialiser et contrôler"
+      - id: P-31
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-31 — fichier final à matérialiser et contrôler"
+      - id: P-32
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-32 — fichier final à matérialiser et contrôler"
+      - id: P-33
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-33 — fichier final à matérialiser et contrôler"
+      - id: P-39
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-39 — fichier final à matérialiser et contrôler"
+      - id: P-40
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-40 — fichier final à matérialiser et contrôler"
+      - id: P-44
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-44 — fichier final à matérialiser et contrôler"
+      - id: P-45
+        kind: pdf
+        path: null
+        status: to_materialize
+        label: "P-45 — fichier final à matérialiser et contrôler"
+
