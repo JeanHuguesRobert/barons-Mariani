@@ -3,14 +3,19 @@ title: Corpus Status — barons-Mariani
 description: Current state of the barons-Mariani knowledge corpus — what is proved, what is open, what remains possible
 layout: default
 nav_order: 2
-last_modified_at: 2026-06-08T00:00:00.000Z
+last_modified_at: 2026-10-07
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corpus-status.md
 last_stamped_at: 2026-06-01T00:00:00.000Z
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-27T00:00:00.000Z
 creator: Jean Hugues Noël Robert, baron Mariani (généré automatiquement par les outils du corpus)
+author: unknown
 language: en
+document_role: index
+document_kind: corpus-status
+visibility: public
+lifecycle_state: working
 update_policy: UP-DEFAULT-REVIEWED
 status: working-paper
 review:
