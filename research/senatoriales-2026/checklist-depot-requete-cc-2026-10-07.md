@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.51"
+version: "0.52"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1049,6 +1049,23 @@ Les annexes suivantes ont été resynchronisées avec la requête stable :
 - **préservation CEDH** : fenêtre préélectorale et recours en temps utile.
 
 Contrôle restant avant gel : vérifier que ces annexes ne contiennent plus de pointeur présenté comme courant vers une ancienne version de la requête, une ancienne désignation QPC ou un statut probatoire devenu faux.
+
+
+### Cohérence chronologie / bordereau / inventaire — contrôle v0.52
+
+Contrôle croisé effectué entre requête stable, chronologie détaillée, bordereau et inventaire probatoire.
+
+Corrections appliquées :
+- individualisation de **P-45.a à P-45.d** dans bordereau et inventaire ;
+- normalisation du registre **P-46** en heure locale Europe/Paris à partir des horodatages Gmail, avec conservation des en-têtes RFC822 comme référence ;
+- correction de **P-43.a** dans la journée du 10 septembre et de **P-43.b** à 18 h 25 min 49 s CEST le 11 septembre ;
+- qualification explicite de P-43.b comme preuve de continuité postérieure à 18 h, non comme acte accompli avant la clôture ;
+- rattachement explicite dans la chronologie de **P-13**, **P-16**, **P-29**, **P-34** et **P-35** ;
+- clarification de **P-20.a** comme sous-pièce de P-20 ;
+- clarification de **P-46** comme registre transversal exhaustif, sans substitution aux pièces fonctionnelles P-04 à P-45 ;
+- suppression des anciens pointeurs vers les versions historiques de la requête dans les annexes prioritaires.
+
+Point restant avant gel : confronter le registre P-46 normalisé avec le recueil matériel effectivement généré et vérifier que chaque sous-pièce annoncée possède une reproduction lisible et, lorsque utile, son original natif.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
