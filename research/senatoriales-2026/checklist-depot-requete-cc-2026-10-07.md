@@ -89,6 +89,36 @@ TOUTE CHOSE INVOQUÉE
 
 Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au minimum : **numéro**, **intitulé bref**, **date**, **origine/provenance**, **description matérielle**, **fait(s) qu'elle établit ou éclaire**, **place dans le raisonnement**, **fichier(s) exact(s)**, **mode de production** (embarqué / annexe / lien externe), **URL vérifiée le cas échéant**, **SHA-256**, **statut de vérification**, **lisibilité**, **éventuelle transcription**, **éventuelle occultation/minimisation**, et **présence effective dans le paquet remis**.
 
+## Mode d'emploi opératoire — comment construire et promouvoir une version
+
+Avant toute nouvelle version de la requête :
+
+~~~text
+1. intégrer toute nouvelle trace / objection / réponse institutionnelle
+2. qualifier son statut probatoire
+3. l'insérer dans la chronologie
+4. la rattacher à une pièce, ou motiver sa réserve/exclusion
+5. mettre à jour l'inventaire probatoire
+6. mettre à jour le bordereau si elle doit être produite
+7. exécuter l'audit Gmail différentiel
+8. revérifier les propositions de droit load-bearing sur sources officielles
+9. rechercher les traces adverses ou contradictoires
+10. refaire une passe "motifs de rejet"
+11. contrôler requête ↔ chronologie ↔ bordereau ↔ inventaire
+12. promouvoir seulement si les divergences sont fermées ou explicitement UNKNOWN
+~~~
+
+Bugs bloquants de préparation :
+- fait matériel important absent de la chronologie ;
+- pièce importante sans fait clairement identifié ;
+- courriel INCLUDE sans mapping ;
+- heure reconstruite sans preuve ;
+- contradiction non qualifiée ;
+- proposition de droit load-bearing sans source officielle vérifiée ;
+- modification d'un seul objet qui rend les autres faux.
+
+Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
+
 ## A. MUST BEFORE FILING
 
 - [ ] **Mode d'emploi de constitution de la requête** — appliquer avant toute promotion de version le protocole `protocole-constitution-requete-cc-2026-10-07.md` : synchroniser requête, chronologie, bordereau, inventaire, Gmail, sources juridiques, contradictions et revue « motifs de rejet ». Aucun de ces objets ne doit diverger silencieusement.
@@ -113,7 +143,7 @@ Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au
 - [ ] **P-45 — silence administratif sur les modalités de dépôt** — produire **intégralement** dans le dossier les quatre courriels P-45.a à P-45.d : 26/09 demande au Bureau des élections ; 28/09 demande directe à la Sous-préfecture de Corte ; 01/10 consolidation avec Sous-préfecture en copie ; 02/10 relance numérotée P1–P18 avec P11/P12. L'index public `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md` ne remplace pas les messages natifs.
 - [ ] **P-45 — intégralité et authenticité des courriels** — pour chaque sous-pièce, joindre une représentation lisible du message **complet**, avec date/heure, objet, destinataires/copies et en-têtes utiles ; conserver si possible l'export natif EML/RFC822 ; calculer le SHA-256 du fichier effectivement produit ; vérifier que le sous-identifiant P-45.x du bordereau correspond exactement au fichier annexé.
 - [x] **P-45 — borne probatoire du silence** — recherche Gmail ciblée vérifiée : le fil du 26/09 et celui du 28/09 ne contiennent chacun qu'un message sortant ; aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture de Corte n'a été retrouvée entre le 28/09 et le 07/10. Ne pas écrire « l'État n'a jamais répondu » : P-28 établit une réponse sur la consultation des pièces. La proposition documentée est plus étroite : **aucune réponse substantielle retrouvée sur la modalité de dépôt article 34 malgré les demandes et relances identifiées**.
-- [ ] **P-45 — présence dans la requête et le bordereau** — contrôler avant gel que la requête v0.18 cite P-45.a à P-45.d dans la chronologie et dans le grief d'effectivité, et que le bordereau v0.10 les identifie comme pièce A à produire intégralement.
+- [ ] **P-45 — présence dans la requête et le bordereau** — contrôler avant gel que la requête v0.19 cite P-45.a à P-45.d dans la chronologie et dans le grief d'effectivité, et que le bordereau v0.10 les identifie comme pièce A à produire intégralement.
 - [ ] **Marge opérationnelle de dépôt** — fixer une heure-cible interne antérieure à 18 h, un seuil explicite d'arrêt des améliorations non essentielles et une priorité absolue à la remise + preuve de remise. Ne jamais sacrifier le dépôt au perfectionnement tardif du dossier.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
