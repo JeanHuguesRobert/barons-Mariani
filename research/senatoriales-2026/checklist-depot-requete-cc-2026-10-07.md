@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.52"
+version: "0.53"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1060,7 +1060,7 @@ Corrections appliquées :
 - normalisation du registre **P-46** en heure locale Europe/Paris à partir des horodatages Gmail, avec conservation des en-têtes RFC822 comme référence ;
 - correction de **P-43.a** dans la journée du 10 septembre et de **P-43.b** à 18 h 25 min 49 s CEST le 11 septembre ;
 - qualification explicite de P-43.b comme preuve de continuité postérieure à 18 h, non comme acte accompli avant la clôture ;
-- rattachement explicite dans la chronologie de **P-13**, **P-16**, **P-29**, **P-34** et **P-35** ;
+- rattachement explicite dans la chronologie des pièces primaires et remplacement des anciens doublons du 1er et du 2 octobre par leurs identifiants canoniques P-45.c et P-45.d ;
 - clarification de **P-20.a** comme sous-pièce de P-20 ;
 - clarification de **P-46** comme registre transversal exhaustif, sans substitution aux pièces fonctionnelles P-04 à P-45 ;
 - suppression des anciens pointeurs vers les versions historiques de la requête dans les annexes prioritaires.
@@ -1743,3 +1743,11 @@ Les anciennes notes QPC restent des dossiers de recherche. Les mémoires devienn
 ## UPDATE — 7 octobre 2026 — v0.51 / gate terminal de contrôle des sorties
 
 Ajout d'un gate terminal obligatoire : toute sortie candidate est relue contre le control plane local avant émission. Les références documentaires doivent notamment être résolues sous la forme **numéro + libellé intelligible** ; un identifiant nu comme `P-46` est interdit lorsqu'un libellé canonique est disponible. L'incident ayant motivé cette correction est classé comme **défaillance d'activation du control plane au stade de sortie**.
+
+
+## UPDATE — 7 octobre 2026 — v0.53 / normalisation du paquet probatoire
+
+- suppression des identifiants dupliqués du 1er et du 2 octobre au profit de leurs sous-identifiants canoniques P-45.c et P-45.d ;
+- alignement du contrat d'assemblage sur toutes les pièces effectivement invoquées dans la requête et les mémoires QPC ;
+- retrait de la qualification de « pièce autonome » pour les antécédents purement contextuels qui ne sont pas destinés au paquet de dépôt ;
+- invariant de contrôle : toute référence P-xx restant dans la requête ou dans un mémoire QPC doit avoir une représentation explicite dans le contrat d'assemblage, sauf mention expresse d'un ensemble non produit en bloc.
