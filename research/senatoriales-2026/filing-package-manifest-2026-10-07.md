@@ -49,25 +49,27 @@ L'audit historique `../reviews/audit-double-lecture-requete-v0.23-2026-10-07.md`
 Les pièces actuellement classées **A — production proposée** dans le bordereau sont :
 
 ~~~text
-P-04 P-05 P-06
-P-09 P-10 P-11 P-12 P-13 P-14 P-15 P-16 P-17
-P-19 P-20 P-22
-P-27
+P-04 P-05 P-06 P-07 P-08
+P-09 P-10 P-11 P-12 P-13 P-14 P-15 P-16 P-17 P-18 P-19 P-20 P-22
+P-26 P-27 P-28
 P-29 P-30 P-31 P-32 P-33
-P-39 P-40
-P-44 P-45
+P-39 P-40 P-41
+P-43.a P-43.b
+P-44
+P-45 P-45.a P-45.b P-45.c P-45.d
+P-46
 ~~~
 
 Statut de ce manifeste :
 
 > la présence d'une pièce dans cette liste signifie qu'elle est **candidate prioritaire à la production** ; elle ne certifie pas encore que son fichier final, sa lisibilité, son occultation, sa pagination ou son impression ont été contrôlés.
 
-## 3. Pièces à arbitrer / minimiser
+## 3. Pièces sensibles, composites ou restant à arbitrer
 
-- **P-18** : sensible ; produire seulement si nécessaire à l'argument d'accessibilité, avec minimisation.
-- **P-41** : soutien contextuel ; après vérification des principales URLs et affirmations, **ne pas joindre par défaut** sauf décision expresse de soutenir la branche influence.
-- **P-42** : diligence Défenseur des droits ; réserve/soutien, pas nécessaire au noyau de recevabilité.
-- **P-43** : correspondance privée ; ne produire que les messages strictement nécessaires, sous forme native ou lisible, avec occultation des données non nécessaires.
+- **P-18** : désormais classée **A — production obligatoire / minimisée** dans le bordereau ; produire une version strictement minimisée/occultée de l'attestation nécessaire au grief d'accessibilité.
+- **P-41** : désormais classée **A — production proposée** ; vérifier les URLs et affirmations externes avant matérialisation et conserver clairement sa fonction contextuelle.
+- **P-42** : reste **B — soutien / réserve** ; ne pas joindre par défaut sauf décision expresse.
+- **P-43** : l'ensemble parent reste sensible et sélectif ; **P-43.a** et **P-43.b** sont toutefois classées **A — production obligatoire** et doivent être produites avec occultation des données privées non nécessaires.
 
 ### P-45 — chaîne intégrale de courriels
 
@@ -150,6 +152,13 @@ Release cible :
 - exigence : **Immutable Releases activé** ; publication seulement après validation humaine terminale.
 
 Le `plan` doit échouer tant qu'une pièce requise n'a pas de fichier final matérialisé. Une ligne de bordereau ne vaut jamais, à elle seule, matérialisation de la pièce.
+
+
+La matrice opérationnelle de matérialisation est :
+
+[**Matrice de matérialisation des pièces**](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/filing-materialization-map-2026-10-07.md)
+
+Les 37 entrées PDF du contrat disposent désormais d'une cible locale déterministe sous `.filing-materials/senatoriales-2026/`. À ce stade, leur statut reste `to_materialize` tant que le fichier PDF attendu n'existe pas réellement et n'a pas été contrôlé.
 
 ## 5. Contrôle final obligatoire
 
