@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.25"
+version: "0.26"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -278,6 +278,52 @@ Cette règle vaut dans la requête, les annexes explicatives, le bordereau lorsq
 **Exception de précision juridique :** lorsqu'un texte de droit définit lui-même un seuil sur un autre dénominateur — par exemple la majorité absolue des **suffrages exprimés** — ce dénominateur légal doit rester explicite et ne doit jamais être remplacé par le pourcentage du collège. La présentation doit alors distinguer les deux mesures : **règle légale sur les exprimés**, puis traduction éventuelle en part du collège pour l'intelligibilité comparative.
 
 Motif : dans ce scrutin, l'article L.318 sanctionne le membre du collège électoral qui, sans cause légitime, ne prend pas part au scrutin. La participation observée doit donc être lue avec cette contrainte institutionnelle en tête. Cette règle de présentation ne permet aucune inférence sur le choix individuel d'un grand électeur.
+
+
+### Règle de précédence sémantique — aucun référent ne doit « tomber du ciel »
+
+La requête doit être lisible **strictement dans l'ordre où elle est écrite**.
+
+Un lecteur ne doit jamais avoir besoin :
+- de connaître un élément qui n'a pas encore été introduit ;
+- d'aller chercher plus loin dans le document pour comprendre une phrase présente ;
+- de connaître le Corpus, une conversation, un article de presse ou une analyse externe non encore exposée ;
+- d'inférer à quoi renvoient des expressions comme « ce soutien », « cette base », « cette offre », « ces éléments », « ce contexte », « cette séquence », « cette pièce » ou « ce contraste ».
+
+Invariant :
+
+~~~text
+RÉFÉRENT
+→ introduit avant usage
+
+FAIT
+→ exposé avant conséquence
+
+COMPARATEUR
+→ identifié avant comparaison
+
+CONCEPT
+→ défini avant raccourci
+
+PRONOM / DÉMONSTRATIF
+→ antécédent explicite, proche et non ambigu
+~~~
+
+Une phrase qui dépend d'un élément correctement expliqué seulement plus loin est considérée comme un **défaut de structure**, même si l'information existe ailleurs dans le document.
+
+Test obligatoire pour chaque paragraphe :
+
+> **Un lecteur qui s'arrête exactement ici possède-t-il déjà toutes les informations nécessaires pour comprendre cette phrase comme nous voulons qu'elle soit comprise ?**
+
+Si la réponse est non, il faut soit introduire l'élément plus tôt, soit reformuler, soit déplacer le passage.
+
+Cette règle vaut particulièrement pour :
+- les soutiens politiques ou institutionnels ;
+- les comparateurs électoraux ou médiatiques ;
+- les pièces citées par numéro ;
+- les expressions abrégées (« offre absente », « base institutionnelle », « chaîne de transmission », etc.) ;
+- les références à un événement antérieur dont la chronologie n'a pas encore été racontée ;
+- les raisonnements causaux dont une prémisse est exposée seulement dans une section ultérieure.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -780,3 +826,16 @@ Nouvel invariant de présentation : pour les votes, résultats, blancs, nuls, ex
 Audit de la v0.24 : plusieurs passages restent à corriger lors de la prochaine promotion, notamment les formulations commençant par **442 voix**, **88 voix**, **36 blancs**, **40 nuls**, le résumé P-27 et certains développements sur l'incidence. La note `investigation/contre_cela_naurait_rien_change_2026-10-02.md` et plusieurs passages de la v0.24 respectent déjà la convention.
 
 Exception : lorsqu'un seuil légal est défini sur les suffrages exprimés, conserver le dénominateur juridiquement pertinent et donner en complément, si utile, son équivalent rapporté au collège.
+
+
+## UPDATE — 7 octobre 2026 — v0.26 / précédence sémantique
+
+Ajout d'un invariant de lecture séquentielle : **aucun référent ne doit “tomber du ciel”**.
+
+Audit initial de la requête v0.24 : le passage d'incidence situé avant la chronologie contient plusieurs cas à corriger lors de la prochaine promotion, notamment :
+- « sa base institutionnelle directement identifiable » sans introduction préalable de cette base ;
+- « soutien public visible » sans avoir encore exposé ce soutien ;
+- « ces éléments » alors que les éléments pertinents ne sont pas tous définis au même niveau ;
+- plus largement, plusieurs démonstratifs ou raccourcis (« cette offre », « cette pièce », « ce contexte », « cette séquence ») doivent être contrôlés phrase par phrase.
+
+La correction ne consiste pas seulement à remplacer des pronoms : l'ordre des informations doit être restructuré lorsqu'une prémisse apparaît après la conclusion qu'elle est censée rendre intelligible.
