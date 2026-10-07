@@ -4,7 +4,8 @@ subtitle: "De la contribution C.O.R.S.I.C.A. de mai 2026 à l'examen du texte n�
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-16"
-version: "0.1"
+last_modified_at: "2026-10-07"
+version: "0.2"
 status: "working-note — parliamentary continuity"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -13,6 +14,7 @@ document_role: "source"
 document_kind: "parliamentary-note"
 function: "parliamentary_continuity_update"
 target_scene: "assemblee_to_senat"
+snapshot_as_of: "2026-10-07T07:36:00+02:00"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
 related_documents:
   - title: "Contribution écrite à la commission des Lois — Autonomie de capacité de la Corse"
@@ -27,6 +29,8 @@ related_documents:
     path: "../chronologie_processus_beauvau_corse.md"
   - title: "Atlas du paysage politique et discursif corse — addendum septembre 2026"
     path: "atlas_paysage_politique_corse_addendum_2026-09.md"
+  - title: "Atlas du paysage politique et institutionnel corse — addendum octobre 2026"
+    path: "atlas_paysage_politique_corse_addendum_2026-10.md"
 provenance:
   origin_type: "continuation_of_parliamentary_submission"
   origin_date: "2026-05-28"
@@ -41,6 +45,22 @@ review:
 ---
 
 # Autonomie de la Corse — note de continuité parlementaire
+
+## Mise à jour de situation — 7 octobre 2026, 7 h 36
+
+Depuis la rédaction initiale de cette note, trois changements doivent être intégrés à la continuité parlementaire :
+
+1. les élections sénatoriales du **27 septembre 2026** ont reconduit Paul Toussaint Parigi en Haute-Corse et Jean-Jacques Panunzi en Corse-du-Sud ;
+2. le Sénat a engagé le renouvellement de ses instances : les listes des membres des commissions permanentes ont été publiées le 6 octobre et le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30** ;
+3. la commission des lois annonce l’audition de **Françoise Gatel** sur le projet constitutionnel corse le **7 octobre à 15 h**.
+
+À l’heure de cette photographie, l’identité du rapporteur du texte n’est pas présumée tant qu’elle n’est pas officiellement établie.
+
+La proposition C.O.R.S.I.C.A. a également évolué : la rédaction parlementaire courante est désormais l’[amendement d’effectivité](amendement_effectivite_article_72-5.md), et la [note synthétique](../note_synthetique_autonomie_capacite_corse.md) en donne l’état opérationnel au 7 octobre.
+
+La carte institutionnelle et politique courante est portée par l’[addendum Atlas d’octobre 2026](atlas_paysage_politique_corse_addendum_2026-10.md).
+
+---
 
 ## Objet
 
