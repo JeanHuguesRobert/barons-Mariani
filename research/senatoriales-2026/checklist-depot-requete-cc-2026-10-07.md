@@ -13,12 +13,15 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "requete-conseil-constitutionnel-projet-v0.19.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
   - "pre-filing-operational-plan-2026-10-07.md"
+  - "protocole-constitution-requete-cc-2026-10-07.md"
+  - "investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
+  - "investigation/gmail-audit-requete-2026-09-10-2026-10-07.md"
   - "matrice-canaux-materiels-depot-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
@@ -88,9 +91,15 @@ Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au
 
 ## A. MUST BEFORE FILING
 
+- [ ] **Mode d'emploi de constitution de la requête** — appliquer avant toute promotion de version le protocole `protocole-constitution-requete-cc-2026-10-07.md` : synchroniser requête, chronologie, bordereau, inventaire, Gmail, sources juridiques, contradictions et revue « motifs de rejet ». Aucun de ces objets ne doit diverger silencieusement.
+- [ ] **Annexe chronologique détaillée** — joindre au paquet la chronologie `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`, ordonnée jour par jour puis heure croissante, du premier courriel à la préfecture du **10 septembre à 17:01:56** jusqu'au dépôt effectif ; chaque acte matériel doit pointer vers sa pièce ou sa source et chaque UNKNOWN doit rester explicite.
+- [ ] **Audit Gmail exhaustif avant gel** — exécuter puis fermer le registre `investigation/gmail-audit-requete-2026-09-10-2026-10-07.md`. Toute trace potentiellement pertinente doit recevoir une disposition **INCLUDE / RÉSERVE / EXCLURE + motif / REVIEW** ; tout INCLUDE doit être mappé à une pièce ou à une annexe. Rechercher envoyés et reçus, par domaines/adresses, dates, fils et mots-clefs ; ne pas se limiter aux objets déjà connus.
+- [ ] **Audit Gmail — messages révélés hors cartographie initiale** — arbitrer explicitement au minimum : premier envoi du 10/09 à 17:01:56 et son bounce/DSN ; rectification du 12/09 ; commission de propagande du 16/09 ; proposition Télérecours du 18/09 ; relance préfecture du 21/09 ; demande lieu/proclamation du 26/09 ; première demande PV du 27/09 ; acceptation consultation du 30/09.
+- [ ] **Chronologie ↔ bordereau ↔ requête** — avant gel, contrôler automatiquement/manuellement qu'aucun fait important cité dans la requête n'est absent de la chronologie, qu'aucune pièce importante n'est orpheline de fait, et qu'aucun événement chronologique important n'est dépourvu de source identifiable.
+
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.18 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.18.
+- [~] **Version canonique de dépôt** — la v0.19 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.19.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La matrice `matrice-canaux-materiels-depot-2026-10-07.md` distingue désormais destinataire juridique, modalité matérielle, preuve et risque. L’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
@@ -426,3 +435,13 @@ Qualification : documenter un **silence procédural ciblé** sur le canal de dé
 - adresse officielle du bureau La Poste CORTE vérifiée : **Avenue du Baron Mariani, 20250 Corte** ;
 - ajout du témoignage précis du requérant : photographie de la plaque prise en sortant du bureau après retrait du courrier recommandé de notification du jugement ;
 - ajout du manifeste forensique, de la conservation des originaux/expurgés, du gel des sources Web mutables, de la marge opérationnelle et du FBF des pointeurs de versions courantes.
+
+
+## UPDATE — 7 octobre 2026 — protocole de constitution et annexe chronologique
+
+Deux contrôles deviennent MUST BEFORE FILING :
+
+1. **protocole de constitution** : aucune version ne peut être promue sans synchronisation de la requête, de la chronologie, du bordereau, de l'inventaire, de Gmail et des sources juridiques ;
+2. **chronologie détaillée annexée** : jour par jour, heure croissante, depuis le premier courriel à la préfecture du 10 septembre à 17:01:56 jusqu'au dépôt effectif.
+
+Un registre d'audit Gmail différentiel est créé pour éviter qu'un message matériel reste hors du dossier. Les messages pertinents ne sont pas automatiquement tous produits : chacun doit être classé INCLUDE / RÉSERVE / EXCLURE avec motif / REVIEW.
