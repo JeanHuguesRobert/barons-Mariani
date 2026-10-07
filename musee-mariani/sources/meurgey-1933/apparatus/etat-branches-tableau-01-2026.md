@@ -40,7 +40,7 @@ review:
 | **Louis-Thomas → Essey Mariani** | Essey, capitaine d'infanterie, 1856–1891 | **INCONNUE** | inconnu | inconnu | descendance non encore recherchée |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
 | **Hyacinthe-Louis-Joseph → Albert → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **PROBABLEMENT ÉTEINTE** | probablement non | aucun | Meurgey ne montre pas d'autre descendant ; recherche publique initiale sans continuation probante ; ne pas stabiliser comme extinction certaine avant seconde revue |
-| **Marie-Madeleine Mariani → Filippini / Fantauzzi** | plusieurs ramifications visibles | **INCONNUE / À DÉPOUILLER** | non pour une grande partie | à rechercher | tableau partiellement coupé ; priorité après les branches déjà ouvertes |
+| **Marie-Madeleine Mariani → Filippini / Fantauzzi** | trois enfants documentés avec Michel Filippini ; ligne Ange → Marie-Thérèse Filippini → d’Arlot de Saint-Saud | **SUBSISTANCE AU XXe SIÈCLE ÉTABLIE ; ÉTAT 2026 INCONNU** | non pour les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | mariage Michel Filippini / Madeleine Mariani à Corte en 1843 ; Marie-Thérèse épouse Léonard d’Arlot de Saint-Saud en 1914 |
 
 ## Premier enseignement
 
@@ -111,3 +111,29 @@ Le dossier ne doit pas convertir l'absence de résultat en preuve d'extinction.
 3. dépouillement complet Filippini / Fantauzzi ;
 4. mise à jour de cette matrice après chaque fermeture ;
 5. reproduire la même matrice pour les autres tableaux Meurgey.
+
+## Branche Filippini / Saint-Saud — nouvelle avancée
+
+Les sources publiques permettent désormais de prolonger une partie de la branche visible dans Meurgey :
+
+```text
+Marie-Madeleine Mariani (1826–1888)
+× Michel Louis Filippini (1821–...), mariage à Corte en 1843
+├── Marie-Louise Filippini
+├── Ange Filippini
+│   × [Seignouret]
+│   └── Marie-Thérèse Filippini
+│       × 1914 Léonard d’Arlot de Saint-Saud (1884–1943)
+└── Antoine Filippini
+    × Émilie Fantauzzi
+```
+
+Une source administrative des finances confirme **Michel Louis Filippini**, né en 1821, dans les dossiers de receveurs particuliers. Une publication de la Société historique et archéologique du Périgord confirme que **Léonard d’Arlot de Saint-Saud** épousa **Marie-Thérèse Filippini**.
+
+Sources :
+- https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8090
+- https://www.economie.gouv.fr/files/files/directions_services/saef/docs_joints/rech_en_arch/G%C3%A9n%C3%A9alogie/FR_SAEF_002_1C-0005502_1C-0005588.pdf
+- https://docs.shap.fr/BSHAP/BSHAP_1951-4.pdf
+- https://gw.geneanet.org/pierfit?lang=en&n=filippini&p=marie+therese
+
+À ce stade, la branche est prouvée comme poursuivie au XXe siècle, mais sa survie en 2026 n'est pas encore fermée.
