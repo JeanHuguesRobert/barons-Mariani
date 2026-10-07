@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.27"
+version: "0.28"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -353,6 +353,51 @@ Règles :
 Test de lecture :
 
 > **Un lecteur francophone qui ne connaît pas le jargon technique peut-il comprendre la phrase sans devoir deviner le sens du terme anglais ?**
+
+
+### Règle de séparation méthode / résultat — la requête ne décrit pas son moteur interne
+
+Le **control plane (plan de contrôle)** contient les méthodes, principes, audits, checklists, heuristiques, noms internes et règles de fabrication du dossier.
+
+La **requête** ne doit pas expliquer au Conseil comment elle a été produite lorsque cette explication n'est pas juridiquement ou factuellement nécessaire.
+
+Invariant :
+
+~~~text
+MÉTHODE INTERNE
+→ control plane
+
+RÉSULTAT VÉRIFIABLE
+→ requête
+~~~
+
+Exemples d'éléments à maintenir hors du corps de la requête sauf nécessité démontrée :
+- « Talleyrand appliqué » ;
+- références à FractaCognition ;
+- descriptions de nos protocoles de revue ou de nos audits internes ;
+- explications sur la manière dont le texte évite une erreur ;
+- commentaires tels que « le document ne demande jamais au lecteur de… » ;
+- noms internes de passes, heuristiques ou mécanismes de production.
+
+La requête doit **incarner** ces règles sans les commenter.
+
+Exemple :
+
+~~~text
+À ÉVITER :
+« Talleyrand appliqué : lorsqu'une heure n'est pas établie, le document le dit. »
+
+À ÉCRIRE :
+« L'heure de réception par le serveur de l'État n'est pas établie. »
+~~~
+
+Exception : une méthode peut être exposée si elle constitue elle-même un fait matériel, une méthode d'analyse nécessaire à la vérification d'une pièce, ou si son explicitation est indispensable au contradictoire. Dans ce cas, elle doit être présentée comme méthode probatoire concrète, non comme commentaire sur notre processus de rédaction.
+
+Test obligatoire :
+
+> **Cette phrase apprend-elle quelque chose sur l'affaire, la preuve ou le droit, ou seulement sur la façon dont nous avons construit le document ?**
+
+Si elle ne décrit que la fabrication du document, elle appartient au control plane et doit être retirée de la requête.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -877,3 +922,12 @@ Nouvel invariant linguistique : tout terme anglais conservé pour sa valeur tech
 Exemple canonique : **UNKNOWN (inconnu)**.
 
 Cette règle vaut pour la requête, les annexes, les tableaux, les statuts probatoires, les documents de contrôle et les explications destinées au lecteur. Les termes anglais peuvent rester lorsqu'ils constituent une convention technique utile, mais ils ne doivent jamais être supposés compris sans traduction.
+
+
+## UPDATE — 7 octobre 2026 — v0.28 / méthode interne hors requête
+
+Nouvel invariant : la requête doit montrer le **résultat** du travail de contrôle, pas expliquer son moteur interne.
+
+Correction différée identifiée dans la v0.24 : supprimer notamment **« Talleyrand appliqué : lorsqu'une heure n'est pas établie, le document le dit. Il ne demande jamais au lecteur de l'inférer silencieusement. »** et reformuler uniquement le constat utile.
+
+Audit à effectuer lors de la prochaine promotion : rechercher dans toute la requête les mentions de Talleyrand, FractaCognition, control/data plane, protocoles, audits, règles de rédaction, commentaires métatextuels et autres traces du processus de fabrication ; ne conserver que ce qui est matériellement nécessaire à la compréhension, à la preuve ou au contradictoire.
