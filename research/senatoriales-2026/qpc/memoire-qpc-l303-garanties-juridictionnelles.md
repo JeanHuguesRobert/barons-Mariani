@@ -3,7 +3,7 @@ title: "Mémoire distinct et motivé — QPC article L.303 du code électoral"
 subtitle: "Garanties juridictionnelles de l'exclusion d'une candidature sénatoriale"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "candidate-filing"
 language: fr
 document_role: "legal-brief"
@@ -33,6 +33,8 @@ L'article L.303 du code électoral dispose :
 
 « Si une déclaration ne remplit pas les conditions prévues aux articles précédents, le préfet saisit dans les vingt-quatre heures le tribunal administratif qui statue dans les trois jours. Son jugement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection. »
 
+La QPC vise particulièrement la seconde phrase, qui ferme les autres voies de contestation du jugement avant que le Conseil constitutionnel puisse être saisi du contentieux de l'élection.
+
 Cette disposition est directement applicable au présent litige.
 
 Le Tribunal administratif de Bastia a été saisi sur son fondement et a statué avant le scrutin sur le refus d'enregistrement de la candidature.
@@ -55,7 +57,9 @@ L'article 3 de la Constitution, relatif à la souveraineté et à l'égalité du
 
 Le requérant ne soutient pas qu'il existerait un droit constitutionnel général à un double degré de juridiction.
 
-La question est différente : lorsque la loi organise un contrôle juridictionnel dont le second niveau n'est accessible qu'après l'élection, les garanties offertes demeurent-elles effectives si l'atteinte essentielle — l'exclusion du scrutin — est déjà consommée ?
+Il ne soutient pas davantage que l'article 59 de la Constitution imposerait au Conseil constitutionnel d'exercer lui-même un contrôle préélectoral.
+
+La question est différente : **une disposition législative peut-elle fermer toute contestation utile du jugement d'exclusion pendant la période qui précède encore le scrutin**, alors que l'atteinte essentielle — l'absence de la candidature le jour du vote — n'est pas encore consommée ?
 
 ### V. Architecture législative de l'article L.303
 
@@ -71,6 +75,20 @@ Cette architecture répond à une nécessité légitime de célérité propre au
 La QPC ne conteste pas cette nécessité.
 
 Elle porte sur la contrepartie juridictionnelle exigée lorsque la célérité donne à la première décision un effet matériel qui ne peut être suspendu ou corrigé avant le scrutin.
+
+### La fenêtre temporelle entre le jugement et le scrutin
+
+Le caractère problématique de cette architecture ne résulte pas seulement de la brièveté du délai laissé au Tribunal administratif.
+
+Il résulte aussi du contraste entre cette brièveté et la période qui peut encore séparer son jugement du scrutin.
+
+Dans le présent cas, le Tribunal administratif a statué le **14 septembre 2026** et le scrutin a eu lieu le **27 septembre 2026**. Il subsistait donc **treize jours calendaires** entre la décision juridictionnelle qui excluait la candidature et le moment où cette exclusion devenait électoralement irréversible.
+
+Cette durée est plus de quatre fois supérieure au délai maximal de trois jours que l'article L.303 impose au Tribunal administratif pour statuer.
+
+Le requérant ne soutient pas que la Constitution impose que le Conseil constitutionnel lui-même soit nécessairement saisi pendant cet intervalle. Il soutient une question plus générale : **alors que du temps existe encore avant le scrutin, le législateur peut-il fermer toute voie permettant un contrôle utile de la décision d'exclusion jusqu'à ce que l'élection ait eu lieu ?**
+
+La célérité électorale explique que les recours soient rapides. Elle explique moins aisément qu'une fois une décision d'exclusion rendue très rapidement, aucune voie de contrôle ne puisse être exercée pendant une fenêtre temporelle où l'atteinte est encore évitable.
 
 ### VI. Effet irréversible de l'exclusion
 
@@ -116,7 +134,7 @@ D'un côté, le calendrier électoral exige une décision extrêmement rapide.
 
 De l'autre, une erreur portant sur les conditions de candidature a un effet particulièrement grave : elle supprime une offre électorale avant le vote.
 
-L'article L.303 ne prévoit aucun mécanisme permettant au Conseil constitutionnel d'exercer un contrôle avant le scrutin, même lorsque le jugement du Tribunal administratif a pour effet d'exclure une candidature.
+L'article L.303 ne prévoit aucune voie permettant de soumettre le jugement d'exclusion à un contrôle utile avant le scrutin. Sa seconde phrase réserve toute contestation au Conseil constitutionnel « saisi de l'élection », donc dans le cadre du contentieux électoral qui devient effectivement disponible une fois l'élection intervenue.
 
 La QPC ne demande pas au Conseil de constitutionnaliser un appel ordinaire.
 
@@ -124,25 +142,33 @@ Elle lui demande de déterminer si la combinaison retenue par la loi — jugemen
 
 ### X. Meilleur contre-argument
 
-Le meilleur contre-argument est que l'article L.303 assure déjà un contrôle juridictionnel avant le scrutin : le Tribunal administratif statue dans les trois jours.
+Le meilleur contre-argument est double.
 
-Il peut également être soutenu que le Conseil constitutionnel dispose, après le scrutin, de pouvoirs suffisants pour annuler l'élection et permettre de nouvelles opérations électorales.
+D'abord, l'article L.303 assure déjà un contrôle juridictionnel avant le scrutin : le Tribunal administratif statue dans les trois jours. Aucun principe constitutionnel ne garantit, par lui-même, un double degré de juridiction.
+
+Ensuite, le Conseil constitutionnel dispose après le scrutin de pouvoirs importants, notamment l'annulation de l'élection, qui peut conduire à de nouvelles opérations électorales.
 
 Ces arguments sont sérieux.
 
-Ils constituent précisément le problème constitutionnel à trancher : le contrôle d'un seul juge avant l'élection, rendu dans un délai extrêmement bref et non contestable avant le vote, puis l'annulation éventuelle après consommation de l'exclusion, suffisent-ils à garantir un recours effectif lorsque l'atteinte concerne l'accès même au scrutin ?
+Un troisième contre-argument doit également être anticipé : l'accès au Conseil constitutionnel après l'élection résulte de l'architecture constitutionnelle et organique du contentieux électoral, notamment de l'article 59 de la Constitution et de l'article 33 de l'ordonnance du 7 novembre 1958. L'article 33 a d'ailleurs été modifié par une loi organique contrôlée a priori en 2011.
+
+La présente QPC n'a donc pas pour objet de demander au Conseil de déclarer qu'il aurait dû être saisi avant le scrutin en méconnaissance de cette architecture. Elle vise plus précisément **la fermeture, par la seconde phrase de L.303, de toute autre voie de contestation utile pendant la période préélectorale**.
+
+Le problème constitutionnel devient alors : un premier contrôle rendu en trois jours, suivi d'une période pouvant encore durer plusieurs jours — treize dans le présent cas — pendant laquelle aucune contestation utile n'est ouverte, puis d'un recours post-électoral après consommation de l'exclusion, constitue-t-il un ensemble de garanties suffisant au regard de l'article 16 de la Déclaration de 1789 ?
 
 ### XI. Question posée
 
-> **Les dispositions de l'article L.303 du code électoral portent-elles atteinte au droit à un recours juridictionnel effectif garanti par l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789, en articulation avec le droit d'éligibilité garanti par l'article 6 de cette Déclaration et les exigences résultant de l'article 3 de la Constitution, en ce qu'elles prévoient qu'un tribunal administratif statue dans les trois jours sur les conditions d'enregistrement d'une candidature sénatoriale et que son jugement ne peut être contesté devant le Conseil constitutionnel qu'à l'occasion du contentieux de l'élection, alors que l'exclusion de la candidature produit avant ce contrôle un effet électoral irréversible ?**
+> **Les dispositions de la seconde phrase de l'article L.303 du code électoral, en ce qu'elles prévoient que le jugement du tribunal administratif relatif au refus d'enregistrement d'une candidature sénatoriale ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection et ferment ainsi toute voie de contestation utile pendant la période qui sépare ce jugement du scrutin, portent-elles atteinte au droit à un recours juridictionnel effectif garanti par l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789, en articulation avec le droit d'éligibilité garanti par l'article 6 de cette Déclaration et les exigences résultant de l'article 3 de la Constitution, lorsque l'exclusion de la candidature devient irréversible le jour du scrutin ?**
 
 ### XII. Situation concrète révélant la question
 
 Le présent dossier montre la portée pratique de la disposition.
 
-Le Tribunal administratif de Bastia a statué avant le scrutin sur une candidature dont le requérant soutenait que l'identité, le consentement et plusieurs possibilités de régularisation ou d'adaptation étaient documentés.
+Le Tribunal administratif de Bastia a statué le **14 septembre 2026** sur une candidature dont le requérant soutenait que l'identité, le consentement et plusieurs possibilités de régularisation ou d'adaptation étaient documentés.
 
-La contestation de ce jugement devant le Conseil constitutionnel ne devient possible qu'après le scrutin.
+Le scrutin a eu lieu le **27 septembre 2026**. Pendant les **treize jours** séparant le jugement du scrutin, la candidature demeurait encore matériellement susceptible de participer au vote si une décision juridictionnelle utile avait pu intervenir. Pourtant, L.303 ne permettait pas de contester le jugement par une autre voie avant l'élection.
+
+La contestation devant le Conseil constitutionnel n'est devenue utilement disponible qu'avec le contentieux de l'élection, après le scrutin.
 
 Ces faits n'épuisent pas la portée de la question. Ils montrent que le mécanisme légal peut produire exactement l'effet auquel la QPC s'intéresse : une exclusion définitive de la compétition électorale avant que le Conseil constitutionnel puisse contrôler la décision qui l'a provoquée.
 
