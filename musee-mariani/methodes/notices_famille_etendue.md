@@ -8,7 +8,7 @@ ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
 last_modified_at: '2026-10-07'
-version: '0.5'
+version: '0.6'
 status: working paper — public research roadmap
 language: fr
 license: CC BY-SA 4.0
@@ -124,6 +124,30 @@ Ces catégories sont analytiques et révisables. Elles ne constituent ni un juge
 
 Pour une personne vivante, ne publier aucune adresse privée ni localisation fine obtenue par recoupement indirect. La localisation publique doit rester au niveau minimal nécessaire à la question de recherche.
 
+## 1 ter. Type de lien généalogique ou familial
+
+Le registre Meurgey 1933 a montré qu'une personne présentée comme « représentant » d'une famille n'est pas nécessairement un descendant biologique.
+
+Tout nœud utilisé dans une analyse de survie familiale doit donc porter un type de relation explicite :
+
+```yaml
+relationship_class:
+  - direct_descendant
+  - female_line_descendant
+  - spouse
+  - collateral_by_marriage
+  - allied_family
+  - unknown
+```
+
+La classification doit répondre à deux questions distinctes :
+
+1. cette personne descend-elle généalogiquement de l'ancêtre étudié ?
+2. cette personne appartient-elle malgré tout au réseau familial/alliance pertinent pour l'histoire des capacités, patrimoines ou migrations ?
+
+Règle : **ne jamais convertir une proximité familiale ou une formule de source comme « représenté par » en descendance sans chaîne de filiation**.
+
+Le cas Fantauzzi constitue le test de référence : Antoine et Jules Fantauzzi sont frères de Sophie Fantauzzi épouse Albert Mariani ; ils appartiennent au réseau d'alliance mais ne sont pas, par cette chaîne, descendants Mariani.
 ## 2. Premier cas pilote : Albert Mariani et la génération Hyacinthe
 
 Premier cas à traiter : **Albert Antoine Joseph Louis Mariani (1872–1963)**, avec remontée à son père **Hyacinthe Joseph Louis Mariani (1827–1894)**.
