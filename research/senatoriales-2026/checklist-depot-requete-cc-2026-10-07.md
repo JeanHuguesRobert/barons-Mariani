@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.37"
+version: "0.38"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -695,6 +695,30 @@ Le test est :
 
 Si la réponse est non, le passé ne doit pas empêcher l'amélioration présente.
 
+
+### Règle d'étanchéité entre fabrication et texte juridictionnel
+
+La requête ne doit pas exposer son histoire de fabrication.
+
+Les numéros de version internes, noms de passes, mentions de brouillons antérieurs, indications de migration, commentaires de consolidation et autres traces du processus éditorial appartiennent au plan de contrôle et à l'historique Git, pas au texte soumis au juge.
+
+À proscrire dans le corps de la requête :
+- « v0.5 », « v0.26 » ou toute autre référence à une version interne ;
+- « dans la version précédente » ;
+- « ce passage a été corrigé » ;
+- « la présente version hiérarchise » ;
+- toute phrase qui oblige le lecteur à connaître l'histoire de rédaction pour comprendre le texte.
+
+La requête doit toujours présenter directement l'état actuel du raisonnement.
+
+Exception : une version d'une pièce externe ou d'un document source peut être mentionnée lorsqu'elle constitue elle-même un fait utile, à condition d'expliquer clairement ce dont il s'agit.
+
+Test obligatoire :
+
+> Un lecteur qui ne connaît ni GitHub ni l'historique de rédaction comprend-il la phrase sans information extérieure ?
+
+Si la réponse est non, la trace de fabrication doit être retirée du corps.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1304,3 +1328,8 @@ Les numéros de pièces restent stables, mais leurs libellés peuvent et doivent
 ## UPDATE — 7 octobre 2026 — v0.37 / principe général d'agilité
 
 Le plan de contrôle explicite une règle plus générale : aucune convention passée n'est intangible par inertie. Lorsqu'un changement améliore réellement le dossier, il doit pouvoir être fait et propagé, même si cela représente du travail. L'historique utile et les identifiants stables sont préservés afin que l'agilité ne devienne jamais une réécriture silencieuse du passé.
+
+
+## UPDATE — 7 octobre 2026 — v0.38 / suppression des traces de fabrication
+
+Les références aux versions internes de la requête et aux étapes de rédaction sont interdites dans le corps juridictionnel. Le texte expose directement l'état courant du raisonnement ; l'historique de fabrication reste dans le plan de contrôle et dans Git.
