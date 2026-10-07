@@ -4,7 +4,7 @@ subtitle: "Projet autonome de liste des pièces destinées à soutenir la requê
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.15"
+version: "0.16"
 status: "active — pre-filing piece schedule — not filed"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -76,7 +76,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-13** | 11/09 | Vidéo commune | Identité, volonté, consentement contemporains | **A — production proposée** | Fichier vidéo / empreinte à fixer |
 | **P-14** | 11/09 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | Motivation préfectorale et inventaire initial 1–16 | **A — production proposée** | PDF originaux reçus via France Transfert |
 | **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — production proposée** | Courriel source |
-| **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — production proposée** | dossier-ta-bastia-2026-09-14.md |
+| **P-16** | 14/09 | Mémoire en défense devant le Tribunal administratif | Observations écrites du candidat ; le jugement confirme des observations écrites et orales, mais l'identité binaire de la reproduction candidate avec l'exemplaire remis n'est pas indépendamment établie | **A — production avec réserve de provenance binaire** | `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` — 55 546 octets — SHA-256 `d9e2b1672df34526c884b6ef10af01e46ef9d4ee21c925eeb6811d3d4ddcb60a` |
 | **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
 | **P-18** | 14/09 | Attestation CAF relative à Mme Laurence Vernerey | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle ; production strictement minimisée en raison des données personnelles | **A — production obligatoire / minimisée** | Document privé ; original conservé séparément |
 | **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — production proposée** | Courriel + jugement + P-30 |
