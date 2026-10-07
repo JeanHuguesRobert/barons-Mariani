@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.53"
+version: "0.54"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1085,6 +1085,24 @@ Résultats structurants :
 - **P-46 — registre exhaustif Gmail** : 46 sources identifiées, recueil lisible encore à assembler.
 
 Règle de gel : chaque pièce annoncée comme produite doit être soit **JOINTE**, soit **NON JOINTE PAR ARBITRAGE EXPLICITE** avec correction simultanée du bordereau et de la requête.
+
+
+### P-18 verrouillée matériellement — v0.54
+
+**P-18 — attestation CAF relative à Mme Laurence Vernerey** :
+- fichier primaire retrouvé : `1789382961469-cnaf.pdf` ;
+- taille : 94 775 octets ;
+- SHA-256 : `308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2` ;
+- source amont : message « Papier demandé » du 14 septembre ;
+- production juridictionnelle : même PDF joint à **P-19 — note en délibéré du 14 septembre** adressée au greffe à 15 h 48 min 32 s.
+
+Conséquence : P-18 n'est plus un verrou de localisation ; il reste à produire une copie minimisée sans altérer l'original natif.
+
+**P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** :
+- aucun PDF du jugement retrouvé comme pièce jointe Gmail ;
+- greffe : décision rendue le 14 septembre ;
+- greffe : pli contenant le jugement en attente à La Poste depuis le 17 septembre ;
+- priorité : isoler l'expédition papier retirée et assembler P-20.a.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
