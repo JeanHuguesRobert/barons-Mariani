@@ -4,7 +4,7 @@ description: "Index méthodologique et file d’exploration des acteurs publics 
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-06'
-last_modified_at: '2026-10-06'
+last_modified_at: '2026-10-07'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
@@ -29,6 +29,31 @@ review:
 ---
 
 # OSINT — acteurs du processus d’autonomie de la Corse
+
+## État de la cible parlementaire — 7 octobre 2026, 7 h 36
+
+Le scrutin du 27 septembre a reconduit **Paul Toussaint Parigi** en Haute-Corse et **Jean-Jacques Panunzi** en Corse-du-Sud.
+
+Le renouvellement des instances du Sénat est en cours. À l’heure de cette photographie :
+
+- les listes des commissions permanentes ont été publiées le 6 octobre ;
+- le bureau de la commission des lois doit être constitué à 9 h 30 ;
+- l’audition de Françoise Gatel sur le projet corse est annoncée à 15 h ;
+- l’identité du rapporteur du texte n° 782 reste à établir officiellement dans le Corpus.
+
+La priorité OSINT immédiate est donc la suivante :
+
+```text
+bureau de la commission
+→ rapporteur du texte
+→ collaborateurs / canaux
+→ positions et amendements
+```
+
+La carte d’ensemble courante est l’[Atlas — addendum octobre 2026](../atlas_paysage_politique_corse_addendum_2026-10.md).
+
+---
+
 
 ## Objet
 
