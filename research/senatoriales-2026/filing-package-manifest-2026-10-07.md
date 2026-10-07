@@ -9,7 +9,7 @@ document_kind: "filing-package-manifest"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.22.md"
+  - "requete-conseil-constitutionnel-projet-v0.23.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 ---
 
@@ -19,7 +19,7 @@ related:
 
 | Objet | Version courante | État |
 |---|---|---|
-| Requête | v0.22 | texte source prêt pour gel ; non déposé |
+| Requête | v0.23 | candidate de dépôt ; non déposée ; gel matériel encore requis |
 | Bordereau | v0.10 | cohérent P-01 à P-45 ; non déposé |
 | Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
 | Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
