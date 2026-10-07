@@ -2,7 +2,7 @@
 title: "De l'empêchement à la capacité"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-28"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-10-07"
 status: draft
 language: fr
 license: CC BY-SA 4.0
@@ -26,6 +26,7 @@ provenance:
     - projects/suicide-corse/manuscript/05-machine-a-rendre-capable-de-vivre.md
     - projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md
     - JeanHuguesRobert/cogentia/patterns/revealer-stabilizer/PATTERN.md
+    - JeanHuguesRobert/cogentia/research/effectivity_interaction_matrix.md
     - projects/suicide-corse/projections/n3-editorial-architecture.md
 review:
   status: unreviewed
@@ -173,6 +174,31 @@ C'est aussi ce que les Stabilisateurs doivent réduire sans l'enfouir.
 L'effectivité n'est donc pas l'efficacité au sens de la meilleure performance possible. Elle pose une question plus élémentaire :
 
 > **la capacité annoncée existe-t-elle réellement pour ceux qui sont censés pouvoir l'exercer ?**
+
+Les travaux ultérieurs du Corpus permettent de préciser ce test. **Rendre capable ne consiste pas seulement à ouvrir une possibilité.** Pour qu'une capacité soit réellement effective, il faut encore examiner au moins cinq dimensions :
+
+~~~text
+accessible
+→ la personne peut réellement atteindre la possibilité
+
+gouvernable
+→ elle peut comprendre les règles, contrôles et dépendances qui conditionnent son usage
+
+utilisable à temps
+→ la capacité arrive avant que son utilité ne disparaisse
+
+observable
+→ ses effets réels peuvent être constatés plutôt que seulement proclamés
+
+corrigible
+→ un écart entre finalité et fonctionnement peut encore être révélé et réparé
+~~~
+
+Une capacité juridiquement ouverte mais inaccessible n'est pas effective. Une capacité accessible mais inutilisable avant l'échéance peut ne plus l'être davantage. Une capacité qui fonctionne sans que ses effets puissent être observés reste difficile à évaluer. Et une capacité non corrigible peut, en se rigidifiant, devenir à son tour une Machine à Empêcher.
+
+On peut donc condenser :
+
+> **Rendre capable, c'est rendre une possibilité accessible, gouvernable, utilisable à temps, observable dans ses effets et corrigible lorsqu'elle s'écarte de sa finalité.**
 
 ## Ouvrir ne suffit pas : stabiliser
 
