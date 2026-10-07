@@ -50,3 +50,30 @@ Les numéros 48–50 ci-dessus sont des **pages techniques de l'export PDF du Go
 
 - Tableau I : `apparatus/continuation-louis-thomas-madeleine-1933-2026.md` ;
 - Tableau II : `apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
+
+## Contrôle des cinq tableaux dépliants
+
+Les catalogues de vente/bibliographiques consultés décrivent l'édition 1933 comme comportant **cinq tableaux généalogiques dépliants**.
+
+Dans le Google Doc `Pièces Mariani DRAC` actuellement retrouvé :
+
+- Tableau I — Les Mariani : présent ;
+- Tableau II — Arrighi de Casanova : présent ;
+- trois autres tableaux : **non retrouvés dans l'export PDF actuel**.
+
+Un second envoi DRAC du 11 janvier 2022 (`drac-11-01-2022.pdf`, 9 pages) a été contrôlé : il contient des pièces de propriété/notariat relatives à Minesteggio et **aucun tableau Meurgey**.
+
+Sources bibliographiques de contrôle :
+- catalogue Tessier/Sarrou, 2016 : cinq tableaux généalogiques repliés ;
+- catalogue de vente Bibliorare / Drouot : cinq tableaux dépliants ;
+- autres catalogues de ventes signalant cinq tableaux.
+
+Le catalogue de 2019 signale que l'ouvrage traite notamment les familles **Adhémar, Arrighi de Casanova de Padoue, Boerio, Caraccioli, Limburg-Stirum, Piscatory de Vaufreland**. Cette liste **ne permet pas à elle seule d'identifier les trois titres de tableaux manquants** ; aucune équivalence ne doit être inventée.
+
+### Prochaine récupération
+
+Priorité : retrouver les trois dépliants manquants dans :
+
+1. l'album Google Photos transmis le 30 avril 2025, si son contenu diffère du Google Doc ;
+2. une autre copie/scanner du livre ;
+3. les archives personnelles ou institutionnelles où une copie de l'ouvrage aurait été photographiée.
