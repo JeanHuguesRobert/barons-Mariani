@@ -9,6 +9,7 @@ document_kind: "filing-package-manifest"
 visibility: "public"
 lifecycle_state: "active"
 related:
+  - "filing-package-2026-10-07.yml"
   - "requete-conseil-constitutionnel-projet-v0.23.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 ---
@@ -117,6 +118,38 @@ Le paquet numérique gelé doit permettre de reconstruire exactement le data pla
 - AR/AE/DSN reçus.
 
 Le paquet papier et le paquet électronique doivent correspondre au même état logique de la requête.
+
+
+
+## 4 ter. Contrat machine d'assemblage et Release immuable
+
+Le contrat machine courant est :
+
+`filing-package-2026-10-07.yml`
+
+Il est interprété par l'outil générique Ubikia `filing-package`. Le contrat versionne **l'ordre, les sources, les attentes de matérialisation et l'identité de l'artefact final** ; les PDF intermédiaires restent hors Git.
+
+Invariant de production :
+
+~~~text
+sources versionnées + contrat versionné
+→ builds locaux jetables
+→ aucun PDF candidat dans Git
+→ validation d'un seul candidat
+→ GitHub Release en brouillon
+→ upload + retéléchargement + égalité SHA-256
+→ publication séparée
+→ Release immuable
+~~~
+
+Release cible :
+
+- dépôt : `JeanHuguesRobert/barons-Mariani` ;
+- tag : `senatoriales-2026-cc-depot-2026-10-07` ;
+- asset : `requete-conseil-constitutionnel-haute-corse-2026.pdf` ;
+- exigence : **Immutable Releases activé** ; publication seulement après validation humaine terminale.
+
+Le `plan` doit échouer tant qu'une pièce requise n'a pas de fichier final matérialisé. Une ligne de bordereau ne vaut jamais, à elle seule, matérialisation de la pièce.
 
 ## 5. Contrôle final obligatoire
 
