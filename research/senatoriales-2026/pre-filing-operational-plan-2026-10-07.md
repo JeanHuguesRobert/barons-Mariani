@@ -9,7 +9,7 @@ document_kind: "filing-plan"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "requete-conseil-constitutionnel-projet-v0.23.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "checklist-depot-requete-cc-2026-10-07.md"
   - "matrice-canaux-materiels-depot-2026-10-07.md"
@@ -90,7 +90,7 @@ Le paquet de dépôt doit être distingué du Corpus vivant.
 
 À figer :
 
-1. requête v0.18 ou version explicitement promue comme version de dépôt ;
+1. requête v0.23 ou version ultérieure explicitement promue comme version de dépôt ;
 2. bordereau v0.10 ou version explicitement promue comme bordereau de dépôt ;
 3. seules les pièces effectivement annexées ;
 4. pagination / noms de fichiers / ordre matériel ;
