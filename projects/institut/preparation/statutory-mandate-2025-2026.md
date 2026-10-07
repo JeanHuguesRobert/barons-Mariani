@@ -5,8 +5,8 @@ description: "Registre consolidé du mandat de refonte statutaire et de son éta
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-05"
-version: "0.4"
+last_modified_at: "2026-10-07"
+version: "0.5"
 status: "working-paper — preparatory"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -158,7 +158,7 @@ Chronologie primaire :
 → publication au Journal officiel
 ~~~
 
-Le texte intégral est transcrit dans `projects/institut/preparation/statuts-1995-transcription.md`.
+Le texte intégral est transcrit dans `projects/institut/sources/statuts-corsica-1995-transcription.md`.
 
 ### 9.1 Projet de refonte 2018
 
