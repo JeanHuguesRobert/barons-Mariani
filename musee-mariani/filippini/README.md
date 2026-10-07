@@ -1,0 +1,115 @@
+---
+title: "Dossier Filippini"
+author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-07"
+last_modified_at: "2026-10-07"
+version: "0.1"
+license: "CC BY-SA 4.0"
+status: "working-paper"
+document_role: "index"
+document_kind: "readme"
+visibility: "public"
+lifecycle_state: "working"
+language: "fr"
+update_policy: "UP-DEFAULT-REVIEWED"
+provenance:
+  origin_type: "meurgey-continuation"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "Tableau I Meurgey + GitHub issue #97"
+  origin_date: "2026-10-07"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+---
+
+# Dossier Filippini
+
+Parent : [Musée Mariani — préfiguration](../README.md).
+
+Sous-corpus consacré à la descendance **Madeleine Mariani × Michel Louis Filippini**, branche directe du Tableau I de Meurgey.
+
+## Pourquoi cette branche est prioritaire
+
+Contrairement aux Fantauzzi Antoine/Jules récemment reclassés comme collatéraux par alliance, les enfants de **Madeleine Mariani et Michel Filippini** constituent bien une descendance Mariani.
+
+Le couple est documenté à Corte en 1843. Les sources secondaires et le Tableau I permettent de distinguer trois sous-branches :
+
+```text
+Madeleine Mariani (1826–1888)
+× Michel Louis Filippini (1821–...)
+├── Marie-Louise Filippini (1846–1867)
+│   × Jules Alexandre Henri de Montbrun
+│   → sans postérité selon une source généalogique secondaire
+├── Ange Antoine Dominique Filippini (1849–...)
+│   × Marie-Jeanne Seignouret
+│   └── Marie-Thérèse Filippini
+│       × Léonard d'Arlot de Saint-Saud
+│       → postérité non trouvée / UNKNOWN
+└── Antoine-Dominique-Thomas-Louis Filippini (1852–1888)
+    × Marie-Émilie Fantauzzi
+    → 1 enfant selon plusieurs index Geneanet ;
+      aucun enfant enregistré dans Villa Flore : DISCORDANT
+```
+
+## Sous-branche Marie-Louise → Montbrun
+
+**Marie-Louise Filippini**, née le 20 septembre 1846, meurt le 12 juillet 1867, quelques semaines après son mariage avec **Jules Alexandre Henri de Montbrun (1839–1910)**.
+
+Une fiche Geneanet (Peter781, sources secondaires Pierfit/Roglo) porte explicitement la note **« sans postérité »**.
+
+Statut : **PROBABLEMENT ÉTEINTE / secondaire explicite**, à fermer si possible par acte ou succession.
+
+Source : https://gw.geneanet.org/peter781?lang=en&n=filippini&p=marie+louise
+
+## Sous-branche Ange → Saint-Saud
+
+**Ange Antoine Dominique Filippini**, né en 1849 à Corte, épouse Marie-Jeanne Seignouret en 1883.
+
+Les index Geneanet lui attribuent **deux enfants** dans au moins un arbre, tandis que Villa Flore n'en affiche qu'une : **Marie-Thérèse Filippini**, épouse de **Léonard d'Arlot de Saint-Saud**.
+
+Une notice de la Société historique et archéologique du Périgord confirme le mariage Léonard d'Arlot de Saint-Saud × Marie-Thérèse Filippini.
+
+Aucune source consultée ne documente encore un enfant du couple Saint-Saud.
+
+Statut : **SUBSISTANCE AU XXe SIÈCLE ÉTABLIE ; POSTÉRITÉ 2026 UNKNOWN**.
+
+Sources :
+- https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8212
+- https://docs.shap.fr/BSHAP/BSHAP_1951-4.pdf
+
+## Sous-branche Antoine → Émilie Fantauzzi
+
+**Antoine-Dominique-Thomas-Louis Filippini**, né le 30 mars 1852 à Corte, mort le 30 octobre 1888 à Paris, épouse **Marie-Émilie Fantauzzi** le 4 octobre 1883.
+
+Plusieurs index Geneanet distincts attribuent au couple **un enfant**, mais l'identité de cet enfant n'est pas exposée dans les résultats publics consultés. Villa Flore indique pour sa part qu'aucun enfant n'est enregistré.
+
+Cette différence doit être traitée comme une discordance documentaire, pas comme une extinction.
+
+Statut : **DISCORDANT — 0/1 enfant ; identité à retrouver**.
+
+Source de contrôle : https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique
+
+## Point remarquable : double ascendance Mariani possible
+
+Villa Flore indique Michel Louis Filippini comme fils de **Michelangelo Filippini** et de **Maria Scolastica Mariani (1787–...)**. Si ce maillon est confirmé par actes, les enfants de Michel et Madeleine auraient une ascendance Mariani par leurs deux parents.
+
+Ce point reste à vérifier avant toute généralisation.
+
+## État global de la branche
+
+En 2026, il serait prématuré de déclarer la branche Madeleine Mariani × Michel Filippini éteinte :
+
+- Montbrun : sans postérité selon source secondaire ;
+- Saint-Saud : postérité non trouvée ;
+- Antoine/Émilie : un enfant signalé par plusieurs index, identité inconnue.
+
+Qualification globale : **SURVIE 2026 UNKNOWN — extinction non démontrée**.
+
+## Prochaines actions
+
+1. identifier l'enfant attribué à Antoine Filippini × Marie-Émilie Fantauzzi ;
+2. retrouver le second enfant attribué à Ange Filippini × Marie-Jeanne Seignouret ;
+3. rechercher une succession/nécrologie de Marie-Thérèse Filippini épouse Saint-Saud ;
+4. fermer la filiation de Michel Louis Filippini vers Maria Scolastica Mariani ;
+5. seulement ensuite statuer sur l'extinction ou la subsistance en 2026.
