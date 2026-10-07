@@ -86,15 +86,15 @@ Statut au moment de cette photographie :
 
 ```text
 membres publiés
-→ bureau : PENDING
-→ rapporteur du texte n° 782 : UNKNOWN
+→ bureau : PENDING (en attente)
+→ rapporteur du texte n° 782 : UNKNOWN (inconnu)
 ```
 
 ### Projet constitutionnel
 
 La commission des lois annonce l’audition de Françoise Gatel le **7 octobre à 15 h** sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République.
 
-L’audition n’ayant pas encore eu lieu à l’heure de la présente mise à jour, ses contenus et effets restent **PENDING**.
+L’audition n’ayant pas encore eu lieu à l’heure de la présente mise à jour, ses contenus et effets restent **PENDING (en attente)**.
 
 ### Continuation documentaire
 
