@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -178,6 +178,36 @@ Ce cas ne prouve pas encore un mécanisme territorial corse général. Il démon
 Dossier détaillé :
 - `musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
 
+## 6 ter. Deuxième résultat — Arrighi de Casanova
+
+Le **Tableau II — Arrighi de Casanova** fournit un cas complémentaire au Tableau I.
+
+Trois phénomènes doivent être séparés :
+
+```text
+extinction du titre ducal en 1888
+≠
+extinction de la descendance du dernier duc
+≠
+extinction de la famille Arrighi de Casanova
+```
+
+La branche ducale de Padoue s'éteint en 1888 avec Ernest-Louis-Henri-Hyacinthe Arrighi de Casanova. Mais sa fille **Marie-Adèle-Henriette** épouse le duc de Caraman et possède une postérité nombreuse. Par ailleurs, la famille Arrighi de Casanova demeure décrite comme subsistante par une branche cadette.
+
+Un fait patrimonial particulièrement pertinent est documenté officiellement : la **Maison Arrighi de Casanova à Corte**, inscrite Monument historique, est aujourd'hui indiquée par le ministère de la Culture comme **propriété de la commune**.
+
+Ce cas permet de distinguer :
+
+```text
+trace patrimoniale conservée en Corse
++ famille subsistante
++ bien historique toujours existant
+≠ propriété familiale maintenue
+```
+
+Le passage de cette maison dans le patrimoine communal doit être étudié séparément ; sa cause et ses modalités ne sont pas inférées à partir du seul statut actuel.
+
+Dossier : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
