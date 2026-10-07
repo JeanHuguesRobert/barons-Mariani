@@ -174,11 +174,12 @@ Cette bifurcation poursuit l’exploration vers la traçabilité, la prévention
 
 ## Lecture courte
 
-Pour une première exploration, trois documents suffisent :
+Pour une première exploration, quatre documents suffisent :
 
-1. [**Autonomia**](../autonomia.md) — la doctrine ;
+1. [**Note synthétique — état au 7 octobre 2026**](../note_synthetique_autonomie_capacite_corse.md) — la porte d’entrée parlementaire courante ;
+2. [**Autonomia**](../autonomia.md) — la doctrine ;
 2. [**Atlas — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) — l’état actuel de la carte ;
-3. [**Observatoire public**](../autonomia/observatoire_processus_autonomie_corse.md) — le suivi du processus réel.
+4. [**Observatoire public**](../autonomia/observatoire_processus_autonomie_corse.md) — le suivi du processus réel.
 
 Pour comprendre **comment la doctrine produit des propositions**, ajouter la [Grammaire générative](../autonomia/grammaire_autonomie_de_capacite.md).
 
