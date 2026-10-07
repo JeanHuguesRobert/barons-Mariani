@@ -73,7 +73,7 @@ Le **bordereau final** ne devra conserver que les pièces effectivement annexée
 | **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
 | **P-18** | 14/09 | Attestation CAF | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle | **D — sensible / production si nécessaire** | Document privé |
 | **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — production proposée** | Courriel + jugement + P-30 |
-| **P-20** | 14/09 | Jugement TA Bastia | Décision attaquable via L.303 devant le CC saisi de l'élection | **A — production proposée** | Jugement |
+| **P-20** | 14/09 puis notification postale | Jugement TA Bastia + chaîne matérielle de notification | Décision attaquable via L.303 ; documente aussi la notification par LRAR : avis de passage, pli retiré à La Poste CORTE (Avenue du Baron Mariani), page de notification, trois pages du jugement, photographie contextuelle prise à la sortie du bureau selon le requérant | **A — production proposée** | Sous-pièces stables P-20.a… ; relever identifiants postaux, dates/cachets, fichiers, tailles, SHA-256 et provenance |
 | **P-21** | 15–25/09 | Demandes documentaires post-jugement | Diligences pour clarifier le dossier | **B — soutien / sélection à matérialiser** | Ensemble de courriels |
 | **P-22** | 25/09 16:59:13 | Demande à la préfecture / conservation des traces | Logs, demandes d'originaux, transmissions au TA | **A — production proposée** | Courriel source |
 | **P-23** | 26/09 | Amendement d'effectivité art. 72-5 | Contexte doctrinal, non norme positive applicable au litige | **C — contexte / ne pas joindre par défaut** | Document public |
@@ -189,3 +189,11 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 - impose la production **intégrale** des quatre courriels dans le dossier remis ;
 - corrige le titre résiduel v0.8, la duplication P-24 et la numérotation de la liste de priorités ;
 - maintient la borne adverse : la préfecture a répondu sur certains objets (notamment P-28), de sorte que le fait documenté est l'absence de réponse substantielle retrouvée sur la modalité de dépôt, non une absence générale de réponse de l'État.
+
+
+## UPDATE v0.10 — P-20 / chaîne postale
+
+- explicite la chaîne matérielle de notification du jugement par lettre recommandée avec AR ;
+- rattache le bureau La Poste CORTE à son adresse officielle, Avenue du Baron Mariani, 20250 Corte ;
+- distingue la vérification externe de l'adresse du témoignage du requérant selon lequel la photographie de la plaque a été prise en sortant du bureau après retrait du pli ;
+- impose la sous-numérotation et le contrôle des identifiants postaux, dates/cachets et SHA-256.
