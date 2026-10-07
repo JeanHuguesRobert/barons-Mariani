@@ -151,7 +151,7 @@ Ces résultats décrivent la représentation sénatoriale issue du scrutin. Ils 
 
 Au **7 octobre 2026 à 7 h 36**, le renouvellement interne du Sénat est encore en cours :
 
-- les listes des membres des commissions permanentes ont été publiées le 6 octobre ;
+- les listes des candidats aux commissions permanentes ont été publiées le 6 octobre, avec ratification annoncée sauf opposition dans le délai prévu ;
 - la constitution du bureau de la commission des lois est prévue le 7 octobre à **9 h 30** ;
 - l’audition de **Françoise Gatel**, ministre de l’aménagement du territoire et de la décentralisation, sur le projet corse est annoncée le 7 octobre à **15 h** ;
 - le rapporteur du texte n’est pas présumé dans la présente note tant que sa désignation n’est pas officiellement établie.
