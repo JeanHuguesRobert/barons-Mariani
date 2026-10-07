@@ -123,6 +123,26 @@ Pour cette branche, la descendance est clairement subsistante tandis qu'aucun an
 Dossier source :
 `musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
 
+### Deuxième résultat du Probe 3 — Arrighi de Casanova
+
+Le Tableau II montre une autre forme de furtivité généalogique et territoriale.
+
+La **branche ducale de Padoue** s'éteint en 1888, mais la descendance du dernier duc continue par sa fille dans les **Caraman**. En parallèle, le nom **Arrighi de Casanova** lui-même subsiste par une autre branche familiale.
+
+Le cas interdit donc d'utiliser l'extinction d'un titre comme proxy d'extinction familiale.
+
+Autre donnée importante : la **Maison Arrighi de Casanova à Corte** existe toujours et est protégée comme Monument historique, mais la notice officielle du ministère de la Culture indique qu'elle est aujourd'hui **propriété de la commune**.
+
+DIASPORA doit ainsi pouvoir représenter simultanément :
+
+```text
+personnes / descendants ailleurs
++ nom familial subsistant
++ trace patrimoniale forte en Corse
++ propriété familiale non maintenue sur le bien historique
+```
+
+Dossier source : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ## Méthode : révéler sans inventer
 
 ~~~text
