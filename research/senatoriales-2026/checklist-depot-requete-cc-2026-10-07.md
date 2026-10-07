@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.30"
+version: "0.31"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -452,6 +452,36 @@ Les formulations telles que « au mieux », « seulement », « au minimum », �
 Le contrôle critique ne disparaît pas. Il est déplacé vers le plan de contrôle : lorsqu'une affirmation paraît fragile, excessive ou insuffisamment établie, elle doit être signalée au requérant pour décision, et non affaiblie automatiquement dans le texte au nom d'une protection paternaliste.
 
 Le style recherché est ferme, exact et audacieux. Il ne doit être ni téméraire ni timoré.
+
+
+### Règle de français idiomatique — pas de calques mécaniques
+
+Le français de la requête doit être naturel, idiomatique et immédiatement compréhensible.
+
+Il est interdit de traduire littéralement une expression anglaise, informatique, administrative ou conceptuelle si le résultat produit en français une formule étrange, artificielle ou obscure.
+
+Règle pratique :
+- partir du sens à transmettre ;
+- reformuler dans un français courant ou juridique naturel ;
+- accepter une phrase plus longue si elle est plus claire ;
+- préférer une image française évidente à un calque technique ;
+- supprimer toute métaphore qui demande au lecteur de deviner ce qu'elle signifie.
+
+Exemple :
+
+À éviter :
+« L'enjeu est comparable à une chaîne de colis. »
+
+À écrire :
+« Il faut pouvoir suivre le trajet des documents : ce qui a été reçu, transmis et finalement versé au dossier. »
+
+Cette règle complète la traduction immédiate des termes anglais : traduire n'est pas suffisant si la traduction reste artificielle.
+
+Test obligatoire :
+
+> Une personne cultivée qui ne connaît ni l'informatique ni notre vocabulaire interne comprend-elle immédiatement la phrase, sans devoir reconstruire l'expression d'origine ?
+
+Si la réponse est non, il faut réécrire.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -1019,3 +1049,10 @@ Cette promotion reste une version de travail ; d'autres paquets de corrections p
 ## UPDATE — 7 octobre 2026 — v0.30 / force argumentative
 
 Nouvel invariant : la requête ne doit pas affaiblir spontanément ses propres moyens par des précautions rhétoriques redondantes. Les limites réellement nécessaires sont conservées ; les atténuations qui relèvent de l'appréciation du juge sont retirées. La revue critique reste dans le plan de contrôle et fait l'objet d'un signalement au requérant lorsqu'une affirmation paraît excessive ou fragile.
+
+
+## UPDATE — 7 octobre 2026 — v0.31 / français idiomatique
+
+Ajout d'un invariant : la requête ne doit contenir aucun calque littéral produisant un français artificiel. L'expression « chaîne de colis » est supprimée et remplacée par une formulation naturelle décrivant le trajet des documents.
+
+Audit à poursuivre sur les expressions techniques ou conceptuelles qui pourraient rester opaques au lecteur, notamment lorsqu'elles sont compréhensibles pour l'auteur mais pas pour un lecteur extérieur.
