@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.49"
+version: "0.50"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -938,6 +938,25 @@ Règle canonique : **plus clair ne signifie jamais moins complet**.
 
 Audit associé :
 `research/senatoriales-2026/investigation/audit-pertes-semantiques-versions-requete-2026-10-07.md`
+
+
+### Revue adverse QPC — points à préserver
+
+**L.299 — grief contre la loi, non simple erreur d'application**
+- Le droit d'éligibilité directement atteint est d'abord celui du candidat principal dont toute la candidature est exclue à raison d'une formalité imposée au remplaçant.
+- Meilleure objection : L.299 pourrait déjà recevoir l'interprétation adaptée reconnue par le Conseil d'État pour L.265 ; dans ce cas le problème serait seulement l'application du texte.
+- Réponse recherchée : formuler la QPC sur la constitutionnalité d'une interprétation qui interdirait toute adaptation et privilégier une conformité sous réserve.
+
+**L.303 — fenêtre préélectorale sans voie de contrôle utile**
+- Ne pas réduire le grief à l'absence de double degré de juridiction.
+- Ne pas affirmer que le Conseil constitutionnel devait nécessairement pouvoir être saisi lui-même avant le scrutin.
+- Cibler spécialement la seconde phrase : « Son jugement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection. »
+- Dans le cas 2026, jugement le 14 septembre, scrutin le 27 septembre : **treize jours calendaires** pendant lesquels l'exclusion n'était pas encore irréversible, alors que le TA avait dû statuer en trois jours.
+- Question générale : le législateur peut-il fermer toute voie de contrôle utile pendant cette fenêtre jusqu'à ce que le scrutin consomme l'atteinte ?
+- Objection à anticiper : article 59 de la Constitution + article 33 de l'ordonnance organique structurent le contentieux post-électoral ; l'article 33 a été contrôlé a priori en 2011.
+- Réponse : la QPC ne réclame pas nécessairement un recours préélectoral devant le Conseil constitutionnel ; elle attaque la fermeture de toute autre voie utile créée par L.303.
+
+Règle : **la célérité explique un recours rapide ; elle ne suffit pas, à elle seule, à expliquer une période d'attente sans recours alors que le dommage reste encore évitable.**
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
