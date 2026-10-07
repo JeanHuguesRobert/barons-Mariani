@@ -4,7 +4,7 @@ description: 'Point d''entrée du Livre Vivant PrivAI : AI Safety, souveraineté
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-04'
+last_modified_at: '2026-10-07'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -42,6 +42,7 @@ related_documents:
 - research/democratic_ai_safety.md
 - research/pathologie_du_secret.md
 changelog:
+- v0.2 (2026-10-07) — statut institutionnel réaligné sur les statuts 1995 désormais transcrits et vérifiés ; le portage juridique de PrivAI Foundation reste non établi.
 - v0.1 (2026-10-04) — initial candidate drafted from the existing Corpus and current conversation; published to the canonical repository on 2026-10-04.
 - v0.1.1 (2026-10-04) — institutional sentence narrowed to the wording already published by acorsica/privai; broken plan link replaced. The Foundation carriage sentence stays a candidate in institutional-status.md.
 ---
