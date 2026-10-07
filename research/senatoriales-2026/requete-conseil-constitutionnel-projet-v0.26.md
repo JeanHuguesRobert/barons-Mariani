@@ -1216,7 +1216,7 @@ Il ne doit pas devenir un grief autonome sans fondement propre.
 
 Sa fonction est d'identifier le contenu de l'offre absente, pas de présumer son succès électoral.
 
-Les travaux relatifs à l'Autonomie de Capacité et à un amendement envisagé à l'article 72-5 établissent l'existence d'un **contenu politique et parlementaire réel** porté par la candidature. Dans la v0.5, ils ne sont **pas présentés comme un grief autonome d'annulation**. Leur fonction est seulement de documenter que l'offre électorale écartée n'était pas fictive ou purement nominale.
+Les travaux relatifs à l'Autonomie de Capacité et à un amendement envisagé à l'article 72-5 établissent l'existence d'un **contenu politique et parlementaire réel** porté par la candidature. Ils ne constituent pas un grief autonome d'annulation ; ils montrent que l'offre électorale écartée portait un projet politique déterminé et publiquement documenté.
 
 ### CONTEXTE B — exposition médiatique postérieure
 
@@ -1236,7 +1236,7 @@ Elle peut documenter un effet contextuel.
 
 Elle ne remplace ni la preuve du vice initial ni celle de son incidence sur le scrutin.
 
-Les analyses relatives à l'accès ultérieur au débat audiovisuel sont conservées hors du noyau des moyens. Elles peuvent documenter des effets contextuels d'une éviction, mais la v0.5 ne demande pas au Conseil d'annuler l'élection sur ce fondement autonome.
+Les analyses relatives à l'accès ultérieur au débat audiovisuel sont exposées comme éléments de contexte. Elles peuvent éclairer les effets de l'éviction de la candidature, sans constituer à elles seules le fondement d'une demande d'annulation.
 
 ---
 
