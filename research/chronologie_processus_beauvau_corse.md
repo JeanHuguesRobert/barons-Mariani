@@ -411,7 +411,7 @@ Qualification : **intervention de la société civile / proposition publique**, 
 |---|---|---|---|
 | 27 septembre 2026 | Élection sénatoriale | Paul Toussaint Parigi est réélu en Haute-Corse avec 442 voix sur 530 exprimées (83,40 %). Jean-Jacques Panunzi est réélu en Corse-du-Sud avec 293 voix sur 452 exprimées (64,82 %). | Fait électoral publié par le ministère de l’Intérieur ; résultats publiés sous réserve des corrections et décisions du juge de l’élection. |
 | 6 octobre 2026, 18 h 30 | Organisation du Sénat | Publication des listes des candidats aux sept commissions permanentes et annonce de leur ratification sauf opposition. | Étape du renouvellement des instances après les sénatoriales. |
-| 7 octobre 2026, 9 h 30 | Agenda | Constitution annoncée du bureau de la commission des lois. | **PENDING** à 7 h 36 ; ne pas anticiper président, vice-présidents ou autres fonctions. |
+| 7 octobre 2026, 9 h 30 | Agenda | Constitution annoncée du bureau de la commission des lois. | **PENDING (en attente)** à 7 h 36 ; ne pas anticiper président, vice-présidents ou autres fonctions. |
 | 7 octobre 2026, 15 h | Agenda Corse | Audition annoncée de Françoise Gatel par la commission des lois sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République. | **PENDING** à 7 h 36 ; contenu à documenter après tenue. |
 | 21 octobre 2026, matin | Agenda parlementaire | Réunion annoncée de la commission des lois pour le rapport sur le texte n° 782. | Fenêtre de travail prioritaire avant examen en commission. |
 | 23 octobre 2026, 12 h | Agenda parlementaire | Délai annoncé pour le dépôt des amendements de séance. | À revérifier avant usage opérationnel. |
