@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.31"
+version: "0.32"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -81,17 +81,18 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 ## SOMMAIRE
 
-1. Canal de suivi de l’instruction et traçabilité du contradictoire
-2. Recevabilité et qualité pour agir
-3. Résumé de l'affaire
-4. Chronologie des faits et des diligences
-5. Formalités de candidature et règles applicables
-6. Solutions qui demeuraient praticables avant l'échéance
-7. Griefs soumis au Conseil constitutionnel
-8. Temporalité et effets devenus irréversibles
-9. Conclusions du requérant
-10. Bordereau des pièces et constitution matérielle du dossier
-11. État du dossier au moment de la signature
+1. Une requête, plusieurs chemins — dépôt redondant et traçabilité
+2. Canal de suivi de l’instruction et traçabilité du contradictoire
+3. Recevabilité et qualité pour agir
+4. Résumé de l'affaire
+5. Chronologie des faits et des diligences
+6. Formalités de candidature et règles applicables
+7. Solutions qui demeuraient praticables avant l'échéance
+8. Griefs soumis au Conseil constitutionnel
+9. Temporalité et effets devenus irréversibles
+10. Conclusions du requérant
+11. Bordereau des pièces et constitution matérielle du dossier
+12. État du dossier au moment de la signature
 
 ## NOTE DE LECTURE — UN DOSSIER QUI DOIT RESTER COMPRÉHENSIBLE
 
@@ -168,6 +169,129 @@ Une vue tabulaire strictement équivalente figure dans l'annexe **« Vues tabula
 
 ---
 
+
+
+## UNE REQUÊTE, PLUSIEURS CHEMINS — DÉPÔT REDONDANT ET TRAÇABILITÉ
+
+### Lecture grand public
+
+Une requête ne produit aucun effet si elle reste bloquée au mauvais endroit.
+
+Le présent recours doit parvenir au Conseil constitutionnel dans un délai très court. Pour éviter qu’une erreur d’aiguillage, une boîte électronique mal relevée ou une hésitation sur le service compétent suffise à faire échouer matériellement le recours, le requérant a choisi une méthode de redondance.
+
+Il n’existe qu’**une seule requête**.
+
+Cette même requête, figée dans un état déterminé, est adressée simultanément à plusieurs points d’entrée institutionnels susceptibles soit de la transmettre eux-mêmes, soit de la faire suivre vers l’autorité compétente.
+
+La logique est simple :
+
+**un seul dossier  
+→ plusieurs chemins institutionnels  
+→ une seule destination finale : le Conseil constitutionnel.**
+
+Les différents destinataires ne reçoivent pas des versions différentes. Ils reçoivent le même dossier.
+
+Lorsque des liens électroniques sont utilisés, chaque destinataire reçoit toutefois un lien individualisé. Cela permet de distinguer les chemins de consultation et de transmission sans modifier le contenu du dossier.
+
+Cette précaution reprend une expérience déjà vécue.
+
+Le **5 juillet 2024**, à l’occasion d’un précédent contentieux électoral, une requête avait été adressée par courrier électronique aux services de l’État en Haute-Corse et à plusieurs autres autorités. Le bureau des élections de la préfecture avait accusé réception en indiquant que, si son administration n’était pas compétente, elle transmettrait la saisine à l’administration compétente.
+
+Le **8 juillet 2024**, le secrétaire général du Conseil constitutionnel confirmait ensuite par écrit que la requête avait été reçue le 5 juillet à la préfecture de Haute-Corse et **transmise le même jour au Conseil constitutionnel**. Elle avait été enregistrée sous le numéro **2024-6309 AN**.
+
+La méthode utilisée en 2026 cherche donc à reproduire ce qui a déjà fonctionné, tout en rendant chaque étape plus facile à vérifier.
+
+Les courriels envoyés font eux-mêmes partie de cette vérification.
+
+Avant leur envoi, ce ne sont que des projets. Après leur envoi, ils deviennent des faits datés : tel message a été adressé à tel service, à telle heure, avec tel dossier, et avec telle demande de transmission.
+
+Les réponses, accusés automatiques, réorientations et confirmations de transmission deviennent à leur tour de nouveaux faits. Ils ont donc vocation à rejoindre ensuite la documentation du recours.
+
+Cela permet de distinguer clairement :
+
+**ce qui a été envoyé ;  
+ce qui a été reçu ;  
+ce qui a été transmis ;  
+ce qui a été enregistré ;  
+et ce dont le sort reste inconnu.**
+
+Le but est de pouvoir reconstruire après coup ce qui s’est réellement passé, plutôt que de devoir le supposer.
+
+### Lecture expert
+
+L’article 34 de l’ordonnance n° 58-1067 du 7 novembre 1958 prévoit que la requête peut être adressée au secrétariat général du Conseil constitutionnel ou au représentant de l’État.
+
+Lorsque le représentant de l’État est saisi, il **avise par voie électronique le secrétaire général et assure la transmission de la requête dont il a été saisi**.
+
+La stratégie retenue distingue donc :
+
+- les canaux susceptibles de constituer directement une remise au représentant de l’État ;
+- les autres points d’entrée institutionnels susceptibles de réorienter matériellement l’objet vers l’autorité compétente ;
+- l’envoi direct au greffe du Conseil constitutionnel, utilisé comme tentative directe de remise et comme trace indépendante ;
+- les documents probatoires constitués après l’envoi pour établir le chemin effectivement suivi.
+
+La multiplication des canaux ne crée pas plusieurs recours. Elle transporte un **même paquet juridictionnel gelé** par plusieurs chemins. La redondance porte sur le transport, non sur la substance.
+
+Le contrôle probatoire distingue notamment :
+
+**envoi ≠ réception ;**
+
+**réception ≠ saisine juridiquement établie ;**
+
+**réception par un service ≠ transmission au Conseil ;**
+
+**transmission annoncée ≠ transmission matériellement établie ;**
+
+**transmission au Conseil ≠ enregistrement ;**
+
+**enregistrement ≠ examen au fond.**
+
+Le précédent du 5 juillet 2024 présente ici une valeur particulière : il établit qu’une chaîne de transmission entre la préfecture de Haute-Corse et le Conseil constitutionnel a effectivement fonctionné dans un contentieux électoral concernant le même requérant.
+
+La stratégie 2026 cherche à rendre cette chaîne plus observable. Pour chaque envoi sont donc conservés, autant que disponibles :
+
+- le destinataire exact ;
+- l’heure d’envoi ;
+- le message effectivement envoyé ;
+- ses métadonnées pertinentes ;
+- le lien individualisé communiqué ;
+- l’identification du paquet transmis ;
+- son empreinte cryptographique lorsqu’elle est disponible ;
+- les accusés automatiques ;
+- les réponses humaines ;
+- les réorientations ;
+- les transmissions déclarées ;
+- les confirmations du Conseil constitutionnel ;
+- les références d’enregistrement.
+
+Les courriels effectivement envoyés ne peuvent être incorporés qu’après leur émission.
+
+Cette séquence interdit de réécrire rétroactivement le paquet initial.
+
+Le dossier gelé au moment du dépôt établit **ce qui a été remis**. Les pièces constituées après l’envoi établissent **comment cette remise a circulé**.
+
+La chronologie probatoire est donc :
+
+**T0 — paquet gelé ;  
+T1 — envoi ;  
+T2 — réception et réactions institutionnelles ;  
+T3 — production documentaire des traces résultantes.**
+
+Les traces postérieures ne modifient pas l’objet initial. Elles documentent son parcours.
+
+Cette architecture constitue une application concrète de la **Traçabilité des Actes** : rendre vérifiables l’existence, la date, le destinataire, le contenu et les suites d’un acte engageant.
+
+Elle conserve également une distinction essentielle :
+
+**absence de trace connue ≠ preuve de l’absence de l’acte.**
+
+Une absence d’accusé, de réponse ou de journal disponible ne permet pas, à elle seule, de conclure qu’aucune réception ou transmission n’a eu lieu. Elle constitue seulement un état probatoire qui doit être qualifié comme tel.
+
+La portée contentieuse du dispositif est directement liée à l’effectivité du recours. Lorsqu’un recours est enfermé dans un délai bref, l’existence formelle d’une voie de droit ne suffit pas si le justiciable ne dispose pas, en pratique, d’un moyen identifiable de faire parvenir sa requête à l’autorité compétente et d’établir qu’il l’a fait dans le délai.
+
+La redondance et la traçabilité ne créent donc aucun droit supplémentaire. Elles visent à rendre vérifiable l’exercice d’un droit déjà prévu par les textes.
+
+---
 
 ## CANAL DE SUIVI DE L’INSTRUCTION ET TRAÇABILITÉ DU CONTRADICTOIRE
 
