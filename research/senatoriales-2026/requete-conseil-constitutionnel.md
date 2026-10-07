@@ -288,11 +288,11 @@ Elle couvre la préparation du formulaire.
 
 Elle couvre aussi les pièces d'identité et les attestations.
 
-Elle contient une autorisation expresse d'utiliser sa signature sur le CERFA.
+Elle contient notamment **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026**, par lequel elle autorise expressément M. Robert à utiliser sa signature sur le CERFA où elle se porte remplaçante.
 
-Elle documente également la désignation de M. Robert comme porte-parole, la déclaration vidéo commune et la pièce CAF produite après l'audience.
+Elle documente également, par **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026**, sa désignation expresse de M. Robert comme porte-parole de la campagne, ainsi que la déclaration vidéo commune et la pièce CAF produite après l'audience.
 
-Cet ensemble est conservé comme **P-43 — correspondance de Mme Laurence Vernerey du 7 au 14 septembre**.
+Cet ensemble est conservé comme **P-43 — correspondance de Mme Laurence Vernerey du 7 au 14 septembre**. Deux messages décisifs en sont extraits et produits séparément : **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026**.
 
 La correspondance de Mme Laurence Vernerey du 7 au 14 septembre (P-43 — correspondance contemporaine avec Laurence Vernerey du 7 au 14 septembre) est une pièce sensible.
 
