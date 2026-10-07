@@ -91,7 +91,7 @@ Formulation étroite, alignée sur [acorsica/privai](https://github.com/acorsica
 
 PrivAI est une initiative en développement dans le périmètre de l'Institut Mariani et de l'association C.O.R.S.I.C.A. Les liens documentaires ne valent ni fusion, ni transfert de données, ni portage juridique, ni financement, ni endorsement politique. Aucune certification n'est délivrée ici.
 
-Une note de travail du même jour, `institutional-status.md`, propose en plus une future PrivAI Foundation sans personnalité juridique propre, qui serait portée par C.O.R.S.I.C.A. Les statuts n'ont pas été relus. Cette phrase reste candidate. Elle ne décrit pas l'état publié par le dépôt de l'initiative.
+Une note de travail du même jour, `institutional-status.md`, explore en plus une future PrivAI Foundation. Depuis, les statuts 1995 de C.O.R.S.I.C.A. ont été transcrits et vérifiés : ils ne suffisent pas à établir un portage juridique de cette future entité. Un tel portage reste donc une proposition institutionnelle à adopter et rendre effective séparément ; il ne décrit pas l'état publié par le dépôt de l'initiative.
 
 ## Architecture de Livre Vivant
 
