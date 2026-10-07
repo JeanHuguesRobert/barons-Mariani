@@ -28,6 +28,7 @@ related:
   - "../reviews/audit-double-lecture-requete-v0.23-2026-10-07.md"
   - "../reviews/audit-intelligibilite-requete-v0.22-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
+  - "filing-materialization-map-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
   - "../autonomia/corse_laboratoire.md"
