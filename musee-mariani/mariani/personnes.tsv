@@ -9,3 +9,13 @@ MAR-LOUIS-1893	Mariani	Louis	1893	1895		rapporte	CASABIANCA-2010-MOUSSIA	Tableau
 MAR-MARIE-LOUISE-1901	Mariani	Marie-Louise	1901-08-03	1983-02-26	Corse; Nîmes	rapporte	CASABIANCA-2010-MOUSSIA	Épouse Jean Robert juillet 1939
 ROB-JEAN	Robert	Jean	1900 ou 1903	1969-12-27	Bastia; Cannes; Reims; Nîmes	discordant	CASABIANCA-2010-MOUSSIA	Tableau 3: 1900; récit p.54: né en 1903
 ROB-MARGUERITE-1940	Robert	Marguerite	1940-12-12	1993-09-09	Nîmes; Bastia	rapporte	CASABIANCA-2010-MOUSSIA	Fille unique selon Moussia
+ALL-THERESE-ALLESINA	Allesina von Schweitzer	Thérèse; Tresi; Alesina de Schweitzer			Bade?; France	secondaire	MEURGEY-TABLEAU-I+PUBLIC-GENEALOGY	Épouse de Louis-Thomas Mariani; graphie et origine à fermer par actes
+MAR-MADELEINE-1850	Mariani	Madeleine; Fernande-Marie-Louise-Caroline-Madeleine	1850	1924	France continentale	secondaire_convergent	MEURGEY-TABLEAU-I+PUBLIC-GENEALOGY	Fille de Louis-Thomas; épouse Abdomar d’Adhémar de Lantagnac en 1870
+ADH-ABDOMAR-1834	d’Adhémar de Lantagnac	Abdomar Alexandre Maurice Eugène William	1834	1878	Tours; Paris; France	secondaire_convergent	PUBLIC-GENEALOGY	Époux de Madeleine Mariani; lieutenant de vaisseau
+ADH-THERESE-1872	d’Adhémar de Lantagnac	Anne-Marie-Caroline-Thérèse; Thérèse	1872	1952	France	secondaire_convergent	MEURGEY-TABLEAU-I+PUBLIC-GENEALOGY	Fille de Madeleine Mariani; épouse Henri Girot de Langlade
+ADH-BLANCHE-1874	d’Adhémar de Lantagnac	Marie-Josèphe-Blanche; Blanche	1874	1954	France	secondaire_convergent	MEURGEY-TABLEAU-I+PUBLIC-GENEALOGY	Fille de Madeleine Mariani; épouse Georges Hainguerlot puis Henri Piscatory de Vaufreland
+HAI-GEORGES-1870	Hainguerlot	Georges	1870	1914	France	secondaire_convergent	PUBLIC-GENEALOGY	Époux de Blanche d’Adhémar de Lantagnac
+HAI-MADELEINE-1895	Hainguerlot	Madeleine	1895	1964	France; Belgique	secondaire_convergent	PUBLIC-GENEALOGY	Fille de Georges Hainguerlot et Blanche d’Adhémar; épouse André Terlinden
+TER-ANDRE-1888	Terlinden	André	1888	1945	Belgique; France	secondaire_convergent	PUBLIC-BIOGRAPHY	Époux de Madeleine Hainguerlot; ingénieur et haut fonctionnaire belge
+TER-JACQUELINE-1921	Terlinden	Jacqueline	1921	1964	Belgique; États-Unis	public_convergent	PUBLIC-BIOGRAPHY	Fille d’André Terlinden et Madeleine Hainguerlot; épouse du général Jean Compagnon
+COM-ANTOINE-1950	Compagnon	Antoine	1950		France; Belgique; États-Unis	public_etabli	PUBLIC-BIOGRAPHY	Fils du général Jean Compagnon et de Jacqueline Terlinden; académicien français, professeur au Collège de France
