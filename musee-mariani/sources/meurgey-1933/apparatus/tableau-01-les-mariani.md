@@ -127,10 +127,11 @@ Le tableau rappelle sa carrière : officier, député de la Corse, chambellan de
 Descendance visible en IX :
 
 - **Antoine dit Tony, baron Mariani**, époux d'**Amélina-Marie-Madeleine Davillier-Regnault de Saint-Jean-d'Angély** ; le tableau porte **« Trois enfants morts jeunes »** ;
-- **Fernande-Marie-Louise-Madeleine-Caroline Mariani**, épouse d'un **comte d'Adhémar de Lantagnac** [prénoms du conjoint partiellement lisibles, à reprendre] ;
+- **Madeleine Mariani**, dont les prénoms complets sont donnés par des sources généalogiques secondaires concordantes comme **Fernande-Marie-Louise-Caroline-Madeleine** (1850–1924), épouse en 1870 **Abdomar Alexandre Maurice Eugène William d’Adhémar de Lantagnac** (1834–1878), lieutenant de vaisseau.  
+  **Correction de la première lecture visuelle :** la forme initialement relevée comme « Fernande » désignait la même personne ; « Madeleine » est le prénom d’usage qui ressort de plusieurs sources secondaires indépendantes. Cette correction est externe à la transcription et doit rester signalée comme telle ;
 - **Essey Mariani**, capitaine d'infanterie **(1856–1891)**.
 
-La branche de **Fernande Mariani** est développée jusqu'aux générations XII et montre des descendances par les femmes dans plusieurs familles alliées.
+La branche de **Madeleine Mariani** est développée jusqu'aux générations XII et montre des descendances par les femmes dans plusieurs familles alliées.
 
 ### X–XII — branche d'Adhémar / Langlade / Hainguerlot / Terlinden
 
@@ -283,3 +284,24 @@ Ces personnes ne doivent pas être injectées automatiquement dans le TSV canoni
 4. reconstruire les relations sous forme de graphe dérivé ;
 5. seulement après seconde revue, proposer les ajouts au TSV canonique ;
 6. lancer ensuite la continuation 1933→2026 sur les branches **d'Adhémar / Langlade / Hainguerlot / Terlinden**, qui constituent le premier signal clair que la descendance féminine des Mariani dépasse largement la branche patronymique.
+
+
+## I. Contrôle externe de la branche Madeleine Mariani — 2026-10-07
+
+Une recherche secondaire externe a été menée après la première lecture visuelle. Elle ne modifie pas rétroactivement la transcription : elle sert à **corriger les lectures ambiguës** et à préparer la continuation 1933→2026.
+
+Convergences secondaires actuellement observées :
+
+- **Madeleine Mariani**, dite dans certaines bases **Fernande-Marie-Louise-Caroline-Madeleine**, née en 1850, décédée en 1924 ;
+- fille de **Louis-Thomas-Maurice-Jérôme Mariani** et de **Thérèse Allesina / Alesina von Schweitzer** ;
+- mariage en 1870 avec **Abdomar Alexandre Maurice Eugène William d’Adhémar de Lantagnac** (1834–1878) ;
+- deux filles documentées :
+  - **Anne-Marie-Caroline-Thérèse d’Adhémar de Lantagnac** (1872–1952), épouse **Henri-Joseph-Paul-Charles Girot de Langlade** (1867–1944) ;
+  - **Marie-Josèphe-Blanche d’Adhémar de Lantagnac** (1874–1954), épouse en premières noces **Georges Hainguerlot** (1870–1914), puis **Henri Piscatory de Vaufreland**.
+
+Sources secondaires de contrôle :
+- famille d’Adhémar de Lantagnac : https://fr.wikipedia.org/wiki/Famille_d%27Adh%C3%A9mar_%28Rouergue%29
+- Geneanet, fiche Édouard Hainguerlot montrant les grands-parents Abdomar d’Adhémar / Madeleine Mariani : https://gw.geneanet.org/wikifrat?lang=fr&n=hainguerlot&oc=2&p=edouard
+- Man8Rove, profil de la famille Mariani/Mariany : https://man8rove.com/en/family/Mariany
+
+**Niveau de preuve : secondaire convergent.** Les actes de naissance/mariage/décès restent à rechercher pour fermeture primaire.
