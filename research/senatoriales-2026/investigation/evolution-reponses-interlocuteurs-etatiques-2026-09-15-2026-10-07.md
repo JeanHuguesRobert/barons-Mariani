@@ -132,3 +132,19 @@ La présente note n'arbitre pas entre ces explications. Elle conserve la différ
 - P-45 — modalités de remise de la requête et relances ;
 - chronologie probatoire détaillée ;
 - courriels natifs conservés dans Gmail.
+
+
+## Modalités de remise du recours — P-45
+
+La séquence relative à la remise de la requête devant le Conseil constitutionnel doit être distinguée des demandes relatives au fond du dossier.
+
+Elle comprend :
+
+- **P-45.a — demande du 26 septembre au Bureau des élections sur les modalités de dépôt au titre de l'article 34** ;
+- **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34** ;
+- **P-45.c — consolidation du 1er octobre avec la Sous-préfecture de Corte en copie** ;
+- **P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt**.
+
+Au 7 octobre, aucune réponse substantielle retrouvée ne ferme les questions du lieu concret, du canal, de l'heure pratique et de la preuve de réception.
+
+Cette observation doit rester bornée : la préfecture a répondu sur d'autres objets, notamment l'organisation de la consultation des pièces électorales. Le fait documenté est donc l'absence de réponse substantielle retrouvée **sur les modalités de remise de la requête**, non un silence administratif général.
