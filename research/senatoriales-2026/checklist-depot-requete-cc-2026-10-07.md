@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.54"
+version: "0.55"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1103,6 +1103,18 @@ Conséquence : P-18 n'est plus un verrou de localisation ; il reste à produire 
 - greffe : décision rendue le 14 septembre ;
 - greffe : pli contenant le jugement en attente à La Poste depuis le 17 septembre ;
 - priorité : isoler l'expédition papier retirée et assembler P-20.a.
+
+
+### P-13 verrouillée matériellement — v0.55
+
+**P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** :
+- fichier primaire Google Drive récupéré : `VID_20260911_174455.mp4` ;
+- taille : 79 663 474 octets ;
+- SHA-256 recalculé : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ;
+- concordance exacte avec la fiche d'intégrité antérieure ;
+- identifiant Drive source : `1P0AIJ-FzX69xkd4-kQyujbJg2nGqRbtC`.
+
+P-13 n'est plus un verrou de localisation ou d'intégrité. Reste seulement l'arbitrage sur le mode de production matérielle au Conseil.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
