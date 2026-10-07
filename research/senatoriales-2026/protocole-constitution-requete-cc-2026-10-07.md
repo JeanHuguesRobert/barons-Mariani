@@ -12,7 +12,7 @@ lifecycle_state: "active"
 related:
   - "checklist-depot-requete-cc-2026-10-07.md"
   - "requete-conseil-constitutionnel.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel.md"
   - "inventaire_probatoire_exhaustif_pieces_preuves.md"
 ---
 
