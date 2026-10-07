@@ -2,7 +2,7 @@
 title: "Audit de matérialisation — paquet Conseil constitutionnel — sénatoriales Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "active — pre-filing materialization audit"
 language: fr
 document_role: "filing-control"
@@ -126,23 +126,23 @@ Les transcriptions conservent les SHA-256 des photographies :
 
 ### P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre
 
-**Statut : INTÉGRITÉ DOCUMENTÉE ; FICHIER MP4 PRIMAIRE À RATTACHER AU PAQUET.**
+**Statut : SOURCE PRIMAIRE LOCALISÉE ET INTÉGRITÉ VÉRIFIÉE.**
 
-La bibliothèque contient une fiche d'intégrité :
+Le fichier primaire Google Drive a été récupéré depuis l'identifiant `1P0AIJ-FzX69xkd4-kQyujbJg2nGqRbtC`.
 
-`fiche_integrite_video_2026-09-11.md`
-
-qui fixe :
+Contrôle matériel :
 - fichier : `VID_20260911_174455.mp4` ;
 - taille : **79 663 474 octets** ;
+- SHA-256 recalculé : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`.
+
+Ce SHA-256 concorde exactement avec la fiche d'intégrité antérieure `fiche_integrite_video_2026-09-11.md`.
+
+Les autres métadonnées déjà documentées restent :
 - durée : **58,137778 secondes** ;
-- SHA-256 : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ;
 - création : 17 h 45 min 55 s CEST ;
-- envoi du lien : 17 h 57 min 55 s CEST.
+- envoi du lien au Bureau des élections : 17 h 57 min 55 s CEST.
 
-Une copie privée Google Drive est documentée par l'identifiant `1P0AIJ-FzX69xkd4-kQyujbJg2nGqRbtC`.
-
-**Action restante :** rattacher le MP4 primaire effectivement produit ou, si le canal de dépôt n'accepte pas le média, produire au minimum la fiche d'intégrité, la transcription et un support d'accès compatible avec les modalités admises par le Conseil. Ne pas remplacer silencieusement la vidéo par sa transcription.
+**Action restante :** choisir le mode de production matérielle compatible avec le canal de dépôt. Si le MP4 n'est pas joint directement, produire la fiche d'intégrité et la transcription, sans présenter celles-ci comme substitut au fichier primaire, dont l'original est désormais vérifié et disponible.
 
 ## 4. Pièces encore à verrouiller matériellement
 
@@ -262,8 +262,9 @@ Les véritables verrous matériels encore ouverts sont surtout :
 
 1. **P-20 — jugement TA + notification** : expédition primaire papier à isoler et sous-pièces à assembler ;
 2. **P-16 — mémoire en défense** : confirmer quelle représentation est celle effectivement déposée ;
-3. **P-13 — vidéo commune** : rattacher le MP4 primaire ou arrêter son mode de production ;
-4. assemblage effectif du recueil **P-46** et du paquet final.
+3. assemblage effectif du recueil **P-46** et du paquet final.
+
+**P-13 — vidéo commune** n'est plus un verrou de localisation ou d'intégrité : le MP4 primaire a été récupéré et son SHA-256 vérifié.
 
 **P-18 — attestation CAF relative à Mme Vernerey** n'est plus un verrou de localisation : le PDF primaire et sa chaîne de transmission au greffe sont établis.
 
