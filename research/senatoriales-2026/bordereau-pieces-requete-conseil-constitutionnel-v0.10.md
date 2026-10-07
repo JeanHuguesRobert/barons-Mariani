@@ -64,7 +64,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-01** | 01/10/2025 | Annonce publique de candidature | Antériorité publique | **C — contexte / réserve** | Capture / trace publique |
 | **P-02** | 20/05/2026 | « Autonomia - 1974, 1991, 2026 » | Contexte doctrinal antérieur | **C — contexte / réserve** | research/autonomia.md |
 | **P-03** | 24/05/2026 | Courriel à Corse Net Infos | Information précoce de la presse | **C — contexte / réserve** | Courriel source |
-| **P-04** | 10/09 17:54:50 | Envoi du dossier à la préfecture | Courriel + huit PJ ; repris comme PREF-1 à PREF-9 | **A — production proposée** | Courriel source / bundle P-14 |
+| **P-04** | 10/09 17:01:56–17:54:50 | Premier envoi, DSN d’échec pour taille et retransmission allégée | Chaîne technique de diligence : tentative initiale, trois DSN, retransmission ; ne préjuge pas de la conformité juridique | **A — production proposée** | `investigation/sources/p04-premier-envoi-dsn-retransmission-2026-09-10.md` + messages Gmail natifs / bundle P-14 |
 | **P-05** | 10/09 17:56:53 | Accusé automatique | Réception de P-04 par la messagerie de l'État | **A — production proposée** | Courriel source |
 | **P-06** | 10/09 20:05:04 | Réponse BEDL | Position préfectorale sur les originaux | **A — production proposée** | Courriel source / PREF-10 |
 | **P-07** | 11/09 08:14:11 | Réponse du candidat | Déplacement annoncé | **B — soutien** | Courriel source |
