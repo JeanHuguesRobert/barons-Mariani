@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.40"
+version: "0.41"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.27.md"
+  - "requete-conseil-constitutionnel.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -728,15 +728,39 @@ Un chemin de dépôt, un nom de fichier, un numéro de version, un SHA de commit
 
 À éviter :
 
-`research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md`
+`research/senatoriales-2026/requete-conseil-constitutionnel.md`
 
 À fournir :
 
-`https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md`
+`https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel.md`
 
 Le chemin interne peut être ajouté pour la traçabilité, mais jamais à la place du lien utilisable.
 
 Cette règle vaut aussi dans les échanges conversationnels avec l'auteur : ne pas lui imposer de reconstruire une URL à partir d'informations techniques déjà connues du système.
+
+
+### Référence stable de la requête
+
+La requête possède désormais un nom de fichier canonique sans numéro de version :
+
+`research/senatoriales-2026/requete-conseil-constitutionnel.md`
+
+Ce chemin est la référence stable à utiliser dans les échanges, les annexes, les notes de stratégie et les documents dépendants.
+
+Les numéros de version peuvent continuer à exister dans le frontmatter, l'historique Git ou des instantanés d'archive, mais ils ne doivent plus obliger le lecteur ou les documents liés à changer de lien à chaque révision.
+
+Règle générale : **l'objet vivant conserve une adresse stable ; son histoire est portée par le versionnage et Git, non par le nom de fichier courant.**
+
+### Nommage intelligible des QPC
+
+Les désignations « QPC A » et « QPC B » sont abandonnées.
+
+Les deux pistes constitutionnelles sont désormais nommées par leur objet :
+
+- **QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs** ;
+- **QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant**.
+
+Une QPC doit toujours être désignée par un intitulé permettant de comprendre immédiatement le texte visé et la question constitutionnelle étudiée. Les lettres, sigles internes ou numéros de travail ne peuvent servir seuls de nom public.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -1357,3 +1381,8 @@ Les références aux versions internes de la requête et aux étapes de rédacti
 ## UPDATE — 7 octobre 2026 — v0.40 / liens directement utilisables
 
 Ajout d'une règle d'ergonomie : lorsqu'un document GitHub est proposé à la lecture, fournir systématiquement son URL complète et cliquable. Un chemin de fichier ou une référence technique peut compléter le lien, mais ne doit jamais le remplacer.
+
+
+## UPDATE — 7 octobre 2026 — v0.41 / référence stable et QPC nommées
+
+La requête courante est désormais référencée par le chemin stable `requete-conseil-constitutionnel.md`. Les anciennes désignations QPC A / QPC B sont remplacées par des intitulés intelligibles fondés sur les articles L.303 et L.299 et leur objet constitutionnel.
