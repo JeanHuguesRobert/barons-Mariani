@@ -109,3 +109,16 @@ jobs:
           - artifact: `requete-conseil-constitutionnel-REVIEW-${{ github.sha }}`
           - semantics: REVIEW / non déposé / non gelé / non publié comme Release
           - retention: 7 days"
+
+      - name: Publish durable REVIEW failure receipt
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh issue comment 90 --repo "${{ github.repository }}" --body "## CC petition REVIEW PDF — build FAILED
+
+          - source commit: `${{ github.sha }}`
+          - workflow run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          - run id: `${{ github.run_id }}`
+          - no REVIEW PDF success is claimed"
