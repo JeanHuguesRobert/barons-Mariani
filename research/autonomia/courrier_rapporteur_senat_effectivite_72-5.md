@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "draft — destinataire à compléter après désignation officielle du rapporteur"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -72,58 +72,56 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
 Monsieur / Madame le Rapporteur,
 
-À l’occasion de l’examen par la commission des lois du projet de loi constitutionnelle n° 782, *pour une Corse autonome au sein de la République*, je souhaite vous soumettre une proposition de rédaction très ciblée concernant le futur article 72-5.
+Dans la perspective de l’examen par la commission des lois du projet de loi constitutionnelle n° 782, *pour une Corse autonome au sein de la République*, **je soumets à votre appréciation** une proposition de rédaction très ciblée concernant le futur article 72-5.
 
-Le point de départ est simple :
+Elle procède d’une idée simple : **une faculté juridiquement ouverte ne devient une capacité réelle que si ses conditions de mise en œuvre peuvent elles-mêmes être observées et évaluées.**
 
-> **une compétence juridiquement ouverte n’est pas nécessairement une capacité effectivement exerçable.**
+C.O.R.S.I.C.A. avait transmis, le 28 mai 2026, une contribution intitulée **« Autonomie de capacité »** à la commission des lois de l’Assemblée nationale. Cette contribution figure parmi les contributions écrites recensées dans le rapport n° 2865 de M. Florent Boudié.
 
-C.O.R.S.I.C.A. avait déjà transmis le 28 mai 2026 à la commission des lois de l’Assemblée nationale une contribution intitulée **« Autonomie de capacité »**. Cette contribution figure parmi les contributions écrites recensées dans le rapport n° 2865 de M. Florent Boudié.
+Je rappelle cette antériorité uniquement pour situer la continuité du travail : elle documente un cheminement, sans préjuger d’une influence sur les rédactions adoptées depuis lors.
 
-Cette antériorité établit une continuité documentaire. Elle ne permet pas, et je ne prétends pas, établir qu’une disposition adoptée depuis lors résulterait de notre contribution.
-
-Depuis cette première étape, le travail a été resserré jusqu’à une proposition d’amendement portant directement sur le mécanisme déjà prévu par l’alinéa relatif à la loi organique.
+À mesure que le texte a progressé, la proposition a elle-même été resserrée. Plutôt que d’ajouter une architecture nouvelle au futur article 72-5, elle porte désormais sur le mécanisme organique déjà prévu par le texte transmis au Sénat.
 
 La rédaction candidate est la suivante :
 
 > **« La loi organique détermine les conditions permettant la mise en œuvre effective des deuxième et troisième alinéas et le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application de ces alinéas, en fonction de leur nature. Elle détermine également les modalités d’une évaluation périodique de cette mise en œuvre, portant notamment sur les conditions d’accès aux habilitations et de leur exercice, ainsi que sur ses effets au regard de l’effectivité de la liberté, de l’égalité et de la fraternité. »**
 
-Cette proposition cherche volontairement le **plus petit delta constitutionnel utile**.
+L’intention est volontairement limitée : introduire le **plus petit delta constitutionnel utile**, sans créer de droit automatique à une habilitation ni de dispositif d’évaluation parallèle.
 
-Elle ne crée pas un droit automatique à obtenir une habilitation. Elle ne construit pas un dispositif d’évaluation parallèle. Elle enrichit le mécanisme organique déjà prévu afin que puissent être observées non seulement les normes produites, mais aussi les conditions réelles d’accès aux facultés ouvertes par la Constitution, leur exercice et leurs effets.
+L’enjeu est simplement de rendre observable l’écart éventuel entre une faculté reconnue par la Constitution et sa capacité réelle de mise en œuvre.
 
-La question posée est donc moins celle de l’étendue abstraite d’une autonomie que celle de son effectivité :
+La question peut se formuler ainsi :
 
 > **que pourra-t-on réellement faire demain qui ne pouvait pas être fait hier, par qui, à quelles conditions, et avec quels effets observables ?**
 
-Pour une lecture rapide de l’ensemble du dossier, la note de synthèse à jour au **7 octobre 2026** est ici :
+Pour une lecture rapide du dossier, la **note de synthèse à jour au 7 octobre 2026** est accessible ici :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
 
-La version parlementaire courte de l’amendement, sa justification, ses limites et sa genèse documentaire sont ici :
+La **version parlementaire de l’amendement**, avec sa justification et ses limites, est accessible ici :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 
-La base documentaire courante comprend notamment :
+La base documentaire consolidée comprend notamment :
 
-- la note de continuité Assemblée nationale → Sénat :
-  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
-- l’Atlas actualisé après les sénatoriales :
+- l’**Atlas consolidé du paysage politique et discursif corse** :
   https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
-- l’Observatoire public du processus :
+- la **note de continuité parlementaire Assemblée nationale → Sénat** :
+  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
+- l’**Observatoire public du processus d’autonomie de la Corse** :
   https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 
 La contribution transmise à l’Assemblée nationale le 28 mai reste conservée comme antériorité documentaire :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
 
-Je vous demande donc d’examiner cette rédaction, de la contredire ou de la corriger si nécessaire et, si son principe vous paraît utile, de la reprendre sous la forme que vous estimerez juridiquement la plus robuste.
+Si le principe de cette proposition vous paraît utile, sa formulation est naturellement destinée à être discutée, corrigée ou resserrée selon les exigences de votre travail de rapporteur et de la commission.
 
-L’objectif n’est pas la propriété d’une formulation. Il est que le texte constitutionnel permette de confronter durablement les capacités qu’il ouvre à leur mise en œuvre réelle et à leurs effets.
+L’objectif n’est pas d’attacher ce principe à une formulation particulière, mais de faire en sorte que les facultés ouvertes par le futur article 72-5 puissent être confrontées, dans la durée, à leurs conditions réelles de mise en œuvre et à leurs effets.
 
-Ce courrier étant lui-même public et versionné, toute correction factuelle ou juridique pourra être intégrée de manière traçable.
+Le courrier, comme les documents auxquels il renvoie, est public et versionné afin de faciliter la vérification, la contradiction et, le cas échéant, la correction.
 
-Je reste naturellement disponible pour toute précision utile avant l’examen du texte en commission.
+Je reste à votre disposition pour toute précision qui pourrait être utile à vos travaux.
 
 Bien cordialement,
 
