@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.44"
+version: "0.45"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -849,6 +849,17 @@ Après chaque décision nationale définitive pertinente :
 7. préserver toutes les écritures nationales, pièces produites, QPC, preuves de dépôt et décisions.
 
 La stratégie CEDH doit être construite comme une continuation documentée du contentieux national, non comme une reconstruction rétrospective après la décision du Conseil constitutionnel.
+
+
+### Préservation individualisée du grief de Mme Vernerey
+
+La requête et le mémoire QPC L.299 doivent distinguer :
+- l'atteinte directement subie par M. Robert du fait de l'exclusion de sa candidature ;
+- l'effet propre du formalisme sur Mme Laurence Vernerey comme remplaçante ayant consenti à la candidature et demandé une assistance matérielle.
+
+Ne pas affirmer sans vérification qu'elle a qualité autonome pour agir devant le Conseil constitutionnel. En revanche, exposer dès maintenant la substance de son grief : engagement dans la candidature, consentement, handicap, empêchement fonctionnel, demande faite au tiers, absence alléguée d'aménagement et effet d'exclusion.
+
+Objectif de subsidiarité : permettre aux juridictions nationales d'examiner cette difficulté avant toute éventuelle saisine personnelle de la CEDH par Mme Vernerey.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
