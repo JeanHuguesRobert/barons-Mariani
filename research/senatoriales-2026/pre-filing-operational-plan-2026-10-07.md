@@ -1,7 +1,7 @@
 ---
 title: "Sénatoriales Haute-Corse 2026 — plan opérationnel de dépôt au Conseil constitutionnel"
 author: "Jean Hugues Noël Robert"
-date: "2026-10-06"
+date: "2026-10-07"
 status: "active — pre-filing operational plan"
 language: "fr"
 document_role: "operational"
@@ -9,9 +9,10 @@ document_kind: "filing-plan"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.14.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
+  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "checklist-depot-requete-cc-2026-10-07.md"
+  - "matrice-canaux-materiels-depot-2026-10-07.md"
 review:
   status: "internal-correlated"
   reviewed_by:
@@ -89,8 +90,8 @@ Le paquet de dépôt doit être distingué du Corpus vivant.
 
 À figer :
 
-1. requête v0.14 ou version explicitement promue comme version de dépôt ;
-2. bordereau v0.8 ou version explicitement promue comme bordereau de dépôt ;
+1. requête v0.18 ou version explicitement promue comme version de dépôt ;
+2. bordereau v0.10 ou version explicitement promue comme bordereau de dépôt ;
 3. seules les pièces effectivement annexées ;
 4. pagination / noms de fichiers / ordre matériel ;
 5. SHA du ou des fichiers numériques si un support numérique est conservé ;
@@ -130,3 +131,18 @@ délai légal 18 h
 ~~~
 
 La stratégie de dépôt doit être conçue autour de la possibilité réelle d'obtenir une preuve de réception, non autour de la dernière minute théorique.
+
+
+## 8. Redondance matérielle
+
+Voir `matrice-canaux-materiels-depot-2026-10-07.md`.
+
+Règle :
+~~~text
+un seul paquet gelé
+→ plusieurs exemplaires identiques
+→ plusieurs voies de remise
+→ plusieurs preuves de réception
+~~~
+
+La préfecture et la Sous-préfecture n'ayant pas fourni de réponse substantielle retrouvée aux demandes des 26 et 28 septembre puis aux relances des 1er et 2 octobre sur le canal de dépôt, cette incertitude est elle-même documentée par **P-45**. Elle renforce l'intérêt pratique d'une stratégie redondante, sans créer de troisième canal juridique ni prouver une intention administrative.
