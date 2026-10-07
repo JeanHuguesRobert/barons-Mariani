@@ -11,7 +11,7 @@ visibility: "public"
 lifecycle_state: "active"
 related:
   - "requete-conseil-constitutionnel-projet-v0.18.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel.md"
   - "checklist-depot-requete-cc-2026-10-07.md"
   - "pre-filing-operational-plan-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
