@@ -2,7 +2,7 @@
 title: "Annexe — chronologie probatoire détaillée — requête sénatoriale Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "active — evolving until filing"
 language: "fr"
 document_role: "legal-annex"
@@ -18,7 +18,7 @@ intended_filing_role: "annexe chronologique incorporée au paquet de requête"
 
 Ordre : jour croissant → heure locale croissante → acte → source/pièce → statut → portée/limite.
 
-Statuts : ÉTABLI ; RAPPORTÉ ; INFÉRÉ ; UNKNOWN ; PLAN.
+Statuts : ÉTABLI ; RAPPORTÉ ; INFÉRÉ ; INCONNU ; PLAN.
 
 La chronologie ne remplace aucune pièce primaire.
 
@@ -40,6 +40,8 @@ La chronologie ne remplace aucune pièce primaire.
 |---|---|---|---|---|
 | 08:14:11 | Réponse du candidat annonçant son déplacement vers Bastia | P-07 — Gmail 1a08f1a2d612bb08 | ÉTABLI | Horaire prévu distinct du trajet exécuté. |
 | 08:42:59 | Réponse de Laurence : « Parfait » | Gmail 1a08f34a4c98db4a | ÉTABLI | Connaissance contemporaine du déplacement. |
+| heure à relever | **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** déjà disponible au dossier du candidat | Gmail 1a08ae5f35fd72f0 | ÉTABLI | Autorisation expresse d'utiliser sa signature sur le CERFA ; consentement à l'intervention matérielle du tiers. |
+| heure à relever | **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** | Gmail 1a0914a4db8cf48b | ÉTABLI | Désignation expresse de M. Robert comme porte-parole de la campagne. |
 | 09:45 | Départ ferroviaire prévu depuis Corte | horaire CFC | PLAN | Le candidat ne monte finalement pas à Corte. |
 | 10:29 | Départ effectif enregistré de Corte | Google Timeline | ÉTABLI | — |
 | après 10:29 | Stop près de L'Oriente puis trajet automobile vers une gare proche de Bastia | témoignage + traces | RAPPORTÉ | — |
@@ -61,7 +63,7 @@ La chronologie ne remplace aucune pièce primaire.
 | 16:14:05 | « J'accuse réception des documents » | P-11 — Gmail 1a090d1926fe460b | ÉTABLI | Aucun nouveau défaut mentionné dans ce message. |
 | ~17:30 | Préparation de la déclaration vidéo commune | notes/conversation | RAPPORTÉ + TRACE | — |
 | 17:45:55 | Création de VID_20260911_174455.mp4 | métadonnées | ÉTABLI | Original et empreinte à conserver. |
-| 17:57:55 | Envoi au BEDL du lien vers la vidéo | P-12 — Gmail 1a0913095d550884 | ÉTABLI | Émission établie ; réception serveur côté État UNKNOWN. |
+| 17:57:55 | Envoi au BEDL du lien vers la vidéo | P-12 — Gmail 1a0913095d550884 | ÉTABLI | Émission établie ; réception serveur côté État INCONNU. |
 | 18:00 | Clôture du dépôt des candidatures | règle applicable | ÉTABLI | Borne temporelle. |
 | 18:16 | Réception Télérecours de la saisine préfectorale | P-14 | ÉTABLI | Inventaire initial PREF-1 à PREF-16. |
 | 18:16 | Courriel/vidéo de 17:57 absent de l'inventaire initial | P-14 + comparaison | ÉTABLI | N'exclut pas une transmission ultérieure. |
@@ -86,11 +88,11 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 | 14:09:17 | Courriel préfecture + greffe signalant notamment l'absence apparente de la vidéo dans le dossier transmis | P-15 — Gmail 1a09fd25895322fe | ÉTABLI | Alerte avant audience. |
 | 14:09:26 | Accusé automatique de la préfecture | Gmail 1a09fd28135eb8c3 | ÉTABLI | — |
 | 15:00 | Ouverture audience | P-20 | ÉTABLI | — |
-| ouverture audience | Remise d'observations manuscrites | P-17 + témoignage | RAPPORTÉ + TRACE | Lien exact avec « Réception d'une lettre » Sagace UNKNOWN. |
+| ouverture audience | Remise d'observations manuscrites | P-17 + témoignage | RAPPORTÉ + TRACE | Lien exact avec « Réception d'une lettre » Sagace INCONNU. |
 | 15:15 | Clôture instruction | P-20 | ÉTABLI | — |
 | 15:48:32 | Note en délibéré + attestation CAF | P-19 / P-18 | ÉTABLI | — |
 | 15:49 | Enregistrement note en délibéré | P-20 / P-30 | ÉTABLI | Prise de connaissance avant décision confirmée par greffe. |
-| après 15:49, heure inconnue | Décision après prise de connaissance | P-30 + jugement | INFÉRÉ / PARTIELLEMENT ÉTABLI | Heure exacte UNKNOWN. |
+| après 15:49, heure inconnue | Décision après prise de connaissance | P-30 + jugement | INFÉRÉ / PARTIELLEMENT ÉTABLI | Heure exacte INCONNU. |
 
 ## 15 septembre 2026
 
@@ -175,6 +177,14 @@ Aucun acte matériel nouveau identifié. Audit Gmail final requis.
 | 10:58:26 | Demande lieu du collège électoral et proclamation | Gmail 1a0dceffdb9f6952 | ÉTABLI | RÉSERVE. |
 | 15:47:36 | Saisine Défenseur des droits | P-42 — Gmail 1a0ddf8ba0771c8b | ÉTABLI | Voie distincte, non suspensive. |
 
+## 14–27 septembre 2026 — fenêtre contentieuse avant irréversibilité
+
+Entre le jugement du Tribunal administratif du **14 septembre** et le scrutin du **27 septembre**, **treize jours calendaires** se sont écoulés.
+
+Cette période est juridiquement structurante pour la QPC L.303 : l'exclusion de la candidature n'était pas encore devenue électoralement irréversible, mais la seconde phrase de L.303 ne prévoyait aucune autre voie de contestation du jugement avant le contentieux de l'élection.
+
+Cette observation ne signifie pas qu'un recours préélectoral devant le Conseil constitutionnel était nécessairement constitutionnellement exigé. Elle identifie la période pendant laquelle un contrôle utile aurait encore pu prévenir la consommation du dommage.
+
 ## 27 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
@@ -243,8 +253,9 @@ FBF pré-dépôt : alignement requête / bordereau / inventaire / checklist ; cr
 | avant dépôt | Promotion requête v0.18 / bordereau v0.10 et ajout P-45 | GitHub | ÉTABLI comme travail préparatoire | Non déposé. |
 | avant dépôt | Matrice de redondance des canaux matériels | GitHub | ÉTABLI | Plusieurs voies, même paquet. |
 | avant dépôt | Protocole de constitution + audit Gmail + présente chronologie | GitHub | ÉTABLI | Contrôle pré-dépôt. |
-| à venir | Gel du paquet | À produire | UNKNOWN / À FAIRE | Fixer requête, annexe, bordereau, pièces et SHA. |
-| à venir | Remise(s) matérielle(s) | À produire | UNKNOWN / À FAIRE | Chaque voie doit produire sa preuve. |
+| avant dépôt | Création des deux mémoires QPC distincts : **L.299 — formalisme de candidature et empêchement fonctionnel du remplaçant** et **L.303 — garanties juridictionnelles de l'exclusion d'une candidature** | GitHub / dossiers QPC | ÉTABLI comme travail préparatoire | Doivent être joints au paquet final s'ils sont maintenus au dépôt. |
+| à venir | Gel du paquet | À produire | INCONNU / À FAIRE | Fixer requête, annexe, bordereau, pièces et SHA. |
+| à venir | Remise(s) matérielle(s) | À produire | INCONNU / À FAIRE | Chaque voie doit produire sa preuve. |
 | 18:00 | Expiration du délai contentieux déjà retenu par le dossier | règle applicable | ÉTABLI | Ne pas attendre cette heure pour remettre. |
 
 ## Contrôles de complétude encore ouverts
