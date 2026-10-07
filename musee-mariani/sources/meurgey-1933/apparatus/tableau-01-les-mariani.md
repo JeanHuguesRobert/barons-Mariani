@@ -223,7 +223,7 @@ Le tableau développe ensuite plusieurs ramifications visibles, notamment :
 - **Antoine Filippini**, époux d'**Émilie Fantauzzi** ;
 - **Louise Gautier**, épouse de **Joseph Fantauzzi (Fantauzzi de Caraccioli)**.
 
-Des générations suivantes **Fantauzzi** sont imprimées et annotées manuscritement à droite du cliché ; la photographie actuelle coupe partiellement cette continuation.
+La seconde lecture à haute résolution montre que **Louise Gautier × Joseph Fantauzzi** forme une branche distincte donnant notamment **Antoine Fantauzzi** et **Jules Fantauzzi**. Leur sœur **Sophie Fantauzzi** est l'épouse d'Albert Mariani. Cette constellation est donc une **alliance collatérale** et ne doit pas être absorbée dans la descendance de Madeleine Mariani / Michel Filippini. Des annotations manuscrites poursuivent les Fantauzzi à droite du cliché.
 
 ---
 
@@ -305,3 +305,31 @@ Sources secondaires de contrôle :
 - Man8Rove, profil de la famille Mariani/Mariany : https://man8rove.com/en/family/Mariany
 
 **Niveau de preuve : secondaire convergent.** Les actes de naissance/mariage/décès restent à rechercher pour fermeture primaire.
+
+## J. Seconde lecture topologique — Filippini / Fantauzzi / Gautier
+
+Le crop haute résolution de la partie droite du Tableau I permet désormais de mieux distinguer les ensembles.
+
+### Descendance Madeleine Mariani × Michel Filippini
+
+Les sources secondaires concordantes donnent trois enfants :
+
+- Marie-Louise Filippini × Jules Alexandre de Montbrun ;
+- Ange Filippini × Seignouret, avec au moins Marie-Thérèse Filippini × Léonard d'Arlot de Saint-Saud ;
+- Antoine-Dominique-Thomas-Louis Filippini (1852–1888) × Marie-Émilie Fantauzzi.
+
+Villa Flore et Geneanet donnent au couple Antoine Filippini × Émilie Fantauzzi **un enfant dans certaines bases**, mais l'identité de cet enfant n'est pas encore fermée ; d'autres vues affichent « pas de descendance enregistrée ». Ce point reste **discordant / à résoudre**.
+
+### Branche Joseph Fantauzzi × Louise Gautier
+
+Indépendamment, Joseph Fantauzzi (1832–1905) épouse Louise Marie Antoinette Thérèse Gautier en 1876 à Corte. Leurs enfants sont :
+
+- Sophie Fantauzzi (1879–1913), épouse Albert Mariani ;
+- Antoine Fantauzzi (1880–1957) ;
+- Jules Fantauzzi (né en 1881).
+
+Cela explique pourquoi Antoine et Jules apparaissent dans l'environnement graphique et dans la liste des « représentants » de 1933 sans être, dans cette chaîne, descendants Mariani.
+
+### Conséquence
+
+La catégorie `représentant_1933` doit rester distincte de `descendant_de_Mariani`.
