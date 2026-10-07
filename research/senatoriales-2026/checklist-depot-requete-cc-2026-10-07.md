@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.58"
+version: "0.59"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -252,43 +252,60 @@ Test final avant émission :
 Si la réponse est non, la sortie ne doit pas être émise en l'état.
 
 
-### Gel du paquet PDF — builds éphémères, artefact unique, Release immuable
+### Gel des artefacts — paquet juridictionnel complet et édition publique expurgée
 
-Le PDF d'assemblage final suit un protocole distinct de la rédaction des sources.
+Le dépôt juridictionnel et la publication publique sont désormais deux artefacts distincts issus d'une même lignée de sources.
 
 ~~~text
-SOURCES / CONTRAT
+SOURCES / CONTRÔLES COMMUNS
 → versionnés dans Git
 
-BUILDS PDF INTERMÉDIAIRES
-→ locaux / temporaires
-→ jamais commités
+PAQUET JURIDICTIONNEL COMPLET
+→ contrat local-only
+→ pièces nécessaires au juge, y compris les pièces non publiques
+→ builds locaux / privés
+→ SHA-256 canonique du fichier effectivement transmis
+→ aucune GitHub Release publique
 
-CANDIDAT VALIDÉ
-→ SHA-256 local
-→ GitHub Release en brouillon
-→ upload
-→ retéléchargement
-→ comparaison SHA-256
-
-PUBLICATION
-→ acte distinct
-→ Release immuable
-→ URL définitive
+ÉDITION PUBLIQUE EXPURGÉE
+→ contrat distinct
+→ uniquement sources publiables ou dérivés correctement expurgés
+→ SHA-256 distinct
+→ GitHub Release éventuelle, seulement après validation humaine explicite
 ~~~
 
 Règles impératives :
 
-- aucun build intermédiaire ne doit polluer l'historique Git ;
-- le contrat d'assemblage doit nommer chaque composant et son ordre ;
-- toute pièce requise sans fichier matérialisé bloque le build final ;
-- `freeze` et `publish` sont des opérations distinctes ;
-- la création de la Release en brouillon ne vaut pas dépôt ;
-- la publication de la Release est un acte externe terminal et doit rester explicitement autorisée ;
-- l'empreinte SHA-256 du fichier local, du fichier retéléchargé depuis la Release en brouillon et du fichier public après publication doit être identique ;
-- le lien communiqué doit désigner l'asset de la Release gelée, non une branche mutable telle que `main`.
+- **un contrat décrit un artefact** ;
+- le paquet juridictionnel complet est l'objet de référence pour ce qui a effectivement été remis au Conseil constitutionnel ;
+- l'édition publique est une **projection dérivée**, jamais une preuve que toutes les pièces juridictionnelles ont été publiées ;
+- une pièce nécessaire au juge ne devient jamais publiable du seul fait qu'elle est nécessaire au contentieux ;
+- les pièces privées ou sensibles restent hors Git et hors Release publique, sauf autorisation de publication distincte et proportionnée ;
+- une omission ou occultation de l'édition publique doit être explicite : le lecteur doit pouvoir distinguer « non produit au juge » de « produit au juge mais non reproduit publiquement » ;
+- les deux artefacts ont des noms, manifestes et SHA-256 distincts ;
+- les builds intermédiaires restent locaux / temporaires et ne sont jamais commités ;
+- toute pièce requise sans fichier matérialisé bloque le paquet juridictionnel ;
+- toute dérivation publique non encore expurgée bloque l'édition publique ;
+- `freeze` et `publish` ne sont disponibles que pour un contrat possédant un bloc `release` ;
+- la publication d'une Release reste un acte externe terminal nécessitant une autorisation humaine spécifique.
 
-Contrat courant : `research/senatoriales-2026/filing-package-2026-10-07.yml`.
+Contrats courants :
+
+- paquet juridictionnel complet, **local-only** : `research/senatoriales-2026/filing-package-2026-10-07.yml` ;
+- édition publique expurgée, **bloquée tant que les dérivés publics ne sont pas matérialisés** : `research/senatoriales-2026/filing-package-public-2026-10-07.yml`.
+
+Invariant :
+
+~~~text
+PAQUET JURIDICTIONNEL COMPLET
+≠ ÉDITION PUBLIQUE EXPURGÉE
+
+même lignée de sources
+→ contrats distincts
+→ artefacts distincts
+→ SHA-256 distincts
+→ droits de diffusion évalués séparément
+~~~
 
 ### Règle de style à deux vitesses
 
@@ -1843,3 +1860,8 @@ Ajout d'un gate terminal obligatoire : toute sortie candidate est relue contre l
 - alignement du contrat d'assemblage sur toutes les pièces effectivement invoquées dans la requête et les mémoires QPC ;
 - retrait de la qualification de « pièce autonome » pour les antécédents purement contextuels qui ne sont pas destinés au paquet de dépôt ;
 - invariant de contrôle : toute référence P-xx restant dans la requête ou dans un mémoire QPC doit avoir une représentation explicite dans le contrat d'assemblage, sauf mention expresse d'un ensemble non produit en bloc.
+
+
+## UPDATE — 7 octobre 2026 — v0.59 / séparation juridictionnel-public
+
+Le gel est scindé en deux artefacts. Le contrat `filing-package-2026-10-07.yml` décrit désormais le **paquet juridictionnel complet local-only** et ne peut plus être publié par GitHub Release. Le contrat `filing-package-public-2026-10-07.yml` décrit une **édition publique expurgée distincte** et reste volontairement bloqué tant que ses dérivés publics n'ont pas été matérialisés et contrôlés. Une pièce nécessaire au juge ne devient pas publiable du seul fait de son utilité probatoire.
