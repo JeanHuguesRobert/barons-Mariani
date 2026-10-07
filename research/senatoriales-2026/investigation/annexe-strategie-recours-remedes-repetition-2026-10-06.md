@@ -3,8 +3,8 @@ title: "Annexe stratégique — recours, remèdes, répétition et effectivité"
 subtitle: "Sénatoriales Haute-Corse 2026 — architecture CC / QPC / Défenseur des droits / CEDH"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-06"
-version: "0.1"
-status: "working-note"
+version: "0.2"
+status: "active — filing annex"
 language: "fr"
 document_role: "annex"
 document_kind: "legal-strategy"
@@ -12,10 +12,11 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "../requete-conseil-constitutionnel-projet-v0.14.md"
+  - "../requete-conseil-constitutionnel.md"
   - "architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
-  - "../qpc/qpc-a-candidature-senatoriale-2026.md"
+  - "../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md"
+  - "../qpc/memoire-qpc-l303-garanties-juridictionnelles.md"
   - "sources/saisine-defenseur-droits-2026-09-26.md"
 ---
 
@@ -52,7 +53,7 @@ En cas d'annulation des opérations électorales d'une circonscription sénatori
 Source officielle :  
 https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353763/
 
-## 3. La proclamation directe : un probe, pas une prétention factuelle
+## 3. La proclamation directe : une expérience de pensée juridique, pas une prétention factuelle
 
 La demande de proclamation directe de M. Robert est maintenue **à titre infiniment subsidiaire**.
 
@@ -62,11 +63,11 @@ Elle ne signifie pas :
 
 Aucun suffrage valable n'a pu être exprimé pour une candidature non enregistrée ; le résultat ne permet donc pas de reconstituer directement un nombre de voix valides permettant une proclamation ordinaire.
 
-Sa fonction méthodologique est différente :
+Sa fonction de raisonnement est différente :
 
 > **tester l'affirmation selon laquelle, face à un dommage temporel irréversible, aucun remède juridique ne serait concevable.**
 
-Le probe force à séparer trois propositions :
+Cette expérience de pensée force à séparer trois propositions :
 
 1. ce remède extrême est-il juridiquement disponible ?
 2. si non, quels autres pouvoirs correctifs le Conseil conserve-t-il ?
@@ -82,30 +83,48 @@ Une décision ultérieure peut réparer l'élection en tant qu'opération juridi
 
 Cette observation ne crée pas un droit autonome à une décision immédiate. Elle explique pourquoi l'effectivité du remède doit être appréciée aussi dans le temps.
 
-## 5. Deux pistes de QPC, deux objets
+## 5. Deux QPC distinctes, deux objets généraux
 
-### QPC A — candidature sénatoriale et formalités
+Les deux QPC ne se réduisent ni aux personnes de la présente affaire ni à ses circonstances particulières. Le litige fournit leur occasion procédurale et démontre leur applicabilité ; les questions posées portent sur des normes générales.
 
-La première piste vise la disposition législative applicable aux formalités de candidature sénatoriale, en premier lieu l'article L.299 du code électoral.
+### QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant
 
-L'objet est de tester, si les conditions de l'article 61-1 sont réunies, la conformité de la disposition elle-même aux droits et libertés constitutionnellement garantis, notamment lorsque le remplaçant est empêché par un handicap d'accomplir personnellement certaines formalités.
+Cette QPC porte sur l'effet qu'une formalité de signature et de mention manuscrite imposée au remplaçant peut produire sur le **droit d'éligibilité du candidat principal** lorsque le remplaçant est empêché par un handicap permanent ou provisoire d'accomplir personnellement le geste, alors que son identité et son consentement éclairé peuvent être établis.
 
-La mauvaise application alléguée d'un texte ne suffit pas à constituer une QPC.
+Le point central n'est pas d'abolir le formalisme électoral. Il est de savoir si ce formalisme peut devenir éliminatoire lorsque la même finalité probatoire peut être préservée par une adaptation moins restrictive déjà reconnue, dans un régime voisin, par le Conseil d'État le 14 mai 2021.
 
-### QPC B — effectivité / autonomie
+Le mémoire distinct est :
 
-La seconde piste porte sur l'effectivité et l'articulation avec l'autonomie.
+`../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`
 
-Elle demeure distincte et exploratoire. Elle ne doit être jointe au contentieux que si quatre éléments sont stabilisés :
+### QPC — article L.303 : garanties juridictionnelles de l'exclusion d'une candidature
 
-1. une disposition législative exacte applicable au litige ;
-2. un droit ou une liberté constitutionnellement garanti ;
-3. un lien réel avec la solution du litige ;
-4. un caractère nouveau ou sérieux.
+Cette QPC vise spécialement la seconde phrase de l'article L.303 : le jugement du Tribunal administratif « ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection ».
 
-> **Deux pistes ne signifient pas deux QPC à déposer à tout prix.**
+Elle ne réclame pas un droit abstrait à un double degré de juridiction et ne soutient pas que le Conseil constitutionnel devait nécessairement être saisi lui-même avant le scrutin.
 
-Une QPC faible doit être abandonnée ou retravaillée.
+Elle pose une question plus étroite : **le législateur peut-il fermer toute voie de contestation utile pendant la période qui sépare le jugement d'exclusion du scrutin, alors que l'atteinte au droit d'éligibilité peut encore être évitée ?**
+
+Dans le présent cas :
+- jugement du Tribunal administratif : **14 septembre 2026** ;
+- scrutin : **27 septembre 2026** ;
+- intervalle : **treize jours calendaires** ;
+- délai maximal laissé au Tribunal administratif par L.303 : **trois jours**.
+
+Ce contraste temporel est central : la célérité explique qu'un juge statue rapidement ; elle explique moins aisément qu'aucune voie de contrôle utile ne soit ouverte pendant une période où le dommage n'est pas encore irréversible.
+
+Le mémoire distinct est :
+
+`../qpc/memoire-qpc-l303-garanties-juridictionnelles.md`
+
+### Articulation commune
+
+Pour chacune des deux QPC, le contrôle porte séparément sur :
+1. l'applicabilité de la disposition ;
+2. l'absence de déclaration antérieure de conformité faisant obstacle ;
+3. le droit ou la liberté constitutionnellement garanti ;
+4. le caractère nouveau ou sérieux de la question ;
+5. le lien entre l'atteinte alléguée et la loi elle-même, et non seulement son application.
 
 ## 6. Défenseur des droits
 
@@ -126,7 +145,7 @@ Cette saisine :
 
 ## 7. CEDH : après la fermeture interne, pas comme appel
 
-La CEDH n'est pas une juridiction d'appel du Conseil constitutionnel.
+La CEDH n'est pas une juridiction d'appel du Conseil constitutionnel. La requête nationale a néanmoins aussi pour fonction de **préserver dès maintenant, en substance, les griefs conventionnels susceptibles d'être ultérieurement portés à Strasbourg**, afin de satisfaire au principe de subsidiarité et à l'exigence d'épuisement des recours internes.
 
 La décision du Conseil constitutionnel ferme la voie de recours interne ordinaire en matière de contestation de cette élection. Une requête européenne éventuelle devrait ensuite invoquer un **grief conventionnel propre** et satisfaire aux conditions de recevabilité applicables, notamment :
 
