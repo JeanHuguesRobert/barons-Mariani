@@ -98,11 +98,13 @@ La doctrine n’est pas conçue comme un catalogue fermé de mesures. Cette gram
 
 L’Atlas cartographie les acteurs, terrains rhétoriques, axes de polarisation et angles morts du débat corse. Il sert de carte de travail, non de programme figé.
 
-### 4. La mise à jour : septembre 2026
+### 4. Les mises à jour de la carte
 
-➡️ [**Atlas du paysage politique et discursif corse — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md)
+➡️ [**Atlas — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) — photographie de la transition Assemblée nationale → Sénat avant le scrutin.
 
-Cette couche met l’Atlas à jour après l’adoption du projet de loi constitutionnelle par l’Assemblée nationale et son passage au Sénat. Elle documente notamment le déplacement du centre de gravité institutionnel vers la séquence sénatoriale d’octobre 2026 et rappelle que C.O.R.S.I.C.A. figure parmi les contributions écrites au rapport n° 2865, sans en déduire une influence causale sur le texte.
+➡️ [**Atlas — addendum octobre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) — **carte courante**, après le scrutin sénatorial du 27 septembre et pendant le renouvellement des instances du Sénat.
+
+L’addendum de septembre reste une couche historique utile. L’addendum d’octobre est la référence pour l’état politique et institutionnel courant.
 
 ### 5. La continuité parlementaire : Assemblée nationale → Sénat
 
@@ -114,7 +116,7 @@ Parcours documentaire court entre la contribution C.O.R.S.I.C.A. de mai 2026, le
 
 ➡️ [**Amendement d’effectivité — version parlementaire candidate et note de justification**](../autonomia/amendement_effectivite_article_72-5.md)
 
-La version publique **`0.4-rc4`**, publiée le 26 septembre 2026, ouvre désormais par un dispositif court conforme à la forme habituelle d’un amendement parlementaire. Au lieu d’ajouter un alinéa autonome, elle propose de **reformuler la première phrase de l’alinéa 6** du texte n° 782, déjà consacré à la loi organique, au contrôle et à l’évaluation.
+La version courante **`0.5-rc1`**, issue de la consolidation de fin septembre 2026, ouvre désormais par un dispositif court conforme à la forme habituelle d’un amendement parlementaire. Au lieu d’ajouter un alinéa autonome, elle propose de **reformuler la première phrase de l’alinéa 6** du texte n° 782, déjà consacré à la loi organique, au contrôle et à l’évaluation.
 
 Le delta cherche à rendre observables trois niveaux : les conditions de mise en œuvre effective des facultés, l’évaluation périodique de cette mise en œuvre — notamment l’accès aux habilitations et leur exercice — et ses effets au regard de l’effectivité de **Liberté, Égalité, Fraternité**.
 
@@ -186,7 +188,7 @@ Pour une première exploration, quatre documents suffisent :
 
 1. [**Note synthétique — état au 7 octobre 2026**](../note_synthetique_autonomie_capacite_corse.md) — la porte d’entrée parlementaire courante ;
 2. [**Autonomia**](../autonomia.md) — la doctrine ;
-2. [**Atlas — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) — l’état actuel de la carte ;
+3. [**Atlas — addendum octobre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) — l’état actuel de la carte ;
 4. [**Observatoire public**](../autonomia/observatoire_processus_autonomie_corse.md) — le suivi du processus réel.
 
 Pour comprendre **comment la doctrine produit des propositions**, ajouter la [Grammaire générative](../autonomia/grammaire_autonomie_de_capacite.md).
