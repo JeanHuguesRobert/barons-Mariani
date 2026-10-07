@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.39"
+version: "0.40"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -719,6 +719,25 @@ Test obligatoire :
 
 Si la réponse est non, la trace de fabrication doit être retirée du corps.
 
+
+### Règle d'ergonomie — toujours fournir un lien directement cliquable
+
+Lorsqu'un document, une annexe, une requête, un bordereau, une note ou toute autre ressource GitHub est proposée à la lecture de Jean Hugues Noël Robert, la réponse doit fournir directement son **URL complète et cliquable**.
+
+Un chemin de dépôt, un nom de fichier, un numéro de version, un SHA de commit ou une référence interne ne suffit pas lorsqu'il s'agit d'inviter à ouvrir le document.
+
+À éviter :
+
+`research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md`
+
+À fournir :
+
+`https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.27.md`
+
+Le chemin interne peut être ajouté pour la traçabilité, mais jamais à la place du lien utilisable.
+
+Cette règle vaut aussi dans les échanges conversationnels avec l'auteur : ne pas lui imposer de reconstruire une URL à partir d'informations techniques déjà connues du système.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1333,3 +1352,8 @@ Le plan de contrôle explicite une règle plus générale : aucune convention pa
 ## UPDATE — 7 octobre 2026 — v0.38 / suppression des traces de fabrication
 
 Les références aux versions internes de la requête et aux étapes de rédaction sont interdites dans le corps juridictionnel. Le texte expose directement l'état courant du raisonnement ; l'historique de fabrication reste dans le plan de contrôle et dans Git.
+
+
+## UPDATE — 7 octobre 2026 — v0.40 / liens directement utilisables
+
+Ajout d'une règle d'ergonomie : lorsqu'un document GitHub est proposé à la lecture, fournir systématiquement son URL complète et cliquable. Un chemin de fichier ou une référence technique peut compléter le lien, mais ne doit jamais le remplacer.
