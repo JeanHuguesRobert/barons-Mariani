@@ -72,8 +72,39 @@ Chaque exemplaire peut porter une mention de traçabilité du type :
 | **E** | Représentant de l'État | Lettre recommandée / express à la préfecture | Même limite : seule la réception utile avant l'échéance sécurise | aléa postal | avis de réception / remise avant 18 h | **SECONDAIRE seulement si réception garantie** |
 | **F** | Représentant de l'État | Remise par commissaire de justice / porteur mandaté à la préfecture | **Adjoint probatoire**, pas troisième canal juridique | disponibilité du professionnel / acceptation matérielle | acte/constat de remise ou de tentative + récépissé administratif | **REDONDANCE PROBATOIRE** |
 | **G** | Représentant de l'État ? | Remise à la sous-préfecture de Corte | **NON ÉTABLI** : l'art. 34 vise le représentant de l'État ; aucune source examinée ne confirme que la sous-préfecture reçoit ce contentieux pour son compte | risque d'incompétence matérielle / routage tardif | confirmation écrite préalable de la préfecture + récépissé | **NE PAS COMPTER COMME CANAL SÛR SANS CONFIRMATION** |
-| **H** | Préfecture / Conseil | Courriel avec PDF du paquet | **NON ACQUIS comme mode de saisine du requérant** ; l'art. 34 mentionne l'électronique pour la transmission préfet→Conseil | risque d'irrecevabilité si utilisé seul | accusé institutionnel explicite | **COPIE D'INFORMATION / TRACE, JAMAIS SEUL** |
+| **H** | Représentant de l’État / Préfecture | SVE, téléservice officiel ou envoi électronique institutionnel du paquet | **Juridiquement argumentable** par art. 34 + CRPA L.112-8 s. ; applicabilité spéciale à confirmer | risque si canal spécial/exclusion applicable ou si absence de preuve de réception | AR/AE électronique avec date + service + EML/MIME + SHA | **REDONDANCE FORTE, PAS UNIQUE** |
 | **I** | Préfecture / Conseil | Télécopie, si numéro institutionnel utilisable | **NON ÉTABLI** par les sources examinées | preuve de contenu/réception imparfaite, procédure non publiée | rapport de transmission + confirmation téléphonique/écrite | **TRACE REDONDANTE seulement** |
+
+## 3 bis. Voie électronique vers le représentant de l'État
+
+La qualification antérieure « courriel = simple copie de traçabilité » est trop catégorique.
+
+Le droit positif fournit un faisceau plus nuancé :
+
+- l'article 34 exige une **requête écrite adressée** au représentant de l'État, sans imposer expressément le papier ;
+- l'article L.112-8 CRPA reconnaît en principe la saisine d'une administration par voie électronique ;
+- L.112-9 et R.112-9-2 organisent les téléservices et, à défaut d'information sur un téléservice, admettent en principe tout type d'envoi électronique ;
+- L.112-11 et R.112-11-1 organisent l'accusé électronique et la date de réception.
+
+Cette articulation rend le **dépôt électronique auprès du représentant de l'État juridiquement argumentable**.
+
+Elle reste toutefois classée **REDONDANCE FORTE / NON UNIQUE** tant qu'aucun texte, décret d'exclusion, téléservice spécifique ou confirmation institutionnelle n'a définitivement fermé la question pour le contentieux de l'article 34.
+
+Note détaillée :
+`note-depot-dematerialise-requete-cc-2026-10-07.md`.
+
+Règle de mise en œuvre :
+
+~~~text
+même paquet gelé
+→ SVE / téléservice officiel si disponible
+→ boîtes institutionnelles actives si approprié
+→ demande expresse d'AR daté
+→ conservation EML/MIME + DSN + AR
+→ SHA-256 des fichiers
+~~~
+
+Le canal électronique ne doit pas remplacer les voies physiques redondantes tant que son acceptation spéciale n'est pas confirmée.
 
 ## 4. Date de réception, non simple date d'envoi
 
