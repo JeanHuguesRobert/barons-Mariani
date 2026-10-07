@@ -189,6 +189,18 @@ sources:
     required: false
     note: "Formalizes the transition from observed effects to institutional re-examination: knowledge/knowability, capable authority, reasonable reaction time and informed persistence. Use as a test framework, never as automatic proof of fault."
 
+  - id: effectivity-interaction-matrix
+    path: https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md
+    role: operational-effectivity-observation-specification
+    required: false
+    note: "Generic EIM v0.2. Observes interactions as capability transitions and preserves key distinctions: silence != refusal, routing != substantive disposition, current evidence != evidence available at the relevant time, and interaction log != normative judgment."
+
+  - id: living-book-checklist
+    path: https://github.com/JeanHuguesRobert/cogentia/blob/main/research/living_book_checklist.md
+    role: living-book-normative-checklist
+    required: false
+    note: "Normative Living Book specification formalizing the five constitutive faces, the Three Machines, Revelator/Stabilizer, Corpus/projection/edition segregation, Janus temporal discipline and public correction path."
+
   - id: capable-public-movement
     path: projects/capable/README.md
     role: public-political-projection
@@ -340,11 +352,17 @@ sources:
     required: false
     note: "Keeps scrutiny analysis, electoral petition, pre/post-election amendment versions and QPC research aligned without merging their procedures."
 
+  - id: senatoriales-2026-constitutional-petition-current
+    path: research/senatoriales-2026/requete-conseil-constitutionnel.md
+    role: canonical-legal-draft
+    required: false
+    note: "Canonical current petition path. Version is carried in frontmatter and may evolve until effective filing; current state as of 2026-10-07 is v0.30, pre-filing and not filed. Do not infer filing without a separate receipt trace."
+
   - id: senatoriales-2026-constitutional-petition-v0-2
     path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md
-    role: legal-draft
+    role: historical-legal-draft
     required: false
-    note: "Working draft for human review. It must not be described as filed unless a separate receipt trace establishes filing."
+    note: "Historical early working draft retained for provenance. It is not the current petition."
 
   - id: senatoriales-2026-constitutional-petition-current
     path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.15.md
