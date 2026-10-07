@@ -1260,6 +1260,21 @@ P-20 n'est plus un verrou de localisation. Priorité restante : matérialiser ce
 
 Règle : ne pas présenter comme établi que le PDF de 10 pages a été physiquement déposé. Produire P-16 comme document de défense préparé pour l'audience et conserver la question de l'identification de la « lettre » comme inconnue probatoire.
 
+
+### P-46 assemblée comme registre de contrôle — v0.57
+
+Créé :
+`investigation/recueil-p46-correspondance-prefecture-ta-2026-10-07.md`
+
+Contrôle :
+- 46 références P-46.01 à P-46.46 ;
+- 46 Gmail IDs retrouvés ;
+- heure normalisée Europe/Paris ;
+- expéditeur, destinataires, objet et pièces jointes indexés ;
+- secrets techniques non reproduits dans le registre public.
+
+Le registre public garantit l'exhaustivité. Le paquet matériel doit encore contenir les représentations intégrales utiles ou exports natifs des 46 messages.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
