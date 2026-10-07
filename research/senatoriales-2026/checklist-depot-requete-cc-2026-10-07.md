@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.57"
+version: "0.58"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1146,6 +1146,18 @@ Contrôle : **46/46** messages présents.
 Contrôle anti-fuite sur les copies publiques : aucune adresse privée ciblée de Laurence/Maguy, aucun lien France Transfert et aucun mot de passe non occulté détectés.
 
 Les Gmail natifs restent les sources primaires.
+
+
+### P-16 matérialisée avec réserve de provenance
+
+**P-16 — mémoire en défense devant le Tribunal administratif** :
+- reproduction candidate matérialisée : `observations_ecrites_defense_TA_Bastia_2601714_2601715_2026-09-14.pdf` ;
+- taille : 55 546 octets ;
+- SHA-256 : `d9e2b1672df34526c884b6ef10af01e46ef9d4ee21c925eeb6811d3d4ddcb60a`.
+
+Éléments concordants : requête stable = dépôt du mémoire à l'audience ; jugement = observations écrites et orales ; Sagace = production écrite le 14 septembre.
+
+Limite : aucune trace indépendante ne rattache avec certitude **ce binaire précis** à l'exemplaire matériel détenu par le TA. Ne jamais transformer cette concordance en identité binaire prouvée.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
