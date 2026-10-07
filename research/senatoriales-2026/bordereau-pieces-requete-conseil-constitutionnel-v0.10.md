@@ -15,7 +15,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 source_documents:
-  - "requete-conseil-constitutionnel-projet-v0.19.md"
+  - "requete-conseil-constitutionnel-projet-v0.23.md"
   - "inventaire_probatoire_exhaustif_pieces_preuves.md"
   - "investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
 provenance:
@@ -204,3 +204,10 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 - rattache le bureau La Poste CORTE à son adresse officielle, Avenue du Baron Mariani, 20250 Corte ;
 - distingue la vérification externe de l'adresse du témoignage du requérant selon lequel la photographie de la plaque a été prise en sortant du bureau après retrait du pli ;
 - impose la sous-numérotation et le contrôle des identifiants postaux, dates/cachets et SHA-256.
+
+
+## UPDATE v0.10 — alignement v0.23
+
+- la requête courante devient **v0.23** ;
+- aucun numéro de pièce n'est modifié par cette promotion ;
+- le bordereau reste v0.10 tant que la composition P-01 à P-45 ne change pas matériellement.
