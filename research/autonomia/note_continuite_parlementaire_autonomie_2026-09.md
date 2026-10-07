@@ -331,7 +331,7 @@ mise à disposition publique
 → reprise éventuelle
 ```
 
-Le canal de mai 2026 fournit un précédent où la transmission à la commission puis la mention dans le rapport sont documentées. Pour l'amendement de septembre, ces états ne sont pas présumés : ce que le Corpus ne documente pas encore reste `UNKNOWN` ou `PENDING`.
+Le canal de mai 2026 fournit un précédent où la transmission à la commission puis la mention dans le rapport sont documentées. Pour l'amendement de septembre, ces états ne sont pas présumés : ce que le Corpus ne documente pas encore reste `UNKNOWN (inconnu)` ou `PENDING (en attente)`.
 
 Cette instrumentation ne transforme donc ni l'existence publique du texte en preuve d'influence, ni un silence en refus.
 
