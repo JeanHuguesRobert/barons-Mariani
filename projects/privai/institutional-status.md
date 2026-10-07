@@ -4,8 +4,8 @@ description: Note de travail préparant la correction de la doctrine institution
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-04'
-version: '0.1'
+last_modified_at: '2026-10-07'
+version: '0.2'
 status: working-paper
 license: CC BY-SA 4.0
 language: fr
@@ -59,7 +59,7 @@ La première rédaction de ce fichier résumait trop vite la note locale par « 
 - cette personnalité juridique propre n'est pas encore acquise ;
 - une phrase candidate ajoute que, dans l'intervalle, l'initiative serait portée juridiquement par l'association C.O.R.S.I.C.A.
 
-Cette dernière phrase contredit les sources déjà publiées tant que les statuts ne l'établissent pas. Elle n'est pas l'état public de la projection.
+Cette dernière phrase contredit les sources déjà publiées et n’est pas établie par les statuts actuellement démontrés. Les statuts fondateurs du 25 décembre 1995 ont désormais été relus et transcrits : leur objet porte sur la promotion de la Corse sur Internet et ils ne prévoient pas expressément le portage d’une future PrivAI Foundation. La phrase reste donc une proposition institutionnelle non adoptée et non effective.
 
 ## Formulation candidate
 
@@ -75,12 +75,12 @@ Remplacer la négation générale du portage juridique par une formulation disti
 
 ## Lecture retenue le 4 octobre 2026
 
-La projection publique utilise la phrase déjà publiée par `acorsica/privai` : périmètre de développement, pas portage juridique. La candidate de Foundation n'est pas promue au rang de fait. Les notes de juin et le dépôt de septembre ne sont pas réécrits. Les statuts de C.O.R.S.I.C.A. n'ont pas été ouverts.
+La projection publique utilise la phrase déjà publiée par `acorsica/privai` : périmètre de développement, pas portage juridique. La candidate de Foundation n'est pas promue au rang de fait. Les notes de juin et le dépôt de septembre ne sont pas réécrits. Les statuts de C.O.R.S.I.C.A. ont depuis été ouverts, transcrits et vérifiés contre le scan signé. Ils constituent la baseline statutaire opératoire actuellement démontrée. Ils ne suffisent pas à établir le portage juridique de PrivAI Foundation.
 
 ## Vérifications avant stabilisation
 
 - confirmer le vocabulaire exact : « portée juridiquement », « hébergée », ou seulement « périmètre » ;
-- vérifier les statuts de C.O.R.S.I.C.A. si une portée juridique plus précise est affirmée ;
+- toute portée juridique plus précise doit désormais être confrontée explicitement aux statuts 1995 actuellement applicables et, si nécessaire, à une modification statutaire adoptée et rendue effective ;
 - relire `acorsica/institut-mariani` avant de dire ce qu'est l'émanation de recherche ;
 - aucune occurrence résiduelle de `PrivaAI` n'a été trouvée dans ce dépôt le 4 octobre 2026, hors la présente consigne de recherche.
 
@@ -89,9 +89,29 @@ La projection publique utilise la phrase déjà publiée par `acorsica/privai` :
 La contradiction apparente entre la formule « ni portage juridique » et la mention d'une « PrivAI Foundation portée par C.O.R.S.I.C.A. » est résolue par la doctrine d'émanation établie dans `acorsica/institut-mariani` (`mission.md`) et la charte d'étanchéité (`gouvernance/interet-general-et-separation-politique.md`) :
 
 1. **Nature de l'Institut Mariani** : L'Institut Mariani n'est pas une personne morale distincte, mais l'émanation fonctionnelle de R&D de l'association C.O.R.S.I.C.A. (SIREN 840 998 520).
-2. **Mission de préfiguration** : Les statuts et la lettre de mission de l'Institut Mariani lui confient expressément la *préfiguration institutionnelle* d'initiatives appelées à acquérir à terme leur propre personnalité juridique (dont PrivAI, FractaVolta et le futur fonds Barons Mariani).
+2. **Mission de préfiguration** : La lettre de mission 2026 de l'Institut Mariani lui attribue une fonction de *préfiguration institutionnelle* d'initiatives appelées à acquérir éventuellement leur propre personnalité juridique (dont PrivAI, FractaVolta et le futur fonds Barons Mariani). **Cette mission n'est pas conférée expressément par les statuts 1995 de C.O.R.S.I.C.A.**
 3. **Périmètre d'hébergement R&D** : PrivAI est hébergé fonctionnellement dans ce périmètre de préfiguration pour la recherche, la production de communs et les épreuves de conformance.
 4. **Stricte étanchéité** : Cet hébergement fonctionnel ne vaut ni fusion des personnes, ni exploitation commerciale par C.O.R.S.I.C.A., ni engagement politique, ni responsabilité conjointe indifférenciée.
-5. **Formulation canonique stabilisée** :
-   > « PrivAI est une initiative en préfiguration institutionnelle au sein de l'Institut Mariani, émanation recherche et développement de l'association C.O.R.S.I.C.A., en vue de la constitution future d'une fondation indépendante (PrivAI Foundation). »
+5. **Formulation de travail révisée** :
+   > « PrivAI est une initiative en préfiguration institutionnelle dans le périmètre fonctionnel de l'Institut Mariani. Cette préfiguration ne vaut pas, à elle seule, portage juridique par C.O.R.S.I.C.A. ; un tel portage doit être établi séparément au regard des statuts applicables, des décisions de l'organe compétent et de leur effectivité. »
 
+
+
+## Effet de la vérification statutaire du 7 octobre 2026
+
+Le référentiel désormais démontré est `projects/institut/preparation/current-statutes-baseline.md`, adossé à la transcription vérifiée du scan signé : `projects/institut/sources/statuts-corsica-1995-transcription.md`.
+
+Conséquence :
+
+~~~text
+mission fonctionnelle Institut 2026
+→ ESTABLISHED comme doctrine / document institutionnel de travail
+
+pouvoir statutaire explicite de porter PrivAI Foundation
+→ NOT ESTABLISHED
+
+portage juridique effectif de PrivAI Foundation par C.O.R.S.I.C.A.
+→ NOT ADOPTED / NOT EFFECTIVE
+~~~
+
+Une future décision peut rendre ce portage explicite, mais elle doit alors respecter les statuts applicables et, si l'objet associatif doit être élargi, la procédure de modification statutaire.
