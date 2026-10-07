@@ -4,13 +4,14 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-26'
-version: '0.6'
-status: working-paper — observatory_v0.6
+version: '0.7'
+status: working-paper — observatory_v0.7
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 function: public_process_observatory
 target_scene: autonomy_watch_and_citizen_control
+snapshot_as_of: '2026-10-07T07:36:00+02:00'
 document_role: source
 document_kind: registry
 visibility: public
@@ -47,7 +48,8 @@ changelog:
   - 'v0.4 (2026-09-26) — ajout de la distinction autonomie formelle / possible / de capacité, de l’amendement d’effectivité v0.3-rc1 et de la fenêtre post-scrutin du 27 septembre.'
   - 'v0.5 (2026-09-26) — propagation de la publication de l’amendement d’effectivité v0.4-rc4 : forme parlementaire candidate, intégration dans l’alinéa organique existant, revue adverse accomplie et fenêtre sénatoriale explicitée.'
   - 'v0.6 (2026-10-06) — instrumentation EIM-H4 : séparation explicite entre publication, réception, routage, examen et reprise parlementaire ; inconnues conservées.'
-last_modified_at: '2026-10-06'
+  - 'v0.7 (2026-10-07) — intégration du scrutin sénatorial du 27 septembre, du renouvellement des instances du Sénat et de l’audition ministérielle du 7 octobre ; rapporteur maintenu inconnu jusqu’à publication officielle.'
+last_modified_at: '2026-10-07'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -62,6 +64,45 @@ provenance:
 
 
 # Observatoire public du processus d’autonomie de la Corse
+
+## 0 bis. État courant — 7 octobre 2026, 7 h 36
+
+### Représentation sénatoriale corse
+
+Le scrutin du 27 septembre 2026 a reconduit :
+
+- **Paul Toussaint Parigi** en Haute-Corse : 442 voix sur 530 exprimées (83,40 %) ;
+- **Jean-Jacques Panunzi** en Corse-du-Sud : 293 voix sur 452 exprimées (64,82 %).
+
+En Haute-Corse, 606 électeurs ont voté ; 36 bulletins sont blancs et 40 nuls. En Corse-du-Sud, 458 électeurs ont voté ; 2 bulletins sont blancs et 4 nuls.
+
+Ces données établissent le résultat du scrutin. Elles ne suffisent pas à attribuer une signification politique déterminée aux blancs, nuls ou comportements futurs des élus.
+
+### Renouvellement du Sénat
+
+Le Sénat a publié le 6 octobre les listes des candidats aux commissions permanentes. La constitution du bureau de la commission des lois est prévue le **7 octobre à 9 h 30**.
+
+Statut au moment de cette photographie :
+
+```text
+membres publiés
+→ bureau : PENDING
+→ rapporteur du texte n° 782 : UNKNOWN
+```
+
+### Projet constitutionnel
+
+La commission des lois annonce l’audition de Françoise Gatel le **7 octobre à 15 h** sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République.
+
+L’audition n’ayant pas encore eu lieu à l’heure de la présente mise à jour, ses contenus et effets restent **PENDING**.
+
+### Continuation documentaire
+
+La synthèse courante est : [Note synthétique pour examen parlementaire — état au 7 octobre 2026](../note_synthetique_autonomie_capacite_corse.md).
+
+La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politique_corse_addendum_2026-10.md).
+
+---
 
 ## 0. Objet, périmètre et règle épistémique
 
