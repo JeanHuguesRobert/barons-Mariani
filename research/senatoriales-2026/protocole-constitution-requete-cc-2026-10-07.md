@@ -140,6 +140,49 @@ Les deux niveaux doivent exprimer la même proposition et les mêmes réserves.
 
 Une divergence GP/EXPERT est traitée comme un bug de dossier.
 
+## 6 ter. Règles d'intelligibilité
+
+### Grand public — budget attentionnel minimal
+
+Le lecteur est supposé intelligent, mais pressé.
+
+Règles :
+- une phrase courte porte une idée principale ;
+- le sujet, l'action et la conséquence doivent être identifiables immédiatement ;
+- tout terme juridique est défini avant usage ;
+- les acronymes sont développés à leur première occurrence ;
+- les métaphores sont concrètes et servent uniquement à réduire la charge cognitive ;
+- les phrases à tiroirs et doubles négations sont évitées ;
+- chaque sous-section se termine par une conclusion explicite.
+
+### Expert — niveau juriste junior
+
+Le lecteur connaît le droit, mais pas nécessairement ce dossier ni cette branche spécialisée.
+
+Règles :
+- rappeler le rang de la norme ;
+- citer la source ;
+- expliquer le rôle de la règle ;
+- identifier le fait auquel elle s'applique ;
+- exposer le meilleur contre-argument ;
+- expliquer pourquoi il est accepté, rejeté ou laissé ouvert ;
+- écrire la conséquence procédurale ou contentieuse.
+
+### Principe de Talleyrand
+
+> Ce qui va sans dire va encore mieux en le disant.
+
+Application :
+- aucune prémisse décisive laissée implicite ;
+- aucun « donc » sans chaîne écrite ;
+- aucun pronom ambigu ;
+- aucun changement de niveau sans transition ;
+- aucune distinction importante supposée connue ;
+- aucune intention attribuée sans source ;
+- aucun « silence » transformé implicitement en « refus ».
+
+Le but est de réduire les malentendus, pas seulement d'améliorer le style.
+
 ## 7. Règle de contradiction
 
 Une pièce défavorable n'est jamais omise pour cette seule raison.
