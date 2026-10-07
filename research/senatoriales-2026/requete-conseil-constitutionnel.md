@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.29"
+version: "0.30"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -183,7 +183,9 @@ Le dispositif proposé ci-dessous **ne se substitue à aucune de ces règles**.
 Il poursuit deux objectifs pratiques et réciproques.
 
 **Du requérant vers le Conseil constitutionnel.**  
-Si, après le dépôt de la présente requête, des informations, réponses institutionnelles, pièces ou précisions nouvelles deviennent disponibles et qu’elles peuvent être régulièrement produites dans le cadre des moyens déjà soulevés, le requérant entend les transmettre par la voie procédurale indiquée ou acceptée par le Conseil constitutionnel. Un document de suivi consolidé tenu dans le Corpus public pourra en fournir l’index chronologique : date, nature de l’élément, objet, référence de la transmission officielle, version ou empreinte du document lorsqu’elle existe. Ce document de suivi n’aura **aucune valeur de dépôt par lui-même** : seule la transmission effectuée selon les modalités reconnues par le Conseil constituera l’acte de procédure.
+Si, après le dépôt de la présente requête, des informations, réponses institutionnelles, pièces ou précisions nouvelles deviennent disponibles et qu’elles peuvent être régulièrement produites dans le cadre des moyens déjà soulevés, le requérant entend les transmettre par la voie procédurale indiquée ou acceptée par le Conseil constitutionnel. Le chemin stable annoncé dès la présente requête est le document public **« Suivi de l’instruction — requête sénatoriale Haute-Corse 2026 »** : [research/senatoriales-2026/suivi-instruction-conseil-constitutionnel.md](suivi-instruction-conseil-constitutionnel.md). Il pourra être mis à jour après le gel de la requête afin de rendre découvrables, depuis ce point d’entrée fixé à l’avance, les informations apparues ultérieurement : pièces retrouvées, réponses institutionnelles, demandes du Conseil, réponses du requérant, références d’enregistrement et état de traitement.
+
+Ce document de suivi pourra notamment permettre au requérant, s’il découvre qu’une pièce importante a été omise, de l’identifier immédiatement et de **tenter de la produire par la voie procédurale appropriée**, sous réserve des règles applicables et de l’appréciation du Conseil. Il n’aura cependant **aucune valeur de dépôt par lui-même** : seule la transmission effectuée selon les modalités reconnues par le Conseil constituera l’acte de procédure.
 
 **Du Conseil constitutionnel vers le requérant.**  
 Le requérant se tient réciproquement à la disposition du Conseil, de sa section d’instruction et de son secrétariat général pour répondre sans délai excessif à toute demande de précision, de pièce, de vérification ou d’explication utile à l’instruction. Il demande simplement que toute demande de cette nature puisse être rattachée à un canal et à une référence identifiables afin que sa réception, sa réponse et les pièces correspondantes puissent être conservées sans ambiguïté.
