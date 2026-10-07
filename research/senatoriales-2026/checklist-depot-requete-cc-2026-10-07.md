@@ -1275,6 +1275,21 @@ Contrôle :
 
 Le registre public garantit l'exhaustivité. Le paquet matériel doit encore contenir les représentations intégrales utiles ou exports natifs des 46 messages.
 
+
+### Requête — nettoyage constitutif v0.55
+
+Corrections apportées au corps de la requête :
+- « PREMIER ÉCRAN CONTENTIEUX » remplacé par « OBJET ET PORTÉE DE LA REQUÊTE » ;
+- suppression des rubriques mécaniques « Lecture grand public / Lecture expert » ;
+- « matrice » remplacée par une présentation juridictionnelle des solutions praticables ;
+- « fermeture cognitive » reformulée comme effet possible d'un cadrage initial, sans imputation d'intention ;
+- section VIII débarrassée des instructions de fabrication : elle présente désormais les pièces et annexes produites et leur fonction ;
+- section IX remplacée par une clôture/signature normale ;
+- conclusions réordonnées : recevabilité → deux QPC → mesures d'instruction → fond → annulation → conséquences → expérience de pensée article 41 → célérité ;
+- suppression de la formule ouverte « sous réserve de tous autres à produire, déduire ou suppléer », afin de ne pas suggérer artificiellement la possibilité de moyens nouveaux hors délai.
+
+Règle maintenue : ces changements sont des corrections de forme et d'architecture ; aucune idée de fond ne doit être supprimée par simplification.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
