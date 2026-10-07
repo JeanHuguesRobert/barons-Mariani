@@ -1187,6 +1187,15 @@ Elle est développée dans la note **« QPC — article L.299 : formalisme de ca
 
 Ces deux questions ont des objets différents. La première concerne les garanties juridictionnelles attachées à l'exclusion d'une candidature ; la seconde concerne le formalisme légal appliqué au remplaçant empêché. Elles ne doivent ni être fusionnées ni être désignées par des lettres abstraites.
 
+Ces deux QPC font partie intégrante de la saisine adressée au Conseil constitutionnel. La présente requête les soulève expressément et en expose l'objet. Chacune est développée dans un **mémoire distinct et motivé joint au même paquet de dépôt**, afin que leur présentation respecte les exigences propres à la procédure de question prioritaire de constitutionnalité.
+
+Le paquet destiné au Conseil constitutionnel doit donc comprendre, avec la présente requête :
+
+1. le mémoire distinct **« QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs »** ;
+2. le mémoire distinct **« QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant »**.
+
+Ces deux mémoires ne sont pas des annexes documentaires facultatives : ils portent les moyens constitutionnels que le requérant demande au Conseil d'examiner dans le cadre de l'instance électorale.
+
 ### Note de séparation procédurale — Conseil constitutionnel, QPC, Défenseur des droits et CEDH
 
 Il existe plusieurs portes juridiques.
@@ -1335,7 +1344,8 @@ Si la proclamation directe est juridiquement impossible, il faut le dire.
 Cette impossibilité reste distincte des autres pouvoirs correctifs.
 
 L'annulation et l'organisation d'une nouvelle élection restent au premier rang de ces autres remèdes.
-7. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu du calendrier officiel du Sénat rappelé au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
+7. **EXAMINER LES DEUX QUESTIONS PRIORITAIRES DE CONSTITUTIONNALITÉ** soulevées par mémoires distincts joints à la présente requête, l'une relative à l'article L.303 du code électoral et aux garanties juridictionnelles de l'exclusion d'une candidature, l'autre relative à l'article L.299 du code électoral et au formalisme applicable au remplaçant empêché par un handicap ;
+8. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu du calendrier officiel du Sénat rappelé au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
 
 ---
 
