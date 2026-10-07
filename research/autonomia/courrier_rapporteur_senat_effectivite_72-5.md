@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "draft — destinataire à compléter après désignation officielle du rapporteur"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -22,9 +22,13 @@ target_audience:
   - "administrateurs et collaborateurs parlementaires"
 target_scene: "political — parliamentary review"
 document_function: "public parliamentary submission draft"
+snapshot_as_of: "2026-10-07T07:36:00+02:00"
 derivation_mode: "directed"
 source_document: "research/autonomia/amendement_effectivite_article_72-5.md"
 related_documents:
+  - "research/note_synthetique_autonomie_capacite_corse.md"
+  - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+  - "research/autonomia/observatoire_processus_autonomie_corse.md"
   - "research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
   - "research/contribution_commission_lois_autonomie_capacite.md"
   - "research/autonomia/amendement_effectivite_article_72-5.md"
@@ -52,7 +56,7 @@ Ce document prépare le courriel qui sera adressé au **rapporteur du projet de 
 
 Le destinataire nominatif et son adresse institutionnelle ne doivent pas être supposés avant cette désignation.
 
-Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Le calendrier sénatorial publié prévoit une réunion de la commission pour le rapport le **21 octobre 2026 au matin** et une discussion en séance publique le **26 octobre 2026**.
+Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **7 octobre 2026 à 7 h 36**, le bureau de cette commission doit encore être constitué à 9 h 30 et l’audition de Françoise Gatel sur le projet corse est annoncée à 15 h. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
 
 Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
@@ -92,15 +96,24 @@ La question posée est donc moins celle de l’étendue abstraite d’une autono
 
 > **que pourra-t-on réellement faire demain qui ne pouvait pas être fait hier, par qui, à quelles conditions, et avec quels effets observables ?**
 
-La version parlementaire courte, sa justification, ses limites et sa genèse documentaire sont publiques ici :
+Pour une lecture rapide de l’ensemble du dossier, la note de synthèse à jour au **7 octobre 2026** est ici :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
+
+La version parlementaire courte de l’amendement, sa justification, ses limites et sa genèse documentaire sont ici :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md
 
-La note assurant la continuité entre la contribution de mai et la phase sénatoriale est ici :
+La base documentaire courante comprend notamment :
 
-https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
+- la note de continuité Assemblée nationale → Sénat :
+  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
+- l’Atlas actualisé après les sénatoriales :
+  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md
+- l’Observatoire public du processus :
+  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 
-Et la contribution transmise à l’Assemblée nationale le 28 mai est conservée ici :
+La contribution transmise à l’Assemblée nationale le 28 mai reste conservée comme antériorité documentaire :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/contribution_commission_lois_autonomie_capacite.md
 
