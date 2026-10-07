@@ -53,7 +53,7 @@ review:
 Depuis la rédaction initiale de cette note, trois changements doivent être intégrés à la continuité parlementaire :
 
 1. les élections sénatoriales du **27 septembre 2026** ont reconduit Paul Toussaint Parigi en Haute-Corse et Jean-Jacques Panunzi en Corse-du-Sud ;
-2. le Sénat a engagé le renouvellement de ses instances : les listes des membres des commissions permanentes ont été publiées le 6 octobre et le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30** ;
+2. le Sénat a engagé le renouvellement de ses instances : les listes des candidats aux commissions permanentes ont été publiées le 6 octobre, avec ratification annoncée sauf opposition dans le délai prévu et le bureau de la commission des lois doit être constitué le **7 octobre à 9 h 30** ;
 3. la commission des lois annonce l’audition de **Françoise Gatel** sur le projet constitutionnel corse le **7 octobre à 15 h**.
 
 À l’heure de cette photographie, l’identité du rapporteur du texte n’est pas présumée tant qu’elle n’est pas officiellement établie.
