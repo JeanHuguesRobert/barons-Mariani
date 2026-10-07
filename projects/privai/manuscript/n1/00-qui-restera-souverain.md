@@ -141,7 +141,7 @@ Formulation étroite, suffisante pour publier cette projection :
 
 PrivAI est une initiative en développement dans le périmètre de l'Institut Mariani et de l'association C.O.R.S.I.C.A. Les liens documentaires avec les autres dépôts ne valent ni fusion, ni transfert de données, ni portage juridique, ni financement, ni endorsement politique. PrivAI n'est pas un parti, une campagne, un outil électoral, ni une activité commerciale exploitée par C.O.R.S.I.C.A.
 
-Une note de travail du 4 octobre 2026 dans ce dossier propose, en plus, une future PrivAI Foundation sans personnalité juridique propre, qui serait portée juridiquement par C.O.R.S.I.C.A. Les statuts n'ont pas été relus. Cette phrase n'est pas reprise comme un fait par la présente projection. Le détail est dans `projects/privai/institutional-status.md`.
+Une note de travail du 4 octobre 2026 dans ce dossier explore, en plus, une future PrivAI Foundation. Les statuts 1995 de C.O.R.S.I.C.A. ont depuis été transcrits et vérifiés ; ils ne suffisent pas à établir un portage juridique de cette future entité. Cette possibilité reste donc une proposition institutionnelle non adoptée et non effective. Le détail est dans `projects/privai/institutional-status.md`.
 
 ## Ce que cette projection ne fait pas
 
