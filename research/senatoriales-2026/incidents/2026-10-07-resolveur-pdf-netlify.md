@@ -113,3 +113,31 @@ Les traces ne démontrent pas seulement qu’un événement a eu lieu ; elles pe
 ## Limite
 
 Cette note documente un incident technique et sa résolution. Elle ne préjuge pas, à elle seule, de la qualification juridique de la saisine, de sa recevabilité ou des effets que le Conseil constitutionnel pourrait attacher à tel ou tel canal ou horodatage.
+
+## Régression observée après la remise — seconde phase de l'incident
+
+Une seconde anomalie a été constatée plus tard le 7 octobre 2026 : après avoir pu télécharger effectivement le PDF depuis l'URL canonique, un nouvel accès par navigateur a abouti à une réponse **404**.
+
+Cette observation doit être distinguée de l'incident initial de 18 h :
+
+- le smoke-test GitHub Actions `Emergency CC PDF smoke`, run [37648291989](https://github.com/JeanHuguesRobert/inseme/actions/runs/37648291989), s'est achevé avec succès à **18:05:08 CEST**, confirmant que l'URL canonique servait alors effectivement un PDF valide ;
+- la fonction `cc-petition-pdf.js` et la règle Netlify correspondante sont toujours présentes sur `inseme/main` ;
+- l'amont immuable utilisé par la fonction existe toujours dans `barons-Mariani` au commit épinglé, sous forme d'un PDF de **200935 octets** ;
+- une nouvelle série de commits sur `inseme/main` commence à **19:05:49 CEST** et se poursuit jusqu'à 19:06:52 CEST, sans modifier directement le routeur PDF ;
+- le workflow de smoke-test n'est déclenché que lorsque la fonction PDF, `netlify.toml` ou le workflow lui-même changent. Il ne protège donc pas contre une régression causée par un déploiement général ultérieur qui ne touche pas ces chemins.
+
+### Hypothèse causale actuellement la plus forte
+
+L'état des traces est compatible avec une **régression de déploiement postérieure au smoke-test positif** : un déploiement ultérieur du site JHN aurait remplacé le déploiement sain de 18:04–18:05 par un état dans lequel le chemin canonique ou la fonction Netlify n'est plus exposé correctement.
+
+Cette hypothèse n'est pas encore une preuve de la cause exacte du 404. Pour la confirmer complètement, il faut corréler l'heure précise du premier 404 avec l'historique des deploys Netlify du site `bfe156be-6efe-4d28-9d45-4c60fb5de6b5` et tester séparément :
+
+1. le chemin canonique `/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf` ;
+2. l'endpoint direct `/.netlify/functions/cc-petition-pdf` ;
+3. l'URL Netlify native `jhn-baronsmariani-org.netlify.app` ;
+4. le domaine personnalisé `jhn.baronsmariani.org`.
+
+### Enseignement opérationnel
+
+Un smoke-test attaché uniquement aux fichiers du routeur ne suffit pas pour garantir une URL canonique durable. Une URL qualifiée de canonique doit être vérifiée **après chaque déploiement de production susceptible de remplacer l'état du site**, même lorsque le commit déclencheur ne modifie pas directement le routeur concerné.
+
