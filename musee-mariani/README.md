@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-07-08T00:00:00.000Z
-last_modified_at: 2026-09-12T00:00:00.000Z
+last_modified_at: 2026-10-07T00:00:00.000Z
 title: Musée Mariani — préfiguration
 date: '2026-06-26'
 status: draft
@@ -61,6 +61,10 @@ musee-mariani/
   doctrine_musee_mariani_des_possibles.md
   dossiers/
     louis-thomas-mariani-tahiti.md
+  mariani/
+  casabianca/
+  dangelis/
+  arrighi-de-casanova/
   collections/
     README.md
   expositions/
@@ -98,7 +102,8 @@ musee-mariani/
 - [`dossiers/louis-thomas-mariani-tahiti.md`](dossiers/louis-thomas-mariani-tahiti.md) — dossier prototype : Louis-Thomas Mariani, Tahiti et la mention fragile de « prince en Tahiti ».
 - [`notes-critiques/preuves-et-incertitudes.md`](notes-critiques/preuves-et-incertitudes.md) — grille de preuve et règles de prudence.
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
-- [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — méthode de généalogie augmentée et feuille de route pour les notices individuelles Mariani / de Casabianca / d’Angelis.
+- [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — méthode de généalogie augmentée et feuille de route pour les notices individuelles Mariani et leurs alliances ;
+- [`arrighi-de-casanova/README.md`](arrighi-de-casanova/README.md) — premier sous-corpus d’alliance ouvert depuis les tableaux de Meurgey 1933.
 
 ## Doctrine des Possibles — méthode, juridique, ateliers
 
