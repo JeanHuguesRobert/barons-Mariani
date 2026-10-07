@@ -14,7 +14,7 @@ lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
   - "requete-conseil-constitutionnel.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
