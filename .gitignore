@@ -46,3 +46,9 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 Gemfile.lock
+
+
+# ==============================================================================
+# 7. Matérialisation locale des pièces de dépôt (non souveraine, non versionnée)
+# ==============================================================================
+.filing-materials/
