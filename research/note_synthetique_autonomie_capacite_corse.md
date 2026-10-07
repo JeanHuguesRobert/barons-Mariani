@@ -1,335 +1,250 @@
 ---
-title: Note synthétique pour examen parlementaire
-subtitle: Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique
-status: working-paper — operational_note_v0.3
-language: fr
-created: 2026-05-24T00:00:00.000Z
-author: Jean Hugues Noël Robert, baron Mariani de Corte
-function: parliamentary_working_note
-target_scene: parliamentary_staff_review
+title: "Note synthétique pour examen parlementaire"
+subtitle: "Autonomie de capacité de la Corse — état au 7 octobre 2026"
+description: "Synthèse opérationnelle destinée à la phase sénatoriale du projet de loi constitutionnelle n° 782 : état du texte, proposition d’amendement d’effectivité, continuité documentaire et contexte institutionnel au 7 octobre 2026."
+author: "Jean Hugues Noël Robert, baron Mariani de Corte"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-05-24"
+last_modified_at: "2026-10-07"
+version: "0.4"
+status: "working-paper — parliamentary synthesis current as of 2026-10-07"
+license: "CC BY-SA 4.0"
+language: "fr"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md"
+document_role: "source"
+document_kind: "parliamentary-brief"
+visibility: "public"
+lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
+target_audience:
+  - "rapporteur du projet de loi constitutionnelle n° 782 au Sénat"
+  - "membres et administrateurs de la commission des lois du Sénat"
+  - "parlementaires"
+target_scene: "parliamentary_review"
+document_function: "current_synthesis"
+snapshot_as_of: "2026-10-07T07:36:00+02:00"
 related_documents:
-  - title: Courrier public aux six parlementaires corses
-    role: document d’envoi de la contribution
-    path: research/courrier_public_six_parlementaires_corse.md
-    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/courrier_public_six_parlementaires_corse.md
-    markdown: '[Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)'
-  - title: Proposition constitutionnelle — autonomie de capacité
-    role: document de fond
-    path: research/proposition_constitutionnelle_autonomie_capacite_corse.md
-    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/proposition_constitutionnelle_autonomie_capacite_corse.md
-    markdown: '[Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)'
-  - title: Chronologie documentaire du processus de Beauvau
-    role: dossier documentaire de contextualisation
-    path: research/chronologie_processus_beauvau_corse.md
-    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/chronologie_processus_beauvau_corse.md
-    markdown: '[Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)'
-  - title: Mise à jour du processus de Beauvau — phase post-Assemblée nationale
-    role: addendum postérieur au vote du 23 juin 2026
-    path: research/autonomia/mise_a_jour_processus_beauvau_2026-07.md
-    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/mise_a_jour_processus_beauvau_2026-07.md
-    markdown: '[Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)'
-  - title: Registre du chantier de loi organique pour l’autonomie de la Corse
-    role: registre de suivi de la constitution pratique de l’autonomie
-    path: research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
-    url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/registre_chantier_loi_organique_autonomie_corse.md
-    markdown: '[Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)'
-  - title: Premier Reality Test — Follow the Power
-    role: test capacitaire du transfert d’autonomie
-    path: research/autonomia/follow_the_power_premier_test.md
-canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
-affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
-license: CC BY-SA 4.0
-last_stamped_at: 2026-08-22T00:00:00.000Z
-date: '2026-05-24'
-document_role: source
-document_kind: research-paper
-visibility: public
-lifecycle_state: working
-classification_source: cogentia.js
-classification_version: '1'
-classification_rule: research-paper
-classification_confidence: medium
-last_modified_at: Sat Aug 22
-update_policy: UP-DEFAULT-REVIEWED
-review:
-  status: unreviewed
-  reviewed_by: []
+  - "research/autonomia/amendement_effectivite_article_72-5.md"
+  - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
+  - "research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
+  - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+  - "research/autonomia/observatoire_processus_autonomie_corse.md"
+  - "research/chronologie_processus_beauvau_corse.md"
+  - "research/contribution_commission_lois_autonomie_capacite.md"
 provenance:
-  origin_type: unknown
-  origin_repository: unknown
-  origin_ref: unknown
-  origin_date: unknown
-  derived_from: []
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "historical document created 2026-05-24; materially updated 2026-10-07"
+  origin_date: "2026-05-24"
+  derived_from:
+    - "research/contribution_commission_lois_autonomie_capacite.md"
+    - "research/autonomia/amendement_effectivite_article_72-5.md"
+    - "research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+changelog:
+  - "v0.3 — état post-Assemblée nationale et prolongement organique."
+  - "v0.4 (2026-10-07) — bascule vers la phase sénatoriale ; amendement d’effectivité comme proposition courante ; résultats sénatoriaux et renouvellement des instances intégrés ; ancienne réécriture large reclassée comme généalogie."
 ---
-
 
 # Note synthétique pour examen parlementaire
 
-## Autonomie de capacité de la Corse — de la finalité constitutionnelle au contrôle organique
+## Autonomie de capacité de la Corse — état au 7 octobre 2026
 
-### Objet
+## 1. En une minute
 
-Cette note proposait initialement une formulation permettant de préciser la finalité concrète du futur article 72-5 de la Constitution relatif à la Corse.
+Le projet de loi constitutionnelle **n° 782 (2025-2026)**, adopté par l’Assemblée nationale le 23 juin 2026 et transmis au Sénat le 24 juin, doit être discuté en séance publique au Sénat le **26 octobre 2026**.
 
-Elle ne se substitue pas au texte gouvernemental. Elle vise à l’améliorer en ajoutant une finalité opérationnelle : faire de l’autonomie corse non seulement une capacité d’adaptation normative, mais une capacité effective de réponse aux déséquilibres spécifiques du territoire.
+La proposition C.O.R.S.I.C.A. a évolué depuis sa première contribution de mai. La proposition parlementaire courante n’est plus une réécriture large du futur article 72-5 autour de l’expression « autonomie de capacité ».
 
-### Mise à jour du 16 juillet 2026
+Elle est désormais beaucoup plus ciblée :
 
-Depuis le vote de l’Assemblée nationale du 23 juin 2026 et la transmission du texte au Sénat le 24 juin 2026, cette note doit aussi servir de pont vers la future loi organique.
+> **faire déterminer par la loi organique les conditions permettant la mise en œuvre effective des facultés ouvertes par l’article 72-5 et organiser une évaluation périodique de cette mise en œuvre et de ses effets.**
 
-Le texte constitutionnel adopté en première lecture ouvre des possibilités, mais il renvoie l’essentiel aux conditions, réserves, contrôles et évaluations qui seront définis par la loi organique.
+La rédaction candidate complète le mécanisme organique déjà prévu par le texte transmis au Sénat. Elle cherche le **plus petit delta constitutionnel utile**.
 
-La question n’est donc plus seulement :
+Document normatif courant :
 
-> comment inscrire l’autonomie de capacité dans l’article 72-5 ?
+[Amendement d’effectivité — article 72-5](./autonomia/amendement_effectivite_article_72-5.md)
 
-Elle devient aussi :
+## 2. La question posée
 
-> comment faire de la loi organique un instrument de capacité réelle, de transparence et de contrôle citoyen ?
+Une faculté inscrite dans la Constitution n’est pas automatiquement une capacité réellement exerçable.
 
-### Documents associés
-
-- [Courrier public aux six parlementaires corses](./courrier_public_six_parlementaires_corse.md)
-- [Proposition constitutionnelle — autonomie de capacité](./proposition_constitutionnelle_autonomie_capacite_corse.md)
-- [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md)
-- [Mise à jour du processus de Beauvau — phase post-Assemblée nationale](./autonomia/mise_a_jour_processus_beauvau_2026-07.md)
-- [Registre du chantier de loi organique pour l’autonomie de la Corse](./autonomia/registre_chantier_loi_organique_autonomie_corse.md)
-- [Premier Reality Test — Follow the Power](./autonomia/follow_the_power_premier_test.md)
-
----
-
-## 1. Problème identifié
-
-Le projet de loi constitutionnelle en discussion reconnaît à la Corse un régime d’autonomie au sein de la République.
-
-Cette reconnaissance est importante.
-
-Toutefois, si la finalité de cette autonomie n’est pas suffisamment précisée, le risque est de créer une autonomie de procédure : des possibilités d’adaptation ou d’habilitation, mais sans orientation constitutionnelle assez claire pour guider ensuite la loi organique.
-
-La question n’est donc pas seulement :
-
-> la Corse disposera-t-elle de davantage de compétences ?
-
-Elle est aussi :
-
-> à quelles finalités concrètes ces compétences devront-elles répondre ?
-
-Depuis le vote de l’Assemblée nationale du 23 juin 2026, une deuxième question devient centrale :
-
-> quels mécanismes garantiront que les pouvoirs nouveaux seront visibles, vérifiables, évaluables et contrôlables par les citoyens ?
-
----
-
-## 2. Proposition
-
-Introduire dans l’article 72-5 la notion d’**autonomie de capacité**, ou, à défaut, préciser que le régime d’autonomie a pour objet de répondre aux déséquilibres spécifiques affectant :
+La chaîne à observer est :
 
 ```text
-habitation permanente
-transmission culturelle et linguistique
-protection des ressources
-gestion des usages du sol
-transition énergétique locale
-maîtrise publique des données territoriales utiles aux compétences de la Collectivité de Corse
-maîtrise des effets de l’attractivité territoriale
+faculté juridique
+→ conditions réelles d’accès
+→ exercice ou non-usage
+→ effets observables
+→ évaluation
+→ correction éventuelle
 ```
 
-Cette formulation vise à relier directement l’autonomie aux problèmes concrets que le territoire doit pouvoir traiter.
+La question centrale devient donc :
 
-Après le vote de l’Assemblée nationale, cette proposition doit être prolongée par une exigence organique : chaque compétence, adaptation ou habilitation devrait être accompagnée d’un dispositif de traçabilité, d’évaluation et de contrôle citoyen.
+> **que pourra-t-on réellement faire demain qui ne pouvait pas être fait hier, par qui, à quelles conditions, et avec quels effets ?**
 
----
+Cette grille ne présume ni qu’une autonomie plus large produira de meilleurs résultats, ni qu’elle en produira de moins bons. Elle demande que la mise en œuvre réelle puisse être observée.
 
-## 3. Rédaction constitutionnelle possible
+## 3. Rédaction parlementaire candidate au 7 octobre
 
-> **Art. 72-5. –** La Corse est une collectivité à statut particulier dotée, au sein de la République, d’un régime d’autonomie de capacité qui tient compte de ses intérêts propres, liés à son insularité méditerranéenne, à son relief montagneux et aux caractéristiques historiques, linguistiques, culturelles, sociales et territoriales de ses habitants.
->
-> Ce régime a pour objet de permettre à la Collectivité de Corse de répondre aux déséquilibres spécifiques qui affectent l’habitation permanente, la transmission culturelle et linguistique, la protection des ressources, la gestion des usages du sol, la transition énergétique locale, la maîtrise publique des données territoriales utiles à l’exercice de ses compétences et la maîtrise des effets de l’attractivité territoriale.
+La proposition publiée dans le Corpus remplace la première phrase de l’alinéa organique ciblé par deux phrases :
 
-Les alinéas relatifs aux adaptations, habilitations, garanties, contrôle juridictionnel, loi organique et évaluation peuvent ensuite reprendre ou compléter la rédaction actuellement discutée.
+> **« La loi organique détermine les conditions permettant la mise en œuvre effective des deuxième et troisième alinéas et le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application de ces alinéas, en fonction de leur nature. Elle détermine également les modalités d’une évaluation périodique de cette mise en œuvre, portant notamment sur les conditions d’accès aux habilitations et de leur exercice, ainsi que sur ses effets au regard de l’effectivité de la liberté, de l’égalité et de la fraternité. »**
 
----
+Cette rédaction est une **candidate de travail**. Elle peut être reprise, corrigée, resserrée ou remplacée par une formulation parlementaire plus robuste.
 
-## 4. Variante de repli sans l’expression “autonomie de capacité”
+Elle ne crée pas :
 
-Si l’expression “autonomie de capacité” paraît trop novatrice, une rédaction plus sobre peut conserver l’essentiel :
+- de droit automatique à une habilitation ;
+- de compétence nouvelle par elle-même ;
+- de résultat socio-économique garanti ;
+- de mécanisme d’évaluation parallèle à celui déjà prévu ;
+- de présomption en faveur d’une extension de l’autonomie.
 
-> Ce régime a pour objet de permettre à la Collectivité de Corse de répondre aux déséquilibres spécifiques qui affectent l’habitation permanente, la transmission culturelle et linguistique, la protection des ressources, la gestion des usages du sol, la transition énergétique locale, la maîtrise publique des données territoriales utiles à l’exercice de ses compétences et la maîtrise des effets de l’attractivité territoriale.
+Elle cherche à rendre constitutionnellement visible la différence entre **capacité ouverte en droit** et **capacité effectivement mobilisable**.
 
-Cette variante évite le néologisme tout en inscrivant les finalités concrètes dans le texte constitutionnel.
+## 4. Ce qui a changé depuis mai
 
----
-
-## 5. Intérêt juridique
-
-La formulation proposée :
+Le continuum documentaire est désormais :
 
 ```text
-ne crée pas de souveraineté concurrente
-ne crée pas de peuple juridiquement distinct
-ne crée pas de statut de résident direct
-ne crée pas de co-officialité constitutionnelle
-renvoie à la loi organique
-maintient le rôle du Parlement
-préserve le contrôle du juge
-respecte les droits et libertés constitutionnellement garantis
-respecte les engagements européens et internationaux de la France
+20–28 mai 2026
+doctrine d’Autonomie de Capacité
+→ contribution écrite C.O.R.S.I.C.A.
+
+3 juin 2026
+mention de C.O.R.S.I.C.A. parmi les contributions écrites du rapport n° 2865
+
+23–24 juin 2026
+adoption par l’Assemblée nationale
+→ transmission au Sénat sous le n° 782
+
+26–29 septembre 2026
+publication et consolidation de l’amendement d’effectivité
+
+27 septembre 2026
+renouvellement sénatorial en Corse
+
+6–7 octobre 2026
+renouvellement des instances du Sénat
+→ phase opérationnelle d’examen du texte
 ```
 
-Elle permet donc de renforcer l’effectivité de l’autonomie tout en maintenant un encadrement républicain explicite.
+L’ancienne proposition consistant à inscrire directement l’expression **« autonomie de capacité »** dans le premier alinéa du futur article 72-5 demeure une pièce de **généalogie doctrinale**. Elle n’est plus présentée comme la rédaction parlementaire courante.
 
----
+## 5. État sénatorial au matin du 7 octobre
 
-## 6. Intérêt politique
+Les élections sénatoriales du **27 septembre 2026** ont reconduit les deux sénateurs corses sortants :
 
-Cette formulation permet de déplacer le débat de la question abstraite du degré d’autonomie vers celle de ses finalités concrètes.
+- **Haute-Corse** : Paul Toussaint Parigi, 442 voix sur 530 suffrages exprimés, soit 83,40 % ;
+- **Corse-du-Sud** : Jean-Jacques Panunzi, 293 voix sur 452 suffrages exprimés, soit 64,82 %.
 
-Elle permet de dire :
+En Haute-Corse, le scrutin compte 606 votants, 36 bulletins blancs et 40 nuls ; 530 suffrages ont été exprimés.
 
-> l’autonomie ne vaut que si elle permet de traiter les déséquilibres réels du territoire.
+En Corse-du-Sud, le scrutin compte 458 votants, 2 bulletins blancs et 4 nuls ; 452 suffrages ont été exprimés.
 
-Elle peut donc être soutenue par des sensibilités différentes :
+Ces résultats décrivent la représentation sénatoriale issue du scrutin. Ils ne suffisent pas, à eux seuls, à établir une position de la commission des lois sur le projet constitutionnel.
+
+Au **7 octobre 2026 à 7 h 36**, le renouvellement interne du Sénat est encore en cours :
+
+- les listes des membres des commissions permanentes ont été publiées le 6 octobre ;
+- la constitution du bureau de la commission des lois est prévue le 7 octobre à **9 h 30** ;
+- l’audition de **Françoise Gatel**, ministre de l’aménagement du territoire et de la décentralisation, sur le projet corse est annoncée le 7 octobre à **15 h** ;
+- le rapporteur du texte n’est pas présumé dans la présente note tant que sa désignation n’est pas officiellement établie.
+
+## 6. Pourquoi le petit delta
+
+Une révision constitutionnelle peut échouer par excès de généralité comme par excès de détail.
+
+La proposition actuelle part donc du texte déjà adopté et cherche à ajouter seulement ce qui manque à la vérification de sa réalité :
 
 ```text
-élus attachés à l’autonomie réelle
-élus attachés à l’encadrement républicain
-élus préoccupés par le logement permanent
-élus préoccupés par la transmission culturelle et linguistique
-élus préoccupés par la protection des communes et des usages du sol
-élus préoccupés par la transition énergétique locale
-élus préoccupés par la maîtrise des effets de l’attractivité
+facultés d’adaptation / de fixation de normes
++ contrôle
++ mise en œuvre effective
++ évaluation périodique du régime
++ observation de ses effets
 ```
 
----
+Cette approche permet de conserver le compromis parlementaire existant tout en posant une exigence de réalité.
 
-## 7. Usage parlementaire possible
+## 7. Liberté, Égalité, Fraternité : fonction de la référence
 
-Cette contribution peut être utilisée de plusieurs manières :
+L’effectivité n’est pas proposée comme une quatrième valeur constitutionnelle.
+
+La référence à **Liberté, Égalité, Fraternité** sert de finalité d’évaluation : il s’agit de pouvoir confronter les effets du régime à des finalités républicaines explicites, sans transformer la devise en indicateur unique ni en garantie automatique d’une politique déterminée.
+
+La proposition doit rester compatible avec les autres exigences constitutionnelles, européennes et internationales.
+
+## 8. Distribution de la capacité
+
+Le test ne s’arrête pas à la Collectivité de Corse.
+
+Il faut distinguer au minimum :
 
 ```text
-amendement de convergence
-amendement de repli
-exposé sommaire d’amendement
-déclaration commune
-note de groupe
-élément de langage
-base de discussion pour la loi organique
+État
+↓
+Collectivité de Corse
+↓
+communes / intercommunalités
+↓
+organisations / associations / entreprises / communs
+↓
+habitants
 ```
 
-Elle peut être reprise, simplifiée, corrigée ou remplacée par toute rédaction jugée plus adaptée aux contraintes parlementaires.
+Un transfert de pouvoir de l’État vers la Collectivité peut constituer un gain institutionnel réel sans produire automatiquement un gain identique pour les communes ou les habitants.
 
-L’objectif n’est pas de préserver une formulation d’origine, mais de garantir que la finalité concrète de l’autonomie reste présente dans le débat.
+La question **« capacité de qui ? »** reste donc indissociable de **« capacité à faire quoi ? »**.
 
----
+## 9. Continuité institutionnelle et limites de l’inférence
 
-## 8. Prolongement organique : transparence, contrôle démocratique et évaluation
+La contribution C.O.R.S.I.C.A. du 28 mai 2026 est mentionnée parmi les contributions écrites du rapport n° 2865 de Florent Boudié.
 
-À partir de la phase ouverte par le vote du 23 juin 2026, l’autonomie de capacité ne peut plus être seulement une proposition constitutionnelle. Elle doit devenir une doctrine de loi organique.
+Ce fait établit un canal parlementaire antérieur.
 
-Toute habilitation normative ou adaptation prise au titre du futur statut devrait être :
+Il ne démontre pas :
 
-```text
-inscrite dans un registre public
-datée
-motivée
-sourcée
-versionnée
-évaluable
-contrôlable
-corrigeable
-```
+- qu’une rédaction précise adoptée par l’Assemblée nationale provienne de cette contribution ;
+- qu’un parlementaire soutienne l’amendement d’effectivité publié en septembre ;
+- que la publication publique du texte ait été reçue, examinée ou reprise au Sénat.
 
-Le contrôle ne doit pas être seulement juridictionnel ou étatique. Il doit aussi être citoyen, documentaire, ouvert et outillable.
+Les états **publication → réception → routage → examen → reprise** doivent rester distincts.
 
-### Exigences minimales
+## 10. Paquet documentaire courant
 
-La loi organique devrait prévoir :
+Pour un examen rapide, l’ordre de lecture recommandé est :
 
-```text
-registre public des demandes d’habilitation
-publication des réponses, refus et motifs
-publication des avis utiles
-versions consolidées et historisées des normes corses
-études d’impact publiques avant adoption
-traçabilité des bénéficiaires directs et indirects
-droit de saisine citoyenne ou associative
-évaluation indépendante périodique
-clauses de réexamen ou d’extinction
-publication des conflits d’intérêts
-open data exploitable automatiquement
-```
+1. **présent document** — synthèse au 7 octobre ;
+2. [courrier public au futur rapporteur](./autonomia/courrier_rapporteur_senat_effectivite_72-5.md) ;
+3. [amendement d’effectivité](./autonomia/amendement_effectivite_article_72-5.md) ;
+4. [note de continuité parlementaire](./autonomia/note_continuite_parlementaire_autonomie_2026-09.md) ;
+5. [Atlas — addendum octobre 2026](./autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) ;
+6. [Observatoire public](./autonomia/observatoire_processus_autonomie_corse.md) ;
+7. [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md).
 
----
+La [contribution du 28 mai](./contribution_commission_lois_autonomie_capacite.md) et la [proposition constitutionnelle initiale](./proposition_constitutionnelle_autonomie_capacite_corse.md) restent accessibles comme antériorité et généalogie.
 
-## 9. Formule de synthèse après le vote de l’Assemblée nationale
+## 11. Sources primaires courantes
 
-> Le texte constitutionnel crée une promesse d’autonomie. La loi organique dira si cette promesse devient capacité, procédure ou verrou.
+- Sénat — texte n° 782 : https://www.senat.fr/leg/pjl25-782.html
+- Sénat — dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Sénat — renouvellement des instances : https://www.senat.fr/travaux-parlementaires/seance-publique/ordre-du-jour/calendrier-de-renouvellement-des-instances-du-senat.html
+- Sénat — audition de Françoise Gatel, 7 octobre 2026 : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Ministère de l’Intérieur — résultats Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+- Ministère de l’Intérieur — résultats Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
 
-> Plus de pouvoir sans plus de contrôle : autonomie d’appareil, non autonomie populaire.
+## 12. État à maintenir dynamique
 
-> La loi organique sera la constitution pratique de l’autonomie corse. Sa préparation doit donc être publique, versionnée et contrôlable.
+Trois informations doivent être revérifiées avant tout envoi au rapporteur :
 
----
+1. composition et bureau définitifs de la commission des lois ;
+2. identité du rapporteur du projet n° 782 ;
+3. version courante de l’amendement d’effectivité et calendrier parlementaire.
 
-## 10. Exposé sommaire possible pour amendement
-
-L’autonomie de la Corse ne doit pas être conçue comme une simple faculté procédurale d’adaptation normative. Elle doit être orientée vers des finalités concrètes, liées aux déséquilibres spécifiques du territoire : habitation permanente, transmission linguistique et culturelle, protection des ressources, usages du sol, transition énergétique locale, données territoriales et maîtrise des effets de l’attractivité.
-
-Le renvoi à la loi organique doit permettre de transformer cette finalité en capacité effective, tout en prévoyant des garanties robustes : registre public des habilitations, publication des motifs, évaluation, traçabilité des effets, droit de saisine et contrôle citoyen. Une autonomie sans contrôle démocratique proportionné risquerait de renforcer les appareils sans augmenter la capacité réelle des Corses.
-
----
-
-## 11. Addendum du 22 août 2026 — « exonomie » comme terme candidat
-
-Le terme **exonomie** est conservé comme **terme candidat**, et non comme concept doctrinal déjà stabilisé. Il désigne provisoirement une situation dans laquelle un dispositif présenté comme une autonomie augmente principalement la capacité d’un appareil à agir sur une population, sans augmentation correspondante de la capacité de cette population à agir sur l’appareil, à le contrôler, à le corriger ou à reprendre la décision.
-
-> **Autonomie populaire : avec le peuple. Exonomie : autonomie de l’appareil sans augmentation correspondante de l’autonomie des habitants.**
-
-Le terme sert d’abord de révélateur : **qui devient autonome par rapport à qui ?** Il ne suppose ni intention cachée ni faute individuelle ; il décrit une distribution de capacités à mesurer.
-
-## 12. Démonstration capacitaire minimale
-
-Notons `P_appareil` la capacité effective de l’institution territoriale à décider, normer, contraindre ou allouer, et `P_habitants` la capacité effective des habitants à initier, décider, contrôler, refuser, corriger ou révoquer.
-
-Si une réforme produit :
-
-```text
-P_appareil ↑
-P_habitants ≈ constant
-```
-
-alors, toutes choses égales par ailleurs :
-
-```text
-P_habitants / P_appareil ↓
-```
-
-La capacité relative des habitants diminue donc **sans qu’aucun de leurs droits formels ait nécessairement été supprimé**.
-
-Ce modèle est volontairement directionnel et non une métrique complète du pouvoir. Une analyse plus fine doit décomposer les capacités : initiative, information, décision, veto, révocation, recours, ressources, temps et accessibilité cognitive.
-
-> **Un transfert de pouvoir de Paris vers Ajaccio n’est pas, à lui seul, une preuve d’autonomie accrue des Corses.**
-
-## 13. Follow the Power
-
-Toute proposition relative à l’autonomie devrait désormais être accompagnée de la grille :
-
-```text
-Qui possédait la capacité avant ?
-Qui la possède après ?
-Quelle capacité nouvelle reçoit l’appareil ?
-Quelle capacité nouvelle reçoit l’habitant ?
-Qui peut déclencher l’usage du nouveau pouvoir ?
-Qui peut le refuser ou le contester ?
-Qui peut le corriger ou le reprendre ?
-Quelle trace exploitable reste de son exercice ?
-```
-
-Le premier Reality Test de cette grille est conservé dans `research/autonomia/follow_the_power_premier_test.md`.
-
-## Mise à jour — projection légistique publique
-
-Depuis le 26 septembre 2026, cette note dispose d’une continuation directement légistique : l’[amendement d’effectivité relatif au futur article 72-5](autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`.
-
-Le passage essentiel est celui de l’**autonomie possible** à l’**autonomie effectivement mise en œuvre** : conditions d’accès aux habilitations et de leur exercice, évaluation périodique du régime et observation de ses effets au regard de **Liberté, Égalité, Fraternité**. La proposition est publiée comme candidat parlementaire, non comme amendement officiellement déposé.
-
+Une information non encore publiée doit rester **inconnue ou pending**, jamais être complétée par inférence.
