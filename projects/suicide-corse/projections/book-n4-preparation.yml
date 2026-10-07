@@ -54,6 +54,9 @@ preparation:
   petition_chronology_annex: ../../../research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md
   gmail_audit: ../../../research/senatoriales-2026/investigation/gmail-audit-requete-2026-09-10-2026-10-07.md
   petition_construction_protocol: ../../../research/senatoriales-2026/protocole-constitution-requete-cc-2026-10-07.md
+  dematerialized_filing_note: ../../../research/senatoriales-2026/note-depot-dematerialise-requete-cc-2026-10-07.md
+  dual_reading_documentation: ../../../research/senatoriales-2026/investigation/annexe-documentation-double-lecture-2026-10-07.md
+  dual_reading_audit: ../../../research/reviews/audit-double-lecture-requete-v0.19-2026-10-07.md
   petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.19.md
   petition_version: "0.19"
   petition_status: "working-draft — pre-filing consolidation — not filed"
