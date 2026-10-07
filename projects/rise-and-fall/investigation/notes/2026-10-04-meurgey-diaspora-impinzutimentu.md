@@ -4,8 +4,8 @@ subtitle: "Programme d'enquête transversal sur la dispersion des alliances Mari
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
-version: "0.1"
+last_modified_at: "2026-10-07"
+version: "0.2"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -146,6 +146,37 @@ affaiblissement de l'ancrage patrimonial insulaire
 +
 maintien d'un ancrage mémoriel/funéraire
 ```
+
+## 6 bis. Premier résultat — branche Louis-Thomas par Madeleine Mariani
+
+La première continuation 1933→2026 a été menée sur une branche féminine issue de Louis-Thomas Mariani.
+
+Chaîne désormais reconstruite à titre **secondaire convergent** :
+
+```text
+Louis-Thomas Mariani
+→ Madeleine Mariani (1850–1924)
+→ d’Adhémar de Lantagnac
+→ deux grandes lignes :
+   Girot de Langlade
+   Hainguerlot
+       → Terlinden
+           → Compagnon
+```
+
+Cette branche fournit déjà un résultat empirique utile :
+
+- **survie généalogique : forte et clairement documentée** ;
+- **survie du patronyme Mariani : nulle dans les lignes suivies** ;
+- **présence contemporaine en Corse : non établie à ce stade** ;
+- **capacités professionnelles et sociales hors Corse : fortement documentées sur plusieurs générations**.
+
+Un exemple public particulièrement net est **Antoine Compagnon** (né en 1950), fils de Jacqueline Terlinden, elle-même fille de Madeleine Hainguerlot, petite-fille de Blanche d’Adhémar, arrière-petite-fille de Madeleine Mariani. Sa filiation vers Jacqueline Terlinden est publiquement documentée ; la remontée Terlinden → Hainguerlot → d’Adhémar → Mariani repose actuellement sur Meurgey et plusieurs sources généalogiques secondaires concordantes.
+
+Ce cas ne prouve pas encore un mécanisme territorial corse général. Il démontre en revanche que **l'étude limitée aux porteurs contemporains du nom Mariani sous-estimerait massivement la survie réelle de la descendance**.
+
+Dossier détaillé :
+- `musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
 
 ## 7. Articulation avec Rise & Fall
 
