@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.32"
+version: "0.33"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -719,9 +719,11 @@ On distingue source native, transmission, copie, transformation, accusé, emprei
 
 **À ne pas confondre :** présence d'un fichier dans un ensemble de fichiers, réception par une administration et examen effectif par un juge sont trois propositions différentes.
 
-Le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une relance consolidée comportant dix-huit demandes autonomes (P1–P18). Elles portent notamment sur la réception et le traitement du courriel de 17 h 57 min 55 s, les transmissions au TA, la chronologie de création/finalisation/validation de la saisine préfectorale, la compétence et la délégation, la conservation des traces, ainsi que le fichier natif effectivement transmis via Télérecours, ses noms de fichiers, empreintes, procès-verbal numérique et accusés.
+Le 2 octobre 2026 à 13 h 33 min 55 s, le requérant a adressé à la préfecture une relance consolidée comportant dix-huit demandes autonomes (P1–P18), produite comme **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**. Elles portent notamment sur la réception et le traitement du courriel de 17 h 57 min 55 s, les transmissions au TA, la chronologie de création/finalisation/validation de la saisine préfectorale, la compétence et la délégation, la conservation des traces, ainsi que le fichier natif effectivement transmis via Télérecours, ses noms de fichiers, empreintes, procès-verbal numérique et accusés.
 
-Une note d'analyse de la provenance numérique constate que les PDF communiqués par le TA sont des ensembles de fichiers ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace d'origine.
+La chaîne complète des échanges électroniques pertinents avec la préfecture et le Tribunal administratif est reproduite dans **P-46 — Registre exhaustif des courriels Préfecture / Tribunal administratif**. Cette pièce ne transforme pas chaque message en preuve de réception, de transmission ou d’examen effectif ; elle permet de contrôler, message par message, ce qui a été envoyé, reçu ou répondu et à quelle date.
+
+**P-36 — Note forensic sur la provenance numérique de la requête préfectorale** constate que les PDF communiqués par le TA sont des ensembles de fichiers ultérieurement recomposés : leur contenu est lisible, mais cette représentation ne suffit pas, à elle seule, à établir la provenance numérique complète du fichier source préfectoral. Ce constat n'implique ni disparition du fichier natif, ni altération fautive ; il justifie seulement la demande de la trace d'origine.
 
 À ce stade, la situation probatoire est donc volontairement dissociée : **demande envoyée = établie ; réponses demandées = non encore établies**. Si ces éléments demeurent indisponibles au moment du dépôt, ils pourront être identifiés comme inconnues et, le cas échéant, faire l'objet d'une demande d'instruction au titre de l'article 42 de l'ordonnance du 7 novembre 1958.
 
@@ -1590,7 +1592,7 @@ La stratégie constitutionnelle distingue donc deux questions : **la QPC relativ
 
 Chacune doit être appréciée pour elle-même au regard de son texte législatif, du droit ou de la liberté constitutionnellement garanti invoqué, de la jurisprudence antérieure et de son caractère nouveau ou sérieux.
 
-Le Défenseur des droits constitue enfin un canal institutionnel distinct, utile notamment pour documenter l'accessibilité, une discrimination éventuelle ou l'effectivité des recours. Sa saisine ne suspend ni le délai organique du présent recours, ni les délais propres aux QPC ou à une éventuelle requête européenne.
+Le Défenseur des droits constitue enfin un canal institutionnel distinct, utile notamment pour documenter l'accessibilité, une discrimination éventuelle ou l'effectivité des recours. Le requérant a saisi sa déléguée en Haute-Corse le 26 septembre 2026 ; cette diligence est produite comme **P-42 — Saisine de la déléguée du Défenseur des droits en Haute-Corse**. Aucune réponse à cette saisine n’a été retrouvée dans la recherche ciblée effectuée avant le dépôt. Cette saisine ne suspend ni le délai organique du présent recours, ni les délais propres aux QPC ou à une éventuelle requête européenne.
 
 Cette articulation permet de soutenir pleinement les griefs d'effectivité tout en respectant la compétence propre de chaque juridiction et la nature de chaque remède.
 
@@ -1723,7 +1725,7 @@ Le bordereau joint à l'exemplaire déposé identifie notamment :
 - **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces**, avec son sous-inventaire PREF-1 à PREF-16 ;
 - les éléments contemporains de la candidature et du consentement de Mme Vernerey, notamment **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**, **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** ;
 - les productions et traces du contentieux devant le Tribunal administratif, notamment **P-16 — mémoire en défense devant le Tribunal administratif**, **P-17 — note manuscrite recto-verso remise à l'audience**, **P-18 — attestation CAF relative à Mme Vernerey**, **P-19 — note en délibéré du 14 septembre** et **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** ;
-- les demandes ultérieures de traçabilité et de communication, notamment **P-29 — demande du 16 septembre au Tribunal administratif sur la liste des pièces**, **P-34 — courriel consolidé du 1er octobre à la préfecture**, **P-35 — demandes P1–P18 de traçabilité adressées à la préfecture le 2 octobre** et **P-45 — demandes et relances sur les modalités pratiques de remise du recours** ;
+- les demandes ultérieures de traçabilité et de communication, notamment **P-29 — demande du 16 septembre au Tribunal administratif sur la liste des pièces**, **P-45.a — demande du 26 septembre au Bureau des élections sur les modalités de dépôt au titre de l’article 34**, **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d’une requête au titre de l’article 34**, **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie**, **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**, ainsi que **P-46 — Registre exhaustif des courriels Préfecture / Tribunal administratif**, qui rassemble les quarante-six messages distincts de cette chaîne ;
 - les éléments relatifs au scrutin et à son incidence, notamment **P-27 — résultats officiels du scrutin du 27 septembre**, **P-39 — constat de consultation des pièces électorales du 1er octobre** et **P-40 — bulletin nul imprimé « BARON MARIANI » et enveloppe**.
 
 Le sous-inventaire PREF-1 à PREF-16 de **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces** distingue ce que la préfecture a elle-même indiqué avoir joint à sa saisine initiale des éléments reçus ou invoqués par ailleurs. En particulier, **P-11 — courriel préfectoral de 16 h 14 accusant réception des documents** et **P-12 — courriel de 17 h 57 min 55 s contenant le lien vers la vidéo** n'apparaissent pas dans cet inventaire initial. Cette absence ne permet pas, à elle seule, d'affirmer qu'aucune production complémentaire n'est intervenue.
