@@ -378,3 +378,10 @@ Son cas rend la difficulté concrète et établit l'applicabilité de l'article 
 La réponse recherchée doit donc pouvoir gouverner les situations futures comparables, indépendamment des personnes impliquées dans le présent contentieux.
 
 La situation de Mme Vernerey a une fonction probatoire et contentieuse : elle montre que la question n'est ni abstraite ni hypothétique. Elle ne constitue pas la limite matérielle de la QPC.
+
+
+## Mémoire candidat au dépôt
+
+La présente note demeure le dossier de recherche. Le mémoire distinct destiné au paquet de dépôt est :
+
+`memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`
