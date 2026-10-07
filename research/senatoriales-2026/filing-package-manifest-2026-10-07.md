@@ -11,7 +11,7 @@ lifecycle_state: "active"
 related:
   - "filing-package-2026-10-07.yml"
   - "requete-conseil-constitutionnel.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel.md"
 ---
 
 # Manifeste du paquet de dépôt
