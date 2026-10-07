@@ -123,6 +123,27 @@ Pour cette branche, la descendance est clairement subsistante tandis qu'aucun an
 Dossier source :
 `musee-mariani/sources/meurgey-1933/apparatus/continuation-louis-thomas-madeleine-1933-2026.md`
 
+### Le paradoxe du patronyme — Louis-Thomas
+
+Le Tableau I fournit un exemple presque expérimental du biais patronymique.
+
+Chez les enfants de Louis-Thomas Mariani :
+
+- Antoine « Tony » conserve le nom Mariani mais ses trois enfants sont donnés morts jeunes ;
+- Essey conserve le nom Mariani mais aucune postérité n'est montrée par Meurgey ;
+- Madeleine perd le nom Mariani au mariage, mais sa descendance devient nombreuse et atteint clairement le XXIe siècle sous d'autres patronymes.
+
+Autrement dit :
+
+```text
+nom Mariani visible
+≠ descendance durable
+
+nom Mariani disparu
+≠ descendance disparue
+```
+
+Pour DIASPORA, c'est un résultat méthodologique décisif : une cartographie fondée sur les seuls patronymes sous-estimerait structurellement les capacités distribuées par les lignées féminines.
 ### Deuxième résultat du Probe 3 — Arrighi de Casanova
 
 Le Tableau II montre une autre forme de furtivité généalogique et territoriale.
