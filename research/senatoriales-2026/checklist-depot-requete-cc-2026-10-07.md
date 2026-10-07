@@ -1067,6 +1067,25 @@ Corrections appliquées :
 
 Point restant avant gel : confronter le registre P-46 normalisé avec le recueil matériel effectivement généré et vérifier que chaque sous-pièce annoncée possède une reproduction lisible et, lorsque utile, son original natif.
 
+
+### Audit matériel du paquet — v0.53
+
+Un manifeste de matérialisation est désormais disponible :
+`investigation/audit-materialisation-paquet-cc-2026-10-07.md`.
+
+Résultats structurants :
+- **P-14 — requêtes préfectorales 2601714 / 2601715** : bundles primaires retrouvés dans la bibliothèque ;
+- **P-09 — récépissé provisoire du 11 septembre à 12 h 20** : inclus comme PREF-13 dans le bundle P-14, donc extractible ;
+- **P-17 — note manuscrite recto-verso** : deux JPG primaires + transcriptions retrouvés ;
+- **P-16 — mémoire en défense** : PDF lisible retrouvé, mais identité exacte de la version effectivement déposée à confirmer ;
+- **P-13 — vidéo commune** : fiche d'intégrité retrouvée avec taille, durée et SHA-256 ; MP4 primaire à rattacher au paquet ;
+- **P-18 — attestation CAF** : source primaire encore à isoler ;
+- **P-20 — jugement TA + notification** : expédition primaire et sous-pièces de notification encore à isoler ;
+- **P-41 — annexe presse** : rétrogradée en réserve contextuelle conformément à l'arbitrage humain ;
+- **P-46 — registre exhaustif Gmail** : 46 sources identifiées, recueil lisible encore à assembler.
+
+Règle de gel : chaque pièce annoncée comme produite doit être soit **JOINTE**, soit **NON JOINTE PAR ARBITRAGE EXPLICITE** avec correction simultanée du bordereau et de la requête.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
