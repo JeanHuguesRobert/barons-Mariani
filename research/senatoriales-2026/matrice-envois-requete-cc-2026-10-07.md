@@ -29,20 +29,30 @@ Chaque destinataire reçoit :
 
 Les liens individualisés ne modifient pas le contenu du dossier. Ils servent uniquement à distinguer les chemins.
 
+### Accès conservatoire / « accès difficile »
+
+Tant que les URL individualisées instrumentées ne sont pas toutes disponibles, l’accès direct canonique de secours est :
+
+https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf
+
+Cette URL est volontairement indépendante de l’instrumentation par destinataire. Elle constitue la voie témoin / de secours (« accès difficile »). Lorsqu’une URL individualisée (« accès facile ») est disponible, celle-ci devient le lien principal de l’envoi, tandis que l’URL ci-dessus demeure le chemin direct de secours vers le même artefact logique.
+
+Avant gel, cet emplacement sert une PREVIEW/REVIEW. Après gel, il doit servir le PDF FINAL sans changer d’URL.
+
 ## Tableau opérationnel
 
-| ID | Destinataire | Adresse | Rôle | URL personnalisée | Trace attendue | Statut |
-|---|---|---|---|---|---|---|
-| E-01 | Adrien Vidal | adrien.vidal@haute-corse.gouv.fr | Interlocuteur électoral identifié | [URL-VIDAL] | réception / transmission / réorientation | brouillon Gmail créé |
-| E-02 | Bureau des élections | pref-elections@haute-corse.gouv.fr | Point d'entrée électoral préfectoral | [URL-PREF-ELECTIONS] | réception / avis SG / transmission | brouillon Gmail créé |
-| E-03 | Préfecture de Haute-Corse | prefecture@haute-corse.gouv.fr | Saisine du représentant de l'État | [URL-PREFECTURE] | réception / avis SG / transmission | à envoyer |
-| E-04 | Sous-préfecture de Corte | sp-corte@haute-corse.gouv.fr | Relais territorial de l'État | [URL-SP-CORTE] | réception / réorientation | à envoyer |
-| E-05 | Marie-Françoise Raffalli | marie-francoise.raffalli@haute-corse.gouv.fr | Relais préfectoral identifié | [URL-RAFFALLI] | réception / réorientation | à envoyer |
-| E-06 | Greffe TA Bastia | greffe.ta-bastia@juradm.fr | Relais juridictionnel, non canal art. 34 | [URL-TA-BASTIA] | réception / orientation / transmission éventuelle | à envoyer |
-| E-07 | Bureau ordre public TJ Bastia | bo.act-pub.pr.tj-bastia@justice.fr | Relais justice déjà mobilisé en 2024 | [URL-TJ-BASTIA] | réception / orientation | à envoyer |
-| E-08 | Accueil justice Bastia | accueil-bastia@justice.fr | Relais justice déjà mobilisé en 2024 | [URL-ACCUEIL-BASTIA] | réception / orientation | à envoyer |
-| E-09 | Greffe Conseil d'État | greffe@conseil-etat.fr | Relais juridictionnel supérieur, non canal art. 34 | [URL-CONSEIL-ETAT] | réception / orientation | à envoyer |
-| E-10 | Greffe Conseil constitutionnel | greffe@conseil-constitutionnel.fr | Tentative directe de remise + corrélation avec transmission préfectorale | [URL-CONSEIL-CONSTITUTIONNEL] | réception / enregistrement / référence | à envoyer |
+| ID | Destinataire | Adresse | Rôle | URL personnalisée | Accès difficile / secours | Trace attendue | Statut |
+|---|---|---|---|---|---|---|---|
+| E-01 | Adrien Vidal | adrien.vidal@haute-corse.gouv.fr | Interlocuteur électoral identifié | [URL-VIDAL] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / transmission / réorientation | brouillon Gmail créé |
+| E-02 | Bureau des élections | pref-elections@haute-corse.gouv.fr | Point d'entrée électoral préfectoral | [URL-PREF-ELECTIONS] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / avis SG / transmission | brouillon Gmail créé |
+| E-03 | Préfecture de Haute-Corse | prefecture@haute-corse.gouv.fr | Saisine du représentant de l'État | [URL-PREFECTURE] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / avis SG / transmission | à envoyer |
+| E-04 | Sous-préfecture de Corte | sp-corte@haute-corse.gouv.fr | Relais territorial de l'État | [URL-SP-CORTE] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / réorientation | à envoyer |
+| E-05 | Marie-Françoise Raffalli | marie-francoise.raffalli@haute-corse.gouv.fr | Relais préfectoral identifié | [URL-RAFFALLI] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / réorientation | à envoyer |
+| E-06 | Greffe TA Bastia | greffe.ta-bastia@juradm.fr | Relais juridictionnel, non canal art. 34 | [URL-TA-BASTIA] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / orientation / transmission éventuelle | à envoyer |
+| E-07 | Bureau ordre public TJ Bastia | bo.act-pub.pr.tj-bastia@justice.fr | Relais justice déjà mobilisé en 2024 | [URL-TJ-BASTIA] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / orientation | à envoyer |
+| E-08 | Accueil justice Bastia | accueil-bastia@justice.fr | Relais justice déjà mobilisé en 2024 | [URL-ACCUEIL-BASTIA] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / orientation | à envoyer |
+| E-09 | Greffe Conseil d'État | greffe@conseil-etat.fr | Relais juridictionnel supérieur, non canal art. 34 | [URL-CONSEIL-ETAT] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / orientation | à envoyer |
+| E-10 | Greffe Conseil constitutionnel | greffe@conseil-constitutionnel.fr | Tentative directe de remise + corrélation avec transmission préfectorale | [URL-CONSEIL-CONSTITUTIONNEL] | https://jhn.baronsmariani.org/cc/requete-conseil-constitutionnel-haute-corse-2026.pdf | réception / enregistrement / référence | à envoyer |
 
 ## Qualification par groupe
 
