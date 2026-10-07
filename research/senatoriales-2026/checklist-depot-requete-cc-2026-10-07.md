@@ -1037,6 +1037,19 @@ Audit associé :
 
 Règle : **la célérité explique un recours rapide ; elle ne suffit pas, à elle seule, à expliquer une période d'attente sans recours alors que le dommage reste encore évitable.**
 
+
+### Annexes — état de synchronisation au 7 octobre
+
+Les annexes suivantes ont été resynchronisées avec la requête stable :
+- **chronologie probatoire détaillée** : P-43.a/P-43.b, fenêtre de treize jours entre jugement et scrutin, mémoires QPC distincts ;
+- **vues tabellaires** : QPC L.299/L.303, fenêtre L.303, pièces Laurence Vernerey, chaîne P-45, remèdes ;
+- **annexe stratégique recours/remèdes** : abandon des anciennes QPC A/B, architecture actuelle L.299/L.303, expérience de pensée article 41, préservation CEDH ;
+- **annexe documentation** : généralité des QPC, fenêtre de treize jours, lecture guidée P-43/P-45 ;
+- **évolution des réponses institutionnelles** : séquence spécifique P-45 ;
+- **préservation CEDH** : fenêtre préélectorale et recours en temps utile.
+
+Contrôle restant avant gel : vérifier que ces annexes ne contiennent plus de pointeur présenté comme courant vers une ancienne version de la requête, une ancienne désignation QPC ou un statut probatoire devenu faux.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
