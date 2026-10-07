@@ -1159,11 +1159,21 @@ Les analyses relatives à l'accès ultérieur au débat audiovisuel sont exposé
 
 ### Questions prioritaires de constitutionnalité
 
-Une question prioritaire de constitutionnalité n'est pas un autre nom pour la requête électorale. La requête demande si l'élection et le refus d'enregistrement sont réguliers ; une QPC demande si une disposition législative applicable au litige respecte les droits et libertés garantis par la Constitution.
+#### Pourquoi elles peuvent être soulevées dans la présente instance
 
-Une QPC peut être soulevée directement devant le Conseil constitutionnel à l'occasion d'un contentieux électoral parlementaire dont il est lui-même le juge. La décision n° 2023-6281 SEN/QPC du 8 décembre 2023 en fournit un exemple récent. La question doit toutefois être présentée dans un mémoire distinct et motivé, viser une disposition législative applicable et satisfaire aux conditions propres à la procédure.
+L'article 61-1 de la Constitution permet de soutenir, à l'occasion d'une instance en cours devant une juridiction, qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit.
 
-Deux questions distinctes sont étudiées dans le présent dossier.
+Dans le circuit ordinaire, la question prioritaire de constitutionnalité est transmise au Conseil constitutionnel par le Conseil d'État ou la Cour de cassation. Le contentieux des élections parlementaires présente toutefois une particularité : le Conseil constitutionnel est lui-même directement saisi comme juge de l'élection sur le fondement de l'article 59 de la Constitution.
+
+Dans cette situation, une question prioritaire de constitutionnalité peut être posée directement devant lui à l'occasion du contentieux électoral en cours.
+
+Cette faculté n'est pas théorique. Dans sa décision n° 2023-6281 SEN/QPC du 8 décembre 2023, le Conseil constitutionnel a été saisi simultanément d'une requête contestant une élection sénatoriale et d'une question prioritaire de constitutionnalité soulevée à l'occasion de cette requête. Il a examiné cette QPC et l'a rejetée non parce qu'elle aurait été introduite directement devant lui, mais parce que la disposition législative contestée n'était pas suffisamment identifiée et que les conditions propres à la QPC n'étaient pas satisfaites.
+
+Le requérant est donc fondé à soulever, dans la présente instance électorale, les questions prioritaires de constitutionnalité ci-dessous, à condition de respecter leur régime propre.
+
+Chaque QPC doit faire l'objet d'un mémoire distinct et motivé. Elle doit viser une disposition législative applicable au litige ou à la procédure. La disposition ne doit pas avoir déjà été déclarée conforme à la Constitution dans les motifs et le dispositif d'une décision du Conseil constitutionnel, sauf changement de circonstances. Enfin, la question doit être nouvelle ou présenter un caractère sérieux.
+
+La requête électorale et les mémoires QPC remplissent ainsi des fonctions différentes : la première demande au Conseil de statuer sur la régularité de l'élection et du refus d'enregistrement ; les seconds lui demandent d'examiner la conformité à la Constitution de dispositions législatives précises qui gouvernent ce contentieux.
 
 #### QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs
 
@@ -1171,30 +1181,31 @@ L'article L.303 du code électoral prévoit que, lorsqu'une déclaration de cand
 
 La question constitutionnelle porte sur les garanties offertes lorsque ce jugement de première instance exclut une candidature avant le scrutin et qu'aucun contrôle du Conseil constitutionnel ne peut intervenir avant que cette exclusion ait produit son effet électoral irréversible.
 
-Le problème n'est pas de transformer une erreur éventuelle du Tribunal administratif en inconstitutionnalité de la loi. Il est de déterminer si l'architecture même de L.303 assure une garantie juridictionnelle suffisante lorsque, dans un délai de trois jours, une interprétation déterminante d'une formalité de candidature peut fermer l'accès au scrutin sans contrôle utile avant l'élection.
+Le problème n'est pas de transformer une erreur éventuelle du Tribunal administratif en inconstitutionnalité de la loi. Il est de déterminer si l'architecture même de l'article L.303 assure une garantie juridictionnelle suffisante lorsque, dans un délai de trois jours, une interprétation déterminante d'une formalité de candidature peut fermer l'accès au scrutin sans contrôle utile avant l'élection.
 
-Cette piste est développée dans la note **« QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs »**.
+Le mémoire distinct consacré à cette QPC examine notamment la garantie des droits et l'effectivité du contrôle juridictionnel au regard de l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789, ainsi que la question de l'office du juge lorsque l'effet du jugement devient irréversible avant que le Conseil constitutionnel puisse être saisi.
 
 #### QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant
 
-L'article L.299 impose l'acceptation écrite du remplaçant, sa signature et une mention manuscrite déterminée.
+L'article L.299 du code électoral impose l'acceptation écrite du remplaçant, sa signature et une mention manuscrite déterminée.
 
 La seconde question porte sur l'application de ce formalisme à une personne empêchée par un handicap d'accomplir personnellement le geste manuscrit, alors que son identité, sa volonté et son consentement peuvent être établis et qu'une jurisprudence du Conseil d'État a déjà admis, dans un régime voisin, l'accomplissement matériel par un tiers à la demande de l'intéressé empêché.
 
-Cette piste ne soutient pas qu'une pratique administrative ou une erreur d'application suffirait à constituer une QPC. Elle demande si la disposition législative elle-même, dans la mesure où elle ne prévoit pas expressément le traitement d'un tel empêchement, soulève une question constitutionnelle sérieuse.
+La question posée au Conseil est de savoir si l'article L.299, en tant qu'il impose ces formalités sans organiser expressément leur adaptation lorsque le remplaçant est empêché par un handicap de les accomplir personnellement, porte une atteinte disproportionnée à un droit ou une liberté que la Constitution garantit.
 
-Elle est développée dans la note **« QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant »**.
+Le mémoire distinct consacré à cette QPC examine notamment l'égalité d'accès aux fonctions électives, les garanties attachées à l'exercice effectif des droits politiques et la conciliation entre la finalité probatoire du formalisme électoral et la situation d'un remplaçant empêché.
 
-Ces deux questions ont des objets différents. La première concerne les garanties juridictionnelles attachées à l'exclusion d'une candidature ; la seconde concerne le formalisme légal appliqué au remplaçant empêché. Elles ne doivent ni être fusionnées ni être désignées par des lettres abstraites.
+#### Deux questions distinctes, toutes deux soulevées dans le présent contentieux
 
-Ces deux QPC font partie intégrante de la saisine adressée au Conseil constitutionnel. La présente requête les soulève expressément et en expose l'objet. Chacune est développée dans un **mémoire distinct et motivé joint au même paquet de dépôt**, afin que leur présentation respecte les exigences propres à la procédure de question prioritaire de constitutionnalité.
+Ces deux QPC ont des objets différents.
 
-Le paquet destiné au Conseil constitutionnel doit donc comprendre, avec la présente requête :
+La première concerne **les garanties juridictionnelles qui entourent l'exclusion d'une candidature avant le scrutin**.
 
-1. le mémoire distinct **« QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs »** ;
-2. le mémoire distinct **« QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant »**.
+La seconde concerne **le formalisme légal imposé au remplaçant lorsqu'un handicap empêche l'accomplissement personnel du geste manuscrit**.
 
-Ces deux mémoires ne sont pas des annexes documentaires facultatives : ils portent les moyens constitutionnels que le requérant demande au Conseil d'examiner dans le cadre de l'instance électorale.
+Elles ne sont ni interchangeables ni subsidiaires l'une de l'autre. Chacune vise une disposition législative différente, soulève une question constitutionnelle propre et fait l'objet d'un mémoire distinct et motivé joint à la présente requête.
+
+Le requérant demande en conséquence au Conseil constitutionnel d'examiner ces deux questions prioritaires de constitutionnalité dans le cadre de l'instance électorale dont il est saisi.
 
 ### Note de séparation procédurale — Conseil constitutionnel, QPC, Défenseur des droits et CEDH
 
