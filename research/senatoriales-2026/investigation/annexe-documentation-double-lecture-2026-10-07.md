@@ -193,3 +193,39 @@ Pour **L.299**, la question est générale : comment une formalité manuscrite d
 Pour **L.303**, la question est générale : quelles garanties doivent exister lorsqu'une candidature est exclue avant le scrutin et que la loi ferme toute autre contestation jusqu'au contentieux de l'élection ?
 
 Cette généralité empêche de réduire les QPC aux seules personnes du présent dossier.
+
+
+## Pourquoi les treize jours comptent
+
+Le Tribunal administratif a statué le **14 septembre 2026**.
+
+Le scrutin a eu lieu le **27 septembre 2026**.
+
+Il s'est donc écoulé **treize jours calendaires** entre le jugement d'exclusion et le vote.
+
+Pendant cette période, le dommage n'était pas encore complètement consommé : la candidature pouvait encore, matériellement, participer au scrutin si une décision juridictionnelle utile était intervenue.
+
+L'article L.303 impose pourtant au Tribunal administratif de statuer en trois jours puis prévoit que son jugement ne peut être contesté que devant le Conseil constitutionnel saisi de l'élection.
+
+La difficulté peut être résumée ainsi :
+
+> **trois jours pour décider ; treize jours sans autre voie de contestation utile ; puis le scrutin rend l'exclusion irréversible.**
+
+La question constitutionnelle n'est donc pas seulement celle d'un second degré de juridiction. Elle porte sur l'existence d'un contrôle utile pendant une période où l'atteinte peut encore être évitée.
+
+## Lecture guidée de P-43 — correspondance contemporaine avec Laurence Vernerey du 7 au 14 septembre
+
+Deux sous-pièces sont particulièrement importantes :
+
+- **P-43.a — courriel « Autorisation » du 10 septembre 2026** : Laurence Vernerey autorise expressément Jean Hugues Robert à utiliser sa signature sur le CERFA où elle se porte remplaçante ;
+- **P-43.b — courriel « Porte-parole » du 11 septembre 2026** : elle le désigne expressément comme porte-parole de la campagne.
+
+Ces pièces ne remplacent pas les formalités électorales. Elles documentent la volonté, le consentement et la demande faite au tiers.
+
+## Lecture guidée de P-45 — demandes et relances sur les modalités pratiques de remise du recours
+
+P-45 rassemble quatre démarches distinctes des 26 septembre, 28 septembre, 1er octobre et 2 octobre 2026.
+
+Elles documentent la recherche, avant l'échéance, du lieu, du canal, de l'heure pratique et de la preuve de réception nécessaires à la remise d'une requête au représentant de l'État.
+
+La proposition probatoire doit rester exacte : **aucune réponse substantielle n'a été retrouvée sur ces modalités malgré les demandes identifiées**. Cela ne signifie pas que l'administration n'a répondu à aucune autre demande.
