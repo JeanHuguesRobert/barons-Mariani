@@ -3,7 +3,7 @@ title: "Suicide Corse — suivi du numéro 4"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
-last_modified_at: "2026-10-06"
+last_modified_at: "2026-10-07"
 status: "working"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -27,6 +27,24 @@ review:
 ---
 
 # Suivi du numéro 4
+
+## 7 octobre 2026 — v0.18, P-45 et redondance de dépôt
+
+La requête courante est désormais **v0.18** et le bordereau courant **v0.10**. Le statut reste **non déposé**.
+
+Le mouvement substantiel est double :
+
+1. **P-45** documente intégralement la chaîne des demandes des 26 et 28 septembre puis des relances des 1er et 2 octobre sur la modalité pratique de dépôt au titre de l'article 34. La qualification reste bornée : aucune réponse substantielle retrouvée sur ce point, et non « absence générale de réponse de l'État ».
+2. le dépôt est désormais préparé comme une **redondance matérielle d'un paquet unique** : plusieurs voies de remise du même objet gelé, avec preuves indépendantes de réception, sans versions divergentes.
+
+Sources canoniques :
+- `research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.18.md`
+- `research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md`
+- `research/senatoriales-2026/matrice-canaux-materiels-depot-2026-10-07.md`
+- `research/senatoriales-2026/investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md`
+
+Le prochain changement de régime restera le dépôt effectif : à ce moment seulement, le n°4 devra figer l'exemplaire réellement remis, son bordereau, ses pièces et chaque preuve horodatée de réception.
+
 
 ## 6 octobre 2026 — propagation de la stratégie de recours et des remèdes
 
