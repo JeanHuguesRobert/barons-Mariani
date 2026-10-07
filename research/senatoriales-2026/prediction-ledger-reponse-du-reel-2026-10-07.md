@@ -362,3 +362,76 @@ Quand le Réel répondra, ajouter :
 - scénario correspondant ;
 - écart éventuel avec la prédiction ;
 - mise à jour bayésienne ou commentaire rétrospectif **sans modifier les probabilités ex ante ci-dessus**.
+
+
+---
+
+## Résultat observé — première réponse institutionnelle
+
+**Ajout postérieur au gel prédictif. Les probabilités ci-dessus restent inchangées.**
+
+Gel prédictif : **18:14:17 CEST**.
+
+À **18:19:57 CEST**, soit **5 min 40 s après le gel**, le greffe du Conseil constitutionnel a notifié que la requête avait été **reçue le 7 octobre 2026** et **enregistrée sous le numéro 2026-6589 SEN**.
+
+### Événement indépendant réalisé
+
+La sous-prédiction :
+
+> « Une référence d'enregistrement au Conseil constitutionnel est finalement attribuée. » — **80 %**
+
+est donc **réalisée**.
+
+### Classement A1 / A2 : prudence nécessaire
+
+Le premier état institutionnel significatif observable est une **référence d'enregistrement formelle sans objection procédurale majeure au dépôt**.
+
+Cela correspond fortement à la composante centrale de **A1**.
+
+Cependant, deux événements sont arrivés **avant le gel** mais n'avaient pas encore été intégrés à l'information utilisée pour établir les probabilités :
+
+- **18:00:34** : invitation TransfertPro ouverte par le greffe ;
+- **18:03:49** : message humain du greffe signalant que le lien communiqué ne fonctionnait pas.
+
+Ils constituent une demande pratique de canal alternatif / clarification qui présente certains traits de **A2**.
+
+Pour préserver la qualité du test, il faut donc distinguer :
+
+1. **information arrivée avant le gel** ;
+2. **information effectivement connue et intégrée dans la carte au moment du gel** ;
+3. **événement observé après le gel**.
+
+La classification provisoire la plus fidèle est :
+
+- **résultat principal observé : A1-compatible** — enregistrement formel rapide, sans objection majeure connue ;
+- **signal secondaire A2-compatible** — canal alternatif proposé à cause d'un incident technique temporaire ;
+- **aucun signal A3 observé à ce stade** ;
+- **A4 réfuté presque immédiatement**.
+
+Cette qualification pourra encore être affinée si le Conseil indique ultérieurement que l'enregistrement dépendait d'une régularisation particulière ou d'un canal précis.
+
+### Temps de réponse du Réel
+
+```text
+18:14:17  gel prédictif
+18:19:57  notification officielle d'enregistrement
+-----------
+00:05:40
+```
+
+Le premier test a donc produit une réponse institutionnelle observable **cinq minutes et quarante secondes après le gel**.
+
+### Ce qui reste entièrement ouvert
+
+Aucune des probabilités B1–B5 sur l'issue contentieuse finale n'est résolue par l'enregistrement.
+
+Restent également ouverts :
+
+- traitement explicite des QPC ;
+- traitement du grief accessibilité / handicap ;
+- rôle du grief France 3 ;
+- demande éventuelle de pièces ou d'observations ;
+- portée future de la question de la dématérialisation ;
+- issue finale de l'élection contestée.
+
+L'enregistrement est une réponse du Réel sur **l'entrée du dossier dans le circuit du Conseil**, pas sur le fond du contentieux.
