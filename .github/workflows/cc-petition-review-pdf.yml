@@ -179,22 +179,31 @@ jobs:
           git reset --hard origin/main
 
           mkdir -p "$TARGET_DIR"
-          cp "$PDF" "$TARGET_PDF"
-          cp "$SUMS" "$TARGET_DIR/SHA256SUMS.txt"
-          cp "$SRC" "$TARGET_DIR/SOURCE_COMMIT.txt"
 
-          cat > "$TARGET_DIR/README.md" <<EOF
-          # REVIEW PDF — source $SOURCE_SHA
+          NEW_SHA="$(sha256sum "$PDF" | awk '{print $1}')"
+          if [ -f "$TARGET_PDF" ]; then
+            OLD_SHA="$(sha256sum "$TARGET_PDF" | awk '{print $1}')"
+            if [ "$OLD_SHA" != "$NEW_SHA" ]; then
+              echo "Refusing to overwrite immutable REVIEW snapshot for $SOURCE_SHA" >&2
+              echo "existing=$OLD_SHA new=$NEW_SHA" >&2
+              exit 51
+            fi
+          else
+            cp "$PDF" "$TARGET_PDF"
+          fi
 
-          This directory is a durable, commit-addressed review snapshot.
+          printf '%s  %s\n' "$NEW_SHA" "requete-conseil-constitutionnel-REVIEW.pdf" > "$TARGET_DIR/SHA256SUMS.txt"
+          printf '%s\n' "$SOURCE_SHA" > "$TARGET_DIR/SOURCE_COMMIT.txt"
 
-          - source commit: `$SOURCE_SHA`
-          - status: **REVIEW — non déposé — non gelé**
-          - PDF: `requete-conseil-constitutionnel-REVIEW.pdf`
-          - integrity: `SHA256SUMS.txt`
-
-          This snapshot must never be confused with the future frozen/final filing artifact.
-          EOF
+          {
+            printf '# REVIEW PDF — source %s\n\n' "$SOURCE_SHA"
+            printf '%s\n\n' 'This directory is a durable, commit-addressed review snapshot.'
+            printf '%s\n' "- source commit: \`$SOURCE_SHA\`"
+            printf '%s\n' '- status: **REVIEW — non déposé — non gelé**'
+            printf '%s\n' '- PDF: `requete-conseil-constitutionnel-REVIEW.pdf`'
+            printf '%s\n\n' '- integrity: `SHA256SUMS.txt`'
+            printf '%s\n' 'This snapshot must never be confused with the future frozen/final filing artifact.'
+          } > "$TARGET_DIR/README.md"
 
           git add "$TARGET_DIR"
 
