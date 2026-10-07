@@ -59,7 +59,7 @@ Les pièces suivantes ont une source Gmail native identifiée et une chronologie
 - **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** : SOURCE PRIMAIRE LOCALISÉE, Gmail `1a0914a4db8cf48b` ; horodatage local 18 h 25 min 49 s CEST, donc postérieur à 18 h ;
 - **P-44 — communication France Transfert des requêtes préfectorales le 11 septembre** : SOURCE PRIMAIRE LOCALISÉE, deux messages Gmail ;
 - **P-45.a à P-45.d — demandes et relances sur les modalités pratiques de remise du recours** : SOURCES PRIMAIRES LOCALISÉES ;
-- **P-46 — registre exhaustif des courriels Préfecture / Tribunal administratif** : les 46 Gmail IDs sont identifiés ; À ASSEMBLER sous forme de recueil lisible avec en-têtes utiles et occultations bornées.
+- **P-46 — registre exhaustif des courriels Préfecture / Tribunal administratif** : les 46 Gmail IDs sont identifiés ; un index lisible canonique est désormais disponible dans `p46-index-registre-courriels-prefecture-ta-2026-10-07.md`. Reste à produire les reproductions matérielles des messages retenus dans le paquet.
 
 ## 3. Pièces primaires retrouvées dans la bibliothèque
 
