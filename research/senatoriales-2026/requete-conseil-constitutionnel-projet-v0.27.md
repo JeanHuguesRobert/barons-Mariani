@@ -851,8 +851,6 @@ Ne jamais présenter ces notions comme synonymes sans texte ou jurisprudence.
 
 Le courriel préfectoral du 10 septembre et la requête préfectorale P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces soutiennent qu'un envoi dématérialisé ne satisfait pas aux exigences applicables et invoquent l'absence de CERFA originaux physiquement produits. Le requérant rapporte qu'aucune impression suivie d'une signature sur place de son propre CERFA ne lui a été proposée ; ce dernier point reste un fait rapporté, non une trace institutionnelle établie.
 Cette analyse s'appuie sur Courriel du BEDL du 10 septembre à 20h05 (**P-06 — réponse du Bureau des élections du 10 septembre à 20 h 05 sur les originaux**) ; jugement du TA de Bastia du 14 septembre (**P-20 — jugement du Tribunal administratif de Bastia du 14 septembre 2026**).
-* **RÈGLE** :
-
 L'article **L.299** impose une acceptation écrite du remplaçant.
 
 Cette acceptation doit porter sa signature.
@@ -928,8 +926,6 @@ Ce faisceau est invoqué comme garantie cumulative de l'authenticité du consent
 
 Il n'est pas présenté comme équivalent automatiquement aux formalités de L.299.
 Cette analyse s'appuie sur Attestation CAF (**P-18 — attestation CAF relative à Mme Vernerey**) ; note en délibéré (**P-19 — note en délibéré du 14 septembre 2026**) ; courriel du greffe du 16 septembre (**P-30 — réponse du greffe du 16 septembre**) ; courriel d'autorisation de Mme Vernerey ; attestation électorale portant sa signature ; vidéo contemporaine (**P-13 — déclaration vidéo commune Robert / Vernerey du 11 septembre**) ; échanges contemporains à verser au dossier.
-* **RÈGLE / QUESTION JURIDIQUE** :
-
 Dans sa décision **CE, 14 mai 2021, n° 445497**, le Conseil d'État confirme que la signature et la mention manuscrite sont normalement personnelles.
 
 Il les traite comme des formalités nécessaires.
@@ -976,13 +972,11 @@ Il doit identifier les indices objectifs :
 Une motivation brève n'est pas, à elle seule, la preuve d'une absence de contrôle.
 
 Lors de l'audience du 14 septembre 2026 à 15h00, le requérant disposait de l'enregistrement vidéo contemporain du 11 septembre et rapporte en avoir proposé le visionnage immédiat à la formation de jugement. Aucun document institutionnel identifié n'établit que cette vidéo a été visionnée.
-Le requérant rapporte que Le requérant relate avoir été surpris d'entendre la présidente de la formation indiquer, en substance, qu'elle n'allait pas examiner les autres pièces dès lors que l'absence des CERFA originaux sur support papier lui paraissait suffisante pour écarter la candidature. Cette déclaration d'audience n'est corroborée par aucune trace écrite institutionnelle identifiée ; elle doit donc rester qualifiée comme témoignage du requérant et non comme fait judiciairement établi.
-* **TRACE POST-AUDIENCE ÉTABLIE** : À **15 h 48 min 32 s CEST**, le requérant a adressé au greffe le courriel intitulé **« Note en délibéré – n° 2601714-1 et 2601715-1 »**, conformément à l'indication qui venait de lui être donnée au greffe, avec l'attestation CAF de Mme Laurence Vernerey en pièce jointe. Le jugement a enregistré cette note à **15 h 49**. Le greffe a ensuite confirmé par écrit, le 16 septembre, que la formation de jugement avait pris connaissance de cette note avant de prendre sa décision.
-* **TRACE ORALE RAPPORTÉE** : Le requérant rapporte en outre que M. Romain Longinotti lui a confirmé oralement, immédiatement après l'envoi, la bonne réception de ce courriel. Cette circonstance concorde avec l'enregistrement à 15 h 49 et avec la confirmation écrite ultérieure du greffe, sans constituer à elle seule une preuve institutionnelle indépendante.
+Le requérant rapporte avoir été surpris d'entendre la présidente de la formation indiquer, en substance, qu'elle n'allait pas examiner les autres pièces dès lors que l'absence des CERFA originaux sur support papier lui paraissait suffisante pour écarter la candidature. Cette déclaration d'audience n'est corroborée par aucune trace écrite institutionnelle identifiée ; elle doit donc rester qualifiée comme témoignage du requérant et non comme fait judiciairement établi.
+À **15 h 48 min 32 s CEST**, le requérant a adressé au greffe le courriel intitulé **« Note en délibéré – n° 2601714-1 et 2601715-1 »**, conformément à l'indication qui venait de lui être donnée au greffe, avec l'attestation CAF de Mme Laurence Vernerey en pièce jointe. Le jugement a enregistré cette note à **15 h 49**. Le greffe a ensuite confirmé par écrit, le 16 septembre, que la formation de jugement avait pris connaissance de cette note avant de prendre sa décision.
+Le requérant rapporte en outre que M. Romain Longinotti lui a confirmé oralement, immédiatement après l'envoi, la bonne réception de ce courriel. Cette circonstance concorde avec l'enregistrement à 15 h 49 et avec la confirmation écrite ultérieure du greffe, sans constituer à elle seule une preuve institutionnelle indépendante.
 Cette analyse s'appuie sur Mémoire en défense (**P-16 — mémoire en défense devant le Tribunal administratif**) ; note manuscrite d'audience (**P-17 — note manuscrite recto-verso remise à l'audience**) ; vidéo contemporaine (**P-13 — déclaration vidéo commune Robert / Vernerey du 11 septembre**) ; courriel du 14 septembre à 15:48:32 et sa pièce jointe (**P-19 — note en délibéré du 14 septembre / source Gmail**) ; jugement mentionnant l'enregistrement de la note à 15:49 ; courriel du greffe du 16 septembre confirmant que la formation en avait pris connaissance avant de décider.
 Le cadre juridique applicable est le suivant : L'article L.303 confie au Tribunal administratif le contrôle du refus d'enregistrement ; il ne transforme pas le juge en simple relais de la qualification préfectorale. Le requérant demande au Conseil d'apprécier si la formation a exercé un contrôle propre sur chacune des difficultés — support, signature, mention manuscrite, consentement, handicap et solutions praticables — ou si la prémisse préfectorale relative aux « originaux papier » a déterminé à elle seule l'issue du litige.
-* **ÉCART ALLÉGUÉ / RISQUE DE CADRAGE INSTITUTIONNEL** :
-
 Le requérant identifie plusieurs indices convergents.
 
 Le premier est la focalisation sur l'absence des originaux.
@@ -1271,10 +1265,10 @@ Il est solennellement rappelé au Conseil constitutionnel l'urgence et la gravit
 4. **Remède difficile ne signifie pas absence de remède** :
    - la perte de participation à une séquence parlementaire déterminée peut devenir matériellement irréversible avant même qu'une décision contentieuse n'intervienne ;
    - cette irréversibilité ne permet toutefois pas d'affirmer qu'aucun remède juridique n'existe : l'article 41 prévoit, dans son champ propre, l'annulation de l'élection ou la réformation de la proclamation, et l'article LO 322 organise une élection partielle après annulation ;
-   - c'est dans cette logique que la proclamation directe du requérant est conservée à titre **infiniment subsidiaire et volontairement extrême** : non comme résultat juridiquement acquis, mais afin que l'éventuelle impossibilité de ce remède ne soit pas confondue avec l'absence de tout pouvoir correctif.
+   - la proclamation directe du requérant est donc formulée comme une demande subsidiaire de second rang, afin que l'éventuelle impossibilité de ce remède ne soit pas confondue avec l'absence de tout pouvoir correctif.
 
 5. **Fonction exacte de la conclusion extrême** :
-   - la proclamation directe du requérant est volontairement formulée comme une demande de second rang, précisément parce qu'elle est juridiquement difficile ;
+   - la proclamation directe du requérant est formulée comme une demande de second rang ;
    - sa fonction est de distinguer **remède parfait**, **remède juridiquement disponible** et **absence de remède** ;
    - l'impossibilité éventuelle de proclamer directement le requérant ne démontrerait pas qu'aucune réparation n'est concevable ; elle conduirait au contraire à identifier plus nettement l'étendue réelle des pouvoirs correctifs du Conseil ;
    - la demande principale reste l'annulation, dont la conséquence normale est l'élection partielle prévue par l'article LO 322.
@@ -1300,7 +1294,7 @@ Les conclusions doivent rester ordonnées :
 3. mesures d'instruction utiles ;
 4. à titre subsidiaire, examen de tout autre pouvoir correctif légalement disponible.
 
-Le lecteur ne doit jamais confondre une demande principale avec un hypothèse de remède.
+Une demande subsidiaire ne doit pas être confondue avec la demande principale.
 
 Par ces motifs, et sous réserve de tous autres à produire, déduire ou suppléer, le requérant conclut qu'il plaise au Conseil constitutionnel :
 
