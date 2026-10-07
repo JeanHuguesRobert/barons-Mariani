@@ -9,7 +9,7 @@ document_kind: "filing-package-manifest"
 visibility: "public"
 lifecycle_state: "active"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "requete-conseil-constitutionnel-projet-v0.19.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
 ---
 
@@ -19,10 +19,17 @@ related:
 
 | Objet | Version courante | État |
 |---|---|---|
-| Requête | v0.18 | texte source prêt pour gel ; non déposé |
+| Requête | v0.19 | texte source prêt pour gel ; non déposé |
 | Bordereau | v0.10 | cohérent P-01 à P-45 ; non déposé |
+| Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
 | Inventaire probatoire | v1.6 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.14 | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.15 | outil interne ; ne pas annexer par défaut |
+
+## 1 bis. Annexe chronologique obligatoire
+
+Le paquet doit comprendre `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md` sous une représentation figée et lisible.
+
+Cette annexe doit être gelée **au même instant logique** que la requête et le bordereau. Toute évolution postérieure reste dans le Corpus mais ne doit pas être confondue avec la chronologie effectivement remise.
 
 ## 2. Production A proposée
 
