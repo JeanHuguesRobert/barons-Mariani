@@ -114,6 +114,15 @@ La valeur actuelle de 2017 et 2024 est surtout :
 
 Elle n'est pas de ressusciter artificiellement des recours expirés.
 
+
+### Référence historique consolidée
+
+La chronologie comparative des recours **2017-5139 AN**, **2024-6309 AN** et **2026-6589 SEN** est désormais maintenue séparément afin d'éviter de reconstruire ultérieurement les étapes depuis des sources dispersées :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/elections/historique-recours-conseil-constitutionnel-2017-2024-2026.md
+
+Cette chronologie distingue réception, enregistrement, première publicité, décision, Journal officiel et propagation dans les index. Elle peut servir de matériau factuel à une future analyse CEDH, sans transformer la répétition documentaire en conclusion juridique sur une situation continue, une réouverture des délais ou une violation conventionnelle.
+
 ## 5. Le « remède impossible » : distinguer absence de pouvoir et choix du remède
 
 L'un des dommages invoqués est temporel : l'éviction de la candidature prive le requérant de la possibilité de participer, comme sénateur de Haute-Corse, au débat sénatorial contemporain sur l'autonomie de la Corse si ce débat intervient avant que le contentieux n'ait produit un effet utile.
