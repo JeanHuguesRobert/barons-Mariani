@@ -1,14 +1,14 @@
 ---
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/notices_famille_etendue.md
-title: Notices — famille étendue Mariani / de Casabianca / d’Angelis
-description: Méthode et feuille de route pour créer des notices généalogiques augmentées, sourcées et évolutives sur la famille étendue.
+title: Notices — famille étendue Mariani et alliances
+description: Méthode et feuille de route pour créer des notices généalogiques augmentées, sourcées et évolutives sur la famille Mariani et ses alliances.
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ai_assisted_by:
   - ChatGPT
 date: '2026-09-12'
-last_modified_at: '2026-10-04'
-version: '0.4'
+last_modified_at: '2026-10-07'
+version: '0.5'
 status: working paper — public research roadmap
 language: fr
 license: CC BY-SA 4.0
@@ -21,6 +21,8 @@ source_scope:
   - famille Mariani
   - famille de Casabianca
   - famille d’Angelis
+  - famille Arrighi de Casanova
+  - autres alliances documentées par Meurgey 1933
 related_documents:
   - musee-mariani/notes-critiques/preuves-et-incertitudes.md
   - musee-mariani/sources/bibliographie.md
@@ -56,6 +58,23 @@ Chaque notice doit pouvoir rendre compte à la fois de la personne, de ses liens
 
 Cette méthode prolonge directement la grille critique du Musée Mariani : [`Preuves et incertitudes`](../notes-critiques/preuves-et-incertitudes.md).
 
+## 0 bis. Périmètre extensible
+
+Le périmètre n'est plus limité aux trois branches initiales Mariani / de Casabianca / d’Angelis.
+
+Le dépouillement de Meurgey 1933 démontre que le suivi par les femmes et par changement de patronyme est indispensable. Toute alliance peut donc obtenir un sous-corpus canonique lorsqu'elle devient un objet d'enquête substantiel.
+
+Premier cas ajouté : [Arrighi de Casanova](../arrighi-de-casanova/README.md).
+
+Règle :
+
+```text
+alliance ponctuelle
+→ simple relation dans le graphe
+
+alliance avec descendance / patrimoine / trajectoire propre significative
+→ sous-corpus dédié
+```
 ## 1. Contenu minimal d’une notice
 
 Chaque notice doit distinguer strictement :
