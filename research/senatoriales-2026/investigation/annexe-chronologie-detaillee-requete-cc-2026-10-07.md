@@ -2,7 +2,7 @@
 title: "Annexe — chronologie probatoire détaillée — requête sénatoriale Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.3"
+version: "0.4"
 status: "active — evolving until filing"
 language: "fr"
 document_role: "legal-annex"
@@ -62,7 +62,7 @@ La chronologie ne remplace aucune pièce primaire.
 | ~16:13 | Arrivée secteur Ajaccio | Timeline + précision du principal | ÉTABLI / PRÉCISÉ | — |
 | 16:14:05 | « J'accuse réception des documents » | P-11 — Gmail 1a090d1926fe460b | ÉTABLI | Aucun nouveau défaut mentionné dans ce message. |
 | ~17:30 | Préparation de la déclaration vidéo commune | notes/conversation | RAPPORTÉ + TRACE | — |
-| 17:45:55 | Création de VID_20260911_174455.mp4 | métadonnées | ÉTABLI | Original et empreinte à conserver. |
+| 17:45:55 | Création de **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** (VID_20260911_174455.mp4) | métadonnées vidéo + P-13 | ÉTABLI | Original et empreinte à conserver ; documente identité, volonté et consentement. |
 | 17:57:55 | Envoi au BEDL du lien vers la vidéo | P-12 — Gmail 1a0913095d550884 | ÉTABLI | Émission établie ; réception serveur côté État INCONNU. |
 | 18:00 | Clôture du dépôt des candidatures | règle applicable | ÉTABLI | Borne temporelle. |
 | 18:16 | Réception Télérecours de la saisine préfectorale | P-14 | ÉTABLI | Inventaire initial PREF-1 à PREF-16. |
@@ -87,6 +87,7 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 |---|---|---|---|---|
 | 14:09:17 | Courriel préfecture + greffe signalant notamment l'absence apparente de la vidéo dans le dossier transmis | P-15 — Gmail 1a09fd25895322fe | ÉTABLI | Alerte avant audience. |
 | 14:09:26 | Accusé automatique de la préfecture | Gmail 1a09fd28135eb8c3 | ÉTABLI | — |
+| avant audience | **P-16 — mémoire en défense devant le Tribunal administratif** | mémoire produit au dossier | ÉTABLI | Expose la défense du candidat avant le jugement. |
 | 15:00 | Ouverture audience | P-20 | ÉTABLI | — |
 | ouverture audience | Remise d'observations manuscrites | P-17 + témoignage | RAPPORTÉ + TRACE | Lien exact avec « Réception d'une lettre » Sagace INCONNU. |
 | 15:15 | Clôture instruction | P-20 | ÉTABLI | — |
@@ -215,7 +216,7 @@ Aucun acte matériel nouveau identifié dans les recherches ciblées. Audit fina
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 09:30:33 | Consolidation générale, Sous-préfecture/TA/Défenseur des droits en copie | P-45.c | ÉTABLI | Rappelle les questions ouvertes. |
+| 09:30:33 | **P-34 — courriel consolidé du 1er octobre à la préfecture**, comprenant aussi **P-45.c — consolidation du 1er octobre avec la Sous-préfecture de Corte en copie** | Gmail 1a0f65f52d19c6f7 | ÉTABLI | Rassemble les questions ouvertes, dont les modalités de remise du recours. |
 | 10:11:07 | Adresse du rendez-vous communiquée | P-37 | ÉTABLI | — |
 | 12:30:20 | Réponse sur l'adresse / déplacement | P-38 | ÉTABLI | — |
 | 14:00 | Rendez-vous de consultation prévu | P-28 | ÉTABLI | — |
@@ -228,7 +229,7 @@ Aucun acte matériel nouveau identifié dans les recherches ciblées. Audit fina
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
 | 10:40:46 | Courriel TA : dix demandes D1–D10 | Gmail 1a0fbc6018fac906 | ÉTABLI | — |
-| 13:33:55 | Courriel préfecture structuré P1–P18 | P-45.d — Gmail 1a0fc64750fe95b6 | ÉTABLI | P11/P12 reprennent le canal de dépôt et les demandes pendantes. |
+| 13:33:55 | **P-35 — demandes P1–P18 de traçabilité adressées à la préfecture le 2 octobre**, comprenant **P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt** | Gmail 1a0fc64750fe95b6 | ÉTABLI | P11/P12 reprennent le canal de dépôt et les demandes pendantes. |
 
 ## 3 octobre 2026
 
