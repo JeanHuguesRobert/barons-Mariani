@@ -27,7 +27,7 @@ review:
 
 > « Les Mariani sont aujourd'hui représentés par… »
 
-puis énumère des personnes appartenant soit au patronyme Mariani, soit à des branches descendantes par les femmes.
+puis énumère des personnes appartenant au patronyme Mariani, à des branches descendantes par les femmes **et à des collatéraux par alliance**. La seconde passe du Tableau I montre donc que le mot « représentés » ne peut pas être assimilé à « descendants ».
 
 Ce passage constitue un **snapshot nominatif t₀ = 1933** particulièrement utile pour l'enquête.
 
@@ -46,9 +46,9 @@ Source canonique : [`p002.md`](../transcription/p002.md), [MEURGEY-1933 p. 2].
 | **le baron Georges-Tom Hainguerlot** | Tom / Georges-Tom Hainguerlot | même branche | **PROBABLEMENT SUBSISTANTE** | inconnu | descendants privés signalés par bases secondaires ; à consolider |
 | **la baronne André Terlinden** | Madeleine Hainguerlot × André Terlinden | Blanche d'Adhémar → Madeleine Hainguerlot | **SUBSISTANTE, nombreuse** | lien corse contemporain non établi | inclut Jacqueline Terlinden → Jean Compagnon → Antoine Compagnon |
 | **la vicomtesse de Saint-Saud** | Marie-Thérèse Filippini × Léonard d'Arlot de Saint-Saud | Marie-Madeleine Mariani → Filippini | **POSTÉRITÉ NON TROUVÉE / UNKNOWN** | aucun | mariage et trajectoire patrimoniale documentés ; absence d'enfants non démontrée |
-| **M. Antoine Fantauzzi et ses fils Christian et Gérard** | Antoine Fantauzzi × Marie-Thérèse Le Clerc de Bussy ; Christian (1916–1990) ; Gérard (1923–2005) | branche Fantauzzi ; nature exacte du critère de « représentation » Meurgey à préciser | **POSTÉRITÉ NON TROUVÉE / UNKNOWN** pour Christian et Gérard | implantation continentale documentée | décès fixés ; aucune épouse/descendance trouvée dans la première recherche ciblée |
-| **M. Jules Fantauzzi et ses enfants Michel et Janine Fantauzzi** | Jules Fantauzzi (1881–...) × Suzanne Meurgey ; Michel ; Janine (1917–2002) × François Marie Nicolas Fournier-Sarlovèze (1896–1975) | branche Fantauzzi | **SUBSISTANCE TRÈS PROBABLE par Janine ; fermeture notariale encore requise** | implantation patrimoniale/agricole durable dans l’Oise | SCEA Fantauzzi active en 2026 ; actes sociaux indiquant une transmission à deux enfants ; identité des deux maillons à fermer directement par l’acte |
-| **Mlle Sophie Gautier** | identité exacte et rattachement encore à fermer | branche Gautier / Fantauzzi visible au Tableau I | **UNKNOWN** | inconnu | priorité de reconstruction du Tableau I |
+| **M. Antoine Fantauzzi et ses fils Christian et Gérard** | Antoine Fantauzzi, frère de Sophie Fantauzzi épouse Albert Mariani ; Christian (1916–1990) ; Gérard (1923–2005) | **collatéraux par alliance, pas descendants Mariani dans cette chaîne** | **POSTÉRITÉ NON TROUVÉE / UNKNOWN** pour Christian et Gérard | implantation continentale documentée | la liste de Meurgey prouve ici que « représentés » est plus large que « descendants » |
+| **M. Jules Fantauzzi et ses enfants Michel et Janine Fantauzzi** | Jules Fantauzzi, frère de Sophie Fantauzzi épouse Albert Mariani ; Janine (1917–2002) × François Marie Nicolas Fournier-Sarlovèze (1896–1975) | **collatéraux par alliance, pas descendants Mariani dans cette chaîne** | continuité familiale Fantauzzi/Fournier-Sarlovèze très probable ; fermeture notariale encore requise | implantation patrimoniale/agricole durable dans l’Oise | utile comme cas d’alliance et de déplacement de capacités, mais à ne plus compter dans la descendance Mariani |
+| **Mlle Sophie Gautier** | identité exacte encore à fermer | vraisemblablement collatérale de la constellation Gautier/Fantauzzi ; **aucune descendance Mariani démontrée** | **UNKNOWN** | inconnu | ne pas confondre avec Sophie Fantauzzi (1879–1913) |
 
 ## Correctif Vaufreland
 
@@ -164,3 +164,38 @@ Sophie Fantauzzi († 1913)
 L'identité de Sophie Gautier reste donc ouverte. Le Corpus interdit toute correction silencieuse du patronyme.
 
 Source : https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph
+
+## Correctif majeur — « représentés » ≠ « descendants »
+
+La seconde lecture visuelle du Tableau I, recoupée avec l'acte de mariage Joseph Fantauzzi × Louise Gautier, impose une correction méthodologique.
+
+Le tableau montre séparément :
+
+```text
+Albert Mariani × Sophie Fantauzzi
+
+et
+
+Joseph Fantauzzi × Louise Gautier
+├── Sophie Fantauzzi
+├── Antoine Fantauzzi
+└── Jules Fantauzzi
+```
+
+Antoine et Jules sont donc les **frères de l'épouse d'Albert Mariani**. Leur présence dans la phrase de Meurgey « Les Mariani sont aujourd'hui représentés par… » établit que cette formule englobe au moins certains **collatéraux par alliance**, et pas uniquement des descendants biologiques des Mariani.
+
+Conséquence : le registre t₀ de 1933 reste extrêmement utile, mais chaque entrée doit être qualifiée par type de lien :
+
+```text
+descendant direct
+descendant par les femmes
+conjoint
+collatéral par alliance
+relation encore inconnue
+```
+
+Le cas Fantauzzi/Fournier-Sarlovèze reste pertinent pour l'histoire des **alliances et des capacités familiales distribuées**, mais ne doit plus être présenté comme preuve de survie de la descendance Mariani.
+
+Sources de contrôle :
+- Tableau I, seconde lecture visuelle ;
+- Joseph Fantauzzi × Louise Gautier : https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph.
