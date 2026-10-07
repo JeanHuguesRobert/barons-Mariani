@@ -1139,7 +1139,7 @@ Un recours enfermé dans un délai de dix jours ne peut être regardé seulement
 C'est pourquoi la traçabilité des modalités de dépôt fait partie du même problème d'effectivité.
 ---
 
-## NOTE DE PÉRIMÈTRE — hiérarchie des moyens
+## HIÉRARCHIE DES MOYENS
 
 Les griefs n°1 à 4 bis portent sur le refus d'enregistrement de la candidature et sur son contrôle. Le grief n°5 concerne l'incidence possible de cette éviction sur le scrutin. Les éléments relatifs aux effets politiques et médiatiques ultérieurs sont exposés comme contexte lorsqu'ils éclairent la portée de l'éviction.
 
@@ -1544,4 +1544,4 @@ Cette annexe ne constitue pas une preuve autonome et ne remplace aucune pièce s
 
 ## IX. ÉTAT DU DOSSIER AU MOMENT DE LA SIGNATURE
 
-La présente version est une **candidate de dépôt**. La signature et la remise ne valent que pour l'exemplaire effectivement figé avec son bordereau et ses pièces. La preuve de dépôt — date, heure, canal et récépissé ou accusé — sera conservée séparément sans réécrire rétroactivement le présent texte.
+La présente requête est destinée au dépôt. La signature et la remise ne valent que pour l'exemplaire effectivement figé avec son bordereau et ses pièces. La preuve de dépôt — date, heure, canal et récépissé ou accusé — sera conservée séparément sans réécrire rétroactivement le présent texte.
