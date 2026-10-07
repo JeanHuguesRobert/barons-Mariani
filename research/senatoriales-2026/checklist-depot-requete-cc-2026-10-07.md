@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.55"
+version: "0.56"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -1116,6 +1116,21 @@ Conséquence : P-18 n'est plus un verrou de localisation ; il reste à produire 
 - identifiant Drive source : `1P0AIJ-FzX69xkd4-kQyujbJg2nGqRbtC`.
 
 P-13 n'est plus un verrou de localisation ou d'intégrité. Reste seulement l'arbitrage sur le mode de production matérielle au Conseil.
+
+
+### P-20 verrouillée matériellement — v0.56
+
+**P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** :
+- trois pages du jugement photographiées retrouvées en bibliothèque ;
+- lettre de notification du 14 septembre retrouvée ;
+- enveloppe recommandée TA Bastia retrouvée ;
+- avis de passage retrouvé ;
+- AR / preuve de distribution retrouvés ;
+- identifiant recommandé concordant sur les éléments postaux ;
+- retrait documenté le 25 septembre ;
+- cohérence avec les courriels du greffe des 16 et 21 septembre.
+
+P-20 n'est plus un verrou de localisation. Reste à assembler les sources sous P-20/P-20.a et à fixer les empreintes des fichiers effectivement retenus.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
