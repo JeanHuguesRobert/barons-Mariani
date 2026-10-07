@@ -1,5 +1,5 @@
 ---
-title: "Sénatoriales Haute-Corse 2026 — bordereau de pièces — projet v0.12"
+title: "Sénatoriales Haute-Corse 2026 — bordereau de pièces — projet v0.13"
 subtitle: "Projet autonome de liste des pièces destinées à soutenir la requête au Conseil constitutionnel"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
@@ -32,7 +32,7 @@ review:
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 
-# BORDEREAU DE PIÈCES — PROJET v0.12
+# BORDEREAU DE PIÈCES — PROJET v0.13
 
 ## Requête en contestation de l'élection sénatoriale du 27 septembre 2026 — Haute-Corse
 
@@ -67,8 +67,8 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-04** | 10/09 17:01:56–17:54:50 | Premier envoi, DSN d’échec pour taille et retransmission allégée | Chaîne technique de diligence : tentative initiale, trois DSN, retransmission ; ne préjuge pas de la conformité juridique | **A — production proposée** | `investigation/sources/p04-premier-envoi-dsn-retransmission-2026-09-10.md` + messages Gmail natifs / bundle P-14 |
 | **P-05** | 10/09 17:56:53 | Accusé automatique | Réception de P-04 par la messagerie de l'État | **A — production proposée** | Courriel source |
 | **P-06** | 10/09 20:05:04 | Réponse BEDL | Position préfectorale sur les originaux | **A — production proposée** | Courriel source / PREF-10 |
-| **P-07** | 11/09 08:14:11 | Réponse du candidat | Déplacement annoncé | **B — soutien** | Courriel source |
-| **P-08** | 11/09 matin | Traces de trajet | Contexte matériel, sans portée juridique automatique | **C — contexte / réserve** | Photos / chronologie |
+| **P-07** | 11/09 08:14:11 | Courriel du candidat annonçant son déplacement vers Bastia | Déplacement annoncé et diligence matérielle avant le dépôt physique | **A — production proposée** | Courriel source |
+| **P-08** | 11/09 matin | Traces du trajet du 11 septembre vers Bastia | Corrobore la diligence matérielle et la chronologie du déplacement, sans portée juridique automatique | **A — production proposée** | Photos / chronologie |
 | **P-09** | 11/09 12:20 | Reçu provisoire | Prise en charge d'une déclaration, pas preuve de conformité | **A — production proposée** | Document officiel / PREF-13 — **scan lisible + transcription textuelle vérifiée** |
 | **P-10** | 11/09 14:14:39 | Courriel mandataire + 2 PJ | Complétion et disponibilité jusqu'à 18 h | **A — production proposée** | Courriel / PREF-14 à PREF-16 |
 | **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain ; absent du bundle initial PREF-1 à 16 | **A — production proposée** | Courriel source |
@@ -78,7 +78,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — production proposée** | Courriel source |
 | **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — production proposée** | dossier-ta-bastia-2026-09-14.md |
 | **P-17** | 14/09 audience | Note manuscrite recto-verso | Existence/contenu photographiés ; remise en main propre rapportée | **A — production proposée** | **reproduction recto-verso + transcription textuelle vérifiée** ; texte exact à contrôler contre scan / trace contemporaine |
-| **P-18** | 14/09 | Attestation CAF | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle | **D — sensible / production si nécessaire** | Document privé |
+| **P-18** | 14/09 | Attestation CAF relative à Mme Laurence Vernerey | Établit le bénéfice de l'AAH, rien de plus sur la nature fonctionnelle ; production strictement minimisée en raison des données personnelles | **A — production obligatoire / minimisée** | Document privé ; original conservé séparément |
 | **P-19** | 14/09 15:48:32 | Note en délibéré | Envoi ; enregistrement 15 h 49 ; prise de connaissance confirmée | **A — production proposée** | Courriel + jugement + P-30 |
 | **P-20** | 14/09 puis notification postale | Jugement TA Bastia + chaîne matérielle de notification | Décision attaquable via L.303 ; documente aussi la notification par LRAR : avis de passage, pli retiré à La Poste CORTE (Avenue du Baron Mariani), page de notification, trois pages du jugement, photographie contextuelle de la plaque « Avenue du Baron Mariani », prise à la sortie du bureau selon le requérant ; fonction principale : matérialiser l'ancrage public/local de la désignation « Baron Mariani », sans prétendre établir à elle seule un droit nobiliaire personnel ou une généalogie ; image déjà transmise à ChatGPT au plus tard le 25 septembre 2026 à 15 h 17 CEST | **A — production proposée** | Sous-pièces stables P-20.a… ; relever identifiants postaux, dates/cachets, fichiers, tailles, SHA-256 et provenance |
 | **P-21** | 15–25/09 | Demandes documentaires post-jugement | Diligences pour clarifier le dossier | **B — soutien / sélection à matérialiser** | Ensemble de courriels |
@@ -86,22 +86,20 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-23** | 26/09 | Amendement d'effectivité art. 72-5 | Contexte doctrinal, non norme positive applicable au litige | **C — contexte / ne pas joindre par défaut** | Document public |
 | **P-24** | 27/09 | Capable Test / cas d'effectivité | Grille méthodologique | **C — contexte / ne pas joindre par défaut** | Document public |
 | **P-25** | 28/09 | Annuaire / étude d'exposition | Structure du collège ; aucune inférence individuelle de vote | **C — contexte / ne pas joindre par défaut** | CSV + analyse |
-| **P-26** | 28/09 | Demande PV et pièces électorales | Demande de consultation post-scrutin | **B — soutien** | Courriel / document source |
+| **P-26** | 28/09 | Demande de communication du procès-verbal et des pièces électorales | Diligence post-scrutin dans le délai organique de consultation | **A — production proposée** | Courriel / document source |
 | **P-27** | 27/09 | Résultats officiels | 606 votants, 36 blancs, 40 nuls, 530 exprimés, 442/88 | **A — production proposée** | Source officielle / data |
-| **P-28** | 30/09 08:16:30 | Réponse BEDL | Consultation sur place proposée le 1er octobre | **B — soutien** | Courriel source |
+| **P-28** | 30/09 08:16:30 | Proposition de consultation des pièces électorales | Réponse du Bureau des élections proposant une consultation sur place le 1er octobre ; contrepoint utile à l'absence de réponse substantielle retrouvée sur les modalités de dépôt | **A — production proposée** | Courriel source |
 | **P-29** | 16/09 08:38:28 | Première demande TA sur la liste des pièces | Première demande explicite d'inventaire identifiée | **A — production proposée** | Courriel source |
 | **P-30** | 16/09 | Réponse du greffe TA | Écritures préfectorales dites communiquées en totalité ; note prise en compte | **A — production proposée** | Courriel greffe |
 | **P-31** | 21/09 | Réponse du greffe TA | Jugement présenté comme répondant aux questions ; disponibilité annoncée | **A — production proposée** | Courriel greffe |
 | **P-32** | 25/09 16:50:46 | Six questions résiduelles au TA | Questions factuelles après lecture du jugement | **A — production proposée** | Courriel source |
 | **P-33** | 01/10 15:13:26 | Réponse de la greffière en chef | Refus de donner suite ; invitation au CC ; référence L.292 | **A — production proposée** | Courriel greffe / registre interaction |
-| **P-34** | 01/10 | Courriel consolidé à la préfecture | Cinq questions sur réception/transmission de P-12 | **B — soutien** | investigation/sources/courriel-consolidation-prefecture-ta-2026-10-01.md |
-| **P-35** | 02/10 13:33:55 | Relance consolidée P1–P18 à la préfecture | Établit les demandes de traçabilité, provenance numérique, chaîne de décision, conservation et routage ; réponses encore PENDING | **B — soutien** | investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md |
 | **P-36** | 02/10 | Note forensic sur la provenance numérique de la requête préfectorale | Analyse dérivée : bundles TA recomposés, contenu lisible mais provenance native non exposée ; ne prouve ni disparition ni altération fautive | **B — analyse dérivée / réserve** | investigation/forensic-provenance-requete-prefectorale-2026-10-02.md |
 | **P-37** | 01/10 10:11:07 | Adresse du rendez-vous | 15 Avenue Jean Zuccarelli ; salons de la préfecture indisponibles ce jour-là | **C — contexte / réserve** | investigation/sources/courriel-prefecture-adresse-rendez-vous-2026-10-01.md |
 | **P-38** | 01/10 12:30:20 | Réponse sur cette adresse | Phrase familiale et expropriation ; train annoncé en principe à 15 h ; retard annoncé. Ni l'arrivée effective ni l'inventaire des pièces | **C — contexte / réserve** | investigation/sources/courriel-reponse-adresse-rendez-vous-2026-10-01.md |
 | **P-39** | 01/10, stabilisé 04/10 | Constat de consultation RP-SEN-08-C | Établit la tenue de la consultation, le lieu matériel, l'accueil par Adrien Vidal, les quatre dossiers, le formulaire signé, les pièces photographiées et sépare les propos oraux des faits documentés | **A — production proposée** | investigation/constat-consultation-2026-10-01-rp-sen-08-c.md |
 | **P-40** | 01/10, versé 02/10 | Bulletin « BARON MARIANI » et enveloppe | Trace photographique primaire ; bulletin imprimé « (Elections Sénatoriales 2027) BARON MARIANI », enveloppe associée, SHA-256 et copies Drive ; n'identifie aucun électeur et ne fixe pas à lui seul le motif juridique de nullité | **A — production proposée** | investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md |
-| **P-41** | 06/10 | Annexe — déclarations publiques et commentaires de presse | Index ciblé de sources contemporaines sur A Voce, intentions/soutiens non lisibles dans les seules affiliations, score Battini, cadre adverse « sans surprise », Giuseppi et enjeu autonomie ; aucune attribution individuelle de vote | **B — soutien / production à arbitrer** | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
+| **P-41** | 06/10 | Annexe de déclarations publiques et commentaires de presse | Index ciblé de sources contemporaines sur A Voce, intentions/soutiens non lisibles dans les seules affiliations, score Battini, cadre adverse « sans surprise », Giuseppi et enjeu autonomie ; aucune attribution individuelle de vote | **A — production proposée** | investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md |
 | **P-42** | 26/09 + suivi 01–02/10 | Saisine de la déléguée du Défenseur des droits en Haute-Corse | Diligence institutionnelle sur l'effectivité ; absence de réponse retrouvée dans la recherche Gmail ciblée au 06/10 ; aucun effet suspensif attribué | **B — soutien / réserve** | investigation/sources/saisine-defenseur-droits-2026-09-26.md |
 | **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Ensemble parent : identité, participation, consentement, aide matérielle, porte-parole, vidéo et accessibilité ; contenu privé à minimiser | **D — sensible / production sélective** | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + messages Gmail natifs |
 | **P-43.a** | 10/09 12:38:31 CEST | Courriel « Autorisation » de Laurence Vernerey | Autorisation expresse donnée à Jean Hugues Robert d'utiliser sa signature sur le CERFA où elle se porte remplaçante ; établit une demande faite au tiers et son consentement à cette intervention matérielle | **A — production obligatoire** | Gmail natif `1a08ae5f35fd72f0` + reproduction lisible, données privées non nécessaires occultées |
@@ -216,7 +214,7 @@ Priorité pratique :
 6. **P-29 à P-33** — demandes et réponses du greffe établissant la séquence post-jugement ;
 7. **P-45.a à P-45.d** — quatre courriels intégraux documentant les demandes et relances sur les modalités de dépôt au titre de l'article 34 ;
 8. **P-27, P-39, P-40** — résultats officiels et pièces post-scrutin directement utiles au grief d'incidence ;
-9. **P-41** — soutien contextuel en réserve ; ne joindre qu'après arbitrage exprès ;
+9. **P-41 — Annexe de déclarations publiques et commentaires de presse** — production proposée car la requête l'invoque directement dans le grief d'incidence ; conserver strictement les bornes sur le secret du vote et l'absence d'inférence individuelle ;
 10. **P-42 / P-43** — diligence Défenseur des droits et correspondance remplaçante : conserver les sources natives, mais ne joindre que ce qui soutient effectivement un moyen et minimiser les données privées.
 
 Pour chaque pièce effectivement annexée, le dossier final devrait enregistrer au minimum :
@@ -288,3 +286,11 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 - impose pour chaque sous-pièce P-46.xx : libellé, horodatage, expéditeur/destinataires utiles, objet, bref descriptif du contenu et de l'effet, puis reproduction intégrale dans le paquet de dépôt ;
 - occulte uniquement les adresses privées de Maguy et Laurence ainsi que les secrets techniques sans valeur contentieuse ;
 - maintient les messages natifs Gmail comme sources primaires afin que la représentation PDF n'efface pas les métadonnées disponibles.
+
+
+## UPDATE v0.13 — 7 octobre 2026 — déduplication et alignement sur le paquet
+
+- **P-18 — Attestation CAF relative à Mme Laurence Vernerey** devient une production obligatoire sous forme strictement minimisée, l'original privé restant conservé séparément ;
+- **P-07 — Courriel du candidat annonçant son déplacement vers Bastia**, **P-08 — Traces du trajet du 11 septembre vers Bastia**, **P-26 — Demande de communication du procès-verbal et des pièces électorales**, **P-28 — Proposition de consultation des pièces électorales** et **P-41 — Annexe de déclarations publiques et commentaires de presse** sont alignées sur leur usage effectif dans la requête et proposées à la production ;
+- les anciens identifiants P-34 et P-35 sont retirés comme doublons matériels : le courriel du 1er octobre est produit comme **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie** et celui du 2 octobre comme **P-45.d — Relance structurée P1–P18 du 2 octobre 2026** ;
+- les antécédents P-01 à P-03 restent dans l'inventaire de travail mais ne sont plus présentés comme pièces autonomes de la requête de dépôt.
