@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.31"
+version: "0.32"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -482,6 +482,59 @@ Test obligatoire :
 > Une personne cultivée qui ne connaît ni l'informatique ni notre vocabulaire interne comprend-elle immédiatement la phrase, sans devoir reconstruire l'expression d'origine ?
 
 Si la réponse est non, il faut réécrire.
+
+
+### Règle de textualité souveraine et de qualité littéraire
+
+La requête est un texte juridique narratif. Sa compréhension ne doit dépendre d'aucun bloc de code, symbole logique, flèche, tableau, couleur, police ou autre artifice graphique.
+
+La mise en forme peut aider à lire ; elle ne doit jamais porter le sens. Le document doit rester sémantiquement complet s'il est dactylographié avec seulement du texte, des titres, des sous-titres, des paragraphes, une numérotation simple et un sommaire.
+
+En conséquence :
+- supprimer les blocs de code du corps de la requête ;
+- remplacer les symboles comme « ≠ » et « → » par des phrases françaises ;
+- éviter les tableaux lorsque du texte continu raconte mieux l'affaire ;
+- ne jamais faire dépendre une distinction juridique du seul gras ou de la disposition visuelle ;
+- conserver une hiérarchie claire de titres et sous-titres ;
+- ajouter un sommaire au document long.
+
+Le test de contrôle est celui de la machine à écrire : si toute la mise en forme disparaît, le lecteur doit comprendre exactement la même chose.
+
+La requête doit en outre être fluide, narrative et agréable à lire. Elle ne doit pas ressembler à un cahier des charges, une spécification technique ou une checklist. Le lecteur doit pouvoir suivre naturellement les faits, le temps, les décisions et leurs conséquences ; le juriste doit pouvoir vérifier les règles, les sources, les pièces, les objections et les conclusions.
+
+Les successions mécaniques de labels comme « FAIT / PREUVE / RÈGLE / ÉCART / INCIDENCE » sont à transformer en prose lorsqu'elles cassent la lecture. La double lecture grand public / expert est une qualité de l'écriture, non l'obligation de juxtaposer partout deux blocs rigides.
+
+Toute réécriture de style conserve strictement les faits, les qualifications, les réserves probatoires réellement nécessaires, les incertitudes, les pièces et les conclusions.
+
+### Règle de qualification des réponses institutionnelles
+
+Toute analyse d'une demande adressée à une institution distingue au minimum cinq états :
+
+1. réponse absente ;
+2. réponse non retrouvée ;
+3. réponse partielle ;
+4. réponse hors sujet ;
+5. information explicitement déclarée indisponible.
+
+Ces états ne sont pas interchangeables.
+
+La formulation retenue doit correspondre exactement à la trace disponible. Une recherche infructueuse permet d'écrire « réponse non retrouvée », pas « aucune réponse n'existe ». Une réponse qui traite un autre objet est une réponse hors sujet, pas une absence de réponse.
+
+Cette taxonomie vaut pour P1–P18, D1–D10, P-45 et toute autre séquence de demandes institutionnelles.
+
+### Traçabilité des Actes — règle transversale
+
+La Traçabilité des Actes constitue une grille documentaire utile au présent contentieux.
+
+Elle repose sur une idée simple : lorsqu'un acte public produit ou prépare un effet, il doit être possible, dans la mesure où des traces existent ou devraient normalement exister, de reconstituer ce qui a été fait, par qui, quand, sur quelle base et avec quelle transmission.
+
+Dans la requête, cette notion ne doit pas devenir une théorie abstraite. Elle sert à éclairer des questions concrètes : réception d'un courriel, classement ou routage, transmission au Tribunal administratif, production complémentaire éventuelle, accès effectif de la formation de jugement à une pièce, création et validation d'un acte, conservation des traces et modalités de remise du recours lui-même.
+
+La traçabilité protège les deux côtés du contradictoire. Elle peut établir une faute ou une lacune, mais elle peut tout autant établir qu'une administration a correctement reçu, routé, transmis ou traité un élément et fermer une contestation.
+
+Une absence de trace ou de réponse ne doit jamais être transformée automatiquement en intention. Elle peut toutefois réduire objectivement la capacité à vérifier contradictoirement ce qui a été fait et, lorsqu'un recours est enfermé dans un délai bref, affecter son effectivité.
+
+La note factuelle relative à l'évolution des réponses institutionnelles doit être reliée aux demandes P1–P18, D1–D10, à P-45 et aux pièces primaires correspondantes.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -1056,3 +1109,10 @@ Nouvel invariant : la requête ne doit pas affaiblir spontanément ses propres m
 Ajout d'un invariant : la requête ne doit contenir aucun calque littéral produisant un français artificiel. L'expression « chaîne de colis » est supprimée et remplacée par une formulation naturelle décrivant le trajet des documents.
 
 Audit à poursuivre sur les expressions techniques ou conceptuelles qui pourraient rester opaques au lecteur, notamment lorsqu'elles sont compréhensibles pour l'auteur mais pas pour un lecteur extérieur.
+
+
+## UPDATE — 7 octobre 2026 — v0.32 / textualité, style et traçabilité
+
+Le plan de contrôle formalise trois exigences supplémentaires : textualité complète sans artifice graphique nécessaire au sens ; style narratif et littéraire ; qualification précise des réponses institutionnelles.
+
+La Traçabilité des Actes est désormais une grille transversale du dossier, y compris pour les modalités de remise du recours. Elle doit rester concrète, symétrique et vérifiable, et ne vaut jamais attribution automatique d'une intention.
