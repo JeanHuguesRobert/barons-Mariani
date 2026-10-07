@@ -1,0 +1,32 @@
+schema: cc-petition-freeze/v1
+case:
+  jurisdiction: Conseil constitutionnel
+  reference: "2026-6589 SEN"
+  transmitted_on: "2026-10-07"
+
+artifact:
+  status: frozen-as-transmitted
+  filename_at_freeze: requete-conseil-constitutionnel-REVIEW.pdf
+  intended_public_filename: requete-conseil-constitutionnel-haute-corse-2026.pdf
+  size_bytes: 200935
+  sha256: 2968cbe0a5de0f5e279e70d28c0769d4a8dbf8ca8f6f7e4571864333ecaa02a0
+  git_blob_sha1: aa79a43be5bef5d109a9d9d1f4e314827c257d89
+
+provenance:
+  source_commit: 66f34d0cb32e94509988b6f83a87c8a215b3fb81
+  publication_commit: 0f9901d4f260728d43abc8b39b28598bec99d02e
+  repository_path: research/senatoriales-2026/review-pdf/66f34d0cb32e94509988b6f83a87c8a215b3fb81/requete-conseil-constitutionnel-REVIEW.pdf
+  github_actions_run: 37644531891
+  github_actions_artifact_id: 11493347352
+  github_actions_artifact_digest: sha256:e606c157e4556c1f45b3133fa1b0fa2ebb1daf066d4310364f27653fcd72277f
+
+backup:
+  kind: ChatGPT Library
+  path: /Archives/Conseil-constitutionnel/2026-6589-SEN/cc-petition-66f34d0-build-artifact.zip
+  contents: original GitHub Actions build artifact including the exact transmitted PDF, SHA256SUMS.txt, SOURCE_COMMIT.txt, PDFINFO.txt and BUILD_RESULT.json
+  note: The ZIP digest is e606c157e4556c1f45b3133fa1b0fa2ebb1daf066d4310364f27653fcd72277f.
+
+notes:
+  - The transmitted file contains an automatic pre-freeze REVIEW marking, including wording indicating "NON DEPOSE".
+  - That internal marking describes its build state before transmission, not its real-world status after the file was sent.
+  - The frozen object is the exact byte sequence identified by the SHA-256 above. It must never be regenerated or normalized when evidentiary identity matters.
