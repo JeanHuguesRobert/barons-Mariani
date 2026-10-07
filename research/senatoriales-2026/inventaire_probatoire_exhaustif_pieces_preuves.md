@@ -4,7 +4,7 @@ subtitle: "Registre analytique des sources, pièces, statuts de preuve et élém
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-06"
-version: "1.7"
+version: "1.8"
 status: "working-draft — aligned with CC petition v0.14 — for human review"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -65,7 +65,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 Le présent document conserve le nom historique d'**inventaire probatoire**, mais il s'agit d'un **instrument analytique interne au Corpus**, plus large que la liste procédurale des pièces effectivement produites.
 
-**Règle de complétude des courriels :** tous les courriels matériellement pertinents doivent rester identifiables et préservés dans le corpus probatoire, idéalement sous leur forme native. Cette complétude de conservation ne signifie pas que tous doivent être annexés au dépôt initial : la production demeure sélective, liée aux moyens invoqués, et minimisée lorsqu'elle implique des données privées ou sensibles.
+**Règle de complétude des courriels :** tous les courriels échangés avec la Préfecture de Haute-Corse et le Tribunal administratif de Bastia dans la séquence contentieuse doivent être **effectivement produits**, et non seulement conservés ou sélectionnés. Chaque message reçoit une sous-référence stable P-46.xx, un horodatage, un libellé intelligible, une brève description de son contenu et de ses effets, puis une reproduction intégrale dans le paquet de dépôt. Les adresses privées de Maguy et Laurence sont occultées ; les secrets techniques (mots de passe, liens signés, jetons) sont également masqués dans la copie produite, les originaux natifs restant conservés. Cette exhaustivité vaut pour les messages envoyés comme reçus, pour les accusés automatiques, les réponses humaines et les notifications techniques de transmission du TA.
 
 Pour le dépôt contentieux, le terme de travail retenu est **bordereau de pièces** : le projet autonome correspondant à la requête v0.10 est :
 
@@ -246,6 +246,7 @@ Cette série documente le scrutin réel, les analyses d'incidence et le contexte
 | **P-43** | 07–14/09 | Correspondance contemporaine avec Laurence Vernerey | Participation, consentement, aide matérielle, porte-parole, vidéo, accessibilité ; source privée, production sélective/minimisée | investigation/sources/index-correspondance-laurence-vernerey-2026-09.md + Gmail natif |
 | **P-44** | 11/09 18:45:53 | France Transfert — deux courriels de communication des requêtes 2601714 / 2601715 | Établit la provenance de transmission au requérant : avis de pli du greffe + mot de passe séparé ; secrets techniques non publiés | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + Gmail natif |
 | **P-45** | 26/09–02/10 | Modalités de dépôt article 34 — demandes et relances | Pièce composite P-45.a à P-45.d ; documente l'absence de réponse substantielle retrouvée sur la modalité de dépôt malgré relances, sans imputer d'intention | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
+| **P-46** | 10/09–02/10 | Correspondance exhaustive Préfecture / TA — 46 messages | Reconstitution complète de la circulation électronique du dossier ; chaque message devient P-46.01…P-46.46 et doit être reproduit intégralement dans le paquet final avec occultations limitées | Gmail natif + recueil final |
 
 ### Sous-inventaire exact décrit par la requête préfectorale P-14
 
@@ -322,3 +323,8 @@ Fait à Corte, le 1er octobre 2026.
 - `investigation/gmail-audit-requete-2026-09-10-2026-10-07.md` — registre d'audit Gmail différentiel.
 
 Ces deux documents servent à détecter les faits sans source, pièces orphelines et messages importants encore non mappés. Ils ne remplacent aucune preuve primaire.
+
+
+## UPDATE v1.8 — 7 octobre 2026 — règle d'exhaustivité Préfecture / TA
+
+Le dossier abandonne, pour ce sous-ensemble, la logique antérieure de production sélective. Tous les courriels Préfecture / TA de la séquence sont désormais des pièces à produire. Le bordereau v0.11 porte le sous-inventaire P-46.01 à P-46.46 et la règle de reproduction intégrale avec occultation des seules adresses privées de Maguy et Laurence et des secrets techniques sans portée contentieuse.
