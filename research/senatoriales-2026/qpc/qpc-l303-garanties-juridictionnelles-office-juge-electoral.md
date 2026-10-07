@@ -89,6 +89,76 @@ Cette piste est substantielle et directement reliée au contentieux 2026.
 Elle doit être préparée comme un mémoire distinct et motivé si, après vérification de la jurisprudence constitutionnelle antérieure, le grief peut être cristallisé avec suffisamment de précision.
 
 
+
+
+## Lecture descendante — du droit conventionnel clairement protégé à la QPC
+
+### 1. Point de départ : le droit électoral protégé par la Convention
+
+L'article 3 du Protocole n° 1 à la Convention européenne des droits de l'homme protège le droit de participer à des élections libres pour le choix du corps législatif. La jurisprudence de la Cour européenne en déduit des droits individuels, notamment le droit de se porter candidat.
+
+Le Sénat français appartient au corps législatif. Le contentieux d'une candidature sénatoriale entre donc matériellement dans le champ de cette garantie conventionnelle.
+
+La Cour exige que les droits électoraux soient **concrets et effectifs**, et non théoriques ou illusoires. Une procédure d'éligibilité doit comporter des garanties suffisantes contre l'arbitraire.
+
+### 2. Garantie du recours : article 13 combiné avec l'article 3 du Protocole n° 1
+
+Lorsqu'un grief défendable porte sur le droit de se présenter à une élection législative, l'article 13 impose l'existence d'un recours effectif.
+
+La jurisprudence européenne doit toutefois être utilisée dans les deux sens.
+
+Dans *Petkov et autres c. Bulgarie*, la Cour a admis que, compte tenu des contraintes temporelles propres à une élection, une réparation postérieure au scrutin peut être compatible avec l'article 13 si elle permet une véritable vindication du droit électoral, notamment devant un organe capable d'annuler le résultat.
+
+Le grief contre L.303 ne peut donc pas être formulé comme suit : « tout recours post-électoral est nécessairement inefficace ».
+
+La véritable question est plus exigeante :
+
+> **le recours ouvert après l'élection permet-il, dans le cas d'une candidature irrégulièrement exclue, une réparation suffisamment effective du droit de se porter candidat, ou l'atteinte essentielle est-elle déjà consommée d'une manière que l'annulation ultérieure ne répare qu'imparfaitement ?**
+
+Cette interrogation rejoint la jurisprudence européenne selon laquelle les procédures électorales doivent offrir des garanties suffisamment précises et effectives contre les décisions arbitraires.
+
+### 3. Traduction constitutionnelle française
+
+La Convention n'est pas la norme de contrôle d'une QPC. Le Conseil constitutionnel ne contrôle pas, dans le cadre de l'article 61-1, la conventionnalité d'une loi.
+
+Le raisonnement conventionnel sert donc ici à identifier la **fonction fondamentale protégée** ; cette fonction doit ensuite être rattachée aux droits et libertés que la Constitution garantit.
+
+Pour L.303, la traduction constitutionnelle principale est :
+
+- **article 16 de la Déclaration de 1789** : droit à un recours juridictionnel effectif et garantie des droits ;
+- **article 6 de la Déclaration de 1789** : droit d'éligibilité ;
+- en complément, **article 3 de la Constitution** : égalité du suffrage et exercice de la souveraineté ;
+- le pluralisme peut également éclairer la portée de l'exclusion d'une candidature.
+
+La QPC doit donc être autonome juridiquement par rapport à la Convention, tout en recherchant un niveau de protection fonctionnellement cohérent avec celui garanti au niveau européen.
+
+### 4. Descente vers la disposition contestée
+
+Le droit protégé est le droit effectif de se porter candidat à l'élection du corps législatif.
+
+La garantie procédurale attendue est l'existence d'un recours capable de prévenir ou de réparer réellement une éviction illégale.
+
+L'article L.303 organise :
+
+1. une saisine du tribunal administratif par le préfet ;
+2. un jugement dans les trois jours ;
+3. l'absence de contestation de ce jugement autrement que devant le Conseil constitutionnel saisi de l'élection ;
+4. donc, dans les faits, un contrôle du Conseil constitutionnel après que le scrutin auquel la candidature aurait dû participer a déjà eu lieu.
+
+La question constitutionnelle consiste à rechercher si cette architecture protège effectivement le droit d'éligibilité lorsqu'une décision juridictionnelle de première instance exclut une candidature et que son effet essentiel se produit avant tout contrôle ultérieur.
+
+### 5. Test européen utile à la QPC
+
+Le test à transposer fonctionnellement peut être formulé ainsi :
+
+- le droit de candidature est-il réel et effectif ?
+- la procédure offre-t-elle des garanties suffisantes contre l'arbitraire ?
+- le recours est-il capable de redresser concrètement l'atteinte ?
+- si le recours n'intervient qu'après le scrutin, le pouvoir d'annulation et les conséquences d'une annulation constituent-ils une réparation adéquate de l'éviction ?
+
+La réponse à cette dernière question est précisément le point de droit à approfondir pour L.303.
+
+
 ## Revue approfondie — 7 octobre 2026
 
 ### Norme constitutionnelle centrale
