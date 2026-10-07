@@ -83,7 +83,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-10** | 11/09 14:14:39 | Courriel mandataire + 2 PJ | Complétion et disponibilité jusqu'à 18 h | **A — noyau probatoire intégré** | Courriel / PREF-14 à PREF-16 |
 | **P-11** | 11/09 16:14:05 | « J'accuse réception des documents » | Accusé humain ; absent du bundle initial PREF-1 à 16 | **A — noyau probatoire intégré** | Courriel source |
 | **P-12** | 11/09 17:57:55 | Courriel complémentaire avec lien vidéo | Émission avant 18 h ; réception serveur à établir | **A — noyau probatoire intégré** | Courriel source |
-| **P-13** | 11/09 | Vidéo commune | Identité, volonté, consentement contemporains | **A — noyau probatoire intégré** | Fichier vidéo / empreinte à fixer |
+| **P-13** | 11/09 | Vidéo commune | Identité, volonté, consentement contemporains | **A — noyau probatoire intégré** | Fichier vidéo natif conservé ; SHA-256 `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` |
 | **P-14** | 11/09 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | Motivation préfectorale et inventaire initial 1–16 | **A — noyau probatoire intégré** | PDF originaux reçus via France Transfert |
 | **P-15** | 14/09 14:09:17 | Alerte avant audience | Signalement de transmissions que le requérant estimait manquantes | **A — noyau probatoire intégré** | Courriel source |
 | **P-16** | 14/09 | Mémoire en défense | Moyens soumis au TA | **A — noyau probatoire intégré** | dossier-ta-bastia-2026-09-14.md |
@@ -115,7 +115,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-43.a** | 10/09 12:38:31 CEST | Courriel « Autorisation » de Laurence Vernerey | Autorisation expresse donnée à Jean Hugues Robert d'utiliser sa signature sur le CERFA où elle se porte remplaçante ; établit une demande faite au tiers et son consentement à cette intervention matérielle | **A — contenu probatoire intégré** | Gmail natif `1a08ae5f35fd72f0` + reproduction lisible, données privées non nécessaires occultées |
 | **P-43.b** | 11/09 18:25:49 CEST | Courriel « Porte-parole » de Laurence Vernerey | Désignation expresse de Jean Hugues Robert comme porte-parole de la campagne sénatoriale ; **postérieur à la clôture de 18 h**, il documente la continuité de la volonté et de la représentation, non le respect d'une formalité avant l'échéance | **A — contenu probatoire intégré** | Gmail natif `1a0914a4db8cf48b` ; en-tête RFC822 16:25:49 UTC ; reproduction lisible, données privées non nécessaires occultées |
 | **P-44** | 11/09 18:45:53 | France Transfert — communication TA des requêtes 2601714 / 2601715 (2 courriels) | Provenance de transmission : avis de pli + mot de passe séparé ; secrets techniques à masquer dans la copie produite | **A — noyau probatoire intégré** | investigation/sources/france-transfert-ta-requetes-2026-09-11.md + messages Gmail natifs |
-| **P-45** | 26/09–02/10 | Modalités de dépôt art. 34 — demandes et relances sans réponse substantielle retrouvée | Pièce composite P-45.a à P-45.d : demandes des 26 et 28 septembre, relances des 1er et 2 octobre ; documente l'effectivité du recours sans imputer d'intention | **A — noyau probatoire intégré / messages intégraux** | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
+| **P-45** | 26/09–02/10 | Modalités de dépôt art. 34 — demandes et relances sans réponse substantielle retrouvée | Pièce composite P-45.a à P-45.d : demandes des 26 et 28 septembre, relances des 1er et 2 octobre ; documente l'effectivité du recours sans imputer d'intention | **A — noyau probatoire intégré / chaîne résumée et sourcée** | investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md + messages Gmail natifs |
 | **P-45.a** | 26/09 10:44:22 | Demande au Bureau des élections sur les modalités de dépôt au titre de l'article 34 | Demande lieu/canal/heure pratique/preuve de réception ; aucune réponse substantielle retrouvée dans le fil | **A — contenu probatoire intégré** | Gmail `1a0dce31564ec625` |
 | **P-45.b** | 28/09 13:31:35 CEST | Demande à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34 | Demande de confirmation des modalités concrètes ; en-tête RFC822 : 04:31:35 -0700 = 13:31:35 Europe/Paris ; aucune réponse institutionnelle retrouvée | **A — contenu probatoire intégré** | Gmail `1a0e7c8da5ef2262` |
 | **P-45.c** | 01/10 09:30:33 | Consolidation générale avec la Sous-préfecture de Corte en copie | Rappelle notamment que la modalité concrète de remise reste sans réponse suffisante | **A — contenu probatoire intégré** | Gmail `1a0f65f52d19c6f7` |
@@ -272,7 +272,7 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 
 - aligne le bordereau sur la requête **v0.18** ;
 - ajoute **P-45**, pièce composite sous-numérotée P-45.a à P-45.d sur les demandes et relances relatives aux modalités de dépôt de l'article 34 ;
-- impose la production **intégrale** des quatre courriels dans le dossier remis ;
+- impose l'identification complète des quatre courriels dans le relevé intégré et la conservation de leurs sources natives pour production complémentaire ;
 - corrige le titre résiduel v0.8, la duplication P-24 et la numérotation de la liste de priorités ;
 - maintient la borne adverse : la préfecture a répondu sur certains objets (notamment P-28), de sorte que le fait documenté est l'absence de réponse substantielle retrouvée sur la modalité de dépôt, non une absence générale de réponse de l'État.
 
@@ -296,7 +296,7 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 
 - crée **P-46**, famille exhaustive de **46 messages distincts** retrouvés sur la période du 10 septembre au 2 octobre 2026 après déduplication et exclusion des brouillons ;
 - inclut les messages envoyés et reçus, les accusés automatiques, les réponses individuelles, les échanges avec le greffe du TA et les deux notifications France Transfert relatives aux dossiers 2601714 / 2601715 ;
-- impose pour chaque sous-pièce P-46.xx : libellé, horodatage, expéditeur/destinataires utiles, objet, bref descriptif du contenu et de l'effet, puis reproduction intégrale dans le paquet de dépôt ;
+- impose pour chaque sous-pièce P-46.xx : libellé, horodatage, expéditeur/destinataires utiles, objet et bref descriptif du contenu et de l'effet dans le relevé intégré ; les messages natifs restent conservés pour production complémentaire si nécessaire ;
 - occulte uniquement les adresses privées de Maguy et Laurence ainsi que les secrets techniques sans valeur contentieuse ;
 - maintient les messages natifs Gmail comme sources primaires afin que la représentation PDF n'efface pas les métadonnées disponibles.
 
