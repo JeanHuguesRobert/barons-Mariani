@@ -27,7 +27,7 @@ derivation_mode: "directed"
 source_document: "research/autonomia/amendement_effectivite_article_72-5.md"
 related_documents:
   - "research/note_synthetique_autonomie_capacite_corse.md"
-  - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+  - "research/autonomia/atlas_paysage_politique_corse.md"
   - "research/autonomia/observatoire_processus_autonomie_corse.md"
   - "research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
   - "research/contribution_commission_lois_autonomie_capacite.md"
@@ -109,7 +109,7 @@ La base documentaire courante comprend notamment :
 - la note de continuité Assemblée nationale → Sénat :
   https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md
 - l’Atlas actualisé après les sénatoriales :
-  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md
+  https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md
 - l’Observatoire public du processus :
   https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 
