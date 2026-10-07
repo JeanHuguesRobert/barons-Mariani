@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.4"
+version: "0.5"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -210,9 +210,9 @@ Le passage de cette maison dans le patrimoine communal doit être étudié sépa
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ## 6 quater. Troisième résultat — Fantauzzi / Fournier-Sarlovèze
 
-La liste des représentants vivants donnée par Meurgey en 1933 ouvre une branche qui ne relève pas seulement de la survie démographique : elle montre une **continuité patrimoniale et productive hors de Corse**.
+La liste des représentants vivants donnée par Meurgey en 1933 ouvre une **alliance collatérale** qui montre une continuité patrimoniale et productive hors de Corse. La seconde lecture du Tableau I établit qu'Antoine et Jules Fantauzzi sont les frères de Sophie Fantauzzi, épouse d'Albert Mariani : ils ne doivent donc pas être comptés, par cette seule chaîne, comme descendants Mariani.
 
-Meurgey cite Jules Fantauzzi et ses enfants Michel et Janine. Les recherches publiques identifient Janine Fantauzzi (1917–2002), épouse de François Fournier-Sarlovèze (1896–1975). Une société agricole portant toujours le nom **SCEA FANTAUZZI** est active dans l'Oise en 2026. Ses documents sociaux indexés mentionnent une transmission par une Mme Fournier-Sarlovèze à « ses 2 enfants » ; la gouvernance contemporaine comprend des Fournier-Sarlovèze et une génération Drach.
+Meurgey cite Jules Fantauzzi et ses enfants Michel et Janine. Les recherches publiques identifient Janine Fantauzzi (1917–2002), épouse de François Fournier-Sarlovèze (1896–1975). Une société agricole portant toujours le nom **SCEA FANTAUZZI** est active dans l'Oise en 2026. Ses documents sociaux indexés mentionnent une transmission par une Mme Fournier-Sarlovèze à « ses 2 enfants » ; la gouvernance contemporaine comprend des Fournier-Sarlovèze et une génération Drach. Ce cas documente donc un **réseau d'alliance et une continuité productive**, non une descendance Mariani directe.
 
 La filiation précise des dirigeants contemporains depuis Janine reste **à fermer par l'acte notarié**. En revanche, la persistance d'un patrimoine/outil agricole portant le nom Fantauzzi dans l'Oise est un fait public actuel.
 
@@ -228,6 +228,20 @@ capacité familiale produite / issue d'un réseau corse
 Il ne démontre pas pourquoi cette capacité s'est implantée hors de Corse, mais il rend le déplacement territorial du capital observable.
 
 Dossier de travail : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
+### Correctif épistémique — le registre Meurgey n'est pas un registre de descendants
+
+La phrase de 1933 « Les Mariani sont aujourd'hui représentés par… » a d'abord été utilisée comme snapshot nominatif. La reconstruction topologique du Tableau I montre désormais que cette liste mélange :
+
+- descendants directs ;
+- descendants par les femmes ;
+- conjoints ;
+- collatéraux par alliance.
+
+L'exemple décisif est **Antoine et Jules Fantauzzi**, frères de Sophie Fantauzzi épouse Albert Mariani. Leur présence dans la liste ne constitue donc pas une preuve de descendance Mariani.
+
+Le programme de recherche est corrigé en conséquence : chaque personne du snapshot 1933 doit recevoir un **type de relation** avant toute mesure de survie généalogique.
+
+Cette correction ne diminue pas la valeur sociologique des alliances : elle évite simplement de confondre **réseau familial** et **descendance biologique**.
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
