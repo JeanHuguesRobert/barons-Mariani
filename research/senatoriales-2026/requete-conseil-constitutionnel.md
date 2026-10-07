@@ -24,7 +24,7 @@ source_documents:
   - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
   - "research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.1.md"
   - "research/senatoriales-2026/inventaire_probatoire_exhaustif_pieces_preuves.md"
-  - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
+  - "research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel.md"
   - "research/senatoriales-2026/investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md"
   - "research/senatoriales-2026/investigation/annexe-vues-tabellaires-requete-cc-2026-10-07.md"
   - "research/senatoriales-2026/demande_consultation_pv_prefecture_2026-09-28.md"
