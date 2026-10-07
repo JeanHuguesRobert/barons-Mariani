@@ -4,7 +4,7 @@ subtitle: "Conseil constitutionnel — Contentieux de l'élection du 27 septembr
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.30"
+version: "0.31"
 status: "working-draft (brouillon de travail) — consolidation pré-dépôt — non déposé"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -479,9 +479,9 @@ Elle contient notamment **P-43.a — courriel « Autorisation » de Laurence Ver
 
 Elle documente également, par **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026**, sa désignation expresse de M. Robert comme porte-parole de la campagne, ainsi que la déclaration vidéo commune et la pièce CAF produite après l'audience.
 
-Cet ensemble est conservé comme **P-43 — correspondance de Mme Laurence Vernerey du 7 au 14 septembre**. Deux messages décisifs en sont extraits et produits séparément : **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026**.
+La correspondance de Mme Laurence Vernerey du 7 au 14 septembre est conservée comme ensemble sensible de sources. Deux messages décisifs en sont extraits et produits séparément : **P-43.a — Courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — Courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026**.
 
-La correspondance de Mme Laurence Vernerey du 7 au 14 septembre (P-43 — correspondance contemporaine avec Laurence Vernerey du 7 au 14 septembre) est une pièce sensible.
+L'ensemble de cette correspondance reste sensible et n'est pas produit en bloc.
 
 Les originaux restent identifiables et productibles.
 
@@ -670,7 +670,7 @@ La borne de 18 h commande la qualification temporelle.
 
 Toute proposition doit préciser s'il s'agit d'une émission, d'une réception connue ou d'un traitement interne encore inconnu.
 
-* **Antécédents documentés (01/10/2025 – 24/05/2026)** : La démarche électorale du requérant est publique, constante et préméditée : annonce sur le réseau public X le 1er octobre 2025 (**Pièce P-01 — annonce publique de candidature du 1er octobre 2025**), publication doctrinale sur l'Autonomie de Capacité le 20 mai 2026 (**Pièce P-02 — « Autonomia — 1974, 1991, 2026 »**) et déclaration formelle à la presse insulaire (*Corse Net Infos*) le 24 mai 2026 (**Pièce P-03 — courriel du 24 mai 2026 à Corse Net Infos**).
+* **Antécédents documentés (01/10/2025 – 24/05/2026)** : La démarche électorale du requérant est publique, constante et préméditée : annonce sur le réseau public X le 1er octobre 2025, publication doctrinale sur l'Autonomie de Capacité le 20 mai 2026 et déclaration formelle à la presse insulaire (*Corse Net Infos*) le 24 mai 2026. Ces antécédents fournissent un contexte chronologique ; ils ne sont pas produits comme pièces autonomes du paquet contentieux.
 * **Jeudi 10 septembre 2026 à 17h54:50** : Transmission dématérialisée proactive de l'ensemble du dossier de candidature à l'adresse officielle du Bureau des élections et de la démocratie locale (`pref-elections@haute-corse.gouv.fr`) (**Pièce P-04 — premier envoi du 10 septembre, avis d'échec et retransmission allégée**). Accusé de réception automatique du serveur de l'État à 17h56:53 (**Pièce P-05 — accusé automatique de réception du 10 septembre à 17 h 56 min 53 s**).
 * **Jeudi 10 septembre 2026 à 20h05:04** : Courriel tardif de l'administration préfectorale exigeant, à la veille de la clôture, le dépôt d'« originaux papier » non spécifiés par le code électoral (**Pièce P-06 — réponse du Bureau des élections du 10 septembre à 20 h 05 sur les originaux**).
 * **Vendredi 11 septembre 2026 à 08h14:11** : Réponse immédiate de M. Robert confirmant qu'il se déplace personnellement en train depuis Corte pour se présenter au guichet (**Pièce P-07 — courriel du candidat du 11 septembre à 8 h 14 annonçant son déplacement**).
@@ -740,7 +740,7 @@ Les actes postérieurs ne réparent pas rétroactivement le dossier antérieur. 
 * **2 octobre 2026** : nouvelle relance numérotée P1–P18 avec la Sous-préfecture en copie ; P11 redemande la modalité et l'heure limite pratique de remise, P12 l'état des demandes des 26 et 28 septembre (**P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt**).
 * **30 septembre 2026 à 08 h 16 min 30 s** : le chef du Bureau des élections confirme la possibilité de consulter les pièces et propose un rendez-vous le 1er octobre à 14 h ; la demande de transmission dématérialisée n'est pas explicitement tranchée (**P-28 — proposition de consultation des pièces électorales**).
 * **1er octobre 2026 à 15 h 13 min 26 s** : la greffière en chef du TA refuse de donner suite aux six questions résiduelles, les rattachant globalement à des éléments de procédure et au jugement et indiquant que le greffe n'a pas vocation à apporter des « explications ou commentaires complémentaires ». Elle invite simultanément le requérant à saisir le Conseil constitutionnel et cite l'article L.292 du code électoral (**P-33 — réponse de la greffière en chef du 1er octobre**).
-* **1er octobre 2026** : le requérant consolide parallèlement auprès de la préfecture cinq questions relatives à la réception et à la transmission du courriel/vidéo du 11 septembre et rappelle l'échéance contentieuse du 7 octobre à 18 h (**P-34 — courriel consolidé du 1er octobre à la préfecture**).
+* **1er octobre 2026** : le requérant consolide parallèlement auprès de la préfecture cinq questions relatives à la réception et à la transmission du courriel/vidéo du 11 septembre et rappelle l'échéance contentieuse du 7 octobre à 18 h (**P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie**).
 
 ### 4. Séquence post-jugement : accès aux éléments matériels et effectivité du recours
 
@@ -798,7 +798,7 @@ La Sous-préfecture était en copie.
 
 Le courriel du 2 octobre les identifie expressément comme demandes P11 et P12.
 
-Au 7 octobre, aucune réponse substantielle retrouvée ne ferme ces questions (**P-45 — demandes et relances sur les modalités pratiques de remise du recours, sous-pièces P-45.a à P-45.d**).
+Au 7 octobre, aucune réponse substantielle retrouvée ne ferme ces questions (ensemble constitué de **P-45.a — Demande du 26 septembre 2026 au Bureau des élections sur la modalité matérielle d’une saisine au titre de l’article 34**, **P-45.b — Demande du 28 septembre 2026 à la Sous-préfecture de Corte sur la réception de la requête**, **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie** et **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**).
 
 La préfecture a continué à répondre sur plusieurs objets, notamment le 30 septembre lorsqu'elle a proposé la consultation des pièces électorales (**P-28 — proposition de consultation des pièces électorales**). En revanche, les questions portant directement sur la manière de remettre la requête au représentant de l'État, sur le canal à utiliser, l'heure limite pratique et la preuve de réception sont restées sans réponse substantielle retrouvée avant l'échéance.
 
@@ -1221,7 +1221,7 @@ La traçabilité permet de répondre à des questions simples. Quels documents l
 
 La requête préfectorale et son inventaire initial des pièces (P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces) établissent l'inventaire initial des seize pièces transmises avec la saisine préfectorale. Cet inventaire ne comprend ni le courriel de 16 h 14 min 05 s accusant réception de documents (**P-11 — courriel préfectoral du 11 septembre à 16 h 14 min 05 s accusant réception des documents**), ni le courriel du candidat envoyé à 17 h 57 min 55 s avec le lien vers la déclaration vidéo (**P-12 — courriel du 11 septembre à 17 h 57 min 55 s contenant le lien vers la vidéo**).
 
-Le 2 octobre, le requérant a demandé à la préfecture de préciser la réception et le traitement de ce courriel, l'existence d'éventuelles transmissions complémentaires, le fichier effectivement déposé dans Télérecours, ses métadonnées et les différentes étapes de préparation et de validation de la saisine (**P-35 — demandes structurées P1–P18 de traçabilité adressées à la préfecture**).
+Le 2 octobre, le requérant a demandé à la préfecture de préciser la réception et le traitement de ce courriel, l'existence d'éventuelles transmissions complémentaires, le fichier effectivement déposé dans Télérecours, ses métadonnées et les différentes étapes de préparation et de validation de la saisine (**P-45.d — Relance structurée P1–P18 du 2 octobre 2026**).
 
 L'heure exacte à laquelle P-12 — courriel de 17 h 57 min 55 s contenant le lien vers la vidéo a été accepté par l'infrastructure de messagerie de l'État reste inconnue. De même, les traces disponibles ne permettent pas encore d'établir si ce courriel ou la vidéo ont été transmis au Tribunal administratif après la saisine initiale.
 
@@ -1251,13 +1251,13 @@ Il existe donc une différence observable : plus les demandes portent précisém
 
 La cause de cette différence n'est pas établie par les seules traces disponibles. Ce qui importe ici est son effet : au moment où le requérant doit exercer son recours, certaines informations nécessaires pour vérifier contradictoirement ce qui a été reçu, transmis et examiné restent hors de sa portée.
 
-La note **« Évolution des réponses institutionnelles — traçabilité du dossier sénatorial »** rassemble cette séquence et distingue systématiquement les réponses absentes, non retrouvées, partielles, hors sujet et les informations explicitement déclarées indisponibles. Elle relie ces constats à P1–P18, D1–D10, **P-45 — demandes et relances sur les modalités pratiques de remise du recours**, et aux pièces primaires correspondantes.
+La note **« Évolution des réponses institutionnelles — traçabilité du dossier sénatorial »** rassemble cette séquence et distingue systématiquement les réponses absentes, non retrouvées, partielles, hors sujet et les informations explicitement déclarées indisponibles. Elle relie ces constats à P1–P18, D1–D10 et aux pièces primaires correspondantes, notamment **P-45.a — Demande du 26 septembre 2026 au Bureau des élections sur la modalité matérielle d’une saisine au titre de l’article 34**, **P-45.b — Demande du 28 septembre 2026 à la Sous-préfecture de Corte sur la réception de la requête**, **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie** et **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**.
 
 ### L'effectivité du recours
 
 Cette difficulté ne concerne pas seulement la candidature passée. Elle touche aussi le recours présent.
 
-Le 26 septembre, le requérant a demandé au Bureau des élections comment remettre une requête au représentant de l'État au titre de l'article 34. Le 28 septembre, il a interrogé directement la Sous-préfecture de Corte : pouvait-elle recevoir la requête, par quel canal, jusqu'à quelle heure et avec quelle preuve de réception ? Ces questions ont été reprises les 1er et 2 octobre et figurent dans **P-45 — demandes et relances sur les modalités pratiques de remise du recours**.
+Le 26 septembre, le requérant a demandé au Bureau des élections comment remettre une requête au représentant de l'État au titre de l'article 34. Le 28 septembre, il a interrogé directement la Sous-préfecture de Corte : pouvait-elle recevoir la requête, par quel canal, jusqu'à quelle heure et avec quelle preuve de réception ? Ces questions ont été reprises les 1er et 2 octobre et figurent dans **P-45.c — Consolidation générale du 1er octobre 2026 avec la Sous-préfecture de Corte en copie** et **P-45.d — Relance structurée P1–P18 du 2 octobre 2026**.
 
 Aucune réponse substantielle retrouvée avant l'échéance n'a fermé ces questions.
 
