@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.46"
+version: "0.47"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -880,6 +880,25 @@ Règle de qualification :
 
 Ne pas supprimer cette fonction sous prétexte qu'elle est atypique : elle fait partie du raisonnement sur l'effectivité et sur les limites du remède.
 
+
+### Règle de conservation sémantique des passes d'intelligibilité
+
+Une demande de rendre la requête plus intelligible n'autorise **aucune réduction de sa sémantique**.
+
+Toute passe de réécriture doit être sémantiquement conservative sauf instruction explicite contraire de l'auteur.
+
+Avant de substituer une nouvelle version de lecture à la précédente :
+1. inventorier les propositions, distinctions, réserves, conséquences, demandes et fonctions argumentatives de la version source ;
+2. vérifier leur présence sous forme équivalente dans la version cible ;
+3. distinguer le métatexte de fabrication, qui peut sortir du corps, du contenu juridiquement ou argumentativement utile ;
+4. effectuer un diff sémantique après réécriture ;
+5. toute suppression volontaire d'une idée de fond requiert un arbitrage humain explicite.
+
+Règle canonique : **plus clair ne signifie jamais moins complet**.
+
+Audit associé :
+`research/senatoriales-2026/investigation/audit-pertes-semantiques-versions-requete-2026-10-07.md`
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1527,3 +1546,8 @@ La correction ne porte donc pas seulement sur le vocabulaire. Elle formalise la 
 Application locale obligatoire : **charger le control plane local avant d'agir, produire, relire contre ce control plane, puis élargir seulement si nécessaire**. Une règle locale qui aurait empêché une erreur mais n'a pas été activée signale une **défaillance d'activation du control plane**.
 
 Cette règle est explicitement rapprochée du couple **cognition / métacognition** et du principe de localité de FractaCognition, sans transformer cette analogie fonctionnelle en identité rigide.
+
+
+## UPDATE — 7 octobre 2026 — v0.47 / conservation sémantique
+
+Ajout d'une règle explicite de non-régression : les passes d'intelligibilité doivent conserver intégralement le sens. Un audit rétrospectif des versions 0.20, 0.23, 0.26, 0.27 et de la requête stable identifie les pertes ou affaiblissements et documente leur restauration.
