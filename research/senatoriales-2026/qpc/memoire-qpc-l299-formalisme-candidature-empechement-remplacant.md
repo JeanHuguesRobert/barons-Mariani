@@ -3,7 +3,7 @@ title: "Mémoire distinct et motivé — QPC article L.299 du code électoral"
 subtitle: "Formalisme de candidature et empêchement fonctionnel du remplaçant"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "candidate-filing"
 language: fr
 document_role: "legal-brief"
@@ -43,11 +43,27 @@ Des décisions électorales appliquent l'article L.299. Cette application ne se 
 
 Le grief principal est fondé sur le droit d'éligibilité du **candidat principal**, garanti par l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789. La formalité litigieuse est accomplie par le remplaçant, mais sa défaillance alléguée a pour effet d'empêcher la candidature du titulaire lui-même d'accéder au scrutin.
 
-Le Conseil constitutionnel juge que le législateur ne saurait priver un citoyen du droit d'éligibilité que dans la mesure nécessaire au respect du principe d'égalité devant le suffrage et à la préservation de la liberté de l'électeur.
+Le Conseil constitutionnel juge que le législateur ne saurait priver un citoyen du droit d'éligibilité que dans la mesure nécessaire au respect du principe d'égalité devant le suffrage et à la préservation de la liberté de l'électeur. Cette formulation est notamment reprise, en matière sénatoriale, par la décision n° 2014-4909 SEN du 23 janvier 2015.
 
 L'article 3 de la Constitution, selon lequel le suffrage est toujours universel, égal et secret, complète ce cadre.
 
 Le pluralisme des courants d'idées et d'opinions éclaire également la portée d'une règle qui peut empêcher toute une offre électorale d'accéder au scrutin du fait de l'impossibilité matérielle, pour un remplaçant, d'accomplir un geste probatoire.
+
+### IV bis. Cadre organique de recevabilité appliqué à la présente QPC
+
+Dans sa décision n° 2023-6281 SEN/QPC du 8 décembre 2023, le Conseil constitutionnel a rappelé que, lorsqu'une QPC est soulevée directement à l'occasion d'un contentieux sénatorial, la disposition contestée doit :
+
+1. être applicable au litige ou à la procédure ;
+2. ne pas avoir déjà été déclarée conforme à la Constitution dans les motifs et le dispositif d'une décision du Conseil, sauf changement des circonstances ;
+3. soulever une question nouvelle ou présentant un caractère sérieux.
+
+Ces trois conditions sont ici examinées séparément.
+
+**Applicabilité.** L'article L.299 est directement applicable : les formalités du remplaçant prévues par ce texte sont au cœur du refus d'enregistrement de la candidature.
+
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant L.299 conforme, dans ses motifs et son dispositif, au regard du grief ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel du mémoire.
+
+**Caractère sérieux.** La question ne repose pas sur une difficulté abstraite. Elle confronte une restriction directe au droit d'éligibilité à l'existence d'une solution moins restrictive déjà admise par le Conseil d'État pour une formalité électorale fonctionnellement proche.
 
 ### V. Finalité légitime de la formalité
 
@@ -85,6 +101,17 @@ Le caractère sérieux résulte de quatre éléments :
 4. le Conseil d'État a déjà reconnu, pour une formalité électorale fonctionnellement proche, qu'une assistance matérielle par un tiers peut préserver la validité de la candidature lorsqu'un handicap empêche le geste personnel.
 
 Le grief ne demande donc pas au Conseil d'abolir le formalisme électoral. Il lui demande de déterminer si la Constitution permet qu'un formalisme probatoire légitime soit interprété comme interdisant toute adaptation lorsque cette adaptation conserve précisément la preuve recherchée.
+
+### VIII bis. Pourquoi la question vise bien la loi
+
+Le risque principal de rejet consiste à considérer que le texte n'est pas en cause et que seule son application l'est.
+
+La QPC doit donc rester formulée au niveau normatif suivant :
+
+- soit L.299 permet déjà l'adaptation rendue nécessaire par le handicap ; dans ce cas, le Conseil peut le dire par une réserve d'interprétation qui ferme toute lecture contraire ;
+- soit L.299 doit être compris comme exigeant toujours l'accomplissement matériel personnel du geste ; dans ce cas, la disposition elle-même fait obstacle à l'adaptation et la question de sa proportionnalité est directement constitutionnelle.
+
+La question ne demande donc pas au Conseil d'apprécier seulement la conduite de la préfecture ou du Tribunal administratif. Elle lui demande de déterminer **quelle interprétation de la loi est constitutionnellement admissible**.
 
 ### IX. Situation concrète révélant la question
 
