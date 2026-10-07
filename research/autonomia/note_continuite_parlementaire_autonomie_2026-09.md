@@ -32,7 +32,9 @@ related_documents:
   - title: "Atlas du paysage politique et institutionnel corse — addendum octobre 2026"
     path: "atlas_paysage_politique_corse_addendum_2026-10.md"
 provenance:
-  origin_type: "continuation_of_parliamentary_submission"
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "unknown"
   origin_date: "2026-05-28"
   derived_from:
     - "research/contribution_commission_lois_autonomie_capacite.md"
