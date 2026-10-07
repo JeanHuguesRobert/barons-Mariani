@@ -51,7 +51,7 @@ sections:
         status: ready
       - id: bordereau
         kind: markdown
-        path: research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md
+        path: research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel.md
         status: ready
 
   - id: pieces
