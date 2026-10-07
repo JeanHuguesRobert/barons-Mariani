@@ -4,9 +4,11 @@ description: "Fiche OSINT publique sur le rôle de Paulu Santu Parigi dans le pr
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-06'
+last_modified_at: '2026-10-07'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
+snapshot_as_of: '2026-10-07T07:36:00+02:00'
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/osint_acteurs/paulu_santu_parigi.md"
 document_role: source
 document_kind: research-note
@@ -33,7 +35,7 @@ review:
 
 **Priorité : maximale.** Acteur disposant d’un pouvoir formel direct dans la phase sénatoriale de la révision constitutionnelle.
 
-Dernière vérification : **6 octobre 2026**.
+Dernière vérification : **7 octobre 2026 à 7 h 36**.
 
 ## Identité publique minimale
 
@@ -46,11 +48,21 @@ Dernière vérification : **6 octobre 2026**.
 
 Source institutionnelle : https://www.senat.fr/senateur/parigi_paul_toussaint20036x.html
 
+## Réélection de 2026
+
+Au premier tour du 27 septembre 2026, Paul Toussaint Parigi a obtenu **442 voix sur 530 suffrages exprimés**, soit **83,40 %**, et a été réélu.
+
+Le scrutin compte 616 inscrits, 606 votants, 36 bulletins blancs et 40 nuls.
+
+Source : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+
 ## Rôle dans le processus d’autonomie
 
 Le projet de loi constitutionnelle relatif à l’autonomie de la Corse est soumis au Sénat en première lecture. En qualité de sénateur de Haute-Corse, Parigi dispose d’un **vote direct** sur ce texte et d’une capacité d’amendement selon les règles parlementaires applicables.
 
-Sa fiche sénatoriale consultée en septembre 2026 le donnait membre de la **commission des lois constitutionnelles**, commission au centre de l’examen du texte. La composition issue du renouvellement sénatorial doit être suivie comme une donnée dynamique.
+Sa fiche sénatoriale antérieure au renouvellement le donnait membre de la **commission des lois constitutionnelles**, commission au centre de l’examen du texte.
+
+Le Sénat a publié le 6 octobre les listes des membres des commissions permanentes et doit constituer le bureau de la commission des lois le 7 octobre à 9 h 30. À 7 h 36, la présente fiche ne transforme pas encore cette séquence en fonction stabilisée : la composition et les responsabilités internes doivent être reprises d’une publication sénatoriale courante après constitution du bureau.
 
 Dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 
@@ -59,7 +71,7 @@ Dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 | Dimension | Niveau provisoire | Fondement |
 |---|---:|---|
 | Pouvoir formel | très élevé | vote sénatorial sur la révision constitutionnelle |
-| Pouvoir procédural | élevé | activité de sénateur ; appartenance documentée à la commission des lois avant renouvellement |
+| Pouvoir procédural | élevé, état interne à actualiser | activité de sénateur ; appartenance à la commission des lois documentée avant renouvellement ; bureau 2026 en cours de constitution |
 | Pouvoir politique | élevé en Corse, significatif au Sénat | sénateur unique de Haute-Corse ; acteur nationaliste public |
 | Pouvoir informationnel | élevé | accès aux travaux et procédures sénatoriales |
 | Pouvoir de réseau | à documenter | ne pas déduire les relations effectives de la seule appartenance institutionnelle |
@@ -110,6 +122,8 @@ Chaque extrait devra être rattaché à sa source primaire lorsque disponible.
 
 ### Institutionnelles / officielles
 
+- Ministère de l’Intérieur — Résultats 2026 — Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
+
 - Sénat — fiche sénateur : https://www.senat.fr/senateur/parigi_paul_toussaint20036x.html
 - Sénat — dossier législatif autonomie : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Sénat — collaborateurs en Haute-Corse : https://www.senat.fr/trombinoaga/trombinoDP_2B.html
@@ -123,7 +137,7 @@ Chaque extrait devra être rattaché à sa source primaire lorsque disponible.
 
 ## Inconnues / contrôles à poursuivre
 
-- composition stabilisée de la commission des lois après le renouvellement sénatorial ;
+- composition et fonctions stabilisées de la commission des lois après la constitution de son bureau le 7 octobre ;
 - groupe parlementaire et responsabilités internes stabilisés après renouvellement ;
 - répartition publique des fonctions de ses collaborateurs ;
 - inventaire exhaustif et sourcé de ses positions sur chacune des dispositions du projet ;
