@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.13"
+version: "0.14"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,8 +13,8 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.17.md"
-  - "bordereau-pieces-requete-conseil-constitutionnel-v0.9.md"
+  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
   - "investigation/precedents_contentieux_et_couverture_medias_2017_2020_2024_2026.md"
@@ -89,8 +89,8 @@ Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au
 ## A. MUST BEFORE FILING
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.17 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.17.
+- [~] **Version canonique de dépôt** — la v0.18 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.18.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La matrice `matrice-canaux-materiels-depot-2026-10-07.md` distingue désormais destinataire juridique, modalité matérielle, preuve et risque. L’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
@@ -101,6 +101,10 @@ Pour **chaque pièce**, le contrôle pré-dépôt doit permettre de retrouver au
 - [ ] **Conseil constitutionnel — remise directe à Paris** — confirmer dès l’ouverture les modalités pratiques de réception d’une requête électorale au secrétariat général, 2 rue de Montpensier, et, si une personne/coursier est mobilisable à Paris, lui transmettre un exemplaire strictement identique avec instruction d’obtenir une preuve de remise datée et horodatée.
 - [ ] **Sous-préfecture de Corte — ne pas présumer l’habilitation** — aucune source examinée ne suffit à établir qu’une remise à la sous-préfecture vaut à elle seule saisine du « représentant de l’État » au sens de l’article 34. Ne compter cette voie qu’après confirmation explicite qu’elle reçoit la requête pour le compte du représentant de l’État ; sinon la traiter comme tentative/trace complémentaire.
 - [ ] **Courriel / télécopie — copie de traçabilité seulement** — sauf confirmation institutionnelle expresse d’un mode de saisine électronique, ne jamais utiliser courriel ou fax comme seul dépôt. Une copie numérique peut être envoyée parallèlement ou après la remise matérielle, clairement étiquetée comme copie de traçabilité ne se substituant pas au dépôt article 34.
+- [ ] **P-45 — silence administratif sur les modalités de dépôt** — produire **intégralement** dans le dossier les quatre courriels P-45.a à P-45.d : 26/09 demande au Bureau des élections ; 28/09 demande directe à la Sous-préfecture de Corte ; 01/10 consolidation avec Sous-préfecture en copie ; 02/10 relance numérotée P1–P18 avec P11/P12. L'index public `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md` ne remplace pas les messages natifs.
+- [ ] **P-45 — intégralité et authenticité des courriels** — pour chaque sous-pièce, joindre une représentation lisible du message **complet**, avec date/heure, objet, destinataires/copies et en-têtes utiles ; conserver si possible l'export natif EML/RFC822 ; calculer le SHA-256 du fichier effectivement produit ; vérifier que le sous-identifiant P-45.x du bordereau correspond exactement au fichier annexé.
+- [x] **P-45 — borne probatoire du silence** — recherche Gmail ciblée vérifiée : le fil du 26/09 et celui du 28/09 ne contiennent chacun qu'un message sortant ; aucune réponse provenant de l'adresse institutionnelle de la Sous-préfecture de Corte n'a été retrouvée entre le 28/09 et le 07/10. Ne pas écrire « l'État n'a jamais répondu » : P-28 établit une réponse sur la consultation des pièces. La proposition documentée est plus étroite : **aucune réponse substantielle retrouvée sur la modalité de dépôt article 34 malgré les demandes et relances identifiées**.
+- [ ] **P-45 — présence dans la requête et le bordereau** — contrôler avant gel que la requête v0.18 cite P-45.a à P-45.d dans la chronologie et dans le grief d'effectivité, et que le bordereau v0.10 les identifie comme pièce A à produire intégralement.
 - [ ] **Gel pré-dépôt** — une fois la dernière revue terminée : figer SHA/version, PDF ou exemplaire réellement remis, bordereau et pièces ; toute correction ultérieure doit devenir explicitement postérieure au dépôt.
 - [x] **Fondement du recours** — articulation stabilisée : Constitution art. 59 / ordonnance de 1958 / code électoral, notamment L.303.
 - [ ] **Bordereau autonome** — vérifier que le bordereau de pièces correspond exactement aux pièces effectivement jointes et à leur numérotation.
@@ -388,3 +392,18 @@ Priorité opérationnelle :
 4. copies numériques ou fax uniquement comme traces supplémentaires, jamais comme unique fondement de la saisine.
 
 La jurisprudence retrouvée impose une prudence maximale sur le temps : le Conseil a déjà rejeté des requêtes en se fondant sur leur **date de réception** au secrétariat général, postérieure au délai.
+
+
+## UPDATE — 7 octobre 2026 — P-45 / silence sur le canal de dépôt
+
+Le brouillon courant devient **v0.18** et le bordereau courant **v0.10**.
+
+Une nouvelle pièce composite **P-45** documente les demandes et relances sur la modalité pratique de dépôt :
+- P-45.a — 26 septembre, Bureau des élections ;
+- P-45.b — 28 septembre, Sous-préfecture de Corte ;
+- P-45.c — 1er octobre, consolidation avec Sous-préfecture en copie ;
+- P-45.d — 2 octobre, relance P1–P18 avec P11/P12.
+
+Règle : les quatre courriels doivent être **produits intégralement** dans le paquet juridictionnel, pas seulement résumés. Le Corpus public conserve un index minimisé ; les messages natifs restent la preuve primaire.
+
+Qualification : documenter un **silence procédural ciblé** sur le canal de dépôt malgré des relances multiples, sans transformer ce silence en preuve d'intention ni en affirmation d'absence générale de réponse de l'État.
