@@ -34,7 +34,7 @@ related_documents:
 provenance:
   origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "historical document created 2026-05-24; materially updated 2026-10-07"
+  origin_ref: "unknown"
   origin_date: "2026-05-24"
   derived_from:
     - "research/contribution_commission_lois_autonomie_capacite.md"
@@ -247,4 +247,4 @@ Trois informations doivent être revérifiées avant tout envoi au rapporteur :
 2. identité du rapporteur du projet n° 782 ;
 3. version courante de l’amendement d’effectivité et calendrier parlementaire.
 
-Une information non encore publiée doit rester **inconnue ou pending**, jamais être complétée par inférence.
+Une information non encore publiée doit rester **inconnue ou en attente**, jamais être complétée par inférence.
