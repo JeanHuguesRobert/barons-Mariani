@@ -167,7 +167,7 @@ Cette absence de trace reste un **inconnu**, non un refus imputé.
 
 **Fait documenté.** Le texte actuellement transmis au Sénat est le **projet de loi constitutionnelle n° 782 (2025-2026)**, adopté par l’Assemblée nationale puis transmis au Sénat le **24 juin 2026**.
 
-Source primaire : Sénat — texte n° 782  
+Source primaire : Sénat — texte n° 782
 https://www.senat.fr/leg/pjl25-782.html
 
 La [chronologie documentaire canonique](../chronologie_processus_beauvau_corse.md) reste la source du Corpus à utiliser pour la reconstruction détaillée de la séquence ouverte en mars 2022.
@@ -292,7 +292,7 @@ Le processus n’est pas seulement une chaîne de textes. L’Observatoire suit 
 
 **Fait documenté.** Le rapport n° 2865 de la commission des Lois de l’Assemblée nationale, déposé le 3 juin 2026, comporte une rubrique **« Contributions écrites »** dans laquelle figure **l’Association C.O.R.S.I.C.A.**
 
-Source primaire : Assemblée nationale, rapport n° 2865  
+Source primaire : Assemblée nationale, rapport n° 2865
 https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw
 
 Cette mention établit une participation écrite au processus parlementaire. Elle ne lui attribue pas un statut institutionnel supérieur à celui d’une contribution écrite et ne permet pas, à elle seule, de mesurer son influence sur le texte adopté.
