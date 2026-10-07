@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.42"
+version: "0.43"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -784,6 +784,40 @@ Avant figement du paquet, vérifier pour chacune :
 6. rédaction autonome, intelligible et motivée ;
 7. présence effective dans le paquet remis au Conseil.
 
+
+### Préservation CEDH — épuisement dès la requête nationale
+
+La requête au Conseil constitutionnel poursuit également un objectif de **préservation conventionnelle**.
+
+Règle impérative : tout grief que le requérant pourrait vouloir porter ultérieurement devant la Cour européenne des droits de l'homme doit être soumis au niveau national **au moins en substance**, dans les formes et délais internes, afin de laisser à l'État français la possibilité de le prévenir ou de le redresser.
+
+Les griefs conventionnels à préserver dans la requête sont au minimum :
+
+- **article 3 du Protocole n° 1** : droit concret et effectif de se porter candidat aux élections du corps législatif ; légalité, prévisibilité, proportionnalité et garanties contre l'arbitraire ;
+- **article 13 combiné avec l'article 3 du Protocole n° 1** : recours effectivement capable d'examiner et de redresser l'atteinte électorale ;
+- **article 14 combiné avec l'article 3 du Protocole n° 1** : volet handicap et désavantage particulier, sous réserve de la qualité personnelle de victime.
+
+Ne pas utiliser **l'article 6 CEDH** comme fondement principal du contentieux électoral : le droit de se porter candidat est un droit politique, non un droit civil au sens de l'article 6 § 1.
+
+Après toute réécriture de la requête, vérifier que la substance de ces trois griefs n'a pas disparu.
+
+La matrice de contrôle dédiée est :
+`research/senatoriales-2026/investigation/preservation-cedh-2026-10-07.md`.
+
+### Délai et forme d'une future saisine CEDH
+
+Après chaque décision nationale définitive pertinente :
+
+1. conserver le texte intégral, sa date, son mode de notification et la preuve correspondante ;
+2. ouvrir immédiatement un compteur conservatoire de **quatre mois** ;
+3. identifier grief par grief la décision nationale finale pertinente ;
+4. préparer le formulaire officiel complet prévu par l'article 47 du règlement de la Cour ;
+5. ne jamais compter sur un courrier sommaire, un courriel ou un fax pour interrompre le délai ;
+6. envoyer le formulaire complet par voie postale et conserver la preuve du cachet postal ;
+7. préserver toutes les écritures nationales, pièces produites, QPC, preuves de dépôt et décisions.
+
+La stratégie CEDH doit être construite comme une continuation documentée du contentieux national, non comme une reconstruction rétrospective après la décision du Conseil constitutionnel.
+
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
 Avant toute nouvelle version de la requête :
@@ -1413,3 +1447,8 @@ La requête courante est désormais référencée par le chemin stable `requete-
 ## UPDATE — 7 octobre 2026 — v0.42 / QPC constitutives du dépôt final
 
 Les deux QPC L.303 et L.299 doivent être effectivement soulevées dans la requête adressée au Conseil constitutionnel et déposées simultanément sous forme de mémoires distincts et motivés. Elles ne sont plus traitées comme de simples pistes extérieures au paquet final.
+
+
+## UPDATE — 7 octobre 2026 — v0.43 / préservation CEDH structurée
+
+Ajout d'une règle de préservation conventionnelle : la requête nationale doit contenir au moins en substance les griefs susceptibles d'être ultérieurement portés à Strasbourg. Les axes conservés sont l'article 3 du Protocole n° 1, l'article 13 combiné avec celui-ci, et l'article 14 combiné avec celui-ci pour le handicap. La matrice dédiée fixe également les exigences d'épuisement, de qualité de victime, de délai de quatre mois et de formulaire Rule 47.
