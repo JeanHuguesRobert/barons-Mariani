@@ -35,7 +35,7 @@ related_documents:
 provenance:
   origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "derived from prior Atlas layers and primary institutional sources current on 2026-10-07"
+  origin_ref: "unknown"
   origin_date: "2026-10-07"
   derived_from:
     - "research/autonomia/atlas_paysage_politique_corse.md"
