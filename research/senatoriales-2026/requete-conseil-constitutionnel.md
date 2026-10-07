@@ -1212,6 +1212,14 @@ Le mémoire distinct consacré à cette QPC examine notamment l'égalité d'acc�
 
 Ces deux QPC ont des objets différents.
 
+Une QPC ne demande pas au Conseil de statuer seulement sur les personnes de cette affaire. Le litige fournit l'occasion procédurale de la soulever et montre concrètement les effets possibles de la loi ; la question constitutionnelle porte, elle, sur la **règle législative générale** et sur les droits et libertés qu'elle affecte pour toute personne placée dans la situation qu'elle régit.
+
+Ainsi, la QPC relative à l'article L.303 ne concerne pas seulement M. Robert ni M. Parigi : elle demande quelles garanties doivent entourer, en général, l'exclusion avant scrutin d'une candidature sénatoriale lorsque le contrôle du Conseil constitutionnel n'intervient qu'après l'élection.
+
+De même, la QPC relative à l'article L.299 ne se réduit pas à la situation personnelle de Mme Vernerey : elle demande, en général, comment une formalité de signature et de mention manuscrite doit s'appliquer lorsqu'un remplaçant est empêché par un handicap permanent ou provisoire d'accomplir personnellement le geste alors que son identité et son consentement peuvent être établis.
+
+Ces deux QPC ont des objets différents.
+
 La première concerne **les garanties juridictionnelles qui entourent l'exclusion d'une candidature avant le scrutin**.
 
 La seconde concerne **le formalisme légal imposé au remplaçant lorsqu'un handicap empêche l'accomplissement personnel du geste manuscrit**.
@@ -1322,11 +1330,13 @@ Il est solennellement rappelé au Conseil constitutionnel l'urgence et la gravit
    - cette irréversibilité ne permet toutefois pas d'affirmer qu'aucun remède juridique n'existe : l'article 41 prévoit, dans son champ propre, l'annulation de l'élection ou la réformation de la proclamation, et l'article LO 322 organise une élection partielle après annulation ;
    - la proclamation directe du requérant est donc formulée comme une demande subsidiaire de second rang, afin que l'éventuelle impossibilité de ce remède ne soit pas confondue avec l'absence de tout pouvoir correctif.
 
-5. **Fonction exacte de la conclusion extrême** :
-   - la proclamation directe du requérant est formulée comme une demande de second rang ;
-   - sa fonction est de distinguer **remède parfait**, **remède juridiquement disponible** et **absence de remède** ;
-   - l'impossibilité éventuelle de proclamer directement le requérant ne démontrerait pas qu'aucune réparation n'est concevable ; elle conduirait au contraire à identifier plus nettement l'étendue réelle des pouvoirs correctifs du Conseil ;
-   - la demande principale reste l'annulation, dont la conséquence normale est l'élection partielle prévue par l'article LO 322.
+5. **Une expérience de pensée sur l'étendue du pouvoir de réparation** :
+   - l'article 41 de l'ordonnance du 7 novembre 1958 établit qu'en droit le Conseil constitutionnel ne dispose pas du seul pouvoir d'annuler : il peut aussi, lorsque les conditions légales sont réunies, réformer la proclamation et proclamer le candidat qui a été régulièrement élu ;
+   - ce pouvoir existe donc réellement dans l'office du juge électoral. Cela ne signifie pas que ses conditions soient réunies dans la présente affaire : le requérant n'a pas participé au scrutin et ne soutient pas avoir recueilli des suffrages valides permettant de le regarder comme régulièrement élu ;
+   - la demande subsidiaire de proclamation directe est maintenue **à des fins de raisonnement**. Elle constitue une expérience de pensée juridictionnelle : pousser jusqu'à sa limite le pouvoir correctif expressément prévu par l'article 41 permet de distinguer ce qui est juridiquement impossible dans cette affaire de ce qui relève d'un choix entre plusieurs remèdes effectivement disponibles ;
+   - cette expérience de pensée vaut aussi symétriquement pour les intérêts de M. Parigi : elle oblige à raisonner sur les conséquences concrètes qu'aurait une réformation de la proclamation pour le titulaire actuellement proclamé, et donc sur les garanties attachées à tout remède ;
+   - si le Conseil estime que la condition tenant au « candidat régulièrement élu » interdit ici toute proclamation directe du requérant, cette réponse éclaire précisément la limite du remède ; elle ne transforme pas cette limite en preuve qu'aucun autre pouvoir correctif n'existe ;
+   - la demande principale demeure l'annulation, dont la conséquence normale est l'élection partielle prévue par l'article LO 322.
 
 ---
 
@@ -1367,21 +1377,13 @@ Par ces motifs, et sous réserve de tous autres à produire, déduire ou supplé
 3. **JUGER, pour les besoins du contentieux de l'élection**, que le refus d'enregistrement de la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey n'était pas légalement fondé, si le Conseil retient les moyens développés ci-dessus ;
 4. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) PARIGI en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
 5. **TIRER LES CONSÉQUENCES LÉGALES** de cette annulation, l'article LO 322 du code électoral prévoyant qu'il est procédé à une élection partielle dans un délai de trois mois ;
-6. **À TITRE SUBSIDIAIRE**, examiner si l'article 41 permet un autre remède correctif.
+6. **À TITRE SUBSIDIAIRE ET À DES FINS DE RAISONNEMENT**, examiner l'étendue du pouvoir de réformation prévu par l'article 41 de l'ordonnance du 7 novembre 1958, y compris l'hypothèse d'une proclamation directe du requérant.
 
-La proclamation du requérant n'est envisagée que si le Conseil estime que son office le permet juridiquement.
+L'article 41 rend juridiquement possible, dans son champ propre, la réformation d'une proclamation et la proclamation du candidat qui a été régulièrement élu. Le requérant ne soutient pas que cette condition soit satisfaite ici : n'ayant pas participé au scrutin, il ne prétend pas avoir recueilli des suffrages valides permettant de le regarder comme régulièrement élu.
 
-Le requérant ne soutient pas avoir recueilli des suffrages valides permettant de le regarder comme « régulièrement élu ».
+Cette conclusion subsidiaire est donc une expérience de pensée juridique, non l'affirmation d'un droit acquis au mandat. Elle demande au Conseil de distinguer explicitement trois propositions qui ne se confondent pas : l'existence abstraite d'un pouvoir de réformation ; son applicabilité aux faits de la présente affaire ; et l'existence d'autres remèdes lorsque cette application particulière est impossible.
 
-Le point est plus limité.
-
-L'irréversibilité de certains effets ne doit pas conduire, sans examen, à conclure qu'aucune solution juridique n'est concevable.
-
-Si la proclamation directe est juridiquement impossible, il faut le dire.
-
-Cette impossibilité reste distincte des autres pouvoirs correctifs.
-
-L'annulation et l'organisation d'une nouvelle élection restent au premier rang de ces autres remèdes.
+Si le Conseil estime qu'une proclamation directe est juridiquement impossible dans cette affaire, cette limite pourra être clairement identifiée. Elle restera distincte du pouvoir d'annuler l'élection et des conséquences légales d'une annulation.
 7. **EXAMINER LES DEUX QUESTIONS PRIORITAIRES DE CONSTITUTIONNALITÉ** soulevées par mémoires distincts joints à la présente requête, l'une relative à l'article L.303 du code électoral et aux garanties juridictionnelles de l'exclusion d'une candidature, l'autre relative à l'article L.299 du code électoral et au formalisme applicable au remplaçant empêché par un handicap ;
 8. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu du calendrier officiel du Sénat rappelé au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
 
