@@ -3,7 +3,7 @@ title: "Préservation CEDH — sénatoriales Haute-Corse 2026"
 subtitle: "Conditions de recevabilité, griefs à épuiser et dossier à conserver"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "active — pre-Strasbourg preservation"
 language: fr
 document_role: "legal-strategy-note"
@@ -277,3 +277,43 @@ Le dossier national doit être organisé dès maintenant de manière à pouvoir 
 - formulaire officiel de requête disponible sur le site de la Cour à la date de saisine.
 
 Les versions utilisées lors de la future saisine doivent être celles en vigueur à cette date.
+
+
+### Laurence Vernerey
+
+Griefs potentiels personnels :
+- impact du formalisme électoral sur une personne handicapée ;
+- absence alléguée d'aménagement adapté ;
+- discrimination éventuelle dans l'exercice d'un droit politique.
+
+Deux courriels contemporains doivent être conservés et produits de manière proportionnée :
+- un courriel par lequel Mme Vernerey demande à M. Robert d'être son porte-parole dans la campagne ;
+- un courriel par lequel elle l'autorise à signer à sa place.
+
+Ces écrits ne constituent pas, à eux seuls, le pouvoir formel exigé pour une future représentation devant la CEDH. Ils ont néanmoins une valeur probatoire importante : ils documentent sa volonté de participer à la candidature, son consentement à être représentée matériellement dans certaines démarches et la demande faite au tiers, élément directement pertinent pour le grief relatif au handicap et aux formalités manuscrites.
+
+Pour Strasbourg, il faut distinguer deux questions.
+
+**Pouvoir de représentation.** Au stade de l'introduction d'une requête individuelle, si Mme Vernerey est représentée, la section d'autorisation du formulaire CEDH devra normalement comporter sa signature datée et originale ainsi que celle du représentant. Ce pouvoir formel pourra être obtenu ultérieurement, avant la saisine.
+
+**Épuisement du grief personnel.** En revanche, un pouvoir obtenu ultérieurement ne peut pas réparer l'absence d'épuisement d'un grief appartenant personnellement à Mme Vernerey. Si l'on veut préserver sa qualité de future requérante autonome sur le volet handicap/discrimination, la substance de son propre grief doit être portée au niveau national avant la décision définitive, dans la mesure juridiquement possible.
+
+Conséquence immédiate : vérifier dans la requête au Conseil constitutionnel et dans les mémoires QPC que la situation de Mme Vernerey n'est pas seulement utilisée comme fait affectant M. Robert, mais que son propre intérêt, son empêchement, son consentement et l'effet du formalisme sur ses droits sont expressément identifiables.
+
+Ne pas présumer pour autant que M. Robert dispose déjà d'un mandat contentieux général pour agir en son nom. Les courriels existants prouvent une volonté et des autorisations déterminées ; leur portée exacte doit être décrite sans l'étendre artificiellement.
+
+## 10. Représentation future devant la CEDH
+
+Au stade initial, un requérant peut introduire lui-même sa requête ou agir par l'intermédiaire d'un représentant.
+
+Lorsque le requérant est représenté, l'article 47 du règlement de la Cour exige normalement que la section d'autorisation du formulaire comporte la signature datée et originale du requérant et celle du représentant.
+
+Après communication de la requête au gouvernement défendeur, l'article 36 du règlement prévoit en principe une représentation par un avocat autorisé à exercer dans un État partie et résidant sur le territoire de l'un d'eux, ou par une autre personne spécialement agréée par le président de la chambre.
+
+Conséquence pratique pour Mme Vernerey :
+- il n'est pas nécessaire d'obtenir aujourd'hui un mandat CEDH définitif ;
+- il faut en revanche conserver les écrits actuels établissant sa volonté ;
+- avant toute saisine à Strasbourg en son nom, obtenir une autorisation conforme au formulaire alors en vigueur ;
+- si M. Robert n'agit pas comme avocat, ne pas présumer qu'il pourra rester son représentant après communication sans agrément de la Cour ; prévoir, si nécessaire, l'intervention d'un avocat à ce stade.
+
+La priorité immédiate est donc la **préservation nationale du grief**, non la formalisation prématurée du mandat strasbourgeois.
