@@ -3,7 +3,7 @@ title: "Mémoire distinct et motivé — QPC article L.299 du code électoral"
 subtitle: "Formalisme de candidature et empêchement fonctionnel du remplaçant"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.1"
+version: "0.2"
 status: "candidate-filing"
 language: fr
 document_role: "legal-brief"
@@ -25,7 +25,7 @@ related_documents:
 
 La question ne porte pas sur la seule situation personnelle de Mme Laurence Vernerey ni sur la seule candidature de M. Jean Hugues Noël Robert.
 
-Le présent litige rend la difficulté concrète et établit l'applicabilité de la disposition. La question constitutionnelle est générale : elle porte sur les conséquences qu'une formalité légale de signature et de mention manuscrite peut produire pour toute candidature sénatoriale lorsque le remplaçant est empêché, par un handicap permanent ou provisoire, d'accomplir personnellement le geste matériel requis, alors que son identité et son consentement éclairé peuvent être établis.
+Le présent litige rend la difficulté concrète et établit l'applicabilité de la disposition. La question constitutionnelle est générale : elle porte sur les conséquences qu'une formalité légale de signature et de mention manuscrite imposée au remplaçant peut produire sur le **droit d'éligibilité du candidat principal**, lorsque le remplaçant est empêché, par un handicap permanent ou provisoire, d'accomplir personnellement le geste matériel requis, alors que son identité et son consentement éclairé peuvent être établis.
 
 ### II. Disposition législative contestée
 
@@ -41,7 +41,7 @@ Des décisions électorales appliquent l'article L.299. Cette application ne se 
 
 ### IV. Droits et libertés constitutionnellement garantis invoqués
 
-Le grief principal est fondé sur le droit d'éligibilité garanti par l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789.
+Le grief principal est fondé sur le droit d'éligibilité du **candidat principal**, garanti par l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789. La formalité litigieuse est accomplie par le remplaçant, mais sa défaillance alléguée a pour effet d'empêcher la candidature du titulaire lui-même d'accéder au scrutin.
 
 Le Conseil constitutionnel juge que le législateur ne saurait priver un citoyen du droit d'éligibilité que dans la mesure nécessaire au respect du principe d'égalité devant le suffrage et à la préservation de la liberté de l'électeur.
 
@@ -69,7 +69,7 @@ Cette jurisprudence montre qu'une adaptation fonctionnelle de la formalité est 
 
 L'article L.299 ne prévoit expressément aucune adaptation lorsque le remplaçant est empêché par un handicap d'accomplir personnellement la signature ou la mention manuscrite.
 
-Pris comme imposant, en toute hypothèse, l'accomplissement physique personnel de ces gestes, il peut produire un effet particulièrement lourd : l'empêchement matériel d'une seule personne entraîne l'exclusion de la candidature sénatoriale tout entière.
+Pris comme imposant, en toute hypothèse, l'accomplissement physique personnel de ces gestes, il peut produire un effet particulièrement lourd : l'empêchement matériel affectant le remplaçant entraîne l'exclusion de la candidature sénatoriale du candidat principal tout entière.
 
 Cette conséquence peut alors résulter non d'une absence de consentement, d'un doute sur l'identité ou d'une fraude, mais de l'impossibilité physique d'accomplir le geste par lequel la loi demande normalement que le consentement soit prouvé.
 
@@ -98,15 +98,17 @@ Ces faits n'enferment pas la QPC dans ce seul cas. Ils établissent qu'elle n'es
 
 ### X. Meilleur contre-argument et remède constitutionnel
 
-Le meilleur contre-argument consiste à soutenir que l'article L.299 peut déjà recevoir, par analogie avec la jurisprudence relative à l'article L.265, une interprétation respectueuse du droit d'éligibilité.
+Le meilleur contre-argument consiste à soutenir que l'article L.299 peut déjà recevoir, par analogie avec la jurisprudence relative à l'article L.265, une interprétation respectueuse du droit d'éligibilité et que le litige ne révélerait alors qu'une mauvaise application de la loi.
 
-Cette objection ne prive pas la question de son sérieux. Elle conduit au contraire à identifier un remède constitutionnel proportionné : une déclaration de conformité sous réserve d'interprétation.
+Cette objection est centrale. Si une interprétation conforme de L.299 s'impose déjà avec suffisamment de clarté, la question peut perdre une partie de son caractère sérieux comme grief dirigé contre la loi elle-même.
+
+Mais elle conduit aussi à identifier exactement ce que le Conseil constitutionnel peut utilement trancher : **la disposition peut-elle constitutionnellement recevoir une interprétation qui exclurait toute adaptation en cas de handicap ?** Une déclaration de conformité sous réserve d'interprétation permettrait de répondre à cette question sans censurer inutilement le texte.
 
 Une telle réserve préserverait le texte, sa fonction probatoire et la sincérité du scrutin, tout en empêchant qu'il soit interprété comme imposant l'impossible lorsque le consentement peut être établi.
 
 ### XI. Question posée
 
-> **Les dispositions de l'article L.299 du code électoral portent-elles une atteinte disproportionnée au droit d'éligibilité garanti par l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789 et aux exigences résultant de l'article 3 de la Constitution, en tant qu'elles sont susceptibles d'être interprétées comme imposant au remplaçant d'un candidat aux élections sénatoriales l'accomplissement personnel d'une signature et d'une mention manuscrite même lorsqu'un handicap permanent ou provisoire l'en empêche, alors que son identité et son consentement éclairé peuvent être établis et que l'accomplissement matériel de la formalité par un tiers à sa demande permet d'en préserver la finalité probatoire ?**
+> **Les dispositions de l'article L.299 du code électoral portent-elles une atteinte disproportionnée au droit d'éligibilité garanti par l'article 6 de la Déclaration des droits de l'homme et du citoyen de 1789 et aux exigences résultant de l'article 3 de la Constitution, en tant qu'elles seraient interprétées comme permettant d'exclure la candidature d'un candidat au seul motif que son remplaçant, empêché par un handicap permanent ou provisoire, n'a pu accomplir personnellement la signature ou la mention manuscrite requise, alors que l'identité et le consentement éclairé de ce remplaçant peuvent être établis et que l'accomplissement matériel de la formalité par un tiers à sa demande permet d'en préserver la finalité probatoire ?**
 
 ### XII. Conclusions
 
