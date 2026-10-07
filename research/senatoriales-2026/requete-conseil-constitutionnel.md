@@ -75,7 +75,7 @@ human_arbitration_by: "Jean Hugues Noël Robert"
 
 > **Obtenir le respect, en Corse comme ailleurs, réclame d’en manifester ; le mépris appelle le mépris.**
 >
-> Dans ce dossier, le respect institutionnel se mesure par des actes simples : répondre, expliquer, tracer, examiner et rendre les recours réellement praticables.
+> Cette formule ne vise aucune personne. Elle énonce une exigence de réciprocité institutionnelle : une institution qui demande le respect de ses règles doit aussi manifester du respect à celles et ceux qui cherchent à les appliquer. Dans ce dossier, ce respect se mesure par des actes simples : répondre, expliquer, tracer, examiner et rendre les recours réellement praticables.
 
 ## SOMMAIRE
 
@@ -1196,7 +1196,7 @@ La question constitutionnelle porte sur les garanties offertes lorsque ce jugeme
 
 Le problème n'est pas de transformer une erreur éventuelle du Tribunal administratif en inconstitutionnalité de la loi. Il est de déterminer si l'architecture même de l'article L.303 assure une garantie juridictionnelle suffisante lorsque, dans un délai de trois jours, une interprétation déterminante d'une formalité de candidature peut fermer l'accès au scrutin sans contrôle utile avant l'élection.
 
-Le mémoire distinct consacré à cette QPC examine notamment la garantie des droits et l'effectivité du contrôle juridictionnel au regard de l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789, ainsi que la question de l'office du juge lorsque l'effet du jugement devient irréversible avant que le Conseil constitutionnel puisse être saisi.
+Le mémoire distinct consacré à cette QPC examine notamment la garantie des droits et l'effectivité du contrôle juridictionnel au regard de l'article 16 de la Déclaration des droits de l'homme et du citoyen de 1789, en articulation avec le **droit d'éligibilité garanti par l'article 6 de la Déclaration de 1789**, l'égalité devant le suffrage et la liberté de l'électeur, ainsi que la question de l'office du juge lorsque l'effet du jugement devient irréversible avant que le Conseil constitutionnel puisse être saisi.
 
 #### QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant
 
@@ -1206,13 +1206,15 @@ La seconde question porte sur l'application de ce formalisme à une personne emp
 
 La question posée au Conseil est de savoir si l'article L.299, en tant qu'il impose ces formalités sans organiser expressément leur adaptation lorsque le remplaçant est empêché par un handicap de les accomplir personnellement, porte une atteinte disproportionnée à un droit ou une liberté que la Constitution garantit.
 
-Le mémoire distinct consacré à cette QPC examine notamment l'égalité d'accès aux fonctions électives, les garanties attachées à l'exercice effectif des droits politiques et la conciliation entre la finalité probatoire du formalisme électoral et la situation d'un remplaçant empêché.
+Le mémoire distinct consacré à cette QPC examine notamment le **droit d'éligibilité garanti par l'article 6 de la Déclaration de 1789**, l'égalité devant le suffrage et la préservation de la liberté de l'électeur, ainsi que la conciliation entre la finalité probatoire du formalisme électoral et la situation d'un remplaçant empêché. Le **pluralisme des courants d'idées et d'opinions**, qui découle de l'article 4 de la Constitution et constitue un fondement de la démocratie, complète cette lecture lorsque la règle d'accès à l'élection affecte l'expression effective d'une offre politique.
 
 #### Deux questions distinctes, toutes deux soulevées dans le présent contentieux
 
 Ces deux QPC ont des objets différents.
 
 Une QPC ne demande pas au Conseil de statuer seulement sur les personnes de cette affaire. Le litige fournit l'occasion procédurale de la soulever et montre concrètement les effets possibles de la loi ; la question constitutionnelle porte, elle, sur la **règle législative générale** et sur les droits et libertés qu'elle affecte pour toute personne placée dans la situation qu'elle régit.
+
+Cette généralité commande aussi de distinguer trois notions qui ne se confondent pas : **le droit de se porter candidat, le droit d'éligibilité et la garantie d'un résultat électoral**. Les deux premiers peuvent recevoir une protection constitutionnelle ou conventionnelle ; aucun ne garantit à un candidat d'être élu.
 
 Ainsi, la QPC relative à l'article L.303 ne concerne pas seulement M. Robert ni M. Parigi : elle demande quelles garanties doivent entourer, en général, l'exclusion avant scrutin d'une candidature sénatoriale lorsque le contrôle du Conseil constitutionnel n'intervient qu'après l'élection.
 
