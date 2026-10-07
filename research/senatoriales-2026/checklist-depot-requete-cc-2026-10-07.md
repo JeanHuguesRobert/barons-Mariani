@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.43"
+version: "0.44"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -136,6 +136,38 @@ DATA PLANE
 
 Une règle de contrôle qui ne produit aucun effet observable sur le data plane est suspecte de bureaucratie. Une donnée importante du data plane qui échappe au control plane est un risque de dossier.
 
+
+### Couplage obligatoire entre control plane et data plane
+
+Le dossier applique la correspondance fonctionnelle suivante :
+
+~~~text
+DATA PLANE    ↔ cognition
+CONTROL PLANE ↔ métacognition
+~~~
+
+Le parallèle n'est pas une identité de substance : une checklist, un diagnostic ou une mesure peuvent eux-mêmes devenir des données lorsqu'ils sont étudiés. Il porte sur la **fonction dans la boucle** : le data plane produit, transforme ou transporte ; le control plane oriente, contraint, vérifie et corrige.
+
+Invariant opérationnel :
+
+> **Toute action dans le data plane doit être guidée par les règles du control plane pertinent.**
+
+Pour toute rédaction, révision, qualification, sélection de pièce, gel, transmission ou autre action portant sur la requête et ses annexes :
+
+~~~text
+ACTE SUR LE DATA PLANE
+→ identifier la localité de l'acte
+→ charger le control plane local applicable
+→ identifier les règles pertinentes
+→ agir
+→ contrôler le résultat contre ces règles
+→ élargir vers des règles plus générales seulement si nécessaire
+~~~
+
+Cette priorité est une règle d'**activation**, non une règle de supériorité normative : les contraintes héritées du Corpus continuent de s'appliquer. Le control plane local spécialise et rend saillantes les règles propres à l'acte concret ; il ne peut ni annuler une règle supérieure ni fabriquer une autorité absente.
+
+**Test de défaillance :** si une règle locale existante aurait empêché une erreur effectivement produite mais n'a pas été consultée ou appliquée, traiter l'incident comme une **défaillance d'activation du control plane**, et non seulement comme une erreur ponctuelle du data plane. La correction doit alors porter à la fois sur l'objet erroné et sur la boucle de contrôle qui devait l'intercepter.
+
 Références conceptuelles canoniques du Corpus : séparation control/data plane dans Inox/Cogentia et principe de localité / FractaCognition.
 
 ### Règle de style à deux vitesses
@@ -186,7 +218,7 @@ Le lecteur futur ne doit pas avoir besoin de connaître le Corpus, les conversat
 - quelles capacités, contraintes et voies de recours existaient ;
 - quelles démarches ont été entreprises ;
 - quelles réponses institutionnelles sont documentées ;
-- quelles questions demeuraient ouvertes au moment du dépôt.
+- quelles questions demeuraient sans réponse suffisante ou restaient à établir au moment du dépôt.
 
 Règle :
 
@@ -1268,7 +1300,7 @@ L’audit de la v0.19 conclut que la double lecture n’est **pas encore satisfa
 - réintroduit **L.318** de manière bornée dans le grief d'incidence, sans inférence sur le vote individuel ;
 - propage le rôle exact de la photographie « Avenue du Baron Mariani » et sa borne ante quem ;
 - effectue une micro-passe d'intelligibilité sur des pronoms ambigus ;
-- conserve la matérialisation du paquet, le gel et la preuve de réception comme principaux points encore ouverts.
+- conserve la matérialisation du paquet, le gel et la preuve de réception comme principaux points restant à achever.
 
 
 ## UPDATE — 7 octobre 2026 — v0.22 / contrôle pièce par pièce lisible
@@ -1452,3 +1484,16 @@ Les deux QPC L.303 et L.299 doivent être effectivement soulevées dans la requ�
 ## UPDATE — 7 octobre 2026 — v0.43 / préservation CEDH structurée
 
 Ajout d'une règle de préservation conventionnelle : la requête nationale doit contenir au moins en substance les griefs susceptibles d'être ultérieurement portés à Strasbourg. Les axes conservés sont l'article 3 du Protocole n° 1, l'article 13 combiné avec celui-ci, et l'article 14 combiné avec celui-ci pour le handicap. La matrice dédiée fixe également les exigences d'épuisement, de qualité de victime, de délai de quatre mois et de formulaire Rule 47.
+
+
+## UPDATE — 7 octobre 2026 — v0.44 / couplage control plane ↔ data plane
+
+Ajout d'un invariant métacognitif issu d'un incident concret : une formulation déjà interdite par la checklist locale (« question ouverte » employée au sens de question non résolue) a été réintroduite parce que le plan de contrôle local n'avait pas été rechargé avant rédaction.
+
+La correction ne porte donc pas seulement sur le vocabulaire. Elle formalise la règle générale :
+
+> **Toute action dans le data plane doit être guidée par les règles du control plane pertinent.**
+
+Application locale obligatoire : **charger le control plane local avant d'agir, produire, relire contre ce control plane, puis élargir seulement si nécessaire**. Une règle locale qui aurait empêché une erreur mais n'a pas été activée signale une **défaillance d'activation du control plane**.
+
+Cette règle est explicitement rapprochée du couple **cognition / métacognition** et du principe de localité de FractaCognition, sans transformer cette analogie fonctionnelle en identité rigide.
