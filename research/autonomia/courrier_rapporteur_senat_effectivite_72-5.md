@@ -6,7 +6,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.4"
+version: "0.5"
 status: "draft — destinataire à compléter après désignation officielle du rapporteur"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -78,9 +78,11 @@ Je suis **Jean Hugues Noël Robert**, président de l’association **C.O.R.S.I.
 
 Le 28 mai 2026, après une demande d’audience adressée à M. Florent Boudié et à la commission des lois, un administrateur de la commission a proposé, au nom du président-rapporteur, que C.O.R.S.I.C.A. adresse une **contribution écrite**, en indiquant qu’elle serait mentionnée dans le rapport au même titre que les auditions réalisées. Cette contribution a ensuite été recensée dans le rapport n° 2865 parmi les « Contributions écrites ».
 
-Je souhaite également signaler, par souci de transparence, un élément personnel directement lié à la même séquence institutionnelle. J’ai déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du tribunal administratif de Bastia du **14 septembre**, ce qui m’a empêché de participer au scrutin du 27 septembre. Une **requête en annulation devant le Conseil constitutionnel** est actuellement en cours de finalisation pré-dépôt ; le brouillon courant est la version **0.27**, encore expressément non déposée.
+Je souhaite également signaler, par souci de transparence, un élément personnel directement lié à la même séquence institutionnelle. J’ai déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du tribunal administratif de Bastia du **14 septembre**, ce qui m’a empêché de participer au scrutin du 27 septembre. Une **requête en annulation devant le Conseil constitutionnel** est en cours de finalisation pour dépôt.
 
-Ce contentieux est distinct du présent travail parlementaire et je ne les confonds pas. Je le mentionne parce qu’il fait partie de la chronologie publique du dossier et éclaire la continuité de mon engagement sur l’effectivité des capacités ouvertes par le droit. Le lien public vers la version effectivement gelée et déposée de la requête sera ajouté au présent courrier avant son envoi.
+Ce contentieux est distinct du présent travail parlementaire et je ne les confonds pas. Je le mentionne parce qu’il fait partie de la chronologie publique du dossier et éclaire la continuité de mon engagement sur l’effectivité des capacités ouvertes par le droit. La requête possède désormais une adresse publique stable, indépendante de ses versions successives :
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel.md
 
 Elle procède d’une idée simple : **une faculté juridiquement ouverte ne devient une capacité réelle que si ses conditions de mise en œuvre peuvent elles-mêmes être observées et évaluées.**
 
@@ -149,7 +151,7 @@ F-20250 Corte
 - éventuelles personnes à mettre en copie ;
 - version courante de l’amendement au moment de l’envoi ;
 - calendrier sénatorial à revérifier immédiatement avant envoi ;
-- lien public vers la requête au Conseil constitutionnel, à ajouter uniquement après gel de la version effectivement déposée.
+- vérifier que l’URL stable de la requête au Conseil constitutionnel pointe bien vers l’état effectivement destiné au dépôt.
 
 ## Règle de synchronisation
 
@@ -160,7 +162,7 @@ Avant envoi :
 1. vérifier la désignation du rapporteur sur une source officielle du Sénat ;
 2. vérifier le calendrier du texte n° 782 ;
 3. vérifier que la rédaction citée dans le courriel est identique à la version courante de l’amendement ;
-4. vérifier les liens publics ;
+4. vérifier les liens publics, notamment l’URL stable de la requête au Conseil constitutionnel ;
 5. conserver la version effectivement envoyée et sa date comme trace distincte du présent projet.
 
 ## Sources institutionnelles de calendrier
