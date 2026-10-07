@@ -4,7 +4,8 @@ subtitle: "Parcours public pour comprendre l’Autonomie de Capacité, son conte
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "1.3"
+last_modified_at: "2026-10-07"
+version: "1.4"
 status: "public trail — active"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -14,14 +15,16 @@ document_kind: "trail"
 lifecycle_state: "active"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/trails/une_corse_capable.md"
 related_documents:
+  - title: "Note synthétique — état au 7 octobre 2026"
+    path: "../note_synthetique_autonomie_capacite_corse.md"
   - title: "Autonomia"
     path: "../autonomia.md"
   - title: "Grammaire générative de l’Autonomie de Capacité"
     path: "../autonomia/grammaire_autonomie_de_capacite.md"
   - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
     path: "../autonomia/atlas_paysage_politique_corse.md"
-  - title: "Atlas — addendum septembre 2026"
-    path: "../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
+  - title: "Atlas — addendum octobre 2026"
+    path: "../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
   - title: "Observatoire public du processus d’autonomie de la Corse"
     path: "../autonomia/observatoire_processus_autonomie_corse.md"
   - title: "Amendement d’effectivité — article 72-5"
@@ -35,7 +38,7 @@ provenance:
     - "research/autonomia.md"
     - "research/autonomia/grammaire_autonomie_de_capacite.md"
     - "research/autonomia/atlas_paysage_politique_corse.md"
-    - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
+    - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
     - "research/autonomia/observatoire_processus_autonomie_corse.md"
 review:
   status: "unreviewed"
@@ -44,6 +47,11 @@ update_policy: "UP-DEFAULT-REVIEWED"
 ---
 
 # Trail — Une Corse capable
+
+## État courant du Trail — 7 octobre 2026
+
+La porte d’entrée opérationnelle est désormais la [note synthétique pour examen parlementaire](../note_synthetique_autonomie_capacite_corse.md). La carte politique courante est l’[addendum Atlas d’octobre 2026](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md). L’addendum de septembre reste une photographie historique et ne doit plus être présenté comme l’état actuel de la carte.
+
 
 Ce Trail est un **parcours de lecture public** dans le Corpus. Il ne remplace ni les documents sources ni leur appareil de preuve : il indique dans quel ordre les lire selon la question que l’on veut explorer.
 
