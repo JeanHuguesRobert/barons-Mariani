@@ -57,7 +57,7 @@ La chronologie détaillée est une **annexe de lecture de la requête**, non une
 
 Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 
-## 2. Projet de bordereau P-01 à P-45
+## 2. Projet de bordereau P-01 à P-46
 
 | N° | Date / heure | Intitulé | Portée bornée | Statut de production | Support / source |
 |---|---|---|---|---|---|
@@ -198,6 +198,12 @@ Deux points restent à préserver dans la version de dépôt :
 | **P-46.45** | 2026-10-02 10:40:46 | De JHR → greffe.ta-bastia@juradm.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée] | Re: TR: TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre | Demande ou réponse relative à l’existence de traces de l’audience, au jugement et aux voies de contestation. | `1a0fbc6018fac906` |
 | **P-46.46** | 2026-10-02 13:33:55 | De JHR → adrien.vidal@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr, sp-corte@haute-corse.gouv.fr, marie-francoise.raffalli@haute-corse.gouv.fr, greffe.ta-bastia@juradm.fr, josette.chiaroni@defenseurdesdroits.fr, [adresse privée de Laurence occultée], [adresse privée de Maguy occultée] | Re: Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes | Demande ou réponse relative à la consultation / communication du procès-verbal et des pièces électorales. | `1a0fc64750fe95b6` |
 
+### Rôle de P-46 dans le paquet
+
+**P-46 — registre exhaustif des courriels Préfecture / Tribunal administratif** est un recueil transversal. Il ne remplace pas les pièces P-04 à P-45 auxquelles certains messages appartiennent déjà ; il permet de vérifier qu'aucun échange de la séquence électronique n'a été omis.
+
+P-46 doit être cité comme registre exhaustif de correspondance et non comme une quarante-sixième preuve autonome d'un fait unique. Les sous-pièces conservent leur rattachement fonctionnel aux pièces principales lorsqu'il existe.
+
 ## 4. Pièces à matérialiser en priorité avant dépôt
 
 Priorité pratique :
@@ -272,7 +278,7 @@ Le présent document est donc conçu comme **outil de matérialisation du dossie
 
 - la requête courante devient **v0.23** ;
 - aucun numéro de pièce n'est modifié par cette promotion ;
-- le bordereau reste v0.10 tant que la composition P-01 à P-45 ne change pas matériellement.
+- le fichier historique conserve son nom v0.10, mais sa version interne évolue avec la composition désormais étendue à P-46 ; le paquet final devra être gelé sous une identité explicite.
 
 
 ## UPDATE v0.11 — 7 octobre 2026 — exhaustivité des courriels Préfecture / TA
