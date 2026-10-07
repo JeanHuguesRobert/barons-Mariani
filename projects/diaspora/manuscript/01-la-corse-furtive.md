@@ -143,6 +143,17 @@ personnes / descendants ailleurs
 ```
 
 Dossier source : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
+### Troisième résultat du Probe 3 — Fantauzzi / Fournier-Sarlovèze
+
+La liste des « représentants » donnée par Meurgey en 1933 permet de suivre un rameau Fantauzzi devenu continental sans perdre toute continuité patrimoniale.
+
+Janine Fantauzzi (1917–2002), fille de Jules Fantauzzi, épouse François Fournier-Sarlovèze. Une **SCEA Fantauzzi** est encore active dans l'Oise en 2026 ; sa documentation publique montre une transmission familiale et une gouvernance actuelle par des Fournier-Sarlovèze et Drach.
+
+La filiation exacte entre Janine et les dirigeants contemporains reste à fermer directement par l'acte notarié indexé. Le fait observable est néanmoins fort : **le nom Fantauzzi subsiste dans un outil économique agricole actif hors de Corse, plusieurs générations après la branche citée par Meurgey**.
+
+Ce cas ajoute à la « Corse furtive » une forme de furtivité économique : une capacité issue d'une généalogie corse peut continuer à produire des effets sans être visible comme capacité corse ni porter le patronyme Mariani.
+
+Dossier : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
 ## Méthode : révéler sans inventer
 
 ~~~text
