@@ -27,7 +27,7 @@ related_documents:
   - "research/autonomia/amendement_effectivite_article_72-5.md"
   - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
   - "research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md"
-  - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+  - "research/autonomia/atlas_paysage_politique_corse.md"
   - "research/autonomia/observatoire_processus_autonomie_corse.md"
   - "research/chronologie_processus_beauvau_corse.md"
   - "research/contribution_commission_lois_autonomie_capacite.md"
@@ -224,7 +224,7 @@ Pour un examen rapide, l’ordre de lecture recommandé est :
 2. [courrier public au futur rapporteur](./autonomia/courrier_rapporteur_senat_effectivite_72-5.md) ;
 3. [amendement d’effectivité](./autonomia/amendement_effectivite_article_72-5.md) ;
 4. [note de continuité parlementaire](./autonomia/note_continuite_parlementaire_autonomie_2026-09.md) ;
-5. [Atlas — addendum octobre 2026](./autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) ;
+5. [Atlas consolidé — état au 7 octobre 2026](./autonomia/atlas_paysage_politique_corse.md) ;
 6. [Observatoire public](./autonomia/observatoire_processus_autonomie_corse.md) ;
 7. [Chronologie documentaire du processus de Beauvau](./chronologie_processus_beauvau_corse.md).
 
