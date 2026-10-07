@@ -16,7 +16,7 @@ related:
   - "../requete-conseil-constitutionnel-projet-v0.14.md"
   - "annexe-strategie-recours-remedes-repetition-2026-10-06.md"
   - "../checklist-depot-requete-cc-2026-10-07.md"
-  - "../qpc/qpc-a-candidature-senatoriale-2026.md"
+  - "../qpc/qpc-l299-formalisme-candidature-empechement-remplacant.md"
   - "convergence_scrutin_requete_amendement_qpc_2026-09-29.md"
   - "../../../projects/suicide-corse/suivi.md"
 ---
@@ -172,16 +172,18 @@ Avant toute promotion, une revue juridique spécifique doit répondre à deux qu
 
 Tant que ces questions ne sont pas tranchées, le Corpus conserve l'idée comme **remedial probe**, pas comme prétention juridique acquise.
 
-## 7. QPC : deux pistes, deux objets, pas deux slogans
+## 7. QPC : deux questions nommées par leur objet
 
-La stratégie globale envisage deux pistes de QPC, mais leur existence politique ne suffit pas à leur disponibilité procédurale.
+Deux pistes constitutionnelles distinctes sont conservées dans le contentieux sénatorial.
 
-- **QPC A — candidature / accès effectif** : la voie procédurale directe devant le Conseil constitutionnel est disponible dans le contentieux électoral parlementaire. La difficulté est désormais de viser une disposition législative précise et applicable, dans un mémoire distinct et motivé ; l'article L.299 du code électoral est le premier candidat à tester.
-- **QPC B — autonomie / effectivité** : elle concerne l'effectivité d'un futur régime ou mécanisme législatif relatif à l'autonomie ; elle ne doit pas être artificiellement greffée au contentieux sénatorial si les conditions de l'article 61-1 ne sont pas réunies.
+- **QPC — article L.303 : garanties juridictionnelles, office du juge électoral et séparation des pouvoirs**. Elle porte sur l'architecture d'un jugement rendu dans les trois jours, dont la contestation devant le Conseil constitutionnel n'intervient qu'après l'élection, alors que l'exclusion de la candidature produit avant le scrutin un effet matériel irréversible.
+- **QPC — article L.299 : formalisme de candidature et empêchement fonctionnel du remplaçant**. Elle porte sur la signature et la mention manuscrite exigées du remplaçant lorsqu'un handicap empêche l'accomplissement personnel du geste et que le consentement peut être établi par d'autres garanties.
+
+Ces intitulés remplacent les anciennes lettres A et B, trop abstraites pour un dossier destiné à être lu sans connaître son histoire de fabrication.
 
 Invariant :
 
-> **même problème d'effectivité ≠ même procédure ≠ même norme ≠ même standard de recevabilité.**
+> **même problème d'effectivité ne signifie ni même procédure, ni même norme, ni même standard de recevabilité.**
 
 ## 8. Défenseur des droits : appui institutionnel distinct
 
@@ -213,8 +215,8 @@ Elle transforme l'« escalade » en ce qu'elle est juridiquement :
 |---|---|---|
 | RT-CC-1 | Le Conseil instruit-il réellement l'influence et le refus d'enregistrement ? | décision, mesures d'instruction, motivation |
 | RT-REMEDY-1 | Le Conseil distingue-t-il impossibilité de réparer et choix du remède ? | office exercé / motivation |
-| RT-QPC-A | Une disposition législative précise et une instance admissible existent-elles ? | transmission / non-transmission motivée |
-| RT-QPC-B | Un futur texte relatif à l'autonomie ouvre-t-il effectivement une QPC pertinente ? | texte applicable + litige réel |
+| RT-QPC-L303 | L'article L.303 soulève-t-il une question constitutionnelle sérieuse sur les garanties juridictionnelles de l'exclusion d'une candidature ? | transmission / non-transmission motivée |
+| RT-QPC-L299 | L'article L.299 soulève-t-il une question constitutionnelle sérieuse lorsque le remplaçant est empêché par un handicap d'accomplir personnellement la formalité manuscrite ? | texte applicable + litige réel |
 | RT-CEDH-2026 | Après décision nationale définitive, subsiste-t-il un grief conventionnel recevable ? | requête recevable / irrecevable / arrêt |
 | RT-RECURRENCE | Les épisodes 2017, 2024 et 2026 éclairent-ils un mécanisme récurrent ou seulement des incidents distincts ? | comparaison documentaire contradictoire |
 
@@ -227,9 +229,7 @@ Un rejet de recevabilité européen serait lui-même une **réponse du Réel** s
 > **Le Conseil constitutionnel ferme la voie interne, pas nécessairement toute voie de contrôle. Sa décision n'est susceptible d'aucun recours en France. Strasbourg n'est pas son juge d'appel : c'est, sous conditions, l'étage international où chacune des parties peut ensuite soumettre un grief conventionnel. Entre les deux, les QPC et le Défenseur des droits ont leurs offices propres. Quant aux remèdes, l'article 41 interdit de confondre “ce remède paraît juridiquement inadapté” avec “aucun remède n'existe”.**
 
 
-## 11. Correction procédurale QPC — 6 octobre 2026
-
-La version antérieure était trop restrictive sur la possibilité de poser une QPC directement dans le contentieux électoral parlementaire.
+## 11. QPC dans le contentieux électoral parlementaire
 
 Reality check :
 - décision n° 2023-6281 SEN/QPC du 8 décembre 2023 : QPC posée directement à l'occasion d'un recours contre une élection sénatoriale ;
@@ -252,7 +252,7 @@ vrai verrou
 + nouveauté ou caractère sérieux
 ~~~
 
-Cette correction change la stratégie : **QPC A peut être préparée maintenant comme mémoire distinct accompagnant la requête**, tandis que QPC B reste à l'état de piste tant qu'aucune disposition législative applicable au litige 2026 n'est identifiée.
+Les deux QPC nommées ci-dessus peuvent être préparées comme mémoires distincts si leurs conditions de recevabilité et de sérieux sont suffisamment établies.
 
 
 ## 12. CEDH : fermer le « trou » apparent
