@@ -122,9 +122,9 @@ La requête distingue donc constamment :
 
 Cette discipline sert à la fois le contradictoire immédiat et la conservation fidèle de la trace.
 
-## PREMIER ÉCRAN CONTENTIEUX
+## OBJET ET PORTÉE DE LA REQUÊTE
 
-### ce qu'il faut comprendre
+### objet du litige et demandes soumises au Conseil
 
 Cette page répond à sept questions simples.
 
@@ -173,7 +173,6 @@ Une vue tabulaire strictement équivalente figure dans l'annexe **« Vues tabula
 
 ## UNE REQUÊTE, PLUSIEURS CHEMINS — DÉPÔT REDONDANT ET TRAÇABILITÉ
 
-### Lecture grand public
 
 Une requête ne produit aucun effet si elle reste bloquée au mauvais endroit.
 
@@ -217,7 +216,6 @@ et ce dont le sort reste inconnu.**
 
 Le but est de pouvoir reconstruire après coup ce qui s’est réellement passé, plutôt que de devoir le supposer.
 
-### Lecture expert
 
 L’article 34 de l’ordonnance n° 58-1067 du 7 novembre 1958 prévoit que la requête peut être adressée au secrétariat général du Conseil constitutionnel ou au représentant de l’État.
 
@@ -1043,7 +1041,7 @@ Le requérant soutient que ces éléments imposaient d'examiner si la jurisprude
 
 ---
 
-## IV bis. MATRICE DES SOLUTIONS PRATICABLES AVANT L'ÉCHÉANCE ET DES EXIGENCES EFFECTIVEMENT OPPOSÉES
+## IV bis. SOLUTIONS PRATICABLES AVANT L'ÉCHÉANCE ET EXIGENCES EFFECTIVEMENT OPPOSÉES
 
 ### la question des solutions possibles
 
@@ -1098,7 +1096,7 @@ Cette séquence montre que :
 
 Le grief ne consiste donc pas à soutenir qu'aucune formalité ne pouvait être exigée. Il consiste à demander pourquoi les difficultés centrales de la candidature n'ont pas fait l'objet de la même démarche : identifier précisément l'exigence, rechercher une solution praticable, puis vérifier qu'elle a été accomplie, alors que le candidat était physiquement présent, disponible et disposé à accomplir toute formalité complémentaire réalisable.
 
-### 2. Hypothèse de « fermeture cognitive » — qualification méthodologique, non imputation d'intention
+### 2. Effet possible d'un cadrage initial sur l'examen ultérieur — sans imputation d'intention
 
 Le dossier fait apparaître une hypothèse de travail : la qualification initiale selon laquelle l'absence d'« originaux papier » serait, à elle seule, dirimante a pu rendre progressivement inopérants les autres éléments du dossier.
 
@@ -1578,7 +1576,7 @@ Le requérant demande ainsi au Conseil de se prononcer sur les faits, les garant
 
 Les annexes consacrées à l'architecture des recours et aux remèdes cartographient séparément l'après-décision, les remèdes et les voies parallèles.
 
-Sept invariants sont conservés dans la présente requête :
+Pour préserver la distinction des offices juridictionnels et la portée exacte des demandes, les propositions suivantes doivent être distinguées :
 
 1. **le Conseil constitutionnel est le juge national de l'élection** ;
 2. **sa décision n'est susceptible d'aucun recours interne**, conformément à l'article 62 de la Constitution ; elle s'impose aux pouvoirs publics et aux autorités administratives et juridictionnelles ;
@@ -1594,7 +1592,7 @@ Chacune doit être appréciée pour elle-même au regard de son texte législati
 
 Le Défenseur des droits constitue enfin un canal institutionnel distinct, utile notamment pour documenter l'accessibilité, une discrimination éventuelle ou l'effectivité des recours. Sa saisine ne suspend ni le délai organique du présent recours, ni les délais propres aux QPC ou à une éventuelle requête européenne.
 
-Cette architecture permet d'être offensif sur l'effectivité des droits sans confondre les offices juridictionnels ni transformer une hypothèse exploratoire en prétention acquise.
+Cette articulation permet de soutenir pleinement les griefs d'effectivité tout en respectant la compétence propre de chaque juridiction et la nature de chaque remède.
 
 ---
 
@@ -1675,130 +1673,77 @@ Les conclusions doivent rester ordonnées :
 
 Une demande subsidiaire ne doit pas être confondue avec la demande principale.
 
-Par ces motifs, et sous réserve de tous autres à produire, déduire ou suppléer, le requérant conclut qu'il plaise au Conseil constitutionnel :
+Par ces motifs, au vu des moyens exposés et des pièces annexées à l'exemplaire déposé, le requérant conclut qu'il plaise au Conseil constitutionnel :
 
 1. **DÉCLARER RECEVABLE** la présente requête en contestation d'élection ;
-2. **ORDONNER AVANT-DIRE DROIT**, sur le fondement de l'article 42 de l'ordonnance n° 58-1067 du 7 novembre 1958 :
-   - La production, **s'ils existent et sont encore disponibles**, des journaux ou métadonnées d'acheminement permettant d'établir la réception ou la non-réception du message électronique du 11 septembre 2026 à 17h57:55 ; à défaut, l'indication de leur indisponibilité ;
-   - La communication du procès-verbal général de recensement et de ses annexes disponibles, notamment les quarante (40) bulletins déclarés nuls lorsqu'ils y sont annexés, ainsi que les documents permettant d'établir le décompte des trente-six (36) bulletins blancs ;
-   - Le versement aux débats et le visionnage de l'enregistrement vidéo contemporain du 11 septembre 2026 (Pièce P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre) conservé au registre d'intégrité de la défense ;
-   - La production par le Tribunal administratif de Bastia de la **minute signée du jugement** du 14 septembre 2026 et, s'ils existent, des procès-verbaux, plumitifs, fiches, notes d'audience ou documents équivalents retraçant matériellement l'audience ;
-   - La production de l'historique des pièces postérieures à l'ensemble initial PREF-1 à PREF-16 identifié dans P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
-   - La communication du **fichier électronique natif effectivement déposé dans Télérecours** au titre de la saisine préfectorale P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces, dans son état de dépôt, ainsi que, s'ils existent séparément, du fichier source ayant servi à le générer, des noms originaux des fichiers joints, du procès-verbal numérique/XML contenant leurs empreintes et des accusés de dépôt et d'enregistrement horodatés ;
-   - La communication, si elles existent, des métadonnées et traces permettant de dater séparément la création, la rédaction, la génération, la modification, la validation/signature et la finalisation de la requête préfectorale P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces, distinctement de son enregistrement Télérecours à 18 h 16 ;
-   - La production des éléments permettant d'établir comment la situation de handicap de Mme Vernerey, l'autorisation donnée au candidat et la jurisprudence du Conseil d'État du 14 mai 2021 ont été examinées, tant par l'administration que par la formation de jugement ;
-   - La communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
-3. **JUGER, pour les besoins du contentieux de l'élection**, que le refus d'enregistrement de la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey n'était pas légalement fondé, si le Conseil retient les moyens développés ci-dessus ;
-4. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) PARIGI en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
-5. **TIRER LES CONSÉQUENCES LÉGALES** de cette annulation, l'article LO 322 du code électoral prévoyant qu'il est procédé à une élection partielle dans un délai de trois mois ;
-6. **À TITRE SUBSIDIAIRE ET À DES FINS DE RAISONNEMENT**, examiner l'étendue du pouvoir de réformation prévu par l'article 41 de l'ordonnance du 7 novembre 1958, y compris l'hypothèse d'une proclamation directe du requérant.
+
+2. **EXAMINER LES DEUX QUESTIONS PRIORITAIRES DE CONSTITUTIONNALITÉ** soulevées par mémoires distincts joints à la présente requête :
+   - **QPC — article L.303 du code électoral : garanties juridictionnelles de l'exclusion d'une candidature sénatoriale** ;
+   - **QPC — article L.299 du code électoral : formalisme de candidature et empêchement fonctionnel du remplaçant** ;
+
+3. **ORDONNER AVANT-DIRE DROIT**, sur le fondement de l'article 42 de l'ordonnance n° 58-1067 du 7 novembre 1958, les mesures d'instruction que le Conseil estimera nécessaires, et notamment :
+   - la production, **s'ils existent et sont encore disponibles**, des journaux ou métadonnées d'acheminement permettant d'établir la réception ou la non-réception du message électronique du 11 septembre 2026 à 17 h 57 min 55 s ; à défaut, l'indication de leur indisponibilité ;
+   - la communication du procès-verbal général de recensement et de ses annexes disponibles, notamment les quarante bulletins déclarés nuls lorsqu'ils y sont annexés, ainsi que les documents permettant d'établir le décompte des trente-six bulletins blancs ;
+   - le versement aux débats et le visionnage de **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** ;
+   - la production par le Tribunal administratif de Bastia de la minute signée du jugement du 14 septembre 2026 et, s'ils existent, des procès-verbaux, plumitifs, fiches, notes d'audience ou documents équivalents retraçant matériellement l'audience ;
+   - la production de l'historique des pièces postérieures à l'ensemble initial PREF-1 à PREF-16 identifié dans **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces**, ainsi que l'identification de l'entrée Sagace « Réception d'une lettre » du 14 septembre ;
+   - la communication du fichier électronique natif effectivement déposé dans Télérecours au titre de **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces**, dans son état de dépôt, ainsi que, s'ils existent séparément, du fichier source ayant servi à le générer, des noms originaux des fichiers joints, du procès-verbal numérique ou XML contenant leurs empreintes et des accusés de dépôt et d'enregistrement horodatés ;
+   - la communication, si elles existent, des métadonnées et traces permettant de dater séparément la création, la rédaction, la génération, la modification, la validation ou signature et la finalisation de la requête préfectorale, distinctement de son enregistrement Télérecours à 18 h 16 ;
+   - la production des éléments permettant d'établir comment la situation de handicap de Mme Vernerey, l'autorisation donnée au candidat et la jurisprudence du Conseil d'État du 14 mai 2021 ont été examinées, tant par l'administration que par la formation de jugement ;
+   - la communication, s'ils existent et sont accessibles au Conseil, des documents retraçant matériellement l'audience et permettant d'identifier le greffier d'audience ;
+
+4. **JUGER, pour les besoins du contentieux de l'élection**, que le refus d'enregistrement de la déclaration de candidature de M. Jean Hugues Noël Robert et de Mme Laurence Vernerey n'était pas légalement fondé, si le Conseil retient les moyens développés dans la présente requête ;
+
+5. **ANNULER L'ÉLECTION** de M. Paulu Santu (Paul-Toussaint) Parigi en qualité de sénateur de la Haute-Corse, proclamée le 27 septembre 2026 ;
+
+6. **TIRER LES CONSÉQUENCES LÉGALES** de cette annulation, notamment celles résultant de l'article LO 322 du code électoral relatif à l'élection partielle ;
+
+7. **À TITRE SUBSIDIAIRE ET À DES FINS DE RAISONNEMENT**, examiner l'étendue du pouvoir de réformation prévu par l'article 41 de l'ordonnance du 7 novembre 1958, y compris l'hypothèse d'une proclamation directe du requérant.
 
 L'article 41 rend juridiquement possible, dans son champ propre, la réformation d'une proclamation et la proclamation du candidat qui a été régulièrement élu. Le requérant ne soutient pas que cette condition soit satisfaite ici : n'ayant pas participé au scrutin, il ne prétend pas avoir recueilli des suffrages valides permettant de le regarder comme régulièrement élu.
 
-Cette conclusion subsidiaire est donc une expérience de pensée juridique, non l'affirmation d'un droit acquis au mandat. Elle demande au Conseil de distinguer explicitement trois propositions qui ne se confondent pas : l'existence abstraite d'un pouvoir de réformation ; son applicabilité aux faits de la présente affaire ; et l'existence d'autres remèdes lorsque cette application particulière est impossible.
+Cette conclusion subsidiaire est une expérience de pensée juridique, non l'affirmation d'un droit acquis au mandat. Elle invite le Conseil à distinguer l'existence abstraite du pouvoir de réformation, son applicabilité aux faits de la présente affaire et l'existence d'autres remèdes lorsque cette application particulière est impossible.
 
-Si le Conseil estime qu'une proclamation directe est juridiquement impossible dans cette affaire, cette limite pourra être clairement identifiée. Elle restera distincte du pouvoir d'annuler l'élection et des conséquences légales d'une annulation.
-7. **EXAMINER LES DEUX QUESTIONS PRIORITAIRES DE CONSTITUTIONNALITÉ** soulevées par mémoires distincts joints à la présente requête, l'une relative à l'article L.303 du code électoral et aux garanties juridictionnelles de l'exclusion d'une candidature, l'autre relative à l'article L.299 du code électoral et au formalisme applicable au remplaçant empêché par un handicap ;
-8. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu du calendrier officiel du Sénat rappelé au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
+Si le Conseil estime qu'une proclamation directe est juridiquement impossible dans cette affaire, cette limite restera distincte du pouvoir d'annuler l'élection et des conséquences légales d'une annulation ;
 
----
-
-## VIII. BORDEREAU DE PIÈCES ET MATÉRIALISATION DU DOSSIER
-
-### comment vérifier le dossier
-
-Une affirmation importante doit conduire à une pièce précise.
-
-Une pièce doit pouvoir être retrouvée sans connaître GitHub ou les conversations préparatoires.
-
-Le bordereau fonctionne donc comme la **table des matières des preuves**.
-
-La règle est simple : pas de preuve fantôme. Pas de pièce orpheline.
-
-Chaque P-xx doit permettre d'identifier :
-- nature ;
-- date ;
-- provenance ;
-- fichier exact ;
-- rôle probatoire ;
-- transformation éventuelle ;
-- empreinte cryptographique (SHA-256) ;
-- occultation ;
-- présence effective dans le paquet.
-
-L'annexe chronologique et l'annexe documentation sont des aides de lecture.
-
-Elles ne remplacent pas les sources primaires.
-
-Le **bordereau procédural autonome** joint à la requête est :
-
-le **bordereau de pièces de la requête**
-
-Il doit être lu comme un **projet de bordereau de production**, non comme la preuve que toutes les pièces qui y sont recensées ont déjà été déposées au Conseil constitutionnel.
-
-Cette séparation est volontaire :
-
-- le **bordereau** identifie les pièces candidates à la production et leur état de matérialisation ;
-- l'**inventaire probatoire** conserve un champ plus large, incluant contexte, traces privées, éléments à occulter et objets qui peuvent rester en réserve ;
-- la **requête** ne doit présenter comme « pièce produite » qu'un document effectivement joint ou remis selon le canal de saisine retenu.
-
-Au regard de l'article 35 de l'ordonnance n° 58-1067, les pièces produites au soutien des moyens doivent être annexées à la requête ; le Conseil peut exceptionnellement accorder un délai pour une partie d'entre elles. La requête privilégie donc un dossier initial autonome et lisible, sans faire dépendre la compréhension du Conseil d'un lien GitHub ou d'une ressource web.
-
-### Sous-inventaire P-14 — ensemble initial de fichiers de la saisine préfectorale
-
-P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces est une boîte contenant plusieurs documents.
-
-Pour éviter qu'une boîte cache son contenu, chaque document interne est identifié.
-
-Le sous-inventaire sert à contrôler la composition exacte de l'ensemble de fichiers et ses limites temporelles.
-
-Il ne permet pas d'inférer qu'aucune transmission ultérieure n'a existé.
-
-Le bordereau autonome reprend également le sous-inventaire **PREF-1 à PREF-16** décrit par la requête préfectorale, afin de distinguer :
-
-1. ce que la préfecture a elle-même indiqué avoir joint à sa saisine initiale ;
-2. les pièces P-11 — courriel préfectoral de 16 h 14 accusant réception des documents et P-12 — courriel de 17 h 57 min 55 s contenant le lien vers la vidéo, absentes de cet inventaire initial ;
-3. les éventuelles productions complémentaires, qui restent à établir lorsqu'aucune trace certaine n'est disponible.
-
-### Contrôle matériel avant dépôt
-
-Une bonne requête qui oublie une pièce dans le dossier remis reste un mauvais dépôt.
-
-Avant remise, il faut donc vérifier physiquement chaque élément.
-
-Le contrôle porte sur présence, pagination, lisibilité, concordance du bordereau, occultations, empreintes cryptographiques et identité entre exemplaires redondants.
-
-Avant saisine, vérifier pour chaque ligne du bordereau :
-
-- existence du fichier ou de l'original ;
-- lisibilité et pagination ;
-- concordance entre le numéro P-xx cité dans la requête et le document réellement joint ;
-- nécessité d'une occultation de données personnelles ;
-- présence, lorsque probatoirement utile, de la version native ou des métadonnées pertinentes ;
-- absence de toute pièce simplement « disponible dans le Corpus » mais non effectivement annexée.
-
-### Annexe chronologique incorporée au paquet
-
-La chronologie sert de fil conducteur.
-
-Le lecteur peut suivre les événements sans devoir reconstruire l'ordre à partir de dizaines de pièces.
-
-L'annexe est un outil de lecture.
-
-Elle n'est pas une preuve autonome.
-
-Chaque entrée matérielle doit renvoyer à une source identifiable et conserver son statut probatoire.
-
-Le paquet de dépôt doit comprendre, sous une forme figée et lisible, l'annexe :
-
-l'**annexe chronologique détaillée**
-
-Cette annexe suit la séquence depuis le premier courriel adressé à la préfecture le **10 septembre 2026 à 17 h 01 min 56 s** jusqu'au dépôt effectif.
-
-Cette annexe ne constitue pas une preuve autonome et ne remplace aucune pièce source.
+8. **STATUER DANS LES MEILLEURS DÉLAIS COMPATIBLES AVEC UNE INSTRUCTION EFFECTIVE**, compte tenu de la temporalité exposée au titre VI, sans qu'il soit soutenu qu'une procédure d'urgence autonome serait ouverte par les textes.
 
 ---
 
-## IX. ÉTAT DU DOSSIER AU MOMENT DE LA SIGNATURE
+## VIII. PIÈCES ET ANNEXES PRODUITES
 
-La présente requête est destinée au dépôt. La signature et la remise ne valent que pour l'exemplaire effectivement figé avec son bordereau et ses pièces. La preuve de dépôt — date, heure, canal et récépissé ou accusé — sera conservée séparément sans réécrire rétroactivement le présent texte.
+### fonction du bordereau et des annexes
+
+Les moyens de la présente requête sont soutenus par un bordereau numéroté permettant d'identifier chaque pièce par sa nature, sa date, sa provenance et sa fonction probatoire.
+
+Les pièces primaires demeurent la source des faits allégués. Les annexes de synthèse ne s'y substituent pas : elles organisent la lecture d'un dossier volumineux et rendent explicites les distinctions nécessaires entre fait établi, fait rapporté, inférence et question demeurée non résolue.
+
+Le bordereau joint à l'exemplaire déposé identifie notamment :
+
+- **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces**, avec son sous-inventaire PREF-1 à PREF-16 ;
+- les éléments contemporains de la candidature et du consentement de Mme Vernerey, notamment **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre**, **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** et **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** ;
+- les productions et traces du contentieux devant le Tribunal administratif, notamment **P-16 — mémoire en défense devant le Tribunal administratif**, **P-17 — note manuscrite recto-verso remise à l'audience**, **P-18 — attestation CAF relative à Mme Vernerey**, **P-19 — note en délibéré du 14 septembre** et **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** ;
+- les demandes ultérieures de traçabilité et de communication, notamment **P-29 — demande du 16 septembre au Tribunal administratif sur la liste des pièces**, **P-34 — courriel consolidé du 1er octobre à la préfecture**, **P-35 — demandes P1–P18 de traçabilité adressées à la préfecture le 2 octobre** et **P-45 — demandes et relances sur les modalités pratiques de remise du recours** ;
+- les éléments relatifs au scrutin et à son incidence, notamment **P-27 — résultats officiels du scrutin du 27 septembre**, **P-39 — constat de consultation des pièces électorales du 1er octobre** et **P-40 — bulletin nul imprimé « BARON MARIANI » et enveloppe**.
+
+Le sous-inventaire PREF-1 à PREF-16 de **P-14 — requêtes préfectorales au Tribunal administratif et inventaire initial des pièces** distingue ce que la préfecture a elle-même indiqué avoir joint à sa saisine initiale des éléments reçus ou invoqués par ailleurs. En particulier, **P-11 — courriel préfectoral de 16 h 14 accusant réception des documents** et **P-12 — courriel de 17 h 57 min 55 s contenant le lien vers la vidéo** n'apparaissent pas dans cet inventaire initial. Cette absence ne permet pas, à elle seule, d'affirmer qu'aucune production complémentaire n'est intervenue.
+
+Sont également jointes, dans la mesure où elles figurent au paquet effectivement déposé, des annexes de lecture qui n'ajoutent aucun fait autonome aux pièces primaires :
+
+- l'**annexe chronologique détaillée**, qui ordonne les événements et indique leur statut probatoire ;
+- l'**annexe de vues tabellaires**, qui présente de manière redondante certains enchaînements factuels et juridiques ;
+- l'**annexe documentaire**, qui explicite les notions d'effectivité, de traçabilité et de remède ;
+- l'**annexe stratégique sur les recours et les remèdes**, qui distingue les offices du Conseil constitutionnel, des QPC et d'une éventuelle saisine européenne ;
+- l'**analyse contrefactuelle de l'incidence d'une troisième offre électorale**, qui borne arithmétiquement l'hypothèse sans attribuer de vote individuel ni prétendre reconstruire un scrutin qui n'a pas eu lieu.
+
+La présente requête doit pouvoir être comprise sans accès à GitHub ni aux conversations préparatoires. Les références publiques éventuellement fournies à titre de vérification supplémentaire ne remplacent donc jamais les pièces et annexes effectivement remises au Conseil.
+
+---
+
+## IX. SIGNATURE
+
+Fait à Corte, le 7 octobre 2026.
+
+**Jean Hugues Noël Robert**
+
+Requérant
