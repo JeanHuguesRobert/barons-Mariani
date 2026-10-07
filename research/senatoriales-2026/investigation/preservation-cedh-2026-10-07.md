@@ -159,6 +159,16 @@ La future stratégie CEDH ne doit donc pas reposer sur l'article 6 pour critique
 
 Les questions procédurales doivent être formulées principalement sous l'article 3 du Protocole n° 1 et, lorsque les conditions sont réunies, sous l'article 13.
 
+### 2.5 Fenêtre préélectorale et caractère utile du recours
+
+Le grief conventionnel relatif à l'effectivité du recours doit conserver un fait temporel précis : le jugement du Tribunal administratif est intervenu le **14 septembre 2026** et le scrutin a eu lieu le **27 septembre 2026**.
+
+Pendant ces **treize jours**, l'exclusion n'avait pas encore produit son effet électoral irréversible.
+
+Pour une éventuelle requête à Strasbourg, ce fait peut être pertinent pour apprécier non seulement l'existence abstraite d'un recours, mais sa capacité à prévenir ou redresser l'atteinte **en temps utile**.
+
+Il faudra cependant conserver la jurisprudence européenne dans les deux sens : un recours post-électoral peut, selon les circonstances, être effectif s'il permet un redressement réel. Le grief devra donc démontrer concrètement pourquoi le remède national disponible après le scrutin n'aurait pas réparé de manière équivalente la perte du droit de participer au scrutin initial.
+
 ## 3. Conditions à préserver dans la requête au Conseil constitutionnel
 
 La requête nationale doit rendre identifiables les propositions suivantes :
