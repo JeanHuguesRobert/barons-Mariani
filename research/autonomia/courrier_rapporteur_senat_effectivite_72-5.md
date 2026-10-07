@@ -114,10 +114,10 @@ Je reste naturellement disponible pour toute précision utile avant l’examen d
 
 Bien cordialement,
 
-**Jean Hugues Noël Robert**  
-Président de l’association C.O.R.S.I.C.A.  
-Institut Mariani  
-1 cours Paoli  
+**Jean Hugues Noël Robert**<br>
+Président de l’association C.O.R.S.I.C.A.<br>
+Institut Mariani<br>
+1 cours Paoli<br>
 F-20250 Corte
 
 ---
