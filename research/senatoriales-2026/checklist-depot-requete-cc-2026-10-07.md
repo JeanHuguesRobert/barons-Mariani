@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.17"
+version: "0.18"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -13,7 +13,7 @@ visibility: "public"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
 related:
-  - "requete-conseil-constitutionnel-projet-v0.19.md"
+  - "requete-conseil-constitutionnel-projet-v0.20.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.10.md"
   - "investigation/architecture-recours-cc-cedh-remedes-2026-10-05.md"
   - "qpc/qpc-a-candidature-senatoriale-2026.md"
@@ -25,7 +25,7 @@ related:
   - "matrice-canaux-materiels-depot-2026-10-07.md"
   - "note-depot-dematerialise-requete-cc-2026-10-07.md"
   - "investigation/annexe-documentation-double-lecture-2026-10-07.md"
-  - "../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md"
+  - "../reviews/audit-double-lecture-requete-v0.20-2026-10-07.md"
   - "filing-package-manifest-2026-10-07.md"
   - "fiche-remise-requete-cc-2026-10-07.md"
   - "../reviews/review_internal_requete_cc_motifs_rejet_2026-10-06.md"
@@ -211,11 +211,13 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Intelligibilité expert — niveau juriste junior** — écrire pour un juriste compétent qui ne connaît ni le dossier ni toutes les spécialités mobilisées. Être didactique : rappeler la règle, son rang, sa fonction, la jurisprudence utile, le fait auquel elle s’applique, le meilleur contre-argument et la conséquence. Un lecteur expert doit pouvoir apprendre quelque chose sans avoir à reconstruire les prémisses.
 - [ ] **Principe de Talleyrand — expliciter ce qui “va sans dire”** — toute prémisse utile, tout lien causal, toute distinction de régime, toute limitation et toute conséquence doivent être écrits. Interdire les sous-entendus décisifs, les pronoms ambigus, les « donc » non démontrés, les références floues (« cela », « cette pièce », « ce point ») et les transitions qui obligent le lecteur à deviner le raisonnement. **Ce qui va sans dire va encore mieux en le disant.**
 - [ ] **Test anti-malentendu** — pour chaque grande section, demander : « quelles sont les trois mauvaises interprétations les plus faciles ? ». Ajouter une phrase explicite qui les empêche si elles sont plausibles.
-- [ ] **Double lecture grand public / expert — MUST ABSOLU** — chaque grande section de la requête doit proposer deux niveaux cohérents : **GP** (explication complète en langage courant, contexte, finalité, moyens, intentions alléguées seulement si prouvées, chronologie) et **EXPERT** (règle, source, jurisprudence, pièce, qualification, objection adverse, conséquence). Les deux formulations doivent exprimer le même claim et les mêmes réserves. Audit courant : `../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md` = **non satisfait / bloquant**.
+- [ ] **Double lecture grand public / expert — MUST ABSOLU** — chaque grande section de la requête doit proposer deux niveaux cohérents : **GP** (explication complète en langage courant, contexte, finalité, moyens, intentions alléguées seulement si prouvées, chronologie) et **EXPERT** (règle, source, jurisprudence, pièce, qualification, objection adverse, conséquence). Les deux formulations doivent exprimer le même claim et les mêmes réserves. Audit courant : `../reviews/audit-double-lecture-requete-v0.20-2026-10-07.md` = **structure PASS ; micro-style et placement final du control plane encore OPEN**.
 - [ ] **Documentation annexée** — joindre `investigation/annexe-documentation-double-lecture-2026-10-07.md` comme couche pédagogique : glossaire, acteurs, carte de procédure, chronologie, explication L.298/L.299/L.303, article 34, preuve électronique, statuts probatoires, guide du bordereau, tableaux question→trace→réponse→UNKNOWN et solutions praticables.
 - [ ] **Complétude initiale maximale raisonnable** — privilégier un dossier initial aussi complet que possible, même long, dès lors que la longueur sert la compréhension, la preuve ou la préservation d’un grief. Raison juridique : les griefs nouveaux après le délai de l’article 33 peuvent être irrecevables ; l’article 35 ne prévoit qu’une faculté exceptionnelle de compléter certaines pièces. La longueur doit être structurée pour ne pas masquer le noyau contentieux.
 - [ ] **Narration juridiquement contrôlée** — la requête doit expliquer non seulement « quoi », mais aussi le contexte, la finalité recherchée, les moyens employés, les contraintes et les réponses institutionnelles. Toute intention attribuée à un tiers doit être sourcée ou reformulée en fait observable / hypothèse.
-- [ ] **Audit double lecture section par section** — fermer toutes les lignes de l’audit v0.19 : Premier écran, recevabilité, résumé, chronologie, formalités, solutions praticables, griefs 1–5, temporalité, conclusions, bordereau/matérialisation. Ne pas considérer une introduction générale comme suffisante.
+- [ ] **Passe micro-style phrase par phrase** — sur le texte hérité des versions antérieures, couper les phrases trop longues, supprimer les enchâssements inutiles, vérifier les antécédents de « cela / ceci / ce point / cette pièce », expliquer les acronymes à la première occurrence et fermer les « donc » dont la prémisse n'est pas écrite. Ne modifier aucun fait ni niveau de certitude.
+- [ ] **Placement final du control plane** — décider avant gel si la section IX reste dans le corps ou passe en annexe documentaire. Critère : elle doit aider l'audit sans distraire du noyau contentieux.
+- [ ] **Audit double lecture section par section** — fermer toutes les lignes de l’audit v0.20 : Premier écran, recevabilité, résumé, chronologie, formalités, solutions praticables, griefs 1–5, temporalité, conclusions, bordereau/matérialisation. Ne pas considérer une introduction générale comme suffisante.
 - [ ] **Mode d'emploi de constitution de la requête** — appliquer avant toute promotion de version le protocole `protocole-constitution-requete-cc-2026-10-07.md` : synchroniser requête, chronologie, bordereau, inventaire, Gmail, sources juridiques, contradictions et revue « motifs de rejet ». Aucun de ces objets ne doit diverger silencieusement.
 - [ ] **Annexe chronologique détaillée** — joindre au paquet la chronologie `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`, ordonnée jour par jour puis heure croissante, du premier courriel à la préfecture du **10 septembre à 17:01:56** jusqu'au dépôt effectif ; chaque acte matériel doit pointer vers sa pièce ou sa source et chaque UNKNOWN doit rester explicite.
 - [ ] **Audit Gmail exhaustif avant gel** — exécuter puis fermer le registre `investigation/gmail-audit-requete-2026-09-10-2026-10-07.md`. Toute trace potentiellement pertinente doit recevoir une disposition **INCLUDE / RÉSERVE / EXCLURE + motif / REVIEW** ; tout INCLUDE doit être mappé à une pièce ou à une annexe. Rechercher envoyés et reçus, par domaines/adresses, dates, fils et mots-clefs ; ne pas se limiter aux objets déjà connus.
@@ -224,8 +226,8 @@ Le protocole complet est `protocole-constitution-requete-cc-2026-10-07.md`.
 - [ ] **Chronologie ↔ bordereau ↔ requête** — avant gel, contrôler automatiquement/manuellement qu'aucun fait important cité dans la requête n'est absent de la chronologie, qu'aucune pièce importante n'est orpheline de fait, et qu'aucun événement chronologique important n'est dépourvu de source identifiable.
 
 - [x] **Délai** — échéance légale vérifiée : **7 octobre 2026 à 18 h** (art. 33 de l’ordonnance du 7 novembre 1958).
-- [~] **Version canonique de dépôt** — la v0.19 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
-- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.19.
+- [~] **Version canonique de dépôt** — la v0.20 est le brouillon courant ; la version réellement déposée devra être explicitement figée et tracée au moment du dépôt.
+- [x] **Premier écran contentieux** — juridiction, requérant, qualité pour agir, élection contestée, décision initiale, délai, griefs et conclusions sont explicités dans la v0.20.
 - [x] **Forclusion des griefs nouveaux** — point load-bearing : tous les moyens matériels doivent être contenus en substance dans la requête initiale. Décision n° 2024-6345/6354/6370 AN/QPC : un grief présenté pour la première fois après le délai de l’article 33 est irrecevable.
 - [x] **Article 35 : pièces, pas réserve générale de moyens** — le Conseil peut exceptionnellement accorder un délai pour une partie des pièces ; ne pas compter sur cette faculté pour créer un grief nouveau après 18 h.
 - [~] **Canal de dépôt — article 34** — règle juridique vérifiée : requête écrite au secrétariat général du Conseil constitutionnel ou au représentant de l’État. La matrice `matrice-canaux-materiels-depot-2026-10-07.md` distingue désormais destinataire juridique, modalité matérielle, preuve et risque. L’acte matériel de remise reste à accomplir. Ne pas compter sur un simple courriel du requérant comme canal acquis.
