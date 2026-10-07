@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.45"
+version: "0.46"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -860,6 +860,25 @@ La requête et le mémoire QPC L.299 doivent distinguer :
 Ne pas affirmer sans vérification qu'elle a qualité autonome pour agir devant le Conseil constitutionnel. En revanche, exposer dès maintenant la substance de son grief : engagement dans la candidature, consentement, handicap, empêchement fonctionnel, demande faite au tiers, absence alléguée d'aménagement et effet d'exclusion.
 
 Objectif de subsidiarité : permettre aux juridictions nationales d'examiner cette difficulté avant toute éventuelle saisine personnelle de la CEDH par Mme Vernerey.
+
+
+### Généralité des QPC et expérience de pensée sur les remèdes
+
+Une QPC est déclenchée par un litige concret mais porte sur une disposition législative générale. Ne jamais réduire :
+- la QPC L.299 à Mme Laurence Vernerey ;
+- la QPC L.303 à M. Jean Hugues Noël Robert, à Mme Vernerey ou à M. Parigi.
+
+Les faits individuels établissent l'applicabilité et le caractère concret de la question ; la formulation constitutionnelle doit être capable de gouverner toute situation juridiquement comparable.
+
+Séparément, conserver dans la requête l'hypothèse de proclamation directe au titre de l'article 41 comme **expérience de pensée à des fins de raisonnement** sur l'étendue des pouvoirs réparateurs.
+
+Règle de qualification :
+- l'article 41 établit réellement que le Conseil peut, dans les cas où ses conditions sont réunies, réformer une proclamation et proclamer le candidat régulièrement élu ;
+- ne pas en déduire que Jean Hugues Noël Robert remplit cette condition dans le présent scrutin ;
+- expliciter que l'intérêt de la demande subsidiaire est de distinguer existence abstraite du pouvoir, applicabilité au cas d'espèce et autres remèdes disponibles ;
+- intégrer symétriquement les conséquences qu'un remède pourrait produire pour le sénateur actuellement proclamé élu.
+
+Ne pas supprimer cette fonction sous prétexte qu'elle est atypique : elle fait partie du raisonnement sur l'effectivité et sur les limites du remède.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
