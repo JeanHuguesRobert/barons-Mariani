@@ -229,3 +229,16 @@ Il faudra donc montrer que l'annulation postérieure ne restaure pas la même ca
 **Piste sérieuse, mais non acquise.**
 
 Sa force dépend de la démonstration que l'atteinte irréversible au droit d'éligibilité ne peut être réparée de façon équivalente par l'annulation postérieure du scrutin. Le mémoire devra éviter toute présentation fondée sur un prétendu droit constitutionnel à l'appel.
+
+
+## Portée générale de la question constitutionnelle
+
+La QPC relative à l'article L.303 ne se réduit ni à la candidature Robert–Vernerey ni à l'élection de M. Parigi.
+
+Le présent litige établit l'applicabilité de la disposition et rend visible son mécanisme. La question constitutionnelle est générale :
+
+> **lorsqu'une candidature sénatoriale est exclue avant le scrutin par une décision rendue dans le régime de l'article L.303, les garanties organisées par la loi sont-elles suffisantes pour assurer un recours juridictionnel effectif alors que le contrôle du Conseil constitutionnel n'intervient qu'après l'élection et que l'exclusion a déjà produit son effet électoral ?**
+
+La réponse doit valoir pour toute candidature placée sous le même régime procédural.
+
+Les identités du requérant, de sa remplaçante et du sénateur proclamé élu sont nécessaires au contentieux électoral concret ; elles ne définissent pas la portée de la norme constitutionnelle demandée.
