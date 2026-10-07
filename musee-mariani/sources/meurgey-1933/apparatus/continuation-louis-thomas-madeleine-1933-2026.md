@@ -186,3 +186,26 @@ La question « les descendants existent-ils encore ? » reçoit déjà une répo
 5. autres enfants Terlinden de Madeleine Hainguerlot ;
 6. recherche d'un lien matériel, patrimonial ou résidentiel contemporain avec la Corse ;
 7. comparaison avec les annotations manuscrites portées sur l'exemplaire de Meurgey.
+
+## 9. Contrôle territorial ciblé — 2026-10-07
+
+Une recherche publique ciblée a été menée sur les combinaisons `Girot de Langlade + Corse`, `Hainguerlot + Corse`, `Terlinden + Corse`, `Antoine Compagnon + Corse` et `d’Adhémar de Lantagnac + Corse`.
+
+Résultat : **aucun ancrage contemporain corse suffisamment probant n'a été identifié dans cette première passe**.
+
+Ce résultat doit rester qualifié comme une absence de preuve dans le périmètre recherché, et non comme preuve d'absence de tout lien privé, mémoriel, patrimonial ou occasionnel avec la Corse.
+
+En revanche, les sources publiques situent nettement les centres de gravité historiques des branches suivies ailleurs :
+
+- Girot de Langlade : Auvergne / Issoire / Meilhaud ;
+- Hainguerlot : France continentale, notamment Île-de-France et autres implantations ;
+- Terlinden : Belgique, puis ramifications internationales ;
+- Compagnon : France avec trajectoires internationales.
+
+Sources de cadrage :
+- https://fr.wikipedia.org/wiki/Famille_Girot_de_Langlade
+- https://fr.wikipedia.org/wiki/Famille_Hainguerlot
+- https://fr.wikipedia.org/wiki/Famille_Terlinden
+- https://www.kering.com/fr/actualites/kering-est-fier-d-avoir-reuni-boucheron-et-balenciaga-pour-la-reception-a-l-academie-francaise-d-antoine-compagnon/
+
+Qualification territoriale provisoire de cette branche : **partie puis largement désancrée de Corse au sens matériel observable**, avec `corsican_link_current = UNKNOWN` plutôt que `none`.
