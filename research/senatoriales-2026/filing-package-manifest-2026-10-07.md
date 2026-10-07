@@ -22,14 +22,26 @@ related:
 | Requête | v0.19 | texte source prêt pour gel ; non déposé |
 | Bordereau | v0.10 | cohérent P-01 à P-45 ; non déposé |
 | Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
+| Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
 | Inventaire probatoire | v1.6 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.15 | outil interne ; ne pas annexer par défaut |
+| Checklist | v0.16 | outil interne ; ne pas annexer par défaut |
 
 ## 1 bis. Annexe chronologique obligatoire
 
 Le paquet doit comprendre `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md` sous une représentation figée et lisible.
 
 Cette annexe doit être gelée **au même instant logique** que la requête et le bordereau. Toute évolution postérieure reste dans le Corpus mais ne doit pas être confondue avec la chronologie effectivement remise.
+
+## 1 ter. Documentation grand public / experts
+
+Le paquet comprend également :
+`investigation/annexe-documentation-double-lecture-2026-10-07.md`.
+
+Cette annexe n'est pas une preuve primaire P-xx. Elle explique le dossier selon deux niveaux cohérents :
+- grand public : narration, contexte, concepts, finalités et enchaînement des actes ;
+- experts : compression référencée, textes, jurisprudence, pièces et qualifications.
+
+L'audit `../reviews/audit-double-lecture-requete-v0.19-2026-10-07.md` reste **bloquant** : la v0.19 n'applique pas encore ce double niveau uniformément dans toutes ses grandes sections.
 
 ## 2. Production A proposée
 
@@ -89,6 +101,22 @@ La requête doit distinguer :
 - document non communiqué ;
 - absence de réponse retrouvée ;
 - absence de document prouvée, qui est une proposition plus forte et ne doit pas être inférée sans source.
+
+## 4 bis. Paquet électronique canonique
+
+Voir `note-depot-dematerialise-requete-cc-2026-10-07.md`.
+
+Le paquet numérique gelé doit permettre de reconstruire exactement le data plane remis :
+- fichiers PDF ;
+- natifs utiles ;
+- manifeste ;
+- SHA-256 ;
+- empreinte de l'archive globale ;
+- date/heure de gel ;
+- copie EML/MIME des envois électroniques ;
+- AR/AE/DSN reçus.
+
+Le paquet papier et le paquet électronique doivent correspondre au même état logique de la requête.
 
 ## 5. Contrôle final obligatoire
 
