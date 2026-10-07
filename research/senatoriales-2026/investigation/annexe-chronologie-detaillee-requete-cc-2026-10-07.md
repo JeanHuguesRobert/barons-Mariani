@@ -2,7 +2,7 @@
 title: "Annexe — chronologie probatoire détaillée — requête sénatoriale Haute-Corse 2026"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.2"
+version: "0.3"
 status: "active — evolving until filing"
 language: "fr"
 document_role: "legal-annex"
@@ -32,6 +32,7 @@ La chronologie ne remplace aucune pièce primaire.
 | ~17:04:35 | Troisième DSN d'échec | P-04 / DSN natif | ÉTABLI | Même motif technique. |
 | 17:54:50 | Retransmission allégée après rejet du premier envoi | P-04 — Gmail 1a08c07a7fbb141b | ÉTABLI | Reconstitue la transmission technique. |
 | 17:56:53 | Accusé automatique du Bureau des élections | P-05 — Gmail 1a08c0953c1f9ff2 | ÉTABLI | Réception électronique de la retransmission. |
+| 12:38:31 CEST | **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** | Gmail 1a08ae5f35fd72f0 ; en-tête 10:38:31 UTC | ÉTABLI | Autorisation expresse d'utiliser sa signature sur le CERFA ; consentement à l'intervention matérielle du tiers. |
 | 20:05:04 | Réponse du Bureau des élections, notamment sur les originaux CERFA | P-06 — Gmail 1a08c7eb62cc13ec | ÉTABLI | Établit au moins une demande écrite d'originaux avant déplacement. |
 
 ## 11 septembre 2026
@@ -40,8 +41,7 @@ La chronologie ne remplace aucune pièce primaire.
 |---|---|---|---|---|
 | 08:14:11 | Réponse du candidat annonçant son déplacement vers Bastia | P-07 — Gmail 1a08f1a2d612bb08 | ÉTABLI | Horaire prévu distinct du trajet exécuté. |
 | 08:42:59 | Réponse de Laurence : « Parfait » | Gmail 1a08f34a4c98db4a | ÉTABLI | Connaissance contemporaine du déplacement. |
-| heure à relever | **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** déjà disponible au dossier du candidat | Gmail 1a08ae5f35fd72f0 | ÉTABLI | Autorisation expresse d'utiliser sa signature sur le CERFA ; consentement à l'intervention matérielle du tiers. |
-| heure à relever | **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** | Gmail 1a0914a4db8cf48b | ÉTABLI | Désignation expresse de M. Robert comme porte-parole de la campagne. |
+| 18:25:49 CEST | **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** | Gmail 1a0914a4db8cf48b ; en-tête 16:25:49 UTC | ÉTABLI | Désignation expresse de M. Robert comme porte-parole ; postérieure à la clôture de 18 h, cette pièce établit la continuité de volonté/représentation, non une formalité accomplie avant l'échéance. |
 | 09:45 | Départ ferroviaire prévu depuis Corte | horaire CFC | PLAN | Le candidat ne monte finalement pas à Corte. |
 | 10:29 | Départ effectif enregistré de Corte | Google Timeline | ÉTABLI | — |
 | après 10:29 | Stop près de L'Oriente puis trajet automobile vers une gare proche de Bastia | témoignage + traces | RAPPORTÉ | — |
@@ -198,7 +198,7 @@ Cette observation ne signifie pas qu'un recours préélectoral devant le Conseil
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
 | 09:50:16 | Complément demande PV et annexes | P-26 — Gmail 1a0e6fe59ed9e8f1 | ÉTABLI | — |
-| 11:31:35 | Demande directe à la Sous-préfecture de Corte sur la réception de la requête CC | P-45.b — Gmail 1a0e7c8da5ef2262 | ÉTABLI | Fil d'un seul message ; aucune réponse retrouvée. |
+| 13:31:35 CEST | Demande directe à la Sous-préfecture de Corte sur la réception de la requête CC | **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34** — Gmail 1a0e7c8da5ef2262 | ÉTABLI | En-tête RFC822 : 04:31:35 -0700, soit 13:31:35 en Europe/Paris ; fil d'un seul message, aucune réponse retrouvée. |
 
 ## 29 septembre 2026
 
