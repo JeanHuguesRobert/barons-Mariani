@@ -4,7 +4,7 @@ subtitle: "Projet autonome de liste des pièces destinées à soutenir la requê
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-version: "0.14"
+version: "0.15"
 status: "active — pre-filing piece schedule — not filed"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -110,7 +110,7 @@ Source : `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md`.
 | **P-45.b** | 28/09 13:31:35 CEST | Demande à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34 | Demande de confirmation des modalités concrètes ; en-tête RFC822 : 04:31:35 -0700 = 13:31:35 Europe/Paris ; aucune réponse institutionnelle retrouvée | **A — production obligatoire** | Gmail `1a0e7c8da5ef2262` |
 | **P-45.c** | 01/10 09:30:33 | Consolidation générale avec la Sous-préfecture de Corte en copie | Rappelle notamment que la modalité concrète de remise reste sans réponse suffisante | **A — production obligatoire** | Gmail `1a0f65f52d19c6f7` |
 | **P-45.d** | 02/10 13:33:55 | Relance structurée P1–P18 | P11/P12 redemandent les modalités de remise et l'état des demandes antérieures | **A — production obligatoire** | Gmail `1a0fc64750fe95b6` |
-| **P-46** | 10/09–02/10 | Registre exhaustif des courriels Préfecture / TA | 46 messages distincts, envoyés et reçus, incluant accusés automatiques et France Transfert ; chaque message est une sous-pièce P-46.01…P-46.46 avec horodatage, libellé, effet et reproduction intégrale dans le paquet de dépôt ; seules les adresses privées de Maguy et Laurence et les secrets techniques sont occultés | **A — production obligatoire / intégrale** | Gmail natif + représentation lisible dans le recueil final |
+| **P-46** | 10/09–02/10 | Registre exhaustif des courriels Préfecture / TA | 46 messages distincts, envoyés et reçus ; reproductions lisibles matérialisées en trois volumes P-46.01–15, P-46.16–30 et P-46.31–46 ; occultations limitées contrôlées | **A — production obligatoire / matérialisée** | Gmail natif + `investigation/p46/README.md` et trois volumes associés |
 
 
 ## 3. Sous-inventaire de P-14 — pièces décrites dans la saisine préfectorale initiale
