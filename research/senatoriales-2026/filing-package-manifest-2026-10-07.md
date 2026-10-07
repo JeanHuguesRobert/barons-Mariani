@@ -23,10 +23,10 @@ related:
 |---|---|---|
 | Requête | v0.31 — chemin canonique `requete-conseil-constitutionnel.md` | candidate de dépôt ; non déposée ; gel matériel encore requis |
 | Bordereau | v0.13 | cohérent jusqu’à P-46 ; non déposé |
-| Annexe chronologique | v0.1 évolutive | **à annexer au paquet de requête** ; geler au moment du dépôt |
-| Annexe documentation | v0.1 évolutive | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
+| Annexe chronologique | version courante synchronisée | **à annexer au paquet de requête** ; geler au moment du dépôt |
+| Annexe documentation | version courante synchronisée | **à annexer** comme couche pédagogique grand public / expert ; distincte des pièces P-xx |
 | Inventaire probatoire | v1.8 | outil interne ; ne pas annexer par défaut |
-| Checklist | v0.59 | outil interne ; ne pas annexer par défaut |
+| Checklist | version courante | outil interne ; ne pas annexer par défaut |
 
 ## 1 bis. Annexe chronologique obligatoire
 
@@ -54,7 +54,7 @@ P-04 P-05 P-06 P-07 P-08
 P-09 P-10 P-11 P-12 P-13 P-14 P-15 P-16 P-17 P-18 P-19 P-20 P-22
 P-26 P-27 P-28
 P-29 P-30 P-31 P-32 P-33
-P-39 P-40 P-41
+P-39 P-40
 P-43.a P-43.b
 P-44
 P-45 P-45.a P-45.b P-45.c P-45.d
@@ -68,7 +68,7 @@ Statut de ce manifeste :
 ## 3. Pièces sensibles, composites ou restant à arbitrer
 
 - **P-18** : désormais classée **A — production obligatoire / minimisée** dans le bordereau ; produire une version strictement minimisée/occultée de l'attestation nécessaire au grief d'accessibilité.
-- **P-41** : désormais classée **A — production proposée** ; vérifier les URLs et affirmations externes avant matérialisation et conserver clairement sa fonction contextuelle.
+- **P-41 — annexe de déclarations publiques et commentaires de presse** : **réserve contextuelle**, non incluse dans le paquet initial sauf arbitrage explicite.
 - **P-42** : reste **B — soutien / réserve** ; ne pas joindre par défaut sauf décision expresse.
 - **P-43** : l'ensemble parent reste sensible et sélectif ; **P-43.a** et **P-43.b** sont toutefois classées **A — production obligatoire** et doivent être produites avec occultation des données privées non nécessaires.
 
@@ -86,6 +86,15 @@ Statut de ce manifeste :
 Pour chacun : représentation lisible complète + en-têtes utiles + export natif si possible + SHA-256 du fichier produit.
 
 Index public : `investigation/sources/chaine-silence-etat-modalites-depot-2026-09-26-10-02.md`.
+
+### État matériel consolidé des pièces critiques
+
+- **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** : primaire vérifié, 79 663 474 octets, SHA-256 `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ; seule la fiche PDF de représentation reste à produire.
+- **P-14 — requêtes préfectorales n° 2601714 et 2601715 + bundles** : primaires localisés.
+- **P-17 — note manuscrite recto-verso remise à l'audience** : deux images primaires et transcription localisées.
+- **P-18 — attestation CAF relative à Mme Laurence Vernerey** : primaire verrouillé, 94 775 octets, SHA-256 `308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2`.
+- **P-20 — jugement du Tribunal administratif de Bastia du 14 septembre et notification** : sous-pièces P-20.a à P-20.g identifiées et transcription contrôlée disponible ; assemblage restant.
+- **P-16 — mémoire en défense devant le Tribunal administratif** : reproduction candidate matérialisée, mais identité binaire exacte avec l'exemplaire matériel remis au TA non indépendamment établie.
 
 ## 4. Chaîne TA
 
