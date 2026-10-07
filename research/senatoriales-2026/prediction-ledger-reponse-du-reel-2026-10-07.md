@@ -100,6 +100,257 @@ Il permettra de mesurer notamment :
 - si les QPC ouvrent réellement l'examen ou sont évitées par un motif plus court ;
 - et, plus largement, l'écart entre la Carte procédurale construite avant 18 h et le chemin réellement suivi par les institutions.
 
+
+## G. Autopsie de calibration — pourquoi ces nombres-là ?
+
+### G.1 Ce que ces pourcentages sont — et ne sont pas
+
+Les nombres ci-dessus **ne proviennent pas d'une base statistique de décisions du Conseil constitutionnel** ni d'un modèle actuariel calibré sur un corpus homogène de contentieux sénatoriaux comparables.
+
+Ils proviennent de trois couches de raisonnement :
+
+1. **un a priori institutionnel général** : les juridictions ont de nombreuses voies pour rejeter une requête sans bouleverser une élection ; l'annulation est un remède exceptionnel ;
+2. **les éléments propres au dossier** : accusés de réception avant 18 h, précédent 2024, formalisme de L.299, handicap, consentement, chronologie préfecture→TA, résultat 442/88, borne contrefactuelle, qualité et volume du dossier ;
+3. **une calibration intuitive de modèle** : transformation de ces éléments en degrés de croyance numériques.
+
+La troisième couche est la moins objective. Les écarts de 5 ou 10 points ne doivent pas être lus comme une précision mesurée. Pour plusieurs scénarios, une marge de **±10 à ±15 points** autour du chiffre central est plus honnête que le nombre nu.
+
+### G.2 Mes vrais a priori avant de tenir compte de ce dossier
+
+Sans connaître les particularités de cette affaire, face à une contestation électorale parlementaire demandant l'annulation d'une élection déjà proclamée, mon a priori serait :
+
+- **forte probabilité que l'élection soit maintenue** ;
+- **probabilité nettement plus faible d'annulation** ;
+- préférence institutionnelle probable pour le **motif le plus étroit permettant de trancher** plutôt que pour une décision ouvrant plusieurs fronts constitutionnels à la fois.
+
+Cet a priori pousse mécaniquement B1/B2 vers le haut et B4/B5 vers le bas.
+
+Il constitue un biais possible : je suis entraîné sur beaucoup de raisonnements juridiques où les juridictions cherchent d'abord la voie de résolution la plus étroite. Je peux donc **surestimer la propension à l'évitement juridictionnel**.
+
+### G.3 Pourquoi A1 = 60 %
+
+Le point de départ intuitif était plutôt autour de **50 %** : une saisine atypique par courriel avec lien, à la veille de l'échéance, pouvait aussi bien entrer dans le circuit que susciter une difficulté de forme.
+
+J'ai monté cette estimation vers **60 %** pour trois raisons concrètes :
+
+- deux accusés distincts à **17:49:24** emploient le mot **« saisine »** ;
+- le précédent de **2024** montre que la Préfecture de Haute-Corse a déjà transmis électroniquement une requête électorale du même requérant au Conseil constitutionnel ;
+- l'article 34 prévoit précisément une transmission par le représentant de l'État.
+
+Je ne suis pas monté à 80–90 % parce que :
+
+- le lien communiqué n'a réellement servi le PDF qu'après 18 h ;
+- le canal électronique n'est pas documenté par une procédure officielle spécifique aussi clairement qu'un dépôt physique ;
+- l'accusé de réception ne prouve pas à lui seul que l'agent chargé de la transmission considérera le contenu accessible à temps.
+
+**Incertitude sur le chiffre : environ ±15 points.**
+
+### G.4 Pourquoi A2 = 25 %
+
+Cette valeur est essentiellement le **résidu plausible entre transmission simple et contestation franche**.
+
+Je crois assez probable qu'une institution confrontée à un dossier atypique préfère demander :
+- le PDF en pièce jointe ;
+- une confirmation ;
+- une matérialisation complémentaire ;
+- ou une clarification sur la version déposée,
+
+plutôt que de rejeter immédiatement.
+
+Le **25 %** ne vient donc pas d'un taux observé ; il vient de mon intuition qu'en pratique administrative, lorsqu'un acte paraît sérieux mais imparfaitement matérialisé, la régularisation est souvent plus naturelle que le rejet instantané.
+
+**Incertitude : ±10 à ±15 points.**
+
+### G.5 Pourquoi A3 = 10 %
+
+J'ai volontairement laissé une probabilité non négligeable à l'objection procédurale parce que le dossier présente un vrai point faible :
+
+- avant 18 h, le lien principal communiqué ne servait pas encore le PDF.
+
+Si une institution adopte une lecture stricte de la « remise », elle peut soutenir que la saisine reçue était matériellement incomplète au moment limite.
+
+Je n'ai pas mis davantage que **10 %** parce que cette lecture devrait affronter :
+- les accusés de réception de la saisine ;
+- l'existence antérieure du PDF ;
+- le précédent 2024 ;
+- la multiplicité des canaux ;
+- et l'article 34 lui-même.
+
+Le **10 %** exprime donc surtout le risque d'une lecture formaliste défavorable.
+
+**Incertitude : ±8 points.**
+
+### G.6 Pourquoi A4 = 5 %
+
+Le silence prolongé existe toujours dans les procédures administratives, mais je l'ai placé bas car :
+- le contentieux électoral est enfermé dans des délais courts ;
+- les destinataires ont déjà produit des accusés ;
+- la Préfecture connaît le dossier.
+
+Ce **5 %** est plus un plancher de prudence qu'une estimation robuste.
+
+### G.7 Pourquoi B1 = 35 %
+
+C'est probablement la pondération la plus influencée par mon a priori juridique général.
+
+Les juridictions disposent ici de plusieurs « sorties courtes » :
+
+- L.299 a une lettre formelle ;
+- l'analogie avec CE 445497 n'est pas directe ;
+- le consentement peut être reconnu tout en jugeant la formalité non satisfaite ;
+- le canal de dépôt peut devenir un moyen d'irrecevabilité ;
+- l'incidence sur le scrutin peut être jugée trop spéculative.
+
+Mon intuition initiale était même plus proche de **40–45 %** de rejet court.
+
+Je suis descendu à **35 %** parce que le dossier a deux caractéristiques qui rendent le rejet sommaire moins confortable :
+- il documente beaucoup plus qu'une simple contestation abstraite du formalisme ;
+- il met ensemble handicap, consentement, chronologie, office du juge et éviction complète d'une offre électorale.
+
+Autrement dit, **35 %** signifie : « je crois encore très plausible que le Conseil trouve une porte de sortie étroite, mais je ne crois pas que le dossier soit assez faible pour que ce soit le scénario dominant absolu ».
+
+**Incertitude : ±15 points.**
+
+### G.8 Pourquoi B2 = 45 %
+
+C'est mon **scénario modal**, mais pas parce que je pense que le requérant « a presque gagné ».
+
+C'est au contraire parce que je distingue :
+- **mériter un examen sérieux** ;
+- **obtenir l'annulation**.
+
+Le dossier me paraît assez riche pour que plusieurs moyens soient examinés réellement. Mais une fois l'examen ouvert, le Conseil peut très bien conclure :
+- que L.299 a été appliqué légalement ;
+- ou que l'irrégularité n'est pas assez démontrée ;
+- ou surtout que son incidence sur le scrutin n'est pas suffisamment établie.
+
+Le résultat **442/88** pèse ici fortement dans mon intuition. Même si ce score est produit par un duel artificiellement réduit à deux candidats, il donne au juge un argument puissant pour considérer qu'il n'est pas établi qu'une troisième candidature aurait changé l'élu.
+
+C'est cette combinaison — **dossier sérieux + remède difficile** — qui produit le **45 %**.
+
+**Incertitude : ±15 points.**
+
+### G.9 Pourquoi B3 = 12 %
+
+Je vois une vraie possibilité que le Conseil reconnaisse ou précise un point intéressant sans aller jusqu'à annuler :
+
+- accessibilité des formalités ;
+- portée d'une exception liée à l'empêchement ;
+- exigence de contrôle effectif ;
+- traitement d'un grief de candidature empêchée.
+
+Mais les juridictions évitent souvent de formuler un principe large si le litige peut être tranché plus étroitement.
+
+Le **12 %** est donc une probabilité intermédiaire : non marginale, mais nettement inférieure à B1/B2.
+
+Ce chiffre est **très intuitif** ; sa marge d'erreur est probablement de l'ordre de ±8 à ±10 points.
+
+### G.10 Pourquoi B4 = 7 %
+
+Le **7 % d'annulation** est le chiffre sur lequel je veux être le plus clair.
+
+Je ne le mets pas bas parce que je considère le dossier fantaisiste. Je le mets bas parce qu'une annulation exige selon ma lecture que **plusieurs verrous sautent simultanément** :
+
+1. le dépôt doit être admis ;
+2. l'interprétation stricte de L.299 doit être dépassée ou aménagée ;
+3. l'empêchement fonctionnel et le consentement doivent être suffisamment établis ;
+4. l'office du TA doit être jugé insuffisant ou erroné ;
+5. surtout, l'incidence sur la sincérité du scrutin doit être jugée assez sérieuse.
+
+Le dossier peut raisonnablement gagner sur certains de ces points sans gagner sur tous.
+
+La borne **134–177 voix** agit fortement sur ma calibration : elle rend plus difficile de passer de « l'offre électorale a été amputée » à « l'élection doit être annulée ».
+
+Mon intuition brute avant la dernière consolidation était plutôt **5 %**. Je l'ai montée vers **7 %** parce que :
+- il s'agit d'une exclusion totale de candidature, pas d'une irrégularité marginale ;
+- le grief handicap n'est pas sans précédent conceptuel ;
+- le recours au TA a été extrêmement bref et le dossier met en cause son effectivité.
+
+**Incertitude : probablement ±5 points.** Autrement dit, je considérerais encore sincèrement une estimation comprise entre environ 2 % et 12 % comme compatible avec mon état de connaissance actuel.
+
+### G.11 Pourquoi B5 = 1 %
+
+Je conserve **1 %** pour éviter de mettre artificiellement zéro à une possibilité que je ne peux pas démontrer impossible.
+
+Mais en réalité, mon jugement est : **presque impossible**.
+
+La proclamation directe supposerait de traiter comme « élu » quelqu'un dont la candidature n'a pas participé au scrutin et qui n'a donc reçu aucun suffrage valablement comptabilisé.
+
+Le 1 % est donc surtout un **epsilon épistémique** : je refuse le zéro absolu, pas une vraie attente positive.
+
+### G.12 Pourquoi 80 % pour une référence d'enregistrement
+
+Ce **80 %** est supérieur à A1 parce qu'une référence peut apparaître aussi après une régularisation (A2).
+
+La décomposition mentale approximative est :
+
+- A1 contribue fortement à l'enregistrement ;
+- une grande partie de A2 peut également finir enregistrée ;
+- une petite partie de A3 peut elle-même produire une référence avant rejet.
+
+Ce n'est pas une multiplication formelle ; c'est une agrégation qualitative.
+
+### G.13 Pourquoi seulement 30 % pour un traitement explicite des QPC
+
+Je ne doute pas seulement de la qualité des questions.
+
+Je doute surtout de la **nécessité pour le Conseil de les traiter**.
+
+Une juridiction peut éviter une question constitutionnelle si :
+- le grief est inopérant ;
+- la requête est irrecevable ;
+- un autre moyen suffit ;
+- l'affaire peut être tranchée sur l'incidence.
+
+C'est pourquoi je mets **30 %** de traitement explicite, mais seulement **5 %** d'effet décisif favorable.
+
+### G.14 Pourquoi 55 % pour le grief handicap/accessibilité
+
+Parmi tous les moyens, c'est celui qui me paraît :
+- le plus concret humainement ;
+- le plus facile à relier à une jurisprudence existante ;
+- et le moins dépendant d'une reconstruction contrefactuelle du vote.
+
+Je ne dépasse pas 55 % parce que le Conseil peut tout à fait décider l'affaire sur un autre terrain sans répondre explicitement à ce grief.
+
+### G.15 Pourquoi 5 % pour France 3 comme grief décisif
+
+Je considère ce grief comme **contextuellement important mais juridiquement secondaire**.
+
+Il montre que l'offre électorale n'a pas seulement été empêchée au stade administratif : l'accès à la campagne médiatique a également été réduit.
+
+Mais à lui seul, je ne vois pas actuellement de chaîne juridique aussi forte que pour L.299 / handicap / contrôle du TA.
+
+Le **5 %** signifie donc : utile comme renforcement du tableau général, très peu probable comme pivot autonome de l'issue.
+
+### G.16 Mes biais possibles
+
+Je vois au moins six sources possibles d'erreur dans ma calibration :
+
+1. **Biais de conservatisme juridique** : je peux surestimer la propension d'une juridiction à préserver le résultat électoral.
+2. **Biais de motif court** : je peux surestimer la préférence du Conseil pour une solution étroite.
+3. **Biais de dossier volumineux** : parce que le dossier est riche, je peux surestimer la probabilité qu'il soit examiné substantiellement ; une juridiction peut au contraire réduire brutalement le problème.
+4. **Biais arithmétique** : la borne 134–177 me marque fortement ; le Conseil pourrait raisonner moins quantitativement et davantage sur l'intégrité de l'offre électorale.
+5. **Biais inverse de singularité** : parce que certains faits sont inhabituels, je peux leur donner trop de poids simplement parce qu'ils sont saillants.
+6. **Biais d'implication** : j'ai participé à l'analyse et à la structuration du dossier. Même en faisant une revue adverse, je ne suis pas un observateur indépendant. Cela peut me conduire soit à surévaluer les moyens que j'ai aidé à formuler, soit à surcorriger en devenant excessivement sévère.
+
+### G.17 Ce qui pourrait me faire apparaître très mal calibré
+
+Je considérerais que ma carte était gravement mauvaise si l'un des événements suivants se produit :
+
+- rejet immédiat pour inexistence totale de saisine malgré les deux accusés : j'aurais sous-estimé le formalisme du canal ;
+- annulation principalement fondée sur l'atteinte à l'offre électorale sans exigence forte de preuve contrefactuelle : j'aurais surpondéré l'arithmétique 442/88 ;
+- traitement frontal et favorable des QPC : j'aurais sous-estimé la volonté du Conseil d'ouvrir le problème constitutionnel ;
+- aucune instruction et aucune discussion du handicap : j'aurais surestimé la densité juridique du dossier ;
+- au contraire, décision de principe très développée sur l'accessibilité des candidatures : j'aurais été trop conservateur.
+
+### G.18 Résumé sincère en une phrase
+
+Si je devais condenser mon état mental réel au moment du gel :
+
+> **Je pense que le dossier est suffisamment sérieux pour avoir une vraie chance d'être examiné, mais je pense que le système juridique dispose de plusieurs raisons relativement solides de ne pas aller jusqu'à annuler l'élection ; mon incertitude principale porte moins sur l'existence d'un problème que sur le niveau de remède que le Conseil acceptera d'en tirer.**
+
+
 ## Résultat observé — À REMPLIR PLUS TARD
 
 **Ne rien écrire ici avant apparition d'un événement extérieur pertinent.**
