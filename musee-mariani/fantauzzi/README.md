@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-07"
-version: "0.1"
+version: "0.2"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -139,3 +139,21 @@ Sources publiques :
 - Société.com, fiche SCEA Fantauzzi, mise à jour 2026 ;
 - Pappers, SCEA Fantauzzi / Bénédicte Drach ;
 - Préfecture de l'Oise, publicité foncière 2025.
+
+## Correctif de statut généalogique
+
+La seconde lecture du Tableau I ferme un point méthodologique important.
+
+**Antoine et Jules Fantauzzi ne sont pas, par la chaîne actuellement documentée, des descendants Mariani.** Ils sont les frères de **Sophie Fantauzzi**, épouse d'**Albert Mariani**.
+
+Leur présence dans la liste de 1933 prouve donc que Meurgey emploie « les Mariani sont aujourd'hui représentés par » dans un sens familial plus large que la descendance biologique.
+
+La continuité Janine Fantauzzi → Fournier-Sarlovèze → SCEA Fantauzzi reste un objet très pertinent pour :
+
+- l'histoire des alliances ;
+- les réseaux familiaux ;
+- le déplacement et la transmission de patrimoines/capacités hors de Corse ;
+
+mais elle **ne doit plus être utilisée comme compteur de descendants Mariani** tant qu'une autre ascendance Mariani indépendante n'est pas démontrée.
+
+Cette correction est propagée vers le registre Meurgey, *Rise & Fall* et DIASPORA.
