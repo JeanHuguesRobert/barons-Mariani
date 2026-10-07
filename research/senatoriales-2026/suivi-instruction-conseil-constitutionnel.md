@@ -83,7 +83,7 @@ https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/research/senatorial
 
 ### Bordereau de pièces actuellement associé à la préparation du dépôt
 
-https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.10.md
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel.md
 
 Le bordereau permet d’identifier les pièces, leur rôle et leur état de matérialisation. Sa présence dans le Corpus ne signifie pas à elle seule que chaque pièce a effectivement été remise au Conseil.
 
