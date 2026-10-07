@@ -3,7 +3,7 @@ title: "Checklist agile — dépôt de la requête au Conseil constitutionnel"
 subtitle: "Sénatoriales Haute-Corse 2026 — contrôle pré-dépôt et points découverts en chemin"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.24"
+version: "0.25"
 status: "active — living checklist"
 language: "fr"
 document_role: "operational"
@@ -245,6 +245,39 @@ Le futur dossier CEDH devra être construit séparément, avec ses propres contr
 La continuité alléguée d'un traitement médiatique défavorable depuis **2017**, y compris lorsqu'elle concerne des médias de service public, doit être documentée comme une **hypothèse longitudinale à tester** et non comme une conclusion acquise. Le dossier devra distinguer, année par année et média par média : information disponible, traitement observé, comparateurs, démarches entreprises, réponses reçues, effet allégué sur le scrutin, effet réputationnel, préjudice moral allégué et preuve disponible.
 
 Les demandes éventuelles de réparation constituent un sous-dossier distinct : leur fondement, leur recevabilité, leur causalité et leur quantification devront être instruits séparément. Toute intention déclarée d'affecter une éventuelle somme à un fonds ou à une structure d'intérêt général ne modifie ni l'existence juridique du préjudice personnel allégué ni les conditions d'octroi d'une satisfaction équitable ; elle doit donc rester séparée de la démonstration du dommage.
+
+### Règle de présentation des résultats — collège électoral d'abord
+
+Dans un scrutin sénatorial où la participation des membres du collège électoral est juridiquement contrainte par l'article **L.318 du code électoral**, la mesure la plus immédiatement intelligible d'un résultat ou d'un volume électoral est sa part du **collège électoral total**, et non d'abord son nombre brut de voix.
+
+Règle générale de rédaction :
+
+~~~text
+POURCENTAGE DU COLLÈGE ÉLECTORAL
+→ d'abord
+
+VALEUR ABSOLUE
+→ ensuite, entre parenthèses ou dans la même proposition
+
+AUTRE DÉNOMINATEUR UTILE
+→ seulement ensuite, en l'identifiant explicitement
+~~~
+
+Exemples attendus pour la Haute-Corse 2026 :
+
+- **71,8 % du collège (442 voix sur 616)** pour M. Parigi ;
+- **14,3 % du collège (88 voix sur 616)** pour M. Battini ;
+- **5,8 % du collège (36 bulletins sur 616)** pour les blancs ;
+- **6,5 % du collège (40 bulletins sur 616)** pour les nuls ;
+- **12,3 % du collège (76 bulletins sur 616)** pour blancs + nuls ;
+- **86,0 % du collège (530 suffrages sur 616)** pour les exprimés ;
+- **98,4 % du collège (606 votants sur 616)** pour la participation.
+
+Cette règle vaut dans la requête, les annexes explicatives, le bordereau lorsqu'il résume un résultat, l'inventaire probatoire, les comparaisons longitudinales et les formulations grand public.
+
+**Exception de précision juridique :** lorsqu'un texte de droit définit lui-même un seuil sur un autre dénominateur — par exemple la majorité absolue des **suffrages exprimés** — ce dénominateur légal doit rester explicite et ne doit jamais être remplacé par le pourcentage du collège. La présentation doit alors distinguer les deux mesures : **règle légale sur les exprimés**, puis traduction éventuelle en part du collège pour l'intelligibilité comparative.
+
+Motif : dans ce scrutin, l'article L.318 sanctionne le membre du collège électoral qui, sans cause légitime, ne prend pas part au scrutin. La participation observée doit donc être lue avec cette contrainte institutionnelle en tête. Cette règle de présentation ne permet aucune inférence sur le choix individuel d'un grand électeur.
 
 ## Mode d'emploi opératoire — comment construire et promouvoir une version
 
@@ -738,3 +771,12 @@ Le control plane formalise désormais deux objectifs parallèles :
 Règle de séparation : aucun développement CEDH ne doit encombrer la requête nationale s'il n'y sert aucun moyen recevable ; inversement, aucune trace potentiellement utile à Strasbourg ne doit être perdue au seul motif qu'elle est périphérique pour le Conseil constitutionnel.
 
 La série alléguée **2017 → 2020 → 2024 → 2026** sur le traitement médiatique devient un axe longitudinal à documenter, avec séparation stricte entre faits observés, comparaison, causalité alléguée, atteinte à la réputation, préjudice moral et éventuelle réparation.
+
+
+## UPDATE — 7 octobre 2026 — v0.25 / résultats rapportés au collège électoral
+
+Nouvel invariant de présentation : pour les votes, résultats, blancs, nuls, exprimés et ordres de grandeur électoraux, afficher **d'abord le pourcentage du collège électoral total**, puis la valeur absolue. Cette convention est motivée par le caractère juridiquement contraint de la participation sénatoriale (art. L.318).
+
+Audit de la v0.24 : plusieurs passages restent à corriger lors de la prochaine promotion, notamment les formulations commençant par **442 voix**, **88 voix**, **36 blancs**, **40 nuls**, le résumé P-27 et certains développements sur l'incidence. La note `investigation/contre_cela_naurait_rien_change_2026-10-02.md` et plusieurs passages de la v0.24 respectent déjà la convention.
+
+Exception : lorsqu'un seuil légal est défini sur les suffrages exprimés, conserver le dénominateur juridiquement pertinent et donner en complément, si utile, son équivalent rapporté au collège.
