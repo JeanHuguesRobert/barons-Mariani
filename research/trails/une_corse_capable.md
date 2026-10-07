@@ -23,8 +23,8 @@ related_documents:
     path: "../autonomia/grammaire_autonomie_de_capacite.md"
   - title: "Atlas du paysage politique et discursif corse — Une Corse capable"
     path: "../autonomia/atlas_paysage_politique_corse.md"
-  - title: "Atlas — addendum octobre 2026"
-    path: "../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+  - title: "Atlas consolidé — état au 7 octobre 2026"
+    path: "../autonomia/atlas_paysage_politique_corse.md"
   - title: "Observatoire public du processus d’autonomie de la Corse"
     path: "../autonomia/observatoire_processus_autonomie_corse.md"
   - title: "Amendement d’effectivité — article 72-5"
@@ -38,7 +38,7 @@ provenance:
     - "research/autonomia.md"
     - "research/autonomia/grammaire_autonomie_de_capacite.md"
     - "research/autonomia/atlas_paysage_politique_corse.md"
-    - "research/autonomia/atlas_paysage_politique_corse_addendum_2026-10.md"
+    - "research/autonomia/atlas_paysage_politique_corse.md"
     - "research/autonomia/observatoire_processus_autonomie_corse.md"
 review:
   status: "unreviewed"
@@ -50,7 +50,7 @@ update_policy: "UP-DEFAULT-REVIEWED"
 
 ## État courant du Trail — 7 octobre 2026
 
-La porte d’entrée opérationnelle est désormais la [note synthétique pour examen parlementaire](../note_synthetique_autonomie_capacite_corse.md). La carte politique courante est l’[addendum Atlas d’octobre 2026](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md). L’addendum de septembre reste une photographie historique et ne doit plus être présenté comme l’état actuel de la carte.
+La porte d’entrée opérationnelle est désormais la [note synthétique pour examen parlementaire](../note_synthetique_autonomie_capacite_corse.md). La carte politique courante est l’[addendum Atlas d’octobre 2026](../autonomia/atlas_paysage_politique_corse.md). L’addendum de septembre reste une photographie historique et ne doit plus être présenté comme l’état actuel de la carte.
 
 
 Ce Trail est un **parcours de lecture public** dans le Corpus. Il ne remplace ni les documents sources ni leur appareil de preuve : il indique dans quel ordre les lire selon la question que l’on veut explorer.
@@ -102,7 +102,7 @@ L’Atlas cartographie les acteurs, terrains rhétoriques, axes de polarisation 
 
 ➡️ [**Atlas — addendum septembre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-09.md) — photographie de la transition Assemblée nationale → Sénat avant le scrutin.
 
-➡️ [**Atlas — addendum octobre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) — **carte courante**, après le scrutin sénatorial du 27 septembre et pendant le renouvellement des instances du Sénat.
+➡️ [**Atlas consolidé — état au 7 octobre 2026**](../autonomia/atlas_paysage_politique_corse.md) — **carte courante**, après le scrutin sénatorial du 27 septembre et pendant le renouvellement des instances du Sénat.
 
 L’addendum de septembre reste une couche historique utile. L’addendum d’octobre est la référence pour l’état politique et institutionnel courant.
 
@@ -188,7 +188,7 @@ Pour une première exploration, quatre documents suffisent :
 
 1. [**Note synthétique — état au 7 octobre 2026**](../note_synthetique_autonomie_capacite_corse.md) — la porte d’entrée parlementaire courante ;
 2. [**Autonomia**](../autonomia.md) — la doctrine ;
-3. [**Atlas — addendum octobre 2026**](../autonomia/atlas_paysage_politique_corse_addendum_2026-10.md) — l’état actuel de la carte ;
+3. [**Atlas consolidé — état au 7 octobre 2026**](../autonomia/atlas_paysage_politique_corse.md) — l’état actuel de la carte ;
 4. [**Observatoire public**](../autonomia/observatoire_processus_autonomie_corse.md) — le suivi du processus réel.
 
 Pour comprendre **comment la doctrine produit des propositions**, ajouter la [Grammaire générative](../autonomia/grammaire_autonomie_de_capacite.md).
