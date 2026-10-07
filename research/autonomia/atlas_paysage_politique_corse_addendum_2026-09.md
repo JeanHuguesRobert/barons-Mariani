@@ -6,6 +6,7 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 date: "2026-09-16"
 version: "1.1-addendum"
 status: "working-paper — documentary atlas update"
+historical_layer: true
 license: "CC BY-SA 4.0"
 language: "fr"
 visibility: "public"
@@ -14,6 +15,7 @@ document_kind: "research-note"
 function: "atlas_update"
 target_scene: "corsican_autonomy_parliamentary_transition"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse_addendum_2026-09.md"
+absorbed_into: "research/autonomia/atlas_paysage_politique_corse.md"
 updates:
   - "research/autonomia/atlas_paysage_politique_corse.md"
 related_documents:
