@@ -1112,7 +1112,7 @@ Après le jugement, le requérant a ramené une partie de ses demandes à trois 
 
 Ces questions ont été répétées les 15, 16, 17 et 18 septembre. Les traces examinées ne contiennent pas de réponse matérielle qui les ferme par « oui », « non » ou « information non disponible ».
 
-À partir du 16 septembre, le requérant a également demandé au greffe du Tribunal administratif la liste des pièces effectivement versées dans les deux dossiers. Le greffe l'a orienté vers Sagace, puis vers Télérecours Citoyens, avant de l'inviter à prendre connaissance du jugement. Ces démarches ont permis de résoudre certains points, notamment la prise en compte de la note en délibéré, mais plusieurs questions matérielles ont subsisté.
+À partir du 16 septembre, le requérant a également demandé au greffe du Tribunal administratif la liste des pièces effectivement versées dans les deux dossiers. Le greffe l'a orienté vers Sagace, puis vers Télérecours Citoyens, avant de l'inviter à prendre connaissance du jugement. Ces démarches ont permis de résoudre certains points, notamment la prise en compte de la note en délibéré, mais plusieurs questions matérielles sont restées sans réponse suffisante.
 
 Le 1er octobre, la greffière en chef a indiqué ne pas être en mesure de donner suite aux six questions résiduelles et a invité le requérant à saisir le Conseil constitutionnel.
 
@@ -1120,7 +1120,7 @@ Le 2 octobre, les demandes ont été structurées en dix-huit questions adressé
 
 La même période montre que l'administration restait capable de répondre sur d'autres sujets. La préfecture a proposé la consultation des pièces électorales ; le rendez-vous du 1er octobre a été organisé et s'est déroulé ; des informations logistiques ont été communiquées.
 
-Il existe donc une différence observable : plus les demandes portent précisément sur la reconstitution des actes, des transmissions et de leur chronologie, plus elles restent ouvertes, tandis que d'autres demandes continuent à recevoir une réponse.
+Il existe donc une différence observable : plus les demandes portent précisément sur la reconstitution des actes, des transmissions et de leur chronologie, plus elles restent sans réponse suffisante, tandis que d'autres demandes continuent à recevoir une réponse.
 
 La cause de cette différence n'est pas établie par les seules traces disponibles. Ce qui importe ici est son effet : au moment où le requérant doit exercer son recours, certaines informations nécessaires pour vérifier contradictoirement ce qui a été reçu, transmis et examiné restent hors de sa portée.
 
