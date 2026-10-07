@@ -24,7 +24,7 @@ source_documents:
   - "requete-conseil-constitutionnel-projet-v0.4.md"
   - "requete-conseil-constitutionnel-projet-v0.5.md"
   - "requete-conseil-constitutionnel-projet-v0.6.md"
-  - "requete-conseil-constitutionnel-projet-v0.18.md"
+  - "requete-conseil-constitutionnel-projet-v0.19.md"
   - "bordereau-pieces-requete-conseil-constitutionnel-v0.8.md"
   - "investigation/annexe-declarations-publiques-commentaires-presse-2026-10-06.md"
   - "investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md"
@@ -314,3 +314,11 @@ Fait à Corte, le 1er octobre 2026.
 - documente la comparaison des deux saisines préfectorales et la distinction **L.298 / L.299** dans leur motivation ;
 - conserve séparément le **sens des conclusions e-Sagace (L.298, L.299, L.301)** et les motifs du jugement, qui doivent être vérifiés sur l'expédition primaire ;
 - aligne le contrôle de cohérence sur **requête v0.17 / inventaire v1.7 / bordereau v0.9**.
+
+
+## Contrôles transversaux ajoutés le 7 octobre 2026
+
+- `investigation/annexe-chronologie-detaillee-requete-cc-2026-10-07.md` — chronologie détaillée jour par jour et heure croissante ;
+- `investigation/gmail-audit-requete-2026-09-10-2026-10-07.md` — registre d'audit Gmail différentiel.
+
+Ces deux documents servent à détecter les faits sans source, pièces orphelines et messages importants encore non mappés. Ils ne remplacent aucune preuve primaire.
