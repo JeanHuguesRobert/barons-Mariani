@@ -1592,7 +1592,7 @@ La stratégie constitutionnelle distingue donc deux questions : **la QPC relativ
 
 Chacune doit être appréciée pour elle-même au regard de son texte législatif, du droit ou de la liberté constitutionnellement garanti invoqué, de la jurisprudence antérieure et de son caractère nouveau ou sérieux.
 
-Le Défenseur des droits constitue enfin un canal institutionnel distinct, utile notamment pour documenter l'accessibilité, une discrimination éventuelle ou l'effectivité des recours. Le requérant a saisi sa déléguée en Haute-Corse le 26 septembre 2026 ; cette diligence est produite comme **P-42 — Saisine de la déléguée du Défenseur des droits en Haute-Corse**. Aucune réponse à cette saisine n’a été retrouvée dans la recherche ciblée effectuée avant le dépôt. Cette saisine ne suspend ni le délai organique du présent recours, ni les délais propres aux QPC ou à une éventuelle requête européenne.
+Le Défenseur des droits constitue enfin un canal institutionnel distinct, utile notamment pour documenter l'accessibilité, une discrimination éventuelle ou l'effectivité des recours. Le requérant a saisi sa déléguée en Haute-Corse le 26 septembre 2026 ; cette diligence est repérée dans le relevé probatoire intégré comme **P-42 — Saisine de la déléguée du Défenseur des droits en Haute-Corse**. Aucune réponse à cette saisine n’a été retrouvée dans la recherche ciblée effectuée avant le dépôt. Cette saisine ne suspend ni le délai organique du présent recours, ni les délais propres aux QPC ou à une éventuelle requête européenne.
 
 Cette articulation permet de soutenir pleinement les griefs d'effectivité tout en respectant la compétence propre de chaque juridiction et la nature de chaque remède.
 
