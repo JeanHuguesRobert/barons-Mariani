@@ -66,6 +66,7 @@ musee-mariani/
   dangelis/
   arrighi-de-casanova/
   fantauzzi/
+  filippini/
   collections/
     README.md
   expositions/
@@ -105,7 +106,8 @@ musee-mariani/
 - [`sources/bibliographie.md`](sources/bibliographie.md) — sources à dépouiller ou à consolider.
 - [`methodes/notices_famille_etendue.md`](methodes/notices_famille_etendue.md) — méthode de généalogie augmentée et feuille de route pour les notices individuelles Mariani et leurs alliances ;
 - [`arrighi-de-casanova/README.md`](arrighi-de-casanova/README.md) — premier sous-corpus d’alliance ouvert depuis les tableaux de Meurgey 1933 ;
-- [`fantauzzi/README.md`](fantauzzi/README.md) — branches Fantauzzi, continuités familiales et économiques continentales.
+- [`fantauzzi/README.md`](fantauzzi/README.md) — branches Fantauzzi, continuités familiales et économiques continentales ;
+- [`filippini/README.md`](filippini/README.md) — descendance directe Madeleine Mariani × Michel Filippini, état des trois sous-branches.
 
 ## Doctrine des Possibles — méthode, juridique, ateliers
 
