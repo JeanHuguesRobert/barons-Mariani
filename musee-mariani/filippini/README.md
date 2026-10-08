@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.6"
+version: "0.7"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -567,3 +567,42 @@ Conséquence :
 - seule la date de décès du **30 octobre 1888** est actuellement utilisée dans le Corpus sur la base des sources secondaires convergentes.
 
 Ce correctif évite une fausse précision produite par l'interface d'indexation.
+
+
+### Dossier militaire d’Antoine Filippini
+
+Le Service historique de la Défense indexe un dossier nominatif :
+
+- **FILIPPINI Antoine Dominique Thomas Louis** ;
+- grade : **sous-lieutenant adjoint à l'officier d'habillement** ;
+- unité : **escadron de la cavalerie territoriale légère de la 11e région** ;
+- date : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Source institutionnelle :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+Cette pièce confirme l'identité complète d'Antoine à une date située entre son mariage de 1883 et son décès de 1888.
+
+Le dossier militaire lui-même devient une **source primaire potentielle prioritaire** : il peut contenir état civil, domicile, mariage ou situation familiale. Son inventaire public ne donne toutefois pas encore le nom de l'enfant.
+
+### Convergence secondaire sur l'existence de l'enfant
+
+Outre l'arbre `kalliste13`, un autre arbre public indexé (`philippe333`) attribue lui aussi **1 enfant** au couple Antoine-Dominique-Thomas Filippini × Marie-Émilie Fantauzzi.
+
+Cette répétition renforce la piste, mais ne doit pas être comptée mécaniquement comme deux sources indépendantes : les arbres peuvent dériver d'une source généalogique commune.
+
+La preuve la plus forte reste l'index de **naissances de Paris 9e**, qui place les deux époux comme parents et indique **1 enfant**.
+
+### Verrou actuel
+
+Le problème n'est désormais plus l'existence vraisemblable de l'enfant, mais son **identité civile**.
+
+Sources susceptibles de fermer le maillon, par ordre de valeur :
+
+1. acte de naissance Paris 9e ;
+2. table décennale 1883–1892 ;
+3. dossier militaire GR 5 YE 47459 ;
+4. acte de second mariage d'Émilie Fantauzzi ;
+5. succession / inventaire après décès d'Antoine Filippini ;
+6. arbre `corsica4` de Laurent Brys, à titre secondaire/provenance.
