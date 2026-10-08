@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-08"
 last_modified_at: "2026-10-08"
-version: "0.1"
+version: "0.2"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -45,7 +45,7 @@ Le maillon entre le couple Gautier–Mariani et cette Sophie Gautier n'est pas e
 
 Jean Hugues Noël Robert rapporte avoir rencontré personnellement une **Sophie Gautier** vers 1982–1984, alors qu'il avait environ 17/18 ans, dans un contexte familial lié à **Gaston d’Angelis**.
 
-Cette Sophie aurait discuté avec lui de l'éventuel mariage de ses parents.
+Sophie Gautier a discuté avec lui du **non-mariage de sa mère Marguerite Robert**, sujet ancien dans son amitié avec Marie-Louise Mariani.
 
 Un souvenir familial distinct indique que **Pierre Mariani** aurait pris soin d'elle à une période où elle serait devenue « orpheline ». Ce point reste à vérifier.
 
@@ -66,3 +66,15 @@ Si c'est la même personne, cela implique une continuité documentable de la bra
 5. rôle précis de Pierre Mariani : aide familiale, accueil, administration de biens, tutelle ou autre ;
 6. nature du lien avec Gaston d’Angelis ;
 7. existence éventuelle d'une correspondance, photographie, testament, faire-part ou acte notarié.
+
+## Relation avec Marie-Louise Mariani
+
+Selon la mémoire directe de Jean Hugues Noël Robert, **Sophie Gautier était une très bonne amie de Marie-Louise Mariani épouse Robert**.
+
+Une brouille serait intervenue à la naissance de Jean Hugues en 1965, autour du fait que **Marguerite Robert n'était pas mariée**.
+
+Vers 1982–1984, Sophie Gautier reparla avec Jean Hugues de cette question. Cette rencontre constitue donc une continuité mémorielle directe du conflit sur près de deux décennies.
+
+Ce lien est important parce qu'il montre que Sophie Gautier n'était pas une simple cousine lointaine repérée dans un tableau : elle appartenait au **cercle relationnel intime de Marie-Louise**.
+
+La filiation exacte de Sophie reste toutefois indépendante de cette proximité sociale et doit encore être démontrée.
