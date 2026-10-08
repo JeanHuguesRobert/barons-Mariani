@@ -3,8 +3,8 @@ title: "Dossier Fantauzzi"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-07"
-version: "0.2"
+last_modified_at: "2026-10-08"
+version: "0.3"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -157,3 +157,30 @@ La continuité Janine Fantauzzi → Fournier-Sarlovèze → SCEA Fantauzzi reste
 mais elle **ne doit plus être utilisée comme compteur de descendants Mariani** tant qu'une autre ascendance Mariani indépendante n'est pas démontrée.
 
 Cette correction est propagée vers le registre Meurgey, *Rise & Fall* et DIASPORA.
+
+
+## Ancrage civique dans l’Oise
+
+La branche Fantauzzi présente un ancrage territorial documenté à **Coudun (Oise)** :
+
+- **Jules Fantauzzi** est maire de Coudun de **1942 à 1945** ;
+- **Gérard Fantauzzi** est maire de Coudun de **1965 à 1971** ;
+- l'histoire industrielle locale indique que la sucrerie de Coudun, rachetée en 1896 par **Joseph Fantauzzi**, est ensuite transmise à **Matthieu, Antoine et Jules Fantauzzi** ;
+- la raison sociale devient ensuite **J. Fantauzzi**, puis **Compagnie Sucrière J. Fantauzzi**.
+
+Cela documente une trajectoire complète :
+
+```text
+Morsiglia / Corte
+→ implantation industrielle dans l’Oise
+→ transmission familiale
+→ exercice du pouvoir municipal
+→ continuité agricole jusqu’en 2026
+```
+
+Ce cas relève d’une **famille alliée** aux Mariani, pas d’une descendance Mariani démontrée.
+
+Sources :
+- histoire municipale de Coudun ;
+- Association pour la Sauvegarde de la Sucrerie de Francières, inventaire de Coudun ;
+- registre public SCEA Fantauzzi.
