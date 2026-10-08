@@ -278,3 +278,13 @@ Antoine-Dominique Mariani (1776–1845)
 Cette branche fournit une explication possible à la présence d'une **« Mlle Sophie Gautier »** dans la liste de 1933.
 
 La relation exacte n'est pas encore démontrée. La prochaine recherche doit identifier les enfants puis petits-enfants du couple Gautier–Mariani et tester si l'une d'elles correspond à la personne citée par Meurgey.
+
+### Mémoire directe JHR — Sophie Gautier et Marie-Louise
+
+Jean Hugues Noël Robert rapporte que **Sophie Gautier était une très bonne amie de sa grand-mère Marie-Louise Mariani épouse Robert**.
+
+Une brouille serait née en 1965, à la naissance de Jean Hugues, autour du fait que sa mère **Marguerite Robert n'était pas mariée**. Sophie reparla de cette question directement avec Jean Hugues vers 1982–1984.
+
+Conséquence : indépendamment de sa filiation exacte, la Sophie Gautier connue de JHR appartient avec certitude mémorielle au **cercle familial proche de Marie-Louise** et reste active dans ce cercle sur plusieurs décennies.
+
+Source : `musee-mariani/sources/oral/2026-10-08-jhr-sophie-gautier.md`.
