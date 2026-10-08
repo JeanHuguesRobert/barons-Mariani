@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-08"
 last_modified_at: "2026-10-08"
-version: "0.3"
+version: "0.4"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -88,3 +88,45 @@ Sophie était passionnée d’opéra et particulièrement de **Maria Callas** ; 
 La relation familiale se prolonge par la génération suivante : **Éléonore**, fille de Freddy, évolue dans le monde de l’opéra et est marraine de Marie-Louise Isabelle Garance Robert ; Freddy en est le parrain.
 
 Ce témoin devient une source orale potentiellement majeure pour identifier Sophie Gautier et documenter son réseau relationnel.
+
+
+## État de l’identification — 8 octobre 2026
+
+Deux niveaux sont désormais séparés.
+
+### Branche historique confirmée
+
+Les Smart Matches Geni retrouvés dans les archives courriel de JHR confirment secondairement :
+
+```text
+Antoine-Dominique Mariani
+→ Sophie Ange Louise Mariani (née en 1834)
+  × Jules Auguste Oscar Gautier
+```
+
+La source MyHeritage associée était gérée par **Pierre Joseph Ghionga**.
+
+### Sophie Gautier du XXe siècle
+
+La Sophie connue personnellement de JHR dans les années 1980 est nécessairement une autre personne.
+
+Les éléments de mémoire disponibles sont compatibles avec une femme de la génération de Marie-Louise Mariani ou légèrement plus jeune, mais aucune filiation n'est encore démontrée entre elle et le couple Gautier–Mariani du XIXe siècle.
+
+### Deux témoins / sources humaines identifiés
+
+- **Pierre Joseph Ghionga** : source généalogique potentielle, car son arbre MyHeritage a produit les Smart Matches de la branche Mariani–Gautier ;
+- **Ferdinand « Freddy » Pancrazi** : témoin oral direct potentiel de Sophie Gautier au XXe siècle.
+
+Leurs coordonnées ne sont pas publiées dans ce dossier.
+
+### Règle actuelle
+
+```text
+branche Mariani → Gautier confirmée
++
+Sophie Gautier du XXe siècle bien attestée par mémoire familiale
+≠
+filiation entre les deux démontrée
+```
+
+La prochaine preuve décisive reste l'identification des enfants de Sophie Ange Louise Mariani et Jules Auguste Oscar Gautier.
