@@ -199,3 +199,45 @@ Le cas Fantauzzi/Fournier-Sarlovèze reste pertinent pour l'histoire des **allia
 Sources de contrôle :
 - Tableau I, seconde lecture visuelle ;
 - Joseph Fantauzzi × Louise Gautier : https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph.
+
+### Ancrage civique dans l’Oise — Jules et Gérard Fantauzzi
+
+La commune de **Coudun (Oise)** publie dans son histoire municipale la liste de ses maires et y fait apparaître :
+
+- **Jules Fantauzzi**, maire de **1942 à 1945** ;
+- **Gérard Fantauzzi**, maire de **1965 à 1971**.
+
+Une synthèse historique locale décrit Jules comme **directeur de la sucrerie**.
+
+Ce résultat ajoute une dimension territoriale forte à la branche :
+
+```text
+implantation économique dans l’Oise
++
+patrimoine agricole / SCEA
++
+responsabilité municipale sur deux générations
+```
+
+Il ne s’agit donc plus seulement d’une résidence ou d’un patrimoine extérieur à la Corse, mais d’un **ancrage civique local durable** dans un autre territoire.
+
+Sources :
+- https://mairiecoudun.wixsite.com/mairie/notre-histoire
+- synthèse historique Coudun : Jules Fantauzzi directeur de la sucrerie ; Gérard Fantauzzi maire 1965–1971.
+
+### Mise à jour 2026 de la SCEA Fantauzzi
+
+La société est toujours active en 2026. Les sources publiques récentes indiquent :
+
+- activité agricole : cultures de céréales, légumineuses et oléagineux ;
+- implantation : **Venette / Compiègne, Oise** ;
+- effectif publié : **10 à 19 salariés** ;
+- dirigeants/associés en 2026 : **Robert Fournier-Sarlovèze, Bénédicte Drach née Fournier-Sarlovèze, Nicolas Drach, Thomas Drach, Mathilde Drach** ;
+- modification d'administration publiée au BODACC le **9 août 2026**.
+
+La continuité productive est donc actuelle, pas seulement historique.
+
+Sources :
+- https://www.pappers.fr/entreprise/scea-fantauzzi-325019834
+- https://www.societe.com/societe/scea-fantauzzi-325019834.html
+- données INSEE / annuaire entreprises réexposées par Peppol.
