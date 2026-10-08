@@ -43,3 +43,102 @@ sections:
     repository: JeanHuguesRobert/barons-Mariani
     ref: 66f34d0cb32e94509988b6f83a87c8a215b3fb81
     file: research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+
+  - kind: literal
+    text: |
+      NOTE DE PROVENANCE — COMPLÉMENT DOCUMENTAIRE
+
+      1. Objet et périmètre.
+      La présente communication concerne le dossier n° 2026-6589 SEN et
+      complète matériellement la requête relative au scrutin sénatorial du
+      27 septembre 2026 en Haute-Corse. Les deux mémoires reproduits ci-dessus
+      étaient déjà disponibles comme documents distincts dans le Corpus lors
+      de la construction du PDF transmis le 7 octobre. La chaîne de conversion
+      du PDF avait pour entrée la requête principale et non leur assemblage.
+      La présente copie ne remplace pas rétroactivement ce PDF.
+
+      2. Choix du moyen de communication.
+      Le greffe ayant demandé une communication « dans les plus brefs délais »,
+      les textes sont reproduits directement dans le corps du courriel, sans
+      pièce jointe. Cette voie évite une conversion de format et permet une
+      lecture immédiate. Elle ne préjuge pas des exigences procédurales
+      éventuellement applicables au dépôt de mémoires distincts.
+      Les éléments volumineux, notamment la vidéo P-13, relèvent du canal
+      TransfertPro indiqué par le greffe. Une copie du présent texte doit
+      également y être déposée ; sa référence sera communiquée après
+      confirmation effective de cette opération. Aucune réception n'est
+      présumée par la seule émission d'un courriel.
+
+      3. Copie, identité et évolution des documents.
+      Chaque mémoire reproduit intégralement correspond à un commit Git
+      identifié. L'adresse immuable permet de consulter cet état historique ;
+      l'adresse sur la branche main permet de découvrir ses révisions
+      ultérieures. Une révision publiée sur main ne se substitue pas
+      automatiquement à la pièce communiquée dans cette instance.
+      Une nouvelle version pertinente peut faire l'objet d'une notification
+      explicite au greffe, identifiant l'ancienne et la nouvelle référence.
+
+      4. Publicité de la démarche.
+      La documentation publique de la démarche est consultable sur :
+      https://github.com/JeanHuguesRobert/barons-Mariani
+      Cette publicité vise la transparence de la démarche et la traçabilité
+      des actes : dates, textes sources, transformations, objections, corrections
+      et éléments permettant de reconstruire le cheminement documentaire.
+      Les informations non publiques ou personnelles ne sont pas rendues
+      accessibles par ce principe.
+
+      5. Consultation web et contraintes de sécurité.
+      Les documents publics Markdown sur GitHub sont lisibles en pages web,
+      sans création de compte ni téléchargement volontaire d'un fichier
+      distinct. Leur consultation implique techniquement un échange de données
+      avec le serveur web ; l'accessibilité depuis le réseau du Conseil n'est
+      pas présumée. Le greffe a indiqué que des liens précédemment communiqués
+      étaient bloqués par ses pare-feu. La reproduction directe des deux mémoires
+      vise précisément à ne pas rendre leur lecture dépendante de ces liens.
+      Les URL sont fournies comme références supplémentaires de vérification.
+
+      6. Réseau documentaire et parcours récursif.
+      Les documents cités sont liés à d'autres sources du Corpus, qui peuvent
+      à leur tour renvoyer à d'autres textes : un parcours documentaire
+      récursif, sans obligation pour le Conseil d'en suivre tous les fils.
+      Une source simplement référencée n'est pas réputée produite
+      procéduralement par le seul fait de cette référence.
+
+      7. Méthode et stabilisation procédurale.
+      Le Révélateur rend visible une contradiction ou un écart entre capacité
+      annoncée et capacité effectivement disponible.
+      Le Stabilisateur procédural conserve des états et rend les transformations,
+      contradictions et corrections reconstructibles. Il est opérationnel :
+      sa robustesse ne présuppose pas la vertu ni la bonne volonté des acteurs.
+      La chaîne Git/GitHub fournit à cet égard un mécanisme de traçabilité des
+      modifications enregistrées, sous réserve de la préservation des objets
+      et des historiques. Les difficultés observées dans le fonctionnement
+      des canaux sont elles-mêmes des événements à documenter.
+
+      8. Sources complémentaires directement consultables.
+      Traçabilité des actes :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md
+      Généalogie de l'ordre, de la transparence et de la traçabilité :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/genealogie_ordre_transparence_traceabilite.md
+      Stabilisateur procédural et capacité distribuée :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md
+      Seconde Méthode :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/second_method.md
+      Reality Safety et stabilisateurs procéduraux :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/reality_safety_procedural_stabilizers.md
+      Ces références fournissent un contexte de méthode et non de nouvelles
+      pièces intégralement produites avec le présent courriel.
+
+      9. Contrôle de réception et demande au greffe.
+      Je vous remercie de bien vouloir confirmer la réception du présent
+      message, le rattachement de son contenu au dossier 2026-6589 SEN, et
+      le traitement distinct des deux mémoires QPC reproduits intégralement.
+      En cas de difficulté technique ou procédurale concernant le corps du
+      courriel, je vous remercie d'en préciser la nature et, le cas échéant,
+      le fondement et le canal alternatif approprié.
+
+      Cette communication et toute réponse utile seront documentées dans le
+      registre des interactions, avec distinction entre émission, réception
+      technique, accusé automatique et versement au dossier.
+
+      Jean Hugues Noël Robert
