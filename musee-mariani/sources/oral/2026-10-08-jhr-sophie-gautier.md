@@ -91,3 +91,28 @@ La mémoire doit néanmoins rester décomposée en niveaux :
 - **hypothèse séparée** : Pierre Mariani aurait auparavant pris soin de Sophie après qu'elle serait devenue orpheline.
 
 Cette configuration implique un lien familial/social durable sur plusieurs décennies entre Sophie Gautier et la branche Pierre → Marie-Louise, indépendamment de la filiation exacte de Sophie.
+
+## Témoin familial complémentaire — Ferdinand « Freddy » Pancrazy
+
+Jean Hugues indique que **Ferdinand Pancrazy**, dit **« Freddy »**, a bien connu Sophie Gautier.
+
+Selon cette mémoire familiale, Sophie Gautier était une **grande amatrice d’opéra**, avec un intérêt particulier pour **Maria Callas**. Cette fréquentation aurait contribué à introduire Freddy dans l’univers de l’opéra.
+
+La continuité relationnelle se prolonge à la génération suivante :
+
+- la fille de Freddy, **Éléonore**, évolue professionnellement ou durablement dans l’univers de l’opéra ;
+- Éléonore est la **marraine de Marie-Louise Isabelle Garance Robert** ;
+- Ferdinand « Freddy » Pancrazy en est le **parrain**.
+
+Cette information ne ferme pas la généalogie de Sophie Gautier, mais elle fournit un **témoin familial potentiellement direct** de sa vie, de sa personnalité et de son réseau relationnel.
+
+Pistes de collecte désormais prioritaires auprès de Freddy, si possible :
+
+1. nom complet et éventuels autres prénoms de Sophie Gautier ;
+2. âge approximatif / génération ;
+3. lieu de résidence ;
+4. nature de son lien avec Marie-Louise Mariani et Gaston d’Angelis ;
+5. souvenir de ses parents et d’un éventuel orphelinat ;
+6. souvenir de Pierre Mariani et d’une éventuelle prise en charge ;
+7. photographies, lettres, invitations, programmes d’opéra, dédicaces ou autres objets permettant de dater les relations ;
+8. date et lieu de décès éventuels.
