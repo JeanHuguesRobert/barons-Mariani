@@ -295,3 +295,101 @@ Le verrou est donc désormais **technique**, non documentaire.
   https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/consulter-les-tables-decennales
 - Geneanet — index Filippini/Fantauzzi :
   https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique&size=50
+
+
+## Remariage Fantauzzi–Mannes : remaillage du réseau familial
+
+La piste du remariage de **Marie-Émilie Fantauzzi**, veuve d'Antoine-Dominique-Thomas-Louis Filippini, produit un résultat structurel important.
+
+### 1. Identité du second mari
+
+Villa Flore donne :
+
+- **Paul William Mannes**, né le 8 septembre 1859 à Blida, mort le 28 mai 1936 à Paris ;
+- fils de **Joseph Adolphe Mannes** et **Elisa Letizia Pauline Peraldi** ;
+- mariage indiqué avec **Marie-Émilie Fantauzzi**, née le 14 avril 1864.
+
+Source :
+https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131197
+
+### 2. Confirmation indépendante du couple Mannes–Fantauzzi
+
+Une décision de la Cour suprême de Porto Rico, rendue en 1925 dans l'affaire `Fantauzzi v. Tesorero de Puerto Rico`, cite explicitement :
+
+- **Emilia Fantauzzi, assistée de son mari Paul William Mannes** ;
+- dans le même groupe familial, la succession de **Sofía Fantauzzi**, composée notamment de son veuf **Albert Mariani**.
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+Cette pièce judiciaire confirme donc indépendamment l'existence du couple **Emilia Fantauzzi × Paul William Mannes**.
+
+### 3. Indice explicite de veuvage Filippini
+
+L'index de presse de Geneanet pour *La Dépêche de Brest* du **4 décembre 1894** reproduit le fragment :
+
+> « ... est autorisé à épouser Mme Fantauzzi, veuve Filippini, de Paris ... »
+
+Ce fragment constitue un indice direct qu'une **Fantauzzi veuve Filippini**, domiciliée à Paris, est alors concernée par une autorisation à mariage.
+
+Source indexée :
+https://it.geneanet.org/fonds/bibliotheque/?go=1&nom=FANTAUZZI&page=5&prenom=&prenom_operateur=&size=100
+
+Le fragment public ne montre pas encore le nom du futur mari dans la même fenêtre OCR. Il ne suffit donc pas, seul, à identifier formellement Paul Mannes. Mais combiné à la source judiciaire de 1925 et à Villa Flore, il renforce fortement l'identification de Marie-Émilie Fantauzzi comme **veuve Filippini devenue épouse Mannes**.
+
+### 4. Le second mari appartient déjà au réseau Filippini–Mariani
+
+La généalogie secondaire Villa Flore donne :
+
+```text
+Michelangelo Filippini
+× Maria Scolastica Mariani
+├── Marie Jéromine Filippini (1819–1889)
+│   × Gio Gualberto Peraldi
+│   └── Elisa Peraldi (1838–)
+│       × Joseph Adolphe Mannes
+│       └── Paul William Mannes (1859–1936)
+│
+└── Michel Filippini (1821–)
+    × Madeleine Mariani (1826–1888)
+    └── Antoine-Dominique-Thomas-Louis Filippini (1852–1888)
+        × Marie-Émilie Fantauzzi
+```
+
+Ainsi, **Michel Filippini et Marie Jéromine Filippini sont frère et sœur**.
+
+Conséquence généalogique :
+
+- Antoine Filippini, fils de Michel ;
+- Elisa Peraldi, fille de Marie Jéromine ;
+
+sont **cousins germains**.
+
+Paul William Mannes, fils d'Elisa, est donc **cousin germain une fois retiré** d'Antoine Filippini.
+
+Si le remariage Fantauzzi–Mannes est fermé par l'acte primaire, Marie-Émilie aurait donc épousé après son veuvage **un parent du premier mari appartenant au même réseau Filippini–Peraldi–Mariani**.
+
+### 5. Interprétation bornée
+
+Ce cas suggère un phénomène de **remaillage familial** plutôt qu'une simple succession de mariages indépendants :
+
+```text
+réseau corse Mariani / Filippini / Peraldi
+→ premier mariage Filippini–Fantauzzi
+→ veuvage
+→ second mariage avec un Mannes déjà relié aux Filippini / Mariani
+```
+
+Ce constat reste généalogique. Il ne permet pas encore d'inférer les motivations matrimoniales, patrimoniales ou sociales.
+
+### 6. Discordance de date à résoudre
+
+Villa Flore indique le mariage Mannes–Fantauzzi au **30 avril 1894**, tandis que l'index de presse du **4 décembre 1894** parle encore d'une autorisation à épouser une « Mme Fantauzzi, veuve Filippini ».
+
+Plusieurs explications sont possibles : erreur de date dans une base, publication administrative postérieure, ou personne homonyme.
+
+Aucune ne doit être choisie sans l'acte de mariage.
+
+Statut global du remariage :
+
+> **TRÈS FORTEMENT CORROBORÉ — acte primaire et chronologie exacte encore à fermer.**
