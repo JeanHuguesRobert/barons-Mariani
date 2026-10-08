@@ -1,0 +1,45 @@
+schema: ubikia.text-product.v1
+title: "2026-6589 SEN — Note de provenance et mémoires QPC"
+# The literal opening is a draft; no TransferPro deposit or email transmission is claimed.
+# Immutable source ref reproduces the documents that existed when the initial PDF was prepared.
+sections:
+  - kind: literal
+    text: |
+      Objet : 2026-6589 SEN — Note de provenance et communication intégrale des deux mémoires QPC
+
+      Madame, Monsieur,
+
+      En réponse à votre demande du 7 octobre 2026 de communication « dans les plus brefs délais »,
+      la présente communication fournit directement en texte intégral les deux mémoires distincts
+      et motivés soulevés dans la requête relative aux élections sénatoriales de Haute-Corse.
+
+      Le dossier documentaire de la démarche est publiquement consultable :
+      https://github.com/JeanHuguesRobert/barons-Mariani
+
+      La transmission de la vidéo P-13 et de la copie intégrale du présent texte par TransfertPro
+      fera l'objet d'une indication distincte après vérification effective du dépôt. La présente
+      version de travail n'affirme aucun dépôt non constaté.
+
+      PREMIER MÉMOIRE — QPC relative à l'article L.303 du code électoral
+      Référence immuable :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/66f34d0cb32e94509988b6f83a87c8a215b3fb81/research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
+      Version vivante :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
+
+  - kind: github-verbatim
+    repository: JeanHuguesRobert/barons-Mariani
+    ref: 66f34d0cb32e94509988b6f83a87c8a215b3fb81
+    file: research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
+
+  - kind: literal
+    text: |
+      SECOND MÉMOIRE — QPC relative à l'article L.299 du code électoral
+      Référence immuable :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/66f34d0cb32e94509988b6f83a87c8a215b3fb81/research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+      Version vivante :
+      https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+
+  - kind: github-verbatim
+    repository: JeanHuguesRobert/barons-Mariani
+    ref: 66f34d0cb32e94509988b6f83a87c8a215b3fb81
+    file: research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
