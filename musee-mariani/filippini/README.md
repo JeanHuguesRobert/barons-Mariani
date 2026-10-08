@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.5"
+version: "0.6"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -545,3 +545,25 @@ Si l'identification veuve Filippini → épouse Mannes est fermée, l'acte du se
 - éventuellement la situation de l'enfant du premier mariage.
 
 La recherche de l'enfant et celle du remariage convergent donc désormais vers **le même acte pivot**.
+
+
+### Correctif — bornes du registre de décès 1888
+
+Un résultat Geneanet associé à **Antoine-Dominique-Thomas-Louis Filippini**, mort à Paris le 30 octobre 1888, affiche :
+
+```text
+Archives : 30 septembre 1888 (acte n° 1500)
+           14 novembre 1888 (acte n° 1731)
+```
+
+La comparaison avec plusieurs autres personnes décédées dans le même arrondissement et la même période montre que ces deux dates/numéros sont **les bornes du segment de registre indexé**, et non deux actes propres à Antoine Filippini.
+
+Des personnes décédées les 19, 24 et 30 octobre 1888 affichent exactement la même plage.
+
+Conséquence :
+
+- ne pas citer `acte 1500` ou `acte 1731` comme acte de décès d'Antoine ;
+- son **numéro d'acte exact reste à retrouver** ;
+- seule la date de décès du **30 octobre 1888** est actuellement utilisée dans le Corpus sur la base des sources secondaires convergentes.
+
+Ce correctif évite une fausse précision produite par l'interface d'indexation.
