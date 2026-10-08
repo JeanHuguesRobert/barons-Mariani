@@ -349,3 +349,34 @@ Statut : **PROBABLEMENT ÉTEINTE SELON MEURGEY — à corroborer**.
 Sources externes Tony :
 - Revue historique nobiliaire et biographique, mariage 1876 ;
 - synthèses famille Davillier / Man8Rove.
+
+
+## J. Contrôle externe — enfants du premier baron
+
+Une source généalogique secondaire indépendante du scan restitue plusieurs enfants d'**Antoine-Dominique Mariani (1776–1845)** qui n'avaient pas tous été fermés lors de la première lecture visuelle :
+
+- **Antoine Aimé Dominique Mariani (1825–1874)**, ép. Marie Eugénie de Monchy ;
+- **Marie-Madeleine Sophie Mariani (1826–1888)**, ép. Michel Louis Filippini ;
+- **Hyacinthe Louis Joseph Mariani (1827–1894)**, ép. Edmée de Louvencourt ;
+- **Sophie Ange Louise Mariani (1834–)**, ép. Jules Auguste Oscar Gautier ;
+- ainsi que Louis-Thomas et Louis-Hugues déjà documentés.
+
+Source secondaire de contrôle :
+https://man8rove.com/en/family/Mariany
+
+Cette source ne remplace pas Meurgey ni les actes. Elle sert à rouvrir les zones du tableau plié qui étaient mal lues ou non transcrites.
+
+### Hypothèse Gautier à tester
+
+Le passage [MEURGEY-1933 p. 2] cite en 1933 une **« Mlle Sophie Gautier »** parmi les représentants de la famille élargie.
+
+L'existence d'une fille du premier baron, **Sophie Ange Louise Mariani**, mariée à **Jules Auguste Oscar Gautier**, crée désormais une hypothèse généalogique naturelle :
+
+```text
+Sophie Ange Louise Mariani
+× Jules Auguste Oscar Gautier
+→ descendance Gautier
+→ ? Mlle Sophie Gautier citée en 1933
+```
+
+Le maillon intermédiaire n'est pas encore identifié : statut **HYPOTHÈSE À FERMER**, pas fait établi.
