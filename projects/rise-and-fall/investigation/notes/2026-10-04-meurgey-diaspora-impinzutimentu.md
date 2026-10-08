@@ -232,6 +232,8 @@ Le passage de cette maison dans le patrimoine communal doit être étudié sépa
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ## 6 quater. Troisième résultat — Fantauzzi / Fournier-Sarlovèze
 
+**Correctif généalogique :** les Fantauzzi étudiés ici sont, à ce stade, une **famille alliée** aux Mariani, non une descendance Mariani démontrée. Sophie Fantauzzi épouse Albert Mariani ; Antoine et Jules sont ses frères.
+
 La liste des représentants vivants donnée par Meurgey en 1933 ouvre une **alliance collatérale** qui montre une continuité patrimoniale et productive hors de Corse. La seconde lecture du Tableau I établit qu'Antoine et Jules Fantauzzi sont les frères de Sophie Fantauzzi, épouse d'Albert Mariani : ils ne doivent donc pas être comptés, par cette seule chaîne, comme descendants Mariani.
 
 Meurgey cite Jules Fantauzzi et ses enfants Michel et Janine. Les recherches publiques identifient Janine Fantauzzi (1917–2002), épouse de François Fournier-Sarlovèze (1896–1975). Une société agricole portant toujours le nom **SCEA FANTAUZZI** est active dans l'Oise en 2026. Ses documents sociaux indexés mentionnent une transmission par une Mme Fournier-Sarlovèze à « ses 2 enfants » ; la gouvernance contemporaine comprend des Fournier-Sarlovèze et une génération Drach. Ce cas documente donc un **réseau d'alliance et une continuité productive**, non une descendance Mariani directe.
@@ -241,7 +243,7 @@ La filiation précise des dirigeants contemporains depuis Janine reste **à ferm
 Ce cas introduit une dimension supplémentaire :
 
 ```text
-capacité familiale produite / issue d'un réseau corse
+capacité d'une famille alliée issue du même espace corse
 → implantation continentale
 → entreprise agricole durable
 → transmission intergénérationnelle hors Corse
@@ -258,7 +260,7 @@ Le cas Fantauzzi devient plus net encore : **Jules Fantauzzi est maire de Coudun
 Nous observons donc une séquence qui ne relève plus seulement de la mobilité individuelle :
 
 ```text
-branche issue d’un réseau familial corse
+famille alliée au réseau Mariani et issue du même espace corse
 → implantation économique dans l’Oise
 → direction d’activité productive
 → exercice du pouvoir municipal local
