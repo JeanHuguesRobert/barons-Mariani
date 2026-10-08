@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.4"
+version: "0.5"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -500,3 +500,48 @@ La convergence est **forte**, mais l'identité doit être fermée par :
 Villa Flore donne un mariage au **30 avril 1894** alors que la presse du **4 décembre 1894** semble annoncer une autorisation à mariage.
 
 Cette discordance reste ouverte et interdit de traiter la date Villa Flore comme acquise.
+
+
+### Annuaire parisien 1904 — Mannes lieutenant de vaisseau
+
+Un annuaire parisien de 1904 fournit un raccord particulièrement fort. L'OCR donne :
+
+> **MANNES / « MANE'S » (W.), lieutenant de vaisseau, et Mme née FANTAUZZI, 55 avenue des Champs-Élysées — 8e.**
+
+La graphie OCR est dégradée, mais l'ensemble `W. + Mannes + lieutenant de vaisseau + épouse née Fantauzzi` correspond exactement au couple **Paul William Mannes × Emilia Fantauzzi** nommé par la décision judiciaire portoricaine de 1925.
+
+Cette source est aussi très importante pour relire la coupure de *La Dépêche de Brest* du 4 décembre 1894 :
+
+> « … v., est autorisé à épouser Mme Fantauzzi, veuve Filippini, de Paris… »
+
+Le `v.` est compatible avec une fin d'abréviation **lieutenant de vaisseau**, ce qui rend désormais **très probable** que le futur mari tronqué dans l'index soit Mannes.
+
+### Qualification révisée
+
+Le couple :
+
+```text
+Marie-Émilie / Emilia Fantauzzi
+× Paul William Mannes
+```
+
+est désormais **PUBLIQUEMENT CONVERGENT** par au moins :
+
+1. annuaire parisien 1904 : W. Mannes, lieutenant de vaisseau, épouse née Fantauzzi ;
+2. décision de justice 1925 : Emilia Fantauzzi assistée de son mari Paul William Mannes.
+
+Ce qui reste ouvert n'est plus l'existence du couple, mais :
+
+- l'acte et la **date exacte** du mariage ;
+- la démonstration primaire que l'Emilia épouse Mannes est bien la veuve d'Antoine Filippini ;
+- la résolution de la discordance `30 avril 1894` / autorisation publiée en décembre 1894.
+
+### Conséquence pour l'enfant du premier lit
+
+Si l'identification veuve Filippini → épouse Mannes est fermée, l'acte du second mariage devient une source prioritaire susceptible de mentionner :
+
+- le veuvage d'Émilie ;
+- l'identité d'Antoine Filippini ;
+- éventuellement la situation de l'enfant du premier mariage.
+
+La recherche de l'enfant et celle du remariage convergent donc désormais vers **le même acte pivot**.
