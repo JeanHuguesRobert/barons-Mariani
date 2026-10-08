@@ -263,3 +263,18 @@ descendance Mariani
 ```
 
 Ce correctif n'enlève rien à l'intérêt sociologique de la trajectoire Fantauzzi ; il change seulement la nature généalogique du rattachement.
+
+
+### Piste Sophie Gautier
+
+La reconstitution externe du premier baron fait apparaître :
+
+```text
+Antoine-Dominique Mariani (1776–1845)
+→ Sophie Ange Louise Mariani (1834–)
+  × Jules Auguste Oscar Gautier (1817–)
+```
+
+Cette branche fournit une explication possible à la présence d'une **« Mlle Sophie Gautier »** dans la liste de 1933.
+
+La relation exacte n'est pas encore démontrée. La prochaine recherche doit identifier les enfants puis petits-enfants du couple Gautier–Mariani et tester si l'une d'elles correspond à la personne citée par Meurgey.
