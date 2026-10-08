@@ -40,7 +40,7 @@ review:
 | **Louis-Thomas → Essey Mariani** | capitaine d'infanterie, 1856–1891 ; aucun trait descendant sous son nœud | **PROBABLEMENT ÉTEINTE SELON MEURGEY** | probablement non | hors Corse / inconnu | graphie Essey confirmée sur scan ; aucune descendance publique trouvée ; état civil à corroborer |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
 | **Hyacinthe-Louis-Joseph → Albert × Sophie Fantauzzi → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | mariage Albert/Sophie corroboré ; aucune autre descendance attribuable avec certitude ; les personnes privées voisines dans les arbres publics ne sont pas reliées sans preuve topologique explicite |
-| **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : Geneanet indique explicitement 1 enfant ; Villa Flore dit seulement « aucun enfant enregistré » ; identité inconnue |
+| **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : 1 enfant indiqué par arbre Geneanet ET par index de naissances de Paris 9e ; Villa Flore dit seulement « aucun enfant enregistré » ; identité inconnue |
 
 ## Premier enseignement
 
@@ -248,3 +248,19 @@ Qualification affinée :
 > **1 enfant secondairement signalé — identité inconnue / à fermer.**
 
 Cette sous-branche devient donc prioritaire pour tester la survie de la descendance directe de **Marie-Madeleine Mariani**, fille du premier baron.
+
+
+### Index de naissance Paris 9e — Filippini/Fantauzzi
+
+Une collection d'état civil indexée par Geneanet fournit désormais un indice plus fort que l'arbre utilisateur seul.
+
+Le couple **Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi** y apparaît comme **parents** dans la collection des naissances de Paris, avec :
+
+- lieu : **Paris 9e** ;
+- nombre d'enfants : **1**.
+
+L'identité de l'enfant reste masquée dans l'interface publique.
+
+Le statut de la sous-branche passe donc de simple discordance `0/1` à :
+
+> **ENFANT TRÈS PROBABLE — INDEX D'ÉTAT CIVIL À EXTRAIRE.**
