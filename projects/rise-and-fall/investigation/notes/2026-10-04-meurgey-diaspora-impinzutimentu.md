@@ -284,6 +284,39 @@ L'exemple décisif est **Antoine et Jules Fantauzzi**, frères de Sophie Fantauz
 Le programme de recherche est corrigé en conséquence : chaque personne du snapshot 1933 doit recevoir un **type de relation** avant toute mesure de survie généalogique.
 
 Cette correction ne diminue pas la valeur sociologique des alliances : elle évite simplement de confondre **réseau familial** et **descendance biologique**.
+## 6 quinquies. Remaillage du réseau familial — cas Filippini / Fantauzzi / Mannes
+
+La recherche sur la descendance de Madeleine Mariani a révélé un mécanisme différent de la simple dispersion.
+
+Après le décès d’Antoine-Dominique-Thomas-Louis Filippini, son épouse Marie-Émilie Fantauzzi est très fortement corroborée comme remariée avec **Paul William Mannes**.
+
+Or Paul Mannes appartient déjà au réseau Filippini–Mariani par sa mère :
+
+```text
+Maria Scolastica Mariani × Michelangelo Filippini
+├── Michel Filippini
+│   └── Antoine Filippini
+└── Marie Jéromine Filippini
+    └── Elisa Peraldi
+        └── Paul William Mannes
+```
+
+Dans cette topologie secondaire, Paul Mannes est **cousin germain une fois retiré** d’Antoine Filippini.
+
+Le remariage suggère donc un **remaillage à l’intérieur d’un réseau familial élargi**, et non nécessairement une sortie hors réseau.
+
+Ce mécanisme candidat est important pour l’enquête :
+
+```text
+changement de patronyme
+ou remariage
+≠
+dissolution du réseau familial
+```
+
+Il reste à fermer par l’acte primaire du mariage Mannes–Fantauzzi avant de généraliser.
+
+Dossier : `musee-mariani/filippini/README.md`.
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
