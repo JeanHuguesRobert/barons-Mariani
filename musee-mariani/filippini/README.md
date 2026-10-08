@@ -448,3 +448,55 @@ autre branche Mariani → Filippini → Peraldi → Mannes
 Autrement dit : **recombinaison matrimoniale au sein d'un réseau familial corse élargi**, malgré les changements de patronymes et les implantations continentales.
 
 Statut : **HYPOTHÈSE FORTE — à fermer par acte de mariage Mannes × Fantauzzi**.
+
+
+### Niveau de preuve du remariage — mise au point du 9 octobre
+
+Le dossier dispose maintenant de **deux faits indépendants**, mais pas encore du maillon qui les identifie formellement comme concernant la même personne.
+
+#### Fait A — source judiciaire
+
+La décision `Fantauzzi v. Treasurer of Puerto Rico` publiée en 1925 nomme explicitement :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- la succession de **Sofia Fantauzzi**, représentée notamment par son veuf **Albert Mariani** ;
+- plusieurs autres membres de la famille Fantauzzi.
+
+Cette source établit donc solidement l'existence du couple **Emilia Fantauzzi × Paul William Mannes** dans le même réseau familial que Sophie/Sofia Fantauzzi × Albert Mariani.
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+#### Fait B — source de presse de 1894
+
+L'index OCR de *La Dépêche de Brest* du 4 décembre 1894 contient explicitement :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans une phrase d'autorisation à mariage.
+
+Source indexée Geneanet / Dépêche de Brest.
+
+#### Maillon encore absent
+
+Le nom du futur mari est coupé dans l'extrait actuellement accessible.
+
+On ne peut donc pas encore écrire comme fait :
+
+```text
+Mme Fantauzzi veuve Filippini (1894)
+=
+Emilia Fantauzzi épouse Paul William Mannes
+```
+
+La convergence est **forte**, mais l'identité doit être fermée par :
+
+1. l'acte de mariage Mannes × Fantauzzi ;
+2. ou la phrase complète de la Dépêche ;
+3. ou une source successorale/notariale nommant explicitement Émilie comme veuve Filippini puis épouse Mannes.
+
+### Discordance de date maintenue
+
+Villa Flore donne un mariage au **30 avril 1894** alors que la presse du **4 décembre 1894** semble annoncer une autorisation à mariage.
+
+Cette discordance reste ouverte et interdit de traiter la date Villa Flore comme acquise.
