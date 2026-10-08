@@ -175,6 +175,26 @@ La filiation exacte entre Janine et les dirigeants contemporains reste à fermer
 Ce cas ajoute à la « Corse furtive » une forme de furtivité économique : une capacité inscrite dans un **réseau familial et matrimonial corse** peut continuer à produire des effets hors de Corse sans être visible comme telle. Il ne doit pas être utilisé comme preuve de survie de la descendance Mariani.
 
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
+
+### De la diaspora à l’ancrage local ailleurs
+
+La branche Fantauzzi montre qu’une diaspora ne signifie pas nécessairement dispersion faible ou provisoire. Elle peut devenir **ancrage territorial complet ailleurs**.
+
+À Coudun (Oise), **Jules Fantauzzi a été maire de 1942 à 1945 et Gérard Fantauzzi de 1965 à 1971**. La SCEA Fantauzzi est encore active en 2026 dans le même espace régional.
+
+Le passage observé est donc :
+
+```text
+origine / alliance corse
+→ départ
+→ activité économique
+→ responsabilité civique
+→ transmission familiale
+→ capacité territoriale durable hors de Corse
+```
+
+DIASPORA doit donc cartographier non seulement les personnes « parties », mais aussi les **territoires où elles ont recréé de l’ancrage, du patrimoine, des institutions et de la capacité collective**.
+
 ### Correctif du Probe 3 — descendance et réseau d'alliance
 
 Le dépouillement du Tableau I impose une nouvelle variable dans DIASPORA :
