@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.3"
+version: "0.4"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -252,3 +252,46 @@ La discordance de dates doit être résolue par l'acte de mariage.
 Paul William Mannes appartient lui-même, selon Villa Flore, à un réseau corse Filippini / Peraldi relié à **Maria Scolastica Mariani**. Si le remariage est confirmé, il constituerait donc un nouvel exemple d'**endogamie élargie du réseau familial corse** plutôt qu'un simple départ hors réseau.
 
 Statut : **HYPOTHÈSE FORTE / REMARIAGE À FERMER PAR ACTE**.
+
+
+## Tentative de fermeture primaire — 9 octobre 2026
+
+La recherche de l'enfant **Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi** a été resserrée sur les sources primaires parisiennes.
+
+### Ce qui est désormais établi
+
+Geneanet indexe le couple comme **parents** dans la collection des naissances de Paris :
+
+- arrondissement : **Paris 9e** ;
+- période pertinente : après le mariage du 4 octobre 1883 et avant le décès du père le 30 octobre 1888 ;
+- **nombre d'enfants : 1**.
+
+Le prénom de l'enfant reste masqué dans l'interface publique de l'index.
+
+### Source primaire disponible mais non encore dépouillée
+
+Les Archives de Paris confirment que sont numérisés :
+
+- les **tables décennales de naissances 1860–1932** ;
+- les **actes d'état civil à partir de 1860** ;
+- les **fichiers des successions déclarées 1858–1899** ;
+- les **tables des décès et successions**.
+
+Le visualiseur des tables décennales repose sur une interface dynamique qui n'a pas exposé, dans l'environnement de recherche actuel, l'image du registre du 9e arrondissement permettant de lire directement l'entrée FILIPPINI.
+
+Le verrou est donc désormais **technique**, non documentaire.
+
+### Chemin de fermeture
+
+1. table décennale des naissances, Paris 9e, période couvrant 1883–1892 ;
+2. entrée `FILIPPINI` ;
+3. acte de naissance correspondant ;
+4. à défaut, succession d'Antoine Filippini après son décès du 30 octobre 1888 afin d'identifier son héritier mineur ;
+5. acte de remariage de Marie-Émilie Fantauzzi avec Paul William Mannes pour vérifier s'il mentionne le premier mariage et/ou l'enfant.
+
+### Sources
+
+- Archives de Paris — tables décennales :
+  https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/consulter-les-tables-decennales
+- Geneanet — index Filippini/Fantauzzi :
+  https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique&size=50
