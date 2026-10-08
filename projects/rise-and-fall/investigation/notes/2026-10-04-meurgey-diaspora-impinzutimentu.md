@@ -317,6 +317,29 @@ dissolution du réseau familial
 Il reste à fermer par l’acte primaire du mariage Mannes–Fantauzzi avant de généraliser.
 
 Dossier : `musee-mariani/filippini/README.md`.
+## 6 quinquies. Réseau plutôt que simple lignée
+
+Une piste émergente dans la branche Filippini suggère qu'il faut modéliser non seulement des lignées, mais des **recombinaisons de réseau**.
+
+Marie-Émilie Fantauzzi, veuve d'Antoine Filippini, est probablement la même Emilia Fantauzzi qui épouse ensuite Paul William Mannes. Or Paul Mannes descend lui-même, par sa mère Elisa Peraldi, d'une autre branche issue de **Maria Scolastica Mariani**.
+
+Le remariage n'est pas encore fermé par acte et reste donc au statut d'**hypothèse forte**.
+
+Mais le mécanisme candidat est déjà important :
+
+```text
+dispersion patronymique
+≠
+dissolution du réseau familial
+
+plusieurs branches apparemment séparées
+→ peuvent se reconnecter matrimonialement
+→ et maintenir une forte densité relationnelle hors du patronyme Mariani
+```
+
+Cette hypothèse invite à analyser le Corpus comme **graphe de relations** plutôt que comme arbre strictement descendant.
+
+Dossier : `musee-mariani/filippini/README.md`.
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
