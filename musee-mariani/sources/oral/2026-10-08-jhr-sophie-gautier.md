@@ -26,7 +26,7 @@ Jean Hugues Noël Robert rapporte le 8 octobre 2026 avoir **personnellement renc
 
 Il situe cette rencontre **chez Gaston d’Angelis** — cette lecture correspond à l'interprétation actuelle de la formulation orale/écrite et devra être corrigée si nécessaire.
 
-Au cours de cette rencontre, Jean Hugues et Sophie Gautier auraient évoqué **l'éventuel mariage de ses parents**.
+Au cours de cette rencontre, Jean Hugues et Sophie Gautier ont évoqué le fait que **sa mère ne s'était pas mariée**, sujet ancien dans la relation entre Sophie Gautier et sa grand-mère Marie-Louise.
 
 Jean Hugues rapporte également un souvenir familial selon lequel **Pierre Mariani**, père de sa grand-mère Marie-Louise Mariani, se serait occupé de Sophie Gautier à une certaine période parce qu'elle serait devenue **« orpheline »**.
 
@@ -73,3 +73,21 @@ La mémoire directe d'une Sophie Gautier encore présente dans le cercle familia
 4. rechercher une éventuelle tutelle, curatelle, pension, domiciliation ou correspondance impliquant Pierre Mariani ;
 5. rechercher dans les papiers familiaux d’Angelis / Mariani toute mention de Sophie Gautier ;
 6. rechercher si Gaston d’Angelis et Sophie Gautier entretenaient un lien de parenté ou seulement un lien familial/social.
+
+## Précision complémentaire — amitié avec Marie-Louise et brouille à la naissance de JHR
+
+Jean Hugues précise que **Sophie Gautier était une très bonne amie de sa grand-mère Marie-Louise Mariani épouse Robert**.
+
+Selon sa mémoire directe, une **brouille** se serait installée entre elles à la naissance de Jean Hugues, en 1965, précisément autour du fait que **sa mère Marguerite Robert n'était pas mariée**.
+
+Cette précision modifie le sens de la rencontre vers 1982–1984 : lorsque Sophie Gautier reparle avec Jean Hugues du mariage de ses parents, elle revient vraisemblablement sur un conflit familial ancien dont elle avait été directement partie prenante.
+
+La mémoire doit néanmoins rester décomposée en niveaux :
+
+- **fait mémoriel direct JHR** : Sophie Gautier était une très bonne amie de Marie-Louise ;
+- **fait mémoriel direct JHR** : elles se sont brouillées à la naissance de JHR autour du non-mariage de Marguerite ;
+- **fait mémoriel direct JHR** : Sophie en reparla avec lui lorsqu'il avait environ 17/18 ans ;
+- **hypothèse à vérifier** : la nature exacte du conflit, ses formulations précises, sa durée et les éventuelles traces écrites ;
+- **hypothèse séparée** : Pierre Mariani aurait auparavant pris soin de Sophie après qu'elle serait devenue orpheline.
+
+Cette configuration implique un lien familial/social durable sur plusieurs décennies entre Sophie Gautier et la branche Pierre → Marie-Louise, indépendamment de la filiation exacte de Sophie.
