@@ -40,7 +40,7 @@ review:
 | **Louis-Thomas → Essey Mariani** | capitaine d'infanterie, 1856–1891 ; aucun trait descendant sous son nœud | **PROBABLEMENT ÉTEINTE SELON MEURGEY** | probablement non | hors Corse / inconnu | graphie Essey confirmée sur scan ; aucune descendance publique trouvée ; état civil à corroborer |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
 | **Hyacinthe-Louis-Joseph → Albert × Sophie Fantauzzi → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | mariage Albert/Sophie corroboré ; aucune autre descendance attribuable avec certitude ; les personnes privées voisines dans les arbres publics ne sont pas reliées sans preuve topologique explicite |
-| **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : 1 enfant signalé par plusieurs index Geneanet, identité inconnue |
+| **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : Geneanet indique explicitement 1 enfant ; Villa Flore dit seulement « aucun enfant enregistré » ; identité inconnue |
 
 ## Premier enseignement
 
@@ -235,3 +235,16 @@ Le mariage de 1855 est confirmé dans les sources secondaires. Aucune descendanc
 **Albert Mariani × Sophie Fantauzzi**
 
 Le mariage est corroboré par Meurgey et des index parisiens. Le Tableau I montre Joseph Mariani (1901–1921). Aucune autre descendance du couple n'est fermée. Une base publique affiche d'autres Mariani privés à proximité, mais sans lien topologique explicite : ils restent exclus du graphe.
+
+
+### Renforcement Filippini — 8 octobre 2026
+
+La sous-branche **Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi** ne doit plus être présentée comme une simple symétrie entre deux sources équivalentes.
+
+Une fiche Geneanet structurée récente donne explicitement **« nombre d'enfants : 1 »**. Villa Flore indique seulement **« aucun enfant enregistré »**, ce qui décrit l'état de sa base et non une preuve de stérilité/postérité nulle.
+
+Qualification affinée :
+
+> **1 enfant secondairement signalé — identité inconnue / à fermer.**
+
+Cette sous-branche devient donc prioritaire pour tester la survie de la descendance directe de **Marie-Madeleine Mariani**, fille du premier baron.
