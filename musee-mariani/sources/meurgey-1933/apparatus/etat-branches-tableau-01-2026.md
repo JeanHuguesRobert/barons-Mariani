@@ -39,7 +39,7 @@ review:
 | **Louis-Thomas → Madeleine Mariani → d’Adhémar** | deux filles : Thérèse et Blanche | **SUBSISTANTE** | non | **LIEN CORSE UNKNOWN** | continuation établie vers Girot de Langlade, Hainguerlot, Terlinden, Compagnon |
 | **Louis-Thomas → Essey Mariani** | capitaine d'infanterie, 1856–1891 ; aucun trait descendant sous son nœud | **PROBABLEMENT ÉTEINTE SELON MEURGEY** | probablement non | hors Corse / inconnu | graphie Essey confirmée sur scan ; aucune descendance publique trouvée ; état civil à corroborer |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
-| **Hyacinthe-Louis-Joseph → Albert → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | Meurgey ne montre pas d'autre descendant ; une base publique affiche par ailleurs d'autres Mariani privés mais sans relation topologique suffisamment explicite avec Albert : ne pas les rattacher sans preuve |
+| **Hyacinthe-Louis-Joseph → Albert × Sophie Fantauzzi → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | mariage Albert/Sophie corroboré ; aucune autre descendance attribuable avec certitude ; les personnes privées voisines dans les arbres publics ne sont pas reliées sans preuve topologique explicite |
 | **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : 1 enfant signalé par plusieurs index Geneanet, identité inconnue |
 
 ## Premier enseignement
@@ -219,3 +219,19 @@ Le premier baron a également un fils :
 **Antoine Aimé Dominique Mariani (1825–1874)**, capitaine au régiment de lanciers de la Garde impériale, époux en 1862 de **Marie Eugénie de Monchy (1824–1883)**.
 
 La postérité de ce couple n'est pas encore reconstruite dans le Corpus et devient une priorité de la suite 1933→2026.
+
+### Mise à jour 8 octobre 2026 — Monchy, Gautier, Albert
+
+Trois fermetures partielles ont été tentées par recherche publique ciblée.
+
+**Antoine Aimé Dominique Mariani × Marie Eugénie de Monchy**
+
+Les bases consultées affichent le couple mais aucune descendance. Aucune autre source publique trouvée ne fournit d'enfant. Statut : **POSTÉRITÉ NON TROUVÉE / EXTINCTION POSSIBLE**, sans conclure à l'extinction.
+
+**Sophie Ange Louise Mariani × Jules Auguste Oscar Gautier**
+
+Le mariage de 1855 est confirmé dans les sources secondaires. Aucune descendance intermédiaire suffisamment identifiable n'a été retrouvée pour relier le couple à la **« Mlle Sophie Gautier »** citée par Meurgey en 1933. L'hypothèse reste donc ouverte.
+
+**Albert Mariani × Sophie Fantauzzi**
+
+Le mariage est corroboré par Meurgey et des index parisiens. Le Tableau I montre Joseph Mariani (1901–1921). Aucune autre descendance du couple n'est fermée. Une base publique affiche d'autres Mariani privés à proximité, mais sans lien topologique explicite : ils restent exclus du graphe.
