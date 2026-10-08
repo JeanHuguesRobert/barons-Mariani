@@ -227,6 +227,21 @@ départ / changement de nom / remariage
 DIASPORA doit donc représenter non seulement les nœuds dispersés, mais aussi **les liens qui persistent ou se reforment entre eux**.
 
 Ce cas reste à fermer par l’acte primaire du mariage Mannes–Fantauzzi avant toute généralisation.
+### La diaspora comme réseau recombiné
+
+Le dépouillement Filippini / Fantauzzi / Peraldi / Mannes suggère une forme de continuité moins visible que la simple transmission du patronyme.
+
+Une hypothèse forte — encore à fermer par acte — relie la veuve d'Antoine Filippini, Marie-Émilie Fantauzzi, à Paul William Mannes. Or Mannes descend lui-même d'une autre branche du réseau Mariani via **Maria Scolastica Mariani → Filippini → Peraldi**.
+
+Si elle est confirmée, cette configuration montre que la diaspora peut conserver une **densité de réseau** malgré la dispersion géographique et les changements de noms :
+
+```text
+les noms divergent
+les lieux divergent
+mais le réseau relationnel peut se recombiner
+```
+
+DIASPORA doit donc pouvoir représenter non seulement `qui descend de qui`, mais aussi `quelles branches se reconnectent`, `où`, `par quelles alliances` et `avec quelles capacités ou patrimoines`.
 ## Méthode : révéler sans inventer
 
 ~~~text
