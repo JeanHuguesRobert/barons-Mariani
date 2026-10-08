@@ -86,7 +86,7 @@ Plusieurs index Geneanet distincts attribuent au couple **un enfant**, mais l'id
 
 Cette différence doit être traitée comme une discordance documentaire, pas comme une extinction.
 
-Statut : **DISCORDANT — 0/1 enfant ; identité à retrouver**.
+Statut : **ENFANT TRÈS PROBABLE / INDEX D'ÉTAT CIVIL — identité à retrouver**.
 
 Source de contrôle : https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique
 
@@ -164,3 +164,33 @@ une autre prouve qu'il n'y en a pas
 Le poids probatoire s'incline donc légèrement vers **l'existence d'un enfant**, sans permettre encore son intégration au graphe canonique.
 
 Statut : **1 ENFANT SECONDAIREMENT SIGNALÉ — IDENTITÉ INCONNUE / À FERMER**.
+
+
+### Index d’état civil parisien — renforcement supplémentaire
+
+La recherche ne repose plus uniquement sur un arbre utilisateur.
+
+Geneanet indexe également une entrée de la collection **« Paris, France, Naissances entre 1850 et 1900 »** pour :
+
+- **FILIPPINI Antoine Dominique Thomas Louis** ;
+- conjoint / autre parent : **FANTAUZZI Marie Emilie** ;
+- relation : **Parent** ;
+- lieu : **Paris 9e** ;
+- **nombre d'enfants : 1**.
+
+La graphie OCR de Fantauzzi est parfois déformée (`FANTAAURRI` / `Marie Emelie`), mais le couple et le contexte correspondent.
+
+L'identité de l'enfant n'est pas exposée dans le résultat public consultable sans abonnement.
+
+Conséquence probatoire :
+
+```text
+arbre Geneanet kalliste13 : 1 enfant
++
+index d'acte de naissance Paris 9e : 1 enfant
+→ existence d'au moins un enfant sensiblement renforcée
+```
+
+Statut révisé : **ENFANT TRÈS PROBABLE / INDEX D'ÉTAT CIVIL — IDENTITÉ À EXTRAIRE**.
+
+La prochaine étape n'est plus de démontrer l'existence d'un enfant, mais d'obtenir son **nom, sa date de naissance et l'acte correspondant**.
