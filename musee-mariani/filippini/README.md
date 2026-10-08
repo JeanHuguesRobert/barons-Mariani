@@ -393,3 +393,58 @@ Aucune ne doit être choisie sans l'acte de mariage.
 Statut global du remariage :
 
 > **TRÈS FORTEMENT CORROBORÉ — acte primaire et chronologie exacte encore à fermer.**
+
+
+## Recombinaison du réseau Mariani — piste Mannes / Peraldi
+
+La recherche sur le remariage probable de **Marie-Émilie Fantauzzi**, veuve d'Antoine-Dominique-Thomas-Louis Filippini, fait apparaître un point structurel important.
+
+Villa Flore donne :
+
+```text
+Maria Scolastica Mariani (1787–)
+× Michelangelo Filippini
+→ Marie Jéromine Filippini (1819–1889)
+  × Gio Gualberto Peraldi
+  → Elisa Peraldi (1838–)
+    × Joseph Adolphe Mannes
+    → Paul William Mannes (1859–1936)
+```
+
+Paul William Mannes épouse selon Villa Flore **Marie-Émilie Fantauzzi (née en 1864)**.
+
+D'autre part :
+
+- une décision de la Cour suprême de Porto Rico de 1925 cite **Emilia Fantauzzi, assistée de son mari Paul William Mannes**, dans le même groupe familial que la succession de **Sofia Fantauzzi, veuve représentée par Albert Mariani** ;
+- un index de presse de *La Dépêche de Brest* du 4 décembre 1894 contient la formule **« Mme Fantauzzi, veuve Filippini, de Paris »**, dans le contexte d'une autorisation à mariage.
+
+La convergence rend forte l'hypothèse que la veuve Filippini est la Marie-Émilie Fantauzzi devenue épouse Mannes.
+
+### Mais la date reste discordante
+
+Villa Flore donne un mariage Mannes–Fantauzzi au **30 avril 1894**, alors que l'article du **4 décembre 1894** parle encore d'une autorisation à épouser une veuve Filippini.
+
+Cette discordance interdit de canoniser le remariage tant que l'acte n'est pas retrouvé.
+
+### Conséquence analytique si l'identité est confirmée
+
+Le schéma ne serait pas :
+
+```text
+veuve issue du réseau Mariani
+→ remariage totalement extérieur
+```
+
+mais plutôt :
+
+```text
+branche Mariani → Filippini
+        ↘
+         Marie-Émilie Fantauzzi
+        ↗
+autre branche Mariani → Filippini → Peraldi → Mannes
+```
+
+Autrement dit : **recombinaison matrimoniale au sein d'un réseau familial corse élargi**, malgré les changements de patronymes et les implantations continentales.
+
+Statut : **HYPOTHÈSE FORTE — à fermer par acte de mariage Mannes × Fantauzzi**.
