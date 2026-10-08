@@ -264,3 +264,27 @@ L'identité de l'enfant reste masquée dans l'interface publique.
 Le statut de la sous-branche passe donc de simple discordance `0/1` à :
 
 > **ENFANT TRÈS PROBABLE — INDEX D'ÉTAT CIVIL À EXTRAIRE.**
+
+
+### Remaillage Fantauzzi–Mannes — 9 octobre 2026
+
+La recherche sur l'enfant Filippini–Fantauzzi a ouvert une piste collatérale structurante.
+
+Après le décès d'Antoine Filippini en 1888, Marie-Émilie Fantauzzi est très fortement corroborée comme épouse de **Paul William Mannes**.
+
+Or Paul Mannes appartient lui-même au réseau familial :
+
+```text
+Maria Scolastica Mariani × Michelangelo Filippini
+├── Michel Filippini
+│   └── Antoine Filippini × Émilie Fantauzzi
+└── Marie Jéromine Filippini
+    └── Elisa Peraldi
+        └── Paul William Mannes
+```
+
+Paul Mannes est donc, selon cette généalogie secondaire, **cousin germain une fois retiré du premier mari d'Émilie**.
+
+Ce résultat renforce l'idée que les alliances étudiées forment un **graphe familial fortement remaillé**, dans lequel un changement de patronyme ou un remariage ne signifie pas nécessairement sortie du réseau.
+
+L'acte primaire du mariage Mannes–Fantauzzi reste requis avant canonisation complète.
