@@ -210,6 +210,23 @@ descendance
 La liste des « représentants » de Meurgey mélange ces catégories. Le graphe DIASPORA devra donc conserver le **type de relation** au lieu de transformer tout membre du réseau familial en descendant.
 
 Cette distinction est particulièrement importante pour l'étude des capacités distribuées : un beau-frère, un neveu par alliance ou une famille alliée peuvent participer à un même réseau de circulation de capital, de métiers ou de patrimoine sans partager la même descendance.
+### Remaillage plutôt que simple dispersion
+
+Une diaspora familiale n’est pas nécessairement une suite d’individus qui se séparent du réseau d’origine.
+
+Le cas Filippini–Fantauzzi–Mannes montre un motif plus dense : après veuvage, Marie-Émilie Fantauzzi se remarie très probablement avec Paul William Mannes, lui-même apparenté à son premier mari par la branche Filippini–Peraldi–Mariani.
+
+Le graphe devient alors :
+
+```text
+départ / changement de nom / remariage
+→ maintien de relations internes au réseau
+→ remaillage de branches déjà apparentées
+```
+
+DIASPORA doit donc représenter non seulement les nœuds dispersés, mais aussi **les liens qui persistent ou se reforment entre eux**.
+
+Ce cas reste à fermer par l’acte primaire du mariage Mannes–Fantauzzi avant toute généralisation.
 ## Méthode : révéler sans inventer
 
 ~~~text
