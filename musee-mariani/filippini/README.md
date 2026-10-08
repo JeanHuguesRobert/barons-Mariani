@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.7"
+version: "0.8"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -606,3 +606,21 @@ Sources susceptibles de fermer le maillon, par ordre de valeur :
 4. acte de second mariage d'Émilie Fantauzzi ;
 5. succession / inventaire après décès d'Antoine Filippini ;
 6. arbre `corsica4` de Laurent Brys, à titre secondaire/provenance.
+
+
+### Faux positif éliminé — Angèle Joséphine Justinienne Filippini
+
+Une candidate chronologiquement compatible a été testée :
+
+- **Angèle Joséphine Justinienne Filippini** ;
+- née le **8 avril 1887** ;
+- décédée à Montrouge le **4 novembre 1987**.
+
+Les index INSEE réexposés par GénéaFrance donnent toutefois son lieu de naissance comme **Pruno (Haute-Corse)**.
+
+Elle ne peut donc pas être l'enfant indexé à **Paris 9e** du couple Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi.
+
+Statut : **FAUX POSITIF ÉLIMINÉ**.
+
+Source de contrôle :
+https://geneafrance.com/?i=2B252
