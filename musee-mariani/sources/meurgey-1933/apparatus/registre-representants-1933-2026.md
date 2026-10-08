@@ -137,7 +137,7 @@ La recherche publique permet désormais de fixer plusieurs jalons indépendants 
 
 La convergence rend **très probable** que Robert et Bénédicte soient les deux enfants de Janine Fantauzzi et François Fournier-Sarlovèze. Le Corpus ne transforme cependant pas cette convergence en filiation canonique avant lecture de l'acte notarié ou d'une source familiale/état civil explicite.
 
-Ce cas est déjà significatif sur le plan territorial : un rameau descendant des alliances Mariani possède une **continuité patrimoniale et entrepreneuriale agricole observable dans l’Oise jusque 2026**, sous des patronymes devenus Fournier-Sarlovèze puis, pour une partie, Drach.
+Ce cas est déjà significatif sur le plan territorial : une famille alliée aux Mariani possède une **continuité patrimoniale et entrepreneuriale agricole observable dans l’Oise jusque 2026**, sous des patronymes devenus Fournier-Sarlovèze puis, pour une partie, Drach.
 
 Sources publiques de contrôle :
 - https://www.societe.com/societe/scea-fantauzzi-325019834.html
@@ -241,3 +241,25 @@ Sources :
 - https://www.pappers.fr/entreprise/scea-fantauzzi-325019834
 - https://www.societe.com/societe/scea-fantauzzi-325019834.html
 - données INSEE / annuaire entreprises réexposées par Peppol.
+
+## Correctif — alliance Fantauzzi ≠ descendance Mariani démontrée
+
+La reconstitution précise de la fratrie Fantauzzi impose de distinguer **alliance** et **descendance**.
+
+Joseph Fantauzzi (1832–1905) et Louise Gautier ont notamment :
+
+- Sophie Fantauzzi (1879–1913), épouse **Albert Mariani** ;
+- Antoine Mathieu Fantauzzi (1880–1957) ;
+- Jules Fantauzzi (né en 1881).
+
+Antoine et Jules sont donc, en l'état de la preuve, **frères de l'épouse d'Albert Mariani**. Ils appartiennent au réseau familial/alliance traité par Meurgey, mais ne doivent pas être présentés comme descendants d'Antoine-Dominique Mariani sans autre filiation démontrée.
+
+La formule correcte est :
+
+```text
+famille alliée aux Mariani
+≠
+descendance Mariani
+```
+
+Ce correctif n'enlève rien à l'intérêt sociologique de la trajectoire Fantauzzi ; il change seulement la nature généalogique du rattachement.
