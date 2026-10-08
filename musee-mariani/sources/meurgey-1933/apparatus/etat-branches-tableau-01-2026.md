@@ -188,3 +188,34 @@ Statut : **UNKNOWN**, pas « sans postérité ».
 Plusieurs résultats Geneanet récents indiquent **1 enfant**, alors que Villa Flore n'enregistre aucun enfant.
 
 Statut : **DISCORDANT 0/1 enfant**. Cette sous-branche interdit à elle seule de conclure à l'extinction de toute la descendance Filippini.
+
+
+## Branche Gautier — piste ouverte
+
+Le contrôle externe du Tableau I fait apparaître :
+
+```text
+Antoine-Dominique Mariani (1776–1845)
+→ Sophie Ange Louise Mariani (1834–)
+  × 1855 Jules Auguste Oscar Gautier (1817–)
+```
+
+Meurgey cite en 1933 une **« Mlle Sophie Gautier »** parmi les représentants vivants de la famille élargie.
+
+Hypothèse candidate :
+
+```text
+Sophie Ange Louise Mariani
+→ descendance Gautier
+→ Mlle Sophie Gautier (vivante en 1933)
+```
+
+Cette chaîne n'est pas encore fermée. Le statut reste **HYPOTHÈSE FORTE / À DOCUMENTER**.
+
+## Branche Antoine Aimé Dominique — piste ouverte
+
+Le premier baron a également un fils :
+
+**Antoine Aimé Dominique Mariani (1825–1874)**, capitaine au régiment de lanciers de la Garde impériale, époux en 1862 de **Marie Eugénie de Monchy (1824–1883)**.
+
+La postérité de ce couple n'est pas encore reconstruite dans le Corpus et devient une priorité de la suite 1933→2026.
