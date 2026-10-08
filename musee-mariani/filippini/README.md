@@ -3,8 +3,8 @@ title: "Dossier Filippini"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-08"
-version: "0.2"
+last_modified_at: "2026-10-09"
+version: "0.3"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -194,3 +194,61 @@ index d'acte de naissance Paris 9e : 1 enfant
 Statut révisé : **ENFANT TRÈS PROBABLE / INDEX D'ÉTAT CIVIL — IDENTITÉ À EXTRAIRE**.
 
 La prochaine étape n'est plus de démontrer l'existence d'un enfant, mais d'obtenir son **nom, sa date de naissance et l'acte correspondant**.
+
+
+## Piste Laurent Brys / `corsica4` — provenance de recherche ancienne
+
+Les archives Gmail de JHR montrent qu'entre **2004 et 2006**, Laurent Brys travaillait déjà activement sur cette généalogie et demandait précisément à JHR les documents qu'il lui avait montrés/lus concernant **Michel Filippini**.
+
+Brys avait alors publié un arbre Geneanet sous l'identifiant `corsica4`. Cet arbre est encore accessible en 2026 et comporte environ 12 500 individus.
+
+Cette piste est importante pour la provenance :
+
+```text
+documents familiaux JHR
+→ consultation par Laurent Brys dès 2004
+→ arbre corsica4
+→ éventuelles filiations secondaires réutilisées ensuite par d'autres bases
+```
+
+Il faut donc éviter de traiter plusieurs arbres dérivés de `corsica4` comme autant de sources indépendantes si leur information remonte au même document familial initial.
+
+À ce stade, le moteur public de Geneanet n'a pas encore exposé l'enfant Antoine Filippini × Marie-Émilie Fantauzzi dans `corsica4`.
+
+## Piste de remariage de Marie-Émilie Fantauzzi
+
+Plusieurs sources secondaires font apparaître une **Marie-Émilie Fantauzzi / Fautauzzi**, née en **1864**, épouse de **Paul William Mannes (1859–1936)**.
+
+Une décision de la Cour suprême de Porto Rico de 1925 cite explicitement :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- dans la même procédure, la succession de **Sofia Fantauzzi**, composée de son veuf **Albert Mariani** ;
+- d'autres membres Fantauzzi liés aux intérêts de `Sucesores de C. y J. Fantauzzi`.
+
+Une source de presse indexée par Geneanet, *La Dépêche de Brest* du 4 décembre 1894, contient en outre la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans le contexte d'une autorisation à mariage.
+
+Cette convergence rend **probable** l'identification :
+
+```text
+Marie-Émilie Fantauzzi
+× 1883 Antoine Filippini
+→ veuve en 1888
+× ? Paul William Mannes
+```
+
+Mais deux points empêchent encore de la canoniser :
+
+1. Villa Flore donne un mariage Mannes–Fantauzzi au **30 avril 1894** ;
+2. l'article du **4 décembre 1894** parle encore d'une autorisation à épouser une « veuve Filippini ».
+
+La discordance de dates doit être résolue par l'acte de mariage.
+
+### Intérêt supplémentaire
+
+Paul William Mannes appartient lui-même, selon Villa Flore, à un réseau corse Filippini / Peraldi relié à **Maria Scolastica Mariani**. Si le remariage est confirmé, il constituerait donc un nouvel exemple d'**endogamie élargie du réseau familial corse** plutôt qu'un simple départ hors réseau.
+
+Statut : **HYPOTHÈSE FORTE / REMARIAGE À FERMER PAR ACTE**.
