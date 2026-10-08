@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-08"
 last_modified_at: "2026-10-08"
-version: "0.2"
+version: "0.3"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -78,3 +78,13 @@ Vers 1982–1984, Sophie Gautier reparla avec Jean Hugues de cette question. Cet
 Ce lien est important parce qu'il montre que Sophie Gautier n'était pas une simple cousine lointaine repérée dans un tableau : elle appartenait au **cercle relationnel intime de Marie-Louise**.
 
 La filiation exacte de Sophie reste toutefois indépendante de cette proximité sociale et doit encore être démontrée.
+
+## Ferdinand « Freddy » Pancrazy — témoin potentiel
+
+Jean Hugues rapporte que **Ferdinand « Freddy » Pancrazy** a bien connu Sophie Gautier.
+
+Sophie était passionnée d’opéra et particulièrement de **Maria Callas** ; elle aurait contribué à faire entrer Freddy dans cet univers.
+
+La relation familiale se prolonge par la génération suivante : **Éléonore**, fille de Freddy, évolue dans le monde de l’opéra et est marraine de Marie-Louise Isabelle Garance Robert ; Freddy en est le parrain.
+
+Ce témoin devient une source orale potentiellement majeure pour identifier Sophie Gautier et documenter son réseau relationnel.
