@@ -27,3 +27,7 @@ MAR-ALBERT-1872	parent_de	MAR-JOSEPH-1901	secondaire	MEURGEY-TABLEAU-I
 FAN-SOPHIE-1879	parent_de	MAR-JOSEPH-1901	secondaire	MEURGEY-TABLEAU-I
 MAR-SOPHIE-ANGE-1834	conjoint_de	GAU-JULES-1817	secondaire	MAN8ROVE	mariage indiqué 1855
 MAR-ANTOINE-AIME-1825	conjoint_de	MON-MARIE-EUGENIE-1824	secondaire	MAN8ROVE	mariage indiqué 1862
+FIL-MICHEL-1821	parent_de	FIL-ANTOINE-1852	secondaire_convergent	GENEANET+VILLAFLORE	
+MAR-MARIE-MADELEINE-1826	parent_de	FIL-ANTOINE-1852	secondaire_convergent	GENEANET+VILLAFLORE	
+FIL-ANTOINE-1852	conjoint_de	FAN-EMILIE-1864	secondaire_convergent	GENEANET	mariage indiqué 4 octobre 1883
+FAN-EMILIE-1864	conjoint_de	MAN-PAUL-1859	public_convergent	PARIS-DIRECTORY-1904+PR-SUPREME-COURT-1925	couple établi; date de mariage secondaire discordante à fermer
