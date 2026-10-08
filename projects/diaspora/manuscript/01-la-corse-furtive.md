@@ -166,6 +166,8 @@ personnes / descendants ailleurs
 Dossier source : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
 ### Troisième résultat du Probe 3 — Fantauzzi / Fournier-Sarlovèze
 
+**Précision généalogique :** les Fantauzzi constituent ici une **famille alliée** aux Mariani. Leur intérêt pour DIASPORA est comparatif et relationnel ; ils ne sont pas présentés comme descendants Mariani tant qu'une telle filiation n'est pas démontrée.
+
 La liste des « représentants » donnée par Meurgey en 1933 permet de suivre une **constellation alliée Fantauzzi** devenue continentale sans perdre toute continuité patrimoniale. La seconde lecture du Tableau I montre qu'Antoine et Jules Fantauzzi sont frères de Sophie Fantauzzi, épouse d'Albert Mariani : ils sont ici des collatéraux par alliance, pas des descendants Mariani.
 
 Janine Fantauzzi (1917–2002), fille de Jules Fantauzzi, épouse François Fournier-Sarlovèze. Une **SCEA Fantauzzi** est encore active dans l'Oise en 2026 ; sa documentation publique montre une transmission familiale et une gouvernance actuelle par des Fournier-Sarlovèze et Drach.
@@ -185,7 +187,7 @@ La branche Fantauzzi montre qu’une diaspora ne signifie pas nécessairement di
 Le passage observé est donc :
 
 ```text
-origine / alliance corse
+famille corse alliée
 → départ
 → activité économique
 → responsabilité civique
