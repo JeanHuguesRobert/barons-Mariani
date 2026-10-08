@@ -3,8 +3,8 @@ title: "Dossier Filippini"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-07"
-version: "0.1"
+last_modified_at: "2026-10-08"
+version: "0.2"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -113,3 +113,54 @@ Qualification globale : **SURVIE 2026 UNKNOWN — extinction non démontrée**.
 3. rechercher une succession/nécrologie de Marie-Thérèse Filippini épouse Saint-Saud ;
 4. fermer la filiation de Michel Louis Filippini vers Maria Scolastica Mariani ;
 5. seulement ensuite statuer sur l'extinction ou la subsistance en 2026.
+
+
+## Renforcement du 8 octobre 2026 — Antoine × Émilie
+
+La discordance `0/1 enfant` est désormais mieux caractérisée.
+
+### Source positive
+
+L'arbre Geneanet `kalliste13`, mis à jour le 1er octobre 2026, donne explicitement :
+
+- **Antoine-Dominique-Thomas-Louis Filippini**, né à Corte le 30 mars 1852 ;
+- mariage le **4 octobre 1883** avec **Marie-Émilie Fantauzzi** ;
+- décès à Paris le **30 octobre 1888** ;
+- **nombre d'enfants : 1** ;
+- parents : Michel Louis Filippini × Marie-Magdeleine Sophie Mariani.
+
+Cette indication apparaît dans les résultats indexés Geneanet mais l'identité de l'enfant reste masquée/non exposée publiquement.
+
+Source :
+https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique&size=50
+
+### Source négative
+
+Villa Flore affiche le même couple mais indique :
+
+> « Aucun enfant enregistré »
+
+Source :
+https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8216
+
+Cette formulation signifie seulement qu'aucun enfant n'est enregistré dans cette base ; elle ne constitue pas une affirmation explicite « sans postérité ».
+
+### Qualification
+
+Le différentiel doit donc être formulé ainsi :
+
+```text
+Geneanet : 1 enfant explicitement déclaré
+Villa Flore : 0 enfant enregistré
+```
+
+et non :
+
+```text
+une source dit 1 enfant
+une autre prouve qu'il n'y en a pas
+```
+
+Le poids probatoire s'incline donc légèrement vers **l'existence d'un enfant**, sans permettre encore son intégration au graphe canonique.
+
+Statut : **1 ENFANT SECONDAIREMENT SIGNALÉ — IDENTITÉ INCONNUE / À FERMER**.
