@@ -250,6 +250,24 @@ capacité familiale produite / issue d'un réseau corse
 Il ne démontre pas pourquoi cette capacité s'est implantée hors de Corse, mais il rend le déplacement territorial du capital observable.
 
 Dossier de travail : `musee-mariani/sources/meurgey-1933/apparatus/registre-representants-1933-2026.md`.
+
+### Ancrage civique extérieur : Coudun
+
+Le cas Fantauzzi devient plus net encore : **Jules Fantauzzi est maire de Coudun de 1942 à 1945, puis Gérard Fantauzzi de 1965 à 1971**.
+
+Nous observons donc une séquence qui ne relève plus seulement de la mobilité individuelle :
+
+```text
+branche issue d’un réseau familial corse
+→ implantation économique dans l’Oise
+→ direction d’activité productive
+→ exercice du pouvoir municipal local
+→ transmission patrimoniale et entrepreneuriale
+→ SCEA toujours active en 2026
+```
+
+C’est un cas particulièrement intéressant de **reterritorialisation de capacité** : la capacité familiale ne disparaît pas ; elle devient capacité d’un autre territoire.
+
 ### Correctif épistémique — le registre Meurgey n'est pas un registre de descendants
 
 La phrase de 1933 « Les Mariani sont aujourd'hui représentés par… » a d'abord été utilisée comme snapshot nominatif. La reconstruction topologique du Tableau I montre désormais que cette liste mélange :
