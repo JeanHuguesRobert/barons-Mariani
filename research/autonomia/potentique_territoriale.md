@@ -363,6 +363,35 @@ Le départ ne doit donc pas être classé automatiquement comme perte potentique
 
 La généalogie des alliances Mariani fournit une petite échelle très documentée ; elle ne doit être généralisée à la Corse qu'après comparaison avec des données indépendantes.
 
+## 9 ter. Reterritorialisation ailleurs — cas Fantauzzi / Coudun
+
+Le dossier Fantauzzi fournit un exemple empirique de **reterritorialisation de capacité** hors de Corse.
+
+Qualification généalogique : il s'agit d'une **famille alliée aux Mariani**, non d'une descendance Mariani démontrée.
+
+Faits actuellement documentés :
+
+- Joseph Fantauzzi, originaire de Morsiglia, est ensuite documenté à Paris puis Coudun ;
+- la sucrerie de Coudun est rachetée en 1896 par Joseph Fantauzzi puis transmise à plusieurs membres de la famille ;
+- Jules Fantauzzi dirige la sucrerie et devient maire de Coudun de 1942 à 1945 ;
+- Gérard Fantauzzi devient maire de Coudun de 1965 à 1971 ;
+- une SCEA Fantauzzi est encore active en 2026 dans l'Oise.
+
+Le cas suggère une structure analytique distincte du simple « départ » :
+
+```text
+capacité / capital familial
+→ déplacement territorial
+→ implantation productive
+→ reproduction locale
+→ responsabilité civique
+→ transmission intergénérationnelle
+```
+
+Autrement dit, une capacité qui n'est plus territorialement corse ne disparaît pas nécessairement : elle peut devenir **capacité d'un autre territoire**.
+
+Ce résultat reste un cas de micro-histoire. Il ne démontre ni une fuite des cerveaux générale ni une causalité institutionnelle propre à la Corse.
+
 ## 10. Principe de prudence épistémique
 
 La Potentique territoriale ne doit pas partir à la recherche de preuves qu'un territoire « empêche » ou « permet ».
