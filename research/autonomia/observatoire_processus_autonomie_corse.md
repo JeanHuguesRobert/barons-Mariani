@@ -200,7 +200,7 @@ L'[EIM-H4](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/eim_e
 
 Cette absence de trace reste un **inconnu**, non un refus imputé.
 
-# 1. État courant — 26 septembre 2026
+# 1. Baseline historique — 26 septembre 2026
 
 ## 1.1. Révision constitutionnelle
 
