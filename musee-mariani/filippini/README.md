@@ -1082,3 +1082,23 @@ Paul William Mannes
 Ainsi, si le remariage est confirmé, Marie-Émilie ne sort pas du réseau corse élargi : elle se remarie dans une famille **déjà reliée aux Filippini et aux Mariani**.
 
 Ce constat doit rester descriptif. Il suggère une endogamie/réseau d'alliance étendu mais ne permet pas encore d'en inférer les mécanismes sociaux.
+
+
+## Correctif technique — bornes du registre de décès 1888
+
+Une lecture trop rapide de l'index Geneanet pouvait faire croire que les mentions :
+
+- `30 septembre 1888 (acte n° 1500)`
+- `14 novembre 1888 (acte n° 1731)`
+
+étaient deux actes propres à Antoine Filippini.
+
+Le contrôle croisé montre que ces mêmes bornes apparaissent pour plusieurs personnes sans lien entre elles, décédées dans le 8e arrondissement pendant la même période.
+
+Il s'agit donc des **bornes du registre / lot d'actes indexé**, et non de deux événements relatifs à Antoine Filippini.
+
+Conséquence :
+
+> aucune déduction généalogique ne doit être tirée de ces deux numéros d'acte eux-mêmes.
+
+La donnée utile demeure le décès d'Antoine au 30 octobre 1888 et, séparément, l'index de naissance du 9e arrondissement qui signale un enfant du couple Filippini–Fantauzzi.
