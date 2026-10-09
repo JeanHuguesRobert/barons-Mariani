@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         keywords: ["nobles douze", "dodici", "statuts", "1571", "gênes", "génois"],
-        response: "**Les Nobles Douze (Nobili Dodici) :** Institués par les Statuts de 1571 pour représenter la Terra di Comune auprès du Gouverneur de Gênes à Bastia, ils ont subi une capture oligarchique progressive (Ostrom Mode 7). Lors de la crise fiscale du quattrino en 1729, leur refus de défendre les paysans a provoqué leur contournement direct et la réactivation des Cunsulte populaires, menant au pacte constituant de 1755."
+        response: "**Les Nobles Douze (Nobili Dodici) :** Institués par les Statuts de 1571 pour représenter la Terra di Comune auprès du Gouverneur de Gênes à Bastia, leur évolution et leur rôle lors des événements de 1729 restent à documenter précisément. L'hypothèse d'une capture oligarchique est une interprétation à confronter aux sources, et non un constat directement démontré par cette notice."
       },
       {
         keywords: ["corte", "consulte", "dieta", "diète", "novembre"],
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         keywords: ["manuscrit", "archives", "cote", "unesco", "original"],
-        response: "**Le Manuscrit original de 1755 (Act #1755-01) :** Un catalogue patrimonial attribue la cote 1 J 7/1 à une Constitution adoptée le 18 novembre 1755, aux Archives de Corse–Pumonti. La cote actuelle, la matérialité de la pièce et sa concordance avec le manuscrit décrit par Dorothy Carrington restent à confirmer directement auprès du service détenteur. Aucune copie précise à Gênes n'est établie. Une éventuelle démarche UNESCO demeure exploratoire et conditionnelle."
+        response: "**Enquête sur les témoins de la Constitution de 1755 (Act #1755-01) :** Un catalogue patrimonial attribue la cote 1 J 7/1 à une Constitution adoptée le 18 novembre 1755, aux Archives de Corse–Pumonti. La cote actuelle, la matérialité de la pièce et sa concordance avec le manuscrit décrit par Dorothy Carrington restent à confirmer directement auprès du service détenteur. Aucune copie précise à Gênes n'est établie. Une éventuelle démarche UNESCO demeure exploratoire et conditionnelle."
       }
     ];
 
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const query = guideInput.value.trim().toLowerCase();
       if (!query) return;
 
-      guideResponse.innerHTML = "<p><em>Interrogation du corpus probatoire 1755 en cours...</em></p>";
+      guideResponse.innerHTML = "<p><em>Recherche locale parmi les notices disponibles...</em></p>";
 
       setTimeout(() => {
         let found = null;
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="call">
               <p><strong>Réponse bornée au corpus :</strong></p>
               <p>${found.response}</p>
-              <p class="muted" style="margin-top: 0.5rem; font-size: 0.85rem;">Source : Corpus 1755 (Level A/B). Aucun historique de question n'est conservé.</p>
+              <p class="muted" style="margin-top: 0.5rem; font-size: 0.85rem;">Notice préprogrammée, sans recherche dynamique ni citation individuelle vérifiée. Vérifier les sources et hypothèses dans les dossiers du projet. La question n'est pas transmise à un serveur.</p>
             </div>
           `;
         } else {
