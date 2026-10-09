@@ -115,3 +115,9 @@ Audit documentaire fondé sur les fichiers du dépôt, sans nouvelle lecture des
 5. Produire à chaque lot un différentiel de couverture et des liens vers les commits ; laisser les sources originales inchangées.
 
 **Prochaine action accessible sans accès aux images privées :** vérification croisée des huit fichiers Markdown, puis audit syntaxique et probatoire des deux TSV.
+
+### Vérification croisée des huit en-têtes — 2026-10-09
+
+Lecture directe des métadonnées des fichiers `transcription/p001.md` à `p008.md` après l'audit de reprise : **8 fichiers sur 8 concordent** avec les références papier et états portés dans le tableau de couverture. Tous comportent un `scan_locator`. Les huit indiquent `review.second_review: false` : **aucune page n'est déclarée relue indépendamment**. Six restent `draft-transcription`, deux `visually-reviewed`. Ce contrôle est **métadocumentaire** : il ne certifie pas la fidélité du contenu aux images.
+
+Prochain contrôle distinct : cohérence des identifiants et relations des TSV, sans déduire la vérité historique d'une cohérence de format.
