@@ -33,11 +33,11 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         keywords: ["amérique", "états-unis", "sons of liberty", "paoli", "pennsylvanie"],
-        response: "**L'écho américain :** Les *Sons of Liberty* portaient des toasts à Pascal Paoli dans les années 1760. Quatre localités portent son nom aux États-Unis (dont Paoli, PA, théâtre de la bataille de 1777). La Constitution de 1755 a directement nourri l'imaginaire constitutionnel américain d'autodétermination par le droit écrit."
+        response: "**L'écho américain :** Les *Sons of Liberty* portaient des toasts à Pascal Paoli dans les années 1760. Quatre localités portent son nom aux États-Unis (dont Paoli, PA, théâtre de la bataille de 1777). La réception américaine de Paoli est documentée, mais une influence directe de la Constitution de 1755 sur les textes constitutionnels américains n'est pas établie par cette seule réception."
       },
       {
         keywords: ["manuscrit", "archives", "cote", "unesco", "original"],
-        response: "**Le Manuscrit original de 1755 (Act #1755-01) :** Les registres officiels et copies contemporaines sont conservés aux Archives Départementales de Haute-Corse et de Corse-du-Sud, ainsi qu'à l'Archivio di Stato de Gênes. Un audit archivistique complet est en cours pour établir la cote définitive en vue d'une candidature au registre Mémoire du Monde de l'UNESCO."
+        response: "**Le Manuscrit original de 1755 (Act #1755-01) :** Un catalogue patrimonial attribue la cote 1 J 7/1 à une Constitution adoptée le 18 novembre 1755, aux Archives de Corse–Pumonti. La cote actuelle, la matérialité de la pièce et sa concordance avec le manuscrit décrit par Dorothy Carrington restent à confirmer directement auprès du service détenteur. Aucune copie précise à Gênes n'est établie. Une éventuelle démarche UNESCO demeure exploratoire et conditionnelle."
       }
     ];
 
