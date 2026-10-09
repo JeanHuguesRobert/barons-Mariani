@@ -3,8 +3,8 @@ title: "Dossier Arrighi de Casanova"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-07"
-version: "0.1"
+last_modified_at: "2026-10-09"
+version: "0.2"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -87,3 +87,34 @@ Le dossier ne confond jamais :
 - disparition du lien avec la Corse.
 
 Chaque variable doit être documentée séparément.
+
+
+## Comment la maison est devenue communale
+
+La question ouverte « quand et par quel mécanisme la Maison Arrighi de Casanova est-elle devenue propriété communale ? » reçoit désormais une première réponse publique substantielle.
+
+Le site patrimonial du Centre Corse et une publication de la Ville de Corte indiquent que **la famille Grazzietti / Grazietti de Vezzani**, apparentée aux Arrighi de Casanova **par les collatéraux**, a **fait don de l'immeuble à la ville de Corte**.
+
+La notice POP du ministère de la Culture confirme aujourd'hui le statut : **propriété de la commune**.
+
+Sources :
+- https://tourisme-centrecorse.corsica/une-decouverte-patrimoniale-de-corte-2/
+- https://www.mairie-corte.fr/catalog_repository/uploads/7/Patrimoine_definitif2020.pdf
+- https://pop.culture.gouv.fr/notice/merimee/PA00099265
+
+### Conséquence interprétative
+
+Le passage du bien hors de la propriété familiale ne doit plus être décrit simplement comme une « perte ».
+
+Le mécanisme documenté est ici :
+
+```text
+bien familial historique
+→ transmission à des collatéraux
+→ donation volontaire à la commune
+→ conservation patrimoniale publique
+```
+
+Ce cas relève donc aussi d'une **conversion de patrimoine familial en patrimoine collectif territorial**.
+
+La date exacte de la donation et l'acte correspondant restent à retrouver.
