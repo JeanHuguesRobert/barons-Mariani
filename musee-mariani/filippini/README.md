@@ -1265,3 +1265,76 @@ Antoine Filippini × Marie-Émilie Fantauzzi
 ```
 
 Priorité absolue : **table décennale / acte de naissance Paris 9e entre 1883 et 1888**.
+
+
+## Fermeture primaire — cibles Archives de Paris
+
+La recherche secondaire a désormais atteint sa limite : l'identité de l'enfant reste masquée dans les index Geneanet. Les Archives de Paris fournissent les chemins primaires à utiliser.
+
+### 1. Naissance de l'enfant — Paris 9e
+
+Les Archives de Paris indiquent que les actes de naissance à partir de 1860 sont consultables intégralement, avec tables alphabétiques en fin de registre pour la période 1860–1899.
+
+Cible :
+
+```text
+type : naissance
+arrondissement : Paris 9e
+fenêtre : 4 octobre 1883 → 30 octobre 1888
+nom : FILIPPINI
+parents :
+  Antoine-Dominique-Thomas-Louis Filippini
+  Marie-Émilie Fantauzzi
+```
+
+Source officielle :
+https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/actes-detat-civil
+
+Les tables décennales donnent, pour chaque acte, **nom, prénoms et date**, ce qui suffit à lever le verrou avant lecture de l'acte intégral.
+
+Source :
+https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/tables-decennales
+
+### 2. Décès et succession d'Antoine Filippini
+
+Geneanet indexe :
+
+- décès : **30 octobre 1888** ;
+- lieu : **Paris 8e** ;
+- Antoine Dominique Thomas Filippini, propriétaire ;
+- épouse : Marie-Émilie Fantauzzi.
+
+Les Archives de Paris expliquent que le **fichier des successions déclarées 1858–1899** donne, lorsqu'une fiche existe, l'adresse, la date de décès et les références de la déclaration de succession (bureau, date, numéro).
+
+Source officielle :
+https://archives.paris.fr/archives-numerisees/archives-fiscales/successions/fichiers-des-successions-declarees-1858-1899
+
+Une déclaration de succession peut être décisive si elle nomme la veuve et l'enfant mineur / héritier du premier lit.
+
+### 3. Remariage Mannes–Fantauzzi
+
+Cible primaire distincte :
+
+```text
+Paul William Mannes
+×
+Marie-Émilie Fantauzzi, veuve Filippini
+Paris / 1894
+```
+
+L'acte doit permettre de résoudre la discordance entre :
+
+- Villa Flore : **30 avril 1894** ;
+- presse du 4 décembre 1894 : « Mme Fantauzzi, veuve Filippini, de Paris » encore mentionnée dans un contexte d'autorisation à mariage.
+
+### 4. Ordre de preuve
+
+```text
+table décennale naissance
+→ acte de naissance
+→ fichier de succession Antoine
+→ déclaration de succession si disponible
+→ acte du remariage Mannes–Fantauzzi
+```
+
+Une fois le prénom et la date de naissance de l'enfant obtenus, la recherche peut reprendre en aval (mariage, décès, descendance) sans dépendre des arbres secondaires.
