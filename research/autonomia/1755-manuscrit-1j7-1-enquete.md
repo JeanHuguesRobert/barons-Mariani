@@ -58,3 +58,12 @@ Contacts institutionnels : https://www.isula.corsica/patrimoine/Acces-aux-salles
 5. Examiner inventaires Bastia, Gênes, Naples et Britanniques, sans leur attribuer de copies non localisées.
 6. Confier l'examen critique aux chercheurs du comité transnational ; toutes les contradictions sont conservées.
 7. Propager aux Livres Vivants #1755, Capable, DIASPORA et Musée des Possibles, en conservant les statuts de preuve.
+
+## Continuation du 9 octobre 2026 — exploration italienne, sans envoi
+
+Deux **brouillons Gmail NON ENVOYÉS** ont été créés pour revue préalable par Jean Hugues Noël Robert, conformément à la règle d'autorisation explicite :
+
+- **Archivio di Stato di Genova**, service d'orientation des inventaires `as-ge.salastudio@cultura.gov.it`. Brouillon : https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a120bc001220f3c. Son service annonce qu'il ne réalise pas de recherches de pièces sans localisation précise : https://archiviodistatogenova.cultura.gov.it/servizi/chiedilo-allarchivista-richiesta-informazioni. La demande vise donc les **fonds et instruments de recherche**, non la découverte gratuite d'une pièce supposée.
+- **Archivio di Stato di Napoli**, `as-na@cultura.gov.it`. Brouillon : https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a120bc0a8ad8dd8. La procédure officielle de recherches par correspondance exige une demande précisément délimitée et une pièce d'identité, **non jointe** au brouillon : https://archiviodistatonapoli.cultura.gov.it/servizi/ricerche-per-corrispondenza.
+
+Aucun témoin manuscrit italien n'est à ce jour localisé. **DRAFT_CREATED ≠ SENT**. Les brouillons demandent orientation vers les inventaires ; leur envoi, leurs pièces et leurs suites nécessitent validation explicite de l'utilisateur.
