@@ -242,6 +242,22 @@ mais le réseau relationnel peut se recombiner
 ```
 
 DIASPORA doit donc pouvoir représenter non seulement `qui descend de qui`, mais aussi `quelles branches se reconnectent`, `où`, `par quelles alliances` et `avec quelles capacités ou patrimoines`.
+### Partir sans dissoudre le réseau
+
+Le dossier Filippini fait apparaître un autre type de furtivité : **le territoire peut perdre les personnes sans que leur réseau familial se dissolve**.
+
+Marie-Émilie Fantauzzi épouse d'abord Antoine Filippini. Après son décès, son remariage probable avec Paul William Mannes la maintient dans un réseau où le second mari descend lui aussi de la constellation Mariani–Filippini–Peraldi.
+
+Si l'acte ferme définitivement cette identité, le cas montrera :
+
+```text
+éloignement de Corse
++ maintien des liens de parenté
++ recomposition des alliances dans le réseau
+```
+
+DIASPORA doit donc représenter les **arêtes du graphe** autant que les nœuds : une diaspora peut être géographiquement dispersée tout en restant relationnellement dense.
+
 ## Méthode : révéler sans inventer
 
 ~~~text
