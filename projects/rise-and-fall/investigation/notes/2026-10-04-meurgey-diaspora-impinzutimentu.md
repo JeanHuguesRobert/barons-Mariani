@@ -340,6 +340,23 @@ plusieurs branches apparemment séparées
 Cette hypothèse invite à analyser le Corpus comme **graphe de relations** plutôt que comme arbre strictement descendant.
 
 Dossier : `musee-mariani/filippini/README.md`.
+### Réseau plutôt que dispersion atomique
+
+Le cas Filippini–Fantauzzi–Mannes introduit un mécanisme candidat supplémentaire.
+
+Si le remariage de Marie-Émilie Fantauzzi avec Paul William Mannes est confirmé par l'acte, le second mari appartient lui-même au réseau descendant de **Maria Scolastica Mariani → Filippini → Peraldi → Mannes**. Il est donc un parent collatéral du premier mari Antoine Filippini.
+
+Cette configuration suggère qu'une sortie territoriale peut conserver une forte densité relationnelle :
+
+```text
+dispersion géographique
+≠ dispersion du réseau familial
+```
+
+Une élite familiale peut perdre son ancrage matériel initial tout en continuant à reproduire alliances, information, confiance et capital social dans un réseau extérieur.
+
+Statut : **mécanisme candidat**, à tester sur d'autres branches avant généralisation.
+
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
