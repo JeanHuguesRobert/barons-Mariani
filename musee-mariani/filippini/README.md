@@ -624,3 +624,65 @@ Statut : **FAUX POSITIF ÉLIMINÉ**.
 
 Source de contrôle :
 https://geneafrance.com/?i=2B252
+
+
+## Triangulation renforcée — Émilie Fantauzzi / Mannes
+
+La piste de remariage est désormais soutenue par trois ensembles documentaires distincts.
+
+### 1. Villa Flore
+
+Villa Flore donne :
+
+- **Paul William Mannes**, né le 8 septembre 1859 à Blida, mort le 28 mai 1936 à Paris ;
+- mariage le **30 avril 1894** avec **Marie-Émilie Fautauzzi**, née le 14 avril 1864.
+
+Cette Marie-Émilie est placée dans le même réseau généalogique corse Filippini / Peraldi / Mariani.
+
+### 2. Cour suprême de Porto Rico
+
+Une décision de 1925 cite explicitement :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- dans la même procédure, la succession de **Sofia Fantauzzi**, composée de son veuf **Albert Mariani** ;
+- d'autres Fantauzzi membres du même ensemble d'intérêts.
+
+Cette pièce confirme que **Émilie épouse Mannes** et **Sophie épouse Mariani** appartiennent au même réseau Fantauzzi immédiat.
+
+### 3. Presse de décembre 1894
+
+L'index de *La Dépêche de Brest* du 4 décembre 1894 contient la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans un contexte d'autorisation à mariage.
+
+Cette mention est particulièrement intéressante parce qu'elle relie explicitement le nom **Fantauzzi** au statut **veuve Filippini**.
+
+### Discordance à préserver
+
+Villa Flore place le mariage Mannes–Fantauzzi au **30 avril 1894**, alors que la presse du **4 décembre 1894** semble encore parler d'une autorisation à mariage pour une « veuve Filippini ».
+
+Trois explications restent ouvertes :
+
+1. date Villa Flore erronée ;
+2. publication administrative postérieure ou contexte mal reconstruit par l'OCR ;
+3. homonyme Fantauzzi veuve Filippini.
+
+Aucune de ces hypothèses ne doit être privilégiée sans l'acte de mariage.
+
+### Qualification actuelle
+
+```text
+Marie-Émilie Fantauzzi
+× Antoine Filippini (1883)
+→ veuve en 1888
+→ probablement remariée à Paul William Mannes
+```
+
+Statut : **REMARIAGE TRÈS PROBABLE / DATE ET IDENTITÉ À FERMER PAR ACTE**.
+
+L'intérêt de ce remariage est double :
+
+- il peut fournir dans l'acte de mariage la mention explicite du premier mariage / veuvage ;
+- il peut révéler l'existence d'un **enfant mineur du premier lit** ou permettre de retrouver son identité dans les dossiers familiaux ultérieurs.
