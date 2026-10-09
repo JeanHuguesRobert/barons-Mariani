@@ -66,6 +66,11 @@ provenance:
 
 # Atlas du paysage politique et discursif corse — Une Corse capable
 
+## Actualisation courante — 9 octobre 2026 : commission des lois
+
+**Muriel Jourda**, présidente de la commission des lois, a été désignée le **7 octobre 2026** rapporteure du projet de loi constitutionnelle n° 782. Sa [fiche OSINT](osint_acteurs/muriel_jourda.md) rassemble les sources, son rôle et son contact parlementaire professionnel (**m.jourda@senat.fr**). Source de désignation : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html . Les états antérieurs du 7 octobre à 9 h restent des photographies historiques. La proposition « Baron Mariani » est publiée, **sans transmission ni dépôt parlementaire attestés**.
+
+
 
 ## État consolidé au 7 octobre 2026
 
