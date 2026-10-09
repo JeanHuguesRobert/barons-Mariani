@@ -119,3 +119,8 @@ Conserver la distinction entre sources primaires historiques, interprétations h
 ## Actualisation des preuves — audition Gatel (9 octobre 2026)
 
 Le [registre canonique des traces](../../research/autonomia/observatoire_processus_autonomie_corse.md) distingue désormais l’annonce de l’audition du 7 octobre, l’accès ultérieurement défaillant à sa fiche officielle (404), l’absence de compte rendu pour la semaine du 5 octobre sur la page consultée et le replay non vérifié. Il serait injustifié d’attribuer à la ministre un propos sur l’effectivité du projet n° 782 sans source primaire. Cette incertitude demeure ouverte et corrigible ; les éditions datées restent inchangées.
+
+
+## Journal du 9 octobre 2026 — manuscrit de 1755
+
+La cote **1 J 7/1** est repérée dans un catalogue patrimonial de la Constitution du 18 novembre 1755, attribuée aux Archives de Corse–Pumonti ; confrontation archivistique au manuscrit décrit par Carrington encore ouverte. Deux demandes documentaires ont été adressées le 9 octobre 2026 aux Archives de Corse (Ajaccio et Bastia). [Nouvelle chronique du Magazine](magazine/2026-10-09-une-cote-pour-la-constitution.md) ; [dossier probatoire](../../research/autonomia/1755-manuscrit-1j7-1-enquete.md).
