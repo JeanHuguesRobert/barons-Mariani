@@ -66,6 +66,11 @@ provenance:
 
 # Observatoire public du processus d’autonomie de la Corse
 
+## Actualisation FBF — 9 octobre 2026 (état courant)
+
+**Muriel Jourda** est rapporteure désignée du projet n° 782 depuis le 7 octobre ; contact professionnel public **m.jourda@senat.fr**. [Fiche sourcée](osint_acteurs/muriel_jourda.md). Les mentions « UNKNOWN » antérieures conservent leur valeur de photographies datées, mais ne constituent plus l’état actuel. Courrier et amendement Baron Mariani : **non transmis, non déposés**.
+
+
 ## Photographie historique — 7 octobre 2026, 7 h 36
 
 > **FBF — ne plus lire ce bloc comme l’état courant.** Il conserve la photographie connue à 7 h 36 le 7 octobre. Les états `PENDING` ci-dessous sont historiques et sont supersédés, lorsqu’une information ultérieure existe, par la section **« État courant — 9 octobre 2026 »** qui suit.
@@ -110,10 +115,10 @@ La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politiqu
 ## État courant — 9 octobre 2026
 
 - L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
-- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
+- **Muriel Jourda est présidente de la commission des lois et rapporteure désignée le 7 octobre 2026** du projet n° 782. Voir [fiche OSINT](osint_acteurs/muriel_jourda.md).
 - **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
 - La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
-- Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
+- Le courrier à Muriel Jourda demeure un **brouillon public non envoyé** ; destinataire connu, transmission et réception non attestées. Une preuve de transmission puis de réception devra être enregistrée séparément.
 
 Sources officielles :
 - Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
@@ -132,9 +137,9 @@ Sources officielles :
 - Une fiche d'annonce de cette audition avait été identifiée dans les recherches antérieures ; **son URL directe retourne toutefois une erreur 404 lors du contrôle du 9 octobre** : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html . L'erreur d'accès n'établit ni l'annulation de l'audition ni sa tenue.
 - La rubrique officielle des comptes rendus de la commission des lois était consultable lors du contrôle, **mais n'affichait pas encore la semaine du 5 octobre** : https://www.senat.fr/compte-rendu-commissions/lois.html . Cela signifie « non trouvé sur cette page au moment du contrôle », non « aucun compte rendu n'existe ».
 - Le portail https://videos.senat.fr/ est identifié ; **l'enregistrement/replay de cette audition précise n'a pas été visionné ou vérifié**.
-- **Interventions de la ministre, questions posées, positions défendues, personnes présentes, rapporteur du texte n° 782 : non établis par ces traces.** Aucun propos ne doit lui être attribué à ce stade.
+- **Interventions de la ministre, questions posées, positions défendues, personnes présentes : non établies par ces traces.** La désignation de la rapporteure est sourcée séparément. Aucun propos ne doit lui être attribué à ce stade.
 
-**Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, vérifier l'identité du rapporteur sur le dossier législatif, puis requalifier les statuts. Conserver la date et l'URL de chaque vérification.
+**Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, conserver la preuve officielle de désignation de Muriel Jourda et requalifier les autres statuts. Conserver la date et l'URL de chaque vérification.
 
 ---
 
