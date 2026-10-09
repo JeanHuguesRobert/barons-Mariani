@@ -188,3 +188,8 @@ Le [registre canonique des traces](../../research/autonomia/observatoire_process
 ## Édition en préparation — 9 octobre 2026
 
 [Note éditoriale courante](editions/2026-10-09-en-preparation.md) : amorce du suivi quasi temps réel du texte constitutionnel n° 782 et de la campagne du Réel. Édition non gelée, non confondue avec une publication HTML/PDF.
+
+
+## Retour du Réel lié au Projet #1755 — 9 octobre 2026
+
+Une publication patrimoniale donne la cote **1 J 7/1** pour la Constitution corse du 18 novembre 1755 conservée, selon le catalogue, aux Archives de Corse–Pumonti. Cette trace améliore l'adressabilité d'un objet historique mais ne vaut pas vérification archivistique directe ni authentification matérielle. Le Reality Test documentaire du projet #1755 examine maintenant son accessibilité réelle. [Fiche source et incertitudes](../../research/autonomia/1755-manuscrit-1j7-1-enquete.md).
