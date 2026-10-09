@@ -4,8 +4,8 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-26'
-version: '0.7'
-status: working-paper — observatory_v0.7
+version: '0.8'
+status: working-paper — observatory_v0.8
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
@@ -49,6 +49,7 @@ changelog:
   - 'v0.5 (2026-09-26) — propagation de la publication de l’amendement d’effectivité v0.4-rc4 : forme parlementaire candidate, intégration dans l’alinéa organique existant, revue adverse accomplie et fenêtre sénatoriale explicitée.'
   - 'v0.6 (2026-10-06) — instrumentation EIM-H4 : séparation explicite entre publication, réception, routage, examen et reprise parlementaire ; inconnues conservées.'
   - 'v0.7 (2026-10-07) — intégration du scrutin sénatorial du 27 septembre, du renouvellement des instances du Sénat et de l’audition ministérielle du 7 octobre ; rapporteur maintenu inconnu jusqu’à publication officielle.'
+  - 'v0.8 (2026-10-09) — FBF : l’ancien « état courant » du 7 octobre est requalifié en photographie historique afin de ne plus contredire l’actualisation du 9 octobre.'
 last_modified_at: '2026-10-09'
 update_policy: UP-DEFAULT-REVIEWED
 review:
@@ -65,7 +66,9 @@ provenance:
 
 # Observatoire public du processus d’autonomie de la Corse
 
-## 0 bis. État courant — 7 octobre 2026, 7 h 36
+## Photographie historique — 7 octobre 2026, 7 h 36
+
+> **FBF — ne plus lire ce bloc comme l’état courant.** Il conserve la photographie connue à 7 h 36 le 7 octobre. Les états `PENDING` ci-dessous sont historiques et sont supersédés, lorsqu’une information ultérieure existe, par la section **« État courant — 9 octobre 2026 »** qui suit.
 
 ### Représentation sénatoriale corse
 
@@ -104,7 +107,7 @@ La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politiqu
 
 ---
 
-## Actualisation institutionnelle — 9 octobre 2026
+## État courant — 9 octobre 2026
 
 - L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
 - Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
