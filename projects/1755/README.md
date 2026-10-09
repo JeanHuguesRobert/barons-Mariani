@@ -4,7 +4,7 @@ description: Point d'entrée du Livre Vivant 1755 sur la Constitution corse de 1
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-04'
+last_modified_at: '2026-10-09'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -41,6 +41,7 @@ related_documents:
 changelog:
   - v0.1 (2026-10-04) — initial candidate bootstrap of Living Book 1755 under five-face architecture.
 ---
+
 
 # 1755 — La Constitution de Pascal Paoli et le constitutionnalisme moderne
 
@@ -100,3 +101,14 @@ projects/1755/
 - **Porteur éditorial :** Institut Mariani, émanation R&D de l'association C.O.R.S.I.C.A., en lien avec le futur Fonds de dotation Barons Mariani.
 - **Licence :** Creative Commons Attribution - Partage dans les Mêmes Conditions 4.0 International (CC BY-SA 4.0).
 - **Gouvernance :** Projet ouvert non lucratif orienté vers le bien commun documentaire mondial.
+
+---
+
+## Écho constitutionnel contemporain — état au 9 octobre 2026
+
+L'examen en octobre 2026 du projet de loi constitutionnelle pour une Corse autonome au sein de la République est un **point de comparaison contemporain**, et non une preuve historique relative à la Constitution de 1755. La commission des lois du Sénat a référencé l'audition ministérielle du 7 octobre ; la séance du 26 octobre est programmée. Le rapporteur du texte n° 782 n'est pas nominativement confirmé dans le présent relevé.
+
+- [Observatoire contemporain de l'autonomie](../../research/autonomia/observatoire_processus_autonomie_corse.md)
+- [Continuité parlementaire](../../research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
+
+Conserver la distinction entre sources primaires historiques, interprétations historiographiques et processus constitutionnel contemporain.
