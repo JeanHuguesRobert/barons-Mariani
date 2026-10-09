@@ -85,3 +85,33 @@ Un courriel de commande du 12 novembre 2011 établit que l'exemplaire acquis par
 Dossier : `apparatus/provenance-exemplaire-jhr.md`.
 
 Conséquence : les trois tableaux non présents dans le Google Doc DRAC 2025 sont **manquants de la numérisation actuelle, pas de l'exemplaire acheté**.
+
+## Audit de reprise — 2026-10-09
+
+Audit documentaire fondé sur les fichiers du dépôt, sans nouvelle lecture des images sources. Les décomptes ci-dessous ne mesurent **ni** la complétude du volume imprimé **ni** la validation historique de ses assertions.
+
+| Indicateur | Constat | Portée |
+|---|---:|---|
+| Fichiers de transcription des pages papier 1–8 | 8 | existence matérielle de la première tranche, contrôle visuel complémentaire nécessaire |
+| Pages classées `visually-reviewed` dans ce registre | 2 (p. 5–6) | pas équivalent à `verified` |
+| Pages classées `draft-transcription` dans ce registre | 6 (p. 1–4, 7–8) | même si une seconde lecture par l'agent est signalée pour certaines pages |
+| Tableaux dépliants retrouvés dans l'export DRAC | 2 sur 5 | les trois autres restent à localiser ; ne pas inventer leurs titres |
+| Registre `musee-mariani/mariani/personnes.tsv` | 49 entrées hors en-tête | inventaire, non validation individuelle |
+| Registre `musee-mariani/mariani/relations.tsv` | 42 entrées hors en-tête | relations à qualifier par assertion et preuve |
+
+### Contrôles et limites
+
+- **P. 1** : la note interne mentionne une seconde passe visuelle, mais conserve le statut `draft-transcription` faute de relecture indépendante ; ne pas promouvoir automatiquement l'état.
+- La hiérarchie `draft-transcription → visually-reviewed → second-review → verified` exige des traces concrètes de vérification ; une simple mention de « seconde passe » ne démontre pas `second-review` indépendant.
+- Une filiation issue d'un tableau, d'un index commercial ou d'arbres secondaires demeure une **assertion dérivée**, jamais une transcription primaire ni un fait établi par acte.
+- Les informations Filippini–Fantauzzi–Mannes consignées dans [l'issue #97](https://github.com/JeanHuguesRobert/barons-Mariani/issues/97) sont des pistes utiles ; l'identité de l'enfant et la date exacte du remariage restent ouvertes.
+
+### Ordre de reprise opérationnel
+
+1. Vérifier les métadonnées de chaque fichier `transcription/p001.md` à `p008.md` par rapport à ce registre ; noter les écarts sans corriger une lecture sans son scan.
+2. Reprendre la vérification visuelle des pages 1 à 4, puis 7 à 8, avec provenance du scan et distinction manuscrit/imprimé.
+3. Inventorier les scans correspondant aux pages 9 et suivantes et rechercher les trois dépliants absents ; documenter les obstacles d'accès.
+4. Auditer chaque ajout aux tables `personnes.tsv` et `relations.tsv` : identifiant, source, degré de preuve, ambiguïtés, duplications. Préparer les corrections factuelles seulement après vérification.
+5. Produire à chaque lot un différentiel de couverture et des liens vers les commits ; laisser les sources originales inchangées.
+
+**Prochaine action accessible sans accès aux images privées :** vérification croisée des huit fichiers Markdown, puis audit syntaxique et probatoire des deux TSV.
