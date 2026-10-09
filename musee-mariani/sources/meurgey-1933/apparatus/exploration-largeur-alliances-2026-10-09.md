@@ -121,15 +121,52 @@ nom d'alliance présent dans Meurgey
 Source :
 https://anciennesfamillesdeprovence.fr/provence/Piscatoris.htm
 
-## 5. Limburg-Stirum — présence bibliographique, raccord non identifié
+## 5. Limburg-Stirum — raccord explicitement donné par Meurgey p. 3
 
-Le catalogue de l'ouvrage signale **Limburg-Stirum** parmi les familles traitées.
+Le raccord est déjà expliqué dans la transcription de **[MEURGEY-1933 p. 3]**.
 
-À ce stade, aucune recherche publique rapide n'a permis d'identifier proprement **où** cette maison se raccorde au réseau Mariani.
+Meurgey écrit qu'en épousant une **Dard d'Espinay**, Antoine-Dominique Mariani donne à ses descendants une ascendance hollandaise passant par les **barons de Maneil**, lesquels sont alliés à de nombreuses familles hollandaises, « au premier rang desquelles » les **comtes de Limburg-Stirum**.
 
-Statut : **OPEN / NE PAS INFÉRER**.
+Chaîne de travail :
 
-Cette famille devient un bon candidat pour les trois tableaux dépliants encore manquants ou pour une alliance secondaire décrite dans les pages non encore numérisées.
+```text
+Antoine-Dominique Mariani
+× Dard d'Espinay
+→ Carnot de la Berce
+→ barons de Maneil
+→ alliances hollandaises
+→ Limburg-Stirum
+```
+
+Le détail génération par génération reste à reconstruire, mais le **type de raccord** n'est plus inconnu : il relève de l'ascendance/alliance européenne apportée par Dard d'Espinay.
+
+Meurgey ajoute que les quartiers du baron Cornelis de Maneil comportent encore les **barons de Hartlieb** et les **princes de Hatzfeld-Wildenberg**, puis rejoint les maisons ducales françaises par Hatzfeld-Castellane.
+
+Source : `transcription/p003.md`.
+
+### Conséquence
+
+Le réseau Mariani est déjà explicitement **transnational avant 1933**. La présence européenne ne peut donc pas être utilisée, à elle seule, comme indicateur d'un désancrage postérieur.
+
+## 5 bis. Caraccioli et Potenziani — raccord déjà formulé par Meurgey
+
+La transcription de **[MEURGEY-1933 p. 2]** dit explicitement :
+
+> par les Boerio et les Sulietti, les Mariani sont apparentés aux Caracciolo, princes de Torella et ducs de Lavello, et aux princes Potenziani.
+
+Ce passage donne donc un **raccord généalogique revendiqué par Meurgey** entre :
+
+```text
+Mariani
+→ Boerio / Sulietti
+→ Caracciolo
+→ Torella / Lavello
+→ Potenziani
+```
+
+Il ne doit pas être confondu avec le patronyme composé **Fantauzzi de Caraccioli** relevé par ailleurs à Morsiglia. Les deux pistes peuvent éventuellement se rejoindre, mais cela reste à démontrer.
+
+Statut : **ASSERTION MEURGEY À RECONSTRUIRE GÉNÉRATION PAR GÉNÉRATION**.
 
 ## 6. Typologie provisoire issue de la passe en largeur
 
@@ -139,7 +176,7 @@ Cette famille devient un bon candidat pour les trois tableaux dépliants encore 
 | alliance sans descendance commune démontrée | d'Adhémar → Vaufreland |
 | famille-pont entre plusieurs lignées | Boerio, hypothèse à tester |
 | famille alliée avec capacité propre | Fantauzzi |
-| titre / maison extérieure encore sans raccord fermé | Limburg-Stirum |
+| ascendance/alliance européenne ancienne | Dard d'Espinay → Maneil → Limburg-Stirum |
 | patrimoine familial converti en patrimoine public | Arrighi de Casanova → donation à Corte |
 
 ## 7. Conséquence méthodologique
