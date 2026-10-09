@@ -118,3 +118,9 @@ Documents de travail :
 - [Observatoire des Présentations 2027](campaign/observatoire-presentations-2027.md)
 
 La règle de symétrie s'applique : les Révélateurs construits par Capable doivent pouvoir révéler les propres écarts de Capable.
+
+---
+
+## Registre de préparation éditoriale — 9 octobre 2026
+
+La [préparation courante](editions/2026-10-09-en-preparation.md) distingue trace parlementaire, interprétation et projection éditoriale. Une entrée actualisée ne crée aucun nouvel acte institutionnel ; elle appelle la validation des sources primaires et la correction de la chronologie lorsque des comptes rendus paraissent.
