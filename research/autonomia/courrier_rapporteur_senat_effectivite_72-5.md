@@ -65,10 +65,10 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 ## Actualisation institutionnelle — 9 octobre 2026
 
 - L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
-- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
+- **Muriel Jourda est présidente de la commission des lois et rapporteure désignée du texte n° 782**, conformément au compte rendu officiel du 7 octobre 2026.
 - **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
 - La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
-- Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
+- Le courrier à Mme Jourda demeure un **brouillon public non envoyé**. Le canal exact doit être confirmé ; toute transmission et toute réception devront être prouvées séparément.
 
 Sources officielles :
 - Désignation de Muriel Jourda : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html
@@ -90,7 +90,7 @@ Sources officielles :
 - Le portail https://videos.senat.fr/ est identifié ; **l'enregistrement/replay de cette audition précise n'a pas été visionné ou vérifié**.
 - **Interventions de la ministre, questions posées, positions défendues, personnes présentes : non établies par ces traces.** La désignation de la rapporteure est établie par une autre source officielle. Aucun propos ne doit lui être attribué à ce stade.
 
-**Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, vérifier l'identité du rapporteur sur le dossier législatif, puis requalifier les statuts. Conserver la date et l'URL de chaque vérification.
+**Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, conserver la référence officielle de la désignation de Muriel Jourda, puis requalifier les autres statuts. Conserver la date et l'URL de chaque vérification.
 
 ---
 
@@ -177,7 +177,7 @@ F-20250 Corte
 
 ## Variables à résoudre avant envoi
 
-- nom du rapporteur officiellement désigné ;
+- rapporteure confirmée : Muriel Jourda ;
 - civilité et fonction exactes ;
 - adresse électronique institutionnelle du rapporteur ou canal indiqué par la commission ;
 - éventuelles personnes à mettre en copie ;
@@ -191,7 +191,7 @@ Le courriel doit pointer vers la **version courante** du document d’amendement
 
 Avant envoi :
 
-1. vérifier la désignation du rapporteur sur une source officielle du Sénat ;
+1. désignation vérifiée le 9 octobre : Mme Muriel Jourda (commission des lois, 7 octobre) ;
 2. vérifier le calendrier du texte n° 782 ;
 3. vérifier que la rédaction citée dans le courriel est identique à la version courante de l’amendement ;
 4. vérifier les liens publics, notamment l’URL stable de la requête au Conseil constitutionnel ;
