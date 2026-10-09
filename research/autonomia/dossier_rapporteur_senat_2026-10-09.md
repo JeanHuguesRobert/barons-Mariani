@@ -53,3 +53,7 @@ review:
 ## Avant transmission
 
 Vérifier destinataire, canal institutionnel, version du texte et du dispositif, liens publics accessibles sans authentification, puis conserver la copie **effectivement validée et envoyée**, avec reçu de transmission séparé. Aucun envoi automatique.
+
+## Point de revue juridique — 9 octobre
+
+[Revue technique de l'alinéa 6 et variante non validée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/revue_technique_alinea_6_2026-10-09.md) : la rédaction candidate actuelle risque de supprimer les modalités d'évaluation des normes déjà prévues par le texte officiel. Une variante les maintient distinctement de l'évaluation périodique du régime. **Ne pas transmettre la variante sans arbitrage juridique et validation.**
