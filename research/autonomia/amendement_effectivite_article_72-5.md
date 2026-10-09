@@ -34,6 +34,7 @@ changelog:
   - "v0.4-rc2 (2026-09-26) — intégration de la revue adverse Claude sur rc1 : levée de l’ambiguïté de « leurs effets », périodicité explicite, distinction entre évaluation des normes et évaluation du régime, retour explicite de Liberté, Égalité, Fraternité comme finalités d’effectivité sans faire de l’article 2 un fondement juridictionnel unique."
   - "v0.4-rc3 (2026-09-26) — intégration sélective de la revue adverse Gemini : abandon de l’ajout autonome au profit d’une reformulation du mécanisme d’évaluation déjà présent ; mise en œuvre effective plutôt qu’« exercice » seul ; prise en compte neutre du non-usage ; articulation explicite entre normes, régime et Liberté-Égalité-Fraternité."
   - "v0.4-rc4 (2026-09-26) — séparation nette entre une version parlementaire courte, conforme aux usages d’amendement, et la note de justification ; ciblage explicite de l’alinéa 6 du texte Sénat n° 782 ; ajout d’une note de traçabilité institutionnelle sur les travaux de Florent Boudié et la contribution C.O.R.S.I.C.A."
+  - "2026-10-09 — FBF : revue adverse Jimini.ai classée et options minimales explicitées, sans modification de la rédaction parlementaire candidate."
   - "2026-10-09 — FBF : clarification explicite du statut de l’amendement ; la transmission au Sénat concerne le projet de loi n° 782 et non la proposition Baron Mariani."
   - "v0.5-rc1 (2026-09-29) — jalon doctrinal : explicitation de l’hypothèse d’une exigence d’effectivité déjà latente et fragmentée dans le bloc de constitutionnalité ; rapprochement avec les régimes constitutionnels d’expérimentation et d’évaluation ; Corse présentée comme terrain borné d’un Reality Test constitutionnel, sans présomption de généralisation ni modification du dispositif parlementaire."
 ---
@@ -44,6 +45,29 @@ changelog:
 Texte n° 782 (2025-2026), transmis au Sénat le 24 juin 2026
 
 **Statut distinct de la proposition « amendement Baron Mariani » (9 octobre 2026) :** proposition publiée dans ce dépôt GitHub, sans transmission au Sénat attestée à cette date, sans dépôt parlementaire attesté et sans adoption. La mention « transmis au Sénat » ci-dessus qualifie exclusivement le **projet de loi constitutionnelle n° 782**, et non notre proposition d’amendement. Distinguer obligatoirement : publication (GitHub), transmission (destinataire institutionnel identifié et trace), dépôt (enregistrement parlementaire) et adoption (vote et intégration). Ne jamais inférer l'un de ces états d'un autre.
+
+## Revue adverse Jimini.ai — traitement FBF (9 octobre 2026)
+
+**Statut de cette revue :** observations externes fournies par le porteur de la proposition ; analyse critique interne, **non assimilée à une validation juridique indépendante**. La rédaction parlementaire située ci-dessous reste **inchangée** tant qu'une version candidate distincte n'a pas été arbitrée. La revue ne constitue ni une transmission au Sénat ni un dépôt parlementaire.
+
+| Objection | Décision provisoire | Justification / test |
+| --- | --- | --- |
+| « Mise en œuvre effective » trop indéterminée | Retenir pour examen | Tester « garanties nécessaires à la mise en œuvre effective » contre le texte de l'alinéa et la future marge de la loi organique. |
+| Présentation, instruction, réponse / octroi confondus | Retenir | Distinguer l'accès à une procédure, la décision d'habilitation et l'exercice de la faculté ; aucun droit automatique à l'octroi. |
+| Silence et omissions hors contrôle | À instruire | Examiner les voies existantes de contrôle des actes et carences avant toute nouvelle compétence juridictionnelle constitutionnelle. |
+| Évaluation « périodique » purement symbolique | Retenir la publicité comme option | Tester une évaluation **publique et périodique** ; laisser la fréquence et les modalités au législateur organique. |
+| « Effets » : risque de contrôle politique d'opportunité | Clarification dans l'objet | Les effets sont objet d'observation contradictoire, non nouveau pouvoir général du juge de choisir les politiques publiques. |
+| Fraternité et égalité | Conserver les trois finalités | Ne pas fabriquer un standard juridictionnel uniforme à partir de la devise ; préserver une évaluation symétrique des effets bénéfiques et nuisibles. |
+| « Incompétence négative » du constituant | Requalifier | Risque principal : incomplétude fonctionnelle de la loi organique, non censure ordinaire d'une révision constitutionnelle pour incompétence négative. |
+| Non-usage des habilitations | Conserver expressément | Distinguer le choix légitime de ne pas demander ou exercer de l'impossibilité matérielle d'agir. |
+
+**Prochaine décision rédactionnelle** : préférer le plus petit delta ayant une conséquence vérifiable, plutôt qu'une accumulation de garanties formelles. La régularité procédurale, à elle seule, ne prouve pas l'autonomie de capacité. Une demande instruite et systématiquement rejetée peut être procéduralement régulière, tout en restant un échec de capacité à examiner. Cela ne démontre pas à lui seul une illégalité.
+
+**Hypothèse candidate à comparer, non substituée au dispositif actuel :** remplacer « conditions permettant » par « garanties nécessaires à » et ajouter « publique » à « évaluation périodique ». Ne pas incorporer sans étude préalable une nouvelle attribution de contrôle aux juridictions ; respecter le contrôle distinct des normes selon leur nature.
+
+**Règle de provenance :** enregistrer séparément publication GitHub, transmission institutionnelle avec preuve, dépôt parlementaire et adoption. À cette date, seule la publication de la proposition est établie.
+
+---
 
 ## ARTICLE UNIQUE
 
