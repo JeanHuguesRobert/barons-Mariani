@@ -14,6 +14,7 @@ document_kind: editions-ledger
 visibility: public
 ---
 
+
 # Registre des Éditions et Release Candidates de 1755
 
 Conformément à la doctrine du Livre Vivant ([`research/livre_vivant.md`](../../../research/livre_vivant.md)), un Livre Vivant distingue :
@@ -28,3 +29,9 @@ Conformément à la doctrine du Livre Vivant ([`research/livre_vivant.md`](../..
 | **Bootstrap Initial (v0.1)** | 2026-10-04 | Déploiement de l'arborescence complète à 5 faces, 6 chapitres de manuscrit, 4 annexes probatoires, 2 chroniques de magazine, chronologie, sources et site statique navigable. | **Réalisé** |
 | **Release Candidate 1 (RC1)** | Prévu T4 2026 | Consolidation de l'Act #1755-01 (audit archivistique du manuscrit original), relecture académique décorrélée et stabilisation du guide public. | En préparation |
 | **Édition 1.0 Immuable** | Prévu 2027 | Dépôt légal, édition papier/numérique certifiée, candidature conjointe UNESCO Mémoire du Monde. | Horizon |
+
+---
+
+## RC1 — état de travail du 9 octobre 2026
+
+[Note d'édition en préparation](2026-10-09-rc1-en-preparation.md) : perspective comparative sur l'autonomie corse contemporaine, confinée au magazine et aux annexes tant qu'aucune démonstration historico-juridique nouvelle ne justifie une révision du manuscrit. Le jalon n'est pas une release gelée.
