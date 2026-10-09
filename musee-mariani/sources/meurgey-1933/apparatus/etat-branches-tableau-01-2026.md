@@ -39,7 +39,7 @@ review:
 | **Louis-Thomas → Madeleine Mariani → d’Adhémar** | deux filles : Thérèse et Blanche | **SUBSISTANTE** | non | **LIEN CORSE UNKNOWN** | continuation établie vers Girot de Langlade, Hainguerlot, Terlinden, Compagnon |
 | **Louis-Thomas → Essey Mariani** | capitaine d'infanterie, 1856–1891 ; aucun trait descendant sous son nœud | **PROBABLEMENT ÉTEINTE SELON MEURGEY** | probablement non | hors Corse / inconnu | graphie Essey confirmée sur scan ; aucune descendance publique trouvée ; état civil à corroborer |
 | **Louis-Hugues → Pierre → Marie-Louise → Marguerite → Jean Hugues** | Meurgey + annotation manuscrite + autres sources familiales | **SUBSISTANTE** | non comme patronyme civil principal | **RÉANCRÉE EN CORSE** | chaîne contemporaine du Corpus ; maillons juridiques historiques encore à fermer par actes |
-| **Hyacinthe-Louis-Joseph → Albert × Sophie Fantauzzi → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **INCONNUE — extinction possible mais non démontrée** | inconnu | inconnu | mariage Albert/Sophie corroboré ; aucune autre descendance attribuable avec certitude ; les personnes privées voisines dans les arbres publics ne sont pas reliées sans preuve topologique explicite |
+| **Hyacinthe-Louis-Joseph → Albert × Sophie Fantauzzi → Joseph (1901–1921)** | un fils Joseph, mort en 1921, visible sur le Tableau I | **PROBABLEMENT ÉTEINTE APRÈS 1921 — à confirmer** | probablement non | inconnu | mariage Albert/Sophie corroboré ; Joseph meurt en 1921 ; en 1925 une décision portoricaine décrit la succession de Sophie comme composée de son veuf Albert Mariani, sans autre descendant nommé |
 | **Madeleine Mariani → Filippini** | trois enfants avec Michel Filippini : Marie-Louise → Montbrun ; Ange → Saint-Saud ; Antoine → Émilie Fantauzzi | **SURVIE 2026 UNKNOWN — extinction non démontrée** | non dans les lignes suivies | **LIEN CORSE HISTORIQUE FORT ; contemporain inconnu** | Montbrun « sans postérité » secondaire ; Saint-Saud postérité non trouvée ; Antoine/Émilie : 1 enfant indiqué par arbre Geneanet ET par index de naissances de Paris 9e ; Villa Flore dit seulement « aucun enfant enregistré » ; identité inconnue |
 
 ## Premier enseignement
@@ -288,3 +288,27 @@ Paul Mannes est donc, selon cette généalogie secondaire, **cousin germain une 
 Ce résultat renforce l'idée que les alliances étudiées forment un **graphe familial fortement remaillé**, dans lequel un changement de patronyme ou un remariage ne signifie pas nécessairement sortie du réseau.
 
 L'acte primaire du mariage Mannes–Fantauzzi reste requis avant canonisation complète.
+
+
+### Indice successoral 1925 — branche Albert
+
+Une décision de la Cour suprême de Porto Rico, **Fantauzzi v. Tesorero de Puerto Rico** (1925), cite la succession de **Sofía Fantauzzi** comme composée de son conjoint survivant **Albert Mariani**.
+
+Leur fils **Joseph Mariani (1901–1921)** était déjà décédé.
+
+Cette formulation ne prouve pas à elle seule qu'aucun autre enfant n'ait jamais existé, mais elle fournit un indice successoral plus fort que la seule absence graphique du Tableau I.
+
+Séquence connue :
+
+```text
+Albert Mariani × Sophie Fantauzzi
+→ Joseph Mariani (1901–1921)
+→ 1925 : Albert Mariani est le seul membre nommé de la succession de Sophie dans cette procédure
+```
+
+Qualification révisée :
+
+> **PROBABLEMENT ÉTEINTE APRÈS 1921 — fermeture primaire encore souhaitable.**
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
