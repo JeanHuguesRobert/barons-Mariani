@@ -60,3 +60,16 @@ Empreinte SHA-256 de cette note PDF :
 `a8812b7bffcf39792d710001c52aa2d7c714078b78272035ae56fea6bc479bec`
 
 Le présent fichier Markdown est sa source textuelle publique d'archive.
+
+
+## Archivage binaire exact
+
+**FBF — état au 9 octobre 2026 :** la présente source Markdown est archivée, mais le **binaire exact effectivement déposé** doit encore être ajouté au corpus sans régénération.
+
+- fichier : `2026-6589-SEN_note-accompagnement_chaine-production_v6.pdf`
+- taille : **29 586 octets**
+- SHA-256 : `a8812b7bffcf39792d710001c52aa2d7c714078b78272035ae56fea6bc479bec`
+- chemin cible : `research/senatoriales-2026/transmissions/2026-6589-SEN_note-accompagnement_chaine-production_v6.pdf`
+- suivi : https://github.com/JeanHuguesRobert/barons-Mariani/issues/115
+
+**Ne pas fermer ce point par régénération du PDF.** L'objet à préserver est le fichier exact transmis via TransfertPro.
