@@ -290,18 +290,22 @@ La recherche sur la descendance de Madeleine Mariani a révélé un mécanisme d
 
 Après le décès d’Antoine-Dominique-Thomas-Louis Filippini, son épouse Marie-Émilie Fantauzzi est très fortement corroborée comme remariée avec **Paul William Mannes**.
 
-Or Paul Mannes appartient déjà au réseau Filippini–Mariani par sa mère :
+Or le rattachement de Paul Mannes au tronc Mariani est désormais **secondairement convergent et généalogiquement précis** :
 
 ```text
-Maria Scolastica Mariani × Michelangelo Filippini
-├── Michel Filippini
-│   └── Antoine Filippini
-└── Marie Jéromine Filippini
-    └── Elisa Peraldi
-        └── Paul William Mannes
+Joseph-Marie Mariani × Marie-Madeleine Arrighi de Casanova
+├── Antoine-Dominique Mariani
+│   └── Madeleine Mariani
+│       └── Antoine Filippini
+└── Maria Scolastica Mariani
+    ├── Michel Filippini
+    │   └── Antoine Filippini
+    └── Marie Jéromine Filippini
+        └── Elisa Peraldi
+            └── Paul William Mannes
 ```
 
-Dans cette topologie secondaire, Paul Mannes est **cousin germain une fois retiré** d’Antoine Filippini.
+Dans cette topologie secondaire, **Madeleine Mariani et Michel Filippini sont cousins germains**, et Paul Mannes est **cousin germain une fois retiré** d’Antoine Filippini par la branche de Maria Scolastica.
 
 Le remariage suggère donc un **remaillage à l’intérieur d’un réseau familial élargi**, et non nécessairement une sortie hors réseau.
 
