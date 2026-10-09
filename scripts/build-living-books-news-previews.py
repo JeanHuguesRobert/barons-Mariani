@@ -16,6 +16,10 @@ BOOKS = {
     '1755': 'projects/1755/editions/2026-10-09-rc1-en-preparation.md',
 }
 SHARED_PATHS = {SOURCE, 'research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md',
+                'research/autonomia/atlas_paysage_politique_corse.md',
+                'research/autonomia/dossier_rapporteur_senat_2026-10-09.md',
+                'research/note_synthetique_autonomie_capacite_corse.md',
+                'research/autonomia/amendement_effectivite_article_72-5.md',
                 'scripts/build-living-books-news-previews.py',
                 '.github/workflows/living-books-news-previews.yml'}
 
@@ -25,7 +29,7 @@ def digest(data):
 def impacted_books(paths):
     """Conservative dependency resolver: unknown inputs require review/full build."""
     paths = {p.strip().replace('\\', '/') for p in paths if p.strip()}
-    if not paths or paths & SHARED_PATHS:
+    if not paths or paths & SHARED_PATHS or any(p.startswith('research/autonomia/osint_acteurs/') for p in paths):
         return set(BOOKS)
     affected = set()
     unknown = []
