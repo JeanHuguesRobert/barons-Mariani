@@ -423,6 +423,45 @@ où chaque transition doit distinguer :
 
 Le cas Fantauzzi ne suffit pas à attribuer causalement cette trajectoire à une insuffisance de capacité de la Corse. Il fournit en revanche un exemple empirique de capacité familiale **composée et amplifiée par plusieurs territoires successifs**.
 
+## 9 quater. Patrimoine autonome d'intérêt général — Minesteggio
+
+Le projet de transfert futur de **Minesteggio** au Fonds de dotation Barons Mariani fournit un autre cas de Potentique territoriale.
+
+Le problème n'est pas formulé comme :
+
+```text
+privé
+vs
+public
+```
+
+mais comme une recherche de structure capable de maintenir plusieurs propriétés simultanément :
+
+- continuité au-delà d'une personne physique ;
+- affectation durable à une mission ;
+- capacité d'ouverture au public ;
+- conservation et entretien ;
+- autonomie de décision ;
+- moindre dépendance aux aléas successoraux ;
+- absence de dépendance à l'État comme propriétaire du bien.
+
+On peut le représenter comme un problème de conservation de possibilités :
+
+```text
+patrimoine personnel
+→ risque de fragmentation / vente / changement d'usage
+→ institution autonome affectataire/propriétaire
+→ conservation de futurs accessibles
+```
+
+Le futur Fonds de dotation constitue donc une **Machine à Préserver des Possibles** candidate : son intérêt ne réside pas seulement dans la conservation d'un bien, mais dans la conservation du champ des usages futurs compatibles avec sa mission.
+
+Cette hypothèse doit être testée par le Réel. Une structure privée d'intérêt général peut elle aussi échouer, être sous-financée, capturée, rigidifiée ou devenir incapable d'entretenir le patrimoine.
+
+La question empirique devient donc :
+
+> **Quelle architecture de propriété et de gouvernance préserve le mieux, sur plusieurs générations, les capacités attachées à Minesteggio ?**
+
 ## 10. Principe de prudence épistémique
 
 La Potentique territoriale ne doit pas partir à la recherche de preuves qu'un territoire « empêche » ou « permet ».
