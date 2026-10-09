@@ -49,6 +49,36 @@ Ce qui importe à ce stade n'est pas de choisir prématurément entre ×27 et ×
 Source de départ : Laurent Stefanini, Académie des sciences morales et politiques, 2019 :
 https://academiesciencesmoralesetpolitiques.fr/2019/01/21/laurent-stefanini-la-corse-en-france-250-ans-dadhesion-consentie/
 
+### Micro-histoire coloniale : Charles Louis Filippini
+
+Le réseau familial étudié fournit un cas concret qui dialogue directement avec le **Probe 1 — appareil colonial français**.
+
+Une branche collatérale des Mariani passe par **Maria Scolastica Mariani**, fille de Joseph-Marie Mariani et sœur/collatérale du premier baron Antoine-Dominique, puis par les Filippini et les Gaffori.
+
+Son descendant **Charles Louis Filippini (1834–1887)** est documenté comme :
+
+- avocat ;
+- maire de Corte ;
+- préfet ;
+- gouverneur en Cochinchine ;
+- mort à Saïgon.
+
+Ce cas ne prouve évidemment aucune surreprésentation statistique. Il montre néanmoins, à l'échelle microhistorique, une trajectoire complète :
+
+```text
+réseau familial cortenais
+→ fonction locale
+→ appareil préfectoral
+→ administration coloniale
+→ implantation / décès en Asie
+```
+
+Il devient donc un bon **reality case** à confronter aux statistiques générales de présence corse dans l'appareil colonial.
+
+Sources de départ :
+- Villa Flore, descendance Maria Scolastica Mariani / Michelangelo Filippini ;
+- Villa Flore, Charles Louis Filippini / Marie-Apolline Gaffori.
+
 ## Probe 2 — les agrégés
 
 Deuxième signal : la présence possible de personnes d'origine corse parmi les titulaires de l'agrégation.
