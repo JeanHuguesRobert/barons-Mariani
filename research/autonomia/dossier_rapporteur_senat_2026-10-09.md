@@ -44,7 +44,7 @@ review:
 
 ## États séparés
 
-- Rapporteur nominatif du texte n° 782 : **non confirmé** sur le dossier législatif consulté.
+- **Rapporteure désignée le 7 octobre 2026 : Muriel Jourda**, également présidente de la commission des lois. [Fiche OSINT sourcée](osint_acteurs/muriel_jourda.md). Courriel professionnel public : **m.jourda@senat.fr**. La proposition Baron Mariani reste non transmise et non déposée.
 - Contenu de l'audition ministérielle : **non vérifié** (aucune citation imputée).
 - Projet de courrier : **brouillon, non envoyé**.
 - Dépôt parlementaire de l'amendement d'effectivité : **non attesté**.
