@@ -312,3 +312,22 @@ Qualification révisée :
 
 Source :
 https://vlex.com.pr/vid/34-d-p-r-684623805
+
+
+### Dimension économique de la branche Albert — Porto Rico
+
+Le statut généalogique probablement éteint de la branche après 1921 ne signifie pas absence de capacité économique.
+
+En 1925, la succession de **Sofía Fantauzzi**, avec **Albert Mariani** comme conjoint survivant nommé, fait partie des associés de **Sucesores de C. y J. Fantauzzi**, société agricole et industrielle d'Arroyo, Porto Rico.
+
+Une source économique de la période attribue à cette société la **Central Lafayette** et **8 664 acres**.
+
+Ainsi, pour cette branche :
+
+```text
+survie généalogique probablement faible/nulle
+≠
+absence de patrimoine ou de capital productif
+```
+
+Cette variable doit rester séparée dans la matrice 1933→2026.
