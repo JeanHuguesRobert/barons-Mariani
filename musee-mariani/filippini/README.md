@@ -1584,3 +1584,46 @@ Une recherche ciblée dans les index publics de décès parisiens 1884–1894 n'
 Ce résultat négatif ne vaut pas preuve de survie ni preuve d'absence de décès : il réduit seulement la plausibilité d'une disparition immédiatement visible dans les index publics facilement accessibles.
 
 Le verrou principal reste l'identité de l'enfant dans l'index de naissance du 9e arrondissement.
+
+
+## Sous-branche Ange × Seignouret — second enfant possible
+
+La recherche secondaire révèle une nouvelle discordance utile.
+
+Pour **Ange Antoine Dominique Filippini (né en 1849) × Marie-Jeanne Seignouret**, Geneanet affiche actuellement :
+
+- arbre `kalliste13` : **2 enfants** ;
+- arbre `pimla` : **1 enfant** ;
+- Villa Flore : une seule fille explicitement exposée, **Marie-Thérèse Filippini**.
+
+La seule enfant actuellement identifiée avec nom est :
+
+**Marie-Thérèse Filippini**, épouse en 1914 de **Léonard d'Arlot de Saint-Saud**.
+
+Le second enfant signalé par `kalliste13` reste donc **NON IDENTIFIÉ**.
+
+### Source institutionnelle
+
+Le Service historique de la Défense contient par ailleurs un dossier :
+
+- **FILIPPINI, Ange Antoine Dominique** ;
+- grade : **sous-lieutenant** ;
+- unité : **12e régiment d'artillerie** ;
+- date : **19 novembre 1884** ;
+- cote : **GR 5 YE 42239**.
+
+Source :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+### Qualification
+
+```text
+1 enfant nommé avec certitude secondaire
++
+1 second enfant signalé par au moins un arbre récent
+→ second enfant à identifier
+```
+
+Statut : **1 ENFANT ÉTABLI SECONDAIREMENT + 1 ENFANT POSSIBLE / IDENTITÉ À FERMER**.
+
+Cette branche devient parallèle à Antoine × Émilie : dans les deux cas, la priorité n'est plus de démontrer l'existence d'une descendance, mais d'identifier un enfant masqué ou absent des bases publiques.
