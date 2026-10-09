@@ -66,7 +66,7 @@ Source : https://gw.geneanet.org/peter781?lang=en&n=filippini&p=marie+louise
 
 **Ange Antoine Dominique Filippini**, né en 1849 à Corte, épouse Marie-Jeanne Seignouret en 1883.
 
-Les index Geneanet lui attribuent **deux enfants** dans au moins un arbre, tandis que Villa Flore n'en affiche qu'une : **Marie-Thérèse Filippini**, épouse de **Léonard d'Arlot de Saint-Saud**.
+Les sources sont discordantes sur le nombre d'enfants : l'arbre Geneanet `kalliste13` en attribue **deux**, mais Villa Flore n'en affiche qu'une et un index Geneanet d'état civil ainsi qu'un autre arbre récent indiquent **1 enfant** : **Marie-Thérèse Filippini**, épouse de **Léonard d'Arlot de Saint-Saud**.
 
 Une notice de la Société historique et archéologique du Périgord confirme le mariage Léonard d'Arlot de Saint-Saud × Marie-Thérèse Filippini.
 
@@ -109,7 +109,7 @@ Qualification globale : **SURVIE 2026 UNKNOWN — extinction non démontrée**.
 ## Prochaines actions
 
 1. identifier l'enfant attribué à Antoine Filippini × Marie-Émilie Fantauzzi ;
-2. retrouver le second enfant attribué à Ange Filippini × Marie-Jeanne Seignouret ;
+2. ne rechercher un éventuel second enfant d'Ange Filippini × Marie-Jeanne Seignouret qu'après nouvelle preuve positive : l'état actuel penche vers une fille unique connue, Marie-Thérèse ;
 3. rechercher une succession/nécrologie de Marie-Thérèse Filippini épouse Saint-Saud ;
 4. fermer la filiation de Michel Louis Filippini vers Maria Scolastica Mariani ;
 5. seulement ensuite statuer sur l'extinction ou la subsistance en 2026.
@@ -1370,3 +1370,23 @@ Service historique de la Défense
 GR 5 YE 47459
 FILIPPINI Antoine Dominique Thomas Louis
 ```
+
+
+## Correctif — nombre d’enfants Ange × Seignouret
+
+La piste d'un « second enfant » a été réévaluée.
+
+Sources actuellement visibles :
+
+- arbre Geneanet `kalliste13` : **2 enfants** ;
+- arbre Geneanet `chris46` : **1 enfant** ;
+- index Geneanet de décès où Ange Filippini × Marie-Jeanne Seignouret apparaissent comme parents : **1 enfant** ;
+- Villa Flore : une seule fille affichée, **Marie-Thérèse Filippini**.
+
+La donnée `2 enfants` est donc isolée et ne suffit pas à créer un nœud généalogique supplémentaire.
+
+Statut :
+
+> **Marie-Thérèse = enfant documentée ; éventuel second enfant = NON ÉTABLI.**
+
+Ce correctif évite de transformer une divergence d'arbre en branche réelle.
