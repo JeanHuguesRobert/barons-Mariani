@@ -27,3 +27,28 @@ Cette convergence ne prouve pas son hypothèse étymologique. Elle fait autre ch
 C'est une petite scène, mais elle résume la méthode de *Rise & Fall*. Une mémoire orale peut contenir une information vraie, partielle ou déformée. On ne la jette pas ; on ne la canonise pas non plus. On la conserve comme trace, puis on cherche les points où le Réel peut répondre.
 
 Pour Minesteggio, la question reste donc ouverte. Tony Toma a désormais retrouvé son nom dans le dossier ; son hypothèse, elle, doit encore gagner ou perdre sa place par comparaison philologique, cartographique et archivistique.
+
+
+## Dépatrimonialiser sans remettre à l'État
+
+L'avenir envisagé de Minesteggio introduit une bifurcation patrimoniale qui prolonge directement l'enquête de *Rise & Fall*.
+
+Le projet n'est pas seulement de transmettre le domaine à la génération suivante. Il vise au contraire à le faire sortir de la dépendance à la personne du propriétaire et aux aléas successoraux en l'affectant au futur **Fonds de dotation Barons Mariani**.
+
+Mais cette sortie du patrimoine personnel n'est pas pensée comme une étatisation.
+
+La contrainte explicitement posée par Jean Hugues Noël Robert est :
+
+> **rendre le patrimoine durablement transmissible sans confier sa propriété à l'État.**
+
+Le cas devient ainsi un contrepoint utile à d'autres trajectoires observées dans l'enquête, notamment celles où un bien historique familial subsiste matériellement mais a quitté la propriété familiale au profit d'une collectivité publique.
+
+Minesteggio explore une troisième voie :
+
+```text
+propriété familiale personnelle
+→ propriété institutionnelle autonome
+→ mission durable et ouverte
+```
+
+Il faudra juger cette architecture non sur son intention mais sur ses effets réels : solidité juridique, gouvernance, financement, capacité d'entretien, ouverture effective, transmissibilité de la mission et résistance aux captures futures.
