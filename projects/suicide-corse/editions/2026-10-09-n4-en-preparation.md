@@ -35,6 +35,16 @@ La commission des lois du Sénat avait annoncé une audition de Françoise Gatel
 4. **Livre** : enrichissement seulement lorsque le fait modifie substantiellement le raisonnement, et toujours sans détruire la narration en place.
 5. **Édition** : conserver le présent état en préparation, sans modifier les gels historiques ; produire ultérieurement les rendus si la chaîne éditoriale le permet.
 
+## Correctif FBF — Machine à Empêcher et architecture des canaux
+
+La séquence Préfecture → TA → Conseil constitutionnel fournit un cas vécu utilisable dans la partie grand public consacrée aux **Machines à Empêcher / Machines à Rendre Capable**. Il ne faut pas l’utiliser pour attribuer une intention globale aux institutions : le matériau montre plutôt comment une accumulation de contraintes localement explicables peut réduire la capacité effective d’agir.
+
+Le cas de la vidéo du 11 septembre reste volontairement ouvert : son envoi est établi, mais son devenir dans la chaîne Préfecture → TA reste **UNKNOWN**. Cette inconnue elle-même est pertinente pour la narration sur la traçabilité, à condition de ne jamais la transformer en preuve de non-transmission.
+
+Source canonique des inconnues : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/registre-inconnues-tracabilite.md
+
+Analyse doctrinale : https://github.com/JeanHuguesRobert/cogentia/blob/main/research/tracabilite_symetrique_capture_relationnelle.md
+
 ## Sources et dépendances
 
 - Observatoire : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
