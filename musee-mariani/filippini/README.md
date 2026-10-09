@@ -736,3 +736,68 @@ diaspora relationnelle structurée
 ```
 
 Statut : **MÉCANISME CANDIDAT**, fondé sur une reconstruction généalogique secondaire encore à fermer par actes.
+
+
+## Remariage Mannes — faisceau désormais fort
+
+Le remariage de **Marie-Émilie Fantauzzi**, veuve d'Antoine-Dominique-Thomas-Louis Filippini, avec **Paul William Mannes** dispose désormais de plusieurs appuis indépendants.
+
+### 1. Villa Flore
+
+Villa Flore donne :
+
+- **Paul William Mannes**, né le 8 septembre 1859 à Blida, mort le 28 mai 1936 à Paris ;
+- mariage avec **Marie-Émilie Fantauzzi**, née le 14 avril 1864.
+
+Source :
+https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131197
+
+### 2. Annuaire parisien de 1904
+
+Un annuaire mondain parisien de 1904 mentionne :
+
+> **Mannes (W.), lieutenant de vaisseau, et Mme, née Fantauzzi**, 55 avenue des Champs-Élysées.
+
+Cela confirme de façon indépendante l'existence du couple Mannes–Fantauzzi au début du XXe siècle.
+
+### 3. Cour suprême de Porto Rico, 1925
+
+La décision **Fantauzzi v. Tesorero de Puerto Rico** (34 D.P.R. 487) cite explicitement parmi les demandeurs :
+
+- **Emilia Fantauzzi, assistée de son époux Paul William Mannes** ;
+- la succession de **Sofía Fantauzzi**, composée de son conjoint survivant **Albert Mariani** ;
+- d'autres Fantauzzi appartenant au même ensemble successoral.
+
+Cette pièce juridictionnelle est particulièrement utile car elle relie dans un même contentieux les deux sœurs :
+
+```text
+Émilie Fantauzzi → épouse Paul William Mannes
+Sophie Fantauzzi → épouse Albert Mariani
+```
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+### 4. Presse de 1894 — veuve Filippini
+
+La *Dépêche de Brest* du 4 décembre 1894 contient la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans le contexte d'une autorisation à mariage.
+
+Cette mention est hautement compatible avec Marie-Émilie Fantauzzi après le décès d'Antoine Filippini en 1888.
+
+### Discordance de date
+
+Villa Flore donne le mariage Mannes–Fantauzzi au **30 avril 1894**, alors que la presse du **4 décembre 1894** parle encore d'une autorisation à épouser la « veuve Filippini ».
+
+La date exacte du mariage doit donc être fermée par acte avant canonisation complète.
+
+### Qualification
+
+Le remariage lui-même peut désormais être qualifié :
+
+> **TRÈS PROBABLE / MULTI-SOURCES — DATE EXACTE À FERMER**.
+
+La continuité biographique d'Émilie est beaucoup mieux établie, mais l'identité de l'enfant du premier mariage Filippini reste inconnue.
