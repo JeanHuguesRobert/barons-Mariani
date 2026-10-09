@@ -224,6 +224,34 @@ Il devient possible d’inscrire durablement une affectation du type :
 
 Cette logique est cohérente avec la note existante `research/acorsica-institut-mariani.md`, qui distingue déjà la préfiguration du fonds, l’Institut Mariani et C.O.R.S.I.C.A.
 
+### 3.2 bis Dépatrimonialiser sans étatiser
+
+Pour Minesteggio, l'affectation au futur Fonds de dotation ne vise pas seulement à neutraliser les aléas successoraux.
+
+Jean Hugues Noël Robert précise une contrainte de gouvernance supplémentaire : **la conservation de Minesteggio ne doit pas dépendre d'un transfert de propriété à l'État**.
+
+Le schéma visé est donc :
+
+```text
+bien familial privé
+→ donation / apport / affectation au futur Fonds de dotation
+→ continuité patrimoniale autonome
+→ usage d'intérêt général
+```
+
+avec deux refus distincts :
+
+```text
+pas de dépendance à une succession familiale ordinaire
+pas de dépendance à l'État comme propriétaire du bien
+```
+
+Cette préférence exprime le projet du propriétaire actuel. Elle ne constitue pas, par elle-même, une démonstration de l'incapacité de l'État à conserver un patrimoine.
+
+Le point de conception est plus précis : **rechercher une institution suffisamment stable pour rendre l'affectation durable, tout en restant autonome de l'État propriétaire**.
+
+Le terme `donation` doit rester provisoire tant que le véhicule juridique exact du transfert n'est pas arrêté : donation, apport, dotation ou autre mécanisme doivent être qualifiés juridiquement au moment de la constitution du Fonds.
+
 ### 3.3 Pas de fiction juridique anticipée
 
 Tant que le fonds n’est pas juridiquement créé et n’a pas effectivement reçu ou acquis les actifs concernés, il faut parler de :
