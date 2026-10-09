@@ -4,7 +4,7 @@ description: "Point d’entrée stable vers les informations postérieures au d�
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-07"
+last_modified_at: "2026-10-09"
 license: "CC BY-SA 4.0"
 language: "fr"
 document_role: "operational"
@@ -121,6 +121,12 @@ https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabili
 
 Ce dernier document expose la logique générale de traçabilité employée dans le Corpus. Il n’est pas, par lui-même, une pièce du contentieux électoral.
 
+### Registre canonique des inconnues de traçabilité
+
+https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/registre-inconnues-tracabilite.md
+
+Ce registre conserve séparément les faits établis et les points qui restent `UNKNOWN` ou seulement partiellement documentés, notamment le sort du courriel et de la vidéo du 11 septembre à 17 h 57 min 55 s. Une absence de réponse ou de trace retrouvée n’y est jamais convertie en preuve d’absence.
+
 ## Comment lire les mises à jour futures
 
 Chaque ajout substantiel devra permettre de répondre à quatre questions simples :
@@ -207,6 +213,24 @@ Les futurs ajouts devront distinguer explicitement :
 | 2026-10-07 18:05:05.882 | externe | vérification technique | URL canonique vérifiée comme servant effectivement le PDF | effectif | HTTP 200, `application/pdf`, SHA-256 conservé |
 | 2026-10-07 18:19:57 | Conseil → requérant | accusé de réception / enregistrement | Requête reçue le 7 octobre 2026 et enregistrée | **enregistré** | **2026-6589 SEN**, Gmail `1a1172a1f659761e` |
 | 2026-10-07 19:40:46 | requérant → Conseil | réponse / accusé de réception | Confirmation de l’adresse de notification et explication documentée de l’incident | envoyé dans le même fil | Gmail `1a117741d9797649` |
+| 2026-10-07 19:52:06 | Conseil → requérant | demande de canal | Le greffe demande la requête et les pièces via TransfertPro, les liens externes étant bloqués par le pare-feu conformément à sa politique de sécurité | reçu | Gmail `1a1177e7de0a306f` |
+| 2026-10-07 20:39:36 | TransfertPro → requérant | validation secondaire | Après le dépôt, un courriel distinct « Fichier(s) à valider » exige une validation de l’envoi | action requise puis accomplie | Gmail `1a117a9f7b66127d`, transaction `108954845843673847` |
+| 2026-10-07, après 20:39:36 | requérant → TransfertPro | validation | L’interface confirme : « L’envoi N°108954845843673847 est validé » | **validé** | page TransfertPro observée par le requérant |
+| 2026-10-07 20:49:28 | TransfertPro → requérant | confirmation de mise à disposition | Les deux PDF sont annoncés « disponibles en téléchargement pour greffe@conseil-constitutionnel.fr » | **mis à disposition** | Gmail `1a117b2feec1e64f`, transaction `108954845843673847` |
+
+### État de la transmission complémentaire TransfertPro
+
+La séquence postérieure à l’enregistrement est désormais documentée jusqu’à la mise à disposition des fichiers :
+
+```text
+demande du greffe
+→ dépôt
+→ validation secondaire notifiée par email
+→ validation manuelle
+→ mise à disposition des deux PDF au greffe
+```
+
+Le courriel final de TransfertPro propose par ailleurs un lien vers « l’historique de vos envois ». Dans le parcours effectivement utilisé, ce lien conduit à une authentification nécessitant un compte qui n’a pas été provisionné lors du dépôt. L’historique détaillé du prestataire n’est donc pas considéré comme une preuve autonome accessible ; les courriels conservés et le numéro de transaction constituent les traces indépendantes disponibles.
 
 ### Distinction à conserver
 
