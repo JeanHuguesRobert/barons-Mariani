@@ -174,3 +174,10 @@ Le projet constitutionnel pour une Corse autonome au sein de la République (Sé
 - [Observatoire du processus](../../research/autonomia/observatoire_processus_autonomie_corse.md)
 
 Cette actualité documente un test de capacité ; elle ne constitue ni dépôt parlementaire de l'amendement ni preuve de son adoption.
+
+
+---
+
+## Actualisation des preuves — audition Gatel (9 octobre 2026)
+
+Le [registre canonique des traces](../../research/autonomia/observatoire_processus_autonomie_corse.md) distingue désormais l’annonce de l’audition du 7 octobre, l’accès ultérieurement défaillant à sa fiche officielle (404), l’absence de compte rendu pour la semaine du 5 octobre sur la page consultée et le replay non vérifié. Il serait injustifié d’attribuer à la ministre un propos sur l’effectivité du projet n° 782 sans source primaire. Cette incertitude demeure ouverte et corrigible ; les éditions datées restent inchangées.
