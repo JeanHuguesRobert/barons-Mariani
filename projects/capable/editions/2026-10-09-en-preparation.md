@@ -35,6 +35,16 @@ La commission des lois du Sénat avait annoncé une audition de Françoise Gatel
 4. **Livre** : enrichissement seulement lorsque le fait modifie substantiellement le raisonnement, et toujours sans détruire la narration en place.
 5. **Édition** : conserver le présent état en préparation, sans modifier les gels historiques ; produire ultérieurement les rendus si la chaîne éditoriale le permet.
 
+## Correctif FBF — effectivité des canaux de recours
+
+Le dossier sénatorial fournit désormais un Reality Test concret de l’**Autonomie de Capacité** : l’existence formelle d’un droit ou d’un canal ne suffit pas à établir sa capacité d’usage effective. La séquence documentée combine limite de taille d’email, exigence de matérialité, routage Préfecture → TA partiellement opaque, Sagace partiel, Télérecours plus riche mais engageant, notification postale, consultation physique, puis TransfertPro avec validation secondaire.
+
+Le point à propager dans *Capable* n’est pas la controverse électorale elle-même mais l’invariant : **capacité juridique annoncée ≠ capacité effectivement utilisable, traçable et disponible dans le temps utile**.
+
+Source canonique des inconnues : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/registre-inconnues-tracabilite.md
+
+Analyse doctrinale : https://github.com/JeanHuguesRobert/cogentia/blob/main/research/tracabilite_symetrique_capture_relationnelle.md
+
 ## Sources et dépendances
 
 - Observatoire : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
