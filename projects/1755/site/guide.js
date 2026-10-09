@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const knowledgeBase = [
       {
         keywords: ["femme", "femmes", "vote", "suffrage", "veuve"],
-        response: "**Suffrage des femmes en 1755 :** Le texte de la Constitution mentionne l'élection par les « padri di famiglia » (chefs de famille). Les archives dépouillées par Dorothy Carrington et les récits de James Boswell attestent que les veuves et femmes cheffes de foyer votaient de plein droit dans les assemblées de pieve pour désigner les magistrats et députés. Il s'agissait d'un vote patrimonial lié à la responsabilité du foyer dans la *Terra di Comune*, non du suffrage individuel universel moderne."
+        response: "**Suffrage des femmes en 1755 :** Le texte de la Constitution mentionne l'élection par les « padri di famiglia » (chefs de famille). La participation électorale de femmes, notamment de veuves cheffes de foyer, est évoquée dans l'historiographie, mais son étendue, ses modalités et ses attestations documentaires précises demandent à être vérifiées. La formule « padri di famiglia » ne permet pas à elle seule de conclure à un suffrage féminin général ni à un suffrage universel moderne."
       },
       {
         keywords: ["nobles douze", "dodici", "statuts", "1571", "gênes", "génois"],
@@ -17,11 +17,11 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         keywords: ["corte", "consulte", "dieta", "diète", "novembre"],
-        response: "**La Consulte de Corte (16–18 novembre 1755) :** Assemblée générale constituante réunie au couvent Saint-François de Corte sous la présidence de Pascal Paoli. Elle proclame la souveraineté du peuple, vote la Constitution écrite de la République corse et institue la Diète générale annuelle comme organe législatif suprême."
+        response: "**La Consulte de Corte (16–18 novembre 1755) :** Assemblée générale réunie à Corte ; son acte constitutionnel affirme la légitimité du peuple corse à se gouverner. L'organisation de la Diète, les modalités de représentation et l'évolution institutionnelle entre 1755 et 1769 doivent être étudiées à partir des textes et de leur application, sans projeter les catégories parlementaires actuelles."
       },
       {
         keywords: ["sindacato", "syndicat", "contrôle", "contre-pouvoir", "abus"],
-        response: "**Le Sindacato (Chambre des Syndics) :** Tribunal suprême de contrôle indépendant du Général et du Conseil d'État. Tout citoyen pouvait y dénoncer les abus de pouvoir ou concussions de tout magistrat. C'est l'un des premiers tribunaux constitutionnels et de surveillance civique de l'histoire moderne."
+        response: "**Le Sindacato (Chambre des Syndics) :** Institution de reddition des comptes et de contrôle des responsables publics dans le système paolien, issue de traditions antérieures. Ses compétences, son indépendance et les modalités de saisine varient selon les textes et la pratique ; il serait anachronique de l'assimiler sans réserve à une cour constitutionnelle moderne. Voir l'étude de Pierre-Antoine Tomasi sur LUMI (Université de Corse)."
       },
       {
         keywords: ["boswell", "ecosse", "livre", "1768"],
@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
       },
       {
         keywords: ["amérique", "états-unis", "sons of liberty", "paoli", "pennsylvanie"],
-        response: "**L'écho américain :** Les *Sons of Liberty* portaient des toasts à Pascal Paoli dans les années 1760. Quatre localités portent son nom aux États-Unis (dont Paoli, PA, théâtre de la bataille de 1777). La réception américaine de Paoli est documentée, mais une influence directe de la Constitution de 1755 sur les textes constitutionnels américains n'est pas établie par cette seule réception."
+        response: "**L'écho américain :** Paoli jouit d'une notoriété documentée dans les milieux favorables aux libertés atlantiques au XVIIIe siècle. Les hommages et toponymes doivent être vérifiés individuellement ; ils ne démontrent pas à eux seuls une transmission juridique directe. La réception américaine de Paoli est documentée, mais une influence directe de la Constitution de 1755 sur les textes constitutionnels américains n'est pas établie par cette seule réception."
       },
       {
         keywords: ["manuscrit", "archives", "cote", "unesco", "original"],
