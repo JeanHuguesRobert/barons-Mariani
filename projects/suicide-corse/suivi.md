@@ -3,7 +3,7 @@ title: "Suicide Corse — suivi du numéro 4"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
-last_modified_at: "2026-10-07"
+last_modified_at: '2026-10-09'
 status: "working"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -25,6 +25,7 @@ review:
   status: "unreviewed"
   reviewed_by: []
 ---
+
 
 # Suivi du numéro 4
 
@@ -299,3 +300,9 @@ Les matrices P1–P18 et D1–D10 restent des sources autonomes. Toute évolutio
 ## Ce qui reste hors de cette page
 
 Le sommaire définitif du numéro 4 n'est pas choisi. La projection publique de préparation rend actuellement quatre chapitres de magazine, mais elle reste remplaçable et ne constitue pas un gel. Le matériau privé du 53 rue Séguier n'est pas publié ici. Le numéro 3 gelé n'est pas réécrit.
+
+---
+
+## 9 octobre 2026 — préparation documentaire du n°4
+
+Le [jalon de préparation du n°4](editions/2026-10-09-n4-en-preparation.md) réunit la séquence institutionnelle autour de l'audition Gatel du 7 octobre (contenu non encore attesté), la recherche du rapporteur, et la continuité avec le dossier d'effectivité de l'article 72-5. Les références et les incertitudes sont tenues dans l'[Observatoire](../../research/autonomia/observatoire_processus_autonomie_corse.md). **Ce suivi n'affirme aucune prise de position ministérielle vérifiée et ne modifie aucun numéro gelé.**
