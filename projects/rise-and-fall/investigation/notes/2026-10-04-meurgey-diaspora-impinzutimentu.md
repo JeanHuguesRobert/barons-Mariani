@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.6"
+version: "0.7"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -230,6 +230,36 @@ trace patrimoniale conservée en Corse
 Le passage de cette maison dans le patrimoine communal doit être étudié séparément ; sa cause et ses modalités ne sont pas inférées à partir du seul statut actuel.
 
 Dossier : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
+
+### Correctif patrimonial — donation Arrighi à la commune
+
+La qualification initiale « bien historique sorti de la propriété familiale » était exacte mais insuffisante.
+
+Les sources municipales et patrimoniales indiquent désormais que la **famille Grazzietti de Vezzani**, apparentée aux Arrighi de Casanova par les collatéraux, a **donné la maison historique à la ville de Corte**.
+
+Le mécanisme observé n'est donc pas simplement :
+
+```text
+famille
+→ perte d'un bien
+```
+
+mais :
+
+```text
+famille
+→ transmission collatérale
+→ donation volontaire à la commune
+→ conservation comme patrimoine public territorial
+```
+
+Cela crée une catégorie distincte dans *Rise & Fall* :
+
+**conversion patrimoniale collective** — le patrimoine sort de la propriété privée familiale tout en restant matériellement dans le territoire et en gagnant éventuellement une fonction mémorielle ou publique.
+
+Cette catégorie doit être distinguée de la vente, de la saisie, de l'abandon, de la ruine ou de la dispersion successorale.
+
+La date et l'acte exacts de donation restent à rechercher.
 ## 6 quater. Troisième résultat — Fantauzzi / Fournier-Sarlovèze
 
 **Correctif généalogique :** les Fantauzzi étudiés ici sont, à ce stade, une **famille alliée** aux Mariani, non une descendance Mariani démontrée. Sophie Fantauzzi épouse Albert Mariani ; Antoine et Jules sont ses frères.
