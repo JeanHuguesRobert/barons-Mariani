@@ -55,7 +55,7 @@ changelog:
 ## Actualisation vérifiée — 9 octobre 2026
 
 - La [fiche officielle de l’audition de Françoise Gatel](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html) est accessible lors du contrôle du 9 octobre ; elle annonce l’audition du 7 octobre à 15 h, mais ne constitue pas un compte rendu de ses échanges. Une erreur HTTP observée lors d’un contrôle antérieur doit être conservée comme **observation ponctuelle**, non comme état permanent du lien.
-- Le [dossier législatif officiel](https://www.senat.fr/dossier-legislatif/pjl24-869.html) confirme la transmission du texte n° 782 le 24 juin et sa discussion prévue le 26 octobre. Le rapporteur n’y est pas nominativement identifié au moment du contrôle.
+- Le [dossier législatif officiel](https://www.senat.fr/dossier-legislatif/pjl24-869.html) confirme la transmission du texte n° 782 le 24 juin et sa discussion prévue le 26 octobre. La désignation de **Muriel Jourda**, le 7 octobre 2026, est établie séparément par le compte rendu officiel de la commission des lois : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html .
 - Le [calendrier du Sénat](https://www.senat.fr/seances/s202607/s20260708/s20260708019.html) annonce la réunion de la commission pour le rapport le 21 octobre et la limite des amendements de séance le 23 octobre à midi.
 - [Point d’entrée consolidé pour la lecture parlementaire](./autonomia/dossier_rapporteur_senat_2026-10-09.md) : liens vers proposition, justification, antériorités, observations et états non établis.
 
@@ -163,7 +163,7 @@ Au **7 octobre 2026 à 7 h 36**, le renouvellement interne du Sénat est encore 
 - les listes des candidats aux commissions permanentes ont été publiées le 6 octobre, avec ratification annoncée sauf opposition dans le délai prévu ;
 - la constitution du bureau de la commission des lois est prévue le 7 octobre à **9 h 30** ;
 - l’audition de **Françoise Gatel**, ministre de l’aménagement du territoire et de la décentralisation, sur le projet corse est annoncée le 7 octobre à **15 h** ;
-- le rapporteur du texte n’est pas présumé dans la présente note tant que sa désignation n’est pas officiellement établie.
+- la rapporteure du texte est **Muriel Jourda**, désignée le 7 octobre 2026 ; [fiche OSINT et contact](./autonomia/osint_acteurs/muriel_jourda.md).
 
 ## 6. Pourquoi le petit delta
 
@@ -230,7 +230,7 @@ Les états **publication → réception → routage → examen → reprise** doi
 Pour un examen rapide, l’ordre de lecture recommandé est :
 
 1. **présent document** — synthèse au 7 octobre ;
-2. [courrier public au futur rapporteur](./autonomia/courrier_rapporteur_senat_effectivite_72-5.md) ;
+2. [courrier public à la rapporteure Muriel Jourda](./autonomia/courrier_rapporteur_senat_effectivite_72-5.md) ;
 3. [amendement d’effectivité](./autonomia/amendement_effectivite_article_72-5.md) ;
 4. [note de continuité parlementaire](./autonomia/note_continuite_parlementaire_autonomie_2026-09.md) ;
 5. [Atlas consolidé — état au 7 octobre 2026](./autonomia/atlas_paysage_politique_corse.md) ;
@@ -253,7 +253,7 @@ La [contribution du 28 mai](./contribution_commission_lois_autonomie_capacite.md
 Trois informations doivent être revérifiées avant tout envoi au rapporteur :
 
 1. composition et bureau définitifs de la commission des lois ;
-2. identité du rapporteur du projet n° 782 ;
+2. canal de réception et adresse professionnelle de la rapporteure (courriel public identifié : m.jourda@senat.fr) ;
 3. version courante de l’amendement d’effectivité et calendrier parlementaire.
 
 Une information non encore publiée doit rester **inconnue ou en attente**, jamais être complétée par inférence.
