@@ -1482,3 +1482,69 @@ Ce décalage peut provenir :
 Aucune de ces explications n'est privilégiée sans l'acte.
 
 Statut : **remariage Mannes très probable ; date exacte à fermer par source primaire**.
+
+
+## Source institutionnelle — dossier d’officier d’Antoine Filippini
+
+L'inventaire du Service historique de la Défense contient une entrée :
+
+- **FILIPPINI, Antoine Dominique Thomas Louis** ;
+- grade : **sous-lieutenant** ;
+- affectation : **escadron de la cavalerie territoriale légère de la 11e région** ;
+- date : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Cette source institutionnelle contemporaine renforce l'identification biographique d'Antoine Filippini peu avant son décès parisien de 1888.
+
+Source :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+## Route primaire vers l'enfant Filippini–Fantauzzi
+
+Les Archives de Paris confirment que, pour la période 1860–1899 :
+
+- les actes de naissance sont conservés par arrondissement ;
+- les tables alphabétiques sont présentes à la fin des registres ;
+- les tables décennales donnent nom, prénoms et date de l'acte.
+
+Le résultat Geneanet situe l'enfant dans **Paris 9e**.
+
+La recherche primaire est donc maintenant bornée :
+
+```text
+Paris 9e
+naissances
+04/10/1883 → 30/10/1888
+nom : FILIPPINI
+parents :
+Antoine-Dominique-Thomas-Louis Filippini
+× Marie-Émilie Fantauzzi
+```
+
+Sources officielles :
+- https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/actes-detat-civil
+- https://archives.paris.fr/archives-numerisees/etat-civil-de-paris/etat-civil-a-partir-de-1860/tables-decennales
+
+Le verrou n'est plus documentaire mais **d'accès à la ligne exacte du registre**.
+
+
+## Convergence 1925 — Émilie Fantauzzi / Paul William Mannes
+
+Une décision de la Cour suprême de Porto Rico de 1925 cite explicitement :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- la succession de **Sofía Fantauzzi**, composée notamment de son veuf **Albert Mariani** ;
+- plusieurs autres Fantauzzi parties à la même affaire successorale/fiscale.
+
+Cette pièce judiciaire établit fermement l'existence du couple **Émilie Fantauzzi × Paul William Mannes** au plus tard en 1925 et son insertion dans le même groupe familial que Sophie Fantauzzi × Albert Mariani.
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+Elle ne suffit toutefois pas à prouver, seule, qu'Émilie est la veuve d'Antoine Filippini. Ce raccord repose actuellement sur la convergence avec :
+
+- Villa Flore : Marie-Émilie Fantauzzi (1864–) × Paul William Mannes ;
+- la presse de 1894 : « Mme Fantauzzi, veuve Filippini, de Paris » ;
+- la chronologie compatible avec le décès d'Antoine Filippini en 1888.
+
+Statut : **IDENTIFICATION TRÈS PROBABLE — acte de second mariage encore requis**.
