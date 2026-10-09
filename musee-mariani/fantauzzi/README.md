@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.4"
+version: "0.5"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -248,3 +248,57 @@ coassociés d'une société familiale
 ≠
 fratrie démontrée
 ```
+
+
+## Trajectoire transatlantique documentée — Corse → Porto Rico → Oise
+
+La trajectoire économique des Fantauzzi est désormais corroborée par des sources institutionnelles de part et d'autre de l'Atlantique.
+
+### Porto Rico
+
+Le **Centro de Investigaciones Históricas y de Opinión** de l'Universidad Interamericana de Puerto Rico documente la **Central Lafayette** à Arroyo et indique que les frères corses **Cruciano et José Fantauzzi** fondent en 1853 la société mercantile et agricole **Fantauzzi Hermanos**, à l'origine de la future centrale. La source attribue à la famille Fantauzzi la propriété de la Central Lafayette de 1905 à 1936.
+
+Source :
+https://web.metro.inter.edu/facultad/esthumanisticos/ciho/centrales/centrallafayette.asp
+
+L'**Office d'État de conservation historique de Porto Rico** décrit par ailleurs la Central Lafayette comme implantée sur la **Hacienda Cuatro Calles**, fondée/acquise par la famille Fantauzzi, et souligne son importance dans l'histoire de l'industrie sucrière portoricaine.
+
+Source :
+https://docs.pr.gov/files/OECH/Informaci%C3%B3n%20Arqueol%C3%B3gica%20por%20Municipio/Informacio%CC%81n%20Arqueolo%CC%81gica%20del%20Municipio%20de%20Arroyo.pdf
+
+### Retour / investissement en France
+
+L'**Inventaire général du patrimoine culturel des Hauts-de-France** documente le rachat en **1896** de la sucrerie de Coudun par **Joseph Fantauzzi**, puis son développement industriel.
+
+Source :
+https://inventaire.hautsdefrance.fr/dossier/IA60001087
+
+La concordance avec Joseph Fantauzzi (1832–1905), né à Morsiglia et mort à Coudun, est forte dans les sources généalogiques secondaires.
+
+### Séquence actuellement documentable
+
+```text
+Morsiglia / Corse
+→ migration de José et Cruciano Fantauzzi à Porto Rico
+→ Fantauzzi Hermanos (1853)
+→ propriétés agricoles et sucrières à Arroyo
+→ Central Lafayette
+→ retour / centre de gestion en France
+→ Joseph Fantauzzi rachète la sucrerie de Coudun (1896)
+→ transmission industrielle et agricole familiale
+→ ancrage civique à Coudun
+→ continuité économique jusqu'en 2026
+```
+
+Cette séquence est beaucoup plus précise que le simple schéma « Corse → Oise » retenu au début du chantier.
+
+### Ce qu'elle ne prouve pas encore
+
+Elle ne permet pas encore de mesurer :
+
+- quelle part du capital investi à Coudun provient directement des activités porto-ricaines ;
+- les flux financiers exacts entre Porto Rico et la France ;
+- la distribution patrimoniale entre les différentes branches Fantauzzi ;
+- les effets nets pour la Corse.
+
+La bonne formulation est donc : **continuité entrepreneuriale transatlantique fortement documentée ; transfert précis de capital à quantifier**.
