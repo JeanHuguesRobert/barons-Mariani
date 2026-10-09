@@ -71,3 +71,8 @@ The static tree is published at `https://diaspora.acorsica.org`. See `deploy/REA
 ## Croisement avec Capable — itinéraires et Empire Corse
 
 Le chantier [Empire Corse — hypothèse historiographique et itinéraires de la Marche du Soleil](../capable/campaign/empire-corse-itineraires-napoleoniens.md) interroge les capacités corses historiquement distribuées et leurs représentations. Il réutilise les principes de provenance et de correction de DIASPORA. Les circulations volontaires d'exemplaires uniques de *Capable* peuvent produire de nouvelles contributions qualifiables, sans jamais déduire une appartenance ou une préférence politique d'un nom, d'un lieu de naissance ou d'une ascendance.
+
+
+## Projet #1755 — mise en relation de capacités archivistiques
+
+L'enquête sur la cote **1 J 7/1** (Constitution corse, novembre 1755, référence patrimoniale publiée, non encore confirmée directement par les Archives) fournit un Reality Case d'annuaire des capacités : repérer les détenteurs de fonds, conservateurs, éditeurs et chercheurs, sans présumer de leurs engagements. [Enquête et sources](../../research/autonomia/1755-manuscrit-1j7-1-enquete.md).
