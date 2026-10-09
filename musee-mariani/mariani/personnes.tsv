@@ -45,4 +45,6 @@ MAN-PAUL-1859	Mannes	Paul William; William; W.	1859-09-08	1936-05-28	Blida; Pari
 PER-ELISA-1838	Peraldi	Elisa Letizia Pauline	1838-09-18		Ajaccio	secondaire_convergent	VILLAFLORE	Mère de Paul William Mannes; fille de Gio Gualberto Peraldi et Marie Jéromine Filippini
 FIL-MARIE-JEROMINE-1819	Filippini	Marie Jéromine	1819	1889	Corte; Ajaccio	secondaire_convergent	VILLAFLORE	Mère d’Elisa Peraldi; fille de Michelangelo Filippini et Maria Scolastica Mariani
 FIL-MICHELANGELO-1787	Filippini	Michelangelo	1787	1829	Corte	secondaire	VILLAFLORE	Époux de Maria Scolastica Mariani
-MAR-MARIA-SCOLASTICA-1787	Mariani	Maria Scolastica	1787		Corse	secondaire	VILLAFLORE	Épouse de Michelangelo Filippini; rattachement exact au tronc Mariani à fermer avant fusion de lignées
+MAR-MARIA-SCOLASTICA-1787	Mariani	Maria Scolastica	1787		Corse	secondaire_convergent	VILLAFLORE+ANCESTRY	Fille de Joseph-Marie Mariani et Marie-Madeleine Arrighi de Casanova; sœur de branche du premier baron Antoine-Dominique; épouse Michelangelo Filippini
+MAR-JOSEPH-MARIE-1743	Mariani	Joseph-Marie; Giuseppe Maria	1743	1830	Corte; Corse	secondaire_convergent	MEURGEY-TABLEAU-I+VILLAFLORE+ANCESTRY	Receveur général des finances; époux de Marie-Madeleine Arrighi de Casanova; père du premier baron et de Maria Scolastica selon sources secondaires convergentes
+ARR-MARIE-MADELEINE-1749	Arrighi de Casanova	Marie-Madeleine	vers 1749		Corse	secondaire_convergent	MEURGEY-TABLEAU-I+VILLAFLORE+ANCESTRY	Épouse de Joseph-Marie Mariani; mère du premier baron et de Maria Scolastica selon sources secondaires convergentes
