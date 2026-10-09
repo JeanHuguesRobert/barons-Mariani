@@ -11,6 +11,7 @@ on:
       - "projects/suicide-corse/editions/**"
       - "projects/1755/editions/**"
       - "scripts/build-living-books-news-previews.py"
+      - "tests/test_news_preview.py"
 
 permissions:
   contents: read
@@ -25,8 +26,28 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Test incremental preview engine
+        run: python3 -m unittest discover -s tests -p test_news_preview.py -v
+      - name: Identify changed files
+        if: github.event_name == 'push'
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: |
+          if git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null; then
+            git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" > "$RUNNER_TEMP/living-books-changed.txt"
+          else
+            : > "$RUNNER_TEMP/living-books-changed.txt"
+          fi
       - name: Generate traceable working previews
-        run: python3 scripts/build-living-books-news-previews.py
+        run: |
+          if [ -f "$RUNNER_TEMP/living-books-changed.txt" ]; then
+            python3 scripts/build-living-books-news-previews.py --changed-files-from "$RUNNER_TEMP/living-books-changed.txt"
+          else
+            python3 scripts/build-living-books-news-previews.py
+          fi
       - name: Upload only provisional artifacts
         uses: actions/upload-artifact@v4
         with:
@@ -35,5 +56,5 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
-# Deliberately NO publication, freeze, release, write permission or auto-merge.
+# No publication, freeze, release, repository write permission or auto-merge.
 # A human must separately review and authorize any promotion of an edition.
