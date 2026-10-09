@@ -1,13 +1,13 @@
 ---
 title: "Note synthétique pour examen parlementaire"
-subtitle: "Autonomie de capacité de la Corse — état au 7 octobre 2026"
+subtitle: "Autonomie de capacité de la Corse — état au 9 octobre 2026"
 description: "Synthèse opérationnelle destinée à la phase sénatoriale du projet de loi constitutionnelle n° 782 : état du texte, proposition d’amendement d’effectivité, continuité documentaire et contexte institutionnel au 7 octobre 2026."
 author: "Jean Hugues Noël Robert, baron Mariani de Corte"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-05-24"
-last_modified_at: "2026-10-07"
-version: "0.4"
-status: "working-paper — parliamentary synthesis current as of 2026-10-07"
+last_modified_at: "2026-10-09"
+version: "0.5"
+status: "working-paper — parliamentary synthesis current as of 2026-10-09"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md"
@@ -22,7 +22,7 @@ target_audience:
   - "parlementaires"
 target_scene: "parliamentary_review"
 document_function: "current_synthesis"
-snapshot_as_of: "2026-10-07T07:36:00+02:00"
+snapshot_as_of: "2026-10-09"
 related_documents:
   - "research/autonomia/amendement_effectivite_article_72-5.md"
   - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
@@ -50,7 +50,16 @@ changelog:
 
 # Note synthétique pour examen parlementaire
 
-## Autonomie de capacité de la Corse — état au 7 octobre 2026
+## Autonomie de capacité de la Corse — état au 9 octobre 2026
+
+## Actualisation vérifiée — 9 octobre 2026
+
+- La [fiche officielle de l’audition de Françoise Gatel](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html) est accessible lors du contrôle du 9 octobre ; elle annonce l’audition du 7 octobre à 15 h, mais ne constitue pas un compte rendu de ses échanges. Une erreur HTTP observée lors d’un contrôle antérieur doit être conservée comme **observation ponctuelle**, non comme état permanent du lien.
+- Le [dossier législatif officiel](https://www.senat.fr/dossier-legislatif/pjl24-869.html) confirme la transmission du texte n° 782 le 24 juin et sa discussion prévue le 26 octobre. Le rapporteur n’y est pas nominativement identifié au moment du contrôle.
+- Le [calendrier du Sénat](https://www.senat.fr/seances/s202607/s20260708/s20260708019.html) annonce la réunion de la commission pour le rapport le 21 octobre et la limite des amendements de séance le 23 octobre à midi.
+- [Point d’entrée consolidé pour la lecture parlementaire](./autonomia/dossier_rapporteur_senat_2026-10-09.md) : liens vers proposition, justification, antériorités, observations et états non établis.
+
+**Prudence :** aucune position de la ministre ou de la commission ne peut être déduite de la seule fiche de programmation.
 
 ## 1. En une minute
 
@@ -136,7 +145,7 @@ renouvellement des instances du Sénat
 
 L’ancienne proposition consistant à inscrire directement l’expression **« autonomie de capacité »** dans le premier alinéa du futur article 72-5 demeure une pièce de **généalogie doctrinale**. Elle n’est plus présentée comme la rédaction parlementaire courante.
 
-## 5. État sénatorial au matin du 7 octobre
+## 5. État sénatorial (photographie du matin du 7 octobre, conservée comme historique)
 
 Les élections sénatoriales du **27 septembre 2026** ont reconduit les deux sénateurs corses sortants :
 
