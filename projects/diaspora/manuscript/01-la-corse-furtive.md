@@ -164,6 +164,24 @@ personnes / descendants ailleurs
 ```
 
 Dossier source : `musee-mariani/sources/meurgey-1933/apparatus/continuation-arrighi-de-casanova-1933-2026.md`.
+
+### Patrimoine quitté par la famille, resté au territoire
+
+Une précision change la lecture de la Maison Arrighi de Casanova : la propriété communale actuelle résulte, selon les sources patrimoniales locales, d'un **don de la famille Grazzietti de Vezzani**, collatérale des Arrighi, à la ville de Corte.
+
+Il faut donc distinguer :
+
+```text
+famille partie / transformée
++
+bien sorti de la propriété familiale
++
+bien resté en Corse
++
+bien converti en patrimoine collectif
+```
+
+Pour DIASPORA, c'est un cas important : une famille peut perdre la propriété juridique d'un bien sans que le territoire perde ce patrimoine. La capacité patrimoniale peut être **socialisée localement** plutôt que simplement exportée ou détruite.
 ### Troisième résultat du Probe 3 — Fantauzzi / Fournier-Sarlovèze
 
 **Précision généalogique :** les Fantauzzi constituent ici une **famille alliée** aux Mariani. Leur intérêt pour DIASPORA est comparatif et relationnel ; ils ne sont pas présentés comme descendants Mariani tant qu'une telle filiation n'est pas démontrée.
