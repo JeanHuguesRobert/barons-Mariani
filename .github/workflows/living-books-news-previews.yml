@@ -17,6 +17,11 @@ on:
     paths:
       - "research/autonomia/observatoire_processus_autonomie_corse.md"
       - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
+      - "research/autonomia/osint_acteurs/**"
+      - "research/autonomia/atlas_paysage_politique_corse.md"
+      - "research/autonomia/dossier_rapporteur_senat_2026-10-09.md"
+      - "research/note_synthetique_autonomie_capacite_corse.md"
+      - "research/autonomia/amendement_effectivite_article_72-5.md"
       - "projects/capable/editions/**"
       - "projects/suicide-corse/editions/**"
       - "projects/1755/editions/**"
