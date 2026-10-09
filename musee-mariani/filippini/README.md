@@ -1013,3 +1013,72 @@ premier Filippini du même arrondissement trouvé sur le web
 ```
 
 Statut inchangé : **ENFANT TRÈS PROBABLE / IDENTITÉ À EXTRAIRE PAR SOURCE PRIMAIRE**.
+
+
+## Remariage Fantauzzi → Mannes — convergence renforcée
+
+La piste de remariage de **Marie-Émilie Fantauzzi**, veuve d'Antoine Filippini, est désormais soutenue par trois couches distinctes.
+
+### 1. Source généalogique secondaire
+
+Villa Flore donne :
+
+- **Paul William Mannes**, né à Blida le 8 septembre 1859, mort à Paris le 28 mai 1936 ;
+- mariage avec **Marie-Émilie Fautauzzi/Fantauzzi**, née le 14 avril 1864 ;
+- date indiquée : **30 avril 1894**.
+
+### 2. Presse de 1894
+
+L'index de *La Dépêche de Brest* du **4 décembre 1894** contient la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans un contexte d'autorisation à mariage.
+
+Cette pièce confirme qu'une **veuve Filippini née Fantauzzi**, domiciliée à Paris, se remarie ou s'apprête à se remarier en 1894.
+
+### 3. Source judiciaire de 1925
+
+Une décision du Tribunal suprême de Porto Rico cite :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- dans la même procédure, la succession de **Sofia Fantauzzi**, composée de son veuf **Albert Mariani** ;
+- d'autres membres Fantauzzi.
+
+Cette source établit qu'en 1925 **Emilia Fantauzzi est bien épouse de Paul William Mannes** et appartient au même ensemble familial que Sophie Fantauzzi × Albert Mariani.
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+### Qualification
+
+La chaîne suivante devient **fortement convergente** :
+
+```text
+Marie-Émilie Fantauzzi
+× 1883 Antoine-Dominique-Thomas-Louis Filippini
+→ veuve Filippini en 1888
+→ remariage avec Paul William Mannes
+→ épouse Mannes attestée en 1925
+```
+
+La **date précise** du second mariage reste à fermer, car la date Villa Flore (30 avril 1894) paraît en tension avec la coupure de presse du 4 décembre 1894.
+
+Statut : **REMARIAGE TRÈS PROBABLE / DATE DISCORDANTE À FERMER**.
+
+## Boucle familiale élargie Mannes / Peraldi / Filippini / Mariani
+
+Le remariage est également remarquable par la généalogie de Paul Mannes.
+
+Villa Flore donne :
+
+```text
+Paul William Mannes
+← Elisa Peraldi
+← Marie Jéromine Filippini
+← Michelangelo Filippini × Maria Scolastica Mariani
+```
+
+Ainsi, si le remariage est confirmé, Marie-Émilie ne sort pas du réseau corse élargi : elle se remarie dans une famille **déjà reliée aux Filippini et aux Mariani**.
+
+Ce constat doit rester descriptif. Il suggère une endogamie/réseau d'alliance étendu mais ne permet pas encore d'en inférer les mécanismes sociaux.
