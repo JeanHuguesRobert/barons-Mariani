@@ -121,3 +121,27 @@ Audit documentaire fondé sur les fichiers du dépôt, sans nouvelle lecture des
 Lecture directe des métadonnées des fichiers `transcription/p001.md` à `p008.md` après l'audit de reprise : **8 fichiers sur 8 concordent** avec les références papier et états portés dans le tableau de couverture. Tous comportent un `scan_locator`. Les huit indiquent `review.second_review: false` : **aucune page n'est déclarée relue indépendamment**. Six restent `draft-transcription`, deux `visually-reviewed`. Ce contrôle est **métadocumentaire** : il ne certifie pas la fidélité du contenu aux images.
 
 Prochain contrôle distinct : cohérence des identifiants et relations des TSV, sans déduire la vérité historique d'une cohérence de format.
+
+
+## Priorité spéciale — exemplaire annoté JHR
+
+JHR indique le 9 octobre 2026 que son exemplaire physique de Meurgey contient **beaucoup de correctifs manuscrits**.
+
+Conséquence opérationnelle : la récupération / rephotographie de cet exemplaire devient une priorité documentaire élevée, car les annotations peuvent :
+
+- corriger des erreurs de l'édition 1933 ;
+- prolonger des branches au-delà de 1933 ;
+- expliciter des décès, mariages ou absences de postérité ;
+- documenter la réception familiale de l'ouvrage.
+
+Les photographies DRAC déjà retrouvées montrent effectivement plusieurs annotations manuscrites sur les Tableaux I et II, ce qui confirme matériellement l'existence d'au moins une couche corrective sur l'exemplaire photographié.
+
+À la reprise de l'exemplaire physique, la numérisation devra couvrir séparément :
+
+1. toutes les pages imprimées ;
+2. chacun des cinq tableaux dépliants ;
+3. toutes les marges annotées ;
+4. les pages de garde, dédicaces et feuillets libres éventuels ;
+5. des vues rapprochées des écritures permettant de distinguer les mains.
+
+Le texte imprimé et les annotations resteront deux couches éditoriales séparées.
