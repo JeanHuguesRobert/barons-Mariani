@@ -258,6 +258,30 @@ Si l'acte ferme définitivement cette identité, le cas montrera :
 
 DIASPORA doit donc représenter les **arêtes du graphe** autant que les nœuds : une diaspora peut être géographiquement dispersée tout en restant relationnellement dense.
 
+### Du départ à la multiprésence — Porto Rico / France / Corse
+
+Le dossier Fantauzzi ajoute une configuration différente de la simple migration d'un point A vers un point B.
+
+En 1925, la succession de **Sophie/Sofía Fantauzzi, épouse d'Albert Mariani**, figure parmi les associés de **Sucesores de C. y J. Fantauzzi**, société agricole et industrielle d'Arroyo, à Porto Rico.
+
+Une étude économique de la période décrit la **Central Lafayette**, propriété des Sucesores Fantauzzi, avec **8 664 acres**, tandis que ses propriétaires français passent l'essentiel de leur temps en France.
+
+Le graphe pertinent devient donc :
+
+```text
+origine / réseau corse
+      ↓
+France ← personnes / résidence
+      ↘
+       Porto Rico ← terres / production / capital
+```
+
+DIASPORA doit ainsi pouvoir représenter la **multiprésence** : les personnes, les biens, le capital, l'activité productive et la mémoire familiale peuvent être distribués simultanément entre plusieurs territoires.
+
+La part exacte de Sophie/Albert et l'origine du capital ne sont pas encore établies.
+
+Dossier : `musee-mariani/fantauzzi/README.md`.
+
 ## Méthode : révéler sans inventer
 
 ~~~text
