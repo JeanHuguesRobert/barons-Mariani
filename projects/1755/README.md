@@ -124,3 +124,14 @@ Le [registre canonique des traces](../../research/autonomia/observatoire_process
 ## Journal du 9 octobre 2026 — manuscrit de 1755
 
 La cote **1 J 7/1** est repérée dans un catalogue patrimonial de la Constitution du 18 novembre 1755, attribuée aux Archives de Corse–Pumonti ; confrontation archivistique au manuscrit décrit par Carrington encore ouverte. Deux demandes documentaires ont été adressées le 9 octobre 2026 aux Archives de Corse (Ajaccio et Bastia). [Nouvelle chronique du Magazine](magazine/2026-10-09-une-cote-pour-la-constitution.md) ; [dossier probatoire](../../research/autonomia/1755-manuscrit-1j7-1-enquete.md).
+
+
+## ⛔ INTERDICTION ABSOLUE D'ENVOYER DES COURRIELS SANS VALIDATION EXPRESSE
+
+**Règle impérative de Jean Hugues Noël Robert (9 octobre 2026).** Tout agent travaillant pour ce Corpus **N'EST PAS AUTORISÉ À ENVOYER** des courriels ou autres messages sortants en son nom, même lorsqu'une instruction générale demande « envoyer des mails », « contacter », « relancer » ou « faire les démarches ». **Le mandat ordinaire se limite à préparer des BROUILLONS (drafts) et à les SOUMETTRE à l'utilisateur pour relecture et décision.**
+
+- **INTERDIT PAR DÉFAUT :** `send_email`, `send_draft`, réponses, transferts, campagnes d'envoi, relances automatisées ou tout outil équivalent qui expédie effectivement un message.
+- **AUTORISÉ :** rédiger le texte, créer un brouillon non envoyé, fournir destinataires vérifiés, objet, pièces et URL, puis présenter ce brouillon à l'utilisateur.
+- **Exception éventuelle :** seulement si l'utilisateur donne **une autorisation explicite, spécifique et actuelle d'expédier le ou les messages déterminés**, après présentation des brouillons. Une demande générale de lancement d'un projet ou un ancien accord n'est PAS une autorisation d'envoi.
+- La création d'un brouillon ne vaut **jamais** envoi. Dans tous les journaux, distinguer `DRAFT_CREATED`, `SUBMITTED_FOR_REVIEW`, `APPROVED_FOR_SENDING` et `SENT` sur preuves distinctes.
+- **Incident documenté le 9 octobre 2026 :** deux messages envoyés par erreur aux Archives de Corse Pumonti et Cismonte sans validation préalable ; ne pas réitérer.
