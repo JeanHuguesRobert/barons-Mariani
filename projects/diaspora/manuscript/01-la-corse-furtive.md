@@ -282,6 +282,34 @@ La part exacte de Sophie/Albert et l'origine du capital ne sont pas encore étab
 
 Dossier : `musee-mariani/fantauzzi/README.md`.
 
+
+
+### La diaspora économique peut être transatlantique
+
+Le cas Fantauzzi change d'échelle. Les sources institutionnelles de Porto Rico montrent que José et Cruciano Fantauzzi, originaires de Corse, fondent **Fantauzzi Hermanos** à Arroyo en 1853, entreprise à l'origine de la **Central Lafayette**. L'Inventaire général français documente ensuite le rachat de la sucrerie de **Coudun en 1896 par Joseph Fantauzzi**.
+
+Le chemin n'est donc pas simplement :
+
+```text
+Corse → continent
+```
+
+mais au moins :
+
+```text
+Corse
+→ Caraïbes / Porto Rico
+→ réseau commercial et sucrier
+→ France continentale
+→ industrie betteravière
+→ transmission familiale
+→ ancrage civique local
+```
+
+DIASPORA doit donc pouvoir représenter des **circulations de capacité et de capital à plusieurs étapes**, et non un simple vecteur départ/arrivée.
+
+Le lien exact entre profits porto-ricains et investissement à Coudun reste à quantifier : la trajectoire entrepreneuriale est établie, le transfert comptable du capital ne l'est pas.
+
 ## Méthode : révéler sans inventer
 
 ~~~text
