@@ -1,0 +1,39 @@
+name: Living Books — editorial news previews
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "research/autonomia/observatoire_processus_autonomie_corse.md"
+      - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
+      - "projects/capable/editions/**"
+      - "projects/suicide-corse/editions/**"
+      - "projects/1755/editions/**"
+      - "scripts/build-living-books-news-previews.py"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: living-books-news-preview
+  cancel-in-progress: true
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate traceable working previews
+        run: python3 scripts/build-living-books-news-previews.py
+      - name: Upload only provisional artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: living-books-news-working-${{ github.run_number }}
+          path: build/living-books-news/
+          if-no-files-found: error
+          retention-days: 30
+
+# Deliberately NO publication, freeze, release, write permission or auto-merge.
+# A human must separately review and authorize any promotion of an edition.
