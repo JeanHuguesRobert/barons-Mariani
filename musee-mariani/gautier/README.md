@@ -168,3 +168,23 @@ Si l'un de ces actes donne **Jules Gautier × Sophie Mariani** comme parents de 
 Sources de travail :
 - https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph
 - https://www.jaimemontilla.com/lafayette
+
+
+## Source secondaire prioritaire — BAMCo Morsiglia 2026
+
+Le *Boletín BAMCo* de juillet 2026 consacré à **Morsiglia** comprend explicitement une **généalogie des Fantauzzi Stella** fondée sur documents, photographies et archives familiales.
+
+Le BAMCo conserve aussi une pièce juridique au nom d'**Antonio Fantauzzi Gautier**, confirmant l'usage historique du double nom maternel dans cette branche.
+
+Cette publication devient la meilleure source secondaire structurée actuellement identifiée pour tester la chaîne :
+
+```text
+Sophie Ange Louise Mariani
+× Jules Gautier
+→ ? Louise Gautier
+  × Joseph Fantauzzi
+```
+
+Le PDF est publiquement référencé sur Academia.edu mais son téléchargement automatisé n'a pas encore pu être récupéré dans l'environnement de travail.
+
+Statut : **SOURCE À LIRE / PAS ENCORE EXPLOITÉE INTÉGRALEMENT**.
