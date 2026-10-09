@@ -950,3 +950,66 @@ Le dossier conserve séparément :
 - arrêt portoricain de 1925 : **Emilia Fantauzzi épouse Paul William Mannes**.
 
 La convergence reste forte pour un remariage Mannes, mais la coupure de décembre ne doit plus être utilisée comme preuve directe tant que son contexte complet n'est pas lu.
+
+
+## Voie primaire prioritaire — succession d’Antoine Filippini
+
+Les Archives de Paris ont numérisé le **fichier nominatif des successions déclarées (1858–1899)**.
+
+Pour un décès en 1888, la fiche successorale peut fournir :
+
+- le domicile du défunt ;
+- le bureau d'enregistrement compétent ;
+- la date et le numéro de la déclaration de succession.
+
+La déclaration elle-même est particulièrement importante pour notre enquête car elle doit permettre d'identifier les **héritiers** et leur **degré de parenté** avec Antoine Filippini.
+
+Pour cette branche, la séquence de recherche devient donc :
+
+```text
+Antoine-Dominique-Thomas-Louis Filippini
+† Paris 8e, 30 octobre 1888
+→ fiche nominative des successions déclarées
+→ bureau + numéro de déclaration
+→ déclaration de succession
+→ veuve + enfant(s) / héritier(s)
+→ identité de l'enfant recherché
+```
+
+C'est actuellement, avec l'acte de naissance du 9e arrondissement et le dossier militaire SHD, l'une des trois meilleures voies de fermeture primaire.
+
+Sources officielles :
+- Archives de Paris, fichiers des successions déclarées 1858–1899 ;
+- Archives de Paris, méthodologie des successions et déclarations de mutation par décès.
+
+## Registre de décès 1888 — fenêtre resserrée
+
+Geneanet indexe le décès d'Antoine sous une plage de registre :
+
+- **30 septembre 1888 — acte n°1500**
+- à **14 novembre 1888 — acte n°1731**
+
+avec décès donné au **30 octobre 1888**, Paris 8e.
+
+Cette plage décrit le segment du registre indexé et **ne doit pas être confondue avec le numéro exact de l'acte d'Antoine**.
+
+Elle permet néanmoins de réduire fortement la recherche dans le registre original.
+
+Source secondaire d'index :
+https://it.geneanet.org/fonds/individus/?go=1&nom=FILIPPINI&prenom=Antoine+Dominique&size=50
+
+## Recherche inversée de l'enfant — état
+
+Les recherches publiques sur les personnes FILIPPINI nées à Paris 9e dans la fenêtre 1883–1888 n'ont pas encore révélé l'identité de l'enfant.
+
+Les autres Filippini clairement exposés dans les index du 9e arrondissement ont des parents différents ; aucun candidat public ne peut donc être rattaché par simple homonymie.
+
+La règle reste :
+
+```text
+1 enfant indexé avec les bons parents
+≠
+premier Filippini du même arrondissement trouvé sur le web
+```
+
+Statut inchangé : **ENFANT TRÈS PROBABLE / IDENTITÉ À EXTRAIRE PAR SOURCE PRIMAIRE**.
