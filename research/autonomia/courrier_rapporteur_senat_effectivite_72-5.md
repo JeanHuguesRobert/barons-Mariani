@@ -5,8 +5,8 @@ description: "Projet public et versionné de courriel destiné au rapporteur de 
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-07"
-version: "0.5"
+last_modified_at: "2026-10-09"
+version: "0.6"
 status: "draft — destinataire à compléter après désignation officielle du rapporteur"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -22,7 +22,7 @@ target_audience:
   - "administrateurs et collaborateurs parlementaires"
 target_scene: "political — parliamentary review"
 document_function: "public parliamentary submission draft"
-snapshot_as_of: "2026-10-07T09:00:00+02:00"
+snapshot_as_of: "2026-10-09T10:10:00+02:00"
 derivation_mode: "directed"
 source_document: "research/autonomia/amendement_effectivite_article_72-5.md"
 related_documents:
@@ -56,9 +56,25 @@ Ce document prépare le courriel qui sera adressé au **rapporteur du projet de 
 
 Le destinataire nominatif et son adresse institutionnelle ne doivent pas être supposés avant cette désignation.
 
-Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **7 octobre 2026 à 7 h 36**, le bureau de cette commission doit encore être constitué à 9 h 30 et l’audition de Françoise Gatel sur le projet corse est annoncée à 15 h. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
+Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **9 octobre 2026**, le bureau de la commission a été renouvelé et une audition ministérielle datée du 7 octobre à 15 h est référencée officiellement. L’identité du rapporteur du texte n° 782 reste à confirmer par une source nominative officielle. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
 
 Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
+
+---
+
+## Actualisation institutionnelle — 9 octobre 2026
+
+- L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
+- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
+- **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
+- La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
+- Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
+
+Sources officielles :
+- Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
+
 
 ---
 
@@ -78,7 +94,7 @@ Je suis **Jean Hugues Noël Robert**, président de l’association **C.O.R.S.I.
 
 Le 28 mai 2026, après une demande d’audience adressée à M. Florent Boudié et à la commission des lois, un administrateur de la commission a proposé, au nom du président-rapporteur, que C.O.R.S.I.C.A. adresse une **contribution écrite**, en indiquant qu’elle serait mentionnée dans le rapport au même titre que les auditions réalisées. Cette contribution a ensuite été recensée dans le rapport n° 2865 parmi les « Contributions écrites ».
 
-Je souhaite également signaler, par souci de transparence, un élément personnel directement lié à la même séquence institutionnelle. J’ai déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du tribunal administratif de Bastia du **14 septembre**, ce qui m’a empêché de participer au scrutin du 27 septembre. Une **requête en annulation devant le Conseil constitutionnel** est en cours de finalisation pour dépôt.
+Je souhaite également signaler, par souci de transparence, un élément personnel directement lié à la même séquence institutionnelle. J’ai déposé le **11 septembre 2026** une déclaration de candidature aux élections sénatoriales de Haute-Corse. Son enregistrement a été refusé à la suite du jugement du tribunal administratif de Bastia du **14 septembre**, ce qui m’a empêché de participer au scrutin du 27 septembre. Une **requête en annulation destinée au Conseil constitutionnel** a fait l’objet de démarches de transmission le **7 octobre 2026**. Son état de réception, d’enregistrement et d’examen doit être établi séparément par des preuves, sans assimilation de la mise à disposition publique à un enregistrement juridictionnel.
 
 Ce contentieux est distinct du présent travail parlementaire et je ne les confonds pas. Je le mentionne parce qu’il fait partie de la chronologie publique du dossier et éclaire la continuité de mon engagement sur l’effectivité des capacités ouvertes par le droit. La requête possède désormais une adresse publique stable, indépendante de ses versions successives :
 
