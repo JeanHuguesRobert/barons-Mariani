@@ -160,3 +160,11 @@ Cet exemplaire devient la source prioritaire pour :
 - séparer matériellement texte imprimé, annotations, feuillets ajoutés et provenance de l'exemplaire.
 
 La poursuite de l'enquête ne doit pas être bloquée en attendant cette récupération : les recherches externes et les branches déjà ouvertes continuent en parallèle.
+
+### Manuscrits familiaux antérieurs — signalement patrimonial (2026-10-09)
+
+**Témoignage JHR, non contrôlé sur pièces :** des manuscrits familiaux attribués à « Louis-Hugues » Mariani sont conservés matériellement, **non encore numérisés**. Selon JHR, plusieurs passages semblent avoir été repris presque verbatim par Jacques Meurgey dans l'ouvrage de 1933. L'identification de l'auteur des manuscrits, leur datation et les correspondances textuelles exactes doivent être vérifiées avant toute affirmation canonique. Les p. 3–6 transcrites de Meurgey attribuent par ailleurs des propos à un « baron Louis Mariani » ; **ne pas assimiler ces noms sans preuve**.
+
+**Destination prévue :** fonds documentaire patrimonial du futur **Musée Mariani des Possibles** (inventaire et conservation des objets physiques) ; transcriptions et analyses dérivées dans le Corpus ; exploitation éditoriale par projection dans *Rise & Fall*. Ce signalement ne vaut ni acquisition, ni transfert de propriété, ni numérisation réalisée.
+
+**Prochaine action sans solliciter JHR :** maintenir cette référence comme source potentielle et croiser ultérieurement les pages 3–6 de Meurgey avec les manuscrits. **Lorsqu'ils seront accessibles :** photographier l'ordre matériel et chaque pièce avant toute réorganisation ; inventaire minimal et conservation appropriée ; numérisation sans détérioration ; établissement des empreintes et comparaisons textuelles. Aucun délai ni livraison humaine exigé à ce stade.
