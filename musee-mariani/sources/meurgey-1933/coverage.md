@@ -145,3 +145,18 @@ Les photographies DRAC déjà retrouvées montrent effectivement plusieurs annot
 5. des vues rapprochées des écritures permettant de distinguer les mains.
 
 Le texte imprimé et les annotations resteront deux couches éditoriales séparées.
+
+
+### Exemplaire physique à Minesteggio — récupération planifiée
+
+JHR indique le 9 octobre 2026 que **l'exemplaire physique de Meurgey est actuellement à Minesteggio** et qu'il prévoit de le rapatrier au bureau à la première occasion pour procéder à une numérisation complète.
+
+Cet exemplaire devient la source prioritaire pour :
+
+- récupérer les **trois tableaux dépliants manquants** ;
+- scanner les cinq tableaux à plat / en haute définition ;
+- capturer les **annotations manuscrites** et correctifs portés sur l'exemplaire ;
+- vérifier les pages non encore couvertes par le Google Doc DRAC ;
+- séparer matériellement texte imprimé, annotations, feuillets ajoutés et provenance de l'exemplaire.
+
+La poursuite de l'enquête ne doit pas être bloquée en attendant cette récupération : les recherches externes et les branches déjà ouvertes continuent en parallèle.
