@@ -288,3 +288,22 @@ Une brouille serait née en 1965, à la naissance de Jean Hugues, autour du fait
 Conséquence : indépendamment de sa filiation exacte, la Sophie Gautier connue de JHR appartient avec certitude mémorielle au **cercle familial proche de Marie-Louise** et reste active dans ce cercle sur plusieurs décennies.
 
 Source : `musee-mariani/sources/oral/2026-10-08-jhr-sophie-gautier.md`.
+
+
+### Réouverture du statut Fantauzzi — piste Gautier–Mariani
+
+Le classement d'Antoine et Jules Fantauzzi comme simples collatéraux par alliance doit rester **provisoire**.
+
+Une source porto-ricaine appelle leur mère **Marie Antoinette Gautier Mariani**. Le Corpus connaît par ailleurs le couple **Sophie Ange Louise Mariani × Jules Gautier**, marié en 1855, soit un an avant la naissance attribuée à Louise Gautier.
+
+Aucun lien de filiation n'est encore ajouté au graphe.
+
+Statut de travail :
+
+```text
+collatéraux par alliance : établi par Sophie Fantauzzi × Albert Mariani
++
+descendance Mariani maternelle par Louise Gautier : HYPOTHÈSE FORTE
+```
+
+La seconde relation, si elle est confirmée, ne remplace pas la première : elle s'y ajoute et révèle une **double connexion** au réseau Mariani.
