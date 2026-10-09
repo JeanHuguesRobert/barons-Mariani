@@ -1102,3 +1102,65 @@ Conséquence :
 > aucune déduction généalogique ne doit être tirée de ces deux numéros d'acte eux-mêmes.
 
 La donnée utile demeure le décès d'Antoine au 30 octobre 1888 et, séparément, l'index de naissance du 9e arrondissement qui signale un enfant du couple Filippini–Fantauzzi.
+
+
+## Fermeture secondaire de Maria Scolastica Mariani — 9 octobre 2026
+
+La connexion de **Maria Scolastica Mariani (1787–)** au tronc du Tableau I n'est plus une simple homonymie.
+
+Villa Flore donne explicitement :
+
+- père : **Joseph-Marie Mariani**, receveur général des finances ;
+- mère : **Marie-Madeleine Arrighi de Casanova** ;
+- époux : **Michelangelo Filippini (1787–1829)**.
+
+Une fiche Ancestry indépendante affiche le même couple Joseph-Marie Mariani × Marie-Madeleine Arrighi de Casanova et compte parmi leurs enfants **Antoine-Dominique Mariani (1776–1845)** et **Maria Scolastica Mariani**.
+
+Sources secondaires :
+- https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8077
+- https://www.ancestry.de/genealogy/records/marie-madeleine-arrighi-de-casanova-24-24rpsv8
+
+Le schéma devient donc :
+
+```text
+Joseph-Marie Mariani × Marie-Madeleine Arrighi de Casanova
+├── Antoine-Dominique Mariani (1776–1845)
+│   └── Madeleine Mariani (1826–1888)
+└── Maria Scolastica Mariani (1787–)
+    └── Michel Filippini (1821–...)
+```
+
+Or **Madeleine Mariani épouse Michel Filippini** en 1843.
+
+Le couple est donc, selon cette reconstruction secondaire, un mariage entre **cousins germains**, ce qui explique la mention « son cousin » déjà lue dans Meurgey.
+
+Leur fils **Antoine-Dominique-Thomas-Louis Filippini** possède ainsi une **double ascendance** depuis Joseph-Marie Mariani × Marie-Madeleine Arrighi de Casanova :
+
+```text
+par sa mère Madeleine
++
+par son père Michel
+```
+
+### Conséquence pour le remariage Mannes
+
+Paul William Mannes descend lui aussi de Maria Scolastica :
+
+```text
+Maria Scolastica Mariani
+→ Marie Jéromine Filippini
+→ Elisa Peraldi
+→ Paul William Mannes
+```
+
+Paul Mannes n'est donc pas seulement « relié au réseau corse » : il appartient à **une autre descendance documentée du même couple ancestral Mariani–Arrighi**.
+
+Par rapport à Antoine Filippini :
+
+- Michel Filippini, père d'Antoine, et Marie Jéromine Filippini, arrière-grand-mère maternelle de Paul, sont frère et sœur ;
+- Elisa Peraldi est cousine germaine d'Antoine ;
+- Paul Mannes est donc **cousin germain une fois retiré** d'Antoine Filippini, dans cette reconstruction.
+
+Si le remariage Marie-Émilie Fantauzzi → Paul Mannes est fermé par acte, il constituera un **remaillage matrimonial précis entre branches déjà apparentées**, et non une simple proximité sociale.
+
+Niveau de preuve : **secondaire convergent**, actes primaires encore souhaitables.
