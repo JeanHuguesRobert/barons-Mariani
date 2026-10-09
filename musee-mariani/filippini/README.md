@@ -1338,3 +1338,35 @@ table décennale naissance
 ```
 
 Une fois le prénom et la date de naissance de l'enfant obtenus, la recherche peut reprendre en aval (mariage, décès, descendance) sans dépendre des arbres secondaires.
+
+
+## Dossier militaire nominatif — SHD GR 5 YE 47459
+
+Une source administrative supplémentaire a été identifiée au **Service historique de la Défense**.
+
+L'inventaire des dossiers d'officiers mentionne :
+
+- **FILIPPINI Antoine Dominique Thomas Louis** ;
+- grade/fonction : **sous-lieutenant, adjoint à l'officier d'habillement** ;
+- unité : **escadron de la cavalerie territoriale légère de la 11e région** ;
+- date d'entrée/référence : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Source officielle :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+Ce dossier devient une source primaire/administrative prioritaire, car un dossier d'officier peut contenir des pièces d'état civil, mariage, domicile ou situation familiale susceptibles de confirmer le couple et, éventuellement, de mentionner l'enfant.
+
+Statut : **DOSSIER IDENTIFIÉ — CONTENU À CONSULTER**.
+
+### Intérêt méthodologique
+
+Le dossier est daté de 1887, donc **postérieur au mariage de 1883 et antérieur au décès de 1888** : il tombe exactement dans la fenêtre où l'enfant était déjà susceptible d'être né.
+
+Cible de consultation :
+
+```text
+Service historique de la Défense
+GR 5 YE 47459
+FILIPPINI Antoine Dominique Thomas Louis
+```
