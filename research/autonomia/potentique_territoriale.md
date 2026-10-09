@@ -392,6 +392,37 @@ Autrement dit, une capacité qui n'est plus territorialement corse ne disparaît
 
 Ce résultat reste un cas de micro-histoire. Il ne démontre ni une fuite des cerveaux générale ni une causalité institutionnelle propre à la Corse.
 
+
+
+### 9 ter bis. Circulation transatlantique de capacité — Fantauzzi
+
+Le cas Fantauzzi permet désormais d'observer une **reterritorialisation séquentielle**, et pas seulement un départ depuis la Corse.
+
+Des sources institutionnelles documentent :
+
+```text
+Corse
+→ Porto Rico : Fantauzzi Hermanos / Central Lafayette
+→ France : sucrerie de Coudun
+→ transmission industrielle, agricole et civique
+```
+
+Le point potentique est précis : une capacité familiale peut être **actualisée successivement dans plusieurs territoires**, chaque territoire devenant support d'une nouvelle couche de capital, de réseau, de savoir-faire et d'institutionnalisation.
+
+Cela invite à compléter l'état territorial d'une trajectoire par une notion de **chaîne d'actualisation territoriale** :
+
+```text
+T0 → T1 → T2 → ... → Tn
+```
+
+où chaque transition doit distinguer :
+- les capacités emportées ;
+- les capacités acquises dans le nouveau territoire ;
+- les actifs et réseaux transmis ;
+- les retours éventuels vers les territoires antérieurs.
+
+Le cas Fantauzzi ne suffit pas à attribuer causalement cette trajectoire à une insuffisance de capacité de la Corse. Il fournit en revanche un exemple empirique de capacité familiale **composée et amplifiée par plusieurs territoires successifs**.
+
 ## 10. Principe de prudence épistémique
 
 La Potentique territoriale ne doit pas partir à la recherche de preuves qu'un territoire « empêche » ou « permet ».
