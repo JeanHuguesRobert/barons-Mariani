@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Build non-frozen editorial update bundles from a checked-out Corpus snapshot."""
+"""Build traceable, non-frozen editorial bundles from a checked-out Corpus snapshot.
+
+A source change triggers the preview workflow; this script does not publish releases.
+"""
 from pathlib import Path
 from datetime import datetime, timezone
 import hashlib
