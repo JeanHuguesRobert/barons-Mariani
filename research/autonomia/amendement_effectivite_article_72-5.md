@@ -34,6 +34,7 @@ changelog:
   - "v0.4-rc2 (2026-09-26) — intégration de la revue adverse Claude sur rc1 : levée de l’ambiguïté de « leurs effets », périodicité explicite, distinction entre évaluation des normes et évaluation du régime, retour explicite de Liberté, Égalité, Fraternité comme finalités d’effectivité sans faire de l’article 2 un fondement juridictionnel unique."
   - "v0.4-rc3 (2026-09-26) — intégration sélective de la revue adverse Gemini : abandon de l’ajout autonome au profit d’une reformulation du mécanisme d’évaluation déjà présent ; mise en œuvre effective plutôt qu’« exercice » seul ; prise en compte neutre du non-usage ; articulation explicite entre normes, régime et Liberté-Égalité-Fraternité."
   - "v0.4-rc4 (2026-09-26) — séparation nette entre une version parlementaire courte, conforme aux usages d’amendement, et la note de justification ; ciblage explicite de l’alinéa 6 du texte Sénat n° 782 ; ajout d’une note de traçabilité institutionnelle sur les travaux de Florent Boudié et la contribution C.O.R.S.I.C.A."
+  - "2026-10-09 — FBF : clarification explicite du statut de l’amendement ; la transmission au Sénat concerne le projet de loi n° 782 et non la proposition Baron Mariani."
   - "v0.5-rc1 (2026-09-29) — jalon doctrinal : explicitation de l’hypothèse d’une exigence d’effectivité déjà latente et fragmentée dans le bloc de constitutionnalité ; rapprochement avec les régimes constitutionnels d’expérimentation et d’évaluation ; Corse présentée comme terrain borné d’un Reality Test constitutionnel, sans présomption de généralisation ni modification du dispositif parlementaire."
 ---
 
@@ -41,6 +42,8 @@ changelog:
 
 **Projet de loi constitutionnelle pour une Corse autonome au sein de la République**  
 Texte n° 782 (2025-2026), transmis au Sénat le 24 juin 2026
+
+**Statut distinct de la proposition « amendement Baron Mariani » (9 octobre 2026) :** proposition publiée dans ce dépôt GitHub, sans transmission au Sénat attestée à cette date, sans dépôt parlementaire attesté et sans adoption. La mention « transmis au Sénat » ci-dessus qualifie exclusivement le **projet de loi constitutionnelle n° 782**, et non notre proposition d’amendement. Distinguer obligatoirement : publication (GitHub), transmission (destinataire institutionnel identifié et trace), dépôt (enregistrement parlementaire) et adoption (vote et intégration). Ne jamais inférer l'un de ces états d'un autre.
 
 ## ARTICLE UNIQUE
 
