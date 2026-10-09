@@ -23,7 +23,7 @@ Actualité du Réel : distinguer les voies de recours ouvertes de leur accessibi
 
 ## Bloc d'actualité vérifiable — 9 octobre 2026
 
-La commission des lois du Sénat avait annoncé une audition de Françoise Gatel le 7 octobre à 15 h sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République (texte n° 782). À la date de ce relevé, le contenu des échanges n'est pas attesté par un compte rendu ou replay effectivement consulté. La fiche d'annonce précédemment référencée s'est révélée instable à la consultation ; ne pas en déduire que l'audition n'a pas eu lieu. Les étapes des 21 et 26 octobre figurent au calendrier parlementaire comme événements programmés. L'identité du rapporteur reste à confirmer officiellement.
+La commission des lois du Sénat avait annoncé une audition de Françoise Gatel le 7 octobre à 15 h sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République (texte n° 782). À la date de ce relevé, le contenu des échanges n'est pas attesté par un compte rendu ou replay effectivement consulté. La fiche d'annonce précédemment référencée s'est révélée instable à la consultation ; ne pas en déduire que l'audition n'a pas eu lieu. Les étapes des 21 et 26 octobre figurent au calendrier parlementaire comme événements programmés. **Muriel Jourda est désormais établie comme rapporteure désignée du projet n° 782 depuis le 7 octobre 2026** ; cette information supersède l'état antérieur `UNKNOWN`.
 
 **Invariant :** annonce ≠ événement vérifié dans ses détails ≠ contenu attesté ≠ conséquence législative.
 
@@ -56,7 +56,7 @@ Analyse doctrinale : https://github.com/JeanHuguesRobert/cogentia/blob/main/rese
 
 ## Prochains déclencheurs de révision
 
-- Désignation officielle du rapporteur : nom, date et lien primaire.
+- Rapporteure : maintenir la preuve primaire de la désignation et suivre les actes liés au rapport.
 - Compte rendu ou replay de l'audition : propos sourcés, pagination/minutage.
 - Réunion du rapport prévue le 21 octobre : faits et versions du texte.
 - Échéance des amendements et séance du 26 octobre : distinguer dépôt, discussion et adoption.
