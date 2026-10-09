@@ -801,3 +801,21 @@ Le remariage lui-même peut désormais être qualifié :
 > **TRÈS PROBABLE / MULTI-SOURCES — DATE EXACTE À FERMER**.
 
 La continuité biographique d'Émilie est beaucoup mieux établie, mais l'identité de l'enfant du premier mariage Filippini reste inconnue.
+
+
+## Dossier militaire SHD — source primaire à exploiter
+
+L'inventaire officiel du Service historique de la Défense identifie :
+
+- **FILIPPINI Antoine Dominique Thomas Louis** ;
+- grade : **sous-lieutenant**, adjoint à l'officier d'habillement ;
+- unité : **escadron de cavalerie territoriale légère de la 11e région** ;
+- date : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Source officielle :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+Cette cote devient une priorité documentaire : un dossier d'officier peut contenir des pièces d'état civil, adresses, situation matrimoniale et éventuellement des éléments utiles à la succession ou au veuvage.
+
+Statut : **SOURCE INSTITUTIONNELLE IDENTIFIÉE — DOSSIER NON ENCORE CONSULTÉ**.
