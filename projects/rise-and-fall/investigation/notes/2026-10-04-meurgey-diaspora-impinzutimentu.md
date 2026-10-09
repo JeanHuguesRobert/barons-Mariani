@@ -480,6 +480,25 @@ La bonne question devient :
 
 Ce baseline réduit le risque de surinterpréter la mobilité moderne comme un phénomène entièrement nouveau.
 
+### Cas collatéral : Charles Louis Filippini
+
+La passe en largeur révèle une autre trajectoire extérieure, cette fois dans une branche **collatérale** du premier baron :
+
+```text
+Joseph-Marie Mariani
+→ Maria Scolastica Mariani
+→ Filippini / Gaffori
+→ Charles Louis Filippini
+→ maire de Corte
+→ préfet
+→ gouverneur en Cochinchine
+→ mort à Saïgon en 1887
+```
+
+Ce cas est antérieur au snapshot de 1933 et renforce le constat qu'une partie de la mobilité extérieure et impériale du réseau familial est **ancienne**, non un phénomène né au XXe siècle.
+
+Il servira de comparateur au cas Louis-Thomas et à l'hypothèse plus générale de déplacement des capacités.
+
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
