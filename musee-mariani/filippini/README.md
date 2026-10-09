@@ -686,3 +686,53 @@ L'intérêt de ce remariage est double :
 
 - il peut fournir dans l'acte de mariage la mention explicite du premier mariage / veuvage ;
 - il peut révéler l'existence d'un **enfant mineur du premier lit** ou permettre de retrouver son identité dans les dossiers familiaux ultérieurs.
+
+
+## Réseau familial du remariage Mannes
+
+Le candidat au second mariage, **Paul William Mannes (1859–1936)**, n'est pas extérieur au réseau Filippini–Mariani.
+
+Villa Flore donne la chaîne :
+
+```text
+Maria Scolastica Mariani (1787–)
+× Michelangelo Filippini
+├── Michel Filippini (1821–)
+│   × Madeleine Mariani
+│   └── Antoine Filippini (1852–1888)
+│       × Marie-Émilie Fantauzzi
+│
+└── Marie Jéromine Filippini (1819–1889)
+    × Gio Gualberto Peraldi
+    └── Elisa Peraldi (1838–)
+        × Joseph Mannes
+        └── Paul William Mannes (1859–1936)
+            × ? Marie-Émilie Fantauzzi
+```
+
+Ainsi, **Antoine Filippini et Elisa Peraldi sont cousins germains**, et **Paul Mannes est le fils d'une cousine germaine d'Antoine**.
+
+Si l'identité de Marie-Émilie Fantauzzi dans les deux mariages est définitivement fermée, elle se serait donc remariée avec un **parent collatéral de son premier mari**, au sein du même réseau familial corse élargi.
+
+Sources secondaires :
+- https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8077
+- https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131196
+- https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8090
+
+### Portée
+
+Cette configuration suggère que l'expansion hors de Corse ne doit pas être modélisée uniquement comme une dispersion d'individus isolés.
+
+Elle peut aussi fonctionner comme :
+
+```text
+départ territorial
++
+maintien du réseau de parenté
++
+nouvelles alliances à l'intérieur du réseau élargi
+=
+diaspora relationnelle structurée
+```
+
+Statut : **MÉCANISME CANDIDAT**, fondé sur une reconstruction généalogique secondaire encore à fermer par actes.
