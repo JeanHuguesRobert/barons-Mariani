@@ -67,3 +67,7 @@ The server prefers `http://127.0.0.1:8765/`. If that port is already taken and `
 Included: schema, sourced seed, static directory, map-ready locations, explainable matching, local contribution packets, living-book entry, benchmark skeleton, reality-test journal.
 
 The static tree is published at `https://diaspora.acorsica.org`. See `deploy/README.md` for the release pointer. Still not included: accounts, a graph database, AI enrichment, a frozen edition, and any claim that the two-hour benchmark produced worldwide coverage.
+
+## Croisement avec Capable — itinéraires et Empire Corse
+
+Le chantier [Empire Corse — hypothèse historiographique et itinéraires de la Marche du Soleil](../capable/campaign/empire-corse-itineraires-napoleoniens.md) interroge les capacités corses historiquement distribuées et leurs représentations. Il réutilise les principes de provenance et de correction de DIASPORA. Les circulations volontaires d'exemplaires uniques de *Capable* peuvent produire de nouvelles contributions qualifiables, sans jamais déduire une appartenance ou une préférence politique d'un nom, d'un lieu de naissance ou d'une ascendance.
