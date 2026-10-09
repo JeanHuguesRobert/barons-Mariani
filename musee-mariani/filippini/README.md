@@ -1426,3 +1426,59 @@ Tant que la ligne complète n'est pas relue dans le journal original, cette coup
 Statut actuel du remariage Mannes–Fantauzzi :
 
 **TRÈS PROBABLE / SECONDAIRE + SOURCE JUDICIAIRE FAMILIALE CONVERGENTE — ACTE DE MARIAGE À OBTENIR.**
+
+
+## Topologie du remariage Mannes — réseau familial élargi
+
+La piste **Marie-Émilie Fantauzzi → Paul William Mannes** présente un intérêt supérieur à un simple remariage.
+
+Villa Flore donne la chaîne suivante :
+
+```text
+Michelangelo Filippini (1787–1829)
+× Maria Scolastica Mariani
+├── Michel Louis Filippini (1821–...)
+│   × Madeleine Mariani
+│   └── Antoine-Dominique-Thomas-Louis Filippini
+│       × Marie-Émilie Fantauzzi
+│
+└── Marie Jéromine Filippini (1819–1889)
+    × Gio Gualberto Peraldi
+    └── Elisa Peraldi (1838–...)
+        × Joseph Adolphe Mannes
+        └── Paul William Mannes (1859–1936)
+```
+
+Ainsi, si le remariage est confirmé :
+
+- **Antoine Filippini** et **Elisa Peraldi** sont cousins germains ;
+- **Paul William Mannes** est donc un parent collatéral de la branche Filippini ;
+- **Marie-Émilie Fantauzzi**, veuve d'Antoine, se remarie à l'intérieur du **même réseau familial élargi**.
+
+Cela constitue un cas potentiel d'**endogamie relationnelle / recomposition dans le réseau**, distinct d'une stricte endogamie patronymique.
+
+Sources secondaires :
+- https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=8076
+- https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131196
+- https://villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131197
+
+### Discordance chronologique à fermer
+
+Villa Flore donne :
+
+- mariage **Paul William Mannes × Marie-Émilie Fautauzzi : 30 avril 1894**.
+
+Mais l'index Geneanet de *La Dépêche de Brest*, daté du **4 décembre 1894**, contient encore la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris » est autorisée à épouser [...]
+
+Ce décalage peut provenir :
+
+1. d'une date erronée dans Villa Flore ;
+2. d'une date de publication/autorisation distincte du mariage civil ;
+3. d'une mauvaise identification de la veuve ;
+4. d'une erreur d'indexation de presse.
+
+Aucune de ces explications n'est privilégiée sans l'acte.
+
+Statut : **remariage Mannes très probable ; date exacte à fermer par source primaire**.
