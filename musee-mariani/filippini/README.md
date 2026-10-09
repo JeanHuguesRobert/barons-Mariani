@@ -1390,3 +1390,39 @@ Statut :
 > **Marie-Thérèse = enfant documentée ; éventuel second enfant = NON ÉTABLI.**
 
 Ce correctif évite de transformer une divergence d'arbre en branche réelle.
+
+
+### Remariage Mannes — niveau de preuve renforcé
+
+La piste de remariage de **Marie-Émilie Fantauzzi**, veuve d'Antoine Filippini, est désormais sensiblement renforcée.
+
+Villa Flore donne explicitement :
+
+- **Paul William Mannes**, né le 8 septembre 1859 à Blida, mort le 28 mai 1936 à Paris ;
+- mariage le **30 avril 1894** avec **Marie-Émilie Fautauzzi**, née le 14 avril 1864.
+
+Une décision de la **Cour suprême de Porto Rico** de 1925 cite en outre, dans la même procédure familiale Fantauzzi :
+
+- **Emilia Fantauzzi**, assistée de son époux **Paul William Mannes** ;
+- la succession de **Sofia Fantauzzi**, composée notamment de son veuf **Albert Mariani** ;
+- plusieurs autres membres Fantauzzi.
+
+Cette source judiciaire établit avec force que l'Emilia Fantauzzi épouse Mannes appartient bien à la même fratrie Fantauzzi que Sophie, épouse Albert Mariani.
+
+Sources :
+- Villa Flore : https://www.villaflore.eu/arbre-genealogie/afficher_arbre.php?referent=131197
+- Cour suprême de Porto Rico, `Fantauzzi v. Tesorero de Puerto Rico` : https://vlex.com.pr/vid/34-d-p-r-684623805
+
+### Coupure de presse du 4 décembre 1894 — à ne pas surinterpréter
+
+Geneanet indexe dans *La Dépêche de Brest* du 4 décembre 1894 la formule :
+
+> « ... est autorisé à épouser Mme Fantauzzi, veuve Filippini, de Paris »
+
+Cette phrase confirme l'existence en 1894 d'une **Mme Fantauzzi veuve Filippini à Paris**, mais le nom de la personne autorisée à l'épouser n'est pas encore visible dans le snippet public.
+
+Tant que la ligne complète n'est pas relue dans le journal original, cette coupure ne doit pas être utilisée seule pour identifier le futur époux comme Paul Mannes.
+
+Statut actuel du remariage Mannes–Fantauzzi :
+
+**TRÈS PROBABLE / SECONDAIRE + SOURCE JUDICIAIRE FAMILIALE CONVERGENTE — ACTE DE MARIAGE À OBTENIR.**
