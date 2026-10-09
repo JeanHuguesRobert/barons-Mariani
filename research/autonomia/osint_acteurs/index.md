@@ -4,7 +4,7 @@ description: "Index méthodologique et file d’exploration des acteurs publics 
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-06'
-last_modified_at: '2026-10-07'
+last_modified_at: '2026-10-09'
 license: CC BY-SA 4.0
 language: fr
 status: "working-paper — OSINT public-role dossier"
@@ -120,6 +120,16 @@ Le passage à une représentation structurée supplémentaire devra répondre à
 L’éventuelle projection structurée ne deviendra pas une nouvelle autorité : elle devra rester dérivée des fiches locales ou d’une source locale explicitement désignée.
 
 > **Généraliser la relation, pas centraliser les enregistrements.**
+
+## Actualisation — 9 octobre 2026 : rapporteure du texte n° 782
+
+- [**Muriel Jourda**](muriel_jourda.md) — sénatrice du Morbihan, présidente de la commission des lois et **rapporteure désignée le 7 octobre 2026** du projet constitutionnel corse n° 782.
+- Adresse professionnelle publique : **m.jourda@senat.fr** (sources : groupe LR Sénat et préfecture du Morbihan). La fiche officielle du Sénat ne publie directement que son adresse postale.
+- Projet de courrier : brouillon public **non envoyé**. Aucune réception ni reprise de l'amendement Baron Mariani n'est attestée.
+
+**Correction temporelle :** les mentions ci-dessous décrivant l'identité du rapporteur comme encore inconnue sont des **photographies historiques des 6 et 7 octobre au matin** ; elles ne représentent plus l'état courant. Source primaire de la désignation : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html
+
+---
 
 ## Première vague — cabinet de Paulu Santu Parigi
 
