@@ -1697,3 +1697,10 @@ L’amendement est volontairement publiable et appropriable : son but n’est pa
 - [Research Index — barons-Mariani](../index.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](grille_ubuesque_kafkaien_machine_a_empecher.md)
 <!-- END_AUTO: backlinks -->
+
+
+## Actualisation archivistique — 9 octobre 2026
+
+Le catalogue patrimonial *Collection Corse #10* publie une référence précise à la Constitution de novembre 1755 : **Archives de la Collectivité de Corse–Pumonti, 1 J 7/1**. Il s'agit d'une trace secondaire solide, non d'une confirmation archivistique directe. Le manuscrit décrit par Dorothy Carrington (1974, 10 pages et demie, signé Paoli) doit encore être rapproché matériellement de cette cote ; une source évoque par ailleurs une ancienne série G. Le dossier ne peut donc plus dire simplement « aucune cote trouvée », mais il ne peut pas non plus déclarer l'original authentifié.
+
+Enquête et suivi : [fiche documentaire 1 J 7/1](1755-manuscrit-1j7-1-enquete.md). Catalogue : https://www.clavim.asso.fr/wp-content/uploads/2025/06/Catalogue-de-collection-Collection-Corse-10_WEB.pdf ; Carrington : https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183.
