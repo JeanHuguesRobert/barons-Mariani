@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.7"
+version: "0.8"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -436,6 +436,49 @@ Corse
 ```
 
 C'est un cas plus fort de **reterritorialisation de capacité** que la seule mobilité résidentielle. Il reste toutefois à démontrer quantitativement que le capital investi à Coudun provient directement des profits porto-ricains ; la continuité familiale et entrepreneuriale est documentée, le flux financier précis ne l'est pas encore.
+
+## 6 quinquies. Baseline transnational antérieur à 1933
+
+La passe en largeur impose une correction importante à l'hypothèse de dispersion.
+
+Meurgey écrit dès 1933 que la famille possède un **« caractère européen »** par ses ramifications ou origines françaises, italiennes, hollandaises, belges, allemandes, anglaises, suisses, portugaises et polonaises.
+
+Il donne notamment une chaîne via l'épouse Dard d'Espinay du premier baron :
+
+```text
+Mariani
+× Dard d'Espinay
+→ barons de Maneil
+→ réseau hollandais
+→ Limburg-Stirum
++ autres familles hollandaises / allemandes
+```
+
+Il rattache également les Mariani, par **Boerio et Sulietti**, aux **Caracciolo** et aux **Potenziani**.
+
+### Conséquence méthodologique
+
+L'enquête ne peut pas prendre 1933 comme point zéro d'une famille auparavant purement insulaire.
+
+Il existe déjà avant 1933 :
+
+- des alliances continentales et européennes ;
+- des circulations de statut et de capital relationnel ;
+- une insertion dans des réseaux nobiliaires et administratifs transnationaux.
+
+Ainsi :
+
+```text
+présence hors de Corse après 1933
+≠ automatiquement départ nouveau
+≠ automatiquement perte territoriale
+```
+
+La bonne question devient :
+
+> **qu'est-ce qui change réellement entre le réseau transnational déjà existant avant 1933 et la territorialisation des descendants/capacités après 1933 ?**
+
+Ce baseline réduit le risque de surinterpréter la mobilité moderne comme un phénomène entièrement nouveau.
 
 ## 7. Articulation avec Rise & Fall
 
