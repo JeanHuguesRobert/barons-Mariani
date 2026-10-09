@@ -57,3 +57,7 @@ Vérifier destinataire, canal institutionnel, version du texte et du dispositif,
 ## Point de revue juridique — 9 octobre
 
 [Revue technique de l'alinéa 6 et variante non validée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/revue_technique_alinea_6_2026-10-09.md) : la rédaction candidate actuelle risque de supprimer les modalités d'évaluation des normes déjà prévues par le texte officiel. Une variante les maintient distinctement de l'évaluation périodique du régime. **Ne pas transmettre la variante sans arbitrage juridique et validation.**
+
+## Échelle de désambiguïsation — brouillon du 9 octobre
+
+[Comparer les cinq paliers de précision de l'amendement](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_72-5_paliers_precision_2026-10-09.md) : un noyau minimal et quatre approfondissements, avec les ambiguïtés levées, les risques ajoutés et les modules d'exposé des motifs correspondants. **Ce comparatif n'est ni une version arbitrée ni un amendement transmis.**
