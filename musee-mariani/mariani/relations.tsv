@@ -31,4 +31,8 @@ FIL-MICHEL-1821	parent_de	FIL-ANTOINE-1852	secondaire_convergent	GENEANET+VILLAF
 MAR-MARIE-MADELEINE-1826	parent_de	FIL-ANTOINE-1852	secondaire_convergent	GENEANET+VILLAFLORE	
 FIL-ANTOINE-1852	conjoint_de	FAN-EMILIE-1864	secondaire_convergent	GENEANET	mariage indiqué 4 octobre 1883
 FAN-EMILIE-1864	conjoint_de	MAN-PAUL-1859	public_convergent	PARIS-DIRECTORY-1904+PR-SUPREME-COURT-1925	couple établi; date de mariage secondaire discordante à fermer
-FAN-EMILIE-1864	conjoint_de	MAN-PAUL-WILLIAM-1859	probable_convergent	VILLA-FLORE+PUERTO-RICO-1925+PRESSE-1894	remariage très probable; date exacte à fermer
+PER-ELISA-1838	parent_de	MAN-PAUL-1859	secondaire_convergent	VILLAFLORE	
+FIL-MARIE-JEROMINE-1819	parent_de	PER-ELISA-1838	secondaire_convergent	VILLAFLORE	
+FIL-MICHELANGELO-1787	conjoint_de	MAR-MARIA-SCOLASTICA-1787	secondaire	VILLAFLORE	
+FIL-MICHELANGELO-1787	parent_de	FIL-MARIE-JEROMINE-1819	secondaire	VILLAFLORE	
+MAR-MARIA-SCOLASTICA-1787	parent_de	FIL-MARIE-JEROMINE-1819	secondaire	VILLAFLORE	
