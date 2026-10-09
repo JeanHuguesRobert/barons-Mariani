@@ -78,6 +78,21 @@ Sources officielles :
 
 ---
 
+### Contrôle des traces de l'audition du 7 octobre — vérification du 9 octobre 2026
+
+**Objet suivi :** audition annoncée de Françoise Gatel devant la commission des lois sur l'autonomie corse, 7 octobre 2026, 15 h.
+
+**État de preuve, sans extrapolation :**
+
+- Une fiche d'annonce de cette audition avait été identifiée dans les recherches antérieures ; **son URL directe retourne toutefois une erreur 404 lors du contrôle du 9 octobre** : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html . L'erreur d'accès n'établit ni l'annulation de l'audition ni sa tenue.
+- La rubrique officielle des comptes rendus de la commission des lois était consultable lors du contrôle, **mais n'affichait pas encore la semaine du 5 octobre** : https://www.senat.fr/compte-rendu-commissions/lois.html . Cela signifie « non trouvé sur cette page au moment du contrôle », non « aucun compte rendu n'existe ».
+- Le portail https://videos.senat.fr/ est identifié ; **l'enregistrement/replay de cette audition précise n'a pas été visionné ou vérifié**.
+- **Interventions de la ministre, questions posées, positions défendues, personnes présentes, rapporteur du texte n° 782 : non établis par ces traces.** Aucun propos ne doit lui être attribué à ce stade.
+
+**Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, vérifier l'identité du rapporteur sur le dossier législatif, puis requalifier les statuts. Conserver la date et l'URL de chaque vérification.
+
+---
+
 ## Objet proposé
 
 **Projet n° 782 — proposition d’amendement d’effectivité de l’article 72-5**
