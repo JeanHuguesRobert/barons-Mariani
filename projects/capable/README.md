@@ -26,6 +26,7 @@ provenance:
   derived_from: []
 ---
 
+
 # Capable
 
 ## Objet
@@ -161,3 +162,15 @@ Infrastructure :
 - [Contrat de publication de capable.lepp.fr](site/README.md)
 
 Sources canoniques reliées, sans duplication : `research/senatoriales-2026/`, la matrice TA D1–D10, la *Seconde Méthode*, la *Triangulation du Réel* et `research/livre_vivant.md`.
+
+---
+
+## Actualité parlementaire reliée — 9 octobre 2026
+
+Le projet constitutionnel pour une Corse autonome au sein de la République (Sénat, texte n° 782) fournit un cas d'étude de l'effectivité institutionnelle : le contrôle de ce qui est juridiquement ouvert, réellement mobilisable et vérifiable. L'audition de Françoise Gatel est référencée au 7 octobre ; réunion de commission pour le rapport le 21 octobre ; limite annoncée des amendements de séance le 23 octobre à midi ; séance le 26 octobre. L'identité du rapporteur reste à vérifier.
+
+- [Amendement d'effectivité de l'article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md)
+- [Projet de courrier au rapporteur](../../research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md)
+- [Observatoire du processus](../../research/autonomia/observatoire_processus_autonomie_corse.md)
+
+Cette actualité documente un test de capacité ; elle ne constitue ni dépôt parlementaire de l'amendement ni preuve de son adoption.
