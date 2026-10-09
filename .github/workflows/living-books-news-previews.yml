@@ -2,21 +2,40 @@ name: Living Books — editorial news previews
 
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - "scripts/build-living-books-news-previews.py"
+      - "scripts/package-living-books-web-preview.py"
+      - "tests/test_news_preview.py"
+      - "tests/test_web_preview.py"
+      - ".github/workflows/living-books-news-previews.yml"
+      - "projects/capable/editions/**"
+      - "projects/suicide-corse/editions/**"
+      - "projects/1755/editions/**"
   push:
-    branches: [main]
+    branches: [main, feat/issue-112-incremental-previews]
     paths:
       - "research/autonomia/observatoire_processus_autonomie_corse.md"
       - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
+      - "research/autonomia/osint_acteurs/**"
+      - "research/autonomia/atlas_paysage_politique_corse.md"
+      - "research/autonomia/dossier_rapporteur_senat_2026-10-09.md"
+      - "research/note_synthetique_autonomie_capacite_corse.md"
+      - "research/autonomia/amendement_effectivite_article_72-5.md"
       - "projects/capable/editions/**"
       - "projects/suicide-corse/editions/**"
       - "projects/1755/editions/**"
       - "scripts/build-living-books-news-previews.py"
+      - "scripts/package-living-books-web-preview.py"
+      - "tests/test_news_preview.py"
+      - "tests/test_web_preview.py"
+      - ".github/workflows/living-books-news-previews.yml"
 
 permissions:
   contents: read
 
 concurrency:
-  group: living-books-news-preview
+  group: living-books-news-preview-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -25,15 +44,51 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Test preview engines (no external writes)
+        run: python3 -m unittest discover -s tests -p 'test_*preview.py' -v
+      - name: Identify changed files
+        if: github.event_name == 'push'
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+        run: |
+          if git cat-file -e "$BEFORE_SHA^{commit}" 2>/dev/null; then
+            git diff --name-only "$BEFORE_SHA" "$AFTER_SHA" > "$RUNNER_TEMP/living-books-changed.txt"
+          else
+            : > "$RUNNER_TEMP/living-books-changed.txt"
+          fi
       - name: Generate traceable working previews
-        run: python3 scripts/build-living-books-news-previews.py
+        run: |
+          if [ -f "$RUNNER_TEMP/living-books-changed.txt" ]; then
+            python3 scripts/build-living-books-news-previews.py --changed-files-from "$RUNNER_TEMP/living-books-changed.txt"
+          else
+            python3 scripts/build-living-books-news-previews.py
+          fi
+      - name: Package static web previews
+        run: python3 scripts/package-living-books-web-preview.py build/living-books-news build/living-books-web-preview
+      - name: Verify packaged checksums
+        run: |
+          python3 - <<'PY'
+          import hashlib, json
+          from pathlib import Path
+          root = Path("build/living-books-web-preview")
+          manifest = json.loads((root / "manifest.json").read_text())
+          assert manifest["pages"], "empty preview"
+          for item in manifest["pages"]:
+              assert hashlib.sha256((root / item["path"]).read_bytes()).hexdigest() == item["sha256"]
+          assert hashlib.sha256((root / "index.html").read_bytes()).hexdigest() == manifest["index_sha256"]
+          PY
       - name: Upload only provisional artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: living-books-news-working-${{ github.run_number }}
-          path: build/living-books-news/
+          name: living-books-working-${{ github.run_number }}-${{ github.run_attempt }}
+          path: |
+            build/living-books-news/
+            build/living-books-web-preview/
           if-no-files-found: error
           retention-days: 30
 
-# Deliberately NO publication, freeze, release, write permission or auto-merge.
-# A human must separately review and authorize any promotion of an edition.
+# No site deploy, release, freeze, tokens, write permission or auto-merge.
