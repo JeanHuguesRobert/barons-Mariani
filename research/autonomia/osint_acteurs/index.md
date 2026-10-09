@@ -149,6 +149,25 @@ L’éventuelle projection structurée ne deviendra pas une nouvelle autorité :
 | [Arnaud Costantini](arnaud_costantini.md) | collaborateur parlementaire ; collaborateur de groupe à la Collectivité de Corse, anciennement identifié comme attaché de Per l’Avvene | moyenne à élevée |
 | [Thu Van de Gouvion Saint Cyr](thu_van_de_gouvion_saint_cyr.md) | collaboratrice parlementaire ; autre collaboration sénatoriale documentée | moyenne |
 
+## Troisième vague — énergie / AUE / capacités territoriales — Energ’isule 2026
+
+Cette vague documente les acteurs corses apparus comme nœuds publics de la transition énergétique territoriale lors d’Energ’isule 2026.
+
+Elle ne prétend pas établir leur influence directe sur le texte constitutionnel relatif à l’autonomie de la Corse. Elle les rattache à l’Autonomie de Capacité par le champ énergie / aménagement / bâtiments publics / mobilité / formation / retombées économiques, c’est-à-dire par les capacités concrètes que l’autonomie institutionnelle devrait rendre effectivement mobilisables.
+
+| Acteur | Situation | Priorité |
+|---|---|---:|
+| [Gilles Giovannangeli](gilles_giovannangeli.md) | président du Conseil exécutif de Corse ; accueil institutionnel des délégations Energ’isule | élevée |
+| [Julien Paolini](julien_paolini.md) | président de l’AUE ; nœud public énergie / aménagement / coopération insulaire | élevée |
+| [Lauda Guidicelli-Sbraggia](lauda_guidicelli_sbraggia.md) | conseillère exécutive ; focus politique sur rénovation énergétique et climatique des établissements scolaires | moyenne à élevée |
+| [Christian Mariani](christian_mariani_aue.md) | AUE ; expertise des projets énergie, air, climat | moyenne |
+| [Estelle Dampne](estelle_dampne.md) | AUE ; activités publiques ; rénovation énergétique des établissements scolaires | moyenne |
+| [Cyrille Monti](cyrille_monti.md) | AUE ; pôle énergie ; éclairage public, Éclairer Juste, ciel étoilé | moyenne |
+| [Jean-Louis Rossi](jean_louis_rossi.md) | Université de Corse ; emploi et formation dans la transition énergétique | moyenne |
+| [Paul Antoniotti](paul_antoniotti.md) | représentant régional du SER ; filière renouvelable | moyenne |
+| [Patrice Rossi](patrice_rossi.md) | directeur adjoint d’EDF Corse | moyenne à élevée |
+| [Alexis Milano](alexis_milano.md) | directeur de l’AUE | élevée |
+
 ## État documentaire notable au 6 octobre 2026
 
 La déclaration d’intérêts HATVP déposée par Paul Toussaint Parigi le 2 décembre 2022 énumère trois collaborateurs : Anne Barbolosi, Mélissa Savalli Sarrola et Aurélia Beauchier-Dompietrini.
@@ -168,7 +187,8 @@ Prochaine vague recommandée :
 5. Gouvernement et ministres directement porteurs du dossier ;
 6. exécutif et Assemblée de Corse ;
 7. acteurs politiques corses disposant d’une capacité de coalition ou d’obstruction ;
-8. experts et participants aux travaux Beauvau et au chantier organique.
+8. experts et participants aux travaux Beauvau et au chantier organique ;
+9. acteurs énergie / aménagement / PPE / AUE / EDF / filières EnR lorsque leur rôle public éclaire les capacités territoriales que l’autonomie devrait rendre effectives.
 
 ## Sources transversales de départ
 
@@ -178,6 +198,8 @@ Prochaine vague recommandée :
 - Sénat — fiche Jean-Jacques Panunzi : https://www.senat.fr/senateur/panunzi_jean_jacques14191v.html
 - HATVP — fiche Jean-Jacques Panunzi : https://www.hatvp.fr/fiche-nominative/?declarant=panunzi-jean-jacques
 - Ministère de l’Intérieur — sénatoriales 2026, Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
+- AUE — dossier de présentation Energ’isule 2026 : https://aue.corsica/wp-content/uploads/2026/10/presentation_colloque_energisule_2026.pdf
+- AUE — page agenda Energ’isule 2026 : https://aue.corsica/agenda/le-colloque-energisule-fait-son-grand-retour-a-aiacciu/
 - Corpus — Atlas : ../atlas_paysage_politique_corse.md
 - Corpus — addendum septembre 2026 : ../atlas_paysage_politique_corse_addendum_2026-09.md
 - Corpus — chronologie Beauvau : ../../chronologie_processus_beauvau_corse.md
@@ -190,3 +212,5 @@ Prochaine vague recommandée :
 - Quels acteurs détiennent réellement les principaux leviers d’amendement, de coalition et de verrouillage du texte ?
 - Quelle est la composition exacte de l’équipe de Panunzi après sa réélection de septembre 2026 ?
 - Quel rôle public documentable jouent les interfaces Sénat / mairie d’Ajaccio / Assemblée de Corse autour de son cabinet ?
+- Quelles traces publiques postérieures à Energ’isule 2026 permettent d’établir le contenu réel des interventions corses ?
+- Quels acteurs énergie / AUE / EDF / filières renouvelables détiennent les principaux leviers de capacité territoriale hors procédure constitutionnelle stricte ?
