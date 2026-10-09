@@ -12,6 +12,22 @@ class ImpactTests(unittest.TestCase):
     def test_shared_source_rebuilds_all(self):
         self.assertEqual(module.impacted_books([module.SOURCE]), set(module.BOOKS))
 
+    def test_parliamentary_sources_rebuild_all_conservatively(self):
+        sources = [
+            'research/autonomia/osint_acteurs/muriel_jourda.md',
+            'research/autonomia/osint_acteurs/index.md',
+            'research/autonomia/atlas_paysage_politique_corse.md',
+            'research/autonomia/dossier_rapporteur_senat_2026-10-09.md',
+            'research/note_synthetique_autonomie_capacite_corse.md',
+            'research/autonomia/amendement_effectivite_article_72-5.md',
+        ]
+        for source in sources:
+            with self.subTest(source=source):
+                self.assertEqual(module.impacted_books([source]), set(module.BOOKS))
+
+    def test_unrelated_book_remains_unchanged(self):
+        self.assertEqual(module.impacted_books(['projects/1755/editions/x.md']), {'1755'})
+
     def test_single_book(self):
         self.assertEqual(module.impacted_books(['projects/1755/editions/x.md']), {'1755'})
 
