@@ -302,3 +302,38 @@ Elle ne permet pas encore de mesurer :
 - les effets nets pour la Corse.
 
 La bonne formulation est donc : **continuité entrepreneuriale transatlantique fortement documentée ; transfert précis de capital à quantifier**.
+
+
+## Hypothèse de requalification — descendance Mariani par Louise Gautier
+
+Le correctif antérieur « alliance Fantauzzi ≠ descendance Mariani démontrée » reste valide comme règle de prudence, mais une nouvelle piste pourrait conduire à requalifier la branche.
+
+Une source porto-ricaine nomme l'épouse de José Fantauzzi **« Marie Antoinette Gautier Mariani »**, tandis que l'acte de mariage indexé à Corte donne **Louise Marie Antoinette Thérèse Gautier**, née en 1856.
+
+Or le Corpus connaît :
+
+```text
+Sophie Ange Louise Mariani (1834–)
+× Jules Auguste Oscar Gautier
+mariage 1855
+```
+
+La naissance de Louise en 1856, la forme `Gautier Mariani` et la présence de **Louis-Hugues Mariani** et **Michel Louis Filippini** comme témoins de son mariage en 1876 forment un faisceau convergent.
+
+Hypothèse :
+
+```text
+Sophie Ange Louise Mariani
+× Jules Gautier
+→ ? Louise Gautier
+  × Joseph Fantauzzi
+  → Sophie / Antoine / Jules Fantauzzi
+```
+
+Si cette filiation est confirmée par acte, **Antoine et Jules Fantauzzi seraient eux-mêmes descendants directs du premier baron par leur mère**, tout en restant les frères de Sophie Fantauzzi, épouse d'Albert Mariani.
+
+### Statut
+
+**HYPOTHÈSE FORTE — NE PAS MODIFIER LE GRAPHE CANONIQUE AVANT ACTE.**
+
+Dossier de fermeture : `musee-mariani/gautier/README.md`.
