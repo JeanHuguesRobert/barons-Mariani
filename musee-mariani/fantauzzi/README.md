@@ -3,8 +3,8 @@ title: "Dossier Fantauzzi"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-08"
-version: "0.3"
+last_modified_at: "2026-10-09"
+version: "0.4"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -184,3 +184,67 @@ Sources :
 - histoire municipale de Coudun ;
 - Association pour la Sauvegarde de la Sucrerie de Francières, inventaire de Coudun ;
 - registre public SCEA Fantauzzi.
+
+
+## Porto Rico — Sucesores de C. y J. Fantauzzi
+
+Une branche économique transatlantique du réseau Fantauzzi est désormais documentée par des sources judiciaires et économiques indépendantes.
+
+### Associés nommés en 1925
+
+Dans **Fantauzzi v. Bonner / Fantauzzi v. Tesorero de Puerto Rico** (Cour suprême de Porto Rico, 1925), les demandeurs sont décrits comme associés de la société civile **Sucesores de C. y J. Fantauzzi**, domiciliée à Arroyo et qualifiée de société agricole et industrielle.
+
+Parmi les associés nommés figurent notamment :
+
+- **Emilia Fantauzzi**, assistée de son époux **Paul William Mannes** ;
+- la **succession de Sofía Fantauzzi**, représentée dans l'intitulé par son conjoint survivant **Albert Mariani** ;
+- plusieurs autres Fantauzzi.
+
+Le jugement précise que chacun des demandeurs était associé de la société et que le litige portait sur l'imposition de leurs parts de bénéfices de la société.
+
+Sources :
+- https://hallapproved.com/pr/cases/supreme/1925/8573662/
+- https://vlex.com.pr/vid/34-d-p-r-684623805
+
+### Central Lafayette
+
+Une étude économique consacrée à Porto Rico décrit la **Central Lafayette**, propriété de **Sucesores de C. y J. Fantauzzi**, avec **8 664 acres** de terres. Elle indique que les propriétaires étaient français et passaient l'essentiel de leur temps en France.
+
+Source :
+- Bailey W. Diffie, *Porto Rico: A Broken Pledge*, passage sur l'industrie sucrière :
+  https://clas.rutgers.edu/files/180/Digitized-Books-and-Publications/632/Diffie--Porto-Rico-a-Broken-Pledge.pdf?preview=1
+
+### Portée pour le dossier Mariani
+
+Le fait important est borné :
+
+```text
+Sophie/Sofía Fantauzzi × Albert Mariani
+→ succession de Sophie associée en 1925
+  à Sucesores de C. y J. Fantauzzi
+→ société agricole/industrielle d'Arroyo
+→ Central Lafayette, 8 664 acres
+```
+
+Cela documente une **participation de la branche Albert/Sophie à un capital productif transatlantique**.
+
+Cela ne démontre pas :
+- le montant exact de la part de Sophie ou d'Albert ;
+- l'origine des capitaux investis ;
+- que tous les associés soient frères et sœurs ;
+- que l'Emilia épouse Mannes soit déjà formellement identifiée comme la veuve d'Antoine Filippini.
+
+Ces points restent à fermer séparément.
+
+## Correctif relationnel sur l'arrêt portoricain
+
+Le jugement de 1925 place Emilia Fantauzzi épouse Mannes et la succession de Sofía Fantauzzi dans le même groupe d'associés/demandeurs. Il **ne précise pas dans le passage actuellement exploité leur degré exact de parenté**.
+
+Règle :
+
+```text
+coassociés d'une société familiale
++ même patronyme
+≠
+fratrie démontrée
+```
