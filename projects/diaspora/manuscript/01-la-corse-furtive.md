@@ -328,6 +328,26 @@ DIASPORA doit donc pouvoir représenter des **circulations de capacité et de ca
 
 Le lien exact entre profits porto-ricains et investissement à Coudun reste à quantifier : la trajectoire entrepreneuriale est établie, le transfert comptable du capital ne l'est pas.
 
+### La diaspora n'a pas de point zéro en 1933
+
+Meurgey décrit déjà en 1933 les Mariani comme une famille au **« caractère européen »**, en raison d'alliances et ascendances françaises, italiennes, hollandaises, belges, allemandes, anglaises, suisses, portugaises et polonaises.
+
+Un exemple explicite passe par **Dard d'Espinay → barons de Maneil → Limburg-Stirum**.
+
+Cela change le cadre de DIASPORA :
+
+```text
+réseau transnational ancien
++
+mobilités du XXe siècle
++
+nouvelles implantations
+≠
+simple histoire d'une famille insulaire qui commencerait à partir après 1933
+```
+
+Le probe Meurgey doit donc mesurer des **transformations de centre de gravité et d'ancrage**, non compter naïvement des départs depuis un état initial supposé purement corse.
+
 ## Méthode : révéler sans inventer
 
 ~~~text
