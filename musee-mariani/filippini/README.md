@@ -900,3 +900,32 @@ Villa Flore donne Paul William Mannes comme fils de **Joseph Mannes** et **Elisa
 Le remariage Fantauzzi–Mannes se produit donc vraisemblablement **à l'intérieur d'un réseau corse déjà fortement interallié**, et non dans un univers familial totalement extérieur.
 
 Ce point est intéressant pour l'étude des alliances, mais la connexion exacte de Maria Scolastica Mariani avec le tronc du premier baron reste à documenter avant toute fusion de branches.
+
+## Dossier militaire primaire — SHD GR 5 YE 47459
+
+L'inventaire officiel du **Service historique de la Défense** identifie un dossier individuel au nom de :
+
+**FILIPPINI Antoine Dominique Thomas Louis**
+
+avec les éléments suivants :
+
+- grade : **sous-lieutenant, adjoint à l'officier d'habillement** ;
+- unité : **escadron de la cavalerie territoriale légère de la 11e région** ;
+- date portée par l'inventaire : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Source institutionnelle : inventaire des dossiers d'officiers du Service historique de la Défense.
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+Cette source est particulièrement prometteuse car 1887 se situe :
+
+```text
+mariage 1883
+→ naissance de l'enfant recherchée entre 1883 et 1888
+→ dossier militaire 1887
+→ décès d'Antoine en 1888
+```
+
+Le dossier peut potentiellement contenir : état civil complet, domicile, mariage, situation de famille ou pièces administratives permettant de resserrer la recherche de l'enfant.
+
+Statut : **SOURCE PRIMAIRE INSTITUTIONNELLE IDENTIFIÉE — dossier à consulter**.
