@@ -71,3 +71,28 @@ Le musée doit pouvoir articuler :
 ## Principe public
 
 Le visiteur ne doit pas seulement apprendre « qui étaient les Mariani ». Il doit comprendre comment une famille, un domaine et un corpus permettent d'observer des questions plus générales : qu'est-ce qu'hériter, transmettre, prouver, contester, bifurquer, rendre capable ?
+
+
+## Dépatrimonialiser sans étatiser
+
+L'intention du porteur du projet est désormais explicitée ainsi :
+
+> **Minesteggio doit sortir, à terme, de la dépendance à une propriété personnelle et successorale sans pour autant être transféré à l'État.**
+
+Le futur **Fonds de dotation Barons Mariani** constitue le véhicule envisagé pour cette affectation patrimoniale durable.
+
+La logique recherchée est :
+
+```text
+propriété personnelle
+→ affectation institutionnelle durable
+→ mission de conservation, recherche, transmission et ouverture
+≠ succession privée ordinaire
+≠ transfert à l'État
+```
+
+Cette orientation repose sur une **préférence explicite de gouvernance du porteur du projet** : il ne souhaite pas confier la pérennité de Minesteggio à la propriété publique étatique.
+
+Elle ne doit pas être réécrite comme une proposition générale selon laquelle toute institution publique serait incapable de conserver un patrimoine. C'est une **contrainte de conception du projet Minesteggio**.
+
+Le Fonds est ainsi pensé comme une infrastructure autonome capable de produire des effets d'intérêt général sans que la propriété du bien soit nécessairement étatique.
