@@ -1164,3 +1164,56 @@ Par rapport à Antoine Filippini :
 Si le remariage Marie-Émilie Fantauzzi → Paul Mannes est fermé par acte, il constituera un **remaillage matrimonial précis entre branches déjà apparentées**, et non une simple proximité sociale.
 
 Niveau de preuve : **secondaire convergent**, actes primaires encore souhaitables.
+
+
+## Remariage Mannes–Fantauzzi — convergence renforcée
+
+Plusieurs sources indépendantes convergent désormais vers l'identification suivante :
+
+```text
+Marie-Émilie Fantauzzi
+× 1883 Antoine-Dominique-Thomas-Louis Filippini
+→ veuve en 1888
+× 1894 ? Paul William Mannes
+```
+
+### Éléments convergents
+
+1. **Villa Flore** donne :
+   - Paul William Mannes, né le 8 septembre 1859 à Blida, mort le 28 mai 1936 à Paris ;
+   - mariage le **30 avril 1894** avec **Marie Émilie Fautauzzi**, née le 14 avril 1864.
+
+2. **Cour suprême de Porto Rico, 1925** :
+   - cite **Emilia Fantauzzi, assistée de son mari Paul William Mannes** ;
+   - cite dans la même affaire la succession de **Sofia Fantauzzi**, représentée par son veuf **Albert Mariani** ;
+   - établit donc que ces couples appartiennent au même réseau familial Fantauzzi.
+
+3. **La Dépêche de Brest, 4 décembre 1894**, indexée par Geneanet :
+   - contient la formule **« Mme Fantauzzi, veuve Filippini, de Paris »** dans le contexte d'une autorisation à mariage.
+
+### Discordance de date
+
+La date **30 avril 1894** donnée par Villa Flore est difficile à concilier avec une autorisation à mariage publiée le **4 décembre 1894**.
+
+Les hypothèses possibles sont notamment :
+
+- date erronée dans Villa Flore ;
+- formalité administrative tardive sans rapport avec la célébration civile ;
+- confusion entre publication, autorisation ou second acte.
+
+Aucune de ces hypothèses ne doit être privilégiée sans l'acte de mariage.
+
+### Qualification
+
+> **Remariage Marie-Émilie Fantauzzi × Paul William Mannes : TRÈS PROBABLE / date exacte à fermer par acte.**
+
+### Postérité Mannes
+
+Villa Flore n'affiche pas d'enfant du couple Mannes–Fantauzzi dans la descendance visible de Paul Mannes.
+
+Cela **ne prouve pas** une absence de postérité, mais rend encore plus important l'enfant Filippini du premier mariage déjà signalé par l'index des naissances de Paris 9e.
+
+Sources :
+- Villa Flore, Joseph Mannes / Elisa Peraldi ;
+- Cour suprême de Porto Rico, *Fantauzzi v. Tesorero de Puerto Rico*, 1925 ;
+- Geneanet Bibliothèque, *La Dépêche de Brest*, 4 décembre 1894.
