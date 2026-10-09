@@ -929,3 +929,24 @@ mariage 1883
 Le dossier peut potentiellement contenir : état civil complet, domicile, mariage, situation de famille ou pièces administratives permettant de resserrer la recherche de l'enfant.
 
 Statut : **SOURCE PRIMAIRE INSTITUTIONNELLE IDENTIFIÉE — dossier à consulter**.
+
+
+### Correctif sur la coupure de presse de décembre 1894
+
+L'index de *La Dépêche de Brest* du 4 décembre 1894 donne le fragment :
+
+> « … est autorisé à épouser Mme Fantauzzi, veuve Filippini, de Paris … »
+
+Ce fragment confirme l'existence, à cette date, d'une **Mme Fantauzzi, veuve Filippini, de Paris** concernée par une autorisation à mariage.
+
+En revanche, le nom de l'homme placé avant cette formule n'a pas encore été récupéré dans l'OCR public.
+
+Il ne faut donc pas écrire que cette coupure **prouve** le mariage avec Paul William Mannes.
+
+Le dossier conserve séparément :
+
+- Villa Flore : **Paul William Mannes × Marie-Émilie Fautauzzi**, mariage donné au 30 avril 1894 ;
+- presse du 4 décembre 1894 : **Mme Fantauzzi, veuve Filippini**, futur mariage non encore attribué à un homme identifié dans la portion OCR disponible ;
+- arrêt portoricain de 1925 : **Emilia Fantauzzi épouse Paul William Mannes**.
+
+La convergence reste forte pour un remariage Mannes, mais la coupure de décembre ne doit plus être utilisée comme preuve directe tant que son contexte complet n'est pas lu.
