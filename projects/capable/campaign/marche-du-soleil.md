@@ -104,3 +104,9 @@ Question de falsification :
 > **Une personne qui n'a jamais rencontré Jean Hugues Robert peut-elle organiser correctement une étape à partir du protocole publié ?**
 
 Si la réponse reste non, le protocole doit encore être stabilisé.
+
+## Croisement historique — Empire Corse et itinéraires
+
+La Marche peut confronter ses étapes aux itinéraires napoléoniens, sans confondre histoire attestée, interprétation et parcours contemporain. La séquence Golfe-Juan–Grenoble–Paris (1815), le refus de la garnison d'Antibes et l'évitement de Marseille sont des repères documentés. Les grandes batailles relèvent de dossiers distincts. Voir [Empire Corse — hypothèse et itinéraires](empire-corse-itineraires-napoleoniens.md).
+
+Le croisement avec les exemplaires uniques de *Capable*, le protocole [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) et [DIASPORA](../../diaspora/README.md) est une hypothèse expérimentale, sans assimilation des liens corses à des soutiens politiques.
