@@ -1217,3 +1217,51 @@ Sources :
 - Villa Flore, Joseph Mannes / Elisa Peraldi ;
 - Cour suprême de Porto Rico, *Fantauzzi v. Tesorero de Puerto Rico*, 1925 ;
 - Geneanet Bibliothèque, *La Dépêche de Brest*, 4 décembre 1894.
+
+
+## État de recherche — 9 octobre 2026
+
+La branche est désormais contrainte par plusieurs sources de nature différente.
+
+### Enfant du premier mariage
+
+Geneanet indexe le couple **Antoine-Dominique-Thomas-Louis Filippini × Marie-Émilie Fantauzzi** comme parents dans la collection des **naissances de Paris 9e**, avec **1 enfant**.
+
+L'identité de l'enfant reste masquée dans l'interface publique.
+
+Le fait important est donc désormais :
+
+> **l'existence d'un enfant est très probable ; son identité reste le verrou principal.**
+
+### Veuvage et remariage d'Émilie
+
+Après la mort d'Antoine Filippini en 1888, plusieurs sources convergent vers un remariage d'Émilie Fantauzzi avec **Paul William Mannes (1859–1936)** :
+
+- Villa Flore donne ce mariage en 1894 ;
+- une décision de la Cour suprême de Porto Rico de 1925 cite **Emilia Fantauzzi, assistée de son mari Paul William Mannes** ;
+- *La Dépêche de Brest* du 4 décembre 1894 mentionne une **« Mme Fantauzzi, veuve Filippini, de Paris »** autorisée à se remarier.
+
+La date exacte du mariage reste à fermer : Villa Flore donne **30 avril 1894**, difficile à concilier avec la publication de décembre 1894.
+
+### Postérité du second mariage
+
+Villa Flore n'affiche pas d'enfant du couple Mannes–Fantauzzi.
+
+Cette absence d'enregistrement n'est pas une preuve de stérilité, mais elle ne fournit pour l'instant aucune nouvelle branche Mannes.
+
+### Provenance Brys
+
+Les courriels JHR de 2004–2006 montrent que **Laurent Brys** travaillait déjà spécifiquement sur les Filippini et demandait à JHR les documents concernant Michel Filippini qu'il avait vus chez lui.
+
+Son arbre Geneanet `corsica4` est encore accessible en 2026. Cette provenance est méthodologiquement importante : plusieurs arbres ultérieurs peuvent dépendre d'une même source familiale initiale et ne doivent donc pas être comptés mécaniquement comme sources indépendantes.
+
+### Verrou actuel
+
+```text
+Antoine Filippini × Marie-Émilie Fantauzzi
+→ 1 enfant indexé à Paris 9e
+→ identité inconnue
+→ descendance impossible à poursuivre tant que le prénom/date ne sont pas extraits
+```
+
+Priorité absolue : **table décennale / acte de naissance Paris 9e entre 1883 et 1888**.
