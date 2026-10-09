@@ -3,8 +3,8 @@ title: "Dossier Gautier"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-08"
-last_modified_at: "2026-10-08"
-version: "0.4"
+last_modified_at: "2026-10-09"
+version: "0.5"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -130,3 +130,41 @@ filiation entre les deux démontrée
 ```
 
 La prochaine preuve décisive reste l'identification des enfants de Sophie Ange Louise Mariani et Jules Auguste Oscar Gautier.
+
+
+## Hypothèse forte — Louise Gautier pourrait être fille de Sophie Ange Louise Mariani
+
+Une convergence nouvelle relie potentiellement la branche Gautier–Mariani du XIXe siècle à la famille Fantauzzi.
+
+Données actuellement disponibles :
+
+1. **Sophie Ange Louise Mariani (1834–)** épouse **Jules Auguste Oscar Gautier (1817–)** en **1855**.
+2. **Louise Marie Antoinette Thérèse Gautier** est donnée née en **1856** et épouse **Joseph Fantauzzi** à Corte le 19 avril 1876.
+3. Les témoins de ce mariage comprennent **Michel Louis Filippini** et **Louis Hugues Ferdinand Marie Mariani**.
+4. Une histoire porto-ricaine de la Central Lafayette nomme l'épouse de José Fantauzzi **« Marie Antoinette Gautier Mariani »**, née à Paris.
+5. Les fils de José/Louise apparaissent dans des sources porto-ricaines sous la forme **Fantauzzi Gautier**.
+
+Hypothèse candidate :
+
+```text
+Antoine-Dominique Mariani
+→ Sophie Ange Louise Mariani (1834–)
+  × Jules Auguste Oscar Gautier
+  → ? Louise Marie Antoinette Thérèse Gautier (1856–)
+      × Joseph Fantauzzi
+```
+
+**Niveau de preuve : HYPOTHÈSE FORTE / NON CANONIQUE.**
+
+La forme `Gautier Mariani` est compatible avec un patronyme paternel Gautier et un patronyme maternel Mariani, mais cette lecture reste une inférence tant que l'acte de naissance de Louise ou son acte de mariage complet n'a pas livré ses parents.
+
+Preuve décisive recherchée :
+
+- acte de naissance parisien de Louise en 1856 ; ou
+- acte de mariage Corte 1876, Archives de Haute-Corse, **2 E 2-58/39, p. 9–10, acte 8**.
+
+Si l'un de ces actes donne **Jules Gautier × Sophie Mariani** comme parents de Louise, la branche Fantauzzi étudiée devient une **descendance directe du premier baron par les femmes**.
+
+Sources de travail :
+- https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph
+- https://www.jaimemontilla.com/lafayette
