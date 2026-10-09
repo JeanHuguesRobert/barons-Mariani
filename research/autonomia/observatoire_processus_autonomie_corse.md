@@ -11,7 +11,7 @@ license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 function: public_process_observatory
 target_scene: autonomy_watch_and_citizen_control
-snapshot_as_of: '2026-10-07T07:36:00+02:00'
+snapshot_as_of: '2026-10-09T10:10:00+02:00'
 document_role: source
 document_kind: registry
 visibility: public
@@ -49,7 +49,7 @@ changelog:
   - 'v0.5 (2026-09-26) — propagation de la publication de l’amendement d’effectivité v0.4-rc4 : forme parlementaire candidate, intégration dans l’alinéa organique existant, revue adverse accomplie et fenêtre sénatoriale explicitée.'
   - 'v0.6 (2026-10-06) — instrumentation EIM-H4 : séparation explicite entre publication, réception, routage, examen et reprise parlementaire ; inconnues conservées.'
   - 'v0.7 (2026-10-07) — intégration du scrutin sénatorial du 27 septembre, du renouvellement des instances du Sénat et de l’audition ministérielle du 7 octobre ; rapporteur maintenu inconnu jusqu’à publication officielle.'
-last_modified_at: '2026-10-07'
+last_modified_at: '2026-10-09'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -101,6 +101,22 @@ L’audition n’ayant pas encore eu lieu à l’heure de la présente mise à j
 La synthèse courante est : [Note synthétique pour examen parlementaire — état au 7 octobre 2026](../note_synthetique_autonomie_capacite_corse.md).
 
 La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politique_corse_addendum_2026-10.md).
+
+---
+
+## Actualisation institutionnelle — 9 octobre 2026
+
+- L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
+- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
+- **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
+- La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
+- Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
+
+Sources officielles :
+- Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
+- Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
+
 
 ---
 
