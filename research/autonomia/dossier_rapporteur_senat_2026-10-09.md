@@ -25,7 +25,7 @@ review:
 
 1. [Proposition parlementaire courte et exposé des motifs](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md) — le dispositif commence immédiatement après le frontmatter ; le reste du même fichier conserve le dossier doctrinal intégral.
 2. [Synthèse pour examen parlementaire](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md) — contexte, portée, limites, objections et chaînes de preuve.
-3. [Courriel de transmission, en préparation](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/courrier_court_rapporteur_senat_2026-10-09.md) — message bref soumis à validation, jamais envoyé automatiquement.
+3. [Projet de courrier public, en préparation](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md) — brouillon documentaire non envoyé.
 
 ## Pièces de contexte et provenance
 
