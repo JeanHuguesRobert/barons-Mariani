@@ -647,7 +647,7 @@ Une décision de 1925 cite explicitement :
 - dans la même procédure, la succession de **Sofia Fantauzzi**, composée de son veuf **Albert Mariani** ;
 - d'autres Fantauzzi membres du même ensemble d'intérêts.
 
-Cette pièce confirme que **Émilie épouse Mannes** et **Sophie épouse Mariani** appartiennent au même réseau Fantauzzi immédiat.
+Cette pièce place **Émilie Fantauzzi épouse Mannes** et la **succession de Sophie/Sofía Fantauzzi, représentée par Albert Mariani**, dans le même groupe de demandeurs. Le passage actuellement visible ne précise pas à lui seul leur degré exact de parenté.
 
 ### 3. Presse de décembre 1894
 
@@ -768,11 +768,12 @@ La décision **Fantauzzi v. Tesorero de Puerto Rico** (34 D.P.R. 487) cite expli
 - la succession de **Sofía Fantauzzi**, composée de son conjoint survivant **Albert Mariani** ;
 - d'autres Fantauzzi appartenant au même ensemble successoral.
 
-Cette pièce juridictionnelle est particulièrement utile car elle relie dans un même contentieux les deux sœurs :
+Cette pièce juridictionnelle est particulièrement utile car elle place dans un même contentieux deux branches Fantauzzi :
 
 ```text
 Émilie Fantauzzi → épouse Paul William Mannes
-Sophie Fantauzzi → épouse Albert Mariani
+Sophie/Sofía Fantauzzi → épouse Albert Mariani
+(degré exact de parenté à fermer)
 ```
 
 Source :
@@ -819,3 +820,20 @@ https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SH
 Cette cote devient une priorité documentaire : un dossier d'officier peut contenir des pièces d'état civil, adresses, situation matrimoniale et éventuellement des éléments utiles à la succession ou au veuvage.
 
 Statut : **SOURCE INSTITUTIONNELLE IDENTIFIÉE — DOSSIER NON ENCORE CONSULTÉ**.
+
+
+### Correctif de prudence — arrêt portoricain
+
+La décision portoricaine de 1925 **ne doit pas être citée seule comme preuve qu'Émilie Fantauzzi et Sophie/Sofía Fantauzzi sont sœurs**.
+
+Le passage actuellement accessible établit seulement qu'elles apparaissent dans le même ensemble de demandeurs, l'une comme épouse de Paul William Mannes, l'autre par sa succession représentée par Albert Mariani.
+
+Statut correct :
+
+```text
+même contentieux / même ensemble d'intérêts Fantauzzi
+≠
+fratrie explicitement démontrée
+```
+
+Le degré exact de parenté reste à établir par état civil ou par la généalogie des ayants droit à l'origine du litige.
