@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
 last_modified_at: "2026-10-07"
-version: "0.5"
+version: "0.6"
 status: "working-note"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -381,6 +381,27 @@ Sources :
 - https://clas.rutgers.edu/files/180/Digitized-Books-and-Publications/632/Diffie--Porto-Rico-a-Broken-Pledge.pdf?preview=1
 
 Dossier : `musee-mariani/fantauzzi/README.md`.
+
+
+
+### Fantauzzi : la trajectoire transatlantique devient observable
+
+Des sources institutionnelles porto-ricaines et françaises permettent désormais de dépasser le simple constat d'une implantation Fantauzzi dans l'Oise.
+
+L'Universidad Interamericana de Puerto Rico documente la fondation en **1853** de **Fantauzzi Hermanos** par les frères corses José et Cruciano Fantauzzi à Arroyo, à l'origine de la future **Central Lafayette**. L'Office d'État de conservation historique de Porto Rico rattache cette centrale à la Hacienda Cuatro Calles et à la famille Fantauzzi. En France, l'Inventaire général des Hauts-de-France documente le rachat de la sucrerie de **Coudun en 1896 par Joseph Fantauzzi**.
+
+La trajectoire candidate devient donc :
+
+```text
+Corse
+→ Porto Rico
+→ accumulation / activité agricole et sucrière
+→ centre de gestion familial en France
+→ investissement industriel à Coudun
+→ ancrage civique et transmission
+```
+
+C'est un cas plus fort de **reterritorialisation de capacité** que la seule mobilité résidentielle. Il reste toutefois à démontrer quantitativement que le capital investi à Coudun provient directement des profits porto-ricains ; la continuité familiale et entrepreneuriale est documentée, le flux financier précis ne l'est pas encore.
 
 ## 7. Articulation avec Rise & Fall
 
