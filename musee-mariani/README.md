@@ -151,3 +151,15 @@ Le document [`methodes/exploration_rationnelle_des_possibles.md`](methodes/explo
 ## Règle d'Occam
 
 Ne pas créer trop tôt un dépôt séparé. Le futur dépôt `musee-mariani` sera justifié lorsque la fonction muséale deviendra autonome du corpus familial source.
+
+
+## Sous-corpus d'alliances ouverts
+
+- [Arrighi de Casanova](arrighi-de-casanova/README.md)
+- [Fantauzzi](fantauzzi/README.md)
+- [Gautier](gautier/README.md)
+- [Filippini](filippini/README.md)
+- [Boerio](boerio/README.md)
+
+La passe transversale actuelle est documentée dans :
+[`exploration-largeur-alliances-2026-10-09.md`](sources/meurgey-1933/apparatus/exploration-largeur-alliances-2026-10-09.md).
