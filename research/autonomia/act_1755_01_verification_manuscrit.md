@@ -483,3 +483,15 @@ Le résultat ne dira pas si la thèse historique du Projet #1755 est vraie.
 Il dira quelque chose de plus modeste et immédiatement utile :
 
 > **sommes-nous maintenant davantage capables de travailler correctement sur sa pièce documentaire centrale ?**
+
+
+## Journal d'exécution — 9 octobre 2026 (nouvel état, sans réécriture du plan historique)
+
+L'Act, initialement « planifié, non exécuté » au 9 septembre, a désormais franchi **la phase d'envoi des demandes**, sans résultat archivistique reçu à ce stade. Les anciens statuts datés du plan initial restent des traces de l'état antérieur.
+
+- **ENVISAGÉ → PRÉPARÉ → EXÉCUTÉ (demande initiale)** : courriel envoyé via Gmail aux Archives de Corse–Pumonti à `archivii.pumonti@isula.corsica`, objet « Projet de recherche #1755 — Constitution de Corte du 18 novembre 1755 — cote 1 J 7/1 », identifiant message Gmail `1a120a02b0d503d0` ; date 2026-10-09.
+- **Recherche complémentaire EXÉCUTÉE** : courriel distinct aux Archives de Corse–Cismonte à `archivii.cismonte@isula.corsica`, objet « Constitution corse de 1755 — recherche de copies et témoins archivistiques (projet #1755) », identifiant Gmail `1a120a06a3c238af` ; date 2026-10-09.
+- **RÉSULTAT OBTENU** : expédition technique des deux messages confirmée par l'outil de messagerie ; **aucun accusé de réception humain ni réponse d'archives observé à ce stade**.
+- **Nouvelle entrée** : [enquête archivistique 1 J 7/1](1755-manuscrit-1j7-1-enquete.md).
+
+Les relances éventuelles restent soumises au plafond de deux fixé par cet Act.
