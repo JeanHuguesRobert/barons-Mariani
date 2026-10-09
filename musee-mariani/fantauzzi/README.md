@@ -337,3 +337,45 @@ Si cette filiation est confirmée par acte, **Antoine et Jules Fantauzzi seraien
 **HYPOTHÈSE FORTE — NE PAS MODIFIER LE GRAPHE CANONIQUE AVANT ACTE.**
 
 Dossier de fermeture : `musee-mariani/gautier/README.md`.
+
+
+## BAMCo 2026 — source structurée à exploiter
+
+La **Biblioteca y Archivo de la Memoria Corsa (BAMCo)** de l'Université de Porto Rico a publié en juillet 2026 un numéro du *Boletín BAMCo* consacré à **Morsiglia**.
+
+La présentation officielle indique explicitement que ce numéro comprend :
+
+- une étude de la famille **Fantauzzi Stella** ;
+- une **généalogie** de cette famille ;
+- des documents, photographies et registres biographiques ;
+- deux albums photographiques de la Central Lafayette conservés au **Château Fantauzzi de Morsiglia** ;
+- une liste de 106 émigrants de Morsiglia identifiés à Porto Rico au XIXe siècle.
+
+Sources :
+- https://aacupr.uprrp.edu/bamco/publicaciones-bamco/
+- profil de publication Academia.edu d'Enrique Vivoni-Farage, *Morsiglia*, Boletín BAMCo 2026.
+
+### Document nominal Fantauzzi Gautier dans les fonds BAMCo
+
+L'inventaire officiel de la série **Investigaciones** du BAMCo signale en outre, pour **1884 et 1908** :
+
+> « Escritura de Cesión otorgada por Antonio FANTAUZZI GAUTIER a favor de el Pueblo de Puerto Rico »
+
+Ce document atteste historiquement l'usage du double nom **Fantauzzi Gautier** dans une pièce juridique conservée par le BAMCo.
+
+Source :
+https://aacupr.uprrp.edu/bamco/investigaciones-bamco/
+
+### Portée
+
+Ce matériel renforce la continuité documentaire de la branche :
+
+```text
+José Fantauzzi × Louise Gautier
+→ Antoine Fantauzzi Gautier
+→ documents juridiques à Porto Rico
+```
+
+Il **ne prouve pas encore** que Louise Gautier est fille de Sophie Ange Louise Mariani.
+
+En revanche, le numéro BAMCo *Morsiglia* devient une **source prioritaire à consulter intégralement**, car sa généalogie Fantauzzi Stella est précisément le type de source structurée susceptible de confirmer ou d'infirmer le patronyme maternel `Mariani` de Louise.
