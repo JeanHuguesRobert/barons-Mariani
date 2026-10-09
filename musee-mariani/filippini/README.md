@@ -1548,3 +1548,39 @@ Elle ne suffit toutefois pas à prouver, seule, qu'Émilie est la veuve d'Antoin
 - la chronologie compatible avec le décès d'Antoine Filippini en 1888.
 
 Statut : **IDENTIFICATION TRÈS PROBABLE — acte de second mariage encore requis**.
+
+
+## Consolidation du 9 octobre 2026 — Mannes / Fantauzzi
+
+La convergence autour du remariage de **Marie-Émilie Fantauzzi** se renforce :
+
+- Villa Flore donne **Paul William Mannes (1859–1936) × Marie-Émilie Fautauzzi (1864–)** ;
+- la Cour suprême de Porto Rico cite en 1925 **Emilia Fantauzzi, assistée de son mari Paul William Mannes**, dans la même affaire que la succession de **Sofía Fantauzzi, veuve représentée par Albert Mariani** ;
+- la presse de décembre 1894 mentionne une **« Mme Fantauzzi, veuve Filippini, de Paris »** autorisée à se remarier.
+
+La combinaison de ces trois sources rend très probable l'identité :
+
+```text
+Marie-Émilie Fantauzzi
+× 1883 Antoine-Dominique-Thomas-Louis Filippini
+→ veuve en 1888
+× Paul William Mannes
+```
+
+Le seul point encore discordant est la **date exacte du second mariage** : Villa Flore donne le 30 avril 1894, tandis qu'une coupure de presse du 4 décembre 1894 semble encore annoncer l'autorisation à mariage d'une « veuve Filippini ».
+
+Statut : **REMARIAGE TRÈS PROBABLE — DATE À FERMER PAR ACTE**.
+
+### Structure du réseau
+
+Paul William Mannes n'est pas extérieur au réseau familial : sa mère **Elisa Peraldi** est fille de **Marie Jéromine Filippini**, sœur de **Michel Louis Filippini**.
+
+Le remariage probable reconnecte donc Émilie à une branche cousine issue du même complexe Filippini–Mariani.
+
+### Recherche d'un décès précoce de l'enfant Filippini–Fantauzzi
+
+Une recherche ciblée dans les index publics de décès parisiens 1884–1894 n'a pas produit, à ce stade, de décès `FILIPPINI` identifiable avec certitude comme l'enfant du couple.
+
+Ce résultat négatif ne vaut pas preuve de survie ni preuve d'absence de décès : il réduit seulement la plausibilité d'une disparition immédiatement visible dans les index publics facilement accessibles.
+
+Le verrou principal reste l'identité de l'enfant dans l'index de naissance du 9e arrondissement.
