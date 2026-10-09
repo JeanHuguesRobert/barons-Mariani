@@ -2,7 +2,7 @@
 title: Suicide Corse — index des éditions
 author: Jean Hugues Noël Robert
 date: '2026-09-18'
-last_modified_at: '2026-10-02'
+last_modified_at: '2026-10-09'
 status: working-paper
 language: fr
 license: CC BY-SA 4.0
@@ -25,6 +25,7 @@ review:
   reviewed_by: []
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 ---
+
 
 # Index des éditions
 
@@ -142,3 +143,9 @@ Le matériau canonique de cet axe reste le dossier [`research/senatoriales-2026/
 - **Constat du 1er octobre :** [`constat-consultation-2026-10-01-rp-sen-08-c.md`](../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md).
 
 Le delta postérieur au snapshot `a20919f` est classé dans l'état zéro. Le sommaire n'est pas fixé. Le constat du rendez-vous est dans le dépôt. Il ne dresse pas l'inventaire de toutes les pièces feuilletées.
+
+---
+
+## Édition en préparation — numéro 4 (9 octobre 2026)
+
+[État éditorial de travail — n°4](2026-10-09-n4-en-preparation.md). Non gelé, sans artefact PDF/EPUB annoncé. Les éditions précédentes restent inchangées.
