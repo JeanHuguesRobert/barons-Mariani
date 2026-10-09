@@ -6,8 +6,8 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
 last_modified_at: "2026-10-09"
-version: "0.6"
-status: "draft — destinataire à compléter après désignation officielle du rapporteur"
+version: "0.7"
+status: "draft — rapporteure identifiée, courrier non transmis"
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
@@ -52,11 +52,11 @@ review:
 
 ## Statut opérationnel
 
-Ce document prépare le courriel qui sera adressé au **rapporteur du projet de loi constitutionnelle n° 782 (2025-2026), pour une Corse autonome au sein de la République**, dès que sa désignation sera officiellement établie.
+Ce document prépare un courriel à **Mme Muriel Jourda**, rapporteure du projet de loi constitutionnelle n° 782 (2025-2026), pour une Corse autonome au sein de la République, désignée par la commission des lois le **7 octobre 2026**. **Brouillon public : non transmis, non reçu, non déposé.**
 
-Le destinataire nominatif et son adresse institutionnelle ne doivent pas être supposés avant cette désignation.
+Le destinataire nominatif est désormais vérifié. **L’adresse de réception institutionnelle précise reste à vérifier avant tout envoi** ; aucun canal de contact ne doit être inventé.
 
-Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **9 octobre 2026**, le bureau de la commission a été renouvelé et une audition ministérielle datée du 7 octobre à 15 h est référencée officiellement. L’identité du rapporteur du texte n° 782 reste à confirmer par une source nominative officielle. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
+Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **9 octobre 2026**, le bureau de la commission a été renouvelé et une audition ministérielle datée du 7 octobre à 15 h est référencée officiellement. La rapporteure, **Muriel Jourda**, est nommément désignée dans le compte rendu officiel de la commission des lois du 7 octobre 2026. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
 
 Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
@@ -71,6 +71,7 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 - Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
 
 Sources officielles :
+- Désignation de Muriel Jourda : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html
 - Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
 - Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
@@ -87,7 +88,7 @@ Sources officielles :
 - Une fiche d'annonce de cette audition avait été identifiée dans les recherches antérieures ; **son URL directe retourne toutefois une erreur 404 lors du contrôle du 9 octobre** : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html . L'erreur d'accès n'établit ni l'annulation de l'audition ni sa tenue.
 - La rubrique officielle des comptes rendus de la commission des lois était consultable lors du contrôle, **mais n'affichait pas encore la semaine du 5 octobre** : https://www.senat.fr/compte-rendu-commissions/lois.html . Cela signifie « non trouvé sur cette page au moment du contrôle », non « aucun compte rendu n'existe ».
 - Le portail https://videos.senat.fr/ est identifié ; **l'enregistrement/replay de cette audition précise n'a pas été visionné ou vérifié**.
-- **Interventions de la ministre, questions posées, positions défendues, personnes présentes, rapporteur du texte n° 782 : non établis par ces traces.** Aucun propos ne doit lui être attribué à ce stade.
+- **Interventions de la ministre, questions posées, positions défendues, personnes présentes : non établies par ces traces.** La désignation de la rapporteure est établie par une autre source officielle. Aucun propos ne doit lui être attribué à ce stade.
 
 **Continuation prioritaire :** retrouver une vidéo datée ou un compte rendu primaire, en extraire les propos pertinents à l'effectivité du futur article 72-5 avec minutage ou pagination, vérifier l'identité du rapporteur sur le dossier législatif, puis requalifier les statuts. Conserver la date et l'URL de chaque vérification.
 
@@ -101,7 +102,7 @@ Sources officielles :
 
 ## Projet de courriel
 
-Monsieur / Madame le Rapporteur,
+Madame la Rapporteure,
 
 Dans la perspective de l’examen par la commission des lois du projet de loi constitutionnelle n° 782, *pour une Corse autonome au sein de la République*, **je soumets à votre appréciation** une proposition de rédaction très ciblée concernant le futur article 72-5.
 
