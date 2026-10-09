@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: "2026-10-02"
+last_modified_at: '2026-10-09'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -28,6 +28,7 @@ review:
   status: "unreviewed"
   reviewed_by: []
 ---
+
 
 # Suicide Corse
 
@@ -291,3 +292,15 @@ Le projet reste volontairement incomplet, mais l'incomplétude doit être visibl
 La publication de l’[amendement d’effectivité relatif au futur article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md), version `0.4-rc4`, fournit un Reality Case institutionnel extérieur au cas de Marie-Louise mais pertinent pour l’architecture de *Suicide Corse* : **droit ou faculté formelle → conditions de mise en œuvre → exercice ou non-usage → effets observables → correction possible**.
 
 Cette récurrence de structure ne doit jamais être traitée comme une identité de mécanisme ou comme une preuve causale transposable entre échelles. Elle sert à éprouver la robustesse de la grammaire capacitaire.
+
+---
+
+## Actualité institutionnelle associée — 9 octobre 2026
+
+La séquence parlementaire corse d'octobre 2026 prolonge, comme **Reality Case distinct**, l'enquête sur les capacités formelles et effectives des institutions et des personnes. Audition ministérielle référencée le 7 octobre, examen du rapport programmé le 21 octobre, discussion en séance le 26 octobre. L'identité du rapporteur du texte n° 782 n'est pas établie ici.
+
+- [Observatoire du processus constitutionnel](../../research/autonomia/observatoire_processus_autonomie_corse.md)
+- [Courrier public en préparation au rapporteur](../../research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md)
+- [Amendement d'effectivité](../../research/autonomia/amendement_effectivite_article_72-5.md)
+
+**Règle éditoriale :** ne pas rouvrir ni réécrire les numéros gelés du magazine ; documenter les faits nouveaux dans le Corpus vivant, puis les projeter seulement dans les prochaines éditions avec une qualification des preuves.
