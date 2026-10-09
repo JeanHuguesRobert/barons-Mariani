@@ -357,6 +357,31 @@ Une élite familiale peut perdre son ancrage matériel initial tout en continuan
 
 Statut : **mécanisme candidat**, à tester sur d'autres branches avant généralisation.
 
+## 6 sexies. Capital transatlantique — Albert / Sophie / Porto Rico
+
+La branche **Albert Mariani × Sophie/Sofía Fantauzzi** fournit désormais un cas où la trajectoire familiale doit être lue en termes de **capital productif transatlantique**, pas seulement de résidence ou de descendance.
+
+Une décision de la Cour suprême de Porto Rico de 1925 indique que la succession de Sofía Fantauzzi figure parmi les associés de **Sucesores de C. y J. Fantauzzi**, société agricole et industrielle d'Arroyo. Albert Mariani y apparaît comme conjoint survivant dans la succession de Sophie.
+
+Une étude économique contemporaine décrit ensuite **Central Lafayette**, propriété des Sucesores Fantauzzi, avec **8 664 acres**, et indique que ses propriétaires étaient français et passaient la majeure partie de leur temps en France.
+
+Le motif observable est donc :
+
+```text
+famille / alliance corse
+→ propriété et production à Porto Rico
+→ associés résidant largement en France
+→ capital réparti entre plusieurs territoires
+```
+
+Ce cas ne permet pas encore d'établir d'où venait le capital initial ni quelle part exacte appartenait à Sophie/Albert. Il établit en revanche que la branche étudiée participait à un **outil productif majeur hors de Corse**.
+
+Sources :
+- https://hallapproved.com/pr/cases/supreme/1925/8573662/
+- https://clas.rutgers.edu/files/180/Digitized-Books-and-Publications/632/Diffie--Porto-Rico-a-Broken-Pledge.pdf?preview=1
+
+Dossier : `musee-mariani/fantauzzi/README.md`.
+
 ## 7. Articulation avec Rise & Fall
 
 Ce chantier devient un test direct de l'**hypothèse nulle** déjà inscrite dans l'architecture de *Rise & Fall* : dispersion professionnelle, exode vers les métropoles continentales, transformations économiques ordinaires et désaffection de la rente foncière peuvent expliquer une partie de l'attrition observée sans mécanisme hostile ou singulier de l'État.
