@@ -837,3 +837,66 @@ fratrie explicitement démontrée
 ```
 
 Le degré exact de parenté reste à établir par état civil ou par la généalogie des ayants droit à l'origine du litige.
+
+## Confirmation externe du remariage Fantauzzi–Mannes
+
+Deux sources indépendantes renforcent fortement l'identification de **Marie-Émilie Fantauzzi, veuve Filippini**, avec la femme devenue ensuite épouse de **Paul William Mannes**.
+
+### 1. Presse de 1894
+
+L'index de presse Geneanet pour *La Dépêche de Brest* du **4 décembre 1894** conserve la séquence :
+
+> « ... est autorisé à épouser Mme Fantauzzi, veuve Filippini, de Paris ... »
+
+Le nom du futur époux n'est pas encore récupéré dans l'extrait public ; la phrase complète doit encore être reconstituée.
+
+### 2. Décision de la Cour suprême de Porto Rico — 1925
+
+Dans *Fantauzzi v. Bonner*, 34 P.R. Dec. 487 (1925), les demandeurs comprennent notamment :
+
+- **Emilia Fantauzzi, assistida de su esposo Paul William Mannes** ;
+- la succession de **Sofía Fantauzzi**, composée notamment de son veuf **Albert Mariani** ;
+- plusieurs autres Fantauzzi, tous associés dans `Sucesores de C. y J. Fantauzzi`.
+
+Source publique :
+https://hallapproved.com/pr/cases/supreme/1925/8573662/
+
+Cette pièce confirme sans ambiguïté qu'en 1925 une **Emilia Fantauzzi** de ce réseau familial est épouse de **Paul William Mannes**.
+
+### 3. Discordance de date à résoudre
+
+Villa Flore donne :
+
+- Paul William Mannes : 1859–1936 ;
+- Marie Émilie Fantauzzi : née en 1864 ;
+- mariage : **30 avril 1894**.
+
+Or la coupure du 4 décembre 1894 parle encore d'une « veuve Filippini » autorisée à se remarier.
+
+Il faut donc envisager au moins trois possibilités :
+
+1. date Villa Flore erronée ;
+2. coupure de presse mal datée/indexée ;
+3. l'autorisation concerne une autre veuve Filippini homonyme.
+
+Aucune de ces hypothèses ne doit être privilégiée sans l'acte de mariage.
+
+### Qualification actuelle
+
+```text
+Marie-Émilie Fantauzzi
+× Antoine Filippini
+→ veuve en 1888
+× Paul William Mannes
+```
+
+**Remariage : très fortement convergent.**
+**Date exacte : non fermée.**
+
+## Réseau familial du second mari
+
+Villa Flore donne Paul William Mannes comme fils de **Joseph Mannes** et **Elisa Peraldi**. Elisa est elle-même fille de **Marie Jéromine Filippini**, descendante de **Maria Scolastica Mariani** dans cette base.
+
+Le remariage Fantauzzi–Mannes se produit donc vraisemblablement **à l'intérieur d'un réseau corse déjà fortement interallié**, et non dans un univers familial totalement extérieur.
+
+Ce point est intéressant pour l'étude des alliances, mais la connexion exacte de Maria Scolastica Mariani avec le tronc du premier baron reste à documenter avant toute fusion de branches.
