@@ -67,3 +67,11 @@ Deux **brouillons Gmail NON ENVOYÉS** ont été créés pour revue préalable p
 - **Archivio di Stato di Napoli**, `as-na@cultura.gov.it`. Brouillon : https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a120bc0a8ad8dd8. La procédure officielle de recherches par correspondance exige une demande précisément délimitée et une pièce d'identité, **non jointe** au brouillon : https://archiviodistatonapoli.cultura.gov.it/servizi/ricerche-per-corrispondenza.
 
 Aucun témoin manuscrit italien n'est à ce jour localisé. **DRAFT_CREATED ≠ SENT**. Les brouillons demandent orientation vers les inventaires ; leur envoi, leurs pièces et leurs suites nécessitent validation explicite de l'utilisateur.
+
+## Politique de correspondance scientifique — 9 octobre 2026
+
+Les brouillons à destination des Archives d'État de Gênes et de Naples ont été mis à jour pour **présenter explicitement le Projet #1755**, son caractère public, ouvert et contradictoire, puis proposer avec tact la transmission **facultative** de son existence à des chercheurs, archivistes et collègues qui pourraient être intéressés. Une simple référence, une objection ou une correction constitue une contribution ; aucune adhésion au projet ni validation de sa thèse n'est sollicitée.
+
+Formule-type en italien : « Qualora riteniate che l'iniziativa possa interessare colleghi, studiosi o istituzioni competenti, vi sarei grato se voleste liberamente segnalarne l'esistenza. Anche un semplice riferimento bibliografico, una correzione o un'indicazione verso un'altra fonte sarebbe un contributo prezioso; naturalmente, senza alcun impegno da parte vostra e senza richiesta di adesione a una tesi prestabilita. »
+
+**Statut des deux courriels : BROUILLONS NON ENVOYÉS — soumis à validation préalable.**
