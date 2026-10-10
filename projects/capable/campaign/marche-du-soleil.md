@@ -48,6 +48,16 @@ Elle n'est pas un élément historique de la campagne sénatoriale 2026 et ne do
 
 Elle constitue un dispositif territorial de la seconde campagne, non une simple tournée de meetings.
 
+## Finalité électorale et continuité par objets
+
+La Marche vise aussi un objectif vérifiable de la candidature présidentielle 2027 : **rencontrer des maires et d'autres élus habilités à présenter un candidat**, en vue d'obtenir les **500 présentations valides requises**, sous réserve des autres conditions légales applicables. L'exploration des capacités territoriales et cette démarche de présentation doivent rester explicitement distinguables dans les traces.
+
+La [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) est envisagée comme **support physique identifié de continuation volontaire** après une rencontre : transmettre un document ou une question, inviter à contribuer, mettre en relation, faire revenir une observation ou poursuivre une mission consentie. L'objet, son détenteur, le contact politique, la mission et l'éventuelle présentation électorale ont des identités et statuts distincts. Aucune circulation d'objet ne constitue en elle-même un soutien ni une promesse de présentation.
+
+Le suivi des contacts et des déclarations renvoie à l'[Observatoire des Présentations 2027](observatoire-presentations-2027.md) : `contact ≠ intérêt ≠ promesse ≠ présentation transmise ≠ présentation officiellement établie`. La présentation demeure un acte personnel et libre de l'élu habilité ; aucun objet ni mécanisme de traçage ne doit conditionner cette liberté. Appliquer consentement, minimisation et séparation entre traces publiques et données privées.
+
+**Reality Test minimal envisagé** : lors d'une étape effectivement réalisée, documenter une rencontre autorisée, l'éventuelle émission d'un objet identifié, la mission acceptée, une trace de retour ou un `UNKNOWN`, puis une prochaine action. Ne compter une présentation qu'à son stade probatoire propre ; ne pas confondre ce protocole projeté avec son exécution.
+
 ## Boucle minimale
 
 ```text
