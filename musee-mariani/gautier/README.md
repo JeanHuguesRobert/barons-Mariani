@@ -3,8 +3,8 @@ title: "Dossier Gautier"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-08"
-last_modified_at: "2026-10-09"
-version: "0.5"
+last_modified_at: "2026-10-10"
+version: "0.6"
 license: "CC BY-SA 4.0"
 status: "working-paper"
 document_role: "index"
@@ -188,3 +188,67 @@ Sophie Ange Louise Mariani
 Le PDF est publiquement référencé sur Academia.edu mais son téléchargement automatisé n'a pas encore pu être récupéré dans l'environnement de travail.
 
 Statut : **SOURCE À LIRE / PAS ENCORE EXPLOITÉE INTÉGRALEMENT**.
+
+
+## Renforcement patronymique porto-ricain — 10 octobre 2026
+
+La source historique consacrée à la **Central Lafayette** applique de manière cohérente un système de double patronyme de type hispanique :
+
+- **José Fantauzzi Stella** : Fantauzzi paternel, Stella maternel ;
+- **Matilde Catalina Joubert Marcucci** : Joubert paternel, Marcucci maternel ;
+- leurs descendants sont désignés **Fantauzzi Gautier** lorsque leur mère est Louise/Marie-Antoinette Gautier.
+
+Dans cette même source, l'épouse de José est nommée :
+
+> **Marie Antoinette Gautier Mariani**, née à Paris.
+
+Puis leurs fils sont explicitement appelés :
+
+- **Antoine Mathieu Fantauzzi Gautier** ;
+- **Jules Fantauzzi Gautier**.
+
+La structure patronymique rend donc très probable la lecture suivante :
+
+```text
+Marie Antoinette GAUTIER MARIANI
+                   │       │
+                   │       └── nom maternel : Mariani
+                   └────────── nom paternel : Gautier
+```
+
+Cette lecture converge avec :
+
+- **Jules Auguste Oscar Gautier × Sophie Ange Louise Mariani**, mariage 1855 ;
+- **Louise Marie Antoinette Thérèse Gautier**, née en 1856 ;
+- la naissance de Louise donnée à Paris par la source porto-ricaine ;
+- la présence, au mariage de Louise en 1876, de **Louis-Hugues Mariani** et **Michel Louis Filippini**, tous deux immédiatement situés dans le réseau de la fratrie Mariani.
+
+### Niveau de preuve révisé
+
+La filiation candidate :
+
+```text
+Jules Auguste Oscar Gautier
+× Sophie Ange Louise Mariani
+→ Louise Marie Antoinette Thérèse Gautier
+```
+
+passe de **HYPOTHÈSE FORTE** à :
+
+> **TRÈS PROBABLE PAR CONVERGENCE SECONDAIRE INDÉPENDANTE — ACTE PRIMAIRE ENCORE REQUIS POUR CANONISATION.**
+
+Le graphe canonique n'est pas encore modifié.
+
+Sources :
+- https://www.jaimemontilla.com/lafayette
+- https://paginasamarillaspuertorico.com/central-de-lafayette-en-arroyo/
+- https://gw.geneanet.org/kalliste13?lang=en&n=fantauzzi&p=joseph
+
+### Conséquence si l'acte confirme
+
+La branche Fantauzzi étudiée aurait alors une **double connexion** avec les Mariani :
+
+1. par alliance : Sophie Fantauzzi × Albert Mariani ;
+2. par descendance maternelle : Louise Gautier, fille de Sophie Ange Louise Mariani.
+
+Antoine et Jules Fantauzzi deviendraient donc des **descendants directs du premier baron par les femmes**, et non de simples collatéraux par alliance.
