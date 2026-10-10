@@ -307,3 +307,30 @@ descendance Mariani maternelle par Louise Gautier : HYPOTHÈSE FORTE
 ```
 
 La seconde relation, si elle est confirmée, ne remplace pas la première : elle s'y ajoute et révèle une **double connexion** au réseau Mariani.
+
+
+### Révision probable du statut Antoine/Jules Fantauzzi — 10 octobre 2026
+
+Le classement de 2026 comme simples collatéraux par alliance est désormais fragilisé par une source historique porto-ricaine qui nomme leur mère **Marie Antoinette Gautier Mariani** et les fils **Fantauzzi Gautier**.
+
+La convention patronymique de cette source est cohérente avec l'usage de deux noms de filiation.
+
+La chaîne candidate est :
+
+```text
+Antoine-Dominique Mariani
+→ Sophie Ange Louise Mariani
+  × Jules Auguste Oscar Gautier
+  → ? Louise / Marie Antoinette Gautier Mariani
+    × Joseph Fantauzzi Stella
+    → Sophie / Antoine / Jules Fantauzzi Gautier
+```
+
+Statut :
+
+> **TRÈS PROBABLE / NON CANONIQUE — ACTE DE NAISSANCE OU ACTE DE MARIAGE COMPLET À OBTENIR.**
+
+En attendant l'acte, le registre doit conserver simultanément :
+
+- **collatéraux par alliance** : démontré via Sophie Fantauzzi × Albert Mariani ;
+- **descendants Mariani par leur mère** : très probable, non encore canonisé.
