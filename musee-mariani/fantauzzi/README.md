@@ -379,3 +379,41 @@ José Fantauzzi × Louise Gautier
 Il **ne prouve pas encore** que Louise Gautier est fille de Sophie Ange Louise Mariani.
 
 En revanche, le numéro BAMCo *Morsiglia* devient une **source prioritaire à consulter intégralement**, car sa généalogie Fantauzzi Stella est précisément le type de source structurée susceptible de confirmer ou d'infirmer le patronyme maternel `Mariani` de Louise.
+
+
+## Renforcement — le double nom `Gautier Mariani`
+
+La source historique porto-ricaine sur la Central Lafayette emploie systématiquement les doubles patronymes de filiation :
+
+- José **Fantauzzi Stella** ;
+- Matilde **Joubert Marcucci** ;
+- Antoine Mathieu et Jules **Fantauzzi Gautier**.
+
+Elle nomme la mère de ces derniers **Marie Antoinette Gautier Mariani**, née à Paris.
+
+Dans ce système, `Gautier Mariani` est un indice secondaire très fort d'une filiation :
+
+```text
+père Gautier
++
+mère Mariani
+```
+
+Le candidat parental déjà connu dans le Corpus est précisément :
+
+```text
+Jules Auguste Oscar Gautier
+× Sophie Ange Louise Mariani
+mariés en 1855
+→ Louise Gautier née en 1856 ?
+```
+
+La correspondance chronologique, patronymique et relationnelle est désormais très forte.
+
+### Statut révisé
+
+**DESCENDANCE MARIANI MATERNELLE TRÈS PROBABLE — ACTE PRIMAIRE REQUIS AVANT CANONISATION.**
+
+Le correctif antérieur « famille alliée ≠ descendance démontrée » reste formellement valide jusqu'à l'acte, mais il est désormais **fortement susceptible d'être requalifié**.
+
+Si la filiation est confirmée, la trajectoire Fantauzzi — Porto Rico → Coudun → SCEA 2026 — deviendra non seulement un cas comparatif d'une famille alliée, mais un cas de **capacité de descendants directs Mariani reterritorialisée hors de Corse**.
