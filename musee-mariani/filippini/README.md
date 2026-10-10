@@ -1627,3 +1627,87 @@ https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SH
 Statut : **1 ENFANT ÉTABLI SECONDAIREMENT + 1 ENFANT POSSIBLE / IDENTITÉ À FERMER**.
 
 Cette branche devient parallèle à Antoine × Émilie : dans les deux cas, la priorité n'est plus de démontrer l'existence d'une descendance, mais d'identifier un enfant masqué ou absent des bases publiques.
+
+
+## Antoine Filippini — confirmation militaire
+
+Le **Service historique de la Défense** indexe un dossier d'officier pour :
+
+- **FILIPPINI Antoine Dominique Thomas Louis** ;
+- grade : **sous-lieutenant** ;
+- affectation : **escadron de la cavalerie territoriale légère de la 11e région** ;
+- date : **17 mai 1887** ;
+- cote : **GR 5 YE 47459**.
+
+Source :
+https://www.servicehistorique.sga.defense.gouv.fr/sites/default/files/2020-03/SHDGR_INV_GR5YE_OFFICIERS_E_M_1848_1913.pdf
+
+Cette source institutionnelle confirme l'identité militaire de l'Antoine Filippini né en 1852, fils de Michel Louis Filippini et Madeleine Mariani.
+
+## Marie-Émilie Fantauzzi après le décès d’Antoine
+
+La piste du remariage est désormais fortement renforcée par convergence de plusieurs sources.
+
+### 1. Paul William Mannes
+
+Villa Flore donne :
+
+- **Paul William Mannes**, né le 8 septembre 1859 à Blida, mort en 1936 à Paris ;
+- fils de Joseph Adolphe Mannes et Elisa Peraldi ;
+- épouse : **Marie-Émilie Fantauzzi**, née en 1864.
+
+La date de mariage affichée est le **30 avril 1894**, mais cette date reste à contrôler.
+
+### 2. Décision judiciaire de 1925
+
+Une décision du **Tribunal suprême de Porto Rico** cite explicitement parmi les appelants :
+
+- **Emilia Fantauzzi**, assistée de son mari **Paul William Mannes** ;
+- la succession de **Sofia Fantauzzi**, représentée par son veuf **Albert Mariani** ;
+- plusieurs autres Fantauzzi.
+
+Cette source publique de nature judiciaire confirme donc simultanément :
+
+```text
+Emilia Fantauzzi × Paul William Mannes
+et
+Sofia Fantauzzi × Albert Mariani
+```
+
+dans le même réseau familial.
+
+Source :
+https://vlex.com.pr/vid/34-d-p-r-684623805
+
+### 3. Presse de 1894
+
+L'index de *La Dépêche de Brest* du 4 décembre 1894 contient la formule :
+
+> « Mme Fantauzzi, veuve Filippini, de Paris »
+
+dans un contexte d'autorisation à mariage.
+
+Cette mention est extrêmement compatible avec Marie-Émilie Fantauzzi, veuve d'Antoine Filippini depuis 1888.
+
+### Qualification actuelle
+
+L'identification suivante devient **très probable** :
+
+```text
+Marie-Émilie Fantauzzi
+× 1883 Antoine-Dominique-Thomas-Louis Filippini
+  → veuve en 1888
+× Paul William Mannes
+```
+
+La date exacte du second mariage reste cependant **discordante / à fermer**, car Villa Flore donne 30 avril 1894 tandis qu'une coupure de décembre 1894 parle encore d'une autorisation à épouser la « veuve Filippini ».
+
+## Endogamie élargie du réseau corse
+
+Paul William Mannes n'est pas extérieur au réseau familial corse.
+
+Villa Flore donne sa mère **Elisa Peraldi** comme descendante de **Marie Jéromine Filippini**, elle-même fille de **Maria Scolastica Mariani**.
+
+Le remariage probable d'Émilie Fantauzzi avec Paul Mannes reconnecte donc deux rameaux déjà liés aux Mariani / Filippini / Peraldi.
+
+Ce point doit être traité comme **hypothèse structurale de réseau** tant que l'acte du second mariage n'est pas obtenu.
