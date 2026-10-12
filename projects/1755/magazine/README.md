@@ -27,3 +27,9 @@ Le Magazine constitue la **Face 2** du Livre Vivant **1755**. C'est un espace de
 
 
 | 2026-10-09 | [Une cote pour la Constitution : 1 J 7/1](2026-10-09-une-cote-pour-la-constitution.md) | Identification archivistique, demandes de vérification, limites probatoires | Trace patrimoniale établie ; authenticité matérielle à vérifier |
+
+## Chroniques en cours d'intégration
+
+| Date | Titre | État | Pièce attendue |
+| :--- | :--- | :--- | :--- |
+| 2026-10-12 | [Les Sons of Liberty sont de retour en Corse](2026-10-12-sons-of-liberty-autonomie-ajaccio.md) | Texte source créé ; intégration photographique incomplète | JPEG original et notice de droits |
