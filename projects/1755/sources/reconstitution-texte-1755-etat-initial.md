@@ -125,3 +125,21 @@ Notice BnF https://catalogue.bnf.fr/ark:/12148/cb31248785r : le livre X est la *
 
 ### Piste de sortie
 Sur un ordinateur avec navigateur normal, ouvrir l'ARK Fontana et l'image des pages 163–164, télécharger PDF ou images ciblées ; pour Rossi, ouvrir la notice BnF, sélectionner partie n°6 (Livre X), et exporter les pages 136–141. Conserver fichier brut, provenance, numéro de page imprimé et pagination numérique ; comparer chaque mot avec Carrington. Aucun courriel expédié.
+
+
+## Accès effectif à Fontana par Internet Archive — 13 octobre 2026
+
+**Découverte vérifiée :** reproduction du volume complet de Matthieu Fontana, 1907, 196 images, OCR public : https://archive.org/details/ConstitutionPaoliCorse ; texte OCR : https://archive.org/stream/ConstitutionPaoliCorse/ConstitutionPaoliCorse_djvu.txt .
+
+**Partie utile précise :** *Appendice I* imprimé **p. 161–164**, pas uniquement p. 163–164. L'appendice contient une **traduction française** de la résolution votée à Corte les 16–18 novembre 1755, suivie dans une **note de bas de page étendue** de la version italienne que Fontana reprend des *Osservazioni storiche*, Bulletin, t. 60, p. 136 sq. OCR inspectable dans la transcription Archive, lignes environ 6520–6683. Cette copie issue d'une édition de 1907 reste **témoin imprimé indirect**, distinct du manuscrit décrit par Carrington.
+
+**Collation préliminaire du début :**
+- Fontana, traduction française du préambule : « La Diète générale, représentant le peuple de la Corse, seul maître de lui-même » (Appendice I, p. 161) ;
+- Fontana, italien en note : forme OCR « La Dieta generale rappresentante il popolo di Corsica, unico padrone di se medesimo » (normalisation de lecture candidate ; graphie exacte à relire sur image) ;
+- Carrington, manuscrit : « La Dieta Generale del Populo di Corsica, Lecitimamente Patrone di se medesimo » (citation publiée, à comparer à l'image du manuscrit).
+
+**Substance éditée dans cet appendice :** composition du Conseil d'État en trois chambres (justice, guerre, finances), rotation des officiers, procédure de vote, autorité militaire du Général, convocation annuelle de la Diète et reddition de comptes des responsables, dont le contrôle par quatre personnes élues (Sindacato). Ces dispositions sont lisibles dans Fontana, mais ne prouvent pas seules leur application.
+
+**Nouvelle acquisition bibliographique :** l'identifiant Gallica du volume candidat Rossi livre X est `bpt6k4801726`, obtenu par lecture automatisée de la notice BnF ; la correspondance exacte avec le livre X doit être confirmée par le sommaire. [Compute reçu](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6153111914). Internet Archive fournit également les copies de Fontana en PDF, images et OCR sans requête à Gallica.
+
+**Suite :** acquérir les images des quatre pages de Fontana, revoir l'OCR mot à mot ; chercher un accès public propre au Rossi livre X ; créer une matrice textuelle segmentée F1907 / R1900 / C1974 / M1755 sans corrections silencieuses. Le fichier OCR de Fontana ne doit pas être qualifié de transcription diplomatique. Aucun courrier envoyé.
