@@ -85,3 +85,7 @@ FUTUR
 
 Le lecteur ou contributeur peut proposer des corrections, objections ou traces via les surfaces dédiées (`site/contribuer.html`).
 Ces propositions ne deviennent des modifications du Corpus qu'après qualification et Acte éditorial humain explicite.
+
+## Référence méthodologique — Musée Janus
+
+L'Institut Mariani explore une méthode de recherche patrimoniale distribuée, **Musée Janus**, en lien avec les Livres Vivants et les exemplaires singuliers porteurs de missions. Cette [note fondatrice](../../musee-mariani/musee_janus_note_fondatrice.md) est une source de recherche encore non validée par un tiers ; les expérimentations doivent distinguer hypothèses, protocoles et résultats. L'Institut développe les moyens de recherche, sans s'approprier l'autorité éditoriale des Livres Vivants partenaires ni préjuger d'une franchise ou certification existante.
