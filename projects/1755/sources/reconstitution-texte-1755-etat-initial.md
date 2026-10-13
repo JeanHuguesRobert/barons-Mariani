@@ -53,3 +53,35 @@ Carrington (1974) cite l'incipit : « La Diete Generale del Populo di Corsica, l
 
 ## Résultat du 13 octobre 2026
 Une piste solide d'édition et plusieurs divergences de transmission identifiées. **Texte intégral non reconstitué ; aucune réponse des Archives présumée ; aucun courriel envoyé.**
+
+
+## Continuation de recherche en ligne — 13 octobre 2026 (soir)
+
+**Résultat nouveau : une traduction française de travail relativement étendue est accessible** à https://fr.wikisource.org/wiki/Utilisateur:Volbach/Constitution_corse . Elle se déclare traduction libre à partir de Pasquale Costanzo (éd., Liberilibri, 2008), et non lecture du manuscrit. L'utiliser comme **index de clauses et hypothèses de structure**, pas comme source diplomatique ni texte validé.
+
+### Sections retrouvées dans la traduction
+Préambule et gouvernement (Conseil d'État : Général, 36 présidents, 108 conseillers ; 3 chambres Justice/Guerre/Finances) ; Diète générale et syndicature ; tribunal civil et juges de pièves ; commissaires, capitaines et lieutenants d'armes ; podestats, pères du commun et estimateurs ; lois pénales ; exercice privé de la justice ; dispositions pour Balagna et Nebbiu ; bandits et grâces ; signature Paoli.
+
+### Deuxième témoin historiographique récent
+Pierre-Antoine Tomasi, « Le Sindacato, une institution républicaine. La Constitution corse de 1755 et la question de la reddition de comptes des gouvernants », Université de Corse / LUMI : https://lumi.univ-corse.fr/le-sindacato-une-institution-republicaine-la-constitution-corse-de-1755-et-la-question-de-la-reddition-de-compte-des-gouvernants/ . Cite la règle italienne sur les comptes des magistrats, confronte dispositifs de 1755 et de 1764 et discute une incertitude sur la pratique effective du contrôle des conseillers d'État. Précaution : ses extraits ne remplacent pas la collation du manuscrit.
+
+### Troisième témoin — antécédent 1755 à distinguer
+La Consulte de Caccia des 21 et 22 avril 1755 est transcrite en italien sur https://fr.wikisource.org/wiki/La_consulte_de_Caccia à partir du BSSHNC (1913), p. 79–105. Elle est **antérieure à la constitution de novembre** et ne doit pas lui être agrégée, mais permet l'étude des transitions institutionnelles.
+
+### Filiation et contraintes
+Carrington 1974 en libre accès : https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183 ; Carrington 1973, *English Historical Review*, 88(348), p. 481–503, catalogue/payant https://doi.org/10.1093/ehr/LXXXVIII.CCCXLVIII.481 ; Carrington 1996, *La Marge*, notice M3C https://m3c.universita.corsica/s/fr/item/128781 ; Costanzo 2008, notice éditeur https://www.liberilibri.it/catalogo/costituzione-della-corsica-1755/ (annoncé épuisé).
+
+### Alertes à instruire avant toute reconstitution
+- Le passage traduit sur les recours des juges de piève présente des seuils possiblement discordants (50 / 100 livres) ; contrôler la formulation italienne avant de conclure à une contradiction d'origine.
+- La traduction wikiversitaire est sur une **sous-page d'utilisateur**, non une édition académique validée.
+- Le texte paolien peut présenter plusieurs versions/recensions ; ne pas identifier automatiquement édition Costanzo, citations Carrington et cote 1 J 7/1.
+- Les sanctions pénales doivent être décrites, non minimisées, dans l'édition critique.
+- La licence CC BY-SA du Corpus ne confère aucun droit nouveau sur les commentaires, traductions ou numérisations modernes.
+
+### Sollicitations extérieures restant potentiellement nécessaires
+1. **Archives Pumonti** : reproductions haute définition et identification matérielle de la cote 1 J 7/1 ; concordance avec témoin utilisé par Carrington.
+2. **Université de Corse / M3C ou bibliothèques** : consultation contrôlée de Carrington 1996, conditions exactes de réutilisation ; si numérisation consultable, préférer la consultation sur place avant la demande.
+3. **Bibliothèques patrimoniales** : Rossi 1900, fasc. 237–240, p. 136–141, et Fontana 1907, p. 163–164, pour les variantes textuelles.
+4. **Éditeur / bibliothèque** : Costanzo 2008, texte italien intégral et appareil éditorial, si aucun exemplaire légalement accessible en ligne.
+
+**Aucun courrier nouveau envoyé.** La finalité est de préparer une collation philologique et un projet de traduction originale, non une simple recopie d'une édition moderne.
