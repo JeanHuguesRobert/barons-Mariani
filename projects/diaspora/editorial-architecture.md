@@ -120,3 +120,7 @@ cadre institutionnel déclaré ≠ statut relu
 ## Suna
 
 Le corps du livre garde la déclaration du Principal et l'absence de source primaire. Cette absence est une continuation, pas un trou à remplir par conjecture.
+
+## Référence croisée — Enquêtes patrimoniales hors les murs
+
+Le modèle de mise en relation des compétences et des contributeurs peut, **à titre d'hypothèse**, soutenir des enquêtes territoriales du [Musée Janus](../../musee-mariani/musee_janus_note_fondatrice.md). Cette référence n'implique ni mission DIASPORA déjà lancée, ni transfert de données personnelles : chaque projet garde son corpus souverain, son consentement propre et sa responsabilité éditoriale.
