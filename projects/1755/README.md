@@ -135,3 +135,7 @@ La cote **1 J 7/1** est repérée dans un catalogue patrimonial de la Constituti
 - **Exception éventuelle :** seulement si l'utilisateur donne **une autorisation explicite, spécifique et actuelle d'expédier le ou les messages déterminés**, après présentation des brouillons. Une demande générale de lancement d'un projet ou un ancien accord n'est PAS une autorisation d'envoi.
 - La création d'un brouillon ne vaut **jamais** envoi. Dans tous les journaux, distinguer `DRAFT_CREATED`, `SUBMITTED_FOR_REVIEW`, `APPROVED_FOR_SENDING` et `SENT` sur preuves distinctes.
 - **Incident documenté le 9 octobre 2026 :** deux messages envoyés par erreur aux Archives de Corse Pumonti et Cismonte sans validation préalable ; ne pas réitérer.
+
+## Expérimentation Musée Janus — MJ-1755-01
+
+Le Livre Vivant **1755** fait partie du périmètre scientifique du **Musée Mariani des Possibles**. Il accueille une [mission pilote proposée](missions/mj-1755-01.md) sur la transmission d'une disposition de la Constitution corse : retour aux sources, interprétations, corrections et enquête reproductible. Il s'agit d'un **protocole non encore exécuté**, non d'un résultat démontré. La [note fondatrice Musée Janus](../../musee-mariani/musee_janus_note_fondatrice.md) expose les hypothèses communes ; 1755 conserve son corpus souverain et sa responsabilité éditoriale.
