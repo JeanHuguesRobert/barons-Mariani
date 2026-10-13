@@ -107,6 +107,10 @@ Un protocole « de la semence à la miche » et une fiche des dénominations aut
 
 La question des semences anciennes peut sembler marginale ; elle est au cœur d'un débat vivant sur l'autonomie et la biodiversité cultivée.
 
+## Cas documenté à Minesteggio
+
+La [fiche historique des cultures et moissons de blé à Minesteggio (2019 et 2024)](ble_minesteggio_2019_2027.md) conserve le témoignage direct concernant une parcelle d'environ 5 000 m², des semences initialement obtenues auprès d'U Granu Anticu, un semis tardif en janvier 2019 et deux moissons manuelles (2019, 2024). Elle documente aussi le projet de semis fin 2026 et les points encore à vérifier (variétés, lots, quantités, photographies). Cette fiche est une **source d'observation**, distincte du présent atelier général et de ses projections pédagogiques.
+
 ## Prochaines étapes
 
 Choisir des variétés ; identifier moulin et fournil partenaires ; instruire semences et dénominations ; calculer les indices.
