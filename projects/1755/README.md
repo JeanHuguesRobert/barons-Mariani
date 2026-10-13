@@ -139,3 +139,10 @@ La cote **1 J 7/1** est repérée dans un catalogue patrimonial de la Constituti
 ## Expérimentation Musée Janus — MJ-1755-01
 
 Le Livre Vivant **1755** fait partie du périmètre scientifique du **Musée Mariani des Possibles**. Il accueille une [mission pilote proposée](missions/mj-1755-01.md) sur la transmission d'une disposition de la Constitution corse : retour aux sources, interprétations, corrections et enquête reproductible. Il s'agit d'un **protocole non encore exécuté**, non d'un résultat démontré. La [note fondatrice Musée Janus](../../musee-mariani/musee_janus_note_fondatrice.md) expose les hypothèses communes ; 1755 conserve son corpus souverain et sa responsabilité éditoriale.
+
+## Reconstitution critique : deux chantiers indépendants
+
+- [Chantier A — histoire des éditions et variantes](sources/chantier-a-transmission-editions.md) : Rossi 1900, Fontana 1907, Carrington et Costanzo ; première matrice du préambule avec statuts de vérification.
+- [Chantier B — établissement du texte adopté](sources/chantier-b-etablissement-manuscrit.md) : provenance du manuscrit, cote candidate 1 J 7/1, vérification matérielle, transcription diplomatique et critique.
+
+Les résultats d'un chantier éclairent l'autre **sans jamais être substitués silencieusement**. L'absence de fac-similé contrôlé reste visible ; aucun document manuscrit n'est réputé authentifié.
