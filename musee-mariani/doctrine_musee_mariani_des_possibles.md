@@ -708,3 +708,7 @@ Cette doctrine peut se lire seule, comme proposition muséologique. Elle constit
 Le document doit être enregistré dans `musee-mariani/README.md`, comme couche doctrinale du sous-corpus muséal, à la suite de `intention.md` et `plan-museal.md`.
 
 ---
+
+## Prolongement expérimental : Musée Janus (2026-10-13)
+
+La [note fondatrice Musée Janus v0.1](musee_janus_note_fondatrice.md) prolonge cette doctrine sans la remplacer : le Livre Vivant y est proposé comme précurseur documentaire et contributif d'un Musée Vivant ; la méthode Janus vise l'accroissement vérifiable de la Connaissance, la transmission des capacités et la reproductibilité institutionnelle, avec des chartes et cahiers des charges à élaborer. Le [pilote 1755](../projects/1755/missions/mj-1755-01.md) reste une **hypothèse expérimentale**, et aucune certification ou franchise Janus n'est aujourd'hui revendiquée.
