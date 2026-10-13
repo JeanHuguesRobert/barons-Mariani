@@ -98,3 +98,7 @@ qui supporte les coûts ?
 qui capte éventuellement la valeur ?
 comment le commun survit-il dans le temps ?
 ```
+
+## Lien avec Musée Janus
+
+La réflexion sur les communs patrimoniaux, leur gouvernance et les risques de captation trouve un terrain expérimental dans le [Musée Janus](../../musee-mariani/musee_janus_note_fondatrice.md), conçu comme méthode ouverte de recherche et de transmission. Le lien est **méthodologique et prospectif** : aucun musée affilié ni commun patrimonial fédéré n'est déclaré constitué. Le corpus *Commons* conserve son autorité propre.
