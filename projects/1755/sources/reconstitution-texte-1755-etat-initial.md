@@ -101,3 +101,27 @@ Carrington 1974 en libre accès : https://www.persee.fr/doc/ahrf_0003-4436_1974_
 **Priorité révisée : ne pas demander Fontana ou Rossi comme nécessairement inaccessibles.** Obtenir d'abord les liens ARK des volumes et consulter les pages citées via Gallica ou leur OCR contrôlé ; puis confronter au passage Carrington. Ne solliciter les archives que pour le manuscrit et les informations de fonds indisponibles, et les bibliothèques pour Costanzo/Carrington si les accès en ligne échouent.
 
 **Aucune transcription nouvelle de Fontana ou Rossi prétendue ; aucun courriel envoyé.**
+
+
+## Tentative d'extraction programmée — 13 octobre 2026, dernière passe
+
+### ARK Fontana résolu
+Lien stable réel : https://gallica.bnf.fr/ark:/12148/bpt6k65627055 (confirmé par bibliographie universitaire https://theses.fr/2022REIML015.pdf). Le numéro interne BnF NUMM-6562705 **n'est pas l'ARK** ; le suffixe ARK est `bpt6k65627055`.
+
+Essais des vues de Gallica (`.texteImage`, `.texteBrut`, `.item`, PDF) : interfaces de lecture indisponibles à la récupération machine dans cette session. Tentative Python `requests` en environnement de calcul : résolution DNS externe indisponible. **Aucune image des p. 163–164 effectivement téléchargée ; aucune OCR produit.**
+
+### Variante majeure attestée par Carrington 1973
+L'étude de Carrington (*The English Historical Review*, 1973, p. 482, copie textuelle consultable à https://www.scribd.com/document/341535367/Corsican-Constitution) met côte à côte :
+- manuscrit référencé `ADC Série F` : `La Dieta Generale del Populo di Corsica, Lecitimamente Patrone di se medesimo` ;
+- Fontana : `La Dieta generale rappresentante il popolo di Corsica, unico patrone di se medesimo`.
+
+**Deuxième formulation NON relue sur la page de Fontana : citation indirecte, collation provisoire.** Écart conceptuellement intéressant (le rôle de `rappresentante` et `unico` vs `lecitimamente`) ; ne pas tirer d'affirmation forte avant collation. Carrington 1974 confirme que les versions Rossi/Fontana ont un préambule moins percutant (https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183?pageId=T1_511).
+
+### Rossi
+Notice BnF https://catalogue.bnf.fr/ark:/12148/cb31248785r : le livre X est la **partie numérique n° 6** parmi 13 volumes ; volume `NUMM-480172` à confirmer dans l'interface de consultation, ne pas fabriquer un ARK à partir du numéro interne. Période 1752–1760, édition 1900, texte p. 136–141. Un autre catalogue identifie le volume : https://www.geneanet.org/bibliotheque-genealogie/doc/4846194/osservazioni-storiche-sopra-la-corsica-livre-x-1752-1760-dell-abbate-ambrogio-rossi-publie-par-m-l-abbe-letteron
+
+### Observation méthodologique
+**Extraction = accès réel au contenu, pas identification d'une notice ni citation par un tiers.** Fontana et Rossi sont localisés ; extraction OCR/diplomatique encore bloquée par l'accès aux pages. La variante exposée est sourcée à Carrington, non attribuée à une consultation directe des éditions de 1900/1907.
+
+### Piste de sortie
+Sur un ordinateur avec navigateur normal, ouvrir l'ARK Fontana et l'image des pages 163–164, télécharger PDF ou images ciblées ; pour Rossi, ouvrir la notice BnF, sélectionner partie n°6 (Livre X), et exporter les pages 136–141. Conserver fichier brut, provenance, numéro de page imprimé et pagination numérique ; comparer chaque mot avec Carrington. Aucun courriel expédié.
