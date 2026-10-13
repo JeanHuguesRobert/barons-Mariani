@@ -85,3 +85,19 @@ Carrington 1974 en libre accès : https://www.persee.fr/doc/ahrf_0003-4436_1974_
 4. **Éditeur / bibliothèque** : Costanzo 2008, texte italien intégral et appareil éditorial, si aucun exemplaire légalement accessible en ligne.
 
 **Aucun courrier nouveau envoyé.** La finalité est de préparer une collation philologique et un projet de traduction originale, non une simple recopie d'une édition moderne.
+
+
+## Vérification ciblée des fonds numérisés — 13 octobre 2026
+
+### Résultats vérifiés
+- **Fontana 1907** : notice BnF https://catalogue.bnf.fr/ark:/12148/cb30447547m ; deux supports numériques Gallica indiqués (NUMM-6562705 et NUMS-104356768, second marqué libre de droits). **Les images des p. 163-164 ne sont pas encore lues directement** ; aucune collation revendiquée.
+- **Rossi, Livre X** : notice BnF https://catalogue.bnf.fr/ark:/12148/cb31248785r ; fascicules 237-240, sept.-déc. 1900, p. 136–141 citées par Carrington ; fonds numérisé en plusieurs volumes, référence au livre X dans le groupe BnF. Les images de ces pages ne sont pas encore lues directement.
+- **Carrington 1974, p. 510** : https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183?pageId=T1_509 ; donne une citation de l'incipit sur les trois journées de novembre, décrit 10,5 pages signées et le rôle de Pierre Lamotte. Passage vérifié dans la transcription Persée, mais OCR non révisé : conformité typographique à l'image à contrôler.
+- **Costanzo 2008** : notice éditeur https://www.liberilibri.it/catalogo/costituzione-della-corsica-1755/ ; livre épuisé, 42 pages de texte et 66 pages liminaires annoncées, texte à fronte ; aucun fichier intégral légalement consultable identifié au cours de cette passe.
+- **Carrington 1996** : catalogue M3C https://m3c.universita.corsica/s/fr/item/128781 et notice OpenLibrary https://openlibrary.org/books/OL21262858M/La_constitution_de_Pascal_Paoli_1755 ; volume de 78 p. ; aucune transcription complète téléchargeable vérifiée.
+- **Accès technique** : les notices BnF indiquent explicitement Gallica mais l'accès aux images/PDF via cet environnement n'a pas abouti ; disponibilité numérique bibliographique ≠ pages effectivement exploitées. La BnF documente l'extraction de texte via l'API Gallica https://api.bnf.fr/fr/api-document-de-gallica .
+
+### Interprétation documentaire
+**Priorité révisée : ne pas demander Fontana ou Rossi comme nécessairement inaccessibles.** Obtenir d'abord les liens ARK des volumes et consulter les pages citées via Gallica ou leur OCR contrôlé ; puis confronter au passage Carrington. Ne solliciter les archives que pour le manuscrit et les informations de fonds indisponibles, et les bibliothèques pour Costanzo/Carrington si les accès en ligne échouent.
+
+**Aucune transcription nouvelle de Fontana ou Rossi prétendue ; aucun courriel envoyé.**
