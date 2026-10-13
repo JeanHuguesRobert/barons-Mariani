@@ -53,3 +53,9 @@ A-002 composition et chambres du Conseil d'État ; A-003 mode de délibération 
 
 ## Mesure d'effectivité
 Une matrice reproductible par un tiers (fac-similés vérifiables, index précis, variantes localisées) et une chronologie des transformations du texte ; **ne pas compter des OCR bruts comme éditions établies**.
+
+## Reality Test documentaire — correction FBF du 13 octobre 2026
+
+Le [Packet de récupération](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6153511404) a obtenu HTTP 200 sur les métadonnées Archive de `ConstitutionPaoliCorse` et `IA41555227_0091`, mais n'a **pas** récupéré le texte OCR de Fontana (échec `fetch`). **Correction d'identité** : `IA41555227_0091` est également une numérisation de la thèse de **Matthieu Fontana (1907)**, selon ses métadonnées `creator/title`; ce n'est **pas** Rossi. La recherche directe Rossi effectuée durant ce test n'a donné aucun exemplaire confirmé. Cette correction ne doit pas effacer l'hypothèse antérieure : elle en documente l'invalidation.
+
+[Calculette — leçon FBF](https://github.com/JeanHuguesRobert/cogentia/issues/233#issuecomment-6153596314) : `identifiant découvert ≠ source identifiée ≠ texte effectivement inspecté`. La branche `obtenir les pages` est **bloquée sur un mode de téléchargement**, non épuisée. Un [Packet de diagnostic des formats Archive](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6153605204) a été demandé ; ne pas inférer son succès avant son reçu.
