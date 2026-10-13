@@ -77,3 +77,17 @@ L'inspection effective du fichier révèle que l'**Appendice I** est à l'offset
 - À ~252 700 et ~256 400, passage de la Diète annuelle et de la reddition de comptes, dans les versions française et italienne : occurrence des obligations du Général et du `sindicato` des quatre personnes.
 
 **Prochaine dépendance précise :** retrouver les pages-images correspondant aux pages imprimées **161–164** (index `_page_numbers.json` + serveur Archive) et y contrôler la ponctuation ainsi que les graphies. L'exemplaire R1900 reste une branche indépendante non récupérée. Statut : `F1907_OCR_acquired`, `F1907_facsimile_not_yet_verified`, `R1900_not_acquired`.
+
+## FBF — collation sur fac-similé réellement inspecté (13 octobre 2026)
+
+**Acquisition vérifiée :** [reçu de transfert PDF](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6154689992), fichier PDF de Fontana de 196 pages, 46 610 597 octets, SHA-256 `ea63cb0d49d6f0a9592da33d548e8374307b3f82622500410558c268a4085e3e`. Les **pages PDF 177–180** correspondent exactement à **l'Appendice I**, pages imprimées **161–164** ; les images ont été rendues localement et vues directement. Les fichiers `_page_numbers.json` et `_scandata.xml` ont leurs champs de numéro de page vides et ne permettaient pas cette identification : c'est la localisation dans le PDF qui la prouve. Le PDF isolé de ces quatre pages est un **extrait dérivé** non versionné, le fac-similé original étant ancré par sa somme.
+
+**Correction substantielle à l'appareil A-001, sur la page imprimée 163 / PDF 179 :** la note italienne de Fontana commence (lecture visuelle de l'imprimé) :
+
+> « La Dieta generale rappresentante il popolo di Corsica, unico padrone di se medesimo, legittimamente e secondo le forme dal generale convocata nella città di Corti [...] »
+
+La graphie des derniers mots et la transcription complète demandent une deuxième lecture ; **les termes `unico padrone` ET `legittimamente` sont tous deux présents dans F1907**. La matrice précédente « `unico padrone` (Fontana) contre `Lecitimamente Patrone` (manuscrit cité par Carrington) » **suggérait à tort une exclusion de la légitimité dans Fontana**, en tronquant sa phrase. Il faut comparer les **énoncés complets**, leur syntaxe et la position de `legittimamente`, plutôt que deux fragments isolés : dans F1907, `legittimamente` se rattache prima facie à la convocation de la Diète, pas nécessairement à la qualité de propriétaire. La lecture de Carrington reste **une citation publiée d'un manuscrit, non un fac-similé manuscrit inspecté**.
+
+La traduction française commence bien page imprimée 161 « La Diète générale, représentant le peuple de la Corse, seul maître de lui-même ». Page imprimée 163, Fontana prévoit la reddition annuelle de comptes du Général et le contrôle des autres magistrats par un sindicat de quatre citoyens ; page 164, la note italienne énonce `ogni magistrato ed ufficiale della Nazione sarà tenuto dar conto della sua condotta` (lecture à recontrôler sur scan haute résolution avant édition diplomatique).
+
+**État de preuve :** `F1907_facsimile_inspected = true` (quatre pages), `F1907_comparison_text_partial = true`, `R1900_facsimile_inspected = false`, `M1755_manuscript_inspected = false`. Ne pas présenter les variantes de graphies OCR comme des différences historiques prouvées.
