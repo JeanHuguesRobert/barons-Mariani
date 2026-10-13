@@ -85,3 +85,7 @@ FUTUR
 
 Le lecteur ou contributeur peut proposer des corrections, objections ou traces via les surfaces dédiées (`site/contribuer.html`).
 Ces propositions ne deviennent des modifications du Corpus qu'après qualification et Acte éditorial humain explicite.
+
+## Transmission des capacités d'enquête : Musée Janus
+
+Le [programme de recherche Musée Janus](../../musee-mariani/musee_janus_note_fondatrice.md) propose un objet pédagogique concret : apprendre à conduire une enquête sourcée, à qualifier une objection, à séparer histoire et prospective, à traiter les droits et à rendre la méthode reproductible. Le [pilote 1755](../1755/missions/mj-1755-01.md) est un **protocole proposé**, non une formation ou enquête déjà menée. Les compétences acquises doivent être évaluées par des actes documentés plutôt que par simple participation.
