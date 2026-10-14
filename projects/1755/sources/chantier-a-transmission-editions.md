@@ -131,3 +131,27 @@ Une notice dédiée existe dans la [Bibliothèque Geneanet, document 4846194](ht
 ## Rossi 1900 — piste Geneanet (14 octobre 2026)
 
 Le catalogue de la Société identifie le volume (99), fascicules 237–240 (1900), livre X (1752–1760), pagination imprimée 1–365 : https://www.societesciencescorse.fr/lecatalogue/ . La notice BnF est https://catalogue.bnf.fr/ark:/12148/cb31248785r . Une **notice Geneanet spécifique au livre X** (368 pages annoncées, distincte de la série générale) offre « Consulter cet ouvrage » : https://www.geneanet.org/bibliotheque-genealogie/doc/4846194/osservazioni-storiche-sopra-la-corsica-livre-x-1752-1760-dell-abbate-ambrogio-rossi-publie-par-m-l-abbe-letteron . C'est une piste d'accès plus précise que l'identifiant Gallica hypothétique ; **le fac-similé n'a pas encore été ouvert et ses pages 136–141 n'ont pas été inspectées**. La différence 365/368 pages reste non expliquée, possiblement liée au comptage de feuillets préliminaires. Ne pas inférer un témoin collationné à partir de la seule notice.
+
+## Journal d'accessibilité documentaire — source de l'enquête (14 octobre 2026)
+
+**Objet :** documenter non seulement la transmission du texte mais aussi les conditions observables d'accès aux témoins. Ce registre est une suite d'observations datées et situées, **pas** un jugement général sur un établissement ni une supposition sur la cause de l'obstacle. Pour chaque essai : objet et identifiant, URL, date, environnement/agent, opération, résultat HTTP ou erreur, artefact/reçu, possibilité effective de lire les pages, hypothèse de cause séparée, prochaine voie autorisée.
+
+| Objet / tentative | Observation / preuve | Qualification |
+|---|---|---|
+| Fontana F1907, métadonnées Archive | API metadata HTTP 200, inventaire de PDF/OCR/JP2 ; [reçu COP](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6153617552) | Notice/fichiers annoncés, **pas encore accès au texte** lors de cette étape |
+| Fontana, téléchargement standard | `archive.org/download` renvoie HTTP 302 vers un nœud CDN ; téléchargement `fetch` en échec dans un premier environnement | Échec **de ce chemin** ; ni document absent, ni interdiction générale |
+| Fontana, serveur `d1` Archive | Requête directe au serveur indiqué par metadata, OCR complet 283 345 octets, puis PDF complet 46 610 597 octets ; [reçu OCR](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6153730287), [reçu PDF](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6154689992) | **Accès effectif acquis** et hash vérifiable |
+| Fontana, pagination et rendu | `_page_numbers.json` contient 196 feuillets mais les `pageNumber` consultés sont vides ; extraction distante non réalisée faute d'outils Poppler ; rendu local possible, pages PDF 177–180 = imprimé 161–164 ; [diagnostic](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6154667505) | Limitation de métadonnées puis **capacité de l'environnement**, non indisponibilité de l'œuvre |
+| Rossi R1900, référence bibliographique | [Catalogue de la Société](https://www.societesciencescorse.fr/lecatalogue/) : `(99) N° 237–240 (1900)`, *Osservazioni*, livre X, 365 p. ; [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31248785r) | **Existence bibliographique établie**, lecture directe non acquise |
+| Rossi, accès numérique Gallica | Identifiant `bpt6k4801726` **candidat non vérifié** ; l'affichage consulté de la notice BnF ne donne pas de lien direct incontestable vers le livre X | **Localisation numérique inconnue** : absence de lien observé ≠ preuve d'absence de numérisation |
+| Université de Corse, Digital Cullezzione | [Exemple de Bulletin historique numérisé (1918)](https://bucullezzione.univ-corse.fr/s/digital-cullezzione/item/2579), proposé comme PDF en domaine public | Canal alternatif **attesté**, présence du numéro 237–240 **non vérifiée** |
+
+### Questions d'enquête
+
+1. **Trouvabilité :** un lecteur qui dispose de la référence exacte du tome Rossi X peut-il découvrir un exemplaire numérique ? À quelles étapes échoue-t-il ?
+2. **Accessibilité opérationnelle :** un objet signalé « numérisé » est-il effectivement lisible/téléchargeable, pour un navigateur ordinaire comme pour un agent outillé ? Séparer HTTP, redirection, identité, octets et lecture.
+3. **Reproductibilité :** un autre handler peut-il refaire le parcours en suivant les références publiques, sans dépendre d'une conversation privée ?
+4. **Effet documentaire :** quels témoins et variantes demeurent de fait invisibles lorsque l'accès ne fonctionne pas ? Ne pas déduire de cette invisibilité que le témoin n'existe pas.
+5. **Canaux alternatifs :** vérifier les fonds de la Société, Digital Cullezzione, les bibliothèques et exemplaires physiques sans chercher à contourner des restrictions de service.
+
+**Principe de la Calculette :** chaque obstacle observé est une trace et une dépendance de la recherche, pas un `branch_exhausted`. Sa résolution ultérieure **n'efface pas** la difficulté rencontrée : elle complète son histoire et permet d'étudier l'effectivité des canaux d'accès. Observation ≠ interprétation ≠ preuve d'intention ou de faute.
