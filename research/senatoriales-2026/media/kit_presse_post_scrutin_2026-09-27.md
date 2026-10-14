@@ -157,3 +157,9 @@ Le dossier post-scrutin doit permettre à chacun de vérifier les faits ayant co
 La commission des lois du Sénat a répondu à la contribution associative C.O.R.S.I.C.A. en demandant un fichier Word. Le 14 octobre à 12 h 22, une réponse comportant le dossier Word sur la mise en œuvre effective de l'article 72-5 a été envoyée à `secretaires.lois@senat.fr`. Les versions Markdown et PDF étaient présentes dans un brouillon séparé mais **n'ont pas été jointes au message effectivement envoyé**. Aucune confirmation de réception définitive ou de reprise parlementaire de l'amendement citoyen n'est établie. [Registre public](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md).
 
 La transcription automatique intégrale de l'audition de Françoise Gatel du 13 octobre (16 lots couvrant 512 segments) est documentée dans le [packet d'enquête](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120). Il ne s'agit pas d'un compte rendu officiel : aucune citation ASR non réécoutée ne doit être attribuée à un intervenant. Cette actualisation concerne le débat sur l'autonomie et l'effectivité, distinct du résultat des sénatoriales 2026.
+
+### Sources nouvelles conservées dans le Corpus — 14 octobre 2026
+
+- [Contribution complète C.O.R.S.I.C.A. — source Markdown](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/contribution_senat_CORSICA_2026-10-14_source.md) ; le courriel envoyé comporte la seule pièce Word, dérivée de cette source.
+- [Audition Gatel — transcription ASR complète, non corrigée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/audition_gatel_2026-10-13_transcription_ASR.md) ; ne pas présenter comme verbatim officiel.
+- [Registre public — transmission Sénat](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) ; distinguer l'envoi de toute réception institutionnelle.
