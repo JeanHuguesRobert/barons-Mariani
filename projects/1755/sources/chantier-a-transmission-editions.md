@@ -15,6 +15,16 @@ related_documents:
 
 **Objet autonome** : décrire ce que chaque éditeur a publié et transmis sous le nom de « Constitution corse de 1755 » ; établir les écarts, la filiation éditoriale, leur contexte et leurs conséquences éventuelles sur l'interprétation. Cela **n'établit pas** à soi seul le texte effectivement voté.
 
+## Question gouvernante et règle d'arrêt — FBF (14 octobre 2026)
+
+**Pourquoi ce chantier ?** Contribuer à la reconstitution critique du texte politique adopté en Corse en novembre 1755, pour le Livre Vivant *1755*, en distinguant **ce qui a été voté**, **ce que les témoins permettent d'établir** et **ce que les éditions ultérieures en ont transmis ou modifié**. La question n'est pas de collectionner les numérisations : elle est de tester les formulations significatives (notamment `rappresentante il popolo` / `del Populo`, `unico padrone` / `Lecitimamente Patrone`) et les conséquences éventuelles de leurs différences sur l'interprétation historique de la Diète et de l'autorité politique. Une divergence constatée n'est pas, à elle seule, une preuve de manipulation ou de supériorité du manuscrit.
+
+**Rôle précis de Rossi 1900.** Rossi est un **témoin éditorial intermédiaire potentiel** entre les événements de 1755 et Fontana 1907 ; récupérer ses pages doit permettre d'attribuer ou d'exclure une origine éditoriale à certaines variantes. Ce n'est pas un objectif autonome et son absence ne bloque ni l'analyse des images déjà acquises de Fontana, ni le chantier indépendant d'établissement du manuscrit.
+
+**Définition du résultat utile.** Pour les segments A-001 à A-006, construire une matrice de lectures attribuées à chaque témoin effectivement consulté, avec page/image, incertitudes, et statut `lecture_directe | citation_indirecte | hypothèse`. Décrire les conséquences interprétatives **conditionnellement**, sans rétroprojection ni promotion indue d'autorité.
+
+**Politique de poursuite et d'arrêt.** Consacrer à Rossi uniquement les recherches susceptibles de lever une différence textuelle déterminée ; privilégier les pages 124–126 et 136–141 si ces deux renvois se confirment. Si aucune copie librement et légitimement consultable n'est obtenue dans un effort borné, marquer `R1900: accessible_input_missing`, conserver le chemin de reprise et **continuer le travail utile sur F1907/C1974 et le chantier B**, au lieu de bloquer l'ensemble sur l'acquisition. Rechercher des voies alternatives sans contournement des conditions d'accès ; aucune prise de contact externe sans validation distincte.
+
 ## Témoins, sans assimilation
 | Sigle | Témoin | Accès | Statut de lecture |
 |---|---|---|---|
