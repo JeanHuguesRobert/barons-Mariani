@@ -18,8 +18,8 @@ related_documents:
 ## Témoins, sans assimilation
 | Sigle | Témoin | Accès | Statut de lecture |
 |---|---|---|---|
-| R1900 | Ambrogio Rossi, *Osservazioni storiche*, livre X, BSSHNC, fasc. 237–240 (1900), p. 136–141 | [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31248785r), Gallica candidat bpt6k4801726 | Pages non collationnées directement |
-| F1907 | Matthieu Fontana, *La constitution du généralat de Pascal Paoli*, appendice I, p. 161–164 | [Internet Archive](https://archive.org/details/ConstitutionPaoliCorse), [OCR](https://archive.org/stream/ConstitutionPaoliCorse/ConstitutionPaoliCorse_djvu.txt) | Extrait indirect rapporté dans dossier ; images à contrôler |
+| R1900 | Ambrogio Rossi, *Osservazioni storiche*, livre X, BSSHNC, fasc. 237–240 (1900), p. 136–141 | [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31248785r), ARK Gallica `bpt6k4801726` non vérifié ; [notice Geneanet livre X](https://www.geneanet.org/bibliotheque-genealogie/doc/4846194/osservazioni-storiche-sopra-la-corsica-livre-x-1752-1760-dell-abbate-ambrogio-rossi-publie-par-m-l-abbe-letteron) | Livre X identifié ; pages 136–141 non acquises, aucune collation directe |
+| F1907 | Matthieu Fontana, *La constitution du généralat de Pascal Paoli*, appendice I, p. 161–164 | [Internet Archive](https://archive.org/details/ConstitutionPaoliCorse), [OCR](https://archive.org/stream/ConstitutionPaoliCorse/ConstitutionPaoliCorse_djvu.txt) | OCR et fac-similés p. 161–164 acquis et contrôlés ; collation avec Rossi encore ouverte |
 | C1974 | Dorothy Carrington, « Paoli et sa Constitution », *AHRF* 218, p. 508–541 | [Persée](https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183) | Citation critique d'un manuscrit, **pas une édition intégrale équivalente** |
 | C1996 | Dorothy Carrington, *La constitution de Pascal Paoli 1755* | [M3C](https://m3c.universita.corsica/s/fr/item/128781) | Texte non récupéré |
 | K2008 | Costanzo (éd.), *Costituzione della Corsica [1755]* | [Liberilibri](https://www.liberilibri.it/catalogo/costituzione-della-corsica-1755/) | Texte non récupéré |
