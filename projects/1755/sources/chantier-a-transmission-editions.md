@@ -155,3 +155,11 @@ Le catalogue de la Société identifie le volume (99), fascicules 237–240 (190
 5. **Canaux alternatifs :** vérifier les fonds de la Société, Digital Cullezzione, les bibliothèques et exemplaires physiques sans chercher à contourner des restrictions de service.
 
 **Principe de la Calculette :** chaque obstacle observé est une trace et une dépendance de la recherche, pas un `branch_exhausted`. Sa résolution ultérieure **n'efface pas** la difficulté rencontrée : elle complète son histoire et permet d'étudier l'effectivité des canaux d'accès. Observation ≠ interprétation ≠ preuve d'intention ou de faute.
+
+## Rossi 1900 — recherche indépendante du fascicule (14 octobre 2026)
+
+Le [catalogue de la Société des sciences historiques et naturelles de la Corse](https://www.societesciencescorse.fr/lecatalogue/) confirme l'entrée **(99), fascicules 237–240, 1900, 365 pages**, constituée des *Osservazioni storiche sopra la Corsica*, livre X (1752–1760). La [notice BnF](https://catalogue.bnf.fr/ark:/12148/cb31248785r) confirme le sixième tome imprimé, coté `8-LC20-5 (6,1900)`, mais ne permet pas à elle seule d'établir un exemplaire numérique accessible de **ce tome précis**. Les voisins en ligne ne suffisent pas à l'identifier. Ne pas traiter `bpt6k4801726` comme confirmé sans inspection de sa page de titre.
+
+La recherche indépendante porte sur le **fascicule complet** (ou volume n° 99) plutôt que sur un supposé ARK de monographie. Les résultats publics actuels confirment le catalogue, **pas encore une copie ouverte des pages 136–141**. Un [Packet de vérification des canaux Archive/BnF/Gallica](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6161086564) est soumis ; attendre son reçu pour conclure sur la disponibilité effective.
+
+Prochaine opération : à la première copie disponible, relever le titre et l'année dans le fac-similé, aligner la pagination imprimée 136–141, extraire les pages, puis collationner R1900 contre F1907 sans projeter les variantes antérieures comme attestées.
