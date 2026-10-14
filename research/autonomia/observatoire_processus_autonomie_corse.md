@@ -537,3 +537,15 @@ Cet Observatoire ne cherche pas à démontrer à l’avance que le processus d�
 Il cherche à rendre observable, dans la durée :
 
 > **qui obtient quels pouvoirs, qui devient effectivement capable de faire quoi, quelles possibilités restent ouvertes ou se ferment, et comment le Réel corrige progressivement la Carte que nous en construisons.**
+
+## 14 octobre 2026 — Défenseur des droits : proposition de bascule écrit → téléphone
+
+**Trace primaire privée :** courriel reçu le 13 octobre 2026 à 18:01 UTC, objet « RE: Saisine — effectivité des droits et continuité administrative », en réponse à la saisine écrite du 26 septembre adressée à Josette Chiaroni, déléguée du Défenseur des droits en Haute-Corse. Référence Gmail (accès réservé au titulaire) : https://mail.google.com/mail/u/?authuser=jeanhuguesrobert%40gmail.com#all/1a1366cf2378c17c . **Ne pas reproduire publiquement les contenus sensibles de la saisine.**
+
+- **Fait observé :** l'interlocutrice dit avoir retrouvé le premier courrier dans ses indésirables ; elle propose un appel le 14 octobre après-midi ou le 15 octobre, les appels étant transférés par la préfecture.
+- **Asymétrie de canal :** une démarche écrite demandant référence d'enregistrement et traçabilité aboutit, à ce stade, à une proposition de contact oral ; la proposition ne fournit pas elle-même de référence de dossier ni d'engagement de compte rendu écrit.
+- **Risque hypothétique :** si l'échange oral remplace les écrits sans récapitulatif, la reconstitution des demandes, réponses et engagements devient moins vérifiable. Cette situation constitue un *Reality Case* de capture possible par le canal, **sans intention d'évitement démontrée**.
+- **Explication concurrente :** volonté de clarifier rapidement une demande ou usage administratif courant du téléphone. Ne pas qualifier l'intéressée de personne cherchant délibérément à éviter les traces.
+- **Test proportionné :** accepter le principe d'un échange oral si utile, tout en sollicitant une référence de saisine, la confirmation du périmètre traité et un récapitulatif écrit des suites ; à défaut, produire et communiquer son propre compte rendu daté pour correction contradictoire.
+
+**Statut :** observation fondée sur un courriel authentifié via Gmail ; aucune conversation téléphonique ni intention de dissimulation n'est inférée ici.
