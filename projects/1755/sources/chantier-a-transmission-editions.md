@@ -99,3 +99,13 @@ La traduction française commence bien page imprimée 161 « La Diète général
 **Contrôle direct du préambule italien :** page imprimée **163**, note (1), l'édition Fontana porte : `La Dieta generale rappresentante il popolo di Corsica, unico padrone di se medesimo, legittimamente e secondo le forme dal generale convocata nella città di Corti sotto li giorni 16, 17, 18 di novembre` (ponctuation/graphies terminales à confronter au tirage haute résolution avant citation diplomatique intégrale). Les segments `rappresentante il popolo di Corsica` et `unico padrone di se medesimo` sont **directement visibles**, et non des reconstructions de l'OCR. Le français à la p. 161 commence `La Diète générale, représentant le peuple de la Corse, seul maître de lui-même`.
 
 **Statut critique :** témoin éditorial Fontana/Rossi en lecture directe acquise ; le manuscrit cité par Carrington est **distinct dans son texte** et reste une citation indirecte ici. Le Rossi imprimé en 1900 n'est pas encore vérifié de première main : ne pas assimiler automatiquement l'impression de Fontana à une copie diplomatique de Rossi. La différence `rappresentante il popolo / del Populo` reste à attribuer par collation des témoins.
+
+## Rossi 1900 — localisation bibliographique renforcée (14 octobre 2026)
+
+**Livre identifié sans ambiguïté dans les catalogues** : Ambrogio Rossi, *Osservazioni storiche sopra la Corsica*, livre X (1752–1760), publié par Lucien-Auguste Letteron, dans *Bulletin de la Société des sciences historiques et naturelles de la Corse*, 20e année, fascicules 237–240 (septembre–décembre 1900). Table du catalogue de la Société : volume (99), 365 pages. Bibliographie Carrington 1974 : texte relatif à 1755 aux **pages 136–141**.
+
+Sources de contrôle : [catalogue BnF de Rossi](https://catalogue.bnf.fr/ark:/12148/cb31248785r), [catalogue de la Société](https://www.societesciencescorse.fr/lecatalogue/), [Carrington 1974 sur Persée](https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183).
+
+La notice BnF détaille les 13 volumes numériques et le **volume 6** correspond au *Livre X* ; les volumes voisins sont associés à `NUMM-480183` (livre IX) et `NUMM-480173` (livre XI). **`NUMM-480172` / `bpt6k4801726` reste l'identifiant candidat** tant que la correspondance n'a pas été confirmée sur la notice détaillée ou par lecture de la page de titre. La notice indique bien une numérisation Gallica, mais **aucune page de Rossi n'a encore été effectivement téléchargée et collationnée**.
+
+**Action suivante** : confirmer l'ARK numérique du sixième exemplaire, puis récupérer uniquement les images des pages imprimées 136–141. Ne pas confondre ce témoin avec une deuxième numérisation Fontana (`IA41555227_0091`).
