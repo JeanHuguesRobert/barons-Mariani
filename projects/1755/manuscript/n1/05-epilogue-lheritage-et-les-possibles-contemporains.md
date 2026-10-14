@@ -48,3 +48,9 @@ Parce que l'expérience paolienne n'est pas un monument froid du passé : elle c
 3. **L'alliance de la démocratie et des Communs :** Une démocratie politique ne dure que si elle protège les conditions matérielles d'existence de sa communauté. Comme les communaux pastoraux en 1755, les infrastructures numériques, les données souveraines et les capacités cognitives constituent aujourd'hui les biens communs à défendre contre les nouvelles enclosures.
 
 Telle est la vocation vivante de ce Livre : faire dialoguer le serment démocratique de Corte avec les outils d'autonomie et de souveraineté civique de notre siècle.
+
+## 4. Ouverture contemporaine — du pouvoir écrit à la capacité exercée
+
+La discussion constitutionnelle relative à l'autonomie corse en 2026 permet de poser une question contemporaine distincte de l'histoire de 1755 : quelles conditions font qu'une attribution de pouvoirs devient une capacité réellement exerçable et contrôlable ? Le rapprochement est **heuristique**, non une démonstration de filiation institutionnelle directe.
+
+La [méthode des terrains féconds](../../../../research/methode_terrains_feconds.md) invite à dépasser l'alternative abstraite entre pouvoirs territoriaux et garanties communes en examinant, séparément, les règles, les moyens, le contrôle et les effets. [Autonomia](../../../../research/autonomia.md) développe cette hypothèse à l'échelle territoriale. L'histoire demeure soumise à ses propres preuves ; elle n'est pas mobilisée comme validation automatique d'une proposition politique actuelle.
