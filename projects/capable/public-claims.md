@@ -83,3 +83,10 @@ Elle n'établit pas, à elle seule : une candidature électorale future ; une ca
 Toute proclamation substantielle future de Capable devrait enregistrer au minimum : date et heure ; canal ; URL ou identifiant de trace ; texte exact ; concepts ou engagements publiquement mobilisés ; distinction entre fait, promesse, hypothèse et objectif ; correction ou clarification ultérieure éventuelle ; lien vers le Reality Test concerné lorsqu'il existe.
 
 > Une proclamation publique est une hypothèse exposée au Réel, pas une preuve de son effectivité.
+
+
+## Actualité vérifiée du 14 octobre 2026 — continuité parlementaire et calcul
+
+Le secrétariat de la commission des lois du Sénat a demandé une version Word de la contribution C.O.R.S.I.C.A. le 14 octobre. Une réponse avec le **seul fichier Word** a été envoyée à 12 h 22 à `secretaires.lois@senat.fr` ; la réception institutionnelle définitive et l'examen ne sont pas établis. Le brouillon à trois formats (Word, PDF, Markdown) n'a pas été envoyé. Voir le [registre public](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md).
+
+La [proposition citoyenne d'effectivité de l'article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md) reste publiée sans dépôt parlementaire attesté. La captation publique de l'audition Gatel du 13 octobre a fait l'objet d'une transcription ASR horodatée, traitée sur GitHub Actions en 16 lots ; elle est une source de travail **non révisée**, et non un verbatim officiel. [Packet de provenance](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120). Ces faits alimentent les prochaines éditions en préparation sans changer les numéros gelés.
