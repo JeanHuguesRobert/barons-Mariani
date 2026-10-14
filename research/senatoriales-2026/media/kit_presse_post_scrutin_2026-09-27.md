@@ -151,3 +151,9 @@ La cible symbolique de **12 h 00** ne modifie pas cette règle : si un acte est 
 > **Ce qui peut être fait n’est pas nécessairement ce qui peut effectivement être fait.**
 
 Le dossier post-scrutin doit permettre à chacun de vérifier les faits ayant conduit à cette proposition, sans transformer cette lecture doctrinale en fait juridictionnel.
+
+## Actualité parlementaire — 14 octobre 2026 (addendum, sans réécriture du dossier historique)
+
+La commission des lois du Sénat a répondu à la contribution associative C.O.R.S.I.C.A. en demandant un fichier Word. Le 14 octobre à 12 h 22, une réponse comportant le dossier Word sur la mise en œuvre effective de l'article 72-5 a été envoyée à `secretaires.lois@senat.fr`. Les versions Markdown et PDF étaient présentes dans un brouillon séparé mais **n'ont pas été jointes au message effectivement envoyé**. Aucune confirmation de réception définitive ou de reprise parlementaire de l'amendement citoyen n'est établie. [Registre public](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md).
+
+La transcription automatique intégrale de l'audition de Françoise Gatel du 13 octobre (16 lots couvrant 512 segments) est documentée dans le [packet d'enquête](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120). Il ne s'agit pas d'un compte rendu officiel : aucune citation ASR non réécoutée ne doit être attribuée à un intervenant. Cette actualisation concerne le débat sur l'autonomie et l'effectivité, distinct du résultat des sénatoriales 2026.
