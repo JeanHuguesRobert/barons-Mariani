@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-14T12:28:51.137207+00:00",
-  "git_sha": "8fbb272a58e0b165e204f7b5c6b2ddf010096667",
+  "built_at_utc": "2026-10-14T12:30:35.904200+00:00",
+  "git_sha": "44c162efc40e8d73c9d42e3d468c3b798f3039ad",
   "books": [
     {
       "id": "capable",
@@ -10,7 +10,7 @@
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
-          "sha256": "839bb19f07c5c5dd30b3e05090ad3a58b0bd818704ce947b1dd927a4ceb91e00"
+          "sha256": "880c37e8670b3e8e5eda0e1967d4598efd90f448a14ec21b79e71a4a47e3d3eb"
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
@@ -54,7 +54,7 @@
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "764727ebcaa9c95a8a2b6e146338068eb1d82411b13cd773a6fd206740cdd086"
+      "sha256": "bfed181b16505a5d85da58faa7f003deb7fa9781b5b220ef6a3d5b593a2b9d1b"
     },
     {
       "path": "research/methode_terrains_feconds.md",
