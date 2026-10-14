@@ -85,6 +85,8 @@ Le présent amendement complète ce mécanisme existant afin que la loi organiqu
 
 Il précise en outre que l’évaluation est **périodique** et porte non seulement sur les normes adoptées, mais sur la mise en œuvre du régime lui-même, notamment sur les conditions d’accès aux habilitations et de leur exercice.
 
+L’effectivité d’une faculté constitutionnelle ne saurait être appréciée uniquement au regard de sa reconnaissance formelle ou de la régularité des procédures prévues pour son exercice. Elle suppose également l’examen des conditions concrètes dans lesquelles cette faculté peut être mobilisée, notamment des obstacles matériels, procéduraux ou organisationnels susceptibles d’en empêcher l’accès ou l’exercice. L’évaluation doit permettre d’identifier ces obstacles, d’en distinguer les causes légales et institutionnelles et d’apprécier, lorsque cela relève des autorités compétentes, les possibilités de les réduire ou de les corriger dans le respect des garanties applicables.
+
 Cette évaluation prend enfin en compte les effets de cette mise en œuvre au regard de l’**effectivité de la liberté, de l’égalité et de la fraternité**. Il s’agit ainsi de relier l’autonomie reconnue par la Constitution à l’observation de ses conditions réelles d’exercice et de ses effets, sans préjuger de l’appréciation portée sur une demande particulière d’habilitation.
 
 ---
