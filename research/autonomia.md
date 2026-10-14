@@ -988,3 +988,7 @@ Après plusieurs itérations et revues adverses, la proposition ne consiste plus
 
 Cette dérivation ne ferme pas le concept. Elle constitue au contraire un **Reality Test légistique** : une doctrine générale doit pouvoir produire une proposition précise, être critiquée, simplifiée, puis rester suffisamment ouverte pour qu’un tiers puisse la reprendre et la transformer.
 
+
+## Actualisation de l'enquête — 14 octobre 2026
+
+Le 14 octobre, le secrétariat de la commission des lois du Sénat a demandé la contribution associative C.O.R.S.I.C.A. en Word. La réponse effectivement expédiée à 12 h 22 dans le fil institutionnel comporte ce fichier Word, **sans les deux autres formats du brouillon non envoyé**. La source éditable de la [contribution sénatoriale](autonomia/contribution_senat_CORSICA_2026-10-14_source.md), la [transcription ASR intégrale du 13 octobre](autonomia/audition_gatel_2026-10-13_transcription_ASR.md) et le [registre public des interactions](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) permettent de distinguer les faits établis des suites institutionnelles encore inconnues. La transcription n'est pas un verbatim officiel et la proposition d'effectivité de l'article 72-5 reste une contribution citoyenne, sans dépôt parlementaire attesté.
