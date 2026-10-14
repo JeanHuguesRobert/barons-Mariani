@@ -2455,3 +2455,13 @@ Chaque produit dérivé doit respecter la règle de non-trahison :
 - conserver les limites et objections importantes ;
 - ne pas transformer une hypothèse en certitude ;
 - permettre le retour vers le corpus.
+
+## Continuation — terrains féconds, trois Machines et Révélateur/Stabilisateur (14 octobre 2026)
+
+La [méthode des terrains féconds](methode_terrains_feconds.md) intervient en amont et au cours de l'exploration : elle permet de questionner la géométrie d'une opposition et de faire apparaître des possibles masqués par son cadrage initial. Elle se combine aux trois fonctions sans s'y substituer : Machine à Empêcher (fermeture ou fragilisation de capacités), Machine à Explorer (routes et hypothèses alternatives), Machine à Rendre Capable (conversion de possibles en actions praticables).
+
+Le Révélateur rend visibles les écarts, y compris la stérilité d'un terrain de débat ; le Stabilisateur rend les capacités reprises et transmissibles, sous réserve de conserver ses propres voies de contradiction et de correction. **Stabiliser n'est pas figer.** Le cycle n'est ni automatique ni strictement linéaire.
+
+Distinguer trois niveaux probatoires : **ouverture** d'un possible, **appropriation** par un acteur, **transformation** d'une pratique ou institution. La proximité temporelle entre contribution et décision n'établit pas une causalité. Vérifier les hypothèses concurrentes, l'accessibilité dans le temps utile et les capacités distribuées plutôt que seulement celles de l'appareil.
+
+Application située : [Autonomia](autonomia.md) ; projection dérivée : [Capable — Trois Machines](../projects/capable/manuscript/05-machines-et-correction.md).
