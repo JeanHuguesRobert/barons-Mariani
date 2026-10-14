@@ -931,6 +931,17 @@ Ce protocole peut être utilisé par des habitants, élus, associations, porteur
 - Comment articuler expérimentation locale et égalité territoriale ?
 
 ---
+
+## Terrain fécond, capacités et garanties — continuation du 14 octobre 2026
+
+L'opposition entre autonomie territoriale et garanties républicaines gagne à être examinée par couches : habilitation juridique, moyens d'exercice, contrôle, participation, mesure et correction. La [méthode des terrains féconds](methode_terrains_feconds.md) ne propose pas un compromis arithmétique entre deux camps ; elle cherche les conditions sous lesquelles leurs exigences peuvent devenir complémentaires, tout en conservant les incompatibilités réelles.
+
+L'autonomie de capacité devient ainsi une propriété dynamique : capacité d'un territoire et de ses habitants à **découvrir, exercer, entretenir et renouveler** des capacités situées. Le transfert de compétences ne prouve, à lui seul, ni leur accessibilité effective ni un bénéfice distribué aux habitants.
+
+Le Révélateur observe les empêchements et les erreurs de cadrage ; les Machines à Explorer et à Rendre Capable éprouvent puis rendent praticables de nouvelles voies ; le Stabilisateur garde les acquis corrigibles sans se substituer à l'examen contradictoire. La Machine à Empêcher peut aussi résulter de règles produites par le système lui-même.
+
+**Hypothèse de travail, non résultat établi :** un examen commun des conditions d'accès aux habilitations, des ressources, des garanties et des effets peut ouvrir un terrain de délibération différent de la seule opposition « davantage de pouvoirs / davantage de contrôle ». Le dossier [d'amendement d'effectivité à l'article 72-5](autonomia/amendement_effectivite_article_72-5.md) offre un objet d'épreuve, sans présumer de son adoption ni de son influence parlementaire.
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
