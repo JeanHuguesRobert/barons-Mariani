@@ -163,3 +163,12 @@ La transcription automatique intégrale de l'audition de Françoise Gatel du 13 
 - [Contribution complète C.O.R.S.I.C.A. — source Markdown](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/contribution_senat_CORSICA_2026-10-14_source.md) ; le courriel envoyé comporte la seule pièce Word, dérivée de cette source.
 - [Audition Gatel — transcription ASR complète, non corrigée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/audition_gatel_2026-10-13_transcription_ASR.md) ; ne pas présenter comme verbatim officiel.
 - [Registre public — transmission Sénat](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) ; distinguer l'envoi de toute réception institutionnelle.
+
+
+## Complément documentaire — 14 octobre 2026 : Sénat, effectivité et traçabilité
+
+La commission des lois du Sénat a demandé une version Word de la contribution associative C.O.R.S.I.C.A. sur le futur article 72-5. Une réponse contenant le Word a été envoyée le **14 octobre 2026 à 12 h 22** à `secretaires.lois@senat.fr`. Ce fait est documenté dans le [registre public](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md). Aucun dépôt d'amendement parlementaire n'en découle à ce stade. Ne pas présenter les PDF et Markdown d'un brouillon distinct comme effectivement transmis.
+
+L'audition ministérielle du 13 octobre a fait l'objet d'une transcription **ASR de travail**, couvrant 512 segments audiovisuels en 16 lots, avec horodatages et preuves d'exécution. Elle n'est pas un compte rendu sénatorial officiel ; les attributions et formulations importantes requièrent vérification sur l'audio. [Paquet de preuve et de suivi](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) et [exécution de calcul](https://github.com/JeanHuguesRobert/inseme/actions/runs/38559404817).
+
+Pour un dossier de presse, maintenir trois distinctions : publication associative versus dépôt parlementaire ; courriel envoyé versus réception et instruction ; reconnaissance vocale automatique versus citation vérifiée. Ce complément vaut mise à jour de la documentation vivante, **sans réécrire l'état historique du document initial**.
