@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-14T10:32:52.778671+00:00",
-  "git_sha": "49914f1d1e21946b9c3efbfd11039d6344d40fd2",
+  "built_at_utc": "2026-10-14T12:26:50.071524+00:00",
+  "git_sha": "3ba5f439018adda925529245423e436743cd05cc",
   "books": [
     {
       "id": "capable",
@@ -10,11 +10,11 @@
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
-          "sha256": "81a2a4290952556c817402a21e3b21c5e594676d292e1a66c3545495ae8580e9"
+          "sha256": "839bb19f07c5c5dd30b3e05090ad3a58b0bd818704ce947b1dd927a4ceb91e00"
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
-          "sha256": "698b6161ac59192723d521b85b9851afcbe5c0e5fe0dcd3abba0b130eadb002a"
+          "sha256": "ffefb421846caf26d3b51129f6e2c5cc5d53dd7073a5f70fa458a2079f1d580a"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
@@ -50,7 +50,7 @@
   "related_sources": [
     {
       "path": "research/autonomia/observatoire_processus_autonomie_corse.md",
-      "sha256": "d8f4fd74a087f2aa9c8e26185d4d56b78aca972d7b27907ae0ac568d5c3d9e88"
+      "sha256": "a2937bbfb56fa7627988a4219860bd3962734f6e7f360740634e6b58ce7881af"
     },
     {
       "path": "research/autonomia.md",
