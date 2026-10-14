@@ -163,3 +163,11 @@ Le [catalogue de la Société des sciences historiques et naturelles de la Corse
 La recherche indépendante porte sur le **fascicule complet** (ou volume n° 99) plutôt que sur un supposé ARK de monographie. Les résultats publics actuels confirment le catalogue, **pas encore une copie ouverte des pages 136–141**. Un [Packet de vérification des canaux Archive/BnF/Gallica](https://github.com/JeanHuguesRobert/inseme/issues/120#issuecomment-6161086564) est soumis ; attendre son reçu pour conclure sur la disponibilité effective.
 
 Prochaine opération : à la première copie disponible, relever le titre et l'année dans le fac-similé, aligner la pagination imprimée 136–141, extraire les pages, puis collationner R1900 contre F1907 sans projeter les variantes antérieures comme attestées.
+
+## Rossi 1900 — numérisation indépendante repérée (14 octobre 2026)
+
+- [Geneanet, livre X, 1752–1760](https://www.geneanet.org/bibliotheque-genealogie/doc/4846194/osservazioni-storiche-sopra-la-corsica-livre-x-1752-1760-dell-abbate-ambrogio-rossi-publie-par-m-l-abbe-letteron) : document numérisé identifié, 368 pages annoncées, index de noms avec fragments textuels ; **lecture intégrale réservée aux abonnés Premium**, pages 136–141 non consultées dans notre chaîne.
+- [Catalogue historique de la Société des sciences historiques et naturelles de la Corse](https://www.societesciencescorse.fr/lecatalogue/) : volume n°99, fascicules 237–240 (1900), Rossi livre X, pages 1–365 ; écart de décompte avec Geneanet (368 pages) à ne pas interpréter sans voir les pages liminaires.
+- [Collection numérisée BU Università di Corsica](https://bucullezzione.univ-corse.fr/s/digital-cullezzione/item-set/1586) : plusieurs numéros accessibles, mais le n°237–240 ne figurait pas dans le lot visible consulté ; cela ne démontre pas son absence de leurs collections.
+
+**Statut précis** : `R1900_digitization_identified`; `R1900_fulltext_not_accessible_in_current_scope`; `R1900_p136_141_not_verified`. Ne pas inférer un accès intégral depuis les snippets d'indexation ni reprendre une graphie italienne de Rossi sans image. Prochaine action : rechercher un exemplaire ouvert ou solliciter une reproduction des six pages par les détenteurs autorisés (aucun courrier envoyé).
