@@ -1,39 +1,65 @@
-name: Living Books — editorial news previews
+name: Living Books — public working editions
 
 on:
   workflow_dispatch:
   push:
     branches: [main]
     paths:
-      - "research/autonomia/observatoire_processus_autonomie_corse.md"
-      - "research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md"
+      - "research/autonomia/**"
+      - "research/autonomia.md"
+      - "research/methode_terrains_feconds.md"
+      - "research/noyau_doctrinal_rendre_capable.md"
+      - "projects/capable/manuscript/**"
       - "projects/capable/editions/**"
+      - "projects/suicide-corse/manuscript/**"
       - "projects/suicide-corse/editions/**"
+      - "projects/1755/manuscript/**"
       - "projects/1755/editions/**"
       - "scripts/build-living-books-news-previews.py"
+      - ".github/workflows/living-books-news-previews.yml"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
-  group: living-books-news-preview
+  group: living-books-public-working
   cancel-in-progress: true
 
 jobs:
-  preview:
+  publish-working:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Generate traceable working previews
+        with:
+          persist-credentials: true
+      - name: Render public working pages and provenance
         run: python3 scripts/build-living-books-news-previews.py
-      - name: Upload only provisional artifacts
+      - name: Validate working pages
+        run: |
+          test -s previews/en-preparation/index.html
+          test -s previews/en-preparation/capable.html
+          test -s previews/en-preparation/1755.html
+          test -s previews/en-preparation/suicide-corse.html
+          python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
+      - name: Commit public working projections only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add previews/en-preparation/
+          if git diff --cached --quiet; then
+            echo "Working pages already current"
+          else
+            git commit -m "build(living-books): refresh public working previews [skip ci]"
+            git push origin HEAD:main
+          fi
+      - name: Archive build output for troubleshooting
         uses: actions/upload-artifact@v4
         with:
-          name: living-books-news-working-${{ github.run_number }}
-          path: build/living-books-news/
+          name: living-books-public-working-${{ github.run_number }}
+          path: previews/en-preparation/
           if-no-files-found: error
           retention-days: 30
 
-# Deliberately NO publication, freeze, release, write permission or auto-merge.
-# A human must separately review and authorize any promotion of an edition.
+# Publishing these PUBLIC WORKING previews is not freezing an edition.
+# Do not modify any projects/*/projections or frozen site/book assets.
