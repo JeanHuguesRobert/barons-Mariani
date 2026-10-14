@@ -1262,6 +1262,19 @@ Ce document peut être poursuivi selon plusieurs directions :
 Formule directrice pour la suite :
 
 > Avant de débattre d’une opposition, vérifions si le terrain qui la produit est fécond. Si ce terrain est stérile, ne cherchons pas seulement de meilleurs arguments : redessinons le terrain.
+
+## Application — autonomie de capacité et boucle de correction (14 octobre 2026)
+
+Le débat sur l'autonomie corse offre un cas de reconfiguration : l'attribution de pouvoirs territoriaux et les garanties communes ne sont pas nécessairement les deux extrêmes d'un seul axe. Sécurité juridique, ressources, exercice réel, contrôle et évaluation appartiennent à des couches différentes, qui peuvent se compléter sans effacer leurs tensions.
+
+**Une opposition devient féconde lorsque les exigences présentées comme des obstacles mutuels deviennent, lorsque cela est possible, des conditions vérifiables d'une réalisation commune.** Cette hypothèse ne présume pas que toutes les revendications soient compatibles.
+
+Dans la grammaire du Corpus, le **Révélateur** identifie aussi les terrains cognitivement stériles ; la méthode des terrains féconds reconfigure le problème ; la **Machine à Explorer** éprouve les routes ouvertes ; la **Machine à Rendre Capable** transforme certains possibles en capacités praticables ; le **Stabilisateur** conserve les traces, les routes alternatives et les conditions de réexamen. La **Machine à Empêcher** désigne les fermetures de capacité, y compris involontaires et internes au dispositif. Ces fonctions s'entrecroisent, sans former un pipeline rigide.
+
+**Un terrain fécond n'est durablement fécond que s'il reste capable de révéler et corriger sa propre stérilisation.** Test contradictoire : quelle capacité nouvelle est apparue, qui peut réellement l'exercer, et quelle autre cause pourrait expliquer l'effet observé ?
+
+Voir [Autonomia](autonomia.md), [Rendre capable — noyau doctrinal](noyau_doctrinal_rendre_capable.md) et [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md).
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
