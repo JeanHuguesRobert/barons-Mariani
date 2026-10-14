@@ -1,57 +1,93 @@
 #!/usr/bin/env python3
-"""Build traceable, non-frozen editorial bundles from a checked-out Corpus snapshot.
+"""Public, unfrozen and traceable living-book working editions.
 
-A source change triggers the preview workflow; this script does not publish releases.
+Generated pages are public projections. Never edit frozen editions.
 """
 from pathlib import Path
 from datetime import datetime, timezone
+from html import escape
 import hashlib
 import json
 import os
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "build" / "living-books-news"
-SOURCE = "research/autonomia/observatoire_processus_autonomie_corse.md"
+OUT = ROOT / "previews" / "en-preparation"
 BOOKS = {
-    "capable": "projects/capable/editions/2026-10-09-en-preparation.md",
-    "suicide-corse": "projects/suicide-corse/editions/2026-10-09-n4-en-preparation.md",
-    "1755": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
+    "capable": {
+        "edition": "projects/capable/editions/2026-10-09-en-preparation.md",
+        "chapters": ["projects/capable/manuscript/03-effectivite.md",
+                     "projects/capable/manuscript/05-machines-et-correction.md"],
+    },
+    "suicide-corse": {
+        "edition": "projects/suicide-corse/editions/2026-10-09-n4-en-preparation.md",
+        "chapters": [],
+    },
+    "1755": {
+        "edition": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
+        "chapters": ["projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md"],
+    },
 }
+COMMON = ["research/autonomia/observatoire_processus_autonomie_corse.md",
+          "research/autonomia.md",
+          "research/methode_terrains_feconds.md",
+          "research/noyau_doctrinal_rendre_capable.md"]
+
+def md_body(raw):
+    if raw.startswith("---\n"):
+        _, sep, tail = raw.partition("\n---\n")
+        if sep:
+            return tail.lstrip()
+    return raw
+
+def to_html(md):
+    # Faithful, readable source display; no untrusted Markdown HTML execution.
+    lines = []
+    for line in md_body(md).splitlines():
+        m = re.match(r"^(#{1,6})\s+(.+)$", line)
+        if m:
+            n = len(m.group(1))
+            lines.append(f"<h{n}>{escape(m.group(2))}</h{n}>")
+        elif not line.strip():
+            lines.append("<div class='space'></div>")
+        else:
+            lines.append("<p>{}</p>".format(escape(line)))
+    return "\n".join(lines)
+
 def digest(b):
     return hashlib.sha256(b).hexdigest()
 
 def main():
-    source = ROOT / SOURCE
-    if not source.is_file():
-        raise SystemExit("missing source: " + SOURCE)
-    source_bytes = source.read_bytes()
     OUT.mkdir(parents=True, exist_ok=True)
-    manifest = {
-        "schema": "living-books.news-preview/v1",
-        "status": "working-unfrozen-not-published",
-        "source": SOURCE,
-        "source_sha256": digest(source_bytes),
-        "git_sha": os.environ.get("GITHUB_SHA", "local"),
-        "built_at_utc": datetime.now(timezone.utc).isoformat(),
-        "books": [],
-    }
-    for book, src in BOOKS.items():
-        p = ROOT / src
-        if not p.is_file():
-            raise SystemExit("missing edition plan: " + src)
-        data = p.read_bytes()
-        rel = book + "-en-preparation.md"
-        header = ("# Aperçu documentaire — " + book + "\n\n"
-                  "> **EN PRÉPARATION — non gelé, non publié comme édition.** "
-                  "Ce paquet est une synthèse de provenance, non un livre rendu.\n\n"
-                  "Source : " + SOURCE + " (SHA-256: " + digest(source_bytes) + ")\n\n"
-                  "État éditorial : " + src + " (SHA-256: " + digest(data) + ")\n\n"
-                  "Le contenu vérifié, les inconnues et les corrections appartiennent "
-                  "à l'Observatoire et ne doivent pas être inventés ici.\n\n---\n\n")
-        (OUT / rel).write_text(header + data.decode("utf-8"), encoding="utf-8")
-        manifest["books"].append({"id": book, "input": src, "sha256": digest(data), "preview": rel})
+    stamp = datetime.now(timezone.utc).isoformat()
+    sha = os.environ.get("GITHUB_SHA", "local")
+    manifest = {"schema": "living-books.public-working/v1",
+                "status": "public-en-preparation-non-gele",
+                "built_at_utc": stamp, "git_sha": sha, "books": []}
+    index = ["<h1>Livres Vivants — versions publiques en préparation</h1>",
+             "<p>Versions évolutives, non gelées. Les éditions gelées restent distinctes.</p>"]
+    for name, cfg in BOOKS.items():
+        paths = [cfg["edition"]] + cfg["chapters"]
+        sections, inputs = [], []
+        for path in paths:
+            data = (ROOT / path).read_bytes()
+            inputs.append({"path": path, "sha256": digest(data)})
+            title = "État éditorial" if path == cfg["edition"] else Path(path).stem
+            sections.append(f"<section><h2>{escape(title)}</h2>"
+                f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
+                + to_html(data.decode("utf-8")) + "</section>")
+        css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
+        body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · mis à jour {escape(stamp)} · commit {escape(sha)}</p>"
+        body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
+        body += "\n".join(sections)
+        out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
+        (OUT / (name + ".html")).write_text(out, encoding="utf-8")
+        manifest["books"].append({"id": name, "page": name + ".html", "inputs": inputs})
+        index.append(f"<p><a href='{escape(name)}.html'>{escape(name)} — en préparation</a></p>")
+    manifest["related_sources"] = [{"path": p, "sha256": digest((ROOT / p).read_bytes())} for p in COMMON]
     (OUT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print("Built", len(BOOKS), "unfrozen editorial previews:", OUT)
+    (OUT / "index.html").write_text("<!doctype html><html lang='fr'><meta charset='utf-8'><title>Livres Vivants en préparation</title><body>"+"\n".join(index)+"</body></html>", encoding="utf-8")
+    print("Built", len(BOOKS), "public working edition pages in", OUT)
 
 if __name__ == "__main__":
     main()
