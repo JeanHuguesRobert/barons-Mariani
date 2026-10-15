@@ -63,7 +63,7 @@ changelog:
 
 ## Actualisation vérifiée — 9 octobre 2026
 
-- La [fiche officielle de l’audition de Françoise Gatel](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html) est accessible lors du contrôle du 9 octobre ; elle annonce l’audition du 7 octobre à 15 h, mais ne constitue pas un compte rendu de ses échanges. Une erreur HTTP observée lors d’un contrôle antérieur doit être conservée comme **observation ponctuelle**, non comme état permanent du lien.
+- La [fiche officielle de l’audition de Françoise Gatel](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html) est accessible lors du contrôle du 9 octobre ; elle indique désormais une audition tenue le 13 octobre à 8 h 30, après report de celle initialement prévue le 7 octobre ; elle ne constitue pas un compte rendu intégral des échanges. Une erreur HTTP observée lors d’un contrôle antérieur doit être conservée comme **observation ponctuelle**, non comme état permanent du lien.
 - Le [dossier législatif officiel](https://www.senat.fr/dossier-legislatif/pjl24-869.html) confirme la transmission du texte n° 782 le 24 juin et sa discussion prévue le 26 octobre. La désignation de **Muriel Jourda**, le 7 octobre 2026, est établie séparément par le compte rendu officiel de la commission des lois : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html .
 - Le [calendrier du Sénat](https://www.senat.fr/seances/s202607/s20260708/s20260708019.html) annonce la réunion de la commission pour le rapport le 21 octobre et la limite des amendements de séance le 23 octobre à midi.
 - [Point d’entrée consolidé pour la lecture parlementaire](./autonomia/dossier_rapporteur_senat_2026-10-09.md) : liens vers proposition, justification, antériorités, observations et états non établis.
@@ -253,7 +253,7 @@ La [contribution du 28 mai](./contribution_commission_lois_autonomie_capacite.md
 - Sénat — texte n° 782 : https://www.senat.fr/leg/pjl25-782.html
 - Sénat — dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Sénat — renouvellement des instances : https://www.senat.fr/travaux-parlementaires/seance-publique/ordre-du-jour/calendrier-de-renouvellement-des-instances-du-senat.html
-- Sénat — audition de Françoise Gatel, 7 octobre 2026 : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Sénat — audition de Françoise Gatel, 13 octobre 2026 (report du 7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
 - Ministère de l’Intérieur — résultats Haute-Corse : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2B/index.html
 - Ministère de l’Intérieur — résultats Corse-du-Sud : https://www.resultats-elections.interieur.gouv.fr/Senatoriales2026/ensemble_geographique/94/2A/index.html
 
