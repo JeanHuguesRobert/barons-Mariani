@@ -123,14 +123,14 @@ La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politiqu
 
 ## État courant — 9 octobre 2026
 
-- L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
+- L'audition de Françoise Gatel annoncée pour le 7 octobre a été **reportée au 13 octobre 2026 à 8 h 30**, et sa tenue est confirmée par la fiche officielle. Les analyses de presse restent identifiées comme sources secondaires.
 - **Muriel Jourda est présidente de la commission des lois et rapporteure désignée le 7 octobre 2026** du projet n° 782. Voir [fiche OSINT](osint_acteurs/muriel_jourda.md).
 - **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
 - La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
 - Le courrier à Muriel Jourda demeure un **brouillon public non envoyé** ; destinataire connu, transmission et réception non attestées. Une preuve de transmission puis de réception devra être enregistrée séparément.
 
 Sources officielles :
-- Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Audition ministérielle (13 octobre, report du 7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
 - Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
 
