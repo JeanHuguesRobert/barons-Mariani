@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-14T12:30:35.904200+00:00",
-  "git_sha": "44c162efc40e8d73c9d42e3d468c3b798f3039ad",
+  "built_at_utc": "2026-10-15T06:36:56.280188+00:00",
+  "git_sha": "bab8d7bf305f038036b97f5b1ca551f2af56e42b",
   "books": [
     {
       "id": "capable",
@@ -50,11 +50,11 @@
   "related_sources": [
     {
       "path": "research/autonomia/observatoire_processus_autonomie_corse.md",
-      "sha256": "a2937bbfb56fa7627988a4219860bd3962734f6e7f360740634e6b58ce7881af"
+      "sha256": "bdaec4b144e9a1749f38e144aecf88bb4091a2404825df75e2a061990de2058b"
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "bfed181b16505a5d85da58faa7f003deb7fa9781b5b220ef6a3d5b593a2b9d1b"
+      "sha256": "0a61e0bfaaa02cf47010d9e61f932711a48637f4fb73f467eba74131c513fa07"
     },
     {
       "path": "research/methode_terrains_feconds.md",
