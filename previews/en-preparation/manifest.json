@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-15T06:36:56.280188+00:00",
-  "git_sha": "bab8d7bf305f038036b97f5b1ca551f2af56e42b",
+  "built_at_utc": "2026-10-15T06:37:58.555412+00:00",
+  "git_sha": "89842b26059056266d09af4d092bc5f2cd16556e",
   "books": [
     {
       "id": "capable",
@@ -50,7 +50,7 @@
   "related_sources": [
     {
       "path": "research/autonomia/observatoire_processus_autonomie_corse.md",
-      "sha256": "bdaec4b144e9a1749f38e144aecf88bb4091a2404825df75e2a061990de2058b"
+      "sha256": "1a1e747f1c3e52bb44788787c15d9f8b73cfcb16cac6bc1871e57849ce3fc0ff"
     },
     {
       "path": "research/autonomia.md",
