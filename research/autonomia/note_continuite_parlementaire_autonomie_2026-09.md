@@ -75,14 +75,14 @@ La carte institutionnelle et politique courante est portée par l’[addendum At
 
 ## Actualisation institutionnelle — 9 octobre 2026
 
-- L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
-- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente**. Ce rôle est distinct de celui du rapporteur du texte n° 782. La désignation nominative de ce rapporteur n'est pas établie par les sources ici contrôlées : **UNKNOWN**.
+- L'audition de Françoise Gatel a été **reportée du 7 au 13 octobre 2026 à 8 h 30** et s'est tenue à cette date, selon la fiche officielle ; l'analyse des propos rapportés par la presse est séparée de la source institutionnelle.
+- Le renouvellement du bureau de la commission des lois a eu lieu ; **Muriel Jourda demeure présidente et a été désignée rapporteure du texte n° 782 le 7 octobre**, selon le compte rendu officiel. Les mentions antérieures d'un rapporteur inconnu restent historiques.
 - **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
 - La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
 - Le courrier préparé au rapporteur demeure un **brouillon public non envoyé**, à personnaliser seulement après confirmation institutionnelle de l'identité du destinataire. Une preuve de transmission puis de réception devra être enregistrée séparément.
 
 Sources officielles :
-- Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Audition ministérielle (13 octobre, report du 7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
 - Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
 
