@@ -49,7 +49,7 @@ review:
 - Texte adopté et transmis : https://www.senat.fr/leg/pjl25-782.html
 - Dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Calendrier : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html (commission pour le rapport le 21 octobre ; séance prévue le 26 octobre ; délai des amendements de séance le 23 octobre à midi).
-- Fiche d'annonce d'audition de Françoise Gatel le 7 octobre : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html — **consultable lors de la vérification du 9 octobre** ; ne contient pas une transcription des échanges.
+- Fiche officielle de l'audition de Françoise Gatel, tenue le 13 octobre après report du 7 octobre : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html — **consultable lors de la vérification du 9 octobre** ; ne contient pas une transcription des échanges.
 
 ## États séparés
 
