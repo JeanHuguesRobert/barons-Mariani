@@ -46,6 +46,15 @@ review:
   reviewed_by: []
 ---
 
+## Correctif transversal — audition du 13 octobre 2026
+
+**État institutionnel au 15 octobre 2026 :** le compte rendu de la commission des lois du 7 octobre précise que l'audition de Françoise Gatel, initialement prévue ce jour-là à 15 h, a été **reportée au mardi 13 octobre à 8 h 30**, en raison d'un empêchement de la ministre. La [fiche officielle de l'audition](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html) confirme sa tenue le 13 octobre. Le même [compte rendu du 7 octobre](https://www.senat.fr/compte-rendu-commissions/20261005/lois.html) confirme la désignation de **Muriel Jourda comme rapporteure** du projet n° 782. Toute mention antérieure d'une audition *tenue* le 7 octobre est donc remplacée par ce constat ; les annonces initiales du 7 octobre restent seulement des traces historiques.
+
+**Débat du 13 octobre — source journalistique secondaire :** Nicole Mari, [« Françoise Gatel : L'autonomie de la Corse n'est pas un saut dans le vide ! », Corse Net Infos](https://app.corsenetinfos.corsica/lactu-regionale/c/0/i/98363048/francoise-gatel-l-autonomie-de-la-corse-n-est-pas-un-saut-dans-le-vide-), rapporte les thèmes suivants : Gatel distingue égalité et uniformité, défend une Constitution qui fixe des principes et une loi organique qui précise leur application ; Jourda interroge la portée des mots constitutionnels, les habilitations et la non-régression ; Panunzi questionne les flux financiers et les moyens d'exercice ; Parigi insiste sur l'insuffisance du statut existant. Ce sont **des propos et des thèmes rapportés par la presse**, non une retranscription officielle contrôlée. La transcription ASR éventuellement disponible dans le Corpus demeure une source de travail non révisée.
+
+**Portée pour l'amendement d'effectivité :** ces échanges éclairent le problème de la différence entre compétences juridiques, conditions réelles d'exercice et effets observables ; ils ne démontrent ni soutien parlementaire à notre proposition, ni influence de notre contribution. La question de la société civile reste distincte : le secrétariat de la commission des lois a accusé réception de la contribution écrite de C.O.R.S.I.C.A. le **14 octobre à 17 h 31**, à la suite de transmissions en format Word, sans preuve à ce stade de lecture personnelle par la rapporteure ni de reprise dans le rapport. La réception d'une **contribution** ne signifie pas le **dépôt parlementaire d'un amendement**.
+
+
 # Autonomie de la Corse — note de continuité parlementaire
 
 ## Mise à jour de situation — 7 octobre 2026, 7 h 36
