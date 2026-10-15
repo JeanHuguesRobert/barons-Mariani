@@ -65,7 +65,7 @@ Ce document prépare un courriel à **Mme Muriel Jourda**, rapporteure du projet
 
 Le destinataire nominatif est désormais vérifié. **L’adresse de réception institutionnelle précise reste à vérifier avant tout envoi** ; aucun canal de contact ne doit être inventé.
 
-Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **9 octobre 2026**, le bureau de la commission a été renouvelé et une audition ministérielle datée du 7 octobre à 15 h est référencée officiellement. La rapporteure, **Muriel Jourda**, est nommément désignée dans le compte rendu officiel de la commission des lois du 7 octobre 2026. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
+Le texte n° 782 a été transmis au Sénat le 24 juin 2026 et renvoyé à la commission des lois. Au **15 octobre 2026**, le bureau de la commission a été renouvelé ; l'audition ministérielle initialement annoncée pour le 7 octobre a été reportée et s'est tenue le 13 octobre à 8 h 30. La rapporteure, **Muriel Jourda**, est nommément désignée dans le compte rendu officiel de la commission des lois du 7 octobre 2026. Le calendrier publié prévoit ensuite une réunion pour le rapport le **21 octobre au matin** et une discussion en séance publique le **26 octobre**.
 
 Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
@@ -73,7 +73,7 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
 ## Actualisation institutionnelle — 9 octobre 2026
 
-- L'audition de Françoise Gatel par la commission des lois est **datée du 7 octobre 2026 à 15 h** et figure désormais au registre officiel. La tenue annoncée et la référence de l'audition sont confirmées ; aucune conclusion de fond n'est attribuée à la ministre sans examen du compte rendu ou de la vidéo.
+- L'audition de Françoise Gatel, initialement prévue le 7 octobre, a été **reportée et tenue le 13 octobre 2026 à 8 h 30**, comme l'établissent le compte rendu du 7 octobre et la fiche officielle actualisée. Les thèmes du débat rapportés par la presse sont présentés séparément des sources institutionnelles.
 - **Muriel Jourda est présidente de la commission des lois et rapporteure désignée du texte n° 782**, conformément au compte rendu officiel du 7 octobre 2026.
 - **21 octobre au matin** : réunion de commission pour le rapport ; **23 octobre à 12 h** : clôture annoncée du dépôt des amendements de séance ; **26 octobre** : examen en séance publique, réunion de commission sur les amendements en début d'après-midi. Ces étapes sont programmées, non accomplies.
 - La proposition d'amendement d'effectivité reste une **proposition publique de la société civile**. Ni son dépôt parlementaire ni sa reprise par un sénateur ne sont établis.
@@ -81,7 +81,7 @@ Ce courrier et les documents auxquels il renvoie sont publics et versionnés.
 
 Sources officielles :
 - Désignation de Muriel Jourda : https://m.gslb.senat.fr/compte-rendu-commissions/20261005/lois.html
-- Audition ministérielle (7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
+- Audition ministérielle (13 octobre, report du 7 octobre) : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/detail-actualite/default-08d4d08cbc1115f7f60e3b904464f18f.html
 - Dossier du texte n° 782 : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Calendrier détaillé : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
 
@@ -145,7 +145,7 @@ La question peut se formuler ainsi :
 
 > **que pourra-t-on réellement faire demain qui ne pouvait pas être fait hier, par qui, à quelles conditions, et avec quels effets observables ?**
 
-Pour une lecture rapide du dossier, la **note de synthèse à jour au 7 octobre 2026** est accessible ici :
+Pour une lecture rapide du dossier, la **note de synthèse actualisée au 15 octobre 2026** est accessible ici :
 
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/note_synthetique_autonomie_capacite_corse.md
 
