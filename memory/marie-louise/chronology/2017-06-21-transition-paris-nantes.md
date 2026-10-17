@@ -17,11 +17,11 @@ epistemic_status:
 provenance:
   origin_type: private-email-trace
   sources:
-    - Gmail:15cc8324592da705
-    - Gmail:15cc97ca33457315
-    - Gmail:15cc9ab526f4f0f8
-    - Gmail:15bf942c756bea24
-    - Gmail:15bfb6c9f8e87642
+    - ML-PUB-000036
+    - ML-PUB-000037
+    - ML-PUB-000038
+    - ML-PUB-000007
+    - ML-PUB-000032
 review:
   status: unreviewed
   reviewed_by: []
@@ -38,9 +38,9 @@ Ces récits doivent rester séparés : leur présence dans le même fil ne les t
 
 ## Jean Hugues Noël Robert
 
-Dans Gmail:15cc8324592da705, Jean Hugues écrit que **Marie-Louise part pour Nantes**.
+Dans ML-PUB-000036, Jean Hugues écrit que **Marie-Louise part pour Nantes**.
 
-Dans Gmail:15cc9ab526f4f0f8, il indique que Marie-Louise l'aurait informé **le jour même, le 17 avril** de difficultés familiales. Aucun message Gmail daté du 17 avril 2017 n'a été retrouvé lors de la recherche ciblée de septembre 2026.
+Dans ML-PUB-000038, il indique que Marie-Louise l'aurait informé **le jour même, le 17 avril** de difficultés familiales. Aucun message Gmail daté du 17 avril 2017 n'a été retrouvé lors de la recherche ciblée de septembre 2026.
 
 Il écrit enfin que **Paris n'étant pas une option**, Nantes lui paraît alors le choix le plus logique.
 
@@ -48,7 +48,7 @@ Il écrit enfin que **Paris n'étant pas une option**, Nantes lui paraît alors 
 
 ## Ferdinand Pancrazi
 
-Dans Gmail:15cc97ca33457315, Ferdinand Pancrazi rapporte :
+Dans ML-PUB-000037, Ferdinand Pancrazi rapporte :
 
 - un conflit entre Marie-Louise et sa mère lors d'un séjour en Bretagne ;
 - un hébergement à Nantes **chez le père de son compagnon**, selon son récit ;
@@ -58,9 +58,9 @@ Dans Gmail:15cc97ca33457315, Ferdinand Pancrazi rapporte :
 
 ## Mise en regard avec mai 2017
 
-Le **11 mai 2017**, Jean Hugues écrit que Marie-Louise est **prise à Nantes** (Gmail:15bf942c756bea24).
+Le **11 mai 2017**, Jean Hugues écrit que Marie-Louise est **prise à Nantes** (ML-PUB-000007).
 
-Le **12 mai 2017**, il indique qu'elle est alors à Corte et qu'elle doit encore, **en principe**, effectuer des déplacements pour deux concours à Paris et Cergy (Gmail:15bfb6c9f8e87642).
+Le **12 mai 2017**, il indique qu'elle est alors à Corte et qu'elle doit encore, **en principe**, effectuer des déplacements pour deux concours à Paris et Cergy (ML-PUB-000032).
 
 ## KnowledgeGap
 
