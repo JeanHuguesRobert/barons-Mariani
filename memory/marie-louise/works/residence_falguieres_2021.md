@@ -14,7 +14,7 @@ language: fr
 x-certainty: high
 provenance:
   origin_type: Gmail
-  origin_ref: Gmail:178df4383f1868a0
+  origin_ref: ML-PUB-000018
   origin_date: '2021-04-17'
 ---
 
@@ -22,7 +22,7 @@ provenance:
 
 ## Fait établi
 
-Une attestation datée du **14 avril 2021**, transmise par Marie-Louise et conservée dans `Gmail:178df4383f1868a0`, établit que l’artiste plasticien **Hugues Absil** l’embauche **sous le format de résidence artistique**, pour un **tournage du 17 au 26 avril 2021**.
+Une attestation datée du **14 avril 2021**, transmise par Marie-Louise et conservée dans `ML-PUB-000018`, établit que l’artiste plasticien **Hugues Absil** l’embauche **sous le format de résidence artistique**, pour un **tournage du 17 au 26 avril 2021**.
 
 Le tournage doit se dérouler dans un lieu privé autorisé aux **Falguières, 30440 Saint-Laurent-le-Minier (Gard)**.
 
@@ -54,7 +54,7 @@ Artiste plasticien signataire de l’attestation. Il constitue une source potent
 
 ### Anna
 
-Dans le fil `Gmail:178df51067a6949c`, Jean Hugues indique à Marie-Louise que l’attestation a été « fournie par Anna ».
+Dans le fil `ML-PUB-000078`, Jean Hugues indique à Marie-Louise que l’attestation a été « fournie par Anna ».
 
 Identité exacte et rôle à déterminer.
 
