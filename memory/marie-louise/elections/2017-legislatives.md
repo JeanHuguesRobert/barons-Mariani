@@ -12,10 +12,11 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: personal-archive
   derived_from:
-    - Gmail:15c35a1e15231544
-    - Gmail:15c396df0bbee0d6
-    - Gmail:15c2c71846be7b8f
-    - Gmail:15ceea7dcc14bef6
+    - "memory/marie-louise/sources/public.yml"
+    - ML-PUB-000034
+    - ML-PUB-000035
+    - ML-PUB-000033
+    - ML-PUB-000039
     - Ministère de l'Intérieur — résultats législatives 2017, 2B-02
   origin_repository: unknown
   origin_ref: unknown
@@ -36,11 +37,11 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Lors des élections législatives des 11 et 18 juin 2017 dans la deuxième circonscription de Haute-Corse, Jean Hugues Noël Robert est candidat sous le nom **`Baron Mariani`** et Marie-Louise est sa suppléante sous le nom **`Marie-Louise d'Angelis`**.
 
-La candidature est définitivement enregistrée : le 23 mai 2017, la préfecture de Haute-Corse transmet un `Récépissé définitif de candidature` (`Gmail:15c35a1e15231544`).
+La candidature est définitivement enregistrée : le 23 mai 2017, la préfecture de Haute-Corse transmet un `Récépissé définitif de candidature` (`ML-PUB-000034`).
 
-Le 24 mai, un courriel contemporain de Jean Hugues à l'équipe nationale du Parti Pirate identifie explicitement la circonscription `2B02`, le nom de candidature `Baron Mariani` et la suppléante `Marie-Louise d'Angelis` (`Gmail:15c396df0bbee0d6`).
+Le 24 mai, un courriel contemporain de Jean Hugues à l'équipe nationale du Parti Pirate identifie explicitement la circonscription `2B02`, le nom de candidature `Baron Mariani` et la suppléante `Marie-Louise d'Angelis` (`ML-PUB-000035`).
 
-Un message du 21 mai relatif au bulletin de vote donne déjà la paire de noms à faire figurer : `Baron Mariani` / `Marie-Louise d'Angelis` (`Gmail:15c2c71846be7b8f`).
+Un message du 21 mai relatif au bulletin de vote donne déjà la paire de noms à faire figurer : `Baron Mariani` / `Marie-Louise d'Angelis` (`ML-PUB-000033`).
 
 Le ministère de l'Intérieur conserve le résultat officiel du premier tour : **104 voix**, soit **0,30 % des suffrages exprimés**, pour `M. Le BARON MARIANI`.
 
@@ -49,7 +50,7 @@ Source publique :
 
 ## Suite contentieuse
 
-Le 28 juin 2017, Jean Hugues adresse une requête au Conseil constitutionnel demandant l'annulation de l'élection. La requête rappelle elle-même qu'il s'est présenté sous le nom `Baron Mariani` avec **Marie-Louise d'Angelis comme suppléante** (`Gmail:15ceea7dcc14bef6`, pièce `requête conseil constitutionnel.pdf`).
+Le 28 juin 2017, Jean Hugues adresse une requête au Conseil constitutionnel demandant l'annulation de l'élection. La requête rappelle elle-même qu'il s'est présenté sous le nom `Baron Mariani` avec **Marie-Louise d'Angelis comme suppléante** (`ML-PUB-000039`, pièce `requête conseil constitutionnel.pdf`).
 
 La requête porte principalement sur l'accès aux médias et l'égalité de traitement. La seule qualité de suppléante de Marie-Louise ne permet pas d'en déduire qu'elle a personnellement rédigé, signé ou soutenu cette requête.
 
