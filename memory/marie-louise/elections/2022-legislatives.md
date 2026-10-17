@@ -12,25 +12,26 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: personal-archive
   derived_from:
-    - Gmail:1807f701db49a179
-    - Gmail:1809a619755f3de0
-    - Gmail:180a8d012848afa0
-    - Gmail:180ccde6531faf13
-    - Gmail:180cd1d38f6e85ca
-    - Gmail:180ce1ef724cbc7a
-    - Gmail:180d787a0e7c30ed
-    - Gmail:180d7f0a3edb97bf
-    - Gmail:180e7ca6b82ec663
-    - Gmail:180f04b6fe5ca4f6
-    - Gmail:180f15fd3f5d1641
-    - Gmail:180f59ff7d499f8c
-    - Gmail:180f5a031b12c8e7
-    - Gmail:180f5a14a797b3e3
-    - Gmail:180f63c70c29898f
-    - Gmail:180f64276744097a
-    - Gmail:180fbd587d9eb034
-    - Gmail:180fa90564f8d27f
-    - Gmail:180fab09c8c1c088
+    - "memory/marie-louise/sources/public.yml"
+    - ML-PUB-000048
+    - ML-PUB-000049
+    - ML-PUB-000050
+    - ML-PUB-000051
+    - ML-PUB-000052
+    - ML-PUB-000053
+    - ML-PUB-000054
+    - ML-PUB-000055
+    - ML-PUB-000056
+    - ML-PUB-000057
+    - ML-PUB-000058
+    - ML-PUB-000059
+    - ML-PUB-000060
+    - ML-PUB-000061
+    - ML-PUB-000062
+    - ML-PUB-000063
+    - ML-PUB-000066
+    - ML-PUB-000064
+    - ML-PUB-000065
     - Ministère de l'Intérieur — résultats législatives 2022, 2B-02
   origin_repository: unknown
   origin_ref: unknown
@@ -51,7 +52,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 En 2022, la relation électorale documentée depuis 2017 s'inverse : **Marie-Louise devient candidate titulaire** dans la deuxième circonscription de Haute-Corse et **Jean Hugues devient son suppléant**.
 
-Le CERFA n° 16110*02 préparé/rempli le 18 mai 2022 (`Gmail:180d787a0e7c30ed`) donne :
+Le CERFA n° 16110*02 préparé/rempli le 18 mai 2022 (`ML-PUB-000054`) donne :
 
 ```text
 Candidate civile : Marie-Louise Isabelle Garance ROBERT
@@ -69,15 +70,15 @@ Les coordonnées privées présentes dans le formulaire ne relèvent pas de cett
 
 La copie récupérée de ce CERFA ne porte pas de signature visible dans la zone candidate : elle documente la **préparation du dossier**, non à elle seule le consentement signé de Marie-Louise.
 
-Le **19 mai**, le récépissé préfectoral provisoire conservé dans `Gmail:180e7ca6b82ec663` constate en revanche le dépôt dans la 2B-02 au nom de `Mme BARONNE ML MARIANI`, avec `M. BARON JHN MARIANI` comme remplaçant. Deux autres documents électoraux datés du 19 mai, au nom de Marie-Louise, portent une signature manuscrite : le formulaire audiovisuel avec le groupe `Parti Pirate` et le formulaire relatif à la première fraction du financement public avec `RPS - Régions et Peuples Solidaires`. En l'absence d'expertise de signature, la formulation retenue reste « documents au nom de Marie-Louise portant une signature manuscrite ».
+Le **19 mai**, le récépissé préfectoral provisoire conservé dans `ML-PUB-000056` constate en revanche le dépôt dans la 2B-02 au nom de `Mme BARONNE ML MARIANI`, avec `M. BARON JHN MARIANI` comme remplaçant. Deux autres documents électoraux datés du 19 mai, au nom de Marie-Louise, portent une signature manuscrite : le formulaire audiovisuel avec le groupe `Parti Pirate` et le formulaire relatif à la première fraction du financement public avec `RPS - Régions et Peuples Solidaires`. En l'absence d'expertise de signature, la formulation retenue reste « documents au nom de Marie-Louise portant une signature manuscrite ».
 
 ## Bascule des rôles : 1er–9 mai
 
 Le changement de titulaire n'est pas reconstruit rétrospectivement : il est borné par deux traces contemporaines.
 
-Le **1er mai 2022**, Jean Hugues diffuse un communiqué de presse annonçant sa propre candidature dans la deuxième circonscription de Haute-Corse, « comme en 2017 » (`Gmail:1807f701db49a179`). Le **6 mai**, il transmet encore ce même communiqué à Martine Brillais (`Gmail:1809a619755f3de0`).
+Le **1er mai 2022**, Jean Hugues diffuse un communiqué de presse annonçant sa propre candidature dans la deuxième circonscription de Haute-Corse, « comme en 2017 » (`ML-PUB-000048`). Le **6 mai**, il transmet encore ce même communiqué à Martine Brillais (`ML-PUB-000049`).
 
-Le **9 mai**, une notification Trello conserve au contraire l'état opérationnel suivant, saisi par Lancelot Reybel (`Gmail:180a8d012848afa0`) :
+Le **9 mai**, une notification Trello conserve au contraire l'état opérationnel suivant, saisi par Lancelot Reybel (`ML-PUB-000050`) :
 
 ```text
 candidat : Marie-Louise ROBERT
@@ -90,23 +91,23 @@ remplaçant : Jean Hugues ROBERT
 
 ### Témoignage contemporain de Martine Brillais
 
-Le **16 mai**, Martine Brillais adresse à Jean Hugues un texte intitulé `MALOU` présentant Marie-Louise comme ayant « pris l'initiative de se présenter » et construisant une continuité entre son rôle de suppléante en 2017, son parcours artistique et social, et la candidature de 2022 (`Gmail:180cd1d38f6e85ca`).
+Le **16 mai**, Martine Brillais adresse à Jean Hugues un texte intitulé `MALOU` présentant Marie-Louise comme ayant « pris l'initiative de se présenter » et construisant une continuité entre son rôle de suppléante en 2017, son parcours artistique et social, et la candidature de 2022 (`ML-PUB-000052`).
 
-Jean Hugues transmet ce texte à Marie-Louise le même jour (`Gmail:180ce1ef724cbc7a`). Aucune réponse de Marie-Louise n'a été retrouvée dans la recherche effectuée.
+Jean Hugues transmet ce texte à Marie-Louise le même jour (`ML-PUB-000053`). Aucune réponse de Marie-Louise n'a été retrouvée dans la recherche effectuée.
 
 Cette phrase est donc classée **THIRD-PARTY** : elle documente ce que Martine affirme contemporanément, mais ne doit pas être transformée en `VOICE` de Marie-Louise ni en preuve autonome de l'origine de la décision.
 
 ## Dossier et enregistrement
 
-Le 18 mai, un ensemble de documents numérisés comprend notamment l'acceptation du remplaçant et la déclaration du mandataire financier Lancelot Reybel (`Gmail:180d7f0a3edb97bf`).
+Le 18 mai, un ensemble de documents numérisés comprend notamment l'acceptation du remplaçant et la déclaration du mandataire financier Lancelot Reybel (`ML-PUB-000055`).
 
-Le 21 mai, Jean Hugues transmet au Parti Pirate le récépissé de candidature ainsi que les formulaires de rattachement et d'audiovisuel (`Gmail:180e7ca6b82ec663`).
+Le 21 mai, Jean Hugues transmet au Parti Pirate le récépissé de candidature ainsi que les formulaires de rattachement et d'audiovisuel (`ML-PUB-000056`).
 
 Le résultat officiel du ministère de l'Intérieur confirme la candidature sous le nom **`Mme Baronne ML MARIANI`**.
 
 ## Participation administrative directe
 
-Le **24 mai à 12 h 32–33**, Marie-Louise retransmet depuis son compte principal les instructions préfectorales relatives à la création du tiers CHORUS, puis un formulaire renseigné ainsi que son RIB (`Gmail:180f59ff7d499f8c`, `Gmail:180f5a031b12c8e7`, `Gmail:180f5a14a797b3e3`).
+Le **24 mai à 12 h 32–33**, Marie-Louise retransmet depuis son compte principal les instructions préfectorales relatives à la création du tiers CHORUS, puis un formulaire renseigné ainsi que son RIB (`ML-PUB-000059`, `ML-PUB-000060`, `ML-PUB-000061`).
 
 **FACT :** ces actes établissent une participation administrative personnelle à la candidature.
 
@@ -114,20 +115,20 @@ Ils ne renseignent pas, à eux seuls, l'origine de la décision politique de dev
 
 ## Bulletin réglementaire et collector : deux branches matérielles
 
-Le 23 mai, un premier bulletin est transmis à la préfecture (`Gmail:180f04b6fe5ca4f6`). Le PDF porte :
+Le 23 mai, un premier bulletin est transmis à la préfecture (`ML-PUB-000057`). Le PDF porte :
 
 ```text
 Baronne ML Mariani
 suppléant : Baron JHN Mariani
 ```
 
-Le même jour, la préfecture confirme la réception du BAT provisoire et demande la maquette définitive, l'imprimeur et la répartition des bulletins (`Gmail:180f15fd3f5d1641`).
+Le même jour, la préfecture confirme la réception du BAT provisoire et demande la maquette définitive, l'imprimeur et la répartition des bulletins (`ML-PUB-000058`).
 
 En parallèle du bulletin réglementaire transmis à la préfecture et à l'imprimeur, une branche graphique dite **« collector »** est documentée.
 
 Le 21 mai, Jean Hugues adresse au graphiste Damien Ruvet, Marie-Louise en copie, un cahier des charges demandant notamment une représentation de Marie-Louise, le nom `Baronne ML Mariani`, le suppléant en plus petit et l'emblème yanug. Le 23 mai, Jean Hugues écrit préparer un « plan B au cas où Malou ne fournirait pas un auto portrait ». Ces deux messages documentent une demande et une attente ; ils ne prouvent ni que Marie-Louise a réalisé l'autoportrait, ni qu'elle a conçu la composition.
 
-Le **24 mai à 15:23:05**, le compte `ML sansmain <malou.dangelis@gmail.com>` transmet `Sans titre-1.pdf` (`Gmail:180f63c70c29898f`). À **15:29:40**, le compte `Marie-Louise Dictionnaire <marielouiserobert@gmail.com>` transmet `BULLETINMLJHR.pdf` à Jean Hugues et directement à Damien Ruvet (`Gmail:180f64276744097a`).
+Le **24 mai à 15:23:05**, le compte `ML sansmain <malou.dangelis@gmail.com>` transmet `Sans titre-1.pdf` (`ML-PUB-000062`). À **15:29:40**, le compte `Marie-Louise Dictionnaire <marielouiserobert@gmail.com>` transmet `BULLETINMLJHR.pdf` à Jean Hugues et directement à Damien Ruvet (`ML-PUB-000063`).
 
 L'inspection des deux PDF originaux récupérés depuis Gmail établit :
 
@@ -138,7 +139,7 @@ L'inspection des deux PDF originaux récupérés depuis Gmail établit :
 - modification observable entre les deux états essentiellement localisée au coin inférieur droit, où apparaît le **yanug** dans le second ;
 - les autres objets graphiques comparables restent identiques.
 
-Le **25 mai**, Damien renvoie ensuite sa propre version `BULLETINMLJHR.pdf` (`Gmail:180fbd587d9eb034`) et indique que le yanug, le numéro de série et la signature seront ajoutés après impression.
+Le **25 mai**, Damien renvoie ensuite sa propre version `BULLETINMLJHR.pdf` (`ML-PUB-000066`) et indique que le yanug, le numéro de série et la signature seront ajoutés après impression.
 
 ### Qualification probatoire du collector
 
@@ -152,7 +153,7 @@ Le **25 mai**, Damien renvoie ensuite sa propre version `BULLETINMLJHR.pdf` (`Gm
 
 Aucun fichier graphique séparé antérieur au premier export n'a été retrouvé dans la recherche Gmail effectuée autour des 23–24 mai. Cette absence exclut seulement une transmission retrouvée dans Gmail ; elle n'exclut ni échange local, ni autre canal, ni fichier antérieur non conservé.
 
-Le 25 mai, Jean Hugues indique à la préfecture que la profession de foi sera diffusée uniquement sous forme numérique, que le budget permet l'impression de **10 000 bulletins**, et demande si l'affiche de 2017 peut être réutilisée pour éviter le gaspillage (`Gmail:180fa90564f8d27f`). Le BAT est ensuite transmis à l'Imprimerie Olivesi avec une demande d'attestation de grammage (`Gmail:180fab09c8c1c088`).
+Le 25 mai, Jean Hugues indique à la préfecture que la profession de foi sera diffusée uniquement sous forme numérique, que le budget permet l'impression de **10 000 bulletins**, et demande si l'affiche de 2017 peut être réutilisée pour éviter le gaspillage (`ML-PUB-000064`). Le BAT est ensuite transmis à l'Imprimerie Olivesi avec une demande d'attestation de grammage (`ML-PUB-000065`).
 
 ## Résultat
 
