@@ -267,3 +267,18 @@ sources:
   - id: ML-PUB-000078
     source_class: source_trace
     disclosure: private_opaque
+  - id: ML-PUB-000079
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000080
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000081
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000082
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000083
+    source_class: source_trace
+    disclosure: private_opaque
