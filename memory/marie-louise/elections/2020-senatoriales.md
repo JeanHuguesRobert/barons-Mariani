@@ -12,14 +12,15 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: personal-archive
   derived_from:
-    - Gmail:1746d1838a04eb4c
-    - Gmail:1746e545c144178d
-    - Gmail:17472599be020f1d
-    - Gmail:17478c8b4f7a940d
-    - Gmail:1747deeb017e3843
-    - Gmail:17479514f99dde24
-    - Gmail:1747956be5708eed
-    - Gmail:17490bf8e3a40e9f
+    - "memory/marie-louise/sources/public.yml"
+    - ML-PUB-000015
+    - ML-PUB-000041
+    - ML-PUB-000042
+    - ML-PUB-000016
+    - ML-PUB-000045
+    - ML-PUB-000043
+    - ML-PUB-000044
+    - ML-PUB-000046
     - Préfecture de Corse-du-Sud — arrêté 2A-2020-09-17-001
     - Sénat — livret définitif des candidats 2020
   origin_repository: unknown
@@ -62,7 +63,7 @@ Cette reconstruction résout l'ambiguïté présente dans la Carte Marie-Louise 
 
 Le CERFA n° 15218*02 de remplaçante pour la Haute-Corse est rempli au nom de naissance **ROBERT**, avec comme nom figurant sur le bulletin **`Marie-Louise d'Angelis`** et les prénoms **Marie-Louise, Isabelle, Garance**.
 
-La pièce comporte la signature de Marie-Louise et la formule manuscrite de consentement à être remplaçante de Jean Hugues Noël Robert. Elle est datée du 7 septembre 2020 (`Gmail:1746d1838a04eb4c`, pièce `cerfa15218_02.pdf`).
+La pièce comporte la signature de Marie-Louise et la formule manuscrite de consentement à être remplaçante de Jean Hugues Noël Robert. Elle est datée du 7 septembre 2020 (`ML-PUB-000015`, pièce `cerfa15218_02.pdf`).
 
 Le bulletin joint à l'envoi du 8 septembre porte :
 
@@ -71,23 +72,23 @@ Baron Mariani
 Suppléante : Marie-Louise d'Angelis
 ```
 
-(`Gmail:1746d1838a04eb4c`, pièce `Bulletin MARIANI_HD.pdf`).
+(`ML-PUB-000015`, pièce `Bulletin MARIANI_HD.pdf`).
 
 Le courriel d'envoi indique explicitement que la remplaçante est la fille de Jean Hugues et soulève lui-même le problème de son âge.
 
 ## 2. 8–10 septembre — contrôle et refus en Haute-Corse
 
-Le 8 septembre, le bureau des élections signale plusieurs corrections formelles et indique avoir interrogé le ministère de l'Intérieur sur la condition d'âge (`Gmail:1746e545c144178d`).
+Le 8 septembre, le bureau des élections signale plusieurs corrections formelles et indique avoir interrogé le ministère de l'Intérieur sur la condition d'âge (`ML-PUB-000041`).
 
-Le 9 septembre, la préfecture informe Jean Hugues que le ministère confirme son analyse : le candidat et son remplaçant doivent satisfaire aux conditions d'éligibilité et avoir 24 ans au plus tard le 26 septembre. Elle annonce que la candidature, en l'état, sera rejetée (`Gmail:17472599be020f1d`).
+Le 9 septembre, la préfecture informe Jean Hugues que le ministère confirme son analyse : le candidat et son remplaçant doivent satisfaire aux conditions d'éligibilité et avoir 24 ans au plus tard le 26 septembre. Elle annonce que la candidature, en l'état, sera rejetée (`ML-PUB-000042`).
 
-Le 10 septembre, la notification formelle de refus est envoyée (`Gmail:17478c8b4f7a940d`, pièce `200910 Refus enregistrement candidature sénatoriale.pdf`).
+Le 10 septembre, la notification formelle de refus est envoyée (`ML-PUB-000016`, pièce `200910 Refus enregistrement candidature sénatoriale.pdf`).
 
-Le recours préparé le 11 septembre résume contemporanément les faits : dépôt le 8, reçu provisoire le 9, refus le 10 « en raison de l'âge de ma suppléante, 22 ans », puis nouveau dépôt en Corse-du-Sud avec une remplaçante de plus de 24 ans (`Gmail:1747deeb017e3843`).
+Le recours préparé le 11 septembre résume contemporanément les faits : dépôt le 8, reçu provisoire le 9, refus le 10 « en raison de l'âge de ma suppléante, 22 ans », puis nouveau dépôt en Corse-du-Sud avec une remplaçante de plus de 24 ans (`ML-PUB-000045`).
 
 ## 3. 10 septembre — constitution d'un nouveau dossier
 
-Jean-François Baccarelli transmet des pièces de remplacement le 10 septembre (`Gmail:17479514f99dde24`, `Gmail:1747956be5708eed`).
+Jean-François Baccarelli transmet des pièces de remplacement le 10 septembre (`ML-PUB-000043`, `ML-PUB-000044`).
 
 Une attestation officielle d'inscription électorale identifie la nouvelle remplaçante comme **Laurence Marie VERNEREY**.
 
@@ -113,7 +114,7 @@ La **motivation** du choix de ce nom public en 2020 n'est pas établie par les p
 
 ## 4. Enregistrement définitif et corroboration publique
 
-Le 15 septembre, la préfecture de Corse-du-Sud transmet le récépissé d'enregistrement définitif de la candidature (`Gmail:17490bf8e3a40e9f`).
+Le 15 septembre, la préfecture de Corse-du-Sud transmet le récépissé d'enregistrement définitif de la candidature (`ML-PUB-000046`).
 
 L'arrêté préfectoral n° `2A-2020-09-17-001` donne les identités administratives :
 
