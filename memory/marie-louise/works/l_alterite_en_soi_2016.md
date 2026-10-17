@@ -11,7 +11,7 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: mixed
   derived_from:
-    - Gmail:153dcd7070142c29
+    - ML-PUB-000003
     - Corse Net Infos, 14 avril 2016
     - memory/marie-louise/works/frontieres_stop_motion_2016.md
   origin_repository: unknown
@@ -52,7 +52,7 @@ La même notification affiche comme description :
 
 > **Entre aliénation et construction de soi. Microcosmos.**
 
-Référence : Gmail:153dcd7070142c29.
+Référence : ML-PUB-000003.
 
 Identifiants techniques conservés par la notification :
 
