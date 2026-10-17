@@ -27,14 +27,14 @@ entries:
       - evidence_type: B
         epistemic_status: THIRD-PARTY
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:1a0cce1f2e6dfdc1
+        source_ref: ML-PUB-000027
         description: >-
           Témoignage direct de Jean-Joseph Albertini, enseignant, identifiant la
           proposition plastique et transmettant trois photographies.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:1a0cce1f2e6dfdc1
+        source_ref: ML-PUB-000027
         description: >-
           Trois fichiers JPG reçus : ROBERT Marie-Louise (1).JPG,
           ROBERT Marie-Louise (2).JPG et ROBERT Marie-Louise (3).JPG.
