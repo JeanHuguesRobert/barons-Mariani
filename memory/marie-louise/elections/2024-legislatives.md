@@ -12,12 +12,13 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: personal-archive
   derived_from:
-    - Gmail:19015cfcca9644ff
-    - Gmail:19020bfa6f112d28
-    - Gmail:190211872298ab04
-    - Gmail:190211be33648e47
-    - Gmail:1902138ea0abe20c
-    - Gmail:190273efbcfb68d4
+    - "memory/marie-louise/sources/public.yml"
+    - ML-PUB-000067
+    - ML-PUB-000068
+    - ML-PUB-000069
+    - ML-PUB-000070
+    - ML-PUB-000025
+    - ML-PUB-000026
     - memory/marie-louise/elections-2024-complaints.md
   origin_repository: unknown
   origin_ref: unknown
@@ -38,7 +39,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 
 Marie-Louise Isabelle Garance Robert est à nouveau candidate titulaire dans la deuxième circonscription de Haute-Corse aux élections législatives de 2024, avec Jean Hugues Noël Robert comme remplaçant.
 
-Le CERFA 2024 conservé dans le dossier (`Gmail:19020bfa6f112d28`) donne :
+Le CERFA 2024 conservé dans le dossier (`ML-PUB-000068`) donne :
 
 ```text
 Candidate civile : Marie-Louise Isabelle Garance ROBERT
@@ -56,21 +57,21 @@ Les coordonnées privées du formulaire sont volontairement exclues de cette not
 
 ## Préparation du bulletin
 
-Le 14 juin, Jean Hugues transmet à la préfecture un projet de bulletin en indiquant envisager le même format et grammage qu'en 2022 et le recours à l'Imprimerie Olivesi (`Gmail:19015cfcca9644ff`).
+Le 14 juin, Jean Hugues transmet à la préfecture un projet de bulletin en indiquant envisager le même format et grammage qu'en 2022 et le recours à l'Imprimerie Olivesi (`ML-PUB-000067`).
 
 Cette continuité matérielle rattache explicitement la campagne 2024 à celle de 2022.
 
 ## Dépôt du dossier
 
-Le 16 juin, un courriel intitulé `Dossier de candidature "barons mariani"` énumère les pièces préparées : CERFA, pièces d'identité de la candidate et du remplaçant, mandataire, attestations électorales, acceptations et bulletin (`Gmail:19020bfa6f112d28`).
+Le 16 juin, un courriel intitulé `Dossier de candidature "barons mariani"` énumère les pièces préparées : CERFA, pièces d'identité de la candidate et du remplaçant, mandataire, attestations électorales, acceptations et bulletin (`ML-PUB-000068`).
 
-La préfecture répond que le dépôt doit se faire en présentiel et signale que le CERFA n'est pas encore correctement rempli (`Gmail:190211872298ab04`). Jean Hugues répond qu'il corrige et arrive (`Gmail:190211be33648e47`).
+La préfecture répond que le dépôt doit se faire en présentiel et signale que le CERFA n'est pas encore correctement rempli (`ML-PUB-000069`). Jean Hugues répond qu'il corrige et arrive (`ML-PUB-000070`).
 
-Le 17 juin, la préfecture transmet le **récépissé définitif de candidature** (`Gmail:190273efbcfb68d4`).
+Le 17 juin, la préfecture transmet le **récépissé définitif de candidature** (`ML-PUB-000026`).
 
 ## Trace directe de volonté politique de Marie-Louise — disclosure gate
 
-Une correspondance du 16 juin 2024 provenant directement du compte de Marie-Louise (`Gmail:1902138ea0abe20c`) contient une demande explicite adressée à son père concernant la direction et la représentation de sa campagne.
+Une correspondance du 16 juin 2024 provenant directement du compte de Marie-Louise (`ML-PUB-000025`) contient une demande explicite adressée à son père concernant la direction et la représentation de sa campagne.
 
 **Statut : `VOICE` / trace privée contemporaine.**
 
