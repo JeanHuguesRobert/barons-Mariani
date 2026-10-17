@@ -11,19 +11,19 @@ provenance:
   origin_type: mixed
   derived_from:
     - Corse Net Infos, 14 avril 2016
-    - Gmail:152bf5062d84da28
-    - Gmail:152bbdaeeddfb6a4
-    - Gmail:152ea211bb1238f1
-    - Gmail:15449b60315649e0
-    - Gmail:153dcd7070142c29
-    - Gmail:15623cc50810297a
-    - Gmail:15901e3906969ef1
-    - Gmail:15b16527bf97b95e
-    - Gmail:16012ff6ab50ad78
-    - Gmail:16737e68bc1918ab
-    - Gmail:178df4383f1868a0
-    - Gmail:178ab8f3f69d09c4
-    - Gmail:17e7808badd54b51
+    - ML-PUB-000002
+    - ML-PUB-000075
+    - ML-PUB-000029
+    - ML-PUB-000004
+    - ML-PUB-000003
+    - ML-PUB-000031
+    - ML-PUB-000005
+    - ML-PUB-000006
+    - ML-PUB-000009
+    - ML-PUB-000012
+    - ML-PUB-000018
+    - ML-PUB-000017
+    - ML-PUB-000019
   origin_repository: unknown
   origin_ref: unknown
   origin_date: unknown
@@ -50,7 +50,7 @@ Un courriel du 8 février 2016 de Jean Hugues à un tiers indique que Marie-Loui
 - l'art ;
 - la philosophie.
 
-Référence : `Gmail:152bf5062d84da28`.
+Référence : `ML-PUB-000002`.
 
 Ce passage est une description contemporaine du père, non une `VOICE` directe de Marie-Louise.
 
@@ -58,9 +58,9 @@ Ce passage est une description contemporaine du père, non une `VOICE` directe d
 
 En février 2016, le compte de Marie-Louise partage directement avec son père plusieurs Google Docs :
 
-- un `cv` — `Gmail:152bbdaeeddfb6a4`, `152bbe2d17ce8ae9`, `152bbe471a57a3f0` ;
-- une `lettre de motivation` — `Gmail:152ea0ddad1d378d`, `152ea211bb1238f1` ;
-- un document sans titre — `Gmail:152ea0cfd6c0e99e`, `152ea0e096e11752`.
+- un `cv` — `ML-PUB-000075`, `152bbe2d17ce8ae9`, `152bbe471a57a3f0` ;
+- une `lettre de motivation` — `ML-PUB-000077`, `ML-PUB-000029` ;
+- un document sans titre — `ML-PUB-000076`, `152ea0e096e11752`.
 
 **Statut : `VOICE` / `TRACE` quant à l'existence et au partage des documents.**
 
@@ -104,7 +104,7 @@ avec la description :
 
 > **Entre aliénation et construction de soi. Microcosmos.**
 
-Référence : Gmail:153dcd7070142c29.
+Référence : ML-PUB-000003.
 
 Identifiant vidéo : KCh-pTvaGfg.
 
@@ -148,7 +148,7 @@ Droits d'usage : `UNKNOWN`.
 
 ## 6. Avril 2016 — candidature aux Beaux-Arts de Paris
 
-Le 24 avril 2016, un PDF nommé `beauxarts.pdf` est conservé dans Gmail (`Gmail:15449b60315649e0`).
+Le 24 avril 2016, un PDF nommé `beauxarts.pdf` est conservé dans Gmail (`ML-PUB-000004`).
 
 L'inspection visuelle du document montre un récépissé de **dossier artistique de candidature à l'admission en première année** aux Beaux-Arts de Paris.
 
@@ -171,7 +171,7 @@ La recherche a désormais retrouvé la continuité scolaire qui manquait à cett
 
 ### 7.1 2016–2017 — CPES 1 à Sartène
 
-Un certificat de scolarité transmis par Marie-Louise (Gmail:15901e3906969ef1) établit qu'elle est inscrite pour l'année **2016–2017** au **lycée Georges-Clemenceau de Sartène**, en :
+Un certificat de scolarité transmis par Marie-Louise (ML-PUB-000005) établit qu'elle est inscrite pour l'année **2016–2017** au **lycée Georges-Clemenceau de Sartène**, en :
 
 - CPES1 CLASSE PREPA, ETUDES SUPERIEURES ;
 - division CPES 1 ;
@@ -185,7 +185,7 @@ Le certificat, daté du 16 novembre 2016, précise qu'elle fréquente régulièr
 
 Le 28 mars 2017, le même compte YouTube publie une vidéo intitulée **photoromanJulie**, identifiant ac1dJAv0iyw.
 
-Référence : Gmail:15b16527bf97b95e.
+Référence : ML-PUB-000006.
 
 Voir photoroman_julie_2017.md.
 
@@ -195,16 +195,16 @@ Un mail contemporain de Jean Hugues du 11 mai 2017 rapporte que Marie-Louise est
 
 En revanche, le parcours nantais est ensuite directement documenté :
 
-- décembre 2017 : échange institutionnel avec l'École supérieure des beaux-arts de Nantes Métropole, adressé aussi à marie-louise.robert@beauxartsnantes.fr (Gmail:16012ff6ab50ad78) ;
-- 2018–2019 : Dossier social étudiant indiquant **NANTES Beaux Arts — Arts et architecture — 2ème année**, bourse Culture échelon 6 (Gmail:16737e68bc1918ab) ;
-- juin 2019 : Marie-Louise indique elle-même être à Nantes et évoque ses camarades des Beaux-Arts (Gmail:16b31d816e8eb42d) ;
-- 14 avril 2021 : une attestation professionnelle la qualifie encore d'« étudiante à l'école nationale des Beaux-Arts de Nantes » (Gmail:178df4383f1868a0).
+- décembre 2017 : échange institutionnel avec l'École supérieure des beaux-arts de Nantes Métropole, adressé aussi à marie-louise.robert@beauxartsnantes.fr (ML-PUB-000009) ;
+- 2018–2019 : Dossier social étudiant indiquant **NANTES Beaux Arts — Arts et architecture — 2ème année**, bourse Culture échelon 6 (ML-PUB-000012) ;
+- juin 2019 : Marie-Louise indique elle-même être à Nantes et évoque ses camarades des Beaux-Arts (ML-PUB-000014) ;
+- 14 avril 2021 : une attestation professionnelle la qualifie encore d'« étudiante à l'école nationale des Beaux-Arts de Nantes » (ML-PUB-000018).
 
 ### 7.4 Villa Arson / Nice
 
-Une notification de calendrier établit un rendez-vous intitulé **Villa Arson** le 8 avril 2021 (Gmail:178ab8f3f69d09c4).
+Une notification de calendrier établit un rendez-vous intitulé **Villa Arson** le 8 avril 2021 (ML-PUB-000017).
 
-En janvier 2022, Marie-Louise prépare concrètement son installation dans un logement à Nice (Gmail:17e7808badd54b51).
+En janvier 2022, Marie-Louise prépare concrètement son installation dans un logement à Nice (ML-PUB-000019).
 
 Ces deux traces sont cohérentes avec l'affirmation rétrospective selon laquelle elle a ensuite réussi le concours d'entrée à la Villa Arson, mais la **pièce institutionnelle primaire d'admission** n'est pas encore retrouvée.
 
