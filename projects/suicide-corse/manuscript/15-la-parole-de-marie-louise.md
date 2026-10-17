@@ -21,12 +21,12 @@ provenance:
     - memory/marie-louise/carte.md
     - memory/marie-louise/possible_matrix.md
     - memory/marie-louise/elections/2020-senatoriales.md
-    - "Gmail:1902138ea0abe20c"
-    - "Gmail:16026417e4fe45c2"
-    - "Gmail:160277c953cf0d69"
-    - "Gmail:1873c717b09e0dc8"
-    - "Gmail:16a2feb51857e1ed"
-    - "registre-mariani twin: works/catalog.yml, relationships/artistic-relatogram.md, legacy.md, rights-patrimony-legacy.md"
+    - "ML-PUB-000025"
+    - "ML-PUB-000010"
+    - "ML-PUB-000011"
+    - "ML-PUB-000020"
+    - "ML-PUB-000013"
+    - memory/marie-louise/sources/public.yml
 review:
   status: unreviewed
   reviewed_by: []
