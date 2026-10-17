@@ -1,0 +1,116 @@
+---
+title: "Marie-Louise — registre public opaque des sources"
+author: "Jean Hugues Noël Robert"
+date: "2026-10-17"
+last_modified_at: "2026-10-17"
+status: "working"
+language: "fr"
+license: "CC BY-SA 4.0"
+document_role: "source-projection"
+document_kind: "public-source-registry"
+visibility: "public"
+lifecycle_state: "active"
+update_policy: "UP-DEFAULT-REVIEWED"
+provenance:
+  origin_type: "derived-projection"
+  origin_repository: "JeanHuguesRobert/registre-mariani"
+  origin_ref: "twin/marie-louise-robert/sources/registry.yml"
+  origin_date: "2026-10-17"
+  derived_from: []
+review:
+  status: "unreviewed"
+  reviewed_by: []
+---
+
+schema: marie-louise.public-source-registry/v1
+subject: marie-louise-robert
+privacy_contract: "JeanHuguesRobert/cogentia:docs/plural-source-provenance-contract.md"
+
+rules:
+  - "Un alias public ne révèle ni provider, ni locator privé, ni chemin privé."
+  - "L'alias atteste seulement qu'une source canonique privée existe dans le domaine de confiance autorisé."
+  - "L'alias ne transforme ni une allégation en fait, ni une trace en causalité."
+  - "L'absence d'alias publié ne signifie pas absence de preuve."
+
+sources:
+  - id: ML-PUB-000001
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000002
+    source_class: attributed_contemporary_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000003
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000004
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000005
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000006
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000007
+    source_class: third_party_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000008
+    source_class: third_party_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000009
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000010
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000011
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000012
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000013
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000014
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000015
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000016
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000017
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000018
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000019
+    source_class: source_trace
+    disclosure: private_opaque
+  - id: ML-PUB-000020
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000021
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000022
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000023
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000024
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000025
+    source_class: direct_voice
+    disclosure: private_opaque
+  - id: ML-PUB-000026
+    source_class: documentary_record
+    disclosure: private_opaque
+  - id: ML-PUB-000027
+    source_class: third_party_trace
+    disclosure: private_opaque
