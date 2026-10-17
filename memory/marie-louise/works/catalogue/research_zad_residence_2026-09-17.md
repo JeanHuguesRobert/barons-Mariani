@@ -37,7 +37,7 @@ La règle est de distinguer strictement les faits établis, les pistes de témoi
 
 ### Faits établis
 
-- Gmail `178df4383f1868a0` contient une attestation datée du 14 avril 2021.
+- Gmail `ML-PUB-000018` contient une attestation datée du 14 avril 2021.
 - L'attestation est signée par Hugues Absil, qui se présente comme artiste plasticien indépendant.
 - Elle atteste l'embauche de Marie-Louise Robert « sous le format de résidence artistique » pour un tournage du 17 au 26 avril 2021.
 - Le lieu indiqué est « aux Falguières, 30440 Saint-Laurent-le-Minier ».
@@ -65,7 +65,7 @@ Des sources publiques identifient Hugues Absil comme peintre, graveur, lithograp
 
 Gmail conserve plusieurs messages d'Orfeu Vittoriu Gregorj au printemps 2018 :
 
-- `162cc807820765ac`, 16 avril 2018 : Orfeu écrit « je quitte notre dame des landes a l'instant » ;
+- `ML-PUB-000082`, 16 avril 2018 : Orfeu écrit « je quitte notre dame des landes a l'instant » ;
 - `162edc8adcad46f3`, 22 avril 2018 : il décrit la poursuite de son déplacement vers Bayonne ;
 - `1631d0ba2caabd66`, 1er mai 2018 : il indique avoir participé à des soirées de soutien à la ZAD de NDDL après son passage sur place ;
 - plusieurs échanges ultérieurs montrent qu'Orfeu faisait partie du réseau proche de l'Institut Mariani en 2018.
