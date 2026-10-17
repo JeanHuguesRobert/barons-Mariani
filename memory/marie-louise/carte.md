@@ -26,6 +26,7 @@ provenance:
   origin_ref: "unknown"
   origin_date: "2026-09-07"
   derived_from:
+    - "memory/marie-louise/sources/public.yml"
     - "memory/marie-louise/README.md"
     - "memory/marie-louise/elections-2024-complaints.md"
     - "memory/marie-louise/elections/README.md"
@@ -134,7 +135,7 @@ Marie-Louise apparaît dans les sources sous plusieurs noms et noms d’usage. L
 
 **Statut : `VOICE` + `TRACE` — source primaire retrouvée et publiée.**
 
-Le mail original du **3 décembre 2008 à 18 h 57** (`Gmail:11dfdff512b6c8bf`) conserve directement l'histoire *Le dieu de l'eau*, envoyée par Marie-Louise à son père.
+Le mail original du **3 décembre 2008 à 18 h 57** (`ML-PUB-000001`) conserve directement l'histoire *Le dieu de l'eau*, envoyée par Marie-Louise à son père.
 
 Marie-Louise présente elle-même le texte comme une histoire qu'elle a imaginée et indique pour thème **« sauver la Terre »**. Le récit met en scène Diana, une jeune héroïne transportée dans un monde sous-marin et appelée à contribuer à sauver la planète.
 
@@ -169,11 +170,11 @@ Les sources retrouvées permettent désormais de remplacer l'ancienne formule «
 
 ## 5.1 Printemps 2016 — Terminale et orientation artistique
 
-Un courriel contemporain du 8 février 2016 décrit Marie-Louise comme motivée par le cinéma d'animation, le dessin, l'art et la philosophie (Gmail:152bf5062d84da28). Cette formulation vient de Jean Hugues et reste donc une source tierce contemporaine.
+Un courriel contemporain du 8 février 2016 décrit Marie-Louise comme motivée par le cinéma d'animation, le dessin, l'art et la philosophie (ML-PUB-000002). Cette formulation vient de Jean Hugues et reste donc une source tierce contemporaine.
 
 En février 2016, le compte de Marie-Louise partage directement avec son père un CV, une lettre de motivation et un autre Google Doc. L'existence et le partage de ces documents sont des TRACE directement rattachables à Marie-Louise ; leur contenu reste UNKNOWN, les documents historiques n'étant plus accessibles via le Drive connecté en septembre 2026.
 
-Le 24 avril 2016, un PDF beauxarts.pdf conservé dans Gmail (Gmail:15449b60315649e0) documente le dépôt d'un **dossier artistique n°193 pour l'admission en première année aux Beaux-Arts de Paris**, examiné les 25–26 avril, avec résultats annoncés pour le 28 avril.
+Le 24 avril 2016, un PDF beauxarts.pdf conservé dans Gmail (ML-PUB-000004) documente le dépôt d'un **dossier artistique n°193 pour l'admission en première année aux Beaux-Arts de Paris**, examiné les 25–26 avril, avec résultats annoncés pour le 28 avril.
 
 Le résultat de cette candidature reste UNKNOWN.
 
@@ -181,7 +182,7 @@ Le résultat de cette candidature reste UNKNOWN.
 
 **Statut : FACT / TRACE primaire.**
 
-Un certificat de scolarité transmis par Marie-Louise et conservé dans Gmail:15901e3906969ef1 établit qu'elle est inscrite et fréquente régulièrement, pour l'année scolaire **2016–2017**, la formation :
+Un certificat de scolarité transmis par Marie-Louise et conservé dans ML-PUB-000005 établit qu'elle est inscrite et fréquente régulièrement, pour l'année scolaire **2016–2017**, la formation :
 
 - CPES1 CLASSE PREPA, ETUDES SUPERIEURES ;
 - division CPES 1 ;
@@ -194,7 +195,7 @@ L'établissement effectivement intégré après le bac n'est donc plus une incon
 
 ### Trace postérieure : atelier Albertini
 
-Le **23 septembre 2026**, Jean-Joseph Albertini apporte un témoignage direct nouveau sur cette même année 2016–2017. Il indique avoir reçu Marie-Louise dans un atelier d’arts plastiques et transmet trois photographies de sa proposition plastique sur le thème pédagogique **« Étape par étape »** (`Gmail:1a0cce1f2e6dfdc1`).
+Le **23 septembre 2026**, Jean-Joseph Albertini apporte un témoignage direct nouveau sur cette même année 2016–2017. Il indique avoir reçu Marie-Louise dans un atelier d’arts plastiques et transmet trois photographies de sa proposition plastique sur le thème pédagogique **« Étape par étape »** (`ML-PUB-000027`).
 
 Cette source postérieure renforce la cartographie de ses pratiques plastiques mais ne résout pas encore le **cadre institutionnel exact** de l’atelier, à articuler avec l’inscription régulière en CPES à Sartène. Voir `works/atelier_etape_par_etape_2016_2017.md`, catalogue `MLR-000018`.
 
@@ -204,18 +205,18 @@ Un message contemporain du 11 mai 2017 rapporte que Marie-Louise est « prise à
 
 Les traces ultérieures établissent cependant la matérialisation du cursus :
 
-- décembre 2017 : message de la coordination pédagogique de l'École supérieure des beaux-arts de Nantes Métropole adressé notamment à marie-louise.robert@beauxartsnantes.fr (Gmail:16012ff6ab50ad78) ;
-- 2018–2019 : notification du Dossier social étudiant indiquant **NANTES Beaux Arts — Arts et architecture — 2ème année**, avec attribution conditionnelle d'une bourse Culture échelon 6 (Gmail:16737e68bc1918ab) ;
-- juin 2019 : Marie-Louise indique elle-même être à Nantes et évoque des camarades des Beaux-Arts (Gmail:16b31d816e8eb42d) ;
-- 14 avril 2021 : une attestation professionnelle la qualifie encore d'« étudiante à l'école nationale des Beaux-Arts de Nantes » (Gmail:178df4383f1868a0).
+- décembre 2017 : message de la coordination pédagogique de l'École supérieure des beaux-arts de Nantes Métropole adressé notamment à marie-louise.robert@beauxartsnantes.fr (ML-PUB-000009) ;
+- 2018–2019 : notification du Dossier social étudiant indiquant **NANTES Beaux Arts — Arts et architecture — 2ème année**, avec attribution conditionnelle d'une bourse Culture échelon 6 (ML-PUB-000012) ;
+- juin 2019 : Marie-Louise indique elle-même être à Nantes et évoque des camarades des Beaux-Arts (ML-PUB-000014) ;
+- 14 avril 2021 : une attestation professionnelle la qualifie encore d'« étudiante à l'école nationale des Beaux-Arts de Nantes » (ML-PUB-000018).
 
 La résolution exacte de la difficulté administrative de frais signalée en décembre 2017 reste UNKNOWN, mais les pièces 2018–2021 montrent que le parcours nantais s'est poursuivi.
 
 ## 5.4 2021–2022 — Villa Arson / Nice
 
-Une notification de calendrier établit un rendez-vous intitulé **Villa Arson** le 8 avril 2021 (Gmail:178ab8f3f69d09c4).
+Une notification de calendrier établit un rendez-vous intitulé **Villa Arson** le 8 avril 2021 (ML-PUB-000017).
 
-En janvier 2022, Marie-Louise prépare concrètement une installation dans un logement à Nice et indique bénéficier d'une bourse étudiante échelon 7 (Gmail:17e7808badd54b51).
+En janvier 2022, Marie-Louise prépare concrètement une installation dans un logement à Nice et indique bénéficier d'une bourse étudiante échelon 7 (ML-PUB-000019).
 
 Un mail rétrospectif de Jean Hugues du 26 septembre 2024 affirme qu'elle avait ensuite réussi le concours d'entrée à la Villa Arson.
 
@@ -240,9 +241,9 @@ Voir memory/marie-louise/formation/parcours_artistique_2016_2022.md.
 
 ## 5.4 bis 2023–2024 — interruption, tentative de retour et fermeture Villa Arson
 
-Le **11 mai 2023**, Marie-Louise indique directement à son père qu'elle n'est plus étudiante (`Gmail:1880b63961c02dc4`).
+Le **11 mai 2023**, Marie-Louise indique directement à son père qu'elle n'est plus étudiante (`ML-PUB-000021`).
 
-Le **8 mars 2024**, elle transmet un lien Taïga et un identifiant candidat pour une **réintégration en quatrième année à la Villa Arson** (`Gmail:18e1f184daa7c61c` + `TESTIMONY-JHR 2026-09-21`).
+Le **8 mars 2024**, elle transmet un lien Taïga et un identifiant candidat pour une **réintégration en quatrième année à la Villa Arson** (`ML-PUB-000024` + `TESTIMONY-JHR 2026-09-21`).
 
 Jean Hugues Robert témoigne que cette candidature a ensuite été **rejetée**. La notification institutionnelle, sa date et son motif exact restent à retrouver.
 
@@ -310,7 +311,7 @@ avec la description :
 
 > **Entre aliénation et construction de soi. Microcosmos.**
 
-Référence : Gmail:153dcd7070142c29. Identifiant vidéo : KCh-pTvaGfg.
+Référence : ML-PUB-000003. Identifiant vidéo : KCh-pTvaGfg.
 
 Le 14 avril 2016, Corse Net Infos publie un article sur une exposition organisée dans l'écosystème lycée Pascal-Paoli / Université de Corse autour de la notion de frontière. L'article identifie Marie-Louise Robert, alors en Terminale, comme auteure d'une réalisation en **stop motion** et décrit journalistiquement ce travail comme racontant la :
 
@@ -363,7 +364,7 @@ Dans ces échanges, elle :
 - indique qu’elle sera présente à l’arrivée ;
 - écrit qu’elle peut **« prendre le relais »** auprès de sa mère.
 
-Références : `Gmail:18ce856de9270575`, `Gmail:18ce8722bb169e9b`.
+Références : `ML-PUB-000022`, `ML-PUB-000023`.
 
 Ces pièces permettent d’établir l’existence d’une activité d’aidance et la manière dont Marie-Louise la formulait elle-même.
 
