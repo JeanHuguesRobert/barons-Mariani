@@ -32,7 +32,7 @@ La recherche distingue strictement l’œuvre, sa documentation et les pistes de
 
 ## 1. Beaux-Arts de Paris — dossier artistique n°193
 
-Source principale : `Gmail:15449b60315649e0`, pièce jointe `beauxarts.pdf`.
+Source principale : `ML-PUB-000004`, pièce jointe `beauxarts.pdf`.
 
 Lecture visuelle du scan :
 
@@ -47,7 +47,7 @@ Conséquence : `MLR-000009` reste un corpus dont le contenu est à retrouver.
 
 ## 2. Carnets de croquis
 
-Source : `Gmail:160e9c3cb28a170e`, 12 janvier 2018.
+Source : `ML-PUB-000081`, 12 janvier 2018.
 
 Un message contemporain mentionne explicitement les **« carnets de croquis »** parmi les affaires de Marie-Louise à lui faire parvenir.
 
@@ -55,7 +55,7 @@ Conséquence : l’existence du corpus `MLR-000008` est solidement attestée ; n
 
 ## 3. Concours Cergy — mai 2017
 
-Sources : `Gmail:15bfb6c9f8e87642` et fil associé.
+Sources : `ML-PUB-000032` et fil associé.
 
 Une correspondance contemporaine indique que Marie-Louise, alors annoncée « prise à Nantes », devait encore effectuer deux déplacements pour des concours : **Paris et Cergy**.
 
@@ -63,7 +63,7 @@ Cela justifie une entrée de recherche distincte `MLR-000016`, sans affirmer que
 
 ## 4. Résidence artistique et tournage — Gard, avril 2021
 
-Source : `Gmail:178df4383f1868a0`, pièce jointe `attestation.pdf`.
+Source : `ML-PUB-000018`, pièce jointe `attestation.pdf`.
 
 L’attestation du 14 avril 2021, signée par l’artiste plasticien **Hugues Absil**, indique que Marie-Louise est embauchée **« sous le format de résidence artistique »**, pour un **tournage du 17 au 26 avril 2021**, dans un lieu privé autorisé aux **Falguières, 30440 Saint-Laurent-le-Minier**.
 
@@ -79,7 +79,7 @@ Aucun élément retrouvé à ce stade ne permet d’identifier cette résidence 
 
 ## 5. Corpus nantais — support numérique à rechercher
 
-Source : `Gmail:16ac6115b80a9fe6`, 17 mai 2019.
+Source : `ML-PUB-000083`, 17 mai 2019.
 
 Marie-Louise écrit directement qu’elle vient d’acheter un **MacBook Pro**.
 
@@ -89,9 +89,9 @@ Ce n’est pas une œuvre et ne reçoit pas d’identifiant de catalogue. C’es
 
 Sources principales :
 
-- `Gmail:180f59ff7d499f8c` — transmission directe par Marie-Louise d’échanges préfectoraux relatifs à sa candidature ;
-- `Gmail:180f63c70c29898f` — message depuis `malou.dangelis@gmail.com`, objet `BULLETIN`, pièce `Sans titre-1.pdf` ;
-- `Gmail:180f64276744097a` — message de Marie-Louise, objet `bulletin`, pièce `BULLETINMLJHR.pdf`, avec le graphiste Damien Ruvet parmi les destinataires.
+- `ML-PUB-000059` — transmission directe par Marie-Louise d’échanges préfectoraux relatifs à sa candidature ;
+- `ML-PUB-000062` — message depuis `malou.dangelis@gmail.com`, objet `BULLETIN`, pièce `Sans titre-1.pdf` ;
+- `ML-PUB-000063` — message de Marie-Louise, objet `bulletin`, pièce `BULLETINMLJHR.pdf`, avec le graphiste Damien Ruvet parmi les destinataires.
 
 Ces éléments justifient une entrée de type `political-action` / `project` (`MLR-000017`) dans le sens large retenu pour « l’œuvre de Marie-Louise ».
 
@@ -105,7 +105,7 @@ Ce résultat est strictement borné aux requêtes et à la boîte Gmail interrog
 
 ### Piste Orfeu Vittoriu
 
-`Gmail:162cc807820765ac`, 16 avril 2018 : **Orfeu Vittoriu** écrit à Jean Hugues qu’il « quitte notre dame des landes à l’instant ».
+`ML-PUB-000082`, 16 avril 2018 : **Orfeu Vittoriu** écrit à Jean Hugues qu’il « quitte notre dame des landes à l’instant ».
 
 Marie-Louise n’est pas mentionnée. Le message ne constitue donc **aucune preuve de sa présence** sur la ZAD.
 
@@ -113,7 +113,7 @@ En revanche, il établit l’existence d’un contact direct de l’entourage de
 
 ## 8. Trace Facebook 2012 — exposition Tim Burton
 
-Source : `Gmail:13ac88b6ebf6574b`.
+Source : `ML-PUB-000079`.
 
 Notification Facebook : Marie-Louise a ajouté une photo avec la mention **« Exposition Tim burton. Maquettes »**.
 
