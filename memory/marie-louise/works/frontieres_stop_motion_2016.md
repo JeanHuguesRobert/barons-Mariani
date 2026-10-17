@@ -58,9 +58,9 @@ Ce passage est une description contemporaine du père, non une `VOICE` directe d
 
 En février 2016, le compte de Marie-Louise partage directement avec son père plusieurs Google Docs :
 
-- un `cv` — `ML-PUB-000075`, `152bbe2d17ce8ae9`, `152bbe471a57a3f0` ;
+- un `cv` — `ML-PUB-000075`, `ML-PUB-000109`, `ML-PUB-000028` ;
 - une `lettre de motivation` — `ML-PUB-000077`, `ML-PUB-000029` ;
-- un document sans titre — `ML-PUB-000076`, `152ea0e096e11752`.
+- un document sans titre — `ML-PUB-000076`, `ML-PUB-000110`.
 
 **Statut : `VOICE` / `TRACE` quant à l'existence et au partage des documents.**
 
