@@ -11,7 +11,7 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: platform-trace
   derived_from:
-    - Gmail:15b16527bf97b95e
+    - ML-PUB-000006
   origin_repository: unknown
   origin_ref: unknown
   origin_date: unknown
@@ -34,7 +34,7 @@ Une notification automatique YouTube datée du **28 mars 2017** indique que le c
 
 > **photoromanJulie**
 
-Référence : Gmail:15b16527bf97b95e.
+Référence : ML-PUB-000006.
 
 Identifiants techniques conservés :
 
