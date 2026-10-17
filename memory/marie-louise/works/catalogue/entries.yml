@@ -55,7 +55,7 @@ entries:
       - evidence_type: C
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:153dcd7070142c29
+        source_ref: ML-PUB-000003
         description: Notification YouTube contemporaine de mise en ligne.
     certainty: high
     related_entries: [MLR-000003]
@@ -118,7 +118,7 @@ entries:
       - evidence_type: C
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:15b16527bf97b95e
+        source_ref: ML-PUB-000006
         description: Notification YouTube contemporaine de mise en ligne.
     certainty: high
     related_entries: []
@@ -209,7 +209,7 @@ entries:
       - evidence_type: C
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:146ae7609e546d2d
+        source_ref: ML-PUB-000080
         description: Correspondance de juin 2014 faisant explicitement référence aux dessins de Marie-Louise.
     certainty: high
     related_entries: [MLR-000008]
@@ -241,7 +241,7 @@ entries:
       - evidence_type: C
         epistemic_status: THIRD-PARTY
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:160e9c3cb28a170e
+        source_ref: ML-PUB-000081
         description: Message du 12 janvier 2018 mentionnant les « carnets de croquis » parmi ses affaires.
     certainty: high
     related_entries: [MLR-000007]
@@ -273,7 +273,7 @@ entries:
       - evidence_type: C
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:15449b60315649e0
+        source_ref: ML-PUB-000004
         description: PDF beauxarts.pdf documentant le dépôt du dossier artistique n°193.
     certainty: high
     related_entries: []
