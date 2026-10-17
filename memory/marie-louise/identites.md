@@ -99,7 +99,7 @@ Deux transmissions successives du même bulletin ont été retrouvées le 24 mai
 
 ### 15 h 23
 
-Source : `Gmail:180f63c70c29898f`.
+Source : `ML-PUB-000062`.
 
 Expéditeur observé :
 
@@ -118,7 +118,7 @@ Le bulletin porte notamment :
 
 ### 15 h 29
 
-Source : `Gmail:180f64276744097a`.
+Source : `ML-PUB-000063`.
 
 Expéditeur observé :
 
@@ -136,7 +136,7 @@ Les traces permettent d'établir la participation personnelle de Marie-Louise à
 
 Elles ne permettent pas d'affirmer qu'elle a inventé seule la formulation « Baronne Marie-Louise Mariani ».
 
-Le 21 mai 2022, Jean Hugues Noël Robert avait adressé au graphiste Damien Ruvet, Marie-Louise étant en copie, un cahier des charges comprenant notamment `Baronne ML Mariani` (`Gmail:180e7ee541fa51b1`).
+Le 21 mai 2022, Jean Hugues Noël Robert avait adressé au graphiste Damien Ruvet, Marie-Louise étant en copie, un cahier des charges comprenant notamment `Baronne ML Mariani` (`ML-PUB-000108`).
 
 Il faut donc distinguer :
 
@@ -242,6 +242,6 @@ Le paquet `projects/suicide-corse/handoffs/numero-2-identites-reprise.md` conser
 
 ## Publication et confidentialité
 
-Les identifiants Gmail sont conservés comme pointeurs de provenance. Leur présence ne constitue pas une autorisation de publier le contenu intégral des correspondances ou pièces privées.
+Les locators privés sont conservés dans le registre privé canonique ; cette projection publique n'expose que des alias opaques. Leur présence ne constitue pas une autorisation de publier le contenu intégral des correspondances ou pièces privées.
 
 Cette fiche ne reproduit pas de correspondance privée substantielle et ne vaut pas autorisation générale de publier les messages ou pièces jointes dont elle documente l'existence.
