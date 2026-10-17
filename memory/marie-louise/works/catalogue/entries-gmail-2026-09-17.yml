@@ -22,7 +22,7 @@ entries:
       - evidence_type: C
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:178df4383f1868a0
+        source_ref: ML-PUB-000018
         description: Attestation d'embauche du 14 avril 2021, pièce jointe attestation.pdf, indiquant explicitement « résidence artistique » et « tournage ».
     certainty: high
     related_entries: [MLR-000011]
@@ -62,7 +62,7 @@ entries:
       - evidence_type: C
         epistemic_status: THIRD-PARTY
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:15bfb6c9f8e87642
+        source_ref: ML-PUB-000032
         description: Message contemporain de Jean Hugues Robert indiquant deux concours à venir, Paris et Cergy.
     certainty: medium
     related_entries: [MLR-000009, MLR-000010]
@@ -94,32 +94,32 @@ entries:
       - evidence_type: A
         epistemic_status: VOICE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:180f59ff7d499f8c
+        source_ref: ML-PUB-000059
         description: Messages transférés directement par Marie-Louise concernant la candidature et la création de tiers CHORUS.
       - evidence_type: A
         epistemic_status: THIRD-PARTY
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:180cd1d38f6e85ca
+        source_ref: ML-PUB-000052
         description: Texte contemporain de Martine Brillais affirmant que Marie-Louise « a pris l'initiative de se présenter »; conserver comme témoignage tiers, non comme VOICE de Marie-Louise.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:180f63c70c29898f
+        source_ref: ML-PUB-000062
         description: Message envoyé depuis malou.dangelis@gmail.com avec le fichier Sans titre-1.pdf sous l'objet BULLETIN.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:180f64276744097a
+        source_ref: ML-PUB-000063
         description: Message de Marie-Louise transmettant BULLETINMLJHR.pdf à Jean Hugues Robert et au graphiste Damien Ruvet.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: SOURCE-GMAIL
-        source_ref: Gmail:180fbd587d9eb034
+        source_ref: ML-PUB-000066
         description: Version renvoyée le 25 mai par Damien Ruvet; elle est postérieure aux deux états transmis par Marie-Louise.
       - evidence_type: A
         epistemic_status: TRACE
         source_type: DERIVED-TECHNICAL-INSPECTION
-        source_ref: Gmail:180f63c70c29898f + Gmail:180f64276744097a
+        source_ref: ML-PUB-000062 + ML-PUB-000063
         description: Les deux PDF originaux déclarent Adobe Photoshop CC 2018 (Macintosh), partagent la même création interne du 24 mai 2022 à 15:18:45 +02:00 et ne diffèrent graphiquement de façon substantielle que par l'ajout du yanug dans le second état.
     certainty: high
     related_entries: []
@@ -142,19 +142,19 @@ entries:
 provenance_leads:
   - target_entry: MLR-000011
     type: working-device
-    source_ref: Gmail:16ac6115b80a9fe6
+    source_ref: ML-PUB-000083
     fact: Le 17 mai 2019, Marie-Louise indique directement avoir acheté un MacBook Pro pendant sa période nantaise.
     use: Rechercher cet appareil, ses sauvegardes, comptes synchronisés et disques comme source potentielle du corpus 2019–2021.
 
 research_leads:
   - target: ZAD proche de Nantes
-    source_ref: Gmail:162cc807820765ac
+    source_ref: ML-PUB-000082
     status: contextual-lead-only
     fact: Le 16 avril 2018, Orfeu Vittoriu écrit à Jean Hugues qu'il quitte Notre-Dame-des-Landes à l'instant.
     caution: Marie-Louise n'est pas mentionnée dans ce message; il ne prouve donc pas sa présence à la ZAD.
     next_probe: Interroger/rechercher Orfeu Vittoriu et les échanges connexes pour déterminer s'il a vu Marie-Louise sur place ou connaît les circonstances de son intervention.
   - target: possible early visual-culture trace
-    source_ref: Gmail:13ac88b6ebf6574b
+    source_ref: ML-PUB-000079
     status: weak-lead
     fact: Une notification Facebook de 2012 indique une photo ajoutée par Marie-Louise avec la mention « Exposition Tim burton. Maquettes ».
     caution: Cela peut documenter une exposition visitée et non une œuvre de Marie-Louise; ne pas cataloguer comme œuvre sans autre preuve.
