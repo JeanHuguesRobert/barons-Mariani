@@ -18,17 +18,18 @@ provenance:
   origin_ref: "conversation 2026-09-15/16"
   origin_date: "2026-09-16"
   derived_from:
+    - "memory/marie-louise/sources/public.yml"
     - "memory/marie-louise/carte.md"
     - "memory/marie-louise/possible_matrix.md"
     - "research/second_method.md"
     - "research/possibilism_04_2026.md"
     - "GitHub issue #47"
     - "GitHub issue #75"
-    - "Gmail:15cc7d6a4d900be9"
-    - "Gmail:18ce856de9270575"
-    - "Gmail:18ce8722bb169e9b"
-    - "Gmail:18e1f184daa7c61c"
-    - "Gmail:1902138ea0abe20c"
+    - "ML-PUB-000008"
+    - "ML-PUB-000022"
+    - "ML-PUB-000023"
+    - "ML-PUB-000024"
+    - "ML-PUB-000025"
 review:
   status: "unreviewed"
   reviewed_by: []
@@ -70,7 +71,7 @@ Pour toute fermeture candidate, rechercher simultanément :
 
 ## 3. Nantes 2017 — contradiction contemporaine à préserver
 
-Le thread Gmail `15cc7d6a4d900be9` contient un désaccord contemporain important sur le choix de Nantes.
+Le source privée `ML-PUB-000008` contient un désaccord contemporain important sur le choix de Nantes.
 
 État documentaire :
 
@@ -109,7 +110,7 @@ La question pertinente est : quelles observations ont été recherchées, quelle
 
 ### 5.1 8 janvier — aidance et coordination
 
-Messages `Gmail:18ce856de9270575` et `Gmail:18ce8722bb169e9b`.
+Messages `ML-PUB-000022` et `ML-PUB-000023`.
 
 Marie-Louise organise activement un déplacement de sa mère vers Nîmes, recherche des solutions pratiques, coordonne plusieurs interlocuteurs et évoque son **statut d'aidante**.
 
@@ -127,7 +128,7 @@ Ne pas convertir automatiquement l'aidance en cause de rupture scolaire ou en ch
 
 ### 5.2 8 mars — candidature de réintégration en quatrième année à la Villa Arson
 
-Message direct `Gmail:18e1f184daa7c61c`, objet `concoursd'entree4èmeannée`, contenant un lien Taïga et un identifiant candidat.
+Message direct `ML-PUB-000024`, objet `concoursd'entree4èmeannée`, contenant un lien Taïga et un identifiant candidat.
 
 Ce que la trace et la précision de Jean Hugues Robert du 21 septembre 2026 permettent d'établir :
 
@@ -185,7 +186,7 @@ Ce qui reste à documenter ou à estimer :
 
 ### 5.3 Juin — capacité politique et coopération avec le père
 
-Message direct `Gmail:1902138ea0abe20c`.
+Message direct `ML-PUB-000025`.
 
 Marie-Louise demande à son père d'être son directeur de campagne et son porte-parole pour les élections législatives de 2024.
 
