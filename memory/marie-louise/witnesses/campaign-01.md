@@ -193,12 +193,12 @@ Le lot P0 préparé au bouclage a effectivement été **envoyé le 21 septembre 
 
 | Cible | Envoi observé | État au 23 septembre 2026 |
 |---|---|---|
-| Sylvain Lizon | Gmail `1a0c3b37e6c35fb8`, 21/09 13:21 | réponse automatique de routage reçue ; nouveau canal professionnel indiqué ; **pas encore de réponse substantielle** |
+| Sylvain Lizon | Gmail `ML-PUB-000104`, 21/09 13:21 | réponse automatique de routage reçue ; nouveau canal professionnel indiqué ; **pas encore de réponse substantielle** |
 | Damien Ruvet | Gmail `1a0c3b020510a855`, 21/09 13:18 | envoyé ; aucune réponse identifiée dans la recherche du 23/09 |
 | Villa Arson | Gmail `1a0c4b4308f8d929`, 21/09 18:02 | envoyé à la scolarité, avec la direction actuelle en copie ; aucune réponse identifiée dans la recherche du 23/09 |
 | Céline Christmann | Gmail `1a0c3adaed105e93`, 21/09 13:15 | envoyé ; aucune réponse identifiée dans la recherche du 23/09 |
-| Maëva Guillery | Gmail `1a0c3af3ae656fd0`, 21/09 13:17 | **réponse P0 substantielle reçue le 22/09** (`Gmail:1a0c7b48b93d3216`) |
-| Maéva Lecoq | Gmail `1a0c3aedfd8fbb9b`, 21/09 13:16 | **réponse P0 substantielle reçue le 21/09** (`Gmail:1a0c3ec068464efa`) |
+| Maëva Guillery | Gmail `1a0c3af3ae656fd0`, 21/09 13:17 | **réponse P0 substantielle reçue le 22/09** (`ML-PUB-000107`) |
+| Maéva Lecoq | Gmail `1a0c3aedfd8fbb9b`, 21/09 13:16 | **réponse P0 substantielle reçue le 21/09** (`ML-PUB-000106`) |
 
 ### Qualification minimale des réponses
 
@@ -211,7 +211,7 @@ La réponse automatique de Sylvain Lizon est un **résultat de routage**, pas un
 
 ### Extension post-publication — Jean-Joseph Albertini
 
-Une sollicitation distincte, envoyée après publication du n°2, produit le **23 septembre 2026** une réponse substantielle de Jean-Joseph Albertini (`Gmail:1a0cce1f2e6dfdc1`).
+Une sollicitation distincte, envoyée après publication du n°2, produit le **23 septembre 2026** une réponse substantielle de Jean-Joseph Albertini (`ML-PUB-000027`).
 
 Elle apporte :
 
