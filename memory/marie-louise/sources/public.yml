@@ -264,3 +264,6 @@ sources:
   - id: ML-PUB-000077
     source_class: source_trace
     disclosure: private_opaque
+  - id: ML-PUB-000078
+    source_class: source_trace
+    disclosure: private_opaque
