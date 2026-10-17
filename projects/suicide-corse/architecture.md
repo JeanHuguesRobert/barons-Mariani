@@ -4,8 +4,8 @@ subtitle: "Invariants capacitaires, changement d'échelle, Reality Cases et publ
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-18"
-last_modified_at: "2026-09-29"
-version: "0.3"
+last_modified_at: "2026-10-17"
+version: "0.4"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -32,6 +32,8 @@ provenance:
     - "projects/suicide-corse/manuscript/04-realiser-impossible.md"
     - "memory/marie-louise/carte.md"
     - "memory/marie-louise/possible_matrix.md"
+    - "memory/marie-louise/sources/public.yml"
+    - "JeanHuguesRobert/cogentia:docs/plural-source-provenance-contract.md"
     - "research/noyau_doctrinal_rendre_capable.md"
     - "research/autonomia/corse_laboratoire.md"
     - "JeanHuguesRobert/FractaVolta:research/fractanet.md"
@@ -286,6 +288,53 @@ possible réel
 La perte de chance doit être traitée comme une **branche contrefactuelle bornée**, jamais comme une causalité rétrospective automatique. Une fermeture locale n'établit ni la cause unique d'un dommage ultérieur, ni l'identité des mécanismes entre périodes ou institutions.
 
 Cette architecture accueille plusieurs voies institutionnelles sans les confondre : contentieux électoral, question prioritaire de constitutionnalité éventuelle, Défenseur des droits, recours conventionnel éventuel et responsabilités indemnitaires. Ces voies sont des **instruments d'exploration, de correction ou de réparation** ; elles ne constituent pas l'architecture première du problème.
+
+## 0.3. Frontière de provenance privée / projection publique
+
+*Suicide Corse* applique explicitement le **Plural-Source Provenance Contract**.
+
+La chaîne de référence est :
+
+```text
+source réelle / provider
+→ locator privé
+→ source canonique privée (ML-SRC-*)
+→ alias public opaque (ML-PUB-*)
+→ carte / matrice / chapitre / édition
+```
+
+Le dépôt privé `registre-Mariani` reste l'autorité de provenance pour les sources sensibles de Marie-Louise. Le dépôt public ne doit pas exposer :
+
+- identifiant Gmail, Drive ou provider assimilable à un locator privé ;
+- chemin interne permettant de retrouver directement une source sensible ;
+- identifiant privé sémantique dont le libellé révélerait une information protégée.
+
+Lorsqu'une projection publique doit rester vérifiable, elle utilise un alias opaque `ML-PUB-xxxxxx` défini dans `memory/marie-louise/sources/public.yml`.
+
+Cet alias signifie seulement :
+
+> **une source canonique privée existe et soutient le rôle probatoire déclaré dans le Corpus ; son locator et son contenu restent gouvernés par le domaine privé.**
+
+Il ne signifie jamais :
+
+```text
+source référencée
+→ fait automatiquement vérifié
+→ causalité établie
+```
+
+Règles supplémentaires :
+
+```text
+absence d'alias public ≠ absence de preuve
+alias public ≠ autorisation de divulguer le contenu
+projection publique ≠ autorité source
+édition gelée ≠ source canonique
+```
+
+Les éditions déjà gelées restent des traces historiques de ce qui fut publié. La migration de provenance s'applique au Corpus courant et aux projections futures ; elle ne réécrit pas silencieusement une édition figée.
+
+---
 
 # 1. Déplacement central
 
