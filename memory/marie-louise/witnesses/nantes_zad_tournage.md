@@ -42,7 +42,7 @@ Les données bancaires, adresses privées complètes et autres informations sens
 
 **Statut :** témoin potentiel fort — réseau nantais.
 
-**Fait établi :** dans un message Gmail du 23 novembre 2018, Marie-Louise écrit qu'« Alice » est une camarade qui l'héberge alors à Nantes (`Gmail:1673e2605d7d64f4`). La pièce jointe associée permet d'identifier cette Alice comme **Alice Gautier**.
+**Fait établi :** dans un message Gmail du 23 novembre 2018, Marie-Louise écrit qu'« Alice » est une camarade qui l'héberge alors à Nantes (`ML-PUB-000094`). La pièce jointe associée permet d'identifier cette Alice comme **Alice Gautier**.
 
 **Pourquoi la solliciter :** elle peut potentiellement documenter la période nantaise de Marie-Louise en 2018, ses déplacements, fréquentations, projets, travaux en cours, conditions d'hébergement, et éventuellement des passages ou activités hors de Nantes.
 
@@ -56,7 +56,7 @@ Les données bancaires, adresses privées complètes et autres informations sens
 
 **Statut :** témoin potentiel très fort — colocataire documentée.
 
-**Faits établis :** Marie-Louise écrit le 7 juin 2019 qu'elle vit avec deux camarades, Camille et Juliette (`Gmail:16b31d816e8eb42d`). Les échanges de bail et de sortie de logement de 2019–2020 identifient **Camille Gérard** comme colocataire formelle de Marie-Louise (`Gmail:1712baa76dcb6655`, `Gmail:171e021d63e4d029`).
+**Faits établis :** Marie-Louise écrit le 7 juin 2019 qu'elle vit avec deux camarades, Camille et Juliette (`ML-PUB-000014`). Les échanges de bail et de sortie de logement de 2019–2020 identifient **Camille Gérard** comme colocataire formelle de Marie-Louise (`ML-PUB-000095`, `ML-PUB-000096`).
 
 **Pourquoi la solliciter :** elle est susceptible d'avoir connu directement le quotidien de Marie-Louise à Nantes, ses travaux, son cercle d'amis, ses déplacements, ses projets et éventuellement des activités militantes ou artistiques hors de l'école.
 
@@ -68,7 +68,7 @@ Les données bancaires, adresses privées complètes et autres informations sens
 
 **Statut :** témoin potentiel fort — colocataire/camarade documentée.
 
-**Faits établis :** l'avenant au bail nantais nomme **Juliette FETAZ** comme locataire du logement avant l'entrée formelle de Marie-Louise au bail. Marie-Louise écrit néanmoins le 7 juin 2019 qu'elle vit déjà avec « Camille et Juliette » (`Gmail:16b31d816e8eb42d`). L'avenant indique que Juliette quitte ensuite le bail et que Marie-Louise la remplace formellement au 1er juillet 2019.
+**Faits établis :** l'avenant au bail nantais nomme **Juliette FETAZ** comme locataire du logement avant l'entrée formelle de Marie-Louise au bail. Marie-Louise écrit néanmoins le 7 juin 2019 qu'elle vit déjà avec « Camille et Juliette » (`ML-PUB-000014`). L'avenant indique que Juliette quitte ensuite le bail et que Marie-Louise la remplace formellement au 1er juillet 2019.
 
 **Pourquoi la solliciter :** elle peut potentiellement documenter une période immédiatement antérieure à l'installation formelle de Marie-Louise dans le logement, ainsi que ses relations, habitudes de travail et déplacements.
 
@@ -92,7 +92,7 @@ Les données bancaires, adresses privées complètes et autres informations sens
 
 **Statut :** témoin potentiel institutionnel/logistique — logement nantais.
 
-**Faits établis :** Jacques Laroche apparaît comme propriétaire et interlocuteur direct du logement occupé par Marie-Louise à Nantes en 2019. Les échanges portent notamment sur le bail, son avenant, les pièces administratives et la situation d'une amie hébergée dans le logement. Le 11 octobre 2019, il écrit après un échange avec Marie-Louise au sujet de cette amie (Gmail:16db9d63bdf3e80c).
+**Faits établis :** Jacques Laroche apparaît comme propriétaire et interlocuteur direct du logement occupé par Marie-Louise à Nantes en 2019. Les échanges portent notamment sur le bail, son avenant, les pièces administratives et la situation d'une amie hébergée dans le logement. Le 11 octobre 2019, il écrit après un échange avec Marie-Louise au sujet de cette amie (ML-PUB-000040).
 
 **Pourquoi le solliciter :** il peut potentiellement préciser la chronologie d'occupation du logement, les personnes formellement inscrites au bail, les documents encore conservés et, dans les limites de ce qu'il a personnellement observé, certains éléments logistiques de cette période.
 
@@ -118,7 +118,7 @@ Une amie de Marie-Louise est mentionnée dans l'échange d'octobre 2019. Son ide
 
 **Statut :** témoin potentiel direct très fort — résidence/tournage 2021.
 
-**Fait établi :** une attestation transmise le 17 avril 2021 établit que Marie-Louise est engagée « sous le format de résidence artistique » pour un tournage du **17 au 26 avril 2021** aux **Falguières, Saint-Laurent-le-Minier (Gard)** par l'artiste plasticien **Hugues Absil** (`Gmail:178df4383f1868a0`, `Gmail:178df522198e7fd9`).
+**Fait établi :** une attestation transmise le 17 avril 2021 établit que Marie-Louise est engagée « sous le format de résidence artistique » pour un tournage du **17 au 26 avril 2021** aux **Falguières, Saint-Laurent-le-Minier (Gard)** par l'artiste plasticien **Hugues Absil** (`ML-PUB-000018`, `ML-PUB-000097`).
 
 **Pourquoi le solliciter :** il est potentiellement en mesure d'identifier le titre du projet, le rôle exact de Marie-Louise, les participants, le contexte de la résidence, l'existence de rushes, photographies, feuilles de service, générique, archives ou œuvres issues du tournage.
 
@@ -130,7 +130,7 @@ Une amie de Marie-Louise est mentionnée dans l'échange d'octobre 2019. Son ide
 
 **Statut :** personne non identifiée — piste directe liée au tournage 2021.
 
-**Fait établi :** le 17 avril 2021, Jean Hugues Robert transmet à Marie-Louise une attestation en précisant qu'elle a été « fournie par Anna » (`Gmail:178df522198e7fd9`). Aucun nom de famille n'est donné dans l'échange.
+**Fait établi :** le 17 avril 2021, Jean Hugues Robert transmet à Marie-Louise une attestation en précisant qu'elle a été « fournie par Anna » (`ML-PUB-000097`). Aucun nom de famille n'est donné dans l'échange.
 
 **Pourquoi la rechercher :** Anna apparaît comme intermédiaire opérationnelle directe autour du tournage et pourrait être en mesure d'identifier les participants, le projet ou les archives associées.
 
