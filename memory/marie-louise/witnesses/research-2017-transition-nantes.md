@@ -17,11 +17,11 @@ provenance:
   origin_ref: main
   origin_date: 2026-09-19
   derived_from:
-    - Gmail:15bf942c756bea24
-    - Gmail:15bfb6c9f8e87642
-    - Gmail:15cc8324592da705
-    - Gmail:15cc97ca33457315
-    - Gmail:15cc9ab526f4f0f8
+    - ML-PUB-000007
+    - ML-PUB-000032
+    - ML-PUB-000036
+    - ML-PUB-000037
+    - ML-PUB-000038
 review:
   status: unreviewed
   reviewed_by: []
@@ -39,13 +39,13 @@ Elle distingue les traces contemporaines des récits attribués et conserve les 
 
 ### 11 mai 2017 — Nantes
 
-Jean Hugues écrit à Ferdinand Pancrazi que Marie-Louise est **prise à Nantes** (Gmail:15bf942c756bea24).
+Jean Hugues écrit à Ferdinand Pancrazi que Marie-Louise est **prise à Nantes** (ML-PUB-000007).
 
 **Statut : THIRD-PARTY contemporain.** La décision institutionnelle primaire n'est pas retrouvée.
 
 ### 12 mai 2017 — Paris et Cergy encore envisagés
 
-Jean Hugues indique que Marie-Louise se trouve alors à Corte et qu'elle a, **en principe**, deux concours à venir à Paris et Cergy (Gmail:15bfb6c9f8e87642).
+Jean Hugues indique que Marie-Louise se trouve alors à Corte et qu'elle a, **en principe**, deux concours à venir à Paris et Cergy (ML-PUB-000032).
 
 Présence aux concours et résultats : UNKNOWN.
 
