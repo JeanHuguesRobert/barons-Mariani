@@ -16,7 +16,7 @@ provenance:
   origin_ref: main
   origin_date: 2026-09-23
   derived_from:
-    - Gmail:1a0cce1f2e6dfdc1
+    - ML-PUB-000027
 review:
   status: unreviewed
   reviewed_by: []
@@ -28,7 +28,7 @@ review:
 
 Le 23 septembre 2026, **Jean-Joseph Albertini** répond à une sollicitation de Jean Hugues Robert envoyée après la publication du numéro 2 de *Suicide Corse*.
 
-Référence : `Gmail:1a0cce1f2e6dfdc1`.
+Référence : `ML-PUB-000027`.
 
 Il indique avoir eu Marie-Louise en cours pendant l’année universitaire **2016–2017**, dans les locaux de l’ancienne BU, et l’avoir vue peu souvent. Lorsqu’elle était présente, il la décrit comme impliquée, concentrée et intéressée par ce qui était proposé.
 
