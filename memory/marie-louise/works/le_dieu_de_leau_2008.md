@@ -10,9 +10,9 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: personal-archive
   derived_from:
-    - Gmail:11dfdff512b6c8bf
-    - Gmail:11f32f6aba024dfc
-    - Gmail:11f319a0f9ed008d
+    - ML-PUB-000001
+    - ML-PUB-000074
+    - ML-PUB-000073
   origin_repository: unknown
   origin_ref: unknown
   origin_date: unknown
@@ -34,7 +34,7 @@ status: working-paper
 
 Le 3 décembre 2008 à 18 h 57, un message intitulé `jouyeux Noel de lilou` est envoyé par Marie-Louise à son père.
 
-Référence Gmail : `Gmail:11dfdff512b6c8bf`.
+Référence Gmail : `ML-PUB-000001`.
 
 Le message se présente explicitement comme une histoire imaginée par Marie-Louise pour son père et porte le titre *Le dieu de l'eau*. Le thème est indiqué par Marie-Louise elle-même : **sauver la Terre**.
 
@@ -98,8 +98,8 @@ Fin janvier / début février 2009, Jean Hugues rédige puis transmet à un tier
 
 Les forwards correspondants sont notamment :
 
-- `Gmail:11f319a0f9ed008d`
-- `Gmail:11f2f4c2400e5470`
+- `ML-PUB-000073`
+- `ML-PUB-000072`
 
 Ces messages sont explicitement présentés comme confidentiels et contiennent du contexte familial privé.
 
