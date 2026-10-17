@@ -104,7 +104,7 @@ events:
     prohibited_inference:
     - Déduire une causalité institutionnelle de la seule existence de l'œuvre.
   evidence:
-  - ref: Gmail:11dfdff512b6c8bf
+  - ref: ML-PUB-000001
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -144,7 +144,7 @@ events:
     - La publication peut être personnelle, scolaire ou liée à l'exposition ; le contexte exact reste à préciser.
     prohibited_inference: []
   evidence:
-  - ref: Gmail:153dcd7070142c29
+  - ref: ML-PUB-000003
     source_class: platform_trace
     epistemic_status:
     - voice
@@ -223,7 +223,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:15449b60315649e0
+  - ref: ML-PUB-000004
     source_class: administrative_record
     epistemic_status:
     - trace
@@ -265,7 +265,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:15901e3906969ef1
+  - ref: ML-PUB-000005
     source_class: administrative_record
     epistemic_status:
     - trace
@@ -303,7 +303,7 @@ events:
     - Le lien pédagogique avec la CPES n'est pas démontré.
     prohibited_inference: []
   evidence:
-  - ref: Gmail:15b16527bf97b95e
+  - ref: ML-PUB-000006
     source_class: platform_trace
     epistemic_status:
     - voice
@@ -336,14 +336,14 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:15bf942c756bea24
+  - ref: ML-PUB-000007
     source_class: contemporary_third_party
     epistemic_status:
     - third_party
     supports:
     - admission rapportée
     visibility: public_reference_private_content
-  - ref: Gmail:16012ff6ab50ad78
+  - ref: ML-PUB-000009
     source_class: institutional_record
     epistemic_status:
     - trace
@@ -384,7 +384,7 @@ events:
     prohibited_inference:
     - Coder automatiquement cette friction comme fermeture du cursus.
   evidence:
-  - ref: Gmail:16012ff6ab50ad78
+  - ref: ML-PUB-000009
     source_class: institutional_record
     epistemic_status:
     - trace
@@ -422,7 +422,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:16737e68bc1918ab
+  - ref: ML-PUB-000012
     source_class: administrative_record
     epistemic_status:
     - trace
@@ -458,7 +458,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:16b31d816e8eb42d
+  - ref: ML-PUB-000014
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -490,7 +490,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:1746d1838a04eb4c
+  - ref: ML-PUB-000015
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -527,7 +527,7 @@ events:
     prohibited_inference:
     - Déduire de cette fermeture locale une incapacité politique générale.
   evidence:
-  - ref: Gmail:17478c8b4f7a940d
+  - ref: ML-PUB-000016
     source_class: administrative_record
     epistemic_status:
     - trace
@@ -561,7 +561,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:178ab8f3f69d09c4
+  - ref: ML-PUB-000017
     source_class: calendar_trace
     epistemic_status:
     - trace
@@ -605,7 +605,7 @@ events:
     - La réalisation complète de la mission reste à vérifier.
     prohibited_inference: []
   evidence:
-  - ref: Gmail:178df4383f1868a0
+  - ref: ML-PUB-000018
     source_class: institutional_record
     epistemic_status:
     - trace
@@ -640,7 +640,7 @@ events:
     - Cette pièce ne prouve pas à elle seule l'inscription à la Villa Arson.
     prohibited_inference: []
   evidence:
-  - ref: Gmail:17e7808badd54b51
+  - ref: ML-PUB-000019
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -712,7 +712,7 @@ events:
     prohibited_inference:
     - Déduire une interruption d'études de l'aidance sans maillon causal documenté.
   evidence:
-  - ref: Gmail:18ce856de9270575
+  - ref: ML-PUB-000022
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -722,7 +722,7 @@ events:
     - statut d'aidante
     - organisation concrète
     visibility: public_reference_private_content
-  - ref: Gmail:18ce8722bb169e9b
+  - ref: ML-PUB-000023
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -759,7 +759,7 @@ events:
     alternative_explanations: []
     prohibited_inference: []
   evidence:
-  - ref: Gmail:190273efbcfb68d4
+  - ref: ML-PUB-000026
     source_class: administrative_record
     epistemic_status:
     - trace
@@ -767,7 +767,7 @@ events:
     supports:
     - enregistrement de candidature
     visibility: public_reference_private_content
-  - ref: Gmail:1902138ea0abe20c
+  - ref: ML-PUB-000025
     source_class: primary_artifact
     epistemic_status:
     - voice
@@ -1073,7 +1073,7 @@ events:
     prohibited_inference:
     - Déduire de la candidature seule son effet subjectif ou une causalité ultérieure.
   evidence:
-  - ref: Gmail:18e1f184daa7c61c
+  - ref: ML-PUB-000024
     source_class: primary_artifact
     epistemic_status:
     - trace
@@ -1153,7 +1153,7 @@ events:
     - Transformer la portée majeure rapportée par JHR en effet subjectif démontré.
     - Déduire du rejet une causalité du décès.
   evidence:
-  - ref: Gmail:18e1f184daa7c61c
+  - ref: ML-PUB-000024
     source_class: primary_artifact
     epistemic_status:
     - trace
