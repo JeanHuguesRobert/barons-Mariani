@@ -11,30 +11,31 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: mixed-primary-traces
   derived_from:
+    - "memory/marie-louise/sources/public.yml"
     - memory/marie-louise/works/frontieres_stop_motion_2016.md
     - memory/marie-louise/witnesses/README.md
     - memory/marie-louise/witnesses/research-2009-2016.md
-    - Gmail:152bbe471a57a3f0
-    - Gmail:152ea211bb1238f1
-    - Gmail:15314fd4f9780b99
-    - Gmail:15449b60315649e0
-    - Gmail:15623cc50810297a
-    - Gmail:15901e3906969ef1
-    - Gmail:15b16527bf97b95e
-    - Gmail:15bf942c756bea24
-    - Gmail:15bfb6c9f8e87642
-    - Gmail:15cc8324592da705
-    - Gmail:15cc97ca33457315
-    - Gmail:15cc9ab526f4f0f8
-    - Gmail:16012ff6ab50ad78
-    - Gmail:16737e68bc1918ab
-    - Gmail:16b31d816e8eb42d
-    - Gmail:16db9d63bdf3e80c
-    - Gmail:178ab8f3f69d09c4
-    - Gmail:178df4383f1868a0
-    - Gmail:17e7210907b43588
-    - Gmail:17e7808badd54b51
-    - Gmail:1922e3c9dd706501
+    - ML-PUB-000028
+    - ML-PUB-000029
+    - ML-PUB-000030
+    - ML-PUB-000004
+    - ML-PUB-000031
+    - ML-PUB-000005
+    - ML-PUB-000006
+    - ML-PUB-000007
+    - ML-PUB-000032
+    - ML-PUB-000036
+    - ML-PUB-000037
+    - ML-PUB-000038
+    - ML-PUB-000009
+    - ML-PUB-000012
+    - ML-PUB-000014
+    - ML-PUB-000040
+    - ML-PUB-000017
+    - ML-PUB-000018
+    - ML-PUB-000047
+    - ML-PUB-000019
+    - ML-PUB-000071
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_ref: main
   origin_date: unknown
@@ -88,13 +89,13 @@ Les sources déjà consolidées dans `works/frontieres_stop_motion_2016.md` éta
 
 ### Février 2016 — CV, lettre de motivation et animation
 
-Le 7 février 2016, Marie-Louise partage avec son père un Google Doc intitulé `cv` (Gmail:152bbe471a57a3f0 et messages associés).
+Le 7 février 2016, Marie-Louise partage avec son père un Google Doc intitulé `cv` (ML-PUB-000028 et messages associés).
 
-Le 16 février, elle partage un document intitulé `lettre de motivation` (Gmail:152ea211bb1238f1).
+Le 16 février, elle partage un document intitulé `lettre de motivation` (ML-PUB-000029).
 
 Les documents eux-mêmes n'ont pas été retrouvés dans le Drive connecté lors de la recherche de septembre 2026. Leur contenu et leur destinataire restent donc `UNKNOWN`.
 
-Une facture datée du **24 février 2016**, transmise par Marie-Louise et conservée dans Gmail:15314fd4f9780b99, porte sur des frais de dossier pour une formation intitulée exactement :
+Une facture datée du **24 février 2016**, transmise par Marie-Louise et conservée dans ML-PUB-000030, porte sur des frais de dossier pour une formation intitulée exactement :
 
 > **Concepteur et réalisateur de films d'animation**
 
@@ -102,7 +103,7 @@ La facture émane de la CCI Paris Île-de-France. La dénomination correspond à
 
 ### Avril 2016 — Beaux-Arts de Paris
 
-Le fichier `beauxarts.pdf`, conservé dans Gmail:15449b60315649e0, est le récépissé du **dossier artistique n° 193** pour l'admission en **première année aux Beaux-Arts de Paris**.
+Le fichier `beauxarts.pdf`, conservé dans ML-PUB-000004, est le récépissé du **dossier artistique n° 193** pour l'admission en **première année aux Beaux-Arts de Paris**.
 
 Le document prévoit :
 
@@ -122,13 +123,13 @@ KnowledgeGap principal : `gap:2016:beaux-arts-paris`.
 
 Le 25 juillet 2016, Marie-Louise transmet à son père un PDF intitulé `Dossier d'inscription CPES-.pdf`.
 
-Référence : Gmail:15623cc50810297a.
+Référence : ML-PUB-000031.
 
 Le dossier concerne la **CPES du lycée Georges-Clemenceau de Sartène**. Il doit être retourné **à l'attention de Mme Bonne** et indique une rentrée au **12 septembre 2016**.
 
 La formation présentée dans le dossier couvre notamment dessin d'observation, couleur, techniques graphiques, photographie, vidéo, cinéma, culture générale et histoire de l'art. Cette pluridisciplinarité est cohérente avec les candidatures et travaux artistiques du printemps 2016, sans permettre à elle seule d'établir un lien causal entre les différentes démarches.
 
-Un **certificat de scolarité** transmis ensuite par Marie-Louise et conservé dans Gmail:15901e3906969ef1 établit directement :
+Un **certificat de scolarité** transmis ensuite par Marie-Louise et conservé dans ML-PUB-000005 établit directement :
 
 - établissement : **lycée Georges-Clemenceau**, Sartène ;
 - académie : Corse ;
@@ -162,7 +163,7 @@ KnowledgeGap principal : `gap:2016-2017:cpes-network`.
 
 ### 2016–2017 — atelier Albertini, trace retrouvée en 2026
 
-Le 23 septembre 2026, **Jean-Joseph Albertini** indique avoir reçu Marie-Louise dans un atelier d’arts plastiques pendant l’année 2016–2017 et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape » (`Gmail:1a0cce1f2e6dfdc1`).
+Le 23 septembre 2026, **Jean-Joseph Albertini** indique avoir reçu Marie-Louise dans un atelier d’arts plastiques pendant l’année 2016–2017 et transmet trois photographies de sa proposition plastique sur le thème pédagogique « Étape par étape » (`ML-PUB-000027`).
 
 Cette source est un **témoignage direct postérieur + traces photographiques**, non une pièce administrative contemporaine. Elle établit l’existence d’une activité plastique et la présence de Marie-Louise dans cet atelier, mais le dispositif institutionnel exact reste à clarifier au regard du certificat CPES de Sartène.
 
@@ -174,7 +175,7 @@ Voir `../works/atelier_etape_par_etape_2016_2017.md` et le catalogue `MLR-000018
 
 Une notification YouTube établit que Marie-Louise d'Angelis publie la vidéo *photoromanJulie* le 28 mars 2017.
 
-Référence : Gmail:15b16527bf97b95e.
+Référence : ML-PUB-000006.
 
 La publication intervient pendant l'année de CPES. Aucun lien pédagogique explicite avec la formation n'est encore établi.
 
@@ -184,7 +185,7 @@ Voir `works/photoroman_julie_2017.md`.
 
 Le 11 mai 2017, Jean Hugues écrit à un tiers que Marie-Louise est « prise à Nantes ».
 
-Référence : Gmail:15bf942c756bea24.
+Référence : ML-PUB-000007.
 
 **Statut : THIRD-PARTY contemporain.**
 
@@ -196,11 +197,11 @@ En revanche, les traces postérieures établissent sans ambiguïté que le parco
 
 **Statut : TRACE de correspondance / THIRD-PARTY pour les récits / UNKNOWN pour les concours.**
 
-Le 21 juin 2017, Jean Hugues écrit que **Marie-Louise part pour Nantes** (Gmail:15cc8324592da705).
+Le 21 juin 2017, Jean Hugues écrit que **Marie-Louise part pour Nantes** (ML-PUB-000036).
 
-Dans le même fil, Ferdinand Pancrazi rapporte un conflit familial en Bretagne, un hébergement à Nantes chez **le père de son compagnon**, et l'idée qu'elle n'aurait alors plus été en mesure de passer le concours des Beaux-Arts de Paris (Gmail:15cc97ca33457315).
+Dans le même fil, Ferdinand Pancrazi rapporte un conflit familial en Bretagne, un hébergement à Nantes chez **le père de son compagnon**, et l'idée qu'elle n'aurait alors plus été en mesure de passer le concours des Beaux-Arts de Paris (ML-PUB-000037).
 
-Jean Hugues répond que Marie-Louise l'aurait informé **le 17 avril** et écrit que **Paris n'était pas une option** (Gmail:15cc9ab526f4f0f8).
+Jean Hugues répond que Marie-Louise l'aurait informé **le 17 avril** et écrit que **Paris n'était pas une option** (ML-PUB-000038).
 
 Ces récits contemporains ne doivent pas être fusionnés en fait unique. Une recherche Gmail ciblée autour du 17 avril et sur d'éventuels déplacements Bretagne/Nantes n'a retrouvé ni message direct de Marie-Louise ni réservation correspondante : **BOUNDED-NEGATIVE**.
 
@@ -219,7 +220,7 @@ Le message original est adressé à :
 - marie-louise.robert@beauxartsnantes.fr ;
 - marielouiserobert@gmail.com.
 
-Référence : Gmail:16012ff6ab50ad78.
+Référence : ML-PUB-000009.
 
 L'école indique alors que des frais de scolarité et de sécurité sociale ne sont pas encore réglés et avertit qu'en l'absence de régularisation Marie-Louise ne pourra pas conserver le statut étudiant ni passer les évaluations de janvier.
 
@@ -248,7 +249,7 @@ Une notification du **Dossier social étudiant 2018–2019**, transmise par Mari
 - formation : **Arts et architecture — 2ème année** ;
 - bourse sur critères sociaux Culture : **attribution conditionnelle, échelon 6**.
 
-Référence : Gmail:16737e68bc1918ab, pièce `Notification.pdf`.
+Référence : ML-PUB-000012, pièce `Notification.pdf`.
 
 Cette pièce établit que Nantes n'était pas seulement une admission annoncée en 2017 : le cursus y est documenté au moins jusqu'à la deuxième année.
 
@@ -256,7 +257,7 @@ Le **23 novembre 2018**, Marie-Louise indique être temporairement hébergée à
 
 Le **7 juin 2019**, Marie-Louise indique vivre avec deux de ses camarades, **Camille** et **Juliette**. Les recherches Gmail établissent ces prénoms et leur statut de camarades/cohabitantes, mais pas à elles seules les patronymes actuellement proposés dans d'autres documents du Corpus.
 
-Le **11 octobre 2019**, le propriétaire **Jacques Laroche** écrit après un échange avec Marie-Louise à propos de « votre amie », que Marie-Louise a le droit d'héberger dans le logement sans que cette amie y ait son domicile officiel (Gmail:16db9d63bdf3e80c). L'identité de cette amie reste `UNKNOWN` : elle ne doit pas être fusionnée sans preuve avec Alice, Juliette ou une autre personne.
+Le **11 octobre 2019**, le propriétaire **Jacques Laroche** écrit après un échange avec Marie-Louise à propos de « votre amie », que Marie-Louise a le droit d'héberger dans le logement sans que cette amie y ait son domicile officiel (ML-PUB-000040). L'identité de cette amie reste `UNKNOWN` : elle ne doit pas être fusionnée sans preuve avec Alice, Juliette ou une autre personne.
 
 Ces traces transforment le logement nantais en source de réseau : camarades, hébergement, propriétaire et personnes accueillies constituent autant de témoins ou pistes potentielles.
 
@@ -266,7 +267,7 @@ Ces traces transforment le logement nantais en source de réseau : camarades, h�
 
 Une attestation d'embauche établie le **14 avril 2021** par l'artiste plasticien **Hugues Absil** identifie Marie-Louise comme « étudiante à l'école nationale des Beaux-Arts de Nantes » et documente une **résidence artistique pour un tournage du 17 au 26 avril 2021 à Saint-Laurent-le-Minier**.
 
-Référence : Gmail:178df4383f1868a0, pièce `attestation.pdf`.
+Référence : ML-PUB-000018, pièce `attestation.pdf`.
 
 Marie-Louise transmet l'attestation le 17 avril. Jean Hugues indique alors qu'elle a été « fournie par Anna ». **Anna** doit donc être conservée comme intermédiaire/piste distincte ; son identité complète et son rôle exact restent `UNKNOWN`.
 
@@ -282,7 +283,7 @@ Le calendrier de Jean Hugues contient un rendez-vous intitulé :
 
 le **8 avril 2021 de 11 h à 12 h**.
 
-La notification correspondante est conservée dans Gmail:178ab8f3f69d09c4.
+La notification correspondante est conservée dans ML-PUB-000017.
 
 Cette trace précède de six jours l'attestation qui qualifie encore Marie-Louise d'étudiante à Nantes.
 
@@ -296,9 +297,9 @@ Il serait donc incorrect de l'utiliser seule comme preuve d'admission.
 
 En janvier 2022, Marie-Louise échange directement avec un gestionnaire de logement à Nice, visite des chambres, choisit une chambre et demande à pouvoir en prendre possession rapidement.
 
-Le **19 janvier 2022**, **Wylliam Dell'Anno** lui transmet directement un contrat de résidence temporaire. Le lendemain, Marie-Louise le transfère à son père (Gmail:17e7808badd54b51). Le document concerne une chambre identifiée `CH04` dans un immeuble à Nice, avec cuisine, salle d'eau et salle commune partagées. Il s'agit d'un dispositif de résidence temporaire dans un immeuble vacant, et non d'un bail d'habitation classique.
+Le **19 janvier 2022**, **Wylliam Dell'Anno** lui transmet directement un contrat de résidence temporaire. Le lendemain, Marie-Louise le transfère à son père (ML-PUB-000019). Le document concerne une chambre identifiée `CH04` dans un immeuble à Nice, avec cuisine, salle d'eau et salle commune partagées. Il s'agit d'un dispositif de résidence temporaire dans un immeuble vacant, et non d'un bail d'habitation classique.
 
-Le même jour, un message de **Sören Maubert / Garantme** indique à Jean Hugues qu'il est le « référent de confiance » de Marie-Louise pour sa garantie et son logement (Gmail:17e7210907b43588).
+Le même jour, un message de **Sören Maubert / Garantme** indique à Jean Hugues qu'il est le « référent de confiance » de Marie-Louise pour sa garantie et son logement (ML-PUB-000047).
 
 Ces deux interlocuteurs sont des témoins institutionnels potentiels de l'installation niçoise. Le dispositif implique par ailleurs l'existence d'autres résidents temporaires, dont les identités ne sont pas retrouvées dans Gmail à ce stade.
 
@@ -310,7 +311,7 @@ Marie-Louise indique dans les échanges liés au logement bénéficier d'une bou
 
 Un mail rétrospectif de Jean Hugues daté du 26 septembre 2024 affirme que Marie-Louise avait poursuivi ses études aux Beaux-Arts de Nantes avant de réussir le concours d'entrée à la Villa Arson.
 
-Référence : Gmail:1922e3c9dd706501.
+Référence : ML-PUB-000071.
 
 **Statut : affirmation rétrospective du père, cohérente avec les traces 2021–2022 mais non équivalente à une décision institutionnelle primaire.**
 
