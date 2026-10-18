@@ -82,6 +82,7 @@ chapters_note: >
   This list is still reversible before editorial close and freeze.
 
 annexes_candidates:
+  - ../manuscript/annexes-n4/00-index-verification.md
   - ../manuscript/annexes-n4/00-provenance-privee-alias-publics.md
 
 outputs:
