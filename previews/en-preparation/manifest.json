@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-17T19:52:06.826325+00:00",
-  "git_sha": "44ca61a36c6509f2af27b1d01320ac286e3a8584",
+  "built_at_utc": "2026-10-18T11:06:54.275572+00:00",
+  "git_sha": "b64ee37de9c8031244cc07848239365a8f4f4f14",
   "books": [
     {
       "id": "capable",
@@ -28,7 +28,7 @@
       "inputs": [
         {
           "path": "projects/suicide-corse/editions/2026-10-09-n4-en-preparation.md",
-          "sha256": "e866774c7d4ae96ba3ecd9b553eacac24e058d8e5e8b211d9b8925e02715681b"
+          "sha256": "eb6035625256e2f2487b44a9aa009af7ff1324c97a3db10fc39aa2805325a1d7"
         }
       ]
     },
