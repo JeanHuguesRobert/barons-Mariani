@@ -82,6 +82,26 @@ Le [registre public des interactions](https://github.com/JeanHuguesRobert/JeanHu
 - Si tous les travaux étaient taxés à 20 %, le plafond **7,6 M€ HT** représenterait **9,12 M€ TTC** avant prise en compte des règles effectives de TVA et de compensation ; ce n'est pas le reste à charge communal.
 - Comptes communaux 2025 repris dans l'enquête : fonctionnement ≈ **11,20 M€**, épargne brute ≈ **1,98 M€**, équipement ≈ **4,14 M€**, dette ≈ **1,82 M€**. **À recontrôler sur les comptes DGFiP/OFGL**, en distinguant budget principal, annexes, équipement et investissement total. Ne pas transformer les ratios calculés en mesure de solvabilité.
 
+
+## Pièce primaire ajoutée le 18 octobre 2026 — délibération 26-09/141 (Logirem-Restonica)
+
+**Provenance :** PDF de quatre pages fourni directement par le chercheur, déclaré téléchargé sur la [page officielle des délibérations de Corte](https://mairie-corte.fr/Deliberations_page_350_1,725.htm). L'adresse directe du PDF n'a pas été récupérée ; la transcription ci-dessous est une **fiche de lecture du document transmis**, non une copie publique du fichier binaire. À compléter par URL PDF canonique et archivage du binaire.
+
+**Acte :** délibération municipale **26-09/141**, séance du **21 septembre 2026**, publiée le **24 septembre 2026** selon le cachet sur la première page, accusé de réception en préfecture du 23 septembre. Objet : retrait de la délibération **26-06/106** du 22 juin 2026 et approbation d'un nouvel allotissement des travaux d'aménagement de **Logirem-Restonica**, distinct du marché de requalification du centre ancien.
+
+**Page 2 :** la commune indique expressément qu'aucune procédure de passation ni aucun marché n'avait été engagé au titre de la décision retirée. Raisons du nouvel allotissement : réunir les prestations interdépendantes de terrassement, revêtement, VRD et éclairage ; distinguer le mobilier/serrurerie et les plantations. **Page 3 :** délibération adoptée **à l'unanimité des présents et représentés** :
+
+| Lot Logirem-Restonica | Estimation HT |
+|---|---:|
+| 1 — Terrassement, revêtement, VRD, éclairage | 1 175 000 € |
+| 2 — Mobilier, serrurerie | 189 000 € |
+| 3 — Plantations | 440 000 € |
+| **Total estimatif** | **1 804 000 €** |
+
+L'acte autorise un nouvel appel d'offres ouvert et la signature des marchés après les formalités prévues ; les crédits nécessaires seront inscrits aux budgets des exercices concernés. **Ce document n'atteste pas l'attribution ni le paiement de 1,804 M€**. Les enveloppes de Logirem-Restonica et du centre ancien ne doivent pas être fusionnées sans contrôle de leurs périmètres.
+
+**Limite :** ce n'est **pas** la délibération **26-06/092**, portant sur la substitution de crédits FEDER. La recherche de cet acte reste ouverte. Le [portail municipal des délibérations](https://mairie-corte.fr/Deliberations_page_350_1,725.htm) est identifié comme point de départ, mais son exploration automatisée a échoué lors de la présente séance.
+
 ## Pièces prioritaires
 
 1. **DCM 26-06/092 intégrale** et ses annexes : causes, montant et scénario de substitution.
