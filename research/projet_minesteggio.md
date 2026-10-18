@@ -117,9 +117,10 @@ La Corse est un **carrefour impérial** :
 
 ### **2.4. Les Gaffory de Corte**
 
-- **Jean-Pierre Gafforio** (1744–1796) : Chef de la rébellion corse contre Gênes.
-- **François Antoine Gafforj** : Fils de Jean-Pierre, parrain de Joseph Bonaparte à Corte.
-- **Alliance avec les Arrighi** : Maria Biadelli, épouse de Giovan Tomaso Arrighi, est présente lors du baptême de Joseph Bonaparte.
+- **Jean-Pierre Gaffori / Gafforio / Gafforj** (mort en 1753 ; naissance donnée en 1704 ou 1710 suivant les sources) : médecin et chef de la résistance corse à Gênes. **Correctif :** les dates 1744–1796 indiquées auparavant appartenaient à son fils, et non à lui.
+- **François Antoine Gaffori / Gafforj** (né vers 1744, mort en 1796) : fils de Jean-Pierre, officier au service de la France. **Meurgey (1933), p. 11**, indique que « le maréchal de camp Gaffori et Mme Gaffori, son épouse » furent les parrains d'Antoine-Dominique Mariani (né en 1776 à Muracciole). L'identification nominative avec François Antoine et Marie-Apollonie Sansonetti est **probable, non explicitement donnée par cette page** et reste à confronter à l'acte de baptême.
+- **Baptême de Joseph Bonaparte à Corte (1768)** : l'ancienne formulation présentant François Antoine Gafforj comme son parrain **n'est pas retenue**. Les sources secondaires examinées désignent le couple Arrighi–Biadelli comme parrain et marraine et un abbé François Antoine Gaffori comme officiant. Identité exacte de cet abbé et lecture de l'acte primaire à vérifier ; ne pas fusionner automatiquement les homonymes.
+- **Alliances répétées** : Meurgey p. 8 donne le mariage d'Hyacinthe Mariani avec Louise Gaffori ; ses p. 9 et suivantes, encore en relevé provisoire, signalent d'autres alliances Filippini–Gaffori. Voir le dossier critique [Gaffori–Mariani–Capucins](../musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
 
 **Référence** :
 - [Blog Patrick Germain – Généalogie corse](http://blogpatrickgermain.blogspot.com/2017/09/une-genealogie-corse-ancetres-et.html) : « Alliances : Castelli (vers 1705) / de Buttafuoco (1780) / Arrighi de Casanova (1732) / ... Parentés : Mariani, Gavi Mancini, Boerio, Gafforj. »
@@ -175,7 +176,7 @@ Antoine Dominique Mariani (1776–1845 selon les sources actuellement retenues)
 |---------|------|-----------------|--------|
 | Arrighi de Casanova | Par mariage (Marie Madeleine Arrighi de Casanova) | Duc de Padoue, général d’Empire, préfet | Meurgey (1933), Wikipédia, Geneanet |
 | Bonaparte | Alliances indirectes (via les Arrighi et les Gaffory) | Empereur, Joseph Bonaparte né à Corte | Wikipédia, Armorial de Corse |
-| Gaffory (Gafforj) | Parrainage de Joseph Bonaparte | Résistance contre Gênes, intégration aux réseaux bonapartistes | Blog Patrick Germain, Geneanet |
+| Gaffori (Gafforj) | Parrainage d'Antoine-Dominique Mariani attesté comme assertion chez Meurgey (1933), p. 11 ; parenté antérieure non détaillée | Jean-Pierre : résistance à Gênes ; François Antoine : carrière militaire française | Meurgey p. 11 ; [enquête critique](../musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md) |
 | Dard d’Espinay | Mariage de Louise Claire Dard d’Espinay (1797–1876) | Famille de généraux d’Empire | Geneanet |
 
 **Référence** :
