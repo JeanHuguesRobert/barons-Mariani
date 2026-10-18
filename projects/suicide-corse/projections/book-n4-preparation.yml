@@ -83,6 +83,7 @@ chapters:
   - ../manuscript/magazine-n4/05-autonomie-et-effectivite.md
 
 annexes_candidates:
+  - ../manuscript/annexes-n4/00-index-verification.md
   - ../manuscript/annexes-n4/00-provenance-privee-alias-publics.md
 
 outputs:
