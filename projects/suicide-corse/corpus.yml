@@ -3,7 +3,7 @@ project: "Suicide Corse"
 status: working
 language: fr
 visibility: public
-updated: "2026-09-30"
+updated: "2026-10-18"
 source_of_truth: "repository corpus files and materially relevant issue traces; this manifest references them and does not replace them"
 
 architecture:
@@ -352,11 +352,18 @@ sources:
     required: false
     note: "Keeps scrutiny analysis, electoral petition, pre/post-election amendment versions and QPC research aligned without merging their procedures."
 
-  - id: senatoriales-2026-constitutional-petition-current
+  - id: senatoriales-2026-constitutional-petition-filed
     path: research/senatoriales-2026/requete-conseil-constitutionnel.md
-    role: canonical-legal-draft
-    required: false
-    note: "Canonical current petition path. Version is carried in frontmatter and may evolve until effective filing; current state as of 2026-10-07 is v0.30, pre-filing and not filed. Do not infer filing without a separate receipt trace."
+    role: canonical-filed-legal-brief
+    required: true
+    note: "Canonical textual reference for the petition received by the Conseil constitutionnel on 2026-10-07 and registered as case 2026-6589 SEN. The filing/registration state is established by the separate continuation/receipt record; do not silently rewrite the substantive filed content without a distinct post-filing procedural basis."
+
+  - id: senatoriales-2026-cc-registration-2026-6589-sen
+    path: research/senatoriales-2026/reprise-2026-10-08.md
+    role: filing-and-registration-receipt-record
+    required: true
+    note: "Records that the Conseil constitutionnel received the petition on 2026-10-07 and registered it as 2026-6589 SEN; use this source for filing/registration state rather than inferring that state from the petition text itself."
+
 
   - id: senatoriales-2026-constitutional-petition-v0-2
     path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.2.md
@@ -364,11 +371,11 @@ sources:
     required: false
     note: "Historical early working draft retained for provenance. It is not the current petition."
 
-  - id: senatoriales-2026-constitutional-petition-current
+  - id: senatoriales-2026-constitutional-petition-v0-15
     path: research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.15.md
-    role: current-pre-filing-legal-draft
+    role: historical-pre-filing-legal-draft
     required: false
-    note: "Current public pre-filing draft as of 2026-10-06; not filed unless and until a separate filing trace establishes submission."
+    note: "Historical pre-filing draft retained for provenance. Superseded by the canonical petition later received on 2026-10-07 and registered as 2026-6589 SEN."
 
   - id: senatoriales-2026-remedies-repetition-strategy
     path: research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md
