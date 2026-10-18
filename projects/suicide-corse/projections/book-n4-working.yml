@@ -40,6 +40,8 @@ construction:
     - "Keep contradictions and negative results visible."
     - "Silence is not evidence of absence."
     - "Do not invent pieces the 1 October constat does not document."
+    - "The petition was received on 2026-10-07 and registered as 2026-6589 SEN; do not describe the case as pre-filing."
+    - "Do not reopen the substantive filed petition without a new procedural fact or explicit post-filing basis."
 
 editorial_plan:
   state: open
@@ -59,7 +61,8 @@ campaign_references:
   ta_matrix: ../../../research/senatoriales-2026/matrice-reponses-ta-d1-d10-2026-10-02.md
   prefecture_email: ../../../research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
   ta_email: ../../../research/senatoriales-2026/investigation/sources/courriel-greffe-ta-demandes-numerotees-2026-10-02.md
-  petition_draft: ../../../research/senatoriales-2026/requete-conseil-constitutionnel-projet-v0.4.md
+  petition_filed: ../../../research/senatoriales-2026/requete-conseil-constitutionnel.md
+  filing_registration_record: ../../../research/senatoriales-2026/reprise-2026-10-08.md
   consultation_constat: ../../../research/senatoriales-2026/investigation/constat-consultation-2026-10-01-rp-sen-08-c.md
   living_view: ../suivi.md
   forensic_note: ../../../research/senatoriales-2026/investigation/forensic-provenance-requete-prefectorale-2026-10-02.md
