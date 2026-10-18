@@ -12,7 +12,7 @@ lifecycle_state: working
 source_documents:
   - "../../../research/autonomia/observatoire_processus_autonomie_corse.md"
   - "../../../research/autonomia/amendement_effectivite_article_72-5.md"
-  - "../../../research/autonomia/reponses-questionnaire-muriel-jourda-2026-10-15.md"
+  - "../../../research/autonomia/reponses_questionnaire_Jourda_CORSICA_2026-10-15.md"
 ---
 
 # Autonomie : de la compétence à l'effectivité
