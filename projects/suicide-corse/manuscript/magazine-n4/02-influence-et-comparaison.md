@@ -2,6 +2,7 @@
 title: "Deux analyses, pas une prédiction"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-04"
+last_modified_at: "2026-10-18"
 status: preparation
 language: fr
 license: CC BY-SA 4.0
@@ -53,11 +54,3 @@ La formule corse **« acqua in bocca »** résume ici une discipline d'enquête 
 Une annexe spécifique ajoute les déclarations et commentaires contemporains qui permettent de tester cette idée. Elle conserve aussi les formulations adverses — « sans surprise », « largement réélu » — parce qu'elles décrivent honnêtement le duel observé. La question contentieuse reste différente : ces commentaires ne mesurent pas le scrutin à trois offres qui n'a pas eu lieu.
 
 Avant le vote, Alta Frequenza rapportait déjà que des grands électeurs, *sotto voce*, envisageaient de voter Battini plutôt que blanc. Après le vote, le même média souligne le contraste entre cinq grands électeurs institutionnellement lisibles et 88 voix. Ce double temps renforce le point méthodologique : la carte publique n'est pas le vote.
-
-## Une trace publique du 5 octobre
-
-La photographie du bulletin « (Elections Sénatoriales 2027) BARON MARIANI » a été reprise par Jean Hugues Robert dans une publication Facebook publique consacrée à la préparation de sa requête au Conseil constitutionnel.
-
-Le n°4 enregistre cette publication comme **trace publique de la Campagne du Réel**, sans transformer son ton ironique en preuve juridique et sans figer un texte Facebook encore modifiable.
-
-Source : `research/senatoriales-2026/investigation/sources/facebook-publication-bulletin-baron-mariani-2026-10-05.md`.
