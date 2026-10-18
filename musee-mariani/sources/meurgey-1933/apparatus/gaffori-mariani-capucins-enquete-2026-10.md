@@ -38,7 +38,7 @@ provenance:
 
 ## Corrections nécessaires ou déjà appliquées
 
-- **Corrigé dans [projet_minesteggio.md](../../../research/projet_minesteggio.md)** : confusion des dates 1744–1796 avec celles de Jean-Pierre Gaffori, alors qu'elles se rapportent à son fils François Antoine.
+- **Corrigé dans [projet_minesteggio.md](../../../../research/projet_minesteggio.md)** : confusion des dates 1744–1796 avec celles de Jean-Pierre Gaffori, alors qu'elles se rapportent à son fils François Antoine.
 - **Corrigé dans le même document** : « François Antoine, parrain de Joseph Bonaparte » n'est plus affirmé. Les parrains sont attribués au couple Arrighi–Biadelli dans les références secondaires consultées ; un ecclésiastique Gaffori est présenté comme officiant. La source primaire reste à contrôler.
 - **À corriger après vérification** : dates de naissance et de mort exactes des deux Gaffori, filiation de Louise, identité de « Mme Gaffori » en 1776 et généalogies Filippini–Gaffori. Ne jamais promouvoir une source secondaire recopiée au rang de confirmations indépendantes.
 - **Point positif majeur** : la présence de la formule du parrainage est maintenant contrôlée visuellement dans l'édition de 1933, et n'est plus une simple hypothèse fondée sur Wikipédia.
