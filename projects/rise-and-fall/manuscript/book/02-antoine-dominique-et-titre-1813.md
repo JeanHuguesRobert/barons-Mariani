@@ -61,3 +61,12 @@ La seconde Restauration brise sa carrière préfectorale nationale, mais ne parv
 - **Louis-Hugues Mariani** (1815/1818–1886/1890), qui assurera les continuités notariales et patrimoniales.
 
 À sa mort le 8 décembre 1845, à la veille de la révolution de 1848, Antoine Dominique laisse à ses héritiers un nom prestigieux, un titre enraciné dans l'épopée bonapartiste, et un domaine territorial de premier ordre. La table est dressée pour le grand retour au pouvoir sous le Second Empire.
+
+
+## Note critique — Le baptême de 1776 et les Gaffori
+
+La notice biographique d'Antoine-Dominique Mariani reproduite par Jacques Meurgey (*Les Barons Mariani et leurs alliances*, 1933, p. 11) indique que ses parrains furent « le maréchal de camp Gaffori et Mme Gaffori, son épouse ». Elle précise que les deux familles étaient déjà apparentées. Ce **témoignage familial imprimé**, attribué à Louis Mariani, fils d'Antoine-Dominique, est désormais contrôlé sur une photographie du volume. Il ne se confond pas avec un acte paroissial original.
+
+L'identification du parrain avec **François Antoine Gaffori**, fils du général révolutionnaire Jean-Pierre Gaffori, est forte au regard de la chronologie, mais le prénom n'est pas imprimé à cet endroit. L'identification de son épouse avec Marie Apollonie Sansonetti reste secondaire. Le baptême de Muracciole en septembre 1776, ainsi que la parenté antérieure, restent à établir par actes. Ce parrainage éclaire un réseau de relations entre familles cortenaises, **sans impliquer une identité constante d'engagements politiques**.
+
+Source, précautions et suivi : [enquête critique Gaffori–Mariani–Capucins](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
