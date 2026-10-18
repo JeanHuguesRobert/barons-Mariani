@@ -2,6 +2,7 @@
 title: "Numéro 4 — en préparation"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-04"
+last_modified_at: "2026-10-18"
 status: preparation
 language: fr
 license: CC BY-SA 4.0
@@ -21,4 +22,4 @@ Le Livre durable n'est pas recomposé dans cette préparation. Le sommaire défi
 
 Les pièces et les niveaux de preuve restent dans le Corpus. La page de suivi, `projects/suicide-corse/suivi.md`, enregistre les mouvements ultérieurs. Elle n'est pas cette édition.
 
-Le brouillon de requête au Conseil constitutionnel n'est pas déposé. Son texte n'est pas recopié ici.
+La requête au Conseil constitutionnel a été reçue le **7 octobre 2026** et enregistrée sous la référence **2026-6589 SEN**. Son texte déposé n'est pas recopié ici : le Magazine suit désormais l'instruction et les nouvelles réponses du Réel, sans transformer la requête déposée en brouillon éditorial mutable.
