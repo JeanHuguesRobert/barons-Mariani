@@ -82,6 +82,9 @@ chapters:
   - ../manuscript/magazine-n4/04-du-depot-a-l-instruction.md
   - ../manuscript/magazine-n4/05-autonomie-et-effectivite.md
 
+annexes_candidates:
+  - ../manuscript/annexes-n4/00-provenance-privee-alias-publics.md
+
 outputs:
   required: [html, pdf, epub]
   optional: []
