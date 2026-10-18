@@ -398,3 +398,10 @@ Si une forte surreprésentation est établie dans plusieurs appareils indépenda
 > **quelles capacités distribuées de la Corse existent déjà dans le monde sans avoir encore été cartographiées comme telles ?**
 
 C'est là que l'annuaire rejoint le Livre Vivant : révéler d'abord, stabiliser ensuite.
+
+
+### Complément microhistorique — Les alliances ne prouvent pas une solidarité politique
+
+Le dépouillement de Meurgey (1933, p. 2, 4, 8, 11 et relevés provisoires des pages suivantes) documente plusieurs relations Mariani–Gaffori : acte baptismal ancien cité, mariage d'Hyacinthe Mariani avec Louise Gaffori et parrainage du premier baron Mariani par un « maréchal de camp Gaffori » et son épouse. Les alliances Filippini–Gaffori repérées dans la suite de l'ouvrage restent à collationner sur les images. Ces relations construisent un **objet d'enquête prosopographique**, non une preuve automatique de solidarité, de coordination ou de continuité politique entre les générations.
+
+Le contraste entre parentés, carrières publiques et rivalités locales rapportées dans la même source permet précisément de tester les mécanismes de continuité et de désynchronisation des réseaux familiaux. Les identifications des homonymes et les filiations non fermées doivent rester distinctes. [Dossier critique et niveaux de preuve](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
