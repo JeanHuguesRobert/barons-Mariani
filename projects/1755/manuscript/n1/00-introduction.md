@@ -47,3 +47,10 @@ L'examen attentif du texte constitutionnel de 1755 et des institutions mises en 
 Enfin, ce Livre Vivant apporte un éclairage fondamental hérité du chantier jumeau **Commons** : la révolution paolienne de 1755 n'a pas été conçue dans le confort intellectuel abstrait d'un salon parisien ou londonien. Elle a été portée, votée et défendue par des paysans et des bergers pour préserver leur subsistance collective.
 
 En garantissant les communaux de la *Terra di Comune* contre la captation des grands propriétaires terriens et la rapacité des collecteurs génois, la Constitution de 1755 a ancré la démocratie politique dans la justice économique des biens communs.
+
+
+## Repère historiographique — Gaffori avant Paoli
+
+La séquence constitutionnelle de 1755 ne doit pas effacer la phase révolutionnaire antérieure. **Jean-Pierre Gaffori**, médecin et dirigeant de la résistance contre Gênes, mort en 1753, appartient à cette histoire préalable ; **François Antoine Gaffori**, son fils, relève d'une autre génération et d'un parcours politique différent. Les sources consultées divergent sur certaines dates précises de Jean-Pierre : elles ne sont pas stabilisées ici.
+
+Ce repère n'établit aucune filiation doctrinale automatique entre le commandement de Gaffori et les institutions paoliennes. Il appelle au contraire une lecture chronologique distinguant institutions, personnes, changements d'allégeance et mémoire ultérieure. Voir [l'enquête critique Gaffori–Mariani–Capucins](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md) pour les distinctions prosopographiques et les sources.
