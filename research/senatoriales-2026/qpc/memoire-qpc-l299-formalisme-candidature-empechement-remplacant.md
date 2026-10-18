@@ -145,3 +145,17 @@ Le requérant demande au Conseil constitutionnel :
 2. de constater qu'elle présente un caractère sérieux ;
 3. de juger que l'article L.299 ne saurait, sans porter une atteinte disproportionnée au droit d'éligibilité, être interprété comme interdisant qu'un tiers accomplisse matériellement la signature ou la mention manuscrite à la demande d'un remplaçant qu'un handicap permanent ou provisoire empêche de le faire lui-même, dès lors que son identité et son consentement éclairé sont établis ;
 4. subsidiairement, de tirer toute autre conséquence constitutionnelle qu'il estimera nécessaire de l'absence d'une adaptation compatible avec ces exigences.
+
+## Annexe de clarification probatoire — continuité des griefs et perspective conventionnelle (18 octobre 2026)
+
+**Portée.** La présente clarification développe uniquement les griefs relatifs aux conditions de candidature et à leur application à la remplaçante, déjà formulés dans la requête du 7 octobre 2026. Elle ne crée pas de nouveau grief électoral.
+
+**Objet propre de cette QPC.** L.299 exige une acceptation écrite, une signature et une mention manuscrite du remplaçant. Cette question ne concerne pas la fermeture des recours contre le jugement du TA, gouvernée par L.303. La finalité légitime de la règle est l'identité et le consentement ; le grief constitutionnel porte sur l'absence éventuelle d'adaptation de la modalité matérielle lorsque l'empêchement lié au handicap est établi et qu'une solution probatoire équivalente est possible.
+
+**Distinguer les trois questions de preuve.** (1) Le consentement effectif et éclairé de Mme Vernerey ; (2) l'accomplissement juridiquement régulier des formalités spéciales ; (3) l'intégrité, la datation et la réception des éléments numériques. Les courriels P-43.a/P-43.b, la vidéo P-13 et les traces d'envoi contribuent à (1) et éventuellement (3), mais ne satisfont pas automatiquement à (2). Un SHA-256 atteste l'identité des octets comparés, non à lui seul l'auteur, la date de création, la sincérité du consentement ou la réception par la préfecture. L'historique Google Drive est un élément à documenter, non une garantie juridique générale et absolue.
+
+**Distinction handicap et support électronique.** La jurisprudence du Conseil d'État du 14 mai 2021 concerne l'accomplissement matériel par un tiers à la demande d'une personne empêchée. Elle ne consacre pas, par elle-même, une équivalence générale entre un lien vidéo et la déclaration prévue par L.299. Il faut prouver le lien concret entre handicap, geste empêché, demande d'assistance et modalités effectivement proposées.
+
+**Préservation CEDH.** Le grief de l'intéressé relève potentiellement de l'article 3 du Protocole n° 1 (droit de se porter candidat) ; l'article 14 combiné avec celui-ci exige une démonstration distincte de discrimination et de qualité de victime. Les droits personnels de Mme Vernerey ne sont pas automatiquement épuisés par les démarches du candidat principal.
+
+**Contre-arguments à instruire.** La sécurité électorale et la prévention de la fraude peuvent justifier des formalités strictes ; les pièces numériques peuvent établir le consentement sans régulariser le formalisme légal ; l'obstacle pourrait provenir de l'application de L.299 plutôt que de la loi elle-même. Une éventuelle réserve d'interprétation ne doit pas être présumée acquise.
