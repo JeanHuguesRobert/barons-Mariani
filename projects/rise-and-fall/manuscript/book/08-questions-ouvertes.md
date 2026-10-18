@@ -60,3 +60,14 @@ Chacune de ces questions ouvertes appelle des compétences croisées : historien
 
 Les modalités de contribution, soit publiquement sur notre dépôt de travail Git, soit confidentiellement par courriel, sont détaillées sur la page dédiée :  
 👉 **[Participer et contribuer à l'enquête](https://riseandfall.baronsmariani.org/contribuer.html)**
+
+
+---
+
+## Chantier supplémentaire : Gaffori, parrainages et Capucins de Corte
+
+**Trois vérifications distinctes** prolongent le dépouillement de Meurgey (1933) : (1) retrouver l'acte de baptême d'Antoine-Dominique Mariani à Muracciole, en septembre 1776, et identifier nommément le général Gaffori et son épouse ; (2) reconstituer les alliances Mariani–Gaffori et identifier l'avocat Gaffori actif dans les rivalités du XIXe siècle sans confondre les homonymes ; (3) retracer la propriété et les usages funéraires de l'ancien couvent des Capucins, notamment la vente rapportée du 28 février 1845. Les mentions de sépultures en pages 13 et 17 de Meurgey restent à collationner ; elles ne prouvent pas la localisation actuelle des restes.
+
+Les photographies de l'exemplaire familial sont déjà présentes dans *Pièces Mariani DRAC*, mais la transcription des pages 9–17 est incomplète et la page 14 reste à localiser. Il convient **d'épuiser cette source accessible avant de solliciter de nouvelles copies**.
+
+Registre probatoire et sources : [enquête critique Gaffori–Mariani–Capucins](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
