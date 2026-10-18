@@ -79,6 +79,8 @@ chapters:
   - ../manuscript/magazine-n4/01-rendez-vous-1er-octobre.md
   - ../manuscript/magazine-n4/02-influence-et-comparaison.md
   - ../manuscript/magazine-n4/03-ce-qui-reste-ouvert.md
+  - ../manuscript/magazine-n4/04-du-depot-a-l-instruction.md
+  - ../manuscript/magazine-n4/05-autonomie-et-effectivite.md
 
 outputs:
   required: [html, pdf, epub]
