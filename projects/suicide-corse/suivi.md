@@ -29,11 +29,22 @@ review:
 
 # Suivi du numéro 4
 
-## 7 octobre 2026 — v0.30 canonique et effectivité opérationnelle
+## 8 octobre 2026 — requête reçue et enregistrée : 2026-6589 SEN
 
-La requête courante est désormais la **v0.30**, portée par le chemin stable [research/senatoriales-2026/requete-conseil-constitutionnel.md](../../research/senatoriales-2026/requete-conseil-constitutionnel.md). Son statut reste **non déposé** tant qu'aucune preuve effective de remise ou d'enregistrement n'est acquise.
+La requête a été **reçue par le Conseil constitutionnel le 7 octobre 2026** et enregistrée sous la référence **2026-6589 SEN**. La notification du greffe est datée de 18:19:57 CEST. La source d'état est la [note de reprise du 8 octobre](../../research/senatoriales-2026/reprise-2026-10-08.md).
 
-Le n°4 abandonne donc le suivi par noms de fichiers versionnés pour cette source et suit désormais le **chemin canonique + version de frontmatter**. Le paquet de dépôt, les QPC distinctes L.299/L.303 et le workflow de REVIEW ont été resynchronisés sur cette architecture.
+Le chemin [research/senatoriales-2026/requete-conseil-constitutionnel.md](../../research/senatoriales-2026/requete-conseil-constitutionnel.md) reste la référence textuelle canonique du contenu déposé. Il ne doit plus être traité comme un brouillon courant à faire évoluer librement : les nouveaux faits relèvent désormais du **suivi d'instruction**, des productions complémentaires permises et des projections éditoriales ultérieures.
+
+Le n°4 change donc de régime :
+
+~~~text
+pré-dépôt
+→ dépôt reçu
+→ enregistrement 2026-6589 SEN
+→ instruction / nouvelles réponses du Réel
+~~~
+
+Les blocs datés antérieurs qui indiquent « non déposé » sont conservés comme traces historiques exactes de l'état qu'ils décrivaient.
 
 Cette convergence affine aussi le concept d'effectivité employé par *Suicide Corse* :
 
