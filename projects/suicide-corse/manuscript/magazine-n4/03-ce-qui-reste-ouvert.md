@@ -27,29 +27,17 @@ Plusieurs inconnues subsistent. Les **39 autres bulletins nuls** ne sont pas exh
 
 Ces inconnues ne rouvrent pas automatiquement la requête déposée. Elles restent des objets d'instruction, de preuve ou de recherche selon le canal juridiquement disponible.
 
-## L'architecture des recours reste ouverte, mais elle est désormais séparée
+## Plusieurs voies, sans les confondre
 
-La stratégie n°4 distingue maintenant quatre étages qui ne doivent pas être confondus : **contentieux électoral devant le Conseil constitutionnel**, **QPC distinctes si leurs conditions propres sont réunies**, **mobilisation du Défenseur des droits**, puis, après fermeture des voies internes pertinentes, **éventuelle saisine de la CEDH sur un grief conventionnel propre**.
+Le dossier conserve plusieurs suites possibles : **contentieux électoral devant le Conseil constitutionnel**, **QPC distinctes si leurs conditions propres sont réunies**, **Défenseur des droits**, puis éventuellement **CEDH** après fermeture des voies internes pertinentes.
 
-La CEDH n'est pas présentée comme une cour d'appel du Conseil constitutionnel. La série **2017 / 2024 / 2026** est conservée comme contexte de répétition et test d'effectivité ; elle ne rouvre pas artificiellement un délai européen expiré.
+Elles ne forment pas une procédure unique et ne se déclenchent pas automatiquement les unes les autres. La série **2017 / 2024 / 2026** peut éclairer une répétition ou un problème d'effectivité ; elle ne rouvre pas, à elle seule, des délais expirés.
 
-Cette architecture est symétrique : si la décision définitive du Conseil est défavorable à Jean Hugues Robert, celui-ci devra satisfaire pour lui-même aux conditions d'une éventuelle requête européenne ; si elle est défavorable à M. Parigi, celui-ci se trouve lui aussi sans appel interne ordinaire et doit, s'il invoque une violation conventionnelle personnelle, satisfaire séparément aux conditions de Strasbourg.
+Une hypothèse de proclamation directe du requérant reste conservée dans le Corpus comme **probe de remède infiniment subsidiaire**, non comme conséquence acquise. Sa fonction est de tester une question générale : lorsqu'un dommage temporel est déjà partiellement irréversible, que peut encore restaurer le droit ?
 
-## Le remède extrême reste un probe
+Le chapitre précédent a donné le critère :
 
-La conclusion principale demeure l'**annulation de l'élection** et les conséquences prévues par le droit électoral. La demande de proclamation directe du requérant reste **infiniment subsidiaire et explicitement exploratoire**.
+> **un remède formel n'est pas encore une capacité restaurée.**
 
-Son intérêt éditorial et métacognitif est ailleurs : elle teste l'énoncé « le dommage est devenu irréversible, donc aucun remède n'existe ». Le calendrier du Sénat sur l'autonomie de la Corse rend ce problème temporel concret : une réparation tardive peut corriger l'élection sans restaurer une occasion politique déjà passée.
+Le détail juridique, les QPC et les scénarios de recours appartiennent aux Annexes et au Corpus. Pour le Magazine, l'inconnu pertinent est plus simple : **quels effets l'instruction produira-t-elle réellement, et dans quel délai ?**
 
-La présence de ce probe ne transforme pas sa disponibilité juridique en fait acquis. Elle oblige à distinguer plusieurs dimensions de l'effectivité d'un remède :
-
-~~~text
-existe-t-il en droit ?
-→ est-il effectivement accessible dans ce cas ?
-→ ses règles et son contrôle sont-ils suffisamment gouvernables ?
-→ arrive-t-il à temps ?
-→ quels effets produit-il réellement ?
-→ peut-il encore corriger l'écart constaté ?
-~~~
-
-Autrement dit, **un remède formel n'est pas encore une capacité restaurée**. Cette distinction, désormais instrumentée par l'Effectivity Interaction Matrix, rejoint le noyau durable du Livre : une capacité effective doit pouvoir être accessible, gouvernable, utilisable à temps, observable et corrigible.
