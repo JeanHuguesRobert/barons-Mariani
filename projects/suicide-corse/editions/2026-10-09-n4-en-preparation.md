@@ -1,6 +1,7 @@
 ---
 title: "Suicide Corse n°4 — préparation éditoriale"
 date: "2026-10-09"
+last_modified_at: "2026-10-18"
 status: "draft — en préparation, non gelé"
 document_role: "adapted"
 document_kind: "living-book-edition-working"
@@ -60,7 +61,7 @@ Analyse doctrinale : https://github.com/JeanHuguesRobert/cogentia/blob/main/rese
 - Compte rendu ou replay de l'audition : propos sourcés, pagination/minutage.
 - Réunion du rapport prévue le 21 octobre : faits et versions du texte.
 - Échéance des amendements et séance du 26 octobre : distinguer dépôt, discussion et adoption.
-- Changement probant d'état de la requête constitutionnelle : distinguer remise, accusé, enregistrement, examen et décision.
+- Évolution probante du dossier **2026-6589 SEN** : l'enregistrement est acquis depuis le 7 octobre ; suivre désormais demandes du greffe, productions autorisées, contradictoire, publication publique, examen et décision, sans réouvrir silencieusement le contenu déposé.
 
 ## Journal de fabrication
 
