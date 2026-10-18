@@ -139,3 +139,8 @@ ancrage local à Corte
 ```
 
 C'est un candidat fort pour le croisement Musée Mariani ↔ DIASPORA ↔ histoire coloniale.
+
+
+## Mise à jour — Gaffori, octobre 2026
+
+L'examen photographique de **Meurgey p. 11** confirme la phrase désignant le « maréchal de camp Gaffori et Mme Gaffori, son épouse » comme parrains d'Antoine-Dominique Mariani. L'affirmation de parenté ancienne entre les familles figure dans la même notice. **Niveau de preuve : texte imprimé contrôlé, acte baptismal non retrouvé.** La p. 4 cite un acte de 1675, et la p. 8 atteste dans le livre le mariage Hyacinthe Mariani–Louise Gaffori. Le rattachement nominatif de chacun à la branche du général reste à démontrer. [Registre critique détaillé](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md).
