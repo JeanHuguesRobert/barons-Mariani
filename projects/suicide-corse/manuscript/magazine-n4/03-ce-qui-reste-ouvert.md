@@ -19,15 +19,13 @@ source_documents:
 
 # Ce qui reste ouvert
 
-Le 1er octobre à 15 h 13, la greffière en chef du tribunal administratif de Bastia a refusé de donner suite aux questions résiduelles. Elle a invité à saisir le Conseil constitutionnel en citant l'article L.292 du code électoral. Cette réponse est archivée. Elle n'est pas le dépôt d'une requête.
+Le dépôt est désormais acquis ; le chapitre précédent raconte comment cette transition a été effectivement franchie. Ici, la question est différente : **qu'est-ce qui demeure réellement ouvert après l'enregistrement ?**
 
-Le dossier a depuis changé de régime. La requête a été **reçue par le Conseil constitutionnel le 7 octobre 2026** et enregistrée sous la référence **2026-6589 SEN**. La référence textuelle canonique reste [requete-conseil-constitutionnel.md](../../../research/senatoriales-2026/requete-conseil-constitutionnel.md) ; son frontmatter porte désormais les métadonnées post-dépôt. Le corps déposé n'est plus traité ici comme un brouillon à améliorer.
+Le Magazine suit maintenant l'instruction et ses effets. Une demande du greffe, une production autorisée, une observation contradictoire, une publication publique, une décision ou l'absence durable d'un acte attendu peuvent modifier la carte. Sans fait nouveau, le bon état est l'attente documentée.
 
-Le Magazine suit maintenant autre chose : **l'instruction et ses effets**. Une demande du greffe, une production autorisée, une observation contradictoire, une publication publique, une décision ou l'absence durable d'un acte attendu peuvent modifier la carte. Sans fait nouveau, le bon état est l'attente documentée.
+Plusieurs inconnues subsistent. Les **39 autres bulletins nuls** ne sont pas exhaustivement inventoriés dans le Corpus. Les demandes P1 à P18 adressées à la préfecture et D1 à D10 adressées au greffe ne sont pas toutes résolues par le constat du 1er octobre. Le sort exact de certaines traces antérieures, notamment dans la chaîne de transmission du 11 septembre, reste également borné par ce qui est effectivement documenté.
 
-La requête déposée conserve et consolide l'état sur les bulletins nuls, les mémoires QPC distincts, la temporalité du recours et la chaîne de traçabilité du dépôt. **P-40** documente un bulletin photographié portant « (Elections Sénatoriales 2027) BARON MARIANI » et son enveloppe. Il ne permet pas d'identifier un électeur, ne transforme pas le bulletin en suffrage valable et ne fixe pas à lui seul le motif exact de nullité. Les **39 autres bulletins nuls** ne sont pas exhaustivement inventoriés dans le Corpus. Voir le [bordereau v0.6](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/bordereau-pieces-requete-conseil-constitutionnel-v0.6.md) et la [source P-40](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/bulletin-nul-baron-mariani-2026-10-01.md).
-
-Les demandes envoyées à la préfecture le 2 octobre, P1 à P18, et les dix demandes envoyées au greffe le même jour, D1 à D10, restent ouvertes. Le constat du rendez-vous n'y répond pas.
+Ces inconnues ne rouvrent pas automatiquement la requête déposée. Elles restent des objets d'instruction, de preuve ou de recherche selon le canal juridiquement disponible.
 
 ## L'architecture des recours reste ouverte, mais elle est désormais séparée
 
@@ -55,17 +53,3 @@ existe-t-il en droit ?
 ~~~
 
 Autrement dit, **un remède formel n'est pas encore une capacité restaurée**. Cette distinction, désormais instrumentée par l'Effectivity Interaction Matrix, rejoint le noyau durable du Livre : une capacité effective doit pouvoir être accessible, gouvernable, utilisable à temps, observable et corrigible.
-
-Le matériau privé lié au 53 rue Séguier ne figure pas dans cette préparation.
-
-
-### Piste de clôture historique — à rédiger, hors noyau contentieux
-
-Une conclusion éditoriale est désormais ouverte autour de la formule consulaire du 15 décembre 1799 — « La Révolution est fixée aux principes qui l'ont commencée : elle est finie. » — pour la mettre en tension avec l'histoire longue des inégalités, de la reproduction sociale et de la permanence du conflit autour de l'effectivité de l'égalité.
-
-Cette piste ne doit pas être confondue avec un moyen juridique de la requête. Elle relève du n°4 et de ses annexes documentaires. Le traitement devra notamment :
-- distinguer abolition des privilèges juridiques, société de classes, reproduction sociale et concentration patrimoniale ;
-- corriger l'image de Spartacus : mort au combat, corps non retrouvé ; environ 6 000 captifs de son armée crucifiés sur la voie Appienne ;
-- documenter la maxime napoléonienne du sabre et de l'esprit plutôt qu'une formule non sourcée sur le choix de la plume ;
-- relier prudemment Paoli, la réception américaine de la Corse révolutionnaire et le Projet #1755, sans transformer une influence culturelle attestée en filiation constitutionnelle prouvée ;
-- prévoir un renvoi documentaire vers le Projet #1755 et classer les annexes par thème et priorité de lecture.
