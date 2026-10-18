@@ -1,5 +1,5 @@
 ---
-title: "Ce qui reste ouvert"
+title: "Après l’enregistrement : ce qui reste ouvert"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-04"
 last_modified_at: "2026-10-18"
@@ -17,7 +17,7 @@ source_documents:
   - "../../../research/senatoriales-2026/investigation/annexe-strategie-recours-remedes-repetition-2026-10-06.md"
 ---
 
-# Ce qui reste ouvert
+# Après l’enregistrement : ce qui reste ouvert
 
 Le dépôt est désormais acquis ; le chapitre précédent raconte comment cette transition a été effectivement franchie. Ici, la question est différente : **qu'est-ce qui demeure réellement ouvert après l'enregistrement ?**
 
