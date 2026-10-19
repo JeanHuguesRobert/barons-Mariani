@@ -52,3 +52,31 @@ Statut : **préparation** ; document de pilotage, pas une édition publiée ni g
 ## Décision encore attendue
 
 Arbitrer la longueur du numéro, les illustrations publiables et le choix du gel/publication ; aucun de ces points ne doit être déclaré accompli par ce conducteur.
+
+## Plan de calcul et de publication incrémentale — 19 octobre 2026
+
+Le travail est divisible en paquets **indépendants et reprenables** : tout paquet conserve son entrée, ses sources, les résultats déjà acquis, les inconnues, les tests de sortie et sa destination de publication. Publier d'abord les corrections **réversibles et non sensibles**, sans attendre une validation générale du numéro ; ne pas confondre cette maintenance du Corpus avec le gel d'une édition datée.
+
+| Paquet | Travail immédiatement exécutable | Preuve / test de sortie | Destination |
+|---|---|---|---|
+| RL-01 | Collationner la biographie Gaffori/Gaffory, chronologie des noms et décès de 1753 | Chaque date accompagnée d'une référence ; sépulture énoncée comme tradition tant que non prouvée | Registre Capucins → `annexes.md` → `livre.md` |
+| RL-02 | Reconstituer la chaîne 1845 → Bertrand → Ordioni/Soliva → Guérin → acquéreurs contemporains | Lots, parcelles, personnes et actes non amalgamés ; vente Mariani–Bertrand vers 1920 explicitement hypothétique | Registre Capucins → annexes |
+| RL-03 | Examiner les documents d'urbanisme et d'archéologie rendus publics | Distinguer prescription, témoignage de fouilles, rapport scientifique et identification d'ossements | Dossier Capucins → magazine |
+| RL-04 | Comparer les textes et institutions de 1755 au projet constitutionnel de 2026 | Citations des textes primaires, date réelle du débat, absence d'anachronisme ou de résultat anticipé | *1755* / *Autonomia* → magazine |
+| RL-05 | Vérifier les trois navigations Livre–Magazine–Annexes et les passerelles | Liens résolus, statut de brouillon conservé, documents privés exclus | README, `passerelles.md`, site de prévisualisation |
+
+### Protocole d'écriture concurrente
+
+1. **Lire l'état courant** du fichier ciblé et conserver son identifiant de version (blob SHA GitHub).
+2. **Produire un changement minimal**, reproductible et limité au paquet ; ne jamais écraser un fichier avec une version locale présumée actuelle.
+3. **Mettre à jour avec contrôle de concurrence** (`update_file` avec le SHA lu). Si la version a changé, relire, fusionner et retester ; ne pas forcer l'écriture.
+4. **Contrôler après écriture** le document publié dans le dépôt et ses liens. Une réussite d'écriture ne vaut pas preuve de rendu web/PDF ni gel éditorial.
+5. **Tracer les écarts** : pièce introuvable, hypothèse réfutée, erreur du Corpus et décision de correction. Le récit ne précède jamais la qualification de sa preuve.
+
+### Seuils de réversibilité et d'autorisation
+
+- **Sans blocage éditorial** : mise à jour d'un brouillon public déjà prévu, correction de liens, ajout d'une bibliographie publique sourcée, journal des lacunes, tests non destructifs.
+- **Contrôle renforcé** : nouveaux noms ou imputations visant des vivants, renseignements économiques non documentés, photographie de tiers, texte d'acte contractuel privé, revendication de découvertes archéologiques.
+- **Gel explicitement distinct** : édition immuable, annonce publique d'une découverte, publication du document détenu par la famille Orenga de Gaffori, envoi externe ou engagement financier.
+
+**État effectif :** ce plan constitue le mandat opérationnel des prochaines passes. Il n'atteste ni l'exécution des cinq paquets, ni le gel ou la diffusion du numéro du 26 octobre.
