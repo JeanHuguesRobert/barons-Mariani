@@ -17,6 +17,10 @@ visibility: public
 
 La passerelle n'est pas une équivalence entre 1755 et 2026. Elle est une invitation à confronter deux questions : *comment une capacité politique naît-elle ?* et *comment se conserve-t-elle, se perd-elle ou se transmet-elle ?*
 
+## Programme transversal du numéro
+
+Le [programme éditorial et scientifique « Révolutions lumineuses »](../../investigation/revolutions-lumineuses-programme-2026-10-26.md) explicite les quatre temps historiques, les six rubriques du Magazine, la matrice de preuves, les limites de publication et la passerelle autonome vers *1755* et *Autonomia*. Il ne constitue pas une décision de gel.
+
 ## Le point de l'enquête
 
 - **Confirmé dans les sources secondaires :** ancienne implantation du couvent des Capucins à Corte ; vente annoncée au duc de Padoue en 1845 ; acquisition attribuée à la famille Bertrand au début du XXe siècle.
