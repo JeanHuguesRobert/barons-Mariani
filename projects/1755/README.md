@@ -96,6 +96,12 @@ projects/1755/
 
 ---
 
+## Passerelle éditoriale — « Révolutions lumineuses » (26 octobre 2026)
+
+Le prochain numéro annoncé du Livre Vivant [*Rise & Fall*](../rise-and-fall/README.md), intitulé **« Révolutions lumineuses »**, prépare pour la séquence du **26 octobre 2026** (calendrier parlementaire à revérifier) une lecture croisée : révolutions corses ouvertes en 1729, moment constitutionnel de 1755, figures de Gaffori et de Paoli, héritages napoléoniens, mémoire patrimoniale du couvent des Capucins de Corte, et processus contemporain d'autonomie.
+
+Cette articulation renvoie au document source [*Autonomia*](../../research/autonomia.md). Elle compare **des régimes historiques distincts**, sans attribuer aux acteurs de 1755 les positions des débats de 2026. Les preuves relatives à la sépulture de Gaffori restent un chantier archéologique et archivistique autonome. Le numéro est **en préparation, non gelé** ; le Livre Vivant 1755 conserve son propre mandat, son corpus et ses niveaux de preuve.
+
 ## 4. Cadre institutionnel et licence
 
 - **Porteur éditorial :** Institut Mariani, émanation R&D de l'association C.O.R.S.I.C.A., en lien avec le futur Fonds de dotation Barons Mariani.
