@@ -190,6 +190,16 @@ projects/rise-and-fall/
 
 ---
 
+## Prochain numéro — « Révolutions lumineuses » (projet, 26 octobre 2026)
+
+Titre éditorial retenu pour le prochain numéro du Livre Vivant *Rise & Fall* : **Révolutions lumineuses**. Passerelle vers [*Autonomia*](../../research/autonomia.md) et le [Livre Vivant *1755*](../1755/README.md), à l'occasion de la séquence parlementaire annoncée du **26 octobre 2026** (date à revérifier avant publication).
+
+Angle de recherche : *Looking for Gaffory* — biographie et devenir matériel de la dépouille attribuée au général Jean-Pierre Gaffori, histoire du couvent des Capucins de Corte, et contexte des Gaffori, Arrighi, Bonaparte, Saliceti et Paoli. La charpente chronologique couvre les antécédents avant 1729, puis environ 1729–1830, 1830–1930 et 1930 à aujourd'hui, sans transformer ces périodisations souples en faits historiographiques.
+
+**Trois couches éditoriales :** récit accessible au grand public ; Magazine retraçant les découvertes et questions ouvertes ; annexes techniques et scientifiques documentant les sources, le foncier, l'archéologie et les degrés de certitude. L'inhumation, la localisation et le devenir des restes de Gaffori sont des questions ouvertes, pas des conclusions. La preuve documentaire récemment signalée par des tiers ne doit pas être reproduite ni divulguée sans autorisation de son détenteur.
+
+Le rapprochement entre l'expérience constituante corse de **1755** et le débat contemporain sur l'autonomie est une **passerelle éditoriale**, non une identité juridique ou historique. Ce numéro est **en préparation, non publié et non gelé** ; il ne modifie pas les éditions précédentes.
+
 ## 6. Identité web et diffusion publique
 
 - **Site public :** [`https://riseandfall.baronsmariani.org`](https://riseandfall.baronsmariani.org)
