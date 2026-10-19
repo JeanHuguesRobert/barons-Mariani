@@ -16,3 +16,16 @@ Réutiliser les catégories **DOC** (primaire effectivement consultée), **SEC**
 - **Droit & diffusion** : propriété intellectuelle, droit des personnes, protection patrimoniale ; document Orenga de Gaffori non reproduit sans autorisation expresse.
 
 Le Corpus scientifique source reste souverain ; ces annexes sont une projection référencée, corrigible et traçable.
+
+## Questions falsifiables et contrôle de provenance
+
+| Proposition à éprouver | Pièce ou contrôle attendu | État |
+|---|---|---|
+| Gaffori a été inhumé aux Capucins | Source historique primaire ou attestée ; autorisation de citation du document inédit le cas échéant | Tradition documentée ; preuve inédite non exploitable sans accord |
+| Les restes se trouvent encore sous l'emprise du couvent | Emprise et résultats d'opérations archéologiques autorisés et publiables | Non établi |
+| Pierre Mariani a vendu aux Bertrand vers 1920 | Acte de mutation, références anciennes de parcelles, chaîne de propriété | Hypothèse non prouvée ; vente au duc de Padoue de 1845 à articuler |
+| Les trois copropriétés correspondent aux trois divisions physiques du couvent | États descriptifs de division et périmètres cadastraux | Non établi ; AB 127 comporte des lots voisins distincts |
+| Le plateau CORALEX constitue une vente réalisée | Acte enregistré et prix effectif, et non annonce commerciale | Offre à 360 000 € ; prix de transaction inconnu |
+| Le débat de 2026 met en application les principes de 1755 | Analyse comparée de dispositions, effets et contextes | Question analytique, non continuité historique présumée |
+
+Les documents privés, notamment les baux du secteur AB 127, servent au contrôle interne des rapprochements mais ne sont ni reproduits ni détaillés dans la projection publique sans décision spécifique de diffusion. Les liens des annexes doivent pointer vers des pièces publiques ou vers un registre indiquant seulement leur existence et leur régime d'accès.
