@@ -58,6 +58,20 @@ Ce document est le registre officiel et immuable des éditions publiées du proj
 
 ---
 
+### 19 octobre 2026 — « Révolutions lumineuses » : avant-première publique (non gelée)
+
+**Publication autorisée expressément le 19 octobre 2026**, sur GitHub, de la version de travail du numéro-passerelle prévu pour le 26 octobre. Cette publication est une **avant-première documentaire évolutive**, pas une édition immuable ni une affirmation de mise en ligne du site ou du PDF.
+
+- [Sommaire de l'avant-première](../issues/2026-10-26-revolutions-lumineuses/README.md)
+- [Le Livre — Looking for Gaffory](../issues/2026-10-26-revolutions-lumineuses/livre.md)
+- [Le Magazine — Révolutions lumineuses](../issues/2026-10-26-revolutions-lumineuses/magazine.md)
+- [Annexes scientifiques et techniques](../issues/2026-10-26-revolutions-lumineuses/annexes.md)
+- [Passerelles vers Autonomia et 1755](../issues/2026-10-26-revolutions-lumineuses/passerelles.md)
+
+**Gel :** aucun. **Édition du 26 octobre :** toujours en préparation ; toute actualité parlementaire doit être vérifiée avant incorporation.
+
+---
+
 ### Volumes suivants programmés
 
 - **Volume II (1870–1945) — Le repli patrimonial sous la IIIe République :** alliances d'Angelis et Casabianca, gestion de Minesteggio, la Grande Guerre et la donation civique de 1924.
