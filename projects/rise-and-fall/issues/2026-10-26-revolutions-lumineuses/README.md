@@ -26,3 +26,13 @@ Ne jamais confondre titre provisoire, publication, projection et édition gelée
 **Ce numéro est une projection narrative.** Il sélectionne, agence, interprète et raconte des propositions issues de ces dossiers. Il ne peut devenir une nouvelle source de fait par simple répétition ni imposer ses formulations aux autres Livres Vivants. Toute correction factuelle remonte d'abord au dossier source avant nouvelle projection.
 
 **Traçabilité à maintenir :** assertion du récit → identifiant ou section de la source souveraine → document primaire / source historique → état de vérification → version et date. Un passage privé ou soumis à autorisation reste privé, même si une projection publique pourrait en tirer intérêt.
+
+## Intérêts et valeurs qui gouvernent ce numéro
+
+- **Vérité avant récit** : publier les désaccords, les lacunes et les corrections avec leurs sources, plutôt que présenter une tradition funéraire comme un résultat archéologique.
+- **Autonomie de capacité et effectivité** : demander, à chaque époque, qui pouvait effectivement décider, posséder, transmettre, exercer un droit et contribuer à la cité ; distinguer toujours les régimes historiques et les personnes concernées.
+- **Patrimoine comme commun de connaissance** : faciliter l'accès aux preuves publiables et à leur provenance, tout en respectant les propriétaires, les auteurs, les vivants et les morts.
+- **Prudence, humilité et contradictoire** : donner sa place à l'objection et aux hypothèses rivales, sans imputer d'intentions aux personnes contemporaines ni projeter les controverses de 2026 sur 1755.
+- **Transmission ouverte et reproductible** : un lecteur doit pouvoir remonter du Livre ou du Magazine aux Annexes, puis aux sources souveraines, et proposer une correction argumentée.
+
+Le **26 octobre** est une cible éditoriale, non une affirmation de résultat parlementaire ni une autorisation implicite de publier des pièces privées. La décision de gel et de publication demeure distincte de l'écriture des brouillons.
