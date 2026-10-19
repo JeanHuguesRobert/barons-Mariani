@@ -192,6 +192,10 @@ projects/rise-and-fall/
 
 ## Prochain numéro — « Révolutions lumineuses » (projet, 26 octobre 2026)
 
+- [Livre grand public — *Looking for Gaffory*](manuscript/book/revolutions-lumineuses-looking-for-gaffory.md)
+- [Magazine — numéro préparatoire du 26 octobre](manuscript/magazine/2026-10-26-revolutions-lumineuses.md)
+- [Annexes techniques et scientifiques — dossier critique](manuscript/annexes/revolutions-lumineuses-dossier-sources.md)
+
 Titre éditorial retenu pour le prochain numéro du Livre Vivant *Rise & Fall* : **Révolutions lumineuses**. Passerelle vers [*Autonomia*](../../research/autonomia.md) et le [Livre Vivant *1755*](../1755/README.md), à l'occasion de la séquence parlementaire annoncée du **26 octobre 2026** (date à revérifier avant publication).
 
 Angle de recherche : *Looking for Gaffory* — biographie et devenir matériel de la dépouille attribuée au général Jean-Pierre Gaffori, histoire du couvent des Capucins de Corte, et contexte des Gaffori, Arrighi, Bonaparte, Saliceti et Paoli. La charpente chronologique couvre les antécédents avant 1729, puis environ 1729–1830, 1830–1930 et 1930 à aujourd'hui, sans transformer ces périodisations souples en faits historiographiques.
