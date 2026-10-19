@@ -26,8 +26,8 @@ visibility: public
 
 ## Dossier foncier et copropriétés
 
-- [Couvent des Capucins — dossier source](../../../musee-mariani/lieux/couvent-des-capucins/README.md).
-- [Foncier](../../../musee-mariani/lieux/couvent-des-capucins/foncier.md), [chronologie](../../../musee-mariani/lieux/couvent-des-capucins/chronologie.md), [archéologie](../../../musee-mariani/lieux/couvent-des-capucins/archeologie.md).
+- [Couvent des Capucins — dossier source](../../../../musee-mariani/lieux/couvent-des-capucins/README.md).
+- [Foncier](../../../../musee-mariani/lieux/couvent-des-capucins/foncier.md), [chronologie](../../../../musee-mariani/lieux/couvent-des-capucins/chronologie.md), [archéologie](../../../../musee-mariani/lieux/couvent-des-capucins/archeologie.md).
 - Vente datée du 28 février 1845 au duc de Padoue [SEC] : https://www.mairie-corte.fr/catalog_repository/uploads/7/Patrimoine_definitif2020.pdf
 - Acquisition Bertrand au début du XXe siècle [SEC] : https://www.corsenetinfos.corsica/Corte-L-ancien-cinema-l-Aiglon-sauve-de-la-ruine_a83162.html
 - Pierre Mariani vendeur direct vers 1920 [HYP] : aucun acte connu.
