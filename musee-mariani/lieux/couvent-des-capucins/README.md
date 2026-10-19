@@ -13,6 +13,8 @@ review:
 Dossier **source** de reconstitution historique, foncière, architecturale, funéraire et archéologique du couvent des Capucins de Corte et de ses dépendances. Il alimente des notices et livres dérivés, sans les confondre avec des sources primaires.
 
 ## Organisation
+- [Registre consolidé des preuves et incertitudes (octobre 2026)](registre-preuves-2026-10.md) : assertions identifiées, sources souveraines, contradictions, chaîne Bertrand, CORALEX, Campana, Franchini et emprises cadastrales.
+- [Contribuer à l'enquête](CONTRIBUTING.md) : propositions de correction, témoignages, sources et contrôle des droits de diffusion, via issues et pull requests GitHub.
 - [Chronologie critique](chronologie.md) : événements datés, degré de certitude, sources et lacunes.
 - [Registre des sources](sources.md) : preuves directes, sources secondaires, témoignages et documents à obtenir.
 - [Foncier et emprises](foncier.md) : mutations, lots, parcelles et voisinage ; ne pas assimiler pétitionnaire à propriétaire.
@@ -28,4 +30,4 @@ Les mentions **[DOC]** (document lu), **[SEC]** (source secondaire), **[TEM]** (
 - [Donation civique de Pierre Mariani — RC-02](../../../projects/rise-and-fall/manuscript/book/04-reality-case-rc02-1924.md)
 - [Projet historique Mariani Village](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 
-Créé le 19 octobre 2026. Les pièces administratives, titres et rapports archéologiques signalés comme manquants n'ont pas été consultés.
+Créé le 19 octobre 2026. Registre complémentaire publié le 19 octobre 2026. Les pièces administratives, titres et rapports archéologiques signalés comme manquants n'ont pas tous été consultés. Les pièces contractuelles privées et le document familial soumis à autorisation ne sont pas publiés.
