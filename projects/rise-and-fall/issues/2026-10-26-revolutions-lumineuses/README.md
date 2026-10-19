@@ -8,6 +8,7 @@ Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le
 - [Magazine](magazine.md)
 - [Annexes techniques et scientifiques](annexes.md)
 - [Cartographie des autres Livres Vivants](passerelles.md)
+- **[Conducteur de fabrication du 26 octobre](production.md)**
 - **[Contribuer à l'enquête : témoignages, archives, objections](CONTRIBUTING.md)**
 
 **Fil rouge :** *Looking for Gaffory* — biographie de Jean-Pierre Gaffori, circulation des récits de sa sépulture, transformations du couvent des Capucins de Corte et enquête matérielle. L'inhumation est documentée comme tradition historiographique ; la localisation des restes demeure une question, non une certitude.
