@@ -1,6 +1,6 @@
 # Le Livre — Révolutions lumineuses : Looking for Gaffory
 
-Statut : brouillon au 19 octobre 2026, non publié, non gelé. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
+Statut : **avant-première publique autorisée le 19 octobre 2026**, brouillon évolutif, non gelé. Échéance du numéro : 26 octobre 2026 ; calendrier parlementaire à revérifier.
 
 ## Ouverture : devant les portes des Capucins
 
