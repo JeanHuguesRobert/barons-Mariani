@@ -190,7 +190,9 @@ projects/rise-and-fall/
 
 ---
 
-## Prochain numéro — « Révolutions lumineuses » (projet, 26 octobre 2026)
+## Révolutions lumineuses — avant-première publique le 19 octobre, numéro visé le 26 octobre 2026
+
+**Publication des textes préparatoires autorisée expressément le 19 octobre 2026.** [Accès au numéro en avant-première (Livre, Magazine, Annexes et passerelles)](issues/2026-10-26-revolutions-lumineuses/README.md). Il s'agit d'une version de travail publique, non gelée ; aucune mise en production du site ni édition finale du 26 octobre ne sont revendiquées.
 
 - [Livre grand public — *Looking for Gaffory*](manuscript/book/revolutions-lumineuses-looking-for-gaffory.md)
 - [Magazine — numéro préparatoire du 26 octobre](manuscript/magazine/2026-10-26-revolutions-lumineuses.md)
@@ -202,7 +204,7 @@ Angle de recherche : *Looking for Gaffory* — biographie et devenir matériel d
 
 **Trois couches éditoriales :** récit accessible au grand public ; Magazine retraçant les découvertes et questions ouvertes ; annexes techniques et scientifiques documentant les sources, le foncier, l'archéologie et les degrés de certitude. L'inhumation, la localisation et le devenir des restes de Gaffori sont des questions ouvertes, pas des conclusions. La preuve documentaire récemment signalée par des tiers ne doit pas être reproduite ni divulguée sans autorisation de son détenteur.
 
-Le rapprochement entre l'expérience constituante corse de **1755** et le débat contemporain sur l'autonomie est une **passerelle éditoriale**, non une identité juridique ou historique. Ce numéro est **en préparation, non publié et non gelé** ; il ne modifie pas les éditions précédentes.
+Le rapprochement entre l'expérience constituante corse de **1755** et le débat contemporain sur l'autonomie est une **passerelle éditoriale**, non une identité juridique ou historique. L'**avant-première est publiée dans GitHub** ; le numéro final demeure **en préparation et non gelé**. Les éditions précédentes restent inchangées.
 
 ## 6. Identité web et diffusion publique
 
