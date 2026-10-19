@@ -22,3 +22,13 @@ Le numéro de *Rise & Fall* **ne remplace pas** les autres Livres Vivants : il p
 ## Date-pivot
 
 Le **26 octobre 2026** est un rendez-vous éditorial proposé. Ne pas annoncer l'examen sénatorial comme confirmé sans actualisation du calendrier et des comptes rendus officiels.
+
+## Doctrine de réutilisation fédérée
+
+La fédération des Livres Vivants n'est **ni une fusion des Corpus ni une chaîne de copies narratives auto-validantes**.
+
+1. Une proposition factuelle est maintenue dans son dossier **source souverain** avec provenance, statut et corrections ; les archives externes restent les pièces primaires.
+2. Chaque Livre Vivant n'importe qu'une **référence qualifiée** à cette proposition et élabore librement sa narration, avec son propre mandat éditorial.
+3. Les contradictions ou découvertes issues d'un magazine deviennent des **contributions à instruire** au niveau de la source ; elles ne remplacent pas celle-ci par propagation silencieuse.
+4. Les éditions gelées restent immuables ; les corrections vivent dans les Corpus sources et les nouvelles projections datées.
+5. Ne pas substituer la narration de *Rise & Fall* à celle de *1755*, *Commons*, *Autonomia*, *Suicide Corse*, *Capable* ou *DIASPORA* ; entre eux circulent des liens, états de preuve et deltas, non une vérité imposée par un numéro.
