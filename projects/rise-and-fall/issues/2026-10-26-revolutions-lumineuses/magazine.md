@@ -1,6 +1,6 @@
 # Magazine — Révolutions lumineuses
 
-Statut : brouillon au 19 octobre 2026, non publié, non gelé. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
+Statut : **avant-première publique autorisée le 19 octobre 2026**, brouillon évolutif, non gelé. Échéance du numéro : 26 octobre 2026 ; calendrier parlementaire à revérifier.
 
 ## Editorial de travail
 Une révolution éclaire des possibles ; les institutions, ensuite, doivent permettre de les exercer. Une tombe supposée, un couvent divisé, des actes difficiles à retrouver : l'histoire des Capucins pose la même question méthodologique que les débats de 2026 — que peut-on réellement établir, exercer, transmettre et corriger ? Il ne s'agit pas de soutenir que 1755 annonçait le statut futur de la Corse.
