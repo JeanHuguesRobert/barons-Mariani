@@ -1,6 +1,6 @@
 # Rise & Fall — Révolutions lumineuses
 
-Statut : brouillon au 19 octobre 2026, non publié, non gelé. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
+**Statut : avant-première éditoriale publique publiée dans le Corpus le 19 octobre 2026, non gelée.** Numéro du 26 octobre en préparation ; calendrier parlementaire à revérifier. Les trois textes restent des brouillons évolutifs, et non une édition définitive.
 
 Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le Livre raconte ; le Magazine actualise ; les annexes démontrent ».
 
@@ -17,7 +17,7 @@ Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le
 
 **Sources souveraines :** [dossier Capucins](../../../../musee-mariani/lieux/couvent-des-capucins/README.md), [registre critique](../../../../musee-mariani/lieux/couvent-des-capucins/registre-preuves-2026-10.md), [doctrine Livre Vivant](../../../../research/livre_vivant.md).
 
-Ne jamais confondre titre provisoire, publication, projection et édition gelée. Aucune information non autorisée sur le document détenu par la famille Orenga de Gaffori, les baux privés ou les personnes contemporaines ne doit être publiée.
+**Autorisation éditoriale expresse de publication donnée le 19 octobre 2026.** Diffusion présente : accès public GitHub à la version de travail et à ses trois composantes ; pas de revendication de déploiement web ni d'édition gelée. Ne jamais confondre titre provisoire, publication, projection et édition gelée. Aucune information non autorisée sur le document détenu par la famille Orenga de Gaffori, les baux privés ou les personnes contemporaines ne doit être publiée.
 
 ## Frontière entre source souveraine et projection narrative
 
@@ -35,4 +35,4 @@ Ne jamais confondre titre provisoire, publication, projection et édition gelée
 - **Prudence, humilité et contradictoire** : donner sa place à l'objection et aux hypothèses rivales, sans imputer d'intentions aux personnes contemporaines ni projeter les controverses de 2026 sur 1755.
 - **Transmission ouverte et reproductible** : un lecteur doit pouvoir remonter du Livre ou du Magazine aux Annexes, puis aux sources souveraines, et proposer une correction argumentée.
 
-Le **26 octobre** est une cible éditoriale, non une affirmation de résultat parlementaire ni une autorisation implicite de publier des pièces privées. La décision de gel et de publication demeure distincte de l'écriture des brouillons.
+Le **26 octobre** est une cible éditoriale, non une affirmation de résultat parlementaire ni une autorisation implicite de publier des pièces privées. La présente avant-première est autorisée et publique ; la décision de gel définitif et la projection du numéro du 26 octobre demeurent distinctes.
