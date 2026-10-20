@@ -10,6 +10,7 @@ Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le
 - [Annexes techniques et scientifiques](annexes.md)
 - [Cartographie des autres Livres Vivants](passerelles.md)
 - **[Conducteur de fabrication du 26 octobre](production.md)**
+- **[Cadrage critique du 20 octobre — prudence, effectivité et passerelle 1755 / Autonomia](note-cadrage-2026-10-20.md)**
 - **[Contribuer à l'enquête : témoignages, archives, objections](CONTRIBUTING.md)**
 
 ## Accès à l'avant-première « en préparation »
