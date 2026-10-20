@@ -1,6 +1,6 @@
 # Rise & Fall — Révolutions lumineuses
 
-**Statut : avant-première éditoriale publique publiée dans le Corpus le 19 octobre 2026, non gelée.** Numéro du 26 octobre en préparation ; calendrier parlementaire à revérifier. Les trois textes restent des brouillons évolutifs, et non une édition définitive.
+**Statut : avant-première éditoriale publique publiée dans le Corpus le 19 octobre 2026, non gelée.** Numéro du 26 octobre en préparation ; examen en séance du projet de loi constitutionnelle sur l'autonomie de la Corse inscrit à l'ordre du jour du Sénat pour le 26 octobre 2026 (commission des lois le 21 octobre). Calendrier à recontrôler le jour même. Les trois textes restent des brouillons évolutifs, et non une édition définitive.
 
 Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le Livre raconte ; le Magazine actualise ; les annexes démontrent ».
 
