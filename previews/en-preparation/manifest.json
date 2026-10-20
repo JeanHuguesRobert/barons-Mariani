@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-18T17:08:12.688247+00:00",
-  "git_sha": "87035a7e9316b2251cd3702954c29b4e900e5a9e",
+  "built_at_utc": "2026-10-20T07:02:44.548555+00:00",
+  "git_sha": "9fa19da2c077f9775aa5a08662ba13013caced57",
   "books": [
     {
       "id": "capable",
@@ -45,6 +45,32 @@
           "sha256": "abb624a9c570efd8e2e91fd5c37b6e74b08624b838636fe7c4103e2fa4553b15"
         }
       ]
+    },
+    {
+      "id": "rise-and-fall",
+      "page": "rise-and-fall.html",
+      "inputs": [
+        {
+          "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
+          "sha256": "94e721adfd7453ef0f56be1f5e93bfd43c2ba967389e55f16f98d09ef5604a17"
+        },
+        {
+          "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/livre.md",
+          "sha256": "b30d5b0a66282650fa9df4977557bf7fa6a9f3bed7abcca321678eb474cc409d"
+        },
+        {
+          "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/magazine.md",
+          "sha256": "b8beb70fd7895df659154f7ac3ca937559a1374e0601c53861dd72d98dd20e4c"
+        },
+        {
+          "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/annexes.md",
+          "sha256": "6677c7d828417d13e08419f83b71ca13c139982f90718e845bfa0c31f3e1aae2"
+        },
+        {
+          "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md",
+          "sha256": "c7f652b83fa210e3eb879a830022a5776edf9bd9aa72071e2b375f4d47613222"
+        }
+      ]
     }
   ],
   "related_sources": [
@@ -54,7 +80,7 @@
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "0a61e0bfaaa02cf47010d9e61f932711a48637f4fb73f467eba74131c513fa07"
+      "sha256": "22c9be84d7006b364f9b7fc039231976d38a62d492fa75eb21e4b6cd34c2a792"
     },
     {
       "path": "research/methode_terrains_feconds.md",
