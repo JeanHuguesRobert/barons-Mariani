@@ -5,6 +5,7 @@
 Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le Livre raconte ; le Magazine actualise ; les annexes démontrent ».
 
 - [Livre grand public](livre.md)
+- [Carnet narratif n° 1 — La tombe, le pouvoir et les papiers](carnet-narratif-01.md) (matériau de rédaction, non gelé)
 - [Magazine](magazine.md)
 - [Annexes techniques et scientifiques](annexes.md)
 - [Cartographie des autres Livres Vivants](passerelles.md)
