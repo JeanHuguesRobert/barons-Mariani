@@ -38,7 +38,7 @@ provenance:
 <!-- END_AUTO: trails -->
 ## Passerelle éditoriale — Révolutions lumineuses (26 octobre 2026, projet)
 
-Le prochain numéro en préparation du Livre Vivant [*Rise & Fall*, « Révolutions lumineuses »](../projects/rise-and-fall/manuscript/magazine/2026-10-26-revolutions-lumineuses.md) relie l'enquête [*Looking for Gaffory*](../projects/rise-and-fall/manuscript/book/revolutions-lumineuses-looking-for-gaffory.md) à la Constitution corse de 1755 et aux questions contemporaines d'autonomie de capacité. Le [dossier scientifique](../projects/rise-and-fall/manuscript/annexes/revolutions-lumineuses-dossier-sources.md) conserve les incertitudes archéologiques et foncières. La séquence parlementaire du 26 octobre reste à vérifier ; aucun numéro n'est publié ou gelé par cette annonce.
+Le prochain numéro en préparation du Livre Vivant [*Rise & Fall*, « Révolutions lumineuses »](../projects/rise-and-fall/manuscript/magazine/2026-10-26-revolutions-lumineuses.md) relie l'enquête [*Looking for Gaffory*](../projects/rise-and-fall/manuscript/book/revolutions-lumineuses-looking-for-gaffory.md) à la Constitution corse de 1755 et aux questions contemporaines d'autonomie de capacité. Le [dossier scientifique](../projects/rise-and-fall/manuscript/annexes/revolutions-lumineuses-dossier-sources.md) conserve les incertitudes archéologiques et foncières. Le [Sénat inscrit l'examen en séance au 26 octobre 2026](https://www.senat.fr/dossier-legislatif/pjl24-869.html), après commission le 21 octobre ; le déroulement reste à vérifier le jour même. Une [avant-première du numéro est déjà publique dans le Corpus](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md), mais aucune édition définitive n'est gelée par cette annonce.
 
 ## Orientation
 
