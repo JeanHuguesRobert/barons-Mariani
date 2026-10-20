@@ -102,3 +102,39 @@ Le travail est divisible en paquets **indépendants et reprenables** : tout paqu
 **Instruction éditoriale explicite :** ne pas remplacer une action réalisable dans le Corpus par une série de propositions ou de promesses. Pour chaque demande opérationnelle : (1) rechercher l'existant afin d'éviter les doublons ; (2) effectuer immédiatement les corrections et écritures autorisées ; (3) relire le résultat dans le dépôt ; (4) rapporter les liens et les changements réellement vérifiés ; (5) distinguer clairement les blocages, les tâches non faites et les validations qui restent nécessaires.
 
 **Application au numéro du 26 octobre :** le numéro *Révolutions lumineuses*, le triptyque Livre/Magazine/Annexes et la passerelle *Autonomia* sont déjà présents dans le Corpus. Ne plus les annoncer comme projets à créer. La priorité FBF restante est de corriger la qualité de la prévisualisation HTML et de vérifier les liens ; le gel de l'édition et la publication sur un domaine externe ne doivent pas être présumés accomplis.
+
+
+## 20 octobre 2026 — Priorité : passer des enquêtes à des pages lisibles
+
+**Décision de fabrication.** Le titre, le triptyque et les passerelles existent déjà ; éviter tout nouveau dossier parallèle. La priorité est de produire de la prose accessible et sourcée, à partir de la matière existante, sans confondre le numéro du 26 octobre avec l'achèvement de l'ensemble du livre.
+
+### Unité minimale de production
+
+Chaque passage du Livre comporte :
+1. une **scène ou question concrète** qui engage la lecture ;
+2. une **séquence historique intelligible**, sans catalogue de noms ;
+3. une **question d'enquête explicitement ouverte** ;
+4. un renvoi discret vers **l'annexe et sa source souveraine**.
+
+L'exercice n'est terminé que lorsqu'un lecteur peut comprendre le passage **sans ouvrir les annexes**. Les annexes restent nécessaires pour contrôler les preuves.
+
+### Ordre de rédaction recommandé, à partir des pièces déjà disponibles
+
+| Priorité | Résultat narratif concret | Matière documentaire | Condition de sortie |
+|---|---|---|---|
+| P0 | **La disparition de Gaffory** : vie politique, mort en 1753, récits d'inhumation, statut de l'emplacement actuel | Meurgey, dossier Capucins, témoignages publiés ; document Orenga non autorisé exclu | Distinguer biographie, tradition et résultats archéologiques |
+| P0 | **Le couvent à travers trois siècles de mutations** : 1620, 1845, Bertrand, L'Aiglon, 2013, 2020, 2024–2026 | Rapports officiels, presse, registres, documents d'urbanisme | Aucune propriété ou vente hypothétique affirmée comme certaine |
+| P1 | **1729–1755 : de Gaffori à Paoli** : personnages, institutions et discontinuités | Sources sur les révolutions et Livre Vivant 1755 | Récit historique autonome ; pas de téléologie vers 2026 |
+| P1 | **Les destins entrecroisés** : Arrighi, Bonaparte, Saliceti, Mariani ; Révolution, Empire, Restauration | Corpus généalogique et sources historiques qualifiées | Chaque relation personnelle/historique sourcée |
+| P1 | **26 octobre : le présent interroge 1755** | Autonomia, dossier parlementaire actualisé le jour même | Passerelle éditoriale, pas assimilation des régimes constitutionnels |
+
+### Le 26 octobre : livrable réaliste
+
+- Un **numéro de Magazine daté**, bref mais fini, rendant compte de l'état de l'enquête et de la séance parlementaire uniquement après vérification de son déroulement.
+- Dans la face **Livre**, un **premier récit substantiel** et publiable, sans prétendre achever la grande fresque historique de trois siècles.
+- Des **annexes consultables** qui rendent vérifiables les assertions centrales et préservent les lacunes.
+- Un état de publication honnête : **« premier feuilleton / livre en cours »**, sans présenter l'avant-première comme l'ouvrage achevé.
+
+### Règle anti-prolifération
+
+Avant toute création d'un nouveau fichier : identifier le document souverain existant, la section narrative à enrichir et le lecteur visé. Préférer **réviser `livre.md` et ses sources** à créer un plan de plus. Les prochains tours doivent produire du texte de livre, mesurer sa lisibilité puis seulement compléter la documentation indispensable.
