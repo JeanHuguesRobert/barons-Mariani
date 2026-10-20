@@ -82,6 +82,11 @@ jobs:
           repository: JeanHuguesRobert/cogentia
           path: .runtime/cogentia
           persist-credentials: false
+      - name: Install Cogentia dependencies
+        run: |
+          corepack enable
+          cd .runtime/cogentia
+          corepack pnpm install --frozen-lockfile
       - name: Emit native Cogentia continuation (portable receipt)
         env:
           IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
