@@ -1,7 +1,7 @@
 ---
 title: "Dossier de lecture parlementaire — Corse, article 72-5"
 date: "2026-10-09"
-status: "en préparation — non transmis"
+status: "en préparation — contribution transmise au secrétariat le 14 octobre ; amendement non déposé"
 document_role: "adapted"
 document_kind: "parliamentary-access-index"
 visibility: "public"
@@ -22,7 +22,7 @@ review:
 
 # Autonomie de la Corse — dossier pour le rapporteur du Sénat
 
-**Projet de loi constitutionnelle n° 782 (2025-2026) — état documentaire au 9 octobre 2026.** Proposition de la société civile ; ni amendement déposé, ni accord d'un parlementaire ne sont établis.
+**Projet de loi constitutionnelle n° 782 (2025-2026).** Ce dossier a été ouvert sur l'état documentaire du **9 octobre 2026** puis actualisé. **État consolidé au 15 octobre :** une contribution C.O.R.S.I.C.A. a été transmise au secrétariat de la commission des lois et sa réception a été accusée le 14 octobre ; aucun dépôt parlementaire de l'amendement ni accord d'un parlementaire ne sont établis.
 
 ## Lecture rapide
 
@@ -44,7 +44,7 @@ review:
 - [Atlas politique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/atlas_paysage_politique_corse.md) — contexte, non indispensable à la première lecture.
 - [Requête au Conseil constitutionnel](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel.md) — dossier contentieux **distinct** ; référence de provenance, non argument déterminant du présent amendement.
 
-## Références officielles contrôlées le 9 octobre
+## Baseline documentaire — références contrôlées le 9 octobre
 
 - Texte adopté et transmis : https://www.senat.fr/leg/pjl25-782.html
 - Dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
@@ -55,7 +55,7 @@ review:
 
 - **Rapporteure désignée le 7 octobre 2026 : Muriel Jourda**, également présidente de la commission des lois. [Fiche OSINT sourcée](osint_acteurs/muriel_jourda.md). Courriel professionnel public : **m.jourda@senat.fr**. La proposition Baron Mariani reste non transmise et non déposée.
 - Contenu de l'audition ministérielle : **non vérifié** (aucune citation imputée).
-- Projet de courrier : **brouillon, non envoyé**.
+- Projet de courrier nominatif à Mme Jourda : **brouillon distinct, non envoyé** ; ne pas le confondre avec la contribution associative transmise au secrétariat le 14 octobre.
 - Dépôt parlementaire de l'amendement d'effectivité : **non attesté**.
 - Requête constitutionnelle : démarches de transmission distinctes de la réception, de l'enregistrement et de l'examen juridictionnel.
 
