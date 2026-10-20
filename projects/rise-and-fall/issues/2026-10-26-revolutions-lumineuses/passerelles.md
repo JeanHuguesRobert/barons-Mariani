@@ -32,3 +32,20 @@ La fédération des Livres Vivants n'est **ni une fusion des Corpus ni une chaî
 3. Les contradictions ou découvertes issues d'un magazine deviennent des **contributions à instruire** au niveau de la source ; elles ne remplacent pas celle-ci par propagation silencieuse.
 4. Les éditions gelées restent immuables ; les corrections vivent dans les Corpus sources et les nouvelles projections datées.
 5. Ne pas substituer la narration de *Rise & Fall* à celle de *1755*, *Commons*, *Autonomia*, *Suicide Corse*, *Capable* ou *DIASPORA* ; entre eux circulent des liens, états de preuve et deltas, non une vérité imposée par un numéro.
+
+## Fusion éditoriale du 26 octobre — révolutions lumineuses, deux enquêtes, une question
+
+**Décision éditoriale du 20 octobre 2026.** Le numéro de *Rise & Fall* intitulé **« Révolutions lumineuses »** fait dialoguer *Looking for Gaffory* et le Livre Vivant *Autonomia*, en s'appuyant sur l'édition critique du Livre Vivant *1755*. La fusion est celle d'un **parcours de lecture et d'un rendez-vous éditorial**, pas celle des dossiers souverains ni des preuves.
+
+- **1729–1753 — Résister et transmettre.** La biographie de Jean-Pierre Gaffori et la question ouverte de sa sépulture éclairent la période révolutionnaire antérieure à Paoli ; l'emplacement actuel de ses restes n'est pas établi.
+- **1755 — Constituer.** L'expérience constitutionnelle corse sous Paoli doit être étudiée dans ses textes, ses pratiques et ses limites, sans en faire un équivalent de la réforme contemporaine.
+- **1830–1930, puis jusqu'en 2026 — Transformer et chercher.** Les mutations du couvent, les familles et les changements d'usage mettent à l'épreuve la transmission des traces ; les ventes et filiations non documentées restent des questions.
+- **26 octobre 2026 — Mettre à l'épreuve l'effectivité.** La discussion annoncée au Sénat sur l'autonomie de la Corse fournit une date de rencontre entre récit historique et question contemporaine : quelles capacités réelles naissent des libertés et pouvoirs institués ? L'agenda et les résultats de la séance seront vérifiés indépendamment.
+
+### Parcours du lecteur entre les trois volets
+
+1. **Livre grand public** : [*Looking for Gaffory*](livre.md), la longue histoire de Corte et des traces du corps, avec prologue antérieur à 1729.
+2. **Magazine** : [*Révolutions lumineuses*](magazine.md), le rendez-vous du 26 octobre, ses découvertes, contradictions et nouvelles questions.
+3. **Annexes techniques et scientifiques** : [registre critique](annexes.md) et [source souveraine des Capucins](../../../../musee-mariani/lieux/couvent-des-capucins/README.md) ; pour la constitution, [Livre Vivant *1755*](../../../1755/README.md) ; pour la doctrine contemporaine, [*Autonomia*](../../../../research/autonomia.md).
+
+**Règle de méthode.** Mettre en lumière une analogie n'établit pas une filiation juridique ou causale. Les découvertes inédites sur l'inhumation Gaffori soumises à autorisation, comme les documents privés du couvent, demeurent hors de la publication publique.
