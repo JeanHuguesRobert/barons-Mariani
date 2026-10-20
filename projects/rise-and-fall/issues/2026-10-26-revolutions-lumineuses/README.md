@@ -12,6 +12,14 @@ Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le
 - **[Conducteur de fabrication du 26 octobre](production.md)**
 - **[Contribuer à l'enquête : témoignages, archives, objections](CONTRIBUTING.md)**
 
+## Accès à l'avant-première « en préparation »
+
+- [Prévisualisation HTML agrégée — Rise & Fall](../../../../previews/en-preparation/rise-and-fall.html) (projection technique versionnée, non édition gelée).
+- [Page éditoriale dédiée — Révolutions lumineuses](../../site/revolutions-lumineuses.html) (présentation du numéro et liens vers ses trois parties).
+- [Sommaire et conducteur](production.md) : prochaines étapes, preuves attendues et critères de sortie.
+
+**État vérifié le 20 octobre 2026 :** les fichiers Livre, Magazine, Annexes, Passerelles et la prévisualisation HTML existent dans le dépôt public. Leur présence sur GitHub ne démontre pas, à elle seule, le déploiement effectif d'un domaine web ni l'achèvement éditorial. Le rendu HTML agrégé comporte encore des traces de syntaxe Markdown : contrôle de projection requis avant annonce d'une page finalisée.
+
 **Fil rouge :** *Looking for Gaffory* — biographie de Jean-Pierre Gaffori, circulation des récits de sa sépulture, transformations du couvent des Capucins de Corte et enquête matérielle. L'inhumation est documentée comme tradition historiographique ; la localisation des restes demeure une question, non une certitude.
 
 **Amplitude historique :** prologue avant 1729 ; 1729–1830 ; 1830–1930 ; 1930 à aujourd'hui.
