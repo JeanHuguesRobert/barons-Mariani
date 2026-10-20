@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-20T08:07:41.020848+00:00",
-  "git_sha": "bc0333c06f69c9cfce4aa84e3e143f33ad5ae0ae",
+  "built_at_utc": "2026-10-20T08:07:56.576164+00:00",
+  "git_sha": "373669f6f42b23980608ad6cf83415857d66d42e",
   "books": [
     {
       "id": "capable",
@@ -52,7 +52,7 @@
       "inputs": [
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
-          "sha256": "4305579ff97651af5b06ce86af559bd2519ca54fc144dca56118c4f9053b8498"
+          "sha256": "d0621128a6e1e5b545efd900863191faf3c81173b5d1fc0c517ae898624db1ec"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/livre.md",
