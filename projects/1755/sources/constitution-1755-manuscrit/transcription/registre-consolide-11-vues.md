@@ -37,6 +37,10 @@ review:
 
 Les autres fiches décrivent surtout la disposition visuelle, les rubriques candidates et les zones à revoir ; elles ne fournissent pas de texte diplomatique intégral. **Ne pas assimiler onze fiches à onze pages transcrites.**
 
+## Dernier contrôle FBF — 20 octobre 2026
+
+La fiche [0002 v0.3](FRAD02A_0002-lecture-v03.md) contient maintenant une grille des six segments/zones déjà évoqués, avec leurs niveaux de confiance et les vérifications visuelles nécessaires. **Une contradiction de localisation du motif de convocation annuelle reste explicitement ouverte : aucune nouvelle lecture paléographique directe n'a été revendiquée.**
+
 ## Conditions d'une consolidation textuelle ultérieure
 
 1. Vérifier ordre, foliotation, jonctions entre vues et statut distinct de 0016.
