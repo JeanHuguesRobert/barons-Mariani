@@ -9,7 +9,7 @@ visibility: public
 # Révolutions lumineuses
 *Rise & Fall of the Mariani Family — projet de numéro du 26 octobre 2026*
 
-**Statut : en préparation ; non publié ; non gelé.** Le 26 octobre est une échéance éditoriale envisagée en lien avec le débat sur l'autonomie de la Corse ; la date et l'ordre du jour parlementaires doivent être revérifiés avant toute annonce factuelle.
+**Statut : brouillon de manuscrit en préparation, distinct de l'[avant-première déjà publique sur GitHub](../../issues/2026-10-26-revolutions-lumineuses/README.md), non gelé.** Le débat sénatorial sur l'autonomie de la Corse est inscrit à l'ordre du jour du **26 octobre 2026**, après examen en commission prévu le 21 octobre ; calendrier et résultat doivent être recontrôlés le jour de séance. [Source officielle](https://www.senat.fr/dossier-legislatif/pjl24-869.html).
 
 ## Éditorial — Deux révolutions, plusieurs siècles
 
