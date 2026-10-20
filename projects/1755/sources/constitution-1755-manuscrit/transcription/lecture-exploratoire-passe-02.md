@@ -71,3 +71,13 @@ Ce dernier fragment relève de l'**annotation de classement**, pas d'une transcr
 - Conserver la distinction entre transcription du manuscrit, annotation de Costa et textes édités ultérieurement.
 
 **Ce document est un compte rendu d'inspection, pas une proclamation d'une transcription achevée.**
+
+## Relecture agrandie et rectification — 20 octobre 2026
+
+**Source directement revue :** [FRAD02A_0002.jpg](../images/FRAD02A_0002.jpg), région supérieure en pleine résolution (environ x=180–2500, y=250–1550 pixels).
+
+- La vue commence **au milieu d'une phrase**. La citation « La Dieta Generale una volta all'anno dovrà convocarsi… » conservée ci-dessus est une *lecture antérieure non localisée dans ce cadrage*, **pas une transcription vérifiée des premières lignes de `0002`**. Elle ne doit pas être utilisée pour reconstituer l'ordre du manuscrit sans localisation visuelle indépendante.
+- Les premières lignes examinées contiennent visiblement des mentions au **Generale** et de l'organisation de charges ou d'offices ; plusieurs mots sont encore ambigus. Un **intertitre centré** apparaît sous le premier bloc, avant une nouvelle disposition. Sa lecture exacte est suspendue : ne pas l'inventer à partir d'une édition imprimée.
+- Les retours à la ligne, la position de l'intertitre et le changement de paragraphe doivent désormais être relevés **par coordonnées/zone d'image**, non par simple rapprochement thématique.
+
+**Effet sur la continuation :** la structure par feuillet et les deux passages évoqués dans la première transcription restent à confirmer ; aucune nouvelle leçon diplomatique stabilisée n'est annoncée. Prochaine action : établir le découpage physique des zones de `0002`, puis transcrire ligne par ligne en préservant `[illisible]` et `[lecture ?]`. Le rapprochement avec Fontana ne pourra servir qu'à confronter une lecture indépendante, non à remplir les blancs.
