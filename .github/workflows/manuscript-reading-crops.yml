@@ -1,6 +1,12 @@
 name: Manuscript — reading crops (artifact only)
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/manuscript-reading-crops.yml'
+      - 'scripts/prepare-manuscript-reading.py'
+      - 'scripts/test-prepare-manuscript-reading.py'
   workflow_dispatch:
     inputs:
       image:
@@ -28,8 +34,8 @@ jobs:
           python-version: '3.12'
       - name: Validate bounded input
         env:
-          IMAGE: ${{ inputs.image }}
-          BANDS: ${{ inputs.bands }}
+          IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
+          BANDS: ${{ inputs.bands || '4' }}
         run: |
           python3 - <<'PY'
           import os, re
