@@ -76,6 +76,33 @@ jobs:
             --ocr "build/manuscript-reading/${IMAGE%.jpg}/ocr-candidate.txt" \
             --image-ref "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
             --output "build/manuscript-reading/${IMAGE%.jpg}/judgment-continuation.json"
+      - name: Checkout existing Cogentia runtime (no forked dispatcher)
+        uses: actions/checkout@v4
+        with:
+          repository: JeanHuguesRobert/cogentia
+          path: .runtime/cogentia
+          persist-credentials: false
+      - name: Emit native Cogentia continuation (portable receipt)
+        env:
+          IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
+        run: |
+          set -eu
+          mkdir -p build/scan-registry
+          printf '{"repos":[{"name":"barons-Mariani","path":"../.."}]}\n' > build/scan-registry/.cogentia.json
+          OUT="build/manuscript-reading/${IMAGE%.jpg}"
+          node .runtime/cogentia/scripts/cogentia.js \
+            --registry "$PWD/build/scan-registry/.cogentia.json" \
+            continuation emit --kind judgment \
+            --title "Paleographic review $IMAGE" \
+            --repo barons-Mariani \
+            --path "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
+            --required-capabilities "image_view,paleographic_judgment" \
+            --dedupe-key "scan-review:$IMAGE" \
+            --question "Review image evidence; never approve machine OCR without direct visual verification." \
+            --context-file "$OUT/judgment-continuation.json"
+          mkdir -p "$OUT/native-cogentia"
+          cp build/scan-registry/.cogentia/continuations/*.json "$OUT/native-cogentia/"
+          test -n "$(find "$OUT/native-cogentia" -name 'ctn_*.json' -print -quit)"
       - uses: actions/upload-artifact@v4
         with:
           name: manuscript-reading-${{ github.run_number }}
@@ -83,4 +110,4 @@ jobs:
           if-no-files-found: error
           retention-days: 30
 
-# Read-only pipeline: no commit, no publication, no OCR, no historical claims.
+# Read-only pipeline: no commit or public text promotion. Native continuation is artifact-only; not dispatched to an external handler.
