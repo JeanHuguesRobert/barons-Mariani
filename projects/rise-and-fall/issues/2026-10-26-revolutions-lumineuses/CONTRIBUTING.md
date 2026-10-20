@@ -1,6 +1,6 @@
 # Contribuer à « Révolutions lumineuses »
 
-**Appel à contributions — version de travail du 19 octobre 2026.** Le numéro n'est ni gelé ni publié.
+**Appel à contributions — version de travail du 19 octobre 2026.** L'avant-première est publique et évolutive ; le numéro du 26 octobre n'est pas gelé.
 
 ## La question ouverte
 
