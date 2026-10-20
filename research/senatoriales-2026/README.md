@@ -13,6 +13,16 @@ lifecycle_state: "active"
 
 # Sénatoriales 2026
 
+## État courant consolidé — 20 octobre 2026
+
+- Le scrutin du 27 septembre 2026 est achevé et ses résultats sont documentés.
+- La requête au Conseil constitutionnel a été **reçue et enregistrée le 7 octobre 2026 sous le n° 2026-6589 SEN**.
+- À la demande du greffe, la requête et la note d'accompagnement ont ensuite été déposées via TransfertPro ; la transaction **108954845843673847** a été validée et les deux PDF ont été annoncés disponibles pour le greffe à **20 h 49 min 28 s**.
+- Le suivi postérieur au dépôt se trouve dans [`suivi-instruction-conseil-constitutionnel.md`](suivi-instruction-conseil-constitutionnel.md).
+- Le sort du courriel et de la vidéo du 11 septembre à 17 h 57 min 55 s reste **UNKNOWN** ; voir [`registre-inconnues-tracabilite.md`](registre-inconnues-tracabilite.md).
+- Les anciens projets de requête, checklists de dépôt et snapshots datés sont des **archives de fabrication** : ils ne doivent pas être lus comme l'état procédural courant.
+
+
 Ce répertoire constitue le **point d'entrée canonique** du Corpus pour la candidature sénatoriale de Haute-Corse de septembre 2026, les opérations qui l'ont entourée, son contentieux devant le Tribunal administratif de Bastia et l'enquête documentaire poursuivie après le jugement.
 
 Il ne constitue pas une source unique appelée à absorber toutes les autres.
@@ -145,7 +155,7 @@ Une omission, une réponse partielle, un silence ou une divergence documentaire 
 
 Leur cause ne doit pas être transformée en fait sans élément indépendant permettant de l'établir.
 
-## 7. État actuel
+## 7. Historique opérationnel antérieur
 
 ### 1er octobre 2026 — consultation post-scrutin effectuée
 
