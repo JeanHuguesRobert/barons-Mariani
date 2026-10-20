@@ -15,6 +15,7 @@ on:
       - "projects/suicide-corse/editions/**"
       - "projects/1755/manuscript/**"
       - "projects/1755/editions/**"
+      - "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/**"
       - "scripts/build-living-books-news-previews.py"
       - ".github/workflows/living-books-news-previews.yml"
 
@@ -40,6 +41,7 @@ jobs:
           test -s previews/en-preparation/index.html
           test -s previews/en-preparation/capable.html
           test -s previews/en-preparation/1755.html
+          test -s previews/en-preparation/rise-and-fall.html
           test -s previews/en-preparation/suicide-corse.html
           python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
       - name: Commit public working projections only
