@@ -27,8 +27,24 @@ review: unreviewed
 - **Z3 bas :** intertitre commençant possiblement par « Della ... » ; indéterminé.
 - **Z4 :** texte présent, transcription sûre non encore obtenue.
 
-La lecture antérieure avait écarté à tort le motif de convocation annuelle du début de 0002 ; celui-ci est observé dans la zone supérieure, sans que la phrase complète soit établie. Les deux états contradictoires demeurent documentés dans la [passe 02](lecture-exploratoire-passe-02.md).
+**Divergence non arbitrée :** les notes antérieures situent le motif de convocation annuelle dans la zone supérieure de 0002 ; le compte rendu de la passe 02 indique au contraire que cette attribution n'est pas localisée avec certitude dans le cadrage agrandi. Sans nouvelle vérification visuelle de l'image source, il serait incorrect de déclarer l'une des deux lectures confirmée. Les deux états contradictoires demeurent documentés dans la [passe 02](lecture-exploratoire-passe-02.md).
 
 ## Reprise
 
 Transcrire chaque ligne avec repères topographiques ; vérifier sur TIFF le sujet de Z1, les intertitres et les sommes de Z3 ; tester le raccord 0002/0003 sans l'affirmer prématurément. **Statut : partial / judgment_required_for_paleography.**
+
+
+## Grille de transcription contrôlable — état ouvert (20 octobre 2026)
+
+Le présent ajout **n'est pas une nouvelle lecture directe de l'image**. Il explicite les contrôles nécessaires à la transcription, car l'accès à la ressource JPEG binaire en pleine définition n'était pas disponible dans la session de mise à jour. Aucun numéro de ligne n'est attribué arbitrairement.
+
+| Zone | Segment candidat déjà consigné | Position/lignes exactes | Niveau | Vérification nécessaire |
+|---|---|---|---|---|
+| Z1 | « una volta all'anno dovrà convocarsi nel luogo » | NON LOCALISÉ avec certitude | contradictoire | Recadrage pleine résolution, repères ligne par ligne ; confirmer sujet et emplacement avant citation |
+| Z2 | « Delle cause che non oltrepasseranno ... » | NON LOCALISÉ ligne par ligne | exploratoire | Lecture directe, contrôle des montants et des mots adjacents |
+| Z3 | « Dalle lire 15 sino alle 25 inclusive ... » | Zone approximative seule | exploratoire | Contrôle des chiffres, unités et variantes sur TIFF |
+| Z3 | « Dalle lire 25 inclusive fino alle 50 inclusive ... » | Zone approximative seule | exploratoire | Contrôle des chiffres et de la ponctuation sur TIFF |
+| Z3 | « Dalle lire 50 inclusive sino alle cento inclusive ... » | Zone approximative seule | exploratoire | Contrôle des chiffres et du mot « cento » sur TIFF |
+| Z4 | Aucune leçon suffisamment assurée | — | à déchiffrer | Lecture ligne par ligne et raccord avec 0003 |
+
+**Condition de promotion :** chaque leçon doit acquérir un repère spatial ou une numérotation de ligne contrôlée sur l'image, une transcription diplomatique sans suppléance silencieuse d'édition, une marque explicite des incertitudes et une relecture distincte. Les citations candidates sont maintenues pour permettre leur examen contradictoire, pas pour leur donner autorité.
