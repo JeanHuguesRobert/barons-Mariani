@@ -1,0 +1,93 @@
+{
+  "schema": "1755.archival-image-manifest/v1",
+  "status": "consultation-derivatives",
+  "description": "Compressed JPEG derivatives; not manuscript diplomatic transcriptions and not preservation masters",
+  "repository": "JeanHuguesRobert/barons-Mariani",
+  "archival_reference": {
+    "repository": "Collectivité de Corse — Archives du Pumonti",
+    "fonds": "1 J 7",
+    "cote": "1 J 7/1",
+    "title": "Dieta generale del Popolo di Corsica",
+    "place": "Corte",
+    "date": "novembre 1755",
+    "accession": "Don de M. A. Costa, 10 juin 1933",
+    "confirmation_letter": "14 octobre 2026, MJP.De.Re N°26-334"
+  },
+  "master": {
+    "type": "TIFF non compressés",
+    "retention": "hors de ce dépôt Git",
+    "source": "Archives du Pumonti",
+    "request_email": "archivii.pumonti@isula.corsica",
+    "received_zip_sha256": "780f0d271e371618e4c5b8d0dba79633b9f2e26a0075677fdfca9cb1e26ebf72",
+    "note": "Exemplaire TIFF communiqué le 14 octobre 2026 ; copies à demander directement aux Archives pour de nouveaux usages"
+  },
+  "derivation": {
+    "format": "JPEG",
+    "quality": 90,
+    "chroma_subsampling": "4:4:4",
+    "resolution": "dimensions conservées",
+    "lossy": true
+  },
+  "images": [
+    {
+      "path": "images/FRAD02A_0002.jpg",
+      "bytes": 3417716,
+      "sha256": "1fb8ca3f3efe265656b30cdf11335504da147f371b74cabc7e46aa6c16b3986e"
+    },
+    {
+      "path": "images/FRAD02A_0003.jpg",
+      "bytes": 3341278,
+      "sha256": "65433c95756cb942408df57c90f5cede8f2ff8ab4850683adddf94c8399d79b2"
+    },
+    {
+      "path": "images/FRAD02A_0004.jpg",
+      "bytes": 3497522,
+      "sha256": "fdf0e8e2a5edf5e3a52ca90cc488d8d56ed723c8f4d73c93ec881d95f702a4d7"
+    },
+    {
+      "path": "images/FRAD02A_0005.jpg",
+      "bytes": 3409728,
+      "sha256": "351ee9fd4a89d49895ec60cef7d529cf5290437798a68d58c15d3a1198e3766d"
+    },
+    {
+      "path": "images/FRAD02A_0006.jpg",
+      "bytes": 3468569,
+      "sha256": "78f8ca463e0c81e8752056ef330db952a5827d1d58b53590e60aa7b2fc0155f3"
+    },
+    {
+      "path": "images/FRAD02A_0007.jpg",
+      "bytes": 3413435,
+      "sha256": "db8a64553ce5f248ac785e42bc5964b892e28d85ce6cab45682615024cacead4"
+    },
+    {
+      "path": "images/FRAD02A_0008.jpg",
+      "bytes": 3596379,
+      "sha256": "29819d68e496fa31546e45cee25007f250a815fb868113fd0277dfea2fbab37b"
+    },
+    {
+      "path": "images/FRAD02A_0009.jpg",
+      "bytes": 3410188,
+      "sha256": "3fc70babe138806e682876c453a10330f3bc6177beac2d19650964a2d517cda9"
+    },
+    {
+      "path": "images/FRAD02A_0010.jpg",
+      "bytes": 3453391,
+      "sha256": "21e76cfdb72e574171acef874e42e9ed69867110dec85e64ac3fe04c30d65940"
+    },
+    {
+      "path": "images/FRAD02A_0015.jpg",
+      "bytes": 2869425,
+      "sha256": "ae026788cf7bd6f81ba00d8a49c315a24bacf45c0535b211b163f3533de577c6"
+    },
+    {
+      "path": "images/FRAD02A_0016.jpg",
+      "bytes": 1450247,
+      "sha256": "5d74ca650ee90c220bdec551e5b2973e3d3e20f8c81c2cd53cc8d4d98f61d6a3"
+    }
+  ],
+  "caveats": [
+    "Les images publiées ne prouvent pas à elles seules l'authenticité matérielle d'un autographe de 1755.",
+    "Les lacunes dans les numéros de fichiers ne prouvent pas que des feuillets manquent.",
+    "Réutilisation : respecter les règles applicables, l'intégrité et l'attribution demandées par les Archives."
+  ]
+}
