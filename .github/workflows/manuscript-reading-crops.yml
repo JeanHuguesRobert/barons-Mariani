@@ -75,7 +75,6 @@ jobs:
             --diagnostic "build/manuscript-reading/${IMAGE%.jpg}/ocr-provenance.json" \
             --ocr "build/manuscript-reading/${IMAGE%.jpg}/ocr-candidate.txt" \
             --image-ref "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
-            --review-ref "projects/1755/sources/constitution-1755-manuscrit/transcription/FRAD02A_0002-lecture-v03.md" \
             --output "build/manuscript-reading/${IMAGE%.jpg}/judgment-continuation.json"
       - uses: actions/upload-artifact@v4
         with:
