@@ -17,36 +17,21 @@ def build(manifest, diagnostic, ocr, image_ref, review_ref=None):
         raise ValueError("OCR exceeds packet size limit")
     source=m["source_filename"]
     return {
-      "envelope":{
-        "packet_kind":"continuation",
-        "protocol_header":"Self-describing Cognitive Packet: resume the bounded work, verify evidence and write an auditable decision. Self-describing does not mean self-validating.",
-        "profile":"scan-reading-judgment/v1",
-        "transport":"referential",
-        "provenance":{"source_sha256":m["source_sha256"],"source_filename":source,
-                      "ocr_sha256":hashlib.sha256(raw).hexdigest(),
-                      "ocr_engine":d["engine"],"ocr_language":d["language"]},
-        "routing":{"required_capability":"multimodal-paleographic-judgment","state":"JUDGMENT_REQUIRED"}
-      },
-      "payload":{
-        "question":"What characters, words, or lines in this image can be defended by direct visual reading? Identify contradictions with OCR and older editions without importing text silently.",
-        "inputs":{
-          "image":image_ref,
-          "crop_manifest":str(manifest),
-          "ocr_candidate":str(ocr),
-          "ocr_diagnostic":str(diagnostic),
-          "reference_reading":review_ref
-        },
-        "observations":["OCR is unreviewed and may be noise", "Source/crop fingerprints match the OCR source"],
-        "unknown":["Accurate diplomatic line readings", "Page order and any restoration"],
-        "next_action":"Inspect original image and targeted crops; read a bounded zone line-by-line; report observed/inferred/unknown and cite pixel coordinates.",
-        "resume_contract":{
-          "return_fields":["source_sha256","zone_box_xyxy","observed_lines","uncertain_readings","contradictions","evidence_refs","decision","next_action"],
-          "allowed_decisions":["hold_for_tiff","partial_reading","reject_ocr","request_review"],
-          "forbidden":["declare_verified_without_review","publish_unreviewed_ocr_as_manuscript_text","infer_missing_words_from_secondary_edition"]
-        },
-        "closure_status":"open",
-        "publish_effect":"none"
-      }
+      "schema":"scan-evidence-context/v1",
+      "source":{"filename":source,"sha256":m["source_sha256"],"image_ref":image_ref,
+                "dimensions":m["source_pixels"]},
+      "evidence":{"crop_manifest":str(manifest),
+                  "ocr_file":str(ocr),
+                  "ocr_sha256":hashlib.sha256(raw).hexdigest(),
+                  "ocr_diagnostic":str(diagnostic),
+                  "ocr_engine":d["engine"],"ocr_language":d["language"],
+                  "existing_reading_ref":review_ref},
+      "judgment":{"required":"multimodal-paleographic-judgment",
+                  "question":"Read a bounded zone directly from the scan, mark uncertainty, compare OCR only as a fallible hypothesis.",
+                  "decision_options":["partial_reading","hold_for_tiff","reject_ocr","request_review"],
+                  "must_preserve":["source_provenance","pixel_coordinates","contradictions","uncertainties"],
+                  "publication_allowed":False},
+      "status":"evidence_only_no_handler_claim"
     }
 
 def main():
@@ -60,5 +45,5 @@ def main():
     a=p.parse_args()
     packet=build(a.manifest,a.diagnostic,a.ocr,a.image_ref,a.review_ref)
     Path(a.output).write_text(json.dumps(packet,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
-    print(json.dumps({"status":"JUDGMENT_REQUIRED","output":a.output,"image":a.image_ref}))
+    print(json.dumps({"status":"EVIDENCE_PREPARED","output":a.output,"image":a.image_ref}))
 if __name__=="__main__":main()
