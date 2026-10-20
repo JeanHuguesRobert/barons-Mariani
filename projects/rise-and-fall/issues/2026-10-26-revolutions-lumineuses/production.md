@@ -89,3 +89,10 @@ Le travail est divisible en paquets **indépendants et reprenables** : tout paqu
 - Ajout au `livre.md` d'une scène argumentative **« 1753, la mort avant la Constitution »** : elle empêche de présenter Gaffori comme un simple prélude téléologique à Paoli, distingue tradition funéraire et identification matérielle, et maintient les frontières de diffusion du document inédit.
 - Reste à sourcer avant gel : biographie et circonstances du décès, pratiques funéraires, topographie historique, rapports de fouille et textes constitutionnels comparés.
 - Pas de gel de numéro, pas de publication des pièces privées, pas d'affirmation nouvelle sur l'identité des restes.
+
+## 20 octobre 2026 — Contrôle de la projection « en préparation »
+
+- **Présence GitHub confirmée** : `previews/en-preparation/rise-and-fall.html`, `projects/rise-and-fall/site/revolutions-lumineuses.html`, et le triptyque source `livre.md` / `magazine.md` / `annexes.md`.
+- **Écart de qualité identifié** : la prévisualisation agrégée contient encore des marqueurs Markdown littéraux (`**...**`, liens relatifs non transformés en ancres) ; elle est consultable comme sortie technique, mais pas encore satisfaisante comme publication destinée au grand public.
+- **Action RL-05 prioritaire** : corriger ou remplacer la transformation Markdown → HTML dans le générateur, puis contrôler les liens transversaux et l'état de préparation. Ne pas déclarer la page externe déployée sans test HTTP indépendant.
+- **Prochaine révision de fond** : collation des sources sur les sépultures, la chaîne foncière Bertrand et les textes de 1755. Les états de preuve et restrictions de diffusion demeurent inchangés.
