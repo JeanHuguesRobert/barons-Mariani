@@ -77,3 +77,26 @@ Nous pouvons avancer autrement : en montrant les documents qui soutiennent une t
 Si ce livre mérite le nom de *vivant*, c'est parce qu'il accepte d'être corrigé par le réel.
 
 *À suivre dans le [Magazine](magazine.md). Sources, contradictions et lacunes dans les [Annexes](annexes.md).* 
+
+
+## Carnet de rédaction — 1753, la mort avant la Constitution
+
+*Séquence narrative provisoire du 20 octobre 2026. Les passages interprétatifs sont distingués des faits référencés dans les annexes et dans le dossier Capucins.*
+
+Il est tentant de commencer l'histoire politique de la Corse en 1755. Une Constitution donne des articles à lire, des institutions à décrire, une date que l'on peut inscrire sur une couverture. Mais deux ans avant cette date, à Corte, un autre événement oblige à raconter une histoire qui n'a pas encore trouvé son terme : la mort de Jean-Pierre Gaffori.
+
+Gaffori n'appartient pas au gouvernement de Paoli. Il est l'une des figures de la phase précédente des soulèvements contre la domination génoise. Le placer sous l'ombre portée de la Constitution future serait le réduire à un prélude. Il avait son époque, ses adversaires, ses responsabilités, ses alliés et ses incertitudes. Les insurgés de son temps ne savaient pas ce que 1755 déciderait.
+
+Le **2 octobre 1753**, Gaffori est assassiné. De cette mort naissent plusieurs questions distinctes. Que rapportent les témoignages contemporains sur les circonstances de l'attaque ? Qui organisa les funérailles ? Quelles sources situent son inhumation au couvent des Capucins ? Et, surtout, comment passer d'une affirmation ancienne sur un lieu de sépulture à une localisation vérifiable de restes humains aujourd'hui ?
+
+Nous ne connaissons pas encore toutes les réponses. C'est précisément pourquoi la recherche ne commence pas par l'ouverture imaginaire d'un tombeau. Elle commence par une lecture : noms, dates, graphies Gaffori ou Gaffory, mentions d'église, de caveau, de chapelle et de jardin. Le moindre déplacement de vocabulaire peut déplacer aussi le lieu qu'on croit chercher.
+
+À quelques années de là, **1755** ouvrira une expérience constitutionnelle associée à Pascal Paoli. On peut rapprocher les deux événements par les problèmes qu'ils posent aux Corses : décider, organiser un pouvoir, transmettre une légitimité. Mais le rapprochement n'efface ni la rupture entre les acteurs ni la chronologie. **Gaffori ne devait pas devenir Paoli pour mériter d'être étudié.**
+
+Trois siècles plus tard, l'ancien couvent n'est plus une unité simple. Chapelle transformée en cinéma, cours, accès, parcelles et copropriétés relèvent de trajectoires différentes. Il serait aussi imprudent de traiter une porte actuelle comme l'entrée certaine d'une chapelle du XVIIIe siècle que de prendre une tradition d'inhumation pour une identification archéologique. Chaque correspondance exige un plan, une date et une source.
+
+C'est ici que la lumière devient une méthode plutôt qu'une décoration de titre. Une révolution politique n'éclaire pas mécaniquement les faits anciens. La lumière est le travail qui permet de distinguer ce qui a été écrit, ce qui a été répété, ce qui a été retrouvé et ce qui reste inaccessible. Elle exige aussi de laisser un document inédit à l'abri tant que ses détenteurs n'en ont pas autorisé la diffusion.
+
+Le lecteur peut alors passer du récit à l'enquête : le [Magazine](magazine.md) consignera les nouvelles pièces datées ; les [Annexes](annexes.md) distingueront les sources des hypothèses ; le [dossier souverain du couvent](../../../../musee-mariani/lieux/couvent-des-capucins/README.md) conservera les vérifications. La passerelle avec [*Autonomia*](../../../../research/autonomia.md) et [*1755*](../../../1755/README.md) ne porte pas sur une continuité politique présumée, mais sur une question : **à quelles conditions la liberté déclarée devient-elle une capacité réelle ?**
+
+*À instruire avant gel : biographie primaire de Gaffori ; historiographie des funérailles ; topographie des chapelles et du cloître ; rapports archéologiques publiables ; chronologie constitutionnelle précise.*
