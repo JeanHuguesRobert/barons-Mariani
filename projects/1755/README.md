@@ -98,7 +98,7 @@ projects/1755/
 
 ## Passerelle éditoriale — « Révolutions lumineuses » (26 octobre 2026)
 
-Le prochain numéro annoncé du Livre Vivant [*Rise & Fall*](../rise-and-fall/README.md), intitulé **« Révolutions lumineuses »**, prépare pour la séquence du **26 octobre 2026** (calendrier parlementaire à revérifier) une lecture croisée : révolutions corses ouvertes en 1729, moment constitutionnel de 1755, figures de Gaffori et de Paoli, héritages napoléoniens, mémoire patrimoniale du couvent des Capucins de Corte, et processus contemporain d'autonomie.
+Le prochain numéro annoncé du Livre Vivant [*Rise & Fall*](../rise-and-fall/README.md), intitulé **« Révolutions lumineuses »**, prépare pour la séquence du **26 octobre 2026** (séance inscrite à l'ordre du jour du Sénat ; calendrier à recontrôler le jour même) une lecture croisée : révolutions corses ouvertes en 1729, moment constitutionnel de 1755, figures de Gaffori et de Paoli, héritages napoléoniens, mémoire patrimoniale du couvent des Capucins de Corte, et processus contemporain d'autonomie.
 
 Cette articulation renvoie au document source [*Autonomia*](../../research/autonomia.md). Elle compare **des régimes historiques distincts**, sans attribuer aux acteurs de 1755 les positions des débats de 2026. Les preuves relatives à la sépulture de Gaffori restent un chantier archéologique et archivistique autonome. Le numéro est **en préparation, non gelé** ; le Livre Vivant 1755 conserve son propre mandat, son corpus et ses niveaux de preuve.
 
@@ -112,7 +112,7 @@ Cette articulation renvoie au document source [*Autonomia*](../../research/auton
 
 ## Écho constitutionnel contemporain — état au 9 octobre 2026
 
-L'examen en octobre 2026 du projet de loi constitutionnelle pour une Corse autonome au sein de la République est un **point de comparaison contemporain**, et non une preuve historique relative à la Constitution de 1755. La commission des lois du Sénat a référencé l'audition ministérielle du 7 octobre ; la séance du 26 octobre est programmée. Le rapporteur du texte n° 782 n'est pas nominativement confirmé dans le présent relevé.
+L'examen en octobre 2026 du projet de loi constitutionnelle pour une Corse autonome au sein de la République est un **point de comparaison contemporain**, et non une preuve historique relative à la Constitution de 1755. La commission des lois du Sénat a référencé l'audition ministérielle du 7 octobre ; la séance du 26 octobre est programmée. Le [Sénat identifie Muriel Jourda comme rapporteure du texte](https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-constitutionnelle-pour-une-corse-autonome-au-sein-de-la-republique.html). Ne pas anticiper les conclusions de la commission du 21 octobre ni le résultat de la séance du 26 octobre.
 
 - [Observatoire contemporain de l'autonomie](../../research/autonomia/observatoire_processus_autonomie_corse.md)
 - [Continuité parlementaire](../../research/autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
