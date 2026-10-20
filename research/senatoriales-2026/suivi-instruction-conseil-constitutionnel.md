@@ -4,7 +4,7 @@ description: "Point d’entrée stable vers les informations postérieures au d�
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-07"
-last_modified_at: "2026-10-09"
+last_modified_at: "2026-10-20"
 license: "CC BY-SA 4.0"
 language: "fr"
 document_role: "operational"
@@ -33,11 +33,11 @@ review:
 
 Cette page est conçue pour pouvoir être utilisée **sans connaître GitHub ni le Corpus**.
 
-La requête initiale, une fois gelée, ne sera plus modifiée. Cette page, au contraire, pourra continuer à évoluer.
+La requête initiale est **gelée depuis son dépôt du 7 octobre 2026** et ne doit plus être modifiée comme acte déposé. Cette page, au contraire, continue à évoluer.
 
 Le principe est donc simple :
 
-**requête gelée → adresse stable de la présente page → informations apparues après le dépôt.**
+**requête gelée et enregistrée sous 2026-6589 SEN → adresse stable de la présente page → informations apparues après le dépôt.**
 
 En partant de la requête initiale, le lecteur pourra revenir ici pour savoir notamment :
 
