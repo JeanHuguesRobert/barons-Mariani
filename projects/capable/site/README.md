@@ -43,7 +43,7 @@ Sources :
 - `projects/capable/campaign/marche-du-soleil.md`
 - `projects/capable/campaign/observatoire-presentations-2027.md`
 
-Avant le 7 octobre 2026 à 18 h, leur implémentation technique reste subordonnée au P0 procédural.
+La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel était une **contrainte historique avant le 7 octobre 2026 à 18 h**. La requête ayant depuis été enregistrée sous le n° **2026-6589 SEN**, cette phrase ne constitue plus une priorité opérationnelle courante.
 
 ## Exigences
 
@@ -60,4 +60,4 @@ Avant le 7 octobre 2026 à 18 h, leur implémentation technique reste subordonn�
 
 Un agent de coding peut implémenter le site à partir de ce contrat, en réutilisant les conventions des autres Livres Vivants du dépôt.
 
-Cette implémentation ne constitue pas une priorité supérieure à la sécurisation du dépôt de la requête au Conseil constitutionnel.
+La sécurisation du dépôt au Conseil constitutionnel est désormais un **jalon historique accompli** ; les priorités courantes du site doivent être dérivées de l’état du Corpus et des campagnes actives, sans réutiliser cette ancienne contrainte comme gate.
