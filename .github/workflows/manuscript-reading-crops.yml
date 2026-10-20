@@ -38,6 +38,8 @@ jobs:
           PY
       - name: Install image dependency
         run: python -m pip install 'Pillow>=10,<12'
+      - name: Test crop processor on synthetic image
+        run: python scripts/test-prepare-manuscript-reading.py
       - name: Prepare reading crops
         env:
           IMAGE: ${{ inputs.image }}
