@@ -8,6 +8,7 @@ on:
       - 'scripts/prepare-manuscript-reading.py'
       - 'scripts/test-prepare-manuscript-reading.py'
       - 'scripts/ocr-manuscript-diagnostic.py'
+      - 'scripts/build-scan-judgment-packet.py'
   workflow_dispatch:
     inputs:
       image:
@@ -65,6 +66,17 @@ jobs:
           python scripts/ocr-manuscript-diagnostic.py \
             "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
             --output "build/manuscript-reading/${IMAGE%.jpg}"
+      - name: Materialize resumable judgment continuation
+        env:
+          IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
+        run: |
+          python scripts/build-scan-judgment-packet.py \
+            --manifest "build/manuscript-reading/${IMAGE%.jpg}/manifest.json" \
+            --diagnostic "build/manuscript-reading/${IMAGE%.jpg}/ocr-provenance.json" \
+            --ocr "build/manuscript-reading/${IMAGE%.jpg}/ocr-candidate.txt" \
+            --image-ref "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
+            --review-ref "projects/1755/sources/constitution-1755-manuscrit/transcription/FRAD02A_0002-lecture-v03.md" \
+            --output "build/manuscript-reading/${IMAGE%.jpg}/judgment-continuation.json"
       - uses: actions/upload-artifact@v4
         with:
           name: manuscript-reading-${{ github.run_number }}
