@@ -96,3 +96,9 @@ Le travail est divisible en paquets **indépendants et reprenables** : tout paqu
 - **Écart de qualité identifié** : la prévisualisation agrégée contient encore des marqueurs Markdown littéraux (`**...**`, liens relatifs non transformés en ancres) ; elle est consultable comme sortie technique, mais pas encore satisfaisante comme publication destinée au grand public.
 - **Action RL-05 prioritaire** : corriger ou remplacer la transformation Markdown → HTML dans le générateur, puis contrôler les liens transversaux et l'état de préparation. Ne pas déclarer la page externe déployée sans test HTTP indépendant.
 - **Prochaine révision de fond** : collation des sources sur les sépultures, la chaîne foncière Bertrand et les textes de 1755. Les états de preuve et restrictions de diffusion demeurent inchangés.
+
+## 20 octobre 2026 — Discipline d'exécution : faire avant d'annoncer
+
+**Instruction éditoriale explicite :** ne pas remplacer une action réalisable dans le Corpus par une série de propositions ou de promesses. Pour chaque demande opérationnelle : (1) rechercher l'existant afin d'éviter les doublons ; (2) effectuer immédiatement les corrections et écritures autorisées ; (3) relire le résultat dans le dépôt ; (4) rapporter les liens et les changements réellement vérifiés ; (5) distinguer clairement les blocages, les tâches non faites et les validations qui restent nécessaires.
+
+**Application au numéro du 26 octobre :** le numéro *Révolutions lumineuses*, le triptyque Livre/Magazine/Annexes et la passerelle *Autonomia* sont déjà présents dans le Corpus. Ne plus les annoncer comme projets à créer. La priorité FBF restante est de corriger la qualité de la prévisualisation HTML et de vérifier les liens ; le gel de l'édition et la publication sur un domaine externe ne doivent pas être présumés accomplis.
