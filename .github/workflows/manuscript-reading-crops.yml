@@ -1,0 +1,57 @@
+name: Manuscript — reading crops (artifact only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      image:
+        description: "Image basename in the 1755 archival JPEG folder (e.g. FRAD02A_0002.jpg)"
+        required: true
+        default: "FRAD02A_0002.jpg"
+        type: string
+      bands:
+        description: "Number of horizontal strips"
+        required: true
+        default: "4"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate bounded input
+        env:
+          IMAGE: ${{ inputs.image }}
+          BANDS: ${{ inputs.bands }}
+        run: |
+          python3 - <<'PY'
+          import os, re
+          assert re.fullmatch(r'FRAD02A_[0-9]{4}\.jpg', os.environ['IMAGE']), 'Invalid image name'
+          assert os.environ['BANDS'].isdigit() and 1 <= int(os.environ['BANDS']) <= 20, 'Invalid band count'
+          PY
+      - name: Install image dependency
+        run: python -m pip install 'Pillow>=10,<12'
+      - name: Prepare reading crops
+        env:
+          IMAGE: ${{ inputs.image }}
+          BANDS: ${{ inputs.bands }}
+        run: |
+          python scripts/prepare-manuscript-reading.py \
+            "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
+            --output "build/manuscript-reading/${IMAGE%.jpg}" \
+            --bands "$BANDS"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: manuscript-reading-${{ github.run_number }}
+          path: build/manuscript-reading/
+          if-no-files-found: error
+          retention-days: 30
+
+# Read-only pipeline: no commit, no publication, no OCR, no historical claims.
