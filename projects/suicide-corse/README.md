@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: '2026-10-09'
+last_modified_at: '2026-10-20'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -95,7 +95,14 @@ même structure capacitaire
 ```
 
 
-## État courant — 30 septembre 2026
+## Historique des éditions — état consolidé au 20 octobre 2026
+
+### État courant du projet — 20 octobre 2026
+
+Les numéros spéciaux antérieurs restent gelés. **Suicide Corse n°4 est le chantier éditorial actif** ; sa matière continue d'évoluer dans le manuscrit, les journaux, audits et la note d'édition en préparation. Le dossier sénatorial postérieur au scrutin, la requête **2026-6589 SEN**, la traçabilité des canaux et les réponses institutionnelles appartiennent au delta du n°4 lorsqu'ils sont éditorialement pertinents, sans modifier rétroactivement les numéros gelés.
+
+La source opérationnelle du numéro courant est [`suivi.md`](suivi.md) ; la note d'édition en préparation est [`editions/2026-10-09-n4-en-preparation.md`](editions/2026-10-09-n4-en-preparation.md).
+
 
 ### Numéro spécial anniversaire — 17 septembre 2026
 
