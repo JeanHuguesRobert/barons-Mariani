@@ -1,6 +1,6 @@
 # Confédération des Livres Vivants — passerelles du numéro
 
-Statut : avant-première publique en préparation depuis le 19 octobre 2026, non gelée ; projection HTML publique générée le 20 octobre 2026. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
+Statut : avant-première publique en préparation depuis le 19 octobre 2026, non gelée ; projection HTML publique générée le 20 octobre 2026. Échéance éditoriale visée : 26 octobre 2026 ; séance sénatoriale inscrite à l'ordre du jour pour cette date, à recontrôler le jour même.
 
 Le numéro de *Rise & Fall* **ne remplace pas** les autres Livres Vivants : il publie un parcours transversal dont chaque fragment renvoie à la source et au mandat éditorial propre de son Livre.
 
@@ -21,7 +21,7 @@ Le numéro de *Rise & Fall* **ne remplace pas** les autres Livres Vivants : il p
 
 ## Date-pivot
 
-Le **26 octobre 2026** est un rendez-vous éditorial proposé. Ne pas annoncer l'examen sénatorial comme confirmé sans actualisation du calendrier et des comptes rendus officiels.
+Le **26 octobre 2026** est le rendez-vous éditorial prévu et la date de discussion en séance publique inscrite par le Sénat pour le projet de loi constitutionnelle sur l'autonomie de la Corse. La commission des lois est programmée le 21 octobre. Sources : [dossier législatif](https://www.senat.fr/dossier-legislatif/pjl24-869.html), [ordre du jour](https://www.senat.fr/ordre-du-jour/ordre-du-jour.html). L'inscription à l'ordre du jour ne préjuge ni du déroulement ni du résultat de la séance ; revérifier le 26 octobre.
 
 ## Doctrine de réutilisation fédérée
 
