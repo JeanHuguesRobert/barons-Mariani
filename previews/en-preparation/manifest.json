@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-20T07:02:55.313635+00:00",
-  "git_sha": "16942b73e88cd7bddc0115af935454d4d983edc6",
+  "built_at_utc": "2026-10-20T07:03:39.241121+00:00",
+  "git_sha": "2793e190edc2dfd0df016ddd0939b550133e60dd",
   "books": [
     {
       "id": "capable",
@@ -68,7 +68,7 @@
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md",
-          "sha256": "c7f652b83fa210e3eb879a830022a5776edf9bd9aa72071e2b375f4d47613222"
+          "sha256": "f4f49795ee7dd7263142efc69dba56fca53c3dc0854fc7951203f69d6a435896"
         }
       ]
     }
