@@ -7,6 +7,7 @@ on:
       - '.github/workflows/manuscript-reading-crops.yml'
       - 'scripts/prepare-manuscript-reading.py'
       - 'scripts/test-prepare-manuscript-reading.py'
+      - 'scripts/ocr-manuscript-diagnostic.py'
   workflow_dispatch:
     inputs:
       image:
@@ -55,6 +56,15 @@ jobs:
             "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
             --output "build/manuscript-reading/${IMAGE%.jpg}" \
             --bands "$BANDS"
+      - name: Install OCR diagnostic engine
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-ita tesseract-ocr-fra
+      - name: OCR diagnostic (unreviewed, original JPEG)
+        env:
+          IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
+        run: |
+          python scripts/ocr-manuscript-diagnostic.py \
+            "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
+            --output "build/manuscript-reading/${IMAGE%.jpg}"
       - uses: actions/upload-artifact@v4
         with:
           name: manuscript-reading-${{ github.run_number }}
