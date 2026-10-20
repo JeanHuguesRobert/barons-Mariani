@@ -27,6 +27,15 @@ BOOKS = {
         "edition": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
         "chapters": ["projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md"],
     },
+    "rise-and-fall": {
+        "edition": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
+        "chapters": [
+            "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/livre.md",
+            "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/magazine.md",
+            "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/annexes.md",
+            "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md",
+        ],
+    },
 }
 COMMON = ["research/autonomia/observatoire_processus_autonomie_corse.md",
           "research/autonomia.md",
