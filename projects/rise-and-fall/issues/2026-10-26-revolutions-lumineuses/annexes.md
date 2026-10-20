@@ -29,3 +29,30 @@ Le Corpus scientifique source reste souverain ; ces annexes sont une projection 
 | Le débat de 2026 met en application les principes de 1755 | Analyse comparée de dispositions, effets et contextes | Question analytique, non continuité historique présumée |
 
 Les documents privés, notamment les baux du secteur AB 127, servent au contrôle interne des rapprochements mais ne sont ni reproduits ni détaillés dans la projection publique sans décision spécifique de diffusion. Les liens des annexes doivent pointer vers des pièces publiques ou vers un registre indiquant seulement leur existence et leur régime d'accès.
+
+## Registre complémentaire — propriétés, divisions, transactions
+
+| Assertion | État de vérification | Source / vérification restante |
+|---|---|---|
+| Acquisition du couvent par les Bertrand au début du XXe siècle | **SEC** | Entretien Campana, *Corse Net Infos*, 26 février 2025 ; acquéreur initial et acte inconnus |
+| Pierre Mariani aurait vendu aux Bertrand vers 1920 | **TEM/HYP** | Tradition à vérifier ; aucun acte direct identifié ; vente de 1845 au duc de Padoue à réconcilier |
+| Successions Lucie, Pierra et Marie-Françoise Bertrand | **DOC référencé, actes non intégralement reproduits** | Rapport 2020 et références d'attestations publiées 1992P 2845/2847/2850 et 2013P 4950, selon ses mentions ; vérifier lots et titres |
+| Acquisition publique des seize lots en 2020 | **Projet documenté, réalisation non établie** | Rapport 2020/254, 746 m², offre 530 000 € ; abandon signalé dans la presse |
+| Acquisition de L'Aiglon par Marc-Antoine Campana | **SEC / déclaration publique** | *Corse Net Infos*, 26 février 2025 ; acte et prix non consultés |
+| CORALEX, projet de logements | **Autorisation indexée** | DP 02B09625S0018, 22 avril 2025, AB 118 et AB 123 ; vérifier arrêté, portée et nombre de logements |
+| Plateau 170 m² proposé à 360 000 € | **Annonce, pas mutation constatée** | Commercialisation en ligne ; propriétaire, lots et transaction restent à prouver |
+| AB 120 / Romain Franchini | **TEM concernant le panneau, acte de vente absent** | Parcelle voisine 540 m² ; ne pas lui attribuer les autres lots |
+| Garages du secteur AB 127 | **Documents privés consultés** | Deux baux communiqués en mai 2026 ; existence notée ici sans reproduction, données contractuelles non diffusées |
+| Trois copropriétés dans un même ancien couvent | **HYP de découpage, à qualifier** | Parcelles, immeubles, syndicats et copropriétés ne sont pas synonymes ; demander fiches RNIC et EDD |
+
+### Sources publiques de référence
+
+- [Rapport territorial 2020/254, acquisition envisagée](https://www.isula.corsica/assemblea/docs/RapportCP/RAPPORT-254-CP.pdf).
+- [Ville de Corte, *Corti — Storia è Patrimoniu*](https://www.mairie-corte.fr/catalog_repository/uploads/7/Patrimoine_definitif2020.pdf).
+- [*Corse Net Infos*, l'ancien cinéma L'Aiglon sauvé de la ruine, 26 février 2025](https://www.corsenetinfos.corsica/Corte-L-ancien-cinema-l-Aiglon-sauve-de-la-ruine_a83162.html).
+- [Dossier source souverain du couvent](../../../../musee-mariani/lieux/couvent-des-capucins/README.md).
+- [Dossier parlementaire d'autonomie de la Corse](https://www.senat.fr/dossier-legislatif/pjl24-869.html).
+
+### Règle éditoriale
+
+Les titres fonciers, autorisations et rapports archéologiques doivent être vérifiés dans leur version primaire. Ni un nom sur un permis ni une vente affichée ne suffisent à établir la propriété d'une autre parcelle ou les bénéfices d'une personne. Tout document inédit sur l'inhumation Gaffori demeure **hors publication jusqu'à autorisation de ses détenteurs**.
