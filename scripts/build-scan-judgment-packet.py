@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Build a referential Cognitive Packet continuation from scan/OCR evidence.
-Never calls an LLM or silently approves a transcription.
+"""Build an evidence context for the existing Cogentia continuation CLI.
+This is NOT an independent Cognitive Packet protocol or lifecycle.
 """
 import argparse
 import hashlib
