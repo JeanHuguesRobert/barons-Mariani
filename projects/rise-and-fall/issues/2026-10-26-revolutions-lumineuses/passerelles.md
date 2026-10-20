@@ -1,6 +1,6 @@
 # Confédération des Livres Vivants — passerelles du numéro
 
-Statut : brouillon au 19 octobre 2026, non publié, non gelé. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
+Statut : avant-première publique en préparation depuis le 19 octobre 2026, non gelée ; projection HTML publique générée le 20 octobre 2026. Échéance éditoriale visée : 26 octobre 2026 ; calendrier parlementaire à revérifier.
 
 Le numéro de *Rise & Fall* **ne remplace pas** les autres Livres Vivants : il publie un parcours transversal dont chaque fragment renvoie à la source et au mandat éditorial propre de son Livre.
 
