@@ -166,9 +166,9 @@ Sources canoniques reliées, sans duplication : `research/senatoriales-2026/`, l
 
 ---
 
-## Actualité parlementaire reliée — 9 octobre 2026
+## Actualité parlementaire reliée — mise à jour au 15 octobre 2026
 
-Le projet constitutionnel pour une Corse autonome au sein de la République (Sénat, texte n° 782) fournit un cas d'étude de l'effectivité institutionnelle : le contrôle de ce qui est juridiquement ouvert, réellement mobilisable et vérifiable. L'audition de Françoise Gatel est référencée au 7 octobre ; réunion de commission pour le rapport le 21 octobre ; limite annoncée des amendements de séance le 23 octobre à midi ; séance le 26 octobre. L'identité du rapporteur reste à vérifier.
+Le projet constitutionnel pour une Corse autonome au sein de la République (Sénat, texte n° 782) fournit un cas d'étude de l'effectivité institutionnelle : le contrôle de ce qui est juridiquement ouvert, réellement mobilisable et vérifiable. L'audition de Françoise Gatel, initialement annoncée pour le 7 octobre, a été reportée et tenue le **13 octobre 2026 à 8 h 30**. **Muriel Jourda a été désignée rapporteure du projet n° 782 le 7 octobre.** La réunion de commission pour le rapport reste programmée le 21 octobre ; la limite annoncée des amendements de séance le 23 octobre à midi ; la séance le 26 octobre.
 
 - [Amendement d'effectivité de l'article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md)
 - [Projet de courrier au rapporteur](../../research/autonomia/courrier_rapporteur_senat_effectivite_72-5.md)
@@ -179,9 +179,9 @@ Cette actualité documente un test de capacité ; elle ne constitue ni dépôt p
 
 ---
 
-## Actualisation des preuves — audition Gatel (9 octobre 2026)
+## Photographie historique des preuves — contrôle du 9 octobre 2026
 
-Le [registre canonique des traces](../../research/autonomia/observatoire_processus_autonomie_corse.md) distingue désormais l’annonce de l’audition du 7 octobre, l’accès ultérieurement défaillant à sa fiche officielle (404), l’absence de compte rendu pour la semaine du 5 octobre sur la page consultée et le replay non vérifié. Il serait injustifié d’attribuer à la ministre un propos sur l’effectivité du projet n° 782 sans source primaire. Cette incertitude demeure ouverte et corrigible ; les éditions datées restent inchangées.
+Ce bloc conserve l'état documentaire du **9 octobre** : annonce de l’audition du 7 octobre, accès alors défaillant à sa fiche officielle (404), absence alors constatée de compte rendu pour la semaine du 5 octobre et replay non vérifié. **Il est supersédé pour l’état courant** par les traces ultérieures établissant le report et la tenue de l’audition le 13 octobre. Les éditions datées restent inchangées.
 
 ---
 
