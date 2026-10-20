@@ -80,3 +80,12 @@ Le travail est divisible en paquets **indépendants et reprenables** : tout paqu
 - **Gel explicitement distinct** : édition immuable, annonce publique d'une découverte, publication du document détenu par la famille Orenga de Gaffori, envoi externe ou engagement financier.
 
 **État effectif :** ce plan constitue le mandat opérationnel des prochaines passes. Il n'atteste ni l'exécution des cinq paquets, ni le gel ou la diffusion du numéro du 26 octobre.
+
+
+## 20 octobre 2026 — Reprise de rédaction et audit de l'existant
+
+- Numéro et triptyque **déjà présents** sur `main` : aucun doublon de projet créé.
+- Décision confirmée : titre **Révolutions lumineuses**, fil narratif **Looking for Gaffory**, passerelles critiques vers les Livres Vivants *Autonomia* et *1755*, cible éditoriale **26 octobre 2026**.
+- Ajout au `livre.md` d'une scène argumentative **« 1753, la mort avant la Constitution »** : elle empêche de présenter Gaffori comme un simple prélude téléologique à Paoli, distingue tradition funéraire et identification matérielle, et maintient les frontières de diffusion du document inédit.
+- Reste à sourcer avant gel : biographie et circonstances du décès, pratiques funéraires, topographie historique, rapports de fouille et textes constitutionnels comparés.
+- Pas de gel de numéro, pas de publication des pièces privées, pas d'affirmation nouvelle sur l'identité des restes.
