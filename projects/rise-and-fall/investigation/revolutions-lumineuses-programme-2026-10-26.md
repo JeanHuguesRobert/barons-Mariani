@@ -102,3 +102,16 @@ Six rubriques de l'architecture canonique :
 - **P2 publication :** décider explicitement du gel, intégrer les trois faces du numéro, générer l'édition signée avec identifiants et empreintes.
 
 Cette proposition est un **programme de travail** et une **source éditoriale ouverte**, non une annonce de résultat archéologique ou une publication effective.
+
+
+## Consolidation du 20 octobre — contrôle du pouvoir et effectivité
+
+Le rapprochement **1755 → 2026** ne présume ni identité des régimes ni filiation juridique directe. Tester quatre notions dans leurs contextes : souveraineté déclarée ; institutions opérantes ; reddition des comptes ; exercice réel des capacités politiques.
+
+Sources complémentaires vérifiées :
+- Dorothy Carrington, « Paoli et sa “Constitution” (1755-1769) », *Annales historiques de la Révolution française* (1974) : https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183 . Analyse de la source de novembre 1755 et discussion de sa qualification constitutionnelle.
+- Dorothy Carrington, *La constitution de Pascal Paoli 1755*, La Marge (1996), édition avec traduction et commentaires, catalogue de l'Université de Corse : https://m3c.universita.corsica/s/fr/item/128781 . Respecter les droits de réutilisation de cette édition.
+- Pierre-Antoine Tomasi, « Le Sindacato, une institution républicaine. La Constitution corse de 1755 et la question de la reddition de comptes des gouvernants », Université de Corse : https://lumi.univ-corse.fr/le-sindacato-une-institution-republicaine-la-constitution-corse-de-1755-et-la-question-de-la-reddition-de-compte-des-gouvernants/ . Piste comparative de contrôle du pouvoir ; ne pas assimiler les institutions anciennes aux contemporaines.
+- Sénat : https://www.senat.fr/dossier-legislatif/pjl24-869.html . Au 20 octobre 2026, le dossier annonce une discussion en séance le 26 octobre. Calendrier et issue restent à vérifier au moment de publier.
+
+Questions à traiter dans le Livre, le Magazine et les Annexes : qu'ont rendu possible Gaffori et la rupture commencée en 1729 ? Qu'institue effectivement le document de novembre 1755 ? Quels mécanismes de reddition des comptes existaient réellement ? Quelles capacités et garanties juridiques sont proposées en 2026 ? Toute comparaison devra exposer ses limites historiques.
