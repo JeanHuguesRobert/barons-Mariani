@@ -31,3 +31,22 @@ Le **26 octobre 2026** constitue notre date-pivot éditoriale. Elle invite à co
 6. **Continuations :** quelles pièces manquent, qui les détient et quel droit de diffusion s'applique ?
 
 Sources et collaborations à retrouver dans [passerelles.md](passerelles.md). Aucune publication automatique ni message externe n'est engagé.
+
+## Enquête de terrain — Le couvent divisé, la mémoire indivisible ?
+
+L'enquête ouverte autour du couvent des Capucins fait apparaître un lieu architectural historiquement cohérent, mais plusieurs périmètres juridiques modernes. Les adresses **30**, **30 bis** et **30 ter cours Paoli** ne sont pas interchangeables ; les parcelles **AB 118, 122, 123 et 127** ne suffisent pas non plus à définir, seules, autant de copropriétés distinctes. Les états descriptifs de division et les règlements doivent trancher.
+
+Un premier ensemble de faits peut être rendu public sans reproduire de documents privés : le rapport territorial de 2020 décrit seize lots destinés à une acquisition projetée de 530 000 € ; l'acquisition n'a pas abouti selon la presse. En 2025, Marc-Antoine Campana annonce avoir acheté L'Aiglon. Dans une autre branche, **SCI CORALEX**, gérée par Laurent Exiga, apparaît dans une autorisation de transformation en logements datée d'avril 2025 ; un plateau brut est mis en vente à **360 000 €**, ce qui reste un prix *demandé*. La présence de plusieurs projets n'établit aucune difficulté financière particulière chez leurs porteurs.
+
+En remontant plus loin, les mentions successorales concernant **Lucie, Pierra et Marie-Françoise Bertrand** constituent des pistes notariales vérifiables. Elles n'établissent pas encore qui a cédé l'ancien couvent à la famille ni si Pierre Mariani était vendeur vers 1920. La vente au duc de Padoue, datée du 28 février 1845 dans le guide municipal, demeure un autre jalon à articuler.
+
+L'actualité de l'enquête n'est donc pas une révélation spectaculaire ; c'est la substitution progressive de **questions précises et falsifiables** aux récits simplifiés.
+
+## Chronique des preuves à obtenir
+
+1. Le texte et la portée des autorisations d'urbanisme de 2025–2026, sans assimiler déclaration préalable et permis de construire.
+2. Les états descriptifs de division et les périmètres des syndicats de copropriétaires : un ensemble bâti unique peut correspondre à plusieurs divisions juridiques.
+3. Les références d'actes anciennes du rapport de 2020, pour remonter la chaîne Bertrand et tester l'hypothèse Mariani.
+4. Les rapports d'intervention archéologique et leurs limites spatiales, sans annoncer une identification d'ossements.
+
+Le 26 octobre est une échéance **éditoriale**. La programmation parlementaire et les événements nouveaux doivent être revérifiés avant publication du numéro final. Les sources scientifiques demeurent dans le [dossier des Capucins](../../../../musee-mariani/lieux/couvent-des-capucins/README.md) ; les rapprochements avec [*1755*](../../../1755/README.md) et [*Autonomia*](../../../../research/autonomia.md) restent explicitement interprétatifs.
