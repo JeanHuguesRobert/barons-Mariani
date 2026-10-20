@@ -95,8 +95,8 @@ jobs:
           mkdir -p build/scan-registry
           printf '{"repos":[{"name":"barons-Mariani","path":"../.."}]}\n' > build/scan-registry/.cogentia.json
           OUT="build/manuscript-reading/${IMAGE%.jpg}"
+          COGENTIA_REGISTRY="$PWD/build/scan-registry/.cogentia.json" \
           node .runtime/cogentia/scripts/cogentia.js \
-            --registry "$PWD/build/scan-registry/.cogentia.json" \
             continuation emit --kind judgment \
             --title "Paleographic review $IMAGE" \
             --repo barons-Mariani \
