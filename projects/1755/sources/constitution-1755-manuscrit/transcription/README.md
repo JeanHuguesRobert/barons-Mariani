@@ -12,6 +12,10 @@ review:
 
 **Attention : ce répertoire contient des *relevés exploratoires* et non une transcription diplomatique intégrale de onze vues.** La couverture administrative de toutes les images ne doit pas être comptée comme une couverture textuelle. Les leçons douteuses sont des hypothèses, pas un texte constitué.
 
+## Vue consolidée des onze images
+
+[Registre des onze vues : images, fiches et niveaux de lecture](registre-consolide-11-vues.md). Cet index n'est pas une transcription intégrale validée ; la vue 0016 est traitée comme une pièce de provenance distincte.
+
 ## Relevés par image
 
 - [FRAD02A_0002](FRAD02A_0002-lecture-v03.md) — examen agrandi partiel
