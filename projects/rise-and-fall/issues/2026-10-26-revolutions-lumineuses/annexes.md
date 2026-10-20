@@ -56,3 +56,17 @@ Les documents privés, notamment les baux du secteur AB 127, servent au contrôl
 ### Règle éditoriale
 
 Les titres fonciers, autorisations et rapports archéologiques doivent être vérifiés dans leur version primaire. Ni un nom sur un permis ni une vente affichée ne suffisent à établir la propriété d'une autre parcelle ou les bénéfices d'une personne. Tout document inédit sur l'inhumation Gaffori demeure **hors publication jusqu'à autorisation de ses détenteurs**.
+
+
+## Complément sourcé — 20 octobre 2026 : du texte de 1755 à l'effectivité en 2026
+
+| Source | Ce qu'elle autorise à soutenir | Ce qu'elle ne prouve pas |
+|---|---|---|
+| [Dorothy Carrington, étude dans les *AHRF* (1974)](https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183) | Analyse scientifique du document constitutionnel de novembre 1755 et de ses institutions | Continuité juridique avec une autonomie contemporaine |
+| [Dorothy Carrington, édition de 1996, M3C](https://m3c.universita.corsica/s/fr/item/128781) | Existence d'une édition, traduction et commentaire du texte de 1755 | Libre reproduction intégrale de l'édition ou équivalence entre traduction et original |
+| [Pierre-Antoine Tomasi, Université de Corse, étude du Sindacato](https://lumi.univ-corse.fr/le-sindacato-une-institution-republicaine-la-constitution-corse-de-1755-et-la-question-de-la-reddition-de-compte-des-gouvernants/) | Une piste historico-juridique sur la reddition des comptes des gouvernants | Identité institutionnelle entre contrôle historique et garanties actuelles |
+| [Dossier du Sénat, pjl24-869](https://www.senat.fr/dossier-legislatif/pjl24-869.html) | Programmation d'une discussion en séance le 26 octobre 2026, relevée le 20 octobre | Adoption du texte ou résultat d'un vote futur |
+
+**Protocole de comparaison :** pour chaque époque, distinguer la règle déclarée, ses destinataires, ses procédures de mise en œuvre, ses contrôles et ses effets observables. Relever les contre-exemples et les silences. Le principe d'effectivité est une grille d'analyse contemporaine, non une expression attribuée rétroactivement à Paoli.
+
+Ces références renforcent la passerelle éditoriale *Rise & Fall* / *1755* / *Autonomia* sans faire de l'annexe une nouvelle source souveraine et sans modifier les restrictions de diffusion des pièces privées relatives aux Capucins.
