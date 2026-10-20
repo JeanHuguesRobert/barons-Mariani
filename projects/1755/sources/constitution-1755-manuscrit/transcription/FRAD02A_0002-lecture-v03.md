@@ -48,3 +48,8 @@ Le présent ajout **n'est pas une nouvelle lecture directe de l'image**. Il expl
 | Z4 | Aucune leçon suffisamment assurée | — | à déchiffrer | Lecture ligne par ligne et raccord avec 0003 |
 
 **Condition de promotion :** chaque leçon doit acquérir un repère spatial ou une numérotation de ligne contrôlée sur l'image, une transcription diplomatique sans suppléance silencieuse d'édition, une marque explicite des incertitudes et une relecture distincte. Les citations candidates sont maintenues pour permettre leur examen contradictoire, pas pour leur donner autorité.
+
+
+## Addendum probatoire — relecture directe de la bande supérieure (20 octobre 2026)
+
+La [lecture multimodale directe de Z1](FRAD02A_0002-jugement-z1-2026-10-20.md), réalisée sur la bande PNG vérifiée issue de GitHub Actions, **confirme la présence dès la première ligne** de « La Dieta Generale una volta all'anno dovrà convocarsi ». La contradiction relative à la **localisation** du motif est donc résolue. La phrase complète, les graphies secondaires et le statut diplomatique demeurent soumis à relecture indépendante ; les divergences documentées plus haut sont conservées comme historique de travail, pas comme état courant.
