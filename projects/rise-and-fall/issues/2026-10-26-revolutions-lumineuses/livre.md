@@ -100,3 +100,17 @@ C'est ici que la lumière devient une méthode plutôt qu'une décoration de tit
 Le lecteur peut alors passer du récit à l'enquête : le [Magazine](magazine.md) consignera les nouvelles pièces datées ; les [Annexes](annexes.md) distingueront les sources des hypothèses ; le [dossier souverain du couvent](../../../../musee-mariani/lieux/couvent-des-capucins/README.md) conservera les vérifications. La passerelle avec [*Autonomia*](../../../../research/autonomia.md) et [*1755*](../../../1755/README.md) ne porte pas sur une continuité politique présumée, mais sur une question : **à quelles conditions la liberté déclarée devient-elle une capacité réelle ?**
 
 *À instruire avant gel : biographie primaire de Gaffori ; historiographie des funérailles ; topographie des chapelles et du cloître ; rapports archéologiques publiables ; chronologie constitutionnelle précise.*
+
+
+## Chapitres du Livre — rédaction continue (20 octobre 2026)
+
+Le [récit d'ouverture et sa synthèse](livre.md) est complété par six chapitres autonomes, tous **brouillons publics non gelés** :
+
+1. [Avant l'incendie des révolutions — avant 1729](chapitres/01-avant-1729.md)
+2. [Gaffori, deux ans avant 1755 — l'homme et sa dépouille](chapitres/02-gaffori-1753.md)
+3. [1755 : les mots et leurs effets — Paoli et Autonomia](chapitres/03-paoli-1755.md)
+4. [Quand les régimes changent, les familles demeurent — 1769–1830](chapitres/04-familles-empires.md)
+5. [Ce que les murs ont vendu — 1830–1930](chapitres/05-murs-et-mutations.md)
+6. [Un couvent en plusieurs morceaux — 1930–2026](chapitres/06-chercher-aujourdhui.md)
+
+La source factuelle souveraine demeure le dossier Capucins. Aucun texte privé ni document funéraire soumis à autorisation n'est reproduit. Les annexes portent les questions encore ouvertes ; les chapitres ne constituent pas des preuves autonomes.
