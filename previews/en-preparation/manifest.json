@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-20T07:03:39.241121+00:00",
-  "git_sha": "2793e190edc2dfd0df016ddd0939b550133e60dd",
+  "built_at_utc": "2026-10-20T07:52:48.442152+00:00",
+  "git_sha": "48e9bb7af16f0a225159e4e4ac7e0dc8fb127125",
   "books": [
     {
       "id": "capable",
@@ -52,23 +52,23 @@
       "inputs": [
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
-          "sha256": "94e721adfd7453ef0f56be1f5e93bfd43c2ba967389e55f16f98d09ef5604a17"
+          "sha256": "4305579ff97651af5b06ce86af559bd2519ca54fc144dca56118c4f9053b8498"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/livre.md",
-          "sha256": "b30d5b0a66282650fa9df4977557bf7fa6a9f3bed7abcca321678eb474cc409d"
+          "sha256": "c252fe77c017043c8da806593fa433d19bdcdfda770c7fc71e82c75a22fe4a5e"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/magazine.md",
-          "sha256": "b8beb70fd7895df659154f7ac3ca937559a1374e0601c53861dd72d98dd20e4c"
+          "sha256": "32b74732c609b2b7881916cad30bcbd2574488cc6e42ed65b572d18742f6c9fd"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/annexes.md",
-          "sha256": "6677c7d828417d13e08419f83b71ca13c139982f90718e845bfa0c31f3e1aae2"
+          "sha256": "c325a914cf4dcb29b2aeb22123e48ad7c3c32d0f3a79a604bdd7559881309bd0"
         },
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md",
-          "sha256": "f4f49795ee7dd7263142efc69dba56fca53c3dc0854fc7951203f69d6a435896"
+          "sha256": "2f2ce8c6cc4f3aa2c64a4a8e6aa14830cfaac176cfa83285d4476b0e460c43f8"
         }
       ]
     }
@@ -80,7 +80,7 @@
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "22c9be84d7006b364f9b7fc039231976d38a62d492fa75eb21e4b6cd34c2a792"
+      "sha256": "47493637c20980a488f471b494c3ef47fe3b2b704fe2a0969ab8f260cbef2e40"
     },
     {
       "path": "research/methode_terrains_feconds.md",
