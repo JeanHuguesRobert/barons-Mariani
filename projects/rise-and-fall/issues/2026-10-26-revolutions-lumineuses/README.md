@@ -46,3 +46,16 @@ Numéro-passerelle du Livre Vivant *Rise & Fall*, composé selon la règle « le
 - **Transmission ouverte et reproductible** : un lecteur doit pouvoir remonter du Livre ou du Magazine aux Annexes, puis aux sources souveraines, et proposer une correction argumentée.
 
 Le **26 octobre** est une cible éditoriale, non une affirmation de résultat parlementaire ni une autorisation implicite de publier des pièces privées. La présente avant-première est autorisée et publique ; la décision de gel définitif et la projection du numéro du 26 octobre demeurent distinctes.
+
+## Chapitres du Livre — rédaction continue (20 octobre 2026)
+
+Le [récit d'ouverture et sa synthèse](livre.md) est complété par six chapitres autonomes, tous **brouillons publics non gelés** :
+
+1. [Avant l'incendie des révolutions — avant 1729](chapitres/01-avant-1729.md)
+2. [Gaffori, deux ans avant 1755 — l'homme et sa dépouille](chapitres/02-gaffori-1753.md)
+3. [1755 : les mots et leurs effets — Paoli et Autonomia](chapitres/03-paoli-1755.md)
+4. [Quand les régimes changent, les familles demeurent — 1769–1830](chapitres/04-familles-empires.md)
+5. [Ce que les murs ont vendu — 1830–1930](chapitres/05-murs-et-mutations.md)
+6. [Un couvent en plusieurs morceaux — 1930–2026](chapitres/06-chercher-aujourdhui.md)
+
+La source factuelle souveraine demeure le dossier Capucins. Aucun texte privé ni document funéraire soumis à autorisation n'est reproduit. Les annexes portent les questions encore ouvertes ; les chapitres ne constituent pas des preuves autonomes.
