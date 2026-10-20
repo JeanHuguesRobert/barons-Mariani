@@ -4,14 +4,14 @@ subtitle: Carte corrigible du processus institutionnel, de la participation effe
 author: Jean Hugues Noël Robert, baron Mariani de Corte
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-26'
-version: '0.8'
-status: working-paper — observatory_v0.8
+version: '0.9'
+status: working-paper — observatory_v0.9
 language: fr
 license: CC BY-SA 4.0
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
 function: public_process_observatory
 target_scene: autonomy_watch_and_citizen_control
-snapshot_as_of: '2026-10-09T10:10:00+02:00'
+snapshot_as_of: '2026-10-15T17:31:00+02:00'
 document_role: source
 document_kind: registry
 visibility: public
@@ -50,7 +50,8 @@ changelog:
   - 'v0.6 (2026-10-06) — instrumentation EIM-H4 : séparation explicite entre publication, réception, routage, examen et reprise parlementaire ; inconnues conservées.'
   - 'v0.7 (2026-10-07) — intégration du scrutin sénatorial du 27 septembre, du renouvellement des instances du Sénat et de l’audition ministérielle du 7 octobre ; rapporteur maintenu inconnu jusqu’à publication officielle.'
   - 'v0.8 (2026-10-09) — FBF : l’ancien « état courant » du 7 octobre est requalifié en photographie historique afin de ne plus contredire l’actualisation du 9 octobre.'
-last_modified_at: '2026-10-09'
+  - 'v0.9 (2026-10-20) — FBF : l’état courant est réaligné sur les faits établis au 15 octobre ; les états des 7 et 9 octobre sont explicitement historiques.'
+last_modified_at: '2026-10-20'
 update_policy: UP-DEFAULT-REVIEWED
 review:
   status: unreviewed
@@ -75,9 +76,18 @@ provenance:
 
 # Observatoire public du processus d’autonomie de la Corse
 
-## Actualisation FBF — 9 octobre 2026 (état courant)
+## État courant consolidé — faits établis au 15 octobre 2026
 
-**Muriel Jourda** est rapporteure désignée du projet n° 782 depuis le 7 octobre ; contact professionnel public **m.jourda@senat.fr**. [Fiche sourcée](osint_acteurs/muriel_jourda.md). Les mentions « UNKNOWN » antérieures conservent leur valeur de photographies datées, mais ne constituent plus l’état actuel. Courrier et amendement Baron Mariani : **non transmis, non déposés**.
+- **Muriel Jourda** est rapporteure du projet n° 782 depuis le 7 octobre 2026.
+- L'audition de **Françoise Gatel**, initialement annoncée pour le 7 octobre, a été **reportée et tenue le 13 octobre 2026 à 8 h 30**.
+- Le secrétariat de la commission des lois a demandé une version Word de la contribution C.O.R.S.I.C.A. le **14 octobre à 10 h 50** ; une réponse avec le dossier Word a été envoyée à **12 h 22** et la réception de la contribution a été **accusée à 17 h 31**. Ces traces établissent réception par le secrétariat, non lecture personnelle par la rapporteure, reprise dans le rapport ou dépôt d'un amendement.
+- La réunion de commission pour le rapport reste programmée le **21 octobre**, la clôture annoncée des amendements de séance le **23 octobre à 12 h**, et la séance le **26 octobre**.
+- Le dossier **2026-6589 SEN** demeure distinct du canal parlementaire : son enregistrement est acquis ; son instruction et ses éventuelles productions ultérieures doivent rester tracées séparément.
+
+
+## Photographie historique FBF — 9 octobre 2026
+
+**Muriel Jourda** est rapporteure désignée du projet n° 782 depuis le 7 octobre ; contact professionnel public **m.jourda@senat.fr**. [Fiche sourcée](osint_acteurs/muriel_jourda.md). Les mentions « UNKNOWN » antérieures conservent leur valeur de photographies datées. **Ce bloc décrit l’état connu le 9 octobre et ne constitue plus l’état courant** : une contribution C.O.R.S.I.C.A. a ensuite été transmise au secrétariat de la commission et sa réception a été accusée le 14 octobre à 17 h 31 ; cela ne vaut ni dépôt parlementaire d’un amendement ni preuve de lecture personnelle par la rapporteure.
 
 
 ## Photographie historique — 7 octobre 2026, 7 h 36
@@ -121,7 +131,7 @@ La carte courante est : [Atlas — addendum octobre 2026](atlas_paysage_politiqu
 
 ---
 
-## État courant — 9 octobre 2026
+## Photographie historique — 9 octobre 2026
 
 - L'audition de Françoise Gatel annoncée pour le 7 octobre a été **reportée au 13 octobre 2026 à 8 h 30**, et sa tenue est confirmée par la fiche officielle. Les analyses de presse restent identifiées comme sources secondaires.
 - **Muriel Jourda est présidente de la commission des lois et rapporteure désignée le 7 octobre 2026** du projet n° 782. Voir [fiche OSINT](osint_acteurs/muriel_jourda.md).
