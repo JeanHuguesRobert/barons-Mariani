@@ -48,8 +48,8 @@ jobs:
         run: python scripts/test-prepare-manuscript-reading.py
       - name: Prepare reading crops
         env:
-          IMAGE: ${{ inputs.image }}
-          BANDS: ${{ inputs.bands }}
+          IMAGE: ${{ inputs.image || 'FRAD02A_0002.jpg' }}
+          BANDS: ${{ inputs.bands || '4' }}
         run: |
           python scripts/prepare-manuscript-reading.py \
             "projects/1755/sources/constitution-1755-manuscrit/images/$IMAGE" \
