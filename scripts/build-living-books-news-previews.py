@@ -4,11 +4,9 @@
 Generated pages are public projections. Never edit frozen editions.
 """
 from pathlib import Path
-from datetime import datetime, timezone
 from html import escape
 import hashlib
 import json
-import os
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -68,11 +66,9 @@ def digest(b):
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    stamp = datetime.now(timezone.utc).isoformat()
-    sha = os.environ.get("GITHUB_SHA", "local")
     manifest = {"schema": "living-books.public-working/v1",
                 "status": "public-en-preparation-non-gele",
-                "built_at_utc": stamp, "git_sha": sha, "books": []}
+                "books": []}
     index = ["<h1>Livres Vivants — versions publiques en préparation</h1>",
              "<p>Versions évolutives, non gelées. Les éditions gelées restent distinctes.</p>"]
     for name, cfg in BOOKS.items():
@@ -86,12 +82,13 @@ def main():
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
                 + to_html(data.decode("utf-8")) + "</section>")
         css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
-        body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · mis à jour {escape(stamp)} · commit {escape(sha)}</p>"
+        book_digest = digest(json.dumps(inputs, sort_keys=True).encode("utf-8"))
+        body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · empreinte des sources {book_digest}</p>"
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
         (OUT / (name + ".html")).write_text(out, encoding="utf-8")
-        manifest["books"].append({"id": name, "page": name + ".html", "inputs": inputs})
+        manifest["books"].append({"id": name, "page": name + ".html", "source_sha256": book_digest, "inputs": inputs})
         index.append(f"<p><a href='{escape(name)}.html'>{escape(name)} — en préparation</a></p>")
     manifest["related_sources"] = [{"path": p, "sha256": digest((ROOT / p).read_bytes())} for p in COMMON]
     (OUT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
