@@ -4,14 +4,36 @@ on:
   push:
     paths:
       - '.github/workflows/sen-2026-6589-preview.yml'
+      - 'scripts/sen-2026-6589-build.py'
+      - 'scripts/sen-2026-6589-ubikia-preview.sh'
+      - 'research/senatoriales-2026/complement-2026-6589-sen/**'
+      - 'research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md'
+      - 'research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md'
 permissions:
   contents: read
 jobs:
-  compose:
+  build-preview:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: JeanHuguesRobert/Ubikia
+          ref: main
+          path: ubikia
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: ubikia/package-lock.json
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+      - name: Install Ubikia dependencies
+        working-directory: ubikia
+        run: npm ci
       - name: Supervised composition and source checks
+        id: composition
         shell: bash
         run: |
           mkdir -p sen-result
@@ -51,12 +73,43 @@ jobs:
           (out/'result.json').write_text(json.dumps(result,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
           print(json.dumps(result,ensure_ascii=False))
           PY
-      - name: Upload typed receipt regardless of task outcome
+      - name: Render reproducible PDF and text previews
+        if: steps.composition.outcome == 'success'
+        id: render
+        env:
+          UBIKIA_DIR: ${{ github.workspace }}/ubikia
+          SEN_PREVIEW_STAGE: ${{ runner.temp }}/sen-2026-6589-preview
+        run: bash scripts/sen-2026-6589-ubikia-preview.sh
+      - name: Record separate composition, build, and filing states
         if: always()
-        continue-on-error: true
+        env:
+          COMPOSITION_OUTCOME: ${{ steps.composition.outcome }}
+          RENDER_OUTCOME: ${{ steps.render.outcome }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, shutil
+          result_path = pathlib.Path('sen-result/result.json')
+          result = json.loads(result_path.read_text(encoding='utf-8')) if result_path.is_file() else {}
+          result['composition_outcome'] = os.environ.get('COMPOSITION_OUTCOME', 'unknown')
+          result['render_outcome'] = os.environ.get('RENDER_OUTCOME', 'unknown')
+          result['build_status'] = 'passed' if result['composition_outcome'] == 'success' and result['render_outcome'] == 'success' else 'failed'
+          result['filing_ready'] = False
+          preview = pathlib.Path(os.environ.get('RUNNER_TEMP', '/tmp')) / 'sen-2026-6589-preview'
+          manifest = preview / 'delivery-preview-manifest.json'
+          if manifest.is_file():
+              shutil.copy2(manifest, pathlib.Path('sen-result/delivery-preview-manifest.json'))
+              result['delivery_preview_manifest'] = 'delivery-preview-manifest.json'
+          result_path.parent.mkdir(parents=True, exist_ok=True)
+          result_path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          print(json.dumps(result, ensure_ascii=False))
+          PY
+      - name: Upload build outputs and receipt regardless of render outcome
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: sen-2026-6589-composition-receipt
-          path: sen-result/
+          name: sen-2026-6589-build-preview
+          path: |
+            sen-result/
+            ${{ runner.temp }}/sen-2026-6589-preview/
           if-no-files-found: warn
           retention-days: 14
