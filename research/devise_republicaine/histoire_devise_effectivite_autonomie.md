@@ -7,8 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.7-research"
-# Previous status: "working-draft — manuscrit enrichi ; non validé"
+version: "1.8-pre-review"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
@@ -49,6 +48,18 @@ review:
 Cette étude distingue trois propositions trop souvent confondues. Historiquement, « Liberté, Égalité, Fraternité » ne fut pas une devise juridique immuable dès 1789 : ses valeurs furent formulées, associées, séparées et parfois opposées avant une fixation républicaine progressive. Juridiquement, le texte de l'article 2 de la Constitution de 1958 et la jurisprudence constitutionnelle de 2018 donnent une force normative identifiable à la fraternité, mais ne transforment pas chacune des trois valeurs en garantie universelle de résultat. Enfin, le principe d'effectivité formulé dans le Corpus Mariani propose de compléter l'examen de la validité de la loi par l'observation des droits réellement accessibles et exerçables, de leurs conséquences et de leur distribution. Sa traduction contemporaine est une proposition d'amendement au mécanisme organique prévu pour le futur article 72-5 relatif à l'autonomie de la Corse. Le texte est étudié comme une hypothèse normative à contrôler, non comme l'aboutissement fatal de l'histoire républicaine ni comme un amendement adopté.
 
 **Mots-clés :** devise de la République, droits fondamentaux, principe de fraternité, effectivité, liberté réelle, égalité, autonomie de la Corse, loi organique, évaluation.
+
+## Thèse centrale et apport juridique précis
+
+Cette étude examine une **hypothèse de consolidation républicaine**, et non une démonstration selon laquelle la France serait juridiquement privée de Constitution. Le préambule de la Déclaration de 1789 invite à comparer les actes des pouvoirs publics au but des institutions ; ses articles 15 et 16 posent respectivement la responsabilité des agents publics et la garantie des droits. La Constitution de 1958 réaffirme la devise (article 2), charge le Parlement d'évaluer les politiques publiques (article 24) et prévoit la contribution des rapports publics de la Cour des comptes à l'information des citoyens (article 47-2). Ce cadre n'efface pas la distinction entre une **loi valide**, une **faculté effectivement exerçable**, une **politique efficace** et une **atteinte juridiquement sanctionnable**.
+
+Le point de départ empirique est circonscrit : le compte rendu sénatorial du **5 mars 2025** rapporte, selon Lauriane Josende, **72 demandes et 13 évolutions normatives** ; le rapport de l'Assemblée nationale **n° 2865 du 3 juin 2026** recense **57 saisines, quatre suites favorables, trois rejets explicites**, les autres sans réponse gouvernementale explicite. Ces deux populations ne sont ni interchangeables ni additionnables. Le rapport proposé au Sénat n'a pas été adopté et sa publication n'a pas été autorisée ; cela est un **fait institutionnel supplémentaire**, non la preuve d'une intention unanime de dissimulation.
+
+L'[amendement citoyen à l'article 72-5, version 0.7](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), propose que la future loi organique **détermine des garanties nécessaires à l'effectivité de la liberté, de l'égalité et de la fraternité dans l'accès aux habilitations et leur mise en œuvre** et prévoie une **évaluation publique et périodique du fonctionnement du régime et de ses effets**. Son objet propre est le **régime**, y compris ses obstacles et non-usages, non seulement les normes produites. Il ne crée pas lui-même un droit individuel à obtenir une habilitation, une obligation générale de réponse motivée, ni une correction automatique de tous les résultats négatifs.
+
+La méthode dite **« prendre au mot »** consiste à partir du texte constitutionnel exact, identifier l'obligation qu'il formule réellement, la confronter à des faits datés, qualifier l'écart sans supposer de faute et formuler une correction testable. La **Traçabilité des actes** conserve également les *traces négatives* — silences qualifiés, décisions annoncées mais introuvables — et le **Stabilisateur procédural** articule provenance, mandat, imputabilité, contradiction et possibilité de correction. Ce sont des méthodes doctrinales de l'auteur, définies dans les chapitres XV à XVII ; leur statut n'est pas celui de prescriptions légales déjà applicables.
+
+**Objection structurante :** contrôle parlementaire, évaluation et publicité existent déjà ; une clause nouvelle peut elle-même demeurer purement formelle. Le gain marginal allégué doit donc être éprouvé sur une question vérifiable : **une loi organique limitée au contrôle et à l'évaluation des normes adoptées pourrait-elle encore ignorer le fonctionnement du régime et ses effets si la v0.7 figurait dans la Constitution ?** Les chapitres V, VII et X à XVII examinent les sources, limites et objections de cette question. L'adoption, le dépôt parlementaire et l'interprétation juridictionnelle de la v0.7 ne sont pas présumés.
 
 ## Introduction — Question, périmètre, méthode
 
@@ -666,29 +677,45 @@ L'hypothèse défendue dans cette étude est que **la fidélité contemporaine �
 
 La proposition relative à la Corse illustre une traduction légistique possible de cette interrogation. Elle reste une contribution discutable, circonscrite, et non la conséquence juridiquement obligatoire de l'histoire racontée. Son examen permet de poser une exigence qui vaut aussi pour cette étude : **une proposition d'effectivité doit être jugée à ce qu'elle impose effectivement, à ce qu'elle permet d'observer et aux corrections qu'elle rend possibles.**
 
-## Sources et appareil critique sélectif
+## Sources et appareil critique consolidé
 
-**Sélection complémentaire v0.3-alpha :** liberté d'association, Conseil constitutionnel, décision n° 71-44 DC, 16 juillet 1971 ; égalité de traitement et preuve contraire, décision n° 73-51 DC, 27 décembre 1973. Comparaison et limites : [note de jurisprudence](jurisprudence_liberte_egalite_fraternite.md).
+**Politique de citation.** Les sources suivantes sont séparées selon leur autorité : les textes constitutionnels et arrêts pour l'état du droit, les documents parlementaires pour les constats et débats attestés, les publications académiques pour les comparaisons, enfin les écrits de l'auteur pour les propositions doctrinales. Les liens ne remplacent pas les précisions suffisantes pour identifier les textes imprimés.
 
+### A. Textes historiques, constitutionnels et législatifs
 
-**Ajouts de la version 0.2-alpha :** Robespierre, *Discours non prononcé sur la garde nationale*, *Archives parlementaires*, 1re série, t. XXI (1885), pp. 238–250, https://www.persee.fr/doc/arcpa_0000-0000_1885_num_21_1_9309_t1_0238_0000_8 ; décret du 27 avril 1848, Légifrance, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/ ; ordonnance du 9 août 1944, Légifrance, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006071212. L'absence de preuve primaire d'un acte général daté de 1880 demeure une réserve expresse.
+1. Déclaration des droits de l'homme et du citoyen, 26 août 1789, **préambule, articles 1, 2, 12, 14, 15, 16** : [texte Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000697056/).
+2. Robespierre, projet relatif aux gardes nationales, *discours non prononcé*, annexe à la séance du 5 décembre 1790, *Archives parlementaires*, première série, t. XXI (1885), pp. 238–250 : [Persée](https://www.persee.fr/doc/arcpa_0000-0000_1885_num_21_1_9309_t1_0238_0000_8).
+3. Constitution du 4 novembre 1848, préambule II et IV et article 6 : [texte de la Présidence de la République](https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848).
+4. Décret du 27 avril 1848 relatif à l'abolition de l'esclavage : [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/).
+5. Ordonnance du 9 août 1944 relative au rétablissement de la légalité républicaine : [Légifrance](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006071212).
+6. Constitution du 27 octobre 1946, préambule et article 2 : [Présidence de la République](https://www.elysee.fr/la-presidence/la-constitution-du-27-octobre-1946).
+7. Constitution du 4 octobre 1958, préambule et articles **1, 2, 24, 47-2, 72, 72-3** : [Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356).
+8. Code général des collectivités territoriales, articles **L.4422-16 et L.4422-17**, versions pertinentes des dispositions sur demandes, publication et suivi : [L.4422-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127/) ; [section législative](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/).
+9. Projet de loi constitutionnelle relatif à une Corse autonome au sein de la République, texte transmis au Sénat, **n° 782 (2025–2026)** : [Sénat](https://www.senat.fr/leg/pjl25-782.html).
 
+### B. Décisions, juridictions et documentation officielle
 
-### Sources normatives et juridictionnelles
-1. Déclaration des droits de l'homme et du citoyen, 26 août 1789, art. 1–2.
-2. Constitution du 4 novembre 1848, préambule IV et VIII et art. 6, texte historique publié à https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848.
-3. Constitution du 27 octobre 1946, art. 2 et préambule, https://www.elysee.fr/la-presidence/la-constitution-du-27-octobre-1946.
-4. Constitution du 4 octobre 1958, préambule, art. 2 et 72-3, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356.
-5. Conseil constitutionnel, décision n° 2018-717/718 QPC, 6 juillet 2018, §§ 7–10, https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018.
-6. Sénat, projet de loi constitutionnelle n° 782 (2025–2026), https://www.senat.fr/leg/pjl25-782.html.
+10. Conseil constitutionnel, décision **n° 71-44 DC**, 16 juillet 1971, liberté d'association : [texte reproduit par le Sénat](https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/le-senat-sauve-la-liberte-dassociation/le-senat-sauve-la-liberte-dassociation-le-texte-de-la-decision-du-conseil-constitutionnel.html).
+11. Conseil constitutionnel, décision **n° 73-51 DC**, 27 décembre 1973, égalité devant la loi : [Légifrance](https://www.legifrance.gouv.fr/cons/id/CONSTEXT000017665584).
+12. Conseil constitutionnel, décision **n° 2018-717/718 QPC**, 6 juillet 2018, fraternité, §§ 7–10 : [décision](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018) ; [commentaire distinct](https://qpc360.conseil-constitutionnel.fr/commentaire-decision-2018-717718-qpc).
+13. Cour européenne des droits de l'homme, *Mathieu-Mohin et Clerfayt c. Belgique*, 2 mars 1987, n° 9267/81 ; *Grosaru c. Roumanie*, 2 mars 2010, n° 78039/01 ; *Mugemangango c. Belgique* [GC], 10 juillet 2020, n° 310/15 ; *Bompard c. France*, décision, n° 44081/02. Répertoire [HUDOC](https://hudoc.echr.coe.int/) et [guide de jurisprudence sur l'article 3 du Protocole n° 1](https://ks.echr.coe.int/documents/d/echr-ks/guide_art_3_protocol_1_eng). Pertinence électorale conventionnelle à distinguer de la valeur de l'amendement constitutionnel.
 
-### Historiographie et doctrine
-7. Présidence de la République, *Liberté, Égalité, Fraternité*, synthèse historique, https://www.elysee.fr/la-presidence/liberte-egalite-fraternite — orientation secondaire, non preuve exhaustive des premières occurrences.
-8. Amartya Sen, *Development as Freedom*, Oxford University Press, 1999.
-9. Martha C. Nussbaum, *Creating Capabilities*, Harvard University Press, 2011.
-10. J. H. N. Robert, *Principe d'effectivité — Une loi ne vaut que par ses effets*, Corpus Barons Mariani, 2026.
-11. J. H. N. Robert, *Tensions entre Liberté, Égalité et Fraternité effectives*, Corpus Barons Mariani, 2026.
-12. J. H. N. Robert, *Amendement d'effectivité — version parlementaire et note de justification*, Corpus Barons Mariani, version 0.7.
+### C. Travaux parlementaires et institutionnels
+
+14. Sénat, commission des lois, **réunion du 5 mars 2025**, examen du rapport d'information sur l'évolution institutionnelle de la Corse ; propos de Lauriane Josende, résultats du vote et absence d'autorisation de publication : [compte rendu officiel](https://www.senat.fr/compte-rendu-commissions/20250303/lois.html). **Ce rapport n'a pas été adopté.**
+15. Assemblée nationale, Florent Boudié, **rapport n° 2865**, 3 juin 2026, section « L'inefficacité du mécanisme spécifique prévu à l'article L.4422-16 du CGCT » : [rapport officiel](https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2865.html). Les séries statistiques des deux assemblées sont distinctes.
+16. Assemblée nationale, [fiche relative au contrôle de l'application des lois et à l'évaluation des politiques publiques](https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/evaluation-politiques-publiques-controle-gouvernement/le-controle-de-l-application-des-lois-et-l-evaluation-de-la-legislation-et-des-politiques-publiques).
+17. Conseil d'État, *Simplification et qualité du droit*, étude annuelle 2016 ; *Le droit souple*, étude annuelle 2013 : [études annuelles](https://www.conseil-etat.fr/publications-colloques/etudes/etudes-annuelles).
+18. OCDE, *OECD Regulatory Policy Outlook 2025*, notamment « Regulating for effectiveness » et fiche France : [publication](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en.html).
+19. Commission de Venise, *Rule of Law Checklist*, CDL-AD(2016)007 et mise à jour 2025 : [portail officiel](https://www.coe.int/en/web/venice-commission/rule-of-law-checklist).
+20. Présidence de la République, [notice historique de la devise](https://www.elysee.fr/la-presidence/liberte-egalite-fraternite) ; Assemblée nationale, [proposition de loi n° 2819 (2006)](https://www.assemblee-nationale.fr/12/propositions/pion2819.asp). Sources institutionnelles secondaires à ne pas substituer aux archives d'époque pour une obligation générale de 1880.
+
+### D. Travaux académiques et doctrine
+
+21. Amartya Sen, *Development as Freedom*, Oxford University Press, 1999 ; Martha C. Nussbaum, *Creating Capabilities*, Harvard University Press, 2011.
+22. Elinor Ostrom, *Governing the Commons*, Cambridge University Press, 1990 ; Jürgen Habermas, *Droit et démocratie*, Gallimard, 1997 ; Pierre Rosanvallon, *La Contre-démocratie*, Seuil, 2006 ; Guy Debord, *La Société du spectacle*, Buchet-Chastel, 1967. Références comparatives, **non cautions explicites de l'amendement**.
+23. Jean Hugues Noël Robert, [*Principe d'effectivité*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/principe_effectivite.md), [*Tensions entre Liberté, Égalité et Fraternité effectives*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/tensions_liberte_egalite_fraternite_effectives.md), [*Méthode des terrains féconds*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md), [*Rendre capable — noyau doctrinal*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/noyau_doctrinal_rendre_capable.md).
+24. Jean Hugues Noël Robert, [*Traçabilité des actes*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md), [*Du spectacle à la régie : Stabilisateur procédural*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md), [*Amendement d'effectivité à l'article 72-5, version 0.7*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md). Ces documents présentent les **propositions de l'auteur** et non des autorités constitutionnelles.
 
 ## Limites documentaires et contrôles restant nécessaires
 
