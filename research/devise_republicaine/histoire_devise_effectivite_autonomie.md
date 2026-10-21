@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.2-alpha"
+version: "0.3-alpha"
 status: "working-draft — manuscrit enrichi, non validé"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
@@ -85,6 +85,8 @@ Après la Seconde Guerre mondiale, la Constitution du 27 octobre 1946 inscrit la
 
 La Constitution du 4 octobre 1958 dispose aujourd'hui à l'article 2 : « La devise de la République est "Liberté, Égalité, Fraternité". » Son préambule et son article 72-3 évoquent également un idéal commun reprenant les trois termes.
 
+Deux décisions antérieures permettent une comparaison décisive. Le **16 juillet 1971**, la décision n° 71-44 DC reconnaît la liberté d'association comme principe fondamental reconnu par les lois de la République à partir du préambule constitutionnel et de la loi de 1901 : elle censure un contrôle préalable contraire à cette liberté. Le **27 décembre 1973**, la décision n° 73-51 DC censure, au nom de l'égalité devant la loi issue de la Déclaration de 1789, une différence de traitement quant à la possibilité pour un contribuable de contester une taxation d'office par la preuve contraire. L'un et l'autre enseignent une traduction opérationnelle de garanties constitutionnelles, mais **non une déduction uniforme à partir de la seule devise de l'article 2**. Sources : Conseil constitutionnel, [71-44 DC](https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/le-senat-sauve-la-liberte-dassociation/le-senat-sauve-la-liberte-dassociation-le-texte-de-la-decision-du-conseil-constitutionnel.html), motifs 2–4 ; [73-51 DC](https://www.legifrance.gouv.fr/cons/id/CONSTEXT000017665584), motifs 1–4.
+
 La décision du Conseil constitutionnel n° 2018-717/718 QPC, du 6 juillet 2018, permet de voir comment un symbole devient un standard juridictionnel opératoire. Son paragraphe 7 conclut que la fraternité est un principe à valeur constitutionnelle. Son paragraphe 8 en déduit la liberté d'aider autrui dans un but humanitaire sans considération de la régularité de son séjour. Les paragraphes suivants réservent la sauvegarde de l'ordre public et la compétence du législateur pour concilier les exigences constitutionnelles. La portée est donc importante mais circonscrite : ni un droit général de franchissement des frontières ni un droit illimité à toute forme d'assistance ne découlent mécaniquement de la devise.
 
 Ce précédent illustre l'intérêt d'identifier une **opération juridique précise** entre proclamation constitutionnelle et conséquences applicables. Il ne démontre pas qu'une « clause générale d'effectivité » figurerait déjà en tant que telle dans la Constitution.
@@ -124,6 +126,9 @@ L'histoire ne fournit pas une ligne droite de 1789 à une norme d'effectivité e
 La proposition Baron Mariani déplace la question : que faudrait-il ajouter au mécanisme constitutionnel et organique envisagé pour la Corse afin que les compétences annoncées puissent être évaluées à l'épreuve de leur usage réel, sans confondre contrôle de constitutionnalité, contrôle de légalité et appréciation des politiques publiques ? Sa pertinence demeure une hypothèse de réforme, ouverte à la critique, à la comparaison et à l'arbitrage parlementaire.
 
 ## Sources essentielles et appareil critique provisoire
+
+**Sélection complémentaire v0.3-alpha :** liberté d'association, Conseil constitutionnel, décision n° 71-44 DC, 16 juillet 1971 ; égalité de traitement et preuve contraire, décision n° 73-51 DC, 27 décembre 1973. Comparaison et limites : [note de jurisprudence](jurisprudence_liberte_egalite_fraternite.md).
+
 
 **Ajouts de la version 0.2-alpha :** Robespierre, *Discours non prononcé sur la garde nationale*, *Archives parlementaires*, 1re série, t. XXI (1885), pp. 238–250, https://www.persee.fr/doc/arcpa_0000-0000_1885_num_21_1_9309_t1_0238_0000_8 ; décret du 27 avril 1848, Légifrance, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/ ; ordonnance du 9 août 1944, Légifrance, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006071212. L'absence de preuve primaire d'un acte général daté de 1880 demeure une réserve expresse.
 
