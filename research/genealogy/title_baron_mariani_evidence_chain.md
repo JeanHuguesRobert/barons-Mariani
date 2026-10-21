@@ -34,23 +34,23 @@ A strong answer to one question does not automatically answer the others.
 - `HYPOTHESIS`
 - `UNKNOWN`
 
-## 1. Antoine Dominique Mariani — Westphalia, 1813
+## 1. Antoine Dominique Mariani — Westphalia (date of creation unverified)
 
 ### STRONG EVIDENCE
 
-Antoine Dominique Mariani is documented by historical secondary sources as having been created baron by Jérôme Bonaparte, King of Westphalia, in 1813.
+Antoine Dominique Mariani is documented by historical secondary sources as having been created baron by Jérôme Bonaparte, King of Westphalia. The often-repeated date 1813 is not established by an identified primary instrument; the creation may predate the kingdom's collapse in October 1813.
 
 The Constitution of the Kingdom of Westphalia expressly maintained nobility in its various degrees and qualifications while abolishing the associated exclusive rights, exemptions and privileges.
 
 ### UNKNOWN
 
-The primary instrument creating the Mariani title — decree, letters patent or publication in the *Moniteur westphalien* — has not yet been recovered.
+The primary instrument creating the Mariani title — decree, letters patent or publication in a Westphalian official gazette — has not yet been recovered. The precise date is UNKNOWN; do not state 1813 as an established date or infer circumstances of a decree during the final collapse.
 
 The exact rules governing devolution of this particular title have not yet been established from a primary source.
 
 ### HYPOTHESIS TO TEST
 
-The applicable devolution may depend on pre-existing German / Holy Roman Empire noble usages preserved by Westphalian law. This must not be stated as fact until the relevant legal sources and the 1813 instrument have been identified.
+The applicable devolution may depend on pre-existing German / Holy Roman Empire noble usages preserved by Westphalian law. This must not be stated as fact until the relevant legal sources and the creation instrument have been identified.
 
 ## 2. Louis-Thomas Mariani — French parliamentary precedent
 
@@ -130,7 +130,7 @@ Normalization must not silently be confused with faithful representation.
 
 ### Not yet established
 
-- primary 1813 creation instrument;
+- dated primary creation instrument (the former 1813 dating is unverified);
 - complete rules of devolution;
 - complete genealogical chain supporting the present holder;
 - contemporary French legal recognition of the foreign noble title itself.
