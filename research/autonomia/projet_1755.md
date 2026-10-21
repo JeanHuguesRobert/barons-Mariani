@@ -1713,3 +1713,8 @@ Enquête et suivi : [fiche documentaire 1 J 7/1](1755-manuscrit-1j7-1-enquete.md
 ## Enquête transatlantique — chaîne documentaire (21 octobre 2026)
 
 [Chaîne documentaire 1755–1776 : reconstitution et comparaison avec les déclarations américaines](chaine_documentaire_1755_1776.md). Distingue le document original, les copies et éditions, la notoriété de Paoli, les récits institutionnels et les lectures attestées des constituants américains ; l'influence directe demeure une hypothèse à tester.
+
+
+## Audit de visibilité internationale (21 octobre 2026)
+
+[L'audit historiographique comparatif](audit_historiographique_international_1755.md) documente à la fois des omissions localisées et des reconnaissances importantes, en particulier Linda Colley (2021) et le National Constitution Center. Il évite toute affirmation d'absence générale : l'objectif est de mesurer et corriger les lacunes résiduelles.
