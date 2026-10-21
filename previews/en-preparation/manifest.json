@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-21T10:06:45.971431+00:00",
-  "git_sha": "8d75358f0f398494ed94e810446ab188566ad039",
+  "built_at_utc": "2026-10-21T10:29:51.556814+00:00",
+  "git_sha": "179cc3156f534a0f58daf0a3912aaa49cb5fc6d8",
   "books": [
     {
       "id": "capable",
