@@ -14,7 +14,7 @@ document_function: legal-adversarial-analysis
 target_scene: academic
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
