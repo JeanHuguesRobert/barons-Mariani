@@ -1718,3 +1718,8 @@ Enquête et suivi : [fiche documentaire 1 J 7/1](1755-manuscrit-1j7-1-enquete.md
 ## Audit de visibilité internationale (21 octobre 2026)
 
 [L'audit historiographique comparatif](audit_historiographique_international_1755.md) documente à la fois des omissions localisées et des reconnaissances importantes, en particulier Linda Colley (2021) et le National Constitution Center. Il évite toute affirmation d'absence générale : l'objectif est de mesurer et corriger les lacunes résiduelles.
+
+
+## Passerelle : Corse, carrefour des civilisations et Rousseau (2026-10-21)
+
+[La Corse, carrefour des civilisations : Rousseau et le Petit Parti](corse_carrefour_civilisations_rousseau_petit_parti.md). Le dossier distingue sources antiques et modernes, hypothèses de transmission, citation philologiquement vérifiée de Rousseau (1762) et réemploi contemporain dans le Petit Parti.
