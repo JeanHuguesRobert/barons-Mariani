@@ -97,7 +97,23 @@ Le critère de réussite n'est donc **ni le nombre minimal de mots ni la survie 
 | Évaluation sans publicité | Le nouvel impératif de publicité permet-il une consultation effective sous réserve des secrets légalement protégés ? |
 | Loi organique réduite à des formules générales | Quelles exigences observables permettraient de constater son insuffisance ? |
 
-## VI. Objections ouvertes et voies alternatives
+## VI. Retour Jimini.ai sur la v0.6 — troisième revue du 21 octobre 2026
+
+**Source :** rapport externe Jimini.ai de cinq pages, communiqué par le Principal après lecture du PDF de revue de la v0.6. Le DOCX intégral fourni dans la conversation est la pièce primaire. La présente synthèse n'est **ni une validation indépendante supplémentaire** (même service consulté de façon répétée), ni une adoption de sa proposition.
+
+**Constat de Jimini :** la formule « garanties nécessaires pour rendre effectives » indique une finalité mais ne précise pas de garanties minimales dont l'omission constituerait un manquement vérifiable. La loi organique pourrait prétendre y satisfaire par un simple bilan ou quelques règles générales. Jimini distingue les responsabilités du Gouvernement de celles du Parlement, souligne les limites de la publicité et rappelle qu'une évaluation n'impose pas, à elle seule, la correction d'une carence.
+
+**Nouvelle rédaction test proposée par Jimini** (après la première phrase de l'alinéa 6, *non adoptée*) :
+
+> « Elle prévoit les garanties nécessaires à la présentation, à l’enregistrement, à l’instruction et à la réponse motivée aux demandes d’habilitation présentées par la Collectivité de Corse en application des deuxième et troisième alinéas, ainsi que l’évaluation publique et périodique de leur mise en œuvre et de leurs effets observables au regard de la liberté, de l’égalité et de la fraternité. »
+
+**Réponse critique à instruire :** cette rédaction rend les devoirs *procéduraux* plus vérifiables, mais une demande peut être instruite et rejetée à bon droit sans rendre les valeurs républicaines plus effectives pour les habitants. Le possessif « leur » (demandes, habilitations ou garanties ?) crée un risque d'ambiguïté. Inversement, la v0.6 fait de la devise l'objet d'une obligation substantielle, mais peut être trop indéterminée pour imposer des garanties concrètes. **Ni l'une ni l'autre ne doit être protégée pour des raisons historiques.**
+
+**Test de falsification :** imaginer (a) toutes les demandes enregistrées, instruites et motivées, mais aucune amélioration mesurable des conditions d'exercice des droits ; (b) aucune demande déposée à cause d'obstacles structurels ; (c) un rapport annuel descriptif sans mécanisme de réponse aux déficiences. Pour chaque version, demander quelles omissions de la loi organique sont démontrablement incompatibles avec l'article 72-5 révisé.
+
+**Dispositions internes :** accepter le défaut d'indétermination comme **objection structurante** à la candidate v0.6 ; retenir la proposition de Jimini comme **variante concurrente** ; conserver l'objectif constitutif d'une obligation d'effectivité de Liberté, Égalité, Fraternité. Étape suivante : rédaction courte conjuguant un socle procédural vérifiable avec l'obligation de mesurer les effets du régime, *y compris son non-usage*, puis nouvelle contre-épreuve. **Statut : JUDGMENT_REQUIRED**, pas de dépôt parlementaire attesté.
+
+## VII. Objections ouvertes et voies alternatives
 
 1. **Indétermination de « rendre effectives ».** La formule est finalisée par trois principes constitutionnels, mais leur portée procédurale et matérielle doit être testée. Une revue peut conclure que l'obligation demeure trop programmatique.
 2. **Nécessité constitutionnelle.** L'[option O](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md) consiste à agir uniquement par la loi organique et le droit existant ; le seul constat que la Constitution *permet* une garantie ne démontre pas qu'elle l'*impose*. Comparer honnêtement les deux situations.
@@ -109,7 +125,7 @@ Le critère de réussite n'est donc **ni le nombre minimal de mots ni la survie 
 
 **Disposition interne :** `JUDGMENT_REQUIRED` sur la robustesse juridique de la candidate. La revue Jimini du 21 octobre recommande une formulation E’ procédurale plus précise ; la présente candidate courte est une **contre-hypothèse** qui privilégie l'obligation d'effectivité elle-même. Elle n'a pas été validée par Jimini. Aucun consensus externe n'est allégué.
 
-## VII. Fondements et distinction des registres
+## VIII. Fondements et distinction des registres
 
 L'effectivité n'est pas présentée comme une quatrième composante de la devise. Elle est l'exigence de confronter **Liberté, Égalité, Fraternité** aux conditions de leur exercice et aux effets des institutions. Cette orientation doctrinale ne doit pas être confondue avec l'existence déjà établie d'un **principe général justiciable d'effectivité** de chaque valeur, en toute matière.
 
@@ -126,7 +142,7 @@ faculté constitutionnelle ouverte
 
 La Corse est ici un terrain institutionnel borné où éprouver la cohérence entre les principes républicains proclamés et la réalité de leurs conditions d'exercice. Cela n'établit ni que les effets seront favorables, ni qu'un modèle serait automatiquement transposable.
 
-## VIII. Historique accessible et provenance des options
+## IX. Historique accessible et provenance des options
 
 **Source souveraine courante : ce fichier.** Les anciennes rédactions et leurs raisonnements sont conservés dans l'[historique Git du document](https://github.com/JeanHuguesRobert/barons-Mariani/commits/main/research/autonomia/amendement_effectivite_article_72-5.md). La version antérieure complète, y compris toutes les annexes et revues intégrées, peut être lue au [commit a526aee8](https://github.com/JeanHuguesRobert/barons-Mariani/blob/a526aee80fa8f071d1ee292c7a293fea70071293/research/autonomia/amendement_effectivite_article_72-5.md). Cette mémoire est une **trace**, non un veto à l'évolution.
 
