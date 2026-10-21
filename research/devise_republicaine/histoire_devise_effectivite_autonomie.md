@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.7-research"
+version: "0.8-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -218,6 +218,46 @@ La critique de la société du spectacle par Guy Debord (*La Société du specta
 3. **Sources du débat constitutionnel corse** : [Sénat, projet n° 782](https://www.senat.fr/leg/pjl25-782.html), textes et rapports successifs de la procédure ; [proposition v0.7](../autonomia/amendement_effectivite_article_72-5.md).
 4. **Sources administratives** : CGCT L. 4422-16 et L. 4422-17 ; *Journal officiel* des propositions et demandes corses ; rapports annuels existants. Ne pas considérer comme « inexistant » un document seulement non retrouvé.
 5. **Sources doctrinales internes** : [Méthode des terrains féconds](../methode_terrains_feconds.md) ; [Tensions entre Liberté, Égalité, Fraternité effectives](../tensions_liberte_egalite_fraternite_effectives.md) ; [Principe d'effectivité](../principe_effectivite.md) ; [Autonomia](../autonomia.md). Ces textes exposent la doctrine de l'auteur et doivent être cités comme tels.
+
+## VIII. Critique des sources : ce que la chronologie démontre, et ce qu'elle ne démontre pas
+
+Une histoire intellectuelle de la devise ne peut se réduire à une succession de dates commémoratives. Chaque étape doit être qualifiée : **formulation**, **usage politique**, **inscription publique**, **texte normatif**, **mise en œuvre** ou **interprétation juridictionnelle**. Confondre ces opérations reviendrait précisément à substituer la visibilité du symbole à l'étude de ses effets.
+
+### A. Décembre 1790 : proposition et non adoption
+
+La [notice historique de la Présidence de la République](https://www.elysee.fr/la-presidence/liberte-egalite-fraternite) situe dans un projet de Robespierre sur l'organisation des gardes nationales de décembre 1790 une proposition d'inscription de la triade sur les uniformes et les drapeaux, en précisant qu'elle **n'a pas été adoptée**. Ce témoignage institutionnel rétrospectif n'a pas la même valeur qu'une édition critique du discours ; la formulation exacte, sa date, la portée des versions manuscrites ou imprimées et ses conditions de circulation demeurent des objets de vérification philologique. La proposition de 1790 atteste une **possibilité de formulation**, non une consécration générale.
+
+### B. 1793 : des inscriptions concurrentes et des obligations sociales
+
+La même notice présidentielle rapporte des inscriptions urbaines de 1793 utilisant une formule d'unité et d'indivisibilité de la République, de liberté, d'égalité et de mort. Il faut donc éviter de transformer rétrospectivement chaque inscription révolutionnaire en exemplaire uniforme de la devise actuelle. Les textes constitutionnels de 1793 et leurs déclarations de droits doivent en outre être lus pour leurs prescriptions concrètes d'assistance et d'instruction, et non seulement pour leur vocabulaire symbolique. L'existence d'une promesse juridique n'atteste pas son application universelle.
+
+### C. Novembre 1848 : la consécration est constitutionnelle, mais située
+
+Le **préambule IV de la Constitution du 4 novembre 1848** énonce les trois termes comme *principe* de la République, tout en leur associant pour base la famille, le travail, la propriété et l'ordre public. La juxtaposition n'est pas accessoire : elle manifeste une tentative historique de **composition de principes**, et non la victoire sans reste d'une seule philosophie de la liberté. L'expression d'une République démocratique, une et indivisible apparaît au **préambule II**. Ces deux passages donnent une base primaire à l'analyse, sans autoriser à attribuer aux constituants de 1848 notre doctrine contemporaine des capacités. [Texte intégral, Présidence de la République, Constitution de 1848](https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848).
+
+Il faut également articuler 1848 au décret d'abolition de l'esclavage du 27 avril, à la question coloniale et aux modalités concrètes d'application. La formule constitutionnelle n'efface ni les populations et intérêts en conflit ni les écarts entre proclamation, institution et conséquences sociales. Le décret et ses suites réclament une étude spécifique des textes d'exécution et des travaux historiographiques.
+
+### D. 1880 : distinguer une synthèse officielle d'un acte général établi
+
+La [Présidence de la République](https://www.elysee.fr/la-presidence/liberte-egalite-fraternite) date du 14 juillet 1880 l'inscription de la devise sur les frontons d'édifices publics. Cette synthèse rétrospective justifie de rechercher des circulaires, décisions municipales et archives matérielles, mais ne suffit pas à établir **l'existence d'un décret général unique de 1880** imposant l'inscription à tous les bâtiments publics. Le manuscrit conserve donc la datation institutionnelle comme repère historiographique **sous réserve de collation** et refuse d'en tirer une obligation uniforme non prouvée.
+
+### E. 1946–1958 : de la réaffirmation constitutionnelle à la distinction des garanties
+
+L'article 2 des constitutions de 1946 et de 1958 fixe la devise républicaine. La présence des trois mots dans une norme suprême ne signifie pas que tous les droits, devoirs et voies de recours découlent de leur seule mention avec une égale précision. La liberté et l'égalité s'inscrivent dans plusieurs dispositions et jurisprudences distinctes ; la fraternité reçoit en 2018 une formulation jurisprudentielle explicite.
+
+### F. 2018 : structure exacte du raisonnement sur la fraternité
+
+La [décision 2018-717/718 QPC](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018), **paragraphes 7 à 10**, doit être lue dans son enchaînement : (1) valeur constitutionnelle du principe de fraternité tirée de l'article 2, du préambule et de l'article 72-3 ; (2) liberté d'aider autrui dans un but humanitaire ; (3) absence de droit général et absolu d'accès et de séjour des étrangers et reconnaissance d'une exigence d'ordre public ; (4) conciliation confiée au législateur. Le [commentaire publié par le Conseil constitutionnel](https://qpc360.conseil-constitutionnel.fr/commentaire-decision-2018-717718-qpc) éclaire la décision mais n'en étend pas par lui-même le dispositif.
+
+La leçon méthodologique est double. Une formule symbolique peut contribuer à une **norme justiciable**. Mais l'effet concret ne peut être identifié qu'en suivant les motifs et les limites d'une décision. Transposer l'exemple à une **obligation d'évaluation d'un régime territorial** est une proposition supplémentaire, à justifier indépendamment : elle ne découle pas automatiquement de 2018.
+
+### G. Trois falsifications à prévenir
+
+1. **Rétroprojection** : lire une notion contemporaine de capacité effective dans les discours de 1790 ou les débats de 1848 sans signaler qu'il s'agit d'une interprétation actuelle.
+2. **Glissement normatif** : déduire de la consécration constitutionnelle de la devise une obligation positive illimitée que ni les textes ni la jurisprudence ne formulent.
+3. **Confusion du constat et du jugement** : attribuer l'absence de réponse institutionnelle à des intentions individuelles non prouvées, ou traiter un rapport publié comme preuve suffisante d'une réforme efficace.
+
+**Règle de rédaction pour la suite :** toute affirmation décisive mentionnera un texte, une date, un article ou paragraphe, le niveau de la source et la portée exacte de l'inférence. Cette discipline est substantielle : elle applique à l'histoire de la devise le principe d'effectivité que l'étude examine.
 
 ## Conclusion générale — une devise à éprouver
 
