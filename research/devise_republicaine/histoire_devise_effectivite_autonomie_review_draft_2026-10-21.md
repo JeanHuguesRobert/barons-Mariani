@@ -7,12 +7,18 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.1-review-draft"
+version: "1.2-review-draft"
 status: "public-review-draft — not peer reviewed"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
 document_kind: legal-academic-paper
 document_function: academic-draft-for-external-review
+ai_assisted_by:
+  - "ChatGPT (OpenAI) — rédaction, édition et audit interne non indépendant, 2026-10-21"
+methodology:
+  - "Cogentia Redactor Prompt Contract v0.5"
+  - "Cogentia Reviewer Prompt Contract v0.5 — protocole de revue externe prévu, non encore exécuté"
+  - "Fix Bugs First ; prendre au mot ; source-first"
 target_audience:
   - juristes
   - historiens
@@ -26,7 +32,7 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/142"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/commit/9aed54478c634be8be0591265f2e5fb5419bc3ea"
   origin_date: "2026-10-21"
   derived_from:
     - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/135"
@@ -39,6 +45,7 @@ provenance:
 review:
   status: internal_review_completed_external_review_pending
   reviewed_by: []
+  internal_review_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/146"
 ---
 
 # Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité
