@@ -26,6 +26,10 @@ provenance:
 review:
   status: unreviewed
   reviewed_by: []
+## Passerelle historique — Paoli, Révolution et effectivité
+
+[Étude de cas Paoli (1789–1795) : principes proclamés et décisions de la Convention](../autonomia/paoli_france_revolutionnaire_effectivite.md). Cette passerelle ouvre un dossier probatoire autonome : elle ne constitue pas une preuve d'influence constitutionnelle directe ni une assimilation des normes de 1793 aux normes actuelles.
+
 ---
 
 # Origines, Révolution et triade (1789–1799)
