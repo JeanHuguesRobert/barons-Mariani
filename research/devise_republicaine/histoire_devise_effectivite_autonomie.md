@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.0-research"
+version: "1.1-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -365,6 +365,52 @@ La thèse doit néanmoins être qualifiée comme **argument de doctrine en faveu
 - Conseil constitutionnel, décision n° 2018-717/718 QPC, 6 juillet 2018, [motifs et dispositif](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018).
 - Sénat, projet de loi constitutionnelle n° 782 (2025–2026), [texte transmis](https://www.senat.fr/leg/pjl25-782.html).
 - Corpus Mariani, [*Méthode des terrains féconds*](../methode_terrains_feconds.md) et [*Proposition d'amendement d'effectivité v0.7*](../autonomia/amendement_effectivite_article_72-5.md).
+
+## XI. Contrôle documentaire du droit corse et perspective conventionnelle européenne (21 octobre 2026)
+
+### A. Comparaison littérale : CGCT et article 72-5
+
+La lecture des sources en vigueur dissipe un risque de contresens. L'article **L. 4422-16 du CGCT**, dans sa version issue de la loi du 21 février 2022, prévoit déjà : (I) des propositions d'adaptation réglementaire ; (II) une **demande motivée d'habilitation** à adapter les règles relevant des compétences transférées, transmise au Premier ministre ; (III) des propositions d'adaptation législative ; (V) des avis de l'Assemblée de Corse sur les textes spécifiques à la Corse ; (V bis) un **accusé de réception par le Premier ministre** et un **rapport annuel public sur les suites données aux propositions** ; (VI) une possible communication du représentant de l'État devant l'Assemblée de Corse. L'article **L. 4422-17** prescrit la publication au *Journal officiel* des propositions, demandes et avis des I à IV. Ces obligations sont préexistantes à l'amendement citoyen et doivent être reconnues sans réserve. Sources : [CGCT, L. 4422-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127) ; [CGCT, L. 4422-17](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/2026-05-29/).
+
+Le **projet constitutionnel n° 782**, transmis le 24 juin 2026, confie déjà à la loi organique le contrôle exercé par le Conseil d'État et le Conseil constitutionnel **sur les normes prises** en application des alinéas d'habilitation, ainsi que **leurs modalités d'évaluation** ; il prévoit des restrictions relatives aux libertés, droits garantis et égalité. [Texte du Sénat](https://www.senat.fr/leg/pjl25-782.html).
+
+La différence que propose la version 0.7 réside donc principalement dans **l'objet évalué** : non seulement les normes **produites**, mais le **fonctionnement du régime**, son accessibilité effective, ses usages et non-usages, et ses effets. Elle ajoute explicitement **publicité et périodicité** à cette évaluation du régime et vise des **garanties nécessaires d'accès et de mise en œuvre**. Aucune de ces expressions ne supprime les garanties existantes. Ce gain textuel n'établit toutefois pas automatiquement qu'un juge censurerait une loi organique lacunaire : le contrôle de sa portée reste une question ouverte.
+
+| Source et disposition | Obligation déjà formulée | Question que conserve l'amendement |
+| --- | --- | --- |
+| CGCT L. 4422-16 II | Demande d'habilitation motivée, transmise au Premier ministre | Conditions praticables d'accès au régime futur |
+| CGCT L. 4422-16 V bis | Accusé de réception et bilan annuel public des suites données aux propositions | Évaluation du **fonctionnement** du régime, et pas seulement du traitement des propositions |
+| CGCT L. 4422-17 | Publication de certaines propositions, demandes et avis au JO | Effets mesurés, obstacles, non-recours et correction éventuelle |
+| Projet de 72-5, alinéa organique | Contrôle et modalités d'évaluation **des normes prises** | Observation publique, périodique du **régime**, même sans norme nouvelle |
+| Proposition v0.7 | Garanties d'accès et évaluation publique périodique du régime | Contenu de la loi organique à définir ; absence de garantie automatique d'issue favorable |
+
+### B. Ce que la Convention européenne pourrait apporter à la recherche
+
+La **Convention européenne des droits de l'homme** et la **Cour européenne des droits de l'homme (Cour EDH, Strasbourg)** doivent être distinguées. La Cour ne délivre pas d'avis consultatif général au citoyen sur la valeur d'une proposition d'amendement constitutionnel ; elle juge des **violations alléguées de droits conventionnels**, sous conditions d'admissibilité.
+
+Le principe d'**effectivité pratique** traverse sa jurisprudence. Dans *Mathieu-Mohin et Clerfayt c. Belgique* (2 mars 1987, requête n° 9267/81, § 52), la Cour rappelle que les limitations du droit de vote et d'éligibilité ne doivent pas vider ces droits de leur substance ou de leur effectivité ; elle reconnaît aussi aux États une marge d'appréciation et n'exige aucun système électoral particulier. [Arrêt HUDOC](https://hudoc.echr.coe.int/eng?i=001-62094).
+
+Dans *Mugemangango c. Belgique* ([GC], 10 juillet 2020, n° 310/15, §§ 69–70, 87–88), la Cour insiste sur les **garanties adéquates et suffisantes d'un examen effectif des contestations électorales**, notamment impartialité, encadrement du pouvoir d'appréciation et décision suffisamment motivée. La Cour a constaté des violations dans la procédure particulière qui lui était soumise ; **ce précédent n'établit pas qu'un rejet du Conseil constitutionnel français serait, par hypothèse, irrégulier**. [Arrêt](https://hudoc.echr.coe.int/eng?i=001-203885).
+
+Dans *Grosaru c. Roumanie* (2 mars 2010, n° 78039/01), elle examine une contestation concernant la désignation d'un député et les garanties du recours électoral. [Arrêt](https://hudoc.echr.coe.int/eng?i=001-97617). Dans *Bompard c. France* (décision, n° 44081/02), elle analyse une contestation de découpage électoral portée auparavant devant le Conseil constitutionnel, en soulignant notamment l'identification des griefs soulevés devant le juge national, les limites des droits électoraux et la distinction entre contrôle d'une loi et contentieux d'une élection. Ce précédent invite à **qualifier correctement l'objet de la requête**, pas à conclure que tout argument constitutionnel serait recevable à Strasbourg. [Décision](https://hudoc.echr.coe.int/eng?i=001-76253).
+
+### C. Deux objets de contentieux qu'il ne faut surtout pas fusionner
+
+**1. L'amendement à l'article 72-5.** Son dépôt, sa non-adoption ou son éventuelle adoption est un processus législatif et constituant. Aucun individu ne dispose, du seul fait de la Convention, d'un droit à faire adopter cet amendement. La Cour EDH ne constituerait pas une instance de contrôle abstrait de sa valeur. Des actes futurs pris sous un régime territorial pourraient, en revanche, relever de droits conventionnels déterminés si un requérant personnellement concerné démontre une atteinte et remplit les conditions de recevabilité.
+
+**2. La contestation des sénatoriales de Haute-Corse en 2026.** C'est un dossier différent, relatif à l'accès à la candidature, aux formalités imposées, aux conditions d'examen du litige et, éventuellement, au pluralisme. Il appelle la lecture exacte des décisions nationales, de la qualité de victime et des pièces probantes. L'article 3 du Protocole n° 1, éventuellement combiné avec l'article 14 de la Convention, constitue un terrain possible à **examiner**, non une recevabilité garantie. L'article 13 requiert un grief défendable relevant d'un droit conventionnel ; l'article 6 ne s'applique pas automatiquement aux litiges électoraux. L'invocation du handicap dans la procédure peut nécessiter une analyse distincte des faits, de la discrimination alléguée, de son rattachement à un droit garanti et des mécanismes d'aménagement réellement accessibles.
+
+Un rejet du Conseil constitutionnel, même sur un motif procédural, **n'établit pas à lui seul une violation conventionnelle**. Il pourrait au contraire appeler un examen particulièrement rigoureux des voies internes effectivement utilisées, des motifs du rejet, des griefs présentés en substance et des obstacles allégués. Il ne faut ni présumer que le Conseil constitutionnel rejettera, ni présumer qu'une décision défavorable ouvrirait mécaniquement un recours recevable.
+
+### D. Conditions de recevabilité à Strasbourg et contrôle des échéances
+
+Une requête individuelle devant la Cour EDH doit notamment concerner un **droit garanti par la Convention ou ses protocoles**, émaner d'une **victime** au sens de l'article 34, respecter la règle de l'**épuisement des recours internes effectifs** et être introduite, en principe, dans les **quatre mois** à compter de la décision interne définitive pertinente (article 35). Le point de départ dépend de la notification et de la nature des recours ; un recours non pertinent ou inefficace ne reporte pas nécessairement le délai. Voir le [Guide pratique de recevabilité de la Cour](https://www.echr.coe.int/documents/d/echr/admissibility_guide_eng).
+
+Il faut établir un tableau probatoire pour le dossier sénatorial : décision de refus d'enregistrement et sa notification ; textes appliqués ; chronologie du dépôt et des possibilités de rectification ; obstacles matériels et éventuels aménagements demandés ; requêtes et pièces effectivement reçues par chaque juridiction ; décisions et dates de connaissance ; correspondance entre griefs nationaux et griefs conventionnels. Le dossier n'est pas ici jugé sur le fond : cette section **fixe une méthode et distingue les questions à résoudre**.
+
+### E. Portée doctrinale pour le manuscrit sur la devise
+
+Ce détour conventionnel éclaire la maxime selon laquelle une loi doit être confrontée à ses effets : l'effectivité est une notion déjà présente dans les garanties européennes, notamment dans le domaine du recours et des élections. Mais il faut distinguer la **garantie juridictionnelle d'un droit reconnu**, l'**efficacité d'une politique** et la **finalité constitutionnelle nouvelle proposée** pour la Corse. Ces trois plans se renforcent parfois sans se confondre. Notre amendement tente une institutionnalisation limitée de l'observation des effets du régime ; son éventuelle efficacité future et sa valeur juridique exacte demeurent à éprouver.
 
 ## Conclusion générale — une devise à éprouver
 
