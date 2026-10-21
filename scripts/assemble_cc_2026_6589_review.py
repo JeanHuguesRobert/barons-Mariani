@@ -5,7 +5,7 @@ import hashlib
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[3]
+ROOT = Path(__file__).resolve().parents[1]
 BASE = "research/senatoriales-2026/complement-2026-6589-sen/"
 SOURCES = [
  BASE+"texte-maitre-travail-v0.1.md",
