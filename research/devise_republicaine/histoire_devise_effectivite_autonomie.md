@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.3-research"
+version: "1.4-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -467,6 +467,28 @@ La donnée parlementaire sur **cinquante absences de réponse** n'est donc ni un
 **Portée pour la proposition v0.7 :** les deux travaux documentent une défaillance durable entre la faculté légale de demander des adaptations et leur traitement effectif. Ils fournissent donc un **motif empirique indépendant** pour examiner l'obligation projetée d'évaluation publique et périodique du *fonctionnement du régime*, y compris des non-usages et des blocages, au lieu de se limiter à l'évaluation des normes finalement adoptées. Ils ne démontrent ni que la rédaction v0.7 serait nécessairement adoptée, ni qu'elle assurerait à elle seule la réponse à toute demande.
 
 **Discipline documentaire :** ne pas recomptabiliser les dossiers déjà étudiés pour embellir un résultat ; conserver leurs périmètres, leurs qualifications et leurs réserves institutionnelles. Une enquête nouvelle sur les dossiers individuels ne serait justifiée que pour une question laissée sans réponse par ces sources, telle que l'exécution des prescriptions du V bis ou l'inventaire des publications au *Journal officiel*.
+
+## XIV. L'échec de publication du rapport sénatorial comme fait institutionnel autonome
+
+Le compte rendu **du 5 mars 2025** de la commission des lois du Sénat permet de dépasser la simple mention « rapport non adopté ». La mission d'information engagée en 2024, initialement sous l'autorité de François-Noël Buffet et poursuivie par Lauriane Josende, avait auditionné **plus de 90 personnes** et conduit un déplacement en Corse. Au terme de l'examen, **Muriel Jourda, présidente de la commission**, met successivement aux voix les recommandations, l'autorisation de publication et le rapport : **les recommandations ne sont pas adoptées ; le rapport n'est pas adopté et sa publication n'est pas autorisée**. Il en résulte une distinction essentielle entre le **compte rendu public de la discussion**, qui demeure consultable, et un **rapport d'information autorisé à la publication**, qui n'a pas vu le jour.
+
+[Source : Sénat, commission des lois, compte rendu de la réunion du 5 mars 2025, « L'évolution institutionnelle de la Corse — Examen du rapport d'information ».](https://www.senat.fr/compte-rendu-commissions/20250303/lois.html)
+
+Ce refus est un **objet d'analyse indépendant** des 72 demandes recensées et des 13 évolutions normatives signalées par la rapporteure. Il montre qu'un travail d'enquête et d'analyse peut être réalisé, discuté publiquement, et **ne pas franchir le seuil institutionnel de la publication officielle comme rapport de commission**.
+
+La signification du vote n'est toutefois pas réductible à la volonté de dissimuler les données sur l'ineffectivité. Plusieurs groupes ont contesté l'orientation générale, la place donnée aux propositions d'organisation administrative, le degré de différenciation normative proposé, la méthodologie ou les conditions d'élaboration. **Paul-Toussaint Parigi** a invoqué le caractère insuffisant du pouvoir d'adaptation et son inefficacité déjà observée ; **Éric Kerrouche** a reproché au texte de manquer l'objet véritable de la réforme institutionnelle ; d'autres intervenants ont évoqué le besoin d'une évaluation préalable et le calendrier. Le compte rendu montre donc aussi que **des opposants au rapport partageaient le diagnostic d'ineffectivité, tout en refusant ses propositions**. Ces arguments ne sauraient être effacés en attribuant à tous les votants un dessein unique de dissimulation.
+
+Mais l'effet institutionnel du vote demeure considérable. Lauriane Josende a explicitement regretté l'impossibilité de publier et conserver la trace des travaux dans ce support ; elle a notamment averti que ne pas voter le rapport conduirait à **« enterrer tout ce travail »**. Plusieurs orateurs, y compris certains critiques de ses recommandations, ont eux-mêmes déploré qu'une synthèse utile ne puisse être mise à disposition. **La publicité du compte rendu ne répare qu'en partie l'absence de publication du rapport achevé** : elle conserve les débats et des résultats chiffrés, mais non nécessairement la totalité de l'appareil documentaire élaboré lors de la mission.
+
+### Conséquence doctrinale : distinguer trois étages d'ineffectivité
+
+1. **L'ineffectivité de premier degré** concerne les demandes d'adaptation dont la suite institutionnelle n'est pas observable ou qui n'aboutissent pas à une transformation normative.
+2. **L'ineffectivité de deuxième degré** concerne l'observation de ce dysfonctionnement : une enquête parlementaire peut documenter le problème sans que son résultat prenne la forme d'un rapport officiellement publié.
+3. **L'ineffectivité de troisième degré** surgirait si les réformes futures continuaient de ne prévoir une évaluation que des normes finalement adoptées, laissant le fonctionnement des procédures et leurs blocages en dehors du champ prescrit.
+
+Cette construction est une **interprétation de l'auteur**, testable sur des faits institutionnels, non une qualification officielle par le Sénat. Elle confère à la notion de *terrain fécond* une portée pratique : plutôt que de demander aux groupes d'approuver une analyse politique unique, concevoir un mécanisme permettant de **documenter les désaccords, préserver les constats vérifiables et publier périodiquement l'état du fonctionnement du régime**. L'amendement v0.7 vise le troisième étage par une obligation constitutionnelle de garanties et d'évaluation ; **il ne supprime pas le droit d'une commission parlementaire de refuser d'adopter ou de publier un rapport**.
+
+Pour l'argumentaire public, la formulation rigoureuse est donc : **« La mission du Sénat a documenté l'ineffectivité du mécanisme ; la commission a débattu de ce diagnostic, puis refusé l'adoption et la publication du rapport, pour des divergences politiques et méthodologiques expressément exposées. Le rapport de l'Assemblée nationale a ensuite, de son côté, rendu public un bilan convergent. »** Cette séquence étaye l'urgence de mécanismes publics d'évaluation sans prouver que chaque institution ou chaque élu voulait « mettre le problème sous le tapis ».
 
 ## Conclusion générale — une devise à éprouver
 
