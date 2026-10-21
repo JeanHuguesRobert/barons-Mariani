@@ -77,3 +77,10 @@ L'enjeu est moins de présenter la Corse comme une exception à la devise que de
 - **UNKNOWN** : état parlementaire ultérieur au 21 octobre, adaptation formelle du libellé à la numérotation définitive, preuve éventuelle de transmission institutionnelle distincte des données disponibles.
 
 **Point de jugement humain** : choisir ou non l'option « garanties nécessaires à » et l'évaluation « publique » seulement après une revue comparée de la rédaction originale, du projet parlementaire et de leurs effets légistiques.
+
+## Complément probatoire et revue interne — 21 octobre 2026
+Le CGCT L.4422-16 V bis impose depuis 2022 l'accusé de réception des propositions par le Premier ministre et un rapport annuel public des suites. Le CGCT **L.4422-17** impose en outre la publication au Journal officiel des propositions, demandes et avis adoptés dans le champ des I à IV. Ce sont trois couches distinctes de traçabilité, dont l'exécution ne doit pas être présumée.
+
+Le compte rendu sénatorial du 5 mars 2025 attribue à Lauriane Josende les chiffres 72 demandes / 13 évolutions, mais **le rapport et les recommandations n'ont pas été adoptés** par la commission. La Collectivité a introduit les obligations de suivi dans son règlement intérieur en octobre 2022 ; cette mobilisation ne prouve ni la remise des accusés ni la publication des rapports nationaux. Les rapports annuels 2022–2025 demeurent non localisés, sans preuve d'inexistence.
+
+Le devoir de recevoir, instruire et répondre dans un délai borné reste différent du pouvoir de délivrer une habilitation. Les recours d'accès aux documents ne sauraient obliger le Gouvernement à déposer un texte ou le Parlement à voter. Revue interne mise à jour : [Reviewer](revue_interne_recours_2026.md). Statut : `JUDGMENT_REQUIRED`, candidate initiale inchangée.
