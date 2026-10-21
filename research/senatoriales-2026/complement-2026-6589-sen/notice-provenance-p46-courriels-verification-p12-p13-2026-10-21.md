@@ -1,7 +1,7 @@
 ---
 title: "Notice de provenance complémentaire — P-46 et demandes de vérification P-12/P-13"
 date: 2026-10-21
-status: working — source-anchored, not filed
+status: working-paper
 document_role: provenance_notice
 source_pieces: [P-12, P-14, P-22, P-29, P-30, P-31, P-32, P-33, P-45, P-46]
 visibility: public — metadata and commentary only
@@ -40,7 +40,7 @@ Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période
 | Date/heure CEST | Objet / fonction | Ancrage probatoire de la requête |
 |---|---|---|
 | 11/09 17:57:55 | Transmission initiale du lien vidéo, demande d'accusé | P-12 / P-13 / P-46 |
-| 14/09 12:09:17 | Demande de complétude du dossier avant audience, copie au greffe | P-14 / P-46, contextualise P-12 |
+| 14/09 14:09:17 | Demande de complétude du dossier avant audience, copie au greffe | P-14 / P-46, contextualise P-12 |
 | 15/09 08:42:17 | Première formulation de A, B et C à la préfecture | P-46, compléments à P-12/P-14 |
 | 16/09 08:38:28 | Demande d'inventaire et chronologie au TA | P-29 / P-46 |
 | 16/09 08:39:16 | Relance des trois questions A/B/C | P-46 |
@@ -50,6 +50,7 @@ Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période
 | 18/09 14:59:59 | Relance ciblée A/B/C | P-46 |
 | 18/09 18:41:39 | Maintien du canal email malgré suggestion Télérecours ; relance au TA | P-46 |
 | 18/09 22:00:01 | Demande de trace matérielle de l'audience, contexte d'exhaustivité du dossier | P-46, contextuel |
+| 21/09 12:31:22 | Relance préfectorale qui reformule expressément les trois questions après réception du jugement | P-46-N1.E19 ; absent de l'index historique à 46 lignes contrôlé |
 | 25/09 16:50:46 | Six questions résiduelles au greffe après retrait du jugement | P-32 / P-46 |
 | 25/09 16:59:13 | Demande de traces techniques, inventaires et préservation des logs | P-22 / P-46 |
 | 01/10 09:30:33 | Relance et clarification factuelle au Bureau des élections | P-45 / P-46, portée exacte à confirmer |
@@ -65,7 +66,7 @@ Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période
 Proposition **sans renumérotation de la requête initiale** :
 
 - **Notice principale P-46-N1** : présente synthèse, matrice A/B/C, périmètre et limites.
-- **Sous-annexes P-46-N1.E01…E18 (provisoires)** : copies intégrales des messages expédiés, triées et confrontées à P-46. Les identifiants sont des **repères éditoriaux nouveaux**, et non des références prétendument mentionnées dans la requête initiale.
+- **Sous-annexes P-46-N1.E01…E19 (provisoires)** : copies intégrales des messages expédiés, triées et confrontées à P-46. Les identifiants sont des **repères éditoriaux nouveaux**, et non des références prétendument mentionnées dans la requête initiale. E14 et E16 sont conservés comme contexte du fil préfectoral sur le PV/consultation, sans les qualifier de réponses aux questions A/B/C.
 - **Sous-annexes P-46-N1.Rxx** : réponses institutionnelles pertinentes, mises en regard du message auquel elles répondent, y compris celles qui ne répondent qu'à une partie des questions.
 - **P-22-N1** : notice particulière sur la demande du 25 septembre de conservation/accès aux traces techniques ; renvoi vers les messages connexes.
 - **P-29-N1** : notice particulière sur la recherche d'inventaire du TA, la traçabilité des dépôts initiaux et l'interrogation sur d'éventuels compléments.
@@ -90,3 +91,19 @@ Ce constat illustre la [capture relationnelle par architecture de canal et l'asy
 6. Mettre à jour #131 ; préparer l'intégration #133 et la revue #134 ; **`filing_ready=false` jusqu'au contrôle des fichiers définitifs**.
 
 **Aucune transmission n'a été effectuée.**
+
+## 7. Contrôle complémentaire du 21 octobre 2026 — index, réponses et droit cité
+
+Le contrôle du fil Gmail et des en-têtes RFC822 a retrouvé **19 messages sortants** dans le périmètre de travail (E01–E19) et **13 messages entrants ou déjà référencés** (R01–R13). Le jeu privé comporte 32 entrées : le message E01 est le P-12 déjà conservé ; R03 est le P-30 déjà conservé et n'est pas dupliqué comme nouvelle pièce. Les 30 autres objets ont des copies RFC822 décodées depuis Gmail API `raw`, conservées en privé. Les empreintes SHA-256 portent sur les octets décodés enregistrés ; elles attestent ces copies, sans établir leur réception historique par le destinataire.
+
+L'entrée E19, envoyée le 21 septembre à 12:31:22 CEST, demande explicitement une réponse préfectorale sur A/B/C après le jugement. Elle est retrouvée dans l'historique du fil mais ne figure pas parmi les 46 lignes de `index-p46-controle.csv`. Les messages E17 et E18, du 7 octobre, sont postérieurs à la dernière entrée de cet index (P-46.46, 2 octobre). Ces écarts sont conservés comme contrôle complémentaire ; l'index historique n'est pas réécrit ni présenté comme l'ensemble de toutes les communications.
+
+La copie de travail privée du volume intégral, l'index technique et l'archive EML sont localisés dans le dossier Drive privé relié au commentaire #131 du 21 octobre. Le PDF reprend les corps texte complets et les en-têtes utiles ; les pièces jointes source y sont répertoriées par nom, taille et empreinte, non incorporées dans ce PDF. L'archive ZIP conserve les EML RFC822. P-30/R03 est une référence croisée au fichier P-30 existant. Ces fichiers contiennent des adresses et des données d'accès/contextuelles : ils ne sont pas publiés dans le dépôt public. `shared=false` a été vérifié sur les quatre objets Drive du dossier. Le volume reste un travail de préparation, non une pièce déclarée déposée.
+
+Qualification des réponses : R01, R04 et R07–R08 sont des accusés automatiques ; ils ne répondent pas à A/B/C. R02 décline un commentaire sur le jugement et n'apporte pas de confirmation distincte sur A/B/C. R05 indique un canal procédural ; son code de dossier reste privé. R06 affirme que le jugement répond aux questions et donne une information de retrait postal, sans identifier séparément les preuves de réception préfectorale, de présence dans le dépôt initial ou d'examen judiciaire de la vidéo. R11 indique que le greffe ne donnera pas d'explication supplémentaire après le jugement et renvoie à la décision et aux voies de recours. R09–R10 et R12–R13 concernent la consultation/PV et sa logistique ; ils ne sont pas des réponses de fond sur A/B/C. R03/P-30 atteste la lecture de la note en délibéré par la formation, non celle de la vidéo. Dans ce périmètre, les états A (acceptation préfectorale avant 18 h), B (inclusion dans le dépôt initial), et C (transmission/examen ultérieurs) restent **UNKNOWN** ; l'absence de confirmation retrouvée ne vaut ni preuve de non-réception ni reconnaissance.
+
+Un relevé parallèle de P-20, donné dans un commentaire #131, décrit les pages d'un assemblage composite et la chronologie postale. Ces images composites n'ont pas été acquises ou inspectées ici ; il s'agit d'une information attribuée à son auteur, pas d'une vérification primaire par Codex. La transcription contrôlée existante conserve la formulation exacte de la notification. Pour le cadrage juridique, l'article L.292 du code électoral vise les recours contre le tableau des électeurs sénatoriaux et la régularité de l'élection des délégués/suppléants communaux ; les articles L.303 et LO.160 décrivent les voies liées aux déclarations/refus d'enregistrement. Le délai de contestation de l'élection sénatoriale devant le Conseil constitutionnel figure à l'article 33 de l'ordonnance organique n° 58-1067. Cette distinction explique une discordance apparente entre la référence imprimée L.292 et la matière de la notification ; elle ne corrige ni ne remplace la transcription, et ne constitue pas une conclusion sur la voie de recours individuelle. [Article L.292](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353698/2025-01-16), [article L.303](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006353733/2026-03-11), [article LO.160](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023882779), [article 33 de l'ordonnance n° 58-1067](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023882786).
+
+Contrôle indépendant de la copie 2601715 : l'inventaire de dépôt initial contient 16 entrées. La pièce PREF14 aux pages 97–98 est décrite comme un courriel de 14:14 sur les formulaires de mandataire ; ce n'est pas le courriel P-12 relatif à la vidéo. Ce constat porte sur l'inventaire contrôlé, et ne permet pas d'exclure une transmission complémentaire ni d'établir ce que la formation a examiné. Le PDF 2601714 a une structure différente et ne permet pas d'étendre l'observation de l'inventaire 2601715.
+
+Les neuf contrôles #127 restent inchangés : 1 PASS, 2 PASS, 3 UNKNOWN, 4 PASS, 5 UNKNOWN, 6 UNKNOWN, 7 UNKNOWN, 8 PASS, 9 PASS. Le contrôle de provenance RFC822 progresse pour cette série ; il ne lève pas les inconnues sur P-20, les transcriptions historiques P-17, la complétude globale des échanges ni le paquet final. `filing_ready=false`. Aucun envoi au greffe ou au Conseil.
