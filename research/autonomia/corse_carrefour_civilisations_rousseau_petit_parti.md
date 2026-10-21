@@ -71,3 +71,12 @@ La République paolienne, malgré l'antériorité de sa Constitution, n'est pas 
 ## 7. Enquête restante
 
 Vérifier les métadonnées bibliographiques des études archéologiques ; analyser la sous-représentation à travers un échantillon contrôlé de publications de synthèse ; déterminer les premières attestations datées de la formule « conquise, jamais soumise » et ses variantes ; documenter les usages historiques de la citation de Rousseau, en distinguant réception paolienne, napoléonienne et nationaliste moderne.
+
+
+## 8. Autonomie : « se donner ses lois », de Rousseau à l'article 72-5 (21 octobre 2026)
+
+L'étymologie grecque **autós** (soi-même) + **nómos** (loi) désigne la faculté de se régir par ses propres lois. Référence lexicographique : https://www.larousse.fr/encyclopedie/philosophie/autonomie/191272 . C'est un raccord conceptuel direct avec le passage de Rousseau dans *Du contrat social* (II, X, 1762) sur le peuple corse « capable de législation » : non une identité des projets historiques, mais une interrogation commune sur le sujet et l'exercice du pouvoir normatif.
+
+En droit positif, **autonomie ≠ souveraineté sans limites**. Le projet de loi constitutionnelle relatif à la Corse (article 72-5 envisagé) prévoit que la collectivité *peut être habilitée* à adapter des normes et à en fixer dans certaines matières de sa compétence, dans les conditions et sous les réserves d'une loi organique, avec contrôle du Conseil d'État et du Conseil constitutionnel. L'exposé des motifs distingue expressément autonomie encadrée, souveraineté nationale et indivisibilité de la République. Voir : https://www.senat.fr/leg/pjl24-869.html et https://www.senat.fr/leg/exposes-des-motifs/pjl24-869-expose.html . La séance du Sénat était annoncée pour **le 26 octobre 2026** selon le dossier législatif consulté au 21 octobre : https://www.senat.fr/dossier-legislatif/pjl24-869.html ; l'issue ne doit pas être anticipée.
+
+**Question d'effectivité et proposition analytique contemporaine :** disposer d'un pouvoir normatif proclamé ne suffit pas ; qui déclenche les habilitations, dans quels délais, avec quelle maîtrise des matières, quels moyens de légistique, quels contrôles démocratiques et quelle capacité réelle de corriger les effets ? Cette question relie la Constitution de 1755, Rousseau, le projet d'autonomie et [l'amendement d'effectivité à l'article 72-5](amendement_effectivite_article_72-5.md) sans prêter au XVIIIe siècle les concepts juridiques de 2026.
