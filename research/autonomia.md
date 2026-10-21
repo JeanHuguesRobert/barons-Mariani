@@ -1016,3 +1016,8 @@ La commission des lois du Sénat a demandé une version Word de la contribution 
 L'audition ministérielle du 13 octobre a fait l'objet d'une transcription **ASR de travail**, couvrant 512 segments audiovisuels en 16 lots, avec horodatages et preuves d'exécution. Elle n'est pas un compte rendu sénatorial officiel ; les attributions et formulations importantes requièrent vérification sur l'audio. [Paquet de preuve et de suivi](https://github.com/JeanHuguesRobert/barons-Mariani/issues/120) et [exécution de calcul](https://github.com/JeanHuguesRobert/inseme/actions/runs/38559404817).
 
 Pour un dossier de presse, maintenir trois distinctions : publication associative versus dépôt parlementaire ; courriel envoyé versus réception et instruction ; reconnaissance vocale automatique versus citation vérifiée. Ce complément vaut mise à jour de la documentation vivante, **sans réécrire l'état historique du document initial**.
+
+
+## Passerelle : Corse, carrefour des civilisations et Rousseau (2026-10-21)
+
+[La Corse, carrefour des civilisations : Rousseau, le petit peuple et l'effectivité](autonomia/corse_carrefour_civilisations_rousseau_petit_parti.md). Le dossier distingue sources antiques et modernes, hypothèses de transmission, citation philologiquement vérifiée de Rousseau (1762) et réemploi contemporain dans le Petit Parti.
