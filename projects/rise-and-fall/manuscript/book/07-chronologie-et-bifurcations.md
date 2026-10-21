@@ -26,7 +26,7 @@ Nous présentons ici les **14 bifurcations majeures** identifiées par l'enquêt
 | **1776** | **Naissance d'Antoine Dominique Mariani** (15 sept., Muracciole/Corte) | Constitution du point d'ancrage généalogique de la lignée moderne. | **P** |
 | **1806** | **Mission à Naples au service de Joseph Bonaparte avec Saliceti** | Entrée dans la haute administration d'Empire et l'appareil diplomatique. | **E / P** |
 | **1811** | **Nomination comme sous-préfet de Corte** par Napoléon Ier | Apogée administratif local ; acquisition et aménagement de Minesteggio. | **E / P** |
-| **1813** | **Attribution du titre de baron westphalien par le Roi Jérôme** | Concession nobiliaire dans la débâcle de Cassel ; Journal Officiel suspendu. | **E / D** |
+| **Avant octobre 1813 (date exacte non établie)** | **Titre de baron westphalien attribué par le roi Jérôme** | Existence du titre attestée par les usages postérieurs ; acte primaire de création et datation à rechercher. | **H / D** |
 | **1815** | **Fidélité aux Cent-Jours** (Garde nationale avec le duc de Padoue) | Maintien de l'ancrage territorial malgré la chute de l'Empire. | **E** |
 | **1845** | **Décès d'Antoine Dominique Mariani** (8 déc., Corte) | Première épreuve de partage successoral sous le Code civil de 1804. | **P / O** |
 | **1853** | **Mariage de Louis-Hugues Mariani et Marie Joséphine d'Angelis** | Alliance avec une illustre famille bastiaise ; fondation de la chapelle. | **P / O** |
