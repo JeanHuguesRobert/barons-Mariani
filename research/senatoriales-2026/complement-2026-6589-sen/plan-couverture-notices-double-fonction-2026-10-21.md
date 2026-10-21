@@ -13,7 +13,7 @@ filing_ready: false
 |---|---|---|---|
 | P-04 / P-05 / P-07 / P-08 | G1/G2/G4 | N1 « envois initiaux, accusés, déplacement et photos » | À rédiger |
 | **P-06 / P-09** | G1/G2 | [Notice G1](notice-g1-p06-p09-double-fonction.md) | Rédigée ; contrôle P-09 et confrontation juridique restants |
-| P-10 / P-11 / P-12 | G1/G4 | N2 « mandataire, accusé humain et lien vidéo » ; [notice G4](notice-g4-provenance-pertinence-p12-p46.md) | Couverture partielle ; notice collective à rédiger |
+| P-10 / P-11 / P-12 | G1/G4 | [Notice N2](notice-n2-p10-p11-p12-double-fonction.md) ; [notice G4](notice-g4-provenance-pertinence-p12-p46.md) | Rédigée ; vérification des EML et annexe d’origine restante |
 | **P-13** | G2/G3/G4 | [Notice G2/G3](notice-g2-g3-p13-p17-p19-double-fonction.md) + [parcours vidéo](parcours-video-p13-v0.1.md) | Rédigées ; assemblage et revue restants |
 | **P-14 / P-44** | G1/G3/G4 | [Protocole et notice P-14-N1](doctrine-notices-double-fonction-suite-demande-greffe-2026-10-21.md) et [acquisition](notice-acquisition-p17-p14-2026-10-21.md) | Rédigées ; vérifier contrôle fin des inventaires |
 | P-15 / P-16 | G3/G4 | N3 « demande préalable à l'audience, mémoire en défense, identité de l'exemplaire » | À rédiger |
@@ -37,4 +37,4 @@ filing_ready: false
 5. Réconcilier ce plan avec les **39 références effectivement identifiées dans le PDF initial**, l'index de 46 messages P-46 et le bordereau final ; ne pas déclarer la complétude avant ce contrôle.
 6. Coordonner #131 (provenance), #132 (vidéo), #133 (intégration) et #134 (revue binaire et juridique) ; solliciter la décision humaine avant l'envoi.
 
-**Priorité suivante :** N2 puis N3, suivies de N5 et N6 ; N1 et N4 ensuite, avec contrôle global final.
+**Priorité suivante :** N5 et N6 ; N1 et N4 ensuite, avec contrôle global final. N2 et N3 sont désormais rédigées mais non validées.
