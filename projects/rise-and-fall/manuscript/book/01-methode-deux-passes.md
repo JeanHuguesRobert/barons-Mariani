@@ -32,7 +32,7 @@ La **Passe A** part du présent observable et remonte le temps, trace après tra
   ↑
 1863 (protestation électorale imprimée, PV du Corps législatif)
   ↑
-1813 (décret westphalien du Roi Jérôme, archives de Cassel)
+Date à établir (titre westphalien de Jérôme ; acte de concession à retrouver)
   ↑
 1776 (actes paroissiaux de Corte et Muracciole)
 ```
