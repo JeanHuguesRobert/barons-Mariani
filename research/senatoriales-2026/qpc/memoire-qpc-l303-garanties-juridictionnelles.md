@@ -3,8 +3,8 @@ title: "Mémoire distinct et motivé — QPC article L.303 du code électoral"
 subtitle: "Garanties juridictionnelles de l'exclusion d'une candidature sénatoriale"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-07"
-version: "0.3"
-status: "candidate-filing"
+version: "0.4"
+status: "working-paper — mémoire autonome non transmis"
 language: fr
 document_role: "legal-brief"
 document_kind: "qpc-memorandum"
@@ -13,6 +13,22 @@ related_case: "Sénatoriales Haute-Corse 2026"
 related_documents:
   - "../requete-conseil-constitutionnel.md"
   - "qpc-l303-garanties-juridictionnelles-office-juge-electoral.md"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+license: "CC BY-SA 4.0"
+last_modified_at: "2026-10-21"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md"
+update_policy: "UP-DEFAULT-REVIEWED"
+lifecycle_state: "working"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/129"
+  origin_date: "2026-10-21"
+  derived_from:
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # MÉMOIRE DISTINCT ET MOTIVÉ
