@@ -2,7 +2,22 @@
 title: "Note d'accompagnement — dépôt TransfertPro — dossier 2026-6589 SEN"
 date: "2026-10-07"
 author: "Jean Hugues Noël Robert"
-document_role: "filing-accompaniment"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+language: fr
+license: CC BY-SA 4.0
+status: "stable — historical filed text, binary archive verified"
+update_policy: UP-DEFAULT-REVIEWED
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/transmissions/2026-10-07-note-accompagnement-transfertpro.md"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: ff9032859fb4db8af3ba029ad8fbc62658659398
+  origin_date: "2026-10-07"
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+document_role: operational
 document_kind: "procedural-note"
 visibility: "public"
 lifecycle_state: "filed"
@@ -73,3 +88,16 @@ Le présent fichier Markdown est sa source textuelle publique d'archive.
 - suivi : https://github.com/JeanHuguesRobert/barons-Mariani/issues/115
 
 **Ne pas fermer ce point par régénération du PDF.** L'objet à préserver est le fichier exact transmis via TransfertPro.
+
+
+## Archivage binaire vérifié — 21 octobre 2026
+
+Le PDF conservé par le Principal a été fourni puis vérifié sans régénération :
+
+- [binaire archivé](2026-6589-SEN_note-accompagnement_chaine-production_v6.pdf) ;
+- taille calculée : **29 586 octets** ;
+- SHA-256 calculé : `a8812b7bffcf39792d710001c52aa2d7c714078b78272035ae56fea6bc479bec`, conforme à l'empreinte historique attendue.
+
+Le constat du 9 octobre ci-dessus est conservé comme état historique. Les trois fragments base64 préexistants restent une trace incomplète : leur concaténation se décode en 18 000 octets et ne doit pas remplacer ce PDF complet.
+
+Cette vérification porte sur l'identité binaire de la copie fournie avec l'empreinte consignée ; elle ne démontre pas une nouvelle remise ni une lecture par le greffe. Voir le [checkpoint de reprise #131](../complement-2026-6589-sen/checkpoint-provenance-2026-10-21.md).

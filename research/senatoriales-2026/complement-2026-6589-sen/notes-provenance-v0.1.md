@@ -1,6 +1,35 @@
+---
+title: "2026-6589 SEN — Notes de provenance, projet de travail"
+author: unknown
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-21"
+status: "working-paper — preparation, not filing"
+language: fr
+license: CC BY-SA 4.0
+document_role: operational
+document_kind: evidence-provenance-notes
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/notes-provenance-v0.1.md"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: ff9032859fb4db8af3ba029ad8fbc62658659398
+  origin_date: "2026-10-21"
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Dossier 2026-6589 SEN — Notes de provenance, projet de travail v0.1
 
 **Statut : brouillon de préparation, non déposé ni envoyé.** Pilotage : #127 ; propriétaire de ce livrable : #131. Chaque note doit préciser le grief de la requête déjà déposée auquel elle se rattache. Les pièces natives sensibles ne sont **pas** reproduites dans ce fichier public.
+
+## Reprise du 21 octobre 2026
+
+Le [checkpoint de reprise #131](checkpoint-provenance-2026-10-21.md) consigne les contrôles du PDF initial, les pages des 39 références, l’index de contrôle des 46 messages, les limites probatoires et l’archivage de la note v6 complète vérifiée. Les notices ci-dessous restent préparatoires ; aucune pièce n’est réputée transmise du seul fait de son référencement.
 
 ## Règle commune
 
