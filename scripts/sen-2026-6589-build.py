@@ -12,7 +12,7 @@ import re
 import subprocess
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[3]
+ROOT = Path(__file__).resolve().parents[1]
 SEN = ROOT / "research" / "senatoriales-2026"
 CON = SEN / "complement-2026-6589-sen"
 MAIN = CON / "texte-maitre-travail-v0.1.md"
