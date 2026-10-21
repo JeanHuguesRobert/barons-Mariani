@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.5-research"
+version: "1.6-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -544,6 +544,63 @@ Cette application peut se résumer ainsi : **l'absence d'effet observable doit p
 ### 6. Test d'autoportance de cette articulation
 
 Un lecteur ignorant totalement le Corpus doit pouvoir retrouver dans le présent chapitre : **le problème** (des droits ou des facultés sans suites visibles), **la notion** (traces d'actes et traces négatives), **la méthode** (relier compétence, demande, réception, examen, décision, effet et correction), **la précaution** (ni silence = faute, ni traçabilité = légitimité), **la portée de la proposition** (évaluation publique et périodique du régime), et **la source** (les documents doctrinaux identifiés ci-dessus). Les hyperliens permettent de vérifier et d'approfondir ; leur ouverture n'est pas nécessaire pour comprendre l'argument.
+
+## XVI. De la traçabilité à la correction : chaîne institutionnelle et tests de complétude
+
+### 1. L'obligation d'évaluer existe déjà : la difficulté porte sur ses suites
+
+Le droit français ne découvre pas l'évaluation en 2026. L'**article 24 de la Constitution** confie au Parlement trois fonctions distinctes : voter la loi, contrôler l'action du Gouvernement et évaluer les politiques publiques. L'**article 47-2** prévoit que la Cour des comptes assiste le Parlement et le Gouvernement dans cette évaluation et contribue, par ses rapports publics, à l'information des citoyens. L'Assemblée nationale décrit ses instruments de contrôle de l'application des lois, d'enquête et d'évaluation des effets ; les outils existent donc à plusieurs niveaux. Sources institutionnelles : [Assemblée nationale, fiche n° 58, *Le contrôle de l'application des lois et l'évaluation de la législation et des politiques publiques*](https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/evaluation-politiques-publiques-controle-gouvernement/le-controle-de-l-application-des-lois-et-l-evaluation-de-la-legislation-et-des-politiques-publiques) ; [Constitution, articles 24 et 47-2, extraits publiés par l'Assemblée nationale](https://www.assemblee-nationale.fr/14/controle/com_cec/textes_art_24_497.asp).
+
+Cette antériorité est une **objection utile** à toute affirmation selon laquelle l'amendement créerait l'idée même d'évaluation. La valeur ajoutée alléguée est plus étroite : assigner à la loi organique relative à la Corse un **objet particulier d'évaluation** — le fonctionnement et les effets du régime d'habilitation, y compris lorsque celui-ci n'a produit aucune norme — ainsi que des caractères de **publicité** et de **périodicité**.
+
+L'évaluation parlementaire générale et l'obligation constitutionnelle spécialisée envisagée ne se substituent pas l'une à l'autre. La seconde préciserait une exigence adressée au législateur organique ; la première conserve sa fonction de contrôle politique et d'appréciation des politiques publiques.
+
+### 2. Quatre obligations différentes, quatre modes de défaillance
+
+Le débat sur l'effectivité doit distinguer :
+
+1. **Tracer** : enregistrer l'acte, son fondement, les étapes pertinentes et les suites connues. Le résultat attendu est une mémoire exploitable ; il ne constitue pas, seul, une réponse satisfaisante.
+2. **Répondre** : apporter une suite à une demande, éventuellement motivée lorsque le droit applicable l'exige. Un accusé de réception et une réponse au fond sont différents ; les obligations et exceptions varient selon la procédure.
+3. **Évaluer** : apprécier systématiquement la mise en œuvre et les effets à l'aide de critères publics, en examinant également les non-usages et les effets non voulus. Un rapport descriptif n'établit pas à lui seul une causalité.
+4. **Corriger** : décider de modifier une pratique, une règle ou une allocation de moyens lorsque l'évaluation le justifie, ou motiver le choix de maintenir la solution. Aucune correction automatique de toute conséquence défavorable ne découle de la seule publicité d'un rapport.
+
+Une procédure peut donc être **traçable mais silencieuse**, **répondue mais inefficace**, **évaluée mais inchangée**, ou **corrigée sans qu'on puisse mesurer les résultats de la correction**. Ce sont des défaillances différentes, qui demandent des remèdes distincts. Inversement, le refus motivé et juridiquement fondé d'une demande n'est pas nécessairement une défaillance d'effectivité.
+
+### 3. Une boucle de responsabilité envisageable
+
+Pour comprendre concrètement l'apport d'un Stabilisateur procédural au régime d'habilitation, on peut reconstruire la séquence suivante : **compétence reconnue → demande enregistrée → réception établie → examen ou absence qualifiée → décision et motifs accessibles selon le droit applicable → suite normative éventuelle → effets observés → évaluation publiée → examen des corrections possibles**.
+
+Chaque passage doit être assorti d'un responsable institutionnel, d'une trace proportionnée, d'une règle d'accès aux informations et d'un moyen de contestation adapté. Les actes protégés par la confidentialité, le secret légal ou les droits de tiers ne sauraient être rendus publics sans restriction. Il faut distinguer le **registre interne de traitement**, le **rapport public agrégé**, et les **pièces communicables selon les règles applicables**.
+
+Cette boucle n'est pas déjà instituée par la version v0.7 ; elle représente une **option de conception de la future loi organique** permettant d'expliciter ce que signifierait l'évaluation du fonctionnement du régime. Le constituant peut prescrire les finalités et objets ; l'autorité compétente devra concevoir les instruments sans créer de formalités disproportionnées.
+
+### 4. Le problème de la réponse à l'évaluation
+
+L'échec mis en lumière par les travaux parlementaires sur les demandes corses présente un risque de reproduction à un étage supérieur : une évaluation peut être réalisée puis perdre toute portée pratique faute de publication, de discussion ou de suite identifiable. Le refus de publication du rapport examiné par la commission des lois du Sénat le 5 mars 2025 fournit un **exemple institutionnel de dissociation entre travail d'enquête et reconnaissance formelle d'un produit parlementaire** ; il ne démontre pas à lui seul une volonté de dissimulation.
+
+Une voie possible serait de prévoir, dans le cadre légal compétent, une **réponse institutionnelle aux constats d'évaluation** : mise à l'ordre du jour, prise de position publiée, explication d'une correction envisagée ou d'un maintien justifié. Il ne s'agit pas de contraindre une assemblée à approuver un rapport ni d'imposer l'adoption d'une réforme. Cette obligation supplémentaire de réponse aux constats **ne figure pas expressément dans l'amendement v0.7** : elle constitue une piste pour la loi organique et pour la discussion académique, à confronter aux règles constitutionnelles de compétence et de liberté de délibération.
+
+### 5. Test de non-formalisme : une « évaluation » qui ne changerait rien
+
+Le [Conseil d'État, dans son étude annuelle 2016 *Simplification et qualité du droit*](https://www.conseil-etat.fr/publications-colloques/etudes/etudes-annuelles/simplification-et-qualite-du-droit), appelle à responsabiliser les décideurs et à faciliter l'application des normes plutôt qu'à multiplier les textes. Il a également souligné dans son [étude de 2013 *Le droit souple*](https://www.conseil-etat.fr/publications-colloques/etudes/etudes-annuelles/le-droit-souple) que les instruments non contraignants peuvent accompagner l'application du droit, à condition d'être employés et rendus accessibles de manière appropriée. Ces travaux ne recommandent pas l'amendement en discussion ; ils permettent d'en tester la vulnérabilité au formalisme.
+
+Une évaluation du régime serait **insuffisante au regard de la finalité doctrinale**, même si son existence formelle était attestée, si elle ne distinguait pas les demandes des normes adoptées, ne documentait aucun obstacle, ignorait le non-recours, ne précisait pas les sources utilisées ou ne permettait aucune discussion contradictoire. Il faut donc concevoir non seulement un rapport, mais la **capacité d'en discuter les données et d'apprécier ses suites**. Reste une limite juridique importante : la v0.7 ne rend pas chacune de ces conditions directement opposable sans médiation législative et interprétation compétente.
+
+### 6. Objets vérifiables, obligations contestables et résultats incertains
+
+La démonstration peut être soumise à trois tests hypothétiques simples :
+
+| Situation | Test de l'obligation proposée | Ce qu'il ne faut pas conclure |
+| --- | --- | --- |
+| Aucune habilitation nouvelle durant une période | L'évaluation périodique existe-t-elle malgré l'absence de norme à examiner ? | L'absence d'habilitation ne prouve pas un empêchement |
+| Demandes nombreuses et suites rares | Le bilan distingue-t-il réception, examen, refus, silence qualifié et motifs disponibles ? | Toute absence de suite ne prouve pas une infraction |
+| Rapports publiés, problèmes persistants | Les résultats et désaccords restent-ils accessibles ; les autorités compétentes expliquent-elles leurs suites ? | La v0.7 ne crée pas explicitement une obligation de correction |
+
+L'originalité recherchée n'est donc pas un **droit constitutionnel abstrait au succès**. Elle serait une obligation de ne pas laisser le **fonctionnement même de la capacité constitutionnelle** hors champ de l'observation et du débat public. Il s'agit de rendre possible une responsabilité informée, et non de déclarer tous les responsables coupables.
+
+### 7. Limites de l'autoportance et de la démonstration
+
+Le présent chapitre expose sans prérequis la différence entre traçabilité, réponse, évaluation et correction ; il relie chacune à un mécanisme concret, à une source institutionnelle et à une objection. Les références internes servent à approfondir les fondements doctrinaux, non à fournir une définition indispensable absente du manuscrit. Avant revue, la consolidation éditoriale devra néanmoins vérifier l'ensemble des chapitres pour supprimer les répétitions, harmoniser la numérotation, vérifier les références exactes et réunir la bibliographie. L'autoportance locale de ce chapitre ne vaut donc pas certification de l'autoportance **globale** du texte.
 
 ## Conclusion générale — une devise à éprouver
 
