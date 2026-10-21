@@ -23,6 +23,10 @@ document_function: parliamentary-amendment-candidate-and-working-note
 review:
   status: unreviewed
   reviewed_by: []
+## Passerelle historique — Paoli, Révolution et effectivité
+
+[Étude historique Paoli : rupture institutionnelle et principe d'effectivité](paoli_france_revolutionnaire_effectivite.md). Cette passerelle ouvre un dossier probatoire autonome : elle ne constitue pas une preuve d'influence constitutionnelle directe ni une assimilation des normes de 1793 aux normes actuelles.
+
 ---
 
 # Amendement au projet de loi constitutionnelle pour une Corse autonome au sein de la République
