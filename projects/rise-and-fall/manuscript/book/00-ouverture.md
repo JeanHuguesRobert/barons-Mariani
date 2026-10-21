@@ -36,7 +36,7 @@ Dans cette enquête, la capacité d'une lignée ne se confond ni avec son compte
 ### Pourquoi le Volume I ?
 
 Ce premier volume s'arrête en **1870**, au seuil de la chute du Second Empire. C'est le cycle de l'ascension et de l'apogée :
-- D'Antoine Dominique Mariani (1776–1845), modeste notable de l'intérieur monté à Naples avec Saliceti, installé à la sous-préfecture de Corte en 1811, titré baron westphalien en 1813 par le Roi Jérôme Bonaparte dans le tourbillon de la débâcle de Cassel, et bâtisseur du domaine de Minesteggio ;
+- D'Antoine Dominique Mariani (1776–1845), modeste notable de l'intérieur monté à Naples avec Saliceti, installé à la sous-préfecture de Corte en 1811, titré baron westphalien par le roi Jérôme Bonaparte (date précise de concession à établir), et bâtisseur du domaine de Minesteggio ;
 - À Louis-Thomas Mariani (1815–1890), son fils, avocat réputé, procureur impérial, député de la Corse au Corps législatif, siégeant au sein de la majorité dynastique avant d'être défait lors du scrutin dramatique de 1863 par son rival Sampiero Gavini.
 
 En reconstituant ces deux destins, ce volume ne cherche pas à ériger un mausolée. Il pose les pièces d'un échiquier documentaire rigoureux, fondé sur des archives primaires, pour comprendre les mécanismes réels de la grandeur avant d'examiner, dans les volumes suivants, la lente mécanique de l'attrition.
