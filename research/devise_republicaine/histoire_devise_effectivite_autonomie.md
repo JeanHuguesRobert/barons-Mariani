@@ -158,3 +158,15 @@ La proposition Baron Mariani déplace la question : que faudrait-il ajouter au m
 Ce manuscrit constitue un **premier ensemble autoporteur**, non une version universitaire prête à publier. La profondeur historique doit être augmentée pour les années 1789–1848, 1870–1946 ; les sources primaires de certaines inscriptions révolutionnaires et du début de la Troisième République restent à collationner ; les textes historiographiques contradictoires sont insuffisamment nombreux ; le traitement des différentes interprétations juridiques contemporaines demeure introductif. Les normes et textes institutionnels devront être actualisés à chaque révision. La version soumise à publication devra incorporer des notes de bas de page ou équivalent et des renvois précis aux actes d'archives.
 
 **Statut de contrôle : DRAFT ; revue adverse incomplète ; frontmatter CLI non vérifié ; publication finale non autorisée.**
+
+
+## Réexamen interne Redactor/Reviewer — 21 octobre 2026
+**Correction factuelle** : ajouter le CGCT **L.4422-17**, qui prescrit la publication au Journal officiel des propositions, demandes et avis des I–IV de L.4422-16. Cette trace est distincte des accusés de réception du Premier ministre (V bis) et des rapports annuels publics. La consultation du Journal officiel doit précéder toute conclusion sur les demandes sans trace.
+
+**Correction d'attribution** : le 5 mars 2025, les recommandations et le rapport présentés par Lauriane Josende n'ont pas été adoptés par la commission des lois du Sénat. Les chiffres 72/13 restent attribués à la rapporteure dans un compte rendu public, non à un rapport adopté.
+
+**Revue Reviewer v0.5, décorrélation faible** : même exécutant que la rédaction. Observations : (1) inventaire par demande, date et fondement, car 57 et 72 ne sont pas des populations identiques ; (2) une procédure CADA pour un document existant ne peut obliger à voter une loi ; (3) rapports annuels non localisés ≠ absents ou illégalement non publiés. Dispositions Redactor : `corrected` pour L.4422-17 et l'attribution sénatoriale ; `integrated` pour l'inventaire JO ; `conceded:load-bearing` pour la non-exécution alléguée du V bis sans documents ; `conceded:bounding` pour les limites du contentieux ; `arbitration` pour une rédaction constitutionnelle imposant des délais sans contraindre le Parlement.
+
+**Tests** : reconstruire trois cas à partir de publications JO → transmission → accusé Matignon → réponse → norme → effets ; obtenir les rapports 2022–2025 auprès du SGG ; contrôler le raccordement intégral de la future clause. La version de l'amendement v0.5-rc1 reste inchangée. Aucune revue indépendante ou validation CLI n'a eu lieu.
+
+Sources : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127/ ; https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/2026-05-29/ ; https://www.senat.fr/compte-rendu-commissions/20250303/lois.html.
