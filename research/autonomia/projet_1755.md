@@ -78,6 +78,10 @@ provenance:
   origin_ref: unknown
   origin_date: unknown
   derived_from: []
+## Passerelle historique — Paoli, Révolution et effectivité
+
+[Paoli, les révolutions atlantiques et la réception américaine : étude complémentaire](paoli_france_revolutionnaire_effectivite.md). Cette passerelle ouvre un dossier probatoire autonome : elle ne constitue pas une preuve d'influence constitutionnelle directe ni une assimilation des normes de 1793 aux normes actuelles.
+
 ---
 
 
