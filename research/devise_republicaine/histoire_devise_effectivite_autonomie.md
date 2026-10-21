@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.8-research"
+version: "0.9-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -258,6 +258,53 @@ La leçon méthodologique est double. Une formule symbolique peut contribuer à 
 3. **Confusion du constat et du jugement** : attribuer l'absence de réponse institutionnelle à des intentions individuelles non prouvées, ou traiter un rapport publié comme preuve suffisante d'une réforme efficace.
 
 **Règle de rédaction pour la suite :** toute affirmation décisive mentionnera un texte, une date, un article ou paragraphe, le niveau de la source et la portée exacte de l'inférence. Cette discipline est substantielle : elle applique à l'histoire de la devise le principe d'effectivité que l'étude examine.
+
+## IX. La loi à l'épreuve de ses effets : l'exigence constitutionnelle de garantie
+
+### 1. Revenir au texte de 1789, sans lui faire dire davantage
+
+L'intuition de l'auteur — « une loi ne vaut que par ses effets » — rencontre deux passages fondateurs de la **Déclaration des droits de l'homme et du citoyen du 26 août 1789**. Son **préambule** indique que les actes législatifs et exécutifs doivent pouvoir être comparés au **but de toute institution politique**. Il distingue par là la production de l'acte de l'évaluation de son rapport à sa finalité. Surtout, son **article 16**, et non son préambule, énonce exactement :
+
+> « Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de constitution. »
+
+[Source primaire normative : DDHC du 26 août 1789, préambule et article 16, Légifrance](https://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789).
+
+La formule est d'une grande vigueur. Elle refuse de réduire la constitution d'une société à l'existence d'un document solennel. **Assurer** la garantie des droits est une condition du constitutionnalisme ainsi entendu ; énoncer des droits et séparer formellement les organes ne suffisent pas si les garanties sont vidées de leur portée. Cette lecture conjugue l'article 16 avec le préambule sans les confondre.
+
+Il serait cependant erroné d'en déduire qu'une loi inefficace, ou même une loi dont certains effets contredisent les intentions proclamées, ferait automatiquement **disparaître juridiquement la Constitution française**. L'article 16 énonce un critère fondamental de l'ordre constitutionnel ; il ne contient ni procédure générale de déchéance de la Constitution ni règle selon laquelle toute défaillance particulière équivaudrait à l'absence totale de garantie des droits ou de séparation des pouvoirs. Sa portée doit être argumentée à l'échelle des garanties concernées, de leur gravité et des recours disponibles.
+
+### 2. Formulation rigoureuse du principe d'effectivité
+
+La maxime doctrinale « une loi ne vaut que par ses effets » ne signifie pas qu'une loi cesse d'être **juridiquement valide** dès lors qu'elle est inefficace. Il faut distinguer au moins quatre appréciations :
+
+- **Validité** : l'acte a-t-il été adopté selon la procédure compétente et respecte-t-il les normes supérieures ?
+- **Effectivité** : les droits, obligations et procédures qu'il institue sont-ils réellement accessibles et mis en œuvre ?
+- **Efficacité** : les conséquences observées réalisent-elles les objectifs qu'il poursuit ?
+- **Conformité aux garanties** : certains effets portent-ils atteinte à des droits protégés, indépendamment du succès d'une politique ?
+
+La maxime prend ainsi un sens exigeant mais soutenable : **la valeur pratique et la fidélité d'une loi à ses finalités ne peuvent être appréciées sans ses effets ; et lorsque ses effets font obstacle aux droits constitutionnellement garantis, la question devient aussi juridictionnelle**. Une loi peut être valide, effectivement appliquée et pourtant inefficace ou préjudiciable : l'effectivité n'est donc pas un éloge automatique de l'exécution.
+
+### 3. Trois hypothèses d'échec à ne pas confondre
+
+**A. Effets inexistants.** Une norme reste lettre morte si aucun destinataire ne peut raisonnablement emprunter la procédure qu'elle ouvre ou si aucune institution n'en assure l'exécution. Il faut toutefois vérifier si le non-usage résulte d'un obstacle, d'un choix libre, d'un besoin absent ou d'un délai normal.
+
+**B. Effets insuffisants.** La norme produit des résultats, mais ceux-ci n'atteignent pas les objectifs annoncés. L'enjeu relève souvent de l'évaluation et de la responsabilité politique, sans constituer automatiquement une inconstitutionnalité.
+
+**C. Effets inverses.** Une mesure conçue pour accroître une liberté peut créer une dépendance, une réforme présentée comme égalitaire aggraver certaines inégalités, ou un dispositif de solidarité évincer les personnes les plus vulnérables. Ces hypothèses requièrent une enquête causale, la comparaison à une situation de référence et l'analyse des droits effectivement atteints. Lorsque l'atteinte est juridiquement caractérisée, la question de la garantie des droits prend un sens constitutionnel précis ; sinon, la critique peut demeurer politiquement et socialement décisive sans être une illégalité démontrée.
+
+### 4. De l'article 16 à l'article 72-5 : le pont proposé, non la déduction forcée
+
+L'article 16 de 1789 n'ordonne pas, par lui-même, la rédaction particulière de l'amendement « Baron Mariani ». Le raisonnement défendu par l'auteur est constructif : la DDHC fournit un **horizon de garantie**, la devise de la République désigne trois valeurs dont la portée normative s'est développée, et le projet d'article 72-5 fournit l'occasion limitée de demander au constituant une **organisation observable de l'accès aux habilitations et de leur évaluation**.
+
+La [rédaction v0.7 de l'amendement](../autonomia/amendement_effectivite_article_72-5.md) est donc conçue pour **consolider la République en rendant contrôlable une partie du passage entre compétence proclamée et capacité effectivement exercée**. Elle ne modifie ni l'article 16 ni l'article 2 ; elle propose d'orienter la loi organique vers des garanties et une évaluation publique périodique. C'est un usage du [terrain fécond](../methode_terrains_feconds.md) : déplacer le conflit supposé entre unité républicaine et autonomie vers une interrogation commune sur les droits, les responsabilités et les effets.
+
+### 5. Objection fondamentale et portée de la réponse
+
+On pourra objecter que l'évaluation des politiques appartient déjà aux pouvoirs publics, que les juridictions garantissent déjà les droits et qu'une nouvelle clause serait symbolique. La réponse la plus sérieuse n'est pas de nier ces institutions : c'est de demander **quelle obligation juridiquement déterminée**, relative au régime corse envisagé, serait absente sans l'amendement. Sa formulation impose au législateur organique de traiter à la fois les garanties d'accès et de mise en œuvre et une évaluation **publique et périodique du fonctionnement et des effets** ; la détermination des mécanismes précis demeure à la loi organique.
+
+Cette proposition ne promet ni des résultats uniformément positifs ni l'abolition des conflits. Elle prétend rendre plus difficile la disparition, derrière la proclamation d'une compétence, de la question de son exercice réel. La réponse de droit dépendra de la portée que pourront donner à cette obligation le constituant, le législateur organique et, dans leurs compétences respectives, les juridictions. La réponse empirique dépendra des informations rendues publiques, de leur qualité et de la capacité collective à corriger les résultats.
+
+**Thèse de synthèse :** la Constitution ne devient pas inexistante à chaque échec de la loi ; mais une République fidèle à la Déclaration de 1789 ne peut considérer comme secondaire une défaillance persistante des garanties de droits qu'elle proclame. L'effectivité n'est pas un substitut à la légalité : elle est l'une des épreuves auxquelles la légalité constitutionnelle doit consentir.
 
 ## Conclusion générale — une devise à éprouver
 
