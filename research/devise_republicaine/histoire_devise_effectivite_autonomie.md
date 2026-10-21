@@ -7,8 +7,8 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.1-alpha"
-status: "working-draft — manuscrit de travail, non validé"
+version: "0.2-alpha"
+status: "working-draft — manuscrit enrichi, non validé"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
 document_kind: legal-academic-paper
@@ -59,7 +59,7 @@ Les sources sont classées selon leur portée : texte normatif et décision juri
 
 La Déclaration des droits de l'homme et du citoyen, adoptée en août 1789, proclame l'égalité en droits et la liberté au rang des droits naturels et imprescriptibles. Elle ne fixe pourtant pas la devise trinitaire contemporaine comme formule constitutionnelle. Cette différence distingue une norme de droits fondamentaux et un signe public de reconnaissance de la République.
 
-L'usage révolutionnaire des trois mots n'est pas univoque. Une proposition de Robespierre de décembre 1790, visant notamment les uniformes et drapeaux de la garde nationale, comporte une formulation de la triade ; elle n'est pas adoptée. Les inscriptions et mots d'ordre de 1793 peuvent mobiliser des assemblages concurrents, dont « Liberté, Égalité ou la Mort ». C'est une erreur méthodologique de transformer toutes ces manifestations en un acte fondateur unique ou d'en inférer, rétrospectivement, l'égalité des droits et capacités de tous les habitants.
+L'usage révolutionnaire des trois mots n'est pas univoque. Le texte de Robespierre relatif à la garde nationale est conservé dans les *Archives parlementaires*, première série, tome XXI, pages 238–250, en annexe de la séance du 5 décembre 1790, sous le titre **« Discours non prononcé »** : il ne faut donc pas prétendre qu'il aurait prononcé ce texte en séance. Le projet d'inscrire la triade sur les uniformes et drapeaux n'est pas adopté. Les inscriptions et mots d'ordre de 1793 peuvent mobiliser des assemblages concurrents, dont « Liberté, Égalité ou la Mort ». C'est une erreur méthodologique de transformer toutes ces manifestations en un acte fondateur unique ou d'en inférer, rétrospectivement, l'égalité des droits et capacités de tous les habitants.
 
 La tension entre universalité formulée et universalité vécue apparaît dans les conditions de la citoyenneté, le statut politique des femmes, l'esclavage colonial et les exclusions de la participation. Ces réalités demandent une étude distincte des textes, des bénéficiaires et des exceptions. Dire que ces écarts existent ne revient pas à attribuer aux révolutionnaires une doctrine contemporaine d'« autonomie de capacité ».
 
@@ -71,11 +71,15 @@ La Constitution du 4 novembre 1848 offre un point d'ancrage normatif explicite. 
 
 D'autres passages engagent la traduction de ces principes en dispositifs précis. L'article 6 interdit l'esclavage sur le territoire français ; le texte garantit certaines libertés et organise le suffrage tout en laissant subsister de fortes restrictions de participation. Les termes « principe », « garantie » et « exercice » sont donc différenciables dès la lecture du texte constitutionnel, sans devoir leur attribuer les définitions contemporaines du droit constitutionnel.
 
+Un jalon exceptionnel précède la Constitution de 1848 : dans les considérants du **décret d'abolition du 27 avril 1848**, la devise est invoquée expressément contre l'esclavage. Le texte insiste également sur la nécessité de faire suivre la proclamation abolitionniste de **mesures effectives**. Son article premier distingue la promulgation locale de l'abolition complète, prévue deux mois plus tard dans chaque colonie, alors que certains abus sont interdits dès cette promulgation. Ce cas manifeste un écart temporel entre affirmation normative et mise en œuvre ; il ne présume ni une effectivité immédiate de tous les droits ni une filiation avec la doctrine contemporaine. Source normative : Légifrance, *Décret du 27 avril 1848 relatif à l'abolition de l'esclavage*, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/.
+
 La disparition de la Deuxième République après le coup d'État de 1851 marque la discontinuité institutionnelle. Le retour durable de la devise et son inscription sur les bâtiments publics sous la Troisième République relèvent d'une histoire politique de la symbolique républicaine. La notice officielle rattache une décision d'inscription publique à 1880 ; la portée exacte des actes, leurs auteurs et leur application concrète devront être prouvés par les archives administratives, non uniquement par des récits ultérieurs.
 
 Références : Constitution du 4 novembre 1848, texte publié par la présidence de la République, https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848 ; notice historique précitée.
 
 ## III. La devise entre 1946, 1958 et la jurisprudence de 2018
+
+La période de Vichy exige une qualification juridique spécifique. L'**ordonnance du 9 août 1944** affirme, en son article premier, la continuité de la République en droit. Ses articles 2 et 3 organisent la nullité des actes de l'autorité de fait et la constatation expresse de certaines nullités, tandis que l'article 7 prévoit l'application provisoire de certains actes non expressément frappés de nullité. Il faut donc distinguer la rupture politique et administrative de fait, la continuité juridique proclamée, la restauration de la légalité et les effets sociaux des mesures antérieures. Source : Légifrance, *Ordonnance du 9 août 1944*, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006071212.
 
 Après la Seconde Guerre mondiale, la Constitution du 27 octobre 1946 inscrit la devise républicaine dans son article 2. Son préambule comprend, par ailleurs, des affirmations de droits économiques et sociaux que le raisonnement contemporain sur l'égalité ne peut ignorer. Ces dispositions ne sont pas juridiquement interchangeables : un principe de solidarité affirmé, un droit précisément garanti et une exigence d'organisation administrative appellent des modes de contrôle distincts.
 
@@ -120,6 +124,9 @@ L'histoire ne fournit pas une ligne droite de 1789 à une norme d'effectivité e
 La proposition Baron Mariani déplace la question : que faudrait-il ajouter au mécanisme constitutionnel et organique envisagé pour la Corse afin que les compétences annoncées puissent être évaluées à l'épreuve de leur usage réel, sans confondre contrôle de constitutionnalité, contrôle de légalité et appréciation des politiques publiques ? Sa pertinence demeure une hypothèse de réforme, ouverte à la critique, à la comparaison et à l'arbitrage parlementaire.
 
 ## Sources essentielles et appareil critique provisoire
+
+**Ajouts de la version 0.2-alpha :** Robespierre, *Discours non prononcé sur la garde nationale*, *Archives parlementaires*, 1re série, t. XXI (1885), pp. 238–250, https://www.persee.fr/doc/arcpa_0000-0000_1885_num_21_1_9309_t1_0238_0000_8 ; décret du 27 avril 1848, Légifrance, https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000295898/ ; ordonnance du 9 août 1944, Légifrance, https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006071212. L'absence de preuve primaire d'un acte général daté de 1880 demeure une réserve expresse.
+
 
 ### Sources normatives et juridictionnelles
 1. Déclaration des droits de l'homme et du citoyen, 26 août 1789, art. 1–2.
