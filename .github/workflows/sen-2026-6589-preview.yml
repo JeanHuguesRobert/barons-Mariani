@@ -32,6 +32,8 @@ jobs:
       - name: Install Ubikia dependencies
         working-directory: ubikia
         run: npm ci
+      - name: Install Poppler for PDF inspection
+        run: sudo apt-get update && sudo apt-get install --yes poppler-utils
       - name: Supervised composition and source checks
         id: composition
         shell: bash

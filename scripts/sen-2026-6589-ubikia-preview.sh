@@ -64,6 +64,8 @@ python3 - "$STAGE" "$ROOT" "$UBIKIA_DIR" <<'PY'
 import hashlib, json, pathlib, subprocess, sys
 stage, root = pathlib.Path(sys.argv[1]), pathlib.Path(sys.argv[2])
 builds = ["render-consolidated", "render-l299", "render-l303"]
+visual_dir = stage / "visual-review"
+visual_dir.mkdir()
 ubikia = pathlib.Path(sys.argv[3]) if len(sys.argv) > 3 else None
 def git_head(path):
     return subprocess.check_output(["git", "-C", str(path), "rev-parse", "HEAD"], text=True).strip()
@@ -91,8 +93,13 @@ for name in builds:
     data = pdf.read_bytes()
     if not data.startswith(b"%PDF-") or b"%%EOF" not in data[-2048:]:
         raise SystemExit(f"Malformed PDF: {pdf}")
+    info = subprocess.check_output(["pdfinfo", str(pdf)], text=True)
+    page_count = int(next(line.split(":", 1)[1].strip() for line in info.splitlines() if line.startswith("Pages:")))
+    preview_prefix = visual_dir / name
+    subprocess.run(["pdftoppm", "-png", "-scale-to", "1200", str(pdf), str(preview_prefix)], check=True)
+    (visual_dir / f"{name}.pdfinfo.txt").write_text(info, encoding="utf-8")
     manifest_bytes = manifest_file.read_bytes()
-    summary["outputs"].append({"role": name, "path": str(pdf.relative_to(stage)), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(), "ubikia_manifest": str(manifest_file.relative_to(stage)), "ubikia_manifest_sha256": hashlib.sha256(manifest_bytes).hexdigest()})
+    summary["outputs"].append({"role": name, "path": str(pdf.relative_to(stage)), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(), "pages": page_count, "visual_review_prefix": str(preview_prefix.relative_to(stage)), "ubikia_manifest": str(manifest_file.relative_to(stage)), "ubikia_manifest_sha256": hashlib.sha256(manifest_bytes).hexdigest()})
 txt = stage / "courriel-integral.preview.txt"
 data = txt.read_bytes()
 if not data.strip():
