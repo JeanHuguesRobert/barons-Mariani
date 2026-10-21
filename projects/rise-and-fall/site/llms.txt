@@ -15,7 +15,7 @@
 
 ## Objet d'enquête
 
-Ce projet analyse la trajectoire séculaire de la famille Mariani de Corte, titrée baronne (titre westphalien conféré en 1813 par le Roi Jérôme Bonaparte dans la débâcle finale du Royaume de Westphalie), à travers ses bifurcations politiques, foncières (domaine familial historique de Minesteggio), matrimoniales et judiciaires entre 1776 et 2026.
+Ce projet analyse la trajectoire séculaire de la famille Mariani de Corte, titrée baronne (titre westphalien conféré par le roi Jérôme Bonaparte avant la disparition du royaume en octobre 1813 (date précise de concession non établie)), à travers ses bifurcations politiques, foncières (domaine familial historique de Minesteggio), matrimoniales et judiciaires entre 1776 et 2026.
 
 L'enquête applique les invariants méthodologiques développés dans *Suicide Corse* :
 1. **Méthode en deux passes :** Passe A (régressive, de 2026 à 1776) pour remonter la chaîne causale sans anachronisme ; Passe B (prospective, de 1776 à 2026) pour tester l'arbre des possibles à chaque embranchement.
