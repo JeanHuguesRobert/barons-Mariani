@@ -1025,3 +1025,22 @@ Pour un dossier de presse, maintenir trois distinctions : publication associativ
 ## Passerelle : Corse, carrefour des civilisations et Rousseau (2026-10-21)
 
 [La Corse, carrefour des civilisations : Rousseau, le petit peuple et l'effectivité](autonomia/corse_carrefour_civilisations_rousseau_petit_parti.md). Le dossier distingue sources antiques et modernes, hypothèses de transmission, citation philologiquement vérifiée de Rousseau (1762) et réemploi contemporain dans le Petit Parti.
+
+
+## Clarification explicite — souveraineté, coopération et subsidiarité ascendante (21 octobre 2026)
+
+**Ne pas confondre les notions.** La souveraineté désigne l'autorité politique ultime dans un ordre juridique ; l'indépendance est un statut de non-subordination externe d'un État ; l'autarcie est un objectif d'autosuffisance économique. L'autonomie territoriale est une capacité juridiquement reconnue de décision et d'action dans des domaines définis. Ces notions ne sont pas synonymes. Dans le cadre constitutionnel français, l'autonomie d'une collectivité n'équivaut pas à la souveraineté étatique.
+
+**Principe doctrinal du Corpus : coopération sans capture.** Une personne ou un territoire capable peut librement participer à des interdépendances choisies. L'objectif n'est pas de faire tout seul, mais de conserver une capacité propre de décision, de proposition, de contestation et de contrôle. Une coopération qui augmente les capacités des partenaires peut renforcer leur autonomie ; la coopération imposée, sans recours ni marge de décision, peut au contraire la réduire.
+
+**Subsidiarité ascendante.** Le premier examen porte sur le niveau le plus proche des personnes concernées qui est *effectivement capable* d'agir. Si une action requiert des moyens supplémentaires, le niveau supérieur doit d'abord rechercher les soutiens suffisants (information, financement, coordination, mutualisation, garanties), avant une éventuelle substitution. La coordination doit être justifiée, proportionnée, contrôlable et, lorsque la nature de l'engagement le permet, réversible. La possibilité de sortie ne saurait être revendiquée comme un droit juridiquement absolu hors des procédures applicables.
+
+Ce sens doctrinal **ne se confond pas avec l'application juridique de l'article 5 § 3 du traité sur l'Union européenne** : celui-ci règle l'exercice des compétences non exclusives de l'Union et impose d'examiner si les objectifs peuvent être atteints de manière suffisante par les États membres et mieux à l'échelle européenne. Source primaire : https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:12016M005 .
+
+**Questions d'effectivité pour l'article 72-5 proposé** : qui initie la norme, qui décide de l'habilitation, quels moyens sont transférés, quels délais et recours existent, comment les habitants participent-ils, quelles coopérations sont choisies, qui vérifie les effets ? La compétence écrite ne suffit pas si l'acteur concerné ne peut pas l'exercer au temps utile.
+
+**Règle de formulation** : « Se donner des lois ne veut pas dire se couper des autres ; cela signifie participer à la définition des règles qui nous gouvernent, et décider ensemble à l'échelle pertinente sans déposséder inutilement les échelles de proximité. »
+
+Cette clarification prolonge [le noyau doctrinal](noyau_doctrinal_rendre_capable.md), [Capable — Subsidiarité rendue effective](../projects/capable/manuscript/02-subsidiarite-rendue-effective.md) et l'[amendement d'effectivité](autonomia/amendement_effectivite_article_72-5.md). Elle est une proposition doctrinale contemporaine, non une citation de Paoli ou de Rousseau.
+
+*Note de méthode rédactionnelle (« principe Talleyrand ») : la maxime « Ce qui va sans dire va encore mieux en le disant » est couramment attribuée à Talleyrand, notamment dans des reprises relatives à 1814, mais l'attribution exacte à un texte primaire demeure à vérifier.*
