@@ -32,12 +32,22 @@ jobs:
                   result['bytes'] = generated.stat().st_size
                   (out/'complement-integral.preview.md').write_text(text, encoding='utf-8')
               result['status'] = 'passed' if p.returncode == 0 and result.get('qpc_heading_count',0) >= 2 else 'failed'
+              result['filing_ready'] = False
+              result['filing_blockers'] = ['editorial-review-outstanding', 'draft-instructions-in-source', 'render-and-attachment-audit-outstanding']
               manifest = pathlib.Path('/tmp/sen-2026-6589-ci/composition.preview.json')
               if manifest.is_file():
                   (out/'composition.preview.json').write_bytes(manifest.read_bytes())
+                  try:
+                      json.loads(manifest.read_text(encoding='utf-8'))
+                      result['source_manifest_json_valid'] = True
+                  except ValueError as exc:
+                      result['source_manifest_json_valid'] = False
+                      result['status'] = 'failed'
+                      result['manifest_error'] = str(exc)
           except Exception:
               result['status'] = 'failed'
               (out/'execution.log').write_text(traceback.format_exc(), encoding='utf-8')
+          result.setdefault('filing_ready', False)
           (out/'result.json').write_text(json.dumps(result,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
           print(json.dumps(result,ensure_ascii=False))
           PY
