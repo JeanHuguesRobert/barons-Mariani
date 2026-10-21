@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.4-research"
+version: "1.5-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -489,6 +489,61 @@ Mais l'effet institutionnel du vote demeure considérable. Lauriane Josende a ex
 Cette construction est une **interprétation de l'auteur**, testable sur des faits institutionnels, non une qualification officielle par le Sénat. Elle confère à la notion de *terrain fécond* une portée pratique : plutôt que de demander aux groupes d'approuver une analyse politique unique, concevoir un mécanisme permettant de **documenter les désaccords, préserver les constats vérifiables et publier périodiquement l'état du fonctionnement du régime**. L'amendement v0.7 vise le troisième étage par une obligation constitutionnelle de garanties et d'évaluation ; **il ne supprime pas le droit d'une commission parlementaire de refuser d'adopter ou de publier un rapport**.
 
 Pour l'argumentaire public, la formulation rigoureuse est donc : **« La mission du Sénat a documenté l'ineffectivité du mécanisme ; la commission a débattu de ce diagnostic, puis refusé l'adoption et la publication du rapport, pour des divergences politiques et méthodologiques expressément exposées. Le rapport de l'Assemblée nationale a ensuite, de son côté, rendu public un bilan convergent. »** Cette séquence étaye l'urgence de mécanismes publics d'évaluation sans prouver que chaque institution ou chaque élu voulait « mettre le problème sous le tapis ».
+
+## XV. Traçabilité des actes et Stabilisateur procédural : conserver la preuve des capacités et de leurs empêchements
+
+### 1. Pourquoi l'effectivité réclame une mémoire institutionnelle
+
+L'effectivité ne peut être étudiée uniquement à partir des décisions publiées. Une règle peut organiser une faculté qui n'est jamais sollicitée, une demande peut être introduite sans recevoir de suite observable, un refus peut être exprimé sans motif connu, ou une décision peut demeurer inexécutée. Si seules les normes adoptées sont conservées comme résultats, l'analyste ne peut distinguer le **libre non-usage**, l'obstacle pratique, le refus justifié, le silence administratif, la disparition documentaire ou l'absence d'une compétence juridique. Ce défaut de mémoire fausse l'appréciation de la capacité réelle d'un régime.
+
+Le Corpus développe à cet effet une proposition appelée **« Traçabilité des actes »** : l'acte engageant doit pouvoir être rattaché à son auteur ou mandataire, à son fondement, au mandat ou à la compétence, à la procédure suivie, aux motifs disponibles, aux preuves, aux conséquences observées, puis aux éventuelles contestations et corrections. La doctrine ne vise pas à substituer un contrôle préalable omniprésent à l'action, mais à préserver l'**imputabilité et la possibilité d'une correction a posteriori**. Elle distingue des seuils de traçabilité proportionnés à l'importance des actes : un brouillon sans conséquence n'appelle pas le traitement d'une décision juridique ou institutionnelle.
+
+Source doctrinale attribuée : Jean Hugues Noël Robert, [*Traçabilité des actes. Mandat, imputabilité et contrôle des actes engageants dans les régimes humains, institutionnels et algorithmiques*, v0.15.2-research](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md), notamment §§ 2–4, 10 et 13 (Corpus Mariani, 2026). Cette proposition doctrinale n'est **pas** en elle-même une obligation générale du droit positif français.
+
+### 2. La « trace négative » : un fait sans verdict
+
+Un apport spécifique du document doctrinal, en son § 3.1 bis, est la notion de **trace négative** ou **absence qualifiée**. Il s'agit d'enregistrer, avec le contexte et les vérifications disponibles, une demande restée sans réponse après un délai défini, une réponse incomplète, une décision annoncée mais non publiée ou une correction promise sans suite observable.
+
+Cette trace doit préciser au minimum : la demande initiale, son destinataire, sa date, le délai attendu et son **fondement** (légal, réglementaire, conventionnel ou seulement indicatif), les relances, la réponse éventuelle, la date du constat, les canaux réellement consultés et les limites de l'enquête. Elle permet de distinguer **« aucune réponse identifiée à la date de vérification »** de **« aucune réponse jamais émise »**, et a fortiori de **« refus illégal »**. Une trace négative n'établit par elle-même ni intention de dissimulation ni manquement sanctionnable. Son interprétation doit respecter la parcimonie causale : vérifier les hypothèses simples de routage, de délai, de compétence et de preuve avant d'attribuer une cause plus grave.
+
+Mais cette prudence probatoire n'autorise pas l'effacement : lorsqu'un canal officiel reçoit une demande et ne permet pas de retrouver sa suite, **l'absence qualifiée est un fait de fonctionnement digne d'être conservé**. La responsabilité de connaître ce qui se passe ne doit pas dépendre de l'existence d'une réponse favorable.
+
+### 3. Le Stabilisateur procédural : rendre le pouvoir contestable et corrigible
+
+Le Corpus nomme **« Stabilisateur procédural »** l'architecture qui relie mémoire, provenance, compétence ou mandat, traçabilité, contradiction, contrôle humain substantiel, contestation, révocation lorsqu'elle est applicable et réparation. Son objet n'est pas d'établir une « vérité officielle » ni de présumer que tout acteur public ment : il s'agit de préserver les moyens de reconstruire et de discuter un enchaînement institutionnel, même lorsque les acteurs changent ou que leurs interprétations divergent.
+
+Le principe est particulièrement pertinent pour une institution représentative : un processus ne devient pas démocratiquement effectif parce qu'il produit des discours et des votes visibles ; le public doit pouvoir comprendre les **étapes décisives**, les arguments contradictoires, les décisions, les silences qualifiés et les suites. Inversement, l'accumulation de journaux peut devenir une bureaucratie d'apparence, coûteuse, excluante ou capturable. La traçabilité doit donc être **proportionnée, lisible, respectueuse des secrets légalement protégés et liée à un recours ou à une faculté réelle de correction**.
+
+Source doctrinale attribuée : Jean Hugues Noël Robert, [*Du spectacle à la régie : Guy Debord, l'intelligence artificielle et le Stabilisateur procédural*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md), notamment § 5 ; voir également [*Reality Safety : AI Safety as a revealer of a deeper crisis of shared reality*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/reality_safety_procedural_stabilizers.md). Ces travaux portent sur une architecture générale de responsabilité, dont l'usage dans la procédure constitutionnelle corse est une **application proposée**, non une obligation déjà consacrée.
+
+### 4. Application au mécanisme des propositions corses
+
+Les travaux parlementaires mentionnés aux chapitres XII à XIV montrent pourquoi cette distinction est utile : les demandes transmises, les accusés de réception, les suites expresses, les évolutions normatives, les rapports et les décisions de publication constituent des **événements différents**, qui doivent être reliés sans être additionnés ni confondus.
+
+Une grille de traçabilité du régime pourrait contenir les champs suivants. Elle constitue ici un **modèle explicatif** et non la description d'un registre public existant :
+
+| Élément observable | Question de contrôle | Portée et réserve |
+| --- | --- | --- |
+| Proposition initiale | Qui a demandé quoi, sur quel fondement, et quand ? | Protéger les informations personnelles non nécessaires |
+| Réception et orientation | Quelle autorité a reçu et routé la demande ? | L'accusé de réception ne prouve pas l'examen |
+| Examen et suite | Existe-t-il un refus, une suite favorable, un ajournement ou un état inconnu ? | L'absence de décision retrouvée n'est pas automatiquement un refus |
+| Motifs et compétences | Qui avait pouvoir de décider, et selon quelle règle ? | La demande ne crée pas un droit automatique à l'habilitation |
+| Conséquences | Une évolution normative ou une capacité nouvelle a-t-elle suivi ? | Corrélation et causalité doivent être distinguées |
+| Réévaluation | Une difficulté a-t-elle été rendue publique, discutée ou corrigée ? | La v0.7 n'institue pas, à elle seule, une obligation de corriger tout résultat |
+
+Cette méthode permettrait de préserver l'histoire des demandes **sans rouvrir intégralement les recensements parlementaires**. Le rapport de l'Assemblée nationale et les travaux sénatoriaux restent les sources privilégiées des bilans historiques. Le rôle d'un mécanisme contemporain serait de rendre les futurs événements vérifiables, comparables et corrigibles, en conservant aussi ce qui **n'aboutit pas**.
+
+### 5. Lien exact avec l'amendement v0.7 et avec l'article 16 de 1789
+
+L'amendement vise à ce que la loi organique détermine les garanties nécessaires à l'effectivité des trois termes de la devise dans l'accès aux procédures d'habilitation et leur mise en œuvre ; il prévoit en outre une évaluation **publique et périodique du fonctionnement du régime et de ses effets**. La Traçabilité des actes et le Stabilisateur procédural fournissent **une méthode possible de mise en œuvre** de cette exigence : documenter les actes, les silences qualifiés, les responsabilités institutionnelles et les effets avant de prononcer un jugement d'efficacité.
+
+La distinction des niveaux est indispensable. L'**article 16 de la Déclaration de 1789** pose la garantie des droits et la séparation des pouvoirs comme critères fondamentaux du constitutionnalisme. La **v0.7** proposerait une obligation spécifique relative à l'organisation organique du régime corse. La **traçabilité** décrit une technique normative et opérationnelle possible ; elle n'est ni inscrite mot pour mot dans la v0.7, ni imposée directement par l'article 16. Elle aide à comprendre comment l'on pourrait passer de **droits proclamés** à des **garanties examinables**, puis à l'observation de leurs effets.
+
+Cette application peut se résumer ainsi : **l'absence d'effet observable doit pouvoir devenir un objet d'enquête institutionnelle, sans devenir automatiquement une faute ; une faute établie doit pouvoir être imputée, sans que l'enquête dépende de la seule bonne volonté de l'autorité concernée.** La traçabilité ne remplace ni les droits ni les contrôles : elle leur fournit une mémoire et des prises probatoires.
+
+### 6. Test d'autoportance de cette articulation
+
+Un lecteur ignorant totalement le Corpus doit pouvoir retrouver dans le présent chapitre : **le problème** (des droits ou des facultés sans suites visibles), **la notion** (traces d'actes et traces négatives), **la méthode** (relier compétence, demande, réception, examen, décision, effet et correction), **la précaution** (ni silence = faute, ni traçabilité = légitimité), **la portée de la proposition** (évaluation publique et périodique du régime), et **la source** (les documents doctrinaux identifiés ci-dessus). Les hyperliens permettent de vérifier et d'approfondir ; leur ouverture n'est pas nécessaire pour comprendre l'argument.
 
 ## Conclusion générale — une devise à éprouver
 
