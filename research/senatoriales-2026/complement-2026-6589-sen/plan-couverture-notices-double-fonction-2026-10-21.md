@@ -22,8 +22,8 @@ filing_ready: false
 | **P-20** | G1–G4 | [Protocole et notice P-20-N1](doctrine-notices-double-fonction-suite-demande-greffe-2026-10-21.md) | Rédigée ; images, notification et statut à réconcilier |
 | P-22 / P-29–P-33 / P-45 / P-46 | G3/G4 | [Notice G4](notice-g4-provenance-pertinence-p12-p46.md), [chronologie P-46](notice-provenance-p46-courriels-verification-p12-p13-2026-10-21.md) | Rédigées ; EML complets, réponses et exhaustivité à contrôler |
 | P-21 / P-23–P-25 / P-28 / P-34–P-38 | Selon requête historique | N4 « autres sources et diligences de procédure » — **ne pas inventer leur contenu, relever chaque entrée exacte du registre** | À inventorier et traiter individuellement |
-| P-26 / P-27 / P-39–P-41 | G5 | N5 « résultats officiels, consultation, bulletins et déclarations » | À rédiger ; protéger le secret du vote et éviter contrefactuel abusif |
-| P-42 / P-43.a / P-43.b | G1/G2 | N6 « documents complémentaires et déclarations de consentement » | À rédiger ; distinguer avant/après 18h |
+| P-26 / P-27 / P-39–P-41 | G5 | [Notice N5](notice-n5-g5-scrutin-double-fonction.md) | Rédigée ; procès-verbal officiel et sources primaires à contrôler |
+| P-42 / P-43.a / P-43.b | G2/G3/G4 | [Notice N6](notice-n6-p42-p43-double-fonction.md) | Rédigée ; EML et réponses à contrôler, distinguer avant/après 18h |
 | Toute autre variante ou sous-référence citée | Selon requête | Revue du [registre de provenance](registre-provenance.csv) et de la requête originale | Contrôle d'exhaustivité final obligatoire |
 
 **Interprétation du tableau :** cette matrice est une liste de tâches et non une assertion que chaque numéro P-01…P-46 a une pièce primaire distincte ; la nomenclature historique peut comprendre des sous-références et des absences. Les entrées N1–N6 sont des **identifiants de travail**, non des pièces historiquement citées.
@@ -37,4 +37,4 @@ filing_ready: false
 5. Réconcilier ce plan avec les **39 références effectivement identifiées dans le PDF initial**, l'index de 46 messages P-46 et le bordereau final ; ne pas déclarer la complétude avant ce contrôle.
 6. Coordonner #131 (provenance), #132 (vidéo), #133 (intégration) et #134 (revue binaire et juridique) ; solliciter la décision humaine avant l'envoi.
 
-**Priorité suivante :** N5 et N6 ; N1 et N4 ensuite, avec contrôle global final. N2 et N3 sont désormais rédigées mais non validées.
+**Priorité suivante :** N1 puis N4 et réconciliation de l’ensemble des références avec le PDF initial. N2, N3, N5 et N6 sont rédigées mais non validées.
