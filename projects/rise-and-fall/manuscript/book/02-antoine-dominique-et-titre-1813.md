@@ -1,5 +1,5 @@
 ---
-title: "Antoine Dominique Mariani et le titre westphalien de 1813"
+title: "Antoine Dominique Mariani et le titre westphalien (date à établir)"
 author: "Jean Hugues Noël Robert"
 date: "2026-09-30"
 status: "working-draft"
@@ -11,7 +11,7 @@ visibility: "public"
 source_of_truth: false
 ---
 
-# Antoine Dominique Mariani et le titre westphalien de 1813
+# Antoine Dominique Mariani et le titre westphalien (date à établir)
 
 S'il est un personnage qui concentre l'impulsion fondatrice de la lignée moderne des barons Mariani, c'est **Antoine Dominique Mariani** (1776–1845).
 
@@ -38,17 +38,15 @@ Pour un enfant du pays, ce retour est un triomphe :
 
 ---
 
-## 3. Le titre de baron westphalien (1813) : la signature de Jérôme Bonaparte dans la débâcle
+## 3. Le titre de baron westphalien : une concession dont la date reste à établir
 
-C'est en **1813** qu'intervient l'acte le plus singulier de cette ascension : la concession du titre héréditaire de **baron**.
+L'ascension d'Antoine Dominique Mariani comporte la concession du titre de **baron** par Jérôme Bonaparte, roi de Westphalie. **La date exacte de l'acte de création n'est pas encore démontrée** ; la datation traditionnelle en 1813 est à contrôler sur un acte primaire, et une attribution antérieure à la chute du royaume demeure possible.
 
-Ce titre n'émane pas directement de la chancellerie des titres de Paris, mais du **Royaume de Westphalie**, royaume modèle créé par Napoléon pour son plus jeune et turbulent frère, **le Roi Jérôme Bonaparte** :
-- Le décret est signé dans les conditions particulièrement mouvementées de la fin de l'année 1813, alors que la coalition européenne marche sur le Rhin après la bataille de Leipzig.
-- À Cassel, capitale du royaume westphalien, le pouvoir de Jérôme s'effondre en quelques semaines. Les troupes cosaques entrent dans la ville, le gouvernement se replie en désordre, et **le Journal Officiel du royaume cesse de paraître**.
-- C'est précisément dans cette atmosphère de fin de règne, où les actes sont hâtivement expédiés avant l'évacuation définitive, que le titre de baron est conféré à Antoine Dominique Mariani en reconnaissance des services rendus à la dynastie et de son dévouement indéfectible aux Bonaparte.
+Ce titre relève du **royaume de Westphalie**, gouverné par **Jérôme Bonaparte** de 1807 à 1813, et non directement de la chancellerie parisienne. La présence d'Antoine Dominique dans l'entourage administratif westphalien est connue par des sources secondaires.
 
-Cette circonstance historique explique le statut particulier du titre :
-> Conféré par un souverain légitime de droit impérial (Jérôme, roi par la grâce de Dieu et les constitutions de l'Empire), le titre n'a pu faire l'objet de l'enregistrement classique au *Moniteur Universel* avant la chute du régime westphalien. Il en est résulté une transmission d'usage ininterrompue, attestée par les actes civils, les plaques funéraires, la mémoire cortenaise et la tradition familiale sur plus d'un siècle et demi.
+Le royaume s'effondre en octobre **1813**. Cette date marque **la fin du royaume**, et ne saurait être convertie sans preuve en date de création du titre. La scène d'un décret signé dans la débâcle, et l'explication d'un prétendu défaut d'enregistrement par la disparition de l'administration, ne sont pas établies et sont retirées du récit factuel.
+
+**Question ouverte :** retrouver dans les archives de Cassel, les bulletins westphaliens et la correspondance de Jérôme l'acte daté de concession, ainsi que ses conditions de transmission. Les usages postérieurs du titre sont documentés indépendamment de cette lacune.
 
 ---
 
