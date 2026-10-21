@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.5-alpha"
+version: "0.6"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -108,29 +108,67 @@ Ce programme appartient à une histoire intellectuelle qui inclut notamment les 
 
 Références intellectuelles : Amartya Sen, *Development as Freedom*, Oxford University Press, 1999 ; Martha C. Nussbaum, *Creating Capabilities*, Harvard University Press, 2011. Doctrine étudiée : J. H. N. Robert, *Principe d'effectivité*, *Tensions entre Liberté, Égalité et Fraternité effectives* et *Rendre capable — noyau doctrinal*, versions publiques de septembre 2026.
 
-## V. L'autonomie corse et la proposition d'amendement Baron Mariani
+## V. L'autonomie corse : une proposition de mise à l'épreuve de la devise
 
-En 2026, le projet de loi constitutionnelle *Une Corse autonome au sein de la République* prévoit une disposition nouvelle permettant, sous conditions, à la Collectivité de Corse d'adapter ou fixer des normes dans ses domaines de compétence. Après adoption à l'Assemblée nationale le 23 juin 2026, le texte n° 782 est transmis au Sénat le 24 juin 2026. Le dossier sénatorial consulté au 21 octobre annonce une discussion publique le 26 octobre : cette discussion est, à la date de cette rédaction, future.
+La révision constitutionnelle projetée pour la Corse constitue un cas contemporain, non l'aboutissement nécessaire de l'histoire de la devise. Le projet de loi constitutionnelle adopté par l'Assemblée nationale le 23 juin 2026 a été transmis au Sénat le 24 juin sous le n° 782. Il envisage l'introduction d'un article 72-5 dans la Constitution. Le texte transmis attribue à une loi organique la détermination du contrôle juridictionnel des normes prises sur habilitation et de leurs modalités d'évaluation. Il prévoit déjà des limites concernant les libertés publiques, les droits constitutionnellement garantis et l'égalité de tous sans distinction. Source : [Sénat, texte n° 782](https://www.senat.fr/leg/pjl25-782.html), article unique.
 
-La proposition dite « amendement Baron Mariani », publiée dans le Corpus dans une version 0.5-rc1, porte sur la disposition prévue pour la loi organique. Elle suggère d'y faire figurer, à côté du contrôle des normes, la **mise en œuvre effective** des habilitations, l'**évaluation périodique** de cette mise en œuvre et l'observation de ses effets sur l'effectivité de la liberté, de l'égalité et de la fraternité. Il ne s'agit pas d'un texte adopté par le Parlement, ni d'un amendement parlementaire enregistré dont la preuve serait produite ici. Le projet parlementaire et la proposition citoyenne doivent garder des généalogies et des statuts distincts.
+La [proposition citoyenne d'amendement « Baron Mariani », version 0.7 du 21 octobre 2026](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), prévoit une insertion **après la première phrase de l'alinéa consacré à la loi organique**, sans en supprimer les garanties existantes :
 
-La **comparaison littérale avec le texte transmis au Sénat** précise la portée de l'ajout : le projet contient déjà une évaluation des **normes**, ainsi qu'une clause relative à la non-régression sociale et environnementale, et des restrictions matérielles aux habilitations. La proposition entend déplacer le regard vers le fonctionnement du **régime d'habilitation** lui-même, ses conditions d'accès, d'exercice et les effets observés. Elle ne remplace que la première phrase de l'alinéa organique ; le reste et les alinéas voisins doivent être préservés. La variante « garanties nécessaires à », plus prescriptive, n'a pas été arbitrée. Le gain normatif réel de la rédaction actuelle demeure contestable et doit être évalué sans confondre contrôle des normes, évaluation de politiques publiques et droit automatique à l'habilitation. Voir Sénat, texte n° 782, https://www.senat.fr/leg/pjl25-782.html, et note de comparaison, [*Contrôle des preuves : 1880 et mécanisme organique*](controle_1880_et_alinea_organique_2026.md).
+> « Elle détermine les garanties nécessaires à l’effectivité de la liberté, de l’égalité et de la fraternité dans l’accès aux procédures d’habilitation prévues aux deuxième et troisième alinéas et dans leur mise en œuvre, et prévoit une évaluation publique et périodique du fonctionnement de ce régime et de ses effets. »
 
-Le mécanisme suggéré suit une chaîne argumentative : habilitation ouverte juridiquement ; conditions d'accès et possibilité réelle d'exercice ; observation d'usages et de non-usages ; bilan d'effets, souhaités ou non ; possibilité d'une correction politique ou juridique selon les compétences existantes. Ce dispositif serait borné territorialement et matériellement, mais ses risques ne sont pas automatiquement faibles parce que la Corse compte relativement peu d'habitants. Une norme affectant peu de personnes peut néanmoins causer des atteintes graves ou irréversibles. Le champ, les contrôles, les voies de recours et la capacité de revenir sur les choix devraient être analysés avant toute qualification d'expérimentation prudente.
+La rédaction déplace explicitement le champ de l'évaluation : **des normes effectivement adoptées vers le fonctionnement d'ensemble du régime**, y compris ses accès, obstacles, refus et situations de non-usage. Elle conserve à la loi organique le soin de préciser les garanties. L'objet est de soumettre les nouvelles facultés à une épreuve d'effectivité et non de déduire de la fraternité un droit à toute habilitation demandée.
 
-La principale difficulté légistique concerne l'ambiguïté de l'expression « mise en œuvre effective ». Faut-il exiger simplement l'existence d'une procédure observable ou des garanties positives d'accès ? Une évaluation publique de résultats peut-elle être prévue sans confier aux juridictions le choix d'opportunité des politiques publiques ? Ces questions constituent un examen adverse nécessaire et non un obstacle à dissimuler.
+Le gain juridique demeure discuté. « Détermine les garanties nécessaires » donne une instruction au législateur organique, mais ne prescrit pas, à elle seule, un délai de réponse, un débiteur administratif unique, une obligation de correction des effets négatifs ni un résultat individuel garanti. Une loi organique pourrait être contestée pour omission de garanties, mais la justiciabilité exacte dépendrait de l'interprétation constitutionnelle ; aucune issue contentieuse future ne peut être présentée comme certaine. L'argument favorable à la modification porte donc sur **l'obligation de prévoir et de rendre observable**, non sur une promesse d'égalité matérielle intégrale.
 
-Le sens proposé par l'auteur est républicain et non séparatiste : l'éventuel élargissement du champ normatif corse serait apprécié à l'aune de valeurs que la République se reconnaît déjà. Il s'agit d'une justification politique et doctrinale, non d'une conséquence mécanique de l'article 2.
+Le droit existant doit entrer dans la comparaison. L'article L. 4422-16 du code général des collectivités territoriales comporte déjà un dispositif de réception et de rapport public concernant les propositions de la Collectivité de Corse ; l'article L. 4422-17 prévoit la publication au *Journal officiel* de certaines propositions, demandes et avis. Il faut examiner leurs applications effectives plutôt que supposer une absence de procédure. Les publications constatées, les accusés de réception, les décisions et les conséquences normatives forment des ensembles de preuves différents. [CGCT, L. 4422-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127/) ; [section législative correspondante](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/).
 
-Références : Sénat, texte n° 782 (2025–2026), https://www.senat.fr/leg/pjl25-782.html ; dossier législatif https://www.senat.fr/dossier-legislatif/pjl24-869.html ; J. H. N. Robert, *Amendement d'effectivité — version parlementaire et note de justification*, version 0.5-rc1, https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md.
+La référence à la Corse n'introduit aucune présomption d'utilité ou d'innocuité de la différenciation territoriale. Un régime autonome peut produire des capacités nouvelles ou des inégalités nouvelles ; les résultats doivent être distingués selon les groupes affectés, les droits en cause et les délais observés. La contribution citoyenne doit en outre être distinguée de l'acte d'un sénateur ou du Gouvernement : **au 21 octobre 2026, un dépôt parlementaire de cette version 0.7 n'est pas attesté**.
 
-## Conclusion provisoire
+## VI. Le futur de la devise : de la proclamation à l'institution capable de répondre
 
-L'histoire ne fournit pas une ligne droite de 1789 à une norme d'effectivité en 2026. Elle révèle plutôt le travail répété de formulation, d'inscription institutionnelle, de conflit et d'interprétation de trois termes dont la portée juridique a évolué. La reconnaissance constitutionnelle de la fraternité en 2018 fournit un exemple précis d'opération de traduction normative, non une preuve générale que toute invocation de la devise produit immédiatement des droits déterminés.
+L'histoire des trois termes n'autorise aucune téléologie : ni la réunion des mots, ni leur inscription sur les monuments, ni même leur consécration constitutionnelle n'établissent que leur plein exercice serait mécaniquement assuré. Le « futur » de la devise doit par conséquent être étudié comme un **programme de questions et de garanties**, non comme une évolution inévitable.
 
-La proposition Baron Mariani déplace la question : que faudrait-il ajouter au mécanisme constitutionnel et organique envisagé pour la Corse afin que les compétences annoncées puissent être évaluées à l'épreuve de leur usage réel, sans confondre contrôle de constitutionnalité, contrôle de légalité et appréciation des politiques publiques ? Sa pertinence demeure une hypothèse de réforme, ouverte à la critique, à la comparaison et à l'arbitrage parlementaire.
+### 1. Décrire des libertés effectivement praticables
 
-## Sources essentielles et appareil critique provisoire
+L'étude de la liberté ne peut s'épuiser dans l'identification d'une permission formelle. Encore faut-il distinguer la connaissance d'un droit, son accessibilité, les ressources nécessaires à son exercice, les recours disponibles et les décisions prises librement de ne pas l'exercer. Le non-recours ne constitue pas, à lui seul, la preuve d'une entrave : il peut exprimer un choix ou résulter d'un coût, d'une information déficiente ou d'un obstacle matériel. Les méthodes d'enquête doivent pouvoir départager ces hypothèses.
+
+### 2. Mesurer l'égalité sans la confondre avec l'identité des résultats
+
+L'égalité juridique prohibe certaines différences de traitement et en admet d'autres sous conditions ; l'égalité effective interroge les effets de règles pourtant identiques en apparence. La mesure exige de documenter les situations comparables, les objectifs poursuivis, les justifications légales et les résultats par catégories pertinentes. Elle ne justifie ni surveillance illimitée des personnes ni index unique censé « résumer » la justice d'une société.
+
+### 3. Donner une portée pratique à la fraternité sans paternalisme
+
+La décision n° 2018-717/718 QPC du 6 juillet 2018 constitue un exemple de traduction juridictionnelle d'un terme de la devise : le Conseil constitutionnel reconnaît la valeur constitutionnelle du principe de fraternité, puis en déduit, dans un champ déterminé, une liberté d'aide humanitaire. Les motifs encadrent aussi cette liberté par la conciliation avec l'ordre public. Ce précédent atteste une portée normative **située**, non une habilitation générale du juge à imposer l'entraide. [Décision, §§ 7–10](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018).
+
+Dans une perspective doctrinale, la fraternité effective exige que l'assistance accroisse autant que possible la capacité d'agir de celui qui en bénéficie, sans transformer la protection en dépendance imposée. Cette proposition relève de l'auteur ; elle n'est pas la transcription de la jurisprudence.
+
+### 4. Rendre visibles les silences institutionnels sans leur prêter d'intentions
+
+Une institution peut rendre une décision fondée, répondre de manière purement formelle ou ne laisser aucune trace de traitement. Ces états ne sont pas équivalents. Une méthode d'effectivité distingue : **dépôt ou envoi, réception, orientation, examen, réponse motivée, décision, exécution et effets**. L'absence de trace n'autorise pas à déduire automatiquement l'absence d'acte ; la consultation des registres et la recherche contradictoire sont nécessaires.
+
+Cette distinction rejoint la critique de la représentation devenue autonome que propose Guy Debord dans *La Société du spectacle* (1967) ; elle peut éclairer une hypothèse de **découplage entre visibilité du débat et capacité de participation**, sans permettre d'inférer les intentions individuelles des représentants. Voir [*Du spectacle à la régie*](../debord_stabilisateur_procedural.md) et [*La démocratie spectaculaire*](../la_democratie_spectaculaire.md), comme interprétations contemporaines explicitement attribuées.
+
+### 5. Rendre l'évaluation contradictoire et révisable
+
+Une doctrine d'effectivité ne peut revendiquer cette qualité sans accepter que ses propres conséquences soient contestées. Ses évaluations devraient préciser l'unité observée, l'horizon temporel, les droits potentiellement affectés, les données manquantes et les coûts de collecte ; elles devraient autoriser des résultats défavorables et, si une réforme déçoit, une correction motivée. La transparence n'est pas la publication indiscriminée de données personnelles ou de délibérations protégées.
+
+Cette exigence se distingue juridiquement du contrôle de constitutionnalité : le juge peut censurer une norme incompatible avec les exigences constitutionnelles sans disposer d'une compétence générale pour choisir les meilleures politiques publiques. La responsabilité de l'évaluation et de la correction reste distribuée entre administrations, législateur, juridictions et société civile.
+
+### 6. Un cas-test explicite : la capacité d'un citoyen à contribuer
+
+Le parcours d'une contribution écrite à une réforme constitutionnelle offre un terrain limité pour observer la réception institutionnelle. Il faut distinguer l'envoi d'une proposition, sa mention éventuelle dans un rapport, l'examen qu'en font les services, sa reprise par un parlementaire, son dépôt éventuel et son adoption. Un silence peut révéler une faiblesse du canal sans démontrer, à lui seul, une intention de mépris. Inversement, un accusé de réception ne prouve pas l'influence effective d'une contribution.
+
+Le cas de l'article 72-5 permet de préciser la démarche : l'existence d'une faculté de proposer n'implique pas un droit de dépôt parlementaire ; les canaux de transmission et les conditions de décision doivent être observés selon leurs compétences propres. Le [registre des interactions](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) constitue une source contemporaine à contrôler, non une preuve suffisante d'une thèse générale sur le régime représentatif.
+
+## Conclusion générale — une devise à éprouver
+
+La devise républicaine n'est pas née d'un acte unique qui aurait défini d'un coup trois droits homogènes. De la Révolution à la Constitution de 1958, son histoire combine concours de formules, ruptures politiques, pérennisation symbolique et transformations juridiques. La jurisprudence de 2018 rappelle que même la fraternité, longtemps réputée plus morale que normative, peut trouver une portée juridique précise — mais que cette portée demeure articulée avec d'autres exigences.
+
+L'hypothèse défendue dans cette étude est que **la fidélité contemporaine à la devise exige davantage que sa répétition** : elle appelle l'examen public des conditions réelles d'exercice des libertés, des effets des traitements juridiques et des formes d'entraide qui préservent l'autonomie des personnes. Ce programme ne remplace ni les garanties écrites, ni les compétences des institutions, ni le débat sur les fins légitimes de l'action publique.
+
+La proposition relative à la Corse illustre une traduction légistique possible de cette interrogation. Elle reste une contribution discutable, circonscrite, et non la conséquence juridiquement obligatoire de l'histoire racontée. Son examen permet de poser une exigence qui vaut aussi pour cette étude : **une proposition d'effectivité doit être jugée à ce qu'elle impose effectivement, à ce qu'elle permet d'observer et aux corrections qu'elle rend possibles.**
+
+## Sources et appareil critique sélectif
 
 **Sélection complémentaire v0.3-alpha :** liberté d'association, Conseil constitutionnel, décision n° 71-44 DC, 16 juillet 1971 ; égalité de traitement et preuve contraire, décision n° 73-51 DC, 27 décembre 1973. Comparaison et limites : [note de jurisprudence](jurisprudence_liberte_egalite_fraternite.md).
 
@@ -152,22 +190,12 @@ La proposition Baron Mariani déplace la question : que faudrait-il ajouter au m
 9. Martha C. Nussbaum, *Creating Capabilities*, Harvard University Press, 2011.
 10. J. H. N. Robert, *Principe d'effectivité — Une loi ne vaut que par ses effets*, Corpus Barons Mariani, 2026.
 11. J. H. N. Robert, *Tensions entre Liberté, Égalité et Fraternité effectives*, Corpus Barons Mariani, 2026.
-12. J. H. N. Robert, *Amendement d'effectivité — version parlementaire et note de justification*, Corpus Barons Mariani, version 0.5-rc1.
+12. J. H. N. Robert, *Amendement d'effectivité — version parlementaire et note de justification*, Corpus Barons Mariani, version 0.7.
 
-## Limites explicites de cette version
+## Limites documentaires et contrôles restant nécessaires
 
-Ce manuscrit constitue un **premier ensemble autoporteur**, non une version universitaire prête à publier. La profondeur historique doit être augmentée pour les années 1789–1848, 1870–1946 ; les sources primaires de certaines inscriptions révolutionnaires et du début de la Troisième République restent à collationner ; les textes historiographiques contradictoires sont insuffisamment nombreux ; le traitement des différentes interprétations juridiques contemporaines demeure introductif. Les normes et textes institutionnels devront être actualisés à chaque révision. La version soumise à publication devra incorporer des notes de bas de page ou équivalent et des renvois précis aux actes d'archives.
+Les références historiques majeures, les textes normatifs et les décisions juridictionnelles sont identifiés, mais ce manuscrit n'équivaut pas à une édition critique des sources. Les premières occurrences de la triade à la Révolution, le contexte précis des inscriptions républicaines du XIXe siècle et les actes contemporains de la généralisation monumentale doivent être vérifiés sur fac-similés ; il serait excessif de transformer une notice historique officielle en preuve exhaustive. Les débats historiographiques contradictoires sont encore insuffisamment représentés.
 
-**Statut de contrôle : DRAFT ; revue adverse incomplète ; frontmatter CLI non vérifié ; publication finale non autorisée.**
+La comparaison des demandes d'habilitation corses suppose un inventaire primaire par date, objet et fondement juridique, notamment dans le *Journal officiel*, ainsi que les données nécessaires pour distinguer publication, réception, décision et effets. L'absence de rapport trouvé en ligne ne permet pas d'en déduire l'inexistence. La contribution de 2026 ne préjuge ni de sa réception par les parlementaires ni de sa destinée législative.
 
-
-## Réexamen interne Redactor/Reviewer — 21 octobre 2026
-**Correction factuelle** : ajouter le CGCT **L.4422-17**, qui prescrit la publication au Journal officiel des propositions, demandes et avis des I–IV de L.4422-16. Cette trace est distincte des accusés de réception du Premier ministre (V bis) et des rapports annuels publics. La consultation du Journal officiel doit précéder toute conclusion sur les demandes sans trace.
-
-**Correction d'attribution** : le 5 mars 2025, les recommandations et le rapport présentés par Lauriane Josende n'ont pas été adoptés par la commission des lois du Sénat. Les chiffres 72/13 restent attribués à la rapporteure dans un compte rendu public, non à un rapport adopté.
-
-**Revue Reviewer v0.5, décorrélation faible** : même exécutant que la rédaction. Observations : (1) inventaire par demande, date et fondement, car 57 et 72 ne sont pas des populations identiques ; (2) une procédure CADA pour un document existant ne peut obliger à voter une loi ; (3) rapports annuels non localisés ≠ absents ou illégalement non publiés. Dispositions Redactor : `corrected` pour L.4422-17 et l'attribution sénatoriale ; `integrated` pour l'inventaire JO ; `conceded:load-bearing` pour la non-exécution alléguée du V bis sans documents ; `conceded:bounding` pour les limites du contentieux ; `arbitration` pour une rédaction constitutionnelle imposant des délais sans contraindre le Parlement.
-
-**Tests** : reconstruire trois cas à partir de publications JO → transmission → accusé Matignon → réponse → norme → effets ; obtenir les rapports 2022–2025 auprès du SGG ; contrôler le raccordement intégral de la future clause. La version de l'amendement v0.5-rc1 reste inchangée. Aucune revue indépendante ou validation CLI n'a eu lieu.
-
-Sources : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127/ ; https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/2026-05-29/ ; https://www.senat.fr/compte-rendu-commissions/20250303/lois.html.
+Ce texte est **une version académique cohérente et publiquement consultable**, non un article évalué par les pairs. Il appelle une revue historique et juridique indépendante avant de recevoir une qualification de publication savante validée.
