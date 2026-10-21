@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.10-pre-review"
+version: "1.11-internal-review"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
@@ -686,6 +686,29 @@ La proposition relative à la Corse illustre une traduction légistique possible
 22. Elinor Ostrom, *Governing the Commons*, Cambridge University Press, 1990 ; Jürgen Habermas, *Droit et démocratie*, Gallimard, 1997 ; Pierre Rosanvallon, *La Contre-démocratie*, Seuil, 2006 ; Guy Debord, *La Société du spectacle*, Buchet-Chastel, 1967. Références comparatives, **non cautions explicites de l'amendement**.
 23. Jean Hugues Noël Robert, [*Principe d'effectivité*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/principe_effectivite.md), [*Tensions entre Liberté, Égalité et Fraternité effectives*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/tensions_liberte_egalite_fraternite_effectives.md), [*Méthode des terrains féconds*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/methode_terrains_feconds.md), [*Rendre capable — noyau doctrinal*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/noyau_doctrinal_rendre_capable.md).
 24. Jean Hugues Noël Robert, [*Traçabilité des actes*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md), [*Du spectacle à la régie : Stabilisateur procédural*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md), [*Amendement d'effectivité à l'article 72-5, version 0.7*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md). Ces documents présentent les **propositions de l'auteur** et non des autorités constitutionnelles.
+
+## Revue interne de recevabilité scientifique — contrôle pré-draft du 21 octobre 2026
+
+**Nature et indépendance du contrôle.** Relecture critique interne par l'assistant ayant participé à la rédaction, à partir des sources disponibles au 21 octobre 2026. **Ce n'est pas une expertise indépendante ni une revue par les pairs.** Le contrôle vise à éliminer les erreurs évitables et à circonscrire honnêtement les assertions dont la vérification reste partielle. Les modifications de contenu demeurent soumises à l'arbitrage humain.
+
+### Tests réalisés et constats
+
+1. **Architecture et autoportance : PASS avec réserves.** Seize chapitres numérotés I–XVI, une thèse synthétique autonome, une introduction historique, le texte intégral de l'amendement et une bibliographie catégorisée. Les notions non usuelles (*prendre au mot*, terrain fécond, trace négative, Stabilisateur procédural) sont explicitées dans le manuscrit. Les liens canoniques servent à contrôler leur provenance, non à remplacer leur définition. **Réserve :** la structure par ajouts demeure longue ; les redites des chapitres VII, X, XI, XIV–XVI demandent encore un polissage stylistique.
+2. **Littéralité constitutionnelle : PASS ciblé.** Les dispositions du préambule et des articles 1, 2, 24 et 47-2 de 1958 sont accessibles dans le [texte officiel intégral publié par l'Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/divers/texte_reference/01_constitution.html) ; leur portée est distinguée des inférences doctrinales. Les citations de la Déclaration de 1789 ont été contrôlées à partir de son texte publié. **Réserve :** une vérification éditoriale systématique de toutes les versions historiques et de chaque renvoi jurisprudentiel reste nécessaire.
+3. **Preuves parlementaires : PASS.** [Compte rendu sénatorial du 5 mars 2025](https://www.senat.fr/compte-rendu-commissions/20250303/lois.html) : **72 demandes, 13 évolutions normatives**, chiffres présentés par Lauriane Josende ; rapport et publication non approuvés. [Rapport de l'Assemblée nationale n° 2865 du 3 juin 2026](https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2865.html) : **57 saisines, quatre suites favorables, trois rejets explicites et cinquante sans réponse explicite**. Les périmètres et autorités documentaires ne sont pas confondus. Le vote sénatorial établit un blocage de publication, **non un mobile de dissimulation attribuable à tous les votants**.
+4. **Exactitude de la proposition : PASS ciblé.** Le chapitre V reproduit la clause v0.7 et la distingue du droit déjà existant ; elle concerne les garanties d'accès et l'évaluation publique périodique du **fonctionnement du régime**. Ni sanction automatique des non-réponses, ni droit à une habilitation, ni réforme constitutionnelle déjà adoptée ne sont inférés.
+5. **Bibliographie et liens : PARTIAL.** Les sept liens Markdown relatifs pointant vers d'autres documents du Corpus correspondent à des fichiers existants dans le dépôt. La plupart des références normatives et institutionnelles centrales ont une source explicite. **Les 58 destinations uniques du manuscrit n'ont pas toutes fait l'objet d'une consultation humaine une par une** ; disponibilité durable, pagination exacte et texte intégral des études secondaires sont donc **UNKNOWN** pour le reste. La bibliographie est un inventaire raisonné, pas encore une édition critique achevée.
+
+### Objections internes adressées au cœur de la thèse
+
+- **Redondance normative :** une compétence parlementaire d'évaluation et des dispositions de réception, publicité et suivi existent déjà ; une clause constitutionnelle supplémentaire ne vaut que si son champ (fonctionnement du régime, non-usages, garanties d'accès) change effectivement le droit applicable. Cette objection demeure sérieuse même après l'ajout de la v0.7.
+- **Sous-détermination :** « garanties nécessaires » et « évaluation publique et périodique » laissent de grandes marges au législateur organique. Le texte n'impose pas de métrique, de recours, de destinataire unique ni de délai ; il pourrait donc être exécuté formellement de manière peu satisfaisante.
+- **Inférence empirique :** faibles suites favorables et nombreux silences ne prouvent pas que chacune des demandes était juridiquement fondée ni qu'une réforme normative était nécessaire. La notion de *trace négative* évite d'inventer cette conclusion, mais ne résout pas seule le problème de causalité.
+- **Pluralisme institutionnel :** le refus d'autoriser la publication d'un rapport de commission peut traduire une divergence argumentée et ne constitue pas en soi une violation de l'article 24 de la Constitution. L'étude défend la conservation et la discussion des constats sans exiger un vote favorable.
+- **Portée de l'article 16 de 1789 :** la garantie des droits est un principe constitutionnel fondamental ; on ne peut pas transformer chaque insuffisance d'application en inexistence juridique de la Constitution.
+- **Filiation historique :** aucun récit téléologique n'autorise à prêter aux révolutionnaires le programme doctrinal contemporain de « liberté, égalité, fraternité effectives » ; les analogies restent attribuées à l'auteur.
+
+**Décision interne :** la structure argumentative est cohérente et autoporteuse pour une **diffusion comme version de travail explicitement non évaluée**. La qualification de **draft prêt à soumettre aux reviewers** reste **conditionnelle** à la correction des anomalies de liens, à la validation des sources historiques fragiles et à un dernier contrôle factuel. Aucune revue contradictoire indépendante n'a été effectuée, lancée ou implicitement approuvée.
 
 ## Limites documentaires et contrôles restant nécessaires
 
