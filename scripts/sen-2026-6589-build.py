@@ -80,7 +80,7 @@ def make(out: Path, pdf_engine: str, compose_only: bool = False) -> None:
         "note": "Sending, receiving, registration and reading are distinct events."
     }
     if compose_only:
-        (out / 'composition.preview.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\\n', encoding='utf-8')
+        (out / 'composition.preview.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         print(str(md))
         return
     # Pandoc produces plain UTF-8, not raw Markdown; no YAML in email body.
