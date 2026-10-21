@@ -1,6 +1,57 @@
+---
+title: "2026-6589 SEN — mémoire complémentaire unique au greffe"
+subtitle: "Document maître Markdown pour les rendus texte brut et PDF"
+author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-21"
+last_modified_at: "2026-10-21"
+version: "0.2"
+status: "working-paper — préparation, non transmis"
+license: "CC BY-SA 4.0"
+language: "fr"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md"
+document_role: "source"
+document_kind: "judicial-supplement-draft"
+document_function: "mémoire complémentaire et pièces, document maître multiformat"
+target_audience: "Greffe et membres du Conseil constitutionnel"
+target_scene: "electoral"
+visibility: "public"
+lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
+generated_by:
+  - "ChatGPT GPT-6 — rédaction assistée sous mandat du requérant"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
+  origin_date: "2026-10-21"
+  derived_from:
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+    - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+    - "research/senatoriales-2026/complement-2026-6589-sen/notes-provenance-v0.1.md"
+    - "research/senatoriales-2026/complement-2026-6589-sen/parcours-video-p13-v0.1.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+related_documents:
+  - "research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md"
+  - "research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md"
+---
+
 # Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée
 
-**Brouillon de travail v0.1. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
+**Brouillon de travail v0.2. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
+
+## Contrat de source et de rendus
+
+Ce Markdown est **l'unique source éditoriale** du complément. Les représentations produites à partir d'une révision identifiée sont :
+
+1. **Texte brut UTF-8** destiné au corps du courriel et au fichier miroir TransfertPro, sans frontmatter technique ni marqueurs Markdown parasites dans le document adressé au greffe ; normaliser la conversion, puis comparer le contenu réellement envoyé au fichier.
+2. **PDF**, composé depuis la même révision du Markdown avec sommaire, pagination et renvois lisibles ; il est une projection du texte, pas une seconde source susceptible de diverger.
+
+Les frontmatter, les liens de maintenance du Corpus, les statuts de travail et les cases de contrôle restent des données de production et **ne doivent pas apparaître comme assertions du requérant dans les rendus finaux**. Le PDF et le texte brut peuvent différer typographiquement, mais tout ajout ou retrait de contenu juridique doit retourner à la source Markdown puis déclencher la régénération des deux rendus.
+
+**Contrôle de gel :** commit source + versions des références + empreintes SHA-256 des artefacts réels + concordance sémantique + vérification des deux QPC. Aucune génération ni opération de transmission n'emporte en elle-même l'autorisation d'envoyer.
 
 ## Objet
 
