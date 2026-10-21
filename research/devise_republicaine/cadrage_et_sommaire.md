@@ -7,7 +7,8 @@ last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "working-paper — cadrage initial, à revue"
+# Previous status: "working-paper — cadrage initial, à revue"
+status: "working-paper"
 document_role: source
 document_kind: research-plan
 visibility: public

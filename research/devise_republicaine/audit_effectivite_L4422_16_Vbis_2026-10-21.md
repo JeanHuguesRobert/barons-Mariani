@@ -1,11 +1,13 @@
 ---
 title: "Audit de l'effectivité de l'article L.4422-16 V bis du CGCT"
 author: "unknown"
+affiliation: "unknown"
 date: "2026-10-21"
 language: fr
 license: "CC BY-SA 4.0"
 version: "0.1"
-status: "working-draft — enquête documentaire non exhaustive"
+# Previous status: "working-draft — enquête documentaire non exhaustive"
+status: "working-paper"
 document_role: source
 document_kind: legal-research-note
 visibility: public
@@ -13,7 +15,7 @@ lifecycle_state: working
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "source-verification"
+  origin_type: "generated"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/141"
   origin_date: "2026-10-21"

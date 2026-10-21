@@ -6,7 +6,8 @@ date: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "working-note — décisions non souveraines"
+# Previous status: "working-note — décisions non souveraines"
+status: "working-paper"
 document_role: operational
 document_kind: review-completion-report
 visibility: public

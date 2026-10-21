@@ -2,10 +2,12 @@
 title: "Article L.4422-16 : traces, recours et responsabilités partagées"
 date: "2026-10-21"
 author: "Jean Hugues Noël Robert"
+affiliation: "unknown"
 language: fr
 license: "CC BY-SA 4.0"
 version: "0.1"
-status: "working-draft"
+# Previous status: "working-draft"
+status: "working-paper"
 document_role: source
 document_kind: legal-research-note
 visibility: public

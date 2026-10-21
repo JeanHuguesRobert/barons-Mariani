@@ -6,7 +6,8 @@ date: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "internal-review — non indépendante"
+# Previous status: "internal-review — non indépendante"
+status: "working-paper"
 document_role: source
 document_kind: legal-review
 visibility: public

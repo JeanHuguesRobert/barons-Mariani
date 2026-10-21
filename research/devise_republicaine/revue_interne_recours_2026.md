@@ -1,11 +1,13 @@
 ---
 title: "Revue interne actualisée : recours et effectivité corse"
 author: unknown
+affiliation: "unknown"
 date: "2026-10-21"
 language: fr
 license: CC BY-SA 4.0
 version: "0.1"
-status: working-draft
+# Previous status: "working-paper"
+status: "working-paper"
 document_role: source
 document_kind: legal-review
 visibility: public
@@ -13,7 +15,7 @@ lifecycle_state: working
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/revue_interne_recours_2026.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: corpus-synthesis
+  origin_type: generated
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/141"
   origin_date: "2026-10-21"

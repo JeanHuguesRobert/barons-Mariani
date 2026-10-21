@@ -1,3 +1,30 @@
+---
+title: "Antécédent parlementaire : CL12"
+author: "unknown"
+affiliation: "unknown"
+date: "2026-10-21"
+license: "CC BY-SA 4.0"
+language: fr
+version: "0.1"
+# Previous status: "working-paper — note non revue"
+status: "working-paper"
+document_role: source
+document_kind: legislative-research-note
+visibility: public
+lifecycle_state: working
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/note_CL12_antecedent.md"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: generated
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/141"
+  origin_date: "2026-10-21"
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Antécédent parlementaire : CL12, juin 2026
 
 Le rapport n°2865 de Florent Boudié (commission des lois de l'Assemblée nationale, 3 juin 2026) reprend et documente le constat de faible usage des mécanismes corses : 57 demandes et quatre suites favorables. Ne pas refaire cet inventaire sans question nouvelle.

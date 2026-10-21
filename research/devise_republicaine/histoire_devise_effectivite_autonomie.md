@@ -8,7 +8,8 @@ last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.5-alpha"
-status: "working-draft — manuscrit enrichi, non validé"
+# Previous status: "working-draft — manuscrit enrichi ; non validé"
+status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
 document_kind: legal-academic-paper

@@ -6,7 +6,8 @@ date: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "working-draft — jurisprudence sélectionnée"
+# Previous status: "working-draft — jurisprudence sélectionnée"
+status: "working-paper"
 document_role: source
 document_kind: case-law-note
 visibility: public

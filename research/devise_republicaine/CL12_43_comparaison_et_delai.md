@@ -1,11 +1,13 @@
 ---
 title: "Antériorité vérifiée : CL12 et amendement 43, obligation de réponse"
 author: "unknown"
+affiliation: "unknown"
 date: "2026-10-21"
 language: fr
 license: CC BY-SA 4.0
 version: "0.1"
-status: working-draft
+# Previous status: "working-paper"
+status: "working-paper"
 document_role: source
 document_kind: legislative-research-note
 visibility: public

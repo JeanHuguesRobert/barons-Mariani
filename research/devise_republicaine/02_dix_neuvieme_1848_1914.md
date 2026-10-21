@@ -7,7 +7,8 @@ last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "working-draft — revue historique et juridique nécessaire"
+# Previous status: "working-draft — revue historique et juridique nécessaire"
+status: "working-paper"
 document_role: source
 document_kind: research-section
 visibility: public
