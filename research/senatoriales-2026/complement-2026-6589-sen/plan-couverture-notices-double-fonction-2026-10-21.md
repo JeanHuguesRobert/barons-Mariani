@@ -11,7 +11,7 @@ filing_ready: false
 
 | Pièces | Griefs | Notice de référence ou à produire | État |
 |---|---|---|---|
-| P-04 / P-05 / P-07 / P-08 | G1/G2/G4 | N1 « envois initiaux, accusés, déplacement et photos » | À rédiger |
+| P-04 / P-05 / P-07 / P-08 | G1/G2/G4 | [Notice N1 — premiers échanges, accusés et déplacement](notice-n1-p04-p05-p07-p08-double-fonction.md) | Rédigée ; DSN, EML P-04/P-05/P-07 et originaux P-08 restent à contrôler |
 | **P-06 / P-09** | G1/G2 | [Notice G1](notice-g1-p06-p09-double-fonction.md) | Rédigée ; contrôle P-09 et confrontation juridique restants |
 | P-10 / P-11 / P-12 | G1/G4 | [Notice N2](notice-n2-p10-p11-p12-double-fonction.md) ; [notice G4](notice-g4-provenance-pertinence-p12-p46.md) | Rédigée ; vérification des EML et annexe d’origine restante |
 | **P-13** | G2/G3/G4 | [Notice G2/G3](notice-g2-g3-p13-p17-p19-double-fonction.md) + [parcours vidéo](parcours-video-p13-v0.1.md) | Rédigées ; assemblage et revue restants |
@@ -21,7 +21,7 @@ filing_ready: false
 | **P-18 / P-19** | G2/G3 | [Notice G2/G3](notice-g2-g3-p13-p17-p19-double-fonction.md) | Rédigées ; examen des limites de l'attestation |
 | **P-20** | G1–G4 | [Protocole et notice P-20-N1](doctrine-notices-double-fonction-suite-demande-greffe-2026-10-21.md) | Rédigée ; images, notification et statut à réconcilier |
 | P-22 / P-29–P-33 / P-45 / P-46 | G3/G4 | [Notice G4](notice-g4-provenance-pertinence-p12-p46.md), [chronologie P-46](notice-provenance-p46-courriels-verification-p12-p13-2026-10-21.md) | Rédigées ; EML complets, réponses et exhaustivité à contrôler |
-| P-21 / P-23–P-25 / P-28 / P-34–P-38 | Selon requête historique | N4 « autres sources et diligences de procédure » — **ne pas inventer leur contenu, relever chaque entrée exacte du registre** | À inventorier et traiter individuellement |
+| P-21 / P-23–P-25 / P-28 / P-34–P-38 | Selon requête historique | [Notice N4 — pièces de procédure et provenance](notice-n4-sources-procedurales-double-fonction.md) pour P-28/P-36/P-44/P-45 ; autres références à relever exactement dans la requête et le registre | Partielle : P-21/P-23–P-25/P-34/P-35/P-37/P-38 restent à inventorier et traiter |
 | P-26 / P-27 / P-39–P-41 | G5 | [Notice N5](notice-n5-g5-scrutin-double-fonction.md) | Rédigée ; procès-verbal officiel et sources primaires à contrôler |
 | P-42 / P-43.a / P-43.b | G2/G3/G4 | [Notice N6](notice-n6-p42-p43-double-fonction.md) | Rédigée ; EML et réponses à contrôler, distinguer avant/après 18h |
 | Toute autre variante ou sous-référence citée | Selon requête | Revue du [registre de provenance](registre-provenance.csv) et de la requête originale | Contrôle d'exhaustivité final obligatoire |
