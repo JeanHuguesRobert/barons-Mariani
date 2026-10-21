@@ -19,9 +19,10 @@ test -f "$SRC/projection-qpc-l299.yml"
 test -f "$SRC/projection-qpc-l303.yml"
 python3 "$ROOT/scripts/sen-2026-6589-build.py" --compose-only --out "$STAGE/composition"
 # Generated intermediate: frontmatter is renderer-local, not a new sovereign source.
-printf '%s\n' '---' 'title: "2026-6589 SEN — complément intégral"' 'language: fr' 'document_role: adapted' '---' > "$STAGE/consolidated.md"
-cat "$STAGE/composition/complement-integral.preview.md" >> "$STAGE/consolidated.md"
-cat > "$STAGE/corpus.yml" <<'EOF'
+mkdir -p "$STAGE/consolidated-source"
+printf '%s\n' '---' 'title: "2026-6589 SEN — complément intégral"' 'language: fr' 'document_role: adapted' '---' > "$STAGE/consolidated-source/consolidated.md"
+cat "$STAGE/composition/complement-integral.preview.md" >> "$STAGE/consolidated-source/consolidated.md"
+cat > "$STAGE/consolidated-source/corpus.yml" <<'EOF'
 schema: ubikia.corpus.v0
 project: 2026-6589 SEN
 language: fr
@@ -31,7 +32,7 @@ sources:
     role: derived-composite
     required: true
 EOF
-cat > "$STAGE/projection.yml" <<'EOF'
+cat > "$STAGE/consolidated-source/projection.yml" <<'EOF'
 schema: ubikia.projection.book.v0
 id: sen-2026-6589-consolidated-preview
 status: working
@@ -49,7 +50,7 @@ render_contract:
   frozen_release_mutable: false
 EOF
 cd "$UBIKIA_DIR"
-npm run render -- --corpus "$STAGE/corpus.yml" --projection "$STAGE/projection.yml" --output "$STAGE/render-consolidated" 2>&1 | tee "$STAGE/render-consolidated.log"
+npm run render -- --corpus "$STAGE/consolidated-source/corpus.yml" --projection "$STAGE/consolidated-source/projection.yml" --output "$STAGE/render-consolidated" 2>&1 | tee "$STAGE/render-consolidated.log"
 npm run render -- --corpus "$SRC/corpus-ubikia.yml" --projection "$SRC/projection-qpc-l299.yml" --output "$STAGE/render-l299" 2>&1 | tee "$STAGE/render-l299.log"
 npm run render -- --corpus "$SRC/corpus-ubikia.yml" --projection "$SRC/projection-qpc-l303.yml" --output "$STAGE/render-l303" 2>&1 | tee "$STAGE/render-l303.log"
 # Generate the plain-text projection from the identical composed Markdown.
