@@ -88,3 +88,42 @@ Antoine-Marie Graziani, *Les grandes dates de l'histoire de la Corse : 17 juille
 3. En Amérique, suivre séparément les mentions de Paoli, les références à Boswell et la circulation vérifiée du document constitutionnel de 1755.
 4. Ne pas attribuer à la seule présence de Paoli en Grande-Bretagne l'évolution de son image : l'intensification des événements américains et des alignements géopolitiques est une explication rivale explicite.
 5. Pour l'histoire de la devise et l'amendement d'effectivité, présenter toute analogie comme **test analytique moderne**, sans rétroprojeter la devise constitutionnelle contemporaine sur 1793.
+
+
+## Enquête documentaire II — pourquoi la Constitution de 1755 est moins célèbre que Paoli (21 octobre 2026)
+
+### Constat décisif : célébrité du personnage, faible circulation du texte
+
+Dorothy Carrington, « Paoli et sa “Constitution” (1755–1769) », *Annales historiques de la Révolution française*, 1974, p. 508–541, https://www.persee.fr/doc/ahrf_0003-4436_1974_num_218_1_4183 , observe que le document original de novembre 1755, retrouvé et étudié tardivement, était peu connu hors de Corse. Sa remarque sur l'intérêt hypothétique qu'il aurait suscité parmi les réformateurs **s'il avait été connu** oblige à séparer radicalement l'influence de **l'exemple politique** et l'influence du **texte précis**. La notoriété de Paoli via Boswell ne prouve pas la réception des dix pages et demie du texte constitutionnel, ni un emprunt américain direct. Carrington documente aussi la controverse sur la qualification démocratique du régime ; la souveraineté proclamée ne dispense pas d'analyser suffrage, notables et pouvoir exécutif.
+
+Wanda Mastor, « La recherche du bonheur, de la Constitution de Paoli à la Déclaration d'indépendance des États-Unis », https://lumi.univ-corse.fr/la-recherche-du-bonheur-de-la-constitution-de-paoli-a-la-declaration-dindependance-des-etats-unis/ , explicite la différence de notoriété entre les deux textes et confronte la félicité collective corse à la conception américaine davantage individualiste : **comparaison doctrinale** à conserver distincte d'une filiation documentaire prouvée.
+
+### Une chronologie probatoire plus fine, 1793–1795
+
+Francis Pomponi, « En Corse sous la Révolution : le temps du Governo Separato (juin 1793–juin 1794) », *Cahiers de la Méditerranée* 48 (1994), https://www.persee.fr/doc/camed_0395-9317_1994_num_48_1_1115 : 2 avril 1793, citation de Paoli à la barre de la Convention ; 27 mai, consulte de Corte sans décision de sécession ; 17 juillet, décret le déclarant hors-la-loi et traître à la République ; 15 juin 1794, consulte constitutionnelle actant la rupture et le nouveau cadre anglo-corse. Il faut examiner les divergences de qualification et de date entre historiens plutôt que rabattre tous ces épisodes sur une unique « trahison ».
+
+La controverse « La création du royaume anglo-corse (réponse à Dorothy Carrington) », *Annales historiques de la Révolution française*, 1996, https://www.persee.fr/doc/ahrf_0003-4436_1996_num_305_1_1995 , défend la lecture selon laquelle les mesures du printemps 1793 furent encore prises par Paoli au nom de la République française ; la nouvelle du décret du 17 juillet aurait atteint la Corse vers le 10 août, conduisant à l'abaissement du drapeau tricolore ; l'appel britannique est daté du 25 août dans cette interprétation. **Interprétation controversée**, à mettre en regard des pièces et de la documentation citée par ses contradicteurs.
+
+L'Enciclopedia Treccani, notice « Pasquale Paoli », https://www.treccani.it/enciclopedia/pasquale-paoli_%28Dizionario-Biografico%29/ , situe les contacts anglais à partir de la fin juillet 1793, les accords avec Elliot en janvier 1794, la constitution monarchique issue de la consulte de juin 1794, et le départ de Paoli le 14 octobre 1795. Elle attribue ce dernier aux tensions avec le vice-roi Elliot et au retrait de Paoli des responsabilités institutionnelles. **Conséquence méthodologique :** la résignation de 1795 ne saurait être exclusivement expliquée par la Convention de 1793 ; elle résulte également du fonctionnement effectif de la protection britannique.
+
+### Mécanismes explicatifs candidats — classification et contre-épreuves
+
+| Mécanisme | Indices actuellement accessibles | Ce qui reste à vérifier |
+| --- | --- | --- |
+| Faible diffusion du texte original de 1755 | Carrington : document retrouvé et peu connu hors de Corse | Éditions, traductions, exemplaires effectivement consultés avant 1776 |
+| Héroïsation personnelle par Boswell et la presse | Boswell 1768 ; extraits dans *Pennsylvania Chronicle*, 6 juin 1768, selon Colonial Society : https://www.colonialsociety.org/node/2953 | Quels passages décrivent les institutions ? lesquels reproduisent le texte ? |
+| Réorientation de la mémoire révolutionnaire américaine | G. P. Anderson, 1925 : https://www.colonialsociety.org/node/718 ; notoriété chez les *Sons of Liberty*, déclin relatif | Séries quantitatives de mentions, sources contraires et causalité géopolitique |
+| Disparition de l'État corse (1769) puis ambiguïtés de 1793–1795 | Ruptures institutionnelles documentées ; régime anglo-corse | Quel impact précis sur les histoires du droit publiées aux XVIIIe–XXe siècles ? |
+| Controverses sur le caractère démocratique | Carrington 1974 : suffrage, Diète, généralat, pouvoir des notables | Comparaison contrôlée avec régimes contemporains et manuscrits |
+| Canonisation historiographique nationale | Hypothèse de recherche, non preuve établie | Manuels, programmes, anthologies, index et périodisations par pays |
+
+### Prochain lot de preuves à constituer
+
+1. Tableau des *mentions de Paoli* dans la presse et les correspondances américaines, par tranches 1765–1769, 1770–1775, 1776–1783, 1784–1795, en distinguant éloge, critique, fausse nouvelle et silence.
+2. Tableau séparé des *mentions attestées de la Constitution de novembre 1755* : ne jamais compter un éloge du gouvernement paolien comme attestation de lecture du texte.
+3. Inventaire des copies, traductions et éditions de l'acte de novembre 1755, avec localisation et date de circulation.
+4. Édition critique parallèle : actes français 1793, consulte de Corte 1794, correspondance de Paoli, ordres britanniques 1794–1795.
+5. Étude de l'absence dans les canons : constitutions et histoires constitutionnelles européennes et américaines ; tester les hypothèses linguistiques, archivistiques, diplomatiques et politiques.
+6. Raccordement au [Projet #1755](projet_1755.md), à [Autonomia](../autonomia.md), à [l'histoire de la devise](../devise_republicaine/01_origines_revolution_1789_1799.md) et à [l'amendement d'effectivité](amendement_effectivite_article_72-5.md) : comparaison interprétative, sans transformer un précédent historique en preuve juridique actuelle.
+
+**Conclusion provisoire :** l'explication aujourd'hui la plus directement soutenue est l'écart entre la diffusion de la réputation de Paoli et la circulation du document constitutionnel. Les effets spécifiques de son alignement britannique et de sa rupture avec les autorités françaises restent des hypothèses plausibles, non des causes exclusives démontrées.
