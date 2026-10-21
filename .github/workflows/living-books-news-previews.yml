@@ -32,35 +32,92 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        id: checkout
+        continue-on-error: true
         with:
           persist-credentials: true
-      - name: Render public working pages and provenance
-        run: python3 scripts/build-living-books-news-previews.py
-      - name: Validate working pages
+      - name: Execute publication with durable typed receipt
+        if: always()
+        env:
+          CHECKOUT_OUTCOME: ${{ steps.checkout.outcome }}
+          RUN_ID: ${{ github.run_id }}
+          SOURCE_SHA: ${{ github.sha }}
+        shell: bash
         run: |
-          test -s previews/en-preparation/index.html
-          test -s previews/en-preparation/capable.html
-          test -s previews/en-preparation/1755.html
-          test -s previews/en-preparation/rise-and-fall.html
-          test -s previews/en-preparation/suicide-corse.html
-          python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
-      - name: Commit public working projections only
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add previews/en-preparation/
-          if git diff --cached --quiet; then
-            echo "Working pages already current"
-          else
-            git commit -m "build(living-books): refresh public working previews [skip ci]"
-            git push origin HEAD:main
+          set +e
+          mkdir -p .living-books-diagnostics
+          phase=checkout
+          code=CHECKOUT_FAILED
+          result=failed
+          if [ "$CHECKOUT_OUTCOME" = success ]; then
+            phase=render
+            code=RENDER_FAILED
+            python3 scripts/build-living-books-news-previews.py >.living-books-diagnostics/render.log 2>&1
+            rc=$?
+            if [ "$rc" -eq 0 ]; then
+              phase=validate
+              code=VALIDATION_FAILED
+              (
+                set -e
+                for name in index capable 1755 rise-and-fall suicide-corse; do
+                  test -s "previews/en-preparation/$name.html"
+                done
+                python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
+              ) >.living-books-diagnostics/validate.log 2>&1
+              rc=$?
+              if [ "$rc" -eq 0 ]; then
+                phase=publish
+                code=PUBLISH_FAILED
+                (
+                  set -e
+                  git config user.name 'github-actions[bot]'
+                  git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+                  git add previews/en-preparation/
+                  if git diff --cached --quiet; then
+                    echo "Working pages already current"
+                  else
+                    git commit -m "build(living-books): refresh public working previews [skip ci]"
+                    git push origin HEAD:main
+                  fi
+                ) >.living-books-diagnostics/publish.log 2>&1
+                rc=$?
+                if [ "$rc" -eq 0 ]; then
+                  result=success
+                  code=OK
+                fi
+              fi
+            fi
           fi
-      - name: Archive build output for troubleshooting
+          export PHASE="$phase" RESULT="$result" ERROR_CODE="$code"
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          receipt = {
+              "schema": "living-books.compute-receipt/v1",
+              "outcome": os.environ["RESULT"],
+              "phase": os.environ["PHASE"],
+              "error_code": os.environ["ERROR_CODE"],
+              "run_id": os.environ["RUN_ID"],
+              "source_sha": os.environ["SOURCE_SHA"],
+              "diagnostics": ["render.log", "validate.log", "publish.log"],
+          }
+          path = Path(".living-books-diagnostics/receipt.json")
+          path.write_text(json.dumps(receipt, indent=2) + "\n", encoding="utf-8")
+          print(json.dumps(receipt))
+          PY
+          if [ "$result" != success ]; then
+            echo "::warning title=Living Books task failed::Phase $phase; code $code; inspect receipt artifact and logs"
+          fi
+          exit 0
+      - name: Archive receipt and build logs
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: living-books-public-working-${{ github.run_number }}
-          path: previews/en-preparation/
-          if-no-files-found: error
+          path: |
+            .living-books-diagnostics/
+            previews/en-preparation/
+          if-no-files-found: warn
           retention-days: 30
 
 # Publishing these PUBLIC WORKING previews is not freezing an edition.
