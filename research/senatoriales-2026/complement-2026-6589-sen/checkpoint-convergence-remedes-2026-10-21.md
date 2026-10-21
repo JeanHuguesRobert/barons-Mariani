@@ -50,7 +50,7 @@ Le modèle de checkpoint repris de [Cogentia #123](https://github.com/JeanHugues
 |---|---|---|
 | #131 — provenance et P-46 | Relie les relances documentées aux questions A/B/C sur l'acceptation de P-12, sa présence dans le dossier transmis au TA, puis son éventuelle transmission ou examen avant jugement. Les pouvoirs d'instruction de l'article 42 ont déjà été demandés dans le dispositif initial. | Envoi, réception, transmission et examen restent des états distincts. Les éléments ciblés absents des sources examinées ne prouvent ni intention ni faute. |
 | #132 — vidéo P-13 | Distingue l'émission du courriel et l'état du fichier vidéo de sa réception par la Préfecture, de son transfert au TA et de son visionnage. | Une trace d'émission ou une copie native ne prouve pas l'acceptation serveur ou l'examen juridictionnel. |
-| #149 — CRPA/CADA | Qualifie document par document la voie d'accès auprès de la Préfecture, avec contrôle de la réception, de la réponse, du délai et de la compétence. | Aucune saisine CADA n'est déclarée déposée. Les documents relevant de la fonction de juger du TA sont séparés de la voie CADA. |
+| #149 — CRPA/CADA | Qualifie document par document les demandes préfectorales des 14/16 septembre et du 25 septembre, avec contrôle de la réponse, de la réception, du délai et de la compétence. | Le mois CRPA a expiré vers le 14/16 octobre pour les documents identifiables restés sans réponse aux demandes de septembre; saisine CADA désormais préparée mais non déposée. P-22 reste à échéance autour du 25 octobre. Les documents juridictionnels du TA restent hors voie CADA. |
 | #133 — assemblage | Porte le message intégral et les PDF, y compris les deux mémoires QPC. La revue du brouillon a fait apparaître une divergence sur le nombre de PDF joints au courriel. | Une contribution dans un commentaire ne modifie pas à elle seule le texte maître ; la portée procédurale des ajouts contextuels reste à arbitrer. |
 | #127 — coordination | Maintient le principe d'un complément unique, traçable, sans altération de la requête enregistrée et sans émission sans validation. | Le corps actuel énumère sept enfants et l'ordre #128–#134, tandis que #149 se présente comme le huitième enfant. Il faut synchroniser le mandat umbrella et les dépendances. |
 
@@ -60,7 +60,7 @@ Le nœud commun n'est pas une accusation contre une institution. C'est une quest
 
 Deux voies complémentaires en découlent, sans fusion de compétence :
 
-1. Pour les documents administratifs identifiables détenus par la Préfecture, qualifier les demandes déjà envoyées et, si les conditions sont réunies, poursuivre la voie CRPA puis CADA.
+1. Pour les documents administratifs identifiables détenus par la Préfecture, préparer sans attendre une saisine CADA limitée aux éléments non communiqués des demandes des 14/16 septembre, après comparaison de l'arrêté transmis avec les demandes. Garder P-22 du 25 septembre comme demande distincte dont le mois expire autour du 25 octobre.
 2. Pour les documents ayant trait à l'élection, solliciter le Conseil sur le fondement de son pouvoir propre de l'article 42, déjà demandé dans la requête initiale, afin qu'il obtienne les pièces pertinentes ou fasse préciser leur statut.
 
 Le message au greffe peut exposer clairement que la répétition de cette asymétrie d'accès soulève une possible difficulté de fonctionnement institutionnel à instruire. Il doit distinguer les réponses partielles des documents ciblés qui demeurent indisponibles dans les sources examinées et présenter la dimension systémique comme une question ou une hypothèse argumentée, non comme une faute ou une dissimulation déjà établie.
@@ -73,7 +73,7 @@ La mention d'une éventuelle étape devant la CEDH sert à motiver la conservati
 
 Instruction du Principal clarifiée le 21 octobre : **le courriel comporte trois PDF joints : le PDF englobant, qui reproduit intégralement les deux QPC, et les deux PDF autonomes L.299 et L.303. Le lot TransfertPro contient ces trois mêmes PDF, sans différence binaire, ainsi que la vidéo P-13.** Le corps du courriel reproduit le mémoire intégral, y compris les deux QPC.
 
-Le brouillon disait à tort que les trois PDF étaient joints au courriel. Il a été corrigé localement pour refléter la distinction ci-dessus. Cette correction n'a pas été commitée ni publiée dans GitHub ; elle doit être revue avec la compilation avant toute stabilisation. Aucun fichier n'a été envoyé.
+Le contrat de livraison a été harmonisé et publié au commit `090a5b46`. Aucun fichier n'a été envoyé.
 
 ### Étendue du complément — à arbitrer avant l'assemblage final
 
@@ -81,13 +81,13 @@ Un commentaire récent de #131 demande aussi l'inclusion intégrale de l'amendem
 
 ### Statut des voies et calendrier — UNKNOWN à lever par #149
 
-Le fait qu'une réponse aux questions des 15/16 septembre soit incomplète ne suffit pas, à lui seul, à établir un refus CADA. Il faut relier chaque document administratif nommé à la demande, à la preuve de réception par le service compétent, à la réponse partielle ou au refus, et au délai applicable. Les demandes relatives au dossier juridictionnel du TA suivent une autre analyse.
+Une réponse aux confirmations factuelles demandées le 15 septembre ne suffit pas, seule, à établir un refus CADA. En revanche, les courriels vérifiés établissent une demande préfectorale reçue le 14 septembre comprenant des demandes documentaires en partie C, puis une demande ciblée du 16 septembre (arrêté, dates, lieu, quantités, modalités) à laquelle la Préfecture a répondu le 16 au soir par le lien vers l'arrêté. Pour les éléments identifiables non communiqués après comparaison avec cet arrêté, le mois de R. 311-13 est échu autour du 14/16 octobre. La saisine CADA peut être préparée maintenant; son propre délai de deux mois au titre de R. 343-1 est distinct et son point de départ doit être vérifié compte tenu du possible refus partiel du 16 septembre. P-22 reste à échéance autour du 25 octobre. Les demandes relatives au dossier juridictionnel du TA suivent une autre analyse.
 
 ## Prochaine convergence opératoire
 
-1. Faire intégrer le plan documentaire corrigé dans le vrai composeur et vérifier le rendu : texte complet dans le courriel, deux PDF joints à l'email, trois PDF et la vidéo dans le lot TransfertPro.
+1. Faire intégrer le plan documentaire corrigé dans le vrai composeur et vérifier le rendu : texte complet dans le courriel, trois PDF joints à l'email, ces mêmes trois PDF et la vidéo dans le lot TransfertPro.
 2. Faire remonter #149 dans le mandat et l'ordonnancement de #127 ; corriger les décomptes et les dépendances de #133/#134 sans réécrire l'historique des anciens commentaires.
-3. Faire résoudre par #149 la qualification des demandes du 15/16 septembre et des demandes ultérieures, une ligne par catégorie de document ; ne pas anticiper l'avis CADA.
+3. Faire achever sans délai dans #149 le périmètre des documents non communiqués après comparaison de l'arrêté, les annexes de preuve et le projet de saisine CADA; retenir par prudence le point de départ le plus précoce plausible. Aucun envoi sans autorisation.
 4. Dans #133, qualifier les ajouts d'amendement et d'étude historique au regard du périmètre de la procédure, et ne les assembler qu'avec un lien explicite aux griefs initiaux ou une décision humaine distincte.
 5. Garder `filing_ready=false` jusqu'à contrôle adverse, vérification des fichiers, de leur identité et de la confidentialité, et validation humaine. Aucun envoi n'est autorisé par ce checkpoint.
 
