@@ -11,7 +11,7 @@ document_role: source
 document_kind: research-note
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/controle_1880_et_alinea_organique_2026.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/controle_1880_et_alinea_organique_2026.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
