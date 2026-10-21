@@ -48,17 +48,17 @@ jobs:
         shell: bash
         run: |
           set +e
-          mkdir -p .living-books-diagnostics
+          mkdir -p living-books-diagnostics
           phase=checkout
           code=CHECKOUT_FAILED
           result=failed
           publication=not_attempted
           source_sha="$SOURCE_SHA"
           if [ "$CHECKOUT_OUTCOME" = success ]; then
-            source_sha=$(git rev-parse HEAD 2>.living-books-diagnostics/source.log)
+            source_sha=$(git rev-parse HEAD 2>living-books-diagnostics/source.log)
             phase=render
             code=RENDER_FAILED
-            python3 scripts/build-living-books-news-previews.py >.living-books-diagnostics/render.log 2>&1
+            python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1
             rc=$?
             if [ "$rc" -eq 0 ]; then
               phase=validate
@@ -69,7 +69,7 @@ jobs:
                   test -s "previews/en-preparation/$name.html"
                 done
                 python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
-              ) >.living-books-diagnostics/validate.log 2>&1
+              ) >living-books-diagnostics/validate.log 2>&1
               rc=$?
               if [ "$rc" -eq 0 ]; then
                 if [ "$REF_NAME" = "refs/heads/main" ]; then
@@ -84,15 +84,15 @@ jobs:
                         echo "Retry $attempt: refresh from origin/main after rejected push"
                         git fetch origin main || exit $?
                         git reset --hard origin/main || exit $?
-                      ) >>.living-books-diagnostics/publish.log 2>&1
+                      ) >>living-books-diagnostics/publish.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then
                         break
                       fi
-                      source_sha=$(git rev-parse HEAD 2>>.living-books-diagnostics/source.log)
+                      source_sha=$(git rev-parse HEAD 2>>living-books-diagnostics/source.log)
                       phase=render
                       code=RENDER_FAILED
-                      python3 scripts/build-living-books-news-previews.py >.living-books-diagnostics/render.log 2>&1
+                      python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then
                         break
@@ -105,7 +105,7 @@ jobs:
                           test -s "previews/en-preparation/$name.html"
                         done
                         python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
-                      ) >.living-books-diagnostics/validate.log 2>&1
+                      ) >living-books-diagnostics/validate.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then
                         break
@@ -124,10 +124,10 @@ jobs:
                         git commit -m "build(living-books): refresh public working previews [skip ci]"
                         git push origin HEAD:main
                       fi
-                    ) >>.living-books-diagnostics/publish.log 2>&1
+                    ) >>living-books-diagnostics/publish.log 2>&1
                     rc=$?
                     if [ "$rc" -eq 0 ]; then
-                      if grep -q "Working pages already current" .living-books-diagnostics/publish.log; then
+                      if grep -q "Working pages already current" living-books-diagnostics/publish.log; then
                         publication=unchanged
                       else
                         publication=updated
@@ -163,7 +163,7 @@ jobs:
               "source_sha": os.environ["SOURCE_SHA"],
               "diagnostics": ["source.log", "render.log", "validate.log", "publish.log"],
           }
-          path = Path(".living-books-diagnostics/receipt.json")
+          path = Path("living-books-diagnostics/receipt.json")
           path.write_text(json.dumps(receipt, indent=2) + "\n", encoding="utf-8")
           print(json.dumps(receipt))
           PY
@@ -177,7 +177,7 @@ jobs:
         with:
           name: living-books-public-working-${{ github.run_number }}
           path: |
-            .living-books-diagnostics/
+            living-books-diagnostics/
             previews/en-preparation/
           if-no-files-found: warn
           retention-days: 30
