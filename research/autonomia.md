@@ -29,12 +29,12 @@ provenance:
   origin_ref: unknown
   origin_date: unknown
   derived_from: []
+---
+
+
 ## Passerelle historique — Paoli, Révolution et effectivité
 
 [Paoli et la France révolutionnaire : étude des principes et de leur effectivité](autonomia/paoli_france_revolutionnaire_effectivite.md). Cette passerelle ouvre un dossier probatoire autonome : elle ne constitue pas une preuve d'influence constitutionnelle directe ni une assimilation des normes de 1793 aux normes actuelles.
-
----
-
 
 # Autonomia[^titre]
 <!-- BEGIN_AUTO: trails -->
@@ -154,6 +154,10 @@ Premièrement, il montre que l’autonomie peut précéder la reconnaissance for
 Deuxièmement, il montre que les capacités produisent une mémoire institutionnelle. La défaite militaire de Ponte Novu en 1769 met fin à l’expérience paolienne comme pouvoir effectif, mais non comme référence politique, constitutionnelle et intellectuelle. Le corpus politique survit à l’échec militaire.
 
 Cette observation est importante : une capacité construite peut laisser des traces transmissibles même lorsqu’elle n’aboutit pas immédiatement à une stabilisation institutionnelle.
+
+### Subsidiarité ascendante et souveraineté coopérative
+
+L'autonomie ne se confond ni avec l'indépendance étatique, ni avec l'autarcie. Dans la doctrine du [Noyau doctrinal — Rendre Capable](noyau_doctrinal_rendre_capable.md), « une fédération sans possibilité de sortie devient une capture » et « une autonomie sans coordination devient une impuissance » : la subsidiarité est **ascendante** lorsque les capacités locales sont présumées premières et que la coordination à une échelle supérieure répond à un besoin établi, sans dessaisissement injustifié. Le chapitre [Subsidiarité rendue effective](../projects/capable/manuscript/02-subsidiarite-rendue-effective.md) précise que le niveau supérieur doit fournir les moyens qui manquent à l'inférieur avant de se substituer à lui. Ce cadre éclaire le débat sur les pouvoirs normatifs de la Corse : compétence, ressources, contrôle, réversibilité et coopération doivent être examinés ensemble. Il ne faut pas assimiler, sur le plan juridique, autonomie territoriale et souveraineté de l'État.
 
 ## 2.2. Des luttes foncières à la clandestinité nationaliste contemporaine
 
