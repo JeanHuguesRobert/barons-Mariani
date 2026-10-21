@@ -42,6 +42,6 @@ Réviser ce paragraphe après le 25 octobre : le retirer ou le mettre à jour si
 - CRPA, article R. 343-1 : https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000031370507/2026-05-30
 - CRPA, article L. 342-1 : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045213381/
 - Ordonnance organique n° 58-1067, articles 42–43 : https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705065/2026-07-02
-- Guide pratique de recevabilité CEDH : https://www.echr.coe.int/documents/604084/839313/Admissibility_Guide_ENG.pdf/b3efb9b3-63a7-52e8-c26f-b50f683a3750?download=true&t=1736346654355&version=5.0
+- Guide pratique de recevabilité CEDH, version mise à jour au 31 août 2025 : https://www.echr.coe.int/documents/604084/839313/Admissibility_guide_ENG.pdf/b3efb9b3-63a7-52e8-c26f-b50f683a3750?download=true&t=1763116070636&version=8.0
 
 **Statut :** projet conditionnel ; `CADA_filed=false`, `filing_ready=false`. Aucun envoi effectué.
