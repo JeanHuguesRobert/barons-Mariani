@@ -263,6 +263,22 @@ Le prochain processeur reçoit pour mandat de :
 
 Il ne reçoit pas autorité pour publier, réécrire silencieusement la source ou arbitrer les propositions reçues. Le retour attendu est une critique structurée ; Jean Hugues Noël Robert demeure l'autorité d'acceptation.
 
+## Cas d'application — silence représentatif, spectacle et effectivité (21 octobre 2026)
+
+**Point de départ vérifiable.** Des contributions citoyennes sur l'autonomie de la Corse ont été envoyées à six parlementaires corses les **24 et 29 mai 2026**. Le [registre public des interactions](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) ne relevait pas de réponse de ces destinataires au **21 septembre 2026**. L'auteur indique le **21 octobre** que cette absence persiste, mais une tentative de nouvelle recherche Gmail a échoué ; ce dernier état n'est **pas indépendantement revérifié**. D'autres institutions ont au contraire répondu : la commission des lois de l'Assemblée nationale a proposé la voie d'une contribution écrite, tandis que celle du Sénat a demandé un document Word, accusé réception et transmis un questionnaire. **La divergence entre canaux compte davantage que toute généralisation sur « les élus ».**
+
+**Lecture inspirée de Debord, non attribution d'une intention.** Dans *La Société du spectacle* (1967), la représentation peut acquérir une autonomie telle que les personnes représentées ne disposent plus de prises effectives sur le circuit de décision. Cette notion sert ici d'**hypothèse d'analyse** : la sollicitation peut être publiquement possible mais pratiquement peu opérante si elle n'ouvre ni réception attestée, ni examen identifiable, ni retour motivé. Un silence observé ne prouve toutefois ni mépris individuel, ni volonté de conserver une position, ni coordination des destinataires ; les contraintes de travail, de routage, d'agenda et d'attribution constituent d'autres explications possibles.
+
+**Notion proposée par l'auteur : « Médiocratie ».** L'expression désigne ici, à titre critique et exploratoire, une organisation où les mécanismes de sélection et de visibilité pourraient privilégier la conservation des positions et la médiation des images plutôt que l'évaluation ouverte des contributions selon leurs mérites. **Ce n'est pas une catégorie empirique démontrée** à partir de six non-réponses. Pour distinguer la thèse de l'invective, il faut tester séparément : taux de réponses selon la nature des demandes, délais, critères publics de tri, existence de relais administratifs, traçabilité des décisions et possibilités de correction.
+
+**Du spectacle à la régie :** le contre-dispositif n'est pas de rendre tout courrier obligatoirement favorable, ni de confondre courtoisie et droit opposable. Il consiste à rendre explicites les étapes du canal : *envoyé → reçu → routé → examiné → décidé → motivé → suite observable*, avec mention de ce que chaque étape **ne prouve pas**. Ce protocole de traçabilité aide à distinguer une représentation simplement visible d'une capacité réelle à influer sur le processus institutionnel, sans préjuger de la décision substantielle.
+
+**Expérience contemporaine circonscrite :** le [Cognitive Packet #145](https://github.com/JeanHuguesRobert/barons-Mariani/issues/145) organise la présentation éventuelle d'un [amendement d'effectivité à l'article 72-5](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md). L'issue permet de mesurer l'accès réel aux procédures de médiation parlementaire ; elle ne transforme ni l'amendement ni sa réception en preuve de la doctrine debordienne. Il faut notamment distinguer la **participation attestée** de l'**influence démontrée** sur le texte.
+
+**Critères de contradiction :** une réponse substantielle, même négative, peut établir une capacité du canal à instruire ; un accusé automatique n'établit pas l'examen ; une contribution mentionnée dans un rapport ne démontre pas son influence sur les arbitrages ; un amendement effectivement déposé ne démontre pas son adoption ni son effectivité. Comparer ces états, et non des intentions supposées, permet de passer d'une critique du spectacle à une enquête falsifiable sur la capacité institutionnelle.
+
+[Développement méthodologique connexe : *La démocratie spectaculaire*](./la_democratie_spectaculaire.md). [Illustration littéraire distincte : *Le théâtre des pays imaginaires de Corse*](./autonomia/theatre_pays_imaginaires_corse_beauvau.md).
+
 ## Continuation
 
 ```yaml
