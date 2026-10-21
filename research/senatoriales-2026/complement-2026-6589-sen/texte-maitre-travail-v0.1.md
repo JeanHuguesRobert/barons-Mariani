@@ -46,15 +46,17 @@ related_documents:
 
 Le Markdown conservé dans GitHub est **la source souveraine** du mémoire complémentaire ; les rendus ne sont pas des sources concurrentes. Le commit précis et l'URL source sont conservés dans le dossier et cités dans le corps des deux représentations communiquées au greffe.
 
-**Canal 1 — courriel :** corps en **texte brut intégral**, avec indication explicite qu'un **PDF richement formaté du même mémoire** est joint au courriel. Le corps textuel mentionne l'identité documentaire du PDF, son nom, sa taille et son SHA-256 lorsqu'ils sont calculés, ainsi que l'URL et le commit du Markdown source. Il convient de vérifier la bonne réception de la pièce jointe ; son expédition ne prouve ni son ouverture ni son examen.
+**Canal 1 — courriel :** corps en **texte brut intégral**, avec **trois PDF en pièces jointes** : (1) le PDF englobant du mémoire complémentaire, qui reproduit intégralement les deux QPC ; (2) le PDF autonome QPC L.299 ; (3) le PDF autonome QPC L.303. Le corps textuel annonce les trois pièces jointes et mentionne, pour chacune, nom, taille et SHA-256 calculés, ainsi que l'URL et le commit des sources Markdown. La vidéo est prévue sur TransfertPro. Il convient de vérifier la bonne réception de chaque pièce jointe ; son expédition ne prouve ni son ouverture ni son examen. Si une contrainte de taille empêche les trois pièces jointes, signaler le blocage et faire arbitrer le canal sans supprimer silencieusement un PDF.
 
 **Canal 2 — TransfertPro :** dépôt de **quatre fichiers** : (1) le **même PDF consolidé**, identique octet pour octet à la pièce jointe du courriel ; (2) le PDF autonome QPC L.299 ; (3) le PDF autonome QPC L.303 ; (4) la vidéo P-13 du 11 septembre 2026, identifiée séparément par nom, taille et empreinte. Il ne s'agit plus d'un fichier texte miroir dans TransfertPro.
 
+**Double présence voulue des QPC :** le PDF englobant contient une copie intégrale de chacun des deux mémoires, en plus des deux PDF autonomes. Les mêmes versions des sources QPC alimentent le corps du courriel, leurs sections dans le PDF englobant et les PDF distincts ; cette redondance de présentation est intentionnelle. Le total TransfertPro reste **trois PDF et une vidéo**.
+
 **Contrôle de concordance :**
 - le corps du courriel est un rendu textuel du même contenu juridique que le PDF ;
-- le PDF joint et le PDF déposé sur TransfertPro sont **binaires identiques** (SHA-256 égales sur les octets réels) ;
+- chacun des **trois PDF joints** est **binairement identique** à son homologue déposé sur TransfertPro (SHA-256 égales sur les octets réels) ;
 - le texte brut et le PDF citent **la même URL GitHub et le même commit source** ;
-- le corps textuel et le PDF annoncent explicitement l'existence du PDF joint au courriel et les quatre fichiers prévus au dépôt TransfertPro ;
+- le corps textuel et le PDF annoncent explicitement les **trois PDF joints au courriel**, la reproduction intégrale des deux QPC dans le PDF englobant et les **quatre fichiers** prévus sur TransfertPro ;
 - les métadonnées internes de préparation, notes d'agent, TODO et frontmatter ne doivent pas être présentées comme assertions juridictionnelles ;
 - le gel des rendus exige validation des deux QPC, des griefs G1–G5, de la provenance des pièces, du bordereau et de la revue adverse.
 
@@ -124,7 +126,7 @@ Le mémoire QPC **L.303** est la source autonome : [mémoire distinct L.303](../
 
 **Règle de compilation :** inclure à ces deux emplacements le corps intégral, sans frontmatter technique, de chacune des deux sources. Les deux unités doivent conserver leurs titres « MÉMOIRE DISTINCT ET MOTIVÉ », leurs développements, conclusions et démarcations visuelles, dans le message textuel intégral **et** le PDF consolidé.
 
-**Sorties supplémentaires :** générer, à partir de chaque source QPC, un PDF individuel distinct. Le dépôt projeté devient : courriel texte intégral avec PDF consolidé joint ; TransfertPro contenant PDF consolidé, PDF QPC L.299, PDF QPC L.303 et vidéo P-13. Les PDF QPC individuels sont également à joindre au courriel si leur taille et les contraintes du canal le permettent, et doivent être nommés explicitement dans les deux rendus. Vérifier les octets, les empreintes et les accusés de chaque fichier. Ne pas inférer la recevabilité du seul découpage matériel.
+**Sorties supplémentaires :** générer, à partir de chaque source QPC, un PDF individuel distinct, en plus de sa reproduction intégrale dans le PDF englobant. Le courriel contient le texte intégral et **trois PDF joints** : englobant, QPC L.299, QPC L.303. TransfertPro contient **ces trois mêmes PDF et la vidéo P-13**, soit quatre fichiers. Nommer explicitement les trois PDF dans les deux rendus ; vérifier les octets, les empreintes et les accusés de chaque fichier. Une contrainte du canal est un blocage à résoudre, pas une autorisation d'omettre une pièce jointe. Ne pas inférer la recevabilité du seul découpage matériel.
 
 ## VIII. Bordereau et notes de provenance
 
@@ -140,6 +142,8 @@ Il sollicite un examen juridictionnel effectif de son recours. La possibilité d
 
 - [ ] Comparer le PDF initial effectivement déposé avec la requête canonique et le relevé de ses pièces.
 - [ ] Insérer **en entier** les deux mémoires QPC, vérifier la condition de mémoires distincts et motivés.
+- [ ] Vérifier les deux QPC intégrales dans le PDF englobant et leur concordance de version avec les deux PDF autonomes.
+- [ ] Vérifier **trois PDF joints au courriel** et **les trois mêmes PDF plus la vidéo sur TransfertPro** ; comparer les trois paires d'empreintes et annoncer chaque fichier.
 - [ ] Compléter le bordereau de provenance et minimiser les éléments personnels.
 - [ ] Vérifier le fichier vidéo natif, son intégrité, sa taille et le canal TransfertPro.
 - [ ] Effectuer revue adverse du texte complet ; repasser les tests 15–17 du cahier des charges.

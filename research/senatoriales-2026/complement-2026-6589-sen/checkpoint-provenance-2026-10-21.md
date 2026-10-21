@@ -130,6 +130,8 @@ Validation tooling: the attempted Cogentia command `frontmatter verify <path> --
 
 ## 7. Native acquisition and transcript integration — resumption
 
+**Subsequent Principal clarification, 21 October:** the intended TransfertPro set is exactly **one video and three PDFs**. The encompassing supplement PDF must include both QPC memoranda in full, in addition to their separate PDFs. The email must attach **all three PDFs**, with the same bytes as their TransfertPro counterparts; its full text also includes the QPC bodies. The master draft, editorial contract and rendering controls now state this explicitly. Any channel-size problem is a blocker to resolve, not permission to omit a QPC attachment. This clarifies the production contract; final PDFs and sending remain outstanding.
+
 Scope: #131 under the operational update in [comment 6315297160](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131#issuecomment-6315297160), with P-13 shared with #132. The Principal resumed this same issue and requested inclusion of the existing faithful video transcript through its provenance note. This update prepares the contribution for #133/#134; it neither closes #131 nor creates a court delivery. `filing_ready=false`.
 
 ### Actual acquired objects

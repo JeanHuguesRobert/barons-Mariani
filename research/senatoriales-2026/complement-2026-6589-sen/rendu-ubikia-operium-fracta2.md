@@ -39,7 +39,7 @@ Quarto demeure un backend, pas une autorité sémantique du Corpus.
 2. `../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md` : QPC L.299 autonome.
 3. `../qpc/memoire-qpc-l303-garanties-juridictionnelles.md` : QPC L.303 autonome.
 
-Les copies de travail, QMD et PDF sont exclusivement des **projections**. Les frontmatters canoniques restent dans les sources. Les deux mémoires QPC doivent aussi exister en PDF autonome, non seulement en sous-parties de la consolidation.
+Les copies de travail, QMD et PDF sont exclusivement des **projections**. Les frontmatters canoniques restent dans les sources. Les deux mémoires QPC sont reproduits **intégralement dans le PDF englobant** et existent **chacun en PDF autonome**. Les mêmes versions des sources alimentent ces trois PDF et le corps textuel du courriel.
 
 ## Pipeline de sortie
 
@@ -84,9 +84,9 @@ Vérifier les versions et permissions ; ensuite effectuer **un rendu draft isol�
 
 1. Trois sources souveraines et leur commit exact enregistrés ; frontmatters vérifiés avec l'outil Cogentia.
 2. Les QPC apparaissent **intégralement**, sans copier les frontmatters techniques dans le document à remettre.
-3. Courriel : texte brut intégral et annonce explicite des **trois PDF** ; PDF consolidé joint, autres PDF joints si permis.
-4. TransfertPro : PDF consolidé, PDF L.299, PDF L.303 et vidéo P-13 ; conserver chaque preuve de dépôt/réception séparément.
-5. PDF consolidé du courriel **identique octet pour octet** au PDF consolidé sur TransfertPro.
+3. Courriel : texte brut intégral et **trois PDF joints**, explicitement annoncés : PDF englobant contenant les deux QPC intégrales, PDF autonome L.299 et PDF autonome L.303. Si une limite de taille empêche ce lot, signaler le blocage sans omission silencieuse.
+4. TransfertPro : **quatre fichiers**, soit les trois mêmes PDF et la vidéo P-13 ; conserver chaque preuve de dépôt/réception séparément.
+5. Chacun des **trois PDF du courriel** est **identique octet pour octet** à son homologue sur TransfertPro ; comparer les trois paires de SHA-256. Vérifier aussi la concordance intégrale de version des QPC incluses dans le PDF englobant avec les sources de leurs PDF autonomes.
 6. URLs GitHub absolues et commit du triptyque identiques dans texte et PDFs ; contrôler les liens et les caractères accentués.
 7. Revue juridique et éditoriale de double lecture, absence de nouveau grief électoral, distinctions entre preuve et formalisme L.299.
 8. **STOP** : aucun envoi ni publication sans autorisation explicite du requérant.

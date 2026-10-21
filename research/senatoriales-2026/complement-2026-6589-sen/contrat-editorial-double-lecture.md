@@ -37,5 +37,6 @@ Chaque unité argumentative suit autant que nécessaire : **question simple → 
 5. Double projection : le courriel en texte brut et le PDF proviennent du même Markdown souverain ; les tableaux et renvois restent compréhensibles en texte brut.
 6. Traçabilité : citer l'URL absolue, le commit de la source, et établir l'identité octet par octet entre le PDF joint au courriel et le PDF déposé via TransfertPro.
 7. Prudence : distinguer force probatoire, conformité formelle, réception effective et examen juridictionnel.
+8. Distribution confirmée par le requérant le 21 octobre 2026 : le PDF englobant reproduit intégralement les deux QPC, qui existent aussi en deux PDF autonomes. Le courriel contient le texte intégral et **les trois PDF en pièces jointes** ; TransfertPro reçoit **les trois mêmes PDF et une vidéo**, soit quatre fichiers. Les trois paires de PDF doivent être identiques octet pour octet entre les canaux ; les QPC intégrées et autonomes proviennent des mêmes versions de sources. Toute limite matérielle du canal est signalée avant émission, sans omission silencieuse.
 
 Ce contrat demeure révisable selon l'anti-présentisme de FractaCognition. Toute révision est accompagnée d'un contrôle FBF des sections impactées.
