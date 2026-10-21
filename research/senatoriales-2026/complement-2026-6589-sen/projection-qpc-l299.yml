@@ -1,0 +1,17 @@
+schema: ubikia.projection.book.v0
+id: qpc-l299-sen-2026-6589
+status: working
+language: fr
+title: "Mémoire distinct et motivé — QPC L.299"
+author: "Jean Hugues Noël Robert"
+source_manifest: corpus-ubikia.yml
+chapters:
+  - ../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+outputs:
+  required: [pdf]
+render_contract:
+  canonical_source_format: markdown
+  generated_qmd_is_source: false
+  preserve_frontmatter_provenance: true
+  preserve_epistemic_distinctions: true
+  frozen_release_mutable: false
