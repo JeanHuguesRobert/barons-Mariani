@@ -1,0 +1,52 @@
+name: SEN 2026-6589 document composition receipt
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/sen-2026-6589-preview.yml'
+permissions:
+  contents: read
+jobs:
+  compose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Supervised composition and source checks
+        shell: bash
+        run: |
+          mkdir -p sen-result
+          python3 - <<'PY'
+          import json, pathlib, subprocess, traceback
+          out = pathlib.Path('sen-result')
+          command = ['python3','scripts/sen-2026-6589-build.py','--compose-only','--out','/tmp/sen-2026-6589-ci']
+          result = {'phase':'composition','status':'unknown','command':command}
+          try:
+              p = subprocess.run(command, text=True, capture_output=True, timeout=120)
+              (out/'execution.log').write_text(p.stdout + '\n---stderr---\n' + p.stderr, encoding='utf-8')
+              result['returncode'] = p.returncode
+              generated = pathlib.Path('/tmp/sen-2026-6589-ci/complement-integral.preview.md')
+              result['generated'] = generated.is_file()
+              if generated.is_file():
+                  text = generated.read_text(encoding='utf-8')
+                  result['qpc_heading_count'] = text.count('MÉMOIRE DISTINCT ET MOTIVÉ')
+                  result['bytes'] = generated.stat().st_size
+                  (out/'complement-integral.preview.md').write_text(text, encoding='utf-8')
+              result['status'] = 'passed' if p.returncode == 0 and result.get('qpc_heading_count',0) >= 2 else 'failed'
+              manifest = pathlib.Path('/tmp/sen-2026-6589-ci/composition.preview.json')
+              if manifest.is_file():
+                  (out/'composition.preview.json').write_bytes(manifest.read_bytes())
+          except Exception:
+              result['status'] = 'failed'
+              (out/'execution.log').write_text(traceback.format_exc(), encoding='utf-8')
+          (out/'result.json').write_text(json.dumps(result,indent=2,ensure_ascii=False)+'\n',encoding='utf-8')
+          print(json.dumps(result,ensure_ascii=False))
+          PY
+      - name: Upload typed receipt regardless of task outcome
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: sen-2026-6589-composition-receipt
+          path: sen-result/
+          if-no-files-found: warn
+          retention-days: 14
