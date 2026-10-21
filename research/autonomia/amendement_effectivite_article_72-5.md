@@ -890,3 +890,56 @@ Elle appelle un nouveau test adverse centré sur quatre questions :
 > **Liberté, Égalité, Fraternité. Effectivité.**
 
 > **Une autonomie constitutionnelle n’est pleinement une autonomie de capacité que si les facultés qu’elle ouvre disposent de conditions réelles d’exercice, si cet exercice est observé dans la durée et si ses effets peuvent être appréciés au regard de l’effectivité des finalités républicaines qu’il doit servir.**
+
+
+---
+
+## Annexe de travail — registre souverain des options pour les revues (21 octobre 2026)
+
+**Portée et gouvernance.** Cette annexe consolide les **options non arbitrées** dans le document de référence, afin que les revues successives examinent le même ensemble. **Elle ne modifie ni la rédaction parlementaire candidate v0.5-rc1 ci-dessus, ni son statut, ni l'état de transmission/dépôt.** Une option proposée n'est ni un amendement déposé, ni un choix du Principal, ni une conclusion juridique validée. Les rédactions concurrentes demeurent des *objets de test* ; toute substitution au texte candidat exige un arbitrage explicite.
+
+### 1. Problème normatif commun et acquis
+
+- Le projet d'article 72-5 organise des **facultés d'habilitation**, avec contrôle et évaluation des normes produites. Cela ne démontre pas une obligation de traiter en temps utile **toutes les demandes**, ni d'évaluer les refus, les délais, le non-recours et les conséquences concrètes pour les habitants.
+- Le **CGCT L.4422-16 V bis**, déjà en vigueur, prévoit l'accusé de réception par le Premier ministre et un rapport annuel public ; la recherche n'a pas permis de localiser tous les rapports attendus, ce qui **ne prouve pas leur inexistence**. Le mécanisme ne donne pas, à lui seul, un délai général de réponse motivée.
+- Le député **Ugo Bernalicis et cosignataires** ont déjà proposé une obligation de réponse motivée : CL12, puis **amendement de séance n° 43**, dont la rédaction évite le renvoi direct au CGCT ; les deux ont été retirés. Il serait inexact d'attribuer cette idée comme innovation propre à la présente proposition.
+- Quatre opérations restent juridiquement distinctes : **demander**, **recevoir une réponse motivée**, **obtenir une habilitation**, **mesurer les effets sur les capacités réelles des personnes**. La deuxième n'implique ni la troisième ni une injonction faite au Parlement de légiférer.
+- Les chiffres issus des rapports Boudié et Josende ont des **périmètres distincts** et ne doivent pas être fusionnés.
+
+### 2. Registre comparatif des voies possibles
+
+| Option | Technique | Gain recherché | Limite ou test décisif | État |
+| --- | --- | --- | --- | --- |
+| **0 — Projet inchangé** | Ne pas amender la Constitution ; organiser les procédures dans les lois existantes ou à venir | Moindre delta ; souplesse institutionnelle | Quelle obligation existe effectivement si la loi organique se tait ? | Contre-hypothèse obligatoire |
+| **A — v0.5-rc1** | Réécriture ciblée de la première phrase de l'alinéa organique et ajout de l'évaluation périodique du régime au regard de Liberté, Égalité, Fraternité | Constitutionnaliser la mise en œuvre et l'évaluation des capacités | Pas de délai de réponse motivée explicite ; risque d'indétermination | **Seule candidate historique conservée ; non remplacée** |
+| **B — Garantie développée** | Prévoir enregistrement, instruction, réponse motivée dans un délai, publicité et évaluation des effets | Chaîne procédurale et capacitaire observable | Débiteur de la réponse, procédure parlementaire, compétence du juge et coût | Brouillon comparatif |
+| **C — Garantie minimale** | Insérer une phrase imposant à la loi organique d'organiser examen, réponse motivée et délai | Petit delta constitutionnel sur le silence | Objectif d'effectivité et évaluation du régime moins explicites | Repli à éprouver |
+| **D — Garantie directe** | Constitution : « L'État est tenu de répondre… » (logique du n° 43), modalités précisées par la loi | Obligation de réponse moins dépendante d'un simple renvoi organique | Quelle autorité répond à quoi, sans imposer un vote parlementaire ? | Antériorité parlementaire ; non retenue |
+| **D+ — Garantie directe renforcée** | D + traçabilité, publicité des suites, délais et traitement explicite du silence, selon modalités à préciser | Vérifiabilité institutionnelle accrue | Redondance avec le V bis, sanction et partage Gouvernement/Parlement | **Schéma de travail**, rédaction exacte à stabiliser |
+| **E — Combinaison procédurale et capacitaire** | D + obligation d'évaluation périodique publique du régime, de ses suites et de ses effets, sans octroi automatique | Joint le *devoir de réponse* à l'*observation des effets* | Densité constitutionnelle, séparation des pouvoirs, portée du mot « État » et placement exact | **Brouillon à soumettre à revue ; non arbitré** |
+| **O — Solution organique seule** | Ne pas modifier 72-5 ; prévoir par loi organique (dans son domaine) les modalités de traitement, de suivi et d'évaluation | Réduire l'ampleur de la révision constitutionnelle | Une telle loi organique a-t-elle une base suffisante ? Peut-elle créer tous les devoirs envisagés ? | Contre-épreuve à rédiger précisément |
+
+Les variantes A/B/C sont développées dans [la note de comparaison](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md). L'antériorité de D est détaillée dans [l'analyse CL12/43](../devise_republicaine/CL12_43_comparaison_et_delai.md). D+ et E sont ici consolidées comme **pistes** ; ne pas leur prêter une rédaction définitive ou une validation antérieure non établie.
+
+### 3. Variante E — rédaction de travail à éprouver, non candidate adoptée
+
+> L'État garantit l'examen des propositions et demandes de l'Assemblée de Corse ainsi qu'une réponse motivée dans un délai déterminé. La loi organique précise les modalités de cette garantie, dans le respect des compétences des autorités concernées. Elle prévoit une évaluation publique et périodique de la mise en œuvre du présent article, notamment des demandes, des décisions prises et de leurs effets sur l'effectivité de la liberté, de l'égalité et de la fraternité.
+
+**Réserves sur cette formulation :** ce bloc n'est **pas** une instruction de remplacer l'alinéa 6 par ces seules phrases. Avant toute rédaction institutionnelle, il faut en vérifier la place exacte, préserver **l'intégralité** du contrôle du Conseil d'État et du Conseil constitutionnel, les conditions de non-régression et les limites aux habilitations, et déterminer si « l'État » est un débiteur procédural suffisamment identifié. Les « propositions et demandes » de l'Assemblée débordent les demandes d'habilitation stricto sensu : comparer cette extension au champ réel du dispositif. Une réponse de l'exécutif ne saurait valoir décision du Parlement.
+
+### 4. Matrice de revue contradictoire — mêmes tests pour toutes les options
+
+1. **Delta démontré :** quel devoir précis la rédaction impose-t-elle que le projet et le CGCT n'imposent pas déjà ? Quelle disposition suffit éventuellement à droit constant ou dans la loi organique ?
+2. **Imputabilité :** qui accuse réception, instruit, motive, publie et rend compte, selon qu'une demande relève de l'exécutif, du législateur ou de la Collectivité ?
+3. **Délais et silence :** quel point de départ, quelle durée, quelles exceptions légitimes, quelle preuve du défaut de réponse, quelle conséquence licite du silence ? **Aucune habilitation tacite présumée**.
+4. **Constitutionnalité institutionnelle :** ne pas imposer subrepticement un vote, une inscription à l'ordre du jour ou un calendrier parlementaire incompatible avec les prérogatives des assemblées.
+5. **Vérifiabilité :** suivre la chaîne *demande → instruction → réponse/décision → éventuelle norme → application → effets pour les habitants* ; distinguer refus justifié, inertie administrative et absence volontaire de demande.
+6. **Protection et publicité :** documenter ce qui peut être publié tout en préservant les secrets et données légalement protégés.
+7. **Proportionnalité :** comparer complexité, coût, risques de contentieux et gain normatif vérifiable par rapport à l'option 0 et à la solution O.
+8. **Intégrité légistique :** collation littérale avec le texte sénatorial pertinent ; garanties déjà prévues conservées ; distinguer la réécriture d'une phrase de celle d'un alinéa entier.
+
+### 5. Gouvernance de la suite
+
+**Statut de ce registre : JUDGMENT_REQUIRED.** Aucune option B–E/O n'est approuvée ou déposée ; la version v0.5-rc1 n'a pas changé. La revue interne ne vaut pas expertise juridique indépendante. Le Reviewer devra pouvoir **rejeter toutes les modifications**, retenir une solution organique, demander un repli minimal ou recommander une combinaison. Le Redactor documentera, pour chaque objection, son traitement et les conséquences textuelles. Une décision du Principal sera requise **avant substitution à la candidate, transmission institutionnelle ou revendication d'une validation indépendante**.
+
+**Sources de travail internes :** [revue contradictoire](../devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md), [rapport de complétion Redactor](../devise_republicaine/redactor_completion_review_interne_72_5.md), [audit CGCT V bis](../devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md), [note responsabilités et recours](../devise_republicaine/recours_et_responsabilites_partagees_L4422_16_2026.md), [packet de revue #141](https://github.com/JeanHuguesRobert/barons-Mariani/issues/141), [amendement AN n°43](https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43).
