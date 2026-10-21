@@ -96,6 +96,12 @@ Ce constat illustre la [capture relationnelle par architecture de canal et l'asy
 5. Générer le volume complet en conservant les références P-46, P-22 et P-29 et en explicitant l'ajout des sous-annexes nouvelles.
 6. Mettre à jour #131 ; préparer l'intégration #133 et la revue #134 ; **`filing_ready=false` jusqu'au contrôle des fichiers définitifs**.
 
+### Fondement et portée des mesures d'instruction demandées
+
+La requête initiale demande déjà expressément, à son dispositif, point 3, d'« ordonner avant-dire droit », sur le fondement de l'article 42 de l'ordonnance organique n° 58-1067, plusieurs mesures précises : journaux ou métadonnées d'acheminement de P-12, pièces relatives au dossier transmis au TA, éléments matériels de l'audience, et autres sources identifiées dans la requête ([texte de la requête, dispositif](../../requete-conseil-constitutionnel.md#L1689)). Son corps demande également les traces de l'audience, la minute signée et l'identification des pièces examinées ([développement sur P-17/P-20](../../requete-conseil-constitutionnel.md#L1336)).
+
+L'article 42 prévoit que le Conseil et ses sections « peuvent, le cas échéant » ordonner une enquête et se faire communiquer les documents et rapports ayant trait à l'élection ([texte en vigueur sur Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000705065/2024-02-06/)). Il s'agit d'un pouvoir d'instruction discrétionnaire, non d'une obligation de diligenter chaque mesure demandée. L'article 43 prévoit aussi des mesures d'instruction sur place. La notice et tout complément doivent donc présenter les vérifications souhaitées comme des demandes ciblées visant à résoudre des inconnues matérielles, sans prétendre que le Conseil est tenu de les ordonner ni que leur exécution est acquise.
+
 **Aucune transmission n'a été effectuée.**
 
 ## 7. Contrôle complémentaire du 21 octobre 2026 — index, réponses et droit cité
