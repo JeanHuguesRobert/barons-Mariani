@@ -40,7 +40,7 @@ review:
 | V | texte constitutionnel 72-5 ; citation intégrale v0.7 ; gain régime/normes ; limites ; CGCT ; non dépôt | V, question commune puis texte intégral | PASS ciblé ; clause inchangée |
 | VI | non-recours ; égalité réelle ; fraternité non paternaliste ; traces négatives ; Debord ; évaluation révisable ; exemple citoyen | VI, questions ordinaires + critiques et sources | PASS ciblé ; réserve jugement/évaluation maintenue |
 | VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII, intact provisoirement | PENDING : réécriture + non-perte |
-| VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII, intact provisoirement | PENDING ; éventuelle annexe critique sans supprimer |
+| VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII, narration + six niveaux de preuve, 1790/1793/1848/1880/1946–58/2018, trois erreurs et sources | PASS ciblé ; collation exhaustive à finaliser (commit 1d0c86b) |
 | IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX, intact provisoirement | PENDING |
 | X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X, intact provisoirement | PENDING ; I-1 load-bearing |
 | XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI, intact provisoirement | PENDING |
@@ -75,3 +75,8 @@ review:
 ## Condition de promotion
 
 La transformation finale ne peut être dite « sans perte sémantique » qu'après collation chapitre par chapitre des micro-propositions, citations, contre-exemples, limites et sources ; revue des ajouts et modifications de niveau de certitude ; relecture contradictoire indépendante et arbitrage humain des points ouverts. Une réduction en longueur ne vaut pas à elle seule une simplification réussie.
+
+
+### Checkpoint du chapitre VIII — 21 octobre 2026
+
+[Commit 1d0c86b](https://github.com/JeanHuguesRobert/barons-Mariani/commit/1d0c86b754776e9b662af64f25ae656a390dc8c5) : les six opérations (formulation/usage/inscription/norme/application/jurisprudence), les six jalons historiques 1790/1793/1848/1880/1946–58/2018, les trois risques (anachronisme, saut normatif, attribution de mobile), les qualifications des sources et les incertitudes sur 1880 sont explicitement présentes. Ajout de la seconde dimension anti-présentiste (avenir ouvert, contrefactuel non prouvé). Le contrôle est **ciblé**, il ne vaut pas certificat général de non-perte.
