@@ -34,3 +34,14 @@ Ce répertoire contient la face **Livre** de *Capable*. Le manuscrit est un prod
 Le **n°1 de Capable** documente le lancement de la campagne présidentielle 2027. Il puise dans ces chapitres sans les figer.
 
 > **Geler l’édition, jamais la projection suivante.**
+
+## Projections de diffusion — subsidiarité ascendante (21 octobre 2026)
+
+Le [chapitre 3](02-subsidiarite-rendue-effective.md) expose durablement la distinction entre autonomie et autarcie, les conditions de la coopération et la subsidiarité capacitaire ascendante. Deux documents **dérivés et asymétriques** permettent de le diffuser sans l'ériger en source doctrinale :
+
+- [Note juridique courte](../derived/2026-10-21-note-juridique-subsidiarite-ascendante.md) ;
+- [Fiche publique accessible](../derived/2026-10-21-fiche-publique-subsidiarite-ascendante.md).
+
+La source doctrinale demeure dans `research/autonomia.md` et `research/noyau_doctrinal_rendre_capable.md`. Toute projection HTML/EPUB/PDF préexistante doit être **régénérée et contrôlée** pour intégrer les modifications du 21 octobre ; ne pas prétendre que ces éditions ont été automatiquement actualisées.
+
+Coordination : [Cognitive Packet #151](https://github.com/JeanHuguesRobert/barons-Mariani/issues/151).
