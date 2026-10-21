@@ -1,1078 +1,142 @@
 ---
-title: "Amendement d’effectivité — version parlementaire et note de justification"
-subtitle: "Liberté, Égalité, Fraternité — l’effectivité comme exigence de réalité"
+title: "Amendement d’effectivité de la devise républicaine — article 72-5"
+subtitle: "Candidature rédactionnelle évolutive et dossier souverain de revue"
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Association C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
 last_modified_at: "2026-10-21"
-version: "0.5-rc1"
+version: "0.6-draft"
 status: "working-paper"
 license: "CC BY-SA 4.0"
-language: "fr"
-description: "Texte parlementaire v0.5-rc1 inchangé ; dossier souverain réunifiant options, revue contradictoire interne, objections, justifications et historique pour arbitrage."
-document_role: "source"
+language: fr
+description: "Document souverain refondu : candidate rédactionnelle actuelle, objet parlementaire, vérification du delta constitutionnel, objections contradictoires et provenance historique."
+document_role: source
 document_kind: "constitutional-amendment-note"
-visibility: "public"
-lifecycle_state: "working"
-update_policy: "UP-DEFAULT-REVIEWED"
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 target_audience:
-  - "parlementaires"
-  - "juristes publicistes"
-  - "société civile"
-target_scene: "parliamentary_review"
-document_function: "parliamentary-amendment-candidate-and-working-note"
-purpose: "Tester le plus petit delta constitutionnel permettant d’enrichir le mécanisme organique déjà prévu, sans créer une seconde architecture parallèle : mise en œuvre effective, évaluation périodique du régime et observation de ses effets sur Liberté, Égalité, Fraternité."
-legislative_snapshot: "Au 26 septembre 2026 : texte T.A. n° 318 adopté par l’Assemblée nationale le 23 juin 2026, transmis au Sénat le 24 juin 2026 sous le n° 782 ; discussion en séance publique annoncée pour le 26 octobre 2026."
+  - parlementaires
+  - juristes publicistes
+  - société civile
+target_scene: parliamentary_review
+document_function: parliamentary-amendment-candidate-and-working-note
+purpose: "Identifier la plus petite modification de l'article 72-5 projeté créant une obligation constitutionnelle vérifiable de prévoir des garanties d'effectivité de la liberté, de l'égalité et de la fraternité."
+legislative_snapshot: "Texte Sénat n° 782 transmis le 24 juin 2026, première lecture ; rédaction du projet vérifiée le 21 octobre 2026."
 review:
-  status: "unreviewed"
+  status: unreviewed
   reviewed_by: []
 changelog:
-  - "v0.3-rc1 (2026-09-26) — distinction autonomie formelle / autonomie possible / autonomie de capacité ; accès effectif aux habilitations."
-  - "v0.3-rc2 (2026-09-26) — intégration sélective d’une première revue externe Claude."
-  - "v0.3-rc3 (2026-09-26) — seconde passe Claude ; clarification article 2 ; Reality Test effectivité procédurale / capacitaire."
-  - "v0.4-rc1 (2026-09-26) — refonte après revue Grok : abandon du critère circulaire des habilitations nécessaires ; recentrage sur l’exercice effectif ; séparation entre maxime doctrinale et norme constitutionnelle."
-  - "v0.4-rc2 (2026-09-26) — intégration de la revue adverse Claude sur rc1 : levée de l’ambiguïté de « leurs effets », périodicité explicite, distinction entre évaluation des normes et évaluation du régime, retour explicite de Liberté, Égalité, Fraternité comme finalités d’effectivité sans faire de l’article 2 un fondement juridictionnel unique."
-  - "v0.4-rc3 (2026-09-26) — intégration sélective de la revue adverse Gemini : abandon de l’ajout autonome au profit d’une reformulation du mécanisme d’évaluation déjà présent ; mise en œuvre effective plutôt qu’« exercice » seul ; prise en compte neutre du non-usage ; articulation explicite entre normes, régime et Liberté-Égalité-Fraternité."
-  - "v0.4-rc4 (2026-09-26) — séparation nette entre une version parlementaire courte, conforme aux usages d’amendement, et la note de justification ; ciblage explicite de l’alinéa 6 du texte Sénat n° 782 ; ajout d’une note de traçabilité institutionnelle sur les travaux de Florent Boudié et la contribution C.O.R.S.I.C.A."
-  - "2026-10-09 — FBF : revue adverse Jimini.ai classée et options minimales explicitées, sans modification de la rédaction parlementaire candidate."
-  - "2026-10-09 — FBF : clarification explicite du statut de l’amendement ; la transmission au Sénat concerne le projet de loi n° 782 et non la proposition Baron Mariani."
-  - "v0.5-rc1 (2026-09-29) — jalon doctrinal : explicitation de l’hypothèse d’une exigence d’effectivité déjà latente et fragmentée dans le bloc de constitutionnalité ; rapprochement avec les régimes constitutionnels d’expérimentation et d’évaluation ; Corse présentée comme terrain borné d’un Reality Test constitutionnel, sans présomption de généralisation ni modification du dispositif parlementaire."
+  - "2026-10-21 — v0.6-draft : refonte du document souverain ; candidate courte nouvelle, réexamen du gain normatif ; versions historiques retrouvables dans Git."
+  - "2026-09-29 — v0.5-rc1 : formulation de la mise en œuvre effective et de l'évaluation périodique ; conservée dans l'historique Git."
 ---
 
-# Amendement d’effectivité — version parlementaire
+# Amendement d’effectivité — candidat de travail v0.6-draft
 
-**Projet de loi constitutionnelle pour une Corse autonome au sein de la République**  
-Texte n° 782 (2025-2026), transmis au Sénat le 24 juin 2026
+**Statut.** Texte exploratoire révisable, **ni transmis, ni déposé, ni adopté** à titre d'amendement parlementaire. La seule transmission officiellement attestée ici est celle du *projet de loi constitutionnelle n° 782* au Sénat. Ce document est le point d'entrée courant de la réflexion ; les versions antérieures sont des témoins historiques accessibles par Git, **sans préséance rédactionnelle**. La formulation demeure soumise à revue contradictoire et à un arbitrage explicite avant toute transmission institutionnelle.
 
-**Statut distinct de la proposition « amendement Baron Mariani » (9 octobre 2026) :** proposition publiée dans ce dépôt GitHub, sans transmission au Sénat attestée à cette date, sans dépôt parlementaire attesté et sans adoption. La mention « transmis au Sénat » ci-dessus qualifie exclusivement le **projet de loi constitutionnelle n° 782**, et non notre proposition d’amendement. Distinguer obligatoirement : publication (GitHub), transmission (destinataire institutionnel identifié et trace), dépôt (enregistrement parlementaire) et adoption (vote et intégration). Ne jamais inférer l'un de ces états d'un autre.
+## I. Dispositif proposé
 
+**ARTICLE UNIQUE**
 
-## ARTICLE UNIQUE
+**Alinéa 6**
 
-### Alinéa 6, première phrase
+Après la première phrase, insérer la phrase suivante :
 
-Remplacer la première phrase de cet alinéa par deux phrases ainsi rédigées :
+> « Elle prévoit les garanties nécessaires pour rendre effectives la liberté, l’égalité et la fraternité dans la mise en œuvre des habilitations prévues aux deuxième et troisième alinéas, ainsi que l’évaluation publique et périodique de cette effectivité. »
 
-> **« La loi organique détermine les conditions permettant la mise en œuvre effective des deuxième et troisième alinéas et le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application de ces alinéas, en fonction de leur nature. Elle détermine également les modalités d’une évaluation périodique de cette mise en œuvre, portant notamment sur les conditions d’accès aux habilitations et de leur exercice, ainsi que sur ses effets au regard de l’effectivité de la liberté, de l’égalité et de la fraternité. »**
+## II. OBJET
 
-## Objet
+Le présent amendement vise à garantir que les facultés normatives ouvertes à la Collectivité de Corse ne se réduisent pas à leur seule reconnaissance formelle, mais soient mises en œuvre dans des conditions propres à rendre effectives la liberté, l'égalité et la fraternité.
 
-Le projet de loi constitutionnelle prévoit que la Collectivité de Corse peut être habilitée à adapter certaines dispositions législatives ou réglementaires et à fixer des normes dans les matières où s’exercent ses compétences. Il confie déjà à la loi organique le soin de déterminer le contrôle de ces normes ainsi que leurs modalités d’évaluation.
+Le projet de loi constitutionnelle confie déjà à la loi organique la définition du contrôle des normes adoptées sur habilitation et de leurs modalités d'évaluation. Le présent amendement complète ce mécanisme, sans en modifier l'architecture, en imposant à la loi organique de prévoir les **garanties nécessaires à l'effectivité des trois principes républicains** ainsi qu'une **évaluation publique et périodique de cette effectivité**.
 
-Le présent amendement complète ce mécanisme existant afin que la loi organique détermine également les conditions permettant la **mise en œuvre effective** des facultés ouvertes par les deuxième et troisième alinéas. Il ne crée donc pas une architecture parallèle d’évaluation et ne confère aucun droit automatique à l’obtention d’une habilitation déterminée.
+Cette obligation porte sur la mise en œuvre des habilitations, et non sur les seules normes finalement adoptées. Elle permet d'apprécier les conditions concrètes d'accès et d'exercice, les obstacles rencontrés, le non-usage du régime et les effets observables sur les personnes concernées, sans présumer qu'une demande particulière d'habilitation devrait recevoir une suite favorable.
 
-Il précise en outre que l’évaluation est **périodique** et porte non seulement sur les normes adoptées, mais sur la mise en œuvre du régime lui-même, notamment sur les conditions d’accès aux habilitations et de leur exercice.
-
-L’effectivité d’une faculté constitutionnelle ne saurait être appréciée uniquement au regard de sa reconnaissance formelle ou de la régularité des procédures prévues pour son exercice. Elle suppose également l’examen des conditions concrètes dans lesquelles cette faculté peut être mobilisée, notamment des obstacles matériels, procéduraux ou organisationnels susceptibles d’en empêcher l’accès ou l’exercice. L’évaluation doit permettre d’identifier ces obstacles, d’en distinguer les causes légales et institutionnelles et d’apprécier, lorsque cela relève des autorités compétentes, les possibilités de les réduire ou de les corriger dans le respect des garanties applicables.
-
-Cette évaluation prend enfin en compte les effets de cette mise en œuvre au regard de l’**effectivité de la liberté, de l’égalité et de la fraternité**. Il s’agit ainsi de relier l’autonomie reconnue par la Constitution à l’observation de ses conditions réelles d’exercice et de ses effets, sans préjuger de l’appréciation portée sur une demande particulière d’habilitation.
+Le dispositif ne crée ni habilitation tacite, ni obligation pour le Parlement de légiférer, ni compétence nouvelle des juridictions chargées du contrôle des normes. La loi organique précise les garanties et les modalités de leur évaluation dans le respect des compétences et exigences constitutionnelles existantes.
 
 ---
 
----
+# Dossier souverain de motivation et de vérification
 
-# Dossier souverain de revue — options et objections (état du 21 octobre 2026)
+## III. Contrôle de la technique légistique
 
-**Hiérarchie des éléments.** Le texte sous « ARTICLE UNIQUE » et son « Objet » constituent la **candidate v0.5-rc1, reproduite sans changement**. Les options ci-dessous sont des alternatives non arbitrées, non déposées. La présente revue reste **interne et non indépendante** ; l'auteur conserve la décision souveraine. La chronologie des revues antérieures et les développements doctrinaux sont conservés ensuite, à titre de justification et d'historique, non comme décisions plus récentes.
+**Source de base :** [projet de loi constitutionnelle, Sénat n° 782, transmis le 24 juin 2026](https://www.senat.fr/leg/pjl25-782.html), alinéa 6 (cinquième alinéa du nouvel article 72-5 projeté).
 
-**Question de décision.** Quel mécanisme garantit une différence observable entre *faculté d'habilitation*, *examen motivé*, *décision institutionnelle* et *effets réels*, sans violer les compétences du Parlement ? La comparaison doit rester ouverte à **ne pas amender** (option 0).
+La **première phrase conservée mot à mot** est :
 
-## Synthèse contradictoire actuelle
+> « La loi organique détermine le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application des deuxième et troisième alinéas, en fonction de leur nature, ainsi que leurs modalités d’évaluation. »
 
-| Voie | Gain recherché | Objection qui peut la faire écarter | Disposition interne |
-| --- | --- | --- | --- |
-| **0 — Aucun amendement** | Moindre intervention constitutionnelle | La future loi organique peut omettre les refus et les silences sans méconnaître explicitement le texte | Contre-hypothèse maintenue |
-| **A — Candidate v0.5-rc1** | Évaluation du régime et de ses effets ; effectivité capacitaire | Aucun débiteur ni délai explicite de réponse motivée | Candidate conservée, non validée |
-| **B / C** | Obligation organique d'instruction et de réponse, forte / minimale | Compétence du débiteur et redondance avec l'existant | À éprouver |
-| **D / D+** | Garantie directe inspirée de l'antériorité AN n°43 ; traçabilité supplémentaire | D ne constitue pas une nouveauté ; D+ doit démontrer sa plus-value face au CGCT | À rédiger et comparer |
-| **E — Combinaison** | Réponse motivée et évaluation publique des effets | Champ trop large, débiteur « État » indéterminé et insertion constitutionnelle incomplète | **Ne pas déposer en l'état** |
-| **O — Loi organique seulement** | Exiger procédure et évaluation sans révision additionnelle | Domaine organique peut ne couvrir que les habilitations 72-5, non toutes les propositions de l'Assemblée | Contre-épreuve prioritaire |
+La **phrase ajoutée**, et elle seule, est celle du dispositif I. Les phrases existantes suivantes demeurent inchangées :
 
-**Objections porteuses à lever avant toute recommandation de texte :**
-1. **Périmètre** : distinguer habilitations visées à l'article 72-5 des propositions et demandes relevant plus généralement du CGCT.
-2. **Imputabilité** : pour chaque catégorie, désigner la personne publique chargée d'enregistrer, instruire et motiver ; ne jamais assimiler une réponse gouvernementale à un vote du Parlement.
-3. **Gain normatif** : démontrer que le projet constitutionnel et le droit positif ne prescrivent pas déjà la même garantie ; « pourrait » ne vaut pas « doit ».
-4. **Insertion littérale** : tester l'article complet, sans supprimer contrôle CE/CC, non-régression, matières exclues et protection de l'égalité.
-5. **Conséquences contrôlables** : refuser tout automatisme « silence = habilitation » ; distinguer publication de résultats, correction politique et justiciabilité.
-6. **Traçabilité** : non-localisation d'un rapport annuel du CGCT n'établit pas son inexistence ou une illégalité.
+> « Elle peut également porter sur les modalités de mise en œuvre, par les délibérations de la Collectivité de Corse, d’un principe de non-régression par rapport aux normes nationales sociales et environnementales en vigueur. »
 
-**Disposition interne :** `JUDGMENT_REQUIRED`. Priorité de rédaction à **O** puis **E'** (champ clarifié), avant comparaison au projet inchangé et à la candidate A ; aucune conclusion externe indépendante à ce stade.
+> « Les habilitations prévues par la loi organique aux deuxième et troisième alinéas ne peuvent intervenir lorsque sont en cause les conditions essentielles d’exercice d’une liberté publique ou d’un droit constitutionnellement garanti. »
 
-## Registre comparatif complet — options 0, A, B, C, D, D+, E, O
+L'alinéa suivant conserve également l'exigence d'égalité de tous sans distinction, conformément à l'article 1er. Le dispositif proposé n'efface aucune de ces garanties. **Précaution :** recontrôler le numéro d'alinéa et la rédaction de référence si une nouvelle version parlementaire du projet est publiée avant emploi.
 
-**Portée et gouvernance.** Cette annexe consolide les **options non arbitrées** dans le document de référence, afin que les revues successives examinent le même ensemble. **Elle ne modifie ni la rédaction parlementaire candidate v0.5-rc1 ci-dessus, ni son statut, ni l'état de transmission/dépôt.** Une option proposée n'est ni un amendement déposé, ni un choix du Principal, ni une conclusion juridique validée. Les rédactions concurrentes demeurent des *objets de test* ; toute substitution au texte candidat exige un arbitrage explicite.
+## IV. Le gain normatif recherché — et sa limite
 
-### 1. Problème normatif commun et acquis
+**Sans modification :** la loi organique doit organiser le contrôle et l'évaluation des **normes prises**. Elle pourrait prévoir davantage, mais une simple possibilité de le faire n'en garantit pas l'adoption.
 
-- Le projet d'article 72-5 organise des **facultés d'habilitation**, avec contrôle et évaluation des normes produites. Cela ne démontre pas une obligation de traiter en temps utile **toutes les demandes**, ni d'évaluer les refus, les délais, le non-recours et les conséquences concrètes pour les habitants.
-- Le **CGCT L.4422-16 V bis**, déjà en vigueur, prévoit l'accusé de réception par le Premier ministre et un rapport annuel public ; la recherche n'a pas permis de localiser tous les rapports attendus, ce qui **ne prouve pas leur inexistence**. Le mécanisme ne donne pas, à lui seul, un délai général de réponse motivée.
-- Le député **Ugo Bernalicis et cosignataires** ont déjà proposé une obligation de réponse motivée : CL12, puis **amendement de séance n° 43**, dont la rédaction évite le renvoi direct au CGCT ; les deux ont été retirés. Il serait inexact d'attribuer cette idée comme innovation propre à la présente proposition.
-- Quatre opérations restent juridiquement distinctes : **demander**, **recevoir une réponse motivée**, **obtenir une habilitation**, **mesurer les effets sur les capacités réelles des personnes**. La deuxième n'implique ni la troisième ni une injonction faite au Parlement de légiférer.
-- Les chiffres issus des rapports Boudié et Josende ont des **périmètres distincts** et ne doivent pas être fusionnés.
+**Avec la phrase proposée :** le constituant ferait obligation à la loi organique de **prévoir des garanties nécessaires pour rendre effectifs liberté, égalité et fraternité**, puis d'en organiser **l'évaluation publique et périodique**, dans le cadre des habilitations. La question de la conformité de la loi organique à cette prescription deviendrait distincte d'une pure appréciation d'opportunité politique.
 
-### 2. Registre comparatif des voies possibles
+**Limite à ne pas masquer :** cette formulation constitue une obligation constitutionnelle faite au **législateur organique de prévoir des garanties et une évaluation** ; elle **ne démontre pas** une obligation absolue de résultat consistant à rendre automatiquement effectifs, en toute circonstance, les trois principes pour chaque personne. Le contrôle de sa portée juridique exacte, du degré de précision exigible et de son éventuelle justiciabilité reste ouvert. Si la revue démontre que cette obligation serait satisfaite par de simples déclarations de principe, il faudra reformuler, et non protéger artificiellement v0.6.
 
-| Option | Technique | Gain recherché | Limite ou test décisif | État |
-| --- | --- | --- | --- | --- |
-| **0 — Projet inchangé** | Ne pas amender la Constitution ; organiser les procédures dans les lois existantes ou à venir | Moindre delta ; souplesse institutionnelle | Quelle obligation existe effectivement si la loi organique se tait ? | Contre-hypothèse obligatoire |
-| **A — v0.5-rc1** | Réécriture ciblée de la première phrase de l'alinéa organique et ajout de l'évaluation périodique du régime au regard de Liberté, Égalité, Fraternité | Constitutionnaliser la mise en œuvre et l'évaluation des capacités | Pas de délai de réponse motivée explicite ; risque d'indétermination | **Seule candidate historique conservée ; non remplacée** |
-| **B — Garantie développée** | Prévoir enregistrement, instruction, réponse motivée dans un délai, publicité et évaluation des effets | Chaîne procédurale et capacitaire observable | Débiteur de la réponse, procédure parlementaire, compétence du juge et coût | Brouillon comparatif |
-| **C — Garantie minimale** | Insérer une phrase imposant à la loi organique d'organiser examen, réponse motivée et délai | Petit delta constitutionnel sur le silence | Objectif d'effectivité et évaluation du régime moins explicites | Repli à éprouver |
-| **D — Garantie directe** | Constitution : « L'État est tenu de répondre… » (logique du n° 43), modalités précisées par la loi | Obligation de réponse moins dépendante d'un simple renvoi organique | Quelle autorité répond à quoi, sans imposer un vote parlementaire ? | Antériorité parlementaire ; non retenue |
-| **D+ — Garantie directe renforcée** | D + traçabilité, publicité des suites, délais et traitement explicite du silence, selon modalités à préciser | Vérifiabilité institutionnelle accrue | Redondance avec le V bis, sanction et partage Gouvernement/Parlement | **Schéma de travail**, rédaction exacte à stabiliser |
-| **E — Combinaison procédurale et capacitaire** | D + obligation d'évaluation périodique publique du régime, de ses suites et de ses effets, sans octroi automatique | Joint le *devoir de réponse* à l'*observation des effets* | Densité constitutionnelle, séparation des pouvoirs, portée du mot « État » et placement exact | **Brouillon à soumettre à revue ; non arbitré** |
-| **O — Solution organique seule** | Ne pas modifier 72-5 ; prévoir par loi organique (dans son domaine) les modalités de traitement, de suivi et d'évaluation | Réduire l'ampleur de la révision constitutionnelle | Une telle loi organique a-t-elle une base suffisante ? Peut-elle créer tous les devoirs envisagés ? | Contre-épreuve à rédiger précisément |
+Le critère de réussite n'est donc **ni le nombre minimal de mots ni la survie d'une version**, mais le **plus petit delta dont la conséquence normative est identifiable, contrôlable et réellement utile**.
 
-Les variantes A/B/C sont développées dans [la note de comparaison](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md). L'antériorité de D est détaillée dans [l'analyse CL12/43](../devise_republicaine/CL12_43_comparaison_et_delai.md). D+ et E sont ici consolidées comme **pistes** ; ne pas leur prêter une rédaction définitive ou une validation antérieure non établie.
+## V. Contre-épreuves contradictoires obligatoires
 
-### 3. Variante E — rédaction de travail à éprouver, non candidate adoptée
+| Cas-test | Question falsifiable |
+| --- | --- |
+| Loi organique ne traitant que des normes adoptées | Peut-elle omettre les obstacles d'accès, les refus et le non-usage tout en respectant l'exigence d'effectivité ? |
+| Demandes sans réponse prolongée | Les garanties constitutionnellement requises impliquent-elles un traitement minimal et une réponse ? Si non, faut-il le formuler explicitement ? |
+| Aucune demande pendant trois ans | L'évaluation porte-t-elle sur la capacité d'accéder au régime plutôt que sur la seule production de normes ? |
+| Norme adoptée sans amélioration réelle | L'évaluation distingue-t-elle entrée en vigueur, exécution administrative et effets pour les personnes ? |
+| Refus légitime d'habilitation | La garantie protège-t-elle l'examen sans créer un droit automatique à l'octroi ? |
+| Évaluation sans publicité | Le nouvel impératif de publicité permet-il une consultation effective sous réserve des secrets légalement protégés ? |
+| Loi organique réduite à des formules générales | Quelles exigences observables permettraient de constater son insuffisance ? |
 
-> L'État garantit l'examen des propositions et demandes de l'Assemblée de Corse ainsi qu'une réponse motivée dans un délai déterminé. La loi organique précise les modalités de cette garantie, dans le respect des compétences des autorités concernées. Elle prévoit une évaluation publique et périodique de la mise en œuvre du présent article, notamment des demandes, des décisions prises et de leurs effets sur l'effectivité de la liberté, de l'égalité et de la fraternité.
+## VI. Objections ouvertes et voies alternatives
 
-**Réserves sur cette formulation :** ce bloc n'est **pas** une instruction de remplacer l'alinéa 6 par ces seules phrases. Avant toute rédaction institutionnelle, il faut en vérifier la place exacte, préserver **l'intégralité** du contrôle du Conseil d'État et du Conseil constitutionnel, les conditions de non-régression et les limites aux habilitations, et déterminer si « l'État » est un débiteur procédural suffisamment identifié. Les « propositions et demandes » de l'Assemblée débordent les demandes d'habilitation stricto sensu : comparer cette extension au champ réel du dispositif. Une réponse de l'exécutif ne saurait valoir décision du Parlement.
+1. **Indétermination de « rendre effectives ».** La formule est finalisée par trois principes constitutionnels, mais leur portée procédurale et matérielle doit être testée. Une revue peut conclure que l'obligation demeure trop programmatique.
+2. **Nécessité constitutionnelle.** L'[option O](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md) consiste à agir uniquement par la loi organique et le droit existant ; le seul constat que la Constitution *permet* une garantie ne démontre pas qu'elle l'*impose*. Comparer honnêtement les deux situations.
+3. **Réponse motivée / délai.** Les options B, C et [E’ de Jimini](https://github.com/JeanHuguesRobert/barons-Mariani/issues/144) rendent la procédure plus précise, mais allongent le dispositif et peuvent restreindre l'objet au traitement des demandes. **Question ouverte :** la phrase courte actuelle impose-t-elle réellement le traitement en temps utile ? Si non, cette insuffisance doit être explicitée et arbitrée.
+4. **Préexistence des garanties.** Le CGCT L.4422-16 V bis prévoit déjà réception et rapport annuel public ; l'amendement AN n° 43 proposait une réponse motivée dans un délai. Ne pas présenter ces mécanismes comme inédits ; l'enjeu est la **force normative** et l'effectivité de la garantie, non sa nouveauté rhétorique.
+5. **Séparation des pouvoirs.** L'obligation générale de rendre effectifs des principes ne saurait autoriser automatiquement le juge à substituer son appréciation aux institutions compétentes ni imposer au Parlement un vote ou un calendrier.
+6. **Principe d'égalité et différenciation territoriale.** Les garanties doivent être appréciées également lorsque la différenciation produit des effets défavorables ; aucune présomption de gain par l'autonomie.
+7. **Publicité et vie privée.** Le bilan public peut exiger agrégation ou anonymisation ; le principe de publicité ne supprime pas les protections légales.
 
-### 4. Matrice de revue contradictoire — mêmes tests pour toutes les options
+**Disposition interne :** `JUDGMENT_REQUIRED` sur la robustesse juridique de la candidate. La revue Jimini du 21 octobre recommande une formulation E’ procédurale plus précise ; la présente candidate courte est une **contre-hypothèse** qui privilégie l'obligation d'effectivité elle-même. Elle n'a pas été validée par Jimini. Aucun consensus externe n'est allégué.
 
-1. **Delta démontré :** quel devoir précis la rédaction impose-t-elle que le projet et le CGCT n'imposent pas déjà ? Quelle disposition suffit éventuellement à droit constant ou dans la loi organique ?
-2. **Imputabilité :** qui accuse réception, instruit, motive, publie et rend compte, selon qu'une demande relève de l'exécutif, du législateur ou de la Collectivité ?
-3. **Délais et silence :** quel point de départ, quelle durée, quelles exceptions légitimes, quelle preuve du défaut de réponse, quelle conséquence licite du silence ? **Aucune habilitation tacite présumée**.
-4. **Constitutionnalité institutionnelle :** ne pas imposer subrepticement un vote, une inscription à l'ordre du jour ou un calendrier parlementaire incompatible avec les prérogatives des assemblées.
-5. **Vérifiabilité :** suivre la chaîne *demande → instruction → réponse/décision → éventuelle norme → application → effets pour les habitants* ; distinguer refus justifié, inertie administrative et absence volontaire de demande.
-6. **Protection et publicité :** documenter ce qui peut être publié tout en préservant les secrets et données légalement protégés.
-7. **Proportionnalité :** comparer complexité, coût, risques de contentieux et gain normatif vérifiable par rapport à l'option 0 et à la solution O.
-8. **Intégrité légistique :** collation littérale avec le texte sénatorial pertinent ; garanties déjà prévues conservées ; distinguer la réécriture d'une phrase de celle d'un alinéa entier.
+## VII. Fondements et distinction des registres
 
-### 5. Gouvernance de la suite
+L'effectivité n'est pas présentée comme une quatrième composante de la devise. Elle est l'exigence de confronter **Liberté, Égalité, Fraternité** aux conditions de leur exercice et aux effets des institutions. Cette orientation doctrinale ne doit pas être confondue avec l'existence déjà établie d'un **principe général justiciable d'effectivité** de chaque valeur, en toute matière.
 
-**Statut de ce registre : JUDGMENT_REQUIRED.** Aucune option B–E/O n'est approuvée ou déposée ; la version v0.5-rc1 n'a pas changé. La revue interne ne vaut pas expertise juridique indépendante. Le Reviewer devra pouvoir **rejeter toutes les modifications**, retenir une solution organique, demander un repli minimal ou recommander une combinaison. Le Redactor documentera, pour chaque objection, son traitement et les conséquences textuelles. Une décision du Principal sera requise **avant substitution à la candidate, transmission institutionnelle ou revendication d'une validation indépendante**.
-
-**Sources de travail internes :** [revue contradictoire](../devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md), [rapport de complétion Redactor](../devise_republicaine/redactor_completion_review_interne_72_5.md), [audit CGCT V bis](../devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md), [note responsabilités et recours](../devise_republicaine/recours_et_responsabilites_partagees_L4422_16_2026.md), [packet de revue #141](https://github.com/JeanHuguesRobert/barons-Mariani/issues/141), [amendement AN n°43](https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43).
-
----
-
-# Revue interne contradictoire — rapport intégré
-
-La présente section reproduit la revue du 21 octobre 2026 pour permettre son examen **dans ce document unique**. Le fichier de revue séparé reste une pièce de provenance et d'historique.
-
-## Rapport contradictoire sur les options consolidées
-
-**Mandat.** Examiner de manière adverse l'annexe « registre souverain des options » du [document souverain](../autonomia/amendement_effectivite_article_72-5.md), particulièrement les options **0, E et O**, mais aussi les variantes A–D+. La version candidate **v0.5-rc1 reste inchangée** ; la revue est **interne, non indépendante**, sans adoption ni transmission institutionnelle. Statut : **JUDGMENT_REQUIRED**.
-
-## 1. Sources vérifiées et périmètre
-
-- **Projet Sénat n°782, 24 juin 2026 :** l'article 72-5 projeté confie à la loi organique le contrôle des normes produites et leurs modalités d'évaluation. La phrase suivante envisage des modalités de non-régression ; l'alinéa conserve en outre des exclusions substantielles. Source primaire : https://www.senat.fr/leg/pjl25-782.html.
-- **Amendement AN n°43 :** déposé le 12 juin et retiré le 18 juin 2026 ; il anticipe explicitement une obligation de réponse dans un délai et évite la référence textuelle directe au CGCT. Il n'est pas dans le projet adopté. Source primaire : https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43.
-- **L.4422-16 V bis :** la note documentaire du corpus établit le dispositif de réception et de rapport annuel public. La présence effective de chaque rapport annuel **n'est pas vérifiée** ; absence de localisation n'est pas absence prouvée. Comparer [l'audit](audit_effectivite_L4422_16_Vbis_2026-10-21.md).
-- **Limite de la revue :** aucune jurisprudence exhaustive sur le champ exact de la loi organique ou l'ordre du jour parlementaire n'est ici établie. Ne pas convertir un risque juridique en impossibilité certaine.
-
-## 2. Objections critiques (ordre de gravité)
-
-| ID | Objection adverse | Gravité | Test de résolution |
-| --- | --- | --- | --- |
-| **R1** | **Champ hétérogène.** E vise « les propositions et demandes de l'Assemblée de Corse » en général, alors que le projet 72-5 vise principalement les habilitations et normes issues de celles-ci. Une loi organique de mise en œuvre de 72-5 peut ne pas être le véhicule adapté à *toutes* les demandes relevant de L.4422-16. | Bloquante pour E telle quelle | Définir deux périmètres : demandes d'habilitation relevant de 72-5 / autres propositions de la Collectivité ; donner un fondement autonome si l'on veut couvrir les deux. |
-| **R2** | **Débiteur incertain.** « L'État garantit » ne précise pas qui reçoit, motive, répond ni quand une proposition nécessite un vote. Une réponse de l'exécutif ne saurait imposer une décision parlementaire. | Bloquante pour toute obligation opposable sans architecture | Cartographie par type de demande (gouvernementale/réglementaire/législative) et test des prérogatives parlementaires. |
-| **R3** | **Réponse ≠ suite favorable.** Obligation de traitement ne garantit pas que l'habilitation soit accordée ; l'effet concret dépend d'une chaîne supplémentaire. | Structurante | Maintenir refus motivé possible, aucun silence valant acceptation, suivre décisions et effets. |
-| **R4** | **Redondance constitutionnelle.** Le projet dispose déjà d'une clause d'évaluation des *normes* et le droit existant d'un suivi des *propositions*. Le gain constitutionnel des options A/E doit être comparé précisément à ce qui pourrait être prescrit par une loi organique ordinaire. | Bloquante pour la justification, non pour la possibilité juridique | Contre-factuel : régime autorisé par le texte actuel mais n'évaluant que les normes produites ; quelle omission demeure licite après modification ? |
-| **R5** | **Portée de l'évaluation.** « Effets sur l'effectivité de la liberté, de l'égalité et de la fraternité » est une finalité, pas un protocole de mesure ou une norme contentieuse déterminée. | Élevée | Distinguer obligation de publier des données, méthode d'évaluation, responsabilité politique et contrôle juridictionnel. |
-| **R6** | **Placement légistique.** E, présentée comme bloc autonome, ne remplace pas à elle seule la première phrase organique : le contrôle CE/CC, la non-régression et les limites constitutionnelles doivent rester littéralement intacts. | Bloquante avant dépôt | Épreuve « avant/après » de l'article entier avec texte n°782, sans effacement incident des autres phrases. |
-| **R7** | **Publicité absolue ambiguë.** Évaluation « publique » peut heurter secrets ou données protégées. | Corrigeable | Prévoir un bilan public sous réserve des protections applicables et définir jeu de données contrôlable. |
-| **R8** | **Inflation constitutionnelle.** E associe garantie de réponse, loi organique, politique d'évaluation et finalités républicaines ; accumulation susceptible de rendre la norme moins intelligible. | Élevée | Réduire chaque option à une obligation supplémentaire démontrée et mesurable ; envisager une solution à deux étages. |
-
-## 3. Comparaison adverse des trois voies prioritaires
-
-### Option 0 — Pas d'amendement constitutionnel
-
-**Argument fort :** le constituant n'a pas à détailler les procédures ; la loi organique et les mécanismes existants peuvent potentiellement faire le travail. Le texte n°782 garantit déjà les instruments d'habilitation, de contrôle et d'évaluation des normes.
-
-**Faiblesse structurante :** « peut le faire » n'est pas « doit le faire ». Si la future loi organique ne traite que des normes finalement prises, les demandes refusées, non instruites ou jamais formulées peuvent demeurer peu visibles. **Test :** démontrer si cette lacune est juridiquement possible et politiquement plausible, et si une autre loi suffit à la combler.
-
-**Verdict :** contre-hypothèse sérieuse ; aucune raison démontrée de l'écarter d'emblée.
-
-### Option O — Loi organique seule, sans modification de 72-5
-
-**Argument fort :** le projet 72-5 renvoie déjà à la loi organique pour la mise en œuvre de l'habilitation et l'évaluation des normes ; précision procédurale possible à tester dans ce cadre.
-
-**Faiblesse structurante :** **le champ de la loi organique dépend de son habilitation constitutionnelle**. Une obligation générale de répondre à toutes les propositions politiques ou législatives de l'Assemblée, sans lien avec les habilitations 72-5, n'est pas automatiquement rattachable à cet article ; les procédures parlementaires sont régies par leurs propres normes. Solution O **restreinte aux habilitations 72-5** à rédiger distinctement d'une éventuelle modification ordinaire du CGCT.
-
-**Verdict :** meilleure contre-épreuve juridique immédiate ; il faut en écrire une rédaction complète pour la juger, non une simple étiquette.
-
-### Option E — Garantie de réponse + évaluation publique du régime
-
-**Argument fort :** elle articule les deux anomalies distinctes (absence de réponse bornée ; absence de bilan des effets et du non-usage). Elle rend explicite la différence entre faculté proclamée et capacité institutionnelle exercée.
-
-**Faiblesse structurante :** **dans sa rédaction actuelle, elle n'est pas prête à dépôt** : champ trop large des « propositions et demandes », débiteur générique (« l'État »), imprécision de « délai déterminé », possible chevauchement avec le CGCT, et absence d'insertion démontrée dans la phrase organique du projet. La formule « loi organique précise les modalités de cette garantie » suppose un champ juridique dont les contours doivent être démontrés.
-
-**Verdict :** conserver en option doctrinale ; *réviser son architecture avant toute promotion comme texte parlementaire*. Ne pas la substituer à v0.5-rc1.
-
-## 4. Autres variantes
-
-- **A (v0.5-rc1)** : meilleure continuité avec l'objectif effectivité ; l'obligation directe de répondre n'est pas inscrite. La justiciabilité de « mise en œuvre effective » reste ouverte.
-- **B** : plus complète techniquement, mais davantage de risques d'empiètement sur les prérogatives parlementaires et de sur-détail constitutionnel.
-- **C** : delta procédural réduit ; sans évaluation de la non-utilisation ni des effets, elle répond moins au mandat doctrinal.
-- **D** : reprend un acquis historique de l'amendement AN n°43 ; ne pas présenter le devoir de réponse comme innovation originale.
-- **D+** : nécessite sa rédaction littérale et un test de plus-value au regard du CGCT V bis avant comparaison loyale.
-
-## 5. Protocole de Reality Test et critères de falsification
-
-Pour chaque option : tester au minimum (1) demande d'habilitation réglementaire instruite puis refusée dans les formes ; (2) demande de nature législative sans inscription à l'ordre du jour ; (3) demande sans réponse pendant un an ; (4) absence de demande pendant trois ans ; (5) norme adaptée mais dommage effectif à une liberté ou à une égalité ; (6) bilan annuel annoncé mais non consultable par un tiers.
-
-Observer séparément **possibilité de saisir**, **accusé**, **instruction**, **décision motivée**, **délais**, **publication**, **application**, **effets et remédiation**. Un taux de refus élevé ne démontre pas à lui seul une violation. La suppression du silence n'équivaut pas à la production d'une norme. La sanction de carence et la compétence juridictionnelle requièrent un fondement démontré.
-
-## 6. Dispositions proposées pour le Redactor, non souveraines
-
-| Constat | Disposition | Justification |
-| --- | --- | --- |
-| R1 | `conceded:load-bearing` | E déborde potentiellement le véhicule organique 72-5 |
-| R2 | `conceded:load-bearing` | Sans destinataire identifié, « obligation de réponse » peut rester illusoire |
-| R3 | `integrated` dans le protocole | Ne jamais assimiler réponse et habilitation |
-| R4 | `conceded:load-bearing` | L'avantage normatif constitutionnel doit être prouvé contre O |
-| R5 | `reformulate` | Séparer évaluation des effets et sanction juridictionnelle |
-| R6 | `conceded:load-bearing` | Collation de l'alinéa entier préalable au dépôt |
-| R7 | `reformulate` | Définir la publicité légalement soutenable |
-| R8 | `piste` | Chercher formulation plus courte sans perdre la dimension capacitaire |
-
-**Recommandation interne, non arbitrage :** traiter d'abord **O**, puis une **E révisée à champ explicite**, et mesurer leur delta par rapport à 0 et A. Ne pas produire un faux consensus en faisant valider cette revue par le même exécutant ; appeler ensuite un Reviewer externe véritablement indépendant.
-
-## 7. Conditions de clôture de cette revue
-
-- **PASS :** sources parlementaires primaires repérées ; options 0/E/O confrontées ; objections et degrés d'incertitude explicités ; candidate v0.5-rc1 préservée.
-- **PARTIAL :** contrôle de la loi organique et de sa portée ; définition de chaque débiteur ; collation exhaustive et test de juridiction ; rédaction littérale de O et E révisée.
-- **UNKNOWN :** publication effective des rapports annuels CGCT ; éventuels éléments de jurisprudence décisifs encore non consultés.
-- **JUDGMENT_REQUIRED :** décision de promouvoir ou non une variante, distincte de sa rédaction.
-
-**Prochaine action :** produire deux *textes de test* O (strictement organique et limité à l'habilitation) et E' (différencier habilitations et propositions générales), avec tableau de substitution mot à mot de l'alinéa 6, puis nouvelle revue contradictoire. Conserver la source candidate intacte.
-
----
-
-# Historique de la revue adverse (9 octobre 2026)
-
-## Revue adverse Jimini.ai — traitement FBF (9 octobre 2026)
-
-**Statut de cette revue :** observations externes fournies par le porteur de la proposition ; analyse critique interne, **non assimilée à une validation juridique indépendante**. La rédaction parlementaire située ci-dessous reste **inchangée** tant qu'une version candidate distincte n'a pas été arbitrée. La revue ne constitue ni une transmission au Sénat ni un dépôt parlementaire.
-
-| Objection | Décision provisoire | Justification / test |
-| --- | --- | --- |
-| « Mise en œuvre effective » trop indéterminée | Retenir pour examen | Tester « garanties nécessaires à la mise en œuvre effective » contre le texte de l'alinéa et la future marge de la loi organique. |
-| Présentation, instruction, réponse / octroi confondus | Retenir | Distinguer l'accès à une procédure, la décision d'habilitation et l'exercice de la faculté ; aucun droit automatique à l'octroi. |
-| Silence et omissions hors contrôle | À instruire | Examiner les voies existantes de contrôle des actes et carences avant toute nouvelle compétence juridictionnelle constitutionnelle. |
-| Évaluation « périodique » purement symbolique | Retenir la publicité comme option | Tester une évaluation **publique et périodique** ; laisser la fréquence et les modalités au législateur organique. |
-| « Effets » : risque de contrôle politique d'opportunité | Clarification dans l'objet | Les effets sont objet d'observation contradictoire, non nouveau pouvoir général du juge de choisir les politiques publiques. |
-| Fraternité et égalité | Conserver les trois finalités | Ne pas fabriquer un standard juridictionnel uniforme à partir de la devise ; préserver une évaluation symétrique des effets bénéfiques et nuisibles. |
-| « Incompétence négative » du constituant | Requalifier | Risque principal : incomplétude fonctionnelle de la loi organique, non censure ordinaire d'une révision constitutionnelle pour incompétence négative. |
-| Non-usage des habilitations | Conserver expressément | Distinguer le choix légitime de ne pas demander ou exercer de l'impossibilité matérielle d'agir. |
-
-**Prochaine décision rédactionnelle** : préférer le plus petit delta ayant une conséquence vérifiable, plutôt qu'une accumulation de garanties formelles. La régularité procédurale, à elle seule, ne prouve pas l'autonomie de capacité. Une demande instruite et systématiquement rejetée peut être procéduralement régulière, tout en restant un échec de capacité à examiner. Cela ne démontre pas à lui seul une illégalité.
-
-**Hypothèse candidate à comparer, non substituée au dispositif actuel :** remplacer « conditions permettant » par « garanties nécessaires à » et ajouter « publique » à « évaluation périodique ». Ne pas incorporer sans étude préalable une nouvelle attribution de contrôle aux juridictions ; respecter le contrôle distinct des normes selon leur nature.
-
-**Règle de provenance :** enregistrer séparément publication GitHub, transmission institutionnelle avec preuve, dépôt parlementaire et adoption. À cette date, seule la publication de la proposition est établie.
-
----
-
----
-
-# Note de justification et dossier doctrinal historique
-
-## Note de justification historique (conservée)
-
-## 1. Principe directeur
-
-> **Liberté, Égalité, Fraternité : l’effectivité comme exigence de réalité.**
-
-La devise de la République est inscrite à l’article 2 de la Constitution :
-
-> **« Liberté, Égalité, Fraternité ».**
-
-L’effectivité n’est pas proposée comme une quatrième valeur ajoutée aux trois autres.
-
-Elle désigne la question qui leur est adressée :
-
-> **dans quelle mesure la liberté, l’égalité et la fraternité peuvent-elles être effectivement exercées, garanties ou produites dans la réalité par les droits, institutions et normes qui s’en réclament ?**
-
-La maxime doctrinale demeure :
-
-> **Le droit ne vaut que par ses effets.**
-
-Cette formule ne signifie pas qu’un droit serait sans valeur avant d’avoir produit un résultat matériel déterminé. Elle signifie plus précisément :
-
-> **la reconnaissance formelle d’un droit, d’une faculté ou d’une capacité n’épuise pas la question juridique lorsque les conditions de son exercice la rendent durablement ou structurellement inaccessible, ou lorsque son exercice ne peut être confronté à ses effets réels.**
-
-Le problème traité par l’Autonomie de Capacité est donc celui de l’écart entre :
+Schéma de vérification :
 
 ```text
-ce que le droit ouvre
-→ ce qu’il permet réellement d’exercer
-→ ce que cet exercice produit effectivement
+faculté constitutionnelle ouverte
+  → garanties et moyens prévus par la loi organique
+  → accès et exercice réels
+  → normes, décisions et non-décisions
+  → effets observables et contradictoires
+  → évaluation publique / correction éventuelle
 ```
 
-La proposition constitutionnelle doit rester plus précise et plus sobre que la maxime qui l’inspire.
+La Corse est ici un terrain institutionnel borné où éprouver la cohérence entre les principes républicains proclamés et la réalité de leurs conditions d'exercice. Cela n'établit ni que les effets seront favorables, ni qu'un modèle serait automatiquement transposable.
 
----
+## VIII. Historique accessible et provenance des options
 
+**Source souveraine courante : ce fichier.** Les anciennes rédactions et leurs raisonnements sont conservés dans l'[historique Git du document](https://github.com/JeanHuguesRobert/barons-Mariani/commits/main/research/autonomia/amendement_effectivite_article_72-5.md). La version antérieure complète, y compris toutes les annexes et revues intégrées, peut être lue au [commit a526aee8](https://github.com/JeanHuguesRobert/barons-Mariani/blob/a526aee80fa8f071d1ee292c7a293fea70071293/research/autonomia/amendement_effectivite_article_72-5.md). Cette mémoire est une **trace**, non un veto à l'évolution.
 
-## 1 bis. Jalon doctrinal — l’effectivité comme exigence constitutionnelle latente
+Corpus complémentaire, conservé comme dossiers de preuves et de controverse :
 
-La présente version pose une hypothèse de travail plus structurante, sans la présenter comme une règle jurisprudentielle déjà consacrée :
+- [Revue interne A, 0, E, O](../devise_republicaine/revue_interne_options_72_5_2026-10-21.md).
+- [Variantes B et C, et comparaison A](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md).
+- [Antériorité CL12 / amendement AN n°43](../devise_republicaine/CL12_43_comparaison_et_delai.md).
+- [Audit L.4422-16 V bis](../devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md).
+- [Réception de la seconde revue externe Jimini.ai, issue #144](https://github.com/JeanHuguesRobert/barons-Mariani/issues/144).
+- [Packet de suivi de l'amendement, issue #141](https://github.com/JeanHuguesRobert/barons-Mariani/issues/141).
 
-> **l’effectivité peut être comprise non comme une valeur extérieure qu’il faudrait ajouter à la Constitution, mais comme une exigence déjà présente de manière fragmentée dans le bloc de constitutionnalité et dans les mécanismes constitutionnels d’expérimentation.**
-
-Cette hypothèse repose sur plusieurs prises distinctes qu’il convient de ne pas confondre.
-
-### 1 bis.1. De la proclamation à la garantie
-
-L’article 16 de la Déclaration de 1789 ne se borne pas à constater l’existence de droits. Il dispose qu’une société dans laquelle leur **garantie n’est pas assurée** n’a point de Constitution.
-
-Le Conseil constitutionnel en déduit notamment une exigence de **recours juridictionnel effectif**. Sa jurisprudence montre ainsi qu’une voie de recours formellement prévue ne suffit pas toujours : encore faut-il que son exercice soit réellement garanti.
-
-Cette jurisprudence ne suffit pas, à elle seule, à établir l’existence d’un principe constitutionnel général d’effectivité applicable indistinctement à tout droit, toute liberté ou toute compétence. Elle établit néanmoins un point essentiel pour la présente recherche :
-
-> **le droit constitutionnel positif connaît déjà la différence entre l’existence formelle d’une garantie et son caractère effectivement exerçable.**
-
-### 1 bis.2. La Constitution connaît déjà l’expérimentation comme méthode de prudence
-
-Les articles 37-1 et 72 de la Constitution permettent des dispositifs expérimentaux, et l’article 72 encadre expressément les dérogations territoriales expérimentales par un objet et une durée limités.
-
-Le droit de l’expérimentation ajoute une exigence méthodologique décisive : l’expérimentation doit pouvoir être **évaluée avant son extension, sa modification, sa généralisation ou son abandon**.
-
-La chaîne constitutionnelle et organique pertinente peut donc être représentée ainsi :
-
-```text
-faculté juridique
-→ expérimentation bornée
-→ mise en œuvre réelle
-→ observation
-→ évaluation
-→ maintien / correction / abandon / éventuelle extension
-```
-
-Cette logique est proche de celle que le présent amendement propose d’appliquer au nouveau régime d’autonomie : ne pas présumer qu’une faculté constitutionnelle fonctionne parce qu’elle est écrite, mais rendre observable sa mise en œuvre et ses effets.
-
-### 1 bis.3. Une remise en cohérence plutôt qu’une invention ex nihilo
-
-L’hypothèse défendue à ce stade n’est donc pas :
-
-> **« la Constitution consacre déjà un principe général et autonome d’effectivité ayant exactement le contenu proposé ici ».**
-
-Une telle affirmation serait excessive en l’état de la jurisprudence.
-
-L’hypothèse plus étroite est :
-
-> **la Constitution et le bloc de constitutionnalité contiennent déjà plusieurs exigences particulières de garantie effective, de mise en œuvre, d’expérimentation, d’évaluation et de contrôle ; leur rapprochement fait apparaître une cohérence possible que le futur article 72-5 permettrait de tester explicitement.**
-
-Le présent amendement peut alors être lu comme une tentative de **mise en cohérence** : il ne transforme pas l’effectivité en quatrième terme de la devise et ne prétend pas reconstruire l’ensemble du droit constitutionnel. Il propose de rendre explicite, pour un objet territorial borné, la différence entre une capacité seulement proclamée et une capacité réellement mobilisable.
-
-### 1 bis.4. La Corse comme laboratoire constitutionnel borné
-
-La qualification de la Corse comme **laboratoire institutionnel** n’est pas seulement doctrinale. Les travaux parlementaires ont déjà décrit le statut particulier de 1982 comme une anticipation du mouvement de décentralisation ultérieurement étendu aux régions françaises et, en ce sens, comme un « laboratoire de la décentralisation ».
-
-Le choix de la Corse comme terrain d’un test d’effectivité ne repose donc pas uniquement sur sa taille ou son insularité. Il repose sur une combinaison :
-
-- une population et un territoire suffisamment circonscrits pour rendre certains effets plus lisibles ;
-- une collectivité à statut particulier déjà constituée ;
-- plusieurs décennies d’innovations institutionnelles et de différenciation ;
-- une expérience documentée des écarts entre facultés juridiques d’adaptation et usage réel de ces facultés ;
-- un projet constitutionnel en cours qui ouvre précisément de nouvelles capacités normatives.
-
-La petitesse relative du terrain n’est pas, à elle seule, un argument de légitimité. Elle devient méthodologiquement utile si elle permet de **borner le risque, observer les effets et préserver la possibilité de correction**.
-
-### 1 bis.5. Le test ne présume pas sa généralisation
-
-Le raisonnement expérimental interdit de transformer la Corse en preuve anticipée d’une théorie.
-
-Le test proposé doit pouvoir conduire à plusieurs conclusions :
-
-```text
-maintenir
-corriger
-réduire
-abandonner
-ou, si les résultats le justifient, examiner une transposition
-```
-
-Une réussite corse ne démontrerait donc pas qu’un même dispositif doit être appliqué uniformément à l’ensemble de la République. Elle produirait une **information constitutionnelle nouvelle** sur les conditions dans lesquelles des droits, libertés ou capacités peuvent être rendus plus effectifs.
-
-Inversement, un échec, un effet indésirable ou une rupture d’égalité insuffisamment justifiée devrait pouvoir conduire à corriger ou abandonner la branche testée.
-
-Cette absence de présomption de généralisation est une condition de prudence et non une faiblesse du projet.
-
-### 1 bis.6. Portée du jalon
-
-Ce jalon renforce la justification du dispositif sans modifier sa rédaction parlementaire.
-
-Il relie désormais explicitement quatre niveaux :
-
-```text
-garantie constitutionnelle
-→ effectivité de l’exercice
-→ expérimentation bornée
-→ évaluation et correction
-```
-
-La question de savoir si cette convergence permettrait, au-delà du cas corse, de reconnaître un principe constitutionnel plus général d’effectivité reste ouverte. Elle doit être testée par l’analyse doctrinale, la jurisprudence, les contentieux pertinents et, si le constituant adopte un tel mécanisme, par l’expérience elle-même.
-
-
-## 2. Point de départ : ce que le futur article 72-5 ouvre déjà
-
-Le texte adopté par l’Assemblée nationale le 23 juin 2026 et transmis au Sénat prévoit notamment que la Collectivité de Corse :
-
-- **peut être habilitée** à adapter des dispositions législatives ou réglementaires ;
-- **peut également être habilitée** à fixer elle-même des normes dans certaines matières où s’exercent ses compétences.
-
-Il prévoit également que la loi organique détermine le contrôle exercé sur les normes prises en application de ces facultés ainsi que **leurs modalités d’évaluation**.
-
-Enfin, le texte adopté dispose :
-
-> **« Les normes prévues aux deuxième et troisième alinéas assurent l’égalité de tous sans distinction, conformément à l’article 1er. »**
-
-Le problème n’est donc ni l’absence de facultés juridiques, ni l’absence totale d’un mécanisme d’évaluation.
-
-Deux questions restent distinctes :
-
-1. les facultés constitutionnelles peuvent-elles disposer de conditions d’exercice suffisamment réelles pour ne pas rester nominales ?
-2. l’évaluation porte-t-elle seulement sur les normes effectivement adoptées, ou également sur **l’exercice du régime lui-même**, y compris ses effets concrets et son éventuelle inertie ?
-
-C’est sur ces deux points que porte le delta proposé.
-
----
-
-## 3. Trois niveaux d’autonomie
-
-### Autonomie formelle
-
-Une faculté ou une procédure existe dans le droit.
-
-### Autonomie possible
-
-La faculté peut théoriquement être exercée, mais son usage dépend encore d’une chaîne de décisions, de délais ou d’acteurs qui peut rendre son exercice incertain, rare ou pratiquement inaccessible.
-
-### Autonomie de capacité
-
-Le système juridique organise des conditions qui rendent la faculté réellement mobilisable, sans transformer pour autant toute demande particulière en droit automatique à obtenir ce qui est demandé.
-
-> **Un pouvoir possible n’est pas encore une capacité.**
-
-Cette distinction est descriptive. Elle ne prétend pas modifier le sens juridique de la « capacité des personnes », matière distincte expressément visée dans les exclusions constitutionnelles applicables aux régimes d’habilitation.
-
----
-
-## 4. Ce que la nouvelle revue adverse a changé
-
-La revue externe de la version `0.4-rc2` a déplacé le problème de manière utile.
-
-Premièrement, viser seulement **« cet exercice »** ne suffit pas à rendre observable le cas où les facultés restent inutilisées. Mais il serait tout aussi erroné de traiter tout non-usage comme une défaillance : la Collectivité peut légitimement choisir de ne pas demander ou de ne pas utiliser une habilitation. L’objet pertinent est donc plus large :
-
-> **la mise en œuvre du régime, y compris les conditions dans lesquelles les habilitations sont accessibles, exercées ou ne le sont pas.**
-
-Deuxièmement, le texte adopté contient déjà, dans le même alinéa, une obligation faite à la loi organique de déterminer les modalités d’évaluation des normes prises en application des deuxième et troisième alinéas. Ajouter ailleurs une seconde clause d’évaluation créerait une architecture parallèle inutilement lourde.
-
-La présente version change donc de technique légistique :
-
-```text
-rc2
-→ ajout d’un nouvel alinéa autonome
-
-rc3
-→ reformulation ciblée du mécanisme organique et d’évaluation déjà existant
-```
-
-Troisièmement, la revue a utilement rappelé qu’une référence à l’égalité est symétrique : elle peut mettre en lumière aussi bien les bénéfices que les atteintes produites par une différenciation territoriale. Cette symétrie est désormais assumée. **Liberté, Égalité, Fraternité ne sont pas un cliquet orienté vers davantage d’autonomie ; elles sont la boussole substantielle de l’évaluation.**
-
-Enfin, plusieurs affirmations trop fortes de la revue ne sont pas reprises : notamment l’idée qu’une QPC serait par principe et définitivement exclue pour tout élément du futur article 72-5, ou qu’une loi organique ne pourrait jamais être décrite constitutionnellement comme « garantissant » quelque chose. Ces questions de justiciabilité restent ouvertes et doivent être traitées sans sur-promesse.
-
----
-
-## 5. Delta constitutionnel proposé : reformuler l’alinéa existant
-
-Le texte transmis au Sénat contient déjà, au cinquième alinéa du futur article 72-5, la phrase suivante :
-
-> **« La loi organique détermine le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application des deuxième et troisième alinéas, en fonction de leur nature, ainsi que leurs modalités d’évaluation. »**
-
-La présente version ne propose plus d’ajouter un nouvel alinéa après celui relatif à l’égalité. Elle propose de **remplacer cette première phrase**, en laissant inchangées les deux phrases qui la suivent.
-
-### Rédaction proposée
-
-> **« La loi organique détermine les conditions permettant la mise en œuvre effective des deuxième et troisième alinéas et le contrôle exercé par le Conseil d’État et le Conseil constitutionnel sur les normes prises en application de ces alinéas, en fonction de leur nature. Elle détermine également les modalités d’une évaluation périodique de cette mise en œuvre, portant notamment sur les conditions d’accès aux habilitations et de leur exercice, ainsi que sur ses effets au regard de l’effectivité de la liberté, de l’égalité et de la fraternité. »**
-
-La suite de l’alinéa demeure inchangée : principe de non-régression éventuel et protection des conditions essentielles d’exercice des libertés publiques et droits constitutionnellement garantis.
-
-
-### Forme de circulation
-
-La version placée en tête du présent document constitue désormais la **version parlementaire candidate** : dispositif bref, localisation précise dans le texte et objet sommairement motivé. La suite du document conserve les raisons, objections, comparaisons et traces ayant conduit à cette rédaction.
-
-Nom de travail : **amendement Baron Mariani**.
-
-Cette appellation indique la provenance de la proposition. Aucun amendement parlementaire n’est réputé déposé sous ce nom tant qu’un dépôt effectif n’est pas documenté.
-
----
-
-## 6. Pourquoi reformuler plutôt qu’ajouter
-
-Le changement de technique est substantiel.
-
-Le futur article 72-5 possède déjà le bon point d’ancrage : un alinéa qui renvoie à la loi organique le contrôle et l’évaluation des normes produites. Le delta consiste donc à **élargir ce mécanisme existant**, non à lui juxtaposer une seconde architecture.
-
-La chaîne devient :
-
-```text
-facultés d’habilitation
-→ conditions permettant leur mise en œuvre effective
-→ contrôle des normes adoptées
-→ évaluation périodique de la mise en œuvre du régime
-→ conditions d’accès et d’exercice
-→ effets observés
-→ Liberté, Égalité, Fraternité
-```
-
-Cette formulation saisit à la fois l’amont et l’aval :
-
-- **amont** : les conditions permettant qu’une habilitation puisse réellement être demandée, instruite, accordée et exercée ;
-- **aval** : les normes effectivement adoptées et les effets de la mise en œuvre du régime.
-
-Elle ne présume pas qu’un non-usage est fautif. Une évaluation de la **mise en œuvre** peut au contraire distinguer :
-
-```text
-non-usage choisi
-≠
-manque de capacité technique
-≠
-blocage procédural
-≠
-refus institutionnel
-```
-
-C’est précisément cette distinction qui permet de mesurer l’effectivité sans transformer la faculté constitutionnelle en obligation de l’utiliser.
-
----
-
-## 7. Pourquoi Liberté, Égalité, Fraternité reviennent dans le texte
-
-La version `0.4-rc1` avait remplacé la référence explicite à Liberté, Égalité, Fraternité par la formule :
-
-> **« principes constitutionnels applicables »**
-
-Cette prudence réglait une difficulté : l’article 2 ne fournit pas à lui seul une construction jurisprudentielle identique de la liberté, de l’égalité et de la fraternité.
-
-Mais elle faisait disparaître la finalité politique et constitutionnelle centrale de la proposition.
-
-La présente version distingue donc deux propositions qu’il ne faut pas confondre.
-
-### Proposition que le texte n’affirme pas
-
-> **L’article 2 serait, à lui seul, la source juridique autonome et identique de trois standards directement justiciables de liberté, d’égalité et de fraternité.**
-
-Ce n’est pas ce qui est soutenu.
-
-### Proposition que le texte assume
-
-> **La liberté, l’égalité et la fraternité composent la devise constitutionnelle de la République ; l’exercice de l’autonomie peut être périodiquement évalué en examinant ses effets sur leur effectivité.**
-
-La nuance est essentielle.
-
-L’amendement ne cherche pas à reconstruire tout le droit constitutionnel de la liberté ou de l’égalité à partir de l’article 2. Il introduit dans le mécanisme d’évaluation une question substantielle :
-
-> **les capacités ouvertes et effectivement exercées rapprochent-elles ou éloignent-elles la réalité des finalités républicaines auxquelles elles doivent rester ordonnées ?**
-
-Le Conseil constitutionnel a, par ailleurs, reconnu en 2018 la valeur constitutionnelle du principe de fraternité à partir notamment de la devise énoncée à l’article 2. Cette jurisprudence confirme au minimum que la devise constitutionnelle n’est pas juridiquement dépourvue de portée, sans pour autant rendre les trois termes interchangeables quant à leurs fondements et à leur régime contentieux.
-
----
-
-## 8. Effectivité n’est pas efficacité — mais elle peut inclure une évaluation d’impact
-
-La présente version assume plus explicitement un point que la revue adverse a correctement mis en tension.
-
-Dès lors que l’évaluation porte sur les **effets réels** de la mise en œuvre du régime sur Liberté, Égalité, Fraternité, elle comporte nécessairement une dimension d’impact substantiel.
-
-Cela ne signifie pas pour autant que l’effectivité se confond avec l’efficacité.
-
-```text
-effectivité
-= déterminer si une faculté, un droit ou une norme peut réellement être mobilisé
-  et quels effets sa mise en œuvre produit dans la réalité
-
-efficacité
-= comparer les moyens, les coûts et les résultats afin d’identifier
-  la politique ou l’instrument le plus performant
-```
-
-L’amendement n’ordonne donc ni un résultat socio-économique chiffré, ni un classement général des politiques publiques, ni une optimisation constitutionnelle des moyens.
-
-Il impose une exigence plus élémentaire :
-
-> **ce qui est constitutionnellement ouvert doit pouvoir être mis en œuvre ; cette mise en œuvre doit être observée dans le temps ; ses effets doivent pouvoir être confrontés aux finalités républicaines explicitement retenues.**
-
----
-
-## 9. Refus particulier, non-usage et effectivité du régime
-
-La nouvelle rédaction ne signifie pas :
-
-> **toute demande d’habilitation doit être acceptée.**
-
-Elle ne signifie pas davantage :
-
-> **toute faculté ouverte doit nécessairement être utilisée.**
-
-Un refus particulier peut rester juridiquement valide. Un non-usage peut être un choix politique parfaitement légitime de la Collectivité de Corse.
-
-L’objet de l’évaluation est précisément de ne pas confondre ces situations avec une ineffectivité structurelle.
-
-Elle doit permettre de distinguer, dans la durée :
-
-```text
-faculté ouverte mais volontairement non utilisée
-
-faculté demandée et normalement refusée
-
-faculté sous-utilisée faute d’ingénierie ou de moyens
-
-faculté pratiquement inaccessible du fait de délais, silences ou obstacles récurrents
-```
-
-Le test ne porte donc ni sur le nombre maximal d’habilitations obtenues ni sur l’acceptation de chaque demande. Il porte sur la question suivante :
-
-> **le régime institué permet-il réellement d’utiliser les facultés constitutionnelles lorsqu’une autorité compétente choisit de les mobiliser, et permet-il d’identifier pourquoi elles sont ou ne sont pas mises en œuvre ?**
-
----
-
-## 10. Effectivité procédurale et effectivité capacitaire
-
-Deux niveaux doivent rester distingués.
-
-### Effectivité procédurale
-
-Le système peut garantir :
-
-- la possibilité de demander ;
-- une instruction ;
-- un délai ;
-- une réponse ;
-- une motivation ;
-- un contrôle.
-
-### Effectivité capacitaire
-
-Le système ne réduit pas la faculté constitutionnelle à une procédure parfaitement régulière qui, dans la durée, ne permet jamais aucun exercice réel.
-
-La seconde notion ne signifie pas :
-
-> **obligation de résultat sur chaque demande.**
-
-Elle signifie :
-
-> **obligation d’organiser un régime dans lequel la faculté constitutionnelle demeure réellement mobilisable et dont l’usage peut être observé dans le temps.**
-
----
-
-## 11. Le précédent procédural du Conseil d’État
-
-Dans son avis sur le projet constitutionnel, le Conseil d’État a relevé l’intérêt d’un mécanisme plus explicite de réponse aux demandes de la Collectivité de Corse.
-
-Au point 32, il estime opportun que la loi organique puisse déterminer la manière dont, lorsqu’une demande relevant des mécanismes d’adaptation ou d’habilitation est formulée, **le Gouvernement est tenu de répondre sous une forme et dans un délai qu’elle fixerait**.
-
-Cette suggestion n’a pas été reprise comme telle dans le texte constitutionnel adopté par l’Assemblée nationale le 23 juin 2026.
-
-Elle fournit néanmoins un exemple concret du type de condition d’exercice que la première phrase de l’amendement pourrait commander à la loi organique d’organiser :
-
-```text
-demande
-→ transmission
-→ délai
-→ réponse
-→ motivation éventuelle
-→ contrôle
-```
-
-La présente proposition ne remplace pas ce mécanisme procédural.
-
-Elle lui donne une finalité plus générale :
-
-> **faire en sorte que la procédure serve effectivement l’exercice des facultés constitutionnelles ouvertes.**
-
----
-
-## 12. L’évaluation déjà prévue est élargie, pas doublée
-
-Le futur article 72-5 prévoit déjà que la loi organique détermine les modalités d’évaluation des normes prises sur le fondement des deuxième et troisième alinéas.
-
-La version `rc2` ajoutait à côté de cette disposition une seconde obligation d’évaluation. La revue adverse a correctement identifié le risque de redondance légistique.
-
-La version `rc3` fusionne donc les deux objets dans le même alinéa :
-
-```text
-évaluation des normes adoptées
-+
-évaluation de la mise en œuvre du régime
-+
-conditions d’accès et d’exercice
-+
-effets observés sur Liberté, Égalité, Fraternité
-```
-
-L’évaluation n’est ainsi plus conçue comme un mécanisme parallèle mais comme l’élargissement explicite de celui que le texte adopté prévoit déjà.
-
-Cette architecture permet également d’observer l’absence d’usage sans présumer qu’elle constitue un échec : le non-usage devient une **donnée à expliquer**, non une faute à sanctionner.
-
----
-
-## 13. Articles 73 et 74 : deux comparateurs, pas un modèle unique
-
-Le mécanisme envisagé pour la Corse emprunte certains traits aux habilitations de l’article 73, mais le Conseil d’État lui-même souligne que le futur article 72-5 est inédit et que ses mécanismes ne se confondent ni avec ceux de l’article 73 ni avec ceux de l’article 74.
-
-### Article 73
-
-L’article 73 connaît des mécanismes dans lesquels une collectivité peut être habilitée à adapter des normes ou à fixer elle-même des règles dans un nombre limité de matières.
-
-Ce comparateur montre qu’une habilitation peut rester :
-
-- ponctuelle ;
-- conditionnée ;
-- encadrée par une loi organique ;
-- compatible avec des exclusions substantielles.
-
-### Article 74
-
-Les collectivités régies par l’article 74 disposent d’un statut défini par une loi organique qui fixe notamment leurs compétences et les conditions d’applicabilité des lois et règlements.
-
-Ce comparateur rappelle qu’une autre architecture est possible : une autonomie normative peut être organisée par une distribution plus continue de compétences plutôt que par une succession d’habilitations ponctuelles.
-
-La présente proposition ne tranche pas entre les deux modèles.
-
-Elle traite un problème plus circonscrit :
-
-> **si la Constitution retient pour la Corse des facultés d’habilitation, leur architecture organique doit permettre leur exercice effectif et rendre leur fonctionnement observable.**
-
----
-
-## 14. Pourquoi l’évaluation est périodique
-
-Une évaluation unique peut devenir une formalité.
-
-Une exigence d’effectivité porte au contraire sur une relation dans le temps :
-
-```text
-faculté ouverte
-→ conditions d’exercice
-→ usages ou non-usages
-→ effets
-→ observation
-→ correction éventuelle
-→ nouvelle observation
-```
-
-Le mot **périodique** ne fixe ni fréquence constitutionnelle, ni indicateur chiffré.
-
-Il impose seulement que la loi organique ne puisse épuiser l’exigence d’évaluation par un exercice unique sans continuité.
-
-La fréquence, les indicateurs, les données utilisées, la publicité et les modalités de réexamen restent à déterminer par la loi organique.
-
----
-
-## 15. Liberté, Égalité, Fraternité : finalité, non résultat garanti
-
-L’évaluation des effets sur l’effectivité de la liberté, de l’égalité et de la fraternité ne signifie pas que toute norme corse devrait produire un accroissement mesurable et simultané des trois termes.
-
-Elle signifie que ces finalités ne sont pas étrangères à l’évaluation du régime.
-
-La loi organique pourrait notamment organiser une appréciation différenciée selon les matières concernées, les droits en cause et les effets observables.
-
-L’amendement ne crée donc pas :
-
-```text
-une politique publique unique
-ni
-un indicateur constitutionnel unique
-ni
-une obligation générale de maximisation
-```
-
-Il impose que l’évaluation ne se limite pas à constater que la procédure a formellement fonctionné.
-
----
-
-## 16. Égalité : une boussole symétrique
-
-Le texte adopté exige déjà que les normes prévues aux deuxième et troisième alinéas assurent l’égalité de tous sans distinction conformément à l’article 1er.
-
-La référence à l’effectivité de l’égalité dans l’évaluation du régime a un autre objet, mais elle n’est pas orientée dans un seul sens.
-
-Elle peut conduire à constater qu’une différenciation territoriale améliore une égalité réelle dans certaines situations ; elle peut aussi révéler qu’une norme ou un usage du régime produit une rupture d’égalité insuffisamment justifiée.
-
-Cette symétrie doit être assumée :
-
-> **Liberté, Égalité, Fraternité ne servent pas à garantir davantage d’autonomie ; elles servent à apprécier ce que l’autonomie rend effectivement possible ou produit.**
-
-On peut donc distinguer :
-
-```text
-égalité comme exigence de conformité des normes
-≠
-évaluation des effets réels du régime sur l’effectivité de l’égalité
-```
-
-La seconde ne réduit ni ne remplace la première.
-
----
-
-## 17. Non-régression et effectivité
-
-Le principe de non-régression sociale et environnementale prévu dans le texte adopté et le principe d’effectivité proposé ont des fonctions différentes.
-
-```text
-non-régression
-= ne pas descendre sous un certain niveau de protection
-
-effectivité
-= vérifier qu’une faculté ou une norme dispose de conditions réelles d’exercice
-  et que ses effets peuvent être observés au regard des finalités poursuivies
-```
-
-Une norme peut respecter un plancher sans produire les effets attendus.
-
-Inversement, l’invocation de l’effectivité ne permet pas de neutraliser les autres exigences constitutionnelles, européennes ou internationales applicables.
-
----
-
-## 18. Justiciabilité : ne pas sur-promettre
-
-La proposition crée d’abord une exigence constitutionnelle adressée au législateur organique : celui-ci doit déterminer des conditions permettant la **mise en œuvre effective** du régime et organiser une évaluation périodique déterminée dans son objet.
-
-Le contrôle obligatoire de la loi organique par le Conseil constitutionnel constitue un premier point de confrontation entre cette exigence et sa traduction législative. La présente note ne présume cependant pas l’intensité exacte de ce contrôle ni les remèdes que la jurisprudence en déduirait.
-
-Il faut distinguer au moins :
-
-- le contrôle de la loi organique elle-même ;
-- le contrôle des normes prises sur le fondement du futur article 72-5 ;
-- les recours éventuels contre certains actes administratifs ou réglementaires intervenant dans la mise en œuvre ;
-- la question distincte de l’invocabilité, notamment par QPC, de tout ou partie des exigences nouvelles ;
-- les conséquences politiques ou juridiques d’une évaluation révélant une ineffectivité durable.
-
-Aucune de ces voies ne doit être présentée comme automatiquement ouverte ou fermée sans analyse de l’acte attaqué, du titulaire du recours et du droit ou de la liberté constitutionnelle invoqués.
-
-Le texte constitutionnel fixe un standard. La loi organique et la jurisprudence détermineraient ensuite une part importante de ses modalités de contrôle.
-
----
-
-## 19. Carence organique et absence de correction automatique
-
-Une limite demeure.
-
-La Constitution peut assigner un contenu à la loi organique. Elle ne crée pas, par cette seule formulation, un mécanisme général permettant de contraindre le Parlement à adopter ou à modifier cette loi en cas d’inaction prolongée.
-
-De même, une évaluation négative ne déclenche pas automatiquement une correction déterminée.
-
-La version `rc3` assume donc deux limites :
-
-```text
-standard constitutionnel
-≠
-injonction juridictionnelle générale de légiférer
-
-évaluation obligatoire
-≠
-correction automatique prédéterminée
-```
-
-La loi organique pourrait néanmoins organiser des suites minimales : publication, transmission, débat, réponse motivée, réexamen ou proposition de correction. La question reste ouverte quant à l’opportunité de constitutionnaliser l’une de ces suites.
-
----
-
-## 20. Ce que l’amendement vise à faire
-
-L’amendement vise à :
-
-- préserver la distinction entre faculté juridique et capacité effective ;
-- obliger la loi organique à traiter les **conditions d’exercice**, pas seulement l’existence abstraite des facultés ;
-- intégrer dans un même mécanisme l’évaluation des normes et celle du **fonctionnement du régime** ;
-- rendre cette évaluation élargie périodique ;
-- conserver la distinction entre refus particulier et ineffectivité structurelle ;
-- rendre les effets réels de l’exercice juridiquement visibles ;
-- inscrire explicitement **Liberté, Égalité, Fraternité** dans l’horizon de cette évaluation ;
-- ne pas attribuer pour autant à l’article 2 une fonction juridictionnelle unique qu’il n’exerce pas aujourd’hui ;
-- conserver la compatibilité avec les autres exigences constitutionnelles et avec le droit européen et international ;
-- maintenir la distinction entre effectivité et efficacité.
-
----
-
-## 21. Ce que l’amendement ne fait pas
-
-L’amendement :
-
-- ne crée pas un droit automatique à toute habilitation ;
-- ne transforme pas chaque refus en inconstitutionnalité ;
-- ne transfère pas automatiquement une compétence ;
-- ne rend pas permanentes les habilitations ;
-- ne supprime aucune matière exclue ;
-- ne neutralise aucune autre exigence constitutionnelle ;
-- ne transforme pas l’évaluation en contrôle général d’opportunité ;
-- ne garantit aucun résultat socio-économique chiffré ;
-- ne donne pas au juge la mission de choisir la meilleure politique publique ;
-- ne fait pas de Liberté, Égalité, Fraternité trois standards juridictionnels identiques fondés uniquement sur l’article 2 ;
-- ne supprime pas toute marge de décision du Parlement ou du Gouvernement ;
-- ne supprime pas le risque de carence du législateur organique.
-
----
-
-
-## 21 bis. Traçabilité institutionnelle et canal parlementaire déjà documenté
-
-Cette proposition ne part pas d’un contact institutionnel vierge.
-
-Le 28 mai 2026, en réponse à une demande d’audience adressée à Florent Boudié, alors président et rapporteur de la commission des Lois sur le projet, un administrateur de la commission a indiqué au nom du président Boudié que le cycle d’auditions était clos et a proposé à C.O.R.S.I.C.A. d’adresser une contribution écrite. Le message précisait que cette contribution **serait mentionnée dans le rapport sur le projet de loi constitutionnelle, au même titre que les auditions réalisées**.
-
-La contribution C.O.R.S.I.C.A. consacrée à l’« Autonomie de capacité » a été transmise le 28 mai 2026. Le rapport n° 2865, déposé le 3 juin 2026 par Florent Boudié au nom de la commission des Lois, mentionne effectivement **l’Association C.O.R.S.I.C.A.** dans sa rubrique « Contributions écrites ».
-
-Florent Boudié est également l’auteur, en qualité de rapporteur, de l’amendement n° CL48 adopté en commission le 2 juin 2026, qui a substitué, pour la consultation des électeurs corses, le mot **« sont »** aux mots **« peuvent être »**. Cette modification a rendu obligatoire, dans le texte issu des travaux de l’Assemblée nationale, la consultation prévue par le futur article 72-5.
-
-Ces éléments établissent un précédent documentaire précis : le rapporteur a déjà reçu une contribution C.O.R.S.I.C.A., en a organisé la prise en compte dans les travaux préparatoires et a lui-même porté un amendement substantiel sur le même article constitutionnel.
-
-Au 26 septembre 2026, le texte est toutefois devant le **Sénat**. Le règlement du Sénat réserve le dépôt des amendements devant cette assemblée au Gouvernement et aux sénateurs. Florent Boudié, député, n’est donc pas lui-même le déposant possible d’un amendement au stade sénatorial actuel. Son rôle reste directement pertinent pour l’historique du texte, les échanges interparlementaires et une éventuelle suite de la navette à l’Assemblée nationale.
-
-Le calendrier public du Sénat indique à ce jour :
-- réunion de la commission des Lois pour le rapport : **21 octobre 2026 au matin** ;
-- délai limite de dépôt des amendements de séance : **23 octobre 2026 à 12 heures** ;
-- discussion en séance publique : **26 octobre 2026**.
-
-Cette section décrit le canal institutionnel existant ; elle ne préjuge ni du soutien d’un parlementaire ni du choix du déposant éventuel.
-
-
-## 22. Test contradictoire de la version `0.4-rc3`
-
-### Test 1 — La reformulation reste-t-elle minimale ?
-
-Le delta ne crée plus un nouvel alinéa mais modifie le mécanisme organique déjà présent. Il faut vérifier que chaque ajout à la première phrase existante produit une fonction distincte et qu’aucun détail relevant normalement de la loi organique n’est inutilement constitutionnalisé.
-
-### Test 2 — « Mise en œuvre effective » est-elle suffisamment déterminée ?
-
-La formule est plus large et plus adaptée que « exercice effectif », mais elle peut encore être qualifiée de programmatique. Il faut identifier le noyau minimal que la loi organique devrait nécessairement prévoir : accès, instruction, délai, réponse, motivation, articulation des autorités, contrôle ou autres garanties.
-
-### Test 3 — L’évaluation saisit-elle réellement le non-usage sans le pathologiser ?
-
-La formulation vise la **mise en œuvre** et les **conditions d’accès et d’exercice** plutôt que le seul exercice positif. Il faut vérifier que cela permet bien de distinguer non-recours volontaire, manque de capacité, refus légal et blocage structurel sans présumer qu’une faible utilisation constitue une défaillance.
-
-### Test 4 — La périodicité est-elle suffisamment déterminée ?
-
-Le mot « périodique » impose une répétition, mais laisse sa fréquence à la loi organique. Il faut vérifier si cette indétermination constitue la bonne frontière entre Constitution et loi organique.
-
-### Test 5 — Liberté, Égalité, Fraternité sont-elles des finalités d’évaluation suffisamment opératoires ?
-
-Leur présence est désormais une contrainte doctrinale assumée. Le test porte donc sur la façon dont la loi organique peut organiser une évaluation intelligible, pluraliste et symétrique, sans inventer un indicateur unique ni présenter la devise comme un cliquet en faveur ou contre l’autonomie.
-
-### Test 6 — Le terme « effets » réintroduit-il un contrôle d’efficacité générale ?
-
-La version `rc3` assume une dimension d’impact substantiel. Il faut vérifier que la note explique suffisamment pourquoi observer des effets n’équivaut pas à constitutionnaliser l’optimisation des politiques publiques.
-
-### Test 7 — Quelles conséquences doivent suivre d’une évaluation négative ?
-
-La Constitution impose l’évaluation mais ne dit pas ce qui advient lorsqu’elle révèle une ineffectivité durable.
-
-La loi organique pourrait prévoir :
-
-```text
-publication
-→ transmission
-→ débat
-→ obligation de réponse
-→ réexamen
-→ proposition de correction
-```
-
-Il reste à arbitrer si au moins l’une de ces suites doit être constitutionnalisée.
-
-### Test 8 — La formulation choisie résiste-t-elle aux lectures opposées ?
-
-Le texte doit rester intelligible aussi bien pour un lecteur souhaitant davantage de différenciation que pour un lecteur soucieux d’égalité et d’unité normative. L’évaluation doit être un instrument de connaissance et de responsabilité, non une présomption automatique en faveur de l’une des lectures.
-
----
-
-## 23. Formule courte
-
-> **Liberté, Égalité, Fraternité : l’effectivité comme exigence de réalité.**
-
-> **L’autonomie de papier ouvre des facultés.**
-
-> **L’autonomie de capacité organise leur mise en œuvre réelle, observe leur usage ou leur non-usage et confronte leurs effets aux finalités républicaines.**
-
----
-
-## 24. Références primaires
-
-**R1 — Assemblée nationale / Sénat.** Projet de loi constitutionnelle pour une Corse autonome au sein de la République, T.A. n° 318 adopté par l’Assemblée nationale le 23 juin 2026 et transmis au Sénat le 24 juin 2026 sous le n° 782. Le texte transmis prévoit notamment les facultés d’habilitation, le contrôle et les modalités d’évaluation des normes, ainsi que la garantie d’égalité conformément à l’article 1er.  
-https://www.senat.fr/leg/pjl25-782.html
-
-**R2 — Conseil d’État.** Avis sur le projet de loi constitutionnelle pour une Corse autonome au sein de la République, délibéré le 17 juillet 2025 et rendu public lors du dépôt gouvernemental. Le point 32 envisage explicitement que la loi organique puisse fixer la forme et le délai dans lesquels le Gouvernement serait tenu de répondre aux demandes correspondantes de la Collectivité de Corse.  
-https://conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/au-gouvernement/avis-relatif-au-projet-de-loi-constitutionnelle-pour-une-corse-autonome-au-sein-de-la-republique
-
-**R3 — Présidence de la République.** Discours devant l’Assemblée de Corse du 28 septembre 2023 : volonté de rendre « plus simple et plus effectif » le droit d’adaptation et le droit d’habilitation, alors décrits comme existants mais jamais mis en œuvre.  
-https://www.elysee.fr/emmanuel-macron/2023/09/29/deplacement-du-president-emmanuel-macron-en-corse-1
-
-**R4 — Constitution, article 2.** « La devise de la République est “Liberté, Egalité, Fraternité”. »  
-https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006527453
-
-**R5 — Constitution, articles 73 et 74.** Régimes ultramarins utilisés ici comme comparateurs, sans assimilation au futur régime corse.  
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
-
-**R6 — Conseil constitutionnel, décision n° 2018-717/718 QPC du 6 juillet 2018.** Reconnaissance du principe de fraternité comme principe à valeur constitutionnelle à partir notamment de la devise de l’article 2, du Préambule et de l’article 72-3.  
-https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018
-
-
-**R7 — Déclaration des droits de l’homme et du citoyen de 1789, article 16.** La garantie des droits comme composante de l’ordre constitutionnel ; fondement notamment du droit à un recours juridictionnel effectif.  
-https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527443
-
-**R8 — Constitution, articles 37-1 et 72.** Fondements constitutionnels des expérimentations normatives et territoriales ; pour l’article 72, dérogations expérimentales à objet et durée limités dans l’exercice des compétences territoriales.  
-https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000571356/
-
-**R9 — Conseil d’État, avis du 12 novembre 2015 sur la proposition de loi d’expérimentation pour des territoires « zéro chômage de longue durée ».** Le Conseil d’État rappelle qu’une expérimentation doit être évaluée avant son extension, sa modification, sa généralisation ou son abandon et que les modalités de cette évaluation doivent être suffisamment définies.  
-https://conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-la-proposition-de-loi-d-experimentation-pour-des-territoires-zero-chomage-de-longue-duree
-
-**R10 — Assemblée nationale, rapport de la commission d’enquête sur l’utilisation des fonds publics et la gestion des services publics en Corse.** Le rapport qualifie explicitement la période 1982-1992 de « laboratoire institutionnel » et décrit le statut de 1982 comme une anticipation du mouvement de décentralisation ensuite étendu aux régions françaises.  
-https://www.assemblee-nationale.fr/11/dossiers/corse/corse303.asp
-
----
-
-## 25. Arbitrage de la revue adverse `0.4-rc1`
-
-| Finding | Disposition `rc2` | Traitement |
-|---|---|---|
-| E1 — ambiguïté de « leurs effets » | `corrected` | remplacement par « cet exercice » puis « en apprécier les effets » |
-| O1 — risque de redondance avec l’évaluation déjà prévue | `integrated` | séparation explicite entre évaluation des normes et évaluation de l’exercice du régime |
-| O2 — intérêt d’un contrôle longitudinal | `piste` | conservé comme direction de recherche ; la périodicité en reprend le besoin sans importer un précédent hétérogène dans le dispositif |
-| O3 — collision du mot « capacité » | `conceded:bounding` | clarification expresse entre Autonomie de Capacité et capacité juridique des personnes |
-| O4 — article 74 absent | `integrated` | comparaison ajoutée, sans assimiler les régimes |
-| O5 — opportunité politique de modifier le compromis | `arbitration` | maintenu hors de la rédaction normative ; relève de la décision politique humaine |
-| O6 — absence de périodicité | `integrated` | ajout de « périodique » |
-| O7 — standard ouvert des « principes constitutionnels applicables » | `reformulate` | suppression de cette formule générique ; remplacement par la finalité explicitement assumée Liberté, Égalité, Fraternité |
-| B1 — tout reporter à la loi organique | `piste` | conserve son intérêt comme solution de plus faible intensité normative, mais ne réalise pas l’objectif d’un ancrage constitutionnel explicite de l’effectivité |
-| B2 — évaluation périodique seule | `reformulate` | mécanique retenue, mais finalité substantielle réintroduite |
-| B3 — forme et délai de réponse du Gouvernement | `integrated` comme exemple organique | point 32 de l’avis du Conseil d’État désormais vérifié |
-
----
-
-## 26. État de revue
-
-La version `0.4-rc2` est une nouvelle rédaction substantielle.
-
-Elle intègre les corrections rédactionnelles et plusieurs objections structurelles de la revue adverse de `0.4-rc1`, mais elle effectue aussi un arbitrage doctrinal explicite :
-
-> **Liberté, Égalité, Fraternité demeurent dans le texte proposé ; l’effectivité désigne l’exigence selon laquelle leur invocation doit pouvoir être confrontée aux conditions réelles d’exercice des capacités publiques et aux effets observables de leur usage.**
-
-Cette version ne doit donc pas être présentée comme « validée » par la revue précédente.
-
-Elle appelle un nouveau test adverse centré sur quatre questions :
-
-1. la formulation en deux phrases est-elle juridiquement plus contrôlable qu’une clause unique ?
-2. l’objet « exercice du régime » est-il suffisamment distinct de l’évaluation des normes déjà prévue ?
-3. « effets sur l’effectivité de la liberté, de l’égalité et de la fraternité » est-il suffisamment déterminable par une loi organique sans devenir un contrôle général d’opportunité ?
-4. faut-il, ou non, ajouter ultérieurement un mécanisme explicite de correction après une évaluation négative ?
-
----
-
-## 27. Formule finale
-
-> **Liberté, Égalité, Fraternité. Effectivité.**
-
-> **Une autonomie constitutionnelle n’est pleinement une autonomie de capacité que si les facultés qu’elle ouvre disposent de conditions réelles d’exercice, si cet exercice est observé dans la durée et si ses effets peuvent être appréciés au regard de l’effectivité des finalités républicaines qu’il doit servir.**
-
-
----
-
+**Règles de suite :** FBF ; revue contradictoire sans préjuger de l'issue ; aucune version antérieure privilégiée en raison de son antériorité ; toute correction de la candidate courante est permise avec traçabilité Git et état de revue explicite ; transmission/dépôt institutionnel distincts de la publication au Corpus.
