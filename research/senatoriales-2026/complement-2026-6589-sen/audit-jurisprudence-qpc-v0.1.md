@@ -2,7 +2,7 @@
 title: "2026-6589 SEN — Audit de jurisprudence pour les QPC L.299 et L.303"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-21"
-version: "0.2"
+version: "0.3"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -62,3 +62,10 @@ review:
 [Décision sur QPC360](https://qpc360.conseil-constitutionnel.fr/2015-11-27/decision-2015-500-qpc-27-novembre-2015). L'affaire concerne les frais d'expertise du comité d'hygiène, de sécurité et des conditions de travail et un dispositif de contestation devant le juge. **Conséquence :** ne pas la présenter comme une décision sur la réinscription préélectorale d'un candidat sénatorial ; sa pertinence se limite au contrôle de l'effectivité d'une protection juridictionnelle.
 
 **Statut :** trois qualifications précises confirmées ; absence de contrôle exhaustif des décisions antérieures de conformité de L.299 et L.303 ; les autres références demeurent à vérifier.
+
+## Deux précédents sénatoriaux : portée désormais contrôlée
+
+- [Décision 2014-4909 SEN du 23 janvier 2015](https://qpc360.conseil-constitutionnel.fr/2015-01-23/decision-2014-4909-sen-23-janvier-2015) : la formule sur le droit d'éligibilité et la liberté de l'électeur est bien présente dans la documentation officielle ; **elle porte cependant sur une règle d'incompatibilité / d'inéligibilité du code électoral organique liée au remplacement d'un parlementaire devenu ministre**, et non sur les conditions matérielles de consentement du remplaçant de L.299. Il s'agit d'un principe analogique et non d'une déclaration portant sur L.299.
+- [Décision 2023-6281 SEN/QPC du 8 décembre 2023](https://qpc360.conseil-constitutionnel.fr/2023-12-08/decision-2023-6281-sen-qpc-8-decembre-2023) : l'exigence procédurale d'identifier précisément la disposition contestée est directement pertinente ; la décision ne tranche ni L.299 ni L.303.
+
+**FBF documentaire :** les deux mémoires souverains comportaient chacun, dans `related_documents`, une référence relative vers un ancien nom de fichier qui n'était plus leur nom canonique. Les liens ont été corrigés sans modification des arguments : commits `063ed99` (L.299) et `bb8bd09` (L.303). Relancer la compilation pour conserver un manifeste cohérent avec les nouveaux octets sources.
