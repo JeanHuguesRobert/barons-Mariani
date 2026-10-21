@@ -11,7 +11,7 @@ document_role: source
 document_kind: legal-historical-evidence-note
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/sources_primaires_rectifications_2026-10-21.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/sources_primaires_rectifications_2026-10-21.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
