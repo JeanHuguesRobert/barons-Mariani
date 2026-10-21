@@ -27,6 +27,8 @@ L'un des points essentiels appelle une distinction factuelle : l'émission le 11
 
 Afin d'éclaircir ces points, j'ai adressé des courriels répétés à la préfecture et au greffe du Tribunal administratif, sollicitant une simple vérification des traces existantes. Les notices complémentaires **rattachent ces échanges aux pièces P-12, P-14, P-22, P-29 à P-33, P-45 et P-46, déjà citées dans ma requête enregistrée**. Les courriels et réponses sont présentés pour leur contenu propre, avec distinction des actes expédiés, des réponses reçues, des traces manquantes et des faits demeurant inconnus. La production complémentaire n'est pas présentée comme une preuve que ces sous-annexes figuraient déjà matériellement au dossier initial.
 
+Pour les seuls documents administratifs identifiables susceptibles d'être détenus par la Préfecture, je prépare séparément une démarche au titre du droit d'accès prévu par le CRPA et, si les conditions de refus et les délais sont réunis, une saisine de la CADA. Cette démarche n'est pas encore déposée et son issue n'est pas anticipée. Elle ne vise pas les pièces relevant de l'activité juridictionnelle du Tribunal administratif : pour celles-ci, je sollicite séparément les mesures d'instruction déjà demandées au Conseil sur le fondement de l'article 42 de l'ordonnance organique n° 58-1067.
+
 ## Emplacement obligatoire du texte souverain
 
 **[À LA COMPILATION UNIQUEMENT — insérer ici le CORPS INTÉGRAL et validé de `texte-maitre-travail-v0.1.md`, y compris les deux QPC complètes, le bordereau définitif et les notices retenues ; supprimer cette instruction technique des rendus de dépôt.]**
