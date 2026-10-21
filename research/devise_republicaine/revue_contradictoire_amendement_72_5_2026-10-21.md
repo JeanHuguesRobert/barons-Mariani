@@ -7,7 +7,7 @@ last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
 version: "0.1"
-status: "working-draft — revue interne contradictoire ; non substitutive d'une expertise indépendante"
+status: "working-paper — revue interne contradictoire ; non substitutive d'une expertise indépendante"
 document_role: source
 document_kind: constitutional-legal-review
 document_function: legal-adversarial-analysis
