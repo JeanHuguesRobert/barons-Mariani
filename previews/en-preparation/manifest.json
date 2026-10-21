@@ -1,12 +1,11 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-21T17:29:07.886634+00:00",
-  "git_sha": "4d568622998561df321feea7009d9868478af7f8",
   "books": [
     {
       "id": "capable",
       "page": "capable.html",
+      "source_sha256": "34c53fcaa4982855886c7b099b445b664c569045181f01ba87add9d1f191e736",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
@@ -25,6 +24,7 @@
     {
       "id": "suicide-corse",
       "page": "suicide-corse.html",
+      "source_sha256": "f6d8159fdbc0dab7395fa747093a27e75465ed44767ee93769ce14aae2a20b3a",
       "inputs": [
         {
           "path": "projects/suicide-corse/editions/2026-10-09-n4-en-preparation.md",
@@ -35,6 +35,7 @@
     {
       "id": "1755",
       "page": "1755.html",
+      "source_sha256": "2137501f9260053e6d1ed70400807a76e25ca86637f492609a0d3e5029191390",
       "inputs": [
         {
           "path": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
@@ -49,6 +50,7 @@
     {
       "id": "rise-and-fall",
       "page": "rise-and-fall.html",
+      "source_sha256": "cc7f6ddf552641017d996b8dd4c6cd5c0a7afb2a04d9502f547c1e9df22ae281",
       "inputs": [
         {
           "path": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",
