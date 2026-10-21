@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Compile a reproducible *preview* of SEN 2026-6589 from 3 Markdown sources.
+"""Compile a reproducible *preview* from three Markdown sources and a selection contract.
 
 Requirements: Python 3.10+, pandoc, and a working PDF engine (xelatex).
 No network, upload, e-mail, signing, or filing is performed.
@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SEN = ROOT / "research" / "senatoriales-2026"
 CON = SEN / "complement-2026-6589-sen"
 MAIN = CON / "texte-maitre-travail-v0.1.md"
+DELIVERY_SELECTION = CON / "delivery-selection.json"
 L299 = SEN / "qpc" / "memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md"
 L303 = SEN / "qpc" / "memoire-qpc-l303-garanties-juridictionnelles.md"
 FIRST = "## VI–VII. Mémoires QPC autonomes — inclusion par référence"
@@ -51,8 +52,58 @@ def git_revision() -> str:
     return subprocess.check_output(["git", "-C", str(ROOT), "rev-parse", "HEAD"], text=True).strip()
 
 
+def heading_span(text: str, heading: str) -> tuple[int, int]:
+    matches = list(re.finditer(rf"(?m)^{re.escape(heading)}[ \t]*$", text))
+    if len(matches) != 1:
+        raise ValueError(f"delivery-selection heading must occur exactly once: {heading}")
+    return matches[0].start(), matches[0].end()
+
+
+def select_delivery_body(text: str) -> tuple[str, dict]:
+    contract = json.loads(DELIVERY_SELECTION.read_text(encoding="utf-8"))
+    if contract.get("source_path") != str(MAIN.relative_to(ROOT)):
+        raise ValueError("delivery-selection source_path does not match the master document")
+    title_start, title_end = heading_span(text, contract["title_heading"])
+    body_start, _ = heading_span(text, contract["body_start_heading"])
+    excluded_start, _ = heading_span(text, contract["exclude_from_heading"])
+    if not title_start < title_end <= body_start < excluded_start:
+        raise ValueError("delivery-selection headings are out of order")
+
+    before_body = text[title_end:body_start].strip()
+    after_body = text[excluded_start:].strip()
+    selected = text[title_start:title_end].rstrip() + "\n\n" + text[body_start:excluded_start].strip() + "\n"
+    for marker in contract.get("forbidden_output_markers", []):
+        if marker in selected:
+            raise ValueError(f"internal production marker remains in selected output: {marker}")
+
+    exclusions = [
+        {
+            "id": "preparatory-notice-and-transmission-contract",
+            "reason": contract["exclusion_reasons"]["before_body"],
+            "bytes": len(before_body.encode("utf-8")),
+            "sha256": hashlib.sha256(before_body.encode("utf-8")).hexdigest(),
+        },
+        {
+            "id": "pre-emission-checklist",
+            "reason": contract["exclusion_reasons"]["after_body"],
+            "bytes": len(after_body.encode("utf-8")),
+            "sha256": hashlib.sha256(after_body.encode("utf-8")).hexdigest(),
+        },
+    ]
+    return selected, {
+        "selection_id": contract["selection_id"],
+        "source_path": contract["source_path"],
+        "included_title_heading": contract["title_heading"],
+        "included_from_heading": contract["body_start_heading"],
+        "excluded_from_heading": contract["exclude_from_heading"],
+        "purpose": contract["purpose"],
+        "preserve_canonical_source": True,
+        "excluded_ranges": exclusions,
+    }
+
+
 def make(out: Path, pdf_engine: str, compose_only: bool = False) -> None:
-    main = document(MAIN)
+    main, delivery_selection = select_delivery_body(document(MAIN))
     q299 = extract_qpc(L299)
     q303 = extract_qpc(L303)
     if main.count(FIRST) != 1 or main.count(LAST) != 1:
@@ -68,10 +119,16 @@ def make(out: Path, pdf_engine: str, compose_only: bool = False) -> None:
     out.mkdir(parents=True, exist_ok=True)
     md = out / "complement-integral.preview.md"
     md.write_text(combined, encoding="utf-8")
-    source_pairs = [(MAIN, "consolidation"), (L299, "qpc-l299"), (L303, "qpc-l303")]
+    source_pairs = [
+        (MAIN, "consolidation"),
+        (L299, "qpc-l299"),
+        (L303, "qpc-l303"),
+        (DELIVERY_SELECTION, "delivery-selection-contract"),
+    ]
     manifest = {
         "purpose": "preview-only; not approved for filing",
         "source_git_commit": git_revision(),
+        "delivery_selection": delivery_selection,
         "sources": [
             {"role": name, "path": str(path.relative_to(ROOT)), "sha256": sha256(path)}
             for path, name in source_pairs

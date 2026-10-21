@@ -1,0 +1,18 @@
+{
+  "schema": "sen-2026-6589.delivery-selection.v1",
+  "selection_id": "sen-2026-6589-court-facing-body-v1",
+  "source_path": "research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md",
+  "title_heading": "# Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée",
+  "body_start_heading": "## Objet",
+  "exclude_from_heading": "## X. Contrôle avant émission — NON SATISFAIT",
+  "purpose": "Select the recipient-facing draft body while preserving internal preparation controls in the canonical working source.",
+  "exclusion_reasons": {
+    "before_body": "The draft warning and source/transmission production contract are internal preparation instructions, not recipient-facing pleading text.",
+    "after_body": "The pre-emission checklist is an internal review gate, not recipient-facing pleading text."
+  },
+  "forbidden_output_markers": [
+    "Brouillon de travail v0.4. NE PAS ENVOYER.",
+    "## Contrat de source et de transmission — version corrigée",
+    "## X. Contrôle avant émission — NON SATISFAIT"
+  ]
+}
