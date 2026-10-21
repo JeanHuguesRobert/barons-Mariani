@@ -4,12 +4,12 @@ subtitle: "Liberté, Égalité, Fraternité — l’effectivité comme exigence 
 author: "Jean Hugues Noël Robert — Président de l'association C.O.R.S.I.C.A."
 affiliation: "Association C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-last_modified_at: "2026-09-29"
+last_modified_at: "2026-10-21"
 version: "0.5-rc1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
-description: "Version parlementaire courte de l’amendement d’effectivité, suivie de sa note de justification et du dossier de travail : reformulation ciblée de l’alinéa organique du futur article 72-5, mise en œuvre effective, évaluation périodique et Liberté-Égalité-Fraternité."
+description: "Texte parlementaire v0.5-rc1 inchangé ; dossier souverain réunifiant options, revue contradictoire interne, objections, justifications et historique pour arbitrage."
 document_role: "source"
 document_kind: "constitutional-amendment-note"
 visibility: "public"
@@ -46,28 +46,6 @@ Texte n° 782 (2025-2026), transmis au Sénat le 24 juin 2026
 
 **Statut distinct de la proposition « amendement Baron Mariani » (9 octobre 2026) :** proposition publiée dans ce dépôt GitHub, sans transmission au Sénat attestée à cette date, sans dépôt parlementaire attesté et sans adoption. La mention « transmis au Sénat » ci-dessus qualifie exclusivement le **projet de loi constitutionnelle n° 782**, et non notre proposition d’amendement. Distinguer obligatoirement : publication (GitHub), transmission (destinataire institutionnel identifié et trace), dépôt (enregistrement parlementaire) et adoption (vote et intégration). Ne jamais inférer l'un de ces états d'un autre.
 
-## Revue adverse Jimini.ai — traitement FBF (9 octobre 2026)
-
-**Statut de cette revue :** observations externes fournies par le porteur de la proposition ; analyse critique interne, **non assimilée à une validation juridique indépendante**. La rédaction parlementaire située ci-dessous reste **inchangée** tant qu'une version candidate distincte n'a pas été arbitrée. La revue ne constitue ni une transmission au Sénat ni un dépôt parlementaire.
-
-| Objection | Décision provisoire | Justification / test |
-| --- | --- | --- |
-| « Mise en œuvre effective » trop indéterminée | Retenir pour examen | Tester « garanties nécessaires à la mise en œuvre effective » contre le texte de l'alinéa et la future marge de la loi organique. |
-| Présentation, instruction, réponse / octroi confondus | Retenir | Distinguer l'accès à une procédure, la décision d'habilitation et l'exercice de la faculté ; aucun droit automatique à l'octroi. |
-| Silence et omissions hors contrôle | À instruire | Examiner les voies existantes de contrôle des actes et carences avant toute nouvelle compétence juridictionnelle constitutionnelle. |
-| Évaluation « périodique » purement symbolique | Retenir la publicité comme option | Tester une évaluation **publique et périodique** ; laisser la fréquence et les modalités au législateur organique. |
-| « Effets » : risque de contrôle politique d'opportunité | Clarification dans l'objet | Les effets sont objet d'observation contradictoire, non nouveau pouvoir général du juge de choisir les politiques publiques. |
-| Fraternité et égalité | Conserver les trois finalités | Ne pas fabriquer un standard juridictionnel uniforme à partir de la devise ; préserver une évaluation symétrique des effets bénéfiques et nuisibles. |
-| « Incompétence négative » du constituant | Requalifier | Risque principal : incomplétude fonctionnelle de la loi organique, non censure ordinaire d'une révision constitutionnelle pour incompétence négative. |
-| Non-usage des habilitations | Conserver expressément | Distinguer le choix légitime de ne pas demander ou exercer de l'impossibilité matérielle d'agir. |
-
-**Prochaine décision rédactionnelle** : préférer le plus petit delta ayant une conséquence vérifiable, plutôt qu'une accumulation de garanties formelles. La régularité procédurale, à elle seule, ne prouve pas l'autonomie de capacité. Une demande instruite et systématiquement rejetée peut être procéduralement régulière, tout en restant un échec de capacité à examiner. Cela ne démontre pas à lui seul une illégalité.
-
-**Hypothèse candidate à comparer, non substituée au dispositif actuel :** remplacer « conditions permettant » par « garanties nécessaires à » et ajouter « publique » à « évaluation périodique ». Ne pas incorporer sans étude préalable une nouvelle attribution de contrôle aux juridictions ; respecter le contrôle distinct des normes selon leur nature.
-
-**Règle de provenance :** enregistrer séparément publication GitHub, transmission institutionnelle avec preuve, dépôt parlementaire et adoption. À cette date, seule la publication de la proposition est établie.
-
----
 
 ## ARTICLE UNIQUE
 
@@ -91,7 +69,211 @@ Cette évaluation prend enfin en compte les effets de cette mise en œuvre au re
 
 ---
 
-# Note de justification et dossier de travail
+---
+
+# Dossier souverain de revue — options et objections (état du 21 octobre 2026)
+
+**Hiérarchie des éléments.** Le texte sous « ARTICLE UNIQUE » et son « Objet » constituent la **candidate v0.5-rc1, reproduite sans changement**. Les options ci-dessous sont des alternatives non arbitrées, non déposées. La présente revue reste **interne et non indépendante** ; l'auteur conserve la décision souveraine. La chronologie des revues antérieures et les développements doctrinaux sont conservés ensuite, à titre de justification et d'historique, non comme décisions plus récentes.
+
+**Question de décision.** Quel mécanisme garantit une différence observable entre *faculté d'habilitation*, *examen motivé*, *décision institutionnelle* et *effets réels*, sans violer les compétences du Parlement ? La comparaison doit rester ouverte à **ne pas amender** (option 0).
+
+## Synthèse contradictoire actuelle
+
+| Voie | Gain recherché | Objection qui peut la faire écarter | Disposition interne |
+| --- | --- | --- | --- |
+| **0 — Aucun amendement** | Moindre intervention constitutionnelle | La future loi organique peut omettre les refus et les silences sans méconnaître explicitement le texte | Contre-hypothèse maintenue |
+| **A — Candidate v0.5-rc1** | Évaluation du régime et de ses effets ; effectivité capacitaire | Aucun débiteur ni délai explicite de réponse motivée | Candidate conservée, non validée |
+| **B / C** | Obligation organique d'instruction et de réponse, forte / minimale | Compétence du débiteur et redondance avec l'existant | À éprouver |
+| **D / D+** | Garantie directe inspirée de l'antériorité AN n°43 ; traçabilité supplémentaire | D ne constitue pas une nouveauté ; D+ doit démontrer sa plus-value face au CGCT | À rédiger et comparer |
+| **E — Combinaison** | Réponse motivée et évaluation publique des effets | Champ trop large, débiteur « État » indéterminé et insertion constitutionnelle incomplète | **Ne pas déposer en l'état** |
+| **O — Loi organique seulement** | Exiger procédure et évaluation sans révision additionnelle | Domaine organique peut ne couvrir que les habilitations 72-5, non toutes les propositions de l'Assemblée | Contre-épreuve prioritaire |
+
+**Objections porteuses à lever avant toute recommandation de texte :**
+1. **Périmètre** : distinguer habilitations visées à l'article 72-5 des propositions et demandes relevant plus généralement du CGCT.
+2. **Imputabilité** : pour chaque catégorie, désigner la personne publique chargée d'enregistrer, instruire et motiver ; ne jamais assimiler une réponse gouvernementale à un vote du Parlement.
+3. **Gain normatif** : démontrer que le projet constitutionnel et le droit positif ne prescrivent pas déjà la même garantie ; « pourrait » ne vaut pas « doit ».
+4. **Insertion littérale** : tester l'article complet, sans supprimer contrôle CE/CC, non-régression, matières exclues et protection de l'égalité.
+5. **Conséquences contrôlables** : refuser tout automatisme « silence = habilitation » ; distinguer publication de résultats, correction politique et justiciabilité.
+6. **Traçabilité** : non-localisation d'un rapport annuel du CGCT n'établit pas son inexistence ou une illégalité.
+
+**Disposition interne :** `JUDGMENT_REQUIRED`. Priorité de rédaction à **O** puis **E'** (champ clarifié), avant comparaison au projet inchangé et à la candidate A ; aucune conclusion externe indépendante à ce stade.
+
+## Registre comparatif complet — options 0, A, B, C, D, D+, E, O
+
+**Portée et gouvernance.** Cette annexe consolide les **options non arbitrées** dans le document de référence, afin que les revues successives examinent le même ensemble. **Elle ne modifie ni la rédaction parlementaire candidate v0.5-rc1 ci-dessus, ni son statut, ni l'état de transmission/dépôt.** Une option proposée n'est ni un amendement déposé, ni un choix du Principal, ni une conclusion juridique validée. Les rédactions concurrentes demeurent des *objets de test* ; toute substitution au texte candidat exige un arbitrage explicite.
+
+### 1. Problème normatif commun et acquis
+
+- Le projet d'article 72-5 organise des **facultés d'habilitation**, avec contrôle et évaluation des normes produites. Cela ne démontre pas une obligation de traiter en temps utile **toutes les demandes**, ni d'évaluer les refus, les délais, le non-recours et les conséquences concrètes pour les habitants.
+- Le **CGCT L.4422-16 V bis**, déjà en vigueur, prévoit l'accusé de réception par le Premier ministre et un rapport annuel public ; la recherche n'a pas permis de localiser tous les rapports attendus, ce qui **ne prouve pas leur inexistence**. Le mécanisme ne donne pas, à lui seul, un délai général de réponse motivée.
+- Le député **Ugo Bernalicis et cosignataires** ont déjà proposé une obligation de réponse motivée : CL12, puis **amendement de séance n° 43**, dont la rédaction évite le renvoi direct au CGCT ; les deux ont été retirés. Il serait inexact d'attribuer cette idée comme innovation propre à la présente proposition.
+- Quatre opérations restent juridiquement distinctes : **demander**, **recevoir une réponse motivée**, **obtenir une habilitation**, **mesurer les effets sur les capacités réelles des personnes**. La deuxième n'implique ni la troisième ni une injonction faite au Parlement de légiférer.
+- Les chiffres issus des rapports Boudié et Josende ont des **périmètres distincts** et ne doivent pas être fusionnés.
+
+### 2. Registre comparatif des voies possibles
+
+| Option | Technique | Gain recherché | Limite ou test décisif | État |
+| --- | --- | --- | --- | --- |
+| **0 — Projet inchangé** | Ne pas amender la Constitution ; organiser les procédures dans les lois existantes ou à venir | Moindre delta ; souplesse institutionnelle | Quelle obligation existe effectivement si la loi organique se tait ? | Contre-hypothèse obligatoire |
+| **A — v0.5-rc1** | Réécriture ciblée de la première phrase de l'alinéa organique et ajout de l'évaluation périodique du régime au regard de Liberté, Égalité, Fraternité | Constitutionnaliser la mise en œuvre et l'évaluation des capacités | Pas de délai de réponse motivée explicite ; risque d'indétermination | **Seule candidate historique conservée ; non remplacée** |
+| **B — Garantie développée** | Prévoir enregistrement, instruction, réponse motivée dans un délai, publicité et évaluation des effets | Chaîne procédurale et capacitaire observable | Débiteur de la réponse, procédure parlementaire, compétence du juge et coût | Brouillon comparatif |
+| **C — Garantie minimale** | Insérer une phrase imposant à la loi organique d'organiser examen, réponse motivée et délai | Petit delta constitutionnel sur le silence | Objectif d'effectivité et évaluation du régime moins explicites | Repli à éprouver |
+| **D — Garantie directe** | Constitution : « L'État est tenu de répondre… » (logique du n° 43), modalités précisées par la loi | Obligation de réponse moins dépendante d'un simple renvoi organique | Quelle autorité répond à quoi, sans imposer un vote parlementaire ? | Antériorité parlementaire ; non retenue |
+| **D+ — Garantie directe renforcée** | D + traçabilité, publicité des suites, délais et traitement explicite du silence, selon modalités à préciser | Vérifiabilité institutionnelle accrue | Redondance avec le V bis, sanction et partage Gouvernement/Parlement | **Schéma de travail**, rédaction exacte à stabiliser |
+| **E — Combinaison procédurale et capacitaire** | D + obligation d'évaluation périodique publique du régime, de ses suites et de ses effets, sans octroi automatique | Joint le *devoir de réponse* à l'*observation des effets* | Densité constitutionnelle, séparation des pouvoirs, portée du mot « État » et placement exact | **Brouillon à soumettre à revue ; non arbitré** |
+| **O — Solution organique seule** | Ne pas modifier 72-5 ; prévoir par loi organique (dans son domaine) les modalités de traitement, de suivi et d'évaluation | Réduire l'ampleur de la révision constitutionnelle | Une telle loi organique a-t-elle une base suffisante ? Peut-elle créer tous les devoirs envisagés ? | Contre-épreuve à rédiger précisément |
+
+Les variantes A/B/C sont développées dans [la note de comparaison](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md). L'antériorité de D est détaillée dans [l'analyse CL12/43](../devise_republicaine/CL12_43_comparaison_et_delai.md). D+ et E sont ici consolidées comme **pistes** ; ne pas leur prêter une rédaction définitive ou une validation antérieure non établie.
+
+### 3. Variante E — rédaction de travail à éprouver, non candidate adoptée
+
+> L'État garantit l'examen des propositions et demandes de l'Assemblée de Corse ainsi qu'une réponse motivée dans un délai déterminé. La loi organique précise les modalités de cette garantie, dans le respect des compétences des autorités concernées. Elle prévoit une évaluation publique et périodique de la mise en œuvre du présent article, notamment des demandes, des décisions prises et de leurs effets sur l'effectivité de la liberté, de l'égalité et de la fraternité.
+
+**Réserves sur cette formulation :** ce bloc n'est **pas** une instruction de remplacer l'alinéa 6 par ces seules phrases. Avant toute rédaction institutionnelle, il faut en vérifier la place exacte, préserver **l'intégralité** du contrôle du Conseil d'État et du Conseil constitutionnel, les conditions de non-régression et les limites aux habilitations, et déterminer si « l'État » est un débiteur procédural suffisamment identifié. Les « propositions et demandes » de l'Assemblée débordent les demandes d'habilitation stricto sensu : comparer cette extension au champ réel du dispositif. Une réponse de l'exécutif ne saurait valoir décision du Parlement.
+
+### 4. Matrice de revue contradictoire — mêmes tests pour toutes les options
+
+1. **Delta démontré :** quel devoir précis la rédaction impose-t-elle que le projet et le CGCT n'imposent pas déjà ? Quelle disposition suffit éventuellement à droit constant ou dans la loi organique ?
+2. **Imputabilité :** qui accuse réception, instruit, motive, publie et rend compte, selon qu'une demande relève de l'exécutif, du législateur ou de la Collectivité ?
+3. **Délais et silence :** quel point de départ, quelle durée, quelles exceptions légitimes, quelle preuve du défaut de réponse, quelle conséquence licite du silence ? **Aucune habilitation tacite présumée**.
+4. **Constitutionnalité institutionnelle :** ne pas imposer subrepticement un vote, une inscription à l'ordre du jour ou un calendrier parlementaire incompatible avec les prérogatives des assemblées.
+5. **Vérifiabilité :** suivre la chaîne *demande → instruction → réponse/décision → éventuelle norme → application → effets pour les habitants* ; distinguer refus justifié, inertie administrative et absence volontaire de demande.
+6. **Protection et publicité :** documenter ce qui peut être publié tout en préservant les secrets et données légalement protégés.
+7. **Proportionnalité :** comparer complexité, coût, risques de contentieux et gain normatif vérifiable par rapport à l'option 0 et à la solution O.
+8. **Intégrité légistique :** collation littérale avec le texte sénatorial pertinent ; garanties déjà prévues conservées ; distinguer la réécriture d'une phrase de celle d'un alinéa entier.
+
+### 5. Gouvernance de la suite
+
+**Statut de ce registre : JUDGMENT_REQUIRED.** Aucune option B–E/O n'est approuvée ou déposée ; la version v0.5-rc1 n'a pas changé. La revue interne ne vaut pas expertise juridique indépendante. Le Reviewer devra pouvoir **rejeter toutes les modifications**, retenir une solution organique, demander un repli minimal ou recommander une combinaison. Le Redactor documentera, pour chaque objection, son traitement et les conséquences textuelles. Une décision du Principal sera requise **avant substitution à la candidate, transmission institutionnelle ou revendication d'une validation indépendante**.
+
+**Sources de travail internes :** [revue contradictoire](../devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md), [rapport de complétion Redactor](../devise_republicaine/redactor_completion_review_interne_72_5.md), [audit CGCT V bis](../devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md), [note responsabilités et recours](../devise_republicaine/recours_et_responsabilites_partagees_L4422_16_2026.md), [packet de revue #141](https://github.com/JeanHuguesRobert/barons-Mariani/issues/141), [amendement AN n°43](https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43).
+
+---
+
+# Revue interne contradictoire — rapport intégré
+
+La présente section reproduit la revue du 21 octobre 2026 pour permettre son examen **dans ce document unique**. Le fichier de revue séparé reste une pièce de provenance et d'historique.
+
+## Rapport contradictoire sur les options consolidées
+
+**Mandat.** Examiner de manière adverse l'annexe « registre souverain des options » du [document souverain](../autonomia/amendement_effectivite_article_72-5.md), particulièrement les options **0, E et O**, mais aussi les variantes A–D+. La version candidate **v0.5-rc1 reste inchangée** ; la revue est **interne, non indépendante**, sans adoption ni transmission institutionnelle. Statut : **JUDGMENT_REQUIRED**.
+
+## 1. Sources vérifiées et périmètre
+
+- **Projet Sénat n°782, 24 juin 2026 :** l'article 72-5 projeté confie à la loi organique le contrôle des normes produites et leurs modalités d'évaluation. La phrase suivante envisage des modalités de non-régression ; l'alinéa conserve en outre des exclusions substantielles. Source primaire : https://www.senat.fr/leg/pjl25-782.html.
+- **Amendement AN n°43 :** déposé le 12 juin et retiré le 18 juin 2026 ; il anticipe explicitement une obligation de réponse dans un délai et évite la référence textuelle directe au CGCT. Il n'est pas dans le projet adopté. Source primaire : https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43.
+- **L.4422-16 V bis :** la note documentaire du corpus établit le dispositif de réception et de rapport annuel public. La présence effective de chaque rapport annuel **n'est pas vérifiée** ; absence de localisation n'est pas absence prouvée. Comparer [l'audit](audit_effectivite_L4422_16_Vbis_2026-10-21.md).
+- **Limite de la revue :** aucune jurisprudence exhaustive sur le champ exact de la loi organique ou l'ordre du jour parlementaire n'est ici établie. Ne pas convertir un risque juridique en impossibilité certaine.
+
+## 2. Objections critiques (ordre de gravité)
+
+| ID | Objection adverse | Gravité | Test de résolution |
+| --- | --- | --- | --- |
+| **R1** | **Champ hétérogène.** E vise « les propositions et demandes de l'Assemblée de Corse » en général, alors que le projet 72-5 vise principalement les habilitations et normes issues de celles-ci. Une loi organique de mise en œuvre de 72-5 peut ne pas être le véhicule adapté à *toutes* les demandes relevant de L.4422-16. | Bloquante pour E telle quelle | Définir deux périmètres : demandes d'habilitation relevant de 72-5 / autres propositions de la Collectivité ; donner un fondement autonome si l'on veut couvrir les deux. |
+| **R2** | **Débiteur incertain.** « L'État garantit » ne précise pas qui reçoit, motive, répond ni quand une proposition nécessite un vote. Une réponse de l'exécutif ne saurait imposer une décision parlementaire. | Bloquante pour toute obligation opposable sans architecture | Cartographie par type de demande (gouvernementale/réglementaire/législative) et test des prérogatives parlementaires. |
+| **R3** | **Réponse ≠ suite favorable.** Obligation de traitement ne garantit pas que l'habilitation soit accordée ; l'effet concret dépend d'une chaîne supplémentaire. | Structurante | Maintenir refus motivé possible, aucun silence valant acceptation, suivre décisions et effets. |
+| **R4** | **Redondance constitutionnelle.** Le projet dispose déjà d'une clause d'évaluation des *normes* et le droit existant d'un suivi des *propositions*. Le gain constitutionnel des options A/E doit être comparé précisément à ce qui pourrait être prescrit par une loi organique ordinaire. | Bloquante pour la justification, non pour la possibilité juridique | Contre-factuel : régime autorisé par le texte actuel mais n'évaluant que les normes produites ; quelle omission demeure licite après modification ? |
+| **R5** | **Portée de l'évaluation.** « Effets sur l'effectivité de la liberté, de l'égalité et de la fraternité » est une finalité, pas un protocole de mesure ou une norme contentieuse déterminée. | Élevée | Distinguer obligation de publier des données, méthode d'évaluation, responsabilité politique et contrôle juridictionnel. |
+| **R6** | **Placement légistique.** E, présentée comme bloc autonome, ne remplace pas à elle seule la première phrase organique : le contrôle CE/CC, la non-régression et les limites constitutionnelles doivent rester littéralement intacts. | Bloquante avant dépôt | Épreuve « avant/après » de l'article entier avec texte n°782, sans effacement incident des autres phrases. |
+| **R7** | **Publicité absolue ambiguë.** Évaluation « publique » peut heurter secrets ou données protégées. | Corrigeable | Prévoir un bilan public sous réserve des protections applicables et définir jeu de données contrôlable. |
+| **R8** | **Inflation constitutionnelle.** E associe garantie de réponse, loi organique, politique d'évaluation et finalités républicaines ; accumulation susceptible de rendre la norme moins intelligible. | Élevée | Réduire chaque option à une obligation supplémentaire démontrée et mesurable ; envisager une solution à deux étages. |
+
+## 3. Comparaison adverse des trois voies prioritaires
+
+### Option 0 — Pas d'amendement constitutionnel
+
+**Argument fort :** le constituant n'a pas à détailler les procédures ; la loi organique et les mécanismes existants peuvent potentiellement faire le travail. Le texte n°782 garantit déjà les instruments d'habilitation, de contrôle et d'évaluation des normes.
+
+**Faiblesse structurante :** « peut le faire » n'est pas « doit le faire ». Si la future loi organique ne traite que des normes finalement prises, les demandes refusées, non instruites ou jamais formulées peuvent demeurer peu visibles. **Test :** démontrer si cette lacune est juridiquement possible et politiquement plausible, et si une autre loi suffit à la combler.
+
+**Verdict :** contre-hypothèse sérieuse ; aucune raison démontrée de l'écarter d'emblée.
+
+### Option O — Loi organique seule, sans modification de 72-5
+
+**Argument fort :** le projet 72-5 renvoie déjà à la loi organique pour la mise en œuvre de l'habilitation et l'évaluation des normes ; précision procédurale possible à tester dans ce cadre.
+
+**Faiblesse structurante :** **le champ de la loi organique dépend de son habilitation constitutionnelle**. Une obligation générale de répondre à toutes les propositions politiques ou législatives de l'Assemblée, sans lien avec les habilitations 72-5, n'est pas automatiquement rattachable à cet article ; les procédures parlementaires sont régies par leurs propres normes. Solution O **restreinte aux habilitations 72-5** à rédiger distinctement d'une éventuelle modification ordinaire du CGCT.
+
+**Verdict :** meilleure contre-épreuve juridique immédiate ; il faut en écrire une rédaction complète pour la juger, non une simple étiquette.
+
+### Option E — Garantie de réponse + évaluation publique du régime
+
+**Argument fort :** elle articule les deux anomalies distinctes (absence de réponse bornée ; absence de bilan des effets et du non-usage). Elle rend explicite la différence entre faculté proclamée et capacité institutionnelle exercée.
+
+**Faiblesse structurante :** **dans sa rédaction actuelle, elle n'est pas prête à dépôt** : champ trop large des « propositions et demandes », débiteur générique (« l'État »), imprécision de « délai déterminé », possible chevauchement avec le CGCT, et absence d'insertion démontrée dans la phrase organique du projet. La formule « loi organique précise les modalités de cette garantie » suppose un champ juridique dont les contours doivent être démontrés.
+
+**Verdict :** conserver en option doctrinale ; *réviser son architecture avant toute promotion comme texte parlementaire*. Ne pas la substituer à v0.5-rc1.
+
+## 4. Autres variantes
+
+- **A (v0.5-rc1)** : meilleure continuité avec l'objectif effectivité ; l'obligation directe de répondre n'est pas inscrite. La justiciabilité de « mise en œuvre effective » reste ouverte.
+- **B** : plus complète techniquement, mais davantage de risques d'empiètement sur les prérogatives parlementaires et de sur-détail constitutionnel.
+- **C** : delta procédural réduit ; sans évaluation de la non-utilisation ni des effets, elle répond moins au mandat doctrinal.
+- **D** : reprend un acquis historique de l'amendement AN n°43 ; ne pas présenter le devoir de réponse comme innovation originale.
+- **D+** : nécessite sa rédaction littérale et un test de plus-value au regard du CGCT V bis avant comparaison loyale.
+
+## 5. Protocole de Reality Test et critères de falsification
+
+Pour chaque option : tester au minimum (1) demande d'habilitation réglementaire instruite puis refusée dans les formes ; (2) demande de nature législative sans inscription à l'ordre du jour ; (3) demande sans réponse pendant un an ; (4) absence de demande pendant trois ans ; (5) norme adaptée mais dommage effectif à une liberté ou à une égalité ; (6) bilan annuel annoncé mais non consultable par un tiers.
+
+Observer séparément **possibilité de saisir**, **accusé**, **instruction**, **décision motivée**, **délais**, **publication**, **application**, **effets et remédiation**. Un taux de refus élevé ne démontre pas à lui seul une violation. La suppression du silence n'équivaut pas à la production d'une norme. La sanction de carence et la compétence juridictionnelle requièrent un fondement démontré.
+
+## 6. Dispositions proposées pour le Redactor, non souveraines
+
+| Constat | Disposition | Justification |
+| --- | --- | --- |
+| R1 | `conceded:load-bearing` | E déborde potentiellement le véhicule organique 72-5 |
+| R2 | `conceded:load-bearing` | Sans destinataire identifié, « obligation de réponse » peut rester illusoire |
+| R3 | `integrated` dans le protocole | Ne jamais assimiler réponse et habilitation |
+| R4 | `conceded:load-bearing` | L'avantage normatif constitutionnel doit être prouvé contre O |
+| R5 | `reformulate` | Séparer évaluation des effets et sanction juridictionnelle |
+| R6 | `conceded:load-bearing` | Collation de l'alinéa entier préalable au dépôt |
+| R7 | `reformulate` | Définir la publicité légalement soutenable |
+| R8 | `piste` | Chercher formulation plus courte sans perdre la dimension capacitaire |
+
+**Recommandation interne, non arbitrage :** traiter d'abord **O**, puis une **E révisée à champ explicite**, et mesurer leur delta par rapport à 0 et A. Ne pas produire un faux consensus en faisant valider cette revue par le même exécutant ; appeler ensuite un Reviewer externe véritablement indépendant.
+
+## 7. Conditions de clôture de cette revue
+
+- **PASS :** sources parlementaires primaires repérées ; options 0/E/O confrontées ; objections et degrés d'incertitude explicités ; candidate v0.5-rc1 préservée.
+- **PARTIAL :** contrôle de la loi organique et de sa portée ; définition de chaque débiteur ; collation exhaustive et test de juridiction ; rédaction littérale de O et E révisée.
+- **UNKNOWN :** publication effective des rapports annuels CGCT ; éventuels éléments de jurisprudence décisifs encore non consultés.
+- **JUDGMENT_REQUIRED :** décision de promouvoir ou non une variante, distincte de sa rédaction.
+
+**Prochaine action :** produire deux *textes de test* O (strictement organique et limité à l'habilitation) et E' (différencier habilitations et propositions générales), avec tableau de substitution mot à mot de l'alinéa 6, puis nouvelle revue contradictoire. Conserver la source candidate intacte.
+
+---
+
+# Historique de la revue adverse (9 octobre 2026)
+
+## Revue adverse Jimini.ai — traitement FBF (9 octobre 2026)
+
+**Statut de cette revue :** observations externes fournies par le porteur de la proposition ; analyse critique interne, **non assimilée à une validation juridique indépendante**. La rédaction parlementaire située ci-dessous reste **inchangée** tant qu'une version candidate distincte n'a pas été arbitrée. La revue ne constitue ni une transmission au Sénat ni un dépôt parlementaire.
+
+| Objection | Décision provisoire | Justification / test |
+| --- | --- | --- |
+| « Mise en œuvre effective » trop indéterminée | Retenir pour examen | Tester « garanties nécessaires à la mise en œuvre effective » contre le texte de l'alinéa et la future marge de la loi organique. |
+| Présentation, instruction, réponse / octroi confondus | Retenir | Distinguer l'accès à une procédure, la décision d'habilitation et l'exercice de la faculté ; aucun droit automatique à l'octroi. |
+| Silence et omissions hors contrôle | À instruire | Examiner les voies existantes de contrôle des actes et carences avant toute nouvelle compétence juridictionnelle constitutionnelle. |
+| Évaluation « périodique » purement symbolique | Retenir la publicité comme option | Tester une évaluation **publique et périodique** ; laisser la fréquence et les modalités au législateur organique. |
+| « Effets » : risque de contrôle politique d'opportunité | Clarification dans l'objet | Les effets sont objet d'observation contradictoire, non nouveau pouvoir général du juge de choisir les politiques publiques. |
+| Fraternité et égalité | Conserver les trois finalités | Ne pas fabriquer un standard juridictionnel uniforme à partir de la devise ; préserver une évaluation symétrique des effets bénéfiques et nuisibles. |
+| « Incompétence négative » du constituant | Requalifier | Risque principal : incomplétude fonctionnelle de la loi organique, non censure ordinaire d'une révision constitutionnelle pour incompétence négative. |
+| Non-usage des habilitations | Conserver expressément | Distinguer le choix légitime de ne pas demander ou exercer de l'impossibilité matérielle d'agir. |
+
+**Prochaine décision rédactionnelle** : préférer le plus petit delta ayant une conséquence vérifiable, plutôt qu'une accumulation de garanties formelles. La régularité procédurale, à elle seule, ne prouve pas l'autonomie de capacité. Une demande instruite et systématiquement rejetée peut être procéduralement régulière, tout en restant un échec de capacité à examiner. Cela ne démontre pas à lui seul une illégalité.
+
+**Hypothèse candidate à comparer, non substituée au dispositif actuel :** remplacer « conditions permettant » par « garanties nécessaires à » et ajouter « publique » à « évaluation périodique ». Ne pas incorporer sans étude préalable une nouvelle attribution de contrôle aux juridictions ; respecter le contrôle distinct des normes selon leur nature.
+
+**Règle de provenance :** enregistrer séparément publication GitHub, transmission institutionnelle avec preuve, dépôt parlementaire et adoption. À cette date, seule la publication de la proposition est établie.
+
+---
+
+---
+
+# Note de justification et dossier doctrinal historique
+
+## Note de justification historique (conservée)
 
 ## 1. Principe directeur
 
@@ -894,52 +1076,3 @@ Elle appelle un nouveau test adverse centré sur quatre questions :
 
 ---
 
-## Annexe de travail — registre souverain des options pour les revues (21 octobre 2026)
-
-**Portée et gouvernance.** Cette annexe consolide les **options non arbitrées** dans le document de référence, afin que les revues successives examinent le même ensemble. **Elle ne modifie ni la rédaction parlementaire candidate v0.5-rc1 ci-dessus, ni son statut, ni l'état de transmission/dépôt.** Une option proposée n'est ni un amendement déposé, ni un choix du Principal, ni une conclusion juridique validée. Les rédactions concurrentes demeurent des *objets de test* ; toute substitution au texte candidat exige un arbitrage explicite.
-
-### 1. Problème normatif commun et acquis
-
-- Le projet d'article 72-5 organise des **facultés d'habilitation**, avec contrôle et évaluation des normes produites. Cela ne démontre pas une obligation de traiter en temps utile **toutes les demandes**, ni d'évaluer les refus, les délais, le non-recours et les conséquences concrètes pour les habitants.
-- Le **CGCT L.4422-16 V bis**, déjà en vigueur, prévoit l'accusé de réception par le Premier ministre et un rapport annuel public ; la recherche n'a pas permis de localiser tous les rapports attendus, ce qui **ne prouve pas leur inexistence**. Le mécanisme ne donne pas, à lui seul, un délai général de réponse motivée.
-- Le député **Ugo Bernalicis et cosignataires** ont déjà proposé une obligation de réponse motivée : CL12, puis **amendement de séance n° 43**, dont la rédaction évite le renvoi direct au CGCT ; les deux ont été retirés. Il serait inexact d'attribuer cette idée comme innovation propre à la présente proposition.
-- Quatre opérations restent juridiquement distinctes : **demander**, **recevoir une réponse motivée**, **obtenir une habilitation**, **mesurer les effets sur les capacités réelles des personnes**. La deuxième n'implique ni la troisième ni une injonction faite au Parlement de légiférer.
-- Les chiffres issus des rapports Boudié et Josende ont des **périmètres distincts** et ne doivent pas être fusionnés.
-
-### 2. Registre comparatif des voies possibles
-
-| Option | Technique | Gain recherché | Limite ou test décisif | État |
-| --- | --- | --- | --- | --- |
-| **0 — Projet inchangé** | Ne pas amender la Constitution ; organiser les procédures dans les lois existantes ou à venir | Moindre delta ; souplesse institutionnelle | Quelle obligation existe effectivement si la loi organique se tait ? | Contre-hypothèse obligatoire |
-| **A — v0.5-rc1** | Réécriture ciblée de la première phrase de l'alinéa organique et ajout de l'évaluation périodique du régime au regard de Liberté, Égalité, Fraternité | Constitutionnaliser la mise en œuvre et l'évaluation des capacités | Pas de délai de réponse motivée explicite ; risque d'indétermination | **Seule candidate historique conservée ; non remplacée** |
-| **B — Garantie développée** | Prévoir enregistrement, instruction, réponse motivée dans un délai, publicité et évaluation des effets | Chaîne procédurale et capacitaire observable | Débiteur de la réponse, procédure parlementaire, compétence du juge et coût | Brouillon comparatif |
-| **C — Garantie minimale** | Insérer une phrase imposant à la loi organique d'organiser examen, réponse motivée et délai | Petit delta constitutionnel sur le silence | Objectif d'effectivité et évaluation du régime moins explicites | Repli à éprouver |
-| **D — Garantie directe** | Constitution : « L'État est tenu de répondre… » (logique du n° 43), modalités précisées par la loi | Obligation de réponse moins dépendante d'un simple renvoi organique | Quelle autorité répond à quoi, sans imposer un vote parlementaire ? | Antériorité parlementaire ; non retenue |
-| **D+ — Garantie directe renforcée** | D + traçabilité, publicité des suites, délais et traitement explicite du silence, selon modalités à préciser | Vérifiabilité institutionnelle accrue | Redondance avec le V bis, sanction et partage Gouvernement/Parlement | **Schéma de travail**, rédaction exacte à stabiliser |
-| **E — Combinaison procédurale et capacitaire** | D + obligation d'évaluation périodique publique du régime, de ses suites et de ses effets, sans octroi automatique | Joint le *devoir de réponse* à l'*observation des effets* | Densité constitutionnelle, séparation des pouvoirs, portée du mot « État » et placement exact | **Brouillon à soumettre à revue ; non arbitré** |
-| **O — Solution organique seule** | Ne pas modifier 72-5 ; prévoir par loi organique (dans son domaine) les modalités de traitement, de suivi et d'évaluation | Réduire l'ampleur de la révision constitutionnelle | Une telle loi organique a-t-elle une base suffisante ? Peut-elle créer tous les devoirs envisagés ? | Contre-épreuve à rédiger précisément |
-
-Les variantes A/B/C sont développées dans [la note de comparaison](../devise_republicaine/variantes_garantie_traitement_demandes_72_5.md). L'antériorité de D est détaillée dans [l'analyse CL12/43](../devise_republicaine/CL12_43_comparaison_et_delai.md). D+ et E sont ici consolidées comme **pistes** ; ne pas leur prêter une rédaction définitive ou une validation antérieure non établie.
-
-### 3. Variante E — rédaction de travail à éprouver, non candidate adoptée
-
-> L'État garantit l'examen des propositions et demandes de l'Assemblée de Corse ainsi qu'une réponse motivée dans un délai déterminé. La loi organique précise les modalités de cette garantie, dans le respect des compétences des autorités concernées. Elle prévoit une évaluation publique et périodique de la mise en œuvre du présent article, notamment des demandes, des décisions prises et de leurs effets sur l'effectivité de la liberté, de l'égalité et de la fraternité.
-
-**Réserves sur cette formulation :** ce bloc n'est **pas** une instruction de remplacer l'alinéa 6 par ces seules phrases. Avant toute rédaction institutionnelle, il faut en vérifier la place exacte, préserver **l'intégralité** du contrôle du Conseil d'État et du Conseil constitutionnel, les conditions de non-régression et les limites aux habilitations, et déterminer si « l'État » est un débiteur procédural suffisamment identifié. Les « propositions et demandes » de l'Assemblée débordent les demandes d'habilitation stricto sensu : comparer cette extension au champ réel du dispositif. Une réponse de l'exécutif ne saurait valoir décision du Parlement.
-
-### 4. Matrice de revue contradictoire — mêmes tests pour toutes les options
-
-1. **Delta démontré :** quel devoir précis la rédaction impose-t-elle que le projet et le CGCT n'imposent pas déjà ? Quelle disposition suffit éventuellement à droit constant ou dans la loi organique ?
-2. **Imputabilité :** qui accuse réception, instruit, motive, publie et rend compte, selon qu'une demande relève de l'exécutif, du législateur ou de la Collectivité ?
-3. **Délais et silence :** quel point de départ, quelle durée, quelles exceptions légitimes, quelle preuve du défaut de réponse, quelle conséquence licite du silence ? **Aucune habilitation tacite présumée**.
-4. **Constitutionnalité institutionnelle :** ne pas imposer subrepticement un vote, une inscription à l'ordre du jour ou un calendrier parlementaire incompatible avec les prérogatives des assemblées.
-5. **Vérifiabilité :** suivre la chaîne *demande → instruction → réponse/décision → éventuelle norme → application → effets pour les habitants* ; distinguer refus justifié, inertie administrative et absence volontaire de demande.
-6. **Protection et publicité :** documenter ce qui peut être publié tout en préservant les secrets et données légalement protégés.
-7. **Proportionnalité :** comparer complexité, coût, risques de contentieux et gain normatif vérifiable par rapport à l'option 0 et à la solution O.
-8. **Intégrité légistique :** collation littérale avec le texte sénatorial pertinent ; garanties déjà prévues conservées ; distinguer la réécriture d'une phrase de celle d'un alinéa entier.
-
-### 5. Gouvernance de la suite
-
-**Statut de ce registre : JUDGMENT_REQUIRED.** Aucune option B–E/O n'est approuvée ou déposée ; la version v0.5-rc1 n'a pas changé. La revue interne ne vaut pas expertise juridique indépendante. Le Reviewer devra pouvoir **rejeter toutes les modifications**, retenir une solution organique, demander un repli minimal ou recommander une combinaison. Le Redactor documentera, pour chaque objection, son traitement et les conséquences textuelles. Une décision du Principal sera requise **avant substitution à la candidate, transmission institutionnelle ou revendication d'une validation indépendante**.
-
-**Sources de travail internes :** [revue contradictoire](../devise_republicaine/revue_contradictoire_amendement_72_5_2026-10-21.md), [rapport de complétion Redactor](../devise_republicaine/redactor_completion_review_interne_72_5.md), [audit CGCT V bis](../devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md), [note responsabilités et recours](../devise_republicaine/recours_et_responsabilites_partagees_L4422_16_2026.md), [packet de revue #141](https://github.com/JeanHuguesRobert/barons-Mariani/issues/141), [amendement AN n°43](https://www.assemblee-nationale.fr/dyn/17/amendements/2697/AN/43).
