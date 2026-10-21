@@ -21,7 +21,7 @@ target_audience:
 target_scene: academic
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/histoire_devise_effectivite_autonomie.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/histoire_devise_effectivite_autonomie.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
