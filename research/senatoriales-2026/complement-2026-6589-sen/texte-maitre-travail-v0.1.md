@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
 last_modified_at: "2026-10-21"
-version: "0.2"
+version: "0.3"
 status: "working-paper — préparation, non transmis"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -40,18 +40,29 @@ related_documents:
 
 # Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée
 
-**Brouillon de travail v0.2. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
+**Brouillon de travail v0.3. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
 
-## Contrat de source et de rendus
+## Contrat de source et de transmission — version corrigée
 
-Ce Markdown est **l'unique source éditoriale** du complément. Les représentations produites à partir d'une révision identifiée sont :
+Le Markdown conservé dans GitHub est **la source souveraine** du mémoire complémentaire ; les rendus ne sont pas des sources concurrentes. Le commit précis et l'URL source sont conservés dans le dossier et cités dans le corps des deux représentations communiquées au greffe.
 
-1. **Texte brut UTF-8** destiné au corps du courriel et au fichier miroir TransfertPro, sans frontmatter technique ni marqueurs Markdown parasites dans le document adressé au greffe ; normaliser la conversion, puis comparer le contenu réellement envoyé au fichier.
-2. **PDF**, composé depuis la même révision du Markdown avec sommaire, pagination et renvois lisibles ; il est une projection du texte, pas une seconde source susceptible de diverger.
+**Canal 1 — courriel :** corps en **texte brut intégral**, avec indication explicite qu'un **PDF richement formaté du même mémoire** est joint au courriel. Le corps textuel mentionne l'identité documentaire du PDF, son nom, sa taille et son SHA-256 lorsqu'ils sont calculés, ainsi que l'URL et le commit du Markdown source. Il convient de vérifier la bonne réception de la pièce jointe ; son expédition ne prouve ni son ouverture ni son examen.
 
-Les frontmatter, les liens de maintenance du Corpus, les statuts de travail et les cases de contrôle restent des données de production et **ne doivent pas apparaître comme assertions du requérant dans les rendus finaux**. Le PDF et le texte brut peuvent différer typographiquement, mais tout ajout ou retrait de contenu juridique doit retourner à la source Markdown puis déclencher la régénération des deux rendus.
+**Canal 2 — TransfertPro :** dépôt de **deux fichiers** : (1) le **même PDF richement formaté**, identique octet pour octet à la pièce jointe du courriel ; (2) la vidéo P-13 du 11 septembre 2026, identifiée séparément par nom, taille et empreinte. Il ne s'agit plus d'un fichier texte miroir dans TransfertPro.
 
-**Contrôle de gel :** commit source + versions des références + empreintes SHA-256 des artefacts réels + concordance sémantique + vérification des deux QPC. Aucune génération ni opération de transmission n'emporte en elle-même l'autorisation d'envoyer.
+**Contrôle de concordance :**
+- le corps du courriel est un rendu textuel du même contenu juridique que le PDF ;
+- le PDF joint et le PDF déposé sur TransfertPro sont **binaires identiques** (SHA-256 égales sur les octets réels) ;
+- le texte brut et le PDF citent **la même URL GitHub et le même commit source** ;
+- le corps textuel et le PDF annoncent explicitement l'existence du PDF joint au courriel et les deux fichiers prévus au dépôt TransfertPro ;
+- les métadonnées internes de préparation, notes d'agent, TODO et frontmatter ne doivent pas être présentées comme assertions juridictionnelles ;
+- le gel des rendus exige validation des deux QPC, des griefs G1–G5, de la provenance des pièces, du bordereau et de la revue adverse.
+
+**Valeur et limites de la preuve :** l'usage d'email, de Git et des empreintes peut étayer la création, l'intégrité et certaines transmissions documentées. Il ne démontre pas automatiquement une identité, l'accomplissement des formalités électorales obligatoires, la réception par le serveur destinataire, l'examen judiciaire ou la supériorité juridique de ce canal. Il faut distinguer la fiabilité de la **preuve du consentement** et la **validité juridique** de l'acte requis par L.299.
+
+Le contrôle de proportionnalité et de finalité du formalisme, l'éventuelle surinterprétation administrative et l'effectivité de la candidature relèvent des **griefs initiaux G1–G4**, à discuter contradictoirement. Ne pas affirmer sans fondement établi que l'administration se serait juridiquement arrogé les pouvoirs du législateur ou du juge : une application rigoureuse d'une règle légale, même contestable, ne suffit pas à constituer une violation du principe de séparation des pouvoirs.
+
+Aucune préparation, génération ou vérification ne vaut autorisation d'envoyer.
 
 ## Objet
 
