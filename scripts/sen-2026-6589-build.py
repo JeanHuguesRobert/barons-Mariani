@@ -51,7 +51,7 @@ def git_revision() -> str:
     return subprocess.check_output(["git", "-C", str(ROOT), "rev-parse", "HEAD"], text=True).strip()
 
 
-def make(out: Path, pdf_engine: str) -> None:
+def make(out: Path, pdf_engine: str, compose_only: bool = False) -> None:
     main = document(MAIN)
     q299 = extract_qpc(L299)
     q303 = extract_qpc(L303)
@@ -79,6 +79,10 @@ def make(out: Path, pdf_engine: str) -> None:
         "outputs": [],
         "note": "Sending, receiving, registration and reading are distinct events."
     }
+    if compose_only:
+        (out / 'composition.preview.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\\n', encoding='utf-8')
+        print(str(md))
+        return
     # Pandoc produces plain UTF-8, not raw Markdown; no YAML in email body.
     commands = [
         (md, out / "courriel-integral.preview.txt", ["--to=plain", "--wrap=none"]),
@@ -105,5 +109,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", default="/tmp/sen-2026-6589-preview")
     parser.add_argument("--pdf-engine", default="xelatex")
+    parser.add_argument("--compose-only", action="store_true")
     args = parser.parse_args()
-    make(Path(args.out).resolve(), args.pdf_engine)
+    make(Path(args.out).resolve(), args.pdf_engine, args.compose_only)
