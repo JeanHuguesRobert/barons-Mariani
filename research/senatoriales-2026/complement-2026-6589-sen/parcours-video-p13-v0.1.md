@@ -1,3 +1,34 @@
+---
+title: "2026-6589 SEN — Provenance, transcription et parcours de la vidéo P-13"
+author: unknown
+generated_by: Codex
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+date: "2026-10-21"
+status: working-paper
+language: fr
+license: CC BY-SA 4.0
+document_role: operational
+document_kind: evidence-provenance-note
+visibility: public
+lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/parcours-video-p13-v0.1.md"
+target_audience: "Requérant et intégrateur du complément 2026-6589 SEN"
+target_scene: electoral
+document_function: "Notice de pièce et transcription pour intégration au complément"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: 16054878
+  origin_date: "2026-10-21"
+  derived_from:
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+    - "research/senatoriales-2026/complement-2026-6589-sen/checkpoint-provenance-2026-10-21.md"
+review:
+  status: unreviewed
+  reviewed_by: []
+---
+
 # Dossier 2026-6589 SEN — Provenance et parcours de la déclaration vidéo P-13
 
 **Projet de travail v0.1 — non envoyé.** Paquet #132 sous umbrella #127. Rattachement : griefs G2 (consentement et handicap), G3 (office du TA) et G4 (complétude de la transmission).
@@ -10,7 +41,7 @@ La déclaration vidéo commune du 11 septembre 2026 est présentée pour établi
 
 | Date / temps local | Événement ou constat | Niveau de preuve et portée |
 |---|---|---|
-| 11 septembre avant 18 h | Déclaration filmée, selon les sources et la chronologie du dossier | Vidéo native à vérifier ; localisation et horodatage de création à confronter aux sources originales |
+| 11 septembre avant 18 h | Déclaration filmée, selon les sources et la chronologie du dossier | Binaire conservé vérifié le 21 octobre ; métadonnée interne de création 17h45m55s CEST, sans authentification indépendante de l'horloge de capture |
 | 11 septembre, 17h57m55s | Courriel P-12 avec lien vers la vidéo envoyé à la préfecture | **Émission établie**, réception serveur avant 18 h inconnue |
 | 11 septembre, après 18h | Saisine préfectorale du TA, inventaire initial de 16 pièces | P-11 et P-12 ne figurent pas dans l'inventaire initial connu ; transmission complémentaire ultérieure **UNKNOWN** |
 | 14 septembre, audience | Proposition de visionnage immédiat rapportée par le requérant | Témoignage ; ni visionnage ni refus matériel institutionnellement corroborés à ce stade |
@@ -32,7 +63,44 @@ Ces questions sont légitimes **sans présumer une mauvaise intention** des serv
 
 ## Métadonnées et intégrité
 
-Le bordereau historique enregistre une empreinte SHA-256 du fichier P-13 ; ce document ne prétend pas l'avoir recalculée. Avant tout dépôt, vérifier que le second fichier TransfertPro correspond au bon binaire, relever nom, taille, SHA-256 calculée sur les octets effectifs et accusé. Il faut également vérifier la disponibilité, la possibilité de consultation et la réception par le greffe : le dépôt TransfertPro ne prouve pas l'examen juridictionnel.
+Le 21 octobre 2026, le fichier natif a été récupéré depuis Drive par le connecteur autorisé, puis conservé localement hors du dépôt public. Le calcul porte sur les octets effectivement récupérés, sans réencodage :
+
+| Contrôle | Résultat |
+|---|---|
+| Nom source | `VID_20260911_174455.mp4` |
+| Taille calculée | **79 663 474 octets** |
+| SHA-256 recalculée | `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` |
+| Comparaison à l'empreinte historique | **PASS — identique** |
+| Métadonnée interne `creation_time` | `2026-09-11T15:45:55.000000Z`, soit 17h45m55s CEST |
+| Création / modification Drive | `2026-09-11T15:52:17.185Z` / `2026-09-11T15:53:33.108Z` |
+| Durée indiquée par le conteneur | 58,14 secondes |
+| Flux présents | Vidéo H.264 1920 × 1080 ; audio AAC stéréo |
+
+Les métadonnées sont des indications contenues dans le fichier ou fournies par Drive, pas une certification de l'heure réelle de captation. Quatre images échantillonnées ont été regardées ; elles montrent deux personnes dans une même scène. Cette inspection visuelle ne constitue ni une authentification des personnes, ni une expertise d'absence de montage, ni une vérification mot à mot de la piste sonore.
+
+Le décodage intégral audio/vidéo par FFmpeg s'achève avec un code de sortie 0 ; deux avertissements de DTS non strictement croissants apparaissent dans le flux de sortie de contrôle. Ce résultat documente la lisibilité technique, sans expertise d'authenticité ni conclusion sur la signification de ces avertissements.
+
+La copie locale vérifiée et le relevé technique restent privés. L'empreinte lie la présente notice au binaire conservé ; elle ne démontre pas les octets reçus par l'administration ou la juridiction. Avant une transmission, recalculer l'empreinte du fichier sélectionné et conserver l'accusé propre au canal réellement utilisé. Le [texte maître v0.4](texte-maitre-travail-v0.1.md) prévoit désormais quatre fichiers TransfertPro, dont P-13 en quatrième position : la mention historique du « second fichier » ne décrit plus cette architecture. Aucun de ces fichiers n'est réputé envoyé.
+
+## Texte préparé et transcription déjà consolidée
+
+Le requérant précise dans la conversation du **21 octobre 2026** que le texte de cette déclaration a été dicté par l'assistant et qu'un document existant en donne une transcription fidèle. La [requête initiale, passage « Le contenu probatoire de la vidéo P-13 »](../requete-conseil-constitutionnel.md), contient déjà les trois interventions ci-dessous. La présente notice les reprend à l'identique, sans modifier la requête historique. L'origine assistée du texte est consignée sur déclaration du requérant ; la conversation préparatoire de septembre n'a pas été retrouvée dans cette passe.
+
+**Jean Hugues Noël Robert :**
+
+> Nous sommes le 11 septembre 2026. Je suis Jean Hugues Noël Robert, candidat à l’élection sénatoriale du 27 septembre en Haute-Corse, sous le nom de Baron Mariani. Laurence est ici avec moi.
+
+**Laurence Marie Vernerey :**
+
+> Je suis Laurence Marie Vernerey. Je confirme librement et sans ambiguïté avoir accepté d’être la remplaçante de Jean Hugues Noël Robert pour cette élection, sous le nom de Marie-Louise d’Angelis. Je confirme également les documents et le consentement que j’ai transmis pour cette candidature.
+
+**Jean Hugues Noël Robert :**
+
+> Cette vidéo est adressée aujourd’hui au bureau des élections de la préfecture de Haute-Corse afin qu’il ne puisse subsister aucune ambiguïté sur notre identité, notre volonté et notre consentement.
+
+**Qualification :** transcription documentaire préexistante, signalée comme fidèle par le requérant ; aucune nouvelle transcription automatique ni écoute comparative indépendante n'est revendiquée. La préparation du texte et sa prononciation sont deux événements distincts. La notice est une pièce dérivée accompagnant le MP4, sans constituer un second original audiovisuel.
+
+**Sélection proposée : JOIN**, notice avec cette transcription dans le PDF consolidé du complément, et MP4 natif distinct identifié par la même empreinte. Rattachement inchangé à G2/G3/G4. La transcription facilite l'examen du contenu et conserve sa provenance ; elle ne prouve pas la réception avant 18 h, le versement au TA ou le visionnage par la formation. L'intégration matérielle au PDF final et la remise restent à réaliser avec #133/#134.
 
 ## Bloc prêt pour le texte maître
 

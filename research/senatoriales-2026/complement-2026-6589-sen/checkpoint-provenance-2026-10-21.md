@@ -4,7 +4,7 @@ author: unknown
 generated_by: Codex
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-status: "working-paper — verified observations and proposed selection, not filing-ready"
+status: working-paper
 language: en
 license: CC BY-SA 4.0
 document_role: operational
@@ -34,6 +34,8 @@ review:
 Home: [#131](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131). Parent: [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). This checkpoint carries observations and proposed next steps, not a new legal submission or a finding of admissibility. `filing_ready=false`.
 
 The Principal explicitly requested committing and pushing these results in the current conversation so the external handler can resume from repository state. That mandate covers this publication; it does not authorize delivery to the court, changes to the filed request, or closing the remaining evidence work. Human review of the final diff is not claimed.
+
+**Resumption update:** sections 1–6 preserve the first checkpoint. [Section 7](#7-native-acquisition-and-transcript-integration-resumption) records the subsequent native acquisition, P-13 transcript integration and residual blockers. The latest selected-native counts and proposed delivery architecture are in that section and the linked manifest.
 
 ## 1. The complete accompaniment note is now archived
 
@@ -125,3 +127,54 @@ Dependencies: #128 owns the normative grievance matrix; #129 the QPC work; #130 
 Scope: evidence provenance and archival handoff for #131/#115. Files changed: the complete note PDF, its transmission-source archive notice, the provenance-note entry point, this checkpoint and three data artifacts. Source/derived status: unchanged historical PDF plus derived, unreviewed working outputs. Facts checked: byte hashes/sizes, PDF extraction and structure, Gmail readback and Drive metadata as qualified above. Hypotheses marked: proposed selection and all undemonstrated delivery/examination states. Known risks: sensitive originals to minimize, incomplete primary acquisition, initial index discrepancy and no court-side copy comparison. Reversibility: revert this commit to undo added files and notices; public dissemination cannot be recalled. Next step: selected-primary inspection and integration. Human validation needed: yes for final selection, legal formulation and any transmission; publication of these results is authorized, not claimed as substantive human review.
 
 Validation tooling: the attempted Cogentia command `frontmatter verify <path> --strict-role` could not start because its temporary checkout lacks `js-yaml`. A repository-equivalent Python/YAML check verified required schema fields, explicit provenance/review, ISO dates, canonical operational roles and public canonical URLs for all three affected Markdown files. Data counts, source PDF integrity, privacy scans and `git diff --check` were checked separately.
+
+## 7. Native acquisition and transcript integration — resumption
+
+Scope: #131 under the operational update in [comment 6315297160](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131#issuecomment-6315297160), with P-13 shared with #132. The Principal resumed this same issue and requested inclusion of the existing faithful video transcript through its provenance note. This update prepares the contribution for #133/#134; it neither closes #131 nor creates a court delivery. `filing_ready=false`.
+
+### Actual acquired objects
+
+**18 native objects associated with 12 of the 39 reference identifiers** have now been preserved locally and hashed: ten RFC2822 message exports, the MP4, three PDF attachments, two RTF attachments and two JPEG photographs. The message exports are the bytes returned by Gmail `format=raw`, decoded from base64url; they are not reconstructed from parsed API JSON. Their hashes identify the acquired copies, without independently authenticating historic recipient-side storage. The decoded attachments in P-10/P-19/P-30 match the hashes of their separately retrieved binaries.
+
+The [proposed production manifest](bordereau-production-propose.csv) has 19 rows: those 18 native objects plus the derived P-13 notice/transcript. `native_bytes` and `native_sha256` apply to source copies, never to a future redacted PDF. Each row records privacy, grief, proposed JOIN/CITE/RESERVE selection, intended channel and current `NOT_SENT` status. Most delivery derivatives remain to be prepared; an available source is not an attachment already produced. P-46 indexes overlapping messages and is not recreated as a second native collection.
+
+The [39-row register](registre-provenance.csv) now gives independent evidence locators for native-location and hash states. Twelve references have selected native objects acquired and hashed; **27 references have no new native acquisition in this pass**. This count describes coverage of selected objects, not completeness of every possible source within those references. Other historical transmission/examination states are retained without upgrading them from the acquisition result.
+
+### P-13: binary, prior transcript and preparation context
+
+- Native filename: `VID_20260911_174455.mp4`; calculated length **79,663,474 bytes**; calculated SHA-256 **`aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`**, matching the historical value.
+- Internal `creation_time`: `2026-09-11T15:45:55.000000Z`; Drive creation/modification: `15:52:17.185Z` / `15:53:33.108Z`. These are source metadata, not independent clock certification. The container reports 58.14 seconds, H.264 video and AAC audio.
+- Four sampled frames were visually inspected. Full audio/video decoding exits 0 with two non-monotonic output-DTS warnings. This is a readability check, not an authenticity or no-editing finding; no independent word-by-word audio review is claimed.
+- The [P-13 provenance note](parcours-video-p13-v0.1.md) now reproduces the three spoken interventions already present in the immutable initial request. On 21 October the Principal stated that the assistant had dictated the text and that an existing document gives a faithful transcript. This is recorded with attribution; the original preparatory conversation was not recovered. The transcript is an existing documentary derivative, not a newly computed ASR result.
+- Selection: **JOIN** the notice/transcript in the consolidated supplement PDF and identify the separate native MP4 with the same hash. The master v0.4 plans **four** TransfertPro objects, with P-13 fourth; the obsolete second-file wording is not the current assembly instruction. Source integrity does not establish pre-18:00 recipient acceptance, TA filing or judicial viewing.
+
+### Other material observations and objections
+
+- P-12's preserved `Received` headers describe Gmail API injection, not acceptance by the State recipient. The original pre-deadline recipient-acceptance question remains UNKNOWN.
+- P-10's two attachment binaries are 71,594 and 45,539 bytes. pypdf counts five and two pages; the connector preview labels four pages for the first PDF. The copies expressly state that an agreement signature is left blank on that copy and that a signed agreement was supplied separately. The first PDF also contains an agreement form: avoid duplicate production and do not infer a valid signature from the names or the acknowledgment alone. The additional signed source remains to be checked if relied upon. Some PDF font extraction emitted CFF/fontTools warnings, so extraction is not represented as a full visual signature review.
+- P-18 is the 94,775-byte CAF attachment embedded in P-19, with matching independently retrieved bytes. Its administrative-status scope is preserved; it does not alone establish the precise functional impediment. Its original and unnecessary personal/financial details stay private. The connector extraction was truncated; the native two-page PDF was separately parsed, without claiming a complete visual review.
+- P-30's 60,970/60,982-byte RTF attachments are communication/audience letters dated 11 September for the two cases. They are **not** the judgment or the prefectural bundles. Their confidential access codes stay private. The clerk's separate statement that the formation read the deliberation note does not prove video viewing.
+- Both P-44 transfer-notification/password EML originals are preserved privately. Their existence does not substitute for the two announced bundle PDFs or prove the exhaustive contents of the TA file.
+- Both P-40 photographs were hashed and viewed: the first shows printed `BARON MARIANI` / `Elections Sénatoriales 2027` with envelopes bearing signatures; the second shows a different printed ballot with envelopes. This observation establishes visible contents of these photos only. It does not independently establish the consultation date, a legal reason for invalidity, the number of relevant votes, or any individual voter. Original photos stay private; CITE is proposed pending necessity/minimization and the #130 analysis.
+
+### Essential blockers and integration
+
+The two native prefectural bundles 2601714/2601715, their PREF-1…PREF-16 inventory, both P-17 source photographs and the primary P-20 judgment/notification photographs were not acquired. Repository notes locate them in a historical ChatGPT Library; this session has no tool for that Library. Drive searches for the exact video name and case number returned no results, although exact-ID retrieval successfully recovered the known video/photos. Search silence is therefore not evidence that the other originals do not exist. A text question asks the Principal for current local paths or Drive links. Until actual copies are available, reinspection of the bundle inventory and judgment against their transcriptions is **BLOCKED**, and the corresponding substantive conclusions remain **UNKNOWN** in this contribution.
+
+The historical initial PDF and note v6 remain unchanged. EML exports for the rest of the decisive chronology, the actual PV and remaining selected originals are still outstanding. #128 owns the grievance matrix, #130 G5, #132 the institutional video trail, #133 assembly/minimized renditions, and #134 final file identity and delivery verification. No binary, original EML, court access code, transfer token or unnecessary private address is added to the public repository. No issue is closed and no message is sent to the court.
+
+### Nine-check return
+
+| No. | Check | Result | Current evidence / limit |
+|---|---|---|---|
+| 1 | Baseline | PASS | Historical PDFs preserved; court-side bytes not compared. |
+| 2 | Griefs | PASS | Selected objects and transcript remain tied to existing G1–G5. |
+| 3 | Evidence | UNKNOWN | 18 selected natives hashed across 12 references; essential bundles, judgment and P-17 missing. |
+| 4 | Time | PASS | File metadata, sending, recipient acceptance and post-deadline intention distinguished. |
+| 5 | Adversarial review | UNKNOWN | Signature-copy caveat, preview discrepancy and probative limits documented; final adverse review remains with #134. |
+| 6 | Completeness | UNKNOWN | 27 references without new native acquisition; delivery derivatives and essential sources incomplete. |
+| 7 | Channel | UNKNOWN | Four-file plan identified; no rendered final package, no recipient-side identity or delivery proof. |
+| 8 | Diff and checkpoint | PASS | Native controls, proposed manifest, transcript and remaining blockers recorded; historical files unchanged. |
+| 9 | Governance | PASS | Same-task publication scope remains limited to sanitized results; private sources excluded; no court transmission. |
+
+Files changed in this resumption: this checkpoint, the provenance-note entry point, P-13 notice, 39-row register, proposed manifest, and the master draft's provenance link and four-file consistency. Source/derived status: private unchanged source copies plus public derived working records. Facts checked: native bytes/hashes, MIME attachment equivalence, media metadata/decoding, sampled video frames, photo pixels and existing transcript correspondence. Hypotheses marked: selection, future minimization/assembly and all undemonstrated delivery/examination states. Known risks: incomplete primary collection, privacy of proposed derivatives, timestamp interpretation and no independent audio/transcript comparison. Reversibility: working edits can be reverted; any public dissemination cannot be recalled. Next step: obtain missing primary paths, prepare minimal delivery derivatives, integrate the notice/transcript, then rerun #134. Human validation needed: yes for final selection, legal formulation and transmission; no human review of this technical diff is claimed.

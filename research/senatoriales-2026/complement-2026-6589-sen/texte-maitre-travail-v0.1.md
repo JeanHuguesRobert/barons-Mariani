@@ -6,7 +6,7 @@ affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, C
 date: "2026-10-21"
 last_modified_at: "2026-10-21"
 version: "0.4"
-status: "working-paper — préparation, non transmis"
+status: working-paper
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md"
@@ -54,7 +54,7 @@ Le Markdown conservé dans GitHub est **la source souveraine** du mémoire compl
 - le corps du courriel est un rendu textuel du même contenu juridique que le PDF ;
 - le PDF joint et le PDF déposé sur TransfertPro sont **binaires identiques** (SHA-256 égales sur les octets réels) ;
 - le texte brut et le PDF citent **la même URL GitHub et le même commit source** ;
-- le corps textuel et le PDF annoncent explicitement l'existence du PDF joint au courriel et les deux fichiers prévus au dépôt TransfertPro ;
+- le corps textuel et le PDF annoncent explicitement l'existence du PDF joint au courriel et les quatre fichiers prévus au dépôt TransfertPro ;
 - les métadonnées internes de préparation, notes d'agent, TODO et frontmatter ne doivent pas être présentées comme assertions juridictionnelles ;
 - le gel des rendus exige validation des deux QPC, des griefs G1–G5, de la provenance des pièces, du bordereau et de la revue adverse.
 
@@ -102,7 +102,7 @@ Le courriel contenant le lien vers la déclaration vidéo a été émis le 11 se
 
 Après le jugement, le requérant a réitéré des demandes ciblées visant à savoir si le message avait été reçu avant 18 heures, transmis au tribunal et, si nécessaire, communiqué par complément avant jugement. Certaines autres demandes ont reçu des réponses utiles. Sur ces trois questions, la documentation examinée ne contient pas de réponse matérielle conclusive. Le requérant demande la communication, s'ils existent, des journaux et procès-verbaux de transmission correspondants.
 
-Le parcours de P-13 et ses limites sont documentés dans [la note spécifique](parcours-video-p13-v0.1.md).
+Le parcours de P-13 et ses limites sont documentés dans [la note spécifique](parcours-video-p13-v0.1.md). Cette notice, retenue pour intégration au PDF consolidé, reproduit la transcription déjà présente dans la requête initiale et consigne la précision du requérant sur la dictée préalable du texte par l'assistant. Elle identifie le MP4 conservé de 79 663 474 octets par son empreinte recalculée, identique à l'empreinte historique : `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`. L'intégrité de cette copie ne démontre ni sa réception avant 18 heures ni son examen par la juridiction.
 
 ## V. Incidence électorale : possibilité d'un second tour (G5)
 

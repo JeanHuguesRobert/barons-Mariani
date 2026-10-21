@@ -3,7 +3,7 @@ title: "2026-6589 SEN — Notes de provenance, projet de travail"
 author: unknown
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-status: "working-paper — preparation, not filing"
+status: working-paper
 language: fr
 license: CC BY-SA 4.0
 document_role: operational
@@ -31,6 +31,10 @@ review:
 
 Le [checkpoint de reprise #131](checkpoint-provenance-2026-10-21.md) consigne les contrôles du PDF initial, les pages des 39 références, l’index de contrôle des 46 messages, les limites probatoires et l’archivage de la note v6 complète vérifiée. Les notices ci-dessous restent préparatoires ; aucune pièce n’est réputée transmise du seul fait de son référencement.
 
+La passe suivante contrôle **18 objets natifs sélectionnés, rattachés à 12 des 39 références**, conservés dans un espace local privé. Le [bordereau de production proposé](bordereau-production-propose.csv) distingue les octets sources vérifiés des copies minimisées restant à préparer et des états de livraison. Les 27 autres références n'ont pas fait l'objet d'une nouvelle acquisition native ; les deux bundles préfectoraux, les photos P-17 et les photographies primaires P-20 restent notamment inaccessibles dans cette session.
+
+La [notice P-13](parcours-video-p13-v0.1.md) donne désormais l'empreinte recalculée du MP4 et reproduit la transcription déjà présente dans la requête initiale. Sur précision du requérant le 21 octobre, elle consigne aussi la dictée préalable du texte par l'assistant. Cette notice avec transcription est proposée en **JOIN** dans le PDF consolidé, avec le MP4 natif distinct ; l'intégration matérielle et toute transmission restent à réaliser.
+
 ## Règle commune
 
 Pour chaque pièce : identifiant stable ; description minimale ; source primaire et date ; fait établi ; grief G1–G5 ; limite probatoire ; date de constitution versus date des faits ; chaîne de transmission (émis / reçu / versé / examiné, états distincts) ; éventuelle empreinte calculée sur le binaire natif ; restriction de diffusion ; mesure d'instruction utile.
@@ -45,7 +49,7 @@ Un classement « noyau probatoire intégré » au bordereau historique n'est pas
 | P-09 | Déclaration prise en charge au guichet, reçu provisoire | G1–G2 | Ne prouve pas conformité définitive | À vérifier |
 | P-11 | Réception accusée des documents relatifs au mandataire | G1/G4 | Ne vaut ni approbation globale ni preuve de réception de P-12 | À vérifier |
 | P-12 | Message vidéo émis avant la clôture | G2/G4 | Heure d'acceptation destinataire inconnue ; distinguer lien et binaire vidéo | À vérifier |
-| P-13 | Déclaration vidéo contemporaine | G2/G3/G4 | Consentement et volonté, non dispense automatique des formalités L.299 ; trajet de la pièce au TA inconnu | Second fichier TransfertPro projeté, non envoyé |
+| P-13 | Déclaration vidéo contemporaine et transcription consolidée | G2/G3/G4 | MP4 récupéré et empreinte historique confirmée ; notice avec transcription et origine assistée du texte ; trajet au TA inconnu | Quatrième fichier du plan TransfertPro v0.4 ; notice à intégrer au PDF ; non envoyé |
 | P-14 | Saisine préfectorale et inventaire initial | G1/G3/G4 | Absence de P-11/P-12 dans les 16 pièces initiales : pas preuve d'absence de transmission ultérieure | À vérifier |
 | P-17 | Note d'audience manuscrite | G2/G3 | Remise rapportée ; image et transcription à confronter | À vérifier |
 | P-18 | Attestation administrative relative au bénéfice de l'AAH | G2/G3 | Ne démontre pas seule l'empêchement fonctionnel précis ; données privées à minimiser | À vérifier, ne pas republier l'original |
