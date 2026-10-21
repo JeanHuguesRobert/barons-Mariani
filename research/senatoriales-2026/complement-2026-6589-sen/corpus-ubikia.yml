@@ -1,0 +1,14 @@
+schema: ubikia.corpus.v0
+project: "2026-6589 SEN — mémoires QPC"
+language: fr
+source_root: ../../..
+sources:
+  - path: research/senatoriales-2026/qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md
+    role: sovereign-qpc-l299
+    required: true
+  - path: research/senatoriales-2026/qpc/memoire-qpc-l303-garanties-juridictionnelles.md
+    role: sovereign-qpc-l303
+    required: true
+  - path: research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md
+    role: sovereign-consolidation
+    required: true
