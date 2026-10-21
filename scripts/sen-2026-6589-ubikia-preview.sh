@@ -47,5 +47,43 @@ cd "$UBIKIA_DIR"
 npm run render -- --corpus "$STAGE/corpus.yml" --projection "$STAGE/projection.yml" --output "$STAGE/render-consolidated"
 npm run render -- --corpus "$SRC/corpus-ubikia.yml" --projection "$SRC/projection-qpc-l299.yml" --output "$STAGE/render-l299"
 npm run render -- --corpus "$SRC/corpus-ubikia.yml" --projection "$SRC/projection-qpc-l303.yml" --output "$STAGE/render-l303"
+# Generate the plain-text projection from the identical composed Markdown.
+# Quarto bundles Pandoc; no separate system Pandoc dependency.
+quarto pandoc "$STAGE/composition/complement-integral.preview.md" \
+  --from markdown --to plain --wrap=none \
+  --output "$STAGE/courriel-integral.preview.txt"
+
+# Fail closed on missing, empty, malformed, or unmanifested PDF outputs.
+python3 - "$STAGE" "$ROOT" <<'PY'
+import hashlib, json, pathlib, sys
+stage, root = map(pathlib.Path, sys.argv[1:])
+builds = ["render-consolidated", "render-l299", "render-l303"]
+summary = {"status": "PREVIEW_ONLY_NOT_AUTHORIZED_TO_FILE", "source_git_manifest": str(stage / "composition" / "composition.preview.json"), "outputs": []}
+for name in builds:
+    folder = stage / name
+    manifest_file = folder / "manifest.json"
+    if not manifest_file.is_file():
+        raise SystemExit(f"Missing Ubikia manifest: {manifest_file}")
+    manifest = json.loads(manifest_file.read_text(encoding="utf-8"))
+    pdfs = list(folder.rglob("*.pdf"))
+    if len(pdfs) != 1:
+        raise SystemExit(f"Expected exactly one PDF under {folder}, found {len(pdfs)}")
+    pdf = pdfs[0]
+    data = pdf.read_bytes()
+    if not data.startswith(b"%PDF-") or b"%%EOF" not in data[-2048:]:
+        raise SystemExit(f"Malformed PDF: {pdf}")
+    summary["outputs"].append({"role": name, "path": str(pdf), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest(), "ubikia_manifest": str(manifest_file)})
+txt = stage / "courriel-integral.preview.txt"
+data = txt.read_bytes()
+if not data.strip():
+    raise SystemExit("Plain text is empty")
+for token in [b"L.299", b"L.303"]:
+    if token not in data:
+        raise SystemExit(f"Missing QPC in plaintext: {token!r}")
+summary["outputs"].append({"role": "mail-plaintext", "path": str(txt), "bytes": len(data), "sha256": hashlib.sha256(data).hexdigest()})
+out = stage / "delivery-preview-manifest.json"
+out.write_text(json.dumps(summary, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+print(out)
+PY
 echo "Inspect three Ubikia manifests and PDF outputs in: $STAGE"
 echo "DRAFT ONLY — no transmission, deployment, or publication"
