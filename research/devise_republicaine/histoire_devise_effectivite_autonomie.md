@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.2-research"
+version: "1.3-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -453,6 +453,20 @@ La version v0.7 propose deux obligations à inscrire dans la future loi organiqu
 - **Mesure des effets inverses** : documenter les coûts administratifs, délais, renoncements et effets différenciés des mécanismes de demande ; ne pas confondre absence de réponse, refus fondé, résultat négatif et violation juridique.
 
 La donnée parlementaire sur **cinquante absences de réponse** n'est donc ni une anecdote ni une condamnation juridictionnelle : elle constitue **un résultat empirique majeur pour une étude sur l'effectivité des garanties et la nécessité d'évaluer le fonctionnement de l'institution**, avec des limites probatoires clairement identifiées.
+
+## XIII. Deux bilans parlementaires, deux périmètres : méthode de citation sans recompter
+
+**État des sources au 21 octobre 2026.** Il convient de citer directement les évaluations déjà effectuées par les assemblées, en indiquant exactement leurs qualifications et leur statut, plutôt que de reconstruire artificiellement une statistique unique.
+
+1. **Sénat — mission d'information sur l'évolution institutionnelle de la Corse** : lors de la [réunion de la commission des lois du 5 mars 2025](https://www.senat.fr/compte-rendu-commissions/20250303/lois.html), **Lauriane Josende**, rapporteure, présente le bilan de **72 demandes d'adaptation ou d'habilitation** émanant de la Collectivité de Corse, **dont 13 ont entraîné une évolution normative**. Elle précise que certaines demandes ont fait l'objet d'un rejet exprès et que la plupart des autres sont demeurées sans réponse. Il serait inexact de retranscrire « 13 évolutions normatives » par « 13 réponses, dont seulement quatre favorables ». **Le rapport présenté n'a pas été adopté par la commission**, comme l'indique explicitement le [dossier de contrôle du Sénat](https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/controle-en-clair/evolution-institutionnelle-de-la-corse.html). Les chiffres sont ceux **présentés par la rapporteure** dans un compte rendu officiel, non les conclusions d'un rapport adopté.
+
+2. **Assemblée nationale — Florent Boudié, rapport n° 2865 du 3 juin 2026** : dans sa section intitulée *« L'inefficacité du mécanisme spécifique prévu à l'article L. 4422-16 du CGCT »*, le rapporteur décrit, d'après le recensement de la Collectivité de Corse, **57 saisines depuis 1991, quatre suites favorables et trois rejets explicites**, les autres n'ayant pas reçu de réponse gouvernementale explicite. [Rapport officiel n° 2865](https://www.assemblee-nationale.fr/dyn/17/rapports/cion_lois/l17b2865_rapport-fond), consultable également [en texte intégral](https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw).
+
+**Comparabilité :** les « 72 demandes » du Sénat et les « 57 saisines » de l'Assemblée ne doivent pas être amalgamées : périodes recensées, objets, catégories de demandes et définition de la « suite positive » doivent être rapprochés seulement si l'on veut conduire une analyse statistique commune, qui n'est **pas nécessaire à la thèse centrale**. Il suffit ici de citer les deux travaux, chacun dans ses termes et ses limites.
+
+**Portée pour la proposition v0.7 :** les deux travaux documentent une défaillance durable entre la faculté légale de demander des adaptations et leur traitement effectif. Ils fournissent donc un **motif empirique indépendant** pour examiner l'obligation projetée d'évaluation publique et périodique du *fonctionnement du régime*, y compris des non-usages et des blocages, au lieu de se limiter à l'évaluation des normes finalement adoptées. Ils ne démontrent ni que la rédaction v0.7 serait nécessairement adoptée, ni qu'elle assurerait à elle seule la réponse à toute demande.
+
+**Discipline documentaire :** ne pas recomptabiliser les dossiers déjà étudiés pour embellir un résultat ; conserver leurs périmètres, leurs qualifications et leurs réserves institutionnelles. Une enquête nouvelle sur les dossiers individuels ne serait justifiée que pour une question laissée sans réponse par ces sources, telle que l'exécution des prescriptions du V bis ou l'inventaire des publications au *Journal officiel*.
 
 ## Conclusion générale — une devise à éprouver
 
