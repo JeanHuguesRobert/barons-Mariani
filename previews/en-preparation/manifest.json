@@ -1,8 +1,8 @@
 {
   "schema": "living-books.public-working/v1",
   "status": "public-en-preparation-non-gele",
-  "built_at_utc": "2026-10-21T17:28:04.208714+00:00",
-  "git_sha": "3d74444fdd52993ddc9135a275069f099a14ad39",
+  "built_at_utc": "2026-10-21T17:29:07.886634+00:00",
+  "git_sha": "4d568622998561df321feea7009d9868478af7f8",
   "books": [
     {
       "id": "capable",
@@ -80,7 +80,7 @@
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "1196a9fae6541db5b1502206d20c76fe4c2caaca2ebb998a14081409becd0630"
+      "sha256": "46aef5edf807a908d1262c9572b5b277e1c6984db220b25b4e431932ec2542db"
     },
     {
       "path": "research/methode_terrains_feconds.md",
