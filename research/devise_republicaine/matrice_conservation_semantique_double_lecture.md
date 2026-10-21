@@ -80,3 +80,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ### Checkpoint du chapitre VIII — 21 octobre 2026
 
 [Commit 1d0c86b](https://github.com/JeanHuguesRobert/barons-Mariani/commit/1d0c86b754776e9b662af64f25ae656a390dc8c5) : les six opérations (formulation/usage/inscription/norme/application/jurisprudence), les six jalons historiques 1790/1793/1848/1880/1946–58/2018, les trois risques (anachronisme, saut normatif, attribution de mobile), les qualifications des sources et les incertitudes sur 1880 sont explicitement présentes. Ajout de la seconde dimension anti-présentiste (avenir ouvert, contrefactuel non prouvé). Le contrôle est **ciblé**, il ne vaut pas certificat général de non-perte.
+
+
+## Innovation contrôlée — crédibilité et désirabilité
+
+[Commit 54b4502](https://github.com/JeanHuguesRobert/barons-Mariani/commit/54b4502334c90cc8606817d25475db3356fa9323) : ajout d'une section originale de quatre pages environ avant le chapitre I. **Nouveau → ancien** : ces trois scènes ne sont pas des événements ajoutés au récit, mais des exemples pédagogiques hypothétiques, identifiés comme tels ; elles explicitent la distinction existante entre droit formel et capacité réelle. Leur statut est **innovation argumentative déclarée**, non conservation d'un élément ancien. Les trois tests de crédibilité, le pluralisme et les risques de capture sont reconduits aux sections IV–VII et XIV–XVI. Aucun effet juridique ou empirique supplémentaire de la v0.7 n'est affirmé.
