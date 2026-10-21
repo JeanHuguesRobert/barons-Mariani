@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "0.9-research"
+version: "1.0-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -305,6 +305,66 @@ On pourra objecter que l'évaluation des politiques appartient déjà aux pouvoi
 Cette proposition ne promet ni des résultats uniformément positifs ni l'abolition des conflits. Elle prétend rendre plus difficile la disparition, derrière la proclamation d'une compétence, de la question de son exercice réel. La réponse de droit dépendra de la portée que pourront donner à cette obligation le constituant, le législateur organique et, dans leurs compétences respectives, les juridictions. La réponse empirique dépendra des informations rendues publiques, de leur qualité et de la capacité collective à corriger les résultats.
 
 **Thèse de synthèse :** la Constitution ne devient pas inexistante à chaque échec de la loi ; mais une République fidèle à la Déclaration de 1789 ne peut considérer comme secondaire une défaillance persistante des garanties de droits qu'elle proclame. L'effectivité n'est pas un substitut à la légalité : elle est l'une des épreuves auxquelles la légalité constitutionnelle doit consentir.
+
+## X. État de l'art comparé : qualité normative, effectivité, évaluation et valeur ajoutée de l'amendement
+
+### 1. L'exigence d'effectivité appartient déjà au droit et aux sciences de l'action publique
+
+Le vocabulaire de l'« effectivité » n'est ni une nouveauté de 2026 ni une notion doctrinale propre à cette recherche. Le problème de la distance entre règle écrite, conduite des institutions et expérience des destinataires traverse la théorie du droit, la sociologie juridique, les études de mise en œuvre et l'évaluation des politiques publiques. Une proposition originale ne saurait donc consister à remarquer cette distance. Elle devrait plutôt **articuler, dans un régime institutionnel défini, une obligation de garanties et une obligation publique d'évaluer les conditions réelles d'accès et les effets**, au-delà de la seule évaluation des normes produites.
+
+La comparaison exige de ne pas confondre deux corpus : le **contrôle juridique**, dans lequel un juge qualifie un manquement à une norme opposable, et l'**évaluation empirique**, dans laquelle une enquête cherche les effets, les causalités et les conséquences inattendues d'une politique. La publicité et la périodicité de l'évaluation améliorent la possibilité de discussion et de correction ; elles ne rendent pas automatiquement chaque résultat justiciable.
+
+### 2. Référentiel international : les standards existent, mais ne sont pas automatiquement contraignants
+
+L'[OCDE, *Regulatory Policy Outlook 2025*, chapitre « Regulating for effectiveness »](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/regulating-for-effectiveness_e4e30799.html), distingue la conception ex ante, l'exécution administrative et l'évaluation ex post des normes. Cette dernière compare notamment les objectifs initiaux aux conséquences réelles, aux coûts de mise en œuvre et aux effets imprévus. Le chapitre souligne que la planification systématique de l'évaluation demeure incomplète dans plusieurs États. Cette comparaison est **une recommandation de bonne régulation**, non une source directe de contrôle de constitutionnalité français.
+
+Le [profil français de l'OCDE pour 2025](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/france_2b130ad5.html) caractérise l'évaluation ex post en France comme pratiquée surtout **au cas par cas**, et appelle à la rendre plus systématique. Le profil signale par ailleurs la dissymétrie entre les obligations concernant les projets émanant du Gouvernement et le traitement de certaines initiatives parlementaires. Ce constat comparatif ne démontre pas que toute évaluation nationale soit inexistante : il met en évidence une difficulté institutionnelle de **systématisation**.
+
+La [Commission de Venise, *Updated Rule of Law Checklist* (adoptée en décembre 2025)](https://www.coe.int/en/web/venice-commission/rule-of-law-checklist), fournit un référentiel de l'État de droit intégrant légalité, sécurité juridique, prévention de l'abus de pouvoir, égalité, accès à la justice, contrôle constitutionnel et équilibre des pouvoirs. Sa valeur tient à des **questions vérifiables sur les institutions réelles** ; elle n'érige pas la méthode des terrains féconds ou la formulation de la v0.7 en exigence positive applicable à la France. Cette actualisation a notamment intégré les enjeux liés aux technologies numériques et aux pouvoirs privés.
+
+### 3. Où se situe le gain normatif revendiqué ?
+
+La question centrale est celle de la **différence marginale** entre le texte transmis au Sénat et le même texte complété par l'amendement citoyen. Le texte de référence prévoit déjà des mécanismes de contrôle et d'évaluation des **normes adoptées**. La proposition v0.7 vise deux objets qui ne sont pas identiques :
+
+1. **Des garanties relatives à l'accès aux procédures d'habilitation et à leur mise en œuvre**. Elles concerneraient la possibilité pratique de faire fonctionner un régime, y compris lorsque celui-ci produit peu ou aucune norme nouvelle. Leur contenu exact resterait à la loi organique.
+2. **Une évaluation publique et périodique du fonctionnement du régime et de ses effets**. Elle ne se limiterait pas à contrôler une norme existante ; elle inviterait à documenter les étapes et obstacles du mécanisme lui-même, les non-usages et les conséquences observables.
+
+Cette différence est conceptuellement **non redondante** : l'évaluation des produits d'un régime et l'évaluation de son fonctionnement ne portent pas sur la même population de faits. Elle peut cependant être **juridiquement moins nette** si le législateur organique ou les organes compétents interprètent déjà les clauses d'évaluation existantes très largement. Pour établir une portée nouvelle, il faudrait alors montrer qu'une loi organique omettant toute étude du fonctionnement serait plus difficile à défendre au regard d'une Constitution comportant la v0.7.
+
+### 4. Test de robustesse par omissions hypothétiques
+
+| Hypothèse de loi organique | Sans v0.7 | Avec v0.7 | Nature du gain envisagé |
+| --- | --- | --- | --- |
+| Contrôle juridique et bilan des seules normes adoptées | Pourrait répondre à la lettre du contrôle et de l'évaluation des normes ; examen à confirmer selon le texte définitif | Une objection distincte pourrait porter sur l'absence d'évaluation publique et périodique **du régime** | **Obligation d'objet**, plus que garantie d'un résultat |
+| Régime fonctionnant sans habilitation effective | L'évaluation des normes adoptées pourrait ne rien observer | L'évaluation du fonctionnement devrait pouvoir rendre intelligibles les non-usages, sans les juger automatiquement anormaux | **Visibilité des absences et obstacles** |
+| Procédure d'habilitation dépourvue de garanties praticables | D'autres exigences constitutionnelles pourraient déjà être mobilisées ; analyse casuelle indispensable | Référence textuelle supplémentaire aux garanties nécessaires d'accès et de mise en œuvre | **Ancrage constitutionnel spécialisé**, contenu encore à déterminer |
+| Rapports ponctuels, internes ou non publiés | Dépend de la portée des obligations existantes | « Publique et périodique » ajoute deux caractéristiques littérales à l'objet évalué | **Publicité et périodicité** |
+| Résultats négatifs sans mécanisme explicite de correction | Responsabilité politique et contrôles disponibles | L'amendement n'ordonne pas lui-même une correction ni un calendrier de réponse aux recommandations | **Limite reconnue** de la v0.7 |
+
+Ce tableau est une **analyse contrefactuelle**, non une prédiction de jurisprudence. Il identifie le gain textuel le plus défendable : **étendre l'obligation au fonctionnement d'un régime y compris lorsqu'il ne produit pas de normes, et rendre cette observation publique et régulière**. Il ne faut pas promettre l'adoption automatique de lois, l'habilitation sur demande, un délai contraignant non écrit ou une sanction juridictionnelle certaine.
+
+### 5. Trois objections qui doivent demeurer dans le corps du raisonnement
+
+**Objection de redondance.** Les principes constitutionnels actuels, les recours et les évaluations existantes pourraient déjà produire des garanties satisfaisantes. **Réponse à éprouver :** documenter les situations que l'évaluation des seules normes adoptées ne peut observer ; établir si la future loi organique serait tenue de les traiter même sans nouvelle clause.
+
+**Objection d'indétermination.** La notion de « garanties nécessaires » peut laisser une grande marge au législateur organique. **Réponse bornée :** l'objet de l'obligation serait identifiable (accès et mise en œuvre du régime), mais sa précision et la portée d'un contrôle pour insuffisance demeureraient débattues.
+
+**Objection d'inflation constitutionnelle.** Des détails d'évaluation pourraient relever de la loi organique plutôt que du texte constitutionnel. **Réponse proposée :** précisément parce que le constituant n'a pas à décrire le protocole d'enquête, la clause fixe des **finalités et des objets obligatoires** tandis que la loi organique choisit les techniques, la périodicité exacte, les acteurs et les garanties opérationnelles.
+
+### 6. La doctrine peut formuler une proposition, sans masquer les limites de la preuve
+
+La thèse académique désormais explicite est la suivante : **dans un système où l'on contrôle plus facilement les actes adoptés que les capacités jamais exercées, une clause constitutionnelle orientée vers le fonctionnement du régime rend concevable une obligation de connaissance des effets et des empêchements**. Si elle était adoptée, cette obligation pourrait enrichir le contrôle de complétude de la loi organique et améliorer l'information publique, sans imposer au juge une compétence générale d'optimisation des politiques.
+
+La thèse doit néanmoins être qualifiée comme **argument de doctrine en faveur d'un ajout**, et non comme conclusion déjà consacrée par le juge. La prochaine vérification documentaire utile consiste à comparer mot à mot toutes les prescriptions d'évaluation du projet de loi constitutionnelle, de l'article L. 4422-16 et L. 4422-17 du CGCT, puis les dispositions organiques applicables aux autres collectivités dotées de compétences normatives différenciées. Il faudra établir où l'évaluation **du régime** apparaît déjà et où elle est absente.
+
+### Références de l'état de l'art
+
+- OCDE, *Regulatory Policy Outlook 2025*, chap. 5, « Regulating for effectiveness », 9 avril 2025, [texte intégral](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/regulating-for-effectiveness_e4e30799.html).
+- OCDE, *Regulatory Policy Outlook 2025*, fiche France, 9 avril 2025, [texte intégral](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/france_2b130ad5.html).
+- Commission de Venise, *Rule of Law Checklist*, CDL-AD(2016)007, et *Updated Rule of Law Checklist*, décembre 2025, [portail officiel](https://www.coe.int/en/web/venice-commission/rule-of-law-checklist).
+- Conseil constitutionnel, décision n° 2018-717/718 QPC, 6 juillet 2018, [motifs et dispositif](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018).
+- Sénat, projet de loi constitutionnelle n° 782 (2025–2026), [texte transmis](https://www.senat.fr/leg/pjl25-782.html).
+- Corpus Mariani, [*Méthode des terrains féconds*](../methode_terrains_feconds.md) et [*Proposition d'amendement d'effectivité v0.7*](../autonomia/amendement_effectivite_article_72-5.md).
 
 ## Conclusion générale — une devise à éprouver
 
