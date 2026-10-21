@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.6-research"
+version: "1.7-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -601,6 +601,62 @@ L'originalité recherchée n'est donc pas un **droit constitutionnel abstrait au
 ### 7. Limites de l'autoportance et de la démonstration
 
 Le présent chapitre expose sans prérequis la différence entre traçabilité, réponse, évaluation et correction ; il relie chacune à un mécanisme concret, à une source institutionnelle et à une objection. Les références internes servent à approfondir les fondements doctrinaux, non à fournir une définition indispensable absente du manuscrit. Avant revue, la consolidation éditoriale devra néanmoins vérifier l'ensemble des chapitres pour supprimer les répétitions, harmoniser la numérotation, vérifier les références exactes et réunir la bibliographie. L'autoportance locale de ce chapitre ne vaut donc pas certification de l'autoportance **globale** du texte.
+
+## XVII. « Prendre au mot » la Constitution : confrontations entre la lettre et les effets
+
+### 1. Méthode : une lecture exigeante, non une citation à charge
+
+Le Corpus formalise **« prendre au mot »** comme une opération d'exploration rationnelle : partir d'un énoncé public, d'une permission, d'une promesse ou d'un droit ; retrouver exactement son auteur et son statut ; établir ses conditions de réalisation ; les confronter aux faits par un *Reality Test* ; qualifier l'écart ; puis rechercher les facteurs de conversion capables de rendre la promesse effectivement praticable. La boucle peut se résumer : **énoncé vérifié → réalité observable → écart capacitaire → cause à éprouver → correction testable**. L'auteur distingue ici l'*effectivité* (possibilité réelle d'exercer un droit, dans le temps utile) de l'*efficacité* (obtention du résultat recherché après exercice de cette possibilité). La méthode ne présuppose ni fraude ni malveillance.
+
+Source doctrinale : Jean Hugues Noël Robert, [*Rendre capable — noyau doctrinal*, développement « prendre au mot », v0.5.4 du 24 septembre 2026](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/noyau_doctrinal_rendre_capable.md). L'exposé ci-dessus suffit à comprendre la méthode sans ouvrir ce lien.
+
+L'application ci-dessous sépare constamment **(a)** la citation littérale, **(b)** l'exigence effectivement formulée par le texte, **(c)** le constat institutionnel attesté et **(d)** l'écart encore à qualifier juridiquement. Un résultat médiocre au regard de la finalité politique n'est pas, à lui seul, une violation constatée de la Constitution. Réciproquement, l'absence de sanction ne démontre pas que le système aurait rempli son objet.
+
+### 2. Prendre au mot la Déclaration du 26 août 1789
+
+**Préambule :** les constituants entendent rendre possibles des comparaisons répétées entre « les actes du pouvoir législatif, et ceux du pouvoir exécutif » et « le but de toute institution politique ». L'énoncé affirme la nécessité d'un **examen de conformité aux finalités proclamées** ; il ne détaille ni indicateurs de performance ni sanction automatique. Le point d'épreuve est concret : le bilan des mécanismes corses, discuté par les assemblées, est-il préservé et suivi de possibilités institutionnelles d'examen ?
+
+**Article 2 :** « Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'homme. » Cette finalité est un principe de justification du pouvoir ; elle n'implique pas que chaque politique atteindra ses objectifs quantitatifs. Une réforme qui institue une compétence sans permettre l'usage effectif des droits qu'elle entend protéger mérite un examen, surtout si l'obstacle est durable et documenté.
+
+**Article 12 :** « cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée ». Le texte concerne directement la force publique ; il ne constitue pas une interdiction constitutionnelle générale de toute rémunération ou de tout avantage attaché aux mandats. Il fournit néanmoins un **critère de vigilance contre la capture des pouvoirs confiés** : analyser les incitations et les mécanismes d'imputabilité plutôt que présumer la corruption individuelle.
+
+**Article 14 :** les citoyens ont le droit « d'en suivre l'emploi », à propos de la contribution publique. Cette disposition concerne les finances publiques. Elle éclaire le lien historique entre représentation, connaissance et contrôle ; elle ne prescrit pas à elle seule un registre exhaustif de toutes les demandes d'habilitation.
+
+**Article 15 :** « La société a le droit de demander compte à tout agent public de son administration. » Cette phrase donne un point d'appui textuel particulièrement précis à la problématique d'**imputabilité**. Il ne faut pas en déduire sans médiation législative que tout courrier individuel adresserait à tout agent une obligation de réponse motivée dans un délai déterminé ; il faut néanmoins demander quels instruments existants rendent effectif le contrôle de l'administration, et quelles lacunes les évaluations parlementaires révèlent.
+
+**Article 16 :** « Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de constitution. » Ce critère de constitutionnalisme met en garde contre la confusion du document écrit et des garanties réelles. Une défaillance administrative locale n'abroge pas la Constitution ; un défaut grave et persistant de garantie des droits appelle en revanche une **qualification juridique et une réponse institutionnelle**, au-delà d'une cérémonie de proclamation.
+
+Source primaire commune : [Déclaration des droits de l'homme et du citoyen de 1789, préambule et articles 2, 12, 14, 15, 16, Légifrance](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000697056/2026-02-28).
+
+### 3. Prendre au mot la Constitution de 1958
+
+**Préambule :** « Le Peuple français proclame solennellement son attachement aux Droits de l'Homme et aux principes de la souveraineté nationale tels qu'ils ont été définis par la Déclaration de 1789 ». Ce renvoi explicite interdit méthodologiquement de traiter l'article 15 de 1789 ou les garanties de son article 16 comme de simples curiosités révolutionnaires sans pertinence constitutionnelle contemporaine. Il ne supprime pas pour autant la nécessité de préciser la portée jurisprudentielle de chaque grief. [Préambule de 1958, Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527447/2026-02-19).
+
+**Article 2 :** « La devise de la République est “Liberté, Égalité, Fraternité”. » L'énoncé fixe la devise constitutionnelle ; les trois mots n'ont pas un régime juridique uniforme. La reconnaissance jurisprudentielle de la fraternité en 2018 démontre la possibilité d'en tirer une norme particulière, non l'existence préalable de la clause v0.7.
+
+**Article 24 :** « Le Parlement vote la loi. Il contrôle l'action du Gouvernement. Il évalue les politiques publiques. » **C'est une obligation fonctionnelle déjà inscrite dans la lettre constitutionnelle.** L'écart empirique à étudier ne tient donc pas à l'absence de compétence d'évaluation, mais à la façon dont les constats d'ineffectivité sont produits, publiés, contestés et suivis. La non-adoption du rapport sénatorial de 2025, malgré la discussion publique de ses résultats, constitue une épreuve institutionnelle précise, sans démontrer que la commission aurait violé l'article 24 en exerçant son pouvoir de vote. [Article 24, Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019241014/2026-05-12).
+
+**Article 47-2 :** « Par ses rapports publics, elle contribue à l'information des citoyens. » La Cour des comptes assiste notamment le Parlement et le Gouvernement dans l'évaluation des politiques publiques. Le constituant fait donc de la **publicité des connaissances issues du contrôle** une fonction exprimée dans la Constitution. Le champ propre de la Cour des comptes ne se confond pas avec les rapports internes des commissions : la comparaison est institutionnelle, non une obligation de publier tout rapport parlementaire refusé. [Article 47-2, Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019241048/2026-02-19).
+
+**Article 72 :** la libre administration des collectivités s'exerce « dans les conditions prévues par la loi » ; elle ne signifie pas que toute demande territoriale doit être acceptée. Le test utile consiste à vérifier si le cadre juridique ouvert donne aux institutions concernées des **conditions praticables d'exercice** de leurs compétences, sans nier les limites constitutionnelles et le contrôle de légalité.
+
+### 4. Matrice explicite : texte, pratique, écart et réponse envisagée
+
+| Lettre constitutionnelle | Fait ou difficulté observable | Écart à instruire, non verdict | Réponse proposée |
+| --- | --- | --- | --- |
+| DDHC, préambule : comparer les actes aux finalités | Deux bilans parlementaires font état de nombreuses demandes corses sans suite explicite | La connaissance du dysfonctionnement produit-elle une capacité de correction ? | Évaluation du fonctionnement, pas uniquement des actes aboutis |
+| DDHC, art. 15 : demander compte aux agents publics | Chaînes de traitement des demandes et rapports parfois difficiles à reconstituer | Quelles traces et obligations de suivi sont juridiquement exigibles ? | Traçabilité proportionnée, y compris des absences qualifiées |
+| DDHC, art. 16 : garantie des droits | Facultés formellement ouvertes mais peu utilisées ou peu suivies | Y a-t-il atteinte caractérisable à une garantie de droit ? | Garanties d'accès et de mise en œuvre à définir dans la loi organique |
+| Constitution, art. 24 : évaluer les politiques publiques | Mission sénatoriale conduite mais rapport non adopté ; autre rapport publié par l'Assemblée | Quels mécanismes conservent les constats indépendamment de leur adoption politique ? | Observation publique et périodique du régime |
+| Constitution, art. 47-2 : informer par des rapports publics | Risque que seule la norme adoptée soit examinée | Quels événements institutionnels sont absents de la mesure ? | Inclure non-usages, obstacles et effets différenciés dans le champ du bilan |
+
+Cette matrice constitue une **technique argumentative et probatoire**. Elle ne dresse pas un tableau d'inconstitutionnalités déjà jugées. Elle identifie les lieux où la lettre de la Constitution fournit des questions légitimes auxquelles la pratique institutionnelle doit pouvoir répondre.
+
+### 5. Portée et limite de la solution constitutionnelle proposée
+
+L'amendement à l'article 72-5 ne prétend pas remédier d'un coup à toutes les défaillances de la représentation, de l'administration ou du contrôle juridictionnel. Sa fonction spécifique est de donner au constituant l'occasion **d'imposer au législateur organique des garanties d'accès et de mise en œuvre**, puis **une évaluation publique périodique du fonctionnement du régime et de ses effets**. Le modèle doctrinal de *Traçabilité des actes* fournit ensuite un moyen possible de rendre ce bilan vérifiable. Les objections tenant à la marge d'appréciation du législateur, à la protection des données et aux compétences institutionnelles demeurent pertinentes.
+
+La conclusion de la méthode *prendre au mot* n'est ni « tout fonctionne » parce que la Constitution contient de beaux principes, ni « il n'existe plus de Constitution » à la première défaillance. Elle est plus rigoureuse : **dès lors qu'un écart matériel et persistant est établi entre la garantie écrite et sa pratique, la charge de l'explication institutionnelle devient une question démocratique majeure ; si un droit garanti est réellement compromis, les voies de contrôle et de réparation doivent être interrogées au regard de leur propre effectivité.**
 
 ## Conclusion générale — une devise à éprouver
 
