@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
 last_modified_at: "2026-10-21"
-version: "0.3"
+version: "0.4"
 status: "working-paper — préparation, non transmis"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -40,7 +40,7 @@ related_documents:
 
 # Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée
 
-**Brouillon de travail v0.3. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
+**Brouillon de travail v0.4. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
 
 ## Contrat de source et de transmission — version corrigée
 
@@ -48,7 +48,7 @@ Le Markdown conservé dans GitHub est **la source souveraine** du mémoire compl
 
 **Canal 1 — courriel :** corps en **texte brut intégral**, avec indication explicite qu'un **PDF richement formaté du même mémoire** est joint au courriel. Le corps textuel mentionne l'identité documentaire du PDF, son nom, sa taille et son SHA-256 lorsqu'ils sont calculés, ainsi que l'URL et le commit du Markdown source. Il convient de vérifier la bonne réception de la pièce jointe ; son expédition ne prouve ni son ouverture ni son examen.
 
-**Canal 2 — TransfertPro :** dépôt de **deux fichiers** : (1) le **même PDF richement formaté**, identique octet pour octet à la pièce jointe du courriel ; (2) la vidéo P-13 du 11 septembre 2026, identifiée séparément par nom, taille et empreinte. Il ne s'agit plus d'un fichier texte miroir dans TransfertPro.
+**Canal 2 — TransfertPro :** dépôt de **quatre fichiers** : (1) le **même PDF consolidé**, identique octet pour octet à la pièce jointe du courriel ; (2) le PDF autonome QPC L.299 ; (3) le PDF autonome QPC L.303 ; (4) la vidéo P-13 du 11 septembre 2026, identifiée séparément par nom, taille et empreinte. Il ne s'agit plus d'un fichier texte miroir dans TransfertPro.
 
 **Contrôle de concordance :**
 - le corps du courriel est un rendu textuel du même contenu juridique que le PDF ;
@@ -116,13 +116,15 @@ La borne minimale est de 177 voix si z=0, de 139 si les 76 blancs et nuls devena
 
 La comparaison avec la Corse-du-Sud et les observations relatives aux soutiens institutionnellement visibles ne peuvent être utilisées comme un transfert mécanique de suffrages ni comme une reconstitution de votes secrets. Leur objet est uniquement de discuter la proposition selon laquelle l'incidence de la candidature absente aurait été manifestement impossible.
 
-## VI. Question prioritaire de constitutionnalité — article L.299
+## VI–VII. Mémoires QPC autonomes — inclusion par référence
 
-**EMPLACEMENT RÉSERVÉ AU MÉMOIRE DISTINCT ET MOTIVÉ INTÉGRAL.** Source de production : `../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md`. Rattachement aux griefs G1/G2. Le mémoire doit conserver son objet, sa motivation, ses conclusions et son indépendance de L.303. Son placement dans un fichier matériel commun impose une vérification spécifique du formalisme QPC.
+Le mémoire QPC **L.299** est la source autonome : [mémoire distinct L.299](../qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md). Il développe la question relative aux formalités et à l'empêchement fonctionnel ; rattachement G1–G2.
 
-## VII. Question prioritaire de constitutionnalité — article L.303
+Le mémoire QPC **L.303** est la source autonome : [mémoire distinct L.303](../qpc/memoire-qpc-l303-garanties-juridictionnelles.md). Il développe la question du contrôle juridictionnel et du recours effectif ; rattachement G3–G4.
 
-**EMPLACEMENT RÉSERVÉ AU MÉMOIRE DISTINCT ET MOTIVÉ INTÉGRAL.** Source de production : `../qpc/memoire-qpc-l303-garanties-juridictionnelles.md`. Rattachement G3/G4. Le mémoire doit répondre à l'objection tenant à l'existence du contrôle préélectoral du tribunal et à l'absence de droit constitutionnel général à un double degré de juridiction.
+**Règle de compilation :** inclure à ces deux emplacements le corps intégral, sans frontmatter technique, de chacune des deux sources. Les deux unités doivent conserver leurs titres « MÉMOIRE DISTINCT ET MOTIVÉ », leurs développements, conclusions et démarcations visuelles, dans le message textuel intégral **et** le PDF consolidé.
+
+**Sorties supplémentaires :** générer, à partir de chaque source QPC, un PDF individuel distinct. Le dépôt projeté devient : courriel texte intégral avec PDF consolidé joint ; TransfertPro contenant PDF consolidé, PDF QPC L.299, PDF QPC L.303 et vidéo P-13. Les PDF QPC individuels sont également à joindre au courriel si leur taille et les contraintes du canal le permettent, et doivent être nommés explicitement dans les deux rendus. Vérifier les octets, les empreintes et les accusés de chaque fichier. Ne pas inférer la recevabilité du seul découpage matériel.
 
 ## VIII. Bordereau et notes de provenance
 
