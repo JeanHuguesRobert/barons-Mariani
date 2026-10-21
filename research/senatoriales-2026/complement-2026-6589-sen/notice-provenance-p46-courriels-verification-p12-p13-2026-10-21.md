@@ -75,6 +75,12 @@ Proposition **sans renumérotation de la requête initiale** :
 
 **Diffusion :** originaux potentiellement sensibles en espace privé, reproduction destinée au Conseil soumise à validation et au canal autorisé ; notice publique limitée aux métadonnées, au raisonnement et aux liens documentaires non sensibles. Aucun envoi n'est autorisé ici.
 
+**Transparence et vie privée — proposition de formulation pour la version institutionnelle, à valider avant toute production :**
+
+> La version publique de ce dossier ne reproduit pas certaines données personnelles ni certains éléments de correspondance privée. Les sources correspondantes sont conservées par le requérant avec leurs éléments de provenance et d'intégrité disponibles. Si le Conseil estime ces éléments nécessaires, le requérant est en mesure de les lui communiquer, en tout ou partie, selon le canal et les modalités qu'il indiquera, afin d'en permettre la vérification tout en tenant compte de la vie privée des personnes concernées. L'absence de ces données dans la version publique ne signifie donc ni que les sources n'existent pas ni qu'elles auraient déjà été versées ou examinées par le Conseil.
+
+Cette formulation doit être limitée aux objets dont la source et les traces d'intégrité sont effectivement disponibles ; elle ne transforme pas une empreinte de copie en preuve de réception ou d'examen par une autorité.
+
 ## 5. Ce que prouve la série, et ce qu'elle ne prouve pas
 
 La suite de demandes démontre que le requérant a **cherché de manière répétée à fixer les trois faits A/B/C avant le recours**, en séparant la vérification matérielle d'un jugement sur la légalité du dépôt. Des réponses institutionnelles ont été reçues sur certains aspects de la procédure ; les trois confirmations recherchées demeurent non établies dans les messages examinés. La série n'établit **ni** que le courriel P-12 n'a pas été reçu **ni** que la vidéo a été occultée **ni** une intention de dissimulation.
