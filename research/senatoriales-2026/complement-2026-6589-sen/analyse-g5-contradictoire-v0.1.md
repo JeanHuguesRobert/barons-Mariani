@@ -3,7 +3,7 @@ title: "2026-6589 SEN — Analyse contradictoire du grief G5"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-version: "0.1"
+version: "0.2"
 status: "working-paper — contribution candidate"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -53,7 +53,7 @@ Avec un nombre total de suffrages exprimés `530 + z`, le candidat initialement 
 442 - x <= floor((530 + z) / 2)
 ```
 
-Cette formulation ne suffit pas à tester toutes les conditions légales propres au scrutin sénatorial ; elle borne uniquement l'une d'elles. Dans le scrutin observé, la majorité relative aux inscrits est également une condition à considérer séparément.
+**Droit applicable vérifié :** l'article L.294 du Code électoral impose cumulativement la majorité absolue des suffrages exprimés et le quart des électeurs inscrits. Avec 616 inscrits, le second seuil vaut 154 voix. À 442 voix, le candidat élu satisfaisait les deux seuils. Un scénario lui faisant perdre la majorité absolue des exprimés suffit à écarter son élection dès le premier tour, même si son total hypothétique reste supérieur à 154. L'autre scénario, perte du seul seuil du quart des inscrits, exigerait au moins 289 voix de moins (442 − 289 = 153), toutes choses égales par ailleurs. Source légale : https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353710/
 
 | Hypothèse illustrative | z | x minimum pour perdre la majorité absolue des exprimés |
 |---|---:|---:|
@@ -81,7 +81,7 @@ L'appréciation juridique appartient au Conseil constitutionnel : celui-ci devra
 
 ## Limites / contrôles avant intégration
 
-1. Vérifier sur les textes applicables toutes les conditions exactes de majorité au premier tour, et ne pas confondre simple échec du seuil de majorité absolue des exprimés et preuve complète de la nécessité d'un second tour.
+1. Contrôle de règle : **PASS pour le texte de L.294**, mais hypothèses de transferts électoraux toujours **UNKNOWN** ; distinguer l'échec d'une condition cumulative d'une prédiction de comportement de vote.
 2. Vérifier le procès-verbal et les chiffres observés sur la source officielle ou la pièce communiquée.
 3. Ne pas introduire de grief électoral supplémentaire : rattachement exclusif au grief G5 de la requête enregistrée.
 4. Conserver la distinction **fait observé / hypothèse contrefactuelle / inférence / demande au juge**.
