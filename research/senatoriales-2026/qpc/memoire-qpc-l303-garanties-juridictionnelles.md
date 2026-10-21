@@ -12,7 +12,7 @@ visibility: public
 related_case: "Sénatoriales Haute-Corse 2026"
 related_documents:
   - "../requete-conseil-constitutionnel.md"
-  - "qpc-l303-garanties-juridictionnelles-office-juge-electoral.md"
+  - "memoire-qpc-l303-garanties-juridictionnelles.md"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 license: "CC BY-SA 4.0"
 last_modified_at: "2026-10-21"
