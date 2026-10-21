@@ -40,7 +40,7 @@ Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période
 | Date/heure CEST | Objet / fonction | Ancrage probatoire de la requête |
 |---|---|---|
 | 11/09 17:57:55 | Transmission initiale du lien vidéo, demande d'accusé | P-12 / P-13 / P-46 |
-| 14/09 14:09:17 | Demande de complétude du dossier avant audience, copie au greffe | P-14 / P-46, contextualise P-12 |
+| 14/09 14:09:17 | Demande de complétude du dossier avant audience, copie au greffe | P-15 / P-46.11 ; demande liée à la transmission au TA, sans preuve de réception ou d'examen |
 | 15/09 08:42:17 | Première formulation de A, B et C à la préfecture | P-46, compléments à P-12/P-14 |
 | 16/09 08:38:28 | Demande d'inventaire et chronologie au TA | P-29 / P-46 |
 | 16/09 08:39:16 | Relance des trois questions A/B/C | P-46 |
