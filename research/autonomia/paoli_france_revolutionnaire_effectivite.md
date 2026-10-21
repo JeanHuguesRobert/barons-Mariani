@@ -127,3 +127,8 @@ L'Enciclopedia Treccani, notice « Pasquale Paoli », https://www.treccani.it/en
 6. Raccordement au [Projet #1755](projet_1755.md), à [Autonomia](../autonomia.md), à [l'histoire de la devise](../devise_republicaine/01_origines_revolution_1789_1799.md) et à [l'amendement d'effectivité](amendement_effectivite_article_72-5.md) : comparaison interprétative, sans transformer un précédent historique en preuve juridique actuelle.
 
 **Conclusion provisoire :** l'explication aujourd'hui la plus directement soutenue est l'écart entre la diffusion de la réputation de Paoli et la circulation du document constitutionnel. Les effets spécifiques de son alignement britannique et de sa rupture avec les autorités françaises restent des hypothèses plausibles, non des causes exclusives démontrées.
+
+
+## Enquête transatlantique — chaîne documentaire (21 octobre 2026)
+
+[De Corte à Philadelphie : reconstitution de la chaîne documentaire (1755–1776)](chaine_documentaire_1755_1776.md). Distingue le document original, les copies et éditions, la notoriété de Paoli, les récits institutionnels et les lectures attestées des constituants américains ; l'influence directe demeure une hypothèse à tester.
