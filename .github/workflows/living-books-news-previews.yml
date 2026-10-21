@@ -49,6 +49,10 @@ jobs:
         run: |
           set +e
           mkdir -p living-books-diagnostics
+          : >living-books-diagnostics/source.log
+          : >living-books-diagnostics/render.log
+          : >living-books-diagnostics/validate.log
+          : >living-books-diagnostics/publish.log
           phase=checkout
           code=CHECKOUT_FAILED
           result=failed
@@ -141,6 +145,7 @@ jobs:
                   done
                 else
                   # Review-branch dispatches verify the build without writing to main.
+                  echo "Publication skipped for non-main ref: $REF_NAME" >living-books-diagnostics/publish.log
                   publication=skipped_non_main_ref
                   result=success
                   code=NOT_PUBLISHED
