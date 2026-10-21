@@ -57,9 +57,9 @@ Le point de départ empirique est circonscrit : le compte rendu sénatorial du *
 
 L'[amendement citoyen à l'article 72-5, version 0.7](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md), propose que la future loi organique **détermine des garanties nécessaires à l'effectivité de la liberté, de l'égalité et de la fraternité dans l'accès aux habilitations et leur mise en œuvre** et prévoie une **évaluation publique et périodique du fonctionnement du régime et de ses effets**. Son objet propre est le **régime**, y compris ses obstacles et non-usages, non seulement les normes produites. Il ne crée pas lui-même un droit individuel à obtenir une habilitation, une obligation générale de réponse motivée, ni une correction automatique de tous les résultats négatifs.
 
-La méthode dite **« prendre au mot »** consiste à partir du texte constitutionnel exact, identifier l'obligation qu'il formule réellement, la confronter à des faits datés, qualifier l'écart sans supposer de faute et formuler une correction testable. La **Traçabilité des actes** conserve également les *traces négatives* — silences qualifiés, décisions annoncées mais introuvables — et le **Stabilisateur procédural** articule provenance, mandat, imputabilité, contradiction et possibilité de correction. Ce sont des méthodes doctrinales de l'auteur, définies dans les chapitres XV à XVII ; leur statut n'est pas celui de prescriptions légales déjà applicables.
+La méthode dite **« prendre au mot »** consiste à partir du texte constitutionnel exact, identifier l'obligation qu'il formule réellement, la confronter à des faits datés, qualifier l'écart sans supposer de faute et formuler une correction testable. La **Traçabilité des actes** conserve également les *traces négatives* — silences qualifiés, décisions annoncées mais introuvables — et le **Stabilisateur procédural** articule provenance, mandat, imputabilité, contradiction et possibilité de correction. Ce sont des méthodes doctrinales de l'auteur, définies dans les chapitres XIV à XVI ; leur statut n'est pas celui de prescriptions légales déjà applicables.
 
-**Objection structurante :** contrôle parlementaire, évaluation et publicité existent déjà ; une clause nouvelle peut elle-même demeurer purement formelle. Le gain marginal allégué doit donc être éprouvé sur une question vérifiable : **une loi organique limitée au contrôle et à l'évaluation des normes adoptées pourrait-elle encore ignorer le fonctionnement du régime et ses effets si la v0.7 figurait dans la Constitution ?** Les chapitres V, VII et X à XVII examinent les sources, limites et objections de cette question. L'adoption, le dépôt parlementaire et l'interprétation juridictionnelle de la v0.7 ne sont pas présumés.
+**Objection structurante :** contrôle parlementaire, évaluation et publicité existent déjà ; une clause nouvelle peut elle-même demeurer purement formelle. Le gain marginal allégué doit donc être éprouvé sur une question vérifiable : **une loi organique limitée au contrôle et à l'évaluation des normes adoptées pourrait-elle encore ignorer le fonctionnement du régime et ses effets si la v0.7 figurait dans la Constitution ?** Les chapitres V, VII et X à XVI examinent les sources, limites et objections de cette question. L'adoption, le dépôt parlementaire et l'interprétation juridictionnelle de la v0.7 ne sont pas présumés.
 
 ## Introduction — Question, périmètre, méthode
 
@@ -451,7 +451,7 @@ Le silence constitue une **trace négative** qui doit être caractérisée et co
 
 **Muriel Jourda**, rapporteure sur le projet constitutionnel en octobre 2026, a abordé publiquement les questions d'adaptation normative, de contrôle et de loi organique ; [l'entretien de Corse Net Infos du 15 octobre](https://app.corsenetinfos.corsica/fil-dactu/i/98394740/autonomie-la-presidente-de-la-commission-des-lois-du-senat-auditionne-les-elus-corses) distingue ses propos des analyses de la journaliste. **Aucun soutien de sa part à la v0.7 n'est établi**, et les chiffres de 2025 sont attribués à Lauriane Josende. Le vote de la commission du 5 mars 2025 et ses effets documentaires sont analysés séparément au chapitre XIV.
 
-## XIV. L'échec de publication du rapport sénatorial comme fait institutionnel autonome
+## XIII. L'échec de publication du rapport sénatorial comme fait institutionnel autonome
 
 Le compte rendu **du 5 mars 2025** de la commission des lois du Sénat permet de dépasser la simple mention « rapport non adopté ». La mission d'information engagée en 2024, initialement sous l'autorité de François-Noël Buffet et poursuivie par Lauriane Josende, avait auditionné **plus de 90 personnes** et conduit un déplacement en Corse. Au terme de l'examen, **Muriel Jourda, présidente de la commission**, met successivement aux voix les recommandations, l'autorisation de publication et le rapport : **les recommandations ne sont pas adoptées ; le rapport n'est pas adopté et sa publication n'est pas autorisée**. Il en résulte une distinction essentielle entre le **compte rendu public de la discussion**, qui demeure consultable, et un **rapport d'information autorisé à la publication**, qui n'a pas vu le jour.
 
@@ -473,7 +473,7 @@ Cette construction est une **interprétation de l'auteur**, testable sur des fai
 
 Pour l'argumentaire public, la formulation rigoureuse est donc : **« La mission du Sénat a documenté l'ineffectivité du mécanisme ; la commission a débattu de ce diagnostic, puis refusé l'adoption et la publication du rapport, pour des divergences politiques et méthodologiques expressément exposées. Le rapport de l'Assemblée nationale a ensuite, de son côté, rendu public un bilan convergent. »** Cette séquence étaye l'urgence de mécanismes publics d'évaluation sans prouver que chaque institution ou chaque élu voulait « mettre le problème sous le tapis ».
 
-## XV. Traçabilité des actes et Stabilisateur procédural : conserver la preuve des capacités et de leurs empêchements
+## XIV. Traçabilité des actes et Stabilisateur procédural : conserver la preuve des capacités et de leurs empêchements
 
 ### 1. Pourquoi l'effectivité réclame une mémoire institutionnelle
 
@@ -501,7 +501,7 @@ Source doctrinale attribuée : Jean Hugues Noël Robert, [*Du spectacle à la r�
 
 ### 4. Application au mécanisme des propositions corses
 
-Les travaux parlementaires mentionnés aux chapitres XII à XIV montrent pourquoi cette distinction est utile : les demandes transmises, les accusés de réception, les suites expresses, les évolutions normatives, les rapports et les décisions de publication constituent des **événements différents**, qui doivent être reliés sans être additionnés ni confondus.
+Les travaux parlementaires mentionnés aux chapitres XII et XIII montrent pourquoi cette distinction est utile : les demandes transmises, les accusés de réception, les suites expresses, les évolutions normatives, les rapports et les décisions de publication constituent des **événements différents**, qui doivent être reliés sans être additionnés ni confondus.
 
 Une grille de traçabilité du régime pourrait contenir les champs suivants. Elle constitue ici un **modèle explicatif** et non la description d'un registre public existant :
 
@@ -528,7 +528,7 @@ Cette application peut se résumer ainsi : **l'absence d'effet observable doit p
 
 Un lecteur ignorant totalement le Corpus doit pouvoir retrouver dans le présent chapitre : **le problème** (des droits ou des facultés sans suites visibles), **la notion** (traces d'actes et traces négatives), **la méthode** (relier compétence, demande, réception, examen, décision, effet et correction), **la précaution** (ni silence = faute, ni traçabilité = légitimité), **la portée de la proposition** (évaluation publique et périodique du régime), et **la source** (les documents doctrinaux identifiés ci-dessus). Les hyperliens permettent de vérifier et d'approfondir ; leur ouverture n'est pas nécessaire pour comprendre l'argument.
 
-## XVI. De la traçabilité à la correction : chaîne institutionnelle et tests de complétude
+## XV. De la traçabilité à la correction : chaîne institutionnelle et tests de complétude
 
 ### 1. L'obligation d'évaluer existe déjà : la difficulté porte sur ses suites
 
@@ -585,7 +585,7 @@ L'originalité recherchée n'est donc pas un **droit constitutionnel abstrait au
 
 Le présent chapitre expose sans prérequis la différence entre traçabilité, réponse, évaluation et correction ; il relie chacune à un mécanisme concret, à une source institutionnelle et à une objection. Les références internes servent à approfondir les fondements doctrinaux, non à fournir une définition indispensable absente du manuscrit. Avant revue, la consolidation éditoriale devra néanmoins vérifier l'ensemble des chapitres pour supprimer les répétitions, harmoniser la numérotation, vérifier les références exactes et réunir la bibliographie. L'autoportance locale de ce chapitre ne vaut donc pas certification de l'autoportance **globale** du texte.
 
-## XVII. « Prendre au mot » la Constitution : confrontations entre la lettre et les effets
+## XVI. « Prendre au mot » la Constitution : confrontations entre la lettre et les effets
 
 ### 1. Méthode : une lecture exigeante, non une citation à charge
 
