@@ -97,6 +97,26 @@ Le terme **effectivité** désigne ici la différence, à examiner concrètement
 
 La démarche comporte une exigence de modestie : **l'histoire n'est pas un tribunal où le présent distribuerait des notes au passé, ni une prison qui déterminerait tout l'avenir.** Elle ouvre un espace d'explication, d'objection et d'exploration. L'amendement corse en fournit une épreuve actuelle, non l'achèvement nécessaire de cette histoire.
 
+## Une République désirable : non pas décider de votre vie, mais rendre vos choix possibles
+
+Une société peut être bien administrée sans donner envie d'y vivre. Et une promesse généreuse peut donner envie d'y croire sans être crédible. Nous ne voulons sacrifier ni l'un ni l'autre : **ce qui est désirable doit devenir examinable ; ce qui est crédible doit rester humainement désirable.**
+
+Imaginons trois situations. Elles sont **fictives** : elles montrent ce qu'il faudrait vérifier, et non des résultats déjà obtenus.
+
+**Une personne souhaite exercer un droit.** Elle comprend ce qu'elle peut demander, à qui, dans quels délais et avec quel recours. Si sa démarche n'aboutit pas, elle peut distinguer un refus légal d'un obstacle matériel. Le progrès désirable n'est pas que toute demande soit accordée ; c'est de **ne pas être privé de choix par une procédure inaccessible ou opaque**. Pour rendre ce scénario crédible, il faudrait vérifier l'accessibilité réelle des démarches, les refus, leurs motifs lorsqu'ils sont exigibles, les coûts et les recours.
+
+**Une association imagine une solution locale.** Elle peut présenter une proposition sans devoir connaître personnellement ceux qui décident. Elle sait si celle-ci a été reçue, examinée et, éventuellement, refusée pour des raisons défendables. L'association conserve la liberté de contester ou de poursuivre autrement. Ce qui serait désirable, c'est une **initiative prise au sérieux**, non une promesse de victoire ni une obligation générale pour les pouvoirs publics d'adopter ses idées. Le test de crédibilité porterait sur le cheminement documenté des propositions, la compétence des décideurs et le coût du suivi.
+
+**Une collectivité reçoit une compétence nouvelle.** Elle peut réellement essayer une solution adaptée à son territoire, dans le respect des droits constitutionnels de tous. Mais la faculté peut rester inutilisée, favoriser certains groupes ou produire des dommages inattendus. La collectivité et les citoyens disposent alors de résultats publics suffisamment intelligibles pour en débattre et décider, le cas échéant, de corriger. Le souhaitable est une **capacité collective d'apprendre**, non une autonomie automatiquement bienfaisante. Le test serait une évaluation publique de l'accès, des non-usages, des effets distributifs et des coûts, avec distinction entre corrélation et causalité.
+
+Ces scènes ne prescrivent pas une vie bonne unique. Une personne peut préférer ne pas agir, une association peut perdre son débat, une collectivité peut renoncer à une réforme. **La liberté inclut la possibilité de refuser les possibilités offertes.** Une institution capable n'est donc pas celle qui obtient mécaniquement davantage d'actions, mais celle qui rend davantage de choix réellement accessibles, sans imposer un choix et sans dégrader les droits d'autrui.
+
+L'idée de **désirabilité** comporte ainsi son propre contradictoire : *désirable pour qui ? à quel prix ? au détriment de qui ? selon quelle preuve ?* La réponse peut être négative. Une évaluation coûteuse et capturée, une surcharge administrative, une inégalité territoriale nouvelle ou une atteinte à la vie privée rendraient l'instrument moins désirable, même si son intention est bonne.
+
+**Notre ambition est plus grande que le mécanisme juridique qui la sert.** La clause citoyenne v0.7 ne promet pas ces trois scènes et ne les inscrit pas dans la Constitution. Elle demande au législateur organique de prévoir des garanties d'effectivité et une évaluation publique et périodique du fonctionnement du régime d'habilitation et de ses effets. C'est une intervention légistique volontairement minimale ; sa portée propre demeure discutée. L'horizon de vies plus libres et plus capables appartient à la justification politique et à l'exploration rationnelle du possible, non à une conséquence juridiquement acquise.
+
+**Pour le lecteur spécialiste.** Les scènes précédentes sont des constructions pédagogiques contrefactuelles. Leurs résultats attendus seraient à tester par des données d'accès et de non-recours, une observation des décisions et de leurs suites, une analyse des effets distributifs et une mesure proportionnée des coûts. Elles ne permettent ni de déduire un droit subjectif nouveau de l'article 72-5 projeté, ni de confondre contrôle juridictionnel et appréciation démocratique des politiques. Les objections de redondance normative et de sous-détermination de la v0.7 restent visibles dans les chapitres V, VII et X, ainsi que dans le dossier de revue.
+
 ## I. Avant la devise : la Révolution cherche ses mots
 
 ### Trois principes ne font pas encore une devise
