@@ -10,7 +10,7 @@ document_role: source
 document_kind: legal-research-note
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/audit_effectivite_L4422_16_Vbis_2026-10-21.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "source-verification"
