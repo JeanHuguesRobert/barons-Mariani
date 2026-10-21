@@ -7,7 +7,7 @@ date: "2026-10-21"
 last_modified_at: "2026-10-21"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.1-research"
+version: "1.2-research"
 # Previous status: "working-draft — manuscrit enrichi ; non validé"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
@@ -411,6 +411,48 @@ Il faut établir un tableau probatoire pour le dossier sénatorial : décision d
 ### E. Portée doctrinale pour le manuscrit sur la devise
 
 Ce détour conventionnel éclaire la maxime selon laquelle une loi doit être confrontée à ses effets : l'effectivité est une notion déjà présente dans les garanties européennes, notamment dans le domaine du recours et des élections. Mais il faut distinguer la **garantie juridictionnelle d'un droit reconnu**, l'**efficacité d'une politique** et la **finalité constitutionnelle nouvelle proposée** pour la Corse. Ces trois plans se renforcent parfois sans se confondre. Notre amendement tente une institutionnalisation limitée de l'observation des effets du régime ; son éventuelle efficacité future et sa valeur juridique exacte demeurent à éprouver.
+
+## XII. L'échec documenté du mécanisme corse : un test empirique majeur de l'effectivité (21 octobre 2026)
+
+### 1. Le constat n'est pas seulement celui de l'auteur : c'est celui du rapporteur de l'Assemblée nationale
+
+Le **rapport n° 2865, déposé le 3 juin 2026 au nom de la commission des lois de l'Assemblée nationale par Florent Boudié**, consacre une sous-partie précisément intitulée *« L'inefficacité du mécanisme spécifique prévu à l'article L. 4422-16 du CGCT »*. Fondé sur un recensement de la Collectivité de Corse, ce document fait état de **57 saisines du Premier ministre depuis 1991**, dont **quatre suites favorables**, **trois rejets explicites** et **cinquante demandes sans réponse du Gouvernement**. Il situe ces demandes dans plusieurs domaines — foncier, fiscalité, langue, environnement, économie, santé et enseignement — et qualifie le dispositif existant d'inopérant et de source de frustrations. **Il ne faut ni présenter ces 57 saisines comme 57 demandes strictement identiques d'habilitation, ni confondre leur population avec les chiffres figurant dans d'autres inventaires.**
+
+Référence primaire : Assemblée nationale, **rapport n° 2865 du 3 juin 2026**, I.B.2.b, *L'inefficacité du mécanisme spécifique prévu à l'article L. 4422-16 du CGCT*, [texte officiel](https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2865.html). Le **16 juin 2026 en séance publique**, Florent Boudié a repris ces données et décrit l'absence de réponse et de motivation par l'exécutif ; son propos, qui participe aux travaux parlementaires, est distinct du décompte formel du rapport : [compte rendu officiel du 16 juin 2026](https://questions.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-mardi-16-juin-2026).
+
+L'enjeu n'est pas de constater que les propositions auraient dû être acceptées. La **décision du Conseil constitutionnel du 9 mai 1991**, mentionnée par le rapport, rappelle que le Gouvernement ne peut être contraint de donner suite à de telles propositions. Or **liberté de refuser et faculté de ne pas répondre ne sont pas juridiquement synonymes** ; les obligations de réception et de rapport ultérieurement instituées au CGCT doivent être examinées séparément de toute obligation d'approbation.
+
+### 2. Le contrôle de légalité de ce silence ne peut être écarté ni présumé
+
+L'article **L. 4422-16 V bis** comporte des prescriptions relatives à l'accusé de réception du Premier ministre et à un rapport public annuel sur les suites données aux propositions. L'article **L. 4422-17** assure une publicité au *Journal officiel* de certaines demandes, propositions et avis. Ces dispositions ne se confondent ni avec un délai général de réponse motivée ni avec l'obligation de modifier une loi ou un règlement. Pour chaque saisine, il faut donc comparer **date, fondement exact, autorité destinataire, publicité, accusé, éventuelle décision, rapport annuel et suite effective**. Une absence de réponse recensée dans le rapport parlementaire ne permet pas de conclure mécaniquement à cinquante infractions indépendantes au V bis : les obligations et leurs dates d'entrée en vigueur doivent être prises en compte.
+
+La question est cependant devenue une **question probatoire documentée et institutionnellement reconnue**, non une simple conjecture : pourquoi le dispositif de réception, de publicité et de bilan n'a-t-il pas permis, pendant plusieurs décennies, un circuit institutionnel capable de rendre intelligibles et discutables les suites données aux propositions ? La distinction entre traitement administratif, arbitrage politique, modification normative et effets sociaux doit être maintenue jusqu'au terme de l'enquête.
+
+### 3. La rapporteure du Sénat et les points de friction
+
+La sénatrice **Muriel Jourda** a été désignée rapporteure le **7 octobre 2026**. Dans [l'entretien recueilli le 15 octobre 2026 par Nicole Mari dans Corse Net Infos](https://app.corsenetinfos.corsica/fil-dactu/i/98394740/autonomie-la-presidente-de-la-commission-des-lois-du-senat-auditionne-les-elus-corses), elle expose son objectif d'écouter les élus, de recueillir des arguments et d'étudier la façon d'adapter les textes aux territoires dans le cadre républicain. L'article décrit ses **quatorze questions** adressées aux acteurs auditionnés et les interrogations relatives à la portée du pouvoir normatif, au renvoi à la loi organique, aux garanties de contrôle et à la consultation électorale. Les **points de friction** sont principalement rapportés par la journaliste ; ils ne doivent pas tous être transformés en citations directes de la sénatrice.
+
+Ces faits montrent que la rapporteure **interroge les mécanismes de capacité et de contrôle** et dispose d'un programme d'auditions. **Aucune déclaration directe vérifiée ne lui attribue ici le chiffre de 57 demandes, ni une approbation du présent amendement.** Sa réflexion sur la différenciation pourrait servir de contexte intellectuel à l'examen d'une clause d'effectivité, mais non de preuve d'un soutien personnel.
+
+### 4. L'argument constitutionnel désormais fondé sur une expérience négative
+
+Une clause d'effectivité n'est pas justifiée par la seule beauté de son principe : elle doit expliquer quelle **défaillance identifiable** elle chercherait à rendre plus difficile. Le cas documenté du CGCT révèle un écart durable entre **droit de saisir le Premier ministre**, **réponse observable** et **transformation normative**. La proposition d'article 72-5 v0.7 entend éviter que la future autonomie reconduise la même structure : celle d'un régime dont on pourrait évaluer les normes finalement adoptées, tout en laissant hors de l'évaluation les demandes qui n'ont jamais abouti à une habilitation et les raisons de cet échec.
+
+Le cœur de la différence normative peut être énoncé sans surpromesse :
+
+> **Le bilan des normes produites ne doit pas effacer les facultés que le fonctionnement du régime n'a pas permis d'exercer.**
+
+La version v0.7 propose deux obligations à inscrire dans la future loi organique : **garanties nécessaires d'accès et de mise en œuvre** et **évaluation publique, périodique du fonctionnement du régime et de ses effets**. Elle ne garantit pas, en revanche, un **délai individuel de réponse**, une motivation de tout refus, une habilitation obligatoire ni un mécanisme automatique de correction. La meilleure défense de sa portée est donc d'expliciter **le coût démontré des non-réponses** et **la valeur propre de l'observation des non-usages**, sans prétendre que le texte résout déjà toutes les difficultés opérationnelles.
+
+### 5. Hypothèses et contrôles à approfondir avant revue
+
+- **Inventaire des 57 saisines** : reconstituer une table primaire (année, délibération, objet, base légale, publication au JO, accusé, réponse expresse, résultat) ; retrouver les documents de la Collectivité à l'origine du recensement parlementaire.
+- **Chronologie normative** : distinguer le mécanisme issu de 1991 et les obligations de publicité, de réception et de bilan dans leurs rédactions successives, particulièrement depuis 2022.
+- **Rapports publics** : identifier les rapports annuels du V bis réellement produits ; ne pas assimiler leur absence dans une recherche à leur inexistence.
+- **Comparaison des régimes** : vérifier dans les statuts différenciés des outre-mer ce qui existe déjà en matière de traitement, habilitation, contrôle et bilan ; comparer les compétences à statut constitutionnel égal ou différent.
+- **Mesure des effets inverses** : documenter les coûts administratifs, délais, renoncements et effets différenciés des mécanismes de demande ; ne pas confondre absence de réponse, refus fondé, résultat négatif et violation juridique.
+
+La donnée parlementaire sur **cinquante absences de réponse** n'est donc ni une anecdote ni une condamnation juridictionnelle : elle constitue **un résultat empirique majeur pour une étude sur l'effectivité des garanties et la nécessité d'évaluer le fonctionnement de l'institution**, avec des limites probatoires clairement identifiées.
 
 ## Conclusion générale — une devise à éprouver
 
