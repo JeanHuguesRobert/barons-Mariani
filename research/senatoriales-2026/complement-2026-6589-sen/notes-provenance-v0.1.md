@@ -35,6 +35,8 @@ La passe suivante contrôle **18 objets natifs sélectionnés, rattachés à 12 
 
 La [notice P-13](parcours-video-p13-v0.1.md) donne désormais l'empreinte recalculée du MP4 et reproduit la transcription déjà présente dans la requête initiale. Sur précision du requérant le 21 octobre, elle consigne aussi la dictée préalable du texte par l'assistant. Cette notice avec transcription est proposée en **JOIN** dans le PDF consolidé, avec le MP4 natif distinct ; l'intégration matérielle et toute transmission restent à réaliser.
 
+La [reprise ciblée, section 8 du checkpoint](checkpoint-provenance-2026-10-21.md#8-targeted-primary-source-access-check-after-comment-6316431877) précise les blocages P-17, P-14/P-44 et P-20 après le nouveau commentaire de #131. Les trois noms de documents Library sont des pistes de textes dérivés, sans accès transféré à cette session ; les chemins `.filing-materials` sont des sorties projetées absentes de ce checkout. Les originaux attendus et le geste humain minimal sont détaillés dans ce tableau. Aucun nouvel original acquis, aucune nouvelle empreinte ni modification des états de remise ne sont revendiqués.
+
 ## Règle commune
 
 Pour chaque pièce : identifiant stable ; description minimale ; source primaire et date ; fait établi ; grief G1–G5 ; limite probatoire ; date de constitution versus date des faits ; chaîne de transmission (émis / reçu / versé / examiné, états distincts) ; éventuelle empreinte calculée sur le binaire natif ; restriction de diffusion ; mesure d'instruction utile.
