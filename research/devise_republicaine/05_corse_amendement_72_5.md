@@ -12,7 +12,7 @@ document_role: source
 document_kind: research-section
 visibility: public
 lifecycle_state: working
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/cpkt-136-devise-cadrage/research/devise_republicaine/05_corse_amendement_72_5.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/devise_republicaine/05_corse_amendement_72_5.md"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: repository
