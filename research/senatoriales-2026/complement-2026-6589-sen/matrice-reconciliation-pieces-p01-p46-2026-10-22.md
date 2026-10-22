@@ -31,7 +31,7 @@ Email : corps du mémoire maître en texte brut intégral + URL canonique du com
 | P-11 | « J'accuse réception des documents » | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
 | P-12 | Courriel complémentaire avec lien vidéo | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
 | P-13 | Vidéo commune | A | Oui — MP4 P-13, identité du fichier à vérifier | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
-| P-14 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | A | Oui — 2 PDF TA, empreintes du lot à vérifier | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
+| P-14 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | A | Oui — 2 PDF TA retrouvés dans Drive ; empreintes à vérifier avant tout transfert | Les copies contiennent déjà des messages P-46 : voir le relevé ci-dessous ; le maître n'a pas à les reproduire une seconde fois | Référencer chaque message par dossier, annexe et page ; contrôler les 41 autres messages et l'accessibilité effective au Conseil |
 | P-15 | Alerte avant audience | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
 | P-16 | Mémoire en défense | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
 | P-17 | Note manuscrite recto-verso | A | Non — original non individualisé dans le lot arrêté | MANQUE À VÉRIFIER — fac-similé et transcription non compilés | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
@@ -61,7 +61,7 @@ Email : corps du mémoire maître en texte brut intégral + URL canonique du com
 | P-43 | Correspondance contemporaine avec Laurence Vernerey | D | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Version minimisée et provenance privée |
 | P-44 | France Transfert — communication TA des requêtes 2601714 / 2601715 (2 courriels) | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
 | P-45 | Modalités de dépôt art. 34 — demandes et relances sans réponse substantielle retrouvée | A | Non — original non individualisé dans le lot arrêté | NON PROUVÉ — maître v0.4 synthétique / renvois | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
-| P-46 | Registre exhaustif des courriels Préfecture / TA | A | Non — original non individualisé dans le lot arrêté | MANQUE CERTAIN — recueil intégral de 46 messages non compilé | Vérifier reproduction fidèle/intégrale, ou désigner clairement la source conservée séparément |
+| P-46 | Registre exhaustif des courriels Préfecture / TA | A | Non — les originaux Gmail ne sont pas un fichier du lot TransfertPro ; une partie est déjà reproduite dans P-14 | PARTIEL — 5 messages sur 46 retrouvés dans les deux bundles P-14 ; les autres restent à rapprocher avant de conclure qu'ils manquent | Ne pas dupliquer les messages présents dans P-14 ; pour chaque autre message, décider RENVOI / JOINDRE / ANNEXE PROTÉGÉE / UNKNOWN selon l'acte et sa preuve de versement |
 
 ## Sous-pièces déclarées
 
@@ -72,15 +72,29 @@ Email : corps du mémoire maître en texte brut intégral + URL canonique du com
 - **P-45.c** — Consolidation générale avec la Sous-préfecture de Corte en copie : A selon bordereau ; source originale distincte **non démontrée dans le lot**, vérifier reproduction textuelle fidèle et confidentialité.
 - **P-45.d** — Relance structurée P1–P18 : A selon bordereau ; source originale distincte **non démontrée dans le lot**, vérifier reproduction textuelle fidèle et confidentialité.
 
-## P-46 : 46 courriels, écart explicite
+## P-46 : recoupement avec les saisines préfectorales
 
-Le bordereau promet pour P-46.01…P-46.46 une reproduction intégrale lisible, hors données privées/secrets. Le maître v0.4 n'en contient pas le recueil. **Ne pas annoncer une livraison intégrale sans vérifier l'incorporation effective de chaque message**, ses en-têtes utiles, corps, liste de pièces jointes et règles d'occultation. Contrôler les entrées nouvelles postérieures au périmètre historique sous des références distinctes, sans modifier rétroactivement P-46.
+La directive de continuation #133 du 22 octobre demande d'éviter de reproduire les pièces déjà présentes dans les saisines préfectorales. Les deux PDF P-14 ont été relus par extraction textuelle depuis Drive. Le bundle 2601715 comporte un inventaire de 16 pièces et reproduit les messages suivants ; le même contenu correspondant est retrouvé dans le bundle 2601714 :
+
+| Message P-46 | Présence vérifiée dans P-14 | Localisation dans le bundle 2601715 |
+|---|---|---|
+| P-46.01 — 10/09/2026 17:01 | Corps cité dans la chaîne du message P-46.02 ; présent dans les deux bundles | Pièce complémentaire 1, p. 11 |
+| P-46.02 — 10/09/2026 17:54 | Message reproduit ; présent dans les deux bundles | Pièce complémentaire 1, p. 10 |
+| P-46.03 — 10/09/2026 17:56 | Accusé automatique cité dans la chaîne du message P-46.06 ; présent dans les deux bundles | Pièce complémentaire 14, p. 98 |
+| P-46.04 — 10/09/2026 20:05 | Réponse préfectorale reproduite ; présente dans les deux bundles | Pièce complémentaire 10, p. 29 |
+| P-46.06 — 11/09/2026 14:14 | Message reproduit ; présent dans les deux bundles | Pièce complémentaire 14, p. 97 |
+
+Les numéros de page ci-dessus sont ceux du PDF 2601715 (98 pages) et les numéros de pièces sont ceux de son inventaire Télérecours. Le texte extrait du PDF 2601714 confirme les mêmes messages, mais ne conserve pas de délimitation page par page ; ses pages restent à relever visuellement avant de publier des renvois paginés pour ce dossier. La présence dans une copie P-14 communiquée par le TA établit que ces messages sont déjà accessibles dans cette copie ; elle ne prouve pas à elle seule ce que chaque membre de la formation a effectivement lu.
+
+**Conséquence d'assemblage :** ne pas reproduire P-46.01, .02, .03, .04 et .06 une seconde fois dans le mémoire consolidé. Les citer par les références P-14 ci-dessus. Leur valeur de chronologie demeure au registre de réconciliation, sans former un nouveau paquet de doublons.
+
+Le maître candidat contient l'index des 46 messages, mais pas leur recueil intégral. Pour les **41 autres messages**, les sources examinées ici ne suffisent pas à conclure qu'ils figurent ou ne figurent pas dans P-14 : les rapprocher individuellement des deux bundles et de leurs fils/annexes. Le choix final doit être RENVOI si présence, contenu et version sont vérifiés ; JOINDRE si l'acte probatoire n'est pas déjà au dossier ; ANNEXE PROTÉGÉE si sa nature l'impose ; UNKNOWN si la preuve de versement manque. Ne pas transformer « envoyé à la préfecture » en « soumis au TA ». Les entrées postérieures au périmètre historique seront identifiées séparément, sans modifier rétroactivement P-46.
 
 ## Résultats provisoires
 
 - 44 pièces/ensembles principaux ; A=32, B=3, C=8, D=1.
 - Preuve binaire sous forme native prévue dans TransfertPro : P-13 et P-14 seulement ; ce n'est pas la preuve que les 42 autres références sont matériellement fournies.
-- FAIL : QPC intégrales non compilées dans le maître v0.4 ; contrat email/TransfertPro obsolète ; P-46 intégral non compilé.
+- FAIL : QPC intégrales non compilées dans le maître v0.4 ; contrat email/TransfertPro obsolète ; rapprochement des 41 autres messages P-46 et compilation cohérente non achevés.
 - UNKNOWN : présence et fidélité de chaque autre pièce dans le rendu PDF consolidé non créé ; vérification finale des binaires, URL du commit et réceptions.
 - Principe : **A (noyau intégré)** doit déboucher soit sur une reproduction fidèle réellement présente dans texte + PDF, soit sur une qualification d'original communiqué par fichier distinct, soit sur une lacune déclarée. Les catégories B, C, D ne doivent pas être présentées comme livrées intégralement par défaut.
 
@@ -93,7 +107,7 @@ Le bordereau promet pour P-46.01…P-46.46 une reproduction intégrale lisible, 
 ## Prochaines actions #133 → #131 → #134
 
 1. Assembler une version réelle du maître avec QPC intégrales et notices validées, pas un gabarit avec instructions techniques.
-2. Construire le recueil P-46 à partir des sources originales minimisées en Drive, vérifier les 46 entrées par identifiant ; documenter explicitement les autres pièces A.
+2. Achever le rapprochement P-46/P-14 pour les 41 messages restants ; conserver les cinq messages déjà reproduits comme références croisées, sans les recopier ; documenter explicitement les autres pièces A.
 3. Réviser l'introduction et le bordereau final : ne jamais appeler « pièce jointe » un document simplement cité ou disponible sur demande.
 4. Générer TXT et PDF depuis le même commit gelé ; compter les sections et vérifier le texte des QPC et les références des annexes.
 5. Rejouer les contrôles et publier PASS/FAIL/UNKNOWN ; aucune émission avant accord distinct.

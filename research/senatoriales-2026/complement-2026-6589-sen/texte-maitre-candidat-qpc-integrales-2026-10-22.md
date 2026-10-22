@@ -575,6 +575,12 @@ Cette notice **n'altère ni la requête initiale ni la liste historique de pièc
 - **P-45** : relances et demandes complémentaires auprès des autorités.
 - **P-46** : registre transversal des échanges préfecture / tribunal administratif, qualifié d'« exhaustif » dans la requête initiale ; son périmètre historique devait être distingué de l'exhaustivité de toute communication ultérieure.
 
+### Pièces P-46 déjà reproduites dans les saisines préfectorales P-14
+
+Le contrôle textuel des deux copies PDF communiquées par le TA (dossiers 2601714 et 2601715) retrouve déjà cinq messages du registre P-46 : **P-46.01** et **P-46.02** dans la pièce complémentaire 1 ; **P-46.04** dans la pièce complémentaire 10 ; **P-46.03** et **P-46.06** dans la pièce complémentaire 14. Dans le bundle 2601715, ces passages se trouvent respectivement aux pages 11, 10, 29, 98 et 97. Les messages .01 et .03 y figurent dans les chaînes citées des messages .02 et .06. La copie 2601714 contient le même texte, mais son extraction disponible ne permet pas de localiser fiablement les pages.
+
+Ces cinq messages ne doivent pas être reproduits une seconde fois dans le maître : ils sont déjà accessibles dans les pièces P-14 communiquées au TA. Ce constat ne vaut pas pour les **41 autres messages P-46**, qui doivent être rapprochés individuellement des deux bundles et de leurs annexes. Il ne démontre pas non plus que la formation de jugement a effectivement lu chaque pièce du dossier.
+
 Le rattachement d'une **pièce documentaire nouvelle** à une référence déjà citée constitue une **notice de provenance et de contrôle complémentaire**. Il ne faut **pas** soutenir que cette pièce était jointe, versée ou connue du greffe à la date du dépôt initial si aucune trace ne l'établit. La recevabilité et la possibilité de production complémentaire relèvent d'une analyse procédurale distincte ; le rattachement documentaire, à lui seul, ne confère pas de recevabilité juridique automatique.
 
 ## 2. Question factuelle unique, décomposée en trois états
