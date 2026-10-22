@@ -473,19 +473,15 @@ Une personne ne s'intéresse pas nécessairement au nombre de rapports produits.
 
 Mais la transparence peut elle aussi devenir un théâtre : des chiffres flatteurs, des formulaires supplémentaires, une expertise réservée aux mieux dotés. Une bonne évaluation doit donc être proportionnée, contradictoire et susceptible de reconnaître ses propres limites. **Plus de mesure ne signifie pas mécaniquement plus de liberté.**
 
-### Pour approfondir — état de l'art, gain marginal et tests de robustesse
+### Les preuves, les objections et les scénarios comparatifs
 
-Les développements techniques suivants conservent les références OCDE et Commission de Venise, la comparaison des objets évalués, les hypothèses d'omission organique, les trois objections majeures et leurs limites probatoires. Les scénarios sont des **tests contrefactuels déjà étudiés**, et non des invitations à rouvrir sans motif l'arbitrage sur la v0.7.
-
-### Analyse critique et sources — chapitre X
-
-### 1. L'exigence d'effectivité appartient déjà au droit et aux sciences de l'action publique
+#### Tradition de recherche et distinctions juridiques
 
 Le vocabulaire de l'« effectivité » n'est ni une nouveauté de 2026 ni une notion doctrinale propre à cette recherche. Le problème de la distance entre règle écrite, conduite des institutions et expérience des destinataires traverse la théorie du droit, la sociologie juridique, les études de mise en œuvre et l'évaluation des politiques publiques. Une proposition originale ne saurait donc consister à remarquer cette distance. Elle devrait plutôt **articuler, dans un régime institutionnel défini, une obligation de garanties et une obligation publique d'évaluer les conditions réelles d'accès et les effets**, au-delà de la seule évaluation des normes produites.
 
 La comparaison exige de ne pas confondre deux corpus : le **contrôle juridique**, dans lequel un juge qualifie un manquement à une norme opposable, et l'**évaluation empirique**, dans laquelle une enquête cherche les effets, les causalités et les conséquences inattendues d'une politique. La publicité et la périodicité de l'évaluation améliorent la possibilité de discussion et de correction ; elles ne rendent pas automatiquement chaque résultat justiciable.
 
-### 2. Référentiel international : les standards existent, mais ne sont pas automatiquement contraignants
+#### Référentiel international : les standards existent, mais ne sont pas automatiquement contraignants
 
 L'[OCDE, *Regulatory Policy Outlook 2025*, chapitre « Regulating for effectiveness »](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/regulating-for-effectiveness_e4e30799.html), distingue la conception ex ante, l'exécution administrative et l'évaluation ex post des normes. Cette dernière compare notamment les objectifs initiaux aux conséquences réelles, aux coûts de mise en œuvre et aux effets imprévus. Le chapitre souligne que la planification systématique de l'évaluation demeure incomplète dans plusieurs États. Cette comparaison est **une recommandation de bonne régulation**, non une source directe de contrôle de constitutionnalité français.
 
@@ -493,7 +489,7 @@ Le [profil français de l'OCDE pour 2025](https://www.oecd.org/en/publications/o
 
 La [Commission de Venise, *Updated Rule of Law Checklist* (adoptée en décembre 2025)](https://www.coe.int/en/web/venice-commission/rule-of-law-checklist), fournit un référentiel de l'État de droit intégrant légalité, sécurité juridique, prévention de l'abus de pouvoir, égalité, accès à la justice, contrôle constitutionnel et équilibre des pouvoirs. Sa valeur tient à des **questions vérifiables sur les institutions réelles** ; elle n'érige pas la méthode des terrains féconds ou la formulation de la v0.7 en exigence positive applicable à la France. Cette actualisation a notamment intégré les enjeux liés aux technologies numériques et aux pouvoirs privés.
 
-### 3. Où se situe le gain normatif revendiqué ?
+#### Où se situe le gain normatif revendiqué ?
 
 La question centrale est celle de la **différence marginale** entre le texte transmis au Sénat et le même texte complété par l'amendement citoyen. Le texte de référence prévoit déjà des mécanismes de contrôle et d'évaluation des **normes adoptées**. La proposition v0.7 vise deux objets qui ne sont pas identiques :
 
@@ -502,7 +498,7 @@ La question centrale est celle de la **différence marginale** entre le texte tr
 
 Cette différence est conceptuellement **non redondante** : l'évaluation des produits d'un régime et l'évaluation de son fonctionnement ne portent pas sur la même population de faits. Elle peut cependant être **juridiquement moins nette** si le législateur organique ou les organes compétents interprètent déjà les clauses d'évaluation existantes très largement. Pour établir une portée nouvelle, il faudrait alors montrer qu'une loi organique omettant toute étude du fonctionnement serait plus difficile à défendre au regard d'une Constitution comportant la v0.7.
 
-### 4. Test de robustesse par omissions hypothétiques
+#### Test de robustesse par omissions hypothétiques
 
 | Hypothèse de loi organique | Sans v0.7 | Avec v0.7 | Nature du gain envisagé |
 | --- | --- | --- | --- |
@@ -514,7 +510,7 @@ Cette différence est conceptuellement **non redondante** : l'évaluation des pr
 
 Ce tableau est une **analyse contrefactuelle**, non une prédiction de jurisprudence. Il identifie le gain textuel le plus défendable : **étendre l'obligation au fonctionnement d'un régime y compris lorsqu'il ne produit pas de normes, et rendre cette observation publique et régulière**. Il ne faut pas promettre l'adoption automatique de lois, l'habilitation sur demande, un délai contraignant non écrit ou une sanction juridictionnelle certaine.
 
-### 5. Trois objections qui doivent demeurer dans le corps du raisonnement
+#### Trois objections qui doivent demeurer dans le corps du raisonnement
 
 **Objection de redondance.** Les principes constitutionnels actuels, les recours et les évaluations existantes pourraient déjà produire des garanties satisfaisantes. **Réponse à éprouver :** documenter les situations que l'évaluation des seules normes adoptées ne peut observer ; établir si la future loi organique serait tenue de les traiter même sans nouvelle clause.
 
@@ -522,13 +518,13 @@ Ce tableau est une **analyse contrefactuelle**, non une prédiction de jurisprud
 
 **Objection d'inflation constitutionnelle.** Des détails d'évaluation pourraient relever de la loi organique plutôt que du texte constitutionnel. **Réponse proposée :** précisément parce que le constituant n'a pas à décrire le protocole d'enquête, la clause fixe des **finalités et des objets obligatoires** tandis que la loi organique choisit les techniques, la périodicité exacte, les acteurs et les garanties opérationnelles.
 
-### 6. La doctrine peut formuler une proposition, sans masquer les limites de la preuve
+#### La doctrine peut formuler une proposition, sans masquer les limites de la preuve
 
 La thèse académique désormais explicite est la suivante : **dans un système où l'on contrôle plus facilement les actes adoptés que les capacités jamais exercées, une clause constitutionnelle orientée vers le fonctionnement du régime rend concevable une obligation de connaissance des effets et des empêchements**. Si elle était adoptée, cette obligation pourrait enrichir le contrôle de complétude de la loi organique et améliorer l'information publique, sans imposer au juge une compétence générale d'optimisation des politiques.
 
 La thèse doit néanmoins être qualifiée comme **argument de doctrine en faveur d'un ajout**, et non comme conclusion déjà consacrée par le juge. La prochaine vérification documentaire utile consiste à comparer mot à mot toutes les prescriptions d'évaluation du projet de loi constitutionnelle, de l'article L. 4422-16 et L. 4422-17 du CGCT, puis les dispositions organiques applicables aux autres collectivités dotées de compétences normatives différenciées. Il faudra établir où l'évaluation **du régime** apparaît déjà et où elle est absente.
 
-### Références de l'état de l'art
+#### Sources et pistes documentaires
 
 - OCDE, *Regulatory Policy Outlook 2025*, chap. 5, « Regulating for effectiveness », 9 avril 2025, [texte intégral](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/regulating-for-effectiveness_e4e30799.html).
 - OCDE, *Regulatory Policy Outlook 2025*, fiche France, 9 avril 2025, [texte intégral](https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2025_56b60e39-en/full-report/france_2b130ad5.html).
