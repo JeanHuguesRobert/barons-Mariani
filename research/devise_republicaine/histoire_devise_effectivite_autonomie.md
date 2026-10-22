@@ -4,10 +4,10 @@ subtitle: "De la Révolution française à la proposition d'amendement Baron Mar
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-last_modified_at: "2026-10-21"
+last_modified_at: "2026-10-22"
 license: "CC BY-SA 4.0"
 language: fr
-version: "1.12-internal-review"
+version: "1.13-stabilization"
 status: "working-paper"
 description: "Étude historique et juridique autoporteuse de la devise républicaine ; distinction entre histoire, droit positif, proposition doctrinale d'effectivité et amendement constitutionnel candidat."
 document_role: source
@@ -688,6 +688,34 @@ La proposition relative à la Corse illustre une traduction légistique possible
 24. Jean Hugues Noël Robert, [*Traçabilité des actes*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/traceabilite_des_actes.md), [*Du spectacle à la régie : Stabilisateur procédural*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/debord_stabilisateur_procedural.md), [*Amendement d'effectivité à l'article 72-5, version 0.7*](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md). Ces documents présentent les **propositions de l'auteur** et non des autorités constitutionnelles.
 
 **Contrôles bibliographiques complémentaires du 21 octobre 2026.** L'édition des *Archives parlementaires* sur Persée confirme l'intitulé « Discours non prononcé » et les pages 238–250 ; le texte de la Constitution du 4 novembre 1848 reproduit par l'Élysée confirme le préambule IV (devise), le préambule VIII (obligations de la République) et l'article 6 (interdiction de l'esclavage). Paris Musées attribue la datation **1878** à la médaille intitulée « Fête de la réconciliation, 14 juillet 1880 » : il ne s'agit pas d'une preuve d'un acte administratif général pris en 1880. Les sites du Conseil d'État confirment l'existence et les dates des études *Le droit souple* (2013) et *Simplification et qualité du droit* (2016). La Commission de Venise atteste une liste de contrôle sur l'État de droit initiale de 2016, **actualisée en décembre 2025**, approuvée en mai 2026 par deux organes du Conseil de l'Europe ; il faut citer son statut d'outil méthodologique, non d'autorité normative française contraignante. Les sources doivent rester distinguées selon leurs statuts (texte historique, notice de collection, recommandation, disposition en vigueur).
+
+## Stabilisation ciblée — 22 octobre 2026
+
+Cette section consigne les arbitrages de portée et les objections de la revue contradictoire conservée dans [#142](https://github.com/JeanHuguesRobert/barons-Mariani/issues/142). Elle ne remplace pas les démonstrations des chapitres précédents.
+
+### Faits, droit et thèse : distinctions non négociables
+
+- **Origines** : la triade a une histoire discontinue. La mention secondaire d'une généralisation des inscriptions vers 1880 ne démontre **aucun décret général identifié** : il faut un acte d'époque avant une attribution réglementaire.
+- **Droit** : l'article 2 de la Constitution énonce la devise. La [décision 2018-717/718 QPC, paragraphes 7 à 10](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018) reconnaît la valeur constitutionnelle de la fraternité et la liberté d'aider autrui dans un but humanitaire, conciliée avec la sauvegarde de l'ordre public. Elle ne prescrit **pas** une garantie générale de résultat de toutes les politiques publiques.
+- **Statistiques** : les 72 demandes et 13 évolutions normatives discutées au Sénat en mars 2025 et les 57 saisines, quatre suites favorables, trois rejets explicites et cinquante silences recensés dans le rapport AN n°2865 ne constituent **pas** deux populations prouvées équivalentes.
+- **Doctrine** : l'effectivité et la traçabilité sont des grilles de proposition et d'observation, pas des principes juridiques déjà automatiquement applicables à toute situation.
+- **Amendement** : le texte citoyen v0.7 demeure **inchangé**, selon l'arbitrage explicite de l'auteur. Publication, envoi, réception, reprise parlementaire, dépôt et adoption sont des états distincts.
+
+### Désaccords contradictoires préservés
+
+1. **I-1 : gain marginal — objection structurante ouverte.** Les obligations préexistantes de publicité et d'évaluation exigent de démontrer ce qu'apporterait juridiquement une obligation constitutionnelle visant le fonctionnement du régime, y compris demandes, obstacles et non-usages.
+2. **I-2 : sous-détermination — désaccord ouvert.** Le Reviewer externe considère l'absence de critères précis comme une objection structurante ; le Redactor propose de la borner. Aucune de ces positions ne doit être représentée comme définitivement tranchée.
+3. **Capture, coût et ritualisation** : l'évaluation peut produire des indicateurs sans améliorer les capacités réelles. Le coût administratif et le risque de capture doivent être considérés dans la loi organique et les mécanismes de contrôle.
+4. **Test falsifiable** : si, après hypothétique adoption de v0.7, une évaluation périodique des seules normes produites pouvait encore ignorer demandes, refus, délais, silences et effets sur les personnes, le gain revendiqué ne serait pas établi.
+5. **Portée du contrôle** : une revue critique par un autre modèle, même conservée intégralement, ne constitue pas une validation académique ou une évaluation indépendante institutionnelle.
+
+### Gel et travaux restant ouverts
+
+L'analyse du Sénat du 21 octobre 2026 ne sera incorporée aux assertions juridiques qu'après contrôle des amendements et du rapport officiels. Restent à vérifier : fac-similés des épisodes historiques, fondement primaire des inscriptions de 1880, liens et paragraphes de jurisprudence européenne, concordance des références bibliographiques, données primaires d'habilitation, validateur de métadonnées, et revue contradictoire sur une version figée.
+
+**Statut : version de travail stabilisée sur ses distinctions essentielles, non article scientifique validé.**
+
+---
 
 ## Revue interne de recevabilité scientifique — contrôle pré-draft du 21 octobre 2026
 
