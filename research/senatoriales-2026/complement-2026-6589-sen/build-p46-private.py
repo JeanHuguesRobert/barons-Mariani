@@ -33,7 +33,7 @@ def first_plain(msg):
     return msg.get_content()
 
 def build(directory: Path, destinations: Path, substitutions: list[str]) -> None:
-    destinations.parent.mkdir(parents=True, exist_ok=True)
+    validate_private_output(destinations)
     items = []
     for n in range(1, 47):
         path = directory / f"P-46.{n:02}.eml"
@@ -53,12 +53,22 @@ def build(directory: Path, destinations: Path, substitutions: list[str]) -> None
                 "\n" + text + "\n")
         items.append(redact(item, substitutions))
     joined = "\n" + ("=" * 68) + "\n"
-    # Refuse public-output defaults; caller must choose PRIVATE output path.
-    destinations.write_text(
-        "RECUEIL PRIVÉ EN COURS DE RELECTURE — NE PAS TRANSMETTRE NI PUBLIER\n"
-        "Occultation automatique provisoire ; contrôle humain nécessaire.\n\n"
-        + joined.join(items), encoding="utf-8")
+    # Do not create output directories until every required source has parsed.
+    destinations.parent.mkdir(parents=True, exist_ok=True)
+    # Exclusive creation prevents an accidental overwrite of an earlier bundle.
+    with destinations.open("x", encoding="utf-8", newline="\n") as output:
+        output.write(
+            "RECUEIL PRIVÉ EN COURS DE RELECTURE — NE PAS TRANSMETTRE NI PUBLIER\n"
+            "Occultation automatique provisoire ; contrôle humain nécessaire.\n\n"
+            + joined.join(items))
     print("46/46 EML parsed; private draft produced; NOT validated for disclosure")
+
+def validate_private_output(destination: Path) -> None:
+    """Reject output paths inside this repository, including resolved symlinks."""
+    repo_root = Path(__file__).resolve().parents[3]
+    target = destination.resolve()
+    if target == repo_root or repo_root in target.parents:
+        raise SystemExit("Refusing output inside the public source repository")
 
 def main():
     ap = argparse.ArgumentParser()
@@ -67,8 +77,6 @@ def main():
     ap.add_argument("--redact-literal", action="append", default=[],
                     help="Literal private identifier to redact, no value stored in source")
     args = ap.parse_args()
-    if any(part in {"repos", "github", ".git"} for part in args.private_output.parts):
-        raise SystemExit("Refusing destination inside a repository-oriented path")
     build(args.eml_dir, args.private_output, args.redact_literal)
 
 if __name__ == "__main__":

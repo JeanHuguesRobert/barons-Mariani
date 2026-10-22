@@ -42,10 +42,33 @@ class PrivateBundleTests(unittest.TestCase):
 
     def test_missing_input_fails_closed(self):
         (self.sources / "P-46.32.eml").unlink()
-        output = self.root / "private-draft.txt"
+        output = self.root / "not-created" / "private-draft.txt"
         with self.assertRaises(FileNotFoundError):
             p46.build(self.sources, output, [])
         self.assertFalse(output.exists())
+        self.assertFalse(output.parent.exists())
+
+    def test_html_only_message_fails_closed(self):
+        m = EmailMessage()
+        m["Subject"] = "HTML only"
+        m.set_content("<p>Text</p>", subtype="html")
+        (self.sources / "P-46.01.eml").write_bytes(m.as_bytes())
+        output = self.root / "private-draft.txt"
+        with self.assertRaisesRegex(ValueError, "No text/plain body"):
+            p46.build(self.sources, output, [])
+        self.assertFalse(output.exists())
+
+    def test_destination_inside_repository_is_rejected(self):
+        repository = MODULE.resolve().parents[3]
+        with self.assertRaises(SystemExit):
+            p46.validate_private_output(repository / "private-p46.txt")
+
+    def test_existing_output_is_not_overwritten(self):
+        output = self.root / "private-draft.txt"
+        output.write_text("preserve this", encoding="utf-8")
+        with self.assertRaises(FileExistsError):
+            p46.build(self.sources, output, [])
+        self.assertEqual(output.read_text(encoding="utf-8"), "preserve this")
 
 if __name__ == "__main__":
     unittest.main()
