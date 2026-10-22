@@ -263,7 +263,43 @@ Le projet d'article 72-5 donne un objet précis à cet examen : quelles voies so
 
 **Pour approfondir.** [Décision du Conseil constitutionnel du 6 juillet 2018, paragraphes 7–10](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018) ; chapitres XIV à XVI pour les notions de traçabilité, de correction et de *Stabilisateur procédural*. Le coût, le risque de capture de l'évaluation et la séparation entre politique publique et contrôle juridictionnel sont des objections ouvertes, non des difficultés déjà résolues par la phrase v0.7.
 
-## VII. Consolider la République par un terrain fécond : cadre théorique, droit et conditions d'épreuve
+## VII. Et si l'autonomie pouvait consolider la République ?
+
+### Une question plus féconde que « pour ou contre »
+
+Deux personnes discutent de l'autonomie de la Corse. La première craint qu'elle éloigne les citoyens des garanties communes de la République. La seconde estime qu'une décision prise plus près de ceux qu'elle concerne peut accroître leur liberté d'agir. Le désaccord est réel. Mais **chacune peut avoir raison sur un risque sans avoir raison sur toutes les conséquences possibles**.
+
+L'unité de la République exige-t-elle que toute décision soit identique partout ? Non : la Constitution affirme aussi son organisation décentralisée. L'autonomie garantit-elle, en sens inverse, que chacun sera plus libre ? Non plus : un pouvoir local peut rester inaccessible à certains habitants ou être capté par des intérêts déjà influents.
+
+Nous pouvons donc poser une question commune : **comment organiser des pouvoirs différents sans diminuer les droits communs, et comment savoir s'ils donnent réellement davantage de prise aux personnes concernées ?** Ce changement de question est ce que nous appelons un *terrain fécond*. Il ne gomme pas les désaccords. Il les rend examinables, au lieu de les enfermer dans deux slogans qui se répondent.
+
+### Ce que nous pourrions souhaiter — et ce qu'il faut éprouver
+
+Une autonomie désirable ne serait pas simplement une liste de compétences supplémentaires. Elle offrirait à des habitants et à des institutions la possibilité de choisir, d'essayer, de comprendre les refus et de corriger des résultats inattendus. Mais un pouvoir nouveau pourrait aussi accroître les inégalités, peser davantage sur les petites associations ou produire une norme peu utilisée.
+
+Il faut donc garder plusieurs questions ensemble. **Liberté :** quelles actions sont réellement accessibles ? **Égalité :** qui rencontre les obstacles et pour quelle raison ? **Fraternité :** l'entraide permet-elle d'agir sans imposer une dépendance ? **Institutions :** les demandes peuvent-elles être présentées et suivies ? **Effets :** les changements aident-ils réellement, et à quel coût ? **Correction :** que se passe-t-il lorsque les résultats déçoivent ?
+
+Ce ne sont pas six obligations déjà écrites dans le projet constitutionnel. Ce sont six angles d'enquête. Ne pas agir peut être un choix libre ; une différence de situation ne constitue pas nécessairement une discrimination ; une mesure d'entraide peut produire une dépendance ; un refus d'habilitation peut être juridiquement fondé. Ces possibilités doivent faire partie de l'examen, et non être dissimulées pour rendre la proposition plus séduisante.
+
+### Une modification très petite, une ambition plus grande
+
+L'amendement citoyen v0.7 propose une obligation adressée à la future loi organique : définir des garanties d'effectivité pour l'accès aux habilitations et leur mise en œuvre, et prévoir une évaluation publique et périodique **du fonctionnement du régime et de ses effets**. Il ne promet ni que toute habilitation sera accordée, ni que toute innovation sera heureuse, ni que le juge décidera à la place des institutions élues.
+
+Cette modestie est voulue. Nous ne cherchons pas à rédiger une administration entière dans la Constitution. Nous proposons que certaines questions — l'accès aux facultés reconnues et l'examen public de leur fonctionnement — ne puissent être simplement oubliées au stade organique.
+
+Une objection sérieuse demeure : les institutions disposent déjà de contrôles et d'évaluations. La clause ajoute-t-elle vraiment une obligation nouvelle ? Une autre est la précision du texte : le renvoi à la loi organique laisse-t-il trop de latitude ? Ces critiques ne sont pas des détails à masquer. Elles conditionnent la crédibilité de l'ensemble.
+
+### Ne pas confondre possible, souhaitable et prouvé
+
+L'histoire nous apprend que les formes institutionnelles changent. Elle ne démontre pas que la réforme particulière que nous proposons réussira. Nous pouvons comparer plusieurs évolutions, y compris le maintien du droit existant, sans transformer un scénario imaginé en prévision. **L'anti-présentisme ouvre l'enquête ; il n'en dispense pas.**
+
+Nous avons ici deux ambitions liées mais distinctes : celle d'une République où davantage de personnes peuvent effectivement agir, et celle d'un droit assez précis pour que les institutions puissent rendre compte de ce qu'elles ouvrent et de ce qu'elles empêchent. Leur lien est à défendre, pas à présumer.
+
+### Seconde lecture — démonstration, critères et objections
+
+Le développement qui suit conserve le cadre doctrinal, les références comparatives, la matrice d'observation, les scénarios de contrôle et les objections de la version de recherche. Il permet de contester précisément les propositions du récit qui précède.
+
+### Dossier technique du chapitre VII
 
 ### 1. Dépasser une alternative mal posée
 
@@ -354,7 +390,33 @@ Les pièces essentielles sont : la [notice historique de l'Élysée](https://www
 
 La **règle de preuve** de toute l'étude en découle : identifier le texte, sa date, sa nature, sa portée et les limites de ce que l'on peut conclure. Cela vaut aussi pour les propositions contemporaines : une promesse politique, une modification constitutionnelle projetée, une loi organique future et un effet constaté ne peuvent pas être tenus pour équivalents.
 
-## IX. La loi à l'épreuve de ses effets : l'exigence constitutionnelle de garantie
+## IX. Une loi existe : qu'est-ce qui garantit qu'elle protège ?
+
+### Le texte et ce qu'il rend possible
+
+Une République peut voter des lois, afficher des principes et publier des décisions. Pourtant, une personne peut rester incapable d'accéder au droit annoncé. Cela suffit à poser une question politique importante, mais **pas** à établir automatiquement que la loi est invalide ou que quelqu'un a commis une faute.
+
+La Déclaration de 1789 propose un point de départ remarquable. Son préambule invite à comparer les actes du pouvoir au but des institutions. Son **article 16** affirme : « Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de constitution. » Ici, le mot décisif est **garantie** : les droits ne sont pas seulement des phrases. Mais cet article ne permet pas de conclure qu'un échec administratif particulier ferait disparaître juridiquement la Constitution française.
+
+### Quatre questions au lieu d'un seul verdict
+
+Une loi peut être **valide** parce qu'elle respecte les règles de son adoption et les normes supérieures. Elle peut être **effective** si les procédures et obligations qu'elle institue sont réellement mises en œuvre. Elle peut être **efficace** si elle atteint ses objectifs. Elle peut enfin respecter, ou violer, **des garanties juridiques** dont le contrôle relève d'institutions compétentes.
+
+Ces appréciations se croisent sans se confondre. Une mesure peut être appliquée partout et produire des effets inverses à ceux qui étaient recherchés. Un dispositif peu utilisé peut être inutile, inaccessible ou simplement laissé de côté librement. L'enquête doit départager ces explications.
+
+### La force et la limite de notre proposition
+
+L'expression « une loi ne vaut que par ses effets » formule notre exigence d'examen du réel. Elle **ne signifie pas** qu'une loi inefficace perd automatiquement sa validité. Nous cherchons plutôt à empêcher qu'une institution tienne la promulgation pour une preuve suffisante de réussite.
+
+Pour le futur régime d'habilitation de la Corse, la proposition v0.7 demande que la loi organique aborde explicitement les garanties d'accès et de mise en œuvre, ainsi que l'évaluation publique périodique de l'ensemble du régime. Elle ne crée pas directement un droit subjectif à obtenir une habilitation, ni un pouvoir général du juge de corriger toute politique décevante.
+
+Le bénéfice recherché est compréhensible : **si un droit existe, nous devrions pouvoir savoir dans quelles conditions il est accessible, pourquoi il n'est pas utilisé, et ce qui résulte de son exercice**. Reste à démontrer la valeur juridique supplémentaire de cette obligation face aux dispositifs existants. Cette réserve est essentielle, non une formule de politesse.
+
+### Seconde lecture — fondement constitutionnel et examen des cas d'échec
+
+La discussion technique suivante préserve le texte de l'article 16, la distinction des trois types d'échec, les limites de la maxime doctrinale et le pont argumenté — non automatique — vers l'article 72-5 projeté.
+
+### Dossier technique du chapitre IX
 
 ### 1. Revenir au texte de 1789, sans lui faire dire davantage
 
