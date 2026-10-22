@@ -33,22 +33,22 @@ review:
 | Source | Contenu indispensable à conserver | Destination | État |
 |---|---|---|---|
 | Ouverture | Distinctions histoire/droit/doctrine ; données 72/13 et 57/4/3/50 ; proposition v0.7 ; objections et limites | Nouvelle ouverture et orientation ; chiffres conservés XII | PARTIAL : vérification des renvois finaux |
-| I | 1789 ≠ devise ; Robespierre discours non prononcé ; alternatives 1793 ; exclusions ; absence de téléologie | I, narration + preuve de 1790 | PASS ciblé ; détails archivistiques à contrôler |
-| II | 1848 préambule IV, décret abolition, délai colonial ; médaille 1878 titre 1880 ; témoignages 1892/1904 ; PPL 2006 ; absence preuve décret | II, reconstruction chronologique et sources | PASS ciblé ; interprétation précise 1904 à contrôler |
-| III | ordonnance 1944, article 2 en 1946/1958 ; 1971/1973 ; fraternité QPC 2018 limitée | III, gradation juridique explicite | PASS ciblé |
-| IV | validité/effectivité/efficacité/efficience/impact ; droits non utilisés librement ; trois valeurs en tension ; Sen/Nussbaum | IV, récit des deux personnes + distinctions | PASS ciblé ; pas de priorité doctrinale revendiquée |
-| V | texte constitutionnel 72-5 ; citation intégrale v0.7 ; gain régime/normes ; limites ; CGCT ; non dépôt | V, question commune puis texte intégral | PASS ciblé ; clause inchangée |
-| VI | non-recours ; égalité réelle ; fraternité non paternaliste ; traces négatives ; Debord ; évaluation révisable ; exemple citoyen | VI, questions ordinaires + critiques et sources | PASS ciblé ; réserve jugement/évaluation maintenue |
-| VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
-| VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII, narration + six niveaux de preuve, 1790/1793/1848/1880/1946–58/2018, trois erreurs et sources | PASS ciblé ; collation exhaustive à finaliser (commit 1d0c86b) |
-| IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX v2.2 : chapitre narratif et juridique fusionné ; six sections et tableau des quatre notions | PASS ciblé des invariants, collation exhaustive et vérification juridique externe PENDING |
-| X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
-| XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
-| XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII : première lecture civique et dossier technique préservé | PARTIAL — fusion et audit bidirectionnel non achevés |
-| XIII | rapport sénatorial non publié, débats divergents, non-imputation d'intention | XIII : première lecture civique et dossier technique préservé | PARTIAL — fusion et audit bidirectionnel non achevés |
-| XIV | Traçabilité des actes, trace négative, provenance, imputation prudente, stabilisateur | XIV : première lecture civique et dossier technique préservé | PARTIAL — fusion et audit bidirectionnel non achevés |
-| XV | correction, chaîne institutionnelle, test de complétude, évaluation et ses coûts | XV : première lecture civique et dossier technique préservé | PARTIAL — fusion et audit bidirectionnel non achevés |
-| XVI | prendre au mot constitution, confrontations exhaustives lettre/effets, questions et réserves | XVI : première lecture civique et dossier technique préservé | PARTIAL — fusion et audit bidirectionnel non achevés |
+| I | 1789 ≠ devise ; Robespierre discours non prononcé ; alternatives 1793 ; exclusions ; absence de téléologie | I — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| II | 1848 préambule IV, décret abolition, délai colonial ; médaille 1878 titre 1880 ; témoignages 1892/1904 ; PPL 2006 ; absence preuve décret | II — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| III | ordonnance 1944, article 2 en 1946/1958 ; 1971/1973 ; fraternité QPC 2018 limitée | III — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| IV | validité/effectivité/efficacité/efficience/impact ; droits non utilisés librement ; trois valeurs en tension ; Sen/Nussbaum | IV — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| V | texte constitutionnel 72-5 ; citation intégrale v0.7 ; gain régime/normes ; limites ; CGCT ; non dépôt | V — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| VI | non-recours ; égalité réelle ; fraternité non paternaliste ; traces négatives ; Debord ; évaluation révisable ; exemple citoyen | VI — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XIII | rapport sénatorial non publié, débats divergents, non-imputation d'intention | XIII — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XIV | Traçabilité des actes, trace négative, provenance, imputation prudente, stabilisateur | XIV — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XV | correction, chaîne institutionnelle, test de complétude, évaluation et ses coûts | XV — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
+| XVI | prendre au mot constitution, confrontations exhaustives lettre/effets, questions et réserves | XVI — v2.4 de consolidation | Intégré structurellement ; vérification ciblée, collation sémantique exhaustive non certifiée |
 | Conclusion/sources/revue interne | conclusion bornée, bibliographie, limites, 6 objections; Grok 3 nouvelles + 4 angles morts | conclusion et annexes inchangées provisoirement | PENDING |
 
 ## Nouveau → ancien : contrôle des innovations introduites par la réécriture
@@ -152,3 +152,12 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Checkpoint de reprise — 22 octobre 2026 (soir)
 
 Le manuscrit v2.2 courant contient déjà des consolidations supplémentaires sur X, XI et XIII. **Ne pas reprendre un état ancien en écrasant ces commits.** Reprise sur VII : titres de la transition vers la discussion spécialisée harmonisés au commit [c04452c](https://github.com/JeanHuguesRobert/barons-Mariani/commit/c04452ce2743331591a859343274fb46331bcd47). Tentatives d'une fusion textuelle plus importante bloquées à l'écriture : **aucune suppression de fond effectuée ou prétendue**. Reste à fusionner proprement les doubles introductions du VII, puis XIV–XVI, avec comparaison bidirectionnelle. La non-perte exhaustive reste non certifiée.
+
+
+## Passage global 16 chapitres — 22 octobre 2026
+
+[Version v2.4](histoire_devise_double_lecture_consolidation_v2_4.md), [commit 77ca02e](https://github.com/JeanHuguesRobert/barons-Mariani/commit/77ca02e8f83ce034d7d79f3d1466a86f71b375a2). **Tous les seize chapitres sont traités dans une structure de lecture continue** : I–VI et VIII déjà réécrits ; VII, IX–XIII déjà intégrés à cette reprise ; XIV–XVI harmonisés ici, avec leurs développements spécialisés conservés et des titres non juxtaposés. Vérification automatique de l'état courant : **16 titres I–XVI sans lacune, aucun ancien intitulé « dossier technique » ou « analyse critique et sources » ; 107 renvois Markdown vers des ressources HTTP(S) dans le manuscrit entier**. Le décompte de liens n'est pas une vérification de disponibilité des URL.
+
+**Portée exacte** : tous les chapitres ont bénéficié d'un traitement, mais pas tous d'une collation phrase par phrase. Des répétitions sémantiques peuvent subsister dans les derniers chapitres ; certaines transitions et assertions doivent encore être contrôlées. Le statut ci-dessus **n'est pas un PASS exhaustif**, conformément à l'invariant « aucune perte non identifiée ». La v0.7 et le draft Grok restent inchangés.
+
+**Gate suivant** : relecture froide séquentielle citoyen/historien/juriste, contrôle de citations et liens, matrice de propositions détaillée, validation frontmatter et nouvelle revue contradictoire de la v2.4 avant publication comme texte stabilisé.
