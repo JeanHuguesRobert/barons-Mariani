@@ -161,3 +161,8 @@ Le manuscrit v2.2 courant contient déjà des consolidations supplémentaires su
 **Portée exacte** : tous les chapitres ont bénéficié d'un traitement, mais pas tous d'une collation phrase par phrase. Des répétitions sémantiques peuvent subsister dans les derniers chapitres ; certaines transitions et assertions doivent encore être contrôlées. Le statut ci-dessus **n'est pas un PASS exhaustif**, conformément à l'invariant « aucune perte non identifiée ». La v0.7 et le draft Grok restent inchangés.
 
 **Gate suivant** : relecture froide séquentielle citoyen/historien/juriste, contrôle de citations et liens, matrice de propositions détaillée, validation frontmatter et nouvelle revue contradictoire de la v2.4 avant publication comme texte stabilisé.
+
+
+## Fusion chapitre XI — 22 octobre 2026
+
+[Commit 9b0447c](https://github.com/JeanHuguesRobert/barons-Mariani/commit/9b0447c3e5325485a00519ac241d60f246ec9c1a) : unification des introductions civiques sur le droit existant, les refus légitimes et la CEDH avec conservation du **corps juridique**, de la comparaison littérale CGCT / projet 72-5, du tableau, des arrêts européens, des distinctions avec le contentieux sénatorial, des conditions de recevabilité et des réserves. Chapitre XI : **12 117 → 11 315 caractères**. Suppressions ciblées : phrases de cadrage redites, remplacées par un fil narratif unique. **Non-perte démontrée sur ces thèmes majeurs seulement** : audit propositionnel complet et vérifications des sources restent à accomplir.
