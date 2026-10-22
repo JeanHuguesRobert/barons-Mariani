@@ -132,3 +132,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Consolidation ciblée XII — 22 octobre 2026
 
 [Commit a68ea18](https://github.com/JeanHuguesRobert/barons-Mariani/commit/a68ea18a79cb7375b2deadd6aaa7de848934e146) : au chapitre XII du manuscrit v2.2, unification de l'entrée citoyenne et des preuves parlementaires, suppression de deux métatitres, réduction des répétitions des décomptes et correction du renvoi erroné « chapitre XIV » vers le **chapitre XIII** (rapport non publié). Conservation ciblée vérifiée des décomptes 72/13 et 57/4/3/50, des périodes distinctes, de leurs attributions, des dispositions CGCT, de l'impossibilité de qualifier automatiquement 50 illégalités et des limites de v0.7. **PARTIAL** : contrôle complet des références externes et des propositions non exécuté.
+
+
+### Consolidation sémantique X — 22 octobre 2026
+
+[Commit a1ca05a](https://github.com/JeanHuguesRobert/barons-Mariani/commit/a1ca05a8ac1634d00bdaa4359adf5b344982d8f4) : fusion des passages répétés sur l'antériorité scientifique de l'effectivité (chapitre X). Réduction de **634 caractères** (13 525 → 12 891), en conservant l'originalité revendiquée limitée aux garanties du régime, les références OCDE/Commission de Venise et leur absence de force contraignante directe. Tableau des cinq hypothèses, objections et liens inchangés. **Audit ciblé seulement** : les autres répétitions et la collation bidirectionnelle intégrale restent ouvertes.
