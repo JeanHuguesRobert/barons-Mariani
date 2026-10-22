@@ -142,3 +142,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ### Fusion ciblée XI — 22 octobre 2026
 
 [Commit 21b6109](https://github.com/JeanHuguesRobert/barons-Mariani/commit/21b6109a5bfb53fb780aa679b69b4670fa439543) : suppression de la reprise de l'inventaire CGCT entre l'ouverture citoyenne et l'exposé détaillé ; articulation explicite sur la distinction normes produites/régime. Chapitre XI 12 746 → 12 117 caractères. Les clauses CGCT, la jurisprudence CEDH et la distinction entre amendement corse et contentieux sénatorial sont conservées dans le dossier spécialisé. **PASS ciblé des passages modifiés seulement ; audit intégral PENDING.**
+
+
+## Consolidation sémantique XIII — 22 octobre 2026
+
+[Commit f903107](https://github.com/JeanHuguesRobert/barons-Mariani/commit/f90310766ff2b93afce83cd6137afe2ee9246087) : chapitre XIII fusionné en une narration unique (6 270 → 5 706 caractères). Restent : 5 mars 2025, mission initialement Buffet puis Josende, plus de 90 personnes auditionnées, déplacement corse, votes distincts sur recommandations/rapport/publication, présence du compte rendu public, divergences Parigi/Kerrouche et des groupes, regrets exprimés sur la non-publication, distinction 72/13 et refus de publication, trois étages d'ineffectivité présentés comme doctrine, portée limitée de la v0.7, aucune imputabilité malveillante présumée. **PASS ciblé**, pas validation exhaustive de toutes les interprétations ; contrôles de cohérence documentaire encore ouverts.
