@@ -14,7 +14,8 @@ OUT = ROOT / "previews" / "en-preparation"
 BOOKS = {
     "capable": {
         "edition": "projects/capable/editions/2026-10-09-en-preparation.md",
-        "chapters": ["projects/capable/manuscript/03-effectivite.md",
+        "chapters": ["projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
+                     "projects/capable/manuscript/03-effectivite.md",
                      "projects/capable/manuscript/05-machines-et-correction.md"],
     },
     "suicide-corse": {
