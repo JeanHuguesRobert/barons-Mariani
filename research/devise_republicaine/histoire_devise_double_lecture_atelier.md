@@ -463,7 +463,31 @@ Cette proposition ne promet ni des résultats uniformément positifs ni l'abolit
 
 **Thèse de synthèse :** la Constitution ne devient pas inexistante à chaque échec de la loi ; mais une République fidèle à la Déclaration de 1789 ne peut considérer comme secondaire une défaillance persistante des garanties de droits qu'elle proclame. L'effectivité n'est pas un substitut à la légalité : elle est l'une des épreuves auxquelles la légalité constitutionnelle doit consentir.
 
-## X. État de l'art comparé : qualité normative, effectivité, évaluation et valeur ajoutée de l'amendement
+## X. Quand une institution évalue ses actes, regarde-t-elle aussi ce qui n'a jamais pu se faire ?
+
+Une administration peut publier la liste des décisions qu'elle a prises. C'est utile. Mais que sait-on des demandes jamais déposées faute d'information, des démarches abandonnées ou des possibilités ouvertes par la loi que personne n'a pu employer ? **Examiner ce qui a été produit et examiner comment une procédure fonctionne ne sont pas la même opération.**
+
+Cette question ne constitue pas une découverte théorique de notre étude. Les juristes, les sociologues du droit et les spécialistes de l'action publique examinent depuis longtemps la différence entre règles écrites et effets vécus. L'OCDE recommande notamment de mesurer les effets des réglementations après leur entrée en vigueur, y compris leurs coûts et conséquences imprévues. La Commission de Venise propose, de son côté, des questions exigeantes sur l'État de droit. **Ces références éclairent notre démarche ; elles ne rendent pas notre amendement juridiquement obligatoire.**
+
+### Un ajout minuscule peut-il changer ce qu'il faut observer ?
+
+Le projet d'article 72-5 prévoit déjà un contrôle et une évaluation des **normes adoptées** dans le nouveau régime d'habilitation. L'amendement v0.7 attire aussi l'attention sur **le fonctionnement du régime** : les conditions d'accès, les possibilités non utilisées, les obstacles éventuels et les effets de l'ensemble. Il demande que cette évaluation soit publique et périodique et que la loi organique détermine des garanties d'effectivité.
+
+C'est notre différence la plus solide **dans les mots**. Elle n'est pas nécessairement une différence décisive **devant un juge** : les obligations et contrôles existants pourraient déjà recevoir une interprétation large. Nous devons donc maintenir visible l'objection de redondance. Nous ne prétendons pas que la clause crée un droit automatique à l'habilitation, impose l'approbation des demandes ou donne au juge la mission générale de perfectionner les politiques publiques.
+
+La rédaction demeure volontairement **minimaliste**. On pourrait vouloir inscrire dans la Constitution tous les délais, indicateurs ou sanctions imaginables ; ce serait confondre la norme fondamentale avec les modalités que la loi organique doit élaborer et adapter.
+
+### Ce qui rendrait la proposition désirable
+
+Une personne ne s'intéresse pas nécessairement au nombre de rapports produits. Elle pourrait en revanche apprécier de savoir **pourquoi une possibilité annoncée reste inaccessible**, ou pourquoi une réforme coûteuse n'apporte pas les améliorations promises. Une association pourrait utiliser cette information pour proposer autrement. Une collectivité pourrait découvrir une difficulté avant de la reproduire.
+
+Mais la transparence peut elle aussi devenir un théâtre : des chiffres flatteurs, des formulaires supplémentaires, une expertise réservée aux mieux dotés. Une bonne évaluation doit donc être proportionnée, contradictoire et susceptible de reconnaître ses propres limites. **Plus de mesure ne signifie pas mécaniquement plus de liberté.**
+
+### Seconde lecture — état de l'art, gain marginal et tests de robustesse
+
+Les développements techniques suivants conservent les références OCDE et Commission de Venise, la comparaison des objets évalués, les hypothèses d'omission organique, les trois objections majeures et leurs limites probatoires. Les scénarios sont des **tests contrefactuels déjà étudiés**, et non des invitations à rouvrir sans motif l'arbitrage sur la v0.7.
+
+### Dossier technique du chapitre X
 
 ### 1. L'exigence d'effectivité appartient déjà au droit et aux sciences de l'action publique
 
@@ -523,7 +547,29 @@ La thèse doit néanmoins être qualifiée comme **argument de doctrine en faveu
 - Sénat, projet de loi constitutionnelle n° 782 (2025–2026), [texte transmis](https://www.senat.fr/leg/pjl25-782.html).
 - Corpus Mariani, [*Méthode des terrains féconds*](../methode_terrains_feconds.md) et [*Proposition d'amendement d'effectivité v0.7*](../autonomia/amendement_effectivite_article_72-5.md).
 
-## XI. Contrôle documentaire du droit corse et perspective conventionnelle européenne (21 octobre 2026)
+## XI. Ce que le droit prévoit déjà — et ce que notre proposition ne peut pas promettre
+
+Pour évaluer sérieusement un projet de réforme, il faut commencer par reconnaître ce qui fonctionne **déjà en droit**. La Collectivité de Corse peut actuellement transmettre des propositions d'adaptation et certaines demandes d'habilitation. Le Code général des collectivités territoriales prévoit des formes de transmission, de publicité et de compte rendu. Il serait faux de présenter ces mécanismes comme inexistants pour justifier notre proposition.
+
+L'article **L. 4422-16** prévoit notamment, selon les catégories de propositions, une demande motivée, un accusé de réception par le Premier ministre et un rapport annuel public sur les suites données. L'article **L. 4422-17** organise la publication de certaines demandes et propositions au *Journal officiel*. Ce sont des obligations à décrire précisément et à confronter à leur mise en œuvre. Le projet de nouvel article 72-5 prévoit déjà le contrôle et l'évaluation des normes adoptées.
+
+Notre ajout voudrait attirer l'attention sur un autre objet : **la procédure elle-même, même quand elle ne débouche sur aucune norme**. Il ne suffit donc pas de comparer des promesses ; il faut comparer des obligations distinctes, puis constater ce que leur application permet réellement d'apprendre. Le dossier technique ci-dessous détaille cette comparaison.
+
+### Un recours européen n'est pas une baguette magique
+
+L'exigence de droits pratiques et effectifs se rencontre également dans la jurisprudence européenne, notamment en matière électorale. Mais la **Cour européenne des droits de l'homme** ne donne pas au citoyen une consultation abstraite pour décider si son amendement constitutionnel serait opportun. Elle juge certaines atteintes alléguées à des droits reconnus par la Convention, selon des conditions strictes.
+
+Cela impose une distinction très nette entre deux histoires : d'un côté, la **contribution citoyenne v0.7** au débat constitutionnel sur la Corse ; de l'autre, le **contentieux distinct des élections sénatoriales de Haute-Corse en 2026**, avec ses faits, ses griefs et ses pièces propres. Il serait trompeur de laisser entendre que la difficulté du second démontre la nécessité juridique du premier, ou qu'un rejet national ouvrirait automatiquement un recours victorieux à Strasbourg.
+
+### Ce qu'une institution désirable doit aussi savoir dire
+
+Une institution crédible n'exagère ni ses pouvoirs ni les droits qu'elle garantit. Une institution désirable explique où se trouve la porte, ce qu'on peut raisonnablement en attendre et comment contester une décision. Elle sait également dire **non**, avec les garanties requises par le droit applicable, sans transformer chaque refus en scandale ni chaque silence en intention malveillante.
+
+### Seconde lecture — droit positif corse et voie conventionnelle
+
+Le dossier suivant conserve la comparaison littérale des articles L. 4422-16 et L. 4422-17 avec le projet constitutionnel, ainsi que les références européennes pertinentes, les différences entre procédures, la qualité de victime, l'épuisement des recours et les délais de recevabilité. **Ces contraintes sont juridiques et factuelles ; les simplifier ne doit jamais les effacer.**
+
+### Dossier technique du chapitre XI
 
 ### A. Comparaison littérale : CGCT et article 72-5
 
