@@ -102,6 +102,16 @@ Le requérant précise dans la conversation du **21 octobre 2026** que le texte 
 
 **Sélection proposée : JOIN**, notice avec cette transcription dans le PDF consolidé du complément, et MP4 natif distinct identifié par la même empreinte. Rattachement inchangé à G2/G3/G4. La transcription facilite l'examen du contenu et conserve sa provenance ; elle ne prouve pas la réception avant 18 h, le versement au TA ou le visionnage par la formation. L'intégration matérielle au PDF final et la remise restent à réaliser avec #133/#134.
 
+## Accessibilité et chronologie : point central de la provenance
+
+La question centrale est l'accès effectif à la procédure de candidature pour la remplaçante, compte tenu de ses difficultés de déplacement. La voie électronique était une solution pratique pour manifester et transmettre son consentement, non un objectif autonome. Le débat sur le support de l'original est complémentaire.
+
+Le 10 septembre 2026, après un premier envoi rejeté pour taille excessive à 17 h 01, le dossier est retransmis à 17 h 54 avec le formulaire de consentement. Celui-ci comprend une mention manuscrite et une signature reproduites dans le PDF. La réponse préfectorale arrive à 20 h 05, moins de vingt-deux heures avant la clôture. Elle demande les originaux et indique que l'envoi électronique ne suffit pas, sans préciser quelle insuffisance propre aux inscriptions déjà visibles dans le PDF est retenue.
+
+Le 11 septembre, le candidat se présente physiquement à Bastia, puis rejoint Ajaccio avec des concours humains pour permettre la déclaration audiovisuelle de sa remplaçante. Le courriel contenant le lien vers cette vidéo est envoyé à 17 h 57 min 55 s, avant la clôture de 18 heures.
+
+La maxime « À l'impossible, nul n'est tenu » exprime ici les diligences accomplies face aux contraintes matérielles et temporelles. Elle n'emporte pas dispense automatique des formalités applicables. Il faut distinguer la reconnaissance administrative d'un handicap des limitations fonctionnelles concrètes, ainsi que l'envoi électronique du dépôt physique.
+
 ## Saisine de la CADA du 22 octobre 2026 — complément de provenance P-12/P-13
 
 Le **22 octobre 2026 à 09 h 48 min 17 s (CEST)**, le requérant a saisi par courriel le secrétariat général de la **Commission d'accès aux documents administratifs (CADA)** afin d'obtenir son avis sur la communicabilité des documents détenus par la préfecture de la Haute-Corse relatifs au **courriel P-12 du 11 septembre 2026 à 17 h 57 min 55 s** et à son lien vers la **vidéo P-13**. Il a demandé notamment les traces de réception et de traitement par la messagerie, les échanges ou enregistrements internes entre services, et les pièces permettant d'établir **si et quand** ce courriel ou cette vidéo ont été transmis ou signalés au Tribunal administratif de Bastia. Cette saisine était accompagnée de quatorze courriels sources au format EML, conservés séparément.
