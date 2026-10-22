@@ -551,13 +551,9 @@ Cela impose une distinction très nette entre deux histoires : d'un côté, la *
 
 Une institution crédible n'exagère ni ses pouvoirs ni les droits qu'elle garantit. Une institution désirable explique où se trouve la porte, ce qu'on peut raisonnablement en attendre et comment contester une décision. Elle sait également dire **non**, avec les garanties requises par le droit applicable, sans transformer chaque refus en scandale ni chaque silence en intention malveillante.
 
-### Pour approfondir — droit positif corse et voie conventionnelle
+### Les règles existantes, les voies européennes et leurs limites
 
-Le dossier suivant conserve la comparaison littérale des articles L. 4422-16 et L. 4422-17 avec le projet constitutionnel, ainsi que les références européennes pertinentes, les différences entre procédures, la qualité de victime, l'épuisement des recours et les délais de recevabilité. **Ces contraintes sont juridiques et factuelles ; les simplifier ne doit jamais les effacer.**
-
-### Analyse critique et sources — chapitre XI
-
-### A. Comparaison littérale : CGCT et article 72-5
+#### Comparaison littérale : CGCT et article 72-5
 
 La lecture des sources en vigueur dissipe un risque de contresens. L'article **L. 4422-16 du CGCT**, dans sa version issue de la loi du 21 février 2022, prévoit déjà : (I) des propositions d'adaptation réglementaire ; (II) une **demande motivée d'habilitation** à adapter les règles relevant des compétences transférées, transmise au Premier ministre ; (III) des propositions d'adaptation législative ; (V) des avis de l'Assemblée de Corse sur les textes spécifiques à la Corse ; (V bis) un **accusé de réception par le Premier ministre** et un **rapport annuel public sur les suites données aux propositions** ; (VI) une possible communication du représentant de l'État devant l'Assemblée de Corse. L'article **L. 4422-17** prescrit la publication au *Journal officiel* des propositions, demandes et avis des I à IV. Ces obligations sont préexistantes à l'amendement citoyen et doivent être reconnues sans réserve. Sources : [CGCT, L. 4422-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127) ; [CGCT, L. 4422-17](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181335/2026-05-29/).
 
@@ -573,7 +569,7 @@ La différence que propose la version 0.7 réside donc principalement dans **l'o
 | Projet de 72-5, alinéa organique | Contrôle et modalités d'évaluation **des normes prises** | Observation publique, périodique du **régime**, même sans norme nouvelle |
 | Proposition v0.7 | Garanties d'accès et évaluation publique périodique du régime | Contenu de la loi organique à définir ; absence de garantie automatique d'issue favorable |
 
-### B. Ce que la Convention européenne pourrait apporter à la recherche
+#### Ce que la Convention européenne pourrait apporter à la recherche
 
 La **Convention européenne des droits de l'homme** et la **Cour européenne des droits de l'homme (Cour EDH, Strasbourg)** doivent être distinguées. La Cour ne délivre pas d'avis consultatif général au citoyen sur la valeur d'une proposition d'amendement constitutionnel ; elle juge des **violations alléguées de droits conventionnels**, sous conditions d'admissibilité.
 
@@ -583,7 +579,7 @@ Dans *Mugemangango c. Belgique* ([GC], 10 juillet 2020, n° 310/15, §§ 69–70
 
 Dans *Grosaru c. Roumanie* (2 mars 2010, n° 78039/01), elle examine une contestation concernant la désignation d'un député et les garanties du recours électoral. [Arrêt](https://hudoc.echr.coe.int/eng?i=001-97617). Dans *Bompard c. France* (décision, n° 44081/02), elle analyse une contestation de découpage électoral portée auparavant devant le Conseil constitutionnel, en soulignant notamment l'identification des griefs soulevés devant le juge national, les limites des droits électoraux et la distinction entre contrôle d'une loi et contentieux d'une élection. Ce précédent invite à **qualifier correctement l'objet de la requête**, pas à conclure que tout argument constitutionnel serait recevable à Strasbourg. [Décision](https://hudoc.echr.coe.int/eng?i=001-76253).
 
-### C. Deux objets de contentieux qu'il ne faut surtout pas fusionner
+#### Deux objets de contentieux qu'il ne faut surtout pas fusionner
 
 **1. L'amendement à l'article 72-5.** Son dépôt, sa non-adoption ou son éventuelle adoption est un processus législatif et constituant. Aucun individu ne dispose, du seul fait de la Convention, d'un droit à faire adopter cet amendement. La Cour EDH ne constituerait pas une instance de contrôle abstrait de sa valeur. Des actes futurs pris sous un régime territorial pourraient, en revanche, relever de droits conventionnels déterminés si un requérant personnellement concerné démontre une atteinte et remplit les conditions de recevabilité.
 
@@ -591,13 +587,13 @@ Dans *Grosaru c. Roumanie* (2 mars 2010, n° 78039/01), elle examine une contest
 
 Un rejet du Conseil constitutionnel, même sur un motif procédural, **n'établit pas à lui seul une violation conventionnelle**. Il pourrait au contraire appeler un examen particulièrement rigoureux des voies internes effectivement utilisées, des motifs du rejet, des griefs présentés en substance et des obstacles allégués. Il ne faut ni présumer que le Conseil constitutionnel rejettera, ni présumer qu'une décision défavorable ouvrirait mécaniquement un recours recevable.
 
-### D. Conditions de recevabilité à Strasbourg et contrôle des échéances
+#### Conditions de recevabilité à Strasbourg et contrôle des échéances
 
 Une requête individuelle devant la Cour EDH doit notamment concerner un **droit garanti par la Convention ou ses protocoles**, émaner d'une **victime** au sens de l'article 34, respecter la règle de l'**épuisement des recours internes effectifs** et être introduite, en principe, dans les **quatre mois** à compter de la décision interne définitive pertinente (article 35). Le point de départ dépend de la notification et de la nature des recours ; un recours non pertinent ou inefficace ne reporte pas nécessairement le délai. Voir le [Guide pratique de recevabilité de la Cour](https://www.echr.coe.int/documents/d/echr/admissibility_guide_eng).
 
 Il faut établir un tableau probatoire pour le dossier sénatorial : décision de refus d'enregistrement et sa notification ; textes appliqués ; chronologie du dépôt et des possibilités de rectification ; obstacles matériels et éventuels aménagements demandés ; requêtes et pièces effectivement reçues par chaque juridiction ; décisions et dates de connaissance ; correspondance entre griefs nationaux et griefs conventionnels. Le dossier n'est pas ici jugé sur le fond : cette section **fixe une méthode et distingue les questions à résoudre**.
 
-### E. Portée doctrinale pour le manuscrit sur la devise
+#### Portée doctrinale pour le manuscrit sur la devise
 
 Ce détour conventionnel éclaire la maxime selon laquelle une loi doit être confrontée à ses effets : l'effectivité est une notion déjà présente dans les garanties européennes, notamment dans le domaine du recours et des élections. Mais il faut distinguer la **garantie juridictionnelle d'un droit reconnu**, l'**efficacité d'une politique** et la **finalité constitutionnelle nouvelle proposée** pour la Corse. Ces trois plans se renforcent parfois sans se confondre. Notre amendement tente une institutionnalisation limitée de l'observation des effets du régime ; son éventuelle efficacité future et sa valeur juridique exacte demeurent à éprouver.
 
