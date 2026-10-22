@@ -117,3 +117,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Consolidation chapitre X — 22 octobre 2026
 
 [Commit c250872](https://github.com/JeanHuguesRobert/barons-Mariani/commit/c250872622d536a2f0c169316bbb8aae3a39839b) : sur la v2.2 de consolidation, suppression du passage de méta-présentation « pour approfondir » et du titre redondant « dossier technique », intégration des sous-sections de recherche au chapitre X. Le texte passe de **13 990 à 13 525 caractères** pour X. **Les contenus spécialisés et le tableau des cinq omissions hypothétiques sont préservés.** Il s'agit d'une consolidation de structure et de flux de lecture ; les redites argumentatives ne sont pas encore toutes fusionnées. Statut **PARTIAL**, non-perte exhaustive toujours à valider.
+
+
+## Consolidation XI — 22 octobre 2026
+
+[Commit c3a2c07](https://github.com/JeanHuguesRobert/barons-Mariani/commit/c3a2c07a9b21c13f01ef687e86e43520f4251a0f) : chapitre XI de la v2.2 réorganisé en une présentation continue, sans les deux intitulés de dossier redondants ; sous-sections A–E conservées avec leurs distinctions CGCT / article 72-5 / Cour EDH / contentieux électoral / recevabilité. 13 186 → 12 746 caractères. **Consolidation structurelle, pas dédoublonnage propositionnel exhaustif**. Aucune modification de v0.7.
