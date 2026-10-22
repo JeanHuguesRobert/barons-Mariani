@@ -39,4 +39,6 @@ Ce premier volume s'arrête en **1870**, au seuil de la chute du Second Empire. 
 - D'Antoine Dominique Mariani (1776–1845), modeste notable de l'intérieur monté à Naples avec Saliceti, installé à la sous-préfecture de Corte en 1811, titré baron westphalien par le roi Jérôme Bonaparte (date précise de concession à établir), et bâtisseur du domaine de Minesteggio ;
 - À Louis-Thomas Mariani (1815–1890), son fils, avocat réputé, procureur impérial, député de la Corse au Corps législatif, siégeant au sein de la majorité dynastique avant d'être défait lors du scrutin dramatique de 1863 par son rival Sampiero Gavini.
 
+Le dossier de la concession baronale conserve une lacune notable : le journal officiel westphalien, consulté par l'auteur, n'a livré aucune attribution identifiée au nom Mariani dans les volumes examinés. La date de création reste inconnue. Cette recherche négative, à documenter plus précisément, est exposée dans le chapitre consacré à Antoine Dominique.
+
 En reconstituant ces deux destins, ce volume ne cherche pas à ériger un mausolée. Il pose les pièces d'un échiquier documentaire rigoureux, fondé sur des archives primaires, pour comprendre les mécanismes réels de la grandeur avant d'examiner, dans les volumes suivants, la lente mécanique de l'attrition.
