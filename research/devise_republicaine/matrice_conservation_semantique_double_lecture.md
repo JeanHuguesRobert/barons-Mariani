@@ -39,9 +39,9 @@ review:
 | IV | validité/effectivité/efficacité/efficience/impact ; droits non utilisés librement ; trois valeurs en tension ; Sen/Nussbaum | IV, récit des deux personnes + distinctions | PASS ciblé ; pas de priorité doctrinale revendiquée |
 | V | texte constitutionnel 72-5 ; citation intégrale v0.7 ; gain régime/normes ; limites ; CGCT ; non dépôt | V, question commune puis texte intégral | PASS ciblé ; clause inchangée |
 | VI | non-recours ; égalité réelle ; fraternité non paternaliste ; traces négatives ; Debord ; évaluation révisable ; exemple citoyen | VI, questions ordinaires + critiques et sources | PASS ciblé ; réserve jugement/évaluation maintenue |
-| VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII, intact provisoirement | PENDING : réécriture + non-perte |
+| VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
 | VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII, narration + six niveaux de preuve, 1790/1793/1848/1880/1946–58/2018, trois erreurs et sources | PASS ciblé ; collation exhaustive à finaliser (commit 1d0c86b) |
-| IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX, intact provisoirement | PENDING |
+| IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
 | X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X, intact provisoirement | PENDING ; I-1 load-bearing |
 | XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI, intact provisoirement | PENDING |
 | XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII, intact provisoirement | PENDING |
@@ -85,3 +85,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Innovation contrôlée — crédibilité et désirabilité
 
 [Commit 54b4502](https://github.com/JeanHuguesRobert/barons-Mariani/commit/54b4502334c90cc8606817d25475db3356fa9323) : ajout d'une section originale de quatre pages environ avant le chapitre I. **Nouveau → ancien** : ces trois scènes ne sont pas des événements ajoutés au récit, mais des exemples pédagogiques hypothétiques, identifiés comme tels ; elles explicitent la distinction existante entre droit formel et capacité réelle. Leur statut est **innovation argumentative déclarée**, non conservation d'un élément ancien. Les trois tests de crédibilité, le pluralisme et les risques de capture sont reconduits aux sections IV–VII et XIV–XVI. Aucun effet juridique ou empirique supplémentaire de la v0.7 n'est affirmé.
+
+
+## Checkpoint VII et IX — 22 octobre 2026
+
+[Commit dbbe0d3](https://github.com/JeanHuguesRobert/barons-Mariani/commit/dbbe0d35740887dac35832b9933f3e4ca8e55734) : deux lectures publiques ajoutées en tête des chapitres VII et IX, suivies des anciens développements techniques **préservés à l'identique dans leur corps** et requalifiés comme dossiers spécialistes. Conservation de contenu forte à ce stade, mais **risque de répétitions éditoriales**, de titres imbriqués et de transitions non harmonisées. Ne pas classer PASS avant une collation suivie et un dédoublonnage qui ne supprime aucune proposition.
