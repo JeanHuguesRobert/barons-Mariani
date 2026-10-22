@@ -80,7 +80,7 @@ Les métadonnées sont des indications contenues dans le fichier ou fournies par
 
 Le décodage intégral audio/vidéo par FFmpeg s'achève avec un code de sortie 0 ; deux avertissements de DTS non strictement croissants apparaissent dans le flux de sortie de contrôle. Ce résultat documente la lisibilité technique, sans expertise d'authenticité ni conclusion sur la signification de ces avertissements.
 
-La copie locale vérifiée et le relevé technique restent privés. L'empreinte lie la présente notice au binaire conservé ; elle ne démontre pas les octets reçus par l'administration ou la juridiction. Avant une transmission, recalculer l'empreinte du fichier sélectionné et conserver l'accusé propre au canal réellement utilisé. Le [texte maître v0.4](texte-maitre-travail-v0.1.md) prévoit désormais quatre fichiers TransfertPro, dont P-13 en quatrième position : la mention historique du « second fichier » ne décrit plus cette architecture. Aucun de ces fichiers n'est réputé envoyé.
+La copie locale vérifiée et le relevé technique restent privés. L'empreinte lie la présente notice au binaire conservé ; elle ne démontre pas les octets reçus par l'administration ou la juridiction. Avant une transmission, recalculer l'empreinte du fichier sélectionné et conserver l'accusé propre au canal réellement utilisé. Le [texte maître v0.4](texte-maitre-travail-v0.1.md) prévoit dans une version ancienne quatre fichiers TransfertPro ; le contrat actuel en prévoit six, dont le MP4 P-13 : la mention historique du « second fichier » ne décrit plus cette architecture. Aucun de ces fichiers n'est réputé envoyé.
 
 ## Texte préparé et transcription déjà consolidée
 
@@ -101,6 +101,18 @@ Le requérant précise dans la conversation du **21 octobre 2026** que le texte 
 **Qualification :** transcription documentaire préexistante, signalée comme fidèle par le requérant ; aucune nouvelle transcription automatique ni écoute comparative indépendante n'est revendiquée. La préparation du texte et sa prononciation sont deux événements distincts. La notice est une pièce dérivée accompagnant le MP4, sans constituer un second original audiovisuel.
 
 **Sélection proposée : JOIN**, notice avec cette transcription dans le PDF consolidé du complément, et MP4 natif distinct identifié par la même empreinte. Rattachement inchangé à G2/G3/G4. La transcription facilite l'examen du contenu et conserve sa provenance ; elle ne prouve pas la réception avant 18 h, le versement au TA ou le visionnage par la formation. L'intégration matérielle au PDF final et la remise restent à réaliser avec #133/#134.
+
+## Saisine de la CADA du 22 octobre 2026 — complément de provenance P-12/P-13
+
+Le **22 octobre 2026 à 09 h 48 min 17 s (CEST)**, le requérant a saisi par courriel le secrétariat général de la **Commission d'accès aux documents administratifs (CADA)** afin d'obtenir son avis sur la communicabilité des documents détenus par la préfecture de la Haute-Corse relatifs au **courriel P-12 du 11 septembre 2026 à 17 h 57 min 55 s** et à son lien vers la **vidéo P-13**. Il a demandé notamment les traces de réception et de traitement par la messagerie, les échanges ou enregistrements internes entre services, et les pièces permettant d'établir **si et quand** ce courriel ou cette vidéo ont été transmis ou signalés au Tribunal administratif de Bastia. Cette saisine était accompagnée de quatorze courriels sources au format EML, conservés séparément.
+
+Le **22 octobre 2026 à 09 h 48 min 55 s (CEST)**, le secrétariat général de la CADA a confirmé la bonne réception du courriel, en précisant qu'un second envoi postal était inutile. Un avis de non-distribution à **une adresse secondaire en copie** a également été reçu ; il ne contredit pas cette réception confirmée par le destinataire principal. **Aucun avis sur le fond et aucun numéro de dossier CADA n'étaient connus lors de la présente vérification.**
+
+Ce nouvel acte documentaire ne prouve **ni** la réception de P-12 avant 18 heures le 11 septembre, **ni** la transmission de P-13 au TA, **ni** son visionnage par la juridiction. Il complète la **chronologie des démarches de vérification** déjà motivées par les griefs initiaux G2/G3/G4 ; il **n'introduit pas de grief électoral nouveau**. L'éventuel avis de la CADA ou la communication ultérieure de traces préfectorales constitueront, s'ils interviennent, des événements distincts à produire et à dater. La demande à la CADA ne vaut pas demande au Conseil constitutionnel de surseoir à statuer.
+
+**Référence publique de traçabilité :** [Interaction Packet CADA du 22 octobre 2026](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/packets/2026/2026-10-22-cada-courriel-video-senatoriales.yaml). Sources primaires conservées dans Gmail : message expédié `1a162950fcb19b4a`, accusé CADA `1a16295a2cf631e3`, notification de défaut de distribution en copie `1a1629542d086e2a`. La référence publique ne reproduit pas les messages privés ni les EML joints.
+
+**Portée pour le Conseil constitutionnel :** il peut être utile de signaler cette saisine comme nouvelle démarche visant à identifier des **documents administratifs préexistants**, sans préjuger de la communicabilité de chaque catégorie de document ni de la réponse de la CADA. Il reste loisible au requérant de solliciter du Conseil, dans le cadre des griefs initialement formés, les mesures d'instruction qu'il estimera utiles sur la réception, la circulation et la communication de P-12/P-13.
 
 ## Bloc prêt pour le texte maître
 
