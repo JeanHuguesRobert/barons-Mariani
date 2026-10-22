@@ -296,13 +296,9 @@ L'histoire nous apprend que les formes institutionnelles changent. Elle ne démo
 
 Nous avons ici deux ambitions liées mais distinctes : celle d'une République où davantage de personnes peuvent effectivement agir, et celle d'un droit assez précis pour que les institutions puissent rendre compte de ce qu'elles ouvrent et de ce qu'elles empêchent. Leur lien est à défendre, pas à présumer.
 
-### Pour approfondir — démonstration, critères et objections
+### Arguments, contre-épreuves et références
 
-Le développement qui suit conserve le cadre doctrinal, les références comparatives, la matrice d'observation, les scénarios de contrôle et les objections de la version de recherche. Il permet de contester précisément les propositions du récit qui précède.
-
-### Analyse critique et sources — chapitre VII
-
-### 1. Dépasser une alternative mal posée
+#### Dépasser une alternative mal posée
 
 L'opposition selon laquelle l'autonomie corse renforcerait nécessairement la liberté locale au détriment de l'unité républicaine — ou, inversement, selon laquelle l'indivisibilité impliquerait une uniformité intégrale — juxtapose deux propositions plus complexes. D'une part, l'organisation décentralisée de la République figure à l'article premier de la Constitution de 1958. D'autre part, l'article 72 et les garanties nationales assignent des limites aux compétences et aux différenciations. L'indivisibilité n'efface donc pas toute possibilité de différenciation, et l'autonomie ne garantit par elle-même aucun effet émancipateur.
 
@@ -310,7 +306,7 @@ La [méthode des terrains féconds](../methode_terrains_feconds.md), développé
 
 Appliquée à l'article 72-5, cette méthode suggère un changement de question. Il ne suffit plus de demander *combien de pouvoirs nouveaux attribuer à la Corse ?* ou *combien de garanties nationales lui opposer ?* Il faut demander **à quelles conditions juridiques, procédurales, budgétaires et sociales une faculté reconnue à la Collectivité de Corse améliore effectivement l'exercice des droits, sans dégrader les garanties de la République**. Une telle question conserve la possibilité de réponses négatives : une mesure d'autonomie peut se révéler incapable, inégale ou contraire à un droit protégé.
 
-### 2. Le sens juridiquement limité du verbe « consolider »
+#### Le sens juridiquement limité du verbe « consolider »
 
 Dans cette étude, *consolider la République* est une **finalité doctrinale attribuée à la proposition de l'auteur**, non une qualification juridique déjà acquise de l'amendement. La consolidation serait recherchée par quatre opérations distinctes : (a) réaffirmer les normes de référence communes ; (b) rendre plus explicites les obligations de mise en œuvre ; (c) créer une observation publique des obstacles et des effets ; (d) rendre possibles des corrections dans le cadre des compétences établies.
 
@@ -318,7 +314,7 @@ Ces opérations ne doivent pas être confondues avec la consécration d'un nouve
 
 La proposition ne peut pas non plus ignorer le risque de captation locale : transférer une faculté à une institution ne signifie pas que les habitants, les associations, les petites entreprises ou les personnes éloignées de l'administration auront davantage de prise sur elle. Une garantie d'effectivité qui ne mesure que le nombre de textes adoptés manquerait ce risque.
 
-### 3. Matrice de traduction : des principes aux questions observables
+#### Matrice de traduction : des principes aux questions observables
 
 | Niveau | Question d'évaluation | Preuve envisageable | Limite d'interprétation |
 | --- | --- | --- | --- |
@@ -331,7 +327,7 @@ La proposition ne peut pas non plus ignorer le risque de captation locale : tran
 
 Ce tableau constitue une **grille de recherche**, non une liste de garanties déjà imposées par le droit positif ni un ensemble d'indicateurs officiellement adoptés. Il distingue l'**obligation normative**, l'**observation** et l'**attribution causale**. Les sources devront renseigner séparément les règles, les pratiques et les effets. Le choix d'un indicateur ne doit jamais permettre de « compenser » arbitrairement une atteinte grave à une liberté par un meilleur score ailleurs.
 
-### 4. Comparer sérieusement l'ajout constitutionnel à l'absence d'ajout
+#### Comparer sérieusement l'ajout constitutionnel à l'absence d'ajout
 
 Une étude doctrinale favorable à une hypothèse doit aussi exposer les raisons de ne pas l'adopter. La Constitution comporte déjà des principes, des garanties et des mécanismes de contrôle. Le CGCT prévoit déjà des procédures de propositions corses et de suivi. Une première objection est donc celle de la **redondance** : si le législateur organique peut prévoir les mêmes règles, la modification constitutionnelle serait-elle inutile ? Une seconde objection est l'**indétermination** : la formule « garanties nécessaires à l'effectivité » est-elle suffisamment prescriptive pour que l'omission d'une garantie pertinente soit juridiquement constatable ? Une troisième est la **confusion des responsabilités** : l'évaluation publique d'un régime n'autorise pas à contraindre le Parlement à adopter une loi particulière.
 
@@ -339,19 +335,19 @@ La réponse avancée par l'auteur est limitée : une faculté laissée au choix 
 
 Il serait également insuffisant de présenter la publicité d'un rapport comme un substitut à l'égalité devant la loi, à la garantie des libertés ou à l'existence de recours. La proposition engage le constituant sur l'objet du régime organique ; elle ne remplace pas les protections constitutionnelles existantes.
 
-### 5. Un programme comparatif et falsifiable, sans expérimentation humaine présumée
+#### Un programme comparatif et falsifiable, sans expérimentation humaine présumée
 
 La notion de terrain fécond invite à une comparaison institutionnelle prudente. Trois trajectoires hypothétiques peuvent être confrontées : maintien des règles sans nouvel amendement ; adoption d'une loi organique procédurale plus détaillée sans nouvelle clause ; insertion de la clause d'effectivité, suivie d'une loi organique déterminant des garanties et une évaluation. Ces scénarios ne constituent ni prévisions ni expériences déjà réalisées.
 
 Le programme d'enquête devrait consigner la temporalité des textes, les acteurs qui détiennent effectivement une compétence, les conditions d'accès aux procédures, la publicité des résultats et les effets différenciés sur les habitants. Il devrait inclure des cas où aucune habilitation n'est demandée, où une demande est refusée à bon droit, où une norme adoptée produit des conséquences inattendues, et où l'intérêt général justifie de ne pas agir. Des analyses comparables à d'autres régimes de différenciation territoriale peuvent être envisagées, **sans assimiler des statuts constitutionnels différents**.
 
-### 6. Antécédents doctrinaux et disciplines de recherche
+#### Antécédents doctrinaux et disciplines de recherche
 
 La proposition ne doit pas attribuer à son auteur l'invention des droits effectifs, de la délibération ou de la théorie des capacités. L'approche d'Amartya Sen (*Development as Freedom*, 1999), celle de Martha C. Nussbaum (*Creating Capabilities*, 2011), les travaux d'Elinor Ostrom sur les institutions et les communs (*Governing the Commons*, 1990), ceux de Jürgen Habermas sur l'espace public (*L'Espace public*, éd. française, Payot, et *Droit et démocratie*, Gallimard, 1997), ainsi que les analyses de Pierre Rosanvallon sur la légitimité démocratique et la contre-démocratie (*La Contre-démocratie*, Seuil, 2006) constituent des **points de comparaison** plutôt que des validations automatiques. La relation conceptuelle exacte avec chacun de ces travaux doit être précisée au terme d'une lecture bibliographique approfondie.
 
 La critique de la société du spectacle par Guy Debord (*La Société du spectacle*, Buchet-Chastel, 1967) constitue une autre hypothèse intellectuelle : la visibilité d'un débat peut différer de la possibilité de participer à ses décisions. Elle ne dispense pas de démontrer une défaillance sur pièces, notamment lorsque certaines commissions ont effectivement répondu aux contributions.
 
-### 7. Sources à privilégier pour l'étape probatoire
+#### Sources à privilégier pour l'étape probatoire
 
 1. **Sources constitutionnelles** : Constitution du 4 novembre 1848, préambule IV ; Constitution du 27 octobre 1946, art. 2 et préambule ; Constitution de 1958, art. 1er, 2, 72 et 72-3. Transcriptions institutionnelles : [Élysée, Constitution de 1848](https://www.elysee.fr/la-presidence/la-constitution-du-4-novembre-1848) ; [Constitution de 1958](https://www.elysee.fr/la-presidence/la-constitution-de-la-cinquieme-republique).
 2. **Sources juridictionnelles** : Conseil constitutionnel, n° 71-44 DC du 16 juillet 1971 ; n° 73-51 DC du 27 décembre 1973 ; [n° 2018-717/718 QPC du 6 juillet 2018, §§ 7 à 10](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018). Le [commentaire institutionnel de 2018](https://qpc360.conseil-constitutionnel.fr/commentaire-decision-2018-717718-qpc) est un outil d'explication, non une décision juridictionnelle supplémentaire.
