@@ -1,0 +1,31 @@
+{
+  "schema": "living-book.magazine-item/v1",
+  "id": "village-2026-10-04-lancement-livre-vivant-mariani-village",
+  "source_book": "village",
+  "published_at": "2026-10-04",
+  "title": "Lancement du Livre Vivant Mariani Village : habitat autonome, séniors et Van life",
+  "summary": {
+    "short": "Mise en service du Livre Vivant village.acorsica.org documentant les modules autonomes DC-native, l'intégration des aînés et le réseau de haltes nomades.",
+    "medium": "# Lancement du Livre Vivant Mariani Village : habitat autonome, séniors et Van life  Le 4 octobre 2026, l'ensemble des travaux menés depuis 2018 autour de **Mariani Village** converge dans un Livre Vivant dédié accessible sur `village.acorsica.org`.  ## 1. Une trajectoire mûrie depuis le concours TROPH'énergies 2020  Récompensé en 2020 par l'AUE pour son concept novateur de résidence étudiante éco"
+  },
+  "topics": [
+    "mariani-village",
+    "habitat-autonome",
+    "seniors",
+    "van-life",
+    "dc-native"
+  ],
+  "epistemic_status": "established",
+  "canonical_ref": "https://village.acorsica.org/magazine/2026-10-04-lancement-livre-vivant-mariani-village.html",
+  "provenance": {
+    "author": "Jean Hugues Noël Robert, baron Mariani",
+    "affiliation": "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica",
+    "derived_from": []
+  },
+  "syndication": {
+    "syndicated_by": "commons",
+    "syndicated_at": "2026-10-05",
+    "contextual_note": "Mariani Village matérialise l'énergie solaire et l'habitat conteneurisé comme commun décentralisé et solidaire.",
+    "source_authority_preserved": true
+  }
+}

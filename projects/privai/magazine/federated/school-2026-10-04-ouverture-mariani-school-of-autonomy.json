@@ -1,0 +1,31 @@
+{
+  "schema": "living-book.magazine-item/v1",
+  "id": "school-2026-10-04-ouverture-mariani-school-of-autonomy",
+  "source_book": "school",
+  "published_at": "2026-10-04",
+  "title": "Ouverture de la Mariani School of Autonomy : former les praticiens de l'émancipation",
+  "summary": {
+    "short": "Mise en ligne du Livre Vivant school.acorsica.org dédié à la formation de coachs d'autonomie augmentée par IA et à la grammaire de l'Autonomie de Capacité.",
+    "medium": "# Ouverture de la Mariani School of Autonomy : former les praticiens de l'émancipation  Le 4 octobre 2026, la **Mariani School of Autonomy** ouvre sa vitrine éditoriale et de transmission sous la forme d'un Livre Vivant sur `school.acorsica.org`.  ## 1. Pourquoi une École de l'Autonomie ?  L'autonomie ne se décrète pas dans une loi ou un statut : elle s'apprend, se pratique, s'entretient et se déf"
+  },
+  "topics": [
+    "school-of-autonomy",
+    "autonomie-de-capacite",
+    "coaching-ia",
+    "kys",
+    "democratie-capable"
+  ],
+  "epistemic_status": "established",
+  "canonical_ref": "https://school.acorsica.org/magazine/2026-10-04-ouverture-mariani-school-of-autonomy.html",
+  "provenance": {
+    "author": "Jean Hugues Noël Robert, baron Mariani",
+    "affiliation": "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica",
+    "derived_from": []
+  },
+  "syndication": {
+    "syndicated_by": "privai",
+    "syndicated_at": "2026-10-05",
+    "contextual_note": "La formation des coachs d'autonomie capacitaire applique la frontière stricte d'Anti-Demos.",
+    "source_authority_preserved": true
+  }
+}
