@@ -137,3 +137,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ### Consolidation sémantique X — 22 octobre 2026
 
 [Commit a1ca05a](https://github.com/JeanHuguesRobert/barons-Mariani/commit/a1ca05a8ac1634d00bdaa4359adf5b344982d8f4) : fusion des passages répétés sur l'antériorité scientifique de l'effectivité (chapitre X). Réduction de **634 caractères** (13 525 → 12 891), en conservant l'originalité revendiquée limitée aux garanties du régime, les références OCDE/Commission de Venise et leur absence de force contraignante directe. Tableau des cinq hypothèses, objections et liens inchangés. **Audit ciblé seulement** : les autres répétitions et la collation bidirectionnelle intégrale restent ouvertes.
+
+
+### Fusion ciblée XI — 22 octobre 2026
+
+[Commit 21b6109](https://github.com/JeanHuguesRobert/barons-Mariani/commit/21b6109a5bfb53fb780aa679b69b4670fa439543) : suppression de la reprise de l'inventaire CGCT entre l'ouverture citoyenne et l'exposé détaillé ; articulation explicite sur la distinction normes produites/régime. Chapitre XI 12 746 → 12 117 caractères. Les clauses CGCT, la jurisprudence CEDH et la distinction entre amendement corse et contentieux sénatorial sont conservées dans le dossier spécialisé. **PASS ciblé des passages modifiés seulement ; audit intégral PENDING.**
