@@ -122,3 +122,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Consolidation XI — 22 octobre 2026
 
 [Commit c3a2c07](https://github.com/JeanHuguesRobert/barons-Mariani/commit/c3a2c07a9b21c13f01ef687e86e43520f4251a0f) : chapitre XI de la v2.2 réorganisé en une présentation continue, sans les deux intitulés de dossier redondants ; sous-sections A–E conservées avec leurs distinctions CGCT / article 72-5 / Cour EDH / contentieux électoral / recevabilité. 13 186 → 12 746 caractères. **Consolidation structurelle, pas dédoublonnage propositionnel exhaustif**. Aucune modification de v0.7.
+
+
+### Checkpoint supplémentaire, 22 octobre 2026 — chapitre VII
+
+[Commit 5c2343e](https://github.com/JeanHuguesRobert/barons-Mariani/commit/5c2343eec325398fea55e3fddf1db0f1a0dcfdef) : sur la consolidation v2.2, suppression de la méta-transition annonçant un dossier séparé ; requalification de l'analyse spécialisée en sous-sections directement intégrées au chapitre VII. **335 caractères de méta-texte supprimés**, corps probatoire conservé. Le contrôle de duplication argumentaire et la non-perte exhaustive restent **PARTIAL** ; n'affirmer ni fusion intégrale ni validation juridique finale.
