@@ -9,7 +9,7 @@ version: "0.4"
 status: working-paper
 license: "CC BY-SA 4.0"
 language: "fr"
-canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-candidat-qpc-integrales-2026-10-22.md"
 document_role: "source"
 document_kind: "judicial-supplement-draft"
 document_function: "mémoire complémentaire et pièces, document maître multiformat"
@@ -40,7 +40,7 @@ related_documents:
 
 # Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée
 
-**Compilation candidate du 22 octobre 2026. NE PAS ENVOYER.** Les deux mémoires QPC sont reproduits intégralement ici ; les annexes primaires P-xx et le recueil intégral des 46 courriels P-46 ne sont pas tous incorporés. Le contrôle d'intégralité du lot reste ouvert.
+<!-- #pragma META Statut de compilation, périmètre incomplet et consigne de non-transmission conservés dans le pilotage du document maître. -->
 
 ## Objet
 
@@ -445,7 +445,7 @@ Les notices candidates sont dans [le registre complémentaire](notes-provenance-
 
 # Dossier 2026-6589 SEN — Provenance et parcours de la déclaration vidéo P-13
 
-**Projet de travail v0.1 — non envoyé.** Paquet #132 sous umbrella #127. Rattachement : griefs G2 (consentement et handicap), G3 (office du TA) et G4 (complétude de la transmission).
+<!-- #pragma META Projet de travail v0.1 non envoyé; paquet #132 sous umbrella #127; rattachement G2, G3 et G4. -->
 
 ## Objet probatoire
 
@@ -637,6 +637,7 @@ La suite de demandes démontre que le requérant a **cherché de manière répé
 
 Ce constat illustre la [capture relationnelle par architecture de canal et l'asymétrie de commutation](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/tracabilite_symetrique_capture_relationnelle.md) : pour vérifier ce qu'une institution a transféré à une autre, la partie extérieure doit reconstruire elle-même un historique multi-canal, sans disposer des mêmes journaux de routage. Il s'agit d'une **lecture doctrinale distincte des faits prouvés**.
 
+<!-- #pragma META
 ## 6. Conditions de finalisation et de production
 
 1. Contrôler exhaustivité du périmètre et doublons par rapport à P-46 et au courrier initial, y compris CC et réponses entrantes.
@@ -645,6 +646,7 @@ Ce constat illustre la [capture relationnelle par architecture de canal et l'asy
 4. Établir une matrice message → question A/B/C → réponse réellement apportée / UNKNOWN ; distinguer silence dans le délai utile d'absence définitive de réponse.
 5. Générer le volume complet en conservant les références P-46, P-22 et P-29 et en explicitant l'ajout des sous-annexes nouvelles.
 6. Mettre à jour #131 ; préparer l'intégration #133 et la revue #134 ; **`filing_ready=false` jusqu'au contrôle des fichiers définitifs**.
+-->
 
 ### Fondement et portée des mesures d'instruction demandées
 
@@ -656,7 +658,7 @@ Cette faculté d'instruction est particulièrement pertinente pour les informati
 
 Le dossier comporte des réponses institutionnelles sur d'autres aspects et certaines réponses partielles ; le constat porte donc sur l'absence de communication des éléments précis ci-dessus et l'absence de réponse substantielle les établissant, non sur une absence absolue de tout échange. La demande d'instruction vise à obtenir ces sources ou, si elles n'existent plus ou ne sont pas disponibles, à faire préciser ce statut — sans inférer d'avance une omission, une dissimulation ou une faute.
 
-**Aucune transmission n'a été effectuée.**
+<!-- #pragma META Aucune transmission au Conseil ou au greffe n'a été effectuée à la date du checkpoint. -->
 
 ## 7. Contrôle complémentaire du 21 octobre 2026 — index, réponses et droit cité
 
@@ -672,13 +674,13 @@ Un relevé parallèle de P-20, donné dans un commentaire #131, décrit les page
 
 Contrôle indépendant de la copie 2601715 : l'inventaire de dépôt initial contient 16 entrées. La pièce PREF14 aux pages 97–98 est décrite comme un courriel de 14:14 sur les formulaires de mandataire ; ce n'est pas le courriel P-12 relatif à la vidéo. Ce constat porte sur l'inventaire contrôlé, et ne permet pas d'exclure une transmission complémentaire ni d'établir ce que la formation a examiné. Le PDF 2601714 a une structure différente et ne permet pas d'étendre l'observation de l'inventaire 2601715.
 
-Les neuf contrôles #127 restent inchangés : 1 PASS, 2 PASS, 3 UNKNOWN, 4 PASS, 5 UNKNOWN, 6 UNKNOWN, 7 UNKNOWN, 8 PASS, 9 PASS. Le contrôle de provenance RFC822 progresse pour cette série ; il ne lève pas les inconnues sur P-20, les transcriptions historiques P-17, la complétude globale des échanges ni le paquet final. `filing_ready=false`. Aucun envoi au greffe ou au Conseil.
+<!-- #pragma META Les neuf contrôles #127 restent inchangés : 1 PASS, 2 PASS, 3 UNKNOWN, 4 PASS, 5 UNKNOWN, 6 UNKNOWN, 7 UNKNOWN, 8 PASS, 9 PASS. Le contrôle de provenance RFC822 progresse pour cette série ; il ne lève pas les inconnues sur P-20, les transcriptions historiques P-17, la complétude globale des échanges ni le paquet final. filing_ready=false. Aucun envoi au greffe ou au Conseil. -->
 
 ### Notes complémentaires de provenance
 
-# Dossier 2026-6589 SEN — Notes de provenance, projet de travail v0.1
+<!-- #pragma META Titre de travail et statut de préparation des notes de provenance. -->
 
-**Statut : brouillon de préparation, non déposé ni envoyé.** Pilotage : #127 ; propriétaire de ce livrable : #131. Chaque note doit préciser le grief de la requête déjà déposée auquel elle se rattache. Les pièces natives sensibles ne sont **pas** reproduites dans ce fichier public.
+<!-- #pragma META Statut de préparation, propriétaire #131 et directives de rédaction de ces notes. -->
 
 ## Reprise du 21 octobre 2026
 
