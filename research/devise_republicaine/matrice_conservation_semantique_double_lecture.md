@@ -100,3 +100,10 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Checkpoint XII–XVI — 22 octobre 2026
 
 [Commit 9b551d7](https://github.com/JeanHuguesRobert/barons-Mariani/commit/9b551d7dc335ccbecc6497770a537765a0d7cb0e) : introductions lisibles par tout citoyen pour les cinq chapitres finaux, chacune raccordée à un **dossier technique original conservé intégralement hors titre**. Les deux populations parlementaires (Sénat 72/13 et AN 57/4/3/50) restent séparées ; le rapport sénatorial rejeté n'est pas déclaré dissimulé ; traçabilité des absences ≠ preuve de faute ; correction ≠ automaticité ; « prendre au mot » ≠ procès d'intention. Les ouvertures ajoutent une motivation désirable mais balisée par conditions de crédibilité. **Statut PARTIAL** : ce n'est pas une fusion finale ni une certification exhaustive de non-perte.
+
+
+## Première consolidation non destructive v2.1 — 22 octobre 2026
+
+[Manuscrit v2.1 de consolidation](histoire_devise_double_lecture_consolidation_v2_1.md) — [commit 0de19f9](https://github.com/JeanHuguesRobert/barons-Mariani/commit/0de19f9f5fe3c5f89efb0371eced7f75a83bbf4b). **Nouvelle copie** : l'atelier v2.0 et le draft original figé restent intacts. 16 chapitres maintenus et dossiers techniques préservés à ce stade ; titres spécialisés harmonisés ; nouvelle conclusion destinée aux deux lectorats, avec crédibilité, désirabilité, anti-présentisme, objections et limites. Métadonnées corrigées quant à l'existence de la revue Grok (celle-ci n'a pas évalué v2.1).
+
+**Contrôle de ce commit** : structure 16/16 et non-écrasement de l'ancien atelier ; non-perte intégrale **non certifiée**. Les doublons de contenu internes sont encore présents dans plusieurs chapitres parce qu'une suppression sans correspondance de propositions ferait courir un risque sémantique. Prochaine passe : segmentation propositionnelle des dossiers VII, IX–XVI ; fusion paragraphe par paragraphe ; comparaison bidirectionnelle et sources avant élimination effective des répétitions. Statut : **consolidation structurelle et conclusion PASS ciblé ; dédoublonnage sémantique PENDING**.
