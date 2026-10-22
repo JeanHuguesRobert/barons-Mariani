@@ -147,3 +147,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Consolidation sémantique XIII — 22 octobre 2026
 
 [Commit f903107](https://github.com/JeanHuguesRobert/barons-Mariani/commit/f90310766ff2b93afce83cd6137afe2ee9246087) : chapitre XIII fusionné en une narration unique (6 270 → 5 706 caractères). Restent : 5 mars 2025, mission initialement Buffet puis Josende, plus de 90 personnes auditionnées, déplacement corse, votes distincts sur recommandations/rapport/publication, présence du compte rendu public, divergences Parigi/Kerrouche et des groupes, regrets exprimés sur la non-publication, distinction 72/13 et refus de publication, trois étages d'ineffectivité présentés comme doctrine, portée limitée de la v0.7, aucune imputabilité malveillante présumée. **PASS ciblé**, pas validation exhaustive de toutes les interprétations ; contrôles de cohérence documentaire encore ouverts.
+
+
+## Checkpoint de reprise — 22 octobre 2026 (soir)
+
+Le manuscrit v2.2 courant contient déjà des consolidations supplémentaires sur X, XI et XIII. **Ne pas reprendre un état ancien en écrasant ces commits.** Reprise sur VII : titres de la transition vers la discussion spécialisée harmonisés au commit [c04452c](https://github.com/JeanHuguesRobert/barons-Mariani/commit/c04452ce2743331591a859343274fb46331bcd47). Tentatives d'une fusion textuelle plus importante bloquées à l'écriture : **aucune suppression de fond effectuée ou prétendue**. Reste à fusionner proprement les doubles introductions du VII, puis XIV–XVI, avec comparaison bidirectionnelle. La non-perte exhaustive reste non certifiée.
