@@ -48,15 +48,22 @@ class PrivateBundleTests(unittest.TestCase):
         self.assertFalse(output.exists())
         self.assertFalse(output.parent.exists())
 
-    def test_html_only_message_fails_closed(self):
+    def test_html_only_message_is_converted_without_loading_resources(self):
         m = EmailMessage()
         m["Subject"] = "HTML only"
-        m.set_content("<p>Text</p>", subtype="html")
+        m.set_content(
+            '<html><head><style>hidden_style</style></head><body>'
+            '<p>Texte &amp; preuve</p><ul><li>Élément un</li></ul>'
+            '<script>hidden_script</script><img src="https://example.invalid/pixel">'
+            '</body></html>', subtype="html")
         (self.sources / "P-46.01.eml").write_bytes(m.as_bytes())
-        output = self.root / "private-draft.txt"
-        with self.assertRaisesRegex(ValueError, "No text/plain body"):
-            p46.build(self.sources, output, [])
-        self.assertFalse(output.exists())
+        converted = p46.first_plain(p46.BytesParser(policy=p46.policy.default).parsebytes(
+            (self.sources / "P-46.01.eml").read_bytes()))
+        self.assertIn("Texte & preuve", converted)
+        self.assertIn("Élément un", converted)
+        self.assertNotIn("hidden_style", converted)
+        self.assertNotIn("hidden_script", converted)
+        self.assertNotIn("https://example.invalid/pixel", converted)
 
     def test_destination_inside_repository_is_rejected(self):
         repository = MODULE.resolve().parents[3]
