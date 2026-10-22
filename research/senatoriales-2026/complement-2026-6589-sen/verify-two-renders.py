@@ -26,10 +26,11 @@ def main():
     q2=body(a.qpc_l303)
     require(q1 in master, "QPC L.299 intégrale absente / version différente")
     require(q2 in master, "QPC L.303 intégrale absente / version différente")
-    require(master.count("## VIII ter. Index des 46 courriels") == 1, "Index P-46 manquant / dupliqué")
+    require(master.count("## VIII ter. Index vérifiable de P-46 (reproduction des métadonnées, pas des corps)") == 1,
+            "Index P-46 manquant / dupliqué")
     found=set(re.findall(r"\|\s*\*\*P-46\.(\d{2})\*\*",master))
     require(found == {f"{i:02}" for i in range(1,47)}, "46 identifiants P-46 incomplets")
-    require("P-46 a été matériellement communiqué dans sa totalité" in master,
+    require("ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau" in master,
             "Avertissement sur la non-production intégrale P-46 manquant")
     # Aucun rendu final tant que des instructions éditoriales subsistent.
     markers = ["## X. Contrôle avant émission — NON SATISFAIT",
