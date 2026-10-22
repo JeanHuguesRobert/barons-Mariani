@@ -2,6 +2,7 @@
 """Validation du texte maître CC : compilation stricte à deux rendus, sans émission."""
 import argparse
 import hashlib
+import importlib.util
 import os
 import re
 import shutil
@@ -54,12 +55,21 @@ def main():
     q2=body(a.qpc_l303)
     require(q1 in master, "QPC L.299 intégrale absente / version différente")
     require(q2 in master, "QPC L.303 intégrale absente / version différente")
+    processor = Path(__file__).with_name("preprocess-document.py")
+    spec = importlib.util.spec_from_file_location("document_processor", processor)
+    document_processor = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(document_processor)
+    def institutional_qpc_body(p):
+        projected = document_processor.transform(p, "institutional")
+        return re.sub(r"\A---\n[\s\S]*?\n---\n", "", projected, count=1).strip()
+    q1_projected = institutional_qpc_body(a.qpc_l299)
+    q2_projected = institutional_qpc_body(a.qpc_l303)
     require(master.count("## VIII ter. Index vérifiable de P-46 (reproduction des métadonnées, pas des corps)") == 1,
             "Index P-46 manquant / dupliqué")
     found=set(re.findall(r"\|\s*\*\*P-46\.(\d{2})\*\*",master))
     require(found == {f"{i:02}" for i in range(1,47)}, "46 identifiants P-46 incomplets")
-    require("ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau" in master,
-            "Avertissement sur la non-production intégrale P-46 manquant")
+    require("Ni cet index ni cette sélection ne constituent la reproduction intégrale des 46 messages annoncés au bordereau" in master,
+            "Limite documentaire sur la reproduction partielle de P-46 manquante")
     # Aucun rendu final tant que des instructions éditoriales subsistent.
     markers = ["## X. Contrôle avant émission — NON SATISFAIT",
                "NE PAS ENVOYER", "filing_ready=false"]
@@ -84,15 +94,14 @@ def main():
     pdftotext = shutil.which("pdftotext")
     require(pdftotext is not None, "pdftotext is required to inspect rendered PDF text")
 
-    processor = Path(__file__).with_name("preprocess-document.py")
     with tempfile.TemporaryDirectory(prefix="sen-2026-6589-projection-") as tmp:
         projection = Path(tmp) / "institutional-projection.md"
         subprocess.run([sys.executable,str(processor),str(a.master.resolve()),
                         "--target","institutional","--output",str(projection)],check=True)
         projected_text = projection.read_text(encoding="utf-8")
         require_no_internal_markers(projected_text,"institutional Markdown projection")
-        require(q1 in projected_text, "QPC L.299 missing from institutional projection")
-        require(q2 in projected_text, "QPC L.303 missing from institutional projection")
+        require(q1_projected in projected_text, "QPC L.299 missing from institutional projection")
+        require(q2_projected in projected_text, "QPC L.303 missing from institutional projection")
 
         subprocess.run([pandoc,str(projection),"-f","markdown+yaml_metadata_block","-t","plain",
                         "--wrap=auto","--columns=88","-o",str(txt)],check=True)

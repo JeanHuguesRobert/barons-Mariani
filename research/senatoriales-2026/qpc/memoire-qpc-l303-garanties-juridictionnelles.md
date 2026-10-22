@@ -67,7 +67,7 @@ Dans sa décision n° 2023-6281 SEN/QPC du 8 décembre 2023, le Conseil constitu
 
 **Applicabilité.** L'article L.303 est directement applicable : il a organisé la saisine du Tribunal administratif de Bastia et fixe la voie par laquelle son jugement peut ensuite être contesté.
 
-**Absence de conformité antérieure identifiée.** Aucune décision déclarant la seconde phrase de L.303 conforme, dans ses motifs et son dispositif, au regard du grief de recours effectif ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel.
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant la seconde phrase de L.303 conforme, dans ses motifs et son dispositif, au regard du grief de recours effectif ici soulevé n'a été identifiée dans les recherches effectuées. <!-- #pragma META Cette vérification doit être arrêtée définitivement au moment du gel. -->
 
 **Caractère sérieux.** La question porte sur une combinaison particulière : une décision d'exclusion rendue très rapidement, la fermeture de toute contestation utile pendant la période qui reste avant le scrutin, puis un contrôle seulement post-électoral après que l'atteinte est devenue irréversible.
 

@@ -77,7 +77,7 @@ Ces trois conditions sont ici examinées séparément.
 
 **Applicabilité.** L'article L.299 est directement applicable : les formalités du remplaçant prévues par ce texte sont au cœur du refus d'enregistrement de la candidature.
 
-**Absence de conformité antérieure identifiée.** Aucune décision déclarant L.299 conforme, dans ses motifs et son dispositif, au regard du grief ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel du mémoire.
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant L.299 conforme, dans ses motifs et son dispositif, au regard du grief ici soulevé n'a été identifiée dans les recherches effectuées. <!-- #pragma META Cette vérification doit être arrêtée définitivement au moment du gel du mémoire. -->
 
 **Caractère sérieux.** La question ne repose pas sur une difficulté abstraite. Elle confronte une restriction directe au droit d'éligibilité à l'existence d'une solution moins restrictive déjà admise par le Conseil d'État pour une formalité électorale fonctionnellement proche.
 

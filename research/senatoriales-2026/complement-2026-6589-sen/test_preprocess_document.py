@@ -71,14 +71,47 @@ class ProcessorTests(unittest.TestCase):
             "memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md",
             "memoire-qpc-l303-garanties-juridictionnelles.md",
         ):
-            qpc = (QPC_DIR / filename).read_text(encoding="utf-8")
+            qpc_path = QPC_DIR / filename
+            qpc = qpc_path.read_text(encoding="utf-8")
             qpc_body = re.sub(r"\A---\n[\s\S]*?\n---\n", "", qpc, count=1).strip()
-            self.assertIn(qpc_body, projected, filename)
+            self.assertIn(qpc_body, MASTER.read_text(encoding="utf-8"), filename)
+            projected_qpc = mod.transform(qpc_path, "institutional")
+            projected_qpc_body = re.sub(r"\A---\n[\s\S]*?\n---\n", "", projected_qpc, count=1).strip()
+            self.assertIn(projected_qpc_body, projected, filename)
         self.assertIn("L'intégrité de cette copie ne démontre ni sa réception", projected)
         self.assertNotIn("<!-- #pragma", projected)
         self.assertNotIn("NE PAS ENVOYER", projected)
         self.assertNotIn("filing_ready=false", projected)
         self.assertNotIn("Projet de travail v0.1", projected)
+
+    def test_institutional_projection_excludes_residual_editorial_blocks(self):
+        projected = mod.transform(MASTER, "institutional")
+        for internal_text in (
+            "Bloc prêt pour le texte maître",
+            "déclaration audiovisuelle contemporaine du 11 septembre 2026",
+            "Non-régression",
+            "Consentement ≠ conformité formelle",
+            "Message envoyé ≠ reçu avant échéance",
+            "Questions de clôture",
+            "Quel contenu exact le PDF initial déposé contient-il ?",
+            "Cette vérification doit être arrêtée définitivement au moment du gel",
+            "Avant une transmission, recalculer l'empreinte",
+            "avant gel du volume",
+            "Règle d'intégralité :",
+            "Règle de production :",
+            "Aucun envoi n'est autorisé ici",
+            "proposition de formulation pour la version institutionnelle",
+            "texte maître v0.4 prévoit",
+            "Sélection proposée : JOIN",
+            "l'intégration matérielle au PDF final",
+        ):
+            self.assertNotIn(internal_text, projected, internal_text)
+        self.assertIn("Ce nouvel acte documentaire ne prouve", projected)
+        self.assertIn("Notice P-46 — chaîne des communications", projected)
+        self.assertIn("Cette liste est une base d'acquisition, pas une déclaration d'exhaustivité définitive", projected)
+        self.assertIn("Ni cet index ni cette sélection ne constituent la reproduction intégrale", projected)
+        self.assertIn("La transcription facilite l'examen du contenu de P-13", projected)
+        self.assertIn("ne prouve ni la réception du message avant 18 h", projected)
 
 
 if __name__ == "__main__":

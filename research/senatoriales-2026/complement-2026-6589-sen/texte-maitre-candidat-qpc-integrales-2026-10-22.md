@@ -141,7 +141,7 @@ Ces trois conditions sont ici examinées séparément.
 
 **Applicabilité.** L'article L.299 est directement applicable : les formalités du remplaçant prévues par ce texte sont au cœur du refus d'enregistrement de la candidature.
 
-**Absence de conformité antérieure identifiée.** Aucune décision déclarant L.299 conforme, dans ses motifs et son dispositif, au regard du grief ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel du mémoire.
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant L.299 conforme, dans ses motifs et son dispositif, au regard du grief ici soulevé n'a été identifiée dans les recherches effectuées. <!-- #pragma META Cette vérification doit être arrêtée définitivement au moment du gel du mémoire. -->
 
 **Caractère sérieux.** La question ne repose pas sur une difficulté abstraite. Elle confronte une restriction directe au droit d'éligibilité à l'existence d'une solution moins restrictive déjà admise par le Conseil d'État pour une formalité électorale fonctionnellement proche.
 
@@ -280,7 +280,7 @@ Dans sa décision n° 2023-6281 SEN/QPC du 8 décembre 2023, le Conseil constitu
 
 **Applicabilité.** L'article L.303 est directement applicable : il a organisé la saisine du Tribunal administratif de Bastia et fixe la voie par laquelle son jugement peut ensuite être contesté.
 
-**Absence de conformité antérieure identifiée.** Aucune décision déclarant la seconde phrase de L.303 conforme, dans ses motifs et son dispositif, au regard du grief de recours effectif ici soulevé n'a été identifiée dans les recherches effectuées. Cette vérification doit être arrêtée définitivement au moment du gel.
+**Absence de conformité antérieure identifiée.** Aucune décision déclarant la seconde phrase de L.303 conforme, dans ses motifs et son dispositif, au regard du grief de recours effectif ici soulevé n'a été identifiée dans les recherches effectuées. <!-- #pragma META Cette vérification doit être arrêtée définitivement au moment du gel. -->
 
 **Caractère sérieux.** La question porte sur une combinaison particulière : une décision d'exclusion rendue très rapidement, la fermeture de toute contestation utile pendant la période qui reste avant le scrutin, puis un contrôle seulement post-électoral après que l'atteinte est devenue irréversible.
 
@@ -493,11 +493,11 @@ Les métadonnées sont des indications contenues dans le fichier ou fournies par
 
 Le décodage intégral audio/vidéo par FFmpeg s'achève avec un code de sortie 0 ; deux avertissements de DTS non strictement croissants apparaissent dans le flux de sortie de contrôle. Ce résultat documente la lisibilité technique, sans expertise d'authenticité ni conclusion sur la signification de ces avertissements.
 
-La copie locale vérifiée et le relevé technique restent privés. L'empreinte lie la présente notice au binaire conservé ; elle ne démontre pas les octets reçus par l'administration ou la juridiction. Avant une transmission, recalculer l'empreinte du fichier sélectionné et conserver l'accusé propre au canal réellement utilisé. Le [texte maître v0.4](texte-maitre-travail-v0.1.md) prévoit dans une version ancienne quatre fichiers TransfertPro ; le contrat actuel en prévoit six, dont le MP4 P-13 : la mention historique du « second fichier » ne décrit plus cette architecture. Aucun de ces fichiers n'est réputé envoyé.
+La copie locale vérifiée et le relevé technique restent privés. L'empreinte lie la présente notice au binaire conservé ; elle ne démontre pas les octets reçus par l'administration ou la juridiction. <!-- #pragma META Avant une transmission, recalculer l'empreinte du fichier sélectionné et conserver l'accusé propre au canal réellement utilisé. Le texte maître v0.4 prévoit dans une version ancienne quatre fichiers TransfertPro ; le contrat actuel en prévoit six, dont le MP4 P-13 : la mention historique du « second fichier » ne décrit plus cette architecture. --> Aucun de ces fichiers n'est réputé envoyé.
 
-## Texte préparé et transcription déjà consolidée
+## Transcription de la déclaration
 
-Le requérant précise dans la conversation du **21 octobre 2026** que le texte de cette déclaration a été dicté par l'assistant et qu'un document existant en donne une transcription fidèle. La [requête initiale, passage « Le contenu probatoire de la vidéo P-13 »](../requete-conseil-constitutionnel.md), contient déjà les trois interventions ci-dessous. La présente notice les reprend à l'identique, sans modifier la requête historique. L'origine assistée du texte est consignée sur déclaration du requérant ; la conversation préparatoire de septembre n'a pas été retrouvée dans cette passe.
+Le requérant a déclaré le **21 octobre 2026** que le texte de cette déclaration avait été dicté par l'assistant et qu'un document existant en donnait une transcription fidèle. La [requête initiale, passage « Le contenu probatoire de la vidéo P-13 »](../requete-conseil-constitutionnel.md), contient les trois interventions ci-dessous. L'origine assistée du texte est rapportée par le requérant ; la conversation préparatoire de septembre n'a pas été retrouvée.
 
 **Jean Hugues Noël Robert :**
 
@@ -513,7 +513,7 @@ Le requérant précise dans la conversation du **21 octobre 2026** que le texte 
 
 **Qualification :** transcription documentaire préexistante, signalée comme fidèle par le requérant ; aucune nouvelle transcription automatique ni écoute comparative indépendante n'est revendiquée. La préparation du texte et sa prononciation sont deux événements distincts. La notice est une pièce dérivée accompagnant le MP4, sans constituer un second original audiovisuel.
 
-**Sélection proposée : JOIN**, notice avec cette transcription dans le PDF consolidé du complément, et MP4 natif distinct identifié par la même empreinte. Rattachement inchangé à G2/G3/G4. La transcription facilite l'examen du contenu et conserve sa provenance ; elle ne prouve pas la réception avant 18 h, le versement au TA ou le visionnage par la formation. L'intégration matérielle au PDF final et la remise restent à réaliser avec #133/#134.
+La transcription facilite l'examen du contenu de P-13. Elle demeure un document dérivé du fichier audiovisuel et ne prouve ni la réception du message avant 18 h, ni le versement de la vidéo au TA, ni son visionnage par la formation.
 
 ## Accessibilité et chronologie : point central de la provenance
 
@@ -541,9 +541,6 @@ Ce nouvel acte documentaire ne prouve **ni** la réception de P-12 avant 18 heur
 ## Bloc prêt pour le texte maître
 
 « Le requérant communique une déclaration audiovisuelle contemporaine du 11 septembre 2026, comme preuve de la volonté et du consentement manifestés à cette date et non comme régularisation automatique d'une formalité légale. Le parcours de cette pièce entre son signalement à la préfecture et le jugement du Tribunal administratif demeure partiellement inconnu. Malgré des demandes répétées et circonscrites, les traces disponibles n'ont pas permis de déterminer de manière certaine sa réception avant la clôture, son éventuel versement complémentaire au dossier du Tribunal administratif ni son éventuel examen. Le requérant sollicite, dans la mesure utile à l'instruction des griefs déjà soulevés, la production des traces existantes de réception, de transmission et de mise à disposition. »
-
-<!-- #pragma META
--->
 
 ## Non-régression
 
@@ -589,7 +586,7 @@ Le rattachement d'une **pièce documentaire nouvelle** à une référence déjà
 
 ## 3. Série de courriels retrouvés et fonction probatoire
 
-Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période du 11 septembre au 7 octobre 2026, lecture des messages principaux) a permis de documenter les actes suivants. **Cette liste est une base d'acquisition, pas une déclaration d'exhaustivité définitive** : elle doit être réconciliée avec les 46 lignes P-46, les fils et les CC avant gel du volume. Heures en France métropolitaine (CEST) à vérifier sur les EML originaux. Les messages du 7 octobre sont les dernières demandes de correction factuelle, non des preuves de réponse. Leur inclusion jusqu'au dernier jour répond à la diligence du requérant : laisser à la préfecture et au TA la possibilité de répondre aux questions A/B/C et de rectifier les faits jusqu'à l'échéance. Sous réserve de confirmer la date de proclamation du scrutin au 27 septembre, l'article 33 de l'ordonnance organique n° 58-1067 fixe le terme au 7 octobre à 18 h ([texte en vigueur sur Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023882786)). E17 et E18, envoyés à 17:49:32 et 17:49:35, précèdent ce terme. Le défaut de réponse substantielle avant l'échéance doit être limité aux questions A/B/C : il ne signifie pas absence de tout échange institutionnel. Les communications postérieures à 18 h, dont la demande procédurale du greffe et la transmission de la requête, sont conservées à part comme suite de la chaîne, sans les présenter comme réponse aux questions ni comme prorogation du délai.
+Un contrôle direct de la boîte Gmail « Envoyés » (recherche sur la période du 11 septembre au 7 octobre 2026, lecture des messages principaux) a permis de documenter les actes suivants. **Cette liste est une base d'acquisition, pas une déclaration d'exhaustivité définitive.** <!-- #pragma META La liste doit être réconciliée avec les 46 lignes P-46, les fils et les CC avant gel du volume. --> Les heures sont indiquées en heure de France métropolitaine (CEST) ; les en-têtes RFC822 originaux permettent de contrôler les horodatages. Les messages du 7 octobre sont les dernières demandes de correction factuelle, non des preuves de réponse. Leur inclusion jusqu'au dernier jour répond à la diligence du requérant : laisser à la préfecture et au TA la possibilité de répondre aux questions A/B/C et de rectifier les faits jusqu'à l'échéance. Sous réserve de confirmer la date de proclamation du scrutin au 27 septembre, l'article 33 de l'ordonnance organique n° 58-1067 fixe le terme au 7 octobre à 18 h ([texte en vigueur sur Légifrance](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023882786)). E17 et E18, envoyés à 17:49:32 et 17:49:35, précèdent ce terme. Le défaut de réponse substantielle avant l'échéance doit être limité aux questions A/B/C : il ne signifie pas absence de tout échange institutionnel. Les communications postérieures à 18 h, dont la demande procédurale du greffe et la transmission de la requête, sont conservées à part comme suite de la chaîne, sans les présenter comme réponse aux questions ni comme prorogation du délai.
 
 | Date/heure CEST | Objet / fonction | Ancrage probatoire de la requête |
 |---|---|---|
@@ -625,9 +622,9 @@ Proposition **sans renumérotation de la requête initiale** :
 - **P-22-N1** : notice particulière sur la demande du 25 septembre de conservation/accès aux traces techniques ; renvoi vers les messages connexes.
 - **P-29-N1** : notice particulière sur la recherche d'inventaire du TA, la traçabilité des dépôts initiaux et l'interrogation sur d'éventuels compléments.
 
-**Règle d'intégralité :** conserver les originaux RFC822/EML et leurs pièces jointes en archive privée ; produire un volume paginé reprenant le texte complet de chaque message retenu, en indiquant clairement s'il s'agit d'une reproduction éditoriale ou du brut. Aucun texte ne doit être présenté comme un EML natif s'il a été reconstruit depuis les résultats d'une API ou depuis une citation imbriquée. Ne pas dupliquer les messages déjà référencés P-xx ; utiliser des références croisées.
+<!-- #pragma META **Règle d'intégralité :** conserver les originaux RFC822/EML et leurs pièces jointes en archive privée ; produire un volume paginé reprenant le texte complet de chaque message retenu, en indiquant clairement s'il s'agit d'une reproduction éditoriale ou du brut. Aucun texte ne doit être présenté comme un EML natif s'il a été reconstruit depuis les résultats d'une API ou depuis une citation imbriquée. Ne pas dupliquer les messages déjà référencés P-xx ; utiliser des références croisées. -->
 
-**Diffusion :** originaux potentiellement sensibles en espace privé, reproduction destinée au Conseil soumise à validation et au canal autorisé ; notice publique limitée aux métadonnées, au raisonnement et aux liens documentaires non sensibles. Aucun envoi n'est autorisé ici.
+<!-- #pragma META **Diffusion :** originaux potentiellement sensibles en espace privé, reproduction destinée au Conseil soumise à validation et au canal autorisé ; notice publique limitée aux métadonnées, au raisonnement et aux liens documentaires non sensibles. Aucun envoi n'est autorisé ici.
 
 **Transparence et vie privée — proposition de formulation pour la version institutionnelle, à valider avant toute production :**
 
@@ -739,17 +736,17 @@ Les données personnelles, les originaux d'attestations, les courriels de tiers,
 
 Le requérant a saisi la CADA le **22 octobre 2026 à 09 h 48 min 17 s CEST** pour avis sur la communicabilité des traces préfectorales relatives à la réception et au traitement du courriel P-12 du 11 septembre 2026 à 17 h 57 min 55 s, et à son lien vers la vidéo P-13 : circulation entre services, éventuelle transmission ou signalement au Tribunal administratif. La saisine comporte **14 courriels EML annexés**. Le secrétariat général de la CADA a accusé réception à **09 h 48 min 55 s CEST**. Une adresse secondaire en copie était non distribuable, sans affecter la réception par l'adresse principale. **Aucun avis sur le fond n'est encore connu**.
 
-Cette démarche est une recherche de preuves administratives **préexistantes** concernant les griefs G2/G3/G4 de la requête enregistrée ; elle ne crée pas de grief électoral nouveau. Elle ne prouve ni la réception de P-12 avant 18 heures ni le versement ou l'examen de P-13 par le TA. Le requérant appelle l'attention du Conseil constitutionnel sur cette démarche et sur l'utilité éventuelle de mesures d'instruction relatives à ces traces. Pour les détails et les réserves, voir la [notice P-13](parcours-video-p13-v0.1.md) et la [trace publique CADA](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/packets/2026/2026-10-22-cada-courriel-video-senatoriales.yaml). Les courriels annexés à la CADA ne sont pas réputés joints au présent mémoire.
+Cette démarche est une recherche de preuves administratives **préexistantes** concernant les griefs G2/G3/G4 de la requête enregistrée ; elle ne crée pas de grief électoral nouveau. Elle ne prouve ni la réception de P-12 avant 18 heures ni le versement ou l'examen de P-13 par le TA. Le requérant appelle l'attention du Conseil constitutionnel sur cette démarche et sur l'utilité éventuelle de mesures d'instruction relatives à ces traces. Pour les détails et les réserves, voir la [notice P-13](parcours-video-p13-v0.1.md) et la [trace publique CADA](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/packets/2026/2026-10-22-cada-courriel-video-senatoriales.yaml). Les courriels annexés à la CADA ne sont pas réputés joints au présent mémoire. -->
 
 ## VIII ter. Index vérifiable de P-46 (reproduction des métadonnées, pas des corps)
 
-**Avertissement documentaire :** les 46 entrées ci-dessous décrivent les messages et identifient leurs sources. Leurs corps et pièces jointes ne sont PAS reproduits ici ; ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau. Les messages originaux demeurent dans Gmail, avec les occultations à réaliser avant toute transmission. Ne pas prétendre que P-46 a été matériellement communiqué dans sa totalité.
+**Limite documentaire :** les 46 entrées ci-dessous décrivent les messages et identifient leurs sources ; leurs corps et pièces jointes ne sont pas reproduits dans cet index. L'annexe XI reproduit 30 messages sélectionnés. Ni cet index ni cette sélection ne constituent la reproduction intégrale des 46 messages annoncés au bordereau. La présence d'un message dans l'index ne démontre pas qu'il a été versé au Conseil constitutionnel.
 
 ## 3 bis. Sous-inventaire exhaustif P-46 — correspondance Préfecture / Tribunal administratif
 
 **Convention horaire de P-46 :** tous les horodatages du tableau sont normalisés en heure locale **Europe/Paris** à partir du champ temporel Gmail. En septembre et au début d'octobre 2026, il s'agit de CEST (UTC+2). Les en-têtes RFC822 bruts sont conservés dans les messages natifs et prévalent en cas de contrôle. Cette normalisation corrige un mélange antérieur entre UTC, fuseaux d'origine des messages et heure locale.
 
-**Règle de production :** chaque message ci-dessous doit figurer comme sous-pièce autonome dans le paquet final, avec ses en-têtes utiles, son corps intégral et la liste de ses pièces jointes. Les adresses privées de Maguy et Laurence sont occultées dans les copies produites ; les secrets techniques (mots de passe, liens signés, jetons) le sont également. Les messages natifs restent conservés comme sources.
+<!-- #pragma META **Règle de production :** chaque message ci-dessous doit figurer comme sous-pièce autonome dans le paquet final, avec ses en-têtes utiles, son corps intégral et la liste de ses pièces jointes. Les adresses privées de Maguy et Laurence sont occultées dans les copies produites ; les secrets techniques (mots de passe, liens signés, jetons) le sont également. Les messages natifs restent conservés comme sources. -->
 
 | Sous-pièce | Horodatage | Sens / interlocuteur | Objet | Contenu et effet procédural | Gmail ID |
 |---|---|---|---|---|---|
