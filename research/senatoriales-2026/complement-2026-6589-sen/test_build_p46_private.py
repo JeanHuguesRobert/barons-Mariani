@@ -11,6 +11,11 @@ spec = importlib.util.spec_from_file_location("p46_private", MODULE)
 p46 = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(p46)
 
+REDACTION_MODULE = Path(__file__).with_name("prepare-p46-redaction-review.py")
+redaction_spec = importlib.util.spec_from_file_location("p46_redaction_review", REDACTION_MODULE)
+p46_redaction = importlib.util.module_from_spec(redaction_spec)
+redaction_spec.loader.exec_module(p46_redaction)
+
 class PrivateBundleTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory()
@@ -76,6 +81,24 @@ class PrivateBundleTests(unittest.TestCase):
         with self.assertRaises(FileExistsError):
             p46.build(self.sources, output, [])
         self.assertEqual(output.read_text(encoding="utf-8"), "preserve this")
+
+    def test_preliminary_redaction_copy_masks_contact_details_and_filenames(self):
+        source = ("From: person@example.invalid\n"
+                  "Phone: +33 6 12 34 56 78\n"
+                  "Address: 12 rue Exemple\n"
+                  "Attachments (1): identity-card.pdf\n")
+        candidate, counts = p46_redaction.prepare(source)
+        self.assertEqual(counts, {
+            "email_address": 1,
+            "phone_candidate": 1,
+            "street_address_candidate": 1,
+            "attachment_filename_list": 1,
+        })
+        self.assertNotIn("person@example.invalid", candidate)
+        self.assertNotIn("+33 6 12 34 56 78", candidate)
+        self.assertNotIn("12 rue Exemple", candidate)
+        self.assertNotIn("identity-card.pdf", candidate)
+        self.assertIn("NON VALIDÉE POUR COMMUNICATION", candidate)
 
 if __name__ == "__main__":
     unittest.main()
