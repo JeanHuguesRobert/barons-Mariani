@@ -1,11 +1,10 @@
 ---
 title: "2026-6589 SEN — mémoire complémentaire unique au greffe"
-subtitle: "Document maître Markdown pour les rendus texte brut et PDF"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
-date: "2026-10-21"
-last_modified_at: "2026-10-21"
-version: "0.4"
+date: "2026-10-23"
+last_modified_at: "2026-10-23"
+version: "0.5"
 status: working-paper
 license: "CC BY-SA 4.0"
 language: "fr"
