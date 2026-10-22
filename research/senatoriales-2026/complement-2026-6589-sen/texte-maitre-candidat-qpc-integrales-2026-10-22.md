@@ -42,14 +42,6 @@ related_documents:
 
 **Compilation candidate du 22 octobre 2026. NE PAS ENVOYER.** Les deux mémoires QPC sont reproduits intégralement ici ; les annexes primaires P-xx et le recueil intégral des 46 courriels P-46 ne sont pas tous incorporés. Le contrôle d'intégralité du lot reste ouvert.
 
-## Contrat de source et de transmission — audit du 22 octobre 2026
-
-La source Markdown versionnée est unique ; seuls deux rendus en découlent : texte brut UTF-8 et PDF. URL canonique : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md .
-
-**Email** : corps en texte intégral, comprenant les deux QPC, et deux pièces jointes PDF autonomes QPC L.299 et L.303. **TransfertPro** : six fichiers : PDF consolidé, deux PDF QPC autonomes, deux saisines préfectorales du TA n° 2601714 et 2601715, et vidéo originale P-13.
-
-**Mention expresse :** aucune pièce mentionnée seulement par lien ou par résumé n'est présumée matériellement fournie. En particulier, le recueil intégral P-46 (46 courriels) et les reproductions fac-similé P-17/P-18/P-20 restent à vérifier avant gel. Ce texte est une *compilation candidate*, non un document prêt à envoyer ; `filing_ready=false`.
-
 ## Objet
 
 Dans le prolongement de la requête relative à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse, le requérant entend apporter les développements et éléments probatoires destinés à permettre l'examen au fond des griefs déjà soulevés. Le présent complément ne tend pas à introduire un grief électoral nouveau après expiration du délai de recours. Il expose, pour chaque développement, son lien avec un grief explicitement formulé dans la requête initiale.
@@ -812,21 +804,6 @@ P-46 doit être cité comme registre exhaustif de correspondance et non comme un
 Le requérant demande que les développements et pièces pertinents pour les griefs déjà introduits soient pris en considération, que les éventuelles mesures d'instruction nécessaires à l'établissement de la circulation des pièces soient ordonnées et que soient examinées les questions constitutionnelles dans les conditions de leur régime procédural propre.
 
 Il sollicite un examen juridictionnel effectif de son recours. La possibilité d'exercer, le cas échéant et sous réserve de leurs conditions de recevabilité, les voies de recours conventionnelles demeure préservée. Cette réserve ne prétend pas transformer tout rejet pour une raison de procédure en violation automatique d'un droit fondamental.
-
-## X. Contrôle avant émission — NON SATISFAIT
-
-- [ ] Comparer le PDF initial effectivement déposé avec la requête canonique et le relevé de ses pièces.
-- [ ] Insérer **en entier** les deux mémoires QPC, vérifier la condition de mémoires distincts et motivés.
-- [ ] Vérifier les deux QPC intégrales dans le PDF englobant et leur concordance de version avec les deux PDF autonomes.
-- [ ] Vérifier deux PDF QPC joints au courriel et six fichiers TransfertPro ; comparer les empreintes des deux PDF QPC communs et annoncer les fichiers.
-- [ ] Compléter le bordereau de provenance et minimiser les éléments personnels.
-- [ ] Vérifier le fichier vidéo natif, son intégrité, sa taille et le canal TransfertPro.
-- [ ] Effectuer revue adverse du texte complet ; repasser les tests 15–17 du cahier des charges.
-- [ ] Établir l'identité textuelle effective du corps du courriel et du premier fichier TransfertPro.
-- [ ] Obtenir une autorisation explicite du requérant avant tout envoi.
-- [ ] Après dépôt seulement, enregistrer accusés, horodatages, empreintes et états de réception séparément.
-
-Le présent fichier public de travail **n'est pas un document de dépôt**.+
 
 ## XI. Reproduction éditoriale des messages retenus — P-46-N1
 
@@ -5977,4 +5954,4 @@ jeanhuguesrobert@gmail.com
 
 **Renvois sans duplication :** P-46-N1.E01 → P-12 ; P-46-N1.R03 → P-30. Les cinq messages P-46.01/.02/.03/.04/.06 retrouvés dans les saisines préfectorales P-14 demeurent uniquement référencés aux pages indiquées plus haut et ne sont pas reproduits à nouveau dans cette annexe.
 
-**État :** annexe de travail intégrée au candidat. Les pièces jointes, l'exhaustivité globale, la concordance des fichiers finaux et la revue contradictoire restent à contrôler. `filing_ready=false` ; aucun dépôt ni envoi n'est attesté.
+
