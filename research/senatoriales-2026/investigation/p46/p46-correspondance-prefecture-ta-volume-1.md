@@ -26,7 +26,7 @@ Les dates affichées sont celles du bordereau normalisées en heure locale Europ
 ## P-46.01 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-10 17:01:56  
-**Gmail ID :** `1a08bd73bb174a75`  
+**Gmail ID :** `1a08bd73bb174a75`
 **Objet :** Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr  
@@ -108,7 +108,7 @@ Jean Hugues Noël Robert
 ## P-46.02 — De JHR → pref-elections@haute-corse.gouv.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-10 17:54:50  
-**Gmail ID :** `1a08c07a7fbb141b`  
+**Gmail ID :** `1a08c07a7fbb141b`
 **Objet :** Re: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** pref-elections@haute-corse.gouv.fr  
@@ -249,7 +249,7 @@ On Thu, 10 Sep 2026 17:01:56 +0200, "Jean Hugues Noël Robert"
 ## P-46.03 — pref-elections@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-10 17:56:53  
-**Gmail ID :** `1a08c0953c1f9ff2`  
+**Gmail ID :** `1a08c0953c1f9ff2`
 **Objet :** Auto: [INTERNET] Re: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -279,7 +279,7 @@ Le bureau des élections de la préfecture, vous remercie pour votre compréhens
 ## P-46.04 — "élections" pref-elections@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-10 20:05:04  
-**Gmail ID :** `1a08c7eb62cc13ec`  
+**Gmail ID :** `1a08c7eb62cc13ec`
 **Objet :** Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -470,7 +470,7 @@ Jean Hugues Noël Robert
 ## P-46.05 — De JHR → pref-elections@haute-corse.gouv.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-11 08:14:11  
-**Gmail ID :** `1a08f1a2d612bb08`  
+**Gmail ID :** `1a08f1a2d612bb08`
 **Objet :** Re: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** pref-elections@haute-corse.gouv.fr  
@@ -680,7 +680,7 @@ On Thu, 10 Sep 2026 20:05:04 +0200, "élections"
 ## P-46.06 — De JHR → pref-elections@haute-corse.gouv.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-11 14:14:39  
-**Gmail ID :** `1a0906430ac3adee`  
+**Gmail ID :** `1a0906430ac3adee`
 **Objet :** Re: Auto: [INTERNET] Re: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** pref-elections@haute-corse.gouv.fr  
@@ -736,7 +736,7 @@ On Thu, 10 Sep 2026 17:56:53 +0200, <pref-elections@haute-corse.gouv.fr> wrote:
 ## P-46.07 — Elections- JPC pref-elections@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-11 16:14:05  
-**Gmail ID :** `1a090d1926fe460b`  
+**Gmail ID :** `1a090d1926fe460b`
 **Objet :** Re: Re: Auto: Re: Élections sénatoriales 2026 – Jean Hugues Noël Robert (Baron Mariani) – demande de rendez-vous et transmission du dossier  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -855,7 +855,7 @@ Le bureau des élections de la préfecture, vous remercie pour votre compréhens
 ## P-46.08 — De JHR → pref-elections@haute-corse.gouv.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-11 17:57:55  
-**Gmail ID :** `1a0913095d550884`  
+**Gmail ID :** `1a0913095d550884`
 **Objet :** Élections sénatoriales 2026 – déclaration vidéo complémentaire  
 **De :**   
 **À :** pref-elections@haute-corse.gouv.fr  
@@ -890,7 +890,7 @@ Jean Hugues Noël Robert
 ## P-46.09 — nepasrepondre@mail.francetransfert.numerique.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-11 18:45:53  
-**Gmail ID :** `1a0915c87f89b632`  
+**Gmail ID :** `1a0915c87f89b632`
 **Objet :** [France transfert] pli reçu de romain.longinotti@juradm.fr : Tribunal administratif de Bastia - [Dossiers nos 2601714 & 2601715]Elections sénatoriales  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -966,7 +966,7 @@ Si le bouton ne fonctionne pas dans votre messagerie, utilisez le lien :
 ## P-46.10 — nepasrepondre@mail.francetransfert.numerique.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-11 18:45:53  
-**Gmail ID :** `1a0915c86f65c427`  
+**Gmail ID :** `1a0915c86f65c427`
 **Objet :** [France transfert] mot de passe du pli : Tribunal administratif de Bastia - [Dossiers nos 2601714 & 2601715]Elections sénatoriales  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -1039,7 +1039,7 @@ Date de validité :
 ## P-46.11 — De JHR → pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr; copie : greffe.ta-bastia@juradm.fr
 
 **Date locale normalisée :** 2026-09-14 14:09:17  
-**Gmail ID :** `1a09fd25895322fe`  
+**Gmail ID :** `1a09fd25895322fe`
 **Objet :** Élections sénatoriales 2026 – complétude du dossier TA et observations en défense  
 **De :**   
 **À :** pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr  
@@ -1134,7 +1134,7 @@ https://acorsica.org
 ## P-46.12 — prefecture@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-14 14:09:26  
-**Gmail ID :** `1a09fd28135eb8c3`  
+**Gmail ID :** `1a09fd28135eb8c3`
 **Objet :** Auto: [INTERNET] Élections sénatoriales 2026 – complétude du dossier TA et observations en défense  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -1179,7 +1179,7 @@ La préfecture, s’inscrivant dans une démarche qualité, vous répondra dans 
 ## P-46.13 — De JHR → greffe.ta-bastia@juradm.fr
 
 **Date locale normalisée :** 2026-09-14 15:48:32  
-**Gmail ID :** `1a0a02d3fbcb466c`  
+**Gmail ID :** `1a0a02d3fbcb466c`
 **Objet :** Note en délibéré – n° 2601714-1 et 2601715-1  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  
@@ -1234,7 +1234,7 @@ Bisous
 ## P-46.14 — De JHR → prefecture@haute-corse.gouv.fr; copie : PREF2B elections pref-elections@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-09-15 08:42:17  
-**Gmail ID :** `1a0a3cd5cd3dbea1`  
+**Gmail ID :** `1a0a3cd5cd3dbea1`
 **Objet :** Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** prefecture@haute-corse.gouv.fr  
@@ -1313,7 +1313,7 @@ Nom d’usage électoral : Baron Mariani
 ## P-46.15 — De JHR → greffe.ta-bastia@juradm.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-16 08:38:28  
-**Gmail ID :** `1a0a8f038b082d1e`  
+**Gmail ID :** `1a0a8f038b082d1e`
 **Objet :** TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  

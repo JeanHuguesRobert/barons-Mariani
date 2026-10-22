@@ -26,7 +26,7 @@ Les dates affichées sont celles du bordereau normalisées en heure locale Europ
 ## P-46.16 — De JHR → prefecture@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-16 08:39:16  
-**Gmail ID :** `1a0a8f0f46d9dfcd`  
+**Gmail ID :** `1a0a8f0f46d9dfcd`
 **Objet :** Re: Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** prefecture@haute-corse.gouv.fr  
@@ -145,7 +145,7 @@ On Tue, 15 Sep 2026 08:42:17 +0200, "Jean Hugues Noël Robert"
 ## P-46.17 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-16 08:47:23  
-**Gmail ID :** `1a0a8f8675a03073`  
+**Gmail ID :** `1a0a8f8675a03073`
 **Objet :** Élections sénatoriales 2026 – commission de propagande – modalités de remise des documents  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr  
@@ -183,7 +183,7 @@ Jean Hugues Robert
 ## P-46.18 — VIDAL Adrien adrien.vidal@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-16 08:52:29  
-**Gmail ID :** `1a0a8fd1bc26516e`  
+**Gmail ID :** `1a0a8fd1bc26516e`
 **Objet :** Re: Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -310,7 +310,7 @@ Nom d’usage électoral : Baron Mariani
 ## P-46.19 — Greffe TA de BASTIA greffe.ta-bastia@juradm.fr → JHR
 
 **Date locale normalisée :** 2026-09-16 17:05:59  
-**Gmail ID :** `1a0aac0e1cd83b86`  
+**Gmail ID :** `1a0aac0e1cd83b86`
 **Objet :** TR: élections sénatoriales TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** "jeanhuguesrobert@gmail.com" jeanhuguesrobert@gmail.com  
@@ -368,7 +368,7 @@ Jean Hugues Robert
 ## P-46.20 — VIDAL Adrien adrien.vidal@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-16 18:55:54  
-**Gmail ID :** `1a0ab2586d4a6a38`  
+**Gmail ID :** `1a0ab2586d4a6a38`
 **Objet :** Re: Élections sénatoriales 2026 – commission de propagande – modalités de remise des documents  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -450,7 +450,7 @@ Jean Hugues Robert
 ## P-46.21 — De JHR → adrien.vidal@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-17 10:06:10  
-**Gmail ID :** `1a0ae66e489eb964`  
+**Gmail ID :** `1a0ae66e489eb964`
 **Objet :** Re: Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** adrien.vidal@haute-corse.gouv.fr  
@@ -611,7 +611,7 @@ On Wed, 16 Sep 2026 08:52:29 +0200, VIDAL Adrien
 ## P-46.22 — De JHR → greffe.ta-bastia@juradm.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-17 10:34:09  
-**Gmail ID :** `1a0ae80852fdf421`  
+**Gmail ID :** `1a0ae80852fdf421`
 **Objet :** Re: TR: élections sénatoriales TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  
@@ -710,7 +710,7 @@ On Wed, 16 Sep 2026 15:05:59 +0000, Greffe TA de BASTIA
 ## P-46.23 — De JHR → greffe.ta-bastia@juradm.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-18 12:05:46  
-**Gmail ID :** `1a0b3fab74b356be`  
+**Gmail ID :** `1a0b3fab74b356be`
 **Objet :** Re: TR: élections sénatoriales TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  
@@ -831,7 +831,7 @@ On Thu, 17 Sep 2026 10:34:09 +0200, "Jean Hugues Noël Robert"
 ## P-46.24 — De JHR → adrien.vidal@haute-corse.gouv.fr; copie : prefecture@haute-corse.gouv.fr, pref-elections@haute-corse.gouv.fr, [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-18 14:59:59  
-**Gmail ID :** `1a0b49a3a0a6b4aa`  
+**Gmail ID :** `1a0b49a3a0a6b4aa`
 **Objet :** Re: Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** adrien.vidal@haute-corse.gouv.fr  
@@ -1011,7 +1011,7 @@ On Thu, 17 Sep 2026 10:06:10 +0200, "Jean Hugues Noël Robert"
 ## P-46.25 — pref-elections@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-18 15:00:21  
-**Gmail ID :** `1a0b49a8fb2d6165`  
+**Gmail ID :** `1a0b49a8fb2d6165`
 **Objet :** Auto: [INTERNET] Re: Élections sénatoriales 2026 – vérification d’un point factuel relatif à la saisine du TA  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -1041,7 +1041,7 @@ Le bureau des élections de la préfecture, vous remercie pour votre compréhens
 ## P-46.26 — Greffe TA de BASTIA greffe.ta-bastia@juradm.fr → JHR
 
 **Date locale normalisée :** 2026-09-18 15:30:46  
-**Gmail ID :** `1a0b4b6699f2f2e0`  
+**Gmail ID :** `1a0b4b6699f2f2e0`
 **Objet :** RE: TR: élections sénatoriales TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -1165,7 +1165,7 @@ On Wed, 16 Sep 2026 15:05:59 +0000, Greffe TA de BASTIA <greffe.ta-bastia@juradm
 ## P-46.27 — De JHR → Greffe TA de BASTIA greffe.ta-bastia@juradm.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-18 18:41:39  
-**Gmail ID :** `1a0b5658906efa72`  
+**Gmail ID :** `1a0b5658906efa72`
 **Objet :** Re: TR: élections sénatoriales TA Bastia – n° 2601714-1 et 2601715-1 – demande de communication et vérifications matérielles  
 **De :**   
 **À :** Greffe TA de BASTIA greffe.ta-bastia@juradm.fr  
@@ -1389,7 +1389,7 @@ On Wed, 16 Sep 2026 15:05:59 +0000, Greffe TA de BASTIA <greffe.ta-bastia@juradm
 ## P-46.28 — De JHR → Greffe TA de BASTIA greffe.ta-bastia@juradm.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-18 22:00:01  
-**Gmail ID :** `1a0b61ad62ac45a1`  
+**Gmail ID :** `1a0b61ad62ac45a1`
 **Objet :** TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre  
 **De :**   
 **À :** Greffe TA de BASTIA greffe.ta-bastia@juradm.fr  
@@ -1440,7 +1440,7 @@ Jean Hugues Robert
 ## P-46.29 — Greffe TA de BASTIA greffe.ta-bastia@juradm.fr → JHR
 
 **Date locale normalisée :** 2026-09-21 18:04:28  
-**Gmail ID :** `1a0c4b6353e64219`  
+**Gmail ID :** `1a0c4b6353e64219`
 **Objet :** RE: TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -1512,7 +1512,7 @@ Jean Hugues Robert
 ## P-46.30 — De JHR → greffe.ta-bastia@juradm.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-25 16:50:46  
-**Gmail ID :** `1a0d90c299ec4899`  
+**Gmail ID :** `1a0d90c299ec4899`
 **Objet :** RE: TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  

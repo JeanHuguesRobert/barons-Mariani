@@ -16,9 +16,17 @@ def main():
     ap.add_argument("--qpc-l299", type=Path, required=True)
     ap.add_argument("--qpc-l303", type=Path, required=True)
     ap.add_argument("--output", type=Path, required=True)
+    ap.add_argument("--pdf-engine", default="typst",
+                    help="Pandoc PDF engine (default: typst)")
+    ap.add_argument("--typst-header", type=Path,
+                    default=Path(__file__).with_name("typst-pagination-header.typ"),
+                    help="Typst header that makes long table figures breakable")
     ap.add_argument("--preview", action="store_true", help="Produce non-filing draft TXT/PDF even while review blockers remain")
     a = ap.parse_args()
     master=a.master.read_text(encoding="utf-8")
+    content=re.sub(r"\A---\n[\s\S]*?\n---\n", "", master, count=1)
+    require(not re.search(r"(?m)^---\n(?:title|author|authors):",content),
+            "frontmatter d'un document incorporé : risque d'écraser les métadonnées du maître")
     def body(p):
         t=p.read_text(encoding="utf-8")
         return re.sub(r"\A---\n[\s\S]*?\n---\n", "", t).strip()
@@ -26,10 +34,11 @@ def main():
     q2=body(a.qpc_l303)
     require(q1 in master, "QPC L.299 intégrale absente / version différente")
     require(q2 in master, "QPC L.303 intégrale absente / version différente")
-    require(master.count("## VIII ter. Index des 46 courriels") == 1, "Index P-46 manquant / dupliqué")
+    require(master.count("## VIII ter. Index vérifiable de P-46 (reproduction des métadonnées, pas des corps)") == 1,
+            "Index P-46 manquant / dupliqué")
     found=set(re.findall(r"\|\s*\*\*P-46\.(\d{2})\*\*",master))
     require(found == {f"{i:02}" for i in range(1,47)}, "46 identifiants P-46 incomplets")
-    require("P-46 a été matériellement communiqué dans sa totalité" in master,
+    require("ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau" in master,
             "Avertissement sur la non-production intégrale P-46 manquant")
     # Aucun rendu final tant que des instructions éditoriales subsistent.
     markers = ["## X. Contrôle avant émission — NON SATISFAIT",
@@ -47,7 +56,13 @@ def main():
     pdf=a.output/"memoire-complementaire.pdf"
     subprocess.run(["pandoc",str(a.master),"-f","markdown+yaml_metadata_block","-t","plain",
                     "--wrap=auto","--columns=88","-o",str(txt)],check=True)
-    subprocess.run(["pandoc",str(a.master),"-f","markdown+yaml_metadata_block","-o",str(pdf)],check=True)
+    pdf_command=["pandoc",str(a.master),"-f","markdown+yaml_metadata_block",
+                 "--pdf-engine",a.pdf_engine]
+    if a.pdf_engine == "typst":
+        require(a.typst_header.is_file(), "en-tête Typst de pagination absent")
+        pdf_command.extend(["--include-in-header",str(a.typst_header)])
+    pdf_command.extend(["-o",str(pdf)])
+    subprocess.run(pdf_command,check=True)
     for p in [txt,pdf]:
         print(p,p.stat().st_size,hashlib.sha256(p.read_bytes()).hexdigest())
 
