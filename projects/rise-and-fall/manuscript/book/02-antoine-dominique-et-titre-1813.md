@@ -46,6 +46,14 @@ Ce titre relève du **royaume de Westphalie**, gouverné par **Jérôme Bonapart
 
 Le royaume s'effondre en octobre **1813**. Cette date marque **la fin du royaume**, et ne saurait être convertie sans preuve en date de création du titre. La scène d'un décret signé dans la débâcle, et l'explication d'un prétendu défaut d'enregistrement par la disparition de l'administration, ne sont pas établies et sont retirées du récit factuel.
 
+### Le royaume qui disparaît, et le silence de son journal officiel
+
+Créé en **1807**, le royaume de Westphalie était un État napoléonien confié à **Jérôme Bonaparte**, avec **Cassel** pour capitale. Sa constitution, son administration et ses lois combinaient l'ambition de réformer les institutions allemandes et les contraintes politiques, fiscales et militaires de l'Empire français. Éprouvé par la campagne de Russie puis par la guerre de 1813, il connaît une occupation temporaire de Cassel à la fin de septembre, un bref retour du roi en octobre et l'abandon définitif de la capitale à la fin de ce mois. La chute du royaume ne date donc pas, à elle seule, une concession individuelle de titre.
+
+Jean Hugues Noël Robert indique avoir **consulté personnellement le journal officiel du royaume**, qui publiait notamment des attributions de titres, **sans y retrouver de concession au nom de Mariani**. Il observe également que cette publication s'interrompt peu avant la chute du royaume. Il s'agit d'un **résultat négatif rapporté par le chercheur** : les tomes exacts et la dernière livraison consultée restent à inventorier, et le silence du périodique ne prouve pas qu'aucun acte royal n'ait existé ailleurs.
+
+Cette lacune doit rester visible dans le Livre Vivant : le titre est documenté par ses usages postérieurs, tandis que son acte initial, son calendrier précis et ses conditions demeurent inconnus. [Dossier critique : chaîne de preuves du titre](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/genealogy/title_baron_mariani_evidence_chain.md).
+
 **Question ouverte :** retrouver dans les archives de Cassel, les bulletins westphaliens et la correspondance de Jérôme l'acte daté de concession, ainsi que ses conditions de transmission. Les usages postérieurs du titre sont documentés indépendamment de cette lacune.
 
 ---
