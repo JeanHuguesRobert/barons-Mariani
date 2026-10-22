@@ -4,7 +4,7 @@ subtitle: "De la Révolution française à la proposition d'amendement Baron Mar
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-last_modified_at: "2026-10-21"
+last_modified_at: "2026-10-22"
 license: "CC BY-SA 4.0"
 language: fr
 version: "2.4-whole-manuscript-consolidation-working"
@@ -913,6 +913,9 @@ Ces deux questions sont complémentaires. **Une République désirable n'est pas
 **Contrôles bibliographiques complémentaires du 21 octobre 2026.** L'édition des *Archives parlementaires* sur Persée confirme l'intitulé « Discours non prononcé » et les pages 238–250 ; le texte de la Constitution du 4 novembre 1848 reproduit par l'Élysée confirme le préambule IV (devise), le préambule VIII (obligations de la République) et l'article 6 (interdiction de l'esclavage). Paris Musées attribue la datation **1878** à la médaille intitulée « Fête de la réconciliation, 14 juillet 1880 » : il ne s'agit pas d'une preuve d'un acte administratif général pris en 1880. Les sites du Conseil d'État confirment l'existence et les dates des études *Le droit souple* (2013) et *Simplification et qualité du droit* (2016). La Commission de Venise atteste une liste de contrôle sur l'État de droit initiale de 2016, **actualisée en décembre 2025**, approuvée en mai 2026 par deux organes du Conseil de l'Europe ; il faut citer son statut d'outil méthodologique, non d'autorité normative française contraignante. Les sources doivent rester distinguées selon leurs statuts (texte historique, notice de collection, recommandation, disposition en vigueur).
 
 ## Revue interne de recevabilité scientifique — contrôle pré-draft du 21 octobre 2026
+
+**Note de chronologie des revues (22 octobre 2026).** Cette section conserve, à titre de trace datée, le constat de la *revue interne initiale* : lorsque ce contrôle a été rédigé, aucune revue externe n'avait encore été reçue. **Depuis lors**, le rapport [Grok, revue critique du draft v1.2](reviews/review-histoire_devise_effectivite_autonomie.md) a été reçu et archivé, et ses [dispositions Redactor](reviews/redactor_dispositions_grok_2026-10-21.md) ont été établies. Grok déclare une indépendance partielle, non une revue académique par les pairs ; surtout, **il n'a pas évalué la présente version v2.4**. Les assertions rétrospectives de la section ci-dessous se lisent donc à leur date d'origine, pas comme un état actuel du dossier.
+
 
 **Nature et indépendance du contrôle.** Relecture critique interne par l'assistant ayant participé à la rédaction, à partir des sources disponibles au 21 octobre 2026. **Ce n'est pas une expertise indépendante ni une revue par les pairs.** Le contrôle vise à éliminer les erreurs évitables et à circonscrire honnêtement les assertions dont la vérification reste partielle. Les modifications de contenu demeurent soumises à l'arbitrage humain.
 
