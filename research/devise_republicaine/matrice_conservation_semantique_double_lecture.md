@@ -127,3 +127,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ### Checkpoint supplémentaire, 22 octobre 2026 — chapitre VII
 
 [Commit 5c2343e](https://github.com/JeanHuguesRobert/barons-Mariani/commit/5c2343eec325398fea55e3fddf1db0f1a0dcfdef) : sur la consolidation v2.2, suppression de la méta-transition annonçant un dossier séparé ; requalification de l'analyse spécialisée en sous-sections directement intégrées au chapitre VII. **335 caractères de méta-texte supprimés**, corps probatoire conservé. Le contrôle de duplication argumentaire et la non-perte exhaustive restent **PARTIAL** ; n'affirmer ni fusion intégrale ni validation juridique finale.
+
+
+## Consolidation ciblée XII — 22 octobre 2026
+
+[Commit a68ea18](https://github.com/JeanHuguesRobert/barons-Mariani/commit/a68ea18a79cb7375b2deadd6aaa7de848934e146) : au chapitre XII du manuscrit v2.2, unification de l'entrée citoyenne et des preuves parlementaires, suppression de deux métatitres, réduction des répétitions des décomptes et correction du renvoi erroné « chapitre XIV » vers le **chapitre XIII** (rapport non publié). Conservation ciblée vérifiée des décomptes 72/13 et 57/4/3/50, des périodes distinctes, de leurs attributions, des dispositions CGCT, de l'impossibilité de qualifier automatiquement 50 illégalités et des limites de v0.7. **PARTIAL** : contrôle complet des références externes et des propositions non exécuté.
