@@ -8,6 +8,7 @@ from __future__ import annotations
 import argparse
 from email import policy
 from email.parser import BytesParser
+from html.parser import HTMLParser
 from pathlib import Path
 import re
 
@@ -22,14 +23,62 @@ def redact(text: str, additional: list[str]) -> str:
                   r"\1" + PRIVATE_TAGS[1], text)
     return text
 
+class PlainTextFromHtml(HTMLParser):
+    """Convert HTML-only email bodies to inert text without fetching resources."""
+    BLOCKS = {"address", "article", "blockquote", "br", "dd", "div", "dl", "dt",
+              "h1", "h2", "h3", "h4", "h5", "h6", "hr", "li", "ol", "p",
+              "pre", "section", "table", "td", "th", "tr", "ul"}
+
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts = []
+        self.suppressed = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in {"script", "style", "head"}:
+            self.suppressed += 1
+        elif not self.suppressed and tag in self.BLOCKS:
+            self.parts.append("\n")
+            if tag == "li":
+                self.parts.append("• ")
+
+    def handle_endtag(self, tag):
+        if tag in {"script", "style", "head"} and self.suppressed:
+            self.suppressed -= 1
+        elif not self.suppressed and tag in self.BLOCKS:
+            self.parts.append("\n")
+
+    def handle_data(self, data):
+        if not self.suppressed:
+            self.parts.append(data)
+
+
+def html_to_text(source: str) -> str:
+    parser = PlainTextFromHtml()
+    parser.feed(source)
+    parser.close()
+    text = "".join(parser.parts)
+    text = re.sub(r"[ \t\v\f]+", " ", text)
+    text = re.sub(r" *\n *", "\n", text)
+    text = re.sub(r"\n{3,}", "\n\n", text).strip()
+    if not text:
+        raise ValueError("HTML body converted to empty text")
+    return text
+
+
 def first_plain(msg):
     if msg.is_multipart():
         for part in msg.walk():
             if part.get_content_type() == "text/plain" and part.get_content_disposition() != "attachment":
                 return part.get_content()
-        raise ValueError("No text/plain body: requires controlled HTML conversion")
+        for part in msg.walk():
+            if part.get_content_type() == "text/html" and part.get_content_disposition() != "attachment":
+                return html_to_text(part.get_content())
+        raise ValueError("No readable text/plain or text/html body")
     if msg.get_content_type() != "text/plain":
-        raise ValueError("No text/plain body")
+        if msg.get_content_type() == "text/html":
+            return html_to_text(msg.get_content())
+        raise ValueError("No readable text/plain or text/html body")
     return msg.get_content()
 
 def build(directory: Path, destinations: Path, substitutions: list[str]) -> None:
