@@ -453,8 +453,6 @@ La contribution v0.7 reste un **amendement citoyen**, ni adopté ni présumé d�
 
 Une administration peut publier la liste des décisions qu'elle a prises. C'est utile. Mais que sait-on des demandes jamais déposées faute d'information, des démarches abandonnées ou des possibilités ouvertes par la loi que personne n'a pu employer ? **Examiner ce qui a été produit et examiner comment une procédure fonctionne ne sont pas la même opération.**
 
-Cette question ne constitue pas une découverte théorique de notre étude. Les juristes, les sociologues du droit et les spécialistes de l'action publique examinent depuis longtemps la différence entre règles écrites et effets vécus. L'OCDE recommande notamment de mesurer les effets des réglementations après leur entrée en vigueur, y compris leurs coûts et conséquences imprévues. La Commission de Venise propose, de son côté, des questions exigeantes sur l'État de droit. **Ces références éclairent notre démarche ; elles ne rendent pas notre amendement juridiquement obligatoire.**
-
 ### Un ajout minuscule peut-il changer ce qu'il faut observer ?
 
 Le projet d'article 72-5 prévoit déjà un contrôle et une évaluation des **normes adoptées** dans le nouveau régime d'habilitation. L'amendement v0.7 attire aussi l'attention sur **le fonctionnement du régime** : les conditions d'accès, les possibilités non utilisées, les obstacles éventuels et les effets de l'ensemble. Il demande que cette évaluation soit publique et périodique et que la loi organique détermine des garanties d'effectivité.
@@ -473,7 +471,7 @@ Mais la transparence peut elle aussi devenir un théâtre : des chiffres flatteu
 
 #### Tradition de recherche et distinctions juridiques
 
-Le vocabulaire de l'« effectivité » n'est ni une nouveauté de 2026 ni une notion doctrinale propre à cette recherche. Le problème de la distance entre règle écrite, conduite des institutions et expérience des destinataires traverse la théorie du droit, la sociologie juridique, les études de mise en œuvre et l'évaluation des politiques publiques. Une proposition originale ne saurait donc consister à remarquer cette distance. Elle devrait plutôt **articuler, dans un régime institutionnel défini, une obligation de garanties et une obligation publique d'évaluer les conditions réelles d'accès et les effets**, au-delà de la seule évaluation des normes produites.
+L'exigence d'**effectivité** n'est pas une invention de 2026 : théorie du droit, sociologie juridique, études de mise en œuvre et évaluation publique examinent depuis longtemps l'écart entre normes, conduites institutionnelles et vie des destinataires. L'apport revendiqué ici est plus précis : articuler, **dans un régime défini**, des garanties d'accès et une obligation d'évaluer publiquement les conditions réelles d'exercice et les effets, sans se limiter aux normes produites. Les références OCDE et Commission de Venise ci-dessous **éclairent cette approche sans imposer notre amendement en droit français**.
 
 La comparaison exige de ne pas confondre deux corpus : le **contrôle juridique**, dans lequel un juge qualifie un manquement à une norme opposable, et l'**évaluation empirique**, dans laquelle une enquête cherche les effets, les causalités et les conséquences inattendues d'une politique. La publicité et la périodicité de l'évaluation améliorent la possibilité de discussion et de correction ; elles ne rendent pas automatiquement chaque résultat justiciable.
 
