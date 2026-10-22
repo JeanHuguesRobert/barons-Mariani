@@ -166,3 +166,10 @@ Le manuscrit v2.2 courant contient déjà des consolidations supplémentaires su
 ## Fusion chapitre XI — 22 octobre 2026
 
 [Commit 9b0447c](https://github.com/JeanHuguesRobert/barons-Mariani/commit/9b0447c3e5325485a00519ac241d60f246ec9c1a) : unification des introductions civiques sur le droit existant, les refus légitimes et la CEDH avec conservation du **corps juridique**, de la comparaison littérale CGCT / projet 72-5, du tableau, des arrêts européens, des distinctions avec le contentieux sénatorial, des conditions de recevabilité et des réserves. Chapitre XI : **12 117 → 11 315 caractères**. Suppressions ciblées : phrases de cadrage redites, remplacées par un fil narratif unique. **Non-perte démontrée sur ces thèmes majeurs seulement** : audit propositionnel complet et vérifications des sources restent à accomplir.
+
+
+## Bilan de la passe globale — 22 octobre 2026
+
+- [Consolidation v2.5](histoire_devise_double_lecture_consolidation_v2_5.md), commit [b239d90](https://github.com/JeanHuguesRobert/barons-Mariani/commit/b239d905056a5eb20508145aec800593673ad8e7) : les 16 chapitres et la conclusion demeurent présents, les séquences littérales `\\n` et méta-transitions redondantes sont corrigées. C'est une **hygiène de fusion**, pas la disparition de tous les recoupements narratifs.
+- [Audit final de cette passe](audit_final_consolidation_v2_5.md), commit [3088a12](https://github.com/JeanHuguesRobert/barons-Mariani/commit/3088a12a10e1f67afd9ec2666147f66081068661) : huit chemins internes du Corpus résolus ; invariants historiques et juridiques repérés ; frontières des sources et de l'amendement v0.7 maintenues ; limites publiées.
+- **Gate éditorial** : rédaction de première passe et cohérence Markdown achevées. **Gate probatoire** : collation sémantique exhaustive, vérification individuelle des sources externes, CLI Cogentia et revue indépendante de la v2.5 **NON certifiés**. Ne pas marquer PASS par simple couverture de chapitres.
