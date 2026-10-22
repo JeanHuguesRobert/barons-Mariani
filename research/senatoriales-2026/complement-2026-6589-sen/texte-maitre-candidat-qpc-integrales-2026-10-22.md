@@ -706,6 +706,12 @@ Les données personnelles, les originaux d'attestations, les courriels de tiers,
 3. Pour toute pièce nouvelle : quelle partie identifiable de G1–G5 justifie son versement ?
 4. La note ajoute-t-elle une preuve utile ou répète-t-elle une pièce déjà lisible ? Appliquer Occam/FBF.
 
+### Actualisation P-13 — saisine CADA du 22 octobre 2026
+
+Le requérant a saisi la CADA le **22 octobre 2026 à 09 h 48 min 17 s CEST** pour avis sur la communicabilité des traces préfectorales relatives à la réception et au traitement du courriel P-12 du 11 septembre 2026 à 17 h 57 min 55 s, et à son lien vers la vidéo P-13 : circulation entre services, éventuelle transmission ou signalement au Tribunal administratif. La saisine comporte **14 courriels EML annexés**. Le secrétariat général de la CADA a accusé réception à **09 h 48 min 55 s CEST**. Une adresse secondaire en copie était non distribuable, sans affecter la réception par l'adresse principale. **Aucun avis sur le fond n'est encore connu**.
+
+Cette démarche est une recherche de preuves administratives **préexistantes** concernant les griefs G2/G3/G4 de la requête enregistrée ; elle ne crée pas de grief électoral nouveau. Elle ne prouve ni la réception de P-12 avant 18 heures ni le versement ou l'examen de P-13 par le TA. Le requérant appelle l'attention du Conseil constitutionnel sur cette démarche et sur l'utilité éventuelle de mesures d'instruction relatives à ces traces. Pour les détails et les réserves, voir la [notice P-13](parcours-video-p13-v0.1.md) et la [trace publique CADA](https://github.com/JeanHuguesRobert/cogentia/blob/main/interaction_packets/packets/2026/2026-10-22-cada-courriel-video-senatoriales.yaml). Les courriels annexés à la CADA ne sont pas réputés joints au présent mémoire.
+
 ## VIII ter. Index vérifiable de P-46 (reproduction des métadonnées, pas des corps)
 
 **Avertissement documentaire :** les 46 entrées ci-dessous décrivent les messages et identifient leurs sources. Leurs corps et pièces jointes ne sont PAS reproduits ici ; ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau. Les messages originaux demeurent dans Gmail, avec les occultations à réaliser avant toute transmission. Ne pas prétendre que P-46 a été matériellement communiqué dans sa totalité.
