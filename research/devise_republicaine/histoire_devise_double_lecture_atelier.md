@@ -615,7 +615,17 @@ Il faut établir un tableau probatoire pour le dossier sénatorial : décision d
 
 Ce détour conventionnel éclaire la maxime selon laquelle une loi doit être confrontée à ses effets : l'effectivité est une notion déjà présente dans les garanties européennes, notamment dans le domaine du recours et des élections. Mais il faut distinguer la **garantie juridictionnelle d'un droit reconnu**, l'**efficacité d'une politique** et la **finalité constitutionnelle nouvelle proposée** pour la Corse. Ces trois plans se renforcent parfois sans se confondre. Notre amendement tente une institutionnalisation limitée de l'observation des effets du régime ; son éventuelle efficacité future et sa valeur juridique exacte demeurent à éprouver.
 
-## XII. Les deux diagnostics parlementaires d'ineffectivité : faits, périmètres et portée
+## XII. Deux enquêtes, deux populations : que révèlent les demandes restées sans suite ?
+
+Un chiffre peut impressionner et pourtant induire en erreur si l'on ne sait pas ce qu'il compte. Au Sénat, le **5 mars 2025**, Lauriane Josende fait état de **72 demandes**, dont **13 ont entraîné une évolution normative**. À l'Assemblée nationale, un rapport du **3 juin 2026** recense **57 saisines**, avec **quatre suites favorables**, **trois rejets explicites** et **cinquante autres sans réponse gouvernementale explicite**. Ce sont des enquêtes différentes : **on ne doit ni additionner leurs chiffres ni assimiler leurs catégories**.
+
+Pour un citoyen, la question n'est pas de conclure que cinquante ou cinquante-neuf personnes ont nécessairement été lésées. Elle est plus simple et plus difficile : *comment savoir si une proposition a été examinée, pourquoi elle a abouti ou non et ce que l'institution en a appris ?* Un refus peut être fondé ; un silence peut résulter de situations distinctes ; une évolution normative ne garantit pas un effet bénéfique.
+
+**Ce qui serait désirable** est une institution capable d'expliquer son parcours de décision, sans promettre d'adopter toutes les demandes. **Ce qui est crédible** exige les dates, les catégories, les textes applicables et la distinction entre absence de suite connue et illégalité démontrée. Les sources et les limites de ces deux diagnostics suivent dans le dossier spécialisé.
+
+### Seconde lecture — dossier critique et justificatifs
+
+### Dossier technique du chapitre XII
 
 ### Deux investigations à citer, non à fusionner
 
@@ -643,7 +653,17 @@ Le silence constitue une **trace négative** qui doit être caractérisée et co
 
 **Muriel Jourda**, rapporteure sur le projet constitutionnel en octobre 2026, a abordé publiquement les questions d'adaptation normative, de contrôle et de loi organique ; [l'entretien de Corse Net Infos du 15 octobre](https://app.corsenetinfos.corsica/fil-dactu/i/98394740/autonomie-la-presidente-de-la-commission-des-lois-du-senat-auditionne-les-elus-corses) distingue ses propos des analyses de la journaliste. **Aucun soutien de sa part à la v0.7 n'est établi**, et les chiffres de 2025 sont attribués à Lauriane Josende. Le vote de la commission du 5 mars 2025 et ses effets documentaires sont analysés séparément au chapitre XIV.
 
-## XIII. L'échec de publication du rapport sénatorial comme fait institutionnel autonome
+## XIII. Un rapport peut-il disparaître du débat sans disparaître de l'histoire ?
+
+Une commission parlementaire peut auditionner de nombreuses personnes, examiner des recommandations, puis refuser d'adopter ou de publier le rapport qui en résulte. Cela ne prouve pas que ses membres cherchent à cacher la vérité. Mais cela change **ce qui devient accessible au public**, et donc ce que les citoyens peuvent discuter.
+
+En **mars 2025**, le compte rendu de la commission des lois du Sénat rapporte des votes défavorables aux recommandations, à l'adoption et à l'autorisation de publication du rapport présenté par Lauriane Josende. **Le compte rendu, lui, existe** : le dossier n'est donc pas totalement invisible. Il serait abusif de prêter à la commission une intention collective de dissimulation ; il serait également réducteur d'effacer la perte documentaire créée par la non-publication du rapport.
+
+Une République **désirable** laisse place au désaccord sans réduire la mémoire du désaccord à la seule décision finale. Une enquête **crédible** décrit le statut exact du rapport, les votes et les raisons exprimées, sans confondre rejet institutionnel, erreur factuelle et faute. Le dossier qui suit reconstruit les étapes et les positions disponibles.
+
+### Seconde lecture — dossier critique et justificatifs
+
+### Dossier technique du chapitre XIII
 
 Le compte rendu **du 5 mars 2025** de la commission des lois du Sénat permet de dépasser la simple mention « rapport non adopté ». La mission d'information engagée en 2024, initialement sous l'autorité de François-Noël Buffet et poursuivie par Lauriane Josende, avait auditionné **plus de 90 personnes** et conduit un déplacement en Corse. Au terme de l'examen, **Muriel Jourda, présidente de la commission**, met successivement aux voix les recommandations, l'autorisation de publication et le rapport : **les recommandations ne sont pas adoptées ; le rapport n'est pas adopté et sa publication n'est pas autorisée**. Il en résulte une distinction essentielle entre le **compte rendu public de la discussion**, qui demeure consultable, et un **rapport d'information autorisé à la publication**, qui n'a pas vu le jour.
 
@@ -665,7 +685,17 @@ Cette construction est une **interprétation de l'auteur**, testable sur des fai
 
 Pour l'argumentaire public, la formulation rigoureuse est donc : **« La mission du Sénat a documenté l'ineffectivité du mécanisme ; la commission a débattu de ce diagnostic, puis refusé l'adoption et la publication du rapport, pour des divergences politiques et méthodologiques expressément exposées. Le rapport de l'Assemblée nationale a ensuite, de son côté, rendu public un bilan convergent. »** Cette séquence étaye l'urgence de mécanismes publics d'évaluation sans prouver que chaque institution ou chaque élu voulait « mettre le problème sous le tapis ».
 
-## XIV. Traçabilité des actes et Stabilisateur procédural : conserver la preuve des capacités et de leurs empêchements
+## XIV. Conserver les traces, y compris quand rien ne semble s'être passé
+
+Imaginons une association qui envoie une proposition. Elle peut garder la preuve de son envoi ; la destinataire peut en confirmer la réception ; une commission peut l'examiner ; une décision peut suivre, ou non. **Chacune de ces étapes est différente**. En ne conservant que les décisions finales, on perd la possibilité de comprendre où les démarches s'arrêtent.
+
+La **Traçabilité des actes**, proposée dans notre Corpus, consiste à relier les événements datés, leurs auteurs, leurs canaux et leurs pièces. Elle préserve aussi des *traces négatives* : une réponse attendue mais non retrouvée, un document annoncé mais inaccessible, une procédure ouverte mais apparemment non utilisée. Attention : **une absence de trace n'est pas la preuve qu'aucun acte n'a eu lieu**, encore moins celle d'une intention malveillante.
+
+Ce qui pourrait être **désirable**, c'est qu'un citoyen n'ait pas à recommencer indéfiniment son histoire pour faire reconnaître une démarche. Ce qui doit être **crédible**, c'est la provenance des données, leur intégrité, la protection des personnes et la possibilité pour l'institution de contredire ou compléter le registre. Le **Stabilisateur procédural** désigne ici une méthode proposée, pas une administration ou une obligation de droit positif déjà créée.
+
+### Seconde lecture — dossier critique et justificatifs
+
+### Dossier technique du chapitre XIV
 
 ### 1. Pourquoi l'effectivité réclame une mémoire institutionnelle
 
@@ -720,7 +750,17 @@ Cette application peut se résumer ainsi : **l'absence d'effet observable doit p
 
 Un lecteur ignorant totalement le Corpus doit pouvoir retrouver dans le présent chapitre : **le problème** (des droits ou des facultés sans suites visibles), **la notion** (traces d'actes et traces négatives), **la méthode** (relier compétence, demande, réception, examen, décision, effet et correction), **la précaution** (ni silence = faute, ni traçabilité = légitimité), **la portée de la proposition** (évaluation publique et périodique du régime), et **la source** (les documents doctrinaux identifiés ci-dessus). Les hyperliens permettent de vérifier et d'approfondir ; leur ouverture n'est pas nécessaire pour comprendre l'argument.
 
-## XV. De la traçabilité à la correction : chaîne institutionnelle et tests de complétude
+## XV. Savoir ne suffit pas : comment rendre la correction possible ?
+
+Une évaluation peut montrer qu'une procédure est peu utilisée, coûteuse ou inaccessible. Faut-il alors la modifier ? **Pas nécessairement** : il faut d'abord comprendre les raisons, entendre les parties concernées, vérifier les compétences et regarder les effets de toute correction envisagée. Le problème n'est donc pas seulement de produire des rapports, mais de rendre possibles des suites explicites et discutables.
+
+Le Parlement possède déjà, en vertu des **articles 24 et 47-2 de la Constitution**, des fonctions et instruments d'évaluation, auxquels contribue notamment la Cour des comptes. Notre proposition ne prétend pas les inventer. Elle demande que le futur régime d'habilitation corse soit également examiné **comme régime**, notamment lorsqu'il n'engendre pas de normes nouvelles.
+
+Une institution **désirable** peut reconnaître qu'un choix ne fonctionne pas sans devoir prétendre qu'il n'a jamais été fait. Une institution **crédible** rend publiques ses méthodes, distingue le constat d'une cause et ne promet pas de correction automatique. Le juge veille aux obligations juridiques dans son office ; les responsables démocratiques décident des politiques dans le leur. L'amendement v0.7 ne prescrit pas un calendrier général de réparation.
+
+### Seconde lecture — dossier critique et justificatifs
+
+### Dossier technique du chapitre XV
 
 ### 1. L'obligation d'évaluer existe déjà : la difficulté porte sur ses suites
 
@@ -777,7 +817,17 @@ L'originalité recherchée n'est donc pas un **droit constitutionnel abstrait au
 
 Le présent chapitre expose sans prérequis la différence entre traçabilité, réponse, évaluation et correction ; il relie chacune à un mécanisme concret, à une source institutionnelle et à une objection. Les références internes servent à approfondir les fondements doctrinaux, non à fournir une définition indispensable absente du manuscrit. Avant revue, la consolidation éditoriale devra néanmoins vérifier l'ensemble des chapitres pour supprimer les répétitions, harmoniser la numérotation, vérifier les références exactes et réunir la bibliographie. L'autoportance locale de ce chapitre ne vaut donc pas certification de l'autoportance **globale** du texte.
 
-## XVI. « Prendre au mot » la Constitution : confrontations entre la lettre et les effets
+## XVI. Prendre la République au mot, sans lui prêter ce qu'elle n'a pas dit
+
+Lorsque la République déclare une liberté, une égalité ou un principe de fraternité, nous pouvons lui poser une question simple : *qui peut effectivement agir grâce à ces mots ?* C'est ce que notre méthode appelle **« prendre au mot »** : retrouver l'énoncé exact, identifier qui en répond, observer le réel, qualifier l'écart et chercher des améliorations vérifiables.
+
+Ce n'est pas une technique de procès d'intention. Si une promesse n'est pas tenue, il faut distinguer le texte qui oblige, le discours qui engage politiquement, le manque de preuve, l'obstacle réel et le refus justifié. **L'égalité ne commande pas que toute demande soit acceptée ; la liberté comprend le droit de ne pas saisir une possibilité ; la fraternité ne doit pas devenir une dépendance imposée.**
+
+Le but **désirable** est une République qui peut entendre une contradiction et apprendre d'une expérience. Le minimum **crédible** consiste à ne jamais confondre le droit existant, la doctrine proposée et l'effet déjà constaté. Les confrontations détaillées qui suivent sont des tests : elles n'autorisent pas à conclure d'avance que notre amendement est nécessaire, suffisant ou constitutionnellement irréprochable.
+
+### Seconde lecture — dossier critique et justificatifs
+
+### Dossier technique du chapitre XVI
 
 ### 1. Méthode : une lecture exigeante, non une citation à charge
 
