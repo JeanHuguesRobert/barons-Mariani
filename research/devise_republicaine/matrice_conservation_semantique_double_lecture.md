@@ -42,8 +42,8 @@ review:
 | VII | terrain fécond, indivisibilité/différenciation, subsidiarité, méthode, tests et critères | VII : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
 | VIII | preuve historique, types de sources, premières occurrences, 1848/1880, droit/statut des traces | VIII, narration + six niveaux de preuve, 1790/1793/1848/1880/1946–58/2018, trois erreurs et sources | PASS ciblé ; collation exhaustive à finaliser (commit 1d0c86b) |
 | IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
-| X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X, intact provisoirement | PENDING ; I-1 load-bearing |
-| XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI, intact provisoirement | PENDING |
+| X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
+| XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
 | XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII, intact provisoirement | PENDING |
 | XIII | rapport sénatorial non publié, débats divergents, non-imputation d'intention | XIII, intact provisoirement | PENDING |
 | XIV | Traçabilité des actes, trace négative, provenance, imputation prudente, stabilisateur | XIV, intact provisoirement | PENDING |
@@ -90,3 +90,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Checkpoint VII et IX — 22 octobre 2026
 
 [Commit dbbe0d3](https://github.com/JeanHuguesRobert/barons-Mariani/commit/dbbe0d35740887dac35832b9933f3e4ca8e55734) : deux lectures publiques ajoutées en tête des chapitres VII et IX, suivies des anciens développements techniques **préservés à l'identique dans leur corps** et requalifiés comme dossiers spécialistes. Conservation de contenu forte à ce stade, mais **risque de répétitions éditoriales**, de titres imbriqués et de transitions non harmonisées. Ne pas classer PASS avant une collation suivie et un dédoublonnage qui ne supprime aucune proposition.
+
+
+## Checkpoint X–XI — 22 octobre 2026
+
+[Commit 1d6e7b2](https://github.com/JeanHuguesRobert/barons-Mariani/commit/1d6e7b2dc99d386ed3d0d0565252e66311b9480c) : nouvelle première lecture des chapitres X et XI, suivie des **dossiers techniques préexistants conservés verbatim hors intitulé**. X explicite le contraste normes produites / fonctionnement du régime, état de l'art OCDE et Commission de Venise, limites de justiciabilité, risque d'évaluation bureaucratique. XI rétablit l'existant CGCT et distingue nettement proposition constitutionnelle et contentieux électoral conventionnel. **Attention :** l'état PARTIAL reflète les redondances de l'assemblage, l'absence de collation de toutes les propositions, les liens externes non recontrôlés. Amendement v0.7 inchangé.
