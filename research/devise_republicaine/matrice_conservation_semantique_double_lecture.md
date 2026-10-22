@@ -44,11 +44,11 @@ review:
 | IX | DDHC art 16, garanties et effectivité, droit positif/opérationnalisation | IX : récit public nouveau + dossier technique antérieur conservé | PARTIAL : insertion à double lecture, dédoublonnage et collation restant à faire |
 | X | état de l'art et objection de redondance, amendement vs dispositifs existants, justiciabilité | X : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
 | XI | CGCT, droit corse et CEDH / protocole électoral, limites | XI : exposition civique ajoutée + dossier technique antérieur intégral conservé | PARTIAL : non-perte technique par conservation, dédoublonnage et contrôle bidirectionnel encore nécessaires |
-| XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII, intact provisoirement | PENDING |
-| XIII | rapport sénatorial non publié, débats divergents, non-imputation d'intention | XIII, intact provisoirement | PENDING |
-| XIV | Traçabilité des actes, trace négative, provenance, imputation prudente, stabilisateur | XIV, intact provisoirement | PENDING |
-| XV | correction, chaîne institutionnelle, test de complétude, évaluation et ses coûts | XV, intact provisoirement | PENDING |
-| XVI | prendre au mot constitution, confrontations exhaustives lettre/effets, questions et réserves | XVI, intact provisoirement | PENDING : chapitre le plus volumineux |
+| XII | Sénat 72/13, AN 57/4/3/50, périmètres non additionnables, faits non illégalités | XII : lecture citoyenne ajoutée + dossier technique antérieur conservé | PARTIAL : conservation de texte, mais audit à deux sens, fusion et dédoublonnage restent nécessaires |
+| XIII | rapport sénatorial non publié, débats divergents, non-imputation d'intention | XIII : lecture citoyenne ajoutée + dossier technique antérieur conservé | PARTIAL : conservation de texte, mais audit à deux sens, fusion et dédoublonnage restent nécessaires |
+| XIV | Traçabilité des actes, trace négative, provenance, imputation prudente, stabilisateur | XIV : lecture citoyenne ajoutée + dossier technique antérieur conservé | PARTIAL : conservation de texte, mais audit à deux sens, fusion et dédoublonnage restent nécessaires |
+| XV | correction, chaîne institutionnelle, test de complétude, évaluation et ses coûts | XV : lecture citoyenne ajoutée + dossier technique antérieur conservé | PARTIAL : conservation de texte, mais audit à deux sens, fusion et dédoublonnage restent nécessaires |
+| XVI | prendre au mot constitution, confrontations exhaustives lettre/effets, questions et réserves | XVI : lecture citoyenne ajoutée + dossier technique antérieur conservé | PARTIAL : conservation de texte, mais audit à deux sens, fusion et dédoublonnage restent nécessaires |
 | Conclusion/sources/revue interne | conclusion bornée, bibliographie, limites, 6 objections; Grok 3 nouvelles + 4 angles morts | conclusion et annexes inchangées provisoirement | PENDING |
 
 ## Nouveau → ancien : contrôle des innovations introduites par la réécriture
@@ -95,3 +95,8 @@ La transformation finale ne peut être dite « sans perte sémantique » qu'apr�
 ## Checkpoint X–XI — 22 octobre 2026
 
 [Commit 1d6e7b2](https://github.com/JeanHuguesRobert/barons-Mariani/commit/1d6e7b2dc99d386ed3d0d0565252e66311b9480c) : nouvelle première lecture des chapitres X et XI, suivie des **dossiers techniques préexistants conservés verbatim hors intitulé**. X explicite le contraste normes produites / fonctionnement du régime, état de l'art OCDE et Commission de Venise, limites de justiciabilité, risque d'évaluation bureaucratique. XI rétablit l'existant CGCT et distingue nettement proposition constitutionnelle et contentieux électoral conventionnel. **Attention :** l'état PARTIAL reflète les redondances de l'assemblage, l'absence de collation de toutes les propositions, les liens externes non recontrôlés. Amendement v0.7 inchangé.
+
+
+## Checkpoint XII–XVI — 22 octobre 2026
+
+[Commit 9b551d7](https://github.com/JeanHuguesRobert/barons-Mariani/commit/9b551d7dc335ccbecc6497770a537765a0d7cb0e) : introductions lisibles par tout citoyen pour les cinq chapitres finaux, chacune raccordée à un **dossier technique original conservé intégralement hors titre**. Les deux populations parlementaires (Sénat 72/13 et AN 57/4/3/50) restent séparées ; le rapport sénatorial rejeté n'est pas déclaré dissimulé ; traçabilité des absences ≠ preuve de faute ; correction ≠ automaticité ; « prendre au mot » ≠ procès d'intention. Les ouvertures ajoutent une motivation désirable mais balisée par conditions de crédibilité. **Statut PARTIAL** : ce n'est pas une fusion finale ni une certification exhaustive de non-perte.
