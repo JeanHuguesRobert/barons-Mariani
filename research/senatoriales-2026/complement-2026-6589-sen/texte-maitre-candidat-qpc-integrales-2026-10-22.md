@@ -442,7 +442,7 @@ Les notices candidates sont dans [le registre complémentaire](notes-provenance-
 ### Notice P-13 — provenance et parcours
 
 
-# Dossier 2026-6589 SEN — Provenance et parcours de la déclaration vidéo P-13
+<!-- #pragma META Source intégrée : Dossier 2026-6589 SEN — Provenance et parcours de la déclaration vidéo P-13 -->
 
 <!-- #pragma META Projet de travail v0.1 non envoyé; paquet #132 sous umbrella #127; rattachement G2, G3 et G4. -->
 
@@ -537,9 +537,13 @@ Ce nouvel acte documentaire ne prouve **ni** la réception de P-12 avant 18 heur
 
 **Portée pour le Conseil constitutionnel :** il peut être utile de signaler cette saisine comme nouvelle démarche visant à identifier des **documents administratifs préexistants**, sans préjuger de la communicabilité de chaque catégorie de document ni de la réponse de la CADA. Il reste loisible au requérant de solliciter du Conseil, dans le cadre des griefs initialement formés, les mesures d'instruction qu'il estimera utiles sur la réception, la circulation et la communication de P-12/P-13.
 
+<!-- #pragma META
 ## Bloc prêt pour le texte maître
 
 « Le requérant communique une déclaration audiovisuelle contemporaine du 11 septembre 2026, comme preuve de la volonté et du consentement manifestés à cette date et non comme régularisation automatique d'une formalité légale. Le parcours de cette pièce entre son signalement à la préfecture et le jugement du Tribunal administratif demeure partiellement inconnu. Malgré des demandes répétées et circonscrites, les traces disponibles n'ont pas permis de déterminer de manière certaine sa réception avant la clôture, son éventuel versement complémentaire au dossier du Tribunal administratif ni son éventuel examen. Le requérant sollicite, dans la mesure utile à l'instruction des griefs déjà soulevés, la production des traces existantes de réception, de transmission et de mise à disposition. »
+
+<!-- #pragma META
+-->
 
 ## Non-régression
 
@@ -548,6 +552,7 @@ Ce nouvel acte documentaire ne prouve **ni** la réception de P-12 avant 18 heur
 - Note en délibéré lue ≠ vidéo visionnée.
 - Réponse non retrouvée ≠ refus intentionnel.
 - Pièce obtenue après la clôture ≠ régularisation rétroactive.
+-->
 
 ### Notice P-46 — chaîne des communications, états de réception et inconnues
 
@@ -721,12 +726,14 @@ Un classement « noyau probatoire intégré » au bordereau historique n'est pas
 
 Les données personnelles, les originaux d'attestations, les courriels de tiers, en-têtes techniques contenant des secrets et autres justificatifs privés ne doivent pas entrer automatiquement dans GitHub. L'intégration éventuelle au dossier destiné au Conseil dépend de leur nécessité, de leur minimisation et de la validation du texte final.
 
+<!-- #pragma META
 ## Questions de clôture
 
 1. Quel contenu exact le PDF initial déposé contient-il ? Référence : #115.
 2. Quelles pièces sont citées, reproduites dans le PDF, ou effectivement déposées comme binaires ? Ces trois états ne sont pas équivalents.
 3. Pour toute pièce nouvelle : quelle partie identifiable de G1–G5 justifie son versement ?
 4. La note ajoute-t-elle une preuve utile ou répète-t-elle une pièce déjà lisible ? Appliquer Occam/FBF.
+-->
 
 ### Actualisation P-13 — saisine CADA du 22 octobre 2026
 
