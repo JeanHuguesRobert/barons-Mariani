@@ -30,16 +30,16 @@ La chronologie ne remplace aucune pièce primaire.
 | ~17:02:59 | Premier DSN d'échec de livraison | P-04 / DSN natif | ÉTABLI | Message trop volumineux. |
 | ~17:03:34 | Deuxième DSN d'échec | P-04 / DSN natif | ÉTABLI | Même motif technique. |
 | ~17:04:35 | Troisième DSN d'échec | P-04 / DSN natif | ÉTABLI | Même motif technique. |
-| 17:54:50 | Retransmission allégée après rejet du premier envoi | P-04 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Reconstitue la transmission technique. |
-| 17:56:53 | Accusé automatique du Bureau des élections | P-05 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Réception électronique de la retransmission. |
+| 17:54:50 | Retransmission allégée après rejet du premier envoi | P-04 — Gmail 1a08c07a7fbb141b | ÉTABLI | Reconstitue la transmission technique. |
+| 17:56:53 | Accusé automatique du Bureau des élections | P-05 — Gmail 1a08c0953c1f9ff2 | ÉTABLI | Réception électronique de la retransmission. |
 | 12:38:31 CEST | **P-43.a — courriel « Autorisation » de Laurence Vernerey du 10 septembre 2026** | Gmail 1a08ae5f35fd72f0 ; en-tête 10:38:31 UTC | ÉTABLI | Autorisation expresse d'utiliser sa signature sur le CERFA ; consentement à l'intervention matérielle du tiers. |
-| 20:05:04 | Réponse du Bureau des élections, notamment sur les originaux CERFA | P-06 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Établit au moins une demande écrite d'originaux avant déplacement. |
+| 20:05:04 | Réponse du Bureau des élections, notamment sur les originaux CERFA | P-06 — Gmail 1a08c7eb62cc13ec | ÉTABLI | Établit au moins une demande écrite d'originaux avant déplacement. |
 
 ## 11 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 08:14:11 | Réponse du candidat annonçant son déplacement vers Bastia | P-07 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Horaire prévu distinct du trajet exécuté. |
+| 08:14:11 | Réponse du candidat annonçant son déplacement vers Bastia | P-07 — Gmail 1a08f1a2d612bb08 | ÉTABLI | Horaire prévu distinct du trajet exécuté. |
 | 08:42:59 | Réponse de Laurence : « Parfait » | Gmail 1a08f34a4c98db4a | ÉTABLI | Connaissance contemporaine du déplacement. |
 | 18:25:49 CEST | **P-43.b — courriel « Porte-parole » de Laurence Vernerey du 11 septembre 2026** | Gmail 1a0914a4db8cf48b ; en-tête 16:25:49 UTC | ÉTABLI | Désignation expresse de M. Robert comme porte-parole ; postérieure à la clôture de 18 h, cette pièce établit la continuité de volonté/représentation, non une formalité accomplie avant l'échéance. |
 | 09:45 | Départ ferroviaire prévu depuis Corte | horaire CFC | PLAN | Le candidat ne monte finalement pas à Corte. |
@@ -58,12 +58,12 @@ La chronologie ne remplace aucune pièce primaire.
 | 12:48–13:13 | Présence place Saint-Nicolas | Timeline | ÉTABLI | — |
 | 13:13 | Départ de Bastia vers Ajaccio | Timeline + témoignage | ÉTABLI / RAPPORTÉ | — |
 | ~14:14 | Passage à Corte en direction d'Ajaccio | photographie | FORTEMENT CORROBORÉ | — |
-| 14:14:39 | Transmission des formulaires du mandataire financier | P-10 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Demande d'être informé de tout autre élément manquant avant 18 h. |
+| 14:14:39 | Transmission des formulaires du mandataire financier | P-10 — Gmail 1a0906430ac3adee | ÉTABLI | Demande d'être informé de tout autre élément manquant avant 18 h. |
 | ~16:13 | Arrivée secteur Ajaccio | Timeline + précision du principal | ÉTABLI / PRÉCISÉ | — |
-| 16:14:05 | « J'accuse réception des documents » | P-11 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Aucun nouveau défaut mentionné dans ce message. |
+| 16:14:05 | « J'accuse réception des documents » | P-11 — Gmail 1a090d1926fe460b | ÉTABLI | Aucun nouveau défaut mentionné dans ce message. |
 | ~17:30 | Préparation de la déclaration vidéo commune | notes/conversation | RAPPORTÉ + TRACE | — |
 | 17:45:55 | Création de **P-13 — déclaration vidéo commune Robert–Vernerey du 11 septembre** (VID_20260911_174455.mp4) | métadonnées vidéo + P-13 | ÉTABLI | Original et empreinte à conserver ; documente identité, volonté et consentement. |
-| 17:57:55 | Envoi au BEDL du lien vers la vidéo | P-12 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Émission établie ; réception serveur côté État INCONNU. |
+| 17:57:55 | Envoi au BEDL du lien vers la vidéo | P-12 — Gmail 1a0913095d550884 | ÉTABLI | Émission établie ; réception serveur côté État INCONNU. |
 | 18:00 | Clôture du dépôt des candidatures | règle applicable | ÉTABLI | Borne temporelle. |
 | 18:16 | Réception Télérecours de la saisine préfectorale | P-14 | ÉTABLI | Inventaire initial PREF-1 à PREF-16. |
 | 18:16 | Courriel/vidéo de 17:57 absent de l'inventaire initial | P-14 + comparaison | ÉTABLI | N'exclut pas une transmission ultérieure. |
@@ -85,8 +85,8 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 14:09:17 | Courriel préfecture + greffe signalant notamment l'absence apparente de la vidéo dans le dossier transmis | P-15 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Alerte avant audience. |
-| 14:09:26 | Accusé automatique de la préfecture | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
+| 14:09:17 | Courriel préfecture + greffe signalant notamment l'absence apparente de la vidéo dans le dossier transmis | P-15 — Gmail 1a09fd25895322fe | ÉTABLI | Alerte avant audience. |
+| 14:09:26 | Accusé automatique de la préfecture | Gmail 1a09fd28135eb8c3 | ÉTABLI | — |
 | audience / avant clôture | Observations écrites correspondant, selon le requérant, à **P-16 — mémoire en défense devant le Tribunal administratif** | jugement : « observations écrites et orales » + PDF conservé | CORROBORÉ, IDENTITÉ MATÉRIELLE À VERROUILLER | L'existence d'observations écrites est établie ; l'identité exacte du PDF conservé avec l'exemplaire matériel présenté à l'audience reste à confirmer. |
 | 15:00 | Ouverture audience | P-20 | ÉTABLI | — |
 | ouverture audience | Remise d'observations manuscrites | P-17 + témoignage | RAPPORTÉ + TRACE | Lien exact avec « Réception d'une lettre » Sagace INCONNU. |
@@ -99,7 +99,7 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 08:42:17 | Demande à la préfecture sur trois vérifications factuelles | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Mapping pièce à finaliser. |
+| 08:42:17 | Demande à la préfecture sur trois vérifications factuelles | Gmail 1a0a3cd5cd3dbea1 | ÉTABLI | Mapping pièce à finaliser. |
 | heure postale | Oblitération de l'enveloppe du jugement | trace postale | ÉTABLI | — |
 
 ## 16 septembre 2026
@@ -107,28 +107,28 @@ Aucun acte matériel contentieux supplémentaire identifié à ce stade. Audit G
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
 | 08:36:59 | Demande rectification au DPO Intérieur | Gmail 1a0a8eedfff7b68f | ÉTABLI | RÉSERVE. |
-| 08:39:16 | Relance préfecture sur trois vérifications | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 08:47:23 | Demande commission de propagande / modalités | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | RÉSERVE. |
-| 08:52:29 | Réponse Adrien Vidal | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Ne ferme pas matériellement les trois vérifications. |
-| 15:05:59 | Réponse greffe TA | P-30 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Confirme notamment prise de connaissance de la note. |
-| 18:55:54 | Réponse BEDL avec arrêté commission de propagande | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | RÉSERVE. |
+| 08:39:16 | Relance préfecture sur trois vérifications | Gmail 1a0a8f0f46d9dfcd | ÉTABLI | — |
+| 08:47:23 | Demande commission de propagande / modalités | Gmail 1a0a8f8675a03073 | ÉTABLI | RÉSERVE. |
+| 08:52:29 | Réponse Adrien Vidal | Gmail 1a0a8fd1bc26516e | ÉTABLI | Ne ferme pas matériellement les trois vérifications. |
+| 15:05:59 | Réponse greffe TA | P-30 — Gmail 1a0aac0e1cd83b86 | ÉTABLI | Confirme notamment prise de connaissance de la note. |
+| 18:55:54 | Réponse BEDL avec arrêté commission de propagande | Gmail 1a0ab2586d4a6a38 | ÉTABLI | RÉSERVE. |
 
 ## 17 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 10:06:10 | Nouvelle relance préfecture | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 10:34:09 | Demande complémentaire TA après Sagace | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
+| 10:06:10 | Nouvelle relance préfecture | Gmail 1a0ae66e489eb964 | ÉTABLI | — |
+| 10:34:09 | Demande complémentaire TA après Sagace | Gmail 1a0ae80852fdf421 | ÉTABLI | — |
 | ~10:43 CEST | Invitation France 3 à un débat annoncé « avec tous les candidats » | Gmail 1a0ae890a7ac4878 | ÉTABLI | Contexte média. |
 
 ## 18 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 12:05:46 | Relance TA | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 14:59:59 | Relance préfecture | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 15:00:21 | Accusé automatique BEDL | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| ~15:30:46 CEST | Greffe propose Télérecours Citoyens | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Démarche d'accès au dossier. |
+| 12:05:46 | Relance TA | Gmail 1a0b3fab74b356be | ÉTABLI | — |
+| 14:59:59 | Relance préfecture | Gmail 1a0b49a3a0a6b4aa | ÉTABLI | — |
+| 15:00:21 | Accusé automatique BEDL | Gmail 1a0b49a8fb2d6165 | ÉTABLI | — |
+| ~15:30:46 CEST | Greffe propose Télérecours Citoyens | Gmail 1a0b4b6699f2f2e0 | ÉTABLI | Démarche d'accès au dossier. |
 | 22:00:01 | Demande sur trace d'audience, greffier et minute | chronology.md | ÉTABLI | Source Gmail à mapper définitivement. |
 
 ## 19 septembre 2026
@@ -164,18 +164,18 @@ Aucun acte matériel nouveau identifié. Audit Gmail final requis.
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
 | journée | Retrait du recommandé contenant le jugement | trace postale / P-20 | ÉTABLI | — |
-| 16:50:46 | Relance greffe après lecture, six résidus | P-32 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 16:59:13 | Demande préfecture : documents, données, conservation des traces | P-22 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 16:59:31 | Accusé automatique préfecture | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 16:59:36 | Accusé automatique BEDL | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
+| 16:50:46 | Relance greffe après lecture, six résidus | P-32 — Gmail 1a0d90c299ec4899 | ÉTABLI | — |
+| 16:59:13 | Demande préfecture : documents, données, conservation des traces | P-22 — Gmail 1a0d913e4ba70b29 | ÉTABLI | — |
+| 16:59:31 | Accusé automatique préfecture | Gmail 1a0d9142e304292f | ÉTABLI | — |
+| 16:59:36 | Accusé automatique BEDL | Gmail 1a0d9144421387ea | ÉTABLI | — |
 | 17:28:07 | Réponse DPO Intérieur | chronology.md | ÉTABLI | Données retirées de la surface publiée ; conservation historique non tranchée. |
 
 ## 26 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 10:44:22 | Demande sur modalité matérielle de saisine du représentant de l'État | P-45.a — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Fil d'un seul message, sans réponse retrouvée. |
-| 10:58:26 | Demande lieu du collège électoral et proclamation | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | RÉSERVE. |
+| 10:44:22 | Demande sur modalité matérielle de saisine du représentant de l'État | P-45.a — Gmail 1a0dce31564ec625 | ÉTABLI | Fil d'un seul message, sans réponse retrouvée. |
+| 10:58:26 | Demande lieu du collège électoral et proclamation | Gmail 1a0dceffdb9f6952 | ÉTABLI | RÉSERVE. |
 | 15:47:36 | Saisine Défenseur des droits | P-42 — Gmail 1a0ddf8ba0771c8b | ÉTABLI | Voie distincte, non suspensive. |
 
 ## 14–27 septembre 2026 — fenêtre contentieuse avant irréversibilité
@@ -192,14 +192,14 @@ Cette observation ne signifie pas qu'un recours préélectoral devant le Conseil
 |---|---|---|---|---|
 | 08:30–11:00 | Scrutin sénatorial | source officielle | ÉTABLI | — |
 | heure à confirmer | Proclamation / résultats 606 votants, 36 blancs, 40 nuls, 530 exprimés, 442/88 | P-27 | ÉTABLI | Heure exacte à confirmer. |
-| 13:38:54 | Première demande de communication du PV complet | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | À distinguer du complément du lendemain. |
+| 13:38:54 | Première demande de communication du PV complet | Gmail 1a0e2a9480a91dfa | ÉTABLI | À distinguer du complément du lendemain. |
 
 ## 28 septembre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 09:50:16 | Complément demande PV et annexes | P-26 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 13:31:35 CEST | Demande directe à la Sous-préfecture de Corte sur la réception de la requête CC | **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34** — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | En-tête RFC822 : 04:31:35 -0700, soit 13:31:35 en Europe/Paris ; fil d'un seul message, aucune réponse retrouvée. |
+| 09:50:16 | Complément demande PV et annexes | P-26 — Gmail 1a0e6fe59ed9e8f1 | ÉTABLI | — |
+| 13:31:35 CEST | Demande directe à la Sous-préfecture de Corte sur la réception de la requête CC | **P-45.b — demande du 28 septembre à la Sous-préfecture de Corte sur la réception d'une requête au titre de l'article 34** — Gmail 1a0e7c8da5ef2262 | ÉTABLI | En-tête RFC822 : 04:31:35 -0700, soit 13:31:35 en Europe/Paris ; fil d'un seul message, aucune réponse retrouvée. |
 
 ## 29 septembre 2026
 
@@ -209,14 +209,14 @@ Aucun acte matériel nouveau identifié dans les recherches ciblées. Audit fina
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 08:16:30 | Proposition d'une consultation des pièces le 1er octobre | P-28 — Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Borne adverse : réponse de la préfecture sur cet objet. |
-| 10:37:16 | Acceptation du rendez-vous et demande de minimiser la charge | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | RÉSERVE. |
+| 08:16:30 | Proposition d'une consultation des pièces le 1er octobre | P-28 — Gmail 1a0f0f52e3f74c2b | ÉTABLI | Borne adverse : réponse de la préfecture sur cet objet. |
+| 10:37:16 | Acceptation du rendez-vous et demande de minimiser la charge | Gmail 1a0f17603e016b22 | ÉTABLI | RÉSERVE. |
 
 ## 1er octobre 2026
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 09:30:33 | **P-34 — courriel consolidé du 1er octobre à la préfecture**, comprenant aussi **P-45.c — consolidation du 1er octobre avec la Sous-préfecture de Corte en copie** | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | Rassemble les questions ouvertes, dont les modalités de remise du recours. |
+| 09:30:33 | **P-34 — courriel consolidé du 1er octobre à la préfecture**, comprenant aussi **P-45.c — consolidation du 1er octobre avec la Sous-préfecture de Corte en copie** | Gmail 1a0f65f52d19c6f7 | ÉTABLI | Rassemble les questions ouvertes, dont les modalités de remise du recours. |
 | 10:11:07 | Adresse du rendez-vous communiquée | P-37 | ÉTABLI | — |
 | 12:30:20 | Réponse sur l'adresse / déplacement | P-38 | ÉTABLI | — |
 | 14:00 | Rendez-vous de consultation prévu | P-28 | ÉTABLI | — |
@@ -228,8 +228,8 @@ Aucun acte matériel nouveau identifié dans les recherches ciblées. Audit fina
 
 | Heure | Acte / événement | Source / pièce | Statut | Portée / limite |
 |---|---|---|---|---|
-| 10:40:46 | Courriel TA : dix demandes D1–D10 | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | — |
-| 13:33:55 | **P-35 — demandes P1–P18 de traçabilité adressées à la préfecture le 2 octobre**, comprenant **P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt** | Gmail [ID Gmail conservé dans la source privée] | ÉTABLI | P11/P12 reprennent le canal de dépôt et les demandes pendantes. |
+| 10:40:46 | Courriel TA : dix demandes D1–D10 | Gmail 1a0fbc6018fac906 | ÉTABLI | — |
+| 13:33:55 | **P-35 — demandes P1–P18 de traçabilité adressées à la préfecture le 2 octobre**, comprenant **P-45.d — relance du 2 octobre sur les modalités pratiques de dépôt** | Gmail 1a0fc64750fe95b6 | ÉTABLI | P11/P12 reprennent le canal de dépôt et les demandes pendantes. |
 
 ## 3 octobre 2026
 

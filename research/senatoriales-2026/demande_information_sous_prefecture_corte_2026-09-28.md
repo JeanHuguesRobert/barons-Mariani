@@ -29,7 +29,7 @@ provenance:
   origin_type: "email"
   origin_date: "2026-09-28"
   derived_from:
-    - "gmail:[ID Gmail conservé dans la source privée]"
+    - "gmail:1a0e7c8da5ef2262"
 human_arbitration_by: "Jean Hugues Noël Robert"
 ---
 

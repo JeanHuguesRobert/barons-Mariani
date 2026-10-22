@@ -40,8 +40,8 @@ La saisine était explicitement présentée sous l'angle de **l'effectivité des
 Recherche ciblée effectuée sur les messages envoyés à ou reçus de l'adresse de la déléguée entre le 1er septembre et le 6 octobre 2026 :
 
 - message primaire : Gmail `1a0ddf8ba0771c8b` ;
-- la déléguée figure en copie du courriel consolidé du **1er octobre 2026 à 09 h 30 min 33 s** : Gmail `[ID Gmail conservé dans la source privée]` ;
-- elle figure également en copie de la relance de traçabilité du **2 octobre 2026 à 13 h 33 min 55 s** : Gmail `[ID Gmail conservé dans la source privée]`.
+- la déléguée figure en copie du courriel consolidé du **1er octobre 2026 à 09 h 30 min 33 s** : Gmail `1a0f65f52d19c6f7` ;
+- elle figure également en copie de la relance de traçabilité du **2 octobre 2026 à 13 h 33 min 55 s** : Gmail `1a0fc64750fe95b6`.
 
 **Aucune réponse provenant de l'adresse de la déléguée n'a été retrouvée par cette recherche ciblée au 6 octobre 2026.**
 

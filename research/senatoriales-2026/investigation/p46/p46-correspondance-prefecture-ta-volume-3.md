@@ -26,7 +26,7 @@ Les dates affichées sont celles du bordereau normalisées en heure locale Europ
 ## P-46.31 — De JHR → prefecture@haute-corse.gouv.fr; copie : PREF2B elections pref-elections@haute-corse.gouv.fr, adrien.vidal@haute-corse.gouv.fr, Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-09-25 16:59:13  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0d913e4ba70b29`
 **Objet :** Élections sénatoriales 2026 – demande de communication de documents et données – 11 septembre 2026  
 **De :**   
 **À :** prefecture@haute-corse.gouv.fr  
@@ -79,7 +79,7 @@ Jean Hugues Noël Robert
 ## P-46.32 — prefecture@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-25 16:59:31  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0d9142e304292f`
 **Objet :** Auto: [INTERNET] Élections sénatoriales 2026 – demande de communication de documents et données – 11 septembre 2026  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -124,7 +124,7 @@ La préfecture, s’inscrivant dans une démarche qualité, vous répondra dans 
 ## P-46.33 — pref-elections@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-25 16:59:36  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0d9144421387ea`
 **Objet :** Auto: [INTERNET] Élections sénatoriales 2026 – demande de communication de documents et données – 11 septembre 2026  
 **De :**   
 **À :** jeanhuguesrobert@gmail.com  
@@ -154,7 +154,7 @@ Le bureau des élections de la préfecture, vous remercie pour votre compréhens
 ## P-46.34 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée], adrien.vidal@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-09-26 10:44:22  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0dce31564ec625`
 **Objet :** Modalité de saisine du représentant de l’État — article 34 ordonnance n° 58-1067 — scrutin sénatorial du 27 septembre 2026  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr  
@@ -192,7 +192,7 @@ Jean Hugues Robert
 ## P-46.35 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr; copie : Laurence Ceccaldi [adresse privée de Laurence occultée], Maguy [adresse privée de Maguy occultée], adrien.vidal@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-09-26 10:58:26  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0dceffdb9f6952`
 **Objet :** Scrutin sénatorial du 27 septembre — lieu du collège électoral et proclamation des résultats  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr  
@@ -231,7 +231,7 @@ Jean Hugues Robert
 ## P-46.36 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-09-27 13:38:54  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0e2a9480a91dfa`
 **Objet :** Demande de communication du procès-verbal – élections sénatoriales du 27 septembre 2026  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr  
@@ -281,7 +281,7 @@ Jean Hugues Noël Robert
 ## P-46.37 — De JHR → PREF2B elections pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr; copie : Maguy [adresse privée de Maguy occultée], Laurence Ceccaldi [adresse privée de Laurence occultée]
 
 **Date locale normalisée :** 2026-09-28 09:50:16  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0e6fe59ed9e8f1`
 **Objet :** Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes  
 **De :**   
 **À :** PREF2B elections pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr  
@@ -354,7 +354,7 @@ F-20250 Corte
 ## P-46.38 — De JHR → sp-corte@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-09-28 13:31:35  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0e7c8da5ef2262`
 **Objet :** Saisine du Conseil constitutionnel — demande préalable de confirmation des modalités de remise  
 **De :**   
 **À :** sp-corte@haute-corse.gouv.fr  
@@ -394,7 +394,7 @@ Baron Mariani
 ## P-46.39 — VIDAL Adrien adrien.vidal@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-09-30 08:16:30  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f0f52e3f74c2b`
 **Objet :** Re: Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -565,7 +565,7 @@ F-20250 Corte
 ## P-46.40 — De JHR → adrien.vidal@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, [adresse privée de Maguy occultée], [adresse privée de Laurence occultée]
 
 **Date locale normalisée :** 2026-09-30 10:37:16  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f17603e016b22`
 **Objet :** Re: Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes  
 **De :**   
 **À :** adrien.vidal@haute-corse.gouv.fr  
@@ -634,7 +634,7 @@ F-20250 Corte
 ## P-46.41 — De JHR → adrien.vidal@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr, sp-corte@haute-corse.gouv.fr, marie-francoise.raffalli@haute-corse.gouv.fr, anne.baux@juradm.fr, hulya.celik@juradm.fr, romain.longinotti@juradm.fr, greffe.ta-bastia@juradm.fr, josette.chiaroni@defenseurdesdroits.fr, [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-10-01 09:30:33  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f65f52d19c6f7`
 **Objet :** Re: Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes  
 **De :**   
 **À :** adrien.vidal@haute-corse.gouv.fr  
@@ -1091,7 +1091,7 @@ F-20250 Corte
 ## P-46.42 — VIDAL Adrien adrien.vidal@haute-corse.gouv.fr → JHR
 
 **Date locale normalisée :** 2026-10-01 10:11:07  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f684784d5932a`
 **Objet :** Rendez vous de consultation des listes  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -1136,7 +1136,7 @@ Collectivités Territoriales et des Politiques Publiques
 ## P-46.43 — De JHR → VIDAL Adrien adrien.vidal@haute-corse.gouv.fr
 
 **Date locale normalisée :** 2026-10-01 12:30:20  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f703e9f4e8814`
 **Objet :** Re: Rendez vous de consultation des listes  
 **De :**   
 **À :** VIDAL Adrien adrien.vidal@haute-corse.gouv.fr  
@@ -1192,7 +1192,7 @@ Collectivités Territoriales et des Politiques Publiques
 ## P-46.44 — Greffe TA de BASTIA greffe.ta-bastia@juradm.fr → JHR
 
 **Date locale normalisée :** 2026-10-01 15:13:26  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0f799394da9a39`
 **Objet :** TR: TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre  
 **De :**   
 **À :** Jean Hugues Noël Robert jeanhuguesrobert@gmail.com  
@@ -1264,7 +1264,7 @@ Jean Hugues Robert
 ## P-46.45 — De JHR → greffe.ta-bastia@juradm.fr; copie : [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-10-02 10:40:46  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0fbc6018fac906`
 **Objet :** Re: TR: TA Bastia – n° 2601714 et 2601715 – document retraçant l’audience du 14 septembre  
 **De :**   
 **À :** greffe.ta-bastia@juradm.fr  
@@ -1613,7 +1613,7 @@ Jean Hugues Robert
 ## P-46.46 — De JHR → adrien.vidal@haute-corse.gouv.fr; copie : pref-elections@haute-corse.gouv.fr, prefecture@haute-corse.gouv.fr, sp-corte@haute-corse.gouv.fr, marie-francoise.raffalli@haute-corse.gouv.fr, greffe.ta-bastia@juradm.fr, josette.chiaroni@defenseurdesdroits.fr, [adresse privée de Laurence occultée], [adresse privée de Maguy occultée]
 
 **Date locale normalisée :** 2026-10-02 13:33:55  
-**Gmail ID :** `[ID Gmail conservé dans la source privée]`
+**Gmail ID :** `1a0fc64750fe95b6`
 **Objet :** Re: Élections sénatoriales 2026 — complément à ma demande du 27 septembre — procès-verbal et annexes  
 **De :**   
 **À :** adrien.vidal@haute-corse.gouv.fr  

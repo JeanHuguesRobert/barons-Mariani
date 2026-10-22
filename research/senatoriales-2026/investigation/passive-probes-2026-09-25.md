@@ -140,13 +140,13 @@ U8b — bundle physiquement présenté / remis lors du dépôt
 
 **17:01:56** — premier envoi électronique avec huit catégories de pièces ; rejet serveur pour dépassement de taille.
 
-**17:54:50** — retransmission allégée, Gmail `[ID Gmail conservé dans la source privée]`, avec huit catégories de pièces effectivement attachées : CERFA candidat, identité et situation électorale du candidat, CERFA remplaçante, identité et situation électorale de la remplaçante, désignation du mandataire financier, acceptation du mandataire.
+**17:54:50** — retransmission allégée, Gmail `1a08c07a7fbb141b`, avec huit catégories de pièces effectivement attachées : CERFA candidat, identité et situation électorale du candidat, CERFA remplaçante, identité et situation électorale de la remplaçante, désignation du mandataire financier, acceptation du mandataire.
 
 Le message demande explicitement que toute pièce ou formalité manquante soit signalée afin de pouvoir régulariser sans délai.
 
 **17:56:53** — accusé automatique préfectoral : réception de la saisine électronique confirmée, sans préjuger de sa recevabilité ou de sa complétude.
 
-**20:05:04** — réponse préfectorale, Gmail `[ID Gmail conservé dans la source privée]`, indiquant explicitement que le CERFA dématérialisé n'est pas considéré comme recevable pour le dépôt et demandant la présentation des **originaux**, spécialement au regard de la mention du remplaçant et de la signature manuscrite originale.
+**20:05:04** — réponse préfectorale, Gmail `1a08c7eb62cc13ec`, indiquant explicitement que le CERFA dématérialisé n'est pas considéré comme recevable pour le dépôt et demandant la présentation des **originaux**, spécialement au regard de la mention du remplaçant et de la signature manuscrite originale.
 
 ### Conséquence pour U3 / Q18
 
@@ -162,11 +162,11 @@ Ce qui reste ouvert est plus étroit :
 
 **vers 12:10–12:20** — présence physique et délivrance du reçu provisoire. Le dossier TA situe l'arrivée vers 12:10 ; le courriel contemporain de 14:14 indique que le reçu provisoire a été remis à 12:20.
 
-**14:14:39** — Gmail `[ID Gmail conservé dans la source privée]` transmet deux formulaires relatifs au mandataire financier, établis selon les modèles du mémento après la régularisation proposée lors du passage. Le candidat y indique rester disponible jusqu'à 18 h pour toute demande complémentaire précise.
+**14:14:39** — Gmail `1a0906430ac3adee` transmet deux formulaires relatifs au mandataire financier, établis selon les modèles du mémento après la régularisation proposée lors du passage. Le candidat y indique rester disponible jusqu'à 18 h pour toute demande complémentaire précise.
 
 **16:14:05** — accusé humain du Bureau des élections : « J'accuse réception des documents. » Aucune nouvelle liste de défauts n'apparaît dans ce message.
 
-**17:57:55** — Gmail `[ID Gmail conservé dans la source privée]` envoie le lien vers la vidéo complémentaire. Le MIME source confirme l'heure d'émission côté expéditeur. L'heure d'acceptation côté destinataire reste U1.
+**17:57:55** — Gmail `1a0913095d550884` envoie le lien vers la vidéo complémentaire. Le MIME source confirme l'heure d'émission côté expéditeur. L'heure d'acceptation côté destinataire reste U1.
 
 ### Autorisation de la remplaçante
 

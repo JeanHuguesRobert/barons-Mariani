@@ -31,7 +31,7 @@ provenance:
   origin_type: "email"
   origin_date: "2026-09-28"
   derived_from:
-    - "gmail:[ID Gmail conservé dans la source privée]"
+    - "gmail:1a0e6fe59ed9e8f1"
 ---
 
 # DEMANDE DE COMMUNICATION DU PROCÈS-VERBAL ÉLECTORAL ET DE SES ANNEXES

@@ -37,28 +37,28 @@ Cette séquence n'établit ni l'absence de traitement interne, ni une intention 
 ### P-45.a — 26 septembre 2026
 Demande au Bureau des élections sur la modalité matérielle d'une saisine du représentant de l'État au titre de l'article 34.
 
-- Gmail ID : `[ID Gmail conservé dans la source privée]`
+- Gmail ID : `1a0dce31564ec625`
 - Thread ID : `1a0dcced50e0f34a`
 - État vérifié : fil d'un seul message ; aucune réponse dans ce fil.
 
 ### P-45.b — 28 septembre 2026
 Demande directe à la Sous-préfecture de Corte afin de savoir si elle peut recevoir la requête pour le compte du représentant de l'État et selon quelles modalités.
 
-- Gmail ID : `[ID Gmail conservé dans la source privée]`
-- Thread ID : `[ID Gmail conservé dans la source privée]`
+- Gmail ID : `1a0e7c8da5ef2262`
+- Thread ID : `1a0e7c8da5ef2262`
 - État vérifié : fil d'un seul message ; aucune réponse dans ce fil.
 - Recherche ciblée des messages provenant de l'adresse institutionnelle de la Sous-préfecture entre le 28 septembre et le 7 octobre : aucun message retrouvé.
 
 ### P-45.c — 1er octobre 2026
 Courriel de consolidation adressé à la préfecture avec la Sous-préfecture de Corte en copie ; rappelle notamment que la question du canal concret de dépôt demeure ouverte.
 
-- Gmail ID : `[ID Gmail conservé dans la source privée]`
+- Gmail ID : `1a0f65f52d19c6f7`
 - Thread ID : `1a0e6e6f9908ab4e`
 
 ### P-45.d — 2 octobre 2026
 Relance numérotée P1–P18, avec la Sous-préfecture de Corte en copie.
 
-- Gmail ID : `[ID Gmail conservé dans la source privée]`
+- Gmail ID : `1a0fc64750fe95b6`
 - Thread ID : `1a0e6e6f9908ab4e`
 - P11 : modalité et heure limite pratique de remise au représentant de l'État.
 - P12 : état des demandes pendantes, incluant expressément celles des 26 et 28 septembre.

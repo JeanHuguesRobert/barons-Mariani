@@ -32,9 +32,9 @@ Pour le contentieux, les originaux natifs peuvent être produits au Conseil cons
 | 09/09/2026 | `1a0856b801ac4979` | Réponse sur la profession | Participation personnelle aux choix déclaratifs du formulaire |
 | 10/09/2026 | `1a08adb71488740b`, `1a08addb1a699127` | « Attestation » | Transmission de pièces préparatoires |
 | 10/09/2026 | `1a08ae5f35fd72f0` | « Autorisation » | Autorisation expresse donnée à Jean Hugues Robert d'utiliser la signature sur le CERFA où Laurence Vernerey se porte remplaçante |
-| 10/09/2026 | `[ID Gmail conservé dans la source privée]`, `[ID Gmail conservé dans la source privée]` | Envoi du dossier à la préfecture, Laurence en copie | Traçabilité contemporaine du dépôt dématérialisé et connaissance du processus |
+| 10/09/2026 | `1a08bd73bb174a75`, `1a08c07a7fbb141b` | Envoi du dossier à la préfecture, Laurence en copie | Traçabilité contemporaine du dépôt dématérialisé et connaissance du processus |
 | 11/09/2026 | `1a0914a4db8cf48b` | « Porte-parole » | Désignation expresse de Jean Hugues Robert comme porte-parole de la campagne sénatoriale |
-| 11/09/2026 | `[ID Gmail conservé dans la source privée]` | Déclaration vidéo complémentaire | Transmission à la préfecture de la déclaration vidéo commune confirmant identité, volonté et consentement |
+| 11/09/2026 | `1a0913095d550884` | Déclaration vidéo complémentaire | Transmission à la préfecture de la déclaration vidéo commune confirmant identité, volonté et consentement |
 | 14/09/2026 | `1a09ef8f54ec80fd` | « Urgent mais très simple — confirmation + preuve AAH » | Demande de confirmation factuelle et de pièce d'accessibilité/handicap avant audience |
 | 14/09/2026 | `1a09f8c74b58689c` | « Papier demandé » | Transmission d'une pièce CAF ensuite utilisée dans la note en délibéré |
 

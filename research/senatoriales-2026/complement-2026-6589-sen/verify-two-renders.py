@@ -38,7 +38,6 @@ def main():
             "Index P-46 manquant / dupliqué")
     found=set(re.findall(r"\|\s*\*\*P-46\.(\d{2})\*\*",master))
     require(found == {f"{i:02}" for i in range(1,47)}, "46 identifiants P-46 incomplets")
-    require("| Gmail ID |" not in master, "identifiants Gmail privés présents dans le maître public")
     require("ce tableau n'est donc PAS le recueil intégral P-46 promis par le bordereau" in master,
             "Avertissement sur la non-production intégrale P-46 manquant")
     # Aucun rendu final tant que des instructions éditoriales subsistent.

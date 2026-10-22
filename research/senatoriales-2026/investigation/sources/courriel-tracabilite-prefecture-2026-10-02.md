@@ -9,7 +9,7 @@ document_kind: email-trace
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/investigation/sources/courriel-tracabilite-prefecture-2026-10-02.md
 provenance:
   origin_type: gmail-sent-message
-  gmail_message_id: "[ID Gmail conservé dans la source privée]"
+  gmail_message_id: "1a0fc64750fe95b6"
   gmail_thread_id: "1a0e6e6f9908ab4e"
   sent_at: "2026-10-02T13:33:55+02:00"
 ---
