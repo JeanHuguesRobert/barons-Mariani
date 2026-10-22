@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""Create a private, preliminary minimization copy of the P-46 text bundle.
-
-This is a review aid, not a disclosure approval. The source bundle is preserved.
-"""
+"""Create a P-46 copy masking only explicitly configured private email addresses."""
 from __future__ import annotations
 
 import argparse
@@ -10,33 +7,26 @@ import json
 from pathlib import Path
 import re
 
-EMAIL = re.compile(r"(?i)\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b")
-PHONE = re.compile(r"(?<!\w)(?:\+33|0033|0)[ .-]?(?:[1-9](?:[ .-]?\d{2}){4})(?!\w)")
-STREET = re.compile(
-    r"(?i)\b\d{1,4}\s+(?:rue|avenue|av\.|boulevard|bd\.|chemin|route|place|"
-    r"impasse|lieu-dit|cours)\s+[^\n,;]{1,70}"
-)
-ATTACHMENTS = re.compile(r"(?m)^(Attachments \(\d+\): ).*$")
+EMAIL = re.compile(r"(?i)[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}")
 
 
-def prepare(source: str) -> tuple[str, dict[str, int]]:
+def prepare(source: str, private_addresses: list[str]) -> tuple[str, dict[str, int]]:
+    if not private_addresses:
+        raise ValueError("Configure Laurence and Maguy's private addresses outside the repository")
     text = source
-    counts = {
-        "email_address": len(EMAIL.findall(text)),
-        "phone_candidate": len(PHONE.findall(text)),
-        "street_address_candidate": len(STREET.findall(text)),
-        "attachment_filename_list": len(ATTACHMENTS.findall(text)),
-    }
-    text = EMAIL.sub("[COURRIEL OCCULTÉ]", text)
-    text = PHONE.sub("[TÉLÉPHONE OCCULTÉ]", text)
-    text = STREET.sub("[ADRESSE OCCULTÉE]", text)
-    text = ATTACHMENTS.sub(r"\1[noms de pièces jointes occultés pour revue]", text)
+    counts = {"private_email_address": 0}
+    for address in dict.fromkeys(item.strip() for item in private_addresses):
+        if not EMAIL.fullmatch(address):
+            raise ValueError("Invalid configured private email address")
+        text, count = re.subn(re.escape(address), "[ADRESSE PRIVÉE OCCULTÉE]", text,
+                              flags=re.IGNORECASE)
+        counts["private_email_address"] += count
     notice = (
-        "PROPOSITION DE MINIMISATION AUTOMATIQUE — NON VALIDÉE POUR COMMUNICATION\n"
-        "Les noms de personnes, identifiants de documents et autres données sensibles "
-        "ne sont pas tous détectables automatiquement.\n"
-        "Les originaux RFC822 restent les seules sources ; contrôle humain requis avant "
-        "intégration ou transmission.\n\n"
+        "COPIE P-46 — adresses privées de Laurence et Maguy occultées selon la règle "
+        "de communication fixée par le requérant.\n"
+        "Tout le reste du texte, y compris les autres adresses courriel, numéros, adresses "
+        "postales et noms de pièces jointes, est conservé sans transformation.\n"
+        "Cette copie textuelle ne remplace pas les EML RFC822 natifs.\n\n"
     )
     return notice + text, counts
 
@@ -53,14 +43,23 @@ def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--source", type=Path, required=True,
                     help="Private compiled P-46 text bundle")
+    ap.add_argument("--private-addresses", type=Path, required=True,
+                    help="Private UTF-8 file with Laurence and Maguy email addresses, one per line")
     ap.add_argument("--output", type=Path, required=True,
                     help="Private destination for the review copy")
     args = ap.parse_args()
     ensure_outside_repo(args.output, repo_root)
+    ensure_outside_repo(args.private_addresses, repo_root)
+    if not args.private_addresses.is_file():
+        raise FileNotFoundError("Private address configuration file not found")
     journal = args.output.with_name(args.output.stem + "-redaction-journal.json")
     if args.output.exists() or journal.exists():
         raise FileExistsError("Review copy or journal already exists; refusing overwrite")
-    candidate, counts = prepare(args.source.read_text(encoding="utf-8"))
+    private_addresses = [
+        line.strip() for line in args.private_addresses.read_text(encoding="utf-8").splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+    candidate, counts = prepare(args.source.read_text(encoding="utf-8"), private_addresses)
     args.output.parent.mkdir(parents=True, exist_ok=True)
     with args.output.open("x", encoding="utf-8", newline="\n") as stream:
         stream.write(candidate)
@@ -71,7 +70,7 @@ def main() -> None:
         stream.write("\n")
     print(f"Private preliminary copy created: {args.output}")
     print(f"Redaction counts (values omitted): {json.dumps(counts, ensure_ascii=False)}")
-    print("Names, identity data and context require human review; NOT cleared for disclosure.")
+    print("Only configured private addresses were masked; all other source text was retained.")
 
 
 if __name__ == "__main__":

@@ -82,23 +82,27 @@ class PrivateBundleTests(unittest.TestCase):
             p46.build(self.sources, output, [])
         self.assertEqual(output.read_text(encoding="utf-8"), "preserve this")
 
-    def test_preliminary_redaction_copy_masks_contact_details_and_filenames(self):
-        source = ("From: person@example.invalid\n"
+    def test_redaction_masks_only_the_two_configured_private_addresses(self):
+        source = ("Laurence: laurence@example.invalid\n"
+                  "Maguy: maguy@example.invalid\n"
+                  "Public: office@example.invalid\n"
                   "Phone: +33 6 12 34 56 78\n"
                   "Address: 12 rue Exemple\n"
                   "Attachments (1): identity-card.pdf\n")
-        candidate, counts = p46_redaction.prepare(source)
-        self.assertEqual(counts, {
-            "email_address": 1,
-            "phone_candidate": 1,
-            "street_address_candidate": 1,
-            "attachment_filename_list": 1,
-        })
-        self.assertNotIn("person@example.invalid", candidate)
-        self.assertNotIn("+33 6 12 34 56 78", candidate)
-        self.assertNotIn("12 rue Exemple", candidate)
-        self.assertNotIn("identity-card.pdf", candidate)
-        self.assertIn("NON VALIDÉE POUR COMMUNICATION", candidate)
+        candidate, counts = p46_redaction.prepare(
+            source, ["laurence@example.invalid", "maguy@example.invalid"])
+        self.assertEqual(counts, {"private_email_address": 2})
+        self.assertNotIn("laurence@example.invalid", candidate)
+        self.assertNotIn("maguy@example.invalid", candidate)
+        self.assertIn("office@example.invalid", candidate)
+        self.assertIn("+33 6 12 34 56 78", candidate)
+        self.assertIn("12 rue Exemple", candidate)
+        self.assertIn("identity-card.pdf", candidate)
+        self.assertIn("Tout le reste", candidate)
+
+    def test_redaction_requires_explicit_private_addresses(self):
+        with self.assertRaises(ValueError):
+            p46_redaction.prepare("From: person@example.invalid", [])
 
 if __name__ == "__main__":
     unittest.main()
