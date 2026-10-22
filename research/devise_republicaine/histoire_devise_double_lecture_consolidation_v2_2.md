@@ -296,9 +296,9 @@ L'histoire nous apprend que les formes institutionnelles changent. Elle ne démo
 
 Nous avons ici deux ambitions liées mais distinctes : celle d'une République où davantage de personnes peuvent effectivement agir, et celle d'un droit assez précis pour que les institutions puissent rendre compte de ce qu'elles ouvrent et de ce qu'elles empêchent. Leur lien est à défendre, pas à présumer.
 
-### Arguments, contre-épreuves et références
+### Du débat aux critères contrôlables
 
-#### Dépasser une alternative mal posée
+#### Conditions d'une différenciation compatible avec les garanties communes
 
 L'opposition selon laquelle l'autonomie corse renforcerait nécessairement la liberté locale au détriment de l'unité républicaine — ou, inversement, selon laquelle l'indivisibilité impliquerait une uniformité intégrale — juxtapose deux propositions plus complexes. D'une part, l'organisation décentralisée de la République figure à l'article premier de la Constitution de 1958. D'autre part, l'article 72 et les garanties nationales assignent des limites aux compétences et aux différenciations. L'indivisibilité n'efface donc pas toute possibilité de différenciation, et l'autonomie ne garantit par elle-même aucun effet émancipateur.
 
