@@ -1,0 +1,22 @@
+schema: living-book-press.profile/v1
+book_id: napoleon
+prefix: NAPOLEON
+title: "Napoléon — Livre Vivant"
+repository: "JeanHuguesRobert/barons-Mariani"
+verification_base_url: "https://napoleon.acorsica.org/press/verify"
+material_profiles:
+  accessible:
+    name: "Accessible"
+    description: "Impression fluide A5"
+  luxe:
+    name: "Luxe"
+    description: "Tirage soigné avec reliure artisanale"
+singularization_default: singulier
+print:
+  batch_capacity: 100
+  carrier: "Institut Mariani / C.O.R.S.I.C.A."
+  signatory: "Jean Hugues Noël Robert, baron Mariani"
+  format: A5
+  binding: stitched-paperback
+  inscription_area: true
+  qr_target: "https://napoleon.acorsica.org/contribuer.html"
