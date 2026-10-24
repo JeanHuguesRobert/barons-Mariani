@@ -103,3 +103,25 @@ Au lieu de « les Corses sont ainsi », rechercher :
 - [Meurgey 1933, p. 6](../../musee-mariani/sources/meurgey-1933/transcription/p006.md)
 
 *Cette note est une cristallisation exploratoire explicite. Elle ne remplace ni les sources historiques ni l'enquête généalogique.*
+
+
+## 7. Le Petit Parti / Pertitellu comme incarnation contemporaine revendiquée des *Mariani*
+
+**Proposition explicite de JHR du 24 octobre 2026 :** le Petit Parti, issu du Pertitellu de Corte, est conçu comme une **incarnation moderne revendiquée** du parti des *Mariani*, partisans de Caius Marius à Rome. Cette proposition est une affiliation politique et une analogie transhistorique volontaires, non une continuité organisationnelle historiquement démontrée. Les *Mariani* romains n'étaient pas un parti au sens contemporain et Marius fut lui-même un chef militaire aux pratiques de pouvoir personnelles.
+
+Cette proposition se raccorde aux sources contemporaines déjà publiées :
+- [Le Petit Parti dans Capable](../../projects/capable/README.md) : « parti des petits » défini par une faiblesse relative de capacité face aux pouvoirs exercés sur eux ;
+- [Rousseau, Corse et Petit Parti](corse_carrefour_civilisations_rousseau_petit_parti.md) ;
+- [Mode d'emploi du Petit Parti](mode_emploi_petit_parti_autonomie_de_capacite.md).
+
+### La comparaison littéraire : Philip K. Dick
+
+Dans *VALIS* (1981), Philip K. Dick écrit **« The Empire never ended »** et propose, avec la *Black Iron Prison*, l'image d'un régime de domination traversant apparemment les siècles, même sous des formes politiques changeantes. [Notice bibliographique et présentation de VALIS](https://philipdick.com/mirror/websites/pkdweb/valis.htm). [Analyse littéraire universitaire, Umberto Rossi (2012)](https://doi.org/10.5621/sciefictstud.39.2.0243).
+
+**Réemploi métaphorique, pas histoire positive :** si « l'Empire » figure la récurrence de mécanismes de domination, le *Pertitellu* peut figurer la réapparition de leurs contradicteurs, et la revendication « marianiste » devient une forme d'identification consciente à cette opposition. Il ne s'agit ni de la survie littérale de l'État romain, ni d'une généalogie politique sans interruption, ni d'une prédiction historique. Il faut aussi rappeler qu'à l'époque de Caius Marius, l'Empire romain en tant que régime impérial n'était pas encore établi.
+
+### Formule candidate, attribuée comme synthèse de l'agent
+
+> « Si l'Empire n'a jamais cessé de renaître, la résistance à la dépossession n'a jamais cessé de se réinventer. Le Petit Parti se revendique, symboliquement, du parti des *Mariani* : non une succession prouvée, mais une affiliation volontaire, ouverte à la critique. »
+
+Cette proposition ouvre une enquête sur les mécanismes institutionnels qui reproduisent domination et résistance ; elle ne confère aucune validation historique supplémentaire aux chaînons manquants de la filiation Mariani.
