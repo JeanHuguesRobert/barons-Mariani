@@ -89,3 +89,13 @@ Source : [Meurgey p. 4](../../musee-mariani/sources/meurgey-1933/transcription/p
 **Hypothèse supplémentaire, non prouvée.** La construction latine `de Marianis` pourrait être interrogée comme possible trace d'une appartenance collective plus ancienne, mais les usages anthroponymiques et familiaux du latin paroissial constituent une explication concurrente normale. Ne pas assimiler un `de Marianis` du XVIIe siècle à un partisan de Marius sans chaîne documentaire.
 
 **Prochain contrôle prioritaire.** Collationner les trois citations latines avec les actes originaux et vérifier l'identité exacte de l'auteur des annotations/manuscrits (baron Louis Mariani, Louis Hugues Ferdinand Marie Mariani et éventuels homonymes) avant toute attribution personnelle plus précise.
+
+## Déclaration personnelle d'héritage — formulation assumée (24 octobre 2026)
+
+**Parole du revendiquant, distincte des conclusions de l'enquête :**
+
+> Je revendique personnellement l'héritage des *Mariani*, partisans de Caius Marius, à travers Mariana, Mariano da Gaggio et la mémoire de ma famille. Je sais que cette hypothèse peut paraître *farfella* et que les filiations restent à établir. Revendiquer cet héritage n'est pas prétendre avoir démontré quinze siècles de généalogie. Je n'en revendique pas le monopole. À ma connaissance, je suis seul à le revendiquer ainsi. **Qui s'en réclame me contredise.**
+
+Cette déclaration consigne la revendication intellectuelle, politique, symbolique et familiale de Jean Hugues Noël Robert. Elle ne certifie ni exclusivité effective, ni continuité généalogique, ni droit nobiliaire. Le droit de se réclamer d'une tradition est distingué du niveau de preuve des propositions historiques qui la composent. Toute objection ou revendication concurrente peut être instruite par les sources, selon la Seconde Méthode.
+
+La phrase ci-dessus est une **mise en forme éditoriale par l'agent de la position exprimée par JHR**, non une citation littérale préexistante signée par lui.
