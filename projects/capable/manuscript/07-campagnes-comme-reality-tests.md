@@ -1,24 +1,33 @@
 ---
 title: "Des campagnes comme Reality Tests"
+description: "Traiter les campagnes comme des enquêtes documentées, sans confondre leur instrumentation avec leur résultat."
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: "2026-10-24"
+version: "0.2"
+status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/07-campagnes-comme-reality-tests.md"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: "UP-DEFAULT-REVIEWED"
 provenance:
-  origin_type: "corpus-synthesis"
+  origin_type: "repository"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: "7552ac92436c8be503bc22daca554d06b766ff03"
   origin_date: "2026-10-03"
   derived_from:
     - "../architecture.md"
     - "../campaign/matrix.md"
     - "../../../research/senatoriales-2026/README.md"
     - "../../../research/livre_vivant.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
 ---
 
 # Des campagnes comme Reality Tests
@@ -29,11 +38,11 @@ Cela ne transforme pas l’élection en expérience contrôlée. Cela signifie q
 
 ## Première campagne : Sénatoriales 2026 — Campagne du Réel
 
-La Campagne du Réel est la première grande instance documentée dans cette architecture.
+La candidature sénatoriale de Haute-Corse de septembre 2026, menée sous le nom de **Campagne du Réel**, en est la première instance documentée. Son [dossier canonique](../../../research/senatoriales-2026/README.md) rassemble la chronologie probatoire, les sources, la matrice des connaissances et inconnues ainsi que les traces institutionnelles.
 
-Elle a mobilisé chronologies, sources primaires, demandes numérotées, matrices d’interactions et d’effectivité, distinction entre détenteur d’information et autorité de décision, états UNKNOWN/PENDING, contradiction, corrections et Cognitive Packets.
+Elle a mobilisé des chronologies, des pièces sources, des demandes numérotées, des matrices d’interactions et d’effectivité, la distinction entre détenteur d’information et autorité de décision, le maintien des états `UNKNOWN` et `PENDING`, ainsi que des mécanismes de contradiction et de correction.
 
-Cette instrumentation n’est pas le résultat de la campagne. Elle est la manière de préserver ce qui peut être vérifié.
+Cette instrumentation n’est pas le résultat de la campagne. Elle permet de préserver ce qui peut être vérifié. Le chapitre décrit cette méthode ; il ne déduit pas de son emploi un verdict sur l’issue du scrutin. Les faits et l’état procédural restent à lire dans le dossier canonique et ses pièces.
 
 ## Une campagne n’est pas Capable tout entier
 
