@@ -1083,3 +1083,8 @@ Ce sens doctrinal **ne se confond pas avec l'application juridique de l'article 
 Cette clarification prolonge [le noyau doctrinal](noyau_doctrinal_rendre_capable.md), [Capable — Subsidiarité rendue effective](../projects/capable/manuscript/02-subsidiarite-rendue-effective.md) et l'[amendement d'effectivité](autonomia/amendement_effectivite_article_72-5.md). Elle est une proposition doctrinale contemporaine, non une citation de Paoli ou de Rousseau.
 
 *Note de méthode rédactionnelle (« principe Talleyrand ») : la maxime « Ce qui va sans dire va encore mieux en le disant » est couramment attribuée à Talleyrand, notamment dans des reprises relatives à 1814, mais l'attribution exacte à un texte primaire demeure à vérifier.*
+
+
+## Passerelle historique — Mariano da Gaggio et les capacités d'autogouvernement
+
+[Note de recherche sur Mariano da Gaggio, les mobilisations populaires du XVe siècle et la tradition généalogique Mariani](autonomia/mariano_da_gaggio_tradition_mariani.md). Cette passerelle distingue le personnage historique attesté, la tradition familiale imprimée en 1933 et la filiation non encore démontrée. Elle ne postule aucune continuité idéologique automatique entre les Ghjuvannali, 1357, Mariano, 1755 et l'autonomie contemporaine.
