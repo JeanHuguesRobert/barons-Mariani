@@ -1,22 +1,59 @@
 #!/usr/bin/env python3
-"""Minimal deterministic Markdown source processor. No transmission or PDF generation."""
+"""Deterministic Markdown projection; preview keeps PILOTAGE, institutional output strips it."""
 import argparse
+import json
 import re
 from pathlib import Path
 
-DIRECTIVE = re.compile(r"<!--\s*#pragma\s+(TODO|META|INCLUDE)\b([\s\S]*?)-->", re.I)
+DIRECTIVE = re.compile(r"<!--\s*#pragma\s+(TODO|META|INCLUDE|FORMAT|PILOTAGE)\b([\s\S]*?)-->", re.I)
 ANY_PRAGMA = re.compile(r"<!--\s*#pragma\b", re.I)
 UNSAFE = re.compile(r"<!--\s*(?:INTERNAL-TODO|INTERNAL-META)\b[\s\S]*?-->", re.I)
 BLOCK = re.compile(r"<!--\s*(?:INTERNAL-TODO|INTERNAL-META)\b", re.I)
+FORMAT_DIRECTIVE = re.compile(r"<!--\s*#pragma\s+FORMAT\b([\s\S]*?)-->", re.I)
 
 
 class PreprocessError(ValueError):
     pass
 
 
+def parse_format_spec(payload):
+    try:
+        spec = json.loads(payload.strip())
+    except json.JSONDecodeError as exc:
+        raise PreprocessError("FORMAT requires a valid JSON object") from exc
+    if not isinstance(spec, dict) or set(spec) != {"profile", "plain_text", "pdf"}:
+        raise PreprocessError("FORMAT requires profile, plain_text, and pdf settings")
+    if spec["profile"] != "rfc7994":
+        raise PreprocessError("unsupported plain-text profile")
+    plain = spec["plain_text"]
+    pdf = spec["pdf"]
+    if not isinstance(plain, dict) or set(plain) != {
+        "columns", "page_lines", "toc_depth", "bom", "form_feed"
+    }:
+        raise PreprocessError("FORMAT plain_text settings do not match the supported schema")
+    if plain["columns"] != 72 or plain["page_lines"] != 58:
+        raise PreprocessError("RFC 7994 layout requires 72 columns and 58 lines per page")
+    if plain["bom"] is not True or plain["form_feed"] is not True:
+        raise PreprocessError("RFC 7994 text output requires a UTF-8 BOM and form-feed pagination")
+    if not isinstance(pdf, dict) or set(pdf) != {"toc_depth"}:
+        raise PreprocessError("FORMAT pdf settings do not match the supported schema")
+    for value in (plain["toc_depth"], pdf["toc_depth"]):
+        if isinstance(value, bool) or not isinstance(value, int) or not 1 <= value <= 6:
+            raise PreprocessError("FORMAT toc_depth must be an integer from 1 through 6")
+    return spec
+
+
+def read_format_spec(path):
+    source = Path(path).read_text(encoding="utf-8")
+    matches = list(FORMAT_DIRECTIVE.finditer(source))
+    if len(matches) != 1:
+        raise PreprocessError(f"expected one FORMAT directive, found {len(matches)}")
+    return parse_format_spec(matches[0].group(1))
+
+
 def transform(path, target="institutional", stack=()):
     path = Path(path).resolve()
-    if target not in ("institutional", "work"):
+    if target not in ("institutional", "preview", "work"):
         raise PreprocessError("unknown target")
     if path in stack:
         raise PreprocessError("cyclic INCLUDE: " + str(path))
@@ -31,6 +68,11 @@ def transform(path, target="institutional", stack=()):
     def substitute(match):
         kind, value = match.group(1).upper(), match.group(2).strip()
         if kind in ("TODO", "META"):
+            return ""
+        if kind == "PILOTAGE":
+            return value if target == "preview" else ""
+        if kind == "FORMAT":
+            parse_format_spec(value)
             return ""
         if not value or not value.startswith("path:"):
             raise PreprocessError("INCLUDE requires 'path: relative/file.md'")
@@ -48,7 +90,7 @@ def transform(path, target="institutional", stack=()):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("source", type=Path)
-    ap.add_argument("--target", choices=["institutional", "work"], required=True)
+    ap.add_argument("--target", choices=["institutional", "preview", "work"], required=True)
     ap.add_argument("--output", type=Path, required=True)
     args = ap.parse_args()
     generated = transform(args.source, args.target)
