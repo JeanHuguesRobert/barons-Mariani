@@ -101,3 +101,8 @@ acte primaire précis
 ```
 
 Cette hiérarchie n'est pas absolue : une annotation tardive erronée peut valoir moins que Meurgey, et plusieurs sources secondaires convergentes peuvent signaler une erreur de l'imprimé. Elle sert de **prior de travail**, pas de mécanisme automatique de vérité.
+
+
+## Passerelle historique — Mariano da Gaggio
+
+[Note de provenance et comparaison avec l'histoire longue de l'autonomie corse](../../../research/autonomia/mariano_da_gaggio_tradition_mariani.md). La tradition familiale rapportée dans les pages 1 et 5–6 est attestée comme tradition, non comme filiation établie. Les manuscrits conservés et la chaîne Louis Hugues / Pierre Mariani / Meurgey restent à collationner.
