@@ -99,3 +99,8 @@ Source : [Meurgey p. 4](../../musee-mariani/sources/meurgey-1933/transcription/p
 Cette déclaration consigne la revendication intellectuelle, politique, symbolique et familiale de Jean Hugues Noël Robert. Elle ne certifie ni exclusivité effective, ni continuité généalogique, ni droit nobiliaire. Le droit de se réclamer d'une tradition est distingué du niveau de preuve des propositions historiques qui la composent. Toute objection ou revendication concurrente peut être instruite par les sources, selon la Seconde Méthode.
 
 La phrase ci-dessus est une **mise en forme éditoriale par l'agent de la position exprimée par JHR**, non une citation littérale préexistante signée par lui.
+
+
+## Cristallisation réflexive en aval
+
+[Affiliation marianiste et « âme corse » — hypothèse et objections](marianisme_ame_corse_hypothese.md). Le document distingue la tradition généalogique, la revendication personnelle de JHR et la comparaison de traits politiques; aucune filiation antique n'en est déduite.
