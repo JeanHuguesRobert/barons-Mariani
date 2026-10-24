@@ -4,7 +4,8 @@ description: "Quand l'automate institutionnel détruit la présomption de bonne 
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-05"
-version: "0.1"
+last_modified_at: "2026-10-24"
+version: "0.2"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -40,7 +41,7 @@ L'actualisation éditoriale de **PrivAI n°1** s'ancre désormais sur sept confr
 
 Le scandale du logiciel de comptabilité **Horizon** au sein du Post Office britannique (*Bates v Post Office*) et le système de recouvrement automatisé **Robodebt** mis en place par Services Australia (*Amato v Commonwealth*) ne sont pas de simples « bugs » informatiques. Ce sont des manifestations achevées de la capture de la puissance publique par l'irresponsabilité algorithmique :
 
-- **Au Royaume-Uni**, plus de 900 directeurs de bureaux de poste (*subpostmasters*) ont été injustement poursuivis, ruinés, emprisonnés ou poussés au suicide entre 1999 et 2015. La cause juridique ? L'article 69 du *Police and Criminal Evidence Act 1984*, abrogé en 1999 sous prétexte d'évidence technique, instaurait une **présomption prétorienne selon laquelle un ordinateur fonctionne correctement sauf preuve formelle du contraire**. Face aux anomalies comptables créées par les bugs internes d'Horizon, le Post Office a délibérément caché les rapports techniques et traité chaque accusé comme un voleur isolé.
+- **Au Royaume-Uni**, le scandale Horizon a conduit à des centaines de condamnations injustifiées de sous-postiers ([Commission de révision des affaires pénales](https://ccrc.gov.uk/post-office/)). Avant son abrogation, l'article 69 du *Police and Criminal Evidence Act 1984* conditionnait l'admissibilité des documents produits par ordinateur à des éléments relatifs à leur usage et à leur bon fonctionnement ([texte de l'article 69](https://www.legislation.gov.uk/ukpga/1984/60/section/69)). Son abrogation par l'article 60 du *Youth Justice and Criminal Evidence Act 1999*, entrée en vigueur le 14 avril 2000, a rétabli le droit commun : en l'absence d'élément contraire, le système est présumé fonctionner correctement ([note explicative officielle, §§ 201–202](https://www.legislation.gov.uk/ukpga/1999/23/notes/division/4/2/6/3)). Le scandale Horizon met en évidence les limites de cette présomption face aux défaillances du logiciel et à la dissimulation de documents techniques.
 - **En Australie**, 400 000 allocataires sociaux ont reçu des avis d'imposition et de recouvrement fondés sur un moyennage statistique illégal (*algorithmic income averaging*) confrontant données fiscales annuelles et déclarations bimensuelles. Le système a unilatéralement **renversé la charge de la preuve** : c'était au citoyen le plus précaire de retrouver, parfois des années après, des fiches de paie disparues pour prouver sa bonne foi face à un automate aveugle.
 
 Dans les deux affaires, le mécanisme est rigoureusement identique : la personne morale (l'État, l'entreprise concessionnaire, le mastodonte logiciel) utilise le masque algorithmique pour s'exonérer de tout examen critique, dissoudre la faute intentionnelle (*mens rea*) et projeter une violence administrative asymétrique sur des individus désarmés.
@@ -59,7 +60,7 @@ L'Union européenne tente de colmater ces brèches avec l'AI Act ou le RGPD. Mai
 
 ## 3. Le Capable Test : de la norme papier à l'épreuve de contrariété
 
-C'est pour briser cette asymétrie que PrivAI formule le **Capable Test** ([Chapitre 12](file:///C:/tweesic/barons-Mariani/projects/privai/manuscript/n1/12-privai-comme-reality-test.md)).
+C'est pour briser cette asymétrie que PrivAI formule le **Capable Test** ([Chapitre 12](../manuscript/n1/12-privai-comme-reality-test.md)).
 
 Une capacité civique (droit d'accès, droit de contester, droit de se défendre, droit de refuser) ne peut être validée comme réelle que si elle franchit simultanément trois seuils d'effectivité :
 
