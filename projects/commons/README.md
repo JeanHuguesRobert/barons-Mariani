@@ -77,6 +77,10 @@ Le Livre Vivant pourra étudier notamment :
 - intelligence collective ;
 - nouvelles institutions de gouvernance distribuée.
 
+## Grille de travail comptable
+
+Le [modèle économique et comptable des communs](accounting/modele-economique-communs.md) propose une grille provisoire sur l’affectation des surplus, les coûts d’usage et la péréquation. Il ne pose pas de règle universelle.
+
 ## Double orientation
 
 Commons regarde simultanément :
