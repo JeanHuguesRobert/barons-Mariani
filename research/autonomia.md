@@ -1088,3 +1088,8 @@ Cette clarification prolonge [le noyau doctrinal](noyau_doctrinal_rendre_capable
 ## Passerelle historique — Mariano da Gaggio et les capacités d'autogouvernement
 
 [Note de recherche sur Mariano da Gaggio, les mobilisations populaires du XVe siècle et la tradition généalogique Mariani](autonomia/mariano_da_gaggio_tradition_mariani.md). Cette passerelle distingue le personnage historique attesté, la tradition familiale imprimée en 1933 et la filiation non encore démontrée. Elle ne postule aucune continuité idéologique automatique entre les Ghjuvannali, 1357, Mariano, 1755 et l'autonomie contemporaine.
+
+
+## Hypothèse anthropologique — affiliation marianiste et « âme corse »
+
+[Note source exploratoire : résistance à la dépossession de la capacité d'agir](autonomia/marianisme_ame_corse_hypothese.md). Proposition comparatiste et revendication personnelle, sans essentialisme ni continuité généalogique tenue pour démontrée. La notion d'« âme corse » y est étudiée comme catégorie culturelle disputée, non comme attribut uniforme d'une population.
