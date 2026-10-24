@@ -1467,6 +1467,12 @@ It need not rely on machine learning.
 It learns if its accumulated experience changes how it performs later
 cognitive work.
 
+## Research extension (2026-10-24): evolutionary capacity and population thinking
+
+An independently scoped, **non-normative, falsifiable** research programme now examines whether Cognitive Packet lineage, multiple competing methods, RAIX diversity, stigmergic selection, governed evaluation and glacial reactivation produce *network-level capacity evolution*, rather than merely preserving individual task results. This extends the candidate interpretation of the learning loop; it does **not** modify the reviewed baseline, change COP schemas or establish a biological law.
+
+See [Evolutionary Learning Computer — Research Programme](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/evolutionary_learning_computer_research_program.md) for hypotheses, controls, null models, proposed ablations, historical prior art and a cold-handler diversity Reality Test. In particular, distinguish selection by propagation frequency from selection by verified outcomes, and preserve minority variants where their future option value may exceed their retention/recovery cost.
+
 # 30. Conclusion
 
 Sun’s phrase remains correct.
