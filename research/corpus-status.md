@@ -3,9 +3,9 @@ title: Corpus Status — barons-Mariani
 description: Current state of the barons-Mariani knowledge corpus — what is proved, what is open, what remains possible
 layout: default
 nav_order: 2
-last_modified_at: 2026-10-07
+last_modified_at: 2026-10-24
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/corpus-status.md
-last_stamped_at: 2026-06-01T00:00:00.000Z
+last_stamped_at: 2026-10-24
 license: CC BY-SA 4.0
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: 2026-05-27T00:00:00.000Z
@@ -93,9 +93,94 @@ graph LR
   r_github[".github"]
   r_acorsica_org["acorsica.org"]
   r_structenv["StructEnv"]
+  r_cogentia -->|139| r_barons_mariani
+  r_barons_mariani -->|106| r_cogentia
+  r_jeanhuguesrobert -->|68| r_barons_mariani
+  r_fractavolta -->|54| r_cogentia
+  r_inseme -->|45| r_cogentia
+  r_barons_mariani -->|41| r_jeanhuguesrobert
+  r_fractavolta -->|37| r_marenostrum
+  r_jeanhuguesrobert -->|36| r_cogentia
+  r_cogentia -->|35| r_inseme
+  r_barons_mariani -->|24| r_marenostrum
+  r_barons_mariani -->|23| r_fractavolta
+  r_fractavolta -->|22| r_inseme
+  r_fractavolta -->|21| r_barons_mariani
+  r_inseme -->|20| r_barons_mariani
+  r_barons_mariani -->|19| r_inseme
+  r_cogentia -->|19| r_marenostrum
+  r_marenostrum -->|19| r_cogentia
+  r_inox -->|16| r_cogentia
+  r_jeanhuguesrobert -->|16| r_marenostrum
+  r_operium -->|14| r_cogentia
+  r_inseme -->|12| r_fractavolta
+  r_inseme -->|12| r_inox
+  r_marenostrum -->|12| r_fractavolta
+  r_inox -->|11| r_barons_mariani
+  r_marenostrum -->|11| r_barons_mariani
+  r_cogentia -->|10| r_fractavolta
+  r_inox -->|10| r_fractavolta
+  r_inox -->|9| r_inseme
+  r_jeanhuguesrobert -->|9| r_fractavolta
+  r_cogentia -->|8| r_jeanhuguesrobert
+  r_fractavolta -->|8| r_inox
+  r_inox -->|8| r_marenostrum
+  r_ubikia -->|8| r_cogentia
+  r_barons_mariani -->|7| r_inox
+  r_inseme -->|7| r_jeanhuguesrobert
+  r_jeanhuguesrobert -->|7| r_inseme
+  r_barons_mariani -->|6| r_ubikia
+  r_inseme -->|6| r_kudos
+  r_jeanhuguesrobert -->|6| r_inox
+  r_cogentia -->|5| r_privai
+  r_ubikia -->|5| r_barons_mariani
+  r_cogentia -->|4| r_inox
+  r_fractavolta -->|4| r_jeanhuguesrobert
+  r_marianivillage -->|4| r_fractavolta
+  r_operium -->|4| r_inseme
+  r_operium -->|4| r_marenostrum
+  r_ubikia -->|4| r_jeanhuguesrobert
+  r_github -->|3| r_gouvernance
+  r_jeanhuguesrobert -->|3| r_ubikia
+  r_kudos -->|3| r_barons_mariani
+  r_operium -->|3| r_barons_mariani
+  r_barons_mariani -->|2| r_privai
+  r_cogentia -->|2| r_operium
+  r_gouvernance -->|2| r_barons_mariani
+  r_gouvernance -->|2| r_fractavolta
+  r_inox -->|2| r_jeanhuguesrobert
+  r_inseme -->|2| r_marenostrum
+  r_institut_mariani -->|2| r_barons_mariani
+  r_institut_mariani -->|2| r_fractavolta
+  r_marenostrum -->|2| r_jeanhuguesrobert
+  r_marenostrum -->|2| r_inseme
+  r_marenostrum -->|2| r_inox
+  r_github -->|1| r_institut_mariani
+  r_barons_mariani -->|1| r_institut_mariani
+  r_cogentia -->|1| r_kudos
+  r_gouvernance -->|1| r_jeanhuguesrobert
+  r_gouvernance -->|1| r_cogentia
+  r_gouvernance -->|1| r_inseme
+  r_gouvernance -->|1| r_marenostrum
+  r_gouvernance -->|1| r_inox
+  r_gouvernance -->|1| r_kudos
+  r_gouvernance -->|1| r_marianivillage
+  r_inseme -->|1| r_operium
+  r_inseme -->|1| r_privai
+  r_inseme -->|1| r_ubikia
+  r_institut_mariani -->|1| r_privai
+  r_institut_mariani -->|1| r_kudos
+  r_institut_mariani -->|1| r_marianivillage
+  r_institut_mariani -->|1| r_inseme
+  r_institut_mariani -->|1| r_cogentia
+  r_institut_mariani -->|1| r_marenostrum
+  r_institut_mariani -->|1| r_inox
+  r_jeanhuguesrobert -->|1| r_operium
+  r_kudos -->|1| r_institut_mariani
+  r_marianivillage -->|1| r_institut_mariani
+  r_privai -->|1| r_barons_mariani
+  r_privai -->|1| r_institut_mariani
 ```
-
-*(No cross-repo links detected.)*
 <!-- END_AUTO: graph -->
 ---
 
@@ -664,6 +749,7 @@ graph LR
 | [Capable — mouvement civique et politique](../projects/capable/README.md) *(project index — projection politique de l’Autonomie de Capacité, du triptyque des Machines, de l’effectivité et de #Suvranu ; doctrine source conservée dans les documents de recherche)* | this repo | 2026-09-25 |
 | [Noyau d’intention opératoire](../identity/INTENT_KERNEL.md) *(identity document v0.1 — stable entry protocol for humans and AI agents continuing the personal corpus without betraying its central intention)* | this repo | 2026-06-20 |
 | [Lien avec C.O.R.S.I.C.A. et l’Institut Mariani](acorsica-institut-mariani.md) *(institutional boundary note — future Barons Mariani fund, museum, C.O.R.S.I.C.A. and Institut Mariani)* | this repo | 2026-06-03 |
+| [Moyens et finalités](moyens_et_finalites.md) *(working paper v0.5 — grille d’effectivité institutionnelle instrumentée par EIM ; finalités multiples, capacités, dépendances, temporalité, H4 et effectivité des remèdes)* | this repo | 2026-09-30 → |
 | [Autonomia — Capacités collectives, capital territorial et flexibilité d'usage dans le cas corse (FR)](autonomia.md) *(working paper v0.15 — continuation constitutionnelle du 26 septembre reliée à l’amendement d’effectivité)* | this repo | 2026-05-18 |
 | [Corsica2038 — De la prospective subie à l'autonomie de capacité (FR)](autonomia/corsica2038_contre_rapport_pruspettiva2050.md) *(working paper v0.1-draft — base programmatique et contre-rapport constructif face à Corsica Pruspettiva 2050)* | this repo | 2026-06-09 |
 | [Projet #1755 — Réintégrer la séquence corse 1729–1755 dans l'histoire mondiale du constitutionnalisme démocratique moderne (FR)](autonomia/projet_1755.md) *(document source ouvert v0.14 — dossier historique et Reality Test capacitaire ; tableau de bord public dans [`autonomia/1755.md`](autonomia/1755.md))* | this repo | 2026-05-26 |
@@ -797,6 +883,12 @@ graph LR
 - [Barons Mariani](../README.md)
 - [Continuation — Constitution minimale des communs : expérimentations et règlements dérivés](../.cogentia/issues/jeanhuguesrobert-barons-mariani/issue-00016.md)
 - [Discours de la seconde méthode](second_method.md)
+- [Research Index — Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/index.md)
+- [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
+- [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
+- [Research Index — Jean Hugues Noël Robert (Profile / Entry Point)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/index.md)
+- [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
 <!-- END_AUTO: possibilities -->
 ---
 

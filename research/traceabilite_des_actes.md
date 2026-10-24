@@ -548,10 +548,25 @@ continuation:
 - [In deserto](in_deserto.md)
 - [La constitution minimale des communs](constitution_minimale_des_communs.md)
 - [La personne numérique mandatée](personne_numerique_mandatee.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_atelier.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_1.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_2.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_4.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie_review_draft_2026-10-21.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sénatoriales 2026 — dossier presse et page d’aiguillage](senatoriales-2026/dossier_presse_2026-09.md)
 - [Trail — Capable](trails/capable.md)
+- [Individual and Collective Digital Twins](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/individual_and_collective_digital_twins.md)
+- [Informational Gravity — Contextual Attraction for Cognitive-Packet Routing](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)
+- [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
+- [Self-Contained Documents in an Interconnected Corpus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/self_contained_documents.md)
+- For researchers
+- COP/Accounting — Resource, Budget, Mandate, and Ledger Semantics
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
+- [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->
 ## Cas d’application — publication de l’amendement d’effectivité
 

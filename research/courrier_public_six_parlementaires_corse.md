@@ -442,7 +442,6 @@ Source : https://www.assemblee-nationale.fr/dyn/deputes/PA719286
 ### Backlinks
 
 *These documents link to this file:*
-- [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
 - [Proposition constitutionnelle — autonomie de capacité de la Corse](proposition_constitutionnelle_autonomie_capacite_corse.md)
 - [Research Index — barons-Mariani](index.md)
 <!-- END_AUTO: backlinks -->

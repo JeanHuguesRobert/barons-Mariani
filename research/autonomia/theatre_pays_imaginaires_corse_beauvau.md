@@ -1519,5 +1519,6 @@ Règle de continuation :
 ### Backlinks
 
 *These documents link to this file:*
+- [Du spectacle à la régie](../debord_stabilisateur_procedural.md)
 - [Research Index — barons-Mariani](../index.md)
 <!-- END_AUTO: backlinks -->

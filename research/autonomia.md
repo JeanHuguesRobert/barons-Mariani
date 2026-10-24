@@ -38,7 +38,8 @@ provenance:
 
 # Autonomia[^titre]
 <!-- BEGIN_AUTO: trails -->
-
+> 🧭 **Trail: From Autonomia to DHITL**
+> ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md)
 <!-- END_AUTO: trails -->
 ## Passerelle éditoriale — Révolutions lumineuses (26 octobre 2026, projet)
 
@@ -953,32 +954,70 @@ L'autonomie de capacité devient ainsi une propriété dynamique : capacité d'u
 Le Révélateur observe les empêchements et les erreurs de cadrage ; les Machines à Explorer et à Rendre Capable éprouvent puis rendent praticables de nouvelles voies ; le Stabilisateur garde les acquis corrigibles sans se substituer à l'examen contradictoire. La Machine à Empêcher peut aussi résulter de règles produites par le système lui-même.
 
 **Hypothèse de travail, non résultat établi :** un examen commun des conditions d'accès aux habilitations, des ressources, des garanties et des effets peut ouvrir un terrain de délibération différent de la seule opposition « davantage de pouvoirs / davantage de contrôle ». Le dossier [d'amendement d'effectivité à l'article 72-5](autonomia/amendement_effectivite_article_72-5.md) offre un objet d'épreuve, sans présumer de son adoption ni de son influence parlementaire.
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
+- [1755 — Épilogue : Ponte Novu 1769 et la réactualisation démocratique contemporaine](../projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md)
+- [1755 — Livre Vivant du constitutionnalisme démocratique moderne](../projects/1755/README.md)
 - [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 - [Barons Mariani](../README.md)
 - [Capable — Carte doctrinale](../projects/capable/doctrine.md)
+- [Carnet narratif n° 1 — La tombe, le pouvoir et les papiers](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/carnet-narratif-01.md)
+- [Chapitre 3 — 1755 : les mots et leurs effets](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/chapitres/03-paoli-1755.md)
+- [Chapitre 6 — Un couvent en plusieurs morceaux](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/chapitres/06-chercher-aujourdhui.md)
 - [Concept Index — barons-Mariani](concepts.md)
+- [Confédération des Livres Vivants — passerelles du numéro](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/passerelles.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [De Corte à Philadelphie : chaîne documentaire de la Constitution corse (1755–1776)](autonomia/chaine_documentaire_1755_1776.md)
 - [Démocratie capable](democratie_capable.md)
 - [Genèse probatoire de l’amendement d’effectivité — article 72-5](autonomia/genese_probatoire_amendement_effectivite_2026.md)
+- [Histoire de la devise républicaine — inventaire, protocole de sources et sommaire vivant](devise_republicaine/cadrage_et_sommaire.md)
 - [La constitution minimale des communs](constitution_minimale_des_communs.md)
+- [La Corse, carrefour des civilisations : Rousseau, le petit peuple et l'effectivité](autonomia/corse_carrefour_civilisations_rousseau_petit_parti.md)
 - [La démocratie spectaculaire](la_democratie_spectaculaire.md)
+- [La méthode des terrains féconds](methode_terrains_feconds.md)
+- [Le Livre — Révolutions lumineuses : Looking for Gaffory](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/livre.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_atelier.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_1.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_2.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_4.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie_review_draft_2026-10-21.md)
+- [Magazine — Révolutions lumineuses](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/magazine.md)
+- [Note juridique — autonomie de capacité et subsidiarité ascendante](../projects/capable/derived/2026-10-21-note-juridique-subsidiarite-ascendante.md)
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
+- [Paoli et la France révolutionnaire : souveraineté proclamée et effectivité (1755–1807)](autonomia/paoli_france_revolutionnaire_effectivite.md)
 - [Potentique territoriale](autonomia/potentique_territoriale.md)
 - [Projet #1755](autonomia/projet_1755.md)
+- [Projet #1755 — Audit historiographique international : visibilité, omissions et corrections](autonomia/audit_historiographique_international_1755.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](autonomia/1755.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
+- [Révolutions lumineuses — cadrage critique du 20 octobre 2026](../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/note-cadrage-2026-10-20.md)
+- [Révolutions lumineuses — Dossier critique et programme de vérification](../projects/rise-and-fall/manuscript/annexes/revolutions-lumineuses-dossier-sources.md)
+- [Révolutions lumineuses — Looking for Gaffory](../projects/rise-and-fall/manuscript/book/revolutions-lumineuses-looking-for-gaffory.md)
+- [Révolutions lumineuses — numéro préparatoire du 26 octobre 2026](../projects/rise-and-fall/manuscript/magazine/2026-10-26-revolutions-lumineuses.md)
+- [Révolutions lumineuses — programme éditorial et scientifique transversal](../projects/rise-and-fall/investigation/revolutions-lumineuses-programme-2026-10-26.md)
+- [Rise & Fall of the Mariani Family — projet de recherche et d'enquête](../projects/rise-and-fall/README.md)
 - [Sénatoriales 2026 — dossier presse et page d’aiguillage](senatoriales-2026/dossier_presse_2026-09.md)
 - [Sénatoriales 2026 — fiche de vérification de la candidature Baron Mariani](notice_candidature_senatoriales_2026_medias.md)
+- [Subsidiarité rendue effective](../projects/capable/manuscript/02-subsidiarite-rendue-effective.md)
 - [Trail — Capable](trails/capable.md)
 - [Trail — Une Corse capable](trails/une_corse_capable.md)
+- [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](autonomia/grille_ubuesque_kafkaien_machine_a_empecher.md)
 - [Verticalisation de la Chrétienté](christianity_verticalization.md)
+- [La constitution minimale des communs](https://github.com/JeanHuguesRobert/cogentia/blob/main/docs/constitution_minimale_des_communs.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
+- [Le Réseau Inconscient](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/LE_RESEAU_INCONSCIENT.md)
+- [The Unconscious Grid](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/UNCONSCIOUS_GRID.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
+- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
+- [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 <!-- END_AUTO: backlinks -->
 ---
 

@@ -1274,15 +1274,29 @@ Dans la grammaire du Corpus, le **Révélateur** identifie aussi les terrains co
 **Un terrain fécond n'est durablement fécond que s'il reste capable de révéler et corriger sa propre stérilisation.** Test contradictoire : quelle capacité nouvelle est apparue, qui peut réellement l'exercer, et quelle autre cause pourrait expliquer l'effet observé ?
 
 Voir [Autonomia](autonomia.md), [Rendre capable — noyau doctrinal](noyau_doctrinal_rendre_capable.md) et [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md).
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
+- [1755 — Épilogue : Ponte Novu 1769 et la réactualisation démocratique contemporaine](../projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md)
+- [Autonomia](autonomia.md)
 - [Barons Mariani](../README.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
 - [Discours de la seconde méthode](second_method.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_atelier.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_1.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_2.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_4.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie.md)
+- [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie_review_draft_2026-10-21.md)
+- [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)
 - [The Booster Principle](booster_principle.md)
+- [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md)
+- For researchers
+- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
+- [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->

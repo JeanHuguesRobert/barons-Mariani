@@ -87,7 +87,8 @@ provenance:
 
 # Projet #1755
 <!-- BEGIN_AUTO: trails -->
-
+> 🧭 **Trail: From Autonomia to DHITL**
+> ⬅️ Previous: [GR20 : du quota à l’autonomie de capacité](../gr20_autonomie_de_capacite.md) | ➡️ Next: [Traçabilité civique anti-mafieuse](../traceabilite_civique_antimafia.md)
 <!-- END_AUTO: trails -->
 ## Réintégrer la séquence corse 1729–1755 dans l’histoire mondiale du constitutionnalisme démocratique moderne
 
@@ -1694,15 +1695,25 @@ L’amendement est volontairement publiable et appropriable : son but n’est pa
 *These documents link to this file:*
 - [Autonomia](../autonomia.md)
 - [Barons Mariani](../../README.md)
+- [Chapitre 3 — 1755 : les mots et leurs effets](../../projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/chapitres/03-paoli-1755.md)
 - [Concept Index — barons-Mariani](../concepts.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](corsica2038_contre_rapport_pruspettiva2050.md)
+- [De Corte à Philadelphie : chaîne documentaire de la Constitution corse (1755–1776)](chaine_documentaire_1755_1776.md)
+- [La Corse, carrefour des civilisations : Rousseau, le petit peuple et l'effectivité](corse_carrefour_civilisations_rousseau_petit_parti.md)
 - [Livre Vivant](../livre_vivant.md)
+- [Paoli et la France révolutionnaire : souveraineté proclamée et effectivité (1755–1807)](paoli_france_revolutionnaire_effectivite.md)
+- [Projet #1755 — Audit historiographique international : visibilité, omissions et corrections](audit_historiographique_international_1755.md)
 - [Projet #1755 — Tableau de bord public du test de capacité](1755.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Ubuesque, kafkaïen et Machine à Empêcher](grille_ubuesque_kafkaien_machine_a_empecher.md)
+- [Concept Index — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md)
+- [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
+- [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
+- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/master/research/library_packets.md)
+- [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
+- [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
+- [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->
-
-
 ## Actualisation archivistique — 9 octobre 2026
 
 Le catalogue patrimonial *Collection Corse #10* publie une référence précise à la Constitution de novembre 1755 : **Archives de la Collectivité de Corse–Pumonti, 1 J 7/1**. Il s'agit d'une trace secondaire solide, non d'une confirmation archivistique directe. Le manuscrit décrit par Dorothy Carrington (1974, 10 pages et demie, signé Paoli) doit encore être rapproché matériellement de cette cote ; une source évoque par ailleurs une ancienne série G. Le dossier ne peut donc plus dire simplement « aucune cote trouvée », mais il ne peut pas non plus déclarer l'original authentifié.

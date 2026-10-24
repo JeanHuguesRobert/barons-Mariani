@@ -380,6 +380,7 @@ Ce document est publié sous licence **CC-BY-SA 4.0** :
 
 *These documents link to this file:*
 - [Concept Index — barons-Mariani](concepts.md)
+- [Gaffori–Mariani–Capucins de Corte — enquête critique](../musee-mariani/sources/meurgey-1933/apparatus/gaffori-mariani-capucins-enquete-2026-10.md)
 - [Personnes — index généalogique du Musée Mariani](../musee-mariani/personnes/README.md)
 - [projet minesteggio - moved](../projet_minesteggio.md)
 - [Research Index — barons-Mariani](index.md)

@@ -642,8 +642,12 @@ La liste suivante est conservée comme trace de l'état préparatoire du dossier
 *These documents link to this file:*
 - [Autonomie de la Corse — note de continuité parlementaire](autonomia/note_continuite_parlementaire_autonomie_2026-09.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
+- [Dossier de lecture parlementaire — Corse, article 72-5](autonomia/dossier_rapporteur_senat_2026-10-09.md)
 - [Genèse probatoire de l’amendement d’effectivité — article 72-5](autonomia/genese_probatoire_amendement_effectivite_2026.md)
+- [Note synthétique pour examen parlementaire](note_synthetique_autonomie_capacite_corse.md)
+- [Notice de provenance et de pertinence — calendrier sénatorial du 26 octobre et motif de candidature](senatoriales-2026/complement-2026-6589-sen/notice-calendrier-senat-motif-candidature-2026-10-21.md)
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sénatoriales 2026 — kit presse post-scrutin du 27 septembre](senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md)
+- [Interaction Packets — Tableau de bord (JHR)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md)
 <!-- END_AUTO: backlinks -->

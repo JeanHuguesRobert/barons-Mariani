@@ -8105,10 +8105,15 @@ Statut : proposition publique ; aucun dépôt, soutien ou adoption parlementaire
 
 *These documents link to this file:*
 - [Atlas du paysage politique et discursif corse — Une Corse capable](atlas_paysage_politique_corse.md)
+- [Autonomie de la Corse — note de continuité parlementaire](note_continuite_parlementaire_autonomie_2026-09.md)
+- [Dossier de lecture parlementaire — Corse, article 72-5](dossier_rapporteur_senat_2026-10-09.md)
 - [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
 - [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
 - [Le théâtre des pays imaginaires de Corse](theatre_pays_imaginaires_corse_beauvau.md)
 - [Le théâtre des pays imaginaires de Corse](theatre_pays_imaginaires_corse_beauvau_blogpost.md)
+- [Note synthétique pour examen parlementaire](../note_synthetique_autonomie_capacite_corse.md)
+- [OSINT — acteurs du processus d’autonomie de la Corse](osint_acteurs/index.md)
+- [OSINT — Paulu Santu Parigi](osint_acteurs/paulu_santu_parigi.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Stock de formules publiques — Autonomie de Capacité](formules_publiques_autonomie_capacite.md)
 - [Trail — Une Corse capable](../trails/une_corse_capable.md)
