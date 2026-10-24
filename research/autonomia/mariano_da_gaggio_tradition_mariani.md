@@ -72,3 +72,20 @@ Mariano présente une difficulté intéressante pour l'autonomie de capacité : 
 ### Critères méthodologiques
 
 Tester séparément trois hypothèses : **(A)** transmission généalogique, **(B)** transmission anthroponymique ou territoriale, **(C)** récurrence comparée de pratiques politiques sans transmission. Les hypothèses B et C peuvent survivre à la réfutation de A. Inscrire les lacunes chronologiques comme telles ; ne jamais les combler par la seule répétition du nom.
+
+## Revendication explicite de JHR et attestations anciennes `de Marianis` (24 octobre 2026)
+
+**Témoignage du revendiquant.** Jean Hugues Noël Robert déclare être actuellement le seul à revendiquer personnellement l'héritage reliant les `Mariani` de Caius Marius, la colonie de Mariana, Mariano da Gaggio et sa propre tradition familiale. Consigner ceci comme une **déclaration personnelle d'exclusivité**, non comme une exclusivité historiquement vérifiée parmi toutes les personnes susceptibles de revendiquer cet héritage. Une revendication mémorielle ou intellectuelle n'établit pas une filiation biologique.
+
+**Fait textuel vérifié dans la transcription Meurgey 1933, p. 4.** Les passages d'actes paroissiaux cités par le baron Louis Mariani comportent explicitement :
+- 9 octobre 1674 : `Andreae de Marianis`;
+- 10 août 1675 : `Marianus Orsini de Marianis`;
+- 3 juin 1696 : `Antonius Dominicus clericus de Marianis`.
+
+Source : [Meurgey p. 4](../../musee-mariani/sources/meurgey-1933/transcription/p004.md). Transcription toujours au stade *draft-transcription*, passages latins à contrôler sur scans et, si possible, registres originaux. Ces dates sont celles énoncées dans les actes reproduits, non une vérification des originaux.
+
+**Distinction herméneutique importante.** Le baron Louis reconnaît que ses ancêtres utilisaient une forme avec `de` ; il critique ensuite en [p. 5](../../musee-mariani/sources/meurgey-1933/transcription/p005.md) la **restauration moderne d'une particule** dans les patronymes italiens, sauf référence à un lieu, fief ou province. Il ne nie donc pas les occurrences qu'il vient de citer. L'idée qu'il aurait ignoré l'origine antique éventuelle des `Mariani` relève de l'**interprétation critique de JHR**, et non d'un fait démontré sur les connaissances historiques du baron Louis.
+
+**Hypothèse supplémentaire, non prouvée.** La construction latine `de Marianis` pourrait être interrogée comme possible trace d'une appartenance collective plus ancienne, mais les usages anthroponymiques et familiaux du latin paroissial constituent une explication concurrente normale. Ne pas assimiler un `de Marianis` du XVIIe siècle à un partisan de Marius sans chaîne documentaire.
+
+**Prochain contrôle prioritaire.** Collationner les trois citations latines avec les actes originaux et vérifier l'identité exacte de l'auteur des annotations/manuscrits (baron Louis Mariani, Louis Hugues Ferdinand Marie Mariani et éventuels homonymes) avant toute attribution personnelle plus précise.
