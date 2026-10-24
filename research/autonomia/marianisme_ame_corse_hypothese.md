@@ -125,3 +125,25 @@ Dans *VALIS* (1981), Philip K. Dick écrit **« The Empire never ended »** et p
 > « Si l'Empire n'a jamais cessé de renaître, la résistance à la dépossession n'a jamais cessé de se réinventer. Le Petit Parti se revendique, symboliquement, du parti des *Mariani* : non une succession prouvée, mais une affiliation volontaire, ouverte à la critique. »
 
 Cette proposition ouvre une enquête sur les mécanismes institutionnels qui reproduisent domination et résistance ; elle ne confère aucune validation historique supplémentaire aux chaînons manquants de la filiation Mariani.
+
+
+## 8. Spartacus, Sparte et Athènes : trois figures distinctes de la verticalité et de la capacité distribuée
+
+**Extension proposée par JHR (24 octobre 2026) :** convoquer Spartacus, puis l'opposition typologique « Sparte verticale / Athènes horizontale » dans la réflexion sur le Pertitellu et la récurrence des mécanismes d'Empire. Ce montage relève d'une **comparaison philosophique**, non d'une continuité historique ou partisane prouvée.
+
+**Spartacus (73–71 av. J.-C.)** est un gladiateur d'origine thrace qui dirige une grande insurrection d'esclaves contre Rome. Son nom ne constitue pas une preuve d'origine spartiate, et son mouvement n'est pas connu comme parti marianiste. Son combat met au premier plan l'exclusion radicale des esclaves de toute capacité politique et personnelle. [Oxford Classical Dictionary, « Spartacus »](https://academic.oup.com/edited-volume/61673/chapter-abstract/550498571), [Larousse](https://www.larousse.fr/encyclopedie/personnage/Spartacus/145021).
+
+**Sparte et Athènes, idéaux-types sous contrôle.** Dans l'opposition schématique, Sparte représente une communauté civique fortement disciplinée et hiérarchisée dont la délibération est filtrée par la Gérousie et les éphores ; Athènes représente l'expérience de délibération et décision directes par les citoyens. Cependant Sparte possédait assemblée, contrôles et partage de pouvoirs ; Athènes excluait les femmes, les métèques et les esclaves et exerçait des dominations impériales. Une opposition « vertical/horizontal » absolue serait fausse. [P. J. Rhodes, *The Greek City States*, ch. Sparta](https://www.cambridge.org/core/books/abs/greek-city-states/sparta/551820E91FB2C8F248CD1ED8AC415994), [*Classical Quarterly* sur la délibération spartiate](https://www.cambridge.org/core/journals/classical-quarterly/article/divided-power-and-deliberative-procedures-in-ancient-sparta/DB515806C3F3CFF62AEDA17A1E47A204), [T. N. Mitchell, *Democracy's Beginning*, ch. 8](https://academic.oup.com/yale-scholarship-online/book/15876/chapter-abstract/170769913).
+
+### Hypothèse de structure
+
+Le point commun à examiner n'est pas « les bons horizontaux contre les mauvais verticaux ». Il est la **frontière de la communauté des capables** :
+- qui a voix dans la décision ?
+- qui prépare et verrouille l'ordre du jour ?
+- qui dispose de terres, moyens, protections et voies de recours ?
+- qui, indispensable à la production du collectif, demeure tenu hors de sa souveraineté ?
+- un mouvement d'émancipation corrige-t-il cette exclusion ou crée-t-il une nouvelle élite ?
+
+Spartacus rend visible la position de l'exclu absolu; Athènes démontre qu'une forte horizontalité **interne** est compatible avec l'exclusion **externe**; Sparte montre une citoyenneté interne encadrée par un système institutionnel discipliné et une dépendance servile majeure. Marius et Mariano da Gaggio servent de contre-épreuves : mobiliser le peuple n'empêche pas l'accumulation personnelle du pouvoir.
+
+**Critère dérivé pour Capable et le Petit Parti :** ne mesurer ni la seule horizontalité formelle ni la seule présence d'un chef populaire ; mesurer qui devient effectivement capable, et quel dispositif permet de contester, contrôler et révoquer les détenteurs de puissance. L'expression « Empire qui ne finit pas » de PKD reste une image critique des structures de domination, pas une chronologie littérale.
