@@ -50,3 +50,25 @@ Mariano présente une difficulté intéressante pour l'autonomie de capacité : 
 4. **Diffusion dérivée, après vérification des sources** : liens depuis le Musée Mariani, Rise & Fall et Autonomia; ne pas transformer cette note en doctrine souveraine ni en prétention généalogique certaine.
 
 **Statut final :** l'existence d'une tradition écrite est vérifiée par la transcription du volume de 1933; le lien de descendance et la chaîne précise des manuscrits demeurent à prouver.
+
+## Hypothèse de longue durée : les *Mariani* de Caius Marius et Mariana
+
+**État de vérification du 24 octobre 2026.** L'hypothèse proposée par JHR est d'examiner une continuité éventuelle entre les partisans antiques de Caius Marius (*Mariani*), les vétérans associés à la colonie romaine de Mariana en Corse, la transmission éventuelle de l'anthroponyme *Marianus/Mariano/Mariani*, Mariano da Gaggio (XVe siècle) et la tradition généalogique Mariani rapportée par Meurgey (1933). Il s'agit d'une **hypothèse exploratoire à plusieurs chaînons non établis**, et non d'une ascendance démontrée ou d'une permanence idéologique prouvée.
+
+### Faits indépendamment attestés
+
+1. Des partisans de Marius ont existé lors des guerres civiles romaines (Appien, *Guerres civiles* I; synthèses modernes). Le terme latin *Marianis* apparaît chez Florus dans l'opposition « Marianis atque Sullanis », relevée dans Federico Santangelo, « Sullanus and Sullani », *Arctos* 46 (2012), p. 187–191. Une désignation politique antique ne signifie pas que les personnes portaient un nom de famille héréditaire « Mariani ».
+2. Pline l'Ancien (*Histoire naturelle*, III, 80) attribue la fondation de **Mariana** à Caius Marius, et celle d'**Aleria** au dictateur Sylla : « Marianam, a C. Mario deductam, Aleriam, a dictatore Sulla ». L'origine marienne de Mariana est rappelée par le [musée de Mariana](https://www.musee-mariana.com/fr/le-site-archeologique), la [ville de Lucciana](https://www.ville-lucciana.com/mariana-site-historique/la-colonie-romaine-de-mariana/) et [l'Université de Gand](https://research.flw.ugent.be/en/projects/archaeological-research-mariana-corsica). Les modalités exactes et la chronologie de la fondation sont discutées.
+3. L'historien Federico Santangelo (étude sur les colonies de Sylla, Brill, passage consacré à Aléria) envisage la fondation sullanienne d'Aléria comme une réponse à Mariana, apparemment non démantelée après la défaite des *Mariani*. Voir [aperçu de l'étude](https://brill.com/previewpdf/book/9789047423713/Bej.9789004163867.i-300_014.xml).
+4. Le nom italien **Mariani** peut dériver du prénom **Mariano**, lui-même rattaché au latin *Marianus*, sans présupposer une affiliation au parti de Marius; [FamilySearch, origine du patronyme](https://www.familysearch.org/en/surname?surname=mariani). La proximité des formes est un indice onomastique à étudier, non une preuve de descendance.
+
+### Chaînons à établir ou à falsifier
+
+- **Mariana romaine → familles médiévales :** épigraphie, prosopographie, continuités archéologiques et transformations du peuplement après l'Antiquité.
+- **Marianus/Mariano → Mariano da Gaggio :** premières attestations de l'anthroponyme, contexte chrétien et usages régionaux ; homonymies à neutraliser.
+- **Mariano da Gaggio → Mariani modernes :** chaîne générationnelle continue, jusque-là absente de la tradition explicitement conjecturale de Meurgey.
+- **Continuité politique :** ne pas confondre les conflits Marius/Sylla, ceux du pouvoir seigneurial médiéval et l'autonomie de capacité contemporaine. Une continuité de motifs politiques est une comparaison, non une transmission prouvée.
+
+### Critères méthodologiques
+
+Tester séparément trois hypothèses : **(A)** transmission généalogique, **(B)** transmission anthroponymique ou territoriale, **(C)** récurrence comparée de pratiques politiques sans transmission. Les hypothèses B et C peuvent survivre à la réfutation de A. Inscrire les lacunes chronologiques comme telles ; ne jamais les combler par la seule répétition du nom.
