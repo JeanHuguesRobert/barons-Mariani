@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 title: "Atelier Culture du Blé à Minesteggio — histoire, transmission et projet 2026–2027"
 subtitle: "Présentation publique et notice de terrain — Musée Mariani des Possibles"
 date: '2026-10-13'
-version: '0.2'
+version: '0.3'
 status: working-paper
 document_role: source
 document_kind: field-observation-and-workshop-proposal
@@ -123,3 +123,53 @@ La présente fiche documente le **fait historique local** et la prochaine expér
 - Calendrier, viabilité des semences et périmètre du futur semis.
 
 **Principe de conservation :** préserver d'abord les faits, témoignages et sources originales ; publier ensuite les projections muséales sans effacer les incertitudes.
+
+
+---
+
+## Annexe — État de l'art en Corse : le retour du blé, des céréales et du pain
+
+*Repérage documentaire au 25 octobre 2026. État de l'art non exhaustif ; activités constatées, annonces et hypothèses distinguées.*
+
+### Un regain d'intérêt, mais quelle renaissance ?
+
+Depuis les années 2000, plusieurs démarches corses redécouvrent des céréales anciennes, multiplient des semences, réapprennent la moisson, restaurent des espaces de battage ou reconnectent blé, farine et pain. Cette convergence constitue **un regain d'intérêt culturel, agronomique et pédagogique documenté**, non la preuve statistique d'une relance significative de la production céréalière insulaire. La dépendance du pain consommé en Corse à des blés importés demeure signalée en 2026.
+
+Il faut distinguer quatre niveaux : **conserver les semences**, **cultiver réellement**, **transformer en farine et en pain**, puis **transmettre les capacités et évaluer leur diffusion**. Les initiatives suivantes ne sont ni interchangeables ni nécessairement partenaires.
+
+### Initiatives et jalons documentés
+
+| Initiative | Apport documenté | Source et limite |
+| --- | --- | --- |
+| **U Granu Anticu (Aléria, Pancheraccia, Corte et autres sites)** | Association engagée depuis 2007–2008 dans la recherche, la culture et la diffusion de blés anciens ; jardins de variétés, moissons collectives et *Festa di u granu*. Des travaux sont présentés à Corte en mars 2024 ; adhésions proposées pour 2026. | [Corse Net Infos, 2024](https://www.corsenetinfos.corsica/A-Corte-la-renaissance-du-ble-corse-avec-l-association-U-Granu-Anticu_a77156.html) ; [présentation associative](https://www.helloasso.com/associations/u-granu-anticu). Les semences initiales de Minesteggio lui sont attribuées par témoignage direct ; le lot et sa variété restent à identifier. |
+| **Custodii di u Creatu (Canari)** | Multiplication de semences anciennes de *Tosu* et *Maramiese* ; moisson pédagogique en 2024 et conservation de biodiversité cultivée. | [Le Parisien, 4 avril 2025](https://www.leparisien.fr/haute-corse-2b/disparues-depuis-des-decennies-des-plantes-corses-vont-revivre-grace-aux-gardiens-de-la-creation-04-04-2025-C5ZBGJOIUZDTHMT4HINC7YVKBM.php). Les variétés ne doivent pas être attribuées à Minesteggio par simple rapprochement. |
+| **Vàllica — culture et tribbiera** | Retour d'un blé ancien sur une parcelle familiale ; restauration d'une *aghja* (aire de battage) et réactivation de gestes collectifs. | [Arritti, 31 juillet 2026](https://arritti.corsica/a-vallica-les-premiers-pas-dune-agriculture-nourriciere). Exemple particulièrement proche du projet de transmission par la pratique ; la durabilité économique reste à documenter. |
+| **Serra-di-Scopamène — Alta Rocca** | Expériences de culture en montagne associées à U Granu Anticu. | [Journal de la Corse, 2026](https://www.journaldelacorse.corsica/articles/4402/a-laccorta-cette-semaine-eventi-e-fatti). Il s'agit d'un reportage, non d'une comparaison agronomique contrôlée. |
+| **Olivese et Sainte-Marie-Siché — pédagogie du blé et du pain** | Rencontres annoncées le 9 avril 2026 dans le cadre d'un projet alimentaire territorial, avec découverte des blés anciens et fabrication pédagogique de pain. | [Présentation de l'événement](https://fr.linkedin.com/posts/jean-renucci-179764382_alimentationdurable-projetalimentaireterritorial-activity-7447320927370985472-DpCh). Programme annoncé ; participation et résultats non vérifiés indépendamment. |
+| **Pancheraccia — Festa di u granu** | Fête consacrée aux céréales anciennes, à la moisson et aux savoir-faire ; dixième édition annoncée en juillet 2022. | [Corse Net Infos, 1er juillet 2022](https://www.corsenetinfos.corsica/Pancheraccia-A-Festa-di-u-granu-revient-ce-weekend_a65525.html). La continuité exacte des éditions ultérieures doit être vérifiée. |
+| **Moulin et fournil : prolongements possibles** | Passage du grain à la farine, puis au pain, avec des contraintes techniques, sanitaires, économiques et réglementaires propres. | Voir la [fiche distincte « Atelier : blé et pain »](atelier_ble_pain.md). Le projet local de culture ne prouve pas que les maillons mouture et boulangerie soient opérationnels à Minesteggio. |
+
+### Ce que ces expériences ont en commun
+
+Leur point commun n'est pas seulement le blé : elles cherchent à **rendre de nouveau accessibles des capacités devenues rares** — reconnaître une variété, conserver des grains viables, préparer une parcelle, semer, récolter, battre, moudre ou cuire — en les reliant à l'histoire, à l'agriculture vivrière et à la pédagogie.
+
+Cette lecture est une **interprétation transversale**, et non une intention explicitement revendiquée par chaque acteur. Elle explique néanmoins pourquoi l'Atelier Culture du Blé de Minesteggio trouve sa place dans le Musée Mariani des Possibles.
+
+### Ce que l'on ne peut pas encore conclure
+
+- La multiplication de reportages ne mesure ni les hectares semés ni les tonnages récoltés.
+- Une variété ancienne retrouvée n'est pas automatiquement adaptée à toutes les parcelles de Corse, ni intrinsèquement plus résistante sans essais comparatifs.
+- Une récolte ponctuelle ou pédagogique ne garantit pas une filière locale économiquement autonome.
+- Le renouveau patrimonial ne suffit pas à mesurer la part de farine ou de pain issus de céréales cultivées en Corse.
+- Aucun partenariat opérationnel entre les initiatives citées et le Musée Mariani des Possibles n'est établi par cette annexe.
+
+### Pistes de comparaison pour Minesteggio (propositions, non engagements)
+
+1. Distinguer les **semences et leur provenance**, puis comparer les expériences sans supposer que les lots sont identiques.
+2. Mesurer surfaces réellement semées, germination, calendrier, travaux, rendement et pertes.
+3. Documenter la moisson manuelle, puis, séparément, les opérations éventuelles de battage et de vannage.
+4. Étudier la faisabilité de la mouture et de la panification à travers l'atelier complémentaire « Blé et pain ».
+5. Répertorier les savoir-faire transmissibles et les conditions réelles d'accueil du public.
+6. Actualiser cette revue avec des séries statistiques agricoles (DRAAF, Agreste), des enquêtes de terrain et les réponses des acteurs concernés.
+
+**Conclusion provisoire :** les initiatives documentées rendent crédible l'hypothèse d'un **regain d'intérêt pour le blé en Corse**, mais pas encore celle d'une **renaissance mesurée de la filière céréalière**. L'atelier de Minesteggio peut contribuer à cette connaissance en publiant des observations reproductibles plutôt que des promesses de rendement.
