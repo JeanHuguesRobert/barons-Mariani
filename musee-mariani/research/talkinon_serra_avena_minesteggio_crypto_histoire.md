@@ -2,6 +2,47 @@
 
 Note de recherche prospective pour le Musée Mariani des Possibles (25 octobre 2026).
 
+## Chronologie raisonnée — De Mariana à l'autonomie de capacité (25 octobre 2026)
+
+*Fil conducteur : non pas deux mille ans d'une même révolte ni la preuve d'une lignée ininterrompue, mais le retour d'une question : **qui décide, au nom de qui, avec quel contrôle et sur quelles ressources ?** Les faits, traditions et hypothèses sont distingués ci-dessous.*
+
+| Période | Événements et traces | Question politique / statut de preuve |
+|---|---|---|
+| **Fin IIe–Ier siècle av. J.-C.** | **Caius Marius** et ses partisans, dits *Mariani* ; fondation de **Mariana** traditionnellement attribuée à Marius. **Sylla** et implantation coloniale à **Aléria/Alalia**. | Antagonisme politique romain attesté ; opposition « cité du Peuple / cité du Tyran » = **lecture symbolique contemporaine**, pas titulature antique. |
+| **73–71 av. J.-C.** | Révolte servile conduite par **Spartacus**, ailleurs dans le monde romain. | Comparaison sur la dépossession de liberté, **aucun lien organisationnel établi** avec Mariana. |
+| **72 apr. J.-C.** | Table de bronze des **Vanacini**, différend foncier avec les **Marianis**, habitants de Mariana. | **Attestation épigraphique antique locale** du terme ; ce n'est ni le nom d'une famille cortenaise ni la preuve de son ascendance. |
+| **IIe siècle apr. J.-C.** | **Ptolémée** mentionne **Talcinum/Talkinon** parmi les localités intérieures corses. | Lien au territoire de Talcini/Corte **proposé** ; emplacement sur la **Serra d'Avena** = **hypothèse personnelle JHR** à éprouver. |
+| **Antiquité tardive–haut Moyen Âge** | Occupations et christianisation progressives de l'intérieur ; recherches archéologiques à **Castellu**, dans le Cortenais. | Tester ruptures et continuités matérielles sans en déduire une permanence d'institutions politiques. |
+| **Xe–XIIIe siècles (datations discutées)** | **Santa Mariona di Talcini**, piévanie avec **deux absides**, baptistère et matériaux romains remaniés ; **San Giovanni** dans la piève distincte de Venaco. | Continuités territoriales et liturgiques à examiner ; **double abside ≠ preuve d'une doctrine dualiste**. |
+| **1357–1358** | Révolte associée à **Sambucucciu d'Alandu**, *Terra di u Cumunu*, transformations des communautés et des **caporali**. | Innovation et résistance, mais certains représentants populaires deviennent à leur tour notables dominants. |
+| **Milieu XIVe siècle** | **Ghjuvannali** autour de **Carbini** : contestation religieuse, conflit avec la hiérarchie, répression. | Affinité avec l'idée d'ordre horizontal **comparative**, non identité anarchiste attestée. La précision des massacres pontificaux exige critique des chroniques tardives. |
+| **1419** | Fortification et développement de **Corte** sous **Vincentello d'Istria**. | Cadre de migrations et installations familiales possibles, sans acte concernant Mariano à Corte. |
+| **1426–1462** | **Mariano da Gaggio**, réseaux des Cortinchi/Pietr'Ellerata, vicariat et alliances ; son fils **Giudicello** attesté dans les récits. | Trajectoire à reconstituer ; contradiction sur la mort de Mariano (avant **1460** selon une source locale, **1464** chez Meurgey). |
+| **1583** | Requêtes fiscales rapportées par **Meurgey**, dont **Mariano de Corte**, fils de **Landolfo**, petit-fils de **Simonetto** (Archives de Corse **CC 99**, 12 novembre). | **Chaînon vérifiable** du dossier Mariani ; **aucun acte consulté ne relie encore cette chaîne à Giudicello**. |
+| **1674–1696** | Actes de **Saint-Marcel de Corte**, reproduits par Meurgey, avec **de Marianis**. | Usage familial latin documenté indirectement ; ne prouve ni noblesse ni continuité avec les *Marianis* antiques. |
+| **1729–1769, particulièrement 1755** | Révoltes contre Gênes ; République de **Paoli**, *consulte*, élections et mécanismes de contrôle tels que le **sindacato**. | Expériences novatrices mais participation non universelle et pouvoirs exécutifs réels. |
+| **1789–1795** | DDHC art. 6 (participation personnelle ou par représentation), **1791** régime représentatif sans mandat impératif ; **1793** constitution à participation populaire, **jamais appliquée** ; **1795** nouvelle inflexion censitaire. | La démocratie n'évolue **pas linéairement** de liberté vers concentration ; il faut séparer texte et effectivité. |
+| **XIXe–XXe siècles** | Louis Hugues Mariani transmet la **tradition familiale** Mariano da Gaggio → Mariani, tout en signalant la dispersion des papiers ; **Meurgey** la publie en **1933**. | Le **fait de la tradition** est documenté ; son contenu généalogique reste conjectural. Son analyse de la « particule » *de Marianis* appelle correction onomastique. |
+| **XXe siècle** | Selon le témoignage familial JHR, **Marie-Louise Mariani**, dite **Cheftaine Mariani**, participe à l'introduction du scoutisme en Corse ; formation possible à Chamarande/Argeronne. | Histoire à documenter par archives scoutes ; proposition d'une **culture familiale de l'initiative**, pas d'un trait génétique prouvé. |
+| **XXe–XXIe siècles** | À **Minesteggio** (Orta), recul des jardins maraîchers ; hypothèse d'une concurrence accrue de la plaine orientale aménagée ; témoignage des exploitations **Castellani**. Une relance agricole est attestée par la presse en **2019**. | Mutation des **capacités productives locales** : analyser causes, archives foncières, droits d'eau et trajectoires familiales. |
+| **2024–2026** | Nouvelle phase de discussions constitutionnelles sur l'**autonomie de la Corse**. Rapport sénatorial du **21 octobre 2026** et séance annoncée pour le **26 octobre**. | Question ouverte : transfert du pouvoir à la **collectivité** ou accroissement également de l'**autonomie effective des habitants** ? Aucun résultat parlementaire anticipé. |
+
+### Lecture à deux niveaux
+
+**Lecture historique :** un archipel de conflits et d'expériences politiques, **sans continuité institutionnelle prouvée**. Les élites sont parfois combattues par le peuple, parfois issues de lui ; ni « le peuple » ni « les élites » ne forment des blocs intemporels.
+
+**Lecture prospective — Musée Mariani des Possibles :** la filiation politique que revendique JHR relie ces épisodes par une question de **liberté effective** et de **contrôle du pouvoir délégué**. L'affiliation marianiste n'est pas une revendication de preuve généalogique ; elle est une hypothèse interprétative ouverte à contradiction. Le test contemporain de cette histoire est la distinction entre **autonomie des institutions représentatives** et **capacité des habitants à gouverner, corriger et révoquer**.
+
+**La chronologie ne prouve pas une tradition unique ; elle rend visibles les lieux où chercher une continuité — et ceux où il faut accepter les ruptures.**
+
+### Références directes de cette chronologie
+
+- [Source de synthèse et provenance interne](../../research/autonomia/marianisme_ame_corse_hypothese.md).
+- [Philippe Pergola, Santa Mariona (1979)](https://www.persee.fr/doc/mefr_0223-5110_1979_num_91_1_5176).
+- [Sources Meurgey p. 1, 4–6](../sources/meurgey-1933/README.md).
+- [Dossier législatif du Sénat : autonomie de la Corse](https://www.senat.fr/dossier-legislatif/pjl24-869.html).
+
+
 ## Hypothèse
 
 Mariana, liée à Marius, et Alalia, liée à Sylla, encadrent symboliquement une troisième zone : Corte, le territoire de Talcini et la Serra d'Avena. JHR propose de rechercher le Talkinon/Talcinum mentionné par Ptolémée au sommet de cette crête, où il signale des vestiges pouvant évoquer un poste de guet antique. Cette identification et la datation des vestiges ne sont pas démontrées.
