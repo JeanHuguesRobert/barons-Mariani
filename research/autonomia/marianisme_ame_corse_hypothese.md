@@ -175,3 +175,24 @@ L'idée d'un « ordre horizontal » (règles librement co-déterminées et corri
 - [DDHC, article 4 — bornes réciproques des libertés](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527429).
 - [DDHC, articles 2, 6 et 12 — sûreté, égalité devant la loi, force publique dans l'intérêt de tous](https://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789).
 - [Gilles Plante, *La liberté des uns s'arrête là où commence celle des autres* (2014)](https://www.classiques.uqam.ca/contemporains/plante_gilles/liberte/liberte.html), examen philosophique du proverbe.
+
+
+## 10. Triangle Mariana–Alalia–San Giovanni de Corte : Empire, contestation et synthèse (25 octobre 2026)
+
+**Hypothèse explicitement proposée par JHR :** trois pôles géographiques de Haute-Corse composent un triangle transhistorique et politique : **Mariana**, colonie liée à Caius Marius, interprétée comme « cité du Peuple » ; **Alalia/Aléria**, colonie liée à Sylla, dite « cité du Tyran » ; **San Giovanni Battista à Corte**, possible lieu symbolique de synthèse entre Ordre et Liberté, horizontalité communautaire et institution. Les qualifications entre guillemets sont **interprétations de l'auteur, non noms antiques**.
+
+### Vérifications et limites
+
+1. **Mariana**, à Lucciana : fondation liée à Marius et à ses vétérans vers 100 avant notre ère ([musée de Mariana](https://www.musee-mariana.com/fr/le-site-archeologique) ; [ville de Lucciana](https://www.ville-lucciana.com/mariana-site-historique/la-colonie-romaine-de-mariana/)). Marius ne doit pas être reconstruit comme démocrate moderne.
+2. **Alalia/Aléria** : stratification phocéenne, étrusque, romaine ; colonie liée à Sylla vers 81 avant notre ère, puis autres vagues coloniales ([Collectivité de Corse](https://www.isula.corsica/patrimoine/Le-site-archeologique-d-Aleria_a10.html)). Sylla a exercé la dictature, mais Alalia ne se réduit pas historiquement au seul camp de Sylla.
+3. **San Giovanni de Corte**, près de 42.294018, 9.167127 : église-mère de la piève de Venaco, édifice vraisemblablement du Xe siècle avec baptistère, état archéologique décrit par l'[Office de tourisme du Centre Corse](https://tourisme-centrecorse.corsica/patrimoine-religieux-de-corte/) et la [mairie de Corte](https://www.mairie-corte.fr/). L'identification à Jean-Baptiste est attestée pour le site.
+4. **Ghjuvannali/Giovannali** : mouvement franciscain radical né dans la piève de **Carbini**, et non à San Giovanni de Corte, au XIVe siècle ; conflit attesté avec l'évêque d'Aléria, poursuites et élimination ([Cancellieri et Marchi van Cauwelaert, Université de Corse](https://m3c.universita.corsica/s/fr/item/101539)). La [mairie de Carbini](https://www.carbini.fr/patrimoine-histoire/i-ghjuvannali/) distingue documentation judiciaire et récit tardif de la croisade/massacre attribué à Giovanni della Grossa ; l'implication exacte du pape dans les tueries requiert de conserver cette distinction. Le siège pontifical du XIVe siècle se trouvait en Avignon : « Rome » est ici une **métaphore de continuité institutionnelle**, non une localisation de l'ordre.
+5. **Pas de chaîne historique démontrée** entre les colonies du Ier siècle avant notre ère, le site de Corte, la confrérie de Carbini et le Pertitellu actuel. Il faut les confronter sans les fusionner.
+
+### Question heuristique : « The Empire never ended »
+
+La formule de Philip K. Dick peut servir d'instrument de lecture : les formes de **captation verticale du pouvoir** pourraient persister sous des institutions changeantes, tandis que des mouvements d'émancipation — révoltes serviles comme celle de Spartacus, révoltes civiques, fraternités religieuses pauvres, constructions démocratiques — réapparaissent en contexte différent. Cela ne prouve ni la survie littérale de l'Empire romain, ni l'existence d'un unique antagonisme peuple/élites, ni la continuité des mouvements.
+
+La synthèse ouverte est celle d'un **ordre horizontal** : une communauté capable de produire des règles sans en réserver la souveraineté à une autorité incontrôlable. Les Ghjuvannali peuvent constituer un **comparant médiéval** de l'anarchisme entendu comme organisation sans domination ; les qualifier eux-mêmes de « proto-anarchistes » constitue une hypothèse de lecture, non leur nom historique.
+
+**Questions falsifiables pour la suite :** dater précisément le toponyme et les fonctions de San Giovanni de Corte ; chercher d'éventuels indices documentaires d'un lien avec la confrérie de Carbini ; comparer l'organisation réelle des Ghjuvannali à celle des autres tertiaires franciscains ; identifier la chaîne des décisions pontificales, épiscopales et seigneuriales lors de la répression ; séparer mémoires ultérieures et attestations contemporaines.
