@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 title: "Atelier Culture du Blé à Minesteggio — histoire, transmission et projet 2026–2027"
 subtitle: "Présentation publique et notice de terrain — Musée Mariani des Possibles"
 date: '2026-10-13'
-version: '0.3'
+version: '0.4'
 status: working-paper
 document_role: source
 document_kind: field-observation-and-workshop-proposal
@@ -124,6 +124,61 @@ La présente fiche documente le **fait historique local** et la prochaine expér
 
 **Principe de conservation :** préserver d'abord les faits, témoignages et sources originales ; publier ensuite les projections muséales sans effacer les incertitudes.
 
+
+---
+
+## Annexe historique — Le blé en Corse, une ancienne culture aux fortunes changeantes
+
+*État de la recherche au 25 octobre 2026. Synthèse préliminaire, distincte des observations directes de Minesteggio. Les variations de surface et de production sont établies comme phénomènes historiques ; leur quantification par période nécessite le dépouillement des séries originales.*
+
+### Le retour du blé n'est pas sa première apparition
+
+Le projet de Minesteggio ne réintroduit pas une culture inconnue en Corse. Les céréales appartiennent à une très longue histoire agricole insulaire. Des vestiges archéobotaniques documentent notamment de l'orge et plusieurs formes de blé (engrain, amidonnier, blés nus) dans des contextes chalcolithiques et de l'âge du Bronze. Cette présence ancienne ne permet toutefois pas de convertir des vestiges en superficies cultivées ou en volumes récoltés à l'échelle de l'île.
+
+L'enjeu historique n'est donc pas une simple opposition entre « autrefois, le blé » et « aujourd'hui, son retour ». Les territoires, les variétés, les usages et les volumes ont changé à plusieurs reprises, sans évolution uniforme.
+
+### Repères chronologiques
+
+| Période | Ce que les sources permettent d'établir | Limite à respecter |
+| --- | --- | --- |
+| **Préhistoire récente et âge du Bronze** | Culture attestée de céréales, dont plusieurs blés et l'orge, dans certains sites insulaires. | Pas de statistiques de production insulaire ; ne pas postuler une continuité de variété jusqu'à nos jours. |
+| **Moyen Âge** | Agriculture céréalière et arboriculture coexistent selon les terroirs ; le châtaignier gagne progressivement en importance. | Les pratiques et équilibres locaux ne peuvent être généralisés à toute la Corse. |
+| **Époque génoise** | La culture des grains, les politiques d'approvisionnement et l'essor des châtaigneraies participent à une réorganisation profonde du système nourricier. | L'expansion du châtaignier ne signifie pas disparition immédiate des céréales ; les explications politiques et économiques sont discutées. |
+| **1771 et fin du XVIIIᵉ siècle** | Le **Plan Terrier** décrit par commune les « terres cultivées en grains » et d'autres usages agricoles ; il ouvre la possibilité d'une cartographie comparative des surfaces. | « Terres en grains » ≠ hectares de blé seul ; surface ≠ récolte ; certaines correspondances avec les communes contemporaines sont reconstruites. |
+| **1769–1852** | Les sources administratives et locales décrivent la diversité des aliments, la question récurrente des besoins céréaliers et les conditions de mise en valeur agricole. | Ces descriptions peuvent traduire les représentations et objectifs des administrateurs ; leurs chiffres restent à contrôler. |
+| **XIXᵉ et début du XXᵉ siècle** | Le blé coexiste avec maïs, orge, seigle, châtaignes et autres farines ; les systèmes de rotation et la productivité diffèrent entre plaines, coteaux et montagnes. | Ne pas assimiler consommation de pain, production de blé et autonomie alimentaire. |
+| **Première moitié du XXᵉ siècle** | Le recul de la céréaliculture et l'abandon de nombreux moulins à grains sont documentés, avec des réemplois ponctuels pendant la Seconde Guerre mondiale. | Le rythme du recul varie selon les territoires ; la date d'une disparition générale ne peut être affirmée. |
+| **Fin du XXᵉ – XXIᵉ siècle** | Les filières alimentaires et les pratiques agricoles changent ; des associations et collectifs remettent à l'honneur semences et gestes anciens. | Le regain d'intérêt est visible, mais les volumes et surfaces actuels ne sont pas encore comparés quantitativement à ceux du passé dans cette notice. |
+
+### Blé, autres céréales et châtaigne : ne pas confondre
+
+La tradition du pain corse n'est pas exclusivement celle du pain de froment. L'ethnographie décrit, selon les lieux, les saisons et les moyens des familles, des farines de blé, de maïs, de seigle, d'orge, de châtaigne ou d'autres ressources. La place de la farine de châtaigne, particulièrement importante dans certains territoires, ne doit ni effacer celle des céréales ni conduire à décrire une unique « alimentation corse » immuable.
+
+À la fin du XVIIIᵉ siècle comme au XIXᵉ, une même île peut associer des plaines céréalières, des coteaux mixtes et des régions où la châtaigne joue un rôle alimentaire majeur. La diversité des terroirs est une condition de l'analyse historique, pas un détail.
+
+### Comment mesurer les grandes variations de production ?
+
+Une histoire quantitative exige au minimum de distinguer :
+
+1. **Surface** : hectares de terres en grains, puis hectares effectivement semés en blé lorsque la source les sépare.
+2. **Rendement** : quantité récoltée par unité de surface, avec unités historiques et conversions explicites.
+3. **Production** : quantité totale effectivement récoltée, distincte des semences conservées et des autres céréales.
+4. **Consommation et commerce** : farine et grain importés ou exportés ; le pain consommé localement n'implique pas une origine locale du blé.
+5. **Répartition spatiale** : commune, vallée, plaine ou microrégion, sans tirer une conclusion insulaire d'un exemple local.
+
+**À faire avant toute courbe ou tout chiffre de déclin :** extraire les données communales du Plan Terrier retraitées par la DRAAF ; rechercher et comparer les tableaux du XIXᵉ siècle, les statistiques agricoles du XXᵉ siècle et les annuaires DRAAF/Agreste récents. Harmoniser les catégories (grains / céréales / blé tendre / blé dur), les territoires et les unités. Ne pas prolonger artificiellement une série interrompue.
+
+### Bibliographie de départ et statut des preuves
+
+- **Archéologie (étude scientifique)** : [Early impact of agropastoral activities and climate on the littoral landscape of Corsica since mid-Holocene](https://pmc.ncbi.nlm.nih.gov/articles/PMC6922353/), notamment le tableau archéobotanique d'I Calanchi/Sapar'Alta.
+- **Statistique historique (source administrative retraitée)** : [DRAAF Corse, Évolution de l'agriculture corse depuis 1771](https://draaf.corse.agriculture.gouv.fr/evolution-de-l-agriculture-corse-depuis-1771-a655.html), Plan Terrier, données communales et cartes, retraitement DRAAF 2017. L'ensemble des tableaux n'a pas été exploité dans cette notice.
+- **Étude historique universitaire** : [Les productions alimentaires en Corse (1769–1852)](https://m3c.universita.corsica/s/en/item/100286), chapitre « Les céréales : entre besoin et manque », p. 89 et suivantes.
+- **Enquête agricole d'époque, à lire de manière critique** : [Une enquête sur la situation agricole de la Corse](https://www.persee.fr/doc/geo_0003-4010_1937_num_46_264_11952), *Annales de géographie*, 1937.
+- **Ethnographie du pain et des farines** : [Atlas ethno-historique de la Corse](https://www.culture.gouv.fr/Media/Thematiques/Patrimoine-ethnologique/Files/Rapports-de-recherche/2001-et-avant/Ethno_Aquaviva_1998_076.pdf), ministère de la Culture ; passage sur les farines et la différenciation sociale des pains.
+- **Référence réglementaire à contenu historique** : [Cahier des charges de la farine de châtaigne corse](https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000022392838), historique de la castanéiculture et du devenir des moulins à grains. Son objet est la châtaigne, non la quantification du blé.
+- **Statistique contemporaine à exploiter** : [DRAAF Corse, Chiffres clés de l'agriculture en Corse](https://draaf.corse.agriculture.gouv.fr/chiffres-cles-de-l-agriculture-en-corse-r95.html).
+
+**Lecture pour l'atelier :** à Minesteggio, semer du blé ne doit pas être présenté comme la reproduction à l'identique d'une tradition intemporelle. C'est une expérience contemporaine située, mise en dialogue avec une histoire longue de changements agricoles, alimentaires, techniques et sociaux.
 
 ---
 
