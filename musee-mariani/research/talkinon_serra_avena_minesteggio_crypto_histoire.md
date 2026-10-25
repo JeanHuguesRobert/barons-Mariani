@@ -106,3 +106,12 @@ La vallée de l'Orta et **Minesteggio**, jardin nourricier attesté publiquement
 La réfutation pourrait provenir de documents établissant une origine distincte de la famille, une parenté incompatible, une chronologie impossible, ou l'identification claire d'un autre Mariano originel. Une généalogie honnête doit offrir ces possibilités autant que la confirmation.
 
 **Statut** : note de recherche en préparation ; synthèse documentaire et critique, non acte d'état civil ni fouille nouvelle.
+
+
+## Note critique : Louis Hugues et la prétendue « particule » de Marianis
+
+La transcription de Jacques Meurgey (1933, p. 4–5) rapporte que Louis Hugues Mariani considérait les occurrences paroissiales de **de Marianis** (1674, 1675, 1696) comme la trace d'une particule ensuite abandonnée, tout en jugeant absurde sa restauration dans le cas d'un patronyme italien ne désignant pas de fief.
+
+**Rectification linguistique :** Enzo Caffarelli, « I cognomi italiani uscenti in -is » (*Treccani*, 17 novembre 2023), explique que les patronymes italiens en **-is**, précédés parfois de **de**, procèdent fréquemment d'une latinisation notariale et ecclésiastique d'un patronyme ou d'une expression d'appartenance familiale ; cette forme n'établit ni particule nobiliaire autonome ni statut noble. https://www.treccani.it/magazine/lingua_italiana/articoli/parole/cognomi_is.html ; cf. https://www.treccani.it/enciclopedia/patronimici_%28Enciclopedia-dell%27Italiano%29/
+
+Louis Hugues est donc **partiellement erroné** lorsqu'il suppose une particule héréditaire « perdue », mais son refus de tirer automatiquement une noblesse de la forme est raisonnable. Les actes peuvent néanmoins être des indices précieux d'ancienneté, de continuité onomastique et de réseaux familiaux. Vérifier les registres originaux de Saint-Marcel et les variantes vernaculaires utilisées pour les mêmes personnes ; distinguer toujours *nomenclature*, *filiation* et *statut juridique*. Ce constat incite à lire les autres inférences de Louis Hugues comme des propositions discutables, sans discréditer les transcriptions de documents qu'il rapporte.
