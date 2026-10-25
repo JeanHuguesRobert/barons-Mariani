@@ -163,3 +163,7 @@ Ne pas créer trop tôt un dépôt séparé. Le futur dépôt `musee-mariani` se
 
 La passe transversale actuelle est documentée dans :
 [`exploration-largeur-alliances-2026-10-09.md`](sources/meurgey-1933/apparatus/exploration-largeur-alliances-2026-10-09.md).
+
+## Enquête à la une — Deux mille ans de liberté en Corse ?
+
+La [note scientifique de travail sur Talkinon, la Serra d'Avena, Minesteggio et les Mariani de Corte](research/talkinon_serra_avena_minesteggio_crypto_histoire.md) ouvre un parcours muséal : les sites antiques de Mariana et d'Alalia, le territoire de Talcini, Santa Mariona, les traditions généalogiques relatives à Mariano da Gaggio et les transformations agraires de l'Orta. **Statut : recherche exploratoire en préparation, avec chronologie, bibliographie critique, faits vérifiés et hypothèses explicitement séparés.** [Source canonique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/research/talkinon_serra_avena_minesteggio_crypto_histoire.md).
