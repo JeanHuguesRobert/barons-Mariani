@@ -147,3 +147,31 @@ Le point commun à examiner n'est pas « les bons horizontaux contre les mauvais
 Spartacus rend visible la position de l'exclu absolu; Athènes démontre qu'une forte horizontalité **interne** est compatible avec l'exclusion **externe**; Sparte montre une citoyenneté interne encadrée par un système institutionnel discipliné et une dépendance servile majeure. Marius et Mariano da Gaggio servent de contre-épreuves : mobiliser le peuple n'empêche pas l'accumulation personnelle du pouvoir.
 
 **Critère dérivé pour Capable et le Petit Parti :** ne mesurer ni la seule horizontalité formelle ni la seule présence d'un chef populaire ; mesurer qui devient effectivement capable, et quel dispositif permet de contester, contrôler et révoquer les détenteurs de puissance. L'expression « Empire qui ne finit pas » de PKD reste une image critique des structures de domination, pas une chronologie littérale.
+
+
+## 9. Ordre, liberté et sécurité : la frontière de la réciprocité (25 octobre 2026)
+
+**Nouvelle hypothèse proposée par JHR.** La tension Ordre/Liberté peut se représenter par deux idéaux-types : Sparte comme ordre plutôt vertical et Athènes comme liberté délibérative plutôt horizontale. Cette comparaison est heuristique, non un portrait intégral de ces cités : Sparte connaissait des institutions participatives ; Athènes, l'esclavage, les exclusions civiques et l'impérialisme.
+
+Deux maximes font apparaître un **changement de grammaire normative** :
+
+> « La liberté des uns s'arrête là où commence la liberté des autres. » — maxime populaire de réciprocité, rapprochable de l'article 4 de la DDHC de 1789, sans attribution historique certaine de la formule exacte à cet article.
+>
+> « La liberté des uns s'arrête à la sécurité des autres. » — reformulation analytique de JHR, décrivant un mécanisme fréquent de justification des restrictions ; ne pas la présenter comme disposition juridique ou proverbe historique établi.
+
+**Hypothèse :** la première formule établit une symétrie entre titulaires de libertés ; la seconde introduit une variable — le risque — dont la définition et l'appréciation peuvent être monopolisées par une autorité. Elle **peut** conduire à la hiérarchie si le protecteur décide unilatéralement ce qui menace la sécurité et à quel coût restreindre la liberté. La sécurité elle-même n'est ni nécessairement verticale ni étrangère à l'égalité : la sûreté est un droit de tous (DDHC art. 2), la force publique doit être instituée dans l'intérêt de tous (art. 12).
+
+**Test d'effectivité de la justification sécuritaire :**
+1. Qui désigne le risque et sur quelles données contradictoires ?
+2. Les droits et la sécurité de toutes les personnes sont-ils pris en compte symétriquement ?
+3. Les restrictions sont-elles nécessaires, proportionnées, circonscrites et révisables ?
+4. Qui supporte les restrictions et les risques résiduels (Skin in the Game) ?
+5. Quels recours permettent aux personnes exposées de contrôler et contester la décision ?
+
+L'idée d'un « ordre horizontal » (règles librement co-déterminées et corrigibles) est une troisième voie, irréductible à l'antinomie simplifiée Sparte/Athènes. L'absence d'ordre n'est pas une condition de liberté, pas plus que l'absence de liberté n'est une condition d'ordre. Pour le Petit Parti, *Capable* et DHITL, l'enjeu est la gouvernance contrôlable de la sécurité, non la suppression de la protection.
+
+### Sources de droit vérifiées
+
+- [DDHC, article 4 — bornes réciproques des libertés](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527429).
+- [DDHC, articles 2, 6 et 12 — sûreté, égalité devant la loi, force publique dans l'intérêt de tous](https://www.legifrance.gouv.fr/Droit-francais/Constitution/Declaration-des-Droits-de-l-Homme-et-du-Citoyen-de-1789).
+- [Gilles Plante, *La liberté des uns s'arrête là où commence celle des autres* (2014)](https://www.classiques.uqam.ca/contemporains/plante_gilles/liberte/liberte.html), examen philosophique du proverbe.
