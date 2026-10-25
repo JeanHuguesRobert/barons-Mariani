@@ -196,3 +196,18 @@ La formule de Philip K. Dick peut servir d'instrument de lecture : les formes de
 La synthèse ouverte est celle d'un **ordre horizontal** : une communauté capable de produire des règles sans en réserver la souveraineté à une autorité incontrôlable. Les Ghjuvannali peuvent constituer un **comparant médiéval** de l'anarchisme entendu comme organisation sans domination ; les qualifier eux-mêmes de « proto-anarchistes » constitue une hypothèse de lecture, non leur nom historique.
 
 **Questions falsifiables pour la suite :** dater précisément le toponyme et les fonctions de San Giovanni de Corte ; chercher d'éventuels indices documentaires d'un lien avec la confrérie de Carbini ; comparer l'organisation réelle des Ghjuvannali à celle des autres tertiaires franciscains ; identifier la chaîne des décisions pontificales, épiscopales et seigneuriales lors de la répression ; séparer mémoires ultérieures et attestations contemporaines.
+
+
+## 11. Talkinon / Talcinum : le troisième sommet est peut-être aussi antique (25 octobre 2026)
+
+**Interpellation de JHR :** « Talkinon, cf. Ptolémée » : le site de Corte, précédemment envisagé par le seul San Giovanni chrétien, possède peut-être une profondeur toponymique et territoriale antique.
+
+**Source primaire** : Claude Ptolémée, *Géographie*, III, 2, localités de l'intérieur de la Corse, donne **Talcinum** à **30°45′ / 40°30′ dans le référentiel antique de Ptolémée**, à distinguer des latitudes et longitudes GPS ([édition/traduction accessible par LacusCurtius](https://penelope.uchicago.edu/Thayer/E/Gazetteer/Periods/Roman/_Texts/Ptolemy/3/2%2A.html)). Ptolémée écrit au IIe siècle **après** J.-C., malgré la coquille « IIe siècle avant J.-C. » reprise dans certaines notices locales.
+
+**Identification locale :** [« Corte au Moyen Âge »](https://www.corsicatheque.com/Histoire/Histoire-des-villes-et-villages-corses/Corte-au-moyen-age), reproduisant un texte de la ville de Corte, identifie Talkinon/Talcini au territoire de Corte, en signalant le lieu-dit Talcini près de Santa Mariona. Cette identification est une **hypothèse toponymique et géographique traditionnelle**, non une localisation archéologique démontrée du centre urbain ptoléméen sous l'église San Giovanni. Ne pas confondre les territoires antiques, la piève médiévale de Talcini et le site baptismal de San Giovanni de la piève de Venaco.
+
+**Travail de référence identifié :** Geneviève Moracchini-Mazel et R. Boinard, *La Corse selon Ptolémée*, *Cahiers Corsica* nos 128–130 (1989), [Médiathèque culturelle de la Corse](https://m3c.universita.corsica/s/fr/item/8721), consacré précisément à des propositions d'identification archéologique des toponymes ptoléméens. À consulter intégralement, avec confrontation des variantes de manuscrits, avant de fixer la localisation.
+
+**Changement d'hypothèse :** le triangle Mariana–Alalia–Corte n'est plus nécessairement composé de deux colonies romaines et d'un sommet uniquement médiéval : **Talcinum constitue un troisième nom antique**, possiblement sur le territoire de Corte. Cependant aucune preuve n'est encore produite que Talcinum ait été une cité libre, proto-anarchiste, alliée aux *Mariani*, opposée à Sylla, ou ancêtre institutionnel des Ghjuvannali. L'idée d'un troisième pôle de synthèse ordre/liberté est un programme de recherche falsifiable, et non un résultat historique.
+
+**Tests :** confronter texte grec, éditions et coordonnées de Ptolémée ; relever les propositions alternatives d'identification Talcinum et l'archéologie locale ; établir chronologie de Santa Mariona, San Giovanni et de la piève de Talcini/Venaco ; distinguer le foyer Ghjuvannali attesté à Carbini de possibles réseaux ecclésiastiques intérieurs encore à démontrer.
