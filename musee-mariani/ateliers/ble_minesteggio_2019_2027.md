@@ -2,9 +2,10 @@
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/ateliers/ble_minesteggio_2019_2027.md
 author: Jean Hugues Noël Robert, baron Mariani
 title: "Atelier Culture du Blé à Minesteggio — histoire, transmission et projet 2026–2027"
-subtitle: "Présentation publique et notice de terrain — Musée Mariani des Possibles"
+subtitle: "Transmettre une histoire agricole vivante — Musée Mariani des Possibles"
 date: '2026-10-13'
-version: '0.4'
+last_modified_at: '2026-10-26'
+version: '0.5'
 status: working-paper
 document_role: source
 document_kind: field-observation-and-workshop-proposal
@@ -28,102 +29,111 @@ provenance:
 ---
 
 # Atelier Culture du Blé à Minesteggio
-## Du grain à la moisson — Musée Mariani des Possibles
+## Transmettre une histoire, des gestes et la capacité de recommencer
 
-À Minesteggio, dans la vallée de l'Orta près de Corte, le blé n'est pas seulement un souvenir rural : il a déjà été semé et moissonné à la main. Une première culture, issue de semences annoncées comme provenant de l'association U Granu Anticu, a été semée tardivement en janvier 2019 et récoltée la même année. Une seconde moisson manuelle a eu lieu en 2024.
+Une poignée de grains peut traverser les générations. Elle ne transmet pourtant rien à elle seule : il faut encore savoir la conserver, reconnaître sa variété, choisir un sol, semer au bon moment, accompagner la croissance, récolter, battre et transformer la récolte. **Transmettre le blé, c'est transmettre un ensemble de connaissances, de gestes et de choix**, et permettre à d'autres de se les approprier.
 
-**Le projet d'Atelier Culture du Blé consiste à repartir de ces expériences pour apprendre, transmettre et vérifier par la pratique ce qu'exige aujourd'hui une petite culture céréalière à Minesteggio.** Il s'inscrit dans le Musée Mariani des Possibles : un musée qui ne se limite pas à conserver les traces du passé, mais explore ce qu'il est encore possible de faire et de transmettre.
+C'est la vocation du futur **Atelier Culture du Blé** du **Musée Mariani des Possibles**, à Minesteggio, dans la vallée de l'Orta près de Corte : **faire dialoguer la mémoire agricole corse avec l'expérience concrète d'aujourd'hui**.
 
-### Ce que l'atelier pourrait permettre
+Un musée conserve des traces, mais il peut aussi transmettre des pratiques vivantes. Ici, le visiteur ne serait pas seulement invité à regarder un outil ancien ou à écouter le récit d'une moisson : lorsque les conditions le permettront, il pourrait comprendre les gestes, les essayer, constater leurs difficultés et repartir avec la capacité d'entreprendre une expérience comparable.
 
-- **Découvrir** les graines, les gestes et les étapes d'une culture de blé, du choix des semences jusqu'à la récolte.
-- **Pratiquer**, lorsque les conditions matérielles, de sécurité et d'organisation le permettront : préparation de la parcelle, semis, observation des plantes et moisson manuelle.
-- **Comprendre** les contraintes réelles : saison, sol, climat, disponibilité des semences, surface, travail, aléas et rendement.
-- **Documenter et transmettre** les gestes, les mesures et les résultats, y compris les difficultés et les échecs, afin que d'autres puissent apprendre de cette expérience.
+**Projet en préparation :** aucune ouverture au public, séance, inscription ni récolte future n'est à ce stade annoncée comme acquise.
 
-L'ambition est simple : **ne pas seulement expliquer comment on cultive le blé, mais contribuer à rendre cette pratique effectivement accessible.** L'atelier est un projet de transmission et d'expérimentation, non la promesse d'une production agricole commerciale.
+## 1. Une histoire beaucoup plus ancienne que l'atelier
 
-### Un atelier en préparation, pas encore une activité ouverte
+Le blé fait partie de l'histoire agricole de la Corse depuis la Préhistoire récente. Des vestiges archéobotaniques attestent des cultures de céréales, notamment plusieurs formes de blé et l'orge. Mais cette longue présence ne dessine pas une tradition uniforme ni une production régulière.
 
-Une nouvelle campagne de semis est envisagée pour la fin de 2026, avec une moisson éventuelle en 2027. **Le semis, la tenue de séances publiques, les dates, les conditions d'accueil et les inscriptions ne sont pas annoncés comme acquis.** Ils dépendront notamment de l'état du terrain, de la viabilité et de l'identification des semences, du calendrier agricole et des conditions d'encadrement.
+Au fil des siècles, les surfaces cultivées, les variétés, les techniques et les besoins ont évolué. Les terroirs de plaine, les coteaux et les villages de montagne n'ont jamais connu exactement les mêmes équilibres. Le blé y a côtoyé d'autres céréales, tandis que la châtaigne a occupé une place majeure dans certains systèmes alimentaires. Une île pouvait simultanément cultiver des grains et dépendre d'approvisionnements extérieurs.
 
-Le terrain évoqué représente environ **5 000 m²** ; cette valeur ne prouve pas que toute cette surface ait été semée lors des campagnes précédentes ni qu'elle le sera lors de la suivante.
+Le **Plan Terrier de 1771**, les enquêtes administratives des XVIIIᵉ et XIXᵉ siècles et les travaux plus récents permettent d'étudier ces transformations. Ils ne livrent pas, tels quels, une courbe continue de la production de blé : les catégories « grains », « céréales » et « blé », les surfaces et les volumes récoltés doivent être distingués.
 
-### Voir les traces et suivre la démarche
+Puis les pratiques céréalières se sont profondément transformées, et beaucoup de savoir-faire liés aux champs, aux aires de battage ou aux moulins ont reculé. Depuis les années 2000, des initiatives corses s'emploient à retrouver des semences, à remettre des parcelles en culture et à transmettre des gestes. Ce regain d'intérêt est documenté ; une renaissance quantitative de la filière reste, elle, à mesurer.
 
-Un [album photographique communiqué pour la première campagne](https://photos.app.goo.gl/2EnLM9kmQgeLXkKz7) est référencé ici. Ses originaux et leurs métadonnées n'ont pas encore été vérifiés dans la présente notice.
+**L'atelier ne prétend donc pas ressusciter à l'identique un âge d'or agricole.** Il propose de comprendre les changements du passé pour éclairer les possibilités présentes.
 
-La suite de ce document conserve les faits documentés, les incertitudes, et le protocole envisagé pour la prochaine campagne. L'[atelier complémentaire « Blé et pain »](atelier_ble_pain.md) explore la chaîne plus large, de la semence à la mouture et à la panification.
+*Pour la chronologie détaillée, les limites des chiffres historiques et les sources : voir l'[annexe historique](#annexe-historique--le-blé-en-corse-une-ancienne-culture-aux-fortunes-changeantes).*
 
----
+## 2. À Minesteggio, une histoire déjà vécue
 
-## Notice historique et programme d'observation
+Le projet s'appuie sur deux expériences locales, rapportées par Jean Hugues Noël Robert :
 
-> **Statut documentaire (mise à jour éditoriale du 25 octobre 2026).** Les deux moissons (2019 et 2024) et le semis de janvier 2019 reposent sur le témoignage direct de Jean Hugues Noël Robert. La provenance exacte des lots, les variétés, les rendements et les dates des photographies restent à corroborer indépendamment. La campagne 2026–2027 et l'atelier public sont des projets, non des événements accomplis. Cette présentation n'ajoute aucun fait agricole nouveau au témoignage initial.
-
-## Résumé factuel
-
-Environ 5 000 m² de terrain sont associés au projet de culture de blé à Minesteggio. Selon le témoignage du cultivateur, les semences initiales provenaient d'U Granu Anticu. Un semis tardif en janvier 2019 a été suivi d'une moisson manuelle la même année ; une deuxième moisson manuelle a eu lieu en 2024. Une nouvelle campagne est envisagée à partir de la fin de 2026.
-
-## Chronologie et statut des éléments
-
-| Période | Élément | Statut |
+| Date | Épisode documenté | Nature de la preuve |
 | --- | --- | --- |
-| Janvier 2019 | Semis tardif | Témoignage direct, confirmé |
-| 2019 | Première moisson manuelle | Témoignage direct, confirmé |
-| 2024 | Deuxième moisson manuelle | Témoignage direct, confirmé |
-| Fin 2026 | Nouveau semis de préférence à l'automne | Intention actuelle, pas encore réalisé |
-| 2027 | Nouvelle moisson éventuelle | Projection conditionnelle |
+| Janvier 2019 | Semis jugé tardif | Témoignage direct |
+| 2019 | Première moisson manuelle | Témoignage direct |
+| 2024 | Deuxième moisson manuelle | Témoignage direct |
+| Fin 2026 | Nouvelle campagne de semis envisagée | Projet, non réalisé |
+| 2027 | Moisson éventuelle | Hypothèse conditionnelle |
 
-- **Lieu** : Minesteggio, Corte, vallée de l'Orta (Corse).
-- **Surface annoncée** : environ 5 000 m², soit 0,5 ha. Il reste à vérifier si cette surface entière a été semée lors de chaque campagne.
-- **Provenance annoncée des semences initiales** : U Granu Anticu, selon le cultivateur.
-- **Méthode de récolte** : manuelle en 2019 et en 2024.
-- **Variété / identité génétique** : inconnue ; ne pas assimiler les semences à « Tosu », « Barbutu », « Maramiese » ou une autre variété sans preuve.
-- **Origine des semences de 2024** : inconnue ; ne pas supposer une descendance directe des grains de 2019.
-- **Battage et vannage** : méthodes non documentées ; seule la moisson manuelle est confirmée.
-- **Quantité de grain récoltée** : inconnue.
+La parcelle évoquée représente environ **5 000 m²** (0,5 hectare), sans que l'étendue effectivement semée lors de chaque campagne soit établie. Selon le témoignage du cultivateur, les semences initiales venaient de l'association **U Granu Anticu** ; leur variété précise et la provenance du lot utilisé en 2024 ne sont pas documentées.
 
-## Source photographique à examiner
+Deux moissons manuelles sont rapportées. Cela ne permet pas de supposer que le battage, le vannage, la mouture ou la panification ont été réalisés sur place. Les rendements, quantités récoltées, outils et personnes participantes restent à préciser.
 
-Album Google Photos communiqué par le cultivateur pour documenter la première campagne :
+Un [album de photographies de la première campagne](https://photos.app.goo.gl/2EnLM9kmQgeLXkKz7) a été communiqué. Ses images originales, leurs dates et leurs métadonnées n'ont pas encore été vérifiées dans la présente notice.
 
-https://photos.app.goo.gl/2EnLM9kmQgeLXkKz7
+Ces lacunes ne diminuent pas l'intérêt du témoignage ; elles indiquent **ce qu'il reste à établir avant d'enseigner ces expériences comme des faits entièrement reconstitués**.
 
-**Limite d'accès :** l'album n'a pas pu être consulté ni ses fichiers originaux vérifiés dans cet environnement. Ne pas considérer la date des prises de vue, leur géolocalisation, leur contenu détaillé ou leur intégrité comme vérifiés. Préserver ultérieurement les originaux, métadonnées et empreintes numériques avant toute copie optimisée pour la publication.
+## 3. Ce que le musée veut transmettre
 
-## Enseignements provisoires
+L'atelier pourrait organiser la transmission sur trois plans indissociables.
 
-Le semis de janvier 2019 était tardif selon le cultivateur. Pour la prochaine campagne, celui-ci estime préférable de semer en fin d'année afin de réduire les risques. Cette préférence constitue une expérience et une intention locales, **pas** une comparaison agronomique contrôlée. Le choix du calendrier devra être adapté à la variété effectivement retenue, au sol, à la météo et à l'état de la parcelle.
+### La mémoire
 
-## Articulation avec l'atelier « Blé et pain »
+Identifier les espèces et variétés, replacer la culture dans son époque et son terroir, recueillir les témoignages, confronter photographies, archives agricoles, outils, vocabulaire et pratiques. Ne pas confondre une coutume ancienne avec une pratique immuable.
 
-La présente fiche documente le **fait historique local** et la prochaine expérimentation. L'[atelier général « Blé et pain »](atelier_ble_pain.md) instruit, lui, l'ensemble de la chaîne (semence → culture → récolte → mouture → panification → transmission et, le cas échéant, vente), y compris les contraintes juridiques et économiques. Ne pas transformer un résultat de simulateur en rendement constaté à Minesteggio.
+### Le geste
 
-## Protocole proposé pour 2026–2027 (non encore réalisé)
+Apprendre à distinguer les semences, à observer leur germination, préparer et mesurer une parcelle, semer, suivre le développement des plantes, récolter manuellement lorsque cela sera possible. Étudier séparément les opérations de battage, vannage, mouture et fabrication du pain, avec les personnes et équipements compétents.
 
-1. Rechercher les images originales et pièces associées aux campagnes 2019 et 2024.
-2. Identifier les variétés et l'origine des semences de chaque campagne, en évitant de fusionner les lots.
-3. Tester la germination des semences éventuellement conservées et noter le protocole.
-4. Délimiter la surface réellement semée, noter les dates, les masses de semences, les conditions de sol et les travaux.
-5. Suivre la levée, le tallage, l'épiaison, la maturité et les accidents culturaux.
-6. À la moisson, mesurer séparément masse coupée, grain battu, grain nettoyé, temps de travail et pertes.
-7. Si mouture et panification : relever pesées, lieux, intervenants, coûts et rendements.
-8. Conserver des échantillons identifiés des lots et une documentation photo datée.
+### La capacité de transmettre à son tour
 
-## Incertitudes et prochaines vérifications
+Conserver des échantillons identifiés et des traces datées, noter réussites et échecs, comparer les méthodes et rendre intelligibles les coûts, les contraintes et les résultats. Un geste transmis est un geste qu'une autre personne **comprend assez bien pour pouvoir le refaire, l'adapter et en expliquer les limites**.
 
-- Date exacte de la moisson de 2019 et analyse des photographies de l'album partagé.
-- Date précise et éventuelles photos de la moisson de 2024.
-- Surface effective cultivée en 2019 et en 2024.
-- Nom de variété et éventuels documents de remise des semences par U Granu Anticu.
-- Provenance des semences utilisées en 2024.
-- Distinction entre coupe manuelle, battage et vannage (ces deux dernières opérations restent à qualifier).
-- Volumes récoltés, personnes participantes, outils utilisés, devenir du grain.
-- Calendrier, viabilité des semences et périmètre du futur semis.
+Le fil conducteur serait : **du grain reçu au savoir partagé, du savoir au geste, et du geste à une capacité qui ne dépend plus exclusivement de celui qui l'enseignait**.
 
-**Principe de conservation :** préserver d'abord les faits, témoignages et sources originales ; publier ensuite les projections muséales sans effacer les incertitudes.
+## 4. Une expérience parmi d'autres en Corse
 
+Minesteggio n'est ni isolé ni présenté comme précurseur exclusif. L'association U Granu Anticu, les initiatives de conservation à Canari, les pratiques de moisson et de *tribbiera* à Vàllica, des expériences de montagne et des rencontres pédagogiques autour du pain témoignent d'intérêts convergents.
+
+Ces démarches n'ont pas toutes le même objet : sauver des semences, produire, faire revivre une fête, documenter une pratique ou former un public. Aucun partenariat avec le Musée Mariani des Possibles n'est présumé.
+
+L'[annexe consacrée à l'état de l'art en Corse](#annexe--état-de-lart-en-corse--le-retour-du-blé-des-céréales-et-du-pain) rassemble les initiatives identifiées et leurs sources.
+
+## 5. Le futur atelier : un programme possible, non une promesse
+
+La prochaine campagne, envisagée à partir de la fin de 2026, pourrait servir de support à un parcours d'observation et d'apprentissage :
+
+1. **Avant le semis** : identifier les lots et leur provenance, tester leur germination, examiner le sol, définir la surface et les conditions de sécurité.
+2. **Au semis** : documenter date, météo, masse semée, outils, participants et choix techniques.
+3. **Pendant la croissance** : observer levée, tallage, épiaison, maturité et incidents ; conserver des observations datées.
+4. **À la moisson** : mesurer le temps de travail, les surfaces et les quantités effectivement récoltées ; distinguer la coupe des opérations ultérieures.
+5. **Après la récolte** : envisager battage, vannage, mouture et pain uniquement si les moyens et les conditions techniques et réglementaires le permettent ; identifier des partenaires si nécessaire.
+6. **Pour transmettre** : partager les constats, les incertitudes et les méthodes réutilisables, y compris lorsque le résultat s'écarte de l'hypothèse initiale.
+
+Le semis tardif de janvier 2019 conduit à envisager un semis plus précoce en fin d'année, mais ce retour d'expérience **n'est pas une validation agronomique universelle** : variété, sol, climat et état de la parcelle devront guider la décision.
+
+L'[atelier complémentaire « Blé et pain »](atelier_ble_pain.md) étudie l'ensemble de la chaîne jusqu'à la panification, ainsi que ses contraintes sanitaires et économiques. Il ne faut pas présenter les possibilités qu'il examine comme des installations déjà disponibles à Minesteggio.
+
+## 6. Conserver les preuves pour mieux transmettre
+
+Une transmission fidèle distingue :
+
+- **Faits rapportés** : deux moissons manuelles (2019, 2024), semis de janvier 2019 et indication d'une origine U Granu Anticu des semences initiales ;
+- **Faits à vérifier** : variétés, lots successifs, photos, surfaces réellement cultivées, dates exactes, rendements, outils, participants et devenir du grain ;
+- **Interprétations** : intérêt du semis automnal, valeur pédagogique de la remise en pratique, place de Minesteggio dans un renouveau régional ;
+- **Projets** : campagne 2026–2027, accueil éventuel de participants et extension vers la chaîne du pain.
+
+Les originaux photographiques et leurs métadonnées devront être préservés ; les observations nouvelles seront datées, sourcées et révisables. **Le musée n'a pas à fabriquer une continuité historique : il doit rendre intelligibles les continuités, les ruptures et les incertitudes.**
+
+## 7. La finalité : transmettre des possibles
+
+Une collection de grains, un récit de moisson et une parcelle cultivée n'ont pas la même fonction, mais ils se complètent.
+
+La collection témoigne de ce qui a existé. Le récit donne du sens aux gestes. La pratique permet de vérifier ce qu'ils demandent aujourd'hui. La documentation donne enfin à d'autres la possibilité de poursuivre et de corriger l'expérience.
+
+**Le Musée Mariani des Possibles entend conserver le passé sans l'enfermer dans le passé : transmettre suffisamment pour qu'un savoir puisse redevenir une capacité vivante.**
+
+La question laissée au visiteur n'est donc pas seulement « comment cultivait-on le blé en Corse ? », mais aussi : **« Que faut-il aujourd'hui pour pouvoir le cultiver, comprendre son histoire et transmettre ce savoir à d'autres ? »**
 
 ---
 
