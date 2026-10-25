@@ -1093,3 +1093,7 @@ Cette clarification prolonge [le noyau doctrinal](noyau_doctrinal_rendre_capable
 ## Hypothèse anthropologique — affiliation marianiste et « âme corse »
 
 [Note source exploratoire : résistance à la dépossession de la capacité d'agir](autonomia/marianisme_ame_corse_hypothese.md). Proposition comparatiste et revendication personnelle, sans essentialisme ni continuité généalogique tenue pour démontrée. La notion d'« âme corse » y est étudiée comme catégorie culturelle disputée, non comme attribut uniforme d'une population.
+
+## Passerelle historique vers le Musée — Talkinon et la longue durée des capacités corses
+
+La [note du Musée Mariani des Possibles sur Mariana, Alalia, Talkinon, Santa Mariona et Minesteggio](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/research/talkinon_serra_avena_minesteggio_crypto_histoire.md) confronte révoltes, institutions locales, mémoire familiale et débats contemporains d'autonomie. Elle propose une lecture du **goût de la liberté** comme problème récurrent de contrôle de la délégation, non comme preuve d'une organisation ni d'une lignée continue depuis Marius. Dans *Autonomia*, la question opératoire est : **le transfert de compétence aux représentants territoriaux augmente-t-il effectivement la capacité des habitants à décider et à contrôler ?** Note exploratoire sourcée, avec bibliographie et hypothèses réfutables.
