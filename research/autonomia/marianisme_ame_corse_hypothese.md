@@ -243,3 +243,23 @@ La synthèse ouverte est celle d'un **ordre horizontal** : une communauté capab
 **Conséquence méthodologique importante :** cette église se situe **précisément dans le secteur nord de Corte/Talcini**, distinct de San Giovanni au sud-est, ce qui rend le couple **Santa Mariona–Crête de l'Avoine** plus immédiatement pertinent pour l'hypothèse Talkinon que le seul site de San Giovanni. Aucun lien direct entre matériel romain du remblai, tour de guet supposée et **Talcinum de Ptolémée** n'est pour autant prouvé. La double abside ne prouve pas non plus une division entre deux traditions politiques ou religieuses.
 
 **Prochaines vérifications** : lecture intégrale et plan des fouilles de Pergola 1979 ; analyse précise des deux autels, de la cuve et du remblai romain ; toponymie Mont Cecu / Serra Avena / Crête de l'Avoine ; repérage des Bagni romani et des éventuelles fortifications ; identification du vocable et de la plus ancienne mention documentaire de Santa Mariona.
+
+
+## 14. Philippe Pergola : témoin scientifique à interroger, témoignage personnel distinct (25 octobre 2026)
+
+**Information de première main communiquée par JHR** : il connaît personnellement l'archéologue **Philippe Pergola** et rapporte que celui-ci aurait subi en Corse des traitements professionnels et humains difficiles, en aurait gardé de l'amertume, et aurait terminé une part notable de sa carrière en Italie. **Ce ressenti rapporté est un témoignage de JHR, non une biographie corroborée** : ne pas attribuer à Pergola un témoignage direct sans source, ni présenter son activité italienne comme une conséquence démontrée de ces difficultés.
+
+**Vérifications indépendantes** : né à Corte en 1953 ; carrière scientifique transnationale — CNRS et universités françaises, École française de Rome, professeur et ancien recteur/doyen de l'Institut pontifical d'archéologie chrétienne ; profil émérite en 2026. [Notice BnF](https://catalogue.bnf.fr/ark:/12148/cb127313904) ; [présentation professionnelle autodescriptive](https://piac.academia.edu/PPergola) ; [profil HAL](https://cv.hal.science/philippe-pergola). Une interprétation exclusivement en termes d'« exil » ou de « fin de carrière italienne » serait excessive.
+
+**Conflits de méthodes documentés** : son [article de 1979 sur Santa Mariona](https://www.persee.fr/doc/mefr_0223-5110_1979_num_91_1_5176) conteste plusieurs traditions de datation et réclame de meilleures preuves archéologiques ; sa conférence [*Archéologie et société*, Cervioni, août 1979](https://adecec.net/parutions/arch%C3%A9ologie-et-soci%C3%A9t%C3%A9.html) conteste diverses reconstructions héritées de l'historiographie ancienne. Ces désaccords **ne prouvent pas à eux seuls une persécution professionnelle**.
+
+**Pertinence exceptionnelle pour l'enquête Talkinon** : il est auteur des fouilles de Santa Mariona, spécialiste de topographie chrétienne et de stratigraphie du passage antiquité/haut Moyen Âge et connaît personnellement le terrain cortenais. JHR propose de lui soumettre l'hypothèse personnelle : **Talcinum/Talkinon au sommet de la Crête de l'Avoine**, emplacement supposé d'une tour de guet et d'une petite garnison romaines, au-dessus de la jonction des vallées du Tavignano, de la Restonica et de l'Orta.
+
+**Questions préparées pour un entretien** :
+1. Quelle était la provenance stratigraphique des éléments romains découverts à Santa Mariona ? Occupation antique in situ, matériel remployé ou apporté dans le remblai ?
+2. A-t-il repéré, étudié ou entendu parler de structures sur la Crête de l'Avoine pouvant correspondre à un poste militaire antique ? Existe-t-il plans, photos ou rapports anciens ?
+3. Quelles identifications alternatives de Talcinum juge-t-il sérieuses et quels critères départageraient les localisations ?
+4. Quelle fonction et quelle datation donner aux deux absides et aux deux éventuels autels ?
+5. Quels axes de circulation antiques attestés ou probables reliaient vallée du Golo, Corte et Tavignano ?
+
+**Action** : préparer un message personnel courtois avec lien vers la note, sans envoi ni publication adressée à un tiers avant autorisation explicite et spécifique de JHR. Éviter d'évoquer en son nom une souffrance, une hostilité ou un conflit dans la sollicitation initiale.
