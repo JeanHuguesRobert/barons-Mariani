@@ -92,3 +92,7 @@ Présenter le Musée Mariani comme un musée d'enquête, adossé à un corpus so
 ## Statut
 
 Exposition de préfiguration. À réviser après inventaire des objets, consolidation des sources et premiers choix de scénographie.
+
+## Station d'enquête — La Corse des possibles : de Mariana à Minesteggio
+
+Une station candidate relie le triangle historique **Mariana — Alalia — Talcinum/Talkinon** aux vestiges de Santa Mariona, à la vallée de l'Orta et aux traditions relatives à Mariano da Gaggio et aux Mariani de Corte. Elle distingue **objets attestés**, **mémoire familiale**, **localisation hypothétique de Talkinon sur la Serra d'Avena** et **interprétations politiques contemporaines**. Les visiteurs peuvent comparer les sources et formuler des objections ; aucun continuisme historique ou généalogique n'est affirmé. [Lire la note de recherche et son annexe bibliographique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/research/talkinon_serra_avena_minesteggio_crypto_histoire.md).
