@@ -214,3 +214,7 @@ Le rapprochement entre l'expérience constituante corse de **1755** et le débat
 - **Guide public interactif :** [`https://riseandfall.baronsmariani.org/guide.html`](https://riseandfall.baronsmariani.org/guide.html)
 - **Mentions légales :** [`https://riseandfall.baronsmariani.org/mentions-legales.html`](https://riseandfall.baronsmariani.org/mentions-legales.html)
 - **Infrastructure de production :** Hébergement Oracle Cloud Infrastructure (OCI) / Fracta2 servi par Caddy reverse proxy via Cloudflare.
+
+## Passerelle documentaire — De Mariano da Gaggio aux Mariani de Corte
+
+Le Musée Mariani des Possibles met à disposition une [note transversale de recherche sur Talkinon, la Serra d'Avena, Santa Mariona et Minesteggio](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/research/talkinon_serra_avena_minesteggio_crypto_histoire.md). Pour *Rise & Fall*, elle ouvre l'amont médiéval et antique du récit familial : **tradition de filiation Mariano da Gaggio → Mariani**, témoignage de Louis Hugues repris par Meurgey, attestations fiscales de **1583** et paroissiales de **1674–1696**. Le rattachement généalogique demeure **non démontré**. Cette passerelle n'altère aucune édition gelée ; elle prépare les projections suivantes et renvoie aux preuves plutôt que de dupliquer la note.
