@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 title: Gabarit de fiche de possible
 subtitle: Modèle d'instruction d'un atelier du Musée Mariani des Possibles
 date: '2026-06-27'
-version: '0.1'
+version: '0.2'
 status: draft
 document_role: source
 document_kind: fiche-template
@@ -135,3 +135,32 @@ Ce qui reste à instruire, par qui, dans quel ordre.
 Deux indicateurs accompagnent chaque fiche et permettent de comparer les ateliers entre eux : l'**indice de friction administrative**, qui mesure le coût et la complexité de la mise en conformité, et l'**indice de capacité retrouvée**, qui mesure ce que l'atelier rend effectivement possible. Leur calcul fait l'objet de fiches méthode dédiées.
 
 Lorsqu'un atelier porte sur la réactivation d'un savoir-faire empêché, on lui adjoint la **grille de remise en service**, qui identifie le composant d'accès manquant — prestataire, autorisation, pièce, procédure — et la manière de le restaurer.
+
+## Dépendances, autonomie opérationnelle et instanciation générative
+
+Une fiche ne suffit pas à faire fonctionner un atelier. Le cadre générique doit distinguer **la capacité déjà détenue**, **la capacité empruntée ou dépendante d'un tiers**, **la capacité encore à construire**, et **la capacité effectivement transmissible au public**. Ne pas confondre propriété d'une ressource, compétence, autorisation d'usage et capacité à accueillir des visiteurs.
+
+Chaque atelier renseigne au minimum :
+
+- **Ressources ancrées** : lieu, matériel, supports vivants, témoignages, compétences disponibles et preuves de leur disponibilité.
+- **Dépendances** : partenaires, semences, fournisseurs, intervenants qualifiés, accès au terrain, autorisations ou services nécessaires ; statut (confirmé, sollicité, supposé, manquant).
+- **Autonomie opérationnelle** : ce qui peut être pratiqué immédiatement, ce qui suppose un tiers, et le repli possible si ce tiers manque.
+- **Contraintes propres au domaine** : sécurité des participants, protection du vivant et du milieu, réglementation, responsabilité et assurance, sans généraliser le protocole d'un atelier à un autre.
+- **Transmission** : compétences visées, expérience effectivement accessible, conditions d'encadrement, observations et preuves de capacité retrouvée.
+- **Cycle** : hypothèse → préparation → test prudent → documentation → évaluation → révision de l'instance et, si généralisable, du gabarit.
+
+### Deux instances pilotes contrastées (octobre 2026)
+
+| Dimension | Culture du Blé — Minesteggio | Culture de l'Âne — Rossignol et milieu urbain |
+| --- | --- | --- |
+| Point de départ | Semis et moissons rapportés en 2019 et 2024 | Présence et expérience quotidienne avec Rossignol ; campagne « Retour de l'âne corse en milieu urbain » en cours |
+| Dépendance structurante | Association U Granu Anticu pour l'accès à des semences et à des savoir-faire, selon le porteur ; disponibilité future à confirmer | Ressource animale déjà présente ; dépendances portant surtout sur conditions d'accueil, soins, espace, sécurité, obligations applicables et acceptabilité urbaine |
+| Premier travail d'instruction | Qualifier les lots, compétences disponibles, concours du partenaire et calendrier d'une nouvelle campagne | Reconstituer les observations réelles, les conditions de bien-être, les interactions avec des tiers et le cadre pratique/juridique |
+| Écueil à éviter | Présenter l'association comme partenaire engagé sans confirmation | Réduire l'animal à un matériel de démonstration ou présenter une campagne comme validation de son modèle |
+| Première sortie pédagogique possible | Histoire des céréales et documentation de cultures passées, sans promettre immédiatement un semis participatif | Histoire des ânes, observations du comportement et relation respectueuse, sans promettre un accueil ou des interactions publiques non évalués |
+
+Ces instances ne définissent pas un ordre de priorité définitif : **la disponibilité d'une ressource centrale ne signifie pas que toutes les conditions de démonstration ou d'accueil sont satisfaites**. Les deux ateliers serviront à éprouver la capacité du framework à générer des dossiers adaptés, à détecter les dépendances et à transmettre sans perdre les différences de domaine.
+
+### Règle de convergence
+
+Une amélioration issue d'un atelier ne remonte dans le gabarit que si elle est applicable à d'autres instances. Les données de terrain, les relations avec les partenaires et les exigences spécialisées demeurent dans les dossiers propres à chaque atelier. Cette discipline évite de confondre un framework génératif avec un modèle rigide ou une doctrine supplémentaire.
