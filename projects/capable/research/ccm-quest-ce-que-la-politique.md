@@ -1,7 +1,7 @@
 ---
 title: "Qu'est-ce que la politique ? — Cahier des Charges Motivé"
 date: "2026-10-26"
-version: "0.1"
+version: "0.2"
 status: "working-paper — exploratoire, non validé"
 document_role: "research"
 document_kind: "motivated-requirements"
@@ -78,7 +78,7 @@ Conserver séparément : proposition ; arguments ; sources ; objections ; test o
 
 ## Décisions et inconnues ouvertes au 26 octobre 2026
 
-- Titre candidat retenu pour la recherche, manuscrit non rédigé et aucune édition gelée.
+- Titre candidat retenu ; manuscrit de travail v0.1 rédigé le 26 octobre 2026, aucune édition gelée.
 - Place exacte de l'essai dans l'ordre du Corps : **ouverte** ; ne pas l'introduire de force comme nouveau chapitre 1.
 - Vérification bibliographique et exactitude des attributions proverbiales : **à faire**.
 - Modalités de l'annexe savante commune à Capable : **à inventorier avant de créer une nouvelle structure**.
@@ -89,3 +89,24 @@ Conserver séparément : proposition ; arguments ; sources ; objections ; test o
 Umbrella : [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152). Contrat : [Cognitive Packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md). Doctrine générale : [Livre Vivant](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/livre_vivant.md).
 
 Ce document ne commande aucun déploiement public. Une future modification substantielle doit conserver sa motivation et sa provenance. Chaque changement du Corps, du Magazine ou des projections doit être distingué du changement de cette mémoire de recherche.
+
+## Consolidation ciblée des sources préexistantes — 26 octobre 2026
+
+**Sélection source-first, sans réécrire les doctrines souveraines :**
+
+| Source | Acquis utiles pour l'essai | Vigilance / limite |
+| --- | --- | --- |
+| [Discours de la seconde méthode](../../../research/second_method.md) | Publication des raisonnements et objections ; jugement politique des personnes vivantes, connaissance assistée possible | La méthode n'est pas à imposer comme mode d'emploi au lecteur ; l'égalité du jugement est une exigence à débattre |
+| [Démocratie capable](../../../research/democratie_capable.md) | Consultation ≠ influence ≠ décision ; possibilité effective de proposer, délibérer, mandater et corriger | Ne pas réduire toute politique à un dispositif de participation |
+| [Moyens et finalités](../../../research/moyens_et_finalites.md) | Les institutions et procédures sont des moyens évaluables au regard des fins qu'elles rendent accessibles | Ne pas présupposer des fins communes sans désaccord légitime |
+| [Principe d'effectivité](../../../research/principe_effectivite.md) | Validité proclamée et exercice réel ne se déduisent pas l'un de l'autre | Les effets exigent des sources, des comparateurs et un horizon temporel |
+| [Modèle de sécurité du gouvernement représentatif](../../../research/security_model_representative_democracy.md) | La représentation peut être étudiée comme architecture de sélection, délégation et confiance | Hypothèse d'analyse, non réduction exhaustive ni preuve de « dévoiement » universel |
+| [Kudocracy](../../../research/kudocracy.md) | Votation, suggestion, recommandation et délégation sont distinctes ; autonomie du jugement | Technologie auxiliaire, non remède automatique à l'asymétrie du pouvoir |
+| [Triangulation du Réel](../../../research/triangulation_du_reel.md) | Croiser des indices indépendants pour tester les interprétations politiques | Une convergence ne ferme pas toute controverse causale |
+| [Doctrine Capable](../doctrine.md) | La doctrine source précède sa projection civique Capable ; ouvertures capacitaires et correction | L'essai n'est ni un prospectus de Capable ni sa nouvelle source souveraine |
+
+**Constat de l'exploration :** le Corpus fournit une analyse substantielle de l'effectivité, de la démocratie et de la capacité, mais pas encore une synthèse littéraire autonome sous le titre *Qu'est-ce que la politique ?*. Il manque surtout le pont narratif entre expérience ordinaire, discussion, finalités et institutions. Le MVP doit construire ce pont, non dupliquer les dossiers techniques.
+
+**Décisions prises :** traiter les aphorismes comme portes d'entrée et non autorités ; garder une critique substantielle du pouvoir sans réduire la politique à la conquête du pouvoir ; distinguer diversité des institutions et pluralisme des fins ; faire une place explicite aux risques de discussion déloyale et à la possibilité de corriger. La généalogie détaillée des proverbes et l'examen historien des comparaisons restent ouverts dans l'annexe.
+
+**Première projection de travail :** [manuscrit v0.1](../manuscript/essai-quest-ce-que-la-politique.md). Une lecture contradictoire, une vérification de bibliographie et un jugement éditorial restent nécessaires avant toute promotion ou publication d'édition.
