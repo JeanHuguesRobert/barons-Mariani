@@ -35,6 +35,13 @@ Le **n°1 de Capable** documente le lancement de la campagne présidentielle 202
 
 > **Geler l’édition, jamais la projection suivante.**
 
+## Essai autonome en atelier — non intégré à une édition
+
+- [*Qu'est-ce que la politique ?* — manuscrit de travail v0.1](essai-quest-ce-que-la-politique.md)
+- [Cahier des Charges Motivé — mémoire évolutive de l'exploration](../research/ccm-quest-ce-que-la-politique.md)
+
+L'essai est un produit candidat **au sein** du Corps, indépendant des chapitres canoniques actuels. Son emplacement, son examen contradictoire et sa promotion éventuelle restent ouverts. Cette mention dans l'index ne vaut ni insertion dans le livre rendu, ni gel, ni validation éditoriale.
+
 ## Projections de diffusion — subsidiarité ascendante (21 octobre 2026)
 
 Le [chapitre 3](02-subsidiarite-rendue-effective.md) expose durablement la distinction entre autonomie et autarcie, les conditions de la coopération et la subsidiarité capacitaire ascendante. Deux documents **dérivés et asymétriques** permettent de le diffuser sans l'ériger en source doctrinale :
