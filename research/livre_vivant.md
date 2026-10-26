@@ -5,8 +5,8 @@ description: "Définition source du concept de Livre Vivant : cinq faces complé
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-02"
-last_modified_at: "2026-10-02"
-version: "0.1"
+last_modified_at: "2026-10-26"
+version: "0.2"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
@@ -250,6 +250,39 @@ L'invariant hérité de *Suicide Corse* et déjà réemployé dans *Rise & Fall*
 
 > **Freeze the edition, never the next projection.**  
 > **Geler l'édition, jamais la projection suivante.**
+
+---
+
+## 1 ter. Finalité extérieure, lecture et exploration
+
+Le qualificatif *vivant* est une métaphore éditoriale et opératoire, non une propriété biologique ni une garantie d'effectivité. L'agent conversationnel est souvent la manifestation la plus immédiatement perceptible de cette métaphore : le lecteur peut poser des questions et obtenir une réponse contextualisée. Cependant, **répondre n'est ni comprendre à la place du lecteur, ni modifier le Réel**.
+
+Un Livre Vivant distingue donc trois résultats, sans les confondre :
+
+- **compréhension** : rendre une question et ses incertitudes intelligibles à un public vaste ;
+- **capacité** : permettre au lecteur ou au contributeur de mieux enquêter, délibérer, choisir, contredire ou agir selon ses propres finalités ;
+- **effectivité extérieure** : observer, lorsque c'est possible et pertinent, si des pratiques, décisions ou situations hors du Livre ont changé, en qualifiant les preuves et les causalités.
+
+Le dernier niveau n'est pas automatiquement atteint par les deux premiers. Un livre peut être utile sans déclencher une action mesurable ; inversement, fréquentation, nombre de conversations, contributions ou éditions ne démontrent pas à eux seuls un effet sur le Réel. L'objectif n'est pas de maximiser l'activité éditoriale pour elle-même.
+
+### Le Cahier des Charges Motivé (CCM), mémoire révisable de l'exploration
+
+Pour les travaux qui le justifient, un **Cahier des Charges Motivé** peut expliciter les finalités, exigences, raisons des arbitrages, hypothèses, objections, chemins explorés et impasses. Il conserve la mémoire des choix tout en permettant leur révision selon l'**Exploration Rationnelle du Possible** et la **Seconde Méthode**.
+
+```text
+finalités et questions ouvertes
+→ CCM révisable ↔ enquêtes, objections, impasses, découvertes
+→ Corpus qualifié et sourcé
+→ corps principal / Magazine / annexes / autres projections
+→ contributions, observations, expériences
+→ retour qualifié vers la recherche et, si nécessaire, révision du CCM
+```
+
+Le CCM **n'est ni une autorité doctrinale supplémentaire, ni le commentaire obligatoire du Livre, ni une condition imposée à chaque instance**. Selon les cas, il appartient aux documents de recherche dont les annexes savantes donnent une vue publique adaptée, avec références vers ses versions pertinentes. Les motivations internes non destinées à la publication ne sont pas divulguées par simple appartenance au travail de recherche.
+
+Une publication courte peut être un **produit minimal utilisable** sans être un brouillon : son périmètre est limité, mais son texte se suffit à lui-même. Chaque édition demeure datée et vérifiable ; la recherche poursuit son chemin, y compris lorsqu'elle invalide une exigence antérieure.
+
+**Principe éditorial :** la rigueur de la préparation ne crée pas d'obligation de sur-expliquer l'œuvre. Le corps principal doit laisser au lecteur l'autonomie de son jugement ; les annexes servent la vérification, non l'imposition d'une interprétation.
 
 ---
 
