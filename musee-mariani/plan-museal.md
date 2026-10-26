@@ -245,3 +245,29 @@ Chaque dossier doit être lisible à deux niveaux :
 2. **niveau corpus** : preuves, sources, incertitudes, variantes, statut de validation.
 
 Le musée doit donc assumer une double nature : exposition publique et interface vers un corpus source versionné.
+
+
+## 8. Présentation de Casa Mariani et coopération potentielle avec le Musée de la Corse
+
+**Jalon connu :** deuxième réunion du Comité des usagers du Musée de la Corse, le **26 novembre 2026** à Corte. Une opportunité de coopération peut se présenter plus tôt ; la présentation doit donc rester réutilisable et ne pas dépendre de la date.
+
+### Lecture publique — version courte de présentation
+
+**Casa Mariani est une Maison au sens plein : un lieu, une histoire familiale, un patrimoine et un projet ouvert de transmission.** À Minesteggio, près de Corte, le Musée Mariani des Possibles entend relier objets, documents, savoir-faire et expériences contemporaines pour comprendre ce qui fut possible, ce qui l'est encore et ce qui pourrait le redevenir. Sa construction matérielle commence par la Boutique Mobile, sous la marque Casa Mariani et le monogramme M, avec trois familles de produits envisagées : exemplaires singuliers de Livres Vivants, produits liés aux huiles essentielles et Bleus de Chine anciens ou modernes. Quatre ateliers structurent l'exploration : blé, âne, huiles essentielles et Bleus de Chine. Ils ont des maturités différentes et ne sont pas tous ouverts au public.
+
+**Une Maison conserve ce qu'elle reçoit et cherche à rendre possible ce qu'elle transmet.**
+
+### Lecture approfondie — coopération sans confusion des institutions
+
+Le Musée Mariani des Possibles est un projet privé en construction, distinct du **Musée de la Corse**, institution publique. Une éventuelle coopération est à **explorer**, sans accord, validation scientifique, droit d'accès aux collections ou accueil des ateliers présumés.
+
+- **Apports potentiels de Casa Mariani** : expériences agricoles de Minesteggio (blé 2019/2024), observation et campagne autour de Rossignol, recherche et pratique autour des huiles essentielles, histoire et remise en circulation des Bleus de Chine, Livres Vivants à double lecture, expérimentation de transmission par objets singuliers.
+- **Intérêt muséal à évaluer avec l'institution** : documentation contradictoire, témoignages, transmission de gestes et d'usages, ateliers pilotes proportionnés aux conditions réelles, médiation entre musée et territoires.
+- **Principe de réciprocité** : rechercher un besoin effectivement formulé par le Musée de la Corse et co-construire un test borné, plutôt que solliciter une caution générale pour Casa Mariani.
+- **Précautions** : respect du projet scientifique et culturel du Musée de la Corse, rôles distincts du Comité des usagers et des instances décisionnaires, sécurité et bien-être animal, droits des sources et des objets, absence de confusion entre vente privée et mission publique.
+
+### Support initial et test du réel
+
+Préparer une présentation publique **d'une page**, complétée d'une **annexe de preuves et de statuts** : réalisé / en cours / envisagé / dépendant d'un partenaire. Les deux niveaux doivent préserver le même sens. Tester d'abord l'intelligibilité et la possibilité d'identifier une expérimentation réellement pertinente pour l'institution. **Ne pas ouvrir un chantier technique ou un dépôt supplémentaire** pour ce support.
+
+**Échéance :** document utilisable avant le 26 novembre 2026 et amendable selon les échanges ; le 26 novembre est un jalon, pas une date imposée de publication ou une promesse de partenariat.
