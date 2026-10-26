@@ -80,3 +80,12 @@ La contribution associative du 28 mai 2026 à l'Assemblée nationale demeure une
 - [Contribution complète C.O.R.S.I.C.A. — source Markdown](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/contribution_senat_CORSICA_2026-10-14_source.md) ; le courriel envoyé comporte la seule pièce Word, dérivée de cette source.
 - [Audition Gatel — transcription ASR complète, non corrigée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/audition_gatel_2026-10-13_transcription_ASR.md) ; ne pas présenter comme verbatim officiel.
 - [Registre public — transmission Sénat](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md) ; distinguer l'envoi de toute réception institutionnelle.
+
+
+## Accès public au numéro en préparation — 26 octobre 2026
+
+Une page d'accueil dédiée est désormais définie dans [le site source Capable](../site/en-preparation.html). Elle relie l'état éditorial présent, la projection HTML issue de la chaîne générique et les canaux de contribution, sans confondre édition en préparation et numéro gelé.
+
+La [chaîne d'aperçus](../../../.github/workflows/living-books-news-previews.yml) est déclenchée par les changements dans `projects/capable/editions/**` et écrit les aperçus publics versionnés dans `previews/en-preparation/`, accompagnés du manifeste et d'un reçu de calcul. Ce déclenchement ne prouve ni succès de la tâche, ni déploiement sur `capable.lepp.fr` ; contrôler séparément le reçu, le fichier généré et sa disponibilité HTTP.
+
+Trace de coordination : [Umbrella #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
