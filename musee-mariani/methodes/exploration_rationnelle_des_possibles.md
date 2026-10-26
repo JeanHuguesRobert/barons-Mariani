@@ -344,6 +344,10 @@ La **Surface de Chance** exprime une condition pratique complémentaire : *faire
 
 ### Discipline d'attention
 
+**Double piège à prévenir :** (1) **éparpillement**, lorsqu'une découverte périphérique entraîne des ramifications sans rapport prioritaire avec le mandat ; (2) **primauté indue de la nouveauté ou du dernier interlocuteur**, lorsqu'une proposition récente reçoit davantage de poids sans argument ni preuve supplémentaires (« le dernier qui parle a raison », à tort). Ce second piège relève du jugement avant même de relever de la planification.
+
+**Protocole minimal :** *remarquer → qualifier → décider*. Consigner localement la découverte avec sa provenance et sa relation au mandat ; comparer explicitement son intérêt aux priorités, preuves et engagements antérieurs ; ne modifier le plan de travail que si une raison explicite le justifie (blocage, opportunité réellement périssable, gain supérieur ou décision humaine). Une découverte intéressante peut rester en attente, sans être disqualifiée ni immédiatement approfondie. Le fait qu'un sujet soit récent, séduisant ou mentionné par le dernier interlocuteur n'est jamais, à lui seul, une preuve de priorité.
+
 L'agent ou le chercheur doit **accueillir l'inattendu sans abandonner son mandat**. Une piste imprévue à forte valeur potentielle peut être inscrite dans une liste ou un Cognitive Packet, puis examinée ultérieurement. La localité fractale, le parcours en largeur au niveau du projet parent, FBF et le budget attentionnel humain empêchent de confondre ouverture sérendipiteuse et dispersion.
 
 ### Application au Musée Mariani des Possibles
