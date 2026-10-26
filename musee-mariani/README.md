@@ -96,6 +96,10 @@ musee-mariani/
     atelier_ble_pain.md
 ```
 
+## Présentation publique
+
+- **[Casa Mariani — Une Maison, un Musée, des Possibles](presentation-publique-casa-mariani.md)** — entrée publique de préfiguration (lecture courte et annexe de preuves), destinée aux visiteurs, contributeurs et partenaires éventuels ; ne vaut ni annonce d'ouverture ni accord de coopération.
+
 ## Documents principaux
 
 - [`intention.md`](intention.md) — intention générale du musée.
