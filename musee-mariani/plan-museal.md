@@ -186,7 +186,7 @@ Les fonds en cours de création ne doivent pas être présentés comme déjà ca
 
 **Casa Mariani**, c'est une maison au sens plein : un lieu, une famille, une histoire et tout ce qui se transmet. La Maison ne se limite pas aux murs de Minesteggio ni aux seules personnes qui portent le nom Mariani. Elle rassemble un patrimoine, des savoirs, des objets et des projets, et peut accueillir ceux qui souhaitent les faire vivre et les transmettre.
 
-Son signe est simplement **M**. Sous la marque Casa Mariani, la Boutique Mobile propose notamment des exemplaires uniques de Livres Vivants, des produits liés aux huiles essentielles et des Bleus de Chine anciens ou modernes. Le Musée Mariani des Possibles est la vocation de transmission et d'exploration que ces activités contribuent à construire et à financer.
+Son signe est simplement **M**. Sous la marque Casa Mariani, la Boutique Mobile se construit autour de trois familles envisagées : des exemplaires uniques de Livres Vivants, des produits liés aux huiles essentielles et des Bleus de Chine anciens ou modernes. Leur disponibilité commerciale reste à établir produit par produit. Le Musée Mariani des Possibles est la vocation de transmission et d'exploration que ces activités contribuent à construire et à financer.
 
 **Une Maison conserve ce qu'elle reçoit et cherche à rendre possible ce qu'elle transmet.**
 
@@ -212,6 +212,30 @@ La Double Lecture n'est pas la juxtaposition d'un résumé promotionnel et d'une
 6. **Épreuve du réel** : vérifier l'intelligibilité auprès de lecteurs profanes et la solidité auprès de lecteurs compétents ; documenter les objections et faire évoluer les deux versions ensemble.
 
 La Double Lecture est applicable aux cartels, ateliers, fiches produit, Livres Vivants et propositions de partenariat. Elle est distincte des *formats* de diffusion : Livre, Annexe scientifique, Magazine, site contributif et agent conversationnel peuvent chacun mobiliser les deux niveaux selon leur objet.
+
+### Dogfooding et Skin in the Game : protocole d'épreuve de la Double Lecture
+
+La méthode se teste d'abord sur **nos propres productions**, là où les défauts d'une formulation ont des conséquences concrètes. Deux principes complémentaires :
+
+- **Dogfooding** : utiliser réellement notre texte et nos outils dans les opérations du Musée (présentation de Casa Mariani, étiquettes, fiches produits, discussions avec Ange, partenaires, visiteurs), plutôt que les valider seulement par lecture interne.
+- **Skin in the Game** : celui qui affirme et publie doit rester exposé aux conséquences pertinentes de l'affirmation : correction publique, temps passé, coûts, obligations assumées et réputation. Ne pas transférer silencieusement le risque à un partenaire, un acheteur ou un animal ; l'exposition au risque ne dispense jamais des protections nécessaires.
+
+**Cycle minimal** : formuler → publier ou éprouver dans un usage limité → relever incompréhensions, objections et coûts → comparer aux sources → corriger les deux niveaux → archiver la différence et l'effet. Une validation par le seul auteur n'est pas un test indépendant.
+
+#### Premier essai contradictoire : « Casa Mariani, la Maison »
+
+| Proposition publique | Risque de contresens | Vérification et correction |
+| --- | --- | --- |
+| « La Maison ne se limite pas à la famille » | Faire croire que chacun en devient membre ou ayant droit | Clarifier participation, accueil et droits ; ne pas promettre une affiliation juridique |
+| « La marque Casa Mariani » | Faire penser qu'une seule entité vend tous les produits | Identifier le vendeur réel sur chaque fiche et document commercial |
+| « La Boutique Mobile propose… » | Faire croire à un stock et à une vente déjà ouverts | Préférer « se construit autour de trois familles envisagées » jusqu'à vérification de la mise en vente |
+| « M » comme signe commun | Faire croire que le monogramme suffit à identifier un exemplaire unique | Distinguer marque commune M et identifiant individuel de chaque objet |
+| « Maison » au sens anthropologique | Assimiler abusivement Casa Mariani aux sociétés à maisons décrites par l'ethnologie | Présenter l'analogie comme heuristique, non comme preuve historique ou statut juridique |
+| « Financer le Musée » | Confondre prix de vente, chiffre d'affaires et financement disponible | Comptabiliser coûts, recettes nettes et affectations effectives, séparément |
+
+**Critères d'effectivité** : capacité d'un lecteur à reformuler correctement ce qu'est Casa Mariani ; absence d'ambiguïté sur le vendeur, l'état du produit et le destinataire des recettes ; objections réellement tracées ; corrections propagées aux supports dérivés ; baisse de l'effort requis pour produire des textes conformes aux deux niveaux. Ne pas déclarer ce test « réussi » avant des observations indépendantes ou des opérations documentées.
+
+Le **premier dogfooding interne** a identifié une phrase prématurée sur la disponibilité des produits ; sa correction a été propagée dans le texte public de la présente section. La publication constitue un premier essai de cohérence, pas encore une validation par des clients ni une activité commerciale constatée.
 
 ## 7. Principe de médiation
 
