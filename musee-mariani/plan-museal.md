@@ -180,7 +180,40 @@ La Boutique Mobile, ses produits et le Musée s'inscrivent dans un **écosystèm
 
 Les fonds en cours de création ne doivent pas être présentés comme déjà capables de contracter ou d'encaisser au titre de leur personnalité juridique propre. L'association peut avoir une activité économique mais doit tenir compte de ses statuts et de ses obligations fiscales. La Boutique Mobile n'est pas en elle-même une nouvelle personne morale : elle peut être une enseigne ou un dispositif partagé, avec vendeur identifié pour chaque vente.
 
-## 6. Principe de médiation
+## 6. Casa Mariani : la Maison et son signe M — double lecture
+
+### Lecture publique — La Maison
+
+**Casa Mariani**, c'est une maison au sens plein : un lieu, une famille, une histoire et tout ce qui se transmet. La Maison ne se limite pas aux murs de Minesteggio ni aux seules personnes qui portent le nom Mariani. Elle rassemble un patrimoine, des savoirs, des objets et des projets, et peut accueillir ceux qui souhaitent les faire vivre et les transmettre.
+
+Son signe est simplement **M**. Sous la marque Casa Mariani, la Boutique Mobile propose notamment des exemplaires uniques de Livres Vivants, des produits liés aux huiles essentielles et des Bleus de Chine anciens ou modernes. Le Musée Mariani des Possibles est la vocation de transmission et d'exploration que ces activités contribuent à construire et à financer.
+
+**Une Maison conserve ce qu'elle reçoit et cherche à rendre possible ce qu'elle transmet.**
+
+### Lecture approfondie — Maison, parenté, patrimoine et institution
+
+Le terme *casa* renvoie d'abord à la demeure et au foyer ; son rapprochement avec *casata* rappelle la famille et son inscription sociale. Dans l'usage français, « maison » désigne également une famille, une lignée ou une dynastie : « Maison de France » n'est pas le nom d'un bâtiment. Les sens ne sont pas identiques selon les langues et les époques ; l'analogie sert ici à expliciter l'étendue de la notion, non à postuler une forme unique d'organisation familiale corse.
+
+L'anthropologie des « sociétés à maisons », notamment associée aux travaux de Claude Lévi-Strauss, fournit un instrument comparatif : la Maison peut se comprendre comme un principe de continuité de biens matériels et immatériels, de noms, de mémoires et de relations, transmis par des mécanismes qui excèdent parfois la stricte filiation biologique. **Casa Mariani est ici une proposition institutionnelle contemporaine inspirée de cette problématique, et non un cas ethnographique démontré de « société à maisons ».**
+
+Distinguer quatre plans, qui peuvent se recouvrir sans s'identifier : (1) **territorial et matériel** — Minesteggio et les lieux ; (2) **familial et mémoriel** — noms, alliances, récits et héritages ; (3) **patrimonial et cognitif** — collections, objets, Livres Vivants et savoir-faire ; (4) **collectif et prospectif** — artisans, partenaires, contributeurs, missions et capacités à transmettre. Cette extension aux non-parents est un choix explicite du projet, non une assertion sur toutes les familles corses.
+
+Le monogramme **M** est un signe de marque et de provenance, non un titre dynastique ni une personne juridique. L'inspiration d'un monogramme réduit à une initiale, comme le N napoléonien, n'établit aucune équivalence institutionnelle ou historique. La marque commune ne fait pas disparaître les distinctions entre association, entreprise, fonds de dotation et personne physique, ni leurs obligations respectives.
+
+### Règle éditoriale de Double Lecture
+
+La Double Lecture n'est pas la juxtaposition d'un résumé promotionnel et d'une dissertation. C'est la **même proposition à deux résolutions**, avec une correspondance vérifiable des assertions :
+
+1. **Lecture profane** : un texte autonome, concret et intelligible, sans jargon ni prérequis ; il explique d'abord ce que désigne la Maison et ce qu'elle rend possible.
+2. **Lecture savante** : les définitions, comparaisons, provenances, limites des analogies, distinctions juridiques, objections et références, sans changer le sens du premier texte.
+3. **Invariance sémantique** : toute affirmation de la lecture publique doit pouvoir être défendue et localisée dans la lecture approfondie ; celle-ci peut ajouter des distinctions mais ne doit pas contredire silencieusement le propos public.
+4. **Statut des énoncés** : séparer attestations historiques, analyses anthropologiques, intentions du porteur et projets encore conditionnels ; aucune métaphore n'est une preuve juridique ou historique.
+5. **Lecture dans les deux sens** : un spécialiste doit pouvoir proposer une correction sans rendre la version publique illisible ; un lecteur non spécialiste doit pouvoir interroger la version savante sans changer de récit.
+6. **Épreuve du réel** : vérifier l'intelligibilité auprès de lecteurs profanes et la solidité auprès de lecteurs compétents ; documenter les objections et faire évoluer les deux versions ensemble.
+
+La Double Lecture est applicable aux cartels, ateliers, fiches produit, Livres Vivants et propositions de partenariat. Elle est distincte des *formats* de diffusion : Livre, Annexe scientifique, Magazine, site contributif et agent conversationnel peuvent chacun mobiliser les deux niveaux selon leur objet.
+
+## 7. Principe de médiation
 
 Chaque dossier doit être lisible à deux niveaux :
 
