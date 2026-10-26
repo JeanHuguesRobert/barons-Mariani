@@ -327,3 +327,27 @@ Ce document doit servir de pont entre :
 - les futures fiches de possibles.
 
 Il doit également guider les futurs textes uchroniques : tout scénario contrefactuel doit expliciter ce qu'il apprend au présent, et toute fiche de possible doit indiquer quel regret futur elle cherche à éviter.
+
+
+## Sérendipité : découvrir des possibles que l'on ne cherchait pas
+
+L'**Exploration Rationnelle du Possible** ne se réduit pas à tester des possibilités déjà formulées. Une démarche exclusivement conduite par des objectifs et des requêtes préalables risque de ne découvrir que ce qu'elle sait déjà chercher. La **sérendipité** — découverte féconde, imprévue au regard de la recherche initiale — est donc une fonction constitutive de la méthode, et non un accident toléré à sa marge.
+
+Cette ouverture ne s'oppose pas à la rationalité. Elle appelle une articulation entre :
+
+1. **Une activité réelle orientée** : enquêter, expérimenter, produire, documenter et entrer en relation avec des terrains, objets et personnes.
+2. **Une attention périphérique disponible** : reconnaître les observations, rapprochements, surprises ou rencontres qui n'étaient pas inscrits dans la requête initiale, sans imposer une exploration exhaustive de chaque anomalie.
+3. **Une qualification rationnelle a posteriori** : distinguer découverte, intuition, hypothèse, preuve et possibilité praticable ; conduire, au besoin, un Test du Réel contradictoire.
+4. **Une mémoire transmissible et localisée** : noter les pistes fécondes, leur provenance et les suites possibles dans le contexte approprié, même lorsqu'elles ne justifient pas de détour immédiat.
+
+La **Surface de Chance** exprime une condition pratique complémentaire : *faire* et *faire savoir* augmentent les occasions de rencontres imprévues. Elle n'est ni une probabilité calculée ni un substitut à l'enquête. La sérendipité relève de la **découverte** ; la Surface de Chance contribue à créer les **conditions de rencontre**. L'une n'implique pas automatiquement l'autre.
+
+### Discipline d'attention
+
+L'agent ou le chercheur doit **accueillir l'inattendu sans abandonner son mandat**. Une piste imprévue à forte valeur potentielle peut être inscrite dans une liste ou un Cognitive Packet, puis examinée ultérieurement. La localité fractale, le parcours en largeur au niveau du projet parent, FBF et le budget attentionnel humain empêchent de confondre ouverture sérendipiteuse et dispersion.
+
+### Application au Musée Mariani des Possibles
+
+Une recherche sur un objet, une technique ou une histoire familiale peut révéler, sans l'avoir cherchée, une personne ressource, un savoir-faire encore vivant, une contradiction archivistique ou une possibilité de coopération. Le musée doit rendre ces découvertes observables et vérifiables, sans réécrire rétrospectivement l'objectif initial ni présenter un partenariat possible comme acquis.
+
+**Références internes :** [Serendipity as a Formal Epistemic Force](../../research/serendipity_as_epistemic_force.md) ; [Surface de Chance](../../research/concepts.md#surface-de-chance) ; [attention périphérique et sérendipité dans Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/attention_peripherique_serendipite_crosswalk.md) ; [Reality Probe Selection](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/reality_probe_selection.md).
