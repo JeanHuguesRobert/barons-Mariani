@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 title: Gabarit de fiche de possible
 subtitle: Modèle d'instruction d'un atelier du Musée Mariani des Possibles
 date: '2026-06-27'
-version: '0.2'
+version: '0.3'
 status: draft
 document_role: source
 document_kind: fiche-template
@@ -149,7 +149,7 @@ Chaque atelier renseigne au minimum :
 - **Transmission** : compétences visées, expérience effectivement accessible, conditions d'encadrement, observations et preuves de capacité retrouvée.
 - **Cycle** : hypothèse → préparation → test prudent → documentation → évaluation → révision de l'instance et, si généralisable, du gabarit.
 
-### Deux instances pilotes contrastées (octobre 2026)
+### Deux instances pilotes opérationnelles contrastées (octobre 2026)
 
 | Dimension | Culture du Blé — Minesteggio | Culture de l'Âne — Rossignol et milieu urbain |
 | --- | --- | --- |
@@ -159,8 +159,41 @@ Chaque atelier renseigne au minimum :
 | Écueil à éviter | Présenter l'association comme partenaire engagé sans confirmation | Réduire l'animal à un matériel de démonstration ou présenter une campagne comme validation de son modèle |
 | Première sortie pédagogique possible | Histoire des céréales et documentation de cultures passées, sans promettre immédiatement un semis participatif | Histoire des ânes, observations du comportement et relation respectueuse, sans promettre un accueil ou des interactions publiques non évalués |
 
-Ces instances ne définissent pas un ordre de priorité définitif : **la disponibilité d'une ressource centrale ne signifie pas que toutes les conditions de démonstration ou d'accueil sont satisfaites**. Les deux ateliers serviront à éprouver la capacité du framework à générer des dossiers adaptés, à détecter les dépendances et à transmettre sans perdre les différences de domaine.
+Ces deux instances constituent le premier banc d'essai opérationnel, mais ne sont pas les seuls ateliers envisagés. Elles ne définissent pas un ordre de priorité définitif : **la disponibilité d'une ressource centrale ne signifie pas que toutes les conditions de démonstration ou d'accueil sont satisfaites**. Les deux ateliers serviront à éprouver la capacité du framework à générer des dossiers adaptés, à détecter les dépendances et à transmettre sans perdre les différences de domaine.
 
 ### Règle de convergence
 
 Une amélioration issue d'un atelier ne remonte dans le gabarit que si elle est applicable à d'autres instances. Les données de terrain, les relations avec les partenaires et les exigences spécialisées demeurent dans les dossiers propres à chaque atelier. Cette discipline évite de confondre un framework génératif avec un modèle rigide ou une doctrine supplémentaire.
+
+## Portefeuille d'ateliers : quatre instances, maturités différentes (octobre 2026)
+
+Le GGF doit gérer un **portefeuille évolutif** : deux pilotes plus avancés (Blé, Âne), deux ateliers moins avancés (Huiles essentielles, Bleus de Chine). Les états de maturité sont qualitatifs, liés aux preuves disponibles et aux dépendances à lever ; ce ne sont ni des classements de valeur, ni des promesses d'ouverture au public.
+
+| Atelier | Point d'appui existant | Dépendance ou obstacle à instruire | Sortie générative prioritaire |
+| --- | --- | --- | --- |
+| **Culture du Blé** | Cultures/moissons historiques à Minesteggio et [notice existante](../ateliers/ble_minesteggio_2019_2027.md) | Savoir-faire, identification des semences, concours effectif d'U Granu Anticu, saison et accueil | Protocole de campagne, mémoire longue, parcours pédagogique |
+| **Culture de l'Âne** | Rossignol, observation quotidienne et campagne de retour de l'âne corse en milieu urbain | Bien-être de l'animal, sécurisation des situations, responsabilités et acceptabilité urbaine | Journal probatoire et médiation respectueuse du vivant ; aucun contact public présumé autorisé |
+| **Huiles essentielles** | [Fiche de possible déjà disponible](../ateliers/atelier_huiles_essentielles.md) et étude de la distillation | Matières premières, équipements, opérateurs compétents, sécurité, usages et cadres réglementaires distincts | Scénario de démonstration sans allégation thérapeutique, matrice de conformité par destination |
+| **Bleus de Chine** | [Recherche patrimoniale sur les textiles bleus](../../research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md) et [protocole « Bouteille à la mer »](bouteille_a_la_mer.md) | Fabrication/personnalisation des exemplaires uniques, marquage durable, consentement des porteurs, droits et maintenance du dispositif numérique | Spécification d'un objet textile singulier, identifié et associé à une mission documentée |
+
+### Spécificité de l'Atelier Bleus de Chine
+
+L'objet n'est pas seulement de reproduire ou personnaliser un vêtement de travail traditionnel. Un **exemplaire unique identifié** devient potentiellement le **substrat matériel d'une « Bouteille à la mer »** : il porte une identité stable et une mission, circule, invite à une contribution volontaire et peut recevoir des traces documentaires. **L'Annuaire de la Diaspora Corse** est une mission possible parmi d'autres, non une obligation attachée à chaque exemplaire.
+
+Ne jamais confondre :
+
+```text
+identité de l'exemplaire ≠ identité du porteur
+identité de l'exemplaire ≠ mission (modifiable et historisable)
+mission ≠ contribution
+contribution ≠ fait vérifié
+port du vêtement ≠ consentement à la géolocalisation ou à la publication
+```
+
+Séparer la couche textile (coupe, matière, fabrication, singularisation et conservation) de la couche documentaire (identifiant, biographie d'objet, mission et protocole de contribution). Un code QR peut ouvrir un point d'entrée, mais ne doit pas devenir l'unique moyen de conserver l'identité ni prétendre prouver l'authenticité du porteur. Toute contribution concernant des personnes, notamment pour l'annuaire de la diaspora, reste volontaire et soumise aux règles de vie privée du projet concerné.
+
+### Conséquence pour le générateur
+
+Le moteur commun génère en fonction du niveau de maturité : **fiche d'idée et dépendances** pour un atelier naissant ; **protocole de test** lorsqu'un terrain existe ; **fiche visiteur et conditions d'accueil** seulement lorsque la pratique est suffisamment instruite ; **bilan et propagation** après observation. Il n'invente ni partenaire confirmé, ni résultat de campagne, ni objet fabriqué, ni activité ouverte au public.
+
+Le banc d'essai de généricité comprend désormais quatre familles : **végétal cultivé**, **animal vivant**, **transformation de matières végétales**, **objet artisanal singulier porteur d'une mission**. Chaque famille conserve ses règles spécialisées ; seules les méthodes réellement communes remontent au framework.
