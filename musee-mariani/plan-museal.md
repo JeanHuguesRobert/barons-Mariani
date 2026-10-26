@@ -113,7 +113,55 @@ Avant ce seuil, le sous-corpus `musee-mariani/` dans `barons-Mariani` respecte m
 | Napoléon / bicorne / uchronie | à stabiliser | bifurcation historique contrôlée |
 | Fonds de dotation | à articuler | institution de transmission |
 
-## 5. Principe de médiation
+## 5. Construction matérielle et financement : la Boutique Mobile du Musée
+
+*Orientation déclarée par le porteur le 26 octobre 2026 ; dispositif en construction. Cette section distingue les intentions de vente des produits réellement disponibles, de leurs coûts et de leurs recettes, encore à vérifier.*
+
+Le Musée Mariani des Possibles entend commencer sa construction matérielle **par l'activité de sa Boutique Mobile**. La vente de produits n'est pas une activité accessoire ajoutée à un musée achevé : elle est envisagée comme un premier moyen de **financer la constitution progressive du Musée**, d'entrer en relation avec ses publics et de mettre en circulation des objets porteurs de connaissances ou de missions.
+
+Trois familles de produits sont envisagées au départ :
+
+| Famille | Nature envisagée | Relation au Musée | À instruire avant commercialisation |
+| --- | --- | --- | --- |
+| **Exemplaires uniques de Livres Vivants** | Exemplaires matériels singuliers et identifiés d'ouvrages évolutifs | Transmission éditoriale, collection, contribution et, selon le cas, « Bouteille à la mer » | Fabrication, coût, identité d'exemplaire, droits, prix, commande, livraison |
+| **Produits liés aux huiles essentielles** | Produits issus de l'activité autour des plantes aromatiques et des huiles essentielles ; assortiment exact à préciser | Support matériel de l'[Atelier Huiles essentielles](ateliers/atelier_huiles_essentielles.md) et financement de la transmission | Nature et destination des produits, sécurité, conformité, étiquetage, responsabilité et conditions de vente |
+| **Bleus de Chine vintage ou modernes** | Vêtements de travail, exemplaires uniques par identification et éventuellement personnalisation | Patrimoine textile et expérimentation d'une [« Bouteille à la mer »](methodes/bouteille_a_la_mer.md) associée à une mission, par exemple l'Annuaire de la Diaspora Corse | Provenance et état des pièces vintage, approvisionnement moderne, personnalisation, coût, droits, identifiant durable, vie privée |
+
+**Collaboration envisagée pour les Bleus de Chine :** Ange, *tragulinu*, connaît particulièrement bien ces vêtements et souhaite recentrer son activité sur eux. Son concours constitue une ressource humaine et commerciale identifiée par le porteur du projet. Les modalités exactes de collaboration (stock, achats, consignation, personnalisation, répartition des recettes, responsabilité envers les acheteurs) restent à formaliser ; ne pas présenter un accord contractuel comme déjà établi.
+
+### Deux boucles complémentaires
+
+```text
+Boucle économique :
+approvisionnement / création
+→ description et conformité
+→ offre / vente
+→ recettes et coûts constatés
+→ financement documenté du Musée
+
+Boucle muséale :
+objet identifié
+→ histoire et mission éventuelle
+→ circulation
+→ contribution volontaire / traces
+→ qualification
+→ enrichissement documentaire et transmission
+```
+
+Un produit peut contribuer à la première boucle sans participer à la seconde. Inversement, la réussite d'une « Bouteille à la mer » ne présume d'aucun profit. Les deux résultats doivent rester mesurés séparément.
+
+### Règles d'effectivité et de provenance
+
+- Distinguer **projet, prototype, stock disponible, annonce publique et vente effectivement réalisée** ; aucune recette ou marge n'est présumée.
+- Identifier la **structure juridique vendeuse**, la propriété des objets et du stock, les obligations fiscales, de consommation, d'assurance et de sécurité propres à chaque famille.
+- Suivre pour chaque vente prix encaissé, coût complet, éventuelle rémunération des partenaires, frais, résultat net et affectation au financement du Musée.
+- Conserver pour chaque exemplaire unique une identité stable, indépendante de son détenteur, de sa mission et de ses contributions ; ne pas transformer un QR code en mécanisme de surveillance des porteurs.
+- Les produits liés aux huiles essentielles exigent une instruction spécifique selon leurs usages ; ne pas confondre démonstration, production, cosmétique, alimentaire et allégation thérapeutique.
+- Le musée peut coopérer avec des artisans et des commerçants, mais une coopération annoncée ne doit pas être présentée comme conclue sans accord.
+
+Le [gabarit commun des ateliers](methodes/template_fiche_possible.md) décrit la transmission des capacités ; **la Boutique Mobile est la fonction transversale de financement, de distribution et de mise en circulation**. Un atelier et une ligne de produits peuvent se correspondre sans être la même chose.
+
+## 6. Principe de médiation
 
 Chaque dossier doit être lisible à deux niveaux :
 
