@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "dcca1d6cf3e0d24880fb8d42b99d03f12e89f6dcf0b7130111299622ef3bd7b4",
+      "source_sha256": "485876d0e368f606e182460988c572045b02179a8ea4b037dfa16b8d990ac598",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
-          "sha256": "880c37e8670b3e8e5eda0e1967d4598efd90f448a14ec21b79e71a4a47e3d3eb"
+          "sha256": "7f6ae582f4631c9f00c553a6ad049b9066f75bf77392574c6f45e9e7ff2e1360"
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
