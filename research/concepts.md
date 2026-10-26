@@ -964,7 +964,7 @@ A conceptual representation technique acting as half a joke and half a cultural 
 
 **Contrôle d'efficience :** accroître la surface sans transformer la publication en bruit ni détourner le projet de son objet. Localité fractale, FBF et budget attentionnel bornent les initiatives secondaires.
 
-**Antécédent externe :** Jason Roberts, [*Increasing Your Luck Surface Area*](https://codusoperandi.com/posts/increasing-your-luck-surface-area), « Doing × Telling ». Ce précédent est à créditer ; l'image de la météorite et son application au Corpus relèvent de notre formulation.
+**Provenance intellectuelle :** le concept *Luck Surface Area* est **emprunté et non inventé par Jean Hugues Noël Robert**. Celui-ci indique l'avoir probablement rencontré par sérendipité à travers des mentions explorées ensuite ; le chemin précis de découverte n'est pas établi. Référence antérieure identifiée : Jason Roberts, [*Increasing Your Luck Surface Area*](https://codusoperandi.com/posts/increasing-your-luck-surface-area), « Doing × Telling ». Notre travail consiste à adopter, reformuler et appliquer cette excellente idée au Corpus et à Casa Mariani, **sans revendication de paternité**. L'image de la météorite est une image employée par Jean Hugues dans sa restitution du concept, sans présumer de son originalité.
 
 **Related concepts:** Exploration rationnelle du Possible ; Test du Réel ; Double Lecture ; Livres Vivants ; Casa Mariani ; FractaCognition.
 
