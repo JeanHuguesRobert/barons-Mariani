@@ -268,6 +268,9 @@ Le Musée Mariani des Possibles est un projet privé en construction, distinct d
 
 ### Support initial et test du réel
 
+**Support réalisé (26 octobre 2026)** : [Casa Mariani — Une Maison, un Musée, des Possibles](presentation-publique-casa-mariani.md), présentation publique de préfiguration accompagnée d'une lecture approfondie et de repères probatoires. Ce document dérivé n'est ni une édition gelée ni une promesse de partenariat.
+
+
 Préparer une présentation publique **d'une page**, complétée d'une **annexe de preuves et de statuts** : réalisé / en cours / envisagé / dépendant d'un partenaire. Les deux niveaux doivent préserver le même sens. Tester d'abord l'intelligibilité et la possibilité d'identifier une expérimentation réellement pertinente pour l'institution. **Ne pas ouvrir un chantier technique ou un dépôt supplémentaire** pour ce support.
 
 **Échéance :** document utilisable avant le 26 novembre 2026 et amendable selon les échanges ; le 26 novembre est un jalon, pas une date imposée de publication ou une promesse de partenariat.
