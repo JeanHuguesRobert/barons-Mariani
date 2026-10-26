@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 title: Gabarit de fiche de possible
 subtitle: Modèle d'instruction d'un atelier du Musée Mariani des Possibles
 date: '2026-06-27'
-version: '0.3'
+version: '0.4'
 status: draft
 document_role: source
 document_kind: fiche-template
@@ -197,3 +197,13 @@ Séparer la couche textile (coupe, matière, fabrication, singularisation et con
 Le moteur commun génère en fonction du niveau de maturité : **fiche d'idée et dépendances** pour un atelier naissant ; **protocole de test** lorsqu'un terrain existe ; **fiche visiteur et conditions d'accueil** seulement lorsque la pratique est suffisamment instruite ; **bilan et propagation** après observation. Il n'invente ni partenaire confirmé, ni résultat de campagne, ni objet fabriqué, ni activité ouverte au public.
 
 Le banc d'essai de généricité comprend désormais quatre familles : **végétal cultivé**, **animal vivant**, **transformation de matières végétales**, **objet artisanal singulier porteur d'une mission**. Chaque famille conserve ses règles spécialisées ; seules les méthodes réellement communes remontent au framework.
+
+## Interface transverse : Boutique Mobile et financement du Musée
+
+Les ateliers ne sont pas assimilés à des boutiques. La [Boutique Mobile du Musée](../plan-museal.md#5-construction-matérielle-et-financement--la-boutique-mobile-du-musée) est une fonction **transversale**, destinée à financer la construction matérielle du Musée par la vente initialement envisagée de trois familles : **exemplaires uniques de Livres Vivants**, **produits liés aux huiles essentielles**, **Bleus de Chine vintage ou modernes**. Le portefeuille des quatre ateliers reste inchangé ; la boutique n'est pas un cinquième atelier.
+
+Le GGF doit permettre, pour chaque famille vendue, de générer une **fiche produit** distincte d'une fiche atelier : provenance et droits ; fournisseur et relation contractuelle ; transformation et identification ; usage et exigences de conformité ; coût complet et prix ; état du stock ; statut effectif de mise en vente ; recettes, résultat et affectation au Musée. Les produits qui constituent aussi des « Bouteilles à la mer » possèdent en outre une biographie d'objet et une mission optionnelle. **Produit commercial, objet de musée et support de mission sont trois rôles éventuellement cumulés, jamais confondus.**
+
+Pour les Bleus de Chine, le porteur identifie **Ange, tragulinu spécialiste de ces vêtements**, comme collaborateur envisagé et indique son souhait de se recentrer sur cette activité. L'accord et la répartition des responsabilités économiques restent à instruire. Pour les huiles essentielles, la conformité dépend du produit et de sa destination. Les Livres Vivants uniques peuvent constituer des supports de circulation et de contribution, mais leur vente ne garantit ni leur réobservation ni leur retour documentaire.
+
+**Double boucle mesurable** : (1) fabrication / vente / financement réel du musée ; (2) transmission / circulation / contributions qualifiées. Éviter de valoriser une hypothèse de revenu comme une recette acquise ou une interaction avec un QR code comme preuve de transmission d'une capacité.
