@@ -79,6 +79,8 @@ Son ambition est de faire dialoguer collections, recherches, expériences et sav
 
 ### Découvrir, vérifier, contribuer
 
+**[Choisir un parcours de découverte](../research/trails/casa_mariani.md)** : histoire et doctrine du Musée, ateliers et collections, Boutique Mobile ou contribution, sans ordre de lecture imposé.
+
 Ce texte est une **porte d'entrée**, non l'intégralité du projet. Les [sources et documents du Musée](README.md), sa [doctrine](doctrine_musee_mariani_des_possibles.md) et son [plan de préfiguration](plan-museal.md) sont consultables publiquement. Les observations, informations documentées, contradictions et propositions de coopération sont bienvenues.
 
 Pour signaler une correction ou proposer une contribution documentée, il est possible d'utiliser les [issues publiques du Corpus](https://github.com/JeanHuguesRobert/barons-Mariani/issues). Le dépôt indique également une adresse de correspondance dans [sa page d'accueil](../README.md) ; la délivrabilité de cette adresse n'a pas été vérifiée dans le cadre de cette présentation.
