@@ -43,7 +43,7 @@
     saveTurns();
     render();
     question.value = "";
-    if (status) status.textContent = "Le Guide consulte le corpus Capable. Rien n'est envoyé.";
+    if (status) status.textContent = "Le Guide transmet votre question et le contexte au service distant.";
     postJson("/guide/chat", {
       profile: GUIDE_PROFILE,
       locale: "fr",
@@ -54,7 +54,7 @@
       turns.push({ role: "assistant", content: answer });
       saveTurns();
       render();
-      if (status) status.textContent = "Réponse affichée. Ce n'est pas un conseil juridique, et aucune donnée n'a été conservée.";
+      if (status) status.textContent = "Réponse affichée. Aucun envoi à un tiers ; la politique de conservation du service distant doit être vérifiée.";
     }).catch(function () {
       if (status) status.textContent = "Le Guide distant ne répond pas. Aucun message n'a été transmis.";
     });
@@ -66,7 +66,7 @@
       if (status) status.textContent = "Posez d'abord une question ou formulez l'objet de votre observation.";
       return;
     }
-    if (status) status.textContent = "Préparation du brouillon local. Aucune donnée n'est transmise.";
+    if (status) status.textContent = "Préparation du brouillon : le contexte est transmis au service distant. Aucun message au destinataire.";
     postJson("/guide/prepare-act", {
       profile: GUIDE_PROFILE,
       act: act,
@@ -82,7 +82,7 @@
       if (draftTo) draftTo.value = draft.to || "contact@lepp.fr";
       if (draftSubject) draftSubject.value = draft.subject || "[Observation Capable]";
       if (draftBody) draftBody.value = draft.body || context;
-      if (status) status.textContent = "Brouillon généré localement. Vous pouvez le modifier et le copier.";
+      if (status) status.textContent = "Brouillon reçu du service distant. Vous pouvez le modifier et le copier, sans envoi automatique.";
     }).catch(function () {
       if (draftTo) draftTo.value = "contact@lepp.fr";
       if (draftSubject) draftSubject.value = "[Observation Capable] " + context.slice(0, 50);
