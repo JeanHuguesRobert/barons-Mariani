@@ -161,6 +161,25 @@ Un produit peut contribuer à la première boucle sans participer à la seconde.
 
 Le [gabarit commun des ateliers](methodes/template_fiche_possible.md) décrit la transmission des capacités ; **la Boutique Mobile est la fonction transversale de financement, de distribution et de mise en circulation**. Un atelier et une ligne de produits peuvent se correspondre sans être la même chose.
 
+
+### Périmètre des personnes et structures juridiques (déclaration du 26 octobre 2026)
+
+La Boutique Mobile, ses produits et le Musée s'inscrivent dans un **écosystème de cinq acteurs ou qualités juridiques à distinguer**, dont deux structures déclarées existantes dotées chacune d'un numéro SIREN selon le porteur :
+
+| Acteur / qualité | État déclaré | Rôle envisageable, sans affectation décidée |
+| --- | --- | --- |
+| Association **C.O.R.S.I.C.A.** | Existante, SIREN propre | Activités associatives, médiation, actions collectives, éventuellement ventes selon objet/statuts et fiscalité |
+| **Casa Mariani**, entreprise agricole unipersonnelle | Existante, second SIREN | Production ou valorisation agricole, huiles essentielles ; activité de vente et périmètre d'immatriculation à vérifier |
+| Fonds de dotation **Barons Mariani** | En cours de création | Conservation, portage patrimonial et financement d'intérêt général, sous réserve de constitution effective et de statuts |
+| Fonds de dotation **Les Amis de Malou** | En cours de création | Mission autonome à respecter ; tout concours au Musée doit être compatible avec son objet et ses futurs statuts, sans affectation présumée |
+| **Personne physique** du porteur | Existante | Création, détention initiale de certains biens et droits, contributions ou contrats personnels ; distinguer gestion privée et activité professionnelle |
+
+**Précision juridique :** si Casa Mariani est une entreprise individuelle agricole (EI), elle ne constitue pas une personne morale distincte de l'entrepreneur ; son SIREN identifie l'entreprise exercée en nom propre. La qualification exacte (« entreprise agricole unipersonnelle » pouvant renvoyer à des statuts différents) doit être établie sur l'extrait d'immatriculation, sans la confondre avec une EURL, société dotée de personnalité morale. Ne pas attribuer un nouveau SIREN à la personne physique pour ses activités privées. L'association demeure une personne morale distincte et dotée de son propre SIREN.
+
+**Séparation opérationnelle indispensable :** pour chaque produit ou opération, identifier séparément **créateur/propriétaire**, **fabricant ou fournisseur**, **vendeur et émetteur de facture**, **encaissant**, **bénéficiaire économique**, **porteur de la mission muséale** et, s'il y a lieu, **destinataire des dons**. Ces rôles ne se déduisent ni du nom « Musée » ni du logo de la boutique. Une affectation au Musée nécessite une trace comptable et, pour les transferts entre personnes ou entités, des actes adaptés.
+
+Les fonds en cours de création ne doivent pas être présentés comme déjà capables de contracter ou d'encaisser au titre de leur personnalité juridique propre. L'association peut avoir une activité économique mais doit tenir compte de ses statuts et de ses obligations fiscales. La Boutique Mobile n'est pas en elle-même une nouvelle personne morale : elle peut être une enseigne ou un dispositif partagé, avec vendeur identifié pour chaque vente.
+
 ## 6. Principe de médiation
 
 Chaque dossier doit être lisible à deux niveaux :
