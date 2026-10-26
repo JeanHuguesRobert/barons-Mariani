@@ -86,6 +86,16 @@ Le Livre Vivant pourra produire :
 - **Site** : navigation, recherche, chronologie, acteurs, demandes et réponses ;
 - **Données** : exports YAML/JSON issus des registres publics.
 
+### Articulation avec la doctrine générique et la coordination cognitive (26 octobre 2026)
+
+La doctrine canonique du [Livre Vivant](../../research/livre_vivant.md) distingue cinq faces : Livre (corps et annexes), Magazine, Site Web, Agent conversationnel, Collecte de traces engageantes. La présentation en trois parties — corps, Magazine, annexe savante — est **éditoriale**, et non concurrente de cette architecture fonctionnelle. La matrice, les acteurs, les chronologies et les campagnes sont des contenus ou instruments adressables, pas des faces supplémentaires.
+
+L'évolution de Capable est coordonnée par l'[Umbrella Cognitive Packet #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152), suivant le [pattern cognitif](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md). Cette issue coordonne l'exploration et les dépendances sans devenir une source de doctrine ni autoriser implicitement une publication.
+
+L'essai candidat *Qu'est-ce que la politique ?* est une œuvre autonome envisageable **au sein** du Corps, sans remplacer le manuscrit existant ; son Cahier des Charges Motivé est un instrument de recherche révisable dont les annexes pourront présenter une vue appropriée. Aucune publication de cet essai n'est acquise.
+
+La cohérence des promesses du Guide conversationnel doit être contrôlée : transmission technique des questions ≠ publication de contribution ; stockage local ≠ rétention serveur ; conversation ≠ acte engageant.
+
 ## 8. Principe cardinal
 
 > Le plan peut être public sans que le résultat soit connu d'avance.
