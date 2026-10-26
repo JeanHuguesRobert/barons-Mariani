@@ -77,6 +77,14 @@ Son ambition est de faire dialoguer collections, recherches, expériences et sav
 
 > **Une Maison conserve ce qu'elle reçoit et cherche à rendre possible ce qu'elle transmet.**
 
+### Découvrir, vérifier, contribuer
+
+Ce texte est une **porte d'entrée**, non l'intégralité du projet. Les [sources et documents du Musée](README.md), sa [doctrine](doctrine_musee_mariani_des_possibles.md) et son [plan de préfiguration](plan-museal.md) sont consultables publiquement. Les observations, informations documentées, contradictions et propositions de coopération sont bienvenues.
+
+Pour signaler une correction ou proposer une contribution documentée, il est possible d'utiliser les [issues publiques du Corpus](https://github.com/JeanHuguesRobert/barons-Mariani/issues). Le dépôt indique également une adresse de correspondance dans [sa page d'accueil](../README.md) ; la délivrabilité de cette adresse n'a pas été vérifiée dans le cadre de cette présentation.
+
+La Boutique Mobile, les ateliers et les coopérations sont en préparation : leur mention ne vaut ni ouverture au public, ni disponibilité commerciale, ni accord d'un partenaire.
+
 *Présentation de préfiguration — octobre 2026.*
 
 ---
