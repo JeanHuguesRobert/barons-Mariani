@@ -946,6 +946,30 @@ A conceptual representation technique acting as half a joke and half a cultural 
 
 **Reference documents:**
 - [`discret_holography.md`](discret_holography.md)
+## Surface de Chance
+
+**Type:** heuristique de découverte / rencontres fécondes  
+**Scope:** transversal — projets, Livres Vivants, Casa Mariani  
+**Status:** Working — formulation retrouvée du 26 avril 2026 ; formalisation du 26 octobre 2026
+
+**Formule mémorable :** *Surface de Chance = longueur × largeur*. La **longueur** est **ce que l'on fait**, la **largeur** est **le fait d'en parler**. Agrandir la surface accroît les occasions qu'une « météorite de chance » tombe dans le jardin.
+
+**Définition :** étendue des occasions de rencontre imprévue entre une activité réelle et des personnes, ressources, idées ou circonstances susceptibles d'en modifier positivement les possibilités. Modèle heuristique, **pas** probabilité calculée ni garantie de succès.
+
+- **Faire / longueur** : créer, vérifier, expérimenter, transmettre des objets et des résultats concrets.
+- **Faire savoir / largeur** : rendre le travail trouvable, intelligible, accessible, citable, partageable et contributif — et pas simplement augmenter le volume de communication.
+- **Conjonction** : communiquer sans réalité correspondante produit peu d'occasions fécondes ; agir dans l'invisibilité rend les rencontres fortuites moins probables. Les retours peuvent aussi être contradictoires ou défavorables ; ils restent instructifs.
+
+**Test du Réel — Casa Mariani :** vérifier le chemin réel d'un inconnu depuis une recherche ou une recommandation jusqu'à la [présentation publique](../musee-mariani/presentation-publique-casa-mariani.md), puis à une ressource, un contact ou une contribution utile. Distinguer présence dans GitHub, indexation par un moteur, compréhension du contenu, réaction d'un interlocuteur et coopération effective. La Boutique Mobile et les ateliers donnent matière à la longueur ; la présentation, les Livres Vivants publics et les liens de découverte élargissent la largeur. Aucune relation de cause à effet ni audience ne doit être présumée.
+
+**Contrôle d'efficience :** accroître la surface sans transformer la publication en bruit ni détourner le projet de son objet. Localité fractale, FBF et budget attentionnel bornent les initiatives secondaires.
+
+**Antécédent externe :** Jason Roberts, [*Increasing Your Luck Surface Area*](https://codusoperandi.com/posts/increasing-your-luck-surface-area), « Doing × Telling ». Ce précédent est à créditer ; l'image de la météorite et son application au Corpus relèvent de notre formulation.
+
+**Related concepts:** Exploration rationnelle du Possible ; Test du Réel ; Double Lecture ; Livres Vivants ; Casa Mariani ; FractaCognition.
+
+---
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
