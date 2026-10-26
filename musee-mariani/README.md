@@ -98,6 +98,8 @@ musee-mariani/
 
 ## Présentation publique
 
+- **[Explorer Casa Mariani selon vos centres d'intérêt](../research/trails/casa_mariani.md)** — Trail à embranchements : pourquoi ce Musée, que découvrir, comment il commence, comment contribuer.
+
 - **[Casa Mariani — Une Maison, un Musée, des Possibles](presentation-publique-casa-mariani.md)** — entrée publique de préfiguration (lecture courte et annexe de preuves), destinée aux visiteurs, contributeurs et partenaires éventuels ; ne vaut ni annonce d'ouverture ni accord de coopération.
 
 ## Documents principaux
