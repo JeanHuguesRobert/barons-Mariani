@@ -66,3 +66,26 @@ La recette différentielle a détecté dans l'ancien `book.html` six liens locau
 ## Gates
 
 Un fichier récent n'est pas nécessairement une édition récente. Une édition datée n'est pas obsolète parce qu'elle est historique. Une page publique n'est pas à jour parce qu'elle répond 200. Aucune publication/déploiement n'est autorisé par ce document seul. La prochaine tranche est **un inventaire différentiel mesuré**, pas une copie globale de `site/` sur la production.
+
+
+## Addendum de vérification sémantique — 28 octobre 2026
+
+**Méthode.** Comparaison ponctuelle des contenus de `main` (édition de travail, Corps rendu, accueil, page « En préparation », index de manuscrit, carte doctrinale, doctrine canonique de Livre Vivant et CCM) ; confrontation avec le reçu de publication [#153](https://github.com/JeanHuguesRobert/barons-Mariani/issues/153). Ce contrôle n'est **pas** une revue exhaustive des sources et ne prouve pas l'actualité en temps réel du monde extérieur. La recherche globale Cogentia par index n'a retourné aucun document pour trois requêtes multi-termes (repli sur recherche lexicale) ; la vérification s'appuie donc sur la lecture directe de fichiers GitHub versionnés.
+
+### Réconciliation de publication
+Le relevé initial ci-dessus décrit **candidate-01**, et reste exact *pour le moment de cet audit historique*. Depuis, [#153](https://github.com/JeanHuguesRobert/barons-Mariani/issues/153#issuecomment-6456192740) atteste `candidate-02` avec `book.html`, `book.pdf`, `book.epub` et `n1.html`, liens canoniques et conservation binaire des trois pages historiques. Ne plus traiter la régénération de ces quatre fichiers comme tâche ouverte sans nouvel écart démontré.
+
+### Écarts et décisions bornées
+
+| Objet | Constats directs sur `main` | Qualification | Suite |
+| --- | --- | --- | --- |
+| Numéro en préparation | `source_as_of: 2026-10-27`, `last_modified_at: 2026-10-27` ; contient résultat du vote du Sénat du 26/10, absence d'entrée en vigueur 72-5, analyse explicitement attribuée et distinction fait/analyse/proposition | **PASS limité** : source éditoriale consolidée au 27/10 ; publication intégrale de cette consolidation sur le site non démontrée par la seule page `en-preparation.html` | Comparer page publique et édition complète ; conserver la profondeur historique et les dates |
+| Corps | `book.html` reprend subsidiarité, Révélateur, Stabilisateur, démocratie directe et l'essai candidat comme référence ; aucun jalon textuel « 27 octobre » dans le Livre rendu | **Non-régression**, pas forcément lacune : les faits datés appartiennent d'abord au Magazine. **UNKNOWN** : propagation de changements doctrinaux récents au Corps | Revue sémantique chapitre ↔ sources canoniques, sans insérer automatiquement l'actualité dans le Corps |
+| Magazine | `projects/capable/site/magazine.html` absent de `main`, fichier historique toujours servi selon #153 | **DETTE PROUVÉE** : contenu publié non traçable depuis cette source Git | Inventorier contenu, provenance et mécanisme de régénération avant toute réécriture ou retrait |
+| Annexes et cas | `site/annexes.html` et `site/cases.html` également absents de `main` mais préservés sur la release | **DETTE PROUVÉE** : surfaces orphelines | Retrouver les sources et indexer les références savantes / Reality Cases |
+| Guide | `guide.html` existe sur `main` avec avertissements éditoriaux déjà corrigés au 26/10 ; la release #153 n'a remplacé ni `guide.html` ni `guide.js` | **UNKNOWN / risque de décalage** : promesses actuellement déployées, service, rétention et réponses non testés dans cette passe | Reality Test spécifique sur le Guide et son backend, sans inférer absence de transmission |
+| Essai candidat | `manuscript/README.md` indique explicitement *Qu'est-ce que la politique ?* comme atelier non inséré ; CCM v0.2 encore non validé | **PASS de statut**, **travail de fond ouvert** | Revue contradictoire et décision éditoriale séparée |
+| Index de lecture | L'accueil a une mention d'actualité du 27/10 ; l'index du manuscrit date du 03/10 mais distingue le Livre durable des éditions datées | **Dates non comparables sans analyse** | Ne pas qualifier d'obsolète sur sa date seule |
+
+### Décision
+La publication technique est **PASS**, mais la conformité sémantique globale à l'état actuel du Corpus est **PARTIAL / NON DÉMONTRÉE**. Priorités : (1) vérifier la couverture de l'édition datée sur la page publique, (2) récupérer provenance/contenu des trois pages orphelines, (3) contrôler le Guide servi, (4) revue source-first du Corps sur un échantillon d'affirmations et documents nouveaux. Éviter toute régénération générale ou nouvelle release avant d'avoir mesuré les écarts.
