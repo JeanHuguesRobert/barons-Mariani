@@ -6,14 +6,14 @@ date: "2026-10-27"
 document_role: adapted
 document_kind: substack-article-draft
 visibility: public
-lifecycle_state: working
-status: "ready-for-author-review — not submitted to Substack"
+lifecycle_state: published
+status: "published-on-substack — author-confirmed"
 language: fr
 license: CC BY-SA 4.0
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/publications/2026-10-27-corse-selon-macron-substack.md"
 update_policy: UP-DEFAULT-REVIEWED
 review:
-  status: "derivative-awaiting-specific-publication-approval"
+  status: "author-confirmed-publication"
   reviewed_by: []
 derivation:
   source_repo: "JeanHuguesRobert/barons-Mariani"
@@ -23,13 +23,13 @@ derivation:
   method: "verbatim source body, excluding YAML frontmatter; zero semantic rewrite"
   toolchain: "Ubikia publication package contract"
   destination: "Substack — Les Carnets du baron Mariani"
-  status: "prepared-not-published"
+  status: "published"
 publication:
   platform: substack
-  publication_url: null
-  platform_draft_id: null
-  email_distribution: false
-  published_at: null
+  publication_url: "https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie"
+  platform_post_id: 222323343
+  email_distribution: "not verified"
+  published_at: "2026-10-27 12:48 (as displayed in Substack dashboard)"
   suggested_slug: "la-corse-selon-e-macron-autopsie"
   excerpt: "L'impasse de Beauvau comme Révélateur ; Liberté, Égalité, Fraternité effectives comme Stabilisateur."
   tags:
