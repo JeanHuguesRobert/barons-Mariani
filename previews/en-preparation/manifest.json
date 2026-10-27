@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "3fadc1a9f5a1071b34430df76feebbc17eefe4cbf8da543a2b8f3836dae15909",
+      "source_sha256": "27abf30fc8c48dd9b2cc09a47d5bf319ea924c6a145dc82d1f09c1b93f62b87a",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
-          "sha256": "0cae830f3841e980706e916caf1d13b979d4f5ef2266ed19aa618a432a60a149"
+          "sha256": "de408a82b53b3bb065e5571f257250f96e98b06d9ed274b0b81d16de303cdc5d"
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
@@ -86,7 +86,7 @@
     },
     {
       "path": "research/autonomia.md",
-      "sha256": "5a329e8d1dde6fc875d53bbf4a2ff2fc999fbf53b9fa81c57f4b4bf8f7af2dad"
+      "sha256": "054bf863021f90cbc56c8d5574ec307c8663f1c7025950adc25f412477f938ec"
     },
     {
       "path": "research/methode_terrains_feconds.md",
