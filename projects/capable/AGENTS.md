@@ -1,3 +1,7 @@
+---
+shared_instructions: https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md
+---
+
 # AGENTS.md — Capable / Campagne du Réel
 
 Ces instructions s'appliquent à tout travail effectué sous `projects/capable/`.

@@ -3,8 +3,10 @@ title: "La Corse selon E. Macron : autopsie d'une manœuvre avortée"
 subtitle: "Quand la politique politicienne rencontre le Réel"
 author: "Jean Hugues Noël Robert — Baron Mariani"
 date: "2026-10-27"
+last_modified_at: "2026-10-27"
+version: "0.2"
 document_role: adapted
-document_kind: substack-article-draft
+document_kind: substack-article
 visibility: public
 lifecycle_state: published
 status: "published-on-substack — author-confirmed"
@@ -20,16 +22,21 @@ derivation:
   source_path: "research/corse_selon_macron_autopsie_manoeuvre_avortee.md"
   source_commit: "3b6b591a37a0b77102fd1c0a709b1217b47eef80"
   source_blob_sha_at_preparation: "6a2fc36ee91531701334c290804c693e37bf66ff"
-  method: "verbatim source body, excluding YAML frontmatter; zero semantic rewrite"
+  source_version_at_draft_creation: "0.1"
+  source_version_after_manual-edit-retrofit: "0.2"
+  method: "source v0.1 draft, manually revised by the author in Substack; the published additions are now retrofitted into source v0.2"
   toolchain: "Ubikia publication package contract"
   destination: "Substack — Les Carnets du baron Mariani"
   status: "published"
+  published_at: "2026-10-27T11:48:49Z"
+  manual_revision_retrofitted_to_source_version: "0.2"
 publication:
   platform: substack
   publication_url: "https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie"
   platform_post_id: 222323343
   email_distribution: "not verified"
-  published_at: "2026-10-27 12:48 (as displayed in Substack dashboard)"
+  published_at: "2026-10-27T11:48:49Z"
+  dashboard_displayed_at: "2026-10-27 12:48"
   suggested_slug: "la-corse-selon-e-macron-autopsie"
   excerpt: "L'impasse de Beauvau comme Révélateur ; Liberté, Égalité, Fraternité effectives comme Stabilisateur."
   tags:
@@ -70,7 +77,7 @@ Une méthode politique se juge aussi à sa capacité d'anticiper les obstacles, 
 
 Le projet se voulait historique. L'absence de résultat constitutionnel rappelle qu'une promesse, même solennelle, n'est pas une capacité.
 
-### Le Guépard et les autonomies de papier
+### Les autonomies de papier
 
 Le changement politique peut déplacer les compétences sans changer les rapports de dépendance. Des élus peuvent se disputer âprement la maîtrise des institutions tout en laissant intactes les difficultés quotidiennes auxquelles ces institutions devraient répondre.
 
@@ -104,7 +111,7 @@ Le principe est opératoire : publier les objectifs et les résultats, rendre ac
 
 Une règle constitutionnelle digne de ce nom ne se contente pas de distribuer les cartes entre représentants. Elle doit aussi empêcher qu'on puisse **« acheter le match »** — neutraliser, par la concentration des moyens, l'opacité ou la dépendance, la capacité du peuple à contrôler ce qui se fait en son nom.
 
-Le projet d'amendement d'effectivité de l'article 72-5 publié dans notre Corpus proposait une première traduction juridique de cette exigence : garanties d'effectivité et évaluation publique périodique du régime envisagé. Son texte n'a pas été adopté. **La question qu'il pose demeure.**
+Mon projet d'amendement d'effectivité de l'article 72-5 publié dans notre Corpus proposait une première traduction juridique de cette exigence : garanties d'effectivité et évaluation publique périodique du régime envisagé. Son texte n'a pas été adopté, ni même présenté, puisque même ma candidature sénatoriale a été empêchée et puisque la rapporteure de la commission des lois au Sénat, pourtant peu avare en matière d'amendements et informée à temps de l'existence de mon amendement (j'ai même répondu aux quatorze questions dont les élus se plaignaient de les avoir reçues tardivement), n'a pas jugé utile de l'introduire. Sa visite en Corse, pour rencontrer exclusivement des élus et aucun acteur de la société civile, n'était guère de bon augure. La question que cet amendement pose demeure : Liberté, Égalité, Fraternité sont-elles purement formelles, voire décoratives, ou bien effectives ? Et si elles le sont, par quels moyens, quels contrôles, quels mécanismes correctifs, quel réel pouvoir pour le peuple prétendument souverain ?
 
 ### Un peuple capable d'exercer sa souveraineté
 
@@ -112,7 +119,7 @@ Jean-Jacques Rousseau écrivait dans *Du contrat social* : « S'il y avait un pe
 
 Il ne promettait pas une humanité miraculeusement délivrée de ses conflits et de ses erreurs. Il rappelait combien le gouvernement démocratique est exigeant.
 
-Mais voici qu'apparaissent des outils capables d'élargir considérablement les possibilités de travail collectif. Des citoyens peuvent désormais accéder à des textes autrefois réservés aux spécialistes, confronter des versions, comparer des coûts, documenter des décisions, simuler des solutions et conserver la mémoire des engagements.
+Mais voici qu'apparaissent des outils capables d'élargir considérablement les possibilités de travail collectif : l'intelligence artificielle. Des citoyens peuvent désormais accéder à des textes autrefois réservés aux spécialistes, confronter des versions, comparer des coûts, documenter des décisions, simuler des solutions et conserver la mémoire des engagements.
 
 L'**intelligence collective assistée par ordinateur** n'est pas une machine à rendre le peuple infaillible. Elle peut devenir un moyen de réduire la distance entre la puissance des appareils institutionnels et les capacités concrètes de chacun.
 
@@ -126,7 +133,7 @@ Il est temps de traiter le peuple comme un adulte politique.
 
 Rousseau écrivait encore, à propos de la Corse : « J'ai quelque pressentiment qu'un jour cette petite île étonnera l'Europe. »
 
-La Corse a déjà contribué à l'histoire de la liberté et de l'invention constitutionnelle. Elle peut aujourd'hui servir de terrain d'exploration pour une nouvelle question : qu'est-ce qu'une **Autonomie de Capacité**, non seulement pour les institutions, mais pour les habitants ?
+La Corse a déjà contribué à l'histoire de la liberté et de l'invention constitutionnelle. Sa Constitution de 1755, dont nous cherchons à faire reconnaître internationalement la modernité, a étonné le monde et contribué à le changer. On peut se demander pourquoi les nationalistes au pouvoir n'ont pas tenté de la faire reconnaître, ou l'ont si peu fait. Des peuples réclament encore aujourd'hui ce qu'elle avait brièvement accompli en Corse, avant l'intervention française. La Corse peut aujourd'hui servir de terrain d'exploration pour une nouvelle question : qu'est-ce qu'une **Autonomie de Capacité**, non seulement pour les institutions, mais pour les habitants ?
 
 L'expérience corse peut nourrir une réflexion qui concerne tous les territoires. Partout où des droits existent sans pouvoir être exercés, partout où les institutions persévèrent malgré leurs échecs connus, la même exigence apparaît.
 
@@ -144,7 +151,7 @@ L'enjeu n'est pas simplement de changer les gouvernants.
 
 # Pour aller plus loin — Annexe documentaire
 
-Cette annexe est volontairement distincte de la note : les faits et textes publics peuvent être contrôlés ; les concepts propres à l'auteur disposent de sources souveraines versionnées ; leurs implications constitutionnelles demeurent ouvertes à l'examen et à la critique.
+Cette annexe distingue les faits publics vérifiables, les concepts propres à l'auteur et les implications constitutionnelles qui restent ouvertes à l'examen et à la critique.
 
 ## A. Les faits vérifiables
 
@@ -152,7 +159,7 @@ Cette annexe est volontairement distincte de la note : les faits et textes publi
 - [Sénat — Scrutins publics du projet](https://www.senat.fr/scrutin-public/dossiers/pjl24-869_scr.html) : résultats du 26 octobre 2026.
 - [Corpus — Rejet du Sénat du 26 octobre : veille factuelle et portée juridique](autonomia/veille_senat_rejet_2026-10-26.md) : faits, réactions attribuées, sources et scénarios.
 - [Constitution française — article 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240655) : procédure de révision constitutionnelle.
-- Jean-Jacques Rousseau, *Du contrat social* (1762), livre III, chapitre IV (« De la démocratie »), et livre II, chapitre X (Corse). Les citations sont à lire dans leur contexte ; la notion d'« intelligence collective assistée » constitue une interprétation contemporaine de l'auteur, non une thèse de Rousseau.
+- Jean-Jacques Rousseau, *Du contrat social* (1762), livre III, chapitre IV (« De la démocratie »), et livre II, chapitre X (Corse). Les citations sont à lire dans leur contexte ; l'« intelligence collective assistée » est une interprétation contemporaine de l'auteur, non une thèse de Rousseau.
 
 ## B. Documents souverains du Corpus
 
@@ -170,6 +177,6 @@ Cette annexe est volontairement distincte de la note : les faits et textes publi
 - [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md) : Révélateur et Stabilisateur.
 - [Stabilisateur et capacité distribuée](../projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md).
 - [Capable Test](../projects/capable/capable-test.md) : grille d'examen de l'effectivité.
-- [Ubikia — flux de dérivation éditoriale](https://github.com/JeanHuguesRobert/ubikia/blob/main/docs/derivation_workflow.md) : transformation ultérieure de cette source en publication adaptée, avec provenance et contrôle éditorial.
+- [Ubikia — flux de dérivation éditoriale](https://github.com/JeanHuguesRobert/ubikia/blob/main/docs/derivation_workflow.md) : dérivation, provenance et contrôle éditorial.
 
-**Frontière éditoriale :** la présente note est une **source originale**. Toute version destinée à Substack, ou à un autre support, est un **produit dérivé** : elle doit citer le présent fichier et son commit, conserver le sens de la source et consigner ses adaptations. Aucun billet Substack n'est publié par la création de ce fichier.
+**Frontière éditoriale :** cette note est une source originale. Sa version Substack est un produit dérivé ; les ajouts de fond de la version publiée ont été rétro-intégrés dans cette version 0.2.
