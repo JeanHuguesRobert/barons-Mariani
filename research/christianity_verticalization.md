@@ -1223,6 +1223,6 @@ Il ne doit pas être considéré comme une conclusion définitive, mais comme un
 - [Research Index — barons-Mariani](index.md)
 - [Concept Index — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
-- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/main/research/library_packets.md)
+- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/master/research/library_packets.md)
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

@@ -405,4 +405,5 @@ The goal is not to maximize anything — it is to explore what's possible, with 
 - [Research Index — barons-Mariani](index.md)
 - COP Core — Cognitive Orchestration Protocol
 - [Possibilism](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/POSSIBILISM.md)
+- [Generic Model Selector Design](https://github.com/JeanHuguesRobert/operium/blob/main/research/model-selector-design.md)
 <!-- END_AUTO: backlinks -->

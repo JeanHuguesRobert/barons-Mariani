@@ -1036,4 +1036,5 @@ It is constitutional.
 - For researchers
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [DHITL, Democratic Humans In The Loop](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/DHITL.md)
+- [Open Strategy for Model Selector: DHITL-Aligned Architecture](https://github.com/JeanHuguesRobert/operium/blob/main/research/open-strategy-model-selector.md)
 <!-- END_AUTO: backlinks -->
