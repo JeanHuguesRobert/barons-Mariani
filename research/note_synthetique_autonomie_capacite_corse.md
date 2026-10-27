@@ -266,3 +266,8 @@ Trois informations doivent être revérifiées avant tout envoi au rapporteur :
 3. version courante de l’amendement d’effectivité et calendrier parlementaire.
 
 Une information non encore publiée doit rester **inconnue ou en attente**, jamais être complétée par inférence.
+
+
+## Actualisation postérieure au document — 27 octobre 2026
+
+**Changement de situation parlementaire :** le Sénat a rejeté en première lecture, le 26 octobre, le projet de loi constitutionnelle pour une Corse autonome au sein de la République (**181 contre, 134 pour, 25 abstentions**). Les formulations de cette note relatives à une discussion sénatoriale à venir sont des **traces historiquement datées**, non l'état courant. Le nouvel article 72-5 n'existe pas en droit positif. Toute poursuite de la révision implique un accord des deux assemblées sur un texte identique ; l'état de la navette doit être suivi dans les sources officielles. La proposition d'effectivité v0.7 reste candidate et exige une adaptation au support parlementaire futur, s'il existe. [Note factuelle du 27 octobre et sources](autonomia/veille_senat_rejet_2026-10-26.md).
