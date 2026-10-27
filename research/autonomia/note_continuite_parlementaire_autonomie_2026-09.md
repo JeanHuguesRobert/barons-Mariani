@@ -390,3 +390,8 @@ Elle ne prétend ni résumer l'ensemble du débat corse, ni anticiper la positio
 - Sénat, dossier législatif : https://www.senat.fr/dossier-legislatif/pjl24-869.html
 - Sénat, calendrier de l'examen d'octobre 2026 : https://www.senat.fr/seances/s202607/s20260708/s20260708019.html
 - Sénat, mission d'information sur l'évolution institutionnelle de la Corse : https://www.senat.fr/travaux-parlementaires/commissions/commission-des-lois/controle-en-clair/evolution-institutionnelle-de-la-corse.html
+
+
+## Jalon additionnel — Sénat, 26 octobre 2026
+
+Le Sénat a rejeté le texte constitutionnel en première lecture (scrutin n° 34, **181 contre, 134 pour, 25 abstentions**) après avoir adopté des amendements substantiels. Cette issue actualise les suites possibles mais ne modifie pas rétrospectivement les contributions et courriers antérieurs. Le 72-5 projeté n'a pas été adopté ; la continuité parlementaire demeure conditionnée à de nouvelles décisions et à la procédure de l'article 89. [Veille sourcée et conséquences](veille_senat_rejet_2026-10-26.md).
