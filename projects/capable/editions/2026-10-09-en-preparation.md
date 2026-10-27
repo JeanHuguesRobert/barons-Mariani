@@ -94,3 +94,8 @@ Trace de coordination : [Umbrella #152](https://github.com/JeanHuguesRobert/baro
 ## Actualité intégrée à l'édition en préparation — 27 octobre 2026
 
 Le Sénat a rejeté le 26 octobre 2026 le projet de loi constitutionnelle relatif à l'autonomie de la Corse en première lecture (**181 contre, 134 pour, 25 abstentions**), après plusieurs amendements de séance. Le nouvel article 72-5 n'est pas en vigueur. Les déclarations de retrait du processus de Beauvau rapportées dans la presse sont distinguées du statut juridique du texte. L'édition en préparation conserve une lecture factuelle de l'événement et pose, comme **question doctrinale**, la différence entre autonomie institutionnelle et capacité réelle des citoyens. Source du Corpus et références officielles : [veille du 27 octobre](../../../research/autonomia/veille_senat_rejet_2026-10-26.md) ; [scrutins du Sénat](https://www.senat.fr/scrutin-public/dossiers/pjl24-869_scr.html). Aucun résultat ultérieur de procédure n'est présumé.
+
+
+## Note documentaire — déclaration du 27 octobre 2026
+
+L'auteur a déclaré maintenir l'objectif d'un lancement de Capable au 1er novembre 2026, envisager une candidature présidentielle et une démarche de recherche de présentations d'élus, ainsi que préparer la constitution de listes pour les élections territoriales corses de 2028 et européennes de 2029. Il a aussi indiqué vouloir étendre le champ de l'Autonomie de Capacité à tous les territoires et étudier une Europe confédérale ouverte au dialogue avec la rive sud de la Méditerranée. Ce relevé d'intentions ne constate aucune candidature validée, liste déposée ou démarche achevée. Source interne : [journal des orientations](../README.md). Le numéro demeure en préparation.
