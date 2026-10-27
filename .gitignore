@@ -52,3 +52,10 @@ Gemfile.lock
 # 7. Matérialisation locale des pièces de dépôt (non souveraine, non versionnée)
 # ==============================================================================
 .filing-materials/
+
+# Living Book Factory — ephemeral binary build outputs (all projects).
+# Frozen editions are GitHub Release assets and MUST NOT be placed in these paths.
+**/projections/preview.pdf
+**/projections/preview.epub
+**/site/book.pdf
+**/site/book.epub
