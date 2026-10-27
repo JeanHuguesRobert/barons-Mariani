@@ -1102,3 +1102,8 @@ La [note du Musée Mariani des Possibles sur Mariana, Alalia, Talkinon, Santa Ma
 ## Actualité vérifiée — rejet du projet constitutionnel par le Sénat, 26 octobre 2026
 
 **Fait nouveau (sans altération de l'analyse historique précédente).** Le Sénat a rejeté en première lecture le projet constitutionnel pour une Corse autonome au sein de la République : **181 contre, 134 pour, 25 abstentions**. L'article 72-5 projeté n'a pas été adopté. Les amendements sénatoriaux de séance et les prises de position politiques sont inventoriés dans la [note de veille sourcée](autonomia/veille_senat_rejet_2026-10-26.md). La poursuite de la procédure et la possibilité d'un accord constitutionnel restent des questions ouvertes. **Lecture doctrinale séparée des faits :** l'échec d'un transfert de compétences entre représentants ne règle ni la question des capacités concrètes des habitants ni celle des garanties d'effectivité et des mécanismes de correction.
+
+
+## Note de provenance — orientations déclarées le 27 octobre 2026
+
+L'auteur a indiqué vouloir étendre sa recherche sur l'**Autonomie de Capacité**, initialement appliquée à la Corse, à l'ensemble des territoires. Il a également proposé d'étudier une forme d'organisation **confédérale** de l'Europe et l'ouverture d'un dialogue avec la rive sud de la Méditerranée. Ces éléments constituent à ce stade des orientations de recherche, non des institutions existantes ni des accords conclus. Le contexte parlementaire est documenté dans [la veille du rejet sénatorial du 26 octobre](autonomia/veille_senat_rejet_2026-10-26.md). La déclaration du projet associé est archivée dans le [README Capable](../projects/capable/README.md).
