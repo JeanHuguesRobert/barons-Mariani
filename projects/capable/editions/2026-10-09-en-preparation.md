@@ -89,3 +89,8 @@ Une page d'accueil dédiée est désormais définie dans [le site source Capable
 La [chaîne d'aperçus](../../../.github/workflows/living-books-news-previews.yml) est déclenchée par les changements dans `projects/capable/editions/**` et écrit les aperçus publics versionnés dans `previews/en-preparation/`, accompagnés du manifeste et d'un reçu de calcul. Ce déclenchement ne prouve ni succès de la tâche, ni déploiement sur `capable.lepp.fr` ; contrôler séparément le reçu, le fichier généré et sa disponibilité HTTP.
 
 Trace de coordination : [Umbrella #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
+
+## Actualité intégrée à l'édition en préparation — 27 octobre 2026
+
+Le Sénat a rejeté le 26 octobre 2026 le projet de loi constitutionnelle relatif à l'autonomie de la Corse en première lecture (**181 contre, 134 pour, 25 abstentions**), après plusieurs amendements de séance. Le nouvel article 72-5 n'est pas en vigueur. Les déclarations de retrait du processus de Beauvau rapportées dans la presse sont distinguées du statut juridique du texte. L'édition en préparation conserve une lecture factuelle de l'événement et pose, comme **question doctrinale**, la différence entre autonomie institutionnelle et capacité réelle des citoyens. Source du Corpus et références officielles : [veille du 27 octobre](../../research/autonomia/veille_senat_rejet_2026-10-26.md) ; [scrutins du Sénat](https://www.senat.fr/scrutin-public/dossiers/pjl24-869_scr.html). Aucun résultat ultérieur de procédure n'est présumé.
