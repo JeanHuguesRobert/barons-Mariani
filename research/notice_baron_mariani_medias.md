@@ -218,3 +218,8 @@ La présente fiche demeure une **notice d'identité et de vérification historiq
 - **Actualité constitutionnelle :** le **26 octobre 2026**, le Sénat a rejeté en première lecture le projet de loi constitutionnelle relatif à l'autonomie de la Corse (181 contre, 134 pour, 25 abstentions). La proposition d'amendement d'effectivité publiée dans le Corpus n'est pas devenue du droit positif. [Veille législative sourcée](autonomia/veille_senat_rejet_2026-10-26.md).
 
 **Note de méthode :** cette rubrique documente la présentation publique d'une personne et de ses projets. Elle n'est ni un communiqué de lancement déjà effectué, ni une validation institutionnelle des candidatures envisagées.
+
+
+## Publication vérifiée par l'auteur — 27 octobre 2026
+
+L'auteur signale la publication sur Substack de sa note **« La Corse selon E. Macron : autopsie d'une manœuvre avortée »** : https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie . La note source est conservée dans [le Corpus](corse_selon_macron_autopsie_manoeuvre_avortee.md). Selon l'auteur, les retouches apportées à Substack avant publication ont été réintégrées dans la source ; la concordance mot à mot reste à contrôler. Cette information relève de la bibliographie publique, et ne constitue pas une nouvelle annonce de candidature.
