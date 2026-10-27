@@ -3,20 +3,20 @@ id: preview-working
 book_id: capable
 status: working
 frozen: false
-generated_at: '2026-10-04T19:36:56.346Z'
+generated_at: '2026-10-27T16:31:51.355Z'
 formats:
   html:
     path: projections/preview.html
-    sha256: 52b1b985cf8b72e74e925253ffaaa9b86dd1301d0ebff91d1a784b04cdad3ca1
-    size: 25783
+    sha256: af6a6f022c184bca2539c541f834bb43d226c73a319de86b5bc06961791847a8
+    size: 53378
   pdf:
     path: projections/preview.pdf
-    sha256: a87fad8dc3d799d1cc76175c7442560c1755d01d98ae4c2ec3d7263b9690e2f0
-    size: 39521
+    sha256: 18115100f2f1c0ef09975eaf9879e29b7ea4182eb12af7cd0a74b7a246a0510a
+    size: 85460
   epub:
     path: projections/preview.epub
-    sha256: 5d8baff7cd2637045bdb565cf75113248255780dd77e78c636303e2a49c458cc
-    size: 15696
+    sha256: d842b05689dc413e75dd1feed57b3d68fc9006261837e3e6588bcf0d1067f4b6
+    size: 27653
 rule: >-
   This projection is a working preview in preparation. It does not constitute a
   frozen edition.
