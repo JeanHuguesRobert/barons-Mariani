@@ -205,3 +205,16 @@ Cette notice est versionnée publiquement. Toute erreur factuelle peut donc êtr
 
 Lien canonique :  
 https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/notice_baron_mariani_medias.md
+
+
+## Actualisation biographique et publique — 27 octobre 2026
+
+La présente fiche demeure une **notice d'identité et de vérification historique**. Les éléments qui suivent documentent des engagements déclarés, sans les confondre avec leur validation par des autorités électorales.
+
+- Jean Hugues Noël Robert, dont le nom public est **Baron Mariani**, préside l'association **C.O.R.S.I.C.A.** et contribue aux travaux de l'**Institut Mariani**, notamment sur l'effectivité des politiques publiques, l'autonomie territoriale et les capacités concrètes des habitants. [Source de doctrine Autonomia](autonomia.md).
+- En septembre 2026, il a déposé une déclaration de candidature aux élections sénatoriales de Haute-Corse ; l'enregistrement en a été refusé à la suite du jugement du Tribunal administratif de Bastia du **14 septembre 2026**. Cette situation est distincte d'un retrait volontaire. [Dossier de presse sénatorial](senatoriales-2026/dossier_presse_2026-09.md).
+- À la date du **27 octobre 2026**, il déclare vouloir lancer publiquement le mouvement **Capable** le **1er novembre 2026** et annoncer une démarche de candidature à l'élection présidentielle de **2027**, liée à la **Marche du Soleil** et à la recherche des **500 présentations** d'élus. Une déclaration d'intention ne vaut ni candidature admise ni parrainage validé. [Journal des orientations de Capable](../projects/capable/README.md).
+- Il indique vouloir élargir la doctrine de l'**Autonomie de Capacité** de la Corse vers l'ensemble des territoires, examiner un modèle d'**Europe confédérale** et le dialogue avec la rive sud de la Méditerranée, ainsi que préparer des projets de listes pour les élections territoriales corses de **2028** et européennes de **2029**. Aucune liste déposée n'est attestée dans cette notice.
+- **Actualité constitutionnelle :** le **26 octobre 2026**, le Sénat a rejeté en première lecture le projet de loi constitutionnelle relatif à l'autonomie de la Corse (181 contre, 134 pour, 25 abstentions). La proposition d'amendement d'effectivité publiée dans le Corpus n'est pas devenue du droit positif. [Veille législative sourcée](autonomia/veille_senat_rejet_2026-10-26.md).
+
+**Note de méthode :** cette rubrique documente la présentation publique d'une personne et de ses projets. Elle n'est ni un communiqué de lancement déjà effectué, ni une validation institutionnelle des candidatures envisagées.
