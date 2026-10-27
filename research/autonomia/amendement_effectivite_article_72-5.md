@@ -50,3 +50,8 @@ Le projet de loi constitutionnelle prévoit déjà que la loi organique détermi
 Il prévoit également une évaluation publique et périodique du fonctionnement de ce régime et de ses effets. Cette évaluation ne se limite donc pas aux normes adoptées : elle porte aussi sur les conditions concrètes d'accès et d'exercice des facultés reconnues à la Collectivité de Corse, y compris les obstacles rencontrés, les refus et le non-usage du dispositif.
 
 L'amendement ne crée aucun droit automatique à l'obtention d'une habilitation. Il ne modifie ni les compétences respectives du Gouvernement et du Parlement, ni les règles de contrôle juridictionnel prévues par le projet. Il laisse à la loi organique la détermination des modalités d'application et d'évaluation, dans le respect des garanties constitutionnelles existantes.
+
+
+## État de procédure après le 26 octobre 2026 — addendum historique
+
+**Le Sénat a rejeté en première lecture l'ensemble du projet de loi constitutionnelle le 26 octobre 2026 (scrutin n° 34 : 181 contre, 134 pour, 25 abstentions).** Le présent texte v0.7 demeure une **proposition citoyenne datée du 21 octobre**, et non un amendement adopté ni une disposition constitutionnelle en vigueur. Sa mention « alinéa 6 » correspond à la version de travail précédant le vote ; une nouvelle phase parlementaire imposerait un contrôle du texte support et de sa numérotation. Cette mise à jour n'altère pas rétroactivement le dispositif initial. [Note factuelle et sources officielles](veille_senat_rejet_2026-10-26.md).
