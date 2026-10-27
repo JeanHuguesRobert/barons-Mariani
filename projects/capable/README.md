@@ -193,3 +193,10 @@ Ce bloc conserve l'état documentaire du **9 octobre** : annonce de l’audition
 ## Retour du Réel lié au Projet #1755 — 9 octobre 2026
 
 Une publication patrimoniale donne la cote **1 J 7/1** pour la Constitution corse du 18 novembre 1755 conservée, selon le catalogue, aux Archives de Corse–Pumonti. Cette trace améliore l'adressabilité d'un objet historique mais ne vaut pas vérification archivistique directe ni authentification matérielle. Le Reality Test documentaire du projet #1755 examine maintenant son accessibilité réelle. [Fiche source et incertitudes](../../research/autonomia/1755-manuscrit-1j7-1-enquete.md).
+
+
+## Journal des orientations exprimées — 27 octobre 2026
+
+Déclaration de l'auteur : maintien de l'objectif de lancement du mouvement Capable au 1er novembre 2026 ; intention d'annoncer une candidature présidentielle et de conduire une démarche de recherche de parrainages dénommée « Marche du Soleil » ; extension de la recherche sur l'Autonomie de Capacité à l'ensemble des territoires ; intention de commencer la constitution de listes pour les élections territoriales corses de 2028 et européennes de 2029 ; proposition de recherche sur une Europe confédérale et le dialogue avec la rive sud de la Méditerranée.
+
+Cette entrée documente des **intentions déclarées**, sans attester de lancement, candidature officiellement validée, présentation d'élu, dépôt de liste ou accord avec des tiers. Elle ne constitue ni appel au vote ni matériel de campagne. Les documents doctrinaux et les projections publiques conservent leur statut et nécessitent une validation éditoriale indépendante.
