@@ -157,26 +157,26 @@ Cette annexe distingue les faits publics vérifiables, les concepts propres à l
 
 - [Sénat — Dossier législatif du projet constitutionnel sur l'autonomie de la Corse](https://www.senat.fr/dossier-legislatif/pjl24-869.html) : textes, étapes et rapport.
 - [Sénat — Scrutins publics du projet](https://www.senat.fr/scrutin-public/dossiers/pjl24-869_scr.html) : résultats du 26 octobre 2026.
-- [Corpus — Rejet du Sénat du 26 octobre : veille factuelle et portée juridique](autonomia/veille_senat_rejet_2026-10-26.md) : faits, réactions attribuées, sources et scénarios.
+- [Corpus — Rejet du Sénat du 26 octobre : veille factuelle et portée juridique](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/veille_senat_rejet_2026-10-26.md) : faits, réactions attribuées, sources et scénarios.
 - [Constitution française — article 89](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000019240655) : procédure de révision constitutionnelle.
 - Jean-Jacques Rousseau, *Du contrat social* (1762), livre III, chapitre IV (« De la démocratie »), et livre II, chapitre X (Corse). Les citations sont à lire dans leur contexte ; l'« intelligence collective assistée » est une interprétation contemporaine de l'auteur, non une thèse de Rousseau.
 
 ## B. Documents souverains du Corpus
 
-- [Autonomia — Théorie opératoire de l'autonomie territoriale](autonomia.md).
-- [Principe d'effectivité — Une loi ne vaut que par ses effets](principe_effectivite.md).
-- [Responsabilité d'effectivité — De l'observation à l'obligation de réexamen](responsabilite_effectivite.md).
-- [Démocratie capable](democratie_capable.md).
-- [Liberté effective](noyau_doctrinal_rendre_capable.md), [Égalité effective](egalite_effective.md), [Fraternité effective](fraternite_effective.md) et [tensions entre les trois principes](tensions_liberte_egalite_fraternite_effectives.md).
-- [Souveraineté, délégation et agents mandatés](souverainete_delegation_agents_mandates.md).
-- [Amendement d'effectivité de l'article 72-5, version 0.7](autonomia/amendement_effectivite_article_72-5.md) — proposition citoyenne non adoptée.
+- [Autonomia — Théorie opératoire de l'autonomie territoriale](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md).
+- [Principe d'effectivité — Une loi ne vaut que par ses effets](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/principe_effectivite.md).
+- [Responsabilité d'effectivité — De l'observation à l'obligation de réexamen](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/responsabilite_effectivite.md).
+- [Démocratie capable](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/democratie_capable.md).
+- [Liberté effective](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/noyau_doctrinal_rendre_capable.md), [Égalité effective](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/egalite_effective.md), [Fraternité effective](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/fraternite_effective.md) et [tensions entre les trois principes](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/tensions_liberte_egalite_fraternite_effectives.md).
+- [Souveraineté, délégation et agents mandatés](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/souverainete_delegation_agents_mandates.md).
+- [Amendement d'effectivité de l'article 72-5, version 0.7](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/amendement_effectivite_article_72-5.md) — proposition citoyenne non adoptée.
 
 ## C. La méthode opératoire et les instruments
 
-- [Capable — Carte doctrinale](../projects/capable/doctrine.md).
-- [Trois Machines, une boucle de correction](../projects/capable/manuscript/05-machines-et-correction.md) : Révélateur et Stabilisateur.
-- [Stabilisateur et capacité distribuée](../projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md).
-- [Capable Test](../projects/capable/capable-test.md) : grille d'examen de l'effectivité.
+- [Capable — Carte doctrinale](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine.md).
+- [Trois Machines, une boucle de correction](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/05-machines-et-correction.md) : Révélateur et Stabilisateur.
+- [Stabilisateur et capacité distribuée](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/suicide-corse/manuscript/10-stabilisateur-et-capacite-distribuee.md).
+- [Capable Test](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/capable-test.md) : grille d'examen de l'effectivité.
 - [Ubikia — flux de dérivation éditoriale](https://github.com/JeanHuguesRobert/ubikia/blob/main/docs/derivation_workflow.md) : dérivation, provenance et contrôle éditorial.
 
 **Frontière éditoriale :** cette note est une source originale. Sa version Substack est un produit dérivé ; les ajouts de fond de la version publiée ont été rétro-intégrés dans cette version 0.2.
