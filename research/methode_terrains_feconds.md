@@ -1279,6 +1279,7 @@ Voir [Autonomia](autonomia.md), [Rendre capable — noyau doctrinal](noyau_doctr
 
 *These documents link to this file:*
 - [1755 — Épilogue : Ponte Novu 1769 et la réactualisation démocratique contemporaine](../projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md)
+- [Affiliation marianiste, résistance à la dépossession et « âme corse »](autonomia/marianisme_ame_corse_hypothese.md)
 - [Autonomia](autonomia.md)
 - [Barons Mariani](../README.md)
 - [Corsica2038 — De la prospective subie à l’autonomie de capacité](autonomia/corsica2038_contre_rapport_pruspettiva2050.md)
@@ -1290,6 +1291,8 @@ Voir [Autonomia](autonomia.md), [Rendre capable — noyau doctrinal](noyau_doctr
 - [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md)
 - [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie.md)
 - [Liberté, Égalité, Fraternité : histoire, valeur constitutionnelle et exigence d'effectivité](devise_republicaine/histoire_devise_effectivite_autonomie_review_draft_2026-10-21.md)
+- [Lire Contre l'Académie](manifeste_possibiliste_note_analytique.md)
+- [Mariano da Gaggio — autonomie corse, tradition Mariani et chaîne documentaire](autonomia/mariano_da_gaggio_tradition_mariani.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Stigmergie sans limite haute](stigmergie_sans_limite_haute.md)

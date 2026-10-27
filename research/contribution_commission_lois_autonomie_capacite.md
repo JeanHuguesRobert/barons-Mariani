@@ -649,5 +649,7 @@ La liste suivante est conservée comme trace de l'état préparatoire du dossier
 - [Observatoire public du processus d’autonomie de la Corse](autonomia/observatoire_processus_autonomie_corse.md)
 - [Research Index — barons-Mariani](index.md)
 - [Sénatoriales 2026 — kit presse post-scrutin du 27 septembre](senatoriales-2026/media/kit_presse_post_scrutin_2026-09-27.md)
+- [Interaction lisible — Commission des Lois / Autonomie de Capacité](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-05-25-demande_audience_boudie.md)
+- [Interaction lisible — Information des parlementaires corses sur l’Autonomie de Capacité](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/readable/2026/2026-05-29-information_parlementaires_autonomie_capacite.md)
 - [Interaction Packets — Tableau de bord (JHR)](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/dashboard.md)
 <!-- END_AUTO: backlinks -->

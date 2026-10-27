@@ -969,12 +969,12 @@ A conceptual representation technique acting as half a joke and half a cultural 
 **Related concepts:** Exploration rationnelle du Possible ; Test du Réel ; Double Lecture ; Livres Vivants ; Casa Mariani ; FractaCognition.
 
 ---
-
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
 *These documents link to this file:*
 - [Capable — Carte doctrinale](../projects/capable/doctrine.md)
+- [Explorer les possibles pour ne pas les regretter](../musee-mariani/methodes/exploration_rationnelle_des_possibles.md)
 - [Potentics Addendum — The Possible versus possibilities](potentics_the_possible_addendum.md)
 - [Research Index — barons-Mariani](index.md)
 - [Trail — Capable](trails/capable.md)

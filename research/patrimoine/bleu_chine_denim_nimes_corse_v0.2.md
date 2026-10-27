@@ -427,6 +427,8 @@ Prochaine étape v0.3 : produire un **dossier de sources annotées**.
 ### Backlinks
 
 *These documents link to this file:*
+- [Casa Mariani — Une Maison, un Musée, des Possibles](../../musee-mariani/presentation-publique-casa-mariani.md)
+- [Gabarit de fiche de possible](../../musee-mariani/methodes/template_fiche_possible.md)
 - [Research Index — barons-Mariani](../index.md)
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 <!-- END_AUTO: backlinks -->

@@ -1709,10 +1709,11 @@ L’amendement est volontairement publiable et appropriable : son but n’est pa
 - [Concept Index — cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/concepts.md)
 - [Pipeline](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/pipeline.md)
 - [Trail: From Autonomia to DHITL](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/trails/from_autonomia_to_dhitl.md)
-- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/master/research/library_packets.md)
+- [Library packets — when the library is a specification, not code](https://github.com/JeanHuguesRobert/Inox/blob/main/research/library_packets.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
 - [Corpus Start Here — Carte globale du Corpus](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/corpus-map.md)
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
+- [Registre des interactions](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/mail_trace.md)
 <!-- END_AUTO: backlinks -->
 ## Actualisation archivistique — 9 octobre 2026
 

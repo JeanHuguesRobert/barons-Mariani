@@ -594,6 +594,7 @@ René, merci. On continue.
 ### Backlinks
 
 *These documents link to this file:*
+- [Affiliation marianiste, résistance à la dépossession et « âme corse »](autonomia/marianisme_ame_corse_hypothese.md)
 - [Alien, l’IA et les intelligences xénoformes](alien_blogpost.md)
 - [Autonomia](autonomia.md)
 - [Barons Mariani](../README.md)
@@ -605,8 +606,11 @@ René, merci. On continue.
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Le Réel, le Virtuel et l’Actuel](le_reel_le_virtuel_et_l_actuel.md)
 - [Lettre à mon ami d’outre-tombe, René Descartes — De la joie d’explorer le Possible](lettre_descartes_joie_explorer_possible.md)
+- [Lire Contre l'Académie](manifeste_possibiliste_note_analytique.md)
+- [Mariano da Gaggio — autonomie corse, tradition Mariani et chaîne documentaire](autonomia/mariano_da_gaggio_tradition_mariani.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](se_demultiplier_pour_explorer_le_possible_blogpost.md)
+- [Qu'est-ce que la politique ? — Cahier des Charges Motivé](../projects/capable/research/ccm-quest-ce-que-la-politique.md)
 - [Quand le Réel répond](quand_le_reel_repond_pkd.md)
 - [Reality Safety](reality_safety_procedural_stabilizers.md)
 - [Research Index — barons-Mariani](index.md)
@@ -633,7 +637,7 @@ René, merci. On continue.
 - [FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/README.md)
 - Methodology
 - [Research Index — FractaVolta](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/index.md)
-- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/master/research/index.md)
+- [Research Index — Inox](https://github.com/JeanHuguesRobert/Inox/blob/main/research/index.md)
 - Inseme
 - [Research Index — Inseme](https://github.com/JeanHuguesRobert/inseme/blob/main/research/index.md)
 - [Agent Brief — Representing Jean Hugues Noël Robert](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/agent_brief.md)
@@ -642,5 +646,4 @@ René, merci. On continue.
 - [MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/README.md)
 - [Pacte anti-capture solaire et inférentielle](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/pacte_anti_capture_solaire_inferentielle.md)
 - [Research Index — MareNostrum](https://github.com/JeanHuguesRobert/marenostrum/blob/main/research/index.md)
-- [On n’est jamais si bien servi que par soi-même ; demain, cela fera beaucoup de monde](https://github.com/JeanHuguesRobert/ubikia/blob/main/artifacts/audible/on-nest-jamais-si-bien-servi/source.md)
 <!-- END_AUTO: backlinks -->

@@ -1205,6 +1205,7 @@ Robert, J. H. N. (2026). *Cogentia Commons — Method Packets, Continuations, an
 - [La seconde méthode comme généralisation prudente de l’agile](agile.md)
 - [Mauvaise calibration métacognitive face aux intelligences xénoformes](alien_academic.md)
 - [Projet #1755](autonomia/projet_1755.md)
+- [Qu'est-ce que la politique ? — Cahier des Charges Motivé](../projects/capable/research/ccm-quest-ce-que-la-politique.md)
 - [Rendre capable — noyau doctrinal provisoire](noyau_doctrinal_rendre_capable.md)
 - [Research Index — barons-Mariani](index.md)
 - [Suicide Corse — Architecture éditoriale](../projects/suicide-corse/editorial-architecture.md)

@@ -612,6 +612,7 @@ Formule finale :
 ### Backlinks
 
 *These documents link to this file:*
+- [Affiliation marianiste, résistance à la dépossession et « âme corse »](marianisme_ame_corse_hypothese.md)
 - [Atlas du paysage politique et discursif corse — Une Corse capable](atlas_paysage_politique_corse.md)
 - [Grammaire générative de l’Autonomie de Capacité](grammaire_autonomie_de_capacite.md)
 - [Le Petit Parti — Mode d’emploi de l’Autonomie de Capacité](mode_emploi_petit_parti_autonomie_de_capacite.md)
