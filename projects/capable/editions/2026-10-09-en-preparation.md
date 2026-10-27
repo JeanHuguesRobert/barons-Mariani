@@ -6,7 +6,10 @@ document_role: "adapted"
 document_kind: "living-book-edition-working"
 visibility: "public"
 lifecycle_state: "working"
-source_as_of: "2026-10-09"
+source_as_of: "2026-10-27"
+opened_at: "2026-10-09"
+last_modified_at: "2026-10-27"
+version: "0.2"
 update_policy: "UP-DEFAULT-REVIEWED"
 review:
   status: "unreviewed"
@@ -99,3 +102,41 @@ Le Sénat a rejeté le 26 octobre 2026 le projet de loi constitutionnelle relati
 ## Note documentaire — déclaration du 27 octobre 2026
 
 L'auteur a déclaré maintenir l'objectif d'un lancement de Capable au 1er novembre 2026, envisager une candidature présidentielle et une démarche de recherche de présentations d'élus, ainsi que préparer la constitution de listes pour les élections territoriales corses de 2028 et européennes de 2029. Il a aussi indiqué vouloir étendre le champ de l'Autonomie de Capacité à tous les territoires et étudier une Europe confédérale ouverte au dialogue avec la rive sud de la Méditerranée. Ce relevé d'intentions ne constate aucune candidature validée, liste déposée ou démarche achevée. Source interne : [journal des orientations](../README.md). Le numéro demeure en préparation.
+
+
+## Consolidation éditoriale — 27 octobre 2026 (état actuel de travail)
+
+**Portée :** ce complément actualise l'édition de travail ouverte le 9 octobre ; les relevés historiques du 9 et du 14 octobre ci-dessus sont conservés comme observations datées et ne doivent pas être lus comme l'état parlementaire actuel.
+
+### 1. Situation parlementaire : fait et portée juridique
+
+Selon la [note de veille du Corpus](../../../research/autonomia/veille_senat_rejet_2026-10-26.md), le Sénat a rejeté le 26 octobre, en première lecture, l'ensemble du projet de loi constitutionnelle relatif à l'autonomie de la Corse, par **181 voix contre, 134 pour et 25 abstentions**, après modification du texte au cours de la séance. Source primaire : [scrutins publics du Sénat](https://www.senat.fr/scrutin-public/dossiers/pjl24-869_scr.html).
+
+**Conséquence juridiquement circonscrite :** le nouvel article 72-5 n'est pas entré en vigueur. Le rejet n'atteste à lui seul ni un retrait formel du projet par le Gouvernement ni une décision sur les suites éventuelles de la navette constitutionnelle. Il convient de distinguer les annonces de retrait du processus de Beauvau par certains acteurs politiques de la procédure législative elle-même.
+
+### 2. Mise à l'épreuve de l'Autonomie de Capacité
+
+Le cas fournit un **Révélateur** : négocier des transferts de compétences ne suffit pas à prouver un accroissement de la capacité réelle des personnes concernées. Cette interprétation est développée comme **prise de position de l'auteur**, non comme constat juridictionnel, dans [« La Corse selon E. Macron : autopsie d'une manœuvre avortée »](https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie), publiée le 27 octobre 2026. [Source souveraine versionnée](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md).
+
+Le **Stabilisateur** proposé par la doctrine consiste à rendre observables les effets des règles, les possibilités de recours, l'effectivité de la devise républicaine et la correction des défaillances. Cette proposition ne se substitue ni à l'état du droit positif ni à l'examen contradictoire des solutions constitutionnelles.
+
+### 3. Trois statuts à préserver dans les projections
+
+- **Fait vérifié :** résultat du vote du Sénat et absence d'entrée en vigueur de l'article 72-5.
+- **Analyse attribuée :** appréciations de l'auteur sur le processus politique, l'autonomie institutionnelle, le Révélateur et le Stabilisateur.
+- **Proposition :** principe d'effectivité, Autonomie de Capacité, amendement citoyen à l'article 72-5 ; aucun dépôt ou vote parlementaire de cet amendement n'est attesté par cette actualisation.
+
+### 4. Portée éditoriale et interfaces
+
+La présente édition reste **publique comme document de travail, non gelée**. Le Livre durable garde les développements de fond ; le Magazine peut enregistrer les événements datés ; les Annexes doivent relier les sources et leurs versions. Le numéro 1 est une projection historique distincte dont le contenu ne doit pas être remplacé silencieusement par l'état du 27 octobre.
+
+La page [« En préparation »](https://capable.lepp.fr/en-preparation.html) a été rendue accessible par une release sur Fracta2 le 27 octobre ; ce déploiement n'implique **pas** que le Livre HTML/PDF/EPUB, le Guide et les autres surfaces aient été régénérés. Leur état fait l'objet de l'[audit de fraîcheur](../site/freshness-audit-2026-10-27.md).
+
+### 5. Suites probatoires ouvertes
+
+- Contrôler les actes parlementaires ultérieurs sans présenter une hypothèse de reprise ou d'abandon comme un événement.
+- Poursuivre l'analyse contradictoire des effets de l'autonomie, des droits et des mécanismes de correction.
+- Produire des propositions éditoriales ciblées pour le Livre et le Magazine, puis des projections déterministes après revue.
+- Examiner la compatibilité du Guide avec sa politique de traitement des données avant déploiement.
+
+**Journal de consolidation :** 27 octobre 2026 — actualisation de `source_as_of`, conservation des jalons des 9/14 octobre, ajout de l'état parlementaire, de l'analyse explicitement attribuée et des dépendances de projection. Aucune édition gelée modifiée, aucun déploiement engagé par cette modification.
