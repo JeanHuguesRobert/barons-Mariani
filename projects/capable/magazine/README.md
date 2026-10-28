@@ -17,6 +17,8 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+- **2026 — Rétrospective des Notes de Campagne antérieures.** [Inventaire documentaire et propositions de sédimentation](../editorial/inventaire-notes-campagne-2026-10-28.md) : GR20, traçabilité civique, EDF, statut de résident, puis Note du 27 octobre. **Ce sont des sources à interpréter et contrôler, non des numéros de Magazine gelés.**
+
 - **28 octobre 2026 — Chronique du premier numéro.** [Autonomie corse — séquence du 26 au 28 octobre](2026-10-28-autonomie-corse.md), distinguant faits du Sénat, analyse d'auteur du 27 octobre et reprise de concertation annoncée. **Document de travail, non gelé.**
 
 - **27 octobre 2026 — Rejet sénatorial du projet constitutionnel relatif à l'autonomie de la Corse.** [Note factuelle et veille du Corpus](../../../research/autonomia/veille_senat_rejet_2026-10-26.md), incluant les scrutins et les limites de leur portée juridique. Le rejet du 26 octobre ne constitue ni entrée en vigueur de l'article 72-5, ni preuve d'un retrait formel du texte.
