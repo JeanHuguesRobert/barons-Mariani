@@ -89,3 +89,14 @@ Le relevé initial ci-dessus décrit **candidate-01**, et reste exact *pour le m
 
 ### Décision
 La publication technique est **PASS**, mais la conformité sémantique globale à l'état actuel du Corpus est **PARTIAL / NON DÉMONTRÉE**. Priorités : (1) vérifier la couverture de l'édition datée sur la page publique, (2) récupérer provenance/contenu des trois pages orphelines, (3) contrôler le Guide servi, (4) revue source-first du Corps sur un échantillon d'affirmations et documents nouveaux. Éviter toute régénération générale ou nouvelle release avant d'avoir mesuré les écarts.
+
+
+## Vérification des pages historiques — 28 octobre 2026
+
+**Résultat du contrôle du dépôt courant :** les chemins `projects/capable/site/magazine.html`, `projects/capable/site/annexes.html` et `projects/capable/site/cases.html` retournent tous **404** à la lecture du dépôt GitHub `barons-Mariani/main`. Cette absence au chemin attendu ne démontre pas l'absence de documents sources ailleurs dans le Corpus, ni l'origine du HTML conservé sur le serveur.
+
+L'audit opérationnel antérieur avait confirmé que ces trois pages sont **présentes dans la release active** et que leurs empreintes demeuraient inchangées lors de la publication du Livre. Aucun des trois fichiers historiques n'a été récupéré ou inspecté dans cette passe ; **le contenu et la provenance restent UNKNOWN**. Une recherche de code sur leurs noms renvoie des pages homonymes d'autres Livres Vivants (Commons, PrivAI, etc.), sans établir une filiation Capable. Il serait erroné de les copier ou de les réinterpréter comme sources de Capable.
+
+**Prochaine preuve minimale sur Fracta2 :** relever pour chaque fichier de la release active (1) taille et SHA256, (2) `<title>` et `<link rel="canonical">`, (3) titres `h1`/`h2`, (4) liens de provenance éventuels et (5) date des métadonnées. Ne produire aucune modification de publication avant ce relevé ; conserver les contenus et les liens existants. Une fois ces éléments obtenus, rechercher leurs sources documentaires dans les autres chemins du Corpus et dans les historiques Git pertinents, puis dresser un tableau affirmation → source → état.
+
+**Décision de cette passe :** provenance non résolue, conservation maintenue, aucune promotion éditoriale ni qualification de fraîcheur fondée sur le seul nom ou la disponibilité HTTP.
