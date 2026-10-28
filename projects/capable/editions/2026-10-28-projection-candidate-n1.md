@@ -43,7 +43,7 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 **Chroniques effectivement disponibles dans le Corpus :**
 - [Autonomie corse — 26–28 octobre 2026](../magazine/2026-10-28-autonomie-corse.md) : rejet du texte sénatorial, publication de la Note du 27 octobre, reprise de concertation annoncée. Chronique de travail à enrichir, non texte gelé.
 - [La Corse selon E. Macron : autopsie d'une manœuvre avortée](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md) : **analyse politique signée**, source intégrale et non compte rendu neutre du scrutin. [Version Substack publiée](https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie).
-- [Rétrospective raisonnée des Notes de Campagne](../editorial/inventaire-notes-campagne-2026-10-28.md) : matériaux attestés, rangs et provenance encore partiellement inconnus.
+- [Des Notes de Campagne au Livre : six terrains pour éprouver Capable](../magazine/2026-10-28-retrospective-notes-de-campagne.md) : chronique rédigée conservant l'argument des sources, complétée par [l'inventaire de provenance](../editorial/inventaire-notes-campagne-2026-10-28.md).
 - [Campagne du Réel : de la promesse à la trace](../magazine/2026-10-28-campagne-du-reel-et-presentations.md) : état des dispositifs et distinction promesse / acte / résultat.
 - [Énergie et capacités territoriales : du soleil au service rendu](../magazine/2026-10-28-energie-et-capacites-territoriales.md) : enjeux et hypothèses issus des Notes EDF et énergie/logistique.
 - [Capable : ce qui précède le nom](../magazine/2026-10-28-genese-capable.md) : généalogie des concepts et jalons publics, sans anachronisme.
