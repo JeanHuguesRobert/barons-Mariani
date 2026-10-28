@@ -17,6 +17,9 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+- **28 octobre 2026 — Généalogie.** [Capable : ce qui précède le nom](2026-10-28-genese-capable.md) ; distinction entre antécédents, apparition du nom et projets ultérieurs.
+- **28 octobre 2026 — Épreuve des procédures.** [Quand la procédure existe mais que l'accès reste à démontrer](2026-10-28-procedures-et-effectivite.md) ; accès, transmission, examen et effet.
+
 - **28 octobre 2026 — Méthode et états de réalisation.** [Campagne du Réel : de la promesse à la trace](2026-10-28-campagne-du-reel-et-presentations.md) ; matrice, Marche du Soleil et observatoire 2027 comme projets et instruments à vérifier.
 - **28 octobre 2026 — Cas énergie et mobilité.** [Du soleil disponible au service rendu](2026-10-28-energie-et-capacites-territoriales.md) ; Notes EDF et énergie/logistique du 9 octobre, hypothèses économiques et expérimentales non tenues pour des résultats.
 
