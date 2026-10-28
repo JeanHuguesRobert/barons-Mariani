@@ -128,3 +128,29 @@ Pour `cases.html`, les deux intitulés orientent vers les chantiers de l'Observa
 2. **Récupérer leurs corps intégraux en lecture seule** depuis la release active et les comparer au Corpus ; rechercher les documents et versions par historique Git et par issues si nécessaire.
 3. Réparer d'abord les liens du Magazine devenus introuvables ; éviter toute déclaration de provenance vérifiée sans résolution effective.
 4. Une fois les sources retrouvées, importer les projections pertinentes dans la chaîne éditoriale versionnée, avec métadonnées de dérivation et validation de fraîcheur. Aucun déploiement n'est impliqué dans ce constat.
+
+
+## Analyse intégrale de l'archive des pages historiques — 28 octobre 2026
+
+**Preuve d'intégrité :** archive `capable-pages-historiques.tar.gz` transmise depuis Fracta2, SHA256 `2defdfccb923a7eb968982588f7daac9e2cb587a0608c74220a8fbd49ebcf3a3`. Les trois HTML ont été lus intégralement. Cette preuve porte sur les pages de la release active au moment de la collecte, sans établir l'historique de leur fabrication.
+
+### Magazine : un index de numéros, pas les numéros eux-mêmes
+
+- Le n°2 (daté du **5 octobre 2026**) annonce une relance P1–P18 du 2 octobre à **13:33:55 CEST**, la règle R1 du silence, la Matrice d'Effectivité (EIM) et des Twins P0 Préfecture/TA. **Ces affirmations opérationnelles ne sont pas vérifiées par le seul HTML** ; elles nécessitent leurs pièces et les issues correspondantes.
+- Le n°1 (libellé « Octobre 2026 ») annonce un « lancement » présidentiel, la Marche du Soleil et l'Observatoire des Présentations. La source actuelle `campaign/marche-du-soleil.md` et `campaign/observatoire-presentations-2027.md` est qualifiée de **working paper** ; ne pas confondre programme envisagé, lancement effectif, parrainages annoncés et présentations officielles.
+- Les deux boutons « Lire la source Markdown » mènent à des chemins 404 dans `main`. **Fait distinct** : la page renvoie également vers `n1.html`, qui est un rendu existant, mais n'est pas la source Markdown annoncée.
+- Le lien `matrix.html` existe comme lien dans la page, mais sa disponibilité/actualité n'a pas été vérifiée dans cette passe.
+
+### Annexes : une coquille éditoriale, pas un corpus de sources
+
+`annexes.html` ne contient que le titre « Annexes & Sources » et une phrase d'intention (« Pièces justificatives, archives primaires et protocoles de preuve »). **Aucune annexe, référence ou protocole n'est effectivement présenté dans son corps**. La page n'a pas de `canonical` HTML ; la considérer comme une surface historique minimale, non comme un inventaire documentaire exhaustif. Le site comporte par ailleurs `sources.html`, distinct de cette coquille.
+
+### Cas : deux scénarios de Reality Test sans dossier probatoire
+
+- Le cas 01 formule une lecture critique des conditions des **500 présentations** et décrit un observatoire ainsi qu'un protocole de dialogue avec les élus. Il s'agit d'un **diagnostic/interprétation et de propositions de dispositif**, non d'un résultat de Reality Test documenté. Sources candidates : `campaign/observatoire-presentations-2027.md`, `campaign/marche-du-soleil.md`. Les assertions sur les effets du filtre des signatures requièrent une démonstration ou une attribution.
+- Le cas 02 décrit l'accès aux droits en milieu rural face à la dématérialisation, avec tiers-lieux, médiateurs et méthode de formation. **Aucun lieu, échantillon, mesure avant/après, observation ni pièce n'est fourni** : exemple de cas à instruire, et non test réalisé. Sa filiation précise dans le Corpus reste UNKNOWN.
+- Les trois « Machines » sont mobilisées comme grille d'analyse, mais **les hypothèses et propositions ne doivent pas être affichées comme résultats empiriques acquis**.
+
+### Décision opérationnelle de cette passe
+
+Préserver les trois HTML déployés. Lors de la future version source-first, qualifier les numéros et les cas avec des statuts explicites (programme, projet, observation documentée, inconnu) ; rétablir des liens vers des sources **existantes et vérifiées** plutôt que reconstituer fictivement les deux articles Markdown absents ; faire des Annexes un vrai index si elles doivent conserver ce titre. La page d'accès au numéro « En préparation » et le Livre durable restent autonomes. **Aucune mise à jour du site n'a été faite dans cette passe.**
