@@ -100,3 +100,31 @@ L'audit opérationnel antérieur avait confirmé que ces trois pages sont **pré
 **Prochaine preuve minimale sur Fracta2 :** relever pour chaque fichier de la release active (1) taille et SHA256, (2) `<title>` et `<link rel="canonical">`, (3) titres `h1`/`h2`, (4) liens de provenance éventuels et (5) date des métadonnées. Ne produire aucune modification de publication avant ce relevé ; conserver les contenus et les liens existants. Une fois ces éléments obtenus, rechercher leurs sources documentaires dans les autres chemins du Corpus et dans les historiques Git pertinents, puis dresser un tableau affirmation → source → état.
 
 **Décision de cette passe :** provenance non résolue, conservation maintenue, aucune promotion éditoriale ni qualification de fraîcheur fondée sur le seul nom ou la disponibilité HTTP.
+
+
+## Relevé des fichiers historiques réellement servis — 28 octobre 2026
+
+L'exploitant a lu les métadonnées des fichiers de `/srv/www/capable/current` (taille, SHA256, titre, titres de section et liens vers les sources). **Ce relevé ne contient pas le corps complet des pages**, et ne permet donc pas encore d'en auditer chaque affirmation.
+
+| Projection | Empreinte SHA256 | Contenu et provenance observables |
+| --- | --- | --- |
+| `magazine.html` (5 832 octets) | `910db16cf90dbf462209c5a3e54e2dc9faee1685fdeafb90d4729a06936c23c2` | « Le Magazine — Capable » ; n°2 « Jalon P1–P18, Matrice d'Effectivité et Twins Institutionnels » et n°1 « Lancement de la campagne présidentielle 2027 ». Liens vers les issues #98 et #100 et deux chemins `projects/capable/magazine/*.md`. |
+| `annexes.html` (1 195 octets) | `aedb82e0c448735466a9e69178d9f52ef4f8614ea9a979c047ca19816a55d1d7` | « Annexes & Sources » ; aucun lien de provenance relevé ; absence d'URL canonique dans le HTML. |
+| `cases.html` (3 238 octets) | `8d33c91d422075ddd1db12cdf9f0473de453041269bac1034b597d5d13e8e8e0` | « Études de cas & Épreuves du Réel » ; cas 01 « L'épreuve des présentations à la présidentielle 2027 », cas 02 « Le test d'effectivité de l'accès aux droits en milieu rural ». Aucun lien GitHub ou lien contenant « source » détecté par le relevé. |
+
+### Résolution des pointeurs du Magazine
+
+Les deux liens Markdown déclarés par `magazine.html` sont :
+- `projects/capable/magazine/2026-10-05-jalon-p1-p18-matrice-eim.md` ;
+- `projects/capable/magazine/2026-10-02-n1-lancement-campagne-presidentielle.md`.
+
+**Vérification GitHub sur `barons-Mariani/main` : les deux chemins renvoient 404.** Ce sont donc des **pointeurs de provenance dans le HTML**, mais ils ne constituent pas encore des sources canoniques accessibles à ces chemins. Les issues #98 et #100 sont des pistes de recherche, non la preuve de l'existence des deux documents à leur emplacement attendu.
+
+Pour `cases.html`, les deux intitulés orientent vers les chantiers de l'Observatoire des présentations et d'accès effectif aux droits ; cela reste une hypothèse de filiation tant que le texte intégral n'est pas confronté aux sources. Pour `annexes.html`, la filiation demeure inconnue.
+
+### Décision de conservation et méthode de réconciliation
+
+1. **Ne rien supprimer ni écraser** : les trois pages ont un contenu éditorial identifiable, malgré leur absence de la source Git attendue.
+2. **Récupérer leurs corps intégraux en lecture seule** depuis la release active et les comparer au Corpus ; rechercher les documents et versions par historique Git et par issues si nécessaire.
+3. Réparer d'abord les liens du Magazine devenus introuvables ; éviter toute déclaration de provenance vérifiée sans résolution effective.
+4. Une fois les sources retrouvées, importer les projections pertinentes dans la chaîne éditoriale versionnée, avec métadonnées de dérivation et validation de fraîcheur. Aucun déploiement n'est impliqué dans ce constat.
