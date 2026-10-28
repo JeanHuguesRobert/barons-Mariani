@@ -43,6 +43,12 @@ La fraternité effective vise le non-abandon capacitaire évitable : rendre une 
 
 > **Ne pas abandonner ne signifie pas faire à la place.**
 
+## Une tension concrète : protéger sans surveiller
+
+La [Note de Campagne sur la traçabilité civique anti-mafieuse](../../../research/traceabilite_civique_antimafia.md) propose de documenter les actes de pression et d'emprise sans constituer pour autant un fichier généralisé de personnes suspectées. Elle donne un exemple de tension entre plusieurs exigences : protéger les habitants, rendre les recours accessibles et préserver leur liberté contre la surveillance indifférenciée.
+
+Cette proposition **n'est pas un résultat empirique démontré**. Elle montre pourquoi aucune amélioration d'un indicateur isolé de sécurité ne peut dispenser d'examiner les droits, les effets sur les personnes et les possibilités de contrôle.
+
 ## Une boussole, pas une addition
 
 Une action peut améliorer un axe et dégrader un autre. Le Corpus refuse donc un score global qui masquerait ces tensions.
