@@ -31,7 +31,7 @@ Ce répertoire contient la face **Livre** de *Capable*. Le manuscrit est un prod
 10. [Communs ouverts, moyens partagés et coût marginal](09-communs-et-moyens.md)
 11. [Le Capable Test — Évaluer une règle par ses effets](10-capable-test.md)
 
-Le **n°1 de Capable** documente le lancement de la campagne présidentielle 2027. Il puise dans ces chapitres sans les figer.
+Le **premier numéro en préparation** documente notamment le projet de campagne présidentielle 2027, les Notes de Campagne et l'actualité de l'autonomie corse. Il distingue les intentions, les actes établis et les suites ouvertes ; il puise dans ces chapitres sans les figer. Voir la [projection candidate du 28 octobre 2026](../editions/2026-10-28-projection-candidate-n1.md), qui n'est pas une édition gelée.
 
 > **Geler l’édition, jamais la projection suivante.**
 
