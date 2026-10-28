@@ -15,6 +15,7 @@ source_documents:
   - "research/cas_edf.md"
   - "research/autonomia/note_campagne_statut_resident_effectivite.md"
   - "research/corse_selon_macron_autopsie_manoeuvre_avortee.md"
+  - "projects/capable/campaigns/corse-capable-energie.md"
 ---
 # Notes de Campagne : inventaire et potentiel de sédimentation
 
@@ -29,6 +30,18 @@ source_documents:
 | [Note de Campagne n°3 : le cas EDF expliqué](../../../research/cas_edf_blogpost.md), associée au [dossier technique EDF](../../../research/cas_edf.md) | Note d'origine juin 2026, métadonnées hétérogènes (en-tête de classification 15/09, second en-tête interne 20/06), `release_candidate` et validation humaine requise | Production solaire qualifiée de « fatale » en contexte de pilotage, stockage hydraulique potentiel, comparaison des architectures et question de la capture de la valeur ; hypothèses Calacuccia | **03 Effectivité**, **05 Machines**, **09 Communs** : capacité physique disponible ≠ capacité accessible ; distinguer coûts totaux, coûts évités et gouvernance de la valeur | Magazine : lecture datée des choix d'infrastructure ; Annexe : calculs, hypothèses de 1 GWh, CRE, EDF, alternatives, conflits d'intérêts et précautions juridiques |
 | [Statut de résident : cas pratique pour l'amendement d'effectivité](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) | septembre 2026 ; document dérivé de campagne | Double test : possibilité juridique d'édicter une norme et effectivité de ses résultats ; question des conséquences sur la liberté, l'égalité et la fraternité dans les deux sens | **02 Subsidiarité**, **03 Effectivité**, **04 principes**, **10 Capable Test** : exemple central d'évaluation contradictoire d'une règle sensible | Magazine : débat contextualisé ; Annexe : avis du Conseil d'État 17/07/2025, versions de l'article 72-5, mesures, données et objections |
 | [La Corse selon E. Macron : autopsie d'une manœuvre avortée](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md) | 27 octobre 2026 ; source v0.2, version publiée sur Substack | Pouvoir institutionnel attribué ≠ capacité politique effective des habitants ; écart promesse/résultat et corrections | **02, 03, 04, 05, 10** ; sédimentation de la distinction, non transfert littéral de la chronique parlementaire | Magazine : séquence sénatoriale du 26 octobre, Note publiée le 27, réactions et suite annoncée ; Annexe : scrutins, procédures, propositions, sources |
+
+## Complément de l'inventaire après recherche exhaustive des dépôts locaux (28 octobre)
+
+Le relevé `git grep` effectué sur Fracta2 confirme les mentions déjà connues et fait apparaître une **sixième source**, absente du premier inventaire :
+
+| Document | Date/statut | Apport de fond | Destination |
+| --- | --- | --- | --- |
+| [La Corse Capable — énergie, mobilité, logistique et valeur locale](../campaigns/corse-capable-energie.md) | 9 octobre 2026 ; `working-paper — public campaign note` ; revue non réalisée | Une ressource physique (soleil, véhicule, épargne, réseau) n'est pas encore une capacité ; combiner énergie, stockage, trajets, livraison, besoins humains et contrôle de la valeur. Hypothèses d'expérimentation à Corte ; FractaVolta présenté comme démonstrateur possible, non comme résultat acquis. | **Livre 03/05/06/09/10** : exemple transversal du passage ressources → capacités et du contrôle anti-capture ; **Magazine** : chronique datée des hypothèses et tests ; **Annexes** : protocole, données, calculs, risques juridiques et résultats effectivement observés |
+
+**Interprétation du relevé shell :** la recherche couvre les fichiers textuels versionnés `.md/.yml/.yaml` des dépôts locaux parcourus et plusieurs variantes littérales de « note de campagne ». Elle ne démontre pas l'absence d'autres notes portant des désignations différentes, de fichiers hors Git ou de documents non textuels. Les mentions « note n°1 » et « note n°2 » ne sont pas identifiées dans ce relevé. Les références `note en délibéré` des dossiers judiciaires sont hors périmètre des Notes de Campagne.
+
+**Correction méthodologique :** le dossier énergie du 9 octobre complète la note EDF de juin : ce sont **deux documents distincts**, l'un consacré à une architecture territoriale (énergie, mobilité et logistique), l'autre au cas d'un opérateur et du stockage potentiel. Il ne faut pas les fusionner ni présenter l'une comme une version de l'autre sans preuve.
 
 ## Trois acquis transversaux à ne pas perdre
 
