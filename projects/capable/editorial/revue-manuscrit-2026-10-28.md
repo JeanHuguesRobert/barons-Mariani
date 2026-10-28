@@ -71,3 +71,6 @@ La lecture intégrale de 00, 01, 02, 04, 05, 06 et 09 confirme une **architectur
 - **09** : distinctions coût total/marginal, existant/spécifique, gratuit/sans valeur soigneusement préservées. **Ne pas les convertir sans audit en qualification légale de dépense électorale** : le chapitre est une hypothèse de capacité et de dépendance, non un avis juridique sur les comptes de campagne.
 
 **Bilan de cette passe :** aucune réécriture générale n'est justifiée sur la seule base de la lecture. Les deux anachronismes identifiés dans 03 et 08 ont été corrigés ; le prochain effort substantiel est un contrôle des sources et un enrichissement narratif limité, avec arbitrage sur l'essai et la portée normative du chapitre 10.
+
+
+<!-- Diagnostic outil GitHub : écriture de contrôle du 28 octobre 2026. -->
