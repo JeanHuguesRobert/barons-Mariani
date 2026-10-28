@@ -104,7 +104,7 @@ def to_html(md, source_path="", included=()):
         if not table_rows:
             return
         rows = [r.strip().strip("|").split("|") for r in table_rows]
-        if len(rows) > 1 and all(re.fullmatch(r"[:\\- ]+", c.strip()) for c in rows[1]):
+        if len(rows) > 1 and all(re.fullmatch(r"[-: ]+", c.strip()) for c in rows[1]):
             rows.pop(1)
         html_rows = []
         for n, cells in enumerate(rows):
@@ -117,7 +117,7 @@ def to_html(md, source_path="", included=()):
             flush()
             flush_table()
             if in_code:
-                lines.append("<pre><code>" + escape("\\n".join(code_lines)) + "</code></pre>")
+                lines.append("<pre><code>" + escape("\n".join(code_lines)) + "</code></pre>")
                 code_lines.clear()
             in_code = not in_code
             continue
@@ -154,7 +154,7 @@ def to_html(md, source_path="", included=()):
     flush()
     flush_table()
     if in_code:
-        lines.append("<pre><code>" + escape("\\n".join(code_lines)) + "</code></pre>")
+        lines.append("<pre><code>" + escape("\n".join(code_lines)) + "</code></pre>")
     return "\n".join(lines)
 
 def source_anchor(path):
