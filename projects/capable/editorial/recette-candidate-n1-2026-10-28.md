@@ -63,3 +63,11 @@ Une **prévisualisation non gelée** peut être préparée à partir de ce conte
 - **PENDING — gestion de projet :** aucune édition gelée ni déploiement autorisé par cette recette. Ne pas présenter les campagnes projetées comme des actions réalisées.
 
 **Prochain test déterministe :** vérifier dans `previews/en-preparation/capable.html` l'absence de « cinq chroniques » et d'astérisques littéraux de l'accroche, puis la concordance du `source_sha256` et du hachage de la candidate dans `manifest.json`. Examiner le résultat métier du workflow, indépendamment de son état de transport, avant tout PASS de génération.
+
+## Revue des annexes A4/A8 — 28 octobre 2026
+
+**A4 — PASS ciblé officiel :** scrutin sénatorial n°34 du 26/10 (134 pour, 181 contre, 25 abstentions) confronté à la page primaire ; dossier sénatorial répertoriant un texte n°3423 transmis à l'Assemblée nationale le 28/10 en deuxième lecture. Correction ajoutée à A4 (commit `7f66e788`). Le compte rendu intégral est encore étiqueté provisoire sur le site du Sénat. Un rejet en une chambre n'est pas une preuve de fin de toute procédure. Vérification des amendements individuels encore ouverte.
+
+**A8 — PASS de provenance et de calcul élémentaire / NOT VALIDATED économique :** dossier `research/cas_edf.md` et Note `research/cas_edf_blogpost.md` lus ; leurs dates/statuts internes ne concordent pas complètement. 6,3 Md€/25 ans et 133,7 MW × 5 000 h permettent une reconstruction d'environ 377 €/MWh ; ce ratio ne prouve pas une économie marginale équivalente par déplacement thermique. Ajout d'un avertissement méthodologique explicite et des paramètres indispensables à la simulation (commit `d6fced5c`). Les sources CRE/EDF originales et la faisabilité technico-économique n'ont pas été auditées au fond ici.
+
+**État des liens :** trois URLs parlementaires primaires de A4 ouvertes et examinées sur `senat.fr` (scrutin, dossier et compte rendu). Aucun contrôle exhaustif de l'ensemble des liens du numéro n'est revendiqué.
