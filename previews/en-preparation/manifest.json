@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "8b070b3c74cc0236f0a9d258b8b9bb523cd20a52c1cb8caf7306bcf7d0b4cd04",
+      "source_sha256": "303988eceec787a21dae2e99de2ede6180fb9b1982dccad0f9c1302d375189a7",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
@@ -21,7 +21,7 @@
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
-          "sha256": "17f4adbd7a224ffdea5002f045d35327780bf82e1c78af06520bd2cad0458d69"
+          "sha256": "0f56c498d717c87c73d7d0a0f8eb913b2d11ee66b414befd2ceecf6097cfb81e"
         }
       ]
     },
