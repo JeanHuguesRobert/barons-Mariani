@@ -140,3 +140,7 @@ La page [« En préparation »](https://capable.lepp.fr/en-preparation.html) a �
 - Examiner la compatibilité du Guide avec sa politique de traitement des données avant déploiement.
 
 **Journal de consolidation :** 27 octobre 2026 — actualisation de `source_as_of`, conservation des jalons des 9/14 octobre, ajout de l'état parlementaire, de l'analyse explicitement attribuée et des dépendances de projection. Aucune édition gelée modifiée, aucun déploiement engagé par cette modification.
+
+## Projection candidate de montage — 28 octobre 2026
+
+Une [projection candidate de travail](2026-10-28-projection-candidate-n1.md) rassemble les onze chapitres du Livre, le sommaire du Magazine vivant et huit dossiers d'Annexes. Il s'agit d'une **navigation éditoriale**, non d'un rendu final ni d'une édition gelée. Son état de référence est le 28 octobre 2026 ; la présente édition ouverte depuis le 9 octobre conserve son journal historique, sans réécriture rétroactive.
