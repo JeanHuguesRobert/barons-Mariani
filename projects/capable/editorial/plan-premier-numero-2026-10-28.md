@@ -88,3 +88,11 @@ La page historique `annexes.html` n'est qu'une coquille ; elle ne vaut pas inven
 6. **Décision de gel explicite** : préciser édition, version, périmètre, empreintes, date et autorité éditoriale. Sans acte documenté, rester « n°1 en préparation ».
 
 **Aucun numéro n'est gelé ni publié comme édition définitive par ce plan.**
+
+## Circuit d'intégration des Notes de Campagne
+
+Le [contrat du Magazine](../magazine/README.md) prévoit désormais explicitement une circulation **source intégrale → chronique contextualisée → annexes probatoires → sédimentation ciblée dans le Livre**. L'adaptation n'est ni une rétractation ni une réécriture imposée par les contraintes d'un outil.
+
+Pour la Note du 27 octobre 2026, la sédimentation candidate porte sur : (a) compétences institutionnelles versus capacité d'agir des habitants (chapitres 02–03) ; (b) différence entre souveraineté représentée et contrôle effectif (04 et 10) ; (c) rôle du Révélateur et du Stabilisateur (05). Le rejet sénatorial, les prises de position nominatives et la reprise annoncée du dialogue demeurent dans le Magazine et les annexes. **Ne pas insérer un acte ou une opinion circonstancielle comme une vérité doctrinale intemporelle.**
+
+Les arbitrages portant sur un changement de thèse, la place de la démocratie directe dans le corps et la forme narrative finale restent des choix éditoriaux substantiels ; les raccords, liens, provenance et qualifications probatoires peuvent être corrigés de façon autonome.
