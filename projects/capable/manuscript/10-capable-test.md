@@ -58,6 +58,12 @@ Chaque palier fait l'objet d'un examen empirique sur pièces et traces observabl
 
 ---
 
+## Un cas d'instruction : le statut de résident
+
+La [Note de Campagne sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) permet d'illustrer la chaîne sans conclure à la place de l'enquête. Il faut d'abord instruire la possibilité juridique de la règle, puis ses objectifs déclarés (par exemple l'accès au logement), les moyens d'en bénéficier et les conséquences qu'il serait possible d'observer. Une évaluation contradictoire devrait examiner aussi les situations des personnes exclues du dispositif, ses contournements éventuels et les effets différenciés selon les territoires.
+
+Il s'agit d'un **protocole d'analyse proposé**, non d'une validation juridique du statut de résident ni d'une mesure déjà appliquée. La comparaison des effets attendus et constatés exige des données et des observations qui appartiennent au dossier probatoire.
+
 ## 2. Refus du score global automatique
 
 Le Capable Test refuse explicitement d'attribuer une note numérique globale (ex. « 74/100 ») ou une pastille de couleur réductrice.
@@ -74,8 +80,8 @@ Le Capable Test produit une **qualification multidimensionnelle contradictoire**
 
 Une démocratie capable ne se contente pas de constater les défaillances ; elle organise leur **remontée contraignante** vers les autorités dotées du pouvoir de décision.
 
-La **Responsabilité d'effectivité** impose quatre obligations strictes à tout décideur public :
+Dans la doctrine proposée par *Capable*, la **Responsabilité d'effectivité** devrait se traduire par quatre exigences adressées aux décideurs publics. Leur portée juridique actuelle doit être vérifiée séparément ; ce chapitre ne prétend pas qu'elles constituent toutes, en ces termes, des obligations déjà inscrites dans le droit positif :
 - **Connaissance des effets réels :** L'administration ne peut plaider l'ignorance lorsque les usagers documentent des blocages matériels récurrents.
 - **Délai raisonnable de réponse :** Le silence prolongé ne peut servir de bouclier juridique pour laisser s'éteindre des droits utiles.
 - **Traçabilité des instructions :** Toute dérogation, refus ou arbitrage doit faire l'objet d'une trace écrite imputable à un être humain identifiable.
-- **Obligation de réexamen :** Lorsque l'épreuve du Réel démontre l'inapplicabilité d'une règle ou ses conséquences désastreuses, le pouvoir régulateur est tenu d'ouvrir sans délai la procédure de correction législative ou réglementaire.
+- **Obligation de réexamen :** Lorsque l'épreuve du Réel démontre l'inapplicabilité d'une règle ou ses conséquences désastreuses, le pouvoir régulateur devrait être tenu d'ouvrir une procédure de réexamen, selon des modalités et délais à définir juridiquement.
