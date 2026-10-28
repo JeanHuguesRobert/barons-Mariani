@@ -63,3 +63,28 @@ Le relevé `git grep` effectué sur Fracta2 confirme les mentions déjà connues
 Recherche d'autres notes numérotées ou simplement étiquetées `campaign_note` dès retour de la recherche globale GitHub ; contrôle des historiques et des produits effectivement publiés ; confrontation source-first des calculs, références et dates avant de reprendre des chiffres dans le Livre. Les titres « n°1 », « n°2 », « n°3 » appliqués aux **Notes de Campagne** ne sont pas des numéros gelés du **Magazine**.
 
 Aucun gel éditorial ni déploiement public n'est autorisé par cet inventaire.
+
+## Recherche de filiation — compléments du 28 octobre (Git et Cogentia)
+
+- Le `git grep` multi-dépôts fourni depuis Fracta2 a identifié six Notes ou textes désignés comme tels ; il confirme également que le numéro **3** de la Note EDF est explicite, mais ne trouve pas les chaînes littérales « Note de Campagne n°1 » et « n°2 ». **Le rang des Notes 1 et 2 demeure UNKNOWN**.
+- La recherche de **messages de commits** GitHub a produit un commit pertinent pour « note de campagne » ([2ae38f0](https://github.com/JeanHuguesRobert/barons-Mariani/commit/2ae38f0a688c3c6e81ca9c513dea9b3673901bce)), sans établir l'identité des notes 1 et 2. Une recherche de messages de commits n'équivaut ni à `git log -S` ni à l'historique exhaustif des chemins.
+- Le MCP Cogentia `grep` fournit 26 occurrences de « note de campagne » dans ses documents actifs et une occurrence de `campaign_note` (traçabilité anti-mafieuse). Sa recherche sémantique sur la filiation a retourné une **continuation requise** (`ctn_f9f4f243` ; embeddings absents) et aucun résultat documentaire utilisable à ce stade.
+- L'appel `cogentia_john_run` est techniquement **réussi**, mais le gestionnaire par défaut exécuté est `mock.echo` : 0 appel de capacité et aucune exploration du Corpus. **Ce n'est pas une enquête réalisée par l'Agent JHN**.
+
+### Seconde passe reproductible recommandée sur Fracta2
+
+Pour vérifier des fichiers **supprimés ou renommés** avant de conclure sur les numéros 1 et 2 :
+
+```bash
+cd /srv/cogentia/repos/barons-Mariani
+# Tous les chemins historiques pertinents, sans réécrire le dépôt.
+git log --all --name-status --pretty=format:'COMMIT %h %ad %s' --date=short -- \
+  'research/*campagne*' 'research/*campaign*' 'projects/capable/*' \
+  | grep -Ei '^(COMMIT|[ACDRM][0-9]*[[:space:]])|campagne|campaign' | head -250
+# Commits dont le diff a ajouté/supprimé une mention exacte.
+git log --all --oneline -i -G 'note.{0,20}de campagne|campaign.note' -- '*.md' | head -100
+# Statut du dépôt (permet de dater l'état local examiné).
+git rev-parse HEAD; git status --short
+```
+
+**Ne pas confondre** résultats de recherche dans les messages, occurrences dans l'état actuel et historique de contenu. Le statut exhaustif reste ouvert jusqu'à inspection de ce journal. Aucun texte n'est à renuméroter rétrospectivement.
