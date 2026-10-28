@@ -20,7 +20,7 @@ source_documents:
 
 ## À l'entrée du numéro
 
-*De quoi voulons-nous être capables ?* Le Livre examine comment droits, ressources, règles et institutions se transforment — ou non — en capacités réellement accessibles et corrigibles. Le Magazine suit les événements, les Notes de Campagne, leurs objections et leurs suites. Les Annexes permettent de vérifier les affirmations et de retrouver les sources, sans prétendre faire disparaître les inconnues.
+**De quoi voulons-nous être capables ?** Le Livre examine comment droits, ressources, règles et institutions se transforment — ou non — en capacités réellement accessibles et corrigibles. Le Magazine suit les événements, les Notes de Campagne, leurs objections et leurs suites. Les Annexes permettent de vérifier les affirmations et de retrouver les sources, sans prétendre faire disparaître les inconnues.
 
 ## I. Livre — récit durable
 
