@@ -50,9 +50,9 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 - [Quand la procédure existe mais que l'accès reste à démontrer](../magazine/2026-10-28-procedures-et-effectivite.md) : accès, transmission, examen et effets.
 - [Magazine — index vivant](../magazine/README.md) : chronologie des entrées et protocole d'actualisation.
 
-**Rubriques de travail pour montage ultérieur, non qualifiées d'articles achevés :**
-- Pourquoi maintenant ? Genèse de Capable, publication et actes avérés versus intentions.
-- L'effectivité face aux procédures : contributions, recours et accès aux documents.
+**Rubriques ou volets encore à compléter, distincts des cinq chroniques déjà rédigées :**
+- Genèse de Capable : [première chronique rédigée](../magazine/2026-10-28-genese-capable.md) ; compléter les preuves historiques et les éventuels témoignages contradictoires.
+- Effectivité face aux procédures : [première chronique rédigée](../magazine/2026-10-28-procedures-et-effectivite.md) ; compléter la chaîne des pièces institutionnelles et les réponses.
 - Campagne du Réel : méthode, tentatives, observations, corrections.
 - Présidentielle 2027 comme test : [Marche du Soleil](../campaign/marche-du-soleil.md), [Observatoire des présentations](../campaign/observatoire-presentations-2027.md) ; leur présence documentaire ne démontre pas leur réalisation.
 - Ce qui a changé et ce qui reste inconnu : nouveaux actes, corrections, désaccords et suites documentées.
