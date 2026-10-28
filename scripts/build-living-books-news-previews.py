@@ -70,19 +70,57 @@ def md_body(raw):
             return tail.lstrip()
     return raw
 
-def to_html(md):
-    # Faithful, readable source display; no untrusted Markdown HTML execution.
-    lines = []
+def to_html(md, source_path="", included=()):
+    """Safe minimal Markdown renderer: headings, links, emphasis and lists."""
+    import posixpath
+    def inline(value):
+        parts = re.split(r'(\[[^\]\n]+\]\([^)]+\)|\*\*[^*\n]+\*\*)', value)
+        rendered = []
+        for part in parts:
+            m = re.fullmatch(r'\[([^\]\n]+)\]\(([^)]+)\)', part)
+            if m:
+                label, url = m.groups()
+                if not url.startswith(("https://", "http://", "#")):
+                    target = posixpath.normpath(posixpath.join(posixpath.dirname(source_path), url))
+                    url = ("#" + source_anchor(target) if target in included else
+                           "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/" + target)
+                rendered.append('<a href="' + escape(url, quote=True) + '">' + escape(label) + '</a>')
+            elif part.startswith("**") and part.endswith("**"):
+                rendered.append("<strong>" + escape(part[2:-2]) + "</strong>")
+            else:
+                rendered.append(escape(part))
+        return "".join(rendered)
+    lines, items, kind = [], [], None
+    def flush():
+        nonlocal kind
+        if items:
+            lines.append("<" + kind + ">" + "".join(items) + "</" + kind + ">")
+            items.clear()
+            kind = None
     for line in md_body(md).splitlines():
-        m = re.match(r"^(#{1,6})\s+(.+)$", line)
-        if m:
-            n = len(m.group(1))
-            lines.append(f"<h{n}>{escape(m.group(2))}</h{n}>")
+        heading = re.match(r"^(#{1,6})\s+(.+)$", line)
+        bullet = re.match(r"^\s*[-*]\s+(.+)$", line)
+        numbered = re.match(r"^\s*\d+\.\s+(.+)$", line)
+        if heading:
+            flush()
+            n = len(heading.group(1))
+            lines.append(f"<h{n}>" + inline(heading.group(2)) + f"</h{n}>")
+        elif bullet or numbered:
+            next_kind = "ul" if bullet else "ol"
+            if kind != next_kind:
+                flush()
+                kind = next_kind
+            items.append("<li>" + inline((bullet or numbered).group(1)) + "</li>")
         elif not line.strip():
-            lines.append("<div class='space'></div>")
+            flush()
         else:
-            lines.append("<p>{}</p>".format(escape(line)))
+            flush()
+            lines.append("<p>" + inline(line) + "</p>")
+    flush()
     return "\n".join(lines)
+
+def source_anchor(path):
+    return "source-" + hashlib.sha256(path.encode("utf-8")).hexdigest()[:12]
 
 def digest(b):
     return hashlib.sha256(b).hexdigest()
@@ -97,6 +135,7 @@ def main():
     for name, cfg in BOOKS.items():
         paths = [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", [])
         sections, inputs = [], []
+        included = set(paths)
         for path in paths:
             data = (ROOT / path).read_bytes()
             inputs.append({"path": path, "sha256": digest(data)})
@@ -104,13 +143,14 @@ def main():
                      "Livre — " + Path(path).stem if path in cfg["chapters"] else
                      "Magazine — " + Path(path).stem if path in cfg.get("magazine", []) else
                      "Annexes — " + Path(path).stem if path in cfg.get("annexes", []) else Path(path).stem)
-            sections.append(f"<section><h2>{escape(title)}</h2>"
+            sections.append(f"<section id='{source_anchor(path)}'><h2>{escape(title)}</h2>"
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
-                + to_html(data.decode("utf-8")) + "</section>")
+                + to_html(data.decode("utf-8"), path, included) + "</section>")
         css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
         book_digest = digest(json.dumps(inputs, sort_keys=True).encode("utf-8"))
         body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · empreinte des sources {book_digest}</p>"
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
+        body += "<nav aria-label='Parties'><a href='#" + source_anchor(cfg["chapters"][0]) + "'>Livre</a> · <a href='#" + source_anchor(cfg.get("magazine", cfg["chapters"])[0]) + "'>Magazine</a> · <a href='#" + source_anchor(cfg.get("annexes", cfg["chapters"])[0]) + "'>Annexes</a></nav>" if name == "capable" else ""
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
         (OUT / (name + ".html")).write_text(out, encoding="utf-8")
