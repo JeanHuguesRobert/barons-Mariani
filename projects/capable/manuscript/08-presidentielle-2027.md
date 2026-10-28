@@ -106,7 +106,7 @@ La séquence du 7 octobre 2026 marque historiquement la transition envisagée ap
 
 L'enchaînement détaillé des échéances, des actes accomplis et des intentions initiales doit être conservé dans le [numéro en préparation](../editions/2026-10-09-en-preparation.md) et les documents de campagne, plutôt que figé comme une liste de « priorités immédiates » devenues historiques.
 
-## Coût électoral dédié minimal : hypothèse de travail
+## Moyens préexistants, communs et coût électoral dédié : hypothèse de travail
 
 Une hypothèse spécifique consiste à tester jusqu’où une candidature peut s’appuyer sur des capacités préexistantes, des outils polyvalents et des communs ouverts, sans construire un capital électoral dédié important ni rechercher la dette comme condition d’accès.
 
