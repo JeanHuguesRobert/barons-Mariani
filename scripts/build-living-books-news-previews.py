@@ -184,13 +184,21 @@ def main():
             sections.append(f"<section id='{source_anchor(path)}'><h2>{escape(title)}</h2>"
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
                 + to_html(data.decode("utf-8"), path, included) + "</section>")
-        css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}blockquote{border-left:3px solid #888;padding-left:1em;color:#454545}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f4f4f4;padding:1em}.table-scroll{overflow-x:auto}table{border-collapse:collapse;width:100%}td,th{padding:.4em;border:1px solid #ccc;text-align:left}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
+        css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}*{box-sizing:border-box}nav{display:flex;gap:.8rem;flex-wrap:wrap;padding:.75rem 0}a{overflow-wrap:anywhere}section{scroll-margin-top:1rem}@media(max-width:600px){body{font-size:16px;margin:14px auto;padding:0 14px}h1{font-size:1.65em}h2{font-size:1.28em}pre{font-size:.85em}}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}blockquote{border-left:3px solid #888;padding-left:1em;color:#454545}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f4f4f4;padding:1em}.table-scroll{overflow-x:auto}table{border-collapse:collapse;width:100%}td,th{padding:.4em;border:1px solid #ccc;text-align:left}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
         book_digest = digest(json.dumps(inputs, sort_keys=True).encode("utf-8"))
         body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · empreinte des sources {book_digest}</p>"
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
         body += "<nav aria-label='Parties'><a href='#" + source_anchor(cfg["chapters"][0]) + "'>Livre</a> · <a href='#" + source_anchor(cfg.get("magazine", cfg["chapters"])[0]) + "'>Magazine</a> · <a href='#" + source_anchor(cfg.get("annexes", cfg["chapters"])[0]) + "'>Annexes</a></nav>" if name == "capable" else ""
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
+        # Fail the build if a generated local anchor is absent or duplicated.
+        ids = re.findall(r"""\\bid=['"]([^'"]+)['"]""", out)
+        anchors = re.findall(r"""href=['"]#([^'"]+)['"]""", out)
+        if len(ids) != len(set(ids)):
+            raise ValueError(f"{name}: duplicate section IDs")
+        missing = sorted(set(anchors) - set(ids))
+        if missing:
+            raise ValueError(f"{name}: unresolved local anchors: {missing}")
         (OUT / (name + ".html")).write_text(out, encoding="utf-8")
         manifest["books"].append({"id": name, "page": name + ".html", "source_sha256": book_digest, "inputs": inputs})
         index.append(f"<p><a href='{escape(name)}.html'>{escape(name)} — en préparation</a></p>")
