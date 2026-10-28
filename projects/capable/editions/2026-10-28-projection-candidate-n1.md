@@ -46,6 +46,8 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 - [Rétrospective raisonnée des Notes de Campagne](../editorial/inventaire-notes-campagne-2026-10-28.md) : matériaux attestés, rangs et provenance encore partiellement inconnus.
 - [Campagne du Réel : de la promesse à la trace](../magazine/2026-10-28-campagne-du-reel-et-presentations.md) : état des dispositifs et distinction promesse / acte / résultat.
 - [Énergie et capacités territoriales : du soleil au service rendu](../magazine/2026-10-28-energie-et-capacites-territoriales.md) : enjeux et hypothèses issus des Notes EDF et énergie/logistique.
+- [Capable : ce qui précède le nom](../magazine/2026-10-28-genese-capable.md) : généalogie des concepts et jalons publics, sans anachronisme.
+- [Quand la procédure existe mais que l'accès reste à démontrer](../magazine/2026-10-28-procedures-et-effectivite.md) : accès, transmission, examen et effets.
 - [Magazine — index vivant](../magazine/README.md) : chronologie des entrées et protocole d'actualisation.
 
 **Rubriques de travail pour montage ultérieur, non qualifiées d'articles achevés :**
