@@ -192,7 +192,7 @@ def main():
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
         # Fail the build if a generated local anchor is absent or duplicated.
-        ids = re.findall(r"""\\bid=['"]([^'"]+)['"]""", out)
+        ids = re.findall(r"""\bid=['"]([^'"]+)['"]""", out)
         anchors = re.findall(r"""href=['"]#([^'"]+)['"]""", out)
         if len(ids) != len(set(ids)):
             raise ValueError(f"{name}: duplicate section IDs")
