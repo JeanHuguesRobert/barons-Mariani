@@ -50,7 +50,7 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 - [Quand la procédure existe mais que l'accès reste à démontrer](../magazine/2026-10-28-procedures-et-effectivite.md) : accès, transmission, examen et effets.
 - [Magazine — index vivant](../magazine/README.md) : chronologie des entrées et protocole d'actualisation.
 
-**Rubriques ou volets encore à compléter, distincts des cinq chroniques déjà rédigées :**
+**Rubriques ou volets encore à compléter, distincts des six chroniques déjà rédigées :**
 - Genèse de Capable : [première chronique rédigée](../magazine/2026-10-28-genese-capable.md) ; compléter les preuves historiques et les éventuels témoignages contradictoires.
 - Effectivité face aux procédures : [première chronique rédigée](../magazine/2026-10-28-procedures-et-effectivite.md) ; compléter la chaîne des pièces institutionnelles et les réponses.
 - Campagne du Réel : méthode, tentatives, observations, corrections.
