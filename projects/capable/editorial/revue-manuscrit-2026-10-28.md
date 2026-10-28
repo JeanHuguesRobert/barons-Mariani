@@ -15,7 +15,7 @@ source_documents:
 
 # Revue différentielle du corps du Livre Capable
 
-**Périmètre :** onze fichiers Markdown 00–10 du manuscrit, lus depuis `main`, avec examen des titres, du contenu des chapitres 03, 07, 08 et 10 et de leurs références. Cette passe est un **diagnostic d'architecture et de séparation temporelle** ; l'examen contradictoire ligne par ligne des sept autres chapitres reste à poursuivre. Aucun numéro n'a été gelé.
+**Périmètre :** onze fichiers Markdown 00–10 du manuscrit, lus depuis `main`, avec lecture intégrale des onze chapitres. Cette passe est un **diagnostic d'architecture, de cohérence interne et de séparation temporelle** ; la confrontation détaillée de chaque proposition aux sources souveraines et aux preuves externes reste à poursuivre. Aucun numéro n'a été gelé.
 
 ## Constat transversal
 
@@ -52,9 +52,22 @@ source_documents:
 
 ## Suite autonome
 
-1. Lire les sept autres chapitres **intégralement**, comparer aux références souveraines et relever les propositions exactes à clarifier, sans reformulations généralisées.
+1. Les onze chapitres ont été lus intégralement. **Comparer maintenant chaque proposition aux références souveraines et aux pièces**, sans reformulations généralisées.
 2. Vérifier les liens relatifs et les sources affichées ; consigner les liens réellement brisés et les assertions sans pièces.
 3. Préparer les rubriques du Magazine à partir des traces datées effectivement conservées et recouper les statuts probatoires.
 4. Proposer à validation éditoriale seulement les décisions majeures : introduction de l'essai dans le Livre ; modification de la thèse ou de la structure ; premier gel ; portée normative des obligations d'effectivité.
 
 Ce document est une trace de travail et **ne vaut ni revue scientifique complète ni validation d'édition**.
+
+## Complément de lecture intégrale — sept autres chapitres
+
+La lecture intégrale de 00, 01, 02, 04, 05, 06 et 09 confirme une **architecture courte et non redondante au niveau des fonctions**, mais aussi un problème de densité pédagogique : les chapitres 00, 01, 04, 06 et 09 tiennent chacun en moins de 2 100 caractères environ hors métadonnées. C'est lisible, mais certains développements restent au stade de proposition condensée plutôt que de récit transmissible. Il s'agit d'un **choix éditorial à instruire**, pas d'une invitation à gonfler artificiellement le texte.
+
+- **00 / 01** : la reprise de « Capable n'est pas un verdict » est légitime si 00 ouvre la question au lecteur et 01 définit précisément les conditions et la généalogie ; un raccord narratif sera plus utile qu'une fusion automatique.
+- **02** : texte le plus développé des sept ; distingue soigneusement autonomie, souveraineté, indépendance et autarcie. Le cas corse est expressément présenté comme une application, non une preuve de la doctrine. Les liens juridiques, historiques et de diffusion sont visibles et devront subir un contrôle d'existence et de pertinence distinct.
+- **04** : triptyque Liberté/Égalité/Fraternité clairement formulé, avec refus d'un score global ; manque un cas concret de tension entre axes qui rendrait le raisonnement plus intuitif, sans le remplacer par une note chiffrée.
+- **05** : les trois fonctions et la méta-boucle Révélateur/Stabilisateur sont distinctes du Capable Test (outil d'instruction) ; le risque porte surtout sur l'abstraction. Un cas travaillé, balisé comme exemple illustratif, serait utile. La dernière phrase fait une distinction essentielle : le Livre Vivant documente le mouvement, mais ne s'y confond pas.
+- **06** : très court mais explicite « même forme abstraite ≠ même mécanisme causal ni même remède », ce qui évite une généralisation excessive. Exemple comparatif d'échelles candidat, sans nécessité de modifier la thèse.
+- **09** : distinctions coût total/marginal, existant/spécifique, gratuit/sans valeur soigneusement préservées. **Ne pas les convertir sans audit en qualification légale de dépense électorale** : le chapitre est une hypothèse de capacité et de dépendance, non un avis juridique sur les comptes de campagne.
+
+**Bilan de cette passe :** aucune réécriture générale n'est justifiée sur la seule base de la lecture. Les deux anachronismes identifiés dans 03 et 08 ont été corrigés ; le prochain effort substantiel est un contrôle des sources et un enrichissement narratif limité, avec arbitrage sur l'essai et la portée normative du chapitre 10.
