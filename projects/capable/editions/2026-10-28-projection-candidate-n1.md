@@ -57,7 +57,7 @@ Aucune « deuxième édition » ne découle des étiquettes héritées du site. 
 
 ## III. Annexes du Livre — architecture de vérification
 
-Ces huit dossiers sont **des entrées d'assemblage**, pas huit annexes finalisées.
+Ces huit dossiers ont désormais une **première rédaction consultable**, sans validation contradictoire ni gel : [Annexes A1–A4](../annexes/2026-10-28-dossiers-a1-a4.md) (provenance, glossaire, méthode, institutions) et [Annexes A5–A8](../annexes/2026-10-28-dossiers-a5-a8.md) (preuves, Reality Tests, objections, énergie). Les dossiers restent à vérifier et enrichir avant toute finalisation.
 
 | Dossier | Ressources existantes à intégrer | Lacune / contrôle |
 | --- | --- | --- |
@@ -82,7 +82,7 @@ Les Notes de Campagne sont des expressions attribuées et conservées intégrale
 
 1. Évaluer la cohérence narrative de cet assemblage, notamment la place du chapitre présidentiel et celle de l'essai philosophique.
 2. Transformer les rubriques de Magazine non rédigées en véritables chroniques sourcées.
-3. Composer des annexes autonomes plutôt que seulement orienter vers des dossiers.
+3. Contrôler et enrichir les deux ensembles d'annexes rédigées A1–A8 : références primaires, contradictions et éléments probatoires non encore réunis.
 4. Produire une projection web dans la chaîne adéquate et effectuer une recette visuelle/documentaire.
 5. Conserver une décision éditoriale de gel identifiable avec version, périmètre et empreintes, si un gel est ultérieurement décidé.
 
