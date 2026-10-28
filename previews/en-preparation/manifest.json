@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "303988eceec787a21dae2e99de2ede6180fb9b1982dccad0f9c1302d375189a7",
+      "source_sha256": "c896bdc511414acadc9d5df4f87d4bdd433f88773eeeeea0409eb32a3a3df5a3",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-09-en-preparation.md",
@@ -13,11 +13,11 @@
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
-          "sha256": "a1caf8f23cb5a150349be3103142fc51d09906efae6a77ff4a079cd429aad6e1"
+          "sha256": "31210ad8ac020a6b580d1e1e7a096e47e172aac59d5ca9651cddb8447b6ce265"
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
-          "sha256": "9091d15fe6634a81a6d9884cadd540f7613c2a28f73b291fbadefcb03394949b"
+          "sha256": "e695fc957b6b60078fde077140ddd1bf9a464597088c6ca5c6cd2124e0a050bb"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
