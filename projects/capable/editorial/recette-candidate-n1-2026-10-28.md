@@ -52,3 +52,14 @@ language: fr
 Une **prévisualisation non gelée** peut être préparée à partir de ce contenu lorsque l'assemblage est cohérent et sa traçabilité explicite ; les inconnues peuvent figurer comme telles. En revanche, aucune affirmation de numéro achevé ou gelé ne doit précéder les contrôles : qualité du rendu, présence des trois ensembles, accès aux sources, absence de rupture de navigation, versions et date d'observation.
 
 **Décision de cette recette :** progression éditoriale attestée ; contrôle documentaire ciblé concluant ; **recette complète non acquise**. Ni gel ni publication effectués.
+
+## Reprise de recette — 28 octobre 2026, contrôle incrémental
+
+- **PASS — versionnement et composition :** lecture du générateur `scripts/build-living-books-news-previews.py`, du manifeste et de l'aperçu versionné ; 20 entrées pour Capable (candidate, 11 chapitres, 6 chroniques, 2 fichiers d'annexes représentant A1–A8). Présence effective dans l'HTML des règles CSS `@media(max-width:600px)` et de conteneurs de tableaux déroulants. Cela **n'est pas** un test visuel multi-écrans.
+- **FIXED (source candidate) — cohérence du décompte :** l'introduction du sommaire mentionnait encore « cinq chroniques déjà rédigées » ; correction en « six chroniques » (commit `7c568d87`).
+- **FIXED (source candidate) — fidélité du rendu :** l'accroche `*De quoi voulons-nous être capables ?*` s'affichait littéralement, le moteur minimal ne gérant pas cette syntaxe italique ; remplacement par une emphase déjà prise en charge (commit `2e4272e1`). Cette adaptation ponctuelle ne vaut pas validation globale du Markdown.
+- **PENDING — propagation du rendu :** au contrôle immédiatement postérieur à la première correction, l'HTML suivi sur GitHub contenait toujours « cinq chroniques ». Une nouvelle génération et la cohérence des empreintes du manifeste doivent donc être contrôlées **après** livraison du workflow ; aucune réussite de celui-ci n'est inférée ici.
+- **UNKNOWN — accès public et sources externes :** tentative d'ouverture directe de `https://capable.lepp.fr/`, de la publication Substack citée dans la candidate et du fichier GitHub via l'outil de navigation public : erreurs d'accès de l'outil, qui **ne démontrent pas** une panne des sites. Les fichiers GitHub ont été consultés séparément par l'API connectée. Validation HTTP exhaustive, sources officielles primaires, captures visuelles et rendu mobile restent à effectuer.
+- **PENDING — gestion de projet :** aucune édition gelée ni déploiement autorisé par cette recette. Ne pas présenter les campagnes projetées comme des actions réalisées.
+
+**Prochain test déterministe :** vérifier dans `previews/en-preparation/capable.html` l'absence de « cinq chroniques » et d'astérisques littéraux de l'accroche, puis la concordance du `source_sha256` et du hachage de la candidate dans `manifest.json`. Examiner le résultat métier du workflow, indépendamment de son état de transport, avant tout PASS de génération.
