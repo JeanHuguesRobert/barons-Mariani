@@ -17,6 +17,9 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+- **28 octobre 2026 — Méthode et états de réalisation.** [Campagne du Réel : de la promesse à la trace](2026-10-28-campagne-du-reel-et-presentations.md) ; matrice, Marche du Soleil et observatoire 2027 comme projets et instruments à vérifier.
+- **28 octobre 2026 — Cas énergie et mobilité.** [Du soleil disponible au service rendu](2026-10-28-energie-et-capacites-territoriales.md) ; Notes EDF et énergie/logistique du 9 octobre, hypothèses économiques et expérimentales non tenues pour des résultats.
+
 - **2026 — Rétrospective des Notes de Campagne antérieures.** [Inventaire documentaire et propositions de sédimentation](../editorial/inventaire-notes-campagne-2026-10-28.md) : GR20, traçabilité civique, EDF, statut de résident, puis Note du 27 octobre. **Ce sont des sources à interpréter et contrôler, non des numéros de Magazine gelés.**
 
 - **28 octobre 2026 — Chronique du premier numéro.** [Autonomie corse — séquence du 26 au 28 octobre](2026-10-28-autonomie-corse.md), distinguant faits du Sénat, analyse d'auteur du 27 octobre et reprise de concertation annoncée. **Document de travail, non gelé.**
