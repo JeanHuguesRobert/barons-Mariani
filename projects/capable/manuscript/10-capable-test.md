@@ -28,7 +28,7 @@ Le Corpus formalise cette exigence sous un principe cardinal :
 
 > **Une loi ne vaut que par ses effets.**
 
-Le **Capable Test** est la procédure d'instruction et de vérification continue qui met cette maxime à l'épreuve. Il s'applique à toute règle de droit, politique publique, procédure administrative, service numérique ou organisation.
+Les chapitres précédents ont exposé une question, des principes et plusieurs terrains d'application. Le **Capable Test** rassemble ces exigences en une procédure d'instruction et de vérification continue, sans transformer les exemples du Livre en preuves automatiques. Il s'applique à toute règle de droit, politique publique, procédure administrative, service numérique ou organisation.
 
 ---
 
