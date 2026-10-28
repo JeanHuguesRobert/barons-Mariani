@@ -30,6 +30,12 @@ Le Corpus utilise trois fonctions de travail.
 
 **Machine à Rendre Capable** : transforme un possible latent en capacité praticable en ajoutant un moyen, retirant un goulot, créant une route ou stabilisant une procédure.
 
+## Un exemple : la montagne ne se réduit pas au quota
+
+Dans la [Note de Campagne sur le GR20](../../../research/gr20_autonomie_de_capacite.md), le quota est présenté comme une réponse parfois nécessaire à la saturation d'un refuge ou d'un milieu fragile, mais insuffisante à elle seule pour ouvrir d'autres possibilités. La Machine à Empêcher désigne ici un effet de fermeture possible, et non une intention prêtée aux gestionnaires. Explorer signifie alors examiner d'autres itinéraires, saisons et activités ; rendre capable suppose que ces alternatives soient réellement praticables et puissent bénéficier aux territoires concernés.
+
+Ce cas relève d'une **proposition à éprouver**, non de la preuve que les alternatives évoquées seraient déjà opérationnelles ou écologiquement soutenables.
+
 ## Révélateur et Stabilisateur
 
 Le Livre Vivant ajoute une méta-boucle. Le **Révélateur** rend visibles écarts, inconnues et erreurs de carte. Le **Stabilisateur** conserve les capacités qui fonctionnent : provenance, procédures, pluralité de routes et possibilités de reprise.
