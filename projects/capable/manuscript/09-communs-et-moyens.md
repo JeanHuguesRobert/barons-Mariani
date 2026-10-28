@@ -21,7 +21,7 @@ provenance:
 
 # Communs ouverts, moyens partagés et coût marginal
 
-Une capacité ne se réduit pas à un budget.
+Une capacité ne se réduit pas à un budget. Cette question dépasse les campagnes électorales : elle concerne toute organisation cherchant à transformer des ressources disponibles en action utile, sans dépendance ou capture excessive.
 
 Des compétences acquises, du logiciel libre, des documents publics, des outils polyvalents, des protocoles reproductibles et des infrastructures déjà utilisées à d’autres fins peuvent augmenter fortement la capacité d’action sans avoir été créés pour une campagne particulière.
 
