@@ -32,7 +32,7 @@ review:
 
 # Des campagnes comme Reality Tests
 
-Une campagne électorale est d’abord une séquence politique. *Capable* propose en plus de la traiter comme un **Reality Test documenté**.
+Une campagne électorale est d’abord une séquence politique. *Capable* propose en plus de la traiter comme un **Reality Test documenté**. Elle n'épuise pas la question politique : son intérêt ici est de fournir un terrain d'observation et de contradiction, non une preuve automatique de la doctrine.
 
 Cela ne transforme pas l’élection en expérience contrôlée. Cela signifie que certaines hypothèses peuvent être écrites avant les résultats, confrontées à des traces, puis maintenues, corrigées ou abandonnées.
 
