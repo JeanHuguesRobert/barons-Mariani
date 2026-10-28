@@ -99,3 +99,13 @@ Une première série de raccords narratifs, **réversibles et non doctrinaux**, 
 - `manuscript/09-communs-et-moyens.md` — combinaison énergie, stockage, trajets et valeur locale ; renvoi au dossier technique EDF (commit `81c89c2`).
 
 **Limites :** ces ajouts ne valident pas les hypothèses empiriques des Notes et ne remplacent pas leurs dossiers probatoires. Les chapitres 02, 03 et 10 restent à confronter notamment à la Note du 27 octobre et au cas du statut de résident. **Aucun numéro gelé** et aucune publication HTML déclenchée.
+
+## Seconde passe de sédimentation — chapitres 02, 03 et 10
+
+- **02** — compétence attribuée, capacité réelle d'exercice et possibilité de contrôle ; sources : Note sur le statut de résident et Note du 27 octobre ; commit `a6a2005`.
+- **03** — symétrie de l'évaluation des normes uniformes et différenciées, sans attribuer de résultat à une règle non appliquée ; source : Note sur le statut de résident ; commit `f3b5d9f`.
+- **10** — exemple d'instruction du statut de résident ; qualification des quatre obligations de responsabilité d'effectivité comme **exigences doctrinales proposées**, sans prétention à une consécration identique en droit positif ; commit `51f9e32`.
+
+Contrôle direct GitHub après modifications : les six sources de campagne et le dossier technique EDF consultés, ainsi que l'amendement d'effectivité 72-5, sont accessibles sur `main`. Ce contrôle est un **contrôle d'existence documentaire**, non une validation scientifique des contenus ni un contrôle automatique de tous les liens du manuscrit.
+
+Ces sept enrichissements (chapitres 02, 03, 04, 05, 06, 09, 10) sont une première sédimentation éditoriale. Les choix d'intégration de l'essai philosophique, l'éventuel changement d'architecture du Livre et le gel du premier numéro demeurent distincts.
