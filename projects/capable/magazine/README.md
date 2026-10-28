@@ -17,6 +17,8 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+- **28 octobre 2026 — Chronique du premier numéro.** [Autonomie corse — séquence du 26 au 28 octobre](2026-10-28-autonomie-corse.md), distinguant faits du Sénat, analyse d'auteur du 27 octobre et reprise de concertation annoncée. **Document de travail, non gelé.**
+
 - **27 octobre 2026 — Rejet sénatorial du projet constitutionnel relatif à l'autonomie de la Corse.** [Note factuelle et veille du Corpus](../../../research/autonomia/veille_senat_rejet_2026-10-26.md), incluant les scrutins et les limites de leur portée juridique. Le rejet du 26 octobre ne constitue ni entrée en vigueur de l'article 72-5, ni preuve d'un retrait formel du texte.
 - **27 octobre 2026 — Lecture et controverse.** [« La Corse selon E. Macron : autopsie d'une manœuvre avortée »](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md), **analyse attribuée à l'auteur** et non source officielle de la procédure. [Publication dérivée Substack](https://jeanhugues.substack.com/p/la-corse-selon-e-macron-autopsie).
 - **9–27 octobre 2026 — Numéro non gelé « En préparation ».** [Édition de travail](../editions/2026-10-09-en-preparation.md), ouverte le 9 octobre et actualisée le 27 ; elle conserve ses relevés historiques, dont la contribution documentaire du 14 octobre.
