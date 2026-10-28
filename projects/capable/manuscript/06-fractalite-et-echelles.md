@@ -32,6 +32,12 @@ Ces relations peuvent être testées chez une personne, un collectif, une instit
 
 > **Même forme abstraite ne signifie ni même mécanisme causal, ni même remède.**
 
+## Des terrains différents, des preuves différentes
+
+Les Notes de Campagne offrent un test de cette grammaire : la [montagne](../../../research/gr20_autonomie_de_capacite.md) pose des questions de saturation et de répartition de la fréquentation ; le [statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) des questions de compétence juridique et d'effets sur les droits ; l'[énergie, la mobilité et la logistique](../campaigns/corse-capable-energie.md) des questions d'infrastructure, d'accès et de valeur locale.
+
+Dans les trois cas, on peut demander **qui gagne une capacité réelle, qui supporte un coût, qui peut vérifier et corriger**. Cela ne signifie ni que les causes des blocages soient identiques ni que les solutions puissent être transportées d'un domaine à l'autre sans nouvelle enquête.
+
 ## Fractalité opératoire
 
 Une chronologie, une matrice d’effectivité, un Cognitive Packet ou un Reality Test peuvent être réemployés à plusieurs niveaux sans rendre leurs contenus interchangeables.
