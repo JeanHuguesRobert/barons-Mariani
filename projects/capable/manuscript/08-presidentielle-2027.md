@@ -25,9 +25,9 @@ provenance:
 
 # Présidentielle 2027 — seconde campagne
 
-Le lancement de la campagne présidentielle 2027 constitue la **seconde grande campagne** documentée dans *Capable* après la Campagne du Réel liée aux Sénatoriales 2026.
+Le projet de campagne présidentielle 2027 constitue la **seconde grande campagne envisagée** dans *Capable*, après la Campagne du Réel liée aux Sénatoriales 2026.
 
-Ce chapitre est un état initial. Il doit évoluer à mesure que de nouvelles traces apparaissent.
+Ce chapitre examine la portée méthodologique durable de ce changement d'échelle. Les déclarations de lancement, actes accomplis, calendriers et résultats éventuels relèvent du [numéro en préparation](../editions/2026-10-09-en-preparation.md) et doivent être distingués de l'intention initiale.
 
 ## Changement d’échelle
 
@@ -100,30 +100,11 @@ observer
 
 Elle doit rester reproductible à plusieurs échelles et ne pas se réduire à une tournée personnelle du candidat.
 
-## Charnière du 7 octobre 2026
+## Un passage de campagne, pas une preuve de lancement
 
-Le 7 octobre est d'abord une échéance forte de la première campagne : la préparation du dépôt de la requête au Conseil constitutionnel avant 18 h.
+La séquence du 7 octobre 2026 marque historiquement la transition envisagée après le dépôt d'une requête relative aux sénatoriales. La distinction reste essentielle : **la continuité d'une méthode ne fait pas des deux campagnes un même objet**, et une annonce de campagne ne prouve ni son lancement effectif ni sa validation institutionnelle.
 
-La stratégie formulée le 4 octobre consiste à rendre visible, **après sécurisation du dépôt**, l'ouverture de la seconde campagne.
-
-Formule de travail :
-
-> **Une Campagne du Réel se poursuit devant le Conseil constitutionnel. Une autre campagne s'ouvre devant le pays.**
-
-Cette formulation distingue continuité méthodologique et identité des campagnes.
-
-## Priorités immédiates
-
-Jusqu'au dépôt :
-
-```text
-P0 — requête au Conseil constitutionnel + preuve du dépôt
-P1 — tout ce qui sécurise P0
-P2 — artefacts minimaux du 7 octobre
-P3 — sophistication technique ultérieure
-```
-
-Après le dépôt, la priorité peut basculer vers la matérialisation publique de la seconde campagne, de la Marche et de l'Observatoire.
+L'enchaînement détaillé des échéances, des actes accomplis et des intentions initiales doit être conservé dans le [numéro en préparation](../editions/2026-10-09-en-preparation.md) et les documents de campagne, plutôt que figé comme une liste de « priorités immédiates » devenues historiques.
 
 ## Coût électoral dédié minimal : hypothèse de travail
 
