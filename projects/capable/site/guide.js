@@ -50,13 +50,13 @@
       question: clean,
       history: history
     }).then(function (body) {
-      var answer = body && body.answer ? String(body.answer) : "Le Guide n'a pas pu formuler de réponse basée sur le corpus. Rien n'a été enregistré.";
+      var answer = body && body.answer ? String(body.answer) : "Le Guide n'a pas pu formuler de réponse basée sur le corpus. La question peut avoir été transmise au service distant.";
       turns.push({ role: "assistant", content: answer });
       saveTurns();
       render();
       if (status) status.textContent = "Réponse affichée. Aucun envoi à un tiers ; la politique de conservation du service distant doit être vérifiée.";
     }).catch(function () {
-      if (status) status.textContent = "Le Guide distant ne répond pas. Aucun message n'a été transmis.";
+      if (status) status.textContent = "Le Guide distant ne répond pas. La transmission ou la conservation de la requête par le serveur ne peuvent pas être déterminées.";
     });
   }
 
