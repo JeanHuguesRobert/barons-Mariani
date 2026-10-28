@@ -35,6 +35,12 @@ Le Livre doit donc éviter deux simplifications : “gratuit” = “sans valeur
 
 La bonne question est : **quelle capacité supplémentaire est effectivement mobilisée, par qui, à quelle fin, et avec quel coût ou quelle dépendance ?**
 
+## Quand les ressources ne suffisent pas
+
+La [Note de Campagne sur l'énergie, la mobilité et la logistique](../campaigns/corse-capable-energie.md) examine un assemblage possible : une production solaire disponible, du stockage, un trajet et un besoin de transport ne créent un service utile que s'ils peuvent être coordonnés, exploités dans le temps utile et contrôlés. Le [dossier EDF et Calacuccia](../../../research/cas_edf.md) interroge de son côté les architectures techniques, les coûts et la répartition de la valeur.
+
+Ces documents formulent des **hypothèses et propositions d'architecture**. Ils n'établissent pas à eux seuls la rentabilité d'un dispositif ni une responsabilité juridique d'opérateur. Ils rendent cependant concrète la différence entre possession de ressources, création d'une capacité utilisable et distribution de ses bénéfices.
+
 ## Le commun comme Machine à Rendre Capable
 
 Un commun ouvert peut augmenter la capacité de plusieurs acteurs sans être capturé par l’un d’eux. Mais son ouverture doit elle-même être testée : accessibilité, reproductibilité, portabilité, possibilité de fork, dépendances, gouvernance et continuité.
