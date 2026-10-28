@@ -15,7 +15,7 @@ language: fr
 ## Périmètre observé
 
 - **Livre : 11 chapitres** listés dans le [sommaire](../manuscript/README.md), relus et enrichis lors des passes précédentes.
-- **Magazine : 5 chroniques rédigées** : [autonomie](../magazine/2026-10-28-autonomie-corse.md), [Campagne du Réel](../magazine/2026-10-28-campagne-du-reel-et-presentations.md), [énergie et mobilité](../magazine/2026-10-28-energie-et-capacites-territoriales.md), [genèse](../magazine/2026-10-28-genese-capable.md), [procédures et effectivité](../magazine/2026-10-28-procedures-et-effectivite.md). Une [rétrospective des Notes](inventaire-notes-campagne-2026-10-28.md) existe comme **inventaire**, pas encore comme chronique indépendante.
+- **Magazine : 6 chroniques rédigées** : [autonomie](../magazine/2026-10-28-autonomie-corse.md), [Campagne du Réel](../magazine/2026-10-28-campagne-du-reel-et-presentations.md), [énergie et mobilité](../magazine/2026-10-28-energie-et-capacites-territoriales.md), [genèse](../magazine/2026-10-28-genese-capable.md), [procédures et effectivité](../magazine/2026-10-28-procedures-et-effectivite.md). Une [rétrospective narrative](../magazine/2026-10-28-retrospective-notes-de-campagne.md) complète désormais [l'inventaire de provenance](inventaire-notes-campagne-2026-10-28.md), distinct du texte de publication.
 - **Annexes : 8 dossiers**, répartis entre [A1–A4](../annexes/2026-10-28-dossiers-a1-a4.md) et [A5–A8](../annexes/2026-10-28-dossiers-a5-a8.md).
 - **Assemblage** : [projection candidate](../editions/2026-10-28-projection-candidate-n1.md) ; journal antérieur de l'[édition ouverte](../editions/2026-10-09-en-preparation.md).
 
@@ -35,7 +35,7 @@ language: fr
 
 ## Défauts et dettes prioritaires
 
-**P1 — Magazine : densité et statut de la rétrospective.** Les cinq textes existent, mais la rétrospective des Notes de Campagne est un tableau de travail plutôt qu'un récit indépendant. Pour satisfaire une double lecture, produire une chronique de synthèse qui n'altère pas les Notes signées.
+**P1 — Magazine : densité et statut de la rétrospective — PARTIELLEMENT RÉSOLU le 28 octobre.** Une [chronique narrative de synthèse](../magazine/2026-10-28-retrospective-notes-de-campagne.md) existe désormais aux côtés de l'inventaire et des six Notes. Elle conserve leurs attributions et inconnues. La revue de fidélité source par source reste à approfondir avant gel.
 
 **P1 — Vérifiabilité : pièces primaires.** Les Annexes A4 et A8 restent dépendantes des documents sources et de calculs non revus ; compléter les références officielles des amendements, les hypothèses économiques et les objections.
 
