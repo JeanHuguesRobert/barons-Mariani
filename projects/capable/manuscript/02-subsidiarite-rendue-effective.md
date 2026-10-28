@@ -64,6 +64,12 @@ La subsidiarité ascendante part des personnes et des collectifs concernés. Ell
 
 L'objectif n'est pas de déplacer tous les pouvoirs vers le bas : **il est d'organiser les coopérations au niveau où elles apportent des capacités, sans dépossession inutile**.
 
+## La compétence attribuée ne suffit pas à rendre capable
+
+La [Note de Campagne sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) invite à distinguer trois moments : **obtenir légalement la compétence de définir une règle**, pouvoir effectivement l'exercer, puis examiner **les effets de la règle** une fois appliquée. Ces étapes sont différentes : attribuer un pouvoir à une collectivité n'établit pas encore que ses habitants disposent des moyens d'en contrôler l'usage.
+
+La [Note du 27 octobre 2026](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md), écrite après le rejet sénatorial du projet constitutionnel, défend cette même distinction entre pouvoir des institutions et capacité politique des citoyens. Son appréciation de la négociation est une **analyse signée et circonstancielle**, non une démonstration générale tirée du seul scrutin.
+
 ## De Rousseau au débat corse : une application, pas une preuve historique
 
 Dans *Du contrat social* (1762, II, X), Rousseau écrit de la Corse : « J'ai quelque pressentiment qu'un jour cette petite Isle étonnera l'Europe. » Il la présente alors comme un pays « capable de législation ». L'étymologie d'*autonomie* (*autós*, soi-même ; *nómos*, loi) rend sensible la question contemporaine : comment un territoire peut-il participer à la définition des règles qui le gouvernent ? Ce rapprochement éclaire le débat, **sans attribuer à Rousseau notre conception juridique contemporaine de l'autonomie**.
