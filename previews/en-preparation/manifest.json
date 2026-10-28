@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "f47d743270e68a6a2ff3a0a69a2e1a57eb3959040084e54519a4449a4b36a684",
+      "source_sha256": "af2618d8d33d7efbf649575b683f09d0951ca6675e653f81cb607a8ca9fe5a11",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "a420d7a7cbe9f3e21e34cf02c0e4ae44f90f990021746cc369571d1d52fb9dea"
+          "sha256": "06af5c70e0c1aa019d7b8abe1e06282516c99154823ae74737d4282ca36df160"
         },
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
