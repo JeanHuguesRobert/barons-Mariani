@@ -88,3 +88,14 @@ git rev-parse HEAD; git status --short
 ```
 
 **Ne pas confondre** résultats de recherche dans les messages, occurrences dans l'état actuel et historique de contenu. Le statut exhaustif reste ouvert jusqu'à inspection de ce journal. Aucun texte n'est à renuméroter rétrospectivement.
+
+## Sédimentation effectuée — 28 octobre 2026
+
+Une première série de raccords narratifs, **réversibles et non doctrinaux**, a été intégrée aux chapitres du Livre :
+
+- `manuscript/04-liberte-egalite-fraternite-effectives.md` — traçabilité anti-mafieuse et tension entre protection et surveillance (commit `1029549`).
+- `manuscript/05-machines-et-correction.md` — GR20, quotas, exploration d'autres possibilités (commit `3ec9c70`).
+- `manuscript/06-fractalite-et-echelles.md` — comparaison montagne, statut de résident et énergie/logistique (commit `db5d81b`).
+- `manuscript/09-communs-et-moyens.md` — combinaison énergie, stockage, trajets et valeur locale ; renvoi au dossier technique EDF (commit `81c89c2`).
+
+**Limites :** ces ajouts ne valident pas les hypothèses empiriques des Notes et ne remplacent pas leurs dossiers probatoires. Les chapitres 02, 03 et 10 restent à confronter notamment à la Note du 27 octobre et au cas du statut de résident. **Aucun numéro gelé** et aucune publication HTML déclenchée.
