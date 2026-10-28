@@ -56,8 +56,24 @@ La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel éta
 - export machine-readable de la matrice ;
 - pour l'Observatoire, ne jamais assimiler contact, intérêt, intention, promesse, envoi et validation officielle.
 
-## Étape suivante
+## État constaté au 28 octobre 2026 — projection ≠ source
 
-Un agent de coding peut implémenter le site à partir de ce contrat, en réutilisant les conventions des autres Livres Vivants du dépôt.
+La première publication du site est désormais effective. Le point d'entrée `/en-preparation.html` est une **page d'accès** au texte de l'édition de travail, non une édition gelée ni la reproduction intégrale de celle-ci. Le document canonique courant de ce chantier reste `projects/capable/editions/2026-10-09-en-preparation.md`, avec son statut de brouillon et sa date d'observation propre. Les actualités du 26 et du 27 octobre sont documentées dans ce texte et sur la page d'accès, sans mise à jour automatique du Livre durable.
 
-La sécurisation du dépôt au Conseil constitutionnel est désormais un **jalon historique accompli** ; les priorités courantes du site doivent être dérivées de l’état du Corpus et des campagnes actives, sans réutiliser cette ancienne contrainte comme gate.
+Le Livre (`book.html`, PDF, EPUB) et le n°1 (`n1.html`) ont été promus dans la release du 27 octobre ; les contenus des pages historiques `annexes.html`, `cases.html`, `magazine.html` ont été conservés **sans preuve d'une régénération sémantique récente**. Leur provenance et leur éventuelle convergence demeurent à examiner : ne jamais les remplacer par une projection vide pour obtenir une symétrie de façade.
+
+Le Guide a fait l'objet d'une publication corrective le 28 octobre. Les tests publics de conversation sourcée et de préparation de brouillon sont réussis ; le profil `capable`, le mandat COP et la stratégie `doctrinal_synthesis` ont été validés sur Fracta2. La politique effective de conservation des requêtes et traces demeure non démontrée et son étude est différée, sans garantie de zéro rétention.
+
+## Matrice des prochaines propagations éditoriales
+
+| Élément du Corpus | Destination candidate | Statut et règle |
+| --- | --- | --- |
+| `projects/capable/editions/2026-10-09-en-preparation.md` | `en-preparation.html` et aperçu HTML versionné | Maintenir un accès traçable au texte courant ; ne pas qualifier d'édition finale |
+| `projects/capable/manuscript/` | `book.html`, PDF, EPUB | Texte durable : revue contradictoire des modifications, puis rendu déterministe et contrôle |
+| `projects/capable/manuscript/essai-quest-ce-que-la-politique.md` | Livre ou publication autonome | En atelier, non promu ; décision éditoriale explicite nécessaire |
+| `projects/capable/research/ccm-quest-ce-que-la-politique.md` | Annexes scientifiques, références | En cours de revue ; ne pas présenter comme annexe validée |
+| Archives déjà servies `magazine.html`, `annexes.html`, `cases.html` | Sources canoniques à retrouver | Provenance inconnue à ce stade : préserver, identifier, puis comparer avant régénération |
+
+La prochaine opération de fond est un **différentiel sémantique source-first**, non un déploiement systématique. Pour chaque proposition : source, date de validité, type (fait / interprétation / proposition / inconnu), destination, arbitrage et preuve après publication.
+
+Suivi : [audit différentiel du 27 octobre](freshness-audit-2026-10-27.md) et [Cognitive Packet #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
