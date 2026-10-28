@@ -41,6 +41,12 @@ Le Corpus suit alors le chemin : écart → signal → connaissance → autorit�
 
 > **L’effectivité n’interdit pas l’erreur ; elle exige que l’erreur observable puisse devenir matière à correction.**
 
+## Une exigence symétrique
+
+La [Note sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) fournit un test particulièrement utile : une règle nationale uniforme peut produire localement des effets inégaux ; inversement, une règle territoriale différenciée peut créer à son tour des obstacles ou des inégalités. **La provenance de la règle ne dispense aucune des deux de l'examen de ses effets.**
+
+Avant d'attribuer un résultat à une mesure, il faut expliciter le problème observé, l'effet attendu, les indicateurs pertinents et les effets indésirables possibles. Si la règle n'a pas été adoptée ni appliquée, l'analyse reste **prospective** : elle ne démontre ni succès ni échec effectif.
+
 ## Une illustration datée, non confondue avec le principe
 
 L'automne 2026 a fourni plusieurs occasions de vérifier cette distinction : contribution à une commission parlementaire, demande d'un format documentaire exploitable, transcription automatique d'une audition et traçabilité des transmissions. **La preuve d'une transmission ou d'une capacité technique n'est pas la preuve de l'examen institutionnel ni de l'effet politique obtenu.**
