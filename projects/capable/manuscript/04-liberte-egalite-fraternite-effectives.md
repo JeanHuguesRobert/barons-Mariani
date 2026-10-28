@@ -52,3 +52,5 @@ Cette proposition **n'est pas un résultat empirique démontré**. Elle montre p
 ## Une boussole, pas une addition
 
 Une action peut améliorer un axe et dégrader un autre. Le Corpus refuse donc un score global qui masquerait ces tensions.
+
+Il faut dès lors pouvoir révéler ces écarts, explorer d'autres solutions et stabiliser celles qui fonctionnent sans confisquer la capacité d'agir : telle est la fonction des Trois Machines examinées ensuite.
