@@ -26,7 +26,7 @@ provenance:
 
 Il peut qualifier une personne, un collectif, une commune, un territoire, une institution, un État ou un réseau.
 
-À chaque fois, il faut compléter la phrase : **capable de quoi ? pour qui ? sous quelles conditions ?** Sans ce complément, le mot devient vide.
+À chaque fois, il faut compléter la phrase : **capable de quoi ? pour qui ? sous quelles conditions ?** Sans ce complément, le mot devient vide. Cette définition conduit à une autre question : lorsqu'un pouvoir est attribué à une institution, qui possède effectivement les moyens d'agir et de corriger ses décisions ? C'est l'objet du chapitre sur la subsidiarité.
 
 ## Une généalogie, pas une invention instantanée
 
