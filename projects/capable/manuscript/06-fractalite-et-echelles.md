@@ -45,3 +45,5 @@ Une chronologie, une matrice d’effectivité, un Cognitive Packet ou un Reality
 > **Mêmes primitives, autres instances.**
 
 La fractalité recherchée est une économie de primitives, pas une réduction du Réel à un seul modèle.
+
+Une campagne politique offre un terrain supplémentaire pour éprouver ce changement d'échelle, à condition de distinguer les hypothèses posées avant l'action, les traces recueillies et les résultats constatés.
