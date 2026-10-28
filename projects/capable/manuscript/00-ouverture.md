@@ -24,7 +24,7 @@ provenance:
 
 Un droit peut exister sans pouvoir être exercé. Une compétence peut être attribuée sans que les moyens de l’utiliser existent. Une institution peut recevoir davantage de pouvoir sans que les personnes concernées disposent elles-mêmes d’une capacité supplémentaire.
 
-*Capable* part de cet écart.
+*Capable* part de cet écart. Ce Livre commence par nommer la capacité, puis examine comment la rendre effective, à différentes échelles, avant de confronter la méthode à des cas et à des campagnes documentées.
 
 > **Qu’est-ce qui est réellement possible, pour qui, dans quelles conditions, avec quels effets et avec quelle possibilité de correction ?**
 
