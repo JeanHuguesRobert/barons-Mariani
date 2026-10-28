@@ -97,7 +97,42 @@ def to_html(md, source_path="", included=()):
             lines.append("<" + kind + ">" + "".join(items) + "</" + kind + ">")
             items.clear()
             kind = None
+    code_lines = []
+    table_rows = []
+    in_code = False
+    def flush_table():
+        if not table_rows:
+            return
+        rows = [r.strip().strip("|").split("|") for r in table_rows]
+        if len(rows) > 1 and all(re.fullmatch(r"[:\\- ]+", c.strip()) for c in rows[1]):
+            rows.pop(1)
+        html_rows = []
+        for n, cells in enumerate(rows):
+            tag = "th" if n == 0 else "td"
+            html_rows.append("<tr>" + "".join("<" + tag + ">" + inline(c.strip()) + "</" + tag + ">" for c in cells) + "</tr>")
+        lines.append("<div class='table-scroll'><table>" + "".join(html_rows) + "</table></div>")
+        table_rows.clear()
     for line in md_body(md).splitlines():
+        if line.lstrip().startswith("```"):
+            flush()
+            flush_table()
+            if in_code:
+                lines.append("<pre><code>" + escape("\\n".join(code_lines)) + "</code></pre>")
+                code_lines.clear()
+            in_code = not in_code
+            continue
+        if in_code:
+            code_lines.append(line)
+            continue
+        if line.strip().startswith("|") and line.strip().endswith("|"):
+            flush()
+            table_rows.append(line)
+            continue
+        flush_table()
+        if line.startswith("> "):
+            flush()
+            lines.append("<blockquote>" + inline(line[2:]) + "</blockquote>")
+            continue
         heading = re.match(r"^(#{1,6})\s+(.+)$", line)
         bullet = re.match(r"^\s*[-*]\s+(.+)$", line)
         numbered = re.match(r"^\s*\d+\.\s+(.+)$", line)
@@ -117,6 +152,9 @@ def to_html(md, source_path="", included=()):
             flush()
             lines.append("<p>" + inline(line) + "</p>")
     flush()
+    flush_table()
+    if in_code:
+        lines.append("<pre><code>" + escape("\\n".join(code_lines)) + "</code></pre>")
     return "\n".join(lines)
 
 def source_anchor(path):
@@ -146,7 +184,7 @@ def main():
             sections.append(f"<section id='{source_anchor(path)}'><h2>{escape(title)}</h2>"
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
                 + to_html(data.decode("utf-8"), path, included) + "</section>")
-        css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
+        css = "<style>body{font:17px/1.65 Georgia,serif;max-width:820px;margin:35px auto;padding:0 20px;color:#202733}h1,h2,h3{font-family:system-ui}h2{margin-top:2em}section{border-top:1px solid #ddd}blockquote{border-left:3px solid #888;padding-left:1em;color:#454545}pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f4f4f4;padding:1em}.table-scroll{overflow-x:auto}table{border-collapse:collapse;width:100%}td,th{padding:.4em;border:1px solid #ccc;text-align:left}small,.meta{color:#555}.space{height:.4em}p{overflow-wrap:anywhere}</style>"
         book_digest = digest(json.dumps(inputs, sort_keys=True).encode("utf-8"))
         body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · empreinte des sources {book_digest}</p>"
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
