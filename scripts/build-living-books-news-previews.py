@@ -13,10 +13,32 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "previews" / "en-preparation"
 BOOKS = {
     "capable": {
-        "edition": "projects/capable/editions/2026-10-09-en-preparation.md",
-        "chapters": ["projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
-                     "projects/capable/manuscript/03-effectivite.md",
-                     "projects/capable/manuscript/05-machines-et-correction.md"],
+        "edition": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
+        "chapters": [
+            "projects/capable/manuscript/00-ouverture.md",
+            "projects/capable/manuscript/01-capable-est-un-adjectif.md",
+            "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
+            "projects/capable/manuscript/03-effectivite.md",
+            "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
+            "projects/capable/manuscript/05-machines-et-correction.md",
+            "projects/capable/manuscript/06-fractalite-et-echelles.md",
+            "projects/capable/manuscript/07-campagnes-comme-reality-tests.md",
+            "projects/capable/manuscript/08-presidentielle-2027.md",
+            "projects/capable/manuscript/09-communs-et-moyens.md",
+            "projects/capable/manuscript/10-capable-test.md",
+        ],
+        "magazine": [
+            "projects/capable/magazine/2026-10-28-autonomie-corse.md",
+            "projects/capable/magazine/2026-10-28-campagne-du-reel-et-presentations.md",
+            "projects/capable/magazine/2026-10-28-energie-et-capacites-territoriales.md",
+            "projects/capable/magazine/2026-10-28-genese-capable.md",
+            "projects/capable/magazine/2026-10-28-procedures-et-effectivite.md",
+            "projects/capable/magazine/2026-10-28-retrospective-notes-de-campagne.md",
+        ],
+        "annexes": [
+            "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
+            "projects/capable/annexes/2026-10-28-dossiers-a5-a8.md",
+        ],
     },
     "suicide-corse": {
         "edition": "projects/suicide-corse/editions/2026-10-09-n4-en-preparation.md",
@@ -73,12 +95,15 @@ def main():
     index = ["<h1>Livres Vivants — versions publiques en préparation</h1>",
              "<p>Versions évolutives, non gelées. Les éditions gelées restent distinctes.</p>"]
     for name, cfg in BOOKS.items():
-        paths = [cfg["edition"]] + cfg["chapters"]
+        paths = [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", [])
         sections, inputs = [], []
         for path in paths:
             data = (ROOT / path).read_bytes()
             inputs.append({"path": path, "sha256": digest(data)})
-            title = "État éditorial" if path == cfg["edition"] else Path(path).stem
+            title = ("Sommaire candidat" if path == cfg["edition"] else
+                     "Livre — " + Path(path).stem if path in cfg["chapters"] else
+                     "Magazine — " + Path(path).stem if path in cfg.get("magazine", []) else
+                     "Annexes — " + Path(path).stem if path in cfg.get("annexes", []) else Path(path).stem)
             sections.append(f"<section><h2>{escape(title)}</h2>"
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
                 + to_html(data.decode("utf-8")) + "</section>")
