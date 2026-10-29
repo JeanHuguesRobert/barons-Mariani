@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "3b1d50cfaf6456fc0b6e704458eb2cb89a3de3d203299e35c9162b1944cfcc1a",
+      "source_sha256": "c08e26dcf037cac0b04d614cce1241e37cbd084d89e8fc6e46627ecf7e13601c",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
@@ -17,7 +17,7 @@
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
-          "sha256": "200c5a0c2342882b1c2f390de65d7b74bf5d141de83a86a0aaca8b74033a643d"
+          "sha256": "71e7eca9f87b4a901c9797ca646cd6e7c45e4d19b3655f242223decef127fe04"
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
