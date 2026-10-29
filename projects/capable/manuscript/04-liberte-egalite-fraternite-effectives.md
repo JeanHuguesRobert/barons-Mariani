@@ -23,6 +23,15 @@ provenance:
 
 # Liberté, Égalité, Fraternité effectives
 
+## De la devise à une proposition de République
+
+L'auteur se réclame de la **République et de ses principes fondamentaux**, sans considérer son organisation institutionnelle actuelle comme nécessaire ou intangible. Il propose d'explorer une **forme républicaine alternative** où droits, libertés et souveraineté populaire seraient garantis non seulement par les textes mais par des **capacités effectives d'exercice, de contrôle et de correction**. L'enjeu n'est pas de trouver des gouvernants supposés sages ou vertueux : il est de concevoir des règles, contre-pouvoirs, dispositifs de participation directe, de traçabilité, de recours et de révision qui demeurent robustes face à la faillibilité, aux intérêts et aux abus des acteurs.
+
+Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès aux droits et au pouvoir**, **fraternité et non-abandon**, **sécurité proportionnée**, **autonomie individuelle et collective**, **transparence et responsabilité d'effectivité**, **correction pacifique des institutions**, **protection des minorités et des personnes contre les abus y compris majoritaires**, et **révisabilité intergénérationnelle**. La démocratie directe ne dispense ni de l'État de droit ni des protections contre l'arbitraire collectif. « Rendre capable » ne signifie pas obliger à agir : le non-usage, le choix, la sortie et le recours comptent aussi.
+
+Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'[amendement d'effectivité](../../../research/autonomia/amendement_effectivite_article_72-5.md) ne modifie ni le libellé ni le statut parlementaire de cette proposition.
+
+
 *Capable* lit la devise républicaine comme trois axes d’effectivité, sans les réduire à un score unique.
 
 ## Liberté effective
