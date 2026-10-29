@@ -30,6 +30,12 @@ provenance:
 
 # Capable
 
+## Positionnement institutionnel et adresse (29 octobre 2026)
+
+Le point d'entrée initial du référentiel Capable est **https://capable.acorsica.org** (cible éditoriale et technique à rendre effective). Cette implantation s'inscrit dans la continuité des contributions de C.O.R.S.I.C.A. à la réflexion constitutionnelle sur l'autonomie de la Corse et l'article 72-5, dans le cadre de la société civile. Les traces parlementaires doivent être liées et leur portée qualifiée exactement avant publication.
+
+Capable se définit désormais prioritairement comme **doctrine, méthodes et outils ouverts d'Autonomie de Capacité**, susceptibles d'être réutilisés par des personnes et collectifs sans affiliation partisane ni soutien à une candidature. Le bénévolat et les biens communs sont des modalités centrales de contribution. C.O.R.S.I.C.A. peut en être un contributeur et un éditeur ; la candidature présidentielle personnelle reste juridiquement, financièrement et éditorialement distincte. **LePP / U Pertitellu** relève d'un chantier patrimonial distinct, déplacé vers `lepp.baronsmariani.org` ; les anciennes adresses `capable.lepp.fr` sont non canoniques.
+
 ## Objet
 
 **Capable** est le nom d’un mouvement civique et politique qui projette dans l’action publique plusieurs concepts déjà présents dans le Corpus : **Autonomie de Capacité**, **Démocratie capable**, **Machine à Explorer**, **Machine à Empêcher**, **Machine à Rendre Capable**, **Potentique** et exigence d’**effectivité**.
