@@ -22,6 +22,14 @@ source_documents:
 
 **De quoi voulons-nous être capables ?** Le Livre examine comment droits, ressources, règles et institutions se transforment — ou non — en capacités réellement accessibles et corrigibles. Le Magazine suit les événements, les Notes de Campagne, leurs objections et leurs suites. Les Annexes permettent de vérifier les affirmations et de retrouver les sources, sans prétendre faire disparaître les inconnues.
 
+## Continuité des éditions et étude de la devise
+
+Le chapitre « Liberté, Égalité, Fraternité effectives » s'appuie sur l'[étude complète v2.5](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et son [audit](../../../research/devise_republicaine/audit_final_consolidation_v2_5.md). Le Livre donne accès à une lecture intelligible ; les annexes documentent les sources, les objections et les limites de la recherche. L'étude reste un document de travail, non évalué par les pairs.
+
+Le Magazine suit séparément les événements politiques datés : rejet sénatorial d'octobre 2026, négociations et propositions de consultation. Ces actualités ne modifient pas rétroactivement l'histoire de la devise.
+
+**Un Livre Vivant peut être corrigé dans un numéro ultérieur.** Les corrections doivent identifier le texte d'origine, le changement et sa raison. Une édition gelée demeure identifiable ; aucun changement substantiel ne doit être fait silencieusement. Cette projection reste en préparation, non gelée.
+
 ## I. Livre — récit durable
 
 1. [Ouverture — De quoi voulons-nous être capables ?](../manuscript/00-ouverture.md)
