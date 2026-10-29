@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "e03187e058adc3f20c94b1fe66b71ef574b3981a12e7742b351ebb670289f091",
+      "source_sha256": "f7ff0e1399ac1ed670d48ad3f9c5ee780eed2209279b5722577eb33735acb6ab",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
@@ -13,7 +13,7 @@
         },
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
-          "sha256": "27f732aab0722376e19a693228878d70a14588c49ad6bcd37e81bc1c1012967e"
+          "sha256": "daa44889f10a12b81d329f06440b93f6c251612131fe4f1530b856d6dd364dc6"
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
