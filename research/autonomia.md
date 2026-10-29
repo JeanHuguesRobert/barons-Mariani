@@ -37,6 +37,15 @@ provenance:
 [Paoli et la France révolutionnaire : étude des principes et de leur effectivité](autonomia/paoli_france_revolutionnaire_effectivite.md). Cette passerelle ouvre un dossier probatoire autonome : elle ne constitue pas une preuve d'influence constitutionnelle directe ni une assimilation des normes de 1793 aux normes actuelles.
 
 # Autonomia[^titre]
+
+## République d'effectivité — proposition de l'auteur (29 octobre 2026)
+
+L'auteur se réclame de la République et de sa devise, sans considérer l'organisation institutionnelle actuelle comme intangible. Il propose d'explorer une **forme républicaine alternative** qui garantisse les droits, les libertés et la souveraineté populaire par des **capacités effectives d'exercice, de contrôle et de correction**, et non par la seule proclamation de principes ou la vertu présumée des gouvernants.
+
+Cette hypothèse institutionnelle articule démocratie directe, contrôle des délégations, traçabilité, recours accessibles, correction pacifique des institutions, autonomie individuelle et collective, sécurité proportionnée, égalité d'accès aux droits, fraternité et non-abandon. **La souveraineté populaire ne doit pas supprimer les garanties des personnes et des minorités contre les abus majoritaires.** Les citoyens doivent pouvoir agir ou ne pas agir, comprendre les choix, révoquer des mandats et remettre en question les règles. La révision par les générations futures fait partie des garanties recherchées.
+
+La prétention à mieux garantir les droits que l'organisation actuelle est **une proposition à éprouver**, et non une supériorité démontrée. Les critères incluent les effets concrets, les dépendances arbitraires, les coûts et délais, la résistance aux abus, les possibilités de contestation et de réparation. Cette note ne modifie ni le libellé ni le statut de l'amendement Baron Mariani relatif à l'effectivité de la devise.
+
 <!-- BEGIN_AUTO: trails -->
 > 🧭 **Trail: From Autonomia to DHITL**
 > ➡️ Next: [The Generalized Tocqueville Law: Progress, Rising Expectations, and the Structural Production of Dissatisfaction](tocqueville_law.md)
