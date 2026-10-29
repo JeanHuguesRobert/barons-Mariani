@@ -229,6 +229,13 @@ Enfin, un statut autonome n'est pas, par définition, favorable à tous. Il peut
 
 **Pour vérifier.** [Projet transmis au Sénat n° 782](https://www.senat.fr/leg/pjl25-782.html) ; [amendement citoyen v0.7, texte de référence](../autonomia/amendement_effectivite_article_72-5.md) ; [CGCT, article L. 4422-16](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045210127/) et L. 4422-17. Au **21 octobre 2026**, cette version citoyenne n'est pas attestée comme amendement parlementaire déposé ou adopté. Les objections de redondance et de justiciabilité sont examinées plus loin, sans présumer leur solution.
 
+### Actualisation procédurale du 29 octobre 2026 — rejet du 26 octobre
+
+**Attention au temps du texte.** Le présent chapitre analyse le projet d'article 72-5 **tel qu'il avait été transmis au Sénat en juin 2026**, car c'est à cette rédaction que se rapporte la proposition citoyenne d'amendement v0.7 datée du 21 octobre. Depuis, le **26 octobre 2026**, le Sénat a **rejeté l'ensemble du projet de loi constitutionnelle** (scrutin public n° 34 : 181 contre, 134 pour et 25 abstentions). Ce résultat ne vaut ni adoption de l'amendement ni entrée en vigueur de l'article 72-5. Le **27 octobre 2026**, le Gouvernement a annoncé vouloir engager une nouvelle concertation ; son communiqué précise que, selon lui, le rejet du texte modifié ne doit pas être assimilé à un rejet de principe de l'autonomie. Il s'agit de la position officielle du Gouvernement, non d'une conséquence juridique du scrutin.
+
+Sources primaires : [Sénat, scrutin n° 34 du 26 octobre 2026](https://www.senat.fr/scrutin-public/2026/scr2026-34.html) ; [Gouvernement, communiqué du 27 octobre 2026](https://www.ecologie.gouv.fr/presse/autonomie-corse-apres-rejet-du-texte-senat-francoise-gatel-engagera-rapidement-concertation). Toute nouvelle version parlementaire de l'article 72-5 exigerait de **recontrôler le support exact et la numérotation** de l'amendement, sans réécrire rétrospectivement la v0.7.
+
+
 ## VI. Du symbole à l'institution : les questions qui restent ouvertes
 
 Les générations passées n'ont pas composé la devise dans le seul but de préparer nos débats actuels. Et rien ne garantit que ses significations futures resteront enfermées dans les catégories que nous connaissons aujourd'hui. Il faut donc traiter le futur de la devise **comme un champ de possibilités à examiner**, non comme une promesse de progrès automatique.
