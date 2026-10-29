@@ -36,6 +36,14 @@ Le point d'entrée initial du référentiel Capable est **https://capable.acorsi
 
 Capable se définit désormais prioritairement comme **doctrine, méthodes et outils ouverts d'Autonomie de Capacité**, susceptibles d'être réutilisés par des personnes et collectifs sans affiliation partisane ni soutien à une candidature. Le bénévolat et les biens communs sont des modalités centrales de contribution. C.O.R.S.I.C.A. peut en être un contributeur et un éditeur ; la candidature présidentielle personnelle reste juridiquement, financièrement et éditorialement distincte. **LePP / U Pertitellu** relève d'un chantier patrimonial distinct, déplacé vers `lepp.baronsmariani.org` ; les anciennes adresses `capable.lepp.fr` sont non canoniques.
 
+## Sens premier de « capable » — réponse à la Machine à Empêcher
+
+**« Capable » est d'abord un adjectif**, non une marque partisane ni un titre réservé à un mouvement. Il qualifie une personne, un collectif, une institution, une méthode ou un outil **dans la mesure où des possibilités deviennent des capacités d'action effectivement accessibles et exerçables**.
+
+La **Machine à Empêcher** désigne les agencements qui entravent ou neutralisent ces capacités ; la **Machine à Rendre Capable** désigne le travail constructif qui transforme les conditions d'action. La formule de synthèse est : **« Face à la Machine à Empêcher, rendre capable. »** Elle ne réduit pas la doctrine à une dénonciation : chaque proposition doit pouvoir être mise à l'épreuve par ses effets vérifiables sur les capacités.
+
+L'adjectif ne classe pas les personnes selon leur valeur ou une prétendue supériorité. Il qualifie les conditions et effets de leur pouvoir d'agir, et peut s'appliquer à des initiatives indépendantes de C.O.R.S.I.C.A., d'un parti ou d'une candidature particulière.
+
 ## Objet
 
 **Capable** est le nom d’un mouvement civique et politique qui projette dans l’action publique plusieurs concepts déjà présents dans le Corpus : **Autonomie de Capacité**, **Démocratie capable**, **Machine à Explorer**, **Machine à Empêcher**, **Machine à Rendre Capable**, **Potentique** et exigence d’**effectivité**.
