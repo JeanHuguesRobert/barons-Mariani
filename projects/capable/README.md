@@ -52,6 +52,12 @@ Deux formules de l'auteur structurent la doctrine : **« La Liberté, c'est prop
 
 Point de vigilance analytique, sans modifier les formules de l'auteur : la notion de sécurité doit être définie et rendue contestable pour que l'« ordre sécuritaire » ne devienne pas lui-même une Machine à Empêcher. Un dispositif de protection doit expliciter menace, proportionnalité, subsidiarité, contrôles démocratiques et effets réels sur les capacités de chacun. Il s'agit de propositions doctrinales à discuter et tester, pas de conclusions juridiques déjà acquises.
 
+## Opposition à la « République des Sages » (29 octobre 2026)
+
+L'auteur se déclare **en opposition frontale avec l'idée d'une « République des Sages »**, entendue comme un système qui confierait le pouvoir à des personnes supposées sages ou vertueuses, et ferait dépendre le bon gouvernement de leurs qualités morales. Cette opposition ne revient pas à déprécier la sagesse personnelle ni l'expertise : elle conteste que l'une ou l'autre constitue une garantie structurelle suffisante contre l'abus de pouvoir.
+
+L'alternative recherchée est **institutionnelle, systémique et opératoire** : concevoir des règles, incitations, capacités de contrôle, recours et possibilités de correction qui continuent à fonctionner lorsque les acteurs sont faillibles, intéressés ou malveillants. L'exigence de démocratie directe porte notamment sur la capacité effective des personnes concernées à contrôler et corriger l'exercice du pouvoir. Une telle robustesse est un objectif à tester, non une promesse d'infaillibilité institutionnelle.
+
 ## Objet
 
 **Capable** est le nom d’un mouvement civique et politique qui projette dans l’action publique plusieurs concepts déjà présents dans le Corpus : **Autonomie de Capacité**, **Démocratie capable**, **Machine à Explorer**, **Machine à Empêcher**, **Machine à Rendre Capable**, **Potentique** et exigence d’**effectivité**.
