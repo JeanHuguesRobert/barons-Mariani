@@ -30,6 +30,12 @@ provenance:
 
 # Capable
 
+## République et effectivité — proposition institutionnelle
+
+Capable se réclame des principes de la République sans considérer les institutions actuelles comme indépassables. La proposition explore des garanties effectives de liberté, d'égalité, de fraternité et de souveraineté populaire : participation directe, contrôle des mandats, recours, traçabilité et correction pacifique. Elle vise une architecture robuste face aux erreurs et aux abus de pouvoir, sans présupposer la sagesse des gouvernants. Elle protège également les droits individuels et les minorités contre l'arbitraire majoritaire et préserve la possibilité de réviser les institutions.
+
+La meilleure protection espérée reste une hypothèse à vérifier par ses effets, non un résultat acquis. Le texte de l'amendement constitutionnel reste distinct et inchangé.
+
 ## Positionnement institutionnel et adresse (29 octobre 2026)
 
 Le point d'entrée initial du référentiel Capable est **https://capable.acorsica.org** (cible éditoriale et technique à rendre effective). Cette implantation s'inscrit dans la continuité des contributions de C.O.R.S.I.C.A. à la réflexion constitutionnelle sur l'autonomie de la Corse et l'article 72-5, dans le cadre de la société civile. Les traces parlementaires doivent être liées et leur portée qualifiée exactement avant publication.
