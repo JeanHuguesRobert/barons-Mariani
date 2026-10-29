@@ -83,3 +83,13 @@ Le Guide a fait l'objet d'une publication corrective le 28 octobre. Les tests pu
 La prochaine opération de fond est un **différentiel sémantique source-first**, non un déploiement systématique. Pour chaque proposition : source, date de validité, type (fait / interprétation / proposition / inconnu), destination, arbitrage et preuve après publication.
 
 Suivi : [audit différentiel du 27 octobre](freshness-audit-2026-10-27.md) et [Cognitive Packet #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
+## Hébergement mutualisé Fracta2 — décision du 29 octobre 2026
+
+**Choix de plateforme :** héberger le site associé au Livre Vivant Capable sur **Fracta2**, en réutilisant la chaîne d'hébergement prévue pour `jhn.baronsmariani.org`, plutôt que de dépendre de Netlify. Conserver l'URL éditoriale canonique **`https://capable.acorsica.org`** ; mutualiser le socle d'exploitation, **pas** les identités publiques, mandats, données ou secrets.
+
+**Réutilisation recherchée :** même reverse proxy / terminaison TLS, administration des domaines, supervision, mécanisme de build et de déploiement, sauvegarde et retour arrière ; un hôte virtuel / routage propre à Capable et un répertoire d'artefacts distinct. Le contenu statique (Livre, Magazine, annexes, éditions) ne doit pas attendre l'achèvement des services dynamiques JHN. Les éventuels services conversationnels/API sont isolés et raccordés seulement après vérification des mandats et des protections.
+
+**Recette nécessaire avant mise en service :** inventorier les services et ports déjà employés par JHN sur Fracta2, contrôler le Caddyfile réel et les droits d'accès ; choisir le répertoire de publication et les permissions ; valider DNS, certificat, réponse HTTP, liens, empreinte du manifeste et publication `en-preparation` ; tester rollback et absence de régression pour JHN. Corriger les anciennes URL `capable.lepp.fr` et les balises canonical, mais ne pas supposer que le DNS ou le déploiement sont déjà effectifs.
+
+**Coordination :** publication des Livres Vivants dans `barons-Mariani#112` ; évolution de l'identité JHN dans `inseme#33` et migration de LePP dans `inseme#59`. Ne pas créer un second moteur de publication ni intervenir sur la production sans contrôle du socle partagé.
