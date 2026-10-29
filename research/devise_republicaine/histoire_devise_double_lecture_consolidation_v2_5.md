@@ -4,7 +4,7 @@ subtitle: "De la Révolution française à la proposition d'amendement Baron Mar
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
-last_modified_at: "2026-10-22"
+last_modified_at: "2026-10-29"
 license: "CC BY-SA 4.0"
 language: fr
 version: "2.5-full-editorial-pass-working"
