@@ -941,6 +941,17 @@ La correction est un contenu de première classe.
 
 ---
 
+### 16.1. Portée générique et correction entre numéros
+
+**Cette règle appartient à l'architecture commune de tous les Livres Vivants, et non à un projet particulier.** *Capable*, *Suicide Corse*, *Rise & Fall*, *Diaspora* et les autres instances héritent des mêmes distinctions : le **Livre** transmet les acquis durables dans une lecture intelligible ; les **annexes du Livre** conservent sources, détails, objections et limites ; le **Magazine** présente le delta daté (faits nouveaux, interventions, débats, rectifications). Les autres faces, site, agent et collecte, complètent cette architecture sans en remplacer les responsabilités.
+
+**Politique de version :** le Corpus et une édition candidate non gelée peuvent être révisés ; une édition gelée reste un témoin stable. Une erreur identifiée peut être signalée immédiatement par un erratum traçable ; le prochain numéro reprend, explique ou révise le point concerné avec renvoi à l'édition d'origine. La possibilité de corriger plus tard **ne justifie pas** de publier sciemment une erreur déterminante, mais elle interdit de faire d'une perfection documentaire impossible un préalable universel à chaque numéro.
+
+**Régimes d'écriture :** un ouvrage analytique présente preuves, incertitudes et objections ; une chronique d'opinion ou une intervention politique attribuée peut exprimer fermement convictions et finalités, sans dilution automatique par des réserves stylistiques répétées. **Les faits restent soumis à la même exigence de véracité dans tous les genres.** La séparation des genres est valable pour tous les Livres Vivants, même lorsqu'ils ne sont pas politiques.
+
+**Recette d'édition commune :** contrôler les sources et leur date ; qualifier Livre/Magazine/annexe ; établir le delta depuis le numéro précédent ; vérifier les liens, la lisibilité et l'état de publication ; conserver la provenance et le statut exact de l'édition ; documenter les corrections ultérieures. Les exemplaires, supports et rythmes propres à chaque Livre restent libres.
+
+
 ## 17. IA : transformation sans souveraineté épistémique
 
 L'IA peut contribuer à :
