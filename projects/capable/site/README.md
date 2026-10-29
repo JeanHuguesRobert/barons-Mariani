@@ -1,6 +1,12 @@
-# capable.lepp.fr — contrat de publication
+# Capable — contrat de publication
 
-Domaine cible : **https://capable.lepp.fr**
+**Adresse de départ retenue le 29 octobre 2026 : https://capable.acorsica.org**.
+
+Ancienne cible `capable.lepp.fr` : référence historique à migrer, non canonique. L'hébergement/délégation DNS et l'effectivité HTTP de la nouvelle adresse restent à vérifier ; la décision éditoriale ne vaut pas déploiement.
+
+Le rattachement à `acorsica.org` marque la continuité des travaux de société civile de C.O.R.S.I.C.A. sur l'autonomie de la Corse (article 72-5) et des contributions transmises à la commission des lois de l'Assemblée nationale. La forme exacte de l'intégration parlementaire doit rester étayée par les pièces sources avant toute affirmation publique plus précise.
+
+Capable est un référentiel ouvert de **doctrine, méthodes et outils d'Autonomie de Capacité**, réutilisable sans adhésion à un parti ou soutien à une candidature. L'activité éditoriale associative et la candidature présidentielle personnelle restent distinctes quant aux responsabilités, moyens et obligations électorales.
 
 ## MVP
 
