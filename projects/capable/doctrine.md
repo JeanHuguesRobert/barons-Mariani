@@ -30,7 +30,7 @@ provenance:
 
 ## Fonction
 
-Ce document ne remplace pas les textes sources. Il sert de **routeur doctrinal** pour le mouvement Capable.
+Ce document ne remplace pas les textes sources. Il sert de **routeur doctrinal** pour les usages de l'adjectif *capable*, les méthodes et outils ouverts qui en découlent, ainsi que leurs projections civiques, dont le mouvement annoncé en 2026.
 
 ```text
 Capable
@@ -46,6 +46,15 @@ Capable
 ├── effectivité
 └── projections institutionnelles et électorales
 ```
+
+## Distinctions indispensables — clarification du 29 octobre 2026
+
+- **Définition opératoire de la liberté (proposition de l'auteur)** : « La Liberté, c'est proportionnel à ce qu'on est effectivement capable de faire. » La proportionnalité est une orientation d'évaluation des capacités réelles, **pas une formule quantitative établie** ; le nombre, la qualité, la compatibilité et les conditions d'accès aux capacités doivent être examinés.
+- **Limite interpersonnelle proposée** : « La Liberté des Uns s'arrête à la Sécurité des Autres. » La sécurité invoquée doit être spécifiée (dommage, menace, preuve, proportionnalité, contrôle) pour ne pas légitimer une Machine à Empêcher sous prétexte de protection.
+- **Responsabilité et opérationnalité** : l'imputabilité s'examine selon les capacités de discernement, de contrôle et les contraintes concrètes ; nul besoin de résoudre métaphysiquement le libre arbitre. Cette proposition descriptive ne prétend pas abolir les distinctions entre responsabilité morale, pénale et civile.
+- **Création** : « Pas d'Art sans Ordre » / « La Création, c'est le Chaos Ordonné » ; art signifie toute création, ordre s'oppose ici au chaos et non à la liberté. Il s'agit d'une proposition en philosophie de la création, pas d'une justification automatique de l'autorité politique.
+- **Pouvoir politique** : opposition déclarée au gouvernement des philosophes-rois ou à la « République des Sages », au profit de garanties institutionnelles robustes à la faillibilité des acteurs. **Popper, Pettit, Sen, Dewey, Ostrom, Montesquieu et Madison sont des rapprochements de lecture, non des validations de cette synthèse**, et leur doctrines ne sont pas interchangeables.
+- **Degré d'originalité** : fondements souvent connus ; originalité de la synthèse et des dispositifs opératoires à **établir**, sans prétention à une philosophie entièrement inédite.
 
 ## Sources principales
 
