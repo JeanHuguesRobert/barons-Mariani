@@ -48,7 +48,7 @@ L'adjectif ne classe pas les personnes selon leur valeur ou une prétendue supé
 
 Deux formules de l'auteur structurent la doctrine : **« La Liberté, c'est proportionnel à ce qu'on est effectivement capable de faire »** et **« La Liberté des Uns s'arrête à la Sécurité des Autres »**. La première lie liberté et capacités effectives ; la seconde propose la sécurité d'autrui comme borne des actions possibles, à distinguer de la formule usuelle sur les libertés concurrentes.
 
-**« Pas d'Art sans Ordre »** exprime une troisième hypothèse : un ordre peut constituer une condition positive de création, de coopération et de liberté effective, et non sa seule restriction.
+**« Pas d'Art sans Ordre »** oppose ici **l'ordre au chaos**, et non l'ordre à la liberté. **« Art » désigne toute création**, et non seulement les beaux-arts. La formule s'explicite par **« La Création, c'est le Chaos Ordonné. »** Le chaos figure la multiplicité des possibles ou l'indétermination initiale ; l'acte créateur consiste à leur donner une organisation produisant quelque chose. Il ne s'agit pas, dans cette formule, d'une justification première de l'ordre sécuritaire ou de l'autorité politique : ces applications éventuelles doivent être démontrées séparément.
 
 Point de vigilance analytique, sans modifier les formules de l'auteur : la notion de sécurité doit être définie et rendue contestable pour que l'« ordre sécuritaire » ne devienne pas lui-même une Machine à Empêcher. Un dispositif de protection doit expliciter menace, proportionnalité, subsidiarité, contrôles démocratiques et effets réels sur les capacités de chacun. Il s'agit de propositions doctrinales à discuter et tester, pas de conclusions juridiques déjà acquises.
 
