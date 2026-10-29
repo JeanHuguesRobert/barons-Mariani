@@ -287,3 +287,8 @@ When authorization is ambiguous, prepare the batch and ask before acting.
 - **Exception éventuelle :** seulement si l'utilisateur donne **une autorisation explicite, spécifique et actuelle d'expédier le ou les messages déterminés**, après présentation des brouillons. Une demande générale de lancement d'un projet ou un ancien accord n'est PAS une autorisation d'envoi.
 - La création d'un brouillon ne vaut **jamais** envoi. Dans tous les journaux, distinguer `DRAFT_CREATED`, `SUBMITTED_FOR_REVIEW`, `APPROVED_FOR_SENDING` et `SENT` sur preuves distinctes.
 - **Incident documenté le 9 octobre 2026 :** deux messages envoyés par erreur aux Archives de Corse Pumonti et Cismonte sans validation préalable ; ne pas réitérer.
+
+## Editorial register: analysis versus political speech
+
+When drafting for this corpus, distinguish academic analysis, legal notes and evidence audits from expressly attributed political speeches, manifestos and opinion chronicles. In analytic work, disclose uncertainty, objections and limits in the body as appropriate. In political writing, **do not reflexively dilute the author's normative claims with repetitive methodological qualifiers**; preserve the intended force and voice, and route supporting qualifications to citations or annexes when suitable. This does **not** permit fabricating facts, concealing material contradictions, attributing unverified motives or describing predictions as proven outcomes. Keep the same factual standard across registers. Political conflict in the Campagnes du Réel is strictly nonviolent and documentary; external communications require the principal's specific authorization. See [Capable editorial guidance](projects/capable/AGENTS.md).
+
