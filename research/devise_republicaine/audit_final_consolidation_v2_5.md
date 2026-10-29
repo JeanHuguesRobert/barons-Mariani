@@ -76,3 +76,11 @@ Ne pas clore la traçabilité du packet #150 avant inscription des limites de la
 
 **État de sortie :** PASS ciblé sur ces sources ; PARTIAL pour l'appareil historique et les statistiques AN détaillées ; UNKNOWN pour collation propositionnelle exhaustive, disponibilité de tous les liens, validation CLI du frontmatter et revue extérieure de la v2.5. Selon Occam, ne pas rouvrir les seize chapitres pour des détails sans effet déterminant.
 
+
+## Vérification complémentaire des chiffres AN — 29 octobre 2026
+
+**PASS source primaire :** rapport AN n° 2865, enregistré le 3 juin 2026, passage « L’inefficacité du mécanisme spécifique prévu à l’article L. 4422-16 du CGCT » : https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw . La Collectivité de Corse a recensé **57 saisines du Premier ministre depuis 1991**, **4 suites favorables**, **3 rejets explicites**, les autres n'ayant reçu **aucune réponse gouvernementale** selon le rapport. Les **50 autres** sont une **soustraction 57 − 4 − 3**, pas un inventaire individuel ni une preuve que chaque demande était juridiquement fondée. Le rapport attribue le recensement à la Collectivité : ne pas attribuer à l'Assemblée un audit autonome exhaustif. Les données sénatoriales 72/13 relèvent d'une autre population, non additionnable.
+
+Le même rapport décrit l'adoption en commission d'amendements rendant obligatoire une consultation des électeurs sur le futur projet de statut ; à situer dans sa **version parlementaire et son contexte datés**, sans assimiler cette disposition à une consultation déjà organisée ni à du droit constitutionnel en vigueur.
+
+**Contrôles structurels actuels :** manuscrit v2.5 sur `main`, 16 chapitres I–XVI, 110 occurrences de liens Markdown absolus pour 61 destinations distinctes, aucun intitulé `##` dupliqué détecté par comparaison exacte. Ce relevé ne valide pas l'intégrité HTTP des 61 destinations, la sémantique des citations ou le schéma Cogentia. L'absence de revue indépendante de la v2.5 reste déclarée.
