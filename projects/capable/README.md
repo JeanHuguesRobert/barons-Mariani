@@ -60,7 +60,7 @@ L'alternative recherchée est **institutionnelle, systémique et opératoire** :
 
 ## Objet
 
-**Capable** est le nom d’un mouvement civique et politique qui projette dans l’action publique plusieurs concepts déjà présents dans le Corpus : **Autonomie de Capacité**, **Démocratie capable**, **Machine à Explorer**, **Machine à Empêcher**, **Machine à Rendre Capable**, **Potentique** et exigence d’**effectivité**.
+**Capable** désigne d'abord une qualification opératoire et un ensemble ouvert de doctrines, méthodes et outils ; le mouvement civique et politique annoncé en 2026 est l'une de ses projections dans l'action publique. Les concepts reliés sont notamment : **Autonomie de Capacité**, **Démocratie capable**, **Machine à Explorer**, **Machine à Empêcher**, **Machine à Rendre Capable**, **Potentique** et exigence d’**effectivité**.
 
 Capable ne constitue pas une nouvelle source doctrinale remplaçant ces textes. Il les relie et les projette vers des situations institutionnelles, civiques et électorales déterminées.
 
@@ -88,7 +88,7 @@ Capable est la couche civique et politique transversale. Elle peut être projet�
 
 ### Le Petit Parti
 
-Le Petit Parti — historiquement issu du **Pertitellu** de Corte — constitue la couche partisane. L’expression « parti des petits » est entendue de manière relationnelle : les *petits* sont ceux dont la capacité effective est faible relativement au pouvoir exercé sur eux.
+Le Petit Parti — historiquement issu du **Pertitellu** de Corte — constitue une expérience politique locale et un objet patrimonial distinct, **non la couche partisane obligatoire de Capable**. L’expression « parti des petits » est entendue de manière relationnelle : les *petits* sont ceux dont la capacité effective est faible relativement au pouvoir exercé sur eux.
 
 ## Horizon : #Suvranu
 
