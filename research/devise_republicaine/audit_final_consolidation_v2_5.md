@@ -59,3 +59,20 @@ La non-perte sémantique absolue est une **exigence éditoriale** qui ne peut pa
 Le chantier de **première rédaction des 16 chapitres, d'harmonisation structurelle et d'hygiène Markdown** est terminé pour cette passe. Le dossier est prêt à être soumis à une **lecture froide contradictoire de cette version précise** et à une vérification documentaire détaillée. Cela ne signifie ni manuscrit académique définitivement validé, ni approbation humaine présumée, ni adoption de la proposition v0.7.
 
 Ne pas clore la traçabilité du packet #150 avant inscription des limites de la présente passe et des contrôles encore ouverts.
+
+## Reprise ciblée du 29 octobre 2026 — vérifications officielles et séparation des niveaux
+
+**Périmètre :** contrôle documentaire ciblé des sources primaires et contrôle de structure v1.2 → v2.5 ; aucune revue scientifique indépendante nouvelle et aucune certification sémantique exhaustive.
+
+| Assertion | Contrôle | Qualification |
+| --- | --- | --- |
+| Article 2 de la Constitution : devise « Liberté, Égalité, Fraternité » | [Légifrance, article 2](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527453/2026-10-23) | PASS source primaire et texte constitutionnel |
+| Article 3 : souveraineté nationale exercée par représentants et référendum | [Légifrance, titre Ier](https://www.legifrance.gouv.fr/codes/section_lc/JORFTEXT000000571356/LEGISCTA000006095820/2026-03-24) | PASS texte ; ne pas confondre avec une démocratie directe intégrale |
+| Fraternité : principe de valeur constitutionnelle depuis la décision 2018-717/718 QPC, mais conciliation avec l'ordre public et absence de droit illimité | [Conseil constitutionnel, décision du 6 juillet 2018](https://qpc360.conseil-constitutionnel.fr/2018-07-06/decision-2018-717718-qpc-6-juillet-2018) | PASS délimitation de la portée |
+| Sénat, 5 mars 2025 : 72 demandes dont 13 évolutions normatives | [Compte rendu officiel de commission](https://www.senat.fr/compte-rendu-commissions/20250303/lois.html) | PASS : propos attribués à la rapporteure ; ne pas présenter comme rapport adopté |
+| AN : rapport n° 2865 enregistré le 3 juin 2026 sur l'autonomie | [Rapport officiel](https://www.assemblee-nationale.fr/dyn/docs/RAPPANR5L17B2865.raw) | PASS identité et date du document ; détail numérique 57/4/3/50 à recoller à ses passages exacts avant PASS de chaque catégorie |
+
+**Correction FBF effectuée :** le développement intégral « République d'effectivité — proposition contemporaine de l'auteur (29 octobre 2026) » a été **déplacé sans réduction** du début du manuscrit v2.5 vers l'espace précédant sa conclusion. Ce repositionnement distingue mieux la contribution doctrinale actuelle du récit historique et du droit positif. Le texte de l'amendement v0.7 n'est pas modifié.
+
+**État de sortie :** PASS ciblé sur ces sources ; PARTIAL pour l'appareil historique et les statistiques AN détaillées ; UNKNOWN pour collation propositionnelle exhaustive, disponibilité de tous les liens, validation CLI du frontmatter et revue extérieure de la v2.5. Selon Occam, ne pas rouvrir les seize chapitres pour des détails sans effet déterminant.
+
