@@ -180,3 +180,12 @@ source
 → éventuelle révision de la source
 ```
 
+
+## Doctrine d'énonciation : ne pas confondre vérité et timidité
+
+L'auteur distingue le **discours analytique**, qui rend visibles démonstrations, degrés de confiance et objections, du **discours politique**, qui expose des choix, des convictions et une volonté d'agir pour *infléchir le Réel*. Une prudence stylistique excessive peut rendre un propos inutilement hésitant et masquer sa portée ; ce défaut de formulation ne doit pas être confondu avec la rigueur intellectuelle.
+
+**Règle éditoriale :** ne pas affaiblir systématiquement les arguments politiques de l'auteur par des réserves redondantes. Préserver le caractère affirmatif d'un engagement normatif, la lisibilité des enjeux et la distinction entre adversité politique et violence. Les démonstrations détaillées et objections recevables disposent de leur place propre dans le Livre, les notes scientifiques et les annexes ; le Magazine peut accueillir les prises de position datées, explicitement situées comme telles.
+
+Cette distinction **n'institue pas deux vérités** : une accusation factuelle, une donnée, une attribution ou une prévision reste soumise aux exigences de vérifiabilité et de qualification, quel que soit le registre. Le bon équilibre consiste à être **affirmatif dans les finalités, précis dans les faits et proportionné dans l'expression des incertitudes**.
+
