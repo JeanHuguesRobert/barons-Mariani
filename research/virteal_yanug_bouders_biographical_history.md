@@ -60,6 +60,21 @@ Le 30 octobre 2026, après connexion du service vidIQ à YouTube, les métadonn�
 
 **Débat, Arte pro Ségo !?** : commentaire d'une consultation d'internautes pendant le débat présidentiel Sarkozy–Royal, à partir d'un graphique vu sur Arte. Le locuteur relève un contraste entre les soldes affichés et certaines analyses médiatiques ; il signale lui-même l'absence du nombre total de votes/clics, qui interdit une interprétation robuste. Il fait explicitement l'éloge des possibilités d'observation offertes par Internet.
 
+### Analyse visuelle vidIQ — terminée le 30 octobre 2026
+
+Analyse de la vidéo [« Extrême Centre »](https://www.youtube.com/watch?v=0kumG-rspmk), tâche vidIQ `job_c1beefb2-3c88-4205-8912-624a2b06bd15`, statut `completed`. Cette description est issue d'un service d'analyse audiovisuelle, et non d'une inspection humaine image par image : les détails devront être vérifiés au besoin sur l'original.
+
+- **00:00–00:05** : emblème yin-yang anthropomorphe orange/blanc, souriant, compatible avec le YanUg historique.
+- **00:05–00:09** : carton-titre « Le vote Bayrou est-il un vote contestataire ? » et URL `www.ExtremeCentre.fr`.
+- **00:09–01:29** : captures d'écran de pages wiki personnelles et de `ExtremeCentre.fr`, avec CamStudio visible. La présentation inclut une page personnelle à Corte.
+- **01:29–01:49** : lecteur musical montrant des pistes de **Jean-Sébastien Bach, *Die Kunst der Fuge***. C'est une identification affichée à l'écran, à distinguer d'une vérification musicologique indépendante de l'enregistrement audible.
+- **01:49–02:54** : sources journalistiques affichées, dont un article attribué à **Alain Duhamel**, « François Bayrou invente l'extrême centre », daté du **29 novembre 2006** dans le rapport visuel.
+- **02:54–03:22** : quatre options du sondage représentées par des expressions graphiques distinctes d'un visage yin-yang ; c'est un élément particulièrement intéressant pour l'histoire du **YanUg comme grammaire graphique variable**.
+- **03:22–04:10** : résultats du micro-sondage Vizu, **66 votes**, distribués dans les quatre réponses (37,9 % oui ; 42,4 % non ; 12,1 % « idée ridicule » ; 7,6 % « très ridicule »). Attention : ces taux ont pour dénominateur **l'ensemble des 66 réponses**, et ne sont pas directement équivalents à la proportion d'électeurs Bayrou revendiquant un vote contestataire, donnée oralement comme proche de 45 % dans la vidéo.
+- **05:41–05:54** : générique de fin et emblème orange/blanc clignant de l'œil.
+
+Le rapport décrit un **screencast** montrant notamment des fenêtres de capture et de lecture musicale. Il confirme le couplage de l'enquête politique de 2007 avec une identité graphique expressive, réemployable et variable, thème pertinent pour l'histoire du générateur YanUg. Ne pas confondre une description automatisée avec une source primaire incontestable.
+
 ### Portée historique
 
 Ces vidéos constituent une **preuve directe de publication et d'exposé public de l'hypothèse du vote contestataire centriste fin avril 2007**. Elles illustrent également une démarche déjà reconnaissable : formuler une hypothèse, solliciter des données en ligne, observer des résultats et en discuter les limites. Il serait abusif d'en conclure que les données du sondage démontraient la distribution des motivations électorales de la population française.
