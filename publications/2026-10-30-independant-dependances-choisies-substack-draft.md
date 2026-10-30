@@ -16,7 +16,14 @@ publication:
   platform: substack
   destination: "Les Carnets du baron Mariani"
   subdomain: jeanhugues
-  draft_status: "not_created"
+  draft_status: "draft_created — not published"
+  draft_id: 222862095
+  edit_url: "https://jeanhugues.substack.com/publish/post/222862095"
+  created_at: "2026-10-30"
+  creation_tool: "ubikia cli/publish.js --target=substack"
+  creation_trace: "hct_1fa50abe-46ae-4ac9-a9e6-7e9c3f57e5a9"
+  author_reviewed: false
+  published: false
 ---
 
 # Être indépendant, ce n'est pas vivre seul
