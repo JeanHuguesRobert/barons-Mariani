@@ -93,10 +93,13 @@ Les archives de 2007 mettent déjà en relation **désaccord constructif, indép
 
 > Dès 2007, Jean Hugues Robert expérimentait à la fois des identités graphiques et des communautés en ligne. Le symbole YanUg, documenté en 2007, accompagna l'univers Virteal (« Virtual » et « Real », associé à la formule « Almost Real »), nom retenu après une hésitation avec VirtReal. La « Secte des Bouders », mentionnée dans ses correspondances dès mars 2007 et présente sur le réseau Ning en mai, exprimait sous un nom volontairement provocateur une réflexion sur le droit au désaccord, le conformisme et l'autonomie de jugement. Dans un courrier de décembre 2007, il liait explicitement ces thèmes à la difficulté de distinguer ce sur quoi l'on peut agir de ce qui échappe à notre maîtrise, et reprenait l'adage selon lequel la réalité dépasse la fiction. Ces expériences fournissent aujourd'hui des éléments documentaires permettant d'étudier, sans présumer d'une continuité parfaite, la généalogie de ses travaux sur le virtuel, le Réel et l'exploration du Possible.
 
-## Points à poursuivre
+## État de consolidation documentaire (30 octobre 2026)
 
-1. Vérifier les archives publiques de `virteal.com/SecteDesBouders` et `virtreal.metawiki.com/SecteDesBouders`, sans confondre les deux orthographes.
-2. Reconstituer la fondation et les usages de « La Secte des Bouders » à partir d'archives datées, sans exposer inutilement la vie privée des membres.
-3. Vérifier la provenance et la date d'apparition de la formule « Almost Real » dans une source primaire.
-4. Localiser la source biographique publique principale à enrichir et lui intégrer un résumé sourcé, après sélection éditoriale.
-5. Examiner les relations historiques entre Virteal, YanUg, SimpliWiki et les projets ultérieurs, sans téléologie.
+- **Biographie publique : intégré.** La synthèse figure dans [la biographie de l'auteur (Kudos)](https://github.com/acorsica/Kudos/blob/main/dossier-de-soumission/biographie_auteur.md) ; l'[index biographique transversal](./biographie_index.md) oriente vers les sources détaillées. L'ancien point « localiser la biographie principale » est donc clos.
+- **Bouders : essai historique consolidé.** Voir [La Secte des Bouders](./la_secte_des_bouders.md). L'absence des pages originales et de statistiques fiables sur les participants demeure une limite documentaire, non une invitation à reconstituer librement les faits.
+- **Virteal / VirtReal :** conserver les deux graphies conformément aux archives et à l'explication de l'auteur. La date exacte du choix définitif et une attestation primaire datée de « Almost Real » restent non établies.
+- **YanUg :** la [généalogie graphique](./generative_graphic_design_lineage.md) distingue la trace du 30 mars 2007, le fichier SVG de mai 2007, l'usage raster de 2008 et l'approche paramétrique de 2010. Les descriptions audiovisuelles de 2007 sont des compléments, non des remplacements des originaux.
+- **Générateur existant :** [YanUg Master Generator v3.4](https://github.com/JeanHuguesRobert/inseme/blob/main/docs/yanug.html) et [version SVG dans Serra](https://github.com/JeanHuguesRobert/serra/blob/main/core/src/utils/YanUg.js). Leur existence a été vérifiée dans GitHub ; **leur fonctionnement, la qualité des exports et la conformité visuelle n'ont pas été testés ici**. Ce travail appartient au [Cognitive Packet #155](https://github.com/JeanHuguesRobert/barons-Mariani/issues/155).
+- **Préservation :** garder séparés les originaux historiques, les analyses et les variantes modernes, notamment celles éventuellement destinées à Capable. Aucune variante récente ne devient rétroactivement la version de 2007.
+
+Les questions historiques non résolues restent consignées comme limites de preuve. Aucun nouveau chantier de recherche ou développement n'est ouvert par cette consolidation.
