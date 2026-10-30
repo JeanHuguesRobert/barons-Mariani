@@ -29,15 +29,19 @@ En réponse à la question de savoir si ses premiers travaux visaient principale
 
 Cette déclaration directe doit orienter la lecture de la trajectoire : la Liberté constitue, selon son propre témoignage, la **finalité recherchée** ; l'autonomie, l'interopérabilité, la représentation et la coordination peuvent en être des **moyens techniques et organisationnels**. Elle ne doit cependant pas être convertie automatiquement en preuve documentaire que chacune des architectures historiques poursuivait ou atteignait cette finalité, ni qu'une définition univoque de la Liberté était déjà formalisée à chaque époque.
 
-## Liberté vécue, autonomie inachevée et mémoire familiale — témoignage du 30 octobre 2026
+## Liberté conquise, autonomie inachevée et mémoire de Marie-Louise — témoignage de l'auteur (30 octobre 2026)
 
-L'auteur décrit une carrière professionnelle intense, particulièrement jusqu'à Odisei, conduite au détriment d'autres dimensions de sa vie. Selon sa formule, elle lui a permis **« d'acheter ma liberté »** : il avait voulu obtenir les moyens de choisir librement la suite de son existence.
+L'auteur précise avoir consacré à sa carrière professionnelle, particulièrement jusqu'à Odisei, une quantité de travail telle qu'elle s'est faite « au détriment du reste ». Selon sa propre formule, cette carrière lui a permis **« d'acheter ma liberté »** : acquérir la possibilité de sortir d'une dépendance professionnelle et d'investir durablement sa vie dans d'autres projets.
 
-Cette liberté acquise n'a pas suffi à assurer l'autonomie matérielle de sa propriété familiale en Corse. Après environ vingt ans d'efforts à Minesteggio, il indique que cet objectif reste inachevé. La propriété constitue à la fois un support de liberté et une source de responsabilités et de contraintes.
+Cette liberté professionnelle ou financière ne doit toutefois pas être confondue avec l'**autonomie matérielle** de la propriété familiale à Minesteggio, en Corse. Après environ vingt ans d'efforts, l'auteur indique que cette autonomie demeure incertaine et inachevée. Le patrimoine peut ainsi être tout à la fois un support de liberté, une responsabilité et une source de contraintes.
 
-L'auteur évoque également la perte de sa fille **Marie-Louise**. Il précise expressément que sa mémoire n'est pas un sujet tabou : elle est au contraire présente dans des projets publics, dont [Suicide Corse](../projects/suicide-corse/README.md) et le projet **Les Amis de Malou** documenté par l'[Intent Kernel](../identity/INTENT_KERNEL.md). Voir aussi [Marie-Louise — mémoire et sources](../memory/marie-louise/README.md).
+Il ajoute : **« et j'ai perdu ma fille »**, parlant de Marie-Louise. Cette perte n'est ni un « coût » quantifiable de la quête d'autonomie ni la conséquence démontrée de telle ou telle décision professionnelle ou familiale. Elle appartient pleinement à son histoire, sans qu'il faille l'escamoter ou la transformer en illustration philosophique.
 
-Cette perte ne doit être ni gommée du récit, ni interprétée comme une conséquence démontrée de ses choix professionnels ou patrimoniaux, ni réduite à l'illustration d'une doctrine. La réflexion biographique distingue donc les libertés conquises, l'autonomie matérielle recherchée, les engagements de transmission et les événements irréversibles de la vie.
+L'auteur a expressément précisé qu'il n'existe **aucun tabou** à évoquer publiquement Marie-Louise : au contraire, sa mémoire et les questions de protection constituent des axes explicites du Corpus et de projets publics. Pour le contexte, voir [Marie-Louise — mémoire et sources](../memory/marie-louise/README.md), [*Suicide Corse*](../projects/suicide-corse/README.md), et la section **« Les Amis de Malou »** de l'[Intent Kernel](../identity/INTENT_KERNEL.md), qui décrit un projet mémoriel, artistique et de prévention. L'existence d'un projet de fonds de dotation ne doit pas être confondue avec une constitution juridique déjà accomplie.
+
+### Portée de cette précision biographique
+
+La séquence ne se résume plus au passage des systèmes techniques aux capacités humaines. Elle comporte une tension entre **liberté acquise, libertés effectivement exercées, autonomie recherchée et pertes irréversibles**. Les témoignages autobiographiques sont consignés comme tels et les analyses causales restent ouvertes. Toute étude du parcours doit respecter autant les réussites que les limites, les bifurcations et la mémoire des personnes.
 
 ## Hypothèse directrice
 
