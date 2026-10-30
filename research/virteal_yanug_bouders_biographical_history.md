@@ -42,6 +42,14 @@ L'auteur précise avoir hésité, dans une courte phase de consolidation, entre 
 
 Il faut respecter trois formes distinctes dans les sources : **Virtual + Real** (origine sémantique), **VirtReal** (option envisagée), **Virteal** (nom retenu). La formule associée reste **Almost Real** d'après le témoignage de l'auteur.
 
+## Extrême Centre — vidéo historique retrouvée (identification par l'auteur, 30 octobre 2026)
+
+L'auteur a fourni l'URL de la vidéo YouTube qu'il dit avoir publiée à l'occasion du scrutin présidentiel voisin de 2007 : **https://www.youtube.com/watch?v=kxbXEnYnjCM**. Il décrit une réalisation à la fois légère et sérieuse, accompagnée d'une musique de **Jean-Sébastien Bach**. **À ce stade, l'URL et l'attribution proviennent du témoignage direct de l'auteur ; les métadonnées, la date de mise en ligne, le titre exact, la bande-son et le contenu audiovisuel n'ont pas été vérifiés indépendamment**, l'accès direct à YouTube ayant échoué.
+
+Des échanges de courriels datés des **29–30 avril 2007** documentent par ailleurs l'utilisation de `ExtremeCentre.fr` et une réflexion sur le vote Bayrou comme possible vote contestataire. Le chiffre de 45 % mentionné dans l'échange est une observation déclarée par l'auteur à propos d'un sondage de son site, **pas un sondage représentatif validé**. Ne pas confondre cette archive écrite de 2007 avec une preuve de la date ou du contenu de la vidéo YouTube.
+
+La recherche doit ensuite confronter la vidéo elle-même à la correspondance de 2007 et à l'hypothèse de la « rupture », sans projeter les formulations politiques de 2026 sur les documents anciens.
+
 ## Note interprétative — une continuité à éprouver
 
 Les archives de 2007 mettent déjà en relation **désaccord constructif, indépendance de jugement, acceptation des limites de l'action, imprévisibilité de l'avenir, pluralité des représentations et rapport entre réalité et fiction**. Ces thèmes peuvent être comparés à la Seconde Méthode, à l'Exploration du Possible et à l'hypothèse FractaReality, **sans supposer une intention fondatrice rétrospective ni un développement linéaire**.
