@@ -23,9 +23,15 @@ provenance:
 
 Cette note confronte des réalisations de périodes différentes à une grille d'analyse commune. Elle **ne prétend pas démontrer que les projets anciens étaient motivés par les doctrines contemporaines** de l'autonomie de capacité, de la Seconde Méthode ou de Cogentia. Elle distingue dates et artefacts documentés, fonctions techniques observables et interprétation rétrospective.
 
+## Précision autobiographique de l'auteur (30 octobre 2026)
+
+En réponse à la question de savoir si ses premiers travaux visaient principalement l'autonomie des systèmes ou la capacité d'action de leurs utilisateurs, **Jean Hugues Noël Robert précise : « Je cherchais à maximiser La Liberté ».**
+
+Cette déclaration directe doit orienter la lecture de la trajectoire : la Liberté constitue, selon son propre témoignage, la **finalité recherchée** ; l'autonomie, l'interopérabilité, la représentation et la coordination peuvent en être des **moyens techniques et organisationnels**. Elle ne doit cependant pas être convertie automatiquement en preuve documentaire que chacune des architectures historiques poursuivait ou atteignait cette finalité, ni qu'une définition univoque de la Liberté était déjà formalisée à chaque époque.
+
 ## Hypothèse directrice
 
-Une continuité possible du parcours consiste à rechercher des mécanismes qui permettent à des éléments autonomes de se **découvrir**, de se **représenter**, de **coopérer** et, idéalement, de **conserver la maîtrise** de leur participation.
+En prenant pour fil directeur la finalité explicitée par l'auteur — **maximiser la Liberté** —, une continuité possible du parcours consiste à rechercher des mécanismes qui permettent à des éléments autonomes de se **découvrir**, de se **représenter**, de **coopérer** et, idéalement, de **conserver la maîtrise** de leur participation.
 
 Il existe néanmoins une rupture de nature entre l'autonomie des machines et l'autonomie des personnes : l'interopérabilité technique ne produit par elle-même ni consentement, ni justice, ni légitimité démocratique.
 
@@ -56,6 +62,12 @@ Digipees est un vocabulaire de personnages, objets et scènes ; YanUg est une id
 ### C. Continuité civique et philosophique — hypothèse rétrospective
 
 L'association C.O.R.S.I.C.A., les expérimentations des Bouders et de démocratie directe, puis l'« autonomie de capacité » permettent de proposer une interrogation transversale : une coopération préservant le pouvoir d'agir de ses membres. La chaîne causale et la stabilité de cette intention sur trente ans ne sont pas démontrées ; les documents contemporains à chaque époque restent décisifs.
+
+## Finalité, moyens et critères d'effectivité
+
+La Liberté est désormais l'hypothèse autobiographique directrice, mais sa **maximisation** exige une discussion précise : liberté de qui, vis-à-vis de quelles contraintes, et selon quels arbitrages lorsque les libertés se rencontrent ou s'opposent ? Il faut notamment distinguer les libertés négatives (absence d'entraves), positives (capacité effective), collectives (participation au pouvoir) et la non-domination (absence de dépendance arbitraire), sans supposer que l'auteur adhère à une école particulière.
+
+Un réseau plus décentralisé peut servir cette finalité, mais peut aussi déplacer la dépendance ; une représentation plus riche peut accroître l'intelligibilité, mais aussi la surveillance ; une coordination plus efficace peut élargir les possibilités ou renforcer le contrôle. Le critère n'est donc pas la seule performance technique : c'est l'**effet réel sur les libertés des personnes concernées**.
 
 ## Les quatre questions récurrentes
 
@@ -88,4 +100,4 @@ Le quatrième point marque le principal changement de registre : un dispositif p
 
 ## Conclusion provisoire
 
-La formule **« du réseau à la capacité »** est utile comme hypothèse d'organisation : une série de projets déplace l'attention des connexions techniques vers les représentations, les pratiques de coopération et les conditions effectives de l'autonomie humaine. Elle doit rester falsifiable : les discontinuités, bifurcations, échecs et changements de finalité appartiennent à la biographie au même titre que les ressemblances.
+La formule **« des réseaux à la capacité, au service de la Liberté »** est utile comme hypothèse d'organisation : une série de projets déplace l'attention des connexions techniques vers les représentations, les pratiques de coopération et les conditions effectives de l'autonomie humaine. Elle doit rester falsifiable : les discontinuités, bifurcations, échecs et changements de finalité appartiennent à la biographie au même titre que les ressemblances.
