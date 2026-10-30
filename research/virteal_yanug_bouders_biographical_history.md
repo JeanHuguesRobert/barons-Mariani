@@ -52,6 +52,8 @@ Le 30 octobre 2026, après connexion du service vidIQ à YouTube, les métadonn�
 | 1er mai 2007, 10:16:48 | Internautes Bayrou 45% contestataires | 1 min 01 s | https://www.youtube.com/watch?v=kxbXEnYnjCM |
 | 3 mai 2007, 00:28:48 | Débat, Arte pro Ségo !? | 3 min 41 s | https://www.youtube.com/watch?v=L4nM_Ir1KYE |
 
+Les **trois transcriptions horodatées complètes**, conservées sans retouches et accompagnées de notes éditoriales distinctes, sont archivées dans [Archives audiovisuelles — enquête politique de 2007](./archives-audiovisuelles/2007/README.md).
+
 ### Lecture documentaire des transcriptions
 
 **Extrême Centre** : le locuteur se présente et décrit la création du site `extremecentre.fr`, motivée par l'ampleur du vote François Bayrou au premier tour de la présidentielle. L'hypothèse centrale est qu'une part importante de ces voix correspond à un **vote contestataire**, et non au seul électorat habituel de l'UDF. Il expose un sondage en ligne, indiquant environ 66 répondants et une proportion proche de 45 % de votants Bayrou affirmant un choix contestataire ; cela ne constitue **pas une enquête représentative**. Il dit avoir lui-même voté Bayrou. Il mentionne une recherche sur l'emploi antérieur de la notion d'extrême centre chez Alain Duhamel. Il conclut en identifiant la musique de fond comme celle de **Jean-Sébastien Bach**. Cette auto-identification auditive dans la transcription confirme une partie importante du souvenir de l'auteur.
