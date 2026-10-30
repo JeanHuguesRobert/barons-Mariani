@@ -50,6 +50,16 @@ Des échanges de courriels datés des **29–30 avril 2007** documentent par ail
 
 La recherche doit ensuite confronter la vidéo elle-même à la correspondance de 2007 et à l'hypothèse de la « rupture », sans projeter les formulations politiques de 2026 sur les documents anciens.
 
+
+### Deux autres vidéos signalées par l'auteur (30 octobre 2026)
+
+L'auteur apporte deux références YouTube supplémentaires à examiner dans ce même chantier de reconstitution biographique :
+
+- https://www.youtube.com/watch?v=0kumG-rspmk
+- https://www.youtube.com/watch?v=L4nM_Ir1KYE
+
+**Statut épistémique :** les URL sont fournies directement par l'auteur, mais leur titre, leur date de publication, leur auteur affiché, leurs images, leurs propos et leur rapport exact à l'Extrême Centre ou à la Secte des Bouders ne sont **pas encore vérifiés**. Une tentative d'accès direct à ces pages YouTube le 30 octobre 2026 a échoué. Ne pas leur attribuer par inférence le thème, la date ou la bande-son de la première vidéo. Les trois identifiants à vérifier ensemble sont `kxbXEnYnjCM`, `0kumG-rspmk` et `L4nM_Ir1KYE`.
+
 ## Note interprétative — une continuité à éprouver
 
 Les archives de 2007 mettent déjà en relation **désaccord constructif, indépendance de jugement, acceptation des limites de l'action, imprévisibilité de l'avenir, pluralité des représentations et rapport entre réalité et fiction**. Ces thèmes peuvent être comparés à la Seconde Méthode, à l'Exploration du Possible et à l'hypothèse FractaReality, **sans supposer une intention fondatrice rétrospective ni un développement linéaire**.
