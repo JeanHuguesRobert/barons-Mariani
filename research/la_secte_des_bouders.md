@@ -50,6 +50,8 @@ L'idée était presque dangereuse pour les fabricants de méthodes de bien-être
 
 Le **6 mai 2009**, une notification de Netlog indiquait que le « clan Bouders » était devenu un groupe. L'histoire ne dit pas si cette promotion fut unanimement saluée, ce qui, pour des Bouders, aurait sans doute été suspect.
 
+De la **page wiki** au **réseau Ning**, puis au **groupe Netlog**, on voit au moins plusieurs tentatives de donner une forme collective et numérique au mécontentement. Ces traces ne permettent toutefois ni de compter les participants, ni de mesurer leurs échanges, ni de conclure à une activité continue entre 2007 et 2009. La Secte disposait de lieux où se retrouver ; nous ignorons combien s'y retrouvaient effectivement.
+
 ## Première étape : oser constater que quelque chose ne va pas
 
 Derrière la plaisanterie, un texte de l'époque est plus explicite. Le **4 décembre 2007**, répondant à une correspondante, Jean Hugues Robert expliquait que la première étape pour sortir de la confusion consistait à exprimer clairement un désaccord, un malaise ou un désarroi. Il opposait cette démarche à la facilité relative de suivre le groupe, surtout lorsque l'on peut ainsi se tromper en nombre.
@@ -63,9 +65,11 @@ Les Bouders avaient donc une méthode, ou du moins le commencement d'une méthod
 
 Cette liste est une **reconstruction éditoriale** à partir du courrier, non un règlement retrouvé de la Secte. On ignore d'ailleurs si les Bouders disposaient d'un règlement. C'eût été un motif supplémentaire de mécontentement.
 
+Encore faut-il distinguer le **signal d'insatisfaction** du **diagnostic** : être mécontent peut indiquer qu'une question mérite examen, mais ne prouve pas que l'on ait identifié correctement la cause du problème, ni que la solution imaginée soit juste. Le droit de bouder n'est pas un certificat d'infaillibilité — ce qui aurait d'ailleurs fourni un excellent nouveau motif de bouder.
+
 L'argument le plus intéressant n'était peut-être pas l'invitation à se plaindre, mais la distinction entre **ce sur quoi l'on peut agir** et **ce qui nous échappe**. La protestation n'y est pas une fin en soi ; elle sert à rompre une résignation parfois prématurée, puis à retrouver des prises sur le Réel.
 
-Il y a là une différence entre le boudeur et le râleur professionnel : le premier, dans cette interprétation charitable, cherche encore une issue. Le second risque de regretter qu'elle existe.
+Mais **bouder** et **râler** ne se confondent pas tout à fait. Le boudeur peut manifester son refus en se retirant ou en gardant le silence ; le râleur, lui, exprime son mécontentement à haute voix. La Secte jouait peut-être sur cette contradiction : transformer une protestation volontiers muette en devise proclamée collectivement. C'est une lecture possible du nom et du slogan, non une intention explicitement attestée par les archives.
 
 ## Une affaire de Réel — et de virtuel
 
