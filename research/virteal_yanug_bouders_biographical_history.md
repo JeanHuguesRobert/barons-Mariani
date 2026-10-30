@@ -42,23 +42,29 @@ L'auteur précise avoir hésité, dans une courte phase de consolidation, entre 
 
 Il faut respecter trois formes distinctes dans les sources : **Virtual + Real** (origine sémantique), **VirtReal** (option envisagée), **Virteal** (nom retenu). La formule associée reste **Almost Real** d'après le témoignage de l'auteur.
 
-## Extrême Centre — vidéo historique retrouvée (identification par l'auteur, 30 octobre 2026)
+## Extrême Centre — trois vidéos YouTube vérifiées (avril–mai 2007)
 
-L'auteur a fourni l'URL de la vidéo YouTube qu'il dit avoir publiée à l'occasion du scrutin présidentiel voisin de 2007 : **https://www.youtube.com/watch?v=kxbXEnYnjCM**. Il décrit une réalisation à la fois légère et sérieuse, accompagnée d'une musique de **Jean-Sébastien Bach**. **À ce stade, l'URL et l'attribution proviennent du témoignage direct de l'auteur ; les métadonnées, la date de mise en ligne, le titre exact, la bande-son et le contenu audiovisuel n'ont pas été vérifiés indépendamment**, l'accès direct à YouTube ayant échoué.
+Le 30 octobre 2026, après connexion du service vidIQ à YouTube, les métadonnées et sous-titres transcrits des trois vidéos fournies par l'auteur ont été récupérés. Elles appartiennent toutes à la chaîne **Jean Hugues Noël Robert** (ID `UCkKakpGogpj5MvFjwbm8zEw`). Les sous-titres automatiques contiennent parfois des erreurs de reconnaissance ; les citations textuelles demandent un contrôle audiovisuel avant publication.
 
-Des échanges de courriels datés des **29–30 avril 2007** documentent par ailleurs l'utilisation de `ExtremeCentre.fr` et une réflexion sur le vote Bayrou comme possible vote contestataire. Le chiffre de 45 % mentionné dans l'échange est une observation déclarée par l'auteur à propos d'un sondage de son site, **pas un sondage représentatif validé**. Ne pas confondre cette archive écrite de 2007 avec une preuve de la date ou du contenu de la vidéo YouTube.
+| Publication UTC | Titre vérifié | Durée | URL |
+| --- | --- | --- | --- |
+| 28 avril 2007, 23:56:31 | Extrême Centre | 5 min 54 s | https://www.youtube.com/watch?v=0kumG-rspmk |
+| 1er mai 2007, 10:16:48 | Internautes Bayrou 45% contestataires | 1 min 01 s | https://www.youtube.com/watch?v=kxbXEnYnjCM |
+| 3 mai 2007, 00:28:48 | Débat, Arte pro Ségo !? | 3 min 41 s | https://www.youtube.com/watch?v=L4nM_Ir1KYE |
 
-La recherche doit ensuite confronter la vidéo elle-même à la correspondance de 2007 et à l'hypothèse de la « rupture », sans projeter les formulations politiques de 2026 sur les documents anciens.
+### Lecture documentaire des transcriptions
 
+**Extrême Centre** : le locuteur se présente et décrit la création du site `extremecentre.fr`, motivée par l'ampleur du vote François Bayrou au premier tour de la présidentielle. L'hypothèse centrale est qu'une part importante de ces voix correspond à un **vote contestataire**, et non au seul électorat habituel de l'UDF. Il expose un sondage en ligne, indiquant environ 66 répondants et une proportion proche de 45 % de votants Bayrou affirmant un choix contestataire ; cela ne constitue **pas une enquête représentative**. Il dit avoir lui-même voté Bayrou. Il mentionne une recherche sur l'emploi antérieur de la notion d'extrême centre chez Alain Duhamel. Il conclut en identifiant la musique de fond comme celle de **Jean-Sébastien Bach**. Cette auto-identification auditive dans la transcription confirme une partie importante du souvenir de l'auteur.
 
-### Deux autres vidéos signalées par l'auteur (30 octobre 2026)
+**Internautes Bayrou 45% contestataires** : courte reprise du résultat du sondage, présentée comme une observation étonnante. Une phrase de la transcription identifiant le locuteur est manifestement suspecte ; ne pas la reproduire comme fait sans écoute directe.
 
-L'auteur apporte deux références YouTube supplémentaires à examiner dans ce même chantier de reconstitution biographique :
+**Débat, Arte pro Ségo !?** : commentaire d'une consultation d'internautes pendant le débat présidentiel Sarkozy–Royal, à partir d'un graphique vu sur Arte. Le locuteur relève un contraste entre les soldes affichés et certaines analyses médiatiques ; il signale lui-même l'absence du nombre total de votes/clics, qui interdit une interprétation robuste. Il fait explicitement l'éloge des possibilités d'observation offertes par Internet.
 
-- https://www.youtube.com/watch?v=0kumG-rspmk
-- https://www.youtube.com/watch?v=L4nM_Ir1KYE
+### Portée historique
 
-**Statut épistémique :** les URL sont fournies directement par l'auteur, mais leur titre, leur date de publication, leur auteur affiché, leurs images, leurs propos et leur rapport exact à l'Extrême Centre ou à la Secte des Bouders ne sont **pas encore vérifiés**. Une tentative d'accès direct à ces pages YouTube le 30 octobre 2026 a échoué. Ne pas leur attribuer par inférence le thème, la date ou la bande-son de la première vidéo. Les trois identifiants à vérifier ensemble sont `kxbXEnYnjCM`, `0kumG-rspmk` et `L4nM_Ir1KYE`.
+Ces vidéos constituent une **preuve directe de publication et d'exposé public de l'hypothèse du vote contestataire centriste fin avril 2007**. Elles illustrent également une démarche déjà reconnaissable : formuler une hypothèse, solliciter des données en ligne, observer des résultats et en discuter les limites. Il serait abusif d'en conclure que les données du sondage démontraient la distribution des motivations électorales de la population française.
+
+Confronter les vidéos aux courriels datés des **29–30 avril 2007** mentionnant `ExtremeCentre.fr`. Le projet biographique peut lier cette enquête au mécontentement et aux Bouders comme deux expressions contemporaines de préoccupations voisines, tout en évitant de leur prêter une continuité théorique parfaitement établie.
 
 ## Note interprétative — une continuité à éprouver
 
