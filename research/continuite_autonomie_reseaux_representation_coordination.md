@@ -29,6 +29,16 @@ En réponse à la question de savoir si ses premiers travaux visaient principale
 
 Cette déclaration directe doit orienter la lecture de la trajectoire : la Liberté constitue, selon son propre témoignage, la **finalité recherchée** ; l'autonomie, l'interopérabilité, la représentation et la coordination peuvent en être des **moyens techniques et organisationnels**. Elle ne doit cependant pas être convertie automatiquement en preuve documentaire que chacune des architectures historiques poursuivait ou atteignait cette finalité, ni qu'une définition univoque de la Liberté était déjà formalisée à chaque époque.
 
+## Liberté vécue, autonomie inachevée et mémoire familiale — témoignage du 30 octobre 2026
+
+L'auteur décrit une carrière professionnelle intense, particulièrement jusqu'à Odisei, conduite au détriment d'autres dimensions de sa vie. Selon sa formule, elle lui a permis **« d'acheter ma liberté »** : il avait voulu obtenir les moyens de choisir librement la suite de son existence.
+
+Cette liberté acquise n'a pas suffi à assurer l'autonomie matérielle de sa propriété familiale en Corse. Après environ vingt ans d'efforts à Minesteggio, il indique que cet objectif reste inachevé. La propriété constitue à la fois un support de liberté et une source de responsabilités et de contraintes.
+
+L'auteur évoque également la perte de sa fille **Marie-Louise**. Il précise expressément que sa mémoire n'est pas un sujet tabou : elle est au contraire présente dans des projets publics, dont [Suicide Corse](../projects/suicide-corse/README.md) et le projet **Les Amis de Malou** documenté par l'[Intent Kernel](../identity/INTENT_KERNEL.md). Voir aussi [Marie-Louise — mémoire et sources](../memory/marie-louise/README.md).
+
+Cette perte ne doit être ni gommée du récit, ni interprétée comme une conséquence démontrée de ses choix professionnels ou patrimoniaux, ni réduite à l'illustration d'une doctrine. La réflexion biographique distingue donc les libertés conquises, l'autonomie matérielle recherchée, les engagements de transmission et les événements irréversibles de la vie.
+
 ## Hypothèse directrice
 
 En prenant pour fil directeur la finalité explicitée par l'auteur — **maximiser la Liberté** —, une continuité possible du parcours consiste à rechercher des mécanismes qui permettent à des éléments autonomes de se **découvrir**, de se **représenter**, de **coopérer** et, idéalement, de **conserver la maîtrise** de leur participation.
