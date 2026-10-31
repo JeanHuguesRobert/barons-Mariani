@@ -323,6 +323,21 @@ Distribution comparée de l’accès et de l’exercice des capacités effective
 
 ---
 
+## Liberté opérationnelle
+
+**Type:** operational concept / action and choice
+**Scope:** Individual → Collective
+**Status:** Working definition
+
+**Short definition:**
+Ensemble des possibilités qu'un sujet situé est effectivement capable d'exercer ou de ne pas exercer, selon son choix, sans supposer l'existence ou l'inexistence du libre arbitre. La liberté d'action se distingue de la capacité réflexive à agir sur les motivations de ses choix. La responsabilité, concept symétrique mais distinct, concerne les conditions légitimes d'imputation des actes et omissions.
+
+**Reference documents:**
+- `research/noyau_doctrinal_rendre_capable.md`
+- `research/realite_operationnelle_et_reflexivite.md`
+
+---
+
 ## Liberté effective
 
 **Type:** capability concept / evaluative dimension  

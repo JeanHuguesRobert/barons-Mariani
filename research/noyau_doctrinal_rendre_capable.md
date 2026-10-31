@@ -134,6 +134,7 @@ Le document peut être lu à partir d’une grammaire simple :
 
 - **Possibilisme** : préserver et étendre l’espace des futurs accessibles.
 - **Liberté effective** : qualité de l’espace des options réellement accessibles et exerçables par un sujet, incluant sa capacité réelle à choisir entre elles, à ne pas les exercer, à différer, bifurquer ou revenir lorsque cela est possible.
+- **Liberté opérationnelle** : possibilité effective, pour un sujet situé, de faire ou de ne pas faire ce dont il est capable, selon son choix ; définition indépendante de toute thèse sur le libre arbitre. La liberté effective en étudie la qualité, l'étendue et les conditions d'exercice.
 - **Égalité effective** : distribution comparée de l’accès et de l’exercice des capacités effectives, en tenant compte des différences de situation pertinentes et des facteurs de conversion nécessaires.
 - **Fraternité effective** : capacité relationnelle et collective à prévenir un abandon capacitaire évitable et à rendre accessibles, dans le temps utile, des formes d’entraide qui préservent ou restaurent la capacité sans capture du bénéficiaire.
 - **Autonomie de capacité** : transformer des droits abstraits en moyens effectifs d’agir et maximiser soutenablement l’étendue des capacités effectives.
@@ -156,6 +157,20 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 ---
 
 # Changelog
+
+## Clarification doctrinale — liberté, volonté et responsabilité (31 octobre 2026)
+
+**Liberté opérationnelle.** La liberté d'un sujet, dans une situation donnée, porte sur ce qu'il est effectivement capable de faire ou de ne pas faire, selon son choix. Le possible nominal, la permission juridique, la simple envie et l'action accomplie ne sont pas équivalents. Le refus, l'abstention, l'attente et le renoncement volontaire font partie des options pertinentes. Les capacités sont situées et susceptibles d'évoluer.
+
+**Liberté d'action et liberté de vouloir.** Choisir entre des actes accessibles et pouvoir influer sur les motifs, désirs ou dispositions qui orientent ce choix sont deux capacités distinctes. Les déterminations culturelles, biographiques, sociales, physiques et ponctuelles peuvent limiter l'une ou l'autre. Se savoir conditionné, ou vouloir changer, ne garantit pas qu'on le puisse. Une liberté réflexive de second rang est donc envisageable, mais ne doit jamais être présumée illimitée.
+
+**Neutralité métaphysique.** Ce cadre ne tranche ni l'existence ni l'inexistence du libre arbitre ; il n'a pas besoin de le faire. « Liberté » désigne ici un concept *opérationnel*, non la propriété métaphysique d'une volonté sans causes. Voir [Réalité opérationnelle et réflexivité](realite_operationnelle_et_reflexivite.md).
+
+**Symétrie avec la responsabilité, sans équivalence.** La liberté examine les possibilités réellement ouvertes à un sujet ; la responsabilité examine ce qui peut légitimement lui être imputé à raison de ses actes ou omissions, dans les limites de ses capacités, connaissances, contraintes, rôles, mandats et possibilités de prévention ou de correction. L'imputation n'est ni automatique ni nécessairement punitive. Il faut distinguer responsabilité causale, responsabilité morale, responsabilité juridique et responsabilité institutionnelle : leurs critères ne sont pas identiques. On ne déduit pas une culpabilité du seul constat d'un effet dommageable.
+
+La formulation de la **liberté effective** reste multidimensionnelle : l'ensemble des options ne suffit pas à lui seul à apprécier leur accessibilité, leur qualité, la réalité du choix, la réversibilité ou l'horizon temporel.
+
+---
 
 ## v0.5.8 — 2026-09-27
 
