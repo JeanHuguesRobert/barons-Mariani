@@ -3,23 +3,23 @@
 > Capable est un mouvement civique et politique d'autonomie de capacité. Il documente l'écart entre droit formel, capacité annoncée, capacité effectivement accessible et effets réels.
 
 - Titre : Capable — Rendre possible, effectif et corrigible
-- Domaine : https://capable.lepp.fr
+- Domaine : https://capable.acorsica.org
 - Éditeur : Institut Mariani / C.O.R.S.I.C.A., Corte, Corse
 - Direction éditoriale : Jean Hugues Noël Robert, baron Mariani
 - Véhicule politique : Le Petit Parti
 - Licence : CC BY-SA 4.0
 
 ## Surfaces principales
-- Accueil : https://capable.lepp.fr/
-- Le Livre : https://capable.lepp.fr/book.html
-- Capable n°1 (Présidentielle 2027) : https://capable.lepp.fr/n1.html
-- Matrice publique d'interaction d'effectivité : https://capable.lepp.fr/matrix.html
-- Annuaire des acteurs : https://capable.lepp.fr/acteurs.html
-- Chronologie : https://capable.lepp.fr/chronologie.html
-- Sources opposables : https://capable.lepp.fr/sources.html
-- Guide conversationnel borné : https://capable.lepp.fr/guide.html
-- Contribuer / Corriger : https://capable.lepp.fr/contribuer.html
-- Mentions légales : https://capable.lepp.fr/mentions.html
+- Accueil : https://capable.acorsica.org/
+- Le Livre : https://capable.acorsica.org/book.html
+- Capable n°1 (Présidentielle 2027) : https://capable.acorsica.org/n1.html
+- Matrice publique d'interaction d'effectivité : https://capable.acorsica.org/matrix.html
+- Annuaire des acteurs : https://capable.acorsica.org/acteurs.html
+- Chronologie : https://capable.acorsica.org/chronologie.html
+- Sources opposables : https://capable.acorsica.org/sources.html
+- Guide conversationnel borné : https://capable.acorsica.org/guide.html
+- Contribuer / Corriger : https://capable.acorsica.org/contribuer.html
+- Mentions légales : https://capable.acorsica.org/mentions.html
 
 ## Invariants doctrinaux
 - Capable est un adjectif qualifiant un système (possibles, effectivité, corrigibilité) et non un verdict moral sur les personnes.
