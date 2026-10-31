@@ -158,6 +158,22 @@ L’antifragilité bornée n’est pas un mandat pour rechercher les chocs. Elle
 
 # Changelog
 
+## Liberté personnelle, autrui et mandat (31 octobre 2026)
+
+**Pouvoir de fait et pouvoir légitime.** La capacité matérielle de faire quelque chose ne donne pas nécessairement le droit de le faire. L'examen opérationnel distingue les capacités effectives, les possibilités de choix, le titre auquel on agit et les droits d'autrui.
+
+**Pour soi.** Le sujet définit ses fins, sous réserve des droits d'autrui. La liberté personnelle ne crée pas d'obligation générale de rendre des comptes sur sa vie privée.
+
+**Concernant autrui sans mandat.** La possibilité d'affecter autrui n'autorise ni domination ni intervention sans titre légitime. Les libertés doivent être coordonnées, sans que chacune soit considérée comme illimitée.
+
+**Pour autrui sous mandat.** Le mandat confère des capacités d'intervention finalisées, non une extension de la liberté privée. Il peut augmenter les moyens d'action tout en restreignant la discrétion légitime dans leur usage. Les actes mandatés sont gouvernés par les finalités, limites, contrôles, consentements et obligations de reddition des comptes propres au mandat ; ils n'abolissent pas la liberté personnelle hors mandat.
+
+**Responsabilité.** Le citoyen ordinaire n'a pas de devoir général de rendre des comptes sur ses choix privés. Le mandataire doit justifier proportionnellement les actes accomplis pour autrui. Cette reddition est distincte de la responsabilité causale, morale ou juridique et doit tenir compte des capacités et contraintes effectives.
+
+Voir [Souveraineté, délégation et Agents Mandatés](souverainete_delegation_agents_mandates.md).
+
+---
+
 ## Clarification doctrinale — liberté, volonté et responsabilité (31 octobre 2026)
 
 **Liberté opérationnelle.** La liberté d'un sujet, dans une situation donnée, porte sur ce qu'il est effectivement capable de faire ou de ne pas faire, selon son choix. Le possible nominal, la permission juridique, la simple envie et l'action accomplie ne sont pas équivalents. Le refus, l'abstention, l'attente et le renoncement volontaire font partie des options pertinentes. Les capacités sont situées et susceptibles d'évoluer.

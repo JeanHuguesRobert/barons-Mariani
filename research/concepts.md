@@ -330,7 +330,7 @@ Distribution comparée de l’accès et de l’exercice des capacités effective
 **Status:** Working definition
 
 **Short definition:**
-Ensemble des possibilités qu'un sujet situé est effectivement capable d'exercer ou de ne pas exercer, selon son choix, sans supposer l'existence ou l'inexistence du libre arbitre. La liberté d'action se distingue de la capacité réflexive à agir sur les motivations de ses choix. La responsabilité, concept symétrique mais distinct, concerne les conditions légitimes d'imputation des actes et omissions.
+Ensemble des possibilités qu'un sujet situé est effectivement capable d'exercer ou de ne pas exercer, selon son choix, sans supposer l'existence ou l'inexistence du libre arbitre. La liberté d'action se distingue de la capacité réflexive à agir sur les motivations de ses choix. La responsabilité, concept symétrique mais distinct, concerne les conditions légitimes d'imputation des actes et omissions. Pouvoir agir sur autrui n'autorise pas à le faire ; un mandat confère une capacité finalisée, non une liberté personnelle accrue. La reddition des comptes est proportionnée au pouvoir effectivement exercé, à la latitude accordée et aux effets possibles.
 
 **Reference documents:**
 - `research/noyau_doctrinal_rendre_capable.md`

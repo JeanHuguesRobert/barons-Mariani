@@ -83,6 +83,16 @@ Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès 
 Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'[amendement d'effectivité](autonomia/amendement_effectivite_article_72-5.md) ne modifie ni le libellé ni le statut parlementaire de cette proposition.
 
 
+## Liberté et mandat (31 octobre 2026)
+
+Une capacité déléguée augmente parfois le pouvoir matériel de l'agent, mais non sa liberté personnelle. Le mandataire exerce une latitude finalisée et contrôlable, pour le compte du mandant : les biens, informations et pouvoirs confiés ne deviennent pas les siens. Le droit de décider, le devoir de justifier et les modalités de recours dépendent du périmètre du mandat. La liberté privée du mandataire demeure distincte.
+
+**Règle de gouvernance.** Plus un acteur exerce de pouvoir sur les intérêts d'autrui, plus la reddition des comptes doit être exigeante, selon sa latitude de décision et les effets possibles de ses actes. Le pouvoir effectif, l'autonomie accordée et le risque ne sont pas synonymes : chacun intervient dans la proportionnalité des garanties. Le mandant conserve sa propre responsabilité pour la délégation, sa définition et son contrôle ; le mandataire répond de l'exécution qui lui est imputable. Aucun de ces devoirs ne justifie la surveillance générale du citoyen agissant pour son propre compte.
+
+Une action personnelle qui concerne autrui n'est pas nécessairement un acte mandaté ; inversement, la capacité de fait d'affecter autrui ne vaut pas autorisation. Voir [Rendre capable](noyau_doctrinal_rendre_capable.md).
+
+---
+
 ## 1. Objet
 
 Ce document consolide une grammaire commune apparue dans plusieurs branches du Corpus : démocratie capable, Autonomie de Capacité, théorie de sécurité de la démocratie représentative, Kudocracy, Stabilisateur procédural, Agents JHN et architectures agentiques.

@@ -390,7 +390,7 @@ Cette architecture ne suppose pas que tout soit public au même degré.
 
 Elle suppose en revanche que les actes prétendant orienter la décision commune deviennent suffisamment traçables pour être discutés, contestés et corrigés.
 
-La traçabilité est proportionnelle au pouvoir d’influence.
+La traçabilité est proportionnelle au pouvoir d’influence. L'auditabilité dépend également de la latitude de décision et des conséquences possibles ; elle ne se confond ni avec une surveillance uniforme des citoyens, ni avec une présomption de culpabilité. Le mandant et le mandataire répondent chacun de leur rôle propre.
 
 Un citoyen ordinaire doit conserver une sphère de protection. Un agent suggestif influent, un agent recommandateur, un mandataire, un collectif militant, une IA publique ou une institution doivent accepter un niveau supérieur d’auditabilité.
 

@@ -103,6 +103,10 @@ Cette exigence s’applique à plusieurs types de mandataires :
 
 Plus l’autonomie accordée à un mandataire augmente, plus les mécanismes de traçabilité, d’imputabilité et de correction doivent être robustes. L’objectif n’est pas d’empêcher l’action, mais de la rendre contrôlable sans exiger une autorisation préalable pour chaque opération.
 
+**Principe de proportionnalité des comptes à rendre.** L'exigence de reddition des comptes dépend cumulativement du pouvoir effectivement exercé sur les intérêts d'autrui, de la latitude décisionnelle confiée et de la gravité, probabilité et réversibilité des conséquences possibles. Elle reste bornée par ce qui est raisonnablement imputable au mandataire, compte tenu de ses informations, capacités, contraintes et moyens de correction. Un pouvoir considérable appelle des garanties même lorsque la discrétion du mandataire est faible ; une large latitude n'autorise jamais l'appropriation des intérêts du mandant.
+
+**Distinguer les responsabilités.** Les actes du mandataire ne dissolvent pas les responsabilités propres du mandant : choix du mandataire, définition et surveillance du mandat, moyens confiés et suites données aux alertes. L'agent répond de sa propre exécution. Une chaîne de délégations doit permettre d'identifier les deux sans imputation automatique. L'obligation de rendre compte concerne les actes accomplis pour autrui ; elle ne fonde pas une surveillance générale des choix privés du citoyen. Traçabilité et reddition doivent être utiles, proportionnées, protectrices des droits des tiers et compatibles avec la confidentialité légitime.
+
 ---
 
 ## 2. Actes engageants : définition et seuils
