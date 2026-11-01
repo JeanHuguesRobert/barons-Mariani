@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
-"""Compile a reproducible *preview* from three Markdown sources and a selection contract.
+"""Compose the current exhibits inventory, or opt in to the historical QPC preview.
 
-Requirements: Python 3.10+, pandoc, and a working PDF engine (xelatex).
-No network, upload, e-mail, signing, or filing is performed.
+Exhibits mode is the default; it makes no claim that any native file was
+attached, transmitted or accepted. Legacy mode requires an explicit option
+and needs pandoc/xelatex unless --compose-only is used. No network, email,
+upload, signing or filing is performed by either mode.
 """
 from __future__ import annotations
 import argparse
+import csv
 import hashlib
 import json
 import re
@@ -17,6 +20,8 @@ SEN = ROOT / "research" / "senatoriales-2026"
 CON = SEN / "complement-2026-6589-sen"
 MAIN = CON / "texte-maitre-travail-v0.1.md"
 DELIVERY_SELECTION = CON / "delivery-selection.json"
+NOTICES = CON / "notes-provenance-v0.1.md"
+BORDEREAU = CON / "bordereau-production-propose.csv"
 L299 = SEN / "qpc" / "memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md"
 L303 = SEN / "qpc" / "memoire-qpc-l303-garanties-juridictionnelles.md"
 FIRST = "## VI–VII. Mémoires QPC autonomes — inclusion par référence"
@@ -102,13 +107,67 @@ def select_delivery_body(text: str) -> tuple[str, dict]:
     }
 
 
+def make_exhibits(out: Path, *, compose_only: bool = False) -> None:
+    """Prepare a fact-oriented exhibit cover and inventory; never assert filing."""
+    notices = document(NOTICES)
+    start = notices.index("## Notices prêtes à compléter")
+    end = notices.index("## Notices réservées à la version institutionnelle", start)
+    table = notices[start:end].strip()
+    with BORDEREAU.open(encoding="utf-8", newline="") as stream:
+        rows = list(csv.DictReader(stream))
+    proposed = [r for r in rows if r.get("selection") == "JOIN"]
+    ready = [r for r in proposed if r.get("delivery_artifact_ready", "").lower() == "true"]
+    # CSV statements are proposals, not evidence of a prepared, attached binary.
+    title = "2026-6589 SEN — Communication des pièces citées dans la requête"
+    body = f"""# {title}
+
+**PROJET DOCUMENTAIRE — NON ENVOYÉ — NON PRÊT AU DÉPÔT.**
+
+## Projet de courrier d'accompagnement (sous réserve des fichiers effectivement réunis)
+
+Madame, Monsieur du greffe du Conseil constitutionnel,
+
+À la suite de votre demande du 7 octobre 2026 et de votre accusé de réception du 8 octobre, je prépare la communication matérielle des pièces déjà mentionnées dans la requête enregistrée sous le n° 2026-6589 SEN, avec un bordereau et des notices permettant de vérifier leur provenance et leur correspondance avec les faits invoqués.
+
+La présente version est un **projet**, et ne constitue ni une remise effective des pièces ni un nouveau mémoire. Seuls les fichiers réellement contrôlés et effectivement joints pourront figurer dans le bordereau définitif.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération respectueuse.
+
+## Bordereau de travail — références déjà citées, non attestées jointes
+
+{table}
+
+## Périmètre et réserves
+
+- Les références documentaires ci-dessus **ne prouvent pas** que les originaux sont joints ou déjà présents au dossier du Conseil.
+- Les notices expliquent les faits documentés et leurs limites ; elles ne créent aucun grief autonome.
+- Les deux QPC L.299 et L.303, de nature procédurale distincte, sont **exclues de ce bordereau de pièces ordinaires** ; leur transmission exige un circuit propre.
+- Les données privées et fichiers natifs ne sont jamais copiés automatiquement depuis leurs emplacements de conservation.
+- L'inventaire final des fichiers exige noms, tailles, empreintes réelles, contrôle de confidentialité et accusés de chaque canal.
+"""
+    out.mkdir(parents=True, exist_ok=True)
+    md = out / "communication-pieces.preview.md"
+    md.write_text(body, encoding="utf-8")
+    manifest = {
+        "mode": "exhibits", "filing_ready": False, "sent": False,
+        "source_git_commit": git_revision(),
+        "sources": [{"path": str(p.relative_to(ROOT)), "sha256": sha256(p)} for p in (NOTICES, BORDEREAU)],
+        "proposed_join_objects": len(proposed),
+        "join_objects_marked_ready_in_register": len(ready),
+        "actual_attached_files": [], "unverified_filing": True,
+        "qpc_handling": "separate procedural memoranda, never ordinary exhibits",
+        "output_sha256": sha256(md),
+    }
+    (out / "manifest.preview.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if not compose_only:
+        # Plain-text transport draft keeps the source Markdown legible, without HTML.
+        (out / "communication-pieces.preview.txt").write_text(body, encoding="utf-8")
+    print(str(md))
+
+
 def make(out: Path, pdf_engine: str, compose_only: bool = False, *, legacy_argumentative_preview: bool = False) -> None:
     if not legacy_argumentative_preview:
-        raise SystemExit(
-            "FBF: ancien composeur argumentatif désactivé pour la communication des pièces. "
-            "Utiliser le courrier de communication et son bordereau ; "
-            "--legacy-argumentative-preview est réservé à l'inspection historique locale."
-        )
+        return make_exhibits(out, compose_only=compose_only)
     main, delivery_selection = select_delivery_body(document(MAIN))
     q299 = extract_qpc(L299)
     q303 = extract_qpc(L303)
@@ -173,6 +232,6 @@ if __name__ == "__main__":
     parser.add_argument("--out", default="/tmp/sen-2026-6589-preview")
     parser.add_argument("--pdf-engine", default="xelatex")
     parser.add_argument("--compose-only", action="store_true")
-    parser.add_argument("--legacy-argumentative-preview", action="store_true", help="Inspect archived argumentative preview only; never filing-ready")
+    parser.add_argument("--legacy-argumentative-preview", action="store_true", help="Explicit historical argumentative preview with QPC; never filing-ready")
     args = parser.parse_args()
     make(Path(args.out).resolve(), args.pdf_engine, args.compose_only, legacy_argumentative_preview=args.legacy_argumentative_preview)
