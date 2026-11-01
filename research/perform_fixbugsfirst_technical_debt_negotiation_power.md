@@ -113,6 +113,14 @@ surtout à **SAGE** ; StarX25 est le volet **sécurité frontière** du même
 écosystème (détail §4).
 
 
+### Origine de l'acronyme SAGE — témoignage du 1er novembre 2026
+
+Jean Hugues Robert, concepteur du système, précise que **SAGE** signifiait d'abord **« Système Autonome de Gestion d'Équipements »**, avant d'être reformulé volontairement en **« Système d'Aide à la Gestion d'Équipements »**. Il explique avoir estimé la promesse d'autonomie trop ambitieuse pour les capacités disponibles. La qualification « hétérogènes » décrit le périmètre technique documenté par cette note, mais ne doit pas être présentée comme un mot certain de l'expansion initiale de l'acronyme.
+
+**Provenance :** témoignage autobiographique direct du 1er novembre 2026 ; l'existence des produits SAGE/SAGE-X et leur protection historique par marque sont des questions documentaires distinctes. **Interprétation rétrospective :** ce passage de l'autonomie annoncée à l'assistance effectivement réalisable évoque la distinction contemporaine entre assistance et délégation contrôlée, sans prouver que les règles actuelles de Cogentia étaient déjà formulées à l'époque.
+
+La continuité humaine est également à documenter : selon le même témoignage, Jean Hugues Robert recrute Jean-François Catz chez Perform, puis à nouveau chez Odisei/8x8 ; il recrute Thierry Parmentelat chez Odisei. Les trois se retrouveront parmi les fondateurs de D2Lab en 2006 (voir [index biographique](./biographie_index.md)).
+
 ## 3. FixBugsFirst — solution à un problème encore sans nom courant
 
 ### 3.1 Le problème
