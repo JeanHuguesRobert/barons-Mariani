@@ -37,6 +37,10 @@ La [notice P-13](parcours-video-p13-v0.1.md) donne désormais l'empreinte recalc
 
 La [section 8 du checkpoint](checkpoint-provenance-2026-10-21.md#8-historical-targeted-primary-source-access-check-after-comment-6316431877) est un relevé historique des blocages avant transfert ; la [section 9](checkpoint-provenance-2026-10-21.md#9-acquisition-p-17-et-p-14-p-44-apres-le-transfert-sur-fracta2) consigne leur résolution partielle. Les états de remise restent distincts de la localisation et du hachage. Les transcriptions historiques P-17 et les sources primaires P-20 demeurent non acquises.
 
+## Objet transversal de l'apport des pièces
+
+Les notices assument une double fonction : **prouver la provenance et motiver la pertinence** de chaque pièce. La [grille commune](doctrine-notices-double-fonction-suite-demande-greffe-2026-10-21.md) porte sur l'empêchement effectif et son évitabilité alléguée, **sans exiger la preuve d'une intention de nuire** et sans confondre vérification matérielle du consentement et satisfaction des formalités légales. Chaque notice conserve la meilleure objection et son rattachement à G1–G5.
+
 ## Règle commune
 
 Pour chaque pièce : identifiant stable ; description minimale ; source primaire et date ; fait établi ; grief G1–G5 ; limite probatoire ; date de constitution versus date des faits ; chaîne de transmission (émis / reçu / versé / examiné, états distincts) ; éventuelle empreinte calculée sur le binaire natif ; restriction de diffusion ; mesure d'instruction utile.

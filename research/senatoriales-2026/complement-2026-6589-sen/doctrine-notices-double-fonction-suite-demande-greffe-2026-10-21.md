@@ -32,6 +32,20 @@ Toute notice distingue expressément :
 
 **D. Production.** Une notice exploitable par le greffe est autonome : elle donne le minimum de faits et de références nécessaires sans obliger le lecteur à parcourir GitHub. Les liens canoniques facilitent les vérifications, mais ne remplacent pas le fichier effectivement joint, spécialement lorsque les liens externes sont bloqués par le réseau du Conseil.
 
+## 2 bis. Objet probatoire transversal — effets et évitabilité de l'empêchement
+
+Ces notices n'établissent pas seulement l'origine des pièces : elles exposent leur **fonction probatoire** au soutien de griefs déjà présents dans la requête. Cette grille ne crée pas de grief électoral nouveau.
+
+Le requérant **n'entend pas démontrer une intention concertée** des autorités de faire obstacle à sa candidature. Une telle preuve subjective lui serait en pratique particulièrement difficilement accessible. Il entend plutôt établir, par un **faisceau d'indices matériels, précis et concordants**, que sa candidature a été effectivement empêchée, alors que des moyens de vérifier l'authenticité et la sincérité du consentement de sa remplaçante étaient matériellement envisageables.
+
+La question n'est pas de savoir si une autorité *voulait* empêcher cette candidature, mais si le fonctionnement combiné des règles et des institutions a produit un **empêchement disproportionné, éventuellement évitable sans méconnaître les exigences légitimes de la procédure électorale**. Le requérant demande d'examiner la finalité du formalisme, les conditions concrètes de sa mise en œuvre, les contraintes subies, les vérifications ou régularisations envisageables et les garanties juridictionnelles disponibles, en rattachement à G1–G4 et aux QPC déjà invoquées.
+
+**Objection centrale :** la possibilité matérielle de vérifier le consentement ne prouve pas que la formalité écrite exigée par la loi pouvait être écartée. Pour chaque mesure alternative, la notice doit donc évaluer séparément sa faisabilité dans les délais et sa validité juridique, sans présenter l'évitabilité comme déjà démontrée.
+
+**Méthode par indice :** fait établi ; source datée ; inférence limitée ; meilleure objection ; mesure alternative concrète et sa faisabilité ; conséquence observable ; trace complémentaire recherchée et son détenteur éventuel. La non-accessibilité d'une trace administrative ne prouve ni l'absence de l'acte ni l'intention de dissimuler : elle marque une **limite de connaissance**, qui ne doit pas devenir une exigence de prouver l'impossible.
+
+Rapprochements principaux : **P-06/P-09** (formalisme), **P-12/P-13/P-43** (consentement), **P-14/P-17/P-19/P-20** (procédure et jugement), **P-45/P-46** (diligences, réponses et traces de transmission). L'ensemble reste soumis à la contradiction et à la vérification de chaque pièce.
+
 ## 3. Notice complémentaire P-14-N1 — l'inventaire et les limites de la saisine préfectorale
 
 ### A. Provenance
