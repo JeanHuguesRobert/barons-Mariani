@@ -11,17 +11,17 @@ filing_ready: false
 
 # Proposition de composition du message au greffe — pièce de travail
 
-**IMPORTANT :** le courriel définitif doit reproduire **intégralement** le mémoire maître validé (y compris les deux mémoires QPC distincts), et non seulement le présent texte. Ce fichier sert à préparer les passages d'ouverture et de clôture du rendu email et à instruire la compilation, **pas** à servir seul de corps de courriel.
+**IMPORTANT :** cette proposition est désormais destinée à une **communication de pièces et de notices**. La compilation du mémoire argumentatif intégral relève d’un autre livrable et ne doit pas être insérée automatiquement dans cet envoi. Ce fichier sert à préparer les passages d'ouverture et de clôture du rendu email et à instruire la compilation, **pas** à servir seul de corps de courriel.
 
-**Objet de travail :** Dossier n° 2026-6589 SEN — Complément à la requête enregistrée — observations, pièces et notices de provenance
+**Objet de travail :** Dossier n° 2026-6589 SEN — Communication des pièces mentionnées dans la requête enregistrée
 
 ## Ouverture proposée
 
 Madame, Monsieur du greffe du Conseil constitutionnel,
 
-À la suite de l'enregistrement de ma requête relative à l'élection sénatoriale du 27 septembre 2026 en Haute-Corse, sous le n° 2026-6589 SEN, je vous adresse un complément consacré aux griefs **déjà exposés** dans cette requête. Ce complément ne modifie pas le texte de la requête initiale ni ne prétend soulever un grief électoral nouveau hors délai. Il présente les développements, mémoires distincts et pièces destinés à permettre la vérification contradictoire des faits déjà invoqués, sous réserve de l'appréciation du Conseil quant à leur recevabilité et à leur portée.
+À la suite de votre demande du 7 octobre 2026 de communiquer ma requête et ses pièces par TransfertPro, et de votre accusé de réception du 8 octobre, je vous transmets les pièces déjà mentionnées dans la requête enregistrée sous le n° 2026-6589 SEN, avec un bordereau et des notices permettant de les identifier et de vérifier leur provenance.
 
-Le présent courriel reprend **l'intégralité du mémoire complémentaire en texte directement lisible**, y compris le texte complet des deux mémoires distincts relatifs aux articles L.299 et L.303 du code électoral. Il porte trois PDF en pièces jointes : le PDF englobant qui reproduit intégralement les deux QPC, le mémoire QPC L.299 autonome et le mémoire QPC L.303 autonome. Le lot TransfertPro comprendra quatre fichiers uniques : ces trois mêmes PDF, sans modification binaire, et la vidéo native P-13. **La confirmation de leur dépôt et de leur réception sera décrite séparément après exécution du transfert ; rien ici ne préjuge de cette réception.**
+Ces notices indiquent les faits documentés et les références correspondantes dans la requête initiale. Cette transmission a pour objet de rendre les pièces matériellement consultables ; elle ne remplace ni ne modifie la requête enregistrée.
 
 L'un des points essentiels appelle une distinction factuelle : l'émission le 11 septembre 2026 à 17 h 57 min 55 s du courriel P-12 contenant le lien vers la déclaration vidéo P-13 est documentée, mais son acceptation par les serveurs préfectoraux avant 18 heures, son éventuelle transmission complémentaire au Tribunal administratif et son examen avant le jugement ne sont pas établis. Le premier inventaire préfectoral connu, comportant seize pièces, ne nomme pas explicitement cet envoi. Je ne prétends donc pas démontrer par cette absence qu'aucune transmission ultérieure n'a eu lieu.
 
@@ -29,15 +29,13 @@ Afin d'éclaircir ces points, j'ai adressé des courriels répétés à la préf
 
 Pour les seuls documents administratifs identifiables susceptibles d'être détenus par la Préfecture, je prépare séparément une démarche au titre du droit d'accès prévu par le CRPA et, si les conditions de refus et les délais sont réunis, une saisine de la CADA. Cette démarche n'est pas encore déposée et son issue n'est pas anticipée. Elle ne vise pas les pièces relevant de l'activité juridictionnelle du Tribunal administratif : pour celles-ci, je sollicite séparément les mesures d'instruction déjà demandées au Conseil sur le fondement de l'article 42 de l'ordonnance organique n° 58-1067.
 
-## Emplacement obligatoire du texte souverain
+## Instruction interne — assemblage documentaire
 
-**[À LA COMPILATION UNIQUEMENT — insérer ici le CORPS INTÉGRAL et validé de `texte-maitre-travail-v0.1.md`, y compris les deux QPC complètes, le bordereau définitif et les notices retenues ; supprimer cette instruction technique des rendus de dépôt.]**
-
-L'ouverture ci-dessus doit être dédupliquée par rapport au début du mémoire maître et relue pour cohérence ; ne pas conserver deux introductions redondantes ou contradictoires. Le texte juridique et les annexes approuvées priment sur le présent brouillon d'accompagnement.
+Insérer ici, à la compilation uniquement, le **bordereau des pièces réellement jointes** et leurs notices de provenance factuelles, avec références et limites de vérification. Ne pas annoncer de fichier non effectivement joint. Les mémoires QPC L.299 et L.303 restent des actes de nature procédurale distincte : décider et vérifier séparément leur mode de communication, sans les qualifier artificiellement de simples pièces d'origine. Aucune de ces instructions internes ne doit apparaître dans le courriel final.
 
 ## Proposition de clôture
 
-Sous réserve de l'appréciation du Conseil sur la recevabilité des développements et productions complémentaires, je vous prie de bien vouloir les verser à la procédure n° 2026-6589 SEN et les soumettre à l'examen de la formation compétente. Je sollicite, dans la mesure nécessaire à l'instruction des griefs initiaux, la vérification de la chaîne de réception et de transmission des éléments P-12/P-13, notamment l'existence de journaux techniques, inventaires ou productions complémentaires antérieures au jugement du 14 septembre 2026.
+Je vous prie de bien vouloir rattacher les pièces transmises et leurs notices de provenance au dossier n° 2026-6589 SEN et de les mettre à la disposition de la formation compétente. Je sollicite, dans la mesure nécessaire à l'instruction des griefs initiaux, la vérification de la chaîne de réception et de transmission des éléments P-12/P-13, notamment l'existence de journaux techniques, inventaires ou productions complémentaires antérieures au jugement du 14 septembre 2026.
 
 La démarche distincte envisagée au titre du CRPA et, si ses conditions sont réunies, devant la CADA concerne l'accès aux documents administratifs identifiés détenus par la Préfecture. Je demande au Conseil de ne pas s'en tenir à la seule existence de cette démarche : dans le cadre de l'article 42 de l'ordonnance organique n° 58-1067, il peut, s'il l'estime utile à l'instruction, se faire communiquer les documents ayant trait à l'élection. Je le prie donc d'examiner lui-même les vérifications précises déjà demandées dans la requête initiale, notamment auprès des institutions détenant les traces de réception, d'inventaire et de transmission, et de faire préciser, pour chaque élément qui ne pourrait être produit, s'il est inexistant, non conservé, inaccessible ou écarté du champ de la demande. Je comprends que l'article 42 confère au Conseil un pouvoir d'instruction, et ne lui impose pas d'ordonner chacune des mesures sollicitées ; ma demande est de l'inviter expressément à exercer ce pouvoir sur les points déterminants encore inconnus.
 
@@ -54,8 +52,8 @@ Jean Hugues Noël Robert
 ## Paramètres à geler avant expédition
 
 - Références : vérifier n° de dossier, titre définitif, origine de chaque grief et régime des deux QPC.
-- Mémoire : compilation du maître unique, sans marqueurs techniques, doublons ni descriptions de fichiers non réellement joints.
-- Courriel : **texte intégral + 3 PDF joints** ; TransfertPro : **les mêmes 3 PDF + P-13 MP4**.
+- Pièces : bordereau exact et notices de provenance, sans marqueurs techniques, doublons ni annonce de fichiers non joints.
+- Canaux : inventorier les fichiers réellement préparés et remis ; ne pas reprendre automatiquement le contrat ancien « mémoire intégral + 3 PDF ». Traiter séparément les deux mémoires QPC.
 - Fichiers : noms, tailles et SHA-256 réels des PDF définitifs, et identité binaire sur les deux canaux ; vidéo P-13 vérifiée.
 - Notices P-46 : volume intégral des correspondances seulement après vérification de la sélection, des réponses, de la confidentialité, de sa taille et de l'intégration matérielle au PDF englobant.
 - Distinguer sources, inférences et UNKNOWN ; ne pas soutenir que le rattachement à une pièce citée garantit la recevabilité procédurale d'une nouvelle annexe.

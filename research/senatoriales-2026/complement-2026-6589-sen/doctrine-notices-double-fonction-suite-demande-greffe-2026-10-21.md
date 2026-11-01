@@ -20,6 +20,8 @@ Le **8 octobre à 10 h 30 min 06 s (heure de Paris)**, le greffe confirme avoir 
 
 Ce paragraphe ne doit pas être dupliqué s'il existe déjà dans l'ouverture du texte maître.
 
+**Consigne de présentation externe (1er novembre 2026).** Dans le courrier demandé par le greffe, parler de **communication matérielle des pièces déjà mentionnées dans la requête enregistrée**, accompagnées de notices de provenance et d'un bordereau. Ne pas qualifier spontanément cet envoi de « mémoire complémentaire » ni y compiler par défaut un argumentaire autonome. La grille interne du § 2 bis oriente les notices ; seules les explications directement utiles à l'identification et à la portée probatoire de chaque pièce sont reprises. Cette présentation n'efface pas la nature juridique réelle des contenus : les mémoires QPC doivent conserver leur qualification et leur canal procédural propres.
+
 ## 2. Contrat universel d'une notice à double fonction
 
 Toute notice distingue expressément :
