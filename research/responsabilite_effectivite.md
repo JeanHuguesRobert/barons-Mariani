@@ -439,3 +439,13 @@ Pour un dispositif `P` :
 > **Une démocratie capable doit être capable d’apprendre.**
 
 > **Le Réel répond ; l’institution doit pouvoir répondre au Réel.**
+
+## Complément du 1er novembre 2026 — responsabilité des décisions algorithmiques
+
+L'automatisation peut assurer matériellement une décision ; elle ne constitue pas en elle-même un sujet responsable auquel une institution pourrait transférer ses obligations. Pour examiner une décision obscure, distinguer l'**auteur de la règle**, le **gestionnaire du système**, le **détenteur du pouvoir de correction**, l'**agent d'exécution** et la **personne affectée**. Une même organisation peut cumuler plusieurs fonctions. La responsabilité normative ou juridique de chacun ne se déduit pas automatiquement de sa présence dans le circuit technique ; elle exige une qualification précise.
+
+La prudence devant les IA puissantes et le souci de traçabilité ne s'opposent pas. L'enjeu est une **prudence accountable** : décision traçable, motif proportionné et intelligible, possibilité de correction, sans divulguer ce qui faciliterait des abus. Une justification de type « l'algorithme a décidé » ne décrit pas à elle seule la règle applicable ni l'autorité qui l'assume.
+
+**Prendre au mot** : mettre en rapport les engagements explicites d'une institution (obligation légale, objectif politique, principe déclaré) et les effets observés. La divergence est une question de Réel et d'effectivité, **pas automatiquement une infraction**. Ne pas exiger une procédure coûteuse pour confirmer un écart déjà utilement documenté : décider en fonction de la capacité de correction et du coût d'opportunité.
+
+Détails et sources juridiques datées : [Décision algorithmique : prudence, transparence et responsabilité](decision_algorithmique_transparence_responsabilite.md). Cas d'étude : [Operium #78](https://github.com/JeanHuguesRobert/operium/issues/78).
