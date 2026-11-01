@@ -110,3 +110,9 @@ La réparabilité judiciaire doit être vérifiée *cas par cas* ; l'effectivit�
 - https://github.com/JeanHuguesRobert/operium/issues/78
 
 Document de recherche juridique, sans demande de procédure ni conclusion de faute imputable à un fournisseur déterminé.
+
+## 8. Symétrie potentique avec la visibilité algorithmique : précautions
+
+Une publication déclassée peut perdre une **chance d'atteindre un public ou une opportunité concrète**, tout comme le refus d'une capacité IA peut réduire une chance d'accomplir une tâche. Cette symétrie est descriptive ; la **liberté d'expression**, les **obligations DSA** et les **relations contractuelles** n'ont pas les mêmes conditions d'application. Une baisse de visibilité n'est pas en soi la preuve d'une sanction ; une suppression ou un déclassement décidé ne constitue pas automatiquement un dommage indemnisable.
+
+Pour un dossier probatoire, isoler la décision de modération lorsqu'elle existe, la portée observée, les groupes témoins, la fenêtre temporelle et la chance favorable spécifique perdue. Distinguer les coûts directs, le manque à gagner et la perte de chance pour éviter le double compte. L'article 17 DSA reconnaît explicitement certaines restrictions de visibilité, sans droit général à être recommandé. Voir [état de l'art et protocole comparatif](decision_algorithmique_transparence_responsabilite.md#7-restriction-de-visibilité-et-restriction-de-capacité--parenté-distinctions-et-état-de-lart-1er-novembre-2026).
