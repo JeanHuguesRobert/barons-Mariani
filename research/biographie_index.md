@@ -32,7 +32,18 @@ Cet index **organise des documents déjà présents dans le Corpus**. Il ne cons
 | 2008–2018 et après | Préfiguration puis formalisation de l'Institut Mariani | [Institut Mariani — définition et généalogie](./institut_mariani.md) |
 | 2017–2026 | Extrême Centre, Bayrou, Macron, mécontentement — étude rétrospective | [Note de recherche, distincte de la biographie](./extreme_centre_mecontentement_rupture_bayrou_macron.md) |
 
-## 3. Règles éditoriales de maintenance
+## 3. Continuité humaine et témoignages nouveaux (1er novembre 2026)
+
+Témoignage direct de Jean Hugues Robert recueilli le 1er novembre 2026, à distinguer des actes d'entreprise et des vérifications OSINT :
+
+- **Perform SA (Aix-en-Provence)** : Jean Hugues Robert indique avoir recruté **Jean-François Catz**.
+- **Odisei / 8x8 (Sophia Antipolis)** : il indique avoir recruté de nouveau **Jean-François Catz**, puis **Thierry Parmentelat**. Le recrutement de Thierry était déjà mentionné dans le [paquet de reprise de contact de juillet 2026](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/interaction_packets/packets/2026/2026-07-21-reprise_contact_parmentelat.yaml).
+- **D2Lab SA (Luxembourg, 2006)** : les trois se retrouvent actionnaires fondateurs avec Rodolphe Briet et Yvan Balsamo. Les [statuts de juin 2006](https://memorialc.public.lu/memorial/2006/C/Pdf/c1696129.pdf) constituent une trace indépendante de cette fondation, non des recrutements antérieurs.
+- **SAGE (Perform)** : son auteur précise que l'acronyme signifiait initialement « Système Autonome de Gestion d'Équipements », puis a été volontairement reformulé en « Système d'Aide à la Gestion d'Équipements » : un objectif d'autonomie jugé trop ambitieux à l'époque. Voir la [note Perform](./perform_fixbugsfirst_technical_debt_negotiation_power.md).
+
+Cette trame décrit une **filiation de personnes et de compétences**, complémentaire des filiations des entreprises et des logiciels. Elle ne démontre ni la continuité juridique des sociétés, ni une identité de code ou de doctrine entre les projets. Pour D2Lab, distinguer l'arrêt opérationnel envisagé dès 2007, les publications de gouvernance en 2009 et le statut juridique final encore non vérifié : [dossier historique](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/d2lab_wikis_are_here_to_stay.md).
+
+## 4. Règles éditoriales de maintenance
 
 1. **Biographie synthétique** : conserver un texte lisible dans Kudos ; éviter d'y reproduire les détails des documents historiques.
 2. **Index biographique** : maintenir ici les renvois entre projets et périodes ; préférer les références déjà disponibles plutôt que des duplications.
