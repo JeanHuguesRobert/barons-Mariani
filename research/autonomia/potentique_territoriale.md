@@ -517,3 +517,9 @@ Une Machine à Empêcher n'a pas besoin d'intention malveillante ni d'une interd
 **Le gain de capacité est le critère de succès**, non la reconnaissance d'un tort par l'obstacle. L'intention et la qualification juridique peuvent rester indéterminées sans bloquer l'action. La « ruse » signifie ici intelligence du chemin indirect et exploitation licite d'alternatives, non tromperie ou neutralisation de contrôles de sécurité. Elle respecte les droits des tiers, les mandats et la reddition de comptes.
 
 Cas d'épreuve : [Operium #78](https://github.com/JeanHuguesRobert/operium/issues/78). Volet juridique et méthode « Prendre au mot » : [Décision algorithmique, transparence et responsabilité](../decision_algorithmique_transparence_responsabilite.md).
+
+## Complément — de la perte de Possible à la perte de chance juridiquement réparable
+
+La **perte de chance capacitaire** décrit une diminution contrefactuelle étayée de l'espace des actions effectivement accessibles. La **perte de chance en droit civil** exige davantage : une opportunité favorable individualisable, sa disparition ou son amputation imputable à un fait générateur de responsabilité, un lien causal et une évaluation du préjudice. Une réduction réelle du champ des possibles n'est pas automatiquement un dommage juridiquement indemnisable ; inversement, le défaut de certitude du succès final ne suffit pas à écarter une chance perdue réelle.
+
+Pour les restrictions de capacités IA, documenter au plus faible coût les opportunités datées, le délai perdu, la disponibilité d'un détour et la dégradation effective de la probabilité d'aboutir ; traiter séparément les coûts directs. Voir [étude juridique, jurisprudence du 27 juin 2025 et grille de preuve](../perte_de_chance_restrictions_capacites_ia.md). La méthode conserve sa priorité : restaurer la capacité par bifurcation plutôt que dépendre d'une réparation contentieuse hypothétique.
