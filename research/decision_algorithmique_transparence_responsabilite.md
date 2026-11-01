@@ -72,3 +72,9 @@ La recherche des responsabilités n'est pas un passage obligé. Quand les ressou
 Ce principe ne recommande ni dissimulation, ni contournement illégal de protections, ni action sans autorisation. Il distingue le **choix du chemin** de la légitimité de l'objectif et des moyens.
 
 Document de recherche ; aucune qualification juridique individualisée de l'incident n'est affirmée.
+
+## 6. Perte de chance : une conséquence juridique possible, pas une présomption
+
+Une restriction fautive peut priver un usager d'une **chance concrète** de tirer bénéfice d'une capacité IA, même sans certitude de succès final. La jurisprudence de l'Assemblée plénière de la Cour de cassation du 27 juin 2025 confirme la réparabilité de la disparition actuelle et certaine d'une éventualité favorable et la nécessité de l'évaluer lorsqu'elle est juridiquement établie. Il reste indispensable de caractériser le fondement de responsabilité, la causalité, l'opportunité perdue et sa valeur ; une simple commande refusée puis exécutée sans perte d'opportunité ne prouve pas une perte de chance indemnisable.
+
+Analyse contradictoire et sources primaires : [Perte de chance et empêchement d'accès aux capacités IA](perte_de_chance_restrictions_capacites_ia.md). Cette qualification ne transforme pas la décision du Principal de privilégier la bifurcation en projet contentieux.
