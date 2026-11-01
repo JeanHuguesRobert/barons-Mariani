@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Preview only: do not email, publish, push or modify a serving release.
+# ARCHIVED ARGUMENTATIVE PREVIEW ONLY: not the exhibits communication; do not email, publish, push or modify a serving release.
 set -euo pipefail
 ROOT="$(git -C "$(dirname "$0")/.." rev-parse --show-toplevel)"
 UBIKIA_DIR="${UBIKIA_DIR:-/srv/cogentia/repos/ubikia}"
@@ -17,7 +17,7 @@ command -v node
 test -f "$UBIKIA_DIR/package.json"
 test -f "$SRC/projection-qpc-l299.yml"
 test -f "$SRC/projection-qpc-l303.yml"
-python3 "$ROOT/scripts/sen-2026-6589-build.py" --compose-only --out "$STAGE/composition"
+python3 "$ROOT/scripts/sen-2026-6589-build.py" --compose-only --legacy-argumentative-preview --out "$STAGE/composition"
 # Generated intermediate: frontmatter is renderer-local, not a new sovereign source.
 mkdir -p "$STAGE/consolidated-source"
 printf '%s\n' '---' 'title: "2026-6589 SEN — complément intégral"' 'language: fr' 'document_role: adapted' '---' > "$STAGE/consolidated-source/consolidated.md"

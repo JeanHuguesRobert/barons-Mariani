@@ -1,5 +1,7 @@
 # Pilotage et métadonnées de construction — dossier 2026-6589 SEN
 
+**FBF — décision en vigueur au 1er novembre 2026 :** le prochain envoi au greffe communique les **pièces déjà mentionnées** dans la requête enregistrée, avec bordereau et notices. Les anciennes prescriptions de compilation du mémoire argumentatif intégral et des trois PDF sont historiques, non applicables automatiquement à cet envoi. Les deux QPC conservent leur nature procédurale propre. Le composeur `scripts/sen-2026-6589-build.py` est verrouillé par défaut ; `--legacy-argumentative-preview` ne produit qu’un aperçu local ancien, sans valeur de paquet d’expédition.
+
 **Document interne de travail, non destiné au greffe.** Source du mémoire destiné au greffe : [texte maître](texte-maitre-candidat-qpc-integrales-2026-10-22.md). Cette séparation est structurelle : **les statuts, les instructions aux agents, les tâches manquantes, la construction et les contrats de diffusion appartiennent ici, pas au mémoire.**
 
 ## Contrat de production et de transmission (déplacé sans perte)

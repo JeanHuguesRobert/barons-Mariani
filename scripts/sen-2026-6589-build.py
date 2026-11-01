@@ -102,7 +102,13 @@ def select_delivery_body(text: str) -> tuple[str, dict]:
     }
 
 
-def make(out: Path, pdf_engine: str, compose_only: bool = False) -> None:
+def make(out: Path, pdf_engine: str, compose_only: bool = False, *, legacy_argumentative_preview: bool = False) -> None:
+    if not legacy_argumentative_preview:
+        raise SystemExit(
+            "FBF: ancien composeur argumentatif désactivé pour la communication des pièces. "
+            "Utiliser le courrier de communication et son bordereau ; "
+            "--legacy-argumentative-preview est réservé à l'inspection historique locale."
+        )
     main, delivery_selection = select_delivery_body(document(MAIN))
     q299 = extract_qpc(L299)
     q303 = extract_qpc(L303)
@@ -167,5 +173,6 @@ if __name__ == "__main__":
     parser.add_argument("--out", default="/tmp/sen-2026-6589-preview")
     parser.add_argument("--pdf-engine", default="xelatex")
     parser.add_argument("--compose-only", action="store_true")
+    parser.add_argument("--legacy-argumentative-preview", action="store_true", help="Inspect archived argumentative preview only; never filing-ready")
     args = parser.parse_args()
-    make(Path(args.out).resolve(), args.pdf_engine, args.compose_only)
+    make(Path(args.out).resolve(), args.pdf_engine, args.compose_only, legacy_argumentative_preview=args.legacy_argumentative_preview)

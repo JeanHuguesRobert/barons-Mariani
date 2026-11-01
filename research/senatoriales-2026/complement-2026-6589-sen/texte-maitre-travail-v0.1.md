@@ -1,18 +1,18 @@
 ---
-title: "2026-6589 SEN — mémoire complémentaire unique au greffe"
+title: "2026-6589 SEN — ancien projet argumentatif, non destiné à la communication des pièces"
 subtitle: "Document maître Markdown pour les rendus texte brut et PDF"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-21"
 last_modified_at: "2026-10-21"
 version: "0.4"
-status: working-paper
+status: superseded-working-draft
 license: "CC BY-SA 4.0"
 language: "fr"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-travail-v0.1.md"
 document_role: "source"
 document_kind: "judicial-supplement-draft"
-document_function: "mémoire complémentaire et pièces, document maître multiformat"
+document_function: "archive de travail argumentative, distincte du courrier de communication des pièces"
 target_audience: "Greffe et membres du Conseil constitutionnel"
 target_scene: "electoral"
 visibility: "public"
@@ -41,6 +41,8 @@ related_documents:
 # Dossier 2026-6589 SEN — Projet de complément à la requête enregistrée
 
 **Brouillon de travail v0.4. NE PAS ENVOYER.** Ce document n'est pas encore le courriel ni le fichier TransfertPro destiné au greffe. Sa fonction est de préparer le texte maître unique et d'en contrôler la complétude. Les mémoires QPC complets ne sont pas encore reproduits ici.
+
+**FBF — CADRAGE REMPLACÉ (2026-11-01).** Les contrats de diffusion et instructions de compilation ci-dessous décrivent un **ancien scénario argumentatif**. Ils ne doivent pas servir à composer le prochain envoi au greffe. L'objet retenu pour celui-ci est la **communication matérielle des pièces mentionnées dans la requête enregistrée**, avec bordereau et notices de provenance ; voir `proposition-courriel-greffe-2026-10-21.md`. Les deux mémoires QPC restent distincts : ils ne peuvent être renommés pièces ordinaires. Conserver cette source comme historique de travail, non comme paquet d'expédition.
 
 ## Contrat de source et de transmission — version corrigée
 
