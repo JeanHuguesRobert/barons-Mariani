@@ -507,3 +507,13 @@ Cette projection reste distincte de la doctrine source : elle est un **test inst
 
 ---
 
+
+## Complément méthodologique — bifurcation devant la Machine à Empêcher (1er novembre 2026)
+
+Une Machine à Empêcher n'a pas besoin d'intention malveillante ni d'une interdiction constante : la **friction intermittente** peut réduire la potentialité effective en consommant le temps, l'attention et les chances d'aboutir. Pour un sujet disposant de peu de force, la faculté de **bifurquer** vers un autre chemin constitue elle-même une capacité, relevant de l'Exploration Rationnelle du Possible.
+
+**Protocole minimal :** (1) qualifier le résultat recherché et les contraintes non négociables ; (2) constater l'échec d'un chemin, avec une preuve minimale ; (3) ne rechercher sa cause que si cela améliore raisonnablement les décisions futures ; (4) comparer des voies alternatives légitimes selon coût, fiabilité, indépendance, risques et réversibilité ; (5) tester la voie la moins coûteuse qui préserve le mandat ; (6) mutualiser l'apprentissage. Répéter une tentative peut être rationnel si son coût est faible, mais une réussite ponctuelle ne prouve pas la fiabilité du canal.
+
+**Le gain de capacité est le critère de succès**, non la reconnaissance d'un tort par l'obstacle. L'intention et la qualification juridique peuvent rester indéterminées sans bloquer l'action. La « ruse » signifie ici intelligence du chemin indirect et exploitation licite d'alternatives, non tromperie ou neutralisation de contrôles de sécurité. Elle respecte les droits des tiers, les mandats et la reddition de comptes.
+
+Cas d'épreuve : [Operium #78](https://github.com/JeanHuguesRobert/operium/issues/78). Volet juridique et méthode « Prendre au mot » : [Décision algorithmique, transparence et responsabilité](../decision_algorithmique_transparence_responsabilite.md).
