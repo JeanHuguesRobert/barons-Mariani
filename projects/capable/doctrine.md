@@ -65,6 +65,14 @@ Capable
 - **Pouvoir politique** : opposition déclarée au gouvernement des philosophes-rois ou à la « République des Sages », au profit de garanties institutionnelles robustes à la faillibilité des acteurs. **Popper, Pettit, Sen, Dewey, Ostrom, Montesquieu et Madison sont des rapprochements de lecture, non des validations de cette synthèse**, et leur doctrines ne sont pas interchangeables.
 - **Degré d'originalité** : fondements souvent connus ; originalité de la synthèse et des dispositifs opératoires à **établir**, sans prétention à une philosophie entièrement inédite.
 
+## Démocratie Assistée par Ordinateur et Présentisme — apport du 1er novembre 2026
+
+La proposition de l'auteur est une **Démocratie Assistée par Ordinateur (DAO)**, par analogie avec la CAO : la technologie accroît les capacités de la personne qui conçoit et décide ; elle n'acquiert pas son autorité. Dans l'ordre politique, l'assistance numérique et l'IA doivent accroître la capacité des citoyens à comprendre, proposer, délibérer, décider, mandater et contrôler, sans se substituer à la souveraineté populaire.
+
+Le rapprochement avec Rousseau exige de distinguer la difficulté du gouvernement démocratique direct et l'inaliénabilité de la souveraineté. Certaines contraintes matérielles du XVIIIe siècle sont désormais révisables, sans que la technique dissolve les conflits de valeurs ou garantisse la qualité démocratique. Le **Présentisme**, au sens particulier du manifeste possibiliste, consiste notamment à transformer abusivement une incapacité historique en impossibilité permanente. On ne répond à cette erreur ni par une promesse technologique ni par une certitude inverse, mais par des essais d'effectivité et des mécanismes de correction.
+
+Sources : [État de droit et démocratie assistés par ordinateur](../../research/etat_de_droit_assiste_par_ordinateur.md#0-bis-démocratie-assistée-par-ordinateur-dao--thèse-de-lauteur-1er-novembre-2026) ; [Manifeste possibiliste, § Présentisme](../../research/manifeste_possibiliste_note_analytique.md) ; [Souveraineté et agents mandatés](../../research/souverainete_delegation_agents_mandates.md).
+
 ## Sources principales
 
 ### Rendre capable

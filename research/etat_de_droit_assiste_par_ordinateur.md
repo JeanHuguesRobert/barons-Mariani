@@ -73,6 +73,26 @@ La découverte centrale n’est pas que l’intelligence artificielle aurait bes
 
 ---
 
+## 0 bis. Démocratie Assistée par Ordinateur (DAO) — thèse de l'auteur, 1er novembre 2026
+
+**Définition :** l'informatique et l'IA peuvent assister les citoyens dans l'information, l'examen des alternatives, la délibération, la formation des décisions, le contrôle des mandataires et la vérification de leurs actes. Elles ne reçoivent pas pour autant la souveraineté. L'analogie assumée avec la **Conception Assistée par Ordinateur (CAO)** porte sur l'accroissement des capacités du concepteur, non sur son remplacement.
+
+> Ce n'est pas l'ordinateur qui exerce la souveraineté ; c'est le citoyen qui peut mieux l'exercer grâce à l'ordinateur.
+
+**Autonomie d'exécution ≠ autorité normative.** Un agent peut recevoir un mandat étendu pour rechercher, comparer, préparer, ou effectuer des opérations bornées. Il ne doit pas définir seul les fins collectives, élargir son mandat, abolir la contestation, ni confondre son résultat avec une décision souveraine. L'assistance n'est elle-même pas neutre : biais de présentation, automatisation des préférences, capture des interfaces, dépendance ou exclusion numérique doivent rester observables, contestables et corrigeables.
+
+**Rousseau, contexte et distinction.** Au livre III, chapitre IV, *Du contrat social* (1762), Rousseau écrit : « S'il y avoit un peuple de Dieux, il se gouverneroit Démocratiquement. » Il parle ici du **gouvernement démocratique**, où le peuple assume aussi des fonctions exécutives ; ce n'est pas une réfutation de la souveraineté populaire. Les contraintes de rassemblement, circulation d'information et traitement des affaires au XVIIIe siècle ne sont pas toutes constantes. Les capacités numériques conduisent à les **réexaminer**, pas à déclarer résolues les difficultés politiques, sociales, morales et institutionnelles. Source primaire : https://fr.wikisource.org/wiki/Du_contrat_social/Édition_1762/Livre_III/Chapitre_4 .
+
+**Présentisme (sens spécifique du Manifeste possibiliste).** Une incapacité pratique historiquement constatée n'est pas une impossibilité fondamentale. L'accroissement des moyens techniques appelle une nouvelle évaluation de faisabilité, par fonctions et avec Reality Tests, sans présumer du résultat. Source : [Manifeste possibiliste — note analytique](manifeste_possibiliste_note_analytique.md).
+
+**Discipline de clarté :** « Ce que l'on conçoit bien s'énonce clairement, / Et les mots pour le dire arrivent aisément » (Nicolas Boileau, *L'Art poétique*, chant I). Ce rappel littéraire ne remplace ni la démonstration ni les objections. Source : https://fr.wikisource.org/wiki/Page:Boileau_-_Œuvres_poétiques,_édition_1872.djvu/219 .
+
+**Test de réalité proposé :** mesurer, pour chaque fonction civique, le coût d'information et de participation, les erreurs détectables, les possibilités de contradiction, l'inclusion des non-utilisateurs, la révocation des mandats et les recours. Comparer avec des processus non assistés. Le gain démocratique reste une hypothèse à éprouver, pas une propriété intrinsèque de l'IA.
+
+**Précision terminologique :** `DAO` désigne aussi *Decentralized Autonomous Organization* ; développer la formule française à sa première occurrence pour éviter la confusion entre assistance démocratique et autonomie organisationnelle.
+
+---
+
 ## 1. Deux objets distincts : démocratie et État de droit
 
 L’État de droit n’est pas synonyme de démocratie.

@@ -18,6 +18,10 @@ source_documents:
 
 **État : en préparation — non gelé, non validé comme édition finale.** Ce document est un **assemblage de navigation vérifiable** vers les sources existantes. Il n'est ni un rendu HTML publié, ni un PDF, ni une édition souveraine distincte. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
 
+## Actualisation documentaire du 1er novembre 2026 — hors gel
+
+Le dossier [Préparation du lancement Capable et de la Marche du Soleil](../editorial/2026-11-01-lancement-preparation.md) est un **état de préparation**, non une attestation de publication. Il renvoie au développement doctrinal sur la [Démocratie Assistée par Ordinateur](../../../research/etat_de_droit_assiste_par_ordinateur.md) et au [routeur Capable](../doctrine.md). La liste de chapitres du numéro candidat n'est ni remplacée ni gelée par cette actualisation.
+
 ## À l'entrée du numéro
 
 **De quoi voulons-nous être capables ?** Le Livre examine comment droits, ressources, règles et institutions se transforment — ou non — en capacités réellement accessibles et corrigibles. Le Magazine suit les événements, les Notes de Campagne, leurs objections et leurs suites. Les Annexes permettent de vérifier les affirmations et de retrouver les sources, sans prétendre faire disparaître les inconnues.

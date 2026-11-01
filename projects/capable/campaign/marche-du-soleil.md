@@ -105,6 +105,14 @@ Le 7 octobre 2026 est proposé comme charnière publique après sécurisation du
 
 Cette proposition reste subordonnée au P0 procédural.
 
+## Situation au 1er novembre 2026 — intention d'annonce
+
+Le porteur du projet exprime le **1er novembre 2026** son intention d'annoncer publiquement le mouvement Capable et la Marche du Soleil, dans la perspective de la présidentielle 2027. Cette inscription dans le Corpus ne prouve **ni annonce publique effective, ni départ physique, ni présentation d'élu acquise**. Chaque changement d'état exige une trace datée.
+
+Les présentations sont des actes personnels d'élus habilités, soumis aux formes et délais légaux et au contrôle du Conseil constitutionnel. Les 500 présentations doivent notamment provenir d'au moins 30 départements ou collectivités d'outre-mer, sans concentration excédant un dixième dans un même territoire. Source : [loi du 6 novembre 1962, article 3](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052081106/2026-10-10).
+
+Le [dossier préparatoire daté](../editorial/2026-11-01-lancement-preparation.md) distingue disponibilité des sources, vérifications et actes humains à réaliser. Le Livre Vivant reste en préparation, non gelé.
+
 ## Test d'autonomie
 
 Le dispositif ne doit pas dépendre d'une seule personne pour exister.
