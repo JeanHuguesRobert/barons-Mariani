@@ -36,10 +36,6 @@ review:
   reviewed_by: []
 ---
 
-<!-- PROJECTION DE TRAVAIL : ce fichier GitHub public est un brouillon documentaire.
-Il ne constitue ni annonce diffusée, ni publication autorisée sur un réseau social ou un site de campagne.
-Ne pas enlever ce préambule opérationnel sans arbitrage éditorial. -->
-
 # Liberté, Égalité, Fraternité — Chiche ?
 
 ## Naissance du Mouvement Capable
@@ -70,7 +66,7 @@ La souveraineté appartient au peuple. Mais il ne suffit pas de le rappeler : il
 
 Je ne propose pas de remplacer des détenteurs du pouvoir par d'autres, supposés meilleurs. Je propose de **changer les règles du pouvoir** pour qu'aucune institution ne puisse s'installer durablement à l'abri du contrôle des personnes qu'elle est censée servir.
 
-Je ne recherche aucune responsabilité personnelle comme une fin en soi. La perspective d'une candidature à l'élection présidentielle est un moyen de soumettre cette question à l'ensemble des Français et, si elle reçoit le mandat nécessaire, de porter une réforme constitutionnelle par les voies prévues par la République.
+Je ne recherche aucune responsabilité personnelle comme une fin en soi. J'envisage une candidature à l'élection présidentielle pour porter cette question devant les Français. Le pouvoir n'est pas l'objectif ; il est un moyen possible de transformer démocratiquement les règles par lesquelles le peuple exerce sa souveraineté.
 
 ### Déplacer le débat national
 
@@ -84,9 +80,9 @@ Nous n'exigeons pas un accord sur tous les moyens. Référendum d'initiative cit
 
 ### Deux actes pour commencer
 
-**La Marche du Soleil** sera une démarche à travers les territoires, à la rencontre des habitants et des élus, notamment des maires. Elle servira à documenter les obstacles concrets à la capacité d'agir et, dans le cadre d'un projet de candidature présidentielle, à rechercher les **500 présentations d'élus habilités** requises par la loi. Une rencontre ou une marque d'intérêt ne vaut pas présentation officielle ; chaque élu demeure libre de sa décision.
+**La Marche du Soleil** sera une démarche à travers les territoires, à la rencontre des habitants et des élus, notamment des maires. Elle servira à écouter, documenter les obstacles concrets à la capacité d'agir et rechercher, dans la perspective de ma candidature présidentielle, les **500 présentations d'élus habilités** nécessaires pour se présenter. Ces rencontres seront aussi l'occasion d'étudier ce que les habitants attendent réellement de la République.
 
-**Une proposition de réforme constitutionnelle**, préparée comme avant-projet citoyen, visera à mieux garantir l'exercice effectif des droits, à renforcer la justification des restrictions de liberté et à permettre une attribution plus adaptée et plus contrôlable des responsabilités publiques. Elle n'est pas présentée comme une révision déjà déposée ou adoptée. Son contenu sera discuté, vérifié et amendé.
+**Une réforme constitutionnelle** est le second chantier. Je propose de renforcer les garanties permettant à chacun d'exercer effectivement ses droits, d'obliger les autorités à justifier les restrictions qu'elles imposent et de revoir la répartition des pouvoirs publics afin que les citoyens puissent davantage les contrôler et les corriger. Le texte que nous élaborerons devra pouvoir être débattu, critiqué et amélioré par tous ceux qui voudront y contribuer.
 
 Ces deux démarches peuvent progresser indépendamment l'une de l'autre. La recherche de présentations électorales ne conditionne ni la liberté du débat ni l'utilité des travaux constitutionnels.
 
@@ -100,19 +96,4 @@ Le **Livre Vivant *Capable*** permet d'approfondir cette démarche : histoire de
 
 Un *Livre Vivant* est un ouvrage ouvert à la discussion et à la correction : son texte de fond peut être enrichi au fil des recherches ; ses éditions datées conservent la trace de ce qui était connu et proposé à un moment donné.
 
-**Adresse éditoriale prévue : https://capable.acorsica.org**
-
-**En attendant la vérification de la mise en service de cette adresse**, le [dossier public Capable dans le Corpus GitHub](https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/capable) permet de consulter les textes de travail et leurs sources.
-
----
-
-## Annexe interne à la préparation — hors texte de diffusion
-
-**État : brouillon proposé, non approuvé pour diffusion.** La publication de cette source de travail dans GitHub n'est pas la diffusion de l'annonce.
-
-- **Avant publication :** vérifier l'accès HTTPS réel et le contenu de `https://capable.acorsica.org` avec [#158](https://github.com/JeanHuguesRobert/barons-Mariani/issues/158). Lorsque le site sera effectivement opérationnel, enlever la formule « en attendant » et vérifier que « Pour aller plus loin » conduit au Livre Vivant voulu, non à une page vide ou obsolète.
-- **Avant publication :** arrêter la date de l'annonce et le canal ; n'inférer ni date effective de naissance publique, ni départ de marche, ni candidatures déposées, ni présentations reçues.
-- **Avant publication :** relire séparément la formulation « je ne recherche aucune responsabilité personnelle » et la compatibilité de cette intention avec les obligations constitutionnelles réelles de la fonction présidentielle.
-- **Sources :** [doctrine Capable](../doctrine.md), [Marche du Soleil](../campaign/marche-du-soleil.md), [étude historique de la devise](../../../research/devise_republicaine/histoire_devise_double_lecture_atelier.md), [méthode des terrains féconds](../../../research/methode_terrains_feconds.md).
-- **Gates :** lecture autonome du grand public ; séparation faits / propositions / intentions ; qualification juridique ; source-first ; revue contradictoire ; validation personnelle ; publication par acte spécifique et reçu.
-- **Coordination :** [#156 — lancement](https://github.com/JeanHuguesRobert/barons-Mariani/issues/156), [#152 — Livre Vivant](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152), [#159 — presse](https://github.com/JeanHuguesRobert/barons-Mariani/issues/159), [#150 — étude historique](https://github.com/JeanHuguesRobert/barons-Mariani/issues/150), [#158 — site](https://github.com/JeanHuguesRobert/barons-Mariani/issues/158).
+**Pour découvrir le Livre Vivant Capable : https://capable.acorsica.org**
