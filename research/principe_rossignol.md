@@ -224,8 +224,16 @@ Une intelligence artificielle n'a pas de chair. Elle n'éprouve ni soif, ni souf
 
 Pour que des agents logiciels ou un Learning Computer soient soumis au principe Rossignol sans mettre en péril de sujets vivants, l'architecture doit instaurer un **Synthetic Skin in the Game** rigoureusement articulé :
 1. **Consommation réelle de ressources finies :** Chaque appel d'inférence, chaque action ou tentative consomme un budget réel, facturé ou borné par un tiers extérieur (énergie, quotas d'API, jetons vérifiables). L'exploration n'est jamais gratuite.
-2. **Révocation et restriction d'autorité :** Une stratégie démentie par le Réel ne peut conserver son niveau de mandat. Son autonomie est restreinte et le passage sous contrôle humain direct (DHITL — *Dual Human-in-the-Loop*) devient obligatoire.
+2. **Réexamen contextualisé de l'autorité :** Une stratégie démentie par le Réel déclenche une occasion d'apprentissage et, si les enjeux le justifient, une réévaluation motivée des ressources, de l'autonomie ou de la supervision. **Un échec exploratoire proportionné ne commande pas automatiquement une sanction ni une restriction.** Une réussite imprudente peut, inversement, justifier un examen. L'exigence DHITL — *Democratic Humans in the Loop* — conserve la compétence des personnes ou collectifs légitimes pour les décisions engageantes.
 3. **Non-réinitialisabilité unilatérale :** L'agent défaillant ne peut pas « faire table rase » en tuant son thread ou en ouvrant un contexte vierge. La trace causale de son échec est scellée dans un registre immuable et opposable (Trace $T$, audit Git ou journal COP).
+
+### 6.2 Liberté exploratoire, exposition et imputabilité collective (2026-11-02)
+
+Le *Synthetic Skin in the Game* complète le mandat **finaliste** : rigueur sur le but et les limites impératives, latitude intelligente sur les moyens, traçabilité des choix et des résultats. Il ne sert ni à garantir la réussite, ni à fabriquer des quotas d'erreurs, ni à inciter à augmenter artificiellement le risque. Les essais raisonnables peuvent échouer ; leur valeur s'apprécie à la lumière du risque consenti, des informations disponibles *avant* l'acte et de l'apprentissage réel. Une trace opposable ne doit pas devenir une Machine à Empêcher.
+
+La symétrie des conséquences oblige à distinguer **décideur, principal, bénéficiaire, porteur effectif du risque, tiers exposé et répondant compétent**. Le décideur ne saurait s'arroger le pouvoir de faire courir arbitrairement ses risques à autrui ; la symétrie parfaite des conséquences reste impossible lorsque des tiers sont affectés. À l'échelle collective, **DHITL** rattache les décisions engageantes à une autorité humaine et démocratique légitime, avec possibilité de demander des comptes, de corriger et de réconcilier. Cela ne désigne pas automatiquement un responsable juridique unique.
+
+L'échec dûment tracé ne constitue pas nécessairement un manquement ; une réussite obtenue par violation des limites impératives ne prouve pas le respect du mandat. Les révisions d'autorité et de confiance demandent une appréciation contextualisée, potentiellement non déterministe, et non une simple règle punitive.
 
 ---
 
