@@ -6,8 +6,8 @@ license: CC BY-SA 4.0
 title: Rossignol — collection vivante du Musée Mariani des Possibles
 subtitle: Provenance, chronologie et statut épistémique
 date: '2026-08-22'
-version: '0.3'
-last_modified_at: '2026-10-06'
+version: '0.4'
+last_modified_at: '2026-11-02'
 status: draft
 document_role: source
 document_kind: living-collection-notice
@@ -126,6 +126,7 @@ Cette section rassemble les éléments d'identité utiles sans transformer les o
 | 2026 | Suivi vétérinaire ; nouvelles expérimentations à Corte | établi / en cours |
 | 2026 | Rossignol devient explicitement mascotte et ambassadeur vivant du Musée Mariani des Possibles | doctrine en cours de stabilisation |
 | 6 octobre 2026 | Appel d'une gendarme de Corte à propos d'un « signalement » concernant Rossignol ; mise en relation annoncée avec un enquêteur tiers basé à Ajaccio | témoignage direct du détenteur ; identités et cadre exact à vérifier |
+| 1er novembre 2026 | Reconnaissance d'un ancien chemin muletier et signalement d'un auvent à l'entrée d'un embranchement ; ouverture d'une [enquête foncière issue de la campagne de C.O.R.S.I.C.A. (#157)](https://github.com/JeanHuguesRobert/barons-Mariani/issues/157) | observations et propos rapportés ; statut et titres non vérifiés |
 
 ### 4.1 6 octobre 2026 — signalement, protection animale et mise en relation
 
@@ -221,9 +222,11 @@ Formule de travail :
 
 ## 9. Rossignol comme révélateur territorial
 
-La présence de Rossignol à Corte peut également révéler des conflits d'usage préexistants. Un cas actuel concerne un chemin communal bordant un terrain pâturé : la présence occasionnelle de l'âne sur cet espace met en évidence la coexistence — et éventuellement la concurrence — entre usages piétons, animaux et stationnement automobile.
+La campagne pour le retour de l'âne corse en milieu urbain à Corte, menée par l'**association C.O.R.S.I.C.A.**, fondée et présidée par Jean Hugues Noël Robert, conduit à explorer concrètement les anciens cheminements : certains restent praticables, d'autres sont envahis par la végétation ou occupés par des aménagements. La présence de Rossignol rend ainsi visibles des questions foncières, des usages oubliés et des capacités de circulation qu'une étude abstraite aurait pu négliger.
 
-Le dossier ne tranche pas ici la situation juridique particulière. Il conserve le cas comme exemple de la fonction de **Révélateur** : l'animal peut rendre visibles des règles implicites, des habitudes d'occupation et des frontières devenues socialement invisibles.
+**Observation signalée le 1er novembre 2026.** Sur un ancien chemin muletier reliant le cours Paoli à l'Orta, un auvent de stationnement simplement posé au sol se trouve à l'entrée d'un embranchement sud-est desservant plusieurs parcelles. Une riveraine revendique la propriété de l'abri et de son emplacement et rapporte une autorisation municipale ; **aucun titre ou acte d'autorisation n'a encore été vérifié**. Le statut du chemin principal et celui de l'embranchement ne sont pas établis : **chemin rural communal**, chemin d'exploitation, voie communale ou passage privé demeurent des hypothèses à départager. **Aucune gêne d'usage actuelle n'a été identifiée** ; l'enjeu est d'abord la clarification et, s'il y a lieu, la conservation des droits de passage et du patrimoine communal. Voir le dossier d'enquête [GitHub #157 — Chemin muletier, abri de stationnement et conservation du patrimoine communal](https://github.com/JeanHuguesRobert/barons-Mariani/issues/157).
+
+Ce cas illustre la fonction de **Révélateur** : une exploration concrète suscite une observation imprévue, qui appelle une vérification contradictoire du statut foncier et des responsabilités institutionnelles. Le dossier ne conclut ni à une appropriation illégale ni à une carence fautive de la commune. Le bien-être et la sécurité de Rossignol restent indépendants des conclusions de l'enquête.
 
 ## 10. Le « critère Rossignol » dans le Corpus
 
