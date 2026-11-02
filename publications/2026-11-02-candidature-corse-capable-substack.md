@@ -5,7 +5,7 @@ author: "Jean Hugues Noël Robert — Baron Mariani"
 date: "2026-11-02"
 last_modified_at: "2026-11-02"
 version: "0.1-draft"
-status: "package-prepared — Substack draft not yet verified"
+status: "draft-created-on-substack — author review pending"
 document_role: "adapted"
 document_kind: "substack-article"
 visibility: "public"
@@ -25,14 +25,16 @@ derivation:
   source_version_at_draft_creation: "0.3-draft"
   toolchain: "Ubikia cli/publish.js --target=substack"
   destination: "Substack — Les Carnets du baron Mariani"
-  status: "package-prepared"
+  status: "draft-created"
   stable_resource_router: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/aller-plus-loin.md"
 publication:
   platform: "substack"
   publication_url: null
-  platform_post_id: null
-  draft_edit_url: null
+  platform_post_id: 223144948
+  draft_edit_url: "https://jeanhugues.substack.com/publish/post/223144948"
   email_distribution: "not authorized"
+  draft_created_at: "2026-11-02"
+  draft_verified_by: "Substack GET /api/v1/drafts/223144948 — HTTP 200, title/body/router checked"
   suggested_slug: "une-candidature-corse-capable-pour-2027"
 ---
 
