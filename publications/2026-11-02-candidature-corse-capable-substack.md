@@ -4,18 +4,18 @@ description: "Liberté, Égalité, Fraternité — Chiche ?"
 author: "Jean Hugues Noël Robert — Baron Mariani"
 date: "2026-11-02"
 last_modified_at: "2026-11-02"
-version: "0.1-draft"
-status: "draft-created-on-substack — author review pending"
+version: "0.2-publication-record"
+status: "published-on-substack — author-confirmed, public-http-verified"
 document_role: "adapted"
 document_kind: "substack-article"
 visibility: "public"
-lifecycle_state: "working"
+lifecycle_state: "published"
 language: "fr"
 license: "CC BY-SA 4.0"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/publications/2026-11-02-candidature-corse-capable-substack.md"
 update_policy: "UP-DEFAULT-REVIEWED"
 review:
-  status: "awaiting-author-review"
+  status: "author-published"
   reviewed_by: []
 derivation:
   source_repo: "JeanHuguesRobert/barons-Mariani"
@@ -25,17 +25,21 @@ derivation:
   source_version_at_draft_creation: "0.3-draft"
   toolchain: "Ubikia cli/publish.js --target=substack"
   destination: "Substack — Les Carnets du baron Mariani"
-  status: "draft-created"
+  status: "published"
   stable_resource_router: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/aller-plus-loin.md"
 publication:
   platform: "substack"
-  publication_url: null
+  publication_url: "https://jeanhugues.substack.com/p/une-candidature-corse-capable-pour"
   platform_post_id: 223144948
   draft_edit_url: "https://jeanhugues.substack.com/publish/post/223144948"
-  email_distribution: "not authorized"
+  email_distribution: "not verified"
   draft_created_at: "2026-11-02"
   draft_verified_by: "Substack GET /api/v1/drafts/223144948 — HTTP 200, title/body/router checked"
   suggested_slug: "une-candidature-corse-capable-pour-2027"
+  published_date: "2026-11-02"
+  published_time_exact: "not verified"
+  public_http_verified: "2026-11-02 — HTTP 200, title, post id, router URL"
+  ledger_record: "JeanHuguesRobert/ubikia/publications/ledger/publications.json#substack:223144948"
 ---
 
 # Une candidature corse Capable pour 2027
