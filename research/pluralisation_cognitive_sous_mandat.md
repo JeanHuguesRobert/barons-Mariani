@@ -4,7 +4,7 @@ subtitle: Du sujet singulier aux capacités agentiques distribuées sans dissolu
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-08-01'
-version: '0.3'
+version: '0.4'
 license: CC BY-SA 4.0
 language: fr
 status: working-source — source souveraine consolidée, soumise à validation humaine
@@ -608,6 +608,29 @@ périmètre(sous-mandat) ⊆ périmètre(mandat parent)
 Un lutin superviseur peut créer ou arrêter des sous-lutins éphémères ; cette supervision ne lui
 donne aucune autorité supplémentaire. Une instance peut disparaître ; les mandats, artefacts,
 traces et responsabilités utiles doivent pouvoir subsister.
+
+### 6.3 bis. L'atelier récursif — une hiérarchie de mandats, non de souverainetés
+
+Dans la métaphore publique du **Père Noël pour adultes**, un souhait devient une **commande** : le compagnon qui la reçoit en clarifie la finalité, les critères de réception, les limites et les ressources, puis sollicite les lutins de son atelier. Le lutin reçoit une mission, en produit le résultat ou une continuation et le rend au niveau qui l'a commandée, avec ses preuves et ses coûts. Le travail rendu peut à son tour nécessiter une intervention du Principal initial, notamment pour un effet engageant.
+
+**Le même motif peut se répéter**. Un lutin chargé d'une mission suffisamment complexe peut, **si son propre mandat l'autorise à sous-déléguer**, confier des sous-missions à ses propres lutins et coordonner un atelier local. Il est alors, relativement à ses enfants de mission, l'équivalent fonctionnel d'un Père Noël, **sans** devenir un nouveau Principal souverain, sans usurper la personne à l'origine de la commande et sans pouvoir déléguer une autorité qu'il n'a pas reçue. Un agent peut être **mandataire** envers le niveau précédent et **mandant déléguant** envers le niveau suivant. « Supérieur » et « inférieur » décrivent les relations de mandat et de reddition des comptes, pas une hiérarchie de dignité ni une personnalité juridique fictive.
+
+~~~text
+Principal (personne vivante / collectif légitime)
+    → commande / finalité + mandat initial + ressources
+    → Agent coordinateur (atelier de premier niveau)
+        → sous-mandat borné + part réservée du budget
+        → agent exécutant (lutin) / atelier local facultatif
+            → sous-mandat plus étroit, si délégation explicitement permise
+            → sous-agent spécialisé (sous-lutin)
+            ← résultat, preuve, coûts, objections
+        ← résultat composé + reçus / exceptions à arbitrer
+    ← livraison ou proposition, traçabilité et droit de refus
+~~~
+
+La récursion appartient à la **grammaire des missions**, pas à un arbre immuable de processus. Une tâche peut être accomplie directement sans sous-agents, plusieurs branches peuvent coopérer latéralement, et le même handler peut servir plusieurs missions distinctes sans fusionner leurs droits. Les frontières sont situées : objet et contexte du mandat, actions et divulgations autorisées, budget préalablement alloué, durée, profondeur maximale, critères de retour, révocation, provenance de la chaîne et imputation des effets. Les délégations doivent **atténuer** les permissions et ne jamais multiplier fictivement les ressources ; le coût d'un sous-lutin demeure réconciliable avec le budget de son parent, sans double comptage. Une révocation du parent doit produire l'effet de retrait applicable sur les enfants dépendants. Les décisions réservées au Principal initial restent réservées à tous les étages.
+
+Ce n'est pas une fractalité mathématique : il s'agit d'une **composition récursive, finie, gouvernée et localement autonome**. La métaphore ne crée pas un pouvoir : la capacité technique, la validité du mandat, le grant d'effet, l'exécution et son reçu restent distincts sous COP. Une hiérarchie opérationnelle utile ne doit pas se transformer en concentration politique ou en tutelle. Voir [FractaMandate](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/mandate_reasonable_agency.md) et le candidat terminologique [FractaAgent](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractaxxxx.md).
 
 ### 6.4 Personnel et collectif
 
