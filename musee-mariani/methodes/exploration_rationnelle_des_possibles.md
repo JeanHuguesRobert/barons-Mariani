@@ -160,6 +160,14 @@ La discipline janusienne interdit deux erreurs symétriques :
 
 Janus devient ainsi un opérateur de séparation et de circulation entre **preuve historique** et **exploration prospective**.
 
+### 5 ter. Transmission : libérer l'avenir sans perdre le passé
+
+La transmission ne se réduit ni à la conservation des faits, ni à la répétition des pratiques héritées. Elle peut faire passer à d'autres sujets les **conditions de possibilité** d'une action : savoir-faire, outils, causes des échecs, corrections réussies, alternatives non explorées et limites de validité des conclusions anciennes. Le passé apporte alors les preuves et les apprentissages nécessaires à l'ouverture de futurs qui ne lui ressemblent pas nécessairement.
+
+Deux dérives symétriques doivent être évitées : **l'amnésie**, qui condamne à répéter des erreurs déjà comprises, et la **capture de l'avenir par le passé**, forme de présentisme consistant à transformer des incapacités historiquement constatées en impossibilités indépassables. La conservation fidèle des actes passés et de leur provenance n'oblige ni à conserver les mêmes moyens d'action ni à croire que les mêmes obstacles se reproduiront. Une preuve de ce qui *n'a pas réussi dans certaines conditions* n'est pas une preuve de ce qui *ne pourra jamais réussir*.
+
+L'Exploration Rationnelle du Possible comporte ainsi une **boucle de transmission capacitaire** : obstacle observé → trace et causes qualifiées → enseignement transmissible → facteur de conversion à développer ou réutiliser → nouvel essai dans le réel → capacité nouvelle, si le test le confirme. C'est un usage de la [FractaCognition comme amélioration métacognitive des capacités](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md#83-transmission-against-capture-of-the-future-by-the-past-7-november-2026), sans confondre développement technique et autorisation d'agir. L'échec n'est ni souhaitable ni nécessairement formateur ; sa valeur dépend de ce qu'il permet effectivement d'apprendre ou de corriger.
+
 ## 6. Méthode commune
 
 Le Musée uchronique et le Musée des Possibles ne sont pas deux projets séparés. Ils explorent le même espace selon deux axes temporels.
