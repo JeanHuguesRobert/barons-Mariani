@@ -4,7 +4,7 @@ subtitle: Du sujet singulier aux capacités agentiques distribuées sans dissolu
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-08-01'
-version: '0.4'
+version: '0.5'
 license: CC BY-SA 4.0
 language: fr
 status: working-source — source souveraine consolidée, soumise à validation humaine
@@ -631,6 +631,22 @@ Principal (personne vivante / collectif légitime)
 La récursion appartient à la **grammaire des missions**, pas à un arbre immuable de processus. Une tâche peut être accomplie directement sans sous-agents, plusieurs branches peuvent coopérer latéralement, et le même handler peut servir plusieurs missions distinctes sans fusionner leurs droits. Les frontières sont situées : objet et contexte du mandat, actions et divulgations autorisées, budget préalablement alloué, durée, profondeur maximale, critères de retour, révocation, provenance de la chaîne et imputation des effets. Les délégations doivent **atténuer** les permissions et ne jamais multiplier fictivement les ressources ; le coût d'un sous-lutin demeure réconciliable avec le budget de son parent, sans double comptage. Une révocation du parent doit produire l'effet de retrait applicable sur les enfants dépendants. Les décisions réservées au Principal initial restent réservées à tous les étages.
 
 Ce n'est pas une fractalité mathématique : il s'agit d'une **composition récursive, finie, gouvernée et localement autonome**. La métaphore ne crée pas un pouvoir : la capacité technique, la validité du mandat, le grant d'effet, l'exécution et son reçu restent distincts sous COP. Une hiérarchie opérationnelle utile ne doit pas se transformer en concentration politique ou en tutelle. Voir [FractaMandate](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/mandate_reasonable_agency.md) et le candidat terminologique [FractaAgent](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractaxxxx.md).
+
+### 6.3 ter. Subsidiarité ascendante : le lutin peut proposer de renégocier sa commande
+
+Un lutin peut découvrir, au contact du Réel et dans son contexte situé, un chemin plus fécond vers la finalité reçue, sans disposer des informations, moyens ou permissions nécessaires. Son devoir n'est ni de renoncer trop tôt, ni de mobiliser clandestinement les pouvoirs du Père Noël ou ceux d'un autre atelier. Il peut **proposer au mandant qui l'a mandaté** d'amender la commande, de fournir des moyens, de réallouer un budget, de consulter un autre agent ou de décider au niveau supérieur. Cette remontée est une opération **FractaCognitive** : l'agent observe ses propres limites, identifie ce qui manque à l'action et formule un changement du possible praticable.
+
+L'agent délégué dispose d'informations locales issues de ses Reality Tests. Le mandant délégant peut disposer d'une connaissance plus vaste des objectifs, des contraintes, des tiers et des ressources. Il exerce un **Judgment** motivé : accepter, amender, contre-proposer, demander de nouvelles preuves, refuser ou remonter à son propre mandant si la décision excède sa compétence. Le refus n'est pas une panne à contourner ; le silence n'est pas une acceptation. L'acceptation ne vaut autorisation opérationnelle que si elle produit le mandat et les ressources nécessaires dans la chaîne COP.
+
+~~~text
+lutin : obstacle ou occasion nouvelle → hypothèse située + proposition chiffrée
+→ mandant délégant : jugement avec contexte et moyens plus étendus
+→ acceptation / amendement / contre-proposition / refus / consultation supérieure
+→ éventuel sous-mandat révisé, enveloppe financée, capacité autorisée
+→ action testée, résultat et preuves remontées, apprentissage transmis
+~~~
+
+Le niveau supérieur peut aussi **apporter son aide sans se substituer** au niveau inférieur, ou accomplir lui-même un effet réservé plutôt que transférer une permission trop large. Cette subsidiarité est donc une relation d'assistance réciproque, non une mécanique de commandement. La coopération horizontale entre agents ou ateliers confédérés reste possible avec des mandats distincts : partager des informations ou composer des résultats **n'additionne pas** leurs autorisations et ne crée pas un Principal commun. Voir [Mandate — Reasonable Agency](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/mandate_reasonable_agency.md) et [Autonomia — subsidiarité ascendante](autonomia.md).
 
 ### 6.4 Personnel et collectif
 
