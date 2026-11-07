@@ -3,7 +3,7 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.8
+version: 0.5.9
 date: '2026-09-27'
 review_status: v0.5.8 stabilizes Fraternité effective as non-abandon capacitaire without capture; constructive review remains welcome
 type: doctrinal_kernel
@@ -769,6 +769,14 @@ friction observable
 ≠ situation handicapante
 ≠ discrimination juridiquement caractérisée
 ```
+
+### 5.3.1. Du handicap situé à la capacité de rendre capable : lien métacognitif
+
+Un obstacle observé peut informer non seulement sur l'action empêchée, mais sur les capacités, les outils et les facteurs de conversion manquants. Le système qui en tire une question sur **sa propre manière de rendre l'action possible** accomplit une opération métacognitive : au lieu de seulement retenter l'action, il évalue s'il faut apprendre, adapter l'interface, rechercher une aide, créer une capacité spécialisée ou modifier l'environnement. Un écart capacitaire situé devient ainsi un **signal d'enquête**, jamais une injonction faite à la personne handicapée de se transformer.
+
+La FractaCognition exprime ce passage par la boucle : **obstacle situé → diagnostic de l'écart → hypothèse de facteur de conversion → adaptation ou développement autorisé → Reality Test → capacité effective retrouvée → apprentissage transmissible**. Voir [FractaCognition — Situated incapacity as metacognitive information](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md#situated-incapacity-as-metacognitive-information-7-november-2026). Ce mécanisme est transférable par analogie aux agents logiciels et aux organisations, sans assimiler leur défaut de fonctionnalité à un handicap humain.
+
+La correction n'est pas toujours individuelle ni technique : une règle absurde, une interface inaccessible ou une restriction illégitime peut devoir changer. Tout échec n'est pas formateur ; le gain attendu et sa transférabilité doivent justifier le coût d'adaptation. Pour un agent, développer une capacité ne l'autorise jamais à la mobiliser : le mandat, le COP et les limites d'effet restent distincts.
 
 Le Reality Case `research/case_studies/situation_handicap_ecart_capacitaire_senatoriales_2026.md` teste cette articulation à partir d'une procédure électorale et juridictionnelle réelle, notamment la question d'une prothèse cognitive en environnement d'audience.
 
