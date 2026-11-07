@@ -3,7 +3,7 @@ title: Rendre capable — noyau doctrinal provisoire
 subtitle: Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 author: Jean Hugues Noël Robert
 status: working_draft
-version: 0.5.9
+version: 0.5.10
 date: '2026-09-27'
 review_status: v0.5.8 stabilizes Fraternité effective as non-abandon capacitaire without capture; constructive review remains welcome
 type: doctrinal_kernel
@@ -105,6 +105,14 @@ Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès 
 
 Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'[amendement d'effectivité](autonomia/amendement_effectivite_article_72-5.md) ne modifie ni le libellé ni le statut parlementaire de cette proposition.
 
+
+### Républicanisme d'effectivité, non conservatisme institutionnel (7 novembre 2026)
+
+Dans l'usage que l'auteur propose pour **Capable**, se réclamer de la République signifie prendre **Liberté, Égalité, Fraternité** comme exigences dont les conditions d'exercice doivent être établies, vérifiées et corrigées ; cela ne signifie pas soutenir par principe les institutions, répartitions du pouvoir, méthodes ou résultats actuellement en place. Le nom analytique provisoire **« républicanisme d'effectivité »** désigne ce passage de la valeur proclamée à la capacité concrète : qui décide, avec quels droits, quels moyens, sous quelles contraintes, au bénéfice de qui, selon quelles preuves et quelles voies de recours ? Un principe peut mériter d'être conservé précisément parce que ses modalités d'application doivent changer.
+
+Ce langage ne doit pas être assimilé automatiquement au **conservatisme politique**, ni présenté comme la définition exclusive du « républicanisme », mot historiquement polysémique. Il présente des affinités, sans équivalence doctrinale, avec la conception de la liberté comme **non-domination** (Philip Pettit) et avec les approches capacitaires de la liberté effective ; il demeure une proposition originale à soumettre à critique, non une norme adoptée ou une efficacité prouvée. [Article 2 de la Constitution](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527453) ; [Pettit, *Republicanism: A Theory of Freedom and Government*](https://academic.oup.com/book/3937).
+
+La **transmission** vise ici une continuité de principes accompagnée de la possibilité de modifier profondément les institutions et les pratiques. Elle doit transmettre les acquis, les causes des erreurs, les alternatives restées ouvertes et les moyens d'inventer d'autres réponses, plutôt que capturer l'avenir par les moyens du passé. Le cadre est non autarcique : souveraineté sur les choix et capacité de correction, par des interdépendances librement gouvernées, sans réduire la liberté ni la sécurité d'autrui. La campagne et les Livres Vivants peuvent porter cette hypothèse, mais ne la valident pas par leur seule publication : c'est aux Reality Tests d'en établir les résultats. Voir [FractaCognition — transmission contre capture du futur](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md) et [Moyens et finalités](moyens_et_finalites.md).
 
 ## Possibilisme, autonomie de capacité, packetisation, trace, mandat, continuations et corpus vivant
 
