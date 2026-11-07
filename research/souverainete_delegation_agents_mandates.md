@@ -5,8 +5,8 @@ description: Une grammaire bornée de délégation pour les Handlers humains, in
 author: Jean Hugues Noël Robert
 affiliation: Institut Mariani — C.O.R.S.I.C.A.
 date: '2026-09-27'
-last_modified_at: '2026-09-27'
-version: '0.3'
+last_modified_at: '2026-11-07'
+version: '0.4'
 status: working-paper — consolidation doctrinale
 license: CC BY-SA 4.0
 language: fr
@@ -175,6 +175,16 @@ Formule de travail :
 > **L’indépendance, oui, mais d’esprit d’abord.**
 
 Cette indépendance d’esprit est nécessaire mais non suffisante. Elle doit pouvoir se traduire en capacités d’information, de jugement, d’action, de non-action, de contrôle et de reprise.
+
+### 3 bis. « Qui décide ? » : du raccourci civique au test d'effectivité (7 novembre 2026)
+
+**« Qui décide ? » est une question de départ, pas un diagnostic suffisant.** Pour distinguer une souveraineté réelle d'une proclamation, qualifier : (1) qui possède l'autorité et qui décide en fait ; (2) quelles informations et contradictions sont accessibles ; (3) quelles procédures, mandats et révisions légitiment la décision ; (4) quels moyens et dépendances rendent l'action praticable ; (5) qui exécute, bénéficie et supporte les conséquences, notamment les tiers ; (6) quel effet réellement observé répond aux finalités déclarées ; (7) quels mécanismes de correction, contestation, retrait et bifurcation subsistent. Cette grille est proportionnée aux enjeux : elle ne commande pas un formulaire ni une validation humaine répétée à chaque micro-action.
+
+**Un constat sans enquête causale et un souhait sans trajectoire d'effectivité restent des points de départ, non des solutions.** Il ne s'agit pas d'interdire les intuitions, la description ou les aspirations ; il faut distinguer leur statut de l'explication et de l'action vérifiée. Une proposition sérieuse explicite au moins ses hypothèses causales, ses moyens, ses obstacles, ses alternatives et un Reality Test proportionné. Éviter deux erreurs symétriques : une technocratie des moyens qui ferait disparaître les fins, et une rhétorique des fins qui dispenserait d'établir les moyens. La discussion politique doit rester ouverte à la correction des moyens **et**, lorsque le Réel le justifie, à la révision délibérée des finalités.
+
+**Indépendance d'esprit d'abord ; interdépendances choisies ensuite.** La capacité critique consiste à ne pas prendre les catégories, conclusions ou récits imposés pour des nécessités sans examen. Cette indépendance cognitive ne suffit pas si l'on ne peut ni agir ni refuser, vérifier, sortir d'une relation ou changer de fournisseur. L'autarcie ne constitue donc pas l'horizon : l'Autonomie de Capacité vise des dépendances explicites, diversifiées, gouvernables et remplaçables autant que raisonnablement possible, avec des solidarités et protections mutuelles. La solitude autosuffisante et la communauté fermée ne sont pas des modèles normatifs universels.
+
+**Anti-TINA sous discipline de preuve.** La formule politique *There Is No Alternative* associée à Margaret Thatcher transforme potentiellement un choix situé en nécessité proclamée ; cela ne démontre ni que l'alternative imaginée serait possible, ni qu'elle serait préférable. L'Exploration Rationnelle du Possible exige d'enquêter sur les alternatives sans les présumer réalisables. Sur la phrase de 1987 *There is no such thing as society*, la source intégrale précise qu'elle défendait la responsabilité des individus, familles et voisins face à l'abstraction « société » : ne pas caricaturer cet argument en négation littérale de toute entraide. Sources : [Margaret Thatcher Foundation, entretien Woman's Own du 23 septembre 1987](https://www.margaretthatcher.org/document/106689) ; [Bristol University Press / Cambridge University Press, « No to TINA »](https://www.cambridge.org/core/books/abs/in-whose-interest/no-to-tina-an-alternative-journey-for-social-work-and-childrens-social-services/541660B2DAF10BFA9FF4BEAE56A6F019). Voir [Moyens et finalités](moyens_et_finalites.md), [Manifeste possibiliste](manifeste_possibiliste_note_analytique.md) et [FractaCognition](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md).
 
 ## 3 ter. Souveraineté sur la capacité
 
