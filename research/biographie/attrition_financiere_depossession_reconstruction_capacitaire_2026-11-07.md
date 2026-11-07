@@ -4,7 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-11-07'
 last_modified_at: '2026-11-07'
-version: '0.1'
+version: '0.2'
 status: 'working-paper'
 language: fr
 license: CC BY-SA 4.0
@@ -79,3 +79,9 @@ Les objets comparatifs pourront comprendre fiscalité et coûts de conformité, 
 L'enquête ne doit pas s'arrêter à une chronique de la dépossession. Elle doit aussi **mesurer ce qui redevient faisable** : dossiers effectivement instruits, coûts de démarches diminués, décisions et recours accessibles, réduction du temps de coordination, préservation d'actifs, revenus ou projets nouveaux, garanties d'indépendance du Principal vis-à-vis des agents IA. Distinguer les gains techniques démontrés des gains financiers encore attendus ; compter aussi les coûts matériels, d'hébergement, de maintenance et de dépendance numérique.
 
 Ce versant constructif relie directement *Rise & Fall* et *Suicide Corse* au mouvement [Capable](../../projects/capable/README.md), à la [Machine à Rendre Capable](../../projects/suicide-corse/manuscript/04-realiser-impossible.md), au [principe d'énergie d'action](../energie_action.md) et au projet de jumeau numérique Cogentia. Il présente **la reconstruction de capacités comme un chantier vivant**, non comme une victoire déjà remportée.
+
+## 6. Transmission ouverte et trois niveaux de réussite (7 novembre 2026)
+
+L'auteur souligne que son travail est réalisé **en open source**. Son objectif principal reste une **reconstruction effective de son autonomie** par ses compétences informatiques et l'IA. Si cette expérience aboutit, il souhaite permettre à d'autres de reproduire la méthode, **avec ses outils ou avec d'autres** : la réplicabilité et la liberté de substitution sont constitutives de l'émancipation recherchée. Même si ce projet échoue à restaurer l'autonomie financière, il conservera comme résultat propre la **documentation publique et transmissible d'une expérience biographique et historique**. Ces trois critères — succès personnel, adoption transférable, valeur testimoniale — ne sont ni confondus ni subordonnés à une rentabilité commerciale.
+
+Ce projet s'inscrit dans un débat public marqué par des inquiétudes sur l'IA et par des controverses matérielles sur les centres de données. Voir [l'état documentaire et le programme comparatif datés du 7 novembre 2026](../ai/emancipation_ia_confiance_infrastructures_2026-11-07.md). L'existence de cette défiance n'invalide ni ne valide à elle seule l'hypothèse de l'IA émancipatrice : celle-ci sera appréciée dans les usages et par leurs effets observables.
