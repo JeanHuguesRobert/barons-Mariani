@@ -149,6 +149,10 @@ Dans *Suicide Corse* :
 
 Cette couche est partagée avec [Rise & Fall](../rise-and-fall/architecture.md) et [DIASPORA](../diaspora/editorial-architecture.md), sans imposer à ces projets les mêmes Reality Cases ni les mêmes mécanismes.
 
+## 0.0 quater. Dépossession économique : passerelle d'enquête, sans fusion des cas (7 novembre 2026)
+
+La **dépossession** est explicitement retenue comme objet comparatif de la Machine à Empêcher, au-delà des seules aliénations foncières : perte progressive de trésorerie, charges et prélèvements récurrents, délais, impossibilité d'exercer une activité ou de conserver un patrimoine malgré des droits formels. L'auteur souhaite instruire les mécanismes observés dans sa trajectoire personnelle et les confronter à des situations documentées en Corse, en France et éventuellement ailleurs, sans transposer automatiquement les causes ni les conséquences. La [note biographique source](../../research/biographie/attrition_financiere_depossession_reconstruction_capacitaire_2026-11-07.md) et [*Rise & Fall*](../rise-and-fall/architecture.md) portent la trajectoire individuelle et familiale ; *Suicide Corse* conserve son objet, ses propres sources et son changement d'échelle. **L'existence de la difficulté économique ne suffit pas à établir un effet psychique ni une causalité suicidaire.** Le programme de reconstruction de capacités par informatique et IA relève du versant *Explorer / Rendre Capable*, à mesurer par ses effets réels.
+
 ## 0.1. Centre structural : Empêcher → Explorer → Rendre Capable
 
 Le centre structural de *Suicide Corse* est désormais le triptyque :

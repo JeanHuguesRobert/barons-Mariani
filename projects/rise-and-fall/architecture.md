@@ -92,6 +92,12 @@ histoire familiale
 
 ---
 
+## 0.1 bis. Trajectoire financière du descendant contemporain : enquête ouverte au 7 novembre 2026
+
+L'auteur inclut désormais dans l'archéologie de la famille Mariani **sa propre trajectoire financière et entrepreneuriale** : difficultés de trésorerie, attrition par charges et prélèvements, obstacles à la production et à la conservation des ressources, puis efforts contemporains de restauration de capacités. Cette enquête ne réduit pas l'histoire familiale au fisc ; elle mesure les interactions entre ressources, délais, décisions, frais publics et privés et possibilités effectivement ouvertes. Elle examine en particulier le rôle que l'auteur attribue à la **Machine à Empêcher** dans ses difficultés à atteindre une autonomie financière.
+
+Une [note biographique source du 7 novembre 2026](../../research/biographie/attrition_financiere_depossession_reconstruction_capacitaire_2026-11-07.md) fournit le premier cas matériel daté : échecs de paiement de Yahoo Mail Plus en 2023–2024, perte du service de transfert vers Gmail lors de la résiliation du 12 février 2024, et question de l'accumulation de micro-pertes capacitaires. **Ce cas n'est pas une preuve d'une cause unique de la ruine alléguée** ; il ouvre une piste à instruire par les deux passes déjà prescrites ici. Le contrepoint est une possible reconstruction économique par les compétences informatiques et les progrès de l'IA, encore inachevée.
+
 ## 0.2. Trois Machines et méta-boucle Révélateur / Stabilisateur
 
 *Rise & Fall* reprend explicitement la grammaire commune des Livres Vivants définie dans [Livre Vivant](../../research/livre_vivant.md).

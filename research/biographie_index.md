@@ -43,6 +43,10 @@ Témoignage direct de Jean Hugues Robert recueilli le 1er novembre 2026, à dist
 
 Cette trame décrit une **filiation de personnes et de compétences**, complémentaire des filiations des entreprises et des logiciels. Elle ne démontre ni la continuité juridique des sociétés, ni une identité de code ou de doctrine entre les projets. Pour D2Lab, distinguer l'arrêt opérationnel envisagé dès 2007, les publications de gouvernance en 2009 et le statut juridique final encore non vérifié : [dossier historique](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/d2lab_wikis_are_here_to_stay.md).
 
+## 3 bis. Trajectoire financière, trésorerie et capacité de reconstruction (7 novembre 2026)
+
+- [Note biographique source — attrition financière, dépossession et reconstruction capacitaire](biographie/attrition_financiere_depossession_reconstruction_capacitaire_2026-11-07.md) : témoignage du Principal et chronologie Yahoo Mail Plus / PayPal documentée (2021–2024), programme d'enquête personnel et collectif, contrepoint des capacités rouvertes par l'informatique et l'IA. Les Livres Vivants [*Rise & Fall*](../projects/rise-and-fall/architecture.md) et [*Suicide Corse*](../projects/suicide-corse/architecture.md) en conservent des cadrages et des pièces distincts.
+
 ## 4. Règles éditoriales de maintenance
 
 1. **Biographie synthétique** : conserver un texte lisible dans Kudos ; éviter d'y reproduire les détails des documents historiques.
