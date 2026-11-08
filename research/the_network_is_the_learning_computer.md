@@ -2785,3 +2785,28 @@ RAIX + CPS + Return + Assimilation \rightarrow Learning\ Computer
 $$
 
 
+
+
+# Appendix — Computational-Universe interpretation (2026-11-08)
+
+The [Potentics cosmological conjecture, §8.2.1](potentics.md#821-exploratory-cosmological-hypothesis--the-universe-is-a-networked-learning-computer)
+asks whether a computational Universe might also exhibit historically
+emergent and composable **capabilities**. If considered conditionally, *The
+Network is the Learning Computer* becomes a **situated implementation** of
+distributed computation and experience-based organization within the physical
+Universe, rather than a metaphor requiring a machine outside the Universe.
+
+This analogy is intentionally bounded: physical transformations need not
+carry symbolic packets, return contracts, human mandates, goals or feedback
+criteria. In particular, the empirical emergence of organized structures
+does **not** prove that the Universe is fundamentally computational, nor that
+it learns in the operational Fractanet sense. Fractanet's contribution remains
+concrete: durable traces, replaceable handlers, governed Acts, reattach-first
+packet routing, and return-driven changes to future capability composition.
+
+Janus (evidence-qualified reconstruction and future branching) and the Spirit
+of Synthesis (newly accessible combinations) provide a vocabulary for this
+scale-crossing question while preserving the physical/cognitive distinction.
+See the cited contemporary research and objections in the Potentics section
+above. Do not create cosmic packet ontologies or software components from
+this analogy alone.

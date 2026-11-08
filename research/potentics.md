@@ -700,6 +700,68 @@ In this reading, **“the function creates the organ”**: recurrent useful tran
 
 This is **not presented as an established physical theory**. Its scientific value depends entirely on whether it can be formalized sufficiently to generate discriminating, falsifiable consequences and survive Reality Tests. Failure to do so, or repeated conflict with the Real, is itself a legitimate Potentic result and should lead to correction, narrowing, or abandonment of the hypothesis.
 
+#### Expansion (2026-11-08): from a situated Learning Computer to a computational Universe
+
+The conjunction with [*The Network is the Learning Computer*](the_network_is_the_learning_computer.md)
+changes the possible **scale**, not the epistemic status, of the conjecture.
+Three propositions must remain distinct:
+
+1. **Computational description:** physical systems can be modeled, to varying
+   degrees, with computational or informational structures. This alone does
+   not entail that the Universe *is* a computer.
+2. **Physical information processing:** physics constrains how systems store,
+   transform and transmit information. Lloyd (2002) derives computational
+   capacity bounds for the Universe; this does not identify a literal global
+   program, packet format or learning objective.
+3. **Computational ontology:** reality may fundamentally consist of
+   computational transformations. This stronger claim remains debated, and
+   an even stronger **learning Universe** would need its own definition of
+   adaptive capability changes distinguishable from ordinary state evolution.
+
+If one *conditionally adopts* the third proposition, a situated Fractanet
+Learning Computer can be interpreted as **an emergent computational
+organization within a computational Universe**, not an external machine
+simulating Reality. At different scales, traces of earlier transformations
+constrain later transformations; localized configurations may preserve
+functional structures; interactions may permit new combinations and new
+reachable capabilities. Human reflection and packet-based cognitive routing
+would then be a specialized late-emerging case of the more general process,
+not evidence that stars, particles or the cosmos possess human-like goals,
+consciousness, symbolic packet identities, or governed mandates.
+
+The recent [Janus](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/janus_cognitive_gatekeeper.md)
+and [Cognitive Packet](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md)
+analysis offers a **heuristic**, not a claimed physical isomorphism:
+
+- **Past:** observed traces allow evidence-qualified reconstructions of
+  antecedent pathways; history persists without being exhaustively knowable.
+- **Present:** some previously separate observations and capacities may be
+  combined; the *Spirit of Synthesis* names the emergence of new accessible
+  possibilities through such composition.
+- **Future:** realized combinations change subsequent reachable paths;
+  the organization of those paths is itself revisable, not frozen by the
+  present model.
+
+Crucially, **evolution is not automatically learning**. Learning in the
+Fractanet sense requires demonstrable, experience-dependent alteration of
+future behavior or capability composition with grounded feedback. Neither
+increasing cosmic complexity nor ordinary irreversible dynamics, by
+itself, supplies such a criterion. Also, causal events in physics are not
+literally COP Acts, and physical state is not literally a Cognitive Packet.
+The strongest open question is whether a useful scale-independent concept
+of *capability formation* can be stated **without** equivocation among
+causal dynamics, computation, adaptation and deliberate cognitive learning.
+
+Relevant prior work and objections: Konrad Zuse, *Rechnender Raum* (1969);
+Edward Fredkin, *Digital Mechanics* (1990);
+[Seth Lloyd, *Computational Capacity of the Universe* (2002)](https://doi.org/10.1103/PhysRevLett.88.237901);
+[Seth Lloyd, *The Universe as Quantum Computer* (2013)](https://arxiv.org/abs/1312.4455);
+[Wolfram Physics Project](https://wolframinstitute.org/research/wolfram-physics-project);
+[Stanford Encyclopedia of Philosophy, *Computation in Physical Systems*](https://plato.stanford.edu/entries/computation-physicalsystems/);
+and [Anderson & Piccinini, *Ontic Pancomputationalism* (2024)](https://doi.org/10.1093/9780191872075.003.0009).
+This is a conditional conceptual expansion of an existing hypothesis, **not**
+an assertion of a new cosmological theory or a mandate to launch simulations.
+
 ### 8.3 Methodological Commitments
 
 Any Potentic investigation should:
