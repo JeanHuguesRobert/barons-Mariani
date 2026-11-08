@@ -762,6 +762,37 @@ and [Anderson & Piccinini, *Ontic Pancomputationalism* (2024)](https://doi.org/1
 This is a conditional conceptual expansion of an existing hypothesis, **not**
 an assertion of a new cosmological theory or a mandate to launch simulations.
 
+#### Physical thermodynamics versus metaphorical thermodynamics (2026-11-08)
+
+Maintain a strict epistemic separation. **Physical thermodynamics** concerns
+measurable energy, heat, work, entropy, and physical transformations. It
+applies literally to computers and networks as physical systems (power,
+heat dissipation and resource limits), and to natural systems through the
+appropriate physical models. The rise of local organization is not an
+exception to thermodynamic constraints.
+
+**Metaphorical thermodynamics** in cognitive, social, organizational or
+Potentic reasoning is a heuristic for phenomena such as dissipation of
+attention, irreversible decisions, information dispersion, coordination
+cost, or resource constraints. These are not automatically thermodynamic
+entropy, state functions or conservation laws; in particular "cognitive
+entropy" must specify its variables and domain before any mathematical
+claim. Analogies with exergy do not make the Possible an energy or
+validate conversion formulas between cognitive and physical units.
+
+A formal information-theoretic entropy, when precisely defined over a
+probability distribution, is a legitimate mathematical quantity, but its
+relationship to physical thermodynamic entropy requires a distinct
+physical argument. Do not transfer the second law, physical temperature,
+force fields, or universal scaling laws by verbal similarity.
+
+**Informational Gravity** is likewise an explicit metaphor for situated
+cognitive-packet routing, not physical gravitation (see
+[Cogentia's canonical definition](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/informational_gravity.md)).
+The computational-Universe conjecture does not erase these boundaries:
+physical substrate, computational description, organizational analogy,
+and speculative ontology retain separate claims and standards of evidence.
+
 #### Recursive locality and scale (2026-11-08)
 
 The computational-Universe conjecture also raises a **scale-continuity**
