@@ -1227,6 +1227,40 @@ Une implémentation future pourrait être envisagée dans des outils de débat a
 
 ---
 
+### Articulation : désynchronisation cognitive, récits réflexifs et fécondité (8 novembre 2026)
+
+La [désynchronisation mimétique](mimetic_desynchronization.md) et les
+Terrains Féconds peuvent être envisagés comme deux opérations distinctes
+et complémentaires devant une interprétation collective qui se renforce
+elle-même. La première cherche à **découpler perception, interprétation et
+réaction**, afin d'éviter la fermeture prématurée d'un possible dans un cycle
+de disqualification. La seconde cherche à **reconfigurer les catégories,
+questions, règles et possibilités** du débat, afin qu'un autre terrain
+produise des options praticables plutôt que de reconduire la rivalité.
+
+Le lien avec la [réflexivité des représentations](realite_operationnelle_et_reflexivite.md)
+est causal : récits, croyances et anticipations peuvent induire des actes qui
+stabilisent le terrain social qu'ils paraissent seulement décrire. Une
+intervention sur leurs conditions de reproduction peut donc ouvrir une
+bifurcation. L'image du « Roi est nu » concerne cette possible fragilité
+d'une croyance publiquement entretenue ; elle n'implique pas la disparition
+automatique des contraintes institutionnelles et matérielles qui lui sont
+associées.
+
+**Hypothèse de mécanisme, non résultat établi :** la désynchronisation peut
+ouvrir un intervalle de réinterprétation ; la reconfiguration féconde peut
+convertir cet intervalle en possibilités nouvelles et en capacités d'agir.
+Mais la réussite ne se réduit ni au déplacement d'une croyance ni à
+l'acceptation d'un projet. Des résistances peuvent reposer sur des raisons
+justifiées. La contradiction, les droits des acteurs, les rapports de force
+et les conséquences réelles doivent rester inspectables. La méthode
+préserve sa valeur seulement si elle produit des options réellement
+meilleures ou plus accessibles sans masquer les désaccords.
+
+Cette articulation ne crée ni nouvelle doctrine souveraine ni nouveau
+paquet cognitif : elle relie des travaux déjà identifiés au moyen d'une
+hypothèse causale qualifiée et révisable.
+
 ## 18. Conclusion — Rendre les désaccords habitables
 
 La polarisation n’est pas seulement un excès d’émotion. Elle est souvent le symptôme d’un mauvais terrain de débat.

@@ -185,6 +185,25 @@ This framework applies across contexts: technological adoption, organizational c
 
 ---
 
+## 10 bis. Relation to Fertile Grounds and reflexive narratives (2026-11-08)
+
+[Mimetic desynchronization](mimetic_desynchronization.md) is a candidate
+mechanism for loosening the temporal coupling of perception,
+interpretation and reaction when a self-reinforcing narrative prematurely
+closes off new possibilities. The [Fertile Grounds Method](methode_terrains_feconds.md)
+addresses a complementary problem: redesigning the **framing of a dispute**
+so that previously invisible but feasible cooperative options become
+considerable. Desynchronization may create an interpretive opening;
+reconfiguration may turn that opening into durable capabilities. See
+[Operational Reality and Reflexivity](realite_operationnelle_et_reflexivite.md).
+
+This is a **mechanism hypothesis**, not a demonstrated causal sequence.
+Circumventing a legitimate objection is not success; neither delay nor
+non-ostentation grants authority to impose a change. Preserve evidence,
+contestability, rights, and the distinction between mimetic resistance and
+real constraints. The objective is a more fertile field of possibilities,
+not simply the adoption of the initiator's preferred outcome.
+
 ## 11. Conclusion
 
 The central difficulty of change lies not in invention, but in integration. The DRSJ cycle — a universal mechanism of interpretive stabilization, documented with particular clarity in Mediterranean social contexts — explains why viable innovations fail not on technical grounds but on interpretive ones.
