@@ -1261,6 +1261,31 @@ Cette articulation ne crée ni nouvelle doctrine souveraine ni nouveau
 paquet cognitif : elle relie des travaux déjà identifiés au moyen d'une
 hypothèse causale qualifiée et révisable.
 
+### Parenté explicite avec le storytelling et le recadrage narratif (8 novembre 2026)
+
+L'auteur ne revendique **pas l'invention** du pouvoir des récits sur les
+comportements collectifs. La désynchronisation cognitive et les Terrains
+Féconds reformulent, dans son propre vocabulaire, des mécanismes étudiés
+notamment sous les noms de **storytelling**, *framing/reframing*, construction
+collective du sens (*sensemaking*) et prophéties autoréalisatrices.
+
+Le storytelling peut modifier la manière dont des acteurs interprètent une
+situation, se distribuent des rôles et anticipent les réactions d'autrui.
+La désynchronisation cherche plus précisément à interrompre ou décaler
+les réactions interprétatives qui reconduisent un récit dominant. Le
+Terrain Fécond cherche à transformer le cadrage disponible en une nouvelle
+configuration de questions, règles et possibilités d'action. Cette
+articulation est une hypothèse explicative et pratique, non une prétention
+de nouveauté historique ni une équivalence exacte entre ces concepts.
+
+**Critère de distinction :** un récit peut convaincre sans produire de
+capacité nouvelle, ou même manipuler. Une reconfiguration ne mérite le
+qualificatif de *féconde* que si elle rend effectivement accessibles des
+options utiles, légitimes et confrontables au Réel. Elle doit préserver
+les contradictions, la possibilité de refus et les traces des actes.
+Voir [Réalité opérationnelle et réflexivité](realite_operationnelle_et_reflexivite.md)
+et [Désynchronisation mimétique](mimetic_desynchronization.md).
+
 ## 18. Conclusion — Rendre les désaccords habitables
 
 La polarisation n’est pas seulement un excès d’émotion. Elle est souvent le symptôme d’un mauvais terrain de débat.
