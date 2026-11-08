@@ -401,7 +401,22 @@ This distinction allows Potentics to accommodate simultaneously actualization, c
 
 ### 3.5 Spirit of Synthesis
 
-Potentics calls **Spirit of Synthesis** the hypothesized generative dynamic by which previously separate elements, observations, capabilities, structures, or partial solutions combine so that additional possibles become accessible and, sometimes, actualized. The term is deliberately non-mystical here: it names a research object — the mechanisms by which synthesis creates order, capability, and new reachable states from previously dispersed components.
+Potentics calls **Spirit of Synthesis** the generative phenomenon by which previously separate elements, observations, capabilities, structures, or partial solutions combine so that additional possibles become accessible and, sometimes, actualized. The **existence of emergent organization** is an observed fact of cosmic and biological history, not the hypothesis at issue. The term names a research object: the diverse **mechanisms, conditions, and compositional pathways** by which order, capability, and new reachable states emerge. It does not assert a distinct supernatural agent or a new physical force.
+
+**Epistemic distinction (2026-11-08):** galaxies, stars, chemical structures,
+living organisms, and reflective cognition demonstrate that localized organized
+structures and novel capacities have emerged over cosmic history. The observed
+phenomenon should not be marked *hypothetical* merely because its mechanisms
+are incompletely understood. Nor does this fact alone demonstrate that every
+particular coordination method creates generative synthesis. The early cosmos
+should not literally be characterized as an undifferentiated "initial chaos":
+cosmic microwave background observations show remarkable early smoothness with
+small fluctuations, and gravitational instability later generated structure.
+Local self-organization is consistent with thermodynamics in systems whose
+energy flows and entropy production support order. See NASA's [cosmic structure
+account](https://imagine.gsfc.nasa.gov/science/questions/lumpy.html),
+[Lineweaver & Egan, 2008](https://doi.org/10.1016/j.plrev.2008.08.002), and
+[Crutchfield et al., *On principles of emergent organization*, 2024](https://doi.org/10.1016/j.physrep.2024.04.001).
 
 A minimal formulation is:
 
@@ -431,7 +446,7 @@ realization changes what becomes accessible next
 
 ### Candidate mechanism — semantic reconciliation of Cognitive Packets (2026-11-08)
 
-**Hypothesis, not established result:** the *Spirit of Synthesis* may operate, in
+**Specific mechanism hypothesis, not an existential hypothesis:** the *Spirit of Synthesis* may operate, in
 part, through the discovery of meaningful relations between cognitive works
 that were previously handled separately. A conversation acting as a cognitive
 routing/interpretation handler can identify relevant already-existing
