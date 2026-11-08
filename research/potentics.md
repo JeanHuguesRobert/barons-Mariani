@@ -429,6 +429,33 @@ realization changes what becomes accessible next
 
 > Synthesis can enlarge the accessible possible by creating new combinations and capabilities.
 
+### Candidate mechanism — semantic reconciliation of Cognitive Packets (2026-11-08)
+
+**Hypothesis, not established result:** the *Spirit of Synthesis* may operate, in
+part, through the discovery of meaningful relations between cognitive works
+that were previously handled separately. A conversation acting as a cognitive
+routing/interpretation handler can identify relevant already-existing
+Cognitive Packets, attach observed Acts and new findings to one or several of
+them, and propose relations between their distinct results, constraints or
+capacities. Such reconciliation can occasionally make a continuation or a
+combination *accessible* that was not accessible to the separately considered
+work loci. In that event it would constitute one candidate **mechanism** of
+generative synthesis, not just a more economical archive.
+
+The mechanism is **not** validated merely by increasing the number of links or
+reducing duplicate packets. Those are organizational outcomes. Its generative
+claim requires an attributable instance in which the new combination makes a
+previously inaccessible capability, solution or Act achievable. Neither the
+existence of a conversation nor an AI-generated relation proves that outcome.
+
+An agile, revisable graph is essential: existing packets should be searched
+before creating new ones; relations can be contested or later revised;
+historical Acts and their original provenance remain unchanged. Today's
+organization must not restrict tomorrow's exploration of the Possible. This
+hypothesis draws on [Cognitive Packets](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/cognitive_packets.md)
+and the Janus Past/Future distinction; it does not require a new runtime
+component or new synthetic packet merely to record the hypothesis.
+
 ### 3.5.1 Collective Achievable Capacity and the Spirit of Synthesis ($C_{\text{collective}}(T)$ and $G_{\text{RAIX}}$)
 
 The Spirit of Synthesis finds an exact mathematical and empirical formalization in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)) through the concept of **collective achievable capacity**.
