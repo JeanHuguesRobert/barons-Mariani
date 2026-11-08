@@ -368,6 +368,17 @@ jugement sur les moyens, ni du principe de localité, ni de l'imputabilité.
 Sa valeur n'est pas l'ampleur du récit mais la capacité effectivement
 libérée, rendue accessible et corrigible.
 
+**Portée du mot « Rationnelle ».** Il distingue la démarche d'une simple
+« Exploration du Possible » qui ferait abstraction des apports de la
+Raison. Celle-ci doit mobiliser les acquis des autres, comparer les
+objections et rendre ses critères inspectables **sans s'ériger elle-même
+en autorité infaillible** : une explication qui résiste mal au Réel se
+corrige, et un cadre intellectuel qui ferme prématurément une branche
+peut être remis en cause. C'est la continuité explicite entre le
+[Discours de la seconde méthode](second_method.md), la
+[Potentique](potentics.md) et ce Booster cognitif.
+
+
 ## 7. Booster × Optimistic Locking
 
 [Optimistic Mainline Governance](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md) provides a closely related operational pattern: do not try to prevent every mistake before action; prefer small, scoped, visible, reversible acts with traces and correction paths.

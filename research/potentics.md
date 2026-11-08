@@ -100,6 +100,20 @@ Potentics proposes to unify and radicalize these partial approaches under a comm
 
 Each word carries weight. *Rational*: rigorous, tool-assisted, falsifiable, not merely intuitive. *Exploration*: iterative, open-ended, proceeding by trial and error, not by prior optimization. *The possible*: not what is, not what is certain, but what could become real — with a propensity that can be measured, cultivated, and inhibited.
 
+**Why *Rational* is indispensable (2026-11-08).** An Exploration of The
+Possible *without* the adjective could wander through speculation without
+using the contributions of reason. **Rational Exploration** instead draws
+on argument, relevant evidence, inherited knowledge, objections,
+feasibility constraints and proportionate action. Reason itself remains
+corrigible: a current model, category or deductive argument cannot turn
+what it fails to represent into an impossibility. Imagination generates
+candidate branches; reason examines them; the Real answers through
+consequences; the [Second Method](second_method.md) records and revises
+claims, objections and traces. This is disciplined openness, **not** a
+claim that imagination is sovereign over physical constraints, or a
+mandate to produce simulations when real work already supplies evidence.
+
+
 ### 1.1 The Possible versus possibilities
 
 Potentics uses **The Possible**, capitalized, as its doctrinal term — not merely *possibilities*.
@@ -473,20 +487,28 @@ component or new synthetic packet merely to record the hypothesis.
 
 ### 3.5.1 Collective Achievable Capacity and the Spirit of Synthesis ($C_{\text{collective}}(T)$ and $G_{\text{RAIX}}$)
 
-The Spirit of Synthesis finds an exact mathematical and empirical formalization in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)) through the concept of **collective achievable capacity**.
+A **domain-specific operational proxy** for one aspect of generative synthesis is proposed in the *Potentics of Compute* ([`potentics_of_compute.md`](potentics_of_compute.md)) through **collective achievable capacity**. This is neither an exact mathematical characterization of the Spirit of Synthesis across domains nor a physical law.
 
 Consider $n$ heterogeneous capabilities or processors $C_1, C_2, \ldots, C_n$. When assembled under an interaction and routing topology $T$, their collective capacity is not a scalar addition, but a functional composition:
 $$C_{\text{collective}}(T) = F_T(C_1, C_2, \ldots, C_n)$$
 
-The empirical test of whether the Spirit of Synthesis is actively operating is given by the **RAIX array gain metric** $G_{\text{RAIX}}(T)$:
+A **candidate, task-relative proxy** for a measured performance gain is the **RAIX array gain** $G_{\\text{RAIX}}(T)$, provided the comparison is well-defined:
 $$G_{\text{RAIX}}(T) = \frac{\text{Capability}(C_{\text{collective}}(T))}{\sum_{i=1}^n \text{Capability}(C_i)}$$
 
 Three distinct regimes emerge:
-1. **Super-additivity ($G_{\text{RAIX}} > 1$) :** The Spirit of Synthesis is genuinely achieved. Plural, specialized capabilities (e.g., deterministic real-time MCU, neural NPU, edge SBC, and external reasoning model) cooperate to achieve tasks that no individual processor nor simple parallel replication could ever achieve.
-2. **Strict redundancy ($G_{\text{RAIX}} = 1$) :** Pure replication for fault tolerance without qualitative expansion of accessible possibles.
-3. **Collective deficit ($G_{\text{RAIX}} < 1$) :** The coordination overhead and latency trap dominate, shrinking the accessible possible.
+1. **Super-additivity ($G_{\\text{RAIX}} > 1$):** under the chosen workload and metric, composition outperforms the stated additive baseline. This is evidence of a performance gain in that domain, **not proof** of universal generative synthesis or the appearance of a qualitatively new capability.
+2. **Baseline equality ($G_{\\text{RAIX}} = 1$):** equivalent performance on this measure; redundancy, robustness or novel functionality may still matter outside the measured dimension.
+3. **Measured deficit ($G_{\\text{RAIX}} < 1$):** underperformance on the stated measure; coordination overhead may explain it, but does not by itself establish contraction of the entire accessible Possible.
 
-Furthermore, under **policy learning** (as embodied in the Ithaca memory of the [Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md)), the system continuously learns *which* topology $T$ maximizes $G_{\text{RAIX}}(T)$ for each class of task, transforming the Spirit of Synthesis from a static philosophical concept into a trainable, evolutionary computational discipline.
+**Measurement boundary.** The denominator is meaningful only when the
+individual capabilities have been expressed in **comparable units over an
+explicit workload and evaluation protocol**. Heterogeneous capabilities
+are often not additively commensurable. A scalar gain may conceal a novel
+capability, resilience, safety or constraint satisfaction; conversely,
+a favorable scalar alone cannot establish that a new qualitative option
+became possible. Record the baseline and observed new behavior separately.
+
+Furthermore, under **policy learning** (as embodied in the Ithaca memory of the [Learning Computer](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/learning_computer_genese_et_architecture.md)), the system continuously learns *which* topology $T$ maximizes $G_{\text{RAIX}}(T)$ for each class of task, making **one operational mechanism of capability composition** amenable to learning and correction, without claiming to train or exhaust the Spirit of Synthesis itself.
 
 ---
 
