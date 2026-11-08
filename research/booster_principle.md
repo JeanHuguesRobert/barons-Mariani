@@ -342,6 +342,32 @@ cette articulation : elle enrichit des continuités conceptuelles existantes.
 
 ---
 
+### Rational Exploration, not a headless wandering duck (2026-11-08)
+
+**« Libérer l'imagination » ne veut pas dire la laisser vagabonder comme
+un « Canard sans Tête ».** La doctrine renvoie explicitement à
+l'[Exploration Rationnelle du Possible](rational_odysseys_the_possible.md),
+sous la discipline de la [Seconde Méthode](second_method.md) : une ouverture
+imaginative produit des **candidats**, pas des vérités ni des mandats.
+Les hypothèses doivent pouvoir être formulées, reliées aux sources,
+contestées et corrigées ; les objections qualifiées sont des contributions,
+y compris lorsqu'elles invalident une piste.
+
+```text
+imagination -> candidats et branches
+raison      -> distinctions, contraintes, objections et choix provisoires
+acte        -> intervention située, autorisée et proportionnée
+Réel        -> effets constatables, y compris l'échec
+trace       -> apprentissage, correction et réouverture éventuelle du Possible
+```
+
+La finalité n'est pas de multiplier les hypothèses ou les simulations.
+L'expérience ordinaire des travaux réels, leurs incidents et leurs résultats
+suffisent souvent à alimenter la boucle. Un Booster ne dispense ni du
+jugement sur les moyens, ni du principe de localité, ni de l'imputabilité.
+Sa valeur n'est pas l'ampleur du récit mais la capacité effectivement
+libérée, rendue accessible et corrigible.
+
 ## 7. Booster × Optimistic Locking
 
 [Optimistic Mainline Governance](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md) provides a closely related operational pattern: do not try to prevent every mistake before action; prefer small, scoped, visible, reversible acts with traces and correction paths.
