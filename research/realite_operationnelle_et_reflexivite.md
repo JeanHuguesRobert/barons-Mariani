@@ -268,6 +268,61 @@ L'objectif n'est pas de séparer parfaitement « prédiction » et « causalité
 
 ---
 
+### 6 bis. Les fictions qui façonnent le Réel — et leur fragilité (8 novembre 2026)
+
+Une croyance, un récit, une anticipation ou une règle conventionnelle peuvent
+produire des effets causaux parfaitement réels **sans devenir pour autant une
+loi physique ou une vérité ontologique**. Dans un système réflexif :
+
+```text
+récit / représentation
+  -> adoption ou contestation par des acteurs
+  -> coordination et actes
+  -> conséquences matérielles et institutionnelles
+  -> renforcement, révision ou déstabilisation du récit
+```
+
+C'est la famille des prophéties autoréalisatrices et auto-invalidantes. La
+représentation fait partie des causes du résultat, lequel ne saurait ensuite
+être invoqué sans qualification comme preuve indépendante de la prédiction.
+L'image de la glaise décrit la *malléabilité conditionnelle* du Réel social,
+non l'absence de contraintes physiques, juridiques, économiques ou
+coercitives.
+
+**« Le Roi est nu »**, référence aux *Habits neufs de l'empereur* d'Andersen,
+illustre la fragilité possible des coordinations appuyées sur des croyances
+publiques que plusieurs acteurs maintiennent tout en ayant des doutes privés.
+Une observation devenue dicible peut modifier la croyance commune et ouvrir
+une nouvelle branche d'action. Ce dévoilement peut cependant ne pas suffire à
+faire disparaître une institution, dont les effets reposent aussi sur des
+ressources, des sanctions et des dépendances matérielles.
+
+La distinction est entre :
+
+- **contrainte physique** : elle ne cesse pas parce que le récit change ;
+- **réalité conventionnelle** : ses règles et effets existent par des pratiques,
+  engagements et mécanismes de maintien ;
+- **fiction mobilisatrice** : proposition narrative qui peut ou non devenir
+  réalité opérationnelle à travers des actes ;
+- **erreur ou mystification** : croyance éventuellement démentie par les traces,
+  sans garantie que sa réfutation supprime immédiatement ses conséquences.
+
+Le mot *fiction* n'implique donc ni mensonge, ni inexistence des effets, ni
+permission de traiter les personnes comme de simples variables d'un récit.
+Inversement, le caractère socialement institué d'un ordre signifie que
+certains futurs radicalement différents peuvent rester accessibles. Cette
+ouverture doit demeurer **corrigible par le Réel**, conformément à Janus,
+à la Seconde Méthode, au Principe Rossignol et à la traçabilité des actes.
+
+**Lien avec le Learning Computer :** lorsqu'un récit modifie les comportements
+qui conditionnent sa réalisation, le système est à la fois observateur et
+acteur du processus décrit. Il doit tracer séparément hypothèse, exposition,
+réactions, actes et résultats pour ne pas confondre apprentissage effectif et
+renforcement autoréférentiel. La possibilité de réviser ou d'abandonner la
+fiction est un facteur de robustesse, non une faiblesse.
+
+---
+
 ## 7. Conséquence pour Potentics
 
 Une Potentiality Map n'est pas un observateur extérieur au Possible.
