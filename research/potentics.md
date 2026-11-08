@@ -762,6 +762,22 @@ and [Anderson & Piccinini, *Ontic Pancomputationalism* (2024)](https://doi.org/1
 This is a conditional conceptual expansion of an existing hypothesis, **not**
 an assertion of a new cosmological theory or a mandate to launch simulations.
 
+#### Recursive locality and scale (2026-11-08)
+
+The computational-Universe conjecture also raises a **scale-continuity**
+question. [Fractalisation](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractalisation_method_hypothesis_2026-11-02.md)
+and the [Principle of Locality](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/locality_principle.md)
+allow us to consider situated compositions below, at, and above human and
+agent scales: neither human cognition nor our Fractanet need be the first or
+last organizational level. This is a conjecture about recursively useful
+organizational **relations**, not an established infinite geometrical
+fractal or a scale-invariant law of physics. In particular, physical
+relativistic locality differs from the method's minimum-sufficient-locality
+rule; observed large-scale cosmic homogeneity constrains literal universal
+spatial fractality. The potential continuity of *mechanisms of capability
+formation* is the interesting question, while their material substrates,
+constraints and epistemic regimes can differ sharply.
+
 ### 8.3 Methodological Commitments
 
 Any Potentic investigation should:
