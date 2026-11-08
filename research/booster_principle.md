@@ -290,6 +290,58 @@ The practical discipline is therefore neither conservative closure nor imaginati
 
 ---
 
+## 6 bis. « La Limite, c'est l'Imagination » — libérer le Génie (8 novembre 2026)
+
+L'auteur rapproche deux aphorismes : « L'Histoire est écrite par les
+vainqueurs » (formule qui simplifie une réalité historiographique plus
+complexe) et « La meilleure façon de prédire l'avenir, c'est de l'inventer ».
+Le premier souligne que les récits dominants peuvent contraindre la
+reconstruction du passé ; le second qu'un récit du futur peut devenir
+**causal** lorsqu'il oriente effectivement des actes. Dans un système
+réflexif, la représentation n'est plus un simple observateur extérieur :
+elle peut contribuer à façonner le terrain qu'elle décrit. Voir
+[Réalité opérationnelle et réflexivité](realite_operationnelle_et_reflexivite.md).
+
+La formule **« La Limite, c'est l'Imagination »** doit être lue comme une
+**critique de la clôture cognitive et du présentisme**, et non comme une
+loi ontologique affirmant que toute chose imaginable serait possible.
+Une capacité non imaginée ou rendue impensable par le cadrage courant
+risque de ne pas être recherchée, même lorsque le Réel permettrait son
+actualisation. Réciproquement, une fiction imaginative n'abolit ni les
+contraintes physiques ni les obligations envers autrui. **Libérer
+l'imagination** signifie rouvrir des branches d'exploration sans leur
+accorder d'avance le statut de vérité ou de possibilité prouvée.
+
+La figure du **Génie qui jaillit** nomme métaphoriquement une puissance
+créatrice ou capacitaire latente qui devient accessible. Elle ne postule
+ni esprit surnaturel ni énergie nouvelle. La distinction fonctionnelle
+est la suivante :
+
+```text
+libération de l'imagination -> branches du Possible redeviennent pensables
+Terrain Fécond             -> configuration propice à leur composition
+Booster                    -> petite intervention mobilisant un grand potentiel latent
+Génie                     -> nom imagé de la capacité ainsi révélée ou libérée
+Actes + réponse du Réel    -> actualisation, correction ou abandon
+```
+
+Ces notions s'articulent avec la [méthode des Terrains Féconds](methode_terrains_feconds.md),
+la [désynchronisation mimétique](mimetic_desynchronization.md),
+la [Potentique](potentics.md) et l'[Esprit de Synthèse](potentics.md#35-spirit-of-synthesis).
+Une désynchronisation peut déverrouiller un récit auto-entretenu ; un nouveau
+cadrage peut faire apparaître un Terrain Fécond ; un Booster bien situé peut
+alors rendre accessible une capacité jusque-là empêchée ou invisible.
+Ce chemin est une **hypothèse de mécanisme** et non une séquence universelle.
+
+La richesse du Génie ne se mesure pas à la puissance du récit : seule
+l'ouverture effective d'options pertinentes et la réponse du Réel permettent
+de distinguer fécondité, simple persuasion et illusion auto-entretenue.
+Le génie peut également consister à reconnaître qu'une branche imaginée
+n'est pas praticable. Ne pas créer un nouveau paquet simplement pour
+cette articulation : elle enrichit des continuités conceptuelles existantes.
+
+---
+
 ## 7. Booster × Optimistic Locking
 
 [Optimistic Mainline Governance](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/optimistic_mainline_governance.md) provides a closely related operational pattern: do not try to prevent every mistake before action; prefer small, scoped, visible, reversible acts with traces and correction paths.

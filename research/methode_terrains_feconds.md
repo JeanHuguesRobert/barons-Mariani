@@ -1286,6 +1286,16 @@ les contradictions, la possibilité de refus et les traces des actes.
 Voir [Réalité opérationnelle et réflexivité](realite_operationnelle_et_reflexivite.md)
 et [Désynchronisation mimétique](mimetic_desynchronization.md).
 
+**Imagination, Génie et Booster (8 novembre 2026).** Le Terrain Fécond
+n'est pas seulement un recadrage narratif : il peut rendre de nouveau
+*imaginables* des actions que le terrain antérieur occultait. Dans le
+vocabulaire de l'auteur, « La Limite, c'est l'Imagination » appelle à
+« libérer l'imagination » ; le « Génie » désigne, par métaphore, une
+capacité latente qui devient accessible ; le [Booster](booster_principle.md#6-bis--la-limite-cest-limagination--liberer-le-genie)
+représente l'intervention proportionnellement modeste capable de la
+mobiliser. Rien de cela ne suspend la contradiction ou les conditions
+physiques, juridiques et matérielles de l'action.
+
 ## 18. Conclusion — Rendre les désaccords habitables
 
 La polarisation n’est pas seulement un excès d’émotion. Elle est souvent le symptôme d’un mauvais terrain de débat.
