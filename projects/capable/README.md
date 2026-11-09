@@ -30,6 +30,8 @@ provenance:
 
 # Capable
 
+> **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete-2026-11-09.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
+
 ## République et effectivité — proposition institutionnelle
 
 Capable se réclame des principes de la République sans considérer les institutions actuelles comme indépassables. La proposition explore des garanties effectives de liberté, d'égalité, de fraternité et de souveraineté populaire : participation directe, contrôle des mandats, recours, traçabilité et correction pacifique. Elle vise une architecture robuste face aux erreurs et aux abus de pouvoir, sans présupposer la sagesse des gouvernants. Elle protège également les droits individuels et les minorités contre l'arbitraire majoritaire et préserve la possibilité de réviser les institutions.
