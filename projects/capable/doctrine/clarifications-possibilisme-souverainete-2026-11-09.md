@@ -72,11 +72,13 @@ La technologie doit augmenter les capacités cognitives distribuées des personn
 
 **Risque de contresens :** confondre « durée indéterminée » avec « mandat irrévocable », « démocratie assistée » avec « gouvernement de l'IA », ou « transparence du pouvoir » avec « transparence obligatoire de tous ».
 
-## 6. Stabilisateur procédural — point d'articulation à confirmer
+## 6. Stabilisateur procédural — ancrage canonique vérifié
 
-Le Stabilisateur procédural est invoqué comme réponse **systémique** aux incitations du mandat représentatif et à la confusion des responsabilités, plutôt que comme jugement moral global porté sur les personnes. Son contrat précis, ses déclencheurs, garanties contradictoires et relations avec RIC révocatoire, Révélateurs et traçabilité doivent être reliés à leur source canonique **avant** toute reformulation normative.
+La source détaillée [*Du spectacle à la régie*](../../../research/debord_stabilisateur_procedural.md), §5, définit le Stabilisateur procédural comme **une infrastructure de contestabilité**, non une police centrale de la vérité. Elle articule provenance, mandat explicite, séparation des capacités, traçabilité des actes, contradiction, gouvernance de la saillance, révocation, remédiation, portabilité et pluralité d'infrastructure. Le principe inclut les limites de la procéduralisation : bureaucratisation, capture des sources, surcharge attentionnelle.
 
-**Risque de contresens :** suggérer qu'une procédure détermine mécaniquement le vrai, le juste, ou qu'elle neutralise définitivement la capture économique.
+**Application politique proposée, à préciser et non à confondre avec le mécanisme général :** contrôle démocratique des délégations et des régulateurs, RIC révocatoire et garanties du droit de réponse. Le Stabilisateur ne résout pas mécaniquement la capture économique, ne crée pas un droit de surveillance générale et ne détermine pas la vérité à la place des citoyens.
+
+**Risque de contresens :** réduire le Stabilisateur au seul RIC, ou attribuer au RIC une garantie d'infaillibilité.
 
 ## 7. Périmètres distincts : doctrine, mouvement, candidature
 
@@ -105,3 +107,24 @@ Sources primaires :
 3. Remplacer les absolus imprudents (« sans risque », « toujours », « garantit ») par des propositions conditionnelles et réfutables quand elles ne sont pas des citations d'auteur.
 4. Séparer dans chaque publication : **doctrine / proposition / acte attesté / résultat / hypothèse / inconnue**.
 5. Soumettre les passages doctrinaux nouveaux à la revue de l'auteur avant stabilisation et distinguer communication publique et comptes de campagne.
+
+## 10. Sources canoniques retrouvées — éviter une doctrine parallèle
+
+La présente note **complète, sans supplanter**, les textes suivants. En cas d'écart, les formulations historiques et documents human-validated conservent leur provenance ; les interprétations ultérieures doivent être datées et soumises à revue.
+
+- [Rendre capable — noyau doctrinal provisoire](../../../research/noyau_doctrinal_rendre_capable.md) : articulation républicanisme d'effectivité, autonomie, anti-capture, transmission et mandat ; corpus de référence ample, non à recopier.
+- [Possibilisme appliqué — exploration joyeuse](../../../research/applied_possibilism.md) et [Joie, jeu et accroissement de capacité](../../../research/joie_jeu_capacite.md) : ne pas réduire la joie au plaisir consommatoire ou à une récompense ; l'ouverture de nouvelles capacités est déjà documentée.
+- [Lettre à Descartes — De la joie d'explorer le Possible](../../../research/lettre_descartes_joie_explorer_possible.md) : distinction probable / possible et rigueur exploratoire (« Explorer hardiment ; vérifier impitoyablement »).
+- [Marx, les écrans de télévision et la fragilité des adversaires du capitalisme](../../../research/marx_capitalisme_antifragile.md) : **tension interprétative réelle** avec la précision nouvelle « dompter, non abolir ». Les termes « adversaires du capitalisme », « alternative non marchande » et « opposer au capitalisme » doivent être lus comme critique de mécanismes de capture et exploration de circuits alternatifs, **pas comme preuve d'une volonté d'abolition de toute propriété privée**. Conserver les formulations d'époque et ajouter ultérieurement une note datée, plutôt que corriger rétroactivement l'essai.
+- [Kudocracy](../../../research/kudocracy.md) : distinguer suggestion, recommandation, délégation et prescription ; l'agent personnel soutient le jugement sans devenir souverain.
+- [Généalogie de l'ordre, de la transparence et de la traçabilité](../../../research/genealogie_ordre_transparence_traceabilite.md) : origine des mécanismes de contrôle et révision, à ne pas présenter comme inventions de novembre 2026.
+
+### Points effectivement ouverts, à traiter seulement lors d'une prochaine itération
+
+- Définition opérationnelle et seuils du RIC révocatoire ; protection contre les campagnes de révocation captatrices.
+- Distinction entre sécurité réelle, proportionnalité et « sécurité » comme prétexte à restreindre arbitrairement la liberté, dans la maxime historique de Capable.
+- Cohérence éditoriale et qualification juridique des activités de doctrine, mouvement, association et campagne électorale.
+- Révision **sans écrasement** des passages du Corpus pouvant suggérer l'abolition du capitalisme.
+- Modalités concrètes de transmission et de résilience intergénérationnelle, avec indicateurs simples plutôt que métriques prétendument universelles.
+
+**Arrêt volontaire de cette passe :** les liens canoniques et les ambiguïtés majeures sont identifiés. Aucune étude exhaustive supplémentaire n'est nécessaire avant de recueillir des retours d'usage. Le mieux est l'ennemi du bien ; les difficultés non bloquantes restent des continuations.
