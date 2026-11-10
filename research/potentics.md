@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-09-05T00:00:00.000Z
-last_modified_at: '2026-10-04'
+last_modified_at: '2026-11-10'
 title: What is Potentics?
 date: '2026-05-09'
 status: draft — auto-filled (frontmatter cleanup)
@@ -22,6 +22,7 @@ related_documents:
   - cogentia/research/learning_computer_genese_et_architecture.md
   - research/principe_rossignol.md
 changelog:
+  - '2026-11-10 — reconciled the historical presencology-capability-recombination branch as an explicitly unconfirmed co-presence mechanism and Olé Olé application candidate; no empirical validation claimed.'
   - '2026-10-04 — pointed the word latent, in §1.1, at the distinction proposed in le_reel_le_virtuel_et_l_actuel.md: already structured and present, not yet exercised. No Potentics claim was changed. The clarification itself is not yet a stabilized publication.'
   - '2026-09-27 — added the Necessary Means Principle as the reciprocal of early impossibility detection: when a valuable possible lacks a required capability, explore admissible means-to-the-means under Measured Risk rather than confusing absence with impossibility.'
   - '2026-09-27 — linked Potentics/ERP to early impossibility detection and the Accessible Inputs Gate: prune branches with decisively impossible preconditions early while distinguishing impossible from blocked, unknown or not-yet-available.'
@@ -881,6 +882,40 @@ Rational Exploration of The Possible
 ```
 
 The canonical source for this complementary programme is [`presencology.md`](presencology.md).
+
+
+#### Candidate mechanism: co-presence and recombination of capabilities
+
+A distinct, **unconfirmed causal hypothesis** is that the relevant co-presence
+of carriers of complementary capacities can make additional possibles visible
+or actionable. Those carriers can be persons, institutions, agents, datasets,
+compute, energy, legal powers or other compatible resources. Neither proximity
+nor an encounter alone proves increased potentiality.
+
+    separate capacities
+      -> relevant co-presence
+      -> encounter and possible coordination
+      -> recombined, jointly actionable capacity
+      -> newly visible or more accessible possibles
+
+Two outcomes must be distinguished: **epistemic visibility** (a possibility
+becomes perceptible) and **capacity for actualization** (resources or abilities
+become jointly available). Presencology can observe or propose relevant
+presence configurations; Potentics asks whether these genuinely change the
+accessible possible set or its potentialities. Trust, mandate, timing,
+compatibility, incentives and communication remain possible inhibitors.
+
+The local **Olé Olé** service is a candidate field of application, not evidence
+that the hypothesis is established: improved perception of nearby presences
+*might* facilitate encounters, exchange and capacity recombination. Outcomes
+could range from a changed individual plan to a lasting collective project.
+Neither the service nor its agents should prescribe encounters or goals to
+people by default. The purpose is to increase informed options, subject to
+consent and actual observed effects.
+
+*Provenance:* recovered and reconciled from the historical
+presencology-capability-recombination branch (2026-07), rather than
+promoting its superseded addendum wholesale.
 
 ---
 
