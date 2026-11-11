@@ -96,6 +96,14 @@ L'essai candidat *Qu'est-ce que la politique ?* est une œuvre autonome envisage
 
 La cohérence des promesses du Guide conversationnel doit être contrôlée : transmission technique des questions ≠ publication de contribution ; stockage local ≠ rétention serveur ; conversation ≠ acte engageant.
 
+### Métaprogramme et parcours personnel (orientation du 11 novembre 2026)
+
+Le [métaprogramme politique génératif](doctrine/metaprogramme-politique-generatif-2026-11-11.md) est une **méthode source**, non une sixième face du Livre Vivant et non un programme électoral déjà adopté. Son travail de génération d'alternatives, d'objections et de Stabilisateur se projette dans le Corps (récits), le Magazine (tests et résultats datés), l'Annexe savante (sources et contradictoire), le Site (accès et navigation) et l'Agent (facilitation), selon la doctrine du Livre Vivant.
+
+Le [KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313) relève **de Cogentia Personal** : sa finalité personnelle et sa confidentialité ne doivent pas être confondues avec le Guide public Capable, lequel utilise un service distant et possède un contrat de données distinct. Une contribution publique peut être préparée sur initiative explicite de l'usager, avec une dérivation expurgée examinable ; aucun historique privé ne rejoint automatiquement une publication, une campagne ou une matrice publique. Une interface algorithmique sans IA centrale ne transfère pas la responsabilité des jugements de l'agent personnel à Capable.
+
+**Chaîne éditoriale :** doctrine source → manuscrit durable en Double Lecture → éditions candidates → génération des artefacts HTML/PDF/EPUB → recette → gel/publication décidés séparément. Modifier les fichiers générés directement ne serait pas une mise à jour durable. La distinction source / projection / déploiement doit rester vérifiée.
+
 ## 8. Principe cardinal
 
 > Le plan peut être public sans que le résultat soit connu d'avance.

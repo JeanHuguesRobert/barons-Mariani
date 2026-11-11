@@ -41,6 +41,18 @@ Le Corpus suit alors le chemin : écart → signal → connaissance → autorit�
 
 > **L’effectivité n’interdit pas l’erreur ; elle exige que l’erreur observable puisse devenir matière à correction.**
 
+## Une correction qui ne dépende pas de la vertu des mandataires
+
+Imaginons une loi qui promet de réduire le temps nécessaire pour obtenir un document administratif. Deux ans plus tard, les démarches sont plus longues. Faut-il attendre que l'auteur de la réforme reconnaisse volontairement son échec ?
+
+Le **Stabilisateur procédural** cherche à réduire cette dépendance personnelle : avant la décision, rendre explicites finalité, alternatives et risques ; pendant son application, rendre les actes contestables et les effets observables ; après, permettre une évaluation contradictoire et un réexamen motivé par les autorités compétentes. Cette procédure ne garantit ni le succès ni une modification automatique de la loi. Elle vise une **capacité de correction effective** sans prétendre remplacer les choix du législateur ou du juge.
+
+L'enjeu est aussi démocratique : les citoyens doivent disposer de moyens proportionnés pour comprendre, interroger et contester les décisions, sans être tenus de présumer la vertu des dirigeants, des experts ou des contrôleurs eux-mêmes. Les procédures de contrôle sont, elles aussi, soumises à critique et révision.
+
+La méthode devient générative lorsqu'à chaque nouveau problème elle demande : *quels effets désirables ? quels faits ? quelles capacités à ouvrir ? quelles voies concurrentes ? qui décide ? qu'est-ce qui pourrait nous donner tort ? comment le saurons-nous et qui serait tenu de réexaminer ?*
+
+Pour la formalisation et ses limites : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et [Stabilisateur procédural](../../../research/debord_stabilisateur_procedural.md). Ces éléments sont des **propositions à éprouver**, et non des règles actuellement imposées à toute loi.
+
 ## Une exigence symétrique
 
 La [Note sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) fournit un test particulièrement utile : une règle nationale uniforme peut produire localement des effets inégaux ; inversement, une règle territoriale différenciée peut créer à son tour des obstacles ou des inégalités. **La provenance de la règle ne dispense aucune des deux de l'examen de ses effets.**

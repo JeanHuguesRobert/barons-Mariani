@@ -32,6 +32,14 @@ provenance:
 
 > **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete-2026-11-09.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
 
+## Métaprogramme politique génératif — proposition en revue (11 novembre 2026)
+
+Le volet **programmatique** de Capable ne se limite pas à une liste de mesures : il explore une **grammaire publique de production de propositions** à partir de revendications concrètes. Chaque dossier devrait relier besoin humain, faits, Terrain Fécond, capacités à développer, alternatives, mandats, coûts, Stabilisateur procédural, épreuves du Réel et **Double Lecture** (récit accessible / démonstration vérifiable).
+
+Cette méthode ne remplace ni le choix démocratique ni les engagements expressément validés d'un mouvement ou d'une candidature. Elle doit aussi savoir déclarer une proposition non fondée, incompatible avec les droits fondamentaux ou insuffisamment éprouvée. Les activités doctrinales ouvertes demeurent distinctes de la candidature personnelle.
+
+➡️ [Métaprogramme politique génératif — formalisation de travail du 11 novembre 2026](doctrine/metaprogramme-politique-generatif-2026-11-11.md).
+
 ## République et effectivité — proposition institutionnelle
 
 Capable se réclame des principes de la République sans considérer les institutions actuelles comme indépassables. La proposition explore des garanties effectives de liberté, d'égalité, de fraternité et de souveraineté populaire : participation directe, contrôle des mandats, recours, traçabilité et correction pacifique. Elle vise une architecture robuste face aux erreurs et aux abus de pouvoir, sans présupposer la sagesse des gouvernants. Elle protège également les droits individuels et les minorités contre l'arbitraire majoritaire et préserve la possibilité de réviser les institutions.
