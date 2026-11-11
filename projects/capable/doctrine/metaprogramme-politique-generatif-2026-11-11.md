@@ -112,6 +112,73 @@ La réponse produite est un **dossier d'alternatives**, pas une injonction autom
 
 Chaque terrain doit produire aussi ses objections les plus fortes, pas seulement une justification.
 
+## 6 bis. Appartenances et souveraineté : transformer le conflit en pouvoir d'agir
+
+**Origine :** échange doctrinal du 11 novembre 2026, dans le contexte du mouvement Capable et de la candidature présidentielle déclarée par l'auteur. **Statut :** proposition de synthèse politique à revoir, distincte d'un fait historique établi, d'un programme adopté et d'une consigne de communication électorale.
+
+### Partir du langage ordinaire sans valider le préjugé
+
+Une expression telle que « on n'est plus chez nous » peut recouvrir une peur de l'étranger, un préjugé raciste, une inquiétude culturelle, une perte de maîtrise du logement ou du travail, une expérience d'insécurité, un sentiment d'impuissance devant des décisions publiques, ou plusieurs de ces éléments. **Il n'existe pas de traduction automatique de l'une de ces expériences dans une autre.**
+
+La grammaire conserve l'expression initiale sans la présenter comme un diagnostic. Elle distingue, dans l'ordre :
+
+1. **L'appartenance revendiquée** — à quoi la personne tient-elle : territoire, langue, culture, institutions, liberté de décider, solidarités concrètes ?
+2. **Le préjudice allégué** — quelle situation précise est dénoncée et qui en subit les effets ?
+3. **L'attribution causale** — qu'est-ce qui est documenté, supposé ou imputé abusivement à un groupe humain ?
+4. **Le pouvoir effectif** — quelles décisions ont produit ou pourraient corriger la situation, à quelle échelle et sous quel mandat ?
+5. **Le terrain fécond** — quels droits, compétences, recours et moyens permettraient aux personnes concernées de reprendre une prise légitime sur leur existence, sans dénier ceux d'autrui ?
+
+Cette démarche **ne cherche pas à exploiter électoralement la peur ou l'hostilité**. Elle explore si un conflit exprimé en termes identitaires contient une question de capacité civique, puis rend cette question délibérable. Elle doit aussi savoir conclure qu'un désaccord authentique sur l'immigration, les frontières, la culture ou les obligations de solidarité subsiste et requiert une décision politique explicite.
+
+Le racisme, entendu comme essentialisation ou hiérarchisation de personnes selon leur origine réelle ou supposée, ne se confond pas avec l'attachement à un territoire, une mémoire ou une communauté politique. Le patriotisme civique peut être défendu comme engagement envers des institutions et des responsabilités communes, **sans convertir l'étranger en bouc émissaire**.
+
+### Souveraineté nationale et souveraineté populaire : distinguer plutôt qu'opposer fictivement
+
+L'auteur conteste une pratique de la souveraineté qui laisserait au peuple le seul choix périodique de ses représentants, sans contrôle suffisant entre deux élections. Il ne s'ensuit pas qu'en droit constitutionnel français la souveraineté nationale et la souveraineté populaire soient deux souverainetés ennemies : l'article 3 de la Constitution attribue la souveraineté nationale au peuple, qui l'exerce par ses représentants et par la voie du référendum.
+
+**L'objet du désaccord porte sur la réalité de l'exercice :** initiative populaire, délibération directe, mandats contrôlables, révocation politique éventuelle, transparence des actes, recours, compétences territoriales et corrigibilité des décisions. L'extension de ces mécanismes peut exiger des révisions constitutionnelles ; elle ne découle pas automatiquement de la devise ou du droit en vigueur.
+
+La critique attribuée par l'auteur à une *capture du débat public* par des polarités concurrentes est une **conviction politique déclarée**. Elle doit rester distincte de l'affirmation factuelle selon laquelle toutes les forces en présence seraient concertées, identiques ou animées des mêmes intentions. Une reproduction systémique d'un clivage n'implique pas une collusion.
+
+### Synthèse historique proposée : Athènes, Paoli, Napoléon, 1789
+
+Il s'agit d'une **construction doctrinale contemporaine**, non d'une continuité historique démontrée ni d'un appel à restaurer ces régimes :
+
+| Référence | Capacité à retenir | Limite historique à ne pas reproduire |
+| --- | --- | --- |
+| **Athènes antique** | Faire participer directement les citoyens à la délibération et à certaines décisions | Exclusion des femmes, des esclaves et des étrangers du corps politique |
+| **Pasquale Paoli et la Corse de 1755** | Constituer une communauté politique, organiser l'autonomie et la reddition des comptes | Limites de participation, conflits de pouvoir et circonstances propres au XVIIIe siècle |
+| **Bonaparte et les réformes napoléoniennes** | Organiser, codifier et exécuter avec une capacité administrative élevée | Concentration personnelle du pouvoir, centralisation et autoritarisme |
+| **Révolution française et devise républicaine** | Donner une finalité commune : liberté, égalité, fraternité et souveraineté | Contradictions historiques entre principes proclamés et droits effectivement exercés |
+
+**Synthèse institutionnelle à explorer :** *délibérer et décider* avec les citoyens ; *mandater, contrôler et corriger* avec des institutions responsables ; *exécuter efficacement* avec des administrations capables ; soumettre l'ensemble à l'effectivité de la devise et aux droits fondamentaux.
+
+L'autorité morale relève de la cohérence de la conduite et de sa libre reconnaissance ; **elle ne saurait remplacer les contre-pouvoirs**, ni conférer à celui qui la revendique un titre supérieur à décider. L'efficacité de l'exécutif n'est compatible avec cette synthèse que si son pouvoir demeure limité, imputable et corrigible.
+
+### De la question corse à un Pacte républicain national
+
+La séquence du processus de Beauvau constitue un point de départ politique pour envisager **une autonomie locale accrue à l'échelle de la République**, sans effacer les spécificités historiques, statutaires et sociales de la Corse ni généraliser mécaniquement un régime juridique unique.
+
+Le pacte envisagé relierait :
+
+- **Subsidiarité ascendante :** décisions au niveau capable d'agir, avec coopération et solidarité entre échelles ;
+- **Autonomie de Capacité :** compétences accompagnées des ressources nécessaires pour les exercer ;
+- **Souveraineté populaire continue :** initiative, décision et contrôle des mandataires au-delà du vote périodique ;
+- **Responsabilité d'effectivité :** actes traçables, effets publics évaluables, recours et réexamen des décisions ;
+- **Garanties communes :** liberté, égalité, fraternité, droits individuels, protection des minorités et arbitrage démocratique des conflits réels.
+
+**Invariant anti-capture : pas davantage de pouvoir territorial ou exécutif sans capacité correspondante de contrôle démocratique.** Transférer des compétences de Paris à des institutions locales ne suffit pas si les habitants ne gagnent aucune faculté effective de comprendre, contester, proposer, décider ou corriger.
+
+### Reality Test non directif de la grammaire
+
+Soumettre deux expressions antagonistes — par exemple « les étrangers prennent notre place » et « toute restriction migratoire est raciste » — à la **même** séquence de clarification. Résultat attendu : préserver les questions de droit, les expériences vécues, les responsabilités établissables et les désaccords persistants ; faire apparaître les choix institutionnels sans inventer une unanimité ni enfermer la personne dans un profil électoral.
+
+**Échec :** excuser un préjugé, effacer une discrimination, attribuer toutes les difficultés à un groupe, masquer un arbitrage, produire deux argumentaires incompatibles pour flatter deux publics, ou décider à la place des citoyens.
+
+Sources compagnons : [Grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md), [Démocratie capable](../../../research/democratie_capable.md), [Principe d'effectivité](../../../research/principe_effectivite.md), [Étude de la devise](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md), [Projet #1755](../../../research/autonomia/projet_1755.md). Coordination éditoriale : [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
+---
+
 ## 7. Test de cohérence contradictoire
 
 Soumettre au système deux revendications opposées, par exemple : « réduire les dépenses » et « améliorer les services publics ».
