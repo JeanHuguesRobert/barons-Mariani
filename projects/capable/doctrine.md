@@ -159,6 +159,18 @@ L'EIM ne prouve pas la doctrine Capable et *Moyens et finalités* n'est pas un p
 Référence instrumentale :
 https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md
 
+## Appartenances, souveraineté et synthèse institutionnelle — proposition du 11 novembre 2026
+
+➡️ [Capable — Métaprogramme politique génératif, § 6 bis](doctrine/metaprogramme-politique-generatif-2026-11-11.md#6-bis-appartenances-et-souveraineté--transformer-le-conflit-en-pouvoir-dagir)
+
+➡️ [Grammaire générative de l'Autonomie de Capacité — passerelle nationale](../../research/autonomia/grammaire_autonomie_de_capacite.md#12-prolongement-national-daté--11-novembre-2026)
+
+Le nouveau **terrain fécond** transforme une opposition identitaire en questions explicites d'appartenance, de besoins et de pouvoirs effectivement contrôlables, **sans nier les conflits réels, excuser le racisme ou fabriquer un consensus**. La conviction politique de l'auteur sur la capture du débat public reste identifiée comme telle.
+
+La synthèse Athènes (participation), Paoli (constitution et responsabilité), Napoléon (organisation et exécution) et Révolution française (finalités républicaines) est **une articulation contemporaine critique**, non une chaîne de transmission historique démontrée. Elle nourrit la proposition d'un Pacte républicain d'effectivité : autonomie locale, subsidiarité, souveraineté populaire exerçable, contrôle des mandataires, droits fondamentaux et correction.
+
+**Statut :** travail doctrinal et cas d'épreuve de la grammaire ; ni programme électoral adopté, ni transformation du droit, ni nouvelle édition publique du Livre. Coordination : [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
 ## Devise républicaine
 
 Capable traite **Liberté, Égalité, Fraternité** non seulement comme des principes déclarés mais comme des finalités dont l’effectivité peut être observée. L’amendement d’effectivité constitue la première projection constitutionnelle explicite de cette orientation.
