@@ -136,6 +136,16 @@ Un générateur n'a aucun pouvoir de décision propre. L'intelligence artificiel
 
 Une contribution à un outil ou à un corpus ouvert n'implique ni soutien politique ni participation à une campagne.
 
+## 9 bis. Autonomie cognitive : un exercice personnel facultatif, non une collecte politique
+
+Le métaprogramme public peut servir à réfléchir aux politiques collectives, mais la capacité démocratique commence aussi avant le vote : une personne peut apprendre à distinguer **son propre désir**, une représentation reçue, les moyens imaginés pour l'accomplir et les capacités effectivement ouvertes dans son milieu. Les choix ordinaires d'habiter, de travailler, de s'associer, de coopérer, de refuser ou de se déplacer constituent parfois autant de manières d'agir politiquement au sens civique (« voter avec ses pieds »), à condition de ne pas présumer que ces choix sont matériellement accessibles.
+
+Le projet [KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313), extension facultative de **Cogentia Personal**, explore cette dimension **sans fabriquer de profil électoral**, sans prescrire une opinion et sans obliger à passer à une activité collective. Il s'inspire, pour l'attitude non directive, de l'approche centrée sur la personne de Carl Rogers : accueillir les finalités de la personne ; examiner rigoureusement les faits, les coûts et les moyens ; ne pas confondre accompagnement conversationnel et thérapie.
+
+**Architecture projetée :** le navigateur local conserve les traces et compose algorithmiquement des prompts en langage naturel contenant la grammaire ; **l'agent conversationnel choisi par l'usager** réalise seul les jugements et propose les approfondissements ; l'usager corrige, refuse, suspend ou poursuit. Un format JSON éventuel n'est qu'une annexe de continuité, jamais un obstacle pour le lecteur. Le site public Capable n'a pas à recevoir ces réflexions privées. Le transfert éventuel d'une préoccupation vers l'atelier collectif est explicite, sélectif et révocable.
+
+**Hypothèse à éprouver :** un bénéfice capacitaire doit être constaté par des exercices concrets et la possibilité croissante de se passer d'assistance, non par la durée de session, l'adhésion à Capable ou un score de conformité politique. Les fournisseurs d'agents externes appliquent leurs propres politiques de données, à annoncer loyalement. Ces fonctions restent **en planification**, pas déployées ni validées.
+
 ## 10. Mise en œuvre incrémentale
 
 **Étape A — Corpus :** relier cette note au noyau doctrinal, au Livre Vivant et au Capable Test, sans réécrire les proclamations historiques.
