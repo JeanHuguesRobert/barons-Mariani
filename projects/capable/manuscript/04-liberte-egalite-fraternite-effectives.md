@@ -61,6 +61,22 @@ La fraternité effective vise le non-abandon capacitaire évitable : rendre une 
 
 > **Ne pas abandonner ne signifie pas faire à la place.**
 
+## Des principes que l'on puisse exercer — et corriger
+
+Une jeune personne peut avoir le droit de se loger sans trouver de logement accessible. Un village peut vouloir produire son énergie sans disposer de toutes les compétences ou ressources nécessaires. Une personne âgée peut souhaiter changer d'activité sans trouver de parcours praticable. La République ne saurait promettre que chaque désir sera satisfait ; elle peut en revanche se demander **ce qui empêche réellement d'exercer des libertés proclamées**, si cet empêchement est justifié et quels moyens légitimes permettraient de le lever.
+
+C'est le sens proposé à l'**Autonomie de Capacité**, née notamment du débat corse et généralisable comme question à toutes les échelles, sans imposer une uniformité de compétences ni défaire les garanties communes. Le **Possibilisme** rappelle que la liberté comprend aussi la possibilité de bifurquer, de renoncer ou de changer d'avis. Les **Terrains Féconds** invitent à reformuler les oppositions trop étroites : autonomie contre République, stabilité contre changement, sécurité contre liberté. Certains conflits demeurent irréductibles ; il appartient alors aux institutions légitimes de trancher avec des droits et recours garantis.
+
+### Une démocratie capable commence avant les urnes
+
+Une personne agit aussi dans sa manière d'habiter, de travailler, de coopérer, de contester ou de se retirer : elle peut parfois « voter avec ses pieds ». Encore faut-il que ces choix soient effectivement ouverts. Une **démocratie assistée par ordinateur** pourrait aider chacun à distinguer ses aspirations des moyens qu'il suppose nécessaires, à reconnaître les incertitudes ou influences et à envisager des alternatives, **sans jamais choisir à sa place**.
+
+Le projet de **KYS du désir d'agir**, extension envisagée de Cogentia Personal, propose un accompagnement non directif inspiré de Carl Rogers : écouter sans prescrire les fins, examiner les faits sans complaisance, accueillir la possibilité de ne pas s'engager. L'usager interrogerait **son propre agent conversationnel**, tandis que l'outil n'assurerait qu'une orchestration algorithmique et une continuité locale volontaire. Cette proposition est encore un chantier, non un service réalisé ni un résultat d'effectivité démontré. Les opinions politiques constituent des données sensibles ; l'outil ne doit pas créer de profil partisan ou transmettre un dossier personnel à un mouvement.
+
+Un système démocratique capable a besoin à la fois de **citoyens pouvant former et réviser leur jugement** et d'**institutions pouvant recevoir et corriger les décisions contestées**. Aucune de ces capacités ne remplace l'autre.
+
+Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+
 ## Une tension concrète : protéger sans surveiller
 
 La [Note de Campagne sur la traçabilité civique anti-mafieuse](../../../research/traceabilite_civique_antimafia.md) propose de documenter les actes de pression et d'emprise sans constituer pour autant un fichier généralisé de personnes suspectées. Elle donne un exemple de tension entre plusieurs exigences : protéger les habitants, rendre les recours accessibles et préserver leur liberté contre la surveillance indifférenciée.
