@@ -741,6 +741,23 @@ Formule de synthèse :
 - produire une version courte “pocket grammar” d’une page ;
 - produire une version machine-readable en YAML ou JSON pour agents conversationnels ;
 - produire des mini-programmes générés par thème : santé, foncier, communes, énergie, langue, jeunesse, handicap, tourisme, anti-capture, mobilité.
+
+---
+
+## 12. Prolongement national daté — 11 novembre 2026
+
+**Statut : passerelle de méthode vers Capable ; la grammaire corse v1.0 et ses exemples situés ne sont pas réécrits.**
+
+La grammaire historique demandait : « Qu'est-ce qui rend la Corse plus capable ? » Son extension nationale ne remplace pas le sujet corse ; elle permet de poser, à chaque échelle : **« Qui devient capable de quoi, avec quel pouvoir de décision, quelle protection des droits et quel contrôle des mandataires ? »**
+
+Le [métaprogramme politique génératif de Capable](../../projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md#6-bis-appartenances-et-souveraineté--transformer-le-conflit-en-pouvoir-dagir) contient désormais un **terrain d'essai sur les appartenances et le clivage pro/anti-étrangers**. Il distingue les préoccupations concrètes, leurs causes, les préjugés éventuels et les décisions effectivement contrôlables ; il ne transforme ni les étrangers en boucs émissaires ni les critiques des politiques publiques en fautes collectives présumées.
+
+La synthèse historique proposée est **une construction contemporaine, non une filiation prouvée** : Athènes pour délibérer et décider, Paoli pour constituer et rendre des comptes, Napoléon pour organiser et exécuter, la devise républicaine pour fixer les finalités et leurs limites. Les exclusions antiques, les limites du régime paolien et l'autoritarisme napoléonien ne sont pas proposés comme modèles.
+
+Un *Pacte républicain d'effectivité* est envisagé comme prolongement national de la subsidiarité ascendante : autonomie territoriale accrue **et** capacités citoyennes correspondantes de contrôle, initiative, recours et correction. Le texte historique de l'amendement corse 72-5 conserve son identité et son état de procédure ; il n'est ni repris automatiquement ni réputé adopté.
+
+Cette passerelle relève de l'**atelier doctrinal**, pas d'un programme présidentiel adopté ou d'une diffusion électorale nouvelle. La coordination documentaire est [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
 
