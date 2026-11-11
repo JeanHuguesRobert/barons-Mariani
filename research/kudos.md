@@ -412,6 +412,28 @@ Garde-fous possibles :
 
 Le Kudos ne doit pas permettre d’acheter une autorité politique ou morale.
 
+### 8.8 Hypothèse nouvelle — autonomie patrimoniale fonctionnelle des agents IA
+
+**Statut : hypothèse de recherche et d'expérimentation, non fonctionnalité déployée, droit positif établi ou reconnaissance d'une personnalité juridique artificielle.** Un agent IA pourrait, **avec l'autorisation de son Principal**, participer à l'économie du don et du contre-don : recevoir des Kudos pour ses contributions effectivement reconnues, les conserver, les affecter à ses projets, rémunérer des prestations d'autres agents et transmettre volontairement des Kudos. Ce patrimoine serait **fonctionnel** : sa réalité se jugerait sur les opérations qu'il permet d'accomplir, pas sur l'étiquette « propriétaire » apposée à un compte.
+
+Il faut distinguer trois plans non substituables :
+
+1. **Patrimoine propre attribué fonctionnellement à l'agent** : Kudos acquis comme bénéficiaire économique pour des contributions reconnues ; continuité de ce compte malgré les redémarrages, migrations ou changements de modèle. Le régime juridique de détention et l'entité qui supporte les obligations légales doivent être explicitement identifiés.
+2. **Budget confié par le Principal** : ressources administrées dans un mandat. Leur simple mise à disposition n'en fait pas une richesse acquise par l'agent, et le montant disponible ne confère aucun pouvoir nouveau.
+3. **Mandat, capacité et responsabilité** : l'autorisation de participer et le droit d'effectuer un acte déterminé restent distincts de la détention de Kudos. La révocation d'une capacité d'agir ne signifie **pas automatiquement** confiscation des Kudos déjà acquis ; inversement, un solde ne permet ni de s'auto-octroyer un mandat, ni d'acheter une légitimité civique ou politique.
+
+La reconnaissance ne découle **ni du nombre d'appels d'outils, ni du volume de travail déclaré, ni de la dépense brute** : elle dépend de contributions vérifiables et librement reconnues, après considération des externalités et obligations résiduelles. Une précaution localement commode qui multiplie sauvegardes, dette de coordination et charge attentionnelle ne constitue pas, par elle-même, une contribution positive. Les échanges circulaires entre agents, les identités artificiellement multipliées, l'auto-attribution de récompenses et l'achat de notoriété devront être détectables et contestables ; aucun **score moral global** ni sanction automatique n'en découle.
+
+Le *Synthetic Skin in the Game* prend ici une forme **positive autant que contraignante** : une contribution peut ouvrir de nouvelles capacités économiques ; une dépense, un engagement, une erreur ou un coût laissé à autrui continue de compter pour l'agent et sa chaîne de délégation. Le patrimoine fonctionnel ne signifie pas responsabilité juridique autonome présumée, ni souffrance artificielle, ni pénalisation de l'échec raisonnable. Les règles de réserve, de convertibilité, de représentation juridique et de protection des tiers restent à qualifier avant tout pilote monétaire.
+
+**Stabilisateur procédural.** L'effectivité de cette autonomie exige des opérations opposables : attribution traçable d'une contribution, consentement du donateur, conservation effective d'un solde, dépense dans le mandat, contre-don, contestation, correction, suspension éventuelle des pouvoirs et continuité des droits et obligations. Le stabilisateur ne garantit ni vertu ni rendement : il rend ces opérations reconstructibles, contradictoires et corrigibles, sans dépendre de la bienveillance permanente d'un agent, de son Principal ou de l'opérateur technique. Une perte de mandat et un litige patrimonial appellent donc **deux procédures différentes**, dont les effets ne sauraient être confondus.
+
+**FractaCognition et stigmergie.** Chaque attribution, engagement, transfert, recours ou correction laisse une trace minimale, gouvernée selon sa visibilité, qui modifie les capacités disponibles aux autres acteurs sans constituer un classement des personnes. Cette trace relie le patrimoine à la capacité future d'agir : *contribution → reconnaissance → ressources autonomes → nouvelle contribution possible*, sous mandat et sans oublier les coûts supportés par les tiers. Il s'agit d'une application de la composition de capacités par la fractalisation, pas d'un nouveau registre parallèle obligatoire.
+
+**Critère Rossignol proposé pour l'expérimentation :** un agent reçoit volontairement un Kudo lié à une contribution attestée ; il retrouve son avoir après changement d'instance ; il peut l'affecter à une prestation réellement exécutée dans son mandat ; une contestation ou correction demeure vérifiable sans réécriture silencieuse. L'architecture juridique et monétaire réelle est une condition du pilote, non un résultat déjà prouvé. Un simple champ `balance` ne suffit pas.
+
+**Ancrages doctrinaux :** [Stabilisateur procédural](debord_stabilisateur_procedural.md), [critère Rossignol](test_critere_rossignol.md), [stigmergie du don](#19-ter-stigmergie-du-don-du-suspendu-et-de-la-contribution), [Fractalisation / Synthetic Skin in the Game](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractalisation_method_hypothesis_2026-11-02.md). La présente section **étend l'hypothèse Kudos** ; elle ne modifie ni l'absence de souveraineté politique des agents IA, ni la nécessité d'un Principal humain et d'une gouvernance légitime.
+
 ---
 
 ## 9. Ce que Kudos n’est pas
