@@ -35,6 +35,14 @@ Le **premier numéro en préparation** documente notamment le projet de campagne
 
 > **Geler l’édition, jamais la projection suivante.**
 
+## Enrichissements doctrinaux du 11 novembre 2026 — sources du Livre, non encore projetés
+
+Les chapitres [« Une loi ne vaut que par ses effets »](03-effectivite.md) et [« Liberté, Égalité, Fraternité effectives »](04-liberte-egalite-fraternite-effectives.md) reçoivent une **lecture contemporaine en Double Lecture** : exemple de loi défaillante, Stabilisateur procédural avant/pendant/après, Terrains Féconds, Possibilisme, autonomie personnelle et territoriale, démocratie assistée par ordinateur et KYS du désir d'agir. Le propos reste une hypothèse doctrinale distincte de l'histoire de la devise, du droit positif et d'un programme électoral adopté.
+
+Sources : [métaprogramme génératif](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [étude historique et juridique de la devise](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md), [paquet Cogentia KYS #313](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+
+**État éditorial :** modifications du manuscrit uniquement ; ni insertion garantie dans les éditions historiques, ni régénération des projections, ni mise en production. Vérifier le générateur et le sommaire avant d'ajouter un chapitre : éviter de dupliquer les explications dans le Livre et ses annexes.
+
 ## Essai autonome en atelier — non intégré à une édition
 
 - [*Qu'est-ce que la politique ?* — manuscrit de travail v0.1](essai-quest-ce-que-la-politique.md)
