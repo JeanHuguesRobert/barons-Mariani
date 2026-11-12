@@ -4,7 +4,7 @@ description: "Working paper définissant la Marche du Soleil comme dispositif te
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-04"
-last_modified_at: "2026-10-04"
+last_modified_at: "2026-11-13"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -57,6 +57,14 @@ La [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) 
 Le suivi des contacts et des déclarations renvoie à l'[Observatoire des Présentations 2027](observatoire-presentations-2027.md) : `contact ≠ intérêt ≠ promesse ≠ présentation transmise ≠ présentation officiellement établie`. La présentation demeure un acte personnel et libre de l'élu habilité ; aucun objet ni mécanisme de traçage ne doit conditionner cette liberté. Appliquer consentement, minimisation et séparation entre traces publiques et données privées.
 
 **Reality Test minimal envisagé** : lors d'une étape effectivement réalisée, documenter une rencontre autorisée, l'éventuelle remise volontaire d'un exemplaire singulier identifié de *Capable*, la mission acceptée, une trace de retour ou un `UNKNOWN`, puis une prochaine action. Ne compter une présentation qu'à son stade probatoire propre ; ne pas confondre ce protocole projeté avec son exécution.
+
+## Objet textile circulant — piste complémentaire, non acte électoral
+
+En complément des exemplaires physiques du Livre Vivant, le concepteur envisage des **Bleus de Chine « Marche du Soleil »** pouvant être librement marqués, personnalisés et remis en circulation. Le textile est un support possible de **3Code et QR code**, initiaux ou ajoutés au fil de son histoire, avec des notes et instructions facultatives. L'objectif déclaré est de **faciliter leur multiplication et leur circulation volontaire**, sans créer une dépendance à un atelier, à un registre central ou à une technologie propriétaire.
+
+Les solutions matérielles restent libres : marqueur textile, étiquette cousue, broderie, transfert, flocage ou moyens disponibles en Fab Lab. Le [guide du Musée sur les marquages libres](../../../musee-mariani/methodes/bleu_chine_marquages_libres.md) recueille des recettes, outils et tests reproductibles ; le [protocole Bouteille à la mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) décrit les contributions et leur provenance. Le protocole [3Code](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/3code.md) reste en phase de conception : ne pas présenter un 3Code imprimé comme résoluble avant enregistrement réellement vérifié.
+
+**Frontières :** disponibilité, production, diffusion et financement ne sont pas présumés ; identifier l'émetteur, le fabricant et le vendeur. Le port d'un vêtement ne constitue pas un soutien électoral, une présentation d'élu, ni un consentement à un suivi personnel. L'accessibilité des moyens de marquage ne doit pas diminuer ces protections.
 
 ## Boucle minimale
 
