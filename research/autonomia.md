@@ -6,6 +6,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani — C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 version: '0.15'
 date: '2026-09-26'
+last_modified_at: '2026-11-12'
 license: CC BY-SA 4.0
 status: working-paper — working paper
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia.md
@@ -1117,6 +1118,12 @@ La [note du Musée Mariani des Possibles sur Mariana, Alalia, Talkinon, Santa Ma
 
 **Fait nouveau (sans altération de l'analyse historique précédente).** Le Sénat a rejeté en première lecture le projet constitutionnel pour une Corse autonome au sein de la République : **181 contre, 134 pour, 25 abstentions**. L'article 72-5 projeté n'a pas été adopté. Les amendements sénatoriaux de séance et les prises de position politiques sont inventoriés dans la [note de veille sourcée](autonomia/veille_senat_rejet_2026-10-26.md). La poursuite de la procédure et la possibilité d'un accord constitutionnel restent des questions ouvertes. **Lecture doctrinale séparée des faits :** l'échec d'un transfert de compétences entre représentants ne règle ni la question des capacités concrètes des habitants ni celle des garanties d'effectivité et des mécanismes de correction.
 
+
+## Prolongement national distinct — proposition Capable du 12 novembre 2026
+
+La [proposition publique Capable de révision de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) constitue une **projection institutionnelle ultérieure** qui ne modifie ni la généalogie corse exposée ici ni l'[amendement historique d'effectivité v0.7](autonomia/amendement_effectivite_article_72-5.md).
+
+Elle généralise aux collectivités territoriales de l'article 72 une exigence de subsidiarité, d'adaptation législative et réglementaire accessible et de responsabilité d'effectivité, sans créer de législateurs régionaux concurrents. Le Parlement conserve le pouvoir de faire la loi. Ce moyen peut viser des **résultats pratiques similaires** à certaines finalités de l'autonomie corse, mais ne satisfait pas nécessairement la demande distincte de pouvoir normatif propre. Les garanties de financement, de contrôle judiciaire, de délais utiles et des statuts particuliers restent à examiner ; la publication d'une proposition ne prouve pas son adoption.
 
 ## Note de provenance — orientations déclarées le 27 octobre 2026
 
