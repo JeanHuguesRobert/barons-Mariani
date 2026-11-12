@@ -1,8 +1,7 @@
 ---
 title: "Mariani Village"
 subtitle: "Habitat minimaliste autonome, réseau DC-native, déclinaisons Séniors et Van life"
-description: "Livre Vivant documentant l'architecture de flotte d'habitat minimaliste autonome Mariani Village, ses fondations énergétiques DC-native (48V SELV), sa péréquation saisonnière solidaire, et ses deux évolutions majeures : l'habitat adapté aux aînés (version Séniors) et l'autonomie nomade (version Van life).
-"
+description: "Livre Vivant documentant l'architecture de flotte d'habitat minimaliste autonome Mariani Village, ses fondations énergétiques DC-native (48V SELV), sa péréquation saisonnière solidaire, et ses deux évolutions majeures : l'habitat adapté aux aînés (version Séniors) et l'autonomie nomade (version Van life)."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
@@ -16,6 +15,16 @@ document_role: "project"
 document_kind: "project-index"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-04'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Mariani Village
