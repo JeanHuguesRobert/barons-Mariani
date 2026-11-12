@@ -3,6 +3,7 @@ title: "Capable"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
+last_modified_at: '2026-11-13'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -30,6 +31,9 @@ provenance:
 
 # Capable
 
+**Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
+
+
 > **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete-2026-11-09.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
 
 ## Métaprogramme politique génératif — proposition en revue (11 novembre 2026)
@@ -50,7 +54,7 @@ La meilleure protection espérée reste une hypothèse à vérifier par ses effe
 
 ## Positionnement institutionnel et adresse (29 octobre 2026)
 
-Le point d'entrée initial du référentiel Capable est **https://capable.acorsica.org** (cible éditoriale et technique à rendre effective). Cette implantation s'inscrit dans la continuité des contributions de C.O.R.S.I.C.A. à la réflexion constitutionnelle sur l'autonomie de la Corse et l'article 72-5, dans le cadre de la société civile. Les traces parlementaires doivent être liées et leur portée qualifiée exactement avant publication.
+Le point d'entrée public du référentiel Capable est **https://capable.acorsica.org** (page d'accueil accessible au contrôle HTTP du 13 novembre 2026 ; cela ne vaut pas preuve du gel ou de la publication d'un numéro). Cette implantation s'inscrit dans la continuité des contributions de C.O.R.S.I.C.A. à la réflexion constitutionnelle sur l'autonomie de la Corse et l'article 72-5, dans le cadre de la société civile. Les traces parlementaires doivent être liées et leur portée qualifiée exactement avant publication.
 
 Capable se définit désormais prioritairement comme **doctrine, méthodes et outils ouverts d'Autonomie de Capacité**, susceptibles d'être réutilisés par des personnes et collectifs sans affiliation partisane ni soutien à une candidature. Le bénévolat et les biens communs sont des modalités centrales de contribution. C.O.R.S.I.C.A. peut en être un contributeur et un éditeur ; la candidature présidentielle personnelle reste juridiquement, financièrement et éditorialement distincte. **LePP / U Pertitellu** relève d'un chantier patrimonial distinct, déplacé vers `lepp.baronsmariani.org` ; les anciennes adresses `capable.lepp.fr` sont non canoniques.
 
