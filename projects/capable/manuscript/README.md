@@ -1,14 +1,28 @@
 ---
 title: "Capable — Manuscrit du Livre"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/README.md
+status: draft
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "manuscript-index"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: corpus-synthesis
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-03'
+  derived_from:
+    - ../doctrine/revision_constitutionnelle_article_72.md
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Capable — manuscrit du Livre
@@ -34,6 +48,12 @@ Ce répertoire contient la face **Livre** de *Capable*. Le manuscrit est un prod
 Le **premier numéro en préparation** documente notamment le projet de campagne présidentielle 2027, les Notes de Campagne et l'actualité de l'autonomie corse. Il distingue les intentions, les actes établis et les suites ouvertes ; il puise dans ces chapitres sans les figer. Voir la [projection candidate du 28 octobre 2026](../editions/2026-10-28-projection-candidate-n1.md), qui n'est pas une édition gelée.
 
 > **Geler l’édition, jamais la projection suivante.**
+
+## Révision constitutionnelle — source publique du 12 novembre 2026
+
+La [proposition du Mouvement Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) constitue désormais la **référence normative publique** pour le droit commun à l'adaptation et la subsidiarité effective. Les chapitres [Subsidiarité](02-subsidiarite-rendue-effective.md), [Effectivité](03-effectivite.md), [Devise](04-liberte-egalite-fraternite-effectives.md) et [Présidentielle 2027](08-presidentielle-2027.md) en éclairent chacun un aspect, sans recopier l'article unique.
+
+Ces chapitres restent des **documents de travail du Livre**. Leur modification dans GitHub ne prouve ni la régénération d'une édition HTML/PDF/EPUB, ni son gel éditorial, ni sa mise en ligne sur le site Capable. La coordination demeure [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152), avec la Factory [#112](https://github.com/JeanHuguesRobert/barons-Mariani/issues/112). L'amendement historique corse à l'article 72-5 garde son identité documentaire.
 
 ## Enrichissements doctrinaux du 11 novembre 2026 — sources du Livre, non encore projetés
 
