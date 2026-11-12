@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Rise & Fall of the Mariani Fam
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-last_modified_at: "2026-10-04"
+last_modified_at: '2026-11-13'
 version: "0.2"
 status: "working-paper"
 language: "fr"
@@ -33,6 +33,9 @@ review:
 ---
 
 # Rise & Fall of the Mariani Family
+
+**Accéder au Livre Vivant :** [Rise & Fall — site public](https://riseandfall.baronsmariani.org/).
+
 
 **Sous-titre de travail : *Reconstitution régressive et prospective des bifurcations de capacité d'une famille corse (1776–2026)***
 
