@@ -24,7 +24,8 @@ review:
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: unknown
+  origin_branch: main
   origin_date: "2026-09-27"
   derived_from:
     - "research/principe_effectivite.md"
