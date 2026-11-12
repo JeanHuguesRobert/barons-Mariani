@@ -1,8 +1,7 @@
 ---
 title: "Institut Mariani"
 subtitle: "Histoire, recherche possibiliste et avenirs de C.O.R.S.I.C.A."
-description: "Livre Vivant dédié à l'histoire, aux réalisations et aux explorations institutionnelles de C.O.R.S.I.C.A. et de son unité de recherche Institut Mariani. Architecture janusienne articulant passé documenté et futurs explorés.
-"
+description: "Livre Vivant dédié à l'histoire, aux réalisations et aux explorations institutionnelles de C.O.R.S.I.C.A. et de son unité de recherche Institut Mariani. Architecture janusienne articulant passé documenté et futurs explorés."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
@@ -16,6 +15,16 @@ document_role: "project"
 document_kind: "project-index"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-04'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Institut Mariani
