@@ -4,6 +4,7 @@ author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
 last_modified_at: '2026-11-13'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/diaspora/README.md
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -11,13 +12,19 @@ document_role: "project"
 document_kind: "project-index"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 ai_assisted_by:
   - "Grok 4.7 (xAI), cold handler of GitHub issue 96"
 provenance:
-  origin_type: "issue-continuation"
+  origin_type: repository
+  origin_method: issue-continuation
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/96"
   origin_date: "2026-09-30"
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # DIASPORA
