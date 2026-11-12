@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "6707e0b619e00d3305d6d461b0af4d089250886d97a714099212f9f073b90688",
+      "source_sha256": "463def5da18aa74a54813d8002e9c83b15d498318af01a10730fdde0ee3f27cf",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
@@ -21,15 +21,15 @@
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
-          "sha256": "31210ad8ac020a6b580d1e1e7a096e47e172aac59d5ca9651cddb8447b6ce265"
+          "sha256": "e301d648f8ab4176390c095abcf89ced865397527a64f94b3d7d053228a61cee"
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
-          "sha256": "cce7a47dea1bac43f3a08ddaca1e9c636596daf1a721ccaa04357eedb5248bd3"
+          "sha256": "eb91e346424a29c79238b56fb35ae85f2658622b4c96fe912e4ced62c9d24ec3"
         },
         {
           "path": "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
-          "sha256": "b2290b90b7dd2a9de5f92aec93d8796d3a234ab23b430fe82b0c4007115b55b2"
+          "sha256": "a63f92a47cfc4308dc9023e097426b33f65e01b7b04e8a49ac5d86bfc178aa69"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
