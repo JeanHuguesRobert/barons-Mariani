@@ -1,26 +1,34 @@
 ---
 title: "Présidentielle 2027 — seconde campagne"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/08-presidentielle-2027.md
+status: draft
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-03"
   derived_from:
+    - "../doctrine/revision_constitutionnelle_article_72.md"
     - "../README.md"
     - "../architecture.md"
     - "../campaign/architecture-des-campagnes.md"
     - "../campaign/marche-du-soleil.md"
     - "../campaign/observatoire-presentations-2027.md"
     - "07-campagnes-comme-reality-tests.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Présidentielle 2027 — seconde campagne
@@ -62,6 +70,14 @@ Soutiens
 Ces états ne doivent pas être confondus.
 
 Un soutien peut considérer que la candidature doit pouvoir exister sans adhérer à l'ensemble de ses propositions. Un relais peut mettre en relation avec des élus sans être lui-même présentateur. Une présentation officielle reste un acte individuel de l'élu habilité.
+
+## Un engagement constitutionnel distinct du programme des mesures
+
+La [proposition publique Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) place une partie du débat **au niveau des règles de décision**, sans renoncer aux politiques concrètes. Le projet vise la subsidiarité effective et un droit commun à l'adaptation des normes pour les collectivités territoriales ; il conserve au Parlement le pouvoir législatif. Le métaprogramme est la grammaire de production et de révision de mesures concrètes : les deux niveaux se complètent.
+
+La voie référendaire envisagée ne contourne pas l'article 89 : sous sa procédure normale, **Assemblée nationale et Sénat doivent d'abord voter un texte identique**. Une élection présidentielle n'équivaut pas juridiquement à l'adoption de chaque disposition du projet. Une mobilisation civique libre et pacifique peut peser politiquement, sans modifier les conditions du droit.
+
+Ce projet national reste distinct de la contribution associative historique sur le projet corse d'article 72-5. Son objet est une République plus adaptable et des garanties vérifiables, non la promesse d'une autonomie ou d'une correction instantanée.
 
 ## Transparence sur les présentations
 
