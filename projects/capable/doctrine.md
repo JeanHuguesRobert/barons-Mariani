@@ -3,6 +3,7 @@ title: "Capable — Carte doctrinale"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
+last_modified_at: '2026-11-12'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -170,6 +171,18 @@ Le nouveau **terrain fécond** transforme une opposition identitaire en question
 La synthèse Athènes (participation), Paoli (constitution et responsabilité), Napoléon (organisation et exécution) et Révolution française (finalités républicaines) est **une articulation contemporaine critique**, non une chaîne de transmission historique démontrée. Elle nourrit la proposition d'un Pacte républicain d'effectivité : autonomie locale, subsidiarité, souveraineté populaire exerçable, contrôle des mandataires, droits fondamentaux et correction.
 
 **Statut :** travail doctrinal et cas d'épreuve de la grammaire ; ni programme électoral adopté, ni transformation du droit, ni nouvelle édition publique du Livre. Coordination : [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
+## Révision constitutionnelle de l'article 72 — convergence du 12 novembre 2026
+
+➡️ [Proposition publique du Mouvement Capable — subsidiarité et autonomie territoriale effectives](doctrine/revision_constitutionnelle_article_72.md)
+
+La proposition publiée le 12 novembre 2026 est une **projection institutionnelle du Mouvement Capable**, distincte de la source doctrinale *Autonomia* et de l'[amendement historique au projet d'article 72-5](../../research/autonomia/amendement_effectivite_article_72-5.md), dont elle ne modifie ni le texte ni la provenance.
+
+**Changement d'échelle et de moyen :** le droit commun à l'adaptation effective est proposé pour les collectivités territoriales de l'article 72, sans attribuer de pouvoir législatif concurrent aux régions. La subsidiarité porte sur la répartition **et l'exercice** des compétences. Le Parlement reste législateur ; l'accès aux adaptations repose sur une obligation constitutionnelle recherchée, avec examen, motivation, évaluation des effets et réexamen des obstacles. La nouvelle rédaction ne garantit ni l'acceptation de toute demande ni la possibilité pour un juge de faire voter une loi.
+
+**Trois niveaux :** la **Constitution** fixe les règles contraignantes ; le **métaprogramme génératif** explore les politiques publiques concrètes ; le **Stabilisateur procédural** rend les actes, leurs motifs et leurs effets observables et corrigibles. La politique « de second ordre » ne remplace pas les politiques « de premier ordre ». L'unité républicaine garantit des droits communs, sans exiger partout des solutions identiques.
+
+**Statut et limites :** proposition citoyenne publique et non disposition en vigueur ni texte déposé au Parlement ; elle concerne les collectivités de l'article 72 et ne régit pas à elle seule la Nouvelle-Calédonie (titre XIII). La révision par référendum reste subordonnée à la procédure de l'article 89, dont l'adoption identique du texte par les deux assemblées.
 
 ## Devise républicaine
 
