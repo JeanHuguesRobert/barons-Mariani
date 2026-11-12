@@ -2,6 +2,7 @@
 title: Barons Mariani
 author: unknown
 date: '2026-07-12'
+last_modified_at: '2026-11-13'
 document_role: source
 document_kind: documentation
 visibility: public
@@ -84,6 +85,36 @@ Journal de bord : [Les Carnets du Baron Mariani](https://jeanhugues.substack.com
 - [`research/corpus-status.md`](research/corpus-status.md) — état généré du corpus, backlinks et contrôles de navigation
 - [`research/second_method.md`](research/second_method.md) — noyau méthodologique commun du corpus
 - [`vigilia.md`](research/vigilia.md) — point d'entrée territorial sur l'anti-capture
+
+## Livres Vivants — accès public
+
+Les **Livres Vivants** associent un travail documentaire durable, des éditions et un suivi de leurs évolutions. Les liens ci-dessous conduisent aux **pages publiques accessibles** lors du contrôle HTTP du 13 novembre 2026. Leur disponibilité ne constitue pas, à elle seule, la preuve qu'une nouvelle édition a été gelée ou que toutes les fonctions sont opérationnelles.
+
+| Livre Vivant | Lire en ligne | Sources et suivi dans ce dépôt |
+|---|---|---|
+| 1755 — constitutionnalisme corse | [1755.acorsica.org](https://1755.acorsica.org/) | [Projet 1755](projects/1755/README.md) |
+| Capable — Autonomie de Capacité | [capable.acorsica.org](https://capable.acorsica.org/) | [Projet Capable](projects/capable/README.md) |
+| Commons — biens communs | [commons.acorsica.org](https://commons.acorsica.org/) | [Projet Commons](projects/commons/README.md) |
+| Diaspora — Corses du monde | [diaspora.acorsica.org](https://diaspora.acorsica.org/) | [Projet Diaspora](projects/diaspora/README.md) |
+| Institut Mariani | [institut.acorsica.org](https://institut.acorsica.org/) | [Projet Institut](projects/institut/README.md) |
+| Napoléon | [napoleon.acorsica.org](https://napoleon.acorsica.org/) | [Projet Napoléon](projects/napoleon/README.md) |
+| PrivAI — souveraineté et IA | [privai.acorsica.org](https://privai.acorsica.org/) | [Projet PrivAI](projects/privai/README.md) |
+| Rise & Fall of the Mariani Family | [riseandfall.baronsmariani.org](https://riseandfall.baronsmariani.org/) | [Projet Rise & Fall](projects/rise-and-fall/README.md) |
+| Mariani School of Autonomy | [school.acorsica.org](https://school.acorsica.org/) | [Projet School](projects/school/README.md) |
+| Suicide Corse | [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org/) | [Projet Suicide Corse](projects/suicide-corse/README.md) |
+| Mariani Village | [village.acorsica.org](https://village.acorsica.org/) | [Projet Village](projects/village/README.md) |
+
+**Propositions ou enquêtes sans site public accessible au contrôle du 13 novembre 2026 :** [Autonomia](research/autonomia.md), [Rossignol](research/rossignol.fr.md), Rialzu, ainsi que [Paese Capace](https://github.com/JeanHuguesRobert/paese-capace). Leurs domaines envisagés ne sont pas annoncés ici comme des services en ligne.
+
+## Services et interfaces web
+
+| Service | Accès | Nature et réserve |
+|---|---|---|
+| FractaVolta | [fractavolta.com](https://fractavolta.com/) | Présentation publique de l'écosystème énergie, calcul et cognition ; [dépôt](https://github.com/JeanHuguesRobert/FractaVolta) |
+| Guide public Cogentia | [Ouvrir le Guide](https://cogentia.fractavolta.com/guide) | Interface publique de navigation et de recherche ; [dépôt](https://github.com/JeanHuguesRobert/cogentia) |
+| Agent John | [jhn.baronsmariani.org](https://jhn.baronsmariani.org/) | Page d'accueil de l'agent personnel ; les fonctions peuvent nécessiter une authentification |
+
+Une réponse HTTP 200 atteste l'accès à une page, **pas** l'exécution correcte de toutes les fonctions. Les incidents et déploiements relèvent des paquets techniques existants. L'adresse `oleole.acorsica.org`, bien qu'accessible lors du contrôle, présentait une page intitulée « John » : elle n'est pas encore référencée ici comme application Olé Olé tant que cette identité n'est pas vérifiée.
 
 ---
 
