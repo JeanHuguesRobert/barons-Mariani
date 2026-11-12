@@ -16,7 +16,8 @@ update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: unknown
+  origin_branch: main
   origin_date: "2026-10-03"
   derived_from:
     - "../doctrine/revision_constitutionnelle_article_72.md"
