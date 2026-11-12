@@ -1,24 +1,32 @@
 ---
 title: "Liberté, Égalité, Fraternité effectives"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md
+status: draft
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-03"
   derived_from:
+    - "../doctrine/revision_constitutionnelle_article_72.md"
     - "../../../research/noyau_doctrinal_rendre_capable.md"
     - "../../../research/egalite_effective.md"
     - "../../../research/fraternite_effective.md"
     - "../../../research/tensions_liberte_egalite_fraternite_effectives.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Liberté, Égalité, Fraternité effectives
@@ -76,6 +84,12 @@ Le projet de **KYS du désir d'agir**, extension envisagée de Cogentia Personal
 Un système démocratique capable a besoin à la fois de **citoyens pouvant former et réviser leur jugement** et d'**institutions pouvant recevoir et corriger les décisions contestées**. Aucune de ces capacités ne remplace l'autre.
 
 Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+
+## De la devise affichée aux garanties opérantes
+
+La devise républicaine figure sur les bâtiments publics. La question institutionnelle n'est pas de savoir si ses termes sont appréciés, mais **quelles obligations contrôlables en découlent pour les autorités publiques**. La [proposition Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) en offre un cas limité et concret : rendre le principe de subsidiarité plus contraignant et instituer un droit commun à des adaptations territoriales nécessaires à l'exercice effectif des compétences.
+
+L'unité des droits n'interdit pas des moyens différents selon les territoires. Inversement, toute adaptation doit préserver les droits fondamentaux, l'égalité et la solidarité. La devise fixe les finalités ; le droit encadre les moyens ; l'observation des résultats oblige à réexaminer les obstacles. Ce mécanisme demeure une proposition et ne garantit pas que chaque demande soit acceptée.
 
 ## Une tension concrète : protéger sans surveiller
 
