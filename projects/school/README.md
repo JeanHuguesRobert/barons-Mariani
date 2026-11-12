@@ -6,6 +6,7 @@ description: "Livre Vivant consacré à la Mariani School of Autonomy (École Ma
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
+last_modified_at: '2026-11-13'
 version: "0.1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
@@ -18,6 +19,9 @@ lifecycle_state: "working"
 ---
 
 # Mariani School of Autonomy
+
+**Accéder au Livre Vivant :** [Mariani School of Autonomy — site public](https://school.acorsica.org/).
+
 
 > *L'Autonomie de Capacité : méthode, formation de coachs et transmission*
 
