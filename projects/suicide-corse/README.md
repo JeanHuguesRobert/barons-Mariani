@@ -4,7 +4,7 @@ description: "Point d'entrée canonique du projet Suicide Corse : Corpus vivant,
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-09-18"
-last_modified_at: '2026-10-20'
+last_modified_at: '2026-11-13'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -31,6 +31,9 @@ review:
 
 
 # Suicide Corse
+
+**Accéder au Livre Vivant :** [Suicide Corse — site public](https://suicidecorse.baronsmariani.org/).
+
 
 **Titre de travail : _Suicide Corse, ou comment réaliser l'impossible_.**
 
