@@ -100,15 +100,23 @@ Le paradoxe est apparent : ce qui fut un habit peu coûteux et fonctionnel peut 
 
 ## Le bleu qui passe et le bleu qui reste : la piste d'Ange le Tragulinu
 
-À l'histoire du vêtement s'ajoute celle de **sa couleur**. Des pièces anciennes sont recherchées pour leur bleu qui s'éclaircit et se patine ; certaines fabrications plus récentes garderaient mieux leur teinte. Le porteur du projet rapporte l'observation d'**Ange, dit « le Tragulinu »**, vendeur ambulant connaisseur du Bleu de Chine : selon lui, des changements de procédé imposés en Chine, pour des motifs environnementaux, auraient contribué à faire disparaître cette patine sur certains modèles.
+À l'histoire du vêtement s'ajoute celle de **sa couleur**. Des pièces anciennes sont recherchées pour leur bleu qui s'éclaircit et se patine ; certaines fabrications plus récentes garderaient mieux leur teinte. Le porteur du projet rapporte l'observation d'**Ange, dit « le Tragulinu »**, vendeur ambulant connaisseur du Bleu de Chine : selon son souvenir indirect, des **exigences européennes récentes (vers 2023–2025)** auraient amené certains producteurs à changer leurs procédés de teinture, contribuant à la disparition de cette patine sur des modèles. **Cette attribution réglementaire n'est pas démontrée**.
 
-**Ce témoignage est une piste précise, non une preuve réglementaire ou chimique.** Il faut retrouver les fournisseurs, dates et matières colorantes. Les normes chinoises encadrant la solidité des couleurs et les rejets de teinturerie existent effectivement, mais ne démontrent pas à elles seules un basculement universel des Bleus de Chine.
+**Ce témoignage est une piste précise, non une preuve réglementaire ou chimique.** Il faut retrouver les fournisseurs, dates et matières colorantes. La décision européenne 2022/2508 sur les rejets des teintureries concerne des installations relevant du droit européen ; l'Écolabel textile comprend des critères de tenue des couleurs depuis 2014 mais il est volontaire. Ni l'un ni l'autre ne prouve une obligation européenne générale de remplacer la teinture des Bleus de Chine fabriqués en Chine.
 
 Un paradoxe instructif : des colorants bleus industriels réputés très résistants au lavage, notamment l'**Indanthrene**, étaient déjà commercialisés en Chine dans les premières décennies du XXe siècle, comme l'atteste le Musée chinois de la soie. Il serait donc trompeur d'assimiler systématiquement **ancien = délavable** et **moderne = inaltérable**.
 
 L'écart matériel des pièces anciennes et récentes demeure intéressant pour le Musée : photographie des teintes et usures, recherche des étiquettes et factures, datation des lots, distinction de la valeur d'usage, de la valeur patrimoniale et d'une éventuelle valeur marchande. Une pièce rare ne devient pas automatiquement un objet de collection de prix élevé.
 
 Pour l'enquête détaillée, les sources chimiques et réglementaires et un guide d'entretien non directif avec Ange, consulter [Bleu de Chine — Teintures, indigo et pistes nîmoises](bleu_chine_teintures_nimes.md).
+
+## Le négoce de l'indigo : une piste corse encore ouverte
+
+Une seconde indication rapportée, distincte des conditions de fabrication des vêtements, porte sur **le commerce, éventuellement la contrebande, de l'indigo comme matière colorante**. Il serait erroné de la reformuler en hypothèse de contrebande des Bleus de Chine.
+
+La circulation marchande de ce colorant est bien établie. Les [États de Languedoc en 1661](https://etats-du-languedoc.univ-montp3.fr/index.php?menu=trans-session&page=deliberation&deliberationcode=16610409%2803%29) rappelaient son interdiction au profit du pastel. La cargaison de la [*Jeanne-Élisabeth*, naufragée en 1755](https://www.atlaspalm.fr/s60_jeanne-elisabeth.htm?filtre_chronologie=P%C3%A9riode+moderne&filtre_interpretation=%C3%89pave+de+navire&presentation=liste), comprenait notamment de l'indigo. **Aucune source identifiée à ce stade ne rattache à ces épisodes un marchand ou contrebandier corse précis.** La contrebande des *indiennes* (toiles imprimées) est un phénomène distinct de celle de l'indigo-colorant.
+
+L'enquête exige des documents commerciaux ou judiciaires nominaux, datés et contextualisés, sans attribuer rétrospectivement des infractions à des familles ou populations. Pour les hypothèses et sources, consulter [le dossier sur les teintures et les routes de l'indigo](bleu_chine_teintures_nimes.md).
 
 ## Nîmes : le commerce des bleus plutôt qu'une filiation supposée
 
