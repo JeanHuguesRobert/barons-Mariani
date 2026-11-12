@@ -4,7 +4,7 @@ description: Point d'entrée du Livre Vivant 1755 sur la Constitution corse de 1
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-09'
+last_modified_at: '2026-11-13'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -44,6 +44,9 @@ changelog:
 
 
 # 1755 — La Constitution de Pascal Paoli et le constitutionnalisme moderne
+
+**Accéder au Livre Vivant :** [1755 — site public](https://1755.acorsica.org/).
+
 
 **1755** est un **Livre Vivant** consacré à la révolution constitutionnelle corse de 1755 et à sa réintégration argumentée dans l'histoire mondiale de la démocratie représentative moderne.
 
