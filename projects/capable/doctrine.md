@@ -22,7 +22,8 @@ review:
 provenance:
   origin_type: "corpus-consolidation"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
-  origin_ref: "main"
+  origin_ref: unknown
+  origin_branch: main
   origin_date: "2026-09-25"
   derived_from: []
 ---
