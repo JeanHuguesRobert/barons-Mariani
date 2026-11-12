@@ -22,7 +22,8 @@ review:
   status: "unreviewed"
   reviewed_by: []
 provenance:
-  origin_type: "corpus-synthesis"
+  origin_type: repository
+  origin_method: corpus-synthesis
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: unknown
   origin_branch: main
