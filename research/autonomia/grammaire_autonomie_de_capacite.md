@@ -3,6 +3,7 @@ title: Grammaire générative de l’Autonomie de Capacité
 subtitle: Méthode pour produire des réponses, programmes, discours et produits déclinés orientés vers Une Corse capable
 author: Jean Hugues Noël Robert
 date: '2026-05-27'
+last_modified_at: '2026-11-12'
 status: working-paper — methodological / political grammar - source method (autonomie de capacité)
 version: '1.0'
 x-type: generative political grammar
@@ -757,6 +758,16 @@ La synthèse historique proposée est **une construction contemporaine, non une 
 Un *Pacte républicain d'effectivité* est envisagé comme prolongement national de la subsidiarité ascendante : autonomie territoriale accrue **et** capacités citoyennes correspondantes de contrôle, initiative, recours et correction. Le texte historique de l'amendement corse 72-5 conserve son identité et son état de procédure ; il n'est ni repris automatiquement ni réputé adopté.
 
 Cette passerelle relève de l'**atelier doctrinal**, pas d'un programme présidentiel adopté ou d'une diffusion électorale nouvelle. La coordination documentaire est [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+
+## 13. Cas national de production institutionnelle — 12 novembre 2026
+
+La [proposition publique Capable de révision de l'article 72](../../projects/capable/doctrine/revision_constitutionnelle_article_72.md) constitue une **nouvelle sortie de la grammaire**, distincte du cas corse historique et de l'amendement d'effectivité à l'article 72-5.
+
+Le passage du statut territorial particulier au droit commun recherche une **subsidiarité et une adaptation effectives** pour les collectivités territoriales relevant de l'article 72. Il remplace comme moyen principal le pouvoir législatif régional concurrent par une obligation constitutionnelle pesant sur les règles nationales : le Parlement demeure législateur. Cette architecture n'offre pas une autonomie institutionnelle identique ; ses bénéfices concrets restent à vérifier.
+
+L'universalité visée porte sur les garanties d'accès, non sur des règles locales identiques. Les particularités comprennent les contraintes et les capacités positives des territoires. La boucle du Stabilisateur comprend demande, contradiction, motivation, observation publique des adaptations et refus, réexamen des obstacles et possibilité de correction. Elle ne crée pas, par elle-même, de pouvoir judiciaire d'imposer une nouvelle loi. Ressources, justiciabilité et statut de la Nouvelle-Calédonie restent des limites explicites.
+
+**Articulation :** la devise fixe les finalités ; la Constitution garantit les règles ; la grammaire produit des alternatives concrètes ; les autorités légitimes décident ; le Stabilisateur permet de vérifier et corriger. Le métaprogramme ne transforme pas toute aspiration latente en volonté populaire présumée.
 
 <!-- BEGIN_AUTO: backlinks -->
 ### Backlinks
