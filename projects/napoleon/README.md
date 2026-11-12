@@ -16,7 +16,8 @@ lifecycle_state: working
 update_policy: UP-DEFAULT-REVIEWED
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/napoleon/README.md
 provenance:
-  origin_type: conversation-and-corpus-consolidation
+  origin_type: conversation
+  origin_method: conversation-and-corpus-consolidation
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_ref: "conversation checkpoint 2026-10-02"
   origin_date: '2026-10-02'
