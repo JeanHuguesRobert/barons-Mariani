@@ -14,6 +14,7 @@ document_role: source
 document_kind: project-readme
 visibility: public
 lifecycle_state: working
+update_policy: UP-DEFAULT-REVIEWED
 target_audience:
   - historiens
   - constitutionnalistes
@@ -23,8 +24,11 @@ document_function: point d'entrée canonique du projet 1755
 ai_assisted_by:
   - Antigravity — project bootstrap, 2026-10-04
 provenance:
-  origin_type: synthesis
-  origin_repository: barons-Mariani
+  origin_type: repository
+  origin_method: synthesis
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-04'
   derived_from:
     - research/autonomia/projet_1755.md
     - research/autonomia/1755.md
