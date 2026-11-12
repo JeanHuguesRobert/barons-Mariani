@@ -6,6 +6,7 @@ author: Jean Hugues Noël Robert
 affiliation: Institut Mariani — C.O.R.S.I.C.A.
 version: '0.5'
 date: '2026-09-06'
+last_modified_at: '2026-11-12'
 status: working-paper — version consolidée avec entête documentaire
 license: CC BY-SA 4.0
 language: fr
@@ -179,6 +180,14 @@ La [Triangulation du Réel](triangulation_du_reel.md) est ici un **commentaire e
 > **Une démocratie doit rendre lisible le pouvoir effectif de chacun.**
 
 > **Le peuple n’est pas seulement une source périodique de légitimité pour les gouvernants ; il doit pouvoir rester un acteur causal identifiable de la décision collective.**
+
+## Confiance démocratique et adaptation constitutionnelle — application du 12 novembre 2026
+
+La confiance dans des représentants n'a pas à être **aveugle** : elle devient praticable lorsque les citoyens et collectivités peuvent identifier les actes et leurs auteurs, vérifier les motifs, constater les résultats, contester et provoquer un réexamen. Cette proposition doctrinale ne signifie pas que tout désaccord ou tout échec constitue une faute juridique. La révocation politique éventuelle, distincte de la sanction pénale, exige des garanties démocratiques propres et ne découle pas automatiquement de l'article 72.
+
+La [proposition nationale du Mouvement Capable de révision de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) fournit un cas de capacité démocratique **sans transfert automatique du pouvoir législatif** : les collectivités pourraient invoquer un droit commun à l'adaptation effective, tandis que le Parlement resterait législateur et que les autorités devraient répondre, justifier et réexaminer les obstacles substantiels. Ce cas ne prouve pas la réduction de la capture politique ; il rend possibles des tests d'effectivité sur la réalité des réponses, des délais et des effets.
+
+**Distinguer les degrés de garantie :** publicité des actes ≠ imputabilité complète ; motivation ≠ adaptation obtenue ; évaluation ≠ correction accomplie. Une meilleure autonomie locale peut aussi déplacer les risques de capture : les droits et capacités de contrôle des habitants demeurent indispensables.
 
 ## Projection constitutionnelle : rendre une faculté démocratiquement capable
 
