@@ -130,6 +130,14 @@ Le lien avec Nîmes compte également pour le porteur du projet, qui y est né. 
 
 Voir [le dossier comparatif technique et historiographique](bleu_chine_teintures_nimes.md), [la présentation du Musée du Vieux Nîmes](https://artsandculture.google.com/story/PwVxsEJqKbiSig?hl=fr) et [la notice de l'ouvrage](https://www.editions-alcide.com/produit/denim-et-si-la-legende/).
 
+## Enquête complémentaire de novembre 2026 : entre mémoire du travail et marchandise identitaire
+
+Le sociologue et essayiste **Pierre-François Marchiani**, dans [« Au-delà du refus de la modernité et de la mise en récit de la ruralité »](https://www.rivistarobba.com/Au-dela-du-refus-de-la-modernite-et-de-la-mise-en-recit-de-la-ruralite_a561.html), *Robba*, **29 septembre 2026**, analyse les représentations de la ruralité corse exploitées par les marques contemporaines de Bleus de Chine. Cette **interprétation critique** complète l'étude de Jeanne Ferrari-Giovanangeli sur le *Riacquistu* : elle aide à distinguer mémoire pastorale vécue, transmission, mode et commercialisation d'un signe d'authenticité, sans décréter les motifs de chaque porteur.
+
+Le [distributeur deToujours](https://www.detoujours.com/fr/brand/38-l-anti-cher) rapporte une histoire de la marque Anticher depuis les importations franco-chinoises des années 1930, avec une clientèle en Corse et en Algérie et une reprise vers 2010. **Ces dates sont des affirmations de distributeur** : les archives commerciales restent à retrouver. Les documents [Atrium Corsica datés de 2018](https://www.atrium.corsica/149/stock-americain-le-bleu-de-chine-le-vrai) et [la déclaration du Bleu de Chine Store en 2020](https://www.faitesvousconnaitre.com/sites/boutiques-en-ligne/vetements1/bleu-de-chine.html) décrivent respectivement un dégorgement possible et une teinture déjà fixée ; ne pas en déduire un basculement industriel uniforme en 2023–2025.
+
+Le dossier critique [Bleu de Chine — colorants, indigo et Nîmes](bleu_chine_teintures_nimes.md) expose les preuves et les **inconnues bloquantes**, et constate un **plateau provisoire de la recherche documentaire générale en ligne** au 13 novembre 2026.
+
 ## Une nouvelle vie : le Bleu de Chine qui circule
 
 Dans le projet du **Musée Mariani des Possibles**, le Bleu de Chine n'aurait pas seulement pour rôle de rappeler le passé. Il pourrait devenir **un objet singulier qui circule et reçoit des contributions**, comme un manuscrit auquel chaque détenteur volontaire peut ajouter un chapitre.
