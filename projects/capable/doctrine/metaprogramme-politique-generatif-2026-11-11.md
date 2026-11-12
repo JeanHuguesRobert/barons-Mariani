@@ -1,12 +1,15 @@
 ---
 title: "Capable — Métaprogramme politique génératif"
 author: "Institut Mariani / C.O.R.S.I.C.A. — proposition de formalisation à revue par Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-11"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md
 status: "working-paper"
 language: fr
 license: CC BY-SA 4.0
-document_role: doctrinal-clarification
-document_kind: working-paper
+document_role: derived
+document_kind: doctrinal-working-paper
 visibility: public
 lifecycle_state: working
 update_policy: UP-DEFAULT-REVIEWED
@@ -178,6 +181,18 @@ Soumettre deux expressions antagonistes — par exemple « les étrangers prenne
 Sources compagnons : [Grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md), [Démocratie capable](../../../research/democratie_capable.md), [Principe d'effectivité](../../../research/principe_effectivite.md), [Étude de la devise](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md), [Projet #1755](../../../research/autonomia/projet_1755.md). Coordination éditoriale : [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
 
 ---
+
+## 6 ter. Constitution, métaprogramme et politiques concrètes — 12 novembre 2026
+
+La [proposition publique Capable de révision de l'article 72](revision_constitutionnelle_article_72.md) est une nouvelle sortie institutionnelle de la grammaire, **non** une décision automatique produite par l'IA ni une vérité juridiquement démontrée.
+
+La **politique du premier ordre** consiste à choisir, financer, appliquer et corriger des mesures concrètes. La **politique du second ordre** fixe qui peut décider, dans quelles limites, avec quelles garanties d'accès, de contrôle et de révision. Le métaprogramme articule les deux : Constitution contraignante, génération d'alternatives publiques, décision démocratique, puis Stabilisateur procédural. Il ne supprime ni les conflits réels ni la liberté de refuser une proposition.
+
+Le choix juridique du 12 novembre distingue **finalité** et **moyen**. L'autonomie territoriale effective ne requiert pas nécessairement l'existence d'un législateur régional : le Parlement peut conserver son pouvoir tout en étant contraint par une garantie constitutionnelle de subsidiarité et de droit à l'adaptation. Ce n'est qu'une **hypothèse d'équivalence de certains résultats pratiques**, et non une équivalence institutionnelle avec les compétences normatives propres revendiquées par certains élus corses.
+
+L'égalité concerne l'accès aux **mêmes garanties** d'adaptation, non la production de normes uniformes. Les particularités locales peuvent être des ressources ou des handicaps. Le transfert de pouvoir à une collectivité ne garantit pas à lui seul le pouvoir réel des habitants sur leurs mandataires : contrôle et anti-capture restent nécessaires.
+
+**Test d'effectivité :** demande territoriale documentée → instruction et contradiction → réponse motivée → transmission au Parlement si la loi est concernée → observation des refus, adaptations et effets → réexamen des obstacles substantiels. Échec si la procédure peut être neutralisée par la loi organique, par des délais excessifs, par une réponse de pure forme ou par l'absence de conséquences observables. Le juge ne saurait être réputé capable d'ordonner au Parlement de voter une loi. La demande supposément latente d'autonomie doit être **éprouvée**, non attribuée d'avance à la population.
 
 ## 7. Test de cohérence contradictoire
 
