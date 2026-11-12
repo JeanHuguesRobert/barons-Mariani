@@ -4,6 +4,7 @@ subtitle: Mandat, imputabilité et contrôle des actes engageants dans les régi
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-05-27'
+last_modified_at: '2026-11-12'
 status: working-paper — operational research version validated after reviewer critique
 version: 0.15.2-research
 license: CC BY-SA 4.0
@@ -572,6 +573,12 @@ continuation:
 - [Jean Hugues Noël Robert, baron Mariani](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/README.md)
 - [Operational Formulas — Representation Primitives](https://github.com/JeanHuguesRobert/JeanHuguesRobert/blob/main/research/operational_formulas.md)
 <!-- END_AUTO: backlinks -->
+## Cas complémentaire daté — proposition Capable sur l'article 72 (12 novembre 2026)
+
+La [proposition publique du Mouvement Capable de révision de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) est un **second acte documentaire attribué**, distinct de la contribution C.O.R.S.I.C.A. au projet corse d'article 72-5. Son parcours doit être représenté sans raccourci : **rédaction → publication GitHub → éventuelle reprise par un parlementaire → dépôt officiel → délibérations des deux assemblées → éventuel référendum → promulgation**. Chacune de ces étapes requiert une preuve propre ; une publication GitHub ne constitue pas un dépôt législatif ni une adoption.
+
+Au fond, la proposition vise à rendre les refus d'adaptation territoriale documentables : initiateur, règle contestée, autorité compétente, réponse et motivation, délais, effets, réexamen. Les traces n'établissent pas automatiquement la corruption, la faute ou le bien-fondé de la demande. L'enjeu est d'offrir une voie vérifiable entre la demande, le contrôle public et la correction éventuelle.
+
 ## Cas d’application — publication de l’amendement d’effectivité
 
 La publication, le 26 septembre 2026, de l’[amendement d’effectivité — article 72-5](autonomia/amendement_effectivite_article_72-5.md) constitue un cas d’**Act** au sens de cette méthode : un état doctrinal a été transformé en objet public, daté, versionné et techniquement réutilisable.
