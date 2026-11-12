@@ -14,7 +14,8 @@ visibility: "public"
 lifecycle_state: "working"
 update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: corpus-synthesis
+  origin_type: repository
+  origin_method: corpus-synthesis
   origin_repository: JeanHuguesRobert/barons-Mariani
   origin_ref: unknown
   origin_date: '2026-10-03'
