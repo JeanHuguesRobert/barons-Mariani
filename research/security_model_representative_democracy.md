@@ -5,6 +5,7 @@ author: Jean Hugues Noël Robert
 status: document source — recherche — doctrinal — validé pour publication
 version: '0.4'
 date: '2026-08-22'
+last_modified_at: '2026-11-12'
 license: CC BY-SA 4.0
 language: fr
 source_status: source souveraine du corpus politique et de recherche
@@ -472,6 +473,14 @@ La v0.4 ajoute, sans retirer ces éléments :
 La publication initiale a été explicitement autorisée par Jean Hugues le 21 août 2026. La v0.4 constitue une extension conservatrice de la thèse publiée : aucune thèse antérieure n'est supprimée ni inversée.
 
 Le prochain test n'est pas une nouvelle couche doctrinale : **c'est l'exécution d'un premier Follow the Power sur un cas réel.**
+
+## 16. Confiance non aveugle et droit commun à l'adaptation — cas du 12 novembre 2026
+
+La métaphore du **« match acheté »** désigne ici un problème d'architecture : une compétition démocratique doit rester contrôlable même lorsque certains acteurs disposent de moyens économiques ou institutionnels très supérieurs. **Inégalité de ressources, influence licite, capture et corruption avérée ne sont pas synonymes** ; chacune exige une preuve et des garanties adaptées. La confiance démocratique ne devrait donc pas être postulée comme qualité morale des élus, mais rendue possible par la transparence, l'imputabilité, la contestabilité et la correction.
+
+La [proposition publique Capable de révision constitutionnelle de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) représente une **application circonscrite** de cette idée : le Parlement reste législateur, mais la subsidiarité et le droit à l'adaptation territoriale cherchent à devenir des garanties contraignantes plutôt que des facultés discrétionnaires. La reconnaissance d'un droit ne signifie pas que son exercice, son financement ou sa justiciabilité soient déjà acquis. La concentration nationale peut être réduite sans que disparaissent les risques de capture locale ; la souveraineté populaire doit donc être éprouvée à plusieurs échelles.
+
+L'enjeu juridique demeure distinct du projet plus général de révocabilité des mandats : la proposition publiée ne crée ni RIC révocatoire ni pouvoir de révoquer un parlementaire. La séparation entre **source doctrinale**, **proposition constitutionnelle publiée** et **droit positif** est essentielle à toute analyse de sécurité démocratique.
 
 ## Conclusion
 
