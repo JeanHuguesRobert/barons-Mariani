@@ -109,6 +109,27 @@ Une évolution commerciale, des procédés plus économes en eau, des obligation
 
 **Reality Test :** demander à Ange l'année, la marque ou le fournisseur concerné, puis un document commercial ou réglementaire mentionnant la référence normative, les lots et le changement technique. Ne jamais conclure d'une proximité de dates à une causalité.
 
+### Nouvelles pièces : coexistence des teintures déclarées avant 2023 (recherche du 13 novembre 2026)
+
+Les sources commerciales **datées** n'établissent pas une rupture universelle en 2023–2025 :
+
+| Date | Pièce documentaire | Information vérifiable et limite |
+| --- | --- | --- |
+| **01/06/2018** | [Atrium Corsica — Anticher chez Stock Américain](https://www.atrium.corsica/149/stock-americain-le-bleu-de-chine-le-vrai) | Risque de dégorgement et premier lavage séparé **explicitement annoncés** pour les vestes alors vendues en Corse ; pas d'analyse chimique |
+| **25/02/2020** | [Bleu de Chine Store — déclaration d'un vendeur marseillais](https://www.faitesvousconnaitre.com/sites/boutiques-en-ligne/vetements1/bleu-de-chine.html) | Présentation commerciale d'Anticher à couleur déjà fixée **ne déteignant pas** ; affirmation à vérifier par échantillons et lots |
+| **Consultation 2026** | [deToujours — fiche Anticher](https://www.detoujours.com/fr/vestes/171-le-veritable-bleu-de-chine.html) | Conseils toujours affichés de fixation préalable et lavage séparé ; date initiale et applicabilité à la production actuelle inconnues |
+| **Consultation 2026** | [La Malle d'Annalia — gamme Anticher](https://lamalledannalia.fr/collections/bleu-de-chine-lanticher) | Le vendeur constate une évolution de fabrication et justifie une gamme propre, **sans préciser ni colorant ni date du changement** |
+
+Ces sources prouvent l'**existence de discours de marchands différents avant 2023**, non la composition de deux lots comparables. Les conseils au sel, vinaigre ou eau de mer rapportés ne sont **pas** validés comme recette scientifique et ne doivent pas être appliqués à une pièce potentiellement patrimoniale sans étude.
+
+**Piste juridique supplémentaire :** le [règlement (UE) 2016/26](https://eur-lex.europa.eu/legal-content/FR/ALL/?uri=CELEX:32016R0026), applicable depuis le **03/02/2021**, restreint les **éthoxylates de nonylphénol (NPE)** à partir de 0,01 % dans les textiles lavables mis sur le marché de l'UE, y compris importés. [INERIS, 19/02/2021](https://substitution.ineris.fr/fr/actualites/articles-textiles-mise-en-application-dune-restriction-visant-ethoxylates-nonylphenol). Ce sont des **auxiliaires de procédés textiles**, non un synonyme de la molécule indigo ; le lien avec la patine des Anticher ou un changement précis en 2023–2025 **n'est pas prouvé**. Ne pas confondre norme commerciale, substance restreinte, norme d'essai et réglementation des effluents.
+
+### Les archives à ouvrir plutôt que répéter les récits
+
+- **Commerce et contrebande corses** : [Pré-actes du Deuxième Congrès historique de la Corse, Lama 2024](https://balagne-corsica.com/content/uploads/apidae/2024/03/PRE-Actes_CongreshistoriquedelaCorsejuin2024-aveccompression_1.pdf). Paolo Calcagno étudie la contrebande Corse–Sardaigne au XVIIIe siècle et Jean-Christophe Liccia les marins et marchands entre Corse et continent (XVIe–XVIIIe siècles). Ces auteurs documentent **des réseaux**, **pas l'indigo comme marchandise corse spécifiquement identifiée**. Les travaux d'Érick Miceli sur les gabelles génoises concernent un trafic différent.
+- **Importation de la veste** : [deToujours relate](https://www.detoujours.com/fr/brand/38-l-anti-cher) une origine commerciale franco-chinoise d'Anticher vers **1930**, une clientèle en **Corse et Algérie** et une reprise vers **2010** ; **récit de distributeur à corroborer**, sans immatriculation ou facture originale vérifiée. [Julien Lambea](https://oncitiesandclothes.substack.com/p/on-buttons-and-china?action=share) signale une annonce d'achat à Alger en **1932** et une publicité à Oran en **1937** : **renvois secondaires**, sources Gallica originales **non retrouvées dans cette passe**.
+- **Nîmes et teintures** : la [notice Paris Musées](https://parismuseescollections.paris.fr/de/node/1050977) localise au **Palais Galliera, cote B 1639**, le catalogue de **84 pages** de l'exposition *Rouge, bleu, blanc. Teintures à Nîmes* (Musée du Vieux Nîmes, **6 juillet–30 septembre 1989**), avec Dominique Cardon, Martine Nougarède, Jean Bousquet. La [thèse de Marguerite Martin](https://ecm.univ-paris1.fr/nuxeo/nxfile/default/26d4d104-c0ce-4add-93c0-332499c0e987/blobholder%3A0/MARTINVol1.pdf) le cite et rappelle la difficulté à **distinguer visuellement indigo et pastel** dans les textiles anciens.
+
 ### 4. Ancien, « délavable », « vintage » et « collector » ne sont pas synonymes
 
 Il faut séparer **date de fabrication** et **comportement de la teinture**. Un produit récent pourrait imiter un aspect ancien ; une pièce ancienne peut avoir conservé une couleur stable. Le soleil, la sueur, le frottement, l'entretien et l'exposition font évoluer différemment deux pièces pourtant sorties du même lot.
@@ -208,6 +229,16 @@ Conserver si possible les documents matériels, photographies autorisées, attes
 - [Arnaud Bartolomei, *La Jeanne Élisabeth sur les routes méditerranéennes de l'économie mondialisée*](https://doi.org/10.4000/pds.6201), *Patrimoines du Sud* 13, 2021 ; indigo comme cargaison, **pas preuve de contrebande corse**.
 - [Katsumi Fukasawa, *Commerce et contrebande des indiennes en Provence*](https://www.persee.fr/doc/anami_0003-4398_1987_num_99_178_2139), *Annales du Midi* 1987 ; distinction critique entre tissus et colorant.
 - [Décision (UE) 2022/2508, MTD pour l'industrie textile](https://eur-lex.europa.eu/eli/dec_impl/2022/2508/oj/fra), et [Écolabel européen textiles, 2014/350/UE](https://eur-lex.europa.eu/eli/dec/2014/350/oj/fra) ; distinguer obligations sectorielles européennes et certifications volontaires.
+
+## Plateau provisoire de l'enquête Web — 13 novembre 2026
+
+**Seuil atteint pour les recherches généralistes :** les dernières passes ajoutent surtout des récits marchands dérivés, peu de preuves primaires nouvelles. **Ce n'est pas la fin de l'enquête.**
+
+**Acquis :** risques de dégorgement commercialement attestés en Corse en 2018 ; existence d'une offre prétendument non dégorgeante en 2020 ; restriction NPE applicable aux textiles importés en 2021 ; réseaux corses de contrebande historiquement documentés sans indigo identifié ; piste bibliographique précise à Nîmes (catalogue de 1989).
+
+**Manquent pour conclure :** (1) deux Bleus de Chine physiquement examinables avec date, étiquettes et origine ; (2) référence écrite de l'éventuelle exigence européenne et document fournisseur ; (3) pièce établissant un négociant ou contrebandier **corse** et une cargaison d'**indigo-colorant** ; (4) première facture ou photographie datée d'un Bleu de Chine en Corse ; (5) consultation directe des annonces 1932/1937, du catalogue de Nîmes et des archives originales de la marque Anticher.
+
+**Changement de méthode requis :** enquête orale consentie auprès d'Ange, photos et justificatifs de lots, archives nommées, documents de marque et consultation de fonds physiques. **Aucun tiers n'a été contacté**. L'absence de résultat Web ne démontre pas l'inexistence de ces sources.
 
 ## Rattachements
 
