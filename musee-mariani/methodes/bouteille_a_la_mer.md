@@ -2,13 +2,14 @@
 title: "Bouteille à la mer — protocole de collecte contributive distribuée"
 subtitle: "Musée Mariani des Possibles"
 author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
-last_modified_at: "2026-10-07"
-version: "0.1"
+last_modified_at: "2026-11-13"
+version: "0.2"
 status: "working-paper"
 license: "CC BY-SA 4.0"
 language: "fr"
-document_role: "method"
+document_role: "source"
 document_kind: "museum-research-protocol"
 visibility: "public"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/musee-mariani/methodes/bouteille_a_la_mer.md"
@@ -73,6 +74,40 @@ Chaque trace observée doit, autant que possible, être reliée à l'objet, dat�
 ## 7. Biographie d'objet
 
 La biographie est un journal append-only des événements attribués à l'objet : fabrication, identification, émission, vente ou remise, passage, contribution, transmission, réobservation, corroboration, exposition, nouvelle circulation.
+
+### 7.1. Le vêtement-manuscrit : annotations et nouvelles circulations (hypothèse du 13 novembre 2026)
+
+Le cas du **Bleu de Chine singulier** prolonge matériellement la métaphore de la bouteille à la mer. Une bouteille réelle contient un manuscrit figé au départ ; lorsqu'un vêtement circule de main en main, il pourrait recevoir **de nouveaux fragments de manuscrit**, puis repartir enrichi, sans devoir être « jeté par-dessus bord ».
+
+Chaque exemplaire peut porter un **3Code initial**, lisible directement sur le textile, et éventuellement un QR code pointant vers son dossier. Au cours de sa vie, des participants volontaires pourraient y **ajouter d'autres 3Code** : notes, instructions facultatives, souvenirs, réponses, missions proposées ou événements de sa propre biographie. Certains ajouts pourraient recevoir aussi un QR code ; d'autres resteraient de simples références brodées, tissées ou imprimées. L'usage en tant que support d'écriture **ne suppose pas que tous les porteurs acceptent d'être suivis ou de contribuer**.
+
+Ne pas confondre les niveaux :
+
+```text
+identité technique de l'exemplaire (stable et unique dans son registre)
+    ↳ 3Code d'entrée : référence humaine, potentiellement ambiguë
+    ↳ QR d'entrée : accès direct au dossier de cet exemplaire
+    ↳ 3Code ajouté : référence à une contribution ou une nouvelle instruction
+        ↳ QR ajouté : représentation optique facultative de cette contribution
+```
+
+Les 3Code supplémentaires ne constituent ni un nouveau numéro de série ni une preuve de propriété ou de provenance : la liaison au dossier doit être explicite, contextualisée, corrigeable et qualifiée. La **valeur probatoire** dépend des sources, de la date, d'éventuelles attestations et du journal d'événements, jamais de la seule présence d'un code sur le tissu.
+
+Le journal numérique garde trace des additions, suppressions matérielles, réparations et divergences, sans prétendre que le textile est infalsifiable. Chaque porteur conserve la faculté de ne rien ajouter ; une annotation nouvelle ne doit pas créer une obligation pour les suivants. La durabilité du marquage après lavage, l'espace textile disponible, la lisibilité, la discrétion, la possibilité de restauration et la protection de la vie privée constituent des **hypothèses à tester**, non des résultats acquis.
+
+Références : [3Code](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/3code.md) ; [MVP 3Code — Cogentia #323](https://github.com/JeanHuguesRobert/cogentia/issues/323) ; [spécificité de l'Atelier Bleus de Chine](template_fiche_possible.md#spécificité-de-latelier-bleus-de-chine).
+
+### 7.2. Provenance, authenticité et valeur d'un objet enrichi
+
+La circulation d'un Bleu de Chine singulier peut ajouter **de la valeur à l'objet**, par la mémoire de ses porteurs successifs, par une exposition, par des transformations artisanales ou par la **customisation artistique** d'une personne dont l'intervention serait documentée. La valeur est éventuelle et peut être historique, affective ou marchande ; ne présumer ni célébrité réelle, ni rareté certifiée, ni prix.
+
+La circulation et l'écriture successive rendent l'**authenticité** plus difficile et plus intéressante : un code brodé, une signature, un QR ou une étiquette NFC peuvent être copiés ou déplacés. Distinguer l'**identité de référence**, l'**identité du textile**, l'**authenticité d'une intervention**, la **chaîne de provenance**, le **droit de propriété** et la **valeur d'échange**. Une copie explicitement annoncée et autorisée n'est pas la même chose qu'une contrefaçon ; une restauration documentée peut préserver la continuité d'un objet sans prouver qu'il est matériellement inchangé.
+
+**Échelle probatoire indicative, non certificat :** auto-déclaration non corroborée ; documentation contemporaine datée, photographies et traces matérielles ; déclarations signées de témoins/auteurs et provenance documentée ; expertise ou rapprochement indépendant lorsque pertinent. Signatures et journaux techniques assurent certaines propriétés d'intégrité ou d'attribution, sans transformer le contenu d'une attestation en vérité. Les techniques physiques d'anti-altération peuvent augmenter le coût de la fraude, jamais supprimer le risque.
+
+Une biographie d'objet ouverte aux contributions conserve les corrections et les contestations **sans effacer silencieusement** les traces antérieures. Ne pas publier identités, localisations ni actes privés des porteurs successifs par simple déduction de circulation. Les droits patrimoniaux, droits d'auteur des customisations, autorisations de publication et transmissions doivent être instruits séparément.
+
+Un **Test du Réel** contradictoire comparera un original, une copie au marquage identique, une étiquette déplacée, une intervention artistique attestée et une intervention revendiquée sans preuve. Le résultat attendu est une **qualification traçable du degré de confiance**, non la promesse illusoire d'un textile impossible à copier.
 
 ## 8. Hypothèses testables
 
