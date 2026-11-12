@@ -215,6 +215,12 @@ Dans le dossier public, distinguer **déclaration**, **document présenté**, **
 
 **Test du Réel :** simuler un exemplaire original, une copie portant le même 3Code/QR, une étiquette transplantée et une customisation attestée ; mesurer ce qu'un tiers peut réellement distinguer à partir du textile et du dossier, sans recourir au témoignage du seul opérateur.
 
+### Marquage libre et reproduction facilitée — orientation du 13 novembre 2026
+
+**Le choix matériel d'attacher un 3Code ou un QR code au Bleu de Chine reste libre.** Les recettes (inscription textile, étiquette cousue, broderie, transfert ou flocage, et autres procédés convenables) doivent aider sans devenir des prescriptions ou des barrières à la participation. Un Fab Lab peut faciliter les séries de petites références robustes avec brodeuse numérique, découpeuse vinyle, presse à chaud ou couture ; une intervention entièrement manuelle reste légitime. Les nouveaux marquages ajoutés au fil du temps suivent la même règle.
+
+**Priorité opérationnelle formulée par le concepteur : faciliter la multiplication et la circulation volontaire de Bleus de Chine « Marche du Soleil »**, pas maximiser d'abord le degré de sophistication ou la valeur probatoire de chaque pièce. Distinguer les qualités juridiques des acteurs et ne pas assimiler le port d'un vêtement à un soutien politique. Publier des gabarits, recettes, outils et tests accessibles, comparant temps, coût, lisibilité, lavage, réparabilité, et liberté d'adaptation. Voir [Guide de marquage libre](bleu_chine_marquages_libres.md) et le [document de travail Marche du Soleil](../../projects/capable/campaign/marche-du-soleil.md).
+
 ### Conséquence pour le générateur
 
 Le moteur commun génère en fonction du niveau de maturité : **fiche d'idée et dépendances** pour un atelier naissant ; **protocole de test** lorsqu'un terrain existe ; **fiche visiteur et conditions d'accueil** seulement lorsque la pratique est suffisamment instruite ; **bilan et propagation** après observation. Il n'invente ni partenaire confirmé, ni résultat de campagne, ni objet fabriqué, ni activité ouverte au public.
