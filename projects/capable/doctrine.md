@@ -20,7 +20,8 @@ review:
   status: "unreviewed"
   reviewed_by: []
 provenance:
-  origin_type: "corpus-consolidation"
+  origin_type: repository
+  origin_method: corpus-consolidation
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: unknown
   origin_branch: main
