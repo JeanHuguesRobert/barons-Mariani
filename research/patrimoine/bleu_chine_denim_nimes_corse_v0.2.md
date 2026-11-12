@@ -420,6 +420,10 @@ Prochaine étape v0.3 : produire un **dossier de sources annotées**.
 2. `bleu_chine_denim_chronologie_v0.1.md`
 3. `bleu_chine_denim_article_academique_v0.1.md`
 
+## Mise à jour documentaire — 13 novembre 2026
+
+En complément du présent protocole, consulter l'[enquête sur les teintures, la distinction anciens/modernes, la réglementation chinoise et le commerce des colorants à Nîmes](bleu_chine_teintures_nimes.md). La piste rapportée par Ange le Tragulinu est explicitement conservée comme témoignage indirect à corroborer, non comme preuve d'un changement de procédé universel. Le livre de Danièle Jean et Francine Cabane, *Denim, et si la légende…* (Alcide, octobre 2026), est identifié comme source nouvelle à lire, sans en inventer les résultats.
+
 ## 15. Formule de synthèse provisoire
 
 > Le Bleu de Chine corse et le denim nîmois ne prouvent pas une origine commune ; ils révèlent plutôt comment des territoires méditerranéens transforment des bleus de travail en bleus de mémoire.
