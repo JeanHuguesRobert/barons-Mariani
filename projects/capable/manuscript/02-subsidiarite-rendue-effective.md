@@ -1,23 +1,31 @@
 ---
 title: "Subsidiarité rendue effective"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/02-subsidiarite-rendue-effective.md
+status: draft
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-03"
   derived_from:
+    - "../doctrine/revision_constitutionnelle_article_72.md"
     - "../../../research/noyau_doctrinal_rendre_capable.md"
     - "../../../research/autonomia.md"
     - "../../../research/democratie_capable.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Subsidiarité rendue effective
@@ -69,6 +77,14 @@ L'objectif n'est pas de déplacer tous les pouvoirs vers le bas : **il est d'org
 La [Note de Campagne sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) invite à distinguer trois moments : **obtenir légalement la compétence de définir une règle**, pouvoir effectivement l'exercer, puis examiner **les effets de la règle** une fois appliquée. Ces étapes sont différentes : attribuer un pouvoir à une collectivité n'établit pas encore que ses habitants disposent des moyens d'en contrôler l'usage.
 
 La [Note du 27 octobre 2026](../../../research/corse_selon_macron_autopsie_manoeuvre_avortee.md), écrite après le rejet sénatorial du projet constitutionnel, défend cette même distinction entre pouvoir des institutions et capacité politique des citoyens. Son appréciation de la négociation est une **analyse signée et circonstancielle**, non une démonstration générale tirée du seul scrutin.
+
+## Un droit commun à l'adaptation, sans législateurs concurrents
+
+La [proposition constitutionnelle portée par Capable](../doctrine/revision_constitutionnelle_article_72.md) traduit cette subsidiarité en une obligation envisagée pour toute la République. La Corse n'y reçoit pas un statut d'exception : toutes les collectivités territoriales concernées par l'article 72 pourraient demander que des règles nationales soient adaptées à leurs compétences, à leurs ressources et à leurs contraintes locales.
+
+Le Parlement continuerait à faire la loi. Mais les autorités publiques ne pourraient plus traiter les adaptations territoriales comme de simples suggestions sans examen : leurs demandes, les refus, les résultats et les obstacles substantiels devraient faire l'objet d'une réponse motivée et d'une évaluation. Il ne s'agirait pas de donner automatiquement raison à chaque collectivité, ni de remplacer l'égalité des droits par la compétition des territoires.
+
+L'adaptation servirait autant à surmonter une difficulté locale qu'à mettre en valeur une capacité propre à un territoire. Elle pourrait ensuite éclairer des solutions ailleurs. Cette **agilité républicaine** demeure une proposition à éprouver : le texte n'assure pas, à lui seul, tous les moyens financiers nécessaires ni le vote d'une adaptation législative.
 
 ## De Rousseau au débat corse : une application, pas une preuve historique
 
