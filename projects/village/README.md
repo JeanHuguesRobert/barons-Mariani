@@ -6,6 +6,7 @@ description: "Livre Vivant documentant l'architecture de flotte d'habitat minima
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
+last_modified_at: '2026-11-13'
 version: "0.1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
@@ -18,6 +19,9 @@ lifecycle_state: "working"
 ---
 
 # Mariani Village
+
+**Accéder au Livre Vivant :** [Mariani Village — site public](https://village.acorsica.org/).
+
 
 > *Habitat minimaliste autonome, réseau DC-native, déclinaisons Séniors et Van life*
 
