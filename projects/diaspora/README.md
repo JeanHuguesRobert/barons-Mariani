@@ -3,6 +3,7 @@ title: "DIASPORA"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-30"
+last_modified_at: '2026-11-13'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -20,6 +21,9 @@ provenance:
 ---
 
 # DIASPORA
+
+**Accéder au Livre Vivant :** [Diaspora — site public](https://diaspora.acorsica.org/).
+
 
 DIASPORA est une initiative de C.O.R.S.I.C.A. dont la phrase directrice est : **mobiliser les Corses du monde entier.**
 
