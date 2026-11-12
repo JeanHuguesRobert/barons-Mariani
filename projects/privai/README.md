@@ -4,7 +4,7 @@ description: 'Point d''entrée du Livre Vivant PrivAI : AI Safety, souveraineté
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-07'
+last_modified_at: '2026-11-13'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -48,6 +48,9 @@ changelog:
 ---
 
 # PrivAI
+
+**Accéder au Livre Vivant :** [PrivAI — site public](https://privai.acorsica.org/).
+
 
 **PrivAI** est un Livre Vivant consacré à l'AI Safety comprise comme une question de **souveraineté humaine effective**.
 
@@ -114,7 +117,7 @@ et distingue :
 - **Livre** : synthèse durable ;
 - **Magazine** : actualité, expériences, cas et controverses ;
 - **Annexes** : sources, droit, modèles, métriques et revues ;
-- **Site Web** : `privai.acorsica.org` ;
+- **Site Web** : [privai.acorsica.org](https://privai.acorsica.org/) ;
 - **Guide / agent spécialisé** : interrogation du Corpus bornée par provenance ;
 - **Collecte** : objections, corrections, cas, propositions et contributions.
 
