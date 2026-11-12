@@ -98,6 +98,30 @@ La presse locale documente par exemple en **mars 2021** le parcours de **Sgiò**
 
 Le paradoxe est apparent : ce qui fut un habit peu coûteux et fonctionnel peut devenir une pièce valorisée, parfois même de collection. Mais il ne cesse pas pour autant d'être un vêtement que l'on porte, use, répare et transmet.
 
+## Le bleu qui passe et le bleu qui reste : la piste d'Ange le Tragulinu
+
+À l'histoire du vêtement s'ajoute celle de **sa couleur**. Des pièces anciennes sont recherchées pour leur bleu qui s'éclaircit et se patine ; certaines fabrications plus récentes garderaient mieux leur teinte. Le porteur du projet rapporte l'observation d'**Ange, dit « le Tragulinu »**, vendeur ambulant connaisseur du Bleu de Chine : selon lui, des changements de procédé imposés en Chine, pour des motifs environnementaux, auraient contribué à faire disparaître cette patine sur certains modèles.
+
+**Ce témoignage est une piste précise, non une preuve réglementaire ou chimique.** Il faut retrouver les fournisseurs, dates et matières colorantes. Les normes chinoises encadrant la solidité des couleurs et les rejets de teinturerie existent effectivement, mais ne démontrent pas à elles seules un basculement universel des Bleus de Chine.
+
+Un paradoxe instructif : des colorants bleus industriels réputés très résistants au lavage, notamment l'**Indanthrene**, étaient déjà commercialisés en Chine dans les premières décennies du XXe siècle, comme l'atteste le Musée chinois de la soie. Il serait donc trompeur d'assimiler systématiquement **ancien = délavable** et **moderne = inaltérable**.
+
+L'écart matériel des pièces anciennes et récentes demeure intéressant pour le Musée : photographie des teintes et usures, recherche des étiquettes et factures, datation des lots, distinction de la valeur d'usage, de la valeur patrimoniale et d'une éventuelle valeur marchande. Une pièce rare ne devient pas automatiquement un objet de collection de prix élevé.
+
+Pour l'enquête détaillée, les sources chimiques et réglementaires et un guide d'entretien non directif avec Ange, consulter [Bleu de Chine — Teintures, indigo et pistes nîmoises](bleu_chine_teintures_nimes.md).
+
+## Nîmes : le commerce des bleus plutôt qu'une filiation supposée
+
+Une **connexion historique documentée** existe à travers les matières colorantes et les réseaux marchands. Le **Musée du Vieux Nîmes** rappelle le travail des teinturiers de la rue de l'**Agau**, utilisant pastel puis indigo importé. La thèse de **Marguerite Martin (2016)** éclaire le commerce européen et atlantique de l'indigo. Une étude sur l'indiennage marseillais documente l'installation d'ateliers à **Nîmes dès 1678**.
+
+Le mot **denim** renvoie très probablement à la « serge de Nîmes », mais cela ne permet pas de prétendre que le Bleu de Chine corse serait une variante du denim, ni de dater l'une par l'autre.
+
+Un ouvrage **paru en octobre 2026**, *Denim, et si la légende…*, par **Danièle Jean et Francine Cabane** (éditions Alcide, illustrations Camille Penchinat), suit l'histoire des savoir-faire et des noms textiles de Nîmes à Cadix, Gênes, Genève, Angleterre et Amérique. **L'ouvrage n'a pas été lu intégralement lors de cette recherche** : il constitue une priorité bibliographique, non une preuve d'une hypothèse supplémentaire.
+
+Le lien avec Nîmes compte également pour le porteur du projet, qui y est né. Il s'agit d'une motivation intellectuelle et biographique légitime, **sans valeur de démonstration historique**.
+
+Voir [le dossier comparatif technique et historiographique](bleu_chine_teintures_nimes.md), [la présentation du Musée du Vieux Nîmes](https://artsandculture.google.com/story/PwVxsEJqKbiSig?hl=fr) et [la notice de l'ouvrage](https://www.editions-alcide.com/produit/denim-et-si-la-legende/).
+
 ## Une nouvelle vie : le Bleu de Chine qui circule
 
 Dans le projet du **Musée Mariani des Possibles**, le Bleu de Chine n'aurait pas seulement pour rôle de rappeler le passé. Il pourrait devenir **un objet singulier qui circule et reçoit des contributions**, comme un manuscrit auquel chaque détenteur volontaire peut ajouter un chapitre.
@@ -193,6 +217,7 @@ Le projet de marquages textiles **n'impose aucune méthode unique** ; son critè
 ## Liens dans le Corpus
 
 - [Protocole critique sur le Bleu de Chine, le denim et l'indigo](bleu_chine_denim_nimes_corse_v0.2.md).
+- [Enquête approfondie : indigo, teintures, normes chinoises et Nîmes](bleu_chine_teintures_nimes.md).
 - [Sources annotées du dossier](bleu_chine_denim_sources_annotees.md).
 - [Brouillon académique « Des bleus de travail aux bleus de mémoire »](bleu_chine_denim_article_academique.md).
 - [Atelier Bleus de Chine du Musée Mariani](../../musee-mariani/methodes/template_fiche_possible.md#spécificité-de-latelier-bleus-de-chine).
