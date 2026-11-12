@@ -4,6 +4,7 @@ subtitle: "Histoire, stratégie, sources, controverses et Provisional Cogentia T
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: '2026-10-02'
+last_modified_at: '2026-11-13'
 version: '0.1'
 status: "working-paper"
 language: fr
@@ -41,9 +42,12 @@ classification_confidence: strong
 
 # Napoléon
 
+**Accéder au Livre Vivant :** [Napoléon — site public](https://napoleon.acorsica.org/).
+
+
 **Napoléon** est un Livre Vivant consacré à Napoléon Bonaparte comme objet historique, stratégique et historiographique, avec une couche expérimentale distincte : le **Provisional Cogentia Twin — Napoléon Bonaparte** hébergé par Agent JHN.
 
-Site public cible : **https://napoleon.acorsica.org**
+Site public : **https://napoleon.acorsica.org** (page d'accueil accessible lors du contrôle du 13 novembre 2026 ; édition et fonctions à vérifier séparément)
 
 ## Principe directeur
 
