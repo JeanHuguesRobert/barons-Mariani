@@ -1,8 +1,7 @@
 ---
 title: "Mariani School of Autonomy"
 subtitle: "L'Autonomie de Capacité : méthode, formation de coachs et transmission"
-description: "Livre Vivant consacré à la Mariani School of Autonomy (École Mariani de l'Autonomie) et à la grammaire générative de l'Autonomie de Capacité. Pédagogie de terrain, formation des coachs d'autonomie augmentée par IA, homéostasie de l'habitat, et émancipation cognitive des personnes et territoires.
-"
+description: "Livre Vivant consacré à la Mariani School of Autonomy (École Mariani de l'Autonomie) et à la grammaire générative de l'Autonomie de Capacité. Pédagogie de terrain, formation des coachs d'autonomie augmentée par IA, homéostasie de l'habitat, et émancipation cognitive des personnes et territoires."
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
@@ -16,6 +15,16 @@ document_role: "project"
 document_kind: "project-index"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: '2026-10-04'
+  derived_from: []
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Mariani School of Autonomy
