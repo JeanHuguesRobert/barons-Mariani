@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-06-01T00:00:00.000Z
-last_modified_at: 2026-09-12T00:00:00.000Z
+last_modified_at: '2026-11-12'
 title: '**Projet Minesteggio : Fondation Barons Mariani – Musée Uchronique « Napoléon 1821 »**'
 date: '2026-04-19'
 version: 1.1-fixbugsfirst
@@ -24,6 +24,7 @@ related_documents:
   - musee-mariani/notes-critiques/preuves-et-incertitudes.md
   - research/relevement_nom_dangelis.md
   - https://github.com/JeanHuguesRobert/barons-Mariani/issues/64
+  - research/principaute_minesteggio_gouvernance.md
 language: fr
 review:
   status: unreviewed
@@ -48,6 +49,8 @@ provenance:
 > **Dépôt GitHub** : [JeanHuguesRobert/barons-Mariani](https://github.com/JeanHuguesRobert/barons-Mariani)
 
 ---
+
+**Gouvernance expérimentale (dossier distinct).** La réflexion sur la « Principauté de Minesteggio » comme cadre volontaire de gouvernance, de subsidiarité et d'expérimentation des Cogentia Collective Twins est exposée dans [Principauté de Minesteggio — dossier constitutionnel de travail](principaute_minesteggio_gouvernance.md). Elle demeure distincte du Fonds de dotation Barons Mariani, de ses éventuels statuts juridiques, de la propriété des biens et des dispositifs muséaux. Cette note n'est ni une Constitution promulguée ni une revendication d'autorité publique.
 
 ## **Résumé scientifique**
 
