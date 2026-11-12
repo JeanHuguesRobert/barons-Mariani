@@ -6,6 +6,7 @@ description: "Livre Vivant dédié à l'histoire, aux réalisations et aux explo
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-04"
+last_modified_at: '2026-11-13'
 version: "0.1"
 status: "working-paper"
 license: "CC BY-SA 4.0"
@@ -18,6 +19,9 @@ lifecycle_state: "working"
 ---
 
 # Institut Mariani
+
+**Accéder au Livre Vivant :** [Institut Mariani — site public](https://institut.acorsica.org/).
+
 
 > *Histoire, recherche possibiliste et avenirs de C.O.R.S.I.C.A.*
 
