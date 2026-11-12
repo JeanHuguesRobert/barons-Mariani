@@ -4,7 +4,7 @@ description: 'Point d''entrée du Livre Vivant Commons : histoire, présent et f
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-10-04'
-last_modified_at: '2026-10-04'
+last_modified_at: '2026-11-13'
 version: '0.1'
 status: working-paper
 license: CC BY-SA 4.0
@@ -44,6 +44,9 @@ changelog:
 ---
 
 # Commons
+
+**Accéder au Livre Vivant :** [Commons — site public](https://commons.acorsica.org/).
+
 
 **Commons** est un Livre Vivant consacré aux **biens communs**, à leur histoire, à leurs formes contemporaines et à leurs avenirs possibles.
 
