@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "512dd416e660731585bce18599ee28ecf9aa69979d0ca84be107ca4af7e62201",
+      "source_sha256": "9ba05e77458eba7aeaf3d5ff7426905ba8e32a2d4de6dc15aa917f1ac1041322",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
@@ -45,7 +45,7 @@
         },
         {
           "path": "projects/capable/manuscript/08-presidentielle-2027.md",
-          "sha256": "0b59b3d8accc13b9f512e5d5743a181cdca0fc8d3ec713cddc7d853ab2362d5c"
+          "sha256": "934107c43c9a6069ba0c08cb8ffd73abc53fbc3a83fe57261700a72b17d23217"
         },
         {
           "path": "projects/capable/manuscript/09-communs-et-moyens.md",
