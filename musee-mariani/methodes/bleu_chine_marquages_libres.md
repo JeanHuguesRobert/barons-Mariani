@@ -178,6 +178,8 @@ Le succès ne se mesure pas uniquement à la résistance maximale : **temps d'ac
 
 ## Rattachements
 
+- [Le Bleu de Chine en Corse — du vêtement du berger au signe identitaire](../../research/patrimoine/bleu_chine_corse_histoire_identitaire.md)
+
 - [Spécificité de l'Atelier Bleus de Chine](template_fiche_possible.md#spécificité-de-latelier-bleus-de-chine)
 - [Bouteille à la mer — vêtement-manuscrit, provenance et authenticité](bouteille_a_la_mer.md)
 - [Marche du Soleil — document de travail](../../projects/capable/campaign/marche-du-soleil.md)
