@@ -6,7 +6,8 @@ license: CC BY-SA 4.0
 title: Gabarit de fiche de possible
 subtitle: Modèle d'instruction d'un atelier du Musée Mariani des Possibles
 date: '2026-06-27'
-version: '0.4'
+last_modified_at: '2026-11-13'
+version: '0.5'
 status: draft
 document_role: source
 document_kind: fiche-template
@@ -191,6 +192,28 @@ port du vêtement ≠ consentement à la géolocalisation ou à la publication
 ```
 
 Séparer la couche textile (coupe, matière, fabrication, singularisation et conservation) de la couche documentaire (identifiant, biographie d'objet, mission et protocole de contribution). Un code QR peut ouvrir un point d'entrée, mais ne doit pas devenir l'unique moyen de conserver l'identité ni prétendre prouver l'authenticité du porteur. Toute contribution concernant des personnes, notamment pour l'annuaire de la diaspora, reste volontaire et soumise aux règles de vie privée du projet concerné.
+
+### Le Bleu de Chine comme manuscrit cumulatif — hypothèse de conception (13 novembre 2026)
+
+Au-delà de son marquage initial (3Code lisible et, facultativement, QR code), un Bleu de Chine singulier peut recevoir **d'autres 3Code au cours de ses circulations** : un code ajouté peut désigner une note, un témoignage, un souvenir, une instruction proposée, une réponse à une contribution précédente ou un nouveau départ. Un QR code supplémentaire est facultatif, selon les contraintes de place, de coût et de lavage. **Le vêtement devient lui-même un support matériel de notes successives**, comparable à un manuscrit annotable ; contrairement à une bouteille lancée à la mer, il est destiné à être porté, prêté, transmis ou remis en circulation, volontairement.
+
+Le premier marquage reste le point d'entrée vers l'**identité technique stable de l'exemplaire**, distincte de tout 3Code et de tout détenteur. Les codes ajoutés sont des **références à des contributions**, non des identités concurrentes de l'objet ni des preuves d'authenticité. Ils peuvent présenter des collisions globales normales ; seul le lien explicite et qualifié entre l'enregistrement de contribution et le dossier de l'exemplaire permet de reconstituer son histoire. Les nouveaux codes et notes ne doivent pas imposer de mission au porteur, ni créer un consentement implicite à la publication ou au suivi.
+
+Une biographie numérique *append-only* documenterait les ajouts matériels, retraits, réparations, corrections et contestations, avec leur date et leur provenance lorsqu'elles sont connues. **L'append-only du journal n'implique ni l'inaltérabilité du textile ni la véracité de la note.** Des ajouts non authentifiés ou effectués sans autorisation restent distingués des contributions assumées par l'atelier ou par un détenteur consentant. Tester la lisibilité après lavages, l'encombrement progressif de la surface, la réparabilité, la discrétion du signe et la continuité après disparition d'un marquage.
+
+Voir [3Code — présentation à Double Lecture](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/3code.md) et le [paquet cognitif du MVP, Cogentia #323](https://github.com/JeanHuguesRobert/cogentia/issues/323). La technique de marquage et le registre fédéré 3Code ne sont pas encore des fonctions déployées.
+
+### Authenticité, provenance et valeur acquise — hypothèse de conception (13 novembre 2026)
+
+Un Bleu de Chine circulant peut **acquérir une valeur patrimoniale, affective, artistique ou marchande**, notamment si sa provenance devient remarquable, si une personne connue l'a porté, ou si un artiste l'a transformé et transmis. **Aucune célébrité, œuvre, autorisation d'exploitation du nom ou valeur marchande n'est ici affirmée** : ce sont des scénarios à éprouver. Une intervention artistique devient un événement distinct dans la biographie de l'exemplaire, avec son auteur revendiqué, sa nature, sa date, ses éventuels droits et les éléments de vérification disponibles.
+
+Cela impose une question nouvelle : **comment distinguer l'original d'une copie, d'une reproduction autorisée, d'une restauration ou d'un vêtement auquel on aurait simplement recousu une ancienne étiquette ?** Un 3Code est copiable et peut avoir des homonymes ; un QR code est copiable lui aussi. Aucun de ces signes n'authentifie à lui seul le textile.
+
+La preuve doit être **composite, proportionnée et graduée** : émission initiale documentée ; identifiant technique stable de l'objet ; photographies détaillées et caractéristiques matérielles observables ; attestations contextualisées et éventuellement signées de l'artiste ou des témoins ; historique des prêts, transmissions, customisations, réparations et changements de détenteur déclarés ; conservation des pièces d'origine ; expertise matérielle indépendante lorsque l'enjeu le justifie. Les techniques de marquage anti-altération, encres ou fibres particulières, puces NFC avec mécanismes de confiance ou autres empreintes physiques sont **des options à évaluer**, non des garanties ou des exigences du MVP. Une signature numérique prouve au mieux l'origine d'une déclaration par une clé, pas la réalité matérielle de ce qu'elle affirme.
+
+Dans le dossier public, distinguer **déclaration**, **document présenté**, **fait corroboré**, **authenticité examinée**, **provenance inconnue**, **copie/reproduction déclarée** et **contestation**. Ne pas publier l'identité ou les déplacements d'un porteur sans base légitime ni consentement approprié. La réputation d'un ancien porteur ne transforme pas une histoire invérifiée en preuve ni en prix acquis.
+
+**Test du Réel :** simuler un exemplaire original, une copie portant le même 3Code/QR, une étiquette transplantée et une customisation attestée ; mesurer ce qu'un tiers peut réellement distinguer à partir du textile et du dossier, sans recourir au témoignage du seul opérateur.
 
 ### Conséquence pour le générateur
 
