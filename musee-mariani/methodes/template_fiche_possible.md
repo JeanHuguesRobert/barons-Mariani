@@ -221,7 +221,7 @@ Dans le dossier public, distinguer **déclaration**, **document présenté**, **
 
 **Priorité opérationnelle formulée par le concepteur : faciliter la multiplication et la circulation volontaire de Bleus de Chine « Marche du Soleil »**, pas maximiser d'abord le degré de sophistication ou la valeur probatoire de chaque pièce. Distinguer les qualités juridiques des acteurs et ne pas assimiler le port d'un vêtement à un soutien politique. Publier des gabarits, recettes, outils et tests accessibles, comparant temps, coût, lisibilité, lavage, réparabilité, et liberté d'adaptation. Voir [Guide de marquage libre](bleu_chine_marquages_libres.md) et le [document de travail Marche du Soleil](../../projects/capable/campaign/marche-du-soleil.md).
 
-### Conséquence pour le générateur
+La mise en récit du symbole corse, particulièrement associé dans la mémoire contemporaine au berger et au travail agropastoral, dispose désormais d'une [présentation historique à Double Lecture](../../research/patrimoine/bleu_chine_corse_histoire_identitaire.md). Ne pas confondre cette histoire sociale et la création récente de supports 3Code ou QR. Les procédés possibles de marquage sont maintenus dans le [catalogue ouvert d'idées](bleu_chine_marquages_libres.md#inventaire-ouvert--idées-pour-attacher-le-couple-3code--qr).\n\n### Conséquence pour le générateur
 
 Le moteur commun génère en fonction du niveau de maturité : **fiche d'idée et dépendances** pour un atelier naissant ; **protocole de test** lorsqu'un terrain existe ; **fiche visiteur et conditions d'accueil** seulement lorsque la pratique est suffisamment instruite ; **bilan et propagation** après observation. Il n'invente ni partenaire confirmé, ni résultat de campagne, ni objet fabriqué, ni activité ouverte au public.
 
