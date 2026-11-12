@@ -1,7 +1,7 @@
 ---
 title: "Bleu de Chine — Indigo, teintures, délavage, normes chinoises et pistes nîmoises"
 subtitle: "Enquête critique sur les pièces anciennes et modernes, le commerce des colorants et les filiations non démontrées"
-description: "Pistes de recherche rapportées par Ange le Tragulinu, documentation de l'indigo et de l'Indanthrene, réglementation chinoise et commerce de l'indigo à Nîmes."
+description: "Pistes d'Ange : possible norme européenne récente, commerce et contrebande historiques de l'indigo-colorant, Chine, Nîmes et Méditerranée ; sources, lacunes et hypothèses."
 author: "Jean Hugues Noël Robert (questions et témoignage rapporté)"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-11-13"
@@ -43,7 +43,7 @@ review:
 
 Un Bleu de Chine neuf peut être d'un bleu intense. Celui d'un ancien porteur peut être beaucoup plus clair, avoir pâli aux coudes, aux plis, à la poitrine. La patine raconte des lavages, du soleil, des années de travail et parfois des réparations.
 
-Le porteur du projet rapporte une explication proposée oralement par **Ange, dit « le Tragulinu », vendeur ambulant connaisseur de ces vêtements** : l'ancienne teinture se délavant aurait cédé la place, chez les producteurs chinois, à un procédé plus stable, en lien avec des contraintes environnementales. Cette observation conduit à distinguer des **Bleus de Chine anciens « délavables »** de productions récentes plus stables.
+Le porteur du projet rapporte une explication proposée oralement par **Ange, dit « le Tragulinu », vendeur ambulant connaisseur de ces vêtements** : l'ancienne teinture se délavant aurait cédé la place, chez certains producteurs, à un procédé plus stable, en raison d'**exigences européennes supposées, apparues vers 2023–2025**. Cette date, l'origine juridique de l'exigence et sa portée ne sont pas encore établies. Cette observation conduit à distinguer des **Bleus de Chine anciens « délavables »** de productions récentes plus stables.
 
 **Statut de cette information : témoignage oral indirect, utile comme piste ; entretien direct, datation des lots, preuves de fabrication et accord de citation non documentés.** Il ne s'agit pas ici d'une déclaration enregistrée ni d'une citation littérale d'Ange.
 
@@ -51,7 +51,7 @@ Une part du récit est techniquement crédible : les familles de colorants, la f
 
 Il y a une surprise historique : **des teintures bleues très résistantes étaient déjà fabriquées et commercialisées en Chine il y a près d'un siècle**. Une différence visible entre deux vestes ne prouve donc ni leur âge, ni leur composition, ni un changement réglementaire unique.
 
-Une seconde surprise est géographique. À **Nîmes**, pendant des siècles, les teinturiers ont travaillé au voisinage de l'**Agau**, passant du pastel à l'indigo importé. C'est une histoire établie et bien documentée. Que l'on retrouve ensuite le bleu, l'indigo, des travailleurs et les échanges méditerranéens dans l'histoire du Bleu de Chine corse donne matière à comparaison, **sans preuve à ce stade d'une filiation matérielle directe de la veste corse avec la serge de Nîmes**.
+Une seconde surprise est géographique. La piste de **commerce, voire de contrebande historique, concerne l'indigo en tant que matière colorante**, non la vente clandestine des Bleus de Chine. À **Nîmes**, pendant des siècles, les teinturiers ont travaillé au voisinage de l'**Agau**, passant du pastel à l'indigo importé. C'est une histoire établie et bien documentée. Que l'on retrouve ensuite le bleu, l'indigo, des travailleurs et les échanges méditerranéens dans l'histoire du Bleu de Chine corse donne matière à comparaison, **sans preuve à ce stade d'une filiation matérielle directe de la veste corse avec la serge de Nîmes**.
 
 L'intérêt de cette comparaison est aussi biographique : le concepteur de l'enquête est né à Nîmes et travaille aujourd'hui à la transmission du patrimoine corse. Cet ancrage est une motivation de recherche, **pas une preuve historique**.
 
@@ -95,6 +95,20 @@ L'existence de ces réglementations est établie. **Ce qui ne l'est pas : une di
 
 Une évolution commerciale, des procédés plus économes en eau, des obligations de traitement des effluents, de contrôle qualité ou des attentes de clients peuvent se combiner : ce sont des **hypothèses concurrentes**.
 
+### 3 bis. Une norme européenne récente a-t-elle obligé les fabricants à changer de procédé ?
+
+**Précision du témoignage indirect (13 novembre 2026)** : Ange aurait évoqué une **exigence européenne**, située approximativement **deux à trois ans avant novembre 2026** (soit 2023–2025), et non une norme chinoise. Conserver l'attribution comme **hypothèse rapportée**, non comme fait établi, avant de retrouver la référence exacte et l'éventuelle communication du fournisseur.
+
+**Pistes juridiques vérifiées :**
+
+- La [décision d'exécution (UE) 2022/2508](https://eur-lex.europa.eu/eli/dec_impl/2022/2508/oj/fra), publiée en décembre 2022, fixe des **conclusions sur les meilleures techniques disponibles (MTD)** dans l'industrie textile, notamment pour réduire les rejets des bains de teinture utilisant des colorants de cuve et l'indigo. Elle s'adresse aux installations industrielles relevant du régime européen des émissions, **pas à tous les fabricants chinois de Bleus de Chine exportés en Europe**. Une [transposition française en janvier 2025](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051106528) concerne des installations classées. Le rapprochement chronologique est réel, **le lien de causalité avec des articles fabriqués en Chine n'est pas démontré**.
+- L'[Écolabel européen pour textiles](https://eur-lex.europa.eu/eli/dec/2014/350/oj/fra) prévoit des niveaux de solidité des couleurs au lavage, avec des tolérances particulières pour certains denims à l'indigo. Ses critères remontent à **2014** et concernent l'obtention de cet **écolabel volontaire**, non une interdiction générale de vendre des vêtements délavables.
+- Les normes européennes **EN ISO 105** décrivent des **méthodes d'essai de tenue des couleurs**, mais la publication d'une méthode d'essai en 2024 ne vaut pas, à elle seule, obligation de changer de colorant pour tous les fabricants.
+
+**À ce stade, aucun texte européen de 2023–2025 imposant explicitement à tous les producteurs de Bleus de Chine l'abandon d'une teinture délavable n'a été identifié.** Une restriction ciblée de substance dangereuse, une norme privée d'un importateur, une condition de certification, une exigence d'acheteur ou un changement interne de procédé sont des explications concurrentes.
+
+**Reality Test :** demander à Ange l'année, la marque ou le fournisseur concerné, puis un document commercial ou réglementaire mentionnant la référence normative, les lots et le changement technique. Ne jamais conclure d'une proximité de dates à une causalité.
+
 ### 4. Ancien, « délavable », « vintage » et « collector » ne sont pas synonymes
 
 Il faut séparer **date de fabrication** et **comportement de la teinture**. Un produit récent pourrait imiter un aspect ancien ; une pièce ancienne peut avoir conservé une couleur stable. Le soleil, la sueur, le frottement, l'entretien et l'exposition font évoluer différemment deux pièces pourtant sorties du même lot.
@@ -129,6 +143,21 @@ Une nouveauté documentaire mérite une attention particulière : **Danièle Jea
 
 **Hypothèse de comparaison à éprouver :** deux histoires méditerranéennes de vêtements populaires bleus, façonnées par des circulations de tissus et colorants, puis réinvesties comme patrimoines territoriaux. **La filiation matérielle Bleu de Chine corse → denim nîmois n'est pas établie**.
 
+### 6 bis. L'indigo lui-même : négoce et possible contrebande, hypothèse corse ouverte
+
+**Correction essentielle du périmètre (13 novembre 2026)** : la piste de commerce ou de contrebande rapportée par le porteur du projet concerne le **colorant indigo lui-même** — matière tinctoriale négociée en ballots, sacs ou autres contenants — **et non les vestes de Bleu de Chine**. Les réseaux d'approvisionnement en pigment/colorant et les circuits commerciaux des vêtements constituent deux objets historiques indépendants.
+
+**Ce qui est documenté :**
+
+1. **Un marché ancien soumis à interdictions.** Une [délibération des États de Languedoc du 9 avril 1661](https://etats-du-languedoc.univ-montp3.fr/index.php?menu=trans-session&page=deliberation&deliberationcode=16610409%2803%29) rappelle les prohibitions royales des années **1597, 1598 et 1601** portant sur l'« indigue », rival du pastel local. Elle demande notamment la confiscation et la destruction du colorant interdit. C'est une **preuve directe de restriction du commerce et de l'usage de l'indigo en Languedoc**, et donc d'un contexte où l'approvisionnement illégal était possible ; **elle ne nomme aucun participant corse**.
+2. **Un commerce international important.** La [thèse de Marguerite Martin (2016)](https://www.idhes.cnrs.fr/les-marches-de-lindigo-en-france/) décrit les filières de production de Saint-Domingue, du Guatemala et d'autres territoires vers les négociants des ports français. Saint-Domingue jouait un rôle central ; cette histoire implique aussi les économies esclavagistes et leurs coûts humains.
+3. **Un chargement identifié en Méditerranée.** Le navire suédois *Jeanne-Élisabeth*, coulé au large de l'Hérault le **14 novembre 1755** sur la route **Cadix–Marseille**, transportait notamment de **l'indigo** et de la cochenille. L'[Atlas PALM de l'archéologie sous-marine](https://www.atlaspalm.fr/s60_jeanne-elisabeth.htm?filtre_chronologie=P%C3%A9riode+moderne&filtre_interpretation=%C3%89pave+de+navire&presentation=liste) et l'[étude d'Arnaud Bartolomei](https://doi.org/10.4000/pds.6201) en attestent la présence. **Pas d'implication corse documentée dans ce cas.**
+4. **Attention à la fausse substitution.** La [contrebande des « indiennes » (cotonnades imprimées) en Provence](https://www.persee.fr/doc/anami_0003-4398_1987_num_99_178_2139) est un fait étudié par Katsumi Fukasawa (1987). **Ce n'est pas la preuve d'une contrebande du colorant indigo lui-même**, même si les mondes commerciaux et techniques se recoupent.
+
+**Ce qui reste non établi :** l'identité de marchands ou marins **corses** engagés spécifiquement dans le commerce ou la contrebande du colorant indigo, la période de leur activité, leurs ports, le statut légal précis des cargaisons et le lien éventuel avec Nîmes. La piste n'autorise aucune accusation ciblée.
+
+**Pistes d'archives à rechercher :** registres douaniers et saisies, procès-verbaux des Fermes, manifests de cargaison, correspondances de négociants, actes notariés, registres maritimes des ports de Bastia, Ajaccio, Livourne, Gênes et Marseille, et sources consulaires ou manufacturières nîmoises. Rechercher aussi **indigue / indigo / bleu / pastel** selon le vocabulaire d'époque. Distinguer cabotage licite, transit, fraude à la taxe, marchandise interdite et trafic illicite selon les lois applicables **à la date et au lieu des faits**.
+
 ### 7. Ce que demander à Ange pour transformer une piste en source historique
 
 Entretien **à préparer, non réalisé**. Une dizaine de questions ouvertes et non directives suffiraient :
@@ -140,9 +169,9 @@ Entretien **à préparer, non réalisé**. Une dizaine de questions ouvertes et 
 5. Sur quels indices repose votre explication environnementale : information du fabricant, courrier, réglementation citée, observation, témoignage reçu ?
 6. S'agissait-il d'un changement de **colorant**, de procédé, de rinçage/fixation ou simplement d'un nouveau modèle de toile ?
 7. Quelles différences matérielles permettent de reconnaître les lots plus anciens **sans** les laver ?
-8. D'où venaient les marchandises, par quels ports et circuits de revente ?
+8. La piste historique de commerce ou contrebande concerne-t-elle bien **l'indigo-colorant**, distinct des vêtements ? À quelle époque, par quels ports ou maisons de commerce, et à partir de quels témoignages ou documents ?
 9. Quels métiers et quelles familles corses achetaient ces modèles, et quand ?
-10. Pourrions-nous examiner **deux pièces identifiées et leurs justificatifs**, et préciser ce que vous accepteriez de citer ou publier ?
+10. Pourrions-nous examiner **deux pièces identifiées et leurs justificatifs**, et préciser ce que vous accepteriez de citer ou publier ?\n11. Pour le changement récent, vous souvenez-vous d'un **texte européen nommé** ou d'une déclaration écrite d'importateur ou de fabricant (années 2023–2025) ?
 
 Conserver si possible les documents matériels, photographies autorisées, attestations d'origine, les datations comme **intervalles** et les degrés de confiance. Un récit oral est une source précieuse ; il ne doit pas être converti silencieusement en démonstration chimique ou réglementaire.
 
@@ -155,7 +184,7 @@ Conserver si possible les documents matériels, photographies autorisées, attes
 | H3 : réglementation environnementale responsable du basculement | texte normatif + correspondance fabricant indiquant changement obligatoire | conformité assurée sans changement de teinture ; absence de disposition pertinente |
 | H4 : comportement lié à usage/lavage plutôt qu'âge | plusieurs pièces datées de mêmes lots avec vieillissement divergent | différentiel reproductible entre lots conservés comparables |
 | H5 : raréfaction des anciens lots délavables | stocks, historiques d'importation, archives commerciales et prix effectivement pratiqués | poursuite de fabrication identique ou rééditions abondantes |
-| H6 : continuité matérielle documentée Nîmes–Corse | factures, registres d'importation, étiquettes de fabrique, objets comparables | simple similitude de couleur ou de mot, sans transfert prouvé |
+| H6 : continuité matérielle documentée Nîmes–Corse | factures, registres d'importation, étiquettes de fabrique, objets comparables | simple similitude de couleur ou de mot, sans transfert prouvé |\n| H7 : acteurs corses dans le négoce ou la contrebande de **l'indigo-colorant** | manifeste, saisie, correspondance ou compte authentifié mentionnant colorant, acteurs, lieu et date | mentions portant seulement sur des vêtements, sur des « indiennes » ou sur une contrebande générique |\n| H8 : norme **européenne 2023–2025** imposant le remplacement du colorant chez un fournisseur | référence juridique précise et preuve du changement de procédé chez ce fournisseur | simple méthode d'essai, Écolabel volontaire ou règle sur les effluents d'usines situées dans l'UE |
 
 ## Sources contrôlables
 
@@ -172,6 +201,13 @@ Conserver si possible les documents matériels, photographies autorisées, attes
 - **[D11]** [Nîmes Tourisme — « Denim… de Nîmes ? »](https://nimestourisme2.bcnco.site/denim/) et [*Vivre Nîmes* — « Le tissu, une trame historique »](https://www.vivrenimes.fr/formats/articles/expos-textiles-a-nimes-le-tissu-une-trame-historique) ; distinction prudente serge/denim.
 - **[D12]** [Éditions Alcide — Danièle Jean, Francine Cabane, *Denim, et si la légende…*](https://www.editions-alcide.com/produit/denim-et-si-la-legende/) ; publication octobre 2026, **non encore lue**, et [notice de librairie](https://www.librairiepradoparadis.fr/product/2336743/jean-daniele-denim-et-si-la-legende).
 - **[D13]** [Société chimique de France — chimie des plantes tinctoriales](https://new.societechimiquedefrance.fr/produits/couleurs-naturelles-chimie-des-plantes-tinctoriales/) et [Jardins de France — indigo et synthèse](https://www.jardinsdefrance.org/le-bleu-indigo-des-plantes-et-de-la-chimie/) ; chimie générale et histoire, non analyses du vêtement corse.
+
+## Additions documentaires (13 novembre 2026)
+
+- [États de Languedoc, délibération du 9 avril 1661 sur l'« indigue » prohibée](https://etats-du-languedoc.univ-montp3.fr/index.php?menu=trans-session&page=deliberation&deliberationcode=16610409%2803%29).
+- [Arnaud Bartolomei, *La Jeanne Élisabeth sur les routes méditerranéennes de l'économie mondialisée*](https://doi.org/10.4000/pds.6201), *Patrimoines du Sud* 13, 2021 ; indigo comme cargaison, **pas preuve de contrebande corse**.
+- [Katsumi Fukasawa, *Commerce et contrebande des indiennes en Provence*](https://www.persee.fr/doc/anami_0003-4398_1987_num_99_178_2139), *Annales du Midi* 1987 ; distinction critique entre tissus et colorant.
+- [Décision (UE) 2022/2508, MTD pour l'industrie textile](https://eur-lex.europa.eu/eli/dec_impl/2022/2508/oj/fra), et [Écolabel européen textiles, 2014/350/UE](https://eur-lex.europa.eu/eli/dec/2014/350/oj/fra) ; distinguer obligations sectorielles européennes et certifications volontaires.
 
 ## Rattachements
 
