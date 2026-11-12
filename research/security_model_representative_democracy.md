@@ -2,7 +2,7 @@
 title: Une théorie de sécurité de la démocratie représentative
 subtitle: Du principal-agent à la non-auto-élévation des privilèges politiques
 author: Jean Hugues Noël Robert
-status: document source — recherche — doctrinal — validé pour publication
+status: "working-paper — document source — recherche — doctrinal — validé pour publication"
 version: '0.4'
 date: '2026-08-22'
 last_modified_at: '2026-11-12'
