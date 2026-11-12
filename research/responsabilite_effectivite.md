@@ -4,6 +4,7 @@ subtitle: "Reddition de comptes, persistance informée, niveau capable et temps 
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
+last_modified_at: '2026-11-12'
 version: "0.1-draft"
 status: "working-paper"
 language: "fr"
@@ -439,6 +440,12 @@ Pour un dispositif `P` :
 > **Une démocratie capable doit être capable d’apprendre.**
 
 > **Le Réel répond ; l’institution doit pouvoir répondre au Réel.**
+
+## Application constitutionnelle datée du 12 novembre 2026 — rendre l'adaptation possible
+
+La [proposition Capable de révision de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) constitue une projection juridique de la Responsabilité d'effectivité : une collectivité documente un obstacle à ses compétences ; les autorités compétentes instruisent et rendent compte ; l'évaluation publique identifie les refus, les effets et la persistance éventuelle ; un obstacle substantiel entraîne un réexamen motivé. Le Parlement reste législateur ; aucun juge ne se voit attribuer par cette seule formule un pouvoir d'imposer un vote.
+
+La réussite ne se mesure pas au nombre de procédures ou de rapports, mais à la possibilité réelle d'obtenir des adaptations légitimes **dans un temps utile**, avec recours et correction lorsque les conditions juridiques le permettent. La loi organique ne doit pas neutraliser le droit par des délais excessifs ou des formalités vides. Cette application est une proposition constitutionnelle publique, non une obligation déjà entrée dans le droit positif.
 
 ## Complément du 1er novembre 2026 — responsabilité des décisions algorithmiques
 
