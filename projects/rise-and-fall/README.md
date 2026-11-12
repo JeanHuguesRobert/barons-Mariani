@@ -9,14 +9,15 @@ version: "0.2"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
-document_role: "project-readme"
-document_kind: "readme"
+document_role: "project"
+document_kind: "project-readme"
 visibility: "public"
 lifecycle_state: "working"
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/rise-and-fall/README.md"
 update_policy: "UP-DEFAULT-REVIEWED"
 provenance:
-  origin_type: "issue-continuation"
+  origin_type: repository
+  origin_method: issue-continuation
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "GitHub issue #94"
   origin_date: "2026-09-29"
