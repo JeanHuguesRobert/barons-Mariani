@@ -71,6 +71,79 @@ Les recettes sont **candidates**, pas des résultats de qualification. Les Fab L
 
 **Ne pas imposer une découpe laser sur le vêtement** : risques de dégradation textile, fumées et compatibilités de matériaux à contrôler par le Fab Lab ; ce n'est pas la voie par défaut. Une impression ou une broderie de QR code n'est pas présumée lisible simplement parce qu'elle ressemble visuellement à un QR.
 
+## Inventaire ouvert — idées pour attacher le couple 3Code / QR
+
+**Statut :** catalogue d'idées, non catalogue de procédés validés. Cette section est ouverte à de futures additions, suppressions et corrections. Chaque recette réalisable gagnera ensuite sa fiche d'essai (photo, matériau, temps, coût, résistance, réparation). Aucun de ces choix n'est imposé au porteur.
+
+L'expression **« couple » ne signifie pas qu'il faut toujours placer les deux inscriptions au même endroit**, ni que les deux doivent être présentes. Le 3Code peut occuper un emplacement permanent visible, le QR un endroit intérieur ou une carte mobile ; ils peuvent renvoyer au même dossier ou, dans le cas d'annotations successives, à des objets documentaires distincts. Éviter de confondre ce jumelage avec une preuve d'authenticité du textile.
+
+### Inscription directe sur le vêtement
+
+| Idée | Mise en œuvre libre | Avantage envisagé / point à éprouver |
+| --- | --- | --- |
+| M01 | 3Code **brodé sur la poitrine**, éventuellement sous la poche | Visible et lisible sans outil ; discrétion et effet esthétique à tester |
+| M02 | 3Code **brodé sur le bord d'une manche** | Petite surface, visible en mouvement ; risque de courbure |
+| M03 | 3Code **à l'intérieur du col** | Durable et discret ; peu accessible lorsque porté |
+| M04 | 3Code **à l'intérieur d'une poche** | Texte protégé ; nécessite de retourner le vêtement |
+| M05 | 3Code **sur l'ourlet ou près d'une couture latérale** | Position à faible impact visuel ; lecture parfois difficile |
+| M06 | 3Code **au pochoir et à la peinture textile** | Accessible sans machine ; étalement des contours au lavage à mesurer |
+| M07 | 3Code **au marqueur textile permanent** | Très facile pour une annotation tardive ; tenue de l'encre à éprouver |
+| M08 | 3Code **en transfert flex découpé** | Facile en Fab Lab ; paramètres de pressage et tenue à tester |
+| M09 | 3Code **en sérigraphie une couleur** | Intéressant pour une petite série ; préparation plus importante |
+| M10 | 3Code **en impression textile numérique** | Flexible en motifs et quantités ; vieillissement et contraste à mesurer |
+
+### Étiquettes, écussons et supports attachés
+
+| Idée | Mise en œuvre libre | Avantage envisagé / point à éprouver |
+| --- | --- | --- |
+| M11 | **Étiquette tissée** cousue dans la couture intérieure | Lisibilité, confort et résistance aux lavages à mesurer |
+| M12 | **Étiquette satin ou coton imprimée** puis cousue | Fabrication simple ; usure de l'impression à tester |
+| M13 | **Écusson brodé** détachable par couture | Remplacement et collection ; transfert possible d'un vêtement à l'autre |
+| M14 | **Deux petites étiquettes séparées**, une 3Code et une QR | Optimiser lecture humaine et scan indépendamment |
+| M15 | **Étiquette double face** : 3Code dehors, QR dedans | Surface réduite ; froissement et facilité de scan à éprouver |
+| M16 | **Ruban de tissu attaché à un bouton** | Ajout non destructif ; risque de perte ou arrachement |
+| M17 | **Étiquette textile nouée ou cousue à une boucle** | Réversible ; tenue en circulation et lavages à tester |
+| M18 | **Carte de provenance amovible** portant QR et 3Code | Facile à remettre avec l'objet ; peut être séparée de la pièce |
+| M19 | **Petite plaque de métal ou bois** sur un lien souple, hors zones de frottement | Marquage résistant ; confort, lavage et sécurité à examiner |
+| M20 | **Bouton ou pièce rapportée personnalisée** portant des caractères | Discret et durable en principe ; neuf caractères très exigeants en surface |
+
+### Idées propres au QR code
+
+| Idée | Mise en œuvre libre | Avantage envisagé / point à éprouver |
+| --- | --- | --- |
+| M21 | **QR imprimé sur étiquette textile souple** | Lecture directe ; contraste et plis critiques |
+| M22 | **QR en transfert thermocollant** | Faible coût par unité ; lavage et adhérence à tester |
+| M23 | **QR sur écusson cousu**, à surface plane | Remplaçable si endommagé ; nécessite taille adaptée |
+| M24 | **QR sur carte, passeport ou fiche accompagnant le bleu** | Aucun risque textile ; carte susceptible de se perdre |
+| M25 | **QR discret sous une poche ou un revers** | Caché dans l'usage quotidien ; nécessité d'instructions pour le trouver |
+| M26 | **QR textile brodé** sur grande surface très contrastée | Exploration Fab Lab ; ne pas présumer sa scannabilité |
+
+### Idées pour ajouter des notes au fil de la vie
+
+| Idée | Mise en œuvre libre | Avantage envisagé / point à éprouver |
+| --- | --- | --- |
+| M27 | **Nouvelle étiquette 3Code** cousue à chaque contribution importante | Manuscrit cumulatif visible ; encombrement progressif |
+| M28 | **Rangée de petits écussons de mémoire** | Esthétique évolutive ; libre choix des emplacements |
+| M29 | **Doublure intérieure annotable** au marqueur textile | Zone disponible pour notes ; lessivage et lisibilité à tester |
+| M30 | **Ruban chronologique** cousu par étapes successives | Continuation matérielle ; réparabilité et longueur maximale |
+| M31 | **Pièce réparée volontairement visible** accompagnée de son 3Code | Le raccommodage devient un événement documenté |
+| M32 | **Poche à messages** contenant une fiche papier modifiable | Analogie proche du manuscrit de la bouteille ; perte et lavage à anticiper |
+
+### Fab Lab, approche expérimentale, autres technologies
+
+| Idée | Mise en œuvre libre | Avantage envisagé / point à éprouver |
+| --- | --- | --- |
+| M33 | **Brodeuse numérique** avec gabarit commun et lettrage adapté | Séries reproductibles sans standardiser l'emplacement |
+| M34 | **Plotter vinyle + presse** pour planches de références distinctes | Petites séries variées ; couple température/temps à qualifier |
+| M35 | **Imprimante d'étiquettes textiles** en atelier | Marquage à l'unité ; compatibilité des consommables |
+| M36 | **Puce NFC facultative** cousue dans une étiquette séparée | Accès complémentaire, pas remplacement des références lisibles ; copie et authenticité à distinguer |
+| M37 | **Marquage tactile** en relief ou en braille à expérimenter | Accessibilité supplémentaire ; taille et tenue à tester avec utilisateurs concernés |
+| M38 | **3Code très grand et QR amovible**, ou l'inverse | Choix selon besoins réels de lisibilité, discrétion et durée |
+
+**Fiche de retour d'expérience suggérée :** `id_idee`, photographie autorisée, matériau, support, appareil, description des réglages, coût mesuré, temps mesuré, nombre de lavages, lisibilité du 3Code, lecture QR, réparation, confort, consentement et commentaires. Une solution n'est recommandée qu'après essais observables ; une solution artisanale parfaitement suffisante n'a pas à être remplacée par la plus technologique.
+
+**Critère d'effectivité :** combien de personnes peuvent **réaliser elles-mêmes** un marquage acceptable et le faire circuler sans dépendre d'un spécialiste ? La multiplication volontaire des Bleus de Chine prime sur le raffinement du procédé.
+
 ## Outils à publier et à partager, seulement lorsqu'ils sont utiles
 
 Le kit minimal réutilisable pourrait contenir :
