@@ -1,22 +1,30 @@
 ---
 title: "Une loi ne vaut que par ses effets"
 author: "Jean Hugues Noël Robert"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-status: "working-draft"
+last_modified_at: '2026-11-12'
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/03-effectivite.md
+status: draft
 language: "fr"
 license: "CC BY-SA 4.0"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-03"
   derived_from:
+    - "../doctrine/revision_constitutionnelle_article_72.md"
     - "../../../research/principe_effectivite.md"
     - "../../../research/responsabilite_effectivite.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Une loi ne vaut que par ses effets
@@ -52,6 +60,12 @@ L'enjeu est aussi démocratique : les citoyens doivent disposer de moyens propor
 La méthode devient générative lorsqu'à chaque nouveau problème elle demande : *quels effets désirables ? quels faits ? quelles capacités à ouvrir ? quelles voies concurrentes ? qui décide ? qu'est-ce qui pourrait nous donner tort ? comment le saurons-nous et qui serait tenu de réexaminer ?*
 
 Pour la formalisation et ses limites : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et [Stabilisateur procédural](../../../research/debord_stabilisateur_procedural.md). Ces éléments sont des **propositions à éprouver**, et non des règles actuellement imposées à toute loi.
+
+## Un test constitutionnel : de la demande locale à la correction
+
+La [proposition Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) applique cette exigence au fonctionnement territorial de la République. Lorsqu'une règle nationale entrave une compétence locale, une collectivité devrait pouvoir demander son adaptation ; les motifs du refus devraient être examinables ; les effets des décisions rendus publics ; un obstacle substantiel devrait conduire à un réexamen motivé.
+
+**Un accusé de réception, un rapport publié ou une promesse de réforme ne suffisent pas.** Il faut pouvoir distinguer la demande, l'examen, l'adaptation réellement appliquée, ses effets et les possibilités de correction. Le pouvoir législatif demeure au Parlement, et l'obligation constitutionnelle projetée ne crée pas automatiquement un recours pour le forcer à voter.
 
 ## Une exigence symétrique
 
