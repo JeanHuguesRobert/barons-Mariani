@@ -109,6 +109,12 @@ Une biographie d'objet ouverte aux contributions conserve les corrections et les
 
 Un **Test du Réel** contradictoire comparera un original, une copie au marquage identique, une étiquette déplacée, une intervention artistique attestée et une intervention revendiquée sans preuve. Le résultat attendu est une **qualification traçable du degré de confiance**, non la promesse illusoire d'un textile impossible à copier.
 
+### 7.3. Techniques d'attachement libres et transmission facile
+
+Les 3Code et QR code, initiaux ou ajoutés à la circulation, n'imposent **aucune technique de fixation unique** : couture, étiquette, broderie, transfert, flocage, inscription ou autre solution adaptée au vêtement. Le premier critère du cas Bleu de Chine est la **facilité de reproduction et de circulation volontaires**, non une surenchère de certification ou d'outillage. Les Fab Labs peuvent proposer des recettes et fichiers reproductibles, sans rendre leurs machines obligatoires.
+
+Comparer systématiquement les voies domestiques et les voies assistées : coût et temps réellement observés, résistance au lavage, réparabilité et simplicité d'ajout d'une annotation. Référence pratique : [Bleus de Chine — marquages libres, recettes et outils](bleu_chine_marquages_libres.md). Le cas de la **Marche du Soleil** est une application envisagée, non la preuve d'une distribution réalisée ni d'un engagement politique des porteurs.
+
 ## 8. Hypothèses testables
 
 Exemples : la matérialité favorise-t-elle des contributions différentes du numérique seul ? Les missions ouvertes produisent-elles davantage de bifurcations inattendues ? Les transmissions successives font-elles apparaître des informations que le Musée n'aurait pas su demander ?
