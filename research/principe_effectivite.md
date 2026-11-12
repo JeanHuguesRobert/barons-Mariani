@@ -4,6 +4,7 @@ subtitle: "De la validité formelle à la confrontation gouvernée avec le Réel
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
+last_modified_at: '2026-11-12'
 version: "0.1-draft"
 status: "working-paper"
 language: "fr"
@@ -591,6 +592,12 @@ Le passage des versions antérieures à `0.4-rc4` illustre également une strat�
 Cette qualification reste celle d’un **candidat** : le texte n’est pas documenté comme amendement parlementaire déposé ou adopté, et ses effets éventuels ne pourraient être appréciés qu’à travers sa trajectoire institutionnelle et, le cas échéant, sa mise en œuvre future.
 
 ---
+
+### Second Reality Case légistique — article 72 national, 12 novembre 2026
+
+La [proposition constitutionnelle publique portée par le Mouvement Capable](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) transpose au **droit commun des collectivités territoriales** une interrogation éprouvée dans le projet corse : comment empêcher qu'une capacité reconnue reste inaccessible, qu'une demande d'adaptation demeure sans réponse ou qu'un obstacle observable soit ignoré ? Elle conserve au Parlement sa compétence législative plutôt que créer un législateur régional concurrent.
+
+Ce second cas ne démontre ni une **équivalence institutionnelle** avec les habilitations du projet d'article 72-5 ni un résultat déjà acquis. L'effectivité requiert de suivre la réalité de l'instruction, des refus, des délais, des adaptations, de leurs effets et des possibilités de correction. L'obligation de réexamen n'autorise pas le juge à ordonner au Parlement de voter une loi. L'amendement corse historique garde son texte, sa date et son statut propre.
 
 ## 16. De l’effectivité à Capable
 
