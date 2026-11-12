@@ -42,6 +42,8 @@ Cette méthode ne remplace ni le choix démocratique ni les engagements express�
 
 ## République et effectivité — proposition institutionnelle
 
+**Proposition constitutionnelle portée par le Mouvement Capable :** [Révision de l'article 72 — subsidiarité et autonomie territoriale effectives](doctrine/revision_constitutionnelle_article_72.md). Le Parlement conserve son pouvoir législatif ; les demandes territoriales d'adaptation bénéficieraient de garanties constitutionnelles d'examen, de motivation, d'évaluation et de réexamen. Cette proposition est distincte de l'amendement historique relatif au projet corse d'article 72-5.
+
 Capable se réclame des principes de la République sans considérer les institutions actuelles comme indépassables. La proposition explore des garanties effectives de liberté, d'égalité, de fraternité et de souveraineté populaire : participation directe, contrôle des mandats, recours, traçabilité et correction pacifique. Elle vise une architecture robuste face aux erreurs et aux abus de pouvoir, sans présupposer la sagesse des gouvernants. Elle protège également les droits individuels et les minorités contre l'arbitraire majoritaire et préserve la possibilité de réviser les institutions.
 
 La meilleure protection espérée reste une hypothèse à vérifier par ses effets, non un résultat acquis. Le texte de l'amendement constitutionnel reste distinct et inchangé.
