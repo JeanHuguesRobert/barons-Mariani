@@ -11,6 +11,7 @@ on:
       - "research/noyau_doctrinal_rendre_capable.md"
       - "projects/capable/manuscript/**"
       - "projects/capable/editions/**"
+      - "projects/capable/doctrine/**"
       - "projects/capable/magazine/**"
       - "projects/capable/annexes/**"
       - "projects/suicide-corse/manuscript/**"
