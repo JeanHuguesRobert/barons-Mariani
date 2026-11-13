@@ -34,6 +34,15 @@ provenance:
 
 **Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
 
+**Nouvelle version publique « en préparation » (13 novembre 2026, non gelée) :**
+[Lire la projection HTML](../../previews/en-preparation/capable.html) ·
+[Télécharger le PDF](../../previews/en-preparation/capable.pdf) ·
+[Télécharger l'EPUB](../../previews/en-preparation/capable.epub) ·
+[Consulter l'empreinte et les 23 sources](../../previews/en-preparation/manifest.json).
+
+Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.
+
+
 
 > **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete-2026-11-09.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
 

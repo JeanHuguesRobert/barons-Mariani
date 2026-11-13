@@ -1,0 +1,16 @@
+{
+  "schema": "living-books.working-formats/v1",
+  "status": "en-preparation-non-gele",
+  "source_sha256": "d5e08336fd3e1f2ee46f08bd1e060a659ecd14a03e8537a63e31be5d36e65e3a",
+  "inputs": 23,
+  "pdf": {
+    "path": "capable.pdf",
+    "sha256": "3e8691864d5fbdb4d9ea0a6395d8fb2c7c9aa0aaa49a2c46446e969b585b695a",
+    "bytes": 822334
+  },
+  "epub": {
+    "path": "capable.epub",
+    "sha256": "9dca4295e406ccf48c7229b9b4bad93bae0c304ac82b7ee15460c37fbd1f771f",
+    "bytes": 53789
+  }
+}

@@ -19,6 +19,7 @@ on:
       - "projects/1755/editions/**"
       - "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/**"
       - "scripts/build-living-books-news-previews.py"
+      - "scripts/build-living-books-working-formats.py"
       - ".github/workflows/living-books-news-previews.yml"
 
 permissions:
@@ -64,7 +65,8 @@ jobs:
             source_sha=$(git rev-parse HEAD 2>living-books-diagnostics/source.log)
             phase=render
             code=RENDER_FAILED
-            python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1
+            python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1 && \
+              python3 scripts/build-living-books-working-formats.py >>living-books-diagnostics/render.log 2>&1
             rc=$?
             if [ "$rc" -eq 0 ]; then
               phase=validate
@@ -74,6 +76,9 @@ jobs:
                 for name in index capable 1755 rise-and-fall suicide-corse; do
                   test -s "previews/en-preparation/$name.html"
                 done
+                test -s previews/en-preparation/capable.pdf
+                test -s previews/en-preparation/capable.epub
+                python3 -m json.tool previews/en-preparation/capable-formats.json >/dev/null
                 python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
               ) >living-books-diagnostics/validate.log 2>&1
               rc=$?
@@ -98,7 +103,8 @@ jobs:
                       source_sha=$(git rev-parse HEAD 2>>living-books-diagnostics/source.log)
                       phase=render
                       code=RENDER_FAILED
-                      python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1
+                      python3 scripts/build-living-books-news-previews.py >living-books-diagnostics/render.log 2>&1 && \
+              python3 scripts/build-living-books-working-formats.py >>living-books-diagnostics/render.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then
                         break
@@ -110,7 +116,10 @@ jobs:
                         for name in index capable 1755 rise-and-fall suicide-corse; do
                           test -s "previews/en-preparation/$name.html"
                         done
-                        python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
+                        test -s previews/en-preparation/capable.pdf
+                test -s previews/en-preparation/capable.epub
+                python3 -m json.tool previews/en-preparation/capable-formats.json >/dev/null
+                python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
                       ) >living-books-diagnostics/validate.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then

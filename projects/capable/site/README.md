@@ -62,6 +62,12 @@ La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel éta
 - export machine-readable de la matrice ;
 - pour l'Observatoire, ne jamais assimiler contact, intérêt, intention, promesse, envoi et validation officielle.
 
+## Candidate de travail publique — 13 novembre 2026
+
+Les 23 sources du [n°1 en préparation](../editions/2026-10-28-projection-candidate-n1.md), comprenant la [proposition nationale de révision constitutionnelle de l'article 72](../doctrine/revision_constitutionnelle_article_72.md), sont assemblées en [HTML](../../../previews/en-preparation/capable.html), [PDF](../../../previews/en-preparation/capable.pdf) et [EPUB](../../../previews/en-preparation/capable.epub), avec [reçus et empreintes](../../../previews/en-preparation/capable-formats.json).
+
+**La mise en ligne des fichiers source sur GitHub est accomplie.** Leur exposition directe sous `/candidate.html`, `/candidate.pdf` et `/candidate.epub` sur le site Fracta2 reste une opération de déploiement distincte ; ne pas prétendre que l'ancien `/book.html` héberge déjà cette candidate.
+
 ## État constaté au 28 octobre 2026 — projection ≠ source
 
 La première publication du site est désormais effective. Le point d'entrée `/en-preparation.html` est une **page d'accès** au texte de l'édition de travail, non une édition gelée ni la reproduction intégrale de celle-ci. Le document canonique courant de ce chantier reste `projects/capable/editions/2026-10-09-en-preparation.md`, avec son statut de brouillon et sa date d'observation propre. Les actualités du 26 et du 27 octobre sont documentées dans ce texte et sur la page d'accès, sans mise à jour automatique du Livre durable.
