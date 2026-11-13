@@ -57,6 +57,10 @@ Les références non énumérées ici restent dans la matrice initiale : **pas d
 4. **#134** : contrôle adverse des fichiers, de leur confidentialité, des SHA finaux, de la correspondance avec le courrier et des canaux ; contrôle de l'existence éventuelle d'une décision déjà rendue.
 5. **#127** : soumettre au Principal le lot vérifié et les seules décisions substantielles restantes, puis STOP avant toute communication externe.
 
+## Vérification additionnelle Gmail et recherche de décision (13 novembre)
+- Recherche Gmail `"2026-6589" after:2026/10/08` : seuls les deux brouillons du 8/21 octobre et la réponse du greffe du **8 octobre** ressortent dans les messages correspondants. Recherche `from:(conseil-constitutionnel.fr) after:2026/10/08` : même réponse du 8 octobre. **Aucune notification ultérieure retrouvée dans ces recherches**, ce qui ne démontre pas l'absence de décision ou de notification par une autre voie.
+- Recherche publique du numéro de dossier le 13 novembre : **pas de décision directement identifiée** dans les résultats consultés ; contrôle exhaustif du registre des décisions toujours UNKNOWN. Ne jamais écrire « affaire pendante établie » sur cette seule base.
+
 ## Gates de reprise
 | Gate | Statut au 13 novembre |
 |---|---|
