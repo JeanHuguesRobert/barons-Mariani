@@ -76,6 +76,12 @@ Le rapprochement avec Rousseau exige de distinguer la difficulté du gouvernemen
 
 Sources : [État de droit et démocratie assistés par ordinateur](../../research/etat_de_droit_assiste_par_ordinateur.md#0-bis-démocratie-assistée-par-ordinateur-dao--thèse-de-lauteur-1er-novembre-2026) ; [Manifeste possibiliste, § Présentisme](../../research/manifeste_possibiliste_note_analytique.md) ; [Souveraineté et agents mandatés](../../research/souverainete_delegation_agents_mandates.md).
 
+## Recherche exploratoire liée, non adoptée comme programme (13 novembre 2026)
+
+➡️ [Identités, racisme, polarisation et sélection de l'agenda politique](research/2026-11-13-identites-polarisation-et-agenda-politique.md) — note de consolidation non revue : distinguer le décalage **priorités souhaitées / campagne anticipée** de l'agenda médiatique **effectivement observé** ; étudier les discours explicites et leurs implicites, les cas SOS Racisme / RN / Mossa Palatina, la conversion des griefs en pouvoir électoral et le contrôle institutionnel de l'ordre du jour. Hypothèses ouvertes, non positions électorales adoptées.
+
+Le problème transversal de la neutralisation collective des capacités et le projet d'agent *Contradicteur loyal* sont travaillés dans [Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/contradicteur_loyal_non_nivellement_2026-11-13.md), à l'épreuve de [#261](https://github.com/JeanHuguesRobert/cogentia/issues/261).
+
 ## Sources principales
 
 ### Rendre capable
