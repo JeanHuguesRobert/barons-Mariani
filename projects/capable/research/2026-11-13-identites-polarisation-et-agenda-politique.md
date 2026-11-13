@@ -53,6 +53,8 @@ Le *Baromètre de la République 2026* (Ipsos bva–CESI, enquête des 15–17 j
 | Immigration | 27 % | 42 % | +15 points |
 | Sécurité | 30 % | 37 % | +7 points |
 
+**Discordance éditoriale repérée entre deux synthèses du même sondage :** la page de l'[institut Ipsos](https://www.ipsos.com/fr-fr/barometre-de-la-republique-2026) écrit aussi « pouvoir d'achat souhaité : 34 % », alors que la page du [Laboratoire de la République](https://www.lelaboratoiredelarepublique.fr/publications/le-barometre-de-la-republique-edition-2026/) écrit « souhaité : 46 % » et « anticipé : 34 % ». La présente table reprend le Laboratoire ; **vérifier le questionnaire/tableau intégral avant diffusion d'un calcul d'écart**. Ne pas résoudre silencieusement cette contradiction par un choix de source.
+
 **Avertissement capital :** plusieurs réponses sont possibles ; ces pourcentages ne sont pas des parts du temps médiatique. Ils mesurent une **anticipation des répondants**, non la couverture effectivement observée. L'enquête publiée est à conserver comme référence initiale ; les formulations et les tableaux complets doivent être relus avant toute réutilisation éditoriale. [Laboratoire de la République (8 septembre 2026)](https://www.lelaboratoiredelarepublique.fr/publications/le-barometre-de-la-republique-edition-2026/) ; [Ipsos (28 août 2026)](https://www.ipsos.com/fr-fr/barometre-de-la-republique-2026).
 
 Ce décalage suggère une question d'enquête sur **l'attribution de l'attention**. Il ne démontre ni que les médias imposent effectivement ces thèmes dans ces proportions, ni que les électeurs seraient « manipulés » en bloc.
