@@ -176,6 +176,22 @@ Essayer en conditions ordinaires, sans lancer d'emblée une production en volume
 
 Le succès ne se mesure pas uniquement à la résistance maximale : **temps d'accès à une pièce marquée, simplicité de reproduction, capacité d'entretien et possibilité de la remettre en circulation** comptent aussi.
 
+## Trois exemplaires déjà disponibles — déclaration du concepteur (13 novembre 2026)
+
+Le concepteur déclare disposer personnellement de **trois Bleus de Chine**, avant toute commande liée à ce protocole. Inventaire **déclaratif, non expertisé et sans photographie ni pièce de provenance contrôlée** :
+
+| Pièce | Description déclarée | Rôle recommandé dans l'atelier | Précaution |
+| --- | --- | --- | --- |
+| **A — ancien** | Bleu de Chine présenté comme ancien | **Référence patrimoniale comparative** : observer, photographier avec accord, relever étiquettes, couture, état et patine | **Ne pas soumettre à des essais destructifs de lavage, de teinture ou de marquage irréversible** ; date, colorant et valeur de collection non certifiés |
+| **B — moderne bleu** | Bleu de Chine moderne | **Premier banc d'essai**, potentiellement avec étiquette cousue réversible et QR vers fiche existante | Tester d'abord sur chutes/étiquettes ajoutées ; préserver l'étiquette réglementaire et consigner le procédé |
+| **C — moderne noir** | Bleu de Chine noir, actuellement **porté comme chemise sous une veste habillée** par le concepteur | **Prototype d'usage vestimentaire sobre, discret et plus formel** ; réfléchir aux marques intérieures ou amovibles | Ne pas imposer un QR ou signe ostentatoire visible qui détériorerait la silhouette ; **aucun usage en cérémonie ou fonction officielle n'est déclaré comme réalisé** |
+
+L'usage du **Bleu de Chine noir sous une veste habillée** relève d'une intention stylistique assumée : détourner un vêtement historiquement populaire en **signe de distinction discret, potentiellement haut de gamme**, compatible avec des circonstances de représentation si elles se présentent. Il permet d'étudier la tension entre travail, élégance, symbole identitaire et signes extérieurs de statut. **Il ne constitue ni une tenue protocolaire validée, ni une fonction, nomination ou représentation officielle acquise**.
+
+**Conséquence pratique immédiate :** pas besoin d'acheter trois vestes pour lancer la documentation et les comparaisons. L'exemplaire ancien est à **documenter avant toute intervention** ; le moderne bleu offre un support matériel possible de test ; le noir constitue un **témoin d'usage et d'ergonomie**, non un échantillon à altérer pour satisfaire un protocole. La fabrication, les tests de lavage et les coûts restent à réaliser et mesurer ; la disponibilité des pièces ne vaut pas résultat expérimental.
+
+Aucune association juridique automatique aux projets politiques, de campagne ou muséaux ne découle de la possession privée de ces vêtements. Toute cession, exposition, production ou diffusion fait l'objet d'une décision distincte.
+
 ## Prochaine étape à court terme : prototype zéro, indépendant de 3Code (13 novembre 2026)
 
 **Décision de méthode :** ne pas commencer par une collection, un catalogue commercial ou un système distribué. Première cible : **deux réalisations textiles non électorales sur des vêtements ordinaires**, avec une fiche numérique effectivement consultable et un test comparatif. Les commandes, prêts de matériel, achats, collaborations et publications de personnes sont des actes ultérieurs, non présumés effectués.
