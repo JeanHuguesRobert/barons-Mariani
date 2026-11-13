@@ -175,13 +175,17 @@ def main():
     index = ["<h1>Livres Vivants — versions publiques en préparation</h1>",
              "<p>Versions évolutives, non gelées. Les éditions gelées restent distinctes.</p>"]
     for name, cfg in BOOKS.items():
-        paths = [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", [])
+        # For Capable, begin with the reader-facing Livre. The editorial
+        # composition note belongs at the end, not ahead of chapter 00.
+        paths = (cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", [])
+                 + [cfg["edition"]] if name == "capable"
+                 else [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", []))
         sections, inputs = [], []
         included = set(paths)
         for path in paths:
             data = (ROOT / path).read_bytes()
             inputs.append({"path": path, "sha256": digest(data)})
-            title = ("Sommaire candidat" if path == cfg["edition"] else
+            title = ("Note de composition du numéro" if path == cfg["edition"] else
                      "Livre — " + Path(path).stem if path in cfg["chapters"] else
                      "Magazine — " + Path(path).stem if path in cfg.get("magazine", []) else
                      "Annexes — " + Path(path).stem if path in cfg.get("annexes", []) else Path(path).stem)
@@ -192,6 +196,13 @@ def main():
         book_digest = digest(json.dumps(inputs, sort_keys=True).encode("utf-8"))
         body = f"<h1>{escape(name)} — en préparation</h1><p class='meta'>PUBLIC · NON GELÉ · empreinte des sources {book_digest}</p>"
         body += "<p>Cette page rend le travail éditorial consultable. Elle ne constitue pas une édition définitive. Les sources liées font foi ; les inconnues demeurent ouvertes.</p>"
+        if name == "capable":
+            proposal = "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
+            body += ("<p><strong>Actualisation du 13 novembre 2026.</strong> "
+                     "Cette version réunit le Livre, le Magazine et les annexes (23 sources). "
+                     "<a href='#" + source_anchor(proposal) +
+                     "'>Lire la proposition constitutionnelle nationale de révision de l'article 72</a> "
+                     "et les textes doctrinaux associés.</p>")
         body += "<nav aria-label='Parties'><a href='#" + source_anchor(cfg["chapters"][0]) + "'>Livre</a> · <a href='#" + source_anchor(cfg.get("magazine", cfg["chapters"])[0]) + "'>Magazine</a> · <a href='#" + source_anchor(cfg.get("annexes", cfg["chapters"])[0]) + "'>Annexes</a></nav>" if name == "capable" else ""
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"

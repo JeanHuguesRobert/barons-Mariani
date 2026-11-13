@@ -37,7 +37,7 @@ review:
 ---
 # Capable — premier numéro, projection candidate de travail
 
-**État : en préparation — non gelé, non validé comme édition finale.** Ce document est un **assemblage de navigation vérifiable** vers les sources existantes. Il n'est ni un rendu HTML publié, ni un PDF, ni une édition souveraine distincte. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
+**État : en préparation — non gelé, non validé comme édition finale.** Ce document est le **plan de composition et de navigation vérifiable** vers les sources existantes. Sa projection publique de travail est désormais disponible en HTML, PDF et EPUB ; elle reste évolutive, non gelée, et ne remplace aucune édition définitive. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
 
 ## Actualisation du 13 novembre 2026 — proposition constitutionnelle nationale et sources de l'Autonomie de Capacité
 

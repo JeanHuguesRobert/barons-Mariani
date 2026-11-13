@@ -5,12 +5,8 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "d5e08336fd3e1f2ee46f08bd1e060a659ecd14a03e8537a63e31be5d36e65e3a",
+      "source_sha256": "824810c1bbd3eec77aa48f3d2ace94a46efc5f62978eb826fecb05b595b1eb8e",
       "inputs": [
-        {
-          "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "74a3ced72111f208abfc00a6f20e6e563c7fec055bf572f7b43b83798d443a79"
-        },
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
           "sha256": "daa44889f10a12b81d329f06440b93f6c251612131fe4f1530b856d6dd364dc6"
@@ -98,6 +94,10 @@
         {
           "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
           "sha256": "bd98e3da40b5fb4bbe0045def6771b3851086e3af8918ca239be0717dd5e512c"
+        },
+        {
+          "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
+          "sha256": "76d93970d6c388abb338223ac655f9f91e73f4795ba7cdf33b156f453357139f"
         }
       ]
     },
