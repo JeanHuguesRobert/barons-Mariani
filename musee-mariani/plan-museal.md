@@ -129,6 +129,8 @@ Trois familles de produits sont envisagées au départ :
 
 **Collaboration envisagée pour les Bleus de Chine :** Ange, *tragulinu*, connaît particulièrement bien ces vêtements et souhaite recentrer son activité sur eux. Son concours constitue une ressource humaine et commerciale identifiée par le porteur du projet. Les modalités exactes de collaboration (stock, achats, consignation, personnalisation, répartition des recettes, responsabilité envers les acheteurs) restent à formaliser ; ne pas présenter un accord contractuel comme déjà établi.
 
+**Terrain matériel effectivement disponible (déclaration du 13 novembre 2026) :** le concepteur possède à titre **personnel** trois Bleus de Chine : un ancien, un moderne bleu et un moderne noir porté comme chemise sous une veste habillée. L'ancien est destiné à une observation patrimoniale non destructive, le moderne bleu pourrait servir aux premiers essais réversibles, le noir illustre une interprétation vestimentaire habillée et discrète. **Ces pièces ne constituent ni une acquisition du Musée, ni un stock de la Boutique Mobile, ni une série produite, ni des vêtements déjà diffusés pour la Marche du Soleil.** Les photographies, l'identification des fabricants, les tests et toute éventuelle mise à disposition restent à réaliser ou décider. Voir le [guide de marquage, l'inventaire et le prototype zéro](methodes/bleu_chine_marquages_libres.md#trois-exemplaires-déjà-disponibles--déclaration-du-concepteur-13-novembre-2026) et [l'histoire culturelle et pastorale](../research/patrimoine/bleu_chine_corse_histoire_identitaire.md).
+
 ### Deux boucles complémentaires
 
 ```text
