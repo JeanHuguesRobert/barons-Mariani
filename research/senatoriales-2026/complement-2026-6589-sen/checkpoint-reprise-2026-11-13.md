@@ -25,7 +25,7 @@ Le checkpoint du 1er novembre de [#127](https://github.com/JeanHuguesRobert/baro
 ## Sélection de travail priorisée (PAS un bordereau d'envoi)
 | Priorité | Référence | Rôle déjà invoqué | Action / obstacle |
 |---|---|---|---|
-| P0 | P-13 vidéo | G2/G3/G4, consentement et preuve contemporaine | Retrouver en privé `VID_20260911_174455.mp4` ; vérifier taille et SHA natifs, sans recompression ; ancien repère : 79 663 474 octets / `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ; chaîne de détention et canal actuel UNKNOWN |
+| P0 | P-13 vidéo | G2/G3/G4, consentement et preuve contemporaine | **RÉSOLU le 13/11** : copie Drive ID `1P0AIJ-FzX69xkd4-kQyujbJg2nGqRbtC` récupérée en binaire, 79 663 474 octets, SHA-256 recalculé `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` (identique au repère historique) ; durée ffprobe 58,137778 s. Production au CC et validité du canal UNKNOWN. |
 | P0 | P-12 et P-43.a | G2/G4, chronologie et demande d'assistance | Extraire les originaux privés, dater précisément émission/éventuelle réception ; minimiser les adresses et les liens secrets |
 | P0 | P-17 et P-18 | G2/G3, acte manuscrit et handicap | Recontrôler originaux, sélectionner extraits utiles, expurger les données de santé non nécessaires ; AAH ≠ preuve automatique de l'empêchement précis |
 | P1 | P-06/P-09/P-10/P-11 | G1/G4, formalisme et guichet | Identifier copies effectivement citées/reproduites dans la requête et doublons ; limiter la remise aux éléments indispensables |
@@ -34,6 +34,13 @@ Le checkpoint du 1er novembre de [#127](https://github.com/JeanHuguesRobert/baro
 | P2 | P-27/P-39 à P-41 | G5, incidence électorale | Garder comme pièces du grief initial, sans attribuer de vote individuel ni présumer un second tour probable |
 
 Les références non énumérées ici restent dans la matrice initiale : **pas d'exclusion définitive sans confrontation des références P citées à la requête v0.34**. Pour chaque sélection, exiger une source localisée et un artefact final réellement présent, avec `reference_originale / page_requete / grief / source / date / taille / SHA / minimisation / canal / statut`. Tout manquant est UNKNOWN/BLOCKED, jamais READY.
+
+## Constat matériel nouveau : accès à P-13 et permissions (13 novembre 2026)
+- Accès ciblé par identifiant Drive historique, qui résout le faux négatif de la recherche par nom du 10 novembre. Fichier `VID_20260911_174455.mp4`, créé sur Drive le 11 septembre 2026 à 15:52:17Z, modifié à 15:53:33Z (horaires de stockage, **pas** métadonnées de prise de vue).
+- Binaire complet téléchargé depuis Drive connecté dans l'environnement de traitement ; taille effectivement mesurée = **79 663 474 octets** ; SHA-256 effectivement recalculé = `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8`. `ffprobe` identifie MP4, durée **58,137778 s**. Résultat **PASS pour identité de la copie Drive avec l'empreinte historique**, pas pour réception administrative ou conformité L.299.
+- Visibilité retournée par Drive : `shared=true`, permission `anyone/commenter`, `allowFileDiscovery=false`. Ce **n'est pas un partage strictement privé** ; peut tenir au lien utilisé en septembre. Décider du maintien ou changement de permission selon conservation de la preuve, accès existant des destinataires et confidentialité : ne pas modifier automatiquement.
+- Les dossiers TA 2601714 et 2601715 existent sur Drive, non partagés, tailles respectives **12 000 594** et **12 219 819** octets (métadonnées à date ; pas de rehash de ces deux PDF).
+- Le fichier natif téléchargé reste hors du dépôt GitHub public ; ne pas y inscrire de lien d'accès temporaire ni d'informations sensibles supplémentaires.
 
 ## Distinctions juridiques à maintenir
 1. L.299 (acceptation, mention, signature), L.301 (deux exemplaires), R.99 (« papier libre ») et R.149 ne se confondent pas. Ne pas prétendre que le droit électoral exclut toute référence au papier ; ne pas déduire automatiquement de « papier libre » l'obligation ou la dispense de présentation d'un original physique.
@@ -45,7 +52,7 @@ Les références non énumérées ici restent dans la matrice initiale : **pas d
 
 ## Séquence exécutable et dépendances
 1. **#131** : produire une sélection active **nouvelle**, séparée du CSV historique, à partir de toutes les citations de la requête initiale ; vérifier doublons et sources privées. Avant d'y inscrire READY, vérifier les artefacts finaux.
-2. **#132** : retrouver les octets actuels P-13, vérifier SHA et description non sensible ; obtenir les conditions de dépôt applicables à date, sans présumer validité de l'ancien TransfertPro.
+2. **#132** : localisation et SHA P-13 **PASS le 13/11** ; prochaine action : vérifier chronologie d'origine et conditions de dépôt applicables à date, sans présumer validité de l'ancien TransfertPro.
 3. **#133** : produire un bref courrier de communication de pièces, bordereau exact des fichiers prêts et manifeste ; **pas** de QPC ni mémoire argumentatif ajoutés par le mode historique.
 4. **#134** : contrôle adverse des fichiers, de leur confidentialité, des SHA finaux, de la correspondance avec le courrier et des canaux ; contrôle de l'existence éventuelle d'une décision déjà rendue.
 5. **#127** : soumettre au Principal le lot vérifié et les seules décisions substantielles restantes, puis STOP avant toute communication externe.
@@ -56,7 +63,7 @@ Les références non énumérées ici restent dans la matrice initiale : **pas d
 | Mandat actif identifié et séparé du plan historique | PASS |
 | Inventaire GitHub historique identifié | PASS |
 | Sélection actuelle exhaustive et sans doublons | UNKNOWN |
-| P-13 actuel localisé et SHA recalculé | UNKNOWN |
+| P-13 actuel localisé et SHA recalculé | **PASS** (Drive ID historique ; binaire téléchargé le 13/11 ; 79 663 474 octets ; SHA-256 confirmé) |
 | Autres copies privées finales produites et expurgées | UNKNOWN |
 | Décision du Conseil et validité actuelle du canal vérifiées | UNKNOWN |
 | Manifeste SHA des fichiers finaux | BLOCKED |
