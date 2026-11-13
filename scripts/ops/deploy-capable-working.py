@@ -101,6 +101,14 @@ def localize_site_page(page):
                 .replace(raw + "capable.epub", "candidate.epub"))
 
 
+
+def comparable_release_receipts(previous, requested):
+    """Allow only a changed source commit for an identical immutable release."""
+    normalize = lambda receipt: {
+        key: value for key, value in receipt.items() if key != "revision"
+    }
+    return normalize(previous) == normalize(requested)
+
 def perform(repo, site_root, revision, apply):
     if not re.fullmatch(r"[0-9a-f]{40}", revision):
         raise ValueError("Revision must be an immutable 40-digit Git SHA")
@@ -154,8 +162,13 @@ def perform(repo, site_root, revision, apply):
         fcntl.flock(lock, fcntl.LOCK_EX)
         if dest.exists():
             stored = json.loads((dest / "candidate-deploy.json").read_text())
-            if stored != results:
-                raise ValueError("Existing release differs from expected receipt")
+            # A later commit may change unrelated Corpus files without changing
+            # a single deployed byte. The immutable release is content-addressed:
+            # keep the original creation revision as provenance, rather than
+            # rejecting an otherwise byte-identical deployment.
+            if not comparable_release_receipts(stored, results):
+                raise ValueError("Existing release differs from expected contents")
+            results = dict(stored)
         else:
             staging = Path(tempfile.mkdtemp(prefix=".capable-work-", dir=releases))
             try:

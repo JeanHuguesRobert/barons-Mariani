@@ -69,6 +69,19 @@ def main():
         assert again["release"] == new["release"]
         assert len(list(releases.iterdir())) == 2
         assert (root / "current").resolve() == active
+
+        # FBF regression: an unrelated commit advances origin/main while the
+        # working edition's immutable content stays byte-for-byte identical.
+        # This must reuse the release instead of failing on its older revision.
+        from importlib.util import module_from_spec, spec_from_file_location
+        spec = spec_from_file_location("capable_deployer", DEPLOY)
+        module = module_from_spec(spec)
+        spec.loader.exec_module(module)
+        expected = dict(receipt)
+        expected["revision"] = "a" * 40
+        assert module.comparable_release_receipts(receipt, expected)
+        expected["input_count"] += 1
+        assert not module.comparable_release_receipts(receipt, expected)
         print("CANONICAL_DEPLOY_TEST_PASS", new["release"],
               "source_count", new["input_count"], "idempotent", True)
 
