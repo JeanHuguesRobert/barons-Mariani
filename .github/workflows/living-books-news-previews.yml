@@ -288,7 +288,9 @@ jobs:
               "https://capable.acorsica.org/candidate.$ext"
           done
           curl --fail --show-error --silent \
-            https://capable.acorsica.org/en-preparation.html | grep -q candidate.html
+            https://capable.acorsica.org/en-preparation.html | grep -q cases.html
+          curl --fail --show-error --silent \
+            https://capable.acorsica.org/cases.html | grep -q "brouillons non relus"
           echo "CANONICAL_WORKING_EDITION_PUBLISHED"
       - name: Archive canonical deployment receipt
         if: always()

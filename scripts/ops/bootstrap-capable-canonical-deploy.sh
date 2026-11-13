@@ -100,7 +100,7 @@ def get(path):
 served=json.loads(get('candidate-deploy.json'))
 assert served['release']==expected['release']
 assert served['source_sha256']==expected['source_sha256']
-for part in ['candidate.html','candidate.pdf','candidate.epub','en-preparation.html']:
+for part in ['candidate.html','candidate.pdf','candidate.epub','en-preparation.html','cases.html']:
     assert get(part)
 html=get('candidate.html').decode('utf-8')
 assert 'Les collectivités territoriales ont droit aux adaptations' in html

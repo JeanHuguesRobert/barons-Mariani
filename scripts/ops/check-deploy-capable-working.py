@@ -62,7 +62,14 @@ def main():
         assert "candidate.html" in (
             active / "en-preparation.html"
         ).read_text(encoding="utf-8")
+        cases = (active / "cases.html").read_text(encoding="utf-8")
+        assert "Les Cas du Réel" in cases
+        assert "brouillons non relus" in cases
+        assert 'href="cases.html"' in (
+            active / "en-preparation.html"
+        ).read_text(encoding="utf-8")
         receipt = json.loads((active / "candidate-deploy.json").read_text())
+        assert receipt["case_page_sha256"] == hashlib.sha256(cases.encode("utf-8")).hexdigest()
         assert receipt["source_sha256"] == new["source_sha256"]
         assert len(list(releases.iterdir())) == 2
         again = run(revision, root, True)

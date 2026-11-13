@@ -71,7 +71,14 @@ def read_candidate(repo, revision):
     ).decode("utf-8")
     if "en préparation" not in site_page and "en-preparation" not in site_page:
         raise ValueError("Unexpected canonical working page")
-    return files, item, site_page
+    case_page = git_blob(
+        repo, revision, "projects/capable/site/cases.html"
+    ).decode("utf-8")
+    if ('https://capable.acorsica.org/cases.html' not in case_page
+            or "brouillons non relus" not in case_page
+            or "case-05-dematerialisation" not in case_page):
+        raise ValueError("Unexpected Case du Reel index page")
+    return files, item, site_page, case_page
 
 
 def new_homepage(old):
@@ -118,7 +125,7 @@ def perform(repo, site_root, revision, apply):
     ).strip()
     if ref != revision:
         raise ValueError("origin/main advanced; refresh and retry")
-    files, item, site_page = read_candidate(repo, revision)
+    files, item, site_page, case_page = read_candidate(repo, revision)
     resolved = site_root.resolve()
     releases = resolved / "releases"
     current = resolved / "current"
@@ -139,7 +146,7 @@ def perform(repo, site_root, revision, apply):
     version = digest(
         files["capable.html"] + files["capable.pdf"] +
         files["capable.epub"] + new_page.encode("utf-8") +
-        new_home.encode("utf-8") +
+        case_page.encode("utf-8") + new_home.encode("utf-8") +
         "".join(durable_hashes.values()).encode("ascii")
     )[:16]
     dest = releases / f"capable-work-{version}"
@@ -151,6 +158,7 @@ def perform(repo, site_root, revision, apply):
         "input_count": len(item["inputs"]),
         "durable_book_sha256": durable_hashes,
         "release": dest.name,
+        "case_page_sha256": digest(case_page.encode("utf-8")),
         "files": {name: digest(files[name]) for name in PREVIEW},
     }
     if not apply:
@@ -188,6 +196,9 @@ def perform(repo, site_root, revision, apply):
                 )
                 (staging / "en-preparation.html").write_text(
                     new_page, encoding="utf-8"
+                )
+                (staging / "cases.html").write_text(
+                    case_page, encoding="utf-8"
                 )
                 (staging / "index.html").write_text(new_home, encoding="utf-8")
                 (staging / "candidate-deploy.json").write_text(
