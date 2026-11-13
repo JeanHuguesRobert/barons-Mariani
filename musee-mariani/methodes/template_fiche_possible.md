@@ -175,7 +175,7 @@ Le GGF doit gérer un **portefeuille évolutif** : deux pilotes plus avancés (B
 | **Culture du Blé** | Cultures/moissons historiques à Minesteggio et [notice existante](../ateliers/ble_minesteggio_2019_2027.md) | Savoir-faire, identification des semences, concours effectif d'U Granu Anticu, saison et accueil | Protocole de campagne, mémoire longue, parcours pédagogique |
 | **Culture de l'Âne** | Rossignol, observation quotidienne et campagne de retour de l'âne corse en milieu urbain | Bien-être de l'animal, sécurisation des situations, responsabilités et acceptabilité urbaine | Journal probatoire et médiation respectueuse du vivant ; aucun contact public présumé autorisé |
 | **Huiles essentielles** | [Fiche de possible déjà disponible](../ateliers/atelier_huiles_essentielles.md) et étude de la distillation | Matières premières, équipements, opérateurs compétents, sécurité, usages et cadres réglementaires distincts | Scénario de démonstration sans allégation thérapeutique, matrice de conformité par destination |
-| **Bleus de Chine** | [Recherche patrimoniale sur les textiles bleus](../../research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md) et [protocole « Bouteille à la mer »](bouteille_a_la_mer.md) | Fabrication/personnalisation des exemplaires uniques, marquage durable, consentement des porteurs, droits et maintenance du dispositif numérique | Spécification d'un objet textile singulier, identifié et associé à une mission documentée |
+| **Bleus de Chine** | [Recherche patrimoniale sur les textiles bleus](../../research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md), [protocole « Bouteille à la mer »](bouteille_a_la_mer.md) et **trois exemplaires personnels déclarés** (ancien, moderne bleu, moderne noir) | Documentation matérielle différée, essais non destructifs et réversibles, consentement, droits et identification numérique | Observation comparative à partir des pièces existantes, puis **prototype zéro** reproductible avant toute diffusion |
 
 ### Spécificité de l'Atelier Bleus de Chine
 
@@ -192,6 +192,14 @@ port du vêtement ≠ consentement à la géolocalisation ou à la publication
 ```
 
 Séparer la couche textile (coupe, matière, fabrication, singularisation et conservation) de la couche documentaire (identifiant, biographie d'objet, mission et protocole de contribution). Un code QR peut ouvrir un point d'entrée, mais ne doit pas devenir l'unique moyen de conserver l'identité ni prétendre prouver l'authenticité du porteur. Toute contribution concernant des personnes, notamment pour l'annuaire de la diaspora, reste volontaire et soumise aux règles de vie privée du projet concerné.
+
+### État du terrain matériel — trois exemplaires personnels déclarés (13 novembre 2026)
+
+Le concepteur signale disposer déjà de **trois vêtements personnels** : **un Bleu de Chine ancien**, **un moderne bleu**, et **un moderne noir** qu'il utilise comme **chemise sous une veste habillée**, dans une recherche de distinction discrète et d'un usage éventuellement plus formel. Ces qualificatifs et usages sont déclarés : **ni photographie, ni datation, ni teinture, ni provenance matérielle n'ont encore été contrôlées** ; les photos seront prises ultérieurement.
+
+**Conséquence opératoire :** conserver l'ancien comme témoin patrimonial sans lavage ni personnalisation irréversible ; tester en priorité des étiquettes ou chutes indépendantes et, facultativement, le moderne bleu avec un marquage réversible ; conserver le noir comme témoin d'usage habillé et d'ergonomie. **Possession personnelle ≠ stock de la Boutique Mobile ≠ mise à disposition de la Marche du Soleil**. Les personnes et structures émettrices, les droits et les dépenses seront clarifiés avant toute cession ou communication publique au nom d'un projet. Les vêtements ne sont pas supposés avoir été montrés ni utilisés dans un cadre officiel.
+
+Voir [l'inventaire déclaratif et le prototype zéro actualisé](bleu_chine_marquages_libres.md#trois-exemplaires-déjà-disponibles--déclaration-du-concepteur-13-novembre-2026). Cela transforme la disponibilité d'échantillons en **capacité de commencer l'observation**, pas encore en résultat d'expérimentation ou activité ouverte.
 
 ### Le Bleu de Chine comme manuscrit cumulatif — hypothèse de conception (13 novembre 2026)
 
@@ -221,7 +229,9 @@ Dans le dossier public, distinguer **déclaration**, **document présenté**, **
 
 **Priorité opérationnelle formulée par le concepteur : faciliter la multiplication et la circulation volontaire de Bleus de Chine « Marche du Soleil »**, pas maximiser d'abord le degré de sophistication ou la valeur probatoire de chaque pièce. Distinguer les qualités juridiques des acteurs et ne pas assimiler le port d'un vêtement à un soutien politique. Publier des gabarits, recettes, outils et tests accessibles, comparant temps, coût, lisibilité, lavage, réparabilité, et liberté d'adaptation. Voir [Guide de marquage libre](bleu_chine_marquages_libres.md) et le [document de travail Marche du Soleil](../../projects/capable/campaign/marche-du-soleil.md).
 
-La mise en récit du symbole corse, particulièrement associé dans la mémoire contemporaine au berger et au travail agropastoral, dispose désormais d'une [présentation historique à Double Lecture](../../research/patrimoine/bleu_chine_corse_histoire_identitaire.md). Ne pas confondre cette histoire sociale et la création récente de supports 3Code ou QR. Les procédés possibles de marquage sont maintenus dans le [catalogue ouvert d'idées](bleu_chine_marquages_libres.md#inventaire-ouvert--idées-pour-attacher-le-couple-3code--qr).\n\n### Conséquence pour le générateur
+La mise en récit du symbole corse, particulièrement associé dans la mémoire contemporaine au berger et au travail agropastoral, dispose désormais d'une [présentation historique à Double Lecture](../../research/patrimoine/bleu_chine_corse_histoire_identitaire.md). Ne pas confondre cette histoire sociale et la création récente de supports 3Code ou QR. Les procédés possibles de marquage sont maintenus dans le [catalogue ouvert d'idées](bleu_chine_marquages_libres.md#inventaire-ouvert--idées-pour-attacher-le-couple-3code--qr).
+
+### Conséquence pour le générateur
 
 Le moteur commun génère en fonction du niveau de maturité : **fiche d'idée et dépendances** pour un atelier naissant ; **protocole de test** lorsqu'un terrain existe ; **fiche visiteur et conditions d'accueil** seulement lorsque la pratique est suffisamment instruite ; **bilan et propagation** après observation. Il n'invente ni partenaire confirmé, ni résultat de campagne, ni objet fabriqué, ni activité ouverte au public.
 
