@@ -5,8 +5,8 @@
   "inputs": 23,
   "pdf": {
     "path": "capable.pdf",
-    "sha256": "eccaaef12ea4cb2ade7be63b86c4ca4ad7a0d9a1852d468a1ff2cf9352f72bc5",
-    "bytes": 822678
+    "sha256": "ef1405604cff6dbd7dcee1a4214d7bf434996d2ab723efdebbd3ed732286de2b",
+    "bytes": 818334
   },
   "epub": {
     "path": "capable.epub",
