@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "abf36fd94301933a25ccd7e2196e5ce3f23f450ddc94041dce44b95112a1870f",
+      "source_sha256": "1cd5695e34b688ebdab07b8bb115c3eda885c15769ba95755427ccd9843fa73c",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
-          "sha256": "daa44889f10a12b81d329f06440b93f6c251612131fe4f1530b856d6dd364dc6"
+          "sha256": "763f3c1240022149ac1b272586bf5d87032edc581f4933b38d43e30969466d7a"
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
@@ -37,7 +37,7 @@
         },
         {
           "path": "projects/capable/manuscript/07-campagnes-comme-reality-tests.md",
-          "sha256": "28d4e60109556add9c2d4b9caff603f7b892df157bc247ffb39c9bad18992bad"
+          "sha256": "f5645df16c6ac921e97ccbbb5d31110f19b61d8b9134f8455e2bd5bcdb31fcc5"
         },
         {
           "path": "projects/capable/manuscript/08-presidentielle-2027.md",
@@ -49,7 +49,7 @@
         },
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
-          "sha256": "de5b2c8a64c623bcefed0566401ba987e26bd8d5b3beb01151a8f860a67f5ee6"
+          "sha256": "c83bd1ed16d31e966aa95ac254bf74c5a374c0b1830fc2b4048646757c7ffd8f"
         },
         {
           "path": "projects/capable/magazine/2026-10-28-autonomie-corse.md",

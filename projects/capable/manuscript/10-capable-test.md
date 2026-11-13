@@ -66,6 +66,21 @@ Chaque palier fait l'objet d'un examen empirique sur pièces et traces observabl
 
 ---
 
+## De la grille aux traces — articulation EIM
+
+L'ancien brouillon du Capable Test liait chaque palier à une **Matrice d'Interaction d'Effectivité (EIM)**. Ce lien reste pertinent : un résultat ne peut être établi à partir d'une qualification doctrinale sans trace d'une demande, de son destinataire, de sa réponse et de l'effet observable.
+
+La chaîne documentaire proposée est :
+
+    Sujet → Demande et effet attendu → Autorité ou acteur visé
+          → Déclencheur et date → Réponse, silence ou réorientation
+          → Pièces et provenance → Effet sur la capacité
+          → Délai, recours et continuation
+
+Il faut notamment distinguer YES (effet demandé observé), PARTIAL (effet partiel), REFUSED (refus explicite), ROUTED (réorientation), SILENCE (absence de réponse après un délai défini), PENDING (instruction encore ouverte) et UNKNOWN (preuves insuffisantes). Ces étiquettes servent à décrire un état documenté ; elles ne prouvent pas, par elles-mêmes, la légalité du comportement ou l'intention de son auteur.
+
+Les cinq [Cas du Réel en préparation](../cases/README.md) offrent des questions d'épreuve, non des résultats d'audit tous validés. La [grille « Moyens et finalités »](../../../research/moyens_et_finalites.md) et la [spécification EIM dans Cogentia](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_interaction_matrix.md) servent de références. Il faut conserver les sources, le droit applicable, la possibilité de contradiction et les conséquences temporelles d'un empêchement.
+
 ## Un cas d'instruction : le statut de résident
 
 La [Note de Campagne sur le statut de résident](../../../research/autonomia/note_campagne_statut_resident_effectivite.md) permet d'illustrer la chaîne sans conclure à la place de l'enquête. Il faut d'abord instruire la possibilité juridique de la règle, puis ses objectifs déclarés (par exemple l'accès au logement), les moyens d'en bénéficier et les conséquences qu'il serait possible d'observer. Une évaluation contradictoire devrait examiner aussi les situations des personnes exclues du dispositif, ses contournements éventuels et les effets différenciés selon les territoires.

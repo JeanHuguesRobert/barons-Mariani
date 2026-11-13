@@ -36,6 +36,17 @@ Une campagne électorale est d’abord une séquence politique. *Capable* propos
 
 Cela ne transforme pas l’élection en expérience contrôlée. Cela signifie que certaines hypothèses peuvent être écrites avant les résultats, confrontées à des traces, puis maintenues, corrigées ou abandonnées.
 
+## Protocole de campagne comme Reality Test
+
+Un brouillon de septembre-octobre 2026 explicitait quatre exigences, conservées ici comme **protocole proposé** et non comme bilan automatiquement acquis :
+
+1. **Hypothèses préalables** : consigner avant l'action les obstacles présumés, les moyens disponibles, les dépendances et les résultats dont la réalisation ou l'absence ferait changer l'analyse.
+2. **Traces proportionnées** : enregistrer les contacts institutionnels, demandes, dates, réponses et pièces communicables avec leur provenance, en respectant la confidentialité, les données personnelles et le mandat de publication. Une interaction privée n'est pas publiable du seul fait de son intérêt probatoire.
+3. **Incertitudes conservées** : distinguer refus, absence de réponse, impossibilité matérielle, instruction encore ouverte et absence de preuve. Ni le silence ni une intention ne doivent être automatiquement qualifiés de succès ou de faute.
+4. **Bilan après l'échéance** : séparer les résultats électoraux vérifiables, les hypothèses confirmées ou réfutées, les effets durables obtenus et les corrections requises. Une défaite électorale n'est ni une victoire morale par décret ni une preuve automatique d'inutilité.
+
+Les [matrices d'interaction du Corpus](../../../research/moyens_et_finalites.md) offrent un instrument de description, mais ne remplacent ni les sources primaires ni le jugement contradictoire.
+
 ## Première campagne : Sénatoriales 2026 — Campagne du Réel
 
 La candidature sénatoriale de Haute-Corse de septembre 2026, menée sous le nom de **Campagne du Réel**, en est la première instance documentée. Son [dossier canonique](../../../research/senatoriales-2026/README.md) rassemble la chronologie probatoire, les sources, la matrice des connaissances et inconnues ainsi que les traces institutionnelles.

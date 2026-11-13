@@ -43,6 +43,12 @@ Cette question vaut à plusieurs échelles : personne, collectif, commune, terri
 
 Le Livre ne promet pas un résultat. Il propose une méthode : rendre les capacités observables, leurs conditions explicites, leurs obstacles contestables et leurs effets corrigibles.
 
+## Trois rôles à ne pas confondre
+
+Le projet distingue **C.O.R.S.I.C.A.**, association porteuse d'une histoire et de travaux sur l'autonomie ; **Capable**, mouvement civique et doctrine de mise à l'épreuve des capacités ; et le **véhicule électoral éventuel** permettant, dans les conditions du droit applicable, de participer à une échéance électorale. La proximité des acteurs et des idées ne confond pas les personnes morales, leurs patrimoines, leurs mandats ni leurs responsabilités.
+
+L'organisation de ce véhicule et ses formalités effectives doivent être vérifiées dans les [dossiers de campagne](../campaign/architecture-des-campagnes.md), plutôt que déduites du seul discours politique. L'existence d'une idée ou d'un instrument technique ne prouve pas la création d'une structure juridique.
+
 ## Capable n’est pas un verdict
 
 Dire qu’un système doit devenir plus capable ne signifie pas déclarer ses acteurs incapables. Le mot porte ici sur les **conditions d’action**.
