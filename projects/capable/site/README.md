@@ -66,7 +66,7 @@ La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel éta
 
 Les 23 sources du [n°1 en préparation](../editions/2026-10-28-projection-candidate-n1.md), comprenant la [proposition nationale de révision constitutionnelle de l'article 72](../doctrine/revision_constitutionnelle_article_72.md), sont assemblées en [HTML](../../../previews/en-preparation/capable.html), [PDF](../../../previews/en-preparation/capable.pdf) et [EPUB](../../../previews/en-preparation/capable.epub), avec [reçus et empreintes](../../../previews/en-preparation/capable-formats.json).
 
-**La mise en ligne des fichiers source sur GitHub est accomplie.** Leur exposition directe sous `/candidate.html`, `/candidate.pdf` et `/candidate.epub` sur le site Fracta2 reste une opération de déploiement distincte ; ne pas prétendre que l'ancien `/book.html` héberge déjà cette candidate.
+**La prévisualisation HTML est déjà consultable en ligne** sur [GitHub Pages](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), avec PDF et EPUB téléchargeables depuis le dépôt. Leur exposition directe sous `/candidate.html`, `/candidate.pdf` et `/candidate.epub` sur le site Fracta2 reste un déploiement distinct ; l'ancien `/book.html` n'héberge pas encore cette candidate.
 
 ## État constaté au 28 octobre 2026 — projection ≠ source
 

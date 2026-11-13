@@ -35,9 +35,9 @@ provenance:
 **Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
 
 **Nouvelle version publique « en préparation » (13 novembre 2026, non gelée) :**
-[Lire la projection HTML](../../previews/en-preparation/capable.html) ·
-[Télécharger le PDF](../../previews/en-preparation/capable.pdf) ·
-[Télécharger l'EPUB](../../previews/en-preparation/capable.epub) ·
+[Lire la version HTML en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) ·
+[Télécharger le PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf) ·
+[Télécharger l'EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) ·
 [Consulter l'empreinte et les 23 sources](../../previews/en-preparation/manifest.json).
 
 Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.

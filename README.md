@@ -93,7 +93,7 @@ Les **Livres Vivants** associent un travail documentaire durable, des éditions 
 | Livre Vivant | Lire en ligne | Sources et suivi dans ce dépôt |
 |---|---|---|
 | 1755 — constitutionnalisme corse | [1755.acorsica.org](https://1755.acorsica.org/) | [Projet 1755](projects/1755/README.md) |
-| Capable — Autonomie de Capacité | [capable.acorsica.org](https://capable.acorsica.org/) | [Projet Capable](projects/capable/README.md) |
+| Capable — Autonomie de Capacité | [Site Capable](https://capable.acorsica.org/) · [Lire l'édition en préparation](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) | [Projet Capable](projects/capable/README.md) |
 | Commons — biens communs | [commons.acorsica.org](https://commons.acorsica.org/) | [Projet Commons](projects/commons/README.md) |
 | Diaspora — Corses du monde | [diaspora.acorsica.org](https://diaspora.acorsica.org/) | [Projet Diaspora](projects/diaspora/README.md) |
 | Institut Mariani | [institut.acorsica.org](https://institut.acorsica.org/) | [Projet Institut](projects/institut/README.md) |
