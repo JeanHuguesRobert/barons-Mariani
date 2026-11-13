@@ -3,10 +3,12 @@
   "status": "en-preparation-non-gele",
   "source_sha256": "1cd5695e34b688ebdab07b8bb115c3eda885c15769ba95755427ccd9843fa73c",
   "inputs": 34,
+  "html_sha256": "e93709b8f06b102ea1233494297bc02057998f2406e1e797bc6e8861c856b49a",
+  "renderer_sha256": "241e8b57aabd0f5690d0781878ecda81fc261624234cdd1f8124af58b5340cfb",
   "pdf": {
     "path": "capable.pdf",
-    "sha256": "f63ec12d60b3be2d2148c2a530fb9573206b7ea620cf2e8a00808a30f359cf19",
-    "bytes": 1188082
+    "sha256": "8479bcf9d7f5689ba7e9bd015c77088423684d6d00cc1790de9ecc54de8d2382",
+    "bytes": 1194030
   },
   "epub": {
     "path": "capable.epub",

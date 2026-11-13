@@ -76,6 +76,8 @@ Le Livre Vivant permet de :
 
 - [architecture.md](architecture.md) — structure du Livre Vivant ;
 - [sources.md](sources.md) — politique de sources et registre initial ;
+- [Dossier de travail — archives de jeunesse](cases/case-01-sources-jeunesse-bonaparte-ajaccio.md) — question de recherche, non résultats d'archives établis ;
+- [Registre des éditions](editions/index.md) — projections, états et gels à distinguer ;
 - [contribuer.md](contribuer.md) — contribution, contradiction, droit de réponse ;
 - [site/README.md](site/README.md) — contrat de publication de `napoleon.acorsica.org`.
 

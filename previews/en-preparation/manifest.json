@@ -159,15 +159,23 @@
     {
       "id": "1755",
       "page": "1755.html",
-      "source_sha256": "2137501f9260053e6d1ed70400807a76e25ca86637f492609a0d3e5029191390",
+      "source_sha256": "be41f9e75b856956bfd87ee4dbc9224ee300dfa56f462cda2482855afbac7294",
       "inputs": [
         {
           "path": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
-          "sha256": "c374a4c6c1b4b9fe1fceb7a09f411e8030759073b7300b407750a7296bd2d9a8"
+          "sha256": "87509f909176d7770cbacd1af14f3a3b89cf6542e0be2c583ad966670bc636e4"
         },
         {
           "path": "projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md",
           "sha256": "abb624a9c570efd8e2e91fd5c37b6e74b08624b838636fe7c4103e2fa4553b15"
+        },
+        {
+          "path": "projects/1755/cases/case-01-dieta-generale-1755.md",
+          "sha256": "323796135c83d020d1477fb47ab7189ca6d30c7b9c73ba580af022e5a1c88f53"
+        },
+        {
+          "path": "projects/1755/cases/case-02-reception-transnationale-boswell.md",
+          "sha256": "fb84b739fffca00594e7592a1830081d8e25fac5c4b61b91da1c3f89f0ceeffa"
         }
       ]
     },

@@ -64,6 +64,10 @@ BOOKS = {
     "1755": {
         "edition": "projects/1755/editions/2026-10-09-rc1-en-preparation.md",
         "chapters": ["projects/1755/manuscript/n1/05-epilogue-lheritage-et-les-possibles-contemporains.md"],
+        "cases": [
+            "projects/1755/cases/case-01-dieta-generale-1755.md",
+            "projects/1755/cases/case-02-reception-transnationale-boswell.md",
+        ],
     },
     "rise-and-fall": {
         "edition": "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/README.md",

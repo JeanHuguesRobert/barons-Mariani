@@ -124,6 +124,44 @@ def produce_pdf():
     return target
 
 
+def reusable_receipt(item, html):
+    """Reuse valid companions when the sources and renderer did not change.
+
+    Chromium PDF output can change between otherwise identical invocations.
+    A verified cached PDF is a stronger artifact than a fresh byte-wise drift.
+    """
+    receipt_file = OUT / "capable-formats.json"
+    if not receipt_file.is_file():
+        return None
+    try:
+        receipt = json.loads(receipt_file.read_text(encoding="utf-8"))
+        checks = (
+            receipt.get("source_sha256") == item["source_sha256"],
+            receipt.get("inputs") == len(item["inputs"]),
+            receipt.get("html_sha256") == digest(html.encode("utf-8")),
+            receipt.get("renderer_sha256") == digest(Path(__file__).read_bytes()),
+            receipt.get("status") == "en-preparation-non-gele",
+        )
+        if not all(checks):
+            return None
+        for kind, prefix in (("pdf", b"%PDF-"), ("epub", b"PK")):
+            metadata = receipt[kind]
+            if metadata["path"] != f"capable.{kind}":
+                return None
+            artifact = OUT / metadata["path"]
+            payload = artifact.read_bytes()
+            if (not payload.startswith(prefix)
+                    or metadata["sha256"] != digest(payload)
+                    or metadata["bytes"] != len(payload)):
+                return None
+        with ZipFile(OUT / "capable.epub") as z:
+            if z.testzip() is not None:
+                return None
+        return receipt
+    except (OSError, KeyError, ValueError, TypeError):
+        return None
+
+
 def main():
     manifest = json.loads((OUT / "manifest.json").read_text(encoding="utf-8"))
     item = next(book for book in manifest["books"] if book["id"] == "capable")
@@ -134,6 +172,10 @@ def main():
         "Actualisation du 13 novembre 2026",
     )):
         raise ValueError("Existing HTML is not the expected 13-Nov Capable candidate")
+    cached = reusable_receipt(item, html)
+    if cached is not None:
+        print(json.dumps({"outcome": "REUSED_VERIFIED", **cached}, ensure_ascii=False))
+        return
     meta = SOURCE.read_text(encoding="utf-8")
     match = re.search(r'^last_modified_at:\s*["\']?(\d{4}-\d{2}-\d{2})', meta, re.M)
     if not match:
@@ -146,6 +188,8 @@ def main():
         "status": "en-preparation-non-gele",
         "source_sha256": item["source_sha256"],
         "inputs": len(item["inputs"]),
+        "html_sha256": digest(html.encode("utf-8")),
+        "renderer_sha256": digest(Path(__file__).read_bytes()),
         "pdf": {"path": pdf.name, "sha256": digest(pdf.read_bytes()), "bytes": pdf.stat().st_size},
         "epub": {"path": epub.name, "sha256": digest(epub.read_bytes()), "bytes": epub.stat().st_size},
     }

@@ -51,6 +51,12 @@ Applications contemporaines documentées, avec séparation stricte entre analogi
 - **Annexes** : sources, cartes, tableaux, bibliographies ;
 - **Site** : recherche, chronologie, campagnes, concepts, Twin et tests.
 
+## Janus — séparation et correction
+
+Le regard vers le passé vise des propositions historiques traçables, argumentées et soumises aux sources. Le regard vers le futur accueille les inférences et modèles du *Provisional Cogentia Twin* comme des constructions révisables, **jamais comme un témoignage de Napoléon**.
+
+La correction porte d'abord sur les faits et sur leur qualification ; l'édition, la présentation et la projection peuvent changer librement sans transformer une hypothèse du Twin en document d'archive. Toute objection pertinente doit conserver sa provenance et le chemin de correction. Ce principe réconcilie l'architecture historique d'octobre 2026 avec le modèle à quatre couches déjà en vigueur.
+
 ## 3. Registre épistémique
 
 Chaque assertion importante doit pouvoir recevoir un statut :

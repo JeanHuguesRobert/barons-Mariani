@@ -35,6 +35,10 @@ La commission des lois du Sénat avait annoncé une audition de Françoise Gatel
 4. **Livre** : enrichissement seulement lorsque le fait modifie substantiellement le raisonnement, et toujours sans détruire la narration en place.
 5. **Édition** : conserver le présent état en préparation, sans modifier les gels historiques ; produire ultérieurement les rendus si la chaîne éditoriale le permet.
 
+## Études de cas en préparation — sources à confronter
+
+Le dossier propose deux études **non relues et non conclusives** : la [Consulte générale de Corte et les catégories de suffrage en 1755](../cases/case-01-dieta-generale-1755.md), puis la [réception transnationale de Paoli](../cases/case-02-reception-transnationale-boswell.md). Les questions d'antériorité constitutionnelle, de participation des femmes et d'influence sur les révolutions atlantiques restent ouvertes jusqu'à la confrontation des sources primaires. Une analogie ou un nom de lieu ne constituent pas une preuve de transmission institutionnelle.
+
 ## Sources et dépendances
 
 - Observatoire : https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/autonomia/observatoire_processus_autonomie_corse.md
