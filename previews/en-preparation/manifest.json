@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "824810c1bbd3eec77aa48f3d2ace94a46efc5f62978eb826fecb05b595b1eb8e",
+      "source_sha256": "cf270c3780bd1088f09b6a8991728d00ccc434691ea009031d444dc56971f982",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -13,7 +13,7 @@
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
-          "sha256": "71e7eca9f87b4a901c9797ca646cd6e7c45e4d19b3655f242223decef127fe04"
+          "sha256": "d1a3e75748fc0cbf9b4278089b39434b43abe76307fdb216e4e2e1b249731c14"
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
@@ -25,11 +25,11 @@
         },
         {
           "path": "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
-          "sha256": "3bb69a8c7f7fe6b46096bf67bfc991f31f0f205af9c72b35fd0bea71263f2fd7"
+          "sha256": "5fbb3ce604ea6f6bff458a8e0095037e966c39710a8a4752cd86a27214bf0dd2"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
-          "sha256": "0f56c498d717c87c73d7d0a0f8eb913b2d11ee66b414befd2ceecf6097cfb81e"
+          "sha256": "86ee45a5052b66f4480696a5bb1d0407941e599a66ab5903df8dbde02b8b8788"
         },
         {
           "path": "projects/capable/manuscript/06-fractalite-et-echelles.md",
@@ -45,11 +45,11 @@
         },
         {
           "path": "projects/capable/manuscript/09-communs-et-moyens.md",
-          "sha256": "71457d9627a4ab9d14908c4fc0a3df5e88f34a1151cc67dcdb2c232ac98939b3"
+          "sha256": "6b9e6f5fa65b857c2f1926a1043b150c7796eb421f70d4bd0001a9e8aa6bce26"
         },
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
-          "sha256": "be50d78948e2983bc046b7b8bacec22569e1b1564165743d3d098f255055ea70"
+          "sha256": "de5b2c8a64c623bcefed0566401ba987e26bd8d5b3beb01151a8f860a67f5ee6"
         },
         {
           "path": "projects/capable/magazine/2026-10-28-autonomie-corse.md",
@@ -76,6 +76,18 @@
           "sha256": "25a40f2bf958a79cd4dc2179c63f7171181f680566f7ebdc9a11e9d5db9cea9a"
         },
         {
+          "path": "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md",
+          "sha256": "c118599282528959aca2f6ea15dc663e8b70449b272f6929980492b4e0b864dc"
+        },
+        {
+          "path": "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
+          "sha256": "6c5c893342c868b4a8730d9db2ee690e8f2dfe11b7c8b004a163398f620b34b2"
+        },
+        {
+          "path": "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
+          "sha256": "d9e261d8ecaf672af692b3bcf045ab8bccfe1dcb4b4e837d067c9eb50a4aa443"
+        },
+        {
           "path": "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
           "sha256": "2861ebab51c57b7d757989a93bd513281dae4e2ba185763d73a5c242149d5ffe"
         },
@@ -96,8 +108,12 @@
           "sha256": "bd98e3da40b5fb4bbe0045def6771b3851086e3af8918ca239be0717dd5e512c"
         },
         {
+          "path": "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
+          "sha256": "cd785488d24302ef43d2d08f3d2d10c451b6e2a9b3cf255b22024974544c8133"
+        },
+        {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "76d93970d6c388abb338223ac655f9f91e73f4795ba7cdf33b156f453357139f"
+          "sha256": "fa913a3ae4c46ef825c39b07534f2e3f5b8ea44795e72c711a0683e04b550629"
         }
       ]
     },

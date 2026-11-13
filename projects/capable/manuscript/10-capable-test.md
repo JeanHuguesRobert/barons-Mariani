@@ -1,16 +1,21 @@
 ---
 title: "Le Capable Test — Évaluer une règle par ses effets"
 author: "Jean Hugues Noël Robert"
+affiliation: "Mouvement Capable"
 date: "2026-10-05"
-status: "working-draft"
+last_modified_at: "2026-11-13"
+status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/10-capable-test.md"
 document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
-  origin_type: "corpus-synthesis"
+  origin_type: repository
+  origin_method: corpus-synthesis
   origin_repository: "JeanHuguesRobert/barons-Mariani"
   origin_ref: "main"
   origin_date: "2026-10-05"
@@ -18,6 +23,9 @@ provenance:
     - "../capable-test.md"
     - "../../../research/principe_effectivite.md"
     - "../../../research/responsabilite_effectivite.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 
 # Le Capable Test — Évaluer une règle par ses effets
@@ -75,6 +83,14 @@ Réduire l'effectivité d'une politique publique à un algorithme de notation au
 Le Capable Test produit une **qualification multidimensionnelle contradictoire** qui conserve les inconnues (`UNKNOWN`), les contestations (`CONTESTED`) et les exigences d'instruction pendantes (`PENDING`).
 
 ---
+
+## Une épreuve supplémentaire : qui conserve le pouvoir d'agir ?
+
+Le Capable Test devrait aussi interroger la **distribution du pouvoir de décider**. Qui choisit les problèmes soumis à l'examen ? Qui peut proposer une solution, l'inscrire à l'ordre du jour, y accéder dans un délai utile ? Qui peut vérifier les raisons d'un refus, contester la décision et remplacer un mandataire devenu indigne de confiance ?
+
+Ce contrôle ne mesure pas la popularité d'une solution. Il cherche à identifier la dissociation éventuelle entre préférences exprimées, sujets discutés, décisions prises et effets observés. La [recherche ouverte sur l'agenda politique](../research/2026-11-13-identites-polarisation-et-agenda-politique.md) propose des données et un protocole comparatif, sans conclure à une manipulation générale ni attribuer des intentions non établies à des formations politiques.
+
+Le même examen s'applique au contrôle économique du politique et aux systèmes algorithmiques d'assistance. La liberté de choix, la possibilité de contradiction, la contestabilité d'une décision et le retour au mandant ne se résument pas à un score. Ce sont des capacités que l'on doit pouvoir exercer et éprouver.
 
 ## 3. La responsabilité d'effectivité
 

@@ -23,6 +23,11 @@ source_documents:
   - "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
   - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
+  - "projects/capable/research/2026-11-13-identites-polarisation-et-agenda-politique.md"
+  - "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md"
+  - "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md"
+  - "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md"
+  - "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md"
 provenance:
   origin_type: repository
   origin_repository: JeanHuguesRobert/barons-Mariani
@@ -38,6 +43,14 @@ review:
 # Capable — premier numéro, projection candidate de travail
 
 **État : en préparation — non gelé, non validé comme édition finale.** Ce document est le **plan de composition et de navigation vérifiable** vers les sources existantes. Sa projection publique de travail est désormais disponible en HTML, PDF et EPUB ; elle reste évolutive, non gelée, et ne remplace aucune édition définitive. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
+
+## Convergence éditoriale approuvée — 13 novembre 2026 : recherches nouvelles et contrôle démocratique
+
+Le premier numéro **en préparation** incorpore désormais, dans ses chapitres 01, 04, 05, 09 et 10, les conséquences doctrinales du Possibilisme temporel, du contrôle continu des mandataires, du RIC révocatoire **proposé**, de la légitimité de la propriété sans capture du pouvoir politique et du Contradicteur loyal pour les assistants IA. Ces propositions restent distinctes des droits et services déjà en vigueur.
+
+Le Magazine accueille une **enquête centrale** : [*Qui choisit les sujets de la politique ?*](../magazine/2026-11-13-qui-choisit-agenda-politique.md), avec les données du Baromètre de la République vérifiées sur le rapport primaire du 13 novembre, une [chronique sur l'IA qui contredit sans commander](../magazine/2026-11-13-ia-contradiction-et-autonomie.md), et un [encadré culturel Bleu de Chine](../magazine/2026-11-13-bleu-de-chine-appartenances.md). Les hypothèses sur la polarisation ne sont pas promues en conclusions démontrées.
+
+Une [annexe nouvelle](../annexes/2026-11-13-recherches-decisions-et-objections.md) rassemble les sources longues, objections et questions ouvertes. Cette version de travail peut être corrigée à la relecture sans attendre le gel d'une nouvelle édition. Les éditions déjà gelées demeurent intactes.
 
 ## Actualisation du 13 novembre 2026 — proposition constitutionnelle nationale et sources de l'Autonomie de Capacité
 
@@ -91,6 +104,9 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 - [Énergie et capacités territoriales : du soleil au service rendu](../magazine/2026-10-28-energie-et-capacites-territoriales.md) : enjeux et hypothèses issus des Notes EDF et énergie/logistique.
 - [Capable : ce qui précède le nom](../magazine/2026-10-28-genese-capable.md) : généalogie des concepts et jalons publics, sans anachronisme.
 - [Quand la procédure existe mais que l'accès reste à démontrer](../magazine/2026-10-28-procedures-et-effectivite.md) : accès, transmission, examen et effets.
+- [Enquête centrale : Qui choisit les sujets de la politique ?](../magazine/2026-11-13-qui-choisit-agenda-politique.md) : souhaits, anticipations, agenda réel et contrôle citoyen.
+- [Une IA qui contredit sans commander](../magazine/2026-11-13-ia-contradiction-et-autonomie.md) : assistance cognitive et Contradicteur loyal.
+- [Le Bleu de Chine : appartenir sans exclure](../magazine/2026-11-13-bleu-de-chine-appartenances.md) : circulation culturelle et identité vécue.
 - [Magazine — index vivant](../magazine/README.md) : chronologie des entrées et protocole d'actualisation.
 
 **Rubriques ou volets encore à compléter, distincts des six chroniques déjà rédigées :**
@@ -101,6 +117,8 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 - Ce qui a changé et ce qui reste inconnu : nouveaux actes, corrections, désaccords et suites documentées.
 
 Aucune « deuxième édition » ne découle des étiquettes héritées du site. Une Note de Campagne numérotée n'est pas un Magazine gelé.
+
+La [matrice des recherches nouvelles, des preuves et des objections (13 novembre)](../annexes/2026-11-13-recherches-decisions-et-objections.md) complète les annexes précédentes ; ses références longues ne sont pas toutes copiées intégralement dans le Livre.
 
 ## III. Annexes du Livre — architecture de vérification
 

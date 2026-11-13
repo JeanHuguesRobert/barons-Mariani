@@ -17,6 +17,14 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+## Enquêtes et études du 13 novembre 2026 — version ouverte
+
+- **Enquête centrale — agenda démocratique.** [Qui choisit les sujets de la politique ?](2026-11-13-qui-choisit-agenda-politique.md) : distinguer les priorités souhaitées, les anticipations de campagne, la saillance effectivement observée et les décisions sous mandat. Tableau primaire Ipsos vérifié, aucune intention politique non démontrée imputée.
+- **IA et autonomie cognitive.** [Une IA qui contredit sans commander](2026-11-13-ia-contradiction-et-autonomie.md) : contradiction loyale, risque de nivellement, coût attentionnel, mandat et absence de profilage partisan.
+- **Culture et appartenances.** [Le Bleu de Chine : appartenir sans exclure](2026-11-13-bleu-de-chine-appartenances.md) : étude culturelle située, circulations du vêtement, limites des preuves historiques, passerelle vers la Marche du Soleil.
+
+Ces textes sont effectivement assemblés dans la [version publique Capable en préparation](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), avec leur [annexe de recherche](../annexes/2026-11-13-recherches-decisions-et-objections.md). Ils ne sont ni une édition gelée ni une politique publique déjà mise en œuvre.
+
 - **28 octobre 2026 — Généalogie.** [Capable : ce qui précède le nom](2026-10-28-genese-capable.md) ; distinction entre antécédents, apparition du nom et projets ultérieurs.
 - **28 octobre 2026 — Épreuve des procédures.** [Quand la procédure existe mais que l'accès reste à démontrer](2026-10-28-procedures-et-effectivite.md) ; accès, transmission, examen et effet.
 

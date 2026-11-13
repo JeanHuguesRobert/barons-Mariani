@@ -34,13 +34,13 @@ provenance:
 
 **Accéder au Livre Vivant :** [Capable — site public](https://capable.acorsica.org/).
 
-**Nouvelle version publique « en préparation » (13 novembre 2026, non gelée) :**
+**Nouvelle version publique « en préparation » (13 novembre 2026, non gelée, 27 sources) :**
 [Lire la version HTML en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) ·
 [Télécharger le PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf) ·
 [Télécharger l'EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) ·
-[Consulter l'empreinte et les 23 sources](../../previews/en-preparation/manifest.json).
+[Consulter l'empreinte et les 27 sources](../../previews/en-preparation/manifest.json).
 
-Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.
+Cette version est distincte du Livre durable actuellement servi par le site ; elle intègre en particulier la [proposition constitutionnelle du 12 novembre](doctrine/revision_constitutionnelle_article_72.md). Elle comprend désormais [l’enquête centrale sur l’agenda politique](magazine/2026-11-13-qui-choisit-agenda-politique.md), [l’étude sur l’IA et la contradiction](magazine/2026-11-13-ia-contradiction-et-autonomie.md), [l’encadré Bleu de Chine](magazine/2026-11-13-bleu-de-chine-appartenances.md) et [l’annexe de provenance et d’objections](annexes/2026-11-13-recherches-decisions-et-objections.md). Les fichiers HTML/PDF/EPUB ci-dessus sont **des prévisualisations publiques**, pas une édition gelée.
 
 
 

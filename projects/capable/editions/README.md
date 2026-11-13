@@ -4,7 +4,7 @@
 
 La [candidate Capable n°1](2026-10-28-projection-candidate-n1.md) a été actualisée au 13 novembre. La Factory produit une [projection HTML consultable en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), un [PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf), un [EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) et leurs [empreintes vérifiables](../../../previews/en-preparation/capable-formats.json). Ils sont **en préparation — non gelés**, distincts du Livre durable hébergé sur le site.
 
-Les formats dérivent du **même HTML**, lui-même assemblé depuis les 23 sources identifiées dans le [manifeste](../../../previews/en-preparation/manifest.json). La conversion est implémentée par [l'adaptateur de formats](../../../scripts/build-living-books-working-formats.py), sans second compositeur doctrinal. La publication directe sur GitHub ne vaut pas déploiement de l'URL `/candidate.html` sur Fracta2.
+Les formats dérivent du **même HTML**, lui-même assemblé depuis les 27 sources identifiées dans le [manifeste](../../../previews/en-preparation/manifest.json). La conversion est implémentée par [l'adaptateur de formats](../../../scripts/build-living-books-working-formats.py), sans second compositeur doctrinal. La publication directe sur GitHub ne vaut pas déploiement de l'URL `/candidate.html` sur Fracta2.
 
 Le fichier [workflow GitHub Actions](../../../.github/workflows/living-books-news-previews.yml) déclenche sur les changements apportés à l'Observatoire de l'autonomie ou aux plans d'éditions de **Capable**, **Suicide Corse** et **1755**.
 

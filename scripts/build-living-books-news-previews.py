@@ -34,6 +34,9 @@ BOOKS = {
             "projects/capable/magazine/2026-10-28-genese-capable.md",
             "projects/capable/magazine/2026-10-28-procedures-et-effectivite.md",
             "projects/capable/magazine/2026-10-28-retrospective-notes-de-campagne.md",
+            "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md",
+            "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
+            "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
         ],
         "annexes": [
             "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
@@ -42,6 +45,7 @@ BOOKS = {
             "projects/capable/doctrine/revision_constitutionnelle_article_72.md",
             "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md",
             "research/autonomia/grammaire_autonomie_de_capacite.md",
+            "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
         ],
     },
     "suicide-corse": {
@@ -199,7 +203,7 @@ def main():
         if name == "capable":
             proposal = "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
             body += ("<p><strong>Actualisation du 13 novembre 2026.</strong> "
-                     "Cette version réunit le Livre, le Magazine et les annexes (23 sources). "
+                     f"Cette version réunit le Livre, le Magazine et les annexes ({len(paths)} sources). "
                      "<a href='#" + source_anchor(proposal) +
                      "'>Lire la proposition constitutionnelle nationale de révision de l'article 72</a> "
                      "et les textes doctrinaux associés.</p>")

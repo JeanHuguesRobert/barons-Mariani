@@ -3,7 +3,7 @@ title: "Liberté, Égalité, Fraternité effectives"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-last_modified_at: '2026-11-12'
+last_modified_at: "2026-11-13"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md
 status: draft
 language: "fr"
@@ -86,6 +86,18 @@ Le projet de **KYS du désir d'agir**, extension envisagée de Cogentia Personal
 Un système démocratique capable a besoin à la fois de **citoyens pouvant former et réviser leur jugement** et d'**institutions pouvant recevoir et corriger les décisions contestées**. Aucune de ces capacités ne remplace l'autre.
 
 Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+
+## Gouverner sous mandat : rendre le pouvoir aux citoyens entre deux élections
+
+Une élection ne doit pas être le moment où les citoyens abandonnent pour plusieurs années la maîtrise de leurs affaires. Voter choisit un mandataire ; cela ne dispense ni de connaître ses actes, ni de contrôler ses délégations, ni de pouvoir reprendre le pouvoir confié. Une démocratie capable doit exister **pendant le mandat**, et pas seulement à son commencement ou à son terme.
+
+L'architecture proposée associe trois fonctions. **Tracer les actes du pouvoir** : décisions, auteurs responsables, motifs, engagements et résultats doivent être suffisamment accessibles pour qu'un citoyen puisse juger les décisions qui l'affectent. **Contredire et corriger** : le droit de réponse, des recours efficaces et un réexamen des échecs doivent fonctionner même lorsque la majorité politique est satisfaite. **Révoquer** : lorsqu'un mandat politique perd sa légitimité aux yeux de ceux qui l'ont confié, une procédure populaire doit pouvoir provoquer son remplacement, dans le respect des droits fondamentaux.
+
+Une hypothèse institutionnelle mérite d'être instruite : des **mandats politiques de durée indéterminée, mais révocables par référendum d'initiative citoyenne (RIC révocatoire)**, avec élection de remplacement après révocation. Durée indéterminée ne signifie donc ni mandat à vie ni privilège irrévocable. Le seuil de déclenchement, la vérification des signatures, les règles de campagne, les droits des minorités, les délais, les conséquences des scrutins répétés et les vacances de siège par décès ou démission restent à définir. Il faut empêcher qu'une procédure de révocation serve elle-même à intimider ou à capter le pouvoir.
+
+La proposition ne prétend pas décrire les institutions françaises en vigueur. Elle requiert une construction juridique et un examen contradictoire. Elle distingue aussi **transparence du pouvoir délégué** et **surveillance des citoyens** : on peut exiger des comptes d'un mandataire sans tenir un registre généralisé des opinions de chacun. Les systèmes d'information doivent rendre les actes de pouvoir vérifiables, non fabriquer de nouveaux sujets soumis au contrôle d'une machine.
+
+Le [modèle de démocratie capable](../../../research/democratie_capable.md), la [doctrine de souveraineté et de délégation](../../../research/souverainete_delegation_agents_mandates.md), l'[analyse de sécurité de la représentation](../../../research/security_model_representative_democracy.md) et la [traçabilité des actes](../../../research/traceabilite_des_actes.md) fournissent le développement technique et ses objections. Ces mécanismes sont complémentaires du droit à l'adaptation territoriale proposé pour l'article 72 ; ils n'en découlent pas automatiquement.
 
 ## De la devise affichée aux garanties opérantes
 
