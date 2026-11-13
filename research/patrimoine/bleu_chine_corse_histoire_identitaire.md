@@ -138,6 +138,18 @@ Le [distributeur deToujours](https://www.detoujours.com/fr/brand/38-l-anti-cher)
 
 Le dossier critique [Bleu de Chine — colorants, indigo et Nîmes](bleu_chine_teintures_nimes.md) expose les preuves et les **inconnues bloquantes**, et constate un **plateau provisoire de la recherche documentaire générale en ligne** au 13 novembre 2026.
 
+## Un vêtement, plusieurs identités : la circulation entre Corse, France et Japon
+
+L'appropriation corse du Bleu de Chine n'implique **aucune exclusivité culturelle** sur la forme vestimentaire. Celle-ci traverse plusieurs espaces et reçoit **des significations différentes** : vêtement de travail et mémoire pastorale en Corse ; vêtement de travail français et objet de mode en France continentale ; pièce de collection **French Workwear / French China Jacket** pour un marché japonais du vintage.
+
+Le phénomène japonais est **documenté, au-delà d'un exemple isolé**, par [*AVANT Magazine*, *An Anthology of French Workwear*](https://www.theavantmag.com/avant-magazine-shop/p/an-anthology-of-french-workwear), qui consacre une enquête au succès du vêtement de travail français au Japon et interroge six spécialistes japonais. Un [détaillant japonais, Cave Used Clothing](https://caveused.theshop.jp/items/43418213), présente une veste **L'Anti Cher** comme *French China Jacket* des années 1950–1960 ; [Oruri Vintage](https://orurivintage.base.shop/items/96844228) présente un autre L'Anti Cher des années 1950. **Ces datations sont celles des vendeurs et non des expertises indépendantes.** Elles n'attestent ni une réception spécifiquement *corse* au Japon ni une diffusion égale du Bleu de Chine dans toute l'Asie.
+
+Le voyage évoque ainsi **une circulation à plusieurs étapes**, non un simple « retour en Chine » : traditions manufacturières et réinterprétations associées à la Chine ; implantation et usages en France et en Corse ; collection et patrimonialisation de vêtements français au Japon, pays différent de la Chine. La trajectoire précise de chaque exemplaire doit être établie individuellement. Pour certains, la qualification japonaise de *French China Jacket* peut renvoyer à des histoires migratoires chinoises en France rapportées par des commerçants ; ne pas tenir cette histoire pour acquise sans sources historiques indépendantes.
+
+**Hypothèse interprétative :** le même vêtement constitue un **support de significations locales successives**. Son iconicité est translocale, mais **le sens pastoral et identitaire corse est localement constitué**. Une popularité commerciale japonaise ne prouve pas une signification sociale identique à celle du *Riacquistu* corse. Cette distinction permet de raconter une histoire ouverte, non de revendiquer une origine ou une propriété exclusive du symbole.
+
+Ce mécanisme éclaire aussi le projet contemporain de **Bleus de Chine singuliers et circulants** : un même objet peut être successivement porté, réparé, personnalisé et annoté par des personnes qui ne lui donnent pas le même sens. Le musée peut recueillir ces interprétations et leurs provenances **sans les fusionner artificiellement dans un récit unique**.
+
 ## Une nouvelle vie : le Bleu de Chine qui circule
 
 Dans le projet du **Musée Mariani des Possibles**, le Bleu de Chine n'aurait pas seulement pour rôle de rappeler le passé. Il pourrait devenir **un objet singulier qui circule et reçoit des contributions**, comme un manuscrit auquel chaque détenteur volontaire peut ajouter un chapitre.
