@@ -27,7 +27,14 @@ source_documents:
   - "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md"
   - "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md"
   - "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md"
+  - "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md"
   - "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md"
+  - "projects/capable/cases/README.md"
+  - "projects/capable/cases/case-01-kouchner-acces-dossier-medical.md"
+  - "projects/capable/cases/case-02-parrainages-presidentiels-verrou-rural.md"
+  - "projects/capable/cases/case-03-dalo-droit-au-logement-sans-toit.md"
+  - "projects/capable/cases/case-04-consignation-radars-automatiques.md"
+  - "projects/capable/cases/case-05-dematerialisation-service-public-rural.md"
 provenance:
   origin_type: repository
   origin_repository: JeanHuguesRobert/barons-Mariani
@@ -65,6 +72,12 @@ Cette projection publique est **en préparation et non gelée** : elle privilég
 ## Actualisation documentaire du 1er novembre 2026 — hors gel
 
 Le dossier [Préparation du lancement Capable et de la Marche du Soleil](../editorial/2026-11-01-lancement-preparation.md) est un **état de préparation**, non une attestation de publication. Il renvoie au développement doctrinal sur la [Démocratie Assistée par Ordinateur](../../../research/etat_de_droit_assiste_par_ordinateur.md) et au [routeur Capable](../doctrine.md). La liste de chapitres du numéro candidat n'est ni remplacée ni gelée par cette actualisation.
+
+## Cas du Réel — épreuves documentaires en cours (13 novembre 2026)
+
+L'[index des cinq cas](../cases/README.md) et la [chronique *L’épreuve de l’effectivité*](../magazine/2026-10-05-epreuve-de-l-effectivite.md) entrent dans cette **édition en préparation** : accès au dossier médical, parrainages présidentiels, DALO, consignation des amendes automatisées et dématérialisation des services ruraux.
+
+Les cas constituent des **dossiers de travail non relus** : constats, sources et qualifications restent à vérifier, sans les présenter comme audits définitivement établis. Ils sont accessibles dans l'assemblage HTML/PDF/EPUB, mais ne modifient aucune édition gelée.
 
 ## À l'entrée du numéro
 
@@ -119,6 +132,10 @@ Les études de cas issues des Notes de Campagne ont été **sédimentées** dans
 Aucune « deuxième édition » ne découle des étiquettes héritées du site. Une Note de Campagne numérotée n'est pas un Magazine gelé.
 
 La [matrice des recherches nouvelles, des preuves et des objections (13 novembre)](../annexes/2026-11-13-recherches-decisions-et-objections.md) complète les annexes précédentes ; ses références longues ne sont pas toutes copiées intégralement dans le Livre.
+
+## Cas du Réel — cinq dossiers expérimentaux
+
+[Inventaire et méthode](../cases/README.md) : [Loi Kouchner](../cases/case-01-kouchner-acces-dossier-medical.md), [parrainages présidentiels](../cases/case-02-parrainages-presidentiels-verrou-rural.md), [DALO](../cases/case-03-dalo-droit-au-logement-sans-toit.md), [consignation des amendes](../cases/case-04-consignation-radars-automatiques.md), [dématérialisation en milieu rural](../cases/case-05-dematerialisation-service-public-rural.md). Tous restent à vérifier contradictoirement.
 
 ## III. Annexes du Livre — architecture de vérification
 

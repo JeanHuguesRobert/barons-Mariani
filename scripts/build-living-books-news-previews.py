@@ -37,6 +37,15 @@ BOOKS = {
             "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md",
             "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
             "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
+            "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md",
+        ],
+        "cases": [
+            "projects/capable/cases/README.md",
+            "projects/capable/cases/case-01-kouchner-acces-dossier-medical.md",
+            "projects/capable/cases/case-02-parrainages-presidentiels-verrou-rural.md",
+            "projects/capable/cases/case-03-dalo-droit-au-logement-sans-toit.md",
+            "projects/capable/cases/case-04-consignation-radars-automatiques.md",
+            "projects/capable/cases/case-05-dematerialisation-service-public-rural.md",
         ],
         "annexes": [
             "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
@@ -181,9 +190,9 @@ def main():
     for name, cfg in BOOKS.items():
         # For Capable, begin with the reader-facing Livre. The editorial
         # composition note belongs at the end, not ahead of chapter 00.
-        paths = (cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", [])
+        paths = (cfg["chapters"] + cfg.get("magazine", []) + cfg.get("cases", []) + cfg.get("annexes", [])
                  + [cfg["edition"]] if name == "capable"
-                 else [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("annexes", []))
+                 else [cfg["edition"]] + cfg["chapters"] + cfg.get("magazine", []) + cfg.get("cases", []) + cfg.get("annexes", []))
         sections, inputs = [], []
         included = set(paths)
         for path in paths:
@@ -192,6 +201,7 @@ def main():
             title = ("Note de composition du numéro" if path == cfg["edition"] else
                      "Livre — " + Path(path).stem if path in cfg["chapters"] else
                      "Magazine — " + Path(path).stem if path in cfg.get("magazine", []) else
+                     "Cas du Réel — " + Path(path).stem if path in cfg.get("cases", []) else
                      "Annexes — " + Path(path).stem if path in cfg.get("annexes", []) else Path(path).stem)
             sections.append(f"<section id='{source_anchor(path)}'><h2>{escape(title)}</h2>"
                 f"<small><a href='https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/{escape(path)}'>Source versionnée</a></small>"
@@ -207,7 +217,7 @@ def main():
                      "<a href='#" + source_anchor(proposal) +
                      "'>Lire la proposition constitutionnelle nationale de révision de l'article 72</a> "
                      "et les textes doctrinaux associés.</p>")
-        body += "<nav aria-label='Parties'><a href='#" + source_anchor(cfg["chapters"][0]) + "'>Livre</a> · <a href='#" + source_anchor(cfg.get("magazine", cfg["chapters"])[0]) + "'>Magazine</a> · <a href='#" + source_anchor(cfg.get("annexes", cfg["chapters"])[0]) + "'>Annexes</a></nav>" if name == "capable" else ""
+        body += "<nav aria-label='Parties'><a href='#" + source_anchor(cfg["chapters"][0]) + "'>Livre</a> · <a href='#" + source_anchor(cfg.get("magazine", cfg["chapters"])[0]) + "'>Magazine</a> · <a href='#" + source_anchor(cfg.get("cases", cfg["chapters"])[0]) + "'>Cas du Réel</a> · <a href='#" + source_anchor(cfg.get("annexes", cfg["chapters"])[0]) + "'>Annexes</a></nav>" if name == "capable" else ""
         body += "\n".join(sections)
         out = "<!doctype html><html lang='fr'><meta charset='utf-8'><meta name='viewport' content='width=device-width'><title>"+escape(name)+" — en préparation</title>"+css+"<body>"+body+"</body></html>"
         # Fail the build if a generated local anchor is absent or duplicated.

@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "cf270c3780bd1088f09b6a8991728d00ccc434691ea009031d444dc56971f982",
+      "source_sha256": "abf36fd94301933a25ccd7e2196e5ce3f23f450ddc94041dce44b95112a1870f",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -88,6 +88,34 @@
           "sha256": "d9e261d8ecaf672af692b3bcf045ab8bccfe1dcb4b4e837d067c9eb50a4aa443"
         },
         {
+          "path": "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md",
+          "sha256": "ce22039d8fe0bcafc1dad1907a4b8c977f3f9fd551dfb00807e5222ba79b9f4c"
+        },
+        {
+          "path": "projects/capable/cases/README.md",
+          "sha256": "0934e4872f2be565fb201561a7fd89406fd8671525dde86580068a74ca493d2a"
+        },
+        {
+          "path": "projects/capable/cases/case-01-kouchner-acces-dossier-medical.md",
+          "sha256": "112e555f69c2c6f126ec9a110a1379114f915ee937ca95d9db76d662d80b8a0e"
+        },
+        {
+          "path": "projects/capable/cases/case-02-parrainages-presidentiels-verrou-rural.md",
+          "sha256": "a2ff13999ce6f21e3532b9a82499603457f9c2e15ee7fbba599cb6dc7c818737"
+        },
+        {
+          "path": "projects/capable/cases/case-03-dalo-droit-au-logement-sans-toit.md",
+          "sha256": "d4da439907680a60751a1e94c4697cb271c2780895c875346475dcaf85fb4837"
+        },
+        {
+          "path": "projects/capable/cases/case-04-consignation-radars-automatiques.md",
+          "sha256": "1f96b45b7a8c5f2054e4d87f721c617044cb621a12479454c27026650530b3ad"
+        },
+        {
+          "path": "projects/capable/cases/case-05-dematerialisation-service-public-rural.md",
+          "sha256": "3fd7f15abc9326b956b6528262a2fa275eeec43265b712593b028479bbbc3aec"
+        },
+        {
           "path": "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
           "sha256": "2861ebab51c57b7d757989a93bd513281dae4e2ba185763d73a5c242149d5ffe"
         },
@@ -113,7 +141,7 @@
         },
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "fa913a3ae4c46ef825c39b07534f2e3f5b8ea44795e72c711a0683e04b550629"
+          "sha256": "f7bdefbaa155f154c8527804c52b9ad299724d508f1ae8000c8012f6cbbbebfa"
         }
       ]
     },
