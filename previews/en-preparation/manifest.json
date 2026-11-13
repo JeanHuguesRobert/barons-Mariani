@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "9ba05e77458eba7aeaf3d5ff7426905ba8e32a2d4de6dc15aa917f1ac1041322",
+      "source_sha256": "d5e08336fd3e1f2ee46f08bd1e060a659ecd14a03e8537a63e31be5d36e65e3a",
       "inputs": [
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "c642235c211497b91dd81fda7a617d7e9f83925ab29e6ceef1647dbcb16ce680"
+          "sha256": "74a3ced72111f208abfc00a6f20e6e563c7fec055bf572f7b43b83798d443a79"
         },
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -86,6 +86,18 @@
         {
           "path": "projects/capable/annexes/2026-10-28-dossiers-a5-a8.md",
           "sha256": "115104742c8a0f219ea0eb4f5322ddf86d7b43fb6ebc537c5717b926eeb3856c"
+        },
+        {
+          "path": "projects/capable/doctrine/revision_constitutionnelle_article_72.md",
+          "sha256": "1dd8b9746c2148b9db1a53b31085c65dea00648e6f03c4846b7a2863ae7a38df"
+        },
+        {
+          "path": "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md",
+          "sha256": "ad6ae6f83b342ab6d3604ba5b4cda50f297857d38e8a1f41218140329bf5eaed"
+        },
+        {
+          "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
+          "sha256": "bd98e3da40b5fb4bbe0045def6771b3851086e3af8918ca239be0717dd5e512c"
         }
       ]
     },

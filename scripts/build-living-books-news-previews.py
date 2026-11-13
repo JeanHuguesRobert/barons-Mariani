@@ -38,6 +38,10 @@ BOOKS = {
         "annexes": [
             "projects/capable/annexes/2026-10-28-dossiers-a1-a4.md",
             "projects/capable/annexes/2026-10-28-dossiers-a5-a8.md",
+            # Public, unfreezed normative/doctrinal sources of the November candidate.
+            "projects/capable/doctrine/revision_constitutionnelle_article_72.md",
+            "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md",
+            "research/autonomia/grammaire_autonomie_de_capacite.md",
         ],
     },
     "suicide-corse": {

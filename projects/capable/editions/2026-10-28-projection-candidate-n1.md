@@ -1,22 +1,53 @@
 ---
 title: "Capable — projection éditoriale candidate du premier numéro"
+author: "Jean Hugues Noël Robert"
+affiliation: "Mouvement Capable"
+license: "CC BY-SA 4.0"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/editions/2026-10-28-projection-candidate-n1.md"
+update_policy: UP-DEFAULT-REVIEWED
 date: "2026-10-28"
-status: "candidate — en préparation, non gelée"
-document_role: adapted
+status: working-paper
+publication_status: "candidate — en préparation, non gelée"
+document_role: derived
 document_kind: living-book-edition-candidate
 visibility: public
 lifecycle_state: working
 language: fr
-source_as_of: "2026-10-28"
+source_as_of: "2026-11-13"
+last_modified_at: "2026-11-13"
 source_documents:
   - "projects/capable/manuscript/README.md"
   - "projects/capable/magazine/README.md"
   - "projects/capable/editions/2026-10-09-en-preparation.md"
   - "projects/capable/editorial/plan-premier-numero-2026-10-28.md"
+  - "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
+  - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
+  - "research/autonomia/grammaire_autonomie_de_capacite.md"
+provenance:
+  origin_type: repository
+  origin_repository: JeanHuguesRobert/barons-Mariani
+  origin_ref: unknown
+  origin_date: "2026-10-28"
+  derived_from:
+    - "projects/capable/manuscript/README.md"
+    - "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
+review:
+  status: unreviewed
+  reviewed_by: []
 ---
 # Capable — premier numéro, projection candidate de travail
 
 **État : en préparation — non gelé, non validé comme édition finale.** Ce document est un **assemblage de navigation vérifiable** vers les sources existantes. Il n'est ni un rendu HTML publié, ni un PDF, ni une édition souveraine distincte. Le corpus documentaire demeure la référence ; les textes datés de campagne sont attribués à leurs auteurs.
+
+## Actualisation du 13 novembre 2026 — proposition constitutionnelle nationale et sources de l'Autonomie de Capacité
+
+**Contenu nouveau dans cette version évolutive du n°1 :** la [proposition publique Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) est désormais incorporée, en texte intégral, à la projection « en préparation », avec le [métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et la [grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md). Les chapitres 02, 03, 04 et 08 du Livre intègrent aussi les développements récents.
+
+**Ce qui change :** la subsidiarité ne se limite plus à un cas institutionnel corse ; Capable propose un droit commun à demander des adaptations législatives et réglementaires justifiées par les réalités territoriales, tout en conservant au Parlement le pouvoir de faire la loi. Les demandes, refus et effets devraient être examinés, motivés, publiés et réexaminés lorsqu'un obstacle substantiel persiste. L'égalité des garanties n'impose pas l'uniformité des réponses.
+
+**Ce qui ne change pas :** cette proposition citoyenne n'est pas une révision adoptée, ne confère pas un pouvoir législatif régional et ne remplace pas l'[amendement historique au projet corse d'article 72-5](../../../research/autonomia/amendement_effectivite_article_72-5.md). Une adaptation n'est pas accordée automatiquement et aucun juge ne peut, par cette seule proposition, imposer au Parlement un vote. Le traitement de la Corse reste attribué et daté. Les éditions gelées ne sont pas modifiées.
+
+Cette projection publique est **en préparation et non gelée** : elle privilégie l'accès immédiat aux sources révisables. Les commentaires, corrections et désaccords documentés pourront nourrir un numéro ultérieur.
 
 ## Actualisation documentaire du 1er novembre 2026 — hors gel
 
