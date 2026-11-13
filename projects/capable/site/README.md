@@ -62,6 +62,21 @@ La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel éta
 - export machine-readable de la matrice ;
 - pour l'Observatoire, ne jamais assimiler contact, intérêt, intention, promesse, envoi et validation officielle.
 
+## Publication canonique automatisable — 13 novembre 2026
+
+**Objet :** faire apparaître dans `https://capable.acorsica.org/` la dernière projection publique **« en préparation »**, sans écraser les fichiers durables `book.*` ni les éditions datées. L'accueil et `en-preparation.html` doivent conduire à `candidate.html` ; la release expose également `candidate.pdf`, `candidate.epub`, `candidate-manifest.json`, `candidate-formats.json` et `candidate-deploy.json`.
+
+**Implémentation sur main :** [déployeur atomique](../../../scripts/ops/deploy-capable-working.py), [déclencheur SSH fixe](../../../scripts/ops/capable-deploy-trigger.sh), [test non privilégié](../../../scripts/ops/check-deploy-capable-working.py) et job `deploy-capable-canonical` du [workflow existant](../../../.github/workflows/living-books-news-previews.yml). Le déployeur lit les *blobs Git immuables* d'`origin/main`, vérifie les 23 sources et les empreintes PDF/EPUB, copie la release courante dans une nouvelle release nommée par son contenu, conserve le Livre durable et bascule atomiquement le lien `current`. Une reprise identique n'ajoute aucune release. Le contrôle d'acceptation vérifie ensuite publiquement HTTPS, les fichiers et le reçu.
+
+**Préparation administrative unique (nécessaire avant activation du job) :** installer le déployeur et son déclencheur comme programmes **appartenant à root, non modifiables par le compte de déploiement**, configurer un droit `sudo` limité à l'exécutable de déploiement validé, et une clé SSH dédiée dont l'entrée `authorized_keys` utilise `restrict,command="/usr/local/sbin/capable-deploy-trigger"`. Ne pas transmettre une clé SSH générale ou réutiliser le compte personnel dans les secrets de CI. Il revient au propriétaire de Fracta2 d'autoriser et d'effectuer ce provisionnement administratif ; la simple présence d'un runner n'y donne pas droit.
+
+**Paramètres GitHub Actions du même dépôt :**
+- Variables : `CAPABLE_CANONICAL_AUTODEPLOY=true`, `CAPABLE_DEPLOY_HOST` (hôte Fracta2), `CAPABLE_DEPLOY_USER` (compte ayant la clé restreinte).
+- Secrets : `CAPABLE_DEPLOY_SSH_PRIVATE_KEY` (clé dédiée), `CAPABLE_DEPLOY_SSH_KNOWN_HOSTS` (empreinte SSH vérifiée indépendamment, pas une capture non authentifiée).
+- Tant que le booléen n'est pas activé, le job canonique est **désactivé sans bloquer GitHub Pages**, tandis que le test d'atomicité est intégré à la CI. Ne jamais afficher « déployé sur le site canonique » avant que les reçus distants et HTTP soient conformes.
+
+**Vérification et continuité :** [issue Capable #158](https://github.com/JeanHuguesRobert/barons-Mariani/issues/158) pour l'activation sur Fracta2 ; [#112](https://github.com/JeanHuguesRobert/barons-Mariani/issues/112) pour la Factory ; [#152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152) pour la sélection éditoriale. La publication GitHub Pages fonctionne indépendamment de l'activation sur Fracta2.
+
 ## Candidate de travail publique — 13 novembre 2026
 
 Les 23 sources du [n°1 en préparation](../editions/2026-10-28-projection-candidate-n1.md), comprenant la [proposition nationale de révision constitutionnelle de l'article 72](../doctrine/revision_constitutionnelle_article_72.md), sont assemblées en [HTML](../../../previews/en-preparation/capable.html), [PDF](../../../previews/en-preparation/capable.pdf) et [EPUB](../../../previews/en-preparation/capable.epub), avec [reçus et empreintes](../../../previews/en-preparation/capable-formats.json).

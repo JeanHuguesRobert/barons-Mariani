@@ -21,6 +21,9 @@ on:
       - "projects/rise-and-fall/issues/2026-10-26-revolutions-lumineuses/**"
       - "scripts/build-living-books-news-previews.py"
       - "scripts/build-living-books-working-formats.py"
+      - "scripts/ops/deploy-capable-working.py"
+      - "scripts/ops/capable-deploy-trigger.sh"
+      - "scripts/ops/check-deploy-capable-working.py"
       - ".github/workflows/living-books-news-previews.yml"
 
 permissions:
@@ -33,6 +36,8 @@ concurrency:
 
 jobs:
   publish-working:
+    outputs:
+      outcome: ${{ steps.publication.outputs.outcome }}
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -43,6 +48,7 @@ jobs:
           # A manual dispatch from a review branch is validation-only below.
           persist-credentials: true
       - name: Execute publication with durable typed receipt
+        id: publication
         if: always()
         env:
           CHECKOUT_OUTCOME: ${{ steps.checkout.outcome }}
@@ -184,6 +190,7 @@ jobs:
           path.write_text(json.dumps(receipt, indent=2) + "\n", encoding="utf-8")
           print(json.dumps(receipt))
           PY
+          echo "outcome=$result" >> "$GITHUB_OUTPUT"
           if [ "$result" != success ]; then
             echo "::warning title=Living Books task failed::Phase $phase; code $code; inspect receipt artifact and logs"
           fi
@@ -197,6 +204,101 @@ jobs:
             living-books-diagnostics/
             previews/en-preparation/
           if-no-files-found: warn
+          retention-days: 30
+
+  validate-capable-canonical-deployer:
+    needs: [publish-working]
+    if: ${{ github.ref == 'refs/heads/main' && needs.publish-working.outputs.outcome == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Nonprivileged atomic-release and frozen-book preservation test
+        run: |
+          set -euo pipefail
+          git fetch --no-tags origin main
+          python3 scripts/ops/check-deploy-capable-working.py
+
+  deploy-capable-canonical:
+    # Existing preview publication is always public on GitHub Pages.
+    # Canonical Fracta2 deployment is enabled once, after the owner configures
+    # a scoped SSH identity and a root-owned fixed-purpose deploy command.
+    needs: [publish-working]
+    if: ${{ github.ref == 'refs/heads/main' && needs.publish-working.outputs.outcome == 'success' && vars.CAPABLE_CANONICAL_AUTODEPLOY == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: read
+    steps:
+      - name: Deploy the working candidate to the canonical HTTPS site
+        env:
+          DEPLOY_HOST: ${{ vars.CAPABLE_DEPLOY_HOST }}
+          DEPLOY_USER: ${{ vars.CAPABLE_DEPLOY_USER }}
+          SSH_KEY: ${{ secrets.CAPABLE_DEPLOY_SSH_PRIVATE_KEY }}
+          SSH_KNOWN_HOSTS: ${{ secrets.CAPABLE_DEPLOY_SSH_KNOWN_HOSTS }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$DEPLOY_HOST" && test -n "$DEPLOY_USER"
+          test -n "$SSH_KEY" && test -n "$SSH_KNOWN_HOSTS"
+          [[ "$DEPLOY_HOST" =~ ^[A-Za-z0-9.-]+$ ]]
+          [[ "$DEPLOY_USER" =~ ^[A-Za-z_][A-Za-z0-9_-]*$ ]]
+          mkdir -p "$HOME/.ssh"
+          chmod 700 "$HOME/.ssh"
+          printf '%s\n' "$SSH_KNOWN_HOSTS" > "$HOME/.ssh/known_hosts"
+          chmod 600 "$HOME/.ssh/known_hosts"
+          keyfile=$(mktemp)
+          trap 'rm -f "$keyfile"' EXIT
+          printf '%s\n' "$SSH_KEY" > "$keyfile"
+          chmod 600 "$keyfile"
+          # The deployment key has an SSH forced command, installed by the
+          # site's owner. The runner cannot request an arbitrary host command.
+          # The trigger fetches origin/main and calls one root-owned deployer.
+          ssh -i "$keyfile" -o BatchMode=yes -o IdentitiesOnly=yes \
+            -o StrictHostKeyChecking=yes \
+            "$DEPLOY_USER@$DEPLOY_HOST" \
+            > canonical-deploy-receipt.json
+          python3 - <<'PY2'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('canonical-deploy-receipt.json').read_text())
+          assert r['outcome']=='DEPLOYED_VERIFIED'
+          assert r['status']=='working-non-frozen'
+          assert r['input_count']>=20
+          print('CANONICAL_DEPLOY_RECEIPT',r['revision'],r['release'])
+          PY2
+          curl --fail --show-error --silent --retry 4 --retry-delay 2 \
+            https://capable.acorsica.org/candidate-deploy.json \
+            > public-candidate-deploy.json
+          python3 - <<'PY2'
+          import json
+          from pathlib import Path
+          deployed=json.loads(Path('canonical-deploy-receipt.json').read_text())
+          public=json.loads(Path('public-candidate-deploy.json').read_text())
+          assert deployed['source_sha256']==public['source_sha256']
+          assert deployed['release']==public['release']
+          print('CANONICAL_HTTP_RECEIPT_VERIFIED',public['release'])
+          PY2
+          for ext in html pdf epub; do
+            curl --fail --show-error --silent --output /dev/null \
+              "https://capable.acorsica.org/candidate.$ext"
+          done
+          curl --fail --show-error --silent \
+            https://capable.acorsica.org/en-preparation.html | grep -q candidate.html
+          echo "CANONICAL_WORKING_EDITION_PUBLISHED"
+      - name: Archive canonical deployment receipt
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: capable-canonical-deployment-${{ github.run_number }}
+          path: |
+            canonical-deploy-receipt.json
+            public-candidate-deploy.json
+          if-no-files-found: ignore
           retention-days: 30
 
 # Publishing these PUBLIC WORKING previews is not freezing an edition.
