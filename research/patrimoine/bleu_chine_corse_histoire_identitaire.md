@@ -150,6 +150,14 @@ Le voyage évoque ainsi **une circulation à plusieurs étapes**, non un simple 
 
 Ce mécanisme éclaire aussi le projet contemporain de **Bleus de Chine singuliers et circulants** : un même objet peut être successivement porté, réparé, personnalisé et annoté par des personnes qui ne lui donnent pas le même sens. Le musée peut recueillir ces interprétations et leurs provenances **sans les fusionner artificiellement dans un récit unique**.
 
+## Du vêtement populaire à la pièce habillée : une réinterprétation située
+
+Une expérimentation contemporaine déclarée par le concepteur du Musée illustre un autre déplacement du sens : il **porte un Bleu de Chine moderne noir comme chemise sous une veste habillée**, en recherchant un **signe distinctif discret**, qu'il interprète comme susceptible de relever d'une élégance haut de gamme. Il souhaiterait conserver cette possibilité pour d'éventuelles circonstances officielles, **sans déclarer en avoir déjà fait usage dans un tel cadre**.
+
+Il possède également un exemplaire déclaré **ancien** et un **moderne bleu**, dont les photographies, la provenance et l'examen sont reportés. Ces trois objets personnels ne constituent pas une série muséale ou commerciale ; ils proposent un **terrain de comparaison** entre mémoire matérielle, usage quotidien et stylisation contemporaine. On ne peut pas en déduire que cette pratique est générale, historiquement attestée ou conforme à un protocole officiel donné.
+
+Cette note d'expérience ne se substitue ni à une enquête sociologique sur les signes de distinction, ni à une preuve d'authenticité : elle permet de **formuler une hypothèse observable**. Voir [l'inventaire déclaratif et les précautions de conservation](../../musee-mariani/methodes/bleu_chine_marquages_libres.md#trois-exemplaires-déjà-disponibles--déclaration-du-concepteur-13-novembre-2026).
+
 ## Une nouvelle vie : le Bleu de Chine qui circule
 
 Dans le projet du **Musée Mariani des Possibles**, le Bleu de Chine n'aurait pas seulement pour rôle de rappeler le passé. Il pourrait devenir **un objet singulier qui circule et reçoit des contributions**, comme un manuscrit auquel chaque détenteur volontaire peut ajouter un chapitre.
