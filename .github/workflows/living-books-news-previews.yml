@@ -227,8 +227,8 @@ jobs:
     # Existing preview publication is always public on GitHub Pages.
     # Canonical Fracta2 deployment is enabled once, after the owner configures
     # a scoped SSH identity and a root-owned fixed-purpose deploy command.
-    needs: [publish-working]
-    if: ${{ github.ref == 'refs/heads/main' && needs.publish-working.outputs.outcome == 'success' && vars.CAPABLE_CANONICAL_AUTODEPLOY == 'true' }}
+    needs: [publish-working, validate-capable-canonical-deployer]
+    if: ${{ github.ref == 'refs/heads/main' && needs.publish-working.outputs.outcome == 'success' && needs.validate-capable-canonical-deployer.result == 'success' && vars.CAPABLE_CANONICAL_AUTODEPLOY == 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
     permissions:

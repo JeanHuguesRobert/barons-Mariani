@@ -70,6 +70,8 @@ La contrainte P0 liée au dépôt de la requête au Conseil constitutionnel éta
 
 **Préparation administrative unique (nécessaire avant activation du job) :** installer le déployeur et son déclencheur comme programmes **appartenant à root, non modifiables par le compte de déploiement**, configurer un droit `sudo` limité à l'exécutable de déploiement validé, et une clé SSH dédiée dont l'entrée `authorized_keys` utilise `restrict,command="/usr/local/sbin/capable-deploy-trigger"`. Ne pas transmettre une clé SSH générale ou réutiliser le compte personnel dans les secrets de CI. Il revient au propriétaire de Fracta2 d'autoriser et d'effectuer ce provisionnement administratif ; la simple présence d'un runner n'y donne pas droit.
 
+Cette installation est rassemblée dans [un script d'amorçage administratif](../../../scripts/ops/bootstrap-capable-canonical-deploy.sh) : le propriétaire l'exécute **une seule fois en tant qu'`ubuntu` depuis sa session SSH Fracta2**, avec `sudo` interactif si nécessaire. Il installe les deux programmes root-owned, crée une clé dédiée à commande forcée, renseigne les secrets GitHub par `gh`, déploie la candidate et vérifie les fichiers réellement servis **avant d'activer** `CAPABLE_CANONICAL_AUTODEPLOY=true`. Ne pas exécuter ce bootstrap depuis un job CI ni contourner les autorisations de la plateforme.
+
 **Paramètres GitHub Actions du même dépôt :**
 - Variables : `CAPABLE_CANONICAL_AUTODEPLOY=true`, `CAPABLE_DEPLOY_HOST` (hôte Fracta2), `CAPABLE_DEPLOY_USER` (compte ayant la clé restreinte).
 - Secrets : `CAPABLE_DEPLOY_SSH_PRIVATE_KEY` (clé dédiée), `CAPABLE_DEPLOY_SSH_KNOWN_HOSTS` (empreinte SSH vérifiée indépendamment, pas une capture non authentifiée).
