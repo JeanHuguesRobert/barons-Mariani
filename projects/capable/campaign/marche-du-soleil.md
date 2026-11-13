@@ -66,6 +66,10 @@ Les solutions matérielles restent libres : marqueur textile, étiquette cousue,
 
 **Frontières :** disponibilité, production, diffusion et financement ne sont pas présumés ; identifier l'émetteur, le fabricant et le vendeur. Le port d'un vêtement ne constitue pas un soutien électoral, une présentation d'élu, ni un consentement à un suivi personnel. L'accessibilité des moyens de marquage ne doit pas diminuer ces protections.
 
+**État matériel au 13 novembre 2026 (déclaratif) :** le porteur du projet possède personnellement **trois Bleus de Chine** (un ancien, un moderne bleu, un moderne noir porté comme chemise sous une veste habillée). Cela rend possibles des **observations et des essais techniques non électoraux** sur supports réversibles, sans acquisition préalable. **Aucun des trois n'est déclaré mis en circulation, remis à un tiers ou affecté à la campagne** ; aucune photographie, étiquette ni provenance n'a encore été contrôlée, et leur documentation est différée. Préserver l'ancien, ne pas utiliser le noir habillé comme support d'essai destructif, privilégier les étiquettes et chutes indépendantes puis éventuellement le moderne bleu avec accord de son propriétaire. La [fiche du prototype zéro](../../../musee-mariani/methodes/bleu_chine_marquages_libres.md#prochaine-étape-à-court-terme--prototype-zéro-indépendant-de-3code-13-novembre-2026) fixe les tests sans dépendre de la résolution 3Code.
+
+Cette existence matérielle privée ne vaut ni dépense, ni avantage en nature, ni financement, ni publicité, ni soutien politique. Avant tout usage ou transfert en contexte électoral, examiner séparément l'émetteur, les dépenses et les règles de financement applicables ; **aucune diffusion ni rencontre officielle n'est inférée**.
+
 ## Boucle minimale
 
 ```text
