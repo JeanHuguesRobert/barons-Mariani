@@ -27,10 +27,10 @@ review:
 
 # Publication Web envisagée
 
-**État au 15 novembre 2026 : sources GitHub et projection HTML préparées ; DNS Cloudflare créé et vérifié ; publication HTTPS non opérationnelle.**
+**État au 15 novembre 2026 : publication HTTPS opérationnelle ; sept pages HTML et une feuille CSS accessibles, dont la Boutique en préparation.**
 
 - **Hôte canonique retenu par le Principal le 15 novembre 2026** : `museum.baronsmariani.org`. **Un seul hôte, sans alias ni redirection `musee`**, selon le principe d'Occam.
-- **DNS actif et vérifié (15 novembre 2026)** : `CNAME museum.baronsmariani.org → fracta.fractavolta.com` (Cloudflare, DNS only). **TLS et routage web toujours absents**, le site n’est pas encore publié à cette adresse.
+- **DNS et publication vérifiés (15 novembre 2026)** : `CNAME museum.baronsmariani.org → fracta.fractavolta.com` (Cloudflare, DNS only), HTTP/HTTPS Caddy actif, certificat TLS validé, pages HTTP 200. **Aucun alias `musee`.**
 - **Site préparé** : `projects/musee/site/`, ensemble de pages statiques source-first.
 - **Registre opérationnel** : [Operium — living-books-deployment.md](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md). Les onze Livres Vivants précédemment recensés n'incluent pas `musee`.
 - **Prochaine étape opératoire** : inspecter la topologie publique réellement active (route, DNS, TLS, origine et déploiement) ; enregistrer la décision de nom de domaine, puis effectuer un déploiement autorisé séparément avec vérification HTTP, contenu, liens et retour arrière.
@@ -63,3 +63,12 @@ Les deux serveurs Cloudflare faisant autorité confirment la résolution ; aucun
 La modification a été effectuée selon l'instruction permanente et spécifique du Principal, **sans démonstration d'une admission canonique COP** ; le raccordement du mandat permanent à l'exécuteur Cogentia demeure à réparer génériquement, sans mandat ponctuel supplémentaire. Voir le [reçu opérationnel Operium](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md).
 
 Restent uniquement la mise en place du répertoire de publication `/srv/www/musee/current`, du vhost Caddy et du certificat, puis la vérification des pages d'accueil, Livre, Magazine, **Boutique**, Annexes et Contribuer.
+
+
+## Déploiement accompli le 15 novembre 2026
+
+La publication statique du Musée a été installée à partir de la révision GitHub `3487f3d4e3c504d5044355dc39bd75323e3bb0ec` sous `/srv/www/musee/releases/`, avec un lien `current` atomique. Les fragments Caddy dédiés `museum.caddy` (HTTP) et `museum-tls.caddy` (HTTPS) ont été ajoutés au serveur public Fracta2, sans modification des hôtes existants. Le script borné, le précontrôle et la méthode de retour arrière sont disponibles dans [Operium](https://github.com/JeanHuguesRobert/operium/blob/main/scripts/ops/publish-museum-static.sh).
+
+Le contrôle public a constaté un code **200** et un certificat valide pour l'accueil, le Livre, le Magazine, la **Boutique**, les Annexes, Contribuer, les Mentions et la CSS. Les sites voisins Suicide Corse, Rise & Fall et Capable sont restés en **200** ; le navigateur protégé est resté en **401**, comme attendu. Le premier lancement a connu une erreur d'échappement sans mutation, puis une tentative avec réponse de commande tardive a été **confirmée par relecture indépendante de l'état réel**.
+
+Cette mise en ligne ne change **ni l'état de préparation du numéro 1**, ni le statut non commandable des produits de la Boutique. Les constats antérieurs de ce document restent conservés comme historique, mais **leurs mentions « DNS absent », « TLS absent » et « site non déployé » sont désormais supersédées** par le présent reçu.
