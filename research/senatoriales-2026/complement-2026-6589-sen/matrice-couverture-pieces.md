@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.2"
+version: "0.3"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -62,7 +62,7 @@ review:
 | P-14 | Requêtes préfectorales n° 2601714 et 2601715 + bundles | A | `TRANSFER_ONLY_STAGED` | Deux PDF préfectoraux natifs, 95 + 98 pages, empreintes contrôlées | 2601714.pdf et 2601715.pdf (noms natifs conservés) | Établir pages exactes pour chaque renvoi |
 | P-15 | Alerte avant audience | A | `PRIORITY_PIECE_UNRESOLVED` | Pièce annoncée comme essentielle mais non encore rapprochée du staging ou de P-14 | Aucune preuve de mise dans le lot courant | Original et couverture à vérifier |
 | P-16 | Mémoire en défense | A | `HISTORICAL_DERIVATIVE_NOT_STAGED` | Une reproduction candidate a été produite et hachée le 7 octobre ; elle n'est pas présente dans le staging Fracta2 actuel ; identité à l’exemplaire reçu par le TA non établie | [Audit historique](../investigation/audit-materialisation-paquet-cc-2026-10-07.md) ; SHA de production `54387f8cc8a109712136ea94288c5e7ede0186cba4294e2196ec0ebd41b3a4df` | Retrouver la copie historique ou l'original et distinguer reproduction / remise institutionnelle |
-| P-17 | Note manuscrite recto-verso | A | `PRIMARY_PHOTOS_PRIVATE_NOT_STAGED` | Deux JPEG recto/verso existent localement, ainsi qu'une transcription dans le Corpus ; aucun PDF du lot ne les représente actuellement | [Audit historique](../investigation/audit-materialisation-paquet-cc-2026-10-07.md) ; ZIP privé P17_photographies_originales_prive.zip | Vérifier originaux et lisibilité ; statuer sur l'utilité judiciaire sans transcription substitutive |
+| P-17 | Note manuscrite recto-verso | A | `COMMON_STAGED_DERIVED` | Deux photographies originales de la note recto-verso vérifiées par SHA-256 ; reproduction PDF de deux pages, comportant chacune une image, préparée à partir de ces sources ; remise effective au TA non corroborée | P-17-photographies-note.pdf, 489 473 octets, commun aux deux canaux en staging ; sources JPG privées conservées | Contrôle visuel humain, conservation des JPEG et éventuelle transcription vérifiée ; la reproduction n'est pas l'original remis au tribunal |
 | P-18 | Attestation CAF relative à Mme Laurence Vernerey | A | `COMMON_STAGED_SENSITIVE` | Attestation CAF originale ; octets identiques à l’annexe du message P-19 | P-18-CAF-original.pdf dans les deux canaux | Revue de confidentialité et de proportionnalité |
 | P-19 | Note en délibéré | A | `COMMON_STAGED_DERIVED` | PDF de lecture partielle ; EML natif conservé et haché | P-19-copie-de-lecture.pdf commun, P-19.eml privé | Statut de copie partielle explicite ; examen de l’intérêt de l’EML |
 | P-20 | Jugement TA Bastia + chaîne matérielle de notification | A | `HISTORICAL_DERIVATIVE_NOT_STAGED` | Le composite jugement + notification a été produit et haché le 7 octobre ; fichier non présent dans le staging Fracta2 actuel | [Audit historique](../investigation/audit-materialisation-paquet-cc-2026-10-07.md) ; [transcription](../investigation/sources/p20-jugement-ta-bastia-notification-transcription-2026-09-25.md) ; SHA production `c0062283f7049da075f26ff2d92363ed9fbbe10bdd6bf8c2c3ff1137d713b2a7` | Retrouver les images originelles et le composite historique ; confirmer la réception/notif. au CC |
