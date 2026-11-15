@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.4"
+version: "0.4.5"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -539,25 +539,25 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
 | C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 et P-46.02/P-46.04 localisées | P-09 = 2601715 p. 96 (pixel identique) ; P-46.04 préfecture 10/09 20h05 = 2601714 p.6 / 2601715 p.29 ; corps de P-46.02 = 2601714 pp.7–9 / 2601715 pp.30–32 ; annexes EML non présumées comprises |
-| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — corps RFC intégral contrôlé ; lot final non arrêté | TXT RFC 16 pages, ≤58 lignes/page et ≤72 colonnes ; huit fragments sources intégraux et ordonnés ; inventaire final à fixer |
-| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — couverture textuelle complète ; bordereau final manquant | Les huit fragments sources (31 419 caractères normalisés) se retrouvent entièrement et en ordre dans TXT et PDF ; audit visuel, pièces et canaux à finaliser |
+| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — projet RFC 17 pages contrôlé ; bordereau final non arrêté | Neuf fragments intégraux ordonnés, 17 pages RFC ≤58 lignes/page et ≤72 colonnes ; revue humaine finale requise |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — parité complète du corps ; inventaire et visuel à finaliser | Neuf fragments sources (32 517 caractères normalisés) trouvés entièrement et en ordre dans TXT et PDF ; staging dix fichiers TransfertPro, six pièces communes ; revue visuelle non close |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
 | C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
 | C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | PASS technique sur staging privé ; À REJOUER sur rendu final | Deux QPC intégrales dans maître ; sous-séquences complètes dans TXT RFC et PDF après suppression des seules différences typographiques ; 769/769 fenêtres de 64 caractères retrouvées dans chaque rendu |
 | C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | PASS matériel sur staging privé ; revue procédurale restante | Deux PDF distincts, extractibles, de 8 et 9 pages ; SHA-256 et identité intercanaux contrôlés |
-| C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | PARTIEL — 5 pièces communes identiques | 2 QPC, P-43.a lecture, P-18 original, P-19 lecture identiques par SHA-256 ; autres pièces non arrêtées |
+| C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | PARTIEL — six pièces communes identiques | Deux QPC, P-43.a lecture, P-17 photos, P-18 original, P-19 lecture octet-identiques entre canaux ; sélection complète des autres pièces toujours ouverte |
 | C26 | P-14.1 (2601714) et P-14.2 (2601715) sont-ils **uniquement dans TransfertPro** avec fichiers natifs et SHA vérifiés ? | PASS sur staging privé ; À REJOUER sur lot final | Deux PDF préfectoraux 95 et 98 pages, copies SHA-256 vérifiées et seulement sur TransfertPro ; rien de livré |
 | C27 | P-09 est-elle remplacée **sans perte** par 2601715 p. 96, et les autres équivalences citées par page ? | PARTIEL | P-09 visuellement identique ; matrice des autres pièces reste à achever |
-| C28 | Total effectif des pièces jointes au courriel sous plafond, sans substitution automatique de liens Drive ? | PARTIEL — sous-lot 382 568 octets | 5 PDF du staging email ; couverture complète et taille MIME finale restent à vérifier |
+| C28 | Total effectif des pièces jointes au courriel sous plafond, sans substitution automatique de liens Drive ? | PASS sur sous-lot privé ; À REJOUER sur lot final | Six PDF communs : 872 041 octets ; email SMTP simulé (non expédié) : 1 249 304 octets ; plafond et MIME définitifs à revalider |
 | C29 | Requérant a approuvé expressément le **lot concret** ? | NOT_GRANTED | Validation distincte, spécifique |
 | C30 | Courriel et TransfertPro ont été effectivement émis/acceptés ? | NOT_SENT | Preuves séparées futures, jamais pré-remplies |
 | C31 | Greffe a enregistré/examiné chaque pièce ? | UNKNOWN | Preuve externe ultérieure, **non condition de préparation** |
 
 **Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C30/C31 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C29 est une porte d'autorité distincte du contrôle technique.
 
-**Preuves des contrôles matériels récents :** [checkpoint opérationnel privé/public séparé](complement-2026-6589-sen/checkpoint-operationnel.md). Les résultats obtenus **sur le staging privé** ne valent pas dépôt ni validation juridique. Les vérifications de confidentialité et le contrôle contradictoire final restent bloquants.
+**Preuves des contrôles matériels récents :** [checkpoint opérationnel privé/public séparé](complement-2026-6589-sen/checkpoint-operationnel.md). Voir également la [matrice de couverture canonique](complement-2026-6589-sen/matrice-couverture-pieces.md) pour la sélection des 44 pièces principales et six sous-pièces. Les résultats obtenus **sur le staging privé** ne valent pas dépôt ni validation juridique. Les vérifications de confidentialité et le contrôle contradictoire final restent bloquants.
 
 ## 32. Dossiers et responsabilités
 
