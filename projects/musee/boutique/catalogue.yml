@@ -1,0 +1,38 @@
+schema: musee.boutique.catalogue.v0
+updated: "2026-11-15"
+canonical_host: museum.baronsmariani.org
+publication_state: en_preparation
+commerce_enabled: false
+order_enabled: false
+payment_enabled: false
+prices_verified: false
+sources:
+  - musee-mariani/plan-museal.md
+  - musee-mariani/presentation-publique-casa-mariani.md
+families:
+  - id: livres-vivants
+    label: Livres Vivants matériellement singuliers
+    documentary_maturity: corpus_and_protocol
+    material_maturity: prototype_planned
+    commercial_maturity: not_orderable
+    detail: "Premier prototype papier 1755 envisagé ; aucune offre physique attestée."
+    sources:
+      - research/livre_vivant.md
+      - musee-mariani/methodes/bouteille_a_la_mer.md
+  - id: huiles-essentielles
+    label: Plantes aromatiques et produits liés aux huiles essentielles
+    documentary_maturity: workshop_documented
+    material_maturity: assortment_not_defined
+    commercial_maturity: not_orderable
+    detail: "Gamme, usages et conformité à définir."
+    sources:
+      - musee-mariani/ateliers/atelier_huiles_essentielles.md
+  - id: bleus-de-chine
+    label: Bleus de Chine anciens et modernes
+    documentary_maturity: workshop_documented
+    material_maturity: personal_samples_only
+    commercial_maturity: not_orderable
+    detail: "Trois pièces personnelles, hors stock Musée ; marquages et partenaire à étudier."
+    sources:
+      - musee-mariani/methodes/bleu_chine_marquages_libres.md
+      - musee-mariani/plan-museal.md
