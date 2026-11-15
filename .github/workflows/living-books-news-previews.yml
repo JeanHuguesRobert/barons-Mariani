@@ -87,6 +87,7 @@ jobs:
                 test -s previews/en-preparation/capable.epub
                 python3 -m json.tool previews/en-preparation/capable-formats.json >/dev/null
                 python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
+                python3 scripts/test-living-books-preview-reconciliation.py
               ) >living-books-diagnostics/validate.log 2>&1
               rc=$?
               if [ "$rc" -eq 0 ]; then
@@ -127,6 +128,7 @@ jobs:
                 test -s previews/en-preparation/capable.epub
                 python3 -m json.tool previews/en-preparation/capable-formats.json >/dev/null
                 python3 -m json.tool previews/en-preparation/manifest.json >/dev/null
+                        python3 scripts/test-living-books-preview-reconciliation.py
                       ) >living-books-diagnostics/validate.log 2>&1
                       rc=$?
                       if [ "$rc" -ne 0 ]; then
