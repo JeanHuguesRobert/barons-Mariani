@@ -36,6 +36,6 @@ Le Livre Vivant inauguré ici adopte le triptyque **Livre / Magazine / Annexes**
 
 **Premier sujet suivi :** la Boutique Mobile, conçue pour contribuer au financement et diffuser des exemplaires physiques uniques de Livres Vivants, éventuellement porteurs de missions « Bouteille à la Mer ». Les ventes, retours et contributions futurs devront être documentés, non imaginés.
 
-**Sources :** [présentation publique](../../../../musee-mariani/presentation-publique-casa-mariani.md) ; [méthode Bouteille à la Mer](../../../../musee-mariani/methodes/bouteille_a_la_mer.md) ; [doctrine du Livre Vivant](../../../../research/livre_vivant.md).
+**Sources :** [présentation publique](../../../musee-mariani/presentation-publique-casa-mariani.md) ; [méthode Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md) ; [doctrine du Livre Vivant](../../../research/livre_vivant.md).
 
 **Statut de cette chronique :** constat éditorial de création du projet, non compte rendu d'exploitation du Musée. **Prochaine épreuve :** constater une première activité concrète du Musée avec source, date, résultat et éventuelles limites.

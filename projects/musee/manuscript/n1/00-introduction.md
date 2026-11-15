@@ -38,6 +38,6 @@ Ce Livre Vivant prend pour personnage principal **le Musée lui-même**. Chaque 
 
 > Le Musée ne doit pas seulement montrer ce que l'on savait faire. Il doit rendre vérifiables les conditions dans lesquelles nous pourrions le refaire — ou découvrir pourquoi cela échoue.
 
-[Source de l'intention](../../../..//musee-mariani/intention.md) · [Présentation publique](../../../..//musee-mariani/presentation-publique-casa-mariani.md).
+[Source de l'intention](../../../../musee-mariani/intention.md) · [Présentation publique](../../../../musee-mariani/presentation-publique-casa-mariani.md).
 
 **Statut :** présentation d'intention, méthode et programme ; aucun résultat expérimental nouveau n'est affirmé dans ce chapitre.

@@ -4,7 +4,7 @@ author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 license: CC BY-SA 4.0
 last_stamped_at: 2026-07-08T00:00:00.000Z
-last_modified_at: 2026-10-07T00:00:00.000Z
+last_modified_at: 2026-11-15T00:00:00.000Z
 title: Musée Mariani — préfiguration
 date: '2026-06-26'
 status: draft
@@ -97,6 +97,8 @@ musee-mariani/
 ```
 
 ## Présentation publique
+
+- **[Livre Vivant du Musée](../projects/musee/README.md)** — édition en préparation consacrée aux **activités du Musée lui-même** : [Livre](../projects/musee/manuscript/n1/README.md), [Magazine](../projects/musee/magazine/README.md), [Annexes](../projects/musee/annexes/README.md) et projection de lecture HTML. Les sources patrimoniales demeurent ici, sans duplication.
 
 - **[Explorer Casa Mariani selon vos centres d'intérêt](../research/trails/casa_mariani.md)** — Trail à embranchements : pourquoi ce Musée, que découvrir, comment il commence, comment contribuer.
 

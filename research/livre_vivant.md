@@ -5,7 +5,7 @@ description: "Définition source du concept de Livre Vivant : cinq faces complé
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-10-02"
-last_modified_at: "2026-10-26"
+last_modified_at: "2026-11-15"
 version: "0.2"
 status: "working-paper"
 license: "CC BY-SA 4.0"
@@ -175,7 +175,7 @@ Livre Vivant comme Stabilisateur
 
 ### Cas particulier : le Livre Vivant du Musée Mariani des Possibles
 
-Le futur Livre Vivant consacré au **Musée Mariani des Possibles** fournit une instanciation particulièrement complète de cette grammaire commune.
+Le [Livre Vivant consacré au **Musée Mariani des Possibles**](../projects/musee/README.md), initié le 15 novembre 2026 en **numéro 1 en préparation** (non gelé), propose une instanciation particulièrement complète de cette grammaire commune. Il documente les **activités du Musée lui-même**, en renvoyant au sous-corpus source `musee-mariani/`.
 
 Il relève à la fois de la muséologie théorique, de la muséologie pratique et de la recherche épistémique :
 

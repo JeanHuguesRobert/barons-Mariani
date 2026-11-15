@@ -141,6 +141,8 @@ successoraux.
 **[Découvrir Casa Mariani — Une Maison, un Musée, des Possibles](musee-mariani/presentation-publique-casa-mariani.md)** : présentation publique de préfiguration, avec annexes de provenance. Le [sous-corpus muséal](musee-mariani/README.md) conserve les sources et travaux détaillés.
 
 
+**[Livre Vivant du Musée — « Construire le Musée », n°1 en préparation](projects/musee/README.md)** : un Livre, un Magazine et des Annexes pour suivre ses propres activités et résultats ; [projection de lecture HTML](projects/musee/site/index.html) disponible dans le dépôt GitHub, sans domaine autonome déclaré opérationnel.
+
 Le Musée Mariani est le projet économique de Minesteggio — son moteur de
 revenus et sa raison d'être publique. Il se construit selon une logique
 possibiliste : partir de la fin, progressivement.

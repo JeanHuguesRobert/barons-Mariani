@@ -31,6 +31,8 @@ Le Magazine recueille les **deltas datés** du Musée Mariani des Possibles : ac
 
 ## Chroniques
 
+- [15 novembre 2026 — État initial des activités documentées](2026-11-15-etat-initial-des-activites.md) : repères sourcés, témoignages et projets séparés.
+
 - [15 novembre 2026 — Le Livre Vivant du Musée commence](2026-11-15-lancement-du-livre-vivant.md) : acte éditorial de préfiguration, pas inauguration d'un musée ouvert.
 
 ## Rubriques futures (sans faits présumés)
