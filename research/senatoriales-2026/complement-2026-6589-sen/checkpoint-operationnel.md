@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.3"
+version: "0.4"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -105,7 +105,10 @@ Un audit supplémentaire a rapproché l'[index historique P-46.01 à P-46.46](in
 
 L'audit détaillé, les références Gmail internes, les **dix EML supplémentaires acquis via le connecteur Gmail sans altération du MIME**, et les SHA-256 restent **exclusivement en privé** sous `/srv/cogentia/work/cc-2026-6589-preparation/audit/` (manifestes `p46-coverage-private.csv` et `p46-coverage-summary-private.json`). Aucun corps de mail, code de France Transfert, identifiant d'accès ou copie EML n'a été publié.
 
-**Pistes de déduplication avec P-14 :** recherche textuelle dans les 193 pages préfectorales : la correspondance intitulée « demande de rendez-vous et transmission du dossier » et portant l'heure **17 h 54** du 10 septembre est repérée dans **2601714, pages physiques 1 et 7**, et dans **2601715, pages physiques 10 et 30**. Il s'agit encore d'une **correspondance d'objet/heure**, non d'une équivalence de message entier ni des pièces jointes ; vérifier visuellement avant de dispenser P-46.02. Le premier courriel de **17 h 01** n'a pas été identifié avec une telle précision dans les pages textuellement extractibles, d'où son statut de preuve complémentaire éventuelle.
+**Pistes de déduplication avec P-14 :** contrôle textuel des 193 pages préfectorales et comparaison à des segments de messages Gmail :
+- **P-46.02** (10 septembre, 17 h 54) : sur **2601714, pages physiques 1 et 7**, et **2601715, pages 10 et 30**, **6 segments sur 17 testés** présentent une correspondance forte (ratio de sous-chaîne normalisée ≥ 0,75), dont certains intégralement. Il s'agit de **passages du corps** et non d'une preuve de reproduction des huit pièces jointes.
+- **P-46.01** (10 septembre, 17 h 01) : sur ces mêmes pages, **2 segments sur 22** présentent une correspondance forte, mais la présence intégrale de ce premier message et de ses neuf annexes n'est **pas démontrée** ; les originaux de ces deux gros messages restent accessibles dans Gmail sans nouvel envoi.
+- La conformité probatoire d'une référence à P-14 exige encore de **vérifier les pages visuellement**, les éventuelles citations imbriquées et les annexes utiles. **Aucun statut « couvert intégralement » ne découle de ces seuls tests textuels.**
 
 **Portée juridique / Talleyrand :** le rétablissement de la chronologie de demandes et réponses sert à éclairer les **griefs déjà soulevés**, notamment la réception/circulation de P-12 et l'examen éventuel de P-13 ; il ne permet pas d'inférer une intention des services, ni une réception serveur non prouvée. Les deux PDF préfectoraux sont des conteneurs à citer par **page physique** seulement lorsqu'une équivalence documentaire a été vérifiée ; les échanges postérieurs au 11 septembre ne sont pas présumés y figurer.
 
