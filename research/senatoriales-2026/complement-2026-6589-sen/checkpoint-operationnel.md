@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.6"
+version: "0.7"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -149,6 +149,14 @@ Après resynchronisation de Fracta2 sur le **commit source `3c86668936f0a83e4d82
 - La vérification **Canonical Agile Frontmatter** du maître source et du maître compilé passe : **2/2 valides, zéro erreur**.
 
 Ce contrôle établit une concordance forte **de ces cinq blocs substantiels**, sans affirmer encore l'audit complet de la totalité du courrier, de son sommaire, des liens et de son bordereau définitif.
+
+### Audit de parité complet des huit fragments du corps
+
+Un second contrôle, conservé dans le dossier privé sous `audit/full-body-parity-private.json`, reprend **l'ensemble des huit fragments effectivement compilés** : introduction/courrier, trois notices (P-43.a, P-13, P-18/P-19), QPC L.299, séparation, QPC L.303 et conclusion/renvois.
+
+Après conversion de chaque fragment source par Pandoc vers sa représentation textuelle puis normalisation des différences typographiques, **les huit fragments, totalisant 31 419 caractères normalisés, se retrouvent chacun en totalité, comme séquences continues et dans le bon ordre**, dans le TXT RFC et dans le texte extrait du PDF. Le rapport enregistre les empreintes SHA-256 des sources et des deux rendus ; il ne contient aucun corps de correspondance.
+
+Ce test **8/8 sur chaque canal** remplace avantageusement la vérification partielle antérieure **5/5** et les anciennes ancres statistiques **19/20**. Il apporte une preuve de **couverture textuelle complète des sources du corps** dans les deux projections. Il ne vérifie pas à lui seul la mise en page visuelle, la justesse de toutes les affirmations, l'état du bordereau matériel ni l'existence d'un dépôt effectif. **`filing_ready=false`.**
 
 ### Vie privée — balayage technique des documents destinés aux canaux
 
