@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.2"
+version: "0.4.3"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -538,14 +538,14 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C13 | P-46 : 46 références historiques localisées et octets sources contrôlés ? | PARTIEL — 44 EML natifs / 46 localisés | 44 EML originaux retrouvés et hachés localement ; P-46.01 et .02 dans Gmail, octets bruts non acquis (volumes à dédoublonner avec P-14) ; P-46-N1 = corpus distinct |
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
-| C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 vérifiée | P-09 = 2601715 p. 96, pixels identiques ; P-46.02/pages 2601714 p. 1 et 7, 2601715 p. 10 et 30 : pistes textuelles, pas équivalence encore établie |
-| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — prototype RFC validé, corps final non arrêté | TXT de 16 pages, 58 lignes et 72 colonnes maximum ; QPC incluses, audit intégral restant |
-| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — projections du même maître | P-43.a/P-13/P-18-P-19 et les QPC figurent dans les deux rendus ; bordereau final manquant |
+| C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 et P-46.02/P-46.04 localisées | P-09 = 2601715 p. 96 (pixel identique) ; P-46.04 préfecture 10/09 20h05 = 2601714 p.6 / 2601715 p.29 ; corps de P-46.02 = 2601714 pp.7–9 / 2601715 pp.30–32 ; annexes EML non présumées comprises |
+| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — TXT RFC contrôlé ; corps final non arrêté | TXT 16 pages, 58 lignes et 72 colonnes max ; deux QPC et trois notices retrouvées intégralement par normalisation ; inventaire non final |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — parité des cinq blocs contrôlée | Deux QPC + trois notices apparaissent comme séquences normalisées intégrales dans TXT et PDF ; bordereau définitif et reste du texte encore à auditer |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
 | C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
-| C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | PARTIEL — sources QPC incluses intégralement dans le maître | Ancres PDF : 19/20 L.299 et 20/20 L.303 ; ancres TXT : 19/20 chacune ; audit complet encore requis |
+| C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | PASS technique sur staging privé ; À REJOUER sur rendu final | Deux QPC intégrales dans maître ; sous-séquences complètes dans TXT RFC et PDF après suppression des seules différences typographiques ; 769/769 fenêtres de 64 caractères retrouvées dans chaque rendu |
 | C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | PASS matériel sur staging privé ; revue procédurale restante | Deux PDF distincts, extractibles, de 8 et 9 pages ; SHA-256 et identité intercanaux contrôlés |
 | C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | PARTIEL — 5 pièces communes identiques | 2 QPC, P-43.a lecture, P-18 original, P-19 lecture identiques par SHA-256 ; autres pièces non arrêtées |
 | C26 | P-14.1 (2601714) et P-14.2 (2601715) sont-ils **uniquement dans TransfertPro** avec fichiers natifs et SHA vérifiés ? | PASS sur staging privé ; À REJOUER sur lot final | Deux PDF préfectoraux 95 et 98 pages, copies SHA-256 vérifiées et seulement sur TransfertPro ; rien de livré |
