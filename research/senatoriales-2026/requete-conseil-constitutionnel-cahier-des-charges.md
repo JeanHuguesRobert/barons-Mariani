@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4"
+version: "0.4.1"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -530,8 +530,8 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C05 | Lien/boîte TransfertPro encore opérationnel ? | UNKNOWN | Préflight technique non émetteur |
 | C06 | Registre 44 P principales / 39 identifiants du PDF initial réconcilié ? | BLOCKED | Une entrée de couverture pour chaque citation réelle |
 | C07 | Sous-pièces P-43 et P-45 couvertes sans divulgation ? | UNKNOWN | Sources + versions expurgées |
-| C08 | P-13 native re-hashée sur la copie finale ? | PASS historique ; À REJOUER | SHA et taille du fichier à charger |
-| C09 | P-13 notice cohérente et sans argument nouveau ? | UNKNOWN | Revue de la notice de communication |
+| C08 | P-13 native re-hashée sur la copie finale ? | PASS sur staging privé ; À REJOUER sur lot final | MP4 79 663 474 octets, SHA-256 vérifié ; remise non effectuée |
+| C09 | P-13 notice cohérente et sans argument nouveau ? | PARTIEL | Notice P-13 intégrée ; provenance et rattachement G2/G3/G4 contrôlés ; revue contradictoire finale requise |
 | C10 | P-14, 2 PDF préfectoraux, doublons et pages vérifiés ? | PARTIEL | 95/98 pages et SHA confirmés ; signets/pages à réconcilier avec les P citées |
 | C11 | P-16/17/18/19/20 : statuts natif/copie/expurgé corrects ? | PARTIEL | Revue ciblée de chaque objet |
 | C12 | P-27 et P-40 correctement qualifiées (pas de faux original) ? | PARTIEL | Métadonnées + désignations exactes |
@@ -539,23 +539,25 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
 | C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 vérifiée | P-09 = 2601715 p. 96, pixels identiques ; autres entrées à contrôler |
-| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | BLOCKED | Test longueur/sommaire/pagination + comparaison du contenu L.299/L.303 |
-| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | BLOCKED | Comparaison sémantique et empreintes des fichiers |
+| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — prototype RFC validé, corps final non arrêté | TXT de 16 pages, 58 lignes et 72 colonnes maximum ; QPC incluses, audit intégral restant |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — projections du même maître | P-43.a/P-13/P-18-P-19 et les QPC figurent dans les deux rendus ; bordereau final manquant |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
 | C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
-| C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | BLOCKED | Confrontation intégrale aux deux Markdown QPC gelés ; absence d'omissions et variantes |
-| C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | BLOCKED | PDF L.299 + PDF L.303, textes extraits contrôlés, version et SHA-256 individuels |
-| C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | BLOCKED | Manifeste par canal et égalité des empreintes ; P-13 et P-14.1/2 seulement TransfertPro |
-| C26 | P-14.1 (2601714) et P-14.2 (2601715) sont-ils **uniquement dans TransfertPro** avec fichiers natifs et SHA vérifiés ? | PARTIEL | 95/98 pages + empreintes des sources contrôlés ; copies finales pas encore figées |
+| C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | PARTIEL — sources QPC incluses intégralement dans le maître | Ancres PDF : 19/20 L.299 et 20/20 L.303 ; ancres TXT : 19/20 chacune ; audit complet encore requis |
+| C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | PASS matériel sur staging privé ; revue procédurale restante | Deux PDF distincts, extractibles, de 8 et 9 pages ; SHA-256 et identité intercanaux contrôlés |
+| C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | PARTIEL — 5 pièces communes identiques | 2 QPC, P-43.a lecture, P-18 original, P-19 lecture identiques par SHA-256 ; autres pièces non arrêtées |
+| C26 | P-14.1 (2601714) et P-14.2 (2601715) sont-ils **uniquement dans TransfertPro** avec fichiers natifs et SHA vérifiés ? | PASS sur staging privé ; À REJOUER sur lot final | Deux PDF préfectoraux 95 et 98 pages, copies SHA-256 vérifiées et seulement sur TransfertPro ; rien de livré |
 | C27 | P-09 est-elle remplacée **sans perte** par 2601715 p. 96, et les autres équivalences citées par page ? | PARTIEL | P-09 visuellement identique ; matrice des autres pièces reste à achever |
-| C28 | Total effectif des pièces jointes au courriel sous plafond, sans substitution automatique de liens Drive ? | UNKNOWN | Exclure P-14.1/2 et P-09 ; calcul MIME sur le lot arrêté |
+| C28 | Total effectif des pièces jointes au courriel sous plafond, sans substitution automatique de liens Drive ? | PARTIEL — sous-lot 382 568 octets | 5 PDF du staging email ; couverture complète et taille MIME finale restent à vérifier |
 | C29 | Requérant a approuvé expressément le **lot concret** ? | NOT_GRANTED | Validation distincte, spécifique |
 | C30 | Courriel et TransfertPro ont été effectivement émis/acceptés ? | NOT_SENT | Preuves séparées futures, jamais pré-remplies |
 | C31 | Greffe a enregistré/examiné chaque pièce ? | UNKNOWN | Preuve externe ultérieure, **non condition de préparation** |
 
 **Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C30/C31 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C29 est une porte d'autorité distincte du contrôle technique.
+
+**Preuves des contrôles matériels récents :** [checkpoint opérationnel privé/public séparé](complement-2026-6589-sen/checkpoint-operationnel.md). Les résultats obtenus **sur le staging privé** ne valent pas dépôt ni validation juridique. Les vérifications de confidentialité et le contrôle contradictoire final restent bloquants.
 
 ## 32. Dossiers et responsabilités
 
