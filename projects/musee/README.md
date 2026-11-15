@@ -28,7 +28,7 @@ review:
 
 # Musée Mariani des Possibles — le Musée en train de se faire
 
-**Livre Vivant de la vie et des activités du Musée.** Son premier numéro, *Construire le Musée*, est **public dans GitHub et en préparation**, sans édition gelée ni site autonome déclaré ouvert.
+**Livre Vivant de la vie et des activités du Musée.** Son premier numéro, *Construire le Musée*, est **en préparation**, sans édition gelée. Sa projection publique est **accessible en HTTPS** sur [museum.baronsmariani.org](https://museum.baronsmariani.org/).
 
 Il raconte comment Minesteggio, patrimoine familial à Corte, devient progressivement le terrain d'un écomusée d'enquête : conservation critique, expériences avec les savoir-faire anciens, ateliers territoriaux, Boutique Mobile et objets singuliers porteurs de missions. Son objet est **l'activité observable du Musée**, ses décisions, méthodes, essais, apprentissages, difficultés, résultats et corrections ; il ne remplace pas les sources patrimoniales.
 
@@ -60,6 +60,6 @@ Le registre de chaque objet matériel est séparé de l'identité de ses détent
 - **Architecture éditoriale du présent livre :** [contrat](editorial-architecture.md).
 - **Manifeste et sélection :** [living-book.yml](living-book.yml), [corpus.yml](corpus.yml) et [n°1 en préparation](projections/n1-working.yml).
 - **Éditions :** [registre](editions/index.md) — aucune édition gelée.
-- **Vitrine web :** [projection statique](site/index.html) disponible dans GitHub ; `museum.baronsmariani.org` est l'**unique domaine canonique décidé** le 15 novembre 2026, sans alias. Son accessibilité HTTPS reste non confirmée. Le déploiement relève d'Operium.
+- **Vitrine web :** [projection statique](site/index.html) disponible dans GitHub et publiée sur **[museum.baronsmariani.org](https://museum.baronsmariani.org/)**, unique domaine canonique sans alias. Accès HTTPS vérifié le 15 novembre 2026 ; [reçu de déploiement dans Operium](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md).
 
 **Direction éditoriale :** Jean Hugues Noël Robert, baron Mariani. **Cadre :** Institut Mariani / association C.O.R.S.I.C.A. La création d'un Livre Vivant ne constitue pas la création d'un musée juridiquement ouvert, d'une boutique en vente, d'un fonds de dotation enregistré ni d'un service public de contribution.

@@ -27,4 +27,4 @@ review:
 
 Pages statiques disponibles en source : accueil, Livre (texte des cinq chapitres), Magazine, **Boutique** (catalogue de préfiguration, aucun article commandable), Annexes, Contribuer et Mentions. Les pages sont des **produits dérivés** des sources Markdown ; leurs liens de provenance pointent vers GitHub.
 
-**État :** en préparation, non gelé, non attesté comme déployé sur un domaine. Si une source change, régénérer les passages correspondants de la projection avant d'annoncer la mise à jour publique. Les scripts de publication futurs devront être raccordés à la Living Book Factory et vérifiés dans leur résultat final ; la présence de ces HTML ne vaut pas automatisation.
+**État :** numéro 1 en préparation, non gelé ; projection statique **déployée sur [museum.baronsmariani.org](https://museum.baronsmariani.org/)** et vérifiée en HTTPS le 15 novembre 2026. Si une source change, régénérer les passages correspondants de la projection avant d'annoncer la mise à jour publique. Le script de publication borné existe dans Operium ; son déclenchement automatique depuis la Living Book Factory reste à concevoir et vérifier.
