@@ -25,6 +25,6 @@ review:
 
 # Projection HTML de travail du Livre Vivant Musée
 
-Pages statiques disponibles en source : accueil, Livre (texte des cinq chapitres), Magazine, Annexes, Contribuer et Mentions. Les pages sont des **produits dérivés** des sources Markdown ; leurs liens de provenance pointent vers GitHub.
+Pages statiques disponibles en source : accueil, Livre (texte des cinq chapitres), Magazine, **Boutique** (catalogue de préfiguration, aucun article commandable), Annexes, Contribuer et Mentions. Les pages sont des **produits dérivés** des sources Markdown ; leurs liens de provenance pointent vers GitHub.
 
 **État :** en préparation, non gelé, non attesté comme déployé sur un domaine. Si une source change, régénérer les passages correspondants de la projection avant d'annoncer la mise à jour publique. Les scripts de publication futurs devront être raccordés à la Living Book Factory et vérifiés dans leur résultat final ; la présence de ces HTML ne vaut pas automatisation.

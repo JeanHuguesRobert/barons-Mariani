@@ -43,6 +43,7 @@ Il raconte comment Minesteggio, patrimoine familial à Corte, devient progressiv
 - [La Boutique, les Livres Vivants et les Bouteilles à la Mer](manuscript/n1/03-boutique-et-bouteilles.md)
 - [Suivre le Réel : méthode, économie et limites](manuscript/n1/04-observer-et-corriger.md)
 - [Magazine — journal de bord des activités](magazine/README.md)
+- [Boutique — catalogue de préfiguration](boutique/README.md) · [page HTML](site/boutique.html)
 - [Annexes et sources](annexes/README.md)
 - [Projection HTML de travail](site/index.html)
 
