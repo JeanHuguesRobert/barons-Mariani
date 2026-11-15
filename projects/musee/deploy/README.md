@@ -29,8 +29,8 @@ review:
 
 **État au 15 novembre 2026 : source GitHub et projection HTML, pas de déploiement autonome vérifié.**
 
-- **Hôte proposé** : `musee.baronsmariani.org` (nom de travail dérivé de l'échange éditorial, sous réserve d'une décision de DNS distincte).
-- **Hôte évoqué antérieurement** : `museum.baronsmariani.org` ; aucune réservation, redirection, zone DNS, certificat, route ou vhost n'est attesté ici.
+- **Hôte canonique retenu par le Principal le 15 novembre 2026** : `museum.baronsmariani.org`. **Un seul hôte, sans alias ni redirection `musee`**, selon le principe d'Occam.
+- **DNS, TLS et routage** : à contrôler puis configurer dans le plan opérationnel autorisé ; la présente décision ne signifie pas qu'un service est déjà déployé.
 - **Site préparé** : `projects/musee/site/`, ensemble de pages statiques source-first.
 - **Registre opérationnel** : [Operium — living-books-deployment.md](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md). Les onze Livres Vivants précédemment recensés n'incluent pas `musee`.
 - **Prochaine étape opératoire** : inspecter la topologie publique réellement active (route, DNS, TLS, origine et déploiement) ; enregistrer la décision de nom de domaine, puis effectuer un déploiement autorisé séparément avec vérification HTTP, contenu, liens et retour arrière.

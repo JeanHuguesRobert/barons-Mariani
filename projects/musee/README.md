@@ -59,6 +59,6 @@ Le registre de chaque objet matériel est séparé de l'identité de ses détent
 - **Architecture éditoriale du présent livre :** [contrat](editorial-architecture.md).
 - **Manifeste et sélection :** [living-book.yml](living-book.yml), [corpus.yml](corpus.yml) et [n°1 en préparation](projections/n1-working.yml).
 - **Éditions :** [registre](editions/index.md) — aucune édition gelée.
-- **Vitrine web :** [projection statique](site/index.html) présente dans le dépôt ; `musee.baronsmariani.org` n'est qu'un **hôte envisagé**, pas une adresse annoncée fonctionnelle. Le déploiement relève d'Operium.
+- **Vitrine web :** [projection statique](site/index.html) disponible dans GitHub ; `museum.baronsmariani.org` est l'**unique domaine canonique décidé** le 15 novembre 2026, sans alias. Son accessibilité HTTPS reste non confirmée. Le déploiement relève d'Operium.
 
 **Direction éditoriale :** Jean Hugues Noël Robert, baron Mariani. **Cadre :** Institut Mariani / association C.O.R.S.I.C.A. La création d'un Livre Vivant ne constitue pas la création d'un musée juridiquement ouvert, d'une boutique en vente, d'un fonds de dotation enregistré ni d'un service public de contribution.

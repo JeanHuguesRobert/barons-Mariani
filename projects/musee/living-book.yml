@@ -3,7 +3,7 @@ book:
   id: musee
   title: Musée Mariani des Possibles
   subtitle: Le Musée en train de se faire
-  canonical_host: musee.baronsmariani.org
+  canonical_host: museum.baronsmariani.org
   language: fr
   description: >
     Livre Vivant des activités et de la construction progressive du Musée
