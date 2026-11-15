@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.6"
+version: "0.4.7"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -510,7 +510,7 @@ Contrôles sur **octets finaux** : texte/EML/HTML imbriqué/PDF extrait/annexes/
 | GATE-03 | **Preuves** — chaque pièce a provenance, état, canal et confidentialité | Matrice exhaustive sur fichiers finaux | BLOCKED — sélection/expurgation incomplètes |
 | GATE-04 | **Temps** — aucune régularisation rétroactive ni mélange des périodes | Revue chronologique contradictoire | UNKNOWN — à rejouer sur lot final |
 | GATE-05 | **Contradictoire** — objections juridiques et causalité limitées | Revue adverse des notices | UNKNOWN — à rejouer |
-| GATE-06 | **Complétude** — aucune pièce ou grief orphelin, aucune lacune cachée ; **QPC L.299/L.303 intégrales et autonomes toutes deux** | Matrice du PDF initial vs bordereau final + correspondance maître/QPC | BLOCKED — références et compilation QPC non finalisées |
+| GATE-06 | **Complétude** — aucune pièce ou grief orphelin, aucune lacune cachée ; **QPC L.299/L.303 intégrales et autonomes toutes deux** | Matrice du PDF initial vs bordereau final + correspondance maître/QPC | BLOCKED — compilation QPC acquise sur staging, mais couverture et sélection du lot final non clôturées |
 | GATE-07 | **Canaux** — rendus texte/PDF de même contenu ; **deux PDF QPC identiques par octets entre email/TransfertPro** ; pièces communes identiques ; **P-13 + P-14.1 + P-14.2 uniquement TransfertPro**, doublons cités par page | Tests TXT/PDF/QPC, empreintes et inventaire par canal | BLOCKED — lot de travail non final |
 | GATE-08 | **Diff/checkpoint** — ajouts et retraits tracés | Version/source + journal d'écarts | UNKNOWN — contrôle du delta à achever |
 | GATE-09 | **Gouvernance** — pas de transmission sans décision spécifique | Brouillon présenté, absence de dépôt anticipé | PASS pour non-émission ; autorisation finale non donnée |
@@ -518,6 +518,44 @@ Contrôles sur **octets finaux** : texte/EML/HTML imbriqué/PDF extrait/annexes/
 **Règle de décision :** `filing_ready = true` uniquement si tous les gates bloquants ont une preuve de réussite et si les arbitrages indispensables ont été explicitement rendus. `PASS` de construction ≠ autorisation d'envoyer. La section 31 complète ces neuf gates par des contrôles matériels.
 
 ## 31. Tableau de bord matériel final — checklist « pilote »
+
+### 31.A. Registre de reprise — fait / restant / preuve (source unique)
+
+**Tableau opératoire du 15/11/2026**, établi à partir du [checkpoint opérationnel](complement-2026-6589-sen/checkpoint-operationnel.md), de la [matrice de couverture](complement-2026-6589-sen/matrice-couverture-pieces.md) et des observations de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). **C'est la file de travail à consulter en premier à chaque reprise** ; les contrôles détaillés C01–C31 ci-dessous restent la grille de recette, non une seconde file indépendante. Un état `ACQUIS` valide **uniquement le sous-résultat délimité**, jamais le lot judiciaire entier.
+
+**Règle anti-répétition / FBF :** avant de rechercher, télécharger, hacher, compiler ou vérifier, consulter l'ID ci-dessous et sa preuve. Ne pas refaire un `ACQUIS` tant que **source, empreinte/version et critère testé** n'ont pas changé ; le contrôle final de l'exemplaire **effectivement remis** est une vérification différente et légitime. Si une preuve manque, inscrire précisément `UNKNOWN` et la frontière manquante, plutôt que recommencer l'inventaire entier. Une opération nouvelle doit mettre à jour **la ligne existante** (date, résultat et preuve), non créer un journal concurrent. Ne jamais transformer `STAGED` en `SENT` sans accusé. Le contenu sensible des preuves reste exclusivement dans le staging privé.
+
+| ID | État acquis au 15/11 (ne pas refaire sans déclencheur) | Preuve / périmètre exact | Reste à faire, si applicable |
+|---|---|---|---|
+| A01 | **ACQUIS** — saisine du 07/10 identifiée, accusée par le greffe le 08/10 ; source v0.34 préservée | #127 et [source historique](requete-conseil-constitutionnel.md) ; **pas** de vérification de l'archive binaire initiale | Traiter l'empreinte du PDF initial séparément : T01 / #115 |
+| A02 | **ACQUIS** — 46/46 références P-46 historiques **localisées** ; 44 EML natifs privés, deux gros messages P-46.01/.02 identifiés dans Gmail ; P-46-N1 corpus distinct | [Index P-46](complement-2026-6589-sen/index-p46-controle.csv) et audit privé décrit au checkpoint ; localisation ≠ versement | Décider de l'utilité des deux originaux volumineux, **sans exporter de nouveau par réflexe** (T03) |
+| A03 | **ACQUIS sur staging** — MP4 P-13 natif haché, **79 663 474 octets**, SHA-256 `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` | [Parcours P-13](complement-2026-6589-sen/parcours-video-p13-v0.1.md) ; copie privée destinée à TransfertPro | Contrôle de la copie finale seulement ; réception serveur préfectoral de P-12 et visionnage antérieur restent UNKNOWN |
+| A04 | **ACQUIS sur les sources** — PDF préfectoraux 2601714 (95 p.) et 2601715 (98 p.) présents/hachés ; P-09 identique à 2601715 p.96 ; P-46.04 et corps P-46.02 localisés à pages déterminées | [Matrice de couverture](complement-2026-6589-sen/matrice-couverture-pieces.md), C10/C16 ; renvois de pages à conserver | Autres équivalences exactes, y compris annexes des EML, encore à établir (T04) |
+| A05 | **ACQUIS sur les sources** — P-43.a EML vérifié + PDF de lecture ; P-17 deux photos vérifiées + PDF de lecture ; P-18 original égal octet pour octet à l'annexe P-19 ; P-19 et trace de prise de connaissance par le TA identifiées | [Checkpoint](complement-2026-6589-sen/checkpoint-operationnel.md), [#131](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131) ; ne pas assimiler reproduction et original | Qualification des autres pièces, couverture complète et confidentialité (T03/T05) |
+| A06 | **ACQUIS technique sur staging** — deux QPC autonomes de 8 et 9 pages, intégrales dans le maître/TXT/PDF ; deux PDF QPC identiques entre canaux | C23–C25 et tests de parité du checkpoint ; **pas de validation de recevabilité** | Relecture juridique des sources et vérification de l'exemplaire final (T06/T08) |
+| A07 | **ACQUIS technique sur staging** — neuf fragments textuels retrouvés dans l'ordre et en entier ; TXT RFC 17 pages, PDF consolidé 18 pages ; six PDF communs identiques entre canaux | [#127, checkpoint de compilation](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6893965148), C17/C18/C25 | Visuel PDF, bordereau, occultation et versions finales encore ouverts (T05/T07/T08) |
+| A08 | **ACQUIS sur inventaire provisoire** — dix fichiers en staging TransfertPro (104 972 951 octets) ; simulation SMTP **sans envoi** à 1 249 304 octets | [Checkpoint](complement-2026-6589-sen/checkpoint-operationnel.md) et C28 ; nombres valables pour le lot alors simulé | Réévaluer taille et MIME **uniquement après modification du lot final** (T08/T09) |
+| A09 | **ACQUIS documentaire** — matrice nommée des 44 pièces principales et six sous-pièces, avec états distincts et références | [Matrice de couverture](complement-2026-6589-sen/matrice-couverture-pieces.md) | Des lignes restent non résolues : compléter les correspondances et choix probatoires (T02/T03/T04) |
+
+**File restante, ordonnée par dépendances et sans reprise des acquis :**
+
+| ID | Priorité / état | Action non achevée (critère de sortie) | Responsable / contrôles |
+|---|---|---|---|
+| T01 | **P0 · UNKNOWN** | Contrôler le binaire **exact** initial du 07/10 (taille, SHA, archive) ; ne jamais régénérer en prétendant archiver. Clôturer seulement avec preuve de concordance | [#115](https://github.com/JeanHuguesRobert/barons-Mariani/issues/115), C02, GATE-01 |
+| T02 | **P0 · BLOCKED** | Réconcilier les **39 références du PDF initial**, les 44 pièces principales et six sous-pièces ; assigner à chaque pièce une décision motivée `JOINDRE / RENVOI P-14+PAGE / RÉSERVE / NON NÉCESSAIRE`, sans perdre le grief correspondant | #128/#131, C06/C15, GATE-02/03/06 |
+| T03 | **P0 · PARTIEL** | Résoudre les sources prioritaires non sélectionnées (**P-16/P-20, P-43.b, P-45.a–d, P-46.01/.02**) **selon utilité résiduelle prouvée** ; ne pas exporter automatiquement les deux volumineux EML déjà identifiés | #131, C07/C11/C13/C15 |
+| T04 | **P0 · PARTIEL** | Vérifier la couverture exacte des éléments par les 193 pages de P-14, par référence/pagination physique et nature de copie ; ne pas recalculer P-09 | #131, C10/C16/C27 |
+| T05 | **P0 · BLOCKED** | Audit de confidentialité **sur les fichiers candidats finaux** (CAF, données de tiers, en-têtes EML, URL d'accès, PDF/images/métadonnées) ; expurgations justifiées et journal **privé** ; aucun original sensible sur GitHub | #131/#134, C14/C20, GATE-03 |
+| T06 | **P0 · UNKNOWN** | Revue de recevabilité **temporelle et formelle des deux QPC**, dispositions précédemment déclarées conformes (pas seulement « au regard du grief »), jurisprudence L.299/L.303, motifs exacts du TA, meilleure objection ; ajuster les sources si nécessaire **avant recompilation** | [#129](https://github.com/JeanHuguesRobert/barons-Mariani/issues/129), C21, GATE-05/06 |
+| T07 | **P1 · PARTIEL** | Geler bordereau et texte maître après T02–T06 : rattachement G1–G5, chrono, notes de provenance, absence de moyen nouveau, sept critères Talleyrand (§24 bis) | #128/#133/#134, C09/C15/C21, GATE-02/04/05/06 |
+| T08 | **P1 · PARTIEL** | Régénérer **une seule fois après gel** les sorties définitives ; contrôle de parité exhaustive, relecture visuelle des 18 pages et des QPC, empreintes des **fichiers finaux**, liste ventilée courriel/TransfertPro et diff | #133/#134, C17–C28, GATE-06/07/08 |
+| T09 | **P0 · UNKNOWN/BLOCKED** | Vérifier **état juridictionnel actuel**, faculté réelle de compléter, validité actuelle de la boîte TransfertPro ; vérifier formats/plafonds puis présenter le **lot exact** au requérant | #134, C03/C04/C05/C19/C22 ; à vérifier avant autorisation ou dépôt |
+| T10 | **APRÈS PRÉPARATION · NOT_GRANTED** | Soumettre au requérant l'objet, corps intégral, pièces/canaux et empreintes définitives ; recueillir une autorisation **expresse et spécifique** de transmission | #127/#134, C29, GATE-09 ; ne jamais assimiler `file_ready` à consentement |
+| T11 | **APRÈS AUTORISATION · NOT_SENT** | Actes de transmission décidés par le requérant puis conservation **des accusés séparés** (courriel, TransfertPro, enregistrement, examen si confirmé) ; aucune case précochée | #134, C30/C31 ; preuve externe postérieure |
+
+**Reprise en une passe :** lire d'abord ce tableau, puis **seulement les sources mentionnées dans les lignes ouvertes**. À chaque avancée, modifier le statut de Txx et la preuve, signaler l'éventuelle invalidation de Axx, et synchroniser les Cxx/GATE associés. **Ne pas refaire** A02, A03, A04 (contrôles déjà indiqués), A05, A06 ni A07 faute de changement objectif de source ou de cible. Ne déclarer `filing_ready: true` qu'après T01–T09 satisfaits (avec toute dispense explicite et justifiée), sans préremplir T10/T11.
+
+### 31.B. Contrôles détaillés C01–C31 (recette, non nouvelle liste de tâches)
 
 Cette liste doit être remplie avec **preuves et horodatage**, pas avec une estimation de pourcentage. Les statuts ci-dessous sont un **instantané de travail au 15 novembre**, réévaluable ; `UNKNOWN` n'est pas un échec démontré.
 
@@ -557,7 +595,7 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 
 **Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C30/C31 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C29 est une porte d'autorité distincte du contrôle technique.
 
-**Preuves des contrôles matériels récents :** [checkpoint opérationnel privé/public séparé](complement-2026-6589-sen/checkpoint-operationnel.md). Voir également la [matrice de couverture canonique](complement-2026-6589-sen/matrice-couverture-pieces.md) pour la sélection des 44 pièces principales et six sous-pièces. Les résultats obtenus **sur le staging privé** ne valent pas dépôt ni validation juridique. Les vérifications de confidentialité et le contrôle contradictoire final restent bloquants.
+**Preuves des contrôles matériels récents (voir A01–A09 et T01–T11 avant de lancer un nouveau travail) :** [checkpoint opérationnel privé/public séparé](complement-2026-6589-sen/checkpoint-operationnel.md). Voir également la [matrice de couverture canonique](complement-2026-6589-sen/matrice-couverture-pieces.md) pour la sélection des 44 pièces principales et six sous-pièces. Les résultats obtenus **sur le staging privé** ne valent pas dépôt ni validation juridique. Les vérifications de confidentialité et le contrôle contradictoire final restent bloquants.
 
 ## 32. Dossiers et responsabilités
 
