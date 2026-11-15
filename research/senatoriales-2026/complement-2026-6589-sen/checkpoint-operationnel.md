@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.8"
+version: "0.9"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -36,7 +36,7 @@ review:
 
 ## Rattachement et hiérarchie
 
-Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4.4, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
+Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4.5, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
 
 La préparation a été reprise depuis un **HEAD synchronisé avec origin/main : 49e11a20912fc68578650b5a4e16c02ddd37eefb**, sans redémarrer les recherches de zéro. Les versions d'artefacts produits ci-dessous sont issues de ce commit ; le présent checkpoint Git est postérieur.
 
@@ -173,13 +173,15 @@ La [matrice opérationnelle canonique](matrice-couverture-pieces.md), à **nom s
 - PDF de **lecture photographique** construit sans transcription substitutive : `P-17-photographies-note.pdf`, **2 pages, une image incorporée par page**, **489 473 octets**, SHA-256 `8098d3ea5888e6e023a607b6e01e96109d5ca0dd14f3048c134f5ffea60627a8` ;
 - préparation privée sur **les deux canaux, fichiers identiques par empreinte**, sans présumer que cet exemplaire ait été effectivement remis à la formation du TA. Une notice explicative bornée aux griefs G3/G4 initiaux a été intégrée au corps documentaire.
 
-**État compilateur après P-17 :** **neuf fragments constitutifs** sont trouvés intégralement dans le TXT RFC et dans le texte extrait du PDF consolidé, chacun comme sous-séquence continue et dans le bon ordre (contrôle de **32 517 caractères normalisés**, rapport privé conservé). Le TXT comporte **17 pages RFC**, le PDF **19 pages**. Ce résultat couvre la **composition textuelle** ; la vérification visuelle finale et la recevabilité des pièces restent distinctes.
+**État compilateur après P-17 :** **neuf fragments constitutifs** sont trouvés intégralement dans le TXT RFC et dans le texte extrait du PDF consolidé, chacun comme sous-séquence continue et dans le bon ordre (contrôle de **32 517 caractères normalisés**, rapport privé conservé). Le TXT comporte **17 pages RFC**, le PDF **18 pages après correction FBF de la page finale orpheline**. Ce résultat couvre la **composition textuelle** ; la vérification visuelle finale et la recevabilité des pièces restent distinctes.
+
+**FBF — correction de mise en page du PDF consolidé :** la première projection P-17 sur **19 pages** laissait la signature seule en page finale. La taille typographique et l'interligne ont été légèrement réduits dans la **recette PDF uniquement**, sans toucher aux sources substantives ni au profil RFC. Le PDF recompilé est désormais de **18 pages A4**, aucune page vide ou quasi vide selon extraction automatique ; la signature suit la formule de courtoisie sur la dernière page. Les **neuf fragments** restent présents et ordonnés dans les deux rendus, contrôles relancés, empreintes actualisées dans le staging privé.
 
 **Inventaire matériel privé :**
-- **Courriel** : texte RFC + **six PDF communs** (2 QPC, P-43.a lecture, P-17 photos, P-18 CAF, P-19 lecture), **872 041 octets d'annexes**.
-- **TransfertPro** : PDF consolidé + **les six mêmes PDF communs** + **P-13 MP4 natif** + **deux PDF préfectoraux**, soit **dix fichiers totalisant 104 968 150 octets**.
+- **Courriel** : texte RFC + **six PDF communs** (2 QPC, P-43.a lecture, P-17 photos, P-18 CAF, P-19 lecture), **872 041 octets d'annexes**. Simulation RFC 5322 actualisée : **1 249 262 octets**.
+- **TransfertPro** : PDF consolidé + **les six mêmes PDF communs** + **P-13 MP4 natif** + **deux PDF préfectoraux**, soit **dix fichiers dont le volume doit être recalculé après correction du PDF maître**.
 - **Contrôle de préflight** : égalité stricte entre fichiers attendus et présents, empreintes SHA-256, permissions privées, PDF lisibles, distribution et duplications justifiées ; le rapport est sous `audit/staged-preflight-private.json`.
-- **Test MIME non expédié** : email RFC 5322 simulé avec six pièces et corps TXT, **1 249 304 octets**, sous le plafond courant de 25 Mo pour ce sous-lot ; il ne présume ni la taille d'un inventaire futur ni les restrictions d'un relais.
+- **Test MIME non expédié** : email RFC 5322 simulé avec six pièces et corps TXT, **1 249 262 octets**, sous le plafond courant de 25 Mo pour ce sous-lot ; il ne présume ni la taille d'un inventaire futur ni les restrictions d'un relais.
 
 **P-16/P-20 :** l'audit du dépôt initial du 7 octobre confirme des **productions historiques PDF hachées**, mais les fichiers correspondants ne sont pas présents dans le staging actuel. P-16 reste qualifié comme reproduction candidate, non identique de manière démontrée à l'exemplaire déposé au TA. P-20 avait été assemblé depuis des photographies du jugement et de sa notification : son identité et les photos sources doivent être réexaminées avant toute nouvelle remise. **P-27** est documenté dans le Corpus et sur la [page officielle du Sénat](https://senatoriales2026.senat.fr/departement/2B-haute-corse) : une référence publique vérifiable est préférée à une copie redondante, sauf nécessité probatoire spécifique.
 
