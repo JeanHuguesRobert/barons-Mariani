@@ -70,6 +70,17 @@ def main():
         ).read_text(encoding="utf-8")
         receipt = json.loads((active / "candidate-deploy.json").read_text())
         assert receipt["case_page_sha256"] == hashlib.sha256(cases.encode("utf-8")).hexdigest()
+        magazine = (active / "magazine.html").read_text(encoding="utf-8")
+        annexes = (active / "annexes.html").read_text(encoding="utf-8")
+        assert "magazine/historique/2026-10-02" in magazine
+        assert "Dossiers de recherche A1" in annexes
+        for page, content in (("magazine", magazine), ("annexes", annexes)):
+            assert receipt[page + "_page_sha256"] == hashlib.sha256(
+                content.encode("utf-8")
+            ).hexdigest()
+        assert "magazine.html" in (active / "en-preparation.html").read_text()
+        assert "annexes.html" in (active / "en-preparation.html").read_text()
+
         assert receipt["source_sha256"] == new["source_sha256"]
         assert len(list(releases.iterdir())) == 2
         again = run(revision, root, True)

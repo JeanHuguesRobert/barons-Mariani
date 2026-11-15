@@ -78,7 +78,21 @@ def read_candidate(repo, revision):
             or "brouillons non relus" not in case_page
             or "case-05-dematerialisation" not in case_page):
         raise ValueError("Unexpected Case du Reel index page")
-    return files, item, site_page, case_page
+    magazine_page = git_blob(
+        repo, revision, "projects/capable/site/magazine.html"
+    ).decode("utf-8")
+    annexes_page = git_blob(
+        repo, revision, "projects/capable/site/annexes.html"
+    ).decode("utf-8")
+    if ('https://capable.acorsica.org/magazine.html' not in magazine_page
+            or "magazine/historique/2026-10-02" not in magazine_page
+            or "en-preparation.html" not in magazine_page):
+        raise ValueError("Magazine site page lacks canonical source recovery")
+    if ('Annexes' not in annexes_page
+            or 'Dossiers de recherche A1' not in annexes_page
+            or 'cases.html' not in annexes_page):
+        raise ValueError("Annexes source page is not current")
+    return files, item, site_page, case_page, magazine_page, annexes_page
 
 
 def new_homepage(old):
@@ -125,7 +139,7 @@ def perform(repo, site_root, revision, apply):
     ).strip()
     if ref != revision:
         raise ValueError("origin/main advanced; refresh and retry")
-    files, item, site_page, case_page = read_candidate(repo, revision)
+    files, item, site_page, case_page, magazine_page, annexes_page = read_candidate(repo, revision)
     resolved = site_root.resolve()
     releases = resolved / "releases"
     current = resolved / "current"
@@ -146,7 +160,8 @@ def perform(repo, site_root, revision, apply):
     version = digest(
         files["capable.html"] + files["capable.pdf"] +
         files["capable.epub"] + new_page.encode("utf-8") +
-        case_page.encode("utf-8") + new_home.encode("utf-8") +
+        case_page.encode("utf-8") + magazine_page.encode("utf-8") +
+        annexes_page.encode("utf-8") + new_home.encode("utf-8") +
         "".join(durable_hashes.values()).encode("ascii")
     )[:16]
     dest = releases / f"capable-work-{version}"
@@ -159,6 +174,8 @@ def perform(repo, site_root, revision, apply):
         "durable_book_sha256": durable_hashes,
         "release": dest.name,
         "case_page_sha256": digest(case_page.encode("utf-8")),
+        "magazine_page_sha256": digest(magazine_page.encode("utf-8")),
+        "annexes_page_sha256": digest(annexes_page.encode("utf-8")),
         "files": {name: digest(files[name]) for name in PREVIEW},
     }
     if not apply:
@@ -199,6 +216,12 @@ def perform(repo, site_root, revision, apply):
                 )
                 (staging / "cases.html").write_text(
                     case_page, encoding="utf-8"
+                )
+                (staging / "magazine.html").write_text(
+                    magazine_page, encoding="utf-8"
+                )
+                (staging / "annexes.html").write_text(
+                    annexes_page, encoding="utf-8"
                 )
                 (staging / "index.html").write_text(new_home, encoding="utf-8")
                 (staging / "candidate-deploy.json").write_text(

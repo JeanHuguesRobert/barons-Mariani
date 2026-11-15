@@ -291,6 +291,10 @@ jobs:
             https://capable.acorsica.org/en-preparation.html | grep -q cases.html
           curl --fail --show-error --silent \
             https://capable.acorsica.org/cases.html | grep -q "brouillons non relus"
+          curl --fail --show-error --silent \
+            https://capable.acorsica.org/magazine.html | grep -q "magazine/historique/2026-10-02"
+          curl --fail --show-error --silent \
+            https://capable.acorsica.org/annexes.html | grep -q "Dossiers de recherche A1"
           echo "CANONICAL_WORKING_EDITION_PUBLISHED"
       - name: Archive canonical deployment receipt
         if: always()
