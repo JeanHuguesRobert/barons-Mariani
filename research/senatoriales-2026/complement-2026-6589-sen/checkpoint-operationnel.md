@@ -179,7 +179,7 @@ La [matrice opérationnelle canonique](matrice-couverture-pieces.md), à **nom s
 
 **Inventaire matériel privé :**
 - **Courriel** : texte RFC + **six PDF communs** (2 QPC, P-43.a lecture, P-17 photos, P-18 CAF, P-19 lecture), **872 041 octets d'annexes**. Simulation RFC 5322 actualisée : **1 249 262 octets**.
-- **TransfertPro** : PDF consolidé + **les six mêmes PDF communs** + **P-13 MP4 natif** + **deux PDF préfectoraux**, soit **dix fichiers dont le volume doit être recalculé après correction du PDF maître**.
+- **TransfertPro** : PDF consolidé + **les six mêmes PDF communs** + **P-13 MP4 natif** + **deux PDF préfectoraux**, soit **dix fichiers totalisant 104 972 951 octets après recompilation et contrôle des empreintes**.
 - **Contrôle de préflight** : égalité stricte entre fichiers attendus et présents, empreintes SHA-256, permissions privées, PDF lisibles, distribution et duplications justifiées ; le rapport est sous `audit/staged-preflight-private.json`.
 - **Test MIME non expédié** : email RFC 5322 simulé avec six pièces et corps TXT, **1 249 262 octets**, sous le plafond courant de 25 Mo pour ce sous-lot ; il ne présume ni la taille d'un inventaire futur ni les restrictions d'un relais.
 
