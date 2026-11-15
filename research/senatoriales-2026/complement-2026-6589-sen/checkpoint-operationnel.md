@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.5"
+version: "0.6"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -126,6 +126,17 @@ Le texte sélectionnable des **193 pages physiques** des deux dossiers préfecto
 
 Ces correspondances autorisent des **renvois précis au dossier préfectoral** pour les passages effectivement reproduits. Elles ne signifient ni que les **messages EML originaux**, ni que leurs pièces jointes, ni que les traces SMTP de réception sont intégralement contenus dans les deux PDF. Le statut d'enregistrement et d'examen par le Conseil demeure distinct.
 
+### Deux courriels volumineux restant dans Gmail : analyse des pièces jointes
+
+L'inventaire des pièces jointes, lu directement depuis les deux messages Gmail identifiés (**sans téléchargement ni diffusion des annexes**), permet de qualifier la déduplication :
+
+- **P-46.01, 10 septembre 17 h 01** : **neuf** pièces jointes totalisant **13 596 753 octets**. Ce message correspond au premier envoi tenté, puis signalé comme rejeté pour dépassement de taille dans P-46.02. Son enregistrement dans « Envoyés » ne prouve pas l'acceptation par l'infrastructure destinataire.
+- **P-46.02, 10 septembre 17 h 54** : **huit** pièces jointes totalisant **3 341 404 octets**. Le document d'acceptation du mandataire financier passe d'une version de **9 640 084** octets à une version comprimée de **628 348** octets. Le guide général de **1 243 613** octets, joint au premier message, est remplacé par un lien documentaire dans le second.
+- Les **sept autres pièces** ont mêmes noms et tailles déclarées dans les deux messages ; **cela ne prouve pas l'identité de leurs octets**, faute de hachages comparés.
+- Plusieurs annexes sont des documents d'identité : leur duplication dans les canaux du Conseil doit être **strictement justifiée**, avec les droits des tiers pris en compte.
+
+**Sélection documentaire provisoire :** ne pas joindre automatiquement P-46.01 et P-46.02 comme EML volumineux. Pour le texte transmis le 10 septembre, renvoyer d'abord aux **PDF préfectoraux, pages vérifiées ci-dessus**. Le message P-46.01 conserve une valeur propre pour la tentative de 17 h 01 et la composition du premier envoi ; le rejeter matériellement du lot ne doit pas conduire à nier son existence. Les deux EML et leurs annexes sont **en réserve probatoire** dans Gmail, à produire matériellement si le Conseil le demande ou si une revue juridique établit qu'une information déterminante n'est pas représentée autrement. **Ne pas affirmer que les annexes des deux envois ont été reçues ni intégralement jointes au dossier du TA.**
+
 ### Compiler / linker — contrôle de la copie destinée au greffe
 
 La chaîne locale de compilation a été corrigée selon la règle **contenu lecteur ≠ état éditorial** : les formules « PROJET DE TRAVAIL », « NON ENVOYÉ », « aperçu de compilation non destiné » et les demandes de revue technique ne se trouvent plus dans la projection TXT ni dans le PDF consolidé. Elles demeurent dans les manifestes privés de contrôle.
@@ -153,4 +164,4 @@ Aucune nouvelle communication, aucun dépôt TransfertPro et aucun acte d'envoi 
 - **PARTIAL :** contrôle complet du texte intégral TXT/PDF/QPC, revue juridique contradictoire et application du registre **Talleyrand** à chaque paragraphe final.
 - **NOT GRANTED :** autorisation expresse et spécifique d'un envoi au greffe ou d'un dépôt de pièces.
 
-**Prochaine reprise :** poursuivre la couverture physique page par page, décider pour P-46.01 et P-46.02 de l'utilité des EML natifs et de leurs annexes après les renvois P-14, puis achever la confidentialité, l'inventaire final et les gates juridiques. **Ne pas envoyer.**
+**Prochaine reprise :** approfondir la couverture des autres références P-xx et sous-pièces non représentées dans les PDF préfectoraux, vérifier l'intérêt probatoire résiduel des EML P-46.01/.02 gardés en réserve, puis terminer la confidentialité, l'inventaire final et les gates juridiques. **Ne pas envoyer.**
