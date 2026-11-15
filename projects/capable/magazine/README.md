@@ -17,6 +17,17 @@ update_policy: UP-DEFAULT-REVIEWED
 
 ## Chroniques et entrées documentaires
 
+## Chroniques historiques retrouvées — octobre 2026
+
+- [Projet de lancement présidentiel du 2 octobre](historique/2026-10-02-n1-lancement-campagne-presidentielle.md).
+- [Jalon P1–P18, matrice EIM et twins institutionnels](historique/2026-10-05-jalon-p1-p18-matrice-eim.md).
+- [Annonce du mouvement Capable du 5 octobre](historique/2026-10-05-lancement-du-mouvement-capable.md).
+
+Sources datées non relues. Leur ancien statut ne prouve ni gel ni
+déploiement ; les chroniques plus récentes portent les états actuels.
+
+
+
 ## Enquêtes et études du 13 novembre 2026 — version ouverte
 
 - **Enquête centrale — agenda démocratique.** [Qui choisit les sujets de la politique ?](2026-11-13-qui-choisit-agenda-politique.md) : distinguer les priorités souhaitées, les anticipations de campagne, la saillance effectivement observée et les décisions sous mandat. Tableau primaire Ipsos vérifié, aucune intention politique non démontrée imputée.

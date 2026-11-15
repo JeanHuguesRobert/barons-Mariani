@@ -104,6 +104,22 @@ Le [KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/31
 
 **Chaîne éditoriale :** doctrine source → manuscrit durable en Double Lecture → éditions candidates → génération des artefacts HTML/PDF/EPUB → recette → gel/publication décidés séparément. Modifier les fichiers générés directement ne serait pas une mise à jour durable. La distinction source / projection / déploiement doit rester vérifiée.
 
+### Provenance du schéma éditorial du 5 octobre 2026
+
+Une architecture ancienne conservée dans le commit historique fc6f6bcb
+décrivait la chaîne traces, qualification, sélection, projection, revue,
+gel daté et scellé, édition immuable, puis nouvelles traces.
+
+Deux invariants demeurent utiles :
+
+- Geler une édition ne doit jamais immobiliser la projection suivante.
+- Janus : distinguer les faits du passé étayés par archives des scénarios
+  du futur, qui restent des hypothèses à éprouver.
+
+Le triptyque Livre, Magazine et Annexes est une structuration éditoriale,
+non une nomenclature concurrente des cinq faces fonctionnelles du
+Livre Vivant. Les objections exigent qualification avant intégration.
+
 ## 8. Principe cardinal
 
 > Le plan peut être public sans que le résultat soit connu d'avance.

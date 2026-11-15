@@ -1,5 +1,20 @@
 # Préparation automatique des Livres Vivants — 9 octobre 2026
 
+## Sources historiques retrouvées (15 novembre 2026)
+
+Le commit du 5 octobre 2026 conserve trois chroniques originelles,
+dont deux étiquetées published-edition sans acte de gel vérifié :
+
+- [Lancement de la présidentielle 2027](../magazine/historique/2026-10-02-n1-lancement-campagne-presidentielle.md) ;
+- [Jalon P1–P18 et matrice EIM](../magazine/historique/2026-10-05-jalon-p1-p18-matrice-eim.md) ;
+- [Lancement du mouvement Capable](../magazine/historique/2026-10-05-lancement-du-mouvement-capable.md).
+
+Ces textes sont des sources historiques non relues, pas des éditions
+gelées ni des preuves de publication de leurs anciennes URL. Ils entrent
+dans la version en préparation pour préserver leur substance et permettre
+la contradiction. Le registre actuel conserve la séparation entre
+projections de travail et éditions formellement gelées.
+
 ## Dernière version consultable — 13 novembre 2026
 
 La [candidate Capable n°1](2026-10-28-projection-candidate-n1.md) a été actualisée au 13 novembre. La Factory produit une [projection HTML consultable en ligne](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html), un [PDF](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.pdf), un [EPUB](https://raw.githubusercontent.com/JeanHuguesRobert/barons-Mariani/main/previews/en-preparation/capable.epub) et leurs [empreintes vérifiables](../../../previews/en-preparation/capable-formats.json). Ils sont **en préparation — non gelés**, distincts du Livre durable hébergé sur le site.

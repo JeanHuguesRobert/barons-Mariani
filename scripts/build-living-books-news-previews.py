@@ -38,6 +38,9 @@ BOOKS = {
             "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
             "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
             "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md",
+            "projects/capable/magazine/historique/2026-10-02-n1-lancement-campagne-presidentielle.md",
+            "projects/capable/magazine/historique/2026-10-05-jalon-p1-p18-matrice-eim.md",
+            "projects/capable/magazine/historique/2026-10-05-lancement-du-mouvement-capable.md",
         ],
         "cases": [
             "projects/capable/cases/README.md",

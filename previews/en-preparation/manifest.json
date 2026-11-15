@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "1cd5695e34b688ebdab07b8bb115c3eda885c15769ba95755427ccd9843fa73c",
+      "source_sha256": "53977a2871fcc2f420b057bdee53071587709b8a0844ae5425e8fc79cab9b6c7",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -92,6 +92,18 @@
           "sha256": "ce22039d8fe0bcafc1dad1907a4b8c977f3f9fd551dfb00807e5222ba79b9f4c"
         },
         {
+          "path": "projects/capable/magazine/historique/2026-10-02-n1-lancement-campagne-presidentielle.md",
+          "sha256": "048c4c861e99bd211519a6c17a1fedc552dd5fb7082f5f0df52d5d9490956431"
+        },
+        {
+          "path": "projects/capable/magazine/historique/2026-10-05-jalon-p1-p18-matrice-eim.md",
+          "sha256": "1a3b5d40431665cea647cea8e133fc5bb17d39391e263a7f3120e9bf3ff63172"
+        },
+        {
+          "path": "projects/capable/magazine/historique/2026-10-05-lancement-du-mouvement-capable.md",
+          "sha256": "643c1c6469dfff89eadd051bf2ed382560750074d6cab9d8c066f1a9d593c3a6"
+        },
+        {
           "path": "projects/capable/cases/README.md",
           "sha256": "0934e4872f2be565fb201561a7fd89406fd8671525dde86580068a74ca493d2a"
         },
@@ -141,7 +153,7 @@
         },
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "f7bdefbaa155f154c8527804c52b9ad299724d508f1ae8000c8012f6cbbbebfa"
+          "sha256": "5f695552bfccc3e7923ea0a70c8edc9f395114e20ed4dcebab920e6b0a308e76"
         }
       ]
     },
