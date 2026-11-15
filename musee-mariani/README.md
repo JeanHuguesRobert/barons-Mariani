@@ -98,6 +98,8 @@ musee-mariani/
 
 ## Présentation publique
 
+- **[Boutique Mobile — catalogue de préfiguration](../projects/musee/boutique/README.md)** : Livres Vivants, huiles essentielles et Bleus de Chine, à maturités différentes ; aucune offre commandable à ce stade. [Projection HTML](../projects/musee/site/boutique.html).
+
 - **[Livre Vivant du Musée](../projects/musee/README.md)** — édition en préparation consacrée aux **activités du Musée lui-même** : [Livre](../projects/musee/manuscript/n1/README.md), [Magazine](../projects/musee/magazine/README.md), [Annexes](../projects/musee/annexes/README.md) et projection de lecture HTML. Les sources patrimoniales demeurent ici, sans duplication.
 
 - **[Explorer Casa Mariani selon vos centres d'intérêt](../research/trails/casa_mariani.md)** — Trail à embranchements : pourquoi ce Musée, que découvrir, comment il commence, comment contribuer.

@@ -16,6 +16,7 @@ architecture:
   editorial: projects/musee/editorial-architecture.md
   manuscript: projects/musee/manuscript/n1/
   magazine: projects/musee/magazine/
+  boutique: projects/musee/boutique/
   annexes: projects/musee/annexes/
   editions: projects/musee/editions/index.md
   projections: projects/musee/projections/

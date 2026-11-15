@@ -35,7 +35,7 @@ Cette annexe relie le récit des activités à ses **sources souveraines**. Elle
 | Comment lire l'écomusée ? | [Doctrine muséologique](../../../musee-mariani/doctrine_musee_mariani_des_possibles.md) | Proposition doctrinale |
 | Que sait-on de la protection de Minesteggio ? | [Note patrimoniale](../../../research/mariani_school_sites_minesteggio_la_gaude.md) et actes qu'elle référence | Arrêtés publics ; périmètre à respecter |
 | Quels ateliers sont à l'étude ? | [Index des ateliers](../../../musee-mariani/README.md), [blé](../../../musee-mariani/ateliers/ble_minesteggio_2019_2027.md), [âne](../../../musee-mariani/ateliers/atelier_culture_de_l_ane.md), [huiles essentielles](../../../musee-mariani/ateliers/atelier_huiles_essentielles.md), [miel](../../../musee-mariani/ateliers/atelier_miel.md) | États variés ; ne pas présumer d'ouverture |
-| Que prévoit la Boutique ? | [Présentation publique](../../../musee-mariani/presentation-publique-casa-mariani.md), [plan](../../../musee-mariani/plan-museal.md) | En préparation |
+| Que prévoit la Boutique ? | [Catalogue de préfiguration](../boutique/README.md), [états structurés](../boutique/catalogue.yml), [plan source](../../../musee-mariani/plan-museal.md) | Trois familles non commandables |
 | Comment circulent les objets singuliers ? | [Bouteille à la Mer](../../../musee-mariani/methodes/bouteille_a_la_mer.md), [Livre Vivant](../../../research/livre_vivant.md) | Protocole, non preuve de retour |
 | Comment séparer archives et possibles ? | [Musée Janus](../../../musee-mariani/musee_janus_note_fondatrice.md) | Méthode proposée |
 

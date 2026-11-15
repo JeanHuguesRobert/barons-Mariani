@@ -31,7 +31,7 @@ review:
 
 Le projet prévoit une **Boutique Mobile** comme l'une des premières activités concrètes du Musée. Elle vise à améliorer sa visibilité et à contribuer à sa viabilité économique, avant l'éventuelle ouverture d'un espace muséal. Il s'agit d'une **stratégie envisagée** : le Corpus ne démontre pas ici un chiffre d'affaires, un stock disponible ou une ouverture commerciale.
 
-Trois familles figurent dans sa préfiguration : les **exemplaires matériels uniques de Livres Vivants**, des **produits liés aux huiles essentielles** et des **Bleus de Chine** anciens ou contemporains. Les obligations propres à chaque catégorie, les fournisseurs, les coûts et la vente effective sont à documenter séparément. [Plan de Boutique](../../../../musee-mariani/plan-museal.md).
+Trois familles figurent dans sa préfiguration : les **exemplaires matériels uniques de Livres Vivants**, des **produits liés aux huiles essentielles** et des **Bleus de Chine** anciens ou contemporains. Les obligations propres à chaque catégorie, les fournisseurs, les coûts et la vente effective sont à documenter séparément. [Plan de Boutique](../../../../musee-mariani/plan-museal.md). [Section Boutique du Livre Vivant](../../boutique/README.md) : états éditoriaux, matériels et commerciaux distincts ; aucun produit annoncé disponible.
 
 ## Le livre devient un objet qui vit
 
