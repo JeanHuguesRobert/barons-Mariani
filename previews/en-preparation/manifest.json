@@ -5,7 +5,7 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "53977a2871fcc2f420b057bdee53071587709b8a0844ae5425e8fc79cab9b6c7",
+      "source_sha256": "477d8c5016a4576de6d90fa7c0327e198d0749603d838c403b45567e107d8055",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
@@ -49,7 +49,7 @@
         },
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
-          "sha256": "c83bd1ed16d31e966aa95ac254bf74c5a374c0b1830fc2b4048646757c7ffd8f"
+          "sha256": "fa03992d535f091b6a0f0d6539e4266af5cafc7d0a138c2793065b19d367d075"
         },
         {
           "path": "projects/capable/magazine/2026-10-28-autonomie-corse.md",
