@@ -2,6 +2,7 @@
 title: "Casa Mariani — Une Maison, un Musée, des Possibles"
 subtitle: "Présentation publique de préfiguration, avec lecture approfondie"
 date: "2026-10-26"
+last_modified_at: "2026-11-15"
 status: "draft"
 document_role: "adapted"
 document_kind: "museum-public-presentation"
@@ -34,6 +35,8 @@ Enracinée à Minesteggio, près de Corte, la Maison Mariani rassemble une histo
 
 Son signe est simple : **M**.
 
+À Minesteggio, la **chaise à porteur de la famille Mariani** est inscrite au titre des monuments historiques par arrêté du **7 août 2025**. Un second arrêté, du **21 septembre 2026**, porte sur le **domaine agricole**, ses sols et aménagements, ainsi que sur les **façades et toitures** des bâtiments expressément désignés, dont le château. Ces protections patrimoniales ne signifient pas que le Musée soit ouvert.
+
 ### Un Musée consacré aux possibles
 
 Le **Musée Mariani des Possibles** part d'une idée : les objets anciens ne nous racontent pas seulement comment on vivait autrefois. Ils nous montrent aussi ce que les hommes savaient faire.
@@ -44,6 +47,8 @@ Pourquoi certaines de ces capacités ont-elles disparu ? Lesquelles existent enc
 
 Le Musée entend explorer ces questions en reliant la mémoire du passé aux possibilités de l'avenir.
 
+Il est pensé comme un **écomusée vivant** : Minesteggio est le terrain où les savoir-faire anciens sont étudiés, éprouvés et réactualisés grâce aux moyens d'aujourd'hui. À un livre classique considéré comme un objet figé, le **Livre Vivant** ajoute une enquête qui se poursuit, des sources discutables, des éditions successives et la possibilité de recevoir des contributions du Réel.
+
 ### Des expériences déjà engagées
 
 Quatre ateliers composent un premier programme :
@@ -53,7 +58,7 @@ Quatre ateliers composent un premier programme :
 - **Les Huiles essentielles** — autour des plantes aromatiques, de leur transformation et de la transmission des gestes.
 - **Les Bleus de Chine** — vêtements de travail anciens ou modernes, dont certains exemplaires uniques pourront devenir les supports de missions et de rencontres.
 
-Ces ateliers sont à des étapes différentes de leur développement. Le Musée se construit aussi en apprenant de leur réalisation.
+Ces ateliers sont à des étapes différentes de leur développement. Le Musée se construit aussi en apprenant de leur réalisation. D'autres thèmes, notamment **les abeilles et l'apiculture**, font partie du champ envisagé sans être annoncés comme des ateliers déjà ouverts.
 
 ### Une Boutique Mobile pour commencer
 
@@ -65,7 +70,11 @@ Trois familles de produits en constituent le point de départ :
 - **Des produits liés aux huiles essentielles**, issus d'activités de culture, de transformation et de transmission à développer.
 - **Des Bleus de Chine vintage ou modernes**, en collaboration envisagée avec Ange, *tragulinu* connaissant particulièrement bien ces vêtements.
 
-Un premier projet concret consiste à matérialiser sur papier un exemplaire unique du Livre Vivant **1755**, consacré à la Constitution corse de Pascal Paoli.
+**Un exemplaire unique, même si le texte est partagé.** Chaque volume imprimé peut correspondre à une édition datée commune, tout en devenant un **objet matériel singulier**, identifié, doté de sa provenance, de sa biographie et, éventuellement, d'une mission de **« Bouteille à la mer »**. Il peut circuler hors de Minesteggio et accueillir des témoignages, annotations ou corrections **volontaires**, sans suivi obligatoire de ses détenteurs. Des traces qualifiées peuvent enrichir le Livre Vivant et ses prochaines éditions, même si l'objet ne revient jamais au Musée.
+
+La Boutique cherche ainsi à soutenir deux résultats distincts : **la viabilité économique** du Musée et une **transmission participative** hors les murs. Ni des ventes effectives ni des contributions reçues ne sont encore présumées.
+
+Un premier projet concret consiste à matérialiser sur papier un exemplaire unique du Livre Vivant **1755**, consacré à la Constitution corse de Pascal Paoli. Voir [le protocole « Bouteille à la mer »](methodes/bouteille_a_la_mer.md).
 
 ### Une Maison ouverte à la coopération
 
@@ -97,6 +106,7 @@ Cette partie ne change pas les assertions publiques : elle explicite leur origin
 
 | Affirmation publique | Source principale / statut | Précaution |
 | --- | --- | --- |
+| Protections de Minesteggio et de la chaise | [Arrêté mobilier du 7 août 2025](https://politique.pappers.fr/commune/document/058ae68997b334810300a57c39341618) et [arrêté immobilier du 21 septembre 2026](https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92) | Respecter le périmètre exact : pas d'inscription générale des intérieurs du château, pas d'ouverture du Musée déduite |
 | Maison au sens familial et patrimonial | [Plan muséal](plan-museal.md), section sur Casa Mariani ; proposition interprétative du projet | Ne pas transformer l'analogie avec la « société à maisons » en qualification ethnographique prouvée ni en personne morale |
 | Musée des Possibles, transmission | [Doctrine](doctrine_musee_mariani_des_possibles.md), [intention](intention.md) | Projet de préfiguration, non prétention à un établissement ouvert ou labellisé |
 | Blé à Minesteggio | [Expériences de 2019 et 2024](ateliers/ble_minesteggio_2019_2027.md) | La coopération future d'U Granu Anticu et l'accueil de visiteurs restent à instruire |
@@ -104,6 +114,7 @@ Cette partie ne change pas les assertions publiques : elle explicite leur origin
 | Huiles essentielles | [Fiche de possible](ateliers/atelier_huiles_essentielles.md) | Produits commercialisables et obligations de sécurité à déterminer selon la destination |
 | Bleus de Chine | [Recherche textile](../research/patrimoine/bleu_chine_denim_nimes_corse_v0.2.md), [Bouteille à la mer](methodes/bouteille_a_la_mer.md) | Collaboration avec Ange envisagée ; ne pas présumer un accord, un stock ou une exclusivité |
 | Trois familles de produits, financement | [Plan muséal](plan-museal.md), section Boutique Mobile | Financement recherché, pas recettes prouvées ; vendeur légal à identifier par transaction |
+| Livre Vivant et Bouteille à la mer | [Doctrine du Livre Vivant](../research/livre_vivant.md) et [protocole](methodes/bouteille_a_la_mer.md) | L'unicité est matérielle ; missions et contributions volontaires, résultats à mesurer |
 | Premier exemplaire papier de 1755 | [Livre Vivant #1755](../projects/1755/README.md), [mission pilote](../projects/1755/missions/mj-1755-01.md) | Spécifié mais exemplaire papier non encore constaté |
 | Coopération Musée de la Corse | Orientation exploratoire, [plan muséal](plan-museal.md) | Aucune coopération institutionnelle conclue ou caution présumée |
 
