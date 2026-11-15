@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.3"
+version: "0.4.4"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -539,8 +539,8 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
 | C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 et P-46.02/P-46.04 localisées | P-09 = 2601715 p. 96 (pixel identique) ; P-46.04 préfecture 10/09 20h05 = 2601714 p.6 / 2601715 p.29 ; corps de P-46.02 = 2601714 pp.7–9 / 2601715 pp.30–32 ; annexes EML non présumées comprises |
-| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — TXT RFC contrôlé ; corps final non arrêté | TXT 16 pages, 58 lignes et 72 colonnes max ; deux QPC et trois notices retrouvées intégralement par normalisation ; inventaire non final |
-| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — parité des cinq blocs contrôlée | Deux QPC + trois notices apparaissent comme séquences normalisées intégrales dans TXT et PDF ; bordereau définitif et reste du texte encore à auditer |
+| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — corps RFC intégral contrôlé ; lot final non arrêté | TXT RFC 16 pages, ≤58 lignes/page et ≤72 colonnes ; huit fragments sources intégraux et ordonnés ; inventaire final à fixer |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — couverture textuelle complète ; bordereau final manquant | Les huit fragments sources (31 419 caractères normalisés) se retrouvent entièrement et en ordre dans TXT et PDF ; audit visuel, pièces et canaux à finaliser |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
