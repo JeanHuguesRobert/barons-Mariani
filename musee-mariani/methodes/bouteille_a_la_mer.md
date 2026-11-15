@@ -140,6 +140,18 @@ Privilégier la contribution volontaire, la minimisation des données personnell
 
 Les exemplaires physiques de **Suicide Corse** et de **Rise & Fall of the Mariani Family** constituent des candidats naturels : `copy_id` stable, QR, surfaces physiques de continuation, invitation à annoter, contredire, compléter ou transmettre, mission éventuelle, retour simple vers le Musée.
 
+## 12 bis. L'exemplaire matériel unique d'un Livre Vivant
+
+Un **Livre Vivant** est une œuvre documentaire évolutive. Une **édition** en fixe un état daté. Plusieurs exemplaires peuvent reproduire le même contenu imprimé : l'**unicité** visée ici est celle de **l'objet matériel individuellement identifié**, et non nécessairement celle du texte ou du tirage.
+
+Chaque exemplaire peut disposer d'une identité stable, d'une provenance, d'une biographie propre et d'une mission facultative de **« Bouteille à la mer »**. Un identifiant ou un QR code peut renvoyer à son dossier. Le livre peut circuler, être offert, annoté ou transmis. Des lecteurs volontaires peuvent signaler des erreurs, fournir des témoignages ou produire de nouvelles traces. Après qualification, certaines contributions pourront enrichir le Corpus et les éditions futures, sans modifier rétroactivement l'édition imprimée.
+
+**Identité de l'objet ≠ identité du détenteur.** Aucune contribution ni surveillance des propriétaires successifs n'est obligatoire. La collection peut s'enrichir sans récupérer physiquement le livre ; inversement, ni le retour d'informations ni un revenu commercial ne sont garantis.
+
+Ce dispositif lie deux boucles qu'il faut mesurer séparément : le financement du Musée par sa Boutique et la circulation contributive des objets. Le modèle est en préparation, pas déjà éprouvé par des ventes ou des réobservations.
+
+Voir [la doctrine des Livres Vivants](../../research/livre_vivant.md) et [la présentation publique](../presentation-publique-casa-mariani.md).
+
 ## 13. Boutique mobile
 
 La boutique mobile peut être le premier lieu d'émission documenté des bouteilles à la mer.
