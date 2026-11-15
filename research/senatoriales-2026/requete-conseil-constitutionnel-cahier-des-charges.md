@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.5"
+version: "0.4.6"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -540,7 +540,7 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
 | C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 et P-46.02/P-46.04 localisées | P-09 = 2601715 p. 96 (pixel identique) ; P-46.04 préfecture 10/09 20h05 = 2601714 p.6 / 2601715 p.29 ; corps de P-46.02 = 2601714 pp.7–9 / 2601715 pp.30–32 ; annexes EML non présumées comprises |
 | C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — projet RFC 17 pages contrôlé ; bordereau final non arrêté | Neuf fragments intégraux ordonnés, 17 pages RFC ≤58 lignes/page et ≤72 colonnes ; revue humaine finale requise |
-| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — parité complète du corps ; inventaire et visuel à finaliser | Neuf fragments sources (32 517 caractères normalisés) trouvés entièrement et en ordre dans TXT et PDF ; staging dix fichiers TransfertPro, six pièces communes ; revue visuelle non close |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — parité complète du corps ; inventaire et visuel à finaliser | Neuf fragments sources (32 517 caractères normalisés) intégralement retrouvés et ordonnés dans TXT (17 pages) et PDF (18 pages après FBF de la signature isolée) ; préflight des 10 fichiers staging contrôlé ; inventaire final et audit visuel restant |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
