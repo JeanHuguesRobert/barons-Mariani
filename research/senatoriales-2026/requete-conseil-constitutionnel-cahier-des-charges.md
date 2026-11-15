@@ -358,7 +358,7 @@ La requête doit être lisible à deux époques :
 | 07/10/2026 | Requête transmise ; deux PDF en TransfertPro ; greffe accuse réception le 08/10 | **État initial immuable**, pas preuve de remise des pièces citées |
 | 21–22/10/2026 | Projet argumentatif : QPC autonomes, PDF englobant, texte intégral, puis répartition des six fichiers | **Historique**, non mandat de la prochaine émission |
 | 22/10/2026 | Paramètres de mise en page inspirés de la RFC 7994 dans le maître documentaire et outils de vérification | **Contrat technique candidat**, à appliquer au texte intégral de la communication si pertinent |
-| **01/11/2026** | Décision de communiquer les **pièces déjà citées**, sans nouveau mémoire ni QPC cachées | **Mandat courant** confirmé dans #127/#133/#134 |
+| **01/11/2026** | Décision de communiquer les **pièces déjà citées**, sans nouveau mémoire ni QPC cachées | **Base de périmètre conservée pour les pièces** ; exclusion des deux QPC **remplacée par l'instruction expresse ultérieure du 15/11** |
 | 13/11/2026 | Vérifier décision éventuelle du Conseil, recevabilité, canal sécurisé encore valable, traitement du consentement/handicap/original | **Conditions préalables** |
 | **15/11/2026** | **Tout communiquer d'un seul tenant** ; éviter des envois partiels successifs | **Arbitrage actuel du Principal**, désormais enregistré dans le présent cahier des charges |
 | **15/11/2026 — précision expresse ultérieure** | **Maintien des deux QPC L.299/L.303** : chaque texte intégral dans le corps du courriel et dans le PDF consolidé ; deux PDF QPC autonomes joints à l'email **et** remis dans TransfertPro | **Règle active**, qui remplace exclusivement l'exclusion des QPC décidée le 01/11 ; les autres limites du mandat sont conservées |
