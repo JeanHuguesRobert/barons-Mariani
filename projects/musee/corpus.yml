@@ -10,7 +10,7 @@ source_of_truth: >
   versionnées associées sont souverains ; projects/musee en est la
   narration évolutive et ne remplace pas les documents d'origine.
 target_identity: "https://museum.baronsmariani.org"
-target_identity_status: "Domaine canonique unique décidé le 2026-11-15, sans alias ; DNS, TLS et déploiement non vérifiés"
+target_identity_status: "Domaine canonique unique sans alias ; CNAME Cloudflare confirmé le 2026-11-15 ; TLS et déploiement web non opérationnels"
 architecture:
   project_index: projects/musee/README.md
   editorial: projects/musee/editorial-architecture.md
