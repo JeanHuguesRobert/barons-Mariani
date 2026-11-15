@@ -4,7 +4,7 @@ subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-version: "0.4.1"
+version: "0.4.2"
 status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -529,16 +529,16 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C04 | Invitation du greffe encore utilisable pour pièces complémentaires ? | UNKNOWN | Courriel du greffe / canal courant vérifié |
 | C05 | Lien/boîte TransfertPro encore opérationnel ? | UNKNOWN | Préflight technique non émetteur |
 | C06 | Registre 44 P principales / 39 identifiants du PDF initial réconcilié ? | BLOCKED | Une entrée de couverture pour chaque citation réelle |
-| C07 | Sous-pièces P-43 et P-45 couvertes sans divulgation ? | UNKNOWN | Sources + versions expurgées |
+| C07 | Sous-pièces P-43 et P-45 couvertes sans divulgation ? | PARTIEL — P-43.a vérifiée | Autorisation native et PDF de lecture prêts en privé ; P-43.b/P-45 et revue de confidentialité à achever |
 | C08 | P-13 native re-hashée sur la copie finale ? | PASS sur staging privé ; À REJOUER sur lot final | MP4 79 663 474 octets, SHA-256 vérifié ; remise non effectuée |
 | C09 | P-13 notice cohérente et sans argument nouveau ? | PARTIEL | Notice P-13 intégrée ; provenance et rattachement G2/G3/G4 contrôlés ; revue contradictoire finale requise |
 | C10 | P-14, 2 PDF préfectoraux, doublons et pages vérifiés ? | PARTIEL | 95/98 pages et SHA confirmés ; signets/pages à réconcilier avec les P citées |
 | C11 | P-16/17/18/19/20 : statuts natif/copie/expurgé corrects ? | PARTIEL | Revue ciblée de chaque objet |
 | C12 | P-27 et P-40 correctement qualifiées (pas de faux original) ? | PARTIEL | Métadonnées + désignations exactes |
-| C13 | P-46 : 46 sources, 17 EML absents du lot récupérés ? | BLOCKED | EML originaux ou lacunes motivées |
+| C13 | P-46 : 46 références historiques localisées et octets sources contrôlés ? | PARTIEL — 44 EML natifs / 46 localisés | 44 EML originaux retrouvés et hachés localement ; P-46.01 et .02 dans Gmail, octets bruts non acquis (volumes à dédoublonner avec P-14) ; P-46-N1 = corpus distinct |
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
-| C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 vérifiée | P-09 = 2601715 p. 96, pixels identiques ; autres entrées à contrôler |
+| C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | PARTIEL — P-09 vérifiée | P-09 = 2601715 p. 96, pixels identiques ; P-46.02/pages 2601714 p. 1 et 7, 2601715 p. 10 et 30 : pistes textuelles, pas équivalence encore établie |
 | C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | PARTIEL — prototype RFC validé, corps final non arrêté | TXT de 16 pages, 58 lignes et 72 colonnes maximum ; QPC incluses, audit intégral restant |
 | C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | PARTIEL — projections du même maître | P-43.a/P-13/P-18-P-19 et les QPC figurent dans les deux rendus ; bordereau final manquant |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
