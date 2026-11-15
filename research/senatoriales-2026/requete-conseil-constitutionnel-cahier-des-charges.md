@@ -430,6 +430,24 @@ Pour chaque notice : `identifiant – source et dates – origine / chaîne de c
 
 **Exception explicitement autorisée au périmètre « pièces seules » du 01/11 :** les deux QPC L.299 et L.303 déjà identifiées sont maintenant **obligatoires**, sous leur qualification propre, dans le corps et le PDF consolidé, ainsi qu'en PDF autonomes sur les deux canaux. La simple réalisation de ces inclusions ne constitue pas un grief électoral nouveau ; cela ne préjuge toutefois pas de leur recevabilité. Toute autre formulation qui ajoute un moyen, modifie les conclusions ou introduit une QPC supplémentaire passe en `JUDGMENT_REQUIRED` ; ne rien dissimuler parmi les annexes.
 
+### 24 bis. Impératif de diplomatie selon Talleyrand — contrôle rédactionnel obligatoire
+
+**Décision expresse du Principal du 15 novembre 2026 : la méthode de Talleyrand constitue une exigence de fond et de forme pour chaque pièce, notice de provenance, lettre et mémoire destiné au Conseil constitutionnel.** Elle **ne se réduit pas** à la maxime « Ce qui va sans dire va encore mieux en le disant » : elle désigne une **méthode diplomatique intégrale**, explicitée dans la [doctrine FractaCognition](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md#41-the-diplomatic-talleyrand-register--beyond-the-maxim) et les [instructions partagées](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md).
+
+**Sept exigences cumulatives :**
+
+1. **Courtoisie irréprochable, fermeté intacte** : ménager les personnes et les fonctions sans ménager les faits, le droit ni leurs conséquences. Aucune attaque personnelle, aucun sarcasme, aucune insulte et aucune qualification d'intention sans preuve ; aucune critique valable ne doit pour autant être édulcorée.
+2. **Confronter les institutions à leurs propres principes** : commencer par les textes, décisions, protections et politiques publiques qu'elles revendiquent, puis exposer précisément leurs actes et leurs effets observables. L'institution doit pouvoir reconnaître l'écart sans devoir répondre préalablement à une accusation morale.
+3. **Faire apparaître la contradiction par la démonstration** : dates, pièces, normes, capacités matérielles et pertes de droits dans l'ordre logique ; prémisses décisives explicites et conclusions proportionnées à la preuve. Une question factuelle précise peut être plus exigeante qu'une invective.
+4. **Laisser une issue honorable et vérifiable** : demander quelle norme fonde l'exigence, quelle garantie elle apporte, quelle adaptation a été étudiée et quelle réponse matérielle peut être fournie ; permettre une explication, rectification ou instruction sans humiliation du destinataire.
+5. **Anticiper loyalement le meilleur contre-argument** : reconnaître la sécurité du scrutin et la finalité protectrice des formalités, sans confondre consentement, signature, mention manuscrite, original matériel, réception et examen juridictionnel ; répondre aux objections sans concession fictive.
+6. **Soigner l'audience, le moment et la double lecture** : répondre d'abord au besoin procédural du greffe et du juge ; faire apparaître ensuite, dans un espace distinct, l'enjeu politique, civique et historique pour les lecteurs futurs. Ne faire passer aucun fait postérieur pour une régularisation rétroactive, ni aucune seconde lecture pour un grief nouveau.
+7. **Énoncer la vérité, pas seulement l'élégance** : conserver la force des faits établis, les limites des preuves et les inconnues exactes ; ne jamais utiliser la diplomatie pour cacher un élément défavorable, supposer une intention ou substituer un euphémisme à un effet documenté.
+
+**Application prioritaire à P-13 (« Note de provenance — 58 secondes ») et P-43.a :** montrer que la vidéo confirme une acceptation écrite déjà présentée, replacer la dématérialisation dans les obstacles liés au handicap, distinguer le récit oral du signalement de handicap à la préfecture de la preuve écrite portée au TA, et demander courtoisement quel objectif concret la condition d'original papier aurait servi dans ce dossier et comment la jurisprudence du Conseil d'État du 14 mai 2021 a été prise en considération. **Exposer la question de droit, ne pas mettre les agents ou les juges en accusation personnelle.** Conserver les griefs G1–G5 déjà déposés ; les notices les éclairent sans les étendre.
+
+**Gate rédactionnel bloquant `TALLEYRAND_DIPLOMATIE` :** avant la validation d'une notice ou d'un rendu, le relecteur vérifie ces sept exigences et signale les passages agressifs, inutilement défensifs, flatteurs, équivoques ou excessivement précautionneux. Statut `PASS` seulement après revue concrète des textes finalisés ; l'inscription de cette directive dans le cahier des charges ne suffit pas à elle seule. Ce contrôle complète `GATE-06` (complétude et absence de grief nouveau) et `GATE-08` (différentiel et revue), sans créer une condition de recevabilité légale nouvelle.
+
 ## 25. Courriel en texte brut — profil RFC inspiré du Corpus
 
 **Le prochain courriel doit être autonome et vérifiable.** Source du profil : directive `#pragma FORMAT` du texte maître d'octobre et scripts de prétraitement/vérification. Profil historique `rfc7994` :
@@ -525,7 +543,7 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | BLOCKED | Comparaison sémantique et empreintes des fichiers |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
-| C21 | Revue adverse juridique et audit §§15–17 satisfaits ? | UNKNOWN | Rapport signé/validé |
+| C21 | Revue adverse juridique, audit §§15–17 **et impératif Talleyrand (§24 bis)** satisfaits sur les rendus finaux ? | UNKNOWN | Rapport de relecture étayant les sept exigences diplomatiques, sans affaiblir les griefs ni ajouter de moyen |
 | C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
 | C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | BLOCKED | Confrontation intégrale aux deux Markdown QPC gelés ; absence d'omissions et variantes |
 | C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | BLOCKED | PDF L.299 + PDF L.303, textes extraits contrôlés, version et SHA-256 individuels |
