@@ -2,13 +2,14 @@
 title: "Sénatoriales 2026 — cahier des charges consolidé de la communication au Conseil constitutionnel"
 subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
 version: "0.4"
-status: "working specification — consolidated"
+status: "working-paper — consolidated operational specification"
 language: "fr"
 license: "CC BY-SA 4.0"
 visibility: "public"
-document_role: "method"
+document_role: "operational"
 document_kind: "contentious-filing-specification"
 lifecycle_state: "active"
 update_policy: "UP-DEFAULT-REVIEWED"
@@ -28,6 +29,14 @@ filing_ready: false
 canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
 original_source_commit: "42b0ae6d8448b075da974ea69342f767f8b0674a"
 source_issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
+provenance:
+  origin_type: "repository"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "42b0ae6d8448b075da974ea69342f767f8b0674a"
+  origin_date: "2026-09-26"
+  derived_from:
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+    - "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
 ---
 
 # Cahier des charges consolidé — dossier 2026-6589 SEN
