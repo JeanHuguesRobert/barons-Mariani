@@ -183,6 +183,9 @@ Application :
 
 Le but est de réduire les malentendus, pas seulement d'améliorer le style.
 
+**Portée diplomatique complémentaire — directive du Principal du 15 novembre 2026 :** Talleyrand ne se résume pas à rendre explicite ce qui va sans dire. Le texte doit ménager **les personnes sans ménager les contradictions** : exposer avec une courtoisie irréprochable les normes revendiquées par les institutions, les actes vérifiables et leurs effets, laisser au destinataire la possibilité d'expliquer ou de corriger sans perdre la face, éviter toute supposition d'intention, et choisir la progression qui conduit naturellement le lecteur — décideur immédiat ou lecteur de la seconde lecture politique — au problème de droit posé. L'argument demeure affirmatif, complet et vérifiable ; la politesse ne saurait devenir une stratégie d'édulcoration. Voir la [doctrine diplomatique canonique](https://github.com/JeanHuguesRobert/cogentia/blob/main/research/fractacognition_principles.md#41-the-diplomatic-talleyrand-register--beyond-the-maxim).
+
+
 ## 7. Règle de contradiction
 
 Une pièce défavorable n'est jamais omise pour cette seule raison.
