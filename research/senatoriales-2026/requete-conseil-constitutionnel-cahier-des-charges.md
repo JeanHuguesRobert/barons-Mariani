@@ -1,10 +1,10 @@
 ---
-title: "Sénatoriales 2026 — cahier des charges de la requête au Conseil constitutionnel"
+title: "Sénatoriales 2026 — cahier des charges consolidé de la communication au Conseil constitutionnel"
 subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-26"
-version: "0.1"
-status: "working specification"
+version: "0.2"
+status: "working specification — consolidated"
 language: "fr"
 license: "CC BY-SA 4.0"
 visibility: "public"
@@ -23,9 +23,30 @@ source_documents:
 review:
   status: "unreviewed"
   reviewed_by: []
+last_modified_at: "2026-11-15"
+filing_ready: false
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+original_source_commit: "42b0ae6d8448b075da974ea69342f767f8b0674a"
+source_issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
 ---
 
-# Cahier des charges de la requête au Conseil constitutionnel
+# Cahier des charges consolidé — dossier 2026-6589 SEN
+
+## Mode d'emploi et règle d'autorité
+
+**Statut : cahier des charges canonique consolidé, référentiel de travail non destiné à être remis au greffe.** Cette version rassemble les exigences applicables au **15 novembre 2026**. Sa première partie reproduit **littéralement les sections 1 à 17** du texte du 26 septembre ; l'[édition historique v0.1](https://github.com/JeanHuguesRobert/barons-Mariani/blob/42b0ae6d8448b075da974ea69342f767f8b0674a/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md) demeure consultable à son commit d'origine. La seconde partie constitue le contrat actuel de production et sa checklist de vérification ; elle n'est pas une argumentation à joindre au dossier judiciaire.
+
+**Objectif opératoire actif :** communiquer **en un seul épisode de remise complémentaire**, au greffe du Conseil constitutionnel (dossier 2026-6589 SEN), les pièces citées dans la requête du 7 octobre 2026 et non matériellement fournies, plus notices bornées et bordereau vérifiable. L'unicité de la communication ne signifie **ni un seul fichier ni un seul canal technique** : courriel et TransfertPro doivent être articulés sans divergence d'inventaire. **Le requérant procède lui-même** aux actes de transmission après revue du lot final et autorisation spécifique. Aucun agent ne dépose ni n'envoie par présomption.
+
+**Principe cardinal : la fonction historique ne doit jamais détruire la fonction contentieuse.** Les anciennes variantes (« mémoire intégral + QPC », « trois PDF + MP4 », « six fichiers ») sont conservées comme provenance, mais **ne gouvernent pas automatiquement** le prochain envoi. La sélection actuelle est celle des sources nécessaires et déjà annoncées dans la requête. Une QPC ou un mémoire nouveau exige un arbitrage et un acte distincts.
+
+**Interprétation des statuts :** `PASS` = contrôlé avec une preuve accessible ; `FAIL` = écart constaté ; `UNKNOWN` = non démontré ; `BLOCKED` = condition connue non satisfaite ; `JUDGMENT_REQUIRED` = arbitrage matériel du requérant indispensable ; `NOT_APPLICABLE` = dispense motivée. Aucun `PASS` implicite. Toutes les données de pilotage de ce cahier restent **hors des rendus destinés au greffe**.
+
+---
+
+# Partie I — Texte historique du 26 septembre 2026 (sections 1 à 17, conservées littéralement)
+
+**Ces dispositions sont conservées pour leur valeur historique et méthodologique.** Les obligations relatives au dépôt initial n'établissent pas, à elles seules, les conditions de recevabilité d'une communication postérieure. La partie II spécialise le contrôle opérationnel actuel sans réécrire la requête enregistrée.
 
 ## 1. Finalité
 
@@ -324,3 +345,208 @@ Pour chaque épisode critique :
 La requête doit être lisible à deux époques :
 
 > **aujourd’hui par un juge électoral ; demain par un citoyen ou un historien.**
+
+---
+
+# Partie II — Directives consolidées pour la communication complémentaire
+
+## 18. Hiérarchie des décisions et changement de mandat
+
+| Date | Décision et fonction | Autorité pour le prochain envoi |
+|---|---|---|
+| 26/09/2026 | Cahier des charges initial, §§1–17 | **Invariants** durables et audit historique |
+| 07/10/2026 | Requête transmise ; deux PDF en TransfertPro ; greffe accuse réception le 08/10 | **État initial immuable**, pas preuve de remise des pièces citées |
+| 21–22/10/2026 | Projet argumentatif : QPC autonomes, PDF englobant, texte intégral, puis répartition des six fichiers | **Historique**, non mandat de la prochaine émission |
+| 22/10/2026 | Paramètres de mise en page inspirés de la RFC 7994 dans le maître documentaire et outils de vérification | **Contrat technique candidat**, à appliquer au texte intégral de la communication si pertinent |
+| **01/11/2026** | Décision de communiquer les **pièces déjà citées**, sans nouveau mémoire ni QPC cachées | **Mandat courant** confirmé dans #127/#133/#134 |
+| 13/11/2026 | Vérifier décision éventuelle du Conseil, recevabilité, canal sécurisé encore valable, traitement du consentement/handicap/original | **Conditions préalables** |
+| **15/11/2026** | **Tout communiquer d'un seul tenant** ; éviter des envois partiels successifs | **Arbitrage actuel du Principal**, désormais enregistré dans le présent cahier des charges |
+
+**Règle d'arbitrage :** une instruction plus ancienne ne prévaut pas du seul fait qu'elle figure dans un script ou un CSV. Toute modification substantielle (QPC supplémentaires, mémoire nouveau, retrait délibéré d'une pièce annoncée, destinataire ou canal différent) est `JUDGMENT_REQUIRED` et exige décision explicite. Les issues documentent la provenance et les sous-tâches, **ce cahier des charges est le contrôle unique des exigences en vigueur**. Un commentaire d'issue ne doit pas recréer une deuxième norme concurrente.
+
+## 19. Portée exacte du prochain acte
+
+- **Acte :** communication complémentaire de pièces et pièces explicatives déjà annoncées dans la requête enregistrée sous **2026-6589 SEN**, à la suite de l'invitation du greffe du 7 octobre.
+- **Pas :** nouvelle requête, grief électoral supplémentaire, mémoire argumentatif autonome, dépôt implicite des QPC historiques ou régularisation a posteriori de la candidature.
+- **Temporalité :** un **lot unique finalisé** avec bordereau cohérent, remis en une séquence courriel / TransfertPro. Les deux canaux sont des opérations techniques distinctes, dont chacun réclame une preuve de réalisation et de réception.
+- **Identification :** le courrier précise le dossier, la date de la requête, le statut des annexes et la provenance ; les URLs GitHub/Drive n'équivalent jamais à une pièce accessible par le Conseil lorsque son pare-feu les bloque.
+- **P-13 :** vidéo native et notice explicative de provenance ; la narration peut éclairer mais ne doit pas remplacer la chaîne de preuve.
+
+## 20. Source souveraine et documents de travail
+
+- **Requête source déposée** : `research/senatoriales-2026/requete-conseil-constitutionnel.md` (corps historique v0.34, ne pas réécrire).
+- **Cahier des charges** : le présent projet, après validation et stabilisation éventuelle à l'emplacement historique.
+- **Registre initial** : `bordereau-pieces-requete-conseil-constitutionnel.md` ; **matrice historique** du 22 octobre et registre des références effectivement citées (à recouper avec le PDF déposé, pas seulement avec GitHub).
+- **Matrice actuelle** : `03-matrice-exhaustivite-travail-2026-11-15.csv` (local) ; **P-46** : `P-46-audit-46-entrees-2026-11-15.csv` (local).
+- **Paquet documentaire actuel** : `2026-6589-SEN-assemblage-unique-EN-COURS-2026-11-15.zip` (privé, **NON PRÊT À DÉPOSER**, archives anciennes encore présentes).
+- **Génération** : `scripts/sen-2026-6589-build.py` en mode `exhibits` par défaut (01/11) ; la compilation argumentaire historique est un **mode explicitement ancien**. Le moteur documentaire général appartient à Ubikia #43, ne pas dupliquer ici un moteur générique.
+
+## 21. Matrice exhaustive des pièces — invariant de couverture
+
+Pour chaque identifiant **effectivement cité dans le PDF remis le 7 octobre** :
+
+`référence stable | libellé | date fait | date source | source primaire / dérivé | grief G1–G5 | exposition de l'original dans la requête initiale | localisation actuelle | empreinte du natif | sélection actuelle | mode de production | occultation | fichier final exact | taille | SHA final | canal | réception attestée | objections / UNKNOWN`.
+
+- Le relevé historique comporte **44 références principales P-01…P-46** avec P-34 et P-35 non attribués ; les sous-références P-43.a/b, P-45.a–d et P-46.01–46 sont à contrôler indépendamment. L'extraction antérieure du PDF initial a identifié **39 identifiants distincts** selon une autre convention : **réconcilier les deux périmètres**, ne pas additionner ni assimiler leurs nombres.
+- Modes possibles : `ORIGINAL_JOINT`, `COPIE_FIDÈLE`, `EXTRAIT_MOTIVÉ`, `REPRODUIT_DANS_P-xx` avec page exacte, `CONTEXTE_NON_JOINT_MOTIVÉ`, `SOURCE_INTROUVABLE`, `RÉSERVE_SENSIBLE`. **Aucun blanc dans la matrice finale.**
+- Pour chaque pièce du noyau A, soit la source pertinente est matériellement fournie, soit l'équivalence d'une reproduction déjà jointe est prouvée, soit une lacune/objection est explicitée et arbitrée. La décision « tout envoyer » crée une **présomption d’inclusion** pour chaque source effectivement citée, y compris contextuelle : elle peut être jointe comme fichier, reproduite dans un recueil fourni ou identifiée à une page d’une autre pièce fournie. Toute exclusion véritable requiert un motif explicite et l’arbitrage du Principal ; **pas d’omission silencieuse**, même pour les pièces C.
+- Les deux copies préfectorales P-14 / 2601714 et 2601715 peuvent contenir des pièces déjà reproduites : comparaison **à la page et au contenu**, sans suppression fondée sur une simple similitude de titre. Protéger les données personnelles des tiers.
+- **Pas de faux originaux :** P-16 reproduction candidate du mémoire de défense ≠ exemplaire matériel du TA attesté ; P-27 reproduction documentaire des résultats ≠ procès-verbal électoral natif ; P-40 photos ≠ qualification du motif de nullité.
+
+## 22. P-13 — objet binaire prioritaire
+
+- Original connu : `VID_20260911_174455.mp4` ; **79 663 474 octets**, SHA-256 historique `aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8` ; **recalculer** l'empreinte de la copie finale effectivement jointe et comparer.
+- Notice : description, source, date, chaîne de conservation, transcription contrôlée, origine assistée de la formulation, lien à G1–G5, meilleure objection et limites. Ne pas présenter le texte préparatoire comme un fichier vidéo original ni une interprétation comme une preuve matérielle.
+- P-12 : émission du courriel contenant le lien à **17:57:55** ; date d'acceptation côté préfecture, transfert au TA et examen judiciaire restent distincts et, sans traces, `UNKNOWN`.
+- **Contrôle de portée** : l'authenticité et le consentement enregistrés ne prouvent pas mécaniquement la satisfaction de L.299 ni la remise de l'original papier avant 18 h. La vidéo, la notice et le MP4 ont des fonctions différentes.
+- La version littéraire développée de la note peut rester document de lecture ; celle destinée au greffe doit être bornée à provenance, pertinence et limites, sans transformer la communication de pièces en mémoire nouveau.
+
+## 23. P-46 — correspondance intégrale et confidentialité
+
+- Registre historique : **46 entrées P-46.01–46**. Le lot de travail du 15 novembre contient **32 EML**, dont **29 correspondent à ces 46 entrées** et trois relèvent d'autres échanges ; les **17 autres messages** sont identifiés et lisibles dans Gmail mais **leur export EML natif n'est pas intégré** au lot. Ne pas annoncer `46/46 EXPORTED`.
+- Les cinq messages recoupés dans P-14 peuvent être référencés avec pages et chaînes exactes, mais une citation enchâssée ne remplace pas nécessairement un EML d'origine.
+- Conserver les originaux EML/RFC822 **en privé**, calculer empreintes sur les octets réellement acquis et identifier les pièces jointes pertinentes. Un texte reconstruit par API est une **transcription**, non un EML natif.
+- Fabriquer un recueil communicable en conservant contenu utile et provenance, sans divulgation inutile de CNI, adresses personnelles, mots de passe, URLs signées ou données médicales non pertinentes. Vérifier séparément les en-têtes, les citations imbriquées, les métadonnées, le texte extrait des PDF et les pièces jointes.
+- Le recueil privé actuel n'est **pas** réputé expurgé. En cas de difficulté, `BLOCKED` ; pas de publication des originaux dans GitHub public.
+
+## 24. Forme de chaque notice et contrôle juridique minimal
+
+Pour chaque notice : `identifiant – source et dates – origine / chaîne de conservation – SHA/taille si binaire – fait réellement établi – rattachement à un grief initial – meilleure objection – limite – état envoyé/reçu/versé/examiné – traitement des données personnelles`. Distinguer lois, règlements, formulaires, instructions et pratiques. Ne pas affirmer que « papier » est absent de toute norme ; L.299, L.301, R.99 et R.149 doivent être lus séparément. Pouvoir d'instruction du Conseil ≠ obligation de le mobiliser systématiquement.
+
+Toute nouvelle formulation qui dépasse la simple explication d'une pièce, réintroduit les QPC ou change les conclusions passe en `JUDGMENT_REQUIRED` ; elle ne doit pas être dissimulée parmi les annexes.
+
+## 25. Courriel en texte brut — profil RFC inspiré du Corpus
+
+**Le prochain courriel doit être autonome et vérifiable.** Source du profil : directive `#pragma FORMAT` du texte maître d'octobre et scripts de prétraitement/vérification. Profil historique `rfc7994` :
+
+```
+texte = UTF-8, de préférence avec contrôle de normalisation
+colonnes = 72 caractères au maximum
+page_lines = 58 lignes au maximum
+sommaire texte = jusqu'à 6 niveaux selon longueur
+saut_page = caractère form feed (FF, U+000C) dans le fichier TXT
+BOM_UTF8 = vrai dans le fichier TXT autonome, si compatible avec les outils
+pdf_toc_depth = 3 si PDF riche généré
+```
+
+Ce profil historique est **inspiré de RFC 7994** ; il n'autorise pas à qualifier un email MIME de « conforme RFC 7994 ». Une différence demeure entre la **projection fichier TXT**, le **corps Gmail** et le **message reçu** : tester les transformations et ne pas promettre la conservation des sauts de page ou du BOM dans les clients de messagerie.
+
+- Texte dépouillé des marqueurs de travail, du frontmatter YAML et des directives `#pragma` ; **pas de Markdown brut non transformé, pas de HTML substitué** ; titres, numérotation, annexes, sommaire et liens explicites lisibles en monospace.
+- Sommaire/pagination proportionnés à la taille **réelle** du courrier ; pas de pages artificielles si le courrier de communication demeure bref. Si le corps textuel devient volumineux, l'absence de coupure ou d'occultation silencieuse est impérative.
+- Le format historique codé **ne fournit pas de pied de page numéroté**. Le choix « pieds de page + numéro de page » évoqué par le requérant, proche de RFC 2223, reste `JUDGMENT_REQUIRED` : à implémenter explicitement si confirmé, sans prétendre que RFC 7994 l'exige.
+- Préserver accents et typographie ; vérifier longueur des lignes **sur le rendu final** et reprise lors du collage dans le brouillon, puis comparer le corps réellement conservé à la source.
+- Le texte doit identifier les pièces matériellement déposées **par leur nom exact et canal**, sans écrire qu'elles ont été reçues avant réception d'accusé.
+
+## 26. Rendus, fichiers et manifeste
+
+- Chaque sortie finale porte un nom stable, sa source, son statut (`original`, `copie`, `reproduction`, `notice`, `bordereau`), sa taille et son **SHA-256 recalculé**. Les copies institutionnelles et publiques restent séparées.
+- Le PDF, s'il est produit, possède un sommaire approprié, pagination lisible, intégralité contrôlée et texte sélectionnable ; une vérification visuelle ciblée puis complète doit rechercher coupures, pages blanches parasites, tables débordantes et fuites de métadonnées.
+- Si un même fichier est annoncé sur plusieurs canaux, l'identité binaire doit être démontrée par son empreinte, **ou la différence explicitement décrite** ; pas de postulat « les deux canaux ont le même contenu » lorsque les listes divergent légitimement.
+- Pour les pièces sensibles ou volumineuses, transmission par le **canal sécurisé accepté par le greffe** ; un lien Drive seul ne remplace pas une remise matérielle. Contrôler taille/limite de chaque canal, MIME, nom exact, lecture possible côté destinataire et expiration du dépôt.
+- Une archive ZIP de préparation **ne prouve pas** que le greffe peut ou accepte recevoir un ZIP comme tel : vérifier le format réellement admissible et la liste des fichiers à charger.
+
+## 27. Deux canaux, un seul épisode de communication
+
+**Courriel :** destinataire institutionnel vérifié, objet avec `2026-6589 SEN`, texte d'accompagnement et inventaire explicite, pas de nouveau mémoire. Un brouillon peut être préparé et relu, mais **jamais expédié automatiquement**. Les pièces jointes au courriel ne sont choisies qu'après comparaison du poids et des contraintes du canal.
+
+**TransfertPro :** boîte sécurisée fournie par le greffe et **validité actuelle vérifiée** ; noms exacts des documents, fichier P-13, autres sources volumineuses, accusés / identifiants. Ne pas utiliser par défaut un lien sécurisé du 7 octobre sans vérifier qu'il demeure actif. Contrôler l'absence de décision définitive préalable ou autre évolution qui rende la démarche inappropriée.
+
+**Réconciliation :** même numéro de dossier, même inventaire global, **ventilation explicite par canal** ; aucune pièce annoncée comme jointe à l'email si elle n'y figure que dans TransfertPro. Le courriel peut signaler que la remise sécurisée est prévue / accomplie **selon le moment réel** ; ne pas déclarer fait ce qui n'est pas encore fait. Conserver les preuves distinctes de chaque canal. L'option du Principal est une opération manuelle coordonnée et unique, pas des compléments étalés au fil des jours.
+
+## 28. Contrôle de confidentialité
+
+Contrôles sur **octets finaux** : texte/EML/HTML imbriqué/PDF extrait/annexes/images/métadonnées. Expurger les données de tiers inutiles, éviter publication GitHub public, et préserver sous accès privé les originaux non altérés. La minimisation n'autorise pas la suppression d'une pièce indispensable au litige ; produire alors dans un canal protégé approprié avec sa justification. Documenter les occultations dans un **journal privé distinct**, pas dans l'envoi juridictionnel.
+
+## 29. Gouvernance, réversibilité et clôture
+
+- Contrôle avant chaque action : source du mandat, source de vérité, statut des tests. Aucune confirmation répétée pour des lectures, calculs ou préparations réversibles ; aucune présomption d'autorisation pour une **émission** ou publication GitHub.
+- Le principal doit recevoir **le brouillon final exact**, la liste précise des fichiers et des canaux, les empreintes, les risques résiduels et les gestes humains nécessaires.
+- **STOP avant envoi et avant dépôt** : le principal agit manuellement, sauf éventuel mandat ultérieur expressément attribué à ces actes identifiés. Aucune preuve de réception n'est anticipée.
+- Après un dépôt réellement effectué, consigner la date, la transaction, les noms d'objets acceptés et la preuve d'accusé ; `PREPARED ≠ STAGED ≠ SENT ≠ SERVER_ACCEPTED ≠ CLERK_REGISTERED ≠ EXAMINED`.
+- Le cahier des charges est la **norme centrale de contrôle**. Les issues #128–134 sont des sous-tâches et des journaux d'exécution ; une décision nouvelle doit être répercutée ici avec sa source et son impact sur les gates.
+
+## 30. Les neuf contrôles de non-régression — #127
+
+| Gate | Test | Preuve attendue | État au 15/11 |
+|---|---|---|---|
+| GATE-01 | **Baseline** — requête du 07/10 et empreintes historiques préservées | Source initiale + binaire reçu | UNKNOWN — source connue, comparaison complète du binaire à reprendre |
+| GATE-02 | **Griefs** — chaque nouvel élément se rattache à G1–G5 initiaux | Matrice grief→source→preuve | UNKNOWN — réconciliation non gelée |
+| GATE-03 | **Preuves** — chaque pièce a provenance, état, canal et confidentialité | Matrice exhaustive sur fichiers finaux | BLOCKED — sélection/expurgation incomplètes |
+| GATE-04 | **Temps** — aucune régularisation rétroactive ni mélange des périodes | Revue chronologique contradictoire | UNKNOWN — à rejouer sur lot final |
+| GATE-05 | **Contradictoire** — objections juridiques et causalité limitées | Revue adverse des notices | UNKNOWN — à rejouer |
+| GATE-06 | **Complétude** — aucune pièce ou grief orphelin, aucune lacune cachée | Matrice du PDF initial vs bordereau final | BLOCKED — références manquantes |
+| GATE-07 | **Canaux** — rendu texte, fichiers et vidéo réellement concordants | Tests TXT/PDF/ZIP, MIME, empreintes, inventaire | BLOCKED — lot de travail non final |
+| GATE-08 | **Diff/checkpoint** — ajouts et retraits tracés | Version/source + journal d'écarts | UNKNOWN — contrôle du delta à achever |
+| GATE-09 | **Gouvernance** — pas de transmission sans décision spécifique | Brouillon présenté, absence de dépôt anticipé | PASS pour non-émission ; autorisation finale non donnée |
+
+**Règle de décision :** `filing_ready = true` uniquement si tous les gates bloquants ont une preuve de réussite et si les arbitrages indispensables ont été explicitement rendus. `PASS` de construction ≠ autorisation d'envoyer. La section 31 complète ces neuf gates par des contrôles matériels.
+
+## 31. Tableau de bord matériel final — checklist « pilote »
+
+Cette liste doit être remplie avec **preuves et horodatage**, pas avec une estimation de pourcentage. Les statuts ci-dessous sont un **instantané de travail au 15 novembre**, réévaluable ; `UNKNOWN` n'est pas un échec démontré.
+
+| ID | Question de contrôle | État observé | Signal de clôture |
+|---|---|---|---|
+| C01 | Objet actif = **communication des pièces déjà citées** ? | PASS | Décision 01/11, confirmation 15/11 |
+| C02 | Requête initiale conservée et PDF exactement identifié ? | UNKNOWN | Binaire initial, SHA et version/39 pages contrôlés |
+| C03 | Absence de décision définitive du CC vérifiée récemment ? | UNKNOWN | Source institutionnelle datée |
+| C04 | Invitation du greffe encore utilisable pour pièces complémentaires ? | UNKNOWN | Courriel du greffe / canal courant vérifié |
+| C05 | Lien/boîte TransfertPro encore opérationnel ? | UNKNOWN | Préflight technique non émetteur |
+| C06 | Registre 44 P principales / 39 identifiants du PDF initial réconcilié ? | BLOCKED | Une entrée de couverture pour chaque citation réelle |
+| C07 | Sous-pièces P-43 et P-45 couvertes sans divulgation ? | UNKNOWN | Sources + versions expurgées |
+| C08 | P-13 native re-hashée sur la copie finale ? | PASS historique ; À REJOUER | SHA et taille du fichier à charger |
+| C09 | P-13 notice cohérente et sans argument nouveau ? | UNKNOWN | Revue de la notice de communication |
+| C10 | P-14, 2 PDF préfectoraux, doublons et pages vérifiés ? | PARTIEL | Pages + provenance + empreintes finales |
+| C11 | P-16/17/18/19/20 : statuts natif/copie/expurgé corrects ? | PARTIEL | Revue ciblée de chaque objet |
+| C12 | P-27 et P-40 correctement qualifiées (pas de faux original) ? | PARTIEL | Métadonnées + désignations exactes |
+| C13 | P-46 : 46 sources, 17 EML absents du lot récupérés ? | BLOCKED | EML originaux ou lacunes motivées |
+| C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
+| C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
+| C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | UNKNOWN | Correspondance documentée |
+| C17 | Corps email final autonome et conforme au profil de texte adopté ? | BLOCKED | Test longueur, sommaire, pagination pertinente, absence de markup brut |
+| C18 | PDF/bordereau final et courriel concordants sur noms, versions, canaux ? | BLOCKED | Comparaison et empreintes |
+| C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
+| C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
+| C21 | Revue adverse juridique et audit §§15–17 satisfaits ? | UNKNOWN | Rapport signé/validé |
+| C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
+| C23 | Requérant a approuvé expressément le **lot concret** ? | NOT_GRANTED | Validation distincte, spécifique |
+| C24 | Courriel et TransfertPro ont été effectivement émis/acceptés ? | NOT_SENT | Preuves séparées futures, jamais pré-remplies |
+| C25 | Greffe a enregistré/examiné chaque pièce ? | UNKNOWN | Preuve externe ultérieure, **non condition de préparation** |
+
+**Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C24/C25 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C23 est une porte d'autorité distincte du contrôle technique.
+
+## 32. Dossiers et responsabilités
+
+| Référence | Rôle actuel |
+|---|---|
+| [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127) | Coordination ; arbitrages de périmètre |
+| [#128](https://github.com/JeanHuguesRobert/barons-Mariani/issues/128) | Correspondance griefs G1–G5 et références initiales |
+| [#129](https://github.com/JeanHuguesRobert/barons-Mariani/issues/129) | QPC historiques : **ne pas introduire implicitement** dans ce lot |
+| [#130](https://github.com/JeanHuguesRobert/barons-Mariani/issues/130) | Incidence du scrutin ; pas d'inférence d'un vote individuel |
+| [#131](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131) | Registre, provenance et confidentialité P-01…46 |
+| [#132](https://github.com/JeanHuguesRobert/barons-Mariani/issues/132) | Vidéo P-13, original, chaîne et notice |
+| [#133](https://github.com/JeanHuguesRobert/barons-Mariani/issues/133) | Assemblage du lot et rendus ; recette spécifique |
+| [#134](https://github.com/JeanHuguesRobert/barons-Mariani/issues/134) | Revue indépendante et checklist de préflight / postflight |
+| [#115](https://github.com/JeanHuguesRobert/barons-Mariani/issues/115) | Traçabilité du binaire de la requête initiale |
+| [Ubikia #43](https://github.com/JeanHuguesRobert/ubikia/issues/43) | Moteur documentaire générique, distinct de la recette judiciaire |
+
+## 33. Sources de décisions et divergences consignées
+
+- [Édition historique v0.1 du cahier des charges](https://github.com/JeanHuguesRobert/barons-Mariani/blob/42b0ae6d8448b075da974ea69342f767f8b0674a/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md) (26/09, blob `ef86ffc4…`).
+- [#127 — réactivation et neuf tests](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6308335234) (21/10).
+- [#127 — contrat de distribution ancien](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6334335590) (22/10) — conservé mais remplacé.
+- [#127 — priorité actuelle, pièces seules](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6552945875) (01/11).
+- [#127 — état source P-13](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6866412810) (13/11).
+- [#134 — contrôles avant réception](https://github.com/JeanHuguesRobert/barons-Mariani/issues/134#issuecomment-6866287731) (13/11).
+- [Contrat de double lecture corrigé le 01/11](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/contrat-editorial-double-lecture.md).
+- [Maître d'octobre : directive RFC](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-candidat-qpc-integrales-2026-10-22.md) et [vérificateur](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/verify-two-renders.py) — **contrat de projection à adapter**, pas mémoire à expédier.
+- [Audit FBF du 10/11](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/audit-reprise-lot-pieces-2026-11-10.md).
+- Décision utilisateur du **15/11/2026** (conversation) : préparation d'une remise complémentaire unique et récupération des références manquantes ; non encore reportée dans #127.
+
+### Règle de maintenance du document unique
+
+Lorsqu'une nouvelle directive est donnée : (1) consigner sa source/date, (2) identifier les clauses du présent document impactées, (3) décider explicitement « ajoute / précise / remplace », (4) garder le texte ancien en historique (pas dans les règles actives), (5) réexécuter les neuf tests et la checklist, (6) mettre à jour l'état de progression, (7) communiquer au Principal un **delta**, non lui faire relire tout le Corpus. Ce processus évite le retour à des instructions disséminées contradictoires.
+
+---
+
+**Fin du cahier des charges consolidé. `filing_ready: false`. La publication de ce référentiel dans GitHub ne constitue ni un courriel au greffe, ni un dépôt TransfertPro, ni une preuve de transmission des pièces.**
