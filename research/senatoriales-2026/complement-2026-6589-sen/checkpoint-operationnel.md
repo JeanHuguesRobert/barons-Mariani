@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.4"
+version: "0.5"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -36,7 +36,7 @@ review:
 
 ## Rattachement et hiérarchie
 
-Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
+Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4.2, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
 
 La préparation a été reprise depuis un **HEAD synchronisé avec origin/main : 49e11a20912fc68578650b5a4e16c02ddd37eefb**, sans redémarrer les recherches de zéro. Les versions d'artefacts produits ci-dessous sont issues de ce commit ; le présent checkpoint Git est postérieur.
 
@@ -112,14 +112,45 @@ L'audit détaillé, les références Gmail internes, les **dix EML supplémentai
 
 **Portée juridique / Talleyrand :** le rétablissement de la chronologie de demandes et réponses sert à éclairer les **griefs déjà soulevés**, notamment la réception/circulation de P-12 et l'examen éventuel de P-13 ; il ne permet pas d'inférer une intention des services, ni une réception serveur non prouvée. Les deux PDF préfectoraux sont des conteneurs à citer par **page physique** seulement lorsqu'une équivalence documentaire a été vérifiée ; les échanges postérieurs au 11 septembre ne sont pas présumés y figurer.
 
-**Décision de compilation :** ne pas annexer automatiquement les 46 + 32 courriels comme fichiers distincts. Établir une sélection minimale, avec renvois exacts aux pièces déjà fournies, et préserver séparément la possibilité de produire les originaux natifs dont les en-têtes apportent une preuve supplémentaire. La question de fournir les 12 EML natifs manquants dépend de leur nécessité probatoire après cette déduplication.
+**Décision de compilation :** ne pas annexer automatiquement les 46 + 32 courriels comme fichiers distincts. Établir une sélection minimale, avec renvois exacts aux pièces déjà fournies, et préserver séparément la possibilité de produire les originaux natifs dont les en-têtes apportent une preuve supplémentaire. La question de fournir les deux EML natifs de P-46.01 et P-46.02, encore non acquis, dépend de leur nécessité probatoire résiduelle après cette déduplication. Dix autres EML Gmail ont bien été acquis localement et ne sont plus manquants.
+
+## Contrôles complémentaires de reprise — 15 novembre 2026
+
+### Références probatoires vérifiées dans les PDF préfectoraux
+
+Le texte sélectionnable des **193 pages physiques** des deux dossiers préfectoraux a été examiné sur Fracta2, sans OCR. Les résultats localisés sont les suivants :
+
+- **P-46.04 — réponse du bureau des élections du 10 septembre à 20 h 05 :** son texte reproduit dans le fil est visible en **2601714, page 6**, ainsi qu'en **2601715, page 29**. La page 93 de 2601714 répète l'objet dans un contexte différent ; **ce n'est pas une copie de cette réponse**.
+- **P-46.02 — second message du requérant du 10 septembre à 17 h 54 :** son corps est reproduit dans le fil imprimé en **2601714, pages 7 à 9**, et **2601715, pages 30 à 32**. Il indique que le premier envoi de 17 h 01 a été refusé avec un message SMTP de type **552 5.3.4, taille maximale dépassée**. Le fil imprimé **ne démontre pas que les huit annexes MIME du second message sont reprises**.
+- **P-46.01 — premier message de 17 h 01 :** l'existence de cette tentative et du rejet est évoquée dans les pages précitées ; sa **reproduction intégrale et ses neuf pièces jointes ne sont pas établies**. Son EML brut reste, avec celui de P-46.02, à acquérir ou à écarter explicitement de la remise après revue du besoin probatoire.
+
+Ces correspondances autorisent des **renvois précis au dossier préfectoral** pour les passages effectivement reproduits. Elles ne signifient ni que les **messages EML originaux**, ni que leurs pièces jointes, ni que les traces SMTP de réception sont intégralement contenus dans les deux PDF. Le statut d'enregistrement et d'examen par le Conseil demeure distinct.
+
+### Compiler / linker — contrôle de la copie destinée au greffe
+
+La chaîne locale de compilation a été corrigée selon la règle **contenu lecteur ≠ état éditorial** : les formules « PROJET DE TRAVAIL », « NON ENVOYÉ », « aperçu de compilation non destiné » et les demandes de revue technique ne se trouvent plus dans la projection TXT ni dans le PDF consolidé. Elles demeurent dans les manifestes privés de contrôle.
+
+Après resynchronisation de Fracta2 sur le **commit source `3c86668936f0a83e4d82264c60acefa47a9a5c6a`**, les rendus ont été régénérés avec le même Markdown maître. Les deux QPC et les trois notices ont passé les contrôles suivants :
+
+- **100 % des fenêtres normalisées de 64 caractères, sur pas de 32 caractères**, retrouvent chaque section dans chacun des deux rendus.
+- Plus fortement, **chaque section complète, après normalisation des seules différences de présentation (espaces, ponctuation et accents)**, est une **sous-séquence textuelle continue** du texte extrait du PDF et du TXT RFC. Les **deux QPC intégrales**, P-43.a, P-13 et P-18/P-19 passent toutes ce test (**5/5 dans les deux projections**).
+- Le TXT RFC compte **16 pages** ; le PDF consolidé **18 pages**. Les fichiers communs préparés restent **identiques octet par octet** entre le staging courriel et TransfertPro.
+- La vérification **Canonical Agile Frontmatter** du maître source et du maître compilé passe : **2/2 valides, zéro erreur**.
+
+Ce contrôle établit une concordance forte **de ces cinq blocs substantiels**, sans affirmer encore l'audit complet de la totalité du courrier, de son sommaire, des liens et de son bordereau définitif.
+
+### Vie privée — balayage technique des documents destinés aux canaux
+
+Un balayage **hors dépôt GitHub**, conservé avec rapport sous `/srv/cogentia/work/cc-2026-6589-preparation/audit/`, n'a trouvé **aucune des mentions de pilotage interne recherchées** dans le courrier TXT ou PDF. Les deux PDF préfectoraux contiennent des adresses de correspondance ; P-43.a reprend des champs de message et P-18 des informations CAF sensibles. **Le contrôle de confidentialité n'est donc pas terminé** : le traitement juridictionnel et la publication publique obéissent à des périmètres différents. Les sources et staging privés restent protégés (dossiers 0700, fichiers 0600). Les pièces originales ne doivent pas être expurgées de façon silencieuse ; toute copie de lecture dérivée est qualifiée comme telle.
+
+Aucune nouvelle communication, aucun dépôt TransfertPro et aucun acte d'envoi n'ont été effectués. **`filing_ready=false`.**
 
 ## Reste ouvert — condition de recevabilité matérielle
 
-- **PARTIAL :** les 46 références historiques P-46 sont **localisées** (34 EML locaux, 12 messages Gmail sans EML brut acquis), mais les liens au dépôt initial et la sélection minimale restent à vérifier. Les autres références P-01 à P-46, sous-références et correspondances aux pages des PDF préfectoraux exigent encore une réconciliation probatoire complète.
+- **PARTIAL :** les 46 références historiques P-46 sont **localisées** (**44 EML locaux**, **2 messages Gmail dont les EML natifs restent à acquérir**). La concordance avec les dossiers préfectoraux, les pièces jointes des courriels et la sélection minimale restent à vérifier. Les autres références P-01 à P-46, sous-références et correspondances aux pages des PDF préfectoraux exigent encore une réconciliation probatoire complète.
 - **BLOCKED :** contrôle de confidentialité des originaux, du PDF CAF et de l'ensemble des rendus ; décision sur la mise à disposition des EML, intérêt probatoire des en-têtes.
 - **UNKNOWN :** état juridictionnel officiel, recevabilité temporelle des deux QPC, validité actuelle de la boîte TransfertPro et règles concrètes de taille/format.
 - **PARTIAL :** contrôle complet du texte intégral TXT/PDF/QPC, revue juridique contradictoire et application du registre **Talleyrand** à chaque paragraphe final.
 - **NOT GRANTED :** autorisation expresse et spécifique d'un envoi au greffe ou d'un dépôt de pièces.
 
-**Prochaine reprise :** achever la matrice de couverture physique et page par page, acquérir ou écarter les **2 gros EML historiques** non encore acquis selon leur nécessité probatoire, auditer les secrets et données personnelles, puis rejouer la checklist du cahier des charges. **Ne pas envoyer.**
+**Prochaine reprise :** poursuivre la couverture physique page par page, décider pour P-46.01 et P-46.02 de l'utilité des EML natifs et de leurs annexes après les renvois P-14, puis achever la confidentialité, l'inventaire final et les gates juridiques. **Ne pas envoyer.**
