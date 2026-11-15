@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.1"
+version: "0.2"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -93,12 +93,28 @@ La copie P-09 du récépissé provisoire est couverte par référence à **26017
 3. **QPC devant le Conseil constitutionnel juge électoral :** possibilité attestée par [2023-6281 SEN/QPC](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048551159) et [2022-5813 AN/QPC](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046114275). Exigences d'une question propre, applicable au litige, sérieuse/nouvelle et non déjà jugée conforme, sauf changement des circonstances. **Admissibilité de nos deux mémoires produits après la saisine : encore UNKNOWN** ; leur présence technique dans les deux rendus ne préjuge pas d'une acceptation juridictionnelle.
 4. **État du dossier CC au 15 novembre :** recherche web par référence négative, et dernier retour du greffe retrouvé dans Gmail daté du **8 octobre**. **Poursuite effective de l'instance, décision non publiée ou clôture : UNKNOWN**. Ne pas déduire de l'absence de résultat une preuve de non-décision.
 
+## Réconciliation P-46 — localisation des 46 références historiques
+
+Un audit supplémentaire a rapproché l'[index historique P-46.01 à P-46.46](index-p46-controle.csv) des originaux EML présents sur Fracta2, puis des métadonnées de courriels retrouvés dans la boîte Gmail connectée. Résultat **46/46 références localisées**, mais **pas 46/46 EML natifs acquis** :
+
+- **34 références** ont un EML effectivement disponible en local, rapproché par la **date et l'objet** du courriel historique. Il s'agit d'une correspondance d'identification, **pas** d'une preuve que ce même EML fut annexé au recours initial, à la préfecture ou au TA.
+- **12 références** correspondent à des messages effectivement retrouvés dans Gmail, dates et objets vérifiés ; leurs **octets RFC 5322 natifs n'ont pas été acquis** sur Fracta2. Leur champ `export_natif` reste donc explicitement `GMAIL_IDENTIFIE_EML_NON_ACQUIS`.
+- **P-46.08 = P-12 = P-46-N1.E01** : les deux copies EML locales disponibles sont **rigoureusement identiques octet par octet**. Ne pas fournir une troisième reproduction.
+- **P-46.32 et P-46.33** : deux accusés automatiques distincts, retrouvés en `P-46-N1.R07` et `R08`, avec **cinq secondes** d'écart. Ne pas les fusionner.
+- La série complémentaire **P-46-N1** constitue un **second corpus** : 19 envois et 12 réponses EML sur disque, plus une réponse déjà identifiable comme P-30 ; elle ne remplace ni la liste historique de 46 courriels ni les originaux indisponibles.
+
+L'audit détaillé, les références Gmail internes et les SHA-256 restent **exclusivement en privé** sous `/srv/cogentia/work/cc-2026-6589-preparation/audit/` (manifestes `p46-coverage-private.csv` et `p46-coverage-summary-private.json`). Aucun corps de mail, code de France Transfert, identifiant d'accès ou copie EML n'a été publié.
+
+**Portée juridique / Talleyrand :** le rétablissement de la chronologie de demandes et réponses sert à éclairer les **griefs déjà soulevés**, notamment la réception/circulation de P-12 et l'examen éventuel de P-13 ; il ne permet pas d'inférer une intention des services, ni une réception serveur non prouvée. Les deux PDF préfectoraux sont des conteneurs à citer par **page physique** seulement lorsqu'une équivalence documentaire a été vérifiée ; les échanges postérieurs au 11 septembre ne sont pas présumés y figurer.
+
+**Décision de compilation :** ne pas annexer automatiquement les 46 + 32 courriels comme fichiers distincts. Établir une sélection minimale, avec renvois exacts aux pièces déjà fournies, et préserver séparément la possibilité de produire les originaux natifs dont les en-têtes apportent une preuve supplémentaire. La question de fournir les 12 EML natifs manquants dépend de leur nécessité probatoire après cette déduplication.
+
 ## Reste ouvert — condition de recevabilité matérielle
 
-- **BLOCKED :** réconciliation exhaustive des références P-01 à P-46 et des sous-références ; couverture P-46/EML ; inventaire des pièces autonomes non déjà contenues dans les deux PDF préfectoraux.
+- **PARTIAL :** les 46 références historiques P-46 sont **localisées** (34 EML locaux, 12 messages Gmail sans EML brut acquis), mais les liens au dépôt initial et la sélection minimale restent à vérifier. Les autres références P-01 à P-46, sous-références et correspondances aux pages des PDF préfectoraux exigent encore une réconciliation probatoire complète.
 - **BLOCKED :** contrôle de confidentialité des originaux, du PDF CAF et de l'ensemble des rendus ; décision sur la mise à disposition des EML, intérêt probatoire des en-têtes.
 - **UNKNOWN :** état juridictionnel officiel, recevabilité temporelle des deux QPC, validité actuelle de la boîte TransfertPro et règles concrètes de taille/format.
 - **PARTIAL :** contrôle complet du texte intégral TXT/PDF/QPC, revue juridique contradictoire et application du registre **Talleyrand** à chaque paragraphe final.
 - **NOT GRANTED :** autorisation expresse et spécifique d'un envoi au greffe ou d'un dépôt de pièces.
 
-**Prochaine reprise :** poursuivre P-43.a (valeur et format de l'EML original), P-18/P-19 (preuve du handicap, confidentialité, rattachement) et l'inventaire exhaustif, puis rejouer la checklist du cahier des charges. **Ne pas envoyer.**
+**Prochaine reprise :** achever la matrice de couverture physique et page par page, extraire ou écarter les 12 EML historiques non encore acquis selon leur nécessité probatoire, auditer les secrets et données personnelles, puis rejouer la checklist du cahier des charges. **Ne pas envoyer.**
