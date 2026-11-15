@@ -2,7 +2,7 @@
 title: Barons Mariani
 author: unknown
 date: '2026-07-12'
-last_modified_at: '2026-11-13'
+last_modified_at: '2026-11-15'
 document_role: source
 document_kind: documentation
 visibility: public
@@ -125,8 +125,7 @@ Principale propriété corse de la famille, domaine agricole situé à Corte
 Castelare romain potentiel sur la hauteur, le système hydraulique de la rivière Orta, et le
 domaine agricole proprement dit.
 
-Une maison remarquable, villa florentine du début du XIXièle siècle, baptisée localement Château Mariani, et les jardins autour sont en cours
-d'inscription aux Monuments Historiques (DRAC Corse).
+Le domaine agricole de Minesteggio et les façades et toitures des éléments bâtis désignés, dont le château Mariani, sont **inscrits au titre des monuments historiques** depuis l'arrêté du **21 septembre 2026**. La **chaise à porteur** de la famille Mariani fait l'objet d'une inscription mobilière distincte par arrêté du **7 août 2025**. Les intérieurs non visés par l'arrêté immobilier ne sont pas présentés comme inscrits. [Arrêté immobilier 2026](https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92) · [Arrêté mobilier 2025](https://politique.pappers.fr/commune/document/058ae68997b334810300a57c39341618).
 
 Le **Fonds de dotation Barons Mariani** a vocation à devenir propriétaire de
 Minesteggio, en assurant sa conservation et son ouverture au public. Lucas
@@ -145,6 +144,8 @@ successoraux.
 Le Musée Mariani est le projet économique de Minesteggio — son moteur de
 revenus et sa raison d'être publique. Il se construit selon une logique
 possibiliste : partir de la fin, progressivement.
+
+Pensé comme **écomusée vivant**, il s'appuie sur des ateliers territoriaux (blé, âne, huiles essentielles ; apiculture envisagée) qui remettent des savoir-faire anciens à l'épreuve des moyens actuels. Les **Livres Vivants** prolongent cette démarche documentaire : la Boutique Mobile envisage des **exemplaires papier matériellement uniques**, chacun identifiable et doté d'une biographie et, le cas échéant, d'une mission de « Bouteille à la mer ». Plusieurs exemplaires peuvent reproduire la même édition ; leur éventuelle circulation peut provoquer des contributions volontaires, sans surveillance des détenteurs ni résultat garanti. [Présentation publique](musee-mariani/presentation-publique-casa-mariani.md) · [Protocole](musee-mariani/methodes/bouteille_a_la_mer.md).
 
 La première étape en cours est la **boutique du musée**, dans une version
 minimale et mobile, destinée à générer les premières entrées d'argent avant
