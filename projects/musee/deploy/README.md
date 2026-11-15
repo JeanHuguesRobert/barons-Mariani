@@ -27,10 +27,10 @@ review:
 
 # Publication Web envisagée
 
-**État au 15 novembre 2026 : source GitHub et projection HTML, pas de déploiement autonome vérifié.**
+**État au 15 novembre 2026 : sources GitHub et projection HTML préparées ; DNS Cloudflare créé et vérifié ; publication HTTPS non opérationnelle.**
 
 - **Hôte canonique retenu par le Principal le 15 novembre 2026** : `museum.baronsmariani.org`. **Un seul hôte, sans alias ni redirection `musee`**, selon le principe d'Occam.
-- **DNS, TLS et routage** : à contrôler puis configurer dans le plan opérationnel autorisé ; la présente décision ne signifie pas qu'un service est déjà déployé.
+- **DNS actif et vérifié (15 novembre 2026)** : `CNAME museum.baronsmariani.org → fracta.fractavolta.com` (Cloudflare, DNS only). **TLS et routage web toujours absents**, le site n’est pas encore publié à cette adresse.
 - **Site préparé** : `projects/musee/site/`, ensemble de pages statiques source-first.
 - **Registre opérationnel** : [Operium — living-books-deployment.md](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md). Les onze Livres Vivants précédemment recensés n'incluent pas `musee`.
 - **Prochaine étape opératoire** : inspecter la topologie publique réellement active (route, DNS, TLS, origine et déploiement) ; enregistrer la décision de nom de domaine, puis effectuer un déploiement autorisé séparément avec vérification HTTP, contenu, liens et retour arrière.
@@ -52,3 +52,14 @@ Le coffre JHN comporte la référence privée de la clé Cloudflare. Cependant, 
 **Dépendances restantes (séparées) :** (1) opération Cloudflare sémantique autorisée et lecture contradictoire de l'enregistrement ; (2) release statique incluant [Boutique](../site/boutique.html) dans `/srv/www/musee/current` ; (3) vhost Caddy HTTP/HTTPS, certificat et contrôles d'accès appropriés ; (4) vérification extérieure de `/`, `/book.html`, `/magazine.html`, `/boutique.html` et des liens de sources. Le journal opérationnel figure dans [Operium](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md).
 
 **Aucune étape ci-dessus n'est déclarée achevée sans réception et vérification de son effet.**
+
+
+## Mise à jour du 15 novembre 2026 — DNS réellement créé
+
+À la suite de la clarification par le Principal de la **délégation permanente Optimistic Locking**, le provisionneur existant d'Operium a réalisé un seul effet DNS sur le ThinkPad propriétaire : `museum.baronsmariani.org`, CNAME vers `fracta.fractavolta.com`, proxy Cloudflare désactivé, TTL automatique. L'API Cloudflare a retourné une création réussie et une lecture de contrôle indépendante a confirmé le nom, le type, la cible et le mode DNS-only.
+
+Les deux serveurs Cloudflare faisant autorité confirment la résolution ; aucun alias `musee` n'est prévu. La vérification HTTPS a échoué lors de la négociation TLS. Le domaine **existe**, mais le Musée **n'est pas encore accessible en HTTPS**.
+
+La modification a été effectuée selon l'instruction permanente et spécifique du Principal, **sans démonstration d'une admission canonique COP** ; le raccordement du mandat permanent à l'exécuteur Cogentia demeure à réparer génériquement, sans mandat ponctuel supplémentaire. Voir le [reçu opérationnel Operium](https://github.com/JeanHuguesRobert/operium/blob/main/docs/living-books-deployment.md).
+
+Restent uniquement la mise en place du répertoire de publication `/srv/www/musee/current`, du vhost Caddy et du certificat, puis la vérification des pages d'accueil, Livre, Magazine, **Boutique**, Annexes et Contribuer.
