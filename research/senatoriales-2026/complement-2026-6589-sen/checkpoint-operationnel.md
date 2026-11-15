@@ -4,7 +4,7 @@ author: "Assistant Cogentia — revue du requérant requise"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-15"
 last_modified_at: "2026-11-15"
-version: "0.7"
+version: "0.8"
 status: "working-paper"
 language: fr
 license: "CC BY-SA 4.0"
@@ -36,7 +36,7 @@ review:
 
 ## Rattachement et hiérarchie
 
-Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4.2, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
+Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4.4, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
 
 La préparation a été reprise depuis un **HEAD synchronisé avec origin/main : 49e11a20912fc68578650b5a4e16c02ddd37eefb**, sans redémarrer les recherches de zéro. Les versions d'artefacts produits ci-dessous sont issues de ce commit ; le présent checkpoint Git est postérieur.
 
@@ -164,6 +164,27 @@ Un balayage **hors dépôt GitHub**, conservé avec rapport sous `/srv/cogentia/
 
 Aucune nouvelle communication, aucun dépôt TransfertPro et aucun acte d'envoi n'ont été effectués. **`filing_ready=false`.**
 
+## Reprise de la matérialisation — matrice de couverture, P-17 et préflight
+
+La [matrice opérationnelle canonique](matrice-couverture-pieces.md), à **nom stable** et frontmatter agile, couvre désormais **44 références principales + six sous-pièces**. Elle reprend les catégories juridiques A/B/C/D sans inventer de pièces livrées : `COMMON_STAGED`, `TRANSFER_ONLY_STAGED`, `REFERENCE_P14`, `SOURCE_LOCAL_NOT_STAGED`, `CONTEXT_REFERENCE` et `UNRESOLVED` y sont distingués.
+
+**P-17 — deux photographies de la note manuscrite recto-verso :**
+- sources JPG locales vérifiées séparément, SHA-256 `85e97dd0b979b4ae7420a65dadf417d56b8de066f0ef2c0f73ab797e1a15ad1f` et `39c34ca847c3c6c1f6657c4412a0ff06850ce80c5eb5bc915a79f202f5f90e58` ;
+- PDF de **lecture photographique** construit sans transcription substitutive : `P-17-photographies-note.pdf`, **2 pages, une image incorporée par page**, **489 473 octets**, SHA-256 `8098d3ea5888e6e023a607b6e01e96109d5ca0dd14f3048c134f5ffea60627a8` ;
+- préparation privée sur **les deux canaux, fichiers identiques par empreinte**, sans présumer que cet exemplaire ait été effectivement remis à la formation du TA. Une notice explicative bornée aux griefs G3/G4 initiaux a été intégrée au corps documentaire.
+
+**État compilateur après P-17 :** **neuf fragments constitutifs** sont trouvés intégralement dans le TXT RFC et dans le texte extrait du PDF consolidé, chacun comme sous-séquence continue et dans le bon ordre (contrôle de **32 517 caractères normalisés**, rapport privé conservé). Le TXT comporte **17 pages RFC**, le PDF **19 pages**. Ce résultat couvre la **composition textuelle** ; la vérification visuelle finale et la recevabilité des pièces restent distinctes.
+
+**Inventaire matériel privé :**
+- **Courriel** : texte RFC + **six PDF communs** (2 QPC, P-43.a lecture, P-17 photos, P-18 CAF, P-19 lecture), **872 041 octets d'annexes**.
+- **TransfertPro** : PDF consolidé + **les six mêmes PDF communs** + **P-13 MP4 natif** + **deux PDF préfectoraux**, soit **dix fichiers totalisant 104 968 150 octets**.
+- **Contrôle de préflight** : égalité stricte entre fichiers attendus et présents, empreintes SHA-256, permissions privées, PDF lisibles, distribution et duplications justifiées ; le rapport est sous `audit/staged-preflight-private.json`.
+- **Test MIME non expédié** : email RFC 5322 simulé avec six pièces et corps TXT, **1 249 304 octets**, sous le plafond courant de 25 Mo pour ce sous-lot ; il ne présume ni la taille d'un inventaire futur ni les restrictions d'un relais.
+
+**P-16/P-20 :** l'audit du dépôt initial du 7 octobre confirme des **productions historiques PDF hachées**, mais les fichiers correspondants ne sont pas présents dans le staging actuel. P-16 reste qualifié comme reproduction candidate, non identique de manière démontrée à l'exemplaire déposé au TA. P-20 avait été assemblé depuis des photographies du jugement et de sa notification : son identité et les photos sources doivent être réexaminées avant toute nouvelle remise. **P-27** est documenté dans le Corpus et sur la [page officielle du Sénat](https://senatoriales2026.senat.fr/departement/2B-haute-corse) : une référence publique vérifiable est préférée à une copie redondante, sauf nécessité probatoire spécifique.
+
+**Gates toujours non clos :** sélection finale exhaustive, P-16/P-20 utiles et recouvrables, avis sur les pièces P-xx encore non couvertes, revue de confidentialité (AAH / identifiants / données de tiers), mise en page visuelle du PDF, état officiel de l'instance et recevabilité des QPC, lien TransfertPro toujours valide, consentement du requérant sur le **lot exact**. **`filing_ready=false`, pas d'envoi ni dépôt**.
+
 ## Reste ouvert — condition de recevabilité matérielle
 
 - **PARTIAL :** les 46 références historiques P-46 sont **localisées** (**44 EML locaux**, **2 messages Gmail dont les EML natifs restent à acquérir**). La concordance avec les dossiers préfectoraux, les pièces jointes des courriels et la sélection minimale restent à vérifier. Les autres références P-01 à P-46, sous-références et correspondances aux pages des PDF préfectoraux exigent encore une réconciliation probatoire complète.
@@ -172,4 +193,4 @@ Aucune nouvelle communication, aucun dépôt TransfertPro et aucun acte d'envoi 
 - **PARTIAL :** contrôle complet du texte intégral TXT/PDF/QPC, revue juridique contradictoire et application du registre **Talleyrand** à chaque paragraphe final.
 - **NOT GRANTED :** autorisation expresse et spécifique d'un envoi au greffe ou d'un dépôt de pièces.
 
-**Prochaine reprise :** approfondir la couverture des autres références P-xx et sous-pièces non représentées dans les PDF préfectoraux, vérifier l'intérêt probatoire résiduel des EML P-46.01/.02 gardés en réserve, puis terminer la confidentialité, l'inventaire final et les gates juridiques. **Ne pas envoyer.**
+**Prochaine reprise :** exploiter la matrice de couverture et localiser les productions P-16/P-20 réellement réutilisables ; contrôler les autres pièces A manquantes, achever la confidentialité, l'inventaire final et les gates juridiques. **Ne pas envoyer.**
