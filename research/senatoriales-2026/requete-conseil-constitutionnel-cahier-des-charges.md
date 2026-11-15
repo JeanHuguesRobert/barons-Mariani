@@ -3,7 +3,7 @@ title: "Sénatoriales 2026 — cahier des charges consolidé de la communication
 subtitle: "Spécification contentieuse, probatoire, historique et Archia"
 author: "Jean Hugues Noël Robert, baron Mariani"
 date: "2026-09-26"
-version: "0.2"
+version: "0.3"
 status: "working specification — consolidated"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -36,9 +36,9 @@ source_issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
 
 **Statut : cahier des charges canonique consolidé, référentiel de travail non destiné à être remis au greffe.** Cette version rassemble les exigences applicables au **15 novembre 2026**. Sa première partie reproduit **littéralement les sections 1 à 17** du texte du 26 septembre ; l'[édition historique v0.1](https://github.com/JeanHuguesRobert/barons-Mariani/blob/42b0ae6d8448b075da974ea69342f767f8b0674a/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md) demeure consultable à son commit d'origine. La seconde partie constitue le contrat actuel de production et sa checklist de vérification ; elle n'est pas une argumentation à joindre au dossier judiciaire.
 
-**Objectif opératoire actif :** communiquer **en un seul épisode de remise complémentaire**, au greffe du Conseil constitutionnel (dossier 2026-6589 SEN), les pièces citées dans la requête du 7 octobre 2026 et non matériellement fournies, plus notices bornées et bordereau vérifiable. L'unicité de la communication ne signifie **ni un seul fichier ni un seul canal technique** : courriel et TransfertPro doivent être articulés sans divergence d'inventaire. **Le requérant procède lui-même** aux actes de transmission après revue du lot final et autorisation spécifique. Aucun agent ne dépose ni n'envoie par présomption.
+**Objectif opératoire actif :** communiquer **en un seul épisode de remise complémentaire**, au greffe du Conseil constitutionnel (dossier 2026-6589 SEN), les pièces citées dans la requête du 7 octobre 2026 et non matériellement fournies, plus notices bornées et bordereau vérifiable, **ainsi que les deux QPC L.299 et L.303 dans les trois représentations expressément décidées par le requérant** : texte intégral du courriel, PDF consolidé de même contenu et deux PDF autonomes distincts, joints au courriel et déposés aussi par TransfertPro. L'unicité de la communication ne signifie **ni un seul fichier ni un seul canal technique** : courriel et TransfertPro doivent être articulés sans divergence d'inventaire. **Le requérant procède lui-même** aux actes de transmission après revue du lot final et autorisation spécifique. Aucun agent ne dépose ni n'envoie par présomption.
 
-**Principe cardinal : la fonction historique ne doit jamais détruire la fonction contentieuse.** Les anciennes variantes (« mémoire intégral + QPC », « trois PDF + MP4 », « six fichiers ») sont conservées comme provenance, mais **ne gouvernent pas automatiquement** le prochain envoi. La sélection actuelle est celle des sources nécessaires et déjà annoncées dans la requête. Une QPC ou un mémoire nouveau exige un arbitrage et un acte distincts.
+**Principe cardinal : la fonction historique ne doit jamais détruire la fonction contentieuse.** Les anciennes variantes (« mémoire intégral + QPC », « trois PDF + MP4 », « six fichiers ») demeurent des traces de provenance, et leurs anciennes **listes fermées de fichiers** ne gouvernent pas le prochain envoi. **Décision expresse du 15 novembre 2026 :** les deux QPC existantes L.299 et L.303 doivent être reproduites **intégralement** dans le texte du courriel et le PDF consolidé, **et** communiquées chacune dans un PDF autonome, distinct et motivé, par les deux canaux. Cette décision n'autorise ni nouveau grief électoral, ni nouvelle QPC, ni altération de la requête historique ; la recevabilité et le formalisme procédural des QPC restent à vérifier contradictoirement.
 
 **Interprétation des statuts :** `PASS` = contrôlé avec une preuve accessible ; `FAIL` = écart constaté ; `UNKNOWN` = non démontré ; `BLOCKED` = condition connue non satisfaite ; `JUDGMENT_REQUIRED` = arbitrage matériel du requérant indispensable ; `NOT_APPLICABLE` = dispense motivée. Aucun `PASS` implicite. Toutes les données de pilotage de ce cahier restent **hors des rendus destinés au greffe**.
 
@@ -361,25 +361,28 @@ La requête doit être lisible à deux époques :
 | **01/11/2026** | Décision de communiquer les **pièces déjà citées**, sans nouveau mémoire ni QPC cachées | **Mandat courant** confirmé dans #127/#133/#134 |
 | 13/11/2026 | Vérifier décision éventuelle du Conseil, recevabilité, canal sécurisé encore valable, traitement du consentement/handicap/original | **Conditions préalables** |
 | **15/11/2026** | **Tout communiquer d'un seul tenant** ; éviter des envois partiels successifs | **Arbitrage actuel du Principal**, désormais enregistré dans le présent cahier des charges |
+| **15/11/2026 — précision expresse ultérieure** | **Maintien des deux QPC L.299/L.303** : chaque texte intégral dans le corps du courriel et dans le PDF consolidé ; deux PDF QPC autonomes joints à l'email **et** remis dans TransfertPro | **Règle active**, qui remplace exclusivement l'exclusion des QPC décidée le 01/11 ; les autres limites du mandat sont conservées |
 
-**Règle d'arbitrage :** une instruction plus ancienne ne prévaut pas du seul fait qu'elle figure dans un script ou un CSV. Toute modification substantielle (QPC supplémentaires, mémoire nouveau, retrait délibéré d'une pièce annoncée, destinataire ou canal différent) est `JUDGMENT_REQUIRED` et exige décision explicite. Les issues documentent la provenance et les sous-tâches, **ce cahier des charges est le contrôle unique des exigences en vigueur**. Un commentaire d'issue ne doit pas recréer une deuxième norme concurrente.
+**Règle d'arbitrage :** une instruction plus ancienne ne prévaut pas du seul fait qu'elle figure dans un script ou un CSV. **L'inclusion des deux QPC identifiées ci-dessus a reçu une instruction expresse et n'est donc plus `JUDGMENT_REQUIRED` en tant que choix de périmètre** ; leur recevabilité et leur version exacte restent soumises aux contrôles. Toute autre modification substantielle (QPC supplémentaire, mémoire nouveau hors des deux mémoires distincts prévus, retrait délibéré d'une pièce annoncée, destinataire ou canal différent) est `JUDGMENT_REQUIRED` et exige décision explicite. Les issues documentent la provenance et les sous-tâches, **ce cahier des charges est le contrôle unique des exigences en vigueur**. Un commentaire d'issue ne doit pas recréer une deuxième norme concurrente.
 
 ## 19. Portée exacte du prochain acte
 
-- **Acte :** communication complémentaire de pièces et pièces explicatives déjà annoncées dans la requête enregistrée sous **2026-6589 SEN**, à la suite de l'invitation du greffe du 7 octobre.
-- **Pas :** nouvelle requête, grief électoral supplémentaire, mémoire argumentatif autonome, dépôt implicite des QPC historiques ou régularisation a posteriori de la candidature.
+- **Acte :** communication complémentaire des pièces et notices rattachées à la requête enregistrée sous **2026-6589 SEN**, **avec reproduction et communication expresses des deux mémoires QPC L.299 et L.303 déjà annoncés** ; vérifier le statut procédural de cette communication au regard de la date et des règles propres aux QPC.
+- **Pas :** nouvelle requête, grief électoral supplémentaire, QPC nouvelle ou cachée, mémoire argumentatif additionnel distinct des **deux mémoires QPC expressément identifiés**, régularisation a posteriori de la candidature.
 - **Temporalité :** un **lot unique finalisé** avec bordereau cohérent, remis en une séquence courriel / TransfertPro. Les deux canaux sont des opérations techniques distinctes, dont chacun réclame une preuve de réalisation et de réception.
 - **Identification :** le courrier précise le dossier, la date de la requête, le statut des annexes et la provenance ; les URLs GitHub/Drive n'équivalent jamais à une pièce accessible par le Conseil lorsque son pare-feu les bloque.
 - **P-13 :** vidéo native et notice explicative de provenance ; la narration peut éclairer mais ne doit pas remplacer la chaîne de preuve.
+- **QPC L.299 / L.303 :** deux actes procéduraux distincts et motivés, **non requalifiés en pièces probatoires ordinaires**. Les inclure chacun en texte intégral dans la source maître compilée (puis dans ses deux projections) et produire en outre deux PDF autonomes individualisés, pour l'email et TransfertPro.
 
 ## 20. Source souveraine et documents de travail
 
 - **Requête source déposée** : `research/senatoriales-2026/requete-conseil-constitutionnel.md` (corps historique v0.34, ne pas réécrire).
-- **Cahier des charges** : le présent projet, après validation et stabilisation éventuelle à l'emplacement historique.
+- **Cahier des charges** : le présent document canonique, version 0.3, conservé à l'emplacement historique.
 - **Registre initial** : `bordereau-pieces-requete-conseil-constitutionnel.md` ; **matrice historique** du 22 octobre et registre des références effectivement citées (à recouper avec le PDF déposé, pas seulement avec GitHub).
 - **Matrice actuelle** : `03-matrice-exhaustivite-travail-2026-11-15.csv` (local) ; **P-46** : `P-46-audit-46-entrees-2026-11-15.csv` (local).
 - **Paquet documentaire actuel** : `2026-6589-SEN-assemblage-unique-EN-COURS-2026-11-15.zip` (privé, **NON PRÊT À DÉPOSER**, archives anciennes encore présentes).
-- **Génération** : `scripts/sen-2026-6589-build.py` en mode `exhibits` par défaut (01/11) ; la compilation argumentaire historique est un **mode explicitement ancien**. Le moteur documentaire général appartient à Ubikia #43, ne pas dupliquer ici un moteur générique.
+- **Sources QPC autonomes** : `qpc/memoire-qpc-l299-formalisme-candidature-empechement-remplacant.md` et `qpc/memoire-qpc-l303-garanties-juridictionnelles.md`, dans le présent dossier `research/senatoriales-2026/`. Conserver leurs versions sources identifiables, frontmatter hors texte juridictionnel, corps intégral reproduit sans omission.
+- **Génération** : `scripts/sen-2026-6589-build.py` en mode `exhibits` par défaut (01/11) constitue un adaptateur **à corriger** pour l'inclusion des deux QPC désormais expressément demandées. La compilation argumentative historique demeure un mode ancien **à ne pas relancer tel quel**. Le moteur documentaire générique appartient à [Ubikia #43](https://github.com/JeanHuguesRobert/ubikia/issues/43) ; réutiliser son mécanisme de composition multi-sources et de distribution multi-artefacts, sans réimplémenter un second moteur général.
 
 ## 21. Matrice exhaustive des pièces — invariant de couverture
 
@@ -413,7 +416,7 @@ Pour chaque identifiant **effectivement cité dans le PDF remis le 7 octobre** :
 
 Pour chaque notice : `identifiant – source et dates – origine / chaîne de conservation – SHA/taille si binaire – fait réellement établi – rattachement à un grief initial – meilleure objection – limite – état envoyé/reçu/versé/examiné – traitement des données personnelles`. Distinguer lois, règlements, formulaires, instructions et pratiques. Ne pas affirmer que « papier » est absent de toute norme ; L.299, L.301, R.99 et R.149 doivent être lus séparément. Pouvoir d'instruction du Conseil ≠ obligation de le mobiliser systématiquement.
 
-Toute nouvelle formulation qui dépasse la simple explication d'une pièce, réintroduit les QPC ou change les conclusions passe en `JUDGMENT_REQUIRED` ; elle ne doit pas être dissimulée parmi les annexes.
+**Exception explicitement autorisée au périmètre « pièces seules » du 01/11 :** les deux QPC L.299 et L.303 déjà identifiées sont maintenant **obligatoires**, sous leur qualification propre, dans le corps et le PDF consolidé, ainsi qu'en PDF autonomes sur les deux canaux. La simple réalisation de ces inclusions ne constitue pas un grief électoral nouveau ; cela ne préjuge toutefois pas de leur recevabilité. Toute autre formulation qui ajoute un moyen, modifie les conclusions ou introduit une QPC supplémentaire passe en `JUDGMENT_REQUIRED` ; ne rien dissimuler parmi les annexes.
 
 ## 25. Courriel en texte brut — profil RFC inspiré du Corpus
 
@@ -432,6 +435,7 @@ pdf_toc_depth = 3 si PDF riche généré
 Ce profil historique est **inspiré de RFC 7994** ; il n'autorise pas à qualifier un email MIME de « conforme RFC 7994 ». Une différence demeure entre la **projection fichier TXT**, le **corps Gmail** et le **message reçu** : tester les transformations et ne pas promettre la conservation des sauts de page ou du BOM dans les clients de messagerie.
 
 - Texte dépouillé des marqueurs de travail, du frontmatter YAML et des directives `#pragma` ; **pas de Markdown brut non transformé, pas de HTML substitué** ; titres, numérotation, annexes, sommaire et liens explicites lisibles en monospace.
+- **Inclusion obligatoire :** le texte de chacune des deux QPC est présent **en entier** dans le corps du courriel, issu des mêmes versions des deux sources souveraines que le PDF consolidé et les PDF autonomes. Ne pas substituer une synthèse, un renvoi, un lien ou la simple annonce d'une pièce jointe à cette reproduction intégrale.
 - Sommaire/pagination proportionnés à la taille **réelle** du courrier ; pas de pages artificielles si le courrier de communication demeure bref. Si le corps textuel devient volumineux, l'absence de coupure ou d'occultation silencieuse est impérative.
 - Le format historique codé **ne fournit pas de pied de page numéroté**. Le choix « pieds de page + numéro de page » évoqué par le requérant, proche de RFC 2223, reste `JUDGMENT_REQUIRED` : à implémenter explicitement si confirmé, sans prétendre que RFC 7994 l'exige.
 - Préserver accents et typographie ; vérifier longueur des lignes **sur le rendu final** et reprise lors du collage dans le brouillon, puis comparer le corps réellement conservé à la source.
@@ -439,19 +443,21 @@ Ce profil historique est **inspiré de RFC 7994** ; il n'autorise pas à qualifi
 
 ## 26. Rendus, fichiers et manifeste
 
-- Chaque sortie finale porte un nom stable, sa source, son statut (`original`, `copie`, `reproduction`, `notice`, `bordereau`), sa taille et son **SHA-256 recalculé**. Les copies institutionnelles et publiques restent séparées.
-- Le PDF, s'il est produit, possède un sommaire approprié, pagination lisible, intégralité contrôlée et texte sélectionnable ; une vérification visuelle ciblée puis complète doit rechercher coupures, pages blanches parasites, tables débordantes et fuites de métadonnées.
+- **Chaîne normative :** fichiers Markdown sources → assemblage/linker en **Markdown maître unique** avec les deux QPC intégrales → **deux projections du même contenu substantiel** : texte brut au profil RFC pour le corps du mail et PDF enrichi destiné à TransfertPro. Leur différence de présentation, de pagination ou de sommaire ne doit jamais introduire de divergence de faits, d'argument ou de texte des QPC. Les deux rendus signalent mutuellement l'existence de l'autre et citent l'URL canonique + le commit Git figé de leur source commune.
+- **Produits autonomes QPC :** deux PDF distincts (`L.299` et `L.303`), issus des **mêmes fichiers sources gelés** que les inclusions dans le maître. Chacun reproduit intégralement sa QPC, avec son titre de mémoire distinct et motivé ; vérifier l'identité des versions et le contenu de chaque fichier indépendamment du PDF consolidé.
+- Chaque sortie finale porte un nom stable, sa source, son statut (`original`, `copie`, `reproduction`, `notice`, `bordereau`, `mémoire QPC autonome`), sa taille et son **SHA-256 recalculé**. Les copies institutionnelles et publiques restent séparées.
+- **Le PDF consolidé est obligatoire**, possède un sommaire approprié, pagination lisible, intégralité contrôlée et texte sélectionnable ; une vérification visuelle ciblée puis complète doit rechercher coupures, pages blanches parasites, tables débordantes et fuites de métadonnées.
 - Si un même fichier est annoncé sur plusieurs canaux, l'identité binaire doit être démontrée par son empreinte, **ou la différence explicitement décrite** ; pas de postulat « les deux canaux ont le même contenu » lorsque les listes divergent légitimement.
 - Pour les pièces sensibles ou volumineuses, transmission par le **canal sécurisé accepté par le greffe** ; un lien Drive seul ne remplace pas une remise matérielle. Contrôler taille/limite de chaque canal, MIME, nom exact, lecture possible côté destinataire et expiration du dépôt.
 - Une archive ZIP de préparation **ne prouve pas** que le greffe peut ou accepte recevoir un ZIP comme tel : vérifier le format réellement admissible et la liste des fichiers à charger.
 
 ## 27. Deux canaux, un seul épisode de communication
 
-**Courriel :** destinataire institutionnel vérifié, objet avec `2026-6589 SEN`, texte d'accompagnement et inventaire explicite, pas de nouveau mémoire. Un brouillon peut être préparé et relu, mais **jamais expédié automatiquement**. Les pièces jointes au courriel ne sont choisies qu'après comparaison du poids et des contraintes du canal.
+**Courriel :** destinataire institutionnel vérifié, objet avec `2026-6589 SEN`, **corps texte intégral** provenant du Markdown maître, **dont les deux QPC L.299 et L.303 complètes**, et inventaire explicite. **Deux pièces jointes PDF obligatoires : les mémoires autonomes QPC L.299 et L.303.** Les autres pièces retenues pour l'envoi doivent également être jointes, après vérification des plafonds globaux et limites de sécurité ; la vidéo P-13 est expressément exclue des pièces jointes au courriel à cause de sa taille. Le PDF consolidé n'est pas une pièce jointe nécessaire puisqu'il constitue la projection enrichie du corps textuel déposée sur TransfertPro. Un brouillon peut être préparé et relu, mais **jamais expédié automatiquement**.
 
-**TransfertPro :** boîte sécurisée fournie par le greffe et **validité actuelle vérifiée** ; noms exacts des documents, fichier P-13, autres sources volumineuses, accusés / identifiants. Ne pas utiliser par défaut un lien sécurisé du 7 octobre sans vérifier qu'il demeure actif. Contrôler l'absence de décision définitive préalable ou autre évolution qui rende la démarche inappropriée.
+**TransfertPro :** boîte sécurisée fournie par le greffe et **validité actuelle vérifiée** ; déposer **le PDF consolidé contenant intégralement les deux QPC**, **les deux mêmes PDF QPC autonomes**, les **mêmes fichiers probatoires** que les pièces jointes de l'email (octets et noms contrôlés), **et la vidéo native P-13**, qui constitue l'exception attendue de distribution. Ne pas utiliser par défaut un lien sécurisé du 7 octobre sans vérifier qu'il demeure actif. Contrôler l'absence de décision définitive préalable ou autre évolution qui rende la démarche inappropriée.
 
-**Réconciliation :** même numéro de dossier, même inventaire global, **ventilation explicite par canal** ; aucune pièce annoncée comme jointe à l'email si elle n'y figure que dans TransfertPro. Le courriel peut signaler que la remise sécurisée est prévue / accomplie **selon le moment réel** ; ne pas déclarer fait ce qui n'est pas encore fait. Conserver les preuves distinctes de chaque canal. L'option du Principal est une opération manuelle coordonnée et unique, pas des compléments étalés au fil des jours.
+**Réconciliation :** même numéro de dossier, même inventaire global, **ventilation explicite par canal** : corps texte RFC dans l'email ↔ PDF consolidé dans TransfertPro (contenu substantiel identique) ; les deux PDF QPC et toutes les autres pièces jointes communes identiques **octet par octet** sur les deux canaux ; la vidéo P-13 uniquement dans TransfertPro. Si une limite de taille empêche l'envoi d'une pièce hors vidéo, marquer `BLOCKED` et soumettre une adaptation explicite au Principal, **sans exclusion silencieuse ni prétention d'identité des canaux**. Le courriel peut signaler que la remise sécurisée est prévue / accomplie **selon le moment réel** ; ne pas déclarer fait ce qui n'est pas encore fait. Conserver les preuves distinctes de chaque canal. L'option du Principal est une opération manuelle coordonnée et unique, pas des compléments étalés au fil des jours.
 
 ## 28. Contrôle de confidentialité
 
@@ -474,8 +480,8 @@ Contrôles sur **octets finaux** : texte/EML/HTML imbriqué/PDF extrait/annexes/
 | GATE-03 | **Preuves** — chaque pièce a provenance, état, canal et confidentialité | Matrice exhaustive sur fichiers finaux | BLOCKED — sélection/expurgation incomplètes |
 | GATE-04 | **Temps** — aucune régularisation rétroactive ni mélange des périodes | Revue chronologique contradictoire | UNKNOWN — à rejouer sur lot final |
 | GATE-05 | **Contradictoire** — objections juridiques et causalité limitées | Revue adverse des notices | UNKNOWN — à rejouer |
-| GATE-06 | **Complétude** — aucune pièce ou grief orphelin, aucune lacune cachée | Matrice du PDF initial vs bordereau final | BLOCKED — références manquantes |
-| GATE-07 | **Canaux** — rendu texte, fichiers et vidéo réellement concordants | Tests TXT/PDF/ZIP, MIME, empreintes, inventaire | BLOCKED — lot de travail non final |
+| GATE-06 | **Complétude** — aucune pièce ou grief orphelin, aucune lacune cachée ; **QPC L.299/L.303 intégrales et autonomes toutes deux** | Matrice du PDF initial vs bordereau final + correspondance maître/QPC | BLOCKED — références et compilation QPC non finalisées |
+| GATE-07 | **Canaux** — rendus texte/PDF de même contenu ; **deux PDF QPC identiques par octets entre email/TransfertPro**, autres pièces communes et vidéo correctement ventilées | Tests TXT/PDF/QPC, MIME, empreintes, inventaire | BLOCKED — lot de travail non final |
 | GATE-08 | **Diff/checkpoint** — ajouts et retraits tracés | Version/source + journal d'écarts | UNKNOWN — contrôle du delta à achever |
 | GATE-09 | **Gouvernance** — pas de transmission sans décision spécifique | Brouillon présenté, absence de dépôt anticipé | PASS pour non-émission ; autorisation finale non donnée |
 
@@ -487,7 +493,7 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 
 | ID | Question de contrôle | État observé | Signal de clôture |
 |---|---|---|---|
-| C01 | Objet actif = **communication des pièces déjà citées** ? | PASS | Décision 01/11, confirmation 15/11 |
+| C01 | Objet actif = **communication des pièces déjà citées + deux QPC expressément maintenues** ? | PASS | Décision 01/11, complétée le 15/11 pour L.299 et L.303 |
 | C02 | Requête initiale conservée et PDF exactement identifié ? | UNKNOWN | Binaire initial, SHA et version/39 pages contrôlés |
 | C03 | Absence de décision définitive du CC vérifiée récemment ? | UNKNOWN | Source institutionnelle datée |
 | C04 | Invitation du greffe encore utilisable pour pièces complémentaires ? | UNKNOWN | Courriel du greffe / canal courant vérifié |
@@ -503,17 +509,20 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 | C14 | P-46 recueil communicable expurgé et vérifié ? | BLOCKED | Revue confidentialité complète |
 | C15 | A/B/C/D : chaque ligne du bordereau = source réelle / statut honnête ? | BLOCKED | Matrice sans lignes indéterminées non justifiées |
 | C16 | Dédoublonnage des pièces reprises dans P-14 avec pages exactes ? | UNKNOWN | Correspondance documentée |
-| C17 | Corps email final autonome et conforme au profil de texte adopté ? | BLOCKED | Test longueur, sommaire, pagination pertinente, absence de markup brut |
-| C18 | PDF/bordereau final et courriel concordants sur noms, versions, canaux ? | BLOCKED | Comparaison et empreintes |
+| C17 | Corps email final autonome, conforme au profil RFC et **contenant les deux QPC intégrales** ? | BLOCKED | Test longueur/sommaire/pagination + comparaison du contenu L.299/L.303 |
+| C18 | PDF consolidé / corps email / bordereau concordants sur contenu, noms, versions, canaux ? | BLOCKED | Comparaison sémantique et empreintes des fichiers |
 | C19 | Tous les fichiers réellement chargeables (taille, format, sécurité) ? | UNKNOWN | Préflight canal + contrôles locaux |
 | C20 | Aucune donnée inutile, mot de passe, URL signée ou directive interne ne fuit ? | BLOCKED | Audit sur fichiers finaux |
 | C21 | Revue adverse juridique et audit §§15–17 satisfaits ? | UNKNOWN | Rapport signé/validé |
 | C22 | Brouillon de courrier + bordereau exact + gestes humains transmis au requérant ? | BLOCKED | Lot final présentable |
-| C23 | Requérant a approuvé expressément le **lot concret** ? | NOT_GRANTED | Validation distincte, spécifique |
-| C24 | Courriel et TransfertPro ont été effectivement émis/acceptés ? | NOT_SENT | Preuves séparées futures, jamais pré-remplies |
-| C25 | Greffe a enregistré/examiné chaque pièce ? | UNKNOWN | Preuve externe ultérieure, **non condition de préparation** |
+| C23 | **QPC L.299 et L.303 entièrement incluses dans la source maître et ses deux projections ?** | BLOCKED | Confrontation intégrale aux deux Markdown QPC gelés ; absence d'omissions et variantes |
+| C24 | **Les deux PDF QPC autonomes et motivés existent-ils, chacun complet et distinct ?** | BLOCKED | PDF L.299 + PDF L.303, textes extraits contrôlés, version et SHA-256 individuels |
+| C25 | **Les deux PDF QPC et toutes les autres pièces communes sont-elles identiques entre courriel et TransfertPro ?** | BLOCKED | Manifeste par canal et égalité des empreintes des fichiers communs ; P-13 seulement TransfertPro |
+| C26 | Requérant a approuvé expressément le **lot concret** ? | NOT_GRANTED | Validation distincte, spécifique |
+| C27 | Courriel et TransfertPro ont été effectivement émis/acceptés ? | NOT_SENT | Preuves séparées futures, jamais pré-remplies |
+| C28 | Greffe a enregistré/examiné chaque pièce ? | UNKNOWN | Preuve externe ultérieure, **non condition de préparation** |
 
-**Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C24/C25 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C23 est une porte d'autorité distincte du contrôle technique.
+**Remarque :** le geste de transmission ne peut être marqué `PASS` avant sa réalisation ; C27/C28 ne sont donc pas des préconditions artificielles de `filing_ready`, mais des contrôles **post-acte**. C26 est une porte d'autorité distincte du contrôle technique.
 
 ## 32. Dossiers et responsabilités
 
@@ -521,7 +530,7 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 |---|---|
 | [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127) | Coordination ; arbitrages de périmètre |
 | [#128](https://github.com/JeanHuguesRobert/barons-Mariani/issues/128) | Correspondance griefs G1–G5 et références initiales |
-| [#129](https://github.com/JeanHuguesRobert/barons-Mariani/issues/129) | QPC historiques : **ne pas introduire implicitement** dans ce lot |
+| [#129](https://github.com/JeanHuguesRobert/barons-Mariani/issues/129) | **QPC L.299 et L.303 actives** : sources intégrales, mémoires autonomes, exactitude juridique, recevabilité et formalisme ; inclusion désormais explicite |
 | [#130](https://github.com/JeanHuguesRobert/barons-Mariani/issues/130) | Incidence du scrutin ; pas d'inférence d'un vote individuel |
 | [#131](https://github.com/JeanHuguesRobert/barons-Mariani/issues/131) | Registre, provenance et confidentialité P-01…46 |
 | [#132](https://github.com/JeanHuguesRobert/barons-Mariani/issues/132) | Vidéo P-13, original, chaîne et notice |
@@ -535,13 +544,13 @@ Cette liste doit être remplie avec **preuves et horodatage**, pas avec une esti
 - [Édition historique v0.1 du cahier des charges](https://github.com/JeanHuguesRobert/barons-Mariani/blob/42b0ae6d8448b075da974ea69342f767f8b0674a/research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md) (26/09, blob `ef86ffc4…`).
 - [#127 — réactivation et neuf tests](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6308335234) (21/10).
 - [#127 — contrat de distribution ancien](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6334335590) (22/10) — conservé mais remplacé.
-- [#127 — priorité actuelle, pièces seules](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6552945875) (01/11).
+- [#127 — priorité du 01/11, pièces seules](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6552945875) — **partiellement modifiée** par la décision expresse du 15/11 relative aux deux QPC, sans réactiver le mémoire argumentatif ancien.
 - [#127 — état source P-13](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127#issuecomment-6866412810) (13/11).
 - [#134 — contrôles avant réception](https://github.com/JeanHuguesRobert/barons-Mariani/issues/134#issuecomment-6866287731) (13/11).
 - [Contrat de double lecture corrigé le 01/11](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/contrat-editorial-double-lecture.md).
 - [Maître d'octobre : directive RFC](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/texte-maitre-candidat-qpc-integrales-2026-10-22.md) et [vérificateur](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/verify-two-renders.py) — **contrat de projection à adapter**, pas mémoire à expédier.
 - [Audit FBF du 10/11](https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/audit-reprise-lot-pieces-2026-11-10.md).
-- Décision utilisateur du **15/11/2026** (conversation) : préparation d'une remise complémentaire unique et récupération des références manquantes ; non encore reportée dans #127.
+- Décisions utilisateur du **15/11/2026** (conversation) : (1) remise complémentaire unique et récupération des références manquantes ; (2) texte intégral des deux QPC dans le courriel et le PDF consolidé, avec deux PDF QPC autonomes **obligatoires sur les deux canaux**, en plus des autres pièces communes et de P-13 sur TransfertPro ; ces décisions sont stabilisées dans le **présent cahier des charges**.
 
 ### Règle de maintenance du document unique
 
