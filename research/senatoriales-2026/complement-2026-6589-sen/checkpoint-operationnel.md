@@ -1,0 +1,104 @@
+---
+title: "2026-6589 SEN — état opérationnel du complément au greffe"
+author: "Assistant Cogentia — revue du requérant requise"
+affiliation: "Institut Mariani / C.O.R.S.I.C.A."
+date: "2026-11-15"
+last_modified_at: "2026-11-15"
+version: "0.1"
+status: "working-paper"
+language: fr
+license: "CC BY-SA 4.0"
+document_role: "operational"
+document_kind: "cognitive-packet-checkpoint"
+visibility: "public"
+lifecycle_state: "active"
+update_policy: "UP-DEFAULT-REVIEWED"
+canonical_url: "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/senatoriales-2026/complement-2026-6589-sen/checkpoint-operationnel.md"
+source_issue: "https://github.com/JeanHuguesRobert/barons-Mariani/issues/127"
+provenance:
+  origin_type: "generated"
+  origin_repository: "JeanHuguesRobert/barons-Mariani"
+  origin_ref: "49e11a20912fc68578650b5a4e16c02ddd37eefb"
+  origin_date: "2026-11-15"
+  derived_from:
+    - "research/senatoriales-2026/complement-2026-6589-sen/handoff-depuis-conversation-jugment-2026-11-15.md"
+    - "research/senatoriales-2026/requete-conseil-constitutionnel-cahier-des-charges.md"
+    - "research/senatoriales-2026/complement-2026-6589-sen/parcours-video-p13-v0.1.md"
+    - "research/senatoriales-2026/requete-conseil-constitutionnel.md"
+review:
+  status: "unreviewed"
+  reviewed_by: []
+---
+
+# Checkpoint opérationnel — dossier 2026-6589 SEN
+
+**Statut : préparation documentaire privée ; filing_ready = false ; courriel non envoyé ; TransfertPro non déposé.**
+
+## Rattachement et hiérarchie
+
+Ce document est un **état de travail**, non un cahier des charges parallèle. La norme demeure le [cahier des charges consolidé](../requete-conseil-constitutionnel-cahier-des-charges.md), version 0.4, et le mandat de [#127](https://github.com/JeanHuguesRobert/barons-Mariani/issues/127). Le [handoff du 15 novembre](handoff-depuis-conversation-jugment-2026-11-15.md) conserve l'historique des décisions ; la requête initiale du 7 octobre est inchangée.
+
+La préparation a été reprise depuis un **HEAD synchronisé avec origin/main : 49e11a20912fc68578650b5a4e16c02ddd37eefb**, sans redémarrer les recherches de zéro. Les versions d'artefacts produits ci-dessous sont issues de ce commit ; le présent checkpoint Git est postérieur.
+
+**Localisation du chantier privé :** Fracta2, sous /srv/cogentia/work/cc-2026-6589-preparation. Aucun PDF judiciaire sensible, EML privé, document CAF ou vidéo n'a été publié dans ce dépôt.
+
+## P-43.a — autorisation écrite contemporaine
+
+- Original source : P-43a.eml, courriel « Autorisation », daté du **10 septembre 2026 à 12 h 38 min 31 s, heure de Paris**.
+- Empreinte SHA-256 source : **795876ac0dc82a53c68e4356fc1639e264edc20f20216245a3e8b9e44237af4d** ; correspondance de source vérifiée sur Fracta2.
+- Contenu utile : autorisation explicite donnée au requérant de signer le CERFA de remplaçante avec sa signature. Distinction impérative : autorisation contemporaine / authenticité / conformité à L.299.
+- Une **notice Markdown** et un **PDF de lecture partielle** ont été préparés en privé, sans confondre la reproduction sélective avec l'EML natif. Le PDF est présent sur les **deux canaux de staging**, avec identité SHA-256 intercanaux.
+- Rattachement aux griefs **G1 et G2 déjà déposés** ; pas de grief nouveau.
+
+## P-13 — déclaration vidéo
+
+- Original P-13.mp4 : **79 663 474 octets**, SHA-256 **aaac3d97801f57185e38cb3c26f9ec4597aee52188a494f63a81874e1fb1a7d8**, recontrôlé ; le fichier est physiquement présent dans le staging privé TransfertPro uniquement.
+- La notice spécifique rédigée pour le corps de communication maintient les distinctions **vidéo / acceptation écrite déjà transmise**, **émission du P-12 à 17 h 57 min 55 s / réception serveur inconnue**, **note en délibéré lue / vidéo visionnée inconnue**.
+- Proposition d'instruction circonscrite aux traces existantes de réception, de transmission et de mise à disposition, formulée diplomatiquement sans imputation d'intention.
+- Rattachement **G2/G3/G4** seulement.
+
+## P-18 / P-19 — handicap et note en délibéré
+
+- PDF CAF **P-18.pdf** : **94 775 octets**, SHA-256 **308754ffac6100b050dea6c43830562d0d581e8c020898201e011ab73b79fbb2** ; empreinte **identique à la pièce jointe binaire** au courriel P-19.
+- Courriel P-19 du **14 septembre 2026 à 15 h 48 min 32 s**, SHA-256 EML **571b31ad0d11589adce6a53aae12e4c77632b21410fe3a7ef90bbd40dca7189d**. Le jugement mentionne l'enregistrement de la note à **15 h 49**.
+- La réponse du greffe du TA du **16 septembre 2026** confirme que la formation avait pris connaissance de la note avant sa décision ; elle n'établit pas le visionnage de la vidéo P-13.
+- Le bénéfice de l'AAH en août 2026 documente une reconnaissance administrative, **pas à lui seul l'empêchement fonctionnel précis** au moment du dépôt. Le signalement oral allégué à la préfecture reste sans corroboration institutionnelle.
+- Un **PDF de copie de lecture partielle** de P-19, sans chaîne transférée et codes de suivi inutiles, a été préparé en privé. Les PDF P-18 original et P-19 lecture sont communs aux deux canaux de staging. La confidentialité de P-18 exige encore une revue humaine avant émission.
+- Rattachement **G1–G4 existants**, sans régularisation rétroactive.
+
+## Contrat matériel — état du staging privé
+
+**Source unique :** fragments Markdown → maître compilé → corps TXT RFC et PDF enrichi. Les deux QPC L.299 et L.303 figurent intégralement dans le maître ; elles disposent également chacune d'un PDF autonome.
+
+| Canal | Projet physiquement préparé | Restriction |
+|---|---|---|
+| Courriel | Corps TXT RFC, **5 PDF communs** : QPC L.299, QPC L.303, P-43.a lecture, P-18 CAF original, P-19 lecture | **382 568 octets de pièces jointes** pour ce sous-lot vérifié ; ce n'est pas encore le bordereau exhaustif |
+| TransfertPro | PDF maître, **5 PDF communs identiques octet par octet**, **P-13 natif**, **deux PDF préfectoraux 2601714/2601715** | **9 fichiers**, **104 479 457 octets** au total ; dépôt réel non effectué |
+
+La copie P-09 du récépissé provisoire est couverte par référence à **2601715, page physique 96**, après comparaison d'images ; pas de duplication. Les autres pièces internes des PDF préfectoraux nécessitent une matrice d'équivalence page par page. Les EML d'origine ne sont pas destinés automatiquement au canal courriel : leur valeur de preuve et la protection de leurs en-têtes appellent une décision d'inventaire.
+
+## Contrôles techniques obtenus
+
+- **PASS** — 4 octets-sources prioritaires P-43.a, P-13, P-18 et P-19 vérifiés par SHA-256 ; pièce jointe P-18 égale à son extraction du P-19.
+- **PASS technique limité** — les deux PDF QPC sont distincts, lisibles, de 8 et 9 pages ; les copies entre canaux sont identiques en octets.
+- **PASS échantillonné** — 19/20 ancres sur la QPC L.299 et 20/20 sur la QPC L.303 retrouvées dans le texte extrait du PDF consolidé ; 19/20 pour chacune dans le TXT RFC. Il s'agit d'un **test d'échantillons**, pas d'une preuve de concordance intégrale indépendante.
+- **PASS** — les cinq nouveaux titres de sections sont présents dans le maître, le TXT et le PDF ; 16 pages de 58 lignes maximum, 72 colonnes maximum dans la projection TXT.
+- **PASS** — cinq documents Markdown sources/derivés concernés valides au schéma **Canonical Agile Frontmatter** avec contrôle strict, zéro erreur ni avertissement.
+- **PASS** — dossier local et staging privés sous permissions 0700, fichiers 0600 ; rien de privé publié sur GitHub.
+
+## Contrôle juridique contradictoire
+
+1. **L.299** exige une **acceptation écrite**, une signature et une mention manuscrite. Sa lettre ne contient pas une expression générale d'« original papier », sans que cette remarque suffise à rendre valide le formulaire numérique composite. Source : [Code électoral L.299](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036563386).
+2. **CE, 14 mai 2021, n° 445497** admet, dans le régime municipal de **L.265**, le geste par un tiers **à la demande** d'une personne dont le handicap fait obstacle à l'accomplissement personnel ; consentement éclairé requis. **Analogie avec L.299 à argumenter**. Source : [Conseil d'État, décision complète](https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2021-05-14/445497).
+3. **QPC devant le Conseil constitutionnel juge électoral :** possibilité attestée par [2023-6281 SEN/QPC](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000048551159) et [2022-5813 AN/QPC](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046114275). Exigences d'une question propre, applicable au litige, sérieuse/nouvelle et non déjà jugée conforme, sauf changement des circonstances. **Admissibilité de nos deux mémoires produits après la saisine : encore UNKNOWN** ; leur présence technique dans les deux rendus ne préjuge pas d'une acceptation juridictionnelle.
+4. **État du dossier CC au 15 novembre :** recherche web par référence négative, et dernier retour du greffe retrouvé dans Gmail daté du **8 octobre**. **Poursuite effective de l'instance, décision non publiée ou clôture : UNKNOWN**. Ne pas déduire de l'absence de résultat une preuve de non-décision.
+
+## Reste ouvert — condition de recevabilité matérielle
+
+- **BLOCKED :** réconciliation exhaustive des références P-01 à P-46 et des sous-références ; couverture P-46/EML ; inventaire des pièces autonomes non déjà contenues dans les deux PDF préfectoraux.
+- **BLOCKED :** contrôle de confidentialité des originaux, du PDF CAF et de l'ensemble des rendus ; décision sur la mise à disposition des EML, intérêt probatoire des en-têtes.
+- **UNKNOWN :** état juridictionnel officiel, recevabilité temporelle des deux QPC, validité actuelle de la boîte TransfertPro et règles concrètes de taille/format.
+- **PARTIAL :** contrôle complet du texte intégral TXT/PDF/QPC, revue juridique contradictoire et application du registre **Talleyrand** à chaque paragraphe final.
+- **NOT GRANTED :** autorisation expresse et spécifique d'un envoi au greffe ou d'un dépôt de pièces.
+
+**Prochaine reprise :** poursuivre P-43.a (valeur et format de l'EML original), P-18/P-19 (preuve du handicap, confidentialité, rattachement) et l'inventaire exhaustif, puis rejouer la checklist du cahier des charges. **Ne pas envoyer.**
