@@ -72,3 +72,10 @@ La publication statique du Musée a été installée à partir de la révision G
 Le contrôle public a constaté un code **200** et un certificat valide pour l'accueil, le Livre, le Magazine, la **Boutique**, les Annexes, Contribuer, les Mentions et la CSS. Les sites voisins Suicide Corse, Rise & Fall et Capable sont restés en **200** ; le navigateur protégé est resté en **401**, comme attendu. Le premier lancement a connu une erreur d'échappement sans mutation, puis une tentative avec réponse de commande tardive a été **confirmée par relecture indépendante de l'état réel**.
 
 Cette mise en ligne ne change **ni l'état de préparation du numéro 1**, ni le statut non commandable des produits de la Boutique. Les constats antérieurs de ce document restent conservés comme historique, mais **leurs mentions « DNS absent », « TLS absent » et « site non déployé » sont désormais supersédées** par le présent reçu.
+
+
+### FBF du contenu après publication — révision finale du 15 novembre 2026
+
+Le premier déploiement contenait encore des indications obsolètes « domaine non publié » dans l'accueil, le Magazine et les pieds de page. Sources corrigées sur `main` dans le commit `f7f8ef131b5fc81d5a68e11cb404e886ad865861`, puis **nouvelle release immuable** déployée : `/srv/www/musee/current → releases/f7f8ef131b5fc81d5a68e11cb404e886ad865861`.
+
+Relecture indépendante : mentions « domaine non publié » absentes de l'accueil ; mentions de l'accès HTTPS présentes sur l'accueil et le Magazine ; `/`, `/magazine.html` et `/boutique.html` renvoient chacun **HTTP 200, certificat valide**. Aucun incident observé sur Suicide Corse, Rise & Fall et Capable ; le navigateur privé conserve son contrôle d'accès 401. Le numéro 1 demeure en préparation, la Boutique n'accepte aucune commande. Voir le reçu complet dans Operium.
