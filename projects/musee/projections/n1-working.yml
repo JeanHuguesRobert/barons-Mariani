@@ -1,0 +1,22 @@
+schema: musee.projection.v0
+id: n1-working
+status: working
+frozen: false
+language: fr
+updated: "2026-11-15"
+title: "Musée Mariani des Possibles n°1 — Construire le Musée"
+subtitle: "Le Musée en train de se faire"
+question: "Comment le Musée peut-il conserver les traces du passé tout en expérimentant la réactivation de capacités anciennes ?"
+outline: projects/musee/manuscript/n1/README.md
+chapters:
+  - projects/musee/manuscript/n1/00-introduction.md
+  - projects/musee/manuscript/n1/01-minesteggio-et-patrimoine.md
+  - projects/musee/manuscript/n1/02-ateliers-et-experiences.md
+  - projects/musee/manuscript/n1/03-boutique-et-bouteilles.md
+  - projects/musee/manuscript/n1/04-observer-et-corriger.md
+magazine: projects/musee/magazine/README.md
+annexes: projects/musee/annexes/README.md
+public_page: projects/musee/site/index.html
+rule: >
+  Projection éditoriale non gelée. Les sources du sous-corpus et du manuscrit
+  demeurent souveraines ; une page HTML n'établit pas un déploiement effectif.

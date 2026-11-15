@@ -1,0 +1,54 @@
+schema: musee.corpus.v0
+project: Musée Mariani des Possibles
+slug: musee
+status: working
+language: fr
+visibility: public
+updated: "2026-11-15"
+source_of_truth: >
+  Les fichiers historiques et muséaux dans musee-mariani et les sources
+  versionnées associées sont souverains ; projects/musee en est la
+  narration évolutive et ne remplace pas les documents d'origine.
+target_identity: "https://musee.baronsmariani.org"
+target_identity_status: "host proposé ; DNS, TLS, déploiement et accessibilité non vérifiés"
+architecture:
+  project_index: projects/musee/README.md
+  editorial: projects/musee/editorial-architecture.md
+  manuscript: projects/musee/manuscript/n1/
+  magazine: projects/musee/magazine/
+  annexes: projects/musee/annexes/
+  editions: projects/musee/editions/index.md
+  projections: projects/musee/projections/
+  site: projects/musee/site/
+  deploy: projects/musee/deploy/README.md
+sources:
+  - id: musee-sources
+    path: musee-mariani/README.md
+    role: patrimoine-et-recherches
+    required: true
+  - id: intent
+    path: musee-mariani/intention.md
+    role: intention
+    required: true
+  - id: plan
+    path: musee-mariani/plan-museal.md
+    role: projet
+    required: true
+  - id: living-book-doctrine
+    path: research/livre_vivant.md
+    role: doctrine-editoriale
+    required: true
+  - id: bottle
+    path: musee-mariani/methodes/bouteille_a_la_mer.md
+    role: protocole
+    required: true
+facts:
+  - subject: atelier-boutique
+    state: preparation
+    evidence: musee-mariani/presentation-publique-casa-mariani.md
+  - subject: musee-institutionnel
+    state: prefiguration
+    evidence: musee-mariani/README.md
+  - subject: musee-livre-vivant
+    state: projection-publique-non-gelee
+    evidence: projects/musee/README.md

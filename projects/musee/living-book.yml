@@ -1,0 +1,31 @@
+schema: living-book/v1
+book:
+  id: musee
+  title: Musée Mariani des Possibles
+  subtitle: Le Musée en train de se faire
+  canonical_host: musee.baronsmariani.org
+  language: fr
+  description: >
+    Livre Vivant des activités et de la construction progressive du Musée
+    Mariani des Possibles, adossé à Minesteggio à Corte.
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: false
+  contributions: true
+  janus: true
+magazine:
+  mode: federated
+  sources:
+    - rise-and-fall
+    - "1755"
+    - institut
+extensions:
+  - chronology
+  - living-book-press
