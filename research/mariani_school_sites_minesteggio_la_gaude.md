@@ -287,38 +287,19 @@ Il constitue un terrain particulièrement approprié pour apprendre à **faire �
 
 ---
 
-## 4.2 Statut Monuments historiques : formulation prudente
+## 4.2 Statut Monuments historiques : inscriptions publiées (mise à jour du 15 novembre 2026)
 
-L’état actuel du corpus ne permet pas d’affirmer que le Château Mariani / Minesteggio est déjà juridiquement **inscrit au titre des monuments historiques**.
+Les indications antérieures sur une simple procédure en cours ou un arrêté signé sans publication disponible sont **dépassées**.
 
-Le courrier DRAC-CRMH / 2024-088 du 12 juin 2024 indique que la Délégation permanente du Conseil des Sites de Corse, réunie le 11 avril 2024, a estimé que l’immeuble présentait un intérêt justifiant la poursuite de la procédure. La DRAC annonçait alors la constitution d’un dossier complet avant examen en séance plénière.
+La chronologie demeure utile : le courrier DRAC-CRMH / 2024-088 du 12 juin 2024 annonçait la poursuite de l'instruction, puis les échanges de 2025 et du début de 2026 portaient sur la finalisation du dossier. Le **23 septembre 2026**, la DRAC a confirmé au porteur que l'arrêté était « pris et signé » (trace source : `Gmail:1a0cdfa48c09042e`).
 
-Les échanges ultérieurs avec la Conservation régionale des monuments historiques montrent une progression substantielle : en 2025 puis au début de 2026, la question n’est plus l’opportunité d’instruire le dossier mais la **finalisation de l’arrêté**, compliquée notamment par la situation successorale et les pièces d’état civil nécessaires.
+Les pièces réglementaires publiées sont désormais identifiées :
 
-En mars 2026, la DRAC évoquait encore la possibilité d’établir et publier l’arrêté sans attendre la liquidation complète de la succession, sous réserve de disposer des mentions nécessaires.
+- **Objet mobilier** : arrêté **R20-2025-08-07-00014 du 7 août 2025**, publié au recueil **R20-2025-077 du 8 août 2025**, inscrivant la **chaise à porteur de la famille Mariani**. [Recueil et arrêté](https://politique.pappers.fr/commune/document/058ae68997b334810300a57c39341618).
+- **Immeuble et domaine** : arrêté **R20-2026-09-21-00003 du 21 septembre 2026**, publié au recueil **R20-2026-080 du 24 septembre 2026**, inscrivant le domaine agricole de Minesteggio, ses sols, murs et aménagements dans le périmètre retenu, et les **façades et toitures** du château Mariani et des autres éléments bâtis mentionnés. [Recueil, arrêté et délimitation](https://politique.pappers.fr/commune/document/3c1b99a6fc76eb7aedbe9f3597d44e92).
 
-Le **23 septembre 2026**, Éléonore Bozzi, chargée de protection des monuments historiques à la DRAC / ministère de la Culture, informe directement Jean Hugues Robert que, pour Minesteggio, **« l’arrêté est pris et signé »** et précise ne pas savoir si la notification lui est déjà parvenue.
+**Portée et limites :** la publication des arrêtés est établie ; leur notification individuelle n'est pas déduite de cette seule publication. L'inscription immobilière ne couvre pas les parties intérieures du château que l'arrêté ne désigne pas. Elle ne signifie ni ouverture au public du Musée, ni constitution effective du Fonds de dotation.
 
-Référence : `Gmail:1a0cdfa48c09042e`.
-
-Cette réponse institutionnelle fait franchir un seuil documentaire au dossier :
-
-~~~text
-procédure en voie de finalisation
-→ état désormais dépassé
-
-arrêté pris et signé
-= déclaration institutionnelle directe, 23 septembre 2026
-
-copie de l'arrêté / date exacte de signature / notification / publication
-= encore à récupérer dans le Corpus
-~~~
-
-La formulation de référence devient donc :
-
-> **Château Mariani / Minesteggio : la DRAC confirme le 23 septembre 2026 que l’arrêté de protection est pris et signé ; la copie de l’arrêté, sa date exacte, sa notification et sa publication restent à verser au Corpus.**
-
-Cette distinction évite deux erreurs : continuer à présenter la procédure comme seulement « en voie de finalisation », ou prétendre disposer déjà de la pièce signée alors que seule sa confirmation institutionnelle est actuellement conservée.
 
 ---
 
