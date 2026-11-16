@@ -5,7 +5,7 @@ author: Jean Hugues Noël Robert
 status: "working-paper — document source — recherche — doctrinal — validé pour publication"
 version: '0.4'
 date: '2026-08-22'
-last_modified_at: '2026-11-12'
+last_modified_at: '2026-11-16'
 license: CC BY-SA 4.0
 language: fr
 source_status: source souveraine du corpus politique et de recherche
@@ -481,6 +481,19 @@ La métaphore du **« match acheté »** désigne ici un problème d'architectur
 La [proposition publique Capable de révision constitutionnelle de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) représente une **application circonscrite** de cette idée : le Parlement reste législateur, mais la subsidiarité et le droit à l'adaptation territoriale cherchent à devenir des garanties contraignantes plutôt que des facultés discrétionnaires. La reconnaissance d'un droit ne signifie pas que son exercice, son financement ou sa justiciabilité soient déjà acquis. La concentration nationale peut être réduite sans que disparaissent les risques de capture locale ; la souveraineté populaire doit donc être éprouvée à plusieurs échelles.
 
 L'enjeu juridique demeure distinct du projet plus général de révocabilité des mandats : la proposition publiée ne crée ni RIC révocatoire ni pouvoir de révoquer un parlementaire. La séparation entre **source doctrinale**, **proposition constitutionnelle publiée** et **droit positif** est essentielle à toute analyse de sécurité démocratique.
+
+
+### Changer les gagnants ou sécuriser les règles : épreuve de symétrie
+
+*Précision analytique du 16 novembre 2026 — proposition de test, non conclusion empirique sur un acteur ou un parti.*
+
+Trois opérations doivent être distinguées : **gagner une compétition** selon les règles existantes ; **déplacer les bénéficiaires** des avantages que ces règles distribuent ; **modifier l'architecture** qui rend certains avantages captables. La seconde opération peut produire une alternance sans réforme. La formule « chacun son tour », rapportée de mémoire par l'auteur à propos d'une discussion politique non datée, sert ici de vignette exploratoire d'une éventuelle justification compensatoire des privilèges. Elle n'établit ni la conduite effective d'une organisation identifiée ni la fréquence de cette justification.
+
+La métaphore « acheter le match » conduit à une **épreuve de symétrie** : une garantie contre la capture protège-t-elle encore les citoyens lorsque ses concepteurs perdent le pouvoir, lorsque leurs adversaires le gagnent et lorsque les bénéficiaires d'hier deviennent les demandeurs de demain ? Si une règle n'est souhaitable qu'en fonction de l'identité du gagnant, elle ne constitue pas à elle seule une garantie institutionnelle.
+
+Cette épreuve complète `Follow the Power` : mesurer, **avant et après réforme**, qui contrôle la formation des règles, l'accès aux ressources communes, la décision, la contestation et la révision. Elle distingue le renforcement des solidarités volontaires — potentiellement bénéfique — de l'allégeance requise pour obtenir un droit ou une faveur publique. Une enquête comparative devra départager ces mécanismes de causes concurrentes (contraintes budgétaires, risques d'abus, défaut de capacité administrative, opposition substantielle légitime).
+
+Sur le plan constitutionnel, partir des **finalités opposables et de garanties fondamentales** ne revient pas à supprimer la nécessité de mécanismes. Il s'agit de rendre les mécanismes — RIC, révocation, délibération, contrôles et voies de recours — comparables, amendables et évaluables au regard de la souveraineté populaire, des droits et de l'effectivité. Cette clarification ne transforme pas la [proposition particulière de révision de l'article 72](../projects/capable/doctrine/revision_constitutionnelle_article_72.md) en refonte générale ; elle oriente sa critique et ses éventuels prolongements. Voir le [métaprogramme institutionnel de Capable](../projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md).
 
 ## Conclusion
 
