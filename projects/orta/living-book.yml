@@ -1,0 +1,29 @@
+schema: living-book/v1
+book:
+  id: orta
+  title: L'Orta
+  subtitle: Sur les bords de l'Orta — de Minesteggio au Tavignanu
+  canonical_host: orta.acorsica.org
+  language: fr
+  description: >-
+    Livre Vivant de l'Orta à Corte : eau, nature, patrimoine, usages et futurs
+    possibles.
+institution:
+  publisher: C.O.R.S.I.C.A.
+  research_unit: Institut Mariani
+  editorial_director: Jean Hugues Noël Robert, baron Mariani
+  license: CC BY-SA 4.0
+editorial:
+  book: true
+  magazine: true
+  site: true
+  guide: false
+  contributions: true
+  janus: true
+magazine:
+  mode: local
+extensions:
+  - chronology
+  - maps
+projection:
+  selection: projections/n1-working.yml

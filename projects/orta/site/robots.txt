@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://orta.acorsica.org/sitemap.xml

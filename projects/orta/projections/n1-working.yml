@@ -1,0 +1,15 @@
+schema: living-book.selection/v0
+id: n1-working
+status: working
+frozen: false
+title: "Sur les bords de l'Orta — numéro 1 en préparation"
+updated: "2026-11-16"
+chapters:
+  - manuscript/n1/00-une-vallee-a-lire.md
+  - manuscript/n1/01-eau-memoire-et-paysages.md
+  - manuscript/n1/02-usages-et-droits.md
+  - manuscript/n1/03-une-vallee-de-possibles.md
+magazine:
+  - magazine/2026-11-16-un-livre-vivant-pour-lorta.md
+annexes:
+  - annexes/sources-et-questions-ouvertes.md

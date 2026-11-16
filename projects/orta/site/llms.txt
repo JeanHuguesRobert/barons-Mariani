@@ -1,0 +1,6 @@
+# L'Orta
+> Livre Vivant de l'Orta à Corte : eau, nature, patrimoine, usages et futurs possibles.
+
+- Canonical: https://orta.acorsica.org/
+- Corpus: https://github.com/JeanHuguesRobert/barons-Mariani/tree/main/projects/orta
+- License: CC BY-SA 4.0

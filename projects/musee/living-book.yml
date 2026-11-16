@@ -29,3 +29,7 @@ magazine:
 extensions:
   - chronology
   - living-book-press
+
+# Reuse the existing issue selection; the underlying manuscript remains sovereign.
+projection:
+  selection: projections/n1-working.yml

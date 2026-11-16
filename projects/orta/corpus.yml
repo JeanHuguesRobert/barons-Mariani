@@ -1,0 +1,38 @@
+schema: orta.corpus.v0
+project: "L'Orta"
+slug: orta
+status: working
+language: fr
+visibility: public
+updated: "2026-11-16"
+source_of_truth: "repository files under projects/orta, and the referenced sources; this manifest points at them and does not replace them"
+target_identity: "https://orta.acorsica.org"
+target_identity_status: "prepared name only; DNS, TLS and deployment have not been independently checked for orta.acorsica.org; not a live deployment and not a frozen edition"
+institutional_frame: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
+
+architecture:
+  implementation: projects/orta/architecture.md
+  editorial: projects/orta/editorial-architecture.md
+  project_index: projects/orta/README.md
+  manuscript: projects/orta/manuscript/
+  magazine: projects/orta/magazine/
+  annexes: projects/orta/annexes/
+  editions: projects/orta/editions/index.md
+  projections: projects/orta/projections/
+  deploy: projects/orta/deploy/README.md
+  guide_profile: projects/orta/guide-profile.yml
+  site: projects/orta/site/
+
+realities:
+  - id: public-host
+    status: prepared
+    statement: "The hostname orta.acorsica.org is prepared. Deployment architecture documented in deploy/README.md. Operium owns deployment authority."
+  - id: janus-separation
+    status: active
+    statement: "Past documentary reconstruction and future prospective scenarios follow strictly distinct proof regimes."
+
+sources:
+  - id: livre-vivant
+    path: research/livre_vivant.md
+    role: editorial-grammar
+    required: true

@@ -104,6 +104,8 @@ Les **Livres Vivants** associent un travail documentaire durable, des éditions 
 | Suicide Corse | [suicidecorse.baronsmariani.org](https://suicidecorse.baronsmariani.org/) | [Projet Suicide Corse](projects/suicide-corse/README.md) |
 | Mariani Village | [village.acorsica.org](https://village.acorsica.org/) | [Projet Village](projects/village/README.md) |
 
+**Nouveau Livre Vivant en préparation — 16 novembre 2026 :** [L'Orta — Sur les bords de l'Orta](projects/orta/README.md), enquête botanique, patrimoniale et foncière de Minesteggio vers le Tavignanu. Adresse cible : **orta.acorsica.org** (non déclarée déployée). Le projet comprend déjà un manuscrit, un Magazine, des Annexes et un Atlas en préparation.
+
 **Propositions ou enquêtes sans site public accessible au contrôle du 13 novembre 2026 :** [Autonomia](research/autonomia.md), [Rossignol](research/rossignol.fr.md), Rialzu, ainsi que [Paese Capace](https://github.com/JeanHuguesRobert/paese-capace). Leurs domaines envisagés ne sont pas annoncés ici comme des services en ligne.
 
 ## Services et interfaces web
