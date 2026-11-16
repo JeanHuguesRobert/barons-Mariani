@@ -3,7 +3,7 @@ title: "Capable — Métaprogramme politique génératif"
 author: "Institut Mariani / C.O.R.S.I.C.A. — proposition de formalisation à revue par Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-11"
-last_modified_at: '2026-11-12'
+last_modified_at: '2026-11-16'
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md
 status: "working-paper"
 language: fr
@@ -193,6 +193,26 @@ Le choix juridique du 12 novembre distingue **finalité** et **moyen**. L'autono
 L'égalité concerne l'accès aux **mêmes garanties** d'adaptation, non la production de normes uniformes. Les particularités locales peuvent être des ressources ou des handicaps. Le transfert de pouvoir à une collectivité ne garantit pas à lui seul le pouvoir réel des habitants sur leurs mandataires : contrôle et anti-capture restent nécessaires.
 
 **Test d'effectivité :** demande territoriale documentée → instruction et contradiction → réponse motivée → transmission au Parlement si la loi est concernée → observation des refus, adaptations et effets → réexamen des obstacles substantiels. Échec si la procédure peut être neutralisée par la loi organique, par des délais excessifs, par une réponse de pure forme ou par l'absence de conséquences observables. Le juge ne saurait être réputé capable d'ordonner au Parlement de voter une loi. La demande supposément latente d'autonomie doit être **éprouvée**, non attribuée d'avance à la population.
+
+
+### Test de symétrie institutionnelle : changer les règles ou les bénéficiaires ?
+
+*Clarification méthodologique du 16 novembre 2026, à éprouver avant d'être présentée comme résultat.*
+
+Une proposition de réforme doit distinguer **l'alternance des gouvernants**, **la redistribution des bénéfices du pouvoir** et **la modification des règles d'accès, d'exercice et de contrôle du pouvoir**. Remplacer ceux qui gagnent le « match » n'empêche pas de conserver un match structurellement achetable. La métaphore vise les risques de capture, sans assimiler inégalités de ressources, influence licite et corruption prouvée.
+
+Appliquer aux propositions institutionnelles quatre questions de symétrie :
+
+1. **Inversion partisane :** la règle reste-t-elle souhaitable si elle est appliquée par un adversaire et contre ses propres promoteurs ?
+2. **Accès sans allégeance :** une personne ou une organisation extérieure aux réseaux des gouvernants peut-elle obtenir les mêmes droits, informations, recours et possibilités de coopération ?
+3. **Anti-capture :** qui fixe les règles, désigne les contrôleurs, attribue les ressources, rend compte des effets et peut provoquer une correction, même contre les intérêts du groupe au pouvoir ?
+4. **Préservation des liens utiles :** le dispositif neutralise-t-il les privilèges et les dépendances captives sans supprimer l'entraide volontaire, la confiance locale ou la liberté d'association ?
+
+**Échec du test :** le projet se borne à promettre que de nouveaux dirigeants utiliseront mieux les anciennes prérogatives, ou propose un instrument participatif comme garantie suffisante sans montrer qui peut réellement l'utiliser, le contrôler et le corriger.
+
+**Résultat utile :** identifier les garanties constitutionnelles et institutionnelles requises, puis comparer des instruments possibles — RIC, contrôle des mandats, délibération, recours, assistance numérique, autres mécanismes — sans sacraliser aucun moyen. Le test n'exige pas qu'un conflit d'intérêts disparaisse : il exige qu'il soit visible, instruit et arbitré légitimement.
+
+Ce test complète la distinction entre **politique du premier ordre** (mesures concrètes) et **politique du second ordre** (règles du pouvoir). L'application actuelle de Capable à l'[article 72](revision_constitutionnelle_article_72.md) est territoriale et circonscrite : elle ne vaut pas adoption d'une refonte constitutionnelle générale ni création d'un RIC. Voir la [carte doctrinale](../doctrine.md) et la [théorie de sécurité de la démocratie représentative](../../../research/security_model_representative_democracy.md).
 
 ## 7. Test de cohérence contradictoire
 
