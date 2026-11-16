@@ -3,7 +3,7 @@ title: "Capable — Carte doctrinale"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-26"
-last_modified_at: '2026-11-12'
+last_modified_at: '2026-11-16'
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -39,6 +39,21 @@ Cette ambition comprend : **libertés publiques**, **égalité réelle d'accès 
 
 Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse institutionnelle à éprouver**, non d'un fait historique, d'une règle déjà en vigueur ou d'une supériorité démontrée sur le droit positif. L'évaluation doit porter sur les droits concrètement accessibles, les coûts et délais, les asymétries de pouvoir, la sécurité, les effets sur les tiers, les recours, la résilience face aux mauvais acteurs et les possibilités de correction. La référence à la devise « Liberté, Égalité, Fraternité » et à l'[amendement d'effectivité](../../research/autonomia/amendement_effectivite_article_72-5.md) ne modifie ni le libellé ni le statut parlementaire de cette proposition.
 
+
+
+## Clarification institutionnelle — changer les règles, non seulement les gagnants (16 novembre 2026)
+
+*Clarification doctrinale de travail : explicitation d'invariants existants, sans adoption automatique d'un nouveau programme ni modification d'une proposition constitutionnelle publiée.*
+
+**Changer les règles plutôt que seulement les gagnants.** Une alternance peut remplacer les détenteurs du pouvoir sans modifier les facultés de captation, les dépendances et les privilèges que l'architecture institutionnelle autorise. Une réforme digne de ce nom doit conserver ses garanties lorsque le pouvoir passe aux adversaires de ceux qui l'ont conçue. La sélection de gouvernants réputés meilleurs ne dispense pas de la sécurité de leurs mandats : *selection is not security*.
+
+**La finalité avant les moyens.** L'effectivité de la liberté, de l'égalité et de la fraternité, avec souveraineté populaire, droits fondamentaux et capacité de correction, constitue la direction normative. Un RIC, un dispositif de démocratie assistée par ordinateur, une révocation ou une consultation sont des instruments possibles : leur valeur dépend de leurs conditions d'accès, de leurs effets, de leurs limites et de leur corrigibilité. Une Constitution peut garantir des finalités et des protections fondamentales sans ériger un instrument particulier en solution universelle ; ces finalités ont cependant besoin de garanties juridiques et procédurales suffisamment précises pour ne pas rester déclaratoires.
+
+**« Acheter le match » désigne un risque d'architecture, non une accusation de corruption.** Il faut examiner qui établit les règles, qui accède aux ressources de la compétition, qui contrôle l'arbitrage et qui peut contester les décisions. Une inégalité de moyens, une influence licite, une capture institutionnelle et une fraude établie ne sont pas des notions interchangeables. L'objectif institutionnel est de rendre la compétition contrôlable et sa captation plus difficile, y compris pour les promoteurs de la réforme.
+
+**Préserver les solidarités, neutraliser la dépendance captive.** L'entraide entre proches, la confiance et la coopération au sein de réseaux d'appartenance peuvent être précieuses. Le risque apparaît lorsqu'elles déterminent l'accès aux droits, aux ressources communes ou aux décisions publiques, au détriment de ceux qui restent hors de ces réseaux. Cette distinction ouvre une recherche sur la coopération empêchée et le clientélisme ; elle ne constitue ni une caractérisation générale de la société corse, ni un diagnostic empirique déjà établi.
+
+**Portée documentaire.** Cette clarification explicite les liens entre [la théorie de sécurité de la représentation](../../research/security_model_representative_democracy.md), [l'étude sur l'Invidia](../../research/invidia.md), [l'économie morale de la dépense visible](../../research/economie_morale_depense_visible.md) et le [métaprogramme de Capable](doctrine/metaprogramme-politique-generatif-2026-11-11.md). Elle ne modifie ni la [proposition de révision de l'article 72](doctrine/revision_constitutionnelle_article_72.md), dont la portée demeure territoriale, ni les proclamations historiques du mouvement.
 
 ## Fonction
 
