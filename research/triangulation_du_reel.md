@@ -4,8 +4,8 @@ subtitle: Croiser des accès partiels, indépendants et hétérogènes pour cons
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-06'
-version: '0.5'
-last_modified_at: '2026-09-29'
+version: '0.6'
+last_modified_at: '2026-11-16'
 status: working-note — explicititation of latent corpus principle
 language: fr
 license: CC BY-SA 4.0
@@ -171,6 +171,26 @@ Un droit proclamé n'est pas encore un droit effectivement exerçable. Une liber
 > **L'effectivité est l'un des moyens par lesquels la Carte est confrontée au Territoire : elle oblige à regarder ce que la représentation rend effectivement possible, impossible ou transformé dans le Réel.**
 
 La triangulation croise les accès ; l'effectivité oblige à regarder leurs conséquences. Les deux mouvements sont complémentaires.
+
+
+### 3.2. « La Carte du Canard n'est pas le Territoire du Canard » — équivalence fonctionnelle située
+
+*Clarification conceptuelle du 16 novembre 2026 — hypothèse de travail M1, non démonstration empirique de la fidélité d'un jumeau numérique.*
+
+La **Carte n'est pas le Territoire** : une représentation, même très convaincante, ne devient pas l'objet qu'elle représente. Mais la non-identité ne rend pas toute substitution inutile. Une carte suffisamment fidèle **pour une tâche déterminée** peut guider une action correctement, sans prétendre reproduire intégralement le territoire.
+
+Le [Principe du Canard](https://github.com/JeanHuguesRobert/cogentia/blob/main/instructions/AGENTS.shared.md#duck-principle--scoped-functional-equivalence-without-identity-confusion-16-november-2026), formulé dans les instructions partagées de Cogentia, fournit une règle d'usage : lorsqu'un objet satisfait effectivement les comportements, contraintes et garanties pertinents pour une tâche, il est raisonnable de l'employer **comme si** c'était le substitut recherché, **dans les seules limites de cette compatibilité vérifiée**. À l'inverse, une ressemblance apparente ne permet pas d'affirmer une identité que les faits contredisent. Le « comme si » est une décision pratique révisable, pas une preuve ontologique.
+
+Cette articulation comporte trois épreuves distinctes :
+
+1. **Représentation :** quelles propriétés du Territoire la Carte décrit-elle, et avec quelle résolution fiable ?
+2. **Substitution :** pour quelles opérations et dans quelles conditions la Carte permet-elle de prévoir ou d'agir correctement ? Quelles observations ou conséquences feraient retirer cette permission de « faire comme si » ?
+3. **Identité et autorité :** quelles propriétés ne peuvent *pas* être déduites de la compatibilité fonctionnelle (identité, consentement, droits, souveraineté, mandat) et doivent être établies séparément ?
+
+**Application aux jumeaux numériques.** Un jumeau peut représenter fidèlement certaines connaissances, positions, préférences datées ou manières de raisonner de son principal lorsque cette fidélité est éprouvée. Il ne devient pas pour autant ce principal. Son incapacité à représenter un domaine doit être reconnue, non masquée par une ressemblance générale. Il doit distinguer la parole attestée, l'interprétation probable et l'inconnu ; solliciter le principal lorsque la fidélité requise dépasse les preuves ou le mandat disponibles.
+
+Le test décisif est **l'effectivité située** : non « est-ce le vrai canard ? », mais « cette représentation remplit-elle effectivement le contrat pertinent dans ce contexte, et que se passe-t-il quand elle échoue ? ». Triangulation des sources, confrontation au Réel, traçabilité des erreurs et correction de la Carte déterminent alors la confiance justifiée. La fidélité demeure **relative à l'usage, vérifiable et corrigible**, jamais une licence d'usurpation de la personne ou de ses droits.
+
 
 ## 4. Corroboration, contradiction et convergence
 
