@@ -5,11 +5,11 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "38622ced4d869e93fea0318d5c6e1939bb73072a4db0765fd1cd800d47f2da22",
+      "source_sha256": "386a1ffe7c60f63ec58a64874281b6ad5d9eb81da2b603fcd1464a578769a3d6",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
-          "sha256": "763f3c1240022149ac1b272586bf5d87032edc581f4933b38d43e30969466d7a"
+          "sha256": "0c124a12f125cddfe14580507b37d38f4984a3f576705e20174d6aebec40378a"
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
@@ -21,7 +21,7 @@
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
-          "sha256": "bb795e582c193cd4411d9b9d7ef7ea3086d275d434161273d5208077fa13ebbb"
+          "sha256": "42a2e2ed5e3c5326ca4de34db05ad2b84a17d75908b7ed7178c8c612c1c1d109"
         },
         {
           "path": "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
@@ -41,7 +41,7 @@
         },
         {
           "path": "projects/capable/manuscript/08-presidentielle-2027.md",
-          "sha256": "934107c43c9a6069ba0c08cb8ffd73abc53fbc3a83fe57261700a72b17d23217"
+          "sha256": "569166ac0ec99d85dd79926bb6545a3d112b36dfbf112614140b5a603ec89aba"
         },
         {
           "path": "projects/capable/manuscript/09-communs-et-moyens.md",
@@ -141,7 +141,7 @@
         },
         {
           "path": "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md",
-          "sha256": "cb406143090a9ffd9658ec09121448cbd9187a5b4e5f2cd7aa95bb32c819d6fd"
+          "sha256": "dccb2b117bdd8a3a0803b8de4588b9236039afc143d7720dcf726fff05ef8a43"
         },
         {
           "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
