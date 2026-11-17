@@ -45,6 +45,10 @@ realities:
     statement: "Tenue rigoureuse de la double temporalité : l'histoire du XVIIIe siècle repose sur des pièces primaires et secondaires vérifiées ; les résonances contemporaines (Autonomie de Capacité, Kudocracy) sont explicitement typées comme hypothèses prospectives."
 
 sources:
+  - id: gaffori-biographie-critique
+    path: "projects/1755/sources/notice-jean-pierre-gaffori.md"
+    role: "notice-biographique-et-amont-institutionnel-1729-1755"
+    required: false
   - id: projet-1755-source
     path: "research/autonomia/projet_1755.md"
     role: "dossier-source-fondateur"
