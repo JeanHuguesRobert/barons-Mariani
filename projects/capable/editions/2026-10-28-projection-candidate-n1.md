@@ -21,7 +21,7 @@ source_documents:
   - "projects/capable/editions/2026-10-09-en-preparation.md"
   - "projects/capable/editorial/plan-premier-numero-2026-10-28.md"
   - "projects/capable/doctrine/revision_constitutionnelle_article_72.md"
-  - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
+  - "projects/capable/doctrine/metaprogramme-politique-generatif.md"
   - "research/autonomia/grammaire_autonomie_de_capacite.md"
   - "projects/capable/research/2026-11-13-identites-polarisation-et-agenda-politique.md"
   - "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md"
@@ -64,7 +64,7 @@ Une [annexe nouvelle](../annexes/2026-11-13-recherches-decisions-et-objections.m
 
 ## Actualisation du 13 novembre 2026 — proposition constitutionnelle nationale et sources de l'Autonomie de Capacité
 
-**Contenu nouveau dans cette version évolutive du n°1 :** la [proposition publique Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) est désormais incorporée, en texte intégral, à la projection « en préparation », avec le [métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et la [grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md). Les chapitres 02, 03, 04 et 08 du Livre intègrent aussi les développements récents.
+**Contenu nouveau dans cette version évolutive du n°1 :** la [proposition publique Capable de révision de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) est désormais incorporée, en texte intégral, à la projection « en préparation », avec le [métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif.md) et la [grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md). Les chapitres 02, 03, 04 et 08 du Livre intègrent aussi les développements récents.
 
 **Ce qui change :** la subsidiarité ne se limite plus à un cas institutionnel corse ; Capable propose un droit commun à demander des adaptations législatives et réglementaires justifiées par les réalités territoriales, tout en conservant au Parlement le pouvoir de faire la loi. Les demandes, refus et effets devraient être examinés, motivés, publiés et réexaminés lorsqu'un obstacle substantiel persiste. L'égalité des garanties n'impose pas l'uniformité des réponses.
 

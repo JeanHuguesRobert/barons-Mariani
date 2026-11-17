@@ -14,7 +14,7 @@ provenance:
   origin_type: conversation
   origin_date: "2026-11-13"
   derived_from:
-    - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
+    - "projects/capable/doctrine/metaprogramme-politique-generatif.md"
     - "projects/capable/doctrine.md"
     - "research/democratie_capable.md"
 review:
@@ -86,7 +86,7 @@ Tests contrastés : campagne vs période ordinaire ; sujets identitaires vs enje
 
 **Critère d'épreuve :** expliquer aussi les cas où un sujet identitaire recevrait une attention conforme, ou inférieure, à la demande citoyenne, et ceux où la participation directe n'améliorerait pas les décisions. Une étude qui ne compte que les exemples favorables n'est pas un test.
 
-**Lien avec Capable :** problématiser la capacité des citoyens à proposer, délibérer, contrôler, révoquer ou corriger **sans convertir la recherche en dispositif de persuasion électorale**. La doctrine normative est distincte du constat historique. Voir [métaprogramme, § 6 bis](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [carte doctrinale](../doctrine.md) et [paquet éditorial #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
+**Lien avec Capable :** problématiser la capacité des citoyens à proposer, délibérer, contrôler, révoquer ou corriger **sans convertir la recherche en dispositif de persuasion électorale**. La doctrine normative est distincte du constat historique. Voir [métaprogramme, § 6 bis](../doctrine/metaprogramme-politique-generatif.md), [carte doctrinale](../doctrine.md) et [paquet éditorial #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152).
 
 ## 7. Étapes de recherche et frontières de publication
 

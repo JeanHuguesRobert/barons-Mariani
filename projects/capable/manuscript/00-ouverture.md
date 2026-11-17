@@ -53,7 +53,7 @@ Ce Livre ne part pas de l'hypothèse que le peuple serait infaillible. Il fait u
 
 La première victoire à rechercher n'est donc pas l'adoption d'un programme réputé parfait : c'est l'ouverture d'une **capacité démocratique nouvelle, visible et utilisable**, qui rende crédibles les progrès suivants.
 
-Cette hypothèse prolonge les [clarifications sur le Possibilisme et l'espérance](../doctrine/clarifications-possibilisme-souverainete-2026-11-09.md) et la [Loi de Tocqueville généralisée](../../../research/tocqueville_law.md) ; elle ne garantit pas le succès d'une mobilisation populaire.
+Cette hypothèse prolonge les [clarifications sur le Possibilisme et l'espérance](../doctrine/clarifications-possibilisme-souverainete.md) et la [Loi de Tocqueville généralisée](../../../research/tocqueville_law.md) ; elle ne garantit pas le succès d'une mobilisation populaire.
 
 ## Trois rôles à ne pas confondre
 

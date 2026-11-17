@@ -50,7 +50,7 @@ La liberté est l'étendue des choix réellement ouverts à une personne par ses
 
 Cette liberté inclut le droit de renoncer, de se retirer et de ne pas entreprendre. Elle ne commande ni une activité permanente ni une témérité sans limite : les risques de l'action doivent être comparés aux risques de l'inaction. La sécurité véritable laisse des marges de manœuvre pour agir autrement après une erreur, une découverte ou un changement de circonstances.
 
-Cette lecture s'appuie sur le [Possibilisme](../../../research/manifeste_possibiliste_note_analytique.md), les [clarifications de novembre 2026](../doctrine/clarifications-possibilisme-souverainete-2026-11-09.md) et la réflexion sur les [capacités territoriales](../../../research/autonomia/potentique_territoriale.md). Elle reste une proposition doctrinale, non une définition juridique déjà inscrite dans la Constitution.
+Cette lecture s'appuie sur le [Possibilisme](../../../research/manifeste_possibiliste_note_analytique.md), les [clarifications de novembre 2026](../doctrine/clarifications-possibilisme-souverainete.md) et la réflexion sur les [capacités territoriales](../../../research/autonomia/potentique_territoriale.md). Elle reste une proposition doctrinale, non une définition juridique déjà inscrite dans la Constitution.
 
 ## Une généalogie, pas une invention instantanée
 

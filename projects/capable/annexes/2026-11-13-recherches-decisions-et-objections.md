@@ -20,7 +20,7 @@ provenance:
   origin_ref: unknown
   origin_date: "2026-11-13"
   derived_from:
-    - "projects/capable/doctrine/clarifications-possibilisme-souverainete-2026-11-09.md"
+    - "projects/capable/doctrine/clarifications-possibilisme-souverainete.md"
     - "projects/capable/research/2026-11-13-identites-polarisation-et-agenda-politique.md"
     - "research/souverainete_delegation_agents_mandates.md"
     - "research/democratie_capable.md"
@@ -37,7 +37,7 @@ Le Livre décrit des principes et des propositions. Le Magazine leur donne une e
 
 ## A. Liberté, Possibilisme et souveraineté
 
-- [Clarifications doctrinales du 9 novembre](../doctrine/clarifications-possibilisme-souverainete-2026-11-09.md) : liberté comme espace de choix effectivement accessibles **et révisables dans le temps** ; risque de l'action et de l'inaction ; propriétés privées légitimes, absence de capture de la souveraineté politique ; mandats de durée indéterminée et révocation comme **propositions**, non institutions en vigueur.
+- [Clarifications doctrinales du 9 novembre](../doctrine/clarifications-possibilisme-souverainete.md) : liberté comme espace de choix effectivement accessibles **et révisables dans le temps** ; risque de l'action et de l'inaction ; propriétés privées légitimes, absence de capture de la souveraineté politique ; mandats de durée indéterminée et révocation comme **propositions**, non institutions en vigueur.
 - [Démocratie capable](../../../research/democratie_capable.md) : capacité de proposer, comprendre, décider, contester et corriger, y compris entre les scrutins ; application territoriale de l'article 72 en date du 12 novembre.
 - [Souveraineté, délégation et Agents Mandatés](../../../research/souverainete_delegation_agents_mandates.md) : retour du contrôle au mandant, distinction entre moyens économiques libres et possibilité d'acheter les règles, traçabilité des délégations, contrôles des contrôleurs.
 - [Modèle de sécurité de la démocratie représentative](../../../research/security_model_representative_democracy.md), [Traçabilité des actes](../../../research/traceabilite_des_actes.md) : propriétés institutionnelles testables, risques de capture et recours. Les hypothèses ne garantissent pas qu'un régime résistera à tous les abus.
@@ -66,7 +66,7 @@ Le Livre décrit des principes et des propositions. Le Magazine leur donne une e
 
 - [Le Bleu de Chine en Corse — histoire identitaire](../../../research/patrimoine/bleu_chine_corse_histoire_identitaire.md) : mémoire du travail et des bergers, circulation matérielle, appropriation et réinterprétations contemporaines, distinction entre témoignage et preuve industrielle.
 - [Chronique culturelle du Magazine](../magazine/2026-11-13-bleu-de-chine-appartenances.md) : exemple d'**appartenance située non exclusive**. Il n'établit ni origine corse unique ni consensus sur toutes les politiques de l'identité.
-- [Métaprogramme génératif de Capable, § 6 bis](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) : partir des besoins, griefs et désaccords réels, sans transformer l'identité en mesure automatique de la légitimité d'une personne.
+- [Métaprogramme génératif de Capable, § 6 bis](../doctrine/metaprogramme-politique-generatif.md) : partir des besoins, griefs et désaccords réels, sans transformer l'identité en mesure automatique de la légitimité d'une personne.
 
 **Objections déterminantes :** quelles étapes historiques sont attestées ? Quels récits sont des mémoires familiales ? Comment distinguer transmission et exploitation commerciale d'une identité ? Le cas vestimentaire éclaire une méthode mais ne tranche aucun débat sur la nationalité, l'immigration ou la souveraineté.
 
@@ -84,4 +84,4 @@ Ces sources peuvent évoluer indépendamment de la présente projection. Une éd
 
 Pour chaque proposition politique, demander : quel problème vécu ? quelle preuve ? quel moyen concret ? qui décide ? qui supporte le coût et le risque ? qui peut sortir, contester, révoquer ou recommencer ? **Et quel fait nous ferait changer d'avis ?**
 
-Cet examen applique la [Double Lecture](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) : récit accessible dans le Livre et le Magazine, appareil de preuve et limites près des affirmations décisives, accès libre aux textes sources. Aucune note ne devient une doctrine adoptée du seul fait de sa présence dans les annexes.
+Cet examen applique la [Double Lecture](../doctrine/metaprogramme-politique-generatif.md) : récit accessible dans le Livre et le Magazine, appareil de preuve et limites près des affirmations décisives, accès libre aux textes sources. Aucune note ne devient une doctrine adoptée du seul fait de sa présence dans les annexes.

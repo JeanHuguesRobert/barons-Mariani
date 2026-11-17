@@ -21,7 +21,7 @@ provenance:
   origin_date: "2026-11-13"
   derived_from:
     - "projects/capable/research/2026-11-13-identites-polarisation-et-agenda-politique.md"
-    - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
+    - "projects/capable/doctrine/metaprogramme-politique-generatif.md"
     - "research/democratie_capable.md"
 review:
   status: unreviewed
@@ -93,4 +93,4 @@ La suite est concrète : confronter les priorités déclarées à une mesure de 
 
 La chronique demeure ouverte. **Nous ne proposons pas aux citoyens de changer simplement de slogan. Nous proposons qu'ils puissent reprendre la maîtrise des questions, des moyens et des résultats.** Cette proposition politique doit, comme les autres, être éprouvée.
 
-*Sources et réserves :* [note de recherche intégrale](../research/2026-11-13-identites-polarisation-et-agenda-politique.md), [Démocratie capable](../../../research/democratie_capable.md), [Souveraineté et agents mandatés](../../../research/souverainete_delegation_agents_mandates.md), [métaprogramme de Capable](../doctrine/metaprogramme-politique-generatif-2026-11-11.md). Aucun des travaux historiques ou des acteurs nommés ne doit être traité comme coupable d'une intention non démontrée.
+*Sources et réserves :* [note de recherche intégrale](../research/2026-11-13-identites-polarisation-et-agenda-politique.md), [Démocratie capable](../../../research/democratie_capable.md), [Souveraineté et agents mandatés](../../../research/souverainete_delegation_agents_mandates.md), [métaprogramme de Capable](../doctrine/metaprogramme-politique-generatif.md). Aucun des travaux historiques ou des acteurs nommés ne doit être traité comme coupable d'une intention non démontrée.

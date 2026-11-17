@@ -53,7 +53,7 @@ Il s'agit d'une **proposition doctrinale contemporaine et d'une hypothèse insti
 
 **Préserver les solidarités, neutraliser la dépendance captive.** L'entraide entre proches, la confiance et la coopération au sein de réseaux d'appartenance peuvent être précieuses. Le risque apparaît lorsqu'elles déterminent l'accès aux droits, aux ressources communes ou aux décisions publiques, au détriment de ceux qui restent hors de ces réseaux. Cette distinction ouvre une recherche sur la coopération empêchée et le clientélisme ; elle ne constitue ni une caractérisation générale de la société corse, ni un diagnostic empirique déjà établi.
 
-**Portée documentaire.** Cette clarification explicite les liens entre [la théorie de sécurité de la représentation](../../research/security_model_representative_democracy.md), [l'étude sur l'Invidia](../../research/invidia.md), [l'économie morale de la dépense visible](../../research/economie_morale_depense_visible.md) et le [métaprogramme de Capable](doctrine/metaprogramme-politique-generatif-2026-11-11.md). Elle ne modifie ni la [proposition de révision de l'article 72](doctrine/revision_constitutionnelle_article_72.md), dont la portée demeure territoriale, ni les proclamations historiques du mouvement.
+**Portée documentaire.** Cette clarification explicite les liens entre [la théorie de sécurité de la représentation](../../research/security_model_representative_democracy.md), [l'étude sur l'Invidia](../../research/invidia.md), [l'économie morale de la dépense visible](../../research/economie_morale_depense_visible.md) et le [métaprogramme de Capable](doctrine/metaprogramme-politique-generatif.md). Elle ne modifie ni la [proposition de révision de l'article 72](doctrine/revision_constitutionnelle_article_72.md), dont la portée demeure territoriale, ni les proclamations historiques du mouvement.
 
 ## Fonction
 
@@ -185,7 +185,7 @@ https://github.com/JeanHuguesRobert/cogentia/blob/main/research/effectivity_inte
 
 ## Appartenances, souveraineté et synthèse institutionnelle — proposition du 11 novembre 2026
 
-➡️ [Capable — Métaprogramme politique génératif, § 6 bis](doctrine/metaprogramme-politique-generatif-2026-11-11.md#6-bis-appartenances-et-souveraineté--transformer-le-conflit-en-pouvoir-dagir)
+➡️ [Capable — Métaprogramme politique génératif, § 6 bis](doctrine/metaprogramme-politique-generatif.md#6-bis-appartenances-et-souveraineté--transformer-le-conflit-en-pouvoir-dagir)
 
 ➡️ [Grammaire générative de l'Autonomie de Capacité — passerelle nationale](../../research/autonomia/grammaire_autonomie_de_capacite.md#12-prolongement-national-daté--11-novembre-2026)
 

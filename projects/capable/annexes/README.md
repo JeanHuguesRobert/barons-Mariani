@@ -34,6 +34,6 @@ Les annexes conservent les preuves, objections et textes de référence. Elles n
 - [Dossiers A5 à A8 — octobre 2026](2026-10-28-dossiers-a5-a8.md).
 - [Recherches, décisions et objections — 13 novembre 2026](2026-11-13-recherches-decisions-et-objections.md) : liberté révisable, mandat révocable, souveraineté, polarisation et agenda, IA, appartenances et sources spécialisées.
 - [Proposition nationale de révision constitutionnelle de l'article 72](../doctrine/revision_constitutionnelle_article_72.md) : proposition citoyenne et non droit positif.
-- [Métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et [Grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md) : corpus de référence.
+- [Métaprogramme politique génératif](../doctrine/metaprogramme-politique-generatif.md) et [Grammaire de l'Autonomie de Capacité](../../../research/autonomia/grammaire_autonomie_de_capacite.md) : corpus de référence.
 
 La [projection publique en préparation](https://jeanhuguesrobert.github.io/barons-Mariani/previews/en-preparation/capable.html) rassemble les textes sélectionnés. Les archives restent corrigibles jusqu'au gel d'une édition, qui doit être conservée et identifiée.

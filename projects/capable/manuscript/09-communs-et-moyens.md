@@ -59,7 +59,7 @@ Les puissances économiques doivent pouvoir innover et agir librement **dans** d
 
 La question ne se réduit donc ni à « capitalisme ou communisme » ni à « privé ou public ». Un service public peut neutraliser une capacité ; un acteur privé peut l'ouvrir ; un commun peut devenir inaccessible à ses contributeurs. Le *Capable Test* s'applique aux trois. L'objectif doctrinal est de **dompter le capitalisme sans abolir la propriété privée**, afin que le pouvoir économique ne se substitue pas à la souveraineté populaire.
 
-Développement : [Souveraineté, délégation et Agents Mandatés, sections 6–8](../../../research/souverainete_delegation_agents_mandates.md), [clarifications du Possibilisme](../doctrine/clarifications-possibilisme-souverainete-2026-11-09.md) et [Kudos, hypothèse d'une monnaie complémentaire](../../../research/kudos.md). Cette position normative ne prétend pas décrire l'état actuel du droit ni valider automatiquement un instrument particulier.
+Développement : [Souveraineté, délégation et Agents Mandatés, sections 6–8](../../../research/souverainete_delegation_agents_mandates.md), [clarifications du Possibilisme](../doctrine/clarifications-possibilisme-souverainete.md) et [Kudos, hypothèse d'une monnaie complémentaire](../../../research/kudos.md). Cette position normative ne prétend pas décrire l'état actuel du droit ni valider automatiquement un instrument particulier.
 
 ## Le commun comme Machine à Rendre Capable
 

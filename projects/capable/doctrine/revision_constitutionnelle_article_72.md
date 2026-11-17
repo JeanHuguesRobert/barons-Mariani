@@ -34,7 +34,7 @@ provenance:
     - research/principe_effectivite.md
     - research/responsabilite_effectivite.md
     - research/autonomia/grammaire_autonomie_de_capacite.md
-    - projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md
+    - projects/capable/doctrine/metaprogramme-politique-generatif.md
 review:
   status: unreviewed
   reviewed_by: []

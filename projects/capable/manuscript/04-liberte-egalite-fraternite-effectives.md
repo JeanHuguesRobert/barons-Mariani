@@ -85,7 +85,7 @@ Le projet de **KYS du désir d'agir**, extension envisagée de Cogentia Personal
 
 Un système démocratique capable a besoin à la fois de **citoyens pouvant former et réviser leur jugement** et d'**institutions pouvant recevoir et corriger les décisions contestées**. Aucune de ces capacités ne remplace l'autre.
 
-Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
+Lire aussi : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif.md), [étude historique en Double Lecture](../../../research/devise_republicaine/histoire_devise_double_lecture_consolidation_v2_5.md) et [paquet KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/issues/313).
 
 ## Gouverner sous mandat : rendre le pouvoir aux citoyens entre deux élections
 

@@ -44,7 +44,7 @@ Cette version est distincte du Livre durable actuellement servi par le site ; el
 
 
 
-> **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete-2026-11-09.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
+> **Clarification doctrinale en cours de revue (9 novembre 2026)** : [Possibilisme, liberté révisable, risque mesuré, capitalisme régulé, démocratie assistée et Stabilisateur procédural](doctrine/clarifications-possibilisme-souverainete.md). Cette note ne remplace pas les textes canoniques et ne modifie pas les proclamations historiques.
 
 ## Métaprogramme politique génératif — proposition en revue (11 novembre 2026)
 
@@ -52,7 +52,7 @@ Le volet **programmatique** de Capable ne se limite pas à une liste de mesures 
 
 Cette méthode ne remplace ni le choix démocratique ni les engagements expressément validés d'un mouvement ou d'une candidature. Elle doit aussi savoir déclarer une proposition non fondée, incompatible avec les droits fondamentaux ou insuffisamment éprouvée. Les activités doctrinales ouvertes demeurent distinctes de la candidature personnelle.
 
-➡️ [Métaprogramme politique génératif — formalisation de travail du 11 novembre 2026](doctrine/metaprogramme-politique-generatif-2026-11-11.md).
+➡️ [Métaprogramme politique génératif — formalisation de travail du 11 novembre 2026](doctrine/metaprogramme-politique-generatif.md).
 
 ## République et effectivité — proposition institutionnelle
 

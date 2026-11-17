@@ -71,7 +71,7 @@ L'enjeu est aussi démocratique : les citoyens doivent disposer de moyens propor
 
 La méthode devient générative lorsqu'à chaque nouveau problème elle demande : *quels effets désirables ? quels faits ? quelles capacités à ouvrir ? quelles voies concurrentes ? qui décide ? qu'est-ce qui pourrait nous donner tort ? comment le saurons-nous et qui serait tenu de réexaminer ?*
 
-Pour la formalisation et ses limites : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) et [Stabilisateur procédural](../../../research/debord_stabilisateur_procedural.md). Ces éléments sont des **propositions à éprouver**, et non des règles actuellement imposées à toute loi.
+Pour la formalisation et ses limites : [métaprogramme politique](../doctrine/metaprogramme-politique-generatif.md) et [Stabilisateur procédural](../../../research/debord_stabilisateur_procedural.md). Ces éléments sont des **propositions à éprouver**, et non des règles actuellement imposées à toute loi.
 
 ## Un test constitutionnel : de la demande locale à la correction
 

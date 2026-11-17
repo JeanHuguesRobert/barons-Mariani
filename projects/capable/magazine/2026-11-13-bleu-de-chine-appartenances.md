@@ -21,7 +21,7 @@ provenance:
   origin_date: "2026-11-13"
   derived_from:
     - "research/patrimoine/bleu_chine_corse_histoire_identitaire.md"
-    - "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md"
+    - "projects/capable/doctrine/metaprogramme-politique-generatif.md"
 review:
   status: unreviewed
   reviewed_by: []
@@ -37,7 +37,7 @@ L'[enquête historique sur le Bleu de Chine](../../../research/patrimoine/bleu_c
 
 La singularité culturelle ne réside pas nécessairement dans l'exclusivité d'une origine. **Un objet peut venir d'ailleurs et devenir ici une mémoire singulière**, parce que des personnes l'ont porté, usé, transmis et chargé d'expériences. Reconnaître ces attaches ne demande pas d'effacer son parcours extérieur.
 
-Cette petite histoire rend visible une question plus large du [métaprogramme de Capable sur les appartenances](../doctrine/metaprogramme-politique-generatif-2026-11-11.md) : que voulons-nous préserver, transmettre et rendre praticable quand nous parlons de culture ? La protection d'un patrimoine vécu peut demander des compétences, des ateliers, des archives, des lieux d'apprentissage et une économie locale, plutôt qu'un contrôle de l'identité d'autrui.
+Cette petite histoire rend visible une question plus large du [métaprogramme de Capable sur les appartenances](../doctrine/metaprogramme-politique-generatif.md) : que voulons-nous préserver, transmettre et rendre praticable quand nous parlons de culture ? La protection d'un patrimoine vécu peut demander des compétences, des ateliers, des archives, des lieux d'apprentissage et une économie locale, plutôt qu'un contrôle de l'identité d'autrui.
 
 La Marche du Soleil peut devenir un terrain de cette enquête : rencontrer ceux qui fabriquent, réparent ou racontent les objets ; distinguer le témoignage familial du document commercial et de l'affirmation historique ; rendre les questions et les sources consultables. Aucun de ces témoignages futurs n'est ici présumé recueilli.
 
