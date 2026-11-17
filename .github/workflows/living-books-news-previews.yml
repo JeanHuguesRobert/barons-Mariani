@@ -307,13 +307,13 @@ jobs:
               "https://capable.acorsica.org/candidate.$ext"
           done
           curl --fail --show-error --silent \
-            https://capable.acorsica.org/en-preparation.html | grep -q cases.html
+            https://capable.acorsica.org/en-preparation.html | grep -F cases.html > /dev/null
           curl --fail --show-error --silent \
-            https://capable.acorsica.org/cases.html | grep -q "brouillons non relus"
+            https://capable.acorsica.org/cases.html | grep -F "brouillons non relus" > /dev/null
           curl --fail --show-error --silent \
-            https://capable.acorsica.org/magazine.html | grep -q "magazine/historique/2026-10-02"
+            https://capable.acorsica.org/magazine.html | grep -F "magazine/historique/2026-10-02" > /dev/null
           curl --fail --show-error --silent \
-            https://capable.acorsica.org/annexes.html | grep -q "Dossiers de recherche A1"
+            https://capable.acorsica.org/annexes.html | grep -F "Dossiers de recherche A1" > /dev/null
           echo "CANONICAL_WORKING_EDITION_PUBLISHED"
       - name: Archive canonical deployment receipt
         if: always()
