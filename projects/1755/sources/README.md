@@ -20,6 +20,8 @@ visibility: public
 
 - [Jean-Pierre Gaffori — notice biographique critique](notice-jean-pierre-gaffori.md) : sources contradictoires 1704/1710, chronologie politique 1745–1753, généalogie et mémoire funéraire distinctes. Document de travail, non preuve primaire.
 
+- [Enquête OSINT Gaffori, 17 novembre 2026](enquete-osint-gaffori-2026-11-17.md) : Bitossi 2019, archives ASGe 2072, lettres municipales de 1752 et 1772, Miceli sur l'université et Carrington sur les consultes ; contradictions et suite de l'enquête.
+
 ## 1. Sources primaires d'archives
 
 | Identifiant | Dépôt d'archives / Institution | Description de la source | Rôle probatoire |
