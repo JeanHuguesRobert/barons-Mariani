@@ -71,6 +71,12 @@ provenance:
 
 La [notice biographique critique destinée au Livre Vivant 1755](../../../../projects/1755/sources/notice-jean-pierre-gaffori.md) rassemble séparément les éléments de vie politique, l'état des divergences de datation et leur intérêt pour la continuité constitutionnelle des années 1729–1755. La présente enquête conserve son périmètre prosopographique, généalogique et funéraire.
 
+## Séquence funéraire de 1753 — nouveau contrôle de cohérence
+
+Les lettres génoises étudiées par [Carlo Bitossi (2019)](https://www.storiapatriagenova.it/Docs/Biblioteca_Digitale/SB/5e8c2948172f5c5e0abcd9e8f49f6f79/Estratti/badabf0a683fd05552fc496d2d8b63f9.pdf) conduisent à distinguer le **meurtre du 2 octobre**, une **inhumation rapportée par ouï-dire dès le 8 octobre**, et la **cérémonie solennelle du 24 octobre**, attestée par le compte rendu de **Giacomo Giovanni Martinetti à Grimaldi du 31 octobre (ASGe, Archivio Segreto 2072)**. L'oraison du chanoine Orticoni a lieu *sur la place*, puis les chefs se réunissent *au palais*. **Aucune de ces mentions ne prouve un caveau sous les chapelles des Capucins.**
+
+Une [publication du Journal de la Corse](https://www.journaldelacorse.corsica/articles/1872/lassassinat-de-giovan-pietro-gaffori), reproduisant une traduction de la déposition attribuée à Giambattista Romei (3 novembre 1753), situe la confrontation meurtrière « près des Capucins », entourée de personnes liées à un chantier. **Lieu allégué du crime et lieu de sépulture doivent rester distincts.** Cartographier l'ancienne habitation, le chemin et le chantier, puis rechercher archives conventuelles, plans de chapelles, registres mortuaires et pièces de l'opération archéologique contemporaine. Voir [dossier OSINT 2026-11-17](../../../../projects/1755/sources/enquete-osint-gaffori-2026-11-17.md).
+
 ## Reprise ordonnée
 
 1. Collationner les pages 9–17 et l'ensemble des annotations visibles, sans compléter les lacunes par conjecture. Retrouver la p. 14.
