@@ -69,6 +69,8 @@ provenance:
 - [Ministère de la Culture — patrimoine de Corte](https://pop.culture.gouv.fr/notice/merimee/IA2B001773) : notice du monument Gaffori ; ne constitue pas la preuve d'un acte généalogique.
 - [M3C, notice Meurgey 1933](https://m3c.universita.corsica/s/fr/item/138746).
 
+La [notice biographique critique destinée au Livre Vivant 1755](../../../../projects/1755/sources/notice-jean-pierre-gaffori.md) rassemble séparément les éléments de vie politique, l'état des divergences de datation et leur intérêt pour la continuité constitutionnelle des années 1729–1755. La présente enquête conserve son périmètre prosopographique, généalogique et funéraire.
+
 ## Reprise ordonnée
 
 1. Collationner les pages 9–17 et l'ensemble des annotations visibles, sans compléter les lacunes par conjecture. Retrouver la p. 14.
