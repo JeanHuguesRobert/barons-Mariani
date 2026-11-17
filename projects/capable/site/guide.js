@@ -173,6 +173,12 @@
     var history = guideHistory();
     var selected = document.querySelector('input[name="guide-mode"]:checked');
     var explore = selected && selected.value === "explore";
+    var remoteQuestion = explore ? "Explorer ce problème : " + clean +
+        "\nPrésentez au moins deux propositions à étudier (non adoptées). Pour chaque option, exposez faits sourcés ou inconnus, compétences, coûts à vérifier, effets distributifs, objections, décision possible, indicateurs d'effectivité et conditions de correction. Aucune recommandation électorale ni donnée inventée." : clean;
+    if (remoteQuestion.length > 1200) {
+      if (status) status.textContent = "Problème trop long pour le Guide : réduisez votre texte ou utilisez votre agent personnel.";
+      return;
+    }
     var stamp = ++generation;
     busy = true;
     turns.push({role:"user", content:clean, mode:explore ? "explore" : "documentary"});
@@ -183,8 +189,7 @@
     postJson("/guide/chat", {
       profile: GUIDE_PROFILE,
       locale: "fr",
-      question: explore ? "Explorer ce problème : " + clean +
-        "\nPrésentez au moins deux propositions à étudier (non adoptées). Pour chaque option, exposez faits sourcés ou inconnus, compétences, coûts à vérifier, effets distributifs, objections, décision possible, indicateurs d'effectivité et conditions de correction. Aucune recommandation électorale ni donnée inventée." : clean,
+      question: remoteQuestion,
       history: history
     }).then(function (body) {
       if (stamp !== generation) return;
