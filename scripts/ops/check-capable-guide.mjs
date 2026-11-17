@@ -72,6 +72,9 @@ function browser() {
         ["done",{ok:true}]
       ];
       const nl=String.fromCharCode(10);
+      if(request.question.includes("BATCH_SSE_PROBE")) {
+        for(let i=0;i<600;i++)frames.splice(4,0,["guide_delta",{content:"x".repeat(200)}]);
+      }
       const bytes=new TextEncoder().encode(frames.map(([name,data])=>
         "event: "+name+nl+"data: "+JSON.stringify(data)+nl+nl).join(""));
       const chunks=[bytes.slice(0,31),bytes.slice(31,89),bytes.slice(89)];
@@ -156,6 +159,11 @@ assert(get("guide-status").textContent.includes("annulée localement"));
 assert.equal(get("guide-stream").textContent,"");
 assert.equal(get("log").children.length,beforeCancel+1,
   "Cancellation must not create a misleading assistant turn");
+get("question").value="BATCH_SSE_PROBE";
+get("ask").events.submit({preventDefault(){}});
+await tick();
+assert(get("guide-status").textContent.includes("sources identifiées"),
+  "Many small SSE frames in a single chunk must not trigger the per-frame limit");
 const previous=store.get("capable-guide-conversation");
 get("export-json").click();
 assert(get("continuity-status").textContent.includes("Export"));

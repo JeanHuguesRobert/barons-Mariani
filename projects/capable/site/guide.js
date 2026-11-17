@@ -378,12 +378,13 @@
       }
       function parse(value) {
         buffer += value;
-        if (buffer.length > 65536) throw Error("guide_stream_frame_too_large");
         var match;
         while ((match = /\r?\n\r?\n/.exec(buffer))) {
+          if (match.index > 65536) throw Error("guide_stream_frame_too_large");
           receive(buffer.slice(0,match.index));
           buffer = buffer.slice(match.index+match[0].length);
         }
+        if (buffer.length > 65536) throw Error("guide_stream_frame_too_large");
       }
       if (res.body && res.body.getReader) {
         var reader = res.body.getReader(), decoder = new TextDecoder();
