@@ -53,6 +53,15 @@ La Constitution paolienne de novembre **1755** ne surgit pas du néant. Elle s'i
 
 L'assassinat de 1753 ouvre une crise de commandement, mais ne met pas fin au mouvement. La réorganisation des années 1753–1755 et l'arrivée de Pasquale Paoli doivent être étudiées comme processus collectifs et non comme une simple substitution de grands hommes. Voir l'étude de 1974 sur Paoli et sa Constitution.
 
+## Nouveaux résultats de l'enquête OSINT du 17 novembre 2026
+
+Le [dossier OSINT et son registre des contradictions](enquete-osint-gaffori-2026-11-17.md) reprend les sources archivistiques localisées et les nuances essentielles.
+
+- **Carlo Bitossi (2019)**, étudiant les documents de l'**Archivio di Stato di Genova, Archivio Segreto 2072**, situe le meurtre au **2 octobre 1753** et détaille la rivalité familiale, les réfugiés accueillis à Calvi, le rôle contesté de Grimaldi et la réaction de Matra. Cette datation est désormais mieux documentée que les variantes du 3 octobre ou de novembre ; l'existence de récits contradictoires reste consignée. [Article (PDF)](https://www.storiapatriagenova.it/Docs/Biblioteca_Digitale/SB/5e8c2948172f5c5e0abcd9e8f49f6f79/Estratti/badabf0a683fd05552fc496d2d8b63f9.pdf).
+- **Deux lettres anciennes reproduites par la mairie de Corte** : Anton Francesco Gaffori à Doria (29 mars 1752) et Filippo-Maria Romei à Marbeuf (23 octobre 1772). Les traductions rendent leur lecture possible, mais la première lettre ne prouve pas, seule, un ordre d'assassinat. [Dossier municipal](https://www.mairie-corte.fr/catalog_repository/uploads/7/Lettres_concernant_Gafforiu.pdf).
+- **Une innovation politique et éducative tangible** : Erick Miceli documente un mémoire de Gaffori vers 1753, consacré notamment à un projet d'enseignement supérieur, et rapporte sa transmission ultérieure à Paoli via les papiers de Faustina Maria Matra, avec médiation de Paolo Casabianca. La filiation doit être contrôlée dans les notes et les archives indiquées par l'auteur. [Étude LUMI](https://lumi.univ-corse.fr/la-creation-de-luniversita-vue-par-les-agents-de-lintelligence-genoise-a-rome-1755-1765/).
+- **Investitures multiples** : Bitossi évoque une acclamation en **1746**, la notice patrimoniale un généralat en **1751**, et Treccani une concentration du pouvoir en **1753**. Ces dates ne sont pas nécessairement des contradictions : les textes des consultations et la nature des titres restent à établir.
+
 ## Famille, mémoire et dépouille : chantiers séparés
 
 Ne pas confondre **Jean-Pierre** (mort 1753) avec son fils **François-Antoine** (né vers 1744, mort 1796 selon l'ADECEC), ni avec les autres Gaffori homonymes relevés dans le corpus Mariani. Les alliances Gaffori–Mariani sont décrites chez Meurgey (1933) mais plusieurs degrés de parenté restent à établir par actes.
