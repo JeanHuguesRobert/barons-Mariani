@@ -9,7 +9,7 @@ const root = fileURLToPath(new URL("../../", import.meta.url));
 const js = readFileSync(root + "projects/capable/site/guide.js", "utf8");
 const html = readFileSync(root + "projects/capable/site/guide.html", "utf8");
 for (const id of ["retain-local","export-text","export-json","import-json","erase-local",
-  "compose-agent","copy-agent","agent-reply","add-agent-reply","include-agent"]) {
+  "compose-agent","copy-agent","agent-reply","add-agent-reply","include-agent","send-guide-history"]) {
   assert(html.includes('id="' + id + '"'), "Missing UI control " + id);
 }
 assert(html.includes('value="explore"'));
@@ -68,6 +68,7 @@ get("ask").events.submit({preventDefault(){}});
 await tick();
 assert.equal(requests.length,1);
 assert(!store.has("capable-guide-conversation"),"Unconsented retention");
+assert.equal(requests.at(-1).body.history.length,0,"History must not leave by default");
 assert.equal(get("log").children.length,2);
 get("retain-local").checked=true;
 get("retain-local").events.change();
@@ -93,11 +94,14 @@ await tick();
 assert(!JSON.stringify(requests.at(-1).body.history).includes("Résultat externe"),
   "Agent response must stay local unless selected");
 get("include-agent").checked=true;
+get("send-guide-history").checked=true;
 get("question").value="Objection supplémentaire";
 get("ask").events.submit({preventDefault(){}});
 await tick();
 assert(JSON.stringify(requests.at(-1).body.history).includes("Résultat externe"),
   "Only explicit consent forwards pasted reply");
+assert(JSON.stringify(requests.at(-1).body.history).includes("Prix de l'essence"),
+  "Explicit opt-in forwards Guide history");
 get("explore-switch").checked=true;
 get("question").value="Prix de l'essence";
 get("ask").events.submit({preventDefault(){}});
@@ -123,4 +127,15 @@ assert.equal(get("log").children.length,JSON.parse(previous).turns.length);
 get("erase-local").click();
 get=browser();
 assert.equal(get("log").children.length,0,"Purge persists after reload");
+// Migration from the prior Guide: no silent reading, no silent deletion.
+store.set("capable-guide-conversation",JSON.stringify([{role:"user",content:"Ancien échange local"}]));
+get=browser();
+assert.equal(get("log").children.length,0);
+assert(get("continuity-status").textContent.includes("ancien Guide"));
+get("retain-local").checked=true;
+get("retain-local").events.change();
+assert.equal(get("log").children.length,1,"Explicit opt-in restores old conversation");
+assert(store.get("capable-guide-conversation").includes("Ancien échange local"));
+get("erase-local").click();
+assert(!store.has("capable-guide-conversation"));
 console.log("CAPABLE_GUIDE_BROWSER_CONTRACT_PASS",requests.length,"requests");

@@ -58,8 +58,9 @@
     return null;
   }
   function guideHistory() {
-    var list = turns.filter(function (t) {return t.role==="user"||t.role==="assistant";})
-      .map(function (t) {return {role:t.role,content:t.content};}).slice(-20);
+    var list = el("send-guide-history") && el("send-guide-history").checked ?
+      turns.filter(function (t) {return t.role==="user"||t.role==="assistant";})
+        .map(function (t) {return {role:t.role,content:t.content};}).slice(-20) : [];
     if (el("include-agent") && el("include-agent").checked && last("external_agent")) {
       var pasted=last("external_agent");
       list.push({role:"user",content:"Texte externe non vérifié, collé par le visiteur : " +
@@ -75,10 +76,23 @@
   }
   function installBridge() {
     if (el("retain-local")) el("retain-local").checked=optedIn;
+    try {
+      if (!optedIn && localStorage.getItem(STORAGE_KEY)) {
+        notice("continuity-status", "Une conversation de l'ancien Guide existe encore ici. Activez la conservation pour la retrouver, ou effacez-la explicitement.");
+      }
+    } catch (e) {}
     on("retain-local","change",function(){
       optedIn=el("retain-local").checked;
       try {
         if(optedIn) {
+          if (!turns.length) {
+            var old = localStorage.getItem(STORAGE_KEY);
+            if (old) {
+              var parsed = JSON.parse(old);
+              turns = sanitize(Array.isArray(parsed) ? parsed : parsed.turns);
+              render();
+            }
+          }
           localStorage.setItem("capable-guide-opt-in","yes");
           saveTurns();
         } else {
