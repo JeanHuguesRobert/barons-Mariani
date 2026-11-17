@@ -307,7 +307,7 @@ jobs:
               if name=='guide.html':
                   assert b'id="compose-agent"' in content and b'id="retain-local"' in content
               elif name=='guide.js':
-                  assert b'capable-guide-opt-in' in content and b'external_agent' in content
+                  assert b'GUIDE_PROFILE + "-guide-opt-in"' in content and b'external_agent' in content
           print('CANONICAL_HTTP_RECEIPT_VERIFIED',public['release'])
           PY2
           for ext in html pdf epub; do
