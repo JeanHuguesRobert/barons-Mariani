@@ -5,10 +5,10 @@ affiliation: "Institut Mariani — Corte"
 date: 2026-10-22
 last_modified_at: '2026-11-17'
 version: '0.2'
-status: "note exploratoire — très préliminaire, publique, non gelée"
+status: "working-paper — note exploratoire très préliminaire, publique, non gelée"
 language: fr
 license: "CC BY-SA 4.0"
-document_role: research-note
+document_role: source
 document_kind: preliminary-anthropology
 visibility: public
 lifecycle_state: working
