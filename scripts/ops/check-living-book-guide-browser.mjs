@@ -35,7 +35,7 @@ const chrome=spawn(chromium,[
   "--disable-breakpad","--no-first-run","--no-default-browser-check",
   "--remote-allow-origins=*","--remote-debugging-port="+cdpPort,
   "--user-data-dir="+dir,"about:blank"
-],{stdio:"ignore"});
+],{stdio:"ignore",detached:true});
 let ws=null;
 try{
   let endpoint=null;
@@ -161,12 +161,22 @@ try{
   console.log("LIVING_BOOK_GUIDE_REAL_CHROMIUM_PASS",JSON.stringify({mobile:2,desktop:1,profileIsolation:true,legacyMigration:true,localConsent:true,sessionPurge:true,agentConsent:true,cancel:true}));
 }finally{
   try{ws?.close()}catch{}
+  // Terminate the whole Chrome process group, including renderer helpers.
+  // Killing only the wrapper lets renderer processes race with profile removal.
+  try { if (chrome.pid) process.kill(-chrome.pid,"SIGTERM"); } catch {}
   if(chrome.exitCode===null)chrome.kill("SIGTERM");
   await Promise.race([
     new Promise(resolve=>{if(chrome.exitCode!==null)resolve();else chrome.once("exit",resolve);}),
     sleep(3500)
   ]);
   await new Promise(r=>server.close(r));
-  fs.rmSync(dir,{recursive:true,force:true,maxRetries:8,retryDelay:150});
+  await sleep(400);
+  try {
+    fs.rmSync(dir,{recursive:true,force:true,maxRetries:20,retryDelay:200});
+  } catch(error) {
+    // A filesystem cleanup race must not masquerade as a functional failure,
+    // but the diagnostic remains visible for later host maintenance.
+    console.error("CHROMIUM_PROFILE_CLEANUP_WARNING",dir,error.code);
+  }
 }
 
