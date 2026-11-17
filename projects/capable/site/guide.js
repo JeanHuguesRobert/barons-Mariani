@@ -10,7 +10,7 @@
   var draftSubject = document.getElementById("draft-subject");
   var draftBody = document.getElementById("draft-body");
   var status = document.getElementById("draft-status");
-  var optedIn = false, generation = 0, busy = false;
+  var optedIn = false, generation = 0, busy = false, activeController = null;
   try { optedIn = localStorage.getItem("capable-guide-opt-in") === "yes"; } catch (e) {}
   var turns = loadTurns();
 
@@ -50,7 +50,9 @@
         typeof t.content !== "string" || t.content.length > 15000) throw Error("invalid turn");
       return {role:t.role, content:t.content, mode:t.mode === "explore" ? "explore":"documentary",
         provider:typeof t.provider === "string" ? t.provider.slice(0,80) : "",
-        annotation:typeof t.annotation === "string" ? t.annotation.slice(0,2000) : ""};
+        annotation:typeof t.annotation === "string" ? t.annotation.slice(0,2000) : "",
+        grounding:["no_profile_sources","sources_available"].indexOf(t.grounding)>=0 ? t.grounding : "not_applicable",
+        sourceCount:Number.isInteger(t.sourceCount) ? Math.max(0,Math.min(50,t.sourceCount)) : 0};
     });
   }
   function last(role) {
@@ -123,7 +125,8 @@
           if(data.kind!=="capable.guide.local.v1"||data.version!==1)throw Error("format");
           var incoming=sanitize(data.turns);
           if(!window.confirm("Remplacer cette conversation par celle du fichier ?"))return;
-          generation++;busy=false;turns=incoming;saveTurns();render();
+          generation++;if(activeController)activeController.abort();activeController=null;
+          busy=false;notice("guide-stream","");turns=incoming;saveTurns();render();
           notice("continuity-status","Conversation importée ; aucune transmission.");
         }catch(e){notice("continuity-status","Import refusé : format ou contenu non valide.");}
       };
@@ -132,7 +135,8 @@
     });
     on("erase-local","click",function(){
       if(!window.confirm("Effacer la conversation et les clés locales Capable ? Les traces externes et les exports restent indépendants."))return;
-      generation++;busy=false;turns=[];optedIn=false;
+      generation++;if(activeController)activeController.abort();activeController=null;
+      busy=false;notice("guide-stream","");turns=[];optedIn=false;
       ["question","agent-prompt","agent-reply","agent-note","draft-body","draft-to","draft-subject"].forEach(function(id){
         if(el(id))el(id).value="";
       });
@@ -182,39 +186,60 @@
 
   function ask(text) {
     var clean = String(text || "").trim();
-    if (!clean || !question) return;
-    if (busy) return;
+    if (!clean || !question || busy) return;
     var history = guideHistory();
     var selected = document.querySelector('input[name="guide-mode"]:checked');
     var explore = selected && selected.value === "explore";
     var remoteQuestion = explore ? "Explorer ce problème : " + clean +
         "\nPrésentez au moins deux propositions à étudier (non adoptées). Pour chaque option, exposez faits sourcés ou inconnus, compétences, coûts à vérifier, effets distributifs, objections, décision possible, indicateurs d'effectivité et conditions de correction. Aucune recommandation électorale ni donnée inventée." : clean;
     if (remoteQuestion.length > 1200) {
-      if (status) status.textContent = "Problème trop long pour le Guide : réduisez votre texte ou utilisez votre agent personnel.";
+      notice("guide-status","Problème trop long pour le Guide : réduisez votre texte ou utilisez votre agent personnel.");
       return;
     }
     var stamp = ++generation;
     busy = true;
+    activeController = typeof AbortController === "function" ? new AbortController() : null;
+    var controller = activeController;
     turns.push({role:"user", content:clean, mode:explore ? "explore" : "documentary"});
     saveTurns();
     render();
     question.value = "";
-    if (status) status.textContent = "Le Guide transmet votre question et le contexte au service distant.";
-    postJson("/guide/chat", {
-      profile: GUIDE_PROFILE,
-      locale: "fr",
-      question: remoteQuestion,
-      history: history
+    notice("guide-stream","");
+    notice("guide-status","Question transmise au Guide. Recherche des sources publiques...");
+    postGuideStream({
+      profile: GUIDE_PROFILE, locale: "fr", question: remoteQuestion,
+      history: history, stream: true
+    }, controller ? controller.signal : undefined, function (event, data) {
+      if (stamp !== generation) return;
+      if (event === "guide_status" && data.message) notice("guide-status",String(data.message));
+      if (event === "guide_retrieval") {
+        notice("guide-status",data.source_count ?
+          data.source_count + " source(s) publiques sélectionnée(s). Rédaction..." :
+          "Aucune source Capable admissible trouvée : la réponse devra rester hypothétique.");
+      }
+      if (event === "guide_delta" && typeof data.content === "string") {
+        var preview = el("guide-stream");
+        if (preview && preview.textContent.length < 24000) preview.textContent += data.content;
+      }
     }).then(function (body) {
       if (stamp !== generation) return;
-      var answer = body && body.answer ? String(body.answer) : "Le Guide n'a pas pu formuler de réponse basée sur le corpus. La question peut avoir été transmise au service distant.";
-      turns.push({role:"assistant",content:answer,mode:explore ? "explore" : "documentary"});
-      saveTurns();
-      render();
-      if (status) status.textContent = "Réponse affichée. Aucun envoi à un tiers ; la politique de conservation du service distant doit être vérifiée.";
+      if (!body || body.ok !== true || !body.answer) throw Error("incomplete_answer");
+      var grounded = body.grounding === "no_profile_sources" ? "no_profile_sources" :
+        body.sources && body.sources.length ? "sources_available" : "no_profile_sources";
+      var sourceCount = Array.isArray(body.sources) ? body.sources.length : 0;
+      turns.push({role:"assistant",content:String(body.answer),
+        mode:explore ? "explore" : "documentary",grounding:grounded,sourceCount:sourceCount});
+      saveTurns();render();notice("guide-stream","");
+      notice("guide-status",grounded === "no_profile_sources" ?
+        "Réponse sans source admissible : hypothèses et inconnues à vérifier, non faits établis." :
+        "Réponse reçue et sources identifiées. La conservation distante reste à vérifier.");
     }).catch(function () {
-      if (stamp === generation && status) status.textContent = "Guide indisponible ; conservation serveur inconnue.";
-    }).then(function () { busy = false; });
+      if (stamp !== generation) return;
+      notice("guide-stream","");
+      notice("guide-status","Réponse interrompue ou incomplète. Réessayez ; la conservation distante reste inconnue.");
+    }).finally(function () {
+      if (stamp === generation) { busy = false; activeController = null; }
+    });
   }
 
   function prepare(act) {
@@ -279,7 +304,11 @@
         "Guide — propositions à étudier :" : "Guide — réponse documentaire :";
       card.innerHTML = "<strong>" + roleLabel + "</strong><p>" + escapeHtml(t.content) + "</p>" +
         (t.provider ? "<small>Agent déclaré : " + escapeHtml(t.provider) + "</small>" : "") +
-        (t.annotation ? "<p>Annotation du visiteur : " + escapeHtml(t.annotation) + "</p>" : "");
+        (t.annotation ? "<p>Annotation du visiteur : " + escapeHtml(t.annotation) + "</p>" : "") +
+        (t.role === "assistant" && t.grounding === "no_profile_sources" ?
+          "<small>Aucune source Capable admissible : hypothèses non vérifiées.</small>" :
+          t.role === "assistant" && t.grounding === "sources_available" ?
+          "<small>" + (t.sourceCount || 0) + " source(s) publiques référencée(s).</small>" : "");
       log.appendChild(card);
     });
   }
@@ -306,6 +335,58 @@
       if (turns[i].role === "user") return turns[i].content;
     }
     return question ? question.value : "";
+  }
+
+  // Reuse the Guide's SSE route: bounded framing, one final committed answer,
+  // human-visible progress, and no storage of incomplete streamed drafts.
+  function postGuideStream(payload, signal, onEvent) {
+    return fetch(GUIDE_BASE + "/guide/chat", {
+      method:"POST",
+      headers:{"Content-Type":"application/json","Accept":"text/event-stream"},
+      body:JSON.stringify(payload),
+      signal:signal
+    }).then(async function (res) {
+      if (!res.ok) throw Error("HTTP " + res.status);
+      var contentType = res.headers && res.headers.get ? res.headers.get("content-type") || "" : "";
+      if (contentType.indexOf("text/event-stream") < 0) return res.json();
+      var answer = null, done = false, errored = false, buffer = "";
+      function receive(frame) {
+        if (!frame.trim()) return;
+        var event = "message", lines = [];
+        frame.split(/\r?\n/).forEach(function (line) {
+          if (line.indexOf("event:") === 0) event = line.slice(6).trim();
+          if (line.indexOf("data:") === 0) lines.push(line.slice(5).trim());
+        });
+        if (!lines.length) return;
+        var data = JSON.parse(lines.join("\n"));
+        if (event === "guide_error") errored = true;
+        if (event === "guide_answer") answer = data;
+        if (event === "done") { done = data.ok === true; if (!done) errored = true; }
+        onEvent(event,data);
+      }
+      function parse(value) {
+        buffer += value;
+        var match;
+        while ((match = /\r?\n\r?\n/.exec(buffer))) {
+          receive(buffer.slice(0,match.index));
+          buffer = buffer.slice(match.index+match[0].length);
+        }
+      }
+      if (res.body && res.body.getReader) {
+        var reader = res.body.getReader(), decoder = new TextDecoder();
+        while (true) {
+          var chunk = await reader.read();
+          if (chunk.done) break;
+          parse(decoder.decode(chunk.value,{stream:true}));
+        }
+        parse(decoder.decode());
+      } else {
+        parse(await res.text());
+      }
+      if (buffer.trim()) receive(buffer);
+      if (!done || errored || !answer) throw Error("incomplete_guide_stream");
+      return answer;
+    });
   }
 
   function postJson(path, payload) {

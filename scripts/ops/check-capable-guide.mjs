@@ -9,7 +9,8 @@ const root = fileURLToPath(new URL("../../", import.meta.url));
 const js = readFileSync(root + "projects/capable/site/guide.js", "utf8");
 const html = readFileSync(root + "projects/capable/site/guide.html", "utf8");
 for (const id of ["retain-local","export-text","export-json","import-json","erase-local",
-  "compose-agent","copy-agent","agent-reply","add-agent-reply","include-agent","send-guide-history"]) {
+  "compose-agent","copy-agent","agent-reply","add-agent-reply","include-agent","send-guide-history",
+  "guide-status","guide-stream"]) {
   assert(html.includes('id="' + id + '"'), "Missing UI control " + id);
 }
 assert(html.includes('value="explore"'));
@@ -50,12 +51,29 @@ function browser() {
     document:doc,localStorage:storage,window:{confirm:()=>true},
     navigator:{clipboard:{writeText(value){copied.push(value);return Promise.resolve();}}},
     URL:{createObjectURL:()=>"/blob",revokeObjectURL(){}},
-    Blob, FileReader:class { readAsText(file){this.result=file.text;this.onload();} },
+    Blob, TextEncoder, TextDecoder, AbortController, FileReader:class { readAsText(file){this.result=file.text;this.onload();} },
     fetch(url,options){
-      requests.push({url,body:JSON.parse(options.body)});
-      return Promise.resolve({ok:true,json:()=>Promise.resolve({
-        answer:"Deux propositions à étudier : A et B ; coûts, objections et vérifications nécessaires.",
-      })});
+      const request=JSON.parse(options.body);
+      requests.push({url,body:request,headers:options.headers});
+      if (!url.endsWith("/guide/chat")) return Promise.resolve({ok:true,json:()=>Promise.resolve({})});
+      const absent=request.question.includes("sans source");
+      const answer="Deux propositions à étudier : A et B ; coûts, objections et vérifications nécessaires.";
+      const frames=[
+        ["guide_status",{stage:"retrieval_batch",message:"Recherche publique..."}],
+        ["guide_retrieval",{source_count:absent?0:1}],
+        ["guide_delta",{content:"Deux propositions à "}],
+        ["guide_delta",{content:"étudier..."}],
+        ["guide_answer",{ok:true,answer,
+          sources:absent?[]:[{source_id:"barons-Mariani:projects/capable/README.md#L1-L3"}],
+          grounding:absent?"no_profile_sources":"sources_available"}],
+        ["done",{ok:true}]
+      ];
+      const bytes=new TextEncoder().encode(frames.map(([name,data])=>
+        "event: "+name+"\\ndata: "+JSON.stringify(data)+"\\n\\n").join("").replace(/\\\\n/g,"\\n"));
+      const chunks=[bytes.slice(0,31),bytes.slice(31,89),bytes.slice(89)];
+      return Promise.resolve({ok:true,headers:{get:()=>"text/event-stream"},
+        body:{getReader(){let i=0;return{read(){return Promise.resolve(i<chunks.length ?
+          {done:false,value:chunks[i++]}:{done:true});}};}}});
     },
   },{filename:"guide.js",timeout:3000});
   return (id)=>doc.getElementById(id);
@@ -67,6 +85,10 @@ get("question").value="Prix de l'essence ?";
 get("ask").events.submit({preventDefault(){}});
 await tick();
 assert.equal(requests.length,1);
+assert.equal(requests[0].body.stream,true);
+assert.equal(requests[0].headers.Accept,"text/event-stream");
+assert(get("guide-status").textContent.includes("sources identifiées"));
+assert.equal(get("guide-stream").textContent,"");
 assert(!store.has("capable-guide-conversation"),"Unconsented retention");
 assert.equal(requests.at(-1).body.history.length,0,"History must not leave by default");
 assert.equal(get("log").children.length,2);
@@ -112,8 +134,14 @@ const beforeLong=requests.length;
 get("ask").events.submit({preventDefault(){}});
 await tick();
 assert.equal(requests.length,beforeLong,"Oversize exploratory question must not be sent");
-assert(get("draft-status").textContent.includes("trop long"));
+assert(get("guide-status").textContent.includes("trop long"));
 assert.equal(get("question").value.length,1199);
+get("explore-switch").checked=false;
+get("question").value="Question sans source";
+get("ask").events.submit({preventDefault(){}});
+await tick();
+assert(get("guide-status").textContent.includes("sans source admissible"));
+assert(get("log").children.at(-1).innerHTML.includes("hypothèses non vérifiées"));
 const previous=store.get("capable-guide-conversation");
 get("export-json").click();
 assert(get("continuity-status").textContent.includes("Export"));
