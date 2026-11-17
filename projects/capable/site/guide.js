@@ -1,7 +1,11 @@
 (function () {
-  var STORAGE_KEY = "capable-guide-conversation";
   var GUIDE_BASE = document.body.getAttribute("data-guide-base") || "https://cogentia.fractavolta.com";
-  var GUIDE_PROFILE = document.body.getAttribute("data-guide-profile") || "capable";
+  var GUIDE_PROFILE = document.body.getAttribute("data-guide-profile") || "living-book";
+  var GUIDE_TITLE = document.body.getAttribute("data-guide-title") || GUIDE_PROFILE;
+  var EXPLORE_RUBRIC = document.body.getAttribute("data-guide-explore-rubric") || "";
+  var STORAGE_KEY = GUIDE_PROFILE + "-guide-conversation";
+  var OPT_IN_KEY = GUIDE_PROFILE + "-guide-opt-in";
+  var IMPORT_KIND = GUIDE_PROFILE + ".guide.local.v1";
 
   var log = document.getElementById("log");
   var form = document.getElementById("ask");
@@ -11,7 +15,7 @@
   var draftBody = document.getElementById("draft-body");
   var status = document.getElementById("draft-status");
   var optedIn = false, generation = 0, busy = false, activeController = null;
-  try { optedIn = localStorage.getItem("capable-guide-opt-in") === "yes"; } catch (e) {}
+  try { optedIn = localStorage.getItem(OPT_IN_KEY) === "yes"; } catch (e) {}
   var turns = loadTurns();
 
   render();
@@ -39,7 +43,8 @@
   if (btnCopy) btnCopy.addEventListener("click", copyDraft);
 
 
-  // Follows Cogentia Personal's local opt-in/export/purge and human-controlled paste pattern.
+  // Shared Living Book Guide. Book-specific copy, scope and editorial frame
+  // are injected by the static HTML attributes, not by a second runtime.
   function el(id) { return document.getElementById(id); }
   function on(id, event, fn) { if (el(id)) el(id).addEventListener(event, fn); }
   function notice(id, text) { if (el(id)) el(id).textContent = text; }
@@ -80,7 +85,9 @@
     if (el("retain-local")) el("retain-local").checked=optedIn;
     try {
       if (!optedIn && localStorage.getItem(STORAGE_KEY)) {
-        notice("continuity-status", "Une conversation de l'ancien Guide existe encore ici. Activez la conservation pour la retrouver, ou effacez-la explicitement.");
+        notice("continuity-status", "Une conversation locale antérieure existe ici. Activez la conservation pour la retrouver, ou effacez-la explicitement.");
+      } else if (!optedIn && typeof sessionStorage !== "undefined" && sessionStorage.getItem(STORAGE_KEY)) {
+        notice("continuity-status", "Un échange de l'ancien Guide existe dans cet onglet. Activez la conservation pour le reprendre avant de fermer l'onglet, ou effacez-le.");
       }
     } catch (e) {}
     on("retain-local","change",function(){
@@ -89,30 +96,39 @@
         if(optedIn) {
           if (!turns.length) {
             var old = localStorage.getItem(STORAGE_KEY);
+            var migratedSession = false;
+            if (!old && typeof sessionStorage !== "undefined") {
+              old = sessionStorage.getItem(STORAGE_KEY);
+              migratedSession = Boolean(old);
+            }
             if (old) {
               var parsed = JSON.parse(old);
               turns = sanitize(Array.isArray(parsed) ? parsed : parsed.turns);
               render();
             }
+            if (migratedSession) {
+              localStorage.setItem(STORAGE_KEY, JSON.stringify({kind:IMPORT_KIND,version:1,turns:turns.slice(-100)}));
+              if (typeof sessionStorage !== "undefined") sessionStorage.removeItem(STORAGE_KEY);
+            }
           }
-          localStorage.setItem("capable-guide-opt-in","yes");
+          localStorage.setItem(OPT_IN_KEY,"yes");
           saveTurns();
         } else {
           localStorage.removeItem(STORAGE_KEY);
-          localStorage.removeItem("capable-guide-opt-in");
+          localStorage.removeItem(OPT_IN_KEY);
         }
         notice("continuity-status",optedIn?"Conservation locale activée.":"Conservation désactivée.");
       } catch(e) {optedIn=false;el("retain-local").checked=false;notice("continuity-status","Stockage indisponible.");}
     });
     on("export-text","click",function(){
-      download("capable-guide.txt","text/plain",turns.map(function(t){
+      download(GUIDE_PROFILE + "-guide.txt","text/plain",turns.map(function(t){
         return (t.role==="external_agent"?"Agent externe non vérifié":t.role==="user"?"Visiteur":"Guide") +
           " :\n"+t.content+(t.annotation?"\nAnnotation : "+t.annotation:"");
       }).join("\n\n---\n\n"));
     });
     on("export-json","click",function(){
-      download("capable-guide.json","application/json",
-        JSON.stringify({kind:"capable.guide.local.v1",version:1,turns:turns},null,2));
+      download(GUIDE_PROFILE + "-guide.json","application/json",
+        JSON.stringify({kind:IMPORT_KIND,version:1,turns:turns},null,2));
     });
     on("import-json","change",function(){
       var f=el("import-json").files&&el("import-json").files[0];
@@ -122,7 +138,7 @@
       reader.onload=function(){
         try{
           var data=JSON.parse(reader.result);
-          if(data.kind!=="capable.guide.local.v1"||data.version!==1)throw Error("format");
+          if(data.kind!==IMPORT_KIND||data.version!==1)throw Error("format");
           var incoming=sanitize(data.turns);
           if(!window.confirm("Remplacer cette conversation par celle du fichier ?"))return;
           generation++;if(activeController)activeController.abort();activeController=null;
@@ -134,7 +150,7 @@
       reader.readAsText(f);
     });
     on("erase-local","click",function(){
-      if(!window.confirm("Effacer la conversation et les clés locales Capable ? Les traces externes et les exports restent indépendants."))return;
+      if(!window.confirm("Effacer la conversation et les clés locales le Livre ? Les traces externes et les exports restent indépendants."))return;
       generation++;if(activeController)activeController.abort();activeController=null;
       busy=false;notice("guide-stream","");turns=[];optedIn=false;
       ["question","agent-prompt","agent-reply","agent-note","draft-body","draft-to","draft-subject"].forEach(function(id){
@@ -144,9 +160,10 @@
       if(el("include-agent"))el("include-agent").checked=false;
       try{
         localStorage.removeItem(STORAGE_KEY);
-        localStorage.removeItem("capable-guide-opt-in");
+        localStorage.removeItem(OPT_IN_KEY);
+        if (typeof sessionStorage !== "undefined") sessionStorage.removeItem(STORAGE_KEY);
         notice("continuity-status",localStorage.getItem(STORAGE_KEY)===null&&
-          localStorage.getItem("capable-guide-opt-in")===null?
+          localStorage.getItem(OPT_IN_KEY)===null?
           "Conversation et clés locales effacées.":"Effacement non vérifié.");
       }catch(e){notice("continuity-status","Effacement local impossible.");}
       render();
@@ -196,8 +213,8 @@
     var history = guideHistory();
     var selected = document.querySelector('input[name="guide-mode"]:checked');
     var explore = selected && selected.value === "explore";
-    var remoteQuestion = explore ? "Explorer ce problème : " + clean +
-        "\nPrésentez au moins deux propositions à étudier (non adoptées). Pour chaque option, exposez faits sourcés ou inconnus, compétences, coûts à vérifier, effets distributifs, objections, décision possible, indicateurs d'effectivité et conditions de correction. Aucune recommandation électorale ni donnée inventée." : clean;
+    var remoteQuestion = explore && EXPLORE_RUBRIC ?
+      "Explorer ce problème : " + clean + "\n" + EXPLORE_RUBRIC : clean;
     if (remoteQuestion.length > 1200) {
       notice("guide-status","Problème trop long pour le Guide : réduisez votre texte ou utilisez votre agent personnel.");
       return;
@@ -224,7 +241,7 @@
       if (event === "guide_retrieval") {
         notice("guide-status",data.source_count ?
           data.source_count + " source(s) publiques sélectionnée(s). Rédaction..." :
-          "Aucune source Capable admissible trouvée : la réponse devra rester hypothétique.");
+          "Aucune source le Livre admissible trouvée : la réponse devra rester hypothétique.");
       }
       if (event === "guide_delta" && typeof data.content === "string") {
         var preview = el("guide-stream");
@@ -276,13 +293,13 @@
         return;
       }
       if (draftTo) draftTo.value = draft.to || "";
-      if (draftSubject) draftSubject.value = draft.subject || "[Observation Capable]";
+      if (draftSubject) draftSubject.value = draft.subject || "[Observation " + GUIDE_TITLE + "]";
       if (draftBody) draftBody.value = draft.body || context;
       if (status) status.textContent = "Brouillon reçu du service distant. Vous pouvez le modifier et le copier, sans envoi automatique.";
     }).catch(function () {
       if (stamp !== generation) return;
       if (draftTo) draftTo.value = "";
-      if (draftSubject) draftSubject.value = "[Observation Capable] " + context.slice(0, 50);
+      if (draftSubject) draftSubject.value = "[Observation " + GUIDE_TITLE + "] " + context.slice(0, 50);
       if (draftBody) draftBody.value = "Contexte de l'observation :\n" + context + "\n\nTrace ou motif opposable :\n";
       if (status) status.textContent = "Modèle de secours inséré localement.";
     });
@@ -318,7 +335,7 @@
         (t.provider ? "<small>Agent déclaré : " + escapeHtml(t.provider) + "</small>" : "") +
         (t.annotation ? "<p>Annotation du visiteur : " + escapeHtml(t.annotation) + "</p>" : "") +
         (t.role === "assistant" && t.grounding === "no_profile_sources" ?
-          "<small>Aucune source Capable admissible : hypothèses non vérifiées.</small>" :
+          "<small>Aucune source le Livre admissible : hypothèses non vérifiées.</small>" :
           t.role === "assistant" && t.grounding === "sources_available" ?
           "<small>" + (t.sourceCount || 0) + " source(s) publiques référencée(s).</small>" : "");
       log.appendChild(card);
@@ -338,7 +355,7 @@
 
   function saveTurns() {
     try {
-      if (optedIn) localStorage.setItem(STORAGE_KEY, JSON.stringify({kind:"capable.guide.local.v1",version:1,turns:turns.slice(-100)}));
+      if (optedIn) localStorage.setItem(STORAGE_KEY, JSON.stringify({kind:IMPORT_KIND,version:1,turns:turns.slice(-100)}));
     } catch (e) {}
   }
 

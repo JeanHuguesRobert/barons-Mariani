@@ -12,6 +12,12 @@ on:
       - "projects/capable/manuscript/**"
       - "projects/capable/site/guide.html"
       - "projects/capable/site/guide.js"
+      - "projects/privai/site/guide.html"
+      - "projects/privai/site/guide.js"
+      - "projects/privai/guide-profile.yml"
+      - "scripts/lib/living-book-guide/**"
+      - "scripts/ops/sync-living-book-guides.mjs"
+      - "scripts/ops/check-privai-guide.mjs"
       - "projects/capable/guide-profile.yml"
       - "scripts/ops/check-capable-guide.mjs"
       - "projects/capable/editions/**"
@@ -229,6 +235,8 @@ jobs:
           git fetch --no-tags origin main
           python3 scripts/ops/check-deploy-capable-working.py
           node scripts/ops/check-capable-guide.mjs
+          node scripts/ops/check-privai-guide.mjs
+          node scripts/ops/sync-living-book-guides.mjs --check
 
   deploy-capable-canonical:
     # Existing preview publication is always public on GitHub Pages.

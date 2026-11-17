@@ -32,7 +32,12 @@ function browser() {
     return n;
   }
   const doc = {
-    body: { getAttribute(key) { return key === "data-guide-profile" ? "capable" : null; } },
+    body: { getAttribute(key) {
+      if (key === "data-guide-profile") return "capable";
+      if (key === "data-guide-title") return "Capable";
+      if (key === "data-guide-explore-rubric") return html.match(/data-guide-explore-rubric="([^"]+)"/)?.[1] || null;
+      return null;
+    } },
     getElementById(id) {
       if (!elements.has(id)) elements.set(id,node());
       return elements.get(id);
@@ -181,7 +186,7 @@ assert.equal(get("log").children.length,0,"Purge persists after reload");
 store.set("capable-guide-conversation",JSON.stringify([{role:"user",content:"Ancien échange local"}]));
 get=browser();
 assert.equal(get("log").children.length,0);
-assert(get("continuity-status").textContent.includes("ancien Guide"));
+assert(get("continuity-status").textContent.includes("antérieure"));
 get("retain-local").checked=true;
 get("retain-local").events.change();
 assert.equal(get("log").children.length,1,"Explicit opt-in restores old conversation");

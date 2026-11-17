@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Guide public — PrivAI</title>
-<meta name="description" content="Le Guide public PrivAI répond à partir du corpus documentaire et prépare un brouillon d'objection ou de contribution. Il n'envoie rien et n'enregistre rien sur un serveur.">
+<meta name="description" content="Le Guide public PrivAI interroge le Corpus public, prépare des brouillons non envoyés et permet une continuité locale volontaire ; la rétention distante n'est pas certifiée.">
 <link rel="stylesheet" href="styles.css">
 </head>
-<body data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="privai">
+<body data-guide-base="https://cogentia.fractavolta.com" data-guide-profile="privai" data-guide-title="PrivAI">
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="site">
   <p class="mark"><a href="index.html">PrivAI</a></p>
@@ -27,20 +27,54 @@
 <main id="contenu">
   <h1>Guide public</h1>
   <p class="pill">Profil privai · corpus borné</p>
-  <p class="lede">Ce Guide interroge le profil public <strong>privai</strong>. Il ne répond qu'à partir des extraits de ce périmètre. Il peut préparer un brouillon. <strong>Il n'envoie rien, n'enregistre rien sur un serveur, et n'engage pas l'auteur.</strong></p>
+  <p class="lede">Ce Guide explore les sources publiques de PrivAI et leurs limites. Une question est transmise au service Cogentia, dont la politique de conservation reste à vérifier. La conversation locale n'est conservée que sur choix explicite ; aucune réponse d'agent personnel, contribution ou objection n'est transmise sans votre action.</p>
 
   <div class="call">
     <p>Le périmètre est <code>projects/privai/</code> plus les sources nommées dans <a href="https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/corpus.yml"><code>corpus.yml</code></a>. La lecture directe reste <a href="n1.html">la projection n°1</a>.</p>
   </div>
 
+  <section class="card" aria-labelledby="continuity-title">
+    <h2 id="continuity-title">Continuité locale facultative</h2>
+    <label><input type="checkbox" id="retain-local"> Conserver cette conversation dans ce navigateur</label>
+    <p>Sur un appareil partagé, d'autres personnes peuvent consulter les données locales. Le nettoyage du navigateur peut les supprimer. Un effacement local ne supprime ni les exports déjà réalisés ni les éventuelles traces sur le service Cogentia ou chez un fournisseur d'IA.</p>
+    <button type="button" class="action-btn" id="export-text">Exporter en texte</button>
+    <button type="button" class="action-btn" id="export-json">Exporter en JSON réimportable</button>
+    <label for="import-json">Importer une conversation JSON</label>
+    <input id="import-json" type="file" accept=".json,application/json">
+    <button type="button" class="action-btn" id="erase-local">Effacer cette conversation</button>
+    <p id="continuity-status" class="status-msg" role="status"></p>
+  </section>
   <div id="log" class="log" aria-live="polite"></div>
+  <label><input type="checkbox" id="send-guide-history"> Transmettre les 20 derniers messages du visiteur et du Guide lors de la prochaine question (facultatif, désactivé par défaut)</label>
 
   <form id="ask">
-    <label for="question">Votre question sur la thèse, un Reality Case ou un principe :</label>
-    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. En quoi l'interdiction de la personnalité politique numérique (Anti-Demos) protège-t-elle le citoyen ?" required></textarea>
+    <label for="question">Votre question sur la souveraineté humaine, l'Anti-Demos ou un Reality Case :</label>
+    <textarea id="question" name="question" rows="3" maxlength="1200" placeholder="Ex. En quoi l'Anti-Demos protège-t-il le pouvoir de décision des personnes physiques ?" required></textarea>
     <button type="submit">Interroger le Guide</button>
+    <button type="button" class="action-btn" id="cancel-guide">Annuler une réponse en cours</button>
   </form>
+  <p id="guide-status" class="status-msg" role="status" aria-live="polite"></p>
+  <div id="guide-stream" class="status-msg" style="white-space:pre-wrap"></div>
 
+  <section class="card" aria-labelledby="agent-title" style="margin-top: 2rem;">
+    <h2 id="agent-title">Poursuivre avec mon agent personnel — facultatif</h2>
+    <p>Composez un prompt, contrôlez et modifiez son contenu, puis copiez-le dans l'agent de votre choix (ChatGPT, Claude, Gemini ou agent local). Le Guide ne contacte pas ce fournisseur. Une réponse collée demeure non vérifiée et n'est renvoyée à Cogentia que si vous choisissez explicitement de l'inclure dans votre prochaine interrogation.</p>
+    <label><input type="checkbox" id="include-guide"> Inclure la dernière réponse du Guide</label>
+    <label><input type="checkbox" id="include-history"> Inclure l'historique documentaire</label>
+    <button type="button" class="action-btn" id="compose-agent">Composer le prompt pour mon agent</button>
+    <label for="agent-prompt">Prompt modifiable avant copie</label>
+    <textarea id="agent-prompt" rows="9"></textarea>
+    <button type="button" class="action-btn" id="copy-agent">Copier le prompt</button>
+    <label for="agent-name">Nom de l'agent utilisé</label>
+    <input id="agent-name" type="text" maxlength="80" placeholder="ChatGPT, Claude, Gemini, agent local…">
+    <label for="agent-reply">Coller la réponse de mon agent (non vérifiée)</label>
+    <textarea id="agent-reply" rows="7" maxlength="15000"></textarea>
+    <label for="agent-note">Mon annotation ou objection (facultative)</label>
+    <textarea id="agent-note" rows="3" maxlength="2000"></textarea>
+    <button type="button" class="action-btn" id="add-agent-reply">Conserver cette réponse dans la conversation</button>
+    <label><input type="checkbox" id="include-agent"> Inclure la dernière réponse externe dans ma prochaine requête au Guide</label>
+    <p id="agent-status" class="status-msg" role="status"></p>
+  </section>
   <section class="draft" aria-labelledby="draft-title">
     <h2 id="draft-title">Brouillon — non envoyé</h2>
     <p>Le texte ci-dessous est préparé par le Guide. Le préparer n'envoie rien. Vous pouvez le modifier, puis le copier pour votre propre courriel ou une issue.</p>
@@ -58,7 +92,7 @@
     <p id="draft-status" class="status" role="status"></p>
   </section>
 </main>
-<footer><p>Aucun journal de questions ni profil privé n'est conservé par cette page.</p></footer>
+<footer><p>Livre Vivant PrivAI · Les données de conversation restent locales si vous choisissez de les conserver ; les requêtes au Guide sont transmises à Cogentia. Durée de rétention serveur non vérifiée. Aucun acte ni publication automatique.</p></footer>
 <script src="guide.js"></script>
 </body>
 </html>

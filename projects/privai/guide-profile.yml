@@ -4,7 +4,7 @@ name: "Guide public — PrivAI"
 base_url: "https://cogentia.fractavolta.com"
 endpoint: "/guide/chat"
 status: registered
-version: "0.1"
+version: "0.2"
 description: >
   Profil d'inférence borné pour l'exploration publique assistée du Livre Vivant PrivAI.
   Ce profil éclaire le lecteur sur la thèse de souveraineté humaine face aux personnes
@@ -17,7 +17,8 @@ invariants:
   risk_levels: "Maintient strictement distincts les 4 niveaux de risque (IA en soi, usage, asymétrie institutionnelle, perte de souveraineté)."
   institutional_frame: "Rappelle que PrivAI est en préfiguration au sein de l'Institut Mariani (émanation R&D de C.O.R.S.I.C.A.) sans exploitation commerciale ni fusion."
   strict_grounding: "Cite systématiquement ses sources parmi les fichiers listés dans le manifeste de corpus."
-  no_user_retention: "N'enregistre aucune mémoire de conversation ni de profil privé sur le serveur."
+  server_retention_unverified: "La conservation des requêtes par Cogentia ou les fournisseurs externes n'est pas vérifiée ; ne jamais promettre zéro rétention serveur."
+  local_opt_in: "La conservation dans le navigateur est facultative et explicite ; export, import et effacement locaux n'impliquent pas de purge distante."
 corpus_manifest: "projects/privai/corpus.yml"
 sources:
   - "projects/privai/manuscript/n1/00-qui-restera-souverain.md"

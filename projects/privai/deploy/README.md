@@ -24,3 +24,9 @@ Conformément à la convention déjà opérationnelle pour `diaspora.acorsica.or
 cd projects/privai/site
 python -m http.server 8791
 ```
+
+## 4. Observations du 17 novembre 2026
+
+Une vérification HTTPS indépendante a confirmé que `guide.html` et `guide.js` de PrivAI sont servis (HTTP 200). L'origine utilise une release immuable `/srv/www/privai/releases/2026-10-05-working` et un lien `current` ; cette vérification n'autorise aucune mise à jour silencieuse de la production.
+
+La mutualisation du Guide avec Capable dans le Corpus produit une **nouvelle projection source**, non une publication de cette projection sur `privai.acorsica.org`. Toute mise en service doit préserver le contenu durable, utiliser un déploiement atomique autorisé et produire des preuves indépendantes (version/source, empreintes HTTP, contrôles réels du Guide). Ne pas confondre état Git, artefact et contenu servi.
