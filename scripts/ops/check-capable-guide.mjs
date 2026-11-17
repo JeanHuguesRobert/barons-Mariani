@@ -10,7 +10,7 @@ const js = readFileSync(root + "projects/capable/site/guide.js", "utf8");
 const html = readFileSync(root + "projects/capable/site/guide.html", "utf8");
 for (const id of ["retain-local","export-text","export-json","import-json","erase-local",
   "compose-agent","copy-agent","agent-reply","add-agent-reply","include-agent","send-guide-history",
-  "guide-status","guide-stream"]) {
+  "guide-status","guide-stream","cancel-guide"]) {
   assert(html.includes('id="' + id + '"'), "Missing UI control " + id);
 }
 assert(html.includes('value="explore"'));
@@ -56,6 +56,9 @@ function browser() {
       const request=JSON.parse(options.body);
       requests.push({url,body:request,headers:options.headers});
       if (!url.endsWith("/guide/chat")) return Promise.resolve({ok:true,json:()=>Promise.resolve({})});
+      if(request.question.includes("ANNULEZ_PROBE"))return new Promise((resolve,reject)=>{
+        if(options.signal)options.signal.addEventListener("abort",()=>reject(Error("aborted")));
+      });
       const absent=request.question.includes("sans source");
       const answer="Deux propositions à étudier : A et B ; coûts, objections et vérifications nécessaires.";
       const frames=[
@@ -143,6 +146,16 @@ get("ask").events.submit({preventDefault(){}});
 await tick();
 assert(get("guide-status").textContent.includes("sans source admissible"));
 assert(get("log").children.at(-1).innerHTML.includes("hypothèses non vérifiées"));
+const beforeCancel=get("log").children.length;
+get("question").value="ANNULEZ_PROBE";
+get("ask").events.submit({preventDefault(){}});
+assert.equal(get("log").children.length,beforeCancel+1);
+get("cancel-guide").click();
+await tick();
+assert(get("guide-status").textContent.includes("annulée localement"));
+assert.equal(get("guide-stream").textContent,"");
+assert.equal(get("log").children.length,beforeCancel+1,
+  "Cancellation must not create a misleading assistant turn");
 const previous=store.get("capable-guide-conversation");
 get("export-json").click();
 assert(get("continuity-status").textContent.includes("Export"));

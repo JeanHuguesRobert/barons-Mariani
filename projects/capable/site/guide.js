@@ -151,6 +151,12 @@
       }catch(e){notice("continuity-status","Effacement local impossible.");}
       render();
     });
+    on("cancel-guide","click",function(){
+      if(!busy || !activeController)return;
+      generation++;activeController.abort();activeController=null;busy=false;
+      notice("guide-stream","");
+      notice("guide-status","Réponse annulée localement. Le traitement distant peut avoir déjà commencé.");
+    });
     on("compose-agent","click",function(){
       var problem=lastUserText()||(question&&question.value.trim());
       if(!problem)return notice("agent-status","Formulez d'abord une question.");
@@ -200,6 +206,9 @@
     busy = true;
     activeController = typeof AbortController === "function" ? new AbortController() : null;
     var controller = activeController;
+    var timedOut = false;
+    var watchdog = controller && typeof setTimeout === "function" ?
+      setTimeout(function(){timedOut = true; controller.abort();},90000) : null;
     turns.push({role:"user", content:clean, mode:explore ? "explore" : "documentary"});
     saveTurns();
     render();
@@ -236,8 +245,11 @@
     }).catch(function () {
       if (stamp !== generation) return;
       notice("guide-stream","");
-      notice("guide-status","Réponse interrompue ou incomplète. Réessayez ; la conservation distante reste inconnue.");
+      notice("guide-status",timedOut ?
+        "Délai de 90 secondes dépassé ; réponse interrompue, conservation distante inconnue." :
+        "Réponse interrompue ou incomplète. Réessayez ; la conservation distante reste inconnue.");
     }).finally(function () {
+      if (watchdog !== null && typeof clearTimeout === "function") clearTimeout(watchdog);
       if (stamp === generation) { busy = false; activeController = null; }
     });
   }
@@ -366,6 +378,7 @@
       }
       function parse(value) {
         buffer += value;
+        if (buffer.length > 65536) throw Error("guide_stream_frame_too_large");
         var match;
         while ((match = /\r?\n\r?\n/.exec(buffer))) {
           receive(buffer.slice(0,match.index));
