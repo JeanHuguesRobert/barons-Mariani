@@ -143,3 +143,7 @@ Le **2 octobre 1753** se trouve étayé simultanément par la recherche de Bitos
 3. Vérifier, par fac-similés et cotes précises, les correspondances **ASGe Archivio Segreto 2072** des 5, 6, 8, 10 et 31 octobre et les pièces de novembre–décembre 1753 ; séparer intention, accord, protection et paiement.
 4. Rechercher les **registres des Capucins et les traces des premières obsèques entre le 2 et le 8 octobre**, distinctes de la cérémonie du 24 ; lever l'incertitude sur la localisation réelle de la sépulture.
 5. Relever l'emplacement de l'ancienne habitation de Gaffori, du chantier mentionné par Romei et du chemin « près des Capucins » sur plans contemporains ou cadastraux.
+
+### Localisation de l'édition de la lettre n° 86 (contrôle bibliographique)
+
+Le catalogue universitaire M3C référence l'ouvrage **Pascal Paoli, *Correspondance : La prise du pouvoir 1749–1756***, édition scientifique bilingue (410 pages), avec les lettres à partir de la p. 47 et les index en fin d'ouvrage : [notice M3C](https://m3c.universita.corsica/s/fr/item/68492). **C'est la première édition à consulter pour la lettre n° 86 du 19 octobre 1755**. Ni l'extrait en ligne repéré ni la notice de catalogue ne permettent pour l'instant de citer le texte original de la lettre : ne pas prétendre avoir vérifié ses mots exacts. La lettre n° 86 reste connue indirectement par Miceli.
