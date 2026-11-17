@@ -3,7 +3,7 @@ title: "Une loi ne vaut que par ses effets"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-last_modified_at: '2026-11-12'
+last_modified_at: "2026-11-17"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/03-effectivite.md
 status: draft
 language: "fr"
@@ -50,6 +50,16 @@ Lorsque des effets significatifs deviennent connus, la question devient : **qui 
 Le Corpus suit alors le chemin : écart → signal → connaissance → autorité capable → délai raisonnable → réexamen → décision traçable → nouveau Reality Test.
 
 > **L’effectivité n’interdit pas l’erreur ; elle exige que l’erreur observable puisse devenir matière à correction.**
+
+## En démocratie aussi, c'est en forgeant qu'on devient forgeron
+
+On ne peut pas attendre des citoyens qu'ils maîtrisent un pouvoir qu'ils n'ont jamais réellement pu exercer. **L'exercice de la souveraineté est aussi un apprentissage** : débattre, décider, éprouver les résultats, reconnaître une erreur, modifier sa décision. Une démocratie directe n'aurait aucune raison de devenir parfaite dès son premier jour. Sa réussite se jugerait notamment à sa capacité de progresser par l'expérience, sans confisquer à nouveau le pouvoir aux intéressés sous prétexte de leur inexpérience.
+
+Cela rejoint le principe de *Skin in the Game* : ceux qui prennent ou délèguent des décisions devraient être réellement confrontés à leurs conséquences. Les citoyens subissent souvent les effets quotidiens de lois qu'ils ne peuvent corriger directement ; rapprocher la décision de ceux qui en supportent les effets peut réduire cette asymétrie. Il ne faut toutefois pas prétendre que les coûts sont également répartis : des enfants, des minorités et des générations futures peuvent subir des décisions auxquelles ils n'ont pas pris part. La responsabilité des mandataires, la protection des droits et l'évaluation des dommages restent donc indispensables.
+
+**Tenter pour savoir** n'est ni ignorer les risques ni promettre la réussite. Les risques de l'action doivent être comparés à ceux de l'inaction. La prudence doit être proportionnée à la gravité et à l'irréversibilité possibles, sans transformer chaque scénario dystopique concevable en veto préalable. L'imprévu sera parfois différent des dangers imaginés ; la capacité de détecter, de contredire et de corriger importe donc autant que la prévention.
+
+La [Loi de Tocqueville généralisée](../../../research/tocqueville_law.md) ouvre une hypothèse supplémentaire : **une première amélioration réellement expérimentée peut élever les attentes et rendre les limites restantes moins acceptables**. Cette dynamique ne garantit ni une nouvelle revendication, ni une mobilisation, ni son succès. Elle constitue une hypothèse sociopolitique à éprouver, dans l'esprit de la [Seconde Méthode](../../../research/second_method.md) et de la [Responsabilité d'effectivité](../../../research/responsabilite_effectivite.md).
 
 ## Une correction qui ne dépende pas de la vertu des mandataires
 
