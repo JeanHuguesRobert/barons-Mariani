@@ -81,6 +81,10 @@ def main():
         assert "magazine.html" in (active / "en-preparation.html").read_text()
         assert "annexes.html" in (active / "en-preparation.html").read_text()
 
+        for name in ("guide.html", "guide.js"):
+            content = (active / name).read_bytes()
+            assert receipt["guide_assets_sha256"][name] == hashlib.sha256(content).hexdigest()
+        assert b'id="compose-agent"' in (active / "guide.html").read_bytes()
         assert receipt["source_sha256"] == new["source_sha256"]
         assert len(list(releases.iterdir())) == 2
         again = run(revision, root, True)

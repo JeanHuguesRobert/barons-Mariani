@@ -10,6 +10,10 @@ on:
       - "research/methode_terrains_feconds.md"
       - "research/noyau_doctrinal_rendre_capable.md"
       - "projects/capable/manuscript/**"
+      - "projects/capable/site/guide.html"
+      - "projects/capable/site/guide.js"
+      - "projects/capable/guide-profile.yml"
+      - "scripts/ops/check-capable-guide.mjs"
       - "projects/capable/editions/**"
       - "projects/capable/doctrine/**"
       - "projects/capable/magazine/**"
@@ -224,6 +228,7 @@ jobs:
           set -euo pipefail
           git fetch --no-tags origin main
           python3 scripts/ops/check-deploy-capable-working.py
+          node scripts/ops/check-capable-guide.mjs
 
   deploy-capable-canonical:
     # Existing preview publication is always public on GitHub Pages.

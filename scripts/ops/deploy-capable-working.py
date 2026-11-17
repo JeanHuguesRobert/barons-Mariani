@@ -22,6 +22,7 @@ DEFAULT_SITE = Path("/srv/www/capable")
 PREFIX = "previews/en-preparation/"
 PREVIEW = ("capable.html", "capable.pdf", "capable.epub",
            "capable-formats.json", "manifest.json")
+GUIDE_ASSETS = ("guide.html", "guide.js")
 
 
 def digest(data):
@@ -92,7 +93,14 @@ def read_candidate(repo, revision):
             or 'Dossiers de recherche A1' not in annexes_page
             or 'cases.html' not in annexes_page):
         raise ValueError("Annexes source page is not current")
-    return files, item, site_page, case_page, magazine_page, annexes_page
+    guide_assets = {
+        name: git_blob(repo, revision, "projects/capable/site/" + name)
+        for name in GUIDE_ASSETS
+    }
+    if (b'id="compose-agent"' not in guide_assets["guide.html"]
+            or b'capable-guide-opt-in' not in guide_assets["guide.js"]):
+        raise ValueError("Guide assets lack continuity and paste bridge")
+    return files, item, site_page, case_page, magazine_page, annexes_page, guide_assets
 
 
 def new_homepage(old):
@@ -139,7 +147,7 @@ def perform(repo, site_root, revision, apply):
     ).strip()
     if ref != revision:
         raise ValueError("origin/main advanced; refresh and retry")
-    files, item, site_page, case_page, magazine_page, annexes_page = read_candidate(repo, revision)
+    files, item, site_page, case_page, magazine_page, annexes_page, guide_assets = read_candidate(repo, revision)
     resolved = site_root.resolve()
     releases = resolved / "releases"
     current = resolved / "current"
@@ -162,6 +170,7 @@ def perform(repo, site_root, revision, apply):
         files["capable.epub"] + new_page.encode("utf-8") +
         case_page.encode("utf-8") + magazine_page.encode("utf-8") +
         annexes_page.encode("utf-8") + new_home.encode("utf-8") +
+        b"".join(guide_assets[name] for name in GUIDE_ASSETS) +
         "".join(durable_hashes.values()).encode("ascii")
     )[:16]
     dest = releases / f"capable-work-{version}"
@@ -176,6 +185,7 @@ def perform(repo, site_root, revision, apply):
         "case_page_sha256": digest(case_page.encode("utf-8")),
         "magazine_page_sha256": digest(magazine_page.encode("utf-8")),
         "annexes_page_sha256": digest(annexes_page.encode("utf-8")),
+        "guide_assets_sha256": {name: digest(guide_assets[name]) for name in GUIDE_ASSETS},
         "files": {name: digest(files[name]) for name in PREVIEW},
     }
     if not apply:
@@ -224,6 +234,8 @@ def perform(repo, site_root, revision, apply):
                     annexes_page, encoding="utf-8"
                 )
                 (staging / "index.html").write_text(new_home, encoding="utf-8")
+                for name in GUIDE_ASSETS:
+                    (staging / name).write_bytes(guide_assets[name])
                 (staging / "candidate-deploy.json").write_text(
                     json.dumps(results, indent=2, ensure_ascii=False) + "\n",
                     encoding="utf-8"

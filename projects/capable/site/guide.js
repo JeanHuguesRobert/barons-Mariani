@@ -10,9 +10,12 @@
   var draftSubject = document.getElementById("draft-subject");
   var draftBody = document.getElementById("draft-body");
   var status = document.getElementById("draft-status");
+  var optedIn = false, generation = 0, busy = false;
+  try { optedIn = localStorage.getItem("capable-guide-opt-in") === "yes"; } catch (e) {}
   var turns = loadTurns();
 
   render();
+  installBridge();
 
   if (form) {
     form.addEventListener("submit", function (event) {
@@ -35,11 +38,144 @@
   var btnCopy = document.getElementById("copy-draft");
   if (btnCopy) btnCopy.addEventListener("click", copyDraft);
 
+
+  // Follows Cogentia Personal's local opt-in/export/purge and human-controlled paste pattern.
+  function el(id) { return document.getElementById(id); }
+  function on(id, event, fn) { if (el(id)) el(id).addEventListener(event, fn); }
+  function notice(id, text) { if (el(id)) el(id).textContent = text; }
+  function sanitize(list) {
+    if (!Array.isArray(list) || list.length > 500) throw Error("invalid list");
+    return list.map(function (t) {
+      if (!t || ["user","assistant","external_agent"].indexOf(t.role) < 0 ||
+        typeof t.content !== "string" || t.content.length > 15000) throw Error("invalid turn");
+      return {role:t.role, content:t.content, mode:t.mode === "explore" ? "explore":"documentary",
+        provider:typeof t.provider === "string" ? t.provider.slice(0,80) : "",
+        annotation:typeof t.annotation === "string" ? t.annotation.slice(0,2000) : ""};
+    });
+  }
+  function last(role) {
+    for (var i=turns.length-1;i>=0;i--) if (turns[i].role === role) return turns[i];
+    return null;
+  }
+  function guideHistory() {
+    var list = turns.filter(function (t) {return t.role==="user"||t.role==="assistant";})
+      .map(function (t) {return {role:t.role,content:t.content};}).slice(-20);
+    if (el("include-agent") && el("include-agent").checked && last("external_agent")) {
+      var pasted=last("external_agent");
+      list.push({role:"user",content:"Texte externe non vérifié, collé par le visiteur : " +
+        pasted.content + (pasted.annotation?"\nAnnotation : "+pasted.annotation:"")});
+    }
+    return list;
+  }
+  function download(name,mime,content) {
+    var url=URL.createObjectURL(new Blob([content],{type:mime+";charset=utf-8"}));
+    var a=document.createElement("a");
+    a.href=url;a.download=name;a.click();URL.revokeObjectURL(url);
+    notice("continuity-status","Export téléchargé localement.");
+  }
+  function installBridge() {
+    if (el("retain-local")) el("retain-local").checked=optedIn;
+    on("retain-local","change",function(){
+      optedIn=el("retain-local").checked;
+      try {
+        if(optedIn) {
+          localStorage.setItem("capable-guide-opt-in","yes");
+          saveTurns();
+        } else {
+          localStorage.removeItem(STORAGE_KEY);
+          localStorage.removeItem("capable-guide-opt-in");
+        }
+        notice("continuity-status",optedIn?"Conservation locale activée.":"Conservation désactivée.");
+      } catch(e) {optedIn=false;el("retain-local").checked=false;notice("continuity-status","Stockage indisponible.");}
+    });
+    on("export-text","click",function(){
+      download("capable-guide.txt","text/plain",turns.map(function(t){
+        return (t.role==="external_agent"?"Agent externe non vérifié":t.role==="user"?"Visiteur":"Guide") +
+          " :\n"+t.content+(t.annotation?"\nAnnotation : "+t.annotation:"");
+      }).join("\n\n---\n\n"));
+    });
+    on("export-json","click",function(){
+      download("capable-guide.json","application/json",
+        JSON.stringify({kind:"capable.guide.local.v1",version:1,turns:turns},null,2));
+    });
+    on("import-json","change",function(){
+      var f=el("import-json").files&&el("import-json").files[0];
+      if(!f)return;
+      if(f.size>1048576)return notice("continuity-status","Import refusé : fichier trop volumineux.");
+      var reader=new FileReader();
+      reader.onload=function(){
+        try{
+          var data=JSON.parse(reader.result);
+          if(data.kind!=="capable.guide.local.v1"||data.version!==1)throw Error("format");
+          var incoming=sanitize(data.turns);
+          if(!window.confirm("Remplacer cette conversation par celle du fichier ?"))return;
+          generation++;busy=false;turns=incoming;saveTurns();render();
+          notice("continuity-status","Conversation importée ; aucune transmission.");
+        }catch(e){notice("continuity-status","Import refusé : format ou contenu non valide.");}
+      };
+      reader.onerror=function(){notice("continuity-status","Fichier illisible.");};
+      reader.readAsText(f);
+    });
+    on("erase-local","click",function(){
+      if(!window.confirm("Effacer la conversation et les clés locales Capable ? Les traces externes et les exports restent indépendants."))return;
+      generation++;busy=false;turns=[];optedIn=false;
+      ["question","agent-prompt","agent-reply","agent-note","draft-body","draft-to","draft-subject"].forEach(function(id){
+        if(el(id))el(id).value="";
+      });
+      if(el("retain-local"))el("retain-local").checked=false;
+      if(el("include-agent"))el("include-agent").checked=false;
+      try{
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem("capable-guide-opt-in");
+        notice("continuity-status",localStorage.getItem(STORAGE_KEY)===null&&
+          localStorage.getItem("capable-guide-opt-in")===null?
+          "Conversation et clés locales effacées.":"Effacement non vérifié.");
+      }catch(e){notice("continuity-status","Effacement local impossible.");}
+      render();
+    });
+    on("compose-agent","click",function(){
+      var problem=lastUserText()||(question&&question.value.trim());
+      if(!problem)return notice("agent-status","Formulez d'abord une question.");
+      var prompt=["Analyse indépendante, sans action externe. Distinguez sources, faits, hypothèses, objections et corrections.",
+        "Problème du visiteur :\n"+problem];
+      if(el("include-guide").checked&&last("assistant"))
+        prompt.push("Réponse du Guide (non certifiée) :\n"+last("assistant").content);
+      if(el("include-history").checked)
+        prompt.push("Historique choisi :\n"+turns.filter(function(t){return t.role!=="external_agent";})
+          .map(function(t){return (t.role==="user"?"Visiteur":"Guide")+" : "+t.content;}).join("\n"));
+      prompt.push("Proposez plusieurs options à étudier, les faits à contrôler et les conditions de correction. Aucune option n'est adoptée.");
+      el("agent-prompt").value=prompt.join("\n\n");
+      notice("agent-status","Prompt modifiable, préparé localement sans envoi.");
+    });
+    on("copy-agent","click",function(){
+      var prompt=el("agent-prompt").value;
+      if(!prompt.trim())return notice("agent-status","Composez d'abord le prompt.");
+      if(navigator.clipboard&&navigator.clipboard.writeText)
+        navigator.clipboard.writeText(prompt).then(function(){notice("agent-status","Prompt copié, sans contact externe.");})
+          .catch(function(){notice("agent-status","Copie impossible : sélectionnez le texte.");});
+      else {el("agent-prompt").focus();el("agent-prompt").select();notice("agent-status","Copiez la sélection manuellement.");}
+    });
+    on("add-agent-reply","click",function(){
+      var content=el("agent-reply").value.trim();
+      if(!content)return notice("agent-status","Collez une réponse.");
+      turns.push({role:"external_agent",content:content.slice(0,15000),
+        provider:(el("agent-name").value.trim()||"Agent personnel").slice(0,80),
+        annotation:el("agent-note").value.trim().slice(0,2000)});
+      saveTurns();render();el("agent-reply").value="";
+      notice("agent-status","Réponse externe conservée séparément, non transmise au Guide.");
+    });
+  }
+
   function ask(text) {
     var clean = String(text || "").trim();
     if (!clean || !question) return;
-    var history = turns.slice();
-    turns.push({ role: "user", content: clean });
+    if (busy) return;
+    var history = guideHistory();
+    var selected = document.querySelector('input[name="guide-mode"]:checked');
+    var explore = selected && selected.value === "explore";
+    var stamp = ++generation;
+    busy = true;
+    turns.push({role:"user", content:clean, mode:explore ? "explore" : "documentary"});
     saveTurns();
     render();
     question.value = "";
@@ -47,17 +183,19 @@
     postJson("/guide/chat", {
       profile: GUIDE_PROFILE,
       locale: "fr",
-      question: clean,
+      question: explore ? "Explorer ce problème : " + clean +
+        "\nPrésentez au moins deux propositions à étudier (non adoptées). Pour chaque option, exposez faits sourcés ou inconnus, compétences, coûts à vérifier, effets distributifs, objections, décision possible, indicateurs d'effectivité et conditions de correction. Aucune recommandation électorale ni donnée inventée." : clean,
       history: history
     }).then(function (body) {
+      if (stamp !== generation) return;
       var answer = body && body.answer ? String(body.answer) : "Le Guide n'a pas pu formuler de réponse basée sur le corpus. La question peut avoir été transmise au service distant.";
-      turns.push({ role: "assistant", content: answer });
+      turns.push({role:"assistant",content:answer,mode:explore ? "explore" : "documentary"});
       saveTurns();
       render();
       if (status) status.textContent = "Réponse affichée. Aucun envoi à un tiers ; la politique de conservation du service distant doit être vérifiée.";
     }).catch(function () {
-      if (status) status.textContent = "Le Guide distant ne répond pas. La transmission ou la conservation de la requête par le serveur ne peuvent pas être déterminées.";
-    });
+      if (stamp === generation && status) status.textContent = "Guide indisponible ; conservation serveur inconnue.";
+    }).then(function () { busy = false; });
   }
 
   function prepare(act) {
@@ -66,25 +204,28 @@
       if (status) status.textContent = "Posez d'abord une question ou formulez l'objet de votre observation.";
       return;
     }
-    if (status) status.textContent = "Préparation du brouillon : le contexte est transmis au service distant. Aucun message au destinataire.";
+    var stamp = generation;
+    if (status) status.textContent = "Préparation du brouillon : contexte transmis au service distant. Aucun envoi à un tiers.";
     postJson("/guide/prepare-act", {
       profile: GUIDE_PROFILE,
       act: act,
       locale: "fr",
       context: context,
-      history: turns
+      history: guideHistory()
     }).then(function (body) {
+      if (stamp !== generation) return;
       var draft = body && body.prepared_act;
       if (!draft || draft.executed !== false) {
         if (status) status.textContent = "Préparation non autorisée par le profil.";
         return;
       }
-      if (draftTo) draftTo.value = draft.to || "contact@lepp.fr";
+      if (draftTo) draftTo.value = draft.to || "";
       if (draftSubject) draftSubject.value = draft.subject || "[Observation Capable]";
       if (draftBody) draftBody.value = draft.body || context;
       if (status) status.textContent = "Brouillon reçu du service distant. Vous pouvez le modifier et le copier, sans envoi automatique.";
     }).catch(function () {
-      if (draftTo) draftTo.value = "contact@lepp.fr";
+      if (stamp !== generation) return;
+      if (draftTo) draftTo.value = "";
       if (draftSubject) draftSubject.value = "[Observation Capable] " + context.slice(0, 50);
       if (draftBody) draftBody.value = "Contexte de l'observation :\n" + context + "\n\nTrace ou motif opposable :\n";
       if (status) status.textContent = "Modèle de secours inséré localement.";
@@ -114,16 +255,22 @@
     turns.forEach(function (t) {
       var card = document.createElement("div");
       card.className = "msg " + t.role;
-      var roleLabel = t.role === "user" ? "Votre question :" : "Le Guide (corpus Capable) :";
-      card.innerHTML = "<strong>" + roleLabel + "</strong><p>" + escapeHtml(t.content) + "</p>";
+      var roleLabel = t.role === "user" ? "Visiteur :" : t.role === "external_agent" ?
+        "Agent personnel — réponse externe non vérifiée :" : t.mode === "explore" ?
+        "Guide — propositions à étudier :" : "Guide — réponse documentaire :";
+      card.innerHTML = "<strong>" + roleLabel + "</strong><p>" + escapeHtml(t.content) + "</p>" +
+        (t.provider ? "<small>Agent déclaré : " + escapeHtml(t.provider) + "</small>" : "") +
+        (t.annotation ? "<p>Annotation du visiteur : " + escapeHtml(t.annotation) + "</p>" : "");
       log.appendChild(card);
     });
   }
 
   function loadTurns() {
     try {
+      if (!optedIn) return [];
       var raw = localStorage.getItem(STORAGE_KEY);
-      return raw ? JSON.parse(raw) : [];
+      var parsed = raw ? JSON.parse(raw) : [];
+      return sanitize(Array.isArray(parsed) ? parsed : parsed.turns);
     } catch (e) {
       return [];
     }
@@ -131,7 +278,7 @@
 
   function saveTurns() {
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(turns.slice(-10)));
+      if (optedIn) localStorage.setItem(STORAGE_KEY, JSON.stringify({kind:"capable.guide.local.v1",version:1,turns:turns.slice(-100)}));
     } catch (e) {}
   }
 
