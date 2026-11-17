@@ -13,6 +13,7 @@ document_role: source
 document_kind: research-note
 visibility: public
 lifecycle_state: working
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/triangulation_du_reel.md
 related_documents:
   - research/le_reel_le_virtuel_et_l_actuel.md
   - research/realite_operationnelle_et_reflexivite.md
