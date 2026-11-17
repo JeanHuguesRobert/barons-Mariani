@@ -16,6 +16,10 @@ visibility: public
 
 # Registre des sources et bibliographie critique de 1755
 
+## Notices critiques du corpus
+
+- [Jean-Pierre Gaffori — notice biographique critique](notice-jean-pierre-gaffori.md) : sources contradictoires 1704/1710, chronologie politique 1745–1753, généalogie et mémoire funéraire distinctes. Document de travail, non preuve primaire.
+
 ## 1. Sources primaires d'archives
 
 | Identifiant | Dépôt d'archives / Institution | Description de la source | Rôle probatoire |
