@@ -98,8 +98,10 @@ def read_candidate(repo, revision):
         for name in GUIDE_ASSETS
     }
     if (b'id="compose-agent"' not in guide_assets["guide.html"]
-            or b'capable-guide-opt-in' not in guide_assets["guide.js"]):
-        raise ValueError("Guide assets lack continuity and paste bridge")
+            or b'data-guide-profile="capable"' not in guide_assets["guide.html"]
+            or b'GUIDE_PROFILE + "-guide-opt-in"' not in guide_assets["guide.js"]
+            or b'function postGuideStream' not in guide_assets["guide.js"]):
+        raise ValueError("Guide assets lack scoped opt-in continuity or SSE")
     return files, item, site_page, case_page, magazine_page, annexes_page, guide_assets
 
 
