@@ -3,7 +3,7 @@ title: "Capable — Métaprogramme politique génératif"
 author: "Institut Mariani / C.O.R.S.I.C.A. — proposition de formalisation à revue par Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-11-11"
-last_modified_at: '2026-11-16'
+last_modified_at: "2026-11-17"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md
 status: "working-paper"
 language: fr
@@ -247,6 +247,16 @@ Le projet [KYS du désir d'agir](https://github.com/JeanHuguesRobert/cogentia/is
 **Architecture projetée :** le navigateur local conserve les traces et compose algorithmiquement des prompts en langage naturel contenant la grammaire ; **l'agent conversationnel choisi par l'usager** réalise seul les jugements et propose les approfondissements ; l'usager corrige, refuse, suspend ou poursuit. Un format JSON éventuel n'est qu'une annexe de continuité, jamais un obstacle pour le lecteur. Le site public Capable n'a pas à recevoir ces réflexions privées. Le transfert éventuel d'une préoccupation vers l'atelier collectif est explicite, sélectif et révocable.
 
 **Hypothèse à éprouver :** un bénéfice capacitaire doit être constaté par des exercices concrets et la possibilité croissante de se passer d'assistance, non par la durée de session, l'adhésion à Capable ou un score de conformité politique. Les fournisseurs d'agents externes appliquent leurs propres politiques de données, à annoncer loyalement. Ces fonctions restent **en planification**, pas déployées ni validées.
+
+## 9 ter. Le Guide du Livre Vivant : une grammaire que l'on peut pratiquer
+
+Le métaprogramme n'est pas seulement une méthode décrite dans un texte. Il peut s'incarner dans la face **Agent conversationnel** du Livre Vivant. Un visiteur formule son problème en langage ordinaire — « Que pourrait-on faire pour le prix de l'essence ? » — sans devoir connaître le vocabulaire doctrinal. Le Guide peut alors l'aider à produire plusieurs **propositions à étudier**, distinctes d'engagements officiellement adoptés : besoins, faits et incertitudes, solutions concurrentes, compétences et moyens, objections, conséquences, critères d'évaluation et possibilité de révision. Le lecteur peut contester une option ou demander des sources ; aucune réponse générée ne vaut à elle seule décision politique.
+
+Deux usages restent distingués : **interroger le Livre** (restituer et citer des sources établies) et **explorer un problème** (formuler de nouvelles hypothèses, signalées comme telles). Les conversations peuvent être conservées volontairement dans le navigateur, exportées et effacées localement. Cette possibilité ne vaut pas garantie d'effacement des traitements réalisés par un fournisseur distant.
+
+Le visiteur peut également faire entrer **son propre agent conversationnel**, s'il le souhaite, dans la discussion : il sélectionne les éléments à copier, poursuit avec ChatGPT ou un autre agent, puis peut ramener une réponse dans le Guide. Ce dialogue triangulaire n'exige, dans sa première forme, ni API entre fournisseurs ni profilage. **Le visiteur reste maître du transfert, de la contradiction et de toute contribution éventuelle**. L'agent externe n'acquiert pas d'autorité sur le Corpus et aucune conversation n'est publiée automatiquement.
+
+**Chantier d'implémentation et de déploiement :** [Cogentia #337](https://github.com/JeanHuguesRobert/cogentia/issues/337), en coordination avec [Cogentia #274](https://github.com/JeanHuguesRobert/cogentia/issues/274), [Cogentia #313](https://github.com/JeanHuguesRobert/cogentia/issues/313) et [Capable #152](https://github.com/JeanHuguesRobert/barons-Mariani/issues/152). Cette section décrit une cible fonctionnelle, **pas une capacité déjà démontrée en production**.
 
 ## 10. Mise en œuvre incrémentale
 
