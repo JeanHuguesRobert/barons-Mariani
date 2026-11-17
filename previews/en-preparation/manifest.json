@@ -5,15 +5,15 @@
     {
       "id": "capable",
       "page": "capable.html",
-      "source_sha256": "386a1ffe7c60f63ec58a64874281b6ad5d9eb81da2b603fcd1464a578769a3d6",
+      "source_sha256": "7c1de0060b6238739bc6cb309f29cdf5863fccdce685e01f9e522d363824d198",
       "inputs": [
         {
           "path": "projects/capable/manuscript/00-ouverture.md",
-          "sha256": "0c124a12f125cddfe14580507b37d38f4984a3f576705e20174d6aebec40378a"
+          "sha256": "cca2d31a3370b3c9aa891a5410fcb0f7faf2b187b4da7a9ef568e03b7ac1d92a"
         },
         {
           "path": "projects/capable/manuscript/01-capable-est-un-adjectif.md",
-          "sha256": "d1a3e75748fc0cbf9b4278089b39434b43abe76307fdb216e4e2e1b249731c14"
+          "sha256": "fa72b8f04983a0839d579e2fc77da7ce91173d871d91472d414134c2dbbcc1e1"
         },
         {
           "path": "projects/capable/manuscript/02-subsidiarite-rendue-effective.md",
@@ -21,11 +21,11 @@
         },
         {
           "path": "projects/capable/manuscript/03-effectivite.md",
-          "sha256": "42a2e2ed5e3c5326ca4de34db05ad2b84a17d75908b7ed7178c8c612c1c1d109"
+          "sha256": "b146e752dacaa559118a8846d76f1da1dcf621f29ca080935cf369d0fe9f20f9"
         },
         {
           "path": "projects/capable/manuscript/04-liberte-egalite-fraternite-effectives.md",
-          "sha256": "5fbb3ce604ea6f6bff458a8e0095037e966c39710a8a4752cd86a27214bf0dd2"
+          "sha256": "118699c73356ca63cd959bbc5f9fefedd6f92e7498b77766985346cde3d49f5e"
         },
         {
           "path": "projects/capable/manuscript/05-machines-et-correction.md",
@@ -45,7 +45,7 @@
         },
         {
           "path": "projects/capable/manuscript/09-communs-et-moyens.md",
-          "sha256": "6b9e6f5fa65b857c2f1926a1043b150c7796eb421f70d4bd0001a9e8aa6bce26"
+          "sha256": "2eba3158bc0cef99a2779aa7b1c78c389a75e4ee2e441b3959475edfa6cbfedf"
         },
         {
           "path": "projects/capable/manuscript/10-capable-test.md",
@@ -77,7 +77,7 @@
         },
         {
           "path": "projects/capable/magazine/2026-11-13-qui-choisit-agenda-politique.md",
-          "sha256": "c118599282528959aca2f6ea15dc663e8b70449b272f6929980492b4e0b864dc"
+          "sha256": "5cad88c856312b1ff34978e56d63fdecc1424a53bbda25669aaed0bb8e25a914"
         },
         {
           "path": "projects/capable/magazine/2026-11-13-ia-contradiction-et-autonomie.md",
@@ -85,7 +85,7 @@
         },
         {
           "path": "projects/capable/magazine/2026-11-13-bleu-de-chine-appartenances.md",
-          "sha256": "d9e261d8ecaf672af692b3bcf045ab8bccfe1dcb4b4e837d067c9eb50a4aa443"
+          "sha256": "61015b4b16cc75b01b0f9fb13d3af5651fcc0d89144a1631609fc7696d06405a"
         },
         {
           "path": "projects/capable/magazine/2026-10-05-epreuve-de-l-effectivite.md",
@@ -137,23 +137,23 @@
         },
         {
           "path": "projects/capable/doctrine/revision_constitutionnelle_article_72.md",
-          "sha256": "1dd8b9746c2148b9db1a53b31085c65dea00648e6f03c4846b7a2863ae7a38df"
+          "sha256": "728c84f81d0db14bd4d0c7cd0a1a7786d1d40e769159b1fbecc4396c6d53ef8f"
         },
         {
-          "path": "projects/capable/doctrine/metaprogramme-politique-generatif-2026-11-11.md",
-          "sha256": "dccb2b117bdd8a3a0803b8de4588b9236039afc143d7720dcf726fff05ef8a43"
+          "path": "projects/capable/doctrine/metaprogramme-politique-generatif.md",
+          "sha256": "9a35b499b5c7127c70bf878e599446f68598b6eef81f6f9d0cfb9542c411f7d9"
         },
         {
           "path": "research/autonomia/grammaire_autonomie_de_capacite.md",
-          "sha256": "bd98e3da40b5fb4bbe0045def6771b3851086e3af8918ca239be0717dd5e512c"
+          "sha256": "36adcf5e263c984b06777eee95c4a706977e0952ff8e4291f16a03f0882d3f27"
         },
         {
           "path": "projects/capable/annexes/2026-11-13-recherches-decisions-et-objections.md",
-          "sha256": "cd785488d24302ef43d2d08f3d2d10c451b6e2a9b3cf255b22024974544c8133"
+          "sha256": "da364ae938ca832c8eeadb47e88e7436fb2cf94059d9505eca4f11a328e51f59"
         },
         {
           "path": "projects/capable/editions/2026-10-28-projection-candidate-n1.md",
-          "sha256": "5f695552bfccc3e7923ea0a70c8edc9f395114e20ed4dcebab920e6b0a308e76"
+          "sha256": "1049c7cf5d88a0172f9526f3aa4486c84a3ce66c9e81a009d0a9d042399d0e5c"
         }
       ]
     },
