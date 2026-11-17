@@ -4,8 +4,8 @@ subtitle: Croiser des accès partiels, indépendants et hétérogènes pour cons
 author: Jean Hugues Noël Robert, baron Mariani
 affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica
 date: '2026-09-06'
-version: '0.6'
-last_modified_at: '2026-11-16'
+version: '0.7'
+last_modified_at: '2026-11-17'
 status: working-note — explicititation of latent corpus principle
 language: fr
 license: CC BY-SA 4.0
@@ -21,6 +21,7 @@ related_documents:
   - research/democratie_capable.md
   - research/reality_safety_procedural_stabilizers.md
   - research/principe_effectivite.md
+  - research/dialogue_vivants_morts_corse_note_preliminaire.md
 tags:
   - reel
   - epistemologie
@@ -100,6 +101,14 @@ Le proverbe « chacun voit midi à sa porte » peut alors être lu comme un rapp
 Cette limite vaut pour un témoin, un expert, une institution, une discipline, une langue, un modèle statistique ou un agent artificiel. L'autorité, la cohérence interne, la familiarité ou la conviction ne remplacent pas la confrontation à des accès suffisamment distincts.
 
 La réponse rationnelle n'est donc ni la confiance aveugle dans une représentation, ni le scepticisme généralisé. Elle consiste à **rendre les représentations comparables, contestables et corrigibles**.
+
+### 1.2. Reconstruire les causes de ses propres actes
+
+Le récit conscient d'une décision n'est pas nécessairement un accès direct et fiable aux processus qui l'ont produite. Nisbett et Wilson (*Telling More Than We Can Know*, 1977, [DOI](https://doi.org/10.1037/0033-295X.84.3.231)) documentent les limites de certains rapports introspectifs. Johansson et al. (*Failure to Detect Mismatches Between Intention and Outcome in a Simple Decision Task*, 2005, [DOI](https://doi.org/10.1126/science.1111709)) montrent que, dans un protocole expérimental de « choice blindness », des participants peuvent justifier une option présentée comme la leur alors qu'elle a été substituée. Ces résultats **n'établissent pas que toute introspection est fausse**, ni que la conscience se réduit au sentiment de certitude.
+
+Une explication a posteriori peut être **sincère, plausible et causalement erronée**. Le sentiment de certitude analysé par Burton n'en garantit pas la vérité. La reconstruction peut cependant devenir elle-même une cause en orientant les décisions futures : cette boucle réflexive constitue une piste d'étude distincte de la détermination des causes initiales.
+
+L'[intériorisation approximative des morts](dialogue_vivants_morts_corse_note_preliminaire.md) présente une analogie méthodologique : un vivant reconstruit les intentions d'un défunt à partir de traces, comme il peut reconstruire celles de son propre passé. Mais les deux situations n'offrent pas les mêmes sources, droits de contestation ni possibilités de correction. Un jumeau numérique ajoute un troisième interprète, avec ses propres biais et capacités. La **provenance des traces**, leur chronologie, leur indépendance et leur confrontation au contrefactuel sont nécessaires pour distinguer récit, causalité et attribution.
 
 ## 2. Définition
 
