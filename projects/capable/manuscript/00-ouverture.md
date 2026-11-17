@@ -2,6 +2,7 @@
 title: "Ouverture — De quoi voulons-nous être capables ?"
 author: "Jean Hugues Noël Robert"
 date: "2026-10-03"
+last_modified_at: "2026-11-17"
 status: "working-draft"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -9,6 +10,7 @@ document_role: "derived"
 document_kind: "manuscript-chapter"
 visibility: "public"
 lifecycle_state: "working"
+update_policy: UP-DEFAULT-REVIEWED
 provenance:
   origin_type: "corpus-synthesis"
   origin_repository: "JeanHuguesRobert/barons-Mariani"
@@ -42,6 +44,16 @@ Le Corpus appelle **écart d’effectivité** la distance entre ce qui est forme
 Cette question vaut à plusieurs échelles : personne, collectif, commune, territoire, institution, État ou réseau. Le sujet change ; la structure de la question demeure.
 
 Le Livre ne promet pas un résultat. Il propose une méthode : rendre les capacités observables, leurs conditions explicites, leurs obstacles contestables et leurs effets corrigibles.
+
+## Redonner l'espoir, c'est rendre l'action possible
+
+L'espoir politique ne devrait pas dépendre d'un chef qui prétend posséder les bonnes réponses. Il devrait reposer sur une possibilité plus solide : **nous pouvons nous donner les moyens de chercher les réponses ensemble et de changer ce qui ne fonctionne pas**. Une situation insatisfaisante n'est pas nécessairement une fatalité.
+
+Ce Livre ne part pas de l'hypothèse que le peuple serait infaillible. Il fait un autre pari : **les citoyens peuvent apprendre à exercer leur souveraineté en l'exerçant**. Comme tout apprentissage, celui-ci comportera des hésitations, des désaccords et des erreurs. La question décisive n'est pas de supprimer par avance toute erreur imaginable, mais de permettre de la découvrir, d'en limiter les conséquences lorsque c'est nécessaire et de la corriger.
+
+La première victoire à rechercher n'est donc pas l'adoption d'un programme réputé parfait : c'est l'ouverture d'une **capacité démocratique nouvelle, visible et utilisable**, qui rende crédibles les progrès suivants.
+
+Cette hypothèse prolonge les [clarifications sur le Possibilisme et l'espérance](../doctrine/clarifications-possibilisme-souverainete-2026-11-09.md) et la [Loi de Tocqueville généralisée](../../../research/tocqueville_law.md) ; elle ne garantit pas le succès d'une mobilisation populaire.
 
 ## Trois rôles à ne pas confondre
 
