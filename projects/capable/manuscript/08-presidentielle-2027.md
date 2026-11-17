@@ -3,7 +3,7 @@ title: "Présidentielle 2027 — seconde campagne"
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A."
 date: "2026-10-03"
-last_modified_at: '2026-11-12'
+last_modified_at: "2026-11-17"
 canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/manuscript/08-presidentielle-2027.md
 status: draft
 language: "fr"
@@ -80,6 +80,16 @@ La [proposition publique Capable de révision de l'article 72](../doctrine/revis
 La voie référendaire envisagée ne contourne pas l'article 89 : sous sa procédure normale, **Assemblée nationale et Sénat doivent d'abord voter un texte identique**. Une élection présidentielle n'équivaut pas juridiquement à l'adoption de chaque disposition du projet. Une mobilisation civique libre et pacifique peut peser politiquement, sans modifier les conditions du droit.
 
 Ce projet national reste distinct de la contribution associative historique sur le projet corse d'article 72-5. Son objet est une République plus adaptable et des garanties vérifiables, non la promesse d'une autonomie ou d'une correction instantanée.
+
+## Le pari institutionnel : finalité d'abord, moyens ensuite
+
+La stratégie constitutionnelle de Capable prend la République au mot : **Liberté, Égalité, Fraternité doivent être jugées à leurs effets, non seulement à leur proclamation.** Le texte proposé pour l'article 72 applique cette exigence à un objet délibérément circonscrit : la subsidiarité, l'adaptation des règles territoriales et une responsabilité publique d'effectivité. Il ne crée pas, à lui seul, de droit national général au RIC, ni une obligation indifférenciée de résultat pour toute politique publique. Sa portée juridique effective dépendrait de la rédaction finalement adoptée, des textes d'application et de leur contrôle.
+
+Ce choix rencontre le débat sur la décentralisation à l'endroit où se négocie la répartition du pouvoir entre l'État, le Parlement et les collectivités. Mais **transférer du pouvoir aux élus locaux n'est pas encore en donner aux habitants**. À la différence d'un transfert général de pouvoir législatif à une assemblée territoriale, la proposition conserve la fonction législative au Parlement et cherche à imposer des garanties d'instruction, de motivation, d'évaluation et de réexamen. Elle reste ouverte sur les moyens supplémentaires de démocratie directe que les citoyens pourraient ensuite demander et que les institutions compétentes auraient à examiner selon les procédures applicables.
+
+C'est un **pari**, non une assurance : si une première garantie constitutionnelle était adoptée, la population pourrait constater qu'un changement des règles est possible. Une première capacité réellement utilisable pourrait favoriser l'apprentissage démocratique et susciter de nouvelles exigences, conformément à l'hypothèse de la [Loi de Tocqueville généralisée](../../../research/tocqueville_law.md). Elle pourrait également ne produire aucun progrès significatif ; il faudrait alors le rendre visible et en tirer les conséquences politiques. La mobilisation populaire, même en cas de déception, ne se décrète pas. Elle dépend de la confiance dans les possibilités d'agir, des occasions de participer et des moyens collectifs disponibles.
+
+Une élection présidentielle ne constitue pas juridiquement un mandat impératif donné aux députés, et l'article 89 impose l'accord des deux assemblées sur une révision. La stratégie repose donc sur la **conviction politique que le peuple peut devenir capable d'exiger et de défendre les changements désirés**, sans prétendre que cette conviction dispense de respecter les procédures constitutionnelles. Cette analyse politique ne modifie pas le texte de la [proposition de l'article 72](../doctrine/revision_constitutionnelle_article_72.md).
 
 ## Transparence sur les présentations
 
