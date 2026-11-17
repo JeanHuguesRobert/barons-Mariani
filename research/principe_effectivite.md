@@ -13,6 +13,7 @@ document_role: "source"
 document_kind: "doctrinal-note"
 visibility: "public"
 lifecycle_state: "working"
+canonical_url: https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/research/principe_effectivite.md
 update_policy: "UP-DEFAULT-REVIEWED"
 review:
   status: "unreviewed"
