@@ -288,6 +288,18 @@ jobs:
           public=json.loads(Path('public-candidate-deploy.json').read_text())
           assert deployed['source_sha256']==public['source_sha256']
           assert deployed['release']==public['release']
+          assert deployed.get('guide_assets_sha256'), 'Production deployer outdated: Guide untracked'
+          assert deployed['guide_assets_sha256']==public.get('guide_assets_sha256')
+          import hashlib, urllib.request
+          for name, expected in deployed['guide_assets_sha256'].items():
+              with urllib.request.urlopen('https://capable.acorsica.org/'+name,timeout=20) as response:
+                  assert response.status==200,(name,response.status)
+                  content=response.read()
+              assert hashlib.sha256(content).hexdigest()==expected,'Guide mismatch: '+name
+              if name=='guide.html':
+                  assert b'id="compose-agent"' in content and b'id="retain-local"' in content
+              elif name=='guide.js':
+                  assert b'capable-guide-opt-in' in content and b'external_agent' in content
           print('CANONICAL_HTTP_RECEIPT_VERIFIED',public['release'])
           PY2
           for ext in html pdf epub; do
