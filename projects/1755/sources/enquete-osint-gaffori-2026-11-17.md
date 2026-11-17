@@ -99,3 +99,47 @@ Son travail s'appuie sur **Archivio di Stato di Genova (ASGe), Archivio Segreto 
 6. **Bibliographie à récupérer** : Pierre Marini « Jean-Pierre Gaffori en 1745 » (BSSHNC 1920, p. 81–113) ; Giacomo Santo Lorenzi « L'uccisione di Giampietro Gaffori » (ASC 1938, p. 405–414) ; Pierre Lepidi, *Héros de la révolution de Corse 1729–1769*, chapitres Gaffori et Romei (lecture intégrale non effectuée).
 
 **Limitation :** enquête OSINT documentaire et bibliographique. Ni l'étude Bitossi ni les reproductions municipales ne dispensent de contrôler les originaux. Aucune conclusion génétique ou archéologique sur la dépouille.
+
+
+## Complément probatoire — confrontation directe des références (17 novembre 2026)
+
+### Pièce-pivot du projet universitaire : la correspondance Paoli–Casabianca du 19 octobre 1755
+
+La [publication scientifique d'Erick Miceli dans *LUMI*](https://lumi.univ-corse.fr/la-creation-de-luniversita-vue-par-les-agents-de-lintelligence-genoise-a-rome-1755-1765/), paragraphes « L'Università dans les discours révolutionnaires », **notes 25 et 28**, identifie les deux références au mémoire de Gaffori et à la récupération de ses papiers comme une **même pièce** : **lettre n° 86 de Pascal Paoli à Gian Quilico Casabianca du 19 octobre 1755**. Il s'agit d'une lettre publiée ou référencée par l'historien, **dont la transcription intégrale et le témoin manuscrit n'ont pas été examinés ici**. C'est la cible prioritaire de contrôle de la chaîne de transmission.
+
+| Date / support | Source localisée par Miceli | Portée et prudence |
+|---|---|---|
+| Avril 1736 | Biblioteca Universitaria di Sassari, **MS 257**, *Costituzione del Regno di Corsica*, note 19 | Le projet d'université précède Gaffori et Paoli. |
+| 14 janvier / 7 mai 1749 | Consulta et négociations avec Cursay ; **Bibliothèque patrimoniale de Bastia, MS Kerenveyer**, demandes de la consulte d'Oletta, note 23 | Projet pédagogique défendu dans le contexte de Gaffori ; consulter manuscrit. |
+| 19 novembre 1750 | **Archivio di Stato di Genova, Corsica, 1471/29**, lettre de Forcioli, Roccatagliata, Bianchi, Colonna d'Istria, Pozzo di Borgo et Celli, note 22 | Une initiative éducative indépendante dans le Delà-des-Monts ; n'en pas attribuer l'idée à Gaffori seul. |
+| Autour de 1753 / octobre 1755 | **Lettre n° 86 de Paoli à Gian Quilico Casabianca, 19 octobre 1755**, notes 25 et 28 | Miceli lui attribue la connaissance du mémoire de Gaffori et sa transmission par la veuve Faustina Maria Matra avec médiation de Paolo Casabianca ; contrôler texte, énonciateur et degré d'explicitation. |
+| Mai 1755–mai 1756 | **ASGe, Archivio Segreto, 2397**, dépêches de Scipione Giuseppe Casale ; **Biblioteca Civica Berio**, **r. r. VII 3 43**, avec copie **ASGe Corsica 1371**, notes 30–35 | Projet éducatif concurrent de Monticello défendu à Rome par Antonio Graziani ; ne pas l'absorber dans une filiation univoque. |
+
+**Rectification d'une inférence ancienne :** chez Miceli, l'identification du « prêtre Casabianca » des échanges romains avec le docteur Paolo Casabianca est explicitement **spéculative**, et non un fait acquis. En revanche, l'identification de la lettre du 19 octobre est bibliographiquement explicite. Une transmission de papiers relatée par un historien n'établit pas encore quelle partie exacte du programme de Gaffori Paoli a effectivement reprise.
+
+### Relecture rapprochée de Bitossi : assassinat, abri génois et responsabilités
+
+[Carlo Bitossi, *Assassinio politico o vendetta?* (2019), PDF](https://www.storiapatriagenova.it/Docs/Biblioteca_Digitale/SB/5e8c2948172f5c5e0abcd9e8f49f6f79/Estratti/badabf0a683fd05552fc496d2d8b63f9.pdf), **pp. 237–240** :
+
+- **ASGe, Archivio Segreto 2072**, **Mambilla à Grimaldi, Calvi, 5 octobre 1753** ; **Grimaldi à Mambilla, Bastia, 6 octobre** ; **Mambilla à Grimaldi, Calvi, 8 octobre** ; **Grimaldi au Doge et aux Collegi, Bastia, 8 et 10 octobre**.
+- Le commissaire Grimaldi écrit avoir été **averti à l'avance du projet d'attentat**, après des approches de Domenico Antonietti, et avoir offert une protection et une gratification aux meurtriers, tout en cherchant à maintenir secrète l'implication des autorités. Les pièces citées apportent ainsi **davantage qu'une simple coïncidence entre vendetta privée et accueil postérieur des meurtriers**. Ne pas confondre ces aveux circonstanciés rapportés par l'article avec la preuve d'un ordre collégial explicite du gouvernement génois, qui n'est pas produite ici.
+- Les informations concernant une inhumation **circulent déjà dans les correspondances de Calvi datées du 8 octobre**, d'après le rapport de Mambilla, mais cette mention est **indirecte, non localisée et non authentifiée par un registre funéraire**.
+- Le compte rendu de **Giacomo Giovanni Martinetti à Grimaldi du 31 octobre**, **ASGe 2072**, décrit une **cérémonie funéraire solennelle le 24 octobre 1753**, une oraison du **chanoine Orticoni sur la place** et une réunion politique des chefs au **palais**. La tenue de la cérémonie le 24 octobre **ne démontre pas une inhumation ce jour-là**, et la place de l'oraison ne démontre pas la localisation de la tombe ; ce point corrige une ambiguïté de la version antérieure du dossier.
+- Après cette cérémonie, les chefs décident d'**abolir le titre de Général** et de revenir à une direction collégiale siégeant à Corte ; Martinetti décrit le différend sur la légalité de la mise à mort d'Anton Francesco et la prise de position de **Clemente Paoli contre une condamnation hors procédure** (Bitossi, pp. 245–246).
+- En **novembre–décembre 1753**, les Romei reçoivent une protection et des subsides en Ligurie (Sarzanello/Sarzana) d'après les correspondances reproduites (Bitossi, pp. 247–250). La protection matérielle est documentée, indépendamment de l'interprétation des motifs initiaux.
+
+### Piste topographique inédite pour l'enquête du couvent
+
+Le [*Journal de la Corse*](https://www.journaldelacorse.corsica/articles/1872/lassassinat-de-giovan-pietro-gaffori), dans une **traduction publiée de la déposition attribuée à Giambattista Romei**, datée du 3 novembre 1753, situe la rencontre mortelle **près des Capucins**, auprès d'un groupe de compagnons, prêtres, maçons et ouvrières liés à une construction. Cette narration est **un témoignage hostile rétrospectif**, à confronter à son manuscrit source et à Bitossi ; elle ne prouve **ni** que le crime eut lieu dans une chapelle **ni** que la dépouille fut inhumée au couvent. Elle fournit en revanche une **topographie du dernier déplacement** à contrôler à l'aide de la voirie et du parcellaire anciens.
+
+### Correction importante sur la date de l'assassinat
+
+Le **2 octobre 1753** se trouve étayé simultanément par la recherche de Bitossi, les correspondances très rapprochées (5–10 octobre) et la déposition de Romei publiée, où la date est explicitement donnée. Les autres variantes historiographiques (3 octobre / novembre) restent archivées comme variantes, mais ne doivent pas être artificiellement placées au même niveau de preuve.
+
+### Documents ciblés pour la prochaine passe
+
+1. Obtenir **l'édition et le témoin matériel de la lettre Paoli n° 86 du 19 octobre 1755** ; transcrire les phrases pertinentes dans leur langue d'origine et dater l'accès effectif de Paoli aux papiers.
+2. Récupérer le **MS 257 de Sassari** et les demandes **Kerenveyer à Bastia** pour établir l'antériorité éducative de 1736 et 1749.
+3. Vérifier, par fac-similés et cotes précises, les correspondances **ASGe Archivio Segreto 2072** des 5, 6, 8, 10 et 31 octobre et les pièces de novembre–décembre 1753 ; séparer intention, accord, protection et paiement.
+4. Rechercher les **registres des Capucins et les traces des premières obsèques entre le 2 et le 8 octobre**, distinctes de la cérémonie du 24 ; lever l'incertitude sur la localisation réelle de la sépulture.
+5. Relever l'emplacement de l'ancienne habitation de Gaffori, du chantier mentionné par Romei et du chemin « près des Capucins » sur plans contemporains ou cadastraux.
