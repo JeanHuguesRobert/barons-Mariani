@@ -6,7 +6,7 @@ affiliation: Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Co
 date: '2026-09-06'
 version: '0.7'
 last_modified_at: '2026-11-17'
-status: working-note — explicititation of latent corpus principle
+status: working-paper — explicitation du principe latent du Corpus
 language: fr
 license: CC BY-SA 4.0
 document_role: source
