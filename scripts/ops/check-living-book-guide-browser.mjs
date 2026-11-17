@@ -94,7 +94,7 @@ try{
     "  const events=[['guide_status',{stage:'retrieval',message:'Recherche en cours'}],",
     "    ['guide_retrieval',{source_count:absent?0:1}],",
     "    ['guide_delta',{content:'Réponse partielle'}],",
-    "    ['guide_answer',{ok:true,answer,sources:absent?[]:[{source_id:sourceId}],grounding:absent?'no_profile_sources':'sources_available'}],",
+    "    ['guide_answer',{ok:true,answer,sources:absent?[]:[{source_id:sourceId,title:data.profile+' source',github_url:'https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/'+data.profile+'/README.md#L1-L4'}],grounding:absent?'no_profile_sources':'sources_available'}],",
     "    ['done',{ok:true}]];",
     "  const nl=String.fromCharCode(10);",
     "  const raw=events.map(([event,payload])=>'event: '+event+nl+'data: '+JSON.stringify(payload)+nl+nl).join('');",
@@ -119,6 +119,8 @@ try{
   await cdp("Input.insertText",{text:"Quelle est la doctrine Capable ?"});
   await evaluate("document.querySelector('#ask button[type=submit]').click()");
   await wait("document.getElementById('log').children.length===2");
+  assert.equal(await evaluate("document.querySelector('#log .guide-sources a')?.hostname"),"github.com",
+    "Real browser must expose public source links");
   assert.equal(await evaluate("window.__guideTestCalls[0].profile"),"capable");
   assert.equal(await evaluate("window.__guideTestCalls[0].history.length"),0);
   assert.equal(await evaluate("localStorage.getItem('capable-guide-conversation')"),null);

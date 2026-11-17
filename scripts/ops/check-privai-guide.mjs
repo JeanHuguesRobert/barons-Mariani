@@ -67,7 +67,9 @@ function boot() {
         ["guide_retrieval",{source_count:1}],
         ["guide_delta",{content:"Réponse initiale"}],
         ["guide_answer",{ok:true,answer:"Analyse PrivAI avec citation.",
-          sources:[{source_id:"barons-Mariani:projects/privai/README.md#L1-L5"}],
+          sources:[{source_id:"barons-Mariani:projects/privai/README.md#L1-L5",
+            title:"PrivAI — Présentation",
+            github_url:"https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/README.md#L1-L5"}],
           grounding:"sources_available"}],
         ["done",{ok:true}]
       ];
@@ -103,6 +105,9 @@ get("retain-local").events.change();
 assert(local.has("privai-guide-conversation"));
 get=boot();
 assert.equal(get("log").children.length,2,"Opt-in continuity after reload");
+assert.equal(get("log").children.at(-1).children[0].children[1].href,
+  "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/privai/README.md#L1-L5",
+  "Source URL must survive reload");
 get("agent-reply").value="Réponse non vérifiée d'un agent externe";
 get("add-agent-reply").click();
 get("question").value="Suite documentaire";

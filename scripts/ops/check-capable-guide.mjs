@@ -72,7 +72,9 @@ function browser() {
         ["guide_delta",{content:"Deux propositions à "}],
         ["guide_delta",{content:"étudier..."}],
         ["guide_answer",{ok:true,answer,
-          sources:absent?[]:[{source_id:"barons-Mariani:projects/capable/README.md#L1-L3"}],
+          sources:absent?[]:[{source_id:"barons-Mariani:projects/capable/README.md#L1-L3",
+            title:"Capable — Introduction",
+            github_url:"https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/README.md#L1-L3"}],
           grounding:absent?"no_profile_sources":"sources_available"}],
         ["done",{ok:true}]
       ];
@@ -104,6 +106,9 @@ assert.equal(get("guide-stream").textContent,"");
 assert(!store.has("capable-guide-conversation"),"Unconsented retention");
 assert.equal(requests.at(-1).body.history.length,0,"History must not leave by default");
 assert.equal(get("log").children.length,2);
+assert.equal(get("log").children.at(-1).children[0].children[1].href,
+  "https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/README.md#L1-L3",
+  "Source must be clickable");
 get("retain-local").checked=true;
 get("retain-local").events.change();
 assert(store.has("capable-guide-conversation"));
@@ -115,6 +120,8 @@ assert(!get("agent-prompt").value.includes("Deux propositions"),"Unselected Guid
 get("include-guide").checked=true;
 get("compose-agent").click();
 assert(get("agent-prompt").value.includes("Deux propositions"));
+assert(get("agent-prompt").value.includes("https://github.com/JeanHuguesRobert/barons-Mariani/blob/main/projects/capable/README.md"),
+  "Selected Guide content must carry source provenance");
 get("copy-agent").click();await tick();
 assert.equal(copied.length,1);
 get("agent-name").value="Claude";
