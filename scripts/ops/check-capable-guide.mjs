@@ -68,8 +68,9 @@ function browser() {
           grounding:absent?"no_profile_sources":"sources_available"}],
         ["done",{ok:true}]
       ];
+      const nl=String.fromCharCode(10);
       const bytes=new TextEncoder().encode(frames.map(([name,data])=>
-        "event: "+name+"\\ndata: "+JSON.stringify(data)+"\\n\\n").join("").replace(/\\\\n/g,"\\n"));
+        "event: "+name+nl+"data: "+JSON.stringify(data)+nl+nl).join(""));
       const chunks=[bytes.slice(0,31),bytes.slice(31,89),bytes.slice(89)];
       return Promise.resolve({ok:true,headers:{get:()=>"text/event-stream"},
         body:{getReader(){let i=0;return{read(){return Promise.resolve(i<chunks.length ?
