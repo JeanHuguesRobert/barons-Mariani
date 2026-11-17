@@ -4,8 +4,8 @@ subtitle: "De la validité formelle à la confrontation gouvernée avec le Réel
 author: "Jean Hugues Noël Robert"
 affiliation: "Institut Mariani / C.O.R.S.I.C.A., 1 cours Paoli, F-20250 Corte, Corsica"
 date: "2026-09-27"
-last_modified_at: '2026-11-12'
-version: "0.1-draft"
+last_modified_at: '2026-11-17'
+version: "0.2-draft"
 status: "working-paper"
 language: "fr"
 license: "CC BY-SA 4.0"
@@ -44,6 +44,11 @@ related_documents:
   - "research/autonomia/assistance_non_directive_capacitaire.md"
   - "projects/capable/README.md"
   - "research/responsabilite_effectivite.md"
+  - "research/dialogue_vivants_morts_corse_note_preliminaire.md"
+  - "research/presencology.md"
+  - "research/potentics.md"
+  - "research/le_reel_le_virtuel_et_l_actuel.md"
+  - "research/triangulation_du_reel.md"
 ---
 
 # Principe d’effectivité
@@ -381,6 +386,20 @@ On peut donc dire :
 > **La loi commande selon les formes du droit ; le Réel répond sur ses effets.**
 
 Cette distinction relie le Principe d’effectivité à la doctrine **Le Réel répond** et à la Seconde Méthode sans réduire le droit à une expérimentation permanente ni subordonner sa validité à des indicateurs conjoncturels.
+
+---
+
+## 8 bis. Des lois aux êtres : extension exploratoire de l'effectivité
+
+La maxime « une loi ne vaut que par ses effets » vise la **valeur pratique d'une norme**, sans confondre légalité, effectivité et conséquences. Une extension philosophique est envisageable : **un être, biologique ou non, manifeste une part de sa présence opératoire par les différences qu'il produit, maintient ou rend possibles dans le Réel**. Cela inclut des effets indirects ou différés, sans supposer une intention consciente à chaque maillon de la chaîne causale.
+
+**Cette extension n'est ni une définition exhaustive de l'existence, ni une mesure de la valeur morale d'un être humain.** La dignité d'une personne ne dépend pas de son utilité, de sa visibilité ou de ses performances. De même, l'effectivité d'une représentation ne démontre ni sa vérité, ni son identité avec son référent, ni son droit d'agir au nom de celui-ci.
+
+Le cas des morts en offre un test : des traces de paroles et d'actes peuvent être **intériorisées approximativement** par des vivants qui, en les interprétant, produisent de nouveaux effets et de nouvelles traces. On peut alors parler d'une continuité causale *médiée* sans postuler une survie de conscience ou de volonté. Le [travail sur la présence sociale des morts](dialogue_vivants_morts_corse_note_preliminaire.md) en propose une application anthropologique, encore exploratoire.
+
+Les simulacres et les jumeaux numériques rendent cette médiation interactive : une représentation peut produire des sorties inédites et parfois des actes efficaces. La **réalité de ses effets** doit être distinguée de la **fidélité de sa simulation**, de l'**autonomie de son fonctionnement** et de la **légitimité de son mandat**. Le [Réel, le Virtuel et l'Actuel](le_reel_le_virtuel_et_l_actuel.md) éclaire la différence entre virtuel et faux ; la [Presencology](presencology.md) étudie les modalités de présence ; la [Potentique](potentics.md) les possibles ouverts ou fermés ; la [Triangulation du Réel](triangulation_du_reel.md) les conditions d'une attribution causale contrôlable.
+
+**Objection ouverte :** constater des effets ne suffit pas à isoler leur cause. Les contrefactuels, les intermédiaires, les traces manquantes et les réinterprétations exigent des enquêtes et des objections. L'extension proposée est un **programme de recherche**, et non la preuve qu'un mort agirait directement ou qu'une simulation serait une personne.
 
 ---
 
