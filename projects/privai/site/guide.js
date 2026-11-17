@@ -57,9 +57,25 @@
         provider:typeof t.provider === "string" ? t.provider.slice(0,80) : "",
         annotation:typeof t.annotation === "string" ? t.annotation.slice(0,2000) : "",
         grounding:["no_profile_sources","sources_available"].indexOf(t.grounding)>=0 ? t.grounding : "not_applicable",
-        sourceCount:Number.isInteger(t.sourceCount) ? Math.max(0,Math.min(50,t.sourceCount)) : 0};
+        sourceCount:Number.isInteger(t.sourceCount) ? Math.max(0,Math.min(50,t.sourceCount)) : 0,
+        sources:sanitizeSources(t.sources)};
     });
   }
+  // Preserve public provenance without trusting URLs from imported transcripts.
+  function sanitizeSources(items) {
+    if (!Array.isArray(items)) return [];
+    return items.slice(0,12).map(function(item) {
+      if (!item || typeof item.source_id !== "string" || !item.source_id.trim()) return null;
+      var raw = String(item.github_url || item.url || "").slice(0,1200);
+      var safe = /^https:\/\/[^\s<>"']+$/i.test(raw) ? raw : "";
+      return {
+        source_id:item.source_id.slice(0,400),
+        title:typeof item.title === "string" ? item.title.slice(0,180) : "",
+        url:safe
+      };
+    }).filter(Boolean);
+  }
+
   function last(role) {
     for (var i=turns.length-1;i>=0;i--) if (turns[i].role === role) return turns[i];
     return null;
@@ -179,8 +195,15 @@
       if(!problem)return notice("agent-status","Formulez d'abord une question.");
       var prompt=["Analyse indépendante, sans action externe. Distinguez sources, faits, hypothèses, objections et corrections.",
         "Problème du visiteur :\n"+problem];
-      if(el("include-guide").checked&&last("assistant"))
-        prompt.push("Réponse du Guide (non certifiée) :\n"+last("assistant").content);
+      if(el("include-guide").checked&&last("assistant")) {
+        var selectedGuide=last("assistant");
+        prompt.push("Réponse du Guide (non certifiée) :\n"+selectedGuide.content);
+        if(selectedGuide.sources&&selectedGuide.sources.length)
+          prompt.push("Références publiques indiquées par le Guide (à vérifier) :\n"+
+            selectedGuide.sources.map(function(source){
+              return source.source_id+(source.url?"\n"+source.url:"");
+            }).join("\n"));
+      }
       if(el("include-history").checked)
         prompt.push("Historique choisi :\n"+turns.filter(function(t){return t.role!=="external_agent";})
           .map(function(t){return (t.role==="user"?"Visiteur":"Guide")+" : "+t.content;}).join("\n"));
@@ -241,7 +264,7 @@
       if (event === "guide_retrieval") {
         notice("guide-status",data.source_count ?
           data.source_count + " source(s) publiques sélectionnée(s). Rédaction..." :
-          "Aucune source le Livre admissible trouvée : la réponse devra rester hypothétique.");
+          "Aucune source admissible dans ce Livre trouvée : la réponse devra rester hypothétique.");
       }
       if (event === "guide_delta" && typeof data.content === "string") {
         var preview = el("guide-stream");
@@ -254,7 +277,8 @@
         body.sources && body.sources.length ? "sources_available" : "no_profile_sources";
       var sourceCount = Array.isArray(body.sources) ? body.sources.length : 0;
       turns.push({role:"assistant",content:String(body.answer),
-        mode:explore ? "explore" : "documentary",grounding:grounded,sourceCount:sourceCount});
+        mode:explore ? "explore" : "documentary",grounding:grounded,sourceCount:sourceCount,
+        sources:sanitizeSources(body.sources)});
       saveTurns();render();notice("guide-stream","");
       notice("guide-status",grounded === "no_profile_sources" ?
         "Réponse sans source admissible : hypothèses et inconnues à vérifier, non faits établis." :
@@ -335,9 +359,33 @@
         (t.provider ? "<small>Agent déclaré : " + escapeHtml(t.provider) + "</small>" : "") +
         (t.annotation ? "<p>Annotation du visiteur : " + escapeHtml(t.annotation) + "</p>" : "") +
         (t.role === "assistant" && t.grounding === "no_profile_sources" ?
-          "<small>Aucune source le Livre admissible : hypothèses non vérifiées.</small>" :
+          "<small>Aucune source admissible dans ce Livre : hypothèses non vérifiées.</small>" :
           t.role === "assistant" && t.grounding === "sources_available" ?
           "<small>" + (t.sourceCount || 0) + " source(s) publiques référencée(s).</small>" : "");
+      if (t.role === "assistant" && t.sources && t.sources.length) {
+        var refs=document.createElement("div");
+        refs.className="guide-sources";
+        var intro=document.createElement("strong");
+        intro.textContent="Références publiques du Guide : ";
+        refs.appendChild(intro);
+        t.sources.forEach(function(source,index) {
+          var link=document.createElement(source.url?"a":"span");
+          if (source.url) {
+            link.href=source.url;
+            link.rel="noopener noreferrer";
+            link.target="_blank";
+          }
+          link.textContent=source.title || source.source_id;
+          link.title=source.source_id;
+          refs.appendChild(link);
+          if(index<t.sources.length-1) {
+            var separator=document.createElement("span");
+            separator.textContent=" · ";
+            refs.appendChild(separator);
+          }
+        });
+        card.appendChild(refs);
+      }
       log.appendChild(card);
     });
   }
