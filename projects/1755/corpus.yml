@@ -49,6 +49,10 @@ sources:
     path: "projects/1755/sources/notice-jean-pierre-gaffori.md"
     role: "notice-biographique-et-amont-institutionnel-1729-1755"
     required: false
+  - id: gaffori-osint-2026-11-17
+    path: "projects/1755/sources/enquete-osint-gaffori-2026-11-17.md"
+    role: "enquete-sources-archivistiques-et-transmission-universitaire"
+    required: false
   - id: projet-1755-source
     path: "research/autonomia/projet_1755.md"
     role: "dossier-source-fondateur"
